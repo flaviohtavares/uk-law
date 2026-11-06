@@ -81,17 +81,17 @@ Regulation (EC) No 801/2007 should be amended accordingly. For the sake of clari
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** Export from the United Kingdom[^key-4b0b3c47c9c72ad988b4f12d01d4c9ae] for recovery of waste listed in Annex III or IIIA to Regulation (EC) No 1013/2006, which is not prohibited under Article 36 of that Regulation, to certain countries to which Decision C(2001)107/Final of the OECD Council concerning the revision of Decision C(92)39/Final on control of transboundary movements of wastes destined for recovery operations does not apply shall be governed by the procedures set out in the Annex.
+**Article 1.** Export from the United Kingdom[^c-4b0b3c47c9c72ad988b4f12d01d4c9ae] for recovery of waste listed in Annex III or IIIA to Regulation (EC) No 1013/2006, which is not prohibited under Article 36 of that Regulation, to certain countries to which Decision C(2001)107/Final of the OECD Council concerning the revision of Decision C(92)39/Final on control of transboundary movements of wastes destined for recovery operations does not apply shall be governed by the procedures set out in the Annex.
 
-**Article 1a.**[^c000001] The replies received following a written request [^key-6d669ab5b8bdaad5ca71455a709bd593]... in accordance with the first subparagraph of Article 37 (1) of Regulation (EC) No 1013/2006 are listed in the Annex.
+**Article 1a.**[^c000001] The replies received following a written request [^c-6d669ab5b8bdaad5ca71455a709bd593]... in accordance with the first subparagraph of Article 37 (1) of Regulation (EC) No 1013/2006 are listed in the Annex.
 
 Where it is indicated in the Annex that a country, with regard to certain shipments of waste, does not prohibit them or apply the procedure of prior written notification and consent as described in Article 35 of that Regulation, Article 18 of that Regulation shall apply mutatis mutandis to such shipments.
 
 **Article 2.** Regulation (EC) No 801/2007 is repealed.
 
-**Article 3.**[^key-bda2d55bfbe1f38973af9f1fd6bbb88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-bda2d55bfbe1f38973af9f1fd6bbb88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-134f1645652489e3db31ef8d439bf10b]...
+[^c-134f1645652489e3db31ef8d439bf10b]...
 
 ## ANNEX
 
@@ -110,7 +110,7 @@ Where column (b) and column (d) are both designated for the same entry, that mea
 
 Where a particular waste or mixture of wastes is not indicated for a given country, this means that this country has not issued a sufficiently clear confirmation that this waste or mixture of wastes may be exported for recovery in that country and as to which control procedure, if any, would be followed in that country. Pursuant to Article 37(2) of Regulation (EC) No 1013/2006, the procedure of prior written notification and consent as described in Article 35 of that Regulation is applicable in such cases.[^c000004]
 
-**Afghanistan[^key-4dc386684977fd5cd6d102a41c1335ae]**
+**Afghanistan[^c-4dc386684977fd5cd6d102a41c1335ae]**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -150,7 +150,7 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^key-793ce07bc98dda1b1b0fcc7ee2136c45][^key-78cbe4d75d76cc200b615c83c169c788][^key-650cf6197b0b00b451f2a7f9f258ab88][^M_F_43079108-1a05-40b4-f298-9eaf629d8291][^key-0ea38f57683b2de18d3eb643d2baa5d7]
+[^c-793ce07bc98dda1b1b0fcc7ee2136c45][^c-78cbe4d75d76cc200b615c83c169c788][^c-650cf6197b0b00b451f2a7f9f258ab88][^M_F_43079108-1a05-40b4-f298-9eaf629d8291][^c-0ea38f57683b2de18d3eb643d2baa5d7]
 
 <table>
 <thead>
@@ -186,7 +186,7 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^key-b7cc407af240ca5a69c4107ddc686a65][^key-b7cc407af240ca5a69c4107ddc686a65][^key-8733acc386ec46426b7a31b43873e657]
+[^c-b7cc407af240ca5a69c4107ddc686a65][^c-b7cc407af240ca5a69c4107ddc686a65][^c-8733acc386ec46426b7a31b43873e657]
 
 <table>
 <thead>
@@ -208,7 +208,7 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^key-d71362faeaeedf3da3ac3447610572cd]
+[^c-d71362faeaeedf3da3ac3447610572cd]
 
 <table>
 <thead>
@@ -220,7 +220,7 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^c000005][^key-d64fc522ad047cac7e79bdf622a6ebdc]
+[^c000005][^c-d64fc522ad047cac7e79bdf622a6ebdc]
 
 <table>
 <thead>
@@ -267,7 +267,7 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^key-28ca12e066004826140457bd9729d6b2][^key-28ca12e066004826140457bd9729d6b2][^key-4a1dd6a3ba83256cfd67ff66fbc505a8][^key-e0c2a5f61cac03cf1052b9d6ac1551f0][^key-513f8e6f718f44a92280d6f5efc24b40][^key-cb5fc6654a71cf4ac07224cb6aa2f471][^key-cb5fc6654a71cf4ac07224cb6aa2f471][^key-cb5fc6654a71cf4ac07224cb6aa2f471]
+[^c-28ca12e066004826140457bd9729d6b2][^c-28ca12e066004826140457bd9729d6b2][^c-4a1dd6a3ba83256cfd67ff66fbc505a8][^c-e0c2a5f61cac03cf1052b9d6ac1551f0][^c-513f8e6f718f44a92280d6f5efc24b40][^c-cb5fc6654a71cf4ac07224cb6aa2f471][^c-cb5fc6654a71cf4ac07224cb6aa2f471][^c-cb5fc6654a71cf4ac07224cb6aa2f471]
 
 <table>
 <thead>
@@ -317,9 +317,9 @@ Where a particular waste or mixture of wastes is not indicated for a given count
 </tbody>
 </table>
 
-[^key-1695efc788448bcef77ff21d886c35b9][^key-4670e83116b77a582ac34ae1a5324b0c]
+[^c-1695efc788448bcef77ff21d886c35b9][^c-4670e83116b77a582ac34ae1a5324b0c]
 
-Bahamas[^key-de23226bee823f9748529f88fad4e84d]
+Bahamas[^c-de23226bee823f9748529f88fad4e84d]
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -370,7 +370,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-088d78ba708b121ca197c53d712ab58e][^key-3b83e94b97d147926b06bae6f9dca3f0][^key-1f58bcc5ea0bd04a420c8bd59031b619][^key-1f58bcc5ea0bd04a420c8bd59031b619][^key-1f58bcc5ea0bd04a420c8bd59031b619]
+[^c-088d78ba708b121ca197c53d712ab58e][^c-3b83e94b97d147926b06bae6f9dca3f0][^c-1f58bcc5ea0bd04a420c8bd59031b619][^c-1f58bcc5ea0bd04a420c8bd59031b619][^c-1f58bcc5ea0bd04a420c8bd59031b619]
 
 <table>
 <thead>
@@ -414,7 +414,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-0a06587f2258707a93ec58046fc35e87][^key-a418e3d75585be4a9fa41e7b93aad836][^key-3b126f11c50ad7982bc955fa46f9badb][^key-8cba62b2f742d20f4ee4ae46ff62f2ae][^key-8cba62b2f742d20f4ee4ae46ff62f2ae][^key-8cba62b2f742d20f4ee4ae46ff62f2ae]
+[^c-0a06587f2258707a93ec58046fc35e87][^c-a418e3d75585be4a9fa41e7b93aad836][^c-3b126f11c50ad7982bc955fa46f9badb][^c-8cba62b2f742d20f4ee4ae46ff62f2ae][^c-8cba62b2f742d20f4ee4ae46ff62f2ae][^c-8cba62b2f742d20f4ee4ae46ff62f2ae]
 
 <table>
 <thead>
@@ -436,7 +436,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-dc8a4710bc741bc6b83044c5042c07ed]
+[^c-dc8a4710bc741bc6b83044c5042c07ed]
 
 <table>
 <thead>
@@ -448,7 +448,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-07bc42cc862c778ede78077a41de8f33]
+[^c-07bc42cc862c778ede78077a41de8f33]
 
 <table>
 <thead>
@@ -473,7 +473,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^c000006][^key-557b33c3fb5d92d7ca7c8a9c9eaaff59]
+[^c000006][^c-557b33c3fb5d92d7ca7c8a9c9eaaff59]
 
 <table>
 <thead>
@@ -539,9 +539,9 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-caa24dbace3f37d8aa46b0fc9d6d0369][^key-c9b324f54662ae1881f2d33980fef26a][^key-14d9ad7adfc2c5ca24beeb7d72cfe892][^key-69ff53e210bbc63665b2c30f12ad3b28][^key-a703285b4ed2b22204dedc02b85b15cb][^key-a703285b4ed2b22204dedc02b85b15cb][^key-a703285b4ed2b22204dedc02b85b15cb]
+[^c-caa24dbace3f37d8aa46b0fc9d6d0369][^c-c9b324f54662ae1881f2d33980fef26a][^c-14d9ad7adfc2c5ca24beeb7d72cfe892][^c-69ff53e210bbc63665b2c30f12ad3b28][^c-a703285b4ed2b22204dedc02b85b15cb][^c-a703285b4ed2b22204dedc02b85b15cb][^c-a703285b4ed2b22204dedc02b85b15cb]
 
-**Brunei[^key-2e4b1cd0e3293739b511fc5aee74f527]**
+**Brunei[^c-2e4b1cd0e3293739b511fc5aee74f527]**
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -568,7 +568,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-2d8ff877b36aa36203c377de26c8d080]
+[^c-2d8ff877b36aa36203c377de26c8d080]
 
 <table>
 <thead>
@@ -612,7 +612,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-c6cb4277dab393f9d0e8b6681791dd6b][^key-afcb2ea90a0116d44ecfe47fb0fc9fcd][^key-dbcd17e60bff7b4aefb74647c0826796][^key-a81df49caa935d23ea460e62ae2ac147][^key-a81df49caa935d23ea460e62ae2ac147][^key-a81df49caa935d23ea460e62ae2ac147]
+[^c-c6cb4277dab393f9d0e8b6681791dd6b][^c-afcb2ea90a0116d44ecfe47fb0fc9fcd][^c-dbcd17e60bff7b4aefb74647c0826796][^c-a81df49caa935d23ea460e62ae2ac147][^c-a81df49caa935d23ea460e62ae2ac147][^c-a81df49caa935d23ea460e62ae2ac147]
 
 <table>
 <tbody>
@@ -622,7 +622,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-31bb7769bf5bd512b49a4e0ffd31d8e5]
+[^c-31bb7769bf5bd512b49a4e0ffd31d8e5]
 
 <table>
 <thead>
@@ -635,7 +635,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-3435dd06c1dbd01740101982c8e71a56]
+[^c-3435dd06c1dbd01740101982c8e71a56]
 
 <table>
 <thead>
@@ -657,7 +657,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-2a4f699ae25d6c1b97db31e22c5112db]
+[^c-2a4f699ae25d6c1b97db31e22c5112db]
 
 <table>
 <thead>
@@ -717,7 +717,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^c000007][^key-65392bc55bebd70a8af7091249d4d61b][^key-35daca8b45f120a3a5e491b456e1b43f][^key-d9d89559e17354cd3b2ac0cc55906dbb][^key-cc8903d307c88c0406d5b48be9b795ea][^key-04466c8b009cf068e7af253c5b71f27f][^key-66018a64b96383d75798c4a5c3e049ab][^key-66018a64b96383d75798c4a5c3e049ab][^key-66018a64b96383d75798c4a5c3e049ab][^key-66018a64b96383d75798c4a5c3e049ab][^key-66018a64b96383d75798c4a5c3e049ab]
+[^c000007][^c-65392bc55bebd70a8af7091249d4d61b][^c-35daca8b45f120a3a5e491b456e1b43f][^c-d9d89559e17354cd3b2ac0cc55906dbb][^c-cc8903d307c88c0406d5b48be9b795ea][^c-04466c8b009cf068e7af253c5b71f27f][^c-66018a64b96383d75798c4a5c3e049ab][^c-66018a64b96383d75798c4a5c3e049ab][^c-66018a64b96383d75798c4a5c3e049ab][^c-66018a64b96383d75798c4a5c3e049ab][^c-66018a64b96383d75798c4a5c3e049ab]
 
 <table>
 <thead>
@@ -773,7 +773,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-207e42196cab8324a0bc7defc0e80bab][^key-cd22d932414173ef28b59f85ec57470c][^key-fbe895d219e7b48ba7532415598dda22][^key-fbe895d219e7b48ba7532415598dda22][^key-fbe895d219e7b48ba7532415598dda22]
+[^c-207e42196cab8324a0bc7defc0e80bab][^c-cd22d932414173ef28b59f85ec57470c][^c-fbe895d219e7b48ba7532415598dda22][^c-fbe895d219e7b48ba7532415598dda22][^c-fbe895d219e7b48ba7532415598dda22]
 
 <table>
 <thead>
@@ -822,7 +822,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-0fbc2057b8cfab98bc229c0f1a8f4c64][^key-e166f03a8dbebee3ba4f2f9dad13b59e][^key-7f05cc0a3e3003fb342a42ad9319428a][^M_F_70b22c2e-a177-4c09-cbaa-6b6090abc509]
+[^c-0fbc2057b8cfab98bc229c0f1a8f4c64][^c-e166f03a8dbebee3ba4f2f9dad13b59e][^c-7f05cc0a3e3003fb342a42ad9319428a][^M_F_70b22c2e-a177-4c09-cbaa-6b6090abc509]
 
 <table>
 <thead>
@@ -845,7 +845,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-01dab323a2c51cd3c61007034e56dc51][^key-95e4c3f464e2171fcd22e2dc664ff3fc]
+[^c-01dab323a2c51cd3c61007034e56dc51][^c-95e4c3f464e2171fcd22e2dc664ff3fc]
 
 <table>
 <thead>
@@ -871,7 +871,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-b78b89f789e01e0483cd7d2b62024df0]
+[^c-b78b89f789e01e0483cd7d2b62024df0]
 
 <table>
 <thead>
@@ -905,7 +905,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-248bb66558afa8720a0919846f026656]
+[^c-248bb66558afa8720a0919846f026656]
 
 <table>
 <thead>
@@ -917,7 +917,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-166606ddf226df6a622d5a66213cd42f]
+[^c-166606ddf226df6a622d5a66213cd42f]
 
 <table>
 <thead>
@@ -930,7 +930,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-1f34d4b4eac7048ef7df94051b56b6d6]
+[^c-1f34d4b4eac7048ef7df94051b56b6d6]
 
 <table>
 <thead>
@@ -949,7 +949,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-20a49a8b41df85df8430a9ee60edc32c][^key-81dd1c715ca0ab8186bd5ab9f88563f3]
+[^c-20a49a8b41df85df8430a9ee60edc32c][^c-81dd1c715ca0ab8186bd5ab9f88563f3]
 
 <table>
 <thead>
@@ -962,7 +962,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-b9f78a474e100e402da3c7812c06b50d]
+[^c-b9f78a474e100e402da3c7812c06b50d]
 
 <table>
 <thead>
@@ -975,7 +975,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-ff1bb8246a209052fd4e82b4cbc4f86f]
+[^c-ff1bb8246a209052fd4e82b4cbc4f86f]
 
 <table>
 <thead>
@@ -987,7 +987,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-f235cd5608fac2fe7faf99b5ec1b77ba]
+[^c-f235cd5608fac2fe7faf99b5ec1b77ba]
 
 <table>
 <thead>
@@ -1000,7 +1000,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-3c9c613fc0c3b460afc320b7f50be3a9]
+[^c-3c9c613fc0c3b460afc320b7f50be3a9]
 
 <table>
 <thead>
@@ -1012,7 +1012,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-8cf998decc99b5ca1b26c1aa205aa9e0]
+[^c-8cf998decc99b5ca1b26c1aa205aa9e0]
 
 <table>
 <thead>
@@ -1024,7 +1024,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-ffcee9d9dc66e8055ed76bdcda8e464f]
+[^c-ffcee9d9dc66e8055ed76bdcda8e464f]
 
 <table>
 <thead>
@@ -1067,7 +1067,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-d909db89f230f1b34f42a7a9b86bb92e][^key-5fa9758894b53373333c44cc7a804dbc][^key-cd30350a5d689414f3cd55753e2df8ca][^key-cd30350a5d689414f3cd55753e2df8ca][^key-cd30350a5d689414f3cd55753e2df8ca]
+[^c-d909db89f230f1b34f42a7a9b86bb92e][^c-5fa9758894b53373333c44cc7a804dbc][^c-cd30350a5d689414f3cd55753e2df8ca][^c-cd30350a5d689414f3cd55753e2df8ca][^c-cd30350a5d689414f3cd55753e2df8ca]
 
 <table>
 <thead>
@@ -1080,7 +1080,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-295044cbe542c09f905aeb05246724a7]
+[^c-295044cbe542c09f905aeb05246724a7]
 
 <table>
 <tbody>
@@ -1090,7 +1090,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-ad8b23a296c3b882a779892cd4351add]
+[^c-ad8b23a296c3b882a779892cd4351add]
 
 <table>
 <thead>
@@ -1102,7 +1102,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-9c8a03e0b09246daa8d15d30d2fc5e2b]
+[^c-9c8a03e0b09246daa8d15d30d2fc5e2b]
 
 <table>
 <thead>
@@ -1159,7 +1159,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-f6332d04dbeae8f3294941a73ac40cab][^key-51bbf96ea67e42249a4bd141ad2731fc]
+[^c-f6332d04dbeae8f3294941a73ac40cab][^c-51bbf96ea67e42249a4bd141ad2731fc]
 
 <table>
 <thead>
@@ -1172,7 +1172,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^c000009][^key-32fc0077f23e8d2a5abc340697567518]
+[^c000009][^c-32fc0077f23e8d2a5abc340697567518]
 
 <table>
 <thead>
@@ -1213,7 +1213,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-87a61181bb8cfba4b53ff47d80ed7a9d]
+[^c-87a61181bb8cfba4b53ff47d80ed7a9d]
 
 <table>
 <thead>
@@ -1252,7 +1252,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^c000010][^key-5db51e2ea3695302105ac89d49e319e1][^key-fd1a5869a1168e29a580bc4790399bb4][^key-8fb17763d36d45e416317c970a50d4bc][^key-e201ad2bc9a9d83c0f292dc82cdfde44]
+[^c000010][^c-5db51e2ea3695302105ac89d49e319e1][^c-fd1a5869a1168e29a580bc4790399bb4][^c-8fb17763d36d45e416317c970a50d4bc][^c-e201ad2bc9a9d83c0f292dc82cdfde44]
 
 <table>
 <tbody>
@@ -1262,7 +1262,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-9098a8ee3685248ab4305a675679db06]
+[^c-9098a8ee3685248ab4305a675679db06]
 
 |  |
 | --- |
@@ -1310,7 +1310,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-929907cabecea4a02c53619b92f2f7c9][^key-929907cabecea4a02c53619b92f2f7c9][^key-929907cabecea4a02c53619b92f2f7c9]
+[^c-929907cabecea4a02c53619b92f2f7c9][^c-929907cabecea4a02c53619b92f2f7c9][^c-929907cabecea4a02c53619b92f2f7c9]
 
 <table>
 <thead>
@@ -1323,7 +1323,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-f2960378bacb9451927391131395c67a]
+[^c-f2960378bacb9451927391131395c67a]
 
 <table>
 <thead>
@@ -1335,7 +1335,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-8a78584d65230434ad24aa5a81c2c58f]
+[^c-8a78584d65230434ad24aa5a81c2c58f]
 
 <table>
 <thead>
@@ -1370,7 +1370,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-b803d3118e39da4b6e9e2e60495ff927][^key-b803d3118e39da4b6e9e2e60495ff927][^key-b8a63a0e8a8cafb584fa096ea9f7be20]
+[^c-b803d3118e39da4b6e9e2e60495ff927][^c-b803d3118e39da4b6e9e2e60495ff927][^c-b8a63a0e8a8cafb584fa096ea9f7be20]
 
 <table>
 <thead>
@@ -1409,7 +1409,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-4b202f45447ff5fccb4cd38601cf9012][^key-4b202f45447ff5fccb4cd38601cf9012][^key-4b202f45447ff5fccb4cd38601cf9012][^key-9fd8ea65689b4ff322bb82521c713e0e][^key-9edbfba6b10d45f278ae6688daa33d12][^key-e7284c41405a5ff4334fa45268633691][^key-f0a7c66020a1b6ca36e20155bec2cf14][^key-9dd91b57d98bf1251054ec0f39edaa25][^key-ab888bb9c4196b78b20a3824d48eee67]
+[^c-4b202f45447ff5fccb4cd38601cf9012][^c-4b202f45447ff5fccb4cd38601cf9012][^c-4b202f45447ff5fccb4cd38601cf9012][^c-9fd8ea65689b4ff322bb82521c713e0e][^c-9edbfba6b10d45f278ae6688daa33d12][^c-e7284c41405a5ff4334fa45268633691][^c-f0a7c66020a1b6ca36e20155bec2cf14][^c-9dd91b57d98bf1251054ec0f39edaa25][^c-ab888bb9c4196b78b20a3824d48eee67]
 
 <table>
 <thead>
@@ -1429,7 +1429,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-2fa746cba00afdf7f17729b7b3f34760]
+[^c-2fa746cba00afdf7f17729b7b3f34760]
 
 |  |
 | --- |
@@ -1445,7 +1445,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-6784065a5f89ebd6c24311af0dfbabfb]
+[^c-6784065a5f89ebd6c24311af0dfbabfb]
 
 <table>
 <thead>
@@ -1503,7 +1503,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-214a4eab21218734f33b210af33a0f6b][^key-dcea06033c38569f64ef0afa59b03236]
+[^c-214a4eab21218734f33b210af33a0f6b][^c-dcea06033c38569f64ef0afa59b03236]
 
 <table>
 <thead>
@@ -1533,7 +1533,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-785d55176a2fefd8f104b863d05d8e3d]
+[^c-785d55176a2fefd8f104b863d05d8e3d]
 
 <table>
 <thead>
@@ -1553,7 +1553,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-42386ff696a7490289cb7003e4110482]
+[^c-42386ff696a7490289cb7003e4110482]
 
 <table>
 <thead>
@@ -1575,7 +1575,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-dc450fa97f7a0483ef577125f67d4544][^key-fb05bfcedb84113bfcfd43f0259010bc]
+[^c-dc450fa97f7a0483ef577125f67d4544][^c-fb05bfcedb84113bfcfd43f0259010bc]
 
 <table>
 <thead>
@@ -1588,7 +1588,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-1a3917c936f4e0b2fa51c462caa7606c]
+[^c-1a3917c936f4e0b2fa51c462caa7606c]
 
 <table>
 <thead>
@@ -1600,7 +1600,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-5dd778a08b5b211b76eed47f2c6c0dba]
+[^c-5dd778a08b5b211b76eed47f2c6c0dba]
 
 <table>
 <thead>
@@ -1632,7 +1632,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-739f77ea347663a6799c62f0805fe6c6][^key-863903d07511bbb412a04c3ea7d36ec7]
+[^c-739f77ea347663a6799c62f0805fe6c6][^c-863903d07511bbb412a04c3ea7d36ec7]
 
 <table>
 <tbody>
@@ -1642,7 +1642,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-577ef28fd1cb66598f5e87f46070196a]
+[^c-577ef28fd1cb66598f5e87f46070196a]
 
 <table>
 <tbody>
@@ -1663,7 +1663,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-a13d2b2f9b207bda44d4714e6e44e194]
+[^c-a13d2b2f9b207bda44d4714e6e44e194]
 
 <table>
 <thead>
@@ -1689,7 +1689,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-8b573158188028f023ec2745b31036c5][^key-53a7ddf1932ee87e622fea74cb655040]
+[^c-8b573158188028f023ec2745b31036c5][^c-53a7ddf1932ee87e622fea74cb655040]
 
 |  |
 | --- |
@@ -1730,7 +1730,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-ee4893e9711fa3e31f5a11766b54e2e2][^key-ad08fe1595f8113e7c60d85598d502f4][^key-3e271f7ddadfadc236056c4c4ed762ce][^key-3e271f7ddadfadc236056c4c4ed762ce][^key-3e271f7ddadfadc236056c4c4ed762ce][^key-3e271f7ddadfadc236056c4c4ed762ce]
+[^c-ee4893e9711fa3e31f5a11766b54e2e2][^c-ad08fe1595f8113e7c60d85598d502f4][^c-3e271f7ddadfadc236056c4c4ed762ce][^c-3e271f7ddadfadc236056c4c4ed762ce][^c-3e271f7ddadfadc236056c4c4ed762ce][^c-3e271f7ddadfadc236056c4c4ed762ce]
 
 <table>
 <thead>
@@ -1744,7 +1744,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-ea42d1e6ec2124d6383184f655852e34]
+[^c-ea42d1e6ec2124d6383184f655852e34]
 
 <table>
 <thead>
@@ -1793,7 +1793,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-bbf643f618bd9035b9cf401f194e6165][^key-604bb730b075ceed39669b71f6dd1dde][^key-ae78f242a8027a7ff3f9f41ac6a7b845][^key-a2cf5b9cfd6467bd8bbdd9bae237f75d][^key-4d7fcb31ce81bccd84e2ef034854c643][^key-4d7fcb31ce81bccd84e2ef034854c643][^key-4d7fcb31ce81bccd84e2ef034854c643]
+[^c-bbf643f618bd9035b9cf401f194e6165][^c-604bb730b075ceed39669b71f6dd1dde][^c-ae78f242a8027a7ff3f9f41ac6a7b845][^c-a2cf5b9cfd6467bd8bbdd9bae237f75d][^c-4d7fcb31ce81bccd84e2ef034854c643][^c-4d7fcb31ce81bccd84e2ef034854c643][^c-4d7fcb31ce81bccd84e2ef034854c643]
 
 <table>
 <tbody>
@@ -1803,7 +1803,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-2c1c1af872d7c7752c448cd48e588128]
+[^c-2c1c1af872d7c7752c448cd48e588128]
 
 <table>
 <thead>
@@ -1815,7 +1815,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-967ca767249664844d6256f04979c8b3]
+[^c-967ca767249664844d6256f04979c8b3]
 
 <table>
 <thead>
@@ -1827,7 +1827,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-31a90d90200a7718f26267e6fa9642ea]
+[^c-31a90d90200a7718f26267e6fa9642ea]
 
 <table>
 <thead>
@@ -1891,7 +1891,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-428123f4125cff5ca56aa38360bc6430][^key-f00247024e08b315fa6670e7dbd82794][^key-3992ed525ba10ad967dd5067af041161][^key-3992ed525ba10ad967dd5067af041161][^key-3992ed525ba10ad967dd5067af041161]
+[^c-428123f4125cff5ca56aa38360bc6430][^c-f00247024e08b315fa6670e7dbd82794][^c-3992ed525ba10ad967dd5067af041161][^c-3992ed525ba10ad967dd5067af041161][^c-3992ed525ba10ad967dd5067af041161]
 
 <table>
 <thead>
@@ -1903,7 +1903,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-79a3e7b23f8a3ace3d9f7956f62ff32c]
+[^c-79a3e7b23f8a3ace3d9f7956f62ff32c]
 
 <table>
 <tbody>
@@ -1913,7 +1913,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-9e14ca9e15aca40d9b8177de5e1424b5]
+[^c-9e14ca9e15aca40d9b8177de5e1424b5]
 
 <table>
 <thead>
@@ -1943,7 +1943,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-b84492a9ba0c1def9539049b29b9ee41][^key-e52f8c68729a7229849b50c84035b460]
+[^c-b84492a9ba0c1def9539049b29b9ee41][^c-e52f8c68729a7229849b50c84035b460]
 
 <table>
 <thead>
@@ -1955,7 +1955,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-5c6a92b74d3114f2ab4bef1b5ae43176]
+[^c-5c6a92b74d3114f2ab4bef1b5ae43176]
 
 <table>
 <thead>
@@ -1985,7 +1985,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-14e71ff94f0b14f1e3daccee72983c93]
+[^c-14e71ff94f0b14f1e3daccee72983c93]
 
 <table>
 <thead>
@@ -2006,7 +2006,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-36ae666ee6be884a2bc7a4129ecb5114][^key-03a7bc9e74d31d733f3b715d5dadf717]
+[^c-36ae666ee6be884a2bc7a4129ecb5114][^c-03a7bc9e74d31d733f3b715d5dadf717]
 
 <table>
 <thead>
@@ -2018,7 +2018,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-0fe19dd926223efd0a392ee93ca73009]
+[^c-0fe19dd926223efd0a392ee93ca73009]
 
 <table>
 <thead>
@@ -2041,7 +2041,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-e63baf77af1ca32bb0970f6dd15ba793][^key-5fa50a2fee5830676195bc69148fc029]
+[^c-e63baf77af1ca32bb0970f6dd15ba793][^c-5fa50a2fee5830676195bc69148fc029]
 
 <table>
 <thead>
@@ -2054,7 +2054,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-d2ef1a66601e4606370d32295d224d1d]
+[^c-d2ef1a66601e4606370d32295d224d1d]
 
 <table>
 <thead>
@@ -2084,7 +2084,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-1ff267be4982634cbe412b8e616a4f1a]
+[^c-1ff267be4982634cbe412b8e616a4f1a]
 
 <table>
 <tbody>
@@ -2133,7 +2133,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-fabe5caf1e2df0c3569d199b5b57f828][^key-f6e6c2d84f9915dfcb72b78b813c15a7][^key-2d2ce0ff9fa06b94d48f2413f64e7a37]
+[^c-fabe5caf1e2df0c3569d199b5b57f828][^c-f6e6c2d84f9915dfcb72b78b813c15a7][^c-2d2ce0ff9fa06b94d48f2413f64e7a37]
 
 <table>
 <thead>
@@ -2146,7 +2146,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-03da60708083af19216baab89a06123b]
+[^c-03da60708083af19216baab89a06123b]
 
 <table>
 <thead>
@@ -2198,7 +2198,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-05828dd6c8392b5c2f84478ad903ca00][^key-05a78da2d9d370ccb7a3b34bf4a516c1][^key-88d0a2f3cf598feedb31bd1243661209][^key-28d313847bb438643949a58fad7ea757][^key-28d313847bb438643949a58fad7ea757][^key-28d313847bb438643949a58fad7ea757]
+[^c-05828dd6c8392b5c2f84478ad903ca00][^c-05a78da2d9d370ccb7a3b34bf4a516c1][^c-88d0a2f3cf598feedb31bd1243661209][^c-28d313847bb438643949a58fad7ea757][^c-28d313847bb438643949a58fad7ea757][^c-28d313847bb438643949a58fad7ea757]
 
 <table>
 <thead>
@@ -2220,7 +2220,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-997d686bdb28ff4f2c57a64f9fe877ae]
+[^c-997d686bdb28ff4f2c57a64f9fe877ae]
 
 <table>
 <thead>
@@ -2233,7 +2233,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-c6809a3372aad31902076eb2217603d8]
+[^c-c6809a3372aad31902076eb2217603d8]
 
 <table>
 <thead>
@@ -2270,7 +2270,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-5eccc65c3c5c6d4e71a7da977a318975][^key-a540333f8b67c26972045eac1a757edc][^key-d6d9132e2413517ca7999a818cefc6d0][^key-d6d9132e2413517ca7999a818cefc6d0][^key-d6d9132e2413517ca7999a818cefc6d0][^key-d6d9132e2413517ca7999a818cefc6d0]
+[^c-5eccc65c3c5c6d4e71a7da977a318975][^c-a540333f8b67c26972045eac1a757edc][^c-d6d9132e2413517ca7999a818cefc6d0][^c-d6d9132e2413517ca7999a818cefc6d0][^c-d6d9132e2413517ca7999a818cefc6d0][^c-d6d9132e2413517ca7999a818cefc6d0]
 
 <table>
 <thead>
@@ -2295,7 +2295,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-836fe18c36ef066d3270dc6e241708bd][^key-fa80413b8451cb4a1eeef7a441998ab7]
+[^c-836fe18c36ef066d3270dc6e241708bd][^c-fa80413b8451cb4a1eeef7a441998ab7]
 
 <table>
 <thead>
@@ -2335,7 +2335,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-f7e7f2e091cd845d54461db3b3bfee1f][^key-723eb28c13515de36bf498cd8a652fcc]
+[^c-f7e7f2e091cd845d54461db3b3bfee1f][^c-723eb28c13515de36bf498cd8a652fcc]
 
 <table>
 <thead>
@@ -2377,7 +2377,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-72d82f9cc8db2518fdc52333f405e192][^key-e45b7a63b6d64db8928b68064dc627d1][^key-a1d8ff64b118cdd5209cb33e0a74407e]
+[^c-72d82f9cc8db2518fdc52333f405e192][^c-e45b7a63b6d64db8928b68064dc627d1][^c-a1d8ff64b118cdd5209cb33e0a74407e]
 
 <table>
 <thead>
@@ -2389,7 +2389,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-89f9a6c68963fae40d5ad60bf955b5b9]
+[^c-89f9a6c68963fae40d5ad60bf955b5b9]
 
 <table>
 <thead>
@@ -2401,7 +2401,7 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 </tbody>
 </table>
 
-[^key-64f23d87f9be5859d734280409d43cbf]
+[^c-64f23d87f9be5859d734280409d43cbf]
 
 <table>
 <thead>
@@ -2419,15 +2419,15 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 
 [^f00002]: Footnote: [OJ L 179, 7.7.2007, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.179.01.0006.01.ENG).
 
-[^key-4b0b3c47c9c72ad988b4f12d01d4c9ae]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1418/article/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b0b3c47c9c72ad988b4f12d01d4c9ae]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1418/article/1) inserted (31.12.2020) by [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EC) No 967/2009 of 15 October 2009 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2009/967).
 
-[^key-6d669ab5b8bdaad5ca71455a709bd593]: Textual amendment: Words in [Art. 1a](https://www.legislation.gov.uk/eur/2007/1418/article/1a) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(3)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d669ab5b8bdaad5ca71455a709bd593]: Textual amendment: Words in [Art. 1a](https://www.legislation.gov.uk/eur/2007/1418/article/1a) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(3)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bda2d55bfbe1f38973af9f1fd6bbb88a]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2007/1418/article/3) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bda2d55bfbe1f38973af9f1fd6bbb88a]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2007/1418/article/3) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-134f1645652489e3db31ef8d439bf10b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1418/signature) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-134f1645652489e3db31ef8d439bf10b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1418/signature) omitted (31.12.2020) by virtue of [The International Waste Shipments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/590)](https://www.legislation.gov.uk/uksi/2019/590), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2019/590/regulation/2/2), [110(4)](https://www.legislation.gov.uk/uksi/2019/590/regulation/110/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EC) No 740/2008 of 29 July 2008 amending Regulation (EC) No 1418/2007 as regards the procedures to be followed for export of waste to certain countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/740).
 
@@ -2435,344 +2435,344 @@ Bahamas[^key-de23226bee823f9748529f88fad4e84d]
 
 [^c000004]: Textual amendment: Inserted by [Commission Regulation (EU) No 674/2012 of 23 July 2012 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/674).
 
-[^key-4dc386684977fd5cd6d102a41c1335ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/1)
+[^c-4dc386684977fd5cd6d102a41c1335ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/1)
 
-[^key-793ce07bc98dda1b1b0fcc7ee2136c45]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/2)
+[^c-793ce07bc98dda1b1b0fcc7ee2136c45]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/2)
 
-[^key-78cbe4d75d76cc200b615c83c169c788]: Textual amendment: Word in Annex entry Albania substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/a/i)
+[^c-78cbe4d75d76cc200b615c83c169c788]: Textual amendment: Word in Annex entry Albania substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/a/i)
 
-[^key-650cf6197b0b00b451f2a7f9f258ab88]: Textual amendment: Word in Annex entry Albania substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/b)
+[^c-650cf6197b0b00b451f2a7f9f258ab88]: Textual amendment: Word in Annex entry Albania substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/b)
 
 [^M_F_43079108-1a05-40b4-f298-9eaf629d8291]: Textual amendment: Word in Annex entry Albania omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/c)
 
-[^key-0ea38f57683b2de18d3eb643d2baa5d7]: Textual amendment: Word in Annex entry Albania omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/a/ii)
+[^c-0ea38f57683b2de18d3eb643d2baa5d7]: Textual amendment: Word in Annex entry Albania omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/1/a/ii)
 
-[^key-b7cc407af240ca5a69c4107ddc686a65]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/3)
+[^c-b7cc407af240ca5a69c4107ddc686a65]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/3)
 
-[^key-8733acc386ec46426b7a31b43873e657]: Textual amendment: Words in Annex entry Algeria substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/2)
+[^c-8733acc386ec46426b7a31b43873e657]: Textual amendment: Words in Annex entry Algeria substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/2)
 
-[^key-d71362faeaeedf3da3ac3447610572cd]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/4)
+[^c-d71362faeaeedf3da3ac3447610572cd]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/4)
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EU) No 733/2014 of 24 June 2014 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/733).
 
-[^key-d64fc522ad047cac7e79bdf622a6ebdc]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/5)
+[^c-d64fc522ad047cac7e79bdf622a6ebdc]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/5)
 
-[^key-28ca12e066004826140457bd9729d6b2]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/6/a)
+[^c-28ca12e066004826140457bd9729d6b2]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/6/a)
 
-[^key-4a1dd6a3ba83256cfd67ff66fbc505a8]: Textual amendment: Words in Annex entry Argentina substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/a/i)
+[^c-4a1dd6a3ba83256cfd67ff66fbc505a8]: Textual amendment: Words in Annex entry Argentina substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/a/i)
 
-[^key-e0c2a5f61cac03cf1052b9d6ac1551f0]: Textual amendment: Word in Annex entry Argentina substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/b)
+[^c-e0c2a5f61cac03cf1052b9d6ac1551f0]: Textual amendment: Word in Annex entry Argentina substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/b)
 
-[^key-513f8e6f718f44a92280d6f5efc24b40]: Textual amendment: Word in Annex entry Argentina omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/a/ii)
+[^c-513f8e6f718f44a92280d6f5efc24b40]: Textual amendment: Word in Annex entry Argentina omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/3/a/ii)
 
-[^key-cb5fc6654a71cf4ac07224cb6aa2f471]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/6/b)
+[^c-cb5fc6654a71cf4ac07224cb6aa2f471]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/6/b)
 
-[^key-1695efc788448bcef77ff21d886c35b9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/7)
+[^c-1695efc788448bcef77ff21d886c35b9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/7)
 
-[^key-4670e83116b77a582ac34ae1a5324b0c]: Textual amendment: Words in Annex entry Azerbaijan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/4)
+[^c-4670e83116b77a582ac34ae1a5324b0c]: Textual amendment: Words in Annex entry Azerbaijan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/4)
 
-[^key-de23226bee823f9748529f88fad4e84d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/8)
+[^c-de23226bee823f9748529f88fad4e84d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/8)
 
-[^key-088d78ba708b121ca197c53d712ab58e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/9/a)
+[^c-088d78ba708b121ca197c53d712ab58e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/9/a)
 
-[^key-3b83e94b97d147926b06bae6f9dca3f0]: Textual amendment: Words in Annex entry Bangladesh substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/5)
+[^c-3b83e94b97d147926b06bae6f9dca3f0]: Textual amendment: Words in Annex entry Bangladesh substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/5)
 
-[^key-1f58bcc5ea0bd04a420c8bd59031b619]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/9/b)
+[^c-1f58bcc5ea0bd04a420c8bd59031b619]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/9/b)
 
-[^key-0a06587f2258707a93ec58046fc35e87]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/a/i)
+[^c-0a06587f2258707a93ec58046fc35e87]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/a/i)
 
-[^key-a418e3d75585be4a9fa41e7b93aad836]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/a/ii)
+[^c-a418e3d75585be4a9fa41e7b93aad836]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/a/ii)
 
-[^key-3b126f11c50ad7982bc955fa46f9badb]: Textual amendment: Words in Annex entry Belarus substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/6)
+[^c-3b126f11c50ad7982bc955fa46f9badb]: Textual amendment: Words in Annex entry Belarus substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/6)
 
-[^key-8cba62b2f742d20f4ee4ae46ff62f2ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/b)
+[^c-8cba62b2f742d20f4ee4ae46ff62f2ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 10(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/10/b)
 
-[^key-dc8a4710bc741bc6b83044c5042c07ed]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/11)
+[^c-dc8a4710bc741bc6b83044c5042c07ed]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/11)
 
-[^key-07bc42cc862c778ede78077a41de8f33]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/12)
+[^c-07bc42cc862c778ede78077a41de8f33]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/12)
 
 [^c000006]: Textual amendment: Substituted by [Commission Regulation (EU) No 661/2011 of 8 July 2011 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/661).
 
-[^key-557b33c3fb5d92d7ca7c8a9c9eaaff59]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/13)
+[^c-557b33c3fb5d92d7ca7c8a9c9eaaff59]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/13)
 
-[^key-caa24dbace3f37d8aa46b0fc9d6d0369]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(a)(i)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/a/i)
+[^c-caa24dbace3f37d8aa46b0fc9d6d0369]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(a)(i)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/a/i)
 
-[^key-c9b324f54662ae1881f2d33980fef26a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/a/ii)
+[^c-c9b324f54662ae1881f2d33980fef26a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/a/ii)
 
-[^key-14d9ad7adfc2c5ca24beeb7d72cfe892]: Textual amendment: Words in Annex entry Brazil substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/7/a)
+[^c-14d9ad7adfc2c5ca24beeb7d72cfe892]: Textual amendment: Words in Annex entry Brazil substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/7/a)
 
-[^key-69ff53e210bbc63665b2c30f12ad3b28]: Textual amendment: Word in Annex entry Brazil substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/7/b)
+[^c-69ff53e210bbc63665b2c30f12ad3b28]: Textual amendment: Word in Annex entry Brazil substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/7/b)
 
-[^key-a703285b4ed2b22204dedc02b85b15cb]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/b)
+[^c-a703285b4ed2b22204dedc02b85b15cb]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/14/b)
 
-[^key-2e4b1cd0e3293739b511fc5aee74f527]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/15)
+[^c-2e4b1cd0e3293739b511fc5aee74f527]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/15)
 
-[^key-2d8ff877b36aa36203c377de26c8d080]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/16)
+[^c-2d8ff877b36aa36203c377de26c8d080]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/16)
 
-[^key-c6cb4277dab393f9d0e8b6681791dd6b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/17/a)
+[^c-c6cb4277dab393f9d0e8b6681791dd6b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/17/a)
 
-[^key-afcb2ea90a0116d44ecfe47fb0fc9fcd]: Textual amendment: Words in Annex entry Cambodia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/8/a)
+[^c-afcb2ea90a0116d44ecfe47fb0fc9fcd]: Textual amendment: Words in Annex entry Cambodia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/8/a)
 
-[^key-dbcd17e60bff7b4aefb74647c0826796]: Textual amendment: Words in Annex entry Cambodia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/8/b)
+[^c-dbcd17e60bff7b4aefb74647c0826796]: Textual amendment: Words in Annex entry Cambodia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/8/b)
 
-[^key-a81df49caa935d23ea460e62ae2ac147]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/17/b)
+[^c-a81df49caa935d23ea460e62ae2ac147]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/17/b)
 
-[^key-31bb7769bf5bd512b49a4e0ffd31d8e5]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/18)
+[^c-31bb7769bf5bd512b49a4e0ffd31d8e5]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/18)
 
-[^key-3435dd06c1dbd01740101982c8e71a56]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/19)
+[^c-3435dd06c1dbd01740101982c8e71a56]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/19)
 
-[^key-2a4f699ae25d6c1b97db31e22c5112db]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/20)
+[^c-2a4f699ae25d6c1b97db31e22c5112db]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/20)
 
 [^c000007]: Textual amendment: Substituted by [Commission Regulation (EU) No 674/2012 of 23 July 2012 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/674).
 
-[^key-65392bc55bebd70a8af7091249d4d61b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/21/a)
+[^c-65392bc55bebd70a8af7091249d4d61b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/21/a)
 
-[^key-35daca8b45f120a3a5e491b456e1b43f]: Textual amendment: Words in Annex entry China substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/a/i)
+[^c-35daca8b45f120a3a5e491b456e1b43f]: Textual amendment: Words in Annex entry China substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/a/i)
 
-[^key-d9d89559e17354cd3b2ac0cc55906dbb]: Textual amendment: Word in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/b/i)
+[^c-d9d89559e17354cd3b2ac0cc55906dbb]: Textual amendment: Word in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/b/i)
 
-[^key-cc8903d307c88c0406d5b48be9b795ea]: Textual amendment: Words in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/a/ii)
+[^c-cc8903d307c88c0406d5b48be9b795ea]: Textual amendment: Words in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/a/ii)
 
-[^key-04466c8b009cf068e7af253c5b71f27f]: Textual amendment: Words in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/b/ii)
+[^c-04466c8b009cf068e7af253c5b71f27f]: Textual amendment: Words in Annex entry China omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/9/b/ii)
 
-[^key-66018a64b96383d75798c4a5c3e049ab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/21/b)
+[^c-66018a64b96383d75798c4a5c3e049ab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/21/b)
 
-[^key-207e42196cab8324a0bc7defc0e80bab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/22/a)
+[^c-207e42196cab8324a0bc7defc0e80bab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/22/a)
 
-[^key-cd22d932414173ef28b59f85ec57470c]: Textual amendment: Words in Annex entry Chinese Taipei substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/10)
+[^c-cd22d932414173ef28b59f85ec57470c]: Textual amendment: Words in Annex entry Chinese Taipei substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/10)
 
-[^key-fbe895d219e7b48ba7532415598dda22]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/22/b)
+[^c-fbe895d219e7b48ba7532415598dda22]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/22/b)
 
-[^key-0fbc2057b8cfab98bc229c0f1a8f4c64]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/23)
+[^c-0fbc2057b8cfab98bc229c0f1a8f4c64]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/23)
 
-[^key-e166f03a8dbebee3ba4f2f9dad13b59e]: Textual amendment: Word in Annex entry Colombia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 11(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/11/a/i)
+[^c-e166f03a8dbebee3ba4f2f9dad13b59e]: Textual amendment: Word in Annex entry Colombia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 11(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/11/a/i)
 
-[^key-7f05cc0a3e3003fb342a42ad9319428a]: Textual amendment: Word in Annex entry Colombia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 11(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/11/a/ii)
+[^c-7f05cc0a3e3003fb342a42ad9319428a]: Textual amendment: Word in Annex entry Colombia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 11(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/11/a/ii)
 
 [^M_F_70b22c2e-a177-4c09-cbaa-6b6090abc509]: Textual amendment: Word in Annex entry Colombia omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/11/b)
 
-[^key-01dab323a2c51cd3c61007034e56dc51]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/24)
+[^c-01dab323a2c51cd3c61007034e56dc51]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/24)
 
-[^key-95e4c3f464e2171fcd22e2dc664ff3fc]: Textual amendment: Words in Annex entry Costa Rica substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/12)
+[^c-95e4c3f464e2171fcd22e2dc664ff3fc]: Textual amendment: Words in Annex entry Costa Rica substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/12)
 
 [^c000008]: Textual amendment: Deleted by [Commission Regulation (EU) No 519/2013 of 21 February 2013 adapting certain regulations and decisions in the fields of free movement of goods, freedom of movement for persons, right of establishment and freedom to provide services, company law, competition policy, agriculture, food safety, veterinary and phytosanitary policy, fisheries, transport policy, energy, taxation, statistics, social policy and employment, environment, customs union, external relations, and foreign, security and defence policy, by reason of the accession of Croatia](https://www.legislation.gov.uk/eur/2013/519).
 
-[^key-b78b89f789e01e0483cd7d2b62024df0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/25)
+[^c-b78b89f789e01e0483cd7d2b62024df0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/25)
 
-[^key-248bb66558afa8720a0919846f026656]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/26)
+[^c-248bb66558afa8720a0919846f026656]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/26)
 
-[^key-166606ddf226df6a622d5a66213cd42f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/27)
+[^c-166606ddf226df6a622d5a66213cd42f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/27)
 
-[^key-1f34d4b4eac7048ef7df94051b56b6d6]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/28)
+[^c-1f34d4b4eac7048ef7df94051b56b6d6]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/28)
 
-[^key-20a49a8b41df85df8430a9ee60edc32c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/29)
+[^c-20a49a8b41df85df8430a9ee60edc32c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/29)
 
-[^key-81dd1c715ca0ab8186bd5ab9f88563f3]: Textual amendment: Words in Annex entry Egypt substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/13)
+[^c-81dd1c715ca0ab8186bd5ab9f88563f3]: Textual amendment: Words in Annex entry Egypt substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/13)
 
-[^key-b9f78a474e100e402da3c7812c06b50d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/30)
+[^c-b9f78a474e100e402da3c7812c06b50d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/30)
 
-[^key-ff1bb8246a209052fd4e82b4cbc4f86f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/31)
+[^c-ff1bb8246a209052fd4e82b4cbc4f86f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/31)
 
-[^key-f235cd5608fac2fe7faf99b5ec1b77ba]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/32)
+[^c-f235cd5608fac2fe7faf99b5ec1b77ba]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/32)
 
-[^key-3c9c613fc0c3b460afc320b7f50be3a9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/33)
+[^c-3c9c613fc0c3b460afc320b7f50be3a9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/33)
 
-[^key-8cf998decc99b5ca1b26c1aa205aa9e0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/34)
+[^c-8cf998decc99b5ca1b26c1aa205aa9e0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/34)
 
-[^key-ffcee9d9dc66e8055ed76bdcda8e464f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/35)
+[^c-ffcee9d9dc66e8055ed76bdcda8e464f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/35)
 
-[^key-d909db89f230f1b34f42a7a9b86bb92e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/36/a)
+[^c-d909db89f230f1b34f42a7a9b86bb92e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/36/a)
 
-[^key-5fa9758894b53373333c44cc7a804dbc]: Textual amendment: Words in [Annex entry Georgia](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/14)
+[^c-5fa9758894b53373333c44cc7a804dbc]: Textual amendment: Words in [Annex entry Georgia](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/14)
 
-[^key-cd30350a5d689414f3cd55753e2df8ca]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 36(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/36/b)
+[^c-cd30350a5d689414f3cd55753e2df8ca]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 36(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/36/b)
 
-[^key-295044cbe542c09f905aeb05246724a7]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/37)
+[^c-295044cbe542c09f905aeb05246724a7]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/37)
 
-[^key-ad8b23a296c3b882a779892cd4351add]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/38)
+[^c-ad8b23a296c3b882a779892cd4351add]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/38)
 
-[^key-9c8a03e0b09246daa8d15d30d2fc5e2b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/39)
+[^c-9c8a03e0b09246daa8d15d30d2fc5e2b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/39)
 
-[^key-f6332d04dbeae8f3294941a73ac40cab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/40)
+[^c-f6332d04dbeae8f3294941a73ac40cab]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/40)
 
-[^key-51bbf96ea67e42249a4bd141ad2731fc]: Textual amendment: Words in [Annex entry Hong Kong (China)](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/15)
+[^c-51bbf96ea67e42249a4bd141ad2731fc]: Textual amendment: Words in [Annex entry Hong Kong (China)](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/15)
 
 [^c000009]: Textual amendment: Substituted by [Commission Regulation (EU) No 837/2010 of 23 September 2010 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2010/837).
 
-[^key-32fc0077f23e8d2a5abc340697567518]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/41)
+[^c-32fc0077f23e8d2a5abc340697567518]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/41)
 
-[^key-87a61181bb8cfba4b53ff47d80ed7a9d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/42)
+[^c-87a61181bb8cfba4b53ff47d80ed7a9d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/42)
 
 [^c000010]: Textual amendment: Inserted by [Commission Regulation (EC) No 740/2008 of 29 July 2008 amending Regulation (EC) No 1418/2007 as regards the procedures to be followed for export of waste to certain countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/740).
 
-[^key-5db51e2ea3695302105ac89d49e319e1]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/43)
+[^c-5db51e2ea3695302105ac89d49e319e1]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/43)
 
-[^key-fd1a5869a1168e29a580bc4790399bb4]: Textual amendment: Words in [Annex entry Iran (Islamic Republic of Iran)](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/a)
+[^c-fd1a5869a1168e29a580bc4790399bb4]: Textual amendment: Words in [Annex entry Iran (Islamic Republic of Iran)](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/a)
 
-[^key-8fb17763d36d45e416317c970a50d4bc]: Textual amendment: Word in Annex entry Iran (Islamic Republic of Iran) omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/b)
+[^c-8fb17763d36d45e416317c970a50d4bc]: Textual amendment: Word in Annex entry Iran (Islamic Republic of Iran) omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/b)
 
-[^key-e201ad2bc9a9d83c0f292dc82cdfde44]: Textual amendment: Word in Annex entry Iran (Islamic Republic of Iran) omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/c)
+[^c-e201ad2bc9a9d83c0f292dc82cdfde44]: Textual amendment: Word in Annex entry Iran (Islamic Republic of Iran) omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/16/c)
 
-[^key-9098a8ee3685248ab4305a675679db06]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/44)
+[^c-9098a8ee3685248ab4305a675679db06]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/44)
 
 [^c000011]: Textual amendment: Deleted by [Commission Regulation (EU) No 733/2014 of 24 June 2014 amending Regulation (EC) No 1418/2007 concerning the export for recovery of certain waste to certain non-OECD countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/733).
 
 [^c000012]: Textual amendment: Deleted by [Commission Regulation (EC) No 740/2008 of 29 July 2008 amending Regulation (EC) No 1418/2007 as regards the procedures to be followed for export of waste to certain countries (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/740).
 
-[^key-929907cabecea4a02c53619b92f2f7c9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/45)
+[^c-929907cabecea4a02c53619b92f2f7c9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/45)
 
-[^key-f2960378bacb9451927391131395c67a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/46)
+[^c-f2960378bacb9451927391131395c67a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/46)
 
-[^key-8a78584d65230434ad24aa5a81c2c58f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/47)
+[^c-8a78584d65230434ad24aa5a81c2c58f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/47)
 
-[^key-b803d3118e39da4b6e9e2e60495ff927]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/48)
+[^c-b803d3118e39da4b6e9e2e60495ff927]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/48)
 
-[^key-b8a63a0e8a8cafb584fa096ea9f7be20]: Textual amendment: Words in Annex entry Kyrgyzstan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/17)
+[^c-b8a63a0e8a8cafb584fa096ea9f7be20]: Textual amendment: Words in Annex entry Kyrgyzstan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/17)
 
-[^key-4b202f45447ff5fccb4cd38601cf9012]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/49)
+[^c-4b202f45447ff5fccb4cd38601cf9012]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/49)
 
-[^key-9fd8ea65689b4ff322bb82521c713e0e]: Textual amendment: Words in Annex entry Lebanon substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/i)
+[^c-9fd8ea65689b4ff322bb82521c713e0e]: Textual amendment: Words in Annex entry Lebanon substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/i)
 
-[^key-9edbfba6b10d45f278ae6688daa33d12]: Textual amendment: Words in Annex entry Lebanon substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/i)
+[^c-9edbfba6b10d45f278ae6688daa33d12]: Textual amendment: Words in Annex entry Lebanon substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/i)
 
-[^key-e7284c41405a5ff4334fa45268633691]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/ii)
+[^c-e7284c41405a5ff4334fa45268633691]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/ii)
 
-[^key-f0a7c66020a1b6ca36e20155bec2cf14]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/ii)
+[^c-f0a7c66020a1b6ca36e20155bec2cf14]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/ii)
 
-[^key-9dd91b57d98bf1251054ec0f39edaa25]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/iii)
+[^c-9dd91b57d98bf1251054ec0f39edaa25]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/a/iii)
 
-[^key-ab888bb9c4196b78b20a3824d48eee67]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/iii)
+[^c-ab888bb9c4196b78b20a3824d48eee67]: Textual amendment: Word in Annex entry Lebanon omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/18/b/iii)
 
-[^key-2fa746cba00afdf7f17729b7b3f34760]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/50)
+[^c-2fa746cba00afdf7f17729b7b3f34760]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/50)
 
-[^key-6784065a5f89ebd6c24311af0dfbabfb]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/51)
+[^c-6784065a5f89ebd6c24311af0dfbabfb]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/51)
 
 [^M_F_cdadfec3-a35c-45ba-8f15-be42588cbc49]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 52](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/52)
 
-[^key-214a4eab21218734f33b210af33a0f6b]: Textual amendment: Words in Annex substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/53)
+[^c-214a4eab21218734f33b210af33a0f6b]: Textual amendment: Words in Annex substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/53)
 
-[^key-dcea06033c38569f64ef0afa59b03236]: Textual amendment: Word in Annex entry Malaysia omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/19)
+[^c-dcea06033c38569f64ef0afa59b03236]: Textual amendment: Word in Annex entry Malaysia omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/19)
 
-[^key-785d55176a2fefd8f104b863d05d8e3d]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/54)
+[^c-785d55176a2fefd8f104b863d05d8e3d]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/54)
 
-[^key-42386ff696a7490289cb7003e4110482]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/55)
+[^c-42386ff696a7490289cb7003e4110482]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/55)
 
-[^key-dc450fa97f7a0483ef577125f67d4544]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/56)
+[^c-dc450fa97f7a0483ef577125f67d4544]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/56)
 
-[^key-fb05bfcedb84113bfcfd43f0259010bc]: Textual amendment: Words in Annex entry Moldova (Republic of Moldova) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/20)
+[^c-fb05bfcedb84113bfcfd43f0259010bc]: Textual amendment: Words in Annex entry Moldova (Republic of Moldova) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/20)
 
-[^key-1a3917c936f4e0b2fa51c462caa7606c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/57)
+[^c-1a3917c936f4e0b2fa51c462caa7606c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/57)
 
-[^key-5dd778a08b5b211b76eed47f2c6c0dba]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/58)
+[^c-5dd778a08b5b211b76eed47f2c6c0dba]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/58)
 
-[^key-739f77ea347663a6799c62f0805fe6c6]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/59)
+[^c-739f77ea347663a6799c62f0805fe6c6]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/59)
 
-[^key-863903d07511bbb412a04c3ea7d36ec7]: Textual amendment: Words in Annex entry Morocco substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/21)
+[^c-863903d07511bbb412a04c3ea7d36ec7]: Textual amendment: Words in Annex entry Morocco substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/21)
 
-[^key-577ef28fd1cb66598f5e87f46070196a]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/60)
+[^c-577ef28fd1cb66598f5e87f46070196a]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/60)
 
-[^key-a13d2b2f9b207bda44d4714e6e44e194]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 61](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/61)
+[^c-a13d2b2f9b207bda44d4714e6e44e194]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 61](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/61)
 
-[^key-8b573158188028f023ec2745b31036c5]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/62)
+[^c-8b573158188028f023ec2745b31036c5]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/62)
 
-[^key-53a7ddf1932ee87e622fea74cb655040]: Textual amendment: Words in Annex entry Nepal substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/22)
+[^c-53a7ddf1932ee87e622fea74cb655040]: Textual amendment: Words in Annex entry Nepal substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/22)
 
-[^key-ee4893e9711fa3e31f5a11766b54e2e2]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 63(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/63/a)
+[^c-ee4893e9711fa3e31f5a11766b54e2e2]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 63(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/63/a)
 
-[^key-ad08fe1595f8113e7c60d85598d502f4]: Textual amendment: Words in Annex entry Niger substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/23)
+[^c-ad08fe1595f8113e7c60d85598d502f4]: Textual amendment: Words in Annex entry Niger substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/23)
 
-[^key-3e271f7ddadfadc236056c4c4ed762ce]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 63(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/63/b)
+[^c-3e271f7ddadfadc236056c4c4ed762ce]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 63(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/63/b)
 
-[^key-ea42d1e6ec2124d6383184f655852e34]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/64)
+[^c-ea42d1e6ec2124d6383184f655852e34]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/64)
 
-[^key-bbf643f618bd9035b9cf401f194e6165]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 65(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/65/a)
+[^c-bbf643f618bd9035b9cf401f194e6165]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 65(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/65/a)
 
-[^key-604bb730b075ceed39669b71f6dd1dde]: Textual amendment: Word in Annex entry Pakistan omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/a/i)
+[^c-604bb730b075ceed39669b71f6dd1dde]: Textual amendment: Word in Annex entry Pakistan omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(a)(i)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/a/i)
 
-[^key-ae78f242a8027a7ff3f9f41ac6a7b845]: Textual amendment: Word in Annex entry Pakistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/b)
+[^c-ae78f242a8027a7ff3f9f41ac6a7b845]: Textual amendment: Word in Annex entry Pakistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/b)
 
-[^key-a2cf5b9cfd6467bd8bbdd9bae237f75d]: Textual amendment: Word in Annex entry Pakistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/a/ii)
+[^c-a2cf5b9cfd6467bd8bbdd9bae237f75d]: Textual amendment: Word in Annex entry Pakistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 24(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/24/a/ii)
 
-[^key-4d7fcb31ce81bccd84e2ef034854c643]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 65(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/65/b)
+[^c-4d7fcb31ce81bccd84e2ef034854c643]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 65(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/65/b)
 
-[^key-2c1c1af872d7c7752c448cd48e588128]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) N 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/66)
+[^c-2c1c1af872d7c7752c448cd48e588128]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) N 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/66)
 
-[^key-967ca767249664844d6256f04979c8b3]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/67)
+[^c-967ca767249664844d6256f04979c8b3]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/67)
 
-[^key-31a90d90200a7718f26267e6fa9642ea]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/68)
+[^c-31a90d90200a7718f26267e6fa9642ea]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/68)
 
-[^key-428123f4125cff5ca56aa38360bc6430]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 69(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/69/a)
+[^c-428123f4125cff5ca56aa38360bc6430]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 69(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/69/a)
 
-[^key-f00247024e08b315fa6670e7dbd82794]: Textual amendment: Words in Annex entry Philippines substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/25)
+[^c-f00247024e08b315fa6670e7dbd82794]: Textual amendment: Words in Annex entry Philippines substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/25)
 
-[^key-3992ed525ba10ad967dd5067af041161]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 69(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/69/b)
+[^c-3992ed525ba10ad967dd5067af041161]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 69(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/69/b)
 
-[^key-79a3e7b23f8a3ace3d9f7956f62ff32c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 70](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/70)
+[^c-79a3e7b23f8a3ace3d9f7956f62ff32c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 70](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/70)
 
-[^key-9e14ca9e15aca40d9b8177de5e1424b5]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/71)
+[^c-9e14ca9e15aca40d9b8177de5e1424b5]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/71)
 
-[^key-b84492a9ba0c1def9539049b29b9ee41]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 72](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/72)
+[^c-b84492a9ba0c1def9539049b29b9ee41]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 72](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/72)
 
-[^key-e52f8c68729a7229849b50c84035b460]: Textual amendment: Words in Annex entry Russia (Russian Federation) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/26)
+[^c-e52f8c68729a7229849b50c84035b460]: Textual amendment: Words in Annex entry Russia (Russian Federation) substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/26)
 
-[^key-5c6a92b74d3114f2ab4bef1b5ae43176]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 73](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/73)
+[^c-5c6a92b74d3114f2ab4bef1b5ae43176]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 73](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/73)
 
-[^key-14e71ff94f0b14f1e3daccee72983c93]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) N 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 74](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/74)
+[^c-14e71ff94f0b14f1e3daccee72983c93]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) N 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 74](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/74)
 
-[^key-36ae666ee6be884a2bc7a4129ecb5114]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 75](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/75)
+[^c-36ae666ee6be884a2bc7a4129ecb5114]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 75](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/75)
 
-[^key-03a7bc9e74d31d733f3b715d5dadf717]: Textual amendment: Words in Annex entry Senegal substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/27)
+[^c-03a7bc9e74d31d733f3b715d5dadf717]: Textual amendment: Words in Annex entry Senegal substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/27)
 
-[^key-0fe19dd926223efd0a392ee93ca73009]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 76](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/76)
+[^c-0fe19dd926223efd0a392ee93ca73009]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 76](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/76)
 
-[^key-e63baf77af1ca32bb0970f6dd15ba793]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/77)
+[^c-e63baf77af1ca32bb0970f6dd15ba793]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/77)
 
-[^key-5fa50a2fee5830676195bc69148fc029]: Textual amendment: Words in Annex entry Seychelles substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/28)
+[^c-5fa50a2fee5830676195bc69148fc029]: Textual amendment: Words in Annex entry Seychelles substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/28)
 
-[^key-d2ef1a66601e4606370d32295d224d1d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/78)
+[^c-d2ef1a66601e4606370d32295d224d1d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/78)
 
-[^key-1ff267be4982634cbe412b8e616a4f1a]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 79](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/79)
+[^c-1ff267be4982634cbe412b8e616a4f1a]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 79](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/79)
 
-[^key-fabe5caf1e2df0c3569d199b5b57f828]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 80](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/80)
+[^c-fabe5caf1e2df0c3569d199b5b57f828]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 80](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/80)
 
-[^key-f6e6c2d84f9915dfcb72b78b813c15a7]: Textual amendment: Word in Annex entry Tajikistan omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/29/a)
+[^c-f6e6c2d84f9915dfcb72b78b813c15a7]: Textual amendment: Word in Annex entry Tajikistan omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/29/a)
 
-[^key-2d2ce0ff9fa06b94d48f2413f64e7a37]: Textual amendment: Words in Annex entry Tajikistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/29/b)
+[^c-2d2ce0ff9fa06b94d48f2413f64e7a37]: Textual amendment: Words in Annex entry Tajikistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/29/b)
 
-[^key-03da60708083af19216baab89a06123b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 81](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/81)
+[^c-03da60708083af19216baab89a06123b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 81](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/81)
 
-[^key-05828dd6c8392b5c2f84478ad903ca00]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 82(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/82/a)
+[^c-05828dd6c8392b5c2f84478ad903ca00]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 82(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/82/a)
 
-[^key-05a78da2d9d370ccb7a3b34bf4a516c1]: Textual amendment: Word in Annex entry Thailand omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/30/b)
+[^c-05a78da2d9d370ccb7a3b34bf4a516c1]: Textual amendment: Word in Annex entry Thailand omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/30/b)
 
-[^key-88d0a2f3cf598feedb31bd1243661209]: Textual amendment: Words in Annex entry Thailand omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/30/a)
+[^c-88d0a2f3cf598feedb31bd1243661209]: Textual amendment: Words in Annex entry Thailand omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/30/a)
 
-[^key-28d313847bb438643949a58fad7ea757]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 82(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/82/b)
+[^c-28d313847bb438643949a58fad7ea757]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 82(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/82/b)
 
-[^key-997d686bdb28ff4f2c57a64f9fe877ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/83)
+[^c-997d686bdb28ff4f2c57a64f9fe877ae]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/83)
 
-[^key-c6809a3372aad31902076eb2217603d8]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/84)
+[^c-c6809a3372aad31902076eb2217603d8]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/84)
 
-[^key-5eccc65c3c5c6d4e71a7da977a318975]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 85(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/85/a)
+[^c-5eccc65c3c5c6d4e71a7da977a318975]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 85(a)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/85/a)
 
-[^key-a540333f8b67c26972045eac1a757edc]: Textual amendment: Words in Annex entry Tunisia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/31)
+[^c-a540333f8b67c26972045eac1a757edc]: Textual amendment: Words in Annex entry Tunisia substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/31)
 
-[^key-d6d9132e2413517ca7999a818cefc6d0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 85(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/85/b)
+[^c-d6d9132e2413517ca7999a818cefc6d0]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 85(b)](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/85/b)
 
-[^key-836fe18c36ef066d3270dc6e241708bd]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/86)
+[^c-836fe18c36ef066d3270dc6e241708bd]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) omitted (29.7.2021) by virtue of [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/86)
 
-[^key-fa80413b8451cb4a1eeef7a441998ab7]: Textual amendment: Words in Annex entry Ukraine substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/32)
+[^c-fa80413b8451cb4a1eeef7a441998ab7]: Textual amendment: Words in Annex entry Ukraine substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/32)
 
-[^key-f7e7f2e091cd845d54461db3b3bfee1f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/87)
+[^c-f7e7f2e091cd845d54461db3b3bfee1f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/87)
 
-[^key-723eb28c13515de36bf498cd8a652fcc]: Textual amendment: Words in Annex entry Uzbekistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/33)
+[^c-723eb28c13515de36bf498cd8a652fcc]: Textual amendment: Words in Annex entry Uzbekistan substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/33)
 
-[^key-72d82f9cc8db2518fdc52333f405e192]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 88](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/88)
+[^c-72d82f9cc8db2518fdc52333f405e192]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) substituted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 88](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/88)
 
-[^key-e45b7a63b6d64db8928b68064dc627d1]: Textual amendment: Words in Annex entry Vietnam substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/34/a)
+[^c-e45b7a63b6d64db8928b68064dc627d1]: Textual amendment: Words in Annex entry Vietnam substituted (1.1.2025) by [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/34/a)
 
-[^key-a1d8ff64b118cdd5209cb33e0a74407e]: Textual amendment: Words in Annex entry Vietnam omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/34/b)
+[^c-a1d8ff64b118cdd5209cb33e0a74407e]: Textual amendment: Words in Annex entry Vietnam omitted (1.1.2025) by virtue of [The International Waste Shipments (Amendment) Regulations 2024 (S.I. 2024/1281)](https://www.legislation.gov.uk/uksi/2024/1281), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1281/regulation/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2024/1281/schedule/paragraph/34/b)
 
-[^key-89f9a6c68963fae40d5ad60bf955b5b9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 89](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/89)
+[^c-89f9a6c68963fae40d5ad60bf955b5b9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2007/1418/annex) inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 89](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/89)
 
-[^key-64f23d87f9be5859d734280409d43cbf]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/90)
+[^c-64f23d87f9be5859d734280409d43cbf]: Textual amendment: Words in Annex inserted (29.7.2021) by [The International Waste Shipments (Amendment of Regulation (EC) No 1013/2006 and 1418/2007) Regulations 2021 (S.I. 2021/785)](https://www.legislation.gov.uk/uksi/2021/785), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/785/regulation/1/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/785/schedule/paragraph/90)

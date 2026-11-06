@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Annual rate of age retirement pension[^key-588918493b41cd04be4dbf26929214d2]
+## 84. Annual rate of age retirement pension[^c-588918493b41cd04be4dbf26929214d2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-588918493b41cd04be4dbf26929214d2]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2014/292/regulation/84) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-588918493b41cd04be4dbf26929214d2]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2014/292/regulation/84) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

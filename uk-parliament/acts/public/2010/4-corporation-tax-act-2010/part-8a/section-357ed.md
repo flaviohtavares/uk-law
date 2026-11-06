@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357ED. Company ceasing to carry on trade, etc[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357ED. Company ceasing to carry on trade, etc[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) that the company ceases to carry on the trade,
 - (b) that the company ceases to be within the charge to corporation tax in respect of the trade, or
-- (c) that any election made by the company under section 357A(1)[^key-fd03cc14442d42d874c6c5ecf983c088] ceases to have effect.
+- (c) that any election made by the company under section 357A(1)[^c-fd03cc14442d42d874c6c5ecf983c088] ceases to have effect.
 
 (3) Sections 357EA to 357EC continue to have effect in relation to the set-off amount subject to the following provisions of this section.
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-fd03cc14442d42d874c6c5ecf983c088]: Textual amendment: Words in [s. 357ED(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/357ED/2/c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/16)
+[^c-fd03cc14442d42d874c6c5ecf983c088]: Textual amendment: Words in [s. 357ED(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/357ED/2/c) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/16)

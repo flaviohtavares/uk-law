@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Resignation or removal[^key-89171b29891eade4ad6fcef732735dda]
+## 3. Resignation or removal[^c-89171b29891eade4ad6fcef732735dda]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89171b29891eade4ad6fcef732735dda]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/3/section/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-89171b29891eade4ad6fcef732735dda]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/3/section/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Whether a company has non-trading profits or a non-trading deficit from its loan relationships for an accounting period is determined in accordance with subsections (4) to (7)[^key-e08d167b8c4116c69b78ae469038ee27], using the non-trading credits and non-trading debits given by this Part for the accounting period.
+(1) Whether a company has non-trading profits or a non-trading deficit from its loan relationships for an accounting period is determined in accordance with subsections (4) to (7)[^c-e08d167b8c4116c69b78ae469038ee27], using the non-trading credits and non-trading debits given by this Part for the accounting period.
 
-(1A)[^key-f8c3a668f74cd23bda352aede2f383e6] In the case of a non-UK resident company, subsections (4) to (7) need to be read with section 5(3), (3A)(b) and (3B)(b) (territorial scope of charge to corporation tax).
+(1A)[^c-f8c3a668f74cd23bda352aede2f383e6] In the case of a non-UK resident company, subsections (4) to (7) need to be read with section 5(3), (3A)(b) and (3B)(b) (territorial scope of charge to corporation tax).
 
 (2) In this Part—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e08d167b8c4116c69b78ae469038ee27]: Textual amendment: Words in s. 301(1) substituted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 15(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/15/2), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-e08d167b8c4116c69b78ae469038ee27]: Textual amendment: Words in s. 301(1) substituted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 15(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/15/2), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
 
-[^key-f8c3a668f74cd23bda352aede2f383e6]: Textual amendment: S. 301(1A) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/15/3), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36)); and substituted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/1), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)
+[^c-f8c3a668f74cd23bda352aede2f383e6]: Textual amendment: S. 301(1A) inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/15/3), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36)); and substituted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/1), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)

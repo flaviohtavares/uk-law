@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Report on the use of copyright works in the development of AI systems[^key-9bf709cf1b4d4790bb91c44d6a1f4b32][^key-b65addc598837b116f94c3e3261708aa]
+## 136. Report on the use of copyright works in the development of AI systems[^c-9bf709cf1b4d4790bb91c44d6a1f4b32][^c-b65addc598837b116f94c3e3261708aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ including the likely effect on copyright owners, developers and users who are in
 
 ## Annotations
 
-[^key-9bf709cf1b4d4790bb91c44d6a1f4b32]: Commencement: S. 136 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-9bf709cf1b4d4790bb91c44d6a1f4b32]: Commencement: S. 136 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b65addc598837b116f94c3e3261708aa]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/18/section/136) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/w)
+[^c-b65addc598837b116f94c3e3261708aa]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/18/section/136) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/w)

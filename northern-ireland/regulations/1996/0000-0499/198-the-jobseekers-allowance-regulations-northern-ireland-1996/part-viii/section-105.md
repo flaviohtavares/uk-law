@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Notional income[^key-984fb9b5a290ad7f5cb2ded9de3129f6]
+## 105. Notional income[^c-984fb9b5a290ad7f5cb2ded9de3129f6]
 
 *Extent: N.I.*
 
@@ -100,7 +100,7 @@ the adjudication officer shall treat the claimant as possessing such earnings (i
 
 ## Annotations
 
-[^key-984fb9b5a290ad7f5cb2ded9de3129f6]: Commencement: Reg. 105 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-984fb9b5a290ad7f5cb2ded9de3129f6]: Commencement: Reg. 105 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00101]: Footnote: [S.R. 1976 No. 233](https://www.legislation.gov.uk/nisr/1976/233); relevant amending regulations are [S.R. 1980 No. 37](https://www.legislation.gov.uk/nisr/1980/37), [S.R. 1993 No. 169](https://www.legislation.gov.uk/nisr/1993/169) and [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)
 

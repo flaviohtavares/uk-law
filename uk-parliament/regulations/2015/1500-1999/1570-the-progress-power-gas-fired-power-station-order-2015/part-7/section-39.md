@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Procedure in relation to certain approvals etc.[^key-6e026df844fc095069109610303d942b]
+## 39. Procedure in relation to certain approvals etc.[^c-6e026df844fc095069109610303d942b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e026df844fc095069109610303d942b]: Commencement: Art. 39 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-6e026df844fc095069109610303d942b]: Commencement: Art. 39 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

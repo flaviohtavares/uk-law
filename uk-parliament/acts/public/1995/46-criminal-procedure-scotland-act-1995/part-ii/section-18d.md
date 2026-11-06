@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18D. Retention of samples etc. taken or provided in connection with certain fixed penalty offences[^key-b22a75b51c5ea4f77bde7520df089037]
+## 18D. Retention of samples etc. taken or provided in connection with certain fixed penalty offences[^c-b22a75b51c5ea4f77bde7520df089037]
 
 *Extent: S*
 
@@ -29,8 +29,8 @@ where the conditions in subsection (2) are satisfied.
 
 (2) The conditions are—
 
-- (a) the person was arrested [^key-8547e01c70dd61b4aec2daff36835ef9]... in connection with a fixed penalty offence,
-- (b) the relevant physical data or sample was taken from or provided by the person while the person was in custody[^key-6aa314d395234cb6a895de2c63bd2908] in connection with that offence,
+- (a) the person was arrested [^c-8547e01c70dd61b4aec2daff36835ef9]... in connection with a fixed penalty offence,
+- (b) the relevant physical data or sample was taken from or provided by the person while the person was in custody[^c-6aa314d395234cb6a895de2c63bd2908] in connection with that offence,
 - (c) after the relevant physical data or sample was taken from or provided by the person, a constable gave the person under section 129(1) of the 2004 Act—
   - (i) a fixed penalty notice in respect of that offence (the “main FPN”), or
   - (ii) the main FPN and one or more other fixed penalty notices in respect of fixed penalty offences arising out of the same circumstances as the offence to which the main FPN relates, and
@@ -67,8 +67,8 @@ the relevant physical data, sample or information derived from a sample must be 
 
 ## Annotations
 
-[^key-b22a75b51c5ea4f77bde7520df089037]: Textual amendment: S. 18D inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 79](https://www.legislation.gov.uk/asp/2010/13/section/79), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2011/178/article/6))
+[^c-b22a75b51c5ea4f77bde7520df089037]: Textual amendment: S. 18D inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 79](https://www.legislation.gov.uk/asp/2010/13/section/79), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2011/178/article/6))
 
-[^key-8547e01c70dd61b4aec2daff36835ef9]: Textual amendment: Words in s. 18D(2)(a) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(3)(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/3/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-8547e01c70dd61b4aec2daff36835ef9]: Textual amendment: Words in s. 18D(2)(a) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(3)(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/3/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-6aa314d395234cb6a895de2c63bd2908]: Textual amendment: Words in s. 18D(2)(b) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(3)(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/3/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-6aa314d395234cb6a895de2c63bd2908]: Textual amendment: Words in s. 18D(2)(b) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(3)(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/3/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

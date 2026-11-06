@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Accommodation and occupation crossings[^key-1390ce1da288684a0e011e368811455b]
+## 21. Accommodation and occupation crossings[^c-1390ce1da288684a0e011e368811455b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1390ce1da288684a0e011e368811455b]: Commencement: Art. 21 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-1390ce1da288684a0e011e368811455b]: Commencement: Art. 21 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

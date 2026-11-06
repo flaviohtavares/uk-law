@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Social Security (Credits) Regulations (Northern Ireland) 1975[^key-d87fc97d1ddfc0afafa24a0172f0d463]
+## 76. Social Security (Credits) Regulations (Northern Ireland) 1975[^c-d87fc97d1ddfc0afafa24a0172f0d463]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d87fc97d1ddfc0afafa24a0172f0d463]: Commencement: Reg. 76 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-d87fc97d1ddfc0afafa24a0172f0d463]: Commencement: Reg. 76 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00135]: Footnote: [S.R. (N.I.) 1975/113](https://www.legislation.gov.uk/nisr/1975/113). Regulation 8C was inserted by regulation 3(7) of [S.R. (N.I.) 2001/108](https://www.legislation.gov.uk/nisr/2001/108) and was amended by paragraph 4(4) of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536). The Schedule was inserted by [S.R. (N.I.) 2011/107](https://www.legislation.gov.uk/nisr/2011/107).

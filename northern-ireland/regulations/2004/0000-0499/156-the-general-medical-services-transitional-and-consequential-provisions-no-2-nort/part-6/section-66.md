@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Withdrawal of approval of out of hours arrangements under general medical services contracts and default contracts[^key-69a5e28280faaa7153a2e63334c65d47]
+## 66. Withdrawal of approval of out of hours arrangements under general medical services contracts and default contracts[^c-69a5e28280faaa7153a2e63334c65d47]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ the withdrawal shall take effect as a withdrawal of approval under the term of t
 
 ## Annotations
 
-[^key-69a5e28280faaa7153a2e63334c65d47]: Commencement: Art. 66 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-69a5e28280faaa7153a2e63334c65d47]: Commencement: Art. 66 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

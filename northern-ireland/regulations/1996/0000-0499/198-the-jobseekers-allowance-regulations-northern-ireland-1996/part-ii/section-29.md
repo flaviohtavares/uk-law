@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Matters to be taken into account in determining whether a claimant has good cause for failing to provide a signed declaration[^key-739e194d427f39bcf716d186109cd561]
+## 29. Matters to be taken into account in determining whether a claimant has good cause for failing to provide a signed declaration[^c-739e194d427f39bcf716d186109cd561]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In determining, for the purposes of regulation 27 (where entitlement is not to c
 
 ## Annotations
 
-[^key-739e194d427f39bcf716d186109cd561]: Commencement: Reg. 29 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-739e194d427f39bcf716d186109cd561]: Commencement: Reg. 29 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

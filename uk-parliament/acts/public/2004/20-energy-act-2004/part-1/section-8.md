@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Special functions in relation to pensions etc.[^key-be1d17f60ae828e007d0c938e5119b0b]
+## 8. Special functions in relation to pensions etc.[^c-be1d17f60ae828e007d0c938e5119b0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be1d17f60ae828e007d0c938e5119b0b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/20/section/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-be1d17f60ae828e007d0c938e5119b0b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/20/section/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248A. “Opted-out creditor”[^key-a3a61456ae568cd3175188e63d3916d3]
+## 248A. “Opted-out creditor”[^c-a3a61456ae568cd3175188e63d3916d3]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a61456ae568cd3175188e63d3916d3]: Textual amendment: S. 248A inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 124(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/124/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)
+[^c-a3a61456ae568cd3175188e63d3916d3]: Textual amendment: S. 248A inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 124(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/124/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)

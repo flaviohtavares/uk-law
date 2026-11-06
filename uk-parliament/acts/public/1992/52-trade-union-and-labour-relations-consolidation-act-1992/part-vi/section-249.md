@@ -35,7 +35,7 @@ A deputy chairman appointed in addition to the ordinary members of the Council s
 (5) If the Secretary of State is satisfied that a member—
 
 - (a) has been absent from meetings of the Council for a period longer than six consecutive months without the permission of the Council, or
-- (b) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or has[^key-dda0b101228ded98c668b5725a05a0cf] made an arrangement with his creditors (or, in Scotland, has had his estate sequestrated or has made a trust deed for his creditors or has made and had accepted a composition contract), or
+- (b) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or has[^c-dda0b101228ded98c668b5725a05a0cf] made an arrangement with his creditors (or, in Scotland, has had his estate sequestrated or has made a trust deed for his creditors or has made and had accepted a composition contract), or
 - (c) is incapacitated by physical or mental illness, or
 - (d) is otherwise unable or unfit to discharge the functions of a member,
 
@@ -49,4 +49,4 @@ If the chairman or a deputy chairman ceases to be a member of the Council, he sh
 
 [^c14521791]: Textual amendment: Words in s. 249(2) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 43(3)](https://www.legislation.gov.uk/ukpga/1993/19/section/43/3); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-dda0b101228ded98c668b5725a05a0cf]: Textual amendment: Words in s. 249(5)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/28/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-dda0b101228ded98c668b5725a05a0cf]: Textual amendment: Words in s. 249(5)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/28/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

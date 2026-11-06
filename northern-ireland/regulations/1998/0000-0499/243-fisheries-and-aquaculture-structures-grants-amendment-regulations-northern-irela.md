@@ -30,7 +30,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries and Aquaculture Structures (Grants) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-74a17c1f557d9ebf30d16f233d308c38]
+Fisheries and Aquaculture Structures (Grants) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-74a17c1f557d9ebf30d16f233d308c38]
 
 Made
 
@@ -40,26 +40,26 @@ Coming into operation
 
 1st September 1998
 
-[^key-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-74a17c1f557d9ebf30d16f233d308c38]
+## 1. Title and commencement[^c-74a17c1f557d9ebf30d16f233d308c38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-74a17c1f557d9ebf30d16f233d308c38]
+## 2. Amendment[^c-74a17c1f557d9ebf30d16f233d308c38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-74a17c1f557d9ebf30d16f233d308c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-74a17c1f557d9ebf30d16f233d308c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74a17c1f557d9ebf30d16f233d308c38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74a17c1f557d9ebf30d16f233d308c38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/243) revoked (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [Sch. 3](https://www.legislation.gov.uk/nisr/2018/185/schedule/3)
+[^c-74a17c1f557d9ebf30d16f233d308c38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/243) revoked (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [Sch. 3](https://www.legislation.gov.uk/nisr/2018/185/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Liability for tax[^key-cb000da2b1f789a70737e3e958da5a25]
+## 56. Liability for tax[^c-cb000da2b1f789a70737e3e958da5a25]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb000da2b1f789a70737e3e958da5a25]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/1/section/56) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-cb000da2b1f789a70737e3e958da5a25]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/1/section/56) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

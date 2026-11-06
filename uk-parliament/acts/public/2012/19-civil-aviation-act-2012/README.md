@@ -34,7 +34,7 @@ An Act to make provision about the regulation of operators of dominant airports;
 
 \[19th December 2012\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8711b410bf37d0ac9d2a4ff44e574dda][^key-353c7323278794c271eb1524a9378fdd]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8711b410bf37d0ac9d2a4ff44e574dda][^c-353c7323278794c271eb1524a9378fdd]
 
 ## Contents
 
@@ -244,6 +244,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-8711b410bf37d0ac9d2a4ff44e574dda]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-8711b410bf37d0ac9d2a4ff44e574dda]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-353c7323278794c271eb1524a9378fdd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/19): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-353c7323278794c271eb1524a9378fdd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/19): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

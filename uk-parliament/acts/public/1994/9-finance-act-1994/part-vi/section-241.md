@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Exchange, partition, etc.[^key-af4cb430545da2f962928d4c4f0b76a5]
+## 241. Exchange, partition, etc.[^c-af4cb430545da2f962928d4c4f0b76a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ then, for those purposes, the consideration or, as the case may be, the consider
 
 ## Annotations
 
-[^key-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
+[^c-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
 
 [^c14457071]: Textual amendment: Word in s. 241(1)(a) substituted (27.7.1999 with effect as mentioned in [s. 112(6)](https://www.legislation.gov.uk/ukpga/1999/16/section/112/6) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 112(4)(6)](https://www.legislation.gov.uk/ukpga/1999/16/section/112/4/6), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 14 para. 30(a)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/30/a)
 

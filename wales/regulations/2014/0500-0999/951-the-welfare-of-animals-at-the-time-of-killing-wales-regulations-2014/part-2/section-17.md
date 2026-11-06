@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Grant of licences[^key-e1f4741180431b0c63c12236765184bd]
+## 17. Grant of licences[^c-e1f4741180431b0c63c12236765184bd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1f4741180431b0c63c12236765184bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2014/951/regulation/17) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e1f4741180431b0c63c12236765184bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2014/951/regulation/17) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

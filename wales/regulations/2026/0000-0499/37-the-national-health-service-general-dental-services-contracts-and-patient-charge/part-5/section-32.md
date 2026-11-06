@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Arrangements on termination of a contract[^key-bfe510b46b6691e6027929dd6d141af7]
+## 32. Arrangements on termination of a contract[^c-bfe510b46b6691e6027929dd6d141af7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ A contract must make provision for the arrangements which are to apply on the te
 
 ## Annotations
 
-[^key-bfe510b46b6691e6027929dd6d141af7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2026/37/regulation/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bfe510b46b6691e6027929dd6d141af7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2026/37/regulation/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

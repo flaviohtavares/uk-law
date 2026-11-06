@@ -56,7 +56,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 These Regulations may be cited as the Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018 and come into force on exit day.
 
-## 1A. Extent[^M_I_e532447b-e945-4e0f-c0a8-e89ddbb2022b][^key-0d431490dbfd450bb90b5908595f6b61]
+## 1A. Extent[^M_I_e532447b-e945-4e0f-c0a8-e89ddbb2022b][^c-0d431490dbfd450bb90b5908595f6b61]
 
 These Regulations extend to England and Wales and Scotland.
 
@@ -64,10 +64,10 @@ These Regulations extend to England and Wales and Scotland.
 
 The following Regulations are revoked, except as set out in regulations 4 and 5:
 
-- (a) The Return of Cultural Objects Regulations 1994 [^c23417011] [^key-71d5be1694eb3c4410641d6e87be2885]... ; and
+- (a) The Return of Cultural Objects Regulations 1994 [^c23417011] [^c-71d5be1694eb3c4410641d6e87be2885]... ; and
 - (b) The Return of Cultural Objects (Amendment) Regulations 2015 [^c23417021].
 
-## 3. Interpretation[^c23418061][^key-41782d0d18d8a5912994819294707eac]
+## 3. Interpretation[^c23418061][^c-41782d0d18d8a5912994819294707eac]
 
 In these Regulations—
 
@@ -76,11 +76,11 @@ In these Regulations—
 
 ## 4. Transitional Provisions[^c23418071]
 
-The Secretary of State shall continue to comply with the duty under regulation 3 of the 1994 Regulations in respect of any application by a member State which was received by the Secretary of State before IP completion day[^key-a54a10b1e89bb3f8ba7e54ff744536f6]. Regulations 1, 2, 3, 4 and 5 of the 1994 Regulations will continue in force in relation to any such application.
+The Secretary of State shall continue to comply with the duty under regulation 3 of the 1994 Regulations in respect of any application by a member State which was received by the Secretary of State before IP completion day[^c-a54a10b1e89bb3f8ba7e54ff744536f6]. Regulations 1, 2, 3, 4 and 5 of the 1994 Regulations will continue in force in relation to any such application.
 
 ## 5.[^c23418081]
 
-Where a claim under regulation 6 of the 1994 Regulations has been properly filed with the competent court in accordance with the rules of that court and the 1994 Regulations before IP completion day[^key-2c79af18a5f0da365d2a035747a67be4], regulations 1, 2, 6, 7 and 8 of the 1994 Regulations shall continue in force in relation to any such claim.
+Where a claim under regulation 6 of the 1994 Regulations has been properly filed with the competent court in accordance with the rules of that court and the 1994 Regulations before IP completion day[^c-2c79af18a5f0da365d2a035747a67be4], regulations 1, 2, 6, 7 and 8 of the 1994 Regulations shall continue in force in relation to any such claim.
 
 Michael Ellis
 
@@ -102,24 +102,24 @@ They revoke the Return of Cultural Objects Regulations 1994 and the Return of Cu
 
 [^M_I_e532447b-e945-4e0f-c0a8-e89ddbb2022b]: Commencement: [Reg. 1A](https://www.legislation.gov.uk/uksi/2018/1086/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-0d431490dbfd450bb90b5908595f6b61]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2018/1086/regulation/1A) inserted (31.12.2020 immediately before IP completion day) by [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/2)
+[^c-0d431490dbfd450bb90b5908595f6b61]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2018/1086/regulation/1A) inserted (31.12.2020 immediately before IP completion day) by [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/2)
 
 [^c23418051]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1086/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23417011]: Marginal citation: [S.I. 1994/501](https://www.legislation.gov.uk/uksi/1994/501).
 
-[^key-71d5be1694eb3c4410641d6e87be2885]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1086/regulation/2/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/3)
+[^c-71d5be1694eb3c4410641d6e87be2885]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1086/regulation/2/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/3)
 
 [^c23417021]: Marginal citation: [S.I. 2015/1926](https://www.legislation.gov.uk/uksi/2015/1926).
 
 [^c23418061]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1086/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-41782d0d18d8a5912994819294707eac]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1086/regulation/3) substituted (31.12.2020 immediately before IP completion day) by [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/4)
+[^c-41782d0d18d8a5912994819294707eac]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1086/regulation/3) substituted (31.12.2020 immediately before IP completion day) by [The Return of Cultural Objects (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1458)](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/4)
 
 [^c23418071]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1086/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-a54a10b1e89bb3f8ba7e54ff744536f6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/1086/regulation/4) substituted (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/975)](https://www.legislation.gov.uk/uksi/2020/975), [regs. 1](https://www.legislation.gov.uk/uksi/2020/975/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/975/regulation/2/2)
+[^c-a54a10b1e89bb3f8ba7e54ff744536f6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2018/1086/regulation/4) substituted (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/975)](https://www.legislation.gov.uk/uksi/2020/975), [regs. 1](https://www.legislation.gov.uk/uksi/2020/975/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/975/regulation/2/2)
 
 [^c23418081]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1086/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-2c79af18a5f0da365d2a035747a67be4]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/1086/regulation/5) substituted (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/975)](https://www.legislation.gov.uk/uksi/2020/975), [regs. 1](https://www.legislation.gov.uk/uksi/2020/975/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/975/regulation/2/2)
+[^c-2c79af18a5f0da365d2a035747a67be4]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/1086/regulation/5) substituted (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/975)](https://www.legislation.gov.uk/uksi/2020/975), [regs. 1](https://www.legislation.gov.uk/uksi/2020/975/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/975/regulation/2/2)

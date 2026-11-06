@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.220. Saving for powers of the court[^key-6d9807b838de5c7328366092e0e16bb2]
+## 4.220. Saving for powers of the court[^c-6d9807b838de5c7328366092e0e16bb2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9807b838de5c7328366092e0e16bb2]: Commencement: [Rule 4.220](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.220) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6d9807b838de5c7328366092e0e16bb2]: Commencement: [Rule 4.220](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.220) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

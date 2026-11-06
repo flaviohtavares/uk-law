@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 55(3) to (5) of the Media Act 2024[^f00001].
 
-## 1. Citation and interpretation[^key-e8bb5f62c6b389bd71fe5a95065cd741]
+## 1. Citation and interpretation[^c-e8bb5f62c6b389bd71fe5a95065cd741]
 
 (1) These Regulations may be cited as the Media Act 2024 (Commencement No. 2 and Transitional and Saving Provisions) Regulations 2024.
 
@@ -47,14 +47,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (b) “**the 2003 Act**” means the Communications Act 2003[^f00003];
 - (c) “**the 2024 Act**” means the Media Act 2024.
 
-## 2. Provision coming into force for specific purposes only on 17th October 2024[^key-867d7a7b7d992ea2518effc9db46f5b1]
+## 2. Provision coming into force for specific purposes only on 17th October 2024[^c-867d7a7b7d992ea2518effc9db46f5b1]
 
 Section 19 of the 2024 Act (amount of financial penalties: qualifying revenue) comes into force on 17th October 2024 only for the purposes of enabling preparatory work by OFCOM for the coming into force for all purposes of this section including, but not limited to—
 
 - (b) the variation by OFCOM of licences to provide a television broadcasting service under Part 1 of the 1990 Act and Part 3 of the 2003 Act, and
 - (c) the issuing or revision of a Statement of Principles for the purposes of Schedule 7 to the 1990 Act[^f00004].
 
-## 3. Provision coming into force on 17th October 2024[^key-99d06081a041da28a042b0f9a4cf096f]
+## 3. Provision coming into force on 17th October 2024[^c-99d06081a041da28a042b0f9a4cf096f]
 
 The following provisions of the 2024 Act come into force on 17th October 2024—
 
@@ -66,7 +66,7 @@ The following provisions of the 2024 Act come into force on 17th October 2024—
 - (f) section 46 (licensing of non-UK digital sound programme services);
 - (g) section 47 (radio multiplex licences).
 
-## 4. Transitional provision[^key-9c71289ce286a253f4324b465e1f750f]
+## 4. Transitional provision[^c-9c71289ce286a253f4324b465e1f750f]
 
 (1) A condition relating to local news included in a local licence under section 106(1) of the 1990 Act (requirements as to character and coverage of national and local services)[^f00005] is to be treated as having been included in such a licence under section 314(1)(a) of the 2003 Act (local news and information in local sound broadcasting services), as that section is amended by section 44 of the 2024 Act[^f00006].
 
@@ -82,7 +82,7 @@ The following provisions of the 2024 Act come into force on 17th October 2024—
 
 (4) References in this regulation to persons living or working within an area or locality include references to persons undergoing education or training in that area or locality.
 
-## 5. Saving provision[^key-9ac8666cf294aa137ffa47e23e1761d0]
+## 5. Saving provision[^c-9ac8666cf294aa137ffa47e23e1761d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,19 +150,19 @@ The following provisions of the Media Act 2024 have been brought into force by c
 
 [^f00001]: Footnote: [2024 c. 15](https://www.legislation.gov.uk/ukpga/2024/15).
 
-[^key-e8bb5f62c6b389bd71fe5a95065cd741]: Commencement: Reg. 1 in force at made date
+[^c-e8bb5f62c6b389bd71fe5a95065cd741]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
 [^f00003]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-867d7a7b7d992ea2518effc9db46f5b1]: Commencement: Reg. 2 in force at made date
+[^c-867d7a7b7d992ea2518effc9db46f5b1]: Commencement: Reg. 2 in force at made date
 
 [^f00004]: Footnote: Schedule 7 was amended by paragraph 72 of Schedule 15 to the Communications Act 2003.
 
-[^key-99d06081a041da28a042b0f9a4cf096f]: Commencement: Reg. 3 in force at made date
+[^c-99d06081a041da28a042b0f9a4cf096f]: Commencement: Reg. 3 in force at made date
 
-[^key-9c71289ce286a253f4324b465e1f750f]: Commencement: Reg. 4 in force at made date
+[^c-9c71289ce286a253f4324b465e1f750f]: Commencement: Reg. 4 in force at made date
 
 [^f00005]: Footnote: Section 106(1) was amended by paragraph 49 of Schedule 15 and by Schedule 19 to the Communications Act 2003 and by section 43 of the Media Act [2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15).
 
@@ -170,7 +170,7 @@ The following provisions of the Media Act 2024 have been brought into force by c
 
 [^f00007]: Footnote: The definition of “local licence” must be read with the definition of “local service” in section 126 of the Broadcasting Act 1990. The definition of “local service” was substituted by paragraph 59(b) of Schedule 15 to the Communications Act 2003. There are other amendments to section 126 but none is relevant.
 
-[^key-9ac8666cf294aa137ffa47e23e1761d0]: Textual amendment: Reg. 5 omitted (1.4.2025) by virtue of [The Media Act 2024 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/171)](https://www.legislation.gov.uk/uksi/2025/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/171/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/171/regulation/2)
+[^c-9ac8666cf294aa137ffa47e23e1761d0]: Textual amendment: Reg. 5 omitted (1.4.2025) by virtue of [The Media Act 2024 (Commencement No. 2 and Transitional and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/171)](https://www.legislation.gov.uk/uksi/2025/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/171/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/171/regulation/2)
 
 [^f00011]: Footnote: Regulation 4 of [S.I. 2024/858 (C. 55)](https://www.legislation.gov.uk/uksi/2024/858) provides that certain provisions of Schedule 2 come into force on the date that certain provisions of the Communication Act 2003 come into force.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Qualification for Crown servant[^key-cfdc5ac98c9c918d67959f7ae2f590ed]
+## 14. Qualification for Crown servant[^c-cfdc5ac98c9c918d67959f7ae2f590ed]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person (not being a member of the forces within the meaning of section 59(1) o
 
 ## Annotations
 
-[^key-cfdc5ac98c9c918d67959f7ae2f590ed]: Commencement: Reg. 14 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-cfdc5ac98c9c918d67959f7ae2f590ed]: Commencement: Reg. 14 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Appointment of content manager following change of circumstances[^key-db80ca9cd0e4a7cb8c2bacc105205ca9]
+## 16. Appointment of content manager following change of circumstances[^c-db80ca9cd0e4a7cb8c2bacc105205ca9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db80ca9cd0e4a7cb8c2bacc105205ca9]: Commencement: S. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-db80ca9cd0e4a7cb8c2bacc105205ca9]: Commencement: S. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

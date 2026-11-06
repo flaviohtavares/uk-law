@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Cross-border enforcement: minor and consequential amendments[^c22719581][^key-2bdb3448381cdda6798e7ddfdb26e176]
+## 119. Cross-border enforcement: minor and consequential amendments[^c22719581][^c-2bdb3448381cdda6798e7ddfdb26e176]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Schedule 17—
 
 [^c22719581]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2017/3/section/119) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2bdb3448381cdda6798e7ddfdb26e176]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2017/3/section/119) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-2bdb3448381cdda6798e7ddfdb26e176]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2017/3/section/119) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

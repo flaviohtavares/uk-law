@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Interpretation[^key-2b39f900eb8fb1b0903ff73d4efc2deb]
+## 38. Interpretation[^c-2b39f900eb8fb1b0903ff73d4efc2deb]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-2b39f900eb8fb1b0903ff73d4efc2deb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1992/1814/regulation/38) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-2b39f900eb8fb1b0903ff73d4efc2deb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1992/1814/regulation/38) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00041]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are S.I. [1988/1971](https://www.legislation.gov.uk/uksi/1988/1971), [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549), [1991/1599](https://www.legislation.gov.uk/uksi/1991/1599) and [1992/432](https://www.legislation.gov.uk/uksi/1992/432).
 

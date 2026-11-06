@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Orders on conviction in criminal proceedings[^key-bc3e2eca641145998ebcf32d0bb4e056]
+## 64. Orders on conviction in criminal proceedings[^c-bc3e2eca641145998ebcf32d0bb4e056]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3e2eca641145998ebcf32d0bb4e056]: Textual amendment: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2002/30/section/61) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-bc3e2eca641145998ebcf32d0bb4e056]: Textual amendment: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2002/30/section/61) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)

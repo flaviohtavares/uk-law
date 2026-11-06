@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Fit and proper persons requirement: unconnected multiple employer schemes[^key-a64b5e3e0aebc543507c206e392d3572]
+## 7. Fit and proper persons requirement: unconnected multiple employer schemes[^c-a64b5e3e0aebc543507c206e392d3572]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In section 62(2) (fit and proper persons requirement - persons to be assessed), 
 
 ## Annotations
 
-[^key-a64b5e3e0aebc543507c206e392d3572]: Commencement: Reg. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a64b5e3e0aebc543507c206e392d3572]: Commencement: Reg. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

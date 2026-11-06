@@ -69,13 +69,13 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Prior notification of consignments
 
-1.[^key-37c13fff32e49ee2dab599992e1cf480][^key-5b1a83cd1ebfb731274fa7aa716916ad][^key-459ebe594731b334bf39cbac683c19cb] The operator responsible for a consignment falling within the categories of animals and goods referred to in Article 47(1) of Regulation (EU) 2017/625 shall give prior notification, to the competent authority of the border control post of first arrival in Great Britain from a third country[^key-0487ae0c3693e94462c4897d038fad3c], at least one working day before the expected arrival of the consignment.
+1.[^c-37c13fff32e49ee2dab599992e1cf480][^c-5b1a83cd1ebfb731274fa7aa716916ad][^c-459ebe594731b334bf39cbac683c19cb] The operator responsible for a consignment falling within the categories of animals and goods referred to in Article 47(1) of Regulation (EU) 2017/625 shall give prior notification, to the competent authority of the border control post of first arrival in Great Britain from a third country[^c-0487ae0c3693e94462c4897d038fad3c], at least one working day before the expected arrival of the consignment.
 
 2. By way of derogation from paragraph 1, where logistical constraints prevent compliance with the time limit set out in that paragraph, the competent authorities of the border control posts may apply a period of prior notification of at least four hours before the expected arrival of the consignment.
 
 3. By way of derogation from paragraph 1, the competent authorities of border control posts designated for imports of unprocessed logs and sawn and chipped wood in accordance with Article 4 of Commission Delegated Regulation (EU) 2019/1012 may apply a period of prior notification of up to five working days before the expected arrival of such consignments.
 
-(4.)[^key-17e9cc8c69e5376a1ad159c5f2a01867] In this Article, ‘first arrival’ and ‘third country’ have the meanings given in Article 3 of Regulation (EU) 2017/625.
+(4.)[^c-17e9cc8c69e5376a1ad159c5f2a01867] In this Article, ‘first arrival’ and ‘third country’ have the meanings given in Article 3 of Regulation (EU) 2017/625.
 
 ## Article 2. Entry into force and application
 
@@ -83,13 +83,13 @@ This Regulation shall enter into force on the twentieth day following its public
 
 It shall apply as from 14 December 2019.
 
-## Article 3. Derogations and modifications: animals and goods entering Great Britain from a relevant third country[^key-f32e24099de8798232cfed7dfc465076]
+## Article 3. Derogations and modifications: animals and goods entering Great Britain from a relevant third country[^c-f32e24099de8798232cfed7dfc465076]
 
 (1.) This Regulation applies subject to the derogations and modifications specified in Annex 6 to Regulation (EU) 2017/625 during the transitional staging period, in relation to relevant goods entering Great Britain from a relevant third country.
 
 (2.) In this Article ‘transitional staging period’, ‘relevant goods’ and ‘relevant third country’ have the meanings given in Annex 6 to that Regulation.
 
-[^key-2c589a2251a36f8872d22000b7c56aac]...
+[^c-2c589a2251a36f8872d22000b7c56aac]...
 
 Done at Brussels, 16 April 2019.
 
@@ -105,16 +105,16 @@ Jean-Claude Juncker
 
 [^f00002]: Footnote: Commission Delegated Regulation (EU) 2019/1012 of 12 March 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts (See page 4 of this Official Journal).
 
-[^key-37c13fff32e49ee2dab599992e1cf480]: Modification: Art. 1(1) excluded (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/421/regulation/7/2)
+[^c-37c13fff32e49ee2dab599992e1cf480]: Modification: Art. 1(1) excluded (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/421/regulation/7/2)
 
-[^key-5b1a83cd1ebfb731274fa7aa716916ad]: Modification: Art. 1(1) excluded (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/7/2)
+[^c-5b1a83cd1ebfb731274fa7aa716916ad]: Modification: Art. 1(1) excluded (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/7/2)
 
-[^key-459ebe594731b334bf39cbac683c19cb]: Modification: Art. 1(1) excluded (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/uksi/2020/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/206/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/206/regulation/7/2)
+[^c-459ebe594731b334bf39cbac683c19cb]: Modification: Art. 1(1) excluded (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/uksi/2020/206), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/206/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/206/regulation/7/2)
 
-[^key-0487ae0c3693e94462c4897d038fad3c]: Textual amendment: Words in Art. 1(1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-0487ae0c3693e94462c4897d038fad3c]: Textual amendment: Words in Art. 1(1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-17e9cc8c69e5376a1ad159c5f2a01867]: Textual amendment: Art. 1(4) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-17e9cc8c69e5376a1ad159c5f2a01867]: Textual amendment: Art. 1(4) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-f32e24099de8798232cfed7dfc465076]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2019/1013/article/3) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-f32e24099de8798232cfed7dfc465076]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2019/1013/article/3) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-2c589a2251a36f8872d22000b7c56aac]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1013/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-2c589a2251a36f8872d22000b7c56aac]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1013/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [30(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/30/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

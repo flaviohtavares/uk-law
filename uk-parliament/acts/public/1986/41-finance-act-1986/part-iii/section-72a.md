@@ -23,7 +23,7 @@ summary: ''
 (1) Where an instrument transfers relevant securities of a company incorporated in the United Kingdom between a depositary receipt system and a clearance system—
 
 - (a) the provisions of section 67(2) to (5) or, as the case may be, section 70(2) to (5) above shall not apply, and
-- (b)[^key-38b41f7a96c86ec3fbf04b99a4340313] stamp duty is not chargeable on the instrument.
+- (b)[^c-38b41f7a96c86ec3fbf04b99a4340313] stamp duty is not chargeable on the instrument.
 
 (2) A transfer between a depositary receipt system and a clearance system means a transfer—
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c13532791]: Textual amendment: S. 72A and cross-heading inserted (28.7.2000 with effect as mentioned in [s. 134(5)(a)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/5/a) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 134(1)(5)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/1/5) (which inserting provision is repealed by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. III](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/III) Note 3)
 
-[^key-38b41f7a96c86ec3fbf04b99a4340313]: Textual amendment: S. 72A(1)(b) substituted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/8)
+[^c-38b41f7a96c86ec3fbf04b99a4340313]: Textual amendment: S. 72A(1)(b) substituted (with effect in accordance with s. 99(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/8)

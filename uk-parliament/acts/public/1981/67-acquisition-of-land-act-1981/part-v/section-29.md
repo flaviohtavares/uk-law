@@ -41,7 +41,7 @@ summary: ''
 >   - (ii) specifying the time (not being less than 21 days from service of the notice) within which, and the manner in which, objections thereto can be made, and
 > - (b) affix conspicuously to some conspicuous object or objects on the land comprised in the order a notice or notices containing the particulars specified in paragraph (a)(i) and (ii) above.
 
-(5) Section 13 of this Act shall apply as if for the reference to a qualifying person for the purposes of section 12(2)[^key-16ef149c79a9e03621cc3e2ca1736839] there were substituted a reference to any person who, in relation to the order, is a person directly concerned.
+(5) Section 13 of this Act shall apply as if for the reference to a qualifying person for the purposes of section 12(2)[^c-16ef149c79a9e03621cc3e2ca1736839] there were substituted a reference to any person who, in relation to the order, is a person directly concerned.
 
 (6) Except where the Secretary of State is proceeding concurrently with respect to an application for opencast planning permission[^c3314731] and a compulsory rights order, the Secretary of State may disregard an objection to such an order if he is satisfied that it relates to the question whether opencast planning permission should be granted or should have been granted and either—
 
@@ -79,7 +79,7 @@ This subsection is without prejudice to the operation of section 13 of this Act.
 
 [^c3314721]: Textual amendment: Words in s. 29(2)(c) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 9 para. 27(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/27/2/a/ii), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II)(with s. 40(7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-16ef149c79a9e03621cc3e2ca1736839]: Textual amendment: Words in s. 29(5) substituted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/12) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-16ef149c79a9e03621cc3e2ca1736839]: Textual amendment: Words in s. 29(5) substituted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/12) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
 [^c3314731]: Textual amendment: Words substituted by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 39(3)](https://www.legislation.gov.uk/ukpga/1986/63/section/39/3), [Sch. 8 Pt. II para. 18](https://www.legislation.gov.uk/ukpga/1986/63/schedule/8/part/II/paragraph/18)(*a*)
 

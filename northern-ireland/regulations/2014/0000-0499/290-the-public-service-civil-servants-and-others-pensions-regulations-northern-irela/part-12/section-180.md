@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 180. Information to be provided by employers[^key-5b5bb64b8caf1ec6872b55badb1ec291]
+## 180. Information to be provided by employers[^c-5b5bb64b8caf1ec6872b55badb1ec291]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b5bb64b8caf1ec6872b55badb1ec291]: Commencement: [Reg. 180](https://www.legislation.gov.uk/nisr/2014/290/regulation/180) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-5b5bb64b8caf1ec6872b55badb1ec291]: Commencement: [Reg. 180](https://www.legislation.gov.uk/nisr/2014/290/regulation/180) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

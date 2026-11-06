@@ -32,7 +32,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND AND WALES
 
-The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2025 (revoked)[^key-61bbaba84e45b618f53d23ff0f0e0eb1]
+The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2025 (revoked)[^c-61bbaba84e45b618f53d23ff0f0e0eb1]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st October 2025
 
-[^key-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-61bbaba84e45b618f53d23ff0f0e0eb1]
+## 1. Citation, commencement and extent[^c-61bbaba84e45b618f53d23ff0f0e0eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the 2015 Regulations[^key-61bbaba84e45b618f53d23ff0f0e0eb1]
+## 2. Amendment of Schedule 1 to the 2015 Regulations[^c-61bbaba84e45b618f53d23ff0f0e0eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-61bbaba84e45b618f53d23ff0f0e0eb1]
+## 3. Revocation[^c-61bbaba84e45b618f53d23ff0f0e0eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61bbaba84e45b618f53d23ff0f0e0eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61bbaba84e45b618f53d23ff0f0e0eb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2025/986) revoked (1.10.2026) by [The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026 (S.I. 2026/962)](https://www.legislation.gov.uk/uksi/2026/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/962/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/962/regulation/4)
+[^c-61bbaba84e45b618f53d23ff0f0e0eb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2025/986) revoked (1.10.2026) by [The Personal Injuries (NHS Charges) (Information Provision and Amounts) (Amendment) Regulations 2026 (S.I. 2026/962)](https://www.legislation.gov.uk/uksi/2026/962), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/962/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/962/regulation/4)

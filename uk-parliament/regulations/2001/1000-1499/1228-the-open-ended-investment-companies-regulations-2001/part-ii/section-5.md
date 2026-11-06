@@ -24,7 +24,7 @@ summary: ''
 
 (2) Nothing in paragraph (1)—
 
-- (a) applies to any scheme property designated for the purposes of this regulation by FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules;
+- (a) applies to any scheme property designated for the purposes of this regulation by FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules;
 - (b) prevents a depositary from—
   - (i) entrusting to a third party all or some of the assets in its safekeeping; or
   - (ii) in a case falling within sub-paragraph (i), authorising the third party to entrust all or some of those assets to other specified persons.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

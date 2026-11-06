@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Scope of these Regulations[^key-61a9a571b0db3cbba2f665eca7c165fa]
+## 3. Scope of these Regulations[^c-61a9a571b0db3cbba2f665eca7c165fa]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-61a9a571b0db3cbba2f665eca7c165fa]: Commencement: Reg. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-61a9a571b0db3cbba2f665eca7c165fa]: Commencement: Reg. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
 

@@ -54,16 +54,16 @@ In accordance with section 79(2)(c) of that Act, a draft of this instrument has 
 
 - “**the 2018 Act**” means the Social Security (Scotland) Act 2018 [^c23435921];
 - “**the 2015 Regulations**” means the Scottish Tribunals (Eligibility for Appointment) Regulations 2015 [^c23435931];
-- “the 2020 Regulations” means the Scottish Child Payment Regulations 2020;[^key-53eb9e491d53183aa72b9631ef95997f]
-- “the Carer’s Allowance Supplement Regulations” means the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020;[^key-4ccded00a800b0e6dae5d0e40fad4016]
+- “the 2020 Regulations” means the Scottish Child Payment Regulations 2020;[^c-53eb9e491d53183aa72b9631ef95997f]
+- “the Carer’s Allowance Supplement Regulations” means the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020;[^c-4ccded00a800b0e6dae5d0e40fad4016]
 - “**the Chamber President**” means the Chamber President of the First-tier Tribunal;
 - “**the First-tier Tribunal**” means the First-tier Tribunal for Scotland Social Security Chamber [^c23435941];
 - “**ordinary member with disability experience**” means a member of the First-tier Tribunal for Scotland who is eligible for appointment under regulation 3D of the 2015 Regulations [^c23435951];
 - “**ordinary member with medical experience**” means a member of the First-tier Tribunal for Scotland who is eligible for appointment under regulation 3C of the 2015 Regulations [^c23435961];
-- “process decision” means—[^key-e862577e8e50cba291bc003c3501d104]
+- “process decision” means—[^c-e862577e8e50cba291bc003c3501d104]
   - (a) in relation to an appeal under section 61 of the 2018 Act, a decision made under section 38, 41(3) or 42 of that Act;
   - (b) in relation to an appeal under paragraph 23 of the schedule of the 2020 Regulations, a decision made under paragraph 1(4), 14(5) or 15(2)(b) of the schedule of those Regulations;
-  - (c) in relation to an appeal under paragraph 13 of schedule 2 of the Carer’s Allowance Supplement Regulations, a decision made under paragraph 1(5), 4(6) or 5(2)(b) of schedule 2 of those Regulations.[^key-0fe756dbede390d443fe474092345f7e]
+  - (c) in relation to an appeal under paragraph 13 of schedule 2 of the Carer’s Allowance Supplement Regulations, a decision made under paragraph 1(5), 4(6) or 5(2)(b) of schedule 2 of those Regulations.[^c-0fe756dbede390d443fe474092345f7e]
 - “**reserved benefit**” means a benefit which is to any extent a reserved matter within the meaning of schedule 5 of the Scotland Act 1998 [^c23435971]; and
 - “**the Upper Tribunal**” means the Upper Tribunal for Scotland.
 
@@ -75,7 +75,7 @@ In accordance with section 79(2)(c) of that Act, a draft of this instrument has 
 
 (3) In cases involving consideration of physical condition in connection with entitlement to employment–injury assistance, the First-tier Tribunal must consist of one legal member, and one ordinary member with medical experience.
 
-## 3. Composition of the First-tier Tribunal when deciding an appeal against a process decision[^key-139741c671adea5841dae31792fe1c49]
+## 3. Composition of the First-tier Tribunal when deciding an appeal against a process decision[^c-139741c671adea5841dae31792fe1c49]
 
 The First-tier Tribunal, when convened to decide an appeal under any of the following provisions against a process decision, must consist only of a legal member—
 
@@ -97,7 +97,7 @@ The First-tier Tribunal, when convened to decide an appeal under any of the foll
 
 (4) The authority to determine the composition of the First-tier Tribunal in respect of the alternative compositions referred to in paragraph (1) is delegated to the President of the Scottish Tribunals, who may sub-delegate the authority to the Chamber President.
 
-## 4A. Composition of the First-tier Tribunal when deciding an appeal against a determination of entitlement to a carer’s allowance supplement[^key-e791cb630a92a8fd0990527d7030f752]
+## 4A. Composition of the First-tier Tribunal when deciding an appeal against a determination of entitlement to a carer’s allowance supplement[^c-e791cb630a92a8fd0990527d7030f752]
 
 The First-tier Tribunal, when convened to decide an appeal under paragraph 9 of schedule 2 of the Carer’s Allowance Supplement Regulations against a determination by the Scottish Ministers of entitlement to a carer’s allowance supplement, must consist only of a legal member.
 
@@ -146,9 +146,9 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^c23435931]: Marginal citation: [S.S.I. 2015/381](https://www.legislation.gov.uk/ssi/2015/381), which was amended by [S.S.I. 2017/274](https://www.legislation.gov.uk/ssi/2017/274) and [S.S.I. 2018/276](https://www.legislation.gov.uk/ssi/2018/276).
 
-[^key-53eb9e491d53183aa72b9631ef95997f]: Textual amendment: Words in reg. 1(2) inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/2/2/a)
+[^c-53eb9e491d53183aa72b9631ef95997f]: Textual amendment: Words in reg. 1(2) inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/2/2/a)
 
-[^key-4ccded00a800b0e6dae5d0e40fad4016]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/351/regulation/1/2) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/2/a)
+[^c-4ccded00a800b0e6dae5d0e40fad4016]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/351/regulation/1/2) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/2/a)
 
 [^c23435941]: Marginal citation: The First-tier Tribunal for Scotland Social Security Chamber is brought into being by [S.S.I. 2018/349](https://www.legislation.gov.uk/ssi/2018/349).
 
@@ -156,12 +156,12 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^c23435961]: Marginal citation: Regulation 3C was inserted by [S.S.I. 2018/276](https://www.legislation.gov.uk/ssi/2018/276). This followed from the insertion into the 2015 Regulations of regulations 3A and 3B, by [S.S.I. 2017/274](https://www.legislation.gov.uk/ssi/2017/274).
 
-[^key-e862577e8e50cba291bc003c3501d104]: Textual amendment: Words in reg. 1(2) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/353/regulation/2/2/b)
+[^c-e862577e8e50cba291bc003c3501d104]: Textual amendment: Words in reg. 1(2) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/353/regulation/2/2/b)
 
-[^key-0fe756dbede390d443fe474092345f7e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/351/regulation/1/2) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/2/b)
+[^c-0fe756dbede390d443fe474092345f7e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/351/regulation/1/2) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/2/b)
 
 [^c23435971]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). The relevant section is F1 in Part 2 of schedule 5, which was amended by the [Scotland Act 2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11), [sections 22 to 28](https://www.legislation.gov.uk/ukpga/2016/11/section/22).
 
-[^key-139741c671adea5841dae31792fe1c49]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2018/351/regulation/3) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/3)
+[^c-139741c671adea5841dae31792fe1c49]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2018/351/regulation/3) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/3)
 
-[^key-e791cb630a92a8fd0990527d7030f752]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2018/351/regulation/4A) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/4)
+[^c-e791cb630a92a8fd0990527d7030f752]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2018/351/regulation/4A) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2020/476/regulation/4/4)

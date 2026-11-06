@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Meaning of “father”.[^M_F_44efc3fb-deee-43c2-811f-6e17ae554102][^c271634][^key-f5af97cac9964d7b32be4534d0a033a5]
+## 28. Meaning of “father”.[^M_F_44efc3fb-deee-43c2-811f-6e17ae554102][^c271634][^c-f5af97cac9964d7b32be4534d0a033a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ then, subject to subsection (5) below, that man shall be treated as the father o
 
 - (a) in relation to England and Wales and Northern Ireland, to any child who, by virtue of the rules of common law, is treated as the legitimate child of the parties to a marriage,
 - (b) in relation to Scotland, to any child who, by virtue of any enactment or other rule of law, is treated as the child of the parties to a marriage, or
-- (c)[^c1823654][^key-1f45fcbb0b3dbc14bd0551baa6b83d57][^key-d7c8ee4ab0f3c2545b0e4331f636fc08] to any child to the extent that the child is treated by virtue of adoption as not being the man’s child[^c1830830].
+- (c)[^c1823654][^c-1f45fcbb0b3dbc14bd0551baa6b83d57][^c-d7c8ee4ab0f3c2545b0e4331f636fc08] to any child to the extent that the child is treated by virtue of adoption as not being the man’s child[^c1830830].
 
 (5A)[^c1827180] If—
 
@@ -130,15 +130,15 @@ he is not , subject to subsections (5A) and (5B) above,[^c1827857] to be treated
 
 [^c271634]: Commencement: S. 28 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-f5af97cac9964d7b32be4534d0a033a5]: Modification: Ss. 27-29 excluded (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/57/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-f5af97cac9964d7b32be4534d0a033a5]: Modification: Ss. 27-29 excluded (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/57/2), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(b)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
 [^c1827082]: Textual amendment: Words in s. 28(1) inserted (1.12.2003) by [Human Fertilisation and Embryology (Deceased Fathers) Act 2003 (c. 24)](https://www.legislation.gov.uk/ukpga/2003/24), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2003/24/section/2/1), {Sch. para. 13)}; [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
 [^c1823654]: Modification: S. 28(5)(c) modified (1.11.1994) by [S.I. 1994/2804](https://www.legislation.gov.uk/uksi/1994/2804), [reg. 3](https://www.legislation.gov.uk/uksi/1994/2804/regulation/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1994/2804/schedule/2/paragraph/6)
 
-[^key-1f45fcbb0b3dbc14bd0551baa6b83d57]: Modification: S. 28(5)(c) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
+[^c-1f45fcbb0b3dbc14bd0551baa6b83d57]: Modification: S. 28(5)(c) modified (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 
-[^key-d7c8ee4ab0f3c2545b0e4331f636fc08]: Modification: [S. 28(5)(c)](https://www.legislation.gov.uk/ukpga/1990/37/section/28/5/c) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/16)
+[^c-d7c8ee4ab0f3c2545b0e4331f636fc08]: Modification: [S. 28(5)(c)](https://www.legislation.gov.uk/ukpga/1990/37/section/28/5/c) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/16)
 
 [^c1830830]: Textual amendment: Words in s. 28(5)(c) substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 78](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/78) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 

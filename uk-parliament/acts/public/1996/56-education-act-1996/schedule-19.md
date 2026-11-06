@@ -28,7 +28,7 @@ Section 166.
 
 **1.** (1)[^c15257301] The requirement for there to be articles of government for a school (imposed by section 127) shall not apply in relation to a new school until the requirement for there to be an instrument of government for the school takes effect under section 99.
 
-(2) Before making an order under section 127 as to the articles of government for a new school, the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] shall consult the temporary governing body and the head teacher.
+(2) Before making an order under section 127 as to the articles of government for a new school, the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] shall consult the temporary governing body and the head teacher.
 
 (3) Before making such an order in respect of a new school which will be a voluntary school, the authority shall—
 
@@ -255,7 +255,7 @@ as if they had effect as independent enactments (rather than for the purposes of
 
 [^c15257301]: Modification: Sch. 19 para. 1(1) modified (1.1.1999) by [S.I. 1998/3097](https://www.legislation.gov.uk/uksi/1998/3097), [reg. 6](https://www.legislation.gov.uk/uksi/1998/3097/regulation/6)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15257311]: Modification: Sch. 19 para. 3 modified (1.1.1999) by [S.I. 1998/3097](https://www.legislation.gov.uk/uksi/1998/3097), [reg. 7](https://www.legislation.gov.uk/uksi/1998/3097/regulation/7)
 

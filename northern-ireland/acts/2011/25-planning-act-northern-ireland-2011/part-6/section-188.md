@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 188. Compensation where planning permission assumed for other development[^key-493aaa40f93f16d2c29b7b0511db6787][^key-28827d633b5a4972517bd64316905e97]
+## 188. Compensation where planning permission assumed for other development[^c-493aaa40f93f16d2c29b7b0511db6787][^c-28827d633b5a4972517bd64316905e97]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Where a claim for compensation is made to a council under section 26 of the Act 
 
 ## Annotations
 
-[^key-493aaa40f93f16d2c29b7b0511db6787]: Commencement: S. 188 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-493aaa40f93f16d2c29b7b0511db6787]: Commencement: S. 188 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-28827d633b5a4972517bd64316905e97]: Commencement: S. 188 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-28827d633b5a4972517bd64316905e97]: Commencement: S. 188 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Determinations of amounts of transport fuel[^key-efb2d7f7b86375f76c244d23fe90ab84]
+## 126. Determinations of amounts of transport fuel[^c-efb2d7f7b86375f76c244d23fe90ab84]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 - (d) sustainable development; or
 - (e) the environment generally.
 
-(5)[^key-117e8e1eaef5e24743c9fc7a51f49dac] If an RTF order makes provision for the counting or determination of amounts of transport fuel for the purposes of provision made by or under this Chapter by reference to any document, it may provide for references to the document to have effect as references to it as revised or re-issued from time to time.
+(5)[^c-117e8e1eaef5e24743c9fc7a51f49dac] If an RTF order makes provision for the counting or determination of amounts of transport fuel for the purposes of provision made by or under this Chapter by reference to any document, it may provide for references to the document to have effect as references to it as revised or re-issued from time to time.
 
 (6) The Secretary of State may give written directions to the Administrator about the exercise of any of the Administrator's functions in connection with the counting or determination of amounts of transport fuel for the purposes of provision made by or under this Chapter.
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efb2d7f7b86375f76c244d23fe90ab84]: Commencement: S. 126 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-efb2d7f7b86375f76c244d23fe90ab84]: Commencement: S. 126 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-117e8e1eaef5e24743c9fc7a51f49dac]: Textual amendment: [S. 126(5)-(8)](https://www.legislation.gov.uk/ukpga/2004/20/section/126/5) inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/3)
+[^c-117e8e1eaef5e24743c9fc7a51f49dac]: Textual amendment: [S. 126(5)-(8)](https://www.legislation.gov.uk/ukpga/2004/20/section/126/5) inserted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/3)

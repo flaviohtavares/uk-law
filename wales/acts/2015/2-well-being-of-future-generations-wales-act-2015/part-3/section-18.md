@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Commissioner's general duty[^key-5782f6ad30131c90bbbe579ff59311f1]
+## 18. Commissioner's general duty[^c-5782f6ad30131c90bbbe579ff59311f1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The general duty of the Commissioner is—
 
 ## Annotations
 
-[^key-5782f6ad30131c90bbbe579ff59311f1]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/2/section/18) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-5782f6ad30131c90bbbe579ff59311f1]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/2/section/18) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

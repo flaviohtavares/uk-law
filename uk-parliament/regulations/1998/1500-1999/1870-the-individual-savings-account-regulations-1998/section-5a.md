@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Treatment of sums held in accounts managed by Icesave Bank[^key-25e6a60a69c511a0f58952d1c66f88b5]
+## 5A. Treatment of sums held in accounts managed by Icesave Bank[^c-25e6a60a69c511a0f58952d1c66f88b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25e6a60a69c511a0f58952d1c66f88b5]: Textual amendment: Reg. 5A omitted (1.11.2011) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [11](https://www.legislation.gov.uk/uksi/2011/1780/regulation/11)
+[^c-25e6a60a69c511a0f58952d1c66f88b5]: Textual amendment: Reg. 5A omitted (1.11.2011) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [11](https://www.legislation.gov.uk/uksi/2011/1780/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Offences in connection with SSSIs[^key-65930e7079f9036ff8bde46c1d45ba92]
+## 55. Offences in connection with SSSIs[^c-65930e7079f9036ff8bde46c1d45ba92]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65930e7079f9036ff8bde46c1d45ba92]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/16/section/55) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-65930e7079f9036ff8bde46c1d45ba92]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/16/section/55) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

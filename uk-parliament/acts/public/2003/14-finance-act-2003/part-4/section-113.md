@@ -31,9 +31,9 @@ summary: ''
   - (ii) paragraph 29 (assessment to recover excessive repayment);
 - (b) functions of the Inland Revenue under these provisions are functions of the Board—
   - (i) paragraph 33 (relief in case of double assessment),
-  - (ii)[^key-dd2af5ce57c7b35054f2dd2773f3488e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-dd2af5ce57c7b35054f2dd2773f3488e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-80cca33a2247274d5377e83f23c75117] The following functions of the Inland Revenue under Schedule 11A (claims not included in returns) are functions of the Board—
+(3A)[^c-80cca33a2247274d5377e83f23c75117] The following functions of the Inland Revenue under Schedule 11A (claims not included in returns) are functions of the Board—
 
 - (a) functions under paragraph 2(1) (form of claims),
 - (b) functions relating to a claim made to the Board.
@@ -44,6 +44,6 @@ summary: ''
 
 [^c5522331]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-dd2af5ce57c7b35054f2dd2773f3488e]: Textual amendment: S. 113(3)(b)(ii) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/3)
+[^c-dd2af5ce57c7b35054f2dd2773f3488e]: Textual amendment: S. 113(3)(b)(ii) omitted (with effect in accordance with s. 28(2) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2010/33/schedule/12/paragraph/3)
 
-[^key-80cca33a2247274d5377e83f23c75117]: Textual amendment: S. 113(3A) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(6)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/6)
+[^c-80cca33a2247274d5377e83f23c75117]: Textual amendment: S. 113(3A) inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(6)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/6)

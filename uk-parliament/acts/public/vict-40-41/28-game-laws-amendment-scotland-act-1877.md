@@ -31,42 +31,42 @@ Game Laws Amendment (Scotland) Act 1877 (repealed)
 
 1877 c.28
 
-[^key-c2405342af808afd3c8a8d997f29e2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2405342af808afd3c8a8d997f29e2c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title and extent of Act.[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
+## 1. Short title and extent of Act.[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
 
-## 3. Interpretation.[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
-
-## 10. Prosecutions under Game Acts.[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
+## 3. Interpretation.[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. No person to be prosecuted again for the same offence.[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
+## 4—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
+
+## 10. Prosecutions under Game Acts.[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-c2405342af808afd3c8a8d997f29e2c9][^key-c2405342af808afd3c8a8d997f29e2c9]
+## 11. No person to be prosecuted again for the same offence.[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-c2405342af808afd3c8a8d997f29e2c9][^c-c2405342af808afd3c8a8d997f29e2c9]
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-c2405342af808afd3c8a8d997f29e2c9]
+## SCHEDULE 1[^c-c2405342af808afd3c8a8d997f29e2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-c2405342af808afd3c8a8d997f29e2c9]
+## SCHEDULE 2[^c-c2405342af808afd3c8a8d997f29e2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2405342af808afd3c8a8d997f29e2c9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/40-41/28) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-c2405342af808afd3c8a8d997f29e2c9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/40-41/28) repealed (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)

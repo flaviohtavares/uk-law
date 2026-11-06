@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Incomplete weeks of benefit[^key-44ba3a87c40db3a9a043bea4625ef815][^key-6aa63dd3f845e2597f1da831c126bf52]
+## 34. Incomplete weeks of benefit[^c-44ba3a87c40db3a9a043bea4625ef815][^c-6aa63dd3f845e2597f1da831c126bf52]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44ba3a87c40db3a9a043bea4625ef815]: Textual amendment: Reg. 34 omitted (11.4.1988) by virtue of [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1988/663/regulation/16)
+[^c-44ba3a87c40db3a9a043bea4625ef815]: Textual amendment: Reg. 34 omitted (11.4.1988) by virtue of [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1988/663/regulation/16)
 
-[^key-6aa63dd3f845e2597f1da831c126bf52]: Commencement: Reg. 34 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-6aa63dd3f845e2597f1da831c126bf52]: Commencement: Reg. 34 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

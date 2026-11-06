@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Exclusion of requirement for notice of hearsay evidence[^key-295f1d310815174439d9d930600aecb3]
+## 23. Exclusion of requirement for notice of hearsay evidence[^c-295f1d310815174439d9d930600aecb3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 2(1) of the Civil Evidence Act 1995 (notice of proposal to adduce hearsa
 
 ## Annotations
 
-[^key-295f1d310815174439d9d930600aecb3]: Textual amendment: [Rules 17-23](https://www.legislation.gov.uk/uksi/1981/552/rule/17) and cross-heading (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(c)(d)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/12/c/d)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6)
+[^c-295f1d310815174439d9d930600aecb3]: Textual amendment: [Rules 17-23](https://www.legislation.gov.uk/uksi/1981/552/rule/17) and cross-heading (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(c)(d)](https://www.legislation.gov.uk/uksi/2021/626/rule/2/12/c/d)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Procedure where less than 15 years use of traditional herbal medicinal product[^key-f6cfd7c9b3d72ac1c740ec84bc7b531f]
+## 130A. Procedure where less than 15 years use of traditional herbal medicinal product[^c-f6cfd7c9b3d72ac1c740ec84bc7b531f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the licensing authority may refer the matter to the appropriate committee for re
 
 ## Annotations
 
-[^key-f6cfd7c9b3d72ac1c740ec84bc7b531f]: Textual amendment: Reg. 130A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/775/regulation/117) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/88)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6cfd7c9b3d72ac1c740ec84bc7b531f]: Textual amendment: Reg. 130A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [117](https://www.legislation.gov.uk/uksi/2019/775/regulation/117) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/88)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

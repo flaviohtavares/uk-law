@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Appeal to Upper Tribunal from tribunals in Scotland[^key-4958611953daf5b80ec27d2f2645a753]
+## 7. Appeal to Upper Tribunal from tribunals in Scotland[^c-4958611953daf5b80ec27d2f2645a753]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ An appeal against a decision of the Pensions Appeal Tribunal in Scotland under s
 
 ## Annotations
 
-[^key-4958611953daf5b80ec27d2f2645a753]: Commencement: Art. 7 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-4958611953daf5b80ec27d2f2645a753]: Commencement: Art. 7 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
 
 [^f00006]: Footnote: [1943 c.39](https://www.legislation.gov.uk/ukpga/1943/39). Section 5 was amended by section 23 of the Chronically Sick and Disabled Persons Act [1970 (c.44)](https://www.legislation.gov.uk/ukpga/1970/44) and section 16(3) of the Social Security Act [1980 (c.30)](https://www.legislation.gov.uk/ukpga/1980/30), and is further amended by Schedule 3 to this Order.

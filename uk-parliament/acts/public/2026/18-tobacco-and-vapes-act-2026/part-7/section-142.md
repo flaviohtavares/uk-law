@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Addition of smoke-free places in England[^key-9c85ca0966f4d456676d8d599322fc22]
+## 142. Addition of smoke-free places in England[^c-9c85ca0966f4d456676d8d599322fc22]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c85ca0966f4d456676d8d599322fc22]: Commencement: S. 142 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-9c85ca0966f4d456676d8d599322fc22]: Commencement: S. 142 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

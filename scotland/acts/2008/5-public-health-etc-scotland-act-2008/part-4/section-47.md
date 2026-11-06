@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Authorised steps: least invasive and least intrusive procedures[^key-0ef74d400b60f65b87e02952cb13b0b6]
+## 47. Authorised steps: least invasive and least intrusive procedures[^c-0ef74d400b60f65b87e02952cb13b0b6]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ must not, in taking that step, use invasive or intrusive procedures unless that 
 
 ## Annotations
 
-[^key-0ef74d400b60f65b87e02952cb13b0b6]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2008/5/section/47) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-0ef74d400b60f65b87e02952cb13b0b6]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2008/5/section/47) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

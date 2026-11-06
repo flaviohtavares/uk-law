@@ -81,11 +81,11 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (3) In relation to section 105 (recovery of benefit payments)—
 
-- (a) subject to paragraph (3A),[^key-82e349adef5a6106cbfcc5755f900b2f] subsection (1) of that section, in so far as it is not already in force; except in so far as it inserts section 71ZB(1)(d) of the 1992 Act and the word “and” immediately preceding it;
+- (a) subject to paragraph (3A),[^c-82e349adef5a6106cbfcc5755f900b2f] subsection (1) of that section, in so far as it is not already in force; except in so far as it inserts section 71ZB(1)(d) of the 1992 Act and the word “and” immediately preceding it;
 - (b) subsections (3), (5) and (6) of that section; and
 - (c) subsection (7) of that section, in so far as it inserts paragraph 6B of Schedule 3 to the Social Security Act 1998 [^c21646001].
 
-(3A)[^key-a052ff90ab7a9ea1c8c922518387b7ce] In so far as section 105(1) of the 2012 Act inserts section 71ZB(1)(b) and (c) of the 1992 Act, those paragraphs come into force on 29th April 2013 only in so far as they relate respectively to a new style JSA award and a new style ESA award.
+(3A)[^c-a052ff90ab7a9ea1c8c922518387b7ce] In so far as section 105(1) of the 2012 Act inserts section 71ZB(1)(b) and (c) of the 1992 Act, those paragraphs come into force on 29th April 2013 only in so far as they relate respectively to a new style JSA award and a new style ESA award.
 
 (4) In relation to Part 11 of Schedule 14, the repeals of—
 
@@ -94,9 +94,9 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (5) Paragraph 9 of Schedule 2, paragraph 3 of Schedule 2 in so far as it relates to paragraph 9 and section 31 in so far as it relates to those paragraphs.
 
-(6) Despite paragraph (4)(b), the benefits referred to in section 71(11)(aa) and (ac) of the 1992 Act remain benefits to which section 71 of the 1992 Act apply to the extent that they relate respectively to an old style JSA award and an old style ESA award[^key-4cb7b221865e38d58292113edcfc13f7].
+(6) Despite paragraph (4)(b), the benefits referred to in section 71(11)(aa) and (ac) of the 1992 Act remain benefits to which section 71 of the 1992 Act apply to the extent that they relate respectively to an old style JSA award and an old style ESA award[^c-4cb7b221865e38d58292113edcfc13f7].
 
-(7)[^key-8f4e1de7857af0e90b7330e653b2a111] In this article, “old style JSA award”, “new style JSA award”, “old style ESA award” and “new style ESA award” have the same meaning as in article 2(1) of the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013.
+(7)[^c-8f4e1de7857af0e90b7330e653b2a111] In this article, “old style JSA award”, “new style JSA award”, “old style ESA award” and “new style ESA award” have the same meaning as in article 2(1) of the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013.
 
 ## 6. Appointed days for loss of benefit provisions
 
@@ -567,15 +567,15 @@ The following provisions of the Welfare Reform Act 2012 were brought into force 
 
 [^c21645991]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-82e349adef5a6106cbfcc5755f900b2f]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/a) inserted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(2)](https://www.legislation.gov.uk/uksi/2013/983/article/23/2)
+[^c-82e349adef5a6106cbfcc5755f900b2f]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3/a) inserted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(2)](https://www.legislation.gov.uk/uksi/2013/983/article/23/2)
 
 [^c21646001]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-a052ff90ab7a9ea1c8c922518387b7ce]: Textual amendment: [Art. 5(3A)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3A) inserted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(3)](https://www.legislation.gov.uk/uksi/2013/983/article/23/3)
+[^c-a052ff90ab7a9ea1c8c922518387b7ce]: Textual amendment: [Art. 5(3A)](https://www.legislation.gov.uk/uksi/2013/358/article/5/3A) inserted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(3)](https://www.legislation.gov.uk/uksi/2013/983/article/23/3)
 
-[^key-4cb7b221865e38d58292113edcfc13f7]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/uksi/2013/358/article/5/6) substituted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(4)](https://www.legislation.gov.uk/uksi/2013/983/article/23/4)
+[^c-4cb7b221865e38d58292113edcfc13f7]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/uksi/2013/358/article/5/6) substituted (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(4)](https://www.legislation.gov.uk/uksi/2013/983/article/23/4)
 
-[^key-8f4e1de7857af0e90b7330e653b2a111]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/uksi/2013/358/article/5/7) added (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(5)](https://www.legislation.gov.uk/uksi/2013/983/article/23/5)
+[^c-8f4e1de7857af0e90b7330e653b2a111]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/uksi/2013/358/article/5/7) added (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 23(5)](https://www.legislation.gov.uk/uksi/2013/983/article/23/5)
 
 [^c21646011]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 

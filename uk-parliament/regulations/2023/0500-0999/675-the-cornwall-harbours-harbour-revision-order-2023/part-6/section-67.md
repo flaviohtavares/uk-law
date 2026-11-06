@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Amendment of Act and Orders[^key-cea1b7086f5cb60d4f19c2133c6b60fe]
+## 67. Amendment of Act and Orders[^c-cea1b7086f5cb60d4f19c2133c6b60fe]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cea1b7086f5cb60d4f19c2133c6b60fe]: Commencement: Art. 67 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-cea1b7086f5cb60d4f19c2133c6b60fe]: Commencement: Art. 67 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00022]: Footnote: [S.I. 1988/1500](https://www.legislation.gov.uk/uksi/1988/1500).
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person gives a notification under section 83(1), 84(1) or 85(1) by—
 
-- (a)[^key-2431c5d3a7eecebf14deea50e32d6173] attending at the police station in the person’s local police area that is for the time being specified in a document published for that local police area under this section or, if there is more than one such police station, at any one of them, and
+- (a)[^c-2431c5d3a7eecebf14deea50e32d6173] attending at the police station in the person’s local police area that is for the time being specified in a document published for that local police area under this section or, if there is more than one such police station, at any one of them, and
 - (b) giving an oral notification to any police officer, or to any person authorised for the purpose by the officer in charge of the station.
 
 (2) A person giving a notification under section 84(1)—
@@ -32,7 +32,7 @@ summary: ''
 
 may give the notification at a police station that would fall within subsection (1) above if the change in home address had already occurred or (as the case may be) if the address of those premises were his home address.
 
-(2A)[^key-1f5817a9e0ef05d442f23cd481416d14] The chief officer of police for each police area must publish, in such manner as the chief officer thinks fit, a document containing the name and address of each police station in that area at which a person may give a notification under section 83(1), 84(1) or 85(1).
+(2A)[^c-1f5817a9e0ef05d442f23cd481416d14] The chief officer of police for each police area must publish, in such manner as the chief officer thinks fit, a document containing the name and address of each police station in that area at which a person may give a notification under section 83(1), 84(1) or 85(1).
 
 (2B) A chief officer of police must keep under review a document published by the chief officer under this section and may from time to time publish a revised version of the document in such manner as the chief officer thinks fit.
 
@@ -54,7 +54,7 @@ may give the notification at a police station that would fall within subsection 
 
 (1) A person gives a notification under section 83(1), 84(1) or 85(1) by—
 
-- (a) attending at such police station [^key-8a99f8ec5333b8396d0a61bb1e5c3221]... as the Secretary of State may by regulations prescribe or, if there is more than one, at any of them, and
+- (a) attending at such police station [^c-8a99f8ec5333b8396d0a61bb1e5c3221]... as the Secretary of State may by regulations prescribe or, if there is more than one, at any of them, and
 - (b) giving an oral notification to any police officer, or to any person authorised for the purpose by the officer in charge of the station.
 
 (2) A person giving a notification under section 84(1)—
@@ -111,15 +111,15 @@ may give the notification at a police station that would fall within subsection 
 
 [^M_E_33a2dd43-f31e-415b-df74-307fabd617fa]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
 
-[^key-2431c5d3a7eecebf14deea50e32d6173]: Textual amendment: [S. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/1/a) substituted (E.W.) (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/168/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)
+[^c-2431c5d3a7eecebf14deea50e32d6173]: Textual amendment: [S. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/1/a) substituted (E.W.) (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/168/2), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)
 
-[^key-1f5817a9e0ef05d442f23cd481416d14]: Textual amendment: [S. 87(2A)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/2B) inserted (E.W.) (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 168(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/168/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)
+[^c-1f5817a9e0ef05d442f23cd481416d14]: Textual amendment: [S. 87(2A)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/2B) inserted (E.W.) (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 168(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/168/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)
 
 [^c20911261]: Textual amendment: S. 87(6) repealed (E.W.N.I.) (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 73](https://www.legislation.gov.uk/ukpga/2008/4/section/73), [149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2](https://www.legislation.gov.uk/uksi/2008/1586/article/2), [Sch. 1 para. 50(4)(d)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50/4/d) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2))
 
 [^c18949961]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England, Wales and Northern Ireland only
 
-[^key-8a99f8ec5333b8396d0a61bb1e5c3221]: Textual amendment: Words in [s. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/1/a) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 20(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/2)
+[^c-8a99f8ec5333b8396d0a61bb1e5c3221]: Textual amendment: Words in [s. 87(1)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/87/1/a) omitted (S.) (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 20(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/2)
 
 [^c18949921]: Textual amendment: S. 87(5A) substituted for s. 87(4)(5) (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10) , {ss. 77(7)}, 104; [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 

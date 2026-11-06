@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Transitional provision: charging schedule ceases to have effect[^key-8c90caf9cc542ffa295934e0a607c55b]
+## 129. Transitional provision: charging schedule ceases to have effect[^c-8c90caf9cc542ffa295934e0a607c55b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c90caf9cc542ffa295934e0a607c55b]: Commencement: Reg. 129 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-8c90caf9cc542ffa295934e0a607c55b]: Commencement: Reg. 129 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

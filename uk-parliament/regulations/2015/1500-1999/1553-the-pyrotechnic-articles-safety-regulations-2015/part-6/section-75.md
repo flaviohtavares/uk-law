@@ -22,12 +22,12 @@ summary: ''
 
 (1) Subject to paragraph (2), the 2010 Regulations and the Pyrotechnic Articles (Safety)(Amendment) Regulations 2013 [^c22665391] are revoked.
 
-(2) Subject to the modifications made to the 2010 Regulations in paragraph (2A), the[^key-fcb39fc28b78d36821d4f4dfeb0649ed] enactments referred to in paragraph (1) continue to apply, as if they had not been revoked, to—
+(2) Subject to the modifications made to the 2010 Regulations in paragraph (2A), the[^c-fcb39fc28b78d36821d4f4dfeb0649ed] enactments referred to in paragraph (1) continue to apply, as if they had not been revoked, to—
 
 - (a) an article placed on the market before the commencement date;
 - (b) a pyrotechnic article to which regulation 74(1) or (2) applies.
 
-(2A)[^key-7655829c9d742e889931c1e3d9c8b02e] The modifications referred to in paragraph (2) are as follows—
+(2A)[^c-7655829c9d742e889931c1e3d9c8b02e] The modifications referred to in paragraph (2) are as follows—
 
 - (a) in regulations 18(3) and 36(3), for “EU” substitute “ UK ”;
 - (b) in regulation 13, omit paragraph (4);
@@ -92,9 +92,9 @@ summary: ''
 
 [^c22665391]: Marginal citation: [S.I. 2013/1950](https://www.legislation.gov.uk/uksi/2013/1950).
 
-[^key-fcb39fc28b78d36821d4f4dfeb0649ed]: Textual amendment: Words in [reg. 75(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 37(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/37/2) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fcb39fc28b78d36821d4f4dfeb0649ed]: Textual amendment: Words in [reg. 75(2)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 37(2)](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/37/2) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7655829c9d742e889931c1e3d9c8b02e]: Textual amendment: [Reg. 75(2A)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 37(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/37/3) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7655829c9d742e889931c1e3d9c8b02e]: Textual amendment: [Reg. 75(2A)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/75/2A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 37(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/37/3) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22665401]: Marginal citation: [1875 c.17](https://www.legislation.gov.uk/ukpga/1875/17); [section 31(2) to (5)](https://www.legislation.gov.uk/uksi/2015/1553/section/31/2) was inserted by [S.I. 2010/1554](https://www.legislation.gov.uk/uksi/2010/1554).
 

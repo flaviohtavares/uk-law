@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Disqualification for corrupt or illegal practice: Senedd Cymru elections[^key-ba6b4f55dfaeffabba80883d6346ec5e]
+## 63. Disqualification for corrupt or illegal practice: Senedd Cymru elections[^c-ba6b4f55dfaeffabba80883d6346ec5e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Schedule 1A to the Government of Wales Act [2006 (c. 32)](https://www.legisla
 
 ## Annotations
 
-[^key-ba6b4f55dfaeffabba80883d6346ec5e]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2024/5/section/63) in force at 9.11.2024, see [s. 72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)
+[^c-ba6b4f55dfaeffabba80883d6346ec5e]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2024/5/section/63) in force at 9.11.2024, see [s. 72(2)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Duty of local authority to consider parental representations[^key-949fb7da23cdd823510e1f56934e2692][^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]
+## 14A. Duty of local authority to consider parental representations[^c-949fb7da23cdd823510e1f56934e2692][^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-949fb7da23cdd823510e1f56934e2692]: Textual amendment: S. 14A inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 3](https://www.legislation.gov.uk/ukpga/2006/40/section/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
+[^c-949fb7da23cdd823510e1f56934e2692]: Textual amendment: S. 14A inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 3](https://www.legislation.gov.uk/ukpga/2006/40/section/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

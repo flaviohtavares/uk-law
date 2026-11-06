@@ -24,7 +24,7 @@ Article 6
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-4bf2975fd1e727ee0ce762bb7c16c3dd]
+#### 1. Interpretation[^c-4bf2975fd1e727ee0ce762bb7c16c3dd]
 
 (1) In this Schedule—
 
@@ -58,11 +58,11 @@ then (subject to sub-paragraph (8)) the application is to be treated as having b
 
 ### PART 2 — Transitional provisions relating to the grant and renewal of licences and other documents, and registrations, under enactments to be repealed by the Gambling Act 2005
 
-#### 2. Betting, Gaming and Lotteries Act 1963: restrictions on applications[^key-f81237088b3b6cc42d2ba7f316611e7c]
+#### 2. Betting, Gaming and Lotteries Act 1963: restrictions on applications[^c-f81237088b3b6cc42d2ba7f316611e7c]
 
 (1) This paragraph and paragraphs 3 and 4 apply with respect to the grant of licences and other documents, and registrations, under the 1963 Act during the period beginning on the date on which this Order comes into force and ending on the date on which the repeal of that Act for all purposes takes effect.
 
-(2) Subject to sub-paragraph (3),[^key-604b174161fd7742149cf2c3f4cc977b] any application under the 1963 Act of the following kinds may be granted only where the application is made before 28th April 2007 and, in a case to which paragraph 4 applies, the condition referred to in sub-paragraph (3) of that paragraph is met—
+(2) Subject to sub-paragraph (3),[^c-604b174161fd7742149cf2c3f4cc977b] any application under the 1963 Act of the following kinds may be granted only where the application is made before 28th April 2007 and, in a case to which paragraph 4 applies, the condition referred to in sub-paragraph (3) of that paragraph is met—
 
 - (a) an application under paragraph 5 of Schedule 1 for the grant of a bookmaker’s permit, betting agency permit or betting office licence;
 - (b) an application under paragraph 5 of Schedule 2 for the registration of a person as a pool promoter;
@@ -70,9 +70,9 @@ then (subject to sub-paragraph (8)) the application is to be treated as having b
 - (d) an application for a certificate of approval under section 13[^f00026] for a ground to be used as a horse racecourse;
 - (e) an application for a licence authorising an inter-track betting scheme under paragraph 2 of Schedule 5ZA[^f00027].
 
-(3)[^key-8d76076744a0d008878fc1d8b34e8714] Sub-paragraph (2)(a) does not apply in relation to any application under Schedule 1 to the 1963 Act for the grant of a bookmaker’s permit where the application is made by the company which is nominated by the Secretary of State for the purposes of section 2 of the Horserace Betting and Olympic Lottery Act 2004 in accordance with subsection (2)(a) of that section.
+(3)[^c-8d76076744a0d008878fc1d8b34e8714] Sub-paragraph (2)(a) does not apply in relation to any application under Schedule 1 to the 1963 Act for the grant of a bookmaker’s permit where the application is made by the company which is nominated by the Secretary of State for the purposes of section 2 of the Horserace Betting and Olympic Lottery Act 2004 in accordance with subsection (2)(a) of that section.
 
-#### 3. Betting, Gaming and Lotteries Act 1963: period for which licences and other documents and registrations are to have effect[^key-e50a7a227cc3491f32b400ad992c427c]
+#### 3. Betting, Gaming and Lotteries Act 1963: period for which licences and other documents and registrations are to have effect[^c-e50a7a227cc3491f32b400ad992c427c]
 
 (1) Any licence or permit, granted under Schedule 1 or 3 to the 1963 Act on or after the date on which this Order comes into force but before 1st September 2007, is to cease to have effect at the end of 31st August 2007; and paragraph 29 of Schedule 1 to the 1963 Act[^f00028] and paragraph 8 of Schedule 3 to that Act are to have effect as if modified accordingly.
 
@@ -84,7 +84,7 @@ then (subject to sub-paragraph (8)) the application is to be treated as having b
 
 (5) Where any licence authorising an inter-track betting scheme is granted under Schedule 5ZA to the 1963 Act on or after the date on which this Order comes into force, the licence is to cease to have effect at the end of 31st August 2007 (unless revoked before that date under paragraph 11 of that Schedule); and paragraph 7 of that Schedule is to have effect as if modified accordingly.
 
-#### 4. Betting, Gaming and Lotteries Act 1963: grant of licences etc. on or after 1st September 2007[^key-ca6885634c79bd9e435ab7145a63b376]
+#### 4. Betting, Gaming and Lotteries Act 1963: grant of licences etc. on or after 1st September 2007[^c-ca6885634c79bd9e435ab7145a63b376]
 
 (1) This paragraph applies to an application for—
 
@@ -106,7 +106,7 @@ which is not determined before 1st September 2007.
 - (a) it is only to have effect for the purposes of Part 7 of this Schedule (which provides for the conversion of licences etc. under enactments to be repealed by the 2005 Act into premises licences under that Act), and
 - (b) it is to cease to have effect when the application for a premises licence referred to in sub-paragraph (3) is determined or withdrawn.
 
-#### 5. Gaming Act 1968: restrictions on applications[^key-5ab9e9967d88198f24222c9708ea840e]
+#### 5. Gaming Act 1968: restrictions on applications[^c-5ab9e9967d88198f24222c9708ea840e]
 
 (1) This paragraph and paragraphs 6 to 11 apply with respect to the grant or renewal of licences, registrations and permits under the 1968 Act during the period beginning on the date on which this Order comes into force and ending on the date on which the repeal of that Act for all purposes takes effect.
 
@@ -132,7 +132,7 @@ which is not determined before 1st September 2007.
 
 (7) The appropriate authority (within the meaning of paragraph 1(a) or (c) of Schedule 9 to the 1968 Act[^f00032]) may grant an application for the renewal of a permit under section 34 of that Act only where the permit is due to expire in accordance with paragraph 18 of that Schedule before 31st August 2007.
 
-#### 6. Gaming Act 1968: applications for the grant of a licence under that Act where a certificate of consent has been applied for but not obtained[^key-d02bd5fd9c47d35519d8e7c3c28a65b0]
+#### 6. Gaming Act 1968: applications for the grant of a licence under that Act where a certificate of consent has been applied for but not obtained[^c-d02bd5fd9c47d35519d8e7c3c28a65b0]
 
 (1) A person may apply for the grant or transfer of a licence under the 1968 Act provided that—
 
@@ -164,11 +164,11 @@ which is not determined before 1st September 2007.
 - (a) is in respect of the same premises as those to which the application for the grant or transfer of the bingo club licence relates, and
 - (b) where the application relates to the grant of a bingo club licence, is made only for the purposes of an application for the grant of a bingo club licence.
 
-#### 7. Gaming Act 1968: restrictions on applications for a certificate of approval under section 19[^key-b0bbbeef6d4d6f616defd94c589badeb]
+#### 7. Gaming Act 1968: restrictions on applications for a certificate of approval under section 19[^c-b0bbbeef6d4d6f616defd94c589badeb]
 
 (1) The Gambling Commission may issue a certificate under section 19 of the 1968 Act only where the application is made before 1st June 2007.
 
-(1A)[^key-074df84c156ca45885b19ba2be2a535a] Paragraph (1) does not apply where—
+(1A)[^c-074df84c156ca45885b19ba2be2a535a] Paragraph (1) does not apply where—
 
 - (a) the application is made by a person who, when the application is made, holds a certificate under section 19 of the 1968 Act (“the existing certificate”);
 - (b) the effect of the certificate being applied for (“the new certificate”) would be to authorise the performance of functions to which section 19(1) of the 1968 Act applies; and
@@ -188,7 +188,7 @@ the notice is to cease to have effect on that date.
   - (i) such a personal licence has been granted to him by the Gambling Commission and has effect for the time being for the purposes of that subsection, or
   - (ii) he is applying for such a personal licence and that application has not been finally determined or withdrawn.
 
-#### 8. Gaming Act 1968: period for which licences, registrations, and permits are to have effect[^key-235e11e633317483fb4417248078c8b3]
+#### 8. Gaming Act 1968: period for which licences, registrations, and permits are to have effect[^c-235e11e633317483fb4417248078c8b3]
 
 (1) Subject to paragraph 62 below, where a licence under the 1968 Act is granted or renewed under Schedule 2 to that Act on or after the date on which this Order comes into force but before 1st September 2007, the licence is to cease to have effect at the end of 31st August 2007; and paragraph 52 of that Schedule[^f00036] is to have effect as if modified accordingly.
 
@@ -207,7 +207,7 @@ the registration is to cease to have effect at the end of 31st August 2007; and 
 
 (6) Sub-paragraph (5) is without prejudice to the cancellation of any such permit under section 39 of the 1968 Act[^f00039].
 
-#### 9. Gaming Act 1968: grant of licences under the 1968 Act on or after 1st September 2007[^key-1933eb26074ab589222e261d6c9f8d5b]
+#### 9. Gaming Act 1968: grant of licences under the 1968 Act on or after 1st September 2007[^c-1933eb26074ab589222e261d6c9f8d5b]
 
 (1) This paragraph applies to an application for a licence under the 1968 Act which is not determined before 1st September 2007.
 
@@ -221,14 +221,14 @@ the registration is to cease to have effect at the end of 31st August 2007; and 
 - (a) it is only to have effect for the purposes of Part 7 of this Schedule (which provides for the conversion of licences etc. under enactments to be repealed by the 2005 Act into premises licences under that Act), and
 - (b) it is to cease to have effect when the application for a premises licence referred to in that sub-paragraph is determined or withdrawn.
 
-#### 10. Gaming Act 1968: registrations under Part 2 or 3 after 1st September 2007[^key-13859e5504d412d4ab61cf2609de2b19]
+#### 10. Gaming Act 1968: registrations under Part 2 or 3 after 1st September 2007[^c-13859e5504d412d4ab61cf2609de2b19]
 
 Where a members’ club, commercial club or miners’ welfare institute[^f00040] is registered under Part 2 or 3 of the 1968 Act on or after 1st September 2007—
 
 - (a) the registration is only to have effect for the purposes of Part 9 of this Schedule (which provides for the conversion of club registrations under the 1968 Act into club gaming and machine permits under the 2005 Act), and
 - (b) it is to cease to have effect on the date on which the information specified in, as the case may be, paragraph 79 or 87 of this Schedule is sent to the relevant licensing authority (within the meaning of that paragraph).
 
-#### 11. Gaming Act 1968: grant of permits under section 34 on or after 1st September 2007[^key-10147522a3d346f6c388a7b67b77802c]
+#### 11. Gaming Act 1968: grant of permits under section 34 on or after 1st September 2007[^c-10147522a3d346f6c388a7b67b77802c]
 
 (1) This paragraph applies to an application for a permit under section 34 of the 1968 Act in respect of amusement machine premises which is not determined before 1st September 2007.
 
@@ -244,7 +244,7 @@ Where a members’ club, commercial club or miners’ welfare institute[^f00040]
   - (ii) Part 10 of this Schedule (which provides for the conversion of permits under section 34 of the 1968 Act into family entertainment centre gaming machine permits); and
 - (b) it is to cease to have effect when the application for a premises licence, or a family entertainment centre gaming machine permit, referred to in sub-paragraph (2) is determined or withdrawn.
 
-#### 12. Effect of references in the Gaming Act 1968 to the licensing authority on and after 1st September 2007[^key-3c15c964f36eb51bba893d3b40d60f6f]
+#### 12. Effect of references in the Gaming Act 1968 to the licensing authority on and after 1st September 2007[^c-3c15c964f36eb51bba893d3b40d60f6f]
 
 (1) In relation to any time on or after 1st September 2007 any reference in the 1968 Act to a licensing authority is—
 
@@ -253,7 +253,7 @@ Where a members’ club, commercial club or miners’ welfare institute[^f00040]
 
 (2) Sub-paragraph (1)(a) is to apply irrespective of whether or not the licensing committee for a particular local justice area continues to be responsible under that Schedule for the grant or renewal of bookmaker’s permits, betting agency permits and betting office licences in that area.
 
-#### 13. Lotteries and Amusements Act 1976: restrictions on applications[^key-c1dbde3861cbfbfe1df464ec4ae2ab63]
+#### 13. Lotteries and Amusements Act 1976: restrictions on applications[^c-c1dbde3861cbfbfe1df464ec4ae2ab63]
 
 (1) This paragraph and paragraphs 14 to 16 apply with respect to the grant of certificates, permits and registrations under the 1976 Act during the period beginning on the date on which this Order comes into force and ending on the date on which the repeal of that Act for all purposes takes effect.
 
@@ -261,7 +261,7 @@ Where a members’ club, commercial club or miners’ welfare institute[^f00040]
 
 (3) An application under paragraph 4 of Schedule 3 to the 1976 Act for the grant of a permit under section 16 of that Act may be granted only where the application is made before 28th April 2007 and, in a case to which paragraph 16 applies, the condition referred to in sub-paragraph (2) of that paragraph is met.
 
-#### 14. Lotteries and Amusements Act 1976: period for which registrations, certificates and permits are to have effect[^key-b5fd471f96d038e5c01e766798f26cc1]
+#### 14. Lotteries and Amusements Act 1976: period for which registrations, certificates and permits are to have effect[^c-b5fd471f96d038e5c01e766798f26cc1]
 
 (1) Where on or after the date on which this Order comes into force but before 1st September 2007—
 
@@ -277,7 +277,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (4) Any permit under section 16 of the 1976 Act granted or renewed under Schedule 3 to that Act on or after the date on which this Order comes into force is to have effect until 31st August 2007 (unless cancelled before that date under section 17(2) of that Act); and paragraph 15 of that Schedule is to have effect as if modified accordingly.
 
-#### 15. Lotteries and Amusements Act 1976: society and local authority scheme registrations taking effect on or after 1st September 2007[^key-8e2c438fd2ac453d1d626b0cd9e2846e]
+#### 15. Lotteries and Amusements Act 1976: society and local authority scheme registrations taking effect on or after 1st September 2007[^c-8e2c438fd2ac453d1d626b0cd9e2846e]
 
 (1) Where a society or local authority scheme is registered on or after 1st September 2007 under, as the case may be, Schedule 1, 1A or 2 to the 1976 Act[^f00046]—
 
@@ -288,7 +288,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (3) Where a society is registered under Schedule 1 to the 1976 Act, the registration is to cease to have effect on the date on which the society is registered under Part 5 of Schedule 11 to the 2005 Act in accordance with paragraph 74 of this Schedule.
 
-#### 16. Lotteries and Amusements Act 1976: grant of permits under section 16 on or after 1st September 2007[^key-75e64062a11854b319c98a3b6d0297e5]
+#### 16. Lotteries and Amusements Act 1976: grant of permits under section 16 on or after 1st September 2007[^c-75e64062a11854b319c98a3b6d0297e5]
 
 (1) This paragraph applies to an application for a permit under section 16 of the 1976 Act which is not determined before 1st September 2007.
 
@@ -304,7 +304,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 ### PART 3 — Continuation of certificates and permits issued under the Gaming Act 1968
 
-#### 17. Continuation of certificates and permits granted under section 27 of the Gaming Act 1968[^key-c56f9475e70b16b4f6b2d57ea44568ae]
+#### 17. Continuation of certificates and permits granted under section 27 of the Gaming Act 1968[^c-c56f9475e70b16b4f6b2d57ea44568ae]
 
 (1) This paragraph applies to a certificate or permit under section 27 of the 1968 Act (which makes provision as to the sale, supply and maintenance of machines to which Part 3 of that Act applies) which—
 
@@ -329,7 +329,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (6) In sub-paragraph (5), the reference to relevant operating licence conditions is to—
 
-- (a)[^key-bd6a919285080ca8b879a58132ab9ae3] any conditions in relation to gaming machine technical operating licences—
+- (a)[^c-bd6a919285080ca8b879a58132ab9ae3] any conditions in relation to gaming machine technical operating licences—
   - (i) for the time being specified by the Gambling Commission under section 75 of the 2005 Act, or
   - (ii) for the time being specified by the Secretary of State in regulations under section 78 of that Act,
 
@@ -346,7 +346,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
   - (i) to maintain or repair the gaming machine specified in the permit or a part of that machine, or
   - (ii) to cause or permit another person to maintain that machine or a part of that machine on his behalf.
 
-#### 18. Duration of section 27 certificates[^key-4556542fbb03eb28daf1ecfe5cc8dd31]
+#### 18. Duration of section 27 certificates[^c-4556542fbb03eb28daf1ecfe5cc8dd31]
 
 (1) Subject to the following provisions of this paragraph, a section 27 certificate is to have effect—
 
@@ -361,7 +361,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (5) This paragraph is without prejudice to sections 113 to 115 and 119 of the 2005 Act (which provide respectively for the surrender, lapse, forfeiture and revocation of operating licences) as those sections have effect in relation to section 27 certificates by virtue of paragraphs 20 and 21.
 
-#### 19. Duration of section 27 permits[^key-26824314b7abd46286b606fe9832ca8d]
+#### 19. Duration of section 27 permits[^c-26824314b7abd46286b606fe9832ca8d]
 
 (1) Subject to sub-paragraph (2), a section 27 permit is to have effect until the date on which, as it had effect immediately before 1st September 2007, the permit was due to expire.
 
@@ -369,7 +369,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (3) Where sub-paragraph (2) applies, the permit is to cease to have effect immediately before the permit under section 250 of the 2005 Act has effect.
 
-#### 20. Application of the Gambling Act 2005 to section 27 certificates[^key-1cf87aaf340256c0e9e4d1d2e1bcbf6f]
+#### 20. Application of the Gambling Act 2005 to section 27 certificates[^c-1cf87aaf340256c0e9e4d1d2e1bcbf6f]
 
 (1) The 2005 Act is to apply to a section 27 certificate having effect on or after 1st September 2007 with the modifications specified in the following provisions of this paragraph and in paragraph 21.
 
@@ -396,7 +396,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (7) In this paragraph, “relevant operating licence conditions” has the meaning given by paragraph 17(6).
 
-#### 21. Application of review provisions to section 27 certificates[^key-db6d50d7366ec9e87d8a7581ebb33c69]
+#### 21. Application of review provisions to section 27 certificates[^c-db6d50d7366ec9e87d8a7581ebb33c69]
 
 (1) Sections 116 to 122 of the 2005 Act (which make provision with respect to the review of operating licences) are to apply to section 27 certificates and the holders of such certificates as they apply to gaming machine technical operating licences and the holders of such licences, but with the modifications specified in the following provisions of this paragraph.
 
@@ -444,7 +444,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (11) In this paragraph, “relevant operating licence conditions” has the meaning given by paragraph 17(6).
 
-#### 22. Application of the Gambling Act 2005 to section 27 permits[^key-d774ed4f4b7157f536bb647e2e299458]
+#### 22. Application of the Gambling Act 2005 to section 27 permits[^c-d774ed4f4b7157f536bb647e2e299458]
 
 (1) The 2005 Act is to apply to a section 27 permit having effect on or after 1st September 2007 with the modifications specified in the following provisions of this paragraph.
 
@@ -452,7 +452,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 (3) In section 243(1), the reference to section 250 is to have effect as a reference to that section as modified by sub-paragraph (2).
 
-#### 23. Continuation of permits granted under section 34 of the Gaming Act 1968 in respect of alcohol licensed premises[^key-77615d3eafe3e8099d6ec9e2231e7b4e]
+#### 23. Continuation of permits granted under section 34 of the Gaming Act 1968 in respect of alcohol licensed premises[^c-77615d3eafe3e8099d6ec9e2231e7b4e]
 
 (1) This paragraph applies to a permit under section 34 of the 1968 Act[^f00048] (which makes provision with respect to the use for gaming of machines to which Part 3 of that Act applies) granted by the authority mentioned in sub-paragraph (a) or (c) of paragraph 1 of Schedule 9 to the 1968 Act[^f00049] which—
 
@@ -478,7 +478,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 - (b) which is used for gaming (within the meaning of that Act), and
 - (c) which complies with the conditions specified in subsections (2), (3) and (5) of section 34 of that Act or those specified in subsections (5B) to (5C) of that section[^f00053].
 
-#### 24. Duration of alcohol licensed premises gaming machine permits[^key-13c4e5522cdb0163ea295c4906d954d4]
+#### 24. Duration of alcohol licensed premises gaming machine permits[^c-13c4e5522cdb0163ea295c4906d954d4]
 
 (1) Subject to the following provisions of this paragraph, an alcohol licensed premises gaming machine permit is to have effect until—
 
@@ -494,7 +494,7 @@ the registration is to cease to have effect at the end of 31st August 2007.
 
 the permit is to have effect until 31st August 2010.
 
-(3) Where the holder of a permit under section 34 of the 1968 Act granted by the authority mentioned in sub-paragraph (a) or (c) of paragraph 1 of Schedule 9 to the 1968 Act applies for a licensed premises gaming machine permit [^key-7b4cc520481ddfd94a580efca2b562ae]... before the date on which the permit under section 34 of the 1968 Act is due to expire, the permit is not to cease to have effect by virtue of sub-paragraph (1) or (2) until the application for the licensed premises gaming machine permit is determined or is withdrawn.
+(3) Where the holder of a permit under section 34 of the 1968 Act granted by the authority mentioned in sub-paragraph (a) or (c) of paragraph 1 of Schedule 9 to the 1968 Act applies for a licensed premises gaming machine permit [^c-7b4cc520481ddfd94a580efca2b562ae]... before the date on which the permit under section 34 of the 1968 Act is due to expire, the permit is not to cease to have effect by virtue of sub-paragraph (1) or (2) until the application for the licensed premises gaming machine permit is determined or is withdrawn.
 
 (4) An alcohol licensed premises gaming machine permit is to cease to have effect before the date referred to in sub-paragraph (1) if before that date—
 
@@ -505,7 +505,7 @@ the permit is to have effect until 31st August 2010.
 
 (6) This paragraph is subject to paragraphs 25(8), 28(5) and 29(4) and (5).
 
-#### 25. Application of the Gambling Act 2005 to alcohol licensed premises gaming machine permits[^key-acda7062965b2ea8aab3b035a7c4d978]
+#### 25. Application of the Gambling Act 2005 to alcohol licensed premises gaming machine permits[^c-acda7062965b2ea8aab3b035a7c4d978]
 
 (1) The 2005 Act is to apply to an alcohol licensed premises gaming machine permit having effect on or after 1st September 2007 with the modifications specified in the following provisions of this paragraph.
 
@@ -523,7 +523,7 @@ the permit is to have effect until 31st August 2010.
 
 (8) Paragraph 12 of Schedule 13 is to have effect as if it provided for a permit to continue to have effect until the date determined in accordance with paragraph 24 above, unless and until it ceases to have effect before that time in accordance with any of the provisions of that Schedule specified in sub-paragraph (5).
 
-#### 26. Continuation of alcohol licensed premises gaming machine permits: application of the Gambling Act 2005 in relation to permits in Scotland[^key-896217f3f4f2b38f1d768ecfba8b973f]
+#### 26. Continuation of alcohol licensed premises gaming machine permits: application of the Gambling Act 2005 in relation to permits in Scotland[^c-896217f3f4f2b38f1d768ecfba8b973f]
 
 (1) Despite Schedule 13 to the 2005 Act not applying in relation to Scotland, the provisions of that Schedule specified in sub-paragraph (5) of paragraph 25 (other than paragraphs 19 and 20 of that Schedule) are to apply to alcohol licensed premises gaming machine permits issued in Scotland.
 
@@ -544,19 +544,19 @@ the permit is to have effect until 31st August 2010.
 
 (4) Any reference to the licensing authority in the provisions of Schedule 13 to the 2005 Act mentioned in paragraph 25(6) is to have effect as a reference to the licensing authority which in its capacity as a licensing board under the Licensing (Scotland) Act 1976[^f00055] granted the relevant Scottish licence in respect of the premises to which the permit relates.
 
-#### 27. Conversion of permits under section 34 of the Gaming Act 1968 into licensed premises gaming machine permits[^key-4b1e8c6ef7f0aa37043f837bed546696]
+#### 27. Conversion of permits under section 34 of the Gaming Act 1968 into licensed premises gaming machine permits[^c-4b1e8c6ef7f0aa37043f837bed546696]
 
 (1) This paragraph applies where—
 
-- (a)[^key-02607398dcb682f3c7bdeff7c56bd3f8] the holder of a permit under section 34 of the 1968 Act—
+- (a)[^c-02607398dcb682f3c7bdeff7c56bd3f8] the holder of a permit under section 34 of the 1968 Act—
   - (i) granted by the authority mentioned in sub-paragraph (a) or (c) of paragraph 1 of Schedule 9 to the 1968 Act, or
   - (ii) granted by the authority mentioned in sub-paragraph (d) of that paragraph in respect of premises in respect of which a relevant Scottish licence has effect,
 
   applies for a licensed premises gaming machine permit;
 - (b) that permit authorises the holder to make available a number of gaming machines, being a number which is greater than two;
-- (c) that permit is due to expire in accordance with paragraph 24(1) or (2) , or (as the case may be) paragraph 31(5) or (5A),[^key-e76e017edd0fd72cf6d6aeba576930c6] on a date on or after 1st September 2007;
-- (cc)[^key-8da66ca97e976ed1ae8ced7a77076aaa] the application for the licensed premises gaming machine permit relates to the same or substantially the same premises as those in respect of which the permit under section 34 of the 1968 Act has effect;
-- (d) the application for the licensed premises gaming machine permit is made [^M_F_7c25991b-6a04-4cb9-afa2-4f1ce4cecd39]... before the date on which the permit under section 34 of the 1968 Act is due to expire in accordance with paragraph 24(1) or (2) or (as the case may be) paragraph 31(5) or (5A)[^key-d79227161dd15469dd5ca0ecfb0ee0f4]; and
+- (c) that permit is due to expire in accordance with paragraph 24(1) or (2) , or (as the case may be) paragraph 31(5) or (5A),[^c-e76e017edd0fd72cf6d6aeba576930c6] on a date on or after 1st September 2007;
+- (cc)[^c-8da66ca97e976ed1ae8ced7a77076aaa] the application for the licensed premises gaming machine permit relates to the same or substantially the same premises as those in respect of which the permit under section 34 of the 1968 Act has effect;
+- (d) the application for the licensed premises gaming machine permit is made [^M_F_7c25991b-6a04-4cb9-afa2-4f1ce4cecd39]... before the date on which the permit under section 34 of the 1968 Act is due to expire in accordance with paragraph 24(1) or (2) or (as the case may be) paragraph 31(5) or (5A)[^c-d79227161dd15469dd5ca0ecfb0ee0f4]; and
 - (e) (where the applicant holds a premises licence under Licensing Act 2003[^f00057] in respect of the premises to which the application relates) the application for the licensed premises gaming machine permit complies with sub-paragraphs (b), (c), and (e) of paragraph 2 of Schedule 13 to the 2005 Act.
 
 (2) In sub-paragraph (1)(b) the reference to gaming machines is—
@@ -570,9 +570,9 @@ the permit is to have effect until 31st August 2010.
 
 (5) If the application is in respect of a number of gaming machines which is greater than the authorised number, the licensing authority must grant the application in respect of a number of gaming machines which is no smaller than the authorised number.
 
-(6) In a case to which sub-paragraph (5) applies, where the number of Category C gaming machines specified in the application does not exceed the relevant number[^key-2d87bebf7e7a4fb9a97914d6843cb309], the licensing authority may not grant the application in respect of a smaller number of Category C gaming machines than that specified in the application.
+(6) In a case to which sub-paragraph (5) applies, where the number of Category C gaming machines specified in the application does not exceed the relevant number[^c-2d87bebf7e7a4fb9a97914d6843cb309], the licensing authority may not grant the application in respect of a smaller number of Category C gaming machines than that specified in the application.
 
-(6A)[^key-1f875532e46a316f16e4ce1c4f1cf442] In sub-paragraph (6), the relevant number is the authorised number unless the authorised number is less than two, in which case the relevant number is two.
+(6A)[^c-1f875532e46a316f16e4ce1c4f1cf442] In sub-paragraph (6), the relevant number is the authorised number unless the authorised number is less than two, in which case the relevant number is two.
 
 (7) Where the application referred to in sub-paragraph (1) is made before 1st September 2007—
 
@@ -583,7 +583,7 @@ the permit is to have effect until 31st August 2010.
 
 (9) Where the premises to which the permit under section 34 of the 1968 Act relates are situated in England or Wales, sub-paragraphs (4) to (6) are to be subject to paragraph 6(1) of Schedule 13 to the 2005 Act (which prohibits the grant of a licensed premises gaming machine permit to a person who does not hold an on-premises alcohol licence).
 
-#### 28. Failure to make the application for a licensed premises gaming machine permit in the appropriate form or manner[^key-8eef59b23424888270d96ad8660d691f]
+#### 28. Failure to make the application for a licensed premises gaming machine permit in the appropriate form or manner[^c-8eef59b23424888270d96ad8660d691f]
 
 (1) This paragraph applies to any application for a licensed premises gaming machine permit made to a licensing authority in England or Wales which meets the conditions in paragraphs (a) to (e) of paragraph 27(1) above, but does not comply with a requirement imposed under sub-paragraph (a) or (d) of paragraph 2 of Schedule 13 to the 2005 Act.
 
@@ -598,21 +598,21 @@ the permit is to have effect until 31st August 2010.
 - (a) paragraph 24(3) is not to apply to the permit, and
 - (b) if the permit has effect by virtue of that provision, the permit is to lapse on the expiry of the period referred to in sub-paragraph (3).
 
-#### 29. Applications for conversion of permits under section 34 of the Gaming Act 1968: provisions applying to Scotland[^key-f242af011cd224bdbabc43982fba0b2d]
+#### 29. Applications for conversion of permits under section 34 of the Gaming Act 1968: provisions applying to Scotland[^c-f242af011cd224bdbabc43982fba0b2d]
 
-(1) This paragraph is only to have effect if on 1st August[^key-fdbf7d897a2eac0fe265f40381f869ad] 2007 regulations under section 285(1)(b) of the 2005 Act are not in force setting out provisions which are to have effect in place of Schedule 13 to that Act in relation to an application for a licensed premises gaming machine permit where the applicant is the holder of a relevant Scottish licence[^f00058].
+(1) This paragraph is only to have effect if on 1st August[^c-fdbf7d897a2eac0fe265f40381f869ad] 2007 regulations under section 285(1)(b) of the 2005 Act are not in force setting out provisions which are to have effect in place of Schedule 13 to that Act in relation to an application for a licensed premises gaming machine permit where the applicant is the holder of a relevant Scottish licence[^f00058].
 
 (2) Sub-paragraph (3) modifies the effect of paragraph 27 in relation to such an application where—
 
 - (a) the person making the application holds a permit under section 34 of the 1968 Act in respect of the premises to which the application relates, and
-- (b) that permit is due to expire in accordance with paragraph 24(1) or 31(5)[^key-ed50dd59f1a544ceee1a86865dea2f3e] on a date which is no more than one month[^key-a671a51de9a81d663279b4f4677a27c4] after the date on which the provisions referred to in sub-paragraph (1) come into force.
+- (b) that permit is due to expire in accordance with paragraph 24(1) or 31(5)[^c-ed50dd59f1a544ceee1a86865dea2f3e] on a date which is no more than one month[^c-a671a51de9a81d663279b4f4677a27c4] after the date on which the provisions referred to in sub-paragraph (1) come into force.
 
-(3)[^key-71028b1c3d084ad74978dec74ee254fb] Paragraph (d) of paragraph 27(1) is to have effect as if it required the application for the licensed premises gaming machine permit to be made on or before the date which is one month after the date on which the provisions referred to in paragraph (1) come into force.
+(3)[^c-71028b1c3d084ad74978dec74ee254fb] Paragraph (d) of paragraph 27(1) is to have effect as if it required the application for the licensed premises gaming machine permit to be made on or before the date which is one month after the date on which the provisions referred to in paragraph (1) come into force.
 
 (4) Where—
 
 - (a) a permit under section 34 of the 1968 Act in respect of premises is held by a person who also holds a relevant Scottish licence in respect of the premises, and
-- (b) that permit is due to expire in accordance with paragraph 24(1) or 31(5)[^key-23d99a3ad04f64b4881f2f97bb1371ed] on a date which is before the date referred to in sub-paragraph (3)[^key-18263ed44571582897b1571e4cb6ae8e],
+- (b) that permit is due to expire in accordance with paragraph 24(1) or 31(5)[^c-23d99a3ad04f64b4881f2f97bb1371ed] on a date which is before the date referred to in sub-paragraph (3)[^c-18263ed44571582897b1571e4cb6ae8e],
 
 then (subject to sub-paragraph (5)) paragraph 24(1) or 31(5) is to have effect as if it provided for the permit to continue in force until the date referred to in sub-paragraph (3).
 
@@ -623,7 +623,7 @@ then (subject to sub-paragraph (5)) paragraph 24(1) or 31(5) is to have effect a
 
 the permit under section 34 of the 1968 Act is not to cease to have effect by virtue of sub-paragraph (4) until the application for the licensed premises gaming machine permit is determined or is withdrawn.
 
-#### 30. Special provision with respect to alcohol licensed premises within tracks in England and Wales[^key-4141a5c1bde4d5e0ddd4f9231c7456bc]
+#### 30. Special provision with respect to alcohol licensed premises within tracks in England and Wales[^c-4141a5c1bde4d5e0ddd4f9231c7456bc]
 
 (1) This paragraph applies where—
 
@@ -637,7 +637,7 @@ the permit under section 34 of the 1968 Act is not to cease to have effect by vi
 
 Schedule 13 to the 2005 Act is to have effect in relation to that application as if paragraph 1(2) of that Schedule were omitted.
 
-#### 31. Continuation of other permits granted under section 34 of the Gaming Act 1968[^key-965728e0b4f25f0a21705331234fa3bc]
+#### 31. Continuation of other permits granted under section 34 of the Gaming Act 1968[^c-965728e0b4f25f0a21705331234fa3bc]
 
 (1) This paragraph applies to a permit under section 34 of the 1968 Act granted by the authority mentioned in paragraph 1(b) or (d) of Schedule 9 to that Act[^f00059] in respect of non-amusement premises which—
 
@@ -655,14 +655,14 @@ Schedule 13 to the 2005 Act is to have effect in relation to that application as
 - (a) in a case falling within paragraph (a) of sub-paragraph (1), whichever is the earlier of 31st July 2009 or the relevant expiry date; or
 - (b) in a case falling within paragraph (b) of that sub-paragraph, 31st July 2009.
 
-(5A)[^key-5047a8fbefa99b48424e8b8633312ba9] Where in a case falling within sub-paragraph (5)(a)—
+(5A)[^c-5047a8fbefa99b48424e8b8633312ba9] Where in a case falling within sub-paragraph (5)(a)—
 
 - (a) the permit has effect immediately before 1st September 2007 by virtue of paragraph 19 of Schedule 9 to the 1968 Act; and
 - (b) the application under that Schedule for the renewal of the permit is granted on or after that date,
 
 the permit is to have effect until 31st July 2009.
 
-(6) Sub-paragraphs (5) and (5A) are[^key-39b24d9244c13a8c1eb72e34a868c258] subject to paragraph 33(8).
+(6) Sub-paragraphs (5) and (5A) are[^c-39b24d9244c13a8c1eb72e34a868c258] subject to paragraph 33(8).
 
 (7) In this paragraph—
 
@@ -673,7 +673,7 @@ the permit is to have effect until 31st July 2009.
 - (b) “non-amusement premises” means any premises other than amusement machine premises; and
 - (c) “relevant expiry date”, in relation to a Category D gaming machine permit, means the date on which, as it had effect immediately before 1st September 2007, the permit was due to expire.
 
-#### 32. Continuation of Category D gaming machine permits: provision of information where permit issued in Scotland[^key-caf2e4fe0c8ec10bf18f838077bf93a9]
+#### 32. Continuation of Category D gaming machine permits: provision of information where permit issued in Scotland[^c-caf2e4fe0c8ec10bf18f838077bf93a9]
 
 (1) This paragraph applies to a Category D gaming machine permit which was granted in Scotland by the appropriate authority mentioned in paragraph 1(d) of Schedule 9 to the 1968 Act (being a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00061]).
 
@@ -693,7 +693,7 @@ the permit is to have effect until 31st July 2009.
   - (ii) in a case falling within paragraph 31(1)(b), the date on which the permit is granted; and
 - (b) a reference to the relevant licensing board is to the licensing authority under the 2005 Act in whose area the premises to which the permit relates are situated.
 
-#### 33. Application of the Gambling Act 2005 to Category D gaming machine permits[^key-ae44baf62cc268187dce3cec47637357]
+#### 33. Application of the Gambling Act 2005 to Category D gaming machine permits[^c-ae44baf62cc268187dce3cec47637357]
 
 (1) The 2005 Act is to apply to a Category D gaming machine permit on or after 1st September 2007 with the modifications specified in the following provisions of this paragraph.
 
@@ -709,19 +709,19 @@ the permit is to have effect until 31st July 2009.
 
 (7) In paragraphs 11(2), 15(1), 16, 17(4) and 21 of Schedule 10 to the 2005 Act, any reference to the licensing authority is to have effect as a reference to the licensing authority in whose area the premises to which the permits relates are situated.
 
-(8) Paragraph 12(a) of Schedule 10 to the 2005 Act is to have effect as if it provided for the permit to cease to have effect on the date determined in accordance with paragraphs 31(5) and (5A)[^key-0467b8b1e34c8ee6f96bf2e3e2b11484] above unless it ceases to have effect before that time in accordance with any of the provisions of that Schedule specified in sub-paragraph (6).
+(8) Paragraph 12(a) of Schedule 10 to the 2005 Act is to have effect as if it provided for the permit to cease to have effect on the date determined in accordance with paragraphs 31(5) and (5A)[^c-0467b8b1e34c8ee6f96bf2e3e2b11484] above unless it ceases to have effect before that time in accordance with any of the provisions of that Schedule specified in sub-paragraph (6).
 
 (9) Paragraph 13(1) of Schedule 10 to the 2005 Act is to have effect as if the reference to the premises specified under paragraph 11(1)(b) of that Schedule was a reference to the premises specified in the Category D gaming machine permit.
 
 ### PART 4 — Licences etc. granted under the Gambling Act 2005 before 1st September 2007
 
-#### 34. Licences etc. issued under the Gambling Act 2005 before 1st September 2007[^key-d53f55dad078e2bc742e20b0f3dbf888]
+#### 34. Licences etc. issued under the Gambling Act 2005 before 1st September 2007[^c-d53f55dad078e2bc742e20b0f3dbf888]
 
 (1) Where a licence or permit is issued under the 2005 Act before 1st September 2007 (including where it is issued by virtue of a provision of this Schedule), it is not to take effect until that date.
 
 (2) Sub-paragraph (1) is subject to paragraph 52 (which relates to personal licences issued before 1st September 2007).
 
-#### 35. Operating licences issued before 1st September 2007[^key-18ffd75fea6b702fdda652b6d12f7483]
+#### 35. Operating licences issued before 1st September 2007[^c-18ffd75fea6b702fdda652b6d12f7483]
 
 (1) Where an operating licence is issued before 1st September 2007, section 100(1) of the 2005 Act (which makes operating licences subject to an annual fee) is to have effect in relation to the licence as if it provided for the holder to pay—
 
@@ -730,41 +730,41 @@ the permit is to have effect until 31st July 2009.
 
 (2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of section 100(1)(a) of the 2005 Act (as that provision has effect in relation to operating licences issued on or after 1st September 2007).
 
-#### 36. Premises licences issued before 1st September 2007[^key-e2c470152639032f2590c703587dd6f2]
+#### 36. Premises licences issued before 1st September 2007[^c-e2c470152639032f2590c703587dd6f2]
 
 (1) Where a premises licence is issued before 1st September 2007, section 184(1) of the 2005 Act (which makes premises licences subject to an annual fee) is to have effect in relation to the licence as if it provided for the holder to pay—
 
 - (a) a first annual fee to the licensing authority within the relevant period after 1st September 2007, and
 - (b) an annual fee to the licensing authority before 1st September in each year following 2007.
 
-(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of section 184(1)(a) of the 2005 Act (as that provision has effect in relation to premises licences issued on or after 1st September 2007 and which take effect on the date of issue[^key-78e8d842077c7ab6170c5e5eb6bc5a52]).
+(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of section 184(1)(a) of the 2005 Act (as that provision has effect in relation to premises licences issued on or after 1st September 2007 and which take effect on the date of issue[^c-78e8d842077c7ab6170c5e5eb6bc5a52]).
 
-#### 37. Club gaming and machine permits issued before 1st September 2007[^key-5e557f8b435d489f7885dad0e64178c0]
+#### 37. Club gaming and machine permits issued before 1st September 2007[^c-5e557f8b435d489f7885dad0e64178c0]
 
 (1) Where a club gaming or club machine permit is issued before 1st September 2007, paragraph 14(1) of Schedule 12 to the 2005 Act (which makes club gaming and machine permits subject to an annual fee) is to have effect in relation to the permit as if it provided for the holder to pay—
 
 - (a) a first annual fee to the issuing licensing authority within the relevant period after 1st September 2007, and
 - (b) an annual fee to the issuing licensing authority before 1st September in each year following 2007.
 
-(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of paragraph 14(1)(a) of Schedule 12 to the 2005 Act (as that provision has effect in relation to permits issued on or after 1st September 2007 and which take effect on the date of issue[^key-51e68cc1b279490f5e4accbb6e96a5ff]).
+(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of paragraph 14(1)(a) of Schedule 12 to the 2005 Act (as that provision has effect in relation to permits issued on or after 1st September 2007 and which take effect on the date of issue[^c-51e68cc1b279490f5e4accbb6e96a5ff]).
 
 (3) Where a club gaming or club machine permit is issued before 1st September 2007, paragraph 17(1) of Schedule 12 to the 2005 Act (which provides for the duration of club gaming and machine permits) is to have effect in relation to the permit as if it provided for the permit to cease to have effect at the end of the period of ten years beginning on that date unless—
 
 - (a) it ceases to have effect before that time in accordance with a provision of that Schedule, or
 - (b) it is renewed in accordance with paragraph 24 of that Schedule.
 
-#### 38. Licensed premises gaming machine permits issued before 1st September 2007[^key-3c02ee0281c7c6fabac7209ab62f57c1]
+#### 38. Licensed premises gaming machine permits issued before 1st September 2007[^c-3c02ee0281c7c6fabac7209ab62f57c1]
 
 (1) Where a licensed premises gaming machine permit is issued before 1st September 2007, paragraph 9(1) of Schedule 13 to the 2005 Act (which makes licensed premises gaming machine permits subject to an annual fee) is to have effect in relation to the permit as if it provided for the holder to pay—
 
 - (a) a first annual fee to the issuing licensing authority within the relevant period after 1st September 2007, and
 - (b) an annual fee to the issuing licensing authority before 1st September in each year following 2007.
 
-(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of paragraph 9(1)(a) of Schedule 13 to the 2005 Act (as that provision has effect in relation to permits issued on or after 1st September 2007 and which take effect on the date of issue[^key-92288bafc951587254185e4d9513f854]).
+(2) In sub-paragraph (1), the relevant period is a period equal in length to the period prescribed for the purposes of paragraph 9(1)(a) of Schedule 13 to the 2005 Act (as that provision has effect in relation to permits issued on or after 1st September 2007 and which take effect on the date of issue[^c-92288bafc951587254185e4d9513f854]).
 
 ### PART 5 — Advance applications for operating licences by existing operators
 
-#### 39. Meaning of existing operator[^key-0dff812aeef832449db508bf136a1da1]
+#### 39. Meaning of existing operator[^c-0dff812aeef832449db508bf136a1da1]
 
 (1) This paragraph specifies the circumstances in which a person making an advance application for an operating licence is to be treated for the purposes of this Part as an existing operator.
 
@@ -793,12 +793,12 @@ the permit is to have effect until 31st July 2009.
 - (a) he holds a multiple bingo certificate issued under the Schedule to the Gaming (Bingo) Act 1985[^f00064], or
 - (b) he is applying to the Gambling Commission for such a certificate and the application has not been withdrawn or refused.
 
-(7) Subject to sub-paragraph (7A)[^key-356cdcf1169c5c6fc609d735fb03f9ac] where the advance application is for a remote or non-remote general betting operating licence, a person is an existing operator if on the date on which the advance application is made—
+(7) Subject to sub-paragraph (7A)[^c-356cdcf1169c5c6fc609d735fb03f9ac] where the advance application is for a remote or non-remote general betting operating licence, a person is an existing operator if on the date on which the advance application is made—
 
 - (a) he holds a bookmaker’s permit or a betting agency permit issued under Schedule 1 to the 1963 Act; or
 - (b) he is applying to the appropriate authority for such a permit, and the application (including any appeal) has not been withdrawn or finally determined.
 
-(7A)[^key-1d3643d3fca26880aed1ea40b846a722] The Horserace Totalisator Board is an existing operator in relation to any advance application the Board makes for a remote or non-remote general betting operating licence.
+(7A)[^c-1d3643d3fca26880aed1ea40b846a722] The Horserace Totalisator Board is an existing operator in relation to any advance application the Board makes for a remote or non-remote general betting operating licence.
 
 (8) Subject to sub-paragraph (9), where the advance application is for a remote or non-remote pool betting operating licence, a person is an existing operator if on the date on which the advance application is made—
 
@@ -836,7 +836,7 @@ the permit is to have effect until 31st July 2009.
 - (a) he holds a lottery manager’s certificate granted under Schedule 2A to the 1976 Act[^f00069]; or
 - (b) he is applying for such a certificate, and the application has not been withdrawn or finally determined.
 
-#### 40. Interim operating licences[^key-15447cf59113555e903b73a60441093c]
+#### 40. Interim operating licences[^c-15447cf59113555e903b73a60441093c]
 
 (1) This paragraph applies where—
 
@@ -886,7 +886,7 @@ sub-paragraphs (8) and (9) are not to apply to the application, or any interim o
 
 (13) Sub-paragraphs (8) and (9) are not to apply where, notwithstanding the revocation or cancellation of a permit or certificate, the person making the application for an operating licence qualifies as an existing operator by reason of holding the same kind of permit or certificate in respect of different premises.
 
-#### 41. Modifications where the applicant qualifies as an existing operator because he is applying for a permission under the existing legislation[^key-fbc2ebcadbb76a529a016993dc3bf930]
+#### 41. Modifications where the applicant qualifies as an existing operator because he is applying for a permission under the existing legislation[^c-fbc2ebcadbb76a529a016993dc3bf930]
 
 (1) This paragraph applies where a person qualifies as an existing operator in relation to a particular kind of operating licence only by reason of the fact that—
 
@@ -913,7 +913,7 @@ sub-paragraphs (8) and (9) are not to apply to the application, or any interim o
 
 (6) Where the applicant fails to notify the Gambling Commission within the period specified in sub-paragraph (5), paragraph 40(4) is to cease to apply in relation to the application for the operating licence after the end of that period.
 
-#### 42. Application of the Gambling Act 2005 to interim operating licences[^key-3db2219833820cc97bbe76e404aebc6e]
+#### 42. Application of the Gambling Act 2005 to interim operating licences[^c-3db2219833820cc97bbe76e404aebc6e]
 
 (1) Section 74(2) of the 2005 Act (which requires the Gambling Commission to notify the applicant and issue the operating licence as soon as reasonably practicable after its grant) is not to have effect in relation to an interim operating licence.
 
@@ -935,7 +935,7 @@ sub-paragraphs (8) and (9) are not to apply to the application, or any interim o
 
 (8) Section 110 (which provides for the duration of operating licences) is to have effect in relation to an interim operating licence as if it provided for the licence to cease to have effect when the advance application made by the existing operator is finally determined, unless and until it ceases to have effect before that date in accordance with section 113, 114, 115, 118 or 119 of the 2005 Act (which provide respectively for the surrender, lapse, forfeiture, suspension and revocation of operating licences).
 
-#### 43. Premises restriction applying to certain dog racing interim pool betting operating licences[^key-116ea7aa36d27ee9a6d0104bcc4f4f87]
+#### 43. Premises restriction applying to certain dog racing interim pool betting operating licences[^c-116ea7aa36d27ee9a6d0104bcc4f4f87]
 
 (1) This paragraph applies where—
 
@@ -950,11 +950,11 @@ sub-paragraphs (8) and (9) are not to apply to the application, or any interim o
 
 ### PART 6 — Transitional arrangements with respect to personal licences
 
-#### 44. Interpretation of Part 6[^key-8a6da2ff0fb299d1ee9aed9287b2f91b]
+#### 44. Interpretation of Part 6[^c-8a6da2ff0fb299d1ee9aed9287b2f91b]
 
 Any reference in this Part of this Schedule to a provision of Part 5 of the 2005 Act is to have effect as a reference to that provision as applied by section 128 of that Act.
 
-#### 45. Continuation of certificates under section 19 of the Gaming Act 1968 on and after 1st September 2007[^key-edcdf2e7dd4f66ed56d6a90a6648e35c]
+#### 45. Continuation of certificates under section 19 of the Gaming Act 1968 on and after 1st September 2007[^c-edcdf2e7dd4f66ed56d6a90a6648e35c]
 
 (1) This paragraph applies to a certificate issued under section 19 of the 1968 Act (which provides for persons exercising specified functions on premises licensed under that Act to be approved by the Gambling Commission) which—
 
@@ -965,7 +965,7 @@ Any reference in this Part of this Schedule to a provision of Part 5 of the 2005
 
 (3) A section 19 certificate is to have effect on and after 1st September 2007.
 
-(4) Subject to sub-paragraphs (5) to (6C)[^key-38db3db557639346167569119f0f9532], where a section 19 certificate has effect in accordance with sub-paragraph (3), its effect is to authorise the person to whom it was issued, in connection with the provision of facilities for gambling in reliance on a non-remote casino or bingo operating licence—
+(4) Subject to sub-paragraphs (5) to (6C)[^c-38db3db557639346167569119f0f9532], where a section 19 certificate has effect in accordance with sub-paragraph (3), its effect is to authorise the person to whom it was issued, in connection with the provision of facilities for gambling in reliance on a non-remote casino or bingo operating licence—
 
 - (a) to perform the functions specified in the certificate on the premises so specified, or
 - (b) to perform any functions reasonably necessary for the purposes of acting in the capacity specified in the certificate in relation to the premises so specified.
@@ -975,11 +975,11 @@ Any reference in this Part of this Schedule to a provision of Part 5 of the 2005
 (6) The section 19 certificate is to have effect on and after—
 
 - (a) 1st September 2007, or
-- (b) if the application referred to in paragraph (5) is made[^key-85e173f2e8480a56a5b630f328efb4f9] after that date, the date on which the application is made,
+- (b) if the application referred to in paragraph (5) is made[^c-85e173f2e8480a56a5b630f328efb4f9] after that date, the date on which the application is made,
 
 as if it authorised the holder to perform the functions referred to in the certificate in or in relation to any premises in respect of which, as the case may be, a casino or bingo premises licence has effect (and not only in or in relation to the premises specified in the certificate).
 
-(6A)[^key-74944e8ad952e84f30b24176d8b6705b] Sub-paragraph (6B) applies to any section 19 certificate (“the existing certificate”) where—
+(6A)[^c-74944e8ad952e84f30b24176d8b6705b] Sub-paragraph (6B) applies to any section 19 certificate (“the existing certificate”) where—
 
 - (a) the holder of the certificate is applying for a new certificate under section 19 of the 1968 Act (“the new certificate”), and
 - (b) immediately before 1st September 2007 that application has not been determined or withdrawn.
@@ -1001,11 +1001,11 @@ as if it authorised the holder to perform the functions referred to in the certi
   - (i) for the time being specified by the Gambling Commission under section 75 of the 2005 Act, or
   - (ii) for the time being specified by the Secretary of State in regulations under section 78 of that Act,
 
-  and which apply to the performance of the functions authorised by the certificate; [^key-877d730ccf818ec5b50ec04726777131]...
-- (aa)[^key-8c03c18e47f9b366e8258d0834298bf9] the conditions specified in sections 82(1) and 83(1) of the 2005 Act; and
+  and which apply to the performance of the functions authorised by the certificate; [^c-877d730ccf818ec5b50ec04726777131]...
+- (aa)[^c-8c03c18e47f9b366e8258d0834298bf9] the conditions specified in sections 82(1) and 83(1) of the 2005 Act; and
 - (b) any conditions attached to the certificate by virtue of paragraph 48(3).
 
-#### 46. Duration of section 19 certificates[^key-009272d88eadb75b79c41f3c0b937b0a]
+#### 46. Duration of section 19 certificates[^c-009272d88eadb75b79c41f3c0b937b0a]
 
 (1) Subject to the following provisions of this paragraph, a section 19 certificate is to have effect until 31st December 2009.
 
@@ -1025,7 +1025,7 @@ the certificate is not to cease to have effect by virtue of paragraph (1) before
 
 (5) Where sub-paragraph (4) applies, the certificate is to cease to have effect immediately before the personal licence has effect.
 
-#### 47. Application of the Gambling Act 2005 to section 19 certificates[^key-dbbc470b394d685f7b35a94cd85f1a7e]
+#### 47. Application of the Gambling Act 2005 to section 19 certificates[^c-dbbc470b394d685f7b35a94cd85f1a7e]
 
 (1) This paragraph applies where an operating licence is subject to a condition that a specified function is to be performed—
 
@@ -1047,7 +1047,7 @@ the certificate is not to cease to have effect by virtue of paragraph (1) before
 
 (4) In this paragraph, “relevant personal licence conditions” has the meaning given by paragraph 45(8).
 
-#### 48. Application of review provisions to section 19 certificates[^key-39b1e93a8503db8b1a5f238748d656d0]
+#### 48. Application of review provisions to section 19 certificates[^c-39b1e93a8503db8b1a5f238748d656d0]
 
 (1) Sections 116 to 122 of the 2005 Act (which make provision with respect to the review of operating licences) are to apply to section 19 certificates and the persons to whom such certificates are issued as they apply to personal licences and the holders of such licences, but with the modifications specified in the following provisions of this paragraph.
 
@@ -1090,7 +1090,7 @@ the certificate is not to cease to have effect by virtue of paragraph (1) before
 
 (11) In this paragraph, “relevant personal licence conditions” has the meaning given by paragraph 45(8).
 
-#### 49. Interim personal licences[^key-29346eeabfac35ce667bb33985754080]
+#### 49. Interim personal licences[^c-29346eeabfac35ce667bb33985754080]
 
 (1) This paragraph applies to—
 
@@ -1122,7 +1122,7 @@ the Gambling Commission must determine the application and inform the applicant 
   - (i) which is to be performed in premises in respect of which a casino or bingo premises licence has effect, and
   - (ii) which falls within any of the descriptions in subsection (2) of section 19 of the 1968 Act.
 
-#### 50. Application of Part 5 of the Gambling Act 2005 to interim personal licences[^key-9730049636812288bf3df4810add3ef5]
+#### 50. Application of Part 5 of the Gambling Act 2005 to interim personal licences[^c-9730049636812288bf3df4810add3ef5]
 
 (1) Part 5 of the 2005 Act (as applied by section 128 of that Act to personal licences) is to have effect in relation to interim personal licences subject to the modifications specified in the following provisions of this paragraph.
 
@@ -1138,7 +1138,7 @@ the Gambling Commission must determine the application and inform the applicant 
 
 (7) Part 5 of the 2005 Act is to have effect as if sections 104 to 106 (which make provision respectively for applications to vary personal licences, amendments to licences, registration of licences and copies of licences) were omitted.
 
-#### 51. Application of Part 6 of the Gambling Act 2005 to interim personal licences[^key-9008c616a2f005ef2f32585f9c2d1e04]
+#### 51. Application of Part 6 of the Gambling Act 2005 to interim personal licences[^c-9008c616a2f005ef2f32585f9c2d1e04]
 
 (1) Part 6 of the 2005 Act is to have effect in relation to interim personal licences subject to the modifications specified in the following provisions of this paragraph.
 
@@ -1146,7 +1146,7 @@ the Gambling Commission must determine the application and inform the applicant 
 
 (3) Part 6 is to have effect as if sections 132 and 134 (which make provision as to fees and the production of personal licences) were omitted.
 
-#### 52. Personal licences issued before 1st September 2007[^key-683b3252326cb8763803c9067fcc1717]
+#### 52. Personal licences issued before 1st September 2007[^c-683b3252326cb8763803c9067fcc1717]
 
 (1) Subject to the following provisions of this paragraph, where a personal licence (including an interim personal licence) is issued under the 2005 Act before 1st September 2007, it is not to take effect until that date.
 
@@ -1161,7 +1161,7 @@ the Gambling Commission must determine the application and inform the applicant 
 
 ### PART 7 — Conversion of licences etc. issued under enactments to be repealed into premises licences under the Gambling Act 2005
 
-#### 53. Existing premises operators[^key-8c72e17ac48eccdc0c138b7aa3203fb5]
+#### 53. Existing premises operators[^c-8c72e17ac48eccdc0c138b7aa3203fb5]
 
 (1) This paragraph specifies the circumstances in which a person is to be treated for the purposes of this Part as the existing premises operator in relation to premises which are the subject of an application for a premises licence.
 
@@ -1172,7 +1172,7 @@ the Gambling Commission must determine the application and inform the applicant 
   - (i) he is applying for the grant of such a licence, and
   - (ii) the application (including any appeal) has not been finally determined or withdrawn.
 
-(3)[^key-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the application is for a bingo premises licence, a person is the existing premises operator in relation to the premises to which the application relates if—
 
@@ -1181,7 +1181,7 @@ the Gambling Commission must determine the application and inform the applicant 
   - (i) he is applying for the grant of such a licence, and
   - (ii) the application (including any appeal) has not been finally determined or withdrawn.
 
-(5)[^key-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where the application is for a betting premises licence, a person is the existing premises operator in relation to the premises to which the application relates if—
 
@@ -1195,7 +1195,7 @@ the Gambling Commission must determine the application and inform the applicant 
 
 (7) In sub-paragraph (6)(a)(iii), the reference to a point to point certificate is to a certificate issued under section 13 of the 1963 Act which is subject to the restriction that the premises to which it relates may only be used for the purposes of a horse racecourse on a limited number of days during a specified period of no more than 12 months.
 
-(8)[^key-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4269ce5c2d4efd2b3332efdd343f87cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Where the application is for an adult gaming centre premises licence or a family entertainment centre premises licence, a person is the existing premises operator in relation to the premises to which the application relates if on the date on which the application is made the conditions in sub-paragraph (10) or (11) are met.
 
@@ -1210,9 +1210,9 @@ the Gambling Commission must determine the application and inform the applicant 
 - (a) the person concerned is applying to the relevant authority referred to in paragraph (a) of sub-paragraph (10) for a permit of the description mentioned in paragraphs (b) and (c) of that sub-paragraph, and
 - (b) the application (including any appeal) has not been finally determined or withdrawn.
 
-#### 54. Conversion of existing licences etc. into premises licences[^key-2c19251e6af4f40d0f7677977d1be742]
+#### 54. Conversion of existing licences etc. into premises licences[^c-2c19251e6af4f40d0f7677977d1be742]
 
-(1)[^key-fd786eaf62f11b192fe59b46d5fc60d0] Subject to paragraph 66(4)(b), this paragraph applies to an advance application for a premises licence which—
+(1)[^c-fd786eaf62f11b192fe59b46d5fc60d0] Subject to paragraph 66(4)(b), this paragraph applies to an advance application for a premises licence which—
 
 - (a) meets the conditions in sub-paragraphs (1A), (1B) and (1D), and
 - (b) in a case to which sub-paragraph (1B)(b) applies, also meets the condition in sub-paragraph (1E).
@@ -1243,11 +1243,11 @@ the Gambling Commission must determine the application and inform the applicant 
 
 (3) Part 8 of the 2005 Act is to have effect in relation to the making and determination of a conversion application subject to the following provisions of this Part.
 
-(4) Subject to sub-paragraph (5A) and[^key-bd5cefaaee02b9f4b69eb746a6a7ab92] paragraphs 55(2) and (3), 58(1) and 59(4) and (5)[^key-da319c410eb6390c7084987dc8595521], the licensing authority must grant the application.
+(4) Subject to sub-paragraph (5A) and[^c-bd5cefaaee02b9f4b69eb746a6a7ab92] paragraphs 55(2) and (3), 58(1) and 59(4) and (5)[^c-da319c410eb6390c7084987dc8595521], the licensing authority must grant the application.
 
 (5) Section 163(2) of the 2005 Act (which prohibits a licensing authority from determining an application for a premises licence if the applicant does not hold a relevant operating licence) is not to have effect in relation to a conversion application; but any licence issued on such an application in accordance with sub-paragraph (4) is to lapse if the holder’s application for a relevant operating licence is rejected when it is finally determined.
 
-(5A)[^key-ae701368b376e830dd91c0e08158c7a1] Where—
+(5A)[^c-ae701368b376e830dd91c0e08158c7a1] Where—
 
 - (a) a person making a conversion application does not hold a relevant operating licence on the date on which he makes the application, and
 - (b) that person’s application for a relevant operating licence is rejected before the conversion application is granted,
@@ -1265,9 +1265,9 @@ the licensing authority must reject the conversion application; and if the licen
 
 to appeal against any conditions attached by virtue of section 169(1) of the 2005 Act to a premises licence issued in pursuance of sub-paragraph (4).
 
-(9)[^key-6bc89d72fe68a2167c004d9f9d1d3d1c] In this paragraph “relevant operating licence” in relation to a conversion application means an operating licence (other than an interim operating licence) which authorises the person making the application to carry on the activity in respect of which the premises licence is sought.
+(9)[^c-6bc89d72fe68a2167c004d9f9d1d3d1c] In this paragraph “relevant operating licence” in relation to a conversion application means an operating licence (other than an interim operating licence) which authorises the person making the application to carry on the activity in respect of which the premises licence is sought.
 
-#### 55. Failure to make the application for a premises licence in the appropriate form or manner[^key-77e360853fcd3c8271e46260a87337aa]
+#### 55. Failure to make the application for a premises licence in the appropriate form or manner[^c-77e360853fcd3c8271e46260a87337aa]
 
 (1) This paragraph applies to any application for a premises licence which—
 
@@ -1290,14 +1290,14 @@ the licensing authority are to cease to be under a duty by virtue of paragraph 5
   - (i) indicating that the plan is incompatible with specified conditions to be attached to the premises licence, and
   - (ii) requesting the applicant to submit an amended plan which is compatible with those conditions.
 
-(4) In the case of an application made before 31st July[^key-c133d64660c0c4609979bdbefaca9822] 2007, the applicant must comply with any request made under sub-paragraph (2) or (3) within such period as may be specified in the relevant notice (such period not being less than 14 days from the date on which the notice is received).
+(4) In the case of an application made before 31st July[^c-c133d64660c0c4609979bdbefaca9822] 2007, the applicant must comply with any request made under sub-paragraph (2) or (3) within such period as may be specified in the relevant notice (such period not being less than 14 days from the date on which the notice is received).
 
 (5) If, in a case to which paragraph 62 applies, the applicant fails to comply with the request within the period specified in accordance with sub-paragraph (4)—
 
 - (a) that paragraph is to cease to apply after the end of that period; and
 - (b) where that period expires on or after 1st September 2007, the existing licence, permit or certificate (within the meaning of that paragraph) is to cease to have effect immediately following the expiry of that period.
 
-#### 56. Non-fast track applications: modification of provisions of the Gambling Act 2005[^key-3a103a3639be59e21329dfeabd03ea3e]
+#### 56. Non-fast track applications: modification of provisions of the Gambling Act 2005[^c-3a103a3639be59e21329dfeabd03ea3e]
 
 (1) This paragraph applies to a conversion application which is accompanied by a request made by the applicant for the licensing authority to exercise its powers under section 169(1) of the 2005 Act to exclude, or vary in a specified manner, a condition which would otherwise be attached to the licence by virtue of regulations under section 168 of that Act (which provides for default conditions to be prescribed by regulations).
 
@@ -1305,11 +1305,11 @@ the licensing authority are to cease to be under a duty by virtue of paragraph 5
 
 (3) Section 169 of the 2005 Act is to have effect in relation to a premises licence issued on a non-fast track application subject to the following modifications.
 
-(4) Subject to sub-paragraph (5) and paragraph 57A[^key-2123be2310a463d0ce219a325fe77f55], in issuing the premises licence the licensing authority may only exercise its powers under section 169(1) for the purposes of complying with the request referred to in sub-paragraph (1).
+(4) Subject to sub-paragraph (5) and paragraph 57A[^c-2123be2310a463d0ce219a325fe77f55], in issuing the premises licence the licensing authority may only exercise its powers under section 169(1) for the purposes of complying with the request referred to in sub-paragraph (1).
 
 (5) Where the licensing authority exercises its powers under subsection (1) of section 169 for the purposes of complying with the request referred to in sub-paragraph (1), it may also exercise its powers under that subsection to attach one or more other conditions to the licence.
 
-#### 57. Fast track applications: modification of provisions of the Gambling Act 2005[^key-c6a60091604f7f31bca7de7247e0d9fe]
+#### 57. Fast track applications: modification of provisions of the Gambling Act 2005[^c-c6a60091604f7f31bca7de7247e0d9fe]
 
 (1) This paragraph applies to a conversion application which is not a non-fast track application.
 
@@ -1321,7 +1321,7 @@ the licensing authority are to cease to be under a duty by virtue of paragraph 5
 
 (5) Sections 161 and 162 of that Act (which respectively provide for representations to be made by persons with respect to premises licence applications, and specify the circumstances in which a hearing is to take place) are not to apply to fast track applications.
 
-(6) Subject to paragraph 57A,[^key-f9c49e6ff139e38acbdf4faf8c7b1890] the powers of the licensing authority under section 169(1) of the 2005 Act—
+(6) Subject to paragraph 57A,[^c-f9c49e6ff139e38acbdf4faf8c7b1890] the powers of the licensing authority under section 169(1) of the 2005 Act—
 
 - (a) to attach conditions on issuing a premises licence, and
 - (b) to exclude a condition that would otherwise be attached to the licence by virtue of regulations under section 168 of that Act,
@@ -1330,13 +1330,13 @@ are not to apply to a licence issued on a fast track application.
 
 (7) A person may make either a fast-track or a non-fast track application, but not both in respect of the same premises; and, where a person submits both a fast-track and a non-fast track application, the licensing authority must reject the non-fast track application.
 
-#### 57A. Attaching a condition restricting the use of premises to specified periods[^key-0e42fa9a0d8185d6d5c99bbd9c7ad476]
+#### 57A. Attaching a condition restricting the use of premises to specified periods[^c-0e42fa9a0d8185d6d5c99bbd9c7ad476]
 
 (1) This paragraph applies to a conversion application which includes a request for the licensing authority to exercise its powers under section 169(1)(a) of the 2005 Act to attach a condition so that facilities for gambling may only be provided in reliance on the licence during one or more specified periods in a year.
 
 (2) Despite paragraphs 56(4) and 57(6)(a), where the licensing authority issue a premises licence in pursuance of paragraph 54, they may exercise their powers under section 169(1)(a) of the 2005 Act to attach the condition referred to in sub-paragraph (1).
 
-#### 58. Effect of revocation or cancellation of existing licence etc.[^key-95dceb3be2acaa732c86745be725e7ae]
+#### 58. Effect of revocation or cancellation of existing licence etc.[^c-95dceb3be2acaa732c86745be725e7ae]
 
 (1) Where—
 
@@ -1351,20 +1351,20 @@ the licensing authority must reject the application.
 
 (4) Where the existing licence is a casino licence or a bingo club licence, any reference in this paragraph to the licence being revoked is to include a reference to the licence ceasing to have effect by virtue of paragraph 35(6) of Schedule 2 to the 1968 Act[^f00073] because the relevant certificate of consent issued under that Schedule has been revoked.
 
-#### 59. Conversion of existing licences etc. into premises licences: supplementary provisions[^key-776b0bc588e8ff4548268fa21609cdeb]
+#### 59. Conversion of existing licences etc. into premises licences: supplementary provisions[^c-776b0bc588e8ff4548268fa21609cdeb]
 
 (1) This paragraph applies to an advance application for a premises licence made by a person who qualifies as the existing premises operator in relation to the premises because on the date on which the application is made an application is also being made for—
 
 - (a) the grant of a betting office licence under the 1963 Act,
-- (b) the grant [^key-939911b93072d0a07cf269db50f6464a]... of a track betting licence under that Act ,
+- (b) the grant [^c-939911b93072d0a07cf269db50f6464a]... of a track betting licence under that Act ,
 - (c) the grant of a certificate of approval under section 13 of that Act,
-- (d) the grant [^key-939911b93072d0a07cf269db50f6464a]... of a casino licence under the 1968 Act,
-- (e) the grant [^key-939911b93072d0a07cf269db50f6464a]... of a bingo club licence under that Act, or
+- (d) the grant [^c-939911b93072d0a07cf269db50f6464a]... of a casino licence under the 1968 Act,
+- (e) the grant [^c-939911b93072d0a07cf269db50f6464a]... of a bingo club licence under that Act, or
 - (f) the grant of a permit under section 34 of that Act in respect of amusement machine premises.
 
 (2) Any reference in this Part to the application under the existing legislation (including any reference to the application for transfer under the existing legislation) is to the relevant application referred to in sub-paragraph (1).
 
-(3)[^key-b528bee5ee1f28595e577771951c35da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b528bee5ee1f28595e577771951c35da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the application is a conversion application, sub-paragraph (4) of paragraph 54 is to be modified so that—
 
@@ -1377,11 +1377,11 @@ the licensing authority must reject the application.
 
 (7) Where, in a case to which paragraph 54 applies, the application under the existing legislation is granted before 1st September 2007, paragraph 58 is to apply to a licence, permit or certificate granted on such an application as it applies to the existing licence, permit or certificate in a case to which that paragraph applies.
 
-#### 60. Special provision where the application under the existing legislation is for the transfer of a licence[^key-fb1c86880eef11468e82161bdf43ab5c]
+#### 60. Special provision where the application under the existing legislation is for the transfer of a licence[^c-fb1c86880eef11468e82161bdf43ab5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 61. Special provisions where the application for the premises licence and the application under the existing legislation are being made to the same authority[^key-229383384d74a3e25b3285bbde149e4c]
+#### 61. Special provisions where the application for the premises licence and the application under the existing legislation are being made to the same authority[^c-229383384d74a3e25b3285bbde149e4c]
 
 (1) Sub-paragraph (4) applies to a conversion application for an adult gaming centre premises licence or a family entertainment centre premises licence where—
 
@@ -1401,22 +1401,22 @@ the licensing authority must reject the application.
 
 (4) Where this sub-paragraph applies, paragraph 59 is to have effect as if in sub-paragraph (4)(b), the words “and the applicant has sent them a copy of the relevant licence, permit or certificate” were omitted.
 
-(5)[^key-3e70487d03885b8fff74c39343eadb6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3e70487d03885b8fff74c39343eadb6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 62. Continuation of existing licences, permits and certificates on and after 1st September 2007[^key-7b4e6db62b795966416890a6c392181a]
+#### 62. Continuation of existing licences, permits and certificates on and after 1st September 2007[^c-7b4e6db62b795966416890a6c392181a]
 
-(1) Subject to [^key-99afc6b43a49ed7faa4c7278dc3be304]... paragraph 55(5), this paragraph and paragraphs 63 and 64 apply where—
+(1) Subject to [^c-99afc6b43a49ed7faa4c7278dc3be304]... paragraph 55(5), this paragraph and paragraphs 63 and 64 apply where—
 
 - (a) a conversion application is made before 31st July 2007;
-- (b) the person, who is the existing premises operator in relation to the premises to which the application relates,[^key-e9e71ee7c97183b4345e71f5ec2fa4c5] is the holder immediately before 1st September 2007 of a licence, permit or certificate of one of the kinds described in paragraph 53 ( referred to in this paragraph and in paragraphs 63 and 64 as “the existing licence, permit or certificate”); and—
+- (b) the person, who is the existing premises operator in relation to the premises to which the application relates,[^c-e9e71ee7c97183b4345e71f5ec2fa4c5] is the holder immediately before 1st September 2007 of a licence, permit or certificate of one of the kinds described in paragraph 53 ( referred to in this paragraph and in paragraphs 63 and 64 as “the existing licence, permit or certificate”); and—
   - (i) it is by virtue of that licence, certificate or permit that he qualifies as the existing premises operator for the purposes of the application, or
-  - (ii) it is by virtue of an application for the grant [^key-98697d283f390fedcbe4c1b7c0e43497]... of that licence, certificate of permit that he qualifies as the existing premises operator for the purposes of the application;
+  - (ii) it is by virtue of an application for the grant [^c-98697d283f390fedcbe4c1b7c0e43497]... of that licence, certificate of permit that he qualifies as the existing premises operator for the purposes of the application;
 - (c) the licensing authority are under a duty to grant the application by virtue of paragraph 54(4); and
 - (d) the licensing authority have not issued the premises licence to the applicant before 1st September 2007.
 
 (2) The existing licence, permit or certificate is to continue in force on and after 1st September 2007.
 
-(2A)[^key-8d308b69910ff246539818e7078d6cbd] Where the person making the conversion application is not the existing premises operator, the existing licence, permit or certificate is to be treated for the purposes of this paragraph and paragraphs 63 and 64 as if it was issued to the person making the conversion application; and it is to have effect on and after 1st September 2007 accordingly.
+(2A)[^c-8d308b69910ff246539818e7078d6cbd] Where the person making the conversion application is not the existing premises operator, the existing licence, permit or certificate is to be treated for the purposes of this paragraph and paragraphs 63 and 64 as if it was issued to the person making the conversion application; and it is to have effect on and after 1st September 2007 accordingly.
 
 (3) Sub-paragraph (2) is to apply whether or not the existing licence, permit or certificate was due to expire at the end of 31st August 2007.
 
@@ -1442,7 +1442,7 @@ the licensing authority must reject the application.
 (8) On and after 1st September 2007 the existing licence, permit or certificate is to have effect—
 
 - (a) subject to any relevant premises licence conditions, and
-- (b) until the premises licence which is being applied for has been issued or, in a case to which sub-paragraph (5A) of paragraph 54 applies, until the date on which the application for the relevant operating licence referred to in that sub-paragraph is rejected[^key-35b0ff6ea1293d037ba4032c2facf034].
+- (b) until the premises licence which is being applied for has been issued or, in a case to which sub-paragraph (5A) of paragraph 54 applies, until the date on which the application for the relevant operating licence referred to in that sub-paragraph is rejected[^c-35b0ff6ea1293d037ba4032c2facf034].
 
 (9) In sub-paragraph (8) and in paragraph 64, references to relevant premises licence conditions are to—
 
@@ -1455,7 +1455,7 @@ the licensing authority must reject the application.
 
 (11) Sub-paragraph (9)(c) is subject to paragraph 64(3)(a).
 
-#### 63. Application of the Gambling Act 2005 to the existing licence, permit or certificate[^key-ae74b32f7db5f1fa9ad134bae349803c]
+#### 63. Application of the Gambling Act 2005 to the existing licence, permit or certificate[^c-ae74b32f7db5f1fa9ad134bae349803c]
 
 (1) The 2005 Act is to apply to the existing licence, permit or certificate on or after 1st September 2007 with the modifications specified in the following provisions of this paragraph and in paragraph 64.
 
@@ -1468,7 +1468,7 @@ if the use is authorised by the licence, permit or certificate.
 
 (3) Where the premises concerned are a track, section 37 is to have effect as if it provided for subsection (1) of that section not to apply to the use of the track by a person for accepting bets if the use is authorised by the existing licence or certificate.
 
-#### 64. Application of review provisions to the existing licence, permit or certificate[^key-5105dbac55d61160834f848335ca9d07]
+#### 64. Application of review provisions to the existing licence, permit or certificate[^c-5105dbac55d61160834f848335ca9d07]
 
 (1) Sections 197 to 203 of the 2005 Act (which provide for the review of premises licences by licensing authorities) are to apply to the existing licence, permit or certificate and the holder of the existing licence, permit or certificate as they apply to premises licences and the holder of such licences, but with the modifications specified in sub-paragraphs (2) to (4).
 
@@ -1491,7 +1491,7 @@ if the use is authorised by the licence, permit or certificate.
 
 (6) Section 313(2) of the 2005 Act (which provides for the inspection of premises in respect of which a premises licence has effect) is to apply to the premises in respect of which the existing licence, permit or certificate has effect as it applies to premises in respect of which a premises licence has effect.
 
-#### 65. Application of the Gambling Act 2005 to casino premises licences granted on a conversion application[^key-372a3e68728de6a047d475ad290acfb8]
+#### 65. Application of the Gambling Act 2005 to casino premises licences granted on a conversion application[^c-372a3e68728de6a047d475ad290acfb8]
 
 (1) This paragraph applies to—
 
@@ -1506,13 +1506,13 @@ if the use is authorised by the licence, permit or certificate.
 
 (5) A converted casino premises licence is a licence which states that it authorises premises to be used for the operation of a casino or for providing other facilities for gaming (apart from bingo); and section 150(1)(a) is to be modified accordingly.
 
-(6) Section 172 (which makes provision as to the effect of a premises licence in authorising the making available of gaming machines) is to be modified so as to provide for a converted casino premises licence to authorise the holder of the licence to do one of the following at any time (subject to sub-paragraph (6G))[^key-53e52ccfe4cf3b23ea89f8089b75dace]—
+(6) Section 172 (which makes provision as to the effect of a premises licence in authorising the making available of gaming machines) is to be modified so as to provide for a converted casino premises licence to authorise the holder of the licence to do one of the following at any time (subject to sub-paragraph (6G))[^c-53e52ccfe4cf3b23ea89f8089b75dace]—
 
-- (za)[^key-e8b9e86778655cf3d6a6c2ee5898cf54] if the premises are situated in England and Wales, to make gaming machines available for use on the premises provided that the requirements set out in sub-paragraph (6A) are met;
-- (a) to make 20 gaming machines available for use on the premises where at least one of the machines is of Category B and provided that each machine is of Category B, C or D[^f00074]; [^key-52a78697bdbb69bb6cbf2116fa95cae9]... or[^key-4f6714558ee7d5789cbc8c1eebd599e3]
+- (za)[^c-e8b9e86778655cf3d6a6c2ee5898cf54] if the premises are situated in England and Wales, to make gaming machines available for use on the premises provided that the requirements set out in sub-paragraph (6A) are met;
+- (a) to make 20 gaming machines available for use on the premises where at least one of the machines is of Category B and provided that each machine is of Category B, C or D[^f00074]; [^c-52a78697bdbb69bb6cbf2116fa95cae9]... or[^c-4f6714558ee7d5789cbc8c1eebd599e3]
 - (b) to make available for use on the premises any number of Category C or D gaming machines.
 
-(6A)[^key-5bb3ef39b333e75136f149fce830a49c] The requirements referred to in sub-paragraph (6)(za) are that—
+(6A)[^c-5bb3ef39b333e75136f149fce830a49c] The requirements referred to in sub-paragraph (6)(za) are that—
 
 - (a) the premises contain a gambling area, the floor area of which is no less than 280m²,
 - (b) each gaming machine is of Category B, C or D,
@@ -1565,7 +1565,7 @@ if the use is authorised by the licence, permit or certificate.
 - (a) is not to have effect to authorise the playing of bingo in premises in respect of which a converted casino premises licence has effect;
 - (b) is to have effect to authorise the holder of a converted casino premises licence to make available other games of chance which are not casino games, irrespective of whether or not casino games are also made available on the premises.
 
-(9) Section 174(3) (which provides for casino premises licences to authorise the holder to use the premises for the provision of bingo, betting or both) is not to apply to—[^key-b1e63b138415593433c5a74a40955e8d]
+(9) Section 174(3) (which provides for casino premises licences to authorise the holder to use the premises for the provision of bingo, betting or both) is not to apply to—[^c-b1e63b138415593433c5a74a40955e8d]
 
 - (a) a converted casino premises licence to which this paragraph applies which relates to premises in Scotland;
 - (b) a converted casino premises licence to which this paragraph applies which relates to premises in England and Wales, in so far as that provision authorises bingo.
@@ -1578,13 +1578,13 @@ if the use is authorised by the licence, permit or certificate.
 
 (13) Where a converted casino premises licence is varied to relate to premises to which it did not previously relate, those premises must be wholly or partly situated in the area of the licensing authority which issued the licence.
 
-(14)[^key-c4fbd36004eadbd0d3656da6c9421ebc] In this paragraph—
+(14)[^c-c4fbd36004eadbd0d3656da6c9421ebc] In this paragraph—
 
 - “**gambling area**”, in relation to premises, means those areas of the premises that are indicated on the plan as areas in which facilities for gambling may be provided;
 - “**gaming table**” means an apparatus that is designed or adapted to enable individuals to play a real game of chance where the design or adaptation is such that the apparatus is required to be controlled or operated by an individual employed or concerned in arranging for others to play the game;
 - “**plan**” means the plan of the premises that forms part of the converted casino premises licence by virtue of section 151(1)(g) of the 2005 Act (see sub-paragraph (3) above).
 
-#### 66. Non-conversion applications for casino premises licences[^key-718a209d70a2278800a44704fe099633]
+#### 66. Non-conversion applications for casino premises licences[^c-718a209d70a2278800a44704fe099633]
 
 (1) Where a converted casino premises licence has effect in respect of premises, nothing in Part 8 of the 2005 Act is to be taken as preventing the licence holder from making a non-conversion application for a casino premises licence which relates to or includes the same or substantially the same premises.
 
@@ -1599,7 +1599,7 @@ if the use is authorised by the licence, permit or certificate.
 
 ### PART 8 — Conversion of lottery registrations under the Lotteries and Amusements Act 1976 into operating licences or registrations under the Gambling Act 2005
 
-#### 67. Conversion of society registrations into lottery operating licences[^key-2f8b2bb40808f0915b37b6ed105ffd03]
+#### 67. Conversion of society registrations into lottery operating licences[^c-2f8b2bb40808f0915b37b6ed105ffd03]
 
 (1) This paragraph applies where—
 
@@ -1629,7 +1629,7 @@ if the use is authorised by the licence, permit or certificate.
 - (a) 1st September 2007, or
 - (b) in a case falling within sub-paragraph (2), the date on which the society is registered under Schedule 1A to the 1976 Act.
 
-#### 68. Conversion of society registrations: transitional provisions[^key-0b865f30af71557051cd3cc745dffe79]
+#### 68. Conversion of society registrations: transitional provisions[^c-0b865f30af71557051cd3cc745dffe79]
 
 (1) A society falling within sub-paragraph (1) of paragraph 67 is to be treated as if it holds a converted society lottery operating licence during the period beginning on 1st September 2007 and ending immediately before the converted society lottery operating licence issued to the society takes effect.
 
@@ -1647,7 +1647,7 @@ if the use is authorised by the licence, permit or certificate.
 - (a) any conditions specified by the Gambling Commission under section 75 of the 2005 Act which would be attached in accordance with subsection (3) of that section to a converted society lottery operating licence; and
 - (b) any conditions specified by the Secretary of State in regulations under section 78 of that Act which would be attached to such a licence.
 
-#### 69. Conversion of local lottery scheme registrations into lottery operating licences[^key-2e2b3bc33b46d814bf42ae96b7b646b9]
+#### 69. Conversion of local lottery scheme registrations into lottery operating licences[^c-2e2b3bc33b46d814bf42ae96b7b646b9]
 
 (1) This paragraph applies where—
 
@@ -1677,7 +1677,7 @@ if the use is authorised by the licence, permit or certificate.
 - (a) 1st September 2007, or
 - (b) in a case falling within sub-paragraph (2), the date on which the scheme is registered.
 
-#### 70. Conversion of local lottery scheme registrations: transitional provisions[^key-4752e4241f612006d4f2597069f7d772]
+#### 70. Conversion of local lottery scheme registrations: transitional provisions[^c-4752e4241f612006d4f2597069f7d772]
 
 (1) A local authority to which sub-paragraph (1) of paragraph 69 applies is to be treated as if it holds a converted local authority lottery operating licence during the period beginning on 1st September 2007 and ending when the licence issued to the authority in accordance with that paragraph takes effect.
 
@@ -1695,7 +1695,7 @@ if the use is authorised by the licence, permit or certificate.
 - (a) any conditions specified by the Gambling Commission under section 75 of the 2005 Act which would be attached in accordance with subsection (3) of that section to a converted local lottery operating licence, and
 - (b) any conditions specified by the Secretary of State in regulations under section 78 of that Act which would be attached to such a licence.
 
-#### 71. Duration of converted lottery operating licences[^key-031ae4191c251cdeb7f2e3daf9a86e41]
+#### 71. Duration of converted lottery operating licences[^c-031ae4191c251cdeb7f2e3daf9a86e41]
 
 (1) Subject to the following provisions of this paragraph, a converted lottery operating licence is to cease to have effect on the last day of the period of three years beginning with the date on which the last 1976 Act fee was payable.
 
@@ -1712,7 +1712,7 @@ the converted lottery operating licence is not to cease to have effect by virtue
 
 (5) Where no fee is payable before 1st September 2007 under the provisions of the 1976 Act referred to in sub-paragraph (4), the reference in sub-paragraph (1) to the date on which the last 1976 Act fee was payable is to be treated as a reference to the date on which the society or the local authority scheme was registered under that Act.
 
-#### 72. Application of Part 5 of the Gambling Act 2005 to converted lottery operating licences[^key-7cfc13aea0f898e417850517120221ec]
+#### 72. Application of Part 5 of the Gambling Act 2005 to converted lottery operating licences[^c-7cfc13aea0f898e417850517120221ec]
 
 (1) Part 5 of the 2005 Act is to be modified as follows in its application to a converted lottery operating licence.
 
@@ -1735,7 +1735,7 @@ B is the aggregate amount of the proceeds of lotteries promoted wholly or partly
 
 (5) Sections 110 to 112 (which relate to duration of operating licences) are not to apply.
 
-#### 73. Application of the Gambling Act 2005 to lotteries begun before 1st September 2007[^key-9c6c91900cee2e13e5eda7ac0718f272]
+#### 73. Application of the Gambling Act 2005 to lotteries begun before 1st September 2007[^c-9c6c91900cee2e13e5eda7ac0718f272]
 
 (1) A lottery operating licence is to authorise the holder to continue to promote a lottery which the holder began promoting before 1st September 2007 in reliance on the 1976 Act registration.
 
@@ -1751,7 +1751,7 @@ B is the aggregate amount of the proceeds of lotteries promoted wholly or partly
 
 (7) In sub-paragraph (1), “the 1976 Act registration” is to be construed in accordance with paragraph 72(4).
 
-#### 74. Conversion of society lottery registrations into registrations under the Gambling Act 2005[^key-9fbac170fd941ba1db0e89ae2447aaf9]
+#### 74. Conversion of society lottery registrations into registrations under the Gambling Act 2005[^c-9fbac170fd941ba1db0e89ae2447aaf9]
 
 (1) This paragraph applies where—
 
@@ -1781,7 +1781,7 @@ B is the aggregate amount of the proceeds of lotteries promoted wholly or partly
   - (ii) in a case falling within sub-paragraph (2), the date on which the society is registered under the 1976 Act; and
 - (c) a reference to the relevant licensing board is to the licensing board constituted under section 1 of the Licensing (Scotland) Act 1976[^f00077] in whose area are situated the principal premises of the society.
 
-#### 75. Conversion of society lottery registrations: modification of Part 5 of Schedule 11 to the 2005 Act[^key-5b67a466e373bcb1ab11a868efecf63e]
+#### 75. Conversion of society lottery registrations: modification of Part 5 of Schedule 11 to the 2005 Act[^c-5b67a466e373bcb1ab11a868efecf63e]
 
 (1) Paragraphs 44 and 46 of Schedule 11 to the 2005 Act are not to apply where a society is registered under Part 5 of that Schedule in pursuance of paragraph 74 above.
 
@@ -1798,7 +1798,7 @@ B is the aggregate amount of the proceeds of lotteries promoted wholly or partly
 
 (6) In sub-paragraph (5)(a), “the relevant licensing board” is to have the meaning given in paragraph 74(7)(c).
 
-#### 76. Conversion of society lottery registrations: transitional provisions[^key-37837ff7cf62b6a562c055321a18163c]
+#### 76. Conversion of society lottery registrations: transitional provisions[^c-37837ff7cf62b6a562c055321a18163c]
 
 (1) Where—
 
@@ -1824,7 +1824,7 @@ during the period beginning on that date and ending immediately before the socie
 
 where A is the total value of tickets or chances sold in the period beginning on 1st January 2007 and ending on 31st August 2007 in any lottery promoted in reliance on the 1976 Act registration.
 
-#### 77. Application of Schedule 11 to the Gambling Act 2005 to lotteries begun before 1st September 2007[^key-837eccacbbf7da3234a11f183c0f8476]
+#### 77. Application of Schedule 11 to the Gambling Act 2005 to lotteries begun before 1st September 2007[^c-837eccacbbf7da3234a11f183c0f8476]
 
 (1) Subject to the following provisions of this paragraph, Schedule 11 to the 2005 Act is to apply to a lottery whose promotion was begun (but not completed) before 1st September 2007 in the same way as it applies to a lottery which is wholly promoted on or after that date.
 
@@ -1842,7 +1842,7 @@ where A is the total value of tickets or chances sold in the period beginning on
 
 ### PART 9 — Conversion of club registrations under the Gaming Act 1968 into club gaming and machine permits under the Gambling Act 2005
 
-#### 78. Conversion of a club registration under Part 2 of the Gaming Act 1968 into a club gaming permit: scope of application of provisions[^key-67460c3007713a1d5c5cde1ab971df26]
+#### 78. Conversion of a club registration under Part 2 of the Gaming Act 1968 into a club gaming permit: scope of application of provisions[^c-67460c3007713a1d5c5cde1ab971df26]
 
 (1) Paragraphs 79 to 81, 83 and 84 apply to a members’ club or miners’ welfare institute[^f00078] where—
 
@@ -1853,7 +1853,7 @@ where A is the total value of tickets or chances sold in the period beginning on
 
 (3) In paragraphs 79, 80, 83 and 84, a reference to the relevant licensing authority is to the licensing authority (within the meaning of the 2005 Act) in whose area are situated the premises in respect of which the club or institute was registered under Part 2 of the 1968 Act.
 
-#### 79. Conversion of club registrations under Part 2 of the Gaming Act 1968: provision of information by the 1968 Act registration authority[^key-3cb9ac77d63dafc9904c1f6ebdc2ba9b]
+#### 79. Conversion of club registrations under Part 2 of the Gaming Act 1968: provision of information by the 1968 Act registration authority[^c-3cb9ac77d63dafc9904c1f6ebdc2ba9b]
 
 (1) In England and Wales, the designated officer for the authority which registered the club or institute must on the relevant date, or as soon as practicable after that date, provide the relevant licensing authority with the information specified in sub-paragraph (3).
 
@@ -1878,13 +1878,13 @@ where A is the total value of tickets or chances sold in the period beginning on
 
 (6) Where a club or institute’s registration has effect immediately before 1st September 2007 by virtue of paragraph 22 of Schedule 3, or paragraph 20 of Schedule 4, to the 1968 Act (both of which provide for registrations under Part 2 of that Act to be extended where an application for renewal of the registration has not been determined), the relevant date is the date on which the application for renewal of the registration is granted.
 
-#### 80. Duty of licensing authority to convert a registration under Part 2 of the Gaming Act 1968 into a club gaming permit[^key-eb9b77366f583d51afdf418d54c31aed]
+#### 80. Duty of licensing authority to convert a registration under Part 2 of the Gaming Act 1968 into a club gaming permit[^c-eb9b77366f583d51afdf418d54c31aed]
 
 (1) Subject to paragraphs 81 to 85, where—
 
 - (a) a members’ club or miners’ welfare institute applies to the relevant licensing authority for the grant of a club gaming permit in respect of the same or substantially the same premises as those to which the registration under Part 2 of the 1968 Act relates;
 - (b) the application complies with sub-paragraphs (b) and (e) of paragraph 2 and (where applicable) paragraph 3 of Schedule 12 to the 2005 Act; and
-- (c) the application is made [^key-0788bb8c7fadcaa3021313296ff49130]... before the relevant date,
+- (c) the application is made [^c-0788bb8c7fadcaa3021313296ff49130]... before the relevant date,
 
 the licensing authority must grant that application.
 
@@ -1896,7 +1896,7 @@ the licensing authority must grant that application.
 
 (5) Where the club or institute is registered on or after 1st September 2007, the relevant date is the last day of the period of one year beginning on the date on which it is registered.
 
-#### 81. Exclusion of cases where an application for the renewal of the registration under Part 2 is rejected on or after 1st September 2007[^key-48262a46d39da823eea6f3899ea4ce82]
+#### 81. Exclusion of cases where an application for the renewal of the registration under Part 2 is rejected on or after 1st September 2007[^c-48262a46d39da823eea6f3899ea4ce82]
 
 (1) This paragraph applies where—
 
@@ -1907,7 +1907,7 @@ the licensing authority must grant that application.
 
 (3) Paragraph 84(1) is to cease to apply to the club or institute on the date on which the application for renewal of the registration is withdrawn or rejected.
 
-#### 82. Conversion of club registrations under Part 2 of the Gaming Act 1968: applications made before 1st September 2007[^key-062405d94fe266809ad53c2fcf875680]
+#### 82. Conversion of club registrations under Part 2 of the Gaming Act 1968: applications made before 1st September 2007[^c-062405d94fe266809ad53c2fcf875680]
 
 (1) This paragraph applies where—
 
@@ -1915,11 +1915,11 @@ the licensing authority must grant that application.
 - (b) when the application is made, the club or institute is registered under Part 2 of the 1968 Act in respect of the same, or substantially the same, premises as those to which the application relates;
 - (c) the registration under Part 2 of the 1968 Act is due to expire in accordance with (as the case may be) paragraph 19 of Schedule 3 or paragraph 17 of Schedule 4 to the 1968 Act[^f00079] on or after 1st September 2007;
 - (d) the application complies with paragraphs (b) and (e) of paragraph 2 and, where applicable, paragraph 3 of Schedule 12 to the 2005 Act; and
-- (e) the application is made [^key-8e069f21f1027018dc69ee7a29137dbc]... before the relevant date (as that expression is defined in paragraph 80(3) and (4)[^key-ea1d478adfaaa5bbd104c59365405b85]).
+- (e) the application is made [^c-8e069f21f1027018dc69ee7a29137dbc]... before the relevant date (as that expression is defined in paragraph 80(3) and (4)[^c-ea1d478adfaaa5bbd104c59365405b85]).
 
 (2) The licensing authority may not determine the application before 1st September 2007.
 
-#### 83. Failure to make the application for a club gaming permit in the appropriate form or manner[^key-9e87b6ff85fa9eb15bffb88c14c5d7d5]
+#### 83. Failure to make the application for a club gaming permit in the appropriate form or manner[^c-9e87b6ff85fa9eb15bffb88c14c5d7d5]
 
 (1) This paragraph applies to any application for a club gaming permit which meets the conditions in paragraphs (a) to (c) of paragraph 80(1), but does not comply with a requirement imposed under sub-paragraph (c) or (d) of paragraph 2 of Schedule 12 to the 2005 Act.
 
@@ -1929,13 +1929,13 @@ the licensing authority must grant that application.
 
 (4) Paragraph 84(1) is to cease to apply if the club or institute fails to comply with a request made under sub-paragraph (2) within the period specified in accordance with sub-paragraph (3).
 
-#### 84. Conversion of club registrations under Part 2 of the Gaming Act 1968: transitional provisions[^key-289093ca2ef48ef4701422c3054dcbf4]
+#### 84. Conversion of club registrations under Part 2 of the Gaming Act 1968: transitional provisions[^c-289093ca2ef48ef4701422c3054dcbf4]
 
 (1) At any time on or after 1 September 2007 until the date on which the club gaming permit is granted in accordance with paragraph 80, a members’ club or miners’ welfare institute is to be treated for the purposes of the 2005 Act as if it had been granted such a permit in relation to the premises in respect of which the registration under Part 2 of the 1968 Act had effect.
 
 (2) In a case falling within paragraph 78(2), sub-paragraph (1) is not to apply until the date on which the club or institute is registered under Part 2 of the 1968 Act.
 
-(3) Where the club or institute fails to apply for a club gaming permit [^key-8a519a36c0e033b32302d6fe3b41c826]... before the relevant date (within the meaning of paragraph 80(3) to (5)), sub-paragraph (1) is to have effect as if it provided for the club or institute to be treated as holding such a permit until the relevant date.
+(3) Where the club or institute fails to apply for a club gaming permit [^c-8a519a36c0e033b32302d6fe3b41c826]... before the relevant date (within the meaning of paragraph 80(3) to (5)), sub-paragraph (1) is to have effect as if it provided for the club or institute to be treated as holding such a permit until the relevant date.
 
 (4) Paragraph 80 and sub-paragraph (1) of this paragraph are to be subject to the following provisions of this paragraph.
 
@@ -1971,7 +1971,7 @@ the licensing authority must grant that application.
 
 (14) Despite section 274(2) of the 2005 Act (which disapplies Schedule 12 in relation to specified clubs etc. in Scotland), the provisions of that Schedule referred to in sub-paragraphs (11) to (13) are also to apply to a members’ club or miners’ welfare institute in Scotland in the same way as they apply to a club or institute in England and Wales.
 
-#### 85. Special provisions applying to clubs etc. in Scotland[^key-5ea2bf9c1258b4317e1dcd9ad3f52521]
+#### 85. Special provisions applying to clubs etc. in Scotland[^c-5ea2bf9c1258b4317e1dcd9ad3f52521]
 
 (1) This paragraph modifies paragraphs 80 and 82 to 84 in their application to members’ clubs or miners’ welfare institutes in respect of which a certificate of registration under section 105 of the Licensing (Scotland) Act 1976 has effect (referred to in this paragraph as a “certificate of registration”).
 
@@ -1982,12 +1982,12 @@ the licensing authority must grant that application.
 - (c) the condition in paragraph (d) of paragraph 82, and
 - (d) paragraph 83.
 
-(3) The following provisions of this paragraph are only to have effect if on 1st August[^key-9b4e801e6283ffe3ea8df766b3dc6e39] 2007 regulations under section 285(1)(a) of the 2005 Act are not in force setting out the provisions which are to have effect in place of Schedule 12 to that Act in relation to an application for a club gaming permit where the applicant is the holder of a certificate of registration.
+(3) The following provisions of this paragraph are only to have effect if on 1st August[^c-9b4e801e6283ffe3ea8df766b3dc6e39] 2007 regulations under section 285(1)(a) of the 2005 Act are not in force setting out the provisions which are to have effect in place of Schedule 12 to that Act in relation to an application for a club gaming permit where the applicant is the holder of a certificate of registration.
 
 (4) Paragraph (c) of paragraph 80(1) is to have effect as if it required such an application to be made on or before the date which is the later of—
 
 - (a) one month after the date on which the provisions referred to in sub-paragraph (3) come into force, or
-- (b) [^key-66064bd4e0b199ad7abdaadc6b686002]... the relevant date (within the meaning of paragraph 80(3)).
+- (b) [^c-66064bd4e0b199ad7abdaadc6b686002]... the relevant date (within the meaning of paragraph 80(3)).
 
 (5) Paragraph 84(3) is not to apply in any case where the effect of paragraph 80(1) (as modified by sub-paragraph (4)) is to require the application to be made on or before the date which is one month after the date on which the provisions referred to in sub-paragraph (3) come into force.
 
@@ -1995,18 +1995,18 @@ the licensing authority must grant that application.
 
 (7) Where the holder of the certificate of registration fails to apply for a club gaming permit on or before the date referred to in sub-paragraph (4)(a), paragraph 84(1) is to have effect as if it provided for the club or institute to be treated as holding such a permit until that date.
 
-#### 86. Conversion of a club registration under Part 3 of the Gaming Act 1968 into a club machine permit[^key-dba77232fb58510e094d02eae182c098]
+#### 86. Conversion of a club registration under Part 3 of the Gaming Act 1968 into a club machine permit[^c-dba77232fb58510e094d02eae182c098]
 
 (1) Paragraphs 87 to 89, 91 and 92 apply to a members’ club, commercial club or miners’ welfare institute where—
 
-- (a) the club or institute is registered under Part 3 of the 1968[^key-29d96073c9880f23a38e5c0f09c530e9] Act, and
+- (a) the club or institute is registered under Part 3 of the 1968[^c-29d96073c9880f23a38e5c0f09c530e9] Act, and
 - (b) the registration has effect immediately before 1st September 2007.
 
 (2) Paragraphs 87 to 89, 91 and 92 also apply to a members’ club, commercial club or miners’ welfare institute which is registered under Part 3 of the 1968 Act on or after 1st September 2007.
 
 (3) In paragraphs 87, 88, 91 and 92, any reference to the relevant licensing authority is to the licensing authority (within the meaning of the 2005 Act) in whose area are situated the premises in respect of which the club or institute was registered under Part 3 of the Act.
 
-#### 87. Conversion of club registrations under Part 3 of the Gaming Act 1968: provision of information by the 1968 Act licensing authority[^key-86e14ef0888753af5abb4016d5a0fd0a]
+#### 87. Conversion of club registrations under Part 3 of the Gaming Act 1968: provision of information by the 1968 Act licensing authority[^c-86e14ef0888753af5abb4016d5a0fd0a]
 
 (1) In England and Wales the designated officer for the authority which registered the club or institute must on the relevant date, or as soon as practicable after that date, provide the relevant licensing authority with the information specified in sub-paragraph (3).
 
@@ -2031,13 +2031,13 @@ the licensing authority must grant that application.
 
 (6) Where a club or institute’s registration has effect immediately before 1st September 2007 by virtue of paragraph 23 of Schedule 7 to the 1968 Act (which provides for registrations under Part 3 of that Act to be extended where an application for renewal of the registration has not been determined), including as that paragraph has effect in relation to Scotland by virtue of paragraph 3 of Schedule 8 to that Act, the relevant date is the date on which the application for renewal of the registration is granted.
 
-#### 88. Duty of licensing authority to convert a registration under Part 3 of the Gaming Act 1968 into a club machine permit[^key-27884720018a7058c7857b61d9f32d95]
+#### 88. Duty of licensing authority to convert a registration under Part 3 of the Gaming Act 1968 into a club machine permit[^c-27884720018a7058c7857b61d9f32d95]
 
 (1) Subject to the following provisions of this Part, where—
 
 - (a) a members’ club, commercial club or miners’ welfare institute applies to the relevant licensing authority for the grant of a club machine permit in respect of the same or substantially the same premises as those to which the registration under Part 3 of the 1968 Act relates;
 - (b) the application complies with sub-paragraphs (b) and (e) of paragraph 2 and (where applicable) paragraph 3 of Schedule 12 to the 2005 Act; and
-- (c) the application is made [^key-dc028f144f0e69963fb6165daef0b9e2]... before the relevant date
+- (c) the application is made [^c-dc028f144f0e69963fb6165daef0b9e2]... before the relevant date
 
 the relevant licensing authority must grant that application.
 
@@ -2049,7 +2049,7 @@ the relevant licensing authority must grant that application.
 
 (5) Where the club or institute is registered on or after 1st September 2007, the relevant date is the last day of the period of 5 years beginning on the date on which it is registered.
 
-#### 89. Exclusion of cases where an application for the renewal of the registration under Part 3 is rejected on or after 1st September 2007[^key-e5a043b876154ddbb909a6873d68710a][^key-ab026a90c485ba19b131503356041f40]
+#### 89. Exclusion of cases where an application for the renewal of the registration under Part 3 is rejected on or after 1st September 2007[^c-e5a043b876154ddbb909a6873d68710a][^c-ab026a90c485ba19b131503356041f40]
 
 (1) This paragraph applies where—
 
@@ -2060,7 +2060,7 @@ the relevant licensing authority must grant that application.
 
 (3) Paragraph 92(1) is to cease to apply to the club or institute on the date on which the application for renewal of the registration is withdrawn or rejected.
 
-#### 90. Conversion of club registrations under Part 3 of the 1968 Act: applications made before 1st September 2007[^key-d105576c56df2b3a256306c7a2c20ef6][^key-6c62cefeb84b54bbf4ddcc387941c352]
+#### 90. Conversion of club registrations under Part 3 of the 1968 Act: applications made before 1st September 2007[^c-d105576c56df2b3a256306c7a2c20ef6][^c-6c62cefeb84b54bbf4ddcc387941c352]
 
 (1) This paragraph applies where—
 
@@ -2068,11 +2068,11 @@ the relevant licensing authority must grant that application.
 - (b) when the application is made, the club or institute is registered under Part 3 of the 1968 Act in respect of the same, or substantially the same, premises as those to which the application relates;
 - (c) the registration under Part 3 of the 1968 Act is due to expire in accordance with paragraph 22 of Schedule 7 to the 1968 Act (including as that paragraph has effect in relation to Scotland by virtue of paragraph 3 of Schedule 8 to that Act) on a date on or after 1st September 2007;
 - (d) the application complies with sub-paragraphs (b) and (e) of paragraph 2 and, where applicable, paragraph 3 of Schedule 12 to the 2005 Act; and
-- (e) the application is made [^key-77f22d8aaeb83364c426147939a6ae7f]... before the relevant date (as that expression is defined in paragraph 88(3) and (4)[^key-92d7a44686d884583e3dc9ff46d8ef83]).
+- (e) the application is made [^c-77f22d8aaeb83364c426147939a6ae7f]... before the relevant date (as that expression is defined in paragraph 88(3) and (4)[^c-92d7a44686d884583e3dc9ff46d8ef83]).
 
 (2) The licensing authority may not determine the application before 1st September 2007.
 
-#### 91. Failure to make the application for a club machine permit in the appropriate form or manner[^key-fe763741474f183fad24419f8c5a22f4]
+#### 91. Failure to make the application for a club machine permit in the appropriate form or manner[^c-fe763741474f183fad24419f8c5a22f4]
 
 (1) This paragraph applies to any application for a club machine permit which meets the conditions in paragraphs (a) to (c) of paragraph 88(1), but does not comply with a requirement imposed under sub-paragraph (c) or (d) of paragraph 2 of Schedule 12 to the 2005 Act.
 
@@ -2082,13 +2082,13 @@ the relevant licensing authority must grant that application.
 
 (4) Paragraph 92(1) is to cease to apply if the club or institute fails to comply with a request made under sub-paragraph (2) within the period specified in accordance with sub-paragraph (3).
 
-#### 92. Conversion of club registrations under Part 3 of the 1968 Act: transitional provisions[^key-00002f12048e6c690eb0d37ea5c3317a]
+#### 92. Conversion of club registrations under Part 3 of the 1968 Act: transitional provisions[^c-00002f12048e6c690eb0d37ea5c3317a]
 
 (1) At any time on or after 1st September 2007 until the date on which the club machine permit is granted in accordance with paragraph 88, a club or miners’ welfare institute is to be treated for the purposes of the Act as if it had been granted such a permit in relation to the premises in respect of which the registration under Part 3 of the 1968 Act had effect.
 
 (2) In a case falling within paragraph 86(2), sub-paragraph (1) is not to apply until the date on which the club or institute is registered under Part 3 of the 1968 Act.
 
-(3) Where the club or institute fails to apply for a club machine permit [^key-501e0cdaf2d964969876a721ee72cfd3]... before the relevant date (within the meaning of paragraph 88(3) to (5)), sub-paragraph (1) is to have effect as if it provided for the club or institute to be treated as holding such a permit until the relevant date.
+(3) Where the club or institute fails to apply for a club machine permit [^c-501e0cdaf2d964969876a721ee72cfd3]... before the relevant date (within the meaning of paragraph 88(3) to (5)), sub-paragraph (1) is to have effect as if it provided for the club or institute to be treated as holding such a permit until the relevant date.
 
 (4) Paragraph 88 and sub-paragraph (1) of this paragraph are to be subject to the following provisions of this paragraph.
 
@@ -2124,7 +2124,7 @@ the relevant licensing authority must grant that application.
 
 (14) Despite section 274(2) of the 2005 Act (which disapplies Schedule 12 in relation to specified clubs etc. in Scotland), the provisions of that Schedule referred to in sub-paragraphs (10) to (12) are also to apply to any club or miners’ welfare institute in Scotland in the same way as they apply to a club or institute in England and Wales.
 
-#### 93. Special provisions applying to clubs etc. in Scotland[^key-aab289656c4475503cfee2bd5a66e4df]
+#### 93. Special provisions applying to clubs etc. in Scotland[^c-aab289656c4475503cfee2bd5a66e4df]
 
 (1) This paragraph modifies paragraphs 88, 90, 91 and 92 in their application to members’ clubs, commercial clubs or miners’ welfare institutes in respect of which a certificate of registration under section 105 of the Licensing (Scotland) Act 1976 has effect (referred to in this paragraph as a “certificate of registration”).
 
@@ -2135,12 +2135,12 @@ the relevant licensing authority must grant that application.
 - (c) the condition in paragraph (d) of paragraph 90, and
 - (d) paragraph 91.
 
-(3) The following provisions of this paragraph are only to apply if on 1st August[^key-8c596561c3bcb9f56aa055f6d38cdb51] 2007 regulations under section 285(1)(a) of the 2005 Act are not in force setting out the provisions which are to have effect in place of Schedule 12 to that Act in relation to an application for a club machine permit where the applicant is the holder of a certificate of registration.
+(3) The following provisions of this paragraph are only to apply if on 1st August[^c-8c596561c3bcb9f56aa055f6d38cdb51] 2007 regulations under section 285(1)(a) of the 2005 Act are not in force setting out the provisions which are to have effect in place of Schedule 12 to that Act in relation to an application for a club machine permit where the applicant is the holder of a certificate of registration.
 
 (4) Paragraph (c) of paragraph 88(1) is to have effect as if it required such an application to be made on or before the date which is the later of—
 
 - (a) one month after the date on which the provisions referred to in sub-paragraph (3) come into force, or
-- (b) [^key-d54e7f8d1cfbfc6318f844dbd71498c6]... the relevant date (within the meaning of paragraph 88(3)).
+- (b) [^c-d54e7f8d1cfbfc6318f844dbd71498c6]... the relevant date (within the meaning of paragraph 88(3)).
 
 (5) Paragraph 92(3) is not to apply in any case where the effect of paragraph 88(1) (as modified by sub-paragraph (4)) is to require the application to be made or before the date which is one month after the date on which the provisions referred to in sub-paragraph (3) come into force.
 
@@ -2150,7 +2150,7 @@ the relevant licensing authority must grant that application.
 
 ### PART 10 — Conversion of permits under section 34 of the Gaming Act 1968 into family entertainment centre gaming machine permits
 
-#### 94. Meaning of existing operator for the purposes of applications for family entertainment centre gaming machine permits[^key-a7d343bd56f1ac1f8364220a27492556]
+#### 94. Meaning of existing operator for the purposes of applications for family entertainment centre gaming machine permits[^c-a7d343bd56f1ac1f8364220a27492556]
 
 (1) This paragraph specifies the circumstances in which a person applying for a family entertainment centre gaming machine permit (referred to in this Part as a “FEC gaming machine permit”) is to be treated for the purposes of this Part as an existing family entertainment centre operator.
 
@@ -2161,7 +2161,7 @@ the relevant licensing authority must grant that application.
   - (ii) which is expressed to be granted for the purposes of section 34(1) of the 1968 Act[^f00082]; or
 - (b) he is applying for such a permit, and the application (including any appeal) has not been finally determined or withdrawn.
 
-#### 95. Conversion of section 34 permits into FEC gaming machine permits[^key-0a378d1bdf767b38883915c5bc5672d6]
+#### 95. Conversion of section 34 permits into FEC gaming machine permits[^c-0a378d1bdf767b38883915c5bc5672d6]
 
 (1) Subject to the following provisions of this Part, where—
 
@@ -2173,7 +2173,7 @@ the licensing authority must grant that application.
 
 (2) Paragraphs 8(1)(b), 9 and 10 of Schedule 10 to the 2005 Act are not to apply to such an application.
 
-#### 96. Failure to make the application for a FEC gaming machine permit in the appropriate form or manner[^key-28b671e7caf8d460d0f6a744473efa3c]
+#### 96. Failure to make the application for a FEC gaming machine permit in the appropriate form or manner[^c-28b671e7caf8d460d0f6a744473efa3c]
 
 (1) This paragraph applies to any application for a FEC gaming machine permit which meets the conditions in paragraphs (a) to (c) of paragraph 95(1), but does not comply with a requirement imposed under sub-paragraph (a) or (c) of paragraph 5 of Schedule 10 to the 2005 Act.
 
@@ -2186,7 +2186,7 @@ the licensing authority must grant that application.
 - (a) sub-paragraph (3) of that paragraph is to cease to apply to the application after the end of that period; and
 - (b) where the relevant FEC gaming machine permit is treated as having been issued to the applicant by virtue of that sub-paragraph, the permit is to lapse.
 
-#### 97. Effect of cancellation of section 34 permit[^key-7e444900a7d24a38896ec7bb7ead9e80]
+#### 97. Effect of cancellation of section 34 permit[^c-7e444900a7d24a38896ec7bb7ead9e80]
 
 (1) Where—
 
@@ -2199,7 +2199,7 @@ the licensing authority must reject the application.
 
 (3) Where the section 34 permit is cancelled after the licensing authority have issued the FEC gaming machine permit in pursuance of paragraph 95(1), the permit is to lapse on the date on which the section 34 permit is cancelled.
 
-#### 98. Provisions to ensure that existing family entertainment centre operators can continue to operate on and after 1st September 2007[^key-16e15a4be674e9b452c55fdafb0372b9]
+#### 98. Provisions to ensure that existing family entertainment centre operators can continue to operate on and after 1st September 2007[^c-16e15a4be674e9b452c55fdafb0372b9]
 
 (1) This paragraph applies to an application for a FEC gaming machine permit which meets the conditions in paragraphs (a) to (c) of sub-paragraph (1) of paragraph 95, but where in addition the application is made before 31st July 2007.
 
@@ -2216,7 +2216,7 @@ on the day immediately following the end of that period.
 
 (5) For the purposes of paragraph 11(1)(c) of Schedule 10 to the 2005 Act (which requires the date on which a FEC gaming machine permit takes effect to be specified in the permit), the licensing authority are to specify 1st September 2007 as the date on which the FEC gaming machine permit takes effect.
 
-#### 99. Conversion of section 34 permits into FEC gaming machine permits: supplementary provisions[^key-900018f098504e82e92d706ecb270092]
+#### 99. Conversion of section 34 permits into FEC gaming machine permits: supplementary provisions[^c-900018f098504e82e92d706ecb270092]
 
 (1) This paragraph applies to an advance application for a FEC gaming machine permit where the person making the application qualifies as an existing family entertainment centre operator by virtue of paragraph 94(2)(b).
 
@@ -2249,7 +2249,7 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 (9) For the purposes of this paragraph, where an application for a section 34 permit is refused, it is not to be treated as having been determined or refused until the period for appealing against the decision to refuse the permit has elapsed; or, if an appeal is made, unless and until the appeal is dismissed or abandoned.
 
-#### 100. Conversion of section 34 permits into FEC gaming machine permits: supplementary provisions where premises are situated in Scotland[^key-2f0d0f374ac888dd3eae3135ec936f8d]
+#### 100. Conversion of section 34 permits into FEC gaming machine permits: supplementary provisions where premises are situated in Scotland[^c-2f0d0f374ac888dd3eae3135ec936f8d]
 
 (1) This paragraph applies in any case falling within paragraph 99 where the premises to which the application for the section 34 permit relates are situated in Scotland.
 
@@ -2271,7 +2271,7 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 ### PART 11 — Conversion of permits under section 16 of the Lotteries and Amusements Act 1976 into prize gaming permits
 
-#### 101. Meaning of existing operator for the purposes of an application for a prize gaming permit[^key-3b63bba67ac1477378fd59d8a6122d2c]
+#### 101. Meaning of existing operator for the purposes of an application for a prize gaming permit[^c-3b63bba67ac1477378fd59d8a6122d2c]
 
 (1) This paragraph specifies the circumstances in which a person applying for a prize gaming permit under Schedule 14 to the 2005 Act (referred to in this Part as a “prize gaming permit”) is to be treated for the purposes of this Part as an existing operator.
 
@@ -2280,7 +2280,7 @@ that sub-paragraph is to have effect as if it provided for the application to be
 - (a) he holds a permit issued under section 16 of the 1976 Act (which provides for permits authorising the provision of amusements with prizes at certain commercial entertainments) (referred to in this Part as a “section 16 permit”), or
 - (b) he is applying for such a permit, and the application (including any appeal) has not been finally determined or withdrawn.
 
-#### 102. Conversion of section 16 permits into prize gaming permits[^key-d016664d57ec94c7360e0d01e5dc3564]
+#### 102. Conversion of section 16 permits into prize gaming permits[^c-d016664d57ec94c7360e0d01e5dc3564]
 
 (1) Where—
 
@@ -2292,7 +2292,7 @@ the licensing authority must grant that application.
 
 (2) Paragraphs 9(1)(b), 10 and 11 of Schedule 14 to the 2005 Act are not to apply to such an application.
 
-#### 103. Failure to make the application for a prize gaming permit in the appropriate form or manner[^key-b0af059d8afcfee7e9841708ad36d0e4]
+#### 103. Failure to make the application for a prize gaming permit in the appropriate form or manner[^c-b0af059d8afcfee7e9841708ad36d0e4]
 
 (1) This paragraph applies to any application for a prize gaming permit which meets the conditions in paragraphs (a) to (c) of paragraph 102(1), but does not comply with a requirement imposed under sub-paragraph (a) or (d) of paragraph 6 of Schedule 14 to the 2005 Act.
 
@@ -2305,7 +2305,7 @@ the licensing authority must grant that application.
 - (a) sub-paragraph (3) of that paragraph is to cease to apply to the application after the end of that period; and
 - (b) where the relevant prize gaming permit is treated as having been issued to the applicant by virtue of that sub-paragraph, the permit is to lapse.
 
-#### 104. Effect of cancellation of section 16 permit[^key-ddb904780466aa290bddb93eff993590]
+#### 104. Effect of cancellation of section 16 permit[^c-ddb904780466aa290bddb93eff993590]
 
 (1) Where—
 
@@ -2318,7 +2318,7 @@ the licensing authority must reject the application.
 
 (3) Where the section 16 permit is cancelled after the licensing authority have issued the prize gaming permit in pursuance of paragraph 102(1), the permit is to lapse on the date on which the section 16 permit is cancelled.
 
-#### 105. Provisions to ensure that existing operators can continue to operate on and after 1st September 2007[^key-d881575ef619470ec4a900321cf0e224]
+#### 105. Provisions to ensure that existing operators can continue to operate on and after 1st September 2007[^c-d881575ef619470ec4a900321cf0e224]
 
 (1) This paragraph applies to an application for a prize gaming permit which meets the conditions in paragraphs (a) to (c) of paragraph 102(1), but where in addition the application is made before 31st July 2007.
 
@@ -2335,7 +2335,7 @@ on the day immediately following the end of that period.
 
 (5) For the purposes of paragraph 12(1)(d) of Schedule 14 to the 1968 Act (which requires the date on which a prize gaming permit takes effect to be specified in the permit), the licensing authority are to specify 1st September 2007 as the date on which the prize gaming permit takes effect.
 
-#### 106. Conversion of section 16 permits into prize gaming permits: supplementary provisions[^key-35fde944fbe20012c5b179cec424bb2f]
+#### 106. Conversion of section 16 permits into prize gaming permits: supplementary provisions[^c-35fde944fbe20012c5b179cec424bb2f]
 
 (1) This paragraph applies to an application for a prize gaming permit where the person making the application qualifies as an existing operator by virtue of paragraph 101(2)(b).
 
@@ -2368,7 +2368,7 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 (9) For the purposes of this paragraph, where an application for a section 16 permit is refused, it is not to be treated as having been determined or refused until the period for appealing against the decision to refuse the permit has elapsed; or, if an appeal is made, unless and until the appeal is dismissed or abandoned.
 
-#### 107. Conversion of section 16 permits into prize gaming permits: supplementary provisions where premises are situated in Scotland[^key-6c421ad20edcfe56969d236ed989c283]
+#### 107. Conversion of section 16 permits into prize gaming permits: supplementary provisions where premises are situated in Scotland[^c-6c421ad20edcfe56969d236ed989c283]
 
 (1) This paragraph applies in any case falling within paragraph 106 where the premises to which the application for the section 16 permit relates are situated in Scotland.
 
@@ -2390,27 +2390,27 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 ## Annotations
 
-[^key-4bf2975fd1e727ee0ce762bb7c16c3dd]: Commencement: Sch. 4 para. 1 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-4bf2975fd1e727ee0ce762bb7c16c3dd]: Commencement: Sch. 4 para. 1 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00025]: Footnote: Subsection (7A) was inserted by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359). That subsection defines “amusement machine premises” to mean premises used wholly or mainly for the provision of amusements by means of machines to which Part 3 of the 1968 Act applies.
 
-[^key-f81237088b3b6cc42d2ba7f316611e7c]: Commencement: Sch. 4 para. 2 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-f81237088b3b6cc42d2ba7f316611e7c]: Commencement: Sch. 4 para. 2 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-604b174161fd7742149cf2c3f4cc977b]: Textual amendment: Words in [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/2/2) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/7/2)
+[^c-604b174161fd7742149cf2c3f4cc977b]: Textual amendment: Words in [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/2/2) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/7/2)
 
 [^f00026]: Footnote: Section 13 was amended by the Horserace Totalisator and Betting Levy Boards Act [1972 (c. 69)](https://www.legislation.gov.uk/ukpga/1972/69), section 5(1). Amendments have also been made by the Horserace Betting and Olympic Lottery Act [2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), Schedule 4, paragraphs 1 and 2.
 
 [^f00027]: Footnote: Schedule 5ZA was inserted by [S.I. 1995/3231](https://www.legislation.gov.uk/uksi/1995/3231).
 
-[^key-8d76076744a0d008878fc1d8b34e8714]: Textual amendment: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/2/3) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2007/1157/article/7/3)
+[^c-8d76076744a0d008878fc1d8b34e8714]: Textual amendment: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/2/3) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2007/1157/article/7/3)
 
-[^key-e50a7a227cc3491f32b400ad992c427c]: Commencement: Sch. 4 para. 3 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-e50a7a227cc3491f32b400ad992c427c]: Commencement: Sch. 4 para. 3 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00028]: Footnote: Paragraph 29 of Schedule 1 was amended by [S.I. 1997/947](https://www.legislation.gov.uk/uksi/1997/947).
 
-[^key-ca6885634c79bd9e435ab7145a63b376]: Commencement: Sch. 4 para. 4 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-ca6885634c79bd9e435ab7145a63b376]: Commencement: Sch. 4 para. 4 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-5ab9e9967d88198f24222c9708ea840e]: Commencement: Sch. 4 para. 5 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5ab9e9967d88198f24222c9708ea840e]: Commencement: Sch. 4 para. 5 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00029]: Footnote: Section 34 was amended by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359) and [S.I. 2003/3275](https://www.legislation.gov.uk/uksi/2003/3275).
 
@@ -2420,7 +2420,7 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00032]: Footnote: Sub-paragraph (a) of paragraph 1 was amended by the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), Schedule 6, paragraphs 48 and 52(1) and (2). Sub-paragraph (c) of paragraph 1 was substituted by the Licensing (Scotland) Act [1976 (c. 66)](https://www.legislation.gov.uk/ukpga/1976/66), section 133(3).
 
-[^key-d02bd5fd9c47d35519d8e7c3c28a65b0]: Commencement: Sch. 4 para. 6 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d02bd5fd9c47d35519d8e7c3c28a65b0]: Commencement: Sch. 4 para. 6 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00033]: Footnote: Paragraph 5 of Schedule 2 was amended by the Gaming (Amendment) Act [1982 (c. 22)](https://www.legislation.gov.uk/ukpga/1982/22), section 1 and Schedule 1, paragraph 3, by the Access to Justice Act 1999, Schedule 13, paragraphs 57 and 58(1) and (3), and by the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), paragraphs 24(1) and (3).
 
@@ -2428,11 +2428,11 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00035]: Footnote: Paragraph 4 of Schedule 2 to the 1968 Act was amended by the Gaming (Amendment) Act 1982, section 1 and paragraph 2 of Schedule 1, and by the Gaming Amendment Act [1990 (c. 26)](https://www.legislation.gov.uk/ukpga/1990/26), section 1 and paragraph 7 of the Schedule to that Act. Paragraph 56 of Schedule 2 to the 1968 Act was amended by the Gaming Amendment Act 1990, section 1 and paragraph 8 of the Schedule to that Act.
 
-[^key-b0bbbeef6d4d6f616defd94c589badeb]: Commencement: Sch. 4 para. 7 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-b0bbbeef6d4d6f616defd94c589badeb]: Commencement: Sch. 4 para. 7 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-074df84c156ca45885b19ba2be2a535a]: Textual amendment: [Sch. 4 para. 7(1A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/7/1A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/7/2) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/7/3))
+[^c-074df84c156ca45885b19ba2be2a535a]: Textual amendment: [Sch. 4 para. 7(1A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/7/1A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/7/2) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/7/3))
 
-[^key-235e11e633317483fb4417248078c8b3]: Commencement: Sch. 4 para. 8 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-235e11e633317483fb4417248078c8b3]: Commencement: Sch. 4 para. 8 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00036]: Footnote: Paragraph 52 of Schedule 2 was amended by the Gaming (Amendment) Act [1982 (c. 22)](https://www.legislation.gov.uk/ukpga/1982/22), section 1 and Schedule 1, paragraph 11.
 
@@ -2442,53 +2442,53 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00039]: Footnote: Section 39 was amended by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359).
 
-[^key-1933eb26074ab589222e261d6c9f8d5b]: Commencement: Sch. 4 para. 9 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-1933eb26074ab589222e261d6c9f8d5b]: Commencement: Sch. 4 para. 9 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-13859e5504d412d4ab61cf2609de2b19]: Commencement: Sch. 4 para. 10 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-13859e5504d412d4ab61cf2609de2b19]: Commencement: Sch. 4 para. 10 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00040]: Footnote: See sections 266 to 268 of the 2005 Act for definitions of “members’ club”, “commercial club” and “miners’ welfare institute”.
 
-[^key-10147522a3d346f6c388a7b67b77802c]: Commencement: Sch. 4 para. 11 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-10147522a3d346f6c388a7b67b77802c]: Commencement: Sch. 4 para. 11 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00041]: Footnote: See section 247(2) of the 2005 Act.
 
-[^key-3c15c964f36eb51bba893d3b40d60f6f]: Commencement: Sch. 4 para. 12 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3c15c964f36eb51bba893d3b40d60f6f]: Commencement: Sch. 4 para. 12 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00042]: Footnote: Paragraph 1(a) of Schedule 1 to the 1963 Act was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 115(1) and (2).
 
 [^f00043]: Footnote: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 
-[^key-c1dbde3861cbfbfe1df464ec4ae2ab63]: Commencement: Sch. 4 para. 13 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-c1dbde3861cbfbfe1df464ec4ae2ab63]: Commencement: Sch. 4 para. 13 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00044]: Footnote: Schedule 2A was inserted by the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39), section 50(2) and Schedule 9.
 
-[^key-b5fd471f96d038e5c01e766798f26cc1]: Commencement: Sch. 4 para. 14 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-b5fd471f96d038e5c01e766798f26cc1]: Commencement: Sch. 4 para. 14 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00045]: Footnote: Schedule 1A was inserted by the National Lottery etc. Act 1993, section 48(5) and Part 2 of Schedule 7.
 
-[^key-8e2c438fd2ac453d1d626b0cd9e2846e]: Commencement: Sch. 4 para. 15 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-8e2c438fd2ac453d1d626b0cd9e2846e]: Commencement: Sch. 4 para. 15 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00046]: Footnote: Schedule 1 to the 1976 Act was amended by the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39), paragraphs 2 and 3 of Schedule 7, and Schedule 10; by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), paragraph 50(2) of Schedule 16; and by Local Government (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 104(3) of Schedule 13. Other amendments were made to Schedule 1 which are not relevant. Schedule 1A was inserted by the National Lottery etc. Act 1993, section 48(5) and Part 2 of Schedule 7. Schedule 2 was amended by the National Lottery etc. Act, paragraphs 1 to 10 of Schedule 8.
 
-[^key-75e64062a11854b319c98a3b6d0297e5]: Commencement: Sch. 4 para. 16 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-75e64062a11854b319c98a3b6d0297e5]: Commencement: Sch. 4 para. 16 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00047]: Footnote: See section 289(2) of the 2005 Act.
 
-[^key-c56f9475e70b16b4f6b2d57ea44568ae]: Commencement: Sch. 4 para. 17 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-c56f9475e70b16b4f6b2d57ea44568ae]: Commencement: Sch. 4 para. 17 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-bd6a919285080ca8b879a58132ab9ae3]: Textual amendment: [Sch. 4 para. 17(6)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/17/6/a)[(aa)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/17/6/aa) substituted for Sch. 4 para. 17(6)(a) (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/8/2)
+[^c-bd6a919285080ca8b879a58132ab9ae3]: Textual amendment: [Sch. 4 para. 17(6)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/17/6/a)[(aa)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/17/6/aa) substituted for Sch. 4 para. 17(6)(a) (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/8/2)
 
-[^key-4556542fbb03eb28daf1ecfe5cc8dd31]: Commencement: Sch. 4 para. 18 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-4556542fbb03eb28daf1ecfe5cc8dd31]: Commencement: Sch. 4 para. 18 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-26824314b7abd46286b606fe9832ca8d]: Commencement: Sch. 4 para. 19 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-26824314b7abd46286b606fe9832ca8d]: Commencement: Sch. 4 para. 19 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-1cf87aaf340256c0e9e4d1d2e1bcbf6f]: Commencement: Sch. 4 para. 20 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-1cf87aaf340256c0e9e4d1d2e1bcbf6f]: Commencement: Sch. 4 para. 20 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-db6d50d7366ec9e87d8a7581ebb33c69]: Commencement: Sch. 4 para. 21 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-db6d50d7366ec9e87d8a7581ebb33c69]: Commencement: Sch. 4 para. 21 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-d774ed4f4b7157f536bb647e2e299458]: Commencement: Sch. 4 para. 22 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d774ed4f4b7157f536bb647e2e299458]: Commencement: Sch. 4 para. 22 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-77615d3eafe3e8099d6ec9e2231e7b4e]: Commencement: Sch. 4 para. 23 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-77615d3eafe3e8099d6ec9e2231e7b4e]: Commencement: Sch. 4 para. 23 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00048]: Footnote: Section 34 was amended by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359) and [S.I. 2003/3275](https://www.legislation.gov.uk/uksi/2003/3275).
 
@@ -2502,91 +2502,91 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00053]: Footnote: Subsections (5A) to (5E) were inserted by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359). Further provisions were inserted by [S.I. 2003/3275](https://www.legislation.gov.uk/uksi/2003/3275).
 
-[^key-13c4e5522cdb0163ea295c4906d954d4]: Commencement: Sch. 4 para. 24 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-13c4e5522cdb0163ea295c4906d954d4]: Commencement: Sch. 4 para. 24 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-7b4cc520481ddfd94a580efca2b562ae]: Textual amendment: Words in [Sch. 4 para. 24(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/24/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/2)
+[^c-7b4cc520481ddfd94a580efca2b562ae]: Textual amendment: Words in [Sch. 4 para. 24(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/24/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/2)
 
-[^key-acda7062965b2ea8aab3b035a7c4d978]: Commencement: Sch. 4 para. 25 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-acda7062965b2ea8aab3b035a7c4d978]: Commencement: Sch. 4 para. 25 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-896217f3f4f2b38f1d768ecfba8b973f]: Commencement: Sch. 4 para. 26 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-896217f3f4f2b38f1d768ecfba8b973f]: Commencement: Sch. 4 para. 26 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00054]: Footnote: See section 277 of the 2005 Act for the definition of “relevant Scottish licence”.
 
 [^f00055]: Footnote: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 
-[^key-4b1e8c6ef7f0aa37043f837bed546696]: Commencement: Sch. 4 para. 27 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-4b1e8c6ef7f0aa37043f837bed546696]: Commencement: Sch. 4 para. 27 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-02607398dcb682f3c7bdeff7c56bd3f8]: Textual amendment: [Sch. 4 para. 27(1)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/a) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/i)
+[^c-02607398dcb682f3c7bdeff7c56bd3f8]: Textual amendment: [Sch. 4 para. 27(1)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/a) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/i)
 
-[^key-e76e017edd0fd72cf6d6aeba576930c6]: Textual amendment: Words in [Sch. 4 para. 27(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/c) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/ii)
+[^c-e76e017edd0fd72cf6d6aeba576930c6]: Textual amendment: Words in [Sch. 4 para. 27(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/c) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/ii)
 
-[^key-8da66ca97e976ed1ae8ced7a77076aaa]: Textual amendment: [Sch. 4 para. 27(1)(cc)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/cc) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/iii)
+[^c-8da66ca97e976ed1ae8ced7a77076aaa]: Textual amendment: [Sch. 4 para. 27(1)(cc)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/cc) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/iii)
 
 [^M_F_7c25991b-6a04-4cb9-afa2-4f1ce4cecd39]: Textual amendment: Words in Sch. 4 para. 27(1)(d) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/iv)
 
-[^key-d79227161dd15469dd5ca0ecfb0ee0f4]: Textual amendment: Words in [Sch. 4 para. 27(1)(d)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/d) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/iv)
+[^c-d79227161dd15469dd5ca0ecfb0ee0f4]: Textual amendment: Words in [Sch. 4 para. 27(1)(d)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/1/d) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/a/iv)
 
 [^f00057]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-2d87bebf7e7a4fb9a97914d6843cb309]: Textual amendment: Words in [Sch. 4 para. 27(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/6) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/b)
+[^c-2d87bebf7e7a4fb9a97914d6843cb309]: Textual amendment: Words in [Sch. 4 para. 27(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/6) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/b)
 
-[^key-1f875532e46a316f16e4ce1c4f1cf442]: Textual amendment: [Sch. 4 para. 27(6A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/6A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/c)
+[^c-1f875532e46a316f16e4ce1c4f1cf442]: Textual amendment: [Sch. 4 para. 27(6A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/27/6A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/3/c)
 
-[^key-8eef59b23424888270d96ad8660d691f]: Commencement: Sch. 4 para. 28 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-8eef59b23424888270d96ad8660d691f]: Commencement: Sch. 4 para. 28 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-f242af011cd224bdbabc43982fba0b2d]: Commencement: Sch. 4 para. 29 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-f242af011cd224bdbabc43982fba0b2d]: Commencement: Sch. 4 para. 29 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-fdbf7d897a2eac0fe265f40381f869ad]: Textual amendment: Words in [Sch. 4 para. 29(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/1) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/a)
+[^c-fdbf7d897a2eac0fe265f40381f869ad]: Textual amendment: Words in [Sch. 4 para. 29(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/1) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/a)
 
 [^f00058]: Footnote: See section 277 of the 2005 Act for the definition of “relevant Scottish licence”.
 
-[^key-ed50dd59f1a544ceee1a86865dea2f3e]: Textual amendment: Words in [Sch. 4 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/2/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/b/i)
+[^c-ed50dd59f1a544ceee1a86865dea2f3e]: Textual amendment: Words in [Sch. 4 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/2/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/b/i)
 
-[^key-a671a51de9a81d663279b4f4677a27c4]: Textual amendment: Words in [Sch. 4 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/2/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/b/ii)
+[^c-a671a51de9a81d663279b4f4677a27c4]: Textual amendment: Words in [Sch. 4 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/2/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/b/ii)
 
-[^key-71028b1c3d084ad74978dec74ee254fb]: Textual amendment: [Sch. 4 para. 29(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/c)
+[^c-71028b1c3d084ad74978dec74ee254fb]: Textual amendment: [Sch. 4 para. 29(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/c)
 
-[^key-23d99a3ad04f64b4881f2f97bb1371ed]: Textual amendment: Words in [Sch. 4 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(d)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/d/i)
+[^c-23d99a3ad04f64b4881f2f97bb1371ed]: Textual amendment: Words in [Sch. 4 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(d)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/d/i)
 
-[^key-18263ed44571582897b1571e4cb6ae8e]: Textual amendment: Words in [Sch. 4 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/d/ii)
+[^c-18263ed44571582897b1571e4cb6ae8e]: Textual amendment: Words in [Sch. 4 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/29/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/4/d/ii)
 
-[^key-4141a5c1bde4d5e0ddd4f9231c7456bc]: Commencement: Sch. 4 para. 30 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-4141a5c1bde4d5e0ddd4f9231c7456bc]: Commencement: Sch. 4 para. 30 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-965728e0b4f25f0a21705331234fa3bc]: Commencement: Sch. 4 para. 31 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-965728e0b4f25f0a21705331234fa3bc]: Commencement: Sch. 4 para. 31 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00059]: Footnote: Sub-paragraph (b) of paragraph 1 was partially repealed by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30. Sub-paragraph (d) of paragraph 1 was amended by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), Schedule 24, paragraph 32, and by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 78(4).
 
 [^f00060]: Footnote: See section 236 of the 2005 Act.
 
-[^key-5047a8fbefa99b48424e8b8633312ba9]: Textual amendment: [Sch. 4 para. 31(5A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/31/5A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/5/a)
+[^c-5047a8fbefa99b48424e8b8633312ba9]: Textual amendment: [Sch. 4 para. 31(5A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/31/5A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/5/a)
 
-[^key-39b24d9244c13a8c1eb72e34a868c258]: Textual amendment: Words in [Sch. 4 para. 31(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/31/6) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/5/b)
+[^c-39b24d9244c13a8c1eb72e34a868c258]: Textual amendment: Words in [Sch. 4 para. 31(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/31/6) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(5)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/5/b)
 
-[^key-caf2e4fe0c8ec10bf18f838077bf93a9]: Commencement: Sch. 4 para. 32 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-caf2e4fe0c8ec10bf18f838077bf93a9]: Commencement: Sch. 4 para. 32 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00061]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-ae44baf62cc268187dce3cec47637357]: Commencement: Sch. 4 para. 33 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-ae44baf62cc268187dce3cec47637357]: Commencement: Sch. 4 para. 33 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-0467b8b1e34c8ee6f96bf2e3e2b11484]: Textual amendment: Words in [Sch. 4 para. 33(8)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/33/8) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/6)
+[^c-0467b8b1e34c8ee6f96bf2e3e2b11484]: Textual amendment: Words in [Sch. 4 para. 33(8)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/33/8) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/8/6)
 
-[^key-d53f55dad078e2bc742e20b0f3dbf888]: Commencement: Sch. 4 para. 34 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d53f55dad078e2bc742e20b0f3dbf888]: Commencement: Sch. 4 para. 34 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-18ffd75fea6b702fdda652b6d12f7483]: Commencement: Sch. 4 para. 35 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-18ffd75fea6b702fdda652b6d12f7483]: Commencement: Sch. 4 para. 35 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-e2c470152639032f2590c703587dd6f2]: Commencement: Sch. 4 para. 36 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-e2c470152639032f2590c703587dd6f2]: Commencement: Sch. 4 para. 36 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-78e8d842077c7ab6170c5e5eb6bc5a52]: Textual amendment: Words in [Sch. 4 para. 36(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/36/2) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [9](https://www.legislation.gov.uk/uksi/2007/1157/article/9)
+[^c-78e8d842077c7ab6170c5e5eb6bc5a52]: Textual amendment: Words in [Sch. 4 para. 36(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/36/2) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [9](https://www.legislation.gov.uk/uksi/2007/1157/article/9)
 
-[^key-5e557f8b435d489f7885dad0e64178c0]: Commencement: Sch. 4 para. 37 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5e557f8b435d489f7885dad0e64178c0]: Commencement: Sch. 4 para. 37 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-51e68cc1b279490f5e4accbb6e96a5ff]: Textual amendment: Words in [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/37/2) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/9/2)
+[^c-51e68cc1b279490f5e4accbb6e96a5ff]: Textual amendment: Words in [Sch. 4 para. 37(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/37/2) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/9/2)
 
-[^key-3c02ee0281c7c6fabac7209ab62f57c1]: Commencement: Sch. 4 para. 38 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3c02ee0281c7c6fabac7209ab62f57c1]: Commencement: Sch. 4 para. 38 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-92288bafc951587254185e4d9513f854]: Textual amendment: Words in [Sch. 4 para. 38(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/38/2) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/9/2)
+[^c-92288bafc951587254185e4d9513f854]: Textual amendment: Words in [Sch. 4 para. 38(2)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/38/2) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/9/2)
 
-[^key-0dff812aeef832449db508bf136a1da1]: Commencement: Sch. 4 para. 39 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-0dff812aeef832449db508bf136a1da1]: Commencement: Sch. 4 para. 39 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00062]: Footnote: Paragraph 4 of Schedule 2 to the 1968 Act was amended by the Gaming (Amendment) Act [1982 (c. 22)](https://www.legislation.gov.uk/ukpga/1982/22), section 1 and paragraph 2 of Schedule 1, and by the Gaming Amendment Act [1990 (c. 26)](https://www.legislation.gov.uk/ukpga/1990/26), section 1 and paragraph 7 of the Schedule to that Act.
 
@@ -2594,9 +2594,9 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00064]: Footnote: [1985 c.35](https://www.legislation.gov.uk/ukpga/1985/35).
 
-[^key-356cdcf1169c5c6fc609d735fb03f9ac]: Textual amendment: Words in [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/39/7) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/10/2)
+[^c-356cdcf1169c5c6fc609d735fb03f9ac]: Textual amendment: Words in [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/39/7) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/10/2)
 
-[^key-1d3643d3fca26880aed1ea40b846a722]: Textual amendment: [Sch. 4 para. 39(7A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/39/7A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/1157/article/10/3)
+[^c-1d3643d3fca26880aed1ea40b846a722]: Textual amendment: [Sch. 4 para. 39(7A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/39/7A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/1157/article/10/3)
 
 [^f00065]: Footnote: Schedule 5ZA was inserted by [S.I. 1995/3231](https://www.legislation.gov.uk/uksi/1995/3231).
 
@@ -2608,45 +2608,45 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00069]: Footnote: Schedule 2A was inserted by the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39), section 50(2) and Schedule 9.
 
-[^key-15447cf59113555e903b73a60441093c]: Commencement: Sch. 4 para. 40 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-15447cf59113555e903b73a60441093c]: Commencement: Sch. 4 para. 40 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-fbc2ebcadbb76a529a016993dc3bf930]: Commencement: Sch. 4 para. 41 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-fbc2ebcadbb76a529a016993dc3bf930]: Commencement: Sch. 4 para. 41 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-3db2219833820cc97bbe76e404aebc6e]: Commencement: Sch. 4 para. 42 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3db2219833820cc97bbe76e404aebc6e]: Commencement: Sch. 4 para. 42 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-116ea7aa36d27ee9a6d0104bcc4f4f87]: Commencement: Sch. 4 para. 43 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-116ea7aa36d27ee9a6d0104bcc4f4f87]: Commencement: Sch. 4 para. 43 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-8a6da2ff0fb299d1ee9aed9287b2f91b]: Commencement: Sch. 4 para. 44 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-8a6da2ff0fb299d1ee9aed9287b2f91b]: Commencement: Sch. 4 para. 44 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-edcdf2e7dd4f66ed56d6a90a6648e35c]: Commencement: Sch. 4 para. 45 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-edcdf2e7dd4f66ed56d6a90a6648e35c]: Commencement: Sch. 4 para. 45 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-38db3db557639346167569119f0f9532]: Textual amendment: Words in [Sch. 4 para. 45(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/4) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/2)
+[^c-38db3db557639346167569119f0f9532]: Textual amendment: Words in [Sch. 4 para. 45(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/4) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/2)
 
-[^key-85e173f2e8480a56a5b630f328efb4f9]: Textual amendment: Word in [Sch. 4 para. 45(6)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/6/b) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/3)
+[^c-85e173f2e8480a56a5b630f328efb4f9]: Textual amendment: Word in [Sch. 4 para. 45(6)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/6/b) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/3)
 
-[^key-74944e8ad952e84f30b24176d8b6705b]: Textual amendment: [Sch. 4 para. 45(6A)-(6D)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/6A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/4)
+[^c-74944e8ad952e84f30b24176d8b6705b]: Textual amendment: [Sch. 4 para. 45(6A)-(6D)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/6A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/4)
 
-[^key-877d730ccf818ec5b50ec04726777131]: Textual amendment: Word in [Sch. 4 para. 45(8)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/8/a) omitted (16.8.2007) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/5/a)
+[^c-877d730ccf818ec5b50ec04726777131]: Textual amendment: Word in [Sch. 4 para. 45(8)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/8/a) omitted (16.8.2007) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/5/a)
 
-[^key-8c03c18e47f9b366e8258d0834298bf9]: Textual amendment: [Sch. 4 para. 45(8)(aa)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/8/aa) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/5/b)
+[^c-8c03c18e47f9b366e8258d0834298bf9]: Textual amendment: [Sch. 4 para. 45(8)(aa)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/45/8/aa) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2007/2169/article/10/5/b)
 
-[^key-009272d88eadb75b79c41f3c0b937b0a]: Commencement: Sch. 4 para. 46 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-009272d88eadb75b79c41f3c0b937b0a]: Commencement: Sch. 4 para. 46 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-dbbc470b394d685f7b35a94cd85f1a7e]: Commencement: Sch. 4 para. 47 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-dbbc470b394d685f7b35a94cd85f1a7e]: Commencement: Sch. 4 para. 47 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-39b1e93a8503db8b1a5f238748d656d0]: Commencement: Sch. 4 para. 48 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-39b1e93a8503db8b1a5f238748d656d0]: Commencement: Sch. 4 para. 48 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-29346eeabfac35ce667bb33985754080]: Commencement: Sch. 4 para. 49 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-29346eeabfac35ce667bb33985754080]: Commencement: Sch. 4 para. 49 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-9730049636812288bf3df4810add3ef5]: Commencement: Sch. 4 para. 50 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-9730049636812288bf3df4810add3ef5]: Commencement: Sch. 4 para. 50 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-9008c616a2f005ef2f32585f9c2d1e04]: Commencement: Sch. 4 para. 51 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-9008c616a2f005ef2f32585f9c2d1e04]: Commencement: Sch. 4 para. 51 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-683b3252326cb8763803c9067fcc1717]: Commencement: Sch. 4 para. 52 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-683b3252326cb8763803c9067fcc1717]: Commencement: Sch. 4 para. 52 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-8c72e17ac48eccdc0c138b7aa3203fb5]: Commencement: Sch. 4 para. 53 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-8c72e17ac48eccdc0c138b7aa3203fb5]: Commencement: Sch. 4 para. 53 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-4269ce5c2d4efd2b3332efdd343f87cf]: Textual amendment: [Sch. 4 para. 53(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/3)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/5)[(8)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/8) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/2)
+[^c-4269ce5c2d4efd2b3332efdd343f87cf]: Textual amendment: [Sch. 4 para. 53(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/3)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/5)[(8)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/53/8) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/2)
 
 [^f00070]: Footnote: Section 13 was amended by the Horserace Totalisator and Betting Levy Boards Act [1972 (c. 69)](https://www.legislation.gov.uk/ukpga/1972/69), section 5(1). Amendments have also been made by the Horserace Betting and Olympic Lottery Act 2004, Schedule 4, paragraphs 1 and 2.
 
@@ -2654,179 +2654,179 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00072]: Footnote: Subsection (5E) was inserted by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359).
 
-[^key-2c19251e6af4f40d0f7677977d1be742]: Commencement: Sch. 4 para. 54 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-2c19251e6af4f40d0f7677977d1be742]: Commencement: Sch. 4 para. 54 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-fd786eaf62f11b192fe59b46d5fc60d0]: Textual amendment: [Sch. 4 para. 54(1)-(1E)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/1) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) [para. 54(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/1) (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/3/a)
+[^c-fd786eaf62f11b192fe59b46d5fc60d0]: Textual amendment: [Sch. 4 para. 54(1)-(1E)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/1) substituted for [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) [para. 54(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/1) (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/3/a)
 
-[^key-bd5cefaaee02b9f4b69eb746a6a7ab92]: Textual amendment: Words in [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/4) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/a)
+[^c-bd5cefaaee02b9f4b69eb746a6a7ab92]: Textual amendment: Words in [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/4) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/a)
 
-[^key-da319c410eb6390c7084987dc8595521]: Textual amendment: Words in [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/3/b)
+[^c-da319c410eb6390c7084987dc8595521]: Textual amendment: Words in [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/4) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/3/b)
 
-[^key-ae701368b376e830dd91c0e08158c7a1]: Textual amendment: [Sch. 4 para. 54(5A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/5A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/b)
+[^c-ae701368b376e830dd91c0e08158c7a1]: Textual amendment: [Sch. 4 para. 54(5A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/5A) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/b)
 
-[^key-6bc89d72fe68a2167c004d9f9d1d3d1c]: Textual amendment: [Sch. 4 para. 54(9)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/9) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/c)
+[^c-6bc89d72fe68a2167c004d9f9d1d3d1c]: Textual amendment: [Sch. 4 para. 54(9)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/54/9) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/2/c)
 
-[^key-77e360853fcd3c8271e46260a87337aa]: Commencement: Sch. 4 para. 55 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-77e360853fcd3c8271e46260a87337aa]: Commencement: Sch. 4 para. 55 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-c133d64660c0c4609979bdbefaca9822]: Textual amendment: Words in [Sch. 4 para. 55(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/55/4) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/3) (with [art. 11(4)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/4))
+[^c-c133d64660c0c4609979bdbefaca9822]: Textual amendment: Words in [Sch. 4 para. 55(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/55/4) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/3) (with [art. 11(4)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/4))
 
-[^key-3a103a3639be59e21329dfeabd03ea3e]: Commencement: Sch. 4 para. 56 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3a103a3639be59e21329dfeabd03ea3e]: Commencement: Sch. 4 para. 56 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-2123be2310a463d0ce219a325fe77f55]: Textual amendment: Words in [Sch. 4 para. 56(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/56/4) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/4)
+[^c-2123be2310a463d0ce219a325fe77f55]: Textual amendment: Words in [Sch. 4 para. 56(4)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/56/4) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/4)
 
-[^key-c6a60091604f7f31bca7de7247e0d9fe]: Commencement: Sch. 4 para. 57 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-c6a60091604f7f31bca7de7247e0d9fe]: Commencement: Sch. 4 para. 57 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-f9c49e6ff139e38acbdf4faf8c7b1890]: Textual amendment: Words in [Sch. 4 para. 57(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/57/6) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/5)
+[^c-f9c49e6ff139e38acbdf4faf8c7b1890]: Textual amendment: Words in [Sch. 4 para. 57(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/57/6) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/5)
 
-[^key-0e42fa9a0d8185d6d5c99bbd9c7ad476]: Textual amendment: [Sch. 4 para. 57A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/57A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/6)
+[^c-0e42fa9a0d8185d6d5c99bbd9c7ad476]: Textual amendment: [Sch. 4 para. 57A](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/57A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/6)
 
-[^key-95dceb3be2acaa732c86745be725e7ae]: Commencement: Sch. 4 para. 58 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-95dceb3be2acaa732c86745be725e7ae]: Commencement: Sch. 4 para. 58 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00073]: Footnote: Paragraph 35 of Schedule 2 was amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 13, paragraphs 57 and 58(1) and (9).
 
-[^key-776b0bc588e8ff4548268fa21609cdeb]: Commencement: Sch. 4 para. 59 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-776b0bc588e8ff4548268fa21609cdeb]: Commencement: Sch. 4 para. 59 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-939911b93072d0a07cf269db50f6464a]: Textual amendment: Words in [Sch. 4 para. 59(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/b)[(d)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/d)[(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/7)
+[^c-939911b93072d0a07cf269db50f6464a]: Textual amendment: Words in [Sch. 4 para. 59(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/b)[(d)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/d)[(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/7)
 
-[^key-b528bee5ee1f28595e577771951c35da]: Textual amendment: [Sch. 4 para. 59(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
+[^c-b528bee5ee1f28595e577771951c35da]: Textual amendment: [Sch. 4 para. 59(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/59/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
 
-[^key-fb1c86880eef11468e82161bdf43ab5c]: Textual amendment: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/60) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
+[^c-fb1c86880eef11468e82161bdf43ab5c]: Textual amendment: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/60) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
 
-[^key-229383384d74a3e25b3285bbde149e4c]: Commencement: Sch. 4 para. 61 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-229383384d74a3e25b3285bbde149e4c]: Commencement: Sch. 4 para. 61 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-3e70487d03885b8fff74c39343eadb6f]: Textual amendment: [Sch. 4 para. 61(5)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/61/5) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
+[^c-3e70487d03885b8fff74c39343eadb6f]: Textual amendment: [Sch. 4 para. 61(5)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/61/5) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/8)
 
-[^key-7b4e6db62b795966416890a6c392181a]: Commencement: Sch. 4 para. 62 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-7b4e6db62b795966416890a6c392181a]: Commencement: Sch. 4 para. 62 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-99afc6b43a49ed7faa4c7278dc3be304]: Textual amendment: Words in [Sch. 4 para. 62(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/i)
+[^c-99afc6b43a49ed7faa4c7278dc3be304]: Textual amendment: Words in [Sch. 4 para. 62(1)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(i)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/i)
 
-[^key-e9e71ee7c97183b4345e71f5ec2fa4c5]: Textual amendment: Words in [Sch. 4 para. 62(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/ii/aa)
+[^c-e9e71ee7c97183b4345e71f5ec2fa4c5]: Textual amendment: Words in [Sch. 4 para. 62(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1/b) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/ii/aa)
 
-[^key-98697d283f390fedcbe4c1b7c0e43497]: Textual amendment: Words in [Sch. 4 para. 62(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/ii/bb)
+[^c-98697d283f390fedcbe4c1b7c0e43497]: Textual amendment: Words in [Sch. 4 para. 62(1)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/1/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/a/ii/bb)
 
-[^key-8d308b69910ff246539818e7078d6cbd]: Textual amendment: [Sch. 4 para. 62(2A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/2A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/b)
+[^c-8d308b69910ff246539818e7078d6cbd]: Textual amendment: [Sch. 4 para. 62(2A)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/2A) inserted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [11(9)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/11/9/b)
 
-[^key-35b0ff6ea1293d037ba4032c2facf034]: Textual amendment: Words in [Sch. 4 para. 62(8)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/8/b) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/5)
+[^c-35b0ff6ea1293d037ba4032c2facf034]: Textual amendment: Words in [Sch. 4 para. 62(8)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/62/8/b) substituted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2007/2169/article/11/5)
 
-[^key-ae74b32f7db5f1fa9ad134bae349803c]: Commencement: Sch. 4 para. 63 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-ae74b32f7db5f1fa9ad134bae349803c]: Commencement: Sch. 4 para. 63 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-5105dbac55d61160834f848335ca9d07]: Commencement: Sch. 4 para. 64 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5105dbac55d61160834f848335ca9d07]: Commencement: Sch. 4 para. 64 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-372a3e68728de6a047d475ad290acfb8]: Commencement: Sch. 4 para. 65 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-372a3e68728de6a047d475ad290acfb8]: Commencement: Sch. 4 para. 65 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-53e52ccfe4cf3b23ea89f8089b75dace]: Textual amendment: Words in [Sch. 4 para. 65(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6) substituted (1.5.2026) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2026 (S.I. 2026/334)](https://www.legislation.gov.uk/uksi/2026/334), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2026/334/article/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/334/article/2/2/a)
+[^c-53e52ccfe4cf3b23ea89f8089b75dace]: Textual amendment: Words in [Sch. 4 para. 65(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6) substituted (1.5.2026) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2026 (S.I. 2026/334)](https://www.legislation.gov.uk/uksi/2026/334), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2026/334/article/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/334/article/2/2/a)
 
-[^key-e8b9e86778655cf3d6a6c2ee5898cf54]: Textual amendment: [Sch. 4 para. 65(6)(za)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6/za) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/734/article/2/2/b)
+[^c-e8b9e86778655cf3d6a6c2ee5898cf54]: Textual amendment: [Sch. 4 para. 65(6)(za)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6/za) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/734/article/2/2/b)
 
 [^f00074]: Footnote: See section 236 of the 2005 Act.
 
-[^key-52a78697bdbb69bb6cbf2116fa95cae9]: Textual amendment: Word in [Sch. 4 para. 65(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6) omitted (22.7.2025) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/734/article/2/2/c)
+[^c-52a78697bdbb69bb6cbf2116fa95cae9]: Textual amendment: Word in [Sch. 4 para. 65(6)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6) omitted (22.7.2025) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/734/article/2/2/c)
 
-[^key-4f6714558ee7d5789cbc8c1eebd599e3]: Textual amendment: Word in [Sch. 4 para. 65(6)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6/a) inserted (1.5.2026) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2026 (S.I. 2026/334)](https://www.legislation.gov.uk/uksi/2026/334), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2026/334/article/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/334/article/2/2/b)
+[^c-4f6714558ee7d5789cbc8c1eebd599e3]: Textual amendment: Word in [Sch. 4 para. 65(6)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6/a) inserted (1.5.2026) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2026 (S.I. 2026/334)](https://www.legislation.gov.uk/uksi/2026/334), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2026/334/article/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/334/article/2/2/b)
 
-[^key-5bb3ef39b333e75136f149fce830a49c]: Textual amendment: [Sch. 4 para. 65(6A)-(6G)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6A) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2025/734/article/2/3)
+[^c-5bb3ef39b333e75136f149fce830a49c]: Textual amendment: [Sch. 4 para. 65(6A)-(6G)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/6A) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2025/734/article/2/3)
 
-[^key-b1e63b138415593433c5a74a40955e8d]: Textual amendment: Words in [Sch. 4 para. 65(9)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/9) substituted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2025/734/article/2/4)
+[^c-b1e63b138415593433c5a74a40955e8d]: Textual amendment: Words in [Sch. 4 para. 65(9)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/9) substituted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2025/734/article/2/4)
 
-[^key-c4fbd36004eadbd0d3656da6c9421ebc]: Textual amendment: [Sch. 4 para. 65(14)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/14) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2025/734/article/2/5)
+[^c-c4fbd36004eadbd0d3656da6c9421ebc]: Textual amendment: [Sch. 4 para. 65(14)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/65/14) inserted (22.7.2025) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2025 (S.I. 2025/734)](https://www.legislation.gov.uk/uksi/2025/734), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/734/article/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2025/734/article/2/5)
 
-[^key-718a209d70a2278800a44704fe099633]: Commencement: Sch. 4 para. 66 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-718a209d70a2278800a44704fe099633]: Commencement: Sch. 4 para. 66 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-2f8b2bb40808f0915b37b6ed105ffd03]: Commencement: Sch. 4 para. 67 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-2f8b2bb40808f0915b37b6ed105ffd03]: Commencement: Sch. 4 para. 67 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00075]: Footnote: Schedule 1A was inserted by the National Lottery etc. Act 1993, section 48(5) and Part 2 of Schedule 7.
 
-[^key-0b865f30af71557051cd3cc745dffe79]: Commencement: Sch. 4 para. 68 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-0b865f30af71557051cd3cc745dffe79]: Commencement: Sch. 4 para. 68 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-2e2b3bc33b46d814bf42ae96b7b646b9]: Commencement: Sch. 4 para. 69 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-2e2b3bc33b46d814bf42ae96b7b646b9]: Commencement: Sch. 4 para. 69 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00076]: Footnote: Schedule 2 to the 1976 Act was amended by the National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39), paragraphs 1 to 10 of Schedule 8.
 
-[^key-4752e4241f612006d4f2597069f7d772]: Commencement: Sch. 4 para. 70 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-4752e4241f612006d4f2597069f7d772]: Commencement: Sch. 4 para. 70 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-031ae4191c251cdeb7f2e3daf9a86e41]: Commencement: Sch. 4 para. 71 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-031ae4191c251cdeb7f2e3daf9a86e41]: Commencement: Sch. 4 para. 71 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-7cfc13aea0f898e417850517120221ec]: Commencement: Sch. 4 para. 72 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-7cfc13aea0f898e417850517120221ec]: Commencement: Sch. 4 para. 72 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-9c6c91900cee2e13e5eda7ac0718f272]: Commencement: Sch. 4 para. 73 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-9c6c91900cee2e13e5eda7ac0718f272]: Commencement: Sch. 4 para. 73 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-9fbac170fd941ba1db0e89ae2447aaf9]: Commencement: Sch. 4 para. 74 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-9fbac170fd941ba1db0e89ae2447aaf9]: Commencement: Sch. 4 para. 74 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00077]: Footnote: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 
-[^key-5b67a466e373bcb1ab11a868efecf63e]: Commencement: Sch. 4 para. 75 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5b67a466e373bcb1ab11a868efecf63e]: Commencement: Sch. 4 para. 75 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-37837ff7cf62b6a562c055321a18163c]: Commencement: Sch. 4 para. 76 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-37837ff7cf62b6a562c055321a18163c]: Commencement: Sch. 4 para. 76 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-837eccacbbf7da3234a11f183c0f8476]: Commencement: Sch. 4 para. 77 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-837eccacbbf7da3234a11f183c0f8476]: Commencement: Sch. 4 para. 77 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-67460c3007713a1d5c5cde1ab971df26]: Commencement: Sch. 4 para. 78 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-67460c3007713a1d5c5cde1ab971df26]: Commencement: Sch. 4 para. 78 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00078]: Footnote: See sections 266 and 268 of the 2005 Act for the definitions of “members’ club” and “miners’ welfare institute”.
 
-[^key-3cb9ac77d63dafc9904c1f6ebdc2ba9b]: Commencement: Sch. 4 para. 79 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3cb9ac77d63dafc9904c1f6ebdc2ba9b]: Commencement: Sch. 4 para. 79 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-eb9b77366f583d51afdf418d54c31aed]: Commencement: Sch. 4 para. 80 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-eb9b77366f583d51afdf418d54c31aed]: Commencement: Sch. 4 para. 80 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-0788bb8c7fadcaa3021313296ff49130]: Textual amendment: Words in [Sch. 4 para. 80(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/80/1/c) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/a)
+[^c-0788bb8c7fadcaa3021313296ff49130]: Textual amendment: Words in [Sch. 4 para. 80(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/80/1/c) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/a)
 
-[^key-48262a46d39da823eea6f3899ea4ce82]: Commencement: Sch. 4 para. 81 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-48262a46d39da823eea6f3899ea4ce82]: Commencement: Sch. 4 para. 81 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-062405d94fe266809ad53c2fcf875680]: Commencement: Sch. 4 para. 82 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-062405d94fe266809ad53c2fcf875680]: Commencement: Sch. 4 para. 82 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00079]: Footnote: Paragraph 19 of Schedule 3 was amended by the Gaming (Amendment) Act [1982 (c. 22)](https://www.legislation.gov.uk/ukpga/1982/22), section 1 and Schedule 1, paragraph 12 and paragraph 17 of Schedule 2 was amended by the Gaming (Amendment) Act 1982, section 1 and Schedule 1, paragraph 14.
 
-[^key-8e069f21f1027018dc69ee7a29137dbc]: Textual amendment: Words in [Sch. 4 para. 82(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/82/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/3/a)
+[^c-8e069f21f1027018dc69ee7a29137dbc]: Textual amendment: Words in [Sch. 4 para. 82(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/82/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/3/a)
 
-[^key-ea1d478adfaaa5bbd104c59365405b85]: Textual amendment: Words in [Sch. 4 para. 82(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/82/1/e) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/3/b)
+[^c-ea1d478adfaaa5bbd104c59365405b85]: Textual amendment: Words in [Sch. 4 para. 82(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/82/1/e) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/3/b)
 
-[^key-9e87b6ff85fa9eb15bffb88c14c5d7d5]: Commencement: Sch. 4 para. 83 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-9e87b6ff85fa9eb15bffb88c14c5d7d5]: Commencement: Sch. 4 para. 83 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-289093ca2ef48ef4701422c3054dcbf4]: Commencement: Sch. 4 para. 84 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-289093ca2ef48ef4701422c3054dcbf4]: Commencement: Sch. 4 para. 84 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-8a519a36c0e033b32302d6fe3b41c826]: Textual amendment: Words in [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/84/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/b)
+[^c-8a519a36c0e033b32302d6fe3b41c826]: Textual amendment: Words in [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/84/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/b)
 
-[^key-5ea2bf9c1258b4317e1dcd9ad3f52521]: Commencement: Sch. 4 para. 85 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-5ea2bf9c1258b4317e1dcd9ad3f52521]: Commencement: Sch. 4 para. 85 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-9b4e801e6283ffe3ea8df766b3dc6e39]: Textual amendment: Words in [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/85/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/5/a)
+[^c-9b4e801e6283ffe3ea8df766b3dc6e39]: Textual amendment: Words in [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/85/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/5/a)
 
-[^key-66064bd4e0b199ad7abdaadc6b686002]: Textual amendment: Words in [Sch. 4 para. 85(4)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/85/4/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/4/a)
+[^c-66064bd4e0b199ad7abdaadc6b686002]: Textual amendment: Words in [Sch. 4 para. 85(4)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/85/4/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/4/a)
 
-[^key-dba77232fb58510e094d02eae182c098]: Commencement: Sch. 4 para. 86 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-dba77232fb58510e094d02eae182c098]: Commencement: Sch. 4 para. 86 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-29d96073c9880f23a38e5c0f09c530e9]: Textual amendment: Word in [Sch. 4 para. 86(1)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/86/1/a) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/6)
+[^c-29d96073c9880f23a38e5c0f09c530e9]: Textual amendment: Word in [Sch. 4 para. 86(1)(a)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/86/1/a) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/6)
 
-[^key-86e14ef0888753af5abb4016d5a0fd0a]: Commencement: Sch. 4 para. 87 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-86e14ef0888753af5abb4016d5a0fd0a]: Commencement: Sch. 4 para. 87 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-27884720018a7058c7857b61d9f32d95]: Commencement: Sch. 4 para. 88 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-27884720018a7058c7857b61d9f32d95]: Commencement: Sch. 4 para. 88 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-dc028f144f0e69963fb6165daef0b9e2]: Textual amendment: Words in [Sch. 4 para. 88(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/88/1/c) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/c)
+[^c-dc028f144f0e69963fb6165daef0b9e2]: Textual amendment: Words in [Sch. 4 para. 88(1)(c)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/88/1/c) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(2)(c)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/2/c)
 
-[^key-e5a043b876154ddbb909a6873d68710a]: Commencement: Sch. 4 para. 89 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-e5a043b876154ddbb909a6873d68710a]: Commencement: Sch. 4 para. 89 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-ab026a90c485ba19b131503356041f40]: Textual amendment: Words in [Sch. 4 para. 89](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/89) heading substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/7)
+[^c-ab026a90c485ba19b131503356041f40]: Textual amendment: Words in [Sch. 4 para. 89](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/89) heading substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/7)
 
-[^key-d105576c56df2b3a256306c7a2c20ef6]: Commencement: Sch. 4 para. 90 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d105576c56df2b3a256306c7a2c20ef6]: Commencement: Sch. 4 para. 90 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-6c62cefeb84b54bbf4ddcc387941c352]: Textual amendment: Words in [Sch. 4 para. 90](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90) heading substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/7)
+[^c-6c62cefeb84b54bbf4ddcc387941c352]: Textual amendment: Words in [Sch. 4 para. 90](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90) heading substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/7)
 
-[^key-77f22d8aaeb83364c426147939a6ae7f]: Textual amendment: Words in [Sch. 4 para. 90(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/8/a)
+[^c-77f22d8aaeb83364c426147939a6ae7f]: Textual amendment: Words in [Sch. 4 para. 90(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90/1/e) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/8/a)
 
-[^key-92d7a44686d884583e3dc9ff46d8ef83]: Textual amendment: Words in [Sch. 4 para. 90(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90/1/e) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/8/b)
+[^c-92d7a44686d884583e3dc9ff46d8ef83]: Textual amendment: Words in [Sch. 4 para. 90(1)(e)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/90/1/e) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/8/b)
 
-[^key-fe763741474f183fad24419f8c5a22f4]: Commencement: Sch. 4 para. 91 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-fe763741474f183fad24419f8c5a22f4]: Commencement: Sch. 4 para. 91 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-00002f12048e6c690eb0d37ea5c3317a]: Commencement: Sch. 4 para. 92 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-00002f12048e6c690eb0d37ea5c3317a]: Commencement: Sch. 4 para. 92 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-501e0cdaf2d964969876a721ee72cfd3]: Textual amendment: Words in [Sch. 4 para. 92(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/92/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(9)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/9)
+[^c-501e0cdaf2d964969876a721ee72cfd3]: Textual amendment: Words in [Sch. 4 para. 92(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/92/3) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(9)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/9)
 
-[^key-aab289656c4475503cfee2bd5a66e4df]: Commencement: Sch. 4 para. 93 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-aab289656c4475503cfee2bd5a66e4df]: Commencement: Sch. 4 para. 93 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-8c596561c3bcb9f56aa055f6d38cdb51]: Textual amendment: Words in [Sch. 4 para. 93(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/93/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/5/b)
+[^c-8c596561c3bcb9f56aa055f6d38cdb51]: Textual amendment: Words in [Sch. 4 para. 93(3)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/93/3) substituted (29.4.2007) by [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/5/b)
 
-[^key-d54e7f8d1cfbfc6318f844dbd71498c6]: Textual amendment: Words in [Sch. 4 para. 93(4)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/93/4/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/4/b)
+[^c-d54e7f8d1cfbfc6318f844dbd71498c6]: Textual amendment: Words in [Sch. 4 para. 93(4)(b)](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4/paragraph/93/4/b) omitted (29.4.2007) by virtue of [The Gambling Act 2005 (Commencement and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1157)](https://www.legislation.gov.uk/uksi/2007/1157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1157/article/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2007/1157/article/12/4/b)
 
-[^key-a7d343bd56f1ac1f8364220a27492556]: Commencement: Sch. 4 para. 94 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-a7d343bd56f1ac1f8364220a27492556]: Commencement: Sch. 4 para. 94 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00080]: Footnote: Section 34 was amended by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359) and [S.I. 2003/3275](https://www.legislation.gov.uk/uksi/2003/3275).
 
@@ -2834,28 +2834,28 @@ that sub-paragraph is to have effect as if it provided for the application to be
 
 [^f00082]: Footnote: Subsection (1) was amended by [S.I. 1996/1359](https://www.legislation.gov.uk/uksi/1996/1359).
 
-[^key-0a378d1bdf767b38883915c5bc5672d6]: Commencement: Sch. 4 para. 95 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-0a378d1bdf767b38883915c5bc5672d6]: Commencement: Sch. 4 para. 95 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-28b671e7caf8d460d0f6a744473efa3c]: Commencement: Sch. 4 para. 96 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-28b671e7caf8d460d0f6a744473efa3c]: Commencement: Sch. 4 para. 96 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-7e444900a7d24a38896ec7bb7ead9e80]: Commencement: Sch. 4 para. 97 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-7e444900a7d24a38896ec7bb7ead9e80]: Commencement: Sch. 4 para. 97 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-16e15a4be674e9b452c55fdafb0372b9]: Commencement: Sch. 4 para. 98 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-16e15a4be674e9b452c55fdafb0372b9]: Commencement: Sch. 4 para. 98 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-900018f098504e82e92d706ecb270092]: Commencement: Sch. 4 para. 99 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-900018f098504e82e92d706ecb270092]: Commencement: Sch. 4 para. 99 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-2f0d0f374ac888dd3eae3135ec936f8d]: Commencement: Sch. 4 para. 100 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-2f0d0f374ac888dd3eae3135ec936f8d]: Commencement: Sch. 4 para. 100 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-3b63bba67ac1477378fd59d8a6122d2c]: Commencement: Sch. 4 para. 101 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-3b63bba67ac1477378fd59d8a6122d2c]: Commencement: Sch. 4 para. 101 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-d016664d57ec94c7360e0d01e5dc3564]: Commencement: Sch. 4 para. 102 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d016664d57ec94c7360e0d01e5dc3564]: Commencement: Sch. 4 para. 102 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-b0af059d8afcfee7e9841708ad36d0e4]: Commencement: Sch. 4 para. 103 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-b0af059d8afcfee7e9841708ad36d0e4]: Commencement: Sch. 4 para. 103 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-ddb904780466aa290bddb93eff993590]: Commencement: Sch. 4 para. 104 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-ddb904780466aa290bddb93eff993590]: Commencement: Sch. 4 para. 104 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-d881575ef619470ec4a900321cf0e224]: Commencement: Sch. 4 para. 105 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-d881575ef619470ec4a900321cf0e224]: Commencement: Sch. 4 para. 105 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-35fde944fbe20012c5b179cec424bb2f]: Commencement: Sch. 4 para. 106 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-35fde944fbe20012c5b179cec424bb2f]: Commencement: Sch. 4 para. 106 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-6c421ad20edcfe56969d236ed989c283]: Commencement: Sch. 4 para. 107 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-6c421ad20edcfe56969d236ed989c283]: Commencement: Sch. 4 para. 107 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)

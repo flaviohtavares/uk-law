@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Repeals and connected amendments[^key-931ce186ea6a158c488b9875162ab474]
+## 4. Repeals and connected amendments[^c-931ce186ea6a158c488b9875162ab474]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 1 contains—
 
 ## Annotations
 
-[^key-931ce186ea6a158c488b9875162ab474]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/3/section/4) in force at 10.9.2025, see [s. 9(2)(b)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/b)
+[^c-931ce186ea6a158c488b9875162ab474]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/3/section/4) in force at 10.9.2025, see [s. 9(2)(b)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/b)

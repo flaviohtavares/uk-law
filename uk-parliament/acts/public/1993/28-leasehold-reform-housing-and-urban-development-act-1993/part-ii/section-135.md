@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Programmes for disposals.[^key-ac47e4fe9a498f9b89a030d55ad9d7f2]
+## 135. Programmes for disposals.[^c-ac47e4fe9a498f9b89a030d55ad9d7f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac47e4fe9a498f9b89a030d55ad9d7f2]: Textual amendment: [S. 135](https://www.legislation.gov.uk/ukpga/1993/28/section/135) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-ac47e4fe9a498f9b89a030d55ad9d7f2]: Textual amendment: [S. 135](https://www.legislation.gov.uk/ukpga/1993/28/section/135) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

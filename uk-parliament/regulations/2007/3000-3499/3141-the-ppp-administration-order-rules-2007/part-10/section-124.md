@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Expressions used generally[^key-0a6a9f8952fa39a7624e4a60048cabfd]
+## 124. Expressions used generally[^c-0a6a9f8952fa39a7624e4a60048cabfd]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a6a9f8952fa39a7624e4a60048cabfd]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2007/3141/rule/124) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-0a6a9f8952fa39a7624e4a60048cabfd]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2007/3141/rule/124) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00019]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

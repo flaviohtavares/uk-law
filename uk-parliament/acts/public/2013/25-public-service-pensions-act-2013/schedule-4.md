@@ -22,13 +22,13 @@ summary: ''
 
 Section 17(1)
 
-**1.**[^key-03fb9f45dc61102202bd58bb2e2e70c7] The Pensions Act 2004 is amended as follows.
+**1.**[^c-03fb9f45dc61102202bd58bb2e2e70c7] The Pensions Act 2004 is amended as follows.
 
-**2.**[^key-af07c71d4c18e3099ce0acca152a8fc1] In section 11 (annual reports), in subsection (3), at the end there is inserted—
+**2.**[^c-af07c71d4c18e3099ce0acca152a8fc1] In section 11 (annual reports), in subsection (3), at the end there is inserted—
 
 > - (d) the exercise of the Regulator's functions in relation to public service pension schemes.
 
-**3.**[^key-ad48107af239ff3d1288797eac162d4c] (1) Section 13 (improvement notices) is amended as follows.
+**3.**[^c-ad48107af239ff3d1288797eac162d4c] (1) Section 13 (improvement notices) is amended as follows.
 
 (2) In subsection (3)(a), after “90” there is inserted “ or 90A ”.
 
@@ -41,7 +41,7 @@ Section 17(1)
   >
   > - (e) section 5(4) (pension board: conflicts of interest and representation), 6 (pension board: information), 14 (information about benefits) or 16 (records) of the Public Service Pensions Act 2013.
 
-**4.**[^key-8456fc0c9fc8ed72335cff1bae46516c] After section 14 there is inserted—
+**4.**[^c-8456fc0c9fc8ed72335cff1bae46516c] After section 14 there is inserted—
 
 > **14A. Appointment of skilled person to assist public service pension scheme**
 >
@@ -55,7 +55,7 @@ Section 17(1)
 >
 > (5) In subsection (1) “**pensions legislation**” has the same meaning as in section 13.
 
-**5.**[^key-6d84282975501e8699f607e713091f15] (1) In section 17 (power of the Regulator to recover unpaid contributions), subsection (3) is amended as follows.
+**5.**[^c-6d84282975501e8699f607e713091f15] (1) In section 17 (power of the Regulator to recover unpaid contributions), subsection (3) is amended as follows.
 
 (2) In the definition of “due date”—
 
@@ -79,7 +79,7 @@ Section 17(1)
   >
   > - (c) in relation to a public service pension scheme, means any contributions payable under the scheme by the employer.
 
-**6.**[^key-19cdaab4926466abd1e3287c86835757] In section 70 (duty to report breaches of the law), in subsection (1)—
+**6.**[^c-19cdaab4926466abd1e3287c86835757] In section 70 (duty to report breaches of the law), in subsection (1)—
 
 - (a) after paragraph (a) there is inserted—
 
@@ -88,7 +88,7 @@ Section 17(1)
   ;
 - (b) in paragraph (b), for “such a scheme” there is substituted “ an occupational or personal pension scheme ”.
 
-**7.**[^key-75e52e5b02f91b5bda25b1a9bfb224c3] After section 70 there is inserted—
+**7.**[^c-75e52e5b02f91b5bda25b1a9bfb224c3] After section 70 there is inserted—
 
 > **Reporting late payment of employer contributions**
 >
@@ -107,7 +107,7 @@ Section 17(1)
 >
 > (3) Section 10 of the Pensions Act 1995 (civil penalties) applies to any person who, without reasonable excuse, fails to comply with an obligation imposed on him by this section.
 
-**8.**[^key-d016524737af0f9a54e4118b1b26c2c4] (1) Section 71 (reports by skilled persons) is amended as follows.
+**8.**[^c-d016524737af0f9a54e4118b1b26c2c4] (1) Section 71 (reports by skilled persons) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -119,13 +119,13 @@ Section 17(1)
   ;
 - (c) in paragraph (c), for “such a scheme” there is substituted “ a work-based pension scheme ”.
 
-**9.**[^key-31f961c1242191e611494273777532b2] In section 72 (provision of information), in subsection (2), after paragraph (a) there is inserted—
+**9.**[^c-31f961c1242191e611494273777532b2] In section 72 (provision of information), in subsection (2), after paragraph (a) there is inserted—
 
 > - (aa) a member of the pension board of a public service pension scheme,
 
 .
 
-**10.**[^key-879f335fa7a84f5db3d61e73815082f8] In section 73 (inspection of premises), in subsection (2)—
+**10.**[^c-879f335fa7a84f5db3d61e73815082f8] In section 73 (inspection of premises), in subsection (2)—
 
 - (a) after paragraph (d) there is inserted—
 
@@ -134,11 +134,11 @@ Section 17(1)
   ;
 - (b) in paragraph (e), for “(d)” there is substituted “ (da) ”.
 
-**11.**[^key-ee19f48e350211163e8302a31a61618a] In section 89 (reports), at the end there is inserted—
+**11.**[^c-ee19f48e350211163e8302a31a61618a] In section 89 (reports), at the end there is inserted—
 
 > (4) Before making a report under this section which relates to a public service pension scheme, the Regulator must notify the scheme manager.
 
-**12.**[^key-f9b857d1d2fcf22a6a836e1cfea77455] After section 89 there is inserted—
+**12.**[^c-f9b857d1d2fcf22a6a836e1cfea77455] After section 89 there is inserted—
 
 > **89A. Reports about misappropriation etc in public service pension schemes**
 >
@@ -153,7 +153,7 @@ Section 17(1)
 >
 > (3) For the purposes of subsection (1)(b) a person does not have a conflict of interest in relation to investment of assets merely by virtue of membership of the scheme.
 
-**13.**[^key-8c478ef18a904313ee4ce350d88850dc] (1) Section 90 (codes of practice) is amended as follows.
+**13.**[^c-8c478ef18a904313ee4ce350d88850dc] (1) Section 90 (codes of practice) is amended as follows.
 
 (2) In subsection (4), after “code of practice” (where first occurring) there is inserted “ issued under this section ”.
 
@@ -163,7 +163,7 @@ Section 17(1)
 
 > (8) The Regulator may not issue codes of practice under this section in relation to a public service pension scheme (but see section 90A).
 
-**14.**[^key-c9017422cc44efca84102e7fea38fd61] After section 90 there is inserted—
+**14.**[^c-c9017422cc44efca84102e7fea38fd61] After section 90 there is inserted—
 
 > **90A. Codes of practice: public service pension schemes**
 >
@@ -208,23 +208,23 @@ Section 17(1)
 >
 > (9) Sections 91 and 92 make provision about the procedure to be followed when a code of practice is issued or revoked under this section.
 
-**15.**[^key-5cbb530dfc17e2375cc8400ba1d7d5e5] (1) Section 91 (procedure for codes) is amended as follows.
+**15.**[^c-5cbb530dfc17e2375cc8400ba1d7d5e5] (1) Section 91 (procedure for codes) is amended as follows.
 
 (2) In subsection (1), after “code of practice” there is inserted “ under section 90 or 90A ”.
 
 (3) In subsections (4)(a) and (10), after “90” there is inserted “ or 90A ”.
 
-**16.**[^key-7bfde43241e1d1e1bea8f0ea1877ce7a] In section 92 (revocation of codes), in subsection (1), after “code of practice” there is inserted “ under section 90 or 90A ”.
+**16.**[^c-7bfde43241e1d1e1bea8f0ea1877ce7a] In section 92 (revocation of codes), in subsection (1), after “code of practice” there is inserted “ under section 90 or 90A ”.
 
-**17.**[^key-402313735ac063d1a6f0a966dbd252be] In section 93 (procedure for regulatory functions), in subsection (2), after paragraph (b) there is inserted—
+**17.**[^c-402313735ac063d1a6f0a966dbd252be] In section 93 (procedure for regulatory functions), in subsection (2), after paragraph (b) there is inserted—
 
 > - (ba) the power to appoint a skilled person in relation to a public service pension scheme under section 14A,
 
 .
 
-**18.**[^key-149e155c673e39d5c6b8f0bfa944ed5e] In section 154 (requirement to wind up schemes with sufficient assets), in subsection (14), after “public service pension scheme” there is inserted “ (within the meaning of the Pension Schemes Act 1993) ”.
+**18.**[^c-149e155c673e39d5c6b8f0bfa944ed5e] In section 154 (requirement to wind up schemes with sufficient assets), in subsection (14), after “public service pension scheme” there is inserted “ (within the meaning of the Pension Schemes Act 1993) ”.
 
-**19.**[^key-d40438bce2bc1a97bb93dc2c7bd416e6] After section 248 there is inserted—
+**19.**[^c-d40438bce2bc1a97bb93dc2c7bd416e6] After section 248 there is inserted—
 
 > **248A. Requirement for knowledge and understanding: pension boards of public service pension schemes**
 >
@@ -242,7 +242,7 @@ Section 17(1)
 >
 > (4) The degree of knowledge and understanding required by subsection (3) is that appropriate for the purposes of enabling the individual properly to exercise the functions of a member of the pension board.
 
-**20.**[^key-c551c883afcb9fbbdbdbf980c26d3fd4] In section 249A (requirement for internal controls), in subsection (3)—
+**20.**[^c-c551c883afcb9fbbdbdbf980c26d3fd4] In section 249A (requirement for internal controls), in subsection (3)—
 
 - (a) before paragraph (a) there is inserted—
 
@@ -251,7 +251,7 @@ Section 17(1)
   ;
 - (b) in paragraph (a) for “a scheme” there is substituted “ any other scheme ”.
 
-**21.**[^key-aa41072897a2a1c3a22ad8b5162b7d44] After section 249A there is inserted—
+**21.**[^c-aa41072897a2a1c3a22ad8b5162b7d44] After section 249A there is inserted—
 
 > **249B. Requirement for internal controls: public service pension schemes**
 >
@@ -264,7 +264,7 @@ Section 17(1)
 >
 > (3) In this section, “**enactment**” and “**internal controls**” have the same meanings as in section 249A.
 
-**22.**[^key-6f3d7d67842a1048354c6259164a05ca] (1) Section 318 (interpretation) is amended as follows.
+**22.**[^c-6f3d7d67842a1048354c6259164a05ca] (1) Section 318 (interpretation) is amended as follows.
 
 (2) In subsection (1), after the definition of “occupational pension scheme” there is inserted—
 
@@ -297,46 +297,46 @@ Section 17(1)
 
 ## Annotations
 
-[^key-03fb9f45dc61102202bd58bb2e2e70c7]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/1) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-03fb9f45dc61102202bd58bb2e2e70c7]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/1) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
 
-[^key-af07c71d4c18e3099ce0acca152a8fc1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/2) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-af07c71d4c18e3099ce0acca152a8fc1]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/2) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-ad48107af239ff3d1288797eac162d4c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/3) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-ad48107af239ff3d1288797eac162d4c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/3) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-8456fc0c9fc8ed72335cff1bae46516c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/4) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-8456fc0c9fc8ed72335cff1bae46516c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/4) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-6d84282975501e8699f607e713091f15]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/5) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-6d84282975501e8699f607e713091f15]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/5) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-19cdaab4926466abd1e3287c86835757]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/6) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-19cdaab4926466abd1e3287c86835757]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/6) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-75e52e5b02f91b5bda25b1a9bfb224c3]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-75e52e5b02f91b5bda25b1a9bfb224c3]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-d016524737af0f9a54e4118b1b26c2c4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/8) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-d016524737af0f9a54e4118b1b26c2c4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/8) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-31f961c1242191e611494273777532b2]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/9) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-31f961c1242191e611494273777532b2]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/9) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-879f335fa7a84f5db3d61e73815082f8]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/10) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-879f335fa7a84f5db3d61e73815082f8]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/10) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-ee19f48e350211163e8302a31a61618a]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/11) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-ee19f48e350211163e8302a31a61618a]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/11) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-f9b857d1d2fcf22a6a836e1cfea77455]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/12) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-f9b857d1d2fcf22a6a836e1cfea77455]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/12) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-8c478ef18a904313ee4ce350d88850dc]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/13) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/4/article/4/2))
+[^c-8c478ef18a904313ee4ce350d88850dc]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/13) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/4/article/4/2))
 
-[^key-c9017422cc44efca84102e7fea38fd61]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/14) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-c9017422cc44efca84102e7fea38fd61]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/14) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
 
-[^key-5cbb530dfc17e2375cc8400ba1d7d5e5]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/15) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-5cbb530dfc17e2375cc8400ba1d7d5e5]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/15) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
 
-[^key-7bfde43241e1d1e1bea8f0ea1877ce7a]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/16) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-7bfde43241e1d1e1bea8f0ea1877ce7a]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/16) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
 
-[^key-402313735ac063d1a6f0a966dbd252be]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/17) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-402313735ac063d1a6f0a966dbd252be]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/17) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-149e155c673e39d5c6b8f0bfa944ed5e]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/18) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-149e155c673e39d5c6b8f0bfa944ed5e]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/18) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
 
-[^key-d40438bce2bc1a97bb93dc2c7bd416e6]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/19) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-d40438bce2bc1a97bb93dc2c7bd416e6]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/19) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-c551c883afcb9fbbdbdbf980c26d3fd4]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/20) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-c551c883afcb9fbbdbdbf980c26d3fd4]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/20) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-aa41072897a2a1c3a22ad8b5162b7d44]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/21) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-aa41072897a2a1c3a22ad8b5162b7d44]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/21) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-6f3d7d67842a1048354c6259164a05ca]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/22) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-6f3d7d67842a1048354c6259164a05ca]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/22) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)

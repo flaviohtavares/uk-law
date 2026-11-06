@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Consolidator schemes and consolidator arrangements[^key-5c027e7c1a9f5180f8734e1825bc0f6a]
+## 30. Consolidator schemes and consolidator arrangements[^c-5c027e7c1a9f5180f8734e1825bc0f6a]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c027e7c1a9f5180f8734e1825bc0f6a]: Commencement: S. 30 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-5c027e7c1a9f5180f8734e1825bc0f6a]: Commencement: S. 30 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

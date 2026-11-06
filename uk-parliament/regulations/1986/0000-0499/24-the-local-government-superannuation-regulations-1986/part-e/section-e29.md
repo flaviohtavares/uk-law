@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E29. Disregard of certain reckonable service in calculating amount of benefits[^key-e10af9faab0db85714a52d9cf704eacc]
+## E29. Disregard of certain reckonable service in calculating amount of benefits[^c-e10af9faab0db85714a52d9cf704eacc]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e10af9faab0db85714a52d9cf704eacc]: Commencement: [Reg. E29](https://www.legislation.gov.uk/uksi/1986/24/regulation/E29) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e10af9faab0db85714a52d9cf704eacc]: Commencement: [Reg. E29](https://www.legislation.gov.uk/uksi/1986/24/regulation/E29) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

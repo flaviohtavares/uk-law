@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Old system students[^key-f57bc0ae76a46f0514534ac894858bc5]
+## 16. Old system students[^c-f57bc0ae76a46f0514534ac894858bc5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f57bc0ae76a46f0514534ac894858bc5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/373/regulation/16) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [6(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/6/a)
+[^c-f57bc0ae76a46f0514534ac894858bc5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/373/regulation/16) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [6(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/6/a)

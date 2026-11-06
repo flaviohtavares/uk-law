@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Levy to pay expenses of bodies concerned with accounting standards etc.[^key-92d38a73ac49a268c3eab0b1511dbd0f]
+## 17. Levy to pay expenses of bodies concerned with accounting standards etc.[^c-92d38a73ac49a268c3eab0b1511dbd0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (3) The power to specify (or to specify descriptions of) bodies or persons must be exercised in such a way that the levy is only payable by—
 
-- (a) bodies corporate to which , or persons within subsection (3A) to whom,[^key-a0e4cb28415ca6d502a7995a9ff8c291] the Secretary of State considers that any of the activities of the specified recipient, or any of its subsidiary activities, are relevant to a significant extent, or
+- (a) bodies corporate to which , or persons within subsection (3A) to whom,[^c-a0e4cb28415ca6d502a7995a9ff8c291] the Secretary of State considers that any of the activities of the specified recipient, or any of its subsidiary activities, are relevant to a significant extent, or
 - (b) bodies or persons who the Secretary of State considers have a major interest in any of those activities being carried on.
 
-(3A)[^key-77344a684a8ffabb6d927395a61b94d7] The following persons are within this subsection—
+(3A)[^c-77344a684a8ffabb6d927395a61b94d7] The following persons are within this subsection—
 
 - (a) the administrators of a public service pension scheme (within the meaning of section 1 of the Pension Schemes Act 1993);
 - (b) the trustees or managers of an occupational or personal pension scheme (within the meaning of that section).
@@ -41,7 +41,7 @@ summary: ''
 
 - (a) specify the rate of the levy and the period in respect of which it is payable at that rate;
 - (b) make provision as to the times when, and the manner in which, payments are to be made in respect of the levy.
-- (c)[^key-aa4721f97f57c2633c86d2edd8d9b4a0] make different provision for different cases.
+- (c)[^c-aa4721f97f57c2633c86d2edd8d9b4a0] make different provision for different cases.
 
 (5) In determining the rate of the levy payable in respect of a particular period, the Secretary of State—
 
@@ -68,16 +68,16 @@ summary: ''
 
 (12) Otherwise, any statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(13)[^key-89a19504af5c36a9c13098310fa211ca] If a draft of any regulations to which subsection (10) applies would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
+(13)[^c-89a19504af5c36a9c13098310fa211ca] If a draft of any regulations to which subsection (10) applies would, apart from this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not such an instrument.
 
 ## Annotations
 
-[^key-92d38a73ac49a268c3eab0b1511dbd0f]: Commencement: S. 17 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-92d38a73ac49a268c3eab0b1511dbd0f]: Commencement: S. 17 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-a0e4cb28415ca6d502a7995a9ff8c291]: Textual amendment: Words in s. 17(3)(a) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/2)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-a0e4cb28415ca6d502a7995a9ff8c291]: Textual amendment: Words in s. 17(3)(a) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/2)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-77344a684a8ffabb6d927395a61b94d7]: Textual amendment: S. 17(3A) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(3)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/3)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-77344a684a8ffabb6d927395a61b94d7]: Textual amendment: S. 17(3A) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(3)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/3)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-aa4721f97f57c2633c86d2edd8d9b4a0]: Textual amendment: S. 17(4)(c) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/4)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-aa4721f97f57c2633c86d2edd8d9b4a0]: Textual amendment: S. 17(4)(c) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/4)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
 
-[^key-89a19504af5c36a9c13098310fa211ca]: Textual amendment: S. 17(13) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-89a19504af5c36a9c13098310fa211ca]: Textual amendment: S. 17(13) inserted (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1275(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/46/section/1275/6), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(y)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/y) (with [arts. 7,](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))

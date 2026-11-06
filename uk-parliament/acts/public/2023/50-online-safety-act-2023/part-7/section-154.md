@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Research about users’ experiences of regulated services[^key-cbe91af03aa1d4c79e1e88baf9c4527e][^key-008bcaca88a8ff4dce0bf7fff4c7fd63]
+## 154. Research about users’ experiences of regulated services[^c-cbe91af03aa1d4c79e1e88baf9c4527e][^c-008bcaca88a8ff4dce0bf7fff4c7fd63]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe91af03aa1d4c79e1e88baf9c4527e]: Commencement: S. 154 in force at Royal Assent for specified purposes, see [s. 240(4)(u)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/u)
+[^c-cbe91af03aa1d4c79e1e88baf9c4527e]: Commencement: S. 154 in force at Royal Assent for specified purposes, see [s. 240(4)(u)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/u)
 
-[^key-008bcaca88a8ff4dce0bf7fff4c7fd63]: Commencement: S. 154 in force at 10.1.2024 in so far as not already in force by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-008bcaca88a8ff4dce0bf7fff4c7fd63]: Commencement: S. 154 in force at 10.1.2024 in so far as not already in force by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

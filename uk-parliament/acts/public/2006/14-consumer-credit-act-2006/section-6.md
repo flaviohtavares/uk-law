@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Statements to be provided in relation to fixed-sum credit agreements[^key-51988f4fa6d87e3ada6737d8ad4f0d63][^key-e7e2d66de7c0b6f4b22e2af243065f2c]
+## 6. Statements to be provided in relation to fixed-sum credit agreements[^c-51988f4fa6d87e3ada6737d8ad4f0d63][^c-e7e2d66de7c0b6f4b22e2af243065f2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ After section 77 of the 1974 Act insert—
 
 ## Annotations
 
-[^key-51988f4fa6d87e3ada6737d8ad4f0d63]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/14/section/6) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-51988f4fa6d87e3ada6737d8ad4f0d63]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/14/section/6) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-e7e2d66de7c0b6f4b22e2af243065f2c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/14/section/6) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-e7e2d66de7c0b6f4b22e2af243065f2c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/14/section/6) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

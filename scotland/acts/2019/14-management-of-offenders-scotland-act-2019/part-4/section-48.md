@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Release on licence under section 3AA of the 1993 Act[^key-b6cdf31fdb793801279a05b38e7cce9a]
+## 48. Release on licence under section 3AA of the 1993 Act[^c-b6cdf31fdb793801279a05b38e7cce9a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6cdf31fdb793801279a05b38e7cce9a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2019/14/section/48) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-b6cdf31fdb793801279a05b38e7cce9a]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2019/14/section/48) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

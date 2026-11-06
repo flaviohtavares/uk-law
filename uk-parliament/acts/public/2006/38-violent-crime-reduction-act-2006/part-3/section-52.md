@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Football-related disorder[^key-4bb9789cf0a64e8a81bc49fe5b7cf321]
+## 52. Football-related disorder[^c-4bb9789cf0a64e8a81bc49fe5b7cf321]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bb9789cf0a64e8a81bc49fe5b7cf321]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/38/section/52) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-4bb9789cf0a64e8a81bc49fe5b7cf321]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/38/section/52) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)

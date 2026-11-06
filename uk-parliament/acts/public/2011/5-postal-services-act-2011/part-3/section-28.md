@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. General authorisation to provide postal services[^key-b92960e8af4fd1af58115af3a26f41fc]
+## 28. General authorisation to provide postal services[^c-b92960e8af4fd1af58115af3a26f41fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b92960e8af4fd1af58115af3a26f41fc]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2011/5/section/28) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b92960e8af4fd1af58115af3a26f41fc]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2011/5/section/28) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

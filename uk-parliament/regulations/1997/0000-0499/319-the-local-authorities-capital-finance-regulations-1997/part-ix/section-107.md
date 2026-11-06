@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Disposal of redundant land in exchange for vacant land[^key-e89cae359a7c97add88b8286d456ca9f]
+## 107. Disposal of redundant land in exchange for vacant land[^c-e89cae359a7c97add88b8286d456ca9f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the case of non-monetary consideration received in respect of a disposal of a
 
 ## Annotations
 
-[^key-e89cae359a7c97add88b8286d456ca9f]: Commencement: Reg. 107 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e89cae359a7c97add88b8286d456ca9f]: Commencement: Reg. 107 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

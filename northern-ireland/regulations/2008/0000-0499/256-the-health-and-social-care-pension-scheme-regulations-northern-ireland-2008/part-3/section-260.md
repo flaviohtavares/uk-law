@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260. Employing authority and certain member record keeping and contribution estimates[^key-2077feb91ed454f9445d7b752f8f2d84]
+## 260. Employing authority and certain member record keeping and contribution estimates[^c-2077feb91ed454f9445d7b752f8f2d84]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ no later than 1 month after the date on which that return was required to be sub
 
 no later than 1 month after the date on which that return was required to be submitted to Her Majesty’s Revenue and Customs.
 
-(3) As regards a principal dental practitioner, in respect of each scheme year, the member shall provide each relevant host Trust or Board with a certificate of their pensionable[^key-e6df03dcb3b393b8f166ac68b682e458] earnings based on—
+(3) As regards a principal dental practitioner, in respect of each scheme year, the member shall provide each relevant host Trust or Board with a certificate of their pensionable[^c-e6df03dcb3b393b8f166ac68b682e458] earnings based on—
 
 - (a) the notice of pensionable earnings referred to in regulation 148; and
 - (b) their pensionable earnings as a principal dental practitioner from all other principal dental practitioner sources,
@@ -48,7 +48,7 @@ no later than 6 months after the end of that scheme year.
 
 no later than 6 months after the end of that scheme year.
 
-(5)[^key-6659b7428bb79b707fe7c75023fd1ce9] In respect of each scheme year, a GMS practice or an APMS contractor shall provide the Department with a statement of estimated pensionable earnings and contributions due under regulation 160, 162 and 165[^key-464cda62d466945b950261d833328a50] in respect of any—
+(5)[^c-6659b7428bb79b707fe7c75023fd1ce9] In respect of each scheme year, a GMS practice or an APMS contractor shall provide the Department with a statement of estimated pensionable earnings and contributions due under regulation 160, 162 and 165[^c-464cda62d466945b950261d833328a50] in respect of any—
 
 - (a) non-GP provider that is a GMS practice or an APMS contractor who assists in the provision of HSC services provided by that GMS practice or APMS contractor;
 - (b) principal medical practitioner who performs medical services as, or on behalf of, the practice or contractor;
@@ -68,16 +68,16 @@ in respect of any of the persons referred to in paragraph (5)(a) to (c).
 - (a) the statement referred to in paragraph (5) at least 1 month before the beginning of that scheme year;
 - (b) the statement referred to in paragraph (6) no later than 3 months after the end of that scheme year.
 
-(7A)[^key-b656c068b900dd85df9497bc95e6db98] If a GMS practice or APMS contractor does not provide the statement referred to in sub-paragraph (5) in accordance with sub-paragraph (7)(a), the member contributions in respect of the members of that practice or contractor referred to in sub-paragraphs (5)(a) to (c), will be payable at the maximum contribution percentage rate specified in paragraph (17) of regulation161 based on estimated pensionable pay as determined by the Department
+(7A)[^c-b656c068b900dd85df9497bc95e6db98] If a GMS practice or APMS contractor does not provide the statement referred to in sub-paragraph (5) in accordance with sub-paragraph (7)(a), the member contributions in respect of the members of that practice or contractor referred to in sub-paragraphs (5)(a) to (c), will be payable at the maximum contribution percentage rate specified in paragraph (17) of regulation161 based on estimated pensionable pay as determined by the Department
 
 (8) All employing authorities must, for each scheme year—
 
 - (a) provide the Department with a statement of estimated total contributions due to this Section of the Scheme under regulation 160 (Contributions by members) and 162 (Contributions by employing authorities: general); and
 - (b) maintain, in a manner approved by Department from time to time, the records of contributions to this Section of the Scheme made under regulations 160 and 161.
 
-(9) The statement referred to in paragraph (8)(a) must be provided to the Department no later then 1 month before the beginning[^key-b549f684bef61eebc0e35b42d8886a9b] of each scheme year and, except where the Department waives such requirement, an employing authority must provide the Department with a statement of contributions to this Section of the Scheme recorded in accordance with paragraph (8)(b) no later then 2 months after the end of each scheme year.
+(9) The statement referred to in paragraph (8)(a) must be provided to the Department no later then 1 month before the beginning[^c-b549f684bef61eebc0e35b42d8886a9b] of each scheme year and, except where the Department waives such requirement, an employing authority must provide the Department with a statement of contributions to this Section of the Scheme recorded in accordance with paragraph (8)(b) no later then 2 months after the end of each scheme year.
 
-(10)[^key-3247739c2b4c5c9a5076771e6fb1b419] A member’s pensionable earnings for a scheme year shall be zero and no contributions paid in respect of that scheme year are to be refunded where, in respect of that scheme year, a member has failed to comply with the requirements of—
+(10)[^c-3247739c2b4c5c9a5076771e6fb1b419] A member’s pensionable earnings for a scheme year shall be zero and no contributions paid in respect of that scheme year are to be refunded where, in respect of that scheme year, a member has failed to comply with the requirements of—
 
 - (a) whichever of sub-paragraphs (1) to (4) applies to that member, or
 - (b) paragraph (7) of regulation 157.
@@ -101,7 +101,7 @@ the Department may require that practitioner or non-GP provider’s personal rep
 - (a) that referred to in whichever of paragraphs (1) to (4) was or is applicable to them
 - (b) such other period as the Department permits.
 
-(14)[^key-ede4bf9f43315d831c2ca66aa69e0eaf] An employing authority must, in respect of a person, keep a record of all—
+(14)[^c-ede4bf9f43315d831c2ca66aa69e0eaf] An employing authority must, in respect of a person, keep a record of all—
 
 - (a) contributions paid under regulations 160, 165 or 167;
 - (b) contributions due under regulations 160, 165 or 167, but unpaid;
@@ -127,18 +127,18 @@ the Department may require that practitioner or non-GP provider’s personal rep
 
 ## Annotations
 
-[^key-2077feb91ed454f9445d7b752f8f2d84]: Textual amendment: [Reg. 260](https://www.legislation.gov.uk/nisr/2008/256/regulation/260) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [78](https://www.legislation.gov.uk/nisr/2009/188/regulation/78)
+[^c-2077feb91ed454f9445d7b752f8f2d84]: Textual amendment: [Reg. 260](https://www.legislation.gov.uk/nisr/2008/256/regulation/260) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [78](https://www.legislation.gov.uk/nisr/2009/188/regulation/78)
 
-[^key-e6df03dcb3b393b8f166ac68b682e458]: Textual amendment: Word in [reg. 260(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/2)[(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/3) substituted (14.3.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [30(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/30/2)
+[^c-e6df03dcb3b393b8f166ac68b682e458]: Textual amendment: Word in [reg. 260(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/2)[(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/3) substituted (14.3.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [30(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/30/2)
 
-[^key-6659b7428bb79b707fe7c75023fd1ce9]: Textual amendment: [Reg. 260(5)-(16)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/5) substituted for reg. (5)-(15) (14.3.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [30(3)](https://www.legislation.gov.uk/nisr/2012/42/regulation/30/3)
+[^c-6659b7428bb79b707fe7c75023fd1ce9]: Textual amendment: [Reg. 260(5)-(16)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/5) substituted for reg. (5)-(15) (14.3.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/42/regulation/1/2), [30(3)](https://www.legislation.gov.uk/nisr/2012/42/regulation/30/3)
 
-[^key-464cda62d466945b950261d833328a50]: Textual amendment: Words in [reg. 260(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/2)
+[^c-464cda62d466945b950261d833328a50]: Textual amendment: Words in [reg. 260(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/5) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/2)
 
-[^key-b656c068b900dd85df9497bc95e6db98]: Textual amendment: [Reg. 260(7A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/7A) inserted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [54(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/54/2)
+[^c-b656c068b900dd85df9497bc95e6db98]: Textual amendment: [Reg. 260(7A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/7A) inserted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [54(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/54/2)
 
-[^key-b549f684bef61eebc0e35b42d8886a9b]: Textual amendment: Words in [reg. 260(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/9) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [54(3)](https://www.legislation.gov.uk/nisr/2022/196/regulation/54/3)
+[^c-b549f684bef61eebc0e35b42d8886a9b]: Textual amendment: Words in [reg. 260(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/9) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [54(3)](https://www.legislation.gov.uk/nisr/2022/196/regulation/54/3)
 
-[^key-3247739c2b4c5c9a5076771e6fb1b419]: Textual amendment: [Reg. 260(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/10) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(3)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/3)
+[^c-3247739c2b4c5c9a5076771e6fb1b419]: Textual amendment: [Reg. 260(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/10) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(3)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/3)
 
-[^key-ede4bf9f43315d831c2ca66aa69e0eaf]: Textual amendment: [Reg. 260(14)-(14C)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/14) substituted for [reg. 260(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/14) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(4)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/4)
+[^c-ede4bf9f43315d831c2ca66aa69e0eaf]: Textual amendment: [Reg. 260(14)-(14C)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/14) substituted for [reg. 260(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260/14) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [20(4)](https://www.legislation.gov.uk/nisr/2014/225/regulation/20/4)

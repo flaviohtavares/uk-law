@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Companies' registered numbers[^key-3f282a3cfc14996e946311980d72455b]
+## 72. Companies' registered numbers[^c-3f282a3cfc14996e946311980d72455b]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f282a3cfc14996e946311980d72455b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2004/335/regulation/72) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-3f282a3cfc14996e946311980d72455b]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2004/335/regulation/72) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

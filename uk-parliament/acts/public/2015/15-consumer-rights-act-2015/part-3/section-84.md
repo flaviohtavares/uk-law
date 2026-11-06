@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Letting agents to which the duty applies[^c22520521][^key-0469665ff7622b27fbb533b629880847][^key-7897e66c6593374dd564efbb08c323ea]
+## 84. Letting agents to which the duty applies[^c22520521][^c-0469665ff7622b27fbb533b629880847][^c-7897e66c6593374dd564efbb08c323ea]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c22520521]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2015/15/section/84) in force for specified purposes at Royal Assent, see [s. 100(2)(b)(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/2/b)
 
-[^key-0469665ff7622b27fbb533b629880847]: Commencement: S. 84 in force at 27.5.2015 for E. in so far as not already in force by [S.I. 2015/965](https://www.legislation.gov.uk/uksi/2015/965), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/965/article/2/a)
+[^c-0469665ff7622b27fbb533b629880847]: Commencement: S. 84 in force at 27.5.2015 for E. in so far as not already in force by [S.I. 2015/965](https://www.legislation.gov.uk/uksi/2015/965), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/965/article/2/a)
 
-[^key-7897e66c6593374dd564efbb08c323ea]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2015/15/section/84) in force at 23.11.2015 for W. in so far as not already in force by [S.I. 2015/1904](https://www.legislation.gov.uk/wsi/2015/1904), [art. 2](https://www.legislation.gov.uk/wsi/2015/1904/article/2)
+[^c-7897e66c6593374dd564efbb08c323ea]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2015/15/section/84) in force at 23.11.2015 for W. in so far as not already in force by [S.I. 2015/1904](https://www.legislation.gov.uk/wsi/2015/1904), [art. 2](https://www.legislation.gov.uk/wsi/2015/1904/article/2)

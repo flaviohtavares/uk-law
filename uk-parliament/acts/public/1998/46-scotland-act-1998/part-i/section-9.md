@@ -31,7 +31,7 @@ summary: ''
 
 (4) The election shall not be held if the latest date for holding the poll would fall within the period of three months ending with the day on which the poll at the next ordinary general election would be held (disregarding section 2(5)).
 
-(4A)[^key-ff8c66ab0ca45658a85eb983c3fcaf81] Subsection (4B) applies where—
+(4A)[^c-ff8c66ab0ca45658a85eb983c3fcaf81] Subsection (4B) applies where—
 
 - (a) the Presiding Officer fixes a date under subsection (2), and
 - (b) the date fixed does not fall within the period of 6 months ending with the day on which the poll at the next ordinary general election would be held (disregarding section 2(5)).
@@ -66,6 +66,6 @@ summary: ''
 
 [^c12393831]: Modification: S. 9 applied (11.3.1999) by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), [arts. 1](https://www.legislation.gov.uk/uksi/1999/787/article/1), [86](https://www.legislation.gov.uk/uksi/1999/787/article/86)
 
-[^key-ff8c66ab0ca45658a85eb983c3fcaf81]: Textual amendment: [S. 9(4A)-(4F)](https://www.legislation.gov.uk/ukpga/1998/46/section/9/4A) inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 31(2)](https://www.legislation.gov.uk/asp/2025/4/section/31/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-ff8c66ab0ca45658a85eb983c3fcaf81]: Textual amendment: [S. 9(4A)-(4F)](https://www.legislation.gov.uk/ukpga/1998/46/section/9/4A) inserted (S.) (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 31(2)](https://www.legislation.gov.uk/asp/2025/4/section/31/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
 
 [^c12393841]: Modification: S. 9(6) extended (11.3.1999) by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), [arts. 1](https://www.legislation.gov.uk/uksi/1999/787/article/1), [6](https://www.legislation.gov.uk/uksi/1999/787/article/6), [Sch. 2 Pt. II para. 9(4)(b)(iii)](https://www.legislation.gov.uk/uksi/1999/787/schedule/2/part/II/paragraph/9/4/b/iii)

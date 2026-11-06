@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Regulations under section 10: further provision[^key-c6bbcf28459e72210b1e3cb844864073]
+## 11. Regulations under section 10: further provision[^c-c6bbcf28459e72210b1e3cb844864073]
 
 *Extent: S*
 
-(1)[^key-6b8f6f1dcf7a11545dad6f04da20d7f2] Before making regulations under section 10(1), the Scottish Ministers must consult—
+(1)[^c-6b8f6f1dcf7a11545dad6f04da20d7f2] Before making regulations under section 10(1), the Scottish Ministers must consult—
 
 - (a) persons who are care-experienced persons for the purposes of section 10,
 - (b) persons who may become such persons by virtue of the regulations to which the consultation relates,
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6bbcf28459e72210b1e3cb844864073]: Commencement: S. 11 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-c6bbcf28459e72210b1e3cb844864073]: Commencement: S. 11 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-6b8f6f1dcf7a11545dad6f04da20d7f2]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2026/16/section/11/1) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-6b8f6f1dcf7a11545dad6f04da20d7f2]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2026/16/section/11/1) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

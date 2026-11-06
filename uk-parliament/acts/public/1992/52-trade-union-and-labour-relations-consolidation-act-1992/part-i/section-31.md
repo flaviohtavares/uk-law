@@ -45,7 +45,7 @@ summary: ''
 
 (4)[^c14513651] Where the Certification Officer requests a person to furnish information to him in connection with enquiries made by him under this section, he shall specify the date by which that information is to be furnished and, unless he considers that it would be inappropriate to do so, shall proceed with his determination of the application notwithstanding that the information has not been furnished to him by the specified date.
 
-(5) An order made by the Certification Officer under this section may be enforced (by the Certification Officer or the applicant)[^key-d7973811fb21ac0c1078792d0560d7d4] in the same way as an order of the court.
+(5) An order made by the Certification Officer under this section may be enforced (by the Certification Officer or the applicant)[^c-d7973811fb21ac0c1078792d0560d7d4] in the same way as an order of the court.
 
 (6) If a person applies to the court under this section in relation to an alleged failure he may not apply to the Certification Officer under this section in relation to that failure.
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c14513651]: Textual amendment: S. 31(4)-(7) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 29](https://www.legislation.gov.uk/ukpga/1999/26/section/29), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/1), [6(6)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/6/6); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/4))
 
-[^key-d7973811fb21ac0c1078792d0560d7d4]: Textual amendment: Words in [s. 31(5)](https://www.legislation.gov.uk/ukpga/1992/52/section/31/5) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))
+[^c-d7973811fb21ac0c1078792d0560d7d4]: Textual amendment: Words in [s. 31(5)](https://www.legislation.gov.uk/ukpga/1992/52/section/31/5) inserted (1.4.2022) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2016/15/section/19/4), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1373/regulation/15))

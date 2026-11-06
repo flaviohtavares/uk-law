@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Resignation of the building society liquidator[^key-6eea6431866637e696196a08c2ca55bf]
+## 54. Resignation of the building society liquidator[^c-6eea6431866637e696196a08c2ca55bf]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eea6431866637e696196a08c2ca55bf]: Commencement: Rule 54 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-6eea6431866637e696196a08c2ca55bf]: Commencement: Rule 54 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

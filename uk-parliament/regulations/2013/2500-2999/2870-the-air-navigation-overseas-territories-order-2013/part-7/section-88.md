@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Marking of break-in areas[^key-e4a9436341398ef09c45ca741f75a41e]
+## 88. Marking of break-in areas[^c-e4a9436341398ef09c45ca741f75a41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a9436341398ef09c45ca741f75a41e]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2013/2870/article/88) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e4a9436341398ef09c45ca741f75a41e]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2013/2870/article/88) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

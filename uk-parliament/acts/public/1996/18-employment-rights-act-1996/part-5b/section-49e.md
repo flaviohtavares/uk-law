@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49E. Section 49D: supplemental[^key-9118ffa22656d903f2e21334b1ab4bf6][^key-51d20901f6232839ffa0f1659fdc7061]
+## 49E. Section 49D: supplemental[^c-9118ffa22656d903f2e21334b1ab4bf6][^c-51d20901f6232839ffa0f1659fdc7061]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ Regulations under section 49D may—
 
 ## Annotations
 
-[^key-9118ffa22656d903f2e21334b1ab4bf6]: Textual amendment: S. 49E inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 26(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/26/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)
+[^c-9118ffa22656d903f2e21334b1ab4bf6]: Textual amendment: S. 49E inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 26(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/26/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)
 
-[^key-51d20901f6232839ffa0f1659fdc7061]: Textual amendment: Pt. 5B inserted (E.W.S.) (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-51d20901f6232839ffa0f1659fdc7061]: Textual amendment: Pt. 5B inserted (E.W.S.) (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)

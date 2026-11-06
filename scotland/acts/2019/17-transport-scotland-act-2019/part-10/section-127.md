@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Minor and consequential amendments and repeals[^key-981c6443b16aa6968aebb5ae6619815f]
+## 127. Minor and consequential amendments and repeals[^c-981c6443b16aa6968aebb5ae6619815f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The schedule contains minor and consequential amendments and repeals.
 
 ## Annotations
 
-[^key-981c6443b16aa6968aebb5ae6619815f]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2019/17/section/127) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-981c6443b16aa6968aebb5ae6619815f]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2019/17/section/127) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

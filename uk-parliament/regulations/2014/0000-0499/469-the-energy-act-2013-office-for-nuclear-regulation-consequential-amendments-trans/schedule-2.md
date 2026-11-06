@@ -24,13 +24,13 @@ Article 6(1)
 
 ### 1. Fireworks Act 1951 (c.58)
 
-In section 1 of the Fireworks Act 1951 (destruction of dangerous fireworks) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7] [^c22036491], after subsection (5) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]
+In section 1 of the Fireworks Act 1951 (destruction of dangerous fireworks) *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7] [^c22036491], after subsection (5) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]
 
-> (6 (Extent: E+W+S) (affected by repeal, see note))[^key-d6228da10760125255f472068e8a85b7] The reference to an inspector appointed by the Health and Safety Executive under section 19 of the Health and Safety at Work etc. Act 1974 (“ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]**the 1974 Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]**”) is to be read, in relation to a relevant nuclear site, as a reference to an inspector appointed by the Office for Nuclear Regulation under that section. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]
+> (6 (Extent: E+W+S) (affected by repeal, see note))[^c-d6228da10760125255f472068e8a85b7] The reference to an inspector appointed by the Health and Safety Executive under section 19 of the Health and Safety at Work etc. Act 1974 (“ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]**the 1974 Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]**”) is to be read, in relation to a relevant nuclear site, as a reference to an inspector appointed by the Office for Nuclear Regulation under that section. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]
 >
-> (7 (Extent: E+W+S) (affected by repeal, see note))[^key-d6228da10760125255f472068e8a85b7] For this purpose a relevant nuclear site is one in relation to which the Office for Nuclear Regulation has responsibility for the enforcement of any of the relevant statutory provisions (within the meaning of Part 1 of the 1974 Act) by virtue of section 18(1A) or (2) of the 1974 Act. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]
+> (7 (Extent: E+W+S) (affected by repeal, see note))[^c-d6228da10760125255f472068e8a85b7] For this purpose a relevant nuclear site is one in relation to which the Office for Nuclear Regulation has responsibility for the enforcement of any of the relevant statutory provisions (within the meaning of Part 1 of the 1974 Act) by virtue of section 18(1A) or (2) of the 1974 Act. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-d6228da10760125255f472068e8a85b7]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-d6228da10760125255f472068e8a85b7]
 
 ### 2. Public Records Act 1958 (c.51)
 
@@ -252,7 +252,7 @@ In Schedule 6 to the Civil Aviation Act 2012 (restrictions on disclosing informa
 
 ## Annotations
 
-[^key-d6228da10760125255f472068e8a85b7]: Textual amendment: Sch. 2 para. 1 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
+[^c-d6228da10760125255f472068e8a85b7]: Textual amendment: Sch. 2 para. 1 revoked (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1638/schedule/14/part/2)
 
 [^c22036491]: Marginal citation: [1951 c.58](https://www.legislation.gov.uk/ukpga/1951/58); section 1 was amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [sections 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38) and 46, [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885) and [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082).
 

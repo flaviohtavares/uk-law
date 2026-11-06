@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. England: separate collection of household waste[^key-c4ef0503576aecc86a8c6714daf51317][^key-ced4cac4bbbfe51e18de48b7cf58746f]
+## 45A. England: separate collection of household waste[^c-c4ef0503576aecc86a8c6714daf51317][^c-ced4cac4bbbfe51e18de48b7cf58746f]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) The second condition is that recyclable household waste must be collected for recycling or composting.
 
-(5)[^key-bf300d17271b3e1419805d45e8622e70] The third condition is that recyclable household waste in each recyclable waste stream must be collected separately, except so far as provided by subsection (6).
+(5)[^c-bf300d17271b3e1419805d45e8622e70] The third condition is that recyclable household waste in each recyclable waste stream must be collected separately, except so far as provided by subsection (6).
 
 (6) Recyclable household waste in two or more recyclable waste streams may be collected together where—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c4ef0503576aecc86a8c6714daf51317]: Modification: [S. 45A](https://www.legislation.gov.uk/ukpga/1990/43/section/45A) modified (E.W.) (30.6.2024) by [The Separation of Waste (England) Regulations 2024 (S.I. 2024/666)](https://www.legislation.gov.uk/uksi/2024/666), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/5), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2024/666/regulation/3/2), [Sch. 1 Pts. 2-7](https://www.legislation.gov.uk/uksi/2024/666/schedule/1/part/2)
+[^c-c4ef0503576aecc86a8c6714daf51317]: Modification: [S. 45A](https://www.legislation.gov.uk/ukpga/1990/43/section/45A) modified (E.W.) (30.6.2024) by [The Separation of Waste (England) Regulations 2024 (S.I. 2024/666)](https://www.legislation.gov.uk/uksi/2024/666), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/5), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2024/666/regulation/3/2), [Sch. 1 Pts. 2-7](https://www.legislation.gov.uk/uksi/2024/666/schedule/1/part/2)
 
-[^key-ced4cac4bbbfe51e18de48b7cf58746f]: Textual amendment: Ss. 45A-45AZG substituted for s. 45A (17.5.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/57/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))
+[^c-ced4cac4bbbfe51e18de48b7cf58746f]: Textual amendment: Ss. 45A-45AZG substituted for s. 45A (17.5.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/57/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))
 
-[^key-bf300d17271b3e1419805d45e8622e70]: Modification: [S. 45A(5)](https://www.legislation.gov.uk/ukpga/1990/43/section/45A/5) excluded (31.3.2025) by [The Separation of Waste (England) Regulations 2025 (S.I. 2025/140)](https://www.legislation.gov.uk/uksi/2025/140), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2025/140/regulation/3/1)
+[^c-bf300d17271b3e1419805d45e8622e70]: Modification: [S. 45A(5)](https://www.legislation.gov.uk/ukpga/1990/43/section/45A/5) excluded (31.3.2025) by [The Separation of Waste (England) Regulations 2025 (S.I. 2025/140)](https://www.legislation.gov.uk/uksi/2025/140), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/140/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2025/140/regulation/3/1)

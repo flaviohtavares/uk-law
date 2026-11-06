@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Investigation and remedial action[^key-fed13861227ba9ed446070ea8509c353]
+## 21. Investigation and remedial action[^c-fed13861227ba9ed446070ea8509c353]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Each enforcing authority, in relation to a supply of water, must ensure that—
 
 ## Annotations
 
-[^key-fed13861227ba9ed446070ea8509c353]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/282/regulation/21) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-fed13861227ba9ed446070ea8509c353]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/282/regulation/21) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

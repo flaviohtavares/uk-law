@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Repeals[^key-e2851d8f1f89c51209959a53fe67ff5c][^key-7b8aaf3fb168b0e5932ba34ea0b31d15]
+## SCHEDULE 3 — Repeals[^c-e2851d8f1f89c51209959a53fe67ff5c][^c-7b8aaf3fb168b0e5932ba34ea0b31d15]
 
 *Extent: E+W*
 
 Section 103(2)
 
-### Part 1 — The curriculum[^key-d71e70b9992b24f150c31f1b11bc2891]
+### Part 1 — The curriculum[^c-d71e70b9992b24f150c31f1b11bc2891]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
 | Education Act 1997 (c. 44) | In section 23—<br>- in subsection (1), paragraph (c) and the word “and” immediately preceding it; and<br>- subsection (2A). |
 | Education Act 2002 (c. 32) | In section 76, the definitions of “early learning goals”, “the foundation stage”, and “pupil” and, in the definition of “school year”, the words from “and has a corresponding” to the end.<br>Section 77.<br>Section 78(2).<br>In section 79—<br>- in subsection (4)(b), the words from “or the” to “nursery school”; and<br>- subsection (5).<br>Section 81.<br>Section 83.<br>In section 87—<br>- subsection (2);<br>- in subsection (4), the words “(2) or”, in paragraph (a) the words “the foundation stage or” and “educational programme or” and in paragraph (b) the words from “(or the timetables” to “education)”;<br>- in subsection (5), the words “(2) or”;<br>- subsection (6);<br>- in subsection (8), the words “(2)(c) or”;<br>- in subsection (10), the words “(6) or” and, in paragraph (a), the words from “or” to “provided”; and<br>- in subsection (11), the words “(2)(c) or” and “(6) or”.<br>Section 89.<br>In section 90, in subsection (1) the words “or maintained nursery school” and in subsection (3) the words “or a maintained nursery school”.<br>In section 93(1) and (5), the words “or maintained nursery school”.<br>In section 94(4)(a), the words “or maintained nursery school”.<br>In section 96(1)(a), the words “83(3),”.<br>Section 210(3)(c).<br>In Schedule 17, paragraph 1(4) to (6). |
 
-### Part 2 — Other repeals[^key-ff75d14062c8cba70b5a4c12f630ffc4][^key-6359db52926eec4c18314b34c47c2b60]
+### Part 2 — Other repeals[^c-ff75d14062c8cba70b5a4c12f630ffc4][^c-6359db52926eec4c18314b34c47c2b60]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -43,12 +43,12 @@ Section 103(2)
 
 ## Annotations
 
-[^key-e2851d8f1f89c51209959a53fe67ff5c]: Commencement: Sch. 3 in force at 1.4.2007 for specified purposes and in part for E by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/1019/article/6), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/1019/schedule/paragraph/1))
+[^c-e2851d8f1f89c51209959a53fe67ff5c]: Commencement: Sch. 3 in force at 1.4.2007 for specified purposes and in part for E by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/1019/article/6), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2007/1019/schedule/paragraph/1))
 
-[^key-7b8aaf3fb168b0e5932ba34ea0b31d15]: Commencement: Sch. 3 in force at 6.4.2007 for specified purposes by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-7b8aaf3fb168b0e5932ba34ea0b31d15]: Commencement: Sch. 3 in force at 6.4.2007 for specified purposes by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
 
-[^key-d71e70b9992b24f150c31f1b11bc2891]: Commencement: Sch. 3 Pt. 1 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-d71e70b9992b24f150c31f1b11bc2891]: Commencement: Sch. 3 Pt. 1 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
-[^key-ff75d14062c8cba70b5a4c12f630ffc4]: Commencement: Sch. 3 Pt. 2 in force at 1.10.2007 for specified purposes for E. by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/f)
+[^c-ff75d14062c8cba70b5a4c12f630ffc4]: Commencement: Sch. 3 Pt. 2 in force at 1.10.2007 for specified purposes for E. by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/f)
 
-[^key-6359db52926eec4c18314b34c47c2b60]: Commencement: Sch. 3 Pt. 2 in force at 1.9.2008 for E. in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-6359db52926eec4c18314b34c47c2b60]: Commencement: Sch. 3 Pt. 2 in force at 1.9.2008 for E. in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))

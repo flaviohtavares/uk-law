@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Receipt of a club transfer value payment[^key-7ac0b32d906455c3c3187e08db58d81a]
+## 42. Receipt of a club transfer value payment[^c-7ac0b32d906455c3c3187e08db58d81a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ac0b32d906455c3c3187e08db58d81a]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-7ac0b32d906455c3c3187e08db58d81a]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

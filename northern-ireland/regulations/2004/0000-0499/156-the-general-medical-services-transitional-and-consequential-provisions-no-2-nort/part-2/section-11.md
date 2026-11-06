@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Acceptance of temporary residents[^key-c81abf64213e74c2a72c7a4c8bcc3f53]
+## 11. Acceptance of temporary residents[^c-c81abf64213e74c2a72c7a4c8bcc3f53]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c81abf64213e74c2a72c7a4c8bcc3f53]: Commencement: Art. 11 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c81abf64213e74c2a72c7a4c8bcc3f53]: Commencement: Art. 11 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00017]: Footnote: Paragraph 6 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 

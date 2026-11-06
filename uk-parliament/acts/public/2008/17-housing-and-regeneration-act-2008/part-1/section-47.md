@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Directions by the Secretary of State[^key-2f50fb854f4c1315746c033749095f7c]
+## 47. Directions by the Secretary of State[^c-2f50fb854f4c1315746c033749095f7c]
 
 *Extent: E+W*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (6) References in this Part to the Secretary of State giving directions include references to the Secretary of State giving directions by varying existing directions.
 
-(7)[^key-fb0be4aa0518ab026cd74c97451154e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-fb0be4aa0518ab026cd74c97451154e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f50fb854f4c1315746c033749095f7c]: Commencement: S. 47 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-2f50fb854f4c1315746c033749095f7c]: Commencement: S. 47 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
 
-[^key-fb0be4aa0518ab026cd74c97451154e8]: Textual amendment: [S. 47(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/47/7) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/11) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-fb0be4aa0518ab026cd74c97451154e8]: Textual amendment: [S. 47(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/47/7) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/11) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

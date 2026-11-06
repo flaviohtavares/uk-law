@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Penalty for contravention of licence condition[^key-b5d7fed0b5c2a220c6b6d85c79fd9bde]
+## 39. Penalty for contravention of licence condition[^c-b5d7fed0b5c2a220c6b6d85c79fd9bde]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5d7fed0b5c2a220c6b6d85c79fd9bde]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2012/19/section/39) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-b5d7fed0b5c2a220c6b6d85c79fd9bde]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2012/19/section/39) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

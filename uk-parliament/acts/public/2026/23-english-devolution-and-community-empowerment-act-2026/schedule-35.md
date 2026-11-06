@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 35 — Local audit: registration bodies, registered providers and qualifications[^key-a4ca7905f84f96dddd2e0e377312f17f]
+## Schedule 35 — Local audit: registration bodies, registered providers and qualifications[^c-a4ca7905f84f96dddd2e0e377312f17f]
 
 *Extent: E+W*
 
 Section 90(2)
 
-[^key-a4ca7905f84f96dddd2e0e377312f17f]
+[^c-a4ca7905f84f96dddd2e0e377312f17f]
 
 In the Local Audit and Accountability Act 2014, after Schedule 1A (inserted by Schedule 34 to this Act) insert—
 
@@ -533,4 +533,4 @@ In the Local Audit and Accountability Act 2014, after Schedule 1A (inserted by S
 
 ## Annotations
 
-[^key-a4ca7905f84f96dddd2e0e377312f17f]: Commencement: Sch. 35 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-a4ca7905f84f96dddd2e0e377312f17f]: Commencement: Sch. 35 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

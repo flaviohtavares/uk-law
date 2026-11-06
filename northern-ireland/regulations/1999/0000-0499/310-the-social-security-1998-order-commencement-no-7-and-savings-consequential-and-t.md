@@ -38,13 +38,13 @@ Made
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 1(2) and (4) of the Social Security (Northern Ireland) Order 1998[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-a732f0f3fd5f18d20c0274b69e6ce7ea]
+## 1. Citation and interpretation[^c-a732f0f3fd5f18d20c0274b69e6ce7ea]
 
 (1) This Order may be cited as the Social Security (1998 Order) (Commencement No. 7 and Savings, Consequential and Transitional Provisions) Order (Northern Ireland) 1999.
 
 (2) In this Order “the Order” means the Social Security (Northern Ireland) Order 1998.
 
-## 2. Appointed day[^key-3cf6d602b1cb791df1d3ab774f06194e]
+## 2. Appointed day[^c-3cf6d602b1cb791df1d3ab774f06194e]
 
 (1) The day appointed for the coming into operation of—
 
@@ -59,11 +59,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (2) Paragraph 45 of Schedule 6 shall come into operation immediately before paragraph 3 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00003] comes into operation.
 
-## 3. Commencement[^key-b7cfcf12249cced949331150a83b12ad]
+## 3. Commencement[^c-b7cfcf12249cced949331150a83b12ad]
 
 This Article and Articles 4 to 15 shall come into operation on 5th July 1999.
 
-## 4. Savings[^key-db203ed050d4a14907c3f6a027c59385]
+## 4. Savings[^c-db203ed050d4a14907c3f6a027c59385]
 
 (1) Notwithstanding the coming into operation of Article 39(3) of the Order or regulation 59 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00004]—
 
@@ -77,11 +77,11 @@ shall continue to have effect with respect to any decision made before 1st April
 
 ## Consequential Amendments
 
-### 5. Amendment of the Social Security (Guardian’s Allowances) Regulations[^key-b2196331a27579aa3237af1b16a39306]
+### 5. Amendment of the Social Security (Guardian’s Allowances) Regulations[^c-b2196331a27579aa3237af1b16a39306]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-c8794b1bd6fe6174f556c653cc8f4c76]
+### 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-c8794b1bd6fe6174f556c653cc8f4c76]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1977[^f00006] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -99,7 +99,7 @@ shall continue to have effect with respect to any decision made before 1st April
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Workmen’s Compensation (Supplementation) Regulations[^key-fa53d00d47c00a4507e1fb557f78829f]
+### 8. Amendment of the Workmen’s Compensation (Supplementation) Regulations[^c-fa53d00d47c00a4507e1fb557f78829f]
 
 (1) The Workmen’s Compensation (Supplementation) Regulations (Northern Ireland) 1983[^f00012] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -171,7 +171,7 @@ shall continue to have effect with respect to any decision made before 1st April
 
 (7) For Schedule 2 (provisions of the Social Security Act or regulations applicable (with the necessary modifications) to these regulations) there shall be substituted the Schedule set out in Schedule 2 to this Order.
 
-### 9. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-d4d049d947b67dcca89b64d8be71f398]
+### 9. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-d4d049d947b67dcca89b64d8be71f398]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00020] shall be amended in accordance with paragraphs (2) to (16).
 
@@ -229,7 +229,7 @@ shall continue to have effect with respect to any decision made before 1st April
 
 .
 
-(10)[^key-478a83e9296b427d09ea65b4fda43d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-478a83e9296b427d09ea65b4fda43d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In regulation 25[^f00027] (further claims in respect of occupational deafness)—
 
@@ -240,11 +240,11 @@ shall continue to have effect with respect to any decision made before 1st April
 
   .
 
-(12)[^key-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-3a51e5ebf4624f71dd676414a4dfe15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In regulation 32(7) (assessment of extent of disablement and rate of disablement benefit payable in respect of occupational deafness)—
 
@@ -255,7 +255,7 @@ shall continue to have effect with respect to any decision made before 1st April
 
 ## Modifications
 
-### 10. Modification of the Social Security Benefit (Dependency) Regulations[^key-ee9fcd01117ef65d6a84682b4a357b9f]
+### 10. Modification of the Social Security Benefit (Dependency) Regulations[^c-ee9fcd01117ef65d6a84682b4a357b9f]
 
 The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00029] shall have effect in relation to any benefit mentioned in Article 2(1)(b)(i) to (iii) as if in regulation 2(1) (interpretation) for the definition of “the determining authority”[^f00030] there were substituted the following definition—
 
@@ -263,7 +263,7 @@ The Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f0
 
 .
 
-### 11. Modification of the Social Security (General Benefit) Regulations[^key-5714137c7b2b7ba790b388958759830e]
+### 11. Modification of the Social Security (General Benefit) Regulations[^c-5714137c7b2b7ba790b388958759830e]
 
 The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00031] shall have effect in relation to any benefit mentioned in Article 2(1)(b)(i) to (iii) as if—
 
@@ -276,7 +276,7 @@ The Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f0003
   - (i) in paragraphs (7) and (8)[^f00033] for “the medical appeal tribunal, the adjudicating medical practitioner or 2 or more adjudicating medical practitioners (as the case may be)” there were substituted “the Department or, as the case may be, an appeal tribunal”, and
   - (ii) paragraph (9) were omitted.
 
-### 12. Modification of the Social Security (Claims and Payments) Regulations[^key-c20870ce39e2d952490f456bbf63080d]
+### 12. Modification of the Social Security (Claims and Payments) Regulations[^c-c20870ce39e2d952490f456bbf63080d]
 
 The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00034] shall have effect in relation to any benefit mentioned in Article 2(1)(b)(i) to (iii) as if—
 
@@ -301,7 +301,7 @@ The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f
 
   were omitted.
 
-### 13. Modification of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-40238271f367198c14ebf9991cfe232f]
+### 13. Modification of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-40238271f367198c14ebf9991cfe232f]
 
 The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00036] shall have effect in relation to any benefit mentioned in Article 2(1)(b)(i) to (iii) as if—
 
@@ -327,7 +327,7 @@ The Social Security (Payments on account, Overpayments and Recovery) Regulations
 
 ## Transitional Provisions and Revocations
 
-### 14. Transitional provisions[^key-2a7ad620cfd3b07761df752870b2c948]
+### 14. Transitional provisions[^c-2a7ad620cfd3b07761df752870b2c948]
 
 (1) Any decision in relation to a relevant benefit which fell to be made, but was not made, by an adjudicating authority before 5th July 1999 shall be made by the Department.
 
@@ -440,7 +440,7 @@ shall be supplied by the Department to each party to the proceedings before that
 - “legally qualified panel member” has the same meaning as in regulation 1(2) of the Decisions and Appeals Regulations;
 - “relevant benefit” means any benefit mentioned in Article 2(1)(b)(i) to (iii).
 
-### 15. Revocations[^key-97920207fea133e04a4c9a2366b1cb5c]
+### 15. Revocations[^c-97920207fea133e04a4c9a2366b1cb5c]
 
 The Regulations specified in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -450,7 +450,7 @@ John O'Neill
 
 Assistant Secretary
 
-## SCHEDULE 1 — Provisions coming into operation on 5th July 1999[^key-121132cf05416a2d297d33a83bd0ae29]
+## SCHEDULE 1 — Provisions coming into operation on 5th July 1999[^c-121132cf05416a2d297d33a83bd0ae29]
 
 Article 2(b)
 
@@ -510,7 +510,7 @@ Article 2(b)
 | - paragraph 116 | Social security: amendments following certain orders |
 | The following repeals in Schedule 7 and Article 78(2) in so far as it relates to them—<br>- the Social Security Administration (Northern Ireland) Act 1992[^f00046], section 144(5)(a)<br>- the Pension Schemes (Northern Ireland) Act 1993[^f00047], section 163(4) | Repeals |
 
-## SCHEDULE 2[^key-851e8310d6c62423a5dbebe01f1f6b30]
+## SCHEDULE 2[^c-851e8310d6c62423a5dbebe01f1f6b30]
 
 Article 8(7)
 
@@ -588,7 +588,7 @@ Article 8(7)
 > | Regulation 32 | Provisions common to regulations 30 and 31 |
 > | Regulation 33 | Applications to a Commissioner for leave to appeal to the Appellate Court |
 
-## SCHEDULE 3 — Regulations revoked[^key-b3dd102541d43815e653a03ced53398c]
+## SCHEDULE 3 — Regulations revoked[^c-b3dd102541d43815e653a03ced53398c]
 
 Article 15
 
@@ -656,23 +656,23 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00001]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-a732f0f3fd5f18d20c0274b69e6ce7ea]: Commencement: Art. 1 in operation at made date
+[^c-a732f0f3fd5f18d20c0274b69e6ce7ea]: Commencement: Art. 1 in operation at made date
 
-[^key-3cf6d602b1cb791df1d3ab774f06194e]: Commencement: Art. 2 in operation at made date
+[^c-3cf6d602b1cb791df1d3ab774f06194e]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 165 is substituted by paragraph 99 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and amended by Article 15(2) of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
 [^f00003]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)
 
-[^key-b7cfcf12249cced949331150a83b12ad]: Commencement: Art. 3 in operation at made date
+[^c-b7cfcf12249cced949331150a83b12ad]: Commencement: Art. 3 in operation at made date
 
-[^key-db203ed050d4a14907c3f6a027c59385]: Commencement: Art. 4 in operation at made date
+[^c-db203ed050d4a14907c3f6a027c59385]: Commencement: Art. 4 in operation at made date
 
 [^f00004]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
-[^key-b2196331a27579aa3237af1b16a39306]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/nisr/1999/310/article/5) revoked (7.4.2003 immediately after the commencement of 2002 c. 21, s. 49) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)
+[^c-b2196331a27579aa3237af1b16a39306]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/nisr/1999/310/article/5) revoked (7.4.2003 immediately after the commencement of 2002 c. 21, s. 49) by [The Guardian’s Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [reg. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/2)
 
-[^key-c8794b1bd6fe6174f556c653cc8f4c76]: Commencement: Art. 6 in operation at made date
+[^c-c8794b1bd6fe6174f556c653cc8f4c76]: Commencement: Art. 6 in operation at made date
 
 [^f00006]: Footnote: [S.R. 1977 No. 351](https://www.legislation.gov.uk/nisr/1977/351); relevant amending regulations are [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
@@ -682,7 +682,7 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^M_F_32f609ac-4f35-48e0-f16b-71d980b992d0]: Textual amendment: Reg. 7 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1](https://www.legislation.gov.uk/uksi/2003/493/part/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/2)
 
-[^key-fa53d00d47c00a4507e1fb557f78829f]: Commencement: Art. 8 in operation at made date
+[^c-fa53d00d47c00a4507e1fb557f78829f]: Commencement: Art. 8 in operation at made date
 
 [^f00012]: Footnote: [S.R. 1983 No. 101](https://www.legislation.gov.uk/nisr/1983/101); relevant amending regulations are [S.R. 1990 No. 445](https://www.legislation.gov.uk/nisr/1990/445). See also Article 3 of the Social Security Adjudications (Northern Ireland) Order 1983 ([S.I. 1983/1524 (N.I. 17)](https://www.legislation.gov.uk/nisi/1983/1524))
 
@@ -700,7 +700,7 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00019]: Footnote: [S.R. 1977 No. 273](https://www.legislation.gov.uk/nisr/1977/273)
 
-[^key-d4d049d947b67dcca89b64d8be71f398]: Commencement: Art. 9 in operation at made date
+[^c-d4d049d947b67dcca89b64d8be71f398]: Commencement: Art. 9 in operation at made date
 
 [^f00020]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending regulations are [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340), [S.R. 1989 No. 319](https://www.legislation.gov.uk/nisr/1989/319) and [S.R. 1993 No. 168](https://www.legislation.gov.uk/nisr/1993/168)
 
@@ -716,19 +716,19 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00026]: Footnote: Regulation 21 was amended by regulation 6(3) of [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340) and regulation 2(4) of [S.R. 1993 No. 168](https://www.legislation.gov.uk/nisr/1993/168)
 
-[^key-478a83e9296b427d09ea65b4fda43d34]: Textual amendment: [Art. 9(10)](https://www.legislation.gov.uk/nisr/1999/310/article/9/10) revoked (14.3.2005) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/37)](https://www.legislation.gov.uk/nisr/2005/37), [regs. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1), [4](https://www.legislation.gov.uk/nisr/2005/37/regulation/4)
+[^c-478a83e9296b427d09ea65b4fda43d34]: Textual amendment: [Art. 9(10)](https://www.legislation.gov.uk/nisr/1999/310/article/9/10) revoked (14.3.2005) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/37)](https://www.legislation.gov.uk/nisr/2005/37), [regs. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1), [4](https://www.legislation.gov.uk/nisr/2005/37/regulation/4)
 
 [^f00027]: Footnote: Regulation 25 was amended by regulation 2(5) of [S.R. 1993 No. 168](https://www.legislation.gov.uk/nisr/1993/168)
 
-[^key-3a51e5ebf4624f71dd676414a4dfe15a]: Textual amendment: [Art. 9(12)-(14)](https://www.legislation.gov.uk/nisr/1999/310/article/9/12) revoked (22.9.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/388)](https://www.legislation.gov.uk/nisr/2003/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/388/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2003/388/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2003/388/schedule)
+[^c-3a51e5ebf4624f71dd676414a4dfe15a]: Textual amendment: [Art. 9(12)-(14)](https://www.legislation.gov.uk/nisr/1999/310/article/9/12) revoked (22.9.2003) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/388)](https://www.legislation.gov.uk/nisr/2003/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/388/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2003/388/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2003/388/schedule)
 
-[^key-ee9fcd01117ef65d6a84682b4a357b9f]: Commencement: Art. 10 in operation at made date
+[^c-ee9fcd01117ef65d6a84682b4a357b9f]: Commencement: Art. 10 in operation at made date
 
 [^f00029]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending regulations are [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
 [^f00030]: Footnote: The definition of “the determining authority” was substituted by regulation 8 of [S.R. 1984 No.174](https://www.legislation.gov.uk/nisr/1984/174)
 
-[^key-5714137c7b2b7ba790b388958759830e]: Commencement: Art. 11 in operation at made date
+[^c-5714137c7b2b7ba790b388958759830e]: Commencement: Art. 11 in operation at made date
 
 [^f00031]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174) and [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
@@ -736,19 +736,19 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00033]: Footnote: Paragraphs (7) and (8) were amended and paragraph (9) was added by regulation 26(c) of [S.R. 1984 No. 174](https://www.legislation.gov.uk/nisr/1984/174)
 
-[^key-c20870ce39e2d952490f456bbf63080d]: Commencement: Art. 12 in operation at made date
+[^c-c20870ce39e2d952490f456bbf63080d]: Commencement: Art. 12 in operation at made date
 
 [^f00034]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7) and [83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345) and [484](https://www.legislation.gov.uk/nisr/1994/484), [S.R. 1996 Nos. 85](https://www.legislation.gov.uk/nisr/1996/85), [354](https://www.legislation.gov.uk/nisr/1996/354) and [432](https://www.legislation.gov.uk/nisr/1996/432) and [S.R. 1998 No. 241](https://www.legislation.gov.uk/nisr/1998/241)
 
 [^f00035]: Footnote: The definition of “the Jobseekers Order” was inserted by regulation 2(2)(a) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-40238271f367198c14ebf9991cfe232f]: Commencement: Art. 13 in operation at made date
+[^c-40238271f367198c14ebf9991cfe232f]: Commencement: Art. 13 in operation at made date
 
 [^f00036]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
 [^f00037]: Footnote: The definition of “adjudicating authority” was amended by regulation 14(2)(a) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
-[^key-2a7ad620cfd3b07761df752870b2c948]: Commencement: Art. 14 in operation at made date
+[^c-2a7ad620cfd3b07761df752870b2c948]: Commencement: Art. 14 in operation at made date
 
 [^f00038]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
@@ -762,9 +762,9 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00043]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)
 
-[^key-97920207fea133e04a4c9a2366b1cb5c]: Commencement: Art. 15 in operation at made date
+[^c-97920207fea133e04a4c9a2366b1cb5c]: Commencement: Art. 15 in operation at made date
 
-[^key-121132cf05416a2d297d33a83bd0ae29]: Commencement: Sch. 1 in operation at made date
+[^c-121132cf05416a2d297d33a83bd0ae29]: Commencement: Sch. 1 in operation at made date
 
 [^f00044]: Footnote: Articles 9, 11, 13, 14, 18, 28 and 39 were amended, respectively, by paragraphs 16, 17, 19, 20, 23, 28 and 29 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
@@ -774,10 +774,10 @@ The following provisions of the Social Security (Northern Ireland) Order 1998 ha
 
 [^f00047]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-851e8310d6c62423a5dbebe01f1f6b30]: Commencement: Sch. 2 in operation at made date
+[^c-851e8310d6c62423a5dbebe01f1f6b30]: Commencement: Sch. 2 in operation at made date
 
 [^f00048]: Footnote: Regulation 20A was inserted by regulation 2(4) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484) and amended by regulation 2(2) of [S.R. 1996 No. 85](https://www.legislation.gov.uk/nisr/1996/85)
 
 [^f00049]: Footnote: Regulation 46 was substituted by regulation 2(8) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
 
-[^key-b3dd102541d43815e653a03ced53398c]: Commencement: Sch. 3 in operation at made date
+[^c-b3dd102541d43815e653a03ced53398c]: Commencement: Sch. 3 in operation at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88D. Statement of policy under s.88C: procedure[^key-97f4d52f4b7dd18d4c497ea788a0141e]
+## 88D. Statement of policy under s.88C: procedure[^c-97f4d52f4b7dd18d4c497ea788a0141e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97f4d52f4b7dd18d4c497ea788a0141e]: Textual amendment: Ss. 88A-88F substituted for s. 89 (24.1.2013 for specified purposes, 19.3.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/18/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule); [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)
+[^c-97f4d52f4b7dd18d4c497ea788a0141e]: Textual amendment: Ss. 88A-88F substituted for s. 89 (24.1.2013 for specified purposes, 19.3.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/18/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule); [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)

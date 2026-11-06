@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Procedure if employer receives Form P45[^key-7d63b290ae5e29ead765304c3be7d20a]
+## 11. Procedure if employer receives Form P45[^c-7d63b290ae5e29ead765304c3be7d20a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ After regulation 42(6) (procedure if employer receives Form P45) insert—
 
 ## Annotations
 
-[^key-7d63b290ae5e29ead765304c3be7d20a]: Commencement: Reg. 11 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-7d63b290ae5e29ead765304c3be7d20a]: Commencement: Reg. 11 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

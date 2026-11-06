@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Insolvency, etc., of producers[^key-93169ffb8dbb67ba67be2be8f35a379f]
+## 27. Insolvency, etc., of producers[^c-93169ffb8dbb67ba67be2be8f35a379f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93169ffb8dbb67ba67be2be8f35a379f]: Commencement: Reg. 27 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-93169ffb8dbb67ba67be2be8f35a379f]: Commencement: Reg. 27 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Specific types of access-related conditions[^key-2c115ec9880bf13b8a7a01835cde897c][^key-b7bf4ae2120bd7be188fbbe2833fece6]
+## 74. Specific types of access-related conditions[^c-2c115ec9880bf13b8a7a01835cde897c][^c-b7bf4ae2120bd7be188fbbe2833fece6]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) impose obligations on a person controlling network access to any of those networks; and
 - (b) require the interconnection of the networks.
 
-(1A)[^key-1a2c3139209e3b7d1919caf6f12361ed] The conditions that may be set by virtue of section 73(2) also include conditions which impose such obligations on a person controlling network access to customers as OFCOM consider necessary for the purpose of securing service interoperability.
+(1A)[^c-1a2c3139209e3b7d1919caf6f12361ed] The conditions that may be set by virtue of section 73(2) also include conditions which impose such obligations on a person controlling network access to customers as OFCOM consider necessary for the purpose of securing service interoperability.
 
 (2) The conditions that may be set by virtue of section 73(2) also include such conditions imposing obligations on a person providing facilities for the use of application programme interfaces or electronic programme guides as OFCOM consider to be necessary for securing—
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) are fair and reasonable; and
   - (ii) do not involve, or tend to give rise to, any undue discrimination against any person or description of persons.
 
-(2A)[^key-be999205fbfa64f9ce6b3a38a6fb9394] The conditions that may be set by virtue of section 73(2) also include conditions imposing on a person who provides an electronic communications network that includes a line or associated facility to which this subsection applies, or who owns such a line or associated facility, obligations for the purposes of giving to other persons such entitlements as OFCOM may from time to time direct as respects the availability and use of the line or associated facility in cases where OFCOM are satisfied that it would be economically inefficient or physically impracticable for those other persons to replicate the line or associated facility.
+(2A)[^c-be999205fbfa64f9ce6b3a38a6fb9394] The conditions that may be set by virtue of section 73(2) also include conditions imposing on a person who provides an electronic communications network that includes a line or associated facility to which this subsection applies, or who owns such a line or associated facility, obligations for the purposes of giving to other persons such entitlements as OFCOM may from time to time direct as respects the availability and use of the line or associated facility in cases where OFCOM are satisfied that it would be economically inefficient or physically impracticable for those other persons to replicate the line or associated facility.
 
 (2B) Subsection (2A) applies—
 
@@ -68,7 +68,7 @@ summary: ''
 - “**end-to-end connectivity**” means the facility—
   - (a) for different end-users of the same public electronic communications service to be able to communicate with each other; and
   - (b) for the end-users of different such services to be able, each using the service of which he is the end-user, to communicate with each other.
-- “line” means any wire, cable, tube, pipe or similar thing (including its casing or coating) which is designed or adapted for use in connection with the provision of any electronic communications network or electronic communications service.[^key-907565ebc3d5819a447609b8ccf8c48f]
+- “line” means any wire, cable, tube, pipe or similar thing (including its casing or coating) which is designed or adapted for use in connection with the provision of any electronic communications network or electronic communications service.[^c-907565ebc3d5819a447609b8ccf8c48f]
 
 (4) The matters mentioned in subsection (3), in the definition of “application programme interface”, are—
 
@@ -80,12 +80,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2c115ec9880bf13b8a7a01835cde897c]: Commencement: S. 74 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-2c115ec9880bf13b8a7a01835cde897c]: Commencement: S. 74 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-b7bf4ae2120bd7be188fbbe2833fece6]: Commencement: S. 74 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b7bf4ae2120bd7be188fbbe2833fece6]: Commencement: S. 74 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1a2c3139209e3b7d1919caf6f12361ed]: Textual amendment: S. 74(1A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/39) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-1a2c3139209e3b7d1919caf6f12361ed]: Textual amendment: S. 74(1A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/39) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-be999205fbfa64f9ce6b3a38a6fb9394]: Textual amendment: S. 74(2A)-(2D) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/31/2)
+[^c-be999205fbfa64f9ce6b3a38a6fb9394]: Textual amendment: S. 74(2A)-(2D) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 31(2)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/31/2)
 
-[^key-907565ebc3d5819a447609b8ccf8c48f]: Textual amendment: Words in s. 74(3) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 31(3)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/31/3)
+[^c-907565ebc3d5819a447609b8ccf8c48f]: Textual amendment: Words in s. 74(3) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 31(3)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/31/3)

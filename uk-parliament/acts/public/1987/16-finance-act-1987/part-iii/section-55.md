@@ -24,7 +24,7 @@ summary: ''
 
 - (a)[^c11286881] to a Minister of the Crown or
 - (b)[^c11286891] to the solicitor for the affairs of Her Majesty’s Treasury, or[^c11286901]
-- (c)[^c11286911] to the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government or the National Assembly for Wales Commission[^key-efc5f0630c359f3914bec8e1055c39c5],or[^c11286921]
+- (c)[^c11286911] to the Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh Assembly Government or the National Assembly for Wales Commission[^c-efc5f0630c359f3914bec8e1055c39c5],or[^c11286921]
 - (d) to the Northern Ireland Assembly Commission
 
 no stamp duty shall be chargeable under Part I or[^c11286931] II, paragraph 16, of Schedule 13 to the Finance Act 1999 on the instrument by which the conveyance, transfer or lease, or the agreement for it is effected.
@@ -47,7 +47,7 @@ no stamp duty shall be chargeable under Part I or[^c11286931] II, paragraph 16, 
 
 [^c11286911]: Textual amendment: S. 55(1): words re-numbered as sub-paragraph (c) (*retrospective* to 28.3.2000 with effect as mentioned in [s. 132(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/132/4) of the amending Act) by virtue of [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 132(2)(c)](https://www.legislation.gov.uk/ukpga/2000/17/section/132/2/c)
 
-[^key-efc5f0630c359f3914bec8e1055c39c5]: Textual amendment: Words in s. 55(1)(c) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 20 (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-efc5f0630c359f3914bec8e1055c39c5]: Textual amendment: Words in s. 55(1)(c) inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 160, Sch. 10 para. 20 (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
 [^c11286921]: Textual amendment: S. 55(1)(d) and the word “or”immediately preceding it inserted (*retrospective* to 28.3.2000 with effect as mentioned in [s. 132(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/132/4) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 132(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/132/3)
 

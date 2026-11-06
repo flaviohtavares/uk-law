@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-c346930d5a2dd1ecca7ac8445fcba2d8] For purposes of this Act, unless the context otherwise requires,—
+(1)[^c-c346930d5a2dd1ecca7ac8445fcba2d8] For purposes of this Act, unless the context otherwise requires,—
 
 - “**basic rate**” means the annual rate of a pension apart from any increase under or by reference to this Act or any enactment repealed by this Act, or any corresponding increase made otherwise than under or by reference to this Act or an enactment repealed by it but including any increase in the said annual rate in consequence of the[^c8664261] [^c8664271]Pensions (Increase) Act 1974 ;
 - “[^c8664281] **derivative pension** ” means a pension which—
@@ -43,8 +43,8 @@ summary: ''
 but does not include any pension the rate of which is periodically recalculated by reference to the rate of the salary which the pensioner could reasonably be expected to have received had he not sustained the injury or contracted the disease in question;
 
 - “**substituted pension**” means a pension granted in consideration of the surrender of the whole or part of another pension (“the original pension”);
-- “ **widow’s pension** ” means a pension payable to a woman *(Extent: E+W)*[^key-387df4a090ecba505b199a6c3f96fe6e]—
-  - (a) in respect of the services of the pensioner’s deceased male spouse *(Extent: E+W)*[^key-f8614ce1022b6383bd1c824e4c9b3d73], or
+- “ **widow’s pension** ” means a pension payable to a woman *(Extent: E+W)*[^c-387df4a090ecba505b199a6c3f96fe6e]—
+  - (a) in respect of the services of the pensioner’s deceased male spouse *(Extent: E+W)*[^c-f8614ce1022b6383bd1c824e4c9b3d73], or
   - (b) by virtue of the pensioner’s deceased male spouse *(Extent: E+W)* having become entitled to a pension credit.
 
 (2) References in this Act to an enactment include an enactment in a local Act and a provisional order confirmed by Parliament.
@@ -53,7 +53,7 @@ but does not include any pension the rate of which is periodically recalculated 
 
 ## Annotations
 
-[^key-c346930d5a2dd1ecca7ac8445fcba2d8]: Modification: S. 17(1) amendment by S.I. 2014/560, Sch. 3 para. 1(3) extended to N.I. (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c346930d5a2dd1ecca7ac8445fcba2d8]: Modification: S. 17(1) amendment by S.I. 2014/560, Sch. 3 para. 1(3) extended to N.I. (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [149(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/149/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c8664261]: Textual amendment: Words inserted by [Pensions (Increase) Act 1974 (c. 9)](https://www.legislation.gov.uk/ukpga/1974/9) , [s. 1(3)](https://www.legislation.gov.uk/ukpga/1974/9/section/1/3)
 
@@ -69,6 +69,6 @@ but does not include any pension the rate of which is periodically recalculated 
 
 [^c8664321]: Textual amendment: Definition inserted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7) , [s. 1(6)](https://www.legislation.gov.uk/ukpga/1990/7/section/1/6)
 
-[^key-387df4a090ecba505b199a6c3f96fe6e]: Textual amendment: Words in s. 17(1) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2) , [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/1/3/a) ; (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2) , [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/1/3/a)
+[^c-387df4a090ecba505b199a6c3f96fe6e]: Textual amendment: Words in s. 17(1) inserted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2) , [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/1/3/a) ; (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2) , [Sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/1/3/a)
 
-[^key-f8614ce1022b6383bd1c824e4c9b3d73]: Textual amendment: Words in s. 17(1) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2) , [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/1/3/b) ; (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2) , [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/1/3/b)
+[^c-f8614ce1022b6383bd1c824e4c9b3d73]: Textual amendment: Words in s. 17(1) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2) , [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/3/paragraph/1/3/b) ; (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2) , [Sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/3/paragraph/1/3/b)

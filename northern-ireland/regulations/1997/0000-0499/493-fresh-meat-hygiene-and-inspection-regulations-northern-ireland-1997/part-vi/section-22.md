@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Supervision and enforcement[^key-1cda715c501a4e214eeed22ef7fccce3]
+## 22. Supervision and enforcement[^c-1cda715c501a4e214eeed22ef7fccce3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations shall be enforced and executed by the Department.
 
 ## Annotations
 
-[^key-1cda715c501a4e214eeed22ef7fccce3]: Commencement: Reg. 22 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-1cda715c501a4e214eeed22ef7fccce3]: Commencement: Reg. 22 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

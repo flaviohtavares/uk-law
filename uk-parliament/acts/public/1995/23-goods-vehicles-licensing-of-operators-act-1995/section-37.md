@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) An applicant for, or for the variation of, an operator’s licence may appeal to the Upper Tribunal[^key-f7ee66e07230a5b79f00b1424610d182] against the refusal of the application or (as the case may be) against the terms of the licence or of the variation.
+(1) An applicant for, or for the variation of, an operator’s licence may appeal to the Upper Tribunal[^c-f7ee66e07230a5b79f00b1424610d182] against the refusal of the application or (as the case may be) against the terms of the licence or of the variation.
 
-(2) The holder of an operator’s licence may appeal to the Upper Tribunal[^key-315e9892fa22d8188d05bacaa4ea4336] against any direction given under section 5(9), 26(1) or (2), 27(1), 31 or 32 in respect of the licence.
+(2) The holder of an operator’s licence may appeal to the Upper Tribunal[^c-315e9892fa22d8188d05bacaa4ea4336] against any direction given under section 5(9), 26(1) or (2), 27(1), 31 or 32 in respect of the licence.
 
 (3) The holder of an operator’s licence may appeal to the Upper Tribunal against any order made under section 26(6) on the suspension or curtailment of the licence.
 
@@ -33,7 +33,7 @@ summary: ''
 (6) A person who—
 
 - (a) within the prescribed period has made an application for a review under section 36, and
-- (b) has been certified by a traffic commissioner[^key-498826dc9e7a51967955c754a874544f] as a person such as is mentioned in subsection (2)(b) of that section,
+- (b) has been certified by a traffic commissioner[^c-498826dc9e7a51967955c754a874544f] as a person such as is mentioned in subsection (2)(b) of that section,
 
 may appeal to the Upper Tribunal against the refusal of the application.
 
@@ -41,8 +41,8 @@ may appeal to the Upper Tribunal against the refusal of the application.
 
 ## Annotations
 
-[^key-f7ee66e07230a5b79f00b1424610d182]: Textual amendment: Words in s. 37(1) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/22/a)
+[^c-f7ee66e07230a5b79f00b1424610d182]: Textual amendment: Words in s. 37(1) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 22(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/22/a)
 
-[^key-315e9892fa22d8188d05bacaa4ea4336]: Textual amendment: Words in s. 37(2)-(6) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/22/b)
+[^c-315e9892fa22d8188d05bacaa4ea4336]: Textual amendment: Words in s. 37(2)-(6) substituted (1.9.2009) by [Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/22/b)
 
-[^key-498826dc9e7a51967955c754a874544f]: Textual amendment: Words in s. 37(6)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-498826dc9e7a51967955c754a874544f]: Textual amendment: Words in s. 37(6)(b) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

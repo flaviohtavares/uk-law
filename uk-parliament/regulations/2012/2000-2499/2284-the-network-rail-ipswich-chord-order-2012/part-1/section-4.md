@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Disapplication of legislative provisions[^key-18878b0ddd6b04096c4579772f602995]
+## 4. Disapplication of legislative provisions[^c-18878b0ddd6b04096c4579772f602995]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ The following provisions do not apply in relation to the construction of works c
 
 ## Annotations
 
-[^key-18878b0ddd6b04096c4579772f602995]: Commencement: Art. 4 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-18878b0ddd6b04096c4579772f602995]: Commencement: Art. 4 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00013]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 106 was amended by the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), sections 36(2) and 99 subject to the transitional provisions contained in article 6 of, and Schedule 3 to, [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641). There are other amendments to section 106 which are not relevant to this Order.
 

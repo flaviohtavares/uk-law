@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, extent and commencement[^key-0ec9933bfd073f40e8475daf464a2e98]
+## 1. Citation, extent and commencement[^c-0ec9933bfd073f40e8475daf464a2e98]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ec9933bfd073f40e8475daf464a2e98]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/255/regulation/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-0ec9933bfd073f40e8475daf464a2e98]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/255/regulation/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

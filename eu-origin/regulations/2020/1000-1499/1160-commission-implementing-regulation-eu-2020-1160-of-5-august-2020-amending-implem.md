@@ -35,22 +35,22 @@ amending Implementing Regulation (EU) No 540/2011 as regards the extension of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-c23fcf6d1af2762cd19e5b31d70cfe76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c23fcf6d1af2762cd19e5b31d70cfe76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c23fcf6d1af2762cd19e5b31d70cfe76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c23fcf6d1af2762cd19e5b31d70cfe76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c23fcf6d1af2762cd19e5b31d70cfe76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c23fcf6d1af2762cd19e5b31d70cfe76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c23fcf6d1af2762cd19e5b31d70cfe76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c23fcf6d1af2762cd19e5b31d70cfe76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c23fcf6d1af2762cd19e5b31d70cfe76]
+## ANNEX[^c-c23fcf6d1af2762cd19e5b31d70cfe76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c23fcf6d1af2762cd19e5b31d70cfe76]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-c23fcf6d1af2762cd19e5b31d70cfe76]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

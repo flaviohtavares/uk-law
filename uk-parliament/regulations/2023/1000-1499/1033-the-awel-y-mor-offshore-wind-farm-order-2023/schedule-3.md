@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Streets subject to street works[^key-07d0c63c41d7bd7749955649345e08e6]
+## SCHEDULE 3 — Streets subject to street works[^c-07d0c63c41d7bd7749955649345e08e6]
 
 *Extent: E+W*
 
 Article 9
 
-[^key-07d0c63c41d7bd7749955649345e08e6]
+[^c-07d0c63c41d7bd7749955649345e08e6]
 
 In the County of Denbighshire:
 
@@ -49,4 +49,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-07d0c63c41d7bd7749955649345e08e6]: Commencement: Sch. 3 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-07d0c63c41d7bd7749955649345e08e6]: Commencement: Sch. 3 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

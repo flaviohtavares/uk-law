@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-d8805c680e331de3ffdd6fdeca8227fc]
+## 4. Purposes[^c-d8805c680e331de3ffdd6fdeca8227fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ otherwise than by compliance with the relevant UN obligations.
   - (ii) owned or controlled by,
 
   the persons for the time being named by the Security Council or the Committee for the purposes of paragraph 32 of resolution 2134;
-- (c) the obligations that the United Kingdom has by virtue of paragraph 2 of resolution 2745[^key-36bf738f1b919dd0832113eaba661470] (arms embargo) [^c24162871].
+- (c) the obligations that the United Kingdom has by virtue of paragraph 2 of resolution 2745[^c-36bf738f1b919dd0832113eaba661470] (arms embargo) [^c24162871].
 
 (4) Any reference to the obligations that the United Kingdom has by virtue of paragraph 32 of resolution 2134 (asset-freeze etc.) is to that provision read with—
 
@@ -63,20 +63,20 @@ otherwise than by compliance with the relevant UN obligations.
 - (c) paragraphs 12 and 13 of resolution 2262;
 - (d) paragraphs 16 and 17 of resolution 2339;
 - (e) paragraphs 20 and 21 of resolution 2399;
-- (f) paragraph 2 of resolution 2454; [^key-7c177b270d1809fdcbaa7540049a076a]...
+- (f) paragraph 2 of resolution 2454; [^c-7c177b270d1809fdcbaa7540049a076a]...
 - (g) paragraph 5 of resolution 2507;
-- (h)[^key-04cc589495d72feae8e9b62f5a47d770] paragraph 5 of resolution 2536;
+- (h)[^c-04cc589495d72feae8e9b62f5a47d770] paragraph 5 of resolution 2536;
 - (i) paragraph 5 of resolution 2588;
 - (j) paragraph 5 of resolution 2648;
 - (k) paragraph 5 of resolution 2693;
 - (l) paragraph 5 of resolution 2745; and
 - (m) paragraph 1 of resolution 2789.
 
-(5)[^key-a962a7fce9bad2ee0227c08736e7025f] Any reference to the obligations that the United Kingdom has by virtue of paragraph 2 of resolution 2745 (arms embargo) is to that provision read with paragraph 1 of resolution 2789.
+(5)[^c-a962a7fce9bad2ee0227c08736e7025f] Any reference to the obligations that the United Kingdom has by virtue of paragraph 2 of resolution 2745 (arms embargo) is to that provision read with paragraph 1 of resolution 2789.
 
 ## Annotations
 
-[^key-d8805c680e331de3ffdd6fdeca8227fc]: Commencement: Reg. 4 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
+[^c-d8805c680e331de3ffdd6fdeca8227fc]: Commencement: Reg. 4 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/1)
 
 [^c24162811]: Marginal citation: The Political Agreement for Peace and Reconciliation in the Central African Republic between the Central African Republic authorities and 14 armed groups done in Bangui on 6 February 2019. A copy of the Agreement is available online at: https://www.peaceagreements.org/masterdocument/2147.
 
@@ -90,12 +90,12 @@ otherwise than by compliance with the relevant UN obligations.
 
 [^c24162861]: Marginal citation: “Person” is defined by section 9(5) of the Sanctions and Anti-Money Laundering Act 2018 to include (in addition to an individual and a body of persons corporate or unincorporate) any organisation and any association or combination of persons.
 
-[^key-36bf738f1b919dd0832113eaba661470]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/3/c) substituted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/a)
+[^c-36bf738f1b919dd0832113eaba661470]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/3/c) substituted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/a)
 
 [^c24162871]: Marginal citation: The arms embargo measures provided for in paragraph 54 of resolution 2127 have been renewed and amended by paragraph 40 of resolution 2134 (2014) adopted by the Security Council on 28 January 2014, paragraph 1 of resolution 2196 (2015) adopted by the Security Council on 22 January 2015, paragraph 1 of resolution 2262 (2016) adopted by the Security Council on 27 January 2016, paragraph 1 of resolution 2339 (2017) adopted by the Security Council on 27 January 2017, paragraph 1 of resolution 2399 (2018) adopted by the Security Council on 30 January 2018, paragraph 2 of resolution 2488 (2019) adopted by the Security Council on 12 September 2019, paragraph 1 of resolution 2454 (2019) adopted by the Security Council on 31 January 2019 and paragraph 1 of resolution 2507 adopted by the Security Council on 31 January 2020.
 
-[^key-7c177b270d1809fdcbaa7540049a076a]: Textual amendment: Word in [reg. 4(4)(f)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/4/f) omitted (6.1.2026) by virtue of [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/b)
+[^c-7c177b270d1809fdcbaa7540049a076a]: Textual amendment: Word in [reg. 4(4)(f)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/4/f) omitted (6.1.2026) by virtue of [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/b)
 
-[^key-04cc589495d72feae8e9b62f5a47d770]: Textual amendment: [Regs. 4(h)-(m)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/h) inserted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/c)
+[^c-04cc589495d72feae8e9b62f5a47d770]: Textual amendment: [Regs. 4(h)-(m)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/h) inserted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/c)
 
-[^key-a962a7fce9bad2ee0227c08736e7025f]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/5) inserted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/d)
+[^c-a962a7fce9bad2ee0227c08736e7025f]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/616/regulation/4/5) inserted (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/3/d)

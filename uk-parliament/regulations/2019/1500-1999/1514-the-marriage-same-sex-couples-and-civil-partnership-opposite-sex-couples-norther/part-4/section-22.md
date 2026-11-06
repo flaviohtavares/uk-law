@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Registration of births[^key-77471ab4d641b8988b2f3c692bf50281]
+## 22. Registration of births[^c-77471ab4d641b8988b2f3c692bf50281]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-77471ab4d641b8988b2f3c692bf50281]: Commencement: Reg. 22 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-77471ab4d641b8988b2f3c692bf50281]: Commencement: Reg. 22 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 1976/1041 (N.I. 14)](https://www.legislation.gov.uk/nisi/1976/1041).
 

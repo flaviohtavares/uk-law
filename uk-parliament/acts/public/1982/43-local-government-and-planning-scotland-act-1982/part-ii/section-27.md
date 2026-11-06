@@ -25,7 +25,7 @@ summary: ''
 - (a) provide in any such market or market buildings—
   - (i) stalls or stands;
   - (ii) warehouses, offices, shops or stores; and
-  - (iii) premises for supplying food and refreshments (including alcohol, within the meaning given by section 2 of the Licensing (Scotland) Act 2005[^key-e2af94ff326a2e55e7c87350b75d23a0]);
+  - (iii) premises for supplying food and refreshments (including alcohol, within the meaning given by section 2 of the Licensing (Scotland) Act 2005[^c-e2af94ff326a2e55e7c87350b75d23a0]);
 - (b) impose—
   - (i) such conditions for the use of the market or market buildings by stallholders or other persons as the authority[^c794938] consider appropriate; and
   - (ii) such charges in relation to such use or for entrance to the market or market buildings as will be sufficient to meet the expenses of the authority in carrying out their functions under this section;
@@ -47,7 +47,7 @@ summary: ''
 
 [^c794937]: Textual amendment: Words in s. 27(1) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 128(11)(a)(i)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/128/11/a/i); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
-[^key-e2af94ff326a2e55e7c87350b75d23a0]: Textual amendment: Words in [s. 27(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1982/43/section/27/1/a/iii) substituted (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-e2af94ff326a2e55e7c87350b75d23a0]: Textual amendment: Words in [s. 27(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1982/43/section/27/1/a/iii) substituted (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
 [^c794938]: Textual amendment: Words in s. 27(1)(b)(i) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 128(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/128/11/a/ii); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 

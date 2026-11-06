@@ -756,7 +756,7 @@ Section 296
 
 #### Initial transfer of assets to trustees of unit trust scheme
 
-**18.**[^key-fc2d93ac02b39c1d502b3a8c9997ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-fc2d93ac02b39c1d502b3a8c9997ad39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Return or further return in consequence of later linked transaction
 
@@ -1407,4 +1407,4 @@ Section 296
 
 [^c22565081]: Textual amendment: Sch. 39 para. 11 repealed (with effect in accordance with Sch. 39 para. 26 of the repealing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 4(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/4/2)
 
-[^key-fc2d93ac02b39c1d502b3a8c9997ad39]: Textual amendment: [Sch. 39 para. 18](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/18) repealed (with effect in accordance with Sch. 26 Pt. 7(3) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 7(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/7/3)
+[^c-fc2d93ac02b39c1d502b3a8c9997ad39]: Textual amendment: [Sch. 39 para. 18](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/18) repealed (with effect in accordance with Sch. 26 Pt. 7(3) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 7(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/7/3)

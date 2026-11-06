@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Application of the 1991 Act[^key-294378c0c10b738c59839b1c50a70a81]
+## 9. Application of the 1991 Act[^c-294378c0c10b738c59839b1c50a70a81]
 
 *Extent: E+W+S*
 
 (1) The provisions of the 1991 Act mentioned in paragraph (2) that apply in relation to the carrying out of street works under that Act and any regulations made or code of practice issued or approved under those provisions apply (with all necessary modifications) in relation to—
 
 - (a) the carrying out of works under article 8 (street works); and
-- (b) the temporary closure, temporary alteration or temporary diversion of a street by the undertaker under article 10 (temporary closure and restriction of streets and public rights of way)[^key-f0c978c68009c2d37cd57f9f7d793758],
+- (b) the temporary closure, temporary alteration or temporary diversion of a street by the undertaker under article 10 (temporary closure and restriction of streets and public rights of way)[^c-f0c978c68009c2d37cd57f9f7d793758],
 
 whether or not the carrying out of the works or the closure, alteration or diversion constitutes street works within the meaning of that Act.
 
@@ -42,8 +42,8 @@ whether or not the carrying out of the works or the closure, alteration or diver
 
 ## Annotations
 
-[^key-294378c0c10b738c59839b1c50a70a81]: Commencement: Art. 9 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-294378c0c10b738c59839b1c50a70a81]: Commencement: Art. 9 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-f0c978c68009c2d37cd57f9f7d793758]: Textual amendment: Words in art. 9(1)(b) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-f0c978c68009c2d37cd57f9f7d793758]: Textual amendment: Words in art. 9(1)(b) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
 [^f00036]: Footnote: Sections 55, 57, 60, 68 and 69 were amended by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).

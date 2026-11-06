@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Conversion of limited duration tenancies into modern limited duration tenancies[^key-8dd622b448d100075aeb86b1facf0e84]
+## 91. Conversion of limited duration tenancies into modern limited duration tenancies[^c-8dd622b448d100075aeb86b1facf0e84]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dd622b448d100075aeb86b1facf0e84]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/18/section/91) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-8dd622b448d100075aeb86b1facf0e84]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2016/18/section/91) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

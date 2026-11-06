@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Mounting of upright signs[^key-c4449aa6e540b767473c8899c8f927eb]
+## 8. Mounting of upright signs[^c-c4449aa6e540b767473c8899c8f927eb]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 but paragraphs (2), (3) and (5) provide for exceptions.
 
-(2) Where the post or support is not likely to be readily visible to pedestrians, cyclists , drivers of electric scooters being used in a trial[^key-15af1c2b4c7929cb9eed14e612dc80d2] or equestrians, a yellow or white band not less than 140 mm nor more than 160 mm deep may be provided on the post with the lower edge of the band being not less than 1500 mm nor more than 1700 mm above ground level.
+(2) Where the post or support is not likely to be readily visible to pedestrians, cyclists , drivers of electric scooters being used in a trial[^c-15af1c2b4c7929cb9eed14e612dc80d2] or equestrians, a yellow or white band not less than 140 mm nor more than 160 mm deep may be provided on the post with the lower edge of the band being not less than 1500 mm nor more than 1700 mm above ground level.
 
 (3) Where the support provided for a portable upright sign comprises several components, the components need not all be of the same colour provided that each is of a single colour or the natural colour of the component.
 
@@ -37,6 +37,6 @@ but paragraphs (2), (3) and (5) provide for exceptions.
 
 ## Annotations
 
-[^key-c4449aa6e540b767473c8899c8f927eb]: Commencement: [Dir. 8](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/8) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-c4449aa6e540b767473c8899c8f927eb]: Commencement: [Dir. 8](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/8) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
 
-[^key-15af1c2b4c7929cb9eed14e612dc80d2]: Textual amendment: Words in dir. 8(2) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [dirs. 1(2), 2(2)](https://www.legislation.gov.uk/uksi/2020/663/part/2)
+[^c-15af1c2b4c7929cb9eed14e612dc80d2]: Textual amendment: Words in dir. 8(2) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [dirs. 1(2), 2(2)](https://www.legislation.gov.uk/uksi/2020/663/part/2)

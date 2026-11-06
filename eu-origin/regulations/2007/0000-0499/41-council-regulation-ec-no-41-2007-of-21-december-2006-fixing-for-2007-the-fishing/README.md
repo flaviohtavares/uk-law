@@ -35,11 +35,11 @@ of 21 December 2006
 
 fixing for 2007 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required (revoked)
 
-[^key-6c058ae18cca0279805d90465d8af27e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c058ae18cca0279805d90465d8af27e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### CHAPTER I — SCOPE AND DEFINITIONS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER I — SCOPE AND DEFINITIONS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 3 — Definitions](section-article-3.md)
 - [Section Article 4 — Fishing zones](section-article-4.md)
 
-### CHAPTER II — FISHING OPPORTUNITIES AND ASSOCIATED CONDITIONS FOR COMMUNITY VESSELS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER II — FISHING OPPORTUNITIES AND ASSOCIATED CONDITIONS FOR COMMUNITY VESSELS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 10 — Access limits](section-article-10.md)
 - [Section Article 11 — Transitional technical and control measures](section-article-11.md)
 
-### CHAPTER III — CATCH LIMITS AND ASSOCIATED CONDITIONS FOR THIRD-COUNTRY FISHING VESSELS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER III — CATCH LIMITS AND ASSOCIATED CONDITIONS FOR THIRD-COUNTRY FISHING VESSELS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 15 — Transit through Community waters](section-article-15.md)
 - [Section Article 16 — Conditions for landing catches and by-catches](section-article-16.md)
 
-### CHAPTER IV — LICENSING ARRANGEMENTS FOR COMMUNITY VESSELS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER IV — LICENSING ARRANGEMENTS FOR COMMUNITY VESSELS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 17 — Licences and associated conditions](section-article-17.md)
 - [Section Article 18 — Faroe Islands](section-article-18.md)
 
-### CHAPTER V — LICENSING ARRANGEMENTS FOR THIRD-COUNTRY FISHING VESSELS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER V — LICENSING ARRANGEMENTS FOR THIRD-COUNTRY FISHING VESSELS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 24 — Obligations of the licence holder](section-article-24.md)
 - [Section Article 25 — Specific provisions concerning the Department of French Guyana](section-article-25.md)
 
-### CHAPTER VI — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE MEDITERRANEAN SEA[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER VI — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE MEDITERRANEAN SEA[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,13 +108,13 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 26 — Establishment of a closed season for the dolphinfish fisheries using fish aggregating devices](section-article-26.md)
 - [Section Article 27 — Establishment of fisheries restrictive areas in order to protect deep sea sensitive habitats.](section-article-27.md)
 
-### CHAPTER VII — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE NAFO REGULATORY AREA[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER VII — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE NAFO REGULATORY AREA[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Community participation[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 1 — Community participation[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 - [Section Article 28 — List of vessels](section-article-28.md)
 
-#### SECTION 2 — Technical measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 2 — Technical measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,7 +135,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 33 — Directed fishery and by-catch](section-article-33.md)
 - [Section Article 34 — Minimum size of fish](section-article-34.md)
 
-#### SECTION 3 — Establishment of fisheries restrictive areas in order to protect deep sea sensitive habitats (seamounts)[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 3 — Establishment of fisheries restrictive areas in order to protect deep sea sensitive habitats (seamounts)[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,7 +143,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 - [Section Article 35 — Demersal fishing gears](section-article-35.md)
 
-#### SECTION 4 — Control measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 4 — Control measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,7 +156,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 40 — Chartering of Community vessels](section-article-40.md)
 - [Section Article 41 — Monitoring of fishing effort](section-article-41.md)
 
-#### SECTION 5 — Special provisions for northern prawns[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 5 — Special provisions for northern prawns[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -164,7 +164,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 - [Section Article 42 — Northern prawn fisheries](section-article-42.md)
 
-#### SECTION 6 — Special provisions for redfish[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 6 — Special provisions for redfish[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,7 +172,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 - [Section Article 43 — Redfish fishery](section-article-43.md)
 
-#### SECTION 7 — Enforcement measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 7 — Enforcement measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 47 — Enforcement measures](section-article-47.md)
 - [Section Article 48 — Report on infringements](section-article-48.md)
 
-### CHAPTER VIII — SPECIAL PROVISIONS FOR LANDING OR TRANSHIPPING OF FROZEN FISH CAUGHT BY THIRD COUNTRY FISHING VESSELS IN THE NEAFC CONVENTION AREA[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER VIII — SPECIAL PROVISIONS FOR LANDING OR TRANSHIPPING OF FROZEN FISH CAUGHT BY THIRD COUNTRY FISHING VESSELS IN THE NEAFC CONVENTION AREA[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,13 +197,13 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 53 — Inspections](section-article-53.md)
 - [Section Article 54 — Inspection reports](section-article-54.md)
 
-### CHAPTER IX — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE AREA OF CCAMLR[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER IX — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE AREA OF CCAMLR[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Restrictions and vessel information requirements[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 1 — Restrictions and vessel information requirements[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -213,7 +213,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 56 — Information requirements relating to vessels authorised to fish in the Area of CCAMLR](section-article-56.md)
 - [Section Article 57 — Report of vessel sightings](section-article-57.md)
 
-#### SECTION 2 — Exploratory fisheries[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 2 — Exploratory fisheries[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -231,13 +231,13 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 67 — Interim prohibition of deep-sea gillnetting](section-article-67.md)
 - [Section Article 68 — Interim restrictions on the use of bottom trawling gear in the high-seas of the Area of CCAMLR for the fishing seasons 2006/07 and 2007/08](section-article-68.md)
 
-### CHAPTER X — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE SEAFO CONVENTION AREA[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER X — SPECIAL PROVISIONS FOR COMMUNITY VESSELS FISHING IN THE SEAFO CONVENTION AREA[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Authorisation of vessels[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 1 — Authorisation of vessels[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -247,7 +247,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 70 — Obligations for authorised vessels](section-article-70.md)
 - [Section Article 71 — Unauthorised vessels](section-article-71.md)
 
-#### SECTION 2 — Transhipments[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 2 — Transhipments[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -256,7 +256,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 72 — Prohibition of transhipments at sea](section-article-72.md)
 - [Section Article 73 — In-port Transhipments](section-article-73.md)
 
-#### SECTION 3 — Conservation measures for the management of vulnerable deep-water habitats and ecosystems[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 3 — Conservation measures for the management of vulnerable deep-water habitats and ecosystems[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -265,7 +265,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 74 — Closed areas](section-article-74.md)
 - [Section Article 75 — Past fishing activities](section-article-75.md)
 
-#### SECTION 4 — Measures on reducing incidental by-catch of seabirds[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 4 — Measures on reducing incidental by-catch of seabirds[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -274,7 +274,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 76 — Information on interactions with seabirds](section-article-76.md)
 - [Section Article 77 — Mitigation measures](section-article-77.md)
 
-#### SECTION 5 — Control[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 5 — Control[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,13 +284,13 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 79 — Scientific observation and collection of information to support stock assessment](section-article-79.md)
 - [Section Article 80 — Sightings of non-Contracting Party vessels](section-article-80.md)
 
-### CHAPTER Xa — SPECIAL MEASURES FOR BLUEFIN TUNA IN THE EASTERN ATLANTIC AND MEDITERRANEAN[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER Xa — SPECIAL MEASURES FOR BLUEFIN TUNA IN THE EASTERN ATLANTIC AND MEDITERRANEAN[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Management measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 1 — Management measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -301,7 +301,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 80c — Quota](section-article-80c.md)
 - [Section Article 80d — Joint fishing operations](section-article-80d.md)
 
-#### SECTION 2 — Technical measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 2 — Technical measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -315,7 +315,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 80j — Recreational fisheries](section-article-80j.md)
 - [Section Article 80k — Sport fisheries](section-article-80k.md)
 
-#### SECTION 3 — Control measures[^key-6c058ae18cca0279805d90465d8af27e]
+#### SECTION 3 — Control measures[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -337,7 +337,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 - [Section Article 80y — Conversion factors](section-article-80y.md)
 - [Section Article 80z — ICCAT Scheme of Joint International Inspection](section-article-80z.md)
 
-### CHAPTER XI — ILLEGAL, UNREPORTED AND UNREGULATED FISHERIES[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER XI — ILLEGAL, UNREPORTED AND UNREGULATED FISHERIES[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -345,7 +345,7 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 - [Section Article 81 — North Atlantic](section-article-81.md)
 
-### CHAPTER XII — FINAL PROVISIONS[^key-6c058ae18cca0279805d90465d8af27e]
+### CHAPTER XII — FINAL PROVISIONS[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -378,8 +378,8 @@ fixing for 2007 the fishing opportunities and associated conditions for certain 
 
 **No longer in force.**
 
-[^key-6c058ae18cca0279805d90465d8af27e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c058ae18cca0279805d90465d8af27e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

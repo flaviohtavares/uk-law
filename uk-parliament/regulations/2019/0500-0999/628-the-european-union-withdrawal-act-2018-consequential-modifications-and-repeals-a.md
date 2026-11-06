@@ -46,7 +46,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-320b3f6d4114c3c7748d21d443668045]
+### 1. Citation, commencement, extent and interpretation[^c-320b3f6d4114c3c7748d21d443668045]
 
 (1) These Regulations may be cited as the European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 and come into force in accordance with paragraphs (2) and (3).
 
@@ -70,19 +70,19 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 ## PART 2 — Interpretation of references to EU instruments etc.
 
-### 2. Interpretation of non-ambulatory references to direct EU legislation etc.[^key-8f104253f93b11c983775e83ef620ffc]
+### 2. Interpretation of non-ambulatory references to direct EU legislation etc.[^c-8f104253f93b11c983775e83ef620ffc]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation of references created on or after exit day to EU regulations etc.[^key-d55c9e5f1c95eda91d866851bd123c14]
+### 3. Interpretation of references created on or after exit day to EU regulations etc.[^c-d55c9e5f1c95eda91d866851bd123c14]
 
 (1) The Interpretation Act 1978 [^c23656901] is amended as follows.
 
 (2) In section 20 (references to other enactments), after subsection (2), insert—
 
-> (3) Where an Act passed on or after exit day refers to any EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement, the reference, unless the contrary intention appears, is a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 or section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-6b36b7325531f72accd6c2d614a7534b].
+> (3) Where an Act passed on or after exit day refers to any EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement, the reference, unless the contrary intention appears, is a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 or section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^c-6b36b7325531f72accd6c2d614a7534b].
 >
 > (4) Subsection (3) does not determine any question as to whether the reference is to be read as a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as modified by domestic law (and, accordingly, is without prejudice to subsection (2)).
 >
@@ -92,7 +92,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 ## PART 3 — Scotland
 
-### 4. Amendments of Interpretation and Legislative Reform (Scotland) Act 2010[^key-72b23eaab829591ffe0bdf2125c3581f][^key-f43b33be5be2c22d8fa3d739699aa2f1][^key-c66212de199b3dc1274a701eef15c14a]
+### 4. Amendments of Interpretation and Legislative Reform (Scotland) Act 2010[^c-72b23eaab829591ffe0bdf2125c3581f][^c-f43b33be5be2c22d8fa3d739699aa2f1][^c-c66212de199b3dc1274a701eef15c14a]
 
 (1) The Interpretation and Legislative Reform (Scotland) Act 2010 [^c23656911] is amended as follows.
 
@@ -105,7 +105,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 > - (a) an Act of the Scottish Parliament the Bill for which received Royal Assent on or after exit day, or
 > - (b) a Scottish instrument made on or after exit day,
 >
-> to any EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement is a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 or section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-bfb1f79528b842d4e775ed3dce7f4ded].
+> to any EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement is a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018 or section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^c-bfb1f79528b842d4e775ed3dce7f4ded].
 >
 > (4) Subsection (3) does not determine any question as to whether the reference is to be read as a reference to the EU regulation, EU decision, EU tertiary legislation or provision of the EEA agreement as modified by domestic law (and, accordingly, is without prejudice to subsections (1) and (2)).
 >
@@ -116,7 +116,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 - (a) in the definition of “enactment”, omit the words “and any retained direct EU legislation”, and
 - (b) omit the definitions of “retained direct EU legislation” and “subordinate legislation”.
 
-(5)[^key-f43b33be5be2c22d8fa3d739699aa2f1][^key-a7d3181d4fc6326e7f52f638e5d15181] In section 55 (transitional Orders: revocation and savings)—
+(5)[^c-f43b33be5be2c22d8fa3d739699aa2f1][^c-a7d3181d4fc6326e7f52f638e5d15181] In section 55 (transitional Orders: revocation and savings)—
 
 - (a) in subsection (2), after “before that day” insert “ (but subject to the modifications in subsections (2A) and (2B)) ”, and
 - (b) after subsection (2) insert—
@@ -175,7 +175,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
     - (“da) any retained direct EU legislation,”, and
   - (ii) in paragraph (e), for “or instrument” substitute “ , instrument or retained direct EU legislation ”,
 - (c) in the definition of “subordinate legislation”, at the end insert “ or made or to be made on or after exit day under any retained direct EU legislation ”, and
-- (d)[^key-c66212de199b3dc1274a701eef15c14a] at the end insert—
+- (d)[^c-c66212de199b3dc1274a701eef15c14a] at the end insert—
 
   > *Definitions relating to EU exit*
   >
@@ -189,23 +189,23 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 ## PART 4 — Northern Ireland
 
-### 5. “Statutory provision” to include retained direct EU legislation[^key-53b91e796a2ac63a29dc4e9648f0176c]
+### 5. “Statutory provision” to include retained direct EU legislation[^c-53b91e796a2ac63a29dc4e9648f0176c]
 
 (1) In section 1(f) of the Interpretation Act (Northern Ireland) 1954 [^c23656921] (meaning of “statutory provision”)—
 
-- (a)[^key-ca7a00334dc4f899d2dbf71e5c421de6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) at the end of sub-paragraph (ii)[^key-df93b010aae2dfa893cc91316cafa554] insert “ or ”, and
-- (c)[^key-41a3e66e2fcad37cb7abf1a07811cf77] after sub-paragraph (ii) insert—
+- (a)[^c-ca7a00334dc4f899d2dbf71e5c421de6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) at the end of sub-paragraph (ii)[^c-df93b010aae2dfa893cc91316cafa554] insert “ or ”, and
+- (c)[^c-41a3e66e2fcad37cb7abf1a07811cf77] after sub-paragraph (ii) insert—
 
   > - (iii) any retained direct EU legislation not falling within sub-paragraph (ii) for the time being in force in Northern Ireland;
 
   .
 
-(2) Paragraph (3) applies to an enactment that, before IP completion day[^key-5d48a95d84b43935d96ed71d7718e003], contains a reference to a “**statutory provision**” as defined by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+(2) Paragraph (3) applies to an enactment that, before IP completion day[^c-5d48a95d84b43935d96ed71d7718e003], contains a reference to a “**statutory provision**” as defined by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
 (3) The amendments made by paragraph (1) do not affect the reference if the contrary intention appears in the enactment.
 
-### 6. Interpretation of certain Northern Ireland references to EU regulations etc.[^key-44d0afed4239bb65f19b99e31d9e9ae9]
+### 6. Interpretation of certain Northern Ireland references to EU regulations etc.[^c-44d0afed4239bb65f19b99e31d9e9ae9]
 
 (1) In section 11 of the Interpretation Act (Northern Ireland) 1954 (references in enactments), after subsection (1) insert—
 
@@ -226,7 +226,7 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 (2) In section 12(2) of the Interpretation Act (Northern Ireland) 1954 (amending provisions), for “sub-section (1)” substitute “ subsections (1) and (1B) to (1E) ”.
 
-### 7. Definitions relating to the United Kingdom's withdrawal from the European Union[^key-81682684b2e9b2b90aaccdbdc82d575a]
+### 7. Definitions relating to the United Kingdom's withdrawal from the European Union[^c-81682684b2e9b2b90aaccdbdc82d575a]
 
 (1) After section 44 of the Interpretation Act (Northern Ireland) 1954 insert—
 
@@ -244,15 +244,15 @@ In accordance with paragraphs 1(3) and 15(1) of Schedule 7 to that Act, a draft 
 
 (2) Section 44A of the Interpretation Act (Northern Ireland) 1954 (“**the 1954 Act**”) applies to an Act of the Parliament of Ireland to which the provisions of the 1954 Act are not applied as that section applies to an Act within the meaning of section 1(a) of the 1954 Act.
 
-### 8. Assimilated direct legislation: laying of documents before Northern Ireland Assembly[^key-f897c7db593c265fd9b6c7046262abd1][^key-bf61f0975554b19680b5ff102717e35e]
+### 8. Assimilated direct legislation: laying of documents before Northern Ireland Assembly[^c-f897c7db593c265fd9b6c7046262abd1][^c-bf61f0975554b19680b5ff102717e35e]
 
-(1) This regulation applies where under assimilated direct legislation[^key-3340acbf78f6f3785da57e5cbec6a8f4] , or legislation referred to in[^key-350d06ad5be3d7a9268edc1e10a3dfc9] paragraph 7(2)(b)[^key-d601cdbf5852b99bc3b7199966b7bfd0] of Schedule 1 to the Direct Payments to Farmers (Legislative Continuity) Act 2020, a document requires to be, or may be, laid before the Northern Ireland Assembly.
+(1) This regulation applies where under assimilated direct legislation[^c-3340acbf78f6f3785da57e5cbec6a8f4] , or legislation referred to in[^c-350d06ad5be3d7a9268edc1e10a3dfc9] paragraph 7(2)(b)[^c-d601cdbf5852b99bc3b7199966b7bfd0] of Schedule 1 to the Direct Payments to Farmers (Legislative Continuity) Act 2020, a document requires to be, or may be, laid before the Northern Ireland Assembly.
 
 (2) The delivery of a copy of the document to the Business Office of the Assembly is, for all purposes, to be taken to be the laying of it before the Assembly.
 
 ## PART 5 — Repeals and revocations
 
-### 9. Repeals and revocations[^key-93ae97db5d97314e920d82b73e0510b4]
+### 9. Repeals and revocations[^c-93ae97db5d97314e920d82b73e0510b4]
 
 (1) The enactments mentioned in Part 1 of the Schedule are repealed to the extent specified.
 
@@ -272,7 +272,7 @@ Department for Exiting the European Union
 
 Regulation 9
 
-### PART 1 — Repeals of primary legislation[^key-af81e20d3517c269a640fee3233e6421]
+### PART 1 — Repeals of primary legislation[^c-af81e20d3517c269a640fee3233e6421]
 
 Table 1
 
@@ -291,7 +291,7 @@ Table 1
 | The European Union (Accessions) Act 2006 [^c23657031] | The whole Act |
 | The European Union (Croatian Accession and Irish Protocol) Act 2013 [^c23657041] | Sections 3, 4, 5 and 6 |
 
-### PART 2 — Revocation of secondary legislation[^key-aae433ec74d513bb2f36d1f53a9aa0ac]
+### PART 2 — Revocation of secondary legislation[^c-aae433ec74d513bb2f36d1f53a9aa0ac]
 
 Table 2
 
@@ -303,11 +303,11 @@ Table 2
 
 ### PART 3 — Transitional and Savings Provisions
 
-#### 1. Approvals for the purposes of the European Parliamentary Elections Act 1978[^key-63898962b05338ea94cf378b43cf43cc]
+#### 1. Approvals for the purposes of the European Parliamentary Elections Act 1978[^c-63898962b05338ea94cf378b43cf43cc]
 
 The repeals of section 3(4) of the European Communities (Amendment) Act 1986, section 1(2) of the European Communities (Amendment) Act 1993, section 2 of the European Union (Accessions) Act 1994, section 2 of the European Communities (Amendment) Act 1998 and section 3 of the European Communities (Amendment) Act 2002, which approved matters in accordance with the requirements of section 6 of the European Parliamentary Elections Act 1978 [^c23657071], have no effect on the validity of anything done, or omitted to be done, in relation to the matters approved.
 
-#### 2. Approvals for the purposes of the European Parliamentary Elections Act 2002[^key-e443dcda33efc55b55fbe3c9581dada5]
+#### 2. Approvals for the purposes of the European Parliamentary Elections Act 2002[^c-e443dcda33efc55b55fbe3c9581dada5]
 
 The repeals of section 1(2) of the European Union (Accessions) Act 2003 and section 1(2) of the European Union (Accessions) Act 2006, which approved maters in accordance with the requirements of section 12 of the European Parliamentary Elections Act 2002 [^c23657081], have no effect on the validity of anything done, or omitted to be done, in relation to matters approved.
 
@@ -333,57 +333,57 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23656891]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-320b3f6d4114c3c7748d21d443668045]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-320b3f6d4114c3c7748d21d443668045]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)(a)
 
-[^key-8f104253f93b11c983775e83ef620ffc]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1447/regulation/10)
+[^c-8f104253f93b11c983775e83ef620ffc]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1447/regulation/10)
 
-[^key-d55c9e5f1c95eda91d866851bd123c14]: Commencement: Reg. 3 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d55c9e5f1c95eda91d866851bd123c14]: Commencement: Reg. 3 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23656901]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-6b36b7325531f72accd6c2d614a7534b]: Textual amendment: Words in reg. 3(2) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/4)
+[^c-6b36b7325531f72accd6c2d614a7534b]: Textual amendment: Words in reg. 3(2) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/4)
 
-[^key-72b23eaab829591ffe0bdf2125c3581f]: Commencement: Reg. 4(1)-(4)(6)(a)-(c) in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72b23eaab829591ffe0bdf2125c3581f]: Commencement: Reg. 4(1)-(4)(6)(a)-(c) in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f43b33be5be2c22d8fa3d739699aa2f1]: Commencement: Reg. 4(5) in force at 22.3.2019 for specified purposes, see reg. 1(2)(b)
+[^c-f43b33be5be2c22d8fa3d739699aa2f1]: Commencement: Reg. 4(5) in force at 22.3.2019 for specified purposes, see reg. 1(2)(b)
 
-[^key-c66212de199b3dc1274a701eef15c14a]: Commencement: Reg. 4(6)(d) in force at 22.3.2019, see reg. 1(2)(c)
+[^c-c66212de199b3dc1274a701eef15c14a]: Commencement: Reg. 4(6)(d) in force at 22.3.2019, see reg. 1(2)(c)
 
 [^c23656911]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-bfb1f79528b842d4e775ed3dce7f4ded]: Textual amendment: Words in reg. 4(3) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/5)
+[^c-bfb1f79528b842d4e775ed3dce7f4ded]: Textual amendment: Words in reg. 4(3) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/5)
 
-[^key-a7d3181d4fc6326e7f52f638e5d15181]: Modification: Reg. 4(5) modified (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1447/regulation/6)
+[^c-a7d3181d4fc6326e7f52f638e5d15181]: Modification: Reg. 4(5) modified (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/1447/regulation/6)
 
-[^key-53b91e796a2ac63a29dc4e9648f0176c]: Commencement: Reg. 5 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53b91e796a2ac63a29dc4e9648f0176c]: Commencement: Reg. 5 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23656921]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-ca7a00334dc4f899d2dbf71e5c421de6]: Textual amendment: Reg. 5(1)(a) omitted (30.4.2020) by virtue of [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/a)
+[^c-ca7a00334dc4f899d2dbf71e5c421de6]: Textual amendment: Reg. 5(1)(a) omitted (30.4.2020) by virtue of [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/a)
 
-[^key-df93b010aae2dfa893cc91316cafa554]: Textual amendment: Words in reg. 5(1)(b) substituted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/b)
+[^c-df93b010aae2dfa893cc91316cafa554]: Textual amendment: Words in reg. 5(1)(b) substituted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/b)
 
-[^key-41a3e66e2fcad37cb7abf1a07811cf77]: Textual amendment: Reg. 5(1)(c) substituted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(c)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/c)
+[^c-41a3e66e2fcad37cb7abf1a07811cf77]: Textual amendment: Reg. 5(1)(c) substituted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(6)(c)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/6/c)
 
-[^key-5d48a95d84b43935d96ed71d7718e003]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1447/regulation/4)
+[^c-5d48a95d84b43935d96ed71d7718e003]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1447/regulation/4)
 
-[^key-44d0afed4239bb65f19b99e31d9e9ae9]: Commencement: Reg. 6 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44d0afed4239bb65f19b99e31d9e9ae9]: Commencement: Reg. 6 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-81682684b2e9b2b90aaccdbdc82d575a]: Commencement: Reg. 7 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-81682684b2e9b2b90aaccdbdc82d575a]: Commencement: Reg. 7 in force at 22.3.2019, see reg. 1(2)(a)
 
-[^key-f897c7db593c265fd9b6c7046262abd1]: Commencement: Reg. 8 in force at 22.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/2/a)
+[^c-f897c7db593c265fd9b6c7046262abd1]: Commencement: Reg. 8 in force at 22.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/2/a)
 
-[^key-bf61f0975554b19680b5ff102717e35e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2019/628/regulation/8) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/2)
+[^c-bf61f0975554b19680b5ff102717e35e]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2019/628/regulation/8) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/2)
 
-[^key-3340acbf78f6f3785da57e5cbec6a8f4]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2019/628/regulation/8/1) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/3/a)
+[^c-3340acbf78f6f3785da57e5cbec6a8f4]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2019/628/regulation/8/1) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/3/a)
 
-[^key-350d06ad5be3d7a9268edc1e10a3dfc9]: Textual amendment: Words in reg. 8(1) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(7)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/7)
+[^c-350d06ad5be3d7a9268edc1e10a3dfc9]: Textual amendment: Words in reg. 8(1) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [10(7)](https://www.legislation.gov.uk/uksi/2020/463/regulation/10/7)
 
-[^key-d601cdbf5852b99bc3b7199966b7bfd0]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2019/628/regulation/8/1) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/3/b)
+[^c-d601cdbf5852b99bc3b7199966b7bfd0]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2019/628/regulation/8/1) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/5/3/b)
 
-[^key-93ae97db5d97314e920d82b73e0510b4]: Commencement: Reg. 9 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93ae97db5d97314e920d82b73e0510b4]: Commencement: Reg. 9 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af81e20d3517c269a640fee3233e6421]: Commencement: Sch. Pt. 1 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af81e20d3517c269a640fee3233e6421]: Commencement: Sch. Pt. 1 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23656931]: Marginal citation: [1979 c. 57](https://www.legislation.gov.uk/ukpga/1979/57).
 
@@ -409,16 +409,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23657041]: Marginal citation: [2013 c. 5](https://www.legislation.gov.uk/ukpga/2013/5).
 
-[^key-aae433ec74d513bb2f36d1f53a9aa0ac]: Commencement: Sch. Pt. 2 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aae433ec74d513bb2f36d1f53a9aa0ac]: Commencement: Sch. Pt. 2 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23657051]: Marginal citation: [S.I. 2001/3675](https://www.legislation.gov.uk/uksi/2001/3675).
 
 [^c23657061]: Marginal citation: [S.I. 2001/3719](https://www.legislation.gov.uk/uksi/2001/3719).
 
-[^key-63898962b05338ea94cf378b43cf43cc]: Commencement: Sch. para. 1 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63898962b05338ea94cf378b43cf43cc]: Commencement: Sch. para. 1 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23657071]: Marginal citation: [1978 c. 10](https://www.legislation.gov.uk/ukpga/1978/10); the short title was changed from “The European Assembly Elections Act 1978” to the “European Parliamentary Elections Act 1978” by sections 3(1)(b) and (2)(b) of the European Communities (Amendment) Act 1986. The European Parliamentary Elections Act 1978 was repealed by Schedule 4 of the European Parliamentary Elections Act 2002.
 
-[^key-e443dcda33efc55b55fbe3c9581dada5]: Commencement: Sch. para. 2 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e443dcda33efc55b55fbe3c9581dada5]: Commencement: Sch. para. 2 in force on IP completion day, see reg. 1(3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23657081]: Marginal citation: [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24); section 12 was repealed by section 14(3)(c) of the [European Union Act 2011 (c. 12)](https://www.legislation.gov.uk/ukpga/2011/12).

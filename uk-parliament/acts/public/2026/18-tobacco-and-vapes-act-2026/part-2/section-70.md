@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Crown application of 2010 Act[^key-8e6e35f0d97abffc43311504deebeb5e]
+## 70. Crown application of 2010 Act[^c-8e6e35f0d97abffc43311504deebeb5e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 36 of the Tobacco and Primary Medical Services (Scotland) Act [2010 (
 
 ## Annotations
 
-[^key-8e6e35f0d97abffc43311504deebeb5e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2026/18/section/70) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-8e6e35f0d97abffc43311504deebeb5e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2026/18/section/70) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

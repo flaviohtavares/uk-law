@@ -32,7 +32,7 @@ summary: ''
 
 Council Tax
 
-The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2020 (revoked)[^key-12e0adba6a87af67617db457ff4034fc]
+The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2020 (revoked)[^c-12e0adba6a87af67617db457ff4034fc]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 31st March 2020
 
-[^key-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12e0adba6a87af67617db457ff4034fc]
+## 1. Citation and commencement[^c-12e0adba6a87af67617db457ff4034fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Continuation of transitional addition[^key-12e0adba6a87af67617db457ff4034fc]
+## 2. Continuation of transitional addition[^c-12e0adba6a87af67617db457ff4034fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Correction of reference to transitional family premium[^key-12e0adba6a87af67617db457ff4034fc]
+## 3. Correction of reference to transitional family premium[^c-12e0adba6a87af67617db457ff4034fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12e0adba6a87af67617db457ff4034fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12e0adba6a87af67617db457ff4034fc]: Textual amendment: Regulations revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-12e0adba6a87af67617db457ff4034fc]: Textual amendment: Regulations revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))

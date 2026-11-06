@@ -45,12 +45,12 @@ the Delivery Body must offer to the applicant a capacity agreement in respect of
 (6) A capacity agreement offered under paragraph (5) must be—
 
 - (a) at the capacity cleared price which would have applied to the CMU if a successful bid had been made in the relevant capacity auction in respect of the CMU;
-- (b)[^key-7f7a04fe260fd1806dc6cb723cb82ea2] for—
-  - (i) the de-rated capacity of the CMU (which, if not previously determined, must be determined by the Delivery Body in accordance with capacity market rules); [^key-538f864bb3819c26c7ef27ff5564b249]...
-  - (ii)[^key-eb0c7080e3c9ba060af01a6c7a5b8561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7f7a04fe260fd1806dc6cb723cb82ea2] for—
+  - (i) the de-rated capacity of the CMU (which, if not previously determined, must be determined by the Delivery Body in accordance with capacity market rules); [^c-538f864bb3819c26c7ef27ff5564b249]...
+  - (ii)[^c-eb0c7080e3c9ba060af01a6c7a5b8561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for the number of delivery years which it appears to the Delivery Body that the applicant is entitled to a capacity agreement under capacity market rules.
 
-(6A)[^key-6db7e3bda5e5a30d8f87ba5b10de5d15] In the case of a demand side response CMU, the applicant may nominate in accordance with capacity market rules the capacity in respect of which it wishes to be offered a capacity agreement and, where it does so—
+(6A)[^c-6db7e3bda5e5a30d8f87ba5b10de5d15] In the case of a demand side response CMU, the applicant may nominate in accordance with capacity market rules the capacity in respect of which it wishes to be offered a capacity agreement and, where it does so—
 
 - (a) that is the capacity which is to be used to determine the de-rated capacity of the CMU for the purposes of paragraph (6)(b), and
 - (b) the de-rated capacity so determined is the de-rated capacity which applies for the purposes of regulations 32 and 60.
@@ -62,10 +62,10 @@ the Delivery Body must offer to the applicant a capacity agreement in respect of
 
 ## Annotations
 
-[^key-7f7a04fe260fd1806dc6cb723cb82ea2]: Textual amendment: [Reg. 73(6)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b) substituted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/19/1)
+[^c-7f7a04fe260fd1806dc6cb723cb82ea2]: Textual amendment: [Reg. 73(6)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b) substituted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/19/1)
 
-[^key-538f864bb3819c26c7ef27ff5564b249]: Textual amendment: Word in [reg. 73(6)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b/i) omitted (2.11.2017) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/a/i)
+[^c-538f864bb3819c26c7ef27ff5564b249]: Textual amendment: Word in [reg. 73(6)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b/i) omitted (2.11.2017) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/a/i)
 
-[^key-eb0c7080e3c9ba060af01a6c7a5b8561]: Textual amendment: [Reg. 73(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b/ii) omitted (2.11.2017) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/a/ii)
+[^c-eb0c7080e3c9ba060af01a6c7a5b8561]: Textual amendment: [Reg. 73(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6/b/ii) omitted (2.11.2017) by virtue of [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/a/ii)
 
-[^key-6db7e3bda5e5a30d8f87ba5b10de5d15]: Textual amendment: [Reg. 73(6A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6A) substituted (2.11.2017) by [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/b)
+[^c-6db7e3bda5e5a30d8f87ba5b10de5d15]: Textual amendment: [Reg. 73(6A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/73/6A) substituted (2.11.2017) by [The Electricity Capacity (Amendment) Regulations 2017 (S.I. 2017/1053)](https://www.legislation.gov.uk/uksi/2017/1053), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1053/regulation/1/2), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/2017/1053/schedule/1/paragraph/8/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Powers to make regulations about movement of goods[^key-8a447a14323be2c442c5555979af74e1]
+## 21. Powers to make regulations about movement of goods[^c-8a447a14323be2c442c5555979af74e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a447a14323be2c442c5555979af74e1]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/29/section/21) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/a)
+[^c-8a447a14323be2c442c5555979af74e1]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/29/section/21) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/a)

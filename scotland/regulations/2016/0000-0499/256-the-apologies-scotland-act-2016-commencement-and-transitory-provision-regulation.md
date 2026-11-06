@@ -45,19 +45,19 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 5(2) to (4) of the Apologies (Scotland) Act 2016[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-e9182e7b0518046dbf2f5b0dd7fcf2d6]
+## 1. Citation, commencement and interpretation[^c-e9182e7b0518046dbf2f5b0dd7fcf2d6]
 
 (1) These Regulations may be cited as the Apologies (Scotland) Act 2016 (Commencement and Transitory Provision) Regulations 2016 and come into force on 22nd September 2016.
 
 (2) In these Regulations “the Act” means the Apologies (Scotland) Act 2016.
 
-## 2. Appointed days[^key-2fb0673569acc869f890eda89686704b]
+## 2. Appointed days[^c-2fb0673569acc869f890eda89686704b]
 
 (1) 22nd September 2016 is the day appointed for the coming into force of section 2(4) to (6) of the Act.
 
-(2) 19th June 2017[^key-e748bf10d08426d4829881e5bcbb1b8f] is the day appointed for the coming into force of all remaining provisions of the Act insofar as not already in force.
+(2) 19th June 2017[^c-e748bf10d08426d4829881e5bcbb1b8f] is the day appointed for the coming into force of all remaining provisions of the Act insofar as not already in force.
 
-## 3. Transitory provision[^key-d289e0788ce153585a2963698373d70c]
+## 3. Transitory provision[^c-d289e0788ce153585a2963698373d70c]
 
 The reference in section 2(1)(c) of the Act to inquiries under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016[^f00002] includes reference to inquiries under the Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976[^f00003].
 
@@ -89,13 +89,13 @@ The Bill for the Act received Royal Assent on 23rd February 2016. Sections 5 and
 
 [^f00001]: Footnote: [2016 asp 5](https://www.legislation.gov.uk/asp/2016/5).
 
-[^key-e9182e7b0518046dbf2f5b0dd7fcf2d6]: Commencement: Reg. 1 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
+[^c-e9182e7b0518046dbf2f5b0dd7fcf2d6]: Commencement: Reg. 1 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
 
-[^key-2fb0673569acc869f890eda89686704b]: Commencement: Reg. 2 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
+[^c-2fb0673569acc869f890eda89686704b]: Commencement: Reg. 2 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
 
-[^key-e748bf10d08426d4829881e5bcbb1b8f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/256/regulation/2/2) substituted (16.12.2016) by [The Apologies (Scotland) Act 2016 (Commencement and Transitory Provision) Amendment Regulations 2016 (S.S.I. 2016/395)](https://www.legislation.gov.uk/ssi/2016/395), [regs. 1](https://www.legislation.gov.uk/ssi/2016/395/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/395/regulation/2)
+[^c-e748bf10d08426d4829881e5bcbb1b8f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/256/regulation/2/2) substituted (16.12.2016) by [The Apologies (Scotland) Act 2016 (Commencement and Transitory Provision) Amendment Regulations 2016 (S.S.I. 2016/395)](https://www.legislation.gov.uk/ssi/2016/395), [regs. 1](https://www.legislation.gov.uk/ssi/2016/395/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/395/regulation/2)
 
-[^key-d289e0788ce153585a2963698373d70c]: Commencement: Reg. 3 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
+[^c-d289e0788ce153585a2963698373d70c]: Commencement: Reg. 3 in force at 22.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/256/regulation/1/1)
 
 [^f00002]: Footnote: [2016 asp 2](https://www.legislation.gov.uk/asp/2016/2).
 

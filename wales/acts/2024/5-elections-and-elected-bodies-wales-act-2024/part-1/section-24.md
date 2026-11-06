@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Reports by the Electoral Commission[^key-e5ec3fea4fd5866235eb80aa876f6e66][^key-249b55d6e629b10ce9291194e825b8eb]
+## 24. Reports by the Electoral Commission[^c-e5ec3fea4fd5866235eb80aa876f6e66][^c-249b55d6e629b10ce9291194e825b8eb]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ec3fea4fd5866235eb80aa876f6e66]: Commencement: S. 24 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-e5ec3fea4fd5866235eb80aa876f6e66]: Commencement: S. 24 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-249b55d6e629b10ce9291194e825b8eb]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/5/section/24) in force at 18.7.2025 by [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)
+[^c-249b55d6e629b10ce9291194e825b8eb]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2024/5/section/24) in force at 18.7.2025 by [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)

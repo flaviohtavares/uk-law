@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.188. Money provided in lieu of sale[^key-a12bc81e35db6a2727ad51f07c5f3bc3]
+## 6.188. Money provided in lieu of sale[^c-a12bc81e35db6a2727ad51f07c5f3bc3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a12bc81e35db6a2727ad51f07c5f3bc3]: Commencement: [Rule 6.188](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.188) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a12bc81e35db6a2727ad51f07c5f3bc3]: Commencement: [Rule 6.188](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.188) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

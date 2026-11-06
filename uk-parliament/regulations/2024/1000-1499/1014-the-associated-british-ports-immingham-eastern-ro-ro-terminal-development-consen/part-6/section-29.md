@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Defence to proceedings in respect of statutory nuisance[^key-ba87cd04f14066a162b4cd2265461fc1]
+## 29. Defence to proceedings in respect of statutory nuisance[^c-ba87cd04f14066a162b4cd2265461fc1]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ba87cd04f14066a162b4cd2265461fc1]: Commencement: Art. 29 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-ba87cd04f14066a162b4cd2265461fc1]: Commencement: Art. 29 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00053]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

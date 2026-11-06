@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Funding of further education.[^key-583826ff5ac980e6452e95c4a28bc190]
+## 4. Funding of further education.[^c-583826ff5ac980e6452e95c4a28bc190]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-583826ff5ac980e6452e95c4a28bc190]: Textual amendment: S. 4 repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-583826ff5ac980e6452e95c4a28bc190]: Textual amendment: S. 4 repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/6/2/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

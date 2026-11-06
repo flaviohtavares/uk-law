@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. NHS England mandate: cancer outcome targets[^key-0a831596cfdd5d7fd7102c5da64d8db2][^key-7c2fda6e298bbaef4b8fcf03f43594ed]
+## 5. NHS England mandate: cancer outcome targets[^c-0a831596cfdd5d7fd7102c5da64d8db2][^c-7c2fda6e298bbaef4b8fcf03f43594ed]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a831596cfdd5d7fd7102c5da64d8db2]: Commencement: S. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0a831596cfdd5d7fd7102c5da64d8db2]: Commencement: S. 5 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7c2fda6e298bbaef4b8fcf03f43594ed]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/31/section/5) in force at 14.6.2023 by [S.I. 2023/648](https://www.legislation.gov.uk/uksi/2023/648), [reg. 2](https://www.legislation.gov.uk/uksi/2023/648/regulation/2)
+[^c-7c2fda6e298bbaef4b8fcf03f43594ed]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/31/section/5) in force at 14.6.2023 by [S.I. 2023/648](https://www.legislation.gov.uk/uksi/2023/648), [reg. 2](https://www.legislation.gov.uk/uksi/2023/648/regulation/2)

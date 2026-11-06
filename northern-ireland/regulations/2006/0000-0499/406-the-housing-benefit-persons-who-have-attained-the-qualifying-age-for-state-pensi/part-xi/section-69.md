@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Circumstances in which a rate rebate may be treated as if it fell to be paid as a rent allowance[^key-d394288893134f40a97a4a4b91386035]
+## 69. Circumstances in which a rate rebate may be treated as if it fell to be paid as a rent allowance[^c-d394288893134f40a97a4a4b91386035]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The circumstances in which a rate rebate may be treated as if it fell to be paid
 
 ## Annotations
 
-[^key-d394288893134f40a97a4a4b91386035]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2006/406/regulation/69) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-d394288893134f40a97a4a4b91386035]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2006/406/regulation/69) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

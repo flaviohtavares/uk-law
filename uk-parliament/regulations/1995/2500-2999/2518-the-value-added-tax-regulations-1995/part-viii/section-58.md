@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Admission to the scheme[^key-5a98a2a84379fe94758dcb31da4fc92c]
+## 58. Admission to the scheme[^c-5a98a2a84379fe94758dcb31da4fc92c]
 
 *Extent: E+W+S+N.I.*
 
 (1) Without prejudice to paragraph (4) below, a taxable person shall be eligible to begin to operate the scheme from the beginning of any prescribed accounting period if—
 
-- (a) he has reasonable grounds for believing that the value of taxable supplies to be made by him in the period of one year then beginning will not exceed £1,350,000[^key-eccdffec4ba4a74ac95ddd15ca042dd1],
+- (a) he has reasonable grounds for believing that the value of taxable supplies to be made by him in the period of one year then beginning will not exceed £1,350,000[^c-eccdffec4ba4a74ac95ddd15ca042dd1],
 - (b) he has made all returns which he is required to make, and has—
   - (i) paid to the Commissioners all such sums shown as due on those returns and on any assessments made either under section 76 of, or Schedule 11 to, the Act, or
   - (ii) agreed an arrangement with the Commissioners for any outstanding amount of such sums as are referred to in sub-paragraph (i) above to be paid in instalments over a specific period, and
@@ -38,17 +38,17 @@ summary: ''
 - (b) hire purchase agreements;
 - (c) conditional sale agreements;
 - (d) credit sale agreements;
-- (e) supplies where a VAT invoice is issued and full payment of the amount shown on the invoice is not due for a period in excess of 6 months from the date of the issue of the invoice; [^key-eb88727fe9644e3cfcc0432af9ac7bb2]...
-- (f) supplies of goods or services in respect of which a VAT invoice is issued in advance of the delivery or making available of the goods or the performance of the services as the case may be ; or[^key-19d1bc01a08fbf67abba7ed6f31ab0e7]
-- (g) supplies of goods or services[^key-32b33bc383bc8baac5f1947d13b1fc88] in respect of which it is for the recipient, on the supplier’s behalf, to account for and pay the VAT.
+- (e) supplies where a VAT invoice is issued and full payment of the amount shown on the invoice is not due for a period in excess of 6 months from the date of the issue of the invoice; [^c-eb88727fe9644e3cfcc0432af9ac7bb2]...
+- (f) supplies of goods or services in respect of which a VAT invoice is issued in advance of the delivery or making available of the goods or the performance of the services as the case may be ; or[^c-19d1bc01a08fbf67abba7ed6f31ab0e7]
+- (g) supplies of goods or services[^c-32b33bc383bc8baac5f1947d13b1fc88] in respect of which it is for the recipient, on the supplier’s behalf, to account for and pay the VAT.
 
 (3) Sub-paragraph (2) (f) above shall not apply where goods have been delivered or made available in part or where services have been performed in part and the VAT invoice in question relates solely to that part of the goods which have been delivered or made available or that part of the services which have been performed.
 
 (4) A person shall not be entitled to begin to operate the scheme if the Commissioners consider it is necessary for the protection of the revenue that he shall not be so entitled.
 
-**59.**[^key-8f5e3f2f9a8c60f14d074c7f35ad8406] Without prejudice to the right of a person to withdraw from the scheme, the Commissioners may vary the terms of the scheme by publishing a fresh notice or publishing a notice which amends an existing notice[^M_F_223c05fe-4fa0-4ed1-c3a1-c34f1436cabf].
+**59.**[^c-8f5e3f2f9a8c60f14d074c7f35ad8406] Without prejudice to the right of a person to withdraw from the scheme, the Commissioners may vary the terms of the scheme by publishing a fresh notice or publishing a notice which amends an existing notice[^M_F_223c05fe-4fa0-4ed1-c3a1-c34f1436cabf].
 
-**60.**[^key-bcea6bc39d3202f7130c56c95847c2c1] (1) Without prejudice to regulation 64 below, a person shall withdraw from the scheme immediately at the end of a prescribed accounting period of his if the value of taxable supplies made by him in the period of one year ending at the end of the prescribed accounting period in question has exceeded £1,600,000[^M_F_026ce599-7c59-4237-b7a4-d504c2535595].
+**60.**[^c-bcea6bc39d3202f7130c56c95847c2c1] (1) Without prejudice to regulation 64 below, a person shall withdraw from the scheme immediately at the end of a prescribed accounting period of his if the value of taxable supplies made by him in the period of one year ending at the end of the prescribed accounting period in question has exceeded £1,600,000[^M_F_026ce599-7c59-4237-b7a4-d504c2535595].
 
 (2) Subject to regulations 61 to 63 below a person may withdraw from the scheme at the end of any prescribed accounting period.
 
@@ -75,9 +75,9 @@ summary: ''
 - (a) all VAT that he would have been required to pay to the Commissioners during the time when he operated the scheme, if he had not then been operating the scheme, minus
 - (b) all VAT accounted for and paid to the Commissioners in accordance with the scheme (including any VAT accounted for and paid because he applied transitional arrangements), subject to any adjustment for credit for input tax.
 
-**62.**[^key-720cce033875de94165ecd3378e1451d] Where a person operating the scheme becomes insolvent he shall within 2 months of the date of insolvency account for VAT due on all supplies made and received up to the date of insolvency which has not otherwise been accounted for, subject to any credit for input tax.
+**62.**[^c-720cce033875de94165ecd3378e1451d] Where a person operating the scheme becomes insolvent he shall within 2 months of the date of insolvency account for VAT due on all supplies made and received up to the date of insolvency which has not otherwise been accounted for, subject to any credit for input tax.
 
-**63.**[^key-4cb0c7c1ee600dcbaf093b335ca03feb] —
+**63.**[^c-4cb0c7c1ee600dcbaf093b335ca03feb] —
 
 (1)[^M_F_070d39e4-ef2f-4638-dea4-9c505bac7f37] Where a person operating the scheme ceases business or ceases to be registered he shall within 2 months or such longer period as the Commissioners may allow, make a return accounting for, and pay, VAT due on all supplies made and received up to the date of cessation which has not otherwise been accounted for, subject to any adjustment for credit for input tax..
 
@@ -87,21 +87,21 @@ summary: ''
 
 ## Annotations
 
-[^key-5a98a2a84379fe94758dcb31da4fc92c]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [3](https://www.legislation.gov.uk/uksi/1997/1614/regulation/3)
+[^c-5a98a2a84379fe94758dcb31da4fc92c]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [3](https://www.legislation.gov.uk/uksi/1997/1614/regulation/3)
 
-[^key-eccdffec4ba4a74ac95ddd15ca042dd1]: Textual amendment: Sum in reg. 58(1)(a) substituted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2007/768/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/768/regulation/3)
+[^c-eccdffec4ba4a74ac95ddd15ca042dd1]: Textual amendment: Sum in reg. 58(1)(a) substituted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2007/768/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/768/regulation/3)
 
-[^key-eb88727fe9644e3cfcc0432af9ac7bb2]: Textual amendment: Word in [reg. 58(2)(e)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/e) omitted (1.6.2007) by virtue of [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/1418/regulation/6)
+[^c-eb88727fe9644e3cfcc0432af9ac7bb2]: Textual amendment: Word in [reg. 58(2)(e)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/e) omitted (1.6.2007) by virtue of [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/1418/regulation/6)
 
-[^key-19d1bc01a08fbf67abba7ed6f31ab0e7]: Textual amendment: [Reg. 58(2)(g)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/g) and word inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/1418/regulation/6)
+[^c-19d1bc01a08fbf67abba7ed6f31ab0e7]: Textual amendment: [Reg. 58(2)(g)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/g) and word inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2007/1418/regulation/6)
 
-[^key-32b33bc383bc8baac5f1947d13b1fc88]: Textual amendment: Words in [reg. 58(2)(g)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/g) inserted (1.11.2010) by [The Value Added Tax (Amendment) (No. 2) Regulations 2010 (S.I. 2010/2240)](https://www.legislation.gov.uk/uksi/2010/2240), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2240/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2240/regulation/3/3)
+[^c-32b33bc383bc8baac5f1947d13b1fc88]: Textual amendment: Words in [reg. 58(2)(g)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/58/2/g) inserted (1.11.2010) by [The Value Added Tax (Amendment) (No. 2) Regulations 2010 (S.I. 2010/2240)](https://www.legislation.gov.uk/uksi/2010/2240), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2240/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/2240/regulation/3/3)
 
-[^key-8f5e3f2f9a8c60f14d074c7f35ad8406]: Commencement: Reg. 59 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-8f5e3f2f9a8c60f14d074c7f35ad8406]: Commencement: Reg. 59 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
 [^M_F_223c05fe-4fa0-4ed1-c3a1-c34f1436cabf]: Textual amendment: Words in [reg. 59](https://www.legislation.gov.uk/uksi/1995/2518/regulation/59) inserted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [4](https://www.legislation.gov.uk/uksi/1997/1614/regulation/4)
 
-[^key-bcea6bc39d3202f7130c56c95847c2c1]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1995/2518/regulation/60) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [5](https://www.legislation.gov.uk/uksi/1997/1614/regulation/5)
+[^c-bcea6bc39d3202f7130c56c95847c2c1]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1995/2518/regulation/60) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [5](https://www.legislation.gov.uk/uksi/1997/1614/regulation/5)
 
 [^M_F_026ce599-7c59-4237-b7a4-d504c2535595]: Textual amendment: Sum in reg. 60(1) substituted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2004/767/regulation/1), [4](https://www.legislation.gov.uk/uksi/2004/767/regulation/4)
 
@@ -109,9 +109,9 @@ summary: ''
 
 [^M_F_cc42c9c6-b107-4d5c-c2f5-3da21234784f]: Textual amendment: Sum in reg. 61(2) substituted (1.4.2007) by [The Value Added Tax (Amendment) (No.2) Regulations 2007 (S.I. 2007/768)](https://www.legislation.gov.uk/uksi/2007/768), [regs. 1](https://www.legislation.gov.uk/uksi/2007/768/regulation/1), [5](https://www.legislation.gov.uk/uksi/2007/768/regulation/5)
 
-[^key-720cce033875de94165ecd3378e1451d]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/1995/2518/regulation/62) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [7](https://www.legislation.gov.uk/uksi/1997/1614/regulation/7)
+[^c-720cce033875de94165ecd3378e1451d]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/1995/2518/regulation/62) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [7](https://www.legislation.gov.uk/uksi/1997/1614/regulation/7)
 
-[^key-4cb0c7c1ee600dcbaf093b335ca03feb]: Commencement: Reg. 63 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-4cb0c7c1ee600dcbaf093b335ca03feb]: Commencement: Reg. 63 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
 [^M_F_070d39e4-ef2f-4638-dea4-9c505bac7f37]: Textual amendment: [Reg. 63(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/63/1) substituted (3.7.1997) by [The Value Added Tax (Amendment) (No.3) Regulations 1997 (S.I. 1997/1614)](https://www.legislation.gov.uk/uksi/1997/1614), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1614/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/1997/1614/regulation/8/a)
 

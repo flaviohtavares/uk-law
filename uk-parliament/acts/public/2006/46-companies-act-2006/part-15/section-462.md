@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 462. Power to amend categories of permitted disclosure[^c18939381][^c20617491][^key-fcac9059691376c74e264811c62b598f]
+## 462. Power to amend categories of permitted disclosure[^c18939381][^c20617491][^c-fcac9059691376c74e264811c62b598f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20617491]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-fcac9059691376c74e264811c62b598f]: Modification: Ss. 441-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2)) (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
+[^c-fcac9059691376c74e264811c62b598f]: Modification: Ss. 441-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2)) (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))

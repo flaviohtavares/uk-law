@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Duties relating to residency, use, misuse and neglect of crofts[^key-0ce8d4cf40dc17afcafcbbce0f568a32]
+## 33. Duties relating to residency, use, misuse and neglect of crofts[^c-0ce8d4cf40dc17afcafcbbce0f568a32]
 
 *Extent: S*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ce8d4cf40dc17afcafcbbce0f568a32]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/14/section/33) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-0ce8d4cf40dc17afcafcbbce0f568a32]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/14/section/33) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

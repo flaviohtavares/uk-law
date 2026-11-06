@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Power to require local authority to assess childcare provision[^key-df26f3d55393d6002a2900d09cf76dd7]
+## 26. Power to require local authority to assess childcare provision[^c-df26f3d55393d6002a2900d09cf76dd7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df26f3d55393d6002a2900d09cf76dd7]: Commencement: S. 26 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-df26f3d55393d6002a2900d09cf76dd7]: Commencement: S. 26 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)

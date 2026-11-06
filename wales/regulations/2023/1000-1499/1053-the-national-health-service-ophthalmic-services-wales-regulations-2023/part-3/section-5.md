@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Eligibility for a sight test[^key-66360f861798ade6dc7eb7282eb167bf]
+## 5. Eligibility for a sight test[^c-66360f861798ade6dc7eb7282eb167bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person who meets any of the criteria in paragraph 1 of Schedule 1 is eligible 
 
 ## Annotations
 
-[^key-66360f861798ade6dc7eb7282eb167bf]: Commencement: Reg. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-66360f861798ade6dc7eb7282eb167bf]: Commencement: Reg. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

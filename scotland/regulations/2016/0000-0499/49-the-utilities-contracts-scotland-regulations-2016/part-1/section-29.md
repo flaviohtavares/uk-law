@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Exclusion: Contracts awarded to a joint venture or to a utility forming part of a joint venture[^key-e411ef1bc3c8e9b2da20123cc1911dff]
+## 29. Exclusion: Contracts awarded to a joint venture or to a utility forming part of a joint venture[^c-e411ef1bc3c8e9b2da20123cc1911dff]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e411ef1bc3c8e9b2da20123cc1911dff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2016/49/regulation/29) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-e411ef1bc3c8e9b2da20123cc1911dff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2016/49/regulation/29) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Adjustment of benefits to comply with the 2004 Act where members die over 75[^key-94d2b29c248fc97a6915408654a12e84]
+## 119. Adjustment of benefits to comply with the 2004 Act where members die over 75[^c-94d2b29c248fc97a6915408654a12e84]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94d2b29c248fc97a6915408654a12e84]: Commencement: [Reg. 119](https://www.legislation.gov.uk/nisr/2014/290/regulation/119) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-94d2b29c248fc97a6915408654a12e84]: Commencement: [Reg. 119](https://www.legislation.gov.uk/nisr/2014/290/regulation/119) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

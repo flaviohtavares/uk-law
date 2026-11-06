@@ -41,10 +41,10 @@ summary: ''
 - (a) in the case of paragraphs (a) and (b), the tax year in which the donation is withheld, and
 - (b) in the case of paragraphs (c) and (d), the tax year for which the income referred to in subsection (1)(a) is taxable pension income or taxable social security income, as the case may be.
 
-(6)[^key-c051082dab9f9469d2bfc6caedaf4b91] This section is subject to sections 809ZM and 809ZMB[^key-2ea0ce1c80f4661f04c3568bdf7497af] of ITA 2007 (removal of income tax relief in respect of tainted charity donations etc).
+(6)[^c-c051082dab9f9469d2bfc6caedaf4b91] This section is subject to sections 809ZM and 809ZMB[^c-2ea0ce1c80f4661f04c3568bdf7497af] of ITA 2007 (removal of income tax relief in respect of tainted charity donations etc).
 
 ## Annotations
 
-[^key-c051082dab9f9469d2bfc6caedaf4b91]: Textual amendment: [S. 713(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/713/6) inserted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/5)
+[^c-c051082dab9f9469d2bfc6caedaf4b91]: Textual amendment: [S. 713(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/713/6) inserted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/5)
 
-[^key-2ea0ce1c80f4661f04c3568bdf7497af]: Textual amendment: Words in [s. 713(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/713/6) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/21)
+[^c-2ea0ce1c80f4661f04c3568bdf7497af]: Textual amendment: Words in [s. 713(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/713/6) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/21)

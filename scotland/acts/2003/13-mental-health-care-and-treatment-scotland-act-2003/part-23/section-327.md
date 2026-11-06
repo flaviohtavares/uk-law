@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 327. Directions[^key-785f6b5f9d3332e69337182b1ca1243b][^key-6c2400afab3a72efcb6c8689b9028a4a]
+## 327. Directions[^c-785f6b5f9d3332e69337182b1ca1243b][^c-6c2400afab3a72efcb6c8689b9028a4a]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-785f6b5f9d3332e69337182b1ca1243b]: Commencement: S. 327 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-785f6b5f9d3332e69337182b1ca1243b]: Commencement: S. 327 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-6c2400afab3a72efcb6c8689b9028a4a]: Commencement: [S. 327](https://www.legislation.gov.uk/asp/2003/13/section/327) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-6c2400afab3a72efcb6c8689b9028a4a]: Commencement: [S. 327](https://www.legislation.gov.uk/asp/2003/13/section/327) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

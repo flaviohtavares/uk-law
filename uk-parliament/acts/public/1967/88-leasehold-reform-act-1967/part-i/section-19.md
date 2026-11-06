@@ -60,7 +60,7 @@ and the landlord for the time being shall have, for the enforcement of any charg
 
 (9) A scheme under this section may extend to property in which the landlord’s interest is disposed of otherwise than under this Part of this Act (whether residential property or not), so as to make that property, or allow it to be made, subject to any such provision as is or might be made by the scheme for property in which tenants acquire the landlord’s interest under this Part of this Act.
 
-(10) A certificate given or scheme approved under this section shall (notwithstanding section 2(a) or (b) of the[^c8295951] [^c8295961]Local Land Charges Act 1975) be a local land charge and for the purposes of that Act the landlord for the area to which it relates shall be treated as the originating authority as respects such charge; and where a scheme is registered in the [^key-a3701473cc3b648337220d1a0ed5c59d]... local land charges register—
+(10) A certificate given or scheme approved under this section shall (notwithstanding section 2(a) or (b) of the[^c8295951] [^c8295961]Local Land Charges Act 1975) be a local land charge and for the purposes of that Act the landlord for the area to which it relates shall be treated as the originating authority as respects such charge; and where a scheme is registered in the [^c-a3701473cc3b648337220d1a0ed5c59d]... local land charges register—
 
 - (a) the provisions of the scheme relating to property of any description shall, so far as they respectively affect the persons from time to time occupying or interested in that property, be enforceable by the landlord for the time being against them, as if each of them had covenanted with the landlord for the time being to be bound by the scheme; and
 - (b) in relation to a house and premises in the area section 10 above shall have effect subject to the provisions of the scheme, and the price payable under section 9 shall be adjusted accordingly.
@@ -109,6 +109,6 @@ then on an application made by that body either alone or jointly with the landlo
 
 [^c8295961]: Marginal citation: [1975 c. 76](https://www.legislation.gov.uk/ukpga/1975/76).
 
-[^key-a3701473cc3b648337220d1a0ed5c59d]: Textual amendment: Word in [s. 19(10)](https://www.legislation.gov.uk/ukpga/1967/88/section/19/10) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/32) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-a3701473cc3b648337220d1a0ed5c59d]: Textual amendment: Word in [s. 19(10)](https://www.legislation.gov.uk/ukpga/1967/88/section/19/10) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 32](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/32) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c8295971]: Textual amendment: S. 19(10A) inserted by [Local Land Charges Act 1975 (c. 76)](https://www.legislation.gov.uk/ukpga/1975/76), [Sch. 1](https://www.legislation.gov.uk/ukpga/1975/76/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.2. Definitions[^key-9f5cd7a50ba0d39c03a06431511ceaea]
+## 2.2. Definitions[^c-9f5cd7a50ba0d39c03a06431511ceaea]
 
 *Extent: E+W*
 
@@ -43,11 +43,11 @@ summary: ''
 
 (2) Special definitions and definitions of some other expressions are in the rules in which they apply.
 
-*[^key-449bfc310744a90e1e5bffdac1e31687]...*
+*[^c-449bfc310744a90e1e5bffdac1e31687]...*
 
 ## Annotations
 
-[^key-9f5cd7a50ba0d39c03a06431511ceaea]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/2025/909/rule/2.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9f5cd7a50ba0d39c03a06431511ceaea]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/uksi/2025/909/rule/2.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00044]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^f00049]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 7A was inserted by section 37 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-449bfc310744a90e1e5bffdac1e31687]: Textual amendment: Rule 2.2 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/1)
+[^c-449bfc310744a90e1e5bffdac1e31687]: Textual amendment: Rule 2.2 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/1)

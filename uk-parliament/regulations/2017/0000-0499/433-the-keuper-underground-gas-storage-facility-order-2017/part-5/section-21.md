@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Time limit for exercise of authority to acquire land compulsorily[^key-8b39b492bc55c88d0ead8d4d43157572]
+## 21. Time limit for exercise of authority to acquire land compulsorily[^c-8b39b492bc55c88d0ead8d4d43157572]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b39b492bc55c88d0ead8d4d43157572]: Commencement: Art. 21 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-8b39b492bc55c88d0ead8d4d43157572]: Commencement: Art. 21 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
 
 [^f00019]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

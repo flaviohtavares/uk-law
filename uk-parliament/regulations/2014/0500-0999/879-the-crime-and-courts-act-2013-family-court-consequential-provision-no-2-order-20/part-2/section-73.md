@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**73.**[^key-2446567b23e64079a62c1a9ca7c96e39] In section 21, for the definition of “appropriate court” substitute—
+**73.**[^c-2446567b23e64079a62c1a9ca7c96e39] In section 21, for the definition of “appropriate court” substitute—
 
 > - “the appropriate court”—
 >   - (a) in relation to a person residing or having assets in England and Wales means the family court; and
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2446567b23e64079a62c1a9ca7c96e39]: Commencement: Art. 73 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-2446567b23e64079a62c1a9ca7c96e39]: Commencement: Art. 73 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

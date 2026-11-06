@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Disabled students[^key-ba67261da9b4b38f4179563f1c3709d3]
+## 83. Disabled students[^c-ba67261da9b4b38f4179563f1c3709d3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A disabled student who is undertaking a qualifying course in the United Kingdom 
 
 ## Annotations
 
-[^key-ba67261da9b4b38f4179563f1c3709d3]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2007/195/regulation/83) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ba67261da9b4b38f4179563f1c3709d3]: Commencement: [Reg. 83](https://www.legislation.gov.uk/nisr/2007/195/regulation/83) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

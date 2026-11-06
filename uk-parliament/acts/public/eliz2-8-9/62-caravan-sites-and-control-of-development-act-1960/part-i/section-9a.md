@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9A. Breach of condition: relevant protected sites in England[^key-b0c188e6466cfa9e69646e4c45806079]
+## 9A. Breach of condition: relevant protected sites in England[^c-b0c188e6466cfa9e69646e4c45806079]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) specifies the period within which those steps must be taken, and
 - (d) explains the right of appeal conferred by subsection (3).
 
-(3) An occupier of land who has been served with a compliance notice may appeal to the tribunal[^key-f5c222e530776a9b89106496fbeb6b81] against that notice (for further provision about appeals under this section, see section 9G).
+(3) An occupier of land who has been served with a compliance notice may appeal to the tribunal[^c-f5c222e530776a9b89106496fbeb6b81] against that notice (for further provision about appeals under this section, see section 9G).
 
 (4) A local authority may—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c188e6466cfa9e69646e4c45806079]: Textual amendment: Ss. 9A-9C inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/4/2), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-b0c188e6466cfa9e69646e4c45806079]: Textual amendment: Ss. 9A-9C inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/4/2), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
 
-[^key-f5c222e530776a9b89106496fbeb6b81]: Textual amendment: Words in s. 9A(3) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/6)
+[^c-f5c222e530776a9b89106496fbeb6b81]: Textual amendment: Words in s. 9A(3) substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/6)

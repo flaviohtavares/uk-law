@@ -28,7 +28,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2011 (revoked)[^key-23d23435af58aa887234a70cd1881684]
+The Immigration (European Economic Area) (Amendment) Regulations 2011 (revoked)[^c-23d23435af58aa887234a70cd1881684]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 2nd June 2011
 
-[^key-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-23d23435af58aa887234a70cd1881684]
+## 1. Citation, commencement and interpretation[^c-23d23435af58aa887234a70cd1881684]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2006 Regulations[^key-23d23435af58aa887234a70cd1881684]
+## 2. Amendment of the 2006 Regulations[^c-23d23435af58aa887234a70cd1881684]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23d23435af58aa887234a70cd1881684]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23d23435af58aa887234a70cd1881684]: Textual amendment: Regulations revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1052/schedule/6))
+[^c-23d23435af58aa887234a70cd1881684]: Textual amendment: Regulations revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1) (with [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2016/1052/schedule/6))

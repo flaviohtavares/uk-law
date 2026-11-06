@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91C. Condition 1 for section 91B(6)(b)[^key-f124a94f0a537d88eda1ff2032d4e18a]
+## 91C. Condition 1 for section 91B(6)(b)[^c-f124a94f0a537d88eda1ff2032d4e18a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f124a94f0a537d88eda1ff2032d4e18a]: Textual amendment: [S. 91C](https://www.legislation.gov.uk/ukpga/1996/8/section/91C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 419](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/419), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f124a94f0a537d88eda1ff2032d4e18a]: Textual amendment: [S. 91C](https://www.legislation.gov.uk/ukpga/1996/8/section/91C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 419](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/419), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -22,10 +22,10 @@ summary: ''
 
 Regulation 2A(1)(b)
 
-[^key-25955a9e3dd63094556fac9cab3ee5f2]...
+[^c-25955a9e3dd63094556fac9cab3ee5f2]...
 
-- [^key-25955a9e3dd63094556fac9cab3ee5f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-25955a9e3dd63094556fac9cab3ee5f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25955a9e3dd63094556fac9cab3ee5f2]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/uksi/1987/1967/schedule/3C) omitted (6.10.2003) by virtue of [The Social Security (Removal of Residential Allowance and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1121)](https://www.legislation.gov.uk/uksi/2003/1121), [reg. 1](https://www.legislation.gov.uk/uksi/2003/1121/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1121/schedule/1/paragraph/7)
+[^c-25955a9e3dd63094556fac9cab3ee5f2]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/uksi/1987/1967/schedule/3C) omitted (6.10.2003) by virtue of [The Social Security (Removal of Residential Allowance and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1121)](https://www.legislation.gov.uk/uksi/2003/1121), [reg. 1](https://www.legislation.gov.uk/uksi/2003/1121/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2003/1121/schedule/1/paragraph/7)

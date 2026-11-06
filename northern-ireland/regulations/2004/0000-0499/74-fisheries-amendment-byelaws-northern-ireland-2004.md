@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment) Byelaws (Northern Ireland) 2004 (revoked)[^key-1494d210b58b177526f79a78d312689b]
+Fisheries (Amendment) Byelaws (Northern Ireland) 2004 (revoked)[^c-1494d210b58b177526f79a78d312689b]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 29th March 2004
 
-[^key-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1494d210b58b177526f79a78d312689b]
+## 1. Citation and commencement[^c-1494d210b58b177526f79a78d312689b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^key-1494d210b58b177526f79a78d312689b]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 2003[^c-1494d210b58b177526f79a78d312689b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1494d210b58b177526f79a78d312689b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1494d210b58b177526f79a78d312689b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1494d210b58b177526f79a78d312689b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1494d210b58b177526f79a78d312689b]: Textual amendment: Byelaws revoked (1.1.2005) by [Fisheries (Amendment No. 2) Byelaws (Northern Ireland) 2004 (S.R. 2004/504)](https://www.legislation.gov.uk/nisr/2004/504), byelaw 7
+[^c-1494d210b58b177526f79a78d312689b]: Textual amendment: Byelaws revoked (1.1.2005) by [Fisheries (Amendment No. 2) Byelaws (Northern Ireland) 2004 (S.R. 2004/504)](https://www.legislation.gov.uk/nisr/2004/504), byelaw 7

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Regulation 5[^key-6b6a948d39a8848697a72a013bb20d35]
+## 4. Regulation 5[^c-6b6a948d39a8848697a72a013bb20d35]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In regulation 5 (circumstances in which a person is or is not to be treated as o
 
 ## Annotations
 
-[^key-6b6a948d39a8848697a72a013bb20d35]: Commencement: Reg. 4 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-6b6a948d39a8848697a72a013bb20d35]: Commencement: Reg. 4 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00012]: Footnote: Paragraph (6)(c)(ii) was amended by regulation 2 of [S.R. 1989 No. 260](https://www.legislation.gov.uk/nisr/1989/260)

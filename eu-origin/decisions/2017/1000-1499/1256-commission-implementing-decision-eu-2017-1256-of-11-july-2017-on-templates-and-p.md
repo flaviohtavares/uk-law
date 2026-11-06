@@ -35,187 +35,187 @@ on templates and procedures for the exchange of information on the EURES network
 
 (Text with EEA relevance) (revoked)
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d61a6857e9a6c5f05014efde5869a74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-9d61a6857e9a6c5f05014efde5869a74]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. The organisation of the programming cycle[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 1. Subject matter[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Roles and responsibilities of the National Coordination Offices[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 2. The organisation of the programming cycle[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Roles and responsibilities of the European Coordination Office[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 3. Roles and responsibilities of the National Coordination Offices[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Roles and responsibilities of EURES Members and Partners[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 4. Roles and responsibilities of the European Coordination Office[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Roles and responsibilities of the Coordination Group[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 5. Roles and responsibilities of EURES Members and Partners[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Template[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 6. Roles and responsibilities of the Coordination Group[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Process[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 7. Template[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-9d61a6857e9a6c5f05014efde5869a74]
+## Article 8. Process[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-9d61a6857e9a6c5f05014efde5869a74]
 
-## ANNEX I — TEMPLATE TO BE USED BY THE NATIONAL COORDINATION OFFICES TO DRAW UP THEIR ANNUAL WORK PROGRAMMES[^key-9d61a6857e9a6c5f05014efde5869a74]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9d61a6857e9a6c5f05014efde5869a74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — TEMPLATE TO BE USED BY THE NATIONAL COORDINATION OFFICES TO DRAW UP THEIR ANNUAL WORK PROGRAMMES[^c-9d61a6857e9a6c5f05014efde5869a74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]1.
+[^c-9d61a6857e9a6c5f05014efde5869a74]1.
 
 EXECUTIVE SUMMARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]2.
+[^c-9d61a6857e9a6c5f05014efde5869a74]2.
 
 GENERAL SUPPORT SERVICES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]2.1.
+[^c-9d61a6857e9a6c5f05014efde5869a74]2.1.
 
 *Support services for workers*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]2.2.
+[^c-9d61a6857e9a6c5f05014efde5869a74]2.2.
 
 *Support services for employers*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.
 
 SPECIFIC SUPPORT SERVICES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.1.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.1.
 
 *Support to apprenticeships and traineeships*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.2.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.2.
 
 *Support services in cross-border regions*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.3.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.3.
 
 *Post-recruitment assistance*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.4.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.4.
 
 *Other activities and contributions to other programmes*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.
 
 RESOURCES AND GOVERNANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.1.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.1.
 
 *Human resources*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.2.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.2.
 
 *Financial resources*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.3.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.3.
 
 *IT/Infrastructure*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.4.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.4.
 
 *Governance*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.5.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.5.
 
 *Training*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.6.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.6.
 
 *Communication*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.7.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.7.
 
 *Monitoring and evaluation of activities*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — TIMELINE FOR THE PREPARATION OF THE ANNUAL NATIONAL WORK PROGRAMME[^key-9d61a6857e9a6c5f05014efde5869a74]
+## ANNEX II — TIMELINE FOR THE PREPARATION OF THE ANNUAL NATIONAL WORK PROGRAMME[^c-9d61a6857e9a6c5f05014efde5869a74]
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]1.
+[^c-9d61a6857e9a6c5f05014efde5869a74]1.
 
 PREPARATION PHASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]2.
+[^c-9d61a6857e9a6c5f05014efde5869a74]2.
 
 DRAFTING PHASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]3.
+[^c-9d61a6857e9a6c5f05014efde5869a74]3.
 
 JOINT REVIEW PHASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]4.
+[^c-9d61a6857e9a6c5f05014efde5869a74]4.
 
 ADOPTION PHASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]5.
+[^c-9d61a6857e9a6c5f05014efde5869a74]5.
 
 IMPLEMENTATION PHASE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]6.
+[^c-9d61a6857e9a6c5f05014efde5869a74]6.
 
 REPORTING PHASE
 
@@ -223,4 +223,4 @@ REPORTING PHASE
 
 ## Annotations
 
-[^key-9d61a6857e9a6c5f05014efde5869a74]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d61a6857e9a6c5f05014efde5869a74]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

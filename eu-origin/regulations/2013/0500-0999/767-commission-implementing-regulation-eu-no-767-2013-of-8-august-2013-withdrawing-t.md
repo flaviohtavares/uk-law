@@ -35,34 +35,34 @@ withdrawing the approval of the active substance bitertanol, in accordance with 
 
 (Text with EEA relevance) (revoked)
 
-[^key-d509469651d5097df7535991edf8d59d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d509469651d5097df7535991edf8d59d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Withdrawal of approval[^key-d509469651d5097df7535991edf8d59d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Repeal of Implementing Regulation (EU) No 1278/2011[^key-d509469651d5097df7535991edf8d59d]
+## Article 1. Withdrawal of approval[^c-d509469651d5097df7535991edf8d59d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Implementing Regulation (EU) No 540/2011[^key-d509469651d5097df7535991edf8d59d]
+## Article 2. Repeal of Implementing Regulation (EU) No 1278/2011[^c-d509469651d5097df7535991edf8d59d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-d509469651d5097df7535991edf8d59d]
+## Article 3. Amendment to Implementing Regulation (EU) No 540/2011[^c-d509469651d5097df7535991edf8d59d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Grace period[^key-d509469651d5097df7535991edf8d59d]
+## Article 4. Transitional measures[^c-d509469651d5097df7535991edf8d59d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-d509469651d5097df7535991edf8d59d]
+## Article 5. Grace period[^c-d509469651d5097df7535991edf8d59d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d509469651d5097df7535991edf8d59d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Entry into force[^c-d509469651d5097df7535991edf8d59d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d509469651d5097df7535991edf8d59d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d509469651d5097df7535991edf8d59d]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d509469651d5097df7535991edf8d59d]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

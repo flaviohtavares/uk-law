@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15.1. Scope and effect of interim faculties[^key-9797dc6c4f2a1c59cac7bb9e23871ed1]
+## 15.1. Scope and effect of interim faculties[^c-9797dc6c4f2a1c59cac7bb9e23871ed1]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9797dc6c4f2a1c59cac7bb9e23871ed1]: Commencement: [Rule 15.1](https://www.legislation.gov.uk/uksi/2015/1568/article/15.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-9797dc6c4f2a1c59cac7bb9e23871ed1]: Commencement: [Rule 15.1](https://www.legislation.gov.uk/uksi/2015/1568/article/15.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

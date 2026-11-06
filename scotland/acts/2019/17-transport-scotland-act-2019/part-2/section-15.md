@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Grace period[^key-f28761581cc160d286114aef0e1549ee]
+## 15. Grace period[^c-f28761581cc160d286114aef0e1549ee]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f28761581cc160d286114aef0e1549ee]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/17/section/15) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-f28761581cc160d286114aef0e1549ee]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/17/section/15) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

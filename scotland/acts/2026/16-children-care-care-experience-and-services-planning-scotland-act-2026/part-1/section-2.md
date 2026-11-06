@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Assessment of needs[^key-6bc2ae90813b55b41f3e3c186cd3c46e]
+## 2. Assessment of needs[^c-6bc2ae90813b55b41f3e3c186cd3c46e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc2ae90813b55b41f3e3c186cd3c46e]: Commencement: S. 2 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-6bc2ae90813b55b41f3e3c186cd3c46e]: Commencement: S. 2 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

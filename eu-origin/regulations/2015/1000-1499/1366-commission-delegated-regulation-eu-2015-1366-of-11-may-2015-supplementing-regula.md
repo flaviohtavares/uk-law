@@ -95,7 +95,7 @@ HAS ADOPTED THIS REGULATION:
 
 For the purposes of this Regulation, the term ‘beehive’ means the unit containing a honeybee colony used for the production of honey, other apiculture products or honeybee breeding material, and all the elements necessary for its survival.
 
-## Article 1A. Appropriate authority[^key-0fe670fce44e0ad87eb90bd8733ef785]
+## Article 1A. Appropriate authority[^c-0fe670fce44e0ad87eb90bd8733ef785]
 
 For the purposes of this Regulation, ‘appropriate authority’ means:
 
@@ -108,17 +108,17 @@ For the purposes of this Regulation, ‘appropriate authority’ means:
   - (i) in relation to Scotland, if consent is given by the Scottish Ministers;
   - (ii) in relation to Northern Ireland, if consent is given by the Department of Agriculture, Environment and Rural Affairs.
 
-## Article 2. Method to determine the number of beehives[^key-cb0c0fe3f7be9188c8f113d5afcbb6b8]
+## Article 2. Method to determine the number of beehives[^c-cb0c0fe3f7be9188c8f113d5afcbb6b8]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Notification of the number of beehives[^key-cb0c0fe3f7be9188c8f113d5afcbb6b8]
+## Article 3. Notification of the number of beehives[^c-cb0c0fe3f7be9188c8f113d5afcbb6b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Union contribution to apiculture programmes[^key-cb0c0fe3f7be9188c8f113d5afcbb6b8]
+## Article 4. Union contribution to apiculture programmes[^c-cb0c0fe3f7be9188c8f113d5afcbb6b8]
 
 **No longer in force.**
 
@@ -126,7 +126,7 @@ For the purposes of this Regulation, ‘appropriate authority’ means:
 
 ## Article 5. Avoidance of double funding
 
-The appropriate authority[^key-9e4698c5d5d3ca6b7e43d43a1abe583c] shall ensure that there is no double funding of apiculture programmes under aid in the apiculture sector pursuant to Article 55 of Regulation (EU) No 1308/2013 and rural development support pursuant to Regulation (EU) No 1305/2013.
+The appropriate authority[^c-9e4698c5d5d3ca6b7e43d43a1abe583c] shall ensure that there is no double funding of apiculture programmes under aid in the apiculture sector pursuant to Article 55 of Regulation (EU) No 1308/2013 and rural development support pursuant to Regulation (EU) No 1305/2013.
 
 ## Article 6. Operative event for the exchange rate
 
@@ -138,7 +138,7 @@ Regulation (EC) No 917/2004 is repealed.
 
 However, Regulation (EC) No 917/2004 shall continue to apply to the apiculture programmes approved before 1 January 2014 until those programmes come to an end.
 
-## Article 8. Transitional measures[^key-e7a45366e6c3e9613bdc07239cb63ad7]
+## Article 8. Transitional measures[^c-e7a45366e6c3e9613bdc07239cb63ad7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -146,7 +146,7 @@ However, Regulation (EC) No 917/2004 shall continue to apply to the apiculture p
 
 This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-326232d83fd07b7610a7f7da1435a256]...
+[^c-326232d83fd07b7610a7f7da1435a256]...
 
 Done at Brussels, 11 May 2015.
 
@@ -170,12 +170,12 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Commission Delegated Regulation (EU) No 907/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro ([OJ L 255, 28.8.2014, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.255.01.0018.01.ENG)).
 
-[^key-0fe670fce44e0ad87eb90bd8733ef785]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2015/1366/article/1A) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fe670fce44e0ad87eb90bd8733ef785]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2015/1366/article/1A) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb0c0fe3f7be9188c8f113d5afcbb6b8]: Textual amendment: [Arts. 2-4](https://www.legislation.gov.uk/eur/2015/1366/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb0c0fe3f7be9188c8f113d5afcbb6b8]: Textual amendment: [Arts. 2-4](https://www.legislation.gov.uk/eur/2015/1366/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e4698c5d5d3ca6b7e43d43a1abe583c]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2015/1366/article/5) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e4698c5d5d3ca6b7e43d43a1abe583c]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2015/1366/article/5) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7a45366e6c3e9613bdc07239cb63ad7]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2015/1366/article/8) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7a45366e6c3e9613bdc07239cb63ad7]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2015/1366/article/8) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-326232d83fd07b7610a7f7da1435a256]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/1366/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-326232d83fd07b7610a7f7da1435a256]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/1366/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

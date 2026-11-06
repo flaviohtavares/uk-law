@@ -22,15 +22,15 @@ summary: ''
 
 Section 125
 
-**1.**[^key-ae75d90cb911136fdd939cbfea6027ec][^key-7a56fe4be974a0df9a1703d4385c67bb] Chapter 4 of Part 1 of CA 1998 (appeals before the Competition Appeal Tribunal etc) is amended as follows.
+**1.**[^c-ae75d90cb911136fdd939cbfea6027ec][^c-7a56fe4be974a0df9a1703d4385c67bb] Chapter 4 of Part 1 of CA 1998 (appeals before the Competition Appeal Tribunal etc) is amended as follows.
 
-**2.**[^key-fbe4de02fd760c41e6a56bb4c7a835e1][^key-3bae1a6c00c5d9302ff7ba4547f0bd36] In the italic heading before section 47A, after “damage” insert “, or for declaratory relief”.
+**2.**[^c-fbe4de02fd760c41e6a56bb4c7a835e1][^c-3bae1a6c00c5d9302ff7ba4547f0bd36] In the italic heading before section 47A, after “damage” insert “, or for declaratory relief”.
 
-**3.**[^key-38f87be5b8c97ca0b7de32d1be346930][^key-f2e00b8e2856ee91a82560fa911f954f] In section 47A (proceedings before the Tribunal: claims for damages etc), after subsection (3) insert—
+**3.**[^c-38f87be5b8c97ca0b7de32d1be346930][^c-f2e00b8e2856ee91a82560fa911f954f] In section 47A (proceedings before the Tribunal: claims for damages etc), after subsection (3) insert—
 
 > (3A) This section also applies to a claim for a declaration or, in relation to Scotland, for a declarator which a person may make in respect of an infringement decision or an alleged infringement of the Chapter 1 prohibition or the Chapter 2 prohibition.
 
-**4.**[^key-267306bdd8716bb426863ab647192602][^key-ddb28b5c9b167ca663c48e206f56845f] After section 47D insert—
+**4.**[^c-267306bdd8716bb426863ab647192602][^c-ddb28b5c9b167ca663c48e206f56845f] After section 47D insert—
 
 > **47DA. Proceedings under section 47A or collective proceedings: declaratory relief**
 >
@@ -44,15 +44,15 @@ Section 125
 >
 > (5) The Tribunal may grant a declaration or declarator in proceedings under section 47A or collective proceedings whether or not any other remedy is claimed.
 
-**5.**[^key-4631ebbda75fb45b5c85d66d1072f8d9][^key-796feafdac97c0a79d06d197a9ce296f] In the italic heading before section 47F, after “damage” insert “, or for declaratory relief,”.
+**5.**[^c-4631ebbda75fb45b5c85d66d1072f8d9][^c-796feafdac97c0a79d06d197a9ce296f] In the italic heading before section 47F, after “damage” insert “, or for declaratory relief,”.
 
-**6.**[^key-12013841937aff69281af3ac03c408b1][^key-5e81b4bb1d22f6d8f60b01c1903d7f33] (1) Section 47F (further provision about claims in respect of loss or damage before a court or the Tribunal) is amended as follows.
+**6.**[^c-12013841937aff69281af3ac03c408b1][^c-5e81b4bb1d22f6d8f60b01c1903d7f33] (1) Section 47F (further provision about claims in respect of loss or damage before a court or the Tribunal) is amended as follows.
 
 (2) In the heading, after “damage” insert “, or for declaratory relief,”.
 
 (3) In the text, after “damage” insert “, or for declarations or declarators,”.
 
-**7.**[^key-0b4fe9f43706beaa1f103b86f2b91316][^key-5f1bfc993335281f0be877e7567571dc] (1) In section 49 (further appeals from the Tribunal), subsection (1A) is amended as follows.
+**7.**[^c-0b4fe9f43706beaa1f103b86f2b91316][^c-5f1bfc993335281f0be877e7567571dc] (1) In section 49 (further appeals from the Tribunal), subsection (1A) is amended as follows.
 
 (2) Omit the “or” at the end of paragraph (a).
 
@@ -62,7 +62,7 @@ Section 125
 >
 > - (c) as to the grant of a declaration or a declarator.
 
-**8.**[^key-d11c30d9a49a9d6b63e9edb2e7e4286f][^key-6e4d5b48ba226549f36628d231b559c1] (1) Schedule 8A (further provision about claims in respect of loss or damage before a court or the Tribunal) is amended as follows.
+**8.**[^c-d11c30d9a49a9d6b63e9edb2e7e4286f][^c-6e4d5b48ba226549f36628d231b559c1] (1) Schedule 8A (further provision about claims in respect of loss or damage before a court or the Tribunal) is amended as follows.
 
 (2) In the heading, after “damage” insert “, or for declaratory relief,”.
 
@@ -131,7 +131,7 @@ Section 125
 
 (13) Omit paragraph 44 (definition of “relevant day”).
 
-**9.**[^key-0dd6e8f57e7fcedb16633ff7300d6b4d][^key-f43cf294a2217c1a7d1416d9156386a6] In Schedule 4 to EA 2002 (Competition Appeal Tribunal: procedure), after paragraph 21A insert—
+**9.**[^c-0dd6e8f57e7fcedb16633ff7300d6b4d][^c-f43cf294a2217c1a7d1416d9156386a6] In Schedule 4 to EA 2002 (Competition Appeal Tribunal: procedure), after paragraph 21A insert—
 
 > **21B. Declarations and declarators**
 >
@@ -139,38 +139,38 @@ Section 125
 
 ## Annotations
 
-[^key-ae75d90cb911136fdd939cbfea6027ec]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ae75d90cb911136fdd939cbfea6027ec]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7a56fe4be974a0df9a1703d4385c67bb]: Commencement: Sch. 3 para. 1 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-7a56fe4be974a0df9a1703d4385c67bb]: Commencement: Sch. 3 para. 1 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-fbe4de02fd760c41e6a56bb4c7a835e1]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fbe4de02fd760c41e6a56bb4c7a835e1]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3bae1a6c00c5d9302ff7ba4547f0bd36]: Commencement: Sch. 3 para. 2 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-3bae1a6c00c5d9302ff7ba4547f0bd36]: Commencement: Sch. 3 para. 2 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-38f87be5b8c97ca0b7de32d1be346930]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-38f87be5b8c97ca0b7de32d1be346930]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f2e00b8e2856ee91a82560fa911f954f]: Commencement: Sch. 3 para. 3 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-f2e00b8e2856ee91a82560fa911f954f]: Commencement: Sch. 3 para. 3 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-267306bdd8716bb426863ab647192602]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-267306bdd8716bb426863ab647192602]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ddb28b5c9b167ca663c48e206f56845f]: Commencement: Sch. 3 para. 4 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-ddb28b5c9b167ca663c48e206f56845f]: Commencement: Sch. 3 para. 4 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-4631ebbda75fb45b5c85d66d1072f8d9]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-4631ebbda75fb45b5c85d66d1072f8d9]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-796feafdac97c0a79d06d197a9ce296f]: Commencement: Sch. 3 para. 5 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-796feafdac97c0a79d06d197a9ce296f]: Commencement: Sch. 3 para. 5 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-12013841937aff69281af3ac03c408b1]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-12013841937aff69281af3ac03c408b1]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5e81b4bb1d22f6d8f60b01c1903d7f33]: Commencement: Sch. 3 para. 6 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5e81b4bb1d22f6d8f60b01c1903d7f33]: Commencement: Sch. 3 para. 6 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-0b4fe9f43706beaa1f103b86f2b91316]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0b4fe9f43706beaa1f103b86f2b91316]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5f1bfc993335281f0be877e7567571dc]: Commencement: Sch. 3 para. 7 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5f1bfc993335281f0be877e7567571dc]: Commencement: Sch. 3 para. 7 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-d11c30d9a49a9d6b63e9edb2e7e4286f]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d11c30d9a49a9d6b63e9edb2e7e4286f]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6e4d5b48ba226549f36628d231b559c1]: Commencement: Sch. 3 para. 8 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-6e4d5b48ba226549f36628d231b559c1]: Commencement: Sch. 3 para. 8 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-0dd6e8f57e7fcedb16633ff7300d6b4d]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0dd6e8f57e7fcedb16633ff7300d6b4d]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f43cf294a2217c1a7d1416d9156386a6]: Commencement: Sch. 3 para. 9 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-f43cf294a2217c1a7d1416d9156386a6]: Commencement: Sch. 3 para. 9 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/9) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

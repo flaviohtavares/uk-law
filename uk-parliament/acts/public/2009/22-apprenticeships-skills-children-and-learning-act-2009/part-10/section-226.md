@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Powers of persons providing administrative support in connection with inspections[^key-d3844234b9d034c0233e4fb9dbc16468]
+## 226. Powers of persons providing administrative support in connection with inspections[^c-d3844234b9d034c0233e4fb9dbc16468]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3844234b9d034c0233e4fb9dbc16468]: Commencement: S. 226 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-d3844234b9d034c0233e4fb9dbc16468]: Commencement: S. 226 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

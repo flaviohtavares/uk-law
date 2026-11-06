@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Power to enter into concession agreements and lease or transfer the undertaking, etc.[^key-57d72e01175ca84ce8e501faf1ec8d6a]
+## 43. Power to enter into concession agreements and lease or transfer the undertaking, etc.[^c-57d72e01175ca84ce8e501faf1ec8d6a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57d72e01175ca84ce8e501faf1ec8d6a]: Commencement: Art. 43 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-57d72e01175ca84ce8e501faf1ec8d6a]: Commencement: Art. 43 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Limited liability partnerships.[^key-156ef238444d10c14e264989d94b4c1f]
+## 59A. Limited liability partnerships.[^c-156ef238444d10c14e264989d94b4c1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ it shall be assessed and charged on the limited liability partnership as if subs
 
 ## Annotations
 
-[^key-156ef238444d10c14e264989d94b4c1f]: Textual amendment: S. 59A inserted (6.4.2001) by [Limited Liability Partnerships Act 2000 (c. 12)](https://www.legislation.gov.uk/ukpga/2000/12), ss. 10(3), 19(1); [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), art. 2; s. 59A substituted (retrospectively) (6.4.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/2)[(6)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/6) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-156ef238444d10c14e264989d94b4c1f]: Textual amendment: S. 59A inserted (6.4.2001) by [Limited Liability Partnerships Act 2000 (c. 12)](https://www.legislation.gov.uk/ukpga/2000/12), ss. 10(3), 19(1); [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), art. 2; s. 59A substituted (retrospectively) (6.4.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/2)[(6)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/6) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))

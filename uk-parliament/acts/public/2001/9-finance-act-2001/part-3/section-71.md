@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-95a5f9feeae96b1ffa9439d311d027ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-95a5f9feeae96b1ffa9439d311d027ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-95a5f9feeae96b1ffa9439d311d027ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-95a5f9feeae96b1ffa9439d311d027ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following provisions of the Taxes Act 1988 are repealed—
 
@@ -37,4 +37,4 @@ The repeals have effect in relation to payments actually receivable on or after 
 
 ## Annotations
 
-[^key-95a5f9feeae96b1ffa9439d311d027ef]: Textual amendment: S. 71(1)(2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-95a5f9feeae96b1ffa9439d311d027ef]: Textual amendment: S. 71(1)(2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

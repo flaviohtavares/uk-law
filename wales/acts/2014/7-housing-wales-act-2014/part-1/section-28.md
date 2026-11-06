@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Prosecution by a licensing authority or a local housing authority[^key-aa87490905b41140427b38df2bd9f310]
+## 28. Prosecution by a licensing authority or a local housing authority[^c-aa87490905b41140427b38df2bd9f310]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa87490905b41140427b38df2bd9f310]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2014/7/section/28) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-aa87490905b41140427b38df2bd9f310]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2014/7/section/28) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

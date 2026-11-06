@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Part III of Schedule 12 makes provision about certificates which the appropriate regulator[^key-3b11124a793acad217cd7f02c28b5866] may issue in relation to insurance business transfers taking place outside the United Kingdom.
+Part III of Schedule 12 makes provision about certificates which the appropriate regulator[^c-3b11124a793acad217cd7f02c28b5866] may issue in relation to insurance business transfers taking place outside the United Kingdom.
 
 ## Annotations
 
-[^key-3b11124a793acad217cd7f02c28b5866]: Textual amendment: Words in s. 115 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/6/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3b11124a793acad217cd7f02c28b5866]: Textual amendment: Words in s. 115 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/6/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -29,7 +29,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 3 and 4 of this Schedule, are shown by solid black shading (as shown in the key on the streets, rights of way and access plans) over the extent of stopping up described in column (3) of Parts 3 and 4 of this Schedule, and are given a reference label (a number and a lower case letter in a circle).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are specified in column (4) of Part 4 of this Schedule, are shown by yellow crosshatching (as shown in the key on the streets, rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-91087fee68bc51973402282bd4518839]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-91087fee68bc51973402282bd4518839]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 | Wyboston, Chawston & Colesden CP | Footpath No. 8 as shown on Sheet 1 of the streets, rights of way and access plans. | Footpath from point a/4 to point a/6 for a total distance of 147 metres as shown on Sheet 1 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council & Abbotsley CP | Footpath No. 1/11 as shown on Sheet 5 of the streets, rights of way and access plans. | Footpath from point e/1 to e/2 for a total distance of 8m as shown on Sheet 5 of the streets, rights of way and access plans. |
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-f0e214bc6e9dabdbd0caddd8fc3ad0c6]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-f0e214bc6e9dabdbd0caddd8fc3ad0c6]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New highway to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -123,7 +123,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 | Papworth Everard CP, Caxton CP | \- | \- | 25 metres of footway from point 14/8 to point 14/9 as shown on Sheet 14 of the streets, rights of way and access plans. |
 | Papworth Everard CP | \- | \- | 41 metres of footway from point 14/10 to point 14/11 as shown on Sheet 14 of the streets, rights of way and access plans. |
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-9ecc23cdf208959d4c83294e2195d0ea]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-9ecc23cdf208959d4c83294e2195d0ea]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted or provided* |
 | --- | --- | --- | --- |
@@ -194,7 +194,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 | Caxton CP, Papworth Everard CP | \- | \- | Reference 52<br>The new private means of access to adjacent land off the Caxton Gibbet junction west roundabout for a distance of 15 metres, as shown on Sheet 14 of the streets, rights of way and access plans. |
 | Elsworth CP | \- | \- | Reference 61<br>The new private means of access to an attenuation basin and adjacent land (including layby) off the Caxton Gibbet junction north roundabout and Brockley Road for a distance of 972 metres as shown on Sheets 14 and 15 of the streets, rights of way and access plans. |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-24b253c5774f3937ef9fca534c560279]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-24b253c5774f3937ef9fca534c560279]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -218,10 +218,10 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 
 ## Annotations
 
-[^key-91087fee68bc51973402282bd4518839]: Commencement: Sch. 4 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-91087fee68bc51973402282bd4518839]: Commencement: Sch. 4 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-f0e214bc6e9dabdbd0caddd8fc3ad0c6]: Commencement: Sch. 4 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-f0e214bc6e9dabdbd0caddd8fc3ad0c6]: Commencement: Sch. 4 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-9ecc23cdf208959d4c83294e2195d0ea]: Commencement: Sch. 4 Pt. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-9ecc23cdf208959d4c83294e2195d0ea]: Commencement: Sch. 4 Pt. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-24b253c5774f3937ef9fca534c560279]: Commencement: Sch. 4 Pt. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-24b253c5774f3937ef9fca534c560279]: Commencement: Sch. 4 Pt. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

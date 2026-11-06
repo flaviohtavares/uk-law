@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Requirement for agents to be licensed to carry out lettings work[^key-c7e8ce31cbed52c53899e5f56501c9ee]
+## 9. Requirement for agents to be licensed to carry out lettings work[^c-c7e8ce31cbed52c53899e5f56501c9ee]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e8ce31cbed52c53899e5f56501c9ee]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2014/7/section/9) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-c7e8ce31cbed52c53899e5f56501c9ee]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2014/7/section/9) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

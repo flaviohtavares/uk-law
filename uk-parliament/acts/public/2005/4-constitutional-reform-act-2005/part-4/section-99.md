@@ -29,7 +29,7 @@ summary: ''
 - (a) selection under this Part;
 - (b) recommendation for or appointment to an office listed in Schedule 14.
 
-(3A)[^key-1ce73471d36ccb41082c8be474deb0b3] An LCJ complaint is a complaint by a qualifying complainant of maladministration by the Lord Chief Justice or the Lord Chief Justice's nominee, or anyone acting on behalf of either of them, in connection with—
+(3A)[^c-1ce73471d36ccb41082c8be474deb0b3] An LCJ complaint is a complaint by a qualifying complainant of maladministration by the Lord Chief Justice or the Lord Chief Justice's nominee, or anyone acting on behalf of either of them, in connection with—
 
 - (a) selection under this Part for an office listed in Table 2 of Part 1 or 2 of Schedule 14,
 - (b) appointment to an office listed in Table 2 of Part 2 of that Schedule, or
@@ -46,4 +46,4 @@ or of maladministration by the Lord Chief Justice or the Master of the Rolls or 
 
 ## Annotations
 
-[^key-1ce73471d36ccb41082c8be474deb0b3]: Textual amendment: [S. 99(3A)](https://www.legislation.gov.uk/ukpga/2005/4/section/99/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2005/4/section/99/3B) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 71(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/71/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-1ce73471d36ccb41082c8be474deb0b3]: Textual amendment: [S. 99(3A)](https://www.legislation.gov.uk/ukpga/2005/4/section/99/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2005/4/section/99/3B) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 71(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/71/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Applicant access to information and evidence[^key-a7b7dbcfec9884b1d0b72a81a112f5b2]
+## 82. Applicant access to information and evidence[^c-a7b7dbcfec9884b1d0b72a81a112f5b2]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b7dbcfec9884b1d0b72a81a112f5b2]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2021/15/section/82) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-a7b7dbcfec9884b1d0b72a81a112f5b2]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2021/15/section/82) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

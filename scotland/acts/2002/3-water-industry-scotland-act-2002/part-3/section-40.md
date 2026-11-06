@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Reduced charges[^key-5b008e9f5c49d9887a4a6a934b62c3fa]
+## 40. Reduced charges[^c-5b008e9f5c49d9887a4a6a934b62c3fa]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b008e9f5c49d9887a4a6a934b62c3fa]: Textual amendment: S. 40 repealed (22.7.2012) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 7(5)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/7/5) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2012/192](https://www.legislation.gov.uk/ssi/2012/192), [art. 2](https://www.legislation.gov.uk/ssi/2012/192/article/2)
+[^c-5b008e9f5c49d9887a4a6a934b62c3fa]: Textual amendment: S. 40 repealed (22.7.2012) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 7(5)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/7/5) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2012/192](https://www.legislation.gov.uk/ssi/2012/192), [art. 2](https://www.legislation.gov.uk/ssi/2012/192/article/2)

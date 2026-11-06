@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Duties to take action in relation to manufacturer’s compliance failure[^key-7c29a8d8f02aed67378a820f6675657b][^key-18c17ddd52b70bbb7ec1766e1bb79634]
+## 25. Duties to take action in relation to manufacturer’s compliance failure[^c-7c29a8d8f02aed67378a820f6675657b][^c-18c17ddd52b70bbb7ec1766e1bb79634]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ Regulations under this subsection are subject to the negative resolution procedu
 
 ## Annotations
 
-[^key-7c29a8d8f02aed67378a820f6675657b]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-7c29a8d8f02aed67378a820f6675657b]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-18c17ddd52b70bbb7ec1766e1bb79634]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/46/section/25) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-18c17ddd52b70bbb7ec1766e1bb79634]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/46/section/25) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

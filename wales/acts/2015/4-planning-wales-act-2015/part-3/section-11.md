@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Welsh language[^c22542671][^key-4724c4bd76d1bb2b1fb46a86c7027128]
+## 11. Welsh language[^c22542671][^c-4724c4bd76d1bb2b1fb46a86c7027128]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22542671]: Commencement: S. 11 partly in force; s. 11 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-4724c4bd76d1bb2b1fb46a86c7027128]: Commencement: S. 11 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1987/article/6))
+[^c-4724c4bd76d1bb2b1fb46a86c7027128]: Commencement: S. 11 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2015/1987/article/6))

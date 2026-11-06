@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Statements of policy concerning abatement of retirement pensions in new employment[^key-9fa42a0628cc7acf67adc6f937b6d5d5]
+## 70. Statements of policy concerning abatement of retirement pensions in new employment[^c-9fa42a0628cc7acf67adc6f937b6d5d5]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fa42a0628cc7acf67adc6f937b6d5d5]: Commencement: Reg. 70 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-9fa42a0628cc7acf67adc6f937b6d5d5]: Commencement: Reg. 70 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

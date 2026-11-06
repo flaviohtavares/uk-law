@@ -37,13 +37,13 @@ Made
 
 The Department of the Environment makes the following Order in exercise of the powers conferred by Article 1(3) of the Road Traffic (Northern Ireland) Order 2007[^f00001].
 
-## 1. Citation and interpretation[^key-26e9147ad5159fa6a0b48a898ba44804]
+## 1. Citation and interpretation[^c-26e9147ad5159fa6a0b48a898ba44804]
 
 (1) This Order may be cited as the Road Traffic (2007 Order) (Commencement No. 5) Order (Northern Ireland) 2010.
 
 (2) In this Order “the Order” means the Road Traffic (Northern Ireland) Order 2007.
 
-## 2. Appointed day[^key-bcd3f6a38cec1bf94ea878420a050454]
+## 2. Appointed day[^c-bcd3f6a38cec1bf94ea878420a050454]
 
 The day appointed for the coming into operation of the provisions of the Order listed in column 1 of the Schedule for the purposes of column 3 thereof shall be 2<sup>nd</sup> August 2010.
 
@@ -55,7 +55,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE — Provisions coming into operation on 2<sup>nd</sup> August 2010[^key-a472fb72957f96b93ab63e070fd12fd2]
+## SCHEDULE — Provisions coming into operation on 2<sup>nd</sup> August 2010[^c-a472fb72957f96b93ab63e070fd12fd2]
 
 Article 2
 
@@ -66,8 +66,8 @@ Article 2
 | Article 48 | Requirement of registration | For all purposes |
 | Article 49 | Paid driving instruction: offences | For all purposes |
 | Article 50 | Exemption from prohibitions imposed by Article 48 | For all purposes |
-| Article 51 (1) to (5)[^key-c3c153dd8fd7c834af29038d57e8a68e] | Register | For all purposes |
-| Article 52[^key-db9c76e7004fdca11925187c32e3e10d] | Conditions of registration | For all purposes |
+| Article 51 (1) to (5)[^c-c3c153dd8fd7c834af29038d57e8a68e] | Register | For all purposes |
+| Article 52[^c-db9c76e7004fdca11925187c32e3e10d] | Conditions of registration | For all purposes |
 | Article 55 (1) to (4) | Duration of registration | For all purposes |
 | Article 56 | Extension of duration of registration | For all purposes other than those relating to the case of a disabled driving instructor |
 | Article 57 | Termination of registration by Registrar | For all purposes other than those relating to the case of a disabled driving instructor |
@@ -144,12 +144,12 @@ The following provisions of the Road Traffic (Northern Ireland) Order 2007 have 
 
 [^f00001]: Footnote: [S.I. 2007 No. 916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916)
 
-[^key-26e9147ad5159fa6a0b48a898ba44804]: Commencement: Art. 1 in operation at made date
+[^c-26e9147ad5159fa6a0b48a898ba44804]: Commencement: Art. 1 in operation at made date
 
-[^key-bcd3f6a38cec1bf94ea878420a050454]: Commencement: Art. 2 in operation at made date
+[^c-bcd3f6a38cec1bf94ea878420a050454]: Commencement: Art. 2 in operation at made date
 
-[^key-a472fb72957f96b93ab63e070fd12fd2]: Commencement: Sch. in operation at made date
+[^c-a472fb72957f96b93ab63e070fd12fd2]: Commencement: Sch. in operation at made date
 
-[^key-c3c153dd8fd7c834af29038d57e8a68e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2010/226/schedule) substituted (13.9.2012) by [The Road Traffic (2007 Order) (Commencement No. 5) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/337)](https://www.legislation.gov.uk/nisr/2012/337), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/337/article/2/a)
+[^c-c3c153dd8fd7c834af29038d57e8a68e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2010/226/schedule) substituted (13.9.2012) by [The Road Traffic (2007 Order) (Commencement No. 5) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/337)](https://www.legislation.gov.uk/nisr/2012/337), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/337/article/2/a)
 
-[^key-db9c76e7004fdca11925187c32e3e10d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2010/226/schedule) substituted (13.9.2012) by [The Road Traffic (2007 Order) (Commencement No. 5) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/337)](https://www.legislation.gov.uk/nisr/2012/337), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/337/article/2/b)
+[^c-db9c76e7004fdca11925187c32e3e10d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2010/226/schedule) substituted (13.9.2012) by [The Road Traffic (2007 Order) (Commencement No. 5) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/337)](https://www.legislation.gov.uk/nisr/2012/337), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/337/article/2/b)

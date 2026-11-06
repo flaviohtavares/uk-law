@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Notification of Secretary of State[^key-a5744585d4a3e9b999df4c9d0f61a928][^key-36c618ae09256168aa5ead8953b8f609]
+## 27. Notification of Secretary of State[^c-a5744585d4a3e9b999df4c9d0f61a928][^c-36c618ae09256168aa5ead8953b8f609]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ the review partner must notify the Secretary of State of that decision.
 
 ## Annotations
 
-[^key-a5744585d4a3e9b999df4c9d0f61a928]: Commencement: S. 27 not in force at Royal Assent, see [ss. 34](https://www.legislation.gov.uk/ukpga/2022/32/ss./34), 208(1)
+[^c-a5744585d4a3e9b999df4c9d0f61a928]: Commencement: S. 27 not in force at Royal Assent, see [ss. 34](https://www.legislation.gov.uk/ukpga/2022/32/ss./34), 208(1)
 
-[^key-36c618ae09256168aa5ead8953b8f609]: Commencement: S. 27 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))
+[^c-36c618ae09256168aa5ead8953b8f609]: Commencement: S. 27 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))

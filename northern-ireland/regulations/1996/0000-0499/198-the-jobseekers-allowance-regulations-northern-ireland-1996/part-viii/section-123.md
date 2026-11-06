@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Date on which a liable relative payment is to be treated as paid[^key-8f32cd70db2233d97c01a1903cb3fe6c]
+## 123. Date on which a liable relative payment is to be treated as paid[^c-8f32cd70db2233d97c01a1903cb3fe6c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f32cd70db2233d97c01a1903cb3fe6c]: Commencement: Reg. 123 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8f32cd70db2233d97c01a1903cb3fe6c]: Commencement: Reg. 123 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

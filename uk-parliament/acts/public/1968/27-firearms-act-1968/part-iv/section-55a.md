@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55A. Guidance as to exercise of police functions[^key-ea21a6b6cc76d7e1ce446c2f8b80e93a]
+## 55A. Guidance as to exercise of police functions[^c-ea21a6b6cc76d7e1ce446c2f8b80e93a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea21a6b6cc76d7e1ce446c2f8b80e93a]: Textual amendment: S. 55A inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/133/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/32)
+[^c-ea21a6b6cc76d7e1ce446c2f8b80e93a]: Textual amendment: S. 55A inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/133/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/32)

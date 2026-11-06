@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. General trade licences: records[^key-ace90077796bf04bdb9b2cfa3ce1e2db][^key-8923196b5494edfdcfa6d5e4796c94cb]
+## 45. General trade licences: records[^c-ace90077796bf04bdb9b2cfa3ce1e2db][^c-8923196b5494edfdcfa6d5e4796c94cb]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies in relation to a person (“P”) who does any act authorised by a general licence issued under regulation 34[^key-8873e3ace04704e2f3eff6575f49b6cc] (trade licences) (“**the licence**”).
+(1) This regulation applies in relation to a person (“P”) who does any act authorised by a general licence issued under regulation 34[^c-8873e3ace04704e2f3eff6575f49b6cc] (trade licences) (“**the licence**”).
 
 (2) P must keep a register or record containing such details as may be necessary to allow the following information to be identified in relation to each act done under the authority of the licence—
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ace90077796bf04bdb9b2cfa3ce1e2db]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-ace90077796bf04bdb9b2cfa3ce1e2db]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-8923196b5494edfdcfa6d5e4796c94cb]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8923196b5494edfdcfa6d5e4796c94cb]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8873e3ace04704e2f3eff6575f49b6cc]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/2019/438/regulation/45) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/591/regulation/4/5); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-8873e3ace04704e2f3eff6575f49b6cc]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/2019/438/regulation/45) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/591/regulation/4/5); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

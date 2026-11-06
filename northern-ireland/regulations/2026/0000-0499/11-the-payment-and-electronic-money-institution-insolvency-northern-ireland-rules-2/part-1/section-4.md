@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application of Rules[^key-b56d4784fc9c867d4f34fea71ef6ea59]
+## 4. Application of Rules[^c-b56d4784fc9c867d4f34fea71ef6ea59]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Rules apply in respect of a special administration.
 
 ## Annotations
 
-[^key-b56d4784fc9c867d4f34fea71ef6ea59]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2026/11/rule/4) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b56d4784fc9c867d4f34fea71ef6ea59]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/2026/11/rule/4) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

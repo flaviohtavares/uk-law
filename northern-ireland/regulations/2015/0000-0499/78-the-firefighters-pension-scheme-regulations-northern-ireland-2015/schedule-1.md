@@ -83,7 +83,7 @@ An added pension election may not be exercised by an active member if the amount
 - (b) whether the member has an added pension account with another employer; and
 - (c) whether the member is making an added pension election in connection with another scheme employment.
 
-(5)[^key-9d225574391e5dc096bb61250804c9ee] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
+(5)[^c-9d225574391e5dc096bb61250804c9ee] An election to pay added pension payments by a lump sum payment may only be made if the member gives notice to the scheme manager not later than 12 months after the date on which the person last became employed by that scheme employer as a firefighter.
 
 (6) An election to pay added pension payments by periodical payments may only be made at least two years before the member's normal pension age and cannot be made once the scheme manager has agreed that the member will leave the scheme with entitlement to a pension or an ill-health award.
 
@@ -174,4 +174,4 @@ This Chapter applies in relation to an active member of this scheme who has elec
 
 ## Annotations
 
-[^key-9d225574391e5dc096bb61250804c9ee]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/nisr/2015/78/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [30](https://www.legislation.gov.uk/nisr/2023/133/regulation/30)
+[^c-9d225574391e5dc096bb61250804c9ee]: Modification: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/nisr/2015/78/schedule/1/paragraph/5/5) excluded (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [30](https://www.legislation.gov.uk/nisr/2023/133/regulation/30)

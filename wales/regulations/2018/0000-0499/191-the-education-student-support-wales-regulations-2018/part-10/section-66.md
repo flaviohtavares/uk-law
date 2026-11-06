@@ -48,8 +48,8 @@ X is the aggregate of the reasonable travel costs that the eligible student is o
 
 Y is—
 
-- (a) £303 if the eligible student's household income (see Schedule 3) is less than £59,200[^key-b13131e1bb3d9a09c64ae3d5883f7364] in respect of the academic year in question or the eligible student is a care leaver within the meaning given by regulation 49[^key-358cf9ceccdd6754163757b2ce8f2d4b], or
-- (b) £1,000 if the eligible student's household income is £59,200 or more[^key-968df2b026a8e02d57119c03f2e31012] in respect of that year;
+- (a) £303 if the eligible student's household income (see Schedule 3) is less than £59,200[^c-b13131e1bb3d9a09c64ae3d5883f7364] in respect of the academic year in question or the eligible student is a care leaver within the meaning given by regulation 49[^c-358cf9ceccdd6754163757b2ce8f2d4b], or
+- (b) £1,000 if the eligible student's household income is £59,200 or more[^c-968df2b026a8e02d57119c03f2e31012] in respect of that year;
 
 Z is the aggregate of any expenditure incurred in each qualifying quarter specified in paragraph (3).
 
@@ -61,8 +61,8 @@ Z is the aggregate of any expenditure incurred in each qualifying quarter specif
 
 ## Annotations
 
-[^key-b13131e1bb3d9a09c64ae3d5883f7364]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2018/814/regulation/12/a)
+[^c-b13131e1bb3d9a09c64ae3d5883f7364]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2018/814/regulation/12/a)
 
-[^key-358cf9ceccdd6754163757b2ce8f2d4b]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) inserted (3.2.2025 with application in accordance with reg. 2(1)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2), [32](https://www.legislation.gov.uk/wsi/2025/16/regulation/32)
+[^c-358cf9ceccdd6754163757b2ce8f2d4b]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) inserted (3.2.2025 with application in accordance with reg. 2(1)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/2), [32](https://www.legislation.gov.uk/wsi/2025/16/regulation/32)
 
-[^key-968df2b026a8e02d57119c03f2e31012]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2018/814/regulation/12/b)
+[^c-968df2b026a8e02d57119c03f2e31012]: Textual amendment: Words in [reg. 66(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/66/2) substituted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2018/814/regulation/12/b)

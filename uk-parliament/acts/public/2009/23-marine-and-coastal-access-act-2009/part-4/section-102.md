@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Notice to stop activity causing serious harm etc[^key-aed6646f98cfc27e374b5ae63ba65225]
+## 102. Notice to stop activity causing serious harm etc[^c-aed6646f98cfc27e374b5ae63ba65225]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aed6646f98cfc27e374b5ae63ba65225]: Commencement: S. 102 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-aed6646f98cfc27e374b5ae63ba65225]: Commencement: S. 102 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

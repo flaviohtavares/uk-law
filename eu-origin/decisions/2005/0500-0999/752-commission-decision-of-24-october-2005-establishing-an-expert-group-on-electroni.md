@@ -35,36 +35,36 @@ establishing an expert group on electronic commerce
 
 (2005/752/EC) (revoked)
 
-[^key-d7168360beab6910cd27cd81edc57870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7168360beab6910cd27cd81edc57870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d7168360beab6910cd27cd81edc57870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d7168360beab6910cd27cd81edc57870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Mission[^key-d7168360beab6910cd27cd81edc57870]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 3. Composition — nomination[^key-d7168360beab6910cd27cd81edc57870]
+## Article 2. Mission[^c-d7168360beab6910cd27cd81edc57870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Functioning[^key-d7168360beab6910cd27cd81edc57870]
+## Article 3. Composition — nomination[^c-d7168360beab6910cd27cd81edc57870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Meetings[^key-d7168360beab6910cd27cd81edc57870]
+## Article 4. Functioning[^c-d7168360beab6910cd27cd81edc57870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Meeting expenses[^key-d7168360beab6910cd27cd81edc57870]
+## Article 5. Meetings[^c-d7168360beab6910cd27cd81edc57870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-d7168360beab6910cd27cd81edc57870]
+## Article 6. Meeting expenses[^c-d7168360beab6910cd27cd81edc57870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7168360beab6910cd27cd81edc57870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Entry into force[^c-d7168360beab6910cd27cd81edc57870]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d7168360beab6910cd27cd81edc57870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7168360beab6910cd27cd81edc57870]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/919/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7168360beab6910cd27cd81edc57870]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/919/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

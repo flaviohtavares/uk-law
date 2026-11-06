@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Closure of full retirement account[^key-4acb4be526a9b6a5f92cbdf0dd772093]
+## 53. Closure of full retirement account[^c-4acb4be526a9b6a5f92cbdf0dd772093]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager must close a full retirement account if a full retirement pen
 
 ## Annotations
 
-[^key-4acb4be526a9b6a5f92cbdf0dd772093]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/1964/regulation/53) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4acb4be526a9b6a5f92cbdf0dd772093]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/1964/regulation/53) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

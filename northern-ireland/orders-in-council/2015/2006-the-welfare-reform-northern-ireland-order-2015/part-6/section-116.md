@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Amount of penalty[^key-9a646aff18de2d71e9ffea1c620c7ab5]
+## 116. Amount of penalty[^c-9a646aff18de2d71e9ffea1c620c7ab5]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a646aff18de2d71e9ffea1c620c7ab5]: Commencement: [Art. 116](https://www.legislation.gov.uk/nisi/2015/2006/article/116) in operation at 4.4.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/46/article/4/b)
+[^c-9a646aff18de2d71e9ffea1c620c7ab5]: Commencement: [Art. 116](https://www.legislation.gov.uk/nisi/2015/2006/article/116) in operation at 4.4.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(b)](https://www.legislation.gov.uk/nisr/2016/46/article/4/b)

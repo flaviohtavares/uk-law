@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Appointments system[^key-f04dbccfc39b764012e263272bc39bca]
+## 15. Appointments system[^c-f04dbccfc39b764012e263272bc39bca]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ that notice shall be regarded as a notice given by the succeeding contractor to 
 
 ## Annotations
 
-[^key-f04dbccfc39b764012e263272bc39bca]: Commencement: Art. 15 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-f04dbccfc39b764012e263272bc39bca]: Commencement: Art. 15 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

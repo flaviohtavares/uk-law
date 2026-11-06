@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57.23. Requirement to provide information[^key-735f277f3c86208ee3df2d01b2c996f0][^key-cde46d73152a6807962bb3825076a841]
+## 57.23. Requirement to provide information[^c-735f277f3c86208ee3df2d01b2c996f0][^c-cde46d73152a6807962bb3825076a841]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-735f277f3c86208ee3df2d01b2c996f0]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) Section 5 inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rule 2](https://www.legislation.gov.uk/uksi/2014/2044/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/2044/schedule)
+[^c-735f277f3c86208ee3df2d01b2c996f0]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) Section 5 inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rule 2](https://www.legislation.gov.uk/uksi/2014/2044/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/2044/schedule)
 
-[^key-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))
+[^c-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))

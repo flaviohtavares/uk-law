@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Service of Notices[^key-236db0686ec1dc05c88c38f465c8ad26]
+## 43. Service of Notices[^c-236db0686ec1dc05c88c38f465c8ad26]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-236db0686ec1dc05c88c38f465c8ad26]: Commencement: Art. 43 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-236db0686ec1dc05c88c38f465c8ad26]: Commencement: Art. 43 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Transfer schemes[^key-8f497c19baad64a0b1816203b9db3faa]
+## 82. Transfer schemes[^c-8f497c19baad64a0b1816203b9db3faa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f497c19baad64a0b1816203b9db3faa]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2012/19/section/82) in force at 11.3.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 2](https://www.legislation.gov.uk/uksi/2014/262/article/2)
+[^c-8f497c19baad64a0b1816203b9db3faa]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2012/19/section/82) in force at 11.3.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 2](https://www.legislation.gov.uk/uksi/2014/262/article/2)

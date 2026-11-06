@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Annual returns: removal of provision about industrial action[^key-5239938c54f8316e274deda559b81a1c][^key-2c7e9b3990aeec9104cfb5d79543f8f6]
+## 79. Annual returns: removal of provision about industrial action[^c-5239938c54f8316e274deda559b81a1c][^c-2c7e9b3990aeec9104cfb5d79543f8f6]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5239938c54f8316e274deda559b81a1c]: Commencement: S. 79 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-5239938c54f8316e274deda559b81a1c]: Commencement: S. 79 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-2c7e9b3990aeec9104cfb5d79543f8f6]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/36/section/79) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(9)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/9) (with savings and transitional provisions in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/12))
+[^c-2c7e9b3990aeec9104cfb5d79543f8f6]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/36/section/79) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(9)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/9) (with savings and transitional provisions in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/12))

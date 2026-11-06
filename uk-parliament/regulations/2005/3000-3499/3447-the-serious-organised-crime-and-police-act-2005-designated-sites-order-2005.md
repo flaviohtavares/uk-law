@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State makes the following order in exercise of the powers conferred upon him by sections 128 and 129 of the Serious Organised Crime and Police Act 2005[^f00001]:
 
-## 1. Citation and commencement[^key-b7ccd2e62ea5363775da1b881465c285]
+## 1. Citation and commencement[^c-b7ccd2e62ea5363775da1b881465c285]
 
 This Order may be cited as the Serious Organised Crime and Police Act 2005 (Designated Sites) Order 2005 and shall come into force on 1st April 2006.
 
-## 2. Designated sites[^key-649705d7952688e8761e3020134051cc]
+## 2. Designated sites[^c-649705d7952688e8761e3020134051cc]
 
 (1) The sites listed in the Schedule to this Order are designated for the purposes of sections 128 and 129 of the Serious Organised Crime and Police Act 2005.
 
@@ -68,9 +68,9 @@ Minister of State Ministry of Defence
 
 14th December 2005
 
-## SCHEDULE[^key-147ec38c13fbc3955c78d85b0552582b]
+## SCHEDULE[^c-147ec38c13fbc3955c78d85b0552582b]
 
-- Defence Science and Technology Laboratory, Porton Down[^key-f2efebc953b717dc0eb43d2b9b1c1a75]
+- Defence Science and Technology Laboratory, Porton Down[^c-f2efebc953b717dc0eb43d2b9b1c1a75]
 - Her Majesty’s Naval Base Clyde
 - Northwood Headquarters
 - RAF Brize Norton
@@ -81,11 +81,11 @@ Minister of State Ministry of Defence
 - RAF Lakenheath
 - RAF Menwith Hill
 - RAF Mildenhall
-- RAF Molesworth[^key-966f1c83d81e53d9198a4902b868e226]
-- RAF Waddington[^key-aa427514b03a4eeed16e0d4095d1d0d7]
+- RAF Molesworth[^c-966f1c83d81e53d9198a4902b868e226]
+- RAF Waddington[^c-aa427514b03a4eeed16e0d4095d1d0d7]
 - RAF Welford
 - Royal Naval Armaments Depot Coulport
-- [^key-73d1ba97ccdc5b8707339f867ac0d99d]...
+- [^c-73d1ba97ccdc5b8707339f867ac0d99d]...
 
 (This note is not part of the Order)
 
@@ -101,16 +101,16 @@ An offence under section 129 is punishable on summary conviction by imprisonment
 
 [^f00001]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-b7ccd2e62ea5363775da1b881465c285]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
+[^c-b7ccd2e62ea5363775da1b881465c285]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
 
-[^key-649705d7952688e8761e3020134051cc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2005/3447/article/2) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
+[^c-649705d7952688e8761e3020134051cc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2005/3447/article/2) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
 
-[^key-147ec38c13fbc3955c78d85b0552582b]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2005/3447/schedule) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
+[^c-147ec38c13fbc3955c78d85b0552582b]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2005/3447/schedule) in force at 1.4.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3447/article/1)
 
-[^key-f2efebc953b717dc0eb43d2b9b1c1a75]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/i)
+[^c-f2efebc953b717dc0eb43d2b9b1c1a75]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/i)
 
-[^key-966f1c83d81e53d9198a4902b868e226]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/ii)
+[^c-966f1c83d81e53d9198a4902b868e226]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/ii)
 
-[^key-aa427514b03a4eeed16e0d4095d1d0d7]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/iii)
+[^c-aa427514b03a4eeed16e0d4095d1d0d7]: Textual amendment: Words in Sch. inserted (31.1.2020) by [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/a/iii)
 
-[^key-73d1ba97ccdc5b8707339f867ac0d99d]: Textual amendment: Words in Sch. omitted (31.1.2020) by virtue of [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/b)
+[^c-73d1ba97ccdc5b8707339f867ac0d99d]: Textual amendment: Words in Sch. omitted (31.1.2020) by virtue of [The Serious Organised Crime and Police Act 2005 (Designated Sites) (Amendment) Order 2020 (S.I. 2020/15)](https://www.legislation.gov.uk/uksi/2020/15), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/15/article/2/2/b)

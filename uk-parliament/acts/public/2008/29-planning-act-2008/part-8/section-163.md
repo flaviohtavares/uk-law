@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Right to enter without warrant[^key-958ca5c2a4b0cd57fecbb2f4d22707f8]
+## 163. Right to enter without warrant[^c-958ca5c2a4b0cd57fecbb2f4d22707f8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-958ca5c2a4b0cd57fecbb2f4d22707f8]: Commencement: S. 163 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-958ca5c2a4b0cd57fecbb2f4d22707f8]: Commencement: S. 163 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

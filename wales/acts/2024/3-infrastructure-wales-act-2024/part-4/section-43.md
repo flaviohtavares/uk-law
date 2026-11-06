@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Open-floor hearings[^key-801a00b8c0a4a3cedd7f3d6e1b4fda83][^key-e5340245c82367347d2647cbeb9c77c4]
+## 43. Open-floor hearings[^c-801a00b8c0a4a3cedd7f3d6e1b4fda83][^c-e5340245c82367347d2647cbeb9c77c4]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-801a00b8c0a4a3cedd7f3d6e1b4fda83]: Commencement: S. 43 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-801a00b8c0a4a3cedd7f3d6e1b4fda83]: Commencement: S. 43 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-e5340245c82367347d2647cbeb9c77c4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2024/3/section/43) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-e5340245c82367347d2647cbeb9c77c4]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2024/3/section/43) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Electronic waste tracking: Great Britain[^key-8fa2ca2c27cacd36f653ef4bd721f64b]
+## 58. Electronic waste tracking: Great Britain[^c-8fa2ca2c27cacd36f653ef4bd721f64b]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,4 +131,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa2ca2c27cacd36f653ef4bd721f64b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/30/section/58) in force at 9.1.2022, see [s. 147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g)
+[^c-8fa2ca2c27cacd36f653ef4bd721f64b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/30/section/58) in force at 9.1.2022, see [s. 147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g)

@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Further Education Institutions (Exemption from Inspection) (England) Regulations 2012 (revoked)[^key-528659682013a43b1c08c18fc9af4168]
+The Further Education Institutions (Exemption from Inspection) (England) Regulations 2012 (revoked)[^c-528659682013a43b1c08c18fc9af4168]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 5th November 2012
 
-[^key-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-528659682013a43b1c08c18fc9af4168]
+## 1. Citation, commencement and application[^c-528659682013a43b1c08c18fc9af4168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-528659682013a43b1c08c18fc9af4168]
+## 2. Interpretation[^c-528659682013a43b1c08c18fc9af4168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Categories of institution prescribed for the purposes of section 125(1A) of the 2006 Act[^key-528659682013a43b1c08c18fc9af4168]
+## 3. Categories of institution prescribed for the purposes of section 125(1A) of the 2006 Act[^c-528659682013a43b1c08c18fc9af4168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Circumstance prescribed for the purposes of section 125(1A) of the 2006 Act[^key-528659682013a43b1c08c18fc9af4168]
+## 4. Circumstance prescribed for the purposes of section 125(1A) of the 2006 Act[^c-528659682013a43b1c08c18fc9af4168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-528659682013a43b1c08c18fc9af4168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-528659682013a43b1c08c18fc9af4168]: Textual amendment: Regulations revoked (13.11.2020) by [The Education (Exemption from School and Further Education Institutions Inspections) (England) (Amendment) Regulations 2020 (S.I. 2020/1258)](https://www.legislation.gov.uk/uksi/2020/1258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1258/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1258/regulation/4)
+[^c-528659682013a43b1c08c18fc9af4168]: Textual amendment: Regulations revoked (13.11.2020) by [The Education (Exemption from School and Further Education Institutions Inspections) (England) (Amendment) Regulations 2020 (S.I. 2020/1258)](https://www.legislation.gov.uk/uksi/2020/1258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1258/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1258/regulation/4)

@@ -44,11 +44,11 @@ The Department for Infrastructure[^f00001], makes the following Order in exercis
 
 In accordance with Article 91(1) of that Order the Department has consulted with such representative organisations as it thinks fit.
 
-## 1. Citation and commencement[^key-21ad830fe4dbb0dfc3b8290b0a7e5fb8]
+## 1. Citation and commencement[^c-21ad830fe4dbb0dfc3b8290b0a7e5fb8]
 
 This Order may be cited as the Road Traffic (Fixed Penalty) (Offences) (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 15th May 2023.
 
-## 2. Amendment of the Road Traffic (Fixed Penalty) (Offences) Order[^key-bc7bcc8bd50e5d2d62f2dfbf8126fdb5]
+## 2. Amendment of the Road Traffic (Fixed Penalty) (Offences) Order[^c-bc7bcc8bd50e5d2d62f2dfbf8126fdb5]
 
 In Schedule 1 to the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997[^f00004] (fixed penalty offences), after the heading “Offences under the Road Traffic (Northern Ireland) Order 1995” and before item 20 insert—
 
@@ -82,8 +82,8 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-21ad830fe4dbb0dfc3b8290b0a7e5fb8]: Commencement: Art. 1 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/70/article/1)
+[^c-21ad830fe4dbb0dfc3b8290b0a7e5fb8]: Commencement: Art. 1 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/70/article/1)
 
-[^key-bc7bcc8bd50e5d2d62f2dfbf8126fdb5]: Commencement: Art. 2 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/70/article/1)
+[^c-bc7bcc8bd50e5d2d62f2dfbf8126fdb5]: Commencement: Art. 2 in operation at 15.5.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/70/article/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 369](https://www.legislation.gov.uk/nisr/1997/369); as amended by [S.R. 1999 No. 354](https://www.legislation.gov.uk/nisr/1999/354), [S.R. 2007 No. 318](https://www.legislation.gov.uk/nisr/2007/318), [S.R. 2011 No. 287](https://www.legislation.gov.uk/nisr/2011/287), [S.R. 2011 No. 379](https://www.legislation.gov.uk/nisr/2011/379), [S.R. 2013 No. 5](https://www.legislation.gov.uk/nisr/2013/5), [S.R. 2013 No. 196](https://www.legislation.gov.uk/nisr/2013/196), [S.R. 2014 No. 231](https://www.legislation.gov.uk/nisr/2014/231), [S.R. 2015 No. 349](https://www.legislation.gov.uk/nisr/2015/349), [S.R. 2016 No. 181](https://www.legislation.gov.uk/nisr/2016/181), [S.R. 2016 No. 343](https://www.legislation.gov.uk/nisr/2016/343) and [S.R. 2019 No. 12](https://www.legislation.gov.uk/nisr/2019/12)

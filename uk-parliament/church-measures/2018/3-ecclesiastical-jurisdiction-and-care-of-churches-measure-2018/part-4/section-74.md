@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 74. Exercise of faculty jurisdiction[^key-e10458a1dd6d77b5a27c7bdfd27c861a]
+## 74. Exercise of faculty jurisdiction[^c-e10458a1dd6d77b5a27c7bdfd27c861a]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e10458a1dd6d77b5a27c7bdfd27c861a]: Commencement: [S. 74](https://www.legislation.gov.uk/ukcm/2018/3/section/74) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e10458a1dd6d77b5a27c7bdfd27c861a]: Commencement: [S. 74](https://www.legislation.gov.uk/ukcm/2018/3/section/74) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

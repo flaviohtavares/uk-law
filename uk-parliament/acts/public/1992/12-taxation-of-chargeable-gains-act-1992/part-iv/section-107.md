@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Identification of securities etc: general rules for corporation tax.[^M_C_8a1ef054-e170-454f-efce-eedea094e571][^key-c9715726df2f0cfa77ee85ceffbcc5cf][^key-fe7dc1150b20310078b4e7112c67a125][^key-5ef69125da285adf521eea6f27e9d1ea][^key-0c7aff1b85dcce72bdb09070f5b85a4c][^key-bd656cdb2f3abdb2cb3862462ab1c6e6]
+## 107. Identification of securities etc: general rules for corporation tax.[^M_C_8a1ef054-e170-454f-efce-eedea094e571][^c-c9715726df2f0cfa77ee85ceffbcc5cf][^c-fe7dc1150b20310078b4e7112c67a125][^c-5ef69125da285adf521eea6f27e9d1ea][^c-0c7aff1b85dcce72bdb09070f5b85a4c][^c-bd656cdb2f3abdb2cb3862462ab1c6e6]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-58e7f2aa102c1f8acdacfb167c4704e0] This section has effect for the purposes of corporation tax where any securities are disposed of by a company.
+(1)[^c-58e7f2aa102c1f8acdacfb167c4704e0] This section has effect for the purposes of corporation tax where any securities are disposed of by a company.
 
 (1A) The securities disposed of shall be identified in accordance with the following provisions of this section with securities of the same class that have been acquired by the company making the disposal and could be comprised in that disposal.
 
@@ -33,7 +33,7 @@ but where a company disposes of securities in one capacity, they shall not be id
 
 (3) Without prejudice to section 105 if, within a period of 10 days, a number of securities are acquired and subsequently a number of securities are disposed of and, apart from this subsection—
 
-- (a) the securities acquired would increase the size of, or constitute a section 104 holding[^key-5e7759f21313b48fb0588d083e73fbca], and
+- (a) the securities acquired would increase the size of, or constitute a section 104 holding[^c-5e7759f21313b48fb0588d083e73fbca], and
 - (b) the securities disposed of would decrease the size of, or extinguish, the same section 104 holding,
 
 then, subject to subsections (4) and (5) below, the securities disposed of shall be identified with the securities acquired and none of them shall be regarded as forming part of an existing section 104 holding or constituting a section 104 holding.
@@ -57,16 +57,16 @@ then, subject to subsections (4) and (5) below, the securities disposed of shall
 
 [^M_C_8a1ef054-e170-454f-efce-eedea094e571]: Modification: S. 107 modified by [S.I. 1989/469](https://www.legislation.gov.uk/uksi/1989/469), [reg. 27A(2A)](https://www.legislation.gov.uk/uksi/1989/469/regulation/27A/2A) (as inserted (6.4.1996) by [S.I. 1996/846](https://www.legislation.gov.uk/uksi/1996/846), [reg. 11(b)](https://www.legislation.gov.uk/uksi/1996/846/regulation/11/b))
 
-[^key-c9715726df2f0cfa77ee85ceffbcc5cf]: Modification: Ss. 104-114 modified by [The Personal Equity Plan Regulations 1989 (S.I. 1989/469)](https://www.legislation.gov.uk/uksi/1989/469), [reg. 27(2)](https://www.legislation.gov.uk/uksi/1989/469/regulation/27/2) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 1998/1869](https://www.legislation.gov.uk/uksi/1998/1869), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1869/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1998/1869/regulation/12))
+[^c-c9715726df2f0cfa77ee85ceffbcc5cf]: Modification: Ss. 104-114 modified by [The Personal Equity Plan Regulations 1989 (S.I. 1989/469)](https://www.legislation.gov.uk/uksi/1989/469), [reg. 27(2)](https://www.legislation.gov.uk/uksi/1989/469/regulation/27/2) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 1998/1869](https://www.legislation.gov.uk/uksi/1998/1869), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/1869/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1998/1869/regulation/12))
 
-[^key-fe7dc1150b20310078b4e7112c67a125]: Modification: Ss. 104-114 modified (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), regs. 1, 34(2) (as amended (6.4.2008) by [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2008/704/regulation/15/2))
+[^c-fe7dc1150b20310078b4e7112c67a125]: Modification: Ss. 104-114 modified (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), regs. 1, 34(2) (as amended (6.4.2008) by [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2008/704/regulation/15/2))
 
-[^key-5ef69125da285adf521eea6f27e9d1ea]: Modification: S. 107 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 15 para. 93(6)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/15/paragraph/93/6)
+[^c-5ef69125da285adf521eea6f27e9d1ea]: Modification: S. 107 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 15 para. 93(6)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/15/paragraph/93/6)
 
-[^key-0c7aff1b85dcce72bdb09070f5b85a4c]: Modification: S. 107 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/76/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0c7aff1b85dcce72bdb09070f5b85a4c]: Modification: S. 107 applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/76/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-bd656cdb2f3abdb2cb3862462ab1c6e6]: Textual amendment: Words in s. 107 heading inserted (with effect in accordance with Sch. 2 para. 100 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 88](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/88)
+[^c-bd656cdb2f3abdb2cb3862462ab1c6e6]: Textual amendment: Words in s. 107 heading inserted (with effect in accordance with Sch. 2 para. 100 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 88](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/88)
 
-[^key-58e7f2aa102c1f8acdacfb167c4704e0]: Textual amendment: S. 107(1)(1A)(2) substituted for s. 107(1)(2) (with effect in accordance with s. 124(7) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 124(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/124/3)
+[^c-58e7f2aa102c1f8acdacfb167c4704e0]: Textual amendment: S. 107(1)(1A)(2) substituted for s. 107(1)(2) (with effect in accordance with s. 124(7) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 124(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/124/3)
 
-[^key-5e7759f21313b48fb0588d083e73fbca]: Textual amendment: Words in s. 107 substituted (with effect in accordance with s. 123(6) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 123(5)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/123/5/b)
+[^c-5e7759f21313b48fb0588d083e73fbca]: Textual amendment: Words in s. 107 substituted (with effect in accordance with s. 123(6) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 123(5)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/123/5/b)

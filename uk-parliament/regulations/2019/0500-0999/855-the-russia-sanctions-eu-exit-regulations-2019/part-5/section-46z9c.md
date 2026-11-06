@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z9C. Financial services and funds relating to maritime transportation of certain oil and oil products[^key-7eb0421a7844b9a5d828a28f49e054b5][^key-876278a10227d7e24a62920f4473f2c1]
+## 46Z9C. Financial services and funds relating to maritime transportation of certain oil and oil products[^c-7eb0421a7844b9a5d828a28f49e054b5][^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7eb0421a7844b9a5d828a28f49e054b5]: Textual amendment: [Pt. 5 Ch. 4IA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IA) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1122/regulation/4)
+[^c-7eb0421a7844b9a5d828a28f49e054b5]: Textual amendment: [Pt. 5 Ch. 4IA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IA) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1122/regulation/4)
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)

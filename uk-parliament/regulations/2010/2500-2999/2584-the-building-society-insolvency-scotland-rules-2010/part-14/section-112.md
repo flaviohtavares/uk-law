@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Service outside the United Kingdom[^key-5fb1f6336d4008dbeaf6a626844a1a43]
+## 112. Service outside the United Kingdom[^c-5fb1f6336d4008dbeaf6a626844a1a43]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where, for the purposes of building society insolvency proceedings, there is a r
 
 ## Annotations
 
-[^key-5fb1f6336d4008dbeaf6a626844a1a43]: Commencement: Rule 112 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-5fb1f6336d4008dbeaf6a626844a1a43]: Commencement: Rule 112 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

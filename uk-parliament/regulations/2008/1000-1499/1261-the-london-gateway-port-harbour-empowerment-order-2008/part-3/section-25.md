@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Level crossings[^key-db8e5b1498194653505de69ec64b6324]
+## 25. Level crossings[^c-db8e5b1498194653505de69ec64b6324]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db8e5b1498194653505de69ec64b6324]: Commencement: Art. 25 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-db8e5b1498194653505de69ec64b6324]: Commencement: Art. 25 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00020]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

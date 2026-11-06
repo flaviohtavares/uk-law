@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Open Space at Tubbs Lane[^key-c7d8376211330264dcecc781bf110ac9]
+## 41. Open Space at Tubbs Lane[^c-c7d8376211330264dcecc781bf110ac9]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c7d8376211330264dcecc781bf110ac9]: Commencement: Art. 41 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-c7d8376211330264dcecc781bf110ac9]: Commencement: Art. 41 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00031]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
 

@@ -85,17 +85,17 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.**[^key-b9e7c5e5bc31d08b6aca3fdd7368d812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b9e7c5e5bc31d08b6aca3fdd7368d812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.** Fishery products imported into Great Britain[^key-291dc768e57adc47b6cf09e636a585c3] from the USA shall meet the requirements set out in Articles 3, 4 and 5.
+**Article 2.** Fishery products imported into Great Britain[^c-291dc768e57adc47b6cf09e636a585c3] from the USA shall meet the requirements set out in Articles 3, 4 and 5.
 
-**Article 3.** 1. Each consignment shall be accompanied by a numbered original health certificate in the form published by the appropriate authority from time to time[^key-08c904d65e959bebd8caeb6f763c840b] and comprising a single sheet, duly completed, signed and dated.
+**Article 3.** 1. Each consignment shall be accompanied by a numbered original health certificate in the form published by the appropriate authority from time to time[^c-08c904d65e959bebd8caeb6f763c840b] and comprising a single sheet, duly completed, signed and dated.
 
-2. The health certificate shall be drawn up in English and may also include other languages[^key-d99820d92dbb9845a5c19be293233b46].
+2. The health certificate shall be drawn up in English and may also include other languages[^c-d99820d92dbb9845a5c19be293233b46].
 
 3. The health certificate shall bear the name, capacity and signature of the representative of the FDA or of the NMFS-NOAA, and the latter’s official stamp in a colour different from that of the endorsements.
 
-(4.)[^key-55ab1e7fa46b9e41db8d539c33ddb415] In this Article:
+(4.)[^c-55ab1e7fa46b9e41db8d539c33ddb415] In this Article:
 
 - “appropriate authority” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
   - (a) in relation to Wales, the Welsh Ministers;
@@ -109,7 +109,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 6.** This Decision shall apply from 24 April 2006.
 
-**Article 7.**[^key-cfec0a2ae57751c15ccaabdf125836f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-cfec0a2ae57751c15ccaabdf125836f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 22 February 2006.
 
@@ -119,7 +119,7 @@ Markos Kyprianou
 
 *Member of the Commission*
 
-## ANNEX I[^key-46674b979be420ea1975de85b118c5fb]
+## ANNEX I[^c-46674b979be420ea1975de85b118c5fb]
 
 **No longer in force.**
 
@@ -1138,16 +1138,16 @@ Markos Kyprianou
 
 [^f00002]: Footnote: [OJ L 118, 21.4.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.118.01.0001.01.ENG).
 
-[^key-b9e7c5e5bc31d08b6aca3fdd7368d812]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2006/199/article/1) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/2)
+[^c-b9e7c5e5bc31d08b6aca3fdd7368d812]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2006/199/article/1) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/2)
 
-[^key-291dc768e57adc47b6cf09e636a585c3]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2006/199/article/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/3)
+[^c-291dc768e57adc47b6cf09e636a585c3]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2006/199/article/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/3)
 
-[^key-08c904d65e959bebd8caeb6f763c840b]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eudn/2006/199/article/3/1) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/a)
+[^c-08c904d65e959bebd8caeb6f763c840b]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eudn/2006/199/article/3/1) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/a)
 
-[^key-d99820d92dbb9845a5c19be293233b46]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eudn/2006/199/article/3/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/b)
+[^c-d99820d92dbb9845a5c19be293233b46]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eudn/2006/199/article/3/2) substituted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/b)
 
-[^key-55ab1e7fa46b9e41db8d539c33ddb415]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eudn/2006/199/article/3/4) inserted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/c)
+[^c-55ab1e7fa46b9e41db8d539c33ddb415]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eudn/2006/199/article/3/4) inserted (E.W.S.) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/4/c)
 
-[^key-cfec0a2ae57751c15ccaabdf125836f3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2006/199/article/7) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/5)
+[^c-cfec0a2ae57751c15ccaabdf125836f3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2006/199/article/7) omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/5)
 
-[^key-46674b979be420ea1975de85b118c5fb]: Textual amendment: Annex 1 omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/6)
+[^c-46674b979be420ea1975de85b118c5fb]: Textual amendment: Annex 1 omitted (E.W.S.) (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/9/6)

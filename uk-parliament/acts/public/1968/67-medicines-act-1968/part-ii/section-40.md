@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Medicated animal feeding stuffs.[^key-ccf17dc920f95caad83a2dcc17edffc4]
+## 40. Medicated animal feeding stuffs.[^c-ccf17dc920f95caad83a2dcc17edffc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf17dc920f95caad83a2dcc17edffc4]: Textual amendment: Ss. 38-40 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/15) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-ccf17dc920f95caad83a2dcc17edffc4]: Textual amendment: Ss. 38-40 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 15](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/15) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))

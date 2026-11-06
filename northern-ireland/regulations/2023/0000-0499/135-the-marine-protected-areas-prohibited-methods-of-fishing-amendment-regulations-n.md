@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] in exercise of the powers conferred by sections 19(1) and 124(1), (2) and (2A) of the Fisheries Act (Northern Ireland) 1966[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-0889cf9c4f9a3f912f46ef2455330568]
+## 1. Citation and commencement[^c-0889cf9c4f9a3f912f46ef2455330568]
 
 These Regulations may be cited as the Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 15th October 2023.
 
-## 2. Amendment of the Marine Protected Areas (Prohibited Methods of Fishing) Regulations (Northern Ireland) 2022[^key-5dfe5623c777de23e7827cc34583e6b6]
+## 2. Amendment of the Marine Protected Areas (Prohibited Methods of Fishing) Regulations (Northern Ireland) 2022[^c-5dfe5623c777de23e7827cc34583e6b6]
 
 (1) The Marine Protected Areas (Prohibited Methods of Fishing) Regulations (Northern Ireland) 2022[^f00003] are amended as follows.
 
@@ -75,8 +75,8 @@ These Regulations make minor corrections to two coordinates which provide for th
 
 [^f00002]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17); Section 124 was substituted by [S.I. 1981/227 (N.I.7)](https://www.legislation.gov.uk/nisi/1981/227), Article 6, and relevant amendments were made by [2001 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4) section 1 and [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), Article 6(2). There is another amendment but it is not relevant.
 
-[^key-0889cf9c4f9a3f912f46ef2455330568]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1) in operation at 15.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1)
+[^c-0889cf9c4f9a3f912f46ef2455330568]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1) in operation at 15.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1)
 
-[^key-5dfe5623c777de23e7827cc34583e6b6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/135/regulation/2) in operation at 15.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1)
+[^c-5dfe5623c777de23e7827cc34583e6b6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/135/regulation/2) in operation at 15.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2022 No. 292](https://www.legislation.gov.uk/nisr/2022/292) as amended by [S.R. 2022 No. 303](https://www.legislation.gov.uk/nisr/2022/303)

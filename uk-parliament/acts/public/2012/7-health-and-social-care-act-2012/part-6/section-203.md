@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Persons eligible to enter into general dental services contracts[^key-4a063a5884a74e2f9373c82fd40fefb6]
+## 203. Persons eligible to enter into general dental services contracts[^c-4a063a5884a74e2f9373c82fd40fefb6]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a063a5884a74e2f9373c82fd40fefb6]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2012/7/section/203) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4a063a5884a74e2f9373c82fd40fefb6]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2012/7/section/203) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

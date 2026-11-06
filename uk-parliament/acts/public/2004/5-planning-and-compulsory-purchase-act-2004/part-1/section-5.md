@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. RSS: revision[^key-95661c1f1df93953c323cfc6a88b9475][^key-b235dc4708f4579a9a773fe51f653af7][^key-db2a00ab3541b2ec2b5519ed7d3b8418]
+## 5. RSS: revision[^c-95661c1f1df93953c323cfc6a88b9475][^c-b235dc4708f4579a9a773fe51f653af7][^c-db2a00ab3541b2ec2b5519ed7d3b8418]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-95661c1f1df93953c323cfc6a88b9475]: Textual amendment: Ss. 1-12 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5)[(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/13), [7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg/ii)
+[^c-95661c1f1df93953c323cfc6a88b9475]: Textual amendment: Ss. 1-12 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5)[(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/13), [7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg/ii)
 
-[^key-b235dc4708f4579a9a773fe51f653af7]: Commencement: S. 5 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-b235dc4708f4579a9a773fe51f653af7]: Commencement: S. 5 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-db2a00ab3541b2ec2b5519ed7d3b8418]: Commencement: S. 5 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/a)
+[^c-db2a00ab3541b2ec2b5519ed7d3b8418]: Commencement: S. 5 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/a)

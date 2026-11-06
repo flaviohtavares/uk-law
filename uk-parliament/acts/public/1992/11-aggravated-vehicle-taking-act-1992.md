@@ -73,7 +73,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) The provisions of subsection (4) of section 12A of the [^c932978]Theft Act 1968 are without prejudice to the operation of—
 
-- (a) section 120 of the Sentencing Code[^key-f9efa0e2610a9cdfb3a4a7965eabf35e] (under which a Crown Court has a general power to fine an offender convicted on indictment); and
+- (a) section 120 of the Sentencing Code[^c-f9efa0e2610a9cdfb3a4a7965eabf35e] (under which a Crown Court has a general power to fine an offender convicted on indictment); and
 - (b) section 17 of, and Schedule 1 to, the [^c932980]Magistrates’ Courts Act 1980 (under which, with certain exceptions not material to section 12A, offences under the Theft Act 1968 are triable either way).
 
 (3) Nothing in section 12A of the [^c932981]Theft Act 1968 applies to—
@@ -138,7 +138,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c932978]: Marginal citation: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 
-[^key-f9efa0e2610a9cdfb3a4a7965eabf35e]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1992/11/section/1/2/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 123](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/123) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f9efa0e2610a9cdfb3a4a7965eabf35e]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1992/11/section/1/2/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 123](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/123) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c932980]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

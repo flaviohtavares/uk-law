@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The National Curriculum (End of Foundation Phase Assessment Arrangements and Revocation of the First Key Stage Assessment Arrangements) (Wales) Order 2011 (revoked)[^key-07126264b1aa00c15bdd9a9039cea9a4]
+The National Curriculum (End of Foundation Phase Assessment Arrangements and Revocation of the First Key Stage Assessment Arrangements) (Wales) Order 2011 (revoked)[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 1 September 2011
 
-[^key-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and revocation[^key-07126264b1aa00c15bdd9a9039cea9a4]
+## 1. Title, commencement, application and revocation[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-07126264b1aa00c15bdd9a9039cea9a4]
+## 2. Interpretation[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Teacher assessment — general[^key-07126264b1aa00c15bdd9a9039cea9a4]
+## 3. Teacher assessment — general[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Teacher assessment — relevant areas of learning[^key-07126264b1aa00c15bdd9a9039cea9a4]
+## 4. Teacher assessment — relevant areas of learning[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary powers of the Welsh Ministers[^key-07126264b1aa00c15bdd9a9039cea9a4]
+## 5. Supplementary powers of the Welsh Ministers[^c-07126264b1aa00c15bdd9a9039cea9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07126264b1aa00c15bdd9a9039cea9a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07126264b1aa00c15bdd9a9039cea9a4]: Textual amendment: Order revoked (1.9.2015) by [The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015 (S.I. 2015/1596)](https://www.legislation.gov.uk/uksi/2015/1596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1596/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1596/article/2)
+[^c-07126264b1aa00c15bdd9a9039cea9a4]: Textual amendment: Order revoked (1.9.2015) by [The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015 (S.I. 2015/1596)](https://www.legislation.gov.uk/uksi/2015/1596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1596/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1596/article/2)

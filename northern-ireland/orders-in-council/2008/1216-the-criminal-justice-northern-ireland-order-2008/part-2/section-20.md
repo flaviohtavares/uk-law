@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Power to release certain prisoners on compassionate grounds[^key-3a7cccf2ffe6c94af1c2d86b8e7e97e7]
+## 20. Power to release certain prisoners on compassionate grounds[^c-3a7cccf2ffe6c94af1c2d86b8e7e97e7]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) a fixed-term prisoner; and
 - (b) a prisoner serving an indeterminate custodial sentence.
 
-(3) The Department of Justice[^c22091991] shall, before releasing a prisoner to whom Article 18 or 20A applies[^key-35b08e80e1a3d4010248d9e43a957313] consult the Parole Commissioners unless the circumstances are such as to render such consultation impracticable.
+(3) The Department of Justice[^c22091991] shall, before releasing a prisoner to whom Article 18 or 20A applies[^c-35b08e80e1a3d4010248d9e43a957313] consult the Parole Commissioners unless the circumstances are such as to render such consultation impracticable.
 
 (4) In this Article “**fixed-term prisoner**” includes a person serving a determinate custodial sentence for an offence committed before the commencement of this Article.
 
@@ -42,12 +42,12 @@ only if his decision to do so is arrived at (wholly or partly) on the basis of p
 
 ## Annotations
 
-[^key-3a7cccf2ffe6c94af1c2d86b8e7e97e7]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisi/2008/1216/article/20) in operation at 1.6.2015 by [S.R. 2015/255](https://www.legislation.gov.uk/nisr/2015/255), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/255/article/2/b)
+[^c-3a7cccf2ffe6c94af1c2d86b8e7e97e7]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisi/2008/1216/article/20) in operation at 1.6.2015 by [S.R. 2015/255](https://www.legislation.gov.uk/nisr/2015/255), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/255/article/2/b)
 
 [^c22091981]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisi/2008/1216/article/20/1) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/16/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), [art. 20](https://www.legislation.gov.uk/uksi/2008/1216/article/20))
 
 [^c22091991]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/20/3) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/16/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), [art. 20](https://www.legislation.gov.uk/uksi/2008/1216/article/20))
 
-[^key-35b08e80e1a3d4010248d9e43a957313]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/20/3) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/6)
+[^c-35b08e80e1a3d4010248d9e43a957313]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/20/3) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/6)
 
 [^c22092001]: Textual amendment: [Art. 20(5)(6)](https://www.legislation.gov.uk/nisi/2008/1216/article/20/5/6) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/16/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), [art. 20](https://www.legislation.gov.uk/uksi/2008/1216/article/20))

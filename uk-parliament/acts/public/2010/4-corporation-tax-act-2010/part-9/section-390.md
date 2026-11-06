@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any amount included in the amounts mentioned in section 388(2) in respect of plant or machinery to which this section applies is to be deducted from the sum mentioned in that section.
 
-(2) But the ascribed value[^key-806919353df2a24a2025820f6423be15] as at the relevant day of any plant or machinery to which this section applies is to be added to that sum or, if that sum is nil, is the relevant plant or machinery value.
+(2) But the ascribed value[^c-806919353df2a24a2025820f6423be15] as at the relevant day of any plant or machinery to which this section applies is to be added to that sum or, if that sum is nil, is the relevant plant or machinery value.
 
 (3) This section applies to plant or machinery if—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-806919353df2a24a2025820f6423be15]: Textual amendment: Words in s. 390(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/4)
+[^c-806919353df2a24a2025820f6423be15]: Textual amendment: Words in s. 390(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/4)

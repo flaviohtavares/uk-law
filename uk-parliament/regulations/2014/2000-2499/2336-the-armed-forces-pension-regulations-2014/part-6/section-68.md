@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Annual rate of adult dependants’ pensions payable on death of pensioner member[^key-dd594b5eee87e7dd320f2e3ed773cc6c]
+## 68. Annual rate of adult dependants’ pensions payable on death of pensioner member[^c-dd594b5eee87e7dd320f2e3ed773cc6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd594b5eee87e7dd320f2e3ed773cc6c]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/2336/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-dd594b5eee87e7dd320f2e3ed773cc6c]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/2336/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

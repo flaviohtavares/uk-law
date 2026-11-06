@@ -36,7 +36,7 @@ Licensing (marine)
 
 Marine Pollution
 
-The Marine Licensing (Application Fees) Regulations 2011 (revoked)[^key-76350de514bdbf1979c3d0826ddbbc91]
+The Marine Licensing (Application Fees) Regulations 2011 (revoked)[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 Made
 
@@ -50,35 +50,35 @@ Coming into force
 
 6th April 2011
 
-[^key-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-76350de514bdbf1979c3d0826ddbbc91]
+## 1. Citation and commencement[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-76350de514bdbf1979c3d0826ddbbc91]
+## 2. Application[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees for applications for marine licences[^key-76350de514bdbf1979c3d0826ddbbc91]
+## 3. Fees for applications for marine licences[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Deposits in cases where fee payable at hourly rate[^key-76350de514bdbf1979c3d0826ddbbc91]
+## 4. Deposits in cases where fee payable at hourly rate[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Repayment, waiver or reduction of fee[^key-76350de514bdbf1979c3d0826ddbbc91]
+## 5. Repayment, waiver or reduction of fee[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fees[^key-76350de514bdbf1979c3d0826ddbbc91]
+## SCHEDULE — Fees[^c-76350de514bdbf1979c3d0826ddbbc91]
 
 Regulation 3
 
@@ -86,8 +86,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76350de514bdbf1979c3d0826ddbbc91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76350de514bdbf1979c3d0826ddbbc91]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/564) revoked (6.4.2014) by [The Marine Licensing (Application Fees) Regulations 2014 (S.I. 2014/615)](https://www.legislation.gov.uk/uksi/2014/615), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2014/615/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2014/615/regulation/9))
+[^c-76350de514bdbf1979c3d0826ddbbc91]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/564) revoked (6.4.2014) by [The Marine Licensing (Application Fees) Regulations 2014 (S.I. 2014/615)](https://www.legislation.gov.uk/uksi/2014/615), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2014/615/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/uksi/2014/615/regulation/9))

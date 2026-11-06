@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Multiple claimants[^key-a5fb3470143f64e16a867de9b075dcef]
+## 11. Multiple claimants[^c-a5fb3470143f64e16a867de9b075dcef]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5fb3470143f64e16a867de9b075dcef]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2024/1155/rule/11) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-a5fb3470143f64e16a867de9b075dcef]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2024/1155/rule/11) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

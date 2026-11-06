@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Amendment to secondary legislation on official controls in relation to genetically modified organisms[^key-dad01683c0058787447608184e676e24]
+## 55. Amendment to secondary legislation on official controls in relation to genetically modified organisms[^c-dad01683c0058787447608184e676e24]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 2(1) of the Official Controls (Animals, Feed and Food, Plant Healt
 
 ## Annotations
 
-[^key-dad01683c0058787447608184e676e24]: Commencement: Reg. 55 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-dad01683c0058787447608184e676e24]: Commencement: Reg. 55 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956351]: Marginal citation: [S.I. 2019/1488](https://www.legislation.gov.uk/uksi/2019/1488).

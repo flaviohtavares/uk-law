@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Inquiries[^key-c21ec6cd5e8a482b910a9df9ecd8b772]
+## 52. Inquiries[^c-c21ec6cd5e8a482b910a9df9ecd8b772]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c21ec6cd5e8a482b910a9df9ecd8b772]: Commencement: S. 52 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-c21ec6cd5e8a482b910a9df9ecd8b772]: Commencement: S. 52 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State, being the Minister designated[^f00001] under section 2(2) of the European Communities Act 1972[^f00002] in relation to the control and regulation of genetically modified organisms, in the exercise of the powers conferred on him by the said section 2 and section 15(1) of the Health and Safety at Work etc. Act 1974[^f00003] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-22db92ba721730e8b597b23ef3ce591b]
+## 1. Citation and commencement[^c-22db92ba721730e8b597b23ef3ce591b]
 
 These Regulations may be cited as the Genetically Modified Organisms (Contained Use) (Amendment) Regulations 1998 and shall come into force on 22nd July 1998.
 
-## 2. Amendments to the Genetically Modified Organisms (Contained Use) Regulations 1992[^key-e239c86922896f7477fdea3e6f6fbc21]
+## 2. Amendments to the Genetically Modified Organisms (Contained Use) Regulations 1992[^c-e239c86922896f7477fdea3e6f6fbc21]
 
 In regulation 6 of the Genetically Modified Organisms (Contained Use) Regulations 1992[^f00004]—
 
@@ -83,9 +83,9 @@ Department of the Environment, Transport and the Regions
 
 [^f00003]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15(1) and 50(3) were amended by the Employment Protection Act 1975 ([1975 c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16(3) respectively.
 
-[^key-22db92ba721730e8b597b23ef3ce591b]: Commencement: Reg. 1 in force at 22.7.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1548/regulation/1)
+[^c-22db92ba721730e8b597b23ef3ce591b]: Commencement: Reg. 1 in force at 22.7.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1548/regulation/1)
 
-[^key-e239c86922896f7477fdea3e6f6fbc21]: Commencement: Reg. 2 in force at 22.7.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1548/regulation/1)
+[^c-e239c86922896f7477fdea3e6f6fbc21]: Commencement: Reg. 2 in force at 22.7.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1548/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1992/3217](https://www.legislation.gov.uk/uksi/1992/3217), as amended by [S.I. 1996/967](https://www.legislation.gov.uk/uksi/1996/967).
 

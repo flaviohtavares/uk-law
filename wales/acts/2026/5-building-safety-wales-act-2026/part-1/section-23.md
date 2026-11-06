@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Revision of register without notification[^key-a319c5303b3f2c501a1cfc0f30bef01e]
+## 23. Revision of register without notification[^c-a319c5303b3f2c501a1cfc0f30bef01e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a319c5303b3f2c501a1cfc0f30bef01e]: Commencement: S. 23 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a319c5303b3f2c501a1cfc0f30bef01e]: Commencement: S. 23 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

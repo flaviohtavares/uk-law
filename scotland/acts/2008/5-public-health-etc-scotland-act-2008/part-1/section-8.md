@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Power to direct health boards and local authorities[^key-bd6144de0d4f1dd03a22ee79bbb500e5]
+## 8. Power to direct health boards and local authorities[^c-bd6144de0d4f1dd03a22ee79bbb500e5]
 
 *Extent: S*
 
@@ -46,10 +46,10 @@ within such period and subject to such other conditions as they consider appropr
 
 (4) The Scottish Ministers may from time to time vary or withdraw a direction under subsection (2).
 
-(5)[^key-6a3552b0ef4d7ad66192d43024545921] If, in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, a health board delegates any of its functions relating to the protection of public health, this section and sections 9 and 10 apply in relation to the person to whom the functions are delegated as they apply to the health board.
+(5)[^c-6a3552b0ef4d7ad66192d43024545921] If, in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, a health board delegates any of its functions relating to the protection of public health, this section and sections 9 and 10 apply in relation to the person to whom the functions are delegated as they apply to the health board.
 
 ## Annotations
 
-[^key-bd6144de0d4f1dd03a22ee79bbb500e5]: Commencement: S. 8 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-bd6144de0d4f1dd03a22ee79bbb500e5]: Commencement: S. 8 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-6a3552b0ef4d7ad66192d43024545921]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/asp/2008/5/section/8/5) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/8/3)
+[^c-6a3552b0ef4d7ad66192d43024545921]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/asp/2008/5/section/8/5) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/8/3)

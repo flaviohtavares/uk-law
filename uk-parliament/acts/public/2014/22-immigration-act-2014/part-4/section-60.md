@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Regulations about evidence[^key-5e0ed667e29ff12c4ef9f0a764e919d8]
+## 60. Regulations about evidence[^c-5e0ed667e29ff12c4ef9f0a764e919d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e0ed667e29ff12c4ef9f0a764e919d8]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/22/section/60) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/i)
+[^c-5e0ed667e29ff12c4ef9f0a764e919d8]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2014/22/section/60) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/i)

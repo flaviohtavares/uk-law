@@ -35,18 +35,18 @@ concerning the authorisation of the preparation of citric acid, sorbic acid, thy
 
 (Text with EEA relevance) (revoked)
 
-[^key-7068c5350b2db5b26ccd474b7029f5c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7068c5350b2db5b26ccd474b7029f5c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7068c5350b2db5b26ccd474b7029f5c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7068c5350b2db5b26ccd474b7029f5c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7068c5350b2db5b26ccd474b7029f5c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7068c5350b2db5b26ccd474b7029f5c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7068c5350b2db5b26ccd474b7029f5c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7068c5350b2db5b26ccd474b7029f5c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-7068c5350b2db5b26ccd474b7029f5c1]
+## ANNEX[^c-7068c5350b2db5b26ccd474b7029f5c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7068c5350b2db5b26ccd474b7029f5c1]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 87](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/87) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-7068c5350b2db5b26ccd474b7029f5c1]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 87](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/87) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

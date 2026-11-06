@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Unauthorised disclosure of information relating to tax credit offences[^key-fa109dc8e54ca98f32c984805e93bec4]
+## 125. Unauthorised disclosure of information relating to tax credit offences[^c-fa109dc8e54ca98f32c984805e93bec4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In Schedule 4 to the Social Security Administration Act 1992 (persons employed i
 
 ## Annotations
 
-[^key-fa109dc8e54ca98f32c984805e93bec4]: Commencement: S. 125 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)
+[^c-fa109dc8e54ca98f32c984805e93bec4]: Commencement: S. 125 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)

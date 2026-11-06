@@ -46,7 +46,7 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-bf212ffe38850daafb938bd8adb6b77b]
+### 1. Citation, commencement and interpretation[^c-bf212ffe38850daafb938bd8adb6b77b]
 
 (1) These Regulations may be cited as the Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 and, except as provided in paragraph (2), come into force on the day after the day on which they are made.
 
@@ -59,45 +59,45 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 
 ## PART 2 — Amendments to the 2011 Regulations
 
-### 2. Amendments to the 2011 Regulations[^key-d8654affddc16e32543d97259e00ea43]
+### 2. Amendments to the 2011 Regulations[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to regulation 2 (interpretation)[^key-d8654affddc16e32543d97259e00ea43]
+### 3. Amendment to regulation 2 (interpretation)[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment to regulation 29 (participants using solid biomass in accredited RHI installations with an installation capacity of 1MWth or above)[^key-d8654affddc16e32543d97259e00ea43]
+### 4. Amendment to regulation 29 (participants using solid biomass in accredited RHI installations with an installation capacity of 1MWth or above)[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to regulation 33 (biomethane producers)[^key-d8654affddc16e32543d97259e00ea43]
+### 5. Amendment to regulation 33 (biomethane producers)[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to regulation 34 (ongoing obligations: general)[^key-d8654affddc16e32543d97259e00ea43]
+### 6. Amendment to regulation 34 (ongoing obligations: general)[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Sustainable solid biomass etc[^key-d8654affddc16e32543d97259e00ea43]
+### 7. Sustainable solid biomass etc[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment to Schedule 2[^key-d8654affddc16e32543d97259e00ea43]
+### 8. Amendment to Schedule 2[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Sustainability criteria[^key-d8654affddc16e32543d97259e00ea43]
+### 9. Sustainability criteria[^c-d8654affddc16e32543d97259e00ea43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendments to the 2014 Regulations
 
-### 10. Amendment to the 2014 Regulations[^key-781aec1f6e7b6034f60dbbf1bd36a43c]
+### 10. Amendment to the 2014 Regulations[^c-781aec1f6e7b6034f60dbbf1bd36a43c]
 
 The 2014 Regulations are amended in accordance with regulations 11 to 13.
 
-### 11. Amendment to regulation 2 (interpretation)[^key-95de93d88aa32ec6ba56f021b1793fd0]
+### 11. Amendment to regulation 2 (interpretation)[^c-95de93d88aa32ec6ba56f021b1793fd0]
 
 In regulation 2 of the 2014 Regulations, after the definition of “applicant” insert—
 
@@ -105,7 +105,7 @@ In regulation 2 of the 2014 Regulations, after the definition of “applicant”
 
 .
 
-### 12. Amendment to regulation 41 (ongoing obligations: annual declarations)[^key-db3bf63905ec1b9cc8f8e15c656c7d6c]
+### 12. Amendment to regulation 41 (ongoing obligations: annual declarations)[^c-db3bf63905ec1b9cc8f8e15c656c7d6c]
 
 In regulation 41, after paragraph (f) insert—
 
@@ -115,7 +115,7 @@ In regulation 41, after paragraph (f) insert—
 
 .
 
-### 13. Sustainable solid biomass[^key-841e93852ce86244f859b89cab2fbd56]
+### 13. Sustainable solid biomass[^c-841e93852ce86244f859b89cab2fbd56]
 
 After regulation 42 insert—
 
@@ -176,18 +176,18 @@ A draft of these Regulations was notified to the European Commission in accordan
 
 [^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-bf212ffe38850daafb938bd8adb6b77b]: Commencement: Reg. 1 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
+[^c-bf212ffe38850daafb938bd8adb6b77b]: Commencement: Reg. 1 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2011/2860](https://www.legislation.gov.uk/uksi/2011/2860), amended by [S.I. 2012/1999](https://www.legislation.gov.uk/uksi/2012/1999), [S.I. 2013/1033](https://www.legislation.gov.uk/uksi/2013/1033), [2410](https://www.legislation.gov.uk/uksi/2013/2410) and [3179](https://www.legislation.gov.uk/uksi/2013/3179), [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928) and [1413](https://www.legislation.gov.uk/uksi/2014/1413) and S.I. 2015/\[ \].
 
 [^f00003]: Footnote: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928), amended by S.I. 2015/\[ \].
 
-[^key-d8654affddc16e32543d97259e00ea43]: Textual amendment: [Regs. 2-9](https://www.legislation.gov.uk/uksi/2015/145/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(e)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/e) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-d8654affddc16e32543d97259e00ea43]: Textual amendment: [Regs. 2-9](https://www.legislation.gov.uk/uksi/2015/145/regulation/2) revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(e)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/e) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
 
-[^key-781aec1f6e7b6034f60dbbf1bd36a43c]: Commencement: Reg. 10 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
+[^c-781aec1f6e7b6034f60dbbf1bd36a43c]: Commencement: Reg. 10 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
 
-[^key-95de93d88aa32ec6ba56f021b1793fd0]: Commencement: Reg. 11 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
+[^c-95de93d88aa32ec6ba56f021b1793fd0]: Commencement: Reg. 11 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
 
-[^key-db3bf63905ec1b9cc8f8e15c656c7d6c]: Commencement: Reg. 12 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
+[^c-db3bf63905ec1b9cc8f8e15c656c7d6c]: Commencement: Reg. 12 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
 
-[^key-841e93852ce86244f859b89cab2fbd56]: Commencement: Reg. 13 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)
+[^c-841e93852ce86244f859b89cab2fbd56]: Commencement: Reg. 13 in force at 5.2.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/145/regulation/1/1)

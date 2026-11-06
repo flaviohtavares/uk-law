@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Rules about charges for connections etc[^key-92a749ee74efb7d1bdb0965fd721f450][^key-bdbdfaed534b11c205b676c076b45c70][^key-246da0a5bb2ac885ef6e345332bc4153][^key-48e795735db79edcbdc2458a132a5537]
+## 17. Rules about charges for connections etc[^c-92a749ee74efb7d1bdb0965fd721f450][^c-bdbdfaed534b11c205b676c076b45c70][^c-246da0a5bb2ac885ef6e345332bc4153][^c-48e795735db79edcbdc2458a132a5537]
 
 *Extent: E+W*
 
@@ -167,10 +167,10 @@ After section 144 of the Water Industry Act 1991 there is inserted—
 
 ## Annotations
 
-[^key-92a749ee74efb7d1bdb0965fd721f450]: Commencement: S. 17 in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/b)
+[^c-92a749ee74efb7d1bdb0965fd721f450]: Commencement: S. 17 in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/b)
 
-[^key-bdbdfaed534b11c205b676c076b45c70]: Commencement: S. 17 in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-bdbdfaed534b11c205b676c076b45c70]: Commencement: S. 17 in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/b) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
 
-[^key-246da0a5bb2ac885ef6e345332bc4153]: Commencement: S. 17 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/465/article/2/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-246da0a5bb2ac885ef6e345332bc4153]: Commencement: S. 17 in force at 1.4.2016 for E. in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/465/article/2/d) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-48e795735db79edcbdc2458a132a5537]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/21/section/17) in force at 15.12.2017 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/a)
+[^c-48e795735db79edcbdc2458a132a5537]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/21/section/17) in force at 15.12.2017 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Terrorist offenders released on licence: arrest without warrant pending recall decision[^key-0ed82bf893ff7631498740a6c00c1d4f]
+## 184. Terrorist offenders released on licence: arrest without warrant pending recall decision[^c-0ed82bf893ff7631498740a6c00c1d4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ed82bf893ff7631498740a6c00c1d4f]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2022/32/section/184) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-0ed82bf893ff7631498740a6c00c1d4f]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2022/32/section/184) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

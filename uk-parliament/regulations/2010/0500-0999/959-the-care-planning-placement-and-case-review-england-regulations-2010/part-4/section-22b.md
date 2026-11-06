@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22B. Conditions to be complied with before placing C in a long term foster placement[^key-8870f936ea2dfc67573b6d3af59bc404]
+## 22B. Conditions to be complied with before placing C in a long term foster placement[^c-8870f936ea2dfc67573b6d3af59bc404]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The responsible authority may only place C with F if—
 
-- (a) the responsible authority have prepared a placement plan for C, *(affected by repeal, see note)*[^key-50fd8b39fc976ea8705b549a99a18e71]
+- (a) the responsible authority have prepared a placement plan for C, *(affected by repeal, see note)*[^c-50fd8b39fc976ea8705b549a99a18e71]
 - (b) the requirements of regulation 9(1)(b)(i) have been complied with,
 - (c) the placement will safeguard and promote C’s welfare,
 - (d) the IRO has been consulted,
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8870f936ea2dfc67573b6d3af59bc404]: Textual amendment: Reg. 22B inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/495/regulation/4)
+[^c-8870f936ea2dfc67573b6d3af59bc404]: Textual amendment: Reg. 22B inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/495/regulation/4)
 
-[^key-50fd8b39fc976ea8705b549a99a18e71]: Textual amendment: Reg. 22B(2)(a) omitted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/9) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-50fd8b39fc976ea8705b549a99a18e71]: Textual amendment: Reg. 22B(2)(a) omitted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/9) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))

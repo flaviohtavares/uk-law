@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Fees[^key-e56cb5b69ddcb484350c3b25f2b37b57][^key-8638961479bef0b6d000ba18e1c47274]
+## 107. Fees[^c-e56cb5b69ddcb484350c3b25f2b37b57][^c-8638961479bef0b6d000ba18e1c47274]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Where a fee is prescribed in respect of any service or other transaction to be c
 
 ## Annotations
 
-[^key-e56cb5b69ddcb484350c3b25f2b37b57]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/1993/3138/regulation/107) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-e56cb5b69ddcb484350c3b25f2b37b57]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/1993/3138/regulation/107) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-8638961479bef0b6d000ba18e1c47274]: Modification: [Reg. 107](https://www.legislation.gov.uk/uksi/1993/3138/regulation/107) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)
+[^c-8638961479bef0b6d000ba18e1c47274]: Modification: [Reg. 107](https://www.legislation.gov.uk/uksi/1993/3138/regulation/107) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)

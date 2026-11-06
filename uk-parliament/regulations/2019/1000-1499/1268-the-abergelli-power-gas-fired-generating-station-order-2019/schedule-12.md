@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. Applications made under requirements[^key-f19d4c756c183a98f60934ea1aa6d8a0]
+### 1. Applications made under requirements[^c-f19d4c756c183a98f60934ea1aa6d8a0]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order the relevant planning authority must give notice to the undertaker of their decision on the application within a period of eight weeks beginning with—
 
@@ -44,7 +44,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where an application is made to a relevant planning authority for a consent, agreement or approval required by a requirement they may grant such consent, agreement or approval either unconditionally or subject to conditions.
 
-### 2. Further information[^key-f1e5713166fd72ef8cd54ee5e688ddab]
+### 2. Further information[^c-f1e5713166fd72ef8cd54ee5e688ddab]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -56,7 +56,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where further information is requested under this paragraph 2 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b), paragraph 1(4) and paragraph 2.
 
-### 3. Appeals[^key-b3e5b605450d18b502a5261504f7c36d]
+### 3. Appeals[^c-b3e5b605450d18b502a5261504f7c36d]
 
 (1) The undertaker may appeal in the event that—
 
@@ -99,7 +99,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (12) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the Development Management Manual, Section 12 Annex: Award of Costs, or any circular or guidance which may from time to time replace it.
 
-### 4. Interpretation of Schedule 12[^key-c3c148662440dfda13030908b9d74273]
+### 4. Interpretation of Schedule 12[^c-c3c148662440dfda13030908b9d74273]
 
 In this Schedule 12—
 
@@ -108,10 +108,10 @@ In this Schedule 12—
 
 ## Annotations
 
-[^key-f19d4c756c183a98f60934ea1aa6d8a0]: Commencement: Sch. 12 para. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-f19d4c756c183a98f60934ea1aa6d8a0]: Commencement: Sch. 12 para. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-f1e5713166fd72ef8cd54ee5e688ddab]: Commencement: Sch. 12 para. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-f1e5713166fd72ef8cd54ee5e688ddab]: Commencement: Sch. 12 para. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-b3e5b605450d18b502a5261504f7c36d]: Commencement: Sch. 12 para. 3 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-b3e5b605450d18b502a5261504f7c36d]: Commencement: Sch. 12 para. 3 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-c3c148662440dfda13030908b9d74273]: Commencement: Sch. 12 para. 4 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-c3c148662440dfda13030908b9d74273]: Commencement: Sch. 12 para. 4 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

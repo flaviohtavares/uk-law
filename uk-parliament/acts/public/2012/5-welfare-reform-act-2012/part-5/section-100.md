@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Payments to joint claimants[^key-90d7fc9cee5ee0a2242beb8b3c030494]
+## 100. Payments to joint claimants[^c-90d7fc9cee5ee0a2242beb8b3c030494]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In section 5 of the Social Security Administration Act 1992 (regulations about c
 
 ## Annotations
 
-[^key-90d7fc9cee5ee0a2242beb8b3c030494]: Commencement: S. 100 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/36)
+[^c-90d7fc9cee5ee0a2242beb8b3c030494]: Commencement: S. 100 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/36)

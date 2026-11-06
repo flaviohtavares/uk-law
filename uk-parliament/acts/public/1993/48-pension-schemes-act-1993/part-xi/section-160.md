@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Terms of contracts of service or schemes restricting choice to be void.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 160. Terms of contracts of service or schemes restricting choice to be void.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)

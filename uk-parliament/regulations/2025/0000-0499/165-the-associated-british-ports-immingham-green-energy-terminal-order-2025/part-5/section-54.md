@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Trees subject to tree preservation orders[^key-a89c4613478e0f987343d3cf52d224a6]
+## 54. Trees subject to tree preservation orders[^c-a89c4613478e0f987343d3cf52d224a6]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a89c4613478e0f987343d3cf52d224a6]: Commencement: Art. 54 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-a89c4613478e0f987343d3cf52d224a6]: Commencement: Art. 54 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

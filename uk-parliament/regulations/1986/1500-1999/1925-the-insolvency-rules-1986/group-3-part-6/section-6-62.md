@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.62. Release from duty to submit statement of affairs; extension of time[^key-6cd42500b721c90957f572aa04586731]
+## 6.62. Release from duty to submit statement of affairs; extension of time[^c-6cd42500b721c90957f572aa04586731]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ If such a report is filed, a copy of it shall be sent by the official receiver t
 
 ## Annotations
 
-[^key-6cd42500b721c90957f572aa04586731]: Commencement: [Rule 6.62](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.62) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6cd42500b721c90957f572aa04586731]: Commencement: [Rule 6.62](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.62) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

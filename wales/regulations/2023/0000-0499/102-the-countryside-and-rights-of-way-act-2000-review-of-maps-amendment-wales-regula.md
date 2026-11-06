@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 10(3) and 45(1) of the Countryside and Rights of Way Act 2000[^f00001].
 
-## 1. Title and commencement[^key-2724527953be9e47b7f7dd3106c71a54]
+## 1. Title and commencement[^c-2724527953be9e47b7f7dd3106c71a54]
 
 (1) The title of these Regulations is the Countryside and Rights of Way Act 2000 (Review of Maps) (Amendment) (Wales) Regulations 2023.
 
 (2) These Regulations come into force on 1 March 2023.
 
-## 2. Amendment of the Countryside and Rights of Way Act 2000[^key-b11c064ace8869d940f320d0271d6018]
+## 2. Amendment of the Countryside and Rights of Way Act 2000[^c-b11c064ace8869d940f320d0271d6018]
 
 In section 10(2)(b)(ii) of the Countryside and Rights of Way Act 2000 (review of maps)[^f00002], for “ten” substitute “fifteen”.
 
@@ -77,8 +77,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 45(1) defines “regulations” in Part 1 of the Act (as respects Wales) as regulations made by the National Assembly for Wales. The powers of the National Assembly for Wales under sections 10(3) and 45(1) of the Countryside and Rights of Way Act 2000 were transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2724527953be9e47b7f7dd3106c71a54]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/102/regulation/1) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/102/regulation/1/2)
+[^c-2724527953be9e47b7f7dd3106c71a54]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/102/regulation/1) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/102/regulation/1/2)
 
-[^key-b11c064ace8869d940f320d0271d6018]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/102/regulation/2) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/102/regulation/1/2)
+[^c-b11c064ace8869d940f320d0271d6018]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/102/regulation/2) in force at 1.3.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/102/regulation/1/2)
 
 [^f00002]: Footnote: Section 10(2) was amended by [S.I. 2013/514](https://www.legislation.gov.uk/uksi/2013/514). There is another amendment not relevant to these Regulations.

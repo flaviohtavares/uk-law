@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37K. Replacement penalty notice[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37K. Replacement penalty notice[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
-(1) Where the Secretary of State[^key-f783cea90b1e6a9ba42b0dd7528ae70d]—
+(1) Where the Secretary of State[^c-f783cea90b1e6a9ba42b0dd7528ae70d]—
 
 - (a) withdraws a penalty notice (“the original penalty notice”) under section 37J, and
 - (b) is satisfied that the employer failed to pay the specified amount in full before the specified date in accordance with the warning notice in relation to which the original penalty notice was given,
 
-the Secretary of State[^key-473bfb0e1adfd6a4cdb2c5dafebc75a8] may at the same time give another penalty notice in relation to the warning notice (“the replacement penalty notice”).
+the Secretary of State[^c-473bfb0e1adfd6a4cdb2c5dafebc75a8] may at the same time give another penalty notice in relation to the warning notice (“the replacement penalty notice”).
 
 (2) The replacement penalty notice must—
 
@@ -40,8 +40,8 @@ the Secretary of State[^key-473bfb0e1adfd6a4cdb2c5dafebc75a8] may at the same ti
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-f783cea90b1e6a9ba42b0dd7528ae70d]: Textual amendment: Words in s. 37K(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 12(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/12/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-f783cea90b1e6a9ba42b0dd7528ae70d]: Textual amendment: Words in s. 37K(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 12(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/12/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
 
-[^key-473bfb0e1adfd6a4cdb2c5dafebc75a8]: Textual amendment: Words in s. 37K(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 12(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/12/b) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-473bfb0e1adfd6a4cdb2c5dafebc75a8]: Textual amendment: Words in s. 37K(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 12(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/12/b) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

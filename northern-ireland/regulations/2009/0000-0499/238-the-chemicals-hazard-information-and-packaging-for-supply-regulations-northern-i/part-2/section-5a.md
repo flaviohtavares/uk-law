@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5A. Advertisements for dangerous preparations[^key-cb9ed60bb2f65fc45304389f98e95d53]
+## 5A. Advertisements for dangerous preparations[^c-cb9ed60bb2f65fc45304389f98e95d53]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb9ed60bb2f65fc45304389f98e95d53]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2009/238/regulation/5A) revoked (1.6.2017) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(d)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/d) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-cb9ed60bb2f65fc45304389f98e95d53]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2009/238/regulation/5A) revoked (1.6.2017) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/1), [24(d)](https://www.legislation.gov.uk/nisr/2013/206/regulation/24/d) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100ZA. Responsible person’s determination of means of voting[^key-9b45451656ee33c917aad030567253bd]
+## 100ZA. Responsible person’s determination of means of voting[^c-9b45451656ee33c917aad030567253bd]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the determination must include provision setting out which vote is to be counted
 
 ## Annotations
 
-[^key-9b45451656ee33c917aad030567253bd]: Textual amendment: S. 100ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2026/881/article/5/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-9b45451656ee33c917aad030567253bd]: Textual amendment: S. 100ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2026/881/article/5/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

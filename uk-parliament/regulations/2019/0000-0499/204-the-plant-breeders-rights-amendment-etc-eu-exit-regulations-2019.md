@@ -54,7 +54,7 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 ## PART 1 — Citation, commencement and interpretation
 
-### 1. Citation, commencement and interpretation[^key-3b02f30957ab955401bb696883a39318]
+### 1. Citation, commencement and interpretation[^c-3b02f30957ab955401bb696883a39318]
 
 (1) These Regulations may be cited as the Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -62,23 +62,23 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 - “**the 1997 Act**” means the Plant Varieties Act 1997 [^c23559171];
 - “**the Controller**” has the meaning given in the 1997 Act;
-- “**the Council Regulation**” means Council Regulation [(EC) No 2100/94](https://www.legislation.gov.uk/eur/1994/2100) on Community plant variety rights [^c23559181], as it has effect immediately before IP completion day[^key-5c29a05f31bd6339664bfb96fd81773a];
+- “**the Council Regulation**” means Council Regulation [(EC) No 2100/94](https://www.legislation.gov.uk/eur/1994/2100) on Community plant variety rights [^c23559181], as it has effect immediately before IP completion day[^c-5c29a05f31bd6339664bfb96fd81773a];
 - “**existing EU right**” has the meaning given in regulation 3;
 - “**variety**” has the meaning given in section 1(3) of the 1997 Act.
 
 ## PART 2 — Revocations
 
-### 2.[^key-fccb06ddf35ff45e39c5750d47a577c9]
+### 2.[^c-fccb06ddf35ff45e39c5750d47a577c9]
 
 The provisions of retained direct EU legislation and of domestic law specified in column 1 of the table in the Schedule to these Regulations are revoked to the extent specified in column 2.
 
 ## PART 3 — Existing EU rights
 
-### 3. Existing EU rights[^key-87c5d343efa8d715d2a3833b1f24608e]
+### 3. Existing EU rights[^c-87c5d343efa8d715d2a3833b1f24608e]
 
-(1) For the purposes of these Regulations, an “existing EU right” is a Community plant variety right which, immediately before IP completion day[^key-311cad3e7645dec9ba5f88380bb44bea], is contained in the register maintained under Article 87(2) of the Council Regulation.
+(1) For the purposes of these Regulations, an “existing EU right” is a Community plant variety right which, immediately before IP completion day[^c-311cad3e7645dec9ba5f88380bb44bea], is contained in the register maintained under Article 87(2) of the Council Regulation.
 
-(2) On and after IP completion day, an existing EU right is to be treated as if—[^key-7ef1d07ce7c69e62053638c34fab2781]
+(2) On and after IP completion day, an existing EU right is to be treated as if—[^c-7ef1d07ce7c69e62053638c34fab2781]
 
 - (a) it were a plant breeders’ right granted in accordance with the 1997 Act;
 - (b) the variety were registered in accordance with regulations under section 18(1)(c) of the 1997 Act; and
@@ -86,7 +86,7 @@ The provisions of retained direct EU legislation and of domestic law specified i
 
 (3) Accordingly, on and after IP completion day, the provisions of the 1997 Act (except sections 1(1), 3 to 5, 11 and 18(3) of, and Schedule 2 to, that Act), any regulations or orders made under that Act and any guidance given under that Act apply in relation to those existing EU rights.
 
-### 4. Duration of existing EU rights[^key-ce1314eb12f5c483ac559d3a7de7696e][^key-fcd38659b54ab099dcbffa16363786f7]
+### 4. Duration of existing EU rights[^c-ce1314eb12f5c483ac559d3a7de7696e][^c-fcd38659b54ab099dcbffa16363786f7]
 
 (1) Subject to paragraph (3), an existing EU right has effect for a period—
 
@@ -107,11 +107,11 @@ The provisions of retained direct EU legislation and of domestic law specified i
 
 (5) Where paragraph 3 applies, the declaration that is to be treated as made in the United Kingdom is to be treated as having effect from the date of the declaration in the EU.
 
-### 5. Relationship between existing rights under the 1997 Act and existing EU right[^key-4b109d838aef9b0fa3a866b42f8cf1ba]
+### 5. Relationship between existing rights under the 1997 Act and existing EU right[^c-4b109d838aef9b0fa3a866b42f8cf1ba]
 
 (1) This regulation applies where—
 
-- (a) immediately before IP completion day[^key-012e53c13e05be39742da101c9feebd4] a person had a plant breeders' right granted in accordance with the 1997 Act but was unable to enforce that right because of the operation of paragraph 2 of Article 92 of the Council Regulation (a “suspended UK right”); and
+- (a) immediately before IP completion day[^c-012e53c13e05be39742da101c9feebd4] a person had a plant breeders' right granted in accordance with the 1997 Act but was unable to enforce that right because of the operation of paragraph 2 of Article 92 of the Council Regulation (a “suspended UK right”); and
 - (b) on and after IP completion day, that person has an existing EU right in relation to the same plant variety.
 
 (2) While the existing EU right remains in force, the person remains unable to enforce the suspended UK right.
@@ -120,40 +120,40 @@ The provisions of retained direct EU legislation and of domestic law specified i
 
 (4) Paragraph (3) does not apply if the suspended UK right has itself been cancelled in accordance with section 22(1)(d) of the 1997 Act.
 
-### 6. Information to be provided by the holder of an existing EU right[^key-844a36da10e36d5c611af4107721e8ab]
+### 6. Information to be provided by the holder of an existing EU right[^c-844a36da10e36d5c611af4107721e8ab]
 
-(1)[^key-26cb6f9b9885e920249e7ea7183e6cd7] At the request of the Controller, a person holding an existing EU right under regulation 3(2)[^key-387e1a89d68fc5c0df0b24080880bf0e] must provide the Controller within such period as may be specified in the request with the following information—
+(1)[^c-26cb6f9b9885e920249e7ea7183e6cd7] At the request of the Controller, a person holding an existing EU right under regulation 3(2)[^c-387e1a89d68fc5c0df0b24080880bf0e] must provide the Controller within such period as may be specified in the request with the following information—
 
-- (a)[^key-4485f946647d69aad684c76aff31e8cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4485f946647d69aad684c76aff31e8cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an address for service in the United Kingdom or the name and address of an agent within the United Kingdom with authority to act for the person in matters which are the subject of the 1997 Act, the Plant Breeders' Rights Regulations 1998 [^c23559191] or regulation 18 of the Plant Breeders' Rights Regulations 1978 [^c23559201]; and
 - (c) such other information as the Controller reasonably requests.
 
-(2)[^key-649d3ef5acfbe0f6e2bda2d0ef7bd8cf] Paragraph (1)(b) does not apply before the day three years after the day following that on which IP completion day falls.
+(2)[^c-649d3ef5acfbe0f6e2bda2d0ef7bd8cf] Paragraph (1)(b) does not apply before the day three years after the day following that on which IP completion day falls.
 
-### 7. Information to be provided by non-UK resident holder of right granted in accordance with the 1997 Act[^key-d0f51845604b3c75df073e6ffd92b248]
+### 7. Information to be provided by non-UK resident holder of right granted in accordance with the 1997 Act[^c-d0f51845604b3c75df073e6ffd92b248]
 
-(1) This regulation applies if the holder of a right granted in accordance with the 1997 Act is neither resident nor established in the United Kingdom on IP completion day[^key-494676f8344008e2ae0da272d6f36c0b].
+(1) This regulation applies if the holder of a right granted in accordance with the 1997 Act is neither resident nor established in the United Kingdom on IP completion day[^c-494676f8344008e2ae0da272d6f36c0b].
 
 (2) At the request of the Controller, the person must supply the Controller within such period as may be specified in the request with—
 
 - (a) an address for service in the United Kingdom; or
 - (b) the name and address of an agent within the United Kingdom with authority to act for the person in matters which are the subject of the 1997 Act, the Plant Breeders' Rights Regulations 1998 or regulation 18 of the Plant Breeders' Rights Regulations 1978.
 
-### 8. Modification of the 1997 Act[^key-81abf1f15637947f8255814bcc26b17f]
+### 8. Modification of the 1997 Act[^c-81abf1f15637947f8255814bcc26b17f]
 
 In the application of the 1997 Act to existing EU rights, section 22(1)(c) of the 1997 Act (cancellation) has effect as if after “above” there were inserted “or under regulation 6 or 7 of the Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019”.
 
-### 8A. Exhaustion of rights[^M_I_e442bbd8-81ad-4f22-b7e1-b2088ecf531f][^key-545848546da32522127ee9d8fd6eae9d]
+### 8A. Exhaustion of rights[^M_I_e442bbd8-81ad-4f22-b7e1-b2088ecf531f][^c-545848546da32522127ee9d8fd6eae9d]
 
 (1) An existing EU right shall not extend to any act concerning the material of a variety if, before IP completion day, that material was sold or otherwise marketed in the United Kingdom or in the EU, by or with the consent of the holder of the rights, or is derived from material which has been so sold or otherwise marketed.
 
 (2) In this regulation, “material” has the meaning given by section 10(4) of the 1997 Act for the purposes of section 10.
 
-## PART 4 — Unresolved applications on IP completion day[^key-e79984de92af03ad8d1033230dda1193]
+## PART 4 — Unresolved applications on IP completion day[^c-e79984de92af03ad8d1033230dda1193]
 
-### 9. Unresolved applications[^key-09a8f8fa4b36a2cdca19cf8ad8c09622]
+### 9. Unresolved applications[^c-09a8f8fa4b36a2cdca19cf8ad8c09622]
 
-(1) On IP completion day[^key-867db6338867e62d48eb14d94019d22f], a person has an “**unresolved application**” for the purposes of this Part if—
+(1) On IP completion day[^c-867db6338867e62d48eb14d94019d22f], a person has an “**unresolved application**” for the purposes of this Part if—
 
 - (a) before IP completion day the person (whether alone or with others) had made an application for a Community plant variety right under the Council Regulation; and
 - (b) immediately before IP completion day that application is unresolved.
@@ -161,42 +161,42 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 (2) An application is unresolved for the purposes of paragraph (1)(b) if—
 
 - (a) no decision in relation to it has been made under Article 61 or 62 of the Council Regulation;
-- (b)[^key-99b900c7b0b3d42dbf903a871e99c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-99b900c7b0b3d42dbf903a871e99c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-99b900c7b0b3d42dbf903a871e99c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-99b900c7b0b3d42dbf903a871e99c019] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3898a1505955daedf26cb18a8f5e32ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3898a1505955daedf26cb18a8f5e32ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Right to apply for a plant breeders' right[^key-2f959f7817376faf161f404bd231312d]
+### 10. Right to apply for a plant breeders' right[^c-2f959f7817376faf161f404bd231312d]
 
 (1) A person who has an unresolved application may apply for plant breeders' rights under the 1997 Act in relation to the variety to which the unresolved application relates.
 
-(2)[^key-003db6d4b42bc6d8f754996787c4b47b] If an application under paragraph (1) is made within the period of 6 months beginning with IP completion day, regulations 11 and 12 apply.
+(2)[^c-003db6d4b42bc6d8f754996787c4b47b] If an application under paragraph (1) is made within the period of 6 months beginning with IP completion day, regulations 11 and 12 apply.
 
 (3) An application under paragraph (1) must contain a statement—
 
 - (a) that it is made by, or with the consent of, the person who made the unresolved application; and
 - (b) that it relates to the same variety as the unresolved application.
 
-(4) Subject to the provisions of regulations 11 and 12[^key-bd2d3c41679b32a0c805e807426bfe5b], such an application is to be treated as if it were an application under section 3 of the 1997 Act (grant of plant breeders' rights on application).
+(4) Subject to the provisions of regulations 11 and 12[^c-bd2d3c41679b32a0c805e807426bfe5b], such an application is to be treated as if it were an application under section 3 of the 1997 Act (grant of plant breeders' rights on application).
 
-### 11. Effect of an application under regulation 10 (1) and (2) : priority[^key-1d942c917059fe3f5763e09f73e98140][^key-58046bc6949e6e61bac83e43a217a407]
+### 11. Effect of an application under regulation 10 (1) and (2) : priority[^c-1d942c917059fe3f5763e09f73e98140][^c-58046bc6949e6e61bac83e43a217a407]
 
-(1) Where the condition in regulation 10(2) is met,[^key-eb59e9c700d4b95147ba0c73e53bbb7a] an application under regulation 10(1)[^key-57da679a6b98630e38c799ab92f1e381] is to be treated for the purposes of paragraph 5 of Schedule 2 to the 1997 Act (priorities between applicants) as if it were made, not on the date on which it is in fact made, but on the earlier date specified in paragraph (4).
+(1) Where the condition in regulation 10(2) is met,[^c-eb59e9c700d4b95147ba0c73e53bbb7a] an application under regulation 10(1)[^c-57da679a6b98630e38c799ab92f1e381] is to be treated for the purposes of paragraph 5 of Schedule 2 to the 1997 Act (priorities between applicants) as if it were made, not on the date on which it is in fact made, but on the earlier date specified in paragraph (4).
 
-(2)[^key-6fa558addaa03b6c89858ba99f25770d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6fa558addaa03b6c89858ba99f25770d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6fa558addaa03b6c89858ba99f25770d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6fa558addaa03b6c89858ba99f25770d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-781ebdd15fb08630ead60a891432ede2] The earlier date is the date of priority claimed in the unresolved application or, where no date of priority is claimed, the date of the unresolved application for the purposes of Article 51 of the Council Regulation.
+(4)[^c-781ebdd15fb08630ead60a891432ede2] The earlier date is the date of priority claimed in the unresolved application or, where no date of priority is claimed, the date of the unresolved application for the purposes of Article 51 of the Council Regulation.
 
-### 12. Application under regulation 10 (1) and (2) : novelty[^key-1ae5ab9dea45b03035bf4deddaf9aa94][^key-60b144da617a9410304f9abccdf155a7]
+### 12. Application under regulation 10 (1) and (2) : novelty[^c-1ae5ab9dea45b03035bf4deddaf9aa94][^c-60b144da617a9410304f9abccdf155a7]
 
-(1) Where the condition in regulation 10(2) is met,[^key-590f9e3b27d828809206b6f84ce214eb] the provisions of this regulation apply in determining whether a variety is to be deemed new for the purposes of an application under regulation 10(1)[^key-efcb6f459fa49552b357e3b034989ec4] (and, accordingly, the provisions of paragraph 4(1) to (3) of Schedule 2 to the 1997 Act (criteria for novelty) do not apply).
+(1) Where the condition in regulation 10(2) is met,[^c-590f9e3b27d828809206b6f84ce214eb] the provisions of this regulation apply in determining whether a variety is to be deemed new for the purposes of an application under regulation 10(1)[^c-efcb6f459fa49552b357e3b034989ec4] (and, accordingly, the provisions of paragraph 4(1) to (3) of Schedule 2 to the 1997 Act (criteria for novelty) do not apply).
 
 (2) The variety is to be deemed new if no sale or other disposal of propagating material or harvested material of the variety for the purposes of exploiting the variety has, with the consent of the applicant—
 
-- (a) taken place in a relevant territory earlier than one year before the relevant date[^key-774398da04ea3d34a46ca60e0719dc4f]; or
-- (b) taken place elsewhere than in a relevant territory earlier than 4 years, or in the case of trees or vines, 6 years, before the relevant date[^key-3ff40839abd885f605c9333c8ecb8911].
+- (a) taken place in a relevant territory earlier than one year before the relevant date[^c-774398da04ea3d34a46ca60e0719dc4f]; or
+- (b) taken place elsewhere than in a relevant territory earlier than 4 years, or in the case of trees or vines, 6 years, before the relevant date[^c-3ff40839abd885f605c9333c8ecb8911].
 
 (3) Sub-paragraphs (4) to (11) of paragraph 4 of Schedule 2 to the 1997 Act (disregard of certain sales and disposals) have effect for the purposes of this paragraph, but as if, in sub-paragraphs (4) and (10), the references to sub-paragraphs (2) and (3) of that paragraph were references to paragraph (2)(a) and (b) of this regulation.
 
@@ -204,15 +204,15 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 
 - “**applicant**” includes, in relation to consent to a sale or other disposal, a person with whose consent the applicant made the application under regulation 10;
 - “**relevant territory**” means any part of the territory of a member State (which, in relation to the time in question, includes the United Kingdom);
-- “the relevant date” means the date of priority claimed in the unresolved application or, where no date of priority is claimed, the date of the unresolved application for the purposes of Article 51 of the Council Regulation.[^key-dfe9cf8043bb6807491e5573cd8b9f56]
+- “the relevant date” means the date of priority claimed in the unresolved application or, where no date of priority is claimed, the date of the unresolved application for the purposes of Article 51 of the Council Regulation.[^c-dfe9cf8043bb6807491e5573cd8b9f56]
 
-### 13. Application under regulation 10: rights in relation to application period[^key-0f7108b7b3b2076a0c75100a1e5785cc]
+### 13. Application under regulation 10: rights in relation to application period[^c-0f7108b7b3b2076a0c75100a1e5785cc]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Refusal of application where there is an existing plant breeders' right[^key-8efcb09046daf55d8293765fa0fc8b51]
+### 14. Refusal of application where there is an existing plant breeders' right[^c-8efcb09046daf55d8293765fa0fc8b51]
 
 **Not yet in force.**
 
@@ -220,7 +220,7 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 
 ## PART 5 — Other amendments
 
-### 15. The 1997 Act[^key-65549a84e049ea81f6e936b3db8b3c3e]
+### 15. The 1997 Act[^c-65549a84e049ea81f6e936b3db8b3c3e]
 
 (1) The 1997 Act is amended as follows.
 
@@ -242,7 +242,7 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 
 (4) In section 38 (interpretation of Part 1) omit the definition of “the Council Regulation”.
 
-### 16. The Plant Breeders' Rights (Farm Saved Seed) (Specified Information) Regulations 1998[^key-25a9f0f8d48e77a1de02021126578d0e]
+### 16. The Plant Breeders' Rights (Farm Saved Seed) (Specified Information) Regulations 1998[^c-25a9f0f8d48e77a1de02021126578d0e]
 
 (1) The Plant Breeders' Rights (Farm Saved Seed) (Specified Information) Regulations 1998 [^c23559211] are amended as follows.
 
@@ -276,7 +276,7 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 
 (4) In regulation 6 (period within which inquiry may be made) for “and 5” substitute “ , 5 and 5A ”.
 
-### 17. The Plant Breeders' Rights Regulations 1998[^key-fd78880fb27c4f46f5cf10ba450a27dc]
+### 17. The Plant Breeders' Rights Regulations 1998[^c-fd78880fb27c4f46f5cf10ba450a27dc]
 
 (1) The Plant Breeders' Rights Regulations 1998[^f00011] are amended as follows.
 
@@ -308,11 +308,11 @@ In the application of the 1997 Act to existing EU rights, section 22(1)(c) of th
 
 .
 
-### 18. The Plant Breeders' Rights (Information Notices) Regulations 1998[^key-52d0a6a3c88ec5edf840ad62bd72eb06]
+### 18. The Plant Breeders' Rights (Information Notices) Regulations 1998[^c-52d0a6a3c88ec5edf840ad62bd72eb06]
 
-In relation to an existing EU right that by virtue of regulation 3(2)[^key-35bd3f1875ef5f8e6b9efb332c520361] is treated as a plant breeders' right, regulation 3(2)(d) of, and paragraph 4 of Part 1 of the Schedule to, the Plant Breeders' Rights (Information Notices) Regulations 1998 [^c23559221] have effect as if the references to rights being granted under the 1997 Act were references to rights granted under the Council Regulation before IP completion day[^key-a3ce52b696e327c2aa8296c6d6bd3a3d].
+In relation to an existing EU right that by virtue of regulation 3(2)[^c-35bd3f1875ef5f8e6b9efb332c520361] is treated as a plant breeders' right, regulation 3(2)(d) of, and paragraph 4 of Part 1 of the Schedule to, the Plant Breeders' Rights (Information Notices) Regulations 1998 [^c23559221] have effect as if the references to rights being granted under the 1997 Act were references to rights granted under the Council Regulation before IP completion day[^c-a3ce52b696e327c2aa8296c6d6bd3a3d].
 
-### 19. The Plant Breeders' Rights (Naming and Fees) Regulations 2006[^key-c102b50318c20b1d564500e5602f5714]
+### 19. The Plant Breeders' Rights (Naming and Fees) Regulations 2006[^c-c102b50318c20b1d564500e5602f5714]
 
 (1) Regulation 3 of the Plant Breeders' Rights (Naming and Fees) Regulations 2006 [^c23559231] (selection of names for plant varieties) is amended in accordance with paragraphs (2) to (5).
 
@@ -350,7 +350,7 @@ In relation to an existing EU right that by virtue of regulation 3(2)[^key-35bd3
 >
 > (1) This regulation applies for the purposes of regulation 3(2A)(a).
 >
-> (2) The Controller must not accept the proposed name as suitable if the Controller has been notified of a registered trademark which is identical or similar to the proposed name and which relates to goods which are identical or similar to the plant variety for which the name is proposed, unless the Controller is satisfied that consent of the proprietor of the registered trademark[^key-f357d16bb49f2731dcbd0e667d5ec88e] has been obtained.
+> (2) The Controller must not accept the proposed name as suitable if the Controller has been notified of a registered trademark which is identical or similar to the proposed name and which relates to goods which are identical or similar to the plant variety for which the name is proposed, unless the Controller is satisfied that consent of the proprietor of the registered trademark[^c-f357d16bb49f2731dcbd0e667d5ec88e] has been obtained.
 >
 > (3) The proposed name must not be accepted as suitable by the Controller if—
 >
@@ -439,7 +439,7 @@ In relation to an existing EU right that by virtue of regulation 3(2)[^key-35bd3
 
 .
 
-### 20. Amendment of the EEA agreement[^key-a2ed0af1288fea5e05bc14a041eb16ce]
+### 20. Amendment of the EEA agreement[^c-a2ed0af1288fea5e05bc14a041eb16ce]
 
 In Annex 1 to the EEA Agreement, in Chapter 3 (Phytosanitary matters), in Section 2 (Application texts), in paragraph 18, omit the words from “The provisions of the Regulation shall” to the end.
 
@@ -449,7 +449,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — Revocations[^key-cb7ba6abd79d9a166573cc8dbe10f800]
+## SCHEDULE — Revocations[^c-cb7ba6abd79d9a166573cc8dbe10f800]
 
 Regulation 2
 
@@ -499,127 +499,127 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23559161]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3b02f30957ab955401bb696883a39318]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-3b02f30957ab955401bb696883a39318]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^c23559171]: Marginal citation: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66).
 
 [^c23559181]: Marginal citation: OJ No L 227, 1.9.1004. p.1, as last amended by Council Regulation 15/2008/EC (OJ No L 8, 11.1.2008, p 2).
 
-[^key-5c29a05f31bd6339664bfb96fd81773a]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-5c29a05f31bd6339664bfb96fd81773a]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-fccb06ddf35ff45e39c5750d47a577c9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-fccb06ddf35ff45e39c5750d47a577c9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-87c5d343efa8d715d2a3833b1f24608e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-87c5d343efa8d715d2a3833b1f24608e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-311cad3e7645dec9ba5f88380bb44bea]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-311cad3e7645dec9ba5f88380bb44bea]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-7ef1d07ce7c69e62053638c34fab2781]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(3)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/3)
+[^c-7ef1d07ce7c69e62053638c34fab2781]: Textual amendment: Words in reg. 3(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(3)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/3)
 
-[^key-ce1314eb12f5c483ac559d3a7de7696e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-ce1314eb12f5c483ac559d3a7de7696e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-fcd38659b54ab099dcbffa16363786f7]: Textual amendment: Reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(4)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/4)
+[^c-fcd38659b54ab099dcbffa16363786f7]: Textual amendment: Reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(4)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/4)
 
-[^key-4b109d838aef9b0fa3a866b42f8cf1ba]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-4b109d838aef9b0fa3a866b42f8cf1ba]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-012e53c13e05be39742da101c9feebd4]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-012e53c13e05be39742da101c9feebd4]: Textual amendment: Words in reg. 5(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-844a36da10e36d5c611af4107721e8ab]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-844a36da10e36d5c611af4107721e8ab]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-26cb6f9b9885e920249e7ea7183e6cd7]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/a)
+[^c-26cb6f9b9885e920249e7ea7183e6cd7]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/a)
 
-[^key-387e1a89d68fc5c0df0b24080880bf0e]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-387e1a89d68fc5c0df0b24080880bf0e]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4485f946647d69aad684c76aff31e8cd]: Textual amendment: Reg. 6(1)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/b)
+[^c-4485f946647d69aad684c76aff31e8cd]: Textual amendment: Reg. 6(1)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/b)
 
 [^c23559191]: Marginal citation: [S.I. 1998/1027](https://www.legislation.gov.uk/uksi/1998/1027), amended by [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), 2002/247, 2008/2683.
 
 [^c23559201]: Marginal citation: [S.I. 1978/294](https://www.legislation.gov.uk/uksi/1978/294), amended by [S.I. 1998/1027](https://www.legislation.gov.uk/uksi/1998/1027).
 
-[^key-649d3ef5acfbe0f6e2bda2d0ef7bd8cf]: Textual amendment: Reg. 6(2) inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/c)
+[^c-649d3ef5acfbe0f6e2bda2d0ef7bd8cf]: Textual amendment: Reg. 6(2) inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/5/c)
 
-[^key-d0f51845604b3c75df073e6ffd92b248]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-d0f51845604b3c75df073e6ffd92b248]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-494676f8344008e2ae0da272d6f36c0b]: Textual amendment: Words in reg. 7(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-494676f8344008e2ae0da272d6f36c0b]: Textual amendment: Words in reg. 7(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-81abf1f15637947f8255814bcc26b17f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-81abf1f15637947f8255814bcc26b17f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^M_I_e442bbd8-81ad-4f22-b7e1-b2088ecf531f]: Commencement: Reg. 8A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-545848546da32522127ee9d8fd6eae9d]: Textual amendment: Reg. 8A inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(6)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/6)
+[^c-545848546da32522127ee9d8fd6eae9d]: Textual amendment: Reg. 8A inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(6)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/6)
 
-[^key-e79984de92af03ad8d1033230dda1193]: Textual amendment: Words in Pt. 4 heading substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-e79984de92af03ad8d1033230dda1193]: Textual amendment: Words in Pt. 4 heading substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-09a8f8fa4b36a2cdca19cf8ad8c09622]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-09a8f8fa4b36a2cdca19cf8ad8c09622]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-867db6338867e62d48eb14d94019d22f]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-867db6338867e62d48eb14d94019d22f]: Textual amendment: Words in reg. 9(1) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-99b900c7b0b3d42dbf903a871e99c019]: Textual amendment: Reg. 9(2)(b)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/7)
+[^c-99b900c7b0b3d42dbf903a871e99c019]: Textual amendment: Reg. 9(2)(b)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/7)
 
-[^key-3898a1505955daedf26cb18a8f5e32ee]: Textual amendment: Reg. 9(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/7)
+[^c-3898a1505955daedf26cb18a8f5e32ee]: Textual amendment: Reg. 9(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(7)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/7)
 
-[^key-2f959f7817376faf161f404bd231312d]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-2f959f7817376faf161f404bd231312d]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-003db6d4b42bc6d8f754996787c4b47b]: Textual amendment: Reg. 10(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/8/a)
+[^c-003db6d4b42bc6d8f754996787c4b47b]: Textual amendment: Reg. 10(2) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/8/a)
 
-[^key-bd2d3c41679b32a0c805e807426bfe5b]: Textual amendment: Words in reg. 10(4) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/8/b)
+[^c-bd2d3c41679b32a0c805e807426bfe5b]: Textual amendment: Words in reg. 10(4) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/8/b)
 
-[^key-1d942c917059fe3f5763e09f73e98140]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-1d942c917059fe3f5763e09f73e98140]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-58046bc6949e6e61bac83e43a217a407]: Textual amendment: Words in reg. 11 heading inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58046bc6949e6e61bac83e43a217a407]: Textual amendment: Words in reg. 11 heading inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb59e9c700d4b95147ba0c73e53bbb7a]: Textual amendment: Words in reg. 11(1) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb59e9c700d4b95147ba0c73e53bbb7a]: Textual amendment: Words in reg. 11(1) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57da679a6b98630e38c799ab92f1e381]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57da679a6b98630e38c799ab92f1e381]: Textual amendment: Words in reg. 11(1) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fa558addaa03b6c89858ba99f25770d]: Textual amendment: Reg. 11(2)(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/9/a)
+[^c-6fa558addaa03b6c89858ba99f25770d]: Textual amendment: Reg. 11(2)(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/9/a)
 
-[^key-781ebdd15fb08630ead60a891432ede2]: Textual amendment: Reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/9/b)
+[^c-781ebdd15fb08630ead60a891432ede2]: Textual amendment: Reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/9/b)
 
-[^key-1ae5ab9dea45b03035bf4deddaf9aa94]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-1ae5ab9dea45b03035bf4deddaf9aa94]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-60b144da617a9410304f9abccdf155a7]: Textual amendment: Words in reg. 12 heading inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60b144da617a9410304f9abccdf155a7]: Textual amendment: Words in reg. 12 heading inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-590f9e3b27d828809206b6f84ce214eb]: Textual amendment: Words in reg. 12(1) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-590f9e3b27d828809206b6f84ce214eb]: Textual amendment: Words in reg. 12(1) inserted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-efcb6f459fa49552b357e3b034989ec4]: Textual amendment: Words in reg. 12(1) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efcb6f459fa49552b357e3b034989ec4]: Textual amendment: Words in reg. 12(1) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-774398da04ea3d34a46ca60e0719dc4f]: Textual amendment: Words in reg. 12(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/a)
+[^c-774398da04ea3d34a46ca60e0719dc4f]: Textual amendment: Words in reg. 12(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/a)
 
-[^key-3ff40839abd885f605c9333c8ecb8911]: Textual amendment: Words in reg. 12(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/a)
+[^c-3ff40839abd885f605c9333c8ecb8911]: Textual amendment: Words in reg. 12(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/a)
 
-[^key-dfe9cf8043bb6807491e5573cd8b9f56]: Textual amendment: Words in reg. 12(4) inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/b)
+[^c-dfe9cf8043bb6807491e5573cd8b9f56]: Textual amendment: Words in reg. 12(4) inserted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(10)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/10/b)
 
-[^key-0f7108b7b3b2076a0c75100a1e5785cc]: Textual amendment: Reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(11)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/11)
+[^c-0f7108b7b3b2076a0c75100a1e5785cc]: Textual amendment: Reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(11)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/11)
 
-[^key-8efcb09046daf55d8293765fa0fc8b51]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(11)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/11)
+[^c-8efcb09046daf55d8293765fa0fc8b51]: Textual amendment: Reg. 14 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(11)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/11)
 
-[^key-65549a84e049ea81f6e936b3db8b3c3e]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-65549a84e049ea81f6e936b3db8b3c3e]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-25a9f0f8d48e77a1de02021126578d0e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-25a9f0f8d48e77a1de02021126578d0e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^c23559211]: Marginal citation: [S.I. 1998/1026](https://www.legislation.gov.uk/uksi/1998/1026).
 
-[^key-fd78880fb27c4f46f5cf10ba450a27dc]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-fd78880fb27c4f46f5cf10ba450a27dc]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^f00011]: Footnote: [S.I. 1998/1027](https://www.legislation.gov.uk/uksi/1998/1027), amended by [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), [2002/247](https://www.legislation.gov.uk/uksi/2002/247), [2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-52d0a6a3c88ec5edf840ad62bd72eb06]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-52d0a6a3c88ec5edf840ad62bd72eb06]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-35bd3f1875ef5f8e6b9efb332c520361]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(6)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35bd3f1875ef5f8e6b9efb332c520361]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(6)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23559221]: Marginal citation: [S.I. 1998/1024](https://www.legislation.gov.uk/uksi/1998/1024).
 
-[^key-a3ce52b696e327c2aa8296c6d6bd3a3d]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
+[^c-a3ce52b696e327c2aa8296c6d6bd3a3d]: Textual amendment: Words in reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/b), [2(2)](https://www.legislation.gov.uk/uksi/2020/769/regulation/2/2)
 
-[^key-c102b50318c20b1d564500e5602f5714]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-c102b50318c20b1d564500e5602f5714]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^c23559231]: Marginal citation: S.I. 2006 /648, amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
 
-[^key-f357d16bb49f2731dcbd0e667d5ec88e]: Textual amendment: Words in reg. 19(6) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f357d16bb49f2731dcbd0e667d5ec88e]: Textual amendment: Words in reg. 19(6) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/b), [8(7)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2ed0af1288fea5e05bc14a041eb16ce]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-a2ed0af1288fea5e05bc14a041eb16ce]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
-[^key-cb7ba6abd79d9a166573cc8dbe10f800]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
+[^c-cb7ba6abd79d9a166573cc8dbe10f800]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1))
 
 [^c23559241]: Marginal citation: [S.I. 1995/2655](https://www.legislation.gov.uk/uksi/1995/2655).
 

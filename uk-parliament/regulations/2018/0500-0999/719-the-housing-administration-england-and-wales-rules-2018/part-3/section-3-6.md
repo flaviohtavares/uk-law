@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.6. Release from requirement to provide statement of affairs and extension of time[^key-b94ff4cc70123c4632789b3e6e8f635c]
+## 3.6. Release from requirement to provide statement of affairs and extension of time[^c-b94ff4cc70123c4632789b3e6e8f635c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b94ff4cc70123c4632789b3e6e8f635c]: Commencement: Rule 3.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b94ff4cc70123c4632789b3e6e8f635c]: Commencement: Rule 3.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

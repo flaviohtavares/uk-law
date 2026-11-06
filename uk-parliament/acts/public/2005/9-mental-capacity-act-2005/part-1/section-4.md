@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Best interests[^c2090555][^key-29cf4c9c20e8707a5dae2acc1cbd82db]
+## 4. Best interests[^c2090555][^c-29cf4c9c20e8707a5dae2acc1cbd82db]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ as to what would be in the person's best interests and, in particular, as to the
 
 [^c2090555]: Commencement: S. 4 wholly in force at 1.10.2007; s. 4 not in force at Royal Assent see s. 68(1)-(3); s. 4 in force for certain purposes at 1.4.2007 by [S.I. 2007/563](https://www.legislation.gov.uk/uksi/2007/563), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/1/2/3), [2(2)(d)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/2/2/d/3) and s. 4 in force otherwise at 1.10.2007 by [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/2/d)
 
-[^key-29cf4c9c20e8707a5dae2acc1cbd82db]: Modification: S. 4 applied by SI 2010/781 reg. 18 (as substituted (18.6.2012) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/1513)](https://www.legislation.gov.uk/uksi/2012/1513), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1513/regulation/1/2/a), [5](https://www.legislation.gov.uk/uksi/2012/1513/regulation/5))
+[^c-29cf4c9c20e8707a5dae2acc1cbd82db]: Modification: S. 4 applied by SI 2010/781 reg. 18 (as substituted (18.6.2012) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/1513)](https://www.legislation.gov.uk/uksi/2012/1513), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1513/regulation/1/2/a), [5](https://www.legislation.gov.uk/uksi/2012/1513/regulation/5))
 
 [^c2097056]: Modification: S. 4(1)-(7) applied (E.) (1.6.2010) by [The National Health Service (Direct Payments) Regulations 2010 (S.I. 2010/1000)](https://www.legislation.gov.uk/uksi/2010/1000), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/1000/article/1/3)

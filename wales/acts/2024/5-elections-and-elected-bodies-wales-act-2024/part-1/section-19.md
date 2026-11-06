@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Electoral reform regulations: procedure[^key-20935ac5f12bf4fee7af1a5edd0f75f8]
+## 19. Electoral reform regulations: procedure[^c-20935ac5f12bf4fee7af1a5edd0f75f8]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ made during the 60-day period with regard to the draft regulations.
 
 ## Annotations
 
-[^key-20935ac5f12bf4fee7af1a5edd0f75f8]: Commencement: S. 19 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-20935ac5f12bf4fee7af1a5edd0f75f8]: Commencement: S. 19 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

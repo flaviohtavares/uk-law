@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Further amendment of Regulation (EU) No 996/2010[^key-3bbfaeff3ee7a4b7b259bc15e2d03f70]
+## 58. Further amendment of Regulation (EU) No 996/2010[^c-3bbfaeff3ee7a4b7b259bc15e2d03f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 26 (entry into force), omit the sentence which begins “This Regu
 
 ## Annotations
 
-[^key-3bbfaeff3ee7a4b7b259bc15e2d03f70]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3bbfaeff3ee7a4b7b259bc15e2d03f70]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

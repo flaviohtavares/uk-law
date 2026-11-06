@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**31.**[^key-62d199c50277720ca1d8f1f5c4f0ee7a] In regulation 34 insert “in Northern Ireland” before “only in a tax warehouse”.
+**31.**[^c-62d199c50277720ca1d8f1f5c4f0ee7a] In regulation 34 insert “in Northern Ireland” before “only in a tax warehouse”.
 
 ## Annotations
 
-[^key-62d199c50277720ca1d8f1f5c4f0ee7a]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-62d199c50277720ca1d8f1f5c4f0ee7a]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

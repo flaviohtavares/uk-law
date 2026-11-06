@@ -34,7 +34,7 @@ COMPANIES
 
 AUDITORS
 
-The Statutory Auditors and Third Country Auditors (Amendment) Regulations 2008 (revoked)[^key-266e34283a399fa817714c897d893100]
+The Statutory Auditors and Third Country Auditors (Amendment) Regulations 2008 (revoked)[^c-266e34283a399fa817714c897d893100]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 5th April 2008
 
-[^key-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-266e34283a399fa817714c897d893100]
+## 1.[^c-266e34283a399fa817714c897d893100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-266e34283a399fa817714c897d893100]
+## 2.[^c-266e34283a399fa817714c897d893100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266e34283a399fa817714c897d893100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-266e34283a399fa817714c897d893100]: Textual amendment: Regulations revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [regs. 2](https://www.legislation.gov.uk/uksi/2013/1672/regulation/2), [3](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)
+[^c-266e34283a399fa817714c897d893100]: Textual amendment: Regulations revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [regs. 2](https://www.legislation.gov.uk/uksi/2013/1672/regulation/2), [3](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Animal welfare bodies[^key-0fd82992a49f7be2384dc455a6825679]
+## 36. Animal welfare bodies[^c-0fd82992a49f7be2384dc455a6825679]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd82992a49f7be2384dc455a6825679]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2006/11/section/36) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-0fd82992a49f7be2384dc455a6825679]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2006/11/section/36) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

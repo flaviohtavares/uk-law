@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-d43356bc98190fd540fc97d5c78878b0]
+## 1. Citation and commencement[^c-d43356bc98190fd540fc97d5c78878b0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d43356bc98190fd540fc97d5c78878b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/417) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(j)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/j)
+[^c-d43356bc98190fd540fc97d5c78878b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/417) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(j)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/j)

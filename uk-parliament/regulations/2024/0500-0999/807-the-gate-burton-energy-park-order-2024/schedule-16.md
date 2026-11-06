@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 16 — HEDGEROWS TO BE REMOVED[^key-01a8d365e5ea62b229b4ea2a8f430149]
+## SCHEDULE 16 — HEDGEROWS TO BE REMOVED[^c-01a8d365e5ea62b229b4ea2a8f430149]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ Article ‎36
 
 ## Annotations
 
-[^key-01a8d365e5ea62b229b4ea2a8f430149]: Commencement: Sch. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-01a8d365e5ea62b229b4ea2a8f430149]: Commencement: Sch. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

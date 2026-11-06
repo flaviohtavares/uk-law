@@ -32,14 +32,14 @@ summary: ''
 - (b) due to a trade dispute, or
 - (c) with permission from the member's Scheme employer.
 
-[^key-08efef5432c0ddc7bedee55b06dc4f66]...
+[^c-08efef5432c0ddc7bedee55b06dc4f66]...
 
-(5)[^key-f4411e1b20b01de16c490a2989816eaa] An active member who is absent from work with permission from the member’s Scheme employer (otherwise than on child-related leave, on reserve forces service leave, or by reason of illness or injury) for a continuous period of less than 15 days and is receiving no pensionable pay must pay contributions under regulations 9 or 10 on the pensionable pay the member would have received in respect of that period but for the absence.
+(5)[^c-f4411e1b20b01de16c490a2989816eaa] An active member who is absent from work with permission from the member’s Scheme employer (otherwise than on child-related leave, on reserve forces service leave, or by reason of illness or injury) for a continuous period of less than 15 days and is receiving no pensionable pay must pay contributions under regulations 9 or 10 on the pensionable pay the member would have received in respect of that period but for the absence.
 
 (6) In paragraph (5) the expression “**absent from work with permission**” does not include an absence due to a trade dispute.
 
 ## Annotations
 
-[^key-08efef5432c0ddc7bedee55b06dc4f66]: Textual amendment: Words in reg. 11(4) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/493/regulation/6)
+[^c-08efef5432c0ddc7bedee55b06dc4f66]: Textual amendment: Words in reg. 11(4) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/493/regulation/6)
 
-[^key-f4411e1b20b01de16c490a2989816eaa]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/11/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/11/6) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [4(1)](https://www.legislation.gov.uk/uksi/2026/226/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/4/2))
+[^c-f4411e1b20b01de16c490a2989816eaa]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/11/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/11/6) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [4(1)](https://www.legislation.gov.uk/uksi/2026/226/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/4/2))

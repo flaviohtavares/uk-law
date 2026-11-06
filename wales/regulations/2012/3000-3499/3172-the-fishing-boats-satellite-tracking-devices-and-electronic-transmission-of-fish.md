@@ -45,19 +45,19 @@ Coming into force
 
 31 December 2012
 
-The Welsh Ministers, in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001], and now vested in them [^f00002], as read with paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003], make the following Scheme with the approval of the Treasury.[^key-c2ce112f38ba9b4b11e3976a8ca5a1a1]
+The Welsh Ministers, in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001], and now vested in them [^f00002], as read with paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003], make the following Scheme with the approval of the Treasury.[^c-c2ce112f38ba9b4b11e3976a8ca5a1a1]
 
-This Scheme makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for certain references to Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy and to Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) to be construed as references to those Regulations as amended from time to time.[^key-c2ce112f38ba9b4b11e3976a8ca5a1a1]
+This Scheme makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for certain references to Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy and to Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) to be construed as references to those Regulations as amended from time to time.[^c-c2ce112f38ba9b4b11e3976a8ca5a1a1]
 
 ## PART 1 — Introductory Provisions
 
-### 1. Title, commencement and application[^key-ea7af1d46f8f4d9ede14c0c45285c611]
+### 1. Title, commencement and application[^c-ea7af1d46f8f4d9ede14c0c45285c611]
 
 (1) The title of this Scheme is the Fishing Boats (Satellite — Tracking Devices and Electronic Transmission of Fishing Activities Data) (Wales) Scheme 2012 and it comes into force on 31 December 2012.
 
 (2) This Scheme applies in relation to Wales.
 
-### 2. Interpretation[^key-c9ae9682d7b24baede302cf8051a1228]
+### 2. Interpretation[^c-c9ae9682d7b24baede302cf8051a1228]
 
 (1) In this Scheme—
 
@@ -77,14 +77,14 @@ This Scheme makes provision for a purpose mentioned in section 2(2) of the Europ
 
 ## PART 2 — Grant for Satellite-Tracking Devices
 
-### 3. Interpretation of Part 2[^key-5e10df18201268f1253488fc7876aae9]
+### 3. Interpretation of Part 2[^c-5e10df18201268f1253488fc7876aae9]
 
 In this Part—
 
 - “approved supplier” (“*cyflenwr cymeradwy*.”) means the provider and installer of satellite-tracking devices selected by the Welsh Ministers and published in the invitation for applications for grant pursuant to paragraph 4(1) of this Scheme; and
 - “satellite-tracking device” (“*dyfais olrhain drwy loeren*”) has the same meaning as in Article 2(9) of the Implementing Regulation.
 
-### 4. Invitation to apply for grant[^key-224f29dde9747a4406489c4a3b3fbf10]
+### 4. Invitation to apply for grant[^c-224f29dde9747a4406489c4a3b3fbf10]
 
 (1) The Welsh Ministers may from time to time publish an invitation for applications for a grant for a satellite-tracking device.
 
@@ -97,14 +97,14 @@ In this Part—
 - (e) the closing date for making an application; and
 - (f) any other information the Welsh Ministers consider relevant to an application.
 
-### 5. Eligibility to make an application[^key-a714a2428b620f5b9c2c79113b286e69]
+### 5. Eligibility to make an application[^c-a714a2428b620f5b9c2c79113b286e69]
 
 (1) A person may apply to the Welsh Ministers for a grant for a satellite-tracking device, in accordance with the provisions of this Scheme, if the person—
 
 - (a) is the master, owner or charterer of an eligible Welsh fishing boat; and
 - (b) has purchased from an approved supplier, or has commissioned an approved supplier to supply, a satellite-tracking device for use on that boat.
 
-### 6. Applications[^key-3aee2829ad624ca42faf1c10543142b0]
+### 6. Applications[^c-3aee2829ad624ca42faf1c10543142b0]
 
 (1) An application for a grant must be made in writing to the Welsh Ministers in accordance with the requirements of the invitation made under paragraph 4(1).
 
@@ -117,7 +117,7 @@ In this Part—
 
 (4) The Welsh Ministers may, before determining any application, require the applicant to provide any additional information.
 
-### 7. Determination of applications[^key-9b4efec8b3c87a2656ad1a9f9cbf1d14]
+### 7. Determination of applications[^c-9b4efec8b3c87a2656ad1a9f9cbf1d14]
 
 (1) As soon as reasonably practicable after the closing date, or after the supply of any additional information requested pursuant to paragraph 6(4), the Welsh Ministers must—
 
@@ -133,7 +133,7 @@ In this Part—
 - (a) the reasons for that rejection or approval subject to condition(s); and
 - (b) the right to apply for a review under paragraph 18.
 
-### 8. Payment of grant[^key-3749c4979b3ada207da4416b7e07780f]
+### 8. Payment of grant[^c-3749c4979b3ada207da4416b7e07780f]
 
 (1) The Welsh Ministers may make payment of a grant, or of any part of it, after the application has been approved under paragraph 7(1) and the Welsh Ministers are satisfied that—
 
@@ -146,7 +146,7 @@ In this Part—
 - (a) make payment of the grant to the applicant or direct to the approved supplier on behalf of the applicant; and
 - (b) make payment of the grant at such time, or by such instalments at such intervals or times, as the Welsh Ministers may determine.
 
-### 9. Amount of Grant[^key-40c82bd716958918cc2f25597bbe65bb]
+### 9. Amount of Grant[^c-40c82bd716958918cc2f25597bbe65bb]
 
 The amount of the grant—
 
@@ -155,7 +155,7 @@ The amount of the grant—
 
 ## PART 3 — Grant for Approved Software
 
-### 10. Interpretation of Part 3[^key-be34aad3abb3a4c6efa1d61cefb48511]
+### 10. Interpretation of Part 3[^c-be34aad3abb3a4c6efa1d61cefb48511]
 
 In this Part—
 
@@ -163,7 +163,7 @@ In this Part—
 - “approved software” (“*meddalwedd gymeradwy*”) means software specified in a list published by the Welsh Ministers under paragraph 11(1); and
 - “fishing activities data” (“*data gweithgareddau pysgota*”) means the logbook data, transhipment declaration data and landing declaration data required under the Control Regulation to be recorded and transmitted by electronic means.
 
-### 11. Approved software suppliers[^key-3db32e7a187bd68a3ec60beef3b5d0d0]
+### 11. Approved software suppliers[^c-3db32e7a187bd68a3ec60beef3b5d0d0]
 
 (1) The Welsh Ministers must publish a list specifying—
 
@@ -174,7 +174,7 @@ In this Part—
 
 (2) In this paragraph, “required format” (“*y ffurf ofynnol*”) means a format determined and published by the Welsh Ministers for the purposes of the Control Regulation.
 
-### 12. Invitation to apply for grant[^key-9db676fe9a9d8dad5b5f564a2bd4db92]
+### 12. Invitation to apply for grant[^c-9db676fe9a9d8dad5b5f564a2bd4db92]
 
 (1) The Welsh Ministers may from time to time publish an invitation for applications for a grant for approved software.
 
@@ -187,14 +187,14 @@ In this Part—
 - (e) the closing date for making an application; and
 - (f) any other information the Welsh Ministers consider relevant to an application.
 
-### 13. Eligibility for grant[^key-d18dd79cf3c3b9c6ac46b7c4ae3555fb]
+### 13. Eligibility for grant[^c-d18dd79cf3c3b9c6ac46b7c4ae3555fb]
 
 A person may apply to the Welsh Ministers for a grant for approved software, in accordance with the provisions of this Scheme, if the person—
 
 - (a) is the master, owner or charterer of an eligible Welsh fishing boat; and
 - (b) has purchased from an approved supplier, or has commissioned an approved supplier to supply, approved software for use on that boat.
 
-### 14. Applications[^key-23f06475b108d089604825e7def1819b]
+### 14. Applications[^c-23f06475b108d089604825e7def1819b]
 
 (1) An application for a grant must be made in writing to the Welsh Ministers in accordance with the requirements of the invitation made under paragraph 12(1).
 
@@ -207,7 +207,7 @@ A person may apply to the Welsh Ministers for a grant for approved software, in 
 
 (4) The Welsh Ministers may, before determining any application, require the applicant to provide additional information.
 
-### 15. Determination of applications[^key-1f1ef40b00aa456288f73812e1a65010]
+### 15. Determination of applications[^c-1f1ef40b00aa456288f73812e1a65010]
 
 (1) As soon as reasonably practicable after the closing date, or after the supply of any additional information requested pursuant to paragraph 14(4), the Welsh Ministers must—
 
@@ -223,7 +223,7 @@ A person may apply to the Welsh Ministers for a grant for approved software, in 
 - (a) the reasons for that rejection or approval subject to conditions; and
 - (b) the right to apply for a review under paragraph 18.
 
-### 16. Payment of grant[^key-dd4bd35fc5501cc6d60af7e312eff2cd]
+### 16. Payment of grant[^c-dd4bd35fc5501cc6d60af7e312eff2cd]
 
 (1) The Welsh Ministers may make payment of a grant, or of any part of it, after the application has been approved under paragraph 15(1) and the Welsh Ministers are satisfied that—
 
@@ -236,7 +236,7 @@ A person may apply to the Welsh Ministers for a grant for approved software, in 
 - (a) make payment of the grant to the applicant or direct to the approved supplier on behalf of the applicant; and
 - (b) make payment of the grant at such time, or by such instalments at such intervals or times, as the Welsh Ministers may determine.
 
-### 17. Amount of Grant[^key-119e71e555adf31265ac8196526110fc]
+### 17. Amount of Grant[^c-119e71e555adf31265ac8196526110fc]
 
 The amount of the grant—
 
@@ -245,7 +245,7 @@ The amount of the grant—
 
 ## PART 4 — Review of determination and reduction, withholding or recovery of Payments
 
-### 18. Review of Determination[^key-55443bceaa798f4f65fba5e47ac1aff5]
+### 18. Review of Determination[^c-55443bceaa798f4f65fba5e47ac1aff5]
 
 (1) Where the Welsh Ministers reject an application under paragraphs 7(1)(b) or (2) or under paragraphs 15(1)(b) or (2) or approve an application subject to any condition under paragraph 7(1)(a) or under paragraph 15(1)(a), the person who applied for grant may apply to the Welsh Ministers, in accordance with the provisions of this paragraph, for a review of that determination.
 
@@ -268,7 +268,7 @@ The amount of the grant—
 - (b) invite the applicant to provide such further information relevant to the review as they consider appropriate; and
 - (c) give the applicant an opportunity to give evidence and to make representations in person or through a representative.
 
-### 19. Revocation, withholding or recovery of grant[^key-41e19a706840e0b17608df055eedd41f]
+### 19. Revocation, withholding or recovery of grant[^c-41e19a706840e0b17608df055eedd41f]
 
 (1) If at any time after the Welsh Ministers have approved an application under paragraph 7(1) or under paragraph 15(1) it appears to them—
 
@@ -283,7 +283,7 @@ they may revoke the approval of such application or withhold the grant, or any p
 - (b) afford the applicant the opportunity of making written representations within such time as the Welsh Ministers consider reasonable; and
 - (c) consider any such representations.
 
-### 20. Interest[^key-2077830f96d76364bc54e9fb36998e75]
+### 20. Interest[^c-2077830f96d76364bc54e9fb36998e75]
 
 (1) Where the Welsh Ministers decide to recover on demand an amount in accordance with paragraph 19(1)(b) they may, in addition, recover interest on that amount at a rate of 1% above LIBOR calculated on a daily basis for the period beginning with the day following that on which the amount was paid and ending on the day on which the amount is recovered.
 
@@ -293,7 +293,7 @@ they may revoke the approval of such application or withhold the grant, or any p
 
 ## PART 5 — Revocations
 
-**21.**[^key-2216633321fac99e90c0b0806c9ae6e3] The following are revoked—
+**21.**[^c-2216633321fac99e90c0b0806c9ae6e3] The following are revoked—
 
 - (a) The Fishing Boats (Satellite-Tracking Devices)(Wales) Scheme 2006[^f00010]; and
 - (b) The Fishing Boats (Electronic Transmission of Fishing Activities Data)(Wales)Scheme 2010[^f00011].
@@ -326,11 +326,11 @@ Regulatory Impact Assessment has been undertaken in relation to this Scheme and 
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a) and the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), Part 1 of the Schedule. Paragraph 1A of Schedule 2 was inserted by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 28 and amended by the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3), Part 1 of the Schedule and the [Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (SI 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), article 3, paragraph 1 of Schedule 1.
 
-[^key-c2ce112f38ba9b4b11e3976a8ca5a1a1]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c2ce112f38ba9b4b11e3976a8ca5a1a1]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ea7af1d46f8f4d9ede14c0c45285c611]: Commencement: Para. 1 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-ea7af1d46f8f4d9ede14c0c45285c611]: Commencement: Para. 1 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-c9ae9682d7b24baede302cf8051a1228]: Commencement: Para. 2 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-c9ae9682d7b24baede302cf8051a1228]: Commencement: Para. 2 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
 [^f00004]: Footnote: OJ L 343, 22.12.2009.
 
@@ -342,45 +342,45 @@ Regulatory Impact Assessment has been undertaken in relation to this Scheme and 
 
 [^f00008]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5e10df18201268f1253488fc7876aae9]: Commencement: Para. 3 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-5e10df18201268f1253488fc7876aae9]: Commencement: Para. 3 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-224f29dde9747a4406489c4a3b3fbf10]: Commencement: Para. 4 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-224f29dde9747a4406489c4a3b3fbf10]: Commencement: Para. 4 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-a714a2428b620f5b9c2c79113b286e69]: Commencement: Para. 5 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-a714a2428b620f5b9c2c79113b286e69]: Commencement: Para. 5 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-3aee2829ad624ca42faf1c10543142b0]: Commencement: Para. 6 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-3aee2829ad624ca42faf1c10543142b0]: Commencement: Para. 6 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-9b4efec8b3c87a2656ad1a9f9cbf1d14]: Commencement: Para. 7 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-9b4efec8b3c87a2656ad1a9f9cbf1d14]: Commencement: Para. 7 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-3749c4979b3ada207da4416b7e07780f]: Commencement: Para. 8 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-3749c4979b3ada207da4416b7e07780f]: Commencement: Para. 8 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-40c82bd716958918cc2f25597bbe65bb]: Commencement: Para. 9 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-40c82bd716958918cc2f25597bbe65bb]: Commencement: Para. 9 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-be34aad3abb3a4c6efa1d61cefb48511]: Commencement: Para. 10 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-be34aad3abb3a4c6efa1d61cefb48511]: Commencement: Para. 10 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-3db32e7a187bd68a3ec60beef3b5d0d0]: Commencement: Para. 11 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-3db32e7a187bd68a3ec60beef3b5d0d0]: Commencement: Para. 11 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-9db676fe9a9d8dad5b5f564a2bd4db92]: Commencement: Para. 12 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-9db676fe9a9d8dad5b5f564a2bd4db92]: Commencement: Para. 12 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-d18dd79cf3c3b9c6ac46b7c4ae3555fb]: Commencement: Para. 13 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-d18dd79cf3c3b9c6ac46b7c4ae3555fb]: Commencement: Para. 13 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-23f06475b108d089604825e7def1819b]: Commencement: Para. 14 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-23f06475b108d089604825e7def1819b]: Commencement: Para. 14 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-1f1ef40b00aa456288f73812e1a65010]: Commencement: Para. 15 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-1f1ef40b00aa456288f73812e1a65010]: Commencement: Para. 15 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-dd4bd35fc5501cc6d60af7e312eff2cd]: Commencement: Para. 16 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-dd4bd35fc5501cc6d60af7e312eff2cd]: Commencement: Para. 16 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-119e71e555adf31265ac8196526110fc]: Commencement: Para. 17 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-119e71e555adf31265ac8196526110fc]: Commencement: Para. 17 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-55443bceaa798f4f65fba5e47ac1aff5]: Commencement: Para. 18 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-55443bceaa798f4f65fba5e47ac1aff5]: Commencement: Para. 18 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-41e19a706840e0b17608df055eedd41f]: Commencement: Para. 19 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-41e19a706840e0b17608df055eedd41f]: Commencement: Para. 19 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
 [^f00009]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-2077830f96d76364bc54e9fb36998e75]: Commencement: Para. 20 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-2077830f96d76364bc54e9fb36998e75]: Commencement: Para. 20 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
-[^key-2216633321fac99e90c0b0806c9ae6e3]: Commencement: Para. 21 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
+[^c-2216633321fac99e90c0b0806c9ae6e3]: Commencement: Para. 21 in force at 31.12.2012, see [para. 1(1)](https://www.legislation.gov.uk/wsi/2012/3172/paragraph/1/1)
 
 [^f00010]: Footnote: S.I. [2006/2799 (W.238)](https://www.legislation.gov.uk/wsi/2006/2799).
 

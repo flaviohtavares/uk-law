@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 256A. Interest and Administration Charges: Late paid contributions[^key-57aa57906b5d67f9b73575235d9ed3a6]
+## 256A. Interest and Administration Charges: Late paid contributions[^c-57aa57906b5d67f9b73575235d9ed3a6]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57aa57906b5d67f9b73575235d9ed3a6]: Textual amendment: [Reg. 256A](https://www.legislation.gov.uk/nisr/2008/256/regulation/256A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2015/121/regulation/41)
+[^c-57aa57906b5d67f9b73575235d9ed3a6]: Textual amendment: [Reg. 256A](https://www.legislation.gov.uk/nisr/2008/256/regulation/256A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2015/121/regulation/41)

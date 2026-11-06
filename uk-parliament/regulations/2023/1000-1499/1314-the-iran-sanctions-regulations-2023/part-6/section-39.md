@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Making goods of strategic concern and technology of strategic concern available[^key-ed0fd3f81a80c58f598853aa4103ef3c][^key-2d377f7cc1125c1aff3378f8b19a954c][^key-0fbf37b9e810328d2824bbbe64e4b9e5]
+## 39. Making goods of strategic concern and technology of strategic concern available[^c-ed0fd3f81a80c58f598853aa4103ef3c][^c-2d377f7cc1125c1aff3378f8b19a954c][^c-0fbf37b9e810328d2824bbbe64e4b9e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ed0fd3f81a80c58f598853aa4103ef3c]: Commencement: Reg. 39 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-ed0fd3f81a80c58f598853aa4103ef3c]: Commencement: Reg. 39 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-2d377f7cc1125c1aff3378f8b19a954c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2023/1314/regulation/39) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/c)
+[^c-2d377f7cc1125c1aff3378f8b19a954c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2023/1314/regulation/39) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/c)
 
-[^key-0fbf37b9e810328d2824bbbe64e4b9e5]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2023/1314/regulation/39) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/4/a)
+[^c-0fbf37b9e810328d2824bbbe64e4b9e5]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/2023/1314/regulation/39) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32A. Representations regarding clerical errors[^key-7fa76f3e21447446657ee91cfee54f5b][^key-704df22a40624e162c41fc117da94d44]
+## 32A. Representations regarding clerical errors[^c-7fa76f3e21447446657ee91cfee54f5b][^c-704df22a40624e162c41fc117da94d44]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa76f3e21447446657ee91cfee54f5b]: Modification: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/497/regulation/32A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/e)
+[^c-7fa76f3e21447446657ee91cfee54f5b]: Modification: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/497/regulation/32A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/e)
 
-[^key-704df22a40624e162c41fc117da94d44]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/497/regulation/32A) inserted (with effect in accordance with reg. 1(2)(3)(a) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2007/925/regulation/24/4)
+[^c-704df22a40624e162c41fc117da94d44]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2001/497/regulation/32A) inserted (with effect in accordance with reg. 1(2)(3)(a) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2007/925/regulation/24/4)

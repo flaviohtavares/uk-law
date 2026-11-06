@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Repeals[^key-57491c6c8648ddcd83e335f11a4e2979]
+## 4. Repeals[^c-57491c6c8648ddcd83e335f11a4e2979]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 1295 of, and Schedule 16 to, the Companies Act 2006 (repeals) come into 
 
 ## Annotations
 
-[^key-57491c6c8648ddcd83e335f11a4e2979]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-57491c6c8648ddcd83e335f11a4e2979]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)

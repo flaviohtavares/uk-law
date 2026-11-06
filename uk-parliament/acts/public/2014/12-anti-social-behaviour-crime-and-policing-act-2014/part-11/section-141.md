@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Financial arrangements etc for chief officers of police[^key-eac041eea25726457516af452e389b61]
+## 141. Financial arrangements etc for chief officers of police[^c-eac041eea25726457516af452e389b61]
 
 *Extent: E+W*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eac041eea25726457516af452e389b61]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2014/12/section/141) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)
+[^c-eac041eea25726457516af452e389b61]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2014/12/section/141) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)

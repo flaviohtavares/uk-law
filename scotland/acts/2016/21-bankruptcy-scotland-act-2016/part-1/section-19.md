@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Creditor's oath[^key-7096be46c6387a8d5aeb1eea8448e493]
+## 19. Creditor's oath[^c-7096be46c6387a8d5aeb1eea8448e493]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ may at any time before sequestration is awarded allow another oath to be produce
 
 ## Annotations
 
-[^key-7096be46c6387a8d5aeb1eea8448e493]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/21/section/19) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7096be46c6387a8d5aeb1eea8448e493]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/21/section/19) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

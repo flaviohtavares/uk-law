@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 34. Protection of UK marking[^M_E_ea0fd4b1-e8a6-4998-cf8f-3ba338a5972a][^key-1bb772c0dee734b054fe45c16432cd00]
+## 34. Protection of UK marking[^M_E_ea0fd4b1-e8a6-4998-cf8f-3ba338a5972a][^c-1bb772c0dee734b054fe45c16432cd00]
 
 *Extent: E+W+S*
 
-(1) A person must not affix a UK[^key-91b4b7dc580aa4710e47bf75dad9741e] marking in relation to EEE unless—
+(1) A person must not affix a UK[^c-91b4b7dc580aa4710e47bf75dad9741e] marking in relation to EEE unless—
 
 - (a) the person is—
   - (i) the manufacturer; or
@@ -60,8 +60,8 @@ summary: ''
 
 [^M_E_ea0fd4b1-e8a6-4998-cf8f-3ba338a5972a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1bb772c0dee734b054fe45c16432cd00]: Textual amendment: Word in reg. 34 heading substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(22)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/22) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1bb772c0dee734b054fe45c16432cd00]: Textual amendment: Word in reg. 34 heading substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(22)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/22) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91b4b7dc580aa4710e47bf75dad9741e]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2012/3032/regulation/34) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(22)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/22) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91b4b7dc580aa4710e47bf75dad9741e]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2012/3032/regulation/34) substituted (E.W.S.) (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(22)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/22) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_ae52ae5e-bba9-43dd-bcc1-4c35139bb0cf]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

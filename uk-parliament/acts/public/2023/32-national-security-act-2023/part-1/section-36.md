@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Offences committed outside the United Kingdom[^key-067e7bff588c8843484eef1d4a210ced][^key-5f5a99daffb43d37ed65c3b4e88c194d]
+## 36. Offences committed outside the United Kingdom[^c-067e7bff588c8843484eef1d4a210ced][^c-5f5a99daffb43d37ed65c3b4e88c194d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-067e7bff588c8843484eef1d4a210ced]: Commencement: S. 36 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-067e7bff588c8843484eef1d4a210ced]: Commencement: S. 36 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-5f5a99daffb43d37ed65c3b4e88c194d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/32/section/36) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5f5a99daffb43d37ed65c3b4e88c194d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/32/section/36) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

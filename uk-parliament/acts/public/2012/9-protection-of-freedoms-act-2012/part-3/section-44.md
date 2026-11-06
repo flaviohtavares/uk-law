@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Procedural and supplementary provisions[^key-dd857eb44142b43511cc648ae357e4a6]
+## 44. Procedural and supplementary provisions[^c-dd857eb44142b43511cc648ae357e4a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd857eb44142b43511cc648ae357e4a6]: Commencement: S. 44 in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(n)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/n)
+[^c-dd857eb44142b43511cc648ae357e4a6]: Commencement: S. 44 in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(n)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/n)

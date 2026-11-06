@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Disregard of certain interests and improvements[^key-c7211d5482923e0426fd7bfa543bb9c7]
+## 29. Disregard of certain interests and improvements[^c-c7211d5482923e0426fd7bfa543bb9c7]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-c7211d5482923e0426fd7bfa543bb9c7]: Commencement: Art. 29 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-c7211d5482923e0426fd7bfa543bb9c7]: Commencement: Art. 29 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

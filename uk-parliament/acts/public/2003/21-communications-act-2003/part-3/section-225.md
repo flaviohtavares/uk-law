@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Application for review of financial terms of replacement licences[^key-2565a881cff03044d186828cfb6f84a6]
+## 225. Application for review of financial terms of replacement licences[^c-2565a881cff03044d186828cfb6f84a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) begins four years before the first notional expiry date; and
 - (b) ends with the day before the day that OFCOM have determined to be the one by which they would need to publish a tender notice if they were proposing to grant a fresh licence to take effect from the first notional expiry date.
 
-(3) For the purposes of this section a subsequent review period in the case of a replacement licence is so much (if any) of the following period as falls before the end of the initial expiry date for that type of licence[^key-cb2d388e74d4781d0e7f64c5ac35503e] , namely, the period which—
+(3) For the purposes of this section a subsequent review period in the case of a replacement licence is so much (if any) of the following period as falls before the end of the initial expiry date for that type of licence[^c-cb2d388e74d4781d0e7f64c5ac35503e] , namely, the period which—
 
 - (a) begins four years before a subsequent notional expiry date; and
 - (b) ends with the day before the day that OFCOM have determined to be the one by which they would need to publish a tender notice if they were proposing to grant a fresh licence to take effect from that notional expiry date.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2565a881cff03044d186828cfb6f84a6]: Commencement: S. 225 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2565a881cff03044d186828cfb6f84a6]: Commencement: S. 225 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cb2d388e74d4781d0e7f64c5ac35503e]: Textual amendment: Words in s. 225(3) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-cb2d388e74d4781d0e7f64c5ac35503e]: Textual amendment: Words in s. 225(3) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 26(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/26/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

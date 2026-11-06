@@ -32,7 +32,7 @@ summary: ''
 
 Social Care
 
-The Social Care Staff Support Fund (Coronavirus) (Scotland) Regulations 2020 (revoked)[^key-107f1b2a50b63d4d58f8578a3a82170b]
+The Social Care Staff Support Fund (Coronavirus) (Scotland) Regulations 2020 (revoked)[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 Approved by the Scottish Parliament
 
@@ -46,52 +46,52 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 1. Citation, commencement and interpretation[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment, maintenance and administration of the Fund[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 2. Establishment, maintenance and administration of the Fund[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Eligibility criteria to receive financial assistance deriving from the Fund[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 3. Eligibility criteria to receive financial assistance deriving from the Fund[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirements for claim on the Fund by relevant social care workers[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 4. Requirements for claim on the Fund by relevant social care workers[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amount of financial assistance to be paid from the Fund[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 5. Amount of financial assistance to be paid from the Fund[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reimbursement of employers of payments to relevant social care workers[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## 6. Reimbursement of employers of payments to relevant social care workers[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Conditions or treatments relevant for the purposes of regulation 3(6)[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## SCHEDULE 1 — Conditions or treatments relevant for the purposes of regulation 3(6)[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 Regulation 3(6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Conditions or statuses relevant for the purposes of regulation 3(7)[^key-107f1b2a50b63d4d58f8578a3a82170b]
+## SCHEDULE 2 — Conditions or statuses relevant for the purposes of regulation 3(7)[^c-107f1b2a50b63d4d58f8578a3a82170b]
 
 Regulation 3(7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-107f1b2a50b63d4d58f8578a3a82170b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-107f1b2a50b63d4d58f8578a3a82170b]: Textual amendment: Regulations cease to have effect (1.4.2023) by [The Coronavirus (Scotland) Acts (Saving Provision) Regulations 2022 (S.S.I. 2022/261)](https://www.legislation.gov.uk/ssi/2022/261), [reg. 17(1)(b)(2)](https://www.legislation.gov.uk/ssi/2022/261/regulation/17/1/b)
+[^c-107f1b2a50b63d4d58f8578a3a82170b]: Textual amendment: Regulations cease to have effect (1.4.2023) by [The Coronavirus (Scotland) Acts (Saving Provision) Regulations 2022 (S.S.I. 2022/261)](https://www.legislation.gov.uk/ssi/2022/261), [reg. 17(1)(b)(2)](https://www.legislation.gov.uk/ssi/2022/261/regulation/17/1/b)

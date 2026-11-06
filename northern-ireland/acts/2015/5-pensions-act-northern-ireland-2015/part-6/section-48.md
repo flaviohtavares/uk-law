@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Pension Protection Fund: increased compensation cap for long service[^key-47de6fef4c4d534c295e6d7714b5264e][^key-cf280044418865717ead2d68f50e433d]
+## 48. Pension Protection Fund: increased compensation cap for long service[^c-47de6fef4c4d534c295e6d7714b5264e][^c-cf280044418865717ead2d68f50e433d]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ See Schedule 20 for amendments increasing the Pension Protection Fund compensati
 
 ## Annotations
 
-[^key-47de6fef4c4d534c295e6d7714b5264e]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/5/section/48) in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(a)](https://www.legislation.gov.uk/nisr/2017/44/article/5/a)
+[^c-47de6fef4c4d534c295e6d7714b5264e]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/5/section/48) in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(a)](https://www.legislation.gov.uk/nisr/2017/44/article/5/a)
 
-[^key-cf280044418865717ead2d68f50e433d]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/5/section/48) in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
+[^c-cf280044418865717ead2d68f50e433d]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2015/5/section/48) in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26E. Pension compensation sharing orders: duty to stay[^key-e114e6a9c14e900cf11f1dd2403894e1]
+## 26E. Pension compensation sharing orders: duty to stay[^c-e114e6a9c14e900cf11f1dd2403894e1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e114e6a9c14e900cf11f1dd2403894e1]: Textual amendment: Arts. 26D-26F inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)) (as amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 173](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/173) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-e114e6a9c14e900cf11f1dd2403894e1]: Textual amendment: Arts. 26D-26F inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)) (as amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 173](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/173) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)

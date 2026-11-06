@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287A. Restriction where debits or credits relate to decommissioning security settlement[^key-777ca30bd3181700774fb9e98ada51d7]
+## 287A. Restriction where debits or credits relate to decommissioning security settlement[^c-777ca30bd3181700774fb9e98ada51d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-777ca30bd3181700774fb9e98ada51d7]: Textual amendment: S. 287A inserted (with effect in accordance with s. 87(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/87/1)
+[^c-777ca30bd3181700774fb9e98ada51d7]: Textual amendment: S. 287A inserted (with effect in accordance with s. 87(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/87/1)

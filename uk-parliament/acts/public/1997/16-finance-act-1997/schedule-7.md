@@ -145,11 +145,11 @@ then, in considering whether there has been a major change in the ownership of t
 
 ### Amendment of section 95 of the Taxes Act 1988
 
-**8.** (1)[^key-8555b6fa05d9423940d65144b0f46994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.** (1)[^c-8555b6fa05d9423940d65144b0f46994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In that Act—
 
-- (a)[^key-9ba90704b687bf92caef814934bd888c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9ba90704b687bf92caef814934bd888c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in section 234(1) (information relating to distributions), for “95(1)(c)” there shall be substituted “ 95(1A)(c) ”.
 
 (3) This paragraph has effect in relation to distributions made on or after 26th November 1996.
@@ -195,11 +195,11 @@ then, in considering whether there has been a major change in the ownership of t
 
 ### Amendments consequential on paragraph 3 above
 
-**12.** (1) In section 686 of that Act (application of rate applicable to trusts to income of certain discretionary trusts), paragraph (d) of subsection (2) shall be omitted; [^key-d6d5d0b55abe03807a9dc727562209cf]...
+**12.** (1) In section 686 of that Act (application of rate applicable to trusts to income of certain discretionary trusts), paragraph (d) of subsection (2) shall be omitted; [^c-d6d5d0b55abe03807a9dc727562209cf]...
 
-(2)[^key-77f6e0a38c6cc04c113bc3d76585ac37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-77f6e0a38c6cc04c113bc3d76585ac37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8cf0f25bc6f4f5df9211c5e586485b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8cf0f25bc6f4f5df9211c5e586485b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This paragraph has effect for the year 1997-98 and subsequent years of assessment and shall be deemed to have had effect for the year 1996-97.
 
@@ -233,9 +233,9 @@ then, in considering whether there has been a major change in the ownership of t
 
 [^c14710091]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/1997/16/schedule/7/paragraph/7) repealed (31.7.1997 with effect in relation to payments which are representative of distributions made on or after 6.4.1999) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(12)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/12) Note 2 (with s. 3(3))
 
-[^key-8555b6fa05d9423940d65144b0f46994]: Textual amendment: [Sch. 7 para. 8(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/7/paragraph/8/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8555b6fa05d9423940d65144b0f46994]: Textual amendment: [Sch. 7 para. 8(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/7/paragraph/8/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-9ba90704b687bf92caef814934bd888c]: Textual amendment: Sch. 7 para. 8(2)(a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-9ba90704b687bf92caef814934bd888c]: Textual amendment: Sch. 7 para. 8(2)(a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14710101]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/1997/16/schedule/7/paragraph/9) repealed (31.7.1997 with effect in accordance with s. 36 and [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6) of the amending Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(11)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/11) Note (with s. 3(3))
 
@@ -245,8 +245,8 @@ then, in considering whether there has been a major change in the ownership of t
 
 [^c14710141]: Textual amendment: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/1997/16/schedule/7/paragraph/11) repealed (31.7.1997 with effect in accordance with s. 36 and [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6) of the amending Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(11)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/11) Note (with s. 3(3))
 
-[^key-d6d5d0b55abe03807a9dc727562209cf]: Textual amendment: Words in Sch. 7 para. 12(1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d6d5d0b55abe03807a9dc727562209cf]: Textual amendment: Words in Sch. 7 para. 12(1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-77f6e0a38c6cc04c113bc3d76585ac37]: Textual amendment: Sch. 7 para. 12(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-77f6e0a38c6cc04c113bc3d76585ac37]: Textual amendment: Sch. 7 para. 12(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8cf0f25bc6f4f5df9211c5e586485b98]: Textual amendment: Sch. 7 para. 12(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-8cf0f25bc6f4f5df9211c5e586485b98]: Textual amendment: Sch. 7 para. 12(3) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

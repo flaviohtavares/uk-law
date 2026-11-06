@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 14. Alterations to lists: matters not to be taken into account in valuation[^key-a9e36512a9bcfbd91545eedd7c2acb30]
+## 14. Alterations to lists: matters not to be taken into account in valuation[^c-a9e36512a9bcfbd91545eedd7c2acb30]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9e36512a9bcfbd91545eedd7c2acb30]: Commencement: S. 14 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-a9e36512a9bcfbd91545eedd7c2acb30]: Commencement: S. 14 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

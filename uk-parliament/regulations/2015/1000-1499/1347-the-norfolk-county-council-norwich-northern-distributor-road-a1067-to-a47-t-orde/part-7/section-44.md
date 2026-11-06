@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Prohibition of entry, prohibition of motor vehicles, weight restrictions and speed limits[^key-17289bfd2bb10c401cc491a965680479]
+## 44. Prohibition of entry, prohibition of motor vehicles, weight restrictions and speed limits[^c-17289bfd2bb10c401cc491a965680479]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17289bfd2bb10c401cc491a965680479]: Commencement: Art. 44 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-17289bfd2bb10c401cc491a965680479]: Commencement: Art. 44 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
 [^f00032]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).

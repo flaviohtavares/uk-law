@@ -37,7 +37,7 @@ Made
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred by Article 1 (3) and 48 (2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 [^f00001], hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-3a9a3d8650601d9842aee8b4e1ee7e98]
+## 1. Citation and interpretation[^c-3a9a3d8650601d9842aee8b4e1ee7e98]
 
 (1) This Order may be cited as the Health and Personal Social Services (Quality, Improvement and Regulation) (2003 Order) (Commencement No.4 and Transitional Provisions) Order (Northern Ireland) 2007.
 
@@ -45,11 +45,11 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 - “the 2003 order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
 
-## 2. Appointed day[^key-671ebd22756acce2c7d063623b6a4c3c]
+## 2. Appointed day[^c-671ebd22756acce2c7d063623b6a4c3c]
 
 Subject to Article 3, 30<sup>th</sup> April 2007 is the appointed day for the coming into operation of the provisions of the 2003 Order as described in the Schedule, in so far as they are not already in operation.
 
-## 3. Transitional Provisions[^key-8ac675734071d649ecfaf64be237caed]
+## 3. Transitional Provisions[^c-8ac675734071d649ecfaf64be237caed]
 
 (1) This Article applies to persons who, by virtue of the provisions of the 2003 Order are required to be registered under Part III of that Order but who immediately prior to 30<sup>th</sup> April 2007 were not required to be so registered.
 
@@ -70,7 +70,7 @@ A senior officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE — Provisions of the Order Coming into Operation on 30<sup>th</sup> April 2007[^key-e169d4da59e06c1c21191734ea349866]
+## SCHEDULE — Provisions of the Order Coming into Operation on 30<sup>th</sup> April 2007[^c-e169d4da59e06c1c21191734ea349866]
 
 <table>
 <thead>
@@ -129,10 +129,10 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [S.I 2003/431 (N.I..9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-3a9a3d8650601d9842aee8b4e1ee7e98]: Commencement: Art. 1 in operation at made date
+[^c-3a9a3d8650601d9842aee8b4e1ee7e98]: Commencement: Art. 1 in operation at made date
 
-[^key-671ebd22756acce2c7d063623b6a4c3c]: Commencement: Art. 2 in operation at made date
+[^c-671ebd22756acce2c7d063623b6a4c3c]: Commencement: Art. 2 in operation at made date
 
-[^key-8ac675734071d649ecfaf64be237caed]: Commencement: Art. 3 in operation at made date
+[^c-8ac675734071d649ecfaf64be237caed]: Commencement: Art. 3 in operation at made date
 
-[^key-e169d4da59e06c1c21191734ea349866]: Commencement: Sch. in operation at made date
+[^c-e169d4da59e06c1c21191734ea349866]: Commencement: Sch. in operation at made date

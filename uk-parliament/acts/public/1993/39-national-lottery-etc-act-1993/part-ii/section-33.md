@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Accounts of the Secretary of State and National Debt Commissioners.[^key-d609f43c75b9cf9300f11b6f68f85a6a][^key-82cb4c5510971ea76b999b785c17d2c7]
+## 33. Accounts of the Secretary of State and National Debt Commissioners.[^c-d609f43c75b9cf9300f11b6f68f85a6a][^c-82cb4c5510971ea76b999b785c17d2c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,9 +60,9 @@ and any breach of that duty shall be actionable at the suit of the Comptroller a
 
 ## Annotations
 
-[^key-d609f43c75b9cf9300f11b6f68f85a6a]: Modification: S. 33 applied (with modifications) (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(11)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/11), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-d609f43c75b9cf9300f11b6f68f85a6a]: Modification: S. 33 applied (with modifications) (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(11)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/11), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-82cb4c5510971ea76b999b785c17d2c7]: Modification: S. 33 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-82cb4c5510971ea76b999b785c17d2c7]: Modification: S. 33 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/iii) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
 
 [^c1528679]: Textual amendment: S. 33(4)-(10) inserted (2.9.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [ss. 5(2)(3)](https://www.legislation.gov.uk/ukpga/1998/22/section/5/2/3), [27(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/5).
 

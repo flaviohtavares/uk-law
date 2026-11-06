@@ -53,29 +53,29 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 *Extent: E+W*
 
-### 1. Citation and commencement[^key-0180019975451b9ab65578743a1885c1]
+### 1. Citation and commencement[^c-0180019975451b9ab65578743a1885c1]
 
 (1) These Regulations may be cited as the Common Agricultural Policy (Amendment) (No. 2) Regulations 2015.
 
 (2) These Regulations come into force on 1st January 2016, except for regulation 14(4)(a), which comes into force on 1st January 2017.
 
-## PART 2 — The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-ed12521d7488fc1cf817fdd7330d762a]
+## PART 2 — The Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-ed12521d7488fc1cf817fdd7330d762a]
 
 *Extent: E+W*
 
-### 2. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-ed12521d7488fc1cf817fdd7330d762a]
+### 2. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-ed12521d7488fc1cf817fdd7330d762a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 10 (active farmer)[^key-ed12521d7488fc1cf817fdd7330d762a]
+### 3. Amendment of regulation 10 (active farmer)[^c-ed12521d7488fc1cf817fdd7330d762a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the Schedule (Ecological focus areas)[^key-ed12521d7488fc1cf817fdd7330d762a]
+### 4. Amendment of the Schedule (Ecological focus areas)[^c-ed12521d7488fc1cf817fdd7330d762a]
 
 **No longer in force.**
 
@@ -85,11 +85,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 *Extent: E+W*
 
-### 5. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-753eb49982208c4e33ad65ef9978a6d5]
+### 5. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-753eb49982208c4e33ad65ef9978a6d5]
 
 The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^f00007] are amended as follows.
 
-### 6. Amendment of regulation 2 (interpretation)[^key-9f0ab6557b87905a752eedc2bf632138]
+### 6. Amendment of regulation 2 (interpretation)[^c-9f0ab6557b87905a752eedc2bf632138]
 
 In regulation 2 (interpretation)—
 
@@ -105,7 +105,7 @@ In regulation 2 (interpretation)—
 
   .
 
-### 7. Amendment of regulation 9 (set-off)[^key-3b4c3adba4748dc3427933a513fe8370]
+### 7. Amendment of regulation 9 (set-off)[^c-3b4c3adba4748dc3427933a513fe8370]
 
 In regulation 9 (set-off)—
 
@@ -143,19 +143,19 @@ In regulation 9 (set-off)—
 
   .
 
-### 8. Amendment of regulation 10 (powers of entry)[^key-e5b5e89fcafc688bfc21138ddc20828d]
+### 8. Amendment of regulation 10 (powers of entry)[^c-e5b5e89fcafc688bfc21138ddc20828d]
 
 In regulation 10(1) (powers of entry), after “the purpose of enforcing” insert “these regulations or”.
 
-### 9. Amendment of regulation 14 (breaches of commitments)[^key-c000f4077ed9a94583207e2b0061c8e7]
+### 9. Amendment of regulation 14 (breaches of commitments)[^c-c000f4077ed9a94583207e2b0061c8e7]
 
 In regulation 14(1)(c) (breaches of commitments), omit paragraphs (i) to (iv).
 
-### 10. Amendment of regulation 15 (powers of recovery in relation to rural development payments)[^key-5e19ad9ea6c8f361b5c02cbfbbb52d49]
+### 10. Amendment of regulation 15 (powers of recovery in relation to rural development payments)[^c-5e19ad9ea6c8f361b5c02cbfbbb52d49]
 
 In regulation 15(1) (powers of recovery etc in relation to rural development payments), for “accountable body” substitute “delivery body”.
 
-### 11. Amendment of regulation 20 (interpretation)[^key-500f8e1da8f2486a8969908f6ad5627d]
+### 11. Amendment of regulation 20 (interpretation)[^c-500f8e1da8f2486a8969908f6ad5627d]
 
 *Extent: E+W+S+N.I.*
 
@@ -164,17 +164,17 @@ In regulation 20 (interpretation), in the definition of “specified commodity�
 - (a) for “Council Regulation [(EC) 1216/2009](https://www.legislation.gov.uk/european/regulation/2009/1216) laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products[^f00016]” substitute “Regulation (EU) No 510/2014 of the European Parliament and of the Council of 16 April 2014 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products[^f00017]”;
 - (b) for “Annexes B and C to Commission Regulation [(EC) 1222/94](https://www.legislation.gov.uk/european/regulation/1994/1222) laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products etc[^f00018]” substitute “Annexes II and III of Commission Regulation (EU) No 578/2010 of 29 June 2010 on the implementation of Council Regulation [(EC) No 1216/2009](https://www.legislation.gov.uk/european/regulation/2009/1216) as regards the system of granting export refunds for certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds[^f00019],”.
 
-### 12. Amendment of regulation 21 (powers of entry) and regulation 28 (defence of due diligence)[^key-e06aea0c4b780f6424ce6efebde69b62]
+### 12. Amendment of regulation 21 (powers of entry) and regulation 28 (defence of due diligence)[^c-e06aea0c4b780f6424ce6efebde69b62]
 
 *Extent: E+W+S+N.I.*
 
 In regulation 21(1)(b) (powers of entry) and regulation 28 (defence of due diligence) omit “(4)”.
 
-### 13. Amendment of Schedule 1[^key-7c6444263246930060bd1ba99b474b41]
+### 13. Amendment of Schedule 1[^c-7c6444263246930060bd1ba99b474b41]
 
 Schedule 1 (the SCMO Regulations) is amended as set out in the Schedule to these Regulations.
 
-### 14. Amendment of Schedule 2[^key-53d29fa450233a67263b67b35f83c3a6]
+### 14. Amendment of Schedule 2[^c-53d29fa450233a67263b67b35f83c3a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,7 +182,7 @@ Schedule 1 (the SCMO Regulations) is amended as set out in the Schedule to these
 
 *Extent: E+W*
 
-### 15. Amendment of the Rural Development Enforcement (England) Regulations 2007[^key-796a35c33cadbe5243ca3d8acb95128a]
+### 15. Amendment of the Rural Development Enforcement (England) Regulations 2007[^c-796a35c33cadbe5243ca3d8acb95128a]
 
 (1) The Rural Development Enforcement (England) Regulations 2007 are amended as follows.
 
@@ -210,7 +210,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 13
 
-**1.**[^key-214ebee697c5ee998421ec519a85a28b] (1) Schedule 1 of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 is amended as follows.
+**1.**[^c-214ebee697c5ee998421ec519a85a28b] (1) Schedule 1 of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 is amended as follows.
 
 (2) Omit the following entries—
 
@@ -400,21 +400,21 @@ Part 4 amends the Rural Development Enforcement (England) Regulations 2007 so th
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and amended by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-0180019975451b9ab65578743a1885c1]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-0180019975451b9ab65578743a1885c1]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-ed12521d7488fc1cf817fdd7330d762a]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2015/1997/part/2) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-ed12521d7488fc1cf817fdd7330d762a]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2015/1997/part/2) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
 
-[^key-753eb49982208c4e33ad65ef9978a6d5]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-753eb49982208c4e33ad65ef9978a6d5]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), amended by [S.I. 2015/1325](https://www.legislation.gov.uk/uksi/2015/1325).
 
-[^key-9f0ab6557b87905a752eedc2bf632138]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-9f0ab6557b87905a752eedc2bf632138]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00008]: Footnote: Regulation (EU) No 1305/2013 of the European Parliament and of the Council (OJ L 347 20.12.2013, p. 487), last amended by Commission Delegated Regulation (EU) 2015/791 (OJ L 127, 22.5.2015, p. 1).
 
 [^f00009]: Footnote: Regulation (EU) No 1303/2013 of the European Parliament and of the Council (OJ L 347 20.12.2013, p. 320), to which there is an amendment that is not relevant to this instrument.
 
-[^key-3b4c3adba4748dc3427933a513fe8370]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-3b4c3adba4748dc3427933a513fe8370]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2007/75](https://www.legislation.gov.uk/uksi/2007/75), revoked with savings by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
 
@@ -428,13 +428,13 @@ Part 4 amends the Rural Development Enforcement (England) Regulations 2007 so th
 
 [^f00015]: Footnote: [S.I. 2009/3263](https://www.legislation.gov.uk/uksi/2009/3263), revoked by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
 
-[^key-e5b5e89fcafc688bfc21138ddc20828d]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-e5b5e89fcafc688bfc21138ddc20828d]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-c000f4077ed9a94583207e2b0061c8e7]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-c000f4077ed9a94583207e2b0061c8e7]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-5e19ad9ea6c8f361b5c02cbfbbb52d49]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-5e19ad9ea6c8f361b5c02cbfbbb52d49]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-500f8e1da8f2486a8969908f6ad5627d]: Commencement: Reg. 11 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-500f8e1da8f2486a8969908f6ad5627d]: Commencement: Reg. 11 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00016]: Footnote: OJ No. L 328, 15.12.2009, p.10.
 
@@ -444,19 +444,19 @@ Part 4 amends the Rural Development Enforcement (England) Regulations 2007 so th
 
 [^f00019]: Footnote: OJ No. L 171, 6.7.2010, p.1 as last amended by Commission Implementing Regulation (EU) No 599/2013 (OJ No. L 172, 24.6.2013, 11).
 
-[^key-e06aea0c4b780f6424ce6efebde69b62]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-e06aea0c4b780f6424ce6efebde69b62]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-7c6444263246930060bd1ba99b474b41]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-7c6444263246930060bd1ba99b474b41]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
-[^key-53d29fa450233a67263b67b35f83c3a6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1997/regulation/14) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-53d29fa450233a67263b67b35f83c3a6]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1997/regulation/14) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-796a35c33cadbe5243ca3d8acb95128a]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-796a35c33cadbe5243ca3d8acb95128a]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00023]: Footnote: OJ No. L 25, 28.1.2011, p.8, as repealed with savings by Commission Delegated Regulation (EU) No 640/2014 (OJ L 181, 20.6.2014, p. 48).
 
 [^f00024]: Footnote: OJ L 368, 23.12.2006, p. 74, as repealed with savings by Commission Regulation (EU) No 65/2011 (OJ L 25, 28.1.2011, p. 8).
 
-[^key-214ebee697c5ee998421ec519a85a28b]: Commencement: Sch. para. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
+[^c-214ebee697c5ee998421ec519a85a28b]: Commencement: Sch. para. 1 in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1997/regulation/1/2)
 
 [^f00025]: Footnote: OJ No. L 12, 15.1.1972, p. 15, as last amended by [Commission Regulation (EC) No. 260/96](https://www.legislation.gov.uk/european/regulation/1996/0260) (OJ No. L 34, 13.2.1996, p. 16).
 

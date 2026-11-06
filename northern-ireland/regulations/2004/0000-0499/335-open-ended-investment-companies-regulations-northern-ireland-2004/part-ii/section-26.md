@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Applications to the court[^key-127cf3ebe1f026d0d8d3a45b5e98e33c]
+## 26. Applications to the court[^c-127cf3ebe1f026d0d8d3a45b5e98e33c]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127cf3ebe1f026d0d8d3a45b5e98e33c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2004/335/regulation/26) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-127cf3ebe1f026d0d8d3a45b5e98e33c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2004/335/regulation/26) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — BYELAWS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+## SCHEDULE 8 — BYELAWS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -24,66 +24,66 @@ summary: ''
 
 Article 44
 
-### PART 1 — PRELIMINARY[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 1 — PRELIMINARY[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
-**1.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Interpretation[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — CONDUCT AND BEHAVIOUR[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-#### 3. Smoking etc.[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 2. Interpretation[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Unacceptable behaviour[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 2 — CONDUCT AND BEHAVIOUR[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+#### 3. Smoking etc.[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — EQUIPMENT AND SAFETY[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-#### 5. General safety[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 4. Unacceptable behaviour[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — ACCESS AND TRAFFIC[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 3 — EQUIPMENT AND SAFETY[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
-#### 6. Unauthorised access and loitering[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 7. Traffic regulation[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 5. General safety[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Dangerous goods[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 4 — ACCESS AND TRAFFIC[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+#### 6. Unauthorised access and loitering[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — ENFORCEMENT, ETC.[^key-ba60b02d70f93ffc3c65fe727c1611a8]
-
-#### 9. Name and address[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 7. Traffic regulation[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Compliance with instructions and notices, etc.[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 8. Dangerous goods[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Identification of authorised persons[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### PART 5 — ENFORCEMENT, ETC.[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+#### 9. Name and address[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Breaches by authorised persons[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 10. Compliance with instructions and notices, etc.[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Attempted breach[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+#### 11. Identification of authorised persons[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Breaches by authorised persons[^c-ba60b02d70f93ffc3c65fe727c1611a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Attempted breach[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

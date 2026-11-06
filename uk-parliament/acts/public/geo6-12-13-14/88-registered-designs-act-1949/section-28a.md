@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Opinions on designs[^key-fb2f0cd375c057d9ccdae07a2e7d0c7f]
+## 28A. Opinions on designs[^c-fb2f0cd375c057d9ccdae07a2e7d0c7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb2f0cd375c057d9ccdae07a2e7d0c7f]: Textual amendment: S. 28A and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-fb2f0cd375c057d9ccdae07a2e7d0c7f]: Textual amendment: S. 28A and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

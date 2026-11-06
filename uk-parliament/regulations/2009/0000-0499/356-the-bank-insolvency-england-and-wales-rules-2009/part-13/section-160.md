@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Costs not to fall on bank liquidator[^key-89c99ea51e0bd91f9a25e0ae597bdcd7]
+## 160. Costs not to fall on bank liquidator[^c-89c99ea51e0bd91f9a25e0ae597bdcd7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The bank liquidator is not personally liable for any costs incurred by a person 
 
 ## Annotations
 
-[^key-89c99ea51e0bd91f9a25e0ae597bdcd7]: Commencement: Rule 160 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-89c99ea51e0bd91f9a25e0ae597bdcd7]: Commencement: Rule 160 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

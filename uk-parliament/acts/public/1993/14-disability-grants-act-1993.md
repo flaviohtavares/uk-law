@@ -41,7 +41,7 @@ An Act to provide for the making of grants by the Secretary of State and the Dep
 
 - (a) the Independent Living (Extension) Fund established by a deed dated 25th February 1993 and made between the Secretary of State for Social Security of the one part and Robin Glover Wendt and John Fletcher Shepherd of the other part,
 - (b) the Independent Living (1993) Fund established by a deed of the same date made between the same parties, and
-- (c) Motability (a body corporate constituted by Royal Charter) , and[^key-08c118c90f9777c76d2b24abf98205a8]
+- (c) Motability (a body corporate constituted by Royal Charter) , and[^c-08c118c90f9777c76d2b24abf98205a8]
 - (d) the Independent Living Fund (2006) established by a deed dated 10th April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part.
 
 for such purposes as the Secretary of State may determine.
@@ -52,7 +52,7 @@ for such purposes as the Secretary of State may determine.
 
 (4) This section shall have effect in its application to Northern Ireland with the following modifications—
 
-- (a) for references to the Secretary of State (other than the reference in subsection (1)(a) to the Secretary of State for Social Security and the reference in subsection (1)(d) to the Secretary of State for Work and Pensions[^key-1cc51d13dff653b2e2d788fc63822ece]) there shall be substituted references to the Department of Health and Social Services for Northern Ireland,
+- (a) for references to the Secretary of State (other than the reference in subsection (1)(a) to the Secretary of State for Social Security and the reference in subsection (1)(d) to the Secretary of State for Work and Pensions[^c-1cc51d13dff653b2e2d788fc63822ece]) there shall be substituted references to the Department of Health and Social Services for Northern Ireland,
 - (b) in subsection (2), for the reference to the Treasury there shall be substituted a reference to the Department of Finance and Personnel in Northern Ireland, and
 - (c) in subsection (3), for the reference to money provided by Parliament there shall be substituted a reference to money appropriated by Measure of the Northern Ireland Assembly.
 
@@ -70,6 +70,6 @@ for such purposes as the Secretary of State may determine.
 
 [^c860826]: Modification: Act: power to amend conferred (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 87](https://www.legislation.gov.uk/ukpga/1998/47/section/87),(with s. 95); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-08c118c90f9777c76d2b24abf98205a8]: Textual amendment: S. 1(1)(d) and preceding word inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 61(1)(b)](https://www.legislation.gov.uk/ukpga/2007/5/section/61/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
+[^c-08c118c90f9777c76d2b24abf98205a8]: Textual amendment: S. 1(1)(d) and preceding word inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 61(1)(b)](https://www.legislation.gov.uk/ukpga/2007/5/section/61/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
 
-[^key-1cc51d13dff653b2e2d788fc63822ece]: Textual amendment: Words in s. 1(4)(a) inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/61/2), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
+[^c-1cc51d13dff653b2e2d788fc63822ece]: Textual amendment: Words in s. 1(4)(a) inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/61/2), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)

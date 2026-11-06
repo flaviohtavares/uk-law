@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Review of EU legislation during implementation period[^key-4d1d9436c938b12ad6a7d6c9b95c0b59]
+## 13A. Review of EU legislation during implementation period[^c-4d1d9436c938b12ad6a7d6c9b95c0b59]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1d9436c938b12ad6a7d6c9b95c0b59]: Textual amendment: S. 13A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 29](https://www.legislation.gov.uk/ukpga/2020/1/section/29), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-4d1d9436c938b12ad6a7d6c9b95c0b59]: Textual amendment: S. 13A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 29](https://www.legislation.gov.uk/ukpga/2020/1/section/29), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

@@ -34,8 +34,8 @@ In the 1980 Act [^c22302741]—
 
     ; and
   - (iii) repeal subsection (4);
-- (b)[^key-343d1328e66a62a0a921bfa5fdb0510f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-343d1328e66a62a0a921bfa5fdb0510f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-343d1328e66a62a0a921bfa5fdb0510f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-343d1328e66a62a0a921bfa5fdb0510f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) for section 76FB(1)—
   - (i) the words from “have” to the end become paragraph (a); and
   - (ii) after that paragraph, insert—
@@ -65,6 +65,6 @@ In the 1980 Act [^c22302741]—
 
 [^c22302741]: Marginal citation: [1980 c.45](https://www.legislation.gov.uk/ukpga/1980/45); sections 76E and 76L were inserted by section 168 of, and Schedule 22 to, the [Water Act 1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15); sections 76FA and 76FB were inserted by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95).
 
-[^key-343d1328e66a62a0a921bfa5fdb0510f]: Textual amendment: [Reg. 48(b)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/48/b/c) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(b)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-343d1328e66a62a0a921bfa5fdb0510f]: Textual amendment: [Reg. 48(b)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/48/b/c) revoked (27.10.2017) by [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 4(b)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/4/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
 [^c22302751]: Marginal citation: Section 76L was inserted by section 168 of, and Schedule 22 to, the [Water Act 1989 (c.15)](https://www.legislation.gov.uk/ukpga/1989/15) and paragraph (1A) of that section was inserted by section 56(6) of the [Food Safety Act 1990 (c.16)](https://www.legislation.gov.uk/ukpga/1990/16).

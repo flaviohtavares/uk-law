@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Foreign currency bank accounts.[^key-1c1e9ef37b9601fb0dff9316ec8aad57]
+## 252. Foreign currency bank accounts.[^c-1c1e9ef37b9601fb0dff9316ec8aad57]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c1e9ef37b9601fb0dff9316ec8aad57]: Textual amendment: S. 252 substituted (with effect in accordance with s. 34(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 35(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/35/4)
+[^c-1c1e9ef37b9601fb0dff9316ec8aad57]: Textual amendment: S. 252 substituted (with effect in accordance with s. 34(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 35(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/35/4)

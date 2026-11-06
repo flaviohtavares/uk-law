@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Regulation (EU) 2017/1130 of the European Parliament and of the Council defining characteristics for fishing vessels[^key-8f99f9c054a8b116b9ffa0ff93d1338c]
+## 32. Regulation (EU) 2017/1130 of the European Parliament and of the Council defining characteristics for fishing vessels[^c-8f99f9c054a8b116b9ffa0ff93d1338c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f99f9c054a8b116b9ffa0ff93d1338c]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-8f99f9c054a8b116b9ffa0ff93d1338c]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

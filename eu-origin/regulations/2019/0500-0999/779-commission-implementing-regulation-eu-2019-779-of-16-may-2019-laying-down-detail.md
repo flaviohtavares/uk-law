@@ -26,91 +26,91 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Commission Implementing Regulation *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458] (EU) 2019/779 *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Commission Implementing Regulation *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458] (EU) 2019/779 *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-of 16 May 2019 *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+of 16 May 2019 *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-(Text with EEA relevance) *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+(Text with EEA relevance) *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-THE EUROPEAN COMMISSION, *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+THE EUROPEAN COMMISSION, *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-Having regard to the Treaty on the Functioning of the European Union, *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Having regard to the Treaty on the Functioning of the European Union, *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-Having regard to Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00001], and in particular Article 14(6) and (8) thereof, *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Having regard to Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00001], and in particular Article 14(6) and (8) thereof, *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-Whereas: *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Whereas: *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (1)
 
-Directive (EU) 2016/798 aims to improve access to the market for rail transport services by defining common principles for the management, regulation and supervision of railway safety. Directive (EU) 2016/798 also provides for a framework to be put in place to ensure equal conditions for all entities in charge of maintenance for vehicles through application of the same certification requirements and conditions across the Union. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Directive (EU) 2016/798 aims to improve access to the market for rail transport services by defining common principles for the management, regulation and supervision of railway safety. Directive (EU) 2016/798 also provides for a framework to be put in place to ensure equal conditions for all entities in charge of maintenance for vehicles through application of the same certification requirements and conditions across the Union. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (2)
 
-The purpose of the certification system is to provide a framework for harmonising requirements and methods to assess the ability of entities in charge of maintenance across the Union. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+The purpose of the certification system is to provide a framework for harmonising requirements and methods to assess the ability of entities in charge of maintenance across the Union. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (3)
 
-Following the positive evaluation of the current system of certification of entities in charge of maintenance for freight wagons addressed to the Commission on 11 March 2015 by the European Union Agency for Railways (the Agency), on 27 September 2018, the Agency issued Recommendation 007REC1004 on the revision of Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00002].
+Following the positive evaluation of the current system of certification of entities in charge of maintenance for freight wagons addressed to the Commission on 11 March 2015 by the European Union Agency for Railways (the Agency), on 27 September 2018, the Agency issued Recommendation 007REC1004 on the revision of Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00002].
 
 (4)
 
-Annex III to Directive (EU) 2016/798 sets out the requirements and assessment criteria for organisations applying for a certificate for entity in charge of maintenance (‘ECM certificate’) or for a certificate in respect of maintenance functions outsourced by an entity in charge of maintenance. In order to be fully applicable those requirements need to be further detailed and specified for the different maintenance functions as referred to in points (a) to (d) of Article 14(3) of that Directive. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Annex III to Directive (EU) 2016/798 sets out the requirements and assessment criteria for organisations applying for a certificate for entity in charge of maintenance (‘ECM certificate’) or for a certificate in respect of maintenance functions outsourced by an entity in charge of maintenance. In order to be fully applicable those requirements need to be further detailed and specified for the different maintenance functions as referred to in points (a) to (d) of Article 14(3) of that Directive. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (5)
 
-Taking into account the wide variety of design and maintenance methods, that system of maintenance should be more oriented on the management requirements, such as the organisation of the entity in charge of maintenance, rather than a specific technical requirement. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Taking into account the wide variety of design and maintenance methods, that system of maintenance should be more oriented on the management requirements, such as the organisation of the entity in charge of maintenance, rather than a specific technical requirement. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (6)
 
-Safety-critical components require particular attention and priority in maintenance procedures. However, the criticality aspects of any component are related to the particular design of the vehicle and to the particular functions of the component. It is therefore not possible to establish an exhaustive list of safety-critical components. The essential elements of safety-critical components should be set out. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Safety-critical components require particular attention and priority in maintenance procedures. However, the criticality aspects of any component are related to the particular design of the vehicle and to the particular functions of the component. It is therefore not possible to establish an exhaustive list of safety-critical components. The essential elements of safety-critical components should be set out. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (7)
 
-When designing a new type of vehicle, the manufacturer should determine the criticality of the functions and components of their products by a risk-based analysis and record them in the technical file referred to in Article 15(4) of Directive (EU) 2016/797 of the European Parliament and of the Council *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00003]. The determination of the criticality should take into account how the component is intended to be used and the environment in which it will be used. The entity in charge of maintenance should have access to the relevant parts of the technical file to ensure it is fully aware of the criticality of the components for each type of vehicles under its responsibility. The entity in charge of maintenance should identify criticalities by observing and analysing the failures and tracing all its interventions, and be obliged to provide information at least on the safety-critical components identified as such by the manufacturer. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+When designing a new type of vehicle, the manufacturer should determine the criticality of the functions and components of their products by a risk-based analysis and record them in the technical file referred to in Article 15(4) of Directive (EU) 2016/797 of the European Parliament and of the Council *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00003]. The determination of the criticality should take into account how the component is intended to be used and the environment in which it will be used. The entity in charge of maintenance should have access to the relevant parts of the technical file to ensure it is fully aware of the criticality of the components for each type of vehicles under its responsibility. The entity in charge of maintenance should identify criticalities by observing and analysing the failures and tracing all its interventions, and be obliged to provide information at least on the safety-critical components identified as such by the manufacturer. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (8)
 
-Where the entity in charge of maintenance considers that new safety-critical components should be included in the technical file or components should be reclassified as non safety-critical, it should promptly inform the manufacturer, the holder of the vehicle type authorisation and the holder of the vehicle authorisation to allow taking the necessary measures, including a revision of the technical file, if needed. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Where the entity in charge of maintenance considers that new safety-critical components should be included in the technical file or components should be reclassified as non safety-critical, it should promptly inform the manufacturer, the holder of the vehicle type authorisation and the holder of the vehicle authorisation to allow taking the necessary measures, including a revision of the technical file, if needed. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (9)
 
-An entity or organisation taking on one or more maintenance functions as referred to in points (b) to (d) of Article 14(3) of Directive (EU) 2016/798 or part of those maintenance functions may apply the system of certification on a voluntary basis, based on the principles specified in Article 6. The aim of that certification is to ensure that maintenance is carried out within a controlled process that meets common quality standards in all its steps. Article 14(5) of Directive (EU) 2016/798 on the validity throughout the Union should also apply to those voluntary certificates. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+An entity or organisation taking on one or more maintenance functions as referred to in points (b) to (d) of Article 14(3) of Directive (EU) 2016/798 or part of those maintenance functions may apply the system of certification on a voluntary basis, based on the principles specified in Article 6. The aim of that certification is to ensure that maintenance is carried out within a controlled process that meets common quality standards in all its steps. Article 14(5) of Directive (EU) 2016/798 on the validity throughout the Union should also apply to those voluntary certificates. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (10)
 
-As part of their activities, infrastructure managers may need to use trains, infrastructure inspection vehicles, on-track machines or other special vehicles for different purposes, such as transporting materials or staff for construction or infrastructure maintenance, performing maintenance on its infrastructure assets or managing emergency situations. In such situations, the infrastructure manager should be deemed to operate in the capacity of a railway undertaking under its safety management system. Assessing the infrastructure manager's capacity to operate vehicles for this purpose should be part of its assessment for a safety authorisation under Article 12 of Directive (EU) 2016/798. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+As part of their activities, infrastructure managers may need to use trains, infrastructure inspection vehicles, on-track machines or other special vehicles for different purposes, such as transporting materials or staff for construction or infrastructure maintenance, performing maintenance on its infrastructure assets or managing emergency situations. In such situations, the infrastructure manager should be deemed to operate in the capacity of a railway undertaking under its safety management system. Assessing the infrastructure manager's capacity to operate vehicles for this purpose should be part of its assessment for a safety authorisation under Article 12 of Directive (EU) 2016/798. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (11)
 
-The assessment by a certification body of an application for an ECM certificate is an assessment of the applicant's ability to manage maintenance activities and to deliver the operational functions of maintenance either by itself or through contracts with other bodies, such as maintenance workshops, charged with delivering those functions or parts of those functions. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+The assessment by a certification body of an application for an ECM certificate is an assessment of the applicant's ability to manage maintenance activities and to deliver the operational functions of maintenance either by itself or through contracts with other bodies, such as maintenance workshops, charged with delivering those functions or parts of those functions. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (12)
 
-In accordance with Article 14(4) of Directive (EU) 2016/798, the certification bodies are accredited bodies, recognised bodies or the national safety authorities. A system of accreditation should provide a tool for managing risks by assuring that accredited bodies are competent to carry out the work they undertake. Furthermore, accreditation is a means to secure national and international recognition of ECM certificates issued by accredited bodies. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+In accordance with Article 14(4) of Directive (EU) 2016/798, the certification bodies are accredited bodies, recognised bodies or the national safety authorities. A system of accreditation should provide a tool for managing risks by assuring that accredited bodies are competent to carry out the work they undertake. Furthermore, accreditation is a means to secure national and international recognition of ECM certificates issued by accredited bodies. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (13)
 
-In order to have a system allowing certification bodies to perform checks on certified entities in charge of maintenance across the Union and to harmonise approaches to certification, it is important that all bodies able to award certificates to any entity in charge of maintenance (‘certification bodies’) cooperate with one another. Specific requirements for accreditation and recognition are to be developed and approved in accordance with Chapter II of Regulation (EC) No 765/2008 of the European Parliament and of the Council *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00004].
+In order to have a system allowing certification bodies to perform checks on certified entities in charge of maintenance across the Union and to harmonise approaches to certification, it is important that all bodies able to award certificates to any entity in charge of maintenance (‘certification bodies’) cooperate with one another. Specific requirements for accreditation and recognition are to be developed and approved in accordance with Chapter II of Regulation (EC) No 765/2008 of the European Parliament and of the Council *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00004].
 
 (14)
 
-Performance, organisation and decision-making procedures in the field of railway safety and interoperability vary substantially among the entities in charge of maintenance, with a detrimental effect on the smooth operation of the single European railway area. In particular, small and medium-sized enterprises wishing to enter the railway market in another Member State might be negatively affected by that. Therefore, strengthened coordination with a view to greater harmonisation at Union level is essential. In order to ensure that the entities in charge of maintenance and the certification bodies implement and apply consistently the different provisions of this Regulation, the European Union Agency for Railways (‘the Agency’) should, within its powers to monitor the overall safety performance of the Union rail system referred to in Article 35 of Regulation (EU) 2016/796 of the European Parliament and of the Council *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00005], monitor the activities of the certification bodies through audit and inspections. To be able to perform this function, the Agency should collect information on the nature of the certification bodies active in that field and the number of certificates issued to entities in charge of maintenance. It is also important for the Agency to facilitate coordination of the certification bodies. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Performance, organisation and decision-making procedures in the field of railway safety and interoperability vary substantially among the entities in charge of maintenance, with a detrimental effect on the smooth operation of the single European railway area. In particular, small and medium-sized enterprises wishing to enter the railway market in another Member State might be negatively affected by that. Therefore, strengthened coordination with a view to greater harmonisation at Union level is essential. In order to ensure that the entities in charge of maintenance and the certification bodies implement and apply consistently the different provisions of this Regulation, the European Union Agency for Railways (‘the Agency’) should, within its powers to monitor the overall safety performance of the Union rail system referred to in Article 35 of Regulation (EU) 2016/796 of the European Parliament and of the Council *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00005], monitor the activities of the certification bodies through audit and inspections. To be able to perform this function, the Agency should collect information on the nature of the certification bodies active in that field and the number of certificates issued to entities in charge of maintenance. It is also important for the Agency to facilitate coordination of the certification bodies. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (15)
 
-Pending the full application of the certification system of the entity in charge of maintenance provided for in this Regulation, the existing practices to certify entities in charge of maintenance and maintenance workshops for vehicles other than freight wagons should remain valid during a period of transition in order to ensure the uninterrupted provision of rail operation services, in particular at international level. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+Pending the full application of the certification system of the entity in charge of maintenance provided for in this Regulation, the existing practices to certify entities in charge of maintenance and maintenance workshops for vehicles other than freight wagons should remain valid during a period of transition in order to ensure the uninterrupted provision of rail operation services, in particular at international level. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (16)
 
-This Regulation provides for a system of certification for all types of vehicles, including freight wagons. Therefore, Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458][^f00006] should be repealed. *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+This Regulation provides for a system of certification for all types of vehicles, including freight wagons. Therefore, Commission Regulation (EU) No 445/2011 *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458][^f00006] should be repealed. *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 (17)
 
-The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 28(1) of Directive (EU) 2016/798, *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 28(1) of Directive (EU) 2016/798, *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
-HAS ADOPTED THIS REGULATION: *(affected by repeal, see note)*[^key-4bf910aa95190667de7e0af0287eb458]
+HAS ADOPTED THIS REGULATION: *(affected by repeal, see note)*[^c-4bf910aa95190667de7e0af0287eb458]
 
 ## Article 1. Subject matter and scope
 
@@ -854,7 +854,7 @@ The entity in charge of maintenance shall address the report to the certificatio
 
 ## Annotations
 
-[^key-4bf910aa95190667de7e0af0287eb458]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [reg. 11](https://www.legislation.gov.uk/uksi/2020/786/regulation/11)
+[^c-4bf910aa95190667de7e0af0287eb458]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [reg. 11](https://www.legislation.gov.uk/uksi/2020/786/regulation/11)
 
 [^f00001]: Footnote: [OJ L 138, 26.5.2016, p. 102](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.138.01.0102.01.ENG).
 

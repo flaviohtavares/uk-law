@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Meaning of “the 2003 Act” in Part 4[^key-7d5aa6e8a3180851378d800814f9f9c1]
+## 76. Meaning of “the 2003 Act” in Part 4[^c-7d5aa6e8a3180851378d800814f9f9c1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “**the 2003 Act**” means the Land Reform (Scotland) Act 2003.
 
 ## Annotations
 
-[^key-7d5aa6e8a3180851378d800814f9f9c1]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2015/6/section/76) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-7d5aa6e8a3180851378d800814f9f9c1]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2015/6/section/76) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Entitlement to vote (creditors)[^key-5b64c81c69c0d26228b18bda23347ef7]
+## 52. Entitlement to vote (creditors)[^c-5b64c81c69c0d26228b18bda23347ef7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b64c81c69c0d26228b18bda23347ef7]: Commencement: Rule 52 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-5b64c81c69c0d26228b18bda23347ef7]: Commencement: Rule 52 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

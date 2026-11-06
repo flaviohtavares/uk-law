@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Role of IQMP in determinations by the scheme manager[^key-f4244a46eb118c18bb90c7c09b9eb683]
+## 142. Role of IQMP in determinations by the scheme manager[^c-f4244a46eb118c18bb90c7c09b9eb683]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ the scheme manager may make a determination on the issue on such other medical e
 
 ## Annotations
 
-[^key-f4244a46eb118c18bb90c7c09b9eb683]: Commencement: [Reg. 142](https://www.legislation.gov.uk/ssi/2015/19/regulation/142) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-f4244a46eb118c18bb90c7c09b9eb683]: Commencement: [Reg. 142](https://www.legislation.gov.uk/ssi/2015/19/regulation/142) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

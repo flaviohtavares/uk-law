@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Fire extinguishing apparatus[^key-deebb84b0d1bc31cba7b8331596aa8ba]
+## 42. Fire extinguishing apparatus[^c-deebb84b0d1bc31cba7b8331596aa8ba]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-deebb84b0d1bc31cba7b8331596aa8ba]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1986/1078/regulation/42) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-deebb84b0d1bc31cba7b8331596aa8ba]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1986/1078/regulation/42) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

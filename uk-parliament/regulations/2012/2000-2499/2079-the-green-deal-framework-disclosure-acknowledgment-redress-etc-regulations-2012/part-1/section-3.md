@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Notices[^key-1c0f841fce66f3a450c4fb704c12e5f7]
+## 3. Notices[^c-1c0f841fce66f3a450c4fb704c12e5f7]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A notice under these Regulations—
 
 ## Annotations
 
-[^key-1c0f841fce66f3a450c4fb704c12e5f7]: Commencement: Reg. 3 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-1c0f841fce66f3a450c4fb704c12e5f7]: Commencement: Reg. 3 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

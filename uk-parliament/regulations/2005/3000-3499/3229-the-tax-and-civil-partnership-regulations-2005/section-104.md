@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Finance Act 1990[^key-bb447cc370fded9232ed268b051be975]
+## 104. Finance Act 1990[^c-bb447cc370fded9232ed268b051be975]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In section 25 of the Finance Act 1990 [^f00027] (donations to charity by individ
 
 ## Annotations
 
-[^key-bb447cc370fded9232ed268b051be975]: Commencement: Reg. 104 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bb447cc370fded9232ed268b051be975]: Commencement: Reg. 104 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00027]: Footnote: [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29).
 

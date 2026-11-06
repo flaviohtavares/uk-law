@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Automatic back-dating of Jobseeker’s Agreement[^key-24fd388de3c6cc26b64c8e2f26524f1e]
+## 35. Automatic back-dating of Jobseeker’s Agreement[^c-24fd388de3c6cc26b64c8e2f26524f1e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where a jobseeker’s agreement is signed on a date later than the date of claim
 
 ## Annotations
 
-[^key-24fd388de3c6cc26b64c8e2f26524f1e]: Commencement: Reg. 35 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-24fd388de3c6cc26b64c8e2f26524f1e]: Commencement: Reg. 35 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

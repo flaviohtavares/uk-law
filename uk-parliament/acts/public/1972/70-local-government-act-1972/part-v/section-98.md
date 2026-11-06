@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Interpretation of sections 95 and 97.[^key-001c270aba1a778fa92c13164199e086]
+## 98. Interpretation of sections 95 and 97.[^c-001c270aba1a778fa92c13164199e086]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-001c270aba1a778fa92c13164199e086]: Textual amendment: Ss. 94-98 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/12), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)
+[^c-001c270aba1a778fa92c13164199e086]: Textual amendment: Ss. 94-98 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/12), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)

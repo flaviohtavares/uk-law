@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Annex 2 to Commission Implementing Regulation (EU) No 1206/2011[^key-6c5f763ae60b3580a45837383e6db027]
+## 273. Annex 2 to Commission Implementing Regulation (EU) No 1206/2011[^c-6c5f763ae60b3580a45837383e6db027]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex 2 (performance requirements referred to in Article 4(3)), in each of po
 
 ## Annotations
 
-[^key-6c5f763ae60b3580a45837383e6db027]: Commencement: Reg. 273 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6c5f763ae60b3580a45837383e6db027]: Commencement: Reg. 273 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

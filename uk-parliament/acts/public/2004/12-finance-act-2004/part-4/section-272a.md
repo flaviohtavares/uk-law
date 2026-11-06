@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272A. Liabilities of independent trustee[^key-ca05c59b5ac171c05ad98ad06ba784db]
+## 272A. Liabilities of independent trustee[^c-ca05c59b5ac171c05ad98ad06ba784db]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,11 +46,11 @@ summary: ''
 
 - (a) liabilities for the following in respect of payments made (or treated as having been made) by the pension scheme on or before the relevant day—
   - (i) the short service refund lump sum charge;
-  - (ii)[^key-fb6063f70e813bec12e1c68906a607a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-fb6063f70e813bec12e1c68906a607a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the special lump sum death benefits charge;
   - (iv) the authorised surplus payments charge;
   - (v) the scheme sanction charge in respect of scheme chargeable payments falling within section 241(1)(a) or (b);
-- (b)[^key-86e416dd3b58a64a0be3cd1d1c16334b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-86e416dd3b58a64a0be3cd1d1c16334b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) liabilities for the scheme sanction charge in respect of scheme chargeable payments treated under section 185A or 185F as having been made by the pension scheme in tax years earlier than the one in which the relevant day falls;
 - (d) any liability for the scheme sanction charge in respect of the relevant fraction of any scheme chargeable payment treated under section 185A as having been made by the pension scheme in the tax year in which the relevant day falls;
 - (e) where the pension scheme is treated under section 185F as having made a scheme chargeable payment in the tax year in which the relevant day falls and there is a relevant net gain, any liability for the scheme sanction charge in respect of the relevant amount;
@@ -86,8 +86,8 @@ B is the number of days in the tax year.
 
 ## Annotations
 
-[^key-ca05c59b5ac171c05ad98ad06ba784db]: Textual amendment: Ss. 272A-272C inserted (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/19)
+[^c-ca05c59b5ac171c05ad98ad06ba784db]: Textual amendment: Ss. 272A-272C inserted (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/19)
 
-[^key-fb6063f70e813bec12e1c68906a607a1]: Textual amendment: [S. 272A(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/section/272A/7/a/ii) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/1/b)
+[^c-fb6063f70e813bec12e1c68906a607a1]: Textual amendment: [S. 272A(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/section/272A/7/a/ii) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/1/b)
 
-[^key-86e416dd3b58a64a0be3cd1d1c16334b]: Textual amendment: [S. 272A(7)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/272A/7/b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 10](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/10), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-86e416dd3b58a64a0be3cd1d1c16334b]: Textual amendment: [S. 272A(7)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/272A/7/b) omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 10](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/10), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))

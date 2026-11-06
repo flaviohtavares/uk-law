@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Requirement to keep active entries up-to-date[^key-ca39167ed843846f273afc559a3efed0]
+## 78. Requirement to keep active entries up-to-date[^c-ca39167ed843846f273afc559a3efed0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca39167ed843846f273afc559a3efed0]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-ca39167ed843846f273afc559a3efed0]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 442. Meaning of references to “supervisory authorities” in the 1993 Regulations[^key-b19fa03e53c35a64a6558ba0cc4afa47]
+## 442. Meaning of references to “supervisory authorities” in the 1993 Regulations[^c-b19fa03e53c35a64a6558ba0cc4afa47]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b19fa03e53c35a64a6558ba0cc4afa47]: Commencement: Art. 442 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b19fa03e53c35a64a6558ba0cc4afa47]: Commencement: Art. 442 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

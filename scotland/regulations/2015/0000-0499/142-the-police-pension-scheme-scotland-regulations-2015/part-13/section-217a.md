@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 217A. Prohibition on assignation or charging of benefits[^key-64bcf22dd86a79371f0b85572ee6d453]
+## 217A. Prohibition on assignation or charging of benefits[^c-64bcf22dd86a79371f0b85572ee6d453]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any assignation of, or charge on, or any agreement to assign or charge, any righ
 
 ## Annotations
 
-[^key-64bcf22dd86a79371f0b85572ee6d453]: Textual amendment: [Reg. 217A](https://www.legislation.gov.uk/ssi/2015/142/regulation/217A) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [65](https://www.legislation.gov.uk/ssi/2019/68/regulation/65)
+[^c-64bcf22dd86a79371f0b85572ee6d453]: Textual amendment: [Reg. 217A](https://www.legislation.gov.uk/ssi/2015/142/regulation/217A) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [65](https://www.legislation.gov.uk/ssi/2019/68/regulation/65)

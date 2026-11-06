@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The manufacturer must follow one of the following conformity assessment procedures referred to in Schedule 1A to these Regulations[^key-aee0693ba7f6ebe3a9c8114b062432e5] according to the category in which the equipment is classified—
+(1) The manufacturer must follow one of the following conformity assessment procedures referred to in Schedule 1A to these Regulations[^c-aee0693ba7f6ebe3a9c8114b062432e5] according to the category in which the equipment is classified—
 
 - (a) Category I: Module A;
 - (b) Category II: Module A2; or, at the choice of the manufacturer, Module D1; or Module E1;
@@ -46,6 +46,6 @@ summary: ''
 
 [^M_E_7336b67d-4aa6-44fd-dba7-6e5a32aad724]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-aee0693ba7f6ebe3a9c8114b062432e5]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/42/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/27) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aee0693ba7f6ebe3a9c8114b062432e5]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/42/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/27) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_b0cfa63c-573a-4b95-f1ae-6026bac7d9a3]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

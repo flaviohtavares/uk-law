@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**200.**[^key-bec802189a59f8509662338d5327cd71] Omit section 16 of the Community Care (Delayed Discharges etc.) Act 2003[^f00185] (free provision of services in Wales).
+**200.**[^c-bec802189a59f8509662338d5327cd71] Omit section 16 of the Community Care (Delayed Discharges etc.) Act 2003[^f00185] (free provision of services in Wales).
 
 ## Annotations
 
-[^key-bec802189a59f8509662338d5327cd71]: Commencement: Reg. 200 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bec802189a59f8509662338d5327cd71]: Commencement: Reg. 200 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00185]: Footnote: Section 16 was substituted by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 68, 74.

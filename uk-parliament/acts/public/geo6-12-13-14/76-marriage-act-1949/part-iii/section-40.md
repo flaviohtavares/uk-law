@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Forms of certificates to be furnished by Registrar General.[^key-a8092bb1fb1c82af2cc86bc4d5360367][^key-c898f7a5800b3f42e0c6454cec446a45]
+## 40. Forms of certificates to be furnished by Registrar General.[^c-a8092bb1fb1c82af2cc86bc4d5360367][^c-c898f7a5800b3f42e0c6454cec446a45]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8092bb1fb1c82af2cc86bc4d5360367]: Textual amendment: S. 40 omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/29) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-a8092bb1fb1c82af2cc86bc4d5360367]: Textual amendment: S. 40 omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/29) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)

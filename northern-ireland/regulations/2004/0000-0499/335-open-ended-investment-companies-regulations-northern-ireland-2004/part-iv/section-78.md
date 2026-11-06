@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Exclusion of deemed notice[^key-f5258e2a1e1a1ec8be8b7be46cad7f0d]
+## 78. Exclusion of deemed notice[^c-f5258e2a1e1a1ec8be8b7be46cad7f0d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person is not to be taken to have deemed notice of any matter merely because o
 
 ## Annotations
 
-[^key-f5258e2a1e1a1ec8be8b7be46cad7f0d]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2004/335/regulation/78) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-f5258e2a1e1a1ec8be8b7be46cad7f0d]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2004/335/regulation/78) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

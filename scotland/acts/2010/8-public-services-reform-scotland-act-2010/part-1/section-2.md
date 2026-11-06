@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Transfer to Scottish Natural Heritage of functions of Advisory Committee on sites of special scientific interest[^key-32640f771d888fafc5f3c8a9dc88503c]
+## 2. Transfer to Scottish Natural Heritage of functions of Advisory Committee on sites of special scientific interest[^c-32640f771d888fafc5f3c8a9dc88503c]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32640f771d888fafc5f3c8a9dc88503c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/8/section/2) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-32640f771d888fafc5f3c8a9dc88503c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/8/section/2) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

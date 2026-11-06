@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Variation and recall of prohibitory property order[^key-522e1773cec5f384cb727ebb9d6741d8]
+## 162. Variation and recall of prohibitory property order[^c-522e1773cec5f384cb727ebb9d6741d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-522e1773cec5f384cb727ebb9d6741d8]: Commencement: [Art. 162](https://www.legislation.gov.uk/uksi/2005/3181/article/162) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-522e1773cec5f384cb727ebb9d6741d8]: Commencement: [Art. 162](https://www.legislation.gov.uk/uksi/2005/3181/article/162) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

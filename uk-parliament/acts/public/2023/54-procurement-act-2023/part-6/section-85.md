@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Regulated below-threshold contracts: procedure[^key-e8c4aa7bbea07f558d5814d7f4411183][^key-5aee7f496813fd5dd0dbe1f6b7279141]
+## 85. Regulated below-threshold contracts: procedure[^c-e8c4aa7bbea07f558d5814d7f4411183][^c-5aee7f496813fd5dd0dbe1f6b7279141]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 
 (3) Subsection (1) does not apply in relation to a works contract if the contract has an estimated value of—
 
-- (a) in the case of a contract to be awarded by a central government authority, not less than £135,018[^key-4b9696559bb42505d6ac3ad2dec8b680], or
-- (b) otherwise, not less than £207,720[^key-194ef5a7613b70b56d56f85f523ca398].
+- (a) in the case of a contract to be awarded by a central government authority, not less than £135,018[^c-4b9696559bb42505d6ac3ad2dec8b680], or
+- (b) otherwise, not less than £207,720[^c-194ef5a7613b70b56d56f85f523ca398].
 
 (4) A Minister of the Crown may by regulations amend this section for the purpose of amending the financial thresholds.
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e8c4aa7bbea07f558d5814d7f4411183]: Commencement: S. 85 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e8c4aa7bbea07f558d5814d7f4411183]: Commencement: S. 85 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-5aee7f496813fd5dd0dbe1f6b7279141]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/54/section/85) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-5aee7f496813fd5dd0dbe1f6b7279141]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/54/section/85) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-4b9696559bb42505d6ac3ad2dec8b680]: Textual amendment: Sum in s. 85(3)(a) substituted (1.1.2026) by [The Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025 (S.I. 2025/1200)](https://www.legislation.gov.uk/uksi/2025/1200), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1200/regulation/3))
+[^c-4b9696559bb42505d6ac3ad2dec8b680]: Textual amendment: Sum in s. 85(3)(a) substituted (1.1.2026) by [The Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025 (S.I. 2025/1200)](https://www.legislation.gov.uk/uksi/2025/1200), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1200/regulation/3))
 
-[^key-194ef5a7613b70b56d56f85f523ca398]: Textual amendment: Sum in s. 85(3)(b) substituted (1.1.2026) by [The Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025 (S.I. 2025/1200)](https://www.legislation.gov.uk/uksi/2025/1200), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1200/regulation/3))
+[^c-194ef5a7613b70b56d56f85f523ca398]: Textual amendment: Sum in s. 85(3)(b) substituted (1.1.2026) by [The Procurement Act 2023 (Threshold Amounts) (Amendment) Regulations 2025 (S.I. 2025/1200)](https://www.legislation.gov.uk/uksi/2025/1200), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1200/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1200/regulation/3))

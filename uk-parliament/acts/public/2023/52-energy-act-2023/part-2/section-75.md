@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Allocation notifications[^key-e362e5cf00b99ac20a7c5150b308f0f4]
+## 75. Allocation notifications[^c-e362e5cf00b99ac20a7c5150b308f0f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e362e5cf00b99ac20a7c5150b308f0f4]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/52/section/75) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e362e5cf00b99ac20a7c5150b308f0f4]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/52/section/75) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

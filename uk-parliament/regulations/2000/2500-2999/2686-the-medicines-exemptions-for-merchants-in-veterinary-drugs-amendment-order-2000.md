@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-The Medicines (Exemptions for Merchants in Veterinary Drugs) (Amendment) Order 2000 (revoked)[^key-1cd80f9a693fd6486bbc4c856b4a5525]
+The Medicines (Exemptions for Merchants in Veterinary Drugs) (Amendment) Order 2000 (revoked)[^c-1cd80f9a693fd6486bbc4c856b4a5525]
 
 Made
 
@@ -45,46 +45,46 @@ Coming into force
 
 9th October 2000
 
-[^key-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1cd80f9a693fd6486bbc4c856b4a5525]
+## 1. Title and commencement[^c-1cd80f9a693fd6486bbc4c856b4a5525]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of previous Order[^key-1cd80f9a693fd6486bbc4c856b4a5525]
+## 2. Amendment of previous Order[^c-1cd80f9a693fd6486bbc4c856b4a5525]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be added to the Medicines (Exemptions for Merchants in Veterinary Drugs) Order 1988[^key-1cd80f9a693fd6486bbc4c856b4a5525]
+## SCHEDULE — Schedule to be added to the Medicines (Exemptions for Merchants in Veterinary Drugs) Order 1988[^c-1cd80f9a693fd6486bbc4c856b4a5525]
 
 Article 2 (5)
 
-> **SCHEDULE — Specification of notice on double sided laminated sheet[^key-1cd80f9a693fd6486bbc4c856b4a5525]**
+> **SCHEDULE — Specification of notice on double sided laminated sheet[^c-1cd80f9a693fd6486bbc4c856b4a5525]**
 >
 > Articles 6 (3) and 7 (2)
 >
-> **1.**[^key-1cd80f9a693fd6486bbc4c856b4a5525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-1cd80f9a693fd6486bbc4c856b4a5525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-1cd80f9a693fd6486bbc4c856b4a5525]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-1cd80f9a693fd6486bbc4c856b4a5525]
+> [^c-1cd80f9a693fd6486bbc4c856b4a5525]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-1cd80f9a693fd6486bbc4c856b4a5525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-1cd80f9a693fd6486bbc4c856b4a5525]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-1cd80f9a693fd6486bbc4c856b4a5525] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cd80f9a693fd6486bbc4c856b4a5525]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cd80f9a693fd6486bbc4c856b4a5525]: Textual amendment: Order revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-1cd80f9a693fd6486bbc4c856b4a5525]: Textual amendment: Order revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

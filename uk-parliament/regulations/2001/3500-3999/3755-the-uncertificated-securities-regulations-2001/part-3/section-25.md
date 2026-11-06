@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Rectification of registers of securities[^key-55a84150a165620a75c981f2c871d03a]
+## 25. Rectification of registers of securities[^c-55a84150a165620a75c981f2c871d03a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55a84150a165620a75c981f2c871d03a]: Commencement: Reg. 25 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-55a84150a165620a75c981f2c871d03a]: Commencement: Reg. 25 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

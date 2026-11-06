@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-024608e3d28a371003d8f7d1f9b211fa]
+## 1. Citation and commencement[^c-024608e3d28a371003d8f7d1f9b211fa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Cottam Solar Project Order 2024 and comes into fo
 
 ## Annotations
 
-[^key-024608e3d28a371003d8f7d1f9b211fa]: Commencement: Art. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-024608e3d28a371003d8f7d1f9b211fa]: Commencement: Art. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

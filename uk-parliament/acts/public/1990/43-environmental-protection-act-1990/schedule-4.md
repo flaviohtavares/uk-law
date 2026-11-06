@@ -35,7 +35,7 @@ Section 99.
 
 *Extent: S*
 
-(3)[^key-58766516a85fb4e55193ca5040e20aa5] In sub-paragraph (2)(d) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(3)[^c-58766516a85fb4e55193ca5040e20aa5] In sub-paragraph (2)(d) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ### Power to seize and remove trolleys
 
@@ -126,7 +126,7 @@ Section 99.
 
 [^c13752721]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-58766516a85fb4e55193ca5040e20aa5]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/4/paragraph/1/3) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(10)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/10); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-58766516a85fb4e55193ca5040e20aa5]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/4/paragraph/1/3) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(10)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/10); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c18998021]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 

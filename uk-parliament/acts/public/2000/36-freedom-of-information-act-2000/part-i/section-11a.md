@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Release of datasets for re-use[^key-c0b4b348e53fa867702844d005f18afc]
+## 11A. Release of datasets for re-use[^c-c0b4b348e53fa867702844d005f18afc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the public authority is the only owner of the relevant copyright work, and
 - (d) the public authority is communicating the relevant copyright work to the applicant in accordance with this Act.
 
-(1A)[^key-4c2d037b1c4cc90591cfb2695f4ea2ed] But if the whole of the relevant copyright work is a document to which the Re-use of Public Sector Information Regulations 2015 apply, this section does not apply to the relevant copyright work.
+(1A)[^c-4c2d037b1c4cc90591cfb2695f4ea2ed] But if the whole of the relevant copyright work is a document to which the Re-use of Public Sector Information Regulations 2015 apply, this section does not apply to the relevant copyright work.
 
 (1B) If part of the relevant copyright work is a document to which those Regulations apply—
 
@@ -48,7 +48,7 @@ summary: ''
 
 (7) Where a public authority intends to charge a fee as mentioned in subsection (4), the re-use fee notice may be combined with any other notice which is to be given under the power which enables the fee to be charged.
 
-(8)[^key-53d4570d75cb7fd431323207d81d1cbc] In this section—
+(8)[^c-53d4570d75cb7fd431323207d81d1cbc] In this section—
 
 - “**copyright owner**” has the meaning given by Part 1 of the Copyright, Designs and Patents Act 1988 (see section 173 of that Act);
 - “**copyright work**” has the meaning given by Part 1 of the Act of 1988 (see section 1(2) of that Act);
@@ -68,14 +68,14 @@ summary: ''
 - “**relevant Parliamentary work**” means—
   - (a) a copyright work in relation to which the House of Commons or the House of Lords is the copyright owner, or
   - (b) a database in relation to which the House of Commons or the House of Lords is the owner of the database right;
-- “the specified licence” is the licence specified by the Minister for the Cabinet Office[^key-bbbaef4cb914d6ddbbda1baab17fc983] in a code of practice issued under section 45, and the Minister for the Cabinet Office may specify different licences for different purposes.
+- “the specified licence” is the licence specified by the Minister for the Cabinet Office[^c-bbbaef4cb914d6ddbbda1baab17fc983] in a code of practice issued under section 45, and the Minister for the Cabinet Office may specify different licences for different purposes.
 
 ## Annotations
 
-[^key-c0b4b348e53fa867702844d005f18afc]: Textual amendment: Ss. 11A, 11B inserted (31.7.2013 for the insertion of s. 11B, 1.9.2013 in so far as not already in force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/102/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [arts. 2](https://www.legislation.gov.uk/uksi/2013/1906/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/a)
+[^c-c0b4b348e53fa867702844d005f18afc]: Textual amendment: Ss. 11A, 11B inserted (31.7.2013 for the insertion of s. 11B, 1.9.2013 in so far as not already in force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/102/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [arts. 2](https://www.legislation.gov.uk/uksi/2013/1906/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/a)
 
-[^key-4c2d037b1c4cc90591cfb2695f4ea2ed]: Textual amendment: S. 11A(1A)(1B) inserted (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/21/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4), [21(8)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/21/8))
+[^c-4c2d037b1c4cc90591cfb2695f4ea2ed]: Textual amendment: S. 11A(1A)(1B) inserted (18.7.2015) by [The Re-use of Public Sector Information Regulations 2015 (S.I. 2015/1415)](https://www.legislation.gov.uk/uksi/2015/1415), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1415/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/21/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1415/regulation/5), [11(4)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/11/4), [21(8)](https://www.legislation.gov.uk/uksi/2015/1415/regulation/21/8))
 
-[^key-53d4570d75cb7fd431323207d81d1cbc]: Modification: S. 11A(8) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
+[^c-53d4570d75cb7fd431323207d81d1cbc]: Modification: S. 11A(8) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
 
-[^key-bbbaef4cb914d6ddbbda1baab17fc983]: Textual amendment: Words in [s. 11A(8)](https://www.legislation.gov.uk/ukpga/2000/36/section/11A/8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/f) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-bbbaef4cb914d6ddbbda1baab17fc983]: Textual amendment: Words in [s. 11A(8)](https://www.legislation.gov.uk/ukpga/2000/36/section/11A/8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(f)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/f) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Certification and approval of plans etc.[^key-208786ee742010e0ee9868b1d7f2657a]
+## 43. Certification and approval of plans etc.[^c-208786ee742010e0ee9868b1d7f2657a]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-208786ee742010e0ee9868b1d7f2657a]: Commencement: Art. 43 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-208786ee742010e0ee9868b1d7f2657a]: Commencement: Art. 43 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

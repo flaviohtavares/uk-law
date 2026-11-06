@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — SPECIAL ROADS[^key-d5e37790d1a5dc39d489abde068d7657]
+### PART 1 — SPECIAL ROADS[^c-d5e37790d1a5dc39d489abde068d7657]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -31,7 +31,7 @@ Article 14
 | Elmstone Hardwicke Civil Parish, Tewkesbury | 814 metres of new M5 southbound diverge slip road between point 4/2 on sheet 4 and point 5/3 on sheet 5 of the classification of roads plans |
 | Boddington Civil Parish, Tewkesbury | 741 metres of new M5 southbound merge slip road between point 5/4 on sheet 5 and point 6/1 on sheet 6 of the classification of roads plans |
 
-### PART 2 — CLASSIFIED ROADS[^key-2105bfe234321062e2e121929c8dce61]
+### PART 2 — CLASSIFIED ROADS[^c-2105bfe234321062e2e121929c8dce61]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -49,7 +49,7 @@ Article 14
 | Uckington Civil Parish, Tewkesbury | The re-aligned B4634 carriageway as shown between points 14/3 and 14/4 on sheet 14 of the classification of roads plans, comprising 115 metres |
 | Boddington Civil Parish, Tewkesbury | The re-aligned B4634 carriageway as shown between points 16/2 and 16/3 on sheet 16 of the classification of roads plans, comprising 488 metres |
 
-### PART 3 — UNCLASSIFIED ROADS[^key-2aad6f133b17d560afd6a775561ff052]
+### PART 3 — UNCLASSIFIED ROADS[^c-2aad6f133b17d560afd6a775561ff052]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -69,7 +69,7 @@ Article 14
 | Uckington Civil Parish, Tewkesbury | Altered unclassified road on the northern arm of the Gallagher Junction serving Gallagher Retail Park, as shown between points 14/9 and 14/10 on sheet 14 of the classification of roads plans, comprising 78 metres |
 | Boddington Civil Parish, Tewkesbury | New unclassified road to the proposed West Cheltenham Golden Valley Development at the new signalised junction between the West Cheltenham Link Road and the B4634, as shown between points 16/4 and 16/5 on sheet 16 of the classification of roads plans, comprising 30 metres |
 
-### PART 4 — SPEED LIMITS[^key-6ffdf24270f6bbf5b2c58e351da8b9cb]
+### PART 4 — SPEED LIMITS[^c-6ffdf24270f6bbf5b2c58e351da8b9cb]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Speed limit* |
 | --- | --- | --- |
@@ -106,7 +106,7 @@ Article 14
 | Boddington Civil Parish, Tewkesbury | The new classified road West Cheltenham Link Road<br>From point 16/3 to point 16/4 on sheet 16 of the speed limits and traffic regulations plans, for a total distance of 80 metres | 40mph |
 | Boddington Civil Parish, Tewkesbury | The new access road to the proposed West Cheltenham Golden Valley Development at the new signalised junction between the West Cheltenham Link Road and the B4634<br>From point 16/5 to point 16/6 on sheet 16 of the speed limits and traffic regulations plans, for a total distance of 30 metres | 40mph |
 
-### PART 5 — TRAFFIC REGULATION MEASURES[^key-99b716962ae497a73ab9e2c848671ef2]
+### PART 5 — TRAFFIC REGULATION MEASURES[^c-99b716962ae497a73ab9e2c848671ef2]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -115,7 +115,7 @@ Article 14
 | Uckington Civil Parish, Cheltenham | A4019 eastbound carriageway<br>From a point 33 metres west of the centre point of the new A4019 junction with Site Access A to a point 11 metres west of the centre point of the new A4019 junction with Site Access A, as shown between point e and point f on sheet 13 of the speed limits and traffic regulations plans, comprising 22 metres.<br>From a point 16 metres east of the centre point of the new A4019 junction with Site Access A to a point 121 metres west of the centre point of the new A4019 junction with Site Access B, as shown between point g on sheet 13 and point h on sheet 14 of the speed limits and traffic regulations plans, comprising 187 metres.<br>From a point 28 metres west of the centre point of the new A4019 junction with Site Access B to a point 10 metres west of the centre point of the new A4019 junction with Site Access B, as shown between point i and point j on sheet 14 of the speed limits and traffic regulations plans, comprising 18 metres.<br>From a point 19 metres east of the centre point of the new A4019 junction with Site Access B to a point 83 metres east of the centre point of the new A4019 junction with Site Access B, as shown between point k and point l on sheet 14 of the speed limits and traffic regulations plans, comprising 64 metres.<br>From a point 34 metres west of the centre point of the A4019 Gallagher junction to a point 13 metres west of the centre point of the A4019 Gallagher junction, as shown between point m and point n on sheet 14 of the speed limits and traffic regulations plans, comprising 21 metres. | Bus Lane (with specified exemptions for authorised vehicles) |
 | Uckington Civil Parish, Cheltenham | A4019 westbound carriageway<br>From a point 96 metres east of the centre point of the new A4019 junction with Site Access B to a point 10 metres east of the centre point of the new A4019 junction with Site Access B, as shown between point o and point p on sheet 14 of the speed limits and traffic regulations plans, comprising 86 metres. | Bus Lane (with specified exemptions for authorised vehicles) |
 
-### PART 6 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-a8fafc4a3bc021a31d8d43d81921bc26]
+### PART 6 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-a8fafc4a3bc021a31d8d43d81921bc26]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Title of Order* | *(4)*<br>*Revocations or variations* |
 | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Article 14
 | Boddington Civil Parish, Tewkesbury | B4634 Old Gloucester Road | The Gloucestershire County Council (Various Speed Limits) (Various Parishes within the Tewkesbury Borough) Order 2006 | Order to be varied from 50mph to 40mph between a point 850 metres west of its junction with the centreline of Pilgrove Way (40219) and a point 230 metres south-west of its junction with the centreline of Hayden Lane (40427), as shown between points C and D on sheet 16 of the speed limits and traffic regulations plans, for a total distance of 978 metres |
 | Uckington Civil Parish, Tewkesbury | The Green (3/84) | The Gloucestershire County Council (Various Speed Limits) (Bishops Cleeve; Stoke Orchard; Tredington; Hardwicke and Uckington) Order 2005 | Order to be varied from 30mph to 40mph from its junction with the proposed kerbline on the northern side of Tewkesbury Road (A4019) to a point 24 metres north of this point, as shown by point E on sheet 13 of the speed limits and traffic regulations plans, for a total distance of 24 metres |
 
-### PART 7 — PUBLIC RIGHTS OF WAY[^key-f7c6a0c814ee539f7b00e97c1c1ebd41]
+### PART 7 — PUBLIC RIGHTS OF WAY[^c-f7c6a0c814ee539f7b00e97c1c1ebd41]
 
 | *(1)*<br>*Area* | *(2)*<br>*Status and length of public right of way* |
 | --- | --- |
@@ -136,16 +136,16 @@ Article 14
 
 ## Annotations
 
-[^key-d5e37790d1a5dc39d489abde068d7657]: Commencement: Sch. 3 Pt. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-d5e37790d1a5dc39d489abde068d7657]: Commencement: Sch. 3 Pt. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-2105bfe234321062e2e121929c8dce61]: Commencement: Sch. 3 Pt. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-2105bfe234321062e2e121929c8dce61]: Commencement: Sch. 3 Pt. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-2aad6f133b17d560afd6a775561ff052]: Commencement: Sch. 3 Pt. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-2aad6f133b17d560afd6a775561ff052]: Commencement: Sch. 3 Pt. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-6ffdf24270f6bbf5b2c58e351da8b9cb]: Commencement: Sch. 3 Pt. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-6ffdf24270f6bbf5b2c58e351da8b9cb]: Commencement: Sch. 3 Pt. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-99b716962ae497a73ab9e2c848671ef2]: Commencement: Sch. 3 Pt. 5 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-99b716962ae497a73ab9e2c848671ef2]: Commencement: Sch. 3 Pt. 5 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-a8fafc4a3bc021a31d8d43d81921bc26]: Commencement: Sch. 3 Pt. 6 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-a8fafc4a3bc021a31d8d43d81921bc26]: Commencement: Sch. 3 Pt. 6 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-f7c6a0c814ee539f7b00e97c1c1ebd41]: Commencement: Sch. 3 Pt. 7 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-f7c6a0c814ee539f7b00e97c1c1ebd41]: Commencement: Sch. 3 Pt. 7 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

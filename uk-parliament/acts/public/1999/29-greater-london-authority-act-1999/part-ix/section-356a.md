@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356A. London Waste and Recycling Board[^key-8d61584666a9240d83b38aef937cb1c9]
+## 356A. London Waste and Recycling Board[^c-8d61584666a9240d83b38aef937cb1c9]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (5) In carrying out its functions under this section, the Board must—
 
-- (a) act in accordance with the provisions of the London Environment Strategy dealing with municipal waste management[^key-25aafc8f113c823af0a549f19fbbf0dd];
+- (a) act in accordance with the provisions of the London Environment Strategy dealing with municipal waste management[^c-25aafc8f113c823af0a549f19fbbf0dd];
 - (b) act in general conformity with the spatial development strategy so far as relating to the collection, treatment and disposal of waste.
 
 (6) The Board may do anything that it thinks will facilitate, or is incidental or conducive to, the carrying out of its functions under subsections (2) to (4) above.
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d61584666a9240d83b38aef937cb1c9]: Textual amendment: Ss. 356A, 356B inserted (23.10.2007 for specified purposes, 24.7.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/38/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/2037](https://www.legislation.gov.uk/uksi/2008/2037), [art. 2](https://www.legislation.gov.uk/uksi/2008/2037/article/2)
+[^c-8d61584666a9240d83b38aef937cb1c9]: Textual amendment: Ss. 356A, 356B inserted (23.10.2007 for specified purposes, 24.7.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/38/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/2037](https://www.legislation.gov.uk/uksi/2008/2037), [art. 2](https://www.legislation.gov.uk/uksi/2008/2037/article/2)
 
-[^key-25aafc8f113c823af0a549f19fbbf0dd]: Textual amendment: Words in s. 356A(5) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 6(c)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/6/c); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-25aafc8f113c823af0a549f19fbbf0dd]: Textual amendment: Words in s. 356A(5) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 6(c)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/6/c); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

@@ -46,20 +46,20 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by section 44 of the Education Act 2002[^f00001]:
 
-## 1. Citation, commencement and application[^key-18edd044371a960072cac9f56e7f269d]
+## 1. Citation, commencement and application[^c-18edd044371a960072cac9f56e7f269d]
 
 (1) These Regulations may be cited as the Consistent Financial Reporting (England) Regulations 2012 and come into force on 31st March 2012.
 
 (2) These Regulations apply only in relation to England.
 
-## 2. Interpretation[^key-465571b865a7f67f16993ef43f3d2ced][^key-2ddb882430331f5b61b17c01362d6b2b]
+## 2. Interpretation[^c-465571b865a7f67f16993ef43f3d2ced][^c-2ddb882430331f5b61b17c01362d6b2b]
 
 In these Regulations, a reference to—
 
 - (a) a governing body means the governing body of any school which is maintained by a local authority other than a maintained nursery school or a pupil referral unit; and
 - (b) school resources means, in relation to any school, any resources held by the governing body and other resources whose application is controlled by the governing body.
 
-## 3. Reporting duties of governing bodies[^key-09fc0e34270ad8d7d4561d3ceef44806][^key-774fe415dd12477a684dc80e05ece9de]
+## 3. Reporting duties of governing bodies[^c-09fc0e34270ad8d7d4561d3ceef44806][^c-774fe415dd12477a684dc80e05ece9de]
 
 (1) Subject to paragraph (2), a governing body must provide the local authority with a financial statement, presented in accordance with the approved headings and sub-headings set out in the Schedule and in compliance with the normal established accounting practices of the local authority, of—
 
@@ -73,13 +73,13 @@ by a date determined by the local authority, having regard to regulation 5.
 
 (3) The sub-heading “I18 Additional grant for schools” set out under the heading “Income Data” in the Schedule does not apply in relation to the financial year ending 31st March 2012.
 
-**4.**[^key-65b0d0c656d008b6b130cc2e8c4dfb9b] The first provision of a financial statement under regulation 3 must be made in respect of the financial year ending 31st March 2012.
+**4.**[^c-65b0d0c656d008b6b130cc2e8c4dfb9b] The first provision of a financial statement under regulation 3 must be made in respect of the financial year ending 31st March 2012.
 
-## 5. Reporting duties of local authorities[^key-53cb349a826f811893edd185bca71662][^key-03e312ef0b6de9ec954d126f82155ab1]
+## 5. Reporting duties of local authorities[^c-53cb349a826f811893edd185bca71662][^c-03e312ef0b6de9ec954d126f82155ab1]
 
 The local authority must provide the Secretary of State with any financial statement provided to them in accordance with regulation 3 by the third Friday in the July following the financial year in respect of which the statement is made.
 
-## 6. Revocation[^key-795f6e7ea15f47ad8d0e63d47ba5a45b]
+## 6. Revocation[^c-795f6e7ea15f47ad8d0e63d47ba5a45b]
 
 The following Regulations are revoked—
 
@@ -97,7 +97,7 @@ Department for Education
 
 2nd March 2012
 
-## SCHEDULE — Approved Headings[^key-0ab8cde65c8ce560805dc35109c5256f][^key-0b42bdd185dc06d8fc5d6f90107b884a]
+## SCHEDULE — Approved Headings[^c-0ab8cde65c8ce560805dc35109c5256f][^c-0b42bdd185dc06d8fc5d6f90107b884a]
 
 Regulation 3
 
@@ -216,23 +216,23 @@ An impact assessment has not been prepared because no impact on the private or v
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 44 of the Education Act 2002 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). For the meaning of “prescribed” and “regulations”, see section 212(1) of the Act.
 
-[^key-18edd044371a960072cac9f56e7f269d]: Commencement: Reg. 1 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-18edd044371a960072cac9f56e7f269d]: Commencement: Reg. 1 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-465571b865a7f67f16993ef43f3d2ced]: Commencement: Reg. 2 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-465571b865a7f67f16993ef43f3d2ced]: Commencement: Reg. 2 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-2ddb882430331f5b61b17c01362d6b2b]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/674/regulation/2) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
+[^c-2ddb882430331f5b61b17c01362d6b2b]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/674/regulation/2) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
 
-[^key-09fc0e34270ad8d7d4561d3ceef44806]: Commencement: Reg. 3 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-09fc0e34270ad8d7d4561d3ceef44806]: Commencement: Reg. 3 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-774fe415dd12477a684dc80e05ece9de]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/674/regulation/3) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
+[^c-774fe415dd12477a684dc80e05ece9de]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/674/regulation/3) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
 
-[^key-65b0d0c656d008b6b130cc2e8c4dfb9b]: Commencement: Reg. 4 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-65b0d0c656d008b6b130cc2e8c4dfb9b]: Commencement: Reg. 4 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-53cb349a826f811893edd185bca71662]: Commencement: Reg. 5 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-53cb349a826f811893edd185bca71662]: Commencement: Reg. 5 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-03e312ef0b6de9ec954d126f82155ab1]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/674/regulation/5) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
+[^c-03e312ef0b6de9ec954d126f82155ab1]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/674/regulation/5) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
 
-[^key-795f6e7ea15f47ad8d0e63d47ba5a45b]: Commencement: Reg. 6 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-795f6e7ea15f47ad8d0e63d47ba5a45b]: Commencement: Reg. 6 in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2003/373](https://www.legislation.gov.uk/uksi/2003/373).
 
@@ -244,6 +244,6 @@ An impact assessment has not been prepared because no impact on the private or v
 
 [^f00006]: Footnote: [S.I. 2008/46](https://www.legislation.gov.uk/uksi/2008/46).
 
-[^key-0ab8cde65c8ce560805dc35109c5256f]: Commencement: Sch. in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
+[^c-0ab8cde65c8ce560805dc35109c5256f]: Commencement: Sch. in force at 31.3.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/674/regulation/1/1)
 
-[^key-0b42bdd185dc06d8fc5d6f90107b884a]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2012/674/schedule) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))
+[^c-0b42bdd185dc06d8fc5d6f90107b884a]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2012/674/schedule) applied (with modifications) (1.4.2013) by S.I. 2007/2979, Sch. 1 para. 30 (as substituted by [The Pupil Referral Units (Miscellaneous Amendments) (No.2) (England) Regulations 2012 (S.I. 2012/3158)](https://www.legislation.gov.uk/uksi/2012/3158), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3158/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2012/3158/regulation/3/10))

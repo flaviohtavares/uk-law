@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Borrowing from National Loans Fund[^key-217094ef218bd49f792eb116a11e6286]
+## 173. Borrowing from National Loans Fund[^c-217094ef218bd49f792eb116a11e6286]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 223A of the Financial Services and Markets Act 2000 (investing in 
 
 ## Annotations
 
-[^key-217094ef218bd49f792eb116a11e6286]: Commencement: S. 173 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-217094ef218bd49f792eb116a11e6286]: Commencement: S. 173 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

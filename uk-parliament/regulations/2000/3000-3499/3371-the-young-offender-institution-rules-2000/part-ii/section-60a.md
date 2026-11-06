@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60A. Adjudicator’s punishments[^key-cced169f134f83487c9ea987a5bd850e]
+## 60A. Adjudicator’s punishments[^c-cced169f134f83487c9ea987a5bd850e]
 
 *Extent: E+W*
 
 (1) If he finds a inmate guilty of an offence against discipline the adjudicator may, subject to paragraph (2) and to rule 65, impose one or more of the following punishments:
 
-- (a) the punishments mentioned in rule 60(1)(a) to 60(1)(h)[^key-b635476644c21a629b731fc69c3c33c0];
-- (b) in the case of an inmate who is a [^key-3201560420ca86d5457113bb52b077a9]... fixed-term prisoner[^key-30dfe02e4a550a6e77be73ad6ff40d4a], an award of additional days not exceeding 42 days.
+- (a) the punishments mentioned in rule 60(1)(a) to 60(1)(h)[^c-b635476644c21a629b731fc69c3c33c0];
+- (b) in the case of an inmate who is a [^c-3201560420ca86d5457113bb52b077a9]... fixed-term prisoner[^c-30dfe02e4a550a6e77be73ad6ff40d4a], an award of additional days not exceeding 42 days.
 
 (2) A caution shall not be combined with any other punishment for the same charge.
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cced169f134f83487c9ea987a5bd850e]: Textual amendment: [Rule 60A](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A) inserted (15.8.2002) by [The Young Offender Institution (Amendment) Rules 2002 (S.I. 2002/2117)](https://www.legislation.gov.uk/uksi/2002/2117), [rule 1](https://www.legislation.gov.uk/uksi/2002/2117/rule/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2002/2117/schedule/paragraph/6)
+[^c-cced169f134f83487c9ea987a5bd850e]: Textual amendment: [Rule 60A](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A) inserted (15.8.2002) by [The Young Offender Institution (Amendment) Rules 2002 (S.I. 2002/2117)](https://www.legislation.gov.uk/uksi/2002/2117), [rule 1](https://www.legislation.gov.uk/uksi/2002/2117/rule/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2002/2117/schedule/paragraph/6)
 
-[^key-b635476644c21a629b731fc69c3c33c0]: Textual amendment: Words in [rule 60A(1)(a)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/a) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/6)
+[^c-b635476644c21a629b731fc69c3c33c0]: Textual amendment: Words in [rule 60A(1)(a)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/a) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/6)
 
-[^key-3201560420ca86d5457113bb52b077a9]: Textual amendment: Words in [rule 60A(1)(b)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/b) omitted (13.8.2014 at 5 p.m.) by virtue of [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/5)
+[^c-3201560420ca86d5457113bb52b077a9]: Textual amendment: Words in [rule 60A(1)(b)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/b) omitted (13.8.2014 at 5 p.m.) by virtue of [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/5)
 
-[^key-30dfe02e4a550a6e77be73ad6ff40d4a]: Textual amendment: Words in [rule 60A(1)(b)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/b) added (3.1.2006) by [The Young Offender Institution (Amendment) (No. 2) Rules 2005 (S.I. 2005/3438)](https://www.legislation.gov.uk/uksi/2005/3438), [rule 1](https://www.legislation.gov.uk/uksi/2005/3438/rule/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/3438/schedule/paragraph/11)
+[^c-30dfe02e4a550a6e77be73ad6ff40d4a]: Textual amendment: Words in [rule 60A(1)(b)](https://www.legislation.gov.uk/uksi/2000/3371/rule/60A/1/b) added (3.1.2006) by [The Young Offender Institution (Amendment) (No. 2) Rules 2005 (S.I. 2005/3438)](https://www.legislation.gov.uk/uksi/2005/3438), [rule 1](https://www.legislation.gov.uk/uksi/2005/3438/rule/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/3438/schedule/paragraph/11)

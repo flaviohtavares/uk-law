@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Duty to keep conduct requirements under review[^key-a3f71b64456e29eaaa1e21ce898f564e][^key-605680f8349204ad4068b2908d201cbd]
+## 25. Duty to keep conduct requirements under review[^c-a3f71b64456e29eaaa1e21ce898f564e][^c-605680f8349204ad4068b2908d201cbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The CMA must keep under review, in relation to a designated undertaking—
 
 ## Annotations
 
-[^key-a3f71b64456e29eaaa1e21ce898f564e]: Commencement: S. 25 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a3f71b64456e29eaaa1e21ce898f564e]: Commencement: S. 25 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-605680f8349204ad4068b2908d201cbd]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2024/13/section/25) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-605680f8349204ad4068b2908d201cbd]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2024/13/section/25) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Repeal of Workers (Predictable Terms and Conditions) Act 2023[^key-7d3400312e23020d058c4507f6a2afab][^key-d94b5780cdccfd01ac35ffc59415931d]
+## 7. Repeal of Workers (Predictable Terms and Conditions) Act 2023[^c-7d3400312e23020d058c4507f6a2afab][^c-d94b5780cdccfd01ac35ffc59415931d]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The [Workers (Predictable Terms and Conditions) Act 2023](https://www.legislatio
 
 ## Annotations
 
-[^key-7d3400312e23020d058c4507f6a2afab]: Commencement: S. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7d3400312e23020d058c4507f6a2afab]: Commencement: S. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d94b5780cdccfd01ac35ffc59415931d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/36/section/7) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/4)
+[^c-d94b5780cdccfd01ac35ffc59415931d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/36/section/7) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/4)

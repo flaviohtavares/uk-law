@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Authorisation for the year ending 31 March 2025
 
-### 1. Use of resources[^key-251fa955c96ffd9f5815879083a1b1a7]
+### 1. Use of resources[^c-251fa955c96ffd9f5815879083a1b1a7]
 
 (1) For the purposes of section 6(1) of the 2001 Act, this section and section 2 authorise the use of resources in the year ending 31 March 2025.
 
@@ -59,7 +59,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) £26,353,739,000 is authorised for use for current purposes, and
 - (b) £2,419,055,000 is authorised for use for capital purposes.
 
-### 2. Limits on use of resources[^key-fbeee07358159d6bfb9ba24b205ff8bd]
+### 2. Limits on use of resources[^c-fbeee07358159d6bfb9ba24b205ff8bd]
 
 (1) Schedule 1 contains estimates relating to the persons mentioned in section 1(3) for the year ending 31 March 2025 (“Schedule 1 estimates”).
 
@@ -90,11 +90,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) The authorisations in this section and in section 1 supersede those made by sections 7 and 8 of the Budget Act (Northern Ireland) 2024, which total £18,731,611,000.
 
-### 3. Issue of sum out of the Consolidated Fund[^key-cfe5100a0193f0bcbf1f449456d3fdd6]
+### 3. Issue of sum out of the Consolidated Fund[^c-cfe5100a0193f0bcbf1f449456d3fdd6]
 
 The Department may issue out of the Consolidated Fund and apply to the service of the year ending 31 March 2025 the sum of £25,255,627,000.
 
-### 4. Use of sum issued out of the Consolidated Fund[^key-f93314a571b4130231b2f60e6863cf80]
+### 4. Use of sum issued out of the Consolidated Fund[^c-f93314a571b4130231b2f60e6863cf80]
 
 (1) The sum that the Department may issue out of the Consolidated Fund under section 3 may be used for the year ending 31 March 2025 in accordance with subsection (2).
 
@@ -102,11 +102,11 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (3) The authorisations in this section and in section 3 supersede those made by sections 9 and 10 of the Budget Act (Northern Ireland) 2024, which total £15,724,763,000.
 
-### 5. Power to borrow[^key-3ffafde97992bc7dd3f22a62151047a9]
+### 5. Power to borrow[^c-3ffafde97992bc7dd3f22a62151047a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Use of income[^key-256b88d916955e27e1d17d3cac230c6e]
+### 6. Use of income[^c-256b88d916955e27e1d17d3cac230c6e]
 
 (1) In the year ending 31 March 2025, a person mentioned in section 1(3) may use income from a source specified in Part 3 of the Schedule 1 estimate relating to that person for a purpose specified in Part 2 of the estimate; but this is subject to subsections (2) to (5).
 
@@ -134,7 +134,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 ## Excesses for previous years
 
-### 7. Resources: excesses[^key-27778ac5e2dd47d99cc64b09c39c730d]
+### 7. Resources: excesses[^c-27778ac5e2dd47d99cc64b09c39c730d]
 
 (1) For the purposes of section 6(1) of the 2001 Act, this section authorises the use of resources by the Department of Education (“**the Department**”).
 
@@ -151,7 +151,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (6) An authorisation in this section for the use of resources by the Department for particular purposes in relation to a particular year is in addition to any resources authorised by or under any other statutory provisions to be used by the Department for those purposes in that year.
 
-### 8. Sums issued out of the Consolidated Fund: excesses[^key-6c5349760b92ffad39eee74288e3ce81]
+### 8. Sums issued out of the Consolidated Fund: excesses[^c-6c5349760b92ffad39eee74288e3ce81]
 
 (1) The Department may issue out of the Consolidated Fund and apply to the service of the year ending 31 March 2017 the sum of £397,000.
 
@@ -163,7 +163,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 ## Supplementary
 
-### 9. Interpretation[^key-4c862951fbb6f3f9042a4b52ae641e97]
+### 9. Interpretation[^c-4c862951fbb6f3f9042a4b52ae641e97]
 
 In this Act—
 
@@ -173,13 +173,13 @@ In this Act—
 - “**Schedule 1 estimate**” has the meaning given in section 2(1);
 - “**statutory provision**” has the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 10. Short title[^key-621935f2cadf8bd089f0103b419fa598]
+### 10. Short title[^c-621935f2cadf8bd089f0103b419fa598]
 
 This Act may be cited as the Budget (No. 2) Act (Northern Ireland) 2024.
 
 SCHEDULES
 
-## SCHEDULE 1 — ESTIMATES FOR THE YEAR ENDING 31 MARCH 2025[^key-8d1b9338c128524905ddf62a674169da]
+## SCHEDULE 1 — ESTIMATES FOR THE YEAR ENDING 31 MARCH 2025[^c-8d1b9338c128524905ddf62a674169da]
 
 Sections 2, 4 and 6.
 
@@ -1113,27 +1113,27 @@ The prosecution of offences; legal services; employment of independent counsel; 
 
 ## Annotations
 
-[^key-251fa955c96ffd9f5815879083a1b1a7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2024/4/section/1) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-251fa955c96ffd9f5815879083a1b1a7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2024/4/section/1) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-fbeee07358159d6bfb9ba24b205ff8bd]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2024/4/section/2) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-fbeee07358159d6bfb9ba24b205ff8bd]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2024/4/section/2) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-cfe5100a0193f0bcbf1f449456d3fdd6]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2024/4/section/3) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-cfe5100a0193f0bcbf1f449456d3fdd6]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2024/4/section/3) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-f93314a571b4130231b2f60e6863cf80]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2024/4/section/4) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-f93314a571b4130231b2f60e6863cf80]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2024/4/section/4) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-3ffafde97992bc7dd3f22a62151047a9]: Textual amendment: [S. 5](https://www.legislation.gov.uk/nia/2024/4/section/5) omitted (6.3.2025) by virtue of [Budget Act (Northern Ireland) 2025 (c. 1)](https://www.legislation.gov.uk/nia/2025/1), [s. 5(3)](https://www.legislation.gov.uk/nia/2025/1/section/5/3)
+[^c-3ffafde97992bc7dd3f22a62151047a9]: Textual amendment: [S. 5](https://www.legislation.gov.uk/nia/2024/4/section/5) omitted (6.3.2025) by virtue of [Budget Act (Northern Ireland) 2025 (c. 1)](https://www.legislation.gov.uk/nia/2025/1), [s. 5(3)](https://www.legislation.gov.uk/nia/2025/1/section/5/3)
 
-[^key-256b88d916955e27e1d17d3cac230c6e]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2024/4/section/6) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-256b88d916955e27e1d17d3cac230c6e]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2024/4/section/6) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-27778ac5e2dd47d99cc64b09c39c730d]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2024/4/section/7) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-27778ac5e2dd47d99cc64b09c39c730d]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2024/4/section/7) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-6c5349760b92ffad39eee74288e3ce81]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2024/4/section/8) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-6c5349760b92ffad39eee74288e3ce81]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2024/4/section/8) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-4c862951fbb6f3f9042a4b52ae641e97]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2024/4/section/9) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-4c862951fbb6f3f9042a4b52ae641e97]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2024/4/section/9) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-621935f2cadf8bd089f0103b419fa598]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2024/4/section/10) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-621935f2cadf8bd089f0103b419fa598]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2024/4/section/10) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
-[^key-8d1b9338c128524905ddf62a674169da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2024/4/schedule/1) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
+[^c-8d1b9338c128524905ddf62a674169da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2024/4/schedule/1) in operation at 18.10.2024, see [Act](https://www.legislation.gov.uk/nia/2024/4)
 
 [^M_I_340fa534-4040-408d-a95f-7f278419bf11]: Commencement: Sch. 2 Pt. 1 in operation at 18.10.2024, see Act
 

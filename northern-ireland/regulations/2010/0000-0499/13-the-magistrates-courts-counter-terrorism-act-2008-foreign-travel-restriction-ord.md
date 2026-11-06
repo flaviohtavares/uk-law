@@ -41,26 +41,26 @@ Coming into operation
 
 The Magistrates’ Courts Rules Committee makes the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001] after consultation with the Lord Chancellor and with the agreement of the Lord Chief Justice.
 
-## 1. Citation, commencement and interpretation[^key-efbbe9fd81f2d9d0ef279cdc9855fa83]
+## 1. Citation, commencement and interpretation[^c-efbbe9fd81f2d9d0ef279cdc9855fa83]
 
 (1) These Rules may be cited as the Magistrates’ Courts (Counter Terrorism Act 2008) (Foreign Travel Restriction Orders) Rules (Northern Ireland) 2010 and shall come into operation on 1st March 2010.
 
 (2) In these Rules, “foreign travel restriction order” means an order under Schedule 5 to the Counter Terrorism Act 2008[^f00002].
 
-## 2. Foreign Travel Restriction Orders[^key-11f934468244c4f81b94759efea9b68c]
+## 2. Foreign Travel Restriction Orders[^c-11f934468244c4f81b94759efea9b68c]
 
 (1) A summons issued on foot of a complaint for a foreign travel restriction order shall be in Form 1.
 
 (2) A foreign travel restriction order shall be in Form 2.
 
-(3) A summons issued on foot of a complaint for the variation, renewal or discharge of a foreign travel restriction order shall be made in Form 3[^key-973f743bdd994c25e3e8502db267a4e8]....
+(3) A summons issued on foot of a complaint for the variation, renewal or discharge of a foreign travel restriction order shall be made in Form 3[^c-973f743bdd994c25e3e8502db267a4e8]....
 
 (4) Subject to paragraph (5), service of a summons under these Rules may be effected by—
 
 - (a) a member of the Police Service of Northern Ireland serving a copy of the summons on the defendant in person; or
 - (b) by sending a copy of the summons by ordinary first class post to the defendant at his last known address (in which cases the summons shall be deemed to have been received in the ordinary course of post, unless the defendant proves that he did not receive it).
 
-(5) In the case of a summons on foot of a complaint for the variation or discharge of a foreign travel restriction order issued by the defendant mentioned in that order, service may be effected in accordance with paragraphs (2), (6) and (7) of Rule 11 of the Magistrates’ Courts (Northern Ireland) Rules 1984 by delivering a copy of the summons to any police station [^key-079fc8e3a585c94608b3cc9acf633fab]... and leaving a copy with the officer in charge or any other constable.
+(5) In the case of a summons on foot of a complaint for the variation or discharge of a foreign travel restriction order issued by the defendant mentioned in that order, service may be effected in accordance with paragraphs (2), (6) and (7) of Rule 11 of the Magistrates’ Courts (Northern Ireland) Rules 1984 by delivering a copy of the summons to any police station [^c-079fc8e3a585c94608b3cc9acf633fab]... and leaving a copy with the officer in charge or any other constable.
 
 (6) Where the court makes a foreign travel restriction order, the clerk of petty sessions shall serve a copy of the order on the defendant—
 
@@ -90,15 +90,15 @@ N Broderick
 
 Dated 26th January 2010
 
-## SCHEDULE[^key-42baa2a41ff5d3993df808dfece0d1df]
+## SCHEDULE[^c-42baa2a41ff5d3993df808dfece0d1df]
 
 Rule 2(1)
 
-[^key-9e5c26ae017195e989dc322bd3632e94][^key-7adeb1da9ddaf240c40dbc57daf4c995]Form 1
+[^c-9e5c26ae017195e989dc322bd3632e94][^c-7adeb1da9ddaf240c40dbc57daf4c995]Form 1
 
-[^key-4b6792ef3adb66fd3c2ff03f6b9ad7e3]Form 2
+[^c-4b6792ef3adb66fd3c2ff03f6b9ad7e3]Form 2
 
-[^key-93cba892d966ffbd43cf43aaa6e295cb][^key-cde5a50bb686c08a6520dc78ffd29a97]Form 3
+[^c-93cba892d966ffbd43cf43aaa6e295cb][^c-cde5a50bb686c08a6520dc78ffd29a97]Form 3
 
 EXPLANATORY NOTE
 
@@ -126,24 +126,24 @@ Rule 2(8) makes provision in respect of the interpretation of references to comp
 
 [^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-efbbe9fd81f2d9d0ef279cdc9855fa83]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2010/13/rule/1) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+[^c-efbbe9fd81f2d9d0ef279cdc9855fa83]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2010/13/rule/1) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
 
 [^f00002]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
 
-[^key-11f934468244c4f81b94759efea9b68c]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2010/13/rule/2) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+[^c-11f934468244c4f81b94759efea9b68c]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2010/13/rule/2) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
 
-[^key-973f743bdd994c25e3e8502db267a4e8]: Textual amendment: Words in [rule 2(3)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/3) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(a)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-973f743bdd994c25e3e8502db267a4e8]: Textual amendment: Words in [rule 2(3)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/3) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(a)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-079fc8e3a585c94608b3cc9acf633fab]: Textual amendment: Words in [rule 2(5)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/5) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-079fc8e3a585c94608b3cc9acf633fab]: Textual amendment: Words in [rule 2(5)](https://www.legislation.gov.uk/nisr/2010/13/rule/2/5) omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(1)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/1/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-42baa2a41ff5d3993df808dfece0d1df]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
+[^c-42baa2a41ff5d3993df808dfece0d1df]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) in operation at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2010/13/rule/1/1)
 
-[^key-9e5c26ae017195e989dc322bd3632e94]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9e5c26ae017195e989dc322bd3632e94]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7adeb1da9ddaf240c40dbc57daf4c995]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: the words “for the said petty sessions district” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7adeb1da9ddaf240c40dbc57daf4c995]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 1: the words “for the said petty sessions district” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-4b6792ef3adb66fd3c2ff03f6b9ad7e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 2: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4b6792ef3adb66fd3c2ff03f6b9ad7e3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 2: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-93cba892d966ffbd43cf43aaa6e295cb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-93cba892d966ffbd43cf43aaa6e295cb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: in the title, the words “Petty Sessions District of” and “County Court Division of” are omitted (31.10.2016) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-cde5a50bb686c08a6520dc78ffd29a97]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: the words “for the said petty sessions district” are omitted (5.7.2016 for specified purposes) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-cde5a50bb686c08a6520dc78ffd29a97]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/13/schedule) Form 3: the words “for the said petty sessions district” are omitted (5.7.2016 for specified purposes) by virtue of The Magistrates’ [Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [35(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/35/2/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

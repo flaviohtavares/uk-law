@@ -41,23 +41,23 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 129(4), 132(4)(b), and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(4)(b) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-557ac12af031fb6a0c1f93711b005a7b]
+## 1. Citation, commencement and interpretation[^c-557ac12af031fb6a0c1f93711b005a7b]
 
 (1) These Regulations may be cited as the Social Security (Discretionary Housing Payments Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 2nd July 2001.
 
 (2) In these Regulations—
 
-- [^key-b960e1020c1fc757cd77eb4f81441515]...
+- [^c-b960e1020c1fc757cd77eb4f81441515]...
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00005];
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006].
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Disregard of discretionary housing payments[^key-0934a34f3017243588f729a5bba4c3f4]
+## 2. Disregard of discretionary housing payments[^c-0934a34f3017243588f729a5bba4c3f4]
 
 There shall be added as—
 
-- (a)[^key-017203c0fb64bd4984dd989644a3e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-017203c0fb64bd4984dd989644a3e43d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 71 of Schedule 9 to the Income Support Regulations[^f00009];
 - (c) paragraph 67 of Schedule 6 to the Jobseeker’s Allowance Regulations[^f00010],
 
@@ -69,7 +69,7 @@ the following paragraph—
 
 (2) There shall be inserted as—
 
-- (a)[^key-21f7c81d44b5a9a099b18a77b17cd3b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-21f7c81d44b5a9a099b18a77b17cd3b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) sub-paragraph (*c*) in paragraph 7 of Schedule 10 to the Income Support Regulations;
 - (c) sub-paragraph (*d*) in paragraph 12 of Schedule 7 to the Jobseeker’s Allowance Regulations[^f00013],
 
@@ -105,9 +105,9 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-557ac12af031fb6a0c1f93711b005a7b]: Commencement: Reg. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/1)
+[^c-557ac12af031fb6a0c1f93711b005a7b]: Commencement: Reg. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/1)
 
-[^key-b960e1020c1fc757cd77eb4f81441515]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-b960e1020c1fc757cd77eb4f81441515]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
@@ -115,9 +115,9 @@ These Regulations do not impose a charge on business.
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0934a34f3017243588f729a5bba4c3f4]: Commencement: Reg. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/1)
+[^c-0934a34f3017243588f729a5bba4c3f4]: Commencement: Reg. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/261/regulation/1/1)
 
-[^key-017203c0fb64bd4984dd989644a3e43d]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2001/261/regulation/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-017203c0fb64bd4984dd989644a3e43d]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2001/261/regulation/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: Paragraph 70 was added by regulation 9 of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
@@ -125,6 +125,6 @@ These Regulations do not impose a charge on business.
 
 [^f00011]: Footnote: [S.R. 2001 No. 216](https://www.legislation.gov.uk/nisr/2001/216)
 
-[^key-21f7c81d44b5a9a099b18a77b17cd3b7]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/261/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-21f7c81d44b5a9a099b18a77b17cd3b7]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/261/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00013]: Footnote: Sub-paragraph (*c*) was inserted by regulation 2(21) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)

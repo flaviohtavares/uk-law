@@ -52,7 +52,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 321A(6), 368FA(6) and 368Z14(7) of the Communications Act 2003[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-b4af821a2d188cfa7684fc683358f023]
+## 1. Citation, commencement, extent and application[^c-b4af821a2d188cfa7684fc683358f023]
 
 (1) These Regulations may be cited as the Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) Regulations 2022.
 
@@ -62,7 +62,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) They apply in England, Wales, Scotland and Northern Ireland.
 
-## 2. Amendments to the Communications Act 2003[^key-a1c5188810fc8a21a4d557a263de2cf9]
+## 2. Amendments to the Communications Act 2003[^c-a1c5188810fc8a21a4d557a263de2cf9]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -73,8 +73,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (4) In section 368Z14 (prohibition of paid-for advertising of less healthy food and drink)—
 
 - (a) in subsection (1), for “1 January 2023”, substitute “1 October 2025”;
-- (b) in subsection (11), for “1 January 2023” each time it occurs, substitute “1 October 2025[^key-874e5c23d11f82cdf34717e646f2e8e3]”;
-- (c) in subsection (12)(a), for “1 January 2023”, substitute “1 October 2025[^key-39618948fb1afc60e7ed64ec7ae2d6f4]”.
+- (b) in subsection (11), for “1 January 2023” each time it occurs, substitute “1 October 2025[^c-874e5c23d11f82cdf34717e646f2e8e3]”;
+- (c) in subsection (12)(a), for “1 January 2023”, substitute “1 October 2025[^c-39618948fb1afc60e7ed64ec7ae2d6f4]”.
 
 Neil O’Brien
 
@@ -94,10 +94,10 @@ A full impact assessment of the effect that Schedule 18 to the Health and Care A
 
 [^f00001]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Sections 321A, 368FA and 368Z14 were inserted by paragraphs 1, 2 and 3 respectively of Schedule 18 to the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
 
-[^key-b4af821a2d188cfa7684fc683358f023]: Commencement: Reg. 1 in force at 31.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/1/2)
+[^c-b4af821a2d188cfa7684fc683358f023]: Commencement: Reg. 1 in force at 31.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/1/2)
 
-[^key-a1c5188810fc8a21a4d557a263de2cf9]: Commencement: Reg. 2 in force at 31.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/1/2)
+[^c-a1c5188810fc8a21a4d557a263de2cf9]: Commencement: Reg. 2 in force at 31.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/1/2)
 
-[^key-874e5c23d11f82cdf34717e646f2e8e3]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/2/4/b) substituted (30.12.2022) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1381)](https://www.legislation.gov.uk/uksi/2022/1381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/2/2)
+[^c-874e5c23d11f82cdf34717e646f2e8e3]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/2/4/b) substituted (30.12.2022) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1381)](https://www.legislation.gov.uk/uksi/2022/1381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/2/2)
 
-[^key-39618948fb1afc60e7ed64ec7ae2d6f4]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/2/4/c) substituted (30.12.2022) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1381)](https://www.legislation.gov.uk/uksi/2022/1381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/2/2)
+[^c-39618948fb1afc60e7ed64ec7ae2d6f4]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2022/1311/regulation/2/4/c) substituted (30.12.2022) by [The Communications Act 2003 (Restrictions on the Advertising of Less Healthy Food) (Effective Date) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1381)](https://www.legislation.gov.uk/uksi/2022/1381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1381/regulation/2/2)

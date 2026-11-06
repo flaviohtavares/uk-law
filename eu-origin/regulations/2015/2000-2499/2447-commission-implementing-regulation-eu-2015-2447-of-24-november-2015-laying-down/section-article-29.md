@@ -24,7 +24,7 @@ summary: ''
 
 Where the applicant has a large number of premises, and the applicable time-limit for taking the decision does not allow for examination of all those premises the customs authority may decide to examine only a representative proportion of those premises if it is satisfied that the applicant applies the same security and safety standards at all of its premises and apply the same common standards and procedures for maintaining its records at all of its premises.
 
-2. The customs authorities competent to take a decision may take into consideration the results of assessments or audits carried out in accordance with [^key-55820d48d10797279380435c9ba93fb8]... legislation to the extent they are relevant for the examination of the criteria referred to in Article 39 of the Code.
+2. The customs authorities competent to take a decision may take into consideration the results of assessments or audits carried out in accordance with [^c-55820d48d10797279380435c9ba93fb8]... legislation to the extent they are relevant for the examination of the criteria referred to in Article 39 of the Code.
 
 3. For the purposes of examining whether the criteria laid down in Article 39(b), (c) and (e) of the Code are fulfilled, the customs authorities may take into account expert conclusions provided by the applicant, where the expert having drawn up the conclusions is not related to the applicant within the meaning of Article 127 of this Regulation.
 
@@ -34,4 +34,4 @@ Where the applicant has a large number of premises, and the applicable time-limi
 
 ## Annotations
 
-[^key-55820d48d10797279380435c9ba93fb8]: Textual amendment: Word in [Art. 29(2)](https://www.legislation.gov.uk/eur/2015/2447/article/29/2) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(3)(e)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55820d48d10797279380435c9ba93fb8]: Textual amendment: Word in [Art. 29(2)](https://www.legislation.gov.uk/eur/2015/2447/article/29/2) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(3)(e)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

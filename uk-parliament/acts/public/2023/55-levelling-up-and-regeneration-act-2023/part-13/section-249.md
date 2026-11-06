@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Abbreviated references to certain Acts[^key-0eeab43706b639eb12d0761230026f1c]
+## 249. Abbreviated references to certain Acts[^c-0eeab43706b639eb12d0761230026f1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Act—
 
 ## Annotations
 
-[^key-0eeab43706b639eb12d0761230026f1c]: Commencement: S. 249 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-0eeab43706b639eb12d0761230026f1c]: Commencement: S. 249 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

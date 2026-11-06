@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Compulsory acquisition of rights etc.[^key-e5bd35722de6254ce9d10ffb7e203bed]
+## 20. Compulsory acquisition of rights etc.[^c-e5bd35722de6254ce9d10ffb7e203bed]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5bd35722de6254ce9d10ffb7e203bed]: Commencement: Art. 20 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-e5bd35722de6254ce9d10ffb7e203bed]: Commencement: Art. 20 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

@@ -24,9 +24,9 @@ Regulation 21
 
 ### The Animal By-Products (Identification) Regulations 1995
 
-**1.**[^key-a93ae7585bb8f251c1fc396d471244ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a93ae7585bb8f251c1fc396d471244ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a93ae7585bb8f251c1fc396d471244ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a93ae7585bb8f251c1fc396d471244ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Rendering (Fluid Treatment) (Scotland) Order 2001
 
@@ -50,7 +50,7 @@ Regulation 21
 
 ## Annotations
 
-[^key-a93ae7585bb8f251c1fc396d471244ef]: Textual amendment: Sch. 9 paras. 1, 2 revoked (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2013/307/schedule/3)
+[^c-a93ae7585bb8f251c1fc396d471244ef]: Textual amendment: Sch. 9 paras. 1, 2 revoked (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2013/307/schedule/3)
 
 [^c20301901]: Marginal citation: [S.S.I. 2001/189](https://www.legislation.gov.uk/ssi/2001/189), relevantly amended by [S.S.I. 2006/530](https://www.legislation.gov.uk/ssi/2006/530).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Consistency and co-ordination with characterisations and plans under the 2003 Act[^key-cb83917d3f51ed7c2627fa21c4277569]
+## 48. Consistency and co-ordination with characterisations and plans under the 2003 Act[^c-cb83917d3f51ed7c2627fa21c4277569]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb83917d3f51ed7c2627fa21c4277569]: Commencement: S. 48 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-cb83917d3f51ed7c2627fa21c4277569]: Commencement: S. 48 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

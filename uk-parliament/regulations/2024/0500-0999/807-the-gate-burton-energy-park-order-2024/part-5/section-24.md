@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Power to override easements and other rights[^key-1a0476efc416f8179d86286b7887b08a]
+## 24. Power to override easements and other rights[^c-1a0476efc416f8179d86286b7887b08a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a0476efc416f8179d86286b7887b08a]: Commencement: Art. 24 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-1a0476efc416f8179d86286b7887b08a]: Commencement: Art. 24 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

@@ -36,7 +36,7 @@ An Act to impose duties on the Treasury and the Office for Budget Responsibility
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Announcement of fiscally significant measures[^key-95d2d84f067f8fff369f42a513c50183][^key-961ed87729abe27d380caa0624229451]
+## 1. Announcement of fiscally significant measures[^c-95d2d84f067f8fff369f42a513c50183][^c-961ed87729abe27d380caa0624229451]
 
 (1) Part 1 of the Budget Responsibility and National Audit Act 2011 (budget responsibility) is amended as follows.
 
@@ -85,7 +85,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 >
 > (9) Paragraph 29 of Schedule 1 applies in respect of the reference in this section to the Treasury Committee of the House of Commons as it applies in respect of references to that Committee in Schedule 1.
 
-## 2. Extent, commencement and short title[^key-408447fe4e0da276b0d4aadc2b97c207]
+## 2. Extent, commencement and short title[^c-408447fe4e0da276b0d4aadc2b97c207]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -97,8 +97,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-95d2d84f067f8fff369f42a513c50183]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/24/section/2/2)
+[^c-95d2d84f067f8fff369f42a513c50183]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/24/section/2/2)
 
-[^key-961ed87729abe27d380caa0624229451]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/24/section/1) in force at 15.10.2024 by [S.I. 2024/1026](https://www.legislation.gov.uk/uksi/2024/1026), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1026/regulation/2)
+[^c-961ed87729abe27d380caa0624229451]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/24/section/1) in force at 15.10.2024 by [S.I. 2024/1026](https://www.legislation.gov.uk/uksi/2024/1026), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1026/regulation/2)
 
-[^key-408447fe4e0da276b0d4aadc2b97c207]: Commencement: S. 2 in force at Royal Assent
+[^c-408447fe4e0da276b0d4aadc2b97c207]: Commencement: S. 2 in force at Royal Assent

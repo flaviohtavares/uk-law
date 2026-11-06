@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Qualifying residential premises[^key-6177f7f86cf6614dbafc8a1f93c07cc7]
+## 2B. Qualifying residential premises[^c-6177f7f86cf6614dbafc8a1f93c07cc7]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6177f7f86cf6614dbafc8a1f93c07cc7]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/2004/34/section/2A), [2B](https://www.legislation.gov.uk/ukpga/2004/34/section/2B) and cross-heading inserted (27.12.2025 for the insertion of s. 2B for specified purposes, 22.6.2026 for the insertion of s. 2B for specified purposes) by Renters’ [Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5), [145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)
+[^c-6177f7f86cf6614dbafc8a1f93c07cc7]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/2004/34/section/2A), [2B](https://www.legislation.gov.uk/ukpga/2004/34/section/2B) and cross-heading inserted (27.12.2025 for the insertion of s. 2B for specified purposes, 22.6.2026 for the insertion of s. 2B for specified purposes) by Renters’ [Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5), [145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)

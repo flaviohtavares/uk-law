@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Requirements, appeals etc.[^key-057b0eea1bea5432a339187b0db23dd7]
+## 28. Requirements, appeals etc.[^c-057b0eea1bea5432a339187b0db23dd7]
 
 *Extent: E+W+S*
 
 (1) Where an application is made to the relevant planning authority for any consent, agreement or approval required by a requirement the undertaker may appeal, in the event that—
 
 - (a) the relevant planning authority refuses that consent, agreement or approval or grants it subject to conditions;
-- (b) the relevant planning authority does not give notice of its decision to the undertaker within eight weeks after the application has been made to the relevant planning authority or such other period that has been agreed by the undertaker and the relevant planning authority;[^key-aff483374fb8f675e218367d38e25bd7]
+- (b) the relevant planning authority does not give notice of its decision to the undertaker within eight weeks after the application has been made to the relevant planning authority or such other period that has been agreed by the undertaker and the relevant planning authority;[^c-aff483374fb8f675e218367d38e25bd7]
 - (c) on receipt of a request for any further information, the undertaker considers that either the whole or part of the specific information requested by the relevant authority is not necessary for consideration of the application; or
 - (d) on receipt of any further information requested, the relevant planning authority notifies the undertaker that the information provided is inadequate and requests additional information which the undertaker considers is not necessary for consideration of the application.
 
@@ -39,7 +39,7 @@ summary: ''
 
 (4) In the event that the appointed person considers that further information is necessary to consider the appeal, the appointed person must notify the appeal parties in writing specifying the further information required and the date by which the information is to be submitted and the appointed person must make any notification and set the date for the receipt of such further information having regard to the timescales in paragraph (2).
 
-(5) Any further information required under paragraph (4) must be provided by the appeal party from whom the further information was requested to the appointed person and the other appeal parties[^key-22798dd7ccf46247f404b6d6283adefe] on the date specified by the appointed person (the “specified date”), and the appointed person must notify the appeal parties of the revised timetable for the appeal on or before that day. The revised timetable for the appeal must require submission of written representations to the appointed person within ten working days of the specified date but otherwise is to be in accordance with the process and time limits set out in paragraphs (2)(c) to (2)(e).
+(5) Any further information required under paragraph (4) must be provided by the appeal party from whom the further information was requested to the appointed person and the other appeal parties[^c-22798dd7ccf46247f404b6d6283adefe] on the date specified by the appointed person (the “specified date”), and the appointed person must notify the appeal parties of the revised timetable for the appeal on or before that day. The revised timetable for the appeal must require submission of written representations to the appointed person within ten working days of the specified date but otherwise is to be in accordance with the process and time limits set out in paragraphs (2)(c) to (2)(e).
 
 (6) On an appeal under this paragraph, the appointed person may—
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-057b0eea1bea5432a339187b0db23dd7]: Commencement: Art. 28 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-057b0eea1bea5432a339187b0db23dd7]: Commencement: Art. 28 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
-[^key-aff483374fb8f675e218367d38e25bd7]: Textual amendment: Words in [art. 28(1)(b)](https://www.legislation.gov.uk/uksi/2021/1259/article/28/1/b) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
+[^c-aff483374fb8f675e218367d38e25bd7]: Textual amendment: Words in [art. 28(1)(b)](https://www.legislation.gov.uk/uksi/2021/1259/article/28/1/b) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
 
-[^key-22798dd7ccf46247f404b6d6283adefe]: Textual amendment: Words in [art. 28(5)](https://www.legislation.gov.uk/uksi/2021/1259/article/28/5) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
+[^c-22798dd7ccf46247f404b6d6283adefe]: Textual amendment: Words in [art. 28(5)](https://www.legislation.gov.uk/uksi/2021/1259/article/28/5) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)

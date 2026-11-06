@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred upon the National Assembly for Wales by sections 89(8), 97D and section 138(7) and (8) of the School Standards and Framework Act 1998[^f00001], and now vested in them[^f00002] make the following Regulations:
 
-## 1. Title, commencement and application[^key-c649b85838697cb4d18017a26549f7cf]
+## 1. Title, commencement and application[^c-c649b85838697cb4d18017a26549f7cf]
 
 (1) The title of these Regulations is the Education (Admission of Looked After Children) (Wales) Regulations 2009.
 
@@ -55,7 +55,7 @@ The Welsh Ministers in exercise of the powers conferred upon the National Assemb
 
 (4) The remainder of the Regulations come into force on 22 April 2009 and in relation to admission arrangements under which pupils are to be admitted to maintained schools in Wales in the school year 2010/2011 and any subsequent school year.
 
-## 2. Interpretation[^key-47e0f6d4e53b7607fca3770d5cfa9b40]
+## 2. Interpretation[^c-47e0f6d4e53b7607fca3770d5cfa9b40]
 
 (1) In these Regulations—
 
@@ -64,16 +64,16 @@ The Welsh Ministers in exercise of the powers conferred upon the National Assemb
 - “community school” (“*ysgol gymunedol*”) is to be interpreted in accordance with the 1998 Act;
 - “outside the normal admission round” (“*y tu allan i'r cylch derbyn arferol*”) is to be interpreted in accordance with regulations 2, 3 and 4 of the Education (Infant Class Sizes) (Wales) Regulations 1998[^f00003];
 - “oversubscription criteria” (“*meini prawf gordanysgrifio*”) means the criteria to be used to allocate places at a school if the admission authority receives more applications than there are places available;
-- “relevant looked after child”(“*plentyn perthnasol sy'n derbyn gofal*”) means a child who is looked after by a Welsh local authority in accordance with section 74 of the Social Services and Well-being (Wales) Act 2014[^key-1a2999fd71e09bc2c7f9144a0888d367] at the time of application for his or her admission to a school is made, and who the local authority has confirmed will be looked after at the time when he or she is admitted to the school;
+- “relevant looked after child”(“*plentyn perthnasol sy'n derbyn gofal*”) means a child who is looked after by a Welsh local authority in accordance with section 74 of the Social Services and Well-being (Wales) Act 2014[^c-1a2999fd71e09bc2c7f9144a0888d367] at the time of application for his or her admission to a school is made, and who the local authority has confirmed will be looked after at the time when he or she is admitted to the school;
 - “voluntary controlled school” (“*ysgol wirfoddol a reolir*”) is to be interpreted in accordance with the 1998 Act.
 
 (2) Any reference in these Regulations to an admission authority for a school giving priority in its oversubscription criteria to a relevant looked after child is a reference to the authority giving priority to such a child when determining its admission arrangements before the beginning of each school year in accordance with section 89(1) of the 1998 Act.
 
-## 3. Action to be taken by an admission authority to give priority to looked after children in its admission arrangements[^key-8982e26f25d265c234fe6af7ca80420f]
+## 3. Action to be taken by an admission authority to give priority to looked after children in its admission arrangements[^c-8982e26f25d265c234fe6af7ca80420f]
 
 Except where regulations 4, 5 or 6 apply, an admission authority for a maintained school must give first priority in its oversubscription criteria to all relevant looked after children.
 
-## 4. Schools which have been designated as having a religious character[^key-bc88f622e6d49388738562e2e240cedf]
+## 4. Schools which have been designated as having a religious character[^c-bc88f622e6d49388738562e2e240cedf]
 
 (1) This regulation applies to an admission authority for a school which has been designated by the Welsh Ministers as a school which has a religious character, in accordance with section 69(3) of the 1998 Act.
 
@@ -82,7 +82,7 @@ Except where regulations 4, 5 or 6 apply, an admission authority for a maintaine
 - (a) give first priority to all relevant looked after children who are of that faith over all other children of that faith; and
 - (b) give higher priority to all relevant looked after children not of that faith than all other children not of that faith.
 
-## 5. Schools which have pre-existing arrangements for selection[^key-874d69188733ac29c69b308971cd90a8]
+## 5. Schools which have pre-existing arrangements for selection[^c-874d69188733ac29c69b308971cd90a8]
 
 (1) This regulation applies to an admission authority for a school which at the beginning of the 1997-1998 school year made provision in their admission arrangements for selection by ability or by aptitude and has at all times since that date continued to do so, in accordance with section 100(1) of the 1998 Act.
 
@@ -90,19 +90,19 @@ Except where regulations 4, 5 or 6 apply, an admission authority for a maintaine
 
 (3) Where the admission authority has allocated places in accordance with paragraph (2), all relevant looked after children who have not been allocated a place on the basis of their ability or aptitude shall be given higher priority in the oversubscription criteria than all other children who have not been offered a place on the basis of their ability or aptitude.
 
-## 6. Schools which select by pupil banding[^key-2dce1b310ad4580bdfff3dd4042446ce]
+## 6. Schools which select by pupil banding[^c-2dce1b310ad4580bdfff3dd4042446ce]
 
 (1) This regulation applies to an admission authority for a school which makes provision for selection by ability to the extent that the arrangements are designed to secure that there is equal representation of all levels of ability among applicants, in accordance with section 101(1) of the 1998 Act.
 
 (2) The admission authority must give first priority in its oversubscription criteria to a relevant looked after child within each band over another child who is eligible for a school place within that band.
 
-## 7. Varying admission arrangements already determined for the school year 2010/2011[^key-31101456736ddd634c8b0ae6f6ca4959]
+## 7. Varying admission arrangements already determined for the school year 2010/2011[^c-31101456736ddd634c8b0ae6f6ca4959]
 
 (1) This regulation applies to admission authorities who have already determined their admission arrangements in accordance with section 89(4) of the 1998 Act in relation to the school year 2010/2011.
 
 (2) If an admission authority needs to vary its admission arrangements in order to comply with these Regulations it may vary them without the need to refer the proposed variation to the Welsh Ministers in accordance with section 89(5) of the 1998 Act.
 
-## 8. Admission of relevant looked after children to a maintained school in Wales outside the normal admission round[^key-c46c9ddee54a5b1ed81cfb84db44fc39]
+## 8. Admission of relevant looked after children to a maintained school in Wales outside the normal admission round[^c-c46c9ddee54a5b1ed81cfb84db44fc39]
 
 (1) Subject to regulation 9, this regulation applies where, outside the normal admission round, an application for admission has been made by a Welsh local authority in relation to a relevant looked after child to an admission authority for a maintained school in Wales.
 
@@ -116,7 +116,7 @@ Except where regulations 4, 5 or 6 apply, an admission authority for a maintaine
 
 (6) A reference under paragraph (5) may only be made on the grounds that the admission of the child to the school would seriously prejudice the provision of efficient education or the efficient use of resources.
 
-## 9. Admission of relevant looked after children to whom section 87 of the 1998 Act applies (admission of twice excluded pupils)[^key-4487e9418fdbb38561b6cde295bf2186]
+## 9. Admission of relevant looked after children to whom section 87 of the 1998 Act applies (admission of twice excluded pupils)[^c-4487e9418fdbb38561b6cde295bf2186]
 
 (1) Section 95(2) of the 1998 Act does not apply in relation to a decision made by, or on behalf of, a Welsh local education authority to admit to a school a relevant looked after child.
 
@@ -156,24 +156,24 @@ Regulation 9 disapplies section 95(2) of the School Standards and Framework Act 
 
 [^f00002]: Footnote: By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-c649b85838697cb4d18017a26549f7cf]: Commencement: Reg. 1 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-c649b85838697cb4d18017a26549f7cf]: Commencement: Reg. 1 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
-[^key-47e0f6d4e53b7607fca3770d5cfa9b40]: Commencement: Reg. 2 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-47e0f6d4e53b7607fca3770d5cfa9b40]: Commencement: Reg. 2 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
 [^f00003]: Footnote: S.I. [1998/1943](https://www.legislation.gov.uk/uksi/1998/1943).
 
-[^key-1a2999fd71e09bc2c7f9144a0888d367]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/821/regulation/2/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 109](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/109)
+[^c-1a2999fd71e09bc2c7f9144a0888d367]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/821/regulation/2/1) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 109](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/109)
 
-[^key-8982e26f25d265c234fe6af7ca80420f]: Commencement: Reg. 3 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-8982e26f25d265c234fe6af7ca80420f]: Commencement: Reg. 3 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
-[^key-bc88f622e6d49388738562e2e240cedf]: Commencement: Reg. 4 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-bc88f622e6d49388738562e2e240cedf]: Commencement: Reg. 4 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
-[^key-874d69188733ac29c69b308971cd90a8]: Commencement: Reg. 5 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-874d69188733ac29c69b308971cd90a8]: Commencement: Reg. 5 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
-[^key-2dce1b310ad4580bdfff3dd4042446ce]: Commencement: Reg. 6 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
+[^c-2dce1b310ad4580bdfff3dd4042446ce]: Commencement: Reg. 6 in force at 22.4.2009, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/4)
 
-[^key-31101456736ddd634c8b0ae6f6ca4959]: Commencement: Reg. 7 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
+[^c-31101456736ddd634c8b0ae6f6ca4959]: Commencement: Reg. 7 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
 
-[^key-c46c9ddee54a5b1ed81cfb84db44fc39]: Commencement: Reg. 8 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
+[^c-c46c9ddee54a5b1ed81cfb84db44fc39]: Commencement: Reg. 8 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
 
-[^key-4487e9418fdbb38561b6cde295bf2186]: Commencement: Reg. 9 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)
+[^c-4487e9418fdbb38561b6cde295bf2186]: Commencement: Reg. 9 in force at 22.4.2009, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2009/821/regulation/1/3)

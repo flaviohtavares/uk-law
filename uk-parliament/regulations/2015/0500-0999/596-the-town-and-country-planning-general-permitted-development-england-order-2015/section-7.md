@@ -24,8 +24,8 @@ Where, in relation to development permitted by any Class in Schedule 2 which is 
 
 - (a) within the period specified in the relevant provision of Schedule 2,
 - (b) where no period is specified, within a period of 8 weeks beginning with the day immediately following that on which the application is received by the authority, or
-- (c)[^key-e78dcf94ae626d673ed68bdacba62ebc] within such longer period than is referred to in paragraph (a) or (b) as may be agreed by the applicant and the authority in writing.
+- (c)[^c-e78dcf94ae626d673ed68bdacba62ebc] within such longer period than is referred to in paragraph (a) or (b) as may be agreed by the applicant and the authority in writing.
 
 ## Annotations
 
-[^key-e78dcf94ae626d673ed68bdacba62ebc]: Textual amendment: [Art. 7(c)](https://www.legislation.gov.uk/uksi/2015/596/article/7/c) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/632/regulation/4)
+[^c-e78dcf94ae626d673ed68bdacba62ebc]: Textual amendment: [Art. 7(c)](https://www.legislation.gov.uk/uksi/2015/596/article/7/c) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/632/regulation/4)

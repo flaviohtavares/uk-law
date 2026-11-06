@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Bad debts: entitlement to tax credit[^key-a424d1e23d04c088b790cb51c14929fd]
+## 10. Bad debts: entitlement to tax credit[^c-a424d1e23d04c088b790cb51c14929fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ as is attributable to the non-monetary consideration in question.
 
 ## Annotations
 
-[^key-a424d1e23d04c088b790cb51c14929fd]: Commencement: Reg. 10 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-a424d1e23d04c088b790cb51c14929fd]: Commencement: Reg. 10 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
 [^f00003]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).

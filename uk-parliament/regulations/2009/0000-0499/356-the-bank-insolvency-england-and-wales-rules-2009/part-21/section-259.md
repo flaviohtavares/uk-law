@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 259. Debt payable at future time[^key-7b1bd0833b2551988b805884a2d2aedc]
+## 259. Debt payable at future time[^c-7b1bd0833b2551988b805884a2d2aedc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 11.13 of the 1986 Rules[^f00086]. For paragraph (3) substitute “In 
 
 ## Annotations
 
-[^key-7b1bd0833b2551988b805884a2d2aedc]: Commencement: Rule 259 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-7b1bd0833b2551988b805884a2d2aedc]: Commencement: Rule 259 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00086]: Footnote: Paragraph (2) and (3) were substituted for the original paragraph (2) by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

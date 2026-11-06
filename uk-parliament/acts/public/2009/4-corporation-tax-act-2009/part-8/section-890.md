@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 890. Fungible assets: application of section 858[^key-4bdf6d1ceb4d5049358a717f18ce0f41]
+## 890. Fungible assets: application of section 858[^c-4bdf6d1ceb4d5049358a717f18ce0f41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bdf6d1ceb4d5049358a717f18ce0f41]: Textual amendment: S. 890 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/8)
+[^c-4bdf6d1ceb4d5049358a717f18ce0f41]: Textual amendment: S. 890 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/8)

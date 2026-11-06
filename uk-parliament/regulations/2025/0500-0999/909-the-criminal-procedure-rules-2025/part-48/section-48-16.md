@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.16. Magistrates’ courts’ powers to adjourn, etc.[^key-2687f399c2ccc4d90f56085af34a6546]
+## 48.16. Magistrates’ courts’ powers to adjourn, etc.[^c-2687f399c2ccc4d90f56085af34a6546]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2687f399c2ccc4d90f56085af34a6546]: Commencement: [Rule 48.16](https://www.legislation.gov.uk/uksi/2025/909/rule/48.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2687f399c2ccc4d90f56085af34a6546]: Commencement: [Rule 48.16](https://www.legislation.gov.uk/uksi/2025/909/rule/48.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01313]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 17 was amended by section 331 of, and paragraphs 20 and 33 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

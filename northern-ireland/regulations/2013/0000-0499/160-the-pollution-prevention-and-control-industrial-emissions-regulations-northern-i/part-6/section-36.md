@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Offences[^key-49055cd923676435f2b96fadcd5366b5]
+## 36. Offences[^c-49055cd923676435f2b96fadcd5366b5]
 
 *Extent: N.I.*
 
@@ -37,11 +37,11 @@ summary: ''
 - (i) intentionally to make a false entry in any record required to be kept under a condition of a permit;
 - (j) with intent to deceive, to forge or use a document issued or authorised to be issued under a condition of a permit or required for any purpose under a condition of a permit or to make or have in their possession a document so closely resembling any such document as to be likely to deceive;
 - (k) to fail to comply with an order made by a court under regulation 39;
-- (l) intentionally to obstruct an inspector in the exercise or performance of his powers or duties; [^key-cf2ba201f37f0a1b1d156448eb72fb35]...
-- (m) falsely to pretend to be an inspector; or[^key-29b1fd2eea57fa56122bf138ab5ed060]
-- (n)[^key-69439afb9d6aa993d228a6205be0744c] to fail to comply with paragraph 4, 7, or 10 of Schedule 13A.
+- (l) intentionally to obstruct an inspector in the exercise or performance of his powers or duties; [^c-cf2ba201f37f0a1b1d156448eb72fb35]...
+- (m) falsely to pretend to be an inspector; or[^c-29b1fd2eea57fa56122bf138ab5ed060]
+- (n)[^c-69439afb9d6aa993d228a6205be0744c] to fail to comply with paragraph 4, 7, or 10 of Schedule 13A.
 
-(2) A person guilty of an offence under sub-paragraph (a), (b), (d), (k) or (n)[^key-3d1d4823f71cd3d36b37c87b423039c9] of paragraph (1) shall be liable—
+(2) A person guilty of an offence under sub-paragraph (a), (b), (d), (k) or (n)[^c-3d1d4823f71cd3d36b37c87b423039c9] of paragraph (1) shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding £50,000 or to imprisonment for a term not exceeding six months or to both; and
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both.
@@ -68,14 +68,14 @@ summary: ''
 
 ## Annotations
 
-[^key-49055cd923676435f2b96fadcd5366b5]: Commencement: Reg. 36 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-49055cd923676435f2b96fadcd5366b5]: Commencement: Reg. 36 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-cf2ba201f37f0a1b1d156448eb72fb35]: Textual amendment: Word in [reg. 36(1)(l)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/l) omitted (10.12.2014) by virtue of [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/i)
+[^c-cf2ba201f37f0a1b1d156448eb72fb35]: Textual amendment: Word in [reg. 36(1)(l)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/l) omitted (10.12.2014) by virtue of [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/i)
 
-[^key-29b1fd2eea57fa56122bf138ab5ed060]: Textual amendment: Words in [reg. 36(1)(m)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/m) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/ii)
+[^c-29b1fd2eea57fa56122bf138ab5ed060]: Textual amendment: Words in [reg. 36(1)(m)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/m) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/ii)
 
-[^key-69439afb9d6aa993d228a6205be0744c]: Textual amendment: [Reg. 36(1)(n)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/n) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(iii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/iii)
+[^c-69439afb9d6aa993d228a6205be0744c]: Textual amendment: [Reg. 36(1)(n)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/1/n) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(a)(iii)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/a/iii)
 
-[^key-3d1d4823f71cd3d36b37c87b423039c9]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/2) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/b)
+[^c-3d1d4823f71cd3d36b37c87b423039c9]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2013/160/regulation/36/2) substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/8/b)
 
 [^f00025]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

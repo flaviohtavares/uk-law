@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Offences committed by partnerships and other unincorporated associations[^key-60f1ea5a48b86e7bcc429a77c6d1d08e][^key-3a44770bbbbb7c0a239625f54e655f46][^key-a1433de6fb658be32073af7afcf3e7dd][^key-94d05acd752fd771cac26c501187823c][^key-154dbf14cde995b680fa87b38b280f14][^key-ca6b718d5bcaa3c5bb204ee11fa8a144][^key-38c68f6fc76c4401e46c3f280de08554]
+## 77. Offences committed by partnerships and other unincorporated associations[^c-60f1ea5a48b86e7bcc429a77c6d1d08e][^c-3a44770bbbbb7c0a239625f54e655f46][^c-a1433de6fb658be32073af7afcf3e7dd][^c-94d05acd752fd771cac26c501187823c][^c-154dbf14cde995b680fa87b38b280f14][^c-ca6b718d5bcaa3c5bb204ee11fa8a144][^c-38c68f6fc76c4401e46c3f280de08554]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,16 +40,16 @@ summary: ''
 
 ## Annotations
 
-[^key-60f1ea5a48b86e7bcc429a77c6d1d08e]: Commencement: S. 77 in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/204/article/3/c)
+[^c-60f1ea5a48b86e7bcc429a77c6d1d08e]: Commencement: S. 77 in force at 1.2.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/204/article/3/c)
 
-[^key-3a44770bbbbb7c0a239625f54e655f46]: Commencement: S. 77 in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/204/article/2/c)
+[^c-3a44770bbbbb7c0a239625f54e655f46]: Commencement: S. 77 in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/204/article/2/c)
 
-[^key-a1433de6fb658be32073af7afcf3e7dd]: Commencement: S. 77 in force at 1.7.2007 for specified purposes for E. by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/b)
+[^c-a1433de6fb658be32073af7afcf3e7dd]: Commencement: S. 77 in force at 1.7.2007 for specified purposes for E. by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/b)
 
-[^key-94d05acd752fd771cac26c501187823c]: Commencement: S. 77 in force at 22.4.2008 for specified purposes for E.S. by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/c)
+[^c-94d05acd752fd771cac26c501187823c]: Commencement: S. 77 in force at 22.4.2008 for specified purposes for E.S. by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/c)
 
-[^key-154dbf14cde995b680fa87b38b280f14]: Commencement: S. 77 in force at 22.4.2008 for specified purposes by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/b)
+[^c-154dbf14cde995b680fa87b38b280f14]: Commencement: S. 77 in force at 22.4.2008 for specified purposes by [S.I. 2008/1147](https://www.legislation.gov.uk/uksi/2008/1147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/1147/article/3/b)
 
-[^key-ca6b718d5bcaa3c5bb204ee11fa8a144]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2006/28/section/77) in force at 13.12.2008 for specified purposes for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(b)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/b)
+[^c-ca6b718d5bcaa3c5bb204ee11fa8a144]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2006/28/section/77) in force at 13.12.2008 for specified purposes for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(b)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/b)
 
-[^key-38c68f6fc76c4401e46c3f280de08554]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2006/28/section/77) in force at 1.8.2012 for specified purposes for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/307/article/2/b)
+[^c-38c68f6fc76c4401e46c3f280de08554]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2006/28/section/77) in force at 1.8.2012 for specified purposes for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/307/article/2/b)

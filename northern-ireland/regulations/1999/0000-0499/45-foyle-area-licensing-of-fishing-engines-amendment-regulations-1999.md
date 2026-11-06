@@ -30,7 +30,7 @@ summary: ''
 
 Fisheries
 
-Foyle Area (Licensing of Fishing Engines) (Amendment) Regulations 1999 (revoked)[^key-a906f0f45d3527931c169bf5144b7841]
+Foyle Area (Licensing of Fishing Engines) (Amendment) Regulations 1999 (revoked)[^c-a906f0f45d3527931c169bf5144b7841]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st March 1999
 
-[^key-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a906f0f45d3527931c169bf5144b7841]
+## 1. Citation and commencement[^c-a906f0f45d3527931c169bf5144b7841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Foyle Area (Licensing of Fishing Engines) Regulations 1976[^key-a906f0f45d3527931c169bf5144b7841]
+## 2. Amendment to the Foyle Area (Licensing of Fishing Engines) Regulations 1976[^c-a906f0f45d3527931c169bf5144b7841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a906f0f45d3527931c169bf5144b7841]
+## 3. Revocation[^c-a906f0f45d3527931c169bf5144b7841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a906f0f45d3527931c169bf5144b7841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a906f0f45d3527931c169bf5144b7841]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/45) revoked (1.1.2000) by [Foyle Area (Licensing of Fishing Engines) (Amendment No. 2) Regulations 1999 (S.R. 1999/485)](https://www.legislation.gov.uk/nisr/1999/485), [regs. 1](https://www.legislation.gov.uk/nisr/1999/485/regulation/1), [3](https://www.legislation.gov.uk/nisr/1999/485/regulation/3),
+[^c-a906f0f45d3527931c169bf5144b7841]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/45) revoked (1.1.2000) by [Foyle Area (Licensing of Fishing Engines) (Amendment No. 2) Regulations 1999 (S.R. 1999/485)](https://www.legislation.gov.uk/nisr/1999/485), [regs. 1](https://www.legislation.gov.uk/nisr/1999/485/regulation/1), [3](https://www.legislation.gov.uk/nisr/1999/485/regulation/3),

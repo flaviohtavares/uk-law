@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Disclosure of information: interaction with external constraints[^key-24ab3bd39d8239e045081da366881378]
+## 95. Disclosure of information: interaction with external constraints[^c-24ab3bd39d8239e045081da366881378]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ab3bd39d8239e045081da366881378]: Commencement: S. 95 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)
+[^c-24ab3bd39d8239e045081da366881378]: Commencement: S. 95 in force at Royal Assent, see [s. 99(3)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/3)

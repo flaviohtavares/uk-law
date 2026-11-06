@@ -52,13 +52,13 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and application[^key-9ca1dd717b6ad5e5c1de35781ee6ca69]
+### 1. Citation, commencement and application[^c-9ca1dd717b6ad5e5c1de35781ee6ca69]
 
 (1) These Regulations may be cited as the Special Guardianship Regulations 2005 and shall come into force on 30th December 2005.
 
 (2) These Regulations apply to England only.
 
-### 2. Interpretation[^key-a3fd9985bd3a1551f870ab0b8345f442]
+### 2. Interpretation[^c-a3fd9985bd3a1551f870ab0b8345f442]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 - “relevant child” means a child in respect of whom—
   - (a) a special guardianship order is in force;
   - (b) a person has given notice to a local authority under section 14A(7) of the Act of his intention to make an application for a special guardianship order in accordance with section 14A(3) of the Act; or
-  - (c) a court is considering whether a special guardianship order should be made and has asked a local authority to conduct an investigation and prepare a report pursuant to section 14A(9) of the Act ;[^key-fdc09c0acbeb247dbfe1d24948671322]
+  - (c) a court is considering whether a special guardianship order should be made and has asked a local authority to conduct an investigation and prepare a report pursuant to section 14A(9) of the Act ;[^c-fdc09c0acbeb247dbfe1d24948671322]
 - “universal credit” means universal credit under Part 1 of the Welfare Reform Act 2012.
 
 (2) In any case where—
@@ -85,7 +85,7 @@ then, for the purposes of the continued provision of financial support and any r
 
 ### CHAPTER 1 — PROVISION OF SERVICES
 
-#### 3. Prescribed services[^key-daabf67a35b8e48ea20ed3c18ce63178]
+#### 3. Prescribed services[^c-daabf67a35b8e48ea20ed3c18ce63178]
 
 (1) For the purposes of section 14F(1)(b) of the Act the following services are prescribed as special guardianship support services (in addition to counselling, advice and information)—
 
@@ -110,26 +110,26 @@ then, for the purposes of the continued provision of financial support and any r
 
 (3) For the purposes of paragraph (1)(e)(ii) respite care that consists of the provision of accommodation must be accommodation provided by or on behalf of a local authority under section 23 of the Act (accommodation of looked after children) or by a voluntary organisation under section 59 of the Act.
 
-#### 4. Arrangements for securing provision of services[^key-03dd7f9d0ac43cccf35e10e03ac67d2a]
+#### 4. Arrangements for securing provision of services[^c-03dd7f9d0ac43cccf35e10e03ac67d2a]
 
 (1) The following are prescribed for the purposes of section 14F(9)(b) of the Act (persons who may provide special guardianship support services)—
 
 - (a) a registered adoption society;
 - (b) a registered adoption support agency;
 - (c) a registered fostering agency;
-- (d) a Local Health Board ,[^key-bd11045674a5e4f30a858ff6d1bb4995] an integrated care board[^key-043439c3cb0db86c77fba07937a6de56] and NHS England[^key-d82a894e99f5c0dd594cf2ec44e4416f];
-- (e)[^key-cd91ef1b13bca0355eff4641a9c7d563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a Local Health Board ,[^c-bd11045674a5e4f30a858ff6d1bb4995] an integrated care board[^c-043439c3cb0db86c77fba07937a6de56] and NHS England[^c-d82a894e99f5c0dd594cf2ec44e4416f];
+- (e)[^c-cd91ef1b13bca0355eff4641a9c7d563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph (1)—
 
 - (a) “registered adoption society” has the same meaning as in the Adoption and Children Act 2002;
-- (b)[^key-534016365b30d7849344d75c6769beba] “adoption support agency” has the same meaning as in the Adoption and Children Act 2002;
+- (b)[^c-534016365b30d7849344d75c6769beba] “adoption support agency” has the same meaning as in the Adoption and Children Act 2002;
 - (c) “fostering agency”—
   - (a) in relation to England, means a fostering agency within the meaning of section 4(4) of the Care Standards Act 2000, and
   - (b) in relation to Wales, means a fostering service within the meaning of paragraph 5 of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016;
 - (d) “registered” in relation to any such agency means that a person is registered in respect of it under Part 2 of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
 
-#### 5. Services for persons outside the area[^key-aaa3dab54a51b59722074ce114f8916c]
+#### 5. Services for persons outside the area[^c-aaa3dab54a51b59722074ce114f8916c]
 
 (1) Section 14F of the Act (special guardianship support services) applies to a local authority in respect of the following persons who are outside the authority’s area—
 
@@ -143,7 +143,7 @@ then, for the purposes of the continued provision of financial support and any r
 
 ### CHAPTER 2 — PROVISION OF FINANCIAL SUPPORT
 
-#### 6. Circumstances in which financial support is payable[^key-6e1f7d7a16bf2bf077340de6789fcf11]
+#### 6. Circumstances in which financial support is payable[^c-6e1f7d7a16bf2bf077340de6789fcf11]
 
 (1) Financial support is payable under this Chapter to a special guardian or prospective special guardian—
 
@@ -160,7 +160,7 @@ then, for the purposes of the continued provision of financial support and any r
   - (iii) an order for financial provision to be made to or for the benefit of the child; or
 - (d) where the local authority consider that it is appropriate to contribute to the expenditure necessary for the purposes of accommodating and maintaining the child, including the provision of furniture and domestic equipment, alterations to and adaptations of the home, provision of means of transport and provision of clothing, toys and other items necessary for the purpose of looking after the child.
 
-#### 7. Remuneration for former foster parents[^key-fc60260d8a38b7df65162607550278af]
+#### 7. Remuneration for former foster parents[^c-fc60260d8a38b7df65162607550278af]
 
 (1) Financial support under this Chapter may include an element of remuneration but only where the decision to include it is taken before the special guardianship order is made and the local authority consider it to be necessary in order to facilitate arrangements for a person to become a special guardian in a case where—
 
@@ -169,23 +169,23 @@ then, for the purposes of the continued provision of financial support and any r
 
 (2) But that element of remuneration ceases to be payable after the expiry of the period of two years from the making of the special guardianship order unless the local authority consider its continuation to be necessary having regard to the exceptional needs of the child or any other exceptional circumstances.
 
-#### 8. Payment of financial support[^key-ded6df9b870243129cb09e3331f853e7]
+#### 8. Payment of financial support[^c-ded6df9b870243129cb09e3331f853e7]
 
 Financial support under this Chapter may be paid—
 
 - (a) periodically, if it is provided to meet a need which is likely to give rise to recurring expenditure; or
 - (b) in any other case by a single payment or, if the local authority and the special guardian or prospective special guardian agree, by instalments.
 
-#### 9. Cessation of financial support[^key-79a6ed75e840a8f93102fa1ac39e98bb]
+#### 9. Cessation of financial support[^c-79a6ed75e840a8f93102fa1ac39e98bb]
 
 Financial support ceases to be payable to a special guardian or prospective special guardian if—
 
 - (a) the child ceases to have a home with him;
 - (b) the child ceases full-time education or training and commences employment;
-- (c) the child qualifies for universal credit,[^key-37409b5799c724e386cae2c40f33755c] income support , jobseeker's allowance or employment and support allowance[^key-1305c9280e66ae18021550c1a7f75df3] in his own right; or
+- (c) the child qualifies for universal credit,[^c-37409b5799c724e386cae2c40f33755c] income support , jobseeker's allowance or employment and support allowance[^c-1305c9280e66ae18021550c1a7f75df3] in his own right; or
 - (d) the child attains the age of 18 unless he continues in full-time education or training, when it may continue until the end of the course or training he is then undertaking.
 
-#### 10. Conditions[^key-9a2c37a9a8085b8bc612a5616c353aca]
+#### 10. Conditions[^c-9a2c37a9a8085b8bc612a5616c353aca]
 
 (1) Where financial support is to be paid periodically it is not payable until the special guardian or prospective special guardian agrees to the following conditions—
 
@@ -215,7 +215,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 ### CHAPTER 3 — ASSESSMENT AND PLANS
 
-#### 11. Request for assessment[^key-3b253b4e80d25b9981c42b3f268baf97]
+#### 11. Request for assessment[^c-3b253b4e80d25b9981c42b3f268baf97]
 
 (1) The following persons are prescribed for the purposes of section 14F(3) of the Act (persons at whose request an assessment must be carried out)—
 
@@ -233,7 +233,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 (4) Where the request of a person for an assessment relates to a particular special guardianship support service, or it appears to the local authority that a person’s needs for special guardianship support services may be adequately assessed by reference to a particular special guardianship support service, the local authority may carry out the assessment by reference to that service only.
 
-#### 12. Procedure for assessment[^key-51696dba5dacadabf593c623cac7e11d]
+#### 12. Procedure for assessment[^c-51696dba5dacadabf593c623cac7e11d]
 
 (1) Where the local authority carry out an assessment of a person’s needs for special guardianship support services they must have regard to such of the following considerations as are relevant to the assessment—
 
@@ -252,11 +252,11 @@ Financial support ceases to be payable to a special guardian or prospective spec
   - (i) any special guardian or prospective special guardian, as the case may be, of the child; or
   - (ii) any adult the local authority consider it appropriate to interview.
 
-(3) Where it appears to the local authority that the person may have a need for services from a Local Health Board,[^key-f4453d8bb67b71030c6d92b66e3b3476] an integrated care board, NHS England or another local authority[^key-18991f6b0d8ea673f4b445eb0074aa99], they must, as part of the assessment, consult that[^key-2fd53d9d219ac9e135cdc9447267a1bc] body[^key-7d2cea11f5736153e6ec71f4116d03be].
+(3) Where it appears to the local authority that the person may have a need for services from a Local Health Board,[^c-f4453d8bb67b71030c6d92b66e3b3476] an integrated care board, NHS England or another local authority[^c-18991f6b0d8ea673f4b445eb0074aa99], they must, as part of the assessment, consult that[^c-2fd53d9d219ac9e135cdc9447267a1bc] body[^c-7d2cea11f5736153e6ec71f4116d03be].
 
 (4) After undertaking an assessment, the local authority must prepare a written report of the assessment.
 
-#### 13. Assessment of need for financial support[^key-8f9064d90d8b0561249a3a47f4ffe828]
+#### 13. Assessment of need for financial support[^c-8f9064d90d8b0561249a3a47f4ffe828]
 
 (1) This regulation applies where the local authority carry out an assessment of a person’s need for financial support.
 
@@ -280,7 +280,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 (6) In paragraph (5)(a)(ii) “related person” means a relative of the child or any other person with whom the child has a relationship which appears to the local authority to be beneficial to the welfare of the child having regard to the factors specified in section 1(3) of the Act.
 
-#### 14. Plan[^key-f211463eb0b9d874968a413100dbc9d8]
+#### 14. Plan[^c-f211463eb0b9d874968a413100dbc9d8]
 
 (1) This regulation applies in relation to the requirement in section 14F(6) of the Act for the local authority to prepare a plan in accordance with which special guardianship support services are to be provided.
 
@@ -289,11 +289,11 @@ Financial support ceases to be payable to a special guardian or prospective spec
 - (a) they propose to provide special guardianship support services to a person on more than one occasion; and
 - (b) the services are not limited to the provision of advice or information.
 
-(3) Where it appears to the local authority that the person may have a need for services from a Local Health Board,[^key-dd7e71507298ae68b7db5487cd8257ec] an integrated care board, NHS England or another local authority[^key-f27bcf8a137acd18920cb48c9ef3a44f], they must consult that[^key-f06006b482b791b6e16337895ba8023d] body[^key-cb460828edeeedd0e660167ee748d7dd] before preparing the plan.
+(3) Where it appears to the local authority that the person may have a need for services from a Local Health Board,[^c-dd7e71507298ae68b7db5487cd8257ec] an integrated care board, NHS England or another local authority[^c-f27bcf8a137acd18920cb48c9ef3a44f], they must consult that[^c-f06006b482b791b6e16337895ba8023d] body[^c-cb460828edeeedd0e660167ee748d7dd] before preparing the plan.
 
 (4) The local authority must nominate a person to monitor the provision of the services in accordance with the plan.
 
-#### 15. Notice of proposal as to special guardianship support services[^key-e9f7f15dd4884e9f23d6eb7e78ecc0fb]
+#### 15. Notice of proposal as to special guardianship support services[^c-e9f7f15dd4884e9f23d6eb7e78ecc0fb]
 
 (1) Before making any decision under section 14F(5) of the Act as to a person’s needs for special guardianship support services, the local authority must allow the person an opportunity to make representations in accordance with this regulation.
 
@@ -315,7 +315,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 - (a) the person has made representations to the local authority or notified the local authority that he is satisfied with the proposed decision and, where applicable, the draft plan; or
 - (b) the period of time for making representations has expired.
 
-#### 16. Notification of decision as to special guardianship support services[^key-1ff23681c901cac9adcf7dc048f86cb7]
+#### 16. Notification of decision as to special guardianship support services[^c-1ff23681c901cac9adcf7dc048f86cb7]
 
 (1) After making their decision under section 14F(5) of the Act as to whether to provide special guardianship support services to a person, the local authority must give the person notice of that decision, including the reasons for it.
 
@@ -338,7 +338,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 ### CHAPTER 4 — REVIEWS
 
-#### 17. Reviews: general procedure[^key-ce21e21e25c6b3719cc7f2aa027333d7]
+#### 17. Reviews: general procedure[^c-ce21e21e25c6b3719cc7f2aa027333d7]
 
 (1) This regulation applies where the local authority provide special guardianship support services for a person other than financial support payable periodically.
 
@@ -361,7 +361,7 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 (7) The local authority must give the person notice of their decision (including the reasons for it) and, if applicable, details of the revised plan.
 
-#### 18. Review of financial support payable periodically[^key-c9f141a644b963fab2ac95e7b09921f4]
+#### 18. Review of financial support payable periodically[^c-c9f141a644b963fab2ac95e7b09921f4]
 
 (1) This regulation applies where the local authority provide financial support for a person payable periodically.
 
@@ -390,11 +390,11 @@ Financial support ceases to be payable to a special guardian or prospective spec
 
 ### CHAPTER 5 — URGENT CASES AND NOTICES
 
-#### 19. Urgent cases[^key-4ec46f60cc9967f0ddb9496503629625]
+#### 19. Urgent cases[^c-4ec46f60cc9967f0ddb9496503629625]
 
 Where any requirement applicable to the local authority in this Part in relation to carrying out an assessment, preparing a plan or giving notice would delay the provision of a service in a case of urgency, that requirement does not apply.
 
-#### 20. Notices[^key-2563ed10e8fad1ceeba7af1eb6560577]
+#### 20. Notices[^c-2563ed10e8fad1ceeba7af1eb6560577]
 
 (1) Any notice required to be given under this Part must be given in writing.
 
@@ -407,11 +407,11 @@ the notice must be given to his special guardian or prospective special guardian
 
 ## PART 3 — MISCELLANEOUS PROVISIONS IN RELATION TO SPECIAL GUARDIANSHIP
 
-### 21. Court report[^key-03a72207d294dc710819f528fc966809]
+### 21. Court report[^c-03a72207d294dc710819f528fc966809]
 
 The matters specified in the Schedule are the matters prescribed for the purposes of section 14A(8)(b) of the Act (matters to be dealt with in report for the court).
 
-### 22. Relevant authority for the purposes of section 24(5)(za) of the Act[^key-7ca8f4a2a70bf476b24eb34ce419389b]
+### 22. Relevant authority for the purposes of section 24(5)(za) of the Act[^c-7ca8f4a2a70bf476b24eb34ce419389b]
 
 For the purposes of section 24(5)(za) of the Act (persons qualifying for advice and assistance) the relevant authority shall be the local authority which last looked after the person.
 
@@ -431,7 +431,7 @@ Regulation 21
 
 The following matters are prescribed for the purposes of section 14A(8)(b) of the Act.
 
-**1.**[^key-4b746dd390a7e2e744b5cf3cce7f8c11] In respect of the child—
+**1.**[^c-4b746dd390a7e2e744b5cf3cce7f8c11] In respect of the child—
 
 - (a) name, sex, date and place of birth and address including local authority area;
 - (b) a photograph and physical description;
@@ -440,33 +440,33 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
 - (e) religious persuasion (including details of baptism, confirmation or equivalent ceremonies);
 - (f) details of any siblings including their dates of birth;
 - (g) the extent of the child’s contact with his relatives and any other person the local authority consider relevant;
-- (ga)[^key-ceaaa43b7ed5bb2cf9953c7951e4afe9] any harm which the child has suffered;
+- (ga)[^c-ceaaa43b7ed5bb2cf9953c7951e4afe9] any harm which the child has suffered;
 - (gb) any risk of future harm to the child posed by the child’s parents, relatives or any other person the local authority consider relevant;
 - (h) whether the child is or has been looked after by a local authority or is or has been provided with accommodation by a voluntary organisation and details (including dates) of placements by the authority or organisation;
 - (i) whether the prospective special guardian is a local authority foster parent of the child;
-- (j) a description of the child’s personality, his social development and his emotional and behavioural development and any related current needs or likely future[^key-91a58683b2f9fbaff8d46862129b96af] needs;
+- (j) a description of the child’s personality, his social development and his emotional and behavioural development and any related current needs or likely future[^c-91a58683b2f9fbaff8d46862129b96af] needs;
 - (k) details of the child’s interests, likes and dislikes;
 - (l) a health history and a description of the state of the child’s health which shall include any treatment the child is receiving;
 - (m) names, addresses and types of nurseries or schools attended with dates;
 - (n) the child’s educational attainments;
-- (o) whether the child is subject to a statement of special educational needs under the Children and Families Act 2014[^key-c043d24cde0ed53d5bcf571206138673]; and
+- (o) whether the child is subject to a statement of special educational needs under the Children and Families Act 2014[^c-c043d24cde0ed53d5bcf571206138673]; and
 - (p) details of any order made by a court with respect to the child under the Act including—
   - (i) the name of the court;
   - (ii) the order made; and
   - (iii) the date on which the order was made.
 
-**2.**[^key-b4e829bbc78123381976209b9085ae17] In respect of the child’s family—
+**2.**[^c-b4e829bbc78123381976209b9085ae17] In respect of the child’s family—
 
 - (a) name, date and place of birth and address (and the date on which their last address was confirmed) including local authority area of each parent of the child and his siblings under the age of 18;
 - (b) a photograph, if available, and physical description of each parent;
 - (c) nationality (and immigration status where appropriate) of each parent;
 - (d) racial origin and cultural and linguistic background of each parent;
-- (e) whether the child’s parents were married to , or civil partners of,[^key-b4a893d432e4a1c3110eb3856bad6be9] each other at the time of the child’s birth or have subsequently married or formed a civil partnership[^key-021f87dd9d9debd5245bd6bd0b38c8cd][^key-5c2cf0d28a557f3ed0ba1caec277b67c]...;
-- (ea)[^key-cfff6b8ec190e23b0a6b942fc5278645] whether—
+- (e) whether the child’s parents were married to , or civil partners of,[^c-b4a893d432e4a1c3110eb3856bad6be9] each other at the time of the child’s birth or have subsequently married or formed a civil partnership[^c-021f87dd9d9debd5245bd6bd0b38c8cd][^c-5c2cf0d28a557f3ed0ba1caec277b67c]...;
+- (ea)[^c-cfff6b8ec190e23b0a6b942fc5278645] whether—
   - (i) if the child’s parents have been married as mentioned in sub-paragraph (e), they are divorced or separated; or
   - (ii) if the child’s parents have been civil partners as so mentioned, the partnership has been dissolved or they are separated;
 - (f) where the child’s parents have been previously married or formed a civil partnership, the date of the marriage or civil partnership;
-- (g) where the child’s parents are not married or civil partners[^key-207e447516510b908c4ff9196b45a069], whether the father has parental responsibility and, if so, how it was acquired;
+- (g) where the child’s parents are not married or civil partners[^c-207e447516510b908c4ff9196b45a069], whether the father has parental responsibility and, if so, how it was acquired;
 - (h) if the identity or whereabouts of the father are not known, the information about him that has been ascertained and from whom, and the steps that have been taken to establish paternity;
 - (i) the past and present relationship of the child’s parents;
 - (j) where available, the following information in respect of each parent—
@@ -480,7 +480,7 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
   - (ii) whether the sibling is looked after by a local authority or provided with accommodation by a voluntary organisation; and
   - (iii) details of any court order made with respect to the sibling under the Act, including the name of the court, the order made and the date on which the order was made.
 
-**3.**[^key-80094c1ed49ae8fb6381276efc7ea46d] In respect of the wishes and feelings of the child and others—
+**3.**[^c-80094c1ed49ae8fb6381276efc7ea46d] In respect of the wishes and feelings of the child and others—
 
 - (a) an assessment of the child’s wishes and feelings (considered in light of his age and understanding) regarding—
   - (i) special guardianship;
@@ -496,7 +496,7 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
   and the date on which the wishes and feelings of each parent were last ascertained; and
 - (c) the wishes and feelings of any of the child’s relatives, or any other person the local authority consider relevant regarding the child and the dates on which those wishes and feelings were last ascertained.
 
-**4.**[^key-d4603d1a98b966d36101d04bffedecca] In respect of the prospective special guardian or, where two or more persons are jointly prospective special guardians, each of them—
+**4.**[^c-d4603d1a98b966d36101d04bffedecca] In respect of the prospective special guardian or, where two or more persons are jointly prospective special guardians, each of them—
 
 - (a) name, date and place of birth and address including local authority area;
 - (b) a photograph and physical description;
@@ -510,11 +510,11 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
 - (g) where the prospective special guardians wish to apply jointly, the nature of their relationship and an assessment of the stability of that relationship;
 - (h) if the prospective special guardian is a member of a couple and is applying alone for a special guardianship order, the reasons for this;
 - (i) whether the prospective special guardian is a relative of the child;
-- (j)[^key-93109241e8cf7d27ab340bc39dba6550] an assessment of the nature of the prospective special guardian’s current and past relationship with the child;
+- (j)[^c-93109241e8cf7d27ab340bc39dba6550] an assessment of the nature of the prospective special guardian’s current and past relationship with the child;
 - (k) a health history of the prospective special guardian including details of any serious physical or mental illness, any hereditary disease or disorder or disability;
 - (l) a description of how the prospective special guardian relates to adults and children;
 - (m) previous experience of caring for children;
-- (n)[^key-0101d7a0a1f9270d19ad4eb451411bd4] an assessment of the prospective special guardian’s parenting capacity, including:
+- (n)[^c-0101d7a0a1f9270d19ad4eb451411bd4] an assessment of the prospective special guardian’s parenting capacity, including:
   - (i) their understanding of, and ability to meet the child’s current and likely future needs, particularly, any needs the child may have arising from harm that the child has suffered;
   - (ii) their understanding of, and ability to protect the child from any current or future risk of harm posed by the child’s parents, relatives or any other person the local authority consider relevant, particularly in relation to contact between any such person and the child;
   - (iii) their ability and suitability to bring up the child until the child reaches the age of eighteen;
@@ -537,7 +537,7 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
 - (aa) any hopes and expectations the prospective special guardian has for the child’s future; and
 - (bb) the prospective special guardian’s wishes and feelings in relation to contact between the child and his relatives or any other person the local authority considers relevant.
 
-**5.**[^key-81137187cd0f919128f215ea9831a521] In respect of the local authority which completed the report—
+**5.**[^c-81137187cd0f919128f215ea9831a521] In respect of the local authority which completed the report—
 
 - (a) name and address;
 - (b) details of any past involvement of the local authority with the prospective special guardian, including any past preparation for that person to be a local authority foster parent or adoptive parent or special guardian;
@@ -545,20 +545,20 @@ The following matters are prescribed for the purposes of section 14A(8)(b) of th
 - (d) a summary of any special guardianship support services provided by the authority for the prospective special guardian, the child or the child’s parent and the period for which those services are to be provided; and
 - (e) where the local authority has decided not to provide special guardianship support services, the reasons why.
 
-**6.**[^key-36cf7cf9ad0dc435a62647591858d08b] A summary prepared by the medical professional who provided the information referred to in paragraphs 1(l) and 4(k).
+**6.**[^c-36cf7cf9ad0dc435a62647591858d08b] A summary prepared by the medical professional who provided the information referred to in paragraphs 1(l) and 4(k).
 
-**7.**[^key-d89ea8983daadea5c77bd392bd34e78a] The implications of the making of a special guardianship order for—
+**7.**[^c-d89ea8983daadea5c77bd392bd34e78a] The implications of the making of a special guardianship order for—
 
 - (a) the child;
 - (b) the child’s parent;
 - (c) the prospective special guardian and his family; and
 - (d) any other person the local authority considers relevant.
 
-**8.**[^key-75cbe0eadd46a2045e2c401a7c6ed295] The relative merits of special guardianship and other orders which may be made under the Act or the Adoption and Children Act 2002 with an assessment of whether the child’s long term interests would be best met by a special guardianship order.
+**8.**[^c-75cbe0eadd46a2045e2c401a7c6ed295] The relative merits of special guardianship and other orders which may be made under the Act or the Adoption and Children Act 2002 with an assessment of whether the child’s long term interests would be best met by a special guardianship order.
 
-**9.**[^key-8ee6dff9bf9ad99bd0586940b2defbaf] A recommendation as to whether or not the special guardianship order sought should be made in respect of the child and, if not, any alternative proposal in respect of the child.
+**9.**[^c-8ee6dff9bf9ad99bd0586940b2defbaf] A recommendation as to whether or not the special guardianship order sought should be made in respect of the child and, if not, any alternative proposal in respect of the child.
 
-**10.**[^key-9f90a49ae6f2556211cda67b6d03901a] A recommendation as to what arrangements there should be for contact between the child and his relatives or any person the local authority consider relevant.
+**10.**[^c-9f90a49ae6f2556211cda67b6d03901a] A recommendation as to what arrangements there should be for contact between the child and his relatives or any person the local authority consider relevant.
 
 (This note is not part of the Regulations)
 
@@ -584,122 +584,122 @@ A Regulatory Impact Assessment has been carried out for these Regulations and 
 
 [^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Sections 14A and 14F and 24(5)(za) were inserted by, respectively, section 115 of, and paragraph 60(c) of Schedule 3 to, the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-9ca1dd717b6ad5e5c1de35781ee6ca69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-9ca1dd717b6ad5e5c1de35781ee6ca69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-a3fd9985bd3a1551f870ab0b8345f442]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1109/regulation/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-a3fd9985bd3a1551f870ab0b8345f442]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2005/1109/regulation/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
 [^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
 [^f00003]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49). Section 16BA was inserted by section 6 of the National Health Service Reform and Health Care Professionals Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-fdc09c0acbeb247dbfe1d24948671322]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/2/1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/46/2)
+[^c-fdc09c0acbeb247dbfe1d24948671322]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/2/1) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/46/2)
 
-[^key-daabf67a35b8e48ea20ed3c18ce63178]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1109/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-daabf67a35b8e48ea20ed3c18ce63178]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/1109/regulation/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-03dd7f9d0ac43cccf35e10e03ac67d2a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-03dd7f9d0ac43cccf35e10e03ac67d2a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-bd11045674a5e4f30a858ff6d1bb4995]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/1/d) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/2)
+[^c-bd11045674a5e4f30a858ff6d1bb4995]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/1/d) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/2)
 
-[^key-043439c3cb0db86c77fba07937a6de56]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2005/1109) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-043439c3cb0db86c77fba07937a6de56]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2005/1109) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-d82a894e99f5c0dd594cf2ec44e4416f]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d82a894e99f5c0dd594cf2ec44e4416f]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-cd91ef1b13bca0355eff4641a9c7d563]: Textual amendment: [Reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/1/e) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/2)
+[^c-cd91ef1b13bca0355eff4641a9c7d563]: Textual amendment: [Reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/1/e) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/2)
 
-[^key-534016365b30d7849344d75c6769beba]: Textual amendment: [Reg. 4(2)(b)-(d)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/2/b) substituted for [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/2/b) (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/10/2)
+[^c-534016365b30d7849344d75c6769beba]: Textual amendment: [Reg. 4(2)(b)-(d)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/2/b) substituted for [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/4/2/b) (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/10/2)
 
-[^key-aaa3dab54a51b59722074ce114f8916c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1109/regulation/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-aaa3dab54a51b59722074ce114f8916c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/1109/regulation/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-6e1f7d7a16bf2bf077340de6789fcf11]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1109/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-6e1f7d7a16bf2bf077340de6789fcf11]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/1109/regulation/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-fc60260d8a38b7df65162607550278af]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1109/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-fc60260d8a38b7df65162607550278af]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/1109/regulation/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-ded6df9b870243129cb09e3331f853e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1109/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-ded6df9b870243129cb09e3331f853e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/1109/regulation/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-79a6ed75e840a8f93102fa1ac39e98bb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-79a6ed75e840a8f93102fa1ac39e98bb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-37409b5799c724e386cae2c40f33755c]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9/c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [46(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/46/3)
+[^c-37409b5799c724e386cae2c40f33755c]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9/c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [46(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/46/3)
 
-[^key-1305c9280e66ae18021550c1a7f75df3]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9/c) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2008/1879/regulation/7)
+[^c-1305c9280e66ae18021550c1a7f75df3]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/9/c) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2008/1879/regulation/7)
 
-[^key-9a2c37a9a8085b8bc612a5616c353aca]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/1109/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-9a2c37a9a8085b8bc612a5616c353aca]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/1109/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-3b253b4e80d25b9981c42b3f268baf97]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/1109/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-3b253b4e80d25b9981c42b3f268baf97]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2005/1109/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-51696dba5dacadabf593c623cac7e11d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-51696dba5dacadabf593c623cac7e11d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-f4453d8bb67b71030c6d92b66e3b3476]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/3/a)
+[^c-f4453d8bb67b71030c6d92b66e3b3476]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/3/a)
 
-[^key-18991f6b0d8ea673f4b445eb0074aa99]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(3)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/3/a)
+[^c-18991f6b0d8ea673f4b445eb0074aa99]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(3)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/3/a)
 
-[^key-2fd53d9d219ac9e135cdc9447267a1bc]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(3)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/3/b)
+[^c-2fd53d9d219ac9e135cdc9447267a1bc]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(3)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/3/b)
 
-[^key-7d2cea11f5736153e6ec71f4116d03be]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/21/2)
+[^c-7d2cea11f5736153e6ec71f4116d03be]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/12/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/21/2)
 
-[^key-8f9064d90d8b0561249a3a47f4ffe828]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/1109/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-8f9064d90d8b0561249a3a47f4ffe828]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/1109/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-f211463eb0b9d874968a413100dbc9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-f211463eb0b9d874968a413100dbc9d8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-dd7e71507298ae68b7db5487cd8257ec]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(4)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/4/a)
+[^c-dd7e71507298ae68b7db5487cd8257ec]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(4)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/4/a)
 
-[^key-f27bcf8a137acd18920cb48c9ef3a44f]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(4)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/4/a)
+[^c-f27bcf8a137acd18920cb48c9ef3a44f]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 56(4)(a)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/56/4/a)
 
-[^key-f06006b482b791b6e16337895ba8023d]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/4/b)
+[^c-f06006b482b791b6e16337895ba8023d]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 82(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/82/4/b)
 
-[^key-cb460828edeeedd0e660167ee748d7dd]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/21/3)
+[^c-cb460828edeeedd0e660167ee748d7dd]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/14/3) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/21/3)
 
-[^key-e9f7f15dd4884e9f23d6eb7e78ecc0fb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/1109/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-e9f7f15dd4884e9f23d6eb7e78ecc0fb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2005/1109/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-1ff23681c901cac9adcf7dc048f86cb7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/1109/regulation/16) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-1ff23681c901cac9adcf7dc048f86cb7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2005/1109/regulation/16) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-ce21e21e25c6b3719cc7f2aa027333d7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/1109/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-ce21e21e25c6b3719cc7f2aa027333d7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2005/1109/regulation/17) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-c9f141a644b963fab2ac95e7b09921f4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/1109/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-c9f141a644b963fab2ac95e7b09921f4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/1109/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-4ec46f60cc9967f0ddb9496503629625]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/1109/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-4ec46f60cc9967f0ddb9496503629625]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/1109/regulation/19) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-2563ed10e8fad1ceeba7af1eb6560577]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/1109/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-2563ed10e8fad1ceeba7af1eb6560577]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/1109/regulation/20) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-03a72207d294dc710819f528fc966809]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/1109/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-03a72207d294dc710819f528fc966809]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2005/1109/regulation/21) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-7ca8f4a2a70bf476b24eb34ce419389b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/1109/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-7ca8f4a2a70bf476b24eb34ce419389b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2005/1109/regulation/22) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-4b746dd390a7e2e744b5cf3cce7f8c11]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-4b746dd390a7e2e744b5cf3cce7f8c11]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-ceaaa43b7ed5bb2cf9953c7951e4afe9]: Textual amendment: [Sch. para. 1(ga)(gb)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/ga/gb) inserted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/111/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
+[^c-ceaaa43b7ed5bb2cf9953c7951e4afe9]: Textual amendment: [Sch. para. 1(ga)(gb)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/ga/gb) inserted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/111/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
 
-[^key-91a58683b2f9fbaff8d46862129b96af]: Textual amendment: Words in [Sch. para. 1(j)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/j) inserted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/111/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
+[^c-91a58683b2f9fbaff8d46862129b96af]: Textual amendment: Words in [Sch. para. 1(j)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/j) inserted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/111/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
 
-[^key-c043d24cde0ed53d5bcf571206138673]: Textual amendment: Words in [Sch. para. 1(o)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/o) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [18](https://www.legislation.gov.uk/uksi/2014/2103/article/18)
+[^c-c043d24cde0ed53d5bcf571206138673]: Textual amendment: Words in [Sch. para. 1(o)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/1/o) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [18](https://www.legislation.gov.uk/uksi/2014/2103/article/18)
 
-[^key-b4e829bbc78123381976209b9085ae17]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-b4e829bbc78123381976209b9085ae17]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-b4a893d432e4a1c3110eb3856bad6be9]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/i)
+[^c-b4a893d432e4a1c3110eb3856bad6be9]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/i)
 
-[^key-021f87dd9d9debd5245bd6bd0b38c8cd]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/ii)
+[^c-021f87dd9d9debd5245bd6bd0b38c8cd]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/ii)
 
-[^key-5c2cf0d28a557f3ed0ba1caec277b67c]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/iii)
+[^c-5c2cf0d28a557f3ed0ba1caec277b67c]: Textual amendment: Words in [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/e) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/a/iii)
 
-[^key-cfff6b8ec190e23b0a6b942fc5278645]: Textual amendment: [Sch. para. 2(ea)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/ea) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/b)
+[^c-cfff6b8ec190e23b0a6b942fc5278645]: Textual amendment: [Sch. para. 2(ea)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/ea) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/b)
 
-[^key-207e447516510b908c4ff9196b45a069]: Textual amendment: Words in [Sch. para. 2(g)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/g) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/c)
+[^c-207e447516510b908c4ff9196b45a069]: Textual amendment: Words in [Sch. para. 2(g)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/2/g) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 75(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/75/c)
 
-[^key-80094c1ed49ae8fb6381276efc7ea46d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-80094c1ed49ae8fb6381276efc7ea46d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/3) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-d4603d1a98b966d36101d04bffedecca]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-d4603d1a98b966d36101d04bffedecca]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-93109241e8cf7d27ab340bc39dba6550]: Textual amendment: [Sch. para. 4(j)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4/j) substituted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/111/regulation/5/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
+[^c-93109241e8cf7d27ab340bc39dba6550]: Textual amendment: [Sch. para. 4(j)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4/j) substituted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/111/regulation/5/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
 
-[^key-0101d7a0a1f9270d19ad4eb451411bd4]: Textual amendment: [Sch. para. 4(n)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4/n) substituted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/111/regulation/5/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
+[^c-0101d7a0a1f9270d19ad4eb451411bd4]: Textual amendment: [Sch. para. 4(n)](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/4/n) substituted (29.2.2016) by [The Special Guardianship (Amendment) Regulations 2016 (S.I. 2016/111)](https://www.legislation.gov.uk/uksi/2016/111), [regs. 1](https://www.legislation.gov.uk/uksi/2016/111/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/111/regulation/5/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2016/111/regulation/2))
 
-[^key-81137187cd0f919128f215ea9831a521]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-81137187cd0f919128f215ea9831a521]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/5) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-36cf7cf9ad0dc435a62647591858d08b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-36cf7cf9ad0dc435a62647591858d08b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/6) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-d89ea8983daadea5c77bd392bd34e78a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-d89ea8983daadea5c77bd392bd34e78a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/7) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-75cbe0eadd46a2045e2c401a7c6ed295]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-75cbe0eadd46a2045e2c401a7c6ed295]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/8) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-8ee6dff9bf9ad99bd0586940b2defbaf]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-8ee6dff9bf9ad99bd0586940b2defbaf]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/9) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
 
-[^key-9f90a49ae6f2556211cda67b6d03901a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)
+[^c-9f90a49ae6f2556211cda67b6d03901a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2005/1109/schedule/paragraph/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1109/regulation/1/1)

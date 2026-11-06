@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (revoked)[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+The Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (revoked)[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st August 2016
 
-[^key-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+## 1. Citation and commencement[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 39A (periodic support payments for new accredited RHI installations)[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+## 3. Amendment to regulation 39A (periodic support payments for new accredited RHI installations)[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 39B (periodic support payments for CHP systems using biomass or biogas in combination with other sources of energy)[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+## 4. Amendment to regulation 39B (periodic support payments for CHP systems using biomass or biogas in combination with other sources of energy)[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Periodic support payments for new solid biomass CHP systems[^key-52c6f0aaadfc9fa1f9481f3459d485e1]
+## 5. Periodic support payments for new solid biomass CHP systems[^c-52c6f0aaadfc9fa1f9481f3459d485e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52c6f0aaadfc9fa1f9481f3459d485e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52c6f0aaadfc9fa1f9481f3459d485e1]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(j)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/j) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-52c6f0aaadfc9fa1f9481f3459d485e1]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(j)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/j) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

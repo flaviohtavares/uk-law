@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Ill-health pension ceases to be payable[^key-0770abde7e01b568de89d8a2c4df0d8c]
+## 51. Ill-health pension ceases to be payable[^c-0770abde7e01b568de89d8a2c4df0d8c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0770abde7e01b568de89d8a2c4df0d8c]: Commencement: Reg. 51 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0770abde7e01b568de89d8a2c4df0d8c]: Commencement: Reg. 51 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

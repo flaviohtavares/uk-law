@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Vehicles for tests, trials or non-UK use etc: requirements as to weight[^key-e1421b56f858cc456bfe2fb9f19b51ca]
+## 40. Vehicles for tests, trials or non-UK use etc: requirements as to weight[^c-e1421b56f858cc456bfe2fb9f19b51ca]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1421b56f858cc456bfe2fb9f19b51ca]: Commencement: Art. 40 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e1421b56f858cc456bfe2fb9f19b51ca]: Commencement: Art. 40 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

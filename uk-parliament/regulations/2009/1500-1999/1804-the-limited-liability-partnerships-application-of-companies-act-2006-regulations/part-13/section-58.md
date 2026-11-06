@@ -61,7 +61,7 @@ Sections 1033 and 1034 apply to LLPs, modified so that they read as follows—
 > - (a) the LLP, and
 > - (b) every designated member of the LLP who is in default.
 >
-> (7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-77ff351bc9476968b36f00ee15add18a]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+> (7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-77ff351bc9476968b36f00ee15add18a]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 >
 > **1034. Effect of restoration to the register where property has vested as bona vacantia**
 >
@@ -93,4 +93,4 @@ Sections 1033 and 1034 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-77ff351bc9476968b36f00ee15add18a]: Textual amendment: Words in [reg. 58](https://www.legislation.gov.uk/uksi/2009/1804/regulation/58) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 14(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/14/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-77ff351bc9476968b36f00ee15add18a]: Textual amendment: Words in [reg. 58](https://www.legislation.gov.uk/uksi/2009/1804/regulation/58) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 14(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/14/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

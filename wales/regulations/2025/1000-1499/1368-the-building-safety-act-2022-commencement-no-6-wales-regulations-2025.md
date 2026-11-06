@@ -37,11 +37,11 @@ Made
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred on them by section 170(4)(b)(i), (4)(b)(iii), (4)(b)(vi) and (4)(b)(viii) of the Building Safety Act 2022[^f00001].
 
-## 1. Title[^key-16b9e223ef490cda6960155cae3fb0bf]
+## 1. Title[^c-16b9e223ef490cda6960155cae3fb0bf]
 
 The title of these Regulations is the Building Safety Act 2022 (Commencement No. 6) (Wales) Regulations 2025.
 
-## 2. Provisions coming into force on 1 July 2026[^key-b6f0e0e7677cabe1531f08d0c6fdf50f]
+## 2. Provisions coming into force on 1 July 2026[^c-b6f0e0e7677cabe1531f08d0c6fdf50f]
 
 The following provisions of the Building Safety Act 2022 come into force, in relation to Wales, on 1 July 2026—
 
@@ -146,8 +146,8 @@ The following provisions of the 2022 Act have been brought into force in relatio
 
 [^f00001]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30).
 
-[^key-16b9e223ef490cda6960155cae3fb0bf]: Commencement: Reg. 1 in force at made date
+[^c-16b9e223ef490cda6960155cae3fb0bf]: Commencement: Reg. 1 in force at made date
 
-[^key-b6f0e0e7677cabe1531f08d0c6fdf50f]: Commencement: Reg. 2 in force at made date
+[^c-b6f0e0e7677cabe1531f08d0c6fdf50f]: Commencement: Reg. 2 in force at made date
 
 [^f00002]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55).

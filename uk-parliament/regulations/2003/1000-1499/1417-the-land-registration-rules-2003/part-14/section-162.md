@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-26532471d14dfd07da8271408eef6c0e] An application to register a transfer by a personal representative, who is not already registered as proprietor, must be accompanied by—
+(1)[^c-26532471d14dfd07da8271408eef6c0e] An application to register a transfer by a personal representative, who is not already registered as proprietor, must be accompanied by—
 
-- (a) the original grant of probate of the deceased proprietor and, where section 7 of the Administration of Estates[^key-a3f1fee1962aa823284a493412d50e49] Act 1925 applies, the original grant of probate showing the chain of representation, to prove that the transferor is his personal representative,
+- (a) the original grant of probate of the deceased proprietor and, where section 7 of the Administration of Estates[^c-a3f1fee1962aa823284a493412d50e49] Act 1925 applies, the original grant of probate showing the chain of representation, to prove that the transferor is his personal representative,
 - (b) the original letters of administration of the deceased proprietor showing the transferor as his personal representative,
 - (c) a court order appointing the transferor as the deceased’s personal representative, or
 - (d) (where a conveyancer is acting for the applicant) a certificate given by a conveyancer that the conveyancer holds the original or a certified or office copy of such grant of probate, letters of administration or court order.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26532471d14dfd07da8271408eef6c0e]: Textual amendment: Rule 162(1) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/51) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-26532471d14dfd07da8271408eef6c0e]: Textual amendment: Rule 162(1) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/51) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
 
-[^key-a3f1fee1962aa823284a493412d50e49]: Textual amendment: Word in [rule 162(1)(a)](https://www.legislation.gov.uk/uksi/2003/1417/rule/162/1/a) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/27)
+[^c-a3f1fee1962aa823284a493412d50e49]: Textual amendment: Word in [rule 162(1)(a)](https://www.legislation.gov.uk/uksi/2003/1417/rule/162/1/a) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/27)

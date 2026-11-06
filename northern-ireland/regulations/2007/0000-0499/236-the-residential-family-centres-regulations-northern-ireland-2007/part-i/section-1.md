@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-94dbd29c220c26cd04f6a07ceff3b344]
+## 1. Citation, commencement and extent[^c-94dbd29c220c26cd04f6a07ceff3b344]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Residential Family Centres Regulations (No
 
 ## Annotations
 
-[^key-94dbd29c220c26cd04f6a07ceff3b344]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-94dbd29c220c26cd04f6a07ceff3b344]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

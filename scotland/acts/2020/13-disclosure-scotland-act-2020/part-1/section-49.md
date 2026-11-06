@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Suitable persons to have access to disclosure information[^key-ed84ef166d80753ae26296b5407a7876][^key-b6c8a3f8bbe953c35403db9a2f965f4c]
+## 49. Suitable persons to have access to disclosure information[^c-ed84ef166d80753ae26296b5407a7876][^c-b6c8a3f8bbe953c35403db9a2f965f4c]
 
 *Extent: S*
 
@@ -87,6 +87,6 @@ include references to any process applying in England and Wales or Northern Irel
 
 ## Annotations
 
-[^key-ed84ef166d80753ae26296b5407a7876]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-ed84ef166d80753ae26296b5407a7876]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-b6c8a3f8bbe953c35403db9a2f965f4c]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-b6c8a3f8bbe953c35403db9a2f965f4c]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 862. Inspection of declarations[^key-61722d073743b3041a19f72e94c1104c]
+## 862. Inspection of declarations[^c-61722d073743b3041a19f72e94c1104c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61722d073743b3041a19f72e94c1104c]: Textual amendment: S. 862 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/51)
+[^c-61722d073743b3041a19f72e94c1104c]: Textual amendment: S. 862 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/51)

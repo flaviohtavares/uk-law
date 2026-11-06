@@ -108,7 +108,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 32 — Mandatory licensing conditions relating to alcohol](part-3/section-32.md)
 - [Section 33 — Individual members of licensing authorities to be interested parties](part-3/section-33.md)
 
-### Part 4 — Injunctions: gang-related violence and drug-dealing activity[^key-e5175f786498af25a39736914510bc2e]
+### Part 4 — Injunctions: gang-related violence and drug-dealing activity[^c-e5175f786498af25a39736914510bc2e]
 
 *Extent: E+W*
 
@@ -146,7 +146,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 46 — Further provision about remands](part-4/section-46.md)
 - [Section 46A — Breach of injunction: supplementary powers in respect of under-18s](part-4/section-46a.md)
 
-#### Appeals[^key-cf003a9859ccfc1a4f5e08eb648712d8]
+#### Appeals[^c-cf003a9859ccfc1a4f5e08eb648712d8]
 
 - [Section 46B — Appeals against decisions of youth courts](part-4/section-46b.md)
 
@@ -308,6 +308,6 @@ Schedules
 
 ## Annotations
 
-[^key-e5175f786498af25a39736914510bc2e]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2009/26/part/4) heading inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 83](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/83); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)
+[^c-e5175f786498af25a39736914510bc2e]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2009/26/part/4) heading inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 83](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/83); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)
 
-[^key-cf003a9859ccfc1a4f5e08eb648712d8]: Textual amendment: S. 46B and cross-heading inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-cf003a9859ccfc1a4f5e08eb648712d8]: Textual amendment: S. 46B and cross-heading inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Water (Scotland) Act 1980: meaning of “wholesome”[^key-10a7112680de90e89253a3539b5fd9be]
+## 43. Water (Scotland) Act 1980: meaning of “wholesome”[^c-10a7112680de90e89253a3539b5fd9be]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10a7112680de90e89253a3539b5fd9be]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2017/282/regulation/43) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-10a7112680de90e89253a3539b5fd9be]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2017/282/regulation/43) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00020]: Footnote: [1980 c.45](https://www.legislation.gov.uk/ukpga/1980/45), as last amended by [S.S.I. 2014/364](https://www.legislation.gov.uk/ssi/2014/364).

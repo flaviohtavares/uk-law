@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Public consultation[^key-17af098926e1b52db2b30053e4513eb6]
+## 62. Public consultation[^c-17af098926e1b52db2b30053e4513eb6]
 
 *Extent: E+W+S*
 
@@ -31,11 +31,11 @@ summary: ''
 - (g) the Scottish Ministers,
 - (h) the National Assembly for Wales,
 - (i) organisations representing local authorities in England,
-- (j)[^key-04405410df5f0c38793cecd3fbd3bf50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k) the Office of Rail and Road[^key-5406bfdbab3ce31a93b83a06531c7b90],
+- (j)[^c-04405410df5f0c38793cecd3fbd3bf50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k) the Office of Rail and Road[^c-5406bfdbab3ce31a93b83a06531c7b90],
 - (l) the Rail Accident Investigation Branch,
-- (m)[^key-42a4689bacf835fcccfbf8df4ecb29c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-42a4689bacf835fcccfbf8df4ecb29c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-42a4689bacf835fcccfbf8df4ecb29c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-42a4689bacf835fcccfbf8df4ecb29c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (o) other persons with an interest in the railways whom the Authority thinks it appropriate to consult.
 
 (2) The Authority shall make, and review from time to time, arrangements to invite the co-operation of the persons listed in subsection (1) in preventing crime on the railways.
@@ -53,10 +53,10 @@ summary: ''
 
 ## Annotations
 
-[^key-17af098926e1b52db2b30053e4513eb6]: Commencement: S. 62 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ss)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ss)
+[^c-17af098926e1b52db2b30053e4513eb6]: Commencement: S. 62 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ss)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ss)
 
-[^key-04405410df5f0c38793cecd3fbd3bf50]: Textual amendment: S. 62(1)(j) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-04405410df5f0c38793cecd3fbd3bf50]: Textual amendment: S. 62(1)(j) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-5406bfdbab3ce31a93b83a06531c7b90]: Textual amendment: Words in s. 62(1)(k) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2/c)
+[^c-5406bfdbab3ce31a93b83a06531c7b90]: Textual amendment: Words in s. 62(1)(k) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2/c)
 
-[^key-42a4689bacf835fcccfbf8df4ecb29c8]: Textual amendment: S. 62(1)(m)(n) repealed (1.4.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
+[^c-42a4689bacf835fcccfbf8df4ecb29c8]: Textual amendment: S. 62(1)(m)(n) repealed (1.4.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)

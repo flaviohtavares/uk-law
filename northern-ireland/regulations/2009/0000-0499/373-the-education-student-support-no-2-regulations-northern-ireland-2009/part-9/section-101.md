@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Payment of loans for living costs and long courses loans[^key-c32179361c1676d8259ec7190e48f800]
+## 101. Payment of loans for living costs and long courses loans[^c-c32179361c1676d8259ec7190e48f800]
 
 *Extent: N.I.*
 
@@ -50,12 +50,12 @@ summary: ''
 
 (15) Where, after the Department has made any payment of support under Part 6 for which a student qualifies in respect of an academic year, the Department makes a determination that the amount of loan for living costs or long courses loan for which the student qualifies is less than the amount previously determined either by way of a revision of a provisional assessment or otherwise—
 
-- (a)[^key-5943f8703e700c4e83965cd4c82827bd] the Department must subtract from any amount of loan which remains to be paid under Part 6 such an amount as is necessary to ensure that the student does not borrow an amount of loan under Part 6 which is greater than that for which the student qualifies;
+- (a)[^c-5943f8703e700c4e83965cd4c82827bd] the Department must subtract from any amount of loan which remains to be paid under Part 6 such an amount as is necessary to ensure that the student does not borrow an amount of loan under Part 6 which is greater than that for which the student qualifies;
 - (b) if the amount to be subtracted is greater than the amount of loan remaining to be paid under Part 6, the amount of that loan remaining to be paid is reduced to nil;
 - (c) any remaining overpayment is recoverable in accordance with Chapter 5 of this Part.
 
 ## Annotations
 
-[^key-c32179361c1676d8259ec7190e48f800]: Commencement: Reg. 101 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-c32179361c1676d8259ec7190e48f800]: Commencement: Reg. 101 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-5943f8703e700c4e83965cd4c82827bd]: Textual amendment: [Reg. 101(15)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/101/15/a)[(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/101/15/b) substituted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/223)](https://www.legislation.gov.uk/nisr/2013/223), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/223/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2013/223/regulation/10)
+[^c-5943f8703e700c4e83965cd4c82827bd]: Textual amendment: [Reg. 101(15)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/101/15/a)[(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/101/15/b) substituted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/223)](https://www.legislation.gov.uk/nisr/2013/223), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/223/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2013/223/regulation/10)

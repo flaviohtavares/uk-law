@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q9. Effect of member being absent or leaving and rejoining this Section of the scheme during the contribution option period[^key-9b20b94a7a52bbabe391504e1765cc68]
+## Q9. Effect of member being absent or leaving and rejoining this Section of the scheme during the contribution option period[^c-9b20b94a7a52bbabe391504e1765cc68]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b20b94a7a52bbabe391504e1765cc68]: Modification: Regs. Q8-Q15 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-9b20b94a7a52bbabe391504e1765cc68]: Modification: Regs. Q8-Q15 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)

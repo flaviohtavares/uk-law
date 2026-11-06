@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Power to enter fish farms, shellfish farms, etc.[^key-8691ed65609aa907e89d36bfe2afc661]
+## 20. Power to enter fish farms, shellfish farms, etc.[^c-8691ed65609aa907e89d36bfe2afc661]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8691ed65609aa907e89d36bfe2afc661]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/7/section/20) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-8691ed65609aa907e89d36bfe2afc661]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/7/section/20) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -29,15 +29,15 @@ Colonial Naval Defence Act 1949 (repealed)
 
 1949 c.18
 
-[^key-0f93ec440feee7a043e4eeb51847cabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f93ec440feee7a043e4eeb51847cabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Amendment and extension of 21 & 22 GeorgeGeo. 5. c. 9.[^key-0f93ec440feee7a043e4eeb51847cabc][^key-0f93ec440feee7a043e4eeb51847cabc]
+## 1. Amendment and extension of 21 & 22 GeorgeGeo. 5. c. 9.[^c-0f93ec440feee7a043e4eeb51847cabc][^c-0f93ec440feee7a043e4eeb51847cabc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and citation.[^key-0f93ec440feee7a043e4eeb51847cabc][^key-0f93ec440feee7a043e4eeb51847cabc]
+## 2. Short title and citation.[^c-0f93ec440feee7a043e4eeb51847cabc][^c-0f93ec440feee7a043e4eeb51847cabc]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Colonial Naval Defence Act 1949 (repealed)
 
 ## Annotations
 
-[^key-0f93ec440feee7a043e4eeb51847cabc]: Textual amendment: Act repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0f93ec440feee7a043e4eeb51847cabc]: Textual amendment: Act repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

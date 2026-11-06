@@ -48,7 +48,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement, application and interpretation[^key-d306737a3c34380bbf19bca128bab451]
+### 1. Citation, commencement, application and interpretation[^c-d306737a3c34380bbf19bca128bab451]
 
 (1) These Regulations may be cited as the Nutrition (Amendment etc.) (EU Exit) Regulations 2020.
 
@@ -68,11 +68,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 2 — Amendment of the 2019 Regulations
 
-### 2. Amendment of Part 1 of the 2019 Regulations[^key-35454e06c115a0c3081951970749d313]
+### 2. Amendment of Part 1 of the 2019 Regulations[^c-35454e06c115a0c3081951970749d313]
 
 In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application), for “the United Kingdom” substitute “ England and Wales and Scotland ”.
 
-### 3. Amendment of Part 2 of the 2019 Regulations[^key-1fa2b3c30c8977696ed51f9a0b52142c]
+### 3. Amendment of Part 2 of the 2019 Regulations[^c-1fa2b3c30c8977696ed51f9a0b52142c]
 
 *Extent: E+W+S*
 
@@ -87,7 +87,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 
 (3) Omit regulation 9 (regulations: Northern Ireland).
 
-### 4. Amendment of Part 3 of the 2019 Regulations[^key-0c535ee4dadb5687f68aacc4c4c6ceaf]
+### 4. Amendment of Part 3 of the 2019 Regulations[^c-0c535ee4dadb5687f68aacc4c4c6ceaf]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 - (a) omit paragraph (2);
 - (b) in paragraph (4), in the substituted words, for “ UK ” substitute “Great Britain”.
 
-### 5. Amendment of Part 4 of the 2019 Regulations[^key-a2c0988cd89a5dfaacef2794d85065b0]
+### 5. Amendment of Part 4 of the 2019 Regulations[^c-a2c0988cd89a5dfaacef2794d85065b0]
 
 *Extent: E+W+S*
 
@@ -189,7 +189,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
     - (bb) in paragraph 3, omit sub-paragraph (d);
   - (ii) omit the inserted Article 16E (regulations: Northern Ireland).
 
-### 6. Amendment of Part 5 of the 2019 Regulations[^key-3746a2ccf6aa946915f1bc03a6724c0f]
+### 6. Amendment of Part 5 of the 2019 Regulations[^c-3746a2ccf6aa946915f1bc03a6724c0f]
 
 *Extent: E+W+S*
 
@@ -279,7 +279,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 
 *Extent: E+W+S*
 
-### 7. Amendment of 2009/980/EU: Commission Decision[^key-ea4d9f4284df4bd278c95dbc598c3818]
+### 7. Amendment of 2009/980/EU: Commission Decision[^c-ea4d9f4284df4bd278c95dbc598c3818]
 
 (1) 2009/980/EU: Commission Decision of 17 December 2009 authorising a health claim on the effect of water-soluble tomato concentrate on platelet aggregation and granting the protection of proprietary data under Regulation [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) of the European Parliament and of the Council is amended as follows.
 
@@ -287,11 +287,11 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 
 (3) Omit Article 2.
 
-### 8. Amendment of Commission Delegated Regulation (EU) 2016/127[^key-df22c3c1fe3792894058b70ca45e434f]
+### 8. Amendment of Commission Delegated Regulation (EU) 2016/127[^c-df22c3c1fe3792894058b70ca45e434f]
 
 (1) Commission Delegated Regulation (EU) 2016/127 of 25 September 2015 supplementing Regulation (EU) No 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for infant formula and follow-on formula and as regards requirements on information relating to infant and young child feeding is—
 
-- (a) modified so that from 22nd February 2022[^key-08fe12c8c5a70d5f167463288d3e1c28] it applies to infant formula and follow-on formula manufactured from protein hydrolysates; and
+- (a) modified so that from 22nd February 2022[^c-08fe12c8c5a70d5f167463288d3e1c28] it applies to infant formula and follow-on formula manufactured from protein hydrolysates; and
 - (b) amended as follows.
 
 (2) In Article 10 (requirements for promotional and commercial practices for infant formula)—
@@ -352,7 +352,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 - (a) in Part A (name referred to in Article 5(1)), for “:” where it first appears to the end of that Part, substitute “ “ Infant formula ” and “Follow-on formula”.”;
 - (b) in Part B (name referred to in Article 5(2)), for “:” where it first appears to the end of that Part, substitute “ “ Infant milk ” and “Follow-on milk”.”.
 
-### 9. Amendment of Commission Delegated Regulation (EU) 2019/343[^key-3af21460d000b4619e0889919cae6cd0]
+### 9. Amendment of Commission Delegated Regulation (EU) 2019/343[^c-3af21460d000b4619e0889919cae6cd0]
 
 (1) Commission Delegated Regulation (EU) 2019/343 of 28 February 2019 providing derogations from Article 1(3) of Regulation [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on food for the use of certain generic descriptors is amended as follows.
 
@@ -365,7 +365,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 > | Hard and soft sweets based on sugars as well as sugar-free and calorie-reduced variants based on sweeteners (polyols and/or intense sweeteners) containing extracts of herbs, fruit or other plant substances, honey or malt | Cough drops |
 > | Non-alcoholic carbonated beverage containing the bittering agent quinine in the form of the flavourings FL 14.011, FL 14.152 or FL 14.155 as referred to in the domestic list of flavourings as laid down in Annex I to Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/eur/2008/1334) | Tonic |
 
-### 10. Amendment of Commission Regulation (EU) No 2019/651[^key-04ed16f048f155fb34bec378850d6bb6]
+### 10. Amendment of Commission Regulation (EU) No 2019/651[^c-04ed16f048f155fb34bec378850d6bb6]
 
 (1) Commission Regulation (EU) No 2019/651 of 24 April 2019 refusing to authorise a health claim made on foods and referring to children's development and health is amended as follows.
 
@@ -377,7 +377,7 @@ In Part 1 of the 2019 Regulations (preliminary), in regulation 1(2) (application
 
 *Extent: N.I.*
 
-### 11. Revocation of the Nutrition (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^key-7f07f44ac053a2b47e4cb20113d96737]
+### 11. Revocation of the Nutrition (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^c-7f07f44ac053a2b47e4cb20113d96737]
 
 The Nutrition (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 [^c24368641] are revoked.
 
@@ -409,15 +409,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24368601]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, last amended by Regulation (EU) 2019/1381 (OJ No. L 231, 6.9.2019, p.1).
 
-[^key-d306737a3c34380bbf19bca128bab451]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-d306737a3c34380bbf19bca128bab451]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24368611]: Marginal citation: [S.I. 2019/651](https://www.legislation.gov.uk/uksi/2019/651).
 
-[^key-35454e06c115a0c3081951970749d313]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-35454e06c115a0c3081951970749d313]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-1fa2b3c30c8977696ed51f9a0b52142c]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-1fa2b3c30c8977696ed51f9a0b52142c]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-0c535ee4dadb5687f68aacc4c4c6ceaf]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-0c535ee4dadb5687f68aacc4c4c6ceaf]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24368621]: Marginal citation: [S.I. 2009/3051](https://www.legislation.gov.uk/uksi/2009/3051), amended by [S.I. 2019/651](https://www.legislation.gov.uk/uksi/2019/651).
 
@@ -427,20 +427,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     2020/43.
 
-[^key-a2c0988cd89a5dfaacef2794d85065b0]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-a2c0988cd89a5dfaacef2794d85065b0]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-3746a2ccf6aa946915f1bc03a6724c0f]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-3746a2ccf6aa946915f1bc03a6724c0f]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-ea4d9f4284df4bd278c95dbc598c3818]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-ea4d9f4284df4bd278c95dbc598c3818]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
-[^key-df22c3c1fe3792894058b70ca45e434f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-df22c3c1fe3792894058b70ca45e434f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
-[^key-08fe12c8c5a70d5f167463288d3e1c28]: Textual amendment: Word in reg. 8(1)(a) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/3/2)
+[^c-08fe12c8c5a70d5f167463288d3e1c28]: Textual amendment: Word in reg. 8(1)(a) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/3/2)
 
-[^key-3af21460d000b4619e0889919cae6cd0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-3af21460d000b4619e0889919cae6cd0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
-[^key-04ed16f048f155fb34bec378850d6bb6]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-04ed16f048f155fb34bec378850d6bb6]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
-[^key-7f07f44ac053a2b47e4cb20113d96737]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-7f07f44ac053a2b47e4cb20113d96737]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24368641]: Marginal citation: [S.I. 2019/650](https://www.legislation.gov.uk/uksi/2019/650).

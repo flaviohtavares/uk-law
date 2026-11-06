@@ -85,11 +85,11 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 - [Section 20 — Request to appoint an officer of the Service or a Welsh family proceedings officer](part-3/section-20.md)
 - [Section 20A](part-3/section-20a.md)
 
-### PART 4 — Duties of Adoption Agency in Respect of a Prospective Adopter[^M_C_7478b00d-d3a1-471b-d96a-f26095f8a0e8][^key-a6790a297221401376e94bf718b934f2]
+### PART 4 — Duties of Adoption Agency in Respect of a Prospective Adopter[^M_C_7478b00d-d3a1-471b-d96a-f26095f8a0e8][^c-a6790a297221401376e94bf718b934f2]
 
 *Extent: E+W*
 
-#### Stage 1 – the pre-assessment process[^key-a6790a297221401376e94bf718b934f2]
+#### Stage 1 – the pre-assessment process[^c-a6790a297221401376e94bf718b934f2]
 
 - [Section 21 — Registration of interest in adoption](part-4/section-21.md)
 - [Section 22 — Prospective adopter stage one plan](part-4/section-22.md)
@@ -99,7 +99,7 @@ The Secretary of State for Education and Skills, in exercise of the powers confe
 - [Section 26 — Other pre-assessment information](part-4/section-26.md)
 - [Section 27 — Pre-assessment decision](part-4/section-27.md)
 
-#### Stage 2 – the assessment decision[^key-a6790a297221401376e94bf718b934f2]
+#### Stage 2 – the assessment decision[^c-a6790a297221401376e94bf718b934f2]
 
 - [Section 28 — Stage 2 assessment](part-4/section-28.md)
 - [Section 29 — Prospective adopter assessment plan](part-4/section-29.md)
@@ -193,6 +193,6 @@ A Regulatory Impact Assessment has been prepared for these Regulations and a cop
 
 [^M_C_7478b00d-d3a1-471b-d96a-f26095f8a0e8]: Modification: Pt. 4 applied by [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/15/1) (as substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/2/6/a))
 
-[^key-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
+[^c-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
 
 [^M_C_64d3b553-84f5-4b32-f1c3-1774186d7e02]: Modification: Pt. 7 applied (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2005/392/regulation/5/2)

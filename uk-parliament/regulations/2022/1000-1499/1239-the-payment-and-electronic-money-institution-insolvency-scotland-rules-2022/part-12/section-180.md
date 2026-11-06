@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Content of notices advertised other than in the Gazette[^key-aeabef37eea5ba512ef4a967575260af]
+## 180. Content of notices advertised other than in the Gazette[^c-aeabef37eea5ba512ef4a967575260af]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeabef37eea5ba512ef4a967575260af]: Commencement: Rule 180 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-aeabef37eea5ba512ef4a967575260af]: Commencement: Rule 180 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

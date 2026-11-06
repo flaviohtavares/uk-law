@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Number of members of the Commission[^key-810ba66787ac2d07e0e294c02ff4b098]
+## 13. Number of members of the Commission[^c-810ba66787ac2d07e0e294c02ff4b098]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 4(1) of the 2013 Act (members of the Commission), for paragraph (c) s
 
 ## Annotations
 
-[^key-810ba66787ac2d07e0e294c02ff4b098]: Commencement: S. 13 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-810ba66787ac2d07e0e294c02ff4b098]: Commencement: S. 13 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Amount of lump sum payable under regulation 162[^key-25181121ec7e4bfca015bd5f1b1ff94a]
+## 163. Amount of lump sum payable under regulation 162[^c-25181121ec7e4bfca015bd5f1b1ff94a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The amount of a lump sum payable under regulation 162 must—
 
 ## Annotations
 
-[^key-25181121ec7e4bfca015bd5f1b1ff94a]: Commencement: [Reg. 163](https://www.legislation.gov.uk/ssi/2014/292/regulation/163) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-25181121ec7e4bfca015bd5f1b1ff94a]: Commencement: [Reg. 163](https://www.legislation.gov.uk/ssi/2014/292/regulation/163) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

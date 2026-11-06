@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Modification of Part 1 of the 1965 Act[^key-40c919caade9443b2d45acec7f3178ef]
+## 29. Modification of Part 1 of the 1965 Act[^c-40c919caade9443b2d45acec7f3178ef]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-40c919caade9443b2d45acec7f3178ef]: Commencement: Art. 29 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-40c919caade9443b2d45acec7f3178ef]: Commencement: Art. 29 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00052]: Footnote: Section 125 was amended by section 190 of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

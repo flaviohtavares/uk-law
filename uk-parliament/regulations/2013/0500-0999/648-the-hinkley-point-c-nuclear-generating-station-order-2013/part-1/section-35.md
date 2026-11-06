@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Apparatus and rights of statutory undertakers in land acquired or used[^key-cea00bb8445ecb2911409f3d096493a4]
+## 35. Apparatus and rights of statutory undertakers in land acquired or used[^c-cea00bb8445ecb2911409f3d096493a4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cea00bb8445ecb2911409f3d096493a4]: Commencement: Art. 35 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-cea00bb8445ecb2911409f3d096493a4]: Commencement: Art. 35 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

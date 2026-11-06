@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Exemption[^key-6c1f5a8413b1b2847b4f2d17764ae3e9]
+## 227. Exemption[^c-6c1f5a8413b1b2847b4f2d17764ae3e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 221(1) does not prohibit the issue of banknotes by the Bank of England.
 
 ## Annotations
 
-[^key-6c1f5a8413b1b2847b4f2d17764ae3e9]: Commencement: S. 227 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-6c1f5a8413b1b2847b4f2d17764ae3e9]: Commencement: S. 227 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

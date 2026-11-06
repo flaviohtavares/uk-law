@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.13. Cases where court gives judgment both on claim and counterclaim[^key-61dd296f3aeab69660b9b49f22f4601c]
+## 40.13. Cases where court gives judgment both on claim and counterclaim[^c-61dd296f3aeab69660b9b49f22f4601c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61dd296f3aeab69660b9b49f22f4601c]: Commencement: [Rule 40.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.13) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-61dd296f3aeab69660b9b49f22f4601c]: Commencement: [Rule 40.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.13) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 9
 
-### 1. Supply of copy of register of parliamentary electors to petition officer: England and Wales and Scotland[^key-1ef1fc0bee5c49f8338a31256df89a57]
+### 1. Supply of copy of register of parliamentary electors to petition officer: England and Wales and Scotland[^c-1ef1fc0bee5c49f8338a31256df89a57]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ Regulation 9
 - (b) disclose any information contained in them that is not contained in the edited register; or
 - (c) make use of any such information.
 
-### 2. Supply of record of anonymous entries to petition officer: England and Wales and Scotland[^key-bbd03181a8682dc10c6fd40d53100016]
+### 2. Supply of record of anonymous entries to petition officer: England and Wales and Scotland[^c-bbd03181a8682dc10c6fd40d53100016]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ Regulation 9
 
 (3) The petition officer supplied with a copy of the record under this paragraph must take proper precautions for its safe custody.
 
-### 3. Supply of register on request and specific restrictions[^key-6dee80314c9f5114743e408b0346f70e]
+### 3. Supply of register on request and specific restrictions[^c-6dee80314c9f5114743e408b0346f70e]
 
 (1) The petition officer must supply free of charge a copy of the register and any notices issued under section 13BC(6) of the 1983 Act upon request to—
 
@@ -99,8 +99,8 @@ Regulation 9
 
 ## Annotations
 
-[^key-1ef1fc0bee5c49f8338a31256df89a57]: Commencement: Sch. 1 para. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1ef1fc0bee5c49f8338a31256df89a57]: Commencement: Sch. 1 para. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-bbd03181a8682dc10c6fd40d53100016]: Commencement: Sch. 1 para. 2 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-bbd03181a8682dc10c6fd40d53100016]: Commencement: Sch. 1 para. 2 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-6dee80314c9f5114743e408b0346f70e]: Commencement: Sch. 1 para. 3 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6dee80314c9f5114743e408b0346f70e]: Commencement: Sch. 1 para. 3 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

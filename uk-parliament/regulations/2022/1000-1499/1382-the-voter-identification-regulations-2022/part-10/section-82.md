@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Amendment of regulation 43 (sealing up of signing sheets)[^key-4b048fe84d4c5bd3bf19d4fab96adaa3]
+## 82. Amendment of regulation 43 (sealing up of signing sheets)[^c-4b048fe84d4c5bd3bf19d4fab96adaa3]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In regulation 43 (sealing up of signing sheets), in paragraph (2) after sub-para
 
 ## Annotations
 
-[^key-4b048fe84d4c5bd3bf19d4fab96adaa3]: Commencement: Reg. 82 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-4b048fe84d4c5bd3bf19d4fab96adaa3]: Commencement: Reg. 82 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

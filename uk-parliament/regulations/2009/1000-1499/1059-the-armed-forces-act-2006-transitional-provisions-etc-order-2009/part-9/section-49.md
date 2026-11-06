@@ -27,7 +27,7 @@ summary: ''
 
 (2) This paragraph applies where—
 
-- (a) the allegation or circumstances which gave rise to the charge (“the circumstances”) are being or have been investigated by a service police force or the tri-service serious crime unit[^key-8e47b1929cfbd6caffdc7706e188d2ad];
+- (a) the allegation or circumstances which gave rise to the charge (“the circumstances”) are being or have been investigated by a service police force or the tri-service serious crime unit[^c-8e47b1929cfbd6caffdc7706e188d2ad];
 - (b) the circumstances are being or have been investigated by a UK police force or overseas police force, and it appears to the commanding officer that that force may refer the matter to the service police; or
 - (c) the circumstances give or have given rise to the duty in section 113(1) or 114(1) of AFA 2006 (duties to inform service police).
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e47b1929cfbd6caffdc7706e188d2ad]: Textual amendment: Words in [art. 49(2)(a)](https://www.legislation.gov.uk/uksi/2009/1059/article/49/2/a) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/4/2)
+[^c-8e47b1929cfbd6caffdc7706e188d2ad]: Textual amendment: Words in [art. 49(2)(a)](https://www.legislation.gov.uk/uksi/2009/1059/article/49/2/a) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/4/2)

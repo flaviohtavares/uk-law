@@ -35,14 +35,14 @@ approving the accession of the European Atomic Energy Community to the amended C
 
 (2007/513/Euratom) (revoked)
 
-[^key-cf84437edb4b99428a39c2dda6005fb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf84437edb4b99428a39c2dda6005fb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-cf84437edb4b99428a39c2dda6005fb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-cf84437edb4b99428a39c2dda6005fb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf84437edb4b99428a39c2dda6005fb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf84437edb4b99428a39c2dda6005fb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf84437edb4b99428a39c2dda6005fb7]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-cf84437edb4b99428a39c2dda6005fb7]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

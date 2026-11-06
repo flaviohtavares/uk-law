@@ -35,112 +35,112 @@ on type-approval requirements for motor vehicles and their trailers, and systems
 
 (Text with EEA relevance) (revoked)
 
-[^key-2d751653c11f22ba0e570035056f92e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d751653c11f22ba0e570035056f92e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS[^key-2d751653c11f22ba0e570035056f92e2]
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS[^c-2d751653c11f22ba0e570035056f92e2]
 
-### Article 1. Subject matter[^key-2d751653c11f22ba0e570035056f92e2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 1. Subject matter[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 2. Scope[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — OBLIGATIONS OF MANUFACTURERS[^key-2d751653c11f22ba0e570035056f92e2]
-
-### Article 4. General obligations and technical requirements[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 3. Definitions[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Specific provisions relating to tyre pressure monitoring systems and tyres[^key-2d751653c11f22ba0e570035056f92e2]
+## CHAPTER II — OBLIGATIONS OF MANUFACTURERS[^c-2d751653c11f22ba0e570035056f92e2]
+
+### Article 4. General obligations and technical requirements[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Advanced vehicle systems for all motor vehicle categories[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 5. Specific provisions relating to tyre pressure monitoring systems and tyres[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Specific requirements relating to passenger cars and light commercial vehicles[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 6. Advanced vehicle systems for all motor vehicle categories[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Frontal protection systems for passenger cars and light commercial vehicles[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 7. Specific requirements relating to passenger cars and light commercial vehicles[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Specific requirements relating to buses and trucks[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 8. Frontal protection systems for passenger cars and light commercial vehicles[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Specific requirements relating to hydrogen-powered vehicles[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 9. Specific requirements relating to buses and trucks[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Specific requirements relating to automated vehicles and fully automated vehicles[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 10. Specific requirements relating to hydrogen-powered vehicles[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FINAL PROVISIONS[^key-2d751653c11f22ba0e570035056f92e2]
-
-### Article 12. Exercise of the delegation[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 11. Specific requirements relating to automated vehicles and fully automated vehicles[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Committee procedure[^key-2d751653c11f22ba0e570035056f92e2]
+## CHAPTER III — FINAL PROVISIONS[^c-2d751653c11f22ba0e570035056f92e2]
+
+### Article 12. Exercise of the delegation[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Review and reporting[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 13. Committee procedure[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Transitional provisions[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 14. Review and reporting[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Implementation dates[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 15. Transitional provisions[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Amendments to Regulation (EU) 2018/858[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 16. Implementation dates[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Repeal[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 17. Amendments to Regulation (EU) 2018/858[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Entry into force and date of application[^key-2d751653c11f22ba0e570035056f92e2]
+### Article 18. Repeal[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d751653c11f22ba0e570035056f92e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 19. Entry into force and date of application[^c-2d751653c11f22ba0e570035056f92e2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2d751653c11f22ba0e570035056f92e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — List of UN Regulations referred to in Article 4(2)[^key-2d751653c11f22ba0e570035056f92e2]
+## ANNEX I — List of UN Regulations referred to in Article 4(2)[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — List of the requirements referred to in Article 4(5) and Article 5(3) as well as the dates referred to in Article 16[^key-2d751653c11f22ba0e570035056f92e2]
+## ANNEX II — List of the requirements referred to in Article 4(5) and Article 5(3) as well as the dates referred to in Article 16[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Amendments to Annex II to Regulation (EU) 2018/858[^key-2d751653c11f22ba0e570035056f92e2]
+## ANNEX III — Amendments to Annex II to Regulation (EU) 2018/858[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Transitional provisions referred to in Article 15(3)[^key-2d751653c11f22ba0e570035056f92e2]
+## ANNEX IV — Transitional provisions referred to in Article 15(3)[^c-2d751653c11f22ba0e570035056f92e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d751653c11f22ba0e570035056f92e2]: Textual amendment: Regulation revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2022/1273/regulation/84)
+[^c-2d751653c11f22ba0e570035056f92e2]: Textual amendment: Regulation revoked (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2022/1273/regulation/84)

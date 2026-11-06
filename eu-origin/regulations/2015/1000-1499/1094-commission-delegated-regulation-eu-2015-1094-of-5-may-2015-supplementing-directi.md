@@ -105,7 +105,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 2. Definitions
 
-The definitions in the Energy Information Regulations 2011 as well as the[^key-037a32bf9962f66d466076338f3b4bef] following definitions shall apply for the purpose of this Regulation:
+The definitions in the Energy Information Regulations 2011 as well as the[^c-037a32bf9962f66d466076338f3b4bef] following definitions shall apply for the purpose of this Regulation:
 
 - ((a)) ‘professional refrigerated storage cabinet’ means an insulated refrigerating appliance integrating one or more compartments accessible via one or more doors or drawers, capable of continuously maintaining the temperature of foodstuffs within prescribed limits at chilled or frozen operating temperature, using a vapour compression cycle, and intended for the storage of foodstuffs in non-household environments but not for the display to or access by customers;
 - ((b)) ‘foodstuffs’ means food, ingredients, beverages, including wine, and other items primarily intended for consumption which require refrigeration at specified temperatures;
@@ -127,7 +127,7 @@ The definitions in the Energy Information Regulations 2011 as well as the[^key-0
 - (b) an electronic label in the format and containing the information set out in Annex III shall be made available to dealers for each professional refrigerated storage cabinet model;
 - (c) a product fiche, as set out in Annex IV, shall be made available;
 - (d) an electronic product fiche, as set out in Annex IV, shall be made available to dealers for each professional refrigerated storage cabinet model;
-- (e) technical documentation, as set out in Annex V, shall be provided on request to the authorities of the Great Britain[^key-38d39b6d4219b559dc97b423aa300cf9];
+- (e) technical documentation, as set out in Annex V, shall be provided on request to the authorities of the Great Britain[^c-38d39b6d4219b559dc97b423aa300cf9];
 - (f) any advertisement relating to a specific professional refrigerated storage cabinet model and containing energy-related or price information shall include a reference to the energy efficiency class of that model;
 - (g) any technical promotional material concerning a specific professional refrigerated storage cabinet model and describing its specific technical parameters shall include a reference to the energy efficiency class of that model.
 
@@ -151,9 +151,9 @@ The information to be provided pursuant to Articles 3 and 4 shall be obtained by
 
 ## Article 6. Verification procedure for market surveillance purposes
 
-The authorities of Great Britain[^key-0c6778edfe41a8205c8cffb2632df484] shall apply the procedure set out in Annex X when assessing the conformity of the declared energy efficiency class, annual energy consumption and volumes.
+The authorities of Great Britain[^c-0c6778edfe41a8205c8cffb2632df484] shall apply the procedure set out in Annex X when assessing the conformity of the declared energy efficiency class, annual energy consumption and volumes.
 
-## Article 7. Review[^key-c7c81f946ae67662f5aaa97c3753e390]
+## Article 7. Review[^c-c7c81f946ae67662f5aaa97c3753e390]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -161,7 +161,7 @@ The authorities of Great Britain[^key-0c6778edfe41a8205c8cffb2632df484] shall ap
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-3b14e81bcb8da25e836d6e4ae8b4b399]...
+[^c-3b14e81bcb8da25e836d6e4ae8b4b399]...
 
 ## ANNEX I — Definitions applicable for Annexes II to X
 
@@ -218,21 +218,21 @@ The following information shall be included in the label:
 - VI.. the sum of the net volumes, expressed in litres, of all compartments functioning at frozen operating temperature; where no compartments functioning at frozen operating temperature are present, the supplier shall declare ‘- L’ instead of a value;
 - VII.. the climate class (3, 4 or 5), together with the associated dry bulb temperature (in °C) and the relative humidity (in %), as referred to in Table 3, Annex IX.
 
-The design of the label shall be in accordance with point 3. By way of derogation, where a model has been awarded an ‘EU ecolabel’[^f00004]before IP completion day[^key-7d762444fe7e402413c782f0d1caee3d], a copy of the ecolabel may be added.
+The design of the label shall be in accordance with point 3. By way of derogation, where a model has been awarded an ‘EU ecolabel’[^f00004]before IP completion day[^c-7d762444fe7e402413c782f0d1caee3d], a copy of the ecolabel may be added.
 
 2\.
 
-**[^key-3c4195eb261a42ecce6f4d77bdf85798]Label 2 — Professional refrigerated storage cabinets in energy efficiency classes A+++ to G**
+**[^c-3c4195eb261a42ecce6f4d77bdf85798]Label 2 — Professional refrigerated storage cabinets in energy efficiency classes A+++ to G**
 
 [image: see source](https://www.legislation.gov.uk/eur/2015/1094/images/eur_20151094_en_epp_001.gif)
 
 The information listed in point 1 shall be included in this label.
 
-The design of the label shall be in accordance with point 3. By way of derogation, where a model has been awarded an ‘EU eco-label’ before IP completion day[^key-81a5d87cd8b57390be8331025dec4a24], a copy of the eco-label may be added.
+The design of the label shall be in accordance with point 3. By way of derogation, where a model has been awarded an ‘EU eco-label’ before IP completion day[^c-81a5d87cd8b57390be8331025dec4a24], a copy of the eco-label may be added.
 
 3\.
 
-[^key-79cd5c3bd7303c131b52cb8c9ad202c1]The design of the label for professional refrigerated storage cabinets shall be as follows:
+[^c-79cd5c3bd7303c131b52cb8c9ad202c1]The design of the label for professional refrigerated storage cabinets shall be as follows:
 
 [image: see source](https://www.legislation.gov.uk/eur/2015/1094/images/eur_20151094_en_epp_002.gif)
 
@@ -243,13 +243,13 @@ Where:
 - ((c)) Colours shall be CMYK — cyan, magenta, yellow and black; for example, 00-70-X-00 indicates 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
 - ((d)) The label shall meet the following specifications (numbers refer to the figure above):
   - **EU label border stroke:** 5 pt — colour: Cyan 100 % — round corners: 3,5 mm;
-  - UK flag: colours—[^key-668bc0ac6792a4e568e6f0acde91b1de]
+  - UK flag: colours—[^c-668bc0ac6792a4e568e6f0acde91b1de]
     - the blue background: 100,72,00,18.5;
     - the red crosses: 00,100,81,4
     - the remaining part: 100% white;
   - **Energy label:** colour: X-00-00-00;
 
-    **Pictogram as depicted (UK flag[^key-2bebb90922f15e77ac22f25cf917162d] + energy label):** 92 mm wide × 17 mm high;
+    **Pictogram as depicted (UK flag[^c-2bebb90922f15e77ac22f25cf917162d] + energy label):** 92 mm wide × 17 mm high;
   - **Sub-logos border:** 1 pt — colour: Cyan 100 % — 92,5 mm long;
   - **A-G scale**
 
@@ -273,7 +273,7 @@ Where:
     Arrow : 26 mm wide × 14 mm high, 100 % black;
 
     Text : Calibri bold 29 pt, capitals and white; ‘+’ symbols: Calibri bold 18 pt, superscript, white and aligned on a single row;
-  - **[^key-9f030306b3f051f3f1249dc06d041045]...**
+  - **[^c-9f030306b3f051f3f1249dc06d041045]...**
   - **Annual energy consumption**
 
     Border
@@ -337,7 +337,7 @@ The information in the product fiche of the professional refrigerated storage ca
 - ((b)) supplier's model identifier;
 - ((c)) type of model in accordance with the definitions in Annex I;
 - ((d)) the energy efficiency class and energy efficiency index of the model, determined in accordance with Annex II;
-- ((e)) where the model has been awarded an ‘EU eco-label’ before IP completion day[^key-6c670a1d0d91ad2c10079ec456abf1e6] under Regulation (EC) No 66/2010, that information may be included;
+- ((e)) where the model has been awarded an ‘EU eco-label’ before IP completion day[^c-6c670a1d0d91ad2c10079ec456abf1e6] under Regulation (EC) No 66/2010, that information may be included;
 - ((f)) the energy consumption of the cabinet over 24 hours (E24h) and the annual energy consumption in kWh, calculated in accordance with Annex IX and rounded to the nearest integer;
 - ((g)) net volume of each compartment;
 - ((h)) climate class in accordance with Table 3 in Annex IX;
@@ -360,7 +360,7 @@ The technical documentation referred to in Article 3(1)(c) shall include:
 
 - ((a)) the name and address of the supplier;
 - ((b)) sufficient description of the professional refrigerated storage cabinet model for it to be unambiguously identified;
-- ((c)) where appropriate, the references of the designated[^key-a3ca6dcd0b0ecb06b7b3c725eb0adc57] standards applied;
+- ((c)) where appropriate, the references of the designated[^c-a3ca6dcd0b0ecb06b7b3c725eb0adc57] standards applied;
 - ((d)) where appropriate, the other technical standards and specifications used;
 - ((e)) the identification and signature of the person empowered to bind the supplier;
 - ((f)) the results of the measurements and calculations for the technical parameters specified in Annex IX.
@@ -371,7 +371,7 @@ Where the information included in the technical documentation file for a profess
 
 3\.
 
-The information contained in this technical documentation may be merged with the technical documentation provided in accordance with measures under Directive 2009/125/EC or measures listed in paragraph 4 of Schedule 1 to the Ecodesign for Energy-Related Products Regulations 2010[^key-7ee8310a0f30d062ee64307af4b65190].
+The information contained in this technical documentation may be merged with the technical documentation provided in accordance with measures under Directive 2009/125/EC or measures listed in paragraph 4 of Schedule 1 to the Ecodesign for Energy-Related Products Regulations 2010[^c-7ee8310a0f30d062ee64307af4b65190].
 
 ## ANNEX VI — Information to be provided where end-users cannot be expected to see the product displayed, except on the internet
 
@@ -484,7 +484,7 @@ M and N are given in the Table 2.
 
 1\.
 
-For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using designated standards[^key-487e17c2bd89a51a19d8706aa2724e7d], or using other reliable, accurate and reproducible methods that take into account the generally recognised state-of-the-art methods. They shall meet the technical definitions, conditions, equations and parameters set out in this Annex.
+For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using designated standards[^c-487e17c2bd89a51a19d8706aa2724e7d], or using other reliable, accurate and reproducible methods that take into account the generally recognised state-of-the-art methods. They shall meet the technical definitions, conditions, equations and parameters set out in this Annex.
 
 2\.
 
@@ -513,7 +513,7 @@ The ambient conditions of climate classes 3, 4 and 5 are shown in Table 3.
 
 ## ANNEX X — Product compliance verification by market surveillance authorities[^c000001]
 
-The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Great Britain[^key-38215bec3ef438eff27ba02b4de33429] authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product fiche shall not be more favourable for the supplier than the values reported in the technical documentation.
+The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Great Britain[^c-38215bec3ef438eff27ba02b4de33429] authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product fiche shall not be more favourable for the supplier than the values reported in the technical documentation.
 
 When verifying the compliance of a product model with the requirements laid down in this Delegated Regulation, for the requirements referred to in this Annex, the authorities of Great Britain shall apply the following procedure:
 
@@ -526,11 +526,11 @@ When verifying the compliance of a product model with the requirements laid down
 - ((4)) If the result referred to in point 2(c) is not achieved, the Great Britain authorities shall select three additional units of the same model for testing. As an alternative, the three additional units selected may be of one or more different models that have been listed as equivalent models in the technical documentation.
 - ((5)) The model shall be considered to comply with the applicable requirements if for these three units, the arithmetical mean of the determined values complies with the respective tolerances given in Table 4.
 - ((6)) If the result referred to in point 5 is not achieved, the model and all equivalent professional refrigerated storage cabinets that have been listed as equivalent models in the supplier's technical documentation shall be considered not to comply with this Delegated Regulation.
-- ((7)) [^key-708c8d58fed2e1069e25289cf8d12085] . . . . . . . . . . . . . . . . . . . . . . .
+- ((7)) [^c-708c8d58fed2e1069e25289cf8d12085] . . . . . . . . . . . . . . . . . . . . . . .
 
 The Great Britain authorities shall use the measurement and calculation methods set out in Annexes VIII and IX.
 
-The Great Britain authorities shall only apply the verification tolerances that are set out in Table 4 and shall only use the procedure described in points 1 to 6[^key-96c24f5689fb95993f738232d4b43f68] for the requirements referred to in this Annex. No other tolerances, such as those set out in designated[^key-09074ba6c04a6c788a07c05cba5109a9] standards or in any other measurement method, shall be applied.
+The Great Britain authorities shall only apply the verification tolerances that are set out in Table 4 and shall only use the procedure described in points 1 to 6[^c-96c24f5689fb95993f738232d4b43f68] for the requirements referred to in this Annex. No other tolerances, such as those set out in designated[^c-09074ba6c04a6c788a07c05cba5109a9] standards or in any other measurement method, shall be applied.
 
 *Table 4*
 
@@ -549,46 +549,46 @@ The Great Britain authorities shall only apply the verification tolerances that 
 
 [^f00003]: Footnote: Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council ([OJ L 316, 14.11.2012, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.316.01.0012.01.ENG)).
 
-[^key-037a32bf9962f66d466076338f3b4bef]: Textual amendment: Words in Art. 2 inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-037a32bf9962f66d466076338f3b4bef]: Textual amendment: Words in Art. 2 inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-38d39b6d4219b559dc97b423aa300cf9]: Textual amendment: Words in Art. 3(1)(e) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/3) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/c/xii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38d39b6d4219b559dc97b423aa300cf9]: Textual amendment: Words in Art. 3(1)(e) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/3) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/c/xii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c6778edfe41a8205c8cffb2632df484]: Textual amendment: Words in Art. 6 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/4) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(e)(xi)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/e/xi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c6778edfe41a8205c8cffb2632df484]: Textual amendment: Words in Art. 6 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/4) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)[(4)(e)(xi)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/4/e/xi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7c81f946ae67662f5aaa97c3753e390]: Textual amendment: Art. 7 omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(5)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7c81f946ae67662f5aaa97c3753e390]: Textual amendment: Art. 7 omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(5)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b14e81bcb8da25e836d6e4ae8b4b399]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(6)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b14e81bcb8da25e836d6e4ae8b4b399]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(6)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Under Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel ([OJ L 27, 30.1.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.027.01.0001.01.ENG)).
 
-[^key-7d762444fe7e402413c782f0d1caee3d]: Textual amendment: Words in Annex 3 Section 1 inserted (31.12.2020) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(7)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/7/a) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d762444fe7e402413c782f0d1caee3d]: Textual amendment: Words in Annex 3 Section 1 inserted (31.12.2020) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(7)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/7/a) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c4195eb261a42ecce6f4d77bdf85798]: Textual amendment: Annex 3 para. 2 label image substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/2)
+[^c-3c4195eb261a42ecce6f4d77bdf85798]: Textual amendment: Annex 3 para. 2 label image substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/2)
 
-[^key-81a5d87cd8b57390be8331025dec4a24]: Textual amendment: Words in Annex 3 Section 2 inserted (31.12.2020) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(7)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/7/b) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81a5d87cd8b57390be8331025dec4a24]: Textual amendment: Words in Annex 3 Section 2 inserted (31.12.2020) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(7)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/7/b) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79cd5c3bd7303c131b52cb8c9ad202c1]: Textual amendment: Annex 3 para. 3 label image substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/a)
+[^c-79cd5c3bd7303c131b52cb8c9ad202c1]: Textual amendment: Annex 3 para. 3 label image substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/a)
 
-[^key-668bc0ac6792a4e568e6f0acde91b1de]: Textual amendment: Words in Annex 3 para. 3(d) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/i)
+[^c-668bc0ac6792a4e568e6f0acde91b1de]: Textual amendment: Words in Annex 3 para. 3(d) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/i)
 
-[^key-2bebb90922f15e77ac22f25cf917162d]: Textual amendment: Words in Annex 3 para. 3(d) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/ii)
+[^c-2bebb90922f15e77ac22f25cf917162d]: Textual amendment: Words in Annex 3 para. 3(d) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/ii)
 
-[^key-9f030306b3f051f3f1249dc06d041045]: Textual amendment: Words in Annex 3 para. 3(d) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/iii)
+[^c-9f030306b3f051f3f1249dc06d041045]: Textual amendment: Words in Annex 3 para. 3(d) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [Sch. 5 para. 13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1528/schedule/5/paragraph/13/3/b/iii)
 
-[^key-6c670a1d0d91ad2c10079ec456abf1e6]: Textual amendment: Words in Annex 4 para. 1(e) inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(8)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/8) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c670a1d0d91ad2c10079ec456abf1e6]: Textual amendment: Words in Annex 4 para. 1(e) inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(8)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/8) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3ca6dcd0b0ecb06b7b3c725eb0adc57]: Textual amendment: Word in Annex 5 para. 1(c) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(9)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3ca6dcd0b0ecb06b7b3c725eb0adc57]: Textual amendment: Word in Annex 5 para. 1(c) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(9)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ee8310a0f30d062ee64307af4b65190]: Textual amendment: Words in Annex 5 para. 3 inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(9)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ee8310a0f30d062ee64307af4b65190]: Textual amendment: Words in Annex 5 para. 3 inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(9)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-487e17c2bd89a51a19d8706aa2724e7d]: Textual amendment: Words in Annex 9 para. 1 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(10)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-487e17c2bd89a51a19d8706aa2724e7d]: Textual amendment: Words in Annex 9 para. 1 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(10)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2017/254 of 30 November 2016 amending Delegated Regulations (EU) No 1059/2010, (EU) No 1060/2010, (EU) No 1061/2010, (EU) No 1062/2010, (EU) No 626/2011, (EU) No 392/2012, (EU) No 874/2012, (EU) No 665/2013, (EU) No 811/2013, (EU) No 812/2013, (EU) No 65/2014, (EU) No 1254/2014, (EU) 2015/1094, (EU) 2015/1186 and (EU) 2015/1187 with regard to the use of tolerances in verification procedures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2017/254).
 
-[^key-38215bec3ef438eff27ba02b4de33429]: Textual amendment: Words in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/a) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/c/xii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38215bec3ef438eff27ba02b4de33429]: Textual amendment: Words in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/a) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1)[(2)(c)(xii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/2/c/xii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-708c8d58fed2e1069e25289cf8d12085]: Textual amendment: Annex 10 para. (7) omitted (31.12.2020) by virtue of The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-708c8d58fed2e1069e25289cf8d12085]: Textual amendment: Annex 10 para. (7) omitted (31.12.2020) by virtue of The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96c24f5689fb95993f738232d4b43f68]: Textual amendment: Word in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(c)(i)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96c24f5689fb95993f738232d4b43f68]: Textual amendment: Word in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(c)(i)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-09074ba6c04a6c788a07c05cba5109a9]: Textual amendment: Word in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09074ba6c04a6c788a07c05cba5109a9]: Textual amendment: Word in Annex 10 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 5 para. 13(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/539/schedule/5/paragraph/13/11/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

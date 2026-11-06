@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air
 
-The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-2bef9548140c4ae14ca854b885c119f1]
+The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-2bef9548140c4ae14ca854b885c119f1]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 30th April 2010
 
-[^key-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2bef9548140c4ae14ca854b885c119f1]
+## 1. Citation and commencement[^c-2bef9548140c4ae14ca854b885c119f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-2bef9548140c4ae14ca854b885c119f1]
+## 2. Amendments[^c-2bef9548140c4ae14ca854b885c119f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2bef9548140c4ae14ca854b885c119f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2bef9548140c4ae14ca854b885c119f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/130) revoked (28.11.2011) by [The Smoke Control Areas (Authorised Fuels) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/374)](https://www.legislation.gov.uk/nisr/2011/374), [regs. 1](https://www.legislation.gov.uk/nisr/2011/374/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/374/regulation/3/1)
+[^c-2bef9548140c4ae14ca854b885c119f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/130) revoked (28.11.2011) by [The Smoke Control Areas (Authorised Fuels) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/374)](https://www.legislation.gov.uk/nisr/2011/374), [regs. 1](https://www.legislation.gov.uk/nisr/2011/374/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/374/regulation/3/1)

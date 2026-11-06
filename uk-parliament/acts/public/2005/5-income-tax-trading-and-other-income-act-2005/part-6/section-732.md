@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises for the persons specified in section 733 in respect of annuity payments if they are made under an annuity purchased or provided under an award of compensation made under the Criminal Injuries Compensation Scheme or the Victims of Overseas Terrorism Compensation Scheme[^key-c6afe934eab96701ff1fbf7fc2a39b3c].
+(1) No liability to income tax arises for the persons specified in section 733 in respect of annuity payments if they are made under an annuity purchased or provided under an award of compensation made under the Criminal Injuries Compensation Scheme or the Victims of Overseas Terrorism Compensation Scheme[^c-c6afe934eab96701ff1fbf7fc2a39b3c].
 
 (2) The Treasury may by order provide for sections 731, 733 and 734 to apply, with such modifications as they consider necessary, to periodical payments by way of compensation for personal injury for which provision is made under a scheme or arrangement other than the Criminal Injuries Compensation Scheme or the Victims of Overseas Terrorism Compensation Scheme.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6afe934eab96701ff1fbf7fc2a39b3c]: Textual amendment: Words in s. 732(1)(2) inserted (8.4.2010) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/17/schedule/2/paragraph/3)
+[^c-c6afe934eab96701ff1fbf7fc2a39b3c]: Textual amendment: Words in s. 732(1)(2) inserted (8.4.2010) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [s. 59(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2010/17/schedule/2/paragraph/3)

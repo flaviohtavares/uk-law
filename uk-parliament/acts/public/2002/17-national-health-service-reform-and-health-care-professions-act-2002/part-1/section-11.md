@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duty of quality[^key-4ee34d9b40a9df9530ffa3ed1af08ac2]
+## 11. Duty of quality[^c-4ee34d9b40a9df9530ffa3ed1af08ac2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee34d9b40a9df9530ffa3ed1af08ac2]: Textual amendment: Ss. 11-14 repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
+[^c-4ee34d9b40a9df9530ffa3ed1af08ac2]: Textual amendment: Ss. 11-14 repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.2. Application by responsible officer or supervisor[^key-39af510d230eb36e50e27ce164df1ee8]
+## 32.2. Application by responsible officer or supervisor[^c-39af510d230eb36e50e27ce164df1ee8]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39af510d230eb36e50e27ce164df1ee8]: Commencement: [Rule 32.2](https://www.legislation.gov.uk/uksi/2025/909/rule/32.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-39af510d230eb36e50e27ce164df1ee8]: Commencement: [Rule 32.2](https://www.legislation.gov.uk/uksi/2025/909/rule/32.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

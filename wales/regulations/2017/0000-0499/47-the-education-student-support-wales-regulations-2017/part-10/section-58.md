@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Payment of grants for living costs[^key-179632e42dc04dc0614a8a30dd2950b6]
+## 58. Payment of grants for living costs[^c-179632e42dc04dc0614a8a30dd2950b6]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-179632e42dc04dc0614a8a30dd2950b6]: Commencement: Reg. 58 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-179632e42dc04dc0614a8a30dd2950b6]: Commencement: Reg. 58 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

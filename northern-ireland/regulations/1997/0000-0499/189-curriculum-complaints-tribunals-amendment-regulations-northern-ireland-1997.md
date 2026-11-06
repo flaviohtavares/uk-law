@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Curriculum (Complaints Tribunals) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-ebe01c30a9efcb8f1a718d2670f55564]
+Curriculum (Complaints Tribunals) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-ebe01c30a9efcb8f1a718d2670f55564]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st May 1997
 
-[^key-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ebe01c30a9efcb8f1a718d2670f55564]
+## 1. Citation and commencement[^c-ebe01c30a9efcb8f1a718d2670f55564]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Curriculum (Complaints Tribunals) Regulations (Northern Ireland) 1992[^key-ebe01c30a9efcb8f1a718d2670f55564]
+## 2. Amendment of the Curriculum (Complaints Tribunals) Regulations (Northern Ireland) 1992[^c-ebe01c30a9efcb8f1a718d2670f55564]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe01c30a9efcb8f1a718d2670f55564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ebe01c30a9efcb8f1a718d2670f55564]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/189) revoked (1.8.2016) by [The Complaints Tribunal (Curriculum and Related Matters) Regulations (Northern Ireland) 2016 (S.R. 2016/111)](https://www.legislation.gov.uk/nisr/2016/111), [reg. 5(b)](https://www.legislation.gov.uk/nisr/2016/111/regulation/5/b)
+[^c-ebe01c30a9efcb8f1a718d2670f55564]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/189) revoked (1.8.2016) by [The Complaints Tribunal (Curriculum and Related Matters) Regulations (Northern Ireland) 2016 (S.R. 2016/111)](https://www.legislation.gov.uk/nisr/2016/111), [reg. 5(b)](https://www.legislation.gov.uk/nisr/2016/111/regulation/5/b)

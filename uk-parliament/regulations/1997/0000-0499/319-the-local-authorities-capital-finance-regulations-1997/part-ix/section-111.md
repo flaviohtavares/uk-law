@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Disposal of land in exchange for right to use the land after enhancement[^key-5edfa2385c5e9ba6a72494a4242085cb]
+## 111. Disposal of land in exchange for right to use the land after enhancement[^c-5edfa2385c5e9ba6a72494a4242085cb]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the case of non-monetary consideration received in respect of a disposal of a
 
 ## Annotations
 
-[^key-5edfa2385c5e9ba6a72494a4242085cb]: Commencement: Reg. 111 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5edfa2385c5e9ba6a72494a4242085cb]: Commencement: Reg. 111 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

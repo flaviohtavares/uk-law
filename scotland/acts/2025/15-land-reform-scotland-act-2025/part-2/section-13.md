@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Small landholdings[^key-2f497826a1dc01644c8f3cff06c2ebd3]
+## 13. Small landholdings[^c-2f497826a1dc01644c8f3cff06c2ebd3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Schedule 2 makes provision in respect of certain aspects of the law relating to 
 
 ## Annotations
 
-[^key-2f497826a1dc01644c8f3cff06c2ebd3]: Commencement: S. 13 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-2f497826a1dc01644c8f3cff06c2ebd3]: Commencement: S. 13 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

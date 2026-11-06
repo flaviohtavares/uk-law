@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Increase in eligible child’s pension where member was pension debit member[^key-0132664b3c51722ed0283fd363d41bfa]
+## 100. Increase in eligible child’s pension where member was pension debit member[^c-0132664b3c51722ed0283fd363d41bfa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the member’s benefits were at the date of death subject to a reduction unde
 
 ## Annotations
 
-[^key-0132664b3c51722ed0283fd363d41bfa]: Commencement: Reg. 100 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0132664b3c51722ed0283fd363d41bfa]: Commencement: Reg. 100 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

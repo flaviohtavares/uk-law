@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Assets to be distributed in respect of the accounting periods[^key-00796c34810e78d06c3edc84d17db26f]
+## 128. Assets to be distributed in respect of the accounting periods[^c-00796c34810e78d06c3edc84d17db26f]
 
 *Extent: S*
 
@@ -46,7 +46,7 @@ the accounting period is to be such other period beginning with the end of the l
 (5) The administrator may pay—
 
 - (a) the expenses of the special administration mentioned in rule 95, other than the administrator’s remuneration, at any time,
-- (b) the preferential debts within the meaning of section 386 of the[^key-b344681581068d33c76d69aa7917f69c] IA 1986 at any time but only with the consent of the creditors’ committee or, if there is no creditors’ committee, of the court.
+- (b) the preferential debts within the meaning of section 386 of the[^c-b344681581068d33c76d69aa7917f69c] IA 1986 at any time but only with the consent of the creditors’ committee or, if there is no creditors’ committee, of the court.
 
 (6) If the administrator—
 
@@ -81,6 +81,6 @@ provided that paragraph (a) is without prejudice to any dividend which has alrea
 
 ## Annotations
 
-[^key-00796c34810e78d06c3edc84d17db26f]: Commencement: Rule 128 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-00796c34810e78d06c3edc84d17db26f]: Commencement: Rule 128 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-b344681581068d33c76d69aa7917f69c]: Textual amendment: Word in [rule 128(5)(b)](https://www.legislation.gov.uk/uksi/2022/1239/rule/128/5/b) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(11)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/11)
+[^c-b344681581068d33c76d69aa7917f69c]: Textual amendment: Word in [rule 128(5)(b)](https://www.legislation.gov.uk/uksi/2022/1239/rule/128/5/b) inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(11)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Sending documents to parties[^key-60e9ba71a8f16699dec961b580b6de24]
+## 84. Sending documents to parties[^c-60e9ba71a8f16699dec961b580b6de24]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60e9ba71a8f16699dec961b580b6de24]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2024/1155/rule/84) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-60e9ba71a8f16699dec961b580b6de24]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2024/1155/rule/84) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

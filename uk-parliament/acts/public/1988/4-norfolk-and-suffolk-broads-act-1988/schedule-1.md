@@ -151,9 +151,9 @@ the appointment by the participating authority of a person to replace him shall 
 **6.** The Authority shall not—
 
 - (a) appoint a person to the office (by whatever name it is known) of chief officer of the Authority; or
-- (b)[^key-ba0e7bad5319b6256ce52c57323c635e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ba0e7bad5319b6256ce52c57323c635e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-without first consulting Natural England[^key-6db29d9d55aba71f2c8a397703020c71] .
+without first consulting Natural England[^c-6db29d9d55aba71f2c8a397703020c71] .
 
 ## Annotations
 
@@ -161,6 +161,6 @@ without first consulting Natural England[^key-6db29d9d55aba71f2c8a397703020c71] 
 
 [^c10506541]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-ba0e7bad5319b6256ce52c57323c635e]: Textual amendment: [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/1/paragraph/6/b) repealed (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/10), [8 Pt. 1](https://www.legislation.gov.uk/ukla/2009/1/schedule/8/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
+[^c-ba0e7bad5319b6256ce52c57323c635e]: Textual amendment: [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/1/paragraph/6/b) repealed (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/10), [8 Pt. 1](https://www.legislation.gov.uk/ukla/2009/1/schedule/8/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
 
-[^key-6db29d9d55aba71f2c8a397703020c71]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 112(c)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/112/c); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-6db29d9d55aba71f2c8a397703020c71]: Textual amendment: Words in Sch. 1 para. 6 substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 112(c)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/112/c); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

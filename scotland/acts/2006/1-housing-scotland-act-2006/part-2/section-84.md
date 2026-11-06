@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Registration of conditions[^key-858e3318bfbda195b95e4710f1d8c602]
+## 84. Registration of conditions[^c-858e3318bfbda195b95e4710f1d8c602]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-858e3318bfbda195b95e4710f1d8c602]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2006/1/section/84) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-858e3318bfbda195b95e4710f1d8c602]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2006/1/section/84) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

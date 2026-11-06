@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Transitional provisions in respect of the 1999 Pipe-line Regulations[^key-5e0dce4f85e9efd9e469e12aaed4988b]
+## 43. Transitional provisions in respect of the 1999 Pipe-line Regulations[^c-5e0dce4f85e9efd9e469e12aaed4988b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ received by the Secretary of State before these Regulations come into force.
 
 ## Annotations
 
-[^key-5e0dce4f85e9efd9e469e12aaed4988b]: Commencement: Reg. 43 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-5e0dce4f85e9efd9e469e12aaed4988b]: Commencement: Reg. 43 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

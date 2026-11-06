@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Occupiers’ duties relating to fire safety risks and provision of information[^key-7a6fc50b153375050d7b6875422bbad2]
+## 88. Occupiers’ duties relating to fire safety risks and provision of information[^c-7a6fc50b153375050d7b6875422bbad2]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a6fc50b153375050d7b6875422bbad2]: Commencement: S. 88 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-7a6fc50b153375050d7b6875422bbad2]: Commencement: S. 88 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

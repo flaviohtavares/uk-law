@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**105.**[^key-9f362b27910303aad12ec9929db70267] In regulation 37, for “paragraph 6 of Schedule 3 to the Listed Buildings Act” substitute “paragraph 3(2) of Schedule 12 to the 2023 Act”.
+**105.**[^c-9f362b27910303aad12ec9929db70267] In regulation 37, for “paragraph 6 of Schedule 3 to the Listed Buildings Act” substitute “paragraph 3(2) of Schedule 12 to the 2023 Act”.
 
 ## Annotations
 
-[^key-9f362b27910303aad12ec9929db70267]: Commencement: [Reg. 105](https://www.legislation.gov.uk/wsi/2024/924/regulation/105) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-9f362b27910303aad12ec9929db70267]: Commencement: [Reg. 105](https://www.legislation.gov.uk/wsi/2024/924/regulation/105) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

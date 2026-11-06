@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Offences under section 32 committed outside UK[^key-50add151974b3a9714d9142fef215df8]
+## 32A. Offences under section 32 committed outside UK[^c-50add151974b3a9714d9142fef215df8]
 
 *Extent: E+W+N.I.*
 
@@ -36,4 +36,4 @@ the person is guilty in England and Wales of that offence.
 
 ## Annotations
 
-[^key-50add151974b3a9714d9142fef215df8]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2004/30/section/32A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 170(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/170/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-50add151974b3a9714d9142fef215df8]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2004/30/section/32A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 170(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/170/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

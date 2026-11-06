@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1218ZAC. Primary production company[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
+## 1218ZAC. Primary production company[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) Condition B is that—
 
 - (a) where the exhibition is held at just one venue, the company is responsible for the production of the exhibition at that venue;
-- (b) where the exhibition is held at two or more venues, the company is responsible for the production of the exhibition at one or more[^key-3a2c8bc0013a7946741aeff258e2be7f] of those venues.
+- (b) where the exhibition is held at two or more venues, the company is responsible for the production of the exhibition at one or more[^c-3a2c8bc0013a7946741aeff258e2be7f] of those venues.
 
 (4) For the purposes of this section and section 1218ZAD, a company is responsible for the production of the exhibition at a venue if—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
+[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
 
-[^key-3a2c8bc0013a7946741aeff258e2be7f]: Textual amendment: Words in [s. 1218ZAC(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZAC/3/b) substituted (1.4.2022 in relation to an exhibition only where the production stage begins on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/22/3)[(6)](https://www.legislation.gov.uk/ukpga/2022/3/section/22/6)
+[^c-3a2c8bc0013a7946741aeff258e2be7f]: Textual amendment: Words in [s. 1218ZAC(3)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZAC/3/b) substituted (1.4.2022 in relation to an exhibition only where the production stage begins on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/22/3)[(6)](https://www.legislation.gov.uk/ukpga/2022/3/section/22/6)

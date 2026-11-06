@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-aeb67a76411f4bb87ab8194e85e91f5f]
+## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-aeb67a76411f4bb87ab8194e85e91f5f]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb67a76411f4bb87ab8194e85e91f5f]: Commencement: Art. 25 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-aeb67a76411f4bb87ab8194e85e91f5f]: Commencement: Art. 25 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

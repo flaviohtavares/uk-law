@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Libya) Order 2011 (revoked)[^key-d1f54e57458211fde20a883a7e479165]
+The Export Control (Libya) Order 2011 (revoked)[^c-d1f54e57458211fde20a883a7e479165]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 18th March 2011
 
-[^key-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d1f54e57458211fde20a883a7e479165]
+## 1. Citation, commencement and interpretation[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences supplementing the Regulation[^key-d1f54e57458211fde20a883a7e479165]
+## 2. Offences supplementing the Regulation[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences related to EU authorisations[^key-d1f54e57458211fde20a883a7e479165]
+## 3. Offences related to EU authorisations[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Overlap with the 2008 Order[^key-d1f54e57458211fde20a883a7e479165]
+## 4. Overlap with the 2008 Order[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary provisions as to Offences[^key-d1f54e57458211fde20a883a7e479165]
+## 5. Supplementary provisions as to Offences[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-d1f54e57458211fde20a883a7e479165]
+## 6. Penalties[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of the 1979 Act[^key-d1f54e57458211fde20a883a7e479165]
+## 7. Application of the 1979 Act[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to the 2008 Order related to Libya arms embargo[^key-d1f54e57458211fde20a883a7e479165]
+## 8. Amendments to the 2008 Order related to Libya arms embargo[^c-d1f54e57458211fde20a883a7e479165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1f54e57458211fde20a883a7e479165]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1f54e57458211fde20a883a7e479165]: Textual amendment: Instrument revoked (12.8.2016) by [The Export Control (Libya Sanctions) Order 2016 (S.I. 2016/787)](https://www.legislation.gov.uk/uksi/2016/787), [arts. 1](https://www.legislation.gov.uk/uksi/2016/787/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/787/article/2/a)
+[^c-d1f54e57458211fde20a883a7e479165]: Textual amendment: Instrument revoked (12.8.2016) by [The Export Control (Libya Sanctions) Order 2016 (S.I. 2016/787)](https://www.legislation.gov.uk/uksi/2016/787), [arts. 1](https://www.legislation.gov.uk/uksi/2016/787/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2016/787/article/2/a)

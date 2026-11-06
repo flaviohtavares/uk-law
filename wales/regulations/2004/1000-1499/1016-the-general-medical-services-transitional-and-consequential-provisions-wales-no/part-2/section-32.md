@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Refund of fees paid under paragraph 38(f) of Schedule 2 to the 1992 Regulations[^key-811bd2a1b544b46cebce1d683fca1020]
+## 32. Refund of fees paid under paragraph 38(f) of Schedule 2 to the 1992 Regulations[^c-811bd2a1b544b46cebce1d683fca1020]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ the period for applying for a refund and the powers of the Local Health Board in
 
 ## Annotations
 
-[^key-811bd2a1b544b46cebce1d683fca1020]: Commencement: Art. 32 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-811bd2a1b544b46cebce1d683fca1020]: Commencement: Art. 32 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00037]: Footnote: Paragraph 39(1) was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

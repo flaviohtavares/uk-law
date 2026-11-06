@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Protection of property: supplementary provisions[^key-8a87e3cff9cf981dfa8fbfd5abc15c63]
+## 94. Protection of property: supplementary provisions[^c-8a87e3cff9cf981dfa8fbfd5abc15c63]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ it must notify the applicant of that fact and of the reason for it.
 
 ## Annotations
 
-[^key-8a87e3cff9cf981dfa8fbfd5abc15c63]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2014/7/section/94) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 45](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/45)
+[^c-8a87e3cff9cf981dfa8fbfd5abc15c63]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2014/7/section/94) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 45](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/45)

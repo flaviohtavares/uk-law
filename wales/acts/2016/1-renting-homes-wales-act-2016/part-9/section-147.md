@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Overview of Part[^key-09707474fd67a5850a0128a32651bf22][^key-b6d383a30ce08064689ce895046fd098][^key-b6d383a30ce08064689ce895046fd098]
+## 147. Overview of Part[^c-09707474fd67a5850a0128a32651bf22][^c-b6d383a30ce08064689ce895046fd098][^c-b6d383a30ce08064689ce895046fd098]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ TABLE 1
 
 | **CHAPTER** | **OCCUPATION CONTRACTS TO WHICH IT APPLIES** | **CONTENT OF CHAPTER** |
 | --- | --- | --- |
-| 1 | All occupation contracts (except section 151, which applies only to introductory standard contracts and prohibited conduct standard contracts) | - (a) ways in which occupation contracts may be ended,<br>- (b) circumstances in which landlords may make a claim to the court for recovery of possession of a dwelling, and<br>- (c) “possession notices”, which are notices landlords must give to contract-holders before making a possession claim under section 157 (breach of contract), section 160[^key-0d3559e03b5161c8d1607db6b1c2a569] (in relation to estate management grounds), sections 165 or 170 (recovery of possession after contract-holder's notice), section 181 or 187 (serious rent arrears) or section 191 (recovery of possession after use of contract-holder's break clause). |
+| 1 | All occupation contracts (except section 151, which applies only to introductory standard contracts and prohibited conduct standard contracts) | - (a) ways in which occupation contracts may be ended,<br>- (b) circumstances in which landlords may make a claim to the court for recovery of possession of a dwelling, and<br>- (c) “possession notices”, which are notices landlords must give to contract-holders before making a possession claim under section 157 (breach of contract), section 160[^c-0d3559e03b5161c8d1607db6b1c2a569] (in relation to estate management grounds), sections 165 or 170 (recovery of possession after contract-holder's notice), section 181 or 187 (serious rent arrears) or section 191 (recovery of possession after use of contract-holder's break clause). |
 | 2 | All occupation contracts | Certain circumstances in which occupation contracts can end without a possession claim. |
 | 3 | All occupation contracts | Landlords' possession claims on—<br>- (a) ground of contract-holder's breach of contract, and<br>- (b) estate management grounds. |
 | 4 | Secure contracts | Contract-holder's right to end the contract. |
@@ -40,8 +40,8 @@ TABLE 1
 
 ## Annotations
 
-[^key-09707474fd67a5850a0128a32651bf22]: Commencement: [S. 147](https://www.legislation.gov.uk/anaw/2016/1/section/147) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-09707474fd67a5850a0128a32651bf22]: Commencement: [S. 147](https://www.legislation.gov.uk/anaw/2016/1/section/147) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
+[^c-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
 
-[^key-0d3559e03b5161c8d1607db6b1c2a569]: Textual amendment: Words in [s. 147](https://www.legislation.gov.uk/anaw/2016/1/section/147) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 13](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/13)
+[^c-0d3559e03b5161c8d1607db6b1c2a569]: Textual amendment: Words in [s. 147](https://www.legislation.gov.uk/anaw/2016/1/section/147) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 13](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/13)

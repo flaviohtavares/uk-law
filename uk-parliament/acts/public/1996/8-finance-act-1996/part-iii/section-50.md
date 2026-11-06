@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to assess: registered persons.[^key-4d0136049341173fea31cb98395d0bfa]
+## 50. Power to assess: registered persons.[^c-4d0136049341173fea31cb98395d0bfa]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where—
 
-- (a) a registered person[^key-2961567951c8a706286967eb43c8b94f] has failed to make any returns required to be made under this Part,
-- (b) a registered person[^key-c0a4e0b784f3416ef1e0cddc8ae9f947] has failed to keep any documents necessary to verify returns required to be made under this Part,
-- (c) a registered person[^key-8f6de5233a69103204a4c751f7224004] has failed to afford the facilities necessary to verify returns required to be made under this Part, or
-- (d) it appears to the Commissioners that returns required to be made by a registered person[^key-d4b4b1f73e2f7d3c39fb8e73bc9de97d] under this Part are incomplete or incorrect,
+- (a) a registered person[^c-2961567951c8a706286967eb43c8b94f] has failed to make any returns required to be made under this Part,
+- (b) a registered person[^c-c0a4e0b784f3416ef1e0cddc8ae9f947] has failed to keep any documents necessary to verify returns required to be made under this Part,
+- (c) a registered person[^c-8f6de5233a69103204a4c751f7224004] has failed to afford the facilities necessary to verify returns required to be made under this Part, or
+- (d) it appears to the Commissioners that returns required to be made by a registered person[^c-d4b4b1f73e2f7d3c39fb8e73bc9de97d] under this Part are incomplete or incorrect,
 
 the Commissioners may assess the amount of tax due from the person concerned to the best of their judgment and notify it to him.
 
-(2) Where a registered person[^key-d0e34a318315e3a242f01c65023f920e] has for an accounting period been paid an amount to which he purports to be entitled under regulations made under section 51 below, then, to the extent that the amount ought not to have been paid or would not have been paid had the facts been known or been as they later turn out to be, the Commissioners may assess the amount as being tax due from him for that period and notify it to him accordingly.
+(2) Where a registered person[^c-d0e34a318315e3a242f01c65023f920e] has for an accounting period been paid an amount to which he purports to be entitled under regulations made under section 51 below, then, to the extent that the amount ought not to have been paid or would not have been paid had the facts been known or been as they later turn out to be, the Commissioners may assess the amount as being tax due from him for that period and notify it to him accordingly.
 
 (3) Where a person is assessed under subsections (1) and (2) above in respect of the same accounting period the assessments may be combined and notified to him as one assessment.
 
@@ -61,20 +61,20 @@ shall be treated as notification to the person in relation to whom the person me
 
 (9) Subsection (5) above has effect subject to paragraph 33 of Schedule 5 to this Act.
 
-(10) In this section “**trustee in bankruptcy**” means, as respects Scotland, a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate[^key-11f757b8cc4b39802af35d03219c1f58] or a trustee acting under a trust deed (within the meaning of that Act).
+(10) In this section “**trustee in bankruptcy**” means, as respects Scotland, a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate[^c-11f757b8cc4b39802af35d03219c1f58] or a trustee acting under a trust deed (within the meaning of that Act).
 
 ## Annotations
 
-[^key-4d0136049341173fea31cb98395d0bfa]: Textual amendment: Words in s. 50 heading substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/2)
+[^c-4d0136049341173fea31cb98395d0bfa]: Textual amendment: Words in s. 50 heading substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/2)
 
-[^key-2961567951c8a706286967eb43c8b94f]: Textual amendment: Words in s. 50(1)(a) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
+[^c-2961567951c8a706286967eb43c8b94f]: Textual amendment: Words in s. 50(1)(a) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
 
-[^key-c0a4e0b784f3416ef1e0cddc8ae9f947]: Textual amendment: Words in s. 50(1)(b) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
+[^c-c0a4e0b784f3416ef1e0cddc8ae9f947]: Textual amendment: Words in s. 50(1)(b) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
 
-[^key-8f6de5233a69103204a4c751f7224004]: Textual amendment: Words in s. 50(1)(c) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
+[^c-8f6de5233a69103204a4c751f7224004]: Textual amendment: Words in s. 50(1)(c) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
 
-[^key-d4b4b1f73e2f7d3c39fb8e73bc9de97d]: Textual amendment: Words in s. 50(1)(d) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
+[^c-d4b4b1f73e2f7d3c39fb8e73bc9de97d]: Textual amendment: Words in s. 50(1)(d) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
 
-[^key-d0e34a318315e3a242f01c65023f920e]: Textual amendment: Words in s. 50(2) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
+[^c-d0e34a318315e3a242f01c65023f920e]: Textual amendment: Words in s. 50(2) substituted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/22/3)
 
-[^key-11f757b8cc4b39802af35d03219c1f58]: Textual amendment: Words in s. 50(10) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/15)
+[^c-11f757b8cc4b39802af35d03219c1f58]: Textual amendment: Words in s. 50(10) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/15)

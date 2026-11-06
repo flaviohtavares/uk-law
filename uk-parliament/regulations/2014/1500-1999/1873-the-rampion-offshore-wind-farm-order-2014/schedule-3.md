@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Footpath to be permanently stopped up[^key-82ffc085556aca5809b9d6834c9330f9]
+## SCHEDULE 3 — Footpath to be permanently stopped up[^c-82ffc085556aca5809b9d6834c9330f9]
 
 *Extent: E+W+S*
 
@@ -32,20 +32,20 @@ Article 17
 </tbody>
 </table>
 
-[^key-30c2ae3ebc8db9d10034de947d08fd87][^key-1bc95642e98fd6960b859197d67c2730][^key-5558589b78d02fa4fe9b75bf2f78a904][^key-01fe3ddf6be4d97d36c2cfdf4fab48d5][^key-5c1be7db60c3d1271c514634390f8aa0][^key-93ca60e64739ae8a689074cc1727081d]
+[^c-30c2ae3ebc8db9d10034de947d08fd87][^c-1bc95642e98fd6960b859197d67c2730][^c-5558589b78d02fa4fe9b75bf2f78a904][^c-01fe3ddf6be4d97d36c2cfdf4fab48d5][^c-5c1be7db60c3d1271c514634390f8aa0][^c-93ca60e64739ae8a689074cc1727081d]
 
 ## Annotations
 
-[^key-82ffc085556aca5809b9d6834c9330f9]: Commencement: Sch. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-82ffc085556aca5809b9d6834c9330f9]: Commencement: Sch. 3 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-30c2ae3ebc8db9d10034de947d08fd87]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/i)
+[^c-30c2ae3ebc8db9d10034de947d08fd87]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/i)
 
-[^key-1bc95642e98fd6960b859197d67c2730]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/ii)
+[^c-1bc95642e98fd6960b859197d67c2730]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/ii)
 
-[^key-5558589b78d02fa4fe9b75bf2f78a904]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/iii)
+[^c-5558589b78d02fa4fe9b75bf2f78a904]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/a/iii)
 
-[^key-01fe3ddf6be4d97d36c2cfdf4fab48d5]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/i)
+[^c-01fe3ddf6be4d97d36c2cfdf4fab48d5]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/i)
 
-[^key-5c1be7db60c3d1271c514634390f8aa0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/ii)
+[^c-5c1be7db60c3d1271c514634390f8aa0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/ii)
 
-[^key-93ca60e64739ae8a689074cc1727081d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/iii)
+[^c-93ca60e64739ae8a689074cc1727081d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1873/schedule/3) substituted (30.4.2021) by [The Rampion Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/535)](https://www.legislation.gov.uk/uksi/2021/535), [arts. 1](https://www.legislation.gov.uk/uksi/2021/535/article/1), [6(b)(iii)](https://www.legislation.gov.uk/uksi/2021/535/article/6/b/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Onshore petroleum licensing[^key-c243b36311ee9e93c15540fc5a6f4f12]
+## 23. Onshore petroleum licensing[^c-c243b36311ee9e93c15540fc5a6f4f12]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c243b36311ee9e93c15540fc5a6f4f12]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/4/section/23) in force at 1.10.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/a)
+[^c-c243b36311ee9e93c15540fc5a6f4f12]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/4/section/23) in force at 1.10.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/a)

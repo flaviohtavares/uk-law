@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Consultation on regulations concerning pension business of friendly societies[^key-1dffee6b580b888768e5ae226aa33e63]
+## 128. Consultation on regulations concerning pension business of friendly societies[^c-1dffee6b580b888768e5ae226aa33e63]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 185(7) of the Pension Schemes Act 1993 (consultation on regulations c
 
 ## Annotations
 
-[^key-1dffee6b580b888768e5ae226aa33e63]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1dffee6b580b888768e5ae226aa33e63]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

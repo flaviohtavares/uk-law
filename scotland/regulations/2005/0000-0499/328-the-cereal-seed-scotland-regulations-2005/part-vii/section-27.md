@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Amendment to the Seeds (Fees) (Scotland) Regulations 2002[^key-63d96eca9a274a202e7024fad9761f30]
+## 27. Amendment to the Seeds (Fees) (Scotland) Regulations 2002[^c-63d96eca9a274a202e7024fad9761f30]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d96eca9a274a202e7024fad9761f30]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2005/328/regulation/27) revoked (1.1.2008) by [The Seeds (Fees) (Scotland) Regulations 2007 (S.S.I. 2007/536)](https://www.legislation.gov.uk/ssi/2007/536), [reg. 1](https://www.legislation.gov.uk/ssi/2007/536/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2007/536/schedule/3)
+[^c-63d96eca9a274a202e7024fad9761f30]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2005/328/regulation/27) revoked (1.1.2008) by [The Seeds (Fees) (Scotland) Regulations 2007 (S.S.I. 2007/536)](https://www.legislation.gov.uk/ssi/2007/536), [reg. 1](https://www.legislation.gov.uk/ssi/2007/536/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2007/536/schedule/3)

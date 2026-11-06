@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Mutual credits and set–off[^key-3438466e5dc614444bc906f1a5646d23]
+## 73. Mutual credits and set–off[^c-3438466e5dc614444bc906f1a5646d23]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3438466e5dc614444bc906f1a5646d23]: Commencement: Rule 73 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3438466e5dc614444bc906f1a5646d23]: Commencement: Rule 73 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

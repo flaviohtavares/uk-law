@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.17. Scope of this Section[^key-d620dee29153284a228643301d80b023][^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.17. Scope of this Section[^c-d620dee29153284a228643301d80b023][^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
-This Part, as modified by this Section, applies to claims started in or transferred to the Intellectual Property Enterprise Court[^key-8320707a605625547e73ad26b4123502].
+This Part, as modified by this Section, applies to claims started in or transferred to the Intellectual Property Enterprise Court[^c-8320707a605625547e73ad26b4123502].
 
-**63.17A.**[^key-c09948ff8a6297cea09b1db893f22c4b] (1) In proceedings in the Intellectual Property Enterprise Court in which a claim is made for damages or an account of profits, the amount or value of that claim shall not exceed £500,000.
+**63.17A.**[^c-c09948ff8a6297cea09b1db893f22c4b] (1) In proceedings in the Intellectual Property Enterprise Court in which a claim is made for damages or an account of profits, the amount or value of that claim shall not exceed £500,000.
 
 (2) In determining the amount or value of a claim for the purpose of paragraph (1), a claim for—
 
@@ -35,10 +35,10 @@ shall be disregarded.
 
 ## Annotations
 
-[^key-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
+[^c-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
 
-[^key-8320707a605625547e73ad26b4123502]: Textual amendment: Words in [rule 63](https://www.legislation.gov.uk/uksi/1998/3132/rule/63).17 substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/rule/2), [26(i)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/i)
+[^c-8320707a605625547e73ad26b4123502]: Textual amendment: Words in [rule 63](https://www.legislation.gov.uk/uksi/1998/3132/rule/63).17 substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/rule/2), [26(i)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/i)
 
-[^key-c09948ff8a6297cea09b1db893f22c4b]: Textual amendment: [Rule 63.17A](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.17A) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(j)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/j)
+[^c-c09948ff8a6297cea09b1db893f22c4b]: Textual amendment: [Rule 63.17A](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.17A) inserted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [26(j)](https://www.legislation.gov.uk/uksi/2013/1974/rule/26/j)

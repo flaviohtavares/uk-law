@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G10. Overseas employment[^key-7cdb26058eda9b924af3d674c8c72cdb]
+## G10. Overseas employment[^c-7cdb26058eda9b924af3d674c8c72cdb]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ as if regulations K1(7), D1(2) (with the substitution for â€œthe appointed dayâ€
 
 ## Annotations
 
-[^key-7cdb26058eda9b924af3d674c8c72cdb]: Commencement: [Reg. G10](https://www.legislation.gov.uk/uksi/1986/24/regulation/G10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7cdb26058eda9b924af3d674c8c72cdb]: Commencement: [Reg. G10](https://www.legislation.gov.uk/uksi/1986/24/regulation/G10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00058]: Footnote: [S.I. 1985/1922](https://www.legislation.gov.uk/uksi/1985/1922).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Right to move adult at risk[^key-52860298de4cc05ee2987a00c255e6c5]
+## 16. Right to move adult at risk[^c-52860298de4cc05ee2987a00c255e6c5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52860298de4cc05ee2987a00c255e6c5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2007/10/section/16) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-52860298de4cc05ee2987a00c255e6c5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2007/10/section/16) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

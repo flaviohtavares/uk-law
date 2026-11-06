@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Regulations[^key-0688dfe39b972d4209e85d317eb7306e]
+## 91. Regulations[^c-0688dfe39b972d4209e85d317eb7306e]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0688dfe39b972d4209e85d317eb7306e]: Commencement: S. 91 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-0688dfe39b972d4209e85d317eb7306e]: Commencement: S. 91 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

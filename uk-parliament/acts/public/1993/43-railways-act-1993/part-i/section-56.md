@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Procedural requirements for section 55 orders.[^c18936861][^key-929dc95eac7afac443ea4e095b07fde3][^c14105031]
+## 56. Procedural requirements for section 55 orders.[^c18936861][^c-929dc95eac7afac443ea4e095b07fde3][^c14105031]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ and shall consider any representations or objections which are duly made and not
 - (a) by publishing the notice in such manner as the appropriate authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
 - (b) by serving a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, on the relevant operator to whom the order relates.
 
-(2A)[^c14105111] Where the Office of Rail and Road[^key-844fea443d33dd504ebf3d32615d30d2] serves a copy of a notice under subsection (1) above on a licence holder, he shall also serve a copy on the Secretary of State and on the Scottish Ministers[^c18936841] and the Welsh Ministers[^key-19bce6cf64ebac2e20537f9ab531b001].
+(2A)[^c14105111] Where the Office of Rail and Road[^c-844fea443d33dd504ebf3d32615d30d2] serves a copy of a notice under subsection (1) above on a licence holder, he shall also serve a copy on the Secretary of State and on the Scottish Ministers[^c18936841] and the Welsh Ministers[^c-19bce6cf64ebac2e20537f9ab531b001].
 
 (3) The appropriate authority shall not make a final order with modifications, or confirm a provisional order with modifications, except—
 
@@ -72,7 +72,7 @@ and shall consider any representations or objections which are duly made and not
 
 [^c18936861]: Modification: S. 56 applied (with modifications) (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/1/c)
 
-[^key-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
+[^c-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
 
 [^c14105031]: Textual amendment: Words in s. 56 sidenote inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/31); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -86,11 +86,11 @@ and shall consider any representations or objections which are duly made and not
 
 [^c14105111]: Textual amendment: S. 56(2A) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 216](https://www.legislation.gov.uk/ukpga/2000/38/section/216), [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17/paragraph/12) (with [Sch. 28 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/2/5), [17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/17)); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-844fea443d33dd504ebf3d32615d30d2]: Textual amendment: Words in s. 56(2A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(kk)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/kk)
+[^c-844fea443d33dd504ebf3d32615d30d2]: Textual amendment: Words in s. 56(2A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(kk)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/kk)
 
 [^c18936841]: Textual amendment: Words in s. 56(2A) substituted (24.7.2005 for certain purposes and 16.10.2005 for certain further purposes and 1.12.2006 in so far as not already in force) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/22); S.I 2005/1909, {art. 1}, Sch.; [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 
-[^key-19bce6cf64ebac2e20537f9ab531b001]: Textual amendment: Words in s. 56(2A) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/14)
+[^c-19bce6cf64ebac2e20537f9ab531b001]: Textual amendment: Words in s. 56(2A) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/14)
 
 [^c14105151]: Textual amendment: Words in s. 56(4)(b) substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 226(2)(b)](https://www.legislation.gov.uk/ukpga/2000/38/section/226/2/b); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

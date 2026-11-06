@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Removal of vehicles[^key-8f82fe97d02b38fbbc224e8482d46f45]
+## 46. Removal of vehicles[^c-8f82fe97d02b38fbbc224e8482d46f45]
 
 *Extent: E+W+S*
 
@@ -141,7 +141,7 @@ then those persons are to be treated as jointly and severally liable for the RSD
 
 ## Annotations
 
-[^key-8f82fe97d02b38fbbc224e8482d46f45]: Commencement: Art. 46 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-8f82fe97d02b38fbbc224e8482d46f45]: Commencement: Art. 46 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294661]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 

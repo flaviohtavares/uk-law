@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**9.**[^key-7b91cda556c33a04f3871ed07d411388] (1) A registrable person is required to preserve any record required by regulation 7 or 8 for a period of at least six years.
+**9.**[^c-7b91cda556c33a04f3871ed07d411388] (1) A registrable person is required to preserve any record required by regulation 7 or 8 for a period of at least six years.
 
 (2) For the purposes of paragraph (1), a record within regulation 7 need only be preserved in relation to events taking place not more than six years earlier.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b91cda556c33a04f3871ed07d411388]: Commencement: Reg. 9 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-7b91cda556c33a04f3871ed07d411388]: Commencement: Reg. 9 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

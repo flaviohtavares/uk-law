@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Scheme advisory board: establishment[^key-01ac0e1abc714976a7be9826b2cb5bcd]
+## 10. Scheme advisory board: establishment[^c-01ac0e1abc714976a7be9826b2cb5bcd]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01ac0e1abc714976a7be9826b2cb5bcd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/290/regulation/10) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-01ac0e1abc714976a7be9826b2cb5bcd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/290/regulation/10) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00045]: Footnote: ()See section 7(6) of the Act for the meaning of “scheme advisory board”

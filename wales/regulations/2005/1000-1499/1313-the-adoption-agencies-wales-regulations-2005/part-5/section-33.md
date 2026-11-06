@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Function of the adoption panel in relation to the proposed placement[^key-18a1ff9a0eabf44a53f5c4ee6a9e223f]
+## 33. Function of the adoption panel in relation to the proposed placement[^c-18a1ff9a0eabf44a53f5c4ee6a9e223f]
 
 *Extent: E+W*
 
@@ -40,10 +40,10 @@ summary: ''
 - (a) that recommendation is to be made at the same meeting of the adoption panel at which a recommendation has been made that the child should be placed for adoption; or
 - (b) the adoption agency or another adoption agency has made a decision in accordance with regulation 19 that the child should be placed for adoption;
 
-and in either case that recommendation is to be made at the same meeting of the panel at which a recommendation has been made that the prospective adopter is suitable to adopt a child or the adoption agency, or another adoption agency, has made a decision in accordance with regulation 30B[^key-e9ce5480b0aa779c7fe60411f1fb586e] that the prospective adopter is suitable to adopt a child.
+and in either case that recommendation is to be made at the same meeting of the panel at which a recommendation has been made that the prospective adopter is suitable to adopt a child or the adoption agency, or another adoption agency, has made a decision in accordance with regulation 30B[^c-e9ce5480b0aa779c7fe60411f1fb586e] that the prospective adopter is suitable to adopt a child.
 
 ## Annotations
 
-[^key-18a1ff9a0eabf44a53f5c4ee6a9e223f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/1313/regulation/33) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-18a1ff9a0eabf44a53f5c4ee6a9e223f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/1313/regulation/33) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
 
-[^key-e9ce5480b0aa779c7fe60411f1fb586e]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/33/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/163/regulation/11)
+[^c-e9ce5480b0aa779c7fe60411f1fb586e]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/33/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/163/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Application for approval of a scheme administrator[^key-a64af9cd1ad3da53fcf0b2653622f125]
+## 14. Application for approval of a scheme administrator[^c-a64af9cd1ad3da53fcf0b2653622f125]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a64af9cd1ad3da53fcf0b2653622f125]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/154/regulation/14) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [14](https://www.legislation.gov.uk/ssi/2025/188/regulation/14)
+[^c-a64af9cd1ad3da53fcf0b2653622f125]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/154/regulation/14) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [14](https://www.legislation.gov.uk/ssi/2025/188/regulation/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Penalty for providing false information[^key-9b9d37a535253226b73224d3727cdaa2]
+## 233. Penalty for providing false information[^c-9b9d37a535253226b73224d3727cdaa2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person guilty of an offence under regulation 232 is liable—
 
 ## Annotations
 
-[^key-9b9d37a535253226b73224d3727cdaa2]: Commencement: Reg. 233 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9b9d37a535253226b73224d3727cdaa2]: Commencement: Reg. 233 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

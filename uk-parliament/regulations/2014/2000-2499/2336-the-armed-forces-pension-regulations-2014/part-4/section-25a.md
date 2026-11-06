@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Calculation of “index supplement”[^key-af37774702cf93be1ae07f4867424b1c]
+## 25A. Calculation of “index supplement”[^c-af37774702cf93be1ae07f4867424b1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ B is the index adjustment for the purposes of regulation 25(2) or (5) calculated
 
 ## Annotations
 
-[^key-af37774702cf93be1ae07f4867424b1c]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/25A) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2024/491/regulation/5)
+[^c-af37774702cf93be1ae07f4867424b1c]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/25A) inserted (6.5.2024) by [The Armed Forces Pensions (Amendment) Regulations 2024 (S.I. 2024/491)](https://www.legislation.gov.uk/uksi/2024/491), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/491/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2024/491/regulation/5)

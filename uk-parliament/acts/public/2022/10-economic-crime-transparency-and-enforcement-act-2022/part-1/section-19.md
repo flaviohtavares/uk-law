@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Documents to be in English[^key-5f3b618e7ae5e2dfd32d62b9288a3f33][^key-6ce4bce741f53be87410ef80ed122c65][^key-b9a0722c0659df64117a9d813665865c]
+## 19. Documents to be in English[^c-5f3b618e7ae5e2dfd32d62b9288a3f33][^c-6ce4bce741f53be87410ef80ed122c65][^c-b9a0722c0659df64117a9d813665865c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Documents delivered to the registrar under this Part, or under regulations made 
 
 ## Annotations
 
-[^key-5f3b618e7ae5e2dfd32d62b9288a3f33]: Commencement: S. 19 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-5f3b618e7ae5e2dfd32d62b9288a3f33]: Commencement: S. 19 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-6ce4bce741f53be87410ef80ed122c65]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/10/section/19) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/e)
+[^c-6ce4bce741f53be87410ef80ed122c65]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/10/section/19) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/e)
 
-[^key-b9a0722c0659df64117a9d813665865c]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/10/section/19) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-b9a0722c0659df64117a9d813665865c]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/10/section/19) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

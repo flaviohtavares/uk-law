@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Offences[^key-ae8e84f107d13d0816acde8249420c18]
+## 11. Offences[^c-ae8e84f107d13d0816acde8249420c18]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ is guilty of an offence and will be liable on summary conviction to a fine not e
 
 ## Annotations
 
-[^key-ae8e84f107d13d0816acde8249420c18]: Commencement: Reg. 11 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-ae8e84f107d13d0816acde8249420c18]: Commencement: Reg. 11 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

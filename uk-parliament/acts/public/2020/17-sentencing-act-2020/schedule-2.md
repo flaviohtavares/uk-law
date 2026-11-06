@@ -24,11 +24,11 @@ Section 81
 
 ### Application of Schedule
 
-**1.**[^key-3100eaefe560dc779ca9a5afbe5e8d55] This Schedule applies where an order for conditional discharge has been made in respect of an offence (“the original offence”).
+**1.**[^c-3100eaefe560dc779ca9a5afbe5e8d55] This Schedule applies where an order for conditional discharge has been made in respect of an offence (“the original offence”).
 
 ### Orders made on appeal
 
-**2.**[^key-854e5a336eef1a5da2d6380481dd944b] If the order for conditional discharge was made on appeal, for the purposes of this Schedule it is to be taken—
+**2.**[^c-854e5a336eef1a5da2d6380481dd944b] If the order for conditional discharge was made on appeal, for the purposes of this Schedule it is to be taken—
 
 - (a) if it was made on an appeal from a magistrates' court, to have been made by that magistrates' court;
 - (b) if it was made on an appeal—
@@ -39,7 +39,7 @@ Section 81
 
 ### Issue of summons or warrant by justice of the peace
 
-**3.**[^key-2800fdc92af72bf449a74f1351a88848] (1) This paragraph applies where—
+**3.**[^c-2800fdc92af72bf449a74f1351a88848] (1) This paragraph applies where—
 
 - (a) the order for conditional discharge was made by a magistrates' court, and
 - (b) it appears to a justice of the peace on information that the offender—
@@ -55,7 +55,7 @@ Section 81
 
 ### Issue of summons or warrant by Crown Court
 
-**4.**[^key-35580b2e4b20b4458f5a71deaa0c4983] (1) This paragraph applies where—
+**4.**[^c-35580b2e4b20b4458f5a71deaa0c4983] (1) This paragraph applies where—
 
 - (a) the order for conditional discharge was made by the Crown Court, and
 - (b) it appears to the Crown Court that the offender—
@@ -71,7 +71,7 @@ Section 81
 
 ### Power of magistrates' court convicting offender of further offence
 
-**5.**[^key-6e07942d877658752bfc08cc037ff8e8] (1) This paragraph applies where the offender is convicted by a magistrates' court (“the convicting court”) of an offence committed during the period of conditional discharge.
+**5.**[^c-6e07942d877658752bfc08cc037ff8e8] (1) This paragraph applies where the offender is convicted by a magistrates' court (“the convicting court”) of an offence committed during the period of conditional discharge.
 
 (2) If the order for conditional discharge was made by the convicting court, that court may re-sentence the offender for the original offence.
 
@@ -88,7 +88,7 @@ Section 81
 
 ### Conviction of further offence by another court: power of magistrates' court which made order
 
-**6.**[^key-07b2cad63d0c3d9a15361b49a75d6a46] (1) This paragraph applies where—
+**6.**[^c-07b2cad63d0c3d9a15361b49a75d6a46] (1) This paragraph applies where—
 
 - (a) the order for conditional discharge was made by a magistrates' court (“the original court”),
 - (b) it is proved to the satisfaction of the original court that the offender has been convicted by another court in Great Britain of an offence committed during the period of conditional discharge.
@@ -97,7 +97,7 @@ Section 81
 
 ### Powers of Crown Court with respect to original offence following subsequent conviction
 
-**7.**[^key-b6ecc0a75ae957a473f3c9a5d272f55a] (1) Sub-paragraph (2) applies where—
+**7.**[^c-b6ecc0a75ae957a473f3c9a5d272f55a] (1) Sub-paragraph (2) applies where—
 
 - (a) the offender—
   - (i) is convicted before the Crown Court of an offence committed during the period of conditional discharge, or
@@ -117,16 +117,16 @@ This does not apply to any duty imposed on a magistrates' court by section 25(1)
 
 ## Annotations
 
-[^key-3100eaefe560dc779ca9a5afbe5e8d55]: Commencement: Sch. 2 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3100eaefe560dc779ca9a5afbe5e8d55]: Commencement: Sch. 2 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-854e5a336eef1a5da2d6380481dd944b]: Commencement: Sch. 2 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-854e5a336eef1a5da2d6380481dd944b]: Commencement: Sch. 2 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2800fdc92af72bf449a74f1351a88848]: Commencement: Sch. 2 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2800fdc92af72bf449a74f1351a88848]: Commencement: Sch. 2 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-35580b2e4b20b4458f5a71deaa0c4983]: Commencement: Sch. 2 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-35580b2e4b20b4458f5a71deaa0c4983]: Commencement: Sch. 2 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6e07942d877658752bfc08cc037ff8e8]: Commencement: Sch. 2 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6e07942d877658752bfc08cc037ff8e8]: Commencement: Sch. 2 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-07b2cad63d0c3d9a15361b49a75d6a46]: Commencement: Sch. 2 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-07b2cad63d0c3d9a15361b49a75d6a46]: Commencement: Sch. 2 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b6ecc0a75ae957a473f3c9a5d272f55a]: Commencement: Sch. 2 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b6ecc0a75ae957a473f3c9a5d272f55a]: Commencement: Sch. 2 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

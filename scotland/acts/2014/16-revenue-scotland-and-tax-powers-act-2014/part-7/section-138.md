@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Protection for privileged communications between legal advisers and clients[^key-6de1e17317b68ee8b55564fe97fc3971][^key-280625e49cbdf8bf784948355a0babd1][^key-8582aee1c20bc942bc848dcc0f3ead7c][^key-8582aee1c20bc942bc848dcc0f3ead7c]
+## 138. Protection for privileged communications between legal advisers and clients[^c-6de1e17317b68ee8b55564fe97fc3971][^c-280625e49cbdf8bf784948355a0babd1][^c-8582aee1c20bc942bc848dcc0f3ead7c][^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 *Extent: S*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6de1e17317b68ee8b55564fe97fc3971]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2014/16/section/138) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-6de1e17317b68ee8b55564fe97fc3971]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2014/16/section/138) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-280625e49cbdf8bf784948355a0babd1]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2014/16/section/138) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-280625e49cbdf8bf784948355a0babd1]: Commencement: [S. 138](https://www.legislation.gov.uk/asp/2014/16/section/138) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)

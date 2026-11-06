@@ -27,7 +27,7 @@ summary: ''
 
 as is appropriate.
 
-(2)[^key-e34c98627a6be0be4f4050f066732be0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e34c98627a6be0be4f4050f066732be0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A local authority may provide facilities (including training, advice, guidance and counselling) for those—
 
@@ -41,7 +41,7 @@ as is appropriate.
 - (a) outside school hours; or
 - (b) during school holidays.
 
-(6)[^key-17943df3332098470d234a65597d4956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-17943df3332098470d234a65597d4956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this section “**supervised activity**” means an activity supervised by a responsible person.
 
@@ -49,6 +49,6 @@ as is appropriate.
 
 [^c15160891]: Commencement: S. 18 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-e34c98627a6be0be4f4050f066732be0]: Textual amendment: S. 18(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [66(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/66/a)
+[^c-e34c98627a6be0be4f4050f066732be0]: Textual amendment: S. 18(2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [66(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/66/a)
 
-[^key-17943df3332098470d234a65597d4956]: Textual amendment: S. 18(6) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [66(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/66/b)
+[^c-17943df3332098470d234a65597d4956]: Textual amendment: S. 18(6) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [66(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/66/b)

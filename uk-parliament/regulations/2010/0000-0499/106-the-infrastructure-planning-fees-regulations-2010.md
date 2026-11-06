@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 4 and 232(3) of the Planning Act 2008[^f00001], makes the following Regulations:
 
-## PART 1 — Introduction[^key-6452cbbe995e7124269aebde7dcd9a35]
+## PART 1 — Introduction[^c-6452cbbe995e7124269aebde7dcd9a35]
 
-### 1. Citation and commencement[^key-5649031e97daf011ba025cad18ad39ce]
+### 1. Citation and commencement[^c-5649031e97daf011ba025cad18ad39ce]
 
 These Regulations may be cited as the Infrastructure Planning (Fees) Regulations 2010 and shall come into force on 1st March 2010.
 
-### 2. Interpretation[^key-c564b81476a80d039fd4eae1c0ba7987]
+### 2. Interpretation[^c-c564b81476a80d039fd4eae1c0ba7987]
 
 (1) In these Regulations—
 
 - “the Act” means the Planning Act 2008;
 - “applicant” means an applicant for an order granting development consent or a person who proposes to apply for such an order;
-- “[^key-0c694179a2edf58a9049097c007c64fb]**applicant**” means—
+- “[^c-0c694179a2edf58a9049097c007c64fb]**applicant**” means—
   - (a) for the purposes of Part 2, an applicant for an order granting development consent or a person who proposes to apply for such an order;
   - (b) for the purposes of Part 3, an applicant or a person who proposes to apply for—
     - (i) an order granting development consent, or
@@ -69,10 +69,10 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
     - (i) an order granting development consent, or
     - (ii) an order to change or revoke such an order granting development consent.
 - “application” means an application for an order granting development consent;
-- “appointed person” means a person appointed by the Secretary of State under sections 65 (appointment of members, and lead member, of Panel) or 79 (appointment of single appointed person);[^key-fac8ad1a79448c264e0f5b313c60eed7]
-- “Examining authority” means the Panel or single appointed person[^key-3c97ee996eef58b4507366e40e476689] appointed to examine the application;
+- “appointed person” means a person appointed by the Secretary of State under sections 65 (appointment of members, and lead member, of Panel) or 79 (appointment of single appointed person);[^c-fac8ad1a79448c264e0f5b313c60eed7]
+- “Examining authority” means the Panel or single appointed person[^c-3c97ee996eef58b4507366e40e476689] appointed to examine the application;
 - “hearing” has the same meaning as in section 95(2);
-- “[^key-206864972c766a6990cb12d6b8b57182]**the land**” has the same meaning as in section 102(9);
+- “[^c-206864972c766a6990cb12d6b8b57182]**the land**” has the same meaning as in section 102(9);
 - “**local authority**” has the same meaning as in section 102(8).
 
 (2) In these Regulations any reference to a section is a reference to a section of the Act.
@@ -81,9 +81,9 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 (4) In these Regulations any reference to a failure to pay a fee is a reference to the Secretary of State not having received cleared funds in respect of the full amount of the fee or having received payment of the full amount by cheque which has subsequently been dishonoured.
 
-## PART 2 — Charging of fees by the Secretary of State[^key-6b0deea4c9524525dc034f12c2696ff3]
+## PART 2 — Charging of fees by the Secretary of State[^c-6b0deea4c9524525dc034f12c2696ff3]
 
-### 2A. Fee in respect of pre-application services[^key-f4d0cc9e73b963e2ce82e12d94a21753]
+### 2A. Fee in respect of pre-application services[^c-f4d0cc9e73b963e2ce82e12d94a21753]
 
 (1) Where the applicant notifies the Secretary of State of a proposed application and requests pre-application services in relation to that proposed application, the Secretary of State may charge the applicant a fee in relation to the provision of those services.
 
@@ -104,9 +104,9 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 - “**pre-application services**” means services provided to the applicant by the Secretary of State in connection with the Secretary of State’s major infrastructure functions in relation to a proposed application and include the services listed in Schedule 1;
 - “**relevant day**” means a day on which the Secretary of State provides pre-application services.
 
-### 3. Fee in respect of authorisation under sections 52 and 53[^key-2d34b7e9c2f00c53fd1dd6fcb8d22615]
+### 3. Fee in respect of authorisation under sections 52 and 53[^c-2d34b7e9c2f00c53fd1dd6fcb8d22615]
 
-(1) The Secretary of State must charge a fee of £1,500[^key-ee16c6b62eb8ac885b0017415d29fae9] in relation to each of the following requests—
+(1) The Secretary of State must charge a fee of £1,500[^c-ee16c6b62eb8ac885b0017415d29fae9] in relation to each of the following requests—
 
 - (a) a request for authorisation under section 52(2) (obtaining information about interests in land);
 - (b) a request for authorisation under section 53(1) (rights of entry).
@@ -115,7 +115,7 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 (3) If the applicant fails to pay the fee the Secretary of State need not consider the request until payment is received by the Secretary of State.
 
-### 4. Fee in respect of venue costs[^key-7bdfb5e0556a256c8e9f7d733e6f6256]
+### 4. Fee in respect of venue costs[^c-7bdfb5e0556a256c8e9f7d733e6f6256]
 
 (1) Where the applicant does not provide a venue for a hearing the Secretary of State may charge a fee in respect of the venue costs.
 
@@ -130,21 +130,21 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 (5) If the applicant fails to pay the fee within the period specified in paragraph (4), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
 
-### 5. Fee to accompany an application[^key-81bfaded68db7f76e673a6c9e1dca983]
+### 5. Fee to accompany an application[^c-81bfaded68db7f76e673a6c9e1dca983]
 
 (1) The Secretary of State must charge the applicant a fee in respect of the decision by the Secretary of State under section 55 (acceptance of applications) whether or not to accept the application.
 
-(2) The fee payable is £6,750[^key-b537b47833ea5ed97c27d110dcaf129d].
+(2) The fee payable is £6,750[^c-b537b47833ea5ed97c27d110dcaf129d].
 
 (3) The fee must be paid at the same time that the application is made.
 
 (4) If the applicant fails to pay the fee, the Secretary of State need not consider the application until payment is received by the Secretary of State.
 
-### 6. Fee in respect of the initial decision[^key-3cd893c57956db5f958ce6649892db6c]
+### 6. Fee in respect of the initial decision[^c-3cd893c57956db5f958ce6649892db6c]
 
 (1) Following a decision under section 61 (initial choice of panel or single appointed person) the Secretary of State must notify the applicant in writing, as soon as reasonably practicable, of the pre-examination fee.
 
-(2)[^key-831c9e151cdd4693b3122d455787d112] The pre-examination fee is—
+(2)[^c-831c9e151cdd4693b3122d455787d112] The pre-examination fee is—
 
 - (a) where a single appointed person will handle the application, £19,500;
 - (b) where a Panel of two appointed persons will handle the application, £32,250;
@@ -155,7 +155,7 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 (4) If the applicant fails to pay the pre-examination fee within the period specified in paragraph (3), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
 
-### 7. Fee in respect of handling an application[^key-b3cf9fec88200a1872f23bd756aae02f]
+### 7. Fee in respect of handling an application[^c-b3cf9fec88200a1872f23bd756aae02f]
 
 (1) The Secretary of State must charge the applicant a fee in respect of the Examining authority’s handling of the application.
 
@@ -164,7 +164,7 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 - (a) an initial payment calculated in accordance with regulation 8; and
 - (b) a final payment calculated in accordance with regulation 9.
 
-### 8. Initial payment in respect of the handling of an application[^key-020f54c28bbe56392fee997fb531adbf]
+### 8. Initial payment in respect of the handling of an application[^c-020f54c28bbe56392fee997fb531adbf]
 
 (1) Following the preliminary meeting under section 88 (initial assessment of issues, and preliminary meeting) the Secretary of State must, as soon as reasonably practicable, give the applicant notice in writing of—
 
@@ -175,7 +175,7 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 (2) In this regulation—
 
 - “estimated relevant day” means a day estimated by the Examining authority as required for examining the application;
-- “initial payment” in relation to a notice under paragraph (1) means—[^key-d5841ab1815762d69596c3576ed2acc3]
+- “initial payment” in relation to a notice under paragraph (1) means—[^c-d5841ab1815762d69596c3576ed2acc3]
   - (a) where the examination is to be handled by a single appointed person, £923 for each estimated relevant day;
   - (b) where the examination is to be handled by a Panel of two appointed persons, £1,467 for each estimated relevant day;
   - (c) where the examination is to be handled by a Panel of three appointed persons, £2,010 for each estimated relevant day;
@@ -185,11 +185,11 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 (4) If the applicant fails to pay the initial payment within the period specified in paragraph (3), the Secretary of State need take no further steps in relation to the application until payment has been received by the Secretary of State.
 
-### 9. Final payment in respect of the handling of an application[^key-630576deae1121de0cf2aaff644a9124]
+### 9. Final payment in respect of the handling of an application[^c-630576deae1121de0cf2aaff644a9124]
 
 (1) Following notification of the completion of the examination under section 99 (completion of Examining authority’s examination of application) the Secretary of State must, as soon as reasonably practicable, give the applicant notice in writing of the final payment.
 
-(2)[^key-d44148103313f3b411ed0ff628d51397] The final payment is—
+(2)[^c-d44148103313f3b411ed0ff628d51397] The final payment is—
 
 - (a) where a single appointed person has examined the application, £1,845 for each relevant day;
 - (b) where a Panel of two appointed persons has examined the application, £2,933 for each relevant day;
@@ -198,7 +198,7 @@ These Regulations may be cited as the Infrastructure Planning (Fees) Regulations
 
 less the initial payment referred to in regulation 8.
 
-(3)[^key-72ef451085729542919c3d205c27d39b] In this regulation “relevant day” means a day in the period beginning with the start day referred to in section 98(2) (timetable for examining, and reporting on, application) and ending with the completion of the examination, excluding—
+(3)[^c-72ef451085729542919c3d205c27d39b] In this regulation “relevant day” means a day in the period beginning with the start day referred to in section 98(2) (timetable for examining, and reporting on, application) and ending with the completion of the examination, excluding—
 
 - (a) a Saturday or a Sunday, Christmas Day, Good Friday or a day which under the Banking and Financial Dealings Act 1971 is a bank holiday in England and Wales, unless any such day was required for the handling of the application;
 - (b) any day in respect of which in relation to the application there was a suspension under section 108 (suspension during review of national policy statement) or regulation 16 or 17 (accepted applications) of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009; or
@@ -206,21 +206,21 @@ less the initial payment referred to in regulation 8.
 
 (4) The final payment must be received by the Secretary of State within the period of 28 days beginning with the date of the notice referred to in paragraph (1).
 
-(5) If an applicant fails to pay the final payment within the period specified in paragraph (4) the Secretary of State may [^key-2d8b58b545e4914150e05bfcb331429e]... extend the deadline for report to the Secretary of State by the extended period.
+(5) If an applicant fails to pay the final payment within the period specified in paragraph (4) the Secretary of State may [^c-2d8b58b545e4914150e05bfcb331429e]... extend the deadline for report to the Secretary of State by the extended period.
 
-(6) Where the Secretary of State extends the deadline under paragraph (5), the timetable under section 98(3) [^key-dd476d6e5a92b1844695d31514131cd6]... shall be extended accordingly.
+(6) Where the Secretary of State extends the deadline under paragraph (5), the timetable under section 98(3) [^c-dd476d6e5a92b1844695d31514131cd6]... shall be extended accordingly.
 
-(7) In paragraph (5)[^key-6a2380e154bbaf00e1a609236ce828e4] “extended period” means the period beginning with the day after that on which the final payment should have been received in accordance with paragraph (4) and ending with that on which the final payment is received.
+(7) In paragraph (5)[^c-6a2380e154bbaf00e1a609236ce828e4] “extended period” means the period beginning with the day after that on which the final payment should have been received in accordance with paragraph (4) and ending with that on which the final payment is received.
 
-### 10. Direction made under section 35[^key-52f59b247caf664d00889102da9232b7]
+### 10. Direction made under section 35[^c-52f59b247caf664d00889102da9232b7]
 
-Regulations 5 and 6 shall not apply in relation to any application for consent or authorisation which is treated as an application for an order granting development consent pursuant to a direction made by the Secretary of State under section 35ZA(3)(a) (directions under section 35: procedural matters)[^key-b5c26cfc79e8ff664d1c5ccbe0f31080].
+Regulations 5 and 6 shall not apply in relation to any application for consent or authorisation which is treated as an application for an order granting development consent pursuant to a direction made by the Secretary of State under section 35ZA(3)(a) (directions under section 35: procedural matters)[^c-b5c26cfc79e8ff664d1c5ccbe0f31080].
 
-### 11. Intervention by the Secretary of State under section 112[^key-d5837b27e67b1383461d914493f2db12]
+### 11. Intervention by the Secretary of State under section 112[^c-d5837b27e67b1383461d914493f2db12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Fees payable on or after 1st April 2018[^key-6fa90a5ba49b56cae213343c12bd5a77]
+### 12. Fees payable on or after 1st April 2018[^c-6fa90a5ba49b56cae213343c12bd5a77]
 
 (1) Each relevant fee is increased by the appropriate percentage on 1st April 2018, and on 1st April in each subsequent year, if the appropriate percentage is greater than zero
 
@@ -233,9 +233,9 @@ Regulations 5 and 6 shall not apply in relation to any application for consent o
 (5) In this regulation—
 
 - “the CPI 12-month percentage rate” means the measure of the change in prices between one month and the same month in the subsequent year, published by the Statistics Board, a body corporate established by section 1 of the Statistics and Registration Service Act 2007; and
-- “relevant fee” means any fee prescribed in any of regulations 2A,[^key-aeabf0d8be68933e40f7842f73d6c3a5] 3, 5, 6, 8 or 9.
+- “relevant fee” means any fee prescribed in any of regulations 2A,[^c-aeabf0d8be68933e40f7842f73d6c3a5] 3, 5, 6, 8 or 9.
 
-## PART 3 — Charging of fees by public authorities[^key-ecdb811ca5aef20b66529c5fd2fb09ea]
+## PART 3 — Charging of fees by public authorities[^c-ecdb811ca5aef20b66529c5fd2fb09ea]
 
 ### 12A. Fees in relation to the provision of relevant services
 
@@ -268,7 +268,7 @@ Regulations 5 and 6 shall not apply in relation to any application for consent o
 
 (11) For the purposes of this Part “**the estimated fees**” means the amount of fees estimated by the public authority as payable by the applicant for relevant services in respect of the application.
 
-## PART 4 — Review[^key-1aa4ac0262457fe9d4295fe4632dd7c9]
+## PART 4 — Review[^c-1aa4ac0262457fe9d4295fe4632dd7c9]
 
 ### 13. Review
 
@@ -300,7 +300,7 @@ Department for Communities and Local Government
 
 25th January 2010
 
-## SCHEDULE 1 — Pre-application services[^key-734f611ed02c701759c42f4635939648]
+## SCHEDULE 1 — Pre-application services[^c-734f611ed02c701759c42f4635939648]
 
 Regulation 2A
 
@@ -313,7 +313,7 @@ Table
 | Services provided to the applicant in relation to section 98 (Timetable for examining, and reporting on, applications). |
 | Services provided to the applicant in relation to any matters which the Secretary of State thinks may be both important and relevant to the Secretary of State’s decision under section 104 (Decisions in cases where national policy statement has effect) and section 105 (Decisions in cases where no national policy statement has effect). |
 
-## SCHEDULE 2 — Prescribed Public Authorities[^key-ca26b7bf30bf21e3f0d4fecac87f6948]
+## SCHEDULE 2 — Prescribed Public Authorities[^c-ca26b7bf30bf21e3f0d4fecac87f6948]
 
 Regulation 12A
 
@@ -325,7 +325,7 @@ Regulation 12A
 - The Health and Safety Executive
 - Marine Management Organisation
 - Natural Resources Wales
-- A local authority in whose area the land is situated[^key-a3cfb92d7bd7911ee3087bd9dae320b6]
+- A local authority in whose area the land is situated[^c-a3cfb92d7bd7911ee3087bd9dae320b6]
 
 EXPLANATORY NOTE
 
@@ -346,72 +346,72 @@ An impact assessment has been prepared in relation to these Regulations. This as
 
 [^f00001]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29)
 
-[^key-6452cbbe995e7124269aebde7dcd9a35]: Textual amendment: Pt. 1 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/333/regulation/3)
+[^c-6452cbbe995e7124269aebde7dcd9a35]: Textual amendment: Pt. 1 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/333/regulation/3)
 
-[^key-5649031e97daf011ba025cad18ad39ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-5649031e97daf011ba025cad18ad39ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-c564b81476a80d039fd4eae1c0ba7987]: Commencement: Reg. 2 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-c564b81476a80d039fd4eae1c0ba7987]: Commencement: Reg. 2 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-0c694179a2edf58a9049097c007c64fb]: Textual amendment: Words in reg. 2(1) substituted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/333/regulation/4)
+[^c-0c694179a2edf58a9049097c007c64fb]: Textual amendment: Words in reg. 2(1) substituted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2024/333/regulation/4)
 
-[^key-fac8ad1a79448c264e0f5b313c60eed7]: Textual amendment: Words in reg. 2 inserted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/3)
+[^c-fac8ad1a79448c264e0f5b313c60eed7]: Textual amendment: Words in reg. 2 inserted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/3)
 
-[^key-3c97ee996eef58b4507366e40e476689]: Textual amendment: Words in Regulations substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/2)
+[^c-3c97ee996eef58b4507366e40e476689]: Textual amendment: Words in Regulations substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/2)
 
-[^key-206864972c766a6990cb12d6b8b57182]: Textual amendment: Words in reg. 2(1) inserted (8.6.2026) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2026 (S.I. 2026/513)](https://www.legislation.gov.uk/uksi/2026/513), [reg. 3](https://www.legislation.gov.uk/uksi/2026/513/regulation/3)
+[^c-206864972c766a6990cb12d6b8b57182]: Textual amendment: Words in reg. 2(1) inserted (8.6.2026) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2026 (S.I. 2026/513)](https://www.legislation.gov.uk/uksi/2026/513), [reg. 3](https://www.legislation.gov.uk/uksi/2026/513/regulation/3)
 
-[^key-6b0deea4c9524525dc034f12c2696ff3]: Textual amendment: Pt. 2 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/333/regulation/5)
+[^c-6b0deea4c9524525dc034f12c2696ff3]: Textual amendment: Pt. 2 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/333/regulation/5)
 
-[^key-f4d0cc9e73b963e2ce82e12d94a21753]: Textual amendment: Reg. 2A inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/333/regulation/5/2)
+[^c-f4d0cc9e73b963e2ce82e12d94a21753]: Textual amendment: Reg. 2A inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/333/regulation/5/2)
 
-[^key-2d34b7e9c2f00c53fd1dd6fcb8d22615]: Commencement: Reg. 3 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-2d34b7e9c2f00c53fd1dd6fcb8d22615]: Commencement: Reg. 3 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-ee16c6b62eb8ac885b0017415d29fae9]: Textual amendment: Sum in reg. 3(1) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/2)
+[^c-ee16c6b62eb8ac885b0017415d29fae9]: Textual amendment: Sum in reg. 3(1) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/2)
 
-[^key-7bdfb5e0556a256c8e9f7d733e6f6256]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/106/regulation/4) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-7bdfb5e0556a256c8e9f7d733e6f6256]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/106/regulation/4) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-81bfaded68db7f76e673a6c9e1dca983]: Commencement: Reg. 5 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-81bfaded68db7f76e673a6c9e1dca983]: Commencement: Reg. 5 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-b537b47833ea5ed97c27d110dcaf129d]: Textual amendment: Sum in reg. 5(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/3)
+[^c-b537b47833ea5ed97c27d110dcaf129d]: Textual amendment: Sum in reg. 5(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/3)
 
-[^key-3cd893c57956db5f958ce6649892db6c]: Commencement: Reg. 6 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-3cd893c57956db5f958ce6649892db6c]: Commencement: Reg. 6 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-831c9e151cdd4693b3122d455787d112]: Textual amendment: Reg. 6(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/4) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+[^c-831c9e151cdd4693b3122d455787d112]: Textual amendment: Reg. 6(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/4) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
 
-[^key-b3cf9fec88200a1872f23bd756aae02f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/106/regulation/7) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-b3cf9fec88200a1872f23bd756aae02f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/106/regulation/7) in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-020f54c28bbe56392fee997fb531adbf]: Commencement: Reg. 8 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-020f54c28bbe56392fee997fb531adbf]: Commencement: Reg. 8 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-d5841ab1815762d69596c3576ed2acc3]: Textual amendment: Words in reg. 8(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+[^c-d5841ab1815762d69596c3576ed2acc3]: Textual amendment: Words in reg. 8(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/5) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
 
-[^key-630576deae1121de0cf2aaff644a9124]: Commencement: Reg. 9 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-630576deae1121de0cf2aaff644a9124]: Commencement: Reg. 9 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-d44148103313f3b411ed0ff628d51397]: Textual amendment: Reg. 9(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/6) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
+[^c-d44148103313f3b411ed0ff628d51397]: Textual amendment: Reg. 9(2) substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/6) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/2))
 
-[^key-72ef451085729542919c3d205c27d39b]: Textual amendment: Reg. 9(3) substituted (6.4.2013) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2013 (S.I. 2013/498)](https://www.legislation.gov.uk/uksi/2013/498), [regs. 1](https://www.legislation.gov.uk/uksi/2013/498/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/498/regulation/2/2)
+[^c-72ef451085729542919c3d205c27d39b]: Textual amendment: Reg. 9(3) substituted (6.4.2013) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2013 (S.I. 2013/498)](https://www.legislation.gov.uk/uksi/2013/498), [regs. 1](https://www.legislation.gov.uk/uksi/2013/498/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/498/regulation/2/2)
 
-[^key-2d8b58b545e4914150e05bfcb331429e]: Textual amendment: Words in reg. 9(5) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/a)
+[^c-2d8b58b545e4914150e05bfcb331429e]: Textual amendment: Words in reg. 9(5) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/a)
 
-[^key-dd476d6e5a92b1844695d31514131cd6]: Textual amendment: Words in reg. 9(6) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/b)
+[^c-dd476d6e5a92b1844695d31514131cd6]: Textual amendment: Words in reg. 9(6) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/b)
 
-[^key-6a2380e154bbaf00e1a609236ce828e4]: Textual amendment: Words in reg. 9(7) substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/c)
+[^c-6a2380e154bbaf00e1a609236ce828e4]: Textual amendment: Words in reg. 9(7) substituted (1.4.2012) by [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/4/c)
 
-[^key-52f59b247caf664d00889102da9232b7]: Commencement: Reg. 10 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
+[^c-52f59b247caf664d00889102da9232b7]: Commencement: Reg. 10 in force at 1.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/106/regulation/1)
 
-[^key-b5c26cfc79e8ff664d1c5ccbe0f31080]: Textual amendment: Words in reg. 10 substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/7)
+[^c-b5c26cfc79e8ff664d1c5ccbe0f31080]: Textual amendment: Words in reg. 10 substituted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/7)
 
-[^key-d5837b27e67b1383461d914493f2db12]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/106/regulation/11) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/6)
+[^c-d5837b27e67b1383461d914493f2db12]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/106/regulation/11) omitted (1.4.2012) by virtue of [The Localism Act 2011(Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/7/6)
 
-[^key-6fa90a5ba49b56cae213343c12bd5a77]: Textual amendment: Regs. 12, 13 inserted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/3))
+[^c-6fa90a5ba49b56cae213343c12bd5a77]: Textual amendment: Regs. 12, 13 inserted (6.4.2017) by [The Infrastructure Planning Fees (Amendment) Regulations 2017 (S.I. 2017/314)](https://www.legislation.gov.uk/uksi/2017/314), [regs. 1](https://www.legislation.gov.uk/uksi/2017/314/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/314/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/314/regulation/4/3))
 
-[^key-aeabf0d8be68933e40f7842f73d6c3a5]: Textual amendment: Word in reg. 12(5) inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/333/regulation/6)
+[^c-aeabf0d8be68933e40f7842f73d6c3a5]: Textual amendment: Word in reg. 12(5) inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/333/regulation/6)
 
-[^key-ecdb811ca5aef20b66529c5fd2fb09ea]: Textual amendment: Pt. 3 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/333/regulation/7/2)
+[^c-ecdb811ca5aef20b66529c5fd2fb09ea]: Textual amendment: Pt. 3 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2024/333/regulation/7/2)
 
-[^key-1aa4ac0262457fe9d4295fe4632dd7c9]: Textual amendment: Pt. 4 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/333/regulation/8)
+[^c-1aa4ac0262457fe9d4295fe4632dd7c9]: Textual amendment: Pt. 4 heading inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/333/regulation/8)
 
-[^key-734f611ed02c701759c42f4635939648]: Textual amendment: Sch. 1 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2024/333/regulation/5/3)
+[^c-734f611ed02c701759c42f4635939648]: Textual amendment: Sch. 1 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2024/333/regulation/5/3)
 
-[^key-ca26b7bf30bf21e3f0d4fecac87f6948]: Textual amendment: Sch. 2 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2024/333/regulation/7/3)
+[^c-ca26b7bf30bf21e3f0d4fecac87f6948]: Textual amendment: Sch. 2 inserted (1.4.2024) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2024 (S.I. 2024/333)](https://www.legislation.gov.uk/uksi/2024/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/333/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2024/333/regulation/7/3)
 
-[^key-a3cfb92d7bd7911ee3087bd9dae320b6]: Textual amendment: Words in Sch. 2 inserted (8.6.2026) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2026 (S.I. 2026/513)](https://www.legislation.gov.uk/uksi/2026/513), [reg. 4](https://www.legislation.gov.uk/uksi/2026/513/regulation/4)
+[^c-a3cfb92d7bd7911ee3087bd9dae320b6]: Textual amendment: Words in Sch. 2 inserted (8.6.2026) by [The Infrastructure Planning (Fees) (Amendment) Regulations 2026 (S.I. 2026/513)](https://www.legislation.gov.uk/uksi/2026/513), [reg. 4](https://www.legislation.gov.uk/uksi/2026/513/regulation/4)

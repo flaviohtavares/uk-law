@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 628. Transferor using fair value accounting[^key-3d2da9b744ffbb56e9061ebf86e57bf1][^key-989db1594779c24c3b1aae0717c23a00]
+## 628. Transferor using fair value accounting[^c-3d2da9b744ffbb56e9061ebf86e57bf1][^c-989db1594779c24c3b1aae0717c23a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ is the fair value of the derivative contract as at the date of transfer to the t
 
 ## Annotations
 
-[^key-3d2da9b744ffbb56e9061ebf86e57bf1]: Modification: S. 628 excluded by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6C(2)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/6C/2/a) (as substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2015 (S.I. 2015/1961)](https://www.legislation.gov.uk/uksi/2015/1961), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1961/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1961/regulation/6))
+[^c-3d2da9b744ffbb56e9061ebf86e57bf1]: Modification: S. 628 excluded by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6C(2)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/6C/2/a) (as substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2015 (S.I. 2015/1961)](https://www.legislation.gov.uk/uksi/2015/1961), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1961/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1961/regulation/6))
 
-[^key-989db1594779c24c3b1aae0717c23a00]: Modification: S. 628 applied by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6B(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/regulation/6B/2/a) (as substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2015 (S.I. 2015/1961)](https://www.legislation.gov.uk/uksi/2015/1961), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1961/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1961/regulation/6))
+[^c-989db1594779c24c3b1aae0717c23a00]: Modification: S. 628 applied by [S.I. 2004/3256](https://www.legislation.gov.uk/uksi/2004/3256), [reg. 6B(2)(a)](https://www.legislation.gov.uk/ukpga/2009/4/regulation/6B/2/a) (as substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Loan Relationships and Derivative Contracts (Disregard and Bringing into Account of Profits and Losses) (Amendment) Regulations 2015 (S.I. 2015/1961)](https://www.legislation.gov.uk/uksi/2015/1961), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1961/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1961/regulation/6))

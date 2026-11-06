@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**37.**[^key-78e7b55fc6b60a42d6b2272bdeb2d504] A bait net shall not be used for catching salmon, trout or rainbow trout, and any such fish caught or taken in a bait net shall, without avoidable injury, be returned immediately to the water from which it was taken.
+**37.**[^c-78e7b55fc6b60a42d6b2272bdeb2d504] A bait net shall not be used for catching salmon, trout or rainbow trout, and any such fish caught or taken in a bait net shall, without avoidable injury, be returned immediately to the water from which it was taken.
 
 ## Annotations
 
-[^key-78e7b55fc6b60a42d6b2272bdeb2d504]: Commencement: S. 37 in operation at 1.11.1997, see byelaw 1
+[^c-78e7b55fc6b60a42d6b2272bdeb2d504]: Commencement: S. 37 in operation at 1.11.1997, see byelaw 1

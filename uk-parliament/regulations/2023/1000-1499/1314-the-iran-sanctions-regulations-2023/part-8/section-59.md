@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Exception for acts done for purposes of national security or prevention of serious crime[^key-42dba56efb0bd0a3df748b43d44489f5]
+## 59. Exception for acts done for purposes of national security or prevention of serious crime[^c-42dba56efb0bd0a3df748b43d44489f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42dba56efb0bd0a3df748b43d44489f5]: Commencement: Reg. 59 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-42dba56efb0bd0a3df748b43d44489f5]: Commencement: Reg. 59 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

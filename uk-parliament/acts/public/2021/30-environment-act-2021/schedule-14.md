@@ -24,7 +24,7 @@ Section 98
 
 ### PART 1 — Biodiversity gain condition
 
-**1.**[^key-e022123adfcaa1ee0b0517bcf2925712][^key-3bb48d19b660b327c0e73facfcd9f66d][^key-7da08e519343041795f5378c132178ff][^key-da8eeb764890b014c2491ee6f1884b96] In the Town and Country Planning Act 1990, after section 90 insert—
+**1.**[^c-e022123adfcaa1ee0b0517bcf2925712][^c-3bb48d19b660b327c0e73facfcd9f66d][^c-7da08e519343041795f5378c132178ff][^c-da8eeb764890b014c2491ee6f1884b96] In the Town and Country Planning Act 1990, after section 90 insert—
 
 > **Biodiversity gain**
 >
@@ -32,7 +32,7 @@ Section 98
 >
 > Schedule 7A (biodiversity gain in England) has effect.
 
-**2.**[^key-1780df5eaf56297b4a4f895879b4ef31][^key-caacea7c726b6dff18d7a65f483b3d29][^key-64a59a2ad05b76bc6161406b3f59a343][^key-cc6845a63087f3a6a13f0916ef1bf6ad] In that Act, after Schedule 7 insert—
+**2.**[^c-1780df5eaf56297b4a4f895879b4ef31][^c-caacea7c726b6dff18d7a65f483b3d29][^c-64a59a2ad05b76bc6161406b3f59a343][^c-cc6845a63087f3a6a13f0916ef1bf6ad] In that Act, after Schedule 7 insert—
 
 > **SCHEDULE 7A — Biodiversity gain in England**
 >
@@ -265,7 +265,7 @@ Section 98
 
 ### PART 2 — Consequential amendments
 
-**3.**[^key-6dfa50354745a614114e3141576c3a7c][^key-508b9f0f93d8bc3e6ba7e76856c170b4] (1) The Town and Country Planning Act 1990 is amended as follows.
+**3.**[^c-6dfa50354745a614114e3141576c3a7c][^c-508b9f0f93d8bc3e6ba7e76856c170b4] (1) The Town and Country Planning Act 1990 is amended as follows.
 
 (2) In section 56 (time when development begins), in subsection (3), at the end insert “and paragraph 13 of Schedule 7A”.
 
@@ -336,22 +336,22 @@ Section 98
 
 ## Annotations
 
-[^key-e022123adfcaa1ee0b0517bcf2925712]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-e022123adfcaa1ee0b0517bcf2925712]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3bb48d19b660b327c0e73facfcd9f66d]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d)
+[^c-3bb48d19b660b327c0e73facfcd9f66d]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d)
 
-[^key-7da08e519343041795f5378c132178ff]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 12.2.2024 for specified purposes by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-7da08e519343041795f5378c132178ff]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 12.2.2024 for specified purposes by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
 
-[^key-da8eeb764890b014c2491ee6f1884b96]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 1.5.2025 for specified purposes by [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
+[^c-da8eeb764890b014c2491ee6f1884b96]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) in force at 1.5.2025 for specified purposes by [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
 
-[^key-1780df5eaf56297b4a4f895879b4ef31]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-1780df5eaf56297b4a4f895879b4ef31]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-caacea7c726b6dff18d7a65f483b3d29]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d)
+[^c-caacea7c726b6dff18d7a65f483b3d29]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 3.11.2023 for specified purposes by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d)
 
-[^key-64a59a2ad05b76bc6161406b3f59a343]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 12.2.2024 for specified purposes by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-64a59a2ad05b76bc6161406b3f59a343]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 12.2.2024 for specified purposes by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
 
-[^key-cc6845a63087f3a6a13f0916ef1bf6ad]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 1.5.2025 for specified purposes by [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
+[^c-cc6845a63087f3a6a13f0916ef1bf6ad]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/2) in force at 1.5.2025 for specified purposes by [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
 
-[^key-6dfa50354745a614114e3141576c3a7c]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-6dfa50354745a614114e3141576c3a7c]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-508b9f0f93d8bc3e6ba7e76856c170b4]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/3) in force at 12.2.2024 by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-508b9f0f93d8bc3e6ba7e76856c170b4]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/3) in force at 12.2.2024 by [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))

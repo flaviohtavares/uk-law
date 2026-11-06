@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Double jeopardy
 
-### 1. Rule against double jeopardy[^key-0404deba2b684a4785d408cccae21d2b]
+### 1. Rule against double jeopardy[^c-0404deba2b684a4785d408cccae21d2b]
 
 (1) It is not competent to charge a person who, whether on indictment or complaint (the “original indictment or complaint”), has been convicted or acquitted of an offence (the “original offence”) with—
 
@@ -63,7 +63,7 @@ and related expressions are to be construed accordingly.
 
 ## Exceptions to rule against double jeopardy
 
-### 2. Tainted acquittals[^key-2387d9d14faa6c66d69dc705b80fcd36]
+### 2. Tainted acquittals[^c-2387d9d14faa6c66d69dc705b80fcd36]
 
 (1) A person who, whether on indictment or complaint (the “original indictment or complaint”), has been acquitted of an offence (the “original offence”) may, provided that the condition mentioned in subsection (2) is satisfied, be charged with, and prosecuted anew for—
 
@@ -112,7 +112,7 @@ and related expressions are to be construed accordingly.
   - (i) perjury, or
   - (ii) an offence under section 44(1) of that Act (statement on oath which is false or which the person making it does not believe to be true).
 
-### 3. Admission made or becoming known after acquittal[^key-7a172435f7b25732c22c9a66dba848a3]
+### 3. Admission made or becoming known after acquittal[^c-7a172435f7b25732c22c9a66dba848a3]
 
 (1) A person who, whether on indictment or complaint (the “original indictment or complaint”), has been acquitted of an offence (the “original offence”) may, if the conditions mentioned in subsection (3) are satisfied, be charged with, and prosecuted anew for—
 
@@ -144,7 +144,7 @@ and related expressions are to be construed accordingly.
   - (ii) a relevant offence, and
 - (d) that it is in the interests of justice to do so.
 
-### 4. New evidence[^key-bbb18bc378c468f1c772bdc76ab9b7b4]
+### 4. New evidence[^c-bbb18bc378c468f1c772bdc76ab9b7b4]
 
 (1) A person who, on indictment in the High Court (the “original indictment”), has been acquitted of an offence (the “original offence”) may, if the conditions mentioned in subsection (3) are satisfied, be charged with, and prosecuted anew for—
 
@@ -182,7 +182,7 @@ and related expressions are to be construed accordingly.
 
 ## Exceptions to rule against double jeopardy: common provisions
 
-### 5. Applications under sections 2, 3 and 4[^key-b45a9da8ca6fb7909981bb6a8ee688a9]
+### 5. Applications under sections 2, 3 and 4[^c-b45a9da8ca6fb7909981bb6a8ee688a9]
 
 (1) On making an application under section 2(2), 3(3)(b) or 4(3)(b), the Lord Advocate is to send a copy of the application to the acquitted person.
 
@@ -196,7 +196,7 @@ and related expressions are to be construed accordingly.
 
 (6) Subsection (3) is without prejudice to any power of those sitting to remit the application to a differently constituted sitting of the court (as for example to the whole court sitting together).
 
-### 6. Further provision about prosecutions by virtue of sections 2, 3 and 4[^key-e6c8910bf96c1c170b7eda4634e45b49]
+### 6. Further provision about prosecutions by virtue of sections 2, 3 and 4[^c-e6c8910bf96c1c170b7eda4634e45b49]
 
 (1) This section applies to a new prosecution brought by virtue of section 2, 3 or 4.
 
@@ -230,7 +230,7 @@ and related expressions are to be construed accordingly.
 
 ## Plea in bar of trial
 
-### 7. Plea in bar of trial that accused has been tried before[^key-06c32e0da759fa2a3ea6d5bb6274cfed]
+### 7. Plea in bar of trial that accused has been tried before[^c-06c32e0da759fa2a3ea6d5bb6274cfed]
 
 (1) This section applies where a person is charged with an offence—
 
@@ -250,7 +250,7 @@ and related expressions are to be construed accordingly.
 
 (5) Subsection (4) is subject to sections 8, 9 and 10.
 
-### 8. Plea in bar of trial for murder: new evidence and admissions[^key-e89d9fdefafcc6b8517cbdcd795c8f57]
+### 8. Plea in bar of trial for murder: new evidence and admissions[^c-e89d9fdefafcc6b8517cbdcd795c8f57]
 
 (1) This section applies where—
 
@@ -287,7 +287,7 @@ and related expressions are to be construed accordingly.
 - (a) the reference in subsection (2) of that section to the acquitted person is to be read as a reference to the person charged, and
 - (b) the reference in subsection (6) of that section to subsection (3) is to be read as a reference to subsection (4) of this section.
 
-### 9. Plea in bar of trial: nullity of previous trial[^key-d93d0bf3855ab1f0f638536a53ac4484]
+### 9. Plea in bar of trial: nullity of previous trial[^c-d93d0bf3855ab1f0f638536a53ac4484]
 
 (1) This section applies where—
 
@@ -314,7 +314,7 @@ the court must determine whether to sustain or repel the plea.
 - (b) the existence of that trial was not known to the prosecutor before the commencement of the proceedings in which the plea is made, and
 - (c) it is in the interests of justice to do so.
 
-### 10. Plea in bar of trial: previous foreign proceedings[^key-9ea2ea3fb0e3cade561341f6cca19517]
+### 10. Plea in bar of trial: previous foreign proceedings[^c-9ea2ea3fb0e3cade561341f6cca19517]
 
 (1) This section applies where the previous trial averred under section 7(2) took place outwith the United Kingdom.
 
@@ -335,7 +335,7 @@ the court must determine whether to sustain or repel the plea.
 
 ## Other subsequent prosecutions
 
-### 11. Eventual death of injured person[^key-1cde97dc4eb69ebfbd4fe7fd6a7f5704]
+### 11. Eventual death of injured person[^c-1cde97dc4eb69ebfbd4fe7fd6a7f5704]
 
 (1) This section applies where—
 
@@ -376,7 +376,7 @@ against the conviction or against any other matter mentioned in section 106(1) o
 
 (9) Sections 121 and 193 of the 1995 Act do not apply in relation to an appeal under subsection (7).
 
-### 12. Nullity of proceedings on previous indictment or complaint[^key-69a427d4aadbe8ba6e7df9a8e5d5686b]
+### 12. Nullity of proceedings on previous indictment or complaint[^c-69a427d4aadbe8ba6e7df9a8e5d5686b]
 
 (1) This section applies where—
 
@@ -392,7 +392,7 @@ against the conviction or against any other matter mentioned in section 106(1) o
 
 ## Disclosure of information
 
-### 13. Disclosure of information[^key-f45fbead2caa7f16f24064d95c9a5430]
+### 13. Disclosure of information[^c-f45fbead2caa7f16f24064d95c9a5430]
 
 (1) Part 6 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) (disclosure of information) is amended as follows.
 
@@ -561,11 +561,11 @@ against the conviction or against any other matter mentioned in section 106(1) o
 
 ## General
 
-### 14. Retrospective application of Act[^key-5f5ddc2fcc27af39fb3eb62ec5be7013]
+### 14. Retrospective application of Act[^c-5f5ddc2fcc27af39fb3eb62ec5be7013]
 
 For the purposes of sections 1 to 4 and 7 to 12, it is immaterial whether the conviction or, as the case may be, acquittal referred to in each of those sections was before or after the coming into force of this Act.
 
-### 15. Transitional provision etc.[^key-f2b5e6d27699958bf2848e777133c6a7]
+### 15. Transitional provision etc.[^c-f2b5e6d27699958bf2848e777133c6a7]
 
 (1) The Scottish Ministers may by order made by statutory instrument make such provision as they consider necessary or expedient for transitional, transitory or saving purposes in connection with the coming into force of section 13 or paragraphs 17 to 34 of the schedule.
 
@@ -575,7 +575,7 @@ For the purposes of sections 1 to 4 and 7 to 12, it is immaterial whether the co
 
 (4) But no order under subsection (1) which contains provisions which add to, replace or omit any part of the text of an Act may be made unless a draft of the statutory instrument containing it has been laid before and approved by resolution of the Scottish Parliament.
 
-### 16. Consequential amendments[^key-46d1d3218861cd9c3849e912eee0b838]
+### 16. Consequential amendments[^c-46d1d3218861cd9c3849e912eee0b838]
 
 The schedule, which makes amendments of enactments consequential on the provisions of this Act, has effect.
 
@@ -593,21 +593,21 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 ### Contempt of Court Act 1981
 
-**1.**[^key-0275f46f0f1e7f5ee4c2358ec107ae08] Schedule 1 to the Contempt of Court Act 1981 (c.49) (times when proceedings are active for the purposes of section 2 of that Act) is amended as follows.
+**1.**[^c-0275f46f0f1e7f5ee4c2358ec107ae08] Schedule 1 to the Contempt of Court Act 1981 (c.49) (times when proceedings are active for the purposes of section 2 of that Act) is amended as follows.
 
-**2.**[^key-6a870fa9d28eb6dcd2737f7dbec3ca72] After paragraph 1 (meaning of “**criminal proceedings**” and “**appellate proceedings**”), insert—
+**2.**[^c-6a870fa9d28eb6dcd2737f7dbec3ca72] After paragraph 1 (meaning of “**criminal proceedings**” and “**appellate proceedings**”), insert—
 
 > **1ZA.** Proceedings under the Double Jeopardy (Scotland) Act 2011 (asp 16) are criminal proceedings for the purposes of this Schedule.
 
 .
 
-**3.**[^key-c643e8cb59e86874eb65535de427b58b] In paragraph 4 (initial steps of criminal proceedings), after sub-paragraph (e) insert—
+**3.**[^c-c643e8cb59e86874eb65535de427b58b] In paragraph 4 (initial steps of criminal proceedings), after sub-paragraph (e) insert—
 
 > - (f) the making of an application under section 2(2) (tainted acquittals), 3(3)(b) (admission made or becoming known after acquittal), 4(3)(b) (new evidence), 11(3) (eventual death of injured person) or 12(3) (nullity of previous proceedings) of the Double Jeopardy (Scotland) Act 2011 (asp 16).
 
 .
 
-**4.**[^key-dbced8ced5b18d170042bd4015cf7588] In paragraph 5 (conclusion of criminal proceedings), after sub-paragraph (c) insert—
+**4.**[^c-dbced8ced5b18d170042bd4015cf7588] In paragraph 5 (conclusion of criminal proceedings), after sub-paragraph (c) insert—
 
 > - (d) where the initial steps of the proceedings are as mentioned in paragraph 4(f)—
 >   - (i) by refusal of the application;
@@ -615,7 +615,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**5.**[^key-5e010acd12f0a9c894f88223626ad81c] In paragraph 7 (discontinuance of proceedings), after sub-paragraph (c) insert—
+**5.**[^c-5e010acd12f0a9c894f88223626ad81c] In paragraph 7 (discontinuance of proceedings), after sub-paragraph (c) insert—
 
 > - (d) where the initial steps of the proceedings are as mentioned in paragraph 4(f) and the application is granted, if no new prosecution is brought within the period of 2 months mentioned in section 6(3) of the Double Jeopardy (Scotland) Act 2011 (asp 16).
 
@@ -623,9 +623,9 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 ### Criminal Procedure (Scotland) Act 1995
 
-**6.**[^key-3defef514f941ea1d58c6c5fc46edcea] The Criminal Procedure (Scotland) Act 1995 (c.46) is amended as follows.
+**6.**[^c-3defef514f941ea1d58c6c5fc46edcea] The Criminal Procedure (Scotland) Act 1995 (c.46) is amended as follows.
 
-**7.**[^key-ea7604541274a0b1e7318e9fcd6b3ae5] In section 94 (transcripts of record and documentary productions), after subsection (2A) insert—
+**7.**[^c-ea7604541274a0b1e7318e9fcd6b3ae5] In section 94 (transcripts of record and documentary productions), after subsection (2A) insert—
 
 > (2AA) Subsection (2A) applies to a person mentioned in subsection (2AB) as it applies to a person convicted at the trial, with the modification that the reference to the transcript in subsection (2A) is to be construed as a reference to the transcript of the record made of proceedings at the trial resulting in the acquittal mentioned in subsection (2AB)(b).
 >
@@ -637,7 +637,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**8.**[^key-ebd0ecc6297dd7aca8c7928491be03c4] In section 107 (leave to appeal), after subsection (2) insert—
+**8.**[^c-ebd0ecc6297dd7aca8c7928491be03c4] In section 107 (leave to appeal), after subsection (2) insert—
 
 > (2A) In respect of an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), the “report under section 113” in subsection (2)(c) means—
 >
@@ -647,7 +647,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**9.**[^key-4fc218eba7397c6368e2453d874913a8] In section 109 (intimation of intention to appeal), after subsection (1) insert—
+**9.**[^c-4fc218eba7397c6368e2453d874913a8] In section 109 (intimation of intention to appeal), after subsection (1) insert—
 
 > (1A) Where a person desires to appeal under section 106(1)(a) of this Act by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), subsection (1) applies with the following modifications—
 >
@@ -660,7 +660,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**10.**[^key-0d21daf7212d57a2e170e5db930e6edc] In section 110 (note of appeal), after subsection (3) insert—
+**10.**[^c-0d21daf7212d57a2e170e5db930e6edc] In section 110 (note of appeal), after subsection (3) insert—
 
 > (3A) In respect of a written note of appeal relating to an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16)—
 >
@@ -673,7 +673,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**11.**[^key-76e5e945f7cf428aa47045d7dca0cc57] In section 113 (judge's report)—
+**11.**[^c-76e5e945f7cf428aa47045d7dca0cc57] In section 113 (judge's report)—
 
 - (a) in subsection (1), at the beginning, insert “ Subject to subsections (1A) to (1D), ”,
 - (b) after subsection (1) insert—
@@ -695,13 +695,13 @@ The schedule, which makes amendments of enactments consequential on the provisio
   ,
 - (c) in subsection (3), for “subsection (1)” substitute “ subsections (1) to (1D) ”.
 
-**12.**[^key-89cb7a6174666d868dc5054523fefa0a] In section 118 (disposal of appeals), after subsection (1) insert—
+**12.**[^c-89cb7a6174666d868dc5054523fefa0a] In section 118 (disposal of appeals), after subsection (1) insert—
 
 > (1A) Where an appeal against conviction is by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), paragraph (c) of subsection (1) does not apply.
 
 .
 
-**13.**[^key-ea7325e70c83e82084f12c764f517dd0] After section 176 insert—
+**13.**[^c-ea7325e70c83e82084f12c764f517dd0] After section 176 insert—
 
 > **176A. Application of section 176 in relation to certain appeals**
 >
@@ -715,7 +715,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**14.**[^key-de440bbee3fec13631728567a412b0f1] In section 178 (stated case: preparation of draft), after subsection (1) insert—
+**14.**[^c-de440bbee3fec13631728567a412b0f1] In section 178 (stated case: preparation of draft), after subsection (1) insert—
 
 > (1A) Where an application for a stated case under section 176 of this Act relates to an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16)—
 >
@@ -724,7 +724,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**15.**[^key-37286ffe7dfde78cb7c6e1c0c58ecd87] In section 179 (stated case: adjustment and signature), after subsection (10) insert—
+**15.**[^c-37286ffe7dfde78cb7c6e1c0c58ecd87] In section 179 (stated case: adjustment and signature), after subsection (10) insert—
 
 > (11) In relation to a draft stated case under section 178 of this Act relating to an appeal by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16)—
 >
@@ -733,7 +733,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**16.**[^key-dfadee5b38ff6439111221d7a13a1a1d] In section 183 (stated case: disposal of appeal), after subsection (1) insert—
+**16.**[^c-dfadee5b38ff6439111221d7a13a1a1d] In section 183 (stated case: disposal of appeal), after subsection (1) insert—
 
 > (1A) Where an appeal against conviction is by virtue of section 11(7) of the Double Jeopardy (Scotland) Act 2011 (asp 16), paragraphs (a) and (d) of subsection (1) do not apply.
 
@@ -741,9 +741,9 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 ### Criminal Justice and Licensing (Scotland) Act 2010
 
-**17.**[^key-3c081f680afd871b46440605bda65e34] Part 6 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) is amended as follows.
+**17.**[^c-3c081f680afd871b46440605bda65e34] Part 6 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) is amended as follows.
 
-**18.**[^key-045a3d23b9120d6e345264604d6a933a] In section 116 (meaning of “information”)—
+**18.**[^c-045a3d23b9120d6e345264604d6a933a] In section 116 (meaning of “information”)—
 
 - (a) after subsection (2) insert—
 
@@ -759,7 +759,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**19.**[^key-6a1366a0f3e913415f6b035a6f97224f] In section 141 (application for section 145 order)—
+**19.**[^c-6a1366a0f3e913415f6b035a6f97224f] In section 141 (application for section 145 order)—
 
 - (a) in subsection (1), for “or (3)” substitute “ , (3) or (3A) ”,
 - (b) after subsection (3) insert—
@@ -770,7 +770,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
   > - (b) the information is not likely to form part of the evidence to be led or relied on by the prosecutor in the proceedings, and
   > - (c) the prosecutor considers that subsection (4) applies.
 
-**20.**[^key-1085b0a788d3b38f0788cece6567cbe4] In section 142 (application for non-notification order or exclusion order)—
+**20.**[^c-1085b0a788d3b38f0788cece6567cbe4] In section 142 (application for non-notification order or exclusion order)—
 
 - (a) in subsection (2), after “concluded)” insert “ or to 2011 Act proceedings ”,
 - (b) in subsection (8)—
@@ -788,7 +788,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
     .
 
-**21.**[^key-684026d8f8ff2a5e937654ee098f18fe] In section 143 (application for non-notification order and exclusion order), in subsection (11), for the words from “include” to the end substitute
+**21.**[^c-684026d8f8ff2a5e937654ee098f18fe] In section 143 (application for non-notification order and exclusion order), in subsection (11), for the words from “include” to the end substitute
 
 > include—
 >
@@ -797,7 +797,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**22.**[^key-f29392c5613b55afd21c7231880cfaf3] In section 145 (application for section 145 order: determination)—
+**22.**[^c-f29392c5613b55afd21c7231880cfaf3] In section 145 (application for section 145 order: determination)—
 
 - (a) in subsection (2)(c)—
   - (i) omit “or” immediately following sub-paragraph (i), and
@@ -823,7 +823,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 - (d) in subsection (5)(a), for “or, as the case may be, paragraph (c) of subsection (4)” substitute “ , paragraph (c) of subsection (4) or, as the case may be, paragraph (c) of subsection (4A) ”,
 - (e) in subsection (6) for “or, as the case may be, (4)” substitute “ , (4) or, as the case may be, (4A) ”.
 
-**23.**[^key-4135571c9c945c04a48d56ec14dadbb7] In section 146 (order preventing or restricting disclosure: application by Secretary of State)—
+**23.**[^c-4135571c9c945c04a48d56ec14dadbb7] In section 146 (order preventing or restricting disclosure: application by Secretary of State)—
 
 - (a) in subsection (1), for “or (4)” substitute “ , (4) or (4A) ”,
 - (b) after subsection (4) insert—
@@ -877,9 +877,9 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**24.**[^key-21125087364e7627b8d9d46c9cb8c00b] In section 147 (application for ancillary orders: Secretary of State), in subsection (2), after “concluded)” insert “ or to 2011 Act proceedings ”.
+**24.**[^c-21125087364e7627b8d9d46c9cb8c00b] In section 147 (application for ancillary orders: Secretary of State), in subsection (2), after “concluded)” insert “ or to 2011 Act proceedings ”.
 
-**25.**[^key-4926c52a6b91b50ab11b270baef146e2] In section 150 (special counsel), in subsection (10)—
+**25.**[^c-4926c52a6b91b50ab11b270baef146e2] In section 150 (special counsel), in subsection (10)—
 
 - (a) for the definition of “accused” substitute—
 
@@ -895,13 +895,13 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**26.**[^key-e7e1e798015bb1cb5f078340199f7743] In section 152 (role of special counsel), after subsection (5) insert—
+**26.**[^c-e7e1e798015bb1cb5f078340199f7743] In section 152 (role of special counsel), after subsection (5) insert—
 
 > (5A) In subsection (1), the reference to the accused receiving a fair trial includes reference to the respondent receiving a fair hearing in the 2011 Act proceedings.
 
 .
 
-**27.**[^key-7d43645add7f7d8d3410dc17746d72a9] In section 153 (appeals), in subsection (10)—
+**27.**[^c-7d43645add7f7d8d3410dc17746d72a9] In section 153 (appeals), in subsection (10)—
 
 - (a) for the definition of “accused” substitute—
 
@@ -917,7 +917,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**28.**[^key-8ecb4d8cad9775a7c09c4b55cbbe26e0] In section 155 (review of section 145 order)—
+**28.**[^c-8ecb4d8cad9775a7c09c4b55cbbe26e0] In section 155 (review of section 145 order)—
 
 - (a) in subsection (6), after “145(3)” insert “ or (4A) ”,
 - (b) in subsection (8)—
@@ -949,7 +949,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**29.**[^key-b575a766139cb1dc433d8ee699f20e4c] In section 156 (review of section 146 order)—
+**29.**[^c-b575a766139cb1dc433d8ee699f20e4c] In section 156 (review of section 146 order)—
 
 - (a) in subsection (8)—
   - (i) for the definition of “accused” substitute—
@@ -980,7 +980,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**30.**[^key-893a4266b36cdbbfac5a032ac61958f1] In section 158 (applications and reviews: general provisions)—
+**30.**[^c-893a4266b36cdbbfac5a032ac61958f1] In section 158 (applications and reviews: general provisions)—
 
 - (a) in subsection (4), after paragraph (b) insert—
 
@@ -997,7 +997,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**31.**[^key-99b902058d1b672c28ab844c4cce57d6] In section 160 (means of disclosure), in subsection (9)—
+**31.**[^c-99b902058d1b672c28ab844c4cce57d6] In section 160 (means of disclosure), in subsection (9)—
 
 - (a) for the definition of “accused” substitute—
 
@@ -1013,7 +1013,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**32.**[^key-f8578fb9544118abecc60ffe47ef52c3] In section 162 (confidentiality of disclosed information), for subsection (8) substitute—
+**32.**[^c-f8578fb9544118abecc60ffe47ef52c3] In section 162 (confidentiality of disclosed information), for subsection (8) substitute—
 
 > (8) In this section—
 >
@@ -1024,7 +1024,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 .
 
-**33.**[^key-6fe1ef1959b7c7d1778addd70e71c476] In section 166 (abolition of common law rules about disclosure)—
+**33.**[^c-6fe1ef1959b7c7d1778addd70e71c476] In section 166 (abolition of common law rules about disclosure)—
 
 - (a) in subsection (3)—
   - (i) for “and 139” substitute “ , 139 and 140E ”,
@@ -1056,7 +1056,7 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
   .
 
-**34.**[^key-99599cb03ef23949985d233dda20c219] In section 167 (interpretation of Part 6)—
+**34.**[^c-99599cb03ef23949985d233dda20c219] In section 167 (interpretation of Part 6)—
 
 - (a) in subsection (3)—
   - (i) for “or the appellant or other person” substitute “ , the appellant or other person or the respondent ”,
@@ -1075,102 +1075,102 @@ The schedule, which makes amendments of enactments consequential on the provisio
 
 ## Annotations
 
-[^key-0404deba2b684a4785d408cccae21d2b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/16/section/1) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-0404deba2b684a4785d408cccae21d2b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/16/section/1) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-2387d9d14faa6c66d69dc705b80fcd36]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/16/section/2) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-2387d9d14faa6c66d69dc705b80fcd36]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/16/section/2) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-7a172435f7b25732c22c9a66dba848a3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/16/section/3) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-7a172435f7b25732c22c9a66dba848a3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/16/section/3) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-bbb18bc378c468f1c772bdc76ab9b7b4]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/16/section/4) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-bbb18bc378c468f1c772bdc76ab9b7b4]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/16/section/4) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-b45a9da8ca6fb7909981bb6a8ee688a9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/16/section/5) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-b45a9da8ca6fb7909981bb6a8ee688a9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/16/section/5) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-e6c8910bf96c1c170b7eda4634e45b49]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/16/section/6) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-e6c8910bf96c1c170b7eda4634e45b49]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/16/section/6) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-06c32e0da759fa2a3ea6d5bb6274cfed]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/16/section/7) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-06c32e0da759fa2a3ea6d5bb6274cfed]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/16/section/7) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-e89d9fdefafcc6b8517cbdcd795c8f57]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/16/section/8) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-e89d9fdefafcc6b8517cbdcd795c8f57]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/16/section/8) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-d93d0bf3855ab1f0f638536a53ac4484]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/16/section/9) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-d93d0bf3855ab1f0f638536a53ac4484]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/16/section/9) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-9ea2ea3fb0e3cade561341f6cca19517]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/16/section/10) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-9ea2ea3fb0e3cade561341f6cca19517]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/16/section/10) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-1cde97dc4eb69ebfbd4fe7fd6a7f5704]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/16/section/11) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-1cde97dc4eb69ebfbd4fe7fd6a7f5704]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/16/section/11) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-69a427d4aadbe8ba6e7df9a8e5d5686b]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/16/section/12) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-69a427d4aadbe8ba6e7df9a8e5d5686b]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/16/section/12) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-f45fbead2caa7f16f24064d95c9a5430]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/16/section/13) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/365/article/4), [5](https://www.legislation.gov.uk/ssi/2011/365/article/5))
+[^c-f45fbead2caa7f16f24064d95c9a5430]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/16/section/13) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/365/article/4), [5](https://www.legislation.gov.uk/ssi/2011/365/article/5))
 
-[^key-5f5ddc2fcc27af39fb3eb62ec5be7013]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/16/section/14) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-5f5ddc2fcc27af39fb3eb62ec5be7013]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/16/section/14) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-f2b5e6d27699958bf2848e777133c6a7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/16/section/15) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-f2b5e6d27699958bf2848e777133c6a7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/16/section/15) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-46d1d3218861cd9c3849e912eee0b838]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/16/section/16) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-46d1d3218861cd9c3849e912eee0b838]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/16/section/16) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-0275f46f0f1e7f5ee4c2358ec107ae08]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/1) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-0275f46f0f1e7f5ee4c2358ec107ae08]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/1) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-6a870fa9d28eb6dcd2737f7dbec3ca72]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/2) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-6a870fa9d28eb6dcd2737f7dbec3ca72]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/2) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-c643e8cb59e86874eb65535de427b58b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/3) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-c643e8cb59e86874eb65535de427b58b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/3) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-dbced8ced5b18d170042bd4015cf7588]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/4) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-dbced8ced5b18d170042bd4015cf7588]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/4) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-5e010acd12f0a9c894f88223626ad81c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/5) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-5e010acd12f0a9c894f88223626ad81c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/5) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-3defef514f941ea1d58c6c5fc46edcea]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/6) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-3defef514f941ea1d58c6c5fc46edcea]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/6) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-ea7604541274a0b1e7318e9fcd6b3ae5]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/7) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-ea7604541274a0b1e7318e9fcd6b3ae5]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/7) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-ebd0ecc6297dd7aca8c7928491be03c4]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/8) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-ebd0ecc6297dd7aca8c7928491be03c4]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/8) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-4fc218eba7397c6368e2453d874913a8]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/9) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-4fc218eba7397c6368e2453d874913a8]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/9) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-0d21daf7212d57a2e170e5db930e6edc]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/10) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-0d21daf7212d57a2e170e5db930e6edc]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/10) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-76e5e945f7cf428aa47045d7dca0cc57]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/11) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-76e5e945f7cf428aa47045d7dca0cc57]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/11) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-89cb7a6174666d868dc5054523fefa0a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/12) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-89cb7a6174666d868dc5054523fefa0a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/12) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-ea7325e70c83e82084f12c764f517dd0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/13) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-ea7325e70c83e82084f12c764f517dd0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/13) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-de440bbee3fec13631728567a412b0f1]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/14) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-de440bbee3fec13631728567a412b0f1]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/14) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-37286ffe7dfde78cb7c6e1c0c58ecd87]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/15) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-37286ffe7dfde78cb7c6e1c0c58ecd87]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/15) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-dfadee5b38ff6439111221d7a13a1a1d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/16) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-dfadee5b38ff6439111221d7a13a1a1d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/16) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-3c081f680afd871b46440605bda65e34]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/17) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-3c081f680afd871b46440605bda65e34]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/17) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-045a3d23b9120d6e345264604d6a933a]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/18) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-045a3d23b9120d6e345264604d6a933a]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/18) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-6a1366a0f3e913415f6b035a6f97224f]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-6a1366a0f3e913415f6b035a6f97224f]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/19) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-1085b0a788d3b38f0788cece6567cbe4]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-1085b0a788d3b38f0788cece6567cbe4]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/20) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-684026d8f8ff2a5e937654ee098f18fe]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/21) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-684026d8f8ff2a5e937654ee098f18fe]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/21) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-f29392c5613b55afd21c7231880cfaf3]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/22) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-f29392c5613b55afd21c7231880cfaf3]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/22) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-4135571c9c945c04a48d56ec14dadbb7]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/23) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-4135571c9c945c04a48d56ec14dadbb7]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/23) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-21125087364e7627b8d9d46c9cb8c00b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/24) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-21125087364e7627b8d9d46c9cb8c00b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/24) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-4926c52a6b91b50ab11b270baef146e2]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-4926c52a6b91b50ab11b270baef146e2]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/25) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-e7e1e798015bb1cb5f078340199f7743]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/26) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-e7e1e798015bb1cb5f078340199f7743]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/26) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-7d43645add7f7d8d3410dc17746d72a9]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-7d43645add7f7d8d3410dc17746d72a9]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-8ecb4d8cad9775a7c09c4b55cbbe26e0]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/28) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-8ecb4d8cad9775a7c09c4b55cbbe26e0]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/28) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-b575a766139cb1dc433d8ee699f20e4c]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/29) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-b575a766139cb1dc433d8ee699f20e4c]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/29) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-893a4266b36cdbbfac5a032ac61958f1]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/30) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-893a4266b36cdbbfac5a032ac61958f1]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/30) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-99b902058d1b672c28ab844c4cce57d6]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-99b902058d1b672c28ab844c4cce57d6]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/31) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-f8578fb9544118abecc60ffe47ef52c3]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/32) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-f8578fb9544118abecc60ffe47ef52c3]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/32) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-6fe1ef1959b7c7d1778addd70e71c476]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/33) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-6fe1ef1959b7c7d1778addd70e71c476]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/33) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-99599cb03ef23949985d233dda20c219]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/34) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-99599cb03ef23949985d233dda20c219]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/34) in force at 28.11.2011 by [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

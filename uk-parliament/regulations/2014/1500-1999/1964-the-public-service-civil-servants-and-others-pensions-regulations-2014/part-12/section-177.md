@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Determination of questions[^key-03a409abb7df3490ce8e554adb73f575]
+## 177. Determination of questions[^c-03a409abb7df3490ce8e554adb73f575]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Except as otherwise provided by these Regulations, any question arising under th
 
 ## Annotations
 
-[^key-03a409abb7df3490ce8e554adb73f575]: Commencement: [Reg. 177](https://www.legislation.gov.uk/uksi/2014/1964/regulation/177) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-03a409abb7df3490ce8e554adb73f575]: Commencement: [Reg. 177](https://www.legislation.gov.uk/uksi/2014/1964/regulation/177) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

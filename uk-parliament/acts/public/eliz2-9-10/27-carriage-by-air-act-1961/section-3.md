@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Fatal accidents.[^key-29e6c28da1c84cd52ba0226a3888059a][^key-29948c002b67d0d08f5cc2b1cf43c047][^c12406311]
+## 3. Fatal accidents.[^c-29e6c28da1c84cd52ba0226a3888059a][^c-29948c002b67d0d08f5cc2b1cf43c047][^c12406311]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,9 +28,9 @@ References in section one of the [^c12406321]Fatal Accidents Act, 1846, as it ap
 
 ## Annotations
 
-[^key-29e6c28da1c84cd52ba0226a3888059a]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/3) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-29e6c28da1c84cd52ba0226a3888059a]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/3) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-29948c002b67d0d08f5cc2b1cf43c047]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/3) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-29948c002b67d0d08f5cc2b1cf43c047]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/3) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c12406311]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/3) amended with saving by [Fatal Accidents Act 1976 (c. 30)](https://www.legislation.gov.uk/ukpga/1976/30), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1976/30/section/7/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1976/30/schedule/1/paragraph/2/2)
 

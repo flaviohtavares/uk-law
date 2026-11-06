@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Offences by bodies corporate etc.[^key-cb3cf7a8caa3fd653f7616837050f4cf]
+## 42. Offences by bodies corporate etc.[^c-cb3cf7a8caa3fd653f7616837050f4cf]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ## Annotations
 
-[^key-cb3cf7a8caa3fd653f7616837050f4cf]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2017/282/regulation/42) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-cb3cf7a8caa3fd653f7616837050f4cf]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2017/282/regulation/42) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

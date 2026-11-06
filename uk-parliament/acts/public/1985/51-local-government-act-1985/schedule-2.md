@@ -71,7 +71,7 @@ Section 6
 
 (4) The Commission may in the case of any building in Greater London cause investigations to be made, and information to be published, with respect to the history of the building.
 
-**4.** The Commission may in any area in England[^key-7df993ee495bb2531002d01921e37b27], and a London borough council may in its borough—
+**4.** The Commission may in any area in England[^c-7df993ee495bb2531002d01921e37b27], and a London borough council may in its borough—
 
 - (a) provide; and
 - (b) on any conspicuous part of a house, building or place, with the consent of its owner, erect,
@@ -84,4 +84,4 @@ a commemorative plaque, tablet or sign indicating an event or matter of public i
 
 [^c3166291]: Marginal citation: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-7df993ee495bb2531002d01921e37b27]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1985/51/schedule/2/paragraph/4) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 240](https://www.legislation.gov.uk/ukpga/2023/55/section/240), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7df993ee495bb2531002d01921e37b27]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1985/51/schedule/2/paragraph/4) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 240](https://www.legislation.gov.uk/ukpga/2023/55/section/240), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -24,7 +24,7 @@ Section 78
 
 ### Part 1 — Eligibility verification
 
-**1.**[^key-75b7783122e41bffc1e1ada37fe89dcd][^key-593c9e1006cf15b7411719bedcc69b7c] The Schedule to be inserted into the Social Security Administration Act 1992 after Schedule 3A is—
+**1.**[^c-75b7783122e41bffc1e1ada37fe89dcd][^c-593c9e1006cf15b7411719bedcc69b7c] The Schedule to be inserted into the Social Security Administration Act 1992 after Schedule 3A is—
 
 > **Schedule 3B — Eligibility verification**
 >
@@ -523,7 +523,7 @@ Section 78
 
 ### Part 2 — Proceeds of Crime Act 2002
 
-**2.**[^key-00e2c2c1656d22625d8d4f5a048a3460][^key-45470d48ac1fd7be9f2168812e733bfc] (1) The Proceeds of Crime Act 2002 is amended as follows.
+**2.**[^c-00e2c2c1656d22625d8d4f5a048a3460][^c-45470d48ac1fd7be9f2168812e733bfc] (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) In section 330 (failure to disclose: regulated sector), after subsection (7D) insert—
 
@@ -541,10 +541,10 @@ Section 78
 
 ## Annotations
 
-[^key-75b7783122e41bffc1e1ada37fe89dcd]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-75b7783122e41bffc1e1ada37fe89dcd]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-593c9e1006cf15b7411719bedcc69b7c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/paragraph/1) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)
+[^c-593c9e1006cf15b7411719bedcc69b7c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/paragraph/1) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)
 
-[^key-00e2c2c1656d22625d8d4f5a048a3460]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-00e2c2c1656d22625d8d4f5a048a3460]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-45470d48ac1fd7be9f2168812e733bfc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/paragraph/2) in force at 2.2.2026 by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)
+[^c-45470d48ac1fd7be9f2168812e733bfc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2025/28/schedule/3/paragraph/2) in force at 2.2.2026 by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/c)

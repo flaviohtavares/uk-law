@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Functions of Serious Organised Crime Agency[^key-4be9a359b53babe9afd791695b5ddcdf]
+## 170. Functions of Serious Organised Crime Agency[^c-4be9a359b53babe9afd791695b5ddcdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4be9a359b53babe9afd791695b5ddcdf]: Textual amendment: S. 170 repealed (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 189](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/189); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-4be9a359b53babe9afd791695b5ddcdf]: Textual amendment: S. 170 repealed (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 189](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/189); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

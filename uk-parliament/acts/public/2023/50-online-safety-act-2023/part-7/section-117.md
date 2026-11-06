@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Provision of information to the Secretary of State[^key-f83774279839ecd56b5a3c2f1ba023be]
+## 117. Provision of information to the Secretary of State[^c-f83774279839ecd56b5a3c2f1ba023be]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f83774279839ecd56b5a3c2f1ba023be]: Commencement: S. 117 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)
+[^c-f83774279839ecd56b5a3c2f1ba023be]: Commencement: S. 117 in force at Royal Assent, see [s. 240(4)(r)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/r)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Supplementary provision about powers of entry[^key-2942bd14d24e3f23816d599c866cb888][^key-da2050c25bc19956996c55b00dc4e49a]
+## 155. Supplementary provision about powers of entry[^c-2942bd14d24e3f23816d599c866cb888][^c-da2050c25bc19956996c55b00dc4e49a]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ a person suffering the damage may recover compensation from the person who autho
 
 ## Annotations
 
-[^key-2942bd14d24e3f23816d599c866cb888]: Commencement: S. 155 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2942bd14d24e3f23816d599c866cb888]: Commencement: S. 155 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-da2050c25bc19956996c55b00dc4e49a]: Commencement: [S. 155](https://www.legislation.gov.uk/asc/2023/3/section/155) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-da2050c25bc19956996c55b00dc4e49a]: Commencement: [S. 155](https://www.legislation.gov.uk/asc/2023/3/section/155) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

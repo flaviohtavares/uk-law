@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Remunerative work[^key-b0b2c8a4de36549e0dc0f548d3ef73b6]
+## 6. Remunerative work[^c-b0b2c8a4de36549e0dc0f548d3ef73b6]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b2c8a4de36549e0dc0f548d3ef73b6]: Commencement: Reg. 6 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-b0b2c8a4de36549e0dc0f548d3ef73b6]: Commencement: Reg. 6 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

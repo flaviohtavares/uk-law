@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Occupied hereditaments: supplementary.[^key-625c861675e93357396186dc0593cb62]
+## 44. Occupied hereditaments: supplementary.[^c-625c861675e93357396186dc0593cb62]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-625c861675e93357396186dc0593cb62]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1988/41/section/44) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/1/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
+[^c-625c861675e93357396186dc0593cb62]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1988/41/section/44) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/1/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)

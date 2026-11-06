@@ -50,17 +50,17 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 Accordingly the Secretary of State for Transport makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-10635fe9f54bf88fc441e6ee7b8b887d]
+## 1. Citation, commencement and extent[^c-10635fe9f54bf88fc441e6ee7b8b887d]
 
 (1) These Regulations may be cited as the Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 and shall come into force on 18th September 2006.
 
 (2) These Regulations do not extend to Northern Ireland.
 
-## 2. Amendment of the Road Traffic Act 1988[^key-a1f9e64af204e302f0f33438d6c79073]
+## 2. Amendment of the Road Traffic Act 1988[^c-a1f9e64af204e302f0f33438d6c79073]
 
 The Road Traffic Act 1988 is amended in accordance with regulations 3 to 5.
 
-**3.**[^key-79d88a31a0d7705be4b67bd806395716] (1) In section 15 (restriction on carrying children not wearing seat belts in motor vehicles) after subsection (1) insert—
+**3.**[^c-79d88a31a0d7705be4b67bd806395716] (1) In section 15 (restriction on carrying children not wearing seat belts in motor vehicles) after subsection (1) insert—
 
 > (1A) Where—
 >
@@ -101,7 +101,7 @@ The Road Traffic Act 1988 is amended in accordance with regulations 3 to 5.
 
 .
 
-**4.**[^key-df220893fd1ec4bef3a7e8d82eca2b1a] After section 15A insert—
+**4.**[^c-df220893fd1ec4bef3a7e8d82eca2b1a] After section 15A insert—
 
 > **15B. Requirement to notify bus passengers to wear seat belts**
 >
@@ -141,7 +141,7 @@ The Road Traffic Act 1988 is amended in accordance with regulations 3 to 5.
 
 .
 
-**5.**[^key-0b76ce921bbd531e97c9e3afa5180105] After Schedule 2, insert the following Schedule—
+**5.**[^c-0b76ce921bbd531e97c9e3afa5180105] After Schedule 2, insert the following Schedule—
 
 > **SCHEDULE 2A — Form of seat belt symbol for buses**
 >
@@ -149,11 +149,11 @@ The Road Traffic Act 1988 is amended in accordance with regulations 3 to 5.
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2006/1892/images/uksi_20061892_en_001)
 
-## 6. Amendment of the Road Traffic Offenders Act 1988[^key-5a87170170e4b67bdb2251a17527ad39]
+## 6. Amendment of the Road Traffic Offenders Act 1988[^c-5a87170170e4b67bdb2251a17527ad39]
 
 The Road Traffic Offenders Act 1988[^f00006] is amended in accordance with regulations 7 and 8.
 
-**7.**[^key-c4103c4c2fb536f0724907945b59610f] In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) apply), in column 2 of the table, at the end of the entry for section 15 of the Road Traffic Act 1988 insert—
+**7.**[^c-c4103c4c2fb536f0724907945b59610f] In Schedule 1 (offences to which sections 1, 6, 11 and 12(1) apply), in column 2 of the table, at the end of the entry for section 15 of the Road Traffic Act 1988 insert—
 
 > |  |
 > | --- |
@@ -161,7 +161,7 @@ The Road Traffic Offenders Act 1988[^f00006] is amended in accordance with regul
 
 .
 
-**8.**[^key-8dac79b74808da14aec7e57e79569c2e] In Schedule 2 (prosecution and punishment of offences), in Part 1—
+**8.**[^c-8dac79b74808da14aec7e57e79569c2e] In Schedule 2 (prosecution and punishment of offences), in Part 1—
 
 - (a) in column 2, at the end of the entry for section 15(2) of the Road Traffic Act 1988 insert—
 
@@ -174,11 +174,11 @@ The Road Traffic Offenders Act 1988[^f00006] is amended in accordance with regul
   > | --- | --- | --- | --- | --- | --- | --- |
   > | RTA section 15B | Failure to notify bus passengers of the requirement to wear seat belts. | Summarily. | Level 4 on the standard scale. |  |  |  |
 
-## 9. Amendment of the Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^key-72c781b64fe1ee86a56f66af34cd42b3]
+## 9. Amendment of the Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^c-72c781b64fe1ee86a56f66af34cd42b3]
 
 The Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^f00007] are amended in accordance with regulations 10 to 18.
 
-**10.**[^key-5a5fd1b45860f8e819d9879ef0fe2fd9] (1) In paragraph (1) of regulation 2 after the definition of “the Construction and Use Regulations” insert—
+**10.**[^c-5a5fd1b45860f8e819d9879ef0fe2fd9] (1) In paragraph (1) of regulation 2 after the definition of “the Construction and Use Regulations” insert—
 
 > - “large bus” means a motor vehicle which—
 >   - (a) is constructed or adapted for use for the carriage of passengers,
@@ -245,9 +245,9 @@ The Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^f00007] are amended
 
 .
 
-**11.**[^key-acffe4e3c2d8c2f70641522d75ce0ca5] Omit regulation 3.
+**11.**[^c-acffe4e3c2d8c2f70641522d75ce0ca5] Omit regulation 3.
 
-**12.**[^key-1a78968055e46d66ce9e458a284c1c96] In regulation 5 for paragraph (1) substitute—
+**12.**[^c-1a78968055e46d66ce9e458a284c1c96] In regulation 5 for paragraph (1) substitute—
 
 > (1) Subject to the following provisions of these Regulations, every person—
 >
@@ -258,7 +258,7 @@ The Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^f00007] are amended
 
 .
 
-**13.**[^key-ec98b46612e6f1e44cabddfaebf0d56b] In regulation 6 after paragraph (3) insert—
+**13.**[^c-ec98b46612e6f1e44cabddfaebf0d56b] In regulation 6 after paragraph (3) insert—
 
 > (4) The requirements of regulation 5(1)(b) do not apply to a person riding in a small or large bus—
 >
@@ -267,18 +267,18 @@ The Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^f00007] are amended
 
 .
 
-**14.**[^key-c6144b60566636047c3b0e58e8882c86] In regulation 8—
+**14.**[^c-c6144b60566636047c3b0e58e8882c86] In regulation 8—
 
 - (a) omit the words “and the vehicle is a relevant vehicle” in sub-paragraph (a) of paragraph (1), and
 - (b) omit sub-paragraph (b) of paragraph (1).
 
-**15.**[^key-895b67dc98326c55dd4896b7cf05a1e7] In regulation 9 for paragraph (a) substitute—
+**15.**[^c-895b67dc98326c55dd4896b7cf05a1e7] In regulation 9 for paragraph (a) substitute—
 
 > - (a) large buses;
 
 .
 
-**16.**[^key-cd0f87d6ba6e04d0e3e0543836fe8622] (1) In regulation 10 for paragraph (1) substitute—
+**16.**[^c-cd0f87d6ba6e04d0e3e0543836fe8622] (1) In regulation 10 for paragraph (1) substitute—
 
 > (1) The prohibitions in section 15(3) and (3A) of the Act do not apply in relation to—
 >
@@ -315,9 +315,9 @@ The Motor Vehicles (Wearing of Seat Belts) Regulations 1993[^f00007] are amended
 
 .
 
-**17.**[^key-c43c8452585c719a149024bff982543e] In Schedule 1 omit sub-paragraph (b) of paragraph 2 and the word “or” which precedes it.
+**17.**[^c-c43c8452585c719a149024bff982543e] In Schedule 1 omit sub-paragraph (b) of paragraph 2 and the word “or” which precedes it.
 
-**18.**[^key-77ca9d93ddd9b647dba70b37640d956e] (1) In Schedule 2 omit sub-paragraph (f) of paragraph 3**.**
+**18.**[^c-77ca9d93ddd9b647dba70b37640d956e] (1) In Schedule 2 omit sub-paragraph (f) of paragraph 3**.**
 
 (2) Omit paragraph 6 of that Schedule.
 
@@ -383,46 +383,46 @@ A copy of Council Directive [2003/20/EC](https://www.legislation.gov.uk/european
 
 [^f00003]: Footnote: S.I. [1996/266](https://www.legislation.gov.uk/uksi/1996/266).
 
-[^key-10635fe9f54bf88fc441e6ee7b8b887d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-10635fe9f54bf88fc441e6ee7b8b887d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-a1f9e64af204e302f0f33438d6c79073]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/1892/regulation/2) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-a1f9e64af204e302f0f33438d6c79073]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/1892/regulation/2) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-79d88a31a0d7705be4b67bd806395716]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/1892/regulation/3) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-79d88a31a0d7705be4b67bd806395716]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/1892/regulation/3) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-df220893fd1ec4bef3a7e8d82eca2b1a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1892/regulation/4) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-df220893fd1ec4bef3a7e8d82eca2b1a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/1892/regulation/4) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
 [^f00004]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). A “local service” is defined in section 2 of that Act.
 
 [^f00005]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-0b76ce921bbd531e97c9e3afa5180105]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/1892/regulation/5) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-0b76ce921bbd531e97c9e3afa5180105]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/1892/regulation/5) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-5a87170170e4b67bdb2251a17527ad39]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/1892/regulation/6) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-5a87170170e4b67bdb2251a17527ad39]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/1892/regulation/6) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
 [^f00006]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53) ; the entry in Part 1 of Schedule 2 relating to section 15A(3) or (4) of the Road Traffic Act 1988 was added by section 3 of the Motor Vehicles (Safety Equipment for Children) Act [1991 (c. 14)](https://www.legislation.gov.uk/ukpga/1991/14).
 
-[^key-c4103c4c2fb536f0724907945b59610f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1892/regulation/7) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-c4103c4c2fb536f0724907945b59610f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/1892/regulation/7) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-8dac79b74808da14aec7e57e79569c2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/1892/regulation/8) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-8dac79b74808da14aec7e57e79569c2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/1892/regulation/8) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-72c781b64fe1ee86a56f66af34cd42b3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1892/regulation/9) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-72c781b64fe1ee86a56f66af34cd42b3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/1892/regulation/9) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1993/176](https://www.legislation.gov.uk/uksi/1993/176), to which there are amendments not relevant to these Regulations.
 
-[^key-5a5fd1b45860f8e819d9879ef0fe2fd9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/1892/regulation/10) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-5a5fd1b45860f8e819d9879ef0fe2fd9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/1892/regulation/10) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-acffe4e3c2d8c2f70641522d75ce0ca5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1892/regulation/11) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-acffe4e3c2d8c2f70641522d75ce0ca5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/1892/regulation/11) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-1a78968055e46d66ce9e458a284c1c96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/1892/regulation/12) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-1a78968055e46d66ce9e458a284c1c96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/1892/regulation/12) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-ec98b46612e6f1e44cabddfaebf0d56b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/1892/regulation/13) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-ec98b46612e6f1e44cabddfaebf0d56b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/1892/regulation/13) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-c6144b60566636047c3b0e58e8882c86]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1892/regulation/14) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-c6144b60566636047c3b0e58e8882c86]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/1892/regulation/14) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-895b67dc98326c55dd4896b7cf05a1e7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/1892/regulation/15) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-895b67dc98326c55dd4896b7cf05a1e7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2006/1892/regulation/15) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-cd0f87d6ba6e04d0e3e0543836fe8622]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/1892/regulation/16) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-cd0f87d6ba6e04d0e3e0543836fe8622]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/1892/regulation/16) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-c43c8452585c719a149024bff982543e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/1892/regulation/17) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-c43c8452585c719a149024bff982543e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2006/1892/regulation/17) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
 
-[^key-77ca9d93ddd9b647dba70b37640d956e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/1892/regulation/18) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)
+[^c-77ca9d93ddd9b647dba70b37640d956e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/1892/regulation/18) in force at 18.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/1/1)

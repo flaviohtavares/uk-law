@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Guidance on code awareness and reviewing compliance[^key-1cc167952a8b75244f2ee515463b1d97]
+## 12. Guidance on code awareness and reviewing compliance[^c-1cc167952a8b75244f2ee515463b1d97]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc167952a8b75244f2ee515463b1d97]: Commencement: S. 12 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-1cc167952a8b75244f2ee515463b1d97]: Commencement: S. 12 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

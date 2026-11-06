@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Procedure where detailed assessment required[^key-3641eb72cacc1a7dfb1125c63bdfab77]
+## 117. Procedure where detailed assessment required[^c-3641eb72cacc1a7dfb1125c63bdfab77]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3641eb72cacc1a7dfb1125c63bdfab77]: Commencement: Rule 117 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3641eb72cacc1a7dfb1125c63bdfab77]: Commencement: Rule 117 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

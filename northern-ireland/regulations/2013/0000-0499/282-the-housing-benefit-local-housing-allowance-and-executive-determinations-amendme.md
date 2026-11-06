@@ -101,7 +101,7 @@ In regulation 14C of the Housing Benefit (Persons who have attained the qualifyi
   ; and
 - (c) omit paragraphs (4) and (6).
 
-## 5. Amendment of the Housing Benefit (Executive Determinations) Regulations[^key-950b657e5e0616fef3e4a47ebf49f14c]
+## 5. Amendment of the Housing Benefit (Executive Determinations) Regulations[^c-950b657e5e0616fef3e4a47ebf49f14c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,4 +141,4 @@ Regulation 5 makes a minor technical amendment to the Housing Benefit (Executive
 
 [^c21956221]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406); [regulations 14](https://www.legislation.gov.uk/nisr/2013/282/regulation/14) to14F were substituted for regulation 14 by regulation 2(7) of S.R. [2008 No. 102](https://www.legislation.gov.uk/ukcm/2008/102)
 
-[^key-950b657e5e0616fef3e4a47ebf49f14c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/282/regulation/5) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)
+[^c-950b657e5e0616fef3e4a47ebf49f14c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/282/regulation/5) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

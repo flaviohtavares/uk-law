@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f3a679ecbd5433e0d0adc34743dafab8]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f3a679ecbd5433e0d0adc34743dafab8]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New street to be substituted* |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Article 12
 | North Lincolnshire | Private Means of Access point 3/F, on the Streets, Rights of Way and Access Plans Sheet 3. | The whole access. | Private Means of Access point 3/9, on the Streets, Rights of Way and Access Plans Sheet 3. |
 | North Lincolnshire | Private Means of Access point 4/A, on the Streets, Rights of Way and Access Plans Sheet 4. | The whole access. | Private Means of Access point 4/1, on the Streets, Rights of Way and Access Plans Sheet 4. |
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-4fa52a37d29b3a09af772153d076ec01]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-4fa52a37d29b3a09af772153d076ec01]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -58,6 +58,6 @@ Article 12
 
 ## Annotations
 
-[^key-f3a679ecbd5433e0d0adc34743dafab8]: Commencement: Sch. 4 Pt. 1 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-f3a679ecbd5433e0d0adc34743dafab8]: Commencement: Sch. 4 Pt. 1 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
-[^key-4fa52a37d29b3a09af772153d076ec01]: Commencement: Sch. 4 Pt. 2 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-4fa52a37d29b3a09af772153d076ec01]: Commencement: Sch. 4 Pt. 2 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

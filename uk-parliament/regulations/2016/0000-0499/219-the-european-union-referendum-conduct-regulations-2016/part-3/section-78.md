@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Offences[^key-707c9367cd3c54d85db72b347f8f5f73]
+## 78. Offences[^c-707c9367cd3c54d85db72b347f8f5f73]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the person whose signature it purports to be.
 
 ## Annotations
 
-[^key-707c9367cd3c54d85db72b347f8f5f73]: Commencement: Reg. 78 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-707c9367cd3c54d85db72b347f8f5f73]: Commencement: Reg. 78 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

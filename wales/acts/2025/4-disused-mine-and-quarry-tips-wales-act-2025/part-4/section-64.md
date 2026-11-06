@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Penalties in connection with notices requiring information[^key-8bb1fba0500d957def70470622dcee72]
+## 64. Penalties in connection with notices requiring information[^c-8bb1fba0500d957def70470622dcee72]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb1fba0500d957def70470622dcee72]: Commencement: S. 64 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-8bb1fba0500d957def70470622dcee72]: Commencement: S. 64 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

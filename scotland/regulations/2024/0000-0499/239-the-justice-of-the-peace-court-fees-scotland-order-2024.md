@@ -32,7 +32,7 @@ summary: ''
 
 Justice Of The Peace Court
 
-The Justice of the Peace Court Fees (Scotland) Order 2024 (revoked)[^key-b633702946257c36b6eefb717256bb43]
+The Justice of the Peace Court Fees (Scotland) Order 2024 (revoked)[^c-b633702946257c36b6eefb717256bb43]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st November 2024
 
-[^key-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b633702946257c36b6eefb717256bb43]
+## 1. Citation and commencement[^c-b633702946257c36b6eefb717256bb43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in justice of the peace courts[^key-b633702946257c36b6eefb717256bb43]
+## 2. Fees payable in justice of the peace courts[^c-b633702946257c36b6eefb717256bb43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees: legal aid[^key-b633702946257c36b6eefb717256bb43]
+## 3. Exemption of certain persons from fees: legal aid[^c-b633702946257c36b6eefb717256bb43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-b633702946257c36b6eefb717256bb43]
+## 4. Exemption of certain persons from fees: social security[^c-b633702946257c36b6eefb717256bb43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-b633702946257c36b6eefb717256bb43]
+## 5. Revocation[^c-b633702946257c36b6eefb717256bb43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF FEES[^key-b633702946257c36b6eefb717256bb43]
+## SCHEDULE — TABLE OF FEES[^c-b633702946257c36b6eefb717256bb43]
 
 Article 2(1)
 
@@ -82,8 +82,8 @@ Article 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b633702946257c36b6eefb717256bb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b633702946257c36b6eefb717256bb43]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/239) revoked (1.4.2026) by [The Justice of the Peace Court Fees (Scotland) Order 2026 (S.S.I. 2026/78)](https://www.legislation.gov.uk/ssi/2026/78), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/78/article/1/1), [5](https://www.legislation.gov.uk/ssi/2026/78/article/5)
+[^c-b633702946257c36b6eefb717256bb43]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/239) revoked (1.4.2026) by [The Justice of the Peace Court Fees (Scotland) Order 2026 (S.S.I. 2026/78)](https://www.legislation.gov.uk/ssi/2026/78), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/78/article/1/1), [5](https://www.legislation.gov.uk/ssi/2026/78/article/5)

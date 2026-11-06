@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Power for the OfS to publish notices, decisions and reports[^key-11f054ec1e801205d6f431dffef58e3d]
+## 67A. Power for the OfS to publish notices, decisions and reports[^c-11f054ec1e801205d6f431dffef58e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ For this purpose “**the data protection legislation**” has the same meaning 
 
 ## Annotations
 
-[^key-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)

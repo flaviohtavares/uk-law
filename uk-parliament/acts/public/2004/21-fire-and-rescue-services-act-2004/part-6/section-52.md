@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Repeal of Fire Services Act 1947[^key-a181ad65959a0564fb7bcc041042e43a][^key-182840e0b187fd039243fe0ca7801308]
+## 52. Repeal of Fire Services Act 1947[^c-a181ad65959a0564fb7bcc041042e43a][^c-182840e0b187fd039243fe0ca7801308]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Fire Services Act 1947 (c. 41) shall cease to have effect.
 
 ## Annotations
 
-[^key-a181ad65959a0564fb7bcc041042e43a]: Commencement: S. 52 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-a181ad65959a0564fb7bcc041042e43a]: Commencement: S. 52 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-182840e0b187fd039243fe0ca7801308]: Commencement: S. 52 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-182840e0b187fd039243fe0ca7801308]: Commencement: S. 52 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

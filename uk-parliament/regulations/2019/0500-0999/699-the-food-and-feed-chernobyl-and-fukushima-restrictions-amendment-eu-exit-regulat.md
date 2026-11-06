@@ -36,7 +36,7 @@ Agriculture
 
 Food
 
-The Food and Feed (Chernobyl and Fukushima Restrictions) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-bcd9d107c3d77b6cc23ff967450853b0]
+The Food and Feed (Chernobyl and Fukushima Restrictions) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 Made
 
@@ -44,116 +44,116 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-bcd9d107c3d77b6cc23ff967450853b0]
+## PART 1 — Introduction[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
-### 1. Citation and commencement[^key-bcd9d107c3d77b6cc23ff967450853b0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 1. Citation and commencement[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Amendment of retained direct EU legislation[^key-bcd9d107c3d77b6cc23ff967450853b0]
-
-### 3. Amendment of Regulation 1635/2006[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 2. Interpretation[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+## PART 2 — Amendment of retained direct EU legislation[^c-bcd9d107c3d77b6cc23ff967450853b0]
+
+### 3. Amendment of Regulation 1635/2006[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 4.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 5.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 6.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 7.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of Regulation 733/2008[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 8.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 9. Amendment of Regulation 733/2008[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 10.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 11.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 12.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 13.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 14.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 15.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment of Regulation 2016/6[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 16.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 17. Amendment of Regulation 2016/6[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 18.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 19.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 20.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 21.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 22.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24.[^key-bcd9d107c3d77b6cc23ff967450853b0]
+### 23.[^c-bcd9d107c3d77b6cc23ff967450853b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 24.[^c-bcd9d107c3d77b6cc23ff967450853b0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcd9d107c3d77b6cc23ff967450853b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bcd9d107c3d77b6cc23ff967450853b0]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/c)
+[^c-bcd9d107c3d77b6cc23ff967450853b0]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Transfer within group to investment trust.[^key-8e167f5c1f0026dc980511c036b872d1]
+## 101A. Transfer within group to investment trust.[^c-8e167f5c1f0026dc980511c036b872d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ as may be required in consequence of the provisions of this section shall be car
 
 ## Annotations
 
-[^key-8e167f5c1f0026dc980511c036b872d1]: Textual amendment: S. 101A inserted (with application in accordance with s. 133(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 133(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/133/1)
+[^c-8e167f5c1f0026dc980511c036b872d1]: Textual amendment: S. 101A inserted (with application in accordance with s. 133(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 133(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/133/1)

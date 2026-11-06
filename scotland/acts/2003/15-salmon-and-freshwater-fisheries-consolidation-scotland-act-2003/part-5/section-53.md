@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Powers of constables[^key-36356e39e60c1ccff989e81e6996a422]
+## 53. Powers of constables[^c-36356e39e60c1ccff989e81e6996a422]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36356e39e60c1ccff989e81e6996a422]: Commencement: S. 53 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-36356e39e60c1ccff989e81e6996a422]: Commencement: S. 53 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

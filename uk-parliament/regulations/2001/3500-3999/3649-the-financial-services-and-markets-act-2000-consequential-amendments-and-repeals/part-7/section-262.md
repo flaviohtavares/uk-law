@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Revocation of redundant provision[^key-891ea8db34d748208fb36cd245c45fea]
+## 262. Revocation of redundant provision[^c-891ea8db34d748208fb36cd245c45fea]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ are revoked.
 
 ## Annotations
 
-[^key-891ea8db34d748208fb36cd245c45fea]: Commencement: Art. 262 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-891ea8db34d748208fb36cd245c45fea]: Commencement: Art. 262 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00176]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53). Section 47 is superseded by provisions inserted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and the tribunal established under that section abolished.

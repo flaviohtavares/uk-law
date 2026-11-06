@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**231.**[^key-10cfc0dc1bd0935fa8b8d23f811cb139] The Childcare Act 2006 is amended as follows.
+**231.**[^c-10cfc0dc1bd0935fa8b8d23f811cb139] The Childcare Act 2006 is amended as follows.
 
 ## Annotations
 
-[^key-10cfc0dc1bd0935fa8b8d23f811cb139]: Commencement: Reg. 231 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-10cfc0dc1bd0935fa8b8d23f811cb139]: Commencement: Reg. 231 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

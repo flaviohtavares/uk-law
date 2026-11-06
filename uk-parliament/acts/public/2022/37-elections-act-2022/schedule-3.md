@@ -22,11 +22,11 @@ summary: ''
 
 Section 3
 
-### 1. Representation of the People Act 2000[^key-2254010fd27da034ad807689e10f8e58][^key-c0475b84f35ebd79d27a8fdcecd4b362]
+### 1. Representation of the People Act 2000[^c-2254010fd27da034ad807689e10f8e58][^c-c0475b84f35ebd79d27a8fdcecd4b362]
 
 Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain) is amended as follows.
 
-**2.**[^key-6d232a3b0b52cce423d5893bb6be93cc][^key-a55ef45d3ed8e73ac4d1fe34e6176147] (1) Paragraph 3 (absent vote at elections for definite or indefinite period) is amended as follows.
+**2.**[^c-6d232a3b0b52cce423d5893bb6be93cc][^c-a55ef45d3ed8e73ac4d1fe34e6176147] (1) Paragraph 3 (absent vote at elections for definite or indefinite period) is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -86,7 +86,7 @@ Schedule 4 to the Representation of the People Act 2000 (absent voting in Great 
 
 (8) In the heading before paragraph 3, for “definite or indefinite” substitute “a”.
 
-**3.**[^key-99599e88dda83afcbf30b33ea3d68190][^key-90a4d6b9c285523f3f486623d12563e9] (1) Paragraph 7 (voting as proxy) is amended as follows.
+**3.**[^c-99599e88dda83afcbf30b33ea3d68190][^c-90a4d6b9c285523f3f486623d12563e9] (1) Paragraph 7 (voting as proxy) is amended as follows.
 
 (2) In sub-paragraph (4), in paragraph (a) omit “(whether for an indefinite period or for a particular period specified in his application)”.
 
@@ -121,7 +121,7 @@ Schedule 4 to the Representation of the People Act 2000 (absent voting in Great 
   ;
 - (c) in paragraph (d), after “as proxy” insert “at local government elections in Scotland or Wales”.
 
-### 4. Transitional provision[^key-077d6cd47dd65b2819c1aec249491679][^key-cb77cec8eb82d4b02c3050c8211fbe69][^key-c742d261e7237eeb42a9f6d068ca22fe]
+### 4. Transitional provision[^c-077d6cd47dd65b2819c1aec249491679][^c-cb77cec8eb82d4b02c3050c8211fbe69][^c-c742d261e7237eeb42a9f6d068ca22fe]
 
 (1) This paragraph applies where, immediately before the day specified for the purposes of this paragraph (“the specified day”), a person has a relevant postal vote entitlement lasting for—
 
@@ -171,20 +171,20 @@ Schedule 4 to the Representation of the People Act 2000 (absent voting in Great 
 
 ## Annotations
 
-[^key-2254010fd27da034ad807689e10f8e58]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-2254010fd27da034ad807689e10f8e58]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-c0475b84f35ebd79d27a8fdcecd4b362]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/1) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
+[^c-c0475b84f35ebd79d27a8fdcecd4b362]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/1) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
 
-[^key-6d232a3b0b52cce423d5893bb6be93cc]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6d232a3b0b52cce423d5893bb6be93cc]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-a55ef45d3ed8e73ac4d1fe34e6176147]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/2) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
+[^c-a55ef45d3ed8e73ac4d1fe34e6176147]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/2) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
 
-[^key-99599e88dda83afcbf30b33ea3d68190]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-99599e88dda83afcbf30b33ea3d68190]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-90a4d6b9c285523f3f486623d12563e9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
+[^c-90a4d6b9c285523f3f486623d12563e9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
 
-[^key-077d6cd47dd65b2819c1aec249491679]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-077d6cd47dd65b2819c1aec249491679]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-cb77cec8eb82d4b02c3050c8211fbe69]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/4) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
+[^c-cb77cec8eb82d4b02c3050c8211fbe69]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/3/paragraph/4) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/e)
 
-[^key-c742d261e7237eeb42a9f6d068ca22fe]: Subordinate legislation: Sch. 3 para. 4: 31.10.2023 specified for the purposes of Sch. 3 para. 4 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/3)
+[^c-c742d261e7237eeb42a9f6d068ca22fe]: Subordinate legislation: Sch. 3 para. 4: 31.10.2023 specified for the purposes of Sch. 3 para. 4 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(3)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/3)

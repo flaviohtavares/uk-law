@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Power to amend or repeal provisions about priority need for accommodation[^key-92283c43f0815d2f714dce7b23485530][^key-5e04e4ac41c2a431b60d2b6cecd9bfd2]
+## 72. Power to amend or repeal provisions about priority need for accommodation[^c-92283c43f0815d2f714dce7b23485530][^c-5e04e4ac41c2a431b60d2b6cecd9bfd2]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92283c43f0815d2f714dce7b23485530]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2014/7/section/72) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-92283c43f0815d2f714dce7b23485530]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2014/7/section/72) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-5e04e4ac41c2a431b60d2b6cecd9bfd2]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2014/7/section/72) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/23)
+[^c-5e04e4ac41c2a431b60d2b6cecd9bfd2]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2014/7/section/72) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/23)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Protection of moved person's property[^key-ca89573075648f342ba9a36406f97f9a]
+## 18. Protection of moved person's property[^c-ca89573075648f342ba9a36406f97f9a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca89573075648f342ba9a36406f97f9a]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2007/10/section/18) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-ca89573075648f342ba9a36406f97f9a]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2007/10/section/18) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

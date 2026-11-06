@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Provisional notice of contravention[^key-5ffeeee61ee59e73560cf56acdd79cfd][^key-6dd7ed879bb00d926d6fbe4173999fde]
+## 130. Provisional notice of contravention[^c-5ffeeee61ee59e73560cf56acdd79cfd][^c-6dd7ed879bb00d926d6fbe4173999fde]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ffeeee61ee59e73560cf56acdd79cfd]: Commencement: S. 130 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5ffeeee61ee59e73560cf56acdd79cfd]: Commencement: S. 130 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6dd7ed879bb00d926d6fbe4173999fde]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/50/section/130) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-6dd7ed879bb00d926d6fbe4173999fde]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/50/section/130) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

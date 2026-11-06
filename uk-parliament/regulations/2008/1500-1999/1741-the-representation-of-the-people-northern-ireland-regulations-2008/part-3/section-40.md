@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Representations regarding clerical errors[^key-77a451de75d542151a95ef11c91429f4]
+## 40. Representations regarding clerical errors[^c-77a451de75d542151a95ef11c91429f4]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77a451de75d542151a95ef11c91429f4]: Modification: [Reg. 40](https://www.legislation.gov.uk/uksi/2008/1741/regulation/40) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(g)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/g)
+[^c-77a451de75d542151a95ef11c91429f4]: Modification: [Reg. 40](https://www.legislation.gov.uk/uksi/2008/1741/regulation/40) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(g)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/g)
 
 [^f00035]: Footnote: [1983 c. 3](https://www.legislation.gov.uk/ukpga/1983/3); section 13BA was inserted by section 6 of the Miscellaneous Provisions Act 2006.

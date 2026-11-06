@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Information.[^c1022464][^key-a44cd85a6c75c4b125ff43737b31f9f8][^c1022463]
+## 69A. Information.[^c1022464][^c-a44cd85a6c75c4b125ff43737b31f9f8][^c1022463]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ the appropriate Minister may serve on any processor of home-grown beet a notice 
 - (a) of information obtained under subsection (1)(a)—
   - (i) to a person designated to make a determination under section 69(1); or
   - (ii) to a body which substantially represents the growers of home-grown beet; or
-- (b) of information obtained under subsection (1)(b), to the EU[^key-d8d05ff4bff7ea85be5e364c1c6259af] institution concerned.
+- (b) of information obtained under subsection (1)(b), to the EU[^c-d8d05ff4bff7ea85be5e364c1c6259af] institution concerned.
 
 (4) In this section “ **the appropriate Minister** ” means—
 
@@ -48,8 +48,8 @@ the appropriate Minister may serve on any processor of home-grown beet a notice 
 
 [^c1022464]: Modification: S. 69A: transfer of functions (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule) (with [art. 2(5)(7)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/5/7))
 
-[^key-a44cd85a6c75c4b125ff43737b31f9f8]: Modification: [S. 69A](https://www.legislation.gov.uk/ukpga/1984/30/section/69A) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-a44cd85a6c75c4b125ff43737b31f9f8]: Modification: [S. 69A](https://www.legislation.gov.uk/ukpga/1984/30/section/69A) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c1022463]: Textual amendment: S. 69A inserted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 52](https://www.legislation.gov.uk/ukpga/1990/16/section/52), [54](https://www.legislation.gov.uk/ukpga/1990/16/section/54), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1990/16/schedule/2/paragraph/15)
 
-[^key-d8d05ff4bff7ea85be5e364c1c6259af]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2),](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2) [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-d8d05ff4bff7ea85be5e364c1c6259af]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2),](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2) [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

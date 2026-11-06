@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Application of Part 1 of the Compulsory Purchase Act 1965[^key-12260fcf77c12be771e1f4d0e2b491e0]
+## 23. Application of Part 1 of the Compulsory Purchase Act 1965[^c-12260fcf77c12be771e1f4d0e2b491e0]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-12260fcf77c12be771e1f4d0e2b491e0]: Commencement: Art. 23 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-12260fcf77c12be771e1f4d0e2b491e0]: Commencement: Art. 23 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
 [^f00042]: Footnote: Inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

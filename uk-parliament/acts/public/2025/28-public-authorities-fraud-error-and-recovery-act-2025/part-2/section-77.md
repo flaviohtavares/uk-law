@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Consequential amendments to the Social Security Fraud Act 2001[^key-e51febfb4f3e8d972ba7fb631d48c26c]
+## 77. Consequential amendments to the Social Security Fraud Act 2001[^c-e51febfb4f3e8d972ba7fb631d48c26c]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51febfb4f3e8d972ba7fb631d48c26c]: Commencement: S. 77 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e51febfb4f3e8d972ba7fb631d48c26c]: Commencement: S. 77 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

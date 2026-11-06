@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Appeals against notices[^key-25859bbf6eb0deaee713da98a05a386c]
+## 46. Appeals against notices[^c-25859bbf6eb0deaee713da98a05a386c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ For this purpose an appeal is “in progress” until it is finally determined o
 
 ## Annotations
 
-[^key-25859bbf6eb0deaee713da98a05a386c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/12/section/46) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-25859bbf6eb0deaee713da98a05a386c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/12/section/46) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

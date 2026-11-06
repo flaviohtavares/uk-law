@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 535. Interpretation of the 1996 Order[^key-7d1b9d7c17ab43f07f2612feb3c8550a]
+## 535. Interpretation of the 1996 Order[^c-7d1b9d7c17ab43f07f2612feb3c8550a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Article 2 of the Social Landlords (Permissible Additional Purposes or Objects) O
 
 ## Annotations
 
-[^key-7d1b9d7c17ab43f07f2612feb3c8550a]: Commencement: Art. 535 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7d1b9d7c17ab43f07f2612feb3c8550a]: Commencement: Art. 535 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

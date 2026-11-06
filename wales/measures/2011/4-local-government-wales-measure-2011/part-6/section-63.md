@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Reference of matters to overview and scrutiny committee etc[^key-ccc01bff9d7efcd855ec470415186087]
+## 63. Reference of matters to overview and scrutiny committee etc[^c-ccc01bff9d7efcd855ec470415186087]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccc01bff9d7efcd855ec470415186087]: Commencement: [S. 63](https://www.legislation.gov.uk/mwa/2011/4/section/63) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)
+[^c-ccc01bff9d7efcd855ec470415186087]: Commencement: [S. 63](https://www.legislation.gov.uk/mwa/2011/4/section/63) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(g)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/g)

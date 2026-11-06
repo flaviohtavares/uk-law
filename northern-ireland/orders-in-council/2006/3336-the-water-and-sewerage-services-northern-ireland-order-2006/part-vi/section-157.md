@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Further duty to provide sewers[^key-74f1cdabbbdde478014514b69b6c9e2f]
+## 157. Further duty to provide sewers[^c-74f1cdabbbdde478014514b69b6c9e2f]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ shall be determined by the Authority, and may be referred to the Authority for d
 
 ## Annotations
 
-[^key-74f1cdabbbdde478014514b69b6c9e2f]: Commencement: [Art. 157](https://www.legislation.gov.uk/nisi/2006/3336/article/157) in operation at 11.3.2016 by [S.R. 2016/152](https://www.legislation.gov.uk/nisr/2016/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/152/article/2/b)
+[^c-74f1cdabbbdde478014514b69b6c9e2f]: Commencement: [Art. 157](https://www.legislation.gov.uk/nisi/2006/3336/article/157) in operation at 11.3.2016 by [S.R. 2016/152](https://www.legislation.gov.uk/nisr/2016/152), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/152/article/2/b)

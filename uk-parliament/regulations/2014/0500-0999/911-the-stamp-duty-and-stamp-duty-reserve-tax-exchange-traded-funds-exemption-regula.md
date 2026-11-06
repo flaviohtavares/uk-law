@@ -58,18 +58,18 @@ In these Regulations—
 
 - “**the Act**” means the Financial Services and Markets Act 2000 [^c22080221];
 - “**collective investment scheme**” has the meaning given in section 235 of the Act;
-- [^key-2e40ee9dffd5faae7f5ba1589eb8c90d]...
-- “multilateral trading facility” means—[^key-6ead775ec521e1245a0e91232e02d60e]
+- [^c-2e40ee9dffd5faae7f5ba1589eb8c90d]...
+- “multilateral trading facility” means—[^c-6ead775ec521e1245a0e91232e02d60e]
   - (a) a UK multilateral trading facility, within the meaning of [Regulation (EU) No. 600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments;
   - (b) an EU multilateral trading facility, within the meaning of that Regulation; or
-  - (c) Gibraltar multilateral trading facility within the meaning given by Article 26(11)(b)(ii) of that Regulation;[^key-db5ba0eca92569d82f5f655502b16602]
+  - (c) Gibraltar multilateral trading facility within the meaning given by Article 26(11)(b)(ii) of that Regulation;[^c-db5ba0eca92569d82f5f655502b16602]
 
-  [^key-d1f4f3e91b8903da3a7c0c3864ab0acd]...
+  [^c-d1f4f3e91b8903da3a7c0c3864ab0acd]...
 - “**open-ended investment company**” has the meaning given in section 236 of the Act [^c22080241];
 - “regulated market” means—
   - (a) a UK regulated market, within the meaning of [Regulation (EU) No. 600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments;
   - (b) an EU regulated market, within the meaning of that Regulation; or
-  - (c) a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation;[^key-aa0404b15ac6a0cc1490c1031fa931d8]
+  - (c) a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation;[^c-aa0404b15ac6a0cc1490c1031fa931d8]
 - “UCITS” means—
   - (a) a UCITS within the meaning given by section 236A of the Financial Services and Markets Act 2000; or
   - (b) an undertaking established in Gibraltar which is a UCITS under the law of Gibraltar which implemented [Directive 2009/65/EC](https://www.legislation.gov.uk/european/directive/2009/0065) of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities.
@@ -92,7 +92,7 @@ In these Regulations an “**exchange traded fund**” means a collective invest
 - (a) is an open-ended investment company, units in which are admitted to trading on—
   - (i) a regulated market, or
   - (ii) a multilateral trading facility, and
-- (b)[^key-1539ee20f60a9ac66889d55ba62f37d9] is a UCITS.
+- (b)[^c-1539ee20f60a9ac66889d55ba62f37d9] is a UCITS.
 
 David Evennett
 
@@ -114,16 +114,16 @@ A Tax Information and Impact Note covering this instrument was published on 13th
 
 [^c22080221]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-2e40ee9dffd5faae7f5ba1589eb8c90d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) omitted (31.12.2020) by virtue of [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e40ee9dffd5faae7f5ba1589eb8c90d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) omitted (31.12.2020) by virtue of [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ead775ec521e1245a0e91232e02d60e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) inserted (31.12.2020) by [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ead775ec521e1245a0e91232e02d60e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) inserted (31.12.2020) by [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db5ba0eca92569d82f5f655502b16602]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db5ba0eca92569d82f5f655502b16602]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d1f4f3e91b8903da3a7c0c3864ab0acd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1f4f3e91b8903da3a7c0c3864ab0acd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22080241]: Marginal citation: Section 236 was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-aa0404b15ac6a0cc1490c1031fa931d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa0404b15ac6a0cc1490c1031fa931d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/911/regulation/2) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/4), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/818/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1539ee20f60a9ac66889d55ba62f37d9]: Textual amendment: [Reg. 5(b)](https://www.legislation.gov.uk/uksi/2014/911/regulation/5/b) substituted (31.12.2020) by [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1539ee20f60a9ac66889d55ba62f37d9]: Textual amendment: [Reg. 5(b)](https://www.legislation.gov.uk/uksi/2014/911/regulation/5/b) substituted (31.12.2020) by [The Stamp Duty and Stamp Duty Reserve Tax (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/515)](https://www.legislation.gov.uk/uksi/2019/515), [regs. 1](https://www.legislation.gov.uk/uksi/2019/515/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/515/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

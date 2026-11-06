@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65A. Civil sanctions[^key-e1a50129a169f6441fd78c5b652f3919]
+## 65A. Civil sanctions[^c-e1a50129a169f6441fd78c5b652f3919]
 
 *Extent: E+W*
 
-(1) The[^key-211fbcd76c639625db0e77b44ec06967] NRBW may impose a variable monetary penalty, restoration notice, compliance notice or stop notice, or accept an enforcement undertaking, in relation to an offence under regulation 68 or under regulation 65 for a failure to comply with a provision (other than regulation 68) in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (Wales) Order 2010.
+(1) The[^c-211fbcd76c639625db0e77b44ec06967] NRBW may impose a variable monetary penalty, restoration notice, compliance notice or stop notice, or accept an enforcement undertaking, in relation to an offence under regulation 68 or under regulation 65 for a failure to comply with a provision (other than regulation 68) in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (Wales) Order 2010.
 
 Table of civil sanctions
 
@@ -39,7 +39,7 @@ Table of civil sanctions
 | regulation 41 | Yes | No | Yes | No | Yes |
 | regulation 42 | Yes | No | Yes | No | Yes |
 | regulation 43 | Yes | No | Yes | No | Yes |
-| [^key-f074c22a7602620cada28069da1678b0]. . . | [^key-f074c22a7602620cada28069da1678b0]. . . | [^key-f074c22a7602620cada28069da1678b0]. . . | [^key-f074c22a7602620cada28069da1678b0]. . . | [^key-f074c22a7602620cada28069da1678b0]. . . | [^key-f074c22a7602620cada28069da1678b0]. . . |
+| [^c-f074c22a7602620cada28069da1678b0]. . . | [^c-f074c22a7602620cada28069da1678b0]. . . | [^c-f074c22a7602620cada28069da1678b0]. . . | [^c-f074c22a7602620cada28069da1678b0]. . . | [^c-f074c22a7602620cada28069da1678b0]. . . | [^c-f074c22a7602620cada28069da1678b0]. . . |
 | regulation 46 and Schedule 7 | Yes | No | Yes | No | Yes |
 | regulation 47 | Yes | No | Yes | No | Yes |
 | regulation 48 | Yes | No | Yes | No | Yes |
@@ -58,8 +58,8 @@ Table of civil sanctions
 
 ## Annotations
 
-[^key-e1a50129a169f6441fd78c5b652f3919]: Textual amendment: Reg. 65A inserted (15.7.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (Wales) Regulations 2010 (S.I. 2010/1820)](https://www.legislation.gov.uk/uksi/2010/1820), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1820/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1820/regulation/4)
+[^c-e1a50129a169f6441fd78c5b652f3919]: Textual amendment: Reg. 65A inserted (15.7.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (Wales) Regulations 2010 (S.I. 2010/1820)](https://www.legislation.gov.uk/uksi/2010/1820), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1820/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1820/regulation/4)
 
-[^key-211fbcd76c639625db0e77b44ec06967]: Textual amendment: Word in reg. 65A(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 33](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/33) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-211fbcd76c639625db0e77b44ec06967]: Textual amendment: Word in reg. 65A(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 33](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/33) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f074c22a7602620cada28069da1678b0]: Textual amendment: Words in reg. 65A(1) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2011/971/schedule/paragraph/26)
+[^c-f074c22a7602620cada28069da1678b0]: Textual amendment: Words in reg. 65A(1) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2011/971/schedule/paragraph/26)

@@ -28,7 +28,7 @@ summary: ''
 
 (2) This regulation also applies where—
 
-- (a) a person (P) makes or is treated as making an election under regulation 116[^key-f23209bb4b2c3dcc95f14d9da26175bb] (“the original election”) to receive a lump sum in place of part of—
+- (a) a person (P) makes or is treated as making an election under regulation 116[^c-f23209bb4b2c3dcc95f14d9da26175bb] (“the original election”) to receive a lump sum in place of part of—
   - (i) an ill-health pension, or
   - (ii) a total incapacity pension,
 - (b) the pension referred to in sub-paragraph (a) ceased to be payable under regulation 68 (cessation and reinstatement of ill-health pension (application received before 6th January 2007)) or regulation 69 (cessation and reinstatement of ill-health pension (application received on or after 6th January 2007), and
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23209bb4b2c3dcc95f14d9da26175bb]: Textual amendment: Word in [reg. 117(2)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/117/2/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [18](https://www.legislation.gov.uk/uksi/2014/2651/regulation/18)
+[^c-f23209bb4b2c3dcc95f14d9da26175bb]: Textual amendment: Word in [reg. 117(2)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/117/2/a) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [18](https://www.legislation.gov.uk/uksi/2014/2651/regulation/18)

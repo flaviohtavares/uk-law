@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Private burial[^key-3a123f9be51ebd26ca0840dcc4b3a86c]
+## 22. Private burial[^c-3a123f9be51ebd26ca0840dcc4b3a86c]
 
 *Extent: S*
 
@@ -62,7 +62,7 @@ summary: ''
 (6) In this section—
 
 - “**human remains**” does not include—
-  - (a) ashes,[^key-6238db4fcda8503675c6ead9774197fe]
+  - (a) ashes,[^c-6238db4fcda8503675c6ead9774197fe]
   - (aa) powder,
   - (b) the remains of a fetus mentioned in subsection (7),
 - “**relevant local authority**”, in relation to land on which a private burial is proposed to be carried out, means the local authority for the area in which the land is situated.
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a123f9be51ebd26ca0840dcc4b3a86c]: Commencement: S. 22 in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-3a123f9be51ebd26ca0840dcc4b3a86c]: Commencement: S. 22 in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
 
-[^key-6238db4fcda8503675c6ead9774197fe]: Textual amendment: Words in [s. 22(6)](https://www.legislation.gov.uk/asp/2016/20/section/22/6) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/2)
+[^c-6238db4fcda8503675c6ead9774197fe]: Textual amendment: Words in [s. 22(6)](https://www.legislation.gov.uk/asp/2016/20/section/22/6) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/2)

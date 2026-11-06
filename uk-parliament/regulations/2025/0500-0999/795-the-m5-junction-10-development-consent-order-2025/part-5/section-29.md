@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Acquisition of subsoil or airspace only[^key-9fb3c1dc90c34af6f416da4380549423]
+## 29. Acquisition of subsoil or airspace only[^c-9fb3c1dc90c34af6f416da4380549423]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fb3c1dc90c34af6f416da4380549423]: Commencement: Art. 29 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-9fb3c1dc90c34af6f416da4380549423]: Commencement: Art. 29 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00068]: Footnote: Section 153(4A) was inserted by section 200(1) and (2) of the Housing and Planning Act 2016.

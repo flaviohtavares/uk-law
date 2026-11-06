@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70D. Professional advisers[^key-0c1cd21b3431b8ad0614c223857a39c4]
+## 70D. Professional advisers[^c-0c1cd21b3431b8ad0614c223857a39c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1cd21b3431b8ad0614c223857a39c4]: Textual amendment: Ss. 70-70F substituted for s. 70 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-0c1cd21b3431b8ad0614c223857a39c4]: Textual amendment: Ss. 70-70F substituted for s. 70 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

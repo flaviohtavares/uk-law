@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290. Interpretation[^key-9b3728598623fb6c87dc88c0c1b4c2b5][^key-5e866038dcfea94c6065829685d7e124]
+## 290. Interpretation[^c-9b3728598623fb6c87dc88c0c1b4c2b5][^c-5e866038dcfea94c6065829685d7e124]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-9b3728598623fb6c87dc88c0c1b4c2b5]: Commencement: S. 290 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9b3728598623fb6c87dc88c0c1b4c2b5]: Commencement: S. 290 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5e866038dcfea94c6065829685d7e124]: Commencement: [S. 290](https://www.legislation.gov.uk/ukpga/2024/13/section/290) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-5e866038dcfea94c6065829685d7e124]: Commencement: [S. 290](https://www.legislation.gov.uk/ukpga/2024/13/section/290) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

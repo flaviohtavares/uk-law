@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-a3bce2d7c84c148da5cf0e98b9f30cf6] In addition to giving a tenant a notice to leave, a landlord (“the superior landlord”) may give to anyone who holds a tenancy directly or indirectly from the superior landlord's tenant a sub-tenancy notice to leave.
+(1)[^c-a3bce2d7c84c148da5cf0e98b9f30cf6] In addition to giving a tenant a notice to leave, a landlord (“the superior landlord”) may give to anyone who holds a tenancy directly or indirectly from the superior landlord's tenant a sub-tenancy notice to leave.
 
-(2)[^key-a3bce2d7c84c148da5cf0e98b9f30cf6] In the event that a person to whom a sub-tenancy notice to leave has been given becomes a tenant of the superior landlord by virtue of section 46(2), references in this Part to a notice to leave are to be read as references to the copy of the notice to leave which, in accordance with subsection (3), forms part of the sub-tenancy notice to leave.
+(2)[^c-a3bce2d7c84c148da5cf0e98b9f30cf6] In the event that a person to whom a sub-tenancy notice to leave has been given becomes a tenant of the superior landlord by virtue of section 46(2), references in this Part to a notice to leave are to be read as references to the copy of the notice to leave which, in accordance with subsection (3), forms part of the sub-tenancy notice to leave.
 
-(3)[^key-5f3c77d3f3e490b6adcaa40c46581f13][^key-b60827ec12ca5b1071b125523606b8e5] A sub-tenancy notice to leave is a notice which—
+(3)[^c-5f3c77d3f3e490b6adcaa40c46581f13][^c-b60827ec12ca5b1071b125523606b8e5] A sub-tenancy notice to leave is a notice which—
 
 - (a) incorporates the notice to leave given to the superior landlord's tenant, and
 - (b) fulfils any other requirements prescribed by the Scottish Ministers in regulations.
 
-(4)[^key-a3bce2d7c84c148da5cf0e98b9f30cf6] In a case where two or more persons jointly are the landlord under a tenancy, a sub-tenancy notice to leave may be given by any one of those persons.
+(4)[^c-a3bce2d7c84c148da5cf0e98b9f30cf6] In a case where two or more persons jointly are the landlord under a tenancy, a sub-tenancy notice to leave may be given by any one of those persons.
 
 ## Annotations
 
-[^key-a3bce2d7c84c148da5cf0e98b9f30cf6]: Commencement: S. 61(1)(2)(4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-a3bce2d7c84c148da5cf0e98b9f30cf6]: Commencement: S. 61(1)(2)(4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-5f3c77d3f3e490b6adcaa40c46581f13]: Commencement: S. 61(3) in force at 31.10.2016 for specified purposes by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
+[^c-5f3c77d3f3e490b6adcaa40c46581f13]: Commencement: S. 61(3) in force at 31.10.2016 for specified purposes by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
 
-[^key-b60827ec12ca5b1071b125523606b8e5]: Commencement: S. 61(3) in force at 1.12.2017 in so far as not already in force by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-b60827ec12ca5b1071b125523606b8e5]: Commencement: S. 61(3) in force at 1.12.2017 in so far as not already in force by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 291. “Debt”, “liability”[^key-1d137bfb80a3da1fac908029120b97cb]
+## 291. “Debt”, “liability”[^c-1d137bfb80a3da1fac908029120b97cb]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d137bfb80a3da1fac908029120b97cb]: Commencement: Rule 291 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-1d137bfb80a3da1fac908029120b97cb]: Commencement: Rule 291 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00096]: Footnote: The rule was substituted by [S.I. 2006/1272](https://www.legislation.gov.uk/uksi/2006/1272).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Services of public economic interest assistance[^key-e7be168209df0b4bdc8193eb8f4b2875][^key-b2548b2ea8095eba58983475ae5048d6]
+## 38. Services of public economic interest assistance[^c-e7be168209df0b4bdc8193eb8f4b2875][^c-b2548b2ea8095eba58983475ae5048d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7be168209df0b4bdc8193eb8f4b2875]: Commencement: S. 38 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-e7be168209df0b4bdc8193eb8f4b2875]: Commencement: S. 38 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-b2548b2ea8095eba58983475ae5048d6]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/23/section/38) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-b2548b2ea8095eba58983475ae5048d6]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/23/section/38) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

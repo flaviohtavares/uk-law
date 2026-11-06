@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Transitional provisions[^key-1cf57b1ed852e9809d23757c6dfdb35d]
+## 27. Transitional provisions[^c-1cf57b1ed852e9809d23757c6dfdb35d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf57b1ed852e9809d23757c6dfdb35d]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2007/247/regulation/27) revoked (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-1cf57b1ed852e9809d23757c6dfdb35d]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2007/247/regulation/27) revoked (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/nisr/2016/406/schedule/14/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))

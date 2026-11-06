@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Insertion of article 71[^key-e27c46596fadb8630f1b5aa531a54379]
+## 40. Insertion of article 71[^c-e27c46596fadb8630f1b5aa531a54379]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After article 70 (Privy Council procedures etc), insert—
 
 ## Annotations
 
-[^key-e27c46596fadb8630f1b5aa531a54379]: Commencement: Reg. 40 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-e27c46596fadb8630f1b5aa531a54379]: Commencement: Reg. 40 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Disclosure of information etc: interaction with external constraints[^key-93beeea2d6d066fe25a5be89dc5b7c0f][^key-0969bdc53043b52d9cca7fbf8fcda8d0]
+## 71. Disclosure of information etc: interaction with external constraints[^c-93beeea2d6d066fe25a5be89dc5b7c0f][^c-0969bdc53043b52d9cca7fbf8fcda8d0]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93beeea2d6d066fe25a5be89dc5b7c0f]: Commencement: S. 71 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-93beeea2d6d066fe25a5be89dc5b7c0f]: Commencement: S. 71 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-0969bdc53043b52d9cca7fbf8fcda8d0]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/28/section/71) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-0969bdc53043b52d9cca7fbf8fcda8d0]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/28/section/71) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

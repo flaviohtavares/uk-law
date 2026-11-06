@@ -44,13 +44,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 41(2)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-735e22f54ec8375459391c70accc8fcd]
+## 1. Citation and commencement[^c-735e22f54ec8375459391c70accc8fcd]
 
 (1) This Order may be cited as the Scottish Landfill Tax (Exemption Certificates) Order 2015.
 
 (2) This Order comes into force on 1st April 2015.
 
-## 2. Interpretation[^key-a72170da738d3d6444b3d4fccd572691]
+## 2. Interpretation[^c-a72170da738d3d6444b3d4fccd572691]
 
 In this Order—
 
@@ -62,12 +62,12 @@ In this Order—
 - “waste regulation authority” means a waste regulation authority within the meaning of section 30(1)(b) of the 1990 Act[^f00004].
 - “waste removal powers” means statutory powers to remove illegally or improperly deposited material.
 
-## 3. Exemption certificates[^key-e343c4dc29bae393dd532aff954c6fc6]
+## 3. Exemption certificates[^c-e343c4dc29bae393dd532aff954c6fc6]
 
 (1) Revenue Scotland may issue an exemption certificate to—
 
 - (a) a waste regulation authority, insofar as it exercises its waste removal powers under section 59(6) to (9)[^f00005] of the 1990 Act;
-- (b) SEPA, insofar as it exercises its waste removal powers under regulation 62 of the Environmental Authorisations (Scotland) Regulations 2018[^key-7d8dab45ca73515dad6a3478ae218970];
+- (b) SEPA, insofar as it exercises its waste removal powers under regulation 62 of the Environmental Authorisations (Scotland) Regulations 2018[^c-7d8dab45ca73515dad6a3478ae218970];
 - (c) a waste collection authority, insofar as it exercises its waste removal powers under section 59(6) to (9) of the 1990 Act; or
 - (d) any other body or person, insofar as the body or person exercises waste removal powers under any other enactment.
 
@@ -76,7 +76,7 @@ In this Order—
 - (a) it is made by an exemption certificate holder (or a person on the holder’s behalf); and
 - (b) the disposal is made in accordance with the relevant exemption certificate.
 
-## 4. Conditions of exemption certificates[^key-f71ab0165f9d9252acbd5c5d2764099b]
+## 4. Conditions of exemption certificates[^c-f71ab0165f9d9252acbd5c5d2764099b]
 
 (1) An exemption certificate must have set out in it any conditions which Revenue Scotland directs are to be conditions of issue of an exemption certificate.
 
@@ -85,7 +85,7 @@ In this Order—
 - (a) a particular condition must be included in every exemption certificate; or
 - (b) a particular condition must be included in an exemption certificate of a particular nature or one issued to a particular person.
 
-## 5. Statement of tax otherwise due[^key-94b154f5ea0d2ece620a6bad2a7b81f4]
+## 5. Statement of tax otherwise due[^c-94b154f5ea0d2ece620a6bad2a7b81f4]
 
 (1) Where a disposal falls within paragraph (2) of article 3, the operator must issue to the person making the disposal a statement in a form to be determined by Revenue Scotland detailing the amount of tax which (but for that paragraph) would be chargeable in respect of the disposal.
 
@@ -111,9 +111,9 @@ This Order comes into force on 1st April 2015. It provides that exemption certif
 
 [^f00001]: Footnote: [2014 asp 2](https://www.legislation.gov.uk/asp/2014/2).
 
-[^key-735e22f54ec8375459391c70accc8fcd]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
+[^c-735e22f54ec8375459391c70accc8fcd]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
 
-[^key-a72170da738d3d6444b3d4fccd572691]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
+[^c-a72170da738d3d6444b3d4fccd572691]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
 
 [^f00002]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -121,12 +121,12 @@ This Order comes into force on 1st April 2015. It provides that exemption certif
 
 [^f00004]: Footnote: The definition in section 30(1)(b) was substituted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 62(2). In terms of section 30(1)(b) of the 1990 Act, the waste regulation authority in relation to Scotland is SEPA.
 
-[^key-e343c4dc29bae393dd532aff954c6fc6]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
+[^c-e343c4dc29bae393dd532aff954c6fc6]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
 
 [^f00005]: Footnote: Section 59 was amended by the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), schedule 3, paragraph 11(3).
 
-[^key-7d8dab45ca73515dad6a3478ae218970]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2015/151/article/3/1/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 31](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/31) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7d8dab45ca73515dad6a3478ae218970]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2015/151/article/3/1/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 31](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/31) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f71ab0165f9d9252acbd5c5d2764099b]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
+[^c-f71ab0165f9d9252acbd5c5d2764099b]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
 
-[^key-94b154f5ea0d2ece620a6bad2a7b81f4]: Commencement: Art. 5 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)
+[^c-94b154f5ea0d2ece620a6bad2a7b81f4]: Commencement: Art. 5 in force at 1.4.2015, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/151/article/1/2)

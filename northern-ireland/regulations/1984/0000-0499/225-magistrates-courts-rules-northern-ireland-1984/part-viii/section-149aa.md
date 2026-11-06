@@ -30,9 +30,9 @@ summary: ''
   - (i) the information sought in Part 4 of Form 15B; and
   - (ii) any relevant report, including an intermediary’s assessment, shall be provided.\]
 
-(3)[^key-a8c45695766e6875ff94171970bc82ac]
+(3)[^c-a8c45695766e6875ff94171970bc82ac]
 
-- (a) [^key-3af20f7005ff015848ff933ed9d8b78f]..., an application under paragraph (1) shall be made not less than 14 days before the day fixed for the commencement of the proceedings to which the application relates.
+- (a) [^c-3af20f7005ff015848ff933ed9d8b78f]..., an application under paragraph (1) shall be made not less than 14 days before the day fixed for the commencement of the proceedings to which the application relates.
 
 ## Annotations
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^f00186]: Footnote: Rule 149AA (2)(c) inserted by [S.R. 2013 No. 89](https://www.legislation.gov.uk/nisr/2013/89) with effect from 11.05.13
 
-[^key-a8c45695766e6875ff94171970bc82ac]: Textual amendment: [Rule 149AA(3)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AA/3/b): By [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(12)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/12/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a), it is provided that (17.10.2022) sub-paragraph (3)(b) is omitted
+[^c-a8c45695766e6875ff94171970bc82ac]: Textual amendment: [Rule 149AA(3)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AA/3/b): By [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(12)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/12/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a), it is provided that (17.10.2022) sub-paragraph (3)(b) is omitted
 
-[^key-3af20f7005ff015848ff933ed9d8b78f]: Textual amendment: Words in [rule 149AA(3)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AA/3/a) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(12)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/12/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-3af20f7005ff015848ff933ed9d8b78f]: Textual amendment: Words in [rule 149AA(3)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/149AA/3/a) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(12)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/12/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)

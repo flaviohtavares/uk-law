@@ -26,11 +26,11 @@ summary: ''
 - (b) created or acquired by it in the exercise of any of its functions, or
 - (c) otherwise in its keeping.
 
-(2)[^key-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b20960f942264598cb0bb3fb9e346a4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Scottish Water—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b20960f942264598cb0bb3fb9e346a4c]: Textual amendment: S. 58(2)-(4) repealed (1.1.2013) by [Public Records (Scotland) Act 2011 (asp 12)](https://www.legislation.gov.uk/asp/2011/12), [ss. 14(e)](https://www.legislation.gov.uk/asp/2011/12/section/14/e), [16(1)](https://www.legislation.gov.uk/asp/2011/12/section/16/1); [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-b20960f942264598cb0bb3fb9e346a4c]: Textual amendment: S. 58(2)-(4) repealed (1.1.2013) by [Public Records (Scotland) Act 2011 (asp 12)](https://www.legislation.gov.uk/asp/2011/12), [ss. 14(e)](https://www.legislation.gov.uk/asp/2011/12/section/14/e), [16(1)](https://www.legislation.gov.uk/asp/2011/12/section/16/1); [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)

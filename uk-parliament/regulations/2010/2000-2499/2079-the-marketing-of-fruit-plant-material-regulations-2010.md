@@ -34,7 +34,7 @@ Plant Health
 
 Seeds
 
-The Marketing of Fruit Plant Material Regulations 2010 (revoked)[^key-225f871a1232a6845d566e14af26ab1b]
+The Marketing of Fruit Plant Material Regulations 2010 (revoked)[^c-225f871a1232a6845d566e14af26ab1b]
 
 Made
 
@@ -48,235 +48,235 @@ Coming into force
 
 17th September 2010
 
-[^key-225f871a1232a6845d566e14af26ab1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-225f871a1232a6845d566e14af26ab1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-225f871a1232a6845d566e14af26ab1b]
+## PART 1 — Introduction[^c-225f871a1232a6845d566e14af26ab1b]
 
-### 1. Title and commencement[^key-225f871a1232a6845d566e14af26ab1b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-225f871a1232a6845d566e14af26ab1b]
+### 1. Title and commencement[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-225f871a1232a6845d566e14af26ab1b]
+### 2. Interpretation[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Marketing of plant material for trials etc.[^key-225f871a1232a6845d566e14af26ab1b]
+### 3. Application[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Notices[^key-225f871a1232a6845d566e14af26ab1b]
+### 4. Marketing of plant material for trials etc.[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Accreditation and registration[^key-225f871a1232a6845d566e14af26ab1b]
-
-### 6. Accreditation of producers[^key-225f871a1232a6845d566e14af26ab1b]
+### 5. Notices[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Registration[^key-225f871a1232a6845d566e14af26ab1b]
+## PART 2 — Accreditation and registration[^c-225f871a1232a6845d566e14af26ab1b]
+
+### 6. Accreditation of producers[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Revocation etc.[^key-225f871a1232a6845d566e14af26ab1b]
+### 7. Registration[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Appeals[^key-225f871a1232a6845d566e14af26ab1b]
+### 8. Revocation etc.[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Registration of varieties[^key-225f871a1232a6845d566e14af26ab1b]
+### 9. Appeals[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Marketing of plant material[^key-225f871a1232a6845d566e14af26ab1b]
-
-### 11. Varieties that may be marketed[^key-225f871a1232a6845d566e14af26ab1b]
+### 10. Registration of varieties[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Quality requirements for plant material[^key-225f871a1232a6845d566e14af26ab1b]
+## PART 3 — Marketing of plant material[^c-225f871a1232a6845d566e14af26ab1b]
+
+### 11. Varieties that may be marketed[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. References to plant material[^key-225f871a1232a6845d566e14af26ab1b]
+### 12. Quality requirements for plant material[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Accompanying documentation[^key-225f871a1232a6845d566e14af26ab1b]
+### 13. References to plant material[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Marketing of citrus plant material[^key-225f871a1232a6845d566e14af26ab1b]
+### 14. Accompanying documentation[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Additional requirements[^key-225f871a1232a6845d566e14af26ab1b]
-
-### 16. Measures to be taken by producers[^key-225f871a1232a6845d566e14af26ab1b]
+### 15. Marketing of citrus plant material[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Monitoring of production process[^key-225f871a1232a6845d566e14af26ab1b]
+## PART 4 — Additional requirements[^c-225f871a1232a6845d566e14af26ab1b]
+
+### 16. Measures to be taken by producers[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Record-keeping[^key-225f871a1232a6845d566e14af26ab1b]
+### 17. Monitoring of production process[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Enforcement etc.[^key-225f871a1232a6845d566e14af26ab1b]
-
-### 19. Inspectors[^key-225f871a1232a6845d566e14af26ab1b]
+### 18. Record-keeping[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Offences and penalties[^key-225f871a1232a6845d566e14af26ab1b]
+## PART 5 — Enforcement etc.[^c-225f871a1232a6845d566e14af26ab1b]
+
+### 19. Inspectors[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Offences by bodies corporate[^key-225f871a1232a6845d566e14af26ab1b]
+### 20. Offences and penalties[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Offences by partnerships or unincorporated associations[^key-225f871a1232a6845d566e14af26ab1b]
+### 21. Offences by bodies corporate[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Transitional provisions[^key-225f871a1232a6845d566e14af26ab1b]
+### 22. Offences by partnerships or unincorporated associations[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Revocations[^key-225f871a1232a6845d566e14af26ab1b]
+### 23. Transitional provisions[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-225f871a1232a6845d566e14af26ab1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 24. Revocations[^c-225f871a1232a6845d566e14af26ab1b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-225f871a1232a6845d566e14af26ab1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Genera and species to which these Regulations apply[^key-225f871a1232a6845d566e14af26ab1b]
+## SCHEDULE 1 — Genera and species to which these Regulations apply[^c-225f871a1232a6845d566e14af26ab1b]
 
 Regulation 3(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Registration of varieties of fruit plant[^key-225f871a1232a6845d566e14af26ab1b]
+## SCHEDULE 2 — Registration of varieties of fruit plant[^c-225f871a1232a6845d566e14af26ab1b]
 
 Regulation 10
 
-### 1. Registration[^key-225f871a1232a6845d566e14af26ab1b]
+### 1. Registration[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Additional requirements for genetically modified varieties[^key-225f871a1232a6845d566e14af26ab1b]
+### 2. Additional requirements for genetically modified varieties[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Additional requirements for products to be used as genetically modified food or feed[^key-225f871a1232a6845d566e14af26ab1b]
+### 3. Additional requirements for products to be used as genetically modified food or feed[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Removal from the register[^key-225f871a1232a6845d566e14af26ab1b]
+### 4. Removal from the register[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Distinctness[^key-225f871a1232a6845d566e14af26ab1b]
+### 5. Distinctness[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Uniformity[^key-225f871a1232a6845d566e14af26ab1b]
+### 6. Uniformity[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Stability[^key-225f871a1232a6845d566e14af26ab1b]
+### 7. Stability[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Interpretation[^key-225f871a1232a6845d566e14af26ab1b]
+### 8. Interpretation[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Accompanying information[^key-225f871a1232a6845d566e14af26ab1b]
+## SCHEDULE 3 — Accompanying information[^c-225f871a1232a6845d566e14af26ab1b]
 
 Regulation 14
 
-### PART 1 — Plant material not accompanied by a plant passport[^key-225f871a1232a6845d566e14af26ab1b]
+### PART 1 — Plant material not accompanied by a plant passport[^c-225f871a1232a6845d566e14af26ab1b]
 
-**1.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Plant material accompanied by a plant passport[^key-225f871a1232a6845d566e14af26ab1b]
+### PART 2 — Plant material accompanied by a plant passport[^c-225f871a1232a6845d566e14af26ab1b]
 
-**1.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-225f871a1232a6845d566e14af26ab1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Powers of inspectors[^key-225f871a1232a6845d566e14af26ab1b]
+## SCHEDULE 4 — Powers of inspectors[^c-225f871a1232a6845d566e14af26ab1b]
 
 Regulation 19(2)
 
-### 1. Powers of entry etc.[^key-225f871a1232a6845d566e14af26ab1b]
+### 1. Powers of entry etc.[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Information notice[^key-225f871a1232a6845d566e14af26ab1b]
+### 2. Information notice[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Prohibition on movement[^key-225f871a1232a6845d566e14af26ab1b]
+### 3. Prohibition on movement[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Enforcement and prohibition notices[^key-225f871a1232a6845d566e14af26ab1b]
+### 4. Enforcement and prohibition notices[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Appeals against enforcement and prohibition notices[^key-225f871a1232a6845d566e14af26ab1b]
+### 5. Appeals against enforcement and prohibition notices[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Compliance with notices[^key-225f871a1232a6845d566e14af26ab1b]
+### 6. Compliance with notices[^c-225f871a1232a6845d566e14af26ab1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-225f871a1232a6845d566e14af26ab1b]EXPLANATORY NOTE
+[^c-225f871a1232a6845d566e14af26ab1b]EXPLANATORY NOTE
 
 (This note is not part of these Regulations)
 
@@ -294,7 +294,7 @@ A transposition note and an impact assessment of the effect that this instrument
 
 ## Annotations
 
-[^key-225f871a1232a6845d566e14af26ab1b]: Textual amendment: Regulations revoked (S.) (1.7.2017) by [The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 (S.S.I. 2017/177)](https://www.legislation.gov.uk/ssi/2017/177), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/177/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2017/177/regulation/24) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/177/regulation/3), [4](https://www.legislation.gov.uk/ssi/2017/177/regulation/4))
+[^c-225f871a1232a6845d566e14af26ab1b]: Textual amendment: Regulations revoked (S.) (1.7.2017) by [The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 (S.S.I. 2017/177)](https://www.legislation.gov.uk/ssi/2017/177), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/177/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2017/177/regulation/24) (with [regs. 3](https://www.legislation.gov.uk/ssi/2017/177/regulation/3), [4](https://www.legislation.gov.uk/ssi/2017/177/regulation/4))
 
     Regulations revoked (N.I.) (29.6.2017) by [The Marketing of Fruit Plant and Propagating Material Regulations (Northern Ireland) 2017 (S.R. 2017/119)](https://www.legislation.gov.uk/nisr/2017/119), [regs. 1](https://www.legislation.gov.uk/ssi/2017/177/regulation/1), [28](https://www.legislation.gov.uk/ssi/2017/177/regulation/28)
 

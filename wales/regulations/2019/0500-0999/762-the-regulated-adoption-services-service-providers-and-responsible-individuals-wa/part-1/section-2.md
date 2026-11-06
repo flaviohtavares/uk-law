@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-e1abfd2ff1972d2325ebd80145d180de]
+## 2. Interpretation[^c-e1abfd2ff1972d2325ebd80145d180de]
 
 *Extent: E+W*
 
@@ -28,13 +28,13 @@ summary: ''
 - “**adoption society**” (“***cymdeithas fabwysiadu***”) has the meaning given in section 2(5) of the 2002 Act, which is a voluntary organisation within the meaning of that Act;
 - “**adoption support agency**” (“***asiantaeth cymorth mabwysiadu***”) has the meaning given in section 8 of the 2002 Act;
 - “**adoption support plan**” (“***cynllun cymorth mabwysiadu***”) means the plan which sets out the adoption support services the local authority has decided to provide for the child and the adoptive family, how these will be provided and by whom (if applicable);
-- “**adoption support services**” (“***gwasanaethau cymorth mabwysiadu***”) has the meaning given in section 2(6) of the 2002 Act and regulation 3 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^key-8efc61daf271f58bf1ab73fa32a92c92];
-- “**adoptive child**” (“***plentyn mabwysiadol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^key-647552823787e9297b985b59459fe396];
-- “**adoptive parent**” (“***rhiant mabwysiadol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^key-93c5be2557c8d96d9c85952c83d4fe38];
+- “**adoption support services**” (“***gwasanaethau cymorth mabwysiadu***”) has the meaning given in section 2(6) of the 2002 Act and regulation 3 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^c-8efc61daf271f58bf1ab73fa32a92c92];
+- “**adoptive child**” (“***plentyn mabwysiadol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^c-647552823787e9297b985b59459fe396];
+- “**adoptive parent**” (“***rhiant mabwysiadol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^c-93c5be2557c8d96d9c85952c83d4fe38];
 - “**approved by the service**” (“***a gymeradwywyd gan y gwasanaeth***”) means approved by the service as suitable to be an adoptive parent in accordance with the Adoption Agencies (Wales) Regulations 2005 [^c24322341];
 - “**care and support plan**” (“***cynllun gofal a chymorth***”) means a plan for the child made under section 54 or section 83 of the 2014 Act [^c24322351];
 - “**child**” (“***plentyn***”) means a person who is aged under 18;
-- [^key-e2d6110e74cc5b08c4d3d0573ce96fda]...
+- [^c-e2d6110e74cc5b08c4d3d0573ce96fda]...
 - “**DBS certificate**” (“***tystysgrif GDG***”) means a certificate of a type referred to in paragraph 2 or 3 of Schedule 1;
 - “**the Disclosure and Barring Service**” (“***y Gwasanaeth Datgelu a Gwahardd***”) and “**DBS**” (“***GDG***”) mean the body formed by section 87(1) of the Protection of Freedoms Act 2012 [^c24322371];
 - “**employee**” (“***cyflogai***”) has the same meaning as in section 230(1) of the Employment Rights Act 1996 [^c24322381];
@@ -47,19 +47,19 @@ summary: ''
 
     who is receiving support of the type which an adoption society is required to provide in accordance with the Adoption Agencies (Wales) Regulations 2005 or the Access to Information (Post-Commencement Adoptions) (Wales) Regulations 2005 [^c24322401];
   - (b) in the case of an adoption support agency, or an adoption society in the course of providing adoption support services, any person who is receiving adoption support services;
-- “[^key-03b95a5fd0cf90fb384d5100c58fce75]**integrated care board**” (“**bwrdd gofal integredig**”) means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-03b95a5fd0cf90fb384d5100c58fce75]**integrated care board**” (“**bwrdd gofal integredig**”) means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “**local authority adoption service**” (“***gwasanaeth mabwysiadu awdurdod lleol***”) has the meaning given in regulation 2(1) of the Local Authority Adoption Services (Wales) Regulations 2019 [^c24322411];
 - “**local authority in England**” (“***awdurdod lleol yn Lloegr***”) means—
   - (a) a county council in England,
   - (b) a district council for an area in England for which there is no county council,
   - (c) a London borough council, or
   - (d) the Common Council of the City of London;
-- [^key-d22951e68e02bc1fbd533ce18e059c50]...
-- “[^key-fdc8e48961cb77bd6b9ce9e0abb386a9]**NHS England**” (*“GIG Lloegr”)* means the body corporate established under section 1H of the National Health Service Act 2006;
+- [^c-d22951e68e02bc1fbd533ce18e059c50]...
+- “[^c-fdc8e48961cb77bd6b9ce9e0abb386a9]**NHS England**” (*“GIG Lloegr”)* means the body corporate established under section 1H of the National Health Service Act 2006;
 - “**placement plan**” (“***cynllun lleoliad***”) has the meaning given in regulation 36(2) of the Adoption Agencies (Wales) Regulations 2005;
 - “**reasonable adjustments**” (“***addasiadau rhesymol***”) means such reasonable adjustments as would be required under the Equality Act 2010 [^c24322421];
 - “**regulated adoption service**” (“***gwasanaeth mabwysiadu rheoleiddiedig***”) means an adoption service which is regulated under the Act;
-- “**related person**” (“***person perthynol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^key-7b4460c31dea89c6561da3010840333e];
+- “**related person**” (“***person perthynol***”) has the meaning given in regulation 2 of the Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026[^c-7b4460c31dea89c6561da3010840333e];
 - “**representative**” (“***cynrychiolydd***”) means any person having legal authority, or the consent of the individual, to act on the individual's behalf;
 - “**the service**” (“***y gwasanaeth***”), unless otherwise indicated, means an adoption service [^c24322431] which is provided in relation to a specified area;
 - “**service provider**” (“***darparwr gwasanaeth***”) means an adoption service provider who is registered under section 7 of the Act;
@@ -80,21 +80,21 @@ summary: ''
 
 ## Annotations
 
-[^key-e1abfd2ff1972d2325ebd80145d180de]: Commencement: Reg. 2 in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-e1abfd2ff1972d2325ebd80145d180de]: Commencement: Reg. 2 in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
 [^c24322321]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-8efc61daf271f58bf1ab73fa32a92c92]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/a)
+[^c-8efc61daf271f58bf1ab73fa32a92c92]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/a)
 
-[^key-647552823787e9297b985b59459fe396]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/b)
+[^c-647552823787e9297b985b59459fe396]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/b)
 
-[^key-93c5be2557c8d96d9c85952c83d4fe38]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/c)
+[^c-93c5be2557c8d96d9c85952c83d4fe38]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/c)
 
 [^c24322341]: Marginal citation: [S.I. 2005/1313](https://www.legislation.gov.uk/uksi/2005/1313) (W. 95).
 
 [^c24322351]: Marginal citation: “The 2014 Act” is defined in section 189 of the Act as the Social Services and Well-being (Wales) Act 2014 (dccc 4).
 
-[^key-e2d6110e74cc5b08c4d3d0573ce96fda]: Textual amendment: Words in reg. 2(1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [96(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/96/2/a)
+[^c-e2d6110e74cc5b08c4d3d0573ce96fda]: Textual amendment: Words in reg. 2(1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [96(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/96/2/a)
 
 [^c24322371]: Marginal citation: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
@@ -104,17 +104,17 @@ summary: ''
 
 [^c24322401]: Marginal citation: [S.I. 2005/2689](https://www.legislation.gov.uk/uksi/2005/2689) (W. 189).
 
-[^key-03b95a5fd0cf90fb384d5100c58fce75]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [96(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/96/2/b)
+[^c-03b95a5fd0cf90fb384d5100c58fce75]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [96(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/96/2/b)
 
 [^c24322411]: Marginal citation: [S.I. 2019/291](https://www.legislation.gov.uk/uksi/2019/291) (W.69).
 
-[^key-d22951e68e02bc1fbd533ce18e059c50]: Textual amendment: Words in reg. 2(1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [100(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/100/2/a)
+[^c-d22951e68e02bc1fbd533ce18e059c50]: Textual amendment: Words in reg. 2(1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [100(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/100/2/a)
 
-[^key-fdc8e48961cb77bd6b9ce9e0abb386a9]: Textual amendment: Words in reg. 2(1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [100(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/100/2/b)
+[^c-fdc8e48961cb77bd6b9ce9e0abb386a9]: Textual amendment: Words in reg. 2(1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [100(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/100/2/b)
 
 [^c24322421]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [section 20](https://www.legislation.gov.uk/ukpga/2010/15/section/20).
 
-[^key-7b4460c31dea89c6561da3010840333e]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/d)
+[^c-7b4460c31dea89c6561da3010840333e]: Textual amendment: Words in reg. 2(1) substituted (1.4.2026) by [The Adoption Support Services (Adoption Support Agencies) (Wales) Regulations 2026 (W.S.I. 2026/12)](https://www.legislation.gov.uk/wsi/2026/12), [regs. 1](https://www.legislation.gov.uk/wsi/2026/12/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/wsi/2026/12/regulation/5/2/d)
 
 [^c24322431]: Marginal citation: “**adoption service**” has the meaning given in paragraph 4 of Schedule 1 to the Act.
 

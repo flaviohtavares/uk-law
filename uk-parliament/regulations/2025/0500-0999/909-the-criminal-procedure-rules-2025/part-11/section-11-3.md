@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.3. Application to approve a proposal to enter an agreement[^key-623065f9818b8b23ef2b427331038f9e]
+## 11.3. Application to approve a proposal to enter an agreement[^c-623065f9818b8b23ef2b427331038f9e]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-623065f9818b8b23ef2b427331038f9e]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/uksi/2025/909/rule/11.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-623065f9818b8b23ef2b427331038f9e]: Commencement: [Rule 11.3](https://www.legislation.gov.uk/uksi/2025/909/rule/11.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

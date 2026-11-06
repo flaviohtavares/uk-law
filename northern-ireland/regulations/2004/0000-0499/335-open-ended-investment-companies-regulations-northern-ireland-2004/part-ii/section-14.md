@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Authorisation[^key-5f7196e00f13f44b9565d6cf9986a610]
+## 14. Authorisation[^c-5f7196e00f13f44b9565d6cf9986a610]
 
 *Extent: N.I.*
 
 (1) Where an application is duly made under regulation 12, the Authority may make an authorisation order in respect of an open-ended investment company if –
 
 - (a) it is satisfied that the company will, on the coming into effect of the authorisation order, comply with the requirements in regulation 15;
-- (b) it is satisfied that the company will, at that time, comply with the requirements of FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f];
+- (b) it is satisfied that the company will, at that time, comply with the requirements of FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f];
 - (c) it has been provided with a copy of the proposed company’s instrument of incorporation and a certificate signed by a solicitor to the effect that the instrument of incorporation complies with Schedule 2 and with such of the requirements of FCA rules as relate to the contents of that instrument of incorporation;
 - (d) it has received a notification under regulation 18(3) from the registrar; and
 - (e) in the case of a company which will, on the coming into effect of the authorisation order, not be an undertaking for collective investment in transferable securities within the meaning of the UCITS Directive, the company has made an application under Part IV of the Act for permission to carry on one or more regulated activities.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f7196e00f13f44b9565d6cf9986a610]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/335/regulation/14) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-5f7196e00f13f44b9565d6cf9986a610]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/335/regulation/14) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

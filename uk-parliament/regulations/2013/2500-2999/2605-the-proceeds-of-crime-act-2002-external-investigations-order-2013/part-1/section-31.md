@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Statements[^key-d4efb48d54d445302558bc236499ccd6]
+## 31. Statements[^c-d4efb48d54d445302558bc236499ccd6]
 
 *Extent: E+W+N.I.*
 
@@ -38,7 +38,7 @@ by or on behalf of the financial institution in the proceedings arising out of t
 
 ## Annotations
 
-[^key-d4efb48d54d445302558bc236499ccd6]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/2605/article/31) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-d4efb48d54d445302558bc236499ccd6]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/2605/article/31) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00016]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

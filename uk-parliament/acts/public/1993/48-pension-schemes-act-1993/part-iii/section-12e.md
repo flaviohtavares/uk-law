@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12E. Former salary related contracted-out schemes to comply with GMP requirements[^key-bd0c287e6a874a70e6c52a939471cc19]
+## 12E. Former salary related contracted-out schemes to comply with GMP requirements[^c-bd0c287e6a874a70e6c52a939471cc19]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ the scheme is to be treated by subsection (1) as including the requirements.
 
 ## Annotations
 
-[^key-bd0c287e6a874a70e6c52a939471cc19]: Textual amendment: [S. 12E](https://www.legislation.gov.uk/ukpga/1993/48/section/12E) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 13(1)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/13/1) (with [s. 13(2)(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/13/2/3))
+[^c-bd0c287e6a874a70e6c52a939471cc19]: Textual amendment: [S. 12E](https://www.legislation.gov.uk/ukpga/1993/48/section/12E) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 13(1)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/13/1) (with [s. 13(2)(3)](https://www.legislation.gov.uk/ukpga/2014/19/section/13/2/3))

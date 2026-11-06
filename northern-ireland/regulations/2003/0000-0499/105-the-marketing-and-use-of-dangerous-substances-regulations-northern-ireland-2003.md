@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 2003 (revoked)[^key-909295e619316ec4b30fc9929dac31d3]
+The Marketing and Use of Dangerous Substances Regulations (Northern Ireland) 2003 (revoked)[^c-909295e619316ec4b30fc9929dac31d3]
 
 Made
 
@@ -43,42 +43,42 @@ Coming into operation
 
 10th April 2003
 
-[^key-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-909295e619316ec4b30fc9929dac31d3]
+## 1. Citation and commencement[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-909295e619316ec4b30fc9929dac31d3]
+## 2. Interpretation[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exceptions[^key-909295e619316ec4b30fc9929dac31d3]
+## 3. Exceptions[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Placing PCP on the market[^key-909295e619316ec4b30fc9929dac31d3]
+## 4. Placing PCP on the market[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Using PCP[^key-909295e619316ec4b30fc9929dac31d3]
+## 5. Using PCP[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Using wood treated with PCP[^key-909295e619316ec4b30fc9929dac31d3]
+## 6. Using wood treated with PCP[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and penalties[^key-909295e619316ec4b30fc9929dac31d3]
+## 7. Offences and penalties[^c-909295e619316ec4b30fc9929dac31d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-909295e619316ec4b30fc9929dac31d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-909295e619316ec4b30fc9929dac31d3]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)
+[^c-909295e619316ec4b30fc9929dac31d3]: Textual amendment: regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/3)

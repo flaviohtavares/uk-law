@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127.[^key-799bdf64c27aea0e3d443e631be4c11f]
+## 127.[^c-799bdf64c27aea0e3d443e631be4c11f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 5B (enterprise investment scheme: re-investment), in paragraphs 3, 4
 
 ## Annotations
 
-[^key-799bdf64c27aea0e3d443e631be4c11f]: Commencement: Reg. 127 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-799bdf64c27aea0e3d443e631be4c11f]: Commencement: Reg. 127 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Replacement building society liquidator[^key-4b4ea320ecc42b9fcae96d08ee1ff9d1]
+## 51. Replacement building society liquidator[^c-4b4ea320ecc42b9fcae96d08ee1ff9d1]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4ea320ecc42b9fcae96d08ee1ff9d1]: Commencement: Rule 51 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-4b4ea320ecc42b9fcae96d08ee1ff9d1]: Commencement: Rule 51 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00026]: Footnote: Section 390 was amended by paragraph 16(1) and (2) of Schedule 4(II) to the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39); paragraph 18 of Schedule 5 to the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4); paragraph 4 of Schedule 21 to the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40); paragraph 31(3)(c) of Schedule 6 and paragraph 1 of Schedule 7 to the Mental Capacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9); paragraph 18(3) of Schedule 1 to [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465); paragraph 3(3) of Schedule 1 to [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078); paragraphs 1, 6(1),(2) and (3) of Schedule 20, Part 1, to the Tribunal, Courts and Enforcement Act 2007; and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), art.2(1) .
 

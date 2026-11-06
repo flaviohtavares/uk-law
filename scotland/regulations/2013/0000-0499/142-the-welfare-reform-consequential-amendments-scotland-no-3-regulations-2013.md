@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 12(3), 17(2B) and 42 of the Legal Aid (Scotland) Act 1986[^f00001] and sections 1 to 3 of the Welfare Reform (Further Provision) (Scotland) Act 2012[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-6b32653e5da628dd4bb3c2c96a1dc5d8]
+## 1. Citation and commencement[^c-6b32653e5da628dd4bb3c2c96a1dc5d8]
 
 These Regulations may be cited as the Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 and come into force on 11th June 2013.
 
-## 2. Council Tax (Discounts) (Scotland) Regulations 1992[^key-df1bdf489182206cf261229c5066c429]
+## 2. Council Tax (Discounts) (Scotland) Regulations 1992[^c-df1bdf489182206cf261229c5066c429]
 
 In regulation 2(3)(c) of the Council Tax (Discounts) (Scotland) Regulations 1992[^f00003] (care workers), after head (iiia) insert—
 
@@ -58,7 +58,7 @@ In regulation 2(3)(c) of the Council Tax (Discounts) (Scotland) Regulations 1992
 
 .
 
-## 3. National Assistance (Assessment of Resources) Regulations 1992[^key-16342a0254576a3d212fc1d346087fe1]
+## 3. National Assistance (Assessment of Resources) Regulations 1992[^c-16342a0254576a3d212fc1d346087fe1]
 
 (1) The National Assistance (Assessment of Resources) Regulations 1992[^f00005] are amended as follows.
 
@@ -74,7 +74,7 @@ In regulation 2(3)(c) of the Council Tax (Discounts) (Scotland) Regulations 1992
 
 .
 
-## 4. Advice and Assistance (Scotland) Regulations 1996[^key-e90cc001d89ef807ebf336bbc72ebf31]
+## 4. Advice and Assistance (Scotland) Regulations 1996[^c-e90cc001d89ef807ebf336bbc72ebf31]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996[^f00006] are amended as follows.
 
@@ -111,15 +111,15 @@ In regulation 2(3)(c) of the Council Tax (Discounts) (Scotland) Regulations 1992
 
   .
 
-## 5. Education (Student Loans) Regulations 1998[^key-ed3c4db6907ccfd8da52b847b5a73ed7]
+## 5. Education (Student Loans) Regulations 1998[^c-ed3c4db6907ccfd8da52b847b5a73ed7]
 
 In the definition of “disability related benefits” in paragraph 1 of Schedule 2 to the Education (Student Loans) Regulations 1998[^f00009] (terms of loans), after “1992,” insert “personal independence payment under Part 4 of the Welfare Reform Act 2012, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011,”.
 
-## 6. Repayment of Student Loans (Scotland) Regulations 2000[^key-7d537f46bf2bdd963958a16a0c1d8dc6]
+## 6. Repayment of Student Loans (Scotland) Regulations 2000[^c-7d537f46bf2bdd963958a16a0c1d8dc6]
 
 In the definition of “disability related benefit” in regulation 2 of the Repayment of Student Loans (Scotland) Regulations 2000[^f00010] (interpretation), after “2012” insert “, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011”.
 
-## 7. Civil Legal Aid (Scotland) Regulations 2002[^key-8365b23c910e915f7b94d8d505245e96]
+## 7. Civil Legal Aid (Scotland) Regulations 2002[^c-8365b23c910e915f7b94d8d505245e96]
 
 (1) The Civil Legal Aid (Scotland) Regulations 2002[^f00011] are amended as follows.
 
@@ -160,7 +160,7 @@ In the definition of “disability related benefit” in regulation 2 of the Rep
 
 .
 
-## 8. Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^key-497d87d8abec097703ec3ce3e5a7e85a]
+## 8. Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^c-497d87d8abec097703ec3ce3e5a7e85a]
 
 In article 4(2) of the Council Tax (Discounts) (Scotland) Consolidation and Amendment Order 2003[^f00012] (the severely mentally impaired), after sub-paragraph (ga) insert—
 
@@ -168,7 +168,7 @@ In article 4(2) of the Council Tax (Discounts) (Scotland) Consolidation and Amen
 
 .
 
-## 9. National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^key-c229c421a35b76865c739d15fe8cd399]
+## 9. National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^c-c229c421a35b76865c739d15fe8cd399]
 
 (1) The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00013] are amended as follows.
 
@@ -198,15 +198,15 @@ In article 4(2) of the Council Tax (Discounts) (Scotland) Consolidation and Amen
 
   .
 
-## 10. Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^key-a82a66e413061b050e87bb3b67d75f0a]
+## 10. Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^c-a82a66e413061b050e87bb3b67d75f0a]
 
 In regulation 8(6)(b) of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^f00015] (proxy vote on grounds of disability), after “1992)” insert “, the enhanced rate of the mobility component of personal independence payment (payable under section 79(2) of the Welfare Reform Act 2012) or armed forces independence payment (under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011)”.
 
-## 11. Council Tax Reduction (Scotland) Regulations 2012[^key-d4e7d7961ee195064e227330320bbf73]
+## 11. Council Tax Reduction (Scotland) Regulations 2012[^c-d4e7d7961ee195064e227330320bbf73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-9b77cbf1b769a9b350636ca6857f5aaf]
+## 12. Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-9b77cbf1b769a9b350636ca6857f5aaf]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00018] are amended as follows.
 
@@ -301,19 +301,19 @@ In addition—
 
 [^f00002]: Footnote: [2012 asp 10](https://www.legislation.gov.uk/asp/2012/10).
 
-[^key-6b32653e5da628dd4bb3c2c96a1dc5d8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-6b32653e5da628dd4bb3c2c96a1dc5d8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
-[^key-df1bdf489182206cf261229c5066c429]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/142/regulation/2) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-df1bdf489182206cf261229c5066c429]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/142/regulation/2) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1992/1409](https://www.legislation.gov.uk/uksi/1992/1409); relevant amending instruments are [S.I. 1994/629](https://www.legislation.gov.uk/uksi/1994/629) and [1997/587](https://www.legislation.gov.uk/uksi/1997/587) and [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 
 [^f00004]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517); relevant amending instrument is [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436).
 
-[^key-16342a0254576a3d212fc1d346087fe1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/142/regulation/3) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-16342a0254576a3d212fc1d346087fe1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/142/regulation/3) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977); relevant amending instrument is [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 
-[^key-e90cc001d89ef807ebf336bbc72ebf31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/142/regulation/4) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-e90cc001d89ef807ebf336bbc72ebf31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/142/regulation/4) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447); relevant amending instruments are [S.I. 1997/726](https://www.legislation.gov.uk/uksi/1997/726), [1998/724](https://www.legislation.gov.uk/uksi/1998/724) and [2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2003/163](https://www.legislation.gov.uk/ssi/2003/163) and [421](https://www.legislation.gov.uk/ssi/2003/421) and [2013/65](https://www.legislation.gov.uk/ssi/2013/65) and [137](https://www.legislation.gov.uk/ssi/2013/137).
 
@@ -321,34 +321,34 @@ In addition—
 
 [^f00008]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-ed3c4db6907ccfd8da52b847b5a73ed7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/142/regulation/5) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-ed3c4db6907ccfd8da52b847b5a73ed7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/142/regulation/5) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00009]: Footnote: [S.I. 1998/211](https://www.legislation.gov.uk/uksi/1998/211); relevant amending instrument is [S.S.I. 2001/210](https://www.legislation.gov.uk/ssi/2001/210).
 
-[^key-7d537f46bf2bdd963958a16a0c1d8dc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/142/regulation/6) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-7d537f46bf2bdd963958a16a0c1d8dc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/142/regulation/6) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2000/110](https://www.legislation.gov.uk/ssi/2000/110); relevant amending instruments are [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 
-[^key-8365b23c910e915f7b94d8d505245e96]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/142/regulation/7) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-8365b23c910e915f7b94d8d505245e96]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/142/regulation/7) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494); relevant amending instruments are [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65) and [137](https://www.legislation.gov.uk/ssi/2013/137).
 
-[^key-497d87d8abec097703ec3ce3e5a7e85a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/142/regulation/8) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-497d87d8abec097703ec3ce3e5a7e85a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/142/regulation/8) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00012]: Footnote: [S.S.I. 2003/176](https://www.legislation.gov.uk/ssi/2003/176); relevant amending instruments are [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2013/65](https://www.legislation.gov.uk/ssi/2013/65).
 
-[^key-c229c421a35b76865c739d15fe8cd399]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/142/regulation/9) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-c229c421a35b76865c739d15fe8cd399]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/142/regulation/9) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00013]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460); relevant amending instruments are [S.S.I. 2005/179](https://www.legislation.gov.uk/ssi/2005/179), [2008/390](https://www.legislation.gov.uk/ssi/2008/390) and [2013/137](https://www.legislation.gov.uk/ssi/2013/137).
 
 [^f00014]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-a82a66e413061b050e87bb3b67d75f0a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/142/regulation/10) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-a82a66e413061b050e87bb3b67d75f0a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/142/regulation/10) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2007/170](https://www.legislation.gov.uk/ssi/2007/170).
 
-[^key-d4e7d7961ee195064e227330320bbf73]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/142/regulation/11) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-d4e7d7961ee195064e227330320bbf73]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/142/regulation/11) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-9b77cbf1b769a9b350636ca6857f5aaf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/142/regulation/12) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
+[^c-9b77cbf1b769a9b350636ca6857f5aaf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/142/regulation/12) in force at 11.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1)
 
 [^f00018]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319); relevant amending instrument is [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49).

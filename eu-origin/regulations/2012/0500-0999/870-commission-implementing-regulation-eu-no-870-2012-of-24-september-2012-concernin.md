@@ -35,30 +35,30 @@ concerning the authorisation of naringin as a feed additive for all animal speci
 
 (Text with EEA relevance) (revoked)
 
-[^key-f9d56ee37842c8c10c3ac1917ed3af1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9d56ee37842c8c10c3ac1917ed3af1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-f9d56ee37842c8c10c3ac1917ed3af1b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Labelling requirements[^key-f9d56ee37842c8c10c3ac1917ed3af1b]
+## Article 1. Authorisation[^c-f9d56ee37842c8c10c3ac1917ed3af1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-f9d56ee37842c8c10c3ac1917ed3af1b]
+## Article 2. Labelling requirements[^c-f9d56ee37842c8c10c3ac1917ed3af1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-f9d56ee37842c8c10c3ac1917ed3af1b]
+## Article 3. Transitional measures[^c-f9d56ee37842c8c10c3ac1917ed3af1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9d56ee37842c8c10c3ac1917ed3af1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-f9d56ee37842c8c10c3ac1917ed3af1b]
 
-## ANNEX[^key-f9d56ee37842c8c10c3ac1917ed3af1b]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f9d56ee37842c8c10c3ac1917ed3af1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-f9d56ee37842c8c10c3ac1917ed3af1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9d56ee37842c8c10c3ac1917ed3af1b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 90](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/90) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f9d56ee37842c8c10c3ac1917ed3af1b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 90](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/90) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

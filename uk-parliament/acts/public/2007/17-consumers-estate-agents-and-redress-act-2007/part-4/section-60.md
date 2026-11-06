@@ -57,9 +57,9 @@ summary: ''
 
 (10) In this section “**regulator**” means—
 
-- (a) the Gas and Electricity Markets Authority, [^key-717f1fb030822fa51d5fd92382afe4d1]...
-- (b)[^key-717f1fb030822fa51d5fd92382afe4d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Gas and Electricity Markets Authority, [^c-717f1fb030822fa51d5fd92382afe4d1]...
+- (b)[^c-717f1fb030822fa51d5fd92382afe4d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-717f1fb030822fa51d5fd92382afe4d1]: Textual amendment: S. 60(10)(b) and preceding word omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 186](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/186); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-717f1fb030822fa51d5fd92382afe4d1]: Textual amendment: S. 60(10)(b) and preceding word omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 186](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/186); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

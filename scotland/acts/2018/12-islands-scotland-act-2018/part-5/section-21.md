@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Additional powers requests[^key-5c56c62152bb023f3b0b37c69e070e57]
+## 21. Additional powers requests[^c-5c56c62152bb023f3b0b37c69e070e57]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c56c62152bb023f3b0b37c69e070e57]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/12/section/21) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-5c56c62152bb023f3b0b37c69e070e57]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/12/section/21) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

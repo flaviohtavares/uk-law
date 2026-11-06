@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Effect of creation of subordinate interest[^key-9110db95a01c0c29a5bddba26486e553]
+## 288. Effect of creation of subordinate interest[^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))

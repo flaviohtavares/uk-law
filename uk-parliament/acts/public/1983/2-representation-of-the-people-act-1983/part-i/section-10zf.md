@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10ZF. Digital registration and canvass in Northern Ireland[^key-20a7e27ef54c3e81743a7e5236c516b1][^key-0fb8c38fd83e4c82a2582042c11e9aa8]
+## 10ZF. Digital registration and canvass in Northern Ireland[^c-20a7e27ef54c3e81743a7e5236c516b1][^c-0fb8c38fd83e4c82a2582042c11e9aa8]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Minister of the Crown responsible for providing the UK digital service shall have the following functions in connection with providing that service—
 
-- (a)[^key-807eeefa9236b5879c31d5e503f649cd] acting as an intermediary for the purposes of the receipt of—
+- (a)[^c-807eeefa9236b5879c31d5e503f649cd] acting as an intermediary for the purposes of the receipt of—
   - (i) online canvass forms, and
   - (ii) online applications for registration,
 
   in respect of addresses in Northern Ireland on behalf of the Chief Electoral Officer for Northern Ireland;
-- (b) the transmission of such forms or[^key-89f21f325db5267b8611e85b3471e318] applications to the Chief Electoral Officer.
+- (b) the transmission of such forms or[^c-89f21f325db5267b8611e85b3471e318] applications to the Chief Electoral Officer.
 
 (2) Where it is possible for electronic communications or electronic storage to be used for any of the purposes specified in subsection (3), such communication or storage may, subject to any enactment (including any conditions imposed by any enactment), be used instead of any other form of communication or storage.
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-20a7e27ef54c3e81743a7e5236c516b1]: Textual amendment: S. 10ZF inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/3)
+[^c-20a7e27ef54c3e81743a7e5236c516b1]: Textual amendment: S. 10ZF inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/699/regulation/2/3)
 
-[^key-0fb8c38fd83e4c82a2582042c11e9aa8]: Textual amendment: Words in s. 10ZF heading inserted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/2)
+[^c-0fb8c38fd83e4c82a2582042c11e9aa8]: Textual amendment: Words in s. 10ZF heading inserted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/2)
 
-[^key-807eeefa9236b5879c31d5e503f649cd]: Textual amendment: S. 10ZF(1)(a) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/3/a)
+[^c-807eeefa9236b5879c31d5e503f649cd]: Textual amendment: S. 10ZF(1)(a) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/3/a)
 
-[^key-89f21f325db5267b8611e85b3471e318]: Textual amendment: Words in s. 10ZF(1)(b) inserted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/3/b)
+[^c-89f21f325db5267b8611e85b3471e318]: Textual amendment: Words in s. 10ZF(1)(b) inserted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/581/regulation/5/3/b)

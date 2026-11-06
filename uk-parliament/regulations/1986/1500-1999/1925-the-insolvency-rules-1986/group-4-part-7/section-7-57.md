@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.57. Affidavits[^key-9f8cda341699316b9422714186d6f4a9]
+## 7.57. Affidavits[^c-9f8cda341699316b9422714186d6f4a9]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (5) Subject to paragraph (6), where the Rules provide for the use of an affidavit, a witness statement verified by a statement of truth may be used as an alternative.
 
-(6) Paragraph (5) does not apply to Rules [^key-941f7ea818e30be3005a74a46e23aa3e]... 3.4., 4.33., 6.60. (statement of affairs), 4.42., 6.66., 6.72. (further disclosure), 4.39., 4.40., 6.65; 6.70. (accounts), 4.73., 4.77., 6.96; 6.99. (claims) and 9.3., 9.4. (examinations).
+(6) Paragraph (5) does not apply to Rules [^c-941f7ea818e30be3005a74a46e23aa3e]... 3.4., 4.33., 6.60. (statement of affairs), 4.42., 6.66., 6.72. (further disclosure), 4.39., 4.40., 6.65; 6.70. (accounts), 4.73., 4.77., 6.96; 6.99. (claims) and 9.3., 9.4. (examinations).
 
 (7) Where paragraph (5) applies any form prescribed by Rule 12.7 of these Rules shall be modified as necessary.
 
 ## Annotations
 
-[^key-9f8cda341699316b9422714186d6f4a9]: Textual amendment: Rule 7.57 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/6)
+[^c-9f8cda341699316b9422714186d6f4a9]: Textual amendment: Rule 7.57 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/6)
 
-[^key-941f7ea818e30be3005a74a46e23aa3e]: Textual amendment: Word in rule 7.57(6) deleted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/8/paragraph/59)
+[^c-941f7ea818e30be3005a74a46e23aa3e]: Textual amendment: Word in rule 7.57(6) deleted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/8/paragraph/59)

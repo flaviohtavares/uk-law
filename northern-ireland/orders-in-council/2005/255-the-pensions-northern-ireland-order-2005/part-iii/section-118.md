@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Directions[^c21461251][^key-d68103c1dc90d757f02b3c7242c4308d]
+## 118. Directions[^c21461251][^c-d68103c1dc90d757f02b3c7242c4308d]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c21461251]: Commencement: [Art. 118](https://www.legislation.gov.uk/nisi/2005/255/article/118) wholly in operation at 21.7.2009; [art. 118](https://www.legislation.gov.uk/nisi/2005/255/article/118) not in operation at date of making see [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2); [art. 118(3)](https://www.legislation.gov.uk/nisi/2005/255/article/118/3) in so far as it relates to paragraph (iii) of the definition of "relevant person" in sub-paragraph (a) in operation for certain purposes at 25.2.2005 and for all other purposes at 6.4.2005 by [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(4)](https://www.legislation.gov.uk/nisr/2005/48/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/4); [art. 118](https://www.legislation.gov.uk/nisi/2005/255/article/118) except paragraph 2(d) in operation at 6.4.2005 by [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7); [art. 118(2)(d)](https://www.legislation.gov.uk/nisi/2005/255/article/118/2/d) in operation for certain purposes at 23.6.2009 and for all other purposes at 21.7.2009 by [S.R. 2009/242](https://www.legislation.gov.uk/nisr/2009/242), [art. 2](https://www.legislation.gov.uk/nisr/2009/242/article/2)
 
-[^key-d68103c1dc90d757f02b3c7242c4308d]: Modification: [Art. 118](https://www.legislation.gov.uk/nisi/2005/255/article/118) modified (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/7), [133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8) (with [s. 106(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/8))
+[^c-d68103c1dc90d757f02b3c7242c4308d]: Modification: [Art. 118](https://www.legislation.gov.uk/nisi/2005/255/article/118) modified (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/7), [133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8) (with [s. 106(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/8))
 
 [^c17103841]: Textual amendment: mod. by SR 2005/55
 

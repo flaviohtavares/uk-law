@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98B. Power of registrar to impose requirements as to form etc of electronic documents[^key-65af5fbd91c323a3461071e6fdf18f82]
+## 98B. Power of registrar to impose requirements as to form etc of electronic documents[^c-65af5fbd91c323a3461071e6fdf18f82]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65af5fbd91c323a3461071e6fdf18f82]: Textual amendment: [Ss. 98A-98C](https://www.legislation.gov.uk/apni/1969/24/section/98A) inserted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/23) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-65af5fbd91c323a3461071e6fdf18f82]: Textual amendment: [Ss. 98A-98C](https://www.legislation.gov.uk/apni/1969/24/section/98A) inserted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/23) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

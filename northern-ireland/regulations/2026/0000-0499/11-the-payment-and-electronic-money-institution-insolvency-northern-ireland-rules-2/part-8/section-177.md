@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 177. Notification and advertisement of appointment of replacement administrator[^key-aae7aaaff61e5536f83afbf1d9c51961]
+## 177. Notification and advertisement of appointment of replacement administrator[^c-aae7aaaff61e5536f83afbf1d9c51961]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae7aaaff61e5536f83afbf1d9c51961]: Commencement: [Rule 177](https://www.legislation.gov.uk/nisr/2026/11/rule/177) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-aae7aaaff61e5536f83afbf1d9c51961]: Commencement: [Rule 177](https://www.legislation.gov.uk/nisr/2026/11/rule/177) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

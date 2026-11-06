@@ -46,22 +46,22 @@ Coming into force
 
 The Treasury, in exercise of the power conferred on them by section 12(5) of the Public Service Pensions Act 2013[^f00001], make the following Regulations:
 
-## 1. Citation and commencement[^key-0e791d5fb335f26ff8e6f8524c2e28e2]
+## 1. Citation and commencement[^c-0e791d5fb335f26ff8e6f8524c2e28e2]
 
 These Regulations may be cited as the Public Service Pensions (Employer Cost Cap) Regulations 2014, and come into force on 1st April 2014.
 
-## 2. Interpretation[^key-0830e072cf10184368bc1763856704a2]
+## 2. Interpretation[^c-0830e072cf10184368bc1763856704a2]
 
 In these Regulations, a “relevant scheme” means a defined benefits scheme (and any connected scheme) to which section 12 of the Public Service Pensions Act 2013 applies.
 
-## 3. Specified margins[^key-77aec47830fcc5ca0842292e19b0fa4a]
+## 3. Specified margins[^c-77aec47830fcc5ca0842292e19b0fa4a]
 
 The cost of the relevant scheme must remain within the following margins—
 
-- (a) an upper margin, being a rate of 3[^key-ce63fa6dee35b17405b537220383337e] percentage points above the employer cost cap of the scheme; and
-- (b) a lower margin, being a rate of 3[^key-5bc2a454df6570f7af44244b2a20e2d2] percentage points below the employer cost cap of the scheme.
+- (a) an upper margin, being a rate of 3[^c-ce63fa6dee35b17405b537220383337e] percentage points above the employer cost cap of the scheme; and
+- (b) a lower margin, being a rate of 3[^c-5bc2a454df6570f7af44244b2a20e2d2] percentage points below the employer cost cap of the scheme.
 
-## 4. Target cost[^key-bf9e2e356e05eacd600557eccab27ff2]
+## 4. Target cost[^c-bf9e2e356e05eacd600557eccab27ff2]
 
 For cases where the cost of a relevant scheme exceeds the upper margin set out in regulation 3, or falls below the lower margin set out in regulation 3, the target cost will be the same as the employer cost cap of the scheme.
 
@@ -93,14 +93,14 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-0e791d5fb335f26ff8e6f8524c2e28e2]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
+[^c-0e791d5fb335f26ff8e6f8524c2e28e2]: Commencement: Reg. 1 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
 
-[^key-0830e072cf10184368bc1763856704a2]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
+[^c-0830e072cf10184368bc1763856704a2]: Commencement: Reg. 2 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
 
-[^key-77aec47830fcc5ca0842292e19b0fa4a]: Commencement: Reg. 3 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
+[^c-77aec47830fcc5ca0842292e19b0fa4a]: Commencement: Reg. 3 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
 
-[^key-ce63fa6dee35b17405b537220383337e]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2014/575/regulation/3/a) substituted (3.8.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations 2022 (S.I. 2022/787)](https://www.legislation.gov.uk/uksi/2022/787), [regs. 1](https://www.legislation.gov.uk/uksi/2022/787/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/787/regulation/3/2/a)
+[^c-ce63fa6dee35b17405b537220383337e]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2014/575/regulation/3/a) substituted (3.8.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations 2022 (S.I. 2022/787)](https://www.legislation.gov.uk/uksi/2022/787), [regs. 1](https://www.legislation.gov.uk/uksi/2022/787/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/787/regulation/3/2/a)
 
-[^key-5bc2a454df6570f7af44244b2a20e2d2]: Textual amendment: Word in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2014/575/regulation/3/b) substituted (3.8.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations 2022 (S.I. 2022/787)](https://www.legislation.gov.uk/uksi/2022/787), [regs. 1](https://www.legislation.gov.uk/uksi/2022/787/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/787/regulation/3/2/b)
+[^c-5bc2a454df6570f7af44244b2a20e2d2]: Textual amendment: Word in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2014/575/regulation/3/b) substituted (3.8.2022) by [The Public Service Pensions (Employer Cost Cap and Specified Restricted Scheme) Regulations 2022 (S.I. 2022/787)](https://www.legislation.gov.uk/uksi/2022/787), [regs. 1](https://www.legislation.gov.uk/uksi/2022/787/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/787/regulation/3/2/b)
 
-[^key-bf9e2e356e05eacd600557eccab27ff2]: Commencement: Reg. 4 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)
+[^c-bf9e2e356e05eacd600557eccab27ff2]: Commencement: Reg. 4 in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/575/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment) Regulations (Northern Ireland) 2022 (revoked)[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment) Regulations (Northern Ireland) 2022 (revoked)[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 Made
 
@@ -40,53 +40,53 @@ Made
 
 Coming into operation in accordance with regulation 1(2), (3) and (4)
 
-[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 1. Citation and commencement[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 2. Interpretation[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 3. Amendment of the principal Regulations[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Removal of requirement for eligible non-red list arrival to possess negative test[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 4. Removal of requirement for eligible non-red list arrival to possess negative test[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of requirement for eligible non-red list arrival to book and undertake day 2 test[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 5. Modification of requirement for eligible non-red list arrival to book and undertake day 2 test[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8eee8c52b6c4dc9394ac7b4ea46af33c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8eee8c52b6c4dc9394ac7b4ea46af33c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement and information sharing of new requirements for eligible non-red list arrivals to book and undertake day 2 test[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Removal of requirement for eligible non-red list arrival to self-isolate[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 7. Enforcement and information sharing of new requirements for eligible non-red list arrivals to book and undertake day 2 test[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Updates to authorised vaccine and relevant countries lists[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 8. Removal of requirement for eligible non-red list arrival to self-isolate[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Operator Liability Regulations[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]
+## 9. Updates to authorised vaccine and relevant countries lists[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Amendment of the Operator Liability Regulations[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]EXPLANATORY NOTE
+[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -110,4 +110,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-8eee8c52b6c4dc9394ac7b4ea46af33c]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2022/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-8eee8c52b6c4dc9394ac7b4ea46af33c]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2022/3) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

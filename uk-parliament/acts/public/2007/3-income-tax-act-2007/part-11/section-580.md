@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 580. Allowable deductions: restriction on double counting[^key-d8d71ab4468b711b79eded62e25b29cd]
+## 580. Allowable deductions: restriction on double counting[^c-d8d71ab4468b711b79eded62e25b29cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d71ab4468b711b79eded62e25b29cd]: Textual amendment: Ss. 565-595 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 18(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/18/a)
+[^c-d8d71ab4468b711b79eded62e25b29cd]: Textual amendment: Ss. 565-595 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 18(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/18/a)

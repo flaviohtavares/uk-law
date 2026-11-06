@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Power to charge fares[^key-68d22b5be833e426e7f2efc521637354]
+## 47. Power to charge fares[^c-68d22b5be833e426e7f2efc521637354]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68d22b5be833e426e7f2efc521637354]: Commencement: Art. 47 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-68d22b5be833e426e7f2efc521637354]: Commencement: Art. 47 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00035]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).

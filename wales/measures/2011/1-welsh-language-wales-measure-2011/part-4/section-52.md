@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Publicising compliance notices[^key-2226dc1f17b86c307d41d12979ef9cca]
+## 52. Publicising compliance notices[^c-2226dc1f17b86c307d41d12979ef9cca]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2226dc1f17b86c307d41d12979ef9cca]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/1/section/52) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-2226dc1f17b86c307d41d12979ef9cca]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/1/section/52) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

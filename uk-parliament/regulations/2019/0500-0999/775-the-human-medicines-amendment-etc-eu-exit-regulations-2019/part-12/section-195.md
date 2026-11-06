@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Amendment of regulation 254 (prohibitions concerning traceability of treatment with advanced therapy medicinal products)[^key-a712d7b5ac7924a234882fe62a04bdbb]
+## 195. Amendment of regulation 254 (prohibitions concerning traceability of treatment with advanced therapy medicinal products)[^c-a712d7b5ac7924a234882fe62a04bdbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In regulation 254(2)(a), for the words from “laid down in” to the end, subst
 
 ## Annotations
 
-[^key-a712d7b5ac7924a234882fe62a04bdbb]: Commencement: Reg. 195 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a712d7b5ac7924a234882fe62a04bdbb]: Commencement: Reg. 195 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885291]: Marginal citation: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Sections 33A to 33D were inserted by the Human Fertilisation and Embryology Act 2008, c. 22.
 

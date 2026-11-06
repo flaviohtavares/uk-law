@@ -29,15 +29,15 @@ Human Fertilisation and Embryology (Disclosure of Information) Act 1992 (repeale
 
 1992 c. 54
 
-[^key-cbdec3ce6d1624e6d91333a463072d94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbdec3ce6d1624e6d91333a463072d94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Relaxation of section 33(5) of the Human Fertilisation and Embryology Act 1990.[^key-cbdec3ce6d1624e6d91333a463072d94][^key-cbdec3ce6d1624e6d91333a463072d94]
+## 1. Relaxation of section 33(5) of the Human Fertilisation and Embryology Act 1990.[^c-cbdec3ce6d1624e6d91333a463072d94][^c-cbdec3ce6d1624e6d91333a463072d94]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title et ceteralaetc.[^key-cbdec3ce6d1624e6d91333a463072d94][^key-cbdec3ce6d1624e6d91333a463072d94]
+## 2. Short title et ceteralaetc.[^c-cbdec3ce6d1624e6d91333a463072d94][^c-cbdec3ce6d1624e6d91333a463072d94]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Human Fertilisation and Embryology (Disclosure of Information) Act 1992 (repeale
 
 ## Annotations
 
-[^key-cbdec3ce6d1624e6d91333a463072d94]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/54) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(z)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/z)
+[^c-cbdec3ce6d1624e6d91333a463072d94]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/54) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(z)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/z)

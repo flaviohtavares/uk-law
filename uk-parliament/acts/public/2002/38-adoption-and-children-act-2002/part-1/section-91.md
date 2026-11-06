@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Overseas determinations and orders[^key-91cba1e3b049a0752324270c10948d71]
+## 91. Overseas determinations and orders[^c-91cba1e3b049a0752324270c10948d71]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91cba1e3b049a0752324270c10948d71]: Commencement: S. 91 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-91cba1e3b049a0752324270c10948d71]: Commencement: S. 91 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

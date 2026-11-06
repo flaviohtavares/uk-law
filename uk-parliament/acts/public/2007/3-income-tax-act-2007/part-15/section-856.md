@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An investment is a relevant investment for the purposes of section 876[^key-913321ceef1ddbea3b07d62389b42479] if it meets—
+(1) An investment is a relevant investment for the purposes of section 876[^c-913321ceef1ddbea3b07d62389b42479] if it meets—
 
 - (a) the individual interest condition (see subsection (3)),
 - (b) the Scottish partnership condition (see subsection (4)),
 - (c) the personal representative condition (see subsection (5)), or
 - (d) the settlement condition (see subsection (6)).
 
-(2) But an investment is not a relevant investment if any of sections 863[^key-36b64fac8486cf4ea54da6ce9f0925b5] to 870 prevent it from being a relevant investment.
+(2) But an investment is not a relevant investment if any of sections 863[^c-36b64fac8486cf4ea54da6ce9f0925b5] to 870 prevent it from being a relevant investment.
 
 (3) An investment meets the individual interest condition if the only persons beneficially entitled to interest on the investment are individuals.
 
@@ -44,6 +44,6 @@ For the meaning of “discretionary or accumulation settlement”, see section 8
 
 ## Annotations
 
-[^key-913321ceef1ddbea3b07d62389b42479]: Textual amendment: Words in s. 856(1) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/10/2)
+[^c-913321ceef1ddbea3b07d62389b42479]: Textual amendment: Words in s. 856(1) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/10/2)
 
-[^key-36b64fac8486cf4ea54da6ce9f0925b5]: Textual amendment: Word in s. 856(2) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/10/3)
+[^c-36b64fac8486cf4ea54da6ce9f0925b5]: Textual amendment: Word in s. 856(2) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/10/3)

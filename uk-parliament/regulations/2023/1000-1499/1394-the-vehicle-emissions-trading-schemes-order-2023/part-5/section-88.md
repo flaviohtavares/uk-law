@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Powers of entry, etc[^key-4f127a0edf7feb411088af47ca45c177]
+## 88. Powers of entry, etc[^c-4f127a0edf7feb411088af47ca45c177]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The administrator or an authorised person may—
 
 ## Annotations
 
-[^key-4f127a0edf7feb411088af47ca45c177]: Commencement: Art. 88 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-4f127a0edf7feb411088af47ca45c177]: Commencement: Art. 88 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

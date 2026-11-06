@@ -25,7 +25,7 @@ Section 41.
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
 | 18 & 19 Vict. c. 68. | The Burial Grounds (Scotland) Act 1855. | In section 24, the words “, subject to the approval of the sheriff of the county,”; and the words from “; and a table” to the end. |
-| [^key-9d7cb54519f331b6625db8daae759cd5]... | [^key-9d7cb54519f331b6625db8daae759cd5]... | [^key-9d7cb54519f331b6625db8daae759cd5]... |
+| [^c-9d7cb54519f331b6625db8daae759cd5]... | [^c-9d7cb54519f331b6625db8daae759cd5]... | [^c-9d7cb54519f331b6625db8daae759cd5]... |
 | 2 Edw. 7. c. 8. | The Cremation Act 1902. | In section 9, the words “any such” and “as may be authorised by any table approved by the Local Government Board,”. |
 | 1 Edw. 8 & 1 Geo. 6. c. 28. | The Harbours, Piers and Ferries (Scotland) Act 1937. | Section 21(1). |
 |  |  | In section 21(3), the words “by a local authority or”. |
@@ -89,4 +89,4 @@ Section 41.
 
 [^c810109]: Modification: The text of ss. 1, 5–8, 11, 12, 16, 24–28, 33, 36, 37(1)(2)(3)(4), 38(1), 40, 41, Sch. 1 (*a*)(*b*)(*c*)(i)(ii)(iii)(*d*)(i)(ii)(*e*), Sch. 2 paras. 1–10, 12–14, 16–25, 27–34, 37–42, Sch. 3 paras. 2–7, 12–20, 22–24, 26, 28, 32, 33, 34, 36, 37, 38, 39 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-9d7cb54519f331b6625db8daae759cd5]: Textual amendment: Words in Sch. 4 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-9d7cb54519f331b6625db8daae759cd5]: Textual amendment: Words in Sch. 4 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

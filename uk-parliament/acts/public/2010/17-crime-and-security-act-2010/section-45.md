@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Offences relating to electronic communications devices in prison[^key-b924e84c23e0a697c3baa61784d4f4c9]
+## 45. Offences relating to electronic communications devices in prison[^c-b924e84c23e0a697c3baa61784d4f4c9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In the Prison Act 1952, in section 40D (other offences relating to prison securi
 
 ## Annotations
 
-[^key-b924e84c23e0a697c3baa61784d4f4c9]: Commencement: S. 45 in force at 26.3.2012 by [S.I. 2012/584](https://www.legislation.gov.uk/uksi/2012/584), [art. 2](https://www.legislation.gov.uk/uksi/2012/584/article/2)
+[^c-b924e84c23e0a697c3baa61784d4f4c9]: Commencement: S. 45 in force at 26.3.2012 by [S.I. 2012/584](https://www.legislation.gov.uk/uksi/2012/584), [art. 2](https://www.legislation.gov.uk/uksi/2012/584/article/2)

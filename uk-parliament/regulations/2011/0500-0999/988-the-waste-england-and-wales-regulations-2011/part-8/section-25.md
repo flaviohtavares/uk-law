@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-No person may act as a broker of or dealer in controlled waste unless registered with the appropriate body[^key-24f39b0843d41174dfdc5021443675a1].
+No person may act as a broker of or dealer in controlled waste unless registered with the appropriate body[^c-24f39b0843d41174dfdc5021443675a1].
 
 ## Annotations
 
-[^key-24f39b0843d41174dfdc5021443675a1]: Textual amendment: Words in reg. 25 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-24f39b0843d41174dfdc5021443675a1]: Textual amendment: Words in reg. 25 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

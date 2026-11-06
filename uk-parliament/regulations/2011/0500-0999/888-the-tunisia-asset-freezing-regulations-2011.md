@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Tunisia (Asset-Freezing) Regulations 2011 (revoked)[^key-87fa108abf6d162c0f607ad330201dda]
+The Tunisia (Asset-Freezing) Regulations 2011 (revoked)[^c-87fa108abf6d162c0f607ad330201dda]
 
 Made
 
@@ -46,118 +46,118 @@ Coming into force
 
 at 6.00 p.m. on 22nd March 2011
 
-[^key-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-87fa108abf6d162c0f607ad330201dda]
+## 1. Citation, commencement and application[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-87fa108abf6d162c0f607ad330201dda]
+## 2. Interpretation[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Freezing of funds and economic resources[^key-87fa108abf6d162c0f607ad330201dda]
+## 3. Freezing of funds and economic resources[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making funds available to a designated person[^key-87fa108abf6d162c0f607ad330201dda]
+## 4. Making funds available to a designated person[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making funds available for the benefit of a designated person[^key-87fa108abf6d162c0f607ad330201dda]
+## 5. Making funds available for the benefit of a designated person[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Making economic resources available to a designated person[^key-87fa108abf6d162c0f607ad330201dda]
+## 6. Making economic resources available to a designated person[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Making economic resources available for the benefit of a designated person[^key-87fa108abf6d162c0f607ad330201dda]
+## 7. Making economic resources available for the benefit of a designated person[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Credits to a frozen account[^key-87fa108abf6d162c0f607ad330201dda]
+## 8. Credits to a frozen account[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Licences[^key-87fa108abf6d162c0f607ad330201dda]
+## 9. Licences[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Contravention and circumvention of prohibitions[^key-87fa108abf6d162c0f607ad330201dda]
+## 10. Contravention and circumvention of prohibitions[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information provisions[^key-87fa108abf6d162c0f607ad330201dda]
+## 11. Information provisions[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Cooperation with UK or international investigations[^key-87fa108abf6d162c0f607ad330201dda]
+## 12. Cooperation with UK or international investigations[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Officers of a body corporate etc.[^key-87fa108abf6d162c0f607ad330201dda]
+## 13. Officers of a body corporate etc.[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Penalties[^key-87fa108abf6d162c0f607ad330201dda]
+## 14. Penalties[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Proceedings[^key-87fa108abf6d162c0f607ad330201dda]
+## 15. Proceedings[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Consent to prosecution[^key-87fa108abf6d162c0f607ad330201dda]
+## 16. Consent to prosecution[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Notices[^key-87fa108abf6d162c0f607ad330201dda]
+## 17. Notices[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. The Crown[^key-87fa108abf6d162c0f607ad330201dda]
+## 18. The Crown[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information provisions[^key-87fa108abf6d162c0f607ad330201dda]
+## SCHEDULE — Information provisions[^c-87fa108abf6d162c0f607ad330201dda]
 
 Regulation 11
 
-### 1. Reporting obligations of relevant institutions and others[^key-87fa108abf6d162c0f607ad330201dda]
+### 1. Reporting obligations of relevant institutions and others[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-87fa108abf6d162c0f607ad330201dda]
+### 2. Powers to request information[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-87fa108abf6d162c0f607ad330201dda]
+### 3. Production of documents[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-87fa108abf6d162c0f607ad330201dda]
+### 4. Failure to comply with request for information[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General power to disclose information[^key-87fa108abf6d162c0f607ad330201dda]
+### 5. General power to disclose information[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-87fa108abf6d162c0f607ad330201dda]
+### 6. Application of provisions[^c-87fa108abf6d162c0f607ad330201dda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87fa108abf6d162c0f607ad330201dda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87fa108abf6d162c0f607ad330201dda]: Textual amendment: Regulations revoked (31.12.2020) by [The Misappropriation (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1468)](https://www.legislation.gov.uk/uksi/2020/1468), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1468/regulation/1), [38(d)](https://www.legislation.gov.uk/uksi/2020/1468/regulation/38); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 23(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/23/2)
+[^c-87fa108abf6d162c0f607ad330201dda]: Textual amendment: Regulations revoked (31.12.2020) by [The Misappropriation (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1468)](https://www.legislation.gov.uk/uksi/2020/1468), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1468/regulation/1), [38(d)](https://www.legislation.gov.uk/uksi/2020/1468/regulation/38); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 23(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/23/2)

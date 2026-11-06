@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Calculation provisions subject to certain provisions about reliefs[^key-201d709793be4956bc7ea48eb6a56c5f]
+## 29. Calculation provisions subject to certain provisions about reliefs[^c-201d709793be4956bc7ea48eb6a56c5f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Sections 27 and 28 are subject to—
 
 ## Annotations
 
-[^key-201d709793be4956bc7ea48eb6a56c5f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2017/1/section/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-201d709793be4956bc7ea48eb6a56c5f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2017/1/section/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

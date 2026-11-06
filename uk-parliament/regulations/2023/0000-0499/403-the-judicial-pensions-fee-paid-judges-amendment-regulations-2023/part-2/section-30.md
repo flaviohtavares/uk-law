@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of regulation 47[^key-fe99d8e449239e852cf708448b90a03d]
+## 30. Amendment of regulation 47[^c-fe99d8e449239e852cf708448b90a03d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In regulation 47—
 
 ## Annotations
 
-[^key-fe99d8e449239e852cf708448b90a03d]: Commencement: Reg. 30 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-fe99d8e449239e852cf708448b90a03d]: Commencement: Reg. 30 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

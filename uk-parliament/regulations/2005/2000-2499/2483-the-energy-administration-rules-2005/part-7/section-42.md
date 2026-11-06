@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Costs of proving[^key-773ebd2e759e66c40118d418b29dd88f]
+## 42. Costs of proving[^c-773ebd2e759e66c40118d418b29dd88f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-773ebd2e759e66c40118d418b29dd88f]: Commencement: Rule 42 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-773ebd2e759e66c40118d418b29dd88f]: Commencement: Rule 42 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 224. Moving from administration to dissolution[^key-1a3b45f5361ebf062772b4be86e4f5f6]
+## 224. Moving from administration to dissolution[^c-1a3b45f5361ebf062772b4be86e4f5f6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a3b45f5361ebf062772b4be86e4f5f6]: Commencement: [Rule 224](https://www.legislation.gov.uk/uksi/2011/1301/rule/224) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1a3b45f5361ebf062772b4be86e4f5f6]: Commencement: [Rule 224](https://www.legislation.gov.uk/uksi/2011/1301/rule/224) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

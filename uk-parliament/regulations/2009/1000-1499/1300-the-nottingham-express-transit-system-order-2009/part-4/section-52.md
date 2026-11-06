@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Trespass on the authorised tramroad[^key-7ea047250130f21a8fbcb8882e7f1052]
+## 52. Trespass on the authorised tramroad[^c-7ea047250130f21a8fbcb8882e7f1052]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-7ea047250130f21a8fbcb8882e7f1052]: Commencement: Art. 52 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-7ea047250130f21a8fbcb8882e7f1052]: Commencement: Art. 52 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

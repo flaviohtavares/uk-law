@@ -86,7 +86,7 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 (2) In the case of an attendance allowance, the weekly amount shall be the amount paid in respect of attendances undertaken in respect of the week in question.
 
-(3) In the case of a basic allowance or a special responsibility allowance,[^key-89443a101d1f10f91be6bea6fa812e91] the weekly amount shall be calculated–
+(3) In the case of a basic allowance or a special responsibility allowance,[^c-89443a101d1f10f91be6bea6fa812e91] the weekly amount shall be calculated–
 
 - (i) where the allowance is paid annually, by dividing the amount paid by 52;
 - (ii) where the allowance is paid quarterly, by dividing the amount paid by 13;
@@ -121,4 +121,4 @@ They further provide for the calculation of a councillor's allowance where the c
 
 [^c2181123]: Marginal citation: [S.I. 1983/1598](https://www.legislation.gov.uk/uksi/1983/1598).
 
-[^key-89443a101d1f10f91be6bea6fa812e91]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1687/regulation/3/3) substituted (1.8.1990) by [The Social Security (Local Councillors) Amendment Regulations 1990 (S.I. 1990/1286)](https://www.legislation.gov.uk/uksi/1990/1286), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1990/1286/regulation/2)
+[^c-89443a101d1f10f91be6bea6fa812e91]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1989/1687/regulation/3/3) substituted (1.8.1990) by [The Social Security (Local Councillors) Amendment Regulations 1990 (S.I. 1990/1286)](https://www.legislation.gov.uk/uksi/1990/1286), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1286/regulation/1), [2](https://www.legislation.gov.uk/uksi/1990/1286/regulation/2)

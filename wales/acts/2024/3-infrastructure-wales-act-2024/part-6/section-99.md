@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Blighted land[^key-514d2baaa3eaf709f81c0f4aaa9f5fe4][^key-153096a56a076601e1214eead98c7c09]
+## 99. Blighted land[^c-514d2baaa3eaf709f81c0f4aaa9f5fe4][^c-153096a56a076601e1214eead98c7c09]
 
 *Extent: E+W*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-514d2baaa3eaf709f81c0f4aaa9f5fe4]: Commencement: S. 99 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-514d2baaa3eaf709f81c0f4aaa9f5fe4]: Commencement: S. 99 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-153096a56a076601e1214eead98c7c09]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2024/3/section/99) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-153096a56a076601e1214eead98c7c09]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2024/3/section/99) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Guidance[^key-e18e63e079a52d232e8a3a4b63a4374f]
+## 75. Guidance[^c-e18e63e079a52d232e8a3a4b63a4374f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the exercise of any function conferred under or by virtue of this Part the lo
 
 ## Annotations
 
-[^key-e18e63e079a52d232e8a3a4b63a4374f]: Commencement: S. 75 in force at 1.8.2004 by [S.I. 2004/1813](https://www.legislation.gov.uk/uksi/2004/1813), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/1813/article/2/c)
+[^c-e18e63e079a52d232e8a3a4b63a4374f]: Commencement: S. 75 in force at 1.8.2004 by [S.I. 2004/1813](https://www.legislation.gov.uk/uksi/2004/1813), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/1813/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Disqualification of justices[^key-9b1ef838f54530204df4db7ac50dacec]
+## 63. Disqualification of justices[^c-9b1ef838f54530204df4db7ac50dacec]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ No justice of the peace shall be entitled to hear any case in respect of an offe
 
 ## Annotations
 
-[^key-9b1ef838f54530204df4db7ac50dacec]: Commencement: S. 63 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-9b1ef838f54530204df4db7ac50dacec]: Commencement: S. 63 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

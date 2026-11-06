@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Preservation of right of appeal under Building Societies Act[^key-a9778287a60e8be234b3e45492b09155]
+## 126. Preservation of right of appeal under Building Societies Act[^c-a9778287a60e8be234b3e45492b09155]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ an appeal may be brought against that decision under section 46(1) or (2) of the
 
 ## Annotations
 
-[^key-a9778287a60e8be234b3e45492b09155]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a9778287a60e8be234b3e45492b09155]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

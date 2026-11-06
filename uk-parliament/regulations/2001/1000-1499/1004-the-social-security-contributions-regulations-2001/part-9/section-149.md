@@ -25,8 +25,8 @@ summary: ''
 (2) The conditions are—
 
 - (a) that that person is ordinarily resident in Great Britain or Northern Ireland (as the case may be); and
-- (b) that he is employed outside the United Kingdom[^key-319cc8717b0505b899ee42cc5fec90c3] .
+- (b) that he is employed outside the United Kingdom[^c-319cc8717b0505b899ee42cc5fec90c3] .
 
 ## Annotations
 
-[^key-319cc8717b0505b899ee42cc5fec90c3]: Textual amendment: Words in reg. 149(2)(b) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [17](https://www.legislation.gov.uk/uksi/2002/2366/regulation/17)
+[^c-319cc8717b0505b899ee42cc5fec90c3]: Textual amendment: Words in reg. 149(2)(b) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [17](https://www.legislation.gov.uk/uksi/2002/2366/regulation/17)

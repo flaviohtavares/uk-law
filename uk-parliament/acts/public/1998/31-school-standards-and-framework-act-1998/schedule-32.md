@@ -44,10 +44,10 @@ Section 144.
 
 - (a) for any functions of the funding authority under the GMS grants provisions—
   - (i) to be discharged instead by the Secretary of State as from a date specified in the regulations, or
-  - (ii) to be discharged instead by local authorities[^key-570ae5afeec7f2b1ffee877e975cdee5] as from the appointed day (either subject to obtaining the Secretary of State’s consent or otherwise); and
+  - (ii) to be discharged instead by local authorities[^c-570ae5afeec7f2b1ffee877e975cdee5] as from the appointed day (either subject to obtaining the Secretary of State’s consent or otherwise); and
 - (b) for any of those provisions to have effect, for any purposes specified in the regulations, with such modifications as are so specified.
 
-(3) Regulations under sub-paragraph (2) shall not authorise a local authority[^key-5177265949adaa73e26402711f36dc2e] to impose any requirement under section 247(1) of that Act (as it has effect by virtue of sub-paragraph (1)); but the Secretary of State may by order—
+(3) Regulations under sub-paragraph (2) shall not authorise a local authority[^c-5177265949adaa73e26402711f36dc2e] to impose any requirement under section 247(1) of that Act (as it has effect by virtue of sub-paragraph (1)); but the Secretary of State may by order—
 
 - (a) impose such a requirement; or
 - (b) waive or remove such a requirement even though a local authority is by such regulations also authorised to do so.
@@ -81,9 +81,9 @@ in respect of relevant expenditure incurred or to be incurred by them.
 
 (4) Each of the following provisions of Schedule 22, namely—
 
-- (a) paragraphs A1(1)(f) and 1(1)(d)[^key-f99e4414d8c7eebc2934a018a41ef4b8],
-- (b) paragraphs A7(1)(e) and 2(1)(d)[^key-316507ceecc28d9bb741183c07476b7a], and
-- (c) paragraphs A13(1)(g) and 3(1)(e)[^key-77f936404386dea48a01a347e3b6e3ef],
+- (a) paragraphs A1(1)(f) and 1(1)(d)[^c-f99e4414d8c7eebc2934a018a41ef4b8],
+- (b) paragraphs A7(1)(e) and 2(1)(d)[^c-316507ceecc28d9bb741183c07476b7a], and
+- (c) paragraphs A13(1)(g) and 3(1)(e)[^c-77f936404386dea48a01a347e3b6e3ef],
 
 shall (subject to sub-paragraph (5) below) apply in relation to any grant made by virtue of this paragraph as if it were such a grant as is mentioned in that provision.
 
@@ -159,7 +159,7 @@ and to which section 49 applies in accordance with regulations under section 144
 
 *Extent: E+W*
 
-**7.**[^key-a257bd9b55bdbc227247b3f3c617b86a][^c14014421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a257bd9b55bdbc227247b3f3c617b86a][^c14014421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Orders for purposes of section 20(5)
 
@@ -211,9 +211,9 @@ within the meaning of the [^c14014441]Education Act 1996, which on the appointed
 
 [^c14014321]: Commencement: Sch. 32 in force at Royal Assent see. s. 145(4); by [S.I. 1999/531](https://www.legislation.gov.uk/uksi/1999/531), [art. 2](https://www.legislation.gov.uk/uksi/1999/531/article/2) it is provided that the appointed day for the purpose of Sch. 32 para. 2(1) and (4) shall be 1.4.1999
 
-[^key-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14014331]: Commencement: Sch. 32 in force at Royal Assent see s. 145(4); by [S.I. 1999/531](https://www.legislation.gov.uk/uksi/1999/531), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/531/article/2/2) it is provided that the appointed day for the purpose of Sch. 32 para. 3 shall be 1.4.1999
 
@@ -221,11 +221,11 @@ within the meaning of the [^c14014441]Education Act 1996, which on the appointed
 
     by [S.I. 1999/2221](https://www.legislation.gov.uk/uksi/1999/2221), [art. 2](https://www.legislation.gov.uk/uksi/1999/2221/article/2) it is provided that the appointed day for Sch. 32 para. 4(3) and (6) for certain purposes shall be 1.9.1999
 
-[^key-f99e4414d8c7eebc2934a018a41ef4b8]: Textual amendment: Words in [Sch. 32 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/a) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-f99e4414d8c7eebc2934a018a41ef4b8]: Textual amendment: Words in [Sch. 32 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/a) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-316507ceecc28d9bb741183c07476b7a]: Textual amendment: Words in [Sch. 32 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/b) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/b); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-316507ceecc28d9bb741183c07476b7a]: Textual amendment: Words in [Sch. 32 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/b) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/b); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-77f936404386dea48a01a347e3b6e3ef]: Textual amendment: Words in [Sch. 32 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/c) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(c)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/c); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-77f936404386dea48a01a347e3b6e3ef]: Textual amendment: Words in [Sch. 32 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/32/paragraph/4/4/c) substituted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 4 para. 23(c)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23/c); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
 [^c14014351]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -241,7 +241,7 @@ within the meaning of the [^c14014441]Education Act 1996, which on the appointed
 
 [^c14014411]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-a257bd9b55bdbc227247b3f3c617b86a]: Textual amendment: Sch. 32 para. 7 repealed (1.8.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/2), [Sch. 21 para. 119](https://www.legislation.gov.uk/ukpga/2002/32/schedule/21/paragraph/119), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
+[^c-a257bd9b55bdbc227247b3f3c617b86a]: Textual amendment: Sch. 32 para. 7 repealed (1.8.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/2), [Sch. 21 para. 119](https://www.legislation.gov.uk/ukpga/2002/32/schedule/21/paragraph/119), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
 [^c14014421]: Modification: Sch. 32 para. 7 applied with modification (from 1.9.1998 to 1.9.1999) by [S.I. 1998/2115](https://www.legislation.gov.uk/uksi/1998/2115), [regs.2](https://www.legislation.gov.uk/uksi/1998/2115/regulation/2),3 and 4
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Indemnities[^key-8dfe061d8b943cd5736d9390ee3bcc0b]
+## 126. Indemnities[^c-8dfe061d8b943cd5736d9390ee3bcc0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dfe061d8b943cd5736d9390ee3bcc0b]: Commencement: S. 126 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-8dfe061d8b943cd5736d9390ee3bcc0b]: Commencement: S. 126 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

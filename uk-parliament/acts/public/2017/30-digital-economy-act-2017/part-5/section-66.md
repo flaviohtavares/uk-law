@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Bar on further disclosure of personal information[^key-4bd467674adaa4eb886e50957708ec51][^key-2f3aa1d8f253f553ff366760bfba885f]
+## 66. Bar on further disclosure of personal information[^c-4bd467674adaa4eb886e50957708ec51][^c-2f3aa1d8f253f553ff366760bfba885f]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,22 +88,22 @@ summary: ''
 
 (12) A person who is guilty of an offence under subsection (10) is liable on summary conviction—
 
-- (a) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-a3d88943c1c3e28bc041848b6c0666fb], to a fine or to both;
+- (a) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-a3d88943c1c3e28bc041848b6c0666fb], to a fine or to both;
 - (b) in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
 - (c) in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both.
 
-(13) In the application of subsection (12)(a) to an offence committed before 2 May 2022[^key-30ba7916d95f3063171776b71db160d4] the reference to the general limit in a magistrates’ court[^key-e7c1e96c587c9a1d00da4241ec2b93cc] is to be read as a reference to 6 months.
+(13) In the application of subsection (12)(a) to an offence committed before 2 May 2022[^c-30ba7916d95f3063171776b71db160d4] the reference to the general limit in a magistrates’ court[^c-e7c1e96c587c9a1d00da4241ec2b93cc] is to be read as a reference to 6 months.
 
 (14) This section does not apply to personal information disclosed under section 64(1) or (5) by the Revenue and Customs, the Welsh Revenue Authority or Revenue Scotland.
 
 ## Annotations
 
-[^key-4bd467674adaa4eb886e50957708ec51]: Commencement: S. 66 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-4bd467674adaa4eb886e50957708ec51]: Commencement: S. 66 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-2f3aa1d8f253f553ff366760bfba885f]: Commencement: S. 66 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(cc)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/cc)
+[^c-2f3aa1d8f253f553ff366760bfba885f]: Commencement: S. 66 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(cc)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/cc)
 
-[^key-a3d88943c1c3e28bc041848b6c0666fb]: Textual amendment: Words in [s. 66(12)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/12/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-a3d88943c1c3e28bc041848b6c0666fb]: Textual amendment: Words in [s. 66(12)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/12/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-30ba7916d95f3063171776b71db160d4]: Textual amendment: Words in [s. 66(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/13) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-30ba7916d95f3063171776b71db160d4]: Textual amendment: Words in [s. 66(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/13) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-e7c1e96c587c9a1d00da4241ec2b93cc]: Textual amendment: Words in [s. 66(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/13) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-e7c1e96c587c9a1d00da4241ec2b93cc]: Textual amendment: Words in [s. 66(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/66/13) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Making military goods and military technology available[^key-4e5ac7cfae51a837c4970e88d46cc8dd]
+## 30. Making military goods and military technology available[^c-4e5ac7cfae51a837c4970e88d46cc8dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5ac7cfae51a837c4970e88d46cc8dd]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-4e5ac7cfae51a837c4970e88d46cc8dd]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

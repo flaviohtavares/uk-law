@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 1A — Converted EU marketing authorisations[^key-af764662ca564cd043a67bed2b82242e]
+## SCHEDULE 1A — Converted EU marketing authorisations[^c-af764662ca564cd043a67bed2b82242e]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ Regulation 4(4)
 
 ## Annotations
 
-[^key-af764662ca564cd043a67bed2b82242e]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2019/865/regulation/17/3), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2019/865/schedule/8/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af764662ca564cd043a67bed2b82242e]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2019/865/regulation/17/3), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2019/865/schedule/8/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

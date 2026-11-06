@@ -53,7 +53,7 @@ These Regulations may be cited as the Social Security (Maximum Additional Pensi
 (1) In these Regulations—
 
 - “**applicable limit**” has the meaning given by section 44(7)(c) [^c2014089];
-- “relevant day” means the day on which the survivor would, but for section 43 (persons entitled to more than one retirement pension), have become entitled to both—[^key-26eeddc7fb88d321f60b6ccb3f2a07e9]
+- “relevant day” means the day on which the survivor would, but for section 43 (persons entitled to more than one retirement pension), have become entitled to both—[^c-26eeddc7fb88d321f60b6ccb3f2a07e9]
   - (a) a Category A retirement pension; and
   - (b) a Category B retirement pension by virtue of the contributions of a spouse or civil partner who has died,
 
@@ -65,25 +65,25 @@ These Regulations may be cited as the Social Security (Maximum Additional Pensi
 
 ## 3. Prescribed maximum additional pension
 
-(A1)[^key-e5096ca3ccf0db7693d0bf6a2818bdff] This regulation applies to a survivor whose relevant day is before 6th April 2016.
+(A1)[^c-e5096ca3ccf0db7693d0bf6a2818bdff] This regulation applies to a survivor whose relevant day is before 6th April 2016.
 
 (1) For the purposes of section 52(3) (increase of additional pension in the Category A retirement pension for surviving spouses) the maximum additional pension shall be the amount of additional pension to which a person is entitled where that person—
 
-- (a) has reached pensionable age on the survivor’s relevant day[^key-bf5325a6535737201f87445c06cb6b15]; and
+- (a) has reached pensionable age on the survivor’s relevant day[^c-bf5325a6535737201f87445c06cb6b15]; and
 - (b) in respect of each relevant year has an earnings factor specified in paragraph (3).
 
-(2)[^key-369f166aba116a4c6becb0055e8b56c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-369f166aba116a4c6becb0055e8b56c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of paragraph (1)(b), the specified earnings factor is an earnings factor which—
 
 - (a) is equal to 53 times that year's applicable limit, before any increase under section 148 of the Social Security Administration Act 1992 (revaluation of earnings factors); and
 - (b) is derived from earnings on which primary Class 1 contributions were paid.
 
-## 3A. Prescribed maximum additional pension for survivors who become entitled on or after 6th April 2016[^key-8c5a2f4ae5dfa53b3e0ca72f84a7a4db]
+## 3A. Prescribed maximum additional pension for survivors who become entitled on or after 6th April 2016[^c-8c5a2f4ae5dfa53b3e0ca72f84a7a4db]
 
 (1) This regulation applies to a survivor whose relevant day is on or after 6th April 2016.
 
-(2) For the purposes of section 52(3), the maximum  additional  pension  shall be £230.54[^key-d9d671ee435ca542eea65614bbc69380].
+(2) For the purposes of section 52(3), the maximum  additional  pension  shall be £230.54[^c-d9d671ee435ca542eea65614bbc69380].
 
 ## 4. Revocations
 
@@ -120,17 +120,17 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c2014089]: Marginal citation: Section 44(7)(c) was inserted by section 12(2)(b) of the [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) and amended by section 3(1) and (3) of the [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16).
 
-[^key-26eeddc7fb88d321f60b6ccb3f2a07e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/426/regulation/2/1) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/2)
+[^c-26eeddc7fb88d321f60b6ccb3f2a07e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/426/regulation/2/1) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/2)
 
-[^key-e5096ca3ccf0db7693d0bf6a2818bdff]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/A1) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/a)
+[^c-e5096ca3ccf0db7693d0bf6a2818bdff]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/A1) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/a)
 
-[^key-bf5325a6535737201f87445c06cb6b15]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/1/a) substituted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/b)
+[^c-bf5325a6535737201f87445c06cb6b15]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/1/a) substituted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/b)
 
-[^key-369f166aba116a4c6becb0055e8b56c7]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/2) omitted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/c)
+[^c-369f166aba116a4c6becb0055e8b56c7]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2010/426/regulation/3/2) omitted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(3)(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/3/c)
 
-[^key-8c5a2f4ae5dfa53b3e0ca72f84a7a4db]: Textual amendment: Reg. 3A inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(4)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/4)
+[^c-8c5a2f4ae5dfa53b3e0ca72f84a7a4db]: Textual amendment: Reg. 3A inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [33(4)](https://www.legislation.gov.uk/uksi/2015/1985/article/33/4)
 
-[^key-d9d671ee435ca542eea65614bbc69380]: Textual amendment: Sum in [Reg. 3A](https://www.legislation.gov.uk/uksi/2010/426/regulation/3A) substituted (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [13](https://www.legislation.gov.uk/uksi/2026/148/article/13)
+[^c-d9d671ee435ca542eea65614bbc69380]: Textual amendment: Sum in [Reg. 3A](https://www.legislation.gov.uk/uksi/2010/426/regulation/3A) substituted (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [13](https://www.legislation.gov.uk/uksi/2026/148/article/13)
 
 [^c2014090]: Marginal citation: [S.I. 1978/949](https://www.legislation.gov.uk/uksi/1978/949). Regulation 2 was substituted by [S.I. 1979/1428](https://www.legislation.gov.uk/uksi/1979/1428) and amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642). References to “additional pension” were substituted for references to “additional component” by section 18(1)(b) of the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), the repeal of which does not affect the substitutions (by virtue of paragraph 11 of Schedule 3 to the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6)).
 

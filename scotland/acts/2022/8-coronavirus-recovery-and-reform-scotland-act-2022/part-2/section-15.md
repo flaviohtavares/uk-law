@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Review of regulations[^key-8f0a6957215fccf115c49a61ad25c2ca]
+## 15. Review of regulations[^c-8f0a6957215fccf115c49a61ad25c2ca]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ So long as regulations under this Chapter remain in effect, the Scottish Ministe
 
 ## Annotations
 
-[^key-8f0a6957215fccf115c49a61ad25c2ca]: Commencement: S. 15 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-8f0a6957215fccf115c49a61ad25c2ca]: Commencement: S. 15 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

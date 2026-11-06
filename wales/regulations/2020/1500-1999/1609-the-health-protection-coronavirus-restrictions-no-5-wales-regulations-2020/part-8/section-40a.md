@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40A. Offence of possessing false or misleading evidence relating to vaccination or coronavirus test results[^key-b37f5b799ce240bd9afa968cb7bd3916]
+## 40A. Offence of possessing false or misleading evidence relating to vaccination or coronavirus test results[^c-b37f5b799ce240bd9afa968cb7bd3916]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b37f5b799ce240bd9afa968cb7bd3916]: Textual amendment: Reg. 40A omitted (18.2.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/142)](https://www.legislation.gov.uk/wsi/2022/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/142/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2022/142/regulation/2/11)
+[^c-b37f5b799ce240bd9afa968cb7bd3916]: Textual amendment: Reg. 40A omitted (18.2.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/142)](https://www.legislation.gov.uk/wsi/2022/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/142/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2022/142/regulation/2/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Information[^key-2a7424af5e71294e9135c0a00bd121d4]
+## 131. Information[^c-2a7424af5e71294e9135c0a00bd121d4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 deals with the provision of information.
 
 ## Annotations
 
-[^key-2a7424af5e71294e9135c0a00bd121d4]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2007/195/regulation/131) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-2a7424af5e71294e9135c0a00bd121d4]: Commencement: [Reg. 131](https://www.legislation.gov.uk/nisr/2007/195/regulation/131) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

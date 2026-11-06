@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Restructuring deposit takers or insurance companies[^key-3952fa1bb06750cdae4559cb84fb0eb8][^key-9621576b6e6d30b978e0d1901e6e9b43]
+## 21. Restructuring deposit takers or insurance companies[^c-3952fa1bb06750cdae4559cb84fb0eb8][^c-9621576b6e6d30b978e0d1901e6e9b43]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3952fa1bb06750cdae4559cb84fb0eb8]: Commencement: S. 21 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-3952fa1bb06750cdae4559cb84fb0eb8]: Commencement: S. 21 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-9621576b6e6d30b978e0d1901e6e9b43]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/23/section/21) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-9621576b6e6d30b978e0d1901e6e9b43]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/23/section/21) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

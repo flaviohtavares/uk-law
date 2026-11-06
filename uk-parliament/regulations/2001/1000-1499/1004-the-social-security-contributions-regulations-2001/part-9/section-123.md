@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Payments to be disregarded[^key-75f3ab14568b4257ca08bfa85e9719da]
+## 123. Payments to be disregarded[^c-75f3ab14568b4257ca08bfa85e9719da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75f3ab14568b4257ca08bfa85e9719da]: Textual amendment: Reg. 123 omitted (6.4.2012) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2012 (S.I. 2012/817)](https://www.legislation.gov.uk/uksi/2012/817), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/817/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/817/regulation/7/2)
+[^c-75f3ab14568b4257ca08bfa85e9719da]: Textual amendment: Reg. 123 omitted (6.4.2012) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2012 (S.I. 2012/817)](https://www.legislation.gov.uk/uksi/2012/817), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/817/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/817/regulation/7/2)

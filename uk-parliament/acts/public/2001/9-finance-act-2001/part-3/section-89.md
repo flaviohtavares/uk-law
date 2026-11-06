@@ -47,10 +47,10 @@ This amendment applies—
 - (a) to proceedings begun (or a counterclaim made) after the passing of this Act, and
 - (b) to a set-off first claimed after the passing of this Act.
 
-(3) [^key-6846cfc4a7d7224fb2cee83af3c2ff68]...
+(3) [^c-6846cfc4a7d7224fb2cee83af3c2ff68]...
 
 This amendment applies to certificates tendered in evidence after the passing of this Act.
 
 ## Annotations
 
-[^key-6846cfc4a7d7224fb2cee83af3c2ff68]: Textual amendment: S. 89(3) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 11(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/11/e)
+[^c-6846cfc4a7d7224fb2cee83af3c2ff68]: Textual amendment: S. 89(3) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 44 para. 11(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/11/e)

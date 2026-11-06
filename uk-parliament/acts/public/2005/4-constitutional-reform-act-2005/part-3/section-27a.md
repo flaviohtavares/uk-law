@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Regulations about selection process[^key-50d03a3dea6a09e99c737cede8ead6db]
+## 27A. Regulations about selection process[^c-50d03a3dea6a09e99c737cede8ead6db]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50d03a3dea6a09e99c737cede8ead6db]: Textual amendment: S. 27A inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/5); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-50d03a3dea6a09e99c737cede8ead6db]: Textual amendment: S. 27A inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/5); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)

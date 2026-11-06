@@ -33,7 +33,7 @@ FIRE SERVICES
 
 SUPERANNUATION
 
-The Firemen’s Pension Scheme (Amendment) (No. 2) Order 1989 (revoked)[^key-6a7d8b5e126e91b39f917c4ca4f78abb]
+The Firemen’s Pension Scheme (Amendment) (No. 2) Order 1989 (revoked)[^c-6a7d8b5e126e91b39f917c4ca4f78abb]
 
 Made
 
@@ -47,20 +47,20 @@ Coming into force
 
 1st June 1989
 
-[^key-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-6a7d8b5e126e91b39f917c4ca4f78abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6a7d8b5e126e91b39f917c4ca4f78abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6a7d8b5e126e91b39f917c4ca4f78abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6a7d8b5e126e91b39f917c4ca4f78abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a7d8b5e126e91b39f917c4ca4f78abb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a7d8b5e126e91b39f917c4ca4f78abb]: Textual amendment: Order revoked (1.3.1992) by The Firemen’s [Pension Scheme Order 1992 (S.I. 1992/129)](https://www.legislation.gov.uk/uksi/1992/129), [art. 1](https://www.legislation.gov.uk/uksi/1992/129/article/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1992/129/schedule/1/part/1)
+[^c-6a7d8b5e126e91b39f917c4ca4f78abb]: Textual amendment: Order revoked (1.3.1992) by The Firemen’s [Pension Scheme Order 1992 (S.I. 1992/129)](https://www.legislation.gov.uk/uksi/1992/129), [art. 1](https://www.legislation.gov.uk/uksi/1992/129/article/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1992/129/schedule/1/part/1)

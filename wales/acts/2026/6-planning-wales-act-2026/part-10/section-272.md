@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 272. Disposal of land acquired under section 271[^key-82aa5be50ea1cb9944244f5079b81df5]
+## 272. Disposal of land acquired under section 271[^c-82aa5be50ea1cb9944244f5079b81df5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82aa5be50ea1cb9944244f5079b81df5]: Commencement: S. 272 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-82aa5be50ea1cb9944244f5079b81df5]: Commencement: S. 272 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

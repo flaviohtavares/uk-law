@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Provision of services by UK firm[^key-359554d631f5ebbcf7b1e9074a721454]
+## 101. Provision of services by UK firm[^c-359554d631f5ebbcf7b1e9074a721454]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ and the case does not fall within paragraph (4), the notice is to be treated as 
 
 ## Annotations
 
-[^key-359554d631f5ebbcf7b1e9074a721454]: Commencement: Art. 101 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-359554d631f5ebbcf7b1e9074a721454]: Commencement: Art. 101 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Index of defined terms[^key-a5f135bb90f4dacebaf402250d177bd9]
+## 93. Index of defined terms[^c-a5f135bb90f4dacebaf402250d177bd9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 sets out terms defined by this Act for the purposes of more than one
 
 ## Annotations
 
-[^key-a5f135bb90f4dacebaf402250d177bd9]: Commencement: S. 93 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-a5f135bb90f4dacebaf402250d177bd9]: Commencement: S. 93 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

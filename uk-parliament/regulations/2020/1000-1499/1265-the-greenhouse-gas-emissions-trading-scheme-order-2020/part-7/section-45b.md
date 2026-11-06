@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Determination of emissions figure for surrender by regulator[^key-165cc515075a559c6f6f6e57b50fda12]
+## 45B. Determination of emissions figure for surrender by regulator[^c-165cc515075a559c6f6f6e57b50fda12]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and paragraph (4) applies to a notice of the rectified determination as it does 
 
 ## Annotations
 
-[^key-165cc515075a559c6f6f6e57b50fda12]: Textual amendment: [Arts. 45A](https://www.legislation.gov.uk/uksi/2020/1265/article/45A), [45B](https://www.legislation.gov.uk/uksi/2020/1265/article/45B) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/12)
+[^c-165cc515075a559c6f6f6e57b50fda12]: Textual amendment: [Arts. 45A](https://www.legislation.gov.uk/uksi/2020/1265/article/45A), [45B](https://www.legislation.gov.uk/uksi/2020/1265/article/45B) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/12)

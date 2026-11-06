@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment to the Consumer Rights Act 2015[^key-72308448b10faabd44d0549595c9e89d]
+## 84. Amendment to the Consumer Rights Act 2015[^c-72308448b10faabd44d0549595c9e89d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015[^f00016] at the ap
 
 ## Annotations
 
-[^key-72308448b10faabd44d0549595c9e89d]: Commencement: Reg. 84 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-72308448b10faabd44d0549595c9e89d]: Commencement: Reg. 84 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00016]: Footnote: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15).

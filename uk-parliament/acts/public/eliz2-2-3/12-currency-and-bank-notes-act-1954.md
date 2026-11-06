@@ -64,7 +64,7 @@ In this Act the following expressions have the meanings hereby respectively assi
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c619142]
 
-(3) [^key-67cb3c6e4553f5b605b6ceb957e8b663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) [^c-67cb3c6e4553f5b605b6ceb957e8b663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -78,4 +78,4 @@ In this Act the following expressions have the meanings hereby respectively assi
 
 [^c619142]: Textual amendment: S. 4(2) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IV)
 
-[^key-67cb3c6e4553f5b605b6ceb957e8b663]: Textual amendment: S. 4(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-67cb3c6e4553f5b605b6ceb957e8b663]: Textual amendment: S. 4(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)

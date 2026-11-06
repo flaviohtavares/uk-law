@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-af9fe184ca1310805bcb4c77dcd4808b][^key-4fa48ab5204d3c09ca29c915222f27fe] The 1982 Act is amended as follows.
+(1)[^c-af9fe184ca1310805bcb4c77dcd4808b][^c-4fa48ab5204d3c09ca29c915222f27fe] The 1982 Act is amended as follows.
 
-(2)[^key-af9fe184ca1310805bcb4c77dcd4808b][^key-4fa48ab5204d3c09ca29c915222f27fe] After section 45D (as inserted by section 77 of this Act) insert—
+(2)[^c-af9fe184ca1310805bcb4c77dcd4808b][^c-4fa48ab5204d3c09ca29c915222f27fe] After section 45D (as inserted by section 77 of this Act) insert—
 
 > **Conditions of licences granted under this Part**
 >
@@ -75,7 +75,7 @@ summary: ''
 
 .
 
-(3)[^key-7480449e44c96fc1b5267943742214d0] In paragraph 9 of Schedule 2 (disposal of applications for licences)—
+(3)[^c-7480449e44c96fc1b5267943742214d0] In paragraph 9 of Schedule 2 (disposal of applications for licences)—
 
 - (a) in sub-paragraph (1)—
   - (i) in paragraph (a), the word “unconditionally” is repealed,
@@ -100,8 +100,8 @@ summary: ''
 
 ## Annotations
 
-[^key-af9fe184ca1310805bcb4c77dcd4808b]: Commencement: [S. 80(1)](https://www.legislation.gov.uk/asp/2015/10/section/80/1)[(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-af9fe184ca1310805bcb4c77dcd4808b]: Commencement: [S. 80(1)](https://www.legislation.gov.uk/asp/2015/10/section/80/1)[(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
 
-[^key-4fa48ab5204d3c09ca29c915222f27fe]: Commencement: [S. 80(1)](https://www.legislation.gov.uk/asp/2015/10/section/80/1)[(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2) in force at 1.11.2016 in so far as not already in force by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-4fa48ab5204d3c09ca29c915222f27fe]: Commencement: [S. 80(1)](https://www.legislation.gov.uk/asp/2015/10/section/80/1)[(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2) in force at 1.11.2016 in so far as not already in force by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
 
-[^key-7480449e44c96fc1b5267943742214d0]: Commencement: [S. 80(3)](https://www.legislation.gov.uk/asp/2015/10/section/80/3) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-7480449e44c96fc1b5267943742214d0]: Commencement: [S. 80(3)](https://www.legislation.gov.uk/asp/2015/10/section/80/3) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

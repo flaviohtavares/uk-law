@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 281. Stopping up or diversion of highway crossing or entering route of new highway[^key-e9af3f5e5c32b40cca1da87ab88c7adc]
+## 281. Stopping up or diversion of highway crossing or entering route of new highway[^c-e9af3f5e5c32b40cca1da87ab88c7adc]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9af3f5e5c32b40cca1da87ab88c7adc]: Commencement: S. 281 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e9af3f5e5c32b40cca1da87ab88c7adc]: Commencement: S. 281 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 40(1)(d) to (f)
 
-### PART 1 — The EU Plant Health Regulation[^key-ad6c7507cd9fcb6997134bcbdd7b8fcb]
+### PART 1 — The EU Plant Health Regulation[^c-ad6c7507cd9fcb6997134bcbdd7b8fcb]
 
 | Provision of the EU Plant Health Regulation | Subject matter |
 | --- | --- |
@@ -66,7 +66,7 @@ Regulation 40(1)(d) to (f)
 | Article 96(1) | Prohibits the marking of wood packaging material, wood or other objects in the Union territory:<br>\-by any professional operator who is not authorised in accordance with Article 98, or<br>\-otherwise than in the manner required. |
 | Article 97(1) | Prohibits the repairing of wood packaging material:<br>\-by any professional operator who is not authorised in accordance with Article 98, or<br>\-otherwise than in the manner required. |
 
-### PART 2 — The Official Controls Regulation[^key-d96bb033e39a88babc04bdec8bd15a98]
+### PART 2 — The Official Controls Regulation[^c-d96bb033e39a88babc04bdec8bd15a98]
 
 | Provision of the Official Controls Regulation | Subject matter |
 | --- | --- |
@@ -76,7 +76,7 @@ Regulation 40(1)(d) to (f)
 | Article 56(1) | Requires the operator of a relevant consignment to complete the relevant part of the CHED. |
 | Article 56(4) (as read with Article 1(1) of Commission Implementing Regulation (EU) 2019/1013 on the prior notification of consignments of certain categories of animals and goods entering the Union[^f00063] and regulation 9) | Requires the operator of a relevant consignment to give prior notification to the competent authorities of the border control post of arrival of the consignment before the physical arrival of the consignment in the Union. |
 
-### PART 3 — Other EU legislation[^key-506a0b6be51bd7eb3b9278507e25e3c2]
+### PART 3 — Other EU legislation[^c-506a0b6be51bd7eb3b9278507e25e3c2]
 
 <table>
 <thead>
@@ -99,7 +99,7 @@ Regulation 40(1)(d) to (f)
 
 ## Annotations
 
-[^key-ad6c7507cd9fcb6997134bcbdd7b8fcb]: Commencement: Sch. 3 Pt. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-ad6c7507cd9fcb6997134bcbdd7b8fcb]: Commencement: Sch. 3 Pt. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00051]: Footnote: The list of Union quarantine pests is set out in Annex 2 to the Phytosanitary Conditions Regulation.
 
@@ -123,13 +123,13 @@ Regulation 40(1)(d) to (f)
 
 [^f00061]: Footnote: The list of plants, plant products and other objects for these purposes is set out in Annex 14 to the Phytosanitary Conditions Regulation.
 
-[^key-d96bb033e39a88babc04bdec8bd15a98]: Commencement: Sch. 3 Pt. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-d96bb033e39a88babc04bdec8bd15a98]: Commencement: Sch. 3 Pt. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00062]: Footnote: O.J. No. L 321, 12.12.2019, p. 45.
 
 [^f00063]: Footnote: O.J. No. 165, 21.6.2019, p. 8.
 
-[^key-506a0b6be51bd7eb3b9278507e25e3c2]: Commencement: Sch. 3 Pt. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-506a0b6be51bd7eb3b9278507e25e3c2]: Commencement: Sch. 3 Pt. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00064]: Footnote: O.J. No. 250, 30.9.2019, p. 6.
 

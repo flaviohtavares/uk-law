@@ -24,8 +24,8 @@ summary: ''
 
 2. Where proportionate in relation to processing activities, the measures referred to in paragraph 1 shall include the implementation of appropriate data protection policies by the controller.
 
-3. Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as a means of demonstrating[^key-4244c3b303782f08105f2a0104bac131] compliance with the obligations of the controller.
+3. Adherence to approved codes of conduct as referred to in Article 40 or approved certification mechanisms as referred to in Article 42 may be used as a means of demonstrating[^c-4244c3b303782f08105f2a0104bac131] compliance with the obligations of the controller.
 
 ## Annotations
 
-[^key-4244c3b303782f08105f2a0104bac131]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2016/679/article/24/3) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/7); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)
+[^c-4244c3b303782f08105f2a0104bac131]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2016/679/article/24/3) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/7); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)

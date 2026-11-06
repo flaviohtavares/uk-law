@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Application of Chapter[^key-d3cc4d0017031d0ea15c5bf6d44f762c]
+## 18. Application of Chapter[^c-d3cc4d0017031d0ea15c5bf6d44f762c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cc4d0017031d0ea15c5bf6d44f762c]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-d3cc4d0017031d0ea15c5bf6d44f762c]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

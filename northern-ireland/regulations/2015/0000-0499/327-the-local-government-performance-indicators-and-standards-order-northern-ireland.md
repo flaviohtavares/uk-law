@@ -44,11 +44,11 @@ The Department of the Environment, in exercise of the powers conferred by sectio
 
 In accordance with section 89(2) of that Act, the Department has consulted councils and such associations or bodies representative of councils, such associations or bodies representative of officers of councils and such other persons or bodies as it considered appropriate.
 
-## 1. Citation and commencement[^key-fbb7e545b1fd0e739456f32daaee8817]
+## 1. Citation and commencement[^c-fbb7e545b1fd0e739456f32daaee8817]
 
 This Order may be cited as the Local Government (Performance Indicators and Standards) Order (Northern Ireland) 2015 and shall come into operation on 28 September 2015.
 
-## 2. Performance Indicators and standards[^key-749df2fc3f8c55aaf6009664865d4a83]
+## 2. Performance Indicators and standards[^c-749df2fc3f8c55aaf6009664865d4a83]
 
 (1) The performance indicators and standards set out in the Schedules for the councils listed therein are specified for the purpose of section 89(1) of the Local Government Act (Northern Ireland) 2014 in relation to the functions identified in each respective Schedule.
 
@@ -62,7 +62,7 @@ A senior officer of the Department of the Environment
 
 SCHEDULES
 
-## SCHEDULE 1 — ECONOMIC DEVELOPMENT INDICATORS[^key-5aec52a9fc2468d6b886238d00f49d1f]
+## SCHEDULE 1 — ECONOMIC DEVELOPMENT INDICATORS[^c-5aec52a9fc2468d6b886238d00f49d1f]
 
 Article 2
 
@@ -78,9 +78,9 @@ Article 2
 </tbody>
 </table>
 
-[^key-c2419904b2a0858050a976950aa28bfb][^f01000]
+[^c-c2419904b2a0858050a976950aa28bfb][^f01000]
 
-## SCHEDULE 2 — ECONOMIC DEVELOPMENT STANDARDS[^key-4a7f51eddbb99fda7aacb05b32ab3b13]
+## SCHEDULE 2 — ECONOMIC DEVELOPMENT STANDARDS[^c-4a7f51eddbb99fda7aacb05b32ab3b13]
 
 Article 2
 
@@ -107,9 +107,9 @@ Article 2
 </tbody>
 </table>
 
-[^key-2b5acde839131ff28c051c64bddf2a64][^f01001]
+[^c-2b5acde839131ff28c051c64bddf2a64][^f01001]
 
-## SCHEDULE 3 — PLANNING INDICATORS[^key-6bc200881b587b9ebff96ba7c1b0d9a8]
+## SCHEDULE 3 — PLANNING INDICATORS[^c-6bc200881b587b9ebff96ba7c1b0d9a8]
 
 Article 2
 
@@ -131,7 +131,7 @@ Article 2
 
 [^f00002][^f00003][^f01002][^f01003][^f01004]
 
-## SCHEDULE 4 — PLANNING STANDARDS[^key-6833e3a5f4452bd0f20fe924585bef8e]
+## SCHEDULE 4 — PLANNING STANDARDS[^c-6833e3a5f4452bd0f20fe924585bef8e]
 
 Article 2
 
@@ -158,7 +158,7 @@ Article 2
 
 [^f00004][^f00005][^f01005][^f01006][^f01007][^f01008]
 
-## SCHEDULE 5 — WASTE MANAGEMENT INDICATORS[^key-bdccae14b4b54a68f9e8989ca8dd0d4a]
+## SCHEDULE 5 — WASTE MANAGEMENT INDICATORS[^c-bdccae14b4b54a68f9e8989ca8dd0d4a]
 
 Article 2
 
@@ -180,7 +180,7 @@ Article 2
 
 [^f00006][^f00007][^f00008][^f01013][^f01014][^f01015]
 
-## SCHEDULE 6 — WASTE MANAGEMENT STANDARD[^key-bfe25117a2eeed9d13c4e04375dc919f]
+## SCHEDULE 6 — WASTE MANAGEMENT STANDARD[^c-bfe25117a2eeed9d13c4e04375dc919f]
 
 Article 2
 
@@ -219,27 +219,27 @@ Schedules 5 and 6 — Waste Management.
 
 [^f00001]: Footnote: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8)
 
-[^key-fbb7e545b1fd0e739456f32daaee8817]: Commencement: Art. 1 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-fbb7e545b1fd0e739456f32daaee8817]: Commencement: Art. 1 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
-[^key-749df2fc3f8c55aaf6009664865d4a83]: Commencement: Art. 2 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-749df2fc3f8c55aaf6009664865d4a83]: Commencement: Art. 2 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
-[^key-5aec52a9fc2468d6b886238d00f49d1f]: Commencement: Sch. 1 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-5aec52a9fc2468d6b886238d00f49d1f]: Commencement: Sch. 1 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
-[^key-c2419904b2a0858050a976950aa28bfb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/327/schedule/1) Table substituted (1.6.2023) by [The Local Government (Performance Indicators and Standards) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/78)](https://www.legislation.gov.uk/nisr/2023/78), [arts. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/78/article/2/2)
+[^c-c2419904b2a0858050a976950aa28bfb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/327/schedule/1) Table substituted (1.6.2023) by [The Local Government (Performance Indicators and Standards) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/78)](https://www.legislation.gov.uk/nisr/2023/78), [arts. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/78/article/2/2)
 
-[^f01000]: Footnote: (1)[^key-c2419904b2a0858050a976950aa28bfb]
-
-    Business start-up activity means the delivery of client led business plans under the Council-led Northern Ireland Business Start-up Programme (NIBSUP) or successor programmes.
-
-[^key-4a7f51eddbb99fda7aacb05b32ab3b13]: Commencement: Sch. 2 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
-
-[^key-2b5acde839131ff28c051c64bddf2a64]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/327/schedule/2) Table substituted (1.6.2023) by [The Local Government (Performance Indicators and Standards) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/78)](https://www.legislation.gov.uk/nisr/2023/78), [arts. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/78/article/2/3)
-
-[^f01001]: Footnote: (1)[^key-2b5acde839131ff28c051c64bddf2a64]
+[^f01000]: Footnote: (1)[^c-c2419904b2a0858050a976950aa28bfb]
 
     Business start-up activity means the delivery of client led business plans under the Council-led Northern Ireland Business Start-up Programme (NIBSUP) or successor programmes.
 
-[^key-6bc200881b587b9ebff96ba7c1b0d9a8]: Commencement: Sch. 3 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-4a7f51eddbb99fda7aacb05b32ab3b13]: Commencement: Sch. 2 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+
+[^c-2b5acde839131ff28c051c64bddf2a64]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2015/327/schedule/2) Table substituted (1.6.2023) by [The Local Government (Performance Indicators and Standards) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/78)](https://www.legislation.gov.uk/nisr/2023/78), [arts. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/78/article/2/3)
+
+[^f01001]: Footnote: (1)[^c-2b5acde839131ff28c051c64bddf2a64]
+
+    Business start-up activity means the delivery of client led business plans under the Council-led Northern Ireland Business Start-up Programme (NIBSUP) or successor programmes.
+
+[^c-6bc200881b587b9ebff96ba7c1b0d9a8]: Commencement: Sch. 3 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
 [^f00002]: Footnote: [S.R. 2015 No. 71](https://www.legislation.gov.uk/nisr/2015/71)
 
@@ -257,7 +257,7 @@ Schedules 5 and 6 — Waste Management.
 
     Enforcement cases are investigations into alleged breaches of planning control under Part 5 of the Planning Act (Northern Ireland) 2011 (or under any orders or regulations made under that Act). [^f00003].
 
-[^key-6833e3a5f4452bd0f20fe924585bef8e]: Commencement: Sch. 4 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-6833e3a5f4452bd0f20fe924585bef8e]: Commencement: Sch. 4 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 71](https://www.legislation.gov.uk/nisr/2015/71)
 
@@ -279,7 +279,7 @@ Schedules 5 and 6 — Waste Management.
 
     Target conclusion means the achievement of one of the following outcomes of an investigation:–
 
-[^key-bdccae14b4b54a68f9e8989ca8dd0d4a]: Commencement: Sch. 5 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-bdccae14b4b54a68f9e8989ca8dd0d4a]: Commencement: Sch. 5 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
 
 [^f00006]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
@@ -299,4 +299,4 @@ Schedules 5 and 6 — Waste Management.
 
     Local authority collected municipal waste arisings is the total amount of local authority collected municipal waste which has been collected by a district council.
 
-[^key-bfe25117a2eeed9d13c4e04375dc919f]: Commencement: Sch. 6 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)
+[^c-bfe25117a2eeed9d13c4e04375dc919f]: Commencement: Sch. 6 in operation at 28.9.2015, see [art. 1](https://www.legislation.gov.uk/nisr/2015/327/article/1)

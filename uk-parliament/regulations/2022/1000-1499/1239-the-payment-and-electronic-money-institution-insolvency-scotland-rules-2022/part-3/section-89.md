@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Use of proxies at meetings[^key-d6d6455efbb5ba8d223e07905a3d4af4]
+## 89. Use of proxies at meetings[^c-d6d6455efbb5ba8d223e07905a3d4af4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d6455efbb5ba8d223e07905a3d4af4]: Commencement: Rule 89 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d6d6455efbb5ba8d223e07905a3d4af4]: Commencement: Rule 89 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

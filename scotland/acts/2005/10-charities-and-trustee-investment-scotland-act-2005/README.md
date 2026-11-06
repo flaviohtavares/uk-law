@@ -32,11 +32,11 @@ Charities and Trustee Investment (Scotland) Act 2005
 
 An Act of the Scottish Parliament to make provision about charities and other benevolent bodies; to make provision about fundraising in connection with charities and other benevolent bodies; to amend the law in relation to the investment powers of trustees; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th June 2005 and received Royal Assent on 14th July 2005[^key-27e123df5a92f6852b36a98f989add9d]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th June 2005 and received Royal Assent on 14th July 2005[^c-27e123df5a92f6852b36a98f989add9d]
 
 ## Contents
 
-### Part 1 — Charities[^key-c5a217e57b3068025fea86e4f9f98cc0]
+### Part 1 — Charities[^c-c5a217e57b3068025fea86e4f9f98cc0]
 
 #### Chapter 1 — Office of the Scottish Charity Regulator
 
@@ -138,7 +138,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 42 — Reorganisation: supplementary](part-1/section-42.md)
 - [Section 43 — Endowments](part-1/section-43.md)
 
-#### Chapter 5A — Reorganisation of restricted funds[^key-c5a217e57b3068025fea86e4f9f98cc0]
+#### Chapter 5A — Reorganisation of restricted funds[^c-c5a217e57b3068025fea86e4f9f98cc0]
 
 - [Section 43A — Reorganisation of restricted funds: applications by charity](part-1/section-43a.md)
 - [Section 43B — Reorganisations of restricted funds: applications by OSCR](part-1/section-43b.md)
@@ -153,7 +153,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 45 — Failure to provide statement of account: preparation by appointed person](part-1/section-45.md)
 - [Section 45A — Failure to provide statement of account: removal from Register](part-1/section-45a.md)
 
-##### Access to charity accounts[^key-8e6a4fb03233b1d102e31a5486419adb]
+##### Access to charity accounts[^c-8e6a4fb03233b1d102e31a5486419adb]
 
 - [Section 45B — Public access to charity accounts kept by OSCR](part-1/section-45b.md)
 
@@ -166,7 +166,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 47 — Dormant accounts of charities](part-1/section-47.md)
 - [Section 48 — Dormant accounts of charities: procedure and interpretation](part-1/section-48.md)
 
-##### Duty to submit annual return[^key-864feb5496662d13f80c99dacaa1aae7]
+##### Duty to submit annual return[^c-864feb5496662d13f80c99dacaa1aae7]
 
 - [Section 48A — Annual returns](part-1/section-48a.md)
 
@@ -200,7 +200,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 63 — Amendment of constitution](part-1/section-63.md)
 - [Section 64 — Regulations relating to SCIOs](part-1/section-64.md)
 
-#### Chapter 7A — Charity mergers[^key-64f3b81c1138e9ece600aa065d20ee98]
+#### Chapter 7A — Charity mergers[^c-64f3b81c1138e9ece600aa065d20ee98]
 
 - [Section 64A — Meaning of “charity merger” etc.](part-1/section-64a.md)
 - [Section 64B — Notification of charity mergers](part-1/section-64b.md)
@@ -212,7 +212,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 65 — Designated religious charities](part-1/section-65.md)
 
-#### Chapter 9 — Charity trustees and senior managers[^key-3bcda6b4e4185d0ffafac5c6e02ff40d]
+#### Chapter 9 — Charity trustees and senior managers[^c-3bcda6b4e4185d0ffafac5c6e02ff40d]
 
 *Extent: S*
 
@@ -220,7 +220,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 66 — Charity trustees: general duties](part-1/section-66.md)
 
-##### Information about charity trustees[^key-90a431bdb912820817b6b7fd107de511]
+##### Information about charity trustees[^c-90a431bdb912820817b6b7fd107de511]
 
 - [Section 66A — Schedule of charity trustees](part-1/section-66a.md)
 
@@ -239,11 +239,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 70ZA — Record of persons removed from office](part-1/section-70za.md)
 - [Section 70ZB — Searching the record of removed persons](part-1/section-70zb.md)
 
-##### Appointment[^key-9c1a3b40f4621a19f1453b6c403a8a7e]
+##### Appointment[^c-9c1a3b40f4621a19f1453b6c403a8a7e]
 
 - [Section 70A — Appointment of charity trustees](part-1/section-70a.md)
 
-#### Chapter 10 — Decisions: notices, reviews and appeals[^key-e71084043dc190d7fa2ccefa5b22544a]
+#### Chapter 10 — Decisions: notices, reviews and appeals[^c-e71084043dc190d7fa2ccefa5b22544a]
 
 ##### Preliminary
 
@@ -318,20 +318,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-27e123df5a92f6852b36a98f989add9d]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/10) excluded (1.4.2006) by [The Scottish Charity Register (Transitional) Order 2006 (S.S.I. 2006/188)](https://www.legislation.gov.uk/ssi/2006/188), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/188/article/1/1), [3](https://www.legislation.gov.uk/ssi/2006/188/article/3)
+[^c-27e123df5a92f6852b36a98f989add9d]: Modification: [Act](https://www.legislation.gov.uk/asp/2005/10) excluded (1.4.2006) by [The Scottish Charity Register (Transitional) Order 2006 (S.S.I. 2006/188)](https://www.legislation.gov.uk/ssi/2006/188), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/188/article/1/1), [3](https://www.legislation.gov.uk/ssi/2006/188/article/3)
 
-[^key-c5a217e57b3068025fea86e4f9f98cc0]: Textual amendment: [Pt. 1 Ch. 5A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/5A) inserted (1.10.2010 for specified purposes, 1.11.2012 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 125(1)](https://www.legislation.gov.uk/asp/2010/8/section/125/1), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)
+[^c-c5a217e57b3068025fea86e4f9f98cc0]: Textual amendment: [Pt. 1 Ch. 5A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/5A) inserted (1.10.2010 for specified purposes, 1.11.2012 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 125(1)](https://www.legislation.gov.uk/asp/2010/8/section/125/1), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)
 
-[^key-8e6a4fb03233b1d102e31a5486419adb]: Textual amendment: S. 45B and cross-heading inserted (5.3.2026) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2023/5/section/10/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)
+[^c-8e6a4fb03233b1d102e31a5486419adb]: Textual amendment: S. 45B and cross-heading inserted (5.3.2026) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2023/5/section/10/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)
 
-[^key-864feb5496662d13f80c99dacaa1aae7]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2005/10/section/48A) and cross-heading inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-864feb5496662d13f80c99dacaa1aae7]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2005/10/section/48A) and cross-heading inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
 
-[^key-64f3b81c1138e9ece600aa065d20ee98]: Textual amendment: [Pt. 1 Ch. 7A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/7A) inserted (1.4.2024 for specified purposes, 30.6.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 13(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2) (with [s. 13(3)](https://www.legislation.gov.uk/asp/2023/5/section/13/3)); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/168/regulation/4))
+[^c-64f3b81c1138e9ece600aa065d20ee98]: Textual amendment: [Pt. 1 Ch. 7A](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/7A) inserted (1.4.2024 for specified purposes, 30.6.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 13(2)](https://www.legislation.gov.uk/asp/2023/5/section/13/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2) (with [s. 13(3)](https://www.legislation.gov.uk/asp/2023/5/section/13/3)); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/168/regulation/4))
 
-[^key-3bcda6b4e4185d0ffafac5c6e02ff40d]: Textual amendment: [Pt. 1 Ch. 9](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/9) title substituted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 6(4)](https://www.legislation.gov.uk/asp/2023/5/section/6/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-3bcda6b4e4185d0ffafac5c6e02ff40d]: Textual amendment: [Pt. 1 Ch. 9](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/9) title substituted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 6(4)](https://www.legislation.gov.uk/asp/2023/5/section/6/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
 
-[^key-90a431bdb912820817b6b7fd107de511]: Textual amendment: S. 66A and cross-heading inserted (30.6.2025) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 3(3)](https://www.legislation.gov.uk/asp/2023/5/section/3/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
+[^c-90a431bdb912820817b6b7fd107de511]: Textual amendment: S. 66A and cross-heading inserted (30.6.2025) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 3(3)](https://www.legislation.gov.uk/asp/2023/5/section/3/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1)
 
-[^key-9c1a3b40f4621a19f1453b6c403a8a7e]: Textual amendment: S. 70A inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 126](https://www.legislation.gov.uk/asp/2010/8/section/126), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-9c1a3b40f4621a19f1453b6c403a8a7e]: Textual amendment: S. 70A inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 126](https://www.legislation.gov.uk/asp/2010/8/section/126), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-e71084043dc190d7fa2ccefa5b22544a]: Modification: [Pt. 1 Ch. 10](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/10) applied (1.4.2011) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011 (S.S.I. 2011/237)](https://www.legislation.gov.uk/ssi/2011/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1), [3(10)](https://www.legislation.gov.uk/ssi/2011/237/regulation/3/10)
+[^c-e71084043dc190d7fa2ccefa5b22544a]: Modification: [Pt. 1 Ch. 10](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/10) applied (1.4.2011) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011 (S.S.I. 2011/237)](https://www.legislation.gov.uk/ssi/2011/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1), [3(10)](https://www.legislation.gov.uk/ssi/2011/237/regulation/3/10)

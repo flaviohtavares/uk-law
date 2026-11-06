@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Classes of person who must be included in a scheme[^key-8775504e04417c326fc79ab8fcf9ba49]
+## 21. Classes of person who must be included in a scheme[^c-8775504e04417c326fc79ab8fcf9ba49]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The classes of persons described in regulations 22 to 25 are classes of person p
 
 ## Annotations
 
-[^key-8775504e04417c326fc79ab8fcf9ba49]: Commencement: Reg. 21 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-8775504e04417c326fc79ab8fcf9ba49]: Commencement: Reg. 21 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00094]: Footnote: Schedule 1B was inserted by section 9 of and Schedule 4 to the Local Government Finance Act [2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).

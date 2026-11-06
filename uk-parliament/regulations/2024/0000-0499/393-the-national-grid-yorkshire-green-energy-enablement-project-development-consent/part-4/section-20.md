@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Protective work to land, buildings, structures, apparatus or equipment[^key-f2c0734a11c3f82a6d9900f3492d0ec6]
+## 20. Protective work to land, buildings, structures, apparatus or equipment[^c-f2c0734a11c3f82a6d9900f3492d0ec6]
 
 *Extent: E+W+S*
 
@@ -72,7 +72,7 @@ the undertaker must compensate the owners and occupiers of the land, building, s
 
 ## Annotations
 
-[^key-f2c0734a11c3f82a6d9900f3492d0ec6]: Commencement: Art. 20 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f2c0734a11c3f82a6d9900f3492d0ec6]: Commencement: Art. 20 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00054]: Footnote: As amended by Schedule 1, paragraph 293 of [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

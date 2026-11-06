@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Carcass tagging[^key-b6a25e7004f417ededf4a2d11b1f3ae1]
+## 26. Carcass tagging[^c-b6a25e7004f417ededf4a2d11b1f3ae1]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6a25e7004f417ededf4a2d11b1f3ae1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/7/section/26) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b6a25e7004f417ededf4a2d11b1f3ae1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/7/section/26) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

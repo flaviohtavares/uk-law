@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 358H. Offences relating to notifications[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]
+## 358H. Offences relating to notifications[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ac4c78adf7b24e1b4a45e3ffa7234b4]: Textual amendment: Pt. 11 Ch. 2A inserted (21.9.2026 for the insertion of s. 358I(2)(4), otherwise prosp.) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)
+[^c-7ac4c78adf7b24e1b4a45e3ffa7234b4]: Textual amendment: Pt. 11 Ch. 2A inserted (21.9.2026 for the insertion of s. 358I(2)(4), otherwise prosp.) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/6/paragraph/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/i)

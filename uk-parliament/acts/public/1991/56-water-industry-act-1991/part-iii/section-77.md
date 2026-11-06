@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. General functions of local authorities in relation to water quality.[^key-27e514de5d22a2802d0b06d82da3631b][^key-72b2e4992442f1a153ae045e7f7d207e]
+## 77. General functions of local authorities in relation to water quality.[^c-27e514de5d22a2802d0b06d82da3631b][^c-72b2e4992442f1a153ae045e7f7d207e]
 
 *Extent: E+W*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-27e514de5d22a2802d0b06d82da3631b]: Modification: Ss. 77-79 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-27e514de5d22a2802d0b06d82da3631b]: Modification: Ss. 77-79 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-72b2e4992442f1a153ae045e7f7d207e]: Modification: Ss. 77-79 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-72b2e4992442f1a153ae045e7f7d207e]: Modification: Ss. 77-79 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
 [^c13218541]: Subordinate legislation: S. 77(3)(4): ss. 67 and 77(3) (with ss. 77(4) and 213(2)) power exercised by [S.I.1991/2790](https://www.legislation.gov.uk/uksi/1991/2790)

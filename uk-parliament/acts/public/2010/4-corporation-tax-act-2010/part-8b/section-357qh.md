@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357QH. Transfer of terminal loss[^key-2ff40a979b8a92eaa082f5ec9925dc66][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357QH. Transfer of terminal loss[^c-2ff40a979b8a92eaa082f5ec9925dc66][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff40a979b8a92eaa082f5ec9925dc66]: Textual amendment: [Pt. 8B Ch. 10A](https://www.legislation.gov.uk/ukpga/2010/4/part/8B/chapter/10A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/6/4) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-2ff40a979b8a92eaa082f5ec9925dc66]: Textual amendment: [Pt. 8B Ch. 10A](https://www.legislation.gov.uk/ukpga/2010/4/part/8B/chapter/10A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/6/4) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Provisional award of ill-health pension[^key-c23cb61d4f50b9b9b22390dd7665f818]
+## 75. Provisional award of ill-health pension[^c-c23cb61d4f50b9b9b22390dd7665f818]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c23cb61d4f50b9b9b22390dd7665f818]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2014/290/regulation/75) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c23cb61d4f50b9b9b22390dd7665f818]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2014/290/regulation/75) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

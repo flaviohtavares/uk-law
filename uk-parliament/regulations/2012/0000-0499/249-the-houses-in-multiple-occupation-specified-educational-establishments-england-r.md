@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2012 (revoked)[^key-5652d5cc57ffad5d5174965ee5262dae]
+The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2012 (revoked)[^c-5652d5cc57ffad5d5174965ee5262dae]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 14th March 2012
 
-[^key-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-5652d5cc57ffad5d5174965ee5262dae]
+## 1. Citation, commencement and application[^c-5652d5cc57ffad5d5174965ee5262dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Educational Establishments specified for certain purposes of the Housing Act 2004[^key-5652d5cc57ffad5d5174965ee5262dae]
+## 2. Educational Establishments specified for certain purposes of the Housing Act 2004[^c-5652d5cc57ffad5d5174965ee5262dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-5652d5cc57ffad5d5174965ee5262dae]
+## 3. Revocation[^c-5652d5cc57ffad5d5174965ee5262dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^key-5652d5cc57ffad5d5174965ee5262dae]
+## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^c-5652d5cc57ffad5d5174965ee5262dae]
 
 Regulation 2
 
@@ -74,8 +74,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5652d5cc57ffad5d5174965ee5262dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5652d5cc57ffad5d5174965ee5262dae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/249) revoked (1.8.2013) by [The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2013 (S.I. 2013/1601)](https://www.legislation.gov.uk/uksi/2013/1601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1601/regulation/3)
+[^c-5652d5cc57ffad5d5174965ee5262dae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/249) revoked (1.8.2013) by [The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2013 (S.I. 2013/1601)](https://www.legislation.gov.uk/uksi/2013/1601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/1601/regulation/3)

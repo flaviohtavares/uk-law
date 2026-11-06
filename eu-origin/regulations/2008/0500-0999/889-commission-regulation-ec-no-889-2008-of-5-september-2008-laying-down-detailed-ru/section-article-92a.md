@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 92a. Exchange of information between different Member States and the Commission[^key-e2631a312a2c7e0466d5319dd568865e]
+## Article 92a. Exchange of information between different Member States and the Commission[^c-e2631a312a2c7e0466d5319dd568865e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2631a312a2c7e0466d5319dd568865e]: Textual amendment: [Art. 92a](https://www.legislation.gov.uk/eur/2008/889/article/92a) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(43)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2631a312a2c7e0466d5319dd568865e]: Textual amendment: [Art. 92a](https://www.legislation.gov.uk/eur/2008/889/article/92a) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(43)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

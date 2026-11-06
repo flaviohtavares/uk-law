@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Right to pay additional Class 3 contributions in certain cases[^key-e5bceb1e23d55f68c55bb2b26b85efbe]
+## 13A. Right to pay additional Class 3 contributions in certain cases[^c-e5bceb1e23d55f68c55bb2b26b85efbe]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5bceb1e23d55f68c55bb2b26b85efbe]: Textual amendment: S. 13A inserted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/135/2), [149(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/4)
+[^c-e5bceb1e23d55f68c55bb2b26b85efbe]: Textual amendment: S. 13A inserted (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/135/2), [149(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/4)

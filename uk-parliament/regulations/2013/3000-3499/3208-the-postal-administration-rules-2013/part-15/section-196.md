@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Right to copy documents[^key-64353dbc73e1a14dca792418d54c46fb]
+## 196. Right to copy documents[^c-64353dbc73e1a14dca792418d54c46fb]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where the 1986 Act or the Rules confer a right for any person to inspect documen
 
 ## Annotations
 
-[^key-64353dbc73e1a14dca792418d54c46fb]: Commencement: [Rule 196](https://www.legislation.gov.uk/uksi/2013/3208/rule/196) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-64353dbc73e1a14dca792418d54c46fb]: Commencement: [Rule 196](https://www.legislation.gov.uk/uksi/2013/3208/rule/196) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00018]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39), as amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

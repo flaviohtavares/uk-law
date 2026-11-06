@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Prohibition on unlicensed activities[^key-1f7e563f0ee1a4f0bae890afd97b9ca4]
+## 2. Prohibition on unlicensed activities[^c-1f7e563f0ee1a4f0bae890afd97b9ca4]
 
 *Extent: E+W+S+N.I.*
 
 (1) No person may carry on an activity within subsection (3) except in accordance with a licence.
 
-(2) But subsection (1) is subject to sections 3 and 3A[^key-9fc3e15be2aab7f921dc3dcd51e166bb].
+(2) But subsection (1) is subject to sections 3 and 3A[^c-9fc3e15be2aab7f921dc3dcd51e166bb].
 
 (3) The activities are—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7e563f0ee1a4f0bae890afd97b9ca4]: Commencement: S. 2 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/2809/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-1f7e563f0ee1a4f0bae890afd97b9ca4]: Commencement: S. 2 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/2809/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-9fc3e15be2aab7f921dc3dcd51e166bb]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/2/2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/14/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(d)](https://www.legislation.gov.uk/uksi/2015/994/article/6/d)
+[^c-9fc3e15be2aab7f921dc3dcd51e166bb]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/2/2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/14/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(d)](https://www.legislation.gov.uk/uksi/2015/994/article/6/d)

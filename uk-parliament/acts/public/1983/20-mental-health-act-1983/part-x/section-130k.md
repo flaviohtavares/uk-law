@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130K. Duty to give information about independent mental health advocates to Welsh qualifying compulsory patients[^key-e8f1d8bb67534153cd95bacd7e3317a4]
+## 130K. Duty to give information about independent mental health advocates to Welsh qualifying compulsory patients[^c-e8f1d8bb67534153cd95bacd7e3317a4]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f1d8bb67534153cd95bacd7e3317a4]: Textual amendment: S. 130K inserted (3.1.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 37](https://www.legislation.gov.uk/mwa/2010/7/section/37), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-e8f1d8bb67534153cd95bacd7e3317a4]: Textual amendment: S. 130K inserted (3.1.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 37](https://www.legislation.gov.uk/mwa/2010/7/section/37), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(e)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

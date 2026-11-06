@@ -130,13 +130,13 @@ When used in products referred to in Articles 1 and 4, the following ingredients
 - (b) slaughtering of animals and cutting and deboning of carcasses;
 - (c) pressing of olive oil.
 
-2.[^key-d015f142e83208d90a93d375b2575994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-d015f142e83208d90a93d375b2575994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 7. Entry into force
 
 This Regulation shall enter into force on the seventh day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-ec7c418747f0c5cb28e8a724c618035d]...
+[^c-ec7c418747f0c5cb28e8a724c618035d]...
 
 Done at Brussels, 11 March 2014.
 
@@ -150,6 +150,6 @@ José Manuel Barroso
 
 [^f00001]: Footnote: [OJ L 343, 14.12.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.343.01.0001.01.ENG).
 
-[^key-d015f142e83208d90a93d375b2575994]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/eur/2014/665/article/6/2) omitted (31.12.2020) by virtue of [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d015f142e83208d90a93d375b2575994]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/eur/2014/665/article/6/2) omitted (31.12.2020) by virtue of [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec7c418747f0c5cb28e8a724c618035d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/665/signature) omitted (31.12.2020) by virtue of [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/865/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec7c418747f0c5cb28e8a724c618035d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/665/signature) omitted (31.12.2020) by virtue of [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/865/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -44,7 +44,7 @@ Coming into force
 
 31st January 2006
 
-[^key-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -336,7 +336,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -622,8 +622,8 @@ Regulation 48
 
 **May not be in force at this date. Check the source.**
 
-[^key-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05dc4042ad69db31efb4188f81db87c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05dc4042ad69db31efb4188f81db87c2]: Textual amendment: Regulations revoked (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2), [116(a)](https://www.legislation.gov.uk/uksi/2015/102/regulation/116/a) (with [regs. 116-122](https://www.legislation.gov.uk/uksi/2015/102/regulation/116)); and, to the extent that they continue to have effect by virtue of regs. 116-120, Regulations modified (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1319/regulation/12) (with [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3))
+[^c-05dc4042ad69db31efb4188f81db87c2]: Textual amendment: Regulations revoked (26.2.2015) by [The Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/102/regulation/1/2), [116(a)](https://www.legislation.gov.uk/uksi/2015/102/regulation/116/a) (with [regs. 116-122](https://www.legislation.gov.uk/uksi/2015/102/regulation/116)); and, to the extent that they continue to have effect by virtue of regs. 116-120, Regulations modified (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1319/regulation/12) (with [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3))

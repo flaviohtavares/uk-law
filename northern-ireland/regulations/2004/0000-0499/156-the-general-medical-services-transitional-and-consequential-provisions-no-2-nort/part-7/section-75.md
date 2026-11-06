@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4 of the Disciplinary Procedures Regulations)[^key-334477f36be63608c66d30b099b7adb4]
+## 75. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4 of the Disciplinary Procedures Regulations)[^c-334477f36be63608c66d30b099b7adb4]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ paragraph (2) shall apply.
 
 ## Annotations
 
-[^key-334477f36be63608c66d30b099b7adb4]: Commencement: Art. 75 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-334477f36be63608c66d30b099b7adb4]: Commencement: Art. 75 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

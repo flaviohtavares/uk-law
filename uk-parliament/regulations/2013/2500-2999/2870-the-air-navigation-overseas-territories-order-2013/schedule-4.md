@@ -24,7 +24,7 @@ Article 67
 
 ### SECTION 1 — INTERPRETATION
 
-#### 1. Interpretation[^key-8c4cb18dab92e856e3fc82c2c1a2ca4f]
+#### 1. Interpretation[^c-8c4cb18dab92e856e3fc82c2c1a2ca4f]
 
 In these Rules—
 
@@ -52,7 +52,7 @@ In these Rules—
 
 ### SECTION 2 — GENERAL
 
-#### 2. Application of Rules to aircraft[^key-2b5d7f763b75e7a51065dd9c145abbd2]
+#### 2. Application of Rules to aircraft[^c-2b5d7f763b75e7a51065dd9c145abbd2]
 
 These Rules, insofar as they apply to aircraft, apply—
 
@@ -60,11 +60,11 @@ These Rules, insofar as they apply to aircraft, apply—
 - (b) for the purposes of Rule 5, to all aircraft in the neighbourhood of an offshore installation; and
 - (c) to all aircraft registered in the Territory, wherever they may be.
 
-#### 2A. Protection of persons and property[^key-c2ac1fafa966588d0bbd145e528d115d]
+#### 2A. Protection of persons and property[^c-c2ac1fafa966588d0bbd145e528d115d]
 
 An aircraft must not be operated in a negligent or reckless manner so as to endanger life or property of others.
 
-#### 3. Misuse of signals and markings[^key-fa94bd1e5b7102d82aeec0add0ae87d1]
+#### 3. Misuse of signals and markings[^c-fa94bd1e5b7102d82aeec0add0ae87d1]
 
 (1) A signal or marking which is given a meaning by Section 8 of these Rules or which is required by Section 8 to be used in specified circumstances or for a specified purpose must not be used except with that meaning, in those circumstances or for that purpose.
 
@@ -75,7 +75,7 @@ An aircraft must not be operated in a negligent or reckless manner so as to enda
 
 (3) Signals prescribed in accordance with general international aeronautical practice for the purposes of search and rescue must not be used for any purpose other than that intended.
 
-#### 4. Reporting hazardous conditions[^key-7f6b98f7122f890223a0c9e3d707f60e]
+#### 4. Reporting hazardous conditions[^c-7f6b98f7122f890223a0c9e3d707f60e]
 
 (1) If any aircraft encounters hazardous conditions in the course of a flight, the pilot-in-command of the aircraft must send to the appropriate air traffic control unit, by the quickest means available, information containing such particulars of the hazardous conditions as may be pertinent to the safety of other aircraft.
 
@@ -83,7 +83,7 @@ An aircraft must not be operated in a negligent or reckless manner so as to enda
 
 ### SECTION 3 — LOW FLYING RULE
 
-#### 5. Low flying prohibitions[^key-7795d41d03c240e702eb069334e291c4]
+#### 5. Low flying prohibitions[^c-7795d41d03c240e702eb069334e291c4]
 
 (1) Subject to paragraph (2), an aircraft must comply with the low flying prohibitions in paragraph (3) unless exempted by rule 6.
 
@@ -116,7 +116,7 @@ An aircraft must not be operated in a negligent or reckless manner so as to enda
   - (i) at an aerodrome, in accordance with procedures notified by the Governor; or
   - (ii) at a landing site which is not an aerodrome, in accordance with procedures notified by the Governor and with the written permission of the organiser of the assembly.
 
-#### 6. Exemptions from the low flying prohibitions[^key-4064c62aa08e9fc236eacd231e62c02c]
+#### 6. Exemptions from the low flying prohibitions[^c-4064c62aa08e9fc236eacd231e62c02c]
 
 The exemptions from the low flying prohibitions are as follows—
 
@@ -162,7 +162,7 @@ The exemptions from the low flying prohibitions are as follows—
 
 ### SECTION 4 — GENERAL FLIGHT RULES
 
-#### 7. Weather reports and forecasts[^key-ee5f359b2eb451155ecad1d8e311a604]
+#### 7. Weather reports and forecasts[^c-ee5f359b2eb451155ecad1d8e311a604]
 
 (1) Subject to paragraph (2), immediately before an aircraft flies the pilot-in-command of the aircraft must examine the current reports and forecasts of the weather conditions on the proposed flight path, in order to determine whether Instrument Meteorological Conditions prevail, or are likely to prevail, during any part of the flight.
 
@@ -175,7 +175,7 @@ The exemptions from the low flying prohibitions are as follows—
 
 (4) Paragraph (3) does not apply if, before take-off, the pilot-in-command of the aircraft has obtained permission from the air traffic control unit at the aerodrome of destination to enter the aerodrome traffic zone.
 
-#### 8. Avoiding aerial collisions[^key-902551ca2c80a2fec76b571c78347faf]
+#### 8. Avoiding aerial collisions[^c-902551ca2c80a2fec76b571c78347faf]
 
 (1) Notwithstanding that a flight is being made with air traffic control clearance it remains the duty of the pilot-in-command of an aircraft to take all possible measures to ensure that the aircraft does not collide with any other aircraft.
 
@@ -183,7 +183,7 @@ The exemptions from the low flying prohibitions are as follows—
 
 (3) Subject to paragraph (7), aircraft must not fly in formation unless the pilots-in-command of the aircraft have agreed to do so.
 
-(3A)[^key-1ea9651a7482f5031f36f65e7efe0c15] In controlled airspace, aircraft must not fly in formation except where—
+(3A)[^c-1ea9651a7482f5031f36f65e7efe0c15] In controlled airspace, aircraft must not fly in formation except where—
 
 - (a) the pilots-in-command of the aircraft flying in formation designate a flight leader for the formation (“the flight leader”) before the formation flight;
 - (b) in relation to navigation and position reporting, all aircraft flying in formation fly as if each were a single aircraft;
@@ -191,17 +191,17 @@ The exemptions from the low flying prohibitions are as follows—
 - (d) the aircraft maintain a distance between the aircraft in the formation of not more than 1 km laterally and 30 metres vertically from the flight leader; and
 - (e) the aircraft comply with any other conditions for the formation flight which are imposed by the air traffic control unit for the relevant airspace.
 
-(4) An aircraft which is obliged by this Section to give way to another aircraft must avoid passing over or under the other aircraft, or crossing ahead of it, unless passing well clear of it , taking into account the effects of aircraft wake turbulence[^key-be8443e6ee350f774b59f22eb5b9da51].
+(4) An aircraft which is obliged by this Section to give way to another aircraft must avoid passing over or under the other aircraft, or crossing ahead of it, unless passing well clear of it , taking into account the effects of aircraft wake turbulence[^c-be8443e6ee350f774b59f22eb5b9da51].
 
 (5) Subject to paragraph (7), an aircraft which has the right-of-way under this rule must maintain its heading and speed.
 
 (6) For the purposes of this rule a glider and a flying machine which is towing it are considered to be a single aircraft under the command of the pilot-in-command of the flying machine.
 
-(7) Paragraphs (3), (3A) and (5)[^key-27fedbe809fa3f495f8925890a6644b4] do not apply to an aircraft flying under and in accordance with the terms of a police air operator’s certificate.
+(7) Paragraphs (3), (3A) and (5)[^c-27fedbe809fa3f495f8925890a6644b4] do not apply to an aircraft flying under and in accordance with the terms of a police air operator’s certificate.
 
 (8) Nothing in these Rules relieves the pilot-in-command of an aircraft from the responsibility of taking such action, including collision avoidance manoeuvres based on resolution advisories provided by ACAS equipment, as will best avert a collision.
 
-#### 9. Converging[^key-001ec313ec9eaea021e0aa99aaf19c5b]
+#### 9. Converging[^c-001ec313ec9eaea021e0aa99aaf19c5b]
 
 (1) Subject to paragraphs (2) and (3) and to rules 10 and 11, aircraft in the air must give way to other, converging aircraft as follows—
 
@@ -213,11 +213,11 @@ The exemptions from the low flying prohibitions are as follows—
 
 (3) Subject to paragraph (2), when two aircraft are converging in the air at approximately the same altitude, the aircraft which has the other on its right must give way.
 
-#### 10. Approaching head-on[^key-e086d2f9263fd360a12cc553a7253c53]
+#### 10. Approaching head-on[^c-e086d2f9263fd360a12cc553a7253c53]
 
 When two aircraft are approaching head-on, or approximately so, in the air and there is a danger of collision, each must alter its heading to the right.
 
-#### 11. Overtaking[^key-c46be10a352805d38d5818b031a94cfb]
+#### 11. Overtaking[^c-c46be10a352805d38d5818b031a94cfb]
 
 (1) Subject to paragraph (3), an aircraft which is being overtaken in the air has the right-of-way and the overtaking aircraft, whether climbing, descending or in horizontal flight, must keep out of the way of the other aircraft by altering course to the right.
 
@@ -225,7 +225,7 @@ When two aircraft are approaching head-on, or approximately so, in the air and t
 
 (3) A glider overtaking another glider in the Territory may alter its course to the right or to the left.
 
-#### 11A. Water operations[^key-3bc91db5ad25fed24ecb0c31a32efd48]
+#### 11A. Water operations[^c-3bc91db5ad25fed24ecb0c31a32efd48]
 
 (1) This rule applies to aircraft when on the water.
 
@@ -241,7 +241,7 @@ When two aircraft are approaching head-on, or approximately so, in the air and t
 
 (7) Between sunset and sunrise, or during such other hours as the Governor may prescribe, an aircraft must display lights in accordance with the International Regulations for Preventing Collisions at Sea 1972 published by the International Maritime Organization or, if it is not practical to do so, it must display similar lights and in a similar position.
 
-#### 12. Flight in the vicinity of an aerodrome[^key-d08934653b558a20c2d8f02be9ba8679]
+#### 12. Flight in the vicinity of an aerodrome[^c-d08934653b558a20c2d8f02be9ba8679]
 
 (1) Subject to paragraph (2), a flying machine, glider or airship flying in the vicinity of what the pilot-in-command of the aircraft knows, or ought reasonably to know, to be an aerodrome must—
 
@@ -250,7 +250,7 @@ When two aircraft are approaching head-on, or approximately so, in the air and t
 
 (2) Paragraph (1) does not apply if the air traffic control unit at that aerodrome authorises otherwise.
 
-#### 13. Order of landing[^key-ea908797191d90103e3fc233a2528db5]
+#### 13. Order of landing[^c-ea908797191d90103e3fc233a2528db5]
 
 (1) An aircraft landing or on its final approach to land has the right-of-way over other aircraft in flight or on the ground or water.
 
@@ -264,7 +264,7 @@ When two aircraft are approaching head-on, or approximately so, in the air and t
 
 (6) Subject to paragraphs (2), (3) and (4), if two or more flying machines, gliders or airships are approaching any place for the purpose of landing, the aircraft at the lower altitude has the right-of-way.
 
-#### 14. Landing and take-off[^key-48ff08c647e5dccb6578a6b275988adc]
+#### 14. Landing and take-off[^c-48ff08c647e5dccb6578a6b275988adc]
 
 (1) A flying machine, glider or airship must take off and land in the direction indicated by the ground signals or, if no such signals are displayed, into the wind, unless good aviation practice demands otherwise.
 
@@ -280,20 +280,20 @@ When two aircraft are approaching head-on, or approximately so, in the air and t
 
 (5) Paragraphs (2) and (4) do not apply if the air traffic control unit at the aerodrome authorises the flying machine or glider otherwise.
 
-#### 15. Aerobatic manoeuvres[^key-1261762fccf27f4bcc123ce1337e6fa9]
+#### 15. Aerobatic manoeuvres[^c-1261762fccf27f4bcc123ce1337e6fa9]
 
 An aircraft must not carry out any aerobatic manoeuvre—
 
 - (a) over the congested area of any city, town or settlement; or
 - (b) within controlled airspace except with the consent of the appropriate air traffic control unit.
 
-#### 16. Right-hand traffic rule[^key-e88cbe7bf02e0f181dd395c4b87c87d1]
+#### 16. Right-hand traffic rule[^c-e88cbe7bf02e0f181dd395c4b87c87d1]
 
 (1) Subject to paragraph (2), an aircraft which is flying within the Territory with the surface in sight and following a road, railway, canal or coastline, or any other line of landmarks, must keep them on its left.
 
 (2) Paragraph (1) does not apply to an aircraft flying within controlled airspace in accordance with instructions given by the appropriate air traffic control unit.
 
-#### 17. Notification of arrival and departure[^key-44b457e5502edda5090a9e7369a66936]
+#### 17. Notification of arrival and departure[^c-44b457e5502edda5090a9e7369a66936]
 
 (1) If the pilot-in-command of an aircraft has caused notice of the intended arrival of the aircraft at an aerodrome to be given to the air traffic control unit or other authority at that aerodrome, that pilot must ensure that the unit or authority is informed as quickly as possible of—
 
@@ -307,7 +307,7 @@ An aircraft must not carry out any aerobatic manoeuvre—
 - (a) any flight within or into designated areas, or along designated routes, when so required by the appropriate aeronautical authorities; or
 - (b) any flight across international borders.
 
-#### 18. Flight in Class A airspace[^key-67c4b5bf302a64c64db7f6b3d30549f1]
+#### 18. Flight in Class A airspace[^c-67c4b5bf302a64c64db7f6b3d30549f1]
 
 (1) Subject to paragraphs (2) and (3), the pilot-in-command of an aircraft flying in Visual Meteorological Conditions in Class A airspace must comply with rules 35, 36 and 37 as if the flight were an IFR flight.
 
@@ -315,7 +315,7 @@ An aircraft must not carry out any aerobatic manoeuvre—
 
 (3) Paragraph (1) does not apply to the pilot-in-command of a glider which is flying in Class A airspace which is notified for the purpose of this paragraph if the glider is flown in accordance with such conditions as may also be notified for that purpose.
 
-#### 19. Flight in Class C Airspace[^key-915a095c3c46708b829fb6893f2166fe]
+#### 19. Flight in Class C Airspace[^c-915a095c3c46708b829fb6893f2166fe]
 
 (1) Subject to paragraphs (2) and (3) the pilot-in-command of an aircraft flying in Visual Meteorological Conditions in Class C airspace above flight level 195, or along a Class C ATS route at any level, must comply with rules 35, 36 and 37 as if the flight were an IFR flight.
 
@@ -323,11 +323,11 @@ An aircraft must not carry out any aerobatic manoeuvre—
 
 (3) Paragraph (1) does not apply to the pilot-in-command of an aircraft which is flying in accordance with an authorisation issued by the Governor.
 
-#### 20. Choice of VFR or IFR[^key-abb6ea41a10d98cd264ff93f716c178f]
+#### 20. Choice of VFR or IFR[^c-abb6ea41a10d98cd264ff93f716c178f]
 
 Subject to rule 28A, an aircraft must always be flown in accordance with either the Visual Flight Rules or the Instrument Flight Rules.
 
-#### 21. Speed limitations[^key-7fd6e54da6cd549a6fefdcc05feb5b32]
+#### 21. Speed limitations[^c-7fd6e54da6cd549a6fefdcc05feb5b32]
 
 (1) Subject to paragraph (2), an aircraft must not fly below flight level 100 at a speed which, according to its air speed indicator, is more than 250 knots.
 
@@ -342,7 +342,7 @@ Subject to rule 28A, an aircraft must always be flown in accordance with either 
 
 (3) The Governor may grant a permission for the purpose of paragraph (2)(f) either generally or in respect of any aircraft or class of aircraft.
 
-#### 22. Use of radio navigation aids[^key-a3edbb608df3421e7835be1059dc0142]
+#### 22. Use of radio navigation aids[^c-a3edbb608df3421e7835be1059dc0142]
 
 (1) Subject to paragraph (2), the pilot-in-command of an aircraft must not make use of any radio navigation aid without complying with such restrictions and procedures as may be notified in relation to that aid.
 
@@ -351,7 +351,7 @@ Subject to rule 28A, an aircraft must always be flown in accordance with either 
 - (a) is required to comply with rules 35 and 36; or
 - (b) is otherwise authorised by an air traffic control unit.
 
-#### 23. Simulated instrument flight[^key-bddb43c992035a06c76a9c6e5438aaeb]
+#### 23. Simulated instrument flight[^c-bddb43c992035a06c76a9c6e5438aaeb]
 
 (1) An aircraft must not be flown in simulated instrument flight conditions unless the conditions in paragraph (2) are met.
 
@@ -361,30 +361,30 @@ Subject to rule 28A, an aircraft must always be flown in accordance with either 
 - (b) a qualified pilot occupies a control seat to act as safety pilot for the person who is flying under simulated instrument conditions; and
 - (c) if the safety pilot’s field of vision is not adequate, a competent observer in communication with the safety pilot must occupy a position in the aircraft from which that person’s field of vision adequately supplements that of the safety pilot.
 
-#### 24. Practice instrument approaches[^key-07528424b77263cef6240555389c7bf7]
+#### 24. Practice instrument approaches[^c-07528424b77263cef6240555389c7bf7]
 
 (1) An aircraft must not carry out an instrument approach practice within the Territory if it is flying in Visual Meteorological Conditions unless the conditions in paragraph (2) are met.
 
 (2) The conditions referred to in paragraph (1) are as follows—
 
 - (a) the appropriate air traffic control unit has previously been informed that the flight is to be made for the purpose of instrument approach practice; and
-- (b) if the flight is [^key-7c7ce199f6f311e3ca4303a8d37cf642]... being carried out in simulated instrument flight conditions, a competent observer is carried in such a position in the aircraft that the observer has an adequate field of vision and can readily communicate with the pilot flying the aircraft.
+- (b) if the flight is [^c-7c7ce199f6f311e3ca4303a8d37cf642]... being carried out in simulated instrument flight conditions, a competent observer is carried in such a position in the aircraft that the observer has an adequate field of vision and can readily communicate with the pilot flying the aircraft.
 
 ### SECTION 5 — VISUAL FLIGHT RULES
 
-#### 25. Applicability of the Visual Flight Rules[^key-d17ef0a3e98c3841bd67d671353b26bc]
+#### 25. Applicability of the Visual Flight Rules[^c-d17ef0a3e98c3841bd67d671353b26bc]
 
 (1) Rules 27, 29 and 30 are the Visual Flight Rules which apply within controlled airspace.
 
 (2) Rule 28 is the Visual Flight Rule which applies outside controlled airspace.
 
-(3)[^key-a872e27f6b4b59da43689f5ff3bc8abf] Rules 28A, 29 and 30 are the Visual Flight Rules which apply at night.
+(3)[^c-a872e27f6b4b59da43689f5ff3bc8abf] Rules 28A, 29 and 30 are the Visual Flight Rules which apply at night.
 
-#### 26. Reported visibility[^key-11348fc7931dd25c04b4ca2be534370b]
+#### 26. Reported visibility[^c-11348fc7931dd25c04b4ca2be534370b]
 
 For the purposes of an aircraft taking off from or approaching to land at an aerodrome within Class B, Class C, or Class D airspace, the visibility, if any, communicated to the pilot-in-command of the aircraft by the appropriate air traffic control unit is deemed to be the flight visibility for the time being.
 
-#### 27. Flight within controlled airspace[^key-899e245f7979fd304ac848a663654e19]
+#### 27. Flight within controlled airspace[^c-899e245f7979fd304ac848a663654e19]
 
 (1) Subject to paragraphs (2) and (3), an aircraft flying within Class B, Class C, Class D or Class E airspace—
 
@@ -403,7 +403,7 @@ For the purposes of an aircraft taking off from or approaching to land at an aer
 
 (3) Paragraph (1) does not apply to a helicopter that is air-taxiing or conducting manoeuvres in accordance with rule 6(i).
 
-#### 28. Flight outside controlled airspace[^key-766489233e31321dbe1e01a55730787f]
+#### 28. Flight outside controlled airspace[^c-766489233e31321dbe1e01a55730787f]
 
 (1) An aircraft flying outside controlled airspace at or above flight level 100 must remain at least 1,500 metres horizontally and 1,000 feet vertically away from cloud and in a flight visibility of at least 8 km.
 
@@ -424,36 +424,36 @@ For the purposes of an aircraft taking off from or approaching to land at an aer
 
 (5) Paragraphs (1) and (2) do not apply to a helicopter which is air-taxiing or conducting manoeuvres in accordance with rule 6(i).
 
-#### 28A. Visual Flight Rules at night[^key-545cfce4ba64ea342acc0a6bfdad70d3]
+#### 28A. Visual Flight Rules at night[^c-545cfce4ba64ea342acc0a6bfdad70d3]
 
 An aircraft flying at night in the Territory may be flown—
 
 - (a) on a Special VFR flight within a control zone; or
 - (b) in accordance with any relevant supplementary Rules of the Air made by the Governor under article 67(1) which are in force in the Territory.
 
-#### 29. VFR flight plan and air traffic control clearance in Class B, Class C or Class D airspace[^key-e6f8494727b97704d237b350d1881eb3]
+#### 29. VFR flight plan and air traffic control clearance in Class B, Class C or Class D airspace[^c-e6f8494727b97704d237b350d1881eb3]
 
-(1) Subject to rule 31, before an aircraft flies within Class B, Class C or Class D airspace , or at night,[^key-8a0aa01bbce6f748d7d2b59105205eec] during the notified hours of watch of the appropriate air traffic control unit, the pilot-in-command of the aircraft must—
+(1) Subject to rule 31, before an aircraft flies within Class B, Class C or Class D airspace , or at night,[^c-8a0aa01bbce6f748d7d2b59105205eec] during the notified hours of watch of the appropriate air traffic control unit, the pilot-in-command of the aircraft must—
 
 - (a) cause to be communicated to the appropriate air traffic control unit a flight plan which complies with paragraphs (2) and (3) (as appropriate); and
 - (b) obtain an air traffic control clearance to fly within that airspace.
 
 (2) The flight plan must contain such particulars of the flight as may be necessary to enable the air traffic control unit to issue a clearance and for search and rescue purposes.
 
-(3) The flight plan required for a flight within Territory with reduced vertical separation minimum airspace must also state whether or not the aircraft is equipped with height keeping systems, as required by article 92 or 93[^key-903de55bede4d31584f20ffd95a8350a] of this Order.
+(3) The flight plan required for a flight within Territory with reduced vertical separation minimum airspace must also state whether or not the aircraft is equipped with height keeping systems, as required by article 92 or 93[^c-903de55bede4d31584f20ffd95a8350a] of this Order.
 
 (4) The pilot-in-command of an aircraft must not cause a flight plan to be communicated to the appropriate air traffic control unit for VFR flight in Class C airspace above FL195 or along a Class C ATS route at any level unless authorised to do so by the Governor.
 
-#### 30. Maintaining continuous watch and complying with air traffic control instructions[^key-66c36d6c6b9258b9b8a50606ef40f1de]
+#### 30. Maintaining continuous watch and complying with air traffic control instructions[^c-66c36d6c6b9258b9b8a50606ef40f1de]
 
 (1) Subject to rule 31, whilst flying within Class B, Class C or Class D airspace during the notified hours of watch of the appropriate air traffic control unit, the pilot-in-command of an aircraft must—
 
 - (a) cause a continuous watch to be maintained on the notified radio frequency appropriate to the circumstances; and
 - (b) comply with any instructions which the appropriate air traffic control unit may give.
 
-#### 31. Exceptions to rules 29 and 30[^key-317a133b587f3fdf7070a6623fbf9f9c]
+#### 31. Exceptions to rules 29 and 30[^c-317a133b587f3fdf7070a6623fbf9f9c]
 
-(1) Except at night, rule[^key-79963838e2275f8a2ef4ac31c6d71918] 29 does not apply if the aircraft has been authorised otherwise by the appropriate air traffic control unit.
+(1) Except at night, rule[^c-79963838e2275f8a2ef4ac31c6d71918] 29 does not apply if the aircraft has been authorised otherwise by the appropriate air traffic control unit.
 
 (2) Rules 29(1) and 30 do not apply to any glider flying or intending to fly in Class B airspace notified for the purpose of this paragraph.
 
@@ -472,15 +472,15 @@ An aircraft flying at night in the Territory may be flown—
 
 ### SECTION 6 — INSTRUMENT FLIGHT RULES
 
-#### 32. Instrument Flight Rules[^key-da458e4568bb2d8c36a79e4f847d7eae]
+#### 32. Instrument Flight Rules[^c-da458e4568bb2d8c36a79e4f847d7eae]
 
 (1) Rules 33 and 34 are the Instrument Flight Rules which apply both within and outside controlled airspace.
 
 (2) Rules 35, 36 and 37 are the Instrument Flight Rules which apply outside controlled airspace.
 
-#### 33. Minimum height[^key-180f6d7f0d033201e67745ba56b19ad5]
+#### 33. Minimum height[^c-180f6d7f0d033201e67745ba56b19ad5]
 
-(1) Subject to paragraphs (2) and (3), an aircraft must not fly at a height of less than 1,000 feet above the highest obstacle within a distance of 5 nautical miles of the aircraft or, when over high terrain or in mountainous areas, at a height of less than 2000 feet,[^key-840332a7f5dd4fef57bbdaf64cdf6ba9] unless—
+(1) Subject to paragraphs (2) and (3), an aircraft must not fly at a height of less than 1,000 feet above the highest obstacle within a distance of 5 nautical miles of the aircraft or, when over high terrain or in mountainous areas, at a height of less than 2000 feet,[^c-840332a7f5dd4fef57bbdaf64cdf6ba9] unless—
 
 - (a) it is necessary for the aircraft to do so in order to take off or land;
 - (b) the aircraft flies on a route notified for the purposes of this rule;
@@ -491,9 +491,9 @@ An aircraft flying at night in the Territory may be flown—
 
 (3) Paragraph (1) does not apply to a helicopter that is air-taxiing or conducting manoeuvres in accordance with rule 6(i).
 
-#### 34. ... semi-circular rule[^key-203578291d72168d903f7dbd714548de][^key-145024846b3693cd475838634186fc01]
+#### 34. ... semi-circular rule[^c-203578291d72168d903f7dbd714548de][^c-145024846b3693cd475838634186fc01]
 
-(1) Subject to paragraphs (2) and (3), an aircraft in level flight above 3,000 feet above mean sea level or above the appropriate transition altitude, whichever is the higher, must be flown at a level appropriate to its magnetic track, in accordance with Table 1 [^key-ffd8b7c01ebbcd2e42b36a23a6c32bb0]....
+(1) Subject to paragraphs (2) and (3), an aircraft in level flight above 3,000 feet above mean sea level or above the appropriate transition altitude, whichever is the higher, must be flown at a level appropriate to its magnetic track, in accordance with Table 1 [^c-ffd8b7c01ebbcd2e42b36a23a6c32bb0]....
 
 (2) For the purposes of paragraph (1), the level of flight must be measured by an altimeter set—
 
@@ -508,7 +508,7 @@ An aircraft flying at night in the Territory may be flown—
 
 (4) For the purposes of this rule “transition altitude” means the altitude which is notified in relation to flights over notified areas.
 
-Table 1[^key-ba05d0c5003c7bc6702eef839215fd2c]
+Table 1[^c-ba05d0c5003c7bc6702eef839215fd2c]
 
 Semi-circular rule
 
@@ -546,7 +546,7 @@ Semi-circular rule
 </tbody>
 </table>
 
-#### 35. Flight plan and air traffic control clearance[^key-c10a7bbdf1a4ca7134a5f09e0ccf2d6d]
+#### 35. Flight plan and air traffic control clearance[^c-c10a7bbdf1a4ca7134a5f09e0ccf2d6d]
 
 (1) Before an aircraft either takes off from a point within any controlled airspace or otherwise flies within any controlled airspace the pilot-in-command of the aircraft must—
 
@@ -556,11 +556,11 @@ Semi-circular rule
 (2) The flight plan must—
 
 - (a) contain such particulars of the intended flight as may be necessary to enable the air traffic control unit to issue an air traffic control clearance and for search and rescue purposes; and
-- (b) for a flight within Territory reduced vertical separation minimum airspace, also state whether or not the aircraft is equipped with height keeping systems as required by article[^key-fbbba9fdaf786f21bf7acc4803dbf1d5] 92 or 93 of this Order.
+- (b) for a flight within Territory reduced vertical separation minimum airspace, also state whether or not the aircraft is equipped with height keeping systems as required by article[^c-fbbba9fdaf786f21bf7acc4803dbf1d5] 92 or 93 of this Order.
 
 (3) Unless the pilot in command of the aircraft has requested the appropriate air traffic control unit to cancel the flight plan, that pilot must inform that unit immediately the aircraft lands within or leaves the controlled airspace.
 
-#### 36. Compliance with air traffic control clearance and notified procedures[^key-6b83021fae8f2699c34ce3211af1975f]
+#### 36. Compliance with air traffic control clearance and notified procedures[^c-6b83021fae8f2699c34ce3211af1975f]
 
 (1) Subject to paragraph (2), the pilot-in-command of the aircraft must fly in conformity with—
 
@@ -575,11 +575,11 @@ Semi-circular rule
 
 (3) If any deviation is made from the provisions of paragraph (2) for the purpose of avoiding immediate danger the pilot-in-command of the aircraft must inform the appropriate air traffic control unit of the deviation as soon as possible.
 
-#### 37. Position reports[^key-20b1009841d0a5189188cea6dad5b329]
+#### 37. Position reports[^c-20b1009841d0a5189188cea6dad5b329]
 
 The pilot-in-command of an aircraft in IFR flight who flies in or is intending to enter controlled airspace must report to the appropriate air traffic control unit the time, position and level of the aircraft at such reporting points or at such intervals of time as may be notified for this purpose or as may be directed by the air traffic control unit.
 
-#### 37A. Co-ordinated Universal Time, time checks and time accuracy[^key-7a156a9c4a191cae9ef5722a54376515]
+#### 37A. Co-ordinated Universal Time, time checks and time accuracy[^c-7a156a9c4a191cae9ef5722a54376515]
 
 (1) When communicating the time with an air traffic control unit a pilot must use Co-ordinated Universal Time (“UTC”), expressed in hours, minutes and seconds, as used in the 24 hour clock.
 
@@ -609,11 +609,11 @@ The pilot-in-command of an aircraft in IFR flight who flies in or is intending t
 
 ### SECTION 7 — AERODROME TRAFFIC RULES
 
-#### 38. Application of aerodrome traffic rules[^key-36ed86e088890599be9a22d951e1bba1]
+#### 38. Application of aerodrome traffic rules[^c-36ed86e088890599be9a22d951e1bba1]
 
 (1) The rules in this Section which expressly apply to flying machines must also be observed, so far as is practicable, by all other aircraft.
 
-#### 39. Visual signals[^key-6220bc9275dc797cd8997232033a8e6c]
+#### 39. Visual signals[^c-6220bc9275dc797cd8997232033a8e6c]
 
 (1) Subject to paragraph (2), the pilot-in-command of a flying machine on, or in the pattern of traffic flying at, an aerodrome must—
 
@@ -622,14 +622,14 @@ The pilot-in-command of an aircraft in IFR flight who flies in or is intending t
 
 (2) The pilot-in-command of a flying machine is not required to obey such signals if it is inadvisable to do so in the interests of safety.
 
-#### 40. Movement of aircraft on aerodromes[^key-50b4e45b132b4347fa2e83711e6c68d2]
+#### 40. Movement of aircraft on aerodromes[^c-50b4e45b132b4347fa2e83711e6c68d2]
 
 An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an aerodrome without the permission of either—
 
 - (a) the person in charge of the aerodrome; or
 - (b) the air traffic control unit or aerodrome flight information service unit notified as being on watch at the aerodrome.
 
-#### 41. Access to and movement of persons and vehicles on aerodromes[^key-ad51f90a6be2239b702aa5ff4e75581d]
+#### 41. Access to and movement of persons and vehicles on aerodromes[^c-ad51f90a6be2239b702aa5ff4e75581d]
 
 (1) Unless there is a public right of way over it, a person or vehicle must—
 
@@ -643,7 +643,7 @@ An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an
 
 (3) Any permission granted for the purposes of this rule may be granted whether in respect of persons or vehicles generally, or in respect of any particular person or vehicle or any class of person or vehicle.
 
-#### 42. Right of way on the ground[^key-d821fbd01e60412e0702fe7ceee65334]
+#### 42. Right of way on the ground[^c-d821fbd01e60412e0702fe7ceee65334]
 
 (1) This rule applies to flying machines and vehicles on any part of a land aerodrome provided for the use of aircraft.
 
@@ -655,7 +655,7 @@ An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an
 
 (5) Vehicles which are not towing aircraft must give way to aircraft.
 
-#### 43. Action to be taken in case of danger of collision on the ground[^key-49340f02da7ac62241809cfc1e521338]
+#### 43. Action to be taken in case of danger of collision on the ground[^c-49340f02da7ac62241809cfc1e521338]
 
 (1) Subject to rules 42 and 14(3), this rule applies if there is any danger of collision between two flying machines on the ground.
 
@@ -667,7 +667,7 @@ An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an
 
 (5) A flying machine which is overtaking another flying machine must keep out of the way of the other flying machine by altering its course to the left until that other flying machine has been passed and is clear, notwithstanding any change in the relative positions of the two flying machines.
 
-(5A)[^key-1bd8102e6421d7c3eb8be575a949e04a] A flying machine taxiing on the manoeuvring area must stop and hold at—
+(5A)[^c-1bd8102e6421d7c3eb8be575a949e04a] A flying machine taxiing on the manoeuvring area must stop and hold at—
 
 - (a) runway-holding positions, until otherwise authorised by the air traffic control unit; and
 - (b) lighted “stop” bars, until the stop lights are turned off.
@@ -677,7 +677,7 @@ An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an
 - (a) overtake another vehicle on the right hand side of that vehicle ; and
 - (b) keep to the left when passing another vehicle which is approaching head-on or approximately so.
 
-#### 44. Launching, picking up and dropping of tow ropes, etc.[^key-bea396e899be46ddc2a61c534fadb38c]
+#### 44. Launching, picking up and dropping of tow ropes, etc.[^c-bea396e899be46ddc2a61c534fadb38c]
 
 (1) Tow ropes, banners or similar articles towed by aircraft must not be launched at an aerodrome except in accordance with arrangements made with—
 
@@ -689,7 +689,7 @@ An aircraft must not taxi or air-taxi on the apron or the manoeuvring area of an
 - (a) in accordance with arrangements made with the air traffic control unit at the aerodrome or, if there is no such unit, with the person in charge of the aerodrome; or
 - (b) in the area designated by the marking described in rule 59(9), but only when the aircraft is flying in the direction appropriate for landing.
 
-#### 45. Flights within aerodrome traffic zones[^key-7ab3ff81b36a80850f2e8d0513a8136f]
+#### 45. Flights within aerodrome traffic zones[^c-7ab3ff81b36a80850f2e8d0513a8136f]
 
 (1) Paragraphs (2) and (3) apply only in relation to those aerodromes described in Column 1 of Table 3 as are notified for the purposes of this rule and at such times as are specified in Column 2 of the Table.
 
@@ -717,7 +717,7 @@ Table 3
 
 ### SECTION 8 — LIGHTS AND OTHER SIGNALS TO BE SHOWN OR MADE BY AIRCRAFT
 
-#### 46. General[^key-c9d61afdb66badf1af2c6cb60b9693ea]
+#### 46. General[^c-c9d61afdb66badf1af2c6cb60b9693ea]
 
 (1) For the purposes of this Section of the Rules the horizontal plane of a light shown by an aircraft means the plane which would be the horizontal plane passing through the source of that light if the aircraft were in level flight.
 
@@ -735,7 +735,7 @@ Table 3
 - (a) adversely affect the performance of the duties of any member of the flight crew; or
 - (b) subject an outside observer to unreasonable dazzle.
 
-#### 47. Display of lights by aircraft[^key-85e23e30d12360d8d865c55223e2692d]
+#### 47. Display of lights by aircraft[^c-85e23e30d12360d8d865c55223e2692d]
 
 (1) During the night an aircraft must—
 
@@ -751,7 +751,7 @@ Table 3
 
 (4) A helicopter to which article 96 applies may, when stationary on an offshore installation, switch off the anti-collision light required to be shown by paragraph (3)(b) as long as that is done in accordance with a procedure contained in the operations manual of the helicopter as a signal to ground personnel that it is safe to approach the helicopter for the purpose of embarkation or disembarkation of passengers or the loading or unloading of cargo.
 
-#### 48. Failure of navigation and anti-collision lights[^key-3b4c766b3602525ed7627016ddcac0a6]
+#### 48. Failure of navigation and anti-collision lights[^c-3b4c766b3602525ed7627016ddcac0a6]
 
 (1) Paragraphs (2), (3) and (4) apply to aircraft in the Territory.
 
@@ -761,7 +761,7 @@ Table 3
 
 (4) An aircraft may continue to fly during the day in the event of a failure of an anti-collision light on the flight as long as the light is repaired at the earliest practicable opportunity.
 
-#### 49. Flying machines at night[^key-47444b19b99e0e482c60eef01dbeaaad]
+#### 49. Flying machines at night[^c-47444b19b99e0e482c60eef01dbeaaad]
 
 (1) Subject to paragraph (6), a flying machine flying at night must display lights in accordance with paragraphs (2), (3) or (4), as appropriate.
 
@@ -796,15 +796,15 @@ must display the system of lights specified in—
 
 (6) If the lamp showing either the red or the green light specified in paragraph (5)(a) is fitted more than 2 metres from the wing tip, another lamp may be fitted at the wing tip to indicate its position showing a steady light of the same colour through the same angle.
 
-#### 50. Gliders at night[^key-3684d58c9b4e88449ad52f2f4d56ce2f]
+#### 50. Gliders at night[^c-3684d58c9b4e88449ad52f2f4d56ce2f]
 
 A glider flying at night must display either a steady red light of at least five candela, showing in all directions, or lights in accordance with rule 49(5) and (6).
 
-#### 51. Free balloons at night[^key-c11cd3b2dc8edd4b23655efff1396a8c]
+#### 51. Free balloons at night[^c-c11cd3b2dc8edd4b23655efff1396a8c]
 
 A free balloon flying at night must display a steady red light of at least five candela showing in all directions, suspended not less than 5 metres and not more than 10 metres below the basket, or if there is no basket, below the lowest part of the balloon.
 
-#### 52. Captive balloons and kites at night[^key-e924d265cbff9bd3f88ebc7f6dceb394]
+#### 52. Captive balloons and kites at night[^c-e924d265cbff9bd3f88ebc7f6dceb394]
 
 (1) A captive balloon or kite flying at night at a height exceeding 60 metres above the surface must display lights in accordance with paragraphs (2), (3) and (4).
 
@@ -821,7 +821,7 @@ A free balloon flying at night must display a steady red light of at least five 
 - (b) so that one side of the triangle must be approximately at right angles to the horizontal projection of the cable and must be delimited by two red lights; and
 - (c) so that the third light must be a green light, placed so that the triangle encloses the object on the surface to which the balloon or kite is moored.
 
-#### 53. Captive balloons and kites by day[^key-39860f10b9dc87bbf0e1a597a8670b56]
+#### 53. Captive balloons and kites by day[^c-39860f10b9dc87bbf0e1a597a8670b56]
 
 (1) A captive balloon flying by day at a height exceeding 60 metres above the surface must have attached to its mooring cable tubular streamers which are—
 
@@ -833,7 +833,7 @@ A free balloon flying at night must display a steady red light of at least five 
 - (a) tubular streamers as specified in paragraph (1); or
 - (b) at intervals of not more than 100 metres measured from the lowest part of the kite, streamers not less than 80 centimetres long and 30 centimetres wide at their widest point, marked with alternate bands of red and white 10 centimetres wide.
 
-#### 54. Airships at night[^key-cf5dca70c57c2eb164b7fad02d8e579f]
+#### 54. Airships at night[^c-cf5dca70c57c2eb164b7fad02d8e579f]
 
 (1) Except as provided in paragraph (2), an airship flying at night must display the following lights—
 
@@ -866,7 +866,7 @@ A free balloon flying at night must display a steady red light of at least five 
 - (a) a white light of at least five candela showing through angles of 110° from dead ahead to each side in the horizontal plane; and
 - (b) a white light of at least five candela showing through angles of 70° from dead astern to each side in the horizontal plane.
 
-#### 55. Airships by day[^key-a06ca4f553a6f81a623c6e02704e23e6]
+#### 55. Airships by day[^c-a06ca4f553a6f81a623c6e02704e23e6]
 
 (1) An airship flying during the day in any of the circumstances referred to in paragraph (2) must display two black balls suspended below the control car so that one is at least 4 metres above the other and at least 8 metres below the control car.
 
@@ -881,7 +881,7 @@ A free balloon flying at night must display a steady red light of at least five 
 - (a) an airship is deemed not to be under command when it is unable to execute a manoeuvre which it may be required to execute by these Rules; and
 - (b) an airship is deemed to be making way when it is not moored and is in motion.
 
-#### 56. Signals in the signal area[^key-81d78729872f5bf76baa4a453a2e9deb]
+#### 56. Signals in the signal area[^c-81d78729872f5bf76baa4a453a2e9deb]
 
 Any signals required to be displayed shall be displayed in accordance with requirements published by the Governor.
 
@@ -893,7 +893,7 @@ Any markings required to be displayed shall be displayed in accordance with requ
 
 Any markings on unpaved manoeuvring areas required to be displayed shall be displayed in accordance with requirements published by the Governor.
 
-#### 59. Signals visible from the ground[^key-9552c632f0edfb5afbd456e9e529880f]
+#### 59. Signals visible from the ground[^c-9552c632f0edfb5afbd456e9e529880f]
 
 (1) A black ball, 60 centimetres in diameter, suspended from a mast signifies that the directions of take-off and landing are not necessarily the same.
 
@@ -911,7 +911,7 @@ indicates the position at which a pilot can report to the air traffic control un
 
 (6) A rectangular green flag of not less than 60 centimetres square and not more than 66 centimetres square, flown from a mast, indicates that a right-hand circuit is in force.
 
-#### 60. Lights and pyrotechnic signals for control of aerodrome traffic[^key-26802b656e550670c18e59db340d516a]
+#### 60. Lights and pyrotechnic signals for control of aerodrome traffic[^c-26802b656e550670c18e59db340d516a]
 
 Each signal described in column 1 of Table 4 shall have the meanings respectively appearing in columns 2, 3 and 4 of the Table in the circumstances specified in the second row of the Table.
 
@@ -934,13 +934,13 @@ Table 4—Meaning Of Lights And Pyrotechnic Signals
 </tbody>
 </table>
 
-#### 61. Marshalling signals (from a marshaller to an aircraft)[^key-ec0a8c86f90b2d1dc2a7e67d189533e7]
+#### 61. Marshalling signals (from a marshaller to an aircraft)[^c-ec0a8c86f90b2d1dc2a7e67d189533e7]
 
-(1) Each of the signals for the guidance of aircraft manoeuvring on or off the ground, illustrated[^key-546b737f88f91cbd3df2fc6821282675] in column 1 of Table 5 and described in column 2[^key-b70e6ef8304cee81d91c3a72774050a7] , when given by a marshaller to an aircraft, shall have the meanings specified in column 2 of the Table.
+(1) Each of the signals for the guidance of aircraft manoeuvring on or off the ground, illustrated[^c-546b737f88f91cbd3df2fc6821282675] in column 1 of Table 5 and described in column 2[^c-b70e6ef8304cee81d91c3a72774050a7] , when given by a marshaller to an aircraft, shall have the meanings specified in column 2 of the Table.
 
-(2) By day any such signals shall be given by hand , by glove,[^key-fe77e556c30cd4b638c4c951847747a0] or by circular bats and by night or in low visibility[^key-31e54e6e73ff69a998db522143601cad] shall be given by [^key-127a21c6f87842e2e003062ef50f0855]... illuminated wands.
+(2) By day any such signals shall be given by hand , by glove,[^c-fe77e556c30cd4b638c4c951847747a0] or by circular bats and by night or in low visibility[^c-31e54e6e73ff69a998db522143601cad] shall be given by [^c-127a21c6f87842e2e003062ef50f0855]... illuminated wands.
 
-Table 5[^key-f4615c8fe677dc877a0cf24fb21b316c]
+Table 5[^c-f4615c8fe677dc877a0cf24fb21b316c]
 
 Meaning of marshalling signals (from a marshaller to an aircraft on or off the ground)
 
@@ -967,7 +967,7 @@ Meaning of marshalling signals (from a marshaller to an aircraft on or off the g
 </tbody>
 </table>
 
-#### 61A. Emergency signals by firemen and marshallers to aircraft on or off the ground[^key-9b7736b50c8211bbe3e8f04e713848ec]
+#### 61A. Emergency signals by firemen and marshallers to aircraft on or off the ground[^c-9b7736b50c8211bbe3e8f04e713848ec]
 
 (1) Each of the signals illustrated in column 1 and described in column 2 of Table 5A, when given by a fireman or marshaller to an aircraft on or off the ground, shall have the meanings given to them in column 1 of the Table.
 
@@ -996,7 +996,7 @@ Meaning of emergency signals (from a fireman or marshaller to an aircraft on or 
 
 (3) A marshaller must, when marshalling an aircraft, wear a distinctive, fluorescent identification vest.
 
-#### 62. Marshalling signals (from a pilot of an aircraft to a marshaller)[^key-2398db206298beb500ae76dbe7c89b60]
+#### 62. Marshalling signals (from a pilot of an aircraft to a marshaller)[^c-2398db206298beb500ae76dbe7c89b60]
 
 Each of the signals described in column 1 of Table 6, when made by a pilot in an aircraft to a marshaller on the ground, shall have the meanings specified in column 2 of the Table.
 
@@ -1016,7 +1016,7 @@ Table 6—Meaning of Marshalling Signals (from a pilot of an aircraft to a marsh
 </tbody>
 </table>
 
-#### 63. Distress, urgency and safety signals[^key-17b4de05c25dbcf989bbdd9cff019bd5]
+#### 63. Distress, urgency and safety signals[^c-17b4de05c25dbcf989bbdd9cff019bd5]
 
 (1) The following signals, given either together or separately before the sending of a message, signify that an aircraft is threatened by grave and imminent danger and requests immediate assistance—
 
@@ -1051,174 +1051,174 @@ Table 6—Meaning of Marshalling Signals (from a pilot of an aircraft to a marsh
 
 ## Annotations
 
-[^key-8c4cb18dab92e856e3fc82c2c1a2ca4f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-8c4cb18dab92e856e3fc82c2c1a2ca4f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-2b5d7f763b75e7a51065dd9c145abbd2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2b5d7f763b75e7a51065dd9c145abbd2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-c2ac1fafa966588d0bbd145e528d115d]: Textual amendment: [Sch. 4 rule 2A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/2A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/755/article/23/2)
+[^c-c2ac1fafa966588d0bbd145e528d115d]: Textual amendment: [Sch. 4 rule 2A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/2A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/755/article/23/2)
 
-[^key-fa94bd1e5b7102d82aeec0add0ae87d1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-fa94bd1e5b7102d82aeec0add0ae87d1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7f6b98f7122f890223a0c9e3d707f60e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/4) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-7f6b98f7122f890223a0c9e3d707f60e]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/4) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7795d41d03c240e702eb069334e291c4]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/5) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-7795d41d03c240e702eb069334e291c4]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/5) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-4064c62aa08e9fc236eacd231e62c02c]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/6) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4064c62aa08e9fc236eacd231e62c02c]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/6) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-ee5f359b2eb451155ecad1d8e311a604]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/7) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ee5f359b2eb451155ecad1d8e311a604]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/7) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-902551ca2c80a2fec76b571c78347faf]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-902551ca2c80a2fec76b571c78347faf]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/8) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-1ea9651a7482f5031f36f65e7efe0c15]: Textual amendment: [Sch. 4 rule 8(3A)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/3A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/755/article/23/3)
+[^c-1ea9651a7482f5031f36f65e7efe0c15]: Textual amendment: [Sch. 4 rule 8(3A)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/3A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/755/article/23/3)
 
-[^key-be8443e6ee350f774b59f22eb5b9da51]: Textual amendment: Words in [Sch. 4 rule 8(4)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/4) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2021/755/article/23/4)
+[^c-be8443e6ee350f774b59f22eb5b9da51]: Textual amendment: Words in [Sch. 4 rule 8(4)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/4) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2021/755/article/23/4)
 
-[^key-27fedbe809fa3f495f8925890a6644b4]: Textual amendment: Words in [Sch. 4 rule 8(7)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/7) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2021/755/article/23/5)
+[^c-27fedbe809fa3f495f8925890a6644b4]: Textual amendment: Words in [Sch. 4 rule 8(7)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/8/7) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2021/755/article/23/5)
 
-[^key-001ec313ec9eaea021e0aa99aaf19c5b]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/9) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-001ec313ec9eaea021e0aa99aaf19c5b]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/9) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-e086d2f9263fd360a12cc553a7253c53]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e086d2f9263fd360a12cc553a7253c53]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/10) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-c46be10a352805d38d5818b031a94cfb]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c46be10a352805d38d5818b031a94cfb]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/11) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-3bc91db5ad25fed24ecb0c31a32efd48]: Textual amendment: [Sch. 4 rule 11A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/11A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(6)](https://www.legislation.gov.uk/uksi/2021/755/article/23/6)
+[^c-3bc91db5ad25fed24ecb0c31a32efd48]: Textual amendment: [Sch. 4 rule 11A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/11A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(6)](https://www.legislation.gov.uk/uksi/2021/755/article/23/6)
 
-[^key-d08934653b558a20c2d8f02be9ba8679]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d08934653b558a20c2d8f02be9ba8679]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-ea908797191d90103e3fc233a2528db5]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ea908797191d90103e3fc233a2528db5]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/13) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-48ff08c647e5dccb6578a6b275988adc]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-48ff08c647e5dccb6578a6b275988adc]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/14) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-1261762fccf27f4bcc123ce1337e6fa9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/15) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-1261762fccf27f4bcc123ce1337e6fa9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/15) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-e88cbe7bf02e0f181dd395c4b87c87d1]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/16) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e88cbe7bf02e0f181dd395c4b87c87d1]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/16) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-44b457e5502edda5090a9e7369a66936]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-44b457e5502edda5090a9e7369a66936]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-67c4b5bf302a64c64db7f6b3d30549f1]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/18) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-67c4b5bf302a64c64db7f6b3d30549f1]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/18) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-915a095c3c46708b829fb6893f2166fe]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/19) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-915a095c3c46708b829fb6893f2166fe]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/19) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-abb6ea41a10d98cd264ff93f716c178f]: Textual amendment: [Sch. 4 rule 20](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/20) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(7)](https://www.legislation.gov.uk/uksi/2021/755/article/23/7)
+[^c-abb6ea41a10d98cd264ff93f716c178f]: Textual amendment: [Sch. 4 rule 20](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/20) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(7)](https://www.legislation.gov.uk/uksi/2021/755/article/23/7)
 
-[^key-7fd6e54da6cd549a6fefdcc05feb5b32]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/21) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-7fd6e54da6cd549a6fefdcc05feb5b32]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/21) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-a3edbb608df3421e7835be1059dc0142]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/22) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-a3edbb608df3421e7835be1059dc0142]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/22) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-bddb43c992035a06c76a9c6e5438aaeb]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/23) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-bddb43c992035a06c76a9c6e5438aaeb]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/23) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-07528424b77263cef6240555389c7bf7]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/24) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-07528424b77263cef6240555389c7bf7]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/24) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7c7ce199f6f311e3ca4303a8d37cf642]: Textual amendment: Word in [Sch. 4 rule 24(2)(b)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/24/2/b) omitted (10.4.2024) by virtue of [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2024/384/article/14/2)
+[^c-7c7ce199f6f311e3ca4303a8d37cf642]: Textual amendment: Word in [Sch. 4 rule 24(2)(b)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/24/2/b) omitted (10.4.2024) by virtue of [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2024/384/article/14/2)
 
-[^key-d17ef0a3e98c3841bd67d671353b26bc]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/25) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d17ef0a3e98c3841bd67d671353b26bc]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/25) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-a872e27f6b4b59da43689f5ff3bc8abf]: Textual amendment: [Sch. 4 rule 25(3)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/25/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(8)](https://www.legislation.gov.uk/uksi/2021/755/article/23/8)
+[^c-a872e27f6b4b59da43689f5ff3bc8abf]: Textual amendment: [Sch. 4 rule 25(3)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/25/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(8)](https://www.legislation.gov.uk/uksi/2021/755/article/23/8)
 
-[^key-11348fc7931dd25c04b4ca2be534370b]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/26) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-11348fc7931dd25c04b4ca2be534370b]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/26) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-899e245f7979fd304ac848a663654e19]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/27) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-899e245f7979fd304ac848a663654e19]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/27) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-766489233e31321dbe1e01a55730787f]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/28) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-766489233e31321dbe1e01a55730787f]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/28) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-545cfce4ba64ea342acc0a6bfdad70d3]: Textual amendment: [Sch. 4 rule 28A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/28A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(9)](https://www.legislation.gov.uk/uksi/2021/755/article/23/9)
+[^c-545cfce4ba64ea342acc0a6bfdad70d3]: Textual amendment: [Sch. 4 rule 28A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/28A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(9)](https://www.legislation.gov.uk/uksi/2021/755/article/23/9)
 
-[^key-e6f8494727b97704d237b350d1881eb3]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/29) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e6f8494727b97704d237b350d1881eb3]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/29) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-8a0aa01bbce6f748d7d2b59105205eec]: Textual amendment: Words in [Sch. 4 rule 29(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/29/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(10)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/10/a)
+[^c-8a0aa01bbce6f748d7d2b59105205eec]: Textual amendment: Words in [Sch. 4 rule 29(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/29/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(10)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/10/a)
 
-[^key-903de55bede4d31584f20ffd95a8350a]: Textual amendment: Words in [Sch. 4 rule 29(3)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/29/3) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(10)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/10/b)
+[^c-903de55bede4d31584f20ffd95a8350a]: Textual amendment: Words in [Sch. 4 rule 29(3)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/29/3) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(10)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/10/b)
 
-[^key-66c36d6c6b9258b9b8a50606ef40f1de]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/30) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-66c36d6c6b9258b9b8a50606ef40f1de]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/30) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-317a133b587f3fdf7070a6623fbf9f9c]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/31) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-317a133b587f3fdf7070a6623fbf9f9c]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/31) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-79963838e2275f8a2ef4ac31c6d71918]: Textual amendment: Words in [Sch. 4 rule 31(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/31/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(11)](https://www.legislation.gov.uk/uksi/2021/755/article/23/11)
+[^c-79963838e2275f8a2ef4ac31c6d71918]: Textual amendment: Words in [Sch. 4 rule 31(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/31/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(11)](https://www.legislation.gov.uk/uksi/2021/755/article/23/11)
 
-[^key-da458e4568bb2d8c36a79e4f847d7eae]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/32) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-da458e4568bb2d8c36a79e4f847d7eae]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/32) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-180f6d7f0d033201e67745ba56b19ad5]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/33) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-180f6d7f0d033201e67745ba56b19ad5]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/33) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-840332a7f5dd4fef57bbdaf64cdf6ba9]: Textual amendment: Words in [Sch. 4 rule 33(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/33/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(12)](https://www.legislation.gov.uk/uksi/2021/755/article/23/12)
+[^c-840332a7f5dd4fef57bbdaf64cdf6ba9]: Textual amendment: Words in [Sch. 4 rule 33(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/33/1) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(12)](https://www.legislation.gov.uk/uksi/2021/755/article/23/12)
 
-[^key-203578291d72168d903f7dbd714548de]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/34) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-203578291d72168d903f7dbd714548de]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/34) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-145024846b3693cd475838634186fc01]: Textual amendment: Words in [Sch. 4 rule 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34) heading omitted (30.9.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/a)
+[^c-145024846b3693cd475838634186fc01]: Textual amendment: Words in [Sch. 4 rule 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34) heading omitted (30.9.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/a)
 
-[^key-ffd8b7c01ebbcd2e42b36a23a6c32bb0]: Textual amendment: Words in [Sch. 4 rule 34(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34/1) omitted (30.9.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/b)
+[^c-ffd8b7c01ebbcd2e42b36a23a6c32bb0]: Textual amendment: Words in [Sch. 4 rule 34(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34/1) omitted (30.9.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/b)
 
-[^key-ba05d0c5003c7bc6702eef839215fd2c]: Textual amendment: [Sch. 4 rule 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34) Table 1 and 2 substituted for Sch. 4 rule 34 Table 1 (30.9.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(c)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/c)
+[^c-ba05d0c5003c7bc6702eef839215fd2c]: Textual amendment: [Sch. 4 rule 34](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/34) Table 1 and 2 substituted for Sch. 4 rule 34 Table 1 (30.9.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/755/article/1/2), [23(13)(c)](https://www.legislation.gov.uk/uksi/2021/755/article/23/13/c)
 
-[^key-c10a7bbdf1a4ca7134a5f09e0ccf2d6d]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/35) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c10a7bbdf1a4ca7134a5f09e0ccf2d6d]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/35) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-fbbba9fdaf786f21bf7acc4803dbf1d5]: Textual amendment: Word in [Sch. 4 rule 35(2)(b)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/35/2/b) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(14)](https://www.legislation.gov.uk/uksi/2021/755/article/23/14)
+[^c-fbbba9fdaf786f21bf7acc4803dbf1d5]: Textual amendment: Word in [Sch. 4 rule 35(2)(b)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/35/2/b) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(14)](https://www.legislation.gov.uk/uksi/2021/755/article/23/14)
 
-[^key-6b83021fae8f2699c34ce3211af1975f]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/36) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-6b83021fae8f2699c34ce3211af1975f]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/36) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-20b1009841d0a5189188cea6dad5b329]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/37) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-20b1009841d0a5189188cea6dad5b329]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/37) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7a156a9c4a191cae9ef5722a54376515]: Textual amendment: [Sch. 4 rules 37A-37C](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/37A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(15)](https://www.legislation.gov.uk/uksi/2021/755/article/23/15)
+[^c-7a156a9c4a191cae9ef5722a54376515]: Textual amendment: [Sch. 4 rules 37A-37C](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/37A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(15)](https://www.legislation.gov.uk/uksi/2021/755/article/23/15)
 
-[^key-36ed86e088890599be9a22d951e1bba1]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/38) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-36ed86e088890599be9a22d951e1bba1]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/38) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-6220bc9275dc797cd8997232033a8e6c]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/39) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-6220bc9275dc797cd8997232033a8e6c]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/39) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-50b4e45b132b4347fa2e83711e6c68d2]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/40) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-50b4e45b132b4347fa2e83711e6c68d2]: Commencement: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/40) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-ad51f90a6be2239b702aa5ff4e75581d]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/41) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ad51f90a6be2239b702aa5ff4e75581d]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/41) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-d821fbd01e60412e0702fe7ceee65334]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/42) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d821fbd01e60412e0702fe7ceee65334]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/42) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-49340f02da7ac62241809cfc1e521338]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/43) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-49340f02da7ac62241809cfc1e521338]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/43) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-1bd8102e6421d7c3eb8be575a949e04a]: Textual amendment: [Sch. 4 rule 43(5A)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/43/5A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(16)](https://www.legislation.gov.uk/uksi/2021/755/article/23/16)
+[^c-1bd8102e6421d7c3eb8be575a949e04a]: Textual amendment: [Sch. 4 rule 43(5A)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/43/5A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(16)](https://www.legislation.gov.uk/uksi/2021/755/article/23/16)
 
-[^key-bea396e899be46ddc2a61c534fadb38c]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/44) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-bea396e899be46ddc2a61c534fadb38c]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/44) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-7ab3ff81b36a80850f2e8d0513a8136f]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/45) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-7ab3ff81b36a80850f2e8d0513a8136f]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/45) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-c9d61afdb66badf1af2c6cb60b9693ea]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/46) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c9d61afdb66badf1af2c6cb60b9693ea]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/46) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-85e23e30d12360d8d865c55223e2692d]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/47) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-85e23e30d12360d8d865c55223e2692d]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/47) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-3b4c766b3602525ed7627016ddcac0a6]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/48) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3b4c766b3602525ed7627016ddcac0a6]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/48) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-47444b19b99e0e482c60eef01dbeaaad]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/49) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-47444b19b99e0e482c60eef01dbeaaad]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/49) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-3684d58c9b4e88449ad52f2f4d56ce2f]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/50) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3684d58c9b4e88449ad52f2f4d56ce2f]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/50) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-c11cd3b2dc8edd4b23655efff1396a8c]: Commencement: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/51) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c11cd3b2dc8edd4b23655efff1396a8c]: Commencement: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/51) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-e924d265cbff9bd3f88ebc7f6dceb394]: Commencement: [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/52) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e924d265cbff9bd3f88ebc7f6dceb394]: Commencement: [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/52) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-39860f10b9dc87bbf0e1a597a8670b56]: Commencement: [Sch. 4 para. 53](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/53) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-39860f10b9dc87bbf0e1a597a8670b56]: Commencement: [Sch. 4 para. 53](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/53) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-cf5dca70c57c2eb164b7fad02d8e579f]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/54) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-cf5dca70c57c2eb164b7fad02d8e579f]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/54) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-a06ca4f553a6f81a623c6e02704e23e6]: Commencement: [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/55) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-a06ca4f553a6f81a623c6e02704e23e6]: Commencement: [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/55) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-81d78729872f5bf76baa4a453a2e9deb]: Textual amendment: [Sch. 4 rules 56-58](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/56) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/384/article/14/3)
+[^c-81d78729872f5bf76baa4a453a2e9deb]: Textual amendment: [Sch. 4 rules 56-58](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/56) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/384/article/14/3)
 
-[^key-9552c632f0edfb5afbd456e9e529880f]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/59) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9552c632f0edfb5afbd456e9e529880f]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/59) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-26802b656e550670c18e59db340d516a]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/60) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-26802b656e550670c18e59db340d516a]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/60) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-ec0a8c86f90b2d1dc2a7e67d189533e7]: Commencement: [Sch. 4 para. 61](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/61) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ec0a8c86f90b2d1dc2a7e67d189533e7]: Commencement: [Sch. 4 para. 61](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/61) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-546b737f88f91cbd3df2fc6821282675]: Textual amendment: Word in [Sch. 4 rule 61(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(17)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/17/a)
+[^c-546b737f88f91cbd3df2fc6821282675]: Textual amendment: Word in [Sch. 4 rule 61(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(17)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/17/a)
 
-[^key-b70e6ef8304cee81d91c3a72774050a7]: Textual amendment: Words in [Sch. 4 rule 61(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(17)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/17/b)
+[^c-b70e6ef8304cee81d91c3a72774050a7]: Textual amendment: Words in [Sch. 4 rule 61(1)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/1) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(17)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/17/b)
 
-[^key-fe77e556c30cd4b638c4c951847747a0]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/a)
+[^c-fe77e556c30cd4b638c4c951847747a0]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/a)
 
-[^key-31e54e6e73ff69a998db522143601cad]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/b)
+[^c-31e54e6e73ff69a998db522143601cad]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/b)
 
-[^key-127a21c6f87842e2e003062ef50f0855]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(c)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/c)
+[^c-127a21c6f87842e2e003062ef50f0855]: Textual amendment: Words in [Sch. 4 rule 61(2)](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61/2) omitted (22.7.2021) by virtue of [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(18)(c)](https://www.legislation.gov.uk/uksi/2021/755/article/23/18/c)
 
-[^key-f4615c8fe677dc877a0cf24fb21b316c]: Textual amendment: [Sch. 4 rule 61](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61) Table 5 substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(19)](https://www.legislation.gov.uk/uksi/2021/755/article/23/19)
+[^c-f4615c8fe677dc877a0cf24fb21b316c]: Textual amendment: [Sch. 4 rule 61](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61) Table 5 substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(19)](https://www.legislation.gov.uk/uksi/2021/755/article/23/19)
 
-[^key-9b7736b50c8211bbe3e8f04e713848ec]: Textual amendment: [Sch. 4 rules 61A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61A), [61B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61B) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(20)](https://www.legislation.gov.uk/uksi/2021/755/article/23/20)
+[^c-9b7736b50c8211bbe3e8f04e713848ec]: Textual amendment: [Sch. 4 rules 61A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61A), [61B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/rule/61B) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [23(20)](https://www.legislation.gov.uk/uksi/2021/755/article/23/20)
 
-[^key-2398db206298beb500ae76dbe7c89b60]: Commencement: [Sch. 4 para. 62](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/62) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2398db206298beb500ae76dbe7c89b60]: Commencement: [Sch. 4 para. 62](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/62) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-17b4de05c25dbcf989bbdd9cff019bd5]: Commencement: [Sch. 4 para. 63](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/63) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-17b4de05c25dbcf989bbdd9cff019bd5]: Commencement: [Sch. 4 para. 63](https://www.legislation.gov.uk/uksi/2013/2870/schedule/4/paragraph/63) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

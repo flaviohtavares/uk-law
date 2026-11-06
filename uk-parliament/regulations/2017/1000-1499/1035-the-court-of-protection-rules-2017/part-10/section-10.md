@@ -152,7 +152,7 @@ the security must be given.
 
 (2) The conditions are—
 
-- (a)[^key-5c7613d811a3bae61fba747bbb7b5a5c] the applicant is resident out of the jurisdiction;
+- (a)[^c-5c7613d811a3bae61fba747bbb7b5a5c] the applicant is resident out of the jurisdiction;
 - (b) the applicant is a company or other body (whether incorporated inside or outside Great Britain) and there is reason to believe that it will be unable to pay the respondent's costs if ordered to do so;
 - (c) the applicant has changed address since proceedings were commenced with a view to avoiding the consequences of the litigation;
 - (d) the applicant failed to give an address, or gave an incorrect address, in the application form commencing the proceedings;
@@ -206,4 +206,4 @@ on the same grounds as it may order security for costs against an applicant unde
 
 ## Annotations
 
-[^key-5c7613d811a3bae61fba747bbb7b5a5c]: Textual amendment: Rule 10.7(2)(a) substituted (31.12.2020) by [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/31/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c7613d811a3bae61fba747bbb7b5a5c]: Textual amendment: Rule 10.7(2)(a) substituted (31.12.2020) by [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/31/2) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

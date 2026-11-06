@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Disposal of asset acquired on no gain/no loss disposal[^key-bc71cee45857c8d2b9be775d8ee26957]
+## 35A. Disposal of asset acquired on no gain/no loss disposal[^c-bc71cee45857c8d2b9be775d8ee26957]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc71cee45857c8d2b9be775d8ee26957]: Textual amendment: S. 35A inserted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/59)
+[^c-bc71cee45857c8d2b9be775d8ee26957]: Textual amendment: S. 35A inserted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 59](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/59)

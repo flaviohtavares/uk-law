@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.2. Exercise of court’s powers; duty of justices’ legal adviser[^key-74bed2b9be27daa5acb25048d20c8e2f]
+## 30.2. Exercise of court’s powers; duty of justices’ legal adviser[^c-74bed2b9be27daa5acb25048d20c8e2f]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74bed2b9be27daa5acb25048d20c8e2f]: Commencement: [Rule 30.2](https://www.legislation.gov.uk/uksi/2025/909/rule/30.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-74bed2b9be27daa5acb25048d20c8e2f]: Commencement: [Rule 30.2](https://www.legislation.gov.uk/uksi/2025/909/rule/30.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00725]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 76 was amended by section 7 of the Maintenance Enforcement Act [1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17), section 78 of, and Schedule 16 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), and section 62(3) of, and paragraphs 45 and 46 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

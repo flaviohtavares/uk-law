@@ -52,7 +52,7 @@ In accordance with section 20(3) of the Coroners and Justice Act 2009, the Secre
 
 ## Part 1 — General
 
-### 1. Citation, commencement, extent and application[^key-0c757052942ae8215b217751e8b26f29]
+### 1. Citation, commencement, extent and application[^c-0c757052942ae8215b217751e8b26f29]
 
 (1) These Regulations may be cited as the Medical Certificate of Cause of Death Regulations 2024 and come into force on 9th September 2024.
 
@@ -60,7 +60,7 @@ In accordance with section 20(3) of the Coroners and Justice Act 2009, the Secre
 
 (3) These Regulations apply in relation to a death that is required to be registered under Part 2 of the 1953 Act[^f00003].
 
-### 2. Interpretation[^key-7842230918fc4284c7fd790b4073ed84]
+### 2. Interpretation[^c-7842230918fc4284c7fd790b4073ed84]
 
 In these Regulations—
 
@@ -87,7 +87,7 @@ In these Regulations—
 
 ## Part 2 — Attending practitioner’s certificate
 
-### 3. Attending practitioner’s certificate[^key-9613cdfa48a60095583db4c3c942a328]
+### 3. Attending practitioner’s certificate[^c-9613cdfa48a60095583db4c3c942a328]
 
 (1) As soon as practicable after becoming aware of a death, an attending practitioner must—
 
@@ -115,7 +115,7 @@ In these Regulations—
 - (a) in the case of a death of a child within the period of 28 days beginning with the day of the child’s birth, the certificate in either of the forms set out in Part 1 or Part 2 of Schedule 1;
 - (b) in the case of any other death, the certificate in either of the forms set out in Part 1 or Part 2 of Schedule 2.
 
-### 4. Attending practitioner’s referral to the relevant senior coroner[^key-295ecac59b9a8b5f86637aee1b9a9409]
+### 4. Attending practitioner’s referral to the relevant senior coroner[^c-295ecac59b9a8b5f86637aee1b9a9409]
 
 (1) If at that time there are exceptional circumstances to justify doing so, a referral under regulation 3(1)(b)(ii) may be made orally, but otherwise must be in writing.
 
@@ -134,11 +134,11 @@ the relevant senior coroner must notify the attending practitioner of that decis
 
 (6) Where an attending practitioner receives a notification under paragraph (4), the practitioner must, as soon as practicable, comply with any duties of the practitioner under these Regulations that had not been complied with prior to the referral or notification of the death to the relevant senior coroner.
 
-### 5. Duties of medical examiner after receiving attending practitioner’s certificate[^key-03a9d04d42a00d345adece993ea53f8f]
+### 5. Duties of medical examiner after receiving attending practitioner’s certificate[^c-03a9d04d42a00d345adece993ea53f8f]
 
 Regulations 6 to 13 apply where an appropriate medical examiner is provided with an attending practitioner’s certificate under regulation 3(1)(c)(i) or regulation 13(2)(b)(i) in relation to a death.
 
-### 6. Medical examiner’s scrutiny of cause of death[^key-43c392436d3ac0bfd03edb73155395a0]
+### 6. Medical examiner’s scrutiny of cause of death[^c-43c392436d3ac0bfd03edb73155395a0]
 
 (1) The appropriate medical examiner must, as soon as practicable, with a view to confirming the cause of death—
 
@@ -172,7 +172,7 @@ Regulations 6 to 13 apply where an appropriate medical examiner is provided with
 
 (7) In paragraph (6), references to step relationships and in-laws are to be read in accordance with section 246 (interpretation of statutory references to stepchildren etc) of the Civil Partnership Act 2004[^f00011].
 
-### 7. Relevant attending practitioner’s duty to respond to medical examiner enquiries[^key-7f5f5441d16a91677861f6cc8d3744da]
+### 7. Relevant attending practitioner’s duty to respond to medical examiner enquiries[^c-7f5f5441d16a91677861f6cc8d3744da]
 
 (1) The relevant attending practitioner must be available, as far as reasonably practicable, to respond to any enquiries that the appropriate medical examiner may have in connection with the attending practitioner’s certificate.
 
@@ -181,7 +181,7 @@ Regulations 6 to 13 apply where an appropriate medical examiner is provided with
 - (a) the relevant attending practitioner’s response to any enquiries made under paragraph (1); and
 - (b) any discussions that take place between the examiner and the relevant attending practitioner in relation to the attending practitioner’s certificate.
 
-### 8. Medical examiner’s duty to discuss the cause of death[^key-c297b973479cebbca3387e75a7342afa]
+### 8. Medical examiner’s duty to discuss the cause of death[^c-c297b973479cebbca3387e75a7342afa]
 
 (1) The appropriate medical examiner, or someone acting on behalf of the examiner, must, as soon as practicable—
 
@@ -191,7 +191,7 @@ Regulations 6 to 13 apply where an appropriate medical examiner is provided with
 
 (2) Paragraph (1) does not apply where, in the case of a death for which a revised attending practitioner’s certificate has been completed under regulation 13(2)(a), the appropriate medical examiner or someone acting on their behalf has previously complied with the requirements of paragraph (1) in relation to the death.
 
-### 9. Medical examiner’s confirmation of cause of death[^key-b0589ce52d6440f3e343f606caeef059]
+### 9. Medical examiner’s confirmation of cause of death[^c-b0589ce52d6440f3e343f606caeef059]
 
 (1) Paragraph (2) applies where, after complying with regulations 6 and 8 in relation to a death, the appropriate medical examiner is satisfied that—
 
@@ -200,7 +200,7 @@ Regulations 6 to 13 apply where an appropriate medical examiner is provided with
 
 (2) The appropriate medical examiner must, as soon as practicable, confirm the cause of death as stated on the attending practitioner’s certificate by signing that certificate (“confirmed attending practitioner’s certificate”).
 
-### 10. Medical examiner’s referral to the relevant senior coroner[^key-e4af0d6e0b5ed7f930334aae9972b707]
+### 10. Medical examiner’s referral to the relevant senior coroner[^c-e4af0d6e0b5ed7f930334aae9972b707]
 
 (1) The appropriate medical examiner must, as soon as practicable, refer the death to the relevant senior coroner where—
 
@@ -237,7 +237,7 @@ except where that information has already been provided to the relevant senior c
 
 (8) Where an appropriate medical examiner notifies an attending practitioner under paragraph (7), the attending practitioner and appropriate medical examiner must comply with any duties under these Regulations in relation to the death that had not been complied with prior to the referral to the relevant senior coroner under paragraph (1).
 
-### 11. Confirmed attending practitioner’s certificate to be given to registrar[^key-7aecbd3bf04f5f613ec9bb494b4161db]
+### 11. Confirmed attending practitioner’s certificate to be given to registrar[^c-7aecbd3bf04f5f613ec9bb494b4161db]
 
 (1) The appropriate medical examiner must, without unreasonable delay after confirming the cause of death under regulation 9(2), notify a registrar that the cause of death has been confirmed by giving the confirmed attending practitioner’s certificate to the registrar.
 
@@ -245,7 +245,7 @@ except where that information has already been provided to the relevant senior c
 
 (3) In these Regulations, “**confirmed attending practitioner’s certificate**” means an attending practitioner’s certificate in respect of which the cause of death has been confirmed by a medical examiner in accordance with regulation 9(2).
 
-### 12. Invitation to attending practitioner to issue a revised attending practitioner’s certificate[^key-42f1147cc36cd5bf71a0426263a68f0d]
+### 12. Invitation to attending practitioner to issue a revised attending practitioner’s certificate[^c-42f1147cc36cd5bf71a0426263a68f0d]
 
 (1) Where an informant[^f00012] provides the registrar with information which leads the registrar to believe that the cause of death stated on the confirmed attending practitioner’s certificate may need to be revised, the registrar must consult an appropriate medical examiner as to any such revision.
 
@@ -254,7 +254,7 @@ except where that information has already been provided to the relevant senior c
 - (a) make available to an attending practitioner the information provided under paragraph (1), invite the attending practitioner to revise the attending practitioner’s certificate and inform the registrar of the invitation to revise; or
 - (b) inform the registrar of the examiner’s reasons not to invite the attending practitioner to revise the attending practitioner’s certificate.
 
-### 13. Revised attending practitioner’s certificate[^key-7d3454caf18c195a5af5213a6f84c05e]
+### 13. Revised attending practitioner’s certificate[^c-7d3454caf18c195a5af5213a6f84c05e]
 
 (1) Where the attending practitioner has been invited to revise the attending practitioner’s certificate under regulation 12, the attending practitioner must, as soon as practicable, review—
 
@@ -293,13 +293,13 @@ with a view to establishing the cause of death to the best of the practitioner�
 - (a) the attending practitioner’s decision not to revise the attending practitioner’s certificate and the reasons for that decision; and
 - (b) any other information the examiner considers relevant.
 
-### 14. Attending practitioner’s availability to fulfil duties[^key-6a2ad78388df0a4240ef0860079582a9]
+### 14. Attending practitioner’s availability to fulfil duties[^c-6a2ad78388df0a4240ef0860079582a9]
 
 Where an attending practitioner is unable to carry out any duties imposed on the practitioner under this Part within a reasonable time, another attending practitioner must carry out those duties.
 
 ## Part 3 — Medical examiner’s certificate
 
-### 15. Relevant senior coroner referral to a medical examiner[^key-9bb245f5b6d58e1015a1587a02d471c8]
+### 15. Relevant senior coroner referral to a medical examiner[^c-9bb245f5b6d58e1015a1587a02d471c8]
 
 (1) Where the relevant senior coroner is notified of a person’s death under regulation 2 of the Notification of Deaths Regulations 2019 because the circumstances described in regulation 3(1)(e) or (f) of those Regulations apply, the relevant senior coroner must refer that death to an appropriate medical examiner.
 
@@ -312,11 +312,11 @@ Where an attending practitioner is unable to carry out any duties imposed on the
 
 (4) In paragraph (2), references to a visiting force, and to a person’s having, at the time of death, a relevant association with a visiting force, have the same meaning given to those expressions in section 12 of the Visiting Forces Act 1952[^f00013].
 
-### 16. Duties of medical examiner after receiving referral from relevant senior coroner[^key-5a808a6f2c8402fe275d55c1b30b6b63]
+### 16. Duties of medical examiner after receiving referral from relevant senior coroner[^c-5a808a6f2c8402fe275d55c1b30b6b63]
 
 Regulations 17 to 23 apply where a death is referred by the relevant senior coroner to an appropriate medical examiner under regulation 15(1).
 
-### 17. Referral by relevant senior coroner: medical examiner’s duties[^key-fe00876be80fb5836148bb5f7a784e82]
+### 17. Referral by relevant senior coroner: medical examiner’s duties[^c-fe00876be80fb5836148bb5f7a784e82]
 
 (1) The appropriate medical examiner must, as soon as practicable and with a view to establishing the cause of death to the best of the examiner’s knowledge and belief—
 
@@ -351,7 +351,7 @@ Regulations 17 to 23 apply where a death is referred by the relevant senior coro
 
 (7) In paragraph (6), references to step relationships and in-laws are to be read in accordance with section 246 (interpretation of statutory references to stepchildren etc) of the Civil Partnership Act 2004.
 
-### 18. Medical examiner’s duty to discuss the cause of death[^key-c2308d0f6717db90704874df0ef1d72b]
+### 18. Medical examiner’s duty to discuss the cause of death[^c-c2308d0f6717db90704874df0ef1d72b]
 
 The appropriate medical examiner, or someone acting on behalf of the examiner, must, as soon as practicable—
 
@@ -359,7 +359,7 @@ The appropriate medical examiner, or someone acting on behalf of the examiner, m
 - (b) offer a person mentioned in sub-paragraph (a) an opportunity to raise any matter which might cause the relevant senior coroner to think that there is a duty to investigate the death under section 1 of the Act; and
 - (c) make a summary record of any discussion under sub-paragraphs (a) or (b) and its outcome.
 
-### 19. Preparation of medical examiner’s certificate[^key-0518ffe33a0093fbf3ecd9d94cde0f83]
+### 19. Preparation of medical examiner’s certificate[^c-0518ffe33a0093fbf3ecd9d94cde0f83]
 
 (1) Subject to regulation 20(1), the appropriate medical examiner must, as soon as practicable after complying with regulations 17 and 18 in relation to a death, prepare and sign a medical examiner’s certificate.
 
@@ -368,7 +368,7 @@ The appropriate medical examiner, or someone acting on behalf of the examiner, m
 - (a) in the case of a death of a child within the period of 28 days beginning with the day of the child’s birth, the certificate in either of the forms set out in Part 1 or Part 2 of Schedule 3;
 - (b) in the case of any other death, the certificate in either of the forms set out in Part 1 or Part 2 of Schedule 4.
 
-### 20. Medical examiner’s referral back to the relevant senior coroner[^key-3b3443a1bf0040b3534e89eccac912f2]
+### 20. Medical examiner’s referral back to the relevant senior coroner[^c-3b3443a1bf0040b3534e89eccac912f2]
 
 (1) The appropriate medical examiner must, as soon as practicable, refer the death back to the relevant senior coroner where the examiner—
 
@@ -397,17 +397,17 @@ except where that information has already been provided to the relevant senior c
 
 (7) After receiving a notification under paragraph (6), the appropriate medical examiner must comply with any duties of the examiner under regulations 17 to 19 and this regulation in relation to the death that had not been complied with prior to the referral to the relevant senior coroner under paragraph (1).
 
-### 21. Medical examiner’s certificate to be given to a registrar[^key-fb685cdf19c67697b505c59885f034be]
+### 21. Medical examiner’s certificate to be given to a registrar[^c-fb685cdf19c67697b505c59885f034be]
 
 (1) The appropriate medical examiner must, without unreasonable delay after preparing and signing a medical examiner’s certificate under regulation 19, notify a registrar that a certificate has been prepared by giving the medical examiner’s certificate to the registrar.
 
 (2) After complying with the duty in paragraph (1), the appropriate medical examiner must, without unreasonable delay, take reasonable steps to ensure that a person mentioned in regulation 18(a) is aware that the medical examiner’s certificate has been given to the registrar in accordance with paragraph (1).
 
-### 22. Registrar’s invitation to medical examiner to issue a revised medical examiner’s certificate[^key-1035ec9a3fd3ee115c3a5183aed44741]
+### 22. Registrar’s invitation to medical examiner to issue a revised medical examiner’s certificate[^c-1035ec9a3fd3ee115c3a5183aed44741]
 
 Where an informant provides the registrar with information which leads the registrar to believe that the cause of death stated on the medical examiner’s certificate may need to be revised, the registrar must provide that information to the appropriate medical examiner and invite the examiner to revise the medical examiner’s certificate.
 
-### 23. Revised medical examiner’s certificate[^key-061f4764bdff8a7e8acda3578b25ca1f]
+### 23. Revised medical examiner’s certificate[^c-061f4764bdff8a7e8acda3578b25ca1f]
 
 (1) Where an appropriate medical examiner has been invited to revise the medical examiner’s certificate under regulation 22, the examiner must, as soon as practicable and to the extent they consider appropriate, review—
 
@@ -430,7 +430,7 @@ with a view to establishing the cause of death to the best of the examiner’s k
 
 ## Part 4 — Miscellaneous provisions
 
-### 24. Manner of providing documents[^key-4ee2ffb23715590c86f55dc7b7db332a]
+### 24. Manner of providing documents[^c-4ee2ffb23715590c86f55dc7b7db332a]
 
 (1) In these Regulations any requirement to—
 
@@ -442,14 +442,14 @@ with a view to establishing the cause of death to the best of the examiner’s k
 - (a) “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00014];
 - (b) “**electronic signature**” has the meaning given in section 7(2) of that Act[^f00015].
 
-### 25. Availability of certificates and forms[^key-2a73ec1a6fa5750ad8f0c0dc7b249387]
+### 25. Availability of certificates and forms[^c-2a73ec1a6fa5750ad8f0c0dc7b249387]
 
 The Secretary of State must—
 
 - (a) make the certificates set out in Schedules 1 and 2 available to registered medical practitioners;
 - (b) make the certificates and forms set out in Schedules 3 and 4 available to medical examiners.
 
-### 25A. Supply of information[^key-1d8ed62a14908867a346bff0ed6828dd]
+### 25A. Supply of information[^c-1d8ed62a14908867a346bff0ed6828dd]
 
 (1) A supply of information under these Regulations—
 
@@ -460,7 +460,7 @@ The Secretary of State must—
 
 ## Part 5 — Transitional provision
 
-### 26. Transitional provision[^key-457b666be5dfe9fa275054f9f3f87866]
+### 26. Transitional provision[^c-457b666be5dfe9fa275054f9f3f87866]
 
 (1) Except where paragraph (2) applies, these Regulations do not apply in relation to a death which occurs before the coming into force of these Regulations.
 
@@ -486,13 +486,13 @@ Schedules
 
 Regulation 3
 
-### Part 1 — English form[^key-04113f61b10f4222aaf35268062503fd]
+### Part 1 — English form[^c-04113f61b10f4222aaf35268062503fd]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_001)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_002)
 
-### Part 2 — English and Welsh form[^key-7ecf7900af5e3ae857654f8508207b80]
+### Part 2 — English and Welsh form[^c-7ecf7900af5e3ae857654f8508207b80]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_003)
 
@@ -506,13 +506,13 @@ Regulation 3
 
 Regulation 3
 
-### Part 1 — English form[^key-bf854ef13e5f9d16176d71c910efbb30]
+### Part 1 — English form[^c-bf854ef13e5f9d16176d71c910efbb30]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_007)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_008)
 
-### Part 2 — English and Welsh Form[^key-cf4efe7fdbd1a91d14c6362db899c43b]
+### Part 2 — English and Welsh Form[^c-cf4efe7fdbd1a91d14c6362db899c43b]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_009)
 
@@ -528,13 +528,13 @@ Regulation 3
 
 Regulation 19
 
-### Part 1 — English form[^key-e99953cb1b4f9bd57ee5e089394cf210]
+### Part 1 — English form[^c-e99953cb1b4f9bd57ee5e089394cf210]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_014)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_015)
 
-### Part 2 — English and Welsh form[^key-60aad6547e6c682e29d09c37c24b8e27]
+### Part 2 — English and Welsh form[^c-60aad6547e6c682e29d09c37c24b8e27]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_epp_001.gif)
 
@@ -548,13 +548,13 @@ Regulation 19
 
 Regulation 19
 
-### Part 1 — English form[^key-309f622551083a1164d2a84305cc5bc6]
+### Part 1 — English form[^c-309f622551083a1164d2a84305cc5bc6]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_020)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_021)
 
-### Part 2 — English and Welsh form[^key-04170596609fc947c6d49e8ab766a36f]
+### Part 2 — English and Welsh form[^c-04170596609fc947c6d49e8ab766a36f]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2024/492/images/uksi_20240492_en_epp_005.gif)
 
@@ -620,11 +620,11 @@ Full impact assessments of the effect that this instrument will have on the cost
 
 [^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38). See section 27(4) for the meaning of “the appropriate Minister” .
 
-[^key-0c757052942ae8215b217751e8b26f29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/492/regulation/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-0c757052942ae8215b217751e8b26f29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/492/regulation/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00003]: Footnote: Under section 48(1) of the Coroners and Justice Act 2009, “**the 1953 Act**” means the Births and Deaths Registration Act [1953 (c. 20)](https://www.legislation.gov.uk/ukpga/1953/20).
 
-[^key-7842230918fc4284c7fd790b4073ed84]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/492/regulation/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-7842230918fc4284c7fd790b4073ed84]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/492/regulation/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00004]: Footnote: The definition of “registered medical practitioner” in Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), Schedule 1, paragraph 10 to mean “a fully registered person within the meaning of the Medical Act 1983 who holds a licence to practise under that Act”.
 
@@ -638,82 +638,82 @@ Full impact assessments of the effect that this instrument will have on the cost
 
 [^f00009]: Footnote: Section 18B was inserted by section 169(1) of the Health and Care Act 2022.
 
-[^key-9613cdfa48a60095583db4c3c942a328]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/492/regulation/3) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-9613cdfa48a60095583db4c3c942a328]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/492/regulation/3) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-295ecac59b9a8b5f86637aee1b9a9409]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/492/regulation/4) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-295ecac59b9a8b5f86637aee1b9a9409]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/492/regulation/4) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2019/1112](https://www.legislation.gov.uk/uksi/2019/1112).
 
-[^key-03a9d04d42a00d345adece993ea53f8f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/492/regulation/5) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-03a9d04d42a00d345adece993ea53f8f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/492/regulation/5) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-43c392436d3ac0bfd03edb73155395a0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/492/regulation/6) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-43c392436d3ac0bfd03edb73155395a0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/492/regulation/6) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00011]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-7f5f5441d16a91677861f6cc8d3744da]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/492/regulation/7) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-7f5f5441d16a91677861f6cc8d3744da]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/492/regulation/7) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-c297b973479cebbca3387e75a7342afa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/492/regulation/8) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-c297b973479cebbca3387e75a7342afa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/492/regulation/8) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-b0589ce52d6440f3e343f606caeef059]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/492/regulation/9) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-b0589ce52d6440f3e343f606caeef059]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/492/regulation/9) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-e4af0d6e0b5ed7f930334aae9972b707]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/492/regulation/10) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-e4af0d6e0b5ed7f930334aae9972b707]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/492/regulation/10) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-7aecbd3bf04f5f613ec9bb494b4161db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/492/regulation/11) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-7aecbd3bf04f5f613ec9bb494b4161db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/492/regulation/11) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-42f1147cc36cd5bf71a0426263a68f0d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/492/regulation/12) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-42f1147cc36cd5bf71a0426263a68f0d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/492/regulation/12) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00012]: Footnote: “Informant” is defined in section 20(7) of the Coroners and Justice Act 2009 as, in relation to a death, “the person who gave particulars concerning the death to the registrar under section 16 or 17 of the 1953 Act”.
 
-[^key-7d3454caf18c195a5af5213a6f84c05e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/492/regulation/13) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-7d3454caf18c195a5af5213a6f84c05e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/492/regulation/13) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-6a2ad78388df0a4240ef0860079582a9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/492/regulation/14) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-6a2ad78388df0a4240ef0860079582a9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/492/regulation/14) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-9bb245f5b6d58e1015a1587a02d471c8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/492/regulation/15) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-9bb245f5b6d58e1015a1587a02d471c8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/492/regulation/15) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00013]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67). Section 12(1) was amended by the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), s. 170(1), Schedule 15 paragraph 14(1). There are other amendments which are not relevant to these Regulations.
 
-[^key-5a808a6f2c8402fe275d55c1b30b6b63]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/492/regulation/16) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-5a808a6f2c8402fe275d55c1b30b6b63]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/492/regulation/16) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-fe00876be80fb5836148bb5f7a784e82]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/492/regulation/17) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-fe00876be80fb5836148bb5f7a784e82]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/492/regulation/17) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-c2308d0f6717db90704874df0ef1d72b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/492/regulation/18) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-c2308d0f6717db90704874df0ef1d72b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/492/regulation/18) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-0518ffe33a0093fbf3ecd9d94cde0f83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/492/regulation/19) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-0518ffe33a0093fbf3ecd9d94cde0f83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/492/regulation/19) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-3b3443a1bf0040b3534e89eccac912f2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/492/regulation/20) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-3b3443a1bf0040b3534e89eccac912f2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/492/regulation/20) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-fb685cdf19c67697b505c59885f034be]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/492/regulation/21) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-fb685cdf19c67697b505c59885f034be]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/492/regulation/21) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-1035ec9a3fd3ee115c3a5183aed44741]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/492/regulation/22) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-1035ec9a3fd3ee115c3a5183aed44741]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/492/regulation/22) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-061f4764bdff8a7e8acda3578b25ca1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/492/regulation/23) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-061f4764bdff8a7e8acda3578b25ca1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/492/regulation/23) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-4ee2ffb23715590c86f55dc7b7db332a]: Commencement: Reg. 24 in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-4ee2ffb23715590c86f55dc7b7db332a]: Commencement: Reg. 24 in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00014]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); the definition of “electronic communication” was amended by the Communication Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
 [^f00015]: Footnote: Section 7 was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), Schedule 3, paragraph 1.
 
-[^key-2a73ec1a6fa5750ad8f0c0dc7b249387]: Commencement: Reg. 25 in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-2a73ec1a6fa5750ad8f0c0dc7b249387]: Commencement: Reg. 25 in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-1d8ed62a14908867a346bff0ed6828dd]: Textual amendment: Reg. 25A inserted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1064/regulation/3)
+[^c-1d8ed62a14908867a346bff0ed6828dd]: Textual amendment: Reg. 25A inserted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1064/regulation/3)
 
-[^key-457b666be5dfe9fa275054f9f3f87866]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/492/regulation/26) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-457b666be5dfe9fa275054f9f3f87866]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/492/regulation/26) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
 [^f00016]: Footnote: Section 22 was substituted by paragraph 14 of Schedule 21 to the Coroners and Justice Act 2009.
 
-[^key-04113f61b10f4222aaf35268062503fd]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/1/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-04113f61b10f4222aaf35268062503fd]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/1/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-7ecf7900af5e3ae857654f8508207b80]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/1/part/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-7ecf7900af5e3ae857654f8508207b80]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/1/part/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-bf854ef13e5f9d16176d71c910efbb30]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/2/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-bf854ef13e5f9d16176d71c910efbb30]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/2/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-cf4efe7fdbd1a91d14c6362db899c43b]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/2/part/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-cf4efe7fdbd1a91d14c6362db899c43b]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/2/part/2) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-e99953cb1b4f9bd57ee5e089394cf210]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/3/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-e99953cb1b4f9bd57ee5e089394cf210]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/3/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-60aad6547e6c682e29d09c37c24b8e27]: Textual amendment: Sch. 3 Pt. 2 substituted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1064/schedule/part/1)
+[^c-60aad6547e6c682e29d09c37c24b8e27]: Textual amendment: Sch. 3 Pt. 2 substituted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1064/schedule/part/1)
 
-[^key-309f622551083a1164d2a84305cc5bc6]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/4/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
+[^c-309f622551083a1164d2a84305cc5bc6]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2024/492/schedule/4/part/1) in force at 9.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/492/regulation/1/1)
 
-[^key-04170596609fc947c6d49e8ab766a36f]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/4/part/2) substituted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/1064/schedule/part/2)
+[^c-04170596609fc947c6d49e8ab766a36f]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2024/492/schedule/4/part/2) substituted (22.11.2024) by [The Medical Certificate of Cause of Death (Amendment) Regulations 2024 (S.I. 2024/1064)](https://www.legislation.gov.uk/uksi/2024/1064), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1064/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/1064/schedule/part/2)

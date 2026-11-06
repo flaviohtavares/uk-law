@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.161. Voting rights and resolutions[^key-da0310b2ccc8e37ac6af1345ad87d67b]
+## 6.161. Voting rights and resolutions[^c-da0310b2ccc8e37ac6af1345ad87d67b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da0310b2ccc8e37ac6af1345ad87d67b]: Commencement: [Rule 6.161](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.161) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-da0310b2ccc8e37ac6af1345ad87d67b]: Commencement: [Rule 6.161](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.161) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

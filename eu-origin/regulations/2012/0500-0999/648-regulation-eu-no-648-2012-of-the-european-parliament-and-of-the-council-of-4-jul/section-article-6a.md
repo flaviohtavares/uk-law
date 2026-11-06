@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 6a. Suspension of the clearing obligation[^key-fe399ba66cdb496d6a98e963484c6f3b]
+## Article 6a. Suspension of the clearing obligation[^c-fe399ba66cdb496d6a98e963484c6f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ The Bank of England must inform the FCA of its intention to make a direction as 
 
 ## Annotations
 
-[^key-fe399ba66cdb496d6a98e963484c6f3b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2012/648/article/6)a substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2019/1416/regulation/28) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-fe399ba66cdb496d6a98e963484c6f3b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2012/648/article/6)a substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/3), [28](https://www.legislation.gov.uk/uksi/2019/1416/regulation/28) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

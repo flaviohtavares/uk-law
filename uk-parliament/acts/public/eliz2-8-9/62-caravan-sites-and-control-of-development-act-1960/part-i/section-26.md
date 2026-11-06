@@ -29,7 +29,7 @@ summary: ''
 
 Provided that admission to any land shall not be demanded as of right unless twenty-four hours notice of the intended entry has been given to the occupier.
 
-(1A)[^key-40bb335813043d7a85fb8eeebc5aec6b] A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+(1A)[^c-40bb335813043d7a85fb8eeebc5aec6b] A person may not be authorised under subsection (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
 
 (2) If it is shown to the satisfaction of a justice of the peace—
 
@@ -44,7 +44,7 @@ Provided that such a warrant shall not be issued unless the justice is satisfied
 
 (4) Every warrant granted under this section shall continue in force until the purpose for which the entry is necessary has been satisfied.
 
-(5) A person who wilfully obstructs any person acting in the execution of this section, or of a warrant under this section, shall be liable on summary conviction— *(Extent: E+W)*[^key-b0971bea927188fee0cece504df01a22]
+(5) A person who wilfully obstructs any person acting in the execution of this section, or of a warrant under this section, shall be liable on summary conviction— *(Extent: E+W)*[^c-b0971bea927188fee0cece504df01a22]
 
 - (a (Extent: E+W)) where the wilful obstruction occurs in relation to land in England, to a fine not exceeding level 4 on the standard scale; *(Extent: E+W)*
 - (b (Extent: E+W)) where the wilful obstruction occurs in relation to land in Wales, *(Extent: E+W)*
@@ -53,8 +53,8 @@ to a fine not exceeding level 1 on the standard scale[^c6635411].
 
 ## Annotations
 
-[^key-40bb335813043d7a85fb8eeebc5aec6b]: Textual amendment: S. 26(1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/5); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-40bb335813043d7a85fb8eeebc5aec6b]: Textual amendment: S. 26(1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/5); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
-[^key-b0971bea927188fee0cece504df01a22]: Textual amendment: S. 26(5)(a)(b) inserted (E.W.) (1.4.2014 for E.) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/13/2), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2); [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
+[^c-b0971bea927188fee0cece504df01a22]: Textual amendment: S. 26(5)(a)(b) inserted (E.W.) (1.4.2014 for E.) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/13/2), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2); [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
 
 [^c6635411]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)

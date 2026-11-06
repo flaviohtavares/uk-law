@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Liability relating to construction products: limitation in Scotland[^key-d4de27066c0f72659d2f540a04cb1550]
+## 151. Liability relating to construction products: limitation in Scotland[^c-d4de27066c0f72659d2f540a04cb1550]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4de27066c0f72659d2f540a04cb1550]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2022/30/section/151) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-d4de27066c0f72659d2f540a04cb1550]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2022/30/section/151) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

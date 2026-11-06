@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46U. Supply and delivery of revenue generating goods[^key-746d82fe9cbfac37d0a4b63d6a663a72][^key-7788dbe4e19a81e510e80c310a1dcf8e]
+## 46U. Supply and delivery of revenue generating goods[^c-746d82fe9cbfac37d0a4b63d6a663a72][^c-7788dbe4e19a81e510e80c310a1dcf8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-746d82fe9cbfac37d0a4b63d6a663a72]: Textual amendment: [Reg. 46U](https://www.legislation.gov.uk/uksi/2019/855/regulation/46U) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/e)
+[^c-746d82fe9cbfac37d0a4b63d6a663a72]: Textual amendment: [Reg. 46U](https://www.legislation.gov.uk/uksi/2019/855/regulation/46U) omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/e)
 
-[^key-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any action was taken, or was proposed to be taken, by or on behalf of the employee with a view to enforcing, or otherwise securing the benefit of, a right of the employee’s to which this section applies; or
 - (b) the employer was prosecuted for an offence under section 31 of the National Minimum Wage Act 1998 as a result of action taken by or on behalf of the employee for the purpose of enforcing, or otherwise securing the benefit of, a right of the employee’s to which this section applies; or
-- (c)[^key-efc00b14cb4d1a6801f900c3c085a6af] the employee qualifies, or will or might qualify, for the national minimum wage or for a particular rate of national minimum wage.
+- (c)[^c-efc00b14cb4d1a6801f900c3c085a6af] the employee qualifies, or will or might qualify, for the national minimum wage or for a particular rate of national minimum wage.
 
 (2) It is immaterial for the purposes of paragraph (a) or (b) of subsection (1) above—
 
@@ -46,4 +46,4 @@ but, for that subsection to apply, the claim to the right and, if applicable, th
 
 [^c20260791]: Textual amendment: S. 104A inserted (1.11.1998) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1998/39/section/25/1); [S.I. 1998/2574](https://www.legislation.gov.uk/uksi/1998/2574), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2574/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2574/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/1998/2574/article/3))
 
-[^key-efc00b14cb4d1a6801f900c3c085a6af]: Modification: S. 104A(1)(c) modified (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(8)](https://www.legislation.gov.uk/anaw/2014/6/section/5/8), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-efc00b14cb4d1a6801f900c3c085a6af]: Modification: S. 104A(1)(c) modified (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(8)](https://www.legislation.gov.uk/anaw/2014/6/section/5/8), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Financial penalties[^key-bd21af977f001a03004d89ed81fc0fea]
+## 115. Financial penalties[^c-bd21af977f001a03004d89ed81fc0fea]
 
 *Extent: E+W+S*
 
@@ -97,4 +97,4 @@ After section 88 of the Pensions Act 2004 insert—
 
 ## Annotations
 
-[^key-bd21af977f001a03004d89ed81fc0fea]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))
+[^c-bd21af977f001a03004d89ed81fc0fea]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))

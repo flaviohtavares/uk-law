@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240A. Professions and vocations[^key-0bc9184a8f38bc9b05cf24d7792ebfd4]
+## 240A. Professions and vocations[^c-0bc9184a8f38bc9b05cf24d7792ebfd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of this Chapter apply to professions and vocations as they apply 
 
 ## Annotations
 
-[^key-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)
+[^c-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)

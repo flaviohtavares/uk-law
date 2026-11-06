@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Right to appeal against imposition of civil penalty[^c2201947][^key-cc92b2bd6a943173dd04fd85236ea7d9]
+## 17. Right to appeal against imposition of civil penalty[^c2201947][^c-cc92b2bd6a943173dd04fd85236ea7d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2201947]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/4/section/17) partly in force; [s. 17(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/17/3) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-cc92b2bd6a943173dd04fd85236ea7d9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/4/section/17) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-cc92b2bd6a943173dd04fd85236ea7d9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2014/4/section/17) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 464ZB. Section 464ZA: supplementary[^key-f7b554aff89a36810d0f20be414321ef]
+## 464ZB. Section 464ZA: supplementary[^c-f7b554aff89a36810d0f20be414321ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7b554aff89a36810d0f20be414321ef]: Textual amendment: [Ss. 464ZA](https://www.legislation.gov.uk/ukpga/2010/4/section/464ZA), [464ZB](https://www.legislation.gov.uk/ukpga/2010/4/section/464ZB) inserted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)
+[^c-f7b554aff89a36810d0f20be414321ef]: Textual amendment: [Ss. 464ZA](https://www.legislation.gov.uk/ukpga/2010/4/section/464ZA), [464ZB](https://www.legislation.gov.uk/ukpga/2010/4/section/464ZB) inserted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)

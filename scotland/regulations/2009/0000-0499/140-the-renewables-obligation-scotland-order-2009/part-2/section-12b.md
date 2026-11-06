@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 12B. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: special arrangements for obligation periods in respect of which article 12A does not apply[^key-112781b91a02fd83f6bbad3a488875cb]
+## 12B. Determining the number of renewables obligation certificates to be produced by a designated electricity supplier in order to discharge its renewables obligation: special arrangements for obligation periods in respect of which article 12A does not apply[^c-112781b91a02fd83f6bbad3a488875cb]
 
 (1) This article applies in respect of—
 
@@ -64,4 +64,4 @@ with the references to “D” in the formulae set out in article 12A(2) and (3)
 
 ## Annotations
 
-[^key-112781b91a02fd83f6bbad3a488875cb]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/ssi/2009/140/article/12A), [12B](https://www.legislation.gov.uk/ssi/2009/140/article/12B) inserted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [9](https://www.legislation.gov.uk/ssi/2017/432/article/9)
+[^c-112781b91a02fd83f6bbad3a488875cb]: Textual amendment: [Arts. 12A](https://www.legislation.gov.uk/ssi/2009/140/article/12A), [12B](https://www.legislation.gov.uk/ssi/2009/140/article/12B) inserted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [9](https://www.legislation.gov.uk/ssi/2017/432/article/9)

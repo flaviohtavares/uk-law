@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Contravention of the requirements of professional diligence[^key-d1151518a0ecc82f2a6951ca259e77e9][^key-d1b0c9da9e1f454478c6e89cc97c8bad]
+## 229. Contravention of the requirements of professional diligence[^c-d1151518a0ecc82f2a6951ca259e77e9][^c-d1b0c9da9e1f454478c6e89cc97c8bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ For the purposes of this Chapter, a commercial practice involves a contravention
 
 ## Annotations
 
-[^key-d1151518a0ecc82f2a6951ca259e77e9]: Commencement: S. 229 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d1151518a0ecc82f2a6951ca259e77e9]: Commencement: S. 229 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-d1b0c9da9e1f454478c6e89cc97c8bad]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2024/13/section/229) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-d1b0c9da9e1f454478c6e89cc97c8bad]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2024/13/section/229) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

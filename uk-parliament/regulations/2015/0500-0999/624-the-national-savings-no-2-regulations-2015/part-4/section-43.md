@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Forfeiture of rolled-over certificates and certificates purchased on or after 20th September 2012[^key-6ec18c218e1decec4bd3e83aa8bece51]
+## 43. Forfeiture of rolled-over certificates and certificates purchased on or after 20th September 2012[^c-6ec18c218e1decec4bd3e83aa8bece51]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ec18c218e1decec4bd3e83aa8bece51]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-6ec18c218e1decec4bd3e83aa8bece51]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

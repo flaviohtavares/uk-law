@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Exclusion of certain agreements from Restrictive Trade Practices Act 1976.[^key-33cc3e417d52ca3e2164ff92407404c4]
+## 62. Exclusion of certain agreements from Restrictive Trade Practices Act 1976.[^c-33cc3e417d52ca3e2164ff92407404c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33cc3e417d52ca3e2164ff92407404c4]: Textual amendment: S. 62 repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [18](https://www.legislation.gov.uk/uksi/2000/311/article/18)
+[^c-33cc3e417d52ca3e2164ff92407404c4]: Textual amendment: S. 62 repealed (1.3.2005) by [The Competition Act 1998 (Transitional, Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/311)](https://www.legislation.gov.uk/uksi/2000/311), [arts. 1](https://www.legislation.gov.uk/uksi/2000/311/article/1), [18](https://www.legislation.gov.uk/uksi/2000/311/article/18)

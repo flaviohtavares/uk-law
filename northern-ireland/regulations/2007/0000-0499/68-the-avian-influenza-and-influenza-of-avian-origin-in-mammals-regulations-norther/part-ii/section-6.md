@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Measures to reduce the risk of the transmission of avian influenza[^key-16848038be202e18424338176174673c]
+## 6. Measures to reduce the risk of the transmission of avian influenza[^c-16848038be202e18424338176174673c]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16848038be202e18424338176174673c]: Commencement: Reg. 6 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-16848038be202e18424338176174673c]: Commencement: Reg. 6 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

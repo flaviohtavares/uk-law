@@ -22,8 +22,8 @@ summary: ''
 
 (1) Upon making an authorisation order in respect of an open-ended investment company or upon approving any change in the name of such a company, the Authority must notify the appropriate registrar of the name by which the company is incorporated or, as the case may be, of the company’s new name.
 
-(2)[^key-b00a807b4d50fe77a236297932db965b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b00a807b4d50fe77a236297932db965b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b00a807b4d50fe77a236297932db965b]: Textual amendment: Reg. 20(2) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-b00a807b4d50fe77a236297932db965b]: Textual amendment: Reg. 20(2) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

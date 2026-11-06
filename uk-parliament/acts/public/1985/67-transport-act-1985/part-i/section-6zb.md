@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6ZB (Extent: S.). Provision of service information: extent of permissible disclosure (Extent: S.)[^key-29c8323716e26d9d3fe79d912962da22][^key-7a32c36e455ab12566af169d3cbce188]
+## 6ZB (Extent: S.). Provision of service information: extent of permissible disclosure (Extent: S.)[^c-29c8323716e26d9d3fe79d912962da22][^c-7a32c36e455ab12566af169d3cbce188]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29c8323716e26d9d3fe79d912962da22]: Modification: Ss. 6-9 excluded (S.) (4.12.2023) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 13B(1)(a)](https://www.legislation.gov.uk/asp/2001/2/section/13B/1/a) (as substituted by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/17/section/38/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule))
+[^c-29c8323716e26d9d3fe79d912962da22]: Modification: Ss. 6-9 excluded (S.) (4.12.2023) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 13B(1)(a)](https://www.legislation.gov.uk/asp/2001/2/section/13B/1/a) (as substituted by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/17/section/38/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule))
 
-[^key-7a32c36e455ab12566af169d3cbce188]: Textual amendment: [Ss. 6ZA-6ZC](https://www.legislation.gov.uk/ukpga/1985/67/section/6ZA) and cross-heading inserted (S.) (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(1)](https://www.legislation.gov.uk/asp/2019/17/section/39/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-7a32c36e455ab12566af169d3cbce188]: Textual amendment: [Ss. 6ZA-6ZC](https://www.legislation.gov.uk/ukpga/1985/67/section/6ZA) and cross-heading inserted (S.) (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(1)](https://www.legislation.gov.uk/asp/2019/17/section/39/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

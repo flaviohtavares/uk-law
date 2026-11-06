@@ -33,7 +33,7 @@ SOCIAL CARE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 (revoked)[^key-5aa487c7f329c8356572f41b859536a1]
+The Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 (revoked)[^c-5aa487c7f329c8356572f41b859536a1]
 
 Made
 
@@ -47,160 +47,160 @@ Coming into force
 
 30 July 2010
 
-[^key-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-5aa487c7f329c8356572f41b859536a1]
+## 1. Title, commencement and application[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5aa487c7f329c8356572f41b859536a1]
+## 2. Interpretation[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Care of children and offences against children or adults[^key-5aa487c7f329c8356572f41b859536a1]
+## 3. Care of children and offences against children or adults[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Overseas offences[^key-5aa487c7f329c8356572f41b859536a1]
+## 4. Overseas offences[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Protection of Children Act list[^key-5aa487c7f329c8356572f41b859536a1]
+## 5. Protection of Children Act list[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Direction in relation to the employment of teachers etc[^key-5aa487c7f329c8356572f41b859536a1]
+## 6. Direction in relation to the employment of teachers etc[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Persons barred from regulated activity relating to children[^key-5aa487c7f329c8356572f41b859536a1]
+## 7. Persons barred from regulated activity relating to children[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Persons living or working on premises where a disqualified person lives[^key-5aa487c7f329c8356572f41b859536a1]
+## 8. Persons living or working on premises where a disqualified person lives[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Waivers[^key-5aa487c7f329c8356572f41b859536a1]
+## 9. Waivers[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Prescribed determination[^key-5aa487c7f329c8356572f41b859536a1]
+## 10. Prescribed determination[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Duty of disclosure[^key-5aa487c7f329c8356572f41b859536a1]
+## 11. Duty of disclosure[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the Disqualification from Caring for Children (Wales) Regulations 2004[^key-5aa487c7f329c8356572f41b859536a1]
+## 12. Amendment of the Disqualification from Caring for Children (Wales) Regulations 2004[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ORDERS ETC RELATING TO THE CARE OF CHILDREN[^key-5aa487c7f329c8356572f41b859536a1]
+## SCHEDULE 1 — ORDERS ETC RELATING TO THE CARE OF CHILDREN[^c-5aa487c7f329c8356572f41b859536a1]
 
 Regulation 3(2)
 
-**1.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repealed Statutory Offences[^key-5aa487c7f329c8356572f41b859536a1]
+## SCHEDULE 2 — Repealed Statutory Offences[^c-5aa487c7f329c8356572f41b859536a1]
 
 Regulation 3(5)
 
-**1.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5aa487c7f329c8356572f41b859536a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — SPECIFIED OFFENCES[^key-5aa487c7f329c8356572f41b859536a1]
+## SCHEDULE 3 — SPECIFIED OFFENCES[^c-5aa487c7f329c8356572f41b859536a1]
 
 Regulation 3(7)
 
-### 1. Offences in England and Wales[^key-5aa487c7f329c8356572f41b859536a1]
+### 1. Offences in England and Wales[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Offences in Scotland[^key-5aa487c7f329c8356572f41b859536a1]
+### 2. Offences in Scotland[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Offences in Northern Ireland[^key-5aa487c7f329c8356572f41b859536a1]
+### 3. Offences in Northern Ireland[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Offences in Jersey[^key-5aa487c7f329c8356572f41b859536a1]
+### 4. Offences in Jersey[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Offences in Guernsey[^key-5aa487c7f329c8356572f41b859536a1]
+### 5. Offences in Guernsey[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences in the Isle of Man[^key-5aa487c7f329c8356572f41b859536a1]
+### 6. Offences in the Isle of Man[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Other Offences[^key-5aa487c7f329c8356572f41b859536a1]
+### 7. Other Offences[^c-5aa487c7f329c8356572f41b859536a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa487c7f329c8356572f41b859536a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5aa487c7f329c8356572f41b859536a1]: Textual amendment: Regulations revoked (6.12.2022) by [The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 (S.I. 2022/1066)](https://www.legislation.gov.uk/uksi/2022/1066), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1066/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2022/1066/regulation/12/1)
+[^c-5aa487c7f329c8356572f41b859536a1]: Textual amendment: Regulations revoked (6.12.2022) by [The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 (S.I. 2022/1066)](https://www.legislation.gov.uk/uksi/2022/1066), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1066/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2022/1066/regulation/12/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

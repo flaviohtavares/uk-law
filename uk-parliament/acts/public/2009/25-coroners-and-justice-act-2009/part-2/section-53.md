@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Persons suffering from diminished responsibility (Northern Ireland)[^key-eb1ce7ff7e5409bcf32afdea515d65ef]
+## 53. Persons suffering from diminished responsibility (Northern Ireland)[^c-eb1ce7ff7e5409bcf32afdea515d65ef]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1ce7ff7e5409bcf32afdea515d65ef]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2009/25/section/53) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/182/article/3/a)
+[^c-eb1ce7ff7e5409bcf32afdea515d65ef]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2009/25/section/53) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/182/article/3/a)

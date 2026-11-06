@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Tractor etc (EC Type-Approval) (Amendment) Regulations 2011 (revoked)[^key-b2ed3e486dc752fa566fa90163929d1e]
+The Tractor etc (EC Type-Approval) (Amendment) Regulations 2011 (revoked)[^c-b2ed3e486dc752fa566fa90163929d1e]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 20th June 2011
 
-[^key-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b2ed3e486dc752fa566fa90163929d1e]
+## 1. Citation and commencement[^c-b2ed3e486dc752fa566fa90163929d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-b2ed3e486dc752fa566fa90163929d1e]
+## 2. Amendment of Regulations[^c-b2ed3e486dc752fa566fa90163929d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-b2ed3e486dc752fa566fa90163929d1e]
+## 3. Interpretation[^c-b2ed3e486dc752fa566fa90163929d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duty to Review[^key-b2ed3e486dc752fa566fa90163929d1e]
+## 4. Duty to Review[^c-b2ed3e486dc752fa566fa90163929d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2ed3e486dc752fa566fa90163929d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2ed3e486dc752fa566fa90163929d1e]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), reg. 1(e), [Sch. 2 para. 4(e)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/e) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))
+[^c-b2ed3e486dc752fa566fa90163929d1e]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), reg. 1(e), [Sch. 2 para. 4(e)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/e) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))

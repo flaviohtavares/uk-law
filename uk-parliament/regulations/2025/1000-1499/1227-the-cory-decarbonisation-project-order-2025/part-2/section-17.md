@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Permanent closure and diversion of, and creation of new public rights of way and authorising vehicular use on public rights of way[^key-b579ff57f0c7db4931e31505b90a2919]
+## 17. Permanent closure and diversion of, and creation of new public rights of way and authorising vehicular use on public rights of way[^c-b579ff57f0c7db4931e31505b90a2919]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b579ff57f0c7db4931e31505b90a2919]: Commencement: Art. 17 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-b579ff57f0c7db4931e31505b90a2919]: Commencement: Art. 17 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00040]: Footnote: Section 53 was amended by Schedule 5 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and by section 70(1) of the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 

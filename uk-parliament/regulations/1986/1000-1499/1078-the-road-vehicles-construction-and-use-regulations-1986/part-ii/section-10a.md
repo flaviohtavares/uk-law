@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10A. Warning devices where certain high level equipment is fitted to a vehicle[^key-14df0ef462aca3d21e12c49f34e87b39]
+## 10A. Warning devices where certain high level equipment is fitted to a vehicle[^c-14df0ef462aca3d21e12c49f34e87b39]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14df0ef462aca3d21e12c49f34e87b39]: Textual amendment: [Regs. 10-10C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/10) substituted for reg. 10 (1.10.1997) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1997 (S.I. 1997/530)](https://www.legislation.gov.uk/uksi/1997/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/530/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1997/530/schedule)
+[^c-14df0ef462aca3d21e12c49f34e87b39]: Textual amendment: [Regs. 10-10C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/10) substituted for reg. 10 (1.10.1997) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1997 (S.I. 1997/530)](https://www.legislation.gov.uk/uksi/1997/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/530/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/1997/530/schedule)

@@ -72,7 +72,7 @@ These Regulations —
   - (a) in relation to a competent authority, means any person (whether or not an officer of the authority) who is authorised by the authority in writing for the purposes of regulation 14; and
   - (b) in relation to a relevant enforcement authority, means any person (whether or not an officer of the authority) who is authorised by the authority in writing, either generally or specially, to act in matters arising under Part 2 of these Regulations in relation to its enforcement responsibilities under regulation 17;
 - “**competent authority**” means an authority which, by virtue of regulation 3, is designated for the purposes of any of the provisions of Regulation 882/2004;
-- “**Directive 2004/41**”, “[^key-321e17d56ca3e0b5a3a3f172b915ed9b]**Regulation 999/2001**”, “**Regulation 178/2002**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 882/2004**”, “**Regulation 1688/2005**”, “**Regulation 2073/2005**”, “**Regulation 2074/2005**” and “**Regulation 2076/2005**” have the meanings respectively given to them in Schedule 1;
+- “**Directive 2004/41**”, “[^c-321e17d56ca3e0b5a3a3f172b915ed9b]**Regulation 999/2001**”, “**Regulation 178/2002**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 882/2004**”, “**Regulation 1688/2005**”, “**Regulation 2073/2005**”, “**Regulation 2074/2005**” and “**Regulation 2076/2005**” have the meanings respectively given to them in Schedule 1;
 - “**feed authority**” means the authority required by section 67(1) of the Agriculture Act 1970 [^c15400641] to enforce that Act within its area or district as the case may be;
 - “**food authority**” has the meaning it bears by virtue of section 5(1) of the Act, except that it does not include the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and Middle Temple);
 - “**the Import Provisions**” means Part 3 of these Regulations and Articles 15 to 24 of Regulation 882/2004;
@@ -757,7 +757,7 @@ Regulation 2(1)
 
 “**Directive 2004/41**” means Directive [2004/41/EC](https://www.legislation.gov.uk/eudr/2004/41) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council Decision [95/408/EC](https://www.legislation.gov.uk/eud/1995/408) [^c15400771];
 
-“[^key-4d7037352618ec48982b75bbb5480c54]**Regulation 999/2001**” means Regulation [(EC) 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies as defined (as “the Community TSE Regulation”) in the Transmissible Spongiform Encephalopathies (England) (No. 2) Regulations 2006 and as amended by Commission Regulation [(EC) 1041/2006](https://www.legislation.gov.uk/eur/2006/1041) amending Annex III to Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999) of the European Parliament and of the Council as regards monitoring of transmissible spongiform encephalopathies in ovine animals;
+“[^c-4d7037352618ec48982b75bbb5480c54]**Regulation 999/2001**” means Regulation [(EC) 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies as defined (as “the Community TSE Regulation”) in the Transmissible Spongiform Encephalopathies (England) (No. 2) Regulations 2006 and as amended by Commission Regulation [(EC) 1041/2006](https://www.legislation.gov.uk/eur/2006/1041) amending Annex III to Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999) of the European Parliament and of the Council as regards monitoring of transmissible spongiform encephalopathies in ovine animals;
 
 “**Regulation 178/2002**” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation 1642/2003;
 
@@ -788,7 +788,7 @@ Regulation 2(1)
 - (c) the Feeding Stuffs Regulations 2000 [^c15400871];
 - (d) the Genetically Modified Animal Feed (England) Regulations 2004 [^c15400881];
 - (e) the Food Hygiene (England) Regulations 2006 in so far as they apply in relation to feed;
-- (f)[^key-3dece9b559fb72552499dd90ac9957f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-3dece9b559fb72552499dd90ac9957f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Feed (Hygiene and Enforcement) (England) Regulations 2005; and
 - (h) the Feeding Stuffs (England) Regulations 2005 [^c15400901].
 
@@ -804,12 +804,12 @@ Regulation 2(1)
   - (iii) the application of the rules laid down for the protection of designations of origin and geographical indications of agricultural products and foodstuffs in Council Regulation [(EEC) No. 2081/92](https://www.legislation.gov.uk/eur/1992/2081) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs [^c15400931] as last amended by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded [^c15400941],
   - (iv) the application of the rules laid down for Community certificates of specific character which may be obtained for certain agricultural products and foodstuffs in Council Regulation [(EEC) No. 2082/92](https://www.legislation.gov.uk/eur/1992/2082) on certificates of specific character for agricultural products and foodstuffs [^c15400951] as last amended by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded,
   - (v) the regulation of organic products under the Organic Products (Imports from Third Countries) Regulations 2003 [^c15400961] and the Organic Products Regulations 2004 [^c15400971],
-  - (vi) the regulation of beef labelling under the Beef Labelling (Enforcement) (England) Regulations 2000 [^c15400981], [^key-d8a5a263089932edb32a7e32d67260c6]...
+  - (vi) the regulation of beef labelling under the Beef Labelling (Enforcement) (England) Regulations 2000 [^c15400981], [^c-d8a5a263089932edb32a7e32d67260c6]...
   - (vii) the regulation of the import of and trade in products of animal origin —
     - (aa) under the Products of Animal Origin (Import and Export) Regulations 1996 [^c15400991], with the exception of the execution and enforcement of regulation 3 thereof by the Agency, and
-    - (bb) under the Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 [^c15401001], with the exception of the execution and enforcement of regulation 5 thereof by the Agency , and[^key-ac8842832c5871eb99312a2a2f48daf5]
+    - (bb) under the Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 [^c15401001], with the exception of the execution and enforcement of regulation 5 thereof by the Agency , and[^c-ac8842832c5871eb99312a2a2f48daf5]
   - (viii) the matters regulated under Schedule 2 to the Transmissible Spongiform Encephalopathies (England) (No. 2) Regulations 2006 in so far as that Schedule applies in relation to animals slaughtered for human consumption, together with the matters covered under point 2 of Part II of Chapter A of Annex III to Regulation 999/2001 in so far as that point applies in relation to animals slaughtered for human consumption;
-- (b) food law in so far as it applies in relation to materials and articles in contact with food [^key-91c822d9bcb485d11e3d4797f7b00301]...; and
+- (b) food law in so far as it applies in relation to materials and articles in contact with food [^c-91c822d9bcb485d11e3d4797f7b00301]...; and
 - (c) food law in so far as it involves the regulation of primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 under the Food Hygiene (England) Regulations 2006.
 
 ## SCHEDULE 4 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW
@@ -915,7 +915,7 @@ Regulation 3(3)
 
 [^c15400631]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-321e17d56ca3e0b5a3a3f172b915ed9b]: Textual amendment: Words in reg. 2(1) added (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
+[^c-321e17d56ca3e0b5a3a3f172b915ed9b]: Textual amendment: Words in reg. 2(1) added (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
 
 [^c15400641]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
@@ -945,7 +945,7 @@ Regulation 3(3)
 
 [^c15400771]: Marginal citation: OJ No. L157, 30.4.2004, p.33. The revised text of Directive 2004/41/EC is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).
 
-[^key-4d7037352618ec48982b75bbb5480c54]: Textual amendment: Words in Sch. 1 inserted (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
+[^c-4d7037352618ec48982b75bbb5480c54]: Textual amendment: Words in Sch. 1 inserted (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
 
 [^c15400781]: Marginal citation: OJ No. L139, 30.4.2004, p.1. The revised text of Regulation (EC) No. 852/2004 is now set out in a Corrigendum (OJ No. L226, 25.6.2004, p.3).
 
@@ -969,7 +969,7 @@ Regulation 3(3)
 
 [^c15400881]: Marginal citation: [S.I. 2004/2334](https://www.legislation.gov.uk/uksi/2004/2334), amended by [S.I. 2005/1265](https://www.legislation.gov.uk/uksi/2005/1265).
 
-[^key-3dece9b559fb72552499dd90ac9957f3]: Textual amendment: Sch. 2 para. (f) omitted (30.11.2007) by virtue of [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) (Revocation) Regulations 2007 (S.I. 2007/3007)](https://www.legislation.gov.uk/uksi/2007/3007), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3007/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3007/regulation/4)
+[^c-3dece9b559fb72552499dd90ac9957f3]: Textual amendment: Sch. 2 para. (f) omitted (30.11.2007) by virtue of [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) (Revocation) Regulations 2007 (S.I. 2007/3007)](https://www.legislation.gov.uk/uksi/2007/3007), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3007/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3007/regulation/4)
 
 [^c15400901]: Marginal citation: [S.I. 2005/3281](https://www.legislation.gov.uk/uksi/2005/3281).
 
@@ -989,12 +989,12 @@ Regulation 3(3)
 
 [^c15400981]: Marginal citation: [S.I. 2000/3047](https://www.legislation.gov.uk/uksi/2000/3047), amended by [S.I. 2002/2315](https://www.legislation.gov.uk/uksi/2002/2315).
 
-[^key-d8a5a263089932edb32a7e32d67260c6]: Textual amendment: Word in Sch. 3 para. (a) revoked (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
+[^c-d8a5a263089932edb32a7e32d67260c6]: Textual amendment: Word in Sch. 3 para. (a) revoked (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
 
 [^c15400991]: Marginal citation: [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124), amended by [S.I. 1997/3023](https://www.legislation.gov.uk/uksi/1997/3023), [S.I. 1998/994](https://www.legislation.gov.uk/uksi/1998/994), [S.I. 1999/683](https://www.legislation.gov.uk/uksi/1999/683), [S.I. 2000/225](https://www.legislation.gov.uk/uksi/2000/225), [S.I. 2000/656](https://www.legislation.gov.uk/uksi/2000/656), [S.I. 2000/790](https://www.legislation.gov.uk/uksi/2000/790), [S.I. 2000/2215](https://www.legislation.gov.uk/uksi/2000/2215), [S.I. 2001/1553](https://www.legislation.gov.uk/uksi/2001/1553), [S.I. 2001/1640](https://www.legislation.gov.uk/uksi/2001/1640), [S.I. 2001/3399](https://www.legislation.gov.uk/uksi/2001/3399), [S.I. 2002/889](https://www.legislation.gov.uk/uksi/2002/889), [S.I. 2003/3003](https://www.legislation.gov.uk/uksi/2003/3003) and [S.I. 2003/3177](https://www.legislation.gov.uk/uksi/2003/3177).
 
 [^c15401001]: Marginal citation: [S.I. 2004/3388](https://www.legislation.gov.uk/uksi/2004/3388).
 
-[^key-ac8842832c5871eb99312a2a2f48daf5]: Textual amendment: Sch. 3 para. (a)(viii) and word added (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
+[^c-ac8842832c5871eb99312a2a2f48daf5]: Textual amendment: Sch. 3 para. (a)(viii) and word added (16.2.2007) by [The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (S.I. 2006/3472)](https://www.legislation.gov.uk/uksi/2006/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3472/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2006/3472/regulation/20)
 
-[^key-91c822d9bcb485d11e3d4797f7b00301]: Textual amendment: Words in Sch. 3 para. (b) omitted (20.5.2006) by virtue of [The Ceramic Articles in Contact with Food (England) Regulations 2006 (S.I. 2006/1179)](https://www.legislation.gov.uk/uksi/2006/1179), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1179/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2006/1179/regulation/1/4)
+[^c-91c822d9bcb485d11e3d4797f7b00301]: Textual amendment: Words in Sch. 3 para. (b) omitted (20.5.2006) by virtue of [The Ceramic Articles in Contact with Food (England) Regulations 2006 (S.I. 2006/1179)](https://www.legislation.gov.uk/uksi/2006/1179), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1179/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2006/1179/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Methods of recovery[^key-8a746d470b12a9507620c21734eef5be]
+## 86. Methods of recovery[^c-8a746d470b12a9507620c21734eef5be]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Without prejudice to any other method of recovery, an authority may recover any 
 
 ## Annotations
 
-[^key-8a746d470b12a9507620c21734eef5be]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1988/1890/regulation/86) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-8a746d470b12a9507620c21734eef5be]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/1988/1890/regulation/86) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Interpretation of sections 205 to 210[^key-b1261eca392a030a18b0d572db049fcf][^key-d39400930ee0a477b8d34906b6f4edb7]
+## 211. Interpretation of sections 205 to 210[^c-b1261eca392a030a18b0d572db049fcf][^c-d39400930ee0a477b8d34906b6f4edb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In sections 205 to 210—
 
 ## Annotations
 
-[^key-b1261eca392a030a18b0d572db049fcf]: Commencement: S. 211 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b1261eca392a030a18b0d572db049fcf]: Commencement: S. 211 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d39400930ee0a477b8d34906b6f4edb7]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2026/20/section/211) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-d39400930ee0a477b8d34906b6f4edb7]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2026/20/section/211) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

@@ -36,7 +36,7 @@ An Act to prohibit the export of certain livestock from Great Britain for slaugh
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Prohibition of export of livestock for slaughter[^key-e61033490c3212b9816c9690c4c11fe2][^key-37d3927b02114692e20c5a72c012c5f8][^key-cdf626d4c63ec432d15c0c2c866a00d5][^key-0d4b73b4ab35707020c6ec507ee61e6c]
+## 1. Prohibition of export of livestock for slaughter[^c-e61033490c3212b9816c9690c4c11fe2][^c-37d3927b02114692e20c5a72c012c5f8][^c-cdf626d4c63ec432d15c0c2c866a00d5][^c-0d4b73b4ab35707020c6ec507ee61e6c]
 
 (1) A person may not export relevant livestock from Great Britain for slaughter.
 
@@ -71,7 +71,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) if the offence is committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, 6 months;
 - (b) if the offence is committed after that time, 51 weeks.
 
-## 2. Regulations about enforcement of section 1[^key-b5ef3c0b77b7bb7be9d5800953ba4db8]
+## 2. Regulations about enforcement of section 1[^c-b5ef3c0b77b7bb7be9d5800953ba4db8]
 
 (1) An appropriate national authority may by regulations make provision about the enforcement of section 1 (referred to in this Act as “**enforcement regulations**”).
 
@@ -116,7 +116,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) the offence is triable summarily only, and
 - (b) the offence is punishable only with a fine.
 
-## 3. Section 2: supplementary[^key-4a65100547bb3623393eeca529573996]
+## 3. Section 2: supplementary[^c-4a65100547bb3623393eeca529573996]
 
 (1) This section applies for the purposes of section 2.
 
@@ -142,7 +142,7 @@ without the consent of the Scottish Ministers or the Welsh Ministers (as the cas
 - (c) an Act or Measure of Senedd Cymru;
 - (d) assimilated direct legislation.
 
-## 4. Enforcement regulations: procedure etc[^key-095dded718a2739642e8c51c1366ee42]
+## 4. Enforcement regulations: procedure etc[^c-095dded718a2739642e8c51c1366ee42]
 
 (1) Enforcement regulations may make—
 
@@ -157,15 +157,15 @@ without the consent of the Scottish Ministers or the Welsh Ministers (as the cas
 
 (5) Enforcement regulations made by the Scottish Ministers are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 
-## 5. Connected repeals in relation to horses[^key-bf090c9a16fc44283f6f996df76c173d][^key-0ef90223672068339a4495ef97f713b1]
+## 5. Connected repeals in relation to horses[^c-bf090c9a16fc44283f6f996df76c173d][^c-0ef90223672068339a4495ef97f713b1]
 
 In the Animal Health Act 1981—
 
-- (a)[^key-68633b25916219c7b4797f15180d4adf][^key-347c2092febbfc5c37d85f904fb3b8a5] omit sections 40 to 49 (provision relating to the export of horses);
+- (a)[^c-68633b25916219c7b4797f15180d4adf][^c-347c2092febbfc5c37d85f904fb3b8a5] omit sections 40 to 49 (provision relating to the export of horses);
 - (b) in section 83A (electronic communications: Scotland), in subsection (3)(a), omit “40(1)(b), 41(1)(b), 47,”;
-- (c)[^key-68633b25916219c7b4797f15180d4adf][^key-347c2092febbfc5c37d85f904fb3b8a5] in section 95 (savings), in subsection (7), omit paragraph (b).
+- (c)[^c-68633b25916219c7b4797f15180d4adf][^c-347c2092febbfc5c37d85f904fb3b8a5] in section 95 (savings), in subsection (7), omit paragraph (b).
 
-## 6. Concurrent functions in Wales[^key-88b2d3c7722936931f12a828abd64836]
+## 6. Concurrent functions in Wales[^c-88b2d3c7722936931f12a828abd64836]
 
 (1) Schedule 7B to the Government of Wales Act 2006 (general restrictions on legislative competence of Senedd Cymru) is amended as follows.
 
@@ -183,7 +183,7 @@ In the Animal Health Act 1981—
 
   > - (xiii) the Animal Welfare (Livestock Exports) Act 2024.
 
-## 7. Extent, commencement and short title[^key-c133fe826a39b9786027df992e074650]
+## 7. Extent, commencement and short title[^c-c133fe826a39b9786027df992e074650]
 
 (1) This Act extends to England and Wales and Scotland, except that—
 
@@ -212,28 +212,28 @@ In the Animal Health Act 1981—
 
 ## Annotations
 
-[^key-e61033490c3212b9816c9690c4c11fe2]: Commencement: S. 1 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2)
+[^c-e61033490c3212b9816c9690c4c11fe2]: Commencement: S. 1 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2)
 
-[^key-37d3927b02114692e20c5a72c012c5f8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for W. by [S.I. 2024/689](https://www.legislation.gov.uk/wsi/2024/689), [reg. 2](https://www.legislation.gov.uk/wsi/2024/689/regulation/2)
+[^c-37d3927b02114692e20c5a72c012c5f8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for W. by [S.I. 2024/689](https://www.legislation.gov.uk/wsi/2024/689), [reg. 2](https://www.legislation.gov.uk/wsi/2024/689/regulation/2)
 
-[^key-cdf626d4c63ec432d15c0c2c866a00d5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for S. by [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)
+[^c-cdf626d4c63ec432d15c0c2c866a00d5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for S. by [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)
 
-[^key-0d4b73b4ab35707020c6ec507ee61e6c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for E. by [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/a)
+[^c-0d4b73b4ab35707020c6ec507ee61e6c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/11/section/1) in force at 22.7.2024 for E. by [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/a)
 
-[^key-b5ef3c0b77b7bb7be9d5800953ba4db8]: Commencement: S. 2 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-b5ef3c0b77b7bb7be9d5800953ba4db8]: Commencement: S. 2 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-4a65100547bb3623393eeca529573996]: Commencement: S. 3 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-4a65100547bb3623393eeca529573996]: Commencement: S. 3 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-095dded718a2739642e8c51c1366ee42]: Commencement: S. 4 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-095dded718a2739642e8c51c1366ee42]: Commencement: S. 4 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-bf090c9a16fc44283f6f996df76c173d]: Commencement: S. 5 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2)
+[^c-bf090c9a16fc44283f6f996df76c173d]: Commencement: S. 5 not in force at Royal Assent, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/2)
 
-[^key-0ef90223672068339a4495ef97f713b1]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/11/section/5) in force at 22.7.2024 for S. by [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)
+[^c-0ef90223672068339a4495ef97f713b1]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/11/section/5) in force at 22.7.2024 for S. by [S.S.I. 2024/170](https://www.legislation.gov.uk/ssi/2024/170), [reg. 2](https://www.legislation.gov.uk/ssi/2024/170/regulation/2)
 
-[^key-68633b25916219c7b4797f15180d4adf]: Commencement: [S. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a)[(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c) in force at 22.7.2024 for W. by [S.I. 2024/689](https://www.legislation.gov.uk/wsi/2024/689), [reg. 2](https://www.legislation.gov.uk/wsi/2024/689/regulation/2)
+[^c-68633b25916219c7b4797f15180d4adf]: Commencement: [S. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a)[(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c) in force at 22.7.2024 for W. by [S.I. 2024/689](https://www.legislation.gov.uk/wsi/2024/689), [reg. 2](https://www.legislation.gov.uk/wsi/2024/689/regulation/2)
 
-[^key-347c2092febbfc5c37d85f904fb3b8a5]: Commencement: [S. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a)[(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c) in force at 22.7.2024 for E. by [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b)
+[^c-347c2092febbfc5c37d85f904fb3b8a5]: Commencement: [S. 5(a)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/a)[(c)](https://www.legislation.gov.uk/ukpga/2024/11/section/5/c) in force at 22.7.2024 for E. by [S.I. 2024/678](https://www.legislation.gov.uk/uksi/2024/678), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/678/regulation/2/b)
 
-[^key-88b2d3c7722936931f12a828abd64836]: Commencement: S. 6 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-88b2d3c7722936931f12a828abd64836]: Commencement: S. 6 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
 
-[^key-c133fe826a39b9786027df992e074650]: Commencement: S. 7 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)
+[^c-c133fe826a39b9786027df992e074650]: Commencement: S. 7 in force at Royal Assent, see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2024/11/section/7/3)

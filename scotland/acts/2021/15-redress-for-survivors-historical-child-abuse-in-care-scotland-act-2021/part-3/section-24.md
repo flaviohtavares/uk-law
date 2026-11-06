@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Eligibility to apply for a next of kin payment[^key-ec66d1379431ed73461f7e83bdee5846]
+## 24. Eligibility to apply for a next of kin payment[^c-ec66d1379431ed73461f7e83bdee5846]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec66d1379431ed73461f7e83bdee5846]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/15/section/24) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-ec66d1379431ed73461f7e83bdee5846]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/15/section/24) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

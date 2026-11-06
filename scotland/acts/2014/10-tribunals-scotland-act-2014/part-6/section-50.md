@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Procedure on second appeal[^key-481a0c4a5b657e76b6469c70f601926c]
+## 50. Procedure on second appeal[^c-481a0c4a5b657e76b6469c70f601926c]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-481a0c4a5b657e76b6469c70f601926c]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/10/section/50) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-481a0c4a5b657e76b6469c70f601926c]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/10/section/50) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

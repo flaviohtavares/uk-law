@@ -26,7 +26,7 @@ summary: ''
 
 #### Previous Auditor General to continue to be Auditor General
 
-**1.**[^key-4089ba0e081194b7427bbedd7f8f357c] (1) This paragraph applies to the person who is the Auditor General immediately before the appointed day.
+**1.**[^c-4089ba0e081194b7427bbedd7f8f357c] (1) This paragraph applies to the person who is the Auditor General immediately before the appointed day.
 
 (2) On and after the appointed day the person—
 
@@ -41,7 +41,7 @@ summary: ''
 
 #### Savings for auditors appointed under section 13 of the Public Audit (Wales) Act 2004
 
-**2.**[^key-b6001dc2bc362e832a8e33effd912037] (1) This paragraph applies where, immediately before the coming into force of section 11 (audit of accounts of local government bodies in Wales), an appointment of a person as an auditor in relation to the accounts of a local government body in Wales has effect under section 13 of the Public Audit (Wales) Act 2004.
+**2.**[^c-b6001dc2bc362e832a8e33effd912037] (1) This paragraph applies where, immediately before the coming into force of section 11 (audit of accounts of local government bodies in Wales), an appointment of a person as an auditor in relation to the accounts of a local government body in Wales has effect under section 13 of the Public Audit (Wales) Act 2004.
 
 (2) That appointment of the person as an auditor continues to have effect until the end of the period for which the appointment was made (subject to any earlier termination).
 
@@ -57,7 +57,7 @@ summary: ''
 
 #### Savings in respect of restrictions on disclosure of information
 
-**3.**[^key-79ca4517eac491d988f680735c829742] (1) Where information has been obtained by—
+**3.**[^c-79ca4517eac491d988f680735c829742] (1) Where information has been obtained by—
 
 - (a) an auditor appointed under section 13 of the Public Audit (Wales) Act 2004 under a provision of that Act that has been amended by this Act,
 - (b) a person acting on his or her behalf, or
@@ -75,7 +75,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### WAO's procedural rules before rules are made under paragraph 27 of Schedule 1
 
-**4.**[^key-ce8e25c862ab7cf4e9b948054ca25b42] (1) This paragraph applies until the first rules under paragraph 27 of Schedule 1 are made.
+**4.**[^c-ce8e25c862ab7cf4e9b948054ca25b42] (1) This paragraph applies until the first rules under paragraph 27 of Schedule 1 are made.
 
 (2) Any matter to be decided by the WAO (including any matter to be decided for the purpose of preparing or making those rules) is to be decided in accordance with the procedure determined by the chair of the WAO (which may include the procedure for determining the quorum for any meeting at which the matter is to be decided).
 
@@ -83,7 +83,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Transfer of staff
 
-**5.**[^key-aef77b47fc721bf561e3d6faa1274a18] (1) On the appointed day the members of the staff of the Auditor General are transferred to the employment of the WAO.
+**5.**[^c-aef77b47fc721bf561e3d6faa1274a18] (1) On the appointed day the members of the staff of the Auditor General are transferred to the employment of the WAO.
 
 (2) For any purpose relating to a person who becomes an employee of the WAO by virtue of sub-paragraph (1)—
 
@@ -112,7 +112,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Variation of employment contracts
 
-**6.**[^key-50f7852235406b331f9334d84670b1f1] (1) This paragraph applies where there is a purported variation of the employment contract of—
+**6.**[^c-50f7852235406b331f9334d84670b1f1] (1) This paragraph applies where there is a purported variation of the employment contract of—
 
 - (a) an employee of the Auditor General;
 - (b) an employee of the WAO whose employment transferred under paragraph 5.
@@ -129,7 +129,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Collective agreements
 
-**7.**[^key-d4e803dd119bb27e038c50e3d3e04c2d] (1) This paragraph applies where a collective agreement made by or on behalf of the Auditor General satisfies the conditions specified in sub-paragraph (2).
+**7.**[^c-d4e803dd119bb27e038c50e3d3e04c2d] (1) This paragraph applies where a collective agreement made by or on behalf of the Auditor General satisfies the conditions specified in sub-paragraph (2).
 
 (2) The conditions are that the agreement—
 
@@ -153,7 +153,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Trade union recognition
 
-**8.**[^key-43fd9443715e2630d88676f9075b817a] (1) Where before the transfer mentioned in paragraph 5(1) an independent trade union was recognised by the Auditor General to any extent in relation to any employee whose employment transferred, after the transfer—
+**8.**[^c-43fd9443715e2630d88676f9075b817a] (1) Where before the transfer mentioned in paragraph 5(1) an independent trade union was recognised by the Auditor General to any extent in relation to any employee whose employment transferred, after the transfer—
 
 - (a) that union is to be treated as having been recognised by the WAO to the same extent in relation to those employees, and
 - (b) any agreement for recognition may be varied or rescinded accordingly.
@@ -166,7 +166,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Dismissal in relation to transfer
 
-**9.**[^key-ece3c995ac9520333c72b5dae6837d99] (1) Sub-paragraphs (2) and (3) apply—
+**9.**[^c-ece3c995ac9520333c72b5dae6837d99] (1) Sub-paragraphs (2) and (3) apply—
 
 - (a) to an employee of the Auditor General;
 - (b) to an employee of the WAO whose employment transferred under paragraph 5.
@@ -184,7 +184,7 @@ the operation of any provision about the disclosure of information is not affect
 
 #### Transfer of other property, rights and liabilities
 
-**10.**[^key-dd1401a7a9635ab71f524dc7eef9b06b] (1) On the transfer day, the property, rights and liabilities to which the Auditor General is entitled or subject in connection with any transferred function are transferred to and vest in the WAO.
+**10.**[^c-dd1401a7a9635ab71f524dc7eef9b06b] (1) On the transfer day, the property, rights and liabilities to which the Auditor General is entitled or subject in connection with any transferred function are transferred to and vest in the WAO.
 
 (2) Sub-paragraph (1) operates in relation to property, rights and liabilities—
 
@@ -221,7 +221,7 @@ and which are made or commenced before the transfer day, a reference to the Audi
   - (b) conferred or imposed on the WAO by any enactment in consequence of the amendment of that enactment by or under this Act;
 - “**transfer day**” (“***diwrnod trosglwyddo***”), in relation to a transferred function, means the day when the function first became exercisable by the WAO.
 
-**11.**[^key-2a28bbaba3f9304189a1d84088bd9839] (1) A certificate issued by the Welsh Ministers that property has been transferred by virtue of paragraph 10(1) is conclusive evidence of the transfer.
+**11.**[^c-2a28bbaba3f9304189a1d84088bd9839] (1) A certificate issued by the Welsh Ministers that property has been transferred by virtue of paragraph 10(1) is conclusive evidence of the transfer.
 
 (2) Paragraph 10 has effect in relation to property, rights or liabilities to which it applies in spite of any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property, rights or liabilities.
 
@@ -243,13 +243,13 @@ and which are made or commenced before the transfer day, a reference to the Audi
 
 #### Criminal liability of the Auditor General
 
-**12.**[^key-882c878a6ba9413ac1595e9cdd38ecab] (1) To the extent that any criminal liability incurred by the Auditor General is connected with property, rights or liabilities transferred to the WAO by virtue of paragraph 10, that criminal liability is transferred to the WAO.
+**12.**[^c-882c878a6ba9413ac1595e9cdd38ecab] (1) To the extent that any criminal liability incurred by the Auditor General is connected with property, rights or liabilities transferred to the WAO by virtue of paragraph 10, that criminal liability is transferred to the WAO.
 
 (2) Paragraph 10(3) to (5) applies in relation to criminal liability transferred by virtue of this paragraph as it applies to a liability transferred by virtue of paragraph 10(1).
 
 #### Indemnification
 
-**13.**[^key-738563e6885a1ead087bab75054558ad] (1) The liabilities covered by section 29 include—
+**13.**[^c-738563e6885a1ead087bab75054558ad] (1) The liabilities covered by section 29 include—
 
 - (a) liabilities that arise before the coming into force of that section, and
 - (b) liabilities that arise in relation to any act or omission occurring before the coming into force of that section.
@@ -263,28 +263,28 @@ and which are made or commenced before the transfer day, a reference to the Audi
 
 ## Annotations
 
-[^key-4089ba0e081194b7427bbedd7f8f357c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/1) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-4089ba0e081194b7427bbedd7f8f357c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/1) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-b6001dc2bc362e832a8e33effd912037]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-b6001dc2bc362e832a8e33effd912037]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-79ca4517eac491d988f680735c829742]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-79ca4517eac491d988f680735c829742]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-ce8e25c862ab7cf4e9b948054ca25b42]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/4) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(w)(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/w/i)
+[^c-ce8e25c862ab7cf4e9b948054ca25b42]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/4) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(w)(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/w/i)
 
-[^key-aef77b47fc721bf561e3d6faa1274a18]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/5) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-aef77b47fc721bf561e3d6faa1274a18]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/5) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-50f7852235406b331f9334d84670b1f1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/6) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-50f7852235406b331f9334d84670b1f1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/6) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d4e803dd119bb27e038c50e3d3e04c2d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/7) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d4e803dd119bb27e038c50e3d3e04c2d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/7) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-43fd9443715e2630d88676f9075b817a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/8) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-43fd9443715e2630d88676f9075b817a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/8) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-ece3c995ac9520333c72b5dae6837d99]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/9) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-ece3c995ac9520333c72b5dae6837d99]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/9) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-dd1401a7a9635ab71f524dc7eef9b06b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/10) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-dd1401a7a9635ab71f524dc7eef9b06b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/10) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-2a28bbaba3f9304189a1d84088bd9839]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/11) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-2a28bbaba3f9304189a1d84088bd9839]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/11) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-882c878a6ba9413ac1595e9cdd38ecab]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/12) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-882c878a6ba9413ac1595e9cdd38ecab]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/12) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-738563e6885a1ead087bab75054558ad]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/13) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(w)(ii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/w/ii)
+[^c-738563e6885a1ead087bab75054558ad]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/13) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(w)(ii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/w/ii)

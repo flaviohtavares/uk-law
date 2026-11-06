@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Defence to proceedings in respect of statutory nuisance[^key-36d2b8e6da43954dd6e4405f09a0e23c]
+## 36. Defence to proceedings in respect of statutory nuisance[^c-36d2b8e6da43954dd6e4405f09a0e23c]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-36d2b8e6da43954dd6e4405f09a0e23c]: Commencement: Art. 36 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-36d2b8e6da43954dd6e4405f09a0e23c]: Commencement: Art. 36 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00036]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 

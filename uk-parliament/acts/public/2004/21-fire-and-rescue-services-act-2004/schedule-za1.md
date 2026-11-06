@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule ZA1 — Mayoral combined authorities or CCAs as fire and rescue authorities[^key-ee5b771e4832b2db536246d8ab5eb13a]
+## Schedule ZA1 — Mayoral combined authorities or CCAs as fire and rescue authorities[^c-ee5b771e4832b2db536246d8ab5eb13a]
 
 *Extent: E+W+S*
 
@@ -112,4 +112,4 @@ The FRA’s mayor must—
 
 ## Annotations
 
-[^key-ee5b771e4832b2db536246d8ab5eb13a]: Textual amendment: Sch. ZA1 inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 4(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/4/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ee5b771e4832b2db536246d8ab5eb13a]: Textual amendment: Sch. ZA1 inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 4(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/4/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

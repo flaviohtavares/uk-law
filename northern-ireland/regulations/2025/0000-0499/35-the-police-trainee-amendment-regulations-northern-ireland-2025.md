@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by sections 36 and 41 of the Police (Northern Ireland) Act 2000 [^f00001], and of all other powers enabling it in that behalf, and after consulting the Northern Ireland Policing Board and the Police Association for Northern Ireland in accordance with section 41(6) of that Act [^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement, interpretation and application[^key-4025bacb921e0825a27428644f2c804a]
+## 1. Citation, commencement, interpretation and application[^c-4025bacb921e0825a27428644f2c804a]
 
 (1) These Regulations may be cited as the Police Trainee (Amendment) Regulations (Northern Ireland) 2025.
 
@@ -50,11 +50,11 @@ The Department of Justice, in exercise of the powers conferred by sections 36 an
 
 (3) In these Regulations “**the 2001 Regulations**” means the Police Trainee Regulations (Northern Ireland) 2001[^f00003].
 
-## 2. Conditions for appointment as constable[^key-8c1e4201ed447852a92df27e0d388f5c]
+## 2. Conditions for appointment as constable[^c-8c1e4201ed447852a92df27e0d388f5c]
 
 In regulation 3(3)(a) of the 2001 Regulations [^f00004], after “or such longer” omit the words “or shorter”.
 
-## 3. Leave[^key-abf322084f25034cd5611ddf63027ded]
+## 3. Leave[^c-abf322084f25034cd5611ddf63027ded]
 
 In regulation 11(2A) of the 2001 Regulations [^f00005], after “police trainee under regulation” omit “3(3)(a) or”.
 
@@ -78,14 +78,14 @@ These Regulations amend the Police Trainee Regulations (Northern Ireland) 2001 t
 
 [^f00002]: Footnote: Section 41(6) was amended by Article 5 of, and paragraph 63(3) of Schedule 3 to, the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. [2010 No.976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-4025bacb921e0825a27428644f2c804a]: Commencement: Reg. 1 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
+[^c-4025bacb921e0825a27428644f2c804a]: Commencement: Reg. 1 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2001 No. 369](https://www.legislation.gov.uk/nisr/2001/369) to which the most recent relevant amendment was made by the Police Trainee (Amendment)(Coronavirus) Regulations (Northern Ireland) 2020 ([S.R.2020 No. 65](https://www.legislation.gov.uk/nisr/2020/65)).
 
-[^key-8c1e4201ed447852a92df27e0d388f5c]: Commencement: Reg. 2 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
+[^c-8c1e4201ed447852a92df27e0d388f5c]: Commencement: Reg. 2 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 3 was substituted by regulation 2 of the Police Trainee (Amendment) Regulations (Northern Ireland) 2003 (S.R. No. 436) and amended by the Police Trainee (Amendment)(Coronavirus) Regulations (Northern Ireland) 2020 ([S.R. 2020 No. 65](https://www.legislation.gov.uk/nisr/2020/65)).
 
-[^key-abf322084f25034cd5611ddf63027ded]: Commencement: Reg. 3 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
+[^c-abf322084f25034cd5611ddf63027ded]: Commencement: Reg. 3 in operation at 24.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/35/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 11(2A) was inserted by the Police Trainee Regulations (Amendment) Regulations (Northern Ireland) 2003 ([S.R. 2003 No. 436](https://www.legislation.gov.uk/nisr/2003/436)) and amended by the Police Trainee (Amendment)(Coronavirus) Regulations (Northern Ireland) 2020 ([S.R. 2020 No. 65](https://www.legislation.gov.uk/nisr/2020/65)).

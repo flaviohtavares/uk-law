@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Stopping up or diversion of public paths where application for planning permission made[^c22542941][^key-f2411d38920c346f0f5a5e45238d332e]
+## 38. Stopping up or diversion of public paths where application for planning permission made[^c22542941][^c-f2411d38920c346f0f5a5e45238d332e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c22542941]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2015/4/section/38) partly in force; [s. 38](https://www.legislation.gov.uk/anaw/2015/4/section/38) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-f2411d38920c346f0f5a5e45238d332e]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2015/4/section/38) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-f2411d38920c346f0f5a5e45238d332e]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2015/4/section/38) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)

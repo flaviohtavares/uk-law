@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-This Act, except [^key-3c9aa86681723ed97075a4ccd63c6e47]... this Chapter, shall come into force on such day as the appropriate Minister may by order appoint, and different days may be appointed for different purposes.
+This Act, except [^c-3c9aa86681723ed97075a4ccd63c6e47]... this Chapter, shall come into force on such day as the appropriate Minister may by order appoint, and different days may be appointed for different purposes.
 
 ## Annotations
 
@@ -100,4 +100,4 @@ This Act, except [^key-3c9aa86681723ed97075a4ccd63c6e47]... this Chapter, shall 
 
     S. 122 power partly exercised: different dates appointed for specified provisions and purposes by [S.I. 2005/375](https://www.legislation.gov.uk/uksi/2005/375), [art. 2](https://www.legislation.gov.uk/uksi/2005/375/article/2)
 
-[^key-3c9aa86681723ed97075a4ccd63c6e47]: Textual amendment: Words in [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/24); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-3c9aa86681723ed97075a4ccd63c6e47]: Textual amendment: Words in [s. 122](https://www.legislation.gov.uk/ukpga/2000/14/section/122) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/24); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

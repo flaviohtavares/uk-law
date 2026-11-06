@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Abolition of the YPLA: transfer schemes[^key-5d31faa36e46b7a3bfafb0edf33cb7dc]
+## 68. Abolition of the YPLA: transfer schemes[^c-5d31faa36e46b7a3bfafb0edf33cb7dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 (schemes for the transfer of staff, property, rights and liabilities
 
 ## Annotations
 
-[^key-5d31faa36e46b7a3bfafb0edf33cb7dc]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/21/section/68) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5d31faa36e46b7a3bfafb0edf33cb7dc]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/21/section/68) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

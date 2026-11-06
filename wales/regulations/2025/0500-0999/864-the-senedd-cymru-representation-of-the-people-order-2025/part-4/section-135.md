@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Computation of time for purposes of Part 4[^key-ead9a29f6877a6e8f69cd7376b1dd8fd]
+## 135. Computation of time for purposes of Part 4[^c-ead9a29f6877a6e8f69cd7376b1dd8fd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Article 38 (computation of time for purposes of Part 3) applies in computing any
 
 ## Annotations
 
-[^key-ead9a29f6877a6e8f69cd7376b1dd8fd]: Commencement: Art. 135 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ead9a29f6877a6e8f69cd7376b1dd8fd]: Commencement: Art. 135 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if in a tax year an individual's income period for the individual's qualifying care[^key-74709c42fcf3f5403b80718893a7e7ea] receipts is a period other than a year.
+(1) This section applies if in a tax year an individual's income period for the individual's qualifying care[^c-74709c42fcf3f5403b80718893a7e7ea] receipts is a period other than a year.
 
 (2) The individual's share of the fixed amount for the tax year is—
 
@@ -34,4 +34,4 @@ D is the number of days in the individual's income period.
 
 ## Annotations
 
-[^key-74709c42fcf3f5403b80718893a7e7ea]: Textual amendment: Words in s. 810(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/11) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-74709c42fcf3f5403b80718893a7e7ea]: Textual amendment: Words in s. 810(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/11) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

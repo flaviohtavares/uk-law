@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. How information may be delivered to HMRC[^key-4eb38e5dd87c7c9b58e2c58d861c3a07]
+## 59. How information may be delivered to HMRC[^c-4eb38e5dd87c7c9b58e2c58d861c3a07]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In regulation 213 (how information may be delivered by HMRC)—
 
 ## Annotations
 
-[^key-4eb38e5dd87c7c9b58e2c58d861c3a07]: Commencement: Reg. 59 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-4eb38e5dd87c7c9b58e2c58d861c3a07]: Commencement: Reg. 59 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

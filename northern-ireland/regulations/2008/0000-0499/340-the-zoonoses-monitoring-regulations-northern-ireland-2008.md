@@ -47,29 +47,29 @@ It is designated[^f00002] for the purposes of that section in relation to measur
 
 It has carried out the consultation required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation and commencement[^key-41d6f7a05b6060cd94dc4c80e8387b5b]
+## 1. Citation and commencement[^c-41d6f7a05b6060cd94dc4c80e8387b5b]
 
 These Regulations may be cited as the Zoonoses (Monitoring) Regulations (Northern Ireland) 2008 and come into operation on 31st August 2008.
 
-## 2. Interpretation[^key-f9c38426e0a48205afc90694711f0650]
+## 2. Interpretation[^c-f9c38426e0a48205afc90694711f0650]
 
 (1) In these Regulations—
 
 - “the Department” means the Department of Agriculture and Rural Development;
-- [^key-031e93c8a1e45cec7c5ab93a4cba41be]...
+- [^c-031e93c8a1e45cec7c5ab93a4cba41be]...
 - “inspector” means a person appointed by the Department to be an inspector for the purposes of these Regulations.
 
 (2) Expressions that are not defined in these Regulations and occur in the Directive have the same meaning in these Regulations as they have for the purposes of the Directive.
 
-(2A)[^key-25ad2d88000787b24d5c405a5bba9202] In paragraph (2), “**the Directive**” means Directive [2003/99/EC](https://www.legislation.gov.uk/eudr/2003/99) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents .
+(2A)[^c-25ad2d88000787b24d5c405a5bba9202] In paragraph (2), “**the Directive**” means Directive [2003/99/EC](https://www.legislation.gov.uk/eudr/2003/99) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents .
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Competent authority[^key-0d9c2ce41f46357765a1f932d26cbc81]
+## 3. Competent authority[^c-0d9c2ce41f46357765a1f932d26cbc81]
 
 The Department is the competent authority for the purposes of Articles 3(2), 6(1) and 8(2) of the Directive in so far as that Directive relates to animals.
 
-## 4. Powers of entry[^key-e3730fa6ccd7d8526d72da59c192dd22]
+## 4. Powers of entry[^c-e3730fa6ccd7d8526d72da59c192dd22]
 
 (1) An inspector shall, on producing (if so required) some duly authenticated document showing his authority, have a right at all reasonable hours, to enter any premises on which any animal or animal feedingstuff is, or has been, present for the purpose of—
 
@@ -102,7 +102,7 @@ the lay magistrate may by warrant signed by him authorise the inspector to enter
 
 (6) In this regulation “premises” includes any land, place, vehicle or trailer, container, stall, moveable structure, ship or aircraft.
 
-## 5. Powers of inspectors[^key-7d6bd164d0b63f6e7c356ddb7cb49324]
+## 5. Powers of inspectors[^c-7d6bd164d0b63f6e7c356ddb7cb49324]
 
 An inspector entering premises under regulation 4 may—
 
@@ -110,11 +110,11 @@ An inspector entering premises under regulation 4 may—
 - (b) examine any records in whatever form and take copies or print-outs of those records;
 - (c) mark, or cause to be marked, for identification purposes, any animal, animal carcase or thing in relation to which any of the powers under sub-paragraph (a) or (b) have been exercised;
 - (d) make inquiries of any person;
-- (e) place any equipment (including any trap) on the premises for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and[^key-7a99431513c7bb383cb4e704305bac75]
-- (f) take with him any person, vehicle or equipment that he considers necessary for the execution of these Regulations; [^key-12f9381120b5889e6f2b6e3ef6973120]...
-- (g)[^key-12f9381120b5889e6f2b6e3ef6973120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) place any equipment (including any trap) on the premises for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and[^c-7a99431513c7bb383cb4e704305bac75]
+- (f) take with him any person, vehicle or equipment that he considers necessary for the execution of these Regulations; [^c-12f9381120b5889e6f2b6e3ef6973120]...
+- (g)[^c-12f9381120b5889e6f2b6e3ef6973120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Examination of isolates[^key-606030c2830cbf4fa81ffd798d95075b]
+## 6. Examination of isolates[^c-606030c2830cbf4fa81ffd798d95075b]
 
 (1) A food business operator responsible for primary production who examines an isolate, or causes an examination of an isolate to be carried out, in order to detect the presence of any zoonosis or zoonotic agent must—
 
@@ -124,7 +124,7 @@ An inspector entering premises under regulation 4 may—
 
 (2) Paragraph (1) does not apply to any sample taken for the purposes of The Control of Salmonella in Poultry Scheme Order (Northern Ireland) 2008[^f00006].
 
-## 7. Monitoring wild animals[^key-269ffe12fe982ce5bc5b01c342c38a99]
+## 7. Monitoring wild animals[^c-269ffe12fe982ce5bc5b01c342c38a99]
 
 If the Department prepares a programme for the monitoring of zoonoses and zoonotic agents in wild animals that includes the taking of—
 
@@ -133,7 +133,7 @@ If the Department prepares a programme for the monitoring of zoonoses and zoonot
 
 it must consult the Northern Ireland Environment Agency before monitoring commences.
 
-## 8. Offences and penalties[^key-314003d8e08fff23a65a60c6c64977c9]
+## 8. Offences and penalties[^c-314003d8e08fff23a65a60c6c64977c9]
 
 (1) A person commits an offence if he—
 
@@ -161,21 +161,21 @@ A senior officer of the Department of Agriculture and Rural Development
 
 regulation 4(1)(a)
 
-**1.**[^key-726b1eb91c13f09e5e5f68487fae1fbb] Brucellosis
+**1.**[^c-726b1eb91c13f09e5e5f68487fae1fbb] Brucellosis
 
-**2.**[^key-3e0be9364b9b8dc8083dc8200d18d7da] Campylobacteriosis
+**2.**[^c-3e0be9364b9b8dc8083dc8200d18d7da] Campylobacteriosis
 
-**3.**[^key-24a6c642226d2e74bec22846be555da0] Echinococcosis
+**3.**[^c-24a6c642226d2e74bec22846be555da0] Echinococcosis
 
-**4.**[^key-ea9460c85845d28fa530d2b88dc4d512] Listeriosis
+**4.**[^c-ea9460c85845d28fa530d2b88dc4d512] Listeriosis
 
-**5.**[^key-aa1eacb38e15992afc8155da3def64d5] Salmonellosis
+**5.**[^c-aa1eacb38e15992afc8155da3def64d5] Salmonellosis
 
-**6.**[^key-862d9172d10b01cb1fe40f3a949bec97] Trichinellosis
+**6.**[^c-862d9172d10b01cb1fe40f3a949bec97] Trichinellosis
 
-**7.**[^key-532f0aaf3cf8607678ae168d8c531f13] Tuberculosis due to Mycobacterium bovis
+**7.**[^c-532f0aaf3cf8607678ae168d8c531f13] Tuberculosis due to Mycobacterium bovis
 
-**8.**[^key-63fae6c9182a129c7f0106eba1ceb5f4] Verotoxigenic Escherichia coli
+**8.**[^c-63fae6c9182a129c7f0106eba1ceb5f4] Verotoxigenic Escherichia coli
 
 EXPLANATORY NOTE
 
@@ -201,46 +201,46 @@ A transposition note and full regulatory impact assessment of the effect that th
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.2002, p.1, as amended by Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.2006, p. 3) and [Commission Regulation (EC) No 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J.No. L60, 5.3.2008, p17
 
-[^key-41d6f7a05b6060cd94dc4c80e8387b5b]: Commencement: Reg. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-41d6f7a05b6060cd94dc4c80e8387b5b]: Commencement: Reg. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-f9c38426e0a48205afc90694711f0650]: Commencement: Reg. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-f9c38426e0a48205afc90694711f0650]: Commencement: Reg. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-031e93c8a1e45cec7c5ab93a4cba41be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-031e93c8a1e45cec7c5ab93a4cba41be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25ad2d88000787b24d5c405a5bba9202]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/2A) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25ad2d88000787b24d5c405a5bba9202]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2008/340/regulation/2/2A) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0d9c2ce41f46357765a1f932d26cbc81]: Commencement: Reg. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-0d9c2ce41f46357765a1f932d26cbc81]: Commencement: Reg. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-e3730fa6ccd7d8526d72da59c192dd22]: Commencement: Reg. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-e3730fa6ccd7d8526d72da59c192dd22]: Commencement: Reg. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-7d6bd164d0b63f6e7c356ddb7cb49324]: Commencement: Reg. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-7d6bd164d0b63f6e7c356ddb7cb49324]: Commencement: Reg. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-7a99431513c7bb383cb4e704305bac75]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/e) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a99431513c7bb383cb4e704305bac75]: Textual amendment: Word in [reg. 5(e)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/e) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12f9381120b5889e6f2b6e3ef6973120]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/g) and word omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12f9381120b5889e6f2b6e3ef6973120]: Textual amendment: [Reg. 5(g)](https://www.legislation.gov.uk/nisr/2008/340/regulation/5/g) and word omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/76)](https://www.legislation.gov.uk/uksi/2019/76), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/76/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/76/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-606030c2830cbf4fa81ffd798d95075b]: Commencement: Reg. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-606030c2830cbf4fa81ffd798d95075b]: Commencement: Reg. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2008 No.263](https://www.legislation.gov.uk/nisr/2008/263)
 
-[^key-269ffe12fe982ce5bc5b01c342c38a99]: Commencement: Reg. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-269ffe12fe982ce5bc5b01c342c38a99]: Commencement: Reg. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-314003d8e08fff23a65a60c6c64977c9]: Commencement: Reg. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-314003d8e08fff23a65a60c6c64977c9]: Commencement: Reg. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-726b1eb91c13f09e5e5f68487fae1fbb]: Commencement: Sch. para. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-726b1eb91c13f09e5e5f68487fae1fbb]: Commencement: Sch. para. 1 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-3e0be9364b9b8dc8083dc8200d18d7da]: Commencement: Sch. para. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-3e0be9364b9b8dc8083dc8200d18d7da]: Commencement: Sch. para. 2 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-24a6c642226d2e74bec22846be555da0]: Commencement: Sch. para. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-24a6c642226d2e74bec22846be555da0]: Commencement: Sch. para. 3 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-ea9460c85845d28fa530d2b88dc4d512]: Commencement: Sch. para. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-ea9460c85845d28fa530d2b88dc4d512]: Commencement: Sch. para. 4 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-aa1eacb38e15992afc8155da3def64d5]: Commencement: Sch. para. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-aa1eacb38e15992afc8155da3def64d5]: Commencement: Sch. para. 5 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-862d9172d10b01cb1fe40f3a949bec97]: Commencement: Sch. para. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-862d9172d10b01cb1fe40f3a949bec97]: Commencement: Sch. para. 6 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-532f0aaf3cf8607678ae168d8c531f13]: Commencement: Sch. para. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-532f0aaf3cf8607678ae168d8c531f13]: Commencement: Sch. para. 7 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
 
-[^key-63fae6c9182a129c7f0106eba1ceb5f4]: Commencement: Sch. para. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)
+[^c-63fae6c9182a129c7f0106eba1ceb5f4]: Commencement: Sch. para. 8 in operation at 31.8.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/340/regulation/1)

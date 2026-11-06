@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21F. Air cargo agents.[^c794684][^c794685][^c794683][^key-9c3cd7c3819d574c17c4e7d7e32bf014]
+## 21F. Air cargo agents.[^c794684][^c794685][^c794683][^c-9c3cd7c3819d574c17c4e7d7e32bf014]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) Regulations under this section may, in particular—
 
 - (a) enable the Secretary of State to maintain a list of air cargo agents who are approved by him for purposes related to aviation security, to include the name of an air cargo agent on that list, on application being made to the Secretary of State in accordance with the regulations, if he is satisfied as to such matters as are specified in the regulations, and to remove the name of any person from that list in such circumstances as are so specified,
-- (b) provide that any provision of this Part of this Act which applies in relation to persons who are permitted to have access to a security restricted area[^key-5b36acf13aa0cc8ed0b553eb98fd87d6] of an aerodrome for the purposes of the activities of a business (including any such provision which creates a criminal offence) shall also apply, with such modifications as are specified in the regulations, in relation to air cargo agents included on any such list,
+- (b) provide that any provision of this Part of this Act which applies in relation to persons who are permitted to have access to a security restricted area[^c-5b36acf13aa0cc8ed0b553eb98fd87d6] of an aerodrome for the purposes of the activities of a business (including any such provision which creates a criminal offence) shall also apply, with such modifications as are specified in the regulations, in relation to air cargo agents included on any such list,
 - (c) amend sections 21A(2), 21B(3) and 32(2) of this Act by including references to air cargo agents included on any such list,
 - (d) make provision (including any such provision as is mentioned in paragraphs (a) to (c) above) relating to a class of air cargo agents specified in the regulations and not to other air cargo agents,
 - (e) make different provision for different cases, and
 - (f) make such incidental, supplementary or transitional provision as the Secretary of State considers necessary or expedient in consequence of any provision made by the regulations.
 
-(3)[^key-4e7e56fc16d2e0c220f5a65ba1857dc7] Before making any regulations under this section the Secretary of State shall consult organisations appearing to him to represent persons affected by the proposed regulations.
+(3)[^c-4e7e56fc16d2e0c220f5a65ba1857dc7] Before making any regulations under this section the Secretary of State shall consult organisations appearing to him to represent persons affected by the proposed regulations.
 
 (4) Any statutory instrument containing regulations under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -52,8 +52,8 @@ summary: ''
 
 [^c794683]: Textual amendment: Ss. 21A–21G inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 5–7](https://www.legislation.gov.uk/ukpga/1990/31/section/5)
 
-[^key-9c3cd7c3819d574c17c4e7d7e32bf014]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/a) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
+[^c-9c3cd7c3819d574c17c4e7d7e32bf014]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/a) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
 
-[^key-5b36acf13aa0cc8ed0b553eb98fd87d6]: Textual amendment: Words in s. 21F(2)(b) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(i)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/i)
+[^c-5b36acf13aa0cc8ed0b553eb98fd87d6]: Textual amendment: Words in s. 21F(2)(b) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(i)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/i)
 
-[^key-4e7e56fc16d2e0c220f5a65ba1857dc7]: Modification: [S. 21F(3)](https://www.legislation.gov.uk/ukpga/1982/36/section/21F/3) applied (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/3/2); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
+[^c-4e7e56fc16d2e0c220f5a65ba1857dc7]: Modification: [S. 21F(3)](https://www.legislation.gov.uk/ukpga/1982/36/section/21F/3) applied (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/3/2); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)

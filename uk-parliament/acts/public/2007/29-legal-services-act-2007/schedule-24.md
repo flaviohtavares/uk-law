@@ -29,8 +29,8 @@ Section 213
 | authorised person, in relation to an activity | section 18 |
 | barrister | section 207 |
 | the Board | section 2 |
-| CLC practitioner services body[^key-6d08fc54337114f3222d7bf29802aae7] | paragraph 11 of Schedule 5 |
-| CMA[^key-495231f7f6e4f6732e23028e1991e365] | section 207 |
+| CLC practitioner services body[^c-6d08fc54337114f3222d7bf29802aae7] | paragraph 11 of Schedule 5 |
+| CMA[^c-495231f7f6e4f6732e23028e1991e365] | section 207 |
 | compensation arrangements | section 21 |
 | complainant (in Part 6) | section 160 |
 | conduct of litigation | Schedule 2 |
@@ -64,7 +64,7 @@ Section 213
 | non-reserved activity (in Part 5) | section 111 |
 | not for profit body | section 207 |
 | notarial activities | Schedule 2 |
-| [^key-910a067f945fed80f82e341e6d7f1fce]. . . | [^key-910a067f945fed80f82e341e6d7f1fce]. . . |
+| [^c-910a067f945fed80f82e341e6d7f1fce]. . . | [^c-910a067f945fed80f82e341e6d7f1fce]. . . |
 | the OLC | section 114 |
 | ombudsman | section 122 |
 | the ombudsman scheme | section 115 |
@@ -94,8 +94,8 @@ Section 213
 
 ## Annotations
 
-[^key-6d08fc54337114f3222d7bf29802aae7]: Textual amendment: Words in [Sch. 24](https://www.legislation.gov.uk/ukpga/2007/29/schedule/24) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/17); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-6d08fc54337114f3222d7bf29802aae7]: Textual amendment: Words in [Sch. 24](https://www.legislation.gov.uk/ukpga/2007/29/schedule/24) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/17); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-495231f7f6e4f6732e23028e1991e365]: Textual amendment: Words in Sch. 24 inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 123(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/123/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-495231f7f6e4f6732e23028e1991e365]: Textual amendment: Words in Sch. 24 inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 123(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/123/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-910a067f945fed80f82e341e6d7f1fce]: Textual amendment: Words in Sch. 24 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 123(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/123/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-910a067f945fed80f82e341e6d7f1fce]: Textual amendment: Words in Sch. 24 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 123(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/123/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Prohibition of paid canvassers[^key-789e395a66d10477d41896ff9cd39d84]
+## 73. Prohibition of paid canvassers[^c-789e395a66d10477d41896ff9cd39d84]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If a person (“P”) is, either before, during or after a Scottish parliamentar
 
 ## Annotations
 
-[^key-789e395a66d10477d41896ff9cd39d84]: Commencement: Art. 73 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-789e395a66d10477d41896ff9cd39d84]: Commencement: Art. 73 in force at 16.12.2015 in accordance with art. 1(1)

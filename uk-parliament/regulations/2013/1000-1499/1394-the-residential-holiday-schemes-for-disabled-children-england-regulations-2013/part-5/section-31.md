@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Regulations and guidance[^key-9f73045ce54a6a5aae94a81e0adc33e1]
+## 31. Regulations and guidance[^c-9f73045ce54a6a5aae94a81e0adc33e1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f73045ce54a6a5aae94a81e0adc33e1]: Commencement: Reg. 31 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-9f73045ce54a6a5aae94a81e0adc33e1]: Commencement: Reg. 31 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

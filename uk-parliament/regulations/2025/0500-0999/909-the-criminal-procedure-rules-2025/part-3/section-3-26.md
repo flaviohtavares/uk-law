@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.26. Commencement of preparatory hearing[^key-0915e3ca3465aa1a15460149f583fed8]
+## 3.26. Commencement of preparatory hearing[^c-0915e3ca3465aa1a15460149f583fed8]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ At the beginning of a preparatory hearing, the court must—
 
 ## Annotations
 
-[^key-0915e3ca3465aa1a15460149f583fed8]: Commencement: [Rule 3.26](https://www.legislation.gov.uk/uksi/2025/909/rule/3.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0915e3ca3465aa1a15460149f583fed8]: Commencement: [Rule 3.26](https://www.legislation.gov.uk/uksi/2025/909/rule/3.26) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00133]: Footnote: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38).
 

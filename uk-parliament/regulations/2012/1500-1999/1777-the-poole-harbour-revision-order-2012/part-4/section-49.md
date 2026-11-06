@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Payment of subscriptions, etc.[^key-13fe02570ef50e4be8f48bb4c2875e1e]
+## 49. Payment of subscriptions, etc.[^c-13fe02570ef50e4be8f48bb4c2875e1e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13fe02570ef50e4be8f48bb4c2875e1e]: Commencement: Art. 49 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-13fe02570ef50e4be8f48bb4c2875e1e]: Commencement: Art. 49 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

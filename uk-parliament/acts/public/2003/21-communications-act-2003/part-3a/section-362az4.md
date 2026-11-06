@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362AZ4. Penalty for failure to comply with confirmation decisions[^key-d17d1a0cb71c026839c806d710980e5d]
+## 362AZ4. Penalty for failure to comply with confirmation decisions[^c-d17d1a0cb71c026839c806d710980e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d17d1a0cb71c026839c806d710980e5d]: Textual amendment: Pt. 3A inserted (24.5.2024 for specified purposes, 23.8.2024 except for the insertion of ss. 362AA(1)(a)(c)(5)(8), 362AJ, 362AK, 362AO) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1), [55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))
+[^c-d17d1a0cb71c026839c806d710980e5d]: Textual amendment: Pt. 3A inserted (24.5.2024 for specified purposes, 23.8.2024 except for the insertion of ss. 362AA(1)(a)(c)(5)(8), 362AJ, 362AK, 362AO) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1), [55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))

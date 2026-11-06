@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The National Curriculum (Moderation of Assessment Arrangements for the Second and Third Key Stages) (Wales) Order 2015 (revoked)[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+The National Curriculum (Moderation of Assessment Arrangements for the Second and Third Key Stages) (Wales) Order 2015 (revoked)[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 Made
 
@@ -45,46 +45,46 @@ Coming into force
 
 1 September 2015
 
-[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 1. Title, commencement and application[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 2. Interpretation[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Moderation of teacher assessment[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 3. Moderation of teacher assessment[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duty to join a school moderation cluster group[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 4. Duty to join a school moderation cluster group[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duty to implement determinations and decisions of the school moderation cluster group[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 5. Duty to implement determinations and decisions of the school moderation cluster group[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Attendance at school moderation cluster group meetings[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 6. Attendance at school moderation cluster group meetings[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Procedure of school moderation cluster group meetings[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 7. Procedure of school moderation cluster group meetings[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Acting head teacher[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
+## 8. Acting head teacher[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc5a52b1c9d40f8bbf64f9d090a3f8c8]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1309) revoked (30.5.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2022/517/regulation/7)
+[^c-dc5a52b1c9d40f8bbf64f9d090a3f8c8]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1309) revoked (30.5.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2022/517/regulation/7)

@@ -33,37 +33,37 @@ summary: ''
 (4) Where—
 
 - (a) the standard members do not have a collective additional amount under section 206 for the period, and
-- (b) the collective additional amount under this section (before any reduction[^key-11dfe4bacf2a1e9c65689d462e23c8d3]) is equal to or greater than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
+- (b) the collective additional amount under this section (before any reduction[^c-11dfe4bacf2a1e9c65689d462e23c8d3]) is equal to or greater than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
 
 the collective additional amount under this section is to be reduced by the sum of those accrued amounts.
 
 (5) Where—
 
 - (a) the standard members do not have a collective additional amount under section 206 for the period, and
-- (b) the collective additional amount under this section (before any reduction[^key-471331a8f9f5d0e2ca0afa79a3318886]) is less than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
+- (b) the collective additional amount under this section (before any reduction[^c-471331a8f9f5d0e2ca0afa79a3318886]) is less than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
 
 the collective additional amount under this section is to be reduced to nil.
 
 (6) Where—
 
 - (a) the standard members have a collective additional amount under section 206 for the period, and
-- (b) the sum of the collective additional amount under this section (before any reduction[^key-4b6d495c781f15c6393096c37b1577cc]) and the collective additional amount under section 206 is less than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
+- (b) the sum of the collective additional amount under this section (before any reduction[^c-4b6d495c781f15c6393096c37b1577cc]) and the collective additional amount under section 206 is less than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
 
 the collective additional amount under this section is to be reduced to nil.
 
 (7) Where—
 
 - (a) the standard members have a collective additional amount under section 206 for the period, and
-- (b) the sum of the collective additional amount under this section (before any reduction[^key-4dea6a919a9249b205a612bcb43ddce9]) and the collective additional amount under section 206 is equal to or greater than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
+- (b) the sum of the collective additional amount under this section (before any reduction[^c-4dea6a919a9249b205a612bcb43ddce9]) and the collective additional amount under section 206 is equal to or greater than the sum of amounts of qualifying domestic top-up tax accrued by those members in that period,
 
 the collective additional amount under this section is to be reduced by the amount given by multiplying the sum of those amounts of qualifying domestic top-up tax by the amount given by dividing the collective additional amount under this section by the sum of that collective additional amount and the collective additional amount under section 206.
 
 ## Annotations
 
-[^key-11dfe4bacf2a1e9c65689d462e23c8d3]: Textual amendment: Words in s. 203(4)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-11dfe4bacf2a1e9c65689d462e23c8d3]: Textual amendment: Words in s. 203(4)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-471331a8f9f5d0e2ca0afa79a3318886]: Textual amendment: Words in s. 203(5)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-471331a8f9f5d0e2ca0afa79a3318886]: Textual amendment: Words in s. 203(5)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-4b6d495c781f15c6393096c37b1577cc]: Textual amendment: Words in s. 203(6)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-4b6d495c781f15c6393096c37b1577cc]: Textual amendment: Words in s. 203(6)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-4dea6a919a9249b205a612bcb43ddce9]: Textual amendment: Words in s. 203(7)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-4dea6a919a9249b205a612bcb43ddce9]: Textual amendment: Words in s. 203(7)(b) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 37](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/37), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

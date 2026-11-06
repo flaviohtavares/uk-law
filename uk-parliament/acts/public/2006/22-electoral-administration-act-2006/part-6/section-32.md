@@ -45,7 +45,7 @@ summary: ''
 (9) A local authority is—
 
 - (a) in England, a county council, a district council, a London borough council or the Greater London Authority;
-- (b)[^key-d398b4864a57d8216a7c49348caad2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d398b4864a57d8216a7c49348caad2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section—
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c18996261]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2006/22/section/32) wholly in force at 1.1.2007; [s. 32](https://www.legislation.gov.uk/ukpga/2006/22/section/32) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [s. 32](https://www.legislation.gov.uk/ukpga/2006/22/section/32) in force at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1), (subject to transitional provisions in Schedule 2)
 
-[^key-d398b4864a57d8216a7c49348caad2f1]: Textual amendment: [S. 32(9)(b)](https://www.legislation.gov.uk/ukpga/2006/22/section/32/9/b) omitted (E.W.) (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/4/2)
+[^c-d398b4864a57d8216a7c49348caad2f1]: Textual amendment: [S. 32(9)(b)](https://www.legislation.gov.uk/ukpga/2006/22/section/32/9/b) omitted (E.W.) (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/4/2)

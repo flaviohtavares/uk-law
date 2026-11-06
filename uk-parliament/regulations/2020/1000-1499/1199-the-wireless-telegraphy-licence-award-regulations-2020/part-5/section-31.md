@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Process for assigning standing high bid status: ranking the bids[^key-0c5d5d0551010b1ed21b059324c1fc53]
+## 31. Process for assigning standing high bid status: ranking the bids[^c-0c5d5d0551010b1ed21b059324c1fc53]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5d5d0551010b1ed21b059324c1fc53]: Commencement: Reg. 31 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-0c5d5d0551010b1ed21b059324c1fc53]: Commencement: Reg. 31 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

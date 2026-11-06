@@ -77,7 +77,7 @@ Regulation 84
 
 .
 
-##### 6. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-e1d4f508b172e3bac2d949ece0765125]
+##### 6. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-e1d4f508b172e3bac2d949ece0765125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -209,7 +209,7 @@ Regulation 84
 
 [^c23068481]: Marginal citation: [S.I. 2010/603](https://www.legislation.gov.uk/uksi/2010/603).
 
-[^key-e1d4f508b172e3bac2d949ece0765125]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/6) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-e1d4f508b172e3bac2d949ece0765125]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/6) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
 
 [^c23068501]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627), to which there are amendments not relevant to these Regulations.
 

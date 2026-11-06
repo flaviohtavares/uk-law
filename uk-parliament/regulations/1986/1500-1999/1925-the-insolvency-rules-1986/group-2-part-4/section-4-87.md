@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.87. Negotiable instruments, etc[^key-642e9e518157155f5923d8f9ac5baffa]
+## 4.87. Negotiable instruments, etc[^c-642e9e518157155f5923d8f9ac5baffa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the liquidator allows, a proof in respect of money owed on a bill of exch
 
 ## Annotations
 
-[^key-642e9e518157155f5923d8f9ac5baffa]: Commencement: [Rule 4.87](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.87) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-642e9e518157155f5923d8f9ac5baffa]: Commencement: [Rule 4.87](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.87) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

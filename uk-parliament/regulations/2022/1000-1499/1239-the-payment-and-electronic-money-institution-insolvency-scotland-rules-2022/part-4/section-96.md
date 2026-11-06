@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Expenses to be paid out of the relevant funds[^key-75e86c9a98818e0c6bda9ae84c7e9203]
+## 96. Expenses to be paid out of the relevant funds[^c-75e86c9a98818e0c6bda9ae84c7e9203]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e86c9a98818e0c6bda9ae84c7e9203]: Commencement: Rule 96 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-75e86c9a98818e0c6bda9ae84c7e9203]: Commencement: Rule 96 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

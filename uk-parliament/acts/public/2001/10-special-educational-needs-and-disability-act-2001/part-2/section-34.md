@@ -26,16 +26,16 @@ summary: ''
 
 (3) Section 528 of the 1996 Act ceases to have effect.
 
-(4)[^key-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f22b9f731f7a4ef9871b16935cbe3658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 35 of that Act (conditions imposed on financial resources in Wales), omit subsections (4) and (6).
 
 ## Annotations
 
-[^key-f22b9f731f7a4ef9871b16935cbe3658]: Textual amendment: S. 34(4)(5)(6)(7) repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-f22b9f731f7a4ef9871b16935cbe3658]: Textual amendment: S. 34(4)(5)(6)(7) repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

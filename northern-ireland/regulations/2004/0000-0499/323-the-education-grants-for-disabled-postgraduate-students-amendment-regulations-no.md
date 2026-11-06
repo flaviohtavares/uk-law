@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Grants for Disabled Postgraduate Students) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]
+The Education (Grants for Disabled Postgraduate Students) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st September 2004
 
-[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]
+## 1. Citation, commencement and interpretation[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional Provisions[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]
+## 2. Transitional Provisions[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Principal Regulations[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]
+## 3. Amendment of the Principal Regulations[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef2e376273ad2f1308b6eaa45e1ed6bf]: Textual amendment: Regulations revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(6)-(8)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/6))
+[^c-ef2e376273ad2f1308b6eaa45e1ed6bf]: Textual amendment: Regulations revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(6)-(8)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/6))

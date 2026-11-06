@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. HMO register[^key-c34fc3562b3754c493a291ed975a6d33]
+## 160. HMO register[^c-c34fc3562b3754c493a291ed975a6d33]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c34fc3562b3754c493a291ed975a6d33]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2006/1/section/160) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-c34fc3562b3754c493a291ed975a6d33]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2006/1/section/160) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

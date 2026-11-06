@@ -43,27 +43,27 @@ Coming into Operation
 
 2nd May 1984
 
-In the exercise of the powers conferred on me by sections 61, 101 and 165 of the Town and Country Planning (Scotland) Act, 1972[^f00001], and of all other powers enabling me in that behalf, I hereby make the following regulations:—[^key-cf28938b5dd890d4cc32cdec5af1d073][^key-6a0c7cdbdd532a51f771dc1eb1989f8d][^key-cdc018449ffbf232469c4c3943a98ab9][^key-be6737cfd0669a08018a6f19271d8c95][^key-99b8b86ba5a2ee87a234c65dcae1a2cd][^key-ee417dbd7d5fa6942425a917b04d52dd][^key-4008df081ee0f622d0567329780c70b9][^key-550d195c20552a291f054e9c12e02ade][^key-9c9ca295894fc77dc7f1843c795f5e02][^key-d13ebaf3e98691b019ebada706d7bbac]
+In the exercise of the powers conferred on me by sections 61, 101 and 165 of the Town and Country Planning (Scotland) Act, 1972[^f00001], and of all other powers enabling me in that behalf, I hereby make the following regulations:—[^c-cf28938b5dd890d4cc32cdec5af1d073][^c-6a0c7cdbdd532a51f771dc1eb1989f8d][^c-cdc018449ffbf232469c4c3943a98ab9][^c-be6737cfd0669a08018a6f19271d8c95][^c-99b8b86ba5a2ee87a234c65dcae1a2cd][^c-ee417dbd7d5fa6942425a917b04d52dd][^c-4008df081ee0f622d0567329780c70b9][^c-550d195c20552a291f054e9c12e02ade][^c-9c9ca295894fc77dc7f1843c795f5e02][^c-d13ebaf3e98691b019ebada706d7bbac]
 
 ## PART I — CITATION, COMMENCEMENT, INTERPRETATION AND APPLICATION
 
-### 1. Citation and commencement[^key-17b7d4bba3acc943fc4c33ea9b3287bf]
+### 1. Citation and commencement[^c-17b7d4bba3acc943fc4c33ea9b3287bf]
 
 These regulations may be cited as the Town and Country Planning (Control of Advertisements) (Scotland) Regulations 1984 and shall come into operation on 2nd May 1984.
 
-### 2. Interpretation[^key-a973d6408aa06f959226fd624a8050c2]
+### 2. Interpretation[^c-a973d6408aa06f959226fd624a8050c2]
 
 (1) In these regulations unless the context otherwise requires—
 
 - “**the Act**” means the Town and Country Planning (Scotland) Act 1972;
-- “[^key-ae74671768ae922cb0cacd9b6ad8c177]**advertisement**” means any word, letter, model, sign, placard, board, notice, awning, blind, device or representation, whether illuminated or not, in the nature of, and employed wholly or partly for the purposes of, advertisement, announcement or direction (excluding any such thing employed wholly as a memorial or as a railway signal), and includes any hoarding or similar structure or any balloon used or designed or adapted for use and anything else used, or designed or adapted principally for use, for the display of advertisements, and references to the display of advertisements shall be construed accordingly.
+- “[^c-ae74671768ae922cb0cacd9b6ad8c177]**advertisement**” means any word, letter, model, sign, placard, board, notice, awning, blind, device or representation, whether illuminated or not, in the nature of, and employed wholly or partly for the purposes of, advertisement, announcement or direction (excluding any such thing employed wholly as a memorial or as a railway signal), and includes any hoarding or similar structure or any balloon used or designed or adapted for use and anything else used, or designed or adapted principally for use, for the display of advertisements, and references to the display of advertisements shall be construed accordingly.
 - “**area of special control**” means an area defined by an order made under regulation 8 as an area of special control in respect of the display of advertisements;
 - “**balloon**” means a tethered balloon or similar object;
 - “**building**” includes any structure or erection and any part of a building as so defined;
 - “**business premises**” means any building or part of a building (but not the forecourt or other land forming part of the curtilage of the building) normally used for the carrying on of any professional, commercial or industrial undertaking, or for the provision by any organisation of services for payment, and includes public restaurants, licenced premises and places of public entertainment, but in the case of any building used principally for residential purposes includes only that part of the building normally used for the carrying on of such undertaking or the provision of any such services;
 - “**conservation area**” means an area designated under section 262 of the Act[^f00002];
 - “**discontinuance notice**” means a notice served in accordance with regulation 14;
-- “[^key-4027377bb2b5caa66c54aa99e6621b28]**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000;
+- “[^c-4027377bb2b5caa66c54aa99e6621b28]**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000;
 - “**enclosed land**” means land which is wholly or for the most part enclosed with any hedge, fence, wall or similar screen or structure, and shall be deemed to include any railway station together with its yards and forecourt whether enclosed or not, but shall not include any public park, public garden or other land held for the use or enjoyment of the public, or any railway line;
 - “**enforcement notice**” means a notice served in accordance with regulation 24;
 - “**forecourt**” for the purposes of Class IV of Schedule 4 includes any fence, wall or a similar screen or structure enclosing a forecourt and not forming part of the fabric of a building constituting business premises;
@@ -73,7 +73,7 @@ These regulations may be cited as the Town and Country Planning (Control of Adve
 - “**site**” in relation to an advertisement, means any land, or any building, other than an advertisement as herein defined, on which an advertisement is displayed;
 - “**specified classes**” means the classes of advertisement specified in Schedule 4;
 - “**standard conditions**” means the standard conditions set out in Schedule 1;
-- “**statutory undertakers**” and “**statutory undertaking**” have the same meaning as in section 275 of the Act and shall include a[^key-c6dcacef46e6bdf1e623e09243d5e3e6] public gas transporter[^key-ee922dc03d804cf36f0d3ba5eaf087fc] within the meaning of Part I of the Gas Act 1986 and holder of a licence within the meaning of Part I of the Electricity Act 1989, each of[^key-0468b2492388820e4f4c62063c3a2eea] whose undertaking shall be a statutory undertaking but in relation to the display of advertisements of Class I specified in Schedule 4 shall be deemed to include any undertaking carried out by the National Coal Board for the winning or supply of coal or any undertaking carried on by the British Airports Authority, the Civil Aviation Authority, the Post Office or British Telecommunications for the purposes of their respective functions;
+- “**statutory undertakers**” and “**statutory undertaking**” have the same meaning as in section 275 of the Act and shall include a[^c-c6dcacef46e6bdf1e623e09243d5e3e6] public gas transporter[^c-ee922dc03d804cf36f0d3ba5eaf087fc] within the meaning of Part I of the Gas Act 1986 and holder of a licence within the meaning of Part I of the Electricity Act 1989, each of[^c-0468b2492388820e4f4c62063c3a2eea] whose undertaking shall be a statutory undertaking but in relation to the display of advertisements of Class I specified in Schedule 4 shall be deemed to include any undertaking carried out by the National Coal Board for the winning or supply of coal or any undertaking carried on by the British Airports Authority, the Civil Aviation Authority, the Post Office or British Telecommunications for the purposes of their respective functions;
 
 and other expressions have the same meaning for the purpose of these regulations as they have for the purpose of the Act or, as the case may be, for the purpose of Part IX (Planning Functions) of the Local Government (Scotland) Act 1973[^f00003].
 
@@ -86,7 +86,7 @@ and other expressions have the same meaning for the purpose of these regulations
 
 (4) A regulation or Schedule referred to only by number in these regulations means the regulation or Schedule so numbered in these regulations.
 
-**2A.**[^key-64647713664cc2944d60b1aac066cc0c] (1) In these Regulations, and in relation to the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically–
+**2A.**[^c-64647713664cc2944d60b1aac066cc0c] (1) In these Regulations, and in relation to the use of electronic communications for any purpose of these Regulations which is capable of being effected electronically–
 
 - (a) the expression “address” includes any number or address used for the purposes of such communications, except that where these Regulations impose an obligation on any person to provide a name and address to any other person, the obligation shall not be fulfilled unless the person on whom it is imposed provides a postal address; and
 - (b) references to forms, plans, notices, or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
@@ -125,7 +125,7 @@ and for these purposes, “working day” means a day which is not a Saturday, S
 - (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the application, appeal, objection or notice; and
 - (c) that the person’s deemed agreement under this paragraph shall subsist until the person gives notice in accordance with regulation 32A that the person wishes to revoke the agreement.
 
-### 3. Application[^key-1ae4ad52dc511943eb1722ff5ab6df3a]
+### 3. Application[^c-1ae4ad52dc511943eb1722ff5ab6df3a]
 
 (1) Subject to the provisions of paragraphs (3) and (4) of this regulation, these regulations shall apply to the display on sites in Scotland of all advertisements, except any advertisement—
 
@@ -158,7 +158,7 @@ and for these purposes, “working day” means a day which is not a Saturday, S
 
 ## PART II — GENERAL PROVISIONS
 
-### 4. Control of advertisements to be exercised in the interests of amenity and public safety[^key-de371aeb6d50a6d551454612df859a15]
+### 4. Control of advertisements to be exercised in the interests of amenity and public safety[^c-de371aeb6d50a6d551454612df859a15]
 
 (1) The powers conferred by these regulations with respect to the grant or refusal of consent for the display of advertisements, the revocation or modification of such consent, and the discontinuance of the display of advertisements with consent deemed to be granted, shall be exercisable only in the interests of amenity and public safety.
 
@@ -177,28 +177,28 @@ but without prejudice to their power to have regard to any other material factor
 
 Provided that nothing in this paragraph shall affect the duty of the planning authority, when dealing with an application for consent for the display of a particular advertisement, to have regard to the effect on amenity and public safety of the display of that advertisement.
 
-### 5. Consent required for the display of advertisements[^key-121ebf71efb703656b18a179120fa069]
+### 5. Consent required for the display of advertisements[^c-121ebf71efb703656b18a179120fa069]
 
 (1) No advertisement may be displayed without consent granted either by the planning authority or by the Secretary of State on an application in that behalf (referred to in these regulations as “**express consent**”), or deemed to be granted in accordance with Part IV of these regulations.
 
 (2) Insofar as the nature of the consent permits, consent for the display of advertisements shall enure for the benefit of the site to which the consent relates and of all persons for the time being interested in that site; without prejudice however to the provisions of these regulations as respects the revocation or modification of consent.
 
-### 6. The standard conditions[^key-5b62aae5c2f347c4df01dc1f84e33e6c]
+### 6. The standard conditions[^c-5b62aae5c2f347c4df01dc1f84e33e6c]
 
 Without prejudice to the power of the planning authority to impose additional conditions upon the grant of consent under these regulations, the standard conditions set out in Schedule 1 shall apply without further notice to the display of all advertisements; and in the case of advertisements being displayed with consent deemed to be granted by these regulations the conditions set out in Part II of that Schedule shall also apply:
 
 Provided that:
 
 - (a) paragraph 1 of Schedule 1 shall not apply to advertisements of the type described in regulation 12(1)(a);
-- (b) paragraph 4 of Schedule 1 shall not apply to advertisements of the type described in regulation 12(1)(b) or (bb)[^key-7f2d7d4d68aa9819a3cd520ebde67cb8]
+- (b) paragraph 4 of Schedule 1 shall not apply to advertisements of the type described in regulation 12(1)(b) or (bb)[^c-7f2d7d4d68aa9819a3cd520ebde67cb8]
 
-or to advertisements displayed under—[^key-e4135273ad1a8dc8c5f312f0e4a57b13]
+or to advertisements displayed under—[^c-e4135273ad1a8dc8c5f312f0e4a57b13]
 
 - (a) section 21(2)(b), 36(2)(b) or 107(8)(c) of the Title Conditions (Scotland) Act 2003;
 - (b) paragraph 3A(c) of the First Schedule to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947;
 - (c) paragraph 2(1B)(c) of Schedule 5 to the Forestry Act 1967.
 
-### 7. Liability to fine for contravention of the regulations[^key-2d9c63c262eecf892ec039017cd3ae81]
+### 7. Liability to fine for contravention of the regulations[^c-2d9c63c262eecf892ec039017cd3ae81]
 
 (1) A person who displays an advertisement in contravention of these regulations shall be liable on summary conviction of an offence under section 101(2) of the Act[^f00004] to a fine not exceeding £200 and, in the case of a continuing offence, £20 for each day during which the offence continues after conviction.
 
@@ -206,7 +206,7 @@ or to advertisements displayed under—[^key-e4135273ad1a8dc8c5f312f0e4a57b13]
 
 ## PART III — AREAS OF SPECIAL CONTROL
 
-### 8. Definition of areas of special control[^key-fd3eb411e0b4876d4840dc6e860dce76]
+### 8. Definition of areas of special control[^c-fd3eb411e0b4876d4840dc6e860dce76]
 
 (1) Every planning authority shall from time to time consider whether any part, or additional part, of their district should be defined as an area of special control and whether any order made by them under this regulation should be modified or revoked.
 
@@ -219,7 +219,7 @@ or to advertisements displayed under—[^key-e4135273ad1a8dc8c5f312f0e4a57b13]
 
 (4) A planning authority shall exercise their functions under this regulation only in the interests of amenity and for this purpose shall have regard to the general characteristics of their area, including the presence therein of any feature of historic, architectural or cultural interest.
 
-### 9. Display of advertisements in areas of special control and conservation areas[^key-bc07e39b3161e971989420df8c8a6a95]
+### 9. Display of advertisements in areas of special control and conservation areas[^c-bc07e39b3161e971989420df8c8a6a95]
 
 (1) No display of advertisements may be undertaken in an area of special control except—
 
@@ -250,7 +250,7 @@ or to advertisements displayed under—[^key-e4135273ad1a8dc8c5f312f0e4a57b13]
 
 ## PART IV — ADVERTISEMENTS WHICH MAY BE DISPLA YEO WITHOUT EXPRESS CONSENT
 
-### 10. The specified classes[^key-e844f58b2bd3b76067c9366c4455a1f8]
+### 10. The specified classes[^c-e844f58b2bd3b76067c9366c4455a1f8]
 
 (1) Consent shall be deemed to be granted for the display of advertisements of the classes specified in Schedule 4 subject to the conditions therein in addition to the standard conditions.
 
@@ -260,7 +260,7 @@ or to advertisements displayed under—[^key-e4135273ad1a8dc8c5f312f0e4a57b13]
 
 (4) The conditions and limitations specified in this regulation apply only to the display without express consent of an advertisement within any class or description therein mentioned, and shall not restrict the powers of a planning authority with regard to the determination in accordance with these regulations of any application for express consent for the display of advertisements.
 
-### 11. Power to exclude application of regulation 10[^key-54d6c3260956de8bc4c0b3f97e2cc3a3]
+### 11. Power to exclude application of regulation 10[^c-54d6c3260956de8bc4c0b3f97e2cc3a3]
 
 (1) If the Secretary of State is satisfied, upon representations made to him by the planning authority, that the display of advertisements of a class or description specified in Schedule 4 should not be undertaken in any particular area or in any particular case without express consent he may direct that the provisions of regulation 10 shall not apply to the display of such advertisements in that area or in that case.
 
@@ -281,14 +281,14 @@ and in each instance the notice shall state that any objection to the making of 
 
 (7) A direction given under this regulation with respect to an area shall come into operation on the date specified in the notice relating to the direction, being a date not less than 14, and not more than 28, days after first publication of the notice; and a direction given under this regulation in a particular case shall come into operation on the date on which the notice of the direction is served on the occupier or, if there is no occupier, on the owner of the land.
 
-### 12. Election notices, statutory advertisements and traffic signs[^key-4dfdd14c0825e2456f079c70df6c4e9b]
+### 12. Election notices, statutory advertisements and traffic signs[^c-4dfdd14c0825e2456f079c70df6c4e9b]
 
 (1) Consent shall be deemed to be granted for the display of advertisements of the following descriptions:—
 
 - (a) any advertisement relating specifically to a pending Parliamentary, European Assembly or Local Government election, not being an advertisement to which sub-paragraph (b) of this regulation applies;
 - (b) advertisements required to be displayed by an enactment for the time being in force, or by Standing Orders of either House of Parliament, including advertisements the display of which is so required as a condition of the valid exercise of any other power, or proper performance of any function, given or imposed by an enactment;
-- (bb)[^key-7e69b13936ba0a636a3f65beae7b15e6] advertisements required to be displayed by or under section 3 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13);
-- (c) advertisements in the nature of traffic signs employed wholly for the control, guidance or safety of traffic, and displayed in accordance with an authorisation given by the Secretary of State or by the appropriate roads authority or the Police Service of Scotland[^key-52438b1af0c9d04801365d9ec4254690].
+- (bb)[^c-7e69b13936ba0a636a3f65beae7b15e6] advertisements required to be displayed by or under section 3 of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13);
+- (c) advertisements in the nature of traffic signs employed wholly for the control, guidance or safety of traffic, and displayed in accordance with an authorisation given by the Secretary of State or by the appropriate roads authority or the Police Service of Scotland[^c-52438b1af0c9d04801365d9ec4254690].
 
 (2) Consent deemed to be granted under this regulation shall be subject to the following conditions in addition to the standard conditions:—
 
@@ -296,7 +296,7 @@ and in each instance the notice shall state that any objection to the making of 
 - (b) advertisements displayed for a temporary purpose in relation to paragraph (1)(b) or (c) shall be removed as soon as may be after the expiry of the period during which such advertisement is required or authorised to be displayed, or, if no such period is specified, shall be removed within a reasonable time after the purpose for which such advertisement was required or authorised to be displayed is satisfied.
 - (c) where advertisements of the description specified in paragraph (1)(b) above could, apart from this regulation, be displayed as advertisements of a specified class under regulation 10, they shall conform with any provision of Schedule 4 as respects size, number or height in relation to the display of advertisements of that class, and otherwise shall not exceed in those respects what is necessary to achieve the purpose for which the display is required; without prejudice, however, to the express requirements in regard to size, number or height of any enactment or Standing Orders under which such advertisements are displayed.
 
-### 13. Advertisements on sites used for the display of advertisements on 16th August 1948[^key-78f20e172a37f71ee31a9aa7bade275e]
+### 13. Advertisements on sites used for the display of advertisements on 16th August 1948[^c-78f20e172a37f71ee31a9aa7bade275e]
 
 (1) Subject to paragraph (2) below, where a site was being used for the display of advertisements on 16th August 1948 the site may continue to be so used after the date of the coming into operation of these regulations without express consent.
 
@@ -307,7 +307,7 @@ and in each instance the notice shall state that any objection to the making of 
 - (a) there shall be no substantial increase in the extent, or substantial alteration in the manner, of the use of the site as it was used for the display of advertisements on 16th August 1948;
 - (b) where a building or structure on which advertisements were being displayed on 16th August 1948 is required under any enactment to be removed, consent under this regulation shall not extend to the erection of any building or structure on which to continue the display of such advertisements.
 
-### 14. Power to require the discontinuance of the display of advertisements displayed with deemed consent[^key-fe78b16e1b3cdabdf1d3fcbe2db40ea7]
+### 14. Power to require the discontinuance of the display of advertisements displayed with deemed consent[^c-fe78b16e1b3cdabdf1d3fcbe2db40ea7]
 
 (1) Subject to these regulations, the planning authority, if they consider it expedient to do so to remedy a substantial injury to the amenity of the locality or a danger to members of the public, may serve a notice under this regulation requiring the discontinuance of the display of an advertisement displayed with consent deemed to be granted under these regulations, other than an advertisement of a description specified in regulation 12, or requiring the discontinuance of the use of a site for the display of such an advertisement.
 
@@ -323,11 +323,11 @@ and in each instance the notice shall state that any objection to the making of 
 
 Provided that if an appeal is made to the Secretary of State under regulation 21 the notice shall be of no effect pending the final determination or withdrawal of the appeal.
 
-(5) The planning authority may, by serving a notice on every person who was served with the discontinuance notice, withdraw a discontinuance notice at any time before it takes effect or may, where no appeal to the Secretary of State under regulation 21 is pending, from time to time vary a discontinuance notice by extending the period specified therein for the taking effect of the notice [^key-c2725b4385c8157bf64d9ad14ddf1f88]....
+(5) The planning authority may, by serving a notice on every person who was served with the discontinuance notice, withdraw a discontinuance notice at any time before it takes effect or may, where no appeal to the Secretary of State under regulation 21 is pending, from time to time vary a discontinuance notice by extending the period specified therein for the taking effect of the notice [^c-c2725b4385c8157bf64d9ad14ddf1f88]....
 
 ## PART V — APPLICATIONS FOR EXPRESS CONSENT
 
-### 15. How to apply for consent[^key-d550d2e8381bc925f312230ed347a2ae]
+### 15. How to apply for consent[^c-d550d2e8381bc925f312230ed347a2ae]
 
 (1) Subject to the provisions of this regulation an application to a planning authority for consent to display advertisements shall be made on a form issued by that authority and shall include such particulars as may be required by that authority and shall be accompanied by such plans together with such additional number of copies (not exceeding 2) of the form and plans as may be required by the direction of the planning authority printed on the form.
 
@@ -335,7 +335,7 @@ Provided that if an appeal is made to the Secretary of State under regulation 21
 
 (3) If the planning authority consider that the information contained in the application is insufficient to enable them properly to determine it they may call for such further information as they require for that purpose.
 
-### 16. Duty to consult with respect to an application[^key-5960b51aafdf03cd5b0ad7ca3ff68e70]
+### 16. Duty to consult with respect to an application[^c-5960b51aafdf03cd5b0ad7ca3ff68e70]
 
 (1) Before determining an application for consent to display advertisements the planning authority shall consult—
 
@@ -347,7 +347,7 @@ Provided that if an appeal is made to the Secretary of State under regulation 21
 
 (2) A planning authority shall give to any authority, person or body with whom they are required to consult not less than 14 days' notice that an application is to be taken into consideration and shall on determining the application take into account any representations made by such authority, person or body.
 
-### 17. Power of planning authority to deal with an application[^key-9f15222ad36240667bdf31fa827f270b]
+### 17. Power of planning authority to deal with an application[^c-9f15222ad36240667bdf31fa827f270b]
 
 (1) Where application for consent for the display of advertisements is made to the planning authority, that authority may grant consent subject to the standard conditions specified in Schedule 1 and to such additional conditions as they think fit, or may refuse consent:
 
@@ -365,7 +365,7 @@ Provided that where the application relates to the display (in accordance with t
 
 (4) The power to grant consent for the display of advertisements under these regulations shall include power to grant consent for the retention on a site of any advertisements being displayed thereon before the date of the application or for the continuance of any use of a site for the display of advertisements begun before that date; and reference in these regulations to consent for the display of advertisements and to applications for such consent shall be construed accordingly.
 
-### 18. Consent to be limited[^key-aeb1ab275da3813cf8580eaef8854bf4]
+### 18. Consent to be limited[^c-aeb1ab275da3813cf8580eaef8854bf4]
 
 (1) Subject to paragraph (4) of this regulation, every grant of express consent shall operate for a period of 5 years from the date of the granting of consent:
 
@@ -379,19 +379,19 @@ Provided that the planning authority may, in the document granting consent, spec
 
 (5) At any time within a period of 6 months before the expiry of a consent, application may be made for its renewal and the provisions of these regulations relating to applications for consent and to their determination shall apply where application is made for such renewal.
 
-### 19. Display of advertisements after the expiration of express consent[^key-673dd3fe63d1305056bc2207a59a371e]
+### 19. Display of advertisements after the expiration of express consent[^c-673dd3fe63d1305056bc2207a59a371e]
 
 (1) Except where the planning authority when granting consent impose a condition to the contrary or where renewal of consent is applied for and refused, advertisements displayed with express consent may on the expiry of their term continue to be displayed subject to service by the planning authority of a discontinuance notice but without prejudice to the exercise of any other power in these regulations to require the removal of such advertisements.
 
 (2) Where under paragraph (1) of this regulation advertisements continue to be displayed after the expiry of express consent, consent shall be deemed to be granted in respect of the continuance of such display, subject to the like conditions as those to which the express consent immediately preceding it was subject and, unless previously brought to an end, shall expire when the site ceases to be used for such display of advertisements.
 
-### 20. Notification of planning authority's decision[^key-43bf19cce6ab07a4d1972c9bbbd23195]
+### 20. Notification of planning authority's decision[^c-43bf19cce6ab07a4d1972c9bbbd23195]
 
 (1) The grant or refusal by a planning authority of an application for consent for the display of advertisements shall be given by notice in writing to the applicant within 2 months from the date of receipt of the application or within such longer period as may be agreed in writing by the planning authority and the applicant.
 
 (2) Where the planning authority decide to grant consent subject to conditions in addition to the standard conditions, or to refuse consent, the reasons for their decision shall be stated in writing.
 
-(2A)[^key-5bfd40815ad3349d301432d91cbc2d22] Notification in writing of a decision and reasons for the purposes of paragraphs (1) and (2) shall be deemed to have been given to a person for the purposes of this regulation where–
+(2A)[^c-5bfd40815ad3349d301432d91cbc2d22] Notification in writing of a decision and reasons for the purposes of paragraphs (1) and (2) shall be deemed to have been given to a person for the purposes of this regulation where–
 
 - (a) the Scottish Ministers and the person have agreed that decision and reasons required under this regulation to be given in writing may instead be accessed by that person via a website;
 - (b) the decision and reasons are a decision and reasons to which that agreement applies;
@@ -401,11 +401,11 @@ Provided that the planning authority may, in the document granting consent, spec
   - (ii) the address of the website; and
   - (iii) the place on the website where the decision and reasons may be accessed, and how they may be accessed.
 
-(3)[^key-ddee9f5ce4316ff327a3b76a6a37e2f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ddee9f5ce4316ff327a3b76a6a37e2f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Appeals to the Secretary of State[^key-158d5ac384c7baf7342608e626f697e5]
+### 21. Appeals to the Secretary of State[^c-158d5ac384c7baf7342608e626f697e5]
 
-(1)[^key-8e9a9cdfc76bcbc244a2bbd1f32ad5d6] The provisions of sections 47 to 48 of the Act apply in relation to—
+(1)[^c-8e9a9cdfc76bcbc244a2bbd1f32ad5d6] The provisions of sections 47 to 48 of the Act apply in relation to—
 
 - (a) a consent to display advertisements;
 - (b) an application for such consent; and
@@ -418,25 +418,25 @@ as they apply to planning permission, an application for planning permission or 
 - (a) references to planning permission are to be treated as references to a consent to display advertisements; and
 - (b) section 47 of the Act applies as if subsections (1)(c), (2)(b) and (c) were omitted.
 
-(2) Where the planning authority serve a discontinuance notice on any person the provisions of paragraph (1) above shall apply (other than to the extent to which it applies section 47A of the Act)[^key-5601ebc42f13d9145b1ade10412a8d45] as if that person had made an application for consent for the display of the advertisements, or for the use of the site, to which the notice relates and the planning authority had refused consent for the reasons stated in the notice and as if the discontinuance notice constituted notification of the planning authority's decision in terms of regulation 20.
+(2) Where the planning authority serve a discontinuance notice on any person the provisions of paragraph (1) above shall apply (other than to the extent to which it applies section 47A of the Act)[^c-5601ebc42f13d9145b1ade10412a8d45] as if that person had made an application for consent for the display of the advertisements, or for the use of the site, to which the notice relates and the planning authority had refused consent for the reasons stated in the notice and as if the discontinuance notice constituted notification of the planning authority's decision in terms of regulation 20.
 
-(3)[^key-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2f3ebf12a74f41176c040936400be542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) On the determination of an appeal under this regulation in respect of a discontinuance notice served by the planning authority the Secretary of State shall give such direction as may be necessary for giving effect to his determination including, where appropriate, directions for quashing the discontinuance notice or for varying the terms of the discontinuance notice in favour of the appellant.
 
-(9)[^key-47b9514975589adb160ce09b4fe3440b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-47b9514975589adb160ce09b4fe3440b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VI — PROVISIONS AS TO REVOCATION AND MODIFICATION OF CONSENT
 
-### 22. Revocation and modification of consent[^key-fe01721521a64a74655b7d2b92639393]
+### 22. Revocation and modification of consent[^c-fe01721521a64a74655b7d2b92639393]
 
 (1) Subject to the provisions of regulation 4 and of this regulation, if it appears to the planning authority that it is expedient that any express consent for the display of advertisements should be revoked or modified, they may by order revoke or modify the consent to such extent as appears to them to be expedient:
 
@@ -451,7 +451,7 @@ Provided that no such order shall take effect unless it is confirmed by the Secr
 
 Provided that the revocation or modification of consent for a display which involves the carrying out of building or similar operations shall not affect so much of these operations as has been carried out before the date on which the order was confirmed.
 
-### 23. Supplementary provisions as to revocation and modification[^key-446144df9d2c04036faf16ea14b30ab8]
+### 23. Supplementary provisions as to revocation and modification[^c-446144df9d2c04036faf16ea14b30ab8]
 
 (1) Where consent for the display of advertisements is revoked or modified by an order made under regulation 22 then if, on a claim made to the planning authority in writing and served on that authority by delivering it at, or by sending it by prepaid post to, their offices within 6 months after confirmation of the order, it is shown that any person has incurred expenditure in carrying out, in connection with the display in question, work which is rendered abortive by the revocation or modification, or has otherwise sustained loss or damage which is directly attributable to the revocation or modification, that authority shall pay to that person compensation in respect of that expenditure, loss or damage:
 
@@ -461,7 +461,7 @@ Provided that no compensation shall be payable under the paragraph in respect of
 
 ## PART VII — PROVISIONS AS TO ENFORCEMENT
 
-### 24. Enforcement of advertisement control[^key-978df0ca16a8612588d7aeb9ad24a33c]
+### 24. Enforcement of advertisement control[^c-978df0ca16a8612588d7aeb9ad24a33c]
 
 (1) If it appears to a planning authority that any advertisement has been displayed without a consent required by these regulations or that any condition or limitation subject to which such consent was granted or was deemed to be granted has not been complied with, then the planning authority may serve a notice under this regulation.
 
@@ -469,7 +469,7 @@ Provided that no compensation shall be payable under the paragraph in respect of
 
 (3) An enforcement notice shall specify the advertisement which is alleged to have been displayed without consent or the matters in respect of which it is alleged that any condition or limitation has not been complied with, and may specify steps that shall be taken within a given period to restore the land to its condition before the display was begun or to secure compliance with the condition or limitation; but may in addition specify, as an alternative, steps required to be taken to bring the display to a condition acceptable to the planning authority having regard to the provisions of these regulations; and in particular any such notice may for this purpose require the demolition or alteration of any buildings or works, the discontinuance of any use of land, or the carrying out on land of any building or other operations.
 
-(4) Subject to section 131(3) of the Act as applied by[^key-fc99a57988cb2b5266868584f1c2dfcb] regulation 25 an enforcement notice shall take effect on the date specified in the notice, which date shall be—
+(4) Subject to section 131(3) of the Act as applied by[^c-fc99a57988cb2b5266868584f1c2dfcb] regulation 25 an enforcement notice shall take effect on the date specified in the notice, which date shall be—
 
 - (a) in any case where the planning authority consider it urgently necessary in the interests of public safety that the advertisement to which the notice relates should be altered or removed, or where they are satisfied that any steps required by the notice to be taken can be taken without the removal or substantial modification of any structure or the carrying out of any building or similar operations on land, 7 days; and
 - (b) in any other case, 28 days,
@@ -482,7 +482,7 @@ from the date of the latest service of the notice.
 
 (7) If any development is carried out on land by way of re-instating or restoring buildings or works which have been demolished or altered in compliance with an enforcement notice, the notice shall, notwithstanding that its terms are not apt for the purpose, be deemed to apply in relation to the buildings or works as re-instated or restored as it applied in relation to the buildings or works before they were demolished or altered.
 
-### 25. Enforcement Appeals to the Scottish Ministers[^key-a8d66122de0fe395b98c4dc7f1c5dcc7]
+### 25. Enforcement Appeals to the Scottish Ministers[^c-a8d66122de0fe395b98c4dc7f1c5dcc7]
 
 (1) The provisions of sections 130 to 132 of the Act apply in relation to an enforcement notice served under regulation 24 as they apply to an enforcement notice issued under section 127 of the Act subject to the modifications specified in paragraph (2).
 
@@ -496,7 +496,7 @@ from the date of the latest service of the notice.
   - (iv) that the steps required by the notice to be taken exceed what is necessary for the purpose identified under regulation 24(3); and
 - (c) the reference in section 132(4) of the Act to section 127(2) is treated as a reference to regulation 24 of these Regulations.
 
-### 26. Execution and cost of operations required by enforcement notice[^key-e5cf9ff1c90679b236ed20d943422b5e]
+### 26. Execution and cost of operations required by enforcement notice[^c-e5cf9ff1c90679b236ed20d943422b5e]
 
 (1) If within the period specified in an enforcement notice, or within such extended period as the planning authority may allow, any steps required by the notice to be taken (other than the discontinuance of any use of land) have not been taken, the planning authority may enter on the land and take those steps and, subject to the proviso to this regulation, may recover as a civil debt from the person who is then the owner or the lessee of the land any expenses reasonably incurred by them in taking those steps; and if that person, having been entitled to appeal to the Secretary of State under regulation 25, failed to make such an appeal, he shall not be entitled in proceeding under this paragraph to dispute the validity of the action taken by the planning authority in accordance with the notice:
 
@@ -511,7 +511,7 @@ Provided that where the person who is then the owner or the lessee of the land w
 
 his liability shall be limited to the total amount of the money which he has or has had in his hands as aforesaid; but a planning authority who by reason of the foregoing provisions of this regulation have not recovered the whole of any such expenses from a trustee, tutor, curator, factor or agent may recover any unpaid balance from the person on whose behalf the rent is received.
 
-### 26A. Stop notices[^key-de5eb59201513431e5d28abe57569b93]
+### 26A. Stop notices[^c-de5eb59201513431e5d28abe57569b93]
 
 (1) The provisions of sections 136, 140(1), (3) and (7) to (9), 141, 142, 143(1) to (5) and 144 of the Act apply in respect to an enforcement notice served under regulation 24 as they apply in respect to an enforcement notice issued under section 127 of the Act subject to the modifications specified in paragraph (2).
 
@@ -524,7 +524,7 @@ his liability shall be limited to the total amount of the money which he has or 
 
 ## PART VIII — MISCELLANEOUS
 
-### 27. Advertisements relating to travelling circuses and fairs[^key-fab7280ca6c4d6153d163b87a2d6ea7e]
+### 27. Advertisements relating to travelling circuses and fairs[^c-fab7280ca6c4d6153d163b87a2d6ea7e]
 
 (1) On application in that behalf being made to them, a planning authority may grant consent for the temporary display, on unspecified sites in their district, of placards, posters or bills relating to the visit of a travelling circus, fair or similar travelling entertainment to any specified place in the area; and for the purposes of this regulation the expression “**in the area**” means in the district of the planning authority to whom application for such consent is made or in the district of any neighbouring planning authority.
 
@@ -536,11 +536,11 @@ his liability shall be limited to the total amount of the money which he has or 
 
 (3) Without prejudice to the right to apply under Part V of these regulations for consent to display advertisements of the foregoing description on specified sites, the provisions of the Part shall not apply to an application for consent under this regulation, and the decision of a planning authority on any such application shall be final.
 
-### 28. Power of Secretary of State[^key-0947e9178a13c89f9f63649f49faa700]
+### 28. Power of Secretary of State[^c-0947e9178a13c89f9f63649f49faa700]
 
 The Secretary of State may if he thinks fit give a direction to any planning authority or to planning authorities in general requiring them to furnish him with such information as he may require for the purpose of exercising any of his functions under these regulations.
 
-### 29. Extension of time[^key-6196177a23149a4359b67e6bf6c3a478]
+### 29. Extension of time[^c-6196177a23149a4359b67e6bf6c3a478]
 
 (1) Subject to the provisions of the Act and of these regulations—
 
@@ -554,13 +554,13 @@ and any such extension may be granted either unconditionally or subject to such 
 - (a) the time within which the planning authority is required under regulation 20 to notify an applicant of the manner in which his application has been dealt with save as expressly provided in that regulation;
 - (b) any period specified by these regulations during which an advertisement may be displayed with consent deemed to be granted.
 
-### 30. How to claim compensation in respect of expenses under section 165 of the Act[^key-95167ec248218dab31aa882352755005]
+### 30. How to claim compensation in respect of expenses under section 165 of the Act[^c-95167ec248218dab31aa882352755005]
 
 (1) Any person who is required by or under these regulations to remove an advertisement which was being displayed on 16th August 1948 or to discontinue the use for the display or advertisements of any site being used for that purpose on 16th August 1948, and who desires to claim compensation under section 165 of the Act[^f00006] in respect of any expenses reasonably incurred by him in carrying out works in compliance with such a requirement, shall submit a claim in writing to the planning authority within 6 months after the completion of such works; and such a claim shall contain sufficient information to enable the planning authority to give proper consideration to the claim.
 
 (2) If the planning authority consider that the information furnished by any claimant under this regulation is insufficient to enable them properly to determine the claim they may call for such further particulars as they require for that purpose.
 
-### 31. Register of applications[^key-2b891483a5a188becf045e9642218d6f]
+### 31. Register of applications[^c-2b891483a5a188becf045e9642218d6f]
 
 (1) Every planning authority shall keep a register available for public inspection, containing the following information in respect of all land within their district, namely:—
 
@@ -579,13 +579,13 @@ Provided that so much of the register as relates to land within any particular p
 
 (5) Every register kept under paragraph (1) above shall be available for inspection by the public at all reasonable hours.
 
-### 32. Directions and notices[^key-a5785a3a1cb156c655773fc55841bab3]
+### 32. Directions and notices[^c-a5785a3a1cb156c655773fc55841bab3]
 
 (1) Any power conferred by these regulations to give a direction shall be construed as including power to cancel or vary that direction by a subsequent direction.
 
 (2) Any notice to be served or given under these regulations may be served or given in the manner prescribed by section 269 of the Act and by any regulations made under that section.
 
-### 32A. Withdrawal of consent to use of electronic communications[^key-e602a54f22535e4ed15e64d0a3c6cd39]
+### 32A. Withdrawal of consent to use of electronic communications[^c-e602a54f22535e4ed15e64d0a3c6cd39]
 
 Where a person is no longer willing to accept the use of electronic communications for any purpose which, under these Regulations, is capable of being carried out using such communications, that person shall give notice in writing–
 
@@ -596,13 +596,13 @@ and such withdrawal or revocation shall be final and shall take effect on a date
 
 ## PART IX — REVOCATION AND SAVINGS
 
-### 33. Revocation and savings[^key-b3a26e15005335c8202bd5df0db7f40e]
+### 33. Revocation and savings[^c-b3a26e15005335c8202bd5df0db7f40e]
 
 (1) The Town and Country Planning (Control of Advertisements) (Scotland) Regulations 1961[^f00007] are hereby revoked.
 
 (2) Any application, appeal or claim made, consent granted or deemed to be granted, direction given or notice served under the regulations hereby revoked which, at the coming into operation of these regulations, is outstanding, shall continue in force, have effect and be determined as if made, granted, deemed to be granted, given or served under the corresponding provisions of these regulations.
 
-### 34. Other statutory obligations unaffected[^key-ae24d9fa93e51353936a50f1c5aaafb0]
+### 34. Other statutory obligations unaffected[^c-ae24d9fa93e51353936a50f1c5aaafb0]
 
 Nothing in these regulations or any consent granted under these regulations shall be taken as operating to discharge any obligation or liability imposed under any other enactment in force, in relation to any operation or other matter involved in the display of advertisements.
 
@@ -622,19 +622,19 @@ Regulation 6
 
 ### PART I
 
-#### 1. Conditions attaching to all consents save as otherwise provided in the regulations[^key-c9d3ea3f63a6cf06dbeb37ea3454e637]
+#### 1. Conditions attaching to all consents save as otherwise provided in the regulations[^c-c9d3ea3f63a6cf06dbeb37ea3454e637]
 
 All advertisements displayed, and any land used for the display of advertisements, shall be maintained in a clean and tidy condition to the reasonable satisfaction of the planning authority.
 
-**2.**[^key-22e5f35636cefba2b15adda4f577a572] Any hoarding or similar structure, or any sign, placard, board or device erected or used principally for the purpose of displaying advertisements shall be maintained in a safe condition to the reasonable satisfaction of the planning authority.
+**2.**[^c-22e5f35636cefba2b15adda4f577a572] Any hoarding or similar structure, or any sign, placard, board or device erected or used principally for the purpose of displaying advertisements shall be maintained in a safe condition to the reasonable satisfaction of the planning authority.
 
-**3.**[^key-84329e343f5ecef2462966713690401c] Where any advertisement is required under these regulations to be removed the removal thereof shall be carried out to the reasonable satisfaction of the planning authority.
+**3.**[^c-84329e343f5ecef2462966713690401c] Where any advertisement is required under these regulations to be removed the removal thereof shall be carried out to the reasonable satisfaction of the planning authority.
 
-**4.**[^key-4e134fba61d36bcd0149ddbbe47e0975] Before an advertisement is displayed on land the permission of the owner of that land or other person entitled to grant permission shall be obtained.
+**4.**[^c-4e134fba61d36bcd0149ddbbe47e0975] Before an advertisement is displayed on land the permission of the owner of that land or other person entitled to grant permission shall be obtained.
 
 ### PART II
 
-#### 5. Conditions attaching to consent deemed to be granted for the display of advertisements[^key-d05e54d6f2e5121eb6a7a26fd820318e]
+#### 5. Conditions attaching to consent deemed to be granted for the display of advertisements[^c-d05e54d6f2e5121eb6a7a26fd820318e]
 
 Advertisements shall not be sited or displayed so as to obscure, or hinder the ready interpretation of, any road traffic sign, railway signal or aid to navigation by water or air, or so as otherwise to render hazardous the use of any road, railway, waterway (including any coastal waters) or airfield.
 
@@ -642,21 +642,21 @@ Advertisements shall not be sited or displayed so as to obscure, or hinder the r
 
 Regulation 8
 
-**1.**[^key-45514f4119307ad45d982d24c98aa76e] Where a planning authority propose to define an area of special control they shall make an order defining an area by reference to a map annexed thereto, either with or without descriptive matter (which, in the case of any discrepancy with the map, shall prevail except in so far as may be otherwise provided by the order), and shall submit to the Secretary of State 2 certified copies of the order, map and descriptive matter (if any), and a statement of their reasons for proposing to make the order.
+**1.**[^c-45514f4119307ad45d982d24c98aa76e] Where a planning authority propose to define an area of special control they shall make an order defining an area by reference to a map annexed thereto, either with or without descriptive matter (which, in the case of any discrepancy with the map, shall prevail except in so far as may be otherwise provided by the order), and shall submit to the Secretary of State 2 certified copies of the order, map and descriptive matter (if any), and a statement of their reasons for proposing to make the order.
 
-**2.**[^key-c08215324da2b3ae2ec46f972c2e49f6] The authority shall forthwith publish in the Edinburgh Gazette, and in each of 2 successive weeks in one or more newspapers circulating in the locality in which the area is situated, a notice related to the submission for approval of the order in the form prescribed (Schedule 3, Form 1) or in a form substantially to the like effect.
+**2.**[^c-c08215324da2b3ae2ec46f972c2e49f6] The authority shall forthwith publish in the Edinburgh Gazette, and in each of 2 successive weeks in one or more newspapers circulating in the locality in which the area is situated, a notice related to the submission for approval of the order in the form prescribed (Schedule 3, Form 1) or in a form substantially to the like effect.
 
-**3.**[^key-b7720f27353698447f182624c69c68b6] If any objection is duly made and not withdrawn the Secretary of State shall, before approving the order, afford to the person making such objection an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose, and if any such person avails himself of the opportunity of being heard the Secretary of State shall also afford the like opportunity to the planning authority and to such other persons as he thinks fit.
+**3.**[^c-b7720f27353698447f182624c69c68b6] If any objection is duly made and not withdrawn the Secretary of State shall, before approving the order, afford to the person making such objection an opportunity of appearing before and being heard by a person appointed by the Secretary of State for the purpose, and if any such person avails himself of the opportunity of being heard the Secretary of State shall also afford the like opportunity to the planning authority and to such other persons as he thinks fit.
 
-**4.**[^key-a7e3702954069ff7404590f5eb996017] After considering any representation or objection duly made and not withdrawn and the report of the person by whom any inquiry or hearing was held, the Secretary of State may approve the order with or without modifications:
+**4.**[^c-a7e3702954069ff7404590f5eb996017] After considering any representation or objection duly made and not withdrawn and the report of the person by whom any inquiry or hearing was held, the Secretary of State may approve the order with or without modifications:
 
 Provided that if the Secretary of State proposes to approve the order subject to a modification involving the inclusion therein of any area of land not included in the order as submitted he shall publish prior notice of his intention so to do and shall afford opportunity for the making of objections or representations with respect to the proposed modification, and for such further hearing as may appear to him to be necessary or expedient.
 
-**5.**[^key-a42abff3135228323de851fd41376519] As soon as may be after the order has been approved, the planning authority shall publish in the Edinburgh Gazette, and in each of 2 successive weeks in one or more newspapers circulating in the locality in which the area is situated, a notice relating to the approval of the order in the form prescribed (Schedule 3, Form 2) or in a form substantially to the like effect and any such order shall come into force on the date on which notice of the approval thereof is published in the Edinburgh Gazette.
+**5.**[^c-a42abff3135228323de851fd41376519] As soon as may be after the order has been approved, the planning authority shall publish in the Edinburgh Gazette, and in each of 2 successive weeks in one or more newspapers circulating in the locality in which the area is situated, a notice relating to the approval of the order in the form prescribed (Schedule 3, Form 2) or in a form substantially to the like effect and any such order shall come into force on the date on which notice of the approval thereof is published in the Edinburgh Gazette.
 
-**6.**[^key-de24abcb88847a3c18d4666326811f09] These provisions apply, with necessary modifications, to the making of an order revoking or modifying an existing area defining an area of special control.
+**6.**[^c-de24abcb88847a3c18d4666326811f09] These provisions apply, with necessary modifications, to the making of an order revoking or modifying an existing area defining an area of special control.
 
-## SCHEDULE 3 — FORMS OF NOTICES[^key-fb35dd980508f129f7454c8f1856bafb]
+## SCHEDULE 3 — FORMS OF NOTICES[^c-fb35dd980508f129f7454c8f1856bafb]
 
 Regulation 8
 
@@ -672,7 +672,7 @@ Form of notice of the approval of an order defining an area of special control
 
 [image: see source](https://www.legislation.gov.uk/uksi/1984/467/images/uksi_19840467_en_002) [image: see source](https://www.legislation.gov.uk/uksi/1984/467/images/uksi_19840467_en_003)
 
-## SCHEDULE 4 — THE SPECIFIED CLASSES OF ADVERTISEMENTS DISPLAYED WITH DEEMED CONSENT[^key-40345f2d5628d6b540381f55932b5e8c]
+## SCHEDULE 4 — THE SPECIFIED CLASSES OF ADVERTISEMENTS DISPLAYED WITH DEEMED CONSENT[^c-40345f2d5628d6b540381f55932b5e8c]
 
 Regulation 10
 
@@ -715,7 +715,7 @@ Regulation 10
 </tbody>
 </table>
 
-[^key-e9de8cf72c13ecb05665acd5d242cfdf][^key-5a307dbd90ec54e8cc09fcb481edfcb2][^key-78073e5d86c10cba84167a578ab8c36b][^key-fd3085830d118062e261f52ed2eed223][^key-db2f120cd3de505fb03a81e299e497fd][^key-7f51d5ca30958ee38184b4ea41e27499][^key-b2996c875001a905220d33f493291d11]
+[^c-e9de8cf72c13ecb05665acd5d242cfdf][^c-5a307dbd90ec54e8cc09fcb481edfcb2][^c-78073e5d86c10cba84167a578ab8c36b][^c-fd3085830d118062e261f52ed2eed223][^c-db2f120cd3de505fb03a81e299e497fd][^c-7f51d5ca30958ee38184b4ea41e27499][^c-b2996c875001a905220d33f493291d11]
 
 EXPLANATORY NOTE
 
@@ -743,180 +743,180 @@ The following changes of substance have been made:—
 
 [^f00001]: Footnote: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52); section 61 was amended by the [Town and Country Amenities Act 1974 (c. 32)](https://www.legislation.gov.uk/ukpga/1974/32), section 3(2) and by the [Local Government and Planning (Scotland) Act 1982 (c. 43)](https://www.legislation.gov.uk/ukpga/1982/43), Schedule 4; section 101(2) was amended by the Local Government and Planning (Scotland) Act 1982, Schedule 2, paragraph 31 and by the [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), sections 289F and 289G (as inserted by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 43).
 
-[^key-cf28938b5dd890d4cc32cdec5af1d073]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (31.7.1997) by [Referendums (Scotland and Wales) Act 1997 (c. 61)](https://www.legislation.gov.uk/ukpga/1997/61), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/1997/61/schedule/3/paragraph/3/1)
+[^c-cf28938b5dd890d4cc32cdec5af1d073]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (31.7.1997) by [Referendums (Scotland and Wales) Act 1997 (c. 61)](https://www.legislation.gov.uk/ukpga/1997/61), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/1997/61/schedule/3/paragraph/3/1)
 
-[^key-6a0c7cdbdd532a51f771dc1eb1989f8d]: Modification: Regulations applied (11.3.1999) by [The Scottish Parliament (Elections etc.) Order 1999 (S.I. 1999/787)](https://www.legislation.gov.uk/uksi/1999/787), [arts. 1](https://www.legislation.gov.uk/uksi/1999/787/article/1), [90](https://www.legislation.gov.uk/uksi/1999/787/article/90)
+[^c-6a0c7cdbdd532a51f771dc1eb1989f8d]: Modification: Regulations applied (11.3.1999) by [The Scottish Parliament (Elections etc.) Order 1999 (S.I. 1999/787)](https://www.legislation.gov.uk/uksi/1999/787), [arts. 1](https://www.legislation.gov.uk/uksi/1999/787/article/1), [90](https://www.legislation.gov.uk/uksi/1999/787/article/90)
 
-[^key-cdc018449ffbf232469c4c3943a98ab9]: Modification: Regulations applied (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [86](https://www.legislation.gov.uk/uksi/2002/2779/article/86)
+[^c-cdc018449ffbf232469c4c3943a98ab9]: Modification: Regulations applied (20.11.2002 except for the purposes of any election where the last day for the publication of the notice of election in respect of that election precedes that date) by [The Scottish Parliament (Elections etc.) Order 2002 (S.I. 2002/2779)](https://www.legislation.gov.uk/uksi/2002/2779), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2779/article/1), [86](https://www.legislation.gov.uk/uksi/2002/2779/article/86)
 
-[^key-be6737cfd0669a08018a6f19271d8c95]: Modification: Regulations applied in part (Crown) (with modifications) (12.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) (Scotland) Order 2006 (S.S.I. 2006/270)](https://www.legislation.gov.uk/ssi/2006/270), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/270/article/1/1), [6](https://www.legislation.gov.uk/ssi/2006/270/article/6)
+[^c-be6737cfd0669a08018a6f19271d8c95]: Modification: Regulations applied in part (Crown) (with modifications) (12.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) (Scotland) Order 2006 (S.S.I. 2006/270)](https://www.legislation.gov.uk/ssi/2006/270), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/270/article/1/1), [6](https://www.legislation.gov.uk/ssi/2006/270/article/6)
 
-[^key-99b8b86ba5a2ee87a234c65dcae1a2cd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (30.12.2010) by [The Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999)](https://www.legislation.gov.uk/uksi/2010/2999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1), [89](https://www.legislation.gov.uk/uksi/2010/2999/article/89) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2999/regulation/1/2))
+[^c-99b8b86ba5a2ee87a234c65dcae1a2cd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (30.12.2010) by [The Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999)](https://www.legislation.gov.uk/uksi/2010/2999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1), [89](https://www.legislation.gov.uk/uksi/2010/2999/article/89) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2999/regulation/1/2))
 
-[^key-ee417dbd7d5fa6942425a917b04d52dd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/18/2)
+[^c-ee417dbd7d5fa6942425a917b04d52dd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/18/2)
 
-[^key-4008df081ee0f622d0567329780c70b9]: Modification: Regulations applied (18.12.2013) by [Scottish Independence Referendum Act 2013 (asp 14)](https://www.legislation.gov.uk/asp/2013/14), [s. 36](https://www.legislation.gov.uk/asp/2013/14/section/36), [sch. 4 para. 28](https://www.legislation.gov.uk/asp/2013/14/schedule/4/paragraph/28)
+[^c-4008df081ee0f622d0567329780c70b9]: Modification: Regulations applied (18.12.2013) by [Scottish Independence Referendum Act 2013 (asp 14)](https://www.legislation.gov.uk/asp/2013/14), [s. 36](https://www.legislation.gov.uk/asp/2013/14/section/36), [sch. 4 para. 28](https://www.legislation.gov.uk/asp/2013/14/schedule/4/paragraph/28)
 
-[^key-550d195c20552a291f054e9c12e02ade]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [85](https://www.legislation.gov.uk/ssi/2015/425/article/85) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2))
+[^c-550d195c20552a291f054e9c12e02ade]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [85](https://www.legislation.gov.uk/ssi/2015/425/article/85) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2))
 
-[^key-9c9ca295894fc77dc7f1843c795f5e02]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 110](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/110)
+[^c-9c9ca295894fc77dc7f1843c795f5e02]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 110](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/110)
 
-[^key-d13ebaf3e98691b019ebada706d7bbac]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [s. 41](https://www.legislation.gov.uk/asp/2020/2/section/41), [sch. 3 para. 29](https://www.legislation.gov.uk/asp/2020/2/schedule/3/paragraph/29)
+[^c-d13ebaf3e98691b019ebada706d7bbac]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1984/467) applied (30.1.2020) by [Referendums (Scotland) Act 2020 (asp 2)](https://www.legislation.gov.uk/asp/2020/2), [s. 41](https://www.legislation.gov.uk/asp/2020/2/section/41), [sch. 3 para. 29](https://www.legislation.gov.uk/asp/2020/2/schedule/3/paragraph/29)
 
-[^key-17b7d4bba3acc943fc4c33ea9b3287bf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-17b7d4bba3acc943fc4c33ea9b3287bf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-a973d6408aa06f959226fd624a8050c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1984/467/regulation/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-a973d6408aa06f959226fd624a8050c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1984/467/regulation/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-ae74671768ae922cb0cacd9b6ad8c177]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) substituted (10.8.1992) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 1992 (S.I. 1992/1763)](https://www.legislation.gov.uk/uksi/1992/1763), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1763/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/1763/regulation/2)
+[^c-ae74671768ae922cb0cacd9b6ad8c177]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) substituted (10.8.1992) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 1992 (S.I. 1992/1763)](https://www.legislation.gov.uk/uksi/1992/1763), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1763/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/1763/regulation/2)
 
 [^f00002]: Footnote: Section 262 was substituted by the [Town and Country Amenities Act 1974 (c. 32)](https://www.legislation.gov.uk/ukpga/1974/32), section 2(1) and amended by the [Local Government and Planning (Scotland) Act 1982 (c. 43)](https://www.legislation.gov.uk/ukpga/1982/43), Schedule 4.
 
-[^key-4027377bb2b5caa66c54aa99e6621b28]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/1)
+[^c-4027377bb2b5caa66c54aa99e6621b28]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/1)
 
-[^key-c6dcacef46e6bdf1e623e09243d5e3e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1984/467/regulation/2) inserted (23.8.1986) by [The Gas Act 1986 (Consequential Modifications of Subordinate Legislation) Order 1986 (S.I. 1986/1356)](https://www.legislation.gov.uk/uksi/1986/1356), [art. 1](https://www.legislation.gov.uk/uksi/1986/1356/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/1356/schedule)
+[^c-c6dcacef46e6bdf1e623e09243d5e3e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1984/467/regulation/2) inserted (23.8.1986) by [The Gas Act 1986 (Consequential Modifications of Subordinate Legislation) Order 1986 (S.I. 1986/1356)](https://www.legislation.gov.uk/uksi/1986/1356), [art. 1](https://www.legislation.gov.uk/uksi/1986/1356/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/1356/schedule)
 
-[^key-ee922dc03d804cf36f0d3ba5eaf087fc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) substituted (1.3.1996) by [The Gas Act 1995 (Consequential Modifications of Subordinate Legislation) Order 1996 (S.I. 1996/252)](https://www.legislation.gov.uk/uksi/1996/252), [art. 1](https://www.legislation.gov.uk/uksi/1996/252/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1996/252/schedule)
+[^c-ee922dc03d804cf36f0d3ba5eaf087fc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) substituted (1.3.1996) by [The Gas Act 1995 (Consequential Modifications of Subordinate Legislation) Order 1996 (S.I. 1996/252)](https://www.legislation.gov.uk/uksi/1996/252), [art. 1](https://www.legislation.gov.uk/uksi/1996/252/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1996/252/schedule)
 
-[^key-0468b2492388820e4f4c62063c3a2eea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) inserted (31.3.1990) by [The Electricity Act 1989 (Consequential Modifications of Subordinate Legislation) Order 1990 (S.I. 1990/526)](https://www.legislation.gov.uk/uksi/1990/526), [reg. 1](https://www.legislation.gov.uk/uksi/1990/526/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1990/526/schedule)
+[^c-0468b2492388820e4f4c62063c3a2eea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/2/1) inserted (31.3.1990) by [The Electricity Act 1989 (Consequential Modifications of Subordinate Legislation) Order 1990 (S.I. 1990/526)](https://www.legislation.gov.uk/uksi/1990/526), [reg. 1](https://www.legislation.gov.uk/uksi/1990/526/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1990/526/schedule)
 
 [^f00003]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-64647713664cc2944d60b1aac066cc0c]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/1984/467/regulation/2A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/2)
+[^c-64647713664cc2944d60b1aac066cc0c]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/1984/467/regulation/2A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/2)
 
-[^key-1ae4ad52dc511943eb1722ff5ab6df3a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1984/467/regulation/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-1ae4ad52dc511943eb1722ff5ab6df3a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1984/467/regulation/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-de371aeb6d50a6d551454612df859a15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1984/467/regulation/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-de371aeb6d50a6d551454612df859a15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1984/467/regulation/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-121ebf71efb703656b18a179120fa069]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1984/467/regulation/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-121ebf71efb703656b18a179120fa069]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1984/467/regulation/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-5b62aae5c2f347c4df01dc1f84e33e6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-5b62aae5c2f347c4df01dc1f84e33e6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-7f2d7d4d68aa9819a3cd520ebde67cb8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) inserted (26.3.2006 at 0600 hours) by [The Smoking, Health and Social Care (Scotland) Act 2005 (Consequential Amendments) Order 2006 (S.S.I. 2006/95)](https://www.legislation.gov.uk/ssi/2006/95), [arts. 1](https://www.legislation.gov.uk/ssi/2006/95/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/95/article/2/2)
+[^c-7f2d7d4d68aa9819a3cd520ebde67cb8]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) inserted (26.3.2006 at 0600 hours) by [The Smoking, Health and Social Care (Scotland) Act 2005 (Consequential Amendments) Order 2006 (S.S.I. 2006/95)](https://www.legislation.gov.uk/ssi/2006/95), [arts. 1](https://www.legislation.gov.uk/ssi/2006/95/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/95/article/2/2)
 
-[^key-e4135273ad1a8dc8c5f312f0e4a57b13]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(2)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/2)
+[^c-e4135273ad1a8dc8c5f312f0e4a57b13]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1984/467/regulation/6) added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(2)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/2)
 
-[^key-2d9c63c262eecf892ec039017cd3ae81]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1984/467/regulation/7) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-2d9c63c262eecf892ec039017cd3ae81]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1984/467/regulation/7) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
 [^f00004]: Footnote: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52); section 101(2) was amended by the [Local Government and Planning (Scotland) Act 1982 (c. 43)](https://www.legislation.gov.uk/ukpga/1982/43), Schedule 2, paragraph 31, and by the [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), sections 289F and 289G (as inserted by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 43).
 
-[^key-fd3eb411e0b4876d4840dc6e860dce76]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1984/467/regulation/8) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-fd3eb411e0b4876d4840dc6e860dce76]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1984/467/regulation/8) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-bc07e39b3161e971989420df8c8a6a95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1984/467/regulation/9) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-bc07e39b3161e971989420df8c8a6a95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1984/467/regulation/9) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-e844f58b2bd3b76067c9366c4455a1f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1984/467/regulation/10) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-e844f58b2bd3b76067c9366c4455a1f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1984/467/regulation/10) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-54d6c3260956de8bc4c0b3f97e2cc3a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1984/467/regulation/11) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-54d6c3260956de8bc4c0b3f97e2cc3a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1984/467/regulation/11) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-4dfdd14c0825e2456f079c70df6c4e9b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1984/467/regulation/12) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-4dfdd14c0825e2456f079c70df6c4e9b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1984/467/regulation/12) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-7e69b13936ba0a636a3f65beae7b15e6]: Textual amendment: [Reg. 12(1)(bb)](https://www.legislation.gov.uk/uksi/1984/467/regulation/12/1/bb) inserted (26.3.2006 at 0600 hours) by [The Smoking, Health and Social Care (Scotland) Act 2005 (Consequential Amendments) Order 2006 (S.S.I. 2006/95)](https://www.legislation.gov.uk/ssi/2006/95), [arts. 1](https://www.legislation.gov.uk/ssi/2006/95/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/95/article/2/3)
+[^c-7e69b13936ba0a636a3f65beae7b15e6]: Textual amendment: [Reg. 12(1)(bb)](https://www.legislation.gov.uk/uksi/1984/467/regulation/12/1/bb) inserted (26.3.2006 at 0600 hours) by [The Smoking, Health and Social Care (Scotland) Act 2005 (Consequential Amendments) Order 2006 (S.S.I. 2006/95)](https://www.legislation.gov.uk/ssi/2006/95), [arts. 1](https://www.legislation.gov.uk/ssi/2006/95/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/95/article/2/3)
 
-[^key-52438b1af0c9d04801365d9ec4254690]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/1984/467/regulation/12/1/c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 67(1)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/67/1)
+[^c-52438b1af0c9d04801365d9ec4254690]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/1984/467/regulation/12/1/c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 67(1)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/67/1)
 
-[^key-78f20e172a37f71ee31a9aa7bade275e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1984/467/regulation/13) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-78f20e172a37f71ee31a9aa7bade275e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1984/467/regulation/13) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-fe78b16e1b3cdabdf1d3fcbe2db40ea7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1984/467/regulation/14) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-fe78b16e1b3cdabdf1d3fcbe2db40ea7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1984/467/regulation/14) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-c2725b4385c8157bf64d9ad14ddf1f88]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/1984/467/regulation/14/5) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-c2725b4385c8157bf64d9ad14ddf1f88]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/1984/467/regulation/14/5) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-d550d2e8381bc925f312230ed347a2ae]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1984/467/regulation/15) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-d550d2e8381bc925f312230ed347a2ae]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1984/467/regulation/15) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-5960b51aafdf03cd5b0ad7ca3ff68e70]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1984/467/regulation/16) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-5960b51aafdf03cd5b0ad7ca3ff68e70]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1984/467/regulation/16) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-9f15222ad36240667bdf31fa827f270b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1984/467/regulation/17) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-9f15222ad36240667bdf31fa827f270b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1984/467/regulation/17) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-aeb1ab275da3813cf8580eaef8854bf4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1984/467/regulation/18) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-aeb1ab275da3813cf8580eaef8854bf4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1984/467/regulation/18) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-673dd3fe63d1305056bc2207a59a371e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1984/467/regulation/19) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-673dd3fe63d1305056bc2207a59a371e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1984/467/regulation/19) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-43bf19cce6ab07a4d1972c9bbbd23195]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1984/467/regulation/20) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-43bf19cce6ab07a4d1972c9bbbd23195]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1984/467/regulation/20) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-5bfd40815ad3349d301432d91cbc2d22]: Textual amendment: [Reg. 20(2A)](https://www.legislation.gov.uk/uksi/1984/467/regulation/20/2A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/3)
+[^c-5bfd40815ad3349d301432d91cbc2d22]: Textual amendment: [Reg. 20(2A)](https://www.legislation.gov.uk/uksi/1984/467/regulation/20/2A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/3)
 
-[^key-ddee9f5ce4316ff327a3b76a6a37e2f9]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/1984/467/regulation/20/3) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-ddee9f5ce4316ff327a3b76a6a37e2f9]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/1984/467/regulation/20/3) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-158d5ac384c7baf7342608e626f697e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1984/467/regulation/21) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-158d5ac384c7baf7342608e626f697e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1984/467/regulation/21) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-8e9a9cdfc76bcbc244a2bbd1f32ad5d6]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1A) substituted for [reg. 21(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1) (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-8e9a9cdfc76bcbc244a2bbd1f32ad5d6]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1)[(1A)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1A) substituted for [reg. 21(1)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/1) (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-5601ebc42f13d9145b1ade10412a8d45]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/2) inserted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-5601ebc42f13d9145b1ade10412a8d45]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/2) inserted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-2f3ebf12a74f41176c040936400be542]: Textual amendment: [Reg. 21(3)-(7)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/3) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-2f3ebf12a74f41176c040936400be542]: Textual amendment: [Reg. 21(3)-(7)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/3) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-47b9514975589adb160ce09b4fe3440b]: Textual amendment: [Reg. 21(9)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/9) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-47b9514975589adb160ce09b4fe3440b]: Textual amendment: [Reg. 21(9)](https://www.legislation.gov.uk/uksi/1984/467/regulation/21/9) omitted (30.6.2013) by virtue of [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-fe01721521a64a74655b7d2b92639393]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1984/467/regulation/22) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-fe01721521a64a74655b7d2b92639393]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1984/467/regulation/22) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-446144df9d2c04036faf16ea14b30ab8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1984/467/regulation/23) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-446144df9d2c04036faf16ea14b30ab8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1984/467/regulation/23) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-978df0ca16a8612588d7aeb9ad24a33c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1984/467/regulation/24) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-978df0ca16a8612588d7aeb9ad24a33c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1984/467/regulation/24) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-fc99a57988cb2b5266868584f1c2dfcb]: Textual amendment: Words in [reg. 24(4)](https://www.legislation.gov.uk/uksi/1984/467/regulation/24/4) inserted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-fc99a57988cb2b5266868584f1c2dfcb]: Textual amendment: Words in [reg. 24(4)](https://www.legislation.gov.uk/uksi/1984/467/regulation/24/4) inserted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-a8d66122de0fe395b98c4dc7f1c5dcc7]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/1984/467/regulation/25) substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
+[^c-a8d66122de0fe395b98c4dc7f1c5dcc7]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/1984/467/regulation/25) substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3))
 
-[^key-e5cf9ff1c90679b236ed20d943422b5e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1984/467/regulation/26) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-e5cf9ff1c90679b236ed20d943422b5e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1984/467/regulation/26) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-de5eb59201513431e5d28abe57569b93]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1984/467/regulation/26A) inserted (30.6.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/139)](https://www.legislation.gov.uk/ssi/2014/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/139/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/139/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/139/regulation/3))
+[^c-de5eb59201513431e5d28abe57569b93]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1984/467/regulation/26A) inserted (30.6.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/139)](https://www.legislation.gov.uk/ssi/2014/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/139/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2014/139/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2014/139/regulation/3))
 
-[^key-fab7280ca6c4d6153d163b87a2d6ea7e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1984/467/regulation/27) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-fab7280ca6c4d6153d163b87a2d6ea7e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1984/467/regulation/27) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-0947e9178a13c89f9f63649f49faa700]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1984/467/regulation/28) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-0947e9178a13c89f9f63649f49faa700]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1984/467/regulation/28) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-6196177a23149a4359b67e6bf6c3a478]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1984/467/regulation/29) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-6196177a23149a4359b67e6bf6c3a478]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1984/467/regulation/29) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-95167ec248218dab31aa882352755005]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1984/467/regulation/30) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-95167ec248218dab31aa882352755005]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1984/467/regulation/30) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
 [^f00006]: Footnote: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
 
-[^key-2b891483a5a188becf045e9642218d6f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1984/467/regulation/31) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-2b891483a5a188becf045e9642218d6f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1984/467/regulation/31) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-a5785a3a1cb156c655773fc55841bab3]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1984/467/regulation/32) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-a5785a3a1cb156c655773fc55841bab3]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1984/467/regulation/32) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-e602a54f22535e4ed15e64d0a3c6cd39]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/1984/467/regulation/32A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/4)
+[^c-e602a54f22535e4ed15e64d0a3c6cd39]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/1984/467/regulation/32A) inserted (28.7.2004) by [The Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [art. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2004/332/schedule/3/paragraph/4)
 
-[^key-b3a26e15005335c8202bd5df0db7f40e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1984/467/regulation/33) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-b3a26e15005335c8202bd5df0db7f40e]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1984/467/regulation/33) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1961/195](https://www.legislation.gov.uk/uksi/1961/195).
 
-[^key-ae24d9fa93e51353936a50f1c5aaafb0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1984/467/regulation/34) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-ae24d9fa93e51353936a50f1c5aaafb0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1984/467/regulation/34) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-c9d3ea3f63a6cf06dbeb37ea3454e637]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-c9d3ea3f63a6cf06dbeb37ea3454e637]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-22e5f35636cefba2b15adda4f577a572]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-22e5f35636cefba2b15adda4f577a572]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-84329e343f5ecef2462966713690401c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-84329e343f5ecef2462966713690401c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-4e134fba61d36bcd0149ddbbe47e0975]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-4e134fba61d36bcd0149ddbbe47e0975]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-d05e54d6f2e5121eb6a7a26fd820318e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-d05e54d6f2e5121eb6a7a26fd820318e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1984/467/schedule/1/paragraph/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-45514f4119307ad45d982d24c98aa76e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-45514f4119307ad45d982d24c98aa76e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/1) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-c08215324da2b3ae2ec46f972c2e49f6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-c08215324da2b3ae2ec46f972c2e49f6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/2) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-b7720f27353698447f182624c69c68b6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-b7720f27353698447f182624c69c68b6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-a7e3702954069ff7404590f5eb996017]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-a7e3702954069ff7404590f5eb996017]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-a42abff3135228323de851fd41376519]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-a42abff3135228323de851fd41376519]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/5) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-de24abcb88847a3c18d4666326811f09]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/6) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-de24abcb88847a3c18d4666326811f09]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1984/467/schedule/2/paragraph/6) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-fb35dd980508f129f7454c8f1856bafb]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-fb35dd980508f129f7454c8f1856bafb]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1984/467/schedule/3) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-40345f2d5628d6b540381f55932b5e8c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
+[^c-40345f2d5628d6b540381f55932b5e8c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) in force at 2.5.1984, see [reg. 1](https://www.legislation.gov.uk/uksi/1984/467/regulation/1)
 
-[^key-e9de8cf72c13ecb05665acd5d242cfdf]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/a)
+[^c-e9de8cf72c13ecb05665acd5d242cfdf]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/a)
 
-[^key-5a307dbd90ec54e8cc09fcb481edfcb2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/b)
+[^c-5a307dbd90ec54e8cc09fcb481edfcb2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/b)
 
-[^key-78073e5d86c10cba84167a578ab8c36b]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(c)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/c)
+[^c-78073e5d86c10cba84167a578ab8c36b]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 3 added (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 1](https://www.legislation.gov.uk/ssi/2003/503/article/1), [sch. 1 para. 17(3)(c)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/17/3/c)
 
-[^key-fd3085830d118062e261f52ed2eed223]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 and words inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/a)
+[^c-fd3085830d118062e261f52ed2eed223]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 and words inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/a)
 
-[^key-db2f120cd3de505fb03a81e299e497fd]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/b)
+[^c-db2f120cd3de505fb03a81e299e497fd]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/b)
 
-[^key-7f51d5ca30958ee38184b4ea41e27499]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/c)
+[^c-7f51d5ca30958ee38184b4ea41e27499]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/c)
 
-[^key-b2996c875001a905220d33f493291d11]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/d)
+[^c-b2996c875001a905220d33f493291d11]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1984/467/schedule/4) Class 7 inserted (10.11.2014) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/249)](https://www.legislation.gov.uk/ssi/2014/249), [regs. 1](https://www.legislation.gov.uk/ssi/2014/249/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2014/249/regulation/2/2/d)

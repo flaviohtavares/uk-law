@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Order 2010 (revoked)[^key-0b488f7696c700a42d031916e16b8497]
+The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Order 2010 (revoked)[^c-0b488f7696c700a42d031916e16b8497]
 
 Made
 
@@ -41,21 +41,21 @@ Coming into force
 
 10th March 2010
 
-[^key-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-0b488f7696c700a42d031916e16b8497]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Appointment of trustees[^key-0b488f7696c700a42d031916e16b8497]
+## 1. Citation, commencement and interpretation[^c-0b488f7696c700a42d031916e16b8497]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Termination and suspension of appointment[^key-0b488f7696c700a42d031916e16b8497]
+## 2. Appointment of trustees[^c-0b488f7696c700a42d031916e16b8497]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Termination and suspension of appointment[^c-0b488f7696c700a42d031916e16b8497]
 
 **Not yet in force.**
 
@@ -63,12 +63,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b488f7696c700a42d031916e16b8497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b488f7696c700a42d031916e16b8497]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/310) revoked (8.3.2010) by [The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Revocation Order 2010 (S.I. 2010/417)](https://www.legislation.gov.uk/uksi/2010/417), [arts. 1](https://www.legislation.gov.uk/uksi/2010/417/article/1), [2](https://www.legislation.gov.uk/uksi/2010/417/article/2)
+[^c-0b488f7696c700a42d031916e16b8497]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/310) revoked (8.3.2010) by [The Buckinghamshire Hospitals National Health Service Trust (Trust Funds: Appointment of Trustees) Revocation Order 2010 (S.I. 2010/417)](https://www.legislation.gov.uk/uksi/2010/417), [arts. 1](https://www.legislation.gov.uk/uksi/2010/417/article/1), [2](https://www.legislation.gov.uk/uksi/2010/417/article/2)

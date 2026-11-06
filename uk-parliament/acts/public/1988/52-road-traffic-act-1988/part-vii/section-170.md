@@ -34,7 +34,7 @@ summary: ''
 
 (4) A person who fails to comply with subsection (2) or (3) above is guilty of an offence.
 
-(5)[^c13997451] If, in a case where this section applies by virtue of subsection (1)(a) above, the driver of a motor vehicle[^c13997461] does not at the time of the accident produce such a certificate of insurance [^key-c6fc1a8b53ade11072bb899dfaf6c585]... or other evidence, as is mentioned in section 165(2)(a) of this Act—
+(5)[^c13997451] If, in a case where this section applies by virtue of subsection (1)(a) above, the driver of a motor vehicle[^c13997461] does not at the time of the accident produce such a certificate of insurance [^c-c6fc1a8b53ade11072bb899dfaf6c585]... or other evidence, as is mentioned in section 165(2)(a) of this Act—
 
 - (a) to a constable, or
 - (b) to some person who, having reasonable grounds for so doing, has required him to produce it,
@@ -43,7 +43,7 @@ the driver must report the accident and produce such a certificate or other evid
 
 This subsection does not apply to the driver of an invalid carriage.
 
-(6)[^c13997451] To comply with a duty under this section to report an accident or to produce such a certificate of insurance [^key-19acd521f65d606270994cf9e04512ff]... or other evidence, as is mentioned in section 165(2)(a) of this Act, the driver—
+(6)[^c13997451] To comply with a duty under this section to report an accident or to produce such a certificate of insurance [^c-19acd521f65d606270994cf9e04512ff]... or other evidence, as is mentioned in section 165(2)(a) of this Act, the driver—
 
 - (a) must do so at a police station or to a constable, and
 - (b) must do so as soon as is reasonably practicable and, in any case, within twenty-four hours of the occurrence of the accident.
@@ -66,8 +66,8 @@ This subsection does not apply to the driver of an invalid carriage.
 
 [^c13997461]: Textual amendment: Words in s. 170(5) substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 72(3)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/72/3); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-c6fc1a8b53ade11072bb899dfaf6c585]: Textual amendment: Words in [s. 170(5)](https://www.legislation.gov.uk/ukpga/1988/52/section/170/5) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/24/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-c6fc1a8b53ade11072bb899dfaf6c585]: Textual amendment: Words in [s. 170(5)](https://www.legislation.gov.uk/ukpga/1988/52/section/170/5) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/24/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-19acd521f65d606270994cf9e04512ff]: Textual amendment: Words in [s. 170(6)](https://www.legislation.gov.uk/ukpga/1988/52/section/170/6) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/24/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-19acd521f65d606270994cf9e04512ff]: Textual amendment: Words in [s. 170(6)](https://www.legislation.gov.uk/ukpga/1988/52/section/170/6) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/24/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^c13997491]: Textual amendment: Word in s. 170(7) substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 72(4)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/72/4); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.

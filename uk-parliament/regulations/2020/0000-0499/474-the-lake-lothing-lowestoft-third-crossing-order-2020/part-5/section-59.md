@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Saving for Trinity House[^key-d74c73d12588ad76783d6dd32b99d948]
+## 59. Saving for Trinity House[^c-d74c73d12588ad76783d6dd32b99d948]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-d74c73d12588ad76783d6dd32b99d948]: Commencement: Art. 59 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d74c73d12588ad76783d6dd32b99d948]: Commencement: Art. 59 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

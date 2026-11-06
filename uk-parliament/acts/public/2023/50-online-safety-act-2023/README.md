@@ -34,7 +34,7 @@ An Act to make provision for and in connection with the regulation by OFCOM of c
 
 \[26th October 2023\]
 
-Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-d4cd053795dc38ac3be61974266e74f3]
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-d4cd053795dc38ac3be61974266e74f3]
 
 ## Contents
 
@@ -633,7 +633,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 213 — Offence under the Obscene Publications Act 1959: OFCOM defence](part-11/section-213.md)
 - [Section 214 — Offences regarding indecent photographs of children: OFCOM defence](part-11/section-214.md)
 
-#### Power to require providers of internet services to prevent or restrict access by children to internet services[^key-86d9a0aa3f52d39c75bc269a15a11dc0]
+#### Power to require providers of internet services to prevent or restrict access by children to internet services[^c-86d9a0aa3f52d39c75bc269a15a11dc0]
 
 - [Section 214A — Power to require providers of internet services to prevent or restrict access by children to internet services](part-11/section-214a.md)
 
@@ -644,7 +644,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 215 — Power to regulate app stores](part-11/section-215.md)
 - [Section 216 — Power to regulate app stores: supplementary](part-11/section-216.md)
 
-#### Power to amend Act: illegal AI-generated content etc[^key-10ac089c8c481b729c097009b81282dd]
+#### Power to amend Act: illegal AI-generated content etc[^c-10ac089c8c481b729c097009b81282dd]
 
 - [Section 216A — Power to amend Act in relation to illegal AI-generated content etc](part-11/section-216a.md)
 
@@ -654,7 +654,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 - [Section 217 — Power to impose duty about alternative dispute resolution procedure](part-11/section-217.md)
 
-#### Power to amend Act: pornographic content[^key-2334b6d73a07d05447b2142e946457a0]
+#### Power to amend Act: pornographic content[^c-2334b6d73a07d05447b2142e946457a0]
 
 - [Section 217A — Power to impose duties about pornographic content](part-11/section-217a.md)
 
@@ -730,10 +730,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-d4cd053795dc38ac3be61974266e74f3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2023/50): power to amend conferred (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/12); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
+[^c-d4cd053795dc38ac3be61974266e74f3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2023/50): power to amend conferred (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/14/paragraph/12); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z10)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z10)
 
-[^key-86d9a0aa3f52d39c75bc269a15a11dc0]: Textual amendment: S. 214A and cross-heading inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/2), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b) (with [s. 71](https://www.legislation.gov.uk/ukpga/2026/21/section/71))
+[^c-86d9a0aa3f52d39c75bc269a15a11dc0]: Textual amendment: S. 214A and cross-heading inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/2), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b) (with [s. 71](https://www.legislation.gov.uk/ukpga/2026/21/section/71))
 
-[^key-10ac089c8c481b729c097009b81282dd]: Textual amendment: S. 216A and cross-heading inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/2), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-10ac089c8c481b729c097009b81282dd]: Textual amendment: S. 216A and cross-heading inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/2), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
 
-[^key-2334b6d73a07d05447b2142e946457a0]: Textual amendment: S. 217A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/2), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-2334b6d73a07d05447b2142e946457a0]: Textual amendment: S. 217A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/2), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Counteracting tax advantages[^key-592ded0057d07dbaab1ac6be71ac224f]
+## 66. Counteracting tax advantages[^c-592ded0057d07dbaab1ac6be71ac224f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-592ded0057d07dbaab1ac6be71ac224f]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/16/section/66) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-592ded0057d07dbaab1ac6be71ac224f]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/16/section/66) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

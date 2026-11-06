@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Disqualification of directors[^key-4464513a0f789136ad621a865e0ff0f1]
+## 155. Disqualification of directors[^c-4464513a0f789136ad621a865e0ff0f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) a reference to becoming insolvent includes a reference to becoming subject to a bank administration order, and
 - (d) a reference to a liquidator includes a reference to a bank administrator.
 
-(3)[^key-4e1dfda9c81236effefafa82799307bf] For the purposes of the application of section 7A of the Disqualification Act (office-holder’s report on conduct of directors) to a bank which is subject to a bank administration order—
+(3)[^c-4e1dfda9c81236effefafa82799307bf] For the purposes of the application of section 7A of the Disqualification Act (office-holder’s report on conduct of directors) to a bank which is subject to a bank administration order—
 
 - (a) the “office-holder” is the bank administrator;
 - (b) the “insolvency date” means the date on which the bank administration order is made; and
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4464513a0f789136ad621a865e0ff0f1]: Commencement: S. 155 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-4464513a0f789136ad621a865e0ff0f1]: Commencement: S. 155 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-4e1dfda9c81236effefafa82799307bf]: Textual amendment: [S. 155(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/155/3) substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/11)
+[^c-4e1dfda9c81236effefafa82799307bf]: Textual amendment: [S. 155(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/155/3) substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/11)

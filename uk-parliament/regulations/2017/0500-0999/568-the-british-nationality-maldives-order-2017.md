@@ -32,7 +32,7 @@ summary: ''
 
 British Nationality
 
-The British Nationality (Maldives) Order 2017 (revoked)[^key-771a748c057bda713981c637bc99dc0f]
+The British Nationality (Maldives) Order 2017 (revoked)[^c-771a748c057bda713981c637bc99dc0f]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-771a748c057bda713981c637bc99dc0f]
+## 1. Citation and commencement[^c-771a748c057bda713981c637bc99dc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3 to the British Nationality Act 1981[^key-771a748c057bda713981c637bc99dc0f]
+## 2. Amendment of Schedule 3 to the British Nationality Act 1981[^c-771a748c057bda713981c637bc99dc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-771a748c057bda713981c637bc99dc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-771a748c057bda713981c637bc99dc0f]: Textual amendment: Order revoked (2.6.2021) by [The British Nationality (Maldives) Order 2021 (S.I. 2021/523)](https://www.legislation.gov.uk/uksi/2021/523), [arts. 1](https://www.legislation.gov.uk/uksi/2021/523/article/1), [3](https://www.legislation.gov.uk/uksi/2021/523/article/3)
+[^c-771a748c057bda713981c637bc99dc0f]: Textual amendment: Order revoked (2.6.2021) by [The British Nationality (Maldives) Order 2021 (S.I. 2021/523)](https://www.legislation.gov.uk/uksi/2021/523), [arts. 1](https://www.legislation.gov.uk/uksi/2021/523/article/1), [3](https://www.legislation.gov.uk/uksi/2021/523/article/3)

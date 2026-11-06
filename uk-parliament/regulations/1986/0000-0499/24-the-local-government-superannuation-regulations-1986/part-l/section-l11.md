@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L11. Appeals[^key-6cf930c7673cc154849895e730c2a2c8]
+## L11. Appeals[^c-6cf930c7673cc154849895e730c2a2c8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Regulation N8(3)(b) shall not apply to this Part.
 
 ## Annotations
 
-[^key-6cf930c7673cc154849895e730c2a2c8]: Commencement: [Reg. L11](https://www.legislation.gov.uk/uksi/1986/24/regulation/L11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6cf930c7673cc154849895e730c2a2c8]: Commencement: [Reg. L11](https://www.legislation.gov.uk/uksi/1986/24/regulation/L11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

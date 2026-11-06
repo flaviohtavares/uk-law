@@ -32,7 +32,7 @@ summary: ''
 (4) If the master fails without reasonable excuse to comply with this section, he shall—
 
 - (a) in the case of a failure to comply with subsection (1)(a) above, be liable—
-  - (i) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-24902f4d4ea4d2dd342bb0691c57255e] a fine *(Extent: E+W)* or imprisonment for a term not exceeding six months or both;
+  - (i) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-24902f4d4ea4d2dd342bb0691c57255e] a fine *(Extent: E+W)* or imprisonment for a term not exceeding six months or both;
   - (ii) on conviction on indictment, to a fine or imprisonment for a term not exceeding two years or both; and
 - (b) in the case of a failure to comply with subsection (1)(b) above, be liable—
   - (i) on summary conviction, to a fine not exceeding the statutory maximum;
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24902f4d4ea4d2dd342bb0691c57255e]: Textual amendment: Words in [s. 92(4)(a)(i)](https://www.legislation.gov.uk/ukpga/1995/21/section/92/4/a/i) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-24902f4d4ea4d2dd342bb0691c57255e]: Textual amendment: Words in [s. 92(4)(a)(i)](https://www.legislation.gov.uk/ukpga/1995/21/section/92/4/a/i) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

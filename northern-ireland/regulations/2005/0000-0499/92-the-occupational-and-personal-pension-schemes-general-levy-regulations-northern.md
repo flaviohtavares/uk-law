@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 164(1) and (4), 170 and 177(2) to (4) of the Pension Schemes (Northen Ireland) Act 1993[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f40231fc5f782b58748728e9a8332ef0]
+## 1. Citation, commencement and interpretation[^c-f40231fc5f782b58748728e9a8332ef0]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 and shall come into operation on 1st April 2005.
 
@@ -50,7 +50,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the Act” means the Pension Schemes (Northern Ireland) Act 1993;
 - “the Order” means the Pensions (Northern Ireland) Order 2005[^f00003];
 - “the 1997 Regulations” means the Occupational and Personal Pension Schemes (Levy) Regulations (Northern Ireland) 1997[^f00004];
-- [^key-9f8ece395678d1ab5f6e521b2f31eff9]...
+- [^c-9f8ece395678d1ab5f6e521b2f31eff9]...
   - (a)
   - (b)
     - (i)
@@ -75,15 +75,15 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “trustees”, in the case of a scheme which is not set up under a trust, means the managers of the scheme;
 - “unallocated assets”, in relation to a scheme, means any assets of the scheme which have not been specifically allocated for the provision of benefits to or in respect of members (whether generally or individually).
 
-(3)[^key-99dc1da8baedadbd7084df8a318c19c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-99dc1da8baedadbd7084df8a318c19c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to paragraph (5), the Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
 (5) For the purposes of these Regulations, notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. The general levy[^key-421a4b56d86faa03ba875648c92e6be9]
+## 2. The general levy[^c-421a4b56d86faa03ba875648c92e6be9]
 
-(1) The trustees of each registrable occupational pension scheme [^key-b0329da81eb53df00de0f87e4871b3e5]...are liable to pay a levy to the Department for the purpose of meeting the expenditure referred to in section 170(1) of the Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (2).
+(1) The trustees of each registrable occupational pension scheme [^c-b0329da81eb53df00de0f87e4871b3e5]...are liable to pay a levy to the Department for the purpose of meeting the expenditure referred to in section 170(1) of the Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (2).
 
 (2) The trustees of each registrable personal pension scheme are liable to pay a levy to the Department for the purpose of meeting the expenditure referred to in section 170(1) of the Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (1).
 
@@ -100,7 +100,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) paragraph (1) applies as if after “occupational pension scheme” there were inserted “(other than one which is approved under section 591(2)(h) of the Income and Corporation Taxes Act 1988)[^f00010]”, and
 - (b) paragraph (2) applies as if after “personal pension scheme” there were inserted “and every occupational pension scheme approved under section 591(2)(h) of the Income and Corporation Taxes Act 1988”.
 
-## 3. Payment of the general levy[^key-626f8a829ac3c8ddc877ea3ef16d7275]
+## 3. Payment of the general levy[^c-626f8a829ac3c8ddc877ea3ef16d7275]
 
 (1) The general levy is to be sent to the Regulatory Authority which is to collect and recover it on behalf of the Department.
 
@@ -110,7 +110,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (4) The general levy payable in respect of the financial year in which the scheme in relation to which the levy is payable becomes registrable is payable in arrears on the first day of the following financial year.
 
-## 4. The reference day[^key-8a67a850391723298165d7e78a8658dc]
+## 4. The reference day[^c-8a67a850391723298165d7e78a8658dc]
 
 (1) The amount of the general levy payable for a financial year in respect of a scheme is calculated by reference to the number of the scheme’s members on the reference day.
 
@@ -123,14 +123,14 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 the reference day is the date on which the scheme becomes a registrable scheme.
 
-## 5. Amount of the general levy: occupational pension schemes[^key-8677087c0bf6bf76ad52d1eb5e2ce44c]
+## 5. Amount of the general levy: occupational pension schemes[^c-8677087c0bf6bf76ad52d1eb5e2ce44c]
 
-The amount of the general levy payable for a financial year by virtue of regulation 2(1) in respect of a scheme with the number of members on the reference day that is specified for that financial year for that scheme in column 1 of the appropriate Table in Part 1 of the Schedule[^key-aff653dd8f519243ebfaa1f9cc3c4ba6] –
+The amount of the general levy payable for a financial year by virtue of regulation 2(1) in respect of a scheme with the number of members on the reference day that is specified for that financial year for that scheme in column 1 of the appropriate Table in Part 1 of the Schedule[^c-aff653dd8f519243ebfaa1f9cc3c4ba6] –
 
 - (a) the amount specified for such a scheme in column 2 of the Table (where M is the number of the scheme’s members on the reference day); or
 - (b) if no amount is so specified or an amount which is greater is specified for such a scheme in column 3 of the Table, the amount specified for such a scheme in column 3.
 
-  **[^key-d281e84668f3aefa6b0bea7a3c59e206]...**
+  **[^c-d281e84668f3aefa6b0bea7a3c59e206]...**
 
   <table>
   <thead>
@@ -147,16 +147,16 @@ The amount of the general levy payable for a financial year by virtue of regulat
   </tbody>
   </table>
 
-  [^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206][^key-d281e84668f3aefa6b0bea7a3c59e206]
+  [^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206][^c-d281e84668f3aefa6b0bea7a3c59e206]
 
-## 6. Amount of the general levy: personal pension schemes[^key-d6297a86b100aabe2526a4d73c7754ad]
+## 6. Amount of the general levy: personal pension schemes[^c-d6297a86b100aabe2526a4d73c7754ad]
 
-The amount of the general levy payable for a financial year by virtue of regulation 2(2) in respect of a scheme with the number of members on the reference day that is specified for that financial year in column 1 of the appropriate Table in Part 2 of the Schedule[^key-ee90ba3f84936deda78a6fd9c6c223d4] is –
+The amount of the general levy payable for a financial year by virtue of regulation 2(2) in respect of a scheme with the number of members on the reference day that is specified for that financial year in column 1 of the appropriate Table in Part 2 of the Schedule[^c-ee90ba3f84936deda78a6fd9c6c223d4] is –
 
 - (a) the amount specified for such a scheme in column 2 of the Table (where M is the number of the scheme’s members on the reference day), or
 - (b) if no amount is so specified or an amount which is greater is specified for such a scheme in column 3 of the Table, the amount specified for such a scheme in column 3.
 
-  **[^key-2b9504feec83f0fdde78bd7db02cb46e]...**
+  **[^c-2b9504feec83f0fdde78bd7db02cb46e]...**
 
   <table>
   <thead>
@@ -173,9 +173,9 @@ The amount of the general levy payable for a financial year by virtue of regulat
   </tbody>
   </table>
 
-  [^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e][^key-2b9504feec83f0fdde78bd7db02cb46e]
+  [^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e][^c-2b9504feec83f0fdde78bd7db02cb46e]
 
-## 7. Waiver[^key-63dbb289f37afc5dd759f6afed9ad830]
+## 7. Waiver[^c-63dbb289f37afc5dd759f6afed9ad830]
 
 (1) Payment of the general levy due under regulation 2(1) is to be waived if the trustees confirm in writing to the Regulatory Authority –
 
@@ -186,7 +186,7 @@ The amount of the general levy payable for a financial year by virtue of regulat
 
 (3) Article 105 of the Order (insolvency event, insolvency date and insolvency practioner) applies for the interpretation of paragraph (2) as it applies for the interpretation of Part III of the Order.
 
-## 8. Multi-employer schemes[^key-a72fa39e49ffa179d18b6ffd5de4eceb]
+## 8. Multi-employer schemes[^c-a72fa39e49ffa179d18b6ffd5de4eceb]
 
 (1) If –
 
@@ -205,7 +205,7 @@ the provisions of these Regulations (apart from this regulation) apply as if eac
 
 (6) For the purpose of this regulation, any provisions of the scheme by virtue of which assets attributable to one section may on the winding up of the scheme or a section be used for the purposes of another section are disregarded.
 
-## 9. Avoidance of double liability: schemes in Great Britain[^key-e0ca82d21244b80522a0a88d8a2873a4]
+## 9. Avoidance of double liability: schemes in Great Britain[^c-e0ca82d21244b80522a0a88d8a2873a4]
 
 (1) This regulation applies if, apart from paragraph (2), the general levy would be payable in respect of a scheme in respect of which a corresponding Great Britain levy is imposed.
 
@@ -215,13 +215,13 @@ the provisions of these Regulations (apart from this regulation) apply as if eac
 
 (4) For the purposes of paragraph (2), the address of the scheme is the place in the United Kingdom at which the management of the scheme is conducted or, if there is more than one such place, the principal place.
 
-## 10. Levies under earlier regulations remaining unpaid[^key-e96cbcbc23889c4c8f144aefbb769b53]
+## 10. Levies under earlier regulations remaining unpaid[^c-e96cbcbc23889c4c8f144aefbb769b53]
 
 (1) If a levy for which any person was liable under regulation 2 of the 1997 Regulations immediately before 1st April 2005 has not been paid in full before that date, that person must pay the outstanding amount to the Regulatory Authority which is to collect and recover it on behalf of the Department.
 
 (2) Where a levy for which any person was liable under regulation 5 of those Regulations immediately before that date has not been paid in full before that date, that person must pay the outstanding amount to the Regulatory Authority which is to collect and recover it on behalf of the Pensions Compensation Board.
 
-## 11. Penalties[^key-e89a56ec142467a605bcf61272d8248c]
+## 11. Penalties[^c-e89a56ec142467a605bcf61272d8248c]
 
 (1) If any person fails without reasonable cause to comply with the requirement –
 
@@ -234,7 +234,7 @@ the Regulatory Authority may require that person to pay a penalty within 28 days
 
 (3) In the case of any other person, that penalty must not exceed £10,000.
 
-## 12. Revocation and savings[^key-7ccdd70d9c3545dda0670a8208df0308]
+## 12. Revocation and savings[^c-7ccdd70d9c3545dda0670a8208df0308]
 
 (1) Subject to regulation 10 and paragraph (2), the following regulations are hereby revoked –
 
@@ -255,7 +255,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — Amount of the general levy[^key-c886ca651fa274420f497a7d80a53b93]
+## SCHEDULE — Amount of the general levy[^c-c886ca651fa274420f497a7d80a53b93]
 
 Regulations 5 and 6
 
@@ -273,7 +273,7 @@ Regulations 5 and 6
 
 the scheme shall be treated for the purposes of this Part as a Master Trust scheme.
 
-**2.**[^key-e5558e6fa001378c5c047bde76e89474] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2024.
+**2.**[^c-e5558e6fa001378c5c047bde76e89474] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2024.
 
 TABLE
 
@@ -293,7 +293,7 @@ TABLE
 </tbody>
 </table>
 
-**3.**[^key-ce63ed6756119bb4504c2cd9002a16fd] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2025.
+**3.**[^c-ce63ed6756119bb4504c2cd9002a16fd] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2025.
 
 TABLE
 
@@ -313,7 +313,7 @@ TABLE
 </tbody>
 </table>
 
-**4.**[^key-495d5fd7077282bb89b7f7dac05a0dfd] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2026.
+**4.**[^c-495d5fd7077282bb89b7f7dac05a0dfd] The following Table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2026.
 
 TABLE
 
@@ -333,7 +333,7 @@ TABLE
 </tbody>
 </table>
 
-**5.**[^key-bdceea9c02bedff646001d03b32077fa] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2024.
+**5.**[^c-bdceea9c02bedff646001d03b32077fa] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2024.
 
 TABLE
 
@@ -353,7 +353,7 @@ TABLE
 </tbody>
 </table>
 
-**6.**[^key-987384abca934df60927b08f2260615f] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2025.
+**6.**[^c-987384abca934df60927b08f2260615f] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2025.
 
 TABLE
 
@@ -373,7 +373,7 @@ TABLE
 </tbody>
 </table>
 
-**7.**[^key-07eaf37b7c19a246d82d15665c6a0b74] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2026.
+**7.**[^c-07eaf37b7c19a246d82d15665c6a0b74] The following Table relates to money purchase schemes for the financial year beginning with 1st April 2026.
 
 TABLE
 
@@ -393,7 +393,7 @@ TABLE
 </tbody>
 </table>
 
-**8.**[^key-c696f88272dc0d755083ad216935da2b] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2024.
+**8.**[^c-c696f88272dc0d755083ad216935da2b] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2024.
 
 TABLE
 
@@ -413,7 +413,7 @@ TABLE
 </tbody>
 </table>
 
-**9.**[^key-98a71f11568d9d6fdf7ea1049e182447] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2025.
+**9.**[^c-98a71f11568d9d6fdf7ea1049e182447] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2025.
 
 TABLE
 
@@ -433,7 +433,7 @@ TABLE
 </tbody>
 </table>
 
-**10.**[^key-4ff21ea7ab16fcaa60a4d7cf9ff4f57d] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2026.
+**10.**[^c-4ff21ea7ab16fcaa60a4d7cf9ff4f57d] The following Table relates to Master Trust schemes for the financial year beginning with 1st April 2026.
 
 TABLE
 
@@ -455,7 +455,7 @@ TABLE
 
 ### PART 2 — Personal pension schemes
 
-**11.**[^key-2a50b4039f4cfcc4a5c0c6276d1870ab] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2024.
+**11.**[^c-2a50b4039f4cfcc4a5c0c6276d1870ab] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2024.
 
 TABLE
 
@@ -475,7 +475,7 @@ TABLE
 </tbody>
 </table>
 
-**12.**[^key-ded185b7170be8e1eeef14723395a0af] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2025.
+**12.**[^c-ded185b7170be8e1eeef14723395a0af] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2025.
 
 TABLE
 
@@ -495,7 +495,7 @@ TABLE
 </tbody>
 </table>
 
-**13.**[^key-92935bcdd92252bbaa464d99dcf5037f] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2026.
+**13.**[^c-92935bcdd92252bbaa464d99dcf5037f] The following Table relates to personal pension schemes for the financial year beginning with 1st April 2026.
 
 TABLE
 
@@ -539,57 +539,57 @@ Regulation 12 makes revocations and savings.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-f40231fc5f782b58748728e9a8332ef0]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-f40231fc5f782b58748728e9a8332ef0]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
 [^f00004]: Footnote: [S.R. 1997 No. 142](https://www.legislation.gov.uk/nisr/1997/142); relevant amending regulations are [S.R. 1998 No. 85](https://www.legislation.gov.uk/nisr/1998/85)
 
-[^key-9f8ece395678d1ab5f6e521b2f31eff9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f8ece395678d1ab5f6e521b2f31eff9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); the definition of “member” was amended by paragraph 50(2) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
 [^f00006]: Footnote: Section 97B was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-99dc1da8baedadbd7084df8a318c19c0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/3) revoked (6.4.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [art. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/article/1/3), [reg. 10](https://www.legislation.gov.uk/nisr/2006/65/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2006/65/schedule)
+[^c-99dc1da8baedadbd7084df8a318c19c0]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/3) revoked (6.4.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [art. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/article/1/3), [reg. 10](https://www.legislation.gov.uk/nisr/2006/65/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2006/65/schedule)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-421a4b56d86faa03ba875648c92e6be9]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-421a4b56d86faa03ba875648c92e6be9]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-b0329da81eb53df00de0f87e4871b3e5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0329da81eb53df00de0f87e4871b3e5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: The definition of “registrable scheme” was amended by regulation 2 of [S.R. 1998 No. 85](https://www.legislation.gov.uk/nisr/1998/85)
 
 [^f00010]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-626f8a829ac3c8ddc877ea3ef16d7275]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-626f8a829ac3c8ddc877ea3ef16d7275]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-8a67a850391723298165d7e78a8658dc]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-8a67a850391723298165d7e78a8658dc]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-8677087c0bf6bf76ad52d1eb5e2ce44c]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-8677087c0bf6bf76ad52d1eb5e2ce44c]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-aff653dd8f519243ebfaa1f9cc3c4ba6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2005/92/regulation/5) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/2/a)
+[^c-aff653dd8f519243ebfaa1f9cc3c4ba6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2005/92/regulation/5) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/2/a)
 
-[^key-d281e84668f3aefa6b0bea7a3c59e206]: Textual amendment: Table in[Reg. 5](https://www.legislation.gov.uk/nisr/2005/92/regulation/5) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/2/b)
+[^c-d281e84668f3aefa6b0bea7a3c59e206]: Textual amendment: Table in[Reg. 5](https://www.legislation.gov.uk/nisr/2005/92/regulation/5) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/2/b)
 
-[^key-d6297a86b100aabe2526a4d73c7754ad]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-d6297a86b100aabe2526a4d73c7754ad]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-ee90ba3f84936deda78a6fd9c6c223d4]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2005/92/regulation/6) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/3/a)
+[^c-ee90ba3f84936deda78a6fd9c6c223d4]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/nisr/2005/92/regulation/6) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/3/a)
 
-[^key-2b9504feec83f0fdde78bd7db02cb46e]: Textual amendment: Table in [Reg. 6](https://www.legislation.gov.uk/nisr/2005/92/regulation/6) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/3/b)
+[^c-2b9504feec83f0fdde78bd7db02cb46e]: Textual amendment: Table in [Reg. 6](https://www.legislation.gov.uk/nisr/2005/92/regulation/6) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/3/b)
 
-[^key-63dbb289f37afc5dd759f6afed9ad830]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-63dbb289f37afc5dd759f6afed9ad830]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-a72fa39e49ffa179d18b6ffd5de4eceb]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-a72fa39e49ffa179d18b6ffd5de4eceb]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-e0ca82d21244b80522a0a88d8a2873a4]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-e0ca82d21244b80522a0a88d8a2873a4]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-e96cbcbc23889c4c8f144aefbb769b53]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-e96cbcbc23889c4c8f144aefbb769b53]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-e89a56ec142467a605bcf61272d8248c]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-e89a56ec142467a605bcf61272d8248c]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
-[^key-7ccdd70d9c3545dda0670a8208df0308]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
+[^c-7ccdd70d9c3545dda0670a8208df0308]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1998 No. 85](https://www.legislation.gov.uk/nisr/1998/85)
 
@@ -599,28 +599,28 @@ Regulation 12 makes revocations and savings.
 
 [^f00014]: Footnote: [S.R. 2000 No. 335](https://www.legislation.gov.uk/nisr/2000/335)
 
-[^key-c886ca651fa274420f497a7d80a53b93]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2005/92/schedule) added (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/4), [Sch.](https://www.legislation.gov.uk/nisr/2021/60/schedule)
+[^c-c886ca651fa274420f497a7d80a53b93]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2005/92/schedule) added (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/60/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2021/60/regulation/2/4), [Sch.](https://www.legislation.gov.uk/nisr/2021/60/schedule)
 
-[^key-e5558e6fa001378c5c047bde76e89474]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/2) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/2)
+[^c-e5558e6fa001378c5c047bde76e89474]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/2) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/2)
 
-[^key-ce63ed6756119bb4504c2cd9002a16fd]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/3) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/3)
+[^c-ce63ed6756119bb4504c2cd9002a16fd]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/3) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/3)
 
-[^key-495d5fd7077282bb89b7f7dac05a0dfd]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/4) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/4)
+[^c-495d5fd7077282bb89b7f7dac05a0dfd]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/4) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/4)
 
-[^key-bdceea9c02bedff646001d03b32077fa]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/5) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/5)
+[^c-bdceea9c02bedff646001d03b32077fa]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/5) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/5)
 
-[^key-987384abca934df60927b08f2260615f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/6) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/6)
+[^c-987384abca934df60927b08f2260615f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/6) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/6)
 
-[^key-07eaf37b7c19a246d82d15665c6a0b74]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/7) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/7)
+[^c-07eaf37b7c19a246d82d15665c6a0b74]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/7) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/7)
 
-[^key-c696f88272dc0d755083ad216935da2b]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/8) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/8)
+[^c-c696f88272dc0d755083ad216935da2b]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/8) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/8)
 
-[^key-98a71f11568d9d6fdf7ea1049e182447]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/9) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/9)
+[^c-98a71f11568d9d6fdf7ea1049e182447]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/9) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/9)
 
-[^key-4ff21ea7ab16fcaa60a4d7cf9ff4f57d]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/10) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/10)
+[^c-4ff21ea7ab16fcaa60a4d7cf9ff4f57d]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/10) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/10)
 
-[^key-2a50b4039f4cfcc4a5c0c6276d1870ab]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/11) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/11)
+[^c-2a50b4039f4cfcc4a5c0c6276d1870ab]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/11) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/11)
 
-[^key-ded185b7170be8e1eeef14723395a0af]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/12) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(12)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/12)
+[^c-ded185b7170be8e1eeef14723395a0af]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/12) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(12)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/12)
 
-[^key-92935bcdd92252bbaa464d99dcf5037f]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/13) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(13)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/13)
+[^c-92935bcdd92252bbaa464d99dcf5037f]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2005/92/schedule/paragraph/13) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/39)](https://www.legislation.gov.uk/nisr/2024/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/39/regulation/1/1), [2(13)](https://www.legislation.gov.uk/nisr/2024/39/regulation/2/13)

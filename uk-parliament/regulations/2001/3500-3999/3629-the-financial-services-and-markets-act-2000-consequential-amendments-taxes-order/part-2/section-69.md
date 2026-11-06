@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Application of Act to recognised investment exchanges[^key-97d310ac70d022fc77dff920de63c432]
+## 69. Application of Act to recognised investment exchanges[^c-97d310ac70d022fc77dff920de63c432]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 285 (power to provide for provisions referring to The Stock Exchange 
 
 ## Annotations
 
-[^key-97d310ac70d022fc77dff920de63c432]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-97d310ac70d022fc77dff920de63c432]: Commencement: Art. 69 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

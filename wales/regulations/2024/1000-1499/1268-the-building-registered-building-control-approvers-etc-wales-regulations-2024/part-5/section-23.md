@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Cases where a further initial notice may be given after cancellation of an initial notice under section 53D[^key-f495d160a5b0bfa24f2f8dd666880e48]
+## 23. Cases where a further initial notice may be given after cancellation of an initial notice under section 53D[^c-f495d160a5b0bfa24f2f8dd666880e48]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f495d160a5b0bfa24f2f8dd666880e48]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/1268/regulation/23) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-f495d160a5b0bfa24f2f8dd666880e48]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/1268/regulation/23) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

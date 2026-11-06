@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Communities and Local Government makes the following Regulations in exercise of the powers conferred by sections 1(1) and 35A(2) of, and paragraph 4 of Schedule 1 to, the Building Act 1984[^f00001]:
 
-## 1. Citation and commencement[^key-b81f539f0742f85ff09265d3bcad8cd2]
+## 1. Citation and commencement[^c-b81f539f0742f85ff09265d3bcad8cd2]
 
 These Regulations may be cited as the Building (Amendment) Regulations 2008 and shall come into force on 6th April 2008.
 
-## 2. Amendment of the Building Regulations 2000[^key-56528b5be97d22c1886ff0a9ddf087b4]
+## 2. Amendment of the Building Regulations 2000[^c-56528b5be97d22c1886ff0a9ddf087b4]
 
 (1) The Building Regulations 2000[^f00002] are amended as follows.
 
@@ -106,9 +106,9 @@ An impact assessment of the effect this instrument will have on the costs of bus
 
 [^f00001]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55); section 1(1) was amended by section 1 of the Sustainable and Secure Buildings Act [2004 (c.22)](https://www.legislation.gov.uk/ukpga/2004/22); section 35A was inserted by section 13(1) of the Climate Change and Sustainable Energy Act [2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19).
 
-[^key-b81f539f0742f85ff09265d3bcad8cd2]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/671/regulation/1)
+[^c-b81f539f0742f85ff09265d3bcad8cd2]: Commencement: Reg. 1 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/671/regulation/1)
 
-[^key-56528b5be97d22c1886ff0a9ddf087b4]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/671/regulation/1)
+[^c-56528b5be97d22c1886ff0a9ddf087b4]: Commencement: Reg. 2 in force at 6.4.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/671/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2000/2531](https://www.legislation.gov.uk/uksi/2000/2531).
 

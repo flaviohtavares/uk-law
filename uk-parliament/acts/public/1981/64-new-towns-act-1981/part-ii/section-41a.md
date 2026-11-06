@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Part 2: interpretation[^key-482a5bff51dd79ba03c6c2aebb77e6fd]
+## 41A. Part 2: interpretation[^c-482a5bff51dd79ba03c6c2aebb77e6fd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In this Part—
 
 ## Annotations
 
-[^key-482a5bff51dd79ba03c6c2aebb77e6fd]: Textual amendment: S. 41A inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/9); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-482a5bff51dd79ba03c6c2aebb77e6fd]: Textual amendment: S. 41A inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/9); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

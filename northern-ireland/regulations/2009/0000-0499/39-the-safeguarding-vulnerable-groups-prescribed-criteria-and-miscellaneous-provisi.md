@@ -46,11 +46,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introduction
 
-### 1. Citation and Commencement[^key-7c1b4a947e87b9e36cf0b442bc4dd8dc]
+### 1. Citation and Commencement[^c-7c1b4a947e87b9e36cf0b442bc4dd8dc]
 
 These Regulations may be cited as the Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009 and shall come into operation on 13th March 2009.
 
-### 2. Interpretation[^key-3635f9d1115c5fc0fdaf831670507a1f]
+### 2. Interpretation[^c-3635f9d1115c5fc0fdaf831670507a1f]
 
 (1) In these Regulations—
 
@@ -82,7 +82,7 @@ These Regulations may be cited as the Safeguarding Vulnerable Groups (Prescribed
 
 (4) In regulation 8 a reference to an offence specified in paragraph 4(b)(ii) to (vii), (c), (d)(ii), (e), (g) or (i)(i) of the Schedule is a reference to that offence only where it was committed in relevant circumstances.
 
-(5)[^key-e62f6efbed8819ac52d0c4dc54e97d8a] In regulations 5 to 8—
+(5)[^c-e62f6efbed8819ac52d0c4dc54e97d8a] In regulations 5 to 8—
 
 - (a) a reference to an offence, A, specified in the Schedule includes a reference to offence, B, which in relation to offence A is a connected offence; and
 - (b) a reference to being convicted of an offence specified in the Schedule includes a reference to being convicted of—
@@ -103,11 +103,11 @@ These Regulations may be cited as the Safeguarding Vulnerable Groups (Prescribed
 - (b) the conduct which constitutes the offence would, if carried out in Northern Ireland, amount to an equivalent offence which is specified in the Schedule; and
 - (c) where the equivalent offence is one specified in paragraph 1(a) to (c), (e) or (g)(i), 2(b)(ii) to (v), (c), (d)(ii), (e), (g) or (i)(i) or 4(b)(ii) to (vii), (c), (d)(ii), (e), (g) or (i)(i) of the Schedule, the offence was committed in relevant circumstances relating to the equivalent offence.
 
-(7A)[^key-9ebc1b3e80a25970a5cdea5cd290f67c] For the purposes of paragraph (6A), an act punishable under the law in force in the Isle of Man or any of the Channel Islands constitutes an offence under that law however it is described in that law.
+(7A)[^c-9ebc1b3e80a25970a5cdea5cd290f67c] For the purposes of paragraph (6A), an act punishable under the law in force in the Isle of Man or any of the Channel Islands constitutes an offence under that law however it is described in that law.
 
 (8) For the purposes of paragraph (7) an act punishable under the law in force in a country or territory outside the British Islands constitutes an offence under that law however it is described in that law.
 
-### 3. Effect of decision not to impose a disqualification order[^key-817b2763fb3bbc6fa672fc61cf4d7006]
+### 3. Effect of decision not to impose a disqualification order[^c-817b2763fb3bbc6fa672fc61cf4d7006]
 
 (1) Where the condition in paragraph (2) is met, the offences referred to in regulations 5 to 8 do not include any offence which a person has committed against a child before the commencement (for all purposes) of Article 6 of the Order.
 
@@ -117,7 +117,7 @@ These Regulations may be cited as the Safeguarding Vulnerable Groups (Prescribed
 
 ## PART 2 — Prescribed criteria
 
-**4.**[^key-47a157c54f594fa7c48d74ea32da4f23] (1) During the relevant period, the criteria prescribed in this Part are not satisfied in so far as they relate to—
+**4.**[^c-47a157c54f594fa7c48d74ea32da4f23] (1) During the relevant period, the criteria prescribed in this Part are not satisfied in so far as they relate to—
 
 - (a) an offence specified in the Schedule to the 2007 Regulations under the law of England and Wales, Scotland or the law extending to the United Kingdom as a whole or any part or parts thereof;
 - (b) an offence specified in the Schedule to these Regulations under the law of England and Wales, Scotland or the law extending to the United Kingdom as a whole or any part or parts thereof; or
@@ -132,7 +132,7 @@ unless that offence or connected offence was committed in Northern Ireland.
 
 unless the equivalent offence specified in the Schedule is an offence under the law of Northern Ireland.
 
-### 5. Prescribed criteria – automatic inclusion in the children’s barred list[^key-6104675e4a03160de7fc097c221b0196]
+### 5. Prescribed criteria – automatic inclusion in the children’s barred list[^c-6104675e4a03160de7fc097c221b0196]
 
 (1) The criteria prescribed for the purposes of paragraph 1(1) of Schedule 1 to the Order are the criteria set out in paragraphs (2) to (4).
 
@@ -152,7 +152,7 @@ unless the equivalent offence specified in the Schedule is an offence under the 
 
 (4) The criterion set out in this paragraph is that the person has, on or after the relevant date, been convicted of, or cautioned in relation to, an offence specified in paragraph 1 of the Schedule.
 
-### 6. Prescribed criteria – automatic inclusion in the children’s barred list with the right to make representations[^key-93bc45852a657ddd08e4711b7f498bf4]
+### 6. Prescribed criteria – automatic inclusion in the children’s barred list with the right to make representations[^c-93bc45852a657ddd08e4711b7f498bf4]
 
 (1) The criteria prescribed for the purposes of paragraph 2(1) of Schedule 1 to the Order are the criteria set out in paragraphs (2) to (6).
 
@@ -176,11 +176,11 @@ unless the equivalent offence specified in the Schedule is an offence under the 
 
 (6) The criterion set out in this paragraph is that the person has, on or after the relevant date, been made subject to a disqualification order and the person does not meet any other criteria prescribed in regulation 5 or in this regulation.
 
-### 7. Prescribed criteria – automatic inclusion in the adults’ barred list[^key-4bfa0305db8e74c72d05092939afd276]
+### 7. Prescribed criteria – automatic inclusion in the adults’ barred list[^c-4bfa0305db8e74c72d05092939afd276]
 
 The criterion prescribed for the purposes of paragraph 7(1) of Schedule 1 to the Order is that the person has, on or after the relevant date, been convicted of, or cautioned in relation to, an offence specified in paragraph 3 of the Schedule.
 
-### 8. Prescribed criteria – automatic inclusion in the adults’ barred list with the right to make representations[^key-00a086987611100166e508f9bfcffaba]
+### 8. Prescribed criteria – automatic inclusion in the adults’ barred list with the right to make representations[^c-00a086987611100166e508f9bfcffaba]
 
 The criteria prescribed for the purposes of paragraph 8(1) of Schedule 1 to the Order are—
 
@@ -189,7 +189,7 @@ The criteria prescribed for the purposes of paragraph 8(1) of Schedule 1 to the 
 
 ## PART 3 — Miscellaneous Provisions
 
-### 9. Amendments to the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008[^key-0eae38ee196631a559aa356e931d929c]
+### 9. Amendments to the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008[^c-0eae38ee196631a559aa356e931d929c]
 
 (1) The Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008[^f00007] is amended as follows.
 
@@ -209,7 +209,7 @@ Northern Ireland Office
 
 ## SCHEDULE
 
-**1.**[^key-9b9341720a42a025666a1583d77c1cc9] The offences specified in this paragraph are—
+**1.**[^c-9b9341720a42a025666a1583d77c1cc9] The offences specified in this paragraph are—
 
 - (a) the offence of rape contrary to the common law of Scotland, where the offence was committed against a child;
 - (b) the offence of rape contrary to the common law of Northern Ireland, where the offence was committed against a child;
@@ -296,9 +296,9 @@ Northern Ireland Office
     </tbody>
     </table>
 
-    [^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^f00018][^key-6e00f563b48abd858345ed50288a9121][^f00019][^f00020][^f00021][^f00022][^key-74665fc046357acec1bdaaf1126b4e4b]
+    [^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^f00018][^c-6e00f563b48abd858345ed50288a9121][^f00019][^f00020][^f00021][^f00022][^c-74665fc046357acec1bdaaf1126b4e4b]
 
-**2.**[^key-d17b26eab220b35753915eaf4efb8091] The offences specified in this paragraph are—
+**2.**[^c-d17b26eab220b35753915eaf4efb8091] The offences specified in this paragraph are—
 
 - (a) the offences contrary to the common law of England and Wales of—
   - (i) murder,
@@ -593,9 +593,9 @@ Northern Ireland Office
     </tbody>
     </table>
 
-    [^key-e3252b54dc3ed03744f9e38aba0d7089][^key-e3252b54dc3ed03744f9e38aba0d7089][^f00024][^key-cc9fd773fba3baca481d1e781576d189][^f00025][^f00026][^key-dc927931dc2b203c83717c73ad97f382][^f00027][^f00028][^f00029][^f00030][^key-ee231a2f2180a2ecdd267ed63f94b233][^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00038][^key-fd386569003744fb6e13c176a8072f04][^f00039][^f00040][^f00041][^f00042][^f00043][^key-ceb2e4288e3efd337f994832370f4cd3][^key-c9da71796c60b865e45f9f048fe5e542][^key-753bb5aa40f7b164646161eb37e98036][^f00044][^key-0890e539524c2404c92464380bc44ff8][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^f00051][^f00052][^f00053][^f00054][^f00055][^f00056][^f00057][^f00058][^key-c2b9f5c44d59217da66421c25e311a0b][^key-e88e6a0e7d6a9a3a72f1ad07197662a2][^f00061][^f00062][^f00063][^f00064][^f00065][^f00066][^f00067][^f00068][^key-72a6253ae675d8e5ceeef16d224451ca][^f00070][^key-72a6253ae675d8e5ceeef16d224451ca][^key-72a6253ae675d8e5ceeef16d224451ca][^f00073][^f00074][^f00075][^f00076][^f00077][^f00078][^f00079][^f00080][^f00081][^f00082][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^key-0c5d49d87166211bbd30df647e286f1a][^f00092][^f00093][^f00094]
+    [^c-e3252b54dc3ed03744f9e38aba0d7089][^c-e3252b54dc3ed03744f9e38aba0d7089][^f00024][^c-cc9fd773fba3baca481d1e781576d189][^f00025][^f00026][^c-dc927931dc2b203c83717c73ad97f382][^f00027][^f00028][^f00029][^f00030][^c-ee231a2f2180a2ecdd267ed63f94b233][^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00038][^c-fd386569003744fb6e13c176a8072f04][^f00039][^f00040][^f00041][^f00042][^f00043][^c-ceb2e4288e3efd337f994832370f4cd3][^c-c9da71796c60b865e45f9f048fe5e542][^c-753bb5aa40f7b164646161eb37e98036][^f00044][^c-0890e539524c2404c92464380bc44ff8][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^f00051][^f00052][^f00053][^f00054][^f00055][^f00056][^f00057][^f00058][^c-c2b9f5c44d59217da66421c25e311a0b][^c-e88e6a0e7d6a9a3a72f1ad07197662a2][^f00061][^f00062][^f00063][^f00064][^f00065][^f00066][^f00067][^f00068][^c-72a6253ae675d8e5ceeef16d224451ca][^f00070][^c-72a6253ae675d8e5ceeef16d224451ca][^c-72a6253ae675d8e5ceeef16d224451ca][^f00073][^f00074][^f00075][^f00076][^f00077][^f00078][^f00079][^f00080][^f00081][^f00082][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^c-0c5d49d87166211bbd30df647e286f1a][^f00092][^f00093][^f00094]
 
-**3.**[^key-cdc21e8c138cb209c948b23b3b8ff26a] The offences specified in this paragraph are—
+**3.**[^c-cdc21e8c138cb209c948b23b3b8ff26a] The offences specified in this paragraph are—
 
 - (a) any offence contrary to a provision specified in the table set out in this paragraph;
 - (b) any offence contrary to—
@@ -638,9 +638,9 @@ Northern Ireland Office
   | Sexual Offences (Northern Ireland) Order 2008, Article 52 |  |
   | Sexual Offences (Northern Ireland) Order 2008, Article 53 |  |
   | Sexual Offences (Northern Ireland) Order 2008, Article 54 |  |
-  | Sexual Offences (Scotland) Act 2009, section 46[^key-057f0b5742b85999dde5fa2fde6576f8] |  |
+  | Sexual Offences (Scotland) Act 2009, section 46[^c-057f0b5742b85999dde5fa2fde6576f8] |  |
 
-**4.**[^key-f38d883a794acc2711ab52a23a31dadd] The offences specified in this paragraph are—
+**4.**[^c-f38d883a794acc2711ab52a23a31dadd] The offences specified in this paragraph are—
 
 - (a) the offences contrary to the common law of England and Wales of—
   - (i) murder,
@@ -909,7 +909,7 @@ Northern Ireland Office
     </tbody>
     </table>
 
-    [^key-f1c505ce6d294873cd13745e0fb2e9ea][^key-a5de97ca08cb1f18a37d38e64cacd2e9][^key-7a1f6414ec21a9bed34cc4b27c119503][^key-a06a7025dd696fe020e73e9b1fc193e3][^key-72201a6a348890db552393773ece3ee3][^key-3bbaba5a419519f92eccd2661f061dfb][^key-a06a7025dd696fe020e73e9b1fc193e3][^key-453c36977efd24cb04835e42dce62b98][^key-4768703d15aba192ff01be37cbfae835][^key-81d57040ef927994f4d1299e7c529750][^key-e2c51ab3c62eef22f09fe45eec323d67][^key-89727a369fa7dfca910b76284859aafc][^key-1616c994e2ed87bc39dded268e6c1f63][^key-2a4530434056cdaa39b8cd8de52b1911][^key-4b412c0c4c6f68eaaf76a7e4b52b1c0a][^key-d98783341d461875a8bac79ff291a18e][^key-0879438666afc90c55b93bb1d5acce65][^key-ad8a530b0b9b5c7b32a43274676f21ab][^key-3c2c1b4ec51f4ef30e766a807d139fbe][^key-ad8a530b0b9b5c7b32a43274676f21ab][^key-23601e17e854c9f9631c7c8629872435][^key-19170f1e865885cedb512bc113f3ca90][^key-a46ee2567ce84ac053d98f33c6dac650][^key-a46ee2567ce84ac053d98f33c6dac650][^key-a46ee2567ce84ac053d98f33c6dac650][^key-b79aa1b90bee5021cb4c3a932b8f93a3][^key-235aa8331244ab7144a053f364f8b974][^key-06cebe86e73dbe093b0834b3635fc650][^key-6deb847ff98b9eeb01f9d72769d66d93][^key-11aa6d3d4e2b672f0c422ee2f06a4c66][^key-1bfcf27ceef33708754e427645616a3e]
+    [^c-f1c505ce6d294873cd13745e0fb2e9ea][^c-a5de97ca08cb1f18a37d38e64cacd2e9][^c-7a1f6414ec21a9bed34cc4b27c119503][^c-a06a7025dd696fe020e73e9b1fc193e3][^c-72201a6a348890db552393773ece3ee3][^c-3bbaba5a419519f92eccd2661f061dfb][^c-a06a7025dd696fe020e73e9b1fc193e3][^c-453c36977efd24cb04835e42dce62b98][^c-4768703d15aba192ff01be37cbfae835][^c-81d57040ef927994f4d1299e7c529750][^c-e2c51ab3c62eef22f09fe45eec323d67][^c-89727a369fa7dfca910b76284859aafc][^c-1616c994e2ed87bc39dded268e6c1f63][^c-2a4530434056cdaa39b8cd8de52b1911][^c-4b412c0c4c6f68eaaf76a7e4b52b1c0a][^c-d98783341d461875a8bac79ff291a18e][^c-0879438666afc90c55b93bb1d5acce65][^c-ad8a530b0b9b5c7b32a43274676f21ab][^c-3c2c1b4ec51f4ef30e766a807d139fbe][^c-ad8a530b0b9b5c7b32a43274676f21ab][^c-23601e17e854c9f9631c7c8629872435][^c-19170f1e865885cedb512bc113f3ca90][^c-a46ee2567ce84ac053d98f33c6dac650][^c-a46ee2567ce84ac053d98f33c6dac650][^c-a46ee2567ce84ac053d98f33c6dac650][^c-b79aa1b90bee5021cb4c3a932b8f93a3][^c-235aa8331244ab7144a053f364f8b974][^c-06cebe86e73dbe093b0834b3635fc650][^c-6deb847ff98b9eeb01f9d72769d66d93][^c-11aa6d3d4e2b672f0c422ee2f06a4c66][^c-1bfcf27ceef33708754e427645616a3e]
 
 EXPLANATORY NOTE
 
@@ -937,39 +937,39 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00002]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-7c1b4a947e87b9e36cf0b442bc4dd8dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-7c1b4a947e87b9e36cf0b442bc4dd8dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-3635f9d1115c5fc0fdaf831670507a1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/39/regulation/2) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-3635f9d1115c5fc0fdaf831670507a1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/39/regulation/2) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2007 No. 288](https://www.legislation.gov.uk/nisr/2007/288).
 
 [^f00004]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417).
 
-[^key-e62f6efbed8819ac52d0c4dc54e97d8a]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/6)[(6A)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/6A) substituted for (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/2/a)
+[^c-e62f6efbed8819ac52d0c4dc54e97d8a]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/6)[(6A)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/6A) substituted for (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/2/a)
 
-[^key-9ebc1b3e80a25970a5cdea5cd290f67c]: Textual amendment: [Reg. 2(7A)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/7A) inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/2/b)
+[^c-9ebc1b3e80a25970a5cdea5cd290f67c]: Textual amendment: [Reg. 2(7A)](https://www.legislation.gov.uk/nisr/2009/39/regulation/2/7A) inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/2/b)
 
-[^key-817b2763fb3bbc6fa672fc61cf4d7006]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/39/regulation/3) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-817b2763fb3bbc6fa672fc61cf4d7006]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/39/regulation/3) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-47a157c54f594fa7c48d74ea32da4f23]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/39/regulation/4) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-47a157c54f594fa7c48d74ea32da4f23]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/39/regulation/4) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-6104675e4a03160de7fc097c221b0196]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/39/regulation/5) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-6104675e4a03160de7fc097c221b0196]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/39/regulation/5) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-93bc45852a657ddd08e4711b7f498bf4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/39/regulation/6) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-93bc45852a657ddd08e4711b7f498bf4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/39/regulation/6) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
 [^f00005]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42) (“the 2003 Act”).
 
 [^f00006]: Footnote: [2005 asp 9](https://www.legislation.gov.uk/asp/2005/9).
 
-[^key-4bfa0305db8e74c72d05092939afd276]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/39/regulation/7) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-4bfa0305db8e74c72d05092939afd276]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/39/regulation/7) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-00a086987611100166e508f9bfcffaba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/39/regulation/8) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-00a086987611100166e508f9bfcffaba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/39/regulation/8) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-0eae38ee196631a559aa356e931d929c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/39/regulation/9) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-0eae38ee196631a559aa356e931d929c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/39/regulation/9) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2008 No. 200](https://www.legislation.gov.uk/nisr/2008/200).
 
-[^key-9b9341720a42a025666a1583d77c1cc9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-9b9341720a42a025666a1583d77c1cc9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
 [^f00008]: Footnote: [1955 c.18](https://www.legislation.gov.uk/ukpga/1955/18). So far as relevant, section 70 was amended by Schedule 1 to the Suicide Act [1961 (c.60)](https://www.legislation.gov.uk/ukpga/1961/60), section 1(6) of the Genocide Act [1969 (c.12)](https://www.legislation.gov.uk/ukpga/1969/12), section 5(1) of the Biological Weapons Act [1974 (c.6)](https://www.legislation.gov.uk/ukpga/1974/6), section 7(1) of the Criminal Attempts Act [1981 (c.47)](https://www.legislation.gov.uk/ukpga/1981/47),section 35(a) of the Chemical Weapons Act [1996 (c.6)](https://www.legislation.gov.uk/ukpga/1996/6), section 12(a) of the Nuclear Explosions (Prohibition and Inspections) Act [1998 (c.7)](https://www.legislation.gov.uk/ukpga/1998/7), section 74(2)(a) and (b), and (3) of, and Schedule 10 to, the International Criminal Court Act [2001 (c.17)](https://www.legislation.gov.uk/ukpga/2001/17), and paragraph 9(a) and (b) of Schedule 6, and Schedule 7, to the Sexual Offences Act [2003 (c.42)](https://www.legislation.gov.uk/ukpga/2003/42). Section 70 is to be repealed by Schedule 17 to the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
@@ -993,7 +993,7 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00018]: Footnote: [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769). The provisions of this Order referred to in this Schedule were not in force on the making of these Regulations.
 
-[^key-6e00f563b48abd858345ed50288a9121]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/2)
+[^c-6e00f563b48abd858345ed50288a9121]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/2)
 
 [^f00019]: Footnote: [1885 c.69](https://www.legislation.gov.uk/ukpga/1885/69). Section 4 was repealed by Schedule 4 to the Sexual Offences Act 1956, in relation to England and Wales, by Schedule 2 to the Sexual Offences (Scotland) Act [1976 (c.67)](https://www.legislation.gov.uk/ukpga/1976/67), in relation to Scotland, and is to be repealed in relation to Northern Ireland by paragraph 5 of Schedule 1 and by Schedule 3 to the 2008 Order.
 
@@ -1003,21 +1003,21 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00022]: Footnote: [1995 c.39](https://www.legislation.gov.uk/ukpga/1995/39). Section 5(2) was amended by section 14 of the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48). Section 5 was amended by section 15 of the Protection and Prevention of Sexual Offences (Scotland) Act [2005 (asp 9)](https://www.legislation.gov.uk/asp/2005/9).
 
-[^key-74665fc046357acec1bdaaf1126b4e4b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) Table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/3)
+[^c-74665fc046357acec1bdaaf1126b4e4b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/1) Table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/3)
 
-[^key-d17b26eab220b35753915eaf4efb8091]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-d17b26eab220b35753915eaf4efb8091]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-e3252b54dc3ed03744f9e38aba0d7089]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/a)
+[^c-e3252b54dc3ed03744f9e38aba0d7089]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/a)
 
 [^f00024]: Footnote: Section 61 was repealed so far as relevant by paragraph 1 of Schedule 1 to The Criminal Justice (Northern Ireland) Order 2003 ([S.I. 2003/1247) (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247).
 
-[^key-cc9fd773fba3baca481d1e781576d189]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/c)
+[^c-cc9fd773fba3baca481d1e781576d189]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/c)
 
 [^f00025]: Footnote: Section 62 was repealed in relation to Northern Ireland by paragraph 4 of Schedule 6 and by Schedule 7 to the 2003 Act.
 
 [^f00026]: Footnote: Section 11 was repealed by paragraph 5 of Schedule 6 to the 2003 Act.
 
-[^key-dc927931dc2b203c83717c73ad97f382]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/d)
+[^c-dc927931dc2b203c83717c73ad97f382]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/d)
 
 [^f00027]: Footnote: [1908 c.45](https://www.legislation.gov.uk/ukpga/1908/45). Sections 1 and 2 are to be repealed by paragraph 6 of Schedule 1 and by Schedule 3 to the 2008 Order.
 
@@ -1027,7 +1027,7 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00030]: Footnote: Section 12 was amended by section 143 of the 1994 Act and sections 1 and 2 of the Sexual Offences (Amendment) Act [2000 (c.44)](https://www.legislation.gov.uk/ukpga/2000/44) (“the 2000 Act”) and repealed by paragraph 11(a) of Schedule 6 and by Schedule 7 to the 2003 Act.
 
-[^key-ee231a2f2180a2ecdd267ed63f94b233]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/e)
+[^c-ee231a2f2180a2ecdd267ed63f94b233]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/e)
 
 [^f00031]: Footnote: Section 13 was amended by section 2 of the 2000 Act and repealed by paragraph 11(a) of Schedule 6 and by Schedule 7 to the 2003 Act.
 
@@ -1045,7 +1045,7 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00038]: Footnote: [S.I. 2003/1247 (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247). Article 21 is to be repealed by paragraph 32 of Schedule 1 and by Schedule 3 to the 2008 Order.
 
-[^key-fd386569003744fb6e13c176a8072f04]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/b)
+[^c-fd386569003744fb6e13c176a8072f04]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/b)
 
 [^f00039]: Footnote: Section 62(2) defines “relevant sexual offence”.
 
@@ -1057,15 +1057,15 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00043]: Footnote: Article 67(2) provides that “relevant sexual offence” has the same meaning as in Article 66.
 
-[^key-ceb2e4288e3efd337f994832370f4cd3]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/2)
+[^c-ceb2e4288e3efd337f994832370f4cd3]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(2)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/2)
 
-[^key-c9da71796c60b865e45f9f048fe5e542]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/f)
+[^c-c9da71796c60b865e45f9f048fe5e542]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(f)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/f)
 
-[^key-753bb5aa40f7b164646161eb37e98036]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(g)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/g)
+[^c-753bb5aa40f7b164646161eb37e98036]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(4)(g)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/4/g)
 
 [^f00044]: Footnote: Sections 53 to 55 are to be repealed by paragraph 4 of Schedule 1 and by Schedule 3 to the 2008 Order.
 
-[^key-0890e539524c2404c92464380bc44ff8]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/b)
+[^c-0890e539524c2404c92464380bc44ff8]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/b)
 
 [^f00045]: Footnote: [1885 c.69](https://www.legislation.gov.uk/ukpga/1885/69). Sections 2 to 8 are to be repealed in relation to Northern Ireland by paragraph 5 of Schedule 1 and by Schedule 3 to the 2008 Order. The Criminal Law Amendment Act 1885 was repealed in relation to England and Wales by Schedule 4 to the Sexual Offences Act 1956.
 
@@ -1095,9 +1095,9 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00058]: Footnote: Section 22 was amended by section 40 of the Criminal Justice and Court Services Act 2000.
 
-[^key-c2b9f5c44d59217da66421c25e311a0b]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/3)
+[^c-c2b9f5c44d59217da66421c25e311a0b]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/3)
 
-[^key-e88e6a0e7d6a9a3a72f1ad07197662a2]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (12.10.2009) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/3)
+[^c-e88e6a0e7d6a9a3a72f1ad07197662a2]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (12.10.2009) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(3)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/3)
 
 [^f00061]: Footnote: Sections 2C and 4 were repealed by Schedule 3 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48).
 
@@ -1115,7 +1115,7 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00068]: Footnote: Section 52A was inserted by section 161 of the Criminal Justice Act 1988.
 
-[^key-72a6253ae675d8e5ceeef16d224451ca]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/a)
+[^c-72a6253ae675d8e5ceeef16d224451ca]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/a)
 
 [^f00070]: Footnote: Section 127 was amended by paragraph 9(1) and (8) of Schedule 4 to the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14) and by section 42 of Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12). It was repealed in part by part 5 of Schedule 11 to the Mental Health Act 2007.
 
@@ -1155,7 +1155,7 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00090]: Footnote: Sections 57 to 59 extend to Northern Ireland (*see* section 142(2)(a)).
 
-[^key-0c5d49d87166211bbd30df647e286f1a]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/c)
+[^c-0c5d49d87166211bbd30df647e286f1a]: Textual amendment: Words in [Sch. para. 2](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/2) Table Pt. 2 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/5/c)
 
 [^f00092]: Footnote: [2004 c.28](https://www.legislation.gov.uk/ukpga/2004/28).
 
@@ -1163,62 +1163,62 @@ Regulation 9 amends the Safeguarding Vulnerable Groups (Transitional Provisions)
 
 [^f00094]: Footnote: [2005 asp 9](https://www.legislation.gov.uk/asp/2005/9).
 
-[^key-cdc21e8c138cb209c948b23b3b8ff26a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/3) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-cdc21e8c138cb209c948b23b3b8ff26a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/3) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-057f0b5742b85999dde5fa2fde6576f8]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/3) table inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/6)
+[^c-057f0b5742b85999dde5fa2fde6576f8]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/3) table inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/6)
 
-[^key-f38d883a794acc2711ab52a23a31dadd]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
+[^c-f38d883a794acc2711ab52a23a31dadd]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) in operation at 13.3.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1)
 
-[^key-f1c505ce6d294873cd13745e0fb2e9ea]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/b)
+[^c-f1c505ce6d294873cd13745e0fb2e9ea]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/b)
 
-[^key-a5de97ca08cb1f18a37d38e64cacd2e9]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/c)
+[^c-a5de97ca08cb1f18a37d38e64cacd2e9]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/c)
 
-[^key-7a1f6414ec21a9bed34cc4b27c119503]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/c/i)
+[^c-7a1f6414ec21a9bed34cc4b27c119503]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/c/i)
 
-[^key-a06a7025dd696fe020e73e9b1fc193e3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/d)
+[^c-a06a7025dd696fe020e73e9b1fc193e3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/d)
 
-[^key-72201a6a348890db552393773ece3ee3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/d)
+[^c-72201a6a348890db552393773ece3ee3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/d)
 
-[^key-3bbaba5a419519f92eccd2661f061dfb]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/c/ii)
+[^c-3bbaba5a419519f92eccd2661f061dfb]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/c/ii)
 
-[^key-453c36977efd24cb04835e42dce62b98]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/a)
+[^c-453c36977efd24cb04835e42dce62b98]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/a)
 
-[^key-4768703d15aba192ff01be37cbfae835]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/i)
+[^c-4768703d15aba192ff01be37cbfae835]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/i)
 
-[^key-81d57040ef927994f4d1299e7c529750]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/b)
+[^c-81d57040ef927994f4d1299e7c529750]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/b)
 
-[^key-e2c51ab3c62eef22f09fe45eec323d67]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/ii)
+[^c-e2c51ab3c62eef22f09fe45eec323d67]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/ii)
 
-[^key-89727a369fa7dfca910b76284859aafc]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/iii)
+[^c-89727a369fa7dfca910b76284859aafc]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/iii)
 
-[^key-1616c994e2ed87bc39dded268e6c1f63]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(iv)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/iv)
+[^c-1616c994e2ed87bc39dded268e6c1f63]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(4)(a)(iv)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/4/a/iv)
 
-[^key-2a4530434056cdaa39b8cd8de52b1911]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/4)
+[^c-2a4530434056cdaa39b8cd8de52b1911]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 1 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/4)
 
-[^key-4b412c0c4c6f68eaaf76a7e4b52b1c0a]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(e)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/e)
+[^c-4b412c0c4c6f68eaaf76a7e4b52b1c0a]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(e)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/e)
 
-[^key-d98783341d461875a8bac79ff291a18e]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(f)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/f)
+[^c-d98783341d461875a8bac79ff291a18e]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 1 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(7)(f)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/7/f)
 
-[^key-0879438666afc90c55b93bb1d5acce65]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(b)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/b/i)
+[^c-0879438666afc90c55b93bb1d5acce65]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(b)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/b/i)
 
-[^key-ad8a530b0b9b5c7b32a43274676f21ab]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (12.10.2009) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/5/a)
+[^c-ad8a530b0b9b5c7b32a43274676f21ab]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (12.10.2009) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/5/a)
 
-[^key-3c2c1b4ec51f4ef30e766a807d139fbe]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/i)
+[^c-3c2c1b4ec51f4ef30e766a807d139fbe]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(i)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/i)
 
-[^key-23601e17e854c9f9631c7c8629872435]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/5/b)
+[^c-23601e17e854c9f9631c7c8629872435]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (12.10.2009) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/306)](https://www.legislation.gov.uk/nisr/2009/306), [regs. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/nisr/2009/306/regulation/6/5/b)
 
-[^key-19170f1e865885cedb512bc113f3ca90]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/b)
+[^c-19170f1e865885cedb512bc113f3ca90]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 inserted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/b)
 
-[^key-a46ee2567ce84ac053d98f33c6dac650]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/a)
+[^c-a46ee2567ce84ac053d98f33c6dac650]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/a)
 
-[^key-b79aa1b90bee5021cb4c3a932b8f93a3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/b/ii)
+[^c-b79aa1b90bee5021cb4c3a932b8f93a3]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/b/ii)
 
-[^key-235aa8331244ab7144a053f364f8b974]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/ii)
+[^c-235aa8331244ab7144a053f364f8b974]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/ii)
 
-[^key-06cebe86e73dbe093b0834b3635fc650]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/iii)
+[^c-06cebe86e73dbe093b0834b3635fc650]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/iii)
 
-[^key-6deb847ff98b9eeb01f9d72769d66d93]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/c)
+[^c-6deb847ff98b9eeb01f9d72769d66d93]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) table Pt. 2 substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/319)](https://www.legislation.gov.uk/nisr/2012/319), [regs. 1](https://www.legislation.gov.uk/nisr/2012/319/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/nisr/2012/319/regulation/2/8/c)
 
-[^key-11aa6d3d4e2b672f0c422ee2f06a4c66]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/iv)
+[^c-11aa6d3d4e2b672f0c422ee2f06a4c66]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/iv)
 
-[^key-1bfcf27ceef33708754e427645616a3e]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(v)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/v)
+[^c-1bfcf27ceef33708754e427645616a3e]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2009/39/schedule/paragraph/4) Table Pt. 2 omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/31)](https://www.legislation.gov.uk/nisr/2010/31), [regs. 1](https://www.legislation.gov.uk/nisr/2010/31/regulation/1), [3(5)(a)(v)](https://www.legislation.gov.uk/nisr/2010/31/regulation/3/5/a/v)

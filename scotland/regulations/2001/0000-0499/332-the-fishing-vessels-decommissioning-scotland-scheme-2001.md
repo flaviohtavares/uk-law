@@ -47,15 +47,15 @@ Coming into force
 
 29th June 2001
 
-The Scottish Ministers in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Scheme:[^key-7ec00a2a97b422c76df656add39ef363]
+The Scottish Ministers in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and of all other powers enabling them in that behalf, hereby make the following Scheme:[^c-7ec00a2a97b422c76df656add39ef363]
 
-## 1. Citation, commencement and extent[^key-05d5b481ff2f738552786540f79945f9]
+## 1. Citation, commencement and extent[^c-05d5b481ff2f738552786540f79945f9]
 
 (1) This Scheme may be cited as the Fishing Vessels (Decommissioning) (Scotland) Scheme 2001 and shall come into force on 29th June 2001.
 
 (2) This Scheme extends to Scotland only.
 
-## 2. Interpretation[^key-f192e2e765d3787184cd15807cea55ab]
+## 2. Interpretation[^c-f192e2e765d3787184cd15807cea55ab]
 
 (1) In this Scheme, unless the context otherwise requires–
 
@@ -71,7 +71,7 @@ The Scottish Ministers in exercise of the powers conferred by section 15(1) and 
 - “Council Regulation 2792/99” means Council Regulation [(EC) No 2792/1999](https://www.legislation.gov.uk/european/regulation/1999/2792) of 17 December 1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector[^f00003];
 - “day” means all or any part of a period of 24 consecutive hours beginning at midnight;
 - “decommissioning” has the meaning assigned to it in paragraph 8(4) and “decommission”, “decommissioned” and “decommissioning grant” shall be construed accordingly;
-- “[^key-c16d18fdd3863eca336cd248568149bd]**TFEU**” means the Treaty on the Functioning of the European Union;
+- “[^c-c16d18fdd3863eca336cd248568149bd]**TFEU**” means the Treaty on the Functioning of the European Union;
 - “fishing trips” means time spent by a vessel–
   - (a) engaged in fishing for profit; or
   - (b) steaming between port and fishing ground and between one fishing ground and another,
@@ -87,7 +87,7 @@ The Scottish Ministers in exercise of the powers conferred by section 15(1) and 
 
 (2) Any reference in this Scheme to a numbered paragraph shall, unless the context otherwise requires, be construed as a reference to the paragraph so numbered in this Scheme.
 
-## 3. Decommissioning grants[^key-85692833191951ef862f40a21ae00646]
+## 3. Decommissioning grants[^c-85692833191951ef862f40a21ae00646]
 
 (1) Any person who owns a registered vessel–
 
@@ -113,7 +113,7 @@ may make an application to the Ministers in respect of that vessel.
 - “port of administration” means the port from which the licence granted in respect of a vessel under section 4 of the Sea Fish (Conservation) Act 1967 is issued; and
 - “Scottish based vessel” means a vessel the port of administration of which is, throughout the period from 1st January 2001 until the date of the approval relating to the vessel, both dates inclusive, a port in Scotland.
 
-## 4. Applications[^key-c79d3e2fdd8b9c32e9f5357efdf57b73]
+## 4. Applications[^c-c79d3e2fdd8b9c32e9f5357efdf57b73]
 
 (1) The Ministers may from time to time invite applications and where they do so the following provisions of this paragraph shall apply.
 
@@ -137,7 +137,7 @@ may make an application to the Ministers in respect of that vessel.
 
 (9) Where an application in respect of a vessel has been approved by the Ministers under paragraph 6, no further application may be made in respect of that vessel.
 
-## 5. Consideration of applications[^key-9b0cc49a13adb9b6bb5d86fb74e4e600]
+## 5. Consideration of applications[^c-9b0cc49a13adb9b6bb5d86fb74e4e600]
 
 (1) As soon as reasonably practicable after the appropriate closing date the Ministers shall–
 
@@ -167,11 +167,11 @@ may make an application to the Ministers in respect of that vessel.
 
 together, are sufficient for the approval of that application without exceeding the relevant amount.
 
-(5) This paragraph applies to any application which the Commission decide is incompatible with the common market having regard to Article 107 of the TFEU[^key-bb0da1d53f1151e84d8cac3006684988].
+(5) This paragraph applies to any application which the Commission decide is incompatible with the common market having regard to Article 107 of the TFEU[^c-bb0da1d53f1151e84d8cac3006684988].
 
 (6) The Ministers may reject an application where they have reasonable grounds for suspecting that there has been any fixing or adjustment of the amount of a bid by, under or in accordance with any agreement (whether legally binding or not) or arrangement with another person.
 
-## 6. Approval of applications[^key-7d4deace99a597035cadf488883c1624]
+## 6. Approval of applications[^c-7d4deace99a597035cadf488883c1624]
 
 (1) The Ministers shall approve any application which they have selected for approval under paragraph 5(2)(a) or (4).
 
@@ -187,13 +187,13 @@ together, are sufficient for the approval of that application without exceeding 
 
 (4) The Ministers shall publish in such manner as they consider appropriate a notice identifying the vessels to which applications selected for approval relate.
 
-(5) The Ministers shall revoke any approval, which the Commission decide is incompatible with the common market having regard to Article 107 of the TFEU[^key-395761f6e74c4033d0715823f3a39fef] and, where grant has already been paid in respect of such approval, recover the grant so paid.
+(5) The Ministers shall revoke any approval, which the Commission decide is incompatible with the common market having regard to Article 107 of the TFEU[^c-395761f6e74c4033d0715823f3a39fef] and, where grant has already been paid in respect of such approval, recover the grant so paid.
 
 (6) Subject to sub-paragraph (7), the Ministers may revoke an approval where they have reasonable grounds for suspecting that there has been any fixing or adjustment of the amount of a bid by, under or in accordance with any agreement (whether legally binding or not) or arrangement with another person.
 
 (7) Paragraph 16(3) shall apply to revocation under sub-paragraph (6) as it applies to revocation under paragraph 16.
 
-## 7. Eligibility and claims for payment of grant[^key-87a39e9ea444eb7e214209f6c90824f3]
+## 7. Eligibility and claims for payment of grant[^c-87a39e9ea444eb7e214209f6c90824f3]
 
 (1) Subject to sub-paragraph (2) and paragraph 16, applicants whose applications have been approved under paragraph 6 shall be eligible for payment of grant in accordance with paragraph 11.
 
@@ -216,7 +216,7 @@ together, are sufficient for the approval of that application without exceeding 
 
 (7) The Ministers shall revoke an approval in respect of which no claim has been lodged on or before the appropriate decommissioning date.
 
-## 8. Decommissioning of the vessel[^key-0a118a32d31a1df193560d15362c23b7]
+## 8. Decommissioning of the vessel[^c-0a118a32d31a1df193560d15362c23b7]
 
 (1) At least two weeks prior to the decommissioning of the vessel the applicant shall notify the Ministers in writing of the intended date and place of decommissioning (which shall be within a member State) and the proposed method of decommissioning.
 
@@ -231,7 +231,7 @@ together, are sufficient for the approval of that application without exceeding 
 
 (4) In this Scheme “decommissioning”, in relation to a vessel, means the permanent withdrawal of that vessel from operation within the sea fish industry of the European Community by any means within the provisions of Article 7 of Council Regulation 2792/1999.
 
-## 9. Surrender of licences and removal from the register[^key-f3c4dd4be91d2c9d5d3e9e8e67ba8f21]
+## 9. Surrender of licences and removal from the register[^c-f3c4dd4be91d2c9d5d3e9e8e67ba8f21]
 
 (1) The applicant shall before the appropriate decommissioning date–
 
@@ -240,7 +240,7 @@ together, are sufficient for the approval of that application without exceeding 
 
 (2) In sub-paragraph (1)(a) “licences”, in relation to licences granted otherwise than under section 4 of the Sea Fish (Conservation) Act 1967, includes any written authorisation, consent or permit.
 
-## 10. Substantial damage or destruction of vessel[^key-11a5e4284eb914debbba5a220cf9ab37]
+## 10. Substantial damage or destruction of vessel[^c-11a5e4284eb914debbba5a220cf9ab37]
 
 (1) In the event of the substantial damage or destruction of the vessel to which an application which has been approved under paragraph 6 relates–
 
@@ -254,11 +254,11 @@ together, are sufficient for the approval of that application without exceeding 
 
 (2) Sub-paragraph (1) shall apply regardless of whether or not the method of decommissioning the vessel had been approved under paragraph 8(2) before the event occurred.
 
-## 11. Amount of grant[^key-2d0f895c25c4d14b5a6968e5779d185a]
+## 11. Amount of grant[^c-2d0f895c25c4d14b5a6968e5779d185a]
 
 The amount of grant which applicants who are eligible for payment of grant shall be paid shall be the amount of the bid made by such applicants in their applications.
 
-## 12. Method of payment[^key-674972cb1adde4fdfa02ef8b2d00973f]
+## 12. Method of payment[^c-674972cb1adde4fdfa02ef8b2d00973f]
 
 (1) Payments by way of grant may be made by the Ministers at such time, or by such instalments at such intervals or times, as they may determine.
 
@@ -268,15 +268,15 @@ The amount of grant which applicants who are eligible for payment of grant shall
 - (b) a bank or building society nominated by the applicant; or
 - (c) a person to whom the applicant has assigned the grant.
 
-## 13. Undertakings[^key-f0c4de5761c62db4287c51e4f24b0390]
+## 13. Undertakings[^c-f0c4de5761c62db4287c51e4f24b0390]
 
 Without prejudice to the generality of paragraph 6(2), any person whose application has been approved under paragraph 6 may be required by the Ministers to provide, or arrange for the provision of, such undertakings as the Ministers may consider appropriate to the case.
 
-## 14. Assistance to authorised officers[^key-a99896ed52cedb46965799ce288536be]
+## 14. Assistance to authorised officers[^c-a99896ed52cedb46965799ce288536be]
 
 Any applicant or any employee, servant or agent of any applicant shall give to an authorised officer such assistance as the officer may reasonably request to exercise the power conferred on the officer by paragraph 15.
 
-## 15. Powers of authorised officers[^key-1b58d1a6e6d5bf3923d2ad1b115d8855]
+## 15. Powers of authorised officers[^c-1b58d1a6e6d5bf3923d2ad1b115d8855]
 
 (1) An authorised officer at all reasonable hours and on producing, if required to do so, some duly authenticated document showing the authority of the officer, may exercise the powers specified in this paragraph for the purpose of ascertaining whether and to what extent–
 
@@ -314,7 +314,7 @@ Any applicant or any employee, servant or agent of any applicant shall give to a
 - “relevant documents” means any documents relating to the vessel in respect of which of which an application has been made;
 - “relevant premises” means the vessel in respect of which of which an application has been made and any premises in which relevant documents are retained or in which an authorised officer has reasonable grounds to believe such documents may be retained.
 
-## 16. Reduction, withholding and recovery of grant[^key-561c8834b23b0688258c9330ad70d326]
+## 16. Reduction, withholding and recovery of grant[^c-561c8834b23b0688258c9330ad70d326]
 
 (1) If at any time after the Ministers have approved an application in respect of any vessel it appears to them that–
 
@@ -338,7 +338,7 @@ they may revoke the approval of such application or withhold the grant or any pa
 - (b) afford the applicant the opportunity of making written representations within such time as the Ministers consider reasonable; and
 - (c) consider any such representations.
 
-## 17. Interest[^key-2bee9cffccab59b2888e616a5c232138]
+## 17. Interest[^c-2bee9cffccab59b2888e616a5c232138]
 
 (1) Where the Ministers intend to recover on demand payment by way of grant in whole or in part in accordance with paragraph 6(5) or 16, they may, in addition, recover interest on that amount at a rate of 1% above LIBOR calculated on a daily basis for the period from the date of payment until the date of recovery.
 
@@ -377,23 +377,23 @@ This Scheme is made by virtue of Article 7 of Council Regulation [(EC) No. 2792/
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); section 18(1) contains a definition of “the Ministers”. Section 15(1) and (2) and 18(1) were amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) Schedule 2, paragraph 68(1), (2) and (3) and have effect in relation to Scotland as modified by section 18A inserted by that Order, Schedule 2, paragraph 68(4).
 
-[^key-7ec00a2a97b422c76df656add39ef363]: Modification: [Sch](https://www.legislation.gov.uk/ssi/2001/332/schedule)eme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(2)(a)(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/2/a/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-7ec00a2a97b422c76df656add39ef363]: Modification: [Sch](https://www.legislation.gov.uk/ssi/2001/332/schedule)eme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(2)(a)(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/2/a/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-05d5b481ff2f738552786540f79945f9]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2001/332/section/1) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-05d5b481ff2f738552786540f79945f9]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2001/332/section/1) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-f192e2e765d3787184cd15807cea55ab]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2001/332/section/2) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-f192e2e765d3787184cd15807cea55ab]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2001/332/section/2) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
 [^f00002]: Footnote: O.J. No. L 161, 26.06.99, p.1.
 
 [^f00003]: Footnote: O.J. No. L 337, 30.12.99, p.10.
 
-[^key-c16d18fdd3863eca336cd248568149bd]: Textual amendment: Words in [para. 2(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/2/1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-c16d18fdd3863eca336cd248568149bd]: Textual amendment: Words in [para. 2(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/2/1) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
 [^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
 [^f00005]: Footnote: See section 18(1) of the Act.
 
-[^key-85692833191951ef862f40a21ae00646]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2001/332/section/3) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-85692833191951ef862f40a21ae00646]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2001/332/section/3) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
 [^f00006]: Footnote: S.I. [1975/330](https://www.legislation.gov.uk/uksi/1975/330), amended by S.I. [1975/471](https://www.legislation.gov.uk/uksi/1975/471), [1976/432](https://www.legislation.gov.uk/uksi/1976/432), [1977/313](https://www.legislation.gov.uk/uksi/1977/313), [498](https://www.legislation.gov.uk/uksi/1977/498), [1978/1598](https://www.legislation.gov.uk/uksi/1978/1598), [1873](https://www.legislation.gov.uk/uksi/1978/1873), [1981/567](https://www.legislation.gov.uk/uksi/1981/567), [1991/1342](https://www.legislation.gov.uk/uksi/1991/1342) (revoked by [1998/3243](https://www.legislation.gov.uk/uksi/1998/3243)), [1998/928](https://www.legislation.gov.uk/uksi/1998/928), [2647](https://www.legislation.gov.uk/uksi/1998/2647), [1999/2998](https://www.legislation.gov.uk/uksi/1999/2998), [3210](https://www.legislation.gov.uk/uksi/1999/3210) and [2001/9](https://www.legislation.gov.uk/uksi/2001/9) and by the Fisheries Act 1981, Schedule 3, paragraph 8(3). The 1975 Rules now have effect as if made under section 90, 121 and 122 of and paragraph 7 of Schedule 14 to the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -401,38 +401,38 @@ This Scheme is made by virtue of Article 7 of Council Regulation [(EC) No. 2792/
 
 [^f00008]: Footnote: See Council Regulation [(EC) No. 2848/00](https://www.legislation.gov.uk/european/regulation/2000/2848) (O.J. No. L 334, 15.12.00, p.1) (as corrected by Corrigenda, O.J. No. L 96. 6.4.01, p.30) which for 2001 fixes the total allowable catches (TACs) for certain fish stock and groups of fish stock and specifies the allocation of the share of the TACs available to each Member State.
 
-[^key-c79d3e2fdd8b9c32e9f5357efdf57b73]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2001/332/section/4) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-c79d3e2fdd8b9c32e9f5357efdf57b73]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2001/332/section/4) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-9b0cc49a13adb9b6bb5d86fb74e4e600]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2001/332/section/5) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-9b0cc49a13adb9b6bb5d86fb74e4e600]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2001/332/section/5) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
 [^f00009]: Footnote: O.J. No. L 39, 12.02.98, p.35.
 
 [^f00010]: Footnote: O.J. No. L 175, 3.7.97, p.27.
 
-[^key-bb0da1d53f1151e84d8cac3006684988]: Textual amendment: Words in [para. 5(5)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/5/5) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-bb0da1d53f1151e84d8cac3006684988]: Textual amendment: Words in [para. 5(5)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/5/5) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-7d4deace99a597035cadf488883c1624]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2001/332/section/6) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-7d4deace99a597035cadf488883c1624]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2001/332/section/6) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-395761f6e74c4033d0715823f3a39fef]: Textual amendment: Words in [para. 6(5)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/6/5) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-395761f6e74c4033d0715823f3a39fef]: Textual amendment: Words in [para. 6(5)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/6/5) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-87a39e9ea444eb7e214209f6c90824f3]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2001/332/section/7) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-87a39e9ea444eb7e214209f6c90824f3]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2001/332/section/7) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-0a118a32d31a1df193560d15362c23b7]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2001/332/section/8) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-0a118a32d31a1df193560d15362c23b7]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2001/332/section/8) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-f3c4dd4be91d2c9d5d3e9e8e67ba8f21]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2001/332/section/9) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-f3c4dd4be91d2c9d5d3e9e8e67ba8f21]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2001/332/section/9) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-11a5e4284eb914debbba5a220cf9ab37]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2001/332/section/10) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-11a5e4284eb914debbba5a220cf9ab37]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2001/332/section/10) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-2d0f895c25c4d14b5a6968e5779d185a]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2001/332/section/11) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-2d0f895c25c4d14b5a6968e5779d185a]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2001/332/section/11) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-674972cb1adde4fdfa02ef8b2d00973f]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2001/332/section/12) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-674972cb1adde4fdfa02ef8b2d00973f]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2001/332/section/12) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-f0c4de5761c62db4287c51e4f24b0390]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2001/332/section/13) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-f0c4de5761c62db4287c51e4f24b0390]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2001/332/section/13) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-a99896ed52cedb46965799ce288536be]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2001/332/section/14) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-a99896ed52cedb46965799ce288536be]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2001/332/section/14) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-1b58d1a6e6d5bf3923d2ad1b115d8855]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2001/332/section/15) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-1b58d1a6e6d5bf3923d2ad1b115d8855]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2001/332/section/15) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-561c8834b23b0688258c9330ad70d326]: Commencement: [Para. 16](https://www.legislation.gov.uk/ssi/2001/332/section/16) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-561c8834b23b0688258c9330ad70d326]: Commencement: [Para. 16](https://www.legislation.gov.uk/ssi/2001/332/section/16) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
 
-[^key-2bee9cffccab59b2888e616a5c232138]: Commencement: [Para. 17](https://www.legislation.gov.uk/ssi/2001/332/section/17) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)
+[^c-2bee9cffccab59b2888e616a5c232138]: Commencement: [Para. 17](https://www.legislation.gov.uk/ssi/2001/332/section/17) in force at 29.6.2001, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2001/332/paragraph/1/1)

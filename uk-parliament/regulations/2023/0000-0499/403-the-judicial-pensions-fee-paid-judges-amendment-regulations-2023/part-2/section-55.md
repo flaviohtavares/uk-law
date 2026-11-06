@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of regulation 113[^key-f8159aa50cecc458ad20ddf665ec13b7]
+## 55. Amendment of regulation 113[^c-f8159aa50cecc458ad20ddf665ec13b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 113—
 
 ## Annotations
 
-[^key-f8159aa50cecc458ad20ddf665ec13b7]: Commencement: Reg. 55 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-f8159aa50cecc458ad20ddf665ec13b7]: Commencement: Reg. 55 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

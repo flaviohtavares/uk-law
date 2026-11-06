@@ -30,7 +30,7 @@ summary: ''
 
 - (a) whether and how far it is reasonable to expect that the accommodation should be altered or extended, or that further alternative accommodation should be provided; and
 - (b) the frequency of the demand or need for use of the accommodation by men as compared with women ; and[^c20778181]
-- (c)[^c20778331] in respect of discrimination falling within Article 4A or 4B[^key-fec350602787fcb10ae16f30a47206a5] , whether and how far such discrimination is a proportionate means of achieving a legitimate aim.
+- (c)[^c20778331] in respect of discrimination falling within Article 4A or 4B[^c-fec350602787fcb10ae16f30a47206a5] , whether and how far such discrimination is a proportionate means of achieving a legitimate aim.
 
 (5) Nothing in Part III or IV shall render unlawful sex discrimination against a woman, or against a man, as respects the provision of any benefit, facility or service if—
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c20778331]: Textual amendment: Art. 47(4)(c) inserted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/14/a/ii)
 
-[^key-fec350602787fcb10ae16f30a47206a5]: Textual amendment: Words in [art. 47(4)(c)](https://www.legislation.gov.uk/nisi/1976/1042/article/47/4/c) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2016/191/regulation/18)
+[^c-fec350602787fcb10ae16f30a47206a5]: Textual amendment: Words in [art. 47(4)(c)](https://www.legislation.gov.uk/nisi/1976/1042/article/47/4/c) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [18](https://www.legislation.gov.uk/nisr/2016/191/regulation/18)
 
 [^c20778371]: Textual amendment: Words in art. 47(8) substituted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/14/b)

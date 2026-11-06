@@ -40,7 +40,7 @@ summary: ''
 - (f) when required by the appropriate authority, to provide it with copies of any dose records;
 - (g) where a dose is estimated pursuant to regulation 23, to make an entry in a dose record and retain the summary of the information used to estimate that dose;
 - (h) where the employer employs a classified outside worker, to provide, where appropriate, a current radiation passbook in respect of that classified outside worker; and
-- (i) where the employer employs a classified outside worker who works in Northern Ireland or a member State[^key-720b996e7e3757489158dfd686504986], to maintain a continuing record of the assessment of the dose received by that classified outside worker when working in such place.
+- (i) where the employer employs a classified outside worker who works in Northern Ireland or a member State[^c-720b996e7e3757489158dfd686504986], to maintain a continuing record of the assessment of the dose received by that classified outside worker when working in such place.
 
 (4) The employer must provide the approved dosimetry service with such information concerning its employees as is necessary for the approved dosimetry service to comply with the arrangements made for the purposes of paragraph (2).
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-720b996e7e3757489158dfd686504986]: Textual amendment: Words in [reg. 22(3)(i)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/22/3/i) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-720b996e7e3757489158dfd686504986]: Textual amendment: Words in [reg. 22(3)(i)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/22/3/i) substituted (31.12.2020) by [The Health and Safety (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1370)](https://www.legislation.gov.uk/uksi/2018/1370), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2018/1370/regulation/12/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

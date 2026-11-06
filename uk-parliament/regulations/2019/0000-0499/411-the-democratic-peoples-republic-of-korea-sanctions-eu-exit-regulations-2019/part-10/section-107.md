@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. General trade licences: inspection of records[^key-5308feddbe22733de079e863e179e474][^key-dbceafd231989c5dc0e0a931cc324a89]
+## 107. General trade licences: inspection of records[^c-5308feddbe22733de079e863e179e474][^c-dbceafd231989c5dc0e0a931cc324a89]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5308feddbe22733de079e863e179e474]: Commencement: Reg. 107 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-5308feddbe22733de079e863e179e474]: Commencement: Reg. 107 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-dbceafd231989c5dc0e0a931cc324a89]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2019/411/regulation/107) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbceafd231989c5dc0e0a931cc324a89]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2019/411/regulation/107) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -40,7 +40,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Taxation of Regulatory Capital Securities (Amendment) Regulations 2015 (revoked)[^key-4d1c05b933eb69d47f31e7e3d1563c0d]
+The Taxation of Regulatory Capital Securities (Amendment) Regulations 2015 (revoked)[^c-4d1c05b933eb69d47f31e7e3d1563c0d]
 
 Made
 
@@ -50,28 +50,28 @@ Coming into force
 
 1st January 2016
 
-[^key-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-4d1c05b933eb69d47f31e7e3d1563c0d]
+## 1. Citation, commencement and effect[^c-4d1c05b933eb69d47f31e7e3d1563c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Taxation of Regulatory Capital Securities Regulations 2013[^key-4d1c05b933eb69d47f31e7e3d1563c0d]
+## 2. Amendment of the Taxation of Regulatory Capital Securities Regulations 2013[^c-4d1c05b933eb69d47f31e7e3d1563c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-4d1c05b933eb69d47f31e7e3d1563c0d]
+## 3. Transitional provisions[^c-4d1c05b933eb69d47f31e7e3d1563c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d1c05b933eb69d47f31e7e3d1563c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d1c05b933eb69d47f31e7e3d1563c0d]: Textual amendment: Regulations revoked (with effect in accordance with Sch. 20 paras. 10(a), 16, 17, 21 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/1/2) (with [Sch. 20 paras. 12-15](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/12))
+[^c-4d1c05b933eb69d47f31e7e3d1563c0d]: Textual amendment: Regulations revoked (with effect in accordance with Sch. 20 paras. 10(a), 16, 17, 21 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/1/2) (with [Sch. 20 paras. 12-15](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/12))

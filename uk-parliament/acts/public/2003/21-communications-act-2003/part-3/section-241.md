@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Television multiplex services[^key-ba59d417655a627537985f99c14e7d20]
+## 241. Television multiplex services[^c-ba59d417655a627537985f99c14e7d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,10 +59,10 @@ OFCOM may revoke the wireless telegraphy licence.
 - (c) Channel 5 in digital form;
 - (d) S4C Digital;
 - (e) any digital television programme service;
-- (f)[^key-21ff647fbb07c04a6a88d0485c618394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-21ff647fbb07c04a6a88d0485c618394] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba59d417655a627537985f99c14e7d20]: Commencement: S. 241 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ba59d417655a627537985f99c14e7d20]: Commencement: S. 241 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-21ff647fbb07c04a6a88d0485c618394]: Textual amendment: [S. 241(9)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/241/9/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/34); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-21ff647fbb07c04a6a88d0485c618394]: Textual amendment: [S. 241(9)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/241/9/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/34); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

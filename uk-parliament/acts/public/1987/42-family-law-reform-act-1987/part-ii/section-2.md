@@ -22,7 +22,7 @@ summary: ''
 
 (1) In the following enactments, namely—
 
-- (a)[^key-be87c705e8c170d102f849235e2827c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-be87c705e8c170d102f849235e2827c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 6 of the Family Law Reform Act [^c1014244]1969;
 - (c) the Guardianship of Minors Act [^c1014245]1971 (in this Act referred to as “**the 1971 Act**”);
 - (d) Part I of the Guardianship Act 1973 (in this Act referred to as “**the 1973 Act**”);
@@ -36,7 +36,7 @@ references (however expressed) to any relationship between two persons shall be 
 
 ## Annotations
 
-[^key-be87c705e8c170d102f849235e2827c6]: Textual amendment: S. 2(1)(a) repealed (6.4.2009 except in relation to local authorities in W. except in relation to local authorities in W., 6.4.2009 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) (with [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13)); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/uksi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/631/article/2/c); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/uksi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/631/article/2/c)
+[^c-be87c705e8c170d102f849235e2827c6]: Textual amendment: S. 2(1)(a) repealed (6.4.2009 except in relation to local authorities in W. except in relation to local authorities in W., 6.4.2009 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 15 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/5) (with [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/14/schedule/13)); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/uksi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/631/article/2/c); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/462/article/4/c); [S.I. 2009/631](https://www.legislation.gov.uk/uksi/2009/631), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/631/article/2/c)
 
 [^c1014244]: Marginal citation: [1969 c. 36](https://www.legislation.gov.uk/ukpga/1969/36).
 

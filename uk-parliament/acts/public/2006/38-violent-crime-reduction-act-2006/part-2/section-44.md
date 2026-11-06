@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Sale etc. of crossbows[^key-3dff815488f6c174c659b3381a99827e]
+## 44. Sale etc. of crossbows[^c-3dff815488f6c174c659b3381a99827e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dff815488f6c174c659b3381a99827e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k)
+[^c-3dff815488f6c174c659b3381a99827e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/38/section/44) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/k)

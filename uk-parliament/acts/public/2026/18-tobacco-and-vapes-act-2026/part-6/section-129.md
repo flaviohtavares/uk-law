@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Brandsharing[^key-43ceac8f332ddccc949515428b7812cd]
+## 129. Brandsharing[^c-43ceac8f332ddccc949515428b7812cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ where the purpose of the use is, or the effect of the use will be, to promote th
 
 ## Annotations
 
-[^key-43ceac8f332ddccc949515428b7812cd]: Commencement: S. 129 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-43ceac8f332ddccc949515428b7812cd]: Commencement: S. 129 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

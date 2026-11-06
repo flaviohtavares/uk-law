@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Confidential information[^key-4fee7c001a92f506b583e869c54c02e8][^key-a5cd0164a4f1a1f4319b667106e64a00]
+## 43. Confidential information[^c-4fee7c001a92f506b583e869c54c02e8][^c-a5cd0164a4f1a1f4319b667106e64a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fee7c001a92f506b583e869c54c02e8]: Commencement: S. 43 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4fee7c001a92f506b583e869c54c02e8]: Commencement: S. 43 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-a5cd0164a4f1a1f4319b667106e64a00]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/32/section/43) in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/g)
+[^c-a5cd0164a4f1a1f4319b667106e64a00]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/32/section/43) in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/g)

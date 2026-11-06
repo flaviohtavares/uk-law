@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Apparatus and rights of statutory undertakers in stopped up streets[^key-6010c9d21567b131cc99c3aaac27e0f5]
+## 42. Apparatus and rights of statutory undertakers in stopped up streets[^c-6010c9d21567b131cc99c3aaac27e0f5]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-6010c9d21567b131cc99c3aaac27e0f5]: Commencement: Art. 42 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-6010c9d21567b131cc99c3aaac27e0f5]: Commencement: Art. 42 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

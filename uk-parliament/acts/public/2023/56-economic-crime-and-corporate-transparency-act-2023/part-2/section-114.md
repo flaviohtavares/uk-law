@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. A limited partnership’s registered office: transitional provision[^key-079ec41171fb8fe33d09b37a9f8a05ea]
+## 114. A limited partnership’s registered office: transitional provision[^c-079ec41171fb8fe33d09b37a9f8a05ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-079ec41171fb8fe33d09b37a9f8a05ea]: Commencement: S. 114 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-079ec41171fb8fe33d09b37a9f8a05ea]: Commencement: S. 114 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

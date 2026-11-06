@@ -177,9 +177,9 @@ Section 74.
 
 ### Part II — Minor and consequential amendments of the Taxes Act 1988
 
-**2.**[^key-c8b8aa733f197212c103726f6fefca6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c8b8aa733f197212c103726f6fefca6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-56900b5b65f391f699edb3d6ec9cd959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-56900b5b65f391f699edb3d6ec9cd959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** (1)[^c15675051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,19 +189,19 @@ Section 74.
 >
 > (8) For the purposes of subsection (7) above the bodies mentioned in section 507 shall each be treated as a body of persons established for charitable purposes only.
 
-**5.**[^key-a35e13630918295c3e234c1656f361f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a35e13630918295c3e234c1656f361f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3c2028aadcc15f2ae487ab34eb5526fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3c2028aadcc15f2ae487ab34eb5526fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 505(6) of the Taxes Act 1988, for “section 660(3)” substitute “ section 347A(7) ”.
 
-**8.**[^key-a2827278eaccb951843b418c5201b534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a2827278eaccb951843b418c5201b534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-473aed7d57b73617ecbce6df8257566a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-473aed7d57b73617ecbce6df8257566a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 678 of the Taxes Act 1988, omit subsection (7).
 
-**11.**[^key-e6a047544c90c6e9af9a38377ee40368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e6a047544c90c6e9af9a38377ee40368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** For the heading before section 686 of the Taxes Act 1988 substitute—
 
@@ -209,51 +209,51 @@ Section 74.
 
 .
 
-**13.**[^key-5d670d8a0c29882dcd345ea577f83594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5d670d8a0c29882dcd345ea577f83594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4b932d4df4739506a09a3633e7bb16cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4b932d4df4739506a09a3633e7bb16cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** Omit section 689 of the Taxes Act 1988 (recovery from trustees of discretionary trusts of higher rate tax due from beneficiaries).
 
-**16.**[^key-d0e628c2d560b17a8ca8abf53381a824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-d0e628c2d560b17a8ca8abf53381a824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-83b39b5b9e94e270cca70a4f0df7b4c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-83b39b5b9e94e270cca70a4f0df7b4c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-fcb631f74b7e18e8e276359e46c2ff5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-fcb631f74b7e18e8e276359e46c2ff5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-024899c59e543d3f5b78247a25fbded0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-024899c59e543d3f5b78247a25fbded0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-963d99a3f6756502b24255ac3b0e892f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-963d99a3f6756502b24255ac3b0e892f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Consequential amendments of other enactments
 
 #### Taxes Management Act 1970 (c.9)
 
-**21.**[^key-8dcb020fa6c82db48860e0084527ba9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-8dcb020fa6c82db48860e0084527ba9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In section 31(3) of the Taxes Management Act 1970 (including that provision as proposed to be substituted by paragraph 7 of Schedule 19 to the[^c15675071] [^c15675081]Finance Act 1994), for “sections 660 to 685” substitute “ sections 660A to 660G or 677 to 682A ”.
 
-**23.**[^key-44f5d60ca5c05c016f4f4406f402485b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-44f5d60ca5c05c016f4f4406f402485b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Finance Act 1989 (c.26)
 
-**24.**[^key-cc542faa5502d50a67b2ce7e08ba5415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-cc542faa5502d50a67b2ce7e08ba5415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** In section 60 of the Finance Act 1989, omit subsection (3) and in subsection (4) for “subsections (2) and (3)” substitute “ subsection (2) ”.
 
 #### Finance Act 1990 (c.29)
 
-**26.**[^key-070f3197f2d314ea8cfa6d78862c1f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-070f3197f2d314ea8cfa6d78862c1f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Taxation of Chargeable Gains Act 1992 (c.12)
 
-**27.**[^key-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-7ce83bd06436bd4d827dcb7aa34a956b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-e83489ab9ee03b52e35bfbe3222bfc05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-e83489ab9ee03b52e35bfbe3222bfc05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** In section 286 of the Taxation of Chargeable Gains Act 1992, for subsection (3) substitute—
 
@@ -272,54 +272,54 @@ Section 74.
 
 .
 
-**32.**[^key-e8b5207e9cccaa45d49871a91f114b4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-e8b5207e9cccaa45d49871a91f114b4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8b8aa733f197212c103726f6fefca6f]: Textual amendment: Sch. 17 para. 2 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-c8b8aa733f197212c103726f6fefca6f]: Textual amendment: Sch. 17 para. 2 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-56900b5b65f391f699edb3d6ec9cd959]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-56900b5b65f391f699edb3d6ec9cd959]: Textual amendment: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c15675051]: Textual amendment: Sch. 17 para. 4(1) repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. III(6) Note of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(6)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/6) Note
 
-[^key-a35e13630918295c3e234c1656f361f3]: Textual amendment: Sch. 17 para. 5 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-a35e13630918295c3e234c1656f361f3]: Textual amendment: Sch. 17 para. 5 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-3c2028aadcc15f2ae487ab34eb5526fa]: Textual amendment: Sch. 17 para. 6 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-3c2028aadcc15f2ae487ab34eb5526fa]: Textual amendment: Sch. 17 para. 6 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-a2827278eaccb951843b418c5201b534]: Textual amendment: Sch. 17 para. 8 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-a2827278eaccb951843b418c5201b534]: Textual amendment: Sch. 17 para. 8 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-473aed7d57b73617ecbce6df8257566a]: Textual amendment: Sch. 17 para. 9 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-473aed7d57b73617ecbce6df8257566a]: Textual amendment: Sch. 17 para. 9 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-e6a047544c90c6e9af9a38377ee40368]: Textual amendment: Sch. 17 para. 11 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-e6a047544c90c6e9af9a38377ee40368]: Textual amendment: Sch. 17 para. 11 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-5d670d8a0c29882dcd345ea577f83594]: Textual amendment: Sch. 17 para. 13 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-5d670d8a0c29882dcd345ea577f83594]: Textual amendment: Sch. 17 para. 13 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-4b932d4df4739506a09a3633e7bb16cb]: Textual amendment: Sch. 17 para. 14 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4b932d4df4739506a09a3633e7bb16cb]: Textual amendment: Sch. 17 para. 14 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d0e628c2d560b17a8ca8abf53381a824]: Textual amendment: Sch. 17 para. 16 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-d0e628c2d560b17a8ca8abf53381a824]: Textual amendment: Sch. 17 para. 16 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-83b39b5b9e94e270cca70a4f0df7b4c6]: Textual amendment: Sch. 17 para. 17 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-83b39b5b9e94e270cca70a4f0df7b4c6]: Textual amendment: Sch. 17 para. 17 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-fcb631f74b7e18e8e276359e46c2ff5b]: Textual amendment: Sch. 17 para. 18 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-fcb631f74b7e18e8e276359e46c2ff5b]: Textual amendment: Sch. 17 para. 18 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-024899c59e543d3f5b78247a25fbded0]: Textual amendment: Sch. 17 para. 19 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-024899c59e543d3f5b78247a25fbded0]: Textual amendment: Sch. 17 para. 19 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-963d99a3f6756502b24255ac3b0e892f]: Textual amendment: [Sch. 17 para. 20](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/20) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-963d99a3f6756502b24255ac3b0e892f]: Textual amendment: [Sch. 17 para. 20](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/20) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8dcb020fa6c82db48860e0084527ba9a]: Textual amendment: Sch. 17 para. 21 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-8dcb020fa6c82db48860e0084527ba9a]: Textual amendment: Sch. 17 para. 21 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c15675071]: Textual amendment: Words in Sch. 17 para. 22 repealed (29.4.1996 with effect as mentioned in [Sch. 22](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(12)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/12) Note
 
 [^c15675081]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-44f5d60ca5c05c016f4f4406f402485b]: Textual amendment: Sch. 17 para. 23 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-44f5d60ca5c05c016f4f4406f402485b]: Textual amendment: Sch. 17 para. 23 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-cc542faa5502d50a67b2ce7e08ba5415]: Textual amendment: [Sch. 17 para. 24](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/24) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-cc542faa5502d50a67b2ce7e08ba5415]: Textual amendment: [Sch. 17 para. 24](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/24) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-070f3197f2d314ea8cfa6d78862c1f4b]: Textual amendment: [Sch. 17 para. 26](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/26) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-070f3197f2d314ea8cfa6d78862c1f4b]: Textual amendment: [Sch. 17 para. 26](https://www.legislation.gov.uk/ukpga/1995/4/schedule/17/paragraph/26) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-7ce83bd06436bd4d827dcb7aa34a956b]: Textual amendment: Sch. 17 paras. 27-29 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/a)
+[^c-7ce83bd06436bd4d827dcb7aa34a956b]: Textual amendment: Sch. 17 paras. 27-29 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/a)
 
-[^key-e83489ab9ee03b52e35bfbe3222bfc05]: Textual amendment: Sch. 17 para. 30 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-e83489ab9ee03b52e35bfbe3222bfc05]: Textual amendment: Sch. 17 para. 30 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-e8b5207e9cccaa45d49871a91f114b4d]: Textual amendment: Sch. 17 para. 32 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-e8b5207e9cccaa45d49871a91f114b4d]: Textual amendment: Sch. 17 para. 32 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330A. Company is not, or has ceased to be, party to loan relationship[^key-f35424f77848735c2faf8d978ce4df63]
+## 330A. Company is not, or has ceased to be, party to loan relationship[^c-f35424f77848735c2faf8d978ce4df63]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ References in this section to a company being a party to a qualifying relationsh
 
 ## Annotations
 
-[^key-f35424f77848735c2faf8d978ce4df63]: Textual amendment: Ss. 330A-330C and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/23)
+[^c-f35424f77848735c2faf8d978ce4df63]: Textual amendment: Ss. 330A-330C and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/23)

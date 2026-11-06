@@ -44,7 +44,7 @@ The Secretary of State in exercise of the powers conferred by section 8(1) of, a
 
 In accordance with paragraph 12(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-8933ebd67c5d7f38244af05ee065bf46]
+## 1. Citation, commencement and interpretation[^c-8933ebd67c5d7f38244af05ee065bf46]
 
 (1) These Regulations may be cited as the Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -53,23 +53,23 @@ In accordance with paragraph 12(1) of Schedule 7 to the European Union (Withdraw
 - “**the 1994 Act**” means the Trade Marks Act 1994;
 - “**the Rules**” means the Trade Mark Rules 2008 [^c23571911].
 
-## 2. Certain trade marks registered as European Union trade marks to have effect under the 1994 Act[^key-7bf469e28531322b107e1de871429acb]
+## 2. Certain trade marks registered as European Union trade marks to have effect under the 1994 Act[^c-7bf469e28531322b107e1de871429acb]
 
-Schedule 1 contains amendments to the 1994 Act to make provision for certain trade marks registered as European Union trade marks to be treated as registered trade marks from IP completion day[^key-81e513a89e07265fc262010af9616f63] and about certain applications for such marks made before IP completion day.
+Schedule 1 contains amendments to the 1994 Act to make provision for certain trade marks registered as European Union trade marks to be treated as registered trade marks from IP completion day[^c-81e513a89e07265fc262010af9616f63] and about certain applications for such marks made before IP completion day.
 
-## 3. Fees payable in respect of a comparable trade mark (EU)[^key-dafe0a85e2fbc2b18b9cdb3e2eddf5f2]
+## 3. Fees payable in respect of a comparable trade mark (EU)[^c-dafe0a85e2fbc2b18b9cdb3e2eddf5f2]
 
 Schedule 2, which makes provision for the payment of fees in respect of a comparable trade mark (EU) (as that term is defined for the purposes of Schedule 2A to the 1994 Act as inserted by Schedule 1), has effect.
 
-## 4. Other amendments to the 1994 Act[^key-2d8879def3936bbca9e1b8e904d8e2f3]
+## 4. Other amendments to the 1994 Act[^c-2d8879def3936bbca9e1b8e904d8e2f3]
 
 Schedule 3, which contains other amendments to the 1994 Act, has effect.
 
-## 5. Amendments to the Rules[^key-d891de3ceda1e0164e0a27574aa710fa]
+## 5. Amendments to the Rules[^c-d891de3ceda1e0164e0a27574aa710fa]
 
 Schedule 4, which contains amendments to the Rules, has effect.
 
-## 6. Consequential amendments etc[^key-b96bf319e190b8c093d3fc76953b8195]
+## 6. Consequential amendments etc[^c-b96bf319e190b8c093d3fc76953b8195]
 
 Schedule 5, which contains consequential amendments, repeals, revocations, transitional and saving provisions, has effect.
 
@@ -91,15 +91,15 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Regulation 2
 
-**1.**[^key-4e2712a3ce2fd64a4672ebead2bb8991] The 1994 Act is amended as follows.
+**1.**[^c-4e2712a3ce2fd64a4672ebead2bb8991] The 1994 Act is amended as follows.
 
-**2.**[^key-e038d91bb111bb7df3f7285bddf0bc74] After section 52 [^c23571921] (and before the italic heading before section 53), insert—
+**2.**[^c-e038d91bb111bb7df3f7285bddf0bc74] After section 52 [^c23571921] (and before the italic heading before section 53), insert—
 
 > **52A. Certain trade marks registered as European Union trade marks to be treated as registered trade marks**
 >
-> Schedule 2A makes provision for European Union trade marks (including certain expired and removed marks) to be treated as registered trade marks with effect from IP completion day[^key-a29f973f423ac375259a551eda37db42] and about certain applications for a European Union trade mark made before IP completion day.
+> Schedule 2A makes provision for European Union trade marks (including certain expired and removed marks) to be treated as registered trade marks with effect from IP completion day[^c-a29f973f423ac375259a551eda37db42] and about certain applications for a European Union trade mark made before IP completion day.
 
-**3.**[^key-c863422c8606b8b74b293b387745215e] After Schedule 2, insert—
+**3.**[^c-c863422c8606b8b74b293b387745215e] After Schedule 2, insert—
 
 > **SCHEDULE 2A — EUROPEAN UNION TRADE MARKS**
 >
@@ -109,7 +109,7 @@ Regulation 2
 >
 > **1. A trade mark registered as an existing EUTM to be treated as registered under this Act**
 >
-> (1) A trade mark which is registered in the EUTM Register immediately before IP completion day[^key-44159bbb73f82b62da4d9aba1d474907] (an “existing EUTM”) is to be treated on and after IP completion day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services as the existing EUTM is registered in the EUTM Register.
+> (1) A trade mark which is registered in the EUTM Register immediately before IP completion day[^c-44159bbb73f82b62da4d9aba1d474907] (an “existing EUTM”) is to be treated on and after IP completion day as if an application had been made, and the trade mark had been registered, under this Act in respect of the same goods or services as the existing EUTM is registered in the EUTM Register.
 >
 > (2) A registered trade mark which comes into being by virtue of sub-paragraph (1) is referred to in this Act as a comparable trade mark (EU).
 >
@@ -434,7 +434,7 @@ Regulation 2
 >
 > (2) Subject to any order of the court to the contrary, a relevant injunction will have effect and be enforceable to prohibit the performance of acts which infringe or would infringe a comparable trade mark (EU) to the same extent as in relation to the European Union trade mark from which the comparable trade mark (EU) derives as if it were an injunction granted by the court.
 >
-> **21A. Existing EUTM: effect of invalidity or revocation[^key-c9e05421d014793a5da6a2e82f8cefd2]**
+> **21A. Existing EUTM: effect of invalidity or revocation[^c-c9e05421d014793a5da6a2e82f8cefd2]**
 >
 > (1) This paragraph applies where, on IP completion day, an existing EUTM is the subject of proceedings under Article 58 (Grounds for revocation), 59 (Absolute grounds for invalidity) or 60 (Relative grounds for invalidity) which have been instituted but not finally determined before IP completion day (“cancellation proceedings”).
 >
@@ -631,33 +631,33 @@ Regulation 2
 
 Regulation 3
 
-**1.**[^key-8dea5b78e1bca8beaaf676b707cfbfaf] The renewal of the registration of a comparable trade mark (EU) under section 43 of the 1994 Act is subject to the payment of a renewal fee and, in the circumstances referred to in section 43(3) of the 1994 Act, payment of an additional renewal fee.
+**1.**[^c-8dea5b78e1bca8beaaf676b707cfbfaf] The renewal of the registration of a comparable trade mark (EU) under section 43 of the 1994 Act is subject to the payment of a renewal fee and, in the circumstances referred to in section 43(3) of the 1994 Act, payment of an additional renewal fee.
 
-**2.**[^key-bc2bc88c0c0c8e620102c36cd765bece] The renewal of the registration of a comparable trade mark (EU) under paragraph 5 of Schedule 2A to the 1994 Act is subject to the payment of a renewal fee as if the renewal had been requested under section 43(1) of the 1994 Act before the expiry of the registration.
+**2.**[^c-bc2bc88c0c0c8e620102c36cd765bece] The renewal of the registration of a comparable trade mark (EU) under paragraph 5 of Schedule 2A to the 1994 Act is subject to the payment of a renewal fee as if the renewal had been requested under section 43(1) of the 1994 Act before the expiry of the registration.
 
-**3.**[^key-401ed58741c5a4dd93c195103a67b0d5] If a renewal fee is paid in respect of only some of the goods or services for which a comparable trade mark (EU) is registered, the registration is to be renewed for those goods or services only.
+**3.**[^c-401ed58741c5a4dd93c195103a67b0d5] If a renewal fee is paid in respect of only some of the goods or services for which a comparable trade mark (EU) is registered, the registration is to be renewed for those goods or services only.
 
-**4.**[^key-3b8afe7d122b550051bfe8920ad2ebbd] A request for information or inspection of documents relating to a comparable trade mark (EU) made under section 67 of the 1994 Act is subject to payment of the appropriate fee (if any).
+**4.**[^c-3b8afe7d122b550051bfe8920ad2ebbd] A request for information or inspection of documents relating to a comparable trade mark (EU) made under section 67 of the 1994 Act is subject to payment of the appropriate fee (if any).
 
-**5.**[^key-acac7b4061dcbbb305a632811fb5cfad] The Trade Marks (Fees) Rules 2008[^key-d7002a9a61fb60f2db47e97b12f0ba2c] apply to comparable trade marks (EU) as they apply to other registered trade marks.
+**5.**[^c-acac7b4061dcbbb305a632811fb5cfad] The Trade Marks (Fees) Rules 2008[^c-d7002a9a61fb60f2db47e97b12f0ba2c] apply to comparable trade marks (EU) as they apply to other registered trade marks.
 
-**6.**[^key-9ba6163b00d02af36f1515ece122b28c] The Commissioners for Her Majesty's Revenue and Customs may by regulations made by statutory instrument require the proprietor or a licensee of a comparable trade mark (EU) who is giving notice under section 89 of the 1994 Act to pay such fees in respect of the notice as may be specified by the regulations.
+**6.**[^c-9ba6163b00d02af36f1515ece122b28c] The Commissioners for Her Majesty's Revenue and Customs may by regulations made by statutory instrument require the proprietor or a licensee of a comparable trade mark (EU) who is giving notice under section 89 of the 1994 Act to pay such fees in respect of the notice as may be specified by the regulations.
 
-**7.**[^key-66c14cbc5d021bfe0c047c4c517a339e] Regulations under paragraph 6 may make different provision as respects different classes of case to which they apply and may include such incidental and supplementary provisions as the Commissioners consider expedient.
+**7.**[^c-66c14cbc5d021bfe0c047c4c517a339e] Regulations under paragraph 6 may make different provision as respects different classes of case to which they apply and may include such incidental and supplementary provisions as the Commissioners consider expedient.
 
-**8.**[^key-0f82c44bfd258b1ef5ea1d36954bdafc] A statutory instrument containing regulations under paragraph 6 is subject to annulment in pursuance of a resolution of either House of Parliament.
+**8.**[^c-0f82c44bfd258b1ef5ea1d36954bdafc] A statutory instrument containing regulations under paragraph 6 is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**9.**[^key-51e3e3625199b75a7777349c407e9423] The Trade Marks (Customs) Regulations 1994, to the extent that they make provision which could be made under paragraph 6, are to be treated as if they had been made under paragraph 5 as well as under section 90 of the 1994 Act.
+**9.**[^c-51e3e3625199b75a7777349c407e9423] The Trade Marks (Customs) Regulations 1994, to the extent that they make provision which could be made under paragraph 6, are to be treated as if they had been made under paragraph 5 as well as under section 90 of the 1994 Act.
 
 ## SCHEDULE 3 — Other amendments to the 1994 Act
 
 Regulation 4
 
-### 1. Further amendments to the 1994 Act[^key-7653fe292b7174876d15fcf5462e94da]
+### 1. Further amendments to the 1994 Act[^c-7653fe292b7174876d15fcf5462e94da]
 
 The 1994 Act is further amended as follows.
 
-### 2. Absolute grounds for refusal of registration[^key-b92b8b3e602310bc6099803e3e0e1a47]
+### 2. Absolute grounds for refusal of registration[^c-b92b8b3e602310bc6099803e3e0e1a47]
 
 (1) Section 3 [^c23571981] is amended as follows.
 
@@ -669,7 +669,7 @@ The 1994 Act is further amended as follows.
 - (b) omit paragraph (b) (together with the final “or”);
 - (c) in paragraph (c), omit “or the EU”.
 
-(4)[^key-4cd87305ccc247155ab0f72499aeab88] In subsection (4B)—
+(4)[^c-4cd87305ccc247155ab0f72499aeab88] In subsection (4B)—
 
 - (a) in paragraph (a) for “provision of EU law” substitute “enactment or rule of law”;
 - (b) in paragraph (b) for “EU” substitute “United Kingdom”.
@@ -680,7 +680,7 @@ The 1994 Act is further amended as follows.
 - (b) omit paragraph (b) (together with the final “or”);
 - (c) in paragraph (c), omit “or the EU”.
 
-### 3. Relative grounds for refusal of registration[^key-0543d236031eb3876c94b55735fb4a23]
+### 3. Relative grounds for refusal of registration[^c-0543d236031eb3876c94b55735fb4a23]
 
 (1) Section 5 [^c23571991] is amended as follows.
 
@@ -688,7 +688,7 @@ The 1994 Act is further amended as follows.
 
 (3) In subsection (4)(aa), omit “any provision of EU law, or”.
 
-### 4. Meaning of “earlier trade mark”[^key-72ddc493cd8a832081284b5a5591c1c7]
+### 4. Meaning of “earlier trade mark”[^c-72ddc493cd8a832081284b5a5591c1c7]
 
 (1) Section 6 [^c23572001] is amended as follows.
 
@@ -707,7 +707,7 @@ The 1994 Act is further amended as follows.
 
 (5) In subsection (1)(ba)(i)—
 
-- (a) before “has been converted” insert “prior to IP completion day[^key-f079095c8f4af7c305bb240aae81be31]”; and
+- (a) before “has been converted” insert “prior to IP completion day[^c-f079095c8f4af7c305bb240aae81be31]”; and
 - (b) for “within paragraph (b) from an earlier trade mark” substitute “ of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired ”.
 
 (6) After subsection (1) insert—
@@ -720,7 +720,7 @@ The 1994 Act is further amended as follows.
 
 > (2A) References in this Act to an earlier trade mark include a trade mark in respect of which an application for registration has been made pursuant to paragraph 25 of Schedule 2A and which if registered would be an earlier trade mark by virtue of subsection (1)(aa), subject to its being so registered.
 
-### 5. Raising of relative grounds in opposition proceedings in case of non-use[^key-ee59ded65173018c2b0dc3c31e7a2b6e]
+### 5. Raising of relative grounds in opposition proceedings in case of non-use[^c-ee59ded65173018c2b0dc3c31e7a2b6e]
 
 (1) Section 6A [^c23572011] is amended as follows.
 
@@ -728,7 +728,7 @@ The 1994 Act is further amended as follows.
 
 (3) Omit subsections (5) and (5A).
 
-### 6. Right to prevent goods entering the UK without being released for free circulation[^key-3c9129fdb5bb5a41fa4d1e5a27512401]
+### 6. Right to prevent goods entering the UK without being released for free circulation[^c-3c9129fdb5bb5a41fa4d1e5a27512401]
 
 (1) Section 10A is amended as follows.
 
@@ -736,7 +736,7 @@ The 1994 Act is further amended as follows.
 
 (3) In subsection (5), after “intellectual property rights” insert “ as amended from time to time ”.
 
-### 7. Limits on effect of registered trade mark[^key-dd302a37e97ec8d85ebb365f48c89a6c]
+### 7. Limits on effect of registered trade mark[^c-dd302a37e97ec8d85ebb365f48c89a6c]
 
 (1) Section 11 [^c23572021] is amended as follows.
 
@@ -744,23 +744,23 @@ The 1994 Act is further amended as follows.
 
 (3) In subsection (1B), omit “or (1A)”.
 
-### 8. Order as to disposal of infringing goods, material or articles[^key-421fa7b49fd7be95bcea9c60bcc8b1cb]
+### 8. Order as to disposal of infringing goods, material or articles[^c-421fa7b49fd7be95bcea9c60bcc8b1cb]
 
 In section 19(6)(a) [^c23572031] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
 
-### 9. Grounds for invalidity of registration[^key-16dd8e621d0244c9ff39067033d16cc4]
+### 9. Grounds for invalidity of registration[^c-16dd8e621d0244c9ff39067033d16cc4]
 
 In section 47 [^c23572041] omit subsections (2D) and (2DA).
 
-### 10. Meaning of “European Union trade mark”[^key-ff6d71810fab6212baf79a0bacfa63f8]
+### 10. Meaning of “European Union trade mark”[^c-ff6d71810fab6212baf79a0bacfa63f8]
 
-In section 51 [^c23572051], in the definition of “the European Union Trade Mark Regulation” at the end insert “ (as it had effect immediately before IP completion day[^key-64ce7cebf5c30d5fc79cabc5b13f1402]) ”.
+In section 51 [^c23572051], in the definition of “the European Union Trade Mark Regulation” at the end insert “ (as it had effect immediately before IP completion day[^c-64ce7cebf5c30d5fc79cabc5b13f1402]) ”.
 
-### 11. Power to make provision in connection with European Union Trade Mark Regulation[^key-8ca01b446b5627f5012416a3dd4df6e1]
+### 11. Power to make provision in connection with European Union Trade Mark Regulation[^c-8ca01b446b5627f5012416a3dd4df6e1]
 
 Omit section 52.
 
-### 12. Privilege for communications with registered trade mark agents[^key-3d2993f34ff1927d7422418c66c35702]
+### 12. Privilege for communications with registered trade mark agents[^c-3d2993f34ff1927d7422418c66c35702]
 
 (1) Section 87(3) is amended as follows.
 
@@ -774,11 +774,11 @@ Omit section 52.
 
 > (4) Where a trade mark attorney is a person falling within subsection (3)(d), subsection (2) applies as if the reference to a matter mentioned in subsection (1) were a reference to a matter relating to the protection of a trade mark.
 
-### 13. Minor definitions[^key-d9477c7e0345ed91c4d2e0c405aa7b0b]
+### 13. Minor definitions[^c-d9477c7e0345ed91c4d2e0c405aa7b0b]
 
 In section 103 [^c23572061], omit subsection (3).
 
-### 14. Index of defined expressions[^key-8b37e9cbf1633a491ee7577de422fa71]
+### 14. Index of defined expressions[^c-8b37e9cbf1633a491ee7577de422fa71]
 
 (1) Section 104 is amended as follows.
 
@@ -810,23 +810,23 @@ In section 103 [^c23572061], omit subsection (3).
 
 Regulation 5
 
-### 1. Amendments to the Rules[^key-6547f033b31617857472ae53741fcefc]
+### 1. Amendments to the Rules[^c-6547f033b31617857472ae53741fcefc]
 
 The Rules are amended in accordance with paragraphs 2 to 11.
 
-**2.**[^key-65537941d01cbeea47d2ad5555ba3fdb] (1) Rule 2 is amended as follows.
+**2.**[^c-65537941d01cbeea47d2ad5555ba3fdb] (1) Rule 2 is amended as follows.
 
 (2) In the definition of “fast track opposition”, sub-paragraph (b), for “or in the EU, or is protected in one or another of those territories as an international trade mark (UK) or (EU)” substitute “ or is protected in the UK as an international trade mark (UK) ”.
 
 (3) In paragraph (2) after “in the Act” insert “ , a reference to a schedule is a reference to that schedule to the Act ”.
 
-**3.**[^key-174f0a56fa8f7fd540f9ed62d2e6be78] After rule 2 insert—
+**3.**[^c-174f0a56fa8f7fd540f9ed62d2e6be78] After rule 2 insert—
 
 > **2A. Comparable trade mark (EU)**
 >
 > These Rules apply to a comparable trade mark (EU) as they apply to other registered trade marks.
 
-**4.**[^key-ccf2dc09772574fc5d8271c2b65bad18] (1) Rule 4 is amended as follows.
+**4.**[^c-ccf2dc09772574fc5d8271c2b65bad18] (1) Rule 4 is amended as follows.
 
 (2) In sub-paragraph (1) omit “by rules under section 79 (fees)”.
 
@@ -839,7 +839,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 > - (a) in relation to a registered trade mark other than a comparable trade mark (EU), prescribed by rules under section 79 (fees);
 > - (b) in relation to a comparable trade mark (EU), prescribed by virtue of regulations under Schedule 4 to the European Union (Withdrawal) Act 2018.
 
-**5.**[^key-4628daa6692868d77ee371beed996318] After rule 5 insert—
+**5.**[^c-4628daa6692868d77ee371beed996318] After rule 5 insert—
 
 > **5A. Application for registration based upon an existing EUTM application; Schedule 2A paragraph 25**
 >
@@ -866,7 +866,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 > - (a) the filing date accorded to the existing EUTM application, the representation of the mark and the goods or services covered by the existing EUTM application; and
 > - (b) in relation to a priority claim, the date of filing of the overseas application, the country or registering or competent authority, the representation of the mark and the goods or services covered by the overseas application.
 
-**6.**[^key-cb91ef6b6a38cf52a15670cf42c1f017][^key-61130aefca344709dcf67b743d0cf21b] (1) Rule 11 is amended as follows.
+**6.**[^c-cb91ef6b6a38cf52a15670cf42c1f017][^c-61130aefca344709dcf67b743d0cf21b] (1) Rule 11 is amended as follows.
 
 (2) At the end of paragraph (1)(d), omit “.” and substitute “;”.
 
@@ -878,7 +878,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 (4) In paragraph (4), for “another EEA state” substitute “an EEA state”.
 
-**6A.**[^M_I_8c8d50b1-b6dd-44b8-84f8-33a7ed7f5c0b][^key-9d0886431be6cb0877020099a6f9ac4e] (1) Rule 12 is amended as follows.
+**6A.**[^M_I_8c8d50b1-b6dd-44b8-84f8-33a7ed7f5c0b][^c-9d0886431be6cb0877020099a6f9ac4e] (1) Rule 12 is amended as follows.
 
 (2) At the end of paragraph (4)(d), omit “.” and substitute “;”.
 
@@ -888,17 +888,17 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 .
 
-**7.**[^key-39f7059988a17f8c877fd2fde3234cc9] In rule 14(3) for “section 6(1)(a) or (b)” substitute “ section 6(1)(a) or (aa) ”.
+**7.**[^c-39f7059988a17f8c877fd2fde3234cc9] In rule 14(3) for “section 6(1)(a) or (b)” substitute “ section 6(1)(a) or (aa) ”.
 
-**8.**[^key-1352b5e2a46f5147fcd1b6a04fe7a336] In rule 17A(6)(d), omit “or (EU)”.
+**8.**[^c-1352b5e2a46f5147fcd1b6a04fe7a336] In rule 17A(6)(d), omit “or (EU)”.
 
-**9.**[^key-f09b3985e63a9609868f2a0c7f23d04d] After rule 29 insert—
+**9.**[^c-f09b3985e63a9609868f2a0c7f23d04d] After rule 29 insert—
 
 > **29A. Filing of regulations for EU collective and certification marks; Schedule 2A, paragraph 4**
 >
 > Regulations governing the use of a comparable trade mark (EU) which is a collective mark or a certification mark and any translation required to be filed under paragraph 4 of Schedule 2A must be filed within a period of three months following the date of notice from the registrar.
 
-**10.**[^key-908e67f1197183e7c25ea6b3ab3edfdd] After rule 37 insert—
+**10.**[^c-908e67f1197183e7c25ea6b3ab3edfdd] After rule 37 insert—
 
 > **37A. Restoration of a European Union trade mark; Schedule 2A, paragraph 28**
 >
@@ -913,7 +913,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 .
 
-**10A.**[^M_I_6aedc812-6ffc-4650-d940-71255b1b0dfd][^key-3668bc276cd862fac61e81435796cf17] (1) Rule 43 is amended as follows.
+**10A.**[^M_I_6aedc812-6ffc-4650-d940-71255b1b0dfd][^c-3668bc276cd862fac61e81435796cf17] (1) Rule 43 is amended as follows.
 
 (2) At the end of paragraph (1)(b), omit “, or” and substitute “;”.
 
@@ -969,7 +969,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 .
 
-**11.**[^key-8c5c77067d01b3bfa29401f9ded642b1] (1) Rule 47 is amended as follows.
+**11.**[^c-8c5c77067d01b3bfa29401f9ded642b1] (1) Rule 47 is amended as follows.
 
 (2) At the end of paragraph (a) insert “ or, in the case of a comparable trade mark (EU), as determined in accordance with paragraph 1 of Schedule 2A ”.
 
@@ -990,7 +990,7 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 (6) After paragraph (m) [^c23572071] insert—
 
-> - (n) in the case of a comparable trade mark (EU) an indication that it is derived from an existing EUTM, including the number of the corresponding EUTM , and where the corresponding EUTM is subject to cancellation proceedings, that cancellation is pending[^key-51ec1df46c0bbb957c7049b992543c56].
+> - (n) in the case of a comparable trade mark (EU) an indication that it is derived from an existing EUTM, including the number of the corresponding EUTM , and where the corresponding EUTM is subject to cancellation proceedings, that cancellation is pending[^c-51ec1df46c0bbb957c7049b992543c56].
 
 .
 
@@ -998,25 +998,25 @@ The Rules are amended in accordance with paragraphs 2 to 11.
 
 Regulation 6
 
-### 1. Consequential amendments[^key-2d6963260c1e6883ebd676ab200b37a0]
+### 1. Consequential amendments[^c-2d6963260c1e6883ebd676ab200b37a0]
 
 In section 24D(5)(b) of the Registered Designs Act 1949 [^c23572081] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
 
-**2.**[^key-f47fe682f0fa06996134200be6e7b8a1] In sections 114(6)(c), 204(6)(c) and 231(6)(c) of the Copyright, Designs and Patents Act 1988 [^c23572091] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
+**2.**[^c-f47fe682f0fa06996134200be6e7b8a1] In sections 114(6)(c), 204(6)(c) and 231(6)(c) of the Copyright, Designs and Patents Act 1988 [^c23572091] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
 
-**3.**[^key-b237850b65828afe458ef9ccf4da6848] In regulation 5(7)(b) of the Olympics Association Right (Infringement Proceedings) Regulations 1995 [^c23572101] omit “(including that section as applied by regulation 4 of the Community Trade Marks Regulations 2006)”.
+**3.**[^c-b237850b65828afe458ef9ccf4da6848] In regulation 5(7)(b) of the Olympics Association Right (Infringement Proceedings) Regulations 1995 [^c23572101] omit “(including that section as applied by regulation 4 of the Community Trade Marks Regulations 2006)”.
 
-**4.**[^key-a86f93711410158fff940e2118ed261c] In regulation 1C(5)(d) of the Community Design Regulations 2005 [^c23572111] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
+**4.**[^c-a86f93711410158fff940e2118ed261c] In regulation 1C(5)(d) of the Community Design Regulations 2005 [^c23572111] omit “(including that section as applied by regulation 4 of the Community Trade Mark Regulations 2006 (SI 2006/1027))”.
 
-**5.**[^key-a3a771b492d918df78e61defcfd97a4e] In regulation 4(8)(b) of the Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 [^c23572121] omit “(including that section as applied by regulation 4 of the Community Trade Marks Regulations 2006)”.
+**5.**[^c-a3a771b492d918df78e61defcfd97a4e] In regulation 4(8)(b) of the Olympics, Paralympics and London Olympics Association Rights (Infringement Proceedings) Regulations 2010 [^c23572121] omit “(including that section as applied by regulation 4 of the Community Trade Marks Regulations 2006)”.
 
-### 6. Repeals and revocations[^key-90b76bf685e9edeeeee33f255120ab0e]
+### 6. Repeals and revocations[^c-90b76bf685e9edeeeee33f255120ab0e]
 
 The enactments listed in column 1 of the Table are repealed or revoked to the extent specified in column 2.
 
 | *Enactment* | *Extent of repeal or revocation* |
 | --- | --- |
-| The Legal Services Act 2007 [^c23572131] | Schedule 21[^key-29b31105a7bc8f2c45ba402939ae7b14], paragraph 110 |
+| The Legal Services Act 2007 [^c23572131] | Schedule 21[^c-29b31105a7bc8f2c45ba402939ae7b14], paragraph 110 |
 | The Intellectual Property (Unjustified Threats) Act 2017 [^c23572141] | Section 3 |
 | Community Trade Mark (Amendment) Regulations 2008 [^c23572151] | In its entirety |
 | The European Union Trade Mark Regulations 2016 [^c23572161] | Regulations 6 to 12 |
@@ -1025,21 +1025,21 @@ The enactments listed in column 1 of the Table are repealed or revoked to the ex
 | Commission Implementing Regulation (EU) 2018/626 of 5th March 2018 [^c23572191] | In its entirety |
 | Commission Delegated Regulation (EU) 2018/625 of 5th March 2018 [^c23572201] | In its entirety |
 
-### 7. Transitional and Saving Provisions[^key-262da98b450162040440262b56095422]
+### 7. Transitional and Saving Provisions[^c-262da98b450162040440262b56095422]
 
-(1) Subject to paragraph 8,[^key-afc1ec75bb6e2703fa576e5ea5d11519] any application or proceeding under the 1994 Act which was made or commenced before the coming into force of these Regulations shall be dealt with under the 1994 Act as it had effect before regulation 4 came into force.
+(1) Subject to paragraph 8,[^c-afc1ec75bb6e2703fa576e5ea5d11519] any application or proceeding under the 1994 Act which was made or commenced before the coming into force of these Regulations shall be dealt with under the 1994 Act as it had effect before regulation 4 came into force.
 
-(1A)[^key-3052572c369a9ec1dd1b362b0c800d5c] Sub-paragraph 1 does not apply to an application to register a trade mark that was pending immediately before the coming into force of these Regulations referred to in—
+(1A)[^c-3052572c369a9ec1dd1b362b0c800d5c] Sub-paragraph 1 does not apply to an application to register a trade mark that was pending immediately before the coming into force of these Regulations referred to in—
 
 - (a) Article 14a of Regulation (EU) No 1151/2012 of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs, or that Article as applied by Article 14d of that Regulation;
 - (b) Article 102a of Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, or that Article as applied by Article 102d of that Regulation;
 - (c) Article 19a of Regulation (EU) No 251/2014 of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products, or that Article as applied by Article 19d of that Regulation;
 - (d) Article 32a of Commission Delegated Regulation (EU) 2019/33 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation, or that Article as applied by Article 32d of that Regulation;
-- (e)[^key-026c0be70487782bc53349bbda2f39b2] Article 36a of Regulation (EU) 2019/787 of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, or that Article as applied by Article 36d of that Regulation.
+- (e)[^c-026c0be70487782bc53349bbda2f39b2] Article 36a of Regulation (EU) 2019/787 of the European Parliament and of the Council on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, or that Article as applied by Article 36d of that Regulation.
 
 (2) The repeal of section 52 of the 1994 Act (Power to make provision in connection with European Union Trade Mark Regulation) does not affect any proceedings which are pending on the coming into force of these Regulations before the EU trade mark courts designated by regulation 12 of the Community Trade Mark Regulations 2006 [^c23572211] insofar as such proceedings relate to the application and enforcement of a European Union trade mark in the United Kingdom.
 
-### 8. Qualification to Transitional Provision[^key-e360ae4a26a54dbd7f4b8b4e9883fc2f]
+### 8. Qualification to Transitional Provision[^c-e360ae4a26a54dbd7f4b8b4e9883fc2f]
 
 (1) Opposition or invalidation proceedings other than excluded proceedings (“relevant proceedings”) shall be dealt with under the 1994 Act as it had effect before regulation 4 came into force subject to the provisions set out in this paragraph.
 
@@ -1133,35 +1133,35 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23571901]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-8933ebd67c5d7f38244af05ee065bf46]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8933ebd67c5d7f38244af05ee065bf46]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23571911]: Marginal citation: [S.I. 2008/1797](https://www.legislation.gov.uk/uksi/2008/1797) amended by [S.I. 2009/546](https://www.legislation.gov.uk/uksi/2009/546), [S.I](https://www.legislation.gov.uk/uksi/2009/546/section/I). 2009/2089, [S.I. 2012/1003](https://www.legislation.gov.uk/uksi/2012/1003), [S.I](https://www.legislation.gov.uk/uksi/2012/1003/section/I). 2013/2235, [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825); there are other amending instruments but none are relevant.
 
-[^key-7bf469e28531322b107e1de871429acb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-7bf469e28531322b107e1de871429acb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-81e513a89e07265fc262010af9616f63]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/269/regulation/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1050/regulation/8)
+[^c-81e513a89e07265fc262010af9616f63]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/269/regulation/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1050/regulation/8)
 
-[^key-dafe0a85e2fbc2b18b9cdb3e2eddf5f2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-dafe0a85e2fbc2b18b9cdb3e2eddf5f2]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-2d8879def3936bbca9e1b8e904d8e2f3]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-2d8879def3936bbca9e1b8e904d8e2f3]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-d891de3ceda1e0164e0a27574aa710fa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-d891de3ceda1e0164e0a27574aa710fa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-b96bf319e190b8c093d3fc76953b8195]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-b96bf319e190b8c093d3fc76953b8195]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-4e2712a3ce2fd64a4672ebead2bb8991]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-4e2712a3ce2fd64a4672ebead2bb8991]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-e038d91bb111bb7df3f7285bddf0bc74]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-e038d91bb111bb7df3f7285bddf0bc74]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23571921]: Marginal citation: Section 52 was amended by the [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [paragraph 110](https://www.legislation.gov.uk/ukpga/2007/29/paragraph/110) of Schedule 21, [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), [regulations 2](https://www.legislation.gov.uk/uksi/2016/299/regulation/2) and 5, the [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [section 2(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/3) and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 27](https://www.legislation.gov.uk/uksi/2018/825/regulation/27).
 
-[^key-a29f973f423ac375259a551eda37db42]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/a)
+[^c-a29f973f423ac375259a551eda37db42]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/2) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/a)
 
-[^key-c863422c8606b8b74b293b387745215e]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-c863422c8606b8b74b293b387745215e]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-44159bbb73f82b62da4d9aba1d474907]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/i)
+[^c-44159bbb73f82b62da4d9aba1d474907]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/i)
 
-[^key-c9e05421d014793a5da6a2e82f8cefd2]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/ii)
+[^c-c9e05421d014793a5da6a2e82f8cefd2]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/ii)
 
 [^c23571931]: Marginal citation: OJ No. L 154/1, 16.6.2017, p.1.
 
@@ -1171,141 +1171,141 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23571961]: Marginal citation: [S.I. 2008/2206](https://www.legislation.gov.uk/uksi/2008/2206).
 
-[^key-8dea5b78e1bca8beaaf676b707cfbfaf]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8dea5b78e1bca8beaaf676b707cfbfaf]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-bc2bc88c0c0c8e620102c36cd765bece]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-bc2bc88c0c0c8e620102c36cd765bece]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-401ed58741c5a4dd93c195103a67b0d5]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-401ed58741c5a4dd93c195103a67b0d5]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-3b8afe7d122b550051bfe8920ad2ebbd]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-3b8afe7d122b550051bfe8920ad2ebbd]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-acac7b4061dcbbb305a632811fb5cfad]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-acac7b4061dcbbb305a632811fb5cfad]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-d7002a9a61fb60f2db47e97b12f0ba2c]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/2/paragraph/5) substituted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [29](https://www.legislation.gov.uk/uksi/2026/183/rule/29) (with [rule 34(4)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/4)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
+[^c-d7002a9a61fb60f2db47e97b12f0ba2c]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/2/paragraph/5) substituted (1.4.2026) by virtue of [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [29](https://www.legislation.gov.uk/uksi/2026/183/rule/29) (with [rule 34(4)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/4)[(7)](https://www.legislation.gov.uk/uksi/2026/183/rule/34/7))
 
-[^key-9ba6163b00d02af36f1515ece122b28c]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-9ba6163b00d02af36f1515ece122b28c]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-66c14cbc5d021bfe0c047c4c517a339e]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-66c14cbc5d021bfe0c047c4c517a339e]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-0f82c44bfd258b1ef5ea1d36954bdafc]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-0f82c44bfd258b1ef5ea1d36954bdafc]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-51e3e3625199b75a7777349c407e9423]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-51e3e3625199b75a7777349c407e9423]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-7653fe292b7174876d15fcf5462e94da]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-7653fe292b7174876d15fcf5462e94da]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-b92b8b3e602310bc6099803e3e0e1a47]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-b92b8b3e602310bc6099803e3e0e1a47]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23571981]: Marginal citation: Section 3 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [article 6(2)(a)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/2/a) and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 4](https://www.legislation.gov.uk/uksi/2018/825/regulation/4).
 
-[^key-4cd87305ccc247155ab0f72499aeab88]: Textual amendment: [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/3/paragraph/2/4) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/a)
+[^c-4cd87305ccc247155ab0f72499aeab88]: Textual amendment: [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2019/269/schedule/3/paragraph/2/4) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/a)
 
-[^key-0543d236031eb3876c94b55735fb4a23]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-0543d236031eb3876c94b55735fb4a23]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23571991]: Marginal citation: Section 5 amended by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 7(1), [S.I. 2004/2332](https://www.legislation.gov.uk/uksi/2004/2332), [regulations 2](https://www.legislation.gov.uk/uksi/2004/2332/regulation/2) and 3, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [article 4(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/1), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2016/299, the Schedule, paragraph 1 and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 5](https://www.legislation.gov.uk/uksi/2018/825/regulation/5).
 
-[^key-72ddc493cd8a832081284b5a5591c1c7]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-72ddc493cd8a832081284b5a5591c1c7]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572001]: Marginal citation: Section 6 was amended by [S.I. 1999/1899](https://www.legislation.gov.uk/uksi/1999/1899), [regulation 13(1)](https://www.legislation.gov.uk/uksi/1999/1899/regulation/13/1), [S.I](https://www.legislation.gov.uk/uksi/1999/1899/section/I). 2004/2332, regulations 2 and 4, [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), the Schedule, paragraph 1 and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulations 7](https://www.legislation.gov.uk/uksi/2018/825/regulation/7).
 
-[^key-f079095c8f4af7c305bb240aae81be31]: Textual amendment: Words in Sch. 3 para. 4(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/b)
+[^c-f079095c8f4af7c305bb240aae81be31]: Textual amendment: Words in Sch. 3 para. 4(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/b)
 
-[^key-ee59ded65173018c2b0dc3c31e7a2b6e]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-ee59ded65173018c2b0dc3c31e7a2b6e]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572011]: Marginal citation: Section 6A was inserted by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 4 and amended by [S.I. 2008/1067](https://www.legislation.gov.uk/uksi/2008/1067) regulations 3 and 4, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [article 4(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/1), [S.I](https://www.legislation.gov.uk/uksi/2011/1043/section/I). 2016/299, the Schedule, paragraph 1 and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 8](https://www.legislation.gov.uk/uksi/2018/825/regulation/8).
 
-[^key-3c9129fdb5bb5a41fa4d1e5a27512401]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-3c9129fdb5bb5a41fa4d1e5a27512401]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-dd302a37e97ec8d85ebb365f48c89a6c]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-dd302a37e97ec8d85ebb365f48c89a6c]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572021]: Marginal citation: Section 11 was amended by [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 12](https://www.legislation.gov.uk/uksi/2018/825/regulation/12).
 
-[^key-421fa7b49fd7be95bcea9c60bcc8b1cb]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-421fa7b49fd7be95bcea9c60bcc8b1cb]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572031]: Marginal citation: Section 19 was amended by [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), [Schedule 2](https://www.legislation.gov.uk/uksi/2006/1028/schedule/2), [paragraph 6](https://www.legislation.gov.uk/uksi/2006/1028/paragraph/6).
 
-[^key-16dd8e621d0244c9ff39067033d16cc4]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-16dd8e621d0244c9ff39067033d16cc4]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572041]: Marginal citation: Section 47 was amended by [S.I. 2004/946](https://www.legislation.gov.uk/uksi/2004/946), [regulations 3](https://www.legislation.gov.uk/uksi/2004/946/regulation/3) and 6, [S.I. 2008/1067](https://www.legislation.gov.uk/uksi/2008/1067), [regulations 3](https://www.legislation.gov.uk/uksi/2008/1067/regulation/3) and 5, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) article 4(1), [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), the Schedule, paragraph 1 and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 23](https://www.legislation.gov.uk/uksi/2018/825/regulation/23).
 
-[^key-ff6d71810fab6212baf79a0bacfa63f8]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-ff6d71810fab6212baf79a0bacfa63f8]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572051]: Marginal citation: Section 51 was amended by [S.I. 2016/299](https://www.legislation.gov.uk/uksi/2016/299), [regulations 2](https://www.legislation.gov.uk/uksi/2016/299/regulation/2) and 4 and [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 26](https://www.legislation.gov.uk/uksi/2018/825/regulation/26).
 
-[^key-64ce7cebf5c30d5fc79cabc5b13f1402]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2019/269/schedule/3/paragraph/10) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/c)
+[^c-64ce7cebf5c30d5fc79cabc5b13f1402]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2019/269/schedule/3/paragraph/10) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/10/c)
 
-[^key-8ca01b446b5627f5012416a3dd4df6e1]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8ca01b446b5627f5012416a3dd4df6e1]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-3d2993f34ff1927d7422418c66c35702]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-3d2993f34ff1927d7422418c66c35702]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-d9477c7e0345ed91c4d2e0c405aa7b0b]: Commencement: Sch. 3 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-d9477c7e0345ed91c4d2e0c405aa7b0b]: Commencement: Sch. 3 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572061]: Marginal citation: Section 103 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [article 6(1)(d)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/1/d).
 
-[^key-8b37e9cbf1633a491ee7577de422fa71]: Commencement: Sch. 3 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8b37e9cbf1633a491ee7577de422fa71]: Commencement: Sch. 3 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-6547f033b31617857472ae53741fcefc]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-6547f033b31617857472ae53741fcefc]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-65537941d01cbeea47d2ad5555ba3fdb]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-65537941d01cbeea47d2ad5555ba3fdb]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-174f0a56fa8f7fd540f9ed62d2e6be78]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-174f0a56fa8f7fd540f9ed62d2e6be78]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-ccf2dc09772574fc5d8271c2b65bad18]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-ccf2dc09772574fc5d8271c2b65bad18]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-4628daa6692868d77ee371beed996318]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-4628daa6692868d77ee371beed996318]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-cb91ef6b6a38cf52a15670cf42c1f017]: Commencement: Sch. 4 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-cb91ef6b6a38cf52a15670cf42c1f017]: Commencement: Sch. 4 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-61130aefca344709dcf67b743d0cf21b]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a)
+[^c-61130aefca344709dcf67b743d0cf21b]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/6) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/a)
 
 [^M_I_8c8d50b1-b6dd-44b8-84f8-33a7ed7f5c0b]: Commencement: Sch. 4 para. 6A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-9d0886431be6cb0877020099a6f9ac4e]: Textual amendment: Sch. 4 para. 6A inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b)
+[^c-9d0886431be6cb0877020099a6f9ac4e]: Textual amendment: Sch. 4 para. 6A inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/b)
 
-[^key-39f7059988a17f8c877fd2fde3234cc9]: Commencement: Sch. 4 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-39f7059988a17f8c877fd2fde3234cc9]: Commencement: Sch. 4 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-1352b5e2a46f5147fcd1b6a04fe7a336]: Commencement: Sch. 4 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-1352b5e2a46f5147fcd1b6a04fe7a336]: Commencement: Sch. 4 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-f09b3985e63a9609868f2a0c7f23d04d]: Commencement: Sch. 4 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-f09b3985e63a9609868f2a0c7f23d04d]: Commencement: Sch. 4 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-908e67f1197183e7c25ea6b3ab3edfdd]: Commencement: Sch. 4 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-908e67f1197183e7c25ea6b3ab3edfdd]: Commencement: Sch. 4 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^M_I_6aedc812-6ffc-4650-d940-71255b1b0dfd]: Commencement: Sch. 4 para. 10A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-3668bc276cd862fac61e81435796cf17]: Textual amendment: Sch. 4 paras. 10A, 10B inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c)
+[^c-3668bc276cd862fac61e81435796cf17]: Textual amendment: Sch. 4 paras. 10A, 10B inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/c)
 
 [^M_I_7d767fa7-2c48-4820-b24b-f7c628576e6f]: Commencement: Sch. 4 para. 10B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-8c5c77067d01b3bfa29401f9ded642b1]: Commencement: Sch. 4 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8c5c77067d01b3bfa29401f9ded642b1]: Commencement: Sch. 4 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572071]: Marginal citation: Paragraph (m) was inserted by [S.I. 2018/825](https://www.legislation.gov.uk/uksi/2018/825), [regulation 43](https://www.legislation.gov.uk/uksi/2018/825/regulation/43).
 
-[^key-51ec1df46c0bbb957c7049b992543c56]: Textual amendment: Words in [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/6) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/d)
+[^c-51ec1df46c0bbb957c7049b992543c56]: Textual amendment: Words in [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/269/schedule/4/paragraph/11/6) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/11/d)
 
-[^key-2d6963260c1e6883ebd676ab200b37a0]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-2d6963260c1e6883ebd676ab200b37a0]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572081]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88) as amended by [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), [schedule 1](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1), [paragraph 3](https://www.legislation.gov.uk/uksi/2006/1028/paragraph/3).
 
-[^key-f47fe682f0fa06996134200be6e7b8a1]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-f47fe682f0fa06996134200be6e7b8a1]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572091]: Marginal citation: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-b237850b65828afe458ef9ccf4da6848]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-b237850b65828afe458ef9ccf4da6848]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572101]: Marginal citation: [S.I. 1995/3325](https://www.legislation.gov.uk/uksi/1995/3325) as amended by [S.I. 2010/2477](https://www.legislation.gov.uk/uksi/2010/2477), [regulation 6](https://www.legislation.gov.uk/uksi/2010/2477/regulation/6).
 
-[^key-a86f93711410158fff940e2118ed261c]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-a86f93711410158fff940e2118ed261c]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572111]: Marginal citation: [S.I. 2005/2339](https://www.legislation.gov.uk/uksi/2005/2339) as amended by [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), [schedule 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/3), [paragraph 9](https://www.legislation.gov.uk/uksi/2006/1028/paragraph/9).
 
-[^key-a3a771b492d918df78e61defcfd97a4e]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-a3a771b492d918df78e61defcfd97a4e]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572121]: Marginal citation: [S.I. 2010/2477](https://www.legislation.gov.uk/uksi/2010/2477).
 
-[^key-90b76bf685e9edeeeee33f255120ab0e]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-90b76bf685e9edeeeee33f255120ab0e]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23572131]: Marginal citation: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-29b31105a7bc8f2c45ba402939ae7b14]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6) Table substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1050/regulation/12)
+[^c-29b31105a7bc8f2c45ba402939ae7b14]: Textual amendment: Words in [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6) Table substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1050/regulation/12)
 
 [^c23572141]: Marginal citation: [2017 c. 14](https://www.legislation.gov.uk/ukpga/2017/14).
 
@@ -1321,14 +1321,14 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23572201]: Marginal citation: O.J. No. L 104/1, 24.4.2018, p.1.
 
-[^key-262da98b450162040440262b56095422]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-262da98b450162040440262b56095422]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-afc1ec75bb6e2703fa576e5ea5d11519]: Textual amendment: Words in [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/7/1) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1235/regulation/3)
+[^c-afc1ec75bb6e2703fa576e5ea5d11519]: Textual amendment: Words in [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/7/1) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1235/regulation/3)
 
-[^key-3052572c369a9ec1dd1b362b0c800d5c]: Textual amendment: Sch. 5 para. 7(1A) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [3](https://www.legislation.gov.uk/uksi/2020/1637/regulation/3) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(2)(a)-(d)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/2/a))
+[^c-3052572c369a9ec1dd1b362b0c800d5c]: Textual amendment: Sch. 5 para. 7(1A) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [3](https://www.legislation.gov.uk/uksi/2020/1637/regulation/3) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(2)(a)-(d)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/2/a))
 
-[^key-026c0be70487782bc53349bbda2f39b2]: Textual amendment: Sch. 5 para. 7(1A)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [12](https://www.legislation.gov.uk/uksi/2020/1661/regulation/12)
+[^c-026c0be70487782bc53349bbda2f39b2]: Textual amendment: Sch. 5 para. 7(1A)(e) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [12](https://www.legislation.gov.uk/uksi/2020/1661/regulation/12)
 
 [^c23572211]: Marginal citation: [S.I. 2006/1027](https://www.legislation.gov.uk/uksi/2006/1027) as amended by, [S.I. 2008/1959](https://www.legislation.gov.uk/uksi/2008/1959), 2011/1043, 2016/299 and by the [Intellectual Property (Unjustified Threats) Act 2017 (c.14)](https://www.legislation.gov.uk/ukpga/2017/14), [section 3](https://www.legislation.gov.uk/ukpga/2017/14/section/3).
 
-[^key-e360ae4a26a54dbd7f4b8b4e9883fc2f]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/8) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1235/regulation/4)
+[^c-e360ae4a26a54dbd7f4b8b4e9883fc2f]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/8) inserted (26.11.2021) by [The Trade Marks and International Trade Marks (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1235)](https://www.legislation.gov.uk/uksi/2021/1235), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1235/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1235/regulation/4)

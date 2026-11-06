@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. General duties when carrying out functions[^key-19d0696244cf223e3a8393a42f46179a]
+## 9. General duties when carrying out functions[^c-19d0696244cf223e3a8393a42f46179a]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ the NDA shall have the further duty to act in the manner that it considers is mo
 
 ## Annotations
 
-[^key-19d0696244cf223e3a8393a42f46179a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/20/section/9) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-19d0696244cf223e3a8393a42f46179a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/20/section/9) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Offences - service providers[^key-1aa2e1ff115a485ec60cafe0f7681e69]
+## 68. Offences - service providers[^c-1aa2e1ff115a485ec60cafe0f7681e69]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa2e1ff115a485ec60cafe0f7681e69]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2019/169/regulation/68) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-1aa2e1ff115a485ec60cafe0f7681e69]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2019/169/regulation/68) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
 
 [^c23552811]: Marginal citation: For penalties upon conviction for an offence under this regulation, *see* section 51(1) of the 2016 Act.

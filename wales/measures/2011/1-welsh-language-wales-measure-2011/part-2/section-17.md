@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Consultation[^key-d42c7380e7f7251bd8eedf71f788d420]
+## 17. Consultation[^c-d42c7380e7f7251bd8eedf71f788d420]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the Commissioner must have regard to the consultation in exercising the function
 
 ## Annotations
 
-[^key-d42c7380e7f7251bd8eedf71f788d420]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/1/section/17) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/969/article/2/h)
+[^c-d42c7380e7f7251bd8eedf71f788d420]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/1/section/17) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/969/article/2/h)

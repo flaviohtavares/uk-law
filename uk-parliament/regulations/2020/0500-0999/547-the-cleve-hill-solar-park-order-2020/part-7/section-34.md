@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Certification of plans and documents, etc.[^key-62b6b46d0fbc46c99da392757f40c5d5]
+## 34. Certification of plans and documents, etc.[^c-62b6b46d0fbc46c99da392757f40c5d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 - (p) the statutory / non-statutory nature conservation designations plan;
 - (q) the statutory / non-statutory historic environment designations plan;
 - (r) the streets and access plan;
-- (s) the water bodies in a river basin management plan, plan[^key-373b3b45bf2aaaa21a3ae41f90c6ceae]; and
+- (s) the water bodies in a river basin management plan, plan[^c-373b3b45bf2aaaa21a3ae41f90c6ceae]; and
 - (t) the works plan;
 
 for certification that they are true copies of those plans and documents.
@@ -49,6 +49,6 @@ for certification that they are true copies of those plans and documents.
 
 ## Annotations
 
-[^key-62b6b46d0fbc46c99da392757f40c5d5]: Commencement: Art. 34 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-62b6b46d0fbc46c99da392757f40c5d5]: Commencement: Art. 34 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-373b3b45bf2aaaa21a3ae41f90c6ceae]: Textual amendment: Word in [art. 34(1)(s)](https://www.legislation.gov.uk/uksi/2020/547/article/34/1/s) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-373b3b45bf2aaaa21a3ae41f90c6ceae]: Textual amendment: Word in [art. 34(1)(s)](https://www.legislation.gov.uk/uksi/2020/547/article/34/1/s) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)

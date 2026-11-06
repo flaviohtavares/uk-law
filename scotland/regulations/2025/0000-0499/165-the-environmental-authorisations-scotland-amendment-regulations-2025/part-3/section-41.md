@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Amendment of the 2013 Regulations[^key-8d3b542e6b3c9021401e996f9e2fb775]
+## 41. Amendment of the 2013 Regulations[^c-8d3b542e6b3c9021401e996f9e2fb775]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d3b542e6b3c9021401e996f9e2fb775]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2025/165/regulation/41) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-8d3b542e6b3c9021401e996f9e2fb775]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2025/165/regulation/41) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

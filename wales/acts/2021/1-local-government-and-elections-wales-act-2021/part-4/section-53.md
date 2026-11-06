@@ -23,7 +23,7 @@ summary: ''
 This Part makes provision—
 
 - (a) requiring a principal council to appoint a chief executive (rather than designate a head of paid service), whose functions will include duties imposed under this Part;
-- (b)[^key-aa6a4e579e781fb719388f1a8ad9b84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aa6a4e579e781fb719388f1a8ad9b84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for the appointment of assistants to executives of principal councils;
 - (d) about job-sharing of certain offices in principal councils;
 - (e) for issuing guidance, including to elected mayors and executive leaders, on equality and diversity;
@@ -37,4 +37,4 @@ This Part makes provision—
 
 ## Annotations
 
-[^key-aa6a4e579e781fb719388f1a8ad9b84a]: Textual amendment: [S. 53(b)](https://www.legislation.gov.uk/asc/2021/1/section/53/b) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/2); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-aa6a4e579e781fb719388f1a8ad9b84a]: Textual amendment: [S. 53(b)](https://www.legislation.gov.uk/asc/2021/1/section/53/b) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/2); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)

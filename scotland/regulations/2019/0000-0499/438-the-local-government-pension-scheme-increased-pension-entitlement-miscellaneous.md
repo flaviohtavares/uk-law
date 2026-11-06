@@ -48,23 +48,23 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 7(5) of that Act, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable, and such representatives of other persons likely to be affected by the proposed regulations as appeared to them to be appropriate.
 
-## 1. Citation, commencement, effect and extent[^key-0c3213fcfb5e5ea1d3ecc9ce59624283]
+## 1. Citation, commencement, effect and extent[^c-0c3213fcfb5e5ea1d3ecc9ce59624283]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Increased Pension Entitlement) (Miscellaneous Amendments) (Scotland) Regulations 2019.
 
-(2) These Regulations come into force on 1 March 2020 and, subject to paragraphs (3) and (4)[^key-7698de7d15201c09cc29ffad0ba1594e], have effect from 8 April 2019 [^c23951531].
+(2) These Regulations come into force on 1 March 2020 and, subject to paragraphs (3) and (4)[^c-7698de7d15201c09cc29ffad0ba1594e], have effect from 8 April 2019 [^c23951531].
 
 (3) Regulation 2 (in so far as required to give effect to regulation 4), regulation 7 (in so far as required to give effect to regulations 8 and 9), regulation 10 (in so far as required to give effect to regulation 11 and paragraph 1(2) of the schedule), regulations 4, 8, 9 and paragraph 1(2) of the schedule have effect from 12 November 1979 to 8 April 2019.
 
-(4) Regulations 3, 5, 6 and 10 (in so far as required to give effect to regulation 11 other than paragraph 1(2) of the schedule) [^key-58189a57d87ae62b1c841bbe6a559983]... have effect from 5 April 2009.
+(4) Regulations 3, 5, 6 and 10 (in so far as required to give effect to regulation 11 other than paragraph 1(2) of the schedule) [^c-58189a57d87ae62b1c841bbe6a559983]... have effect from 5 April 2009.
 
 (5) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Local Government Superannuation (Scotland) Regulations 1987[^key-f5aeb93307b2704a079094ae6699b100]
+## 2. Amendment of the Local Government Superannuation (Scotland) Regulations 1987[^c-f5aeb93307b2704a079094ae6699b100]
 
 The Local Government Superannuation (Scotland) Regulations 1987 [^c23951541] are amended in accordance with regulations 3 to 6.
 
-## 3.[^key-49cf9ec8fac8aa6f30571f7f08837e50]
+## 3.[^c-49cf9ec8fac8aa6f30571f7f08837e50]
 
 In regulation U1, (interpretation)—
 
@@ -79,14 +79,14 @@ In regulation U1, (interpretation)—
 
   .
 
-## 4.[^key-07f7f972e8d43be1e98551576d111be4]
+## 4.[^c-07f7f972e8d43be1e98551576d111be4]
 
 In regulation U2 (application of this Part)—
 
 - (a) after “5th April 2009” insert “ or 7 April 2019 ”, and
 - (b) for “that date” substitute “ either of those dates ”.
 
-## 5.[^key-78cc8c0f7aee08de1006026fd3f7a3e8]
+## 5.[^c-78cc8c0f7aee08de1006026fd3f7a3e8]
 
 After regulation U3 insert—
 
@@ -96,7 +96,7 @@ After regulation U3 insert—
 
 .
 
-## 6.[^key-94f99d93ff7524c4e6f3c492e55f498b]
+## 6.[^c-94f99d93ff7524c4e6f3c492e55f498b]
 
 In regulation U5 (Increased Pension Entitlement)—
 
@@ -111,11 +111,11 @@ In regulation U5 (Increased Pension Entitlement)—
 
     .
 
-## 7. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008[^key-d5500e49c461e68ad3f261e61dfc4c31]
+## 7. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008[^c-d5500e49c461e68ad3f261e61dfc4c31]
 
 The Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008 [^c23951631] are amended in accordance with regulations 8 and 9.
 
-## 8.[^key-91c182d34eca82da005943a2d50e023e]
+## 8.[^c-91c182d34eca82da005943a2d50e023e]
 
 In regulation 2, (interpretation)—
 
@@ -152,7 +152,7 @@ In regulation 2, (interpretation)—
 
   .
 
-## 9.[^key-fe4b8bbcbf1bb016dd684e33ae1a42ce]
+## 9.[^c-fe4b8bbcbf1bb016dd684e33ae1a42ce]
 
 After regulation 44 insert—
 
@@ -223,11 +223,11 @@ After regulation 44 insert—
 
 .
 
-## 10. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^key-7b8381c61f4382b12d5896bc8bc34e5a]
+## 10. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^c-7b8381c61f4382b12d5896bc8bc34e5a]
 
 The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 [^c23952041] are amended in accordance with regulation 11.
 
-## 11.[^key-86569261f59497bf621e466fc58dfdd1]
+## 11.[^c-86569261f59497bf621e466fc58dfdd1]
 
 In regulation 1 (citation, extent, commencement and interpretation) insert at the end—
 
@@ -249,7 +249,7 @@ Edinburgh
 
 Regulation 1(3) and (4)
 
-**1.**[^key-26f1c0ca13d8740393b6054106157b10] In regulation 161(interpretation)—
+**1.**[^c-26f1c0ca13d8740393b6054106157b10] In regulation 161(interpretation)—
 
 - (a) in the definition of “the existing Orders”—
   - (i) for “and” after “Order 2009” substitute “ , ”, and
@@ -321,19 +321,19 @@ Regulation 165 of the 1998 Regulations, regulation U5 of the 1987 Regulations an
 
 [^c23951521]: Marginal citation: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). The functions of the Secretary of State under section 7 and 12 were transferred to the Scottish Ministers in or as regards Scotland by article 2 and schedule 1 of S.I. 1999/1750.
 
-[^key-0c3213fcfb5e5ea1d3ecc9ce59624283]: Commencement: Reg. 1 in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-0c3213fcfb5e5ea1d3ecc9ce59624283]: Commencement: Reg. 1 in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-7698de7d15201c09cc29ffad0ba1594e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2) substituted (31.3.2020 with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/31/regulation/3/2)
+[^c-7698de7d15201c09cc29ffad0ba1594e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2) substituted (31.3.2020 with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/31/regulation/3/2)
 
 [^c23951531]: Marginal citation: Retrospective effect is permitted by section 12(1) of the Superannuation Act 1972.
 
-[^key-58189a57d87ae62b1c841bbe6a559983]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/4) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.S.I.) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2022/153/regulation/15)
+[^c-58189a57d87ae62b1c841bbe6a559983]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/4) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.S.I.) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2022/153/regulation/15)
 
-[^key-f5aeb93307b2704a079094ae6699b100]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/438/regulation/2) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-f5aeb93307b2704a079094ae6699b100]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/438/regulation/2) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23951541]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2019/438/section/I). 1987/1850.
 
-[^key-49cf9ec8fac8aa6f30571f7f08837e50]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/438/regulation/3) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-49cf9ec8fac8aa6f30571f7f08837e50]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/438/regulation/3) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23951551]: Marginal citation: [S.I. 2011/827](https://www.legislation.gov.uk/uksi/2011/827).
 
@@ -351,17 +351,17 @@ Regulation 165 of the 1998 Regulations, regulation U5 of the 1987 Regulations an
 
 [^c23951621]: Marginal citation: [S.I. 2019/546](https://www.legislation.gov.uk/uksi/2019/546).
 
-[^key-07f7f972e8d43be1e98551576d111be4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/438/regulation/4) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-07f7f972e8d43be1e98551576d111be4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/438/regulation/4) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-78cc8c0f7aee08de1006026fd3f7a3e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/438/regulation/5) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-78cc8c0f7aee08de1006026fd3f7a3e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/438/regulation/5) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-94f99d93ff7524c4e6f3c492e55f498b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/438/regulation/6) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-94f99d93ff7524c4e6f3c492e55f498b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/438/regulation/6) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-d5500e49c461e68ad3f261e61dfc4c31]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/438/regulation/7) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-d5500e49c461e68ad3f261e61dfc4c31]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/438/regulation/7) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23951631]: Marginal citation: [S.S.I. 2008/230](https://www.legislation.gov.uk/ssi/2008/230).
 
-[^key-91c182d34eca82da005943a2d50e023e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/438/regulation/8) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-91c182d34eca82da005943a2d50e023e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/438/regulation/8) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23951641]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -443,15 +443,15 @@ Regulation 165 of the 1998 Regulations, regulation U5 of the 1987 Regulations an
 
 [^c23952031]: Marginal citation: [S.I. 2019/546](https://www.legislation.gov.uk/uksi/2019/546).
 
-[^key-fe4b8bbcbf1bb016dd684e33ae1a42ce]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/438/regulation/9) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-fe4b8bbcbf1bb016dd684e33ae1a42ce]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/438/regulation/9) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-7b8381c61f4382b12d5896bc8bc34e5a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/438/regulation/10) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-7b8381c61f4382b12d5896bc8bc34e5a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/438/regulation/10) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23952041]: Marginal citation: [S.S.I. 2014/233](https://www.legislation.gov.uk/ssi/2014/233).
 
-[^key-86569261f59497bf621e466fc58dfdd1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/438/regulation/11) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-86569261f59497bf621e466fc58dfdd1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/438/regulation/11) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
-[^key-26f1c0ca13d8740393b6054106157b10]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/438/schedule/paragraph/1) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
+[^c-26f1c0ca13d8740393b6054106157b10]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/438/schedule/paragraph/1) in force at 1.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/438/regulation/1/2)
 
 [^c23952051]: Marginal citation: [S.I. 2011/827](https://www.legislation.gov.uk/uksi/2011/827).
 

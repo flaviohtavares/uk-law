@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Sharing information with anti-fraud organisations[^key-e67f31c0c22f0845f4512b7e042eb66f]
+## 98. Sharing information with anti-fraud organisations[^c-e67f31c0c22f0845f4512b7e042eb66f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In the Serious Crime Act 2007 (c.27), the following provisions are repealed—
 
 ## Annotations
 
-[^key-e67f31c0c22f0845f4512b7e042eb66f]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/13/section/98) in force at 8.11.2021 by [S.S.I. 2021/355](https://www.legislation.gov.uk/ssi/2021/355), [art. 2](https://www.legislation.gov.uk/ssi/2021/355/article/2)
+[^c-e67f31c0c22f0845f4512b7e042eb66f]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/13/section/98) in force at 8.11.2021 by [S.S.I. 2021/355](https://www.legislation.gov.uk/ssi/2021/355), [art. 2](https://www.legislation.gov.uk/ssi/2021/355/article/2)

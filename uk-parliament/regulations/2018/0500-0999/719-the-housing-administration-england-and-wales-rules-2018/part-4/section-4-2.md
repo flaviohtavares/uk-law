@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.2. Performance of functions by the Court[^key-9a8cb8f36ded828d7207db7f34cce076]
+## 4.2. Performance of functions by the Court[^c-9a8cb8f36ded828d7207db7f34cce076]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a8cb8f36ded828d7207db7f34cce076]: Commencement: Rule 4.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9a8cb8f36ded828d7207db7f34cce076]: Commencement: Rule 4.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

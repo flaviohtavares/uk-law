@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Disregard of certain interests and improvements[^key-11c62d17a06b5a388e9a595f272ac70f]
+## 31. Disregard of certain interests and improvements[^c-11c62d17a06b5a388e9a595f272ac70f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-11c62d17a06b5a388e9a595f272ac70f]: Commencement: Art. 31 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-11c62d17a06b5a388e9a595f272ac70f]: Commencement: Art. 31 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

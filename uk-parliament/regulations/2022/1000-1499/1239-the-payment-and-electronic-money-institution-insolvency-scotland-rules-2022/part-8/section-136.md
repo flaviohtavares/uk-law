@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Notice of vacation of office when administrator ceases to be qualified[^key-55e5343a947b3a8e19b155f4e60e8683]
+## 136. Notice of vacation of office when administrator ceases to be qualified[^c-55e5343a947b3a8e19b155f4e60e8683]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the administrator who has ceased to be qualified to act as an insolvency p
 
 ## Annotations
 
-[^key-55e5343a947b3a8e19b155f4e60e8683]: Commencement: Rule 136 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-55e5343a947b3a8e19b155f4e60e8683]: Commencement: Rule 136 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

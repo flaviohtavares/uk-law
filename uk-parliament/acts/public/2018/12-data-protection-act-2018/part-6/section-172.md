@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Re-identification: effectiveness testing conditions[^key-f553e60aef4a123f0721442edebd1dcf]
+## 172. Re-identification: effectiveness testing conditions[^c-f553e60aef4a123f0721442edebd1dcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) without intending to cause, or threaten to cause, damage or distress to a person, and
 - (c) in the reasonable belief that, in the particular circumstances, re-identifying the information was justified as being in the public interest.
 
-(3) The second condition is that the person notified the Commission[^key-7b7958b7eff3c76f8e92b0da172b6609] or the controller responsible for de-identifying the personal data about the re-identification—
+(3) The second condition is that the person notified the Commission[^c-7b7958b7eff3c76f8e92b0da172b6609] or the controller responsible for de-identifying the personal data about the re-identification—
 
 - (a) without undue delay, and
 - (b) where feasible, not later than 72 hours after becoming aware of it.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f553e60aef4a123f0721442edebd1dcf]: Commencement: S. 172 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-f553e60aef4a123f0721442edebd1dcf]: Commencement: S. 172 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-7b7958b7eff3c76f8e92b0da172b6609]: Textual amendment: Word in s. 172(3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-7b7958b7eff3c76f8e92b0da172b6609]: Textual amendment: Word in s. 172(3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

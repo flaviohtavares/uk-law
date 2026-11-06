@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Regulations[^key-8e1cdbfae6599623c65c89371d181133]
+## 119. Regulations[^c-8e1cdbfae6599623c65c89371d181133]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e1cdbfae6599623c65c89371d181133]: Commencement: S. 119 in force at Royal Assent, see [s. 133(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/10)
+[^c-8e1cdbfae6599623c65c89371d181133]: Commencement: S. 119 in force at Royal Assent, see [s. 133(10)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/10)

@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-a120ff6a850fe3820f798b65ea33be7b]
+### 1. Interpretation[^c-a120ff6a850fe3820f798b65ea33be7b]
 
 In this Schedule—
 
 - “**ambulance services provider**” means—
   - (a) in England—
     - (i) an NHS trust or NHS foundation trust established pursuant to Part 2 of the National Health Service Act 2006[^f00049] (or their subsidiaries), which has a function of providing ambulance services;
-    - (ii) any private, public or voluntary sector entity which has been commissioned under any arrangement by or on behalf of NHS England[^key-e9869154b8d1ad5c2e3df5777d5db3af] or an integrated care board[^key-017b30b285ddf8cba9b54e5ad4ac648f] pursuant to Parts 1 and 4 of the National Health Service Act 2006 to provide ambulance services;
+    - (ii) any private, public or voluntary sector entity which has been commissioned under any arrangement by or on behalf of NHS England[^c-e9869154b8d1ad5c2e3df5777d5db3af] or an integrated care board[^c-017b30b285ddf8cba9b54e5ad4ac648f] pursuant to Parts 1 and 4 of the National Health Service Act 2006 to provide ambulance services;
     - (iii) any private, public or voluntary sector entity which has been commissioned under any arrangement by or on behalf of the Secretary of State pursuant to Part 1 of the National Health Service Act 2006 to provide ambulance services;
   - (b) in Wales, an NHS Trust established by the Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^f00050];
   - (c) in Northern Ireland, the Northern Ireland Ambulance Service Trust as defined in the Northern Ireland Ambulance Service Health and Social Services Trust (Establishment) Order (Northern Ireland) 1995[^f00051];
@@ -76,14 +76,14 @@ In this Schedule—
 - “**public electronic communications service**” has the meaning given in section 151(1) of the Communications Act 2003;
 - “**unmanned aircraft**” means any aircraft operating or designed to operate autonomously or to be piloted remotely without a pilot on board.
 
-### 2. Activity – suppliers to emergency services[^key-d95bd2c71ce34b181164b9a2b8b9c4e7]
+### 2. Activity – suppliers to emergency services[^c-d95bd2c71ce34b181164b9a2b8b9c4e7]
 
 A qualifying entity which supplies directly to—
 
 - (a) an emergency service of one or more of the goods and services set out in paragraph 3;
 - (b) an ambulance services provider of one or more of the goods and services set out in paragraph 4.
 
-### 3. Good and services – emergency services[^key-58430c7086ea6748acf2d77db275bd57]
+### 3. Good and services – emergency services[^c-58430c7086ea6748acf2d77db275bd57]
 
 The goods and services referred to in paragraph 2(a) are the following—
 
@@ -108,7 +108,7 @@ The goods and services referred to in paragraph 2(a) are the following—
 - (l) services to control systems relating to access and security of buildings;
 - (m) front line operational delivery of firefighting services in the event of strike action.
 
-### 4. Goods and services – ambulance services provider[^key-7f8751f0da9b324414b5b3253db5b07c]
+### 4. Goods and services – ambulance services provider[^c-7f8751f0da9b324414b5b3253db5b07c]
 
 The goods and services referred to in paragraph 2(b) are an electronic communications network or electronic communications service that—
 
@@ -117,13 +117,13 @@ The goods and services referred to in paragraph 2(b) are an electronic communica
 
 ## Annotations
 
-[^key-a120ff6a850fe3820f798b65ea33be7b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-a120ff6a850fe3820f798b65ea33be7b]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00049]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-e9869154b8d1ad5c2e3df5777d5db3af]: Textual amendment: Words in Regulations substituted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-e9869154b8d1ad5c2e3df5777d5db3af]: Textual amendment: Words in Regulations substituted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-017b30b285ddf8cba9b54e5ad4ac648f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2021/1264) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-017b30b285ddf8cba9b54e5ad4ac648f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2021/1264) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00050]: Footnote: [S.I. 1998/678](https://www.legislation.gov.uk/uksi/1998/678); amended by [S.I. 2009/201](https://www.legislation.gov.uk/uksi/2009/201), [2013/2729](https://www.legislation.gov.uk/uksi/2013/2729), [2016/483](https://www.legislation.gov.uk/uksi/2016/483), and [2019/777](https://www.legislation.gov.uk/uksi/2019/777).
 
@@ -165,10 +165,10 @@ The goods and services referred to in paragraph 2(b) are an electronic communica
 
 [^f00069]: Footnote: There are amendments to section 151(1) not affecting the definition of “public electronic communications network”.
 
-[^key-d95bd2c71ce34b181164b9a2b8b9c4e7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-d95bd2c71ce34b181164b9a2b8b9c4e7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-58430c7086ea6748acf2d77db275bd57]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-58430c7086ea6748acf2d77db275bd57]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00070]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27). Section 57(1) was substituted by the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), section 125(2).
 
-[^key-7f8751f0da9b324414b5b3253db5b07c]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-7f8751f0da9b324414b5b3253db5b07c]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/15/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

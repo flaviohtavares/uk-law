@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Assessment where loss of tax[^key-549b330fea7c917e8650a1d2fbf665fa]
+## 98. Assessment where loss of tax[^c-549b330fea7c917e8650a1d2fbf665fa]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-549b330fea7c917e8650a1d2fbf665fa]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/16/section/98) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-549b330fea7c917e8650a1d2fbf665fa]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/16/section/98) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

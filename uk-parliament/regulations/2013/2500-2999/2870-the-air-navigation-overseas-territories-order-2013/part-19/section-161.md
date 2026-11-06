@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Customs and Excise airports[^key-0b9f59904615056a6b7ee15d56ddc63f]
+## 161. Customs and Excise airports[^c-0b9f59904615056a6b7ee15d56ddc63f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b9f59904615056a6b7ee15d56ddc63f]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2013/2870/article/161) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-0b9f59904615056a6b7ee15d56ddc63f]: Commencement: [Art. 161](https://www.legislation.gov.uk/uksi/2013/2870/article/161) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Compensation for notices wrongly given[^key-f7f8015ea9bd527196e946e2fbce4f12][^key-b0c2aacccca4240e733c8a38cc402ec8]
+## 34. Compensation for notices wrongly given[^c-f7f8015ea9bd527196e946e2fbce4f12][^c-b0c2aacccca4240e733c8a38cc402ec8]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7f8015ea9bd527196e946e2fbce4f12]: Commencement: S. 34 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-f7f8015ea9bd527196e946e2fbce4f12]: Commencement: S. 34 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-b0c2aacccca4240e733c8a38cc402ec8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/46/section/34) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b0c2aacccca4240e733c8a38cc402ec8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/46/section/34) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

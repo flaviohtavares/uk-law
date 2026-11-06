@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Closing date for applications[^key-a731a7538d9640ec3e990a08ff796b51]
+## 44. Closing date for applications[^c-a731a7538d9640ec3e990a08ff796b51]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a731a7538d9640ec3e990a08ff796b51]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2006/2910/regulation/44) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-a731a7538d9640ec3e990a08ff796b51]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2006/2910/regulation/44) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00069]: Footnote: Regulation 56 has been amended by [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700) and [2006/752](https://www.legislation.gov.uk/uksi/2006/752).

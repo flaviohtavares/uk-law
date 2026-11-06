@@ -52,7 +52,7 @@ In accordance with paragraph 2 of that Schedule, the applicant caused a draft of
 
 With regard to paragraph 3 of that Schedule, no objections were received and no representations were made in writing to the Scottish Ministers in respect of the draft of this Order.
 
-## 1. Citation, commencement and interpretation[^key-766802b66dd51294c119d6ddeb82cd07]
+## 1. Citation, commencement and interpretation[^c-766802b66dd51294c119d6ddeb82cd07]
 
 (1) This Order may be cited as the Loch Sligachan, Isle of Skye, Scallops Several Fishery Order 2013 and comes into force on 16th November 2013.
 
@@ -64,31 +64,31 @@ With regard to paragraph 3 of that Schedule, no objections were received and no 
 - “the definitive map” means the map prepared in duplicate, each copy of which is signed by Richard Lochhead, Cabinet Secretary for Rural Affairs and the Environment, and marked “Map referred to in the Loch Sligachan, Isle of Skye, Scallops Several Fishery Order 2013”, one copy of which is deposited in the principal office of Marine Scotland, Victoria Quay, Leith, Edinburgh, EH6 6QQ and the other of which is deposited in the applicant’s place of business at Oakes Marine, Old Mission House, Sconser, Isle of Skye, IV48 8TD; and
 - “the fishery” means that part of the bed of the sea in Loch Sligachan, Isle of Skye, described in the Schedule to this Order and shown hatched in grey on the definitive map.
 
-## 2. Right of several fishery[^key-779ced9dba663d22cb655cd07c890275]
+## 2. Right of several fishery[^c-779ced9dba663d22cb655cd07c890275]
 
 Subject to the following provisions of this Order, the right of several fishery for scallops with respect to the whole of the area of the fishery is conferred on the applicant until 16th November 2028.
 
-## 3. Restriction on harvesting[^key-c593ea73dc211d413c38e551d2e18142]
+## 3. Restriction on harvesting[^c-c593ea73dc211d413c38e551d2e18142]
 
 The right of several fishery granted by article 2 is subject to the restriction that the harvesting of scallops must be carried out manually by divers.
 
-## 4. Permitted fishing implements[^key-616f4d71a4abd443d0cb12550ecb9bae]
+## 4. Permitted fishing implements[^c-616f4d71a4abd443d0cb12550ecb9bae]
 
 For the purposes of section 7(4)(a)(iii)[^f00004] of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries: offences), a creel is specified as an implement of fishing the use of which is permitted within the fishery.
 
-## 5. Assignation[^key-05ba3381aa28cb68a64b16f64c3362bb]
+## 5. Assignation[^c-05ba3381aa28cb68a64b16f64c3362bb]
 
 The grantee must not without the prior written consent of the Scottish Ministers (which consent may be given in electronic form) assign or in any other way transfer the right of several fishery to any other person.
 
-## 6. Marking of limits of fishery[^key-b11197c7cd0f2461e7a5ac36ab1ee589]
+## 6. Marking of limits of fishery[^c-b11197c7cd0f2461e7a5ac36ab1ee589]
 
 The grantee must cause to be clearly marked the limits of the fishery on the bed and on the surface of the sea and must maintain the marks in position and in good repair.
 
-## 7. Rights of the Crown[^key-f74dea84d24a94a08074a3f45a48c47f]
+## 7. Rights of the Crown[^c-f74dea84d24a94a08074a3f45a48c47f]
 
-(1)[^key-2cd3d5181d0441992fd4c4d9aba5efd1] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-a72aa0693182500baa7258bc49eedace].
+(1)[^c-2cd3d5181d0441992fd4c4d9aba5efd1] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^c-a72aa0693182500baa7258bc49eedace].
 
-(2)[^key-6573e845c70d1e60be77ae5d47dfa757] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(2)[^c-6573e845c70d1e60be77ae5d47dfa757] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 RICHARD LOCHHEAD
 
@@ -100,11 +100,11 @@ Edinburgh
 
 24th September 2013
 
-## SCHEDULE — DESCRIPTION OF THE FISHERY[^key-19f479b1efd35967c5cf15677708506c]
+## SCHEDULE — DESCRIPTION OF THE FISHERY[^c-19f479b1efd35967c5cf15677708506c]
 
 Article 1(2)
 
-[^key-19f479b1efd35967c5cf15677708506c]
+[^c-19f479b1efd35967c5cf15677708506c]
 
 That part of the bed of the sea in Loch Sligachan, Isle of Skye, extending to 31.3 hectares or thereby and bounded as follows—
 
@@ -143,26 +143,26 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00003]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-766802b66dd51294c119d6ddeb82cd07]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/280/article/1) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-766802b66dd51294c119d6ddeb82cd07]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/280/article/1) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-779ced9dba663d22cb655cd07c890275]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/280/article/2) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-779ced9dba663d22cb655cd07c890275]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/280/article/2) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-c593ea73dc211d413c38e551d2e18142]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/280/article/3) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-c593ea73dc211d413c38e551d2e18142]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2013/280/article/3) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-616f4d71a4abd443d0cb12550ecb9bae]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/280/article/4) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-616f4d71a4abd443d0cb12550ecb9bae]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/280/article/4) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
 [^f00004]: Footnote: Section 7(4)(a)(iii) was inserted by the Sea Fisheries (Shellfish) Amendment (Scotland) Act [2000 (asp 12)](https://www.legislation.gov.uk/asp/2000/12).
 
-[^key-05ba3381aa28cb68a64b16f64c3362bb]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2013/280/article/5) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-05ba3381aa28cb68a64b16f64c3362bb]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2013/280/article/5) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-b11197c7cd0f2461e7a5ac36ab1ee589]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2013/280/article/6) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-b11197c7cd0f2461e7a5ac36ab1ee589]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2013/280/article/6) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-f74dea84d24a94a08074a3f45a48c47f]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2013/280/article/7) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-f74dea84d24a94a08074a3f45a48c47f]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2013/280/article/7) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
 
-[^key-2cd3d5181d0441992fd4c4d9aba5efd1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/ssi/2013/280/article/7/1) renumbered as art. 7(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/a)
+[^c-2cd3d5181d0441992fd4c4d9aba5efd1]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/ssi/2013/280/article/7/1) renumbered as art. 7(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/a)
 
-[^key-a72aa0693182500baa7258bc49eedace]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/ssi/2013/280/article/7/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/b)
+[^c-a72aa0693182500baa7258bc49eedace]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/ssi/2013/280/article/7/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/b)
 
-[^key-6573e845c70d1e60be77ae5d47dfa757]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/ssi/2013/280/article/7/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/c)
+[^c-6573e845c70d1e60be77ae5d47dfa757]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/ssi/2013/280/article/7/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 129(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/129/c)
 
-[^key-19f479b1efd35967c5cf15677708506c]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/280/schedule) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)
+[^c-19f479b1efd35967c5cf15677708506c]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/280/schedule) in force at 16.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/280/article/1/1)

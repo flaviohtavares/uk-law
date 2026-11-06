@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 210. Interpretation[^key-df8c5bd35621eee091cf56be0ac11d7c]
+## 210. Interpretation[^c-df8c5bd35621eee091cf56be0ac11d7c]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ In this Act—
 - “**listed building consent**” (*“cydsyniad adeilad rhestredig”*) has the meaning given by section 89;
 - “**listed building partnership agreement**” (“***cytundeb partneriaeth adeilad rhestredig***”) has the meaning given by section 113(5);
 - “**monument**” (*“heneb”*) is to be interpreted in accordance with section 2;
-- “[^key-126edc5eaa8cd10dc4f76ae0701e0fbe]**mortgage**” (“***morgais***”) includes any charge or lien on any property for securing money or money’s worth;
+- “[^c-126edc5eaa8cd10dc4f76ae0701e0fbe]**mortgage**” (“***morgais***”) includes any charge or lien on any property for securing money or money’s worth;
 - “**owner**” (*“perchennog”*), in relation to land (except in sections 15, 25, 26, 91, 113 and 186), means a person who, whether in their own right or as trustee for any other person—
   - (a) is entitled to receive the rack rent of the land, or
   - (b) would be so entitled if the land were let at a rack rent,
@@ -67,6 +67,6 @@ In this Act—
 
 ## Annotations
 
-[^key-df8c5bd35621eee091cf56be0ac11d7c]: Commencement: S. 210 in force at 15.6.2023, see [s. 212(1)(c)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/c)
+[^c-df8c5bd35621eee091cf56be0ac11d7c]: Commencement: S. 210 in force at 15.6.2023, see [s. 212(1)(c)](https://www.legislation.gov.uk/asc/2023/3/section/212/1/c)
 
-[^key-126edc5eaa8cd10dc4f76ae0701e0fbe]: Textual amendment: Words in [s. 210](https://www.legislation.gov.uk/asc/2023/3/section/210) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/64/b) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
+[^c-126edc5eaa8cd10dc4f76ae0701e0fbe]: Textual amendment: Words in [s. 210](https://www.legislation.gov.uk/asc/2023/3/section/210) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/64/b) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Result of referendum or further referendum[^key-09576452bbc79d2d5d5e8b06b55db4ad]
+## 14. Result of referendum or further referendum[^c-09576452bbc79d2d5d5e8b06b55db4ad]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09576452bbc79d2d5d5e8b06b55db4ad]: Commencement: Reg. 14 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-09576452bbc79d2d5d5e8b06b55db4ad]: Commencement: Reg. 14 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

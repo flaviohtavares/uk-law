@@ -22,9 +22,9 @@ summary: ''
 
 (1)[^c2535161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-81671b35df24e601958ca99318d5f1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-81671b35df24e601958ca99318d5f1e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Subject to subsection (4) below, no person shall, except with the consent of and in accordance with any conditions imposed by the CAA, be entitled to exercise any right of entry (whether arising by virtue of a statutory provision or otherwise) upon a place which—[^key-aee059a9acfac9e01ae57dc26bd3e6ca]
+(3) Subject to subsection (4) below, no person shall, except with the consent of and in accordance with any conditions imposed by the CAA, be entitled to exercise any right of entry (whether arising by virtue of a statutory provision or otherwise) upon a place which—[^c-aee059a9acfac9e01ae57dc26bd3e6ca]
 
 - (a) belongs to or is used for the purposes of the CAA, and
 - (b) is a prohibited place within the meaning of Part 1 of the National Security Act 2023.
@@ -42,9 +42,9 @@ and if the CAA refuses consent or imposes conditions on the exercise by any pers
 
 [^c2535161]: Textual amendment: S. 18(1) repealed by [Official Secrets Act 1989 (c. 6, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1989/6), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1989/6/schedule/2)
 
-[^key-81671b35df24e601958ca99318d5f1e7]: Textual amendment: S. 18(2) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/6/a)
+[^c-81671b35df24e601958ca99318d5f1e7]: Textual amendment: S. 18(2) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/6/a)
 
-[^key-aee059a9acfac9e01ae57dc26bd3e6ca]: Textual amendment: S. 18(3)(a)(b) substituted for words in s. 18(3) (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/6/b)
+[^c-aee059a9acfac9e01ae57dc26bd3e6ca]: Textual amendment: S. 18(3)(a)(b) substituted for words in s. 18(3) (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/6/b)
 
 [^c2535171]: Textual amendment: S. 18(4)(d) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 69(2)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/69/2/a)
 

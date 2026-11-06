@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Representations and appeals[^key-a58e1e499762d77e8ce7c830bab49b38][^key-2fc9a4bd280afe1f08355200bba016da]
+## 80. Representations and appeals[^c-a58e1e499762d77e8ce7c830bab49b38][^c-2fc9a4bd280afe1f08355200bba016da]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ to make representations to the enforcement authority and to appeal to an adjudic
 
 ## Annotations
 
-[^key-a58e1e499762d77e8ce7c830bab49b38]: Commencement: S. 80 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-a58e1e499762d77e8ce7c830bab49b38]: Commencement: S. 80 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-2fc9a4bd280afe1f08355200bba016da]: Commencement: S. 80 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(e)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-2fc9a4bd280afe1f08355200bba016da]: Commencement: S. 80 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(e)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)

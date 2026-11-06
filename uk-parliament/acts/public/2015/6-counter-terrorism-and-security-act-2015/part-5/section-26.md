@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. General duty on specified authorities[^key-827394312efcb42b73833c107240b9ef][^key-1d28f3e253b1d7d70638077c77971f9e]
+## 26. General duty on specified authorities[^c-827394312efcb42b73833c107240b9ef][^c-1d28f3e253b1d7d70638077c77971f9e]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-827394312efcb42b73833c107240b9ef]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/6/section/26) in force at 1.7.2015 for specified purposes by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/a)
+[^c-827394312efcb42b73833c107240b9ef]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/6/section/26) in force at 1.7.2015 for specified purposes by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/a)
 
-[^key-1d28f3e253b1d7d70638077c77971f9e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/6/section/26) in force at 18.9.2015 in so far as not already in force by [S.I. 2015/1698](https://www.legislation.gov.uk/uksi/2015/1698), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1698/regulation/2)
+[^c-1d28f3e253b1d7d70638077c77971f9e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/6/section/26) in force at 18.9.2015 in so far as not already in force by [S.I. 2015/1698](https://www.legislation.gov.uk/uksi/2015/1698), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1698/regulation/2)

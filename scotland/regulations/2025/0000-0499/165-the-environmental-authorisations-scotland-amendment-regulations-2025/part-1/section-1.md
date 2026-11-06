@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-3bb084758f4dd28011333e468f2790f6]
+## 1. Citation and commencement[^c-3bb084758f4dd28011333e468f2790f6]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ apply only insofar as they relate to the activities described in paragraph 1(1) 
 
 ## Annotations
 
-[^key-3bb084758f4dd28011333e468f2790f6]: Commencement: Reg. 1 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-3bb084758f4dd28011333e468f2790f6]: Commencement: Reg. 1 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

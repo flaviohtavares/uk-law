@@ -48,13 +48,13 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 7(1), 8(1), 15(4), 25, 32(3), 34(7), 83(2), 83A(6) and 87(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-25ffbf19db99697e46affb17297acac6]
+## 1. Citation, commencement and extent[^c-25ffbf19db99697e46affb17297acac6]
 
 (1) This Order may be cited as the Tuberculosis in Specified Animals (Scotland) Order 2015 and comes into force on 9th October 2015.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-685da2d8e39f7f1e8bbab81e4843058e]
+## 2. Interpretation[^c-685da2d8e39f7f1e8bbab81e4843058e]
 
 (1) In this Order, except where the context otherwise requires—
 
@@ -62,7 +62,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “affected animal” means a specified animal which is affected with tuberculosis of the udder or is giving tuberculous milk or is affected with tuberculous emaciation or is excreting or discharging tuberculous material or is affected with a chronic cough or shows any other clinical signs of tuberculosis;
 - “approved disinfectant” means a disinfectant approved by the Scottish Ministers for use against tuberculosis under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^f00002], used at the dilution rate stipulated in the approval and in accordance with the manufacturer’s instructions;
 - “approved veterinary surgeon” means a veterinary surgeon who is approved in accordance with article 3;
-- [^key-2dce5f81375cd8f1447f3d1a8099abe3]...
+- [^c-2dce5f81375cd8f1447f3d1a8099abe3]...
 - “carcase” includes any part of a specified animal;
 - “deer” means deer of any species that are managed by a keeper (including deer that are managed on enclosed park land);
 - “inconclusive reactor” means a specified animal in respect of which the results from a relevant test are not negative but do not indicate that it is a reactor;
@@ -78,7 +78,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) A reference in this Order to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Approval of veterinary surgeons[^key-998812bb32ae6c35fba3617ef2366c48]
+## 3. Approval of veterinary surgeons[^c-998812bb32ae6c35fba3617ef2366c48]
 
 (1) The Scottish Ministers may approve any veterinary surgeon whom they consider competent to apply and read a relevant test for tuberculosis.
 
@@ -86,7 +86,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) If the Scottish Ministers by notice given to the veterinary surgeon revoke an approval granted under this article, they must give reasons for the revocation.
 
-## 4. Notification of disease in specified animals[^key-f37f567330f5f962996670b9118513a5]
+## 4. Notification of disease in specified animals[^c-f37f567330f5f962996670b9118513a5]
 
 (1) Any person who—
 
@@ -101,7 +101,7 @@ must immediately inform the Scottish Ministers of such knowledge or suspicion.
 - (b) isolate the animal as far as practicable from other animals; and
 - (c) take steps to ensure that milk produced by that animal is not mixed with other milk and is boiled or otherwise sterilised and that any utensil with which the animal’s milk has been in contact before being sterilised is thoroughly cleansed and scalded with steam or boiling water before being used again.
 
-## 5. Notification of disease in carcases of wild deer[^key-9af6c8683ed3e0a825edba92dcccba1c]
+## 5. Notification of disease in carcases of wild deer[^c-9af6c8683ed3e0a825edba92dcccba1c]
 
 (1) Any person who—
 
@@ -117,7 +117,7 @@ must immediately inform the Scottish Ministers of such knowledge or suspicion.
 
 (3) If the carcase is in a slaughterhouse, the operator of the slaughterhouse must keep it isolated from other carcases of slaughtered animals.
 
-## 6. Veterinary inquiry as to the existence of disease[^key-64d8d9e712150dbac5b57e4ad730e275]
+## 6. Veterinary inquiry as to the existence of disease[^c-64d8d9e712150dbac5b57e4ad730e275]
 
 (1) Where a veterinary inspector reasonably believes that there is on any premises an affected animal, a suspected animal or the carcase of such an animal, the inspector must, with all practicable speed, take such steps as may be necessary to establish whether the animal or carcase is affected with tuberculosis.
 
@@ -140,7 +140,7 @@ must immediately inform the Scottish Ministers of such knowledge or suspicion.
 
 (5) A notice served under this article remains in force until it is withdrawn by any further notice served by a veterinary inspector.
 
-## 7. Tuberculosis testing[^key-9596f75e7e4cb45372dd772eb14d26e3]
+## 7. Tuberculosis testing[^c-9596f75e7e4cb45372dd772eb14d26e3]
 
 (1) Paragraph (2) applies where the Scottish Ministers have issued a notice to the keeper of a specified animal.
 
@@ -152,11 +152,11 @@ must immediately inform the Scottish Ministers of such knowledge or suspicion.
 - (b) the application to it, or the reading, of any relevant test; or
 - (c) the removal of the animal for slaughter.
 
-## 8. Restriction on movement after application of test[^key-08e39c69a0b6793d81650fda021cfc64]
+## 8. Restriction on movement after application of test[^c-08e39c69a0b6793d81650fda021cfc64]
 
 Where a relevant test has been applied to a specified animal and the results of the test have not yet been read, a person must not move the animal from the premises, or any part of the premises on which it is kept, except under the authority of a licence issued by a veterinary inspector.
 
-## 9. Restriction on movement following positive or inconclusive test results[^key-e305c940ed67ca1354acf13a6e362ad8]
+## 9. Restriction on movement following positive or inconclusive test results[^c-e305c940ed67ca1354acf13a6e362ad8]
 
 (1) Paragraph (2) applies where—
 
@@ -166,11 +166,11 @@ Where a relevant test has been applied to a specified animal and the results of 
 
 (2) The reactor or, as the case may be, inconclusive reactor must not be moved from the premises, or any part of the premises on which it is kept, except under the authority of a licence issued by a veterinary inspector.
 
-## 10. Reporting test results[^key-26ac9dcbd40b5aa82f9027b47dbdf115]
+## 10. Reporting test results[^c-26ac9dcbd40b5aa82f9027b47dbdf115]
 
 Any person who has tested a specified animal using a relevant test must, where the results identify the animal as a reactor or an inconclusive reactor, report those results to the Scottish Ministers as soon as they are known.
 
-## 11. Prohibitions[^key-6e67d951e1346f2ba7df5c00942876fc]
+## 11. Prohibitions[^c-6e67d951e1346f2ba7df5c00942876fc]
 
 (1) A person must not vaccinate a specified animal against tuberculosis without the written consent of the Scottish Ministers.
 
@@ -178,14 +178,14 @@ Any person who has tested a specified animal using a relevant test must, where t
 
 (3) A person must not interfere with or obstruct the application, or the reading, of a relevant test applied under this Order.
 
-## 12. Isolation and prohibition on movement of specified animals[^key-94ab5741740d5c80b1ae9d21d7ef7b6e]
+## 12. Isolation and prohibition on movement of specified animals[^c-94ab5741740d5c80b1ae9d21d7ef7b6e]
 
 A veterinary inspector may, for the purpose of controlling or preventing the spread of tuberculosis, serve a notice on the keeper of any specified animal kept on such premises as are stipulated in the notice—
 
 - (a) requiring any such animal to be isolated from other animals to the extent stipulated in the notice; and
 - (b) prohibiting the movement of any such animal, or of such specified animals as are stipulated in the notice, on to or off the premises, except under the authority of a licence issued by a veterinary inspector.
 
-## 13. Notification of intended slaughter of specified animals[^key-0a608f81665a25342c881831d3a9ef56]
+## 13. Notification of intended slaughter of specified animals[^c-0a608f81665a25342c881831d3a9ef56]
 
 (1) Paragraph (2) applies where the Scottish Ministers intend to cause a specified animal to be slaughtered under section 32 of the Act (slaughter in other diseases) in its application to tuberculosis.
 
@@ -200,7 +200,7 @@ A veterinary inspector may, for the purpose of controlling or preventing the spr
 - (a) must comply with the notice; and
 - (b) must not move the animal, or cause or permit it to be moved, from that part of the premises on which it is required to be detained, except under the authority of a licence issued by a veterinary inspector.
 
-## 14. Precautions against spread of infection[^key-8301d9dd1f4b5d4f39a8a67ae2177caf]
+## 14. Precautions against spread of infection[^c-8301d9dd1f4b5d4f39a8a67ae2177caf]
 
 Where the Scottish Ministers are satisfied that any specified animal kept on any premises is an affected animal or a suspected animal, or where tuberculosis has been identified on any premises, a veterinary inspector may, by notice served on the keeper of any such animal, require the keeper or the person in occupation or in charge of the premises (as appropriate)—
 
@@ -214,7 +214,7 @@ Where the Scottish Ministers are satisfied that any specified animal kept on any
 - (h) to cleanse and disinfect at the keeper’s own expense, with an approved disinfectant, all utensils and other articles used for or in relation to the animal, within such time and in such manner as may be stipulated in the notice; and
 - (i) to take such other action as the veterinary inspector considers appropriate.
 
-## 15. Precautions in relation to shows, exhibitions etc.[^key-35936e2bcb4f92ae55880ab96d576c56]
+## 15. Precautions in relation to shows, exhibitions etc.[^c-35936e2bcb4f92ae55880ab96d576c56]
 
 (1) Where a veterinary inspector reasonably believes that a specified animal on any premises at which a show, exhibition, market, sale or fair is being held, is an affected animal or a suspected animal, that inspector may, by notice served on the keeper of the animal, require the keeper to remove the animal from those premises and take it—
 
@@ -229,7 +229,7 @@ Where the Scottish Ministers are satisfied that any specified animal kept on any
   - (i) to cleanse and disinfect with an approved disinfectant such part of the premises as may be stipulated in the notice; and
   - (ii) to dispose of any manure, slurry or other animal waste, straw, litter or other matter which, to the occupier’s knowledge, has or might have come into contact with the animal.
 
-## 16. Identification requirements for deer[^key-976e87cd7eb4e9d3231654135b6ed07f]
+## 16. Identification requirements for deer[^c-976e87cd7eb4e9d3231654135b6ed07f]
 
 (1) A person must not move a deer on to or off any premises unless it has had a means of identification applied to it in a manner approved by the Scottish Ministers.
 
@@ -241,7 +241,7 @@ Where the Scottish Ministers are satisfied that any specified animal kept on any
 
 (5) A person must not change or interfere with any means of identification that has been applied in accordance with this article.
 
-## 17. Identification requirements for alpacas, guanacos, llamas and vicuñas[^key-0e831e550db4c9a02e99391cacd07b35]
+## 17. Identification requirements for alpacas, guanacos, llamas and vicuñas[^c-0e831e550db4c9a02e99391cacd07b35]
 
 (1) A person must not move an alpaca, guanaco, llama or vicuña that is an affected animal or a suspected animal on to or off any premises unless it has had a means of identification applied to it in a manner approved by the Scottish Ministers.
 
@@ -255,7 +255,7 @@ Where the Scottish Ministers are satisfied that any specified animal kept on any
 
 (6) A person must not change or interfere with any means of identification that has been applied in accordance with this article.
 
-## 18. General provisions as to notices, licences, directions and approvals[^key-70dcd5d76a3a394b8624b84248a59516]
+## 18. General provisions as to notices, licences, directions and approvals[^c-70dcd5d76a3a394b8624b84248a59516]
 
 (1) Any licence, approval or direction issued or granted under this Order must be in writing.
 
@@ -284,13 +284,13 @@ Where the Scottish Ministers are satisfied that any specified animal kept on any
 - (a) a director, manager, secretary or other similar officer of the body; or
 - (b) where the affairs of the body are managed by its members, a member.
 
-## 19. Enforcement[^key-3ef7d12083fa502d364698a03e6b9ea2]
+## 19. Enforcement[^c-3ef7d12083fa502d364698a03e6b9ea2]
 
 (1) This Order is to be enforced by a local authority.
 
 (2) The Scottish Ministers may direct, in relation to any particular case or class of case, that they will enforce this Order instead of the local authority.
 
-## 20. Offences by bodies corporate, etc.[^key-5b627b445881f0bbcfc86de4d2dcf1f1]
+## 20. Offences by bodies corporate, etc.[^c-5b627b445881f0bbcfc86de4d2dcf1f1]
 
 (1) Where—
 
@@ -309,7 +309,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 21. Compensation for specified animals slaughtered for tuberculosis[^key-97ba44d96742ad854f8dc05cf4bedf43]
+## 21. Compensation for specified animals slaughtered for tuberculosis[^c-97ba44d96742ad854f8dc05cf4bedf43]
 
 (1) Where—
 
@@ -326,7 +326,7 @@ the compensation payable under section 32(3) of the Act in respect of that anima
 
 (3) If the market value of a specified animal as determined in accordance with article 22 is less than its value as calculated in accordance with the Schedule, the compensation payable under section 32(3) of the Act in respect of that animal is to be its market value.
 
-## 22. Determination of market value[^key-e4583cd21524e50e6e12ac5823683792]
+## 22. Determination of market value[^c-e4583cd21524e50e6e12ac5823683792]
 
 (1) The market value of a specified animal is, for the purposes of payment of compensation under section 32(3) of the Act, determined on the basis of the value of the animal immediately before any suspicion of tuberculosis arose—
 
@@ -341,7 +341,7 @@ the compensation payable under section 32(3) of the Act in respect of that anima
 
 (4) Only individuals acting alone may be appointed or nominated for the purposes of this article.
 
-## 23. Revocations and amendment[^key-10cf4a26492af1f6198b368521d140b8]
+## 23. Revocations and amendment[^c-10cf4a26492af1f6198b368521d140b8]
 
 (1) The following Orders are revoked in so far as they apply in relation to Scotland—
 
@@ -351,7 +351,7 @@ the compensation payable under section 32(3) of the Act in respect of that anima
 
 (2) In the Animal Health (Miscellaneous Amendments) (Scotland) Order 2013[^f00012], omit article 8.
 
-## 24. Transitional provision[^key-a7e01ed7f03fa3c2b0e8aec0238b0518]
+## 24. Transitional provision[^c-a7e01ed7f03fa3c2b0e8aec0238b0518]
 
 Any notice or licence served or issued under the Tuberculosis (Deer) Order 1989 or the Tuberculosis (Deer) Notice of Intended Slaughter and Compensation Order 1989 and which has effect at the coming into force of this Order remains in force as if it were a notice or licence served or issued under this Order.
 
@@ -369,13 +369,13 @@ Edinburgh
 
 Article 21
 
-**1.**[^key-48c5e840adf416cd523ac1c12408fc49] Where necessary, the Scottish Ministers must determine from the table in paragraph 4 the category as mentioned in column 2 of the table into which the specified animal as mentioned in column 1 of the table falls.
+**1.**[^c-48c5e840adf416cd523ac1c12408fc49] Where necessary, the Scottish Ministers must determine from the table in paragraph 4 the category as mentioned in column 2 of the table into which the specified animal as mentioned in column 1 of the table falls.
 
-**2.**[^key-49d9e9bf12b7b87efc2d644e812269b8] The age of a specified animal is its age at the date on which the notice of intention to slaughter was served.
+**2.**[^c-49d9e9bf12b7b87efc2d644e812269b8] The age of a specified animal is its age at the date on which the notice of intention to slaughter was served.
 
-**3.**[^key-67f780688e787abf5589cb6bd0b6d505] The compensation payable is the value specified in column 3 of the table, by reference to the applicable species listed in column 1 and the applicable category listed in column 2 of that table.
+**3.**[^c-67f780688e787abf5589cb6bd0b6d505] The compensation payable is the value specified in column 3 of the table, by reference to the applicable species listed in column 1 and the applicable category listed in column 2 of that table.
 
-**4.**[^key-4d42824c4fdfd0ef5b8cdb6fde1ecb1f] TABLE
+**4.**[^c-4d42824c4fdfd0ef5b8cdb6fde1ecb1f] TABLE
 
 <table>
 <thead>
@@ -453,57 +453,57 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of the Secretary of State in so far as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 86 of the Animal Health Act 1981 (“the Act”) for the exercise of functions in relation to tuberculosis. The requirement to obtain Treasury consent in section 32(3) of the Act was removed by section 55 of the Scotland Act 1998. The definition of “disease” in section 88(1) of the Act was extended to include tuberculosis and section 32 of the Act (power to slaughter animals) was applied to that disease by article 3 of [S.S.I. 2007/147](https://www.legislation.gov.uk/ssi/2007/147). The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the negative procedure by virtue of section 33(4) of that Act.
 
-[^key-25ffbf19db99697e46affb17297acac6]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/327/article/1) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-25ffbf19db99697e46affb17297acac6]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/327/article/1) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-685da2d8e39f7f1e8bbab81e4843058e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/327/article/2) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-685da2d8e39f7f1e8bbab81e4843058e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/327/article/2) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2008/219](https://www.legislation.gov.uk/ssi/2008/219) as amended by [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506).
 
-[^key-2dce5f81375cd8f1447f3d1a8099abe3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/327/article/2/1) omitted (12.12.2018) by virtue of [The Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018 (S.S.I. 2018/333)](https://www.legislation.gov.uk/ssi/2018/333), [arts. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1), [3](https://www.legislation.gov.uk/ssi/2018/333/article/3)
+[^c-2dce5f81375cd8f1447f3d1a8099abe3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/327/article/2/1) omitted (12.12.2018) by virtue of [The Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018 (S.S.I. 2018/333)](https://www.legislation.gov.uk/ssi/2018/333), [arts. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1), [3](https://www.legislation.gov.uk/ssi/2018/333/article/3)
 
 [^f00003]: Footnote: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36), relevantly amended by [S.I. 1980/1951](https://www.legislation.gov.uk/uksi/1980/1951), [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919) and [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824).
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17, paragraph 158.
 
-[^key-998812bb32ae6c35fba3617ef2366c48]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/327/article/3) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-998812bb32ae6c35fba3617ef2366c48]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/327/article/3) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-f37f567330f5f962996670b9118513a5]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/327/article/4) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-f37f567330f5f962996670b9118513a5]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/327/article/4) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-9af6c8683ed3e0a825edba92dcccba1c]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/327/article/5) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-9af6c8683ed3e0a825edba92dcccba1c]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/327/article/5) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-64d8d9e712150dbac5b57e4ad730e275]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/327/article/6) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-64d8d9e712150dbac5b57e4ad730e275]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/327/article/6) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-9596f75e7e4cb45372dd772eb14d26e3]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/327/article/7) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-9596f75e7e4cb45372dd772eb14d26e3]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/327/article/7) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-08e39c69a0b6793d81650fda021cfc64]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/327/article/8) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-08e39c69a0b6793d81650fda021cfc64]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/327/article/8) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-e305c940ed67ca1354acf13a6e362ad8]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2015/327/article/9) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-e305c940ed67ca1354acf13a6e362ad8]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2015/327/article/9) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-26ac9dcbd40b5aa82f9027b47dbdf115]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2015/327/article/10) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-26ac9dcbd40b5aa82f9027b47dbdf115]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2015/327/article/10) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-6e67d951e1346f2ba7df5c00942876fc]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2015/327/article/11) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-6e67d951e1346f2ba7df5c00942876fc]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2015/327/article/11) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-94ab5741740d5c80b1ae9d21d7ef7b6e]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2015/327/article/12) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-94ab5741740d5c80b1ae9d21d7ef7b6e]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2015/327/article/12) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-0a608f81665a25342c881831d3a9ef56]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2015/327/article/13) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-0a608f81665a25342c881831d3a9ef56]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2015/327/article/13) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-8301d9dd1f4b5d4f39a8a67ae2177caf]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2015/327/article/14) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-8301d9dd1f4b5d4f39a8a67ae2177caf]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2015/327/article/14) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-35936e2bcb4f92ae55880ab96d576c56]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2015/327/article/15) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-35936e2bcb4f92ae55880ab96d576c56]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2015/327/article/15) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-976e87cd7eb4e9d3231654135b6ed07f]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2015/327/article/16) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-976e87cd7eb4e9d3231654135b6ed07f]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2015/327/article/16) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-0e831e550db4c9a02e99391cacd07b35]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2015/327/article/17) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-0e831e550db4c9a02e99391cacd07b35]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2015/327/article/17) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-70dcd5d76a3a394b8624b84248a59516]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2015/327/article/18) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-70dcd5d76a3a394b8624b84248a59516]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2015/327/article/18) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
 [^f00005]: Footnote: Section 73 was inserted by the Animal Health and Welfare (Scotland) Act [2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), schedule 2, paragraph 3(1).
 
-[^key-3ef7d12083fa502d364698a03e6b9ea2]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2015/327/article/19) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-3ef7d12083fa502d364698a03e6b9ea2]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2015/327/article/19) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-5b627b445881f0bbcfc86de4d2dcf1f1]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2015/327/article/20) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-5b627b445881f0bbcfc86de4d2dcf1f1]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2015/327/article/20) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-97ba44d96742ad854f8dc05cf4bedf43]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2015/327/article/21) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-97ba44d96742ad854f8dc05cf4bedf43]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2015/327/article/21) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
 [^f00006]: Footnote: [S.S.I. 2009/414](https://www.legislation.gov.uk/ssi/2009/414).
 
@@ -511,9 +511,9 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^f00008]: Footnote: [S.S.I. 2011/327](https://www.legislation.gov.uk/ssi/2011/327), amended by [S.S.I. 2011/351](https://www.legislation.gov.uk/ssi/2011/351).
 
-[^key-e4583cd21524e50e6e12ac5823683792]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2015/327/article/22) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-e4583cd21524e50e6e12ac5823683792]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2015/327/article/22) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-10cf4a26492af1f6198b368521d140b8]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2015/327/article/23) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-10cf4a26492af1f6198b368521d140b8]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2015/327/article/23) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
 [^f00009]: Footnote: [S.I. 1989/878](https://www.legislation.gov.uk/uksi/1989/878).
 
@@ -523,12 +523,12 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^f00012]: Footnote: [S.S.I. 2013/173](https://www.legislation.gov.uk/ssi/2013/173).
 
-[^key-a7e01ed7f03fa3c2b0e8aec0238b0518]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2015/327/article/24) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-a7e01ed7f03fa3c2b0e8aec0238b0518]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2015/327/article/24) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-48c5e840adf416cd523ac1c12408fc49]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/1) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-48c5e840adf416cd523ac1c12408fc49]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/1) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-49d9e9bf12b7b87efc2d644e812269b8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/2) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-49d9e9bf12b7b87efc2d644e812269b8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/2) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-67f780688e787abf5589cb6bd0b6d505]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/3) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-67f780688e787abf5589cb6bd0b6d505]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/3) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
 
-[^key-4d42824c4fdfd0ef5b8cdb6fde1ecb1f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/4) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)
+[^c-4d42824c4fdfd0ef5b8cdb6fde1ecb1f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2015/327/schedule/paragraph/4) in force at 9.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1)

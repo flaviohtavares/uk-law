@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (revoked)[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (revoked)[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 24th July 2006
 
-[^key-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART I — INTRODUCTION[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ Coming into operation
 - [Section 3 — Exemption for authorised products](part-i/section-3.md)
 - [Section 4 — Exemption for personal imports](part-i/section-4.md)
 
-### PART II — ENFORCEMENT[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART II — ENFORCEMENT[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -73,7 +73,7 @@ Coming into operation
 - [Section 13 — Suspension of border inspection posts](part-ii/section-13.md)
 - [Section 14 — Regulatory functions of authorised officers](part-ii/section-14.md)
 
-### PART III — PROVISIONS APPLICABLE TO PRODUCTS IN GENERAL[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART III — PROVISIONS APPLICABLE TO PRODUCTS IN GENERAL[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -94,7 +94,7 @@ Coming into operation
 - [Section 27 — Invalidation of veterinary documents](part-iii/section-27.md)
 - [Section 28 — Costs in respect of products redispatched or disposed of](part-iii/section-28.md)
 
-### PART IV — ON-BOARD CATERING SUPPLIES[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART IV — ON-BOARD CATERING SUPPLIES[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -102,7 +102,7 @@ Coming into operation
 
 - [Section 29 — Disposal of unused catering supplies](part-iv/section-29.md)
 
-### PART V — BURIAL OF UNUSED ON-BOARD CATERING SUPPLIES IN LANDFILLS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART V — BURIAL OF UNUSED ON-BOARD CATERING SUPPLIES IN LANDFILLS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -113,7 +113,7 @@ Coming into operation
 - [Section 32 — Amendment, suspension and revocation of approvals](part-v/section-32.md)
 - [Section 33 — Appeals](part-v/section-33.md)
 
-### PART VI — PRODUCTS INTENDED FOR IMPORT[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART VI — PRODUCTS INTENDED FOR IMPORT[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -125,7 +125,7 @@ Coming into operation
 - [Section 37 — Products transported under supervision](part-vi/section-37.md)
 - [Section 38 — Transhipment of products intended for import](part-vi/section-38.md)
 
-### PART VII — TRANSIT PRODUCTS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART VII — TRANSIT PRODUCTS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -137,7 +137,7 @@ Coming into operation
 - [Section 42 — Movement of transit products](part-vii/section-42.md)
 - [Section 43 — Disposal of returned transit products](part-vii/section-43.md)
 
-### PART VIII — PRODUCTS INTENDED FOR WAREHOUSES OR SHIPS' STORES[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART VIII — PRODUCTS INTENDED FOR WAREHOUSES OR SHIPS' STORES[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Coming into operation
 - [Section 46 — Physical check of non-conforming products](part-viii/section-46.md)
 - [Section 47 — Exclusion of non-conforming products from warehouses](part-viii/section-47.md)
 
-### PART IX — PRODUCTS RETURNED FROM THIRD COUNTRIES[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART IX — PRODUCTS RETURNED FROM THIRD COUNTRIES[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -159,7 +159,7 @@ Coming into operation
 - [Section 50 — Physical check of returned products](part-ix/section-50.md)
 - [Section 51 — Movement of returned products](part-ix/section-51.md)
 
-### PART X — CHARGES FOR VETERINARY CHECKS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART X — CHARGES FOR VETERINARY CHECKS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -172,7 +172,7 @@ Coming into operation
 - [Section 56 — Information relating to charges](part-x/section-56.md)
 - [Section 57 — Appeals against charges](part-x/section-57.md)
 
-### PART XI — EMERGENCY DECLARATIONS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART XI — EMERGENCY DECLARATIONS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -180,7 +180,7 @@ Coming into operation
 
 - [Section 58 — Disease outbreaks in third countries](part-xi/section-58.md)
 
-### PART XII — OFFENCES AND PENALTIES[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART XII — OFFENCES AND PENALTIES[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -191,7 +191,7 @@ Coming into operation
 - [Section 61 — Defence of due diligence](part-xii/section-61.md)
 - [Section 62 — Penalties](part-xii/section-62.md)
 
-### PART XIII — NOTICES AND DECISIONS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART XIII — NOTICES AND DECISIONS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -200,7 +200,7 @@ Coming into operation
 - [Section 63 — Form and content of notices](part-xiii/section-63.md)
 - [Section 64 — Notification of decisions](part-xiii/section-64.md)
 
-### PART XIV — DISAPPLICATIONS AND REVOCATIONS[^key-e4d7eb01e504369cf58d3cd90eeb7e22]
+### PART XIV — DISAPPLICATIONS AND REVOCATIONS[^c-e4d7eb01e504369cf58d3cd90eeb7e22]
 
 *Extent: N.I.*
 
@@ -219,12 +219,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4d7eb01e504369cf58d3cd90eeb7e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4d7eb01e504369cf58d3cd90eeb7e22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/291) revoked (13.4.2007) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (S.R. 2007/199)](https://www.legislation.gov.uk/nisr/2007/199), [regs. 1](https://www.legislation.gov.uk/nisr/2007/199/regulation/1), [69](https://www.legislation.gov.uk/nisr/2007/199/regulation/69)
+[^c-e4d7eb01e504369cf58d3cd90eeb7e22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/291) revoked (13.4.2007) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2007 (S.R. 2007/199)](https://www.legislation.gov.uk/nisr/2007/199), [regs. 1](https://www.legislation.gov.uk/nisr/2007/199/regulation/1), [69](https://www.legislation.gov.uk/nisr/2007/199/regulation/69)

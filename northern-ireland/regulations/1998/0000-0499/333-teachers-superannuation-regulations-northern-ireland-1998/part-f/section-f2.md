@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## F2. Amounts of transfer values and additional transfer values[^key-7fdd7ef0e64c1a94cf4cada8c6e53460]
+## F2. Amounts of transfer values and additional transfer values[^c-7fdd7ef0e64c1a94cf4cada8c6e53460]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ where—
 
 ## Annotations
 
-[^key-7fdd7ef0e64c1a94cf4cada8c6e53460]: Commencement: Reg. F2 in operation at 2.11.1998, see reg. A1
+[^c-7fdd7ef0e64c1a94cf4cada8c6e53460]: Commencement: Reg. F2 in operation at 2.11.1998, see reg. A1

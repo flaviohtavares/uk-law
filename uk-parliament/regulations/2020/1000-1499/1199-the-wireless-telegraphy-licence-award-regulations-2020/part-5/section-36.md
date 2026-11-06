@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Maximum and minimum number of principal stage bids for 3.6 GHz lots, 700 MHz individual frequency lots and 700 MHz paired frequency lots[^key-3c875bc3a0af52aeba0c429cf9678b59]
+## 36. Maximum and minimum number of principal stage bids for 3.6 GHz lots, 700 MHz individual frequency lots and 700 MHz paired frequency lots[^c-3c875bc3a0af52aeba0c429cf9678b59]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In any principal stage round—
 
 ## Annotations
 
-[^key-3c875bc3a0af52aeba0c429cf9678b59]: Commencement: Reg. 36 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-3c875bc3a0af52aeba0c429cf9678b59]: Commencement: Reg. 36 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

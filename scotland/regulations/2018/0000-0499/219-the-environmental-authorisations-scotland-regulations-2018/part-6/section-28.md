@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) With effect from the date on which SEPA grants an application for transfer of a registration or permit, the person who was the authorised person immediately before the transfer ceases to be an authorised person (in respect of the part of the registration or permit being transferred[^key-b92625570db929389ce05859fa90f160]).
+(1) With effect from the date on which SEPA grants an application for transfer of a registration or permit, the person who was the authorised person immediately before the transfer ceases to be an authorised person (in respect of the part of the registration or permit being transferred[^c-b92625570db929389ce05859fa90f160]).
 
 (2) Where—
 
@@ -31,4 +31,4 @@ the duty to comply with the notice is also transferred to the proposed transfere
 
 ## Annotations
 
-[^key-b92625570db929389ce05859fa90f160]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2018/219/regulation/28/1) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [15](https://www.legislation.gov.uk/ssi/2025/165/regulation/15) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b92625570db929389ce05859fa90f160]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2018/219/regulation/28/1) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [15](https://www.legislation.gov.uk/ssi/2025/165/regulation/15) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment and saving of the Immigration Act 1971[^key-6f9222b91cf7bbbb81ff161f78d6a083][^M_I_30fb6fce-fa3e-46ed-9c0e-0dbe33ae649b]
+## 5. Amendment and saving of the Immigration Act 1971[^c-6f9222b91cf7bbbb81ff161f78d6a083][^M_I_30fb6fce-fa3e-46ed-9c0e-0dbe33ae649b]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6f9222b91cf7bbbb81ff161f78d6a083]: Commencement: Reg. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-6f9222b91cf7bbbb81ff161f78d6a083]: Commencement: Reg. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_30fb6fce-fa3e-46ed-9c0e-0dbe33ae649b]: Commencement: Reg. 5 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -42,15 +42,15 @@ The Department of Education, in exercise of the powers conferred on it by Articl
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-f6861b91b9dacd8ee36523a7bf19029e]
+### 1. Citation and commencement[^c-f6861b91b9dacd8ee36523a7bf19029e]
 
 These Regulations may be cited as the Education (Student Loans) Regulations (Northern Ireland) 1997 and shall come into operation on 1st August 1997.
 
-### 2. Revocations[^key-72587df7cf3664a25d23f4798a8244ef]
+### 2. Revocations[^c-72587df7cf3664a25d23f4798a8244ef]
 
 The Education (Student Loans) Regulations (Northern Ireland) 1996[^f00002] and the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 1996[^f00003] are hereby revoked.
 
-### 3. Interpretation[^key-40e9f9caa70015ae2a9f67fbd739b528]
+### 3. Interpretation[^c-40e9f9caa70015ae2a9f67fbd739b528]
 
 (1) In these Regulations—
 
@@ -77,7 +77,7 @@ The Education (Student Loans) Regulations (Northern Ireland) 1996[^f00002] and t
 
 ## Part II — Eligibility for loans
 
-### 4. Conditions of eligibility[^key-47b6ab322ca5dcfba5ef88c142372f99]
+### 4. Conditions of eligibility[^c-47b6ab322ca5dcfba5ef88c142372f99]
 
 (1) A student attending a course of higher education of at least one academic year’s duration shall be eligible for a loan in relation to an academic year which begins on or after 1st August 1997 if—
 
@@ -113,13 +113,13 @@ beginning in any period of twelve months beginning on 1st August in any year.
 
 ## Part III — Designation of courses
 
-### 5. Designation of courses by the Department[^key-a8f184e6c7e0e5d3745a501ffd53c8f6]
+### 5. Designation of courses by the Department[^c-a8f184e6c7e0e5d3745a501ffd53c8f6]
 
 For the purposes of Article 3 of the Order the Department may designate courses of higher education at institutions other than institutions receiving support from public funds.
 
 ## Part IV — Loans: Principal, interest and repayments
 
-### 6. Amounts of loans[^key-773a8b9e08d76adc709ff1c3baff1d6a]
+### 6. Amounts of loans[^c-773a8b9e08d76adc709ff1c3baff1d6a]
 
 (1) Subject to paragraphs (3) to (5), in the case of a student attending a course at the University of London or at any institution within the area comprising the City of London and the metropolitan police district, the maximum amount of the loan in relation to any academic year shall be—
 
@@ -137,7 +137,7 @@ For the purposes of Article 3 of the Order the Department may designate courses 
 
 (5) For the purposes of paragraphs (1) to (3), where a postgraduate course of initial training for teachers is of only one academic year’s duration that year shall not be treated as a final year, and for the purposes of paragraphs (1) and (2) a student’s place of residence is his place of residence on the date a certificate is given in respect of him pursuant to regulation 13.
 
-### 7. Interest[^key-cdb033338693cd286a6cab49701d8050]
+### 7. Interest[^c-cdb033338693cd286a6cab49701d8050]
 
 (1) Notwithstanding the revocation of the Education (Student Loans) Regulations (Northern Ireland) 1996 loans shall bear interest in respect of the period consisting of the month of August 1997 at the rate specified in regulation 7 of those Regulations.
 
@@ -147,7 +147,7 @@ For the purposes of Article 3 of the Order the Department may designate courses 
 
 (4) That percentage is the percentage increase between the retail prices index published by the Central Statistical Office for March 1996 and the retail prices index so published for March 1997.
 
-### 8. Time and manner of repayments[^key-57f358346a11fe09b20001913ab8646f]
+### 8. Time and manner of repayments[^c-57f358346a11fe09b20001913ab8646f]
 
 (1) Subject to paragraphs (2) and (3) and regulations 9 to 12 a borrower shall commence repayment of his loan on such day in the month of April next following the date on which he ceased to attend the course as the loans administrator may determine in his case (referred to in this regulation as “the determined date”).
 
@@ -176,14 +176,14 @@ For the purposes of Article 3 of the Order the Department may designate courses 
 
 (11) Nothing in this regulation shall be taken to prevent a borrower, after giving notice to the loans administrator, from discharging or with the agreement of the loans administrator reducing his liability in respect of his loan sooner than required by the regulation, and where a borrower wishes so to reduce his liability the amount and time of repayments shall be determined by the loans administrator and the provisions of this regulation (except paragraphs (5) and (10) shall no longer apply to the loan).
 
-### 9. Discretion of loans administrator[^key-2a5f71a209e5be6b2404948d15cfc8bd]
+### 9. Discretion of loans administrator[^c-2a5f71a209e5be6b2404948d15cfc8bd]
 
 Notwithstanding the provisions of regulation 8, the loans administrator may—
 
 - (a) if it is satisfied that granting a relaxation or indulgence to the borrower which does not vary the agreement for the loan represents a more effective means of recovering the debt due under the agreement than enforcing it according to its terms, grant any such relaxation or indulgence; or
 - (b) if the borrower is in breach of an obligation to repay any loan instalment and whether or not the loans administrator has notified him that he is entitled to defer making repayment in respect of other loan instalments under regulation 11, require the borrower to make an immediate repayment of the outstanding amount of the loan.
 
-### 10. Repayment by disabled borrowers[^key-1717df2f7b406cecaed515dfd685aaed]
+### 10. Repayment by disabled borrowers[^c-1717df2f7b406cecaed515dfd685aaed]
 
 (1) In the case of a borrower receiving any disability-related benefit at the beginning of or at any time during the period of repayment determined in accordance with regulation 8, the loans administrator may do all or any of the following, namely:
 
@@ -195,7 +195,7 @@ but interest on the loan shall continue to accrue and to be added to the outstan
 
 (2) The loans administrator may exercise any discretion conferred on it by paragraph (1) notwithstanding that the outstanding amount of the loan will not in consequence be fully repaid before the borrower’s liability in respect thereof is cancelled by virtue of paragraphs (1)(*b*) and (2) of regulation 12.
 
-### 11. Deferment[^key-1bb756fe0ebaa40d01278726c7e20585]
+### 11. Deferment[^c-1bb756fe0ebaa40d01278726c7e20585]
 
 (1) Subject to the provisions of this regulation, a borrower who has not been required to make an immediate repayment of the outstanding amount of his loan under regulation 9(*b*) shall be entitled to defer making repayments of his loan—
 
@@ -213,7 +213,7 @@ but interest on the loan shall continue to accrue and to be added to the outstan
 
 (6) Interest shall accrue on a loan and shall be added to the outstanding amount thereof during any period of deferment.
 
-### 12. Cancellation[^key-8101f17c8f3cd00942dfe944824aa5c6]
+### 12. Cancellation[^c-8101f17c8f3cd00942dfe944824aa5c6]
 
 (1) A borrower’s liability to make repayments in respect of all loans shall be cancelled if—
 
@@ -227,7 +227,7 @@ but interest on the loan shall continue to accrue and to be added to the outstan
 
 ## Part V — Higher education institutions: Duties
 
-### 13. Duties of governing bodies in relation to loans[^key-c81b952614bc27b38816340abfafabd4]
+### 13. Duties of governing bodies in relation to loans[^c-c81b952614bc27b38816340abfafabd4]
 
 (1) This regulation prescribes the steps to be taken by the governing body of each institution at which eligible students are attending courses for the purposes of, or in connection with, applications for loans.
 
@@ -295,14 +295,14 @@ Assistant Secretary
 
 Regulation 4(1)(*b*)(i)
 
-**1.**[^key-939e73069faf13ccab0eff8a9ba70927] The conditions prescribed for the purposes of regulation 4(1)(*b*)(i) are that, subject to paragraphs 3 and 4, the student—
+**1.**[^c-939e73069faf13ccab0eff8a9ba70927] The conditions prescribed for the purposes of regulation 4(1)(*b*)(i) are that, subject to paragraphs 3 and 4, the student—
 
 - (a) is on the relevant date ordinarily resident in Northern Ireland for the purposes of the Students Awards Regulations[^f00024] for the time being in force, made under Articles 50(1) and (2) and 134(1) of the Education and Libraries (Northern Ireland) Order 1986[^f00025];
 - (b) is on the relevant date settled in the United Kingdom within the meaning of the Immigration Act 1971[^f00026] unless he is such a person as is mentioned in paragraph 2;
 - (c) throughout the three years preceding the relevant date has been ordinarily resident in the United Kingdom, the Channel Islands or the Isle of Man or, in the case of such a person as is mentioned in paragraph 2, has been so resident in the European Economic Area; and
 - (d) has not during any part of the said three year period been resident in the United Kingdom, the Channel Islands or the Isle of Man or, in the case of such a person as is mentioned in paragraph 2, the European Economic Area wholly or mainly for the purpose of receiving full-time education.
 
-**2.**[^key-a081ec208a869e4350a726f012c815dc] (1) The person referred to in paragraph 1(*b*) to 1(*d*) is—
+**2.**[^c-a081ec208a869e4350a726f012c815dc] (1) The person referred to in paragraph 1(*b*) to 1(*d*) is—
 
 - (a) an EEA migrant worker who is entitled to a loan by virtue of Article 7(2) or (3) of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on free movement of workers within the community, as extended by the EEA Agreement[^f00027], or, where he is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than a national of another member State in relation to matters which are the subject of Article 7(2) and (3) of that Council Regulation;
 - (b) the spouse of an EEA migrant worker who is installed in the United Kingdom with his spouse; or
@@ -310,9 +310,9 @@ Regulation 4(1)(*b*)(i)
 
 (2) In sub-paragraph (1)(*c*) “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child, and “child” shall be construed accordingly.
 
-**3.**[^key-99ac54d24f0336f5e1c49019b502cd70] A person shall be treated for the purposes of paragraph 1 above as ordinarily resident in Northern Ireland; in the United Kingdom, the Channel Islands or the Isle of Man, or in the European Economic Area if he would have been so resident but for the fact that he, his spouse or his parent, guardian or any other person having parental responsibility for him, or any person having care of him while he is a child is, or was, temporarily employed outside Northern Ireland, outside the United Kingdom, the Channel Islands or the Isle of Man or, as the case may be, outside the European Economic Area and paragraph 1(*d*) shall not apply in the case of such a person.
+**3.**[^c-99ac54d24f0336f5e1c49019b502cd70] A person shall be treated for the purposes of paragraph 1 above as ordinarily resident in Northern Ireland; in the United Kingdom, the Channel Islands or the Isle of Man, or in the European Economic Area if he would have been so resident but for the fact that he, his spouse or his parent, guardian or any other person having parental responsibility for him, or any person having care of him while he is a child is, or was, temporarily employed outside Northern Ireland, outside the United Kingdom, the Channel Islands or the Isle of Man or, as the case may be, outside the European Economic Area and paragraph 1(*d*) shall not apply in the case of such a person.
 
-**4.**[^key-c0ad3c8cde045d44e81080b19630d5ea] Paragraph 1(*b*) shall not apply in the case of a person who—
+**4.**[^c-c0ad3c8cde045d44e81080b19630d5ea] Paragraph 1(*b*) shall not apply in the case of a person who—
 
 - (a) has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom;
 - (b) has been granted leave to enter or remain accordingly, and
@@ -320,14 +320,14 @@ Regulation 4(1)(*b*)(i)
 
 or in the case of the spouse or child of such a person.
 
-**5.**[^key-d1788f54243ef2fe334ecd6a9ccf265b] For the purposes of these Regulations an area which—
+**5.**[^c-d1788f54243ef2fe334ecd6a9ccf265b] For the purposes of these Regulations an area which—
 
 - (a) was previously not part of the area comprised by the member States of the European Community or by the European Economic Area, but
 - (b) at any time before or after these Regulations come into operation has become part of one or other or both of these areas
 
 shall be considered to have always been part of the European Economic Area.
 
-**6.**[^key-cbdf388e9428f0835baa3d6959e92c2d] In this Schedule—
+**6.**[^c-cbdf388e9428f0835baa3d6959e92c2d] In this Schedule—
 
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00028] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00029];
 - “EEA migrant worker” means a person who is a national of a Member State of the European Economic Area who has taken up an activity as an employed person in the United Kingdom—
@@ -357,15 +357,15 @@ The provisions relating to European Economic Area migrant workers have been amen
 
 [^f00001]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); as amended by [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274), Article 43 and Schedule 5 Part II
 
-[^key-f6861b91b9dacd8ee36523a7bf19029e]: Commencement: Reg. 1 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-f6861b91b9dacd8ee36523a7bf19029e]: Commencement: Reg. 1 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-72587df7cf3664a25d23f4798a8244ef]: Commencement: Reg. 2 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-72587df7cf3664a25d23f4798a8244ef]: Commencement: Reg. 2 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 349](https://www.legislation.gov.uk/nisr/1996/349)
 
 [^f00003]: Footnote: [S.R. 1996 No. 490](https://www.legislation.gov.uk/nisr/1996/490)
 
-[^key-40e9f9caa70015ae2a9f67fbd739b528]: Commencement: Reg. 3 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-40e9f9caa70015ae2a9f67fbd739b528]: Commencement: Reg. 3 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) (“the Great Britain Act”); amended by Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), sections 1 to 3, 5, 6, 8 to 11 and Schedules 1 and 2
 
@@ -389,29 +389,29 @@ The provisions relating to European Economic Area migrant workers have been amen
 
 [^f00014]: Footnote: Cmnd. 3906 (Out of print: photocopies are available, free of charge, from Student Support Branch, Department of Education, Rathgael House, Balloo Road, Bangor, Co Down BT19 7PR)
 
-[^key-47b6ab322ca5dcfba5ef88c142372f99]: Commencement: Reg. 4 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-47b6ab322ca5dcfba5ef88c142372f99]: Commencement: Reg. 4 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-a8f184e6c7e0e5d3745a501ffd53c8f6]: Commencement: Reg. 5 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-a8f184e6c7e0e5d3745a501ffd53c8f6]: Commencement: Reg. 5 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-773a8b9e08d76adc709ff1c3baff1d6a]: Commencement: Reg. 6 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-773a8b9e08d76adc709ff1c3baff1d6a]: Commencement: Reg. 6 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-cdb033338693cd286a6cab49701d8050]: Commencement: Reg. 7 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-cdb033338693cd286a6cab49701d8050]: Commencement: Reg. 7 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1980/51](https://www.legislation.gov.uk/uksi/1980/51); amended by [S.I. 1985/1192](https://www.legislation.gov.uk/uksi/1985/1192) and [1989/596](https://www.legislation.gov.uk/uksi/1989/596)
 
-[^key-57f358346a11fe09b20001913ab8646f]: Commencement: Reg. 8 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-57f358346a11fe09b20001913ab8646f]: Commencement: Reg. 8 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-2a5f71a209e5be6b2404948d15cfc8bd]: Commencement: Reg. 9 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-2a5f71a209e5be6b2404948d15cfc8bd]: Commencement: Reg. 9 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-1717df2f7b406cecaed515dfd685aaed]: Commencement: Reg. 10 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-1717df2f7b406cecaed515dfd685aaed]: Commencement: Reg. 10 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-1bb756fe0ebaa40d01278726c7e20585]: Commencement: Reg. 11 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-1bb756fe0ebaa40d01278726c7e20585]: Commencement: Reg. 11 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-8101f17c8f3cd00942dfe944824aa5c6]: Commencement: Reg. 12 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-8101f17c8f3cd00942dfe944824aa5c6]: Commencement: Reg. 12 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-c81b952614bc27b38816340abfafabd4]: Commencement: Reg. 13 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-c81b952614bc27b38816340abfafabd4]: Commencement: Reg. 13 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00017]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20)
 
@@ -427,7 +427,7 @@ The provisions relating to European Economic Area migrant workers have been amen
 
 [^f00023]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
-[^key-939e73069faf13ccab0eff8a9ba70927]: Commencement: Sch. para. 1 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-939e73069faf13ccab0eff8a9ba70927]: Commencement: Sch. para. 1 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00024]: Footnote: The regulations in force on the date these Regulations are made are the Students Awards Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 298](https://www.legislation.gov.uk/nisr/1996/298)) and the provision therein corresponding to paragraph 3 of the Schedule to these Regulations is regulation 7(1).
 
@@ -435,17 +435,17 @@ The provisions relating to European Economic Area migrant workers have been amen
 
 [^f00026]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), Section 39 and Schedule 4, by the Immigration Act [1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), sections 1, 3, 4, 6 and 10 and the Schedule, by the Asylum and Immigration Appeals Act [1993 (c. 23)](https://www.legislation.gov.uk/ukpga/1993/23), sections 10 to 12
 
-[^key-a081ec208a869e4350a726f012c815dc]: Commencement: Sch. para. 2 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-a081ec208a869e4350a726f012c815dc]: Commencement: Sch. para. 2 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00027]: Footnote: O.J. No. L257, 19.10.68, p. 2 (O.J./S.E. 1968 (II) p. 475)
 
-[^key-99ac54d24f0336f5e1c49019b502cd70]: Commencement: Sch. para. 3 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-99ac54d24f0336f5e1c49019b502cd70]: Commencement: Sch. para. 3 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-c0ad3c8cde045d44e81080b19630d5ea]: Commencement: Sch. para. 4 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-c0ad3c8cde045d44e81080b19630d5ea]: Commencement: Sch. para. 4 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-d1788f54243ef2fe334ecd6a9ccf265b]: Commencement: Sch. para. 5 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-d1788f54243ef2fe334ecd6a9ccf265b]: Commencement: Sch. para. 5 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
-[^key-cbdf388e9428f0835baa3d6959e92c2d]: Commencement: Sch. para. 6 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
+[^c-cbdf388e9428f0835baa3d6959e92c2d]: Commencement: Sch. para. 6 in operation at 1.8.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/350/regulation/1)
 
 [^f00028]: Footnote: Cmnd, 2073
 

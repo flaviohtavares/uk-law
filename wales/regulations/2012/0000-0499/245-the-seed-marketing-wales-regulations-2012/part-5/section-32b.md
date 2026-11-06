@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32B. Transitional provision for official labels on implementation period completion day[^key-687970eed545f262c25e0672b755272e]
+## 32B. Transitional provision for official labels on implementation period completion day[^c-687970eed545f262c25e0672b755272e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of regulation 17 and paragraphs 7(1)(a) and 8(1)(a) of Schedule
 
 ## Annotations
 
-[^key-687970eed545f262c25e0672b755272e]: Textual amendment: [Regs. 32A](https://www.legislation.gov.uk/wsi/2012/245/regulation/32A), [32B](https://www.legislation.gov.uk/wsi/2012/245/regulation/32B) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/uksi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/368/regulation/1/2/b), [4(10)](https://www.legislation.gov.uk/uksi/2019/368/regulation/4/10) (as amended by [S.I. 2020/1573](https://www.legislation.gov.uk/uksi/2020/1573), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/1/2/b), [4(3)(g)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/4/3/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-687970eed545f262c25e0672b755272e]: Textual amendment: [Regs. 32A](https://www.legislation.gov.uk/wsi/2012/245/regulation/32A), [32B](https://www.legislation.gov.uk/wsi/2012/245/regulation/32B) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/uksi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/368/regulation/1/2/b), [4(10)](https://www.legislation.gov.uk/uksi/2019/368/regulation/4/10) (as amended by [S.I. 2020/1573](https://www.legislation.gov.uk/uksi/2020/1573), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/1/2/b), [4(3)(g)](https://www.legislation.gov.uk/uksi/2020/1573/regulation/4/3/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

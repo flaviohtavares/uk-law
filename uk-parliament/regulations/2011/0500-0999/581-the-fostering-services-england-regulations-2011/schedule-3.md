@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Information as to prospective foster parent (“X”) and other members of their household and family[^key-4a5300398ac8caa5e949488eeeb6efad]
+## SCHEDULE 3 — Information as to prospective foster parent (“X”) and other members of their household and family[^c-4a5300398ac8caa5e949488eeeb6efad]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ Regulation 26(1A) and (2)
 
 ## Annotations
 
-[^key-4a5300398ac8caa5e949488eeeb6efad]: Textual amendment: Sch. 3 substituted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/984/regulation/12)
+[^c-4a5300398ac8caa5e949488eeeb6efad]: Textual amendment: Sch. 3 substituted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/984/regulation/12)

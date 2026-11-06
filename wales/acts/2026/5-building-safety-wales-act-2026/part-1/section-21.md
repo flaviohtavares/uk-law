@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Duty to notify changes[^key-dd8e2281a94228066e78140111d2f477]
+## 21. Duty to notify changes[^c-dd8e2281a94228066e78140111d2f477]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ before the end of 14 days beginning with the first day on which the principal ac
 
 ## Annotations
 
-[^key-dd8e2281a94228066e78140111d2f477]: Commencement: S. 21 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-dd8e2281a94228066e78140111d2f477]: Commencement: S. 21 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

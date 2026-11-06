@@ -45,7 +45,7 @@ In accordance with section 122(10)(b), (c), (e), (h), (l), (m), (o), (q) and (r)
 
 ## PART 1 — Introductory
 
-### 1. Title and coming into force[^key-a6bc8b253ec77d3201f022e5711e5833]
+### 1. Title and coming into force[^c-a6bc8b253ec77d3201f022e5711e5833]
 
 (1) The title of these Regulations is the Procurement (Wales) Regulations 2024.
 
@@ -53,7 +53,7 @@ In accordance with section 122(10)(b), (c), (e), (h), (l), (m), (o), (q) and (r)
 
 (3) Part 1 and regulation 47(1) and (2) come into force on the day after the day on which these Regulations are made.
 
-### 2. Application[^key-a4b31b22708e0687798bbd3ccd774ff3]
+### 2. Application[^c-a4b31b22708e0687798bbd3ccd774ff3]
 
 (1) These Regulations apply to—
 
@@ -65,23 +65,23 @@ In accordance with section 122(10)(b), (c), (e), (h), (l), (m), (o), (q) and (r)
 - “**devolved Welsh authority**” (“***awdurdod Cymreig datganoledig***”) has the meaning given by section 157A of the Government of Wales Act 2006[^f00004];
 - “**devolved Welsh procurement arrangement**” (“***trefniant caffael Cymreig datganoledig***”) has the meaning given in section 114(2) of the Procurement Act 2023.
 
-### 3. Interpretation[^key-4cda5ca14b70cf6b394918d3a52801de]
+### 3. Interpretation[^c-4cda5ca14b70cf6b394918d3a52801de]
 
 In these Regulations—
 
 - “**the 2023 Act**” (“***Deddf 2023***”) means the Procurement Act 2023;
 - “**contracting authority**” (“***awdurdod contractio***”) has the meaning given by section 2(1) of the 2023 Act;
 - “**CPV**” (“***GGG***”) means the Common Procurement Vocabulary as adopted by Regulation [(EC) No 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council of 5 November 2002 on the Common Procurement Vocabulary[^f00005];
-- “[^key-ccc2a0bad12c2a31343fdf83fb6544b9]**utilities contract**” (“***contract cyfleustodau***”) has the meaning given by section 6 of the 2023 Act.
-- “[^key-53d7d2c3ecaf3384f365927f3120d21c]**utility**” (“***cyfleustod***”) has the meaning given by section 35(4) of the 2023 Act.
+- “[^c-ccc2a0bad12c2a31343fdf83fb6544b9]**utilities contract**” (“***contract cyfleustodau***”) has the meaning given by section 6 of the 2023 Act.
+- “[^c-53d7d2c3ecaf3384f365927f3120d21c]**utility**” (“***cyfleustod***”) has the meaning given by section 35(4) of the 2023 Act.
 
 ## PART 2 — Transparency
 
-### 4. Interpretation of Part 2[^key-aebdeca44335e85f5e9596a558ce352e]
+### 4. Interpretation of Part 2[^c-aebdeca44335e85f5e9596a558ce352e]
 
 In this Part—
 
-- “**CA 2006**” (“DC 2006”)[^key-3063e6f0da5ab5fe3888965e42100631] means the Companies Act 2006[^f00006];
+- “**CA 2006**” (“DC 2006”)[^c-3063e6f0da5ab5fe3888965e42100631] means the Companies Act 2006[^f00006];
 - “**alternative online system**” (“***system ar-lein arall***”) has the meaning given by regulation 5(11);
 - “**appropriate authority**” (“***awdurdod priodol***”) has the meaning given by section 123 of the 2023 Act;“**associated tender document**” (“***dogfen dendro gysylltiedig***”) has the meaning given by section 21(4) of the 2023 Act;
 - “**award criteria**” (“***meini prawf dyfarnu***”) has the meaning given by section 23(1) of the 2023 Act;
@@ -127,12 +127,12 @@ In this Part—
 - “**transparency notice**” (“***hysbysiad tryloywder***”) has the meaning given by section 44(2) of the 2023 Act;
 - “**unavailable**” (“***heb fod ar gael***”) means that the Welsh digital platform has not been operational for not less than 4 hours;
 - “**unique identifier**” (“***cod adnabod unigryw***”) has the meaning given by regulation 9;
-- [^key-7c46816507e1ba2d8a95bf273ea70933]...
-- [^key-279835455d5289b8f54d82f5706cdbb7]...
-- “[^key-a40322833fa12faf176ed29f753fb53e]**Welsh digital platform**” (“***platfform digidol Cymreig***”) means the online system provided by the Welsh Government for use by contracting authorities to whom regulation 2 applies;
+- [^c-7c46816507e1ba2d8a95bf273ea70933]...
+- [^c-279835455d5289b8f54d82f5706cdbb7]...
+- “[^c-a40322833fa12faf176ed29f753fb53e]**Welsh digital platform**” (“***platfform digidol Cymreig***”) means the online system provided by the Welsh Government for use by contracting authorities to whom regulation 2 applies;
 - “**works**” (“***gweithiau***”) has the meaning given by regulation 45.
 
-### 5. Publication of notices on central digital platform[^key-b919f9ddd0f68138c3e11777731cb5b2]
+### 5. Publication of notices on central digital platform[^c-b919f9ddd0f68138c3e11777731cb5b2]
 
 (1) A notice, document or information which is published or given under a provision of the 2023 Act listed in paragraph (5) must first be published or given, by the contracting authority publishing it on the central digital platform.
 
@@ -209,7 +209,7 @@ In this Part—
 
 (12) Nothing in this regulation prevents a contracting authority from publishing the notice, document or information somewhere other than on the central digital platform, the Welsh digital platform or alternative online system but the authority must not do so before complying with the requirements of paragraph (1) or (6).
 
-### 6. Sharing core supplier information through central digital platform[^key-e34a321cca346c031d0ef6629ef1dec4]
+### 6. Sharing core supplier information through central digital platform[^c-e34a321cca346c031d0ef6629ef1dec4]
 
 (1) This regulation applies to a contracting authority where a supplier shares core supplier information with the authority during a procedure listed in paragraph (2) with a view to the award of a public contract.
 
@@ -263,7 +263,7 @@ the contracting authority must obtain confirmation from the supplier of the matt
 
 (11) This regulation is subject to regulation 8.
 
-### 7. Supplier information for notifiable below-threshold contracts[^key-31ce68bb66931058239f61a9978b6203]
+### 7. Supplier information for notifiable below-threshold contracts[^c-31ce68bb66931058239f61a9978b6203]
 
 (1) Before a supplier participates in a notifiable below-threshold procurement carried out by a contracting authority, the authority must ensure that the supplier has registered on the central digital platform.
 
@@ -274,7 +274,7 @@ the contracting authority must obtain confirmation from the supplier of the matt
 - “**notifiable below-threshold contract**” (“***contract hysbysadwy sydd o dan y trothwy***”) has the meaning given by section 87(4) of the 2023 Act;
 - “**notifiable below-threshold procurement**” (“***caffaeliad hysbysadwy sydd o dan y trothwy***”) means the award, entry into and management of a notifiable below-threshold contract.
 
-### 8. Core supplier information: platform not working, urgency, private utilities[^key-ef742cdca835098f89c90492af5aa182]
+### 8. Core supplier information: platform not working, urgency, private utilities[^c-ef742cdca835098f89c90492af5aa182]
 
 (1) Where, in respect of core supplier information shared during an open procedure or a competitive flexible procedure, a contracting authority cannot obtain confirmation from the supplier of the matters in regulation 6(5) before the end of the tendering period due to the reason in paragraph (2), paragraph (3) applies.
 
@@ -289,7 +289,7 @@ the contracting authority must obtain confirmation from the supplier of the matt
 
 (5) Regulation 6 does not apply to a private utility in the case of a direct award of a public contract pursuant to paragraphs 13 and 14 of Schedule 5 to the 2023 Act (urgency).
 
-### 9. Unique identifiers and exemption from publishing them on the Welsh digital platform or alternative online system[^key-fb943310f543c9a9aed2b38ec19cd17e]
+### 9. Unique identifiers and exemption from publishing them on the Welsh digital platform or alternative online system[^c-fb943310f543c9a9aed2b38ec19cd17e]
 
 (1) In this Part, “**unique identifier**” means—
 
@@ -312,7 +312,7 @@ the unique code which is submitted to the central digital platform and is recogn
 
 (3) The contracting authority is not required to publish any unique identifier in accordance with this Part until that notice, document or information is subsequently published on the central digital platform under regulation 5(10).
 
-### 10. Supplier’s basic information[^key-2b4a2d7898f11c0aa3dcaae8f3b0bac3]
+### 10. Supplier’s basic information[^c-2b4a2d7898f11c0aa3dcaae8f3b0bac3]
 
 (1) This regulation sets out the supplier’s basic information.
 
@@ -349,7 +349,7 @@ the unique code which is submitted to the central digital platform and is recogn
   - (iii) a supported employment provider, or
   - (iv) a public service mutual.
 
-### 11. Supplier’s economic and financial standing information[^key-0bdc9b87f28dead745ad1706d2c43bad]
+### 11. Supplier’s economic and financial standing information[^c-0bdc9b87f28dead745ad1706d2c43bad]
 
 (1) This regulation sets out the supplier’s economic and financial standing information.
 
@@ -367,7 +367,7 @@ the unique code which is submitted to the central digital platform and is recogn
 
 (3) In paragraph (2)(a) and (b) “**financial year**” has the same meaning as in section 390 of the CA 2006.
 
-### 12. Supplier’s connected person information[^key-893dc98d5aa32295e2189c04171f4fda]
+### 12. Supplier’s connected person information[^c-893dc98d5aa32295e2189c04171f4fda]
 
 (1) This regulation sets out the supplier’s connected person information.
 
@@ -400,8 +400,8 @@ the unique code which is submitted to the central digital platform and is recogn
 - (c) the connected person’s service address,
 - (d) the connected person’s legal form and the law by which it is governed,
 - (e) which of the specified conditions in Part 1 of Schedule 1A to the CA 2006 applies,
-- (f) the date when the connected person became registrable as a relevant legal entity, if applicable, [^key-267a5dc9df3c72e8e80b5ad763b2e862]...
-- (g) the name of the PSC register on which the connected person is registered as a relevant legal entity, if applicable [^key-746ed9527749927bce2a474ee804c2b9]... , and[^M_F_ad220037-f7b8-48a1-d351-7732302a768a]
+- (f) the date when the connected person became registrable as a relevant legal entity, if applicable, [^c-267a5dc9df3c72e8e80b5ad763b2e862]...
+- (g) the name of the PSC register on which the connected person is registered as a relevant legal entity, if applicable [^c-746ed9527749927bce2a474ee804c2b9]... , and[^M_F_ad220037-f7b8-48a1-d351-7732302a768a]
 - (h) where the connected person is a company registered under the CA 2006, the person’s registration number given under that Act.
 
 (7) Paragraph (8) sets out the information where—
@@ -488,9 +488,9 @@ the unique code which is submitted to the central digital platform and is recogn
 - “**service address**” (“***cyfeiriad cyflwyno***”) has the meaning given by section 1141 of the CA 2006;
 - the terms “**director**” (“***cyfarwyddwr***”), “**parent undertaking**” (“***rhiant-ymgymeriad***”), “**subsidiary undertaking**” (“***is-ymgymeriad***”), “**predecessor company**” (“***cwmni rhagflaenol***”) and “**shadow director**” (“***cyfarwyddwr cysgodol***”) have the same meaning given by paragraph 45 of Schedule 6 to the 2023 Act.
 
-### 13. Supplier’s exclusion grounds information[^key-8a8e0c2616274bb257897b8e3ece165e]
+### 13. Supplier’s exclusion grounds information[^c-8a8e0c2616274bb257897b8e3ece165e]
 
-(1) Paragraphs (2) to (13A)[^key-3ef732d1ff87aa5922d5758dda091977] set out the supplier’s exclusion grounds information.
+(1) Paragraphs (2) to (13A)[^c-3ef732d1ff87aa5922d5758dda091977] set out the supplier’s exclusion grounds information.
 
 (2) Whether the supplier or a connected person has been convicted of an offence referred to in the following paragraphs of Schedule 6 to the 2023 Act—
 
@@ -545,7 +545,7 @@ the unique code which is submitted to the central digital platform and is recogn
 (8) Whether, in respect of paragraph 7 of Schedule 7 to the 2023 Act (potential competition infringements)—
 
 - (a) the supplier or a connected person has been, or is being, investigated over whether an agreement or concerted practice to which the supplier or a connected person is party has infringed—
-  - (i) the Chapter 1 prohibition (within the meaning given by section 2 of the Competition Act 1998[^f00018]) or[^key-19869834c029143693bc02e80fb9ed7e],
+  - (i) the Chapter 1 prohibition (within the meaning given by section 2 of the Competition Act 1998[^f00018]) or[^c-19869834c029143693bc02e80fb9ed7e],
   - (ii) any substantially similar prohibition applicable in a jurisdiction outside the United Kingdom, or
 - (b) an agreement or concerted practice to which the supplier or a connected person is party has infringed such prohibitions,
 
@@ -584,11 +584,11 @@ except in the circumstances mentioned in sub-paragraph (2) of paragraph 10 of Sc
 - (c) the person’s name, contact postal address and email address,
 - (d) in the case of a conviction or other event where there is a recorded decision of a public authority which is the authoritative basis for the conviction or other event—
   - (i) a link to the web page where the decision can be accessed, or
-  - (ii) a copy of the decision and[^key-0af608303d75368b8bc54dbb52dc7405],
-- (e)[^key-20cada14f15a1366c957ae80398eca37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) a copy of the decision and[^c-0af608303d75368b8bc54dbb52dc7405],
+- (e)[^c-20cada14f15a1366c957ae80398eca37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) if the circumstances which led to the event have ended, the date when they ended.
 
-(13A)[^key-b5aa60f2e966782599dfddb928775b36] If the supplier or one or more connected persons has been the subject of an event mentioned in paragraphs (2) to (12), any evidence that the supplier or connected person—
+(13A)[^c-b5aa60f2e966782599dfddb928775b36] If the supplier or one or more connected persons has been the subject of an event mentioned in paragraphs (2) to (12), any evidence that the supplier or connected person—
 
 - (a) took the event seriously, for example by paying any fine or compensation,
 - (b) took steps to prevent the event occurring again, for example by changing staff or management, or putting procedures or training in place, and
@@ -601,7 +601,7 @@ except in the circumstances mentioned in sub-paragraph (2) of paragraph 10 of Sc
 
 (15) In this regulation, “**professional misconduct**” has the meaning given by paragraph 11(3) of Schedule 7 to the 2023 Act.
 
-### 14. Contracting authority information[^key-ead1d3a9c3f17e8e62b0adf16c9525d2]
+### 14. Contracting authority information[^c-ead1d3a9c3f17e8e62b0adf16c9525d2]
 
 In this Part, “**contracting authority information**” means—
 
@@ -618,7 +618,7 @@ In this Part, “**contracting authority information**” means—
   - (iv) a summary of the person’s role, and
 - (f) in respect of a notice published by the contracting authority, the name, contact postal address and email address of the person who should be contacted in the event of an enquiry about the notice.
 
-### 15. Contract subject-matter[^key-66858b8da0e86bc9258e3df24de6ec44]
+### 15. Contract subject-matter[^c-66858b8da0e86bc9258e3df24de6ec44]
 
 (1) In this Part, “**contract subject-matter**” means the following information, so far as it is known to the contracting authority when the information is published—
 
@@ -635,7 +635,7 @@ In this Part, “**contracting authority information**” means—
 - (a) the area where the goods, services or works are to be supplied in the United Kingdom, by reference to the relevant ITL 1, ITL 2, and ITL 3 areas listed on the webpage entitled “International Geographies” on the website for the Office of National Statistics[^f00020] as amended from time to time, or
 - (b) where the goods, services or works are to be supplied outside the United Kingdom, the name of the country and, where appropriate, the region where they are to be supplied.
 
-### 16. Pipeline notices[^key-2540e4e94f85adedb4c1c7b776a3d361]
+### 16. Pipeline notices[^c-2540e4e94f85adedb4c1c7b776a3d361]
 
 (1) This regulation sets out what information must be included in a pipeline notice published under section 93(2) of the 2023 Act.
 
@@ -651,7 +651,7 @@ In this Part, “**contracting authority information**” means—
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other relevant information in the notice.
 
-### 17. Planned procurement notices[^key-31adf9fbea537fcd2761e017ba93d587]
+### 17. Planned procurement notices[^c-31adf9fbea537fcd2761e017ba93d587]
 
 (1) This regulation sets out other information which must be included in a planned procurement notice published under section 15(1) of the 2023 Act.
 
@@ -674,7 +674,7 @@ In this Part, “**contracting authority information**” means—
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in a planned procurement notice.
 
-### 18. Preliminary market engagement notices[^key-86b15c7f0209b2055771f7f2b1b8d560]
+### 18. Preliminary market engagement notices[^c-86b15c7f0209b2055771f7f2b1b8d560]
 
 (1) This regulation sets out other information which must be included in a preliminary market engagement notice published under section 17(1)(a) of the 2023 Act.
 
@@ -693,7 +693,7 @@ In this Part, “**contracting authority information**” means—
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 19. Tender notices: open procedure[^key-7e2e0a2cffe2578f983f09b1211a39c9]
+### 19. Tender notices: open procedure[^c-7e2e0a2cffe2578f983f09b1211a39c9]
 
 (1) This regulation sets out other information which must be included in a tender notice for the award of a public contract through an open procedure published under section 21(1)(a) of the 2023 Act.
 
@@ -751,7 +751,7 @@ In this Part, “**contracting authority information**” means—
   - (i) the title of each associated tender document,
   - (ii) whether each associated tender document is attached to the tender notice, and
   - (iii) if an associated tender document is not attached to the tender notice, a link to the web page where it is provided,
-- (v)[^key-273f9dc48326b56ad330c9bb8621e883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (v)[^c-273f9dc48326b56ad330c9bb8621e883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (w) a description of any technical specifications which are expected to be met or a cross reference to where they can be accessed,
 - (x) a description of any conditions of participation under section 22 of the 2023 Act,
 - (y) any payment terms (in addition to those set out in section 68 of the 2023 Act),
@@ -766,7 +766,7 @@ In this Part, “**contracting authority information**” means—
 
 (5) This regulation does not apply to a tender notice for the award of a framework through an open procedure (see instead regulation 21).
 
-### 20. Tender notices: competitive flexible procedure[^key-00c8c9ff4fc860a5522cd9ccdafdb4fb]
+### 20. Tender notices: competitive flexible procedure[^c-00c8c9ff4fc860a5522cd9ccdafdb4fb]
 
 (1) This regulation sets out other information which must be included in a tender notice for the award of a public contract through a competitive flexible procedure published in accordance with section 21(1)(b) of the 2023 Act.
 
@@ -780,10 +780,10 @@ In this Part, “**contracting authority information**” means—
 - (d) where the number of suppliers is, or may be, no more than a maximum number of suppliers, generally or in respect of particular tendering rounds or other selection processes, the maximum number of suppliers and the criteria used to select the limited number of suppliers,
 - (e) where the number of suppliers is, or may be, no less than an intended minimum number of suppliers, generally or in respect of particular tendering rounds or other selection processes, the intended minimum number of suppliers,
 - (f) where the tender notice is being used for the purpose of inviting suppliers to submit a request to participate, how requests to participate may be submitted and the date by when they must be submitted,
-- (g) where the tender notice is being used for the purpose of inviting suppliers to submit their first, or only, tender, how tenders may be submitted and the date by when they must be submitted, [^key-a81ac8bf7eeac49e4c37967003d4cdbd]...
+- (g) where the tender notice is being used for the purpose of inviting suppliers to submit their first, or only, tender, how tenders may be submitted and the date by when they must be submitted, [^c-a81ac8bf7eeac49e4c37967003d4cdbd]...
 - (h) whether the tender notice is being used—
   - (i) to reserve a contract to supported employment providers in accordance with section 32 of the 2023 Act, or
-  - (ii) to reserve a contract to public service mutuals in accordance with section 33 of the 2023 Act[^key-088a01f6ffa5037ecbba9c8cc90b3193]..., and[^key-b894f769cb3b6092aed6b8a4bca4f6d8]
+  - (ii) to reserve a contract to public service mutuals in accordance with section 33 of the 2023 Act[^c-088a01f6ffa5037ecbba9c8cc90b3193]..., and[^c-b894f769cb3b6092aed6b8a4bca4f6d8]
 - (i) whether an associated tender document is being, or may be, provided in accordance with the tender notice after the date when that notice is published and, if so, a link to the web page where it will be provided, or an explanation of how the document will be provided.
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
@@ -793,7 +793,7 @@ In this Part, “**contracting authority information**” means—
 - (a) a tender notice for the award of a framework through a competitive flexible procedure (see instead regulation 21), or
 - (b) a tender notice for the award of a public contract by reference to suppliers’ membership of a dynamic market (see instead regulation 22).
 
-### 21. Tender notices: frameworks[^key-e3650656d8275fdd49bb91063ef03819]
+### 21. Tender notices: frameworks[^c-e3650656d8275fdd49bb91063ef03819]
 
 (1) This regulation sets out other information which must be included in a tender notice for the award of a framework published under section 21(1) of the 2023 Act.
 
@@ -822,7 +822,7 @@ In this Part, “**contracting authority information**” means—
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 22. Tender notices: dynamic markets except qualifying utilities dynamic markets[^key-fd6a348f00f68c51ae8b9261ed428c01]
+### 22. Tender notices: dynamic markets except qualifying utilities dynamic markets[^c-fd6a348f00f68c51ae8b9261ed428c01]
 
 (1) This regulation sets out other information which must be included in a tender notice for the award of a public contract by reference to suppliers’ membership of a dynamic market published under sections 21(1)(b) and 34(1) of the 2023 Act.
 
@@ -839,7 +839,7 @@ In this Part, “**contracting authority information**” means—
 
 (4) This regulation does not apply to a tender notice of the type mentioned in regulation 23(1).
 
-### 23. Tender notices: qualifying utilities dynamic market notices[^key-3f2b20e772ea9a0662380572f3bbadad]
+### 23. Tender notices: qualifying utilities dynamic market notices[^c-3f2b20e772ea9a0662380572f3bbadad]
 
 (1) This regulation sets out other information which must be included in a tender notice for the award of a public contract by reference to a utilities dynamic market established under a qualifying utilities dynamic market notice provided under section 40(2) or (3) of the 2023 Act.
 
@@ -869,7 +869,7 @@ In this Part, “**contracting authority information**” means—
 
 (5) Nothing in this regulation prevents a contracting authority from providing other information in the notice.
 
-### 24. Associated tender documents[^key-a7af65d4b41ecc4c091339c0100dbdb9]
+### 24. Associated tender documents[^c-a7af65d4b41ecc4c091339c0100dbdb9]
 
 (1) This regulation sets out what information may be included in an associated tender document provided under section 21(3) of the 2023 Act in accordance with a tender notice.
 
@@ -881,7 +881,7 @@ In this Part, “**contracting authority information**” means—
 - (d) regulation 22(2), or
 - (e) regulation 23(2).
 
-### 25. Below-threshold tender notices[^key-08ffbbb9ebf0e24a95a9e7051705bc11]
+### 25. Below-threshold tender notices[^c-08ffbbb9ebf0e24a95a9e7051705bc11]
 
 (1) This regulation sets out other information which must be included in a below-threshold tender notice published under section 87(1) of the 2023 Act.
 
@@ -906,7 +906,7 @@ In this Part, “**contracting authority information**” means—
 
 (4) In this regulation “**below-threshold tender notice**” has the meaning given by section 87(5) of the 2023 Act.
 
-### 26. Dynamic market notices (including qualifying utilities dynamic market notices)[^key-54df945d1576548efbf7f84b4840571c]
+### 26. Dynamic market notices (including qualifying utilities dynamic market notices)[^c-54df945d1576548efbf7f84b4840571c]
 
 (1) Paragraph (2) sets out other information which must be included in a dynamic market notice published under section 39(2) of the 2023 Act (dynamic market notices: intention to establish a dynamic market).
 
@@ -1002,7 +1002,7 @@ In this Part, “**contracting authority information**” means—
 
 (9) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in a dynamic market notice.
 
-### 27. Transparency notices[^key-ccbc4e01cf484a5ea61c0197d558a3ea]
+### 27. Transparency notices[^c-ccbc4e01cf484a5ea61c0197d558a3ea]
 
 (1) This regulation sets out other information which must be included in a transparency notice published under section 44(1) of the 2023 Act.
 
@@ -1012,7 +1012,7 @@ In this Part, “**contracting authority information**” means—
 - (b) the title of the procurement,
 - (c) the unique identifier for the procurement,
 - (d) in the case of a procurement where there has been a switch to a direct award in accordance with section 43 of the 2023 Act, the unique identifier allocated to the procurement before the switch to direct award,
-- (da)[^key-8a40e23720c77857145f500f3ef7d146] in the case of a procurement where the direct award justification at paragraph 8 of Schedule 5 to the 2023 Act applies, the unique identifiers of the earlier competitive tendering procedure (that is the procurement identifier) and the earlier contract referred to in paragraph 8(a) of Schedule 5,
+- (da)[^c-8a40e23720c77857145f500f3ef7d146] in the case of a procurement where the direct award justification at paragraph 8 of Schedule 5 to the 2023 Act applies, the unique identifiers of the earlier competitive tendering procedure (that is the procurement identifier) and the earlier contract referred to in paragraph 8(a) of Schedule 5,
 - (e) the unique identifier for the contract, if this is known when the transparency notice is published,
 - (f) the contract subject-matter,
 - (g) whether the contract is a special regime contract and, if so, whether it is—
@@ -1023,8 +1023,8 @@ In this Part, “**contracting authority information**” means—
 - (i) if sub-paragraph (h) applies, the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
 - (j) whether the contract is being awarded directly to a supplier that is an excluded supplier because the contracting authority considers that there is an overriding public interest in awarding the contract to that supplier in accordance with section 41(2) to (5) of the 2023 Act,
 - (k) if sub-paragraph (j) applies—
-  - (i) the offence or other event mentioned in Schedule 6 to the 2023 Act by virtue of which the supplier is an excluded supplier, [^key-01c2fa9f0dcba94866ba5686575008c5]...
-  - (ii) which ground in section 41(5) of the 2023 Act applies and an explanation of why the contracting authority considers that it applies, and[^key-a6669508e7d8681d9308dd2b30e3cdcc]
+  - (i) the offence or other event mentioned in Schedule 6 to the 2023 Act by virtue of which the supplier is an excluded supplier, [^c-01c2fa9f0dcba94866ba5686575008c5]...
+  - (ii) which ground in section 41(5) of the 2023 Act applies and an explanation of why the contracting authority considers that it applies, and[^c-a6669508e7d8681d9308dd2b30e3cdcc]
   - (iii) the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
 - (l) whether the contract is being awarded directly to a supplier pursuant to regulations made under section 42 of the 2023 Act (direct award to protect life, etc.),
 - (m) if sub-paragraph (l) applies, the title and registration number of the statutory instrument containing those regulations,
@@ -1033,7 +1033,7 @@ In this Part, “**contracting authority information**” means—
 - (p) whether the contract is being awarded by reference to lots and, if so—
   - (i) the title of each lot, and
   - (ii) the distinct number given to each lot by the contracting authority,
-- (pa)[^key-ec07631986fa05337e4a3dd1a4282d06] a description of any option which will be included in the contract—
+- (pa)[^c-ec07631986fa05337e4a3dd1a4282d06] a description of any option which will be included in the contract—
   - (i) to supply additional goods, services or works, or
   - (ii) to extend or renew the term of the contract,
 - (q) the estimated value of the contract,
@@ -1058,7 +1058,7 @@ In this Part, “**contracting authority information**” means—
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 28. Contract award notices except those published by private utilities[^key-c6bf54676aa7432f651cf2a5bc5b5eeb]
+### 28. Contract award notices except those published by private utilities[^c-c6bf54676aa7432f651cf2a5bc5b5eeb]
 
 (1) This regulation sets out other information which must be included in a contract award notice published by a contracting authority under section 50(1) of the 2023 Act.
 
@@ -1084,7 +1084,7 @@ In this Part, “**contracting authority information**” means—
     - (bb) a non-governmental organisation that is value-driven and which principally reinvests its surpluses to further social, environmental or cultural objectives,
     - (cc) a supported employment provider, or
     - (dd) a public service mutual,
-  - (vi) for each associated person of the supplier, the person’s name and contact postal address [^key-ba7f7882c8627ff439af27887857d424]..., and
+  - (vi) for each associated person of the supplier, the person’s name and contact postal address [^c-ba7f7882c8627ff439af27887857d424]..., and
   - (vii) the supplier’s connected person information in accordance with regulation 12, but reading paragraphs (4)(a) and (8)(a) of that regulation as if each reference to date of birth were a reference to month and year of birth, subject to paragraph (4) of this regulation,
 - (f) the date when the contracting authority decided to award the public contract,
 - (g) if the public contract is being awarded by reference to lots, for each lot—
@@ -1165,9 +1165,9 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (8) This regulation does not apply to a contracting authority that is a private utility.
 
-(9)[^key-2b3021bc3189de7231013df2d4b9a92a] In this regulation “**associated person**” has the meaning given by section 26(4) of the 2023 Act.
+(9)[^c-2b3021bc3189de7231013df2d4b9a92a] In this regulation “**associated person**” has the meaning given by section 26(4) of the 2023 Act.
 
-### 29. Contract award notices published by private utilities[^key-575404628341ef6c1199a3bea8790bbe]
+### 29. Contract award notices published by private utilities[^c-575404628341ef6c1199a3bea8790bbe]
 
 (1) This regulation sets out other information which must be included in a contract award notice published by a private utility under section 50(1) of the 2023 Act.
 
@@ -1186,7 +1186,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 - (a) the direct award of a public contract under section 41 or 43 of the 2023 Act (see instead regulation 30), or
 - (b) the award of a public contract in accordance with a framework (see instead regulation 31).
 
-### 30. Contract award notices published by private utilities: direct awards[^key-9c439745eebf5cccfc9e865207cdac27]
+### 30. Contract award notices published by private utilities: direct awards[^c-9c439745eebf5cccfc9e865207cdac27]
 
 (1) This regulation sets out other information which must be included in a contract award notice published by a private utility under section 50(1) of the 2023 Act where the contract was awarded directly in accordance with section 41 or 43 of the 2023 Act.
 
@@ -1201,8 +1201,8 @@ will put the applicant or a person living with the applicant at serious risk of 
 - (e) if sub-paragraph (d) applies, the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
 - (f) whether the contract is being awarded directly to a supplier that is an excluded supplier because the contracting authority considers that there is an overriding public interest in awarding the contract to that supplier in accordance with section 41(2) to (5) of the 2023 Act,
 - (g) if sub-paragraph (f) applies—
-  - (i) the offence or other event mentioned in Schedule 6 to the 2023 Act by virtue of which the supplier is an excluded supplier, [^key-385d9fd2e2c68f4ab98bc4ef22b352d9]...
-  - (ii) which ground in section 41(5) of the 2023 Act applies and an explanation of why the contracting authority considers that it applies, and[^key-7e265c374fb16ccce4ca5bf403df5ec1]
+  - (i) the offence or other event mentioned in Schedule 6 to the 2023 Act by virtue of which the supplier is an excluded supplier, [^c-385d9fd2e2c68f4ab98bc4ef22b352d9]...
+  - (ii) which ground in section 41(5) of the 2023 Act applies and an explanation of why the contracting authority considers that it applies, and[^c-7e265c374fb16ccce4ca5bf403df5ec1]
   - (iii) the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
 - (h) whether the contract is being awarded directly to a supplier pursuant to regulations made under section 42 of the 2023 Act (direct award to protect life, etc.),
 - (i) if sub-paragraph (h) applies, the title and registration number of the statutory instrument containing those regulations,
@@ -1211,7 +1211,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 31. Contract award notices published by private utilities: frameworks[^key-d63337b2fffb118a9a6ddfaa583f2a30]
+### 31. Contract award notices published by private utilities: frameworks[^c-d63337b2fffb118a9a6ddfaa583f2a30]
 
 (1) This Regulation sets out other information which must be included in a contract award notice published by a private utility under section 50(1) of the 2023 Act where the contract is being awarded in accordance with a framework.
 
@@ -1230,7 +1230,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 32. Assessment summaries[^key-1af690b6dc91dea5de19e51d6a867541]
+### 32. Assessment summaries[^c-1af690b6dc91dea5de19e51d6a867541]
 
 (1) This regulation sets out what information must be included in an assessment summary provided to a supplier under section 50(3) of the 2023 Act.
 
@@ -1262,7 +1262,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (5) Nothing in this regulation prevents a contracting authority from providing other information that relates to the same procurement in an assessment summary.
 
-### 33. Contract details notices: open or competitive flexible procedure[^key-82c71b814be7f508dd8aa1565fe5a80f]
+### 33. Contract details notices: open or competitive flexible procedure[^c-82c71b814be7f508dd8aa1565fe5a80f]
 
 (1) This regulation sets out other information which must be included in a contract details notice published under section 53(1) of the 2023 Act where the public contract was entered into following—
 
@@ -1322,7 +1322,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (4) This regulation does not apply to a contract details notice where the public contract is a framework (see instead regulation 34).
 
-### 34. Contract details notices: frameworks[^key-29b8eb26aa019cdd32116bc0c670a85c]
+### 34. Contract details notices: frameworks[^c-29b8eb26aa019cdd32116bc0c670a85c]
 
 (1) This regulation sets out other information which must be included in a contract details notice published under section 53(1) of the 2023 Act where the public contract is a framework.
 
@@ -1344,7 +1344,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 35. Contract details notices: public contracts awarded in accordance with frameworks[^key-7e73ffca55cffed50aa0dd52893bb541]
+### 35. Contract details notices: public contracts awarded in accordance with frameworks[^c-7e73ffca55cffed50aa0dd52893bb541]
 
 (1) This regulation sets out other information which must be included in a contract details notice published under section 53(1) of the 2023 Act where the public contract was awarded in accordance with a framework.
 
@@ -1360,7 +1360,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 36. Contract details notices: direct award[^key-ec9dfe9db5836df31a17cf010810c2cb]
+### 36. Contract details notices: direct award[^c-ec9dfe9db5836df31a17cf010810c2cb]
 
 (1) This regulation sets out other information which must be included in a contract details notice published under section 53(1) of the 2023 Act where the public contract was awarded directly in accordance with section 41 or 43 of the 2023 Act.
 
@@ -1370,7 +1370,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 - (b) whether the contract was awarded directly to a supplier that is not an excluded supplier because a direct award justification applies in accordance with section 41(1)(a) of the 2023 Act,
 - (c) if sub-paragraph (b) applies, the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
 - (d) whether the contract was awarded directly to a supplier that is an excluded supplier because the contracting authority considered that there was an overriding public interest in awarding the contract to that supplier in accordance with section 41(2) to (5) of the 2023 Act,
-- (e)[^key-71fe41b336f2891e8f535b55f6d69c70] if sub-paragraph (d) applies—
+- (e)[^c-71fe41b336f2891e8f535b55f6d69c70] if sub-paragraph (d) applies—
   - (i) the direct award justification in Schedule 5 to the 2023 Act which applies and an explanation of why the contracting authority considers that it applies,
   - (ii) the offence or other event mentioned in Schedule 6 to the 2023 Act by virtue of which the supplier is an excluded supplier, and
   - (iii) which ground in section 41(5) of the 2023 Act applies and an explanation of why the contracting authority considers that it applies,
@@ -1385,7 +1385,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (4) This regulation does not apply to a contract details notice where the public contract is a framework (see instead regulation 34).
 
-### 37. Contract details notices: below-threshold contracts[^key-d31e701b1e0e65177707763121fcf1f1]
+### 37. Contract details notices: below-threshold contracts[^c-d31e701b1e0e65177707763121fcf1f1]
 
 (1) This regulation sets out other information which must be included in a contract details notice published under section 87(3) of the 2023 Act.
 
@@ -1418,7 +1418,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in the notice.
 
-### 38. Procurement termination notices[^key-63c5dd2f01beb96528d65749e3f29b45]
+### 38. Procurement termination notices[^c-63c5dd2f01beb96528d65749e3f29b45]
 
 (1) This regulation sets out what information must be included in a procurement termination notice published under section 55(2) of the 2023 Act.
 
@@ -1432,7 +1432,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (3) Nothing in this regulation prevents a contracting authority from publishing other information that relates to the same procurement in a procurement termination notice.
 
-### 39. Payments compliance notices[^key-583ea9d0aefba71800b639895c00b111]
+### 39. Payments compliance notices[^c-583ea9d0aefba71800b639895c00b111]
 
 (1) This regulation sets out what information must be included in a payments compliance notice published under section 69(1) of the 2023 Act.
 
@@ -1446,7 +1446,7 @@ will put the applicant or a person living with the applicant at serious risk of 
     - (aa) within the period beginning on day 1 and ending with day 30;
     - (bb) within the period beginning on day 31 and ending with day 60;
     - (cc) on or after day 61,
-- (ca)[^key-b6ce1115bdbd8204ef767795c755274d] the proportion of invoices paid in accordance with the term in section 68(2) of the 2023 Act during the reporting period, expressed as a percentage of the total number of invoices that were, or should have been, paid in accordance with that term within the reporting period,
+- (ca)[^c-b6ce1115bdbd8204ef767795c755274d] the proportion of invoices paid in accordance with the term in section 68(2) of the 2023 Act during the reporting period, expressed as a percentage of the total number of invoices that were, or should have been, paid in accordance with that term within the reporting period,
 - (d) in respect of sums which became payable under public contracts during the reporting period, the percentage of those payments which were not made within the reporting period, and
 - (e) a statement of the director or similar officer of the contracting authority who is responsible for the contracting authority’s finances setting out that the person approves the payments compliance notice and that person’s name and job title.
 
@@ -1460,13 +1460,13 @@ will put the applicant or a person living with the applicant at serious risk of 
 - (a) when it is received by the supplier, or
 - (b) if there is any delay in the sum being received for which the contracting authority is not responsible, when it would have been received without that delay.
 
-(5) In paragraph (3) the reference to a contracting authority receiving an invoice includes[^key-5efdce6af41f1b86d9768cd42488d091] the invoice being delivered to an address, or through an electronic invoicing system, specified in the contract for the purpose.
+(5) In paragraph (3) the reference to a contracting authority receiving an invoice includes[^c-5efdce6af41f1b86d9768cd42488d091] the invoice being delivered to an address, or through an electronic invoicing system, specified in the contract for the purpose.
 
 (6) Nothing in this regulation prevents a contracting authority from publishing other relevant information in the notice.
 
 (7) In this regulation “**payments compliance notice**” (“***hysbysiad cydymffurfedd taliadau***”) and “**reporting period**” (“***cyfnod adrodd***”) have the meaning given by section 69 of the 2023 Act.
 
-### 40. Contract performance notices except in relation to full termination[^key-7e4623bd6ff84aa430e9be6dc3ef4a1c]
+### 40. Contract performance notices except in relation to full termination[^c-7e4623bd6ff84aa430e9be6dc3ef4a1c]
 
 (1) This regulation makes provision about information published under either of the following provisions—
 
@@ -1556,7 +1556,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (9) This regulation does not apply to information required to be published in accordance with section 71(5) of the 2023 Act where a breach resulted in the full termination of a public contract (see instead regulation 42).
 
-### 41. Contract change notices[^key-df5f1ef3b548275a6a5114898a754ce0]
+### 41. Contract change notices[^c-df5f1ef3b548275a6a5114898a754ce0]
 
 (1) This regulation sets out other information which must be included in a contract change notice published under section 75(1) or (5) of the 2023 Act.
 
@@ -1599,7 +1599,7 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 (5) In this regulation “**contract change notice**” (“***hysbysiad newid contract***”) has the meaning given by section 75(3) of the 2023 Act.
 
-### 42. Contract termination notices[^key-e5666ffda55f84a2bf4f4b23dcc3e828]
+### 42. Contract termination notices[^c-e5666ffda55f84a2bf4f4b23dcc3e828]
 
 (1) This regulation sets out other information which must be included in a contract termination notice published under section 80(1) of the 2023 Act.
 
@@ -1645,23 +1645,23 @@ will put the applicant or a person living with the applicant at serious risk of 
 
 ## PART 3 — Other provisions supplementing the 2023 Act
 
-### 43. Specification of light touch and reservable light touch services[^key-69d8dadba07068466d8298b53f544bbe]
+### 43. Specification of light touch and reservable light touch services[^c-69d8dadba07068466d8298b53f544bbe]
 
 (1) For the purposes of section 9(1) of the 2023 Act (light touch contracts) the services which are covered by the CPV codes set out in column (1) of the Table in Schedule 1 to these Regulations and described in column (2) of that Table are specified as light touch services.
 
 (2) For the purposes of section 33(7) of the 2023 Act (reserving contracts to public service mutuals), a service specified in columns (1) and (2) of the Table in Schedule 1 to these Regulations is specified as a reservable light touch service where in the entry corresponding to that service in column (3), the letter “R” appears.
 
-### 44. Central government authorities[^key-7888dd53a5d943b4398b071fabd05820]
+### 44. Central government authorities[^c-7888dd53a5d943b4398b071fabd05820]
 
 (1) All the entities listed in column (1) or (2) of the Table in Schedule 2 to these Regulations are specified for the purposes of the definition of “central government authority” in paragraph 5(1) of Schedule 1 to the 2023 Act.
 
 (2) Where an entity listed in Schedule 2 to these Regulations is succeeded by another entity, which is itself a contracting authority, the successor entity is deemed to be included in the Schedule.
 
-### 45. Meaning of “works” in paragraph 5(1) of Schedule 1 to the 2023 Act[^key-f3199ae605c61b83602f1b1d1facdf69]
+### 45. Meaning of “works” in paragraph 5(1) of Schedule 1 to the 2023 Act[^c-f3199ae605c61b83602f1b1d1facdf69]
 
 For the purposes of the definition of “works” in paragraph 5(1) of Schedule 1 to the 2023 Act, “**works**” means any of the activities coming within a CPV code listed in Schedule 3 to these Regulations.
 
-### 45A. Exempt contracts: affiliated persons’ calculations[^key-4aaf4bacb4e6aa72dfa83823a3fab1b0]
+### 45A. Exempt contracts: affiliated persons’ calculations[^c-4aaf4bacb4e6aa72dfa83823a3fab1b0]
 
 (1) For the purposes of the turnover test in paragraph 6(3) of Schedule 2 to the 2023 Act, an affiliated person’s—
 
@@ -1772,7 +1772,7 @@ For the purposes of the definition of “works” in paragraph 5(1) of Schedule 
   - (a) the period of three years ending with the date of contract award, or
   - (b) where information relating to drinking water supplied or produced for the period in sub-paragraph (a) is not available, a three-year period corresponding with the accounting periods of the operator, ending with the last quarter before the date of contract award for which the operator has such information available.
 
-### 45E. Exempt contracts: vertical arrangements’ calculations[^key-bac6d2f60be4f2d997ddf7e07a2fe12c]
+### 45E. Exempt contracts: vertical arrangements’ calculations[^c-bac6d2f60be4f2d997ddf7e07a2fe12c]
 
 (1) For the purposes of paragraph 2(2)(c) of Schedule 2 to the 2023 Act (exempted contracts), the calculation of the percentage of activities carried out by a person is to be made in accordance with this regulation.
 
@@ -1868,7 +1868,7 @@ For the purposes of the definition of “works” in paragraph 5(1) of Schedule 
 
 ## PART 4 — Consequential amendments
 
-### 46. Amendments to the Social Partnership and Public Procurement (Wales) Act 2023[^key-ccfa4e19ac38c8fb8f7974e1dd86eaae]
+### 46. Amendments to the Social Partnership and Public Procurement (Wales) Act 2023[^c-ccfa4e19ac38c8fb8f7974e1dd86eaae]
 
 (1) The Social Partnership and Public Procurement (Wales) Act 2023[^f00022] is amended as follows.
 
@@ -1884,18 +1884,18 @@ For the purposes of the definition of “works” in paragraph 5(1) of Schedule 
   - (iii) “public works contract”,
   - (iv) “the Utilities Contracts Regulations”, and
   - (v) “works concession contract”;
-- (b) in the definition of “**works**” [^key-ca5c95ef4a2877bcd602949aca12bc4a]..., for “paragraph 2 of regulation 2(1) of the Public Contracts Regulations” substitute “regulation 45 of and Schedule 3 to the Procurement (Wales) Regulations 2024[^f00023]”;
-- (c) in the definition of “**works contract**” [^key-f40339b06585cf8e8c48d6e60fef8e49]..., for “regulation 2(1) of the Utilities Contracts Regulations” substitute “paragraph 4 of Schedule 1 to the Procurement Act [2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54)”.
+- (b) in the definition of “**works**” [^c-ca5c95ef4a2877bcd602949aca12bc4a]..., for “paragraph 2 of regulation 2(1) of the Public Contracts Regulations” substitute “regulation 45 of and Schedule 3 to the Procurement (Wales) Regulations 2024[^f00023]”;
+- (c) in the definition of “**works contract**” [^c-f40339b06585cf8e8c48d6e60fef8e49]..., for “regulation 2(1) of the Utilities Contracts Regulations” substitute “paragraph 4 of Schedule 1 to the Procurement Act [2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54)”.
 
 (4) In section 45 (interpretation of Part 3), in subsection (2), for “regulation 6(1) of the Public Contracts Regulations” substitute “section 4 of the Procurement Act 2023”.
 
-### 47. Amendments to the 2023 Act[^key-3315235b334be25d46bbbe5ce92c94f3][^key-7509b57ea891c00e47b896a276d4b1c3]
+### 47. Amendments to the 2023 Act[^c-3315235b334be25d46bbbe5ce92c94f3][^c-7509b57ea891c00e47b896a276d4b1c3]
 
-(1)[^key-3315235b334be25d46bbbe5ce92c94f3] The 2023 Act is amended as follows.
+(1)[^c-3315235b334be25d46bbbe5ce92c94f3] The 2023 Act is amended as follows.
 
-(2)[^key-3315235b334be25d46bbbe5ce92c94f3] In section 17 (preliminary market engagement notices), in subsection (3) omit the following words “other than to a private utility which is a devolved Welsh authority that is not carrying out procurement under a reserved procurement arrangement or a transferred Northern Ireland procurement arrangement.”.
+(2)[^c-3315235b334be25d46bbbe5ce92c94f3] In section 17 (preliminary market engagement notices), in subsection (3) omit the following words “other than to a private utility which is a devolved Welsh authority that is not carrying out procurement under a reserved procurement arrangement or a transferred Northern Ireland procurement arrangement.”.
 
-(3)[^key-7509b57ea891c00e47b896a276d4b1c3] In section 87 (regulated below-threshold contracts: notices), for subsection (4)(a) substitute—
+(3)[^c-7509b57ea891c00e47b896a276d4b1c3] In section 87 (regulated below-threshold contracts: notices), for subsection (4)(a) substitute—
 
 > - (a) in the case of a contract to be awarded by—
 >   - (i) a central government authority that is not a devolved Welsh authority, not less than £12,000;
@@ -1903,15 +1903,15 @@ For the purposes of the definition of “works” in paragraph 5(1) of Schedule 
 
 .
 
-### 48. Amendment to the Schools Forums (Wales) Regulations 2003[^key-61bf3c8046fd83ce01fb6f60a2711ac5]
+### 48. Amendment to the Schools Forums (Wales) Regulations 2003[^c-61bf3c8046fd83ce01fb6f60a2711ac5]
 
 In the Schools Forums (Wales) Regulations 2003[^f00024], in regulation 9(1) (consultation on contracts), for “regulation 5 of the Public Contracts Regulations 2015” substitute “section 3 of the Procurement Act 2023”.
 
-### 49. Amendment to the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^key-01933aeb918649ca80eab63527955d37]
+### 49. Amendment to the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^c-01933aeb918649ca80eab63527955d37]
 
-In the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^f00025], in regulation 2(1) (interpretation), in the definition of “**public notice**” [^key-1f90a50b73cf40166510cc660518029d]..., for “means notice published pursuant to the Public Contracts Regulations 2015, on the UK e-notification service (as defined by those Regulations)” substitute “means any notice published, pursuant to the Procurement Act 2023 which relates to a public contract (within the meaning of section 3 of that Act)”.
+In the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^f00025], in regulation 2(1) (interpretation), in the definition of “**public notice**” [^c-1f90a50b73cf40166510cc660518029d]..., for “means notice published pursuant to the Public Contracts Regulations 2015, on the UK e-notification service (as defined by those Regulations)” substitute “means any notice published, pursuant to the Procurement Act 2023 which relates to a public contract (within the meaning of section 3 of that Act)”.
 
-### 50. Amendments to the Equality Act 2010 (Statutory Duties) (Wales) Regulations 2011[^key-9773b1719b63c23a7c832d383e839a2d]
+### 50. Amendments to the Equality Act 2010 (Statutory Duties) (Wales) Regulations 2011[^c-9773b1719b63c23a7c832d383e839a2d]
 
 (1) The Equality Act 2010 (Statutory Duties) (Wales) Regulations 2011[^f00026] are amended as follows.
 
@@ -1923,19 +1923,19 @@ In the Service Charges (Consultation Requirements) (Wales) Regulations 2004[^f00
 
   > (3) In this regulation, “**award criteria**” (“***meini prawf***”), “**competitive tendering procedure**” (“***gweithdrefn dendro gystadleuol***”), “**contracting authority**” (“*awdurdod* *contractio*”), and “**public contract**” (“***contract cyhoeddus***”) have the same meaning as in the Procurement Act 2023.
 
-### 51. Amendment to the Tax Collection and Management (Wales) Act 2016 (Consequential and Supplemental Provisions) Regulations 2018[^key-c14180d43ab0ada75d5d6d4da12ad827]
+### 51. Amendment to the Tax Collection and Management (Wales) Act 2016 (Consequential and Supplemental Provisions) Regulations 2018[^c-c14180d43ab0ada75d5d6d4da12ad827]
 
 In the Tax Collection and Management (Wales) Act 2016 (Consequential and Supplemental Provisions) Regulations 2018[^f00027], omit regulation 2.
 
-### 52. Amendment to the Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021[^key-08447a34f9a792887b6bfab9ffaffeea]
+### 52. Amendment to the Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021[^c-08447a34f9a792887b6bfab9ffaffeea]
 
 In the Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021[^f00028], in regulation 6, omit paragraph (27)(ii).
 
-### 53. Amendments to the Public Procurement (International Trade Agreements) (Amendment) (Wales) (No. 2) Regulations 2023[^key-74a1ff0cd404a2ad6247d0c17b508338]
+### 53. Amendments to the Public Procurement (International Trade Agreements) (Amendment) (Wales) (No. 2) Regulations 2023[^c-74a1ff0cd404a2ad6247d0c17b508338]
 
 In the Public Procurement (International Trade Agreements) (Amendment) (Wales) (No. 2) Regulations 2023[^f00029], omit regulations 2 to 5.
 
-### 54. Amendment to [Regulation (EU) No 1303/2013](https://www.legislation.gov.uk/european/regulation/2013/1303) of the European Parliament and of the Council of 17 December 2013[^key-c933188df55692d8326590b6fd83bcb5]
+### 54. Amendment to [Regulation (EU) No 1303/2013](https://www.legislation.gov.uk/european/regulation/2013/1303) of the European Parliament and of the Council of 17 December 2013[^c-c933188df55692d8326590b6fd83bcb5]
 
 In [Regulation (EU) No 1303/2013](https://www.legislation.gov.uk/european/regulation/2013/1303) of the European Parliament and of the Council of 17 December 2013[^f00030], in Article 68a(1), for “the threshold set out in regulation 5 of the Public Contracts Regulations 2015” substitute “the relevant threshold amount set out in Schedule 1 to the Procurement Act 2023”.
 
@@ -1947,7 +1947,7 @@ The Cabinet Secretary for Finance, Constitution, and Cabinet Office, one of the 
 
 SCHEDULES
 
-## SCHEDULE 1 — Light touch services[^key-9cc0d4da0898bd087ffa74884305538e]
+## SCHEDULE 1 — Light touch services[^c-9cc0d4da0898bd087ffa74884305538e]
 
 Regulation 43
 
@@ -2418,7 +2418,7 @@ Investigation and security services
 </tbody>
 </table>
 
-## SCHEDULE 2 — Central government authorities[^key-b50a4ee9119cdd1e114206a82e83a798]
+## SCHEDULE 2 — Central government authorities[^c-b50a4ee9119cdd1e114206a82e83a798]
 
 Regulation 44
 
@@ -2428,26 +2428,26 @@ Central government authorities
 | --- | --- |
 | The Welsh Ministers | Agricultural Dwelling House Advisory Committees (Wales) |
 |  | Agricultural Land Tribunal for Wales |
-|  | The Commission for Tertiary Education and Research[^key-c3a5e02a2876e99b9a980eb34e66b7e7] |
+|  | The Commission for Tertiary Education and Research[^c-c3a5e02a2876e99b9a980eb34e66b7e7] |
 |  | Local Democracy and Boundary Commission for Wales |
 |  | Rent Assessment Committee (Wales) |
 |  | The Royal Commission on the Ancient and Historical Monuments of Wales |
 |  | Valuation Tribunal for Wales |
-|  | *National Health Service[^key-72df9190ebe820fd33930fffc97d79df]* |
+|  | *National Health Service[^c-72df9190ebe820fd33930fffc97d79df]* |
 |  | A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 |
 |  | An NHS Trust established under section 18 of that Act |
 |  | A Special Health Authority established under section 22 of that Act. |
 | Arts Council of Wales |  |
-| Social Care Wales[^key-d709e7dc4ae5868f7d6c8eeba802e50c] |  |
+| Social Care Wales[^c-d709e7dc4ae5868f7d6c8eeba802e50c] |  |
 | National Library of Wales |  |
 | National Museum Wales |  |
 | Natural Resources Wales |  |
-| The Sports Council for Wales, known as “Sport Wales"[^key-a585f556a08923fc023a3d0a471c26b5] |  |
-| Senedd Commission[^key-7dbce57b663ff621ed8db86ae3b5d3cf] |  |
+| The Sports Council for Wales, known as “Sport Wales"[^c-a585f556a08923fc023a3d0a471c26b5] |  |
+| Senedd Commission[^c-7dbce57b663ff621ed8db86ae3b5d3cf] |  |
 | The Welsh Revenue Authority |  |
 | Welsh Language Commissioner |  |
 
-## SCHEDULE 3 — Works activities[^key-a307f43eba347e7d9e1b11ee238b183c]
+## SCHEDULE 3 — Works activities[^c-a307f43eba347e7d9e1b11ee238b183c]
 
 Regulation 45
 
@@ -3303,25 +3303,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2023 c. 54](https://www.legislation.gov.uk/ukpga/2023/54).
 
-[^key-a6bc8b253ec77d3201f022e5711e5833]: Commencement: Reg. 1 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
+[^c-a6bc8b253ec77d3201f022e5711e5833]: Commencement: Reg. 1 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
 
 [^f00003]: Footnote: Section 11 comes into force on such day as a Minister of the Crown may by regulations appoint; and different days may be appointed for different purposes. See section 127(2) of the Procurement Act 2023.
 
-[^key-a4b31b22708e0687798bbd3ccd774ff3]: Commencement: Reg. 2 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
+[^c-a4b31b22708e0687798bbd3ccd774ff3]: Commencement: Reg. 2 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
 
 [^f00004]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 157A was inserted by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) Pt 1 s.4(1), then amended by Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1) Schedule 1 paragraph 2(19), and the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22) s.45(3).
 
-[^key-4cda5ca14b70cf6b394918d3a52801de]: Commencement: Reg. 3 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
+[^c-4cda5ca14b70cf6b394918d3a52801de]: Commencement: Reg. 3 in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
 
 [^f00005]: Footnote: EUR 2195/2002, as amended by [S.I. 2020/1319](https://www.legislation.gov.uk/uksi/2020/1319); this is a reference to the retained version of Regulation [(EC) 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195). That retained version is available online at https://www.legislation.gov.uk/eur/2002/2195/contents.
 
-[^key-ccc2a0bad12c2a31343fdf83fb6544b9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2024/782/regulation/3) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/4/2)
+[^c-ccc2a0bad12c2a31343fdf83fb6544b9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2024/782/regulation/3) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/4/2)
 
-[^key-53d7d2c3ecaf3384f365927f3120d21c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2024/782/regulation/3) inserted (23.6.2025) by [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/2)
+[^c-53d7d2c3ecaf3384f365927f3120d21c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2024/782/regulation/3) inserted (23.6.2025) by [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/2)
 
-[^key-aebdeca44335e85f5e9596a558ce352e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-aebdeca44335e85f5e9596a558ce352e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-3063e6f0da5ab5fe3888965e42100631]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/a)
+[^c-3063e6f0da5ab5fe3888965e42100631]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/a)
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -3335,43 +3335,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: Inserted by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) Schedule 3(1) paragraph 1.
 
-[^key-7c46816507e1ba2d8a95bf273ea70933]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/b)
+[^c-7c46816507e1ba2d8a95bf273ea70933]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/b)
 
-[^key-279835455d5289b8f54d82f5706cdbb7]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) omitted (23.6.2025) by virtue of [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/3)
+[^c-279835455d5289b8f54d82f5706cdbb7]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) omitted (23.6.2025) by virtue of [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/3)
 
-[^key-a40322833fa12faf176ed29f753fb53e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/d)
+[^c-a40322833fa12faf176ed29f753fb53e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2024/782/regulation/4) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/2/d)
 
-[^key-b919f9ddd0f68138c3e11777731cb5b2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/782/regulation/5) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-b919f9ddd0f68138c3e11777731cb5b2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/782/regulation/5) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00012]: Footnote: Planned procurement notices include qualifying planned procurement notices (see section 15(3) of the 2023 Act).
 
 [^f00013]: Footnote: Dynamic market notices under section 39(2) include qualifying utilities dynamic market notices (see section 40(6) of the 2023 Act.).
 
-[^key-e34a321cca346c031d0ef6629ef1dec4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/782/regulation/6) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-e34a321cca346c031d0ef6629ef1dec4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/782/regulation/6) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-31ce68bb66931058239f61a9978b6203]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/782/regulation/7) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-31ce68bb66931058239f61a9978b6203]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/782/regulation/7) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-ef742cdca835098f89c90492af5aa182]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/782/regulation/8) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-ef742cdca835098f89c90492af5aa182]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/782/regulation/8) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-fb943310f543c9a9aed2b38ec19cd17e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/782/regulation/9) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-fb943310f543c9a9aed2b38ec19cd17e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/782/regulation/9) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-2b4a2d7898f11c0aa3dcaae8f3b0bac3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/782/regulation/10) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-2b4a2d7898f11c0aa3dcaae8f3b0bac3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/782/regulation/10) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00014]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Section 5A was inserted by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26) Schedule 3(1) paragraph 2.
 
-[^key-0bdc9b87f28dead745ad1706d2c43bad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/782/regulation/11) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-0bdc9b87f28dead745ad1706d2c43bad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/782/regulation/11) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-893dc98d5aa32295e2189c04171f4fda]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/782/regulation/12) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-893dc98d5aa32295e2189c04171f4fda]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/782/regulation/12) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-267a5dc9df3c72e8e80b5ad763b2e862]: Textual amendment: Word in [reg. 12(6)(f)](https://www.legislation.gov.uk/wsi/2024/782/regulation/12/6/f) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/3/a)
+[^c-267a5dc9df3c72e8e80b5ad763b2e862]: Textual amendment: Word in [reg. 12(6)(f)](https://www.legislation.gov.uk/wsi/2024/782/regulation/12/6/f) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/3/a)
 
-[^key-746ed9527749927bce2a474ee804c2b9]: Textual amendment: [Reg. 12(6)(g)](https://www.legislation.gov.uk/wsi/2024/782/regulation/12/6/g) full stop omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/3/b)
+[^c-746ed9527749927bce2a474ee804c2b9]: Textual amendment: [Reg. 12(6)(g)](https://www.legislation.gov.uk/wsi/2024/782/regulation/12/6/g) full stop omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/3/b)
 
 [^M_F_ad220037-f7b8-48a1-d351-7732302a768a]: Textual amendment: Reg. 12(6)(h) and word inserted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/uksi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/181/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/181/regulation/5/3/b)
 
-[^key-8a8e0c2616274bb257897b8e3ece165e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/782/regulation/13) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-8a8e0c2616274bb257897b8e3ece165e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/782/regulation/13) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-3ef732d1ff87aa5922d5758dda091977]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/1) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/a)
+[^c-3ef732d1ff87aa5922d5758dda091977]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/1) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/a)
 
 [^f00015]: Footnote: [2015 c. 30](https://www.legislation.gov.uk/ukpga/2015/30).
 
@@ -3381,174 +3381,174 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-19869834c029143693bc02e80fb9ed7e]: Textual amendment: Word in [reg. 13(8)(a)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/8/a/i) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/b)
+[^c-19869834c029143693bc02e80fb9ed7e]: Textual amendment: Word in [reg. 13(8)(a)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/8/a/i) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/b)
 
 [^f00019]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-0af608303d75368b8bc54dbb52dc7405]: Textual amendment: Word in [reg. 13(13)(d)(ii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13/d/ii) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/c)
+[^c-0af608303d75368b8bc54dbb52dc7405]: Textual amendment: Word in [reg. 13(13)(d)(ii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13/d/ii) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/c)
 
-[^key-20cada14f15a1366c957ae80398eca37]: Textual amendment: [Reg. 13(13)(e)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13/e) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/d)
+[^c-20cada14f15a1366c957ae80398eca37]: Textual amendment: [Reg. 13(13)(e)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13/e) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/d)
 
-[^key-b5aa60f2e966782599dfddb928775b36]: Textual amendment: [Reg. 13(13A)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13A) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(e)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/e)
+[^c-b5aa60f2e966782599dfddb928775b36]: Textual amendment: [Reg. 13(13A)](https://www.legislation.gov.uk/wsi/2024/782/regulation/13/13A) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(4)(e)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/4/e)
 
-[^key-ead1d3a9c3f17e8e62b0adf16c9525d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/782/regulation/14) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-ead1d3a9c3f17e8e62b0adf16c9525d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/782/regulation/14) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-66858b8da0e86bc9258e3df24de6ec44]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/782/regulation/15) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-66858b8da0e86bc9258e3df24de6ec44]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/782/regulation/15) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00020]: Footnote: The website can be found at: https://www.ons.gov.uk/methodology/geography/ukgeographies/eurostat#:\~:text=East,The%20International%20Territorial%20Levels%20(ITLs)%20is%20a%20hierarchical%20classification%20of,Bedfordshire%20and%20Hertfordshire%2C%20and%20Essex
 
-[^key-2540e4e94f85adedb4c1c7b776a3d361]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/782/regulation/16) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-2540e4e94f85adedb4c1c7b776a3d361]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/782/regulation/16) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-31adf9fbea537fcd2761e017ba93d587]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/782/regulation/17) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-31adf9fbea537fcd2761e017ba93d587]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/782/regulation/17) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-86b15c7f0209b2055771f7f2b1b8d560]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/782/regulation/18) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-86b15c7f0209b2055771f7f2b1b8d560]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/782/regulation/18) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-7e2e0a2cffe2578f983f09b1211a39c9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/782/regulation/19) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-7e2e0a2cffe2578f983f09b1211a39c9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/782/regulation/19) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-273f9dc48326b56ad330c9bb8621e883]: Textual amendment: [Reg. 19(2)(v)](https://www.legislation.gov.uk/wsi/2024/782/regulation/19/2/v) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/5)
+[^c-273f9dc48326b56ad330c9bb8621e883]: Textual amendment: [Reg. 19(2)(v)](https://www.legislation.gov.uk/wsi/2024/782/regulation/19/2/v) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/5)
 
-[^key-00c8c9ff4fc860a5522cd9ccdafdb4fb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/782/regulation/20) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-00c8c9ff4fc860a5522cd9ccdafdb4fb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/782/regulation/20) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-a81ac8bf7eeac49e4c37967003d4cdbd]: Textual amendment: Word in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/a)
+[^c-a81ac8bf7eeac49e4c37967003d4cdbd]: Textual amendment: Word in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/a)
 
-[^key-088a01f6ffa5037ecbba9c8cc90b3193]: Textual amendment: [Reg. 20(2)(h)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2/h) full stop omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/b)
+[^c-088a01f6ffa5037ecbba9c8cc90b3193]: Textual amendment: [Reg. 20(2)(h)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2/h) full stop omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/b)
 
-[^key-b894f769cb3b6092aed6b8a4bca4f6d8]: Textual amendment: [Reg. 20(2)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2/i) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/b)
+[^c-b894f769cb3b6092aed6b8a4bca4f6d8]: Textual amendment: [Reg. 20(2)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/20/2/i) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/6/b)
 
-[^key-e3650656d8275fdd49bb91063ef03819]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/782/regulation/21) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-e3650656d8275fdd49bb91063ef03819]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/782/regulation/21) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-fd6a348f00f68c51ae8b9261ed428c01]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/782/regulation/22) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-fd6a348f00f68c51ae8b9261ed428c01]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/782/regulation/22) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-3f2b20e772ea9a0662380572f3bbadad]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/782/regulation/23) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-3f2b20e772ea9a0662380572f3bbadad]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/782/regulation/23) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-a7af65d4b41ecc4c091339c0100dbdb9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/782/regulation/24) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-a7af65d4b41ecc4c091339c0100dbdb9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/782/regulation/24) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-08ffbbb9ebf0e24a95a9e7051705bc11]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/782/regulation/25) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-08ffbbb9ebf0e24a95a9e7051705bc11]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/782/regulation/25) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-54df945d1576548efbf7f84b4840571c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/782/regulation/26) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-54df945d1576548efbf7f84b4840571c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/782/regulation/26) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-ccbc4e01cf484a5ea61c0197d558a3ea]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/782/regulation/27) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-ccbc4e01cf484a5ea61c0197d558a3ea]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/782/regulation/27) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-8a40e23720c77857145f500f3ef7d146]: Textual amendment: [Reg. 27(2)(da)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/da) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/a)
+[^c-8a40e23720c77857145f500f3ef7d146]: Textual amendment: [Reg. 27(2)(da)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/da) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/a)
 
-[^key-01c2fa9f0dcba94866ba5686575008c5]: Textual amendment: Word in [reg. 27(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/b)
+[^c-01c2fa9f0dcba94866ba5686575008c5]: Textual amendment: Word in [reg. 27(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/b)
 
-[^key-a6669508e7d8681d9308dd2b30e3cdcc]: Textual amendment: [Reg. 27(2)(k)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/k/iii) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/c)
+[^c-a6669508e7d8681d9308dd2b30e3cdcc]: Textual amendment: [Reg. 27(2)(k)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/k/iii) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/c)
 
-[^key-ec07631986fa05337e4a3dd1a4282d06]: Textual amendment: [Reg. 27(2)(pa)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/pa) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/d)
+[^c-ec07631986fa05337e4a3dd1a4282d06]: Textual amendment: [Reg. 27(2)(pa)](https://www.legislation.gov.uk/wsi/2024/782/regulation/27/2/pa) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(7)(d)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/7/d)
 
-[^key-c6bf54676aa7432f651cf2a5bc5b5eeb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/782/regulation/28) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-c6bf54676aa7432f651cf2a5bc5b5eeb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/782/regulation/28) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-ba7f7882c8627ff439af27887857d424]: Textual amendment: Words in [reg. 28(2)(e)(vi)](https://www.legislation.gov.uk/wsi/2024/782/regulation/28/2/e/vi) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/8/a)
+[^c-ba7f7882c8627ff439af27887857d424]: Textual amendment: Words in [reg. 28(2)(e)(vi)](https://www.legislation.gov.uk/wsi/2024/782/regulation/28/2/e/vi) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/8/a)
 
 [^f00021]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-2b3021bc3189de7231013df2d4b9a92a]: Textual amendment: [Reg. 28(9)](https://www.legislation.gov.uk/wsi/2024/782/regulation/28/9) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/8/b)
+[^c-2b3021bc3189de7231013df2d4b9a92a]: Textual amendment: [Reg. 28(9)](https://www.legislation.gov.uk/wsi/2024/782/regulation/28/9) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/8/b)
 
-[^key-575404628341ef6c1199a3bea8790bbe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/782/regulation/29) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-575404628341ef6c1199a3bea8790bbe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/782/regulation/29) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-9c439745eebf5cccfc9e865207cdac27]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/782/regulation/30) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-9c439745eebf5cccfc9e865207cdac27]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/782/regulation/30) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-385d9fd2e2c68f4ab98bc4ef22b352d9]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/wsi/2024/782/regulation/30) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/9/a)
+[^c-385d9fd2e2c68f4ab98bc4ef22b352d9]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/wsi/2024/782/regulation/30) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/9/a)
 
-[^key-7e265c374fb16ccce4ca5bf403df5ec1]: Textual amendment: [Reg. 30(2)(g)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/30/2/g/iii) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/9/b)
+[^c-7e265c374fb16ccce4ca5bf403df5ec1]: Textual amendment: [Reg. 30(2)(g)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/30/2/g/iii) and word inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/9/b)
 
-[^key-d63337b2fffb118a9a6ddfaa583f2a30]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2024/782/regulation/31) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-d63337b2fffb118a9a6ddfaa583f2a30]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2024/782/regulation/31) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-1af690b6dc91dea5de19e51d6a867541]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2024/782/regulation/32) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-1af690b6dc91dea5de19e51d6a867541]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2024/782/regulation/32) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-82c71b814be7f508dd8aa1565fe5a80f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/782/regulation/33) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-82c71b814be7f508dd8aa1565fe5a80f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/782/regulation/33) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-29b8eb26aa019cdd32116bc0c670a85c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/782/regulation/34) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-29b8eb26aa019cdd32116bc0c670a85c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2024/782/regulation/34) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-7e73ffca55cffed50aa0dd52893bb541]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/782/regulation/35) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-7e73ffca55cffed50aa0dd52893bb541]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/782/regulation/35) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-ec9dfe9db5836df31a17cf010810c2cb]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/782/regulation/36) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-ec9dfe9db5836df31a17cf010810c2cb]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/782/regulation/36) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-71fe41b336f2891e8f535b55f6d69c70]: Textual amendment: [Reg. 36(2)(e)](https://www.legislation.gov.uk/wsi/2024/782/regulation/36/2/e) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(10)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/10)
+[^c-71fe41b336f2891e8f535b55f6d69c70]: Textual amendment: [Reg. 36(2)(e)](https://www.legislation.gov.uk/wsi/2024/782/regulation/36/2/e) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(10)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/10)
 
-[^key-d31e701b1e0e65177707763121fcf1f1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/782/regulation/37) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-d31e701b1e0e65177707763121fcf1f1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2024/782/regulation/37) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-63c5dd2f01beb96528d65749e3f29b45]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/782/regulation/38) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-63c5dd2f01beb96528d65749e3f29b45]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/782/regulation/38) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-583ea9d0aefba71800b639895c00b111]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2024/782/regulation/39) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-583ea9d0aefba71800b639895c00b111]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2024/782/regulation/39) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-b6ce1115bdbd8204ef767795c755274d]: Textual amendment: [Reg. 39(2)(ca)](https://www.legislation.gov.uk/wsi/2024/782/regulation/39/2/ca) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/11/a)
+[^c-b6ce1115bdbd8204ef767795c755274d]: Textual amendment: [Reg. 39(2)(ca)](https://www.legislation.gov.uk/wsi/2024/782/regulation/39/2/ca) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/11/a)
 
-[^key-5efdce6af41f1b86d9768cd42488d091]: Textual amendment: Word in [reg. 39(5)](https://www.legislation.gov.uk/wsi/2024/782/regulation/39/5) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/11/b)
+[^c-5efdce6af41f1b86d9768cd42488d091]: Textual amendment: Word in [reg. 39(5)](https://www.legislation.gov.uk/wsi/2024/782/regulation/39/5) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/5/11/b)
 
-[^key-7e4623bd6ff84aa430e9be6dc3ef4a1c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2024/782/regulation/40) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-7e4623bd6ff84aa430e9be6dc3ef4a1c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2024/782/regulation/40) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-df5f1ef3b548275a6a5114898a754ce0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2024/782/regulation/41) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-df5f1ef3b548275a6a5114898a754ce0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2024/782/regulation/41) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-e5666ffda55f84a2bf4f4b23dcc3e828]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2024/782/regulation/42) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-e5666ffda55f84a2bf4f4b23dcc3e828]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2024/782/regulation/42) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-69d8dadba07068466d8298b53f544bbe]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2024/782/regulation/43) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-69d8dadba07068466d8298b53f544bbe]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2024/782/regulation/43) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-7888dd53a5d943b4398b071fabd05820]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2024/782/regulation/44) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-7888dd53a5d943b4398b071fabd05820]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2024/782/regulation/44) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-f3199ae605c61b83602f1b1d1facdf69]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2024/782/regulation/45) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-f3199ae605c61b83602f1b1d1facdf69]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2024/782/regulation/45) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-4aaf4bacb4e6aa72dfa83823a3fab1b0]: Textual amendment: [Regs. 45A-45D](https://www.legislation.gov.uk/wsi/2024/782/regulation/45A) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/181/regulation/6)
+[^c-4aaf4bacb4e6aa72dfa83823a3fab1b0]: Textual amendment: [Regs. 45A-45D](https://www.legislation.gov.uk/wsi/2024/782/regulation/45A) inserted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/181/regulation/6)
 
-[^key-bac6d2f60be4f2d997ddf7e07a2fe12c]: Textual amendment: [Regs. 45E](https://www.legislation.gov.uk/wsi/2024/782/regulation/45E), [45F](https://www.legislation.gov.uk/wsi/2024/782/regulation/45F) inserted (23.6.2025) by [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/4)
+[^c-bac6d2f60be4f2d997ddf7e07a2fe12c]: Textual amendment: [Regs. 45E](https://www.legislation.gov.uk/wsi/2024/782/regulation/45E), [45F](https://www.legislation.gov.uk/wsi/2024/782/regulation/45F) inserted (23.6.2025) by [The Procurement (Wales) (Amendment) Regulations 2025 (S.I. 2025/707)](https://www.legislation.gov.uk/wsi/2025/707), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/707/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2025/707/regulation/3/4)
 
-[^key-ccfa4e19ac38c8fb8f7974e1dd86eaae]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2024/782/regulation/46) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-ccfa4e19ac38c8fb8f7974e1dd86eaae]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2024/782/regulation/46) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00022]: Footnote: [2023 asc 1](https://www.legislation.gov.uk/asc/2023/1).
 
-[^key-ca5c95ef4a2877bcd602949aca12bc4a]: Textual amendment: Words in [reg. 46(3)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/b) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/2/a)
+[^c-ca5c95ef4a2877bcd602949aca12bc4a]: Textual amendment: Words in [reg. 46(3)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/b) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/2/a)
 
 [^f00023]: Footnote: [S.I. 2024/782 (W. 121)](https://www.legislation.gov.uk/wsi/2024/782).
 
-[^key-f40339b06585cf8e8c48d6e60fef8e49]: Textual amendment: Words in [reg. 46(3)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/c) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/2/b)
+[^c-f40339b06585cf8e8c48d6e60fef8e49]: Textual amendment: Words in [reg. 46(3)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/c) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/2/b)
 
-[^key-3315235b334be25d46bbbe5ce92c94f3]: Commencement: Reg. 47(1)(2) in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
+[^c-3315235b334be25d46bbbe5ce92c94f3]: Commencement: Reg. 47(1)(2) in force at 4.7.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3)
 
-[^key-7509b57ea891c00e47b896a276d4b1c3]: Commencement: [Reg. 47(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/47/3) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-7509b57ea891c00e47b896a276d4b1c3]: Commencement: [Reg. 47(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/47/3) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
-[^key-61bf3c8046fd83ce01fb6f60a2711ac5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2024/782/regulation/48) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-61bf3c8046fd83ce01fb6f60a2711ac5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2024/782/regulation/48) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2003/2909 (W. 275)](https://www.legislation.gov.uk/wsi/2003/2909). Regulation 9(1) was amended by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5) Schedule 7(1) paragraph 4; and [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) Schedule 6(2) paragraph 13.
 
-[^key-01933aeb918649ca80eab63527955d37]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-01933aeb918649ca80eab63527955d37]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2004/684 (W. 72)](https://www.legislation.gov.uk/wsi/2004/684). Regulation 2(1) was amended by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5) Schedule 7(1) paragraph 5; and [S.I. 2019/116](https://www.legislation.gov.uk/uksi/2019/116) regulation 2;
 
-[^key-1f90a50b73cf40166510cc660518029d]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/3)
+[^c-1f90a50b73cf40166510cc660518029d]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/wsi/2024/782/regulation/49) omitted (24.2.2025) by virtue of [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2025/181/regulation/7/3)
 
-[^key-9773b1719b63c23a7c832d383e839a2d]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2024/782/regulation/50) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-9773b1719b63c23a7c832d383e839a2d]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2024/782/regulation/50) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2011/1064 (W. 155)](https://www.legislation.gov.uk/wsi/2011/1064). Regulation 18 was amended by [S.I. 2019/120](https://www.legislation.gov.uk/uksi/2019/120) regulation 2.
 
-[^key-c14180d43ab0ada75d5d6d4da12ad827]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2024/782/regulation/51) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-c14180d43ab0ada75d5d6d4da12ad827]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2024/782/regulation/51) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2018/285 (W. 54)](https://www.legislation.gov.uk/wsi/2018/285).
 
-[^key-08447a34f9a792887b6bfab9ffaffeea]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2024/782/regulation/52) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-08447a34f9a792887b6bfab9ffaffeea]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2024/782/regulation/52) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2021/400 (W. 129)](https://www.legislation.gov.uk/wsi/2021/400).
 
-[^key-74a1ff0cd404a2ad6247d0c17b508338]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2024/782/regulation/53) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-74a1ff0cd404a2ad6247d0c17b508338]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2024/782/regulation/53) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2023/567 (W. 88)](https://www.legislation.gov.uk/wsi/2023/567).
 
-[^key-c933188df55692d8326590b6fd83bcb5]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2024/782/regulation/54) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
+[^c-c933188df55692d8326590b6fd83bcb5]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2024/782/regulation/54) in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2)
 
 [^f00030]: Footnote: [Regulation (EU) No 1303/2013](https://www.legislation.gov.uk/european/regulation/2013/1303) of the European Parliament and of the Council of 17 December 2013.
 
-[^key-9cc0d4da0898bd087ffa74884305538e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/782/schedule/1) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)
+[^c-9cc0d4da0898bd087ffa74884305538e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/782/schedule/1) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)
 
-[^key-b50a4ee9119cdd1e114206a82e83a798]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)
+[^c-b50a4ee9119cdd1e114206a82e83a798]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)
 
-[^key-c3a5e02a2876e99b9a980eb34e66b7e7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/3/a)
+[^c-c3a5e02a2876e99b9a980eb34e66b7e7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/3/a)
 
-[^key-72df9190ebe820fd33930fffc97d79df]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/3/b)
+[^c-72df9190ebe820fd33930fffc97d79df]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/3/b)
 
-[^key-d709e7dc4ae5868f7d6c8eeba802e50c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/b)
+[^c-d709e7dc4ae5868f7d6c8eeba802e50c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/b)
 
-[^key-a585f556a08923fc023a3d0a471c26b5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/c)
+[^c-a585f556a08923fc023a3d0a471c26b5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/c)
 
-[^key-7dbce57b663ff621ed8db86ae3b5d3cf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/a)
+[^c-7dbce57b663ff621ed8db86ae3b5d3cf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2024/782/schedule/2) substituted (24.2.2025) by [The Procurement (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/181)](https://www.legislation.gov.uk/wsi/2025/181), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/181/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2025/181/regulation/8/2/a)
 
-[^key-a307f43eba347e7d9e1b11ee238b183c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2024/782/schedule/3) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)
+[^c-a307f43eba347e7d9e1b11ee238b183c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2024/782/schedule/3) in force at 24.2.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/782/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Unlawful eviction: notification and damages[^key-936eeefd2ac5e8381bc82729d619e6fc]
+## 32. Unlawful eviction: notification and damages[^c-936eeefd2ac5e8381bc82729d619e6fc]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936eeefd2ac5e8381bc82729d619e6fc]: Commencement: S. 32 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-936eeefd2ac5e8381bc82729d619e6fc]: Commencement: S. 32 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

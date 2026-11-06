@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Declaration of special restrictions on adoptions from abroad[^key-8f583cb13ca37e3977851c94acd44a98]
+## 62. Declaration of special restrictions on adoptions from abroad[^c-8f583cb13ca37e3977851c94acd44a98]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f583cb13ca37e3977851c94acd44a98]: Commencement: S. 62 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)
+[^c-8f583cb13ca37e3977851c94acd44a98]: Commencement: S. 62 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)

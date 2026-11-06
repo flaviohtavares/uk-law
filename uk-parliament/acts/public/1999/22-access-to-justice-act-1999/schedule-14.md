@@ -30,47 +30,47 @@ Section 105.
 
 (3) Nothing in this Schedule limits the operation of sections 16 and 17 of the [^c11269101]Interpretation Act 1978 (effect of repeals).
 
-### Part II — Legal Services Commission[^key-6b88bcc6d49f086f64b4870e074360c4]
+### Part II — Legal Services Commission[^c-6b88bcc6d49f086f64b4870e074360c4]
 
 **No longer in force.**
 
-#### Replacement of Legal Aid Board by Legal Services Commission[^key-6b88bcc6d49f086f64b4870e074360c4]
+#### Replacement of Legal Aid Board by Legal Services Commission[^c-6b88bcc6d49f086f64b4870e074360c4]
 
 *Extent: E+W*
 
-**2.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**3.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W*
-
-**5.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Winding-down of Legal Aid Board[^key-6b88bcc6d49f086f64b4870e074360c4]
-
-**6.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Abolition of Legal Aid Board[^key-6b88bcc6d49f086f64b4870e074360c4]
+**4.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**7.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Further provision for Legal Aid Board and Legal Services Commission[^key-6b88bcc6d49f086f64b4870e074360c4]
+#### Winding-down of Legal Aid Board[^c-6b88bcc6d49f086f64b4870e074360c4]
 
-*Extent: E+W*
+**6.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Funding of representation by Lord Chancellor[^key-6b88bcc6d49f086f64b4870e074360c4]
+#### Abolition of Legal Aid Board[^c-6b88bcc6d49f086f64b4870e074360c4]
 
 *Extent: E+W*
 
-**9.**[^key-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Further provision for Legal Aid Board and Legal Services Commission[^c-6b88bcc6d49f086f64b4870e074360c4]
+
+*Extent: E+W*
+
+**8.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Funding of representation by Lord Chancellor[^c-6b88bcc6d49f086f64b4870e074360c4]
+
+*Extent: E+W*
+
+**9.**[^c-6b88bcc6d49f086f64b4870e074360c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Legal services
 
@@ -383,7 +383,7 @@ pursuant to section 55 of the [^c11269311]Justices of the Peace Act 1997 (and is
 
 [^c11269101]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-6b88bcc6d49f086f64b4870e074360c4]: Textual amendment: Sch. 14 Pt. 2 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 51(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/51/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-6b88bcc6d49f086f64b4870e074360c4]: Textual amendment: Sch. 14 Pt. 2 omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 51(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/51/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c11269141]: Marginal citation: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
 

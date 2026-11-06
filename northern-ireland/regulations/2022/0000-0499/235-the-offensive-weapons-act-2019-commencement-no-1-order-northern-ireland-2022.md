@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by section 70(3) of the Offensive Weapons Act 2019[^f00001] makes the following Order.
 
-## 1. Citation and interpretation[^key-dba6be19dca598bf1d7aa13de6c1a299]
+## 1. Citation and interpretation[^c-dba6be19dca598bf1d7aa13de6c1a299]
 
 (1) This Order may be cited as the Offensive Weapons Act 2019 (Commencement No. 1) Order (Northern Ireland) 2022.
 
 (2) In this Order “**the 2019 Act**” means the Offensive Weapons Act 2019”
 
-## 2. Appointed Day[^key-fa0024c49837616f14813fc33ac6c9cd]
+## 2. Appointed Day[^c-fa0024c49837616f14813fc33ac6c9cd]
 
 The day appointed for the coming into operation of section 6 of the 2019 Act is 6th October 2022.
 
@@ -69,6 +69,6 @@ For the purposes of this Order corrosive substance means a substance which is ca
 
 [^f00001]: Footnote: Offensive Weapons Act 2019
 
-[^key-dba6be19dca598bf1d7aa13de6c1a299]: Commencement: Art. 1 in operation at 6.10.2022, see [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)
+[^c-dba6be19dca598bf1d7aa13de6c1a299]: Commencement: Art. 1 in operation at 6.10.2022, see [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)
 
-[^key-fa0024c49837616f14813fc33ac6c9cd]: Commencement: Art. 2 in operation at 6.10.2022, see [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)
+[^c-fa0024c49837616f14813fc33ac6c9cd]: Commencement: Art. 2 in operation at 6.10.2022, see [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)

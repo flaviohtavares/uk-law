@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38A. Building safety assessment[^key-d701df566fd4f4c3dd816de9ed871acf]
+## 38A. Building safety assessment[^c-d701df566fd4f4c3dd816de9ed871acf]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d701df566fd4f4c3dd816de9ed871acf]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/2002/15/section/38A) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/8), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-d701df566fd4f4c3dd816de9ed871acf]: Textual amendment: [S. 38A](https://www.legislation.gov.uk/ukpga/2002/15/section/38A) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/8), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)

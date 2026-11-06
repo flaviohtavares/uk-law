@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-f6ff24157404beeb199881ac818a6534] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-f6ff24157404beeb199881ac818a6534] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) Eastern Counties Railway Act 1836[^f00048];
 - (b) Eastern Counties Railway Act 1838[^f00049];
@@ -40,7 +40,7 @@ Article 6
 
 ## Annotations
 
-[^key-f6ff24157404beeb199881ac818a6534]: Commencement: Sch. 3 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-f6ff24157404beeb199881ac818a6534]: Commencement: Sch. 3 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00048]: Footnote: [1836 c. cvi](https://www.legislation.gov.uk/ukla/1836/106).
 

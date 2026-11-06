@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person may not vote at an election for the council of governors[^key-1f1f8cbc28f5f42bcf95fc5495a885d2] of an NHS foundation trust unless, within the specified period, he has made a declaration in the specified form of the particulars of his qualification to vote as a member of the constituency, or class within a constituency, for which the election is being held.
+(1) A person may not vote at an election for the council of governors[^c-1f1f8cbc28f5f42bcf95fc5495a885d2] of an NHS foundation trust unless, within the specified period, he has made a declaration in the specified form of the particulars of his qualification to vote as a member of the constituency, or class within a constituency, for which the election is being held.
 
-(2) A person may not stand for election to the council[^key-3cf47fc8db12393bbdf4f151fa3e4e7e] unless—
+(2) A person may not stand for election to the council[^c-3cf47fc8db12393bbdf4f151fa3e4e7e] unless—
 
 - (a) he has within the specified period made a declaration in the specified form of the particulars of his qualification to vote as a member of the constituency, or class within a constituency, for which the election is being held, and
 - (b) he is not prevented from being a member of the council by paragraph 8 of Schedule 7.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1f8cbc28f5f42bcf95fc5495a885d2]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/1) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 151(9)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/151/9/a), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-1f1f8cbc28f5f42bcf95fc5495a885d2]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/1) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 151(9)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/151/9/a), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-3cf47fc8db12393bbdf4f151fa3e4e7e]: Textual amendment: Words in [s. 60(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/3) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 151(9)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/151/9/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-3cf47fc8db12393bbdf4f151fa3e4e7e]: Textual amendment: Words in [s. 60(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/41/section/60/3) substituted (1.10.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 151(9)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/151/9/b), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)

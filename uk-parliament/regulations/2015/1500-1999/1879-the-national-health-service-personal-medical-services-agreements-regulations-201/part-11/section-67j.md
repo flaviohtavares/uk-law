@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67J. Recording and reviewing patient safety events[^key-f63f37864e4fe42cc56dbbe110a8f134]
+## 67J. Recording and reviewing patient safety events[^c-f63f37864e4fe42cc56dbbe110a8f134]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f63f37864e4fe42cc56dbbe110a8f134]: Textual amendment: [Reg. 67J](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67J) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/5)
+[^c-f63f37864e4fe42cc56dbbe110a8f134]: Textual amendment: [Reg. 67J](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67J) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/5)

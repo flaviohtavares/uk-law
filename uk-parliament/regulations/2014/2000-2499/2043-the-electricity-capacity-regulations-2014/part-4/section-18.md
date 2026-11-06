@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Excluded capacity: long term STOR CMUs[^key-dcc743612a6d71abe1187edbcb5cba10]
+## 18. Excluded capacity: long term STOR CMUs[^c-dcc743612a6d71abe1187edbcb5cba10]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc743612a6d71abe1187edbcb5cba10]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2043/regulation/18) omitted (4.7.2020) by virtue of [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/697/schedule/1/paragraph/6)
+[^c-dcc743612a6d71abe1187edbcb5cba10]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2043/regulation/18) omitted (4.7.2020) by virtue of [The Electricity Capacity (Amendment etc.) (Coronavirus) Regulations 2020 (S.I. 2020/697)](https://www.legislation.gov.uk/uksi/2020/697), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/697/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/697/schedule/1/paragraph/6)

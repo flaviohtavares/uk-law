@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Corresponding amendments in relation to Northern Ireland[^key-1d654943a9d4825714f1ce1b59861019][^key-f68a87afa66c8c569034313f5889054f]
+## 78. Corresponding amendments in relation to Northern Ireland[^c-1d654943a9d4825714f1ce1b59861019][^c-f68a87afa66c8c569034313f5889054f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 7 (which makes corresponding amendments in relation to Northern Ireland
 
 ## Annotations
 
-[^key-1d654943a9d4825714f1ce1b59861019]: Commencement: S. 78 in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/a)
+[^c-1d654943a9d4825714f1ce1b59861019]: Commencement: S. 78 in force at 10.8.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/a)
 
-[^key-f68a87afa66c8c569034313f5889054f]: Commencement: S. 78 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(o)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/o)
+[^c-f68a87afa66c8c569034313f5889054f]: Commencement: S. 78 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(o)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/o)

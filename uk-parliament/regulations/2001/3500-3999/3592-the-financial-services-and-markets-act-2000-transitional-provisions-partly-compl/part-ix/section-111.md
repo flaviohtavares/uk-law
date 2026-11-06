@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Modification of Financial Services Tribunal Rules[^key-55c3b2564442d58240e645206f766ee2]
+## 111. Modification of Financial Services Tribunal Rules[^c-55c3b2564442d58240e645206f766ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The Financial Services Tribunal (Conduct of Investigations) Rules 1988[^f00038] 
 
 ## Annotations
 
-[^key-55c3b2564442d58240e645206f766ee2]: Commencement: Art. 111 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-55c3b2564442d58240e645206f766ee2]: Commencement: Art. 111 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00038]: Footnote: S.I. [1988/351](https://www.legislation.gov.uk/uksi/1988/351).

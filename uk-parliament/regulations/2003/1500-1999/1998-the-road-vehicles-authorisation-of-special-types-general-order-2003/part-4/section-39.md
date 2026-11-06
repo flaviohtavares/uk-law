@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Vehicles for tests, trials or non-UK use etc: requirements as to width[^key-cc5d9620a179342e6d2a4357a74fa0ea]
+## 39. Vehicles for tests, trials or non-UK use etc: requirements as to width[^c-cc5d9620a179342e6d2a4357a74fa0ea]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc5d9620a179342e6d2a4357a74fa0ea]: Commencement: Art. 39 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-cc5d9620a179342e6d2a4357a74fa0ea]: Commencement: Art. 39 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

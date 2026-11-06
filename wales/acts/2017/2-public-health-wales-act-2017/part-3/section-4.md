@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Smoking[^key-af4b887769c3a3c264d603759643858a]
+## 4. Smoking[^c-af4b887769c3a3c264d603759643858a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Chapter, references to smoking are to smoking tobacco or anything which 
 
 ## Annotations
 
-[^key-af4b887769c3a3c264d603759643858a]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/2/section/4) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-af4b887769c3a3c264d603759643858a]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/2/section/4) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

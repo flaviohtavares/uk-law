@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 49A. Restriction in the public interest[^key-8f19b7607aa678782b444060185ca060]
+## Article 49A. Restriction in the public interest[^c-8f19b7607aa678782b444060185ca060]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f19b7607aa678782b444060185ca060]: Textual amendment: Art. 49A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/10); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-8f19b7607aa678782b444060185ca060]: Textual amendment: Art. 49A inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/10); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)

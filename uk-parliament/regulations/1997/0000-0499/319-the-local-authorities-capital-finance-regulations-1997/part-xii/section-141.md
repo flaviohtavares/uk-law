@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Housing and non-housing amounts for subsequent financial years[^key-8923ed93f01cd459e37885c834778021]
+## 141. Housing and non-housing amounts for subsequent financial years[^c-8923ed93f01cd459e37885c834778021]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Subject to regulation 142, where the current year is the financial year beginnin
 
 ## Annotations
 
-[^key-8923ed93f01cd459e37885c834778021]: Commencement: Reg. 141 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8923ed93f01cd459e37885c834778021]: Commencement: Reg. 141 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

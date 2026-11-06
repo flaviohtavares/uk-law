@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Exploitation of areas outside the territorial sea for gas importation and storage[^key-9d1960ad1568bf74cabe5e5c983518af]
+## 1. Exploitation of areas outside the territorial sea for gas importation and storage[^c-9d1960ad1568bf74cabe5e5c983518af]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) For the purposes of subsection (3), references to gas include any substance which consists wholly or mainly of gas.
 
-(5)[^key-7e1557c6fc81d37d5dfa5501b0475b0c] The area within which the rights to which this section applies are exercisable (the “Gas Importation and Storage Zone”)—
+(5)[^c-7e1557c6fc81d37d5dfa5501b0475b0c] The area within which the rights to which this section applies are exercisable (the “Gas Importation and Storage Zone”)—
 
 - (a) is any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone), but
 - (b) if Her Majesty by Order in Council declares that the Gas Importation and Storage Zone extends to such other area as may be specified in the Order, is the area resulting from the Order.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1960ad1568bf74cabe5e5c983518af]: Commencement: S. 1 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/i)
+[^c-9d1960ad1568bf74cabe5e5c983518af]: Commencement: S. 1 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/i)
 
-[^key-7e1557c6fc81d37d5dfa5501b0475b0c]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/1/5) substituted (12.11.2009 for specified purposes, 31.3.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-7e1557c6fc81d37d5dfa5501b0475b0c]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/2008/32/section/1/5) substituted (12.11.2009 for specified purposes, 31.3.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/5/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)

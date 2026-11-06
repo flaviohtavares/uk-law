@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8B — Modifications of Annex I to the 2001 Directive[^key-e91da4247ab4048c8ed055f6a612a243]
+## SCHEDULE 8B — Modifications of Annex I to the 2001 Directive[^c-e91da4247ab4048c8ed055f6a612a243]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ Regulation 8(1)
 
 ## Annotations
 
-[^key-e91da4247ab4048c8ed055f6a612a243]: Textual amendment: Sch. 8B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/2) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e91da4247ab4048c8ed055f6a612a243]: Textual amendment: Sch. 8B inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/775/schedule/2) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

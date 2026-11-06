@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Date of resolution amending constitution[^key-8913548f52a2c6614ece93671f204421]
+## 16. Date of resolution amending constitution[^c-8913548f52a2c6614ece93671f204421]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8913548f52a2c6614ece93671f204421]: Commencement: Reg. 16 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-8913548f52a2c6614ece93671f204421]: Commencement: Reg. 16 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

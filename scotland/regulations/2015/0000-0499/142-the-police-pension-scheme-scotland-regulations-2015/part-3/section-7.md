@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Establishment of pension board[^key-f5b8483d92954131b964e5829cc827a7]
+## 7. Establishment of pension board[^c-f5b8483d92954131b964e5829cc827a7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b8483d92954131b964e5829cc827a7]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f5b8483d92954131b964e5829cc827a7]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

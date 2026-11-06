@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Lottery[^key-b2a71aaed0a6ab09bad79f4f8d6eac16]
+## 14. Lottery[^c-b2a71aaed0a6ab09bad79f4f8d6eac16]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a71aaed0a6ab09bad79f4f8d6eac16]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/19/section/14) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-b2a71aaed0a6ab09bad79f4f8d6eac16]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/19/section/14) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

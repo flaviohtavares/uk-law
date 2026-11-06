@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of the Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012[^key-f4eb009da10fb6dea566fdc62e5c1aa9]
+## 56. Amendment of the Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012[^c-f4eb009da10fb6dea566fdc62e5c1aa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Part 3 (transfer of functions of the Secretary of State) of the Statutory Audito
 
 ## Annotations
 
-[^key-f4eb009da10fb6dea566fdc62e5c1aa9]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-f4eb009da10fb6dea566fdc62e5c1aa9]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587001]: Marginal citation: [S.I. 2012/1741](https://www.legislation.gov.uk/uksi/2012/1741).

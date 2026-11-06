@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 398E. Restriction on artificial losses or reductions in profits[^key-284c8fe9061a9ae552cd287c0c2c9556]
+## 398E. Restriction on artificial losses or reductions in profits[^c-284c8fe9061a9ae552cd287c0c2c9556]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-284c8fe9061a9ae552cd287c0c2c9556]: Textual amendment: Ss. 398A-398G and cross-heading inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/6) (with [Sch. 18 paras. 11-13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/11))
+[^c-284c8fe9061a9ae552cd287c0c2c9556]: Textual amendment: Ss. 398A-398G and cross-heading inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/6) (with [Sch. 18 paras. 11-13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/11))

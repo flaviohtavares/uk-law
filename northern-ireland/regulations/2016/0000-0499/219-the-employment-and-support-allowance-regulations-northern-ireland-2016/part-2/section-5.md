@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. The end of the assessment phase[^key-d4c1aa2715686b775dc82e0273fe058f]
+## 5. The end of the assessment phase[^c-d4c1aa2715686b775dc82e0273fe058f]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c1aa2715686b775dc82e0273fe058f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/219/regulation/5) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d4c1aa2715686b775dc82e0273fe058f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/219/regulation/5) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00034]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); Regulation 55ZA was inserted by regulation 2(5) of [S.R. 2015 No. 138](https://www.legislation.gov.uk/nisr/2015/138).

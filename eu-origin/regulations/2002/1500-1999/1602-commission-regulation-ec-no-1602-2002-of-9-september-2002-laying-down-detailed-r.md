@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1602/2002
 
 of 9 September 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the authorisation of a Member State to prohibit the marketing of specified forest reproductive material to the end-user (revoked)
 
-[^key-fbf23f2af40c2e377e1217eb6ce020ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbf23f2af40c2e377e1217eb6ce020ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-fbf23f2af40c2e377e1217eb6ce020ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-fbf23f2af40c2e377e1217eb6ce020ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbf23f2af40c2e377e1217eb6ce020ab]: Textual amendment: Regulation revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbf23f2af40c2e377e1217eb6ce020ab]: Textual amendment: Regulation revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

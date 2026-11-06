@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.38. Orders enforcing compliance[^key-466e3a66880a36d073a29cc274929d98]
+## 4.38. Orders enforcing compliance[^c-466e3a66880a36d073a29cc274929d98]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-466e3a66880a36d073a29cc274929d98]: Commencement: Rule 4.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-466e3a66880a36d073a29cc274929d98]: Commencement: Rule 4.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00022]: Footnote: Section 235 was amended by paragraph 24 of Schedule 17 to the Enterprise Act 2002.

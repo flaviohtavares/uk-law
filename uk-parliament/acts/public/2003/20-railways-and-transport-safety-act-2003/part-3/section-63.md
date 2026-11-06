@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Inspection[^key-786c0d6b0bc373cd74269bc54ceacbca]
+## 63. Inspection[^c-786c0d6b0bc373cd74269bc54ceacbca]
 
 *Extent: E+W+S*
 
@@ -42,11 +42,11 @@ summary: ''
 
 (8) In the application of this section in relation to Scotland—
 
-- (a) a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-f7198189131266edad936cb4d8474fa1], and
+- (a) a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^c-f7198189131266edad936cb4d8474fa1], and
 - (b) where an inspection under this section is carried out by inspectors so appointed the references to the Secretary of State in subsection (7) shall be treated as references to the Scottish Ministers.
 
 ## Annotations
 
-[^key-786c0d6b0bc373cd74269bc54ceacbca]: Commencement: S. 63 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(tt)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/tt)
+[^c-786c0d6b0bc373cd74269bc54ceacbca]: Commencement: S. 63 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(tt)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/tt)
 
-[^key-f7198189131266edad936cb4d8474fa1]: Textual amendment: Words in [s. 63(8)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/63/8/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 41(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/41/4)
+[^c-f7198189131266edad936cb4d8474fa1]: Textual amendment: Words in [s. 63(8)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/63/8/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 41(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/41/4)

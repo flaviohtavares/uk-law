@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 130(2), (3) and (4) of the Land Reform (Scotland) Act 2016[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-03096fac8ea0bd92b46f2b4c7f2a62ea]
+## 1. Citation, commencement and interpretation[^c-03096fac8ea0bd92b46f2b4c7f2a62ea]
 
 (1) These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) Regulations 2017 and come into force on 30th November 2017.
 
@@ -55,15 +55,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “1991 Act tenancy” has the same meaning as in section 93 of the 2003 Act (interpretation)[^f00002];
 - “the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003;
 - “the 2016 Act” means the Land Reform (Scotland) Act 2016; and
-- “limited duration tenancy” has the same meaning as in section 93 of the 2003[^key-798208d1eb53b0409f5b9881485cdb4a] Act[^f00003].
+- “limited duration tenancy” has the same meaning as in section 93 of the 2003[^c-798208d1eb53b0409f5b9881485cdb4a] Act[^f00003].
 
-## 2. Appointed day[^key-fdeed34edae348a38f5ba2361ba34d95]
+## 2. Appointed day[^c-fdeed34edae348a38f5ba2361ba34d95]
 
 (1) 30th November 2017 is the day appointed for the coming into force of the provisions of the 2016 Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table).
 
 (2) Where a purpose is specified in column 3 of that table in relation to any provision specified in column 1, that provision comes into force on 30th November 2017 only for that purpose.
 
-## 3. Saving provision: conversion from 1991 Act tenancy to limited duration tenancy[^key-ef6ab164357597131986815e1fbb8fd9]
+## 3. Saving provision: conversion from 1991 Act tenancy to limited duration tenancy[^c-ef6ab164357597131986815e1fbb8fd9]
 
 (1) Despite its repeal by section 90(2) of the 2016 Act, section 2 of the 2003 Act (conversion from 1991 Act tenancy to limited duration tenancy) continues to have effect in respect of—
 
@@ -81,11 +81,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (a) an agreement to which paragraph (1)(a) applies; or
 - (b) a lease constituting a limited duration tenancy to which paragraph (1)(b) applies.
 
-## 4. Saving provision: limited duration tenancies[^key-76986158fb8b0befa220470d93083eb2]
+## 4. Saving provision: limited duration tenancies[^c-76986158fb8b0befa220470d93083eb2]
 
 Despite its repeal by section 85(2) of the 2016 Act, section 5 of the 2003 Act (limited duration tenancies) continues to have effect in relation to a limited duration tenancy in existence immediately before 30th November 2017.
 
-## 5. Transitory provision: modern limited duration tenancies[^key-0513a2e8ff7331e6e73ec81efda6c882]
+## 5. Transitory provision: modern limited duration tenancies[^c-0513a2e8ff7331e6e73ec81efda6c882]
 
 Until the coming into force of section 92 of the 2016 Act (repairing tenancies: creation) for all purposes, section 5A(1)(c) of the 2003 Act (modern limited duration tenancies) is to be read as if “or a repairing tenancy” were omitted.
 
@@ -224,7 +224,7 @@ Edinburgh
 
 14th September 2017
 
-## SCHEDULE — PROVISIONS OF THE 2016 ACT COMING INTO FORCE ON 30th NOVEMBER 2017[^key-d14bcd40f928a44dc002c55cf7e2b458]
+## SCHEDULE — PROVISIONS OF THE 2016 ACT COMING INTO FORCE ON 30th NOVEMBER 2017[^c-d14bcd40f928a44dc002c55cf7e2b458]
 
 Regulation 2(1) and (2)
 
@@ -354,20 +354,20 @@ The following provisions of the Land Reform (Scotland) Act 2016 have been brough
 
 [^f00001]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18) (“the 2016 Act”).
 
-[^key-03096fac8ea0bd92b46f2b4c7f2a62ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/299/regulation/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
+[^c-03096fac8ea0bd92b46f2b4c7f2a62ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/299/regulation/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
 
 [^f00002]: Footnote: The Agricultural Holdings (Scotland) Act [2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11) (“the 2003 Act”).
 
-[^key-798208d1eb53b0409f5b9881485cdb4a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/2) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/370/regulation/3)
+[^c-798208d1eb53b0409f5b9881485cdb4a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/2) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/370/regulation/3)
 
 [^f00003]: Footnote: The definition of “limited duration tenancy” in section 93 of the 2003 Act is substituted by paragraph 7(30)(a) of schedule 2 of the 2016 Act. That paragraph is commenced by these Regulations.
 
-[^key-fdeed34edae348a38f5ba2361ba34d95]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
+[^c-fdeed34edae348a38f5ba2361ba34d95]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
 
-[^key-ef6ab164357597131986815e1fbb8fd9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
+[^c-ef6ab164357597131986815e1fbb8fd9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
 
-[^key-76986158fb8b0befa220470d93083eb2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
+[^c-76986158fb8b0befa220470d93083eb2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
 
-[^key-0513a2e8ff7331e6e73ec81efda6c882]: Textual amendment: [Regs. 5-14](https://www.legislation.gov.uk/ssi/2017/299/regulation/5) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/370/regulation/4)
+[^c-0513a2e8ff7331e6e73ec81efda6c882]: Textual amendment: [Regs. 5-14](https://www.legislation.gov.uk/ssi/2017/299/regulation/5) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/370/regulation/4)
 
-[^key-d14bcd40f928a44dc002c55cf7e2b458]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)
+[^c-d14bcd40f928a44dc002c55cf7e2b458]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/299/regulation/1/1)

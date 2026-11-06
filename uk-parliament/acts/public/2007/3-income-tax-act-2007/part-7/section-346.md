@@ -30,8 +30,8 @@ summary: ''
 - (a) any present or future right to be redeemed within the 5 year period, or
 - (b) any present or future right to be converted into or exchanged for a loan which is, or securities, shares or other rights which are, redeemable within that period.
 
-(3) For the purposes of subsection (1)(b), securities are not fully paid for[^key-c617b76afd35f8026dfe0729f1bb93da] if there is any undertaking to pay cash to the CDFI at a future date in connection with the acquisition of the securities.
+(3) For the purposes of subsection (1)(b), securities are not fully paid for[^c-c617b76afd35f8026dfe0729f1bb93da] if there is any undertaking to pay cash to the CDFI at a future date in connection with the acquisition of the securities.
 
 ## Annotations
 
-[^key-c617b76afd35f8026dfe0729f1bb93da]: Textual amendment: Words in s. 346(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 510](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/510) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c617b76afd35f8026dfe0729f1bb93da]: Textual amendment: Words in s. 346(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 510](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/510) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

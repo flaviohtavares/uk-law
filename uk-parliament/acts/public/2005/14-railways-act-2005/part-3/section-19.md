@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. The Passengers’ Council[^key-06d67c36eb5092bb1fac50660836d517][^key-6bb5e9c0bea429c5f04be7209d2c00ef]
+## 19. The Passengers’ Council[^c-06d67c36eb5092bb1fac50660836d517][^c-6bb5e9c0bea429c5f04be7209d2c00ef]
 
 *Extent: E+W+S*
 
-(1) There shall be a body corporate to be known as the Passengers’ Council[^key-8297ae116d1839d185a384105542905a].
+(1) There shall be a body corporate to be known as the Passengers’ Council[^c-8297ae116d1839d185a384105542905a].
 
 (2) That Council shall consist of—
 
 - (a) a chairman appointed by the Secretary of State;
 - (b) a member appointed by the Scottish Ministers;
-- (c) a member appointed by the Welsh Ministers[^key-a67f957bed5543429d3516e8b4507c77];
+- (c) a member appointed by the Welsh Ministers[^c-a67f957bed5543429d3516e8b4507c77];
 - (d) a member appointed by the London Assembly from the members of the London Transport Users' Committee; and
-- (e) not more than fourteen[^key-92f3cbd4dcc6c1e0a41d354197efdd7f] other members appointed by the Secretary of State after consultation with the chairman.
+- (e) not more than fourteen[^c-92f3cbd4dcc6c1e0a41d354197efdd7f] other members appointed by the Secretary of State after consultation with the chairman.
 
 (3) The chairman and other members of that Council—
 
@@ -51,12 +51,12 @@ summary: ''
 
 ## Annotations
 
-[^key-06d67c36eb5092bb1fac50660836d517]: Commencement: S. 19 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-06d67c36eb5092bb1fac50660836d517]: Commencement: S. 19 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-6bb5e9c0bea429c5f04be7209d2c00ef]: Textual amendment: Words in s. 19 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/3/b)
+[^c-6bb5e9c0bea429c5f04be7209d2c00ef]: Textual amendment: Words in s. 19 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/3/b)
 
-[^key-8297ae116d1839d185a384105542905a]: Textual amendment: Words in s. 19 substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/3/a)
+[^c-8297ae116d1839d185a384105542905a]: Textual amendment: Words in s. 19 substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/3/a)
 
-[^key-a67f957bed5543429d3516e8b4507c77]: Textual amendment: Words in [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/2005/14/section/19/2/c) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(x)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/x), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/41)
+[^c-a67f957bed5543429d3516e8b4507c77]: Textual amendment: Words in [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/2005/14/section/19/2/c) substituted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(x)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/x), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/41)
 
-[^key-92f3cbd4dcc6c1e0a41d354197efdd7f]: Textual amendment: Words in s. 19(2)(e) substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [4](https://www.legislation.gov.uk/uksi/2010/439/article/4)
+[^c-92f3cbd4dcc6c1e0a41d354197efdd7f]: Textual amendment: Words in s. 19(2)(e) substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [arts. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [4](https://www.legislation.gov.uk/uksi/2010/439/article/4)

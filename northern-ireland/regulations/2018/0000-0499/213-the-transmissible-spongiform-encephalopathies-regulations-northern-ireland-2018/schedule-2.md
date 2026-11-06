@@ -119,7 +119,7 @@ and failure to do so is an offence.
 - (b) has adequate quality control procedures; and
 - (c) has adequate procedures to ensure the correct identification of the samples and notification of the test results to the consigning slaughterhouse and to the Department.
 
-(2)[^key-f6d52705c383b3ef49744e5928ad005e] In this Schedule an “**approved testing laboratory**” means—
+(2)[^c-f6d52705c383b3ef49744e5928ad005e] In this Schedule an “**approved testing laboratory**” means—
 
 - (a) a laboratory approved by the Department under this paragraph; or
 - (b) a laboratory approved under corresponding legislation elsewhere in the United Kingdom.
@@ -198,4 +198,4 @@ the occupier of the premises must comply with any direction given by the Departm
 
 ## Annotations
 
-[^key-f6d52705c383b3ef49744e5928ad005e]: Textual amendment: [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/nisr/2018/213/schedule/2/paragraph/11/2) substituted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/273)](https://www.legislation.gov.uk/uksi/2019/273), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/273/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/273/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6d52705c383b3ef49744e5928ad005e]: Textual amendment: [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/nisr/2018/213/schedule/2/paragraph/11/2) substituted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/273)](https://www.legislation.gov.uk/uksi/2019/273), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/273/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/273/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

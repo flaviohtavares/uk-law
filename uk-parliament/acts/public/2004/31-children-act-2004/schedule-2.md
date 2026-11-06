@@ -37,7 +37,7 @@ Section 18
   > (A1) A local authority in England shall appoint an officer, to be known as the director of adult social services, for the purposes of their social services functions, other than those for which the authority’s director of children’s services is responsible under section 18 of the Children Act 2004.
 
   ;
-- (b)[^key-98d96593eca798b83f22b1a04ea8e773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-98d96593eca798b83f22b1a04ea8e773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (2), after “director of”, in both places, insert “ adult social services or (as the case may be) ”;
 - (d) in subsection (6), for “a director of social services” substitute “ a person under this section ”.
 
@@ -106,10 +106,10 @@ Section 18
 
 ### Criminal Justice Act 2003 (c. 44)
 
-**8.**[^key-2b3273a24620aa918c51c086352723fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2b3273a24620aa918c51c086352723fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98d96593eca798b83f22b1a04ea8e773]: Textual amendment: [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/2/paragraph/2/2/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [221](https://www.legislation.gov.uk/wsi/2016/413/regulation/221)
+[^c-98d96593eca798b83f22b1a04ea8e773]: Textual amendment: [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/2/paragraph/2/2/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [221](https://www.legislation.gov.uk/wsi/2016/413/regulation/221)
 
-[^key-2b3273a24620aa918c51c086352723fc]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2004/31/schedule/2/paragraph/8) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-2b3273a24620aa918c51c086352723fc]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2004/31/schedule/2/paragraph/8) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)

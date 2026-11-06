@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Appointment of interim manager[^key-a787b1c99b84f962ba5483ae4c5c759b]
+## 30. Appointment of interim manager[^c-a787b1c99b84f962ba5483ae4c5c759b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a787b1c99b84f962ba5483ae4c5c759b]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2013/6/section/30) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-a787b1c99b84f962ba5483ae4c5c759b]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2013/6/section/30) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

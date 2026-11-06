@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Incorporation of the Railways Clauses Consolidation Act 1845[^key-5e1b13cd922125488ecb9a13d73334dd]
+## 4. Incorporation of the Railways Clauses Consolidation Act 1845[^c-5e1b13cd922125488ecb9a13d73334dd]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1b13cd922125488ecb9a13d73334dd]: Commencement: Art. 4 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-5e1b13cd922125488ecb9a13d73334dd]: Commencement: Art. 4 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

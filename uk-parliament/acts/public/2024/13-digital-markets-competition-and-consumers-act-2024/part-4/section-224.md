@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Overview[^key-de521657c83876ea2bc12a4496ef6cf1][^key-c8d7201f9be4bc5b18740b6f1c590be4]
+## 224. Overview[^c-de521657c83876ea2bc12a4496ef6cf1][^c-c8d7201f9be4bc5b18740b6f1c590be4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de521657c83876ea2bc12a4496ef6cf1]: Commencement: S. 224 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-de521657c83876ea2bc12a4496ef6cf1]: Commencement: S. 224 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c8d7201f9be4bc5b18740b6f1c590be4]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2024/13/section/224) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-c8d7201f9be4bc5b18740b6f1c590be4]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2024/13/section/224) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

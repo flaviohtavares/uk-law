@@ -52,9 +52,9 @@ summary: ''
 - (a) that the licence applied for is the appropriate licence for the vehicle specified in the application, and
 - (b) in the case of an application for a licence for a vehicle purporting to be the first application for a licence for the vehicle, that a licence has not previously been issued for the vehicle.
 
-(5A)[^key-6cd25b17774815f6e8cefaa46fad55d2] The Secretary of State is not required to issue a vehicle licence for a heavy goods vehicle if not satisfied that the appropriate HGV road user levy has been paid.
+(5A)[^c-6cd25b17774815f6e8cefaa46fad55d2] The Secretary of State is not required to issue a vehicle licence for a heavy goods vehicle if not satisfied that the appropriate HGV road user levy has been paid.
 
-(5B)[^key-b68c2774832df8f248116d77d72d9cab] The Secretary of State may not issue a vehicle licence in respect of a vehicle—
+(5B)[^c-b68c2774832df8f248116d77d72d9cab] The Secretary of State may not issue a vehicle licence in respect of a vehicle—
 
 - (a) completed before IP completion day,
 - (b) which is to be, or is normally, kept at a place in Great Britain, and
@@ -104,14 +104,14 @@ unless the vehicle satisfies one of the conditions in subsection (5I).
 - (a) an EC certificate of conformity issued in reliance on a relevant European approval granted by or on the authority of an EU State has effect in respect of the vehicle;
 - (b) a relevant Northern Ireland certificate has effect in respect of the vehicle.
 
-(6)[^key-a4afeb8394fe333b1c158e2cadc5038e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a4afeb8394fe333b1c158e2cadc5038e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-a4afeb8394fe333b1c158e2cadc5038e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a4afeb8394fe333b1c158e2cadc5038e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^c12507621] In this section—[^key-6a7e24908ebf34d6fac801e229293f0d]
+(8)[^c12507621] In this section—[^c-6a7e24908ebf34d6fac801e229293f0d]
 
 - “the appropriate HGV road user levy”, in relation to a vehicle licence, means the HGV road user levy charged for the period for which the licence would have effect;
-- “[^key-4ec610c2cf0867fe6f22f0acce489612]**EC certificate of conformity**” has the meaning given in section 85 of the Road Traffic Act 1988;
+- “[^c-4ec610c2cf0867fe6f22f0acce489612]**EC certificate of conformity**” has the meaning given in section 85 of the Road Traffic Act 1988;
 - “**EU State**” means—
   - ((a)) in relation to the period before IP completion day, a member State other than the United Kingdom, and
   - ((b)) in relation to the period on or after IP completion day, a member State;
@@ -165,14 +165,14 @@ unless the vehicle satisfies one of the conditions in subsection (5I).
 
 [^c18043291]: Textual amendment: S. 7(4) substituted (30.11.2003) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 19](https://www.legislation.gov.uk/ukpga/2002/23/section/19), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2002/23/schedule/5/paragraph/4); [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/3086/article/2/b)
 
-[^key-6cd25b17774815f6e8cefaa46fad55d2]: Textual amendment: S. 7(5A) inserted (1.4.2014) by [HGV Road User Levy Act 2013 (c. 7)](https://www.legislation.gov.uk/ukpga/2013/7), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/15/1), [21(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/21/1); [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+[^c-6cd25b17774815f6e8cefaa46fad55d2]: Textual amendment: S. 7(5A) inserted (1.4.2014) by [HGV Road User Levy Act 2013 (c. 7)](https://www.legislation.gov.uk/ukpga/2013/7), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/15/1), [21(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/21/1); [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
 
-[^key-b68c2774832df8f248116d77d72d9cab]: Textual amendment: S. 7(5B)-(5I) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by S.I. 2019/648, reg. 3(2)(a) (with reg. 11) (as substituted by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/i) (with [reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12)))
+[^c-b68c2774832df8f248116d77d72d9cab]: Textual amendment: S. 7(5B)-(5I) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by S.I. 2019/648, reg. 3(2)(a) (with reg. 11) (as substituted by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1393)](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/3/a/i) (with [reg. 2(12)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12)))
 
-[^key-a4afeb8394fe333b1c158e2cadc5038e]: Textual amendment: S. 7(6)(7) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/2), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-a4afeb8394fe333b1c158e2cadc5038e]: Textual amendment: S. 7(6)(7) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/2), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
 [^c12507621]: Textual amendment: S. 7(8) inserted (29.4.1996 with effect as mentioned in [s. 17(14)](https://www.legislation.gov.uk/ukpga/1996/8/section/17/14) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 17(10)(14)](https://www.legislation.gov.uk/ukpga/1996/8/section/17/10/14)
 
-[^key-6a7e24908ebf34d6fac801e229293f0d]: Textual amendment: Words in s. 7(8) substituted (1.4.2014) by [HGV Road User Levy Act 2013 (c. 7)](https://www.legislation.gov.uk/ukpga/2013/7), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/15/2), [21(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/21/1); [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
+[^c-6a7e24908ebf34d6fac801e229293f0d]: Textual amendment: Words in s. 7(8) substituted (1.4.2014) by [HGV Road User Levy Act 2013 (c. 7)](https://www.legislation.gov.uk/ukpga/2013/7), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2013/7/section/15/2), [21(1)](https://www.legislation.gov.uk/ukpga/2013/7/section/21/1); [S.I. 2014/797](https://www.legislation.gov.uk/uksi/2014/797), [art. 2](https://www.legislation.gov.uk/uksi/2014/797/article/2)
 
-[^key-4ec610c2cf0867fe6f22f0acce489612]: Textual amendment: Words in s. 7(8) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/648/regulation/3/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12) and S.I. 2020/818, Sch. 6 para. 39(3)(a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ec610c2cf0867fe6f22f0acce489612]: Textual amendment: Words in s. 7(8) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648)](https://www.legislation.gov.uk/uksi/2019/648), [regs. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2019/648/regulation/1/b/ii), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/648/regulation/3/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/648/regulation/11)) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/12) and S.I. 2020/818, Sch. 6 para. 39(3)(a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

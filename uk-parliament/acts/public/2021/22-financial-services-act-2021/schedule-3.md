@@ -24,7 +24,7 @@ Section 5
 
 ### PART 1 — New Part 9D of the Financial Services and Markets Act 2000
 
-**1.**[^key-c55b9cdf51388e0c0db842f042546cae] In the Financial Services and Markets Act 2000, after Part 9C (inserted by Schedule 2 to this Act) insert—
+**1.**[^c-c55b9cdf51388e0c0db842f042546cae] In the Financial Services and Markets Act 2000, after Part 9C (inserted by Schedule 2 to this Act) insert—
 
 > **PART 9D — Prudential regulation of credit institutions etc**
 >
@@ -180,11 +180,11 @@ Section 5
 
 ### PART 2 — PRA's powers in relation to certain holding companies
 
-**2.**[^key-07d3972f4a178a53c8fb7732ba01f70d] Part 12B of the Financial Services and Markets Act 2000 (approval of certain holding companies by the PRA) is amended as follows.
+**2.**[^c-07d3972f4a178a53c8fb7732ba01f70d] Part 12B of the Financial Services and Markets Act 2000 (approval of certain holding companies by the PRA) is amended as follows.
 
-**3.**[^key-f02daf9d7d34777918b0786b46ec3b82] Before section 192O insert— “ Interpretation ”.
+**3.**[^c-f02daf9d7d34777918b0786b46ec3b82] Before section 192O insert— “ Interpretation ”.
 
-**4.**[^key-31c56aeb145f28cbd219a3a5eb7df457] (1) Section 192O(1) (interpretation) is amended as follows.
+**4.**[^c-31c56aeb145f28cbd219a3a5eb7df457] (1) Section 192O(1) (interpretation) is amended as follows.
 
 (2) Omit the definition of “section 192V rules”.
 
@@ -194,11 +194,11 @@ Section 5
 
 .
 
-**5.**[^key-df3a486caf021045c55f1c2ed4151a30] Before section 192P insert— “ Approval ”.
+**5.**[^c-df3a486caf021045c55f1c2ed4151a30] Before section 192P insert— “ Approval ”.
 
-**6.**[^key-26b9c3d6a98b28924ed698e9ba0acad7] Omit section 192V (rules imposing consolidated or sub-consolidated requirements).
+**6.**[^c-26b9c3d6a98b28924ed698e9ba0acad7] Omit section 192V (rules imposing consolidated or sub-consolidated requirements).
 
-**7.**[^key-e50384f8c13322757df6865cccb98b5b] After section 192X insert—
+**7.**[^c-e50384f8c13322757df6865cccb98b5b] After section 192X insert—
 
 > **Rules**
 >
@@ -270,7 +270,7 @@ Section 5
 
 .
 
-**8.**[^key-5f99b1ff27f5638ed304add8374b49eb] In section 192Y(1) (power to impose penalty or issue censure), for paragraph (d) substitute—
+**8.**[^c-5f99b1ff27f5638ed304add8374b49eb] In section 192Y(1) (power to impose penalty or issue censure), for paragraph (d) substitute—
 
 > - (d) the capital requirements regulation or an instrument made under that regulation.”
 
@@ -278,7 +278,7 @@ Section 5
 
 #### Bank of England Act 1998 (c. 11)
 
-**9.**[^key-d11dd878dca653323d9efb494fc0c5a8] (1) Section 9H of the Bank of England Act 1998 (directions to FCA or PRA requiring macro-prudential measures) is amended as follows.
+**9.**[^c-d11dd878dca653323d9efb494fc0c5a8] (1) Section 9H of the Bank of England Act 1998 (directions to FCA or PRA requiring macro-prudential measures) is amended as follows.
 
 (2) In subsection (2) (definition of “regulated person”), for paragraph (b) substitute—
 
@@ -296,19 +296,19 @@ Section 5
 
 #### Financial Services and Markets Act 2000 (c. 8)
 
-**10.**[^key-3f8eba0cffe72867d8538f8f4bda31a7] The Financial Services and Markets Act 2000 is amended as follows.
+**10.**[^c-3f8eba0cffe72867d8538f8f4bda31a7] The Financial Services and Markets Act 2000 is amended as follows.
 
-**11.**[^key-7ba0fef689c9e99408567d702eb4d63d] In section 137G (the PRA's general rules), at the end insert—
+**11.**[^c-7ba0fef689c9e99408567d702eb4d63d] In section 137G (the PRA's general rules), at the end insert—
 
 > (7) Subsection (6) is subject to section 144H(2).
 
-**12.**[^key-180918c79b47bb7fb08ae22b62aa0e85] In section 138J(10) (consultation by the PRA), for “section 138L” substitute “ sections 138L and 144E(3). ”
+**12.**[^c-180918c79b47bb7fb08ae22b62aa0e85] In section 138J(10) (consultation by the PRA), for “section 138L” substitute “ sections 138L and 144E(3). ”
 
-**13.**[^key-a95f11bdd0276c91f34e750c705608b1] In section 138K (consultation: mutual societies), at the end insert—
+**13.**[^c-a95f11bdd0276c91f34e750c705608b1] In section 138K (consultation: mutual societies), at the end insert—
 
 > (7) This section is subject to section 144E(3).
 
-**14.**[^key-b5b858b38910bdcfb403a923e04af0c1] (1) Section 192O (interpretation of Part 12B) is amended as follows.
+**14.**[^c-b5b858b38910bdcfb403a923e04af0c1] (1) Section 192O (interpretation of Part 12B) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -323,7 +323,7 @@ Section 5
 
 > (3) In this Part, references to instruments made under the capital requirements regulation include EU tertiary legislation made under that regulation which forms part of retained EU law.
 
-**15.**[^key-1d6582f8ff8fff6d9f005fce26065948] In section 192R(3) (grant of approval)—
+**15.**[^c-1d6582f8ff8fff6d9f005fce26065948] In section 192R(3) (grant of approval)—
 
 - (a) in paragraph (a) omit “, section 192V rules” and the “and” at the end, and
 - (b) after that paragraph insert—
@@ -332,7 +332,7 @@ Section 5
 
   .
 
-**16.**[^key-0764bdcb4dcb331a43df65e8b466bb56] (1) Section 192T (measures) is amended as follows.
+**16.**[^c-0764bdcb4dcb331a43df65e8b466bb56] (1) Section 192T (measures) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -349,7 +349,7 @@ Section 5
 - (a) omit “, section 192V rules”, and
 - (b) at the end insert “ and with section 192XA rules ”.
 
-**17.**[^key-282d8b702995ef8c8a735b2da96fe52f] In section 192Y(1) (power to impose penalty or issue censure)—
+**17.**[^c-282d8b702995ef8c8a735b2da96fe52f] In section 192Y(1) (power to impose penalty or issue censure)—
 
 - (a) omit paragraph (c) (including the “or” at the end), and
 - (b) after that paragraph insert—
@@ -358,21 +358,21 @@ Section 5
 
   .
 
-**18.**[^key-b899b8960db75510fb530e0ebeb39ac4] In section 417(1) (definitions), at the appropriate place, insert—
+**18.**[^c-b899b8960db75510fb530e0ebeb39ac4] In section 417(1) (definitions), at the appropriate place, insert—
 
 > “**CRR rules**” has the meaning given in section 144A;
 
 .
 
-**19.**[^key-b0c5f8cbeee0f8f7147424825d7f74aa] In section 429(2) (parliamentary control of statutory instruments: affirmative procedure), before “214A” insert “ 144C(1), 144F, ”.
+**19.**[^c-b0c5f8cbeee0f8f7147424825d7f74aa] In section 429(2) (parliamentary control of statutory instruments: affirmative procedure), before “214A” insert “ 144C(1), 144F, ”.
 
 #### Capital Requirements Regulations 2013 (S.I. 2013/3115)
 
-**20.**[^key-4fd780ce927ca7c79b3826bae839b7e0] The Capital Requirements Regulations 2013 (meaning of “permission” etc) is amended as follows.
+**20.**[^c-4fd780ce927ca7c79b3826bae839b7e0] The Capital Requirements Regulations 2013 (meaning of “permission” etc) is amended as follows.
 
-**21.**[^key-466cbc8534e0ddf10bc5c6cb17dbb799] In regulation 2(1), in the definition of “appropriate regulator”, at the end insert “ , subject to regulation 39(2) ”.
+**21.**[^c-466cbc8534e0ddf10bc5c6cb17dbb799] In regulation 2(1), in the definition of “appropriate regulator”, at the end insert “ , subject to regulation 39(2) ”.
 
-**22.**[^key-a99ae1f71cec931eb7273eb957e6c592] (1) Regulation 39 (meaning of “permission” etc) is amended as follows.
+**22.**[^c-a99ae1f71cec931eb7273eb957e6c592] (1) Regulation 39 (meaning of “permission” etc) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -397,7 +397,7 @@ Section 5
 
 #### Pre-commencement consultation etc
 
-**23.**[^key-818e4c59a3448138e2bd6cc6e10e0ffe] (1) In relation to general rules that are CRR rules, the requirements of the provisions listed in sub-paragraph (3) may be satisfied by things done before Part 1 of this Schedule comes into force (as well as by things done after that time).
+**23.**[^c-818e4c59a3448138e2bd6cc6e10e0ffe] (1) In relation to general rules that are CRR rules, the requirements of the provisions listed in sub-paragraph (3) may be satisfied by things done before Part 1 of this Schedule comes into force (as well as by things done after that time).
 
 (2) In relation to section 192XA rules, the requirements of the provisions listed in sub-paragraph (3) may be satisfied by things done before Part 2 of this Schedule comes into force (as well as by things done after that time).
 
@@ -408,18 +408,18 @@ Section 5
 
 #### Relevant equivalence decisions
 
-**24.**[^key-2b4bca3ebf82e387e224f9d1b6007fdd] For the purposes of section 144C of the Financial Services and Markets Act 2000 (inserted by Part 1 of this Schedule), an equivalence decision may be a relevant equivalence decision by virtue of a notice in writing given by the Treasury before Part 1 of this Schedule comes into force (as well as by a notice given after that time).
+**24.**[^c-2b4bca3ebf82e387e224f9d1b6007fdd] For the purposes of section 144C of the Financial Services and Markets Act 2000 (inserted by Part 1 of this Schedule), an equivalence decision may be a relevant equivalence decision by virtue of a notice in writing given by the Treasury before Part 1 of this Schedule comes into force (as well as by a notice given after that time).
 
 #### Carbon target
 
-**25.**[^key-bcf783a2b1b3a1c153e489c18fe6e324] In relation to the making of CRR rules or section 192XA rules that are made on or before 1 January 2022—
+**25.**[^c-bcf783a2b1b3a1c153e489c18fe6e324] In relation to the making of CRR rules or section 192XA rules that are made on or before 1 January 2022—
 
 - (a) paragraph (d) of section 144C(1) of the Financial Services and Markets Act 2000 (duty to have regard to carbon target for 2050) does not apply, and
 - (b) section 144D(1) of that Act does not require an explanation in respect of matters specified in that paragraph.
 
 #### Section 192V rules
 
-**26.**[^key-711aaee2b16ffa10f5496e938c97cf68] (1) Rules made by the Prudential Regulation Authority under section 192V of the Financial Services and Markets Act 2000 and in force immediately before the day on which the repeal of that section by Part 2 of this Schedule comes into force (“the repeal day”) are to be treated, on and after that day—
+**26.**[^c-711aaee2b16ffa10f5496e938c97cf68] (1) Rules made by the Prudential Regulation Authority under section 192V of the Financial Services and Markets Act 2000 and in force immediately before the day on which the repeal of that section by Part 2 of this Schedule comes into force (“the repeal day”) are to be treated, on and after that day—
 
 - (a) as validly made section 192XA rules, and
 - (b) to the extent that they make provision about a matter described in section 144A(3) of the Financial Services and Markets Act 2000 (inserted by Part 1 of this Schedule), as validly made CRR rules.
@@ -428,7 +428,7 @@ Section 5
 
 #### Interpretation
 
-**27.**[^key-ae5d73353413865c7ac0c56fe39cbfad] In this Part of this Schedule—
+**27.**[^c-ae5d73353413865c7ac0c56fe39cbfad] In this Part of this Schedule—
 
 - “**CRR rules**” has the same meaning as in the Financial Services and Markets Act 2000 (see section 144A of that Act, inserted by Part 1 of this Schedule);
 - “**general rules**” has the meaning given in section 137G(2) of that Act;
@@ -436,56 +436,56 @@ Section 5
 
 ## Annotations
 
-[^key-c55b9cdf51388e0c0db842f042546cae]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/1) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-c55b9cdf51388e0c0db842f042546cae]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/1) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-07d3972f4a178a53c8fb7732ba01f70d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/2) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-07d3972f4a178a53c8fb7732ba01f70d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/2) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-f02daf9d7d34777918b0786b46ec3b82]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/3) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-f02daf9d7d34777918b0786b46ec3b82]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/3) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-31c56aeb145f28cbd219a3a5eb7df457]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/4) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-31c56aeb145f28cbd219a3a5eb7df457]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/4) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-df3a486caf021045c55f1c2ed4151a30]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/5) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-df3a486caf021045c55f1c2ed4151a30]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/5) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-26b9c3d6a98b28924ed698e9ba0acad7]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/6) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-26b9c3d6a98b28924ed698e9ba0acad7]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/6) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-e50384f8c13322757df6865cccb98b5b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/7) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-e50384f8c13322757df6865cccb98b5b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/7) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-5f99b1ff27f5638ed304add8374b49eb]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/8) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-5f99b1ff27f5638ed304add8374b49eb]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/8) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-d11dd878dca653323d9efb494fc0c5a8]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/9) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-d11dd878dca653323d9efb494fc0c5a8]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/9) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-3f8eba0cffe72867d8538f8f4bda31a7]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/10) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-3f8eba0cffe72867d8538f8f4bda31a7]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/10) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-7ba0fef689c9e99408567d702eb4d63d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/11) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-7ba0fef689c9e99408567d702eb4d63d]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/11) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-180918c79b47bb7fb08ae22b62aa0e85]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/12) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-180918c79b47bb7fb08ae22b62aa0e85]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/12) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-a95f11bdd0276c91f34e750c705608b1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/13) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-a95f11bdd0276c91f34e750c705608b1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/13) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-b5b858b38910bdcfb403a923e04af0c1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/14) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-b5b858b38910bdcfb403a923e04af0c1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/14) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-1d6582f8ff8fff6d9f005fce26065948]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-1d6582f8ff8fff6d9f005fce26065948]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/15) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-0764bdcb4dcb331a43df65e8b466bb56]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/16) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-0764bdcb4dcb331a43df65e8b466bb56]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/16) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-282d8b702995ef8c8a735b2da96fe52f]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/17) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-282d8b702995ef8c8a735b2da96fe52f]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/17) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-b899b8960db75510fb530e0ebeb39ac4]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/18) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-b899b8960db75510fb530e0ebeb39ac4]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/18) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-b0c5f8cbeee0f8f7147424825d7f74aa]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/19) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-b0c5f8cbeee0f8f7147424825d7f74aa]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/19) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-4fd780ce927ca7c79b3826bae839b7e0]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/20) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-4fd780ce927ca7c79b3826bae839b7e0]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/20) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-466cbc8534e0ddf10bc5c6cb17dbb799]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/21) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-466cbc8534e0ddf10bc5c6cb17dbb799]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/21) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-a99ae1f71cec931eb7273eb957e6c592]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/22) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-a99ae1f71cec931eb7273eb957e6c592]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/22) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-818e4c59a3448138e2bd6cc6e10e0ffe]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/23) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-818e4c59a3448138e2bd6cc6e10e0ffe]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/23) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-2b4bca3ebf82e387e224f9d1b6007fdd]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/24) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-2b4bca3ebf82e387e224f9d1b6007fdd]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/24) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-bcf783a2b1b3a1c153e489c18fe6e324]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/25) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-bcf783a2b1b3a1c153e489c18fe6e324]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/25) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-711aaee2b16ffa10f5496e938c97cf68]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/26) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-711aaee2b16ffa10f5496e938c97cf68]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/26) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
 
-[^key-ae5d73353413865c7ac0c56fe39cbfad]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/27) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)
+[^c-ae5d73353413865c7ac0c56fe39cbfad]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2021/22/schedule/3/paragraph/27) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/d)

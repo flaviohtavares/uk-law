@@ -41,7 +41,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 26, 27, 39 and 150(5) of the Welsh Language (Wales) Measure 2011[^f00001], having received the approval of the National Assembly for Wales in accordance with section 150(2) of that Measure, make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-3285ec09789fba0e78201f8f897fe9bc]
+## 1. Title, commencement, application and interpretation[^c-3285ec09789fba0e78201f8f897fe9bc]
 
 (1) The title of these Regulations is the Welsh Language Standards (No. 6) Regulations 2017.
 
@@ -62,7 +62,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 
 (6) Nothing in these Regulations requires a body to comply with a standard in respect of an activity carried out by it or a service provided by it where it is carrying out that activity or providing that service on behalf of a third party under arrangements made between it and the third party.
 
-## 2. Standards specified[^key-e35e6626a834bee32efc1ed6940aad12]
+## 2. Standards specified[^c-e35e6626a834bee32efc1ed6940aad12]
 
 (1) In Schedule 1—
 
@@ -97,7 +97,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - (d) Part 5 makes provision about interpreting the supplementary standards;
 - (dd) Part 6 makes supplementary provision.
 
-## 3. Standards that are specifically applicable[^key-df8f64b1e82094ccb3b8c35c3029efca]
+## 3. Standards that are specifically applicable[^c-df8f64b1e82094ccb3b8c35c3029efca]
 
 The Welsh Ministers authorise the Welsh Language Commissioner to give a compliance notice to—
 
@@ -113,7 +113,7 @@ The Welsh Ministers authorise the Welsh Language Commissioner to give a complian
 
 (3) Aberystwyth University, Bangor University, Cardiff University, Higher Education Corporations in Wales, the Open University, the Royal Welsh College of Music and Drama Limited, Swansea University, the University of Wales and the University of Wales: Trinity St David requiring them to comply with the standards specified under regulation 2 and the Schedules;
 
-(4) the Commission for Tertiary Education and Research[^key-6a48463b17a998234c0a115010e2bf21] requiring it to comply with the following standards specified under regulation 2 and the Schedules—
+(4) the Commission for Tertiary Education and Research[^c-6a48463b17a998234c0a115010e2bf21] requiring it to comply with the following standards specified under regulation 2 and the Schedules—
 
 - (a) 1 to 24B;
 - (b) 27 to 27D;
@@ -123,7 +123,7 @@ The Welsh Ministers authorise the Welsh Language Commissioner to give a complian
 - (dd) 105 to 136;
 - (e) 138 to 182.
 
-(5)[^key-82d89b43a20a21faa36bb6c975a99e71] Health Education and Improvement Wales requiring it to comply with standards 90 and 90A specified under regulation 2 and Schedule 1.
+(5)[^c-82d89b43a20a21faa36bb6c975a99e71] Health Education and Improvement Wales requiring it to comply with standards 90 and 90A specified under regulation 2 and Schedule 1.
 
 Alun Davies
 
@@ -135,7 +135,7 @@ Minister for Lifelong Learning and Welsh Language, under authority of the Cabine
 
 Regulation 2(1)
 
-### PART 1 — THE STANDARDS[^key-c399aa86cfd4be4da841e0dee1f183a5]
+### PART 1 — THE STANDARDS[^c-c399aa86cfd4be4da841e0dee1f183a5]
 
 <table>
 <tbody>
@@ -296,7 +296,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-### PART 2 — STANDARDS THAT RELATE TO OTHER STANDARDS – SPECIAL CONDITIONS[^key-5aee52e9a5024c173bf0ed1605493e9a]
+### PART 2 — STANDARDS THAT RELATE TO OTHER STANDARDS – SPECIAL CONDITIONS[^c-5aee52e9a5024c173bf0ed1605493e9a]
 
 |  |  |
 | --- | --- |
@@ -354,7 +354,7 @@ TABLE 2
 | (1) | **Meetings with one person**<br>Standard 23, 24, 24A or 24B | **Meetings with one person relating to complaints, disciplinary proceedings or student support**<br>Standard 25, 26, 26A or 26B |
 | (2) | **Meetings with more than one person**<br>Standard 27, 27A, 27B, 27C, 27CH or 27D | **Meetings with more than one person relating to complaints, disciplinary proceedings or student support**<br>Standard 28, 29, 29A or 29B |
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-ba603dcd0e58989b69d5e683a74327f4]
+### PART 3 — INTERPRETING THE STANDARDS[^c-ba603dcd0e58989b69d5e683a74327f4]
 
 |  |  |
 | --- | --- |
@@ -402,7 +402,7 @@ TABLE 2
 
 Regulation 2(2)
 
-### PART 1 — THE STANDARDS[^key-22d0b069f67acd53bc558118201cb05d]
+### PART 1 — THE STANDARDS[^c-22d0b069f67acd53bc558118201cb05d]
 
 |  |  |
 | --- | --- |
@@ -419,7 +419,7 @@ Regulation 2(2)
 | **Standard 103:** | When you commission or undertake research that is intended to assist you to make a policy decision, you must ensure that the research considers how the policy decision under consideration could be made so that it would not have adverse effects, or so that it would have decreased adverse effects, on —<br>- (a) opportunities for persons to use the Welsh language, and<br>- (b) treating the Welsh language no less favourably than the English language. |
 | **Standard 104:** | When you develop or revise a course (or any component of a course) you must consider—<br>- (a) what effects, if any (and whether positive or negative), that course would have on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language;<br>- (b) how that course would have positive effects, or increased positive effects, on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language;<br>- (c) how that course would not have adverse effects, or so that it would have decreased adverse effects on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-24f70b33289c6cec3e4d09c6af4c6f23]
+### PART 2 — INTERPRETING THE STANDARDS[^c-24f70b33289c6cec3e4d09c6af4c6f23]
 
 |  |  |
 | --- | --- |
@@ -432,7 +432,7 @@ Regulation 2(2)
 
 Regulation 2(3)
 
-### PART 1 — THE STANDARDS[^key-6383c45a02fa64a92b17a7fbf2b2d771]
+### PART 1 — THE STANDARDS[^c-6383c45a02fa64a92b17a7fbf2b2d771]
 
 |  |  |
 | --- | --- |
@@ -500,7 +500,7 @@ Regulation 2(3)
 | **8** | **Standard relating to audio announcements and messages in a body’s workplace** |
 | **Standard 153:** | When you make announcements in the workplace using audio equipment, that announcement must be made in Welsh, and if the announcement is made in Welsh and in English, the announcement must be made in Welsh first. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-875d6dbc5e4fb0cb376d65dbb0aa091e]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-875d6dbc5e4fb0cb376d65dbb0aa091e]
 
 |  |  |
 | --- | --- |
@@ -521,7 +521,7 @@ TABLE 1
 | (9) | **Recruitment**<br>Standard 146 | Standard 146A<br>Standard 146B<br>Standard 149 |
 | (10) | **Internal signs**<br>Standard 150 | Standard 152 |
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-4c90aad0340dbd826999fa697b799c50]
+### PART 3 — INTERPRETING THE STANDARDS[^c-4c90aad0340dbd826999fa697b799c50]
 
 |  |  |
 | --- | --- |
@@ -538,7 +538,7 @@ TABLE 1
 
 Regulation 2(4)
 
-### PART 1 — THE STANDARDS[^key-a0ed52568698d33c5dbdd539d097a9e5]
+### PART 1 — THE STANDARDS[^c-a0ed52568698d33c5dbdd539d097a9e5]
 
 |  |  |
 | --- | --- |
@@ -553,7 +553,7 @@ Regulation 2(4)
 | **Standard 161:** | You must keep a copy of every assessment that you carry out (in accordance with standard 145) in respect of the Welsh language skills that may be needed in relation to a new or vacant post. |
 | **Standard 162:** | You must keep a record, in relation to each financial year, of the number of new and vacant posts which were categorised (in accordance with standard 145) as posts where—<br>- (a) Welsh language skills are essential;<br>- (b) Welsh language skills need to be learnt when appointed to the post;<br>- (c) Welsh language skills are desirable; or<br>- (ch) Welsh language skills are not necessary. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-bc30b03b505a1c8d6ff2cb7ef5e6bf34]
+### PART 2 — INTERPRETING THE STANDARDS[^c-bc30b03b505a1c8d6ff2cb7ef5e6bf34]
 
 |  |  |
 | --- | --- |
@@ -564,7 +564,7 @@ Regulation 2(4)
 
 Regulation 2(5)
 
-### PART 1 — SERVICE DELIVERY STANDARDS[^key-73f45e07cc141ea822b8878fe9b44eca]
+### PART 1 — SERVICE DELIVERY STANDARDS[^c-73f45e07cc141ea822b8878fe9b44eca]
 
 |  |  |
 | --- | --- |
@@ -581,7 +581,7 @@ Regulation 2(5)
 | **6** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 168:** | You must provide any information requested by the Welsh Language Commissioner which relates to your compliance with the service delivery standards with which you are under a duty to comply. |
 
-### PART 2 — POLICY MAKING STANDARDS[^key-73d8c763214bc02475698f549ae1c7ec]
+### PART 2 — POLICY MAKING STANDARDS[^c-73d8c763214bc02475698f549ae1c7ec]
 
 |  |  |
 | --- | --- |
@@ -598,7 +598,7 @@ Regulation 2(5)
 | **12** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 174:** | You must provide any information requested by the Welsh Language Commissioner which relates to compliance with the policy making standards with which you are under a duty to comply. |
 
-### PART 3 — OPERATIONAL STANDARDS[^key-ed4fbb62ea99154b93aeab190d812689]
+### PART 3 — OPERATIONAL STANDARDS[^c-ed4fbb62ea99154b93aeab190d812689]
 
 |  |  |
 | --- | --- |
@@ -615,7 +615,7 @@ Regulation 2(5)
 | **18** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 180:** | You must provide any information requested by the Welsh Language Commissioner which relates to compliance with the operational standards with which you are under a duty to comply. |
 
-### PART 4 — RECORD KEEPING STANDARDS[^key-dc965a8d0bde35c86cca3cbaeb2247ac]
+### PART 4 — RECORD KEEPING STANDARDS[^c-dc965a8d0bde35c86cca3cbaeb2247ac]
 
 |  |  |
 | --- | --- |
@@ -624,7 +624,7 @@ Regulation 2(5)
 | **20** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 182 :** | You must provide any records you have kept in accordance with the record keeping standards with which you are under a duty to comply to the Welsh Language Commissioner, if the Commissioner asks for those records. |
 
-### PART 5 — INTERPRETING THE STANDARDS[^key-dd9c3907efea0a71e008e933e6bfbb30]
+### PART 5 — INTERPRETING THE STANDARDS[^c-dd9c3907efea0a71e008e933e6bfbb30]
 
 |  |  |
 | --- | --- |
@@ -632,7 +632,7 @@ Regulation 2(5)
 | **22** | For the purposes of standards 166, 172 and 178 “financial year” means the body’s own financial year. |
 | **23** | For the purposes of the standards a requirement to produce or publish any written material in Welsh does not mean that material should be produced or published in Welsh only, nor does it mean that the material should be produced in Welsh first (unless that is specifically stated in the standard). |
 
-### PART 6 — SUPPLEMENTARY PROVISION[^key-b83d96e2766b69eb6328611ef0ae8298]
+### PART 6 — SUPPLEMENTARY PROVISION[^c-b83d96e2766b69eb6328611ef0ae8298]
 
 |  |  |
 | --- | --- |
@@ -698,21 +698,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-3285ec09789fba0e78201f8f897fe9bc]: Commencement: Reg. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-3285ec09789fba0e78201f8f897fe9bc]: Commencement: Reg. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-e35e6626a834bee32efc1ed6940aad12]: Commencement: Reg. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-e35e6626a834bee32efc1ed6940aad12]: Commencement: Reg. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-df8f64b1e82094ccb3b8c35c3029efca]: Commencement: Reg. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-df8f64b1e82094ccb3b8c35c3029efca]: Commencement: Reg. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-6a48463b17a998234c0a115010e2bf21]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2017/90/regulation/3/4) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 40(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/40/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xxii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xxii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-6a48463b17a998234c0a115010e2bf21]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2017/90/regulation/3/4) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 40(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/40/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xxii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xxii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-82d89b43a20a21faa36bb6c975a99e71]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/wsi/2017/90/regulation/3/5) inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/339/regulation/5)
+[^c-82d89b43a20a21faa36bb6c975a99e71]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/wsi/2017/90/regulation/3/5) inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/339/regulation/5)
 
-[^key-c399aa86cfd4be4da841e0dee1f183a5]: Commencement: Sch. 1 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-c399aa86cfd4be4da841e0dee1f183a5]: Commencement: Sch. 1 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-5aee52e9a5024c173bf0ed1605493e9a]: Commencement: Sch. 1 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-5aee52e9a5024c173bf0ed1605493e9a]: Commencement: Sch. 1 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-ba603dcd0e58989b69d5e683a74327f4]: Commencement: Sch. 1 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-ba603dcd0e58989b69d5e683a74327f4]: Commencement: Sch. 1 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
 [^f00002]: Footnote: *See* paragraph 63.
 
@@ -724,28 +724,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36)
 
-[^key-22d0b069f67acd53bc558118201cb05d]: Commencement: Sch. 2 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-22d0b069f67acd53bc558118201cb05d]: Commencement: Sch. 2 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-24f70b33289c6cec3e4d09c6af4c6f23]: Commencement: Sch. 2 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-24f70b33289c6cec3e4d09c6af4c6f23]: Commencement: Sch. 2 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-6383c45a02fa64a92b17a7fbf2b2d771]: Commencement: Sch. 3 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-6383c45a02fa64a92b17a7fbf2b2d771]: Commencement: Sch. 3 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-875d6dbc5e4fb0cb376d65dbb0aa091e]: Commencement: Sch. 3 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-875d6dbc5e4fb0cb376d65dbb0aa091e]: Commencement: Sch. 3 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-4c90aad0340dbd826999fa697b799c50]: Commencement: Sch. 3 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-4c90aad0340dbd826999fa697b799c50]: Commencement: Sch. 3 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-a0ed52568698d33c5dbdd539d097a9e5]: Commencement: Sch. 4 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-a0ed52568698d33c5dbdd539d097a9e5]: Commencement: Sch. 4 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-bc30b03b505a1c8d6ff2cb7ef5e6bf34]: Commencement: Sch. 4 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-bc30b03b505a1c8d6ff2cb7ef5e6bf34]: Commencement: Sch. 4 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-73f45e07cc141ea822b8878fe9b44eca]: Commencement: Sch. 5 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-73f45e07cc141ea822b8878fe9b44eca]: Commencement: Sch. 5 Pt. 1 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-73d8c763214bc02475698f549ae1c7ec]: Commencement: Sch. 5 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-73d8c763214bc02475698f549ae1c7ec]: Commencement: Sch. 5 Pt. 2 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-ed4fbb62ea99154b93aeab190d812689]: Commencement: Sch. 5 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-ed4fbb62ea99154b93aeab190d812689]: Commencement: Sch. 5 Pt. 3 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-dc965a8d0bde35c86cca3cbaeb2247ac]: Commencement: Sch. 5 Pt. 4 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-dc965a8d0bde35c86cca3cbaeb2247ac]: Commencement: Sch. 5 Pt. 4 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-dd9c3907efea0a71e008e933e6bfbb30]: Commencement: Sch. 5 Pt. 5 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-dd9c3907efea0a71e008e933e6bfbb30]: Commencement: Sch. 5 Pt. 5 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
 
-[^key-b83d96e2766b69eb6328611ef0ae8298]: Commencement: Sch. 5 Pt. 6 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)
+[^c-b83d96e2766b69eb6328611ef0ae8298]: Commencement: Sch. 5 Pt. 6 in force at 7.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/90/regulation/1/2)

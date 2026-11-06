@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Byelaws for service purposes[^key-7d73dfe340326e3b05ae2db89a55c8c5]
+## 24. Byelaws for service purposes[^c-7d73dfe340326e3b05ae2db89a55c8c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d73dfe340326e3b05ae2db89a55c8c5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/18/section/24) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-7d73dfe340326e3b05ae2db89a55c8c5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/18/section/24) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

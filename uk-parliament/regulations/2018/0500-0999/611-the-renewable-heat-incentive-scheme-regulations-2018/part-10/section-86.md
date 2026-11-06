@@ -42,7 +42,7 @@ summary: ''
 
 (6) Within 21 days of the Authority's decision on a review, it must send the applicant and any other person who is in the Authority's opinion affected by its decision a notice setting out its decision with reasons.
 
-(7)[^key-9ab85c88ad17fdaa02da438f99a939c4] Paragraph (8) applies where—
+(7)[^c-9ab85c88ad17fdaa02da438f99a939c4] Paragraph (8) applies where—
 
 - (a) the Authority rejects an application for accreditation or registration; and
 - (b) on a review under this regulation, the Authority revokes its decision to reject the application.
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab85c88ad17fdaa02da438f99a939c4]: Textual amendment: [Reg. 86(7)](https://www.legislation.gov.uk/uksi/2018/611/regulation/86/7)[(8)](https://www.legislation.gov.uk/uksi/2018/611/regulation/86/8) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [35](https://www.legislation.gov.uk/uksi/2021/76/regulation/35)
+[^c-9ab85c88ad17fdaa02da438f99a939c4]: Textual amendment: [Reg. 86(7)](https://www.legislation.gov.uk/uksi/2018/611/regulation/86/7)[(8)](https://www.legislation.gov.uk/uksi/2018/611/regulation/86/8) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [35](https://www.legislation.gov.uk/uksi/2021/76/regulation/35)

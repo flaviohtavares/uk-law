@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Accounts and audit[^key-e862b81c7765dfd2d48d79a432243f71][^key-32570fcc845a19437e36f0178ec7fd73]
+## 34. Accounts and audit[^c-e862b81c7765dfd2d48d79a432243f71][^c-32570fcc845a19437e36f0178ec7fd73]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e862b81c7765dfd2d48d79a432243f71]: Commencement: S. 34 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-e862b81c7765dfd2d48d79a432243f71]: Commencement: S. 34 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-32570fcc845a19437e36f0178ec7fd73]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2024/15/section/34) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/l)
+[^c-32570fcc845a19437e36f0178ec7fd73]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2024/15/section/34) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/l)

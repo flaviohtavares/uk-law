@@ -24,7 +24,7 @@ summary: ''
 
 ### Approved air weapon clubs
 
-**1.**[^key-30a9e447b479bad4913dedd33ab33761] It is not an offence under section 2(1) for an individual (“A”) to use or possess an air weapon without holding an air weapon certificate if—
+**1.**[^c-30a9e447b479bad4913dedd33ab33761] It is not an offence under section 2(1) for an individual (“A”) to use or possess an air weapon without holding an air weapon certificate if—
 
 - (a) A is a member of an approved air weapon club,
 - (b) the use or possession occurs while A is engaged as such a member—
@@ -34,7 +34,7 @@ summary: ''
 
 ### Registered firearms dealers and their employees
 
-**2.**[^key-a65c7be271cb61bc1f2e9023282251e1] (1) It is not an offence under section 2(1) for an individual to use, possess, purchase or acquire an air weapon without holding an air weapon certificate if—
+**2.**[^c-a65c7be271cb61bc1f2e9023282251e1] (1) It is not an offence under section 2(1) for an individual to use, possess, purchase or acquire an air weapon without holding an air weapon certificate if—
 
 - (a) the individual is carrying on business as a registered firearms dealer or is the employee of a registered firearms dealer, and
 - (b) the possession occurs in the ordinary course of the business as such a dealer.
@@ -58,7 +58,7 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Auctioneers
 
-**3.**[^key-611a08e28cd3e44174af32abf48171f5] (1) It is not an offence under section 2(1) for an individual to possess, acquire or purchase an air weapon without holding an air weapon certificate if—
+**3.**[^c-611a08e28cd3e44174af32abf48171f5] (1) It is not an offence under section 2(1) for an individual to possess, acquire or purchase an air weapon without holding an air weapon certificate if—
 
 - (a) the individual is carrying on business as an auctioneer or is the employee of an auctioneer, and
 - (b) the possession occurs in the ordinary course of the business as an auctioneer.
@@ -67,14 +67,14 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Carriers and warehouse keepers
 
-**4.**[^key-5e325fcfd069e9c3c3e8f7e08c1798c2] It is not an offence under section 2(1) for an individual to possess an air weapon without holding an air weapon certificate if—
+**4.**[^c-5e325fcfd069e9c3c3e8f7e08c1798c2] It is not an offence under section 2(1) for an individual to possess an air weapon without holding an air weapon certificate if—
 
 - (a) the individual is carrying on business as a carrier or warehouse keeper or is the employee of a carrier or warehouse keeper, and
 - (b) the possession occurs in the ordinary course of the business as a carrier or warehouse keeper.
 
 ### Artistic performers
 
-**5.**[^key-6188e439a32b99de06f02f33cb28d68d] (1) It is not an offence under section 2(1) for an individual to use or possess an air weapon without holding an air weapon certificate while the individual is taking part in an activity listed in sub-paragraph (2).
+**5.**[^c-6188e439a32b99de06f02f33cb28d68d] (1) It is not an offence under section 2(1) for an individual to use or possess an air weapon without holding an air weapon certificate while the individual is taking part in an activity listed in sub-paragraph (2).
 
 (2) The activities are—
 
@@ -83,7 +83,7 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Cadet corps
 
-**6.**[^key-6a3888022dcf6c66ae16a64eb2a6a4d3] (1) It is not an offence under section 2(1) for an individual to use or possess an air weapon without holding an air weapon certificate if—
+**6.**[^c-6a3888022dcf6c66ae16a64eb2a6a4d3] (1) It is not an offence under section 2(1) for an individual to use or possess an air weapon without holding an air weapon certificate if—
 
 - (a) the individual is a member of an approved cadet corps or the instructor of such a member, and
 - (b) the use or possession occurs while the individual is engaged in drill or target shooting exercises as such a member or instructor.
@@ -92,7 +92,7 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Bodies corporate etc.
 
-**7.**[^key-17f0c7f69825ad4d02b94bcecc51ae72] (1) It is not an offence under section 2(1) for a person who is not an individual (“the entity”) to possess, purchase or acquire an air weapon without holding an air weapon certificate if an officer of the entity holds an air weapon certificate in the officer's capacity as such an officer.
+**7.**[^c-17f0c7f69825ad4d02b94bcecc51ae72] (1) It is not an offence under section 2(1) for a person who is not an individual (“the entity”) to possess, purchase or acquire an air weapon without holding an air weapon certificate if an officer of the entity holds an air weapon certificate in the officer's capacity as such an officer.
 
 (2) For the purposes of sub-paragraph (1), a reference to an officer of the entity is a reference to—
 
@@ -105,17 +105,17 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Holders of police permits
 
-**8.**[^key-40412936201c96033fd1bea931f61498] (1) It is not an offence under section 2(1) for an individual who holds a police permit under section 12 to possess or acquire an air weapon without holding an air weapon certificate if the permit authorises the possession or acquisition.
+**8.**[^c-40412936201c96033fd1bea931f61498] (1) It is not an offence under section 2(1) for an individual who holds a police permit under section 12 to possess or acquire an air weapon without holding an air weapon certificate if the permit authorises the possession or acquisition.
 
 (2) It is not an offence under section 24 for an individual who holds a police permit under section 12 to sell (or expose for sale) an air weapon, in the course of the holder's business, if the permit authorises the sale.
 
 ### Holders of visitor permits
 
-**9.**[^key-043bd292436bb63e31d9fae40423d3b9] It is not an offence under section 2(1) for an individual who holds a visitor permit under section 13 to use, possess, purchase or acquire an air weapon without holding an air weapon certificate if the permit authorises the use, possession, purchase or, as the case may be, acquisition.
+**9.**[^c-043bd292436bb63e31d9fae40423d3b9] It is not an offence under section 2(1) for an individual who holds a visitor permit under section 13 to use, possess, purchase or acquire an air weapon without holding an air weapon certificate if the permit authorises the use, possession, purchase or, as the case may be, acquisition.
 
 ### Authorised events
 
-**10.**[^key-de10d5c46cd011eb2561599b67587be6] (1) It is not an offence under section 2(1) for an individual to borrow, hire, use or possess an air weapon without holding an air weapon certificate while the individual is—
+**10.**[^c-de10d5c46cd011eb2561599b67587be6] (1) It is not an offence under section 2(1) for an individual to borrow, hire, use or possess an air weapon without holding an air weapon certificate while the individual is—
 
 - (a) at an event in respect of which an event permit has been granted by the chief constable under section 17, and
 - (b) engaging in an event activity.
@@ -124,7 +124,7 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (4
 
 ### Supervised use of air weapons on private land
 
-**11.**[^key-a1859f987be13760abd718174e8928b6] (1) It is not an offence under section 2(1) for an individual (“A”) to—
+**11.**[^c-a1859f987be13760abd718174e8928b6] (1) It is not an offence under section 2(1) for an individual (“A”) to—
 
 - (a) borrow an air weapon from the occupier of private land, and
 - (b) use and possess the weapon on that land,
@@ -140,7 +140,7 @@ without holding an air weapon certificate, if the conditions in sub-paragraph (2
 
 ### Use of air weapons at recreational shooting facilities
 
-**12.**[^key-656ce64e1f96e2c4ca1699f07cd7a2d2] (1) It is not an offence under section 2(1) for an individual (“A”) to borrow, hire, use or possess an air weapon without holding an air weapon certificate at a recreational shooting facility, if—
+**12.**[^c-656ce64e1f96e2c4ca1699f07cd7a2d2] (1) It is not an offence under section 2(1) for an individual (“A”) to borrow, hire, use or possess an air weapon without holding an air weapon certificate at a recreational shooting facility, if—
 
 - (a) A reasonably believes that an individual who is responsible for the management and operation of the facility holds an air weapon certificate, and
 - (b) A's use or possession occurs only while A is at the facility.
@@ -159,7 +159,7 @@ which is operated with a view to making a profit.
 
 ### Museums
 
-**13.**[^key-f7562b4fe8a7dae767465db876e2d99f] (1) It is not an offence under section 2(1) for an individual who is responsible for the management of a museum or is an employee of the museum to possess, purchase or acquire an air weapon without holding an air weapon certificate if—
+**13.**[^c-f7562b4fe8a7dae767465db876e2d99f] (1) It is not an offence under section 2(1) for an individual who is responsible for the management of a museum or is an employee of the museum to possess, purchase or acquire an air weapon without holding an air weapon certificate if—
 
 - (a) the possession, purchase or acquisition is for the purposes of the museum, and
 - (b) either—
@@ -178,18 +178,18 @@ which is operated with a view to making a profit.
 
 ### Air weapons on ships
 
-**14.**[^key-09f66c1425df42ffe703988e439cbbca] It is not an offence under section 2(1) for a person to use and possess an air weapon without holding an air weapon certificate while on board a ship if the weapon is part of the equipment of the ship.
+**14.**[^c-09f66c1425df42ffe703988e439cbbca] It is not an offence under section 2(1) for a person to use and possess an air weapon without holding an air weapon certificate while on board a ship if the weapon is part of the equipment of the ship.
 
 ### Purchase of air weapons for delivery outwith Scotland
 
-**15.**[^key-938e11cf2dbb32a4ccac847589c86f12] It is not an offence under section 2(1) for an individual to purchase an air weapon from a registered firearms dealer without holding an air weapon certificate if—
+**15.**[^c-938e11cf2dbb32a4ccac847589c86f12] It is not an offence under section 2(1) for an individual to purchase an air weapon from a registered firearms dealer without holding an air weapon certificate if—
 
 - (a) the purchaser is aged 18 years or more, and
 - (b) the weapon is to be delivered to a place outwith Great Britain, or to a registered firearms dealer in England or Wales, without first coming into the purchaser's possession.
 
 ### Loaning of air weapons for exempted purposes
 
-**16.**[^key-3662f111f0c624de5e46dabee53dc7f0] (1) It is not an offence under section 24(1) or (2) for a person listed in sub-paragraph (2) to lend or to let on hire an air weapon to an individual (“A”), who does not hold an air weapon certificate, for the purpose of A's using and possessing the weapon in accordance with an exemption under this schedule.
+**16.**[^c-3662f111f0c624de5e46dabee53dc7f0] (1) It is not an offence under section 24(1) or (2) for a person listed in sub-paragraph (2) to lend or to let on hire an air weapon to an individual (“A”), who does not hold an air weapon certificate, for the purpose of A's using and possessing the weapon in accordance with an exemption under this schedule.
 
 (2) The persons are—
 
@@ -200,7 +200,7 @@ which is operated with a view to making a profit.
 
 ### Public servants carrying out official duties
 
-**17.**[^key-ca9cf98e330566337edff7fc43f82c6c] (1) It is not an offence under this Part for a person listed in sub-paragraph (3) to carry out an activity listed in sub-paragraph (2) without holding an air weapon certificate, if the carrying out of the activity is for or in connection with the person's duties.
+**17.**[^c-ca9cf98e330566337edff7fc43f82c6c] (1) It is not an offence under this Part for a person listed in sub-paragraph (3) to carry out an activity listed in sub-paragraph (2) without holding an air weapon certificate, if the carrying out of the activity is for or in connection with the person's duties.
 
 (2) The activities are the use, possession, purchase, acquisition, manufacture, testing, repair, sale, transfer or disposal of an air weapon.
 
@@ -223,7 +223,7 @@ which is operated with a view to making a profit.
 
 ### Holders of certificates or permits with conditions
 
-**18.**[^key-1f3925f39e06765bf80cd63586558ce1] (1) It is not an offence under section 6(4) for a holder of an air weapon certificate to fail to comply with a condition attached to the holder's certificate if the conditions in sub-paragraph (2) are complied with.
+**18.**[^c-1f3925f39e06765bf80cd63586558ce1] (1) It is not an offence under section 6(4) for a holder of an air weapon certificate to fail to comply with a condition attached to the holder's certificate if the conditions in sub-paragraph (2) are complied with.
 
 (2) The conditions are—
 
@@ -237,7 +237,7 @@ which is operated with a view to making a profit.
 - (a) that the holder of the permit is entitled to use, possess, purchase or, as the case may be, acquire an air weapon by virtue of an exemption under this schedule, and
 - (b) that the failure relates to the use, possession, purchase or, as the case may be, acquisition of an air weapon in accordance with the exemption.
 
-### Use or possession of air weapons on service premises[^key-b2fb19be7bb9964b3abd9d10831680aa]
+### Use or possession of air weapons on service premises[^c-b2fb19be7bb9964b3abd9d10831680aa]
 
 **19.** (1) It is not an offence under section 2(1) for an individual to use or possess an air weapon without holding an air weapon certificate if—
 
@@ -262,40 +262,40 @@ which is operated with a view to making a profit.
 
 ## Annotations
 
-[^key-30a9e447b479bad4913dedd33ab33761]: Commencement: Sch. 1 para. 1 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-30a9e447b479bad4913dedd33ab33761]: Commencement: Sch. 1 para. 1 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-a65c7be271cb61bc1f2e9023282251e1]: Commencement: Sch. 1 para. 2 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-a65c7be271cb61bc1f2e9023282251e1]: Commencement: Sch. 1 para. 2 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-611a08e28cd3e44174af32abf48171f5]: Commencement: Sch. 1 para. 3 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-611a08e28cd3e44174af32abf48171f5]: Commencement: Sch. 1 para. 3 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-5e325fcfd069e9c3c3e8f7e08c1798c2]: Commencement: Sch. 1 para. 4 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-5e325fcfd069e9c3c3e8f7e08c1798c2]: Commencement: Sch. 1 para. 4 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-6188e439a32b99de06f02f33cb28d68d]: Commencement: Sch. 1 para. 5 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-6188e439a32b99de06f02f33cb28d68d]: Commencement: Sch. 1 para. 5 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-6a3888022dcf6c66ae16a64eb2a6a4d3]: Commencement: Sch. 1 para. 6 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-6a3888022dcf6c66ae16a64eb2a6a4d3]: Commencement: Sch. 1 para. 6 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-17f0c7f69825ad4d02b94bcecc51ae72]: Commencement: Sch. 1 para. 7 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-17f0c7f69825ad4d02b94bcecc51ae72]: Commencement: Sch. 1 para. 7 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-40412936201c96033fd1bea931f61498]: Commencement: Sch. 1 para. 8 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-40412936201c96033fd1bea931f61498]: Commencement: Sch. 1 para. 8 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-043bd292436bb63e31d9fae40423d3b9]: Commencement: Sch. 1 para. 9 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-043bd292436bb63e31d9fae40423d3b9]: Commencement: Sch. 1 para. 9 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-de10d5c46cd011eb2561599b67587be6]: Commencement: Sch. 1 para. 10 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-de10d5c46cd011eb2561599b67587be6]: Commencement: Sch. 1 para. 10 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-a1859f987be13760abd718174e8928b6]: Commencement: Sch. 1 para. 11 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-a1859f987be13760abd718174e8928b6]: Commencement: Sch. 1 para. 11 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-656ce64e1f96e2c4ca1699f07cd7a2d2]: Commencement: Sch. 1 para. 12 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-656ce64e1f96e2c4ca1699f07cd7a2d2]: Commencement: Sch. 1 para. 12 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-f7562b4fe8a7dae767465db876e2d99f]: Commencement: Sch. 1 para. 13 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-f7562b4fe8a7dae767465db876e2d99f]: Commencement: Sch. 1 para. 13 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-09f66c1425df42ffe703988e439cbbca]: Commencement: Sch. 1 para. 14 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-09f66c1425df42ffe703988e439cbbca]: Commencement: Sch. 1 para. 14 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-938e11cf2dbb32a4ccac847589c86f12]: Commencement: Sch. 1 para. 15 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-938e11cf2dbb32a4ccac847589c86f12]: Commencement: Sch. 1 para. 15 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-3662f111f0c624de5e46dabee53dc7f0]: Commencement: Sch. 1 para. 16 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-3662f111f0c624de5e46dabee53dc7f0]: Commencement: Sch. 1 para. 16 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-ca9cf98e330566337edff7fc43f82c6c]: Commencement: Sch. 1 para. 17 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-ca9cf98e330566337edff7fc43f82c6c]: Commencement: Sch. 1 para. 17 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-1f3925f39e06765bf80cd63586558ce1]: Commencement: Sch. 1 para. 18 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-1f3925f39e06765bf80cd63586558ce1]: Commencement: Sch. 1 para. 18 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
 
-[^key-b2fb19be7bb9964b3abd9d10831680aa]: Textual amendment: Paras. 19, 20 and cross-headings inserted (31.12.2016) by [The Air Weapons Licensing (Exemptions) (Scotland) Regulations 2016 (S.S.I. 2016/428)](https://www.legislation.gov.uk/ssi/2016/428), [regs. 1](https://www.legislation.gov.uk/ssi/2016/428/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/428/regulation/2)
+[^c-b2fb19be7bb9964b3abd9d10831680aa]: Textual amendment: Paras. 19, 20 and cross-headings inserted (31.12.2016) by [The Air Weapons Licensing (Exemptions) (Scotland) Regulations 2016 (S.S.I. 2016/428)](https://www.legislation.gov.uk/ssi/2016/428), [regs. 1](https://www.legislation.gov.uk/ssi/2016/428/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/428/regulation/2)

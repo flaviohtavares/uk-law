@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46A. Call-in of applications by Scottish Ministers: further provision[^key-429f031cabc3e66c5802c9bec34a28ae]
+## 46A. Call-in of applications by Scottish Ministers: further provision[^c-429f031cabc3e66c5802c9bec34a28ae]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-429f031cabc3e66c5802c9bec34a28ae]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1997/8/section/46A) inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 29(2)](https://www.legislation.gov.uk/asp/2019/13/section/29/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
+[^c-429f031cabc3e66c5802c9bec34a28ae]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1997/8/section/46A) inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 29(2)](https://www.legislation.gov.uk/asp/2019/13/section/29/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)

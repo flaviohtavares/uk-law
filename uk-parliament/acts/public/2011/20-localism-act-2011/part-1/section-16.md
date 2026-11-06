@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Delegation of functions by Ministers to permitted authorities[^key-a384a00f1e7065f9ab5cf6949c005858]
+## 16. Delegation of functions by Ministers to permitted authorities[^c-a384a00f1e7065f9ab5cf6949c005858]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a384a00f1e7065f9ab5cf6949c005858]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/20/section/16) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-a384a00f1e7065f9ab5cf6949c005858]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/20/section/16) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

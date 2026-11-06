@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — HEDGEROWS TO BE REMOVED OR MANAGED[^key-45017dc5ecd1f15b02427c38be9b7e66]
+## SCHEDULE 8 — HEDGEROWS TO BE REMOVED OR MANAGED[^c-45017dc5ecd1f15b02427c38be9b7e66]
 
 *Extent: E+W*
 
 Article 36
 
-[^key-45017dc5ecd1f15b02427c38be9b7e66]
+[^c-45017dc5ecd1f15b02427c38be9b7e66]
 
 The hedgerow identifications in the table below are taken from Appendix 8.1 UK Habitats Survey Report of the Environmental Statement and are within the Order Limits. Volume 2.9 – Important Hedgerow Plans – TR010064/APP/2.9.
 
@@ -56,4 +56,4 @@ The hedgerow identifications in the table below are taken from Appendix 8.1 UK H
 
 ## Annotations
 
-[^key-45017dc5ecd1f15b02427c38be9b7e66]: Commencement: Sch. 8 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-45017dc5ecd1f15b02427c38be9b7e66]: Commencement: Sch. 8 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

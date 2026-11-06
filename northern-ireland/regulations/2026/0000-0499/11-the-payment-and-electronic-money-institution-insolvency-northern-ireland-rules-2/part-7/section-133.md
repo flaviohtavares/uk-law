@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Payments of a periodical nature[^key-09dd954cef05859bba4a72c4a9e603e6]
+## 133. Payments of a periodical nature[^c-09dd954cef05859bba4a72c4a9e603e6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09dd954cef05859bba4a72c4a9e603e6]: Commencement: [Rule 133](https://www.legislation.gov.uk/nisr/2026/11/rule/133) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-09dd954cef05859bba4a72c4a9e603e6]: Commencement: [Rule 133](https://www.legislation.gov.uk/nisr/2026/11/rule/133) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

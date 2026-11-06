@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Title and lease title numbers[^key-6a00fca85403d66d5f6885049bd0995d]
+## 4. Title and lease title numbers[^c-6a00fca85403d66d5f6885049bd0995d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a00fca85403d66d5f6885049bd0995d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/5/section/4) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6a00fca85403d66d5f6885049bd0995d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/5/section/4) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

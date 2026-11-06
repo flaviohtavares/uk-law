@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Temporary use of land for maintaining authorised development[^key-ff4c5f1aad9741ea8fbf6c8cbd48e09d]
+## 24. Temporary use of land for maintaining authorised development[^c-ff4c5f1aad9741ea8fbf6c8cbd48e09d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff4c5f1aad9741ea8fbf6c8cbd48e09d]: Commencement: Art. 24 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-ff4c5f1aad9741ea8fbf6c8cbd48e09d]: Commencement: Art. 24 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

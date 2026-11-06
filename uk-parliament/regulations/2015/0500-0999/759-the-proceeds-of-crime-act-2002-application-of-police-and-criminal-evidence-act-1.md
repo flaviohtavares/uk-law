@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the power conferred by sections 355(2) and 459(2) of the Proceeds of Crime Act 2002[^f00001]:
 
-## 1. Citation, commencement, extent and interpretation[^key-31eda9fc5b5a0ae006d8911f4417fd6a]
+## 1. Citation, commencement, extent and interpretation[^c-31eda9fc5b5a0ae006d8911f4417fd6a]
 
 (1) This Order may be cited as the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) Order 2015 and comes into force on 1st June 2015.
 
@@ -54,9 +54,9 @@ The Secretary of State makes the following Order in exercise of the power confer
 
 (3) In this Order, “PACE” means the Police and Criminal Evidence Act 1984[^f00002].
 
-## 2. Application of section 15 of PACE[^key-9b8d26c6c896194ad05c98f1cdfa55a6]
+## 2. Application of section 15 of PACE[^c-9b8d26c6c896194ad05c98f1cdfa55a6]
 
-(1) Section 15 of PACE (search warrants—safeguards)[^f00003] applies to search and seizure warrants sought for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^key-8e92f8751715616ef9aaa7c0a10b30bb] , a frozen funds investigation or a cryptoasset investigation[^key-a0bc0909839c5477eb1a39cb14e40fe6], with the modifications made by this article.
+(1) Section 15 of PACE (search warrants—safeguards)[^f00003] applies to search and seizure warrants sought for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^c-8e92f8751715616ef9aaa7c0a10b30bb] , a frozen funds investigation or a cryptoasset investigation[^c-a0bc0909839c5477eb1a39cb14e40fe6], with the modifications made by this article.
 
 (2) For subsection (1), substitute—
 
@@ -99,9 +99,9 @@ The Secretary of State makes the following Order in exercise of the power confer
 
 (10) In subsection (7) omit the words after “of a warrant”.
 
-## 3. Application of section 16 of PACE[^key-1038b3b7d4ca5538f9eff632e62ed28d]
+## 3. Application of section 16 of PACE[^c-1038b3b7d4ca5538f9eff632e62ed28d]
 
-(1) Section 16 of PACE (execution of warrants)[^f00005] applies to search and seizure warrants sought for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^key-5268ffbce6bbe60d0e5ac420c690cd17] , a frozen funds investigation or a cryptoasset investigation[^key-6e220fb51931b9a79daf475aeed2d098], with the modifications made by this article.
+(1) Section 16 of PACE (execution of warrants)[^f00005] applies to search and seizure warrants sought for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^c-5268ffbce6bbe60d0e5ac420c690cd17] , a frozen funds investigation or a cryptoasset investigation[^c-6e220fb51931b9a79daf475aeed2d098], with the modifications made by this article.
 
 (2) Omit subsection (1).
 
@@ -135,11 +135,11 @@ The Secretary of State makes the following Order in exercise of the power confer
 
 (8) For “a constable” wherever those words appear, substitute “an appropriate person”.
 
-## 4. Application of section 21 of PACE[^key-b8f7af73575e0190362212a72ea67879]
+## 4. Application of section 21 of PACE[^c-b8f7af73575e0190362212a72ea67879]
 
-(1) Section 21 of PACE (access and copying)[^f00006] applies to powers of seizure under search and seizure warrants issued for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^key-1df1b3711012ddb2cab29f52a664f85f] , a frozen funds investigation or a cryptoasset investigation[^key-d1e0d5f5f7eef3a5f84e3e965cf63d0a], with the modifications made by this article.
+(1) Section 21 of PACE (access and copying)[^f00006] applies to powers of seizure under search and seizure warrants issued for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^c-1df1b3711012ddb2cab29f52a664f85f] , a frozen funds investigation or a cryptoasset investigation[^c-d1e0d5f5f7eef3a5f84e3e965cf63d0a], with the modifications made by this article.
 
-(2) In subsection (1), for the words from the beginning to “after this Act” substitute “An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^key-025a9d5d2e25cd8be043d827e2ae6647] , frozen funds investigation or cryptoasset investigation[^key-2f3234c1a61c8d9be957fbe382d846eb]”.
+(2) In subsection (1), for the words from the beginning to “after this Act” substitute “An appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) who seizes anything under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^c-025a9d5d2e25cd8be043d827e2ae6647] , frozen funds investigation or cryptoasset investigation[^c-2f3234c1a61c8d9be957fbe382d846eb]”.
 
 (3) In subsection (2), for “officer” substitute “appropriate person”.
 
@@ -165,30 +165,30 @@ The Secretary of State makes the following Order in exercise of the power confer
   > - (b) the investigating of an offence; or
 
   ;
-- (c)[^key-e977ae3d29764bac750dbf0679a4b23b] in paragraph (c) after “proceedings” insert “(including proceedings related to the making of a confiscation order or any proceedings under Chapter 2, 3 or any of Chapters 3A to 3F of Part 5 of the Proceeds of Crime Act 2002)”.
+- (c)[^c-e977ae3d29764bac750dbf0679a4b23b] in paragraph (c) after “proceedings” insert “(including proceedings related to the making of a confiscation order or any proceedings under Chapter 2, 3 or any of Chapters 3A to 3F of Part 5 of the Proceeds of Crime Act 2002)”.
 
 (8) In subsection (9) for “a constable” substitute “an appropriate person” both times it appears.
 
-## 5. Application of section 22 of PACE[^key-c7aa20fe4e05a1f5a3a2a788a7ab5f33]
+## 5. Application of section 22 of PACE[^c-c7aa20fe4e05a1f5a3a2a788a7ab5f33]
 
-(1) Section 22 of PACE (retention)[^f00007] applies to powers of seizure under search and seizure warrants issued for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^key-88248c0099aa65583cb8a86ec11e4793] , a frozen funds investigation or a cryptoasset investigation[^key-2ccd18483d9e90edbeeb8d6a6cf392da], with the modifications by this article.
+(1) Section 22 of PACE (retention)[^f00007] applies to powers of seizure under search and seizure warrants issued for the purposes of a confiscation investigation, a money laundering investigation , a detained cash investigation, a detained property investigation[^c-88248c0099aa65583cb8a86ec11e4793] , a frozen funds investigation or a cryptoasset investigation[^c-2ccd18483d9e90edbeeb8d6a6cf392da], with the modifications by this article.
 
 (2) For subsection (1) substitute—
 
-> (1) Subject to subsection (4) below, anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^key-cce13a8facc3bcfbddab4350bba7352b] , frozen funds investigation or cryptoasset investigation[^key-876a4c09c19a2367b5f1a2066312817e] may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
+> (1) Subject to subsection (4) below, anything which has been seized by an appropriate person (within the meaning of Part 8 of the Proceeds of Crime Act 2002) or taken away by an appropriate person under a search and seizure warrant issued under section 352 of the Proceeds of Crime Act 2002 for the purposes of a confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^c-cce13a8facc3bcfbddab4350bba7352b] , frozen funds investigation or cryptoasset investigation[^c-876a4c09c19a2367b5f1a2066312817e] may be retained by the appropriate person or an appropriate officer (within the meaning of Part 8 of the Proceeds of Crime Act 2002) so long as is necessary in all the circumstances.
 
 .
 
 (3) In subsection (2)(a)—
 
-- (a) for “criminal investigation” substitute “confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^key-f2090a7efb3ac56a2d4e1e1210b48d49] , frozen funds investigation or cryptoasset investigation[^key-5531ffa81349001f154d4ace55c17d80]”;
+- (a) for “criminal investigation” substitute “confiscation investigation, money laundering investigation , detained cash investigation, detained property investigation[^c-f2090a7efb3ac56a2d4e1e1210b48d49] , frozen funds investigation or cryptoasset investigation[^c-5531ffa81349001f154d4ace55c17d80]”;
 - (b) at the end of sub-paragraph (i), omit “or”;
 - (c) at the end of sub-paragraph (ii), omit “and”; and
 - (d) after sub-paragraph (ii) insert—
 
   > - (iii) for use as evidence in proceedings relating to the making of a confiscation order under the Drug Trafficking Offences Act 1986[^f00008], Part 6 of the Criminal Justice Act 1988 (confiscation of the proceeds of an offence)[^f00009], Part 1 of the Drug Trafficking Act 1994 (confiscation orders)[^f00010] or Part 2 of the Proceeds of Crime Act 2002 (confiscation: England and Wales);
-  > - (iv) for use as evidence in proceedings under Chapter 2, 3 or any of Chapters 3A to 3F[^key-0136e84fee6dd6e11f627cb90fcac018] of Part 5 of the Proceeds of Crime Act (recovery of cash in summary proceedings); or
-  > - (v)[^key-7fba96bbd36431a1753572e04362b63c] for forensic examination in connection with a confiscation investigation, money laundering investigation, detained cash investigation, detained property investigation, frozen funds investigation or cryptoasset investigation, or for use for the purposes of any such investigation; and
+  > - (iv) for use as evidence in proceedings under Chapter 2, 3 or any of Chapters 3A to 3F[^c-0136e84fee6dd6e11f627cb90fcac018] of Part 5 of the Proceeds of Crime Act (recovery of cash in summary proceedings); or
+  > - (v)[^c-7fba96bbd36431a1753572e04362b63c] for forensic examination in connection with a confiscation investigation, money laundering investigation, detained cash investigation, detained property investigation, frozen funds investigation or cryptoasset investigation, or for use for the purposes of any such investigation; and
 
   .
 
@@ -198,7 +198,7 @@ The Secretary of State makes the following Order in exercise of the power confer
 
 (6) In subsection (7), for “a constable” substitute “an appropriate person” both times it appears.
 
-## 6. Revocation and saving[^key-e7144f0020388c87bd2efa5589f83509]
+## 6. Revocation and saving[^c-e7144f0020388c87bd2efa5589f83509]
 
 (1) Subject to paragraph (2), the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984 and Police and Criminal Evidence (Northern Ireland) Order 1989) Order 2003[^f00011] (“the 2003 Order”) is revoked.
 
@@ -238,57 +238,57 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 355 is amended by section 66(6) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-31eda9fc5b5a0ae006d8911f4417fd6a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/759/article/1) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-31eda9fc5b5a0ae006d8911f4417fd6a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/759/article/1) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00002]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-9b8d26c6c896194ad05c98f1cdfa55a6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-9b8d26c6c896194ad05c98f1cdfa55a6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00003]: Footnote: Section 15 is amended by sections 113 and 114 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and [S.I. 2005/3496](https://www.legislation.gov.uk/uksi/2005/3496).
 
-[^key-8e92f8751715616ef9aaa7c0a10b30bb]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/2)
+[^c-8e92f8751715616ef9aaa7c0a10b30bb]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/2)
 
-[^key-a0bc0909839c5477eb1a39cb14e40fe6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/426/article/2/2)
+[^c-a0bc0909839c5477eb1a39cb14e40fe6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/759/article/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/426/article/2/2)
 
 [^f00004]: Footnote: Section 352 is amended by sections 76 and 80 of, and paragraph 105 of Schedule 8 and paragraph 7 of Schedule 10 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), paragraph 10 of Schedule 19 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), paragraph 137 of Schedule 8 to, and paragraph 31 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), paragraph 12 of Schedule 48 to the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834).
 
-[^key-1038b3b7d4ca5538f9eff632e62ed28d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-1038b3b7d4ca5538f9eff632e62ed28d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00005]: Footnote: Section 16 is amended by paragraph 281 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 2 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 113 and 114 of the Serious Organised Crime and Police Act 2005 and [S.I. 2005/3496](https://www.legislation.gov.uk/uksi/2005/3496).
 
-[^key-5268ffbce6bbe60d0e5ac420c690cd17]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/3)
+[^c-5268ffbce6bbe60d0e5ac420c690cd17]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/3)
 
-[^key-6e220fb51931b9a79daf475aeed2d098]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/426/article/2/3)
+[^c-6e220fb51931b9a79daf475aeed2d098]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2015/759/article/3) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/426/article/2/3)
 
-[^key-b8f7af73575e0190362212a72ea67879]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/759/article/4) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-b8f7af73575e0190362212a72ea67879]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/759/article/4) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00006]: Footnote: Section 21 is amended by paragraph 3 of Schedule 1 to the Criminal Justice Act 2003.
 
-[^key-1df1b3711012ddb2cab29f52a664f85f]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/759/article/4/1) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/4/a)
+[^c-1df1b3711012ddb2cab29f52a664f85f]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/759/article/4/1) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/4/a)
 
-[^key-d1e0d5f5f7eef3a5f84e3e965cf63d0a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/759/article/4/1) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/a)
+[^c-d1e0d5f5f7eef3a5f84e3e965cf63d0a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/759/article/4/1) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/a)
 
-[^key-025a9d5d2e25cd8be043d827e2ae6647]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/759/article/4/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/4/b)
+[^c-025a9d5d2e25cd8be043d827e2ae6647]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/759/article/4/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/4/b)
 
-[^key-2f3234c1a61c8d9be957fbe382d846eb]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/759/article/4/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/b)
+[^c-2f3234c1a61c8d9be957fbe382d846eb]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2015/759/article/4/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/b)
 
-[^key-e977ae3d29764bac750dbf0679a4b23b]: Textual amendment: [Art. 4(7)(c)](https://www.legislation.gov.uk/uksi/2015/759/article/4/7/c) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/c)
+[^c-e977ae3d29764bac750dbf0679a4b23b]: Textual amendment: [Art. 4(7)(c)](https://www.legislation.gov.uk/uksi/2015/759/article/4/7/c) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/426/article/2/4/c)
 
-[^key-c7aa20fe4e05a1f5a3a2a788a7ab5f33]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/759/article/5) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-c7aa20fe4e05a1f5a3a2a788a7ab5f33]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/759/article/5) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00007]: Footnote: Section 22 is amended by paragraph 80 of Schedule 14 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) and paragraph 4 of Schedule 1 to the Criminal Justice Act 2003.
 
-[^key-88248c0099aa65583cb8a86ec11e4793]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/759/article/5/1) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/a)
+[^c-88248c0099aa65583cb8a86ec11e4793]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/759/article/5/1) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/a)
 
-[^key-2ccd18483d9e90edbeeb8d6a6cf392da]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/759/article/5/1) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/a)
+[^c-2ccd18483d9e90edbeeb8d6a6cf392da]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/759/article/5/1) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/a)
 
-[^key-cce13a8facc3bcfbddab4350bba7352b]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/759/article/5/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/b)
+[^c-cce13a8facc3bcfbddab4350bba7352b]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/759/article/5/2) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/b)
 
-[^key-876a4c09c19a2367b5f1a2066312817e]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/759/article/5/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/b)
+[^c-876a4c09c19a2367b5f1a2066312817e]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/759/article/5/2) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/b)
 
-[^key-f2090a7efb3ac56a2d4e1e1210b48d49]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/b)
+[^c-f2090a7efb3ac56a2d4e1e1210b48d49]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3) substituted (31.1.2018 for specified purposes, 16.4.2018 in so far as not already in force) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2017 (S.I. 2017/1222)](https://www.legislation.gov.uk/uksi/2017/1222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1222/article/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2017/1222/article/2/5/b)
 
-[^key-5531ffa81349001f154d4ace55c17d80]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/a) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/b)
+[^c-5531ffa81349001f154d4ace55c17d80]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/a) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/b)
 
 [^f00008]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32); repealed by Schedule 3 to the Drug Trafficking Act [1994 (c. 37)](https://www.legislation.gov.uk/ukpga/1994/37).
 
@@ -296,10 +296,10 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00010]: Footnote: [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37); repealed by paragraph 25 of Schedule 11 and Schedule 12 to the Proceeds of Crime Act 2002.
 
-[^key-0136e84fee6dd6e11f627cb90fcac018]: Textual amendment: Words in [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/d) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/c)
+[^c-0136e84fee6dd6e11f627cb90fcac018]: Textual amendment: Words in [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/d) substituted (26.4.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment) Order 2024 (S.I. 2024/426)](https://www.legislation.gov.uk/uksi/2024/426), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/426/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/426/article/2/5/c)
 
-[^key-7fba96bbd36431a1753572e04362b63c]: Textual amendment: Words in [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/d) subtituted (6.11.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment No. 2) Order 2024 (S.I. 2024/1029)](https://www.legislation.gov.uk/uksi/2024/1029), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1029/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1029/article/2/2)
+[^c-7fba96bbd36431a1753572e04362b63c]: Textual amendment: Words in [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2015/759/article/5/3/d) subtituted (6.11.2024) by [The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence Act 1984) (Amendment No. 2) Order 2024 (S.I. 2024/1029)](https://www.legislation.gov.uk/uksi/2024/1029), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1029/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1029/article/2/2)
 
-[^key-e7144f0020388c87bd2efa5589f83509]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/759/article/6) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
+[^c-e7144f0020388c87bd2efa5589f83509]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/759/article/6) in force at 1.6.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/759/article/1/1)
 
 [^f00011]: Footnote: [S.I. 2003/174](https://www.legislation.gov.uk/uksi/2003/174).

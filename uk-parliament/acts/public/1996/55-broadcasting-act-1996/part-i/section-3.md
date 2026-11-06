@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Any licence granted by OFCOM[^key-c43aa7bbec83673b287c5037b9137994] under this Part shall be in writing and (subject to the provisions of this Part) shall continue in force for such period as is provided, in relation to a licence of the kind in question, by the relevant provision of this Part.
+(1) Any licence granted by OFCOM[^c-c43aa7bbec83673b287c5037b9137994] under this Part shall be in writing and (subject to the provisions of this Part) shall continue in force for such period as is provided, in relation to a licence of the kind in question, by the relevant provision of this Part.
 
 (2) A licence may be so granted for the provision of such a service as is specified in the licence or for the provision of a service of such a description as is so specified.
 
-(3) OFCOM[^key-8ad5f463deb73f4e450e81e6784637ee] —
+(3) OFCOM[^c-8ad5f463deb73f4e450e81e6784637ee] —
 
 - (a) shall not grant a licence to any person unless they are satisfied that he is a fit and proper person to hold it, and
 - (b) shall do all that they can to secure that, if they cease to be so satisfied in the case of any person holding a licence, that person does not remain the holder of the licence;
@@ -42,17 +42,17 @@ and nothing in this Part shall be construed as affecting the operation of this s
 
 (7) Without prejudice to the generality of subsection (6), OFCOM shall not give their consent for the purposes of that subsection unless they are satisfied that any such other person would be in a position to comply with all of the conditions included in the licence which would have effect during the period for which it is to be in force.
 
-(8)[^key-c58267bdeae544e337fc77d7177e46e2] The holding by a person of a licence under this Part shall not relieve him of—
+(8)[^c-c58267bdeae544e337fc77d7177e46e2] The holding by a person of a licence under this Part shall not relieve him of—
 
-- (a) any liability in respect of a failure to hold a licence under section 8 of the Wireless Telegraphy Act 2006[^key-f99ea76a6bbe6760bd3112fc308e9b80] ; or
+- (a) any liability in respect of a failure to hold a licence under section 8 of the Wireless Telegraphy Act 2006[^c-f99ea76a6bbe6760bd3112fc308e9b80] ; or
 - (b) any obligation to comply with requirements imposed by or under Chapter 1 of Part 2 of the Communications Act 2003 (electronic communications networks and electronic communications services).
 
 ## Annotations
 
-[^key-c43aa7bbec83673b287c5037b9137994]: Textual amendment: Words in s. 3(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c43aa7bbec83673b287c5037b9137994]: Textual amendment: Words in s. 3(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8ad5f463deb73f4e450e81e6784637ee]: Textual amendment: Words in s. 3(3)-(7) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8ad5f463deb73f4e450e81e6784637ee]: Textual amendment: Words in s. 3(3)-(7) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c58267bdeae544e337fc77d7177e46e2]: Textual amendment: S. 3(8) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(4)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c58267bdeae544e337fc77d7177e46e2]: Textual amendment: S. 3(8) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 76(4)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/76/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f99ea76a6bbe6760bd3112fc308e9b80]: Textual amendment: Words in s. 3(8)(a) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/17)
+[^c-f99ea76a6bbe6760bd3112fc308e9b80]: Textual amendment: Words in s. 3(8)(a) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Removal of building society liquidator by the court[^key-1864b81cf83174cf5b2ff1c39f7c02b6]
+## 40. Removal of building society liquidator by the court[^c-1864b81cf83174cf5b2ff1c39f7c02b6]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (7) Where the court removes the building society liquidator—
 
-- (a) it shall send three copies (unless the building society is a PRA-authorised person in which case four copies shall be sent)[^key-f8fda77fd52a7d289f282dab577df76f] of the order of removal to the building society liquidator;
+- (a) it shall send three copies (unless the building society is a PRA-authorised person in which case four copies shall be sent)[^c-f8fda77fd52a7d289f282dab577df76f] of the order of removal to the building society liquidator;
 - (b) the order may include such provision as the court thinks fit with respect to matters arising in connection with the removal; and
 - (c) if the court appoints a new liquidator, rule 8 of these Rules applies.
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1864b81cf83174cf5b2ff1c39f7c02b6]: Commencement: Rule 40 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-1864b81cf83174cf5b2ff1c39f7c02b6]: Commencement: Rule 40 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^M_F_e8621171-61d1-4c2d-ac9f-210d5e4947c3]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/8)
 
-[^key-f8fda77fd52a7d289f282dab577df76f]: Textual amendment: Words in [rule 40(7)](https://www.legislation.gov.uk/uksi/2010/2584/rule/40/7) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/5)
+[^c-f8fda77fd52a7d289f282dab577df76f]: Textual amendment: Words in [rule 40(7)](https://www.legislation.gov.uk/uksi/2010/2584/rule/40/7) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/5)

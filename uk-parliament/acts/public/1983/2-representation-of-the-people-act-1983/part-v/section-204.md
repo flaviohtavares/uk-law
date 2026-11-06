@@ -30,17 +30,17 @@ summary: ''
 
 (2) For a reference to a borough constituency substitute a reference to a burgh constituency.
 
-(3)[^c14506821][^c14506771][^key-163d30af22dd890dc01fb594604deeea] For a reference to the High Court substitute a reference to the Court of Session and for a reference to the county court or a judge of that court substitute a reference to the sheriff.
+(3)[^c14506821][^c14506771][^c-163d30af22dd890dc01fb594604deeea] For a reference to the High Court substitute a reference to the Court of Session and for a reference to the county court or a judge of that court substitute a reference to the sheriff.
 
 (4)[^c14506821] The power conferred by section 57 above on the Court of Session to make acts of sederunt for the appointment of judges to hear appeals under that section or to fill any vacancy among the judges so appointed is not required to be exercisable by statutory instrument.
 
-(5)[^c14506821][^c14506771][^key-163d30af22dd890dc01fb594604deeea] A reference to the Director of Public Prosecutions or the Attorney General refers to the Lord Advocate.
+(5)[^c14506821][^c14506771][^c-163d30af22dd890dc01fb594604deeea] A reference to the Director of Public Prosecutions or the Attorney General refers to the Lord Advocate.
 
 (6)[^c14506821] for a reference to a plaintiff or defendant substitute respectively a reference to a pursuer or defender, for a reference to a recognisance substitute a reference to a bond of caution and for a reference to an injunction substitute a reference to an interdict.
 
 (7) Any reference to the report of an election court shall, in relation to an election court trying a petition questioning an election of councillors in Scotland, be construed as a reference to a finding of the court, and the expression “**reported of a corrupt or illegal practice**” shall be construed accordingly.
 
-(8)[^c14506821][^key-163d30af22dd890dc01fb594604deeea] For a reference to the register of licences substitute a reference to the register kept in pursuance of section 20 of the [^c14506891]Licensing (Scotland) Act 1976.
+(8)[^c14506821][^c-163d30af22dd890dc01fb594604deeea] For a reference to the register of licences substitute a reference to the register kept in pursuance of section 20 of the [^c14506891]Licensing (Scotland) Act 1976.
 
 (9) Section 231 of the [^c14506901]Local Government (Scotland) Act 1973 (application to sheriff in cases of difficulty) applies to the provisions of sections 41 to 45 above as that section applied to those provisions immediately before their repeal and reenactment by this Act.
 
@@ -64,7 +64,7 @@ summary: ''
 
 [^c14506821]: Modification: S. 204(3)-(6)(8) applied (E.W.S.) by [S.I. 1986/2209](https://www.legislation.gov.uk/uksi/1986/2209), [regs. 2](https://www.legislation.gov.uk/uksi/1986/2209/regulation/2), [3](https://www.legislation.gov.uk/uksi/1986/2209/regulation/3), [5(1)(6)–(8)](https://www.legislation.gov.uk/uksi/1986/2209/regulation/5/1/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1986/2209/schedule/1/part/I)
 
-[^key-163d30af22dd890dc01fb594604deeea]: Modification: S. 204(3)(5)(8) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/47) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))
+[^c-163d30af22dd890dc01fb594604deeea]: Modification: S. 204(3)(5)(8) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/47) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))
 
 [^c14506891]: Marginal citation: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 

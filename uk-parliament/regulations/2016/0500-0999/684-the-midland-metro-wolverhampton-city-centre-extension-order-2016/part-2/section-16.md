@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Construction and alteration of bridges[^key-6e8932bdf179505900fb9d7a2ff1f7ac]
+## 16. Construction and alteration of bridges[^c-6e8932bdf179505900fb9d7a2ff1f7ac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any bridge to be constructed or altered under this Order for carrying the author
 
 ## Annotations
 
-[^key-6e8932bdf179505900fb9d7a2ff1f7ac]: Commencement: Art. 16 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-6e8932bdf179505900fb9d7a2ff1f7ac]: Commencement: Art. 16 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

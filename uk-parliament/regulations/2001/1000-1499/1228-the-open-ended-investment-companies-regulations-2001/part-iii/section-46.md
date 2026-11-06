@@ -31,7 +31,7 @@ summary: ''
 - (e) in respect of any holding of bearer shares for which a certificate evidencing title has already been issued but where the certificate has been surrendered to the company for the purpose of being replaced by two or more certificates which between them evidence title to the shares comprising that holding; and
 - (f) in respect of any shares for which a certificate has already been issued but where it appears to the company that the certificate needs to be replaced as a result of having been lost, stolen or destroyed or having become damaged or worn out.
 
-(2)[^key-fe0ef510639d16ee3d343fd1e3c1d0e0] A company must exercise due diligence and take all reasonable steps to ensure that certificates prepared in accordance with paragraph (1)(a) to (e) are ready for delivery as soon as reasonably practicable.
+(2)[^c-fe0ef510639d16ee3d343fd1e3c1d0e0] A company must exercise due diligence and take all reasonable steps to ensure that certificates prepared in accordance with paragraph (1)(a) to (e) are ready for delivery as soon as reasonably practicable.
 
 (3) Certificates need be prepared in the circumstances referred to in paragraph (1)(e) and (f) only if the company has received—
 
@@ -60,7 +60,7 @@ summary: ''
 
 (7) Nothing in these Regulations is to be taken as preventing the total arrived at under paragraph (5) being expressed on the certificate as a single entry representing the result derived from the formula set out in that paragraph.
 
-(8) In England and Wales or Northern Ireland[^key-e13b21cef636e6daec1a6b57a76f5d1a], a share certificate specifying any shares held by any person which is—
+(8) In England and Wales or Northern Ireland[^c-e13b21cef636e6daec1a6b57a76f5d1a], a share certificate specifying any shares held by any person which is—
 
 - (a) under the common seal of the company; or
 - (b) authenticated in accordance with regulation 59;
@@ -76,8 +76,8 @@ is, unless the contrary is shown, sufficient evidence of that person’s title t
 
 ## Annotations
 
-[^key-fe0ef510639d16ee3d343fd1e3c1d0e0]: Modification: [Reg. 46(2)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/46/2) applied (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/3/5)
+[^c-fe0ef510639d16ee3d343fd1e3c1d0e0]: Modification: [Reg. 46(2)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/46/2) applied (1.1.2021) by [The Bearer Certificates (Collective Investment Schemes) Regulations 2020 (S.I. 2020/1346)](https://www.legislation.gov.uk/uksi/2020/1346), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1346/regulation/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2020/1346/schedule/paragraph/3/5)
 
-[^key-e13b21cef636e6daec1a6b57a76f5d1a]: Textual amendment: Words in reg. 46(8) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/13) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-e13b21cef636e6daec1a6b57a76f5d1a]: Textual amendment: Words in reg. 46(8) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/13) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
 [^c15602941]: Marginal citation: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7).

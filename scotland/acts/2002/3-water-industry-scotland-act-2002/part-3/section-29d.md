@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29D. Statements regarding charges[^key-2c1b4a377ddc789286657de40662c0a6]
+## 29D. Statements regarding charges[^c-2c1b4a377ddc789286657de40662c0a6]
 
 *Extent: S*
 
@@ -43,14 +43,14 @@ issue to Scottish Water and the Commission a statement of policy regarding charg
 (5) Before issuing a statement under subsection (1), the Scottish Ministers must consult—
 
 - (a) the Commission,
-- (aa)[^key-2e8cff6fe15324cb30cb4958d24d8395] every water services provider and sewerage services provider,
-- (b) Consumer Scotland[^key-a17b89559c212d17115acda655a521bd],
+- (aa)[^c-2e8cff6fe15324cb30cb4958d24d8395] every water services provider and sewerage services provider,
+- (b) Consumer Scotland[^c-a17b89559c212d17115acda655a521bd],
 - (c) Scottish Water.
 
 ## Annotations
 
-[^key-2c1b4a377ddc789286657de40662c0a6]: Textual amendment: Ss. 29-29G substituted for s. 29 (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/3/section/21/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-2c1b4a377ddc789286657de40662c0a6]: Textual amendment: Ss. 29-29G substituted for s. 29 (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 21(1)](https://www.legislation.gov.uk/asp/2005/3/section/21/1), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
-[^key-2e8cff6fe15324cb30cb4958d24d8395]: Textual amendment: S. 29D(5)(aa) inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 130(5)](https://www.legislation.gov.uk/asp/2010/8/section/130/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)
+[^c-2e8cff6fe15324cb30cb4958d24d8395]: Textual amendment: S. 29D(5)(aa) inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 130(5)](https://www.legislation.gov.uk/asp/2010/8/section/130/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)
 
-[^key-a17b89559c212d17115acda655a521bd]: Textual amendment: Words in [s. 29D(5)(b)](https://www.legislation.gov.uk/asp/2002/3/section/29D/5/b) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 1(7)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/1/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))
+[^c-a17b89559c212d17115acda655a521bd]: Textual amendment: Words in [s. 29D(5)(b)](https://www.legislation.gov.uk/asp/2002/3/section/29D/5/b) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 1(7)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/1/7) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))

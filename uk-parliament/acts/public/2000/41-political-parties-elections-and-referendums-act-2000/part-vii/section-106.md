@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Declarations and notifications for purposes of section 105.[^c10574811][^c20060941][^key-5d8c40315ffb7553490927837b418736][^key-08c3a5e1690cbe66d97205568544a2f7]
+## 106. Declarations and notifications for purposes of section 105.[^c10574811][^c20060941][^c-5d8c40315ffb7553490927837b418736][^c-08c3a5e1690cbe66d97205568544a2f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) must be signed by the responsible officers of the party (within the meaning of section 64); and
 - (b) if made by a minor party, must be accompanied by a notification which states the name of the person who will be responsible for compliance on the part of the party with the provisions of Chapter II.
 
-(3)[^key-5d6491b047ebc7b5b46fd60410b1034d] For the purposes of section 105(1) an individual or body gives a notification to the Commission under this section if he or it gives the Commission a notification which identifies—
+(3)[^c-5d6491b047ebc7b5b46fd60410b1034d] For the purposes of section 105(1) an individual or body gives a notification to the Commission under this section if he or it gives the Commission a notification which identifies—
 
 - (a) the referendum to which it relates, and
 - (b) the outcome or outcomes for which the giver of the notification proposes to campaign.
@@ -66,8 +66,8 @@ summary: ''
 
 [^c20060941]: Modification: S. 106 applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/1)
 
-[^key-5d8c40315ffb7553490927837b418736]: Modification: S. 106 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/6); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5d8c40315ffb7553490927837b418736]: Modification: S. 106 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/6); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-08c3a5e1690cbe66d97205568544a2f7]: Modification: S. 106 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/3/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-08c3a5e1690cbe66d97205568544a2f7]: Modification: S. 106 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/3/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-5d6491b047ebc7b5b46fd60410b1034d]: Modification: S. 106(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5d6491b047ebc7b5b46fd60410b1034d]: Modification: S. 106(3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7/1); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

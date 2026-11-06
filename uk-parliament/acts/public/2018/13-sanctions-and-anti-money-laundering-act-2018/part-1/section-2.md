@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Additional requirements for regulations for a purpose within section 1(2)[^key-246af076c54719c38ac0d18efd9492bc]
+## 2. Additional requirements for regulations for a purpose within section 1(2)[^c-246af076c54719c38ac0d18efd9492bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-246af076c54719c38ac0d18efd9492bc]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2018/13/section/2) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/57/3), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-246af076c54719c38ac0d18efd9492bc]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2018/13/section/2) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/57/3), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

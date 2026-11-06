@@ -30,9 +30,9 @@ summary: ''
 
 (2) A provision of Part VI of the 1999 Act which requires or permits the Secretary of State to have regard to the temporary nature of support shall be treated, in the application of Part VI by virtue of section 134 above, as requiring the Secretary of State to have regard to the nature and circumstances of support by virtue of that section.
 
-(3)[^key-b9e8f79d1067c31ada467b3314da0b43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b9e8f79d1067c31ada467b3314da0b43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Any [^key-72bb690e17d4ef57afef052d218d1a59]... instrument under Part VI of the 1999 Act—
+(4) Any [^c-72bb690e17d4ef57afef052d218d1a59]... instrument under Part VI of the 1999 Act—
 
 - (a) may make provision in respect of that Part as it applies by virtue of section 134 above, as it applies otherwise than by virtue of that section, or both, and
 - (b) may make different provision for that Part as it applies by virtue of section 134 above and as it applies otherwise than by virtue of that section.
@@ -41,12 +41,12 @@ summary: ''
 
 (6) The Secretary of State may by order repeal, modify or disapply (to any extent) section 134(4).
 
-(7)[^key-40a5ab07313c78fc00ebccb795b2cd38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-40a5ab07313c78fc00ebccb795b2cd38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9e8f79d1067c31ada467b3314da0b43]: Textual amendment: S. 135(3) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 288(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/288/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-b9e8f79d1067c31ada467b3314da0b43]: Textual amendment: S. 135(3) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 288(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/288/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-72bb690e17d4ef57afef052d218d1a59]: Textual amendment: Word in s. 135(4) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 288(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/288/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-72bb690e17d4ef57afef052d218d1a59]: Textual amendment: Word in s. 135(4) omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 288(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/288/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-40a5ab07313c78fc00ebccb795b2cd38]: Textual amendment: S. 135(7) repealed (2.3.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/25), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
+[^c-40a5ab07313c78fc00ebccb795b2cd38]: Textual amendment: S. 135(7) repealed (2.3.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/25), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)

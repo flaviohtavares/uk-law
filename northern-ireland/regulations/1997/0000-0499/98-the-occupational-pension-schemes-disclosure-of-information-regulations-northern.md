@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 109, 164(1) and (4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 10(3), 41(1) and (6) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-bcbf49f6c76840330236aa3d34b4d593]
+## 1. Citation, commencement and interpretation[^c-bcbf49f6c76840330236aa3d34b4d593]
 
 (1)  These Regulations may be cited as the Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -109,7 +109,7 @@ and other expressions have the same meaning as in the Act.
 
 (5) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Application of these Regulations[^key-e57048426fe78c9414a2e41630d37543]
+## 2. Application of these Regulations[^c-e57048426fe78c9414a2e41630d37543]
 
 (1) Subject to paragraphs (2) and (3), and regulations 6(2), 7(2) and 8, these Regulations apply in relation to a scheme which—
 
@@ -132,7 +132,7 @@ and other expressions have the same meaning as in the Act.
 - (b) an independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of the scheme if no person who employs any such member or prospective member in relevant employment has informed the trustees that the trade union is so recognised; or
 - (c) any member where all members are trustees.
 
-## 3. Constitution of scheme[^key-93f785338b1d9dd4808ac24337c3a7c7]
+## 3. Constitution of scheme[^c-93f785338b1d9dd4808ac24337c3a7c7]
 
 (1) Subject to paragraph (5), the trustees of a scheme shall make provision, in the manner specified in paragraph (2), for the disclosure, to persons and trade unions in the categories specified in paragraph (3), of—
 
@@ -165,7 +165,7 @@ and other expressions have the same meaning as in the Act.
 - (a) by giving a reference to it and the enactment in which it is contained; or
 - (b) by setting out its text.
 
-## 4. Basic information about the scheme[^key-16788d2fbe647cb2e3875743323a1755]
+## 4. Basic information about the scheme[^c-16788d2fbe647cb2e3875743323a1755]
 
 (1) Subject to paragraph (4), the trustees of a scheme shall furnish in writing the information specified in Schedule 1 to persons and trade unions in the categories specified in paragraphs (2) and (3).
 
@@ -185,7 +185,7 @@ on request (except where the same information was furnished to that person or tr
 
 (6) When any information specified in Schedule 1 is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
 
-## 5. Information to be made available to individuals[^key-08c732b1429e8af89d67c1bbe2fddb8e]
+## 5. Information to be made available to individuals[^c-08c732b1429e8af89d67c1bbe2fddb8e]
 
 (1) The trustees of a scheme shall furnish in writing the information specified in Schedule 2 to the persons, and in the circumstances, specified in paragraphs (2) to (12).
 
@@ -234,7 +234,7 @@ on request (except where the same information was furnished to that person or tr
 
 (13) When any information specified in Schedule 2 is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
 
-## 6. Availability and content of annual report[^key-1f73895712e7b8affdbeefc0810e4370]
+## 6. Availability and content of annual report[^c-1f73895712e7b8affdbeefc0810e4370]
 
 (1) Subject to paragraph (2), the trustees of any scheme shall, in relation to, and not more than 7 months after the end of, each scheme year which ends on or after 6th April 1997, make available a document which contains—
 
@@ -268,7 +268,7 @@ to the persons and trade unions, in the circumstances and in the manner specifie
 
 (7) When a copy of a document is furnished in accordance with paragraph (3) or (4), it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
 
-## 7. Availability of actuarial valuation, schedule of contributions, payment schedule and statement of investment principles[^key-f3d7d8a487190fad6b26c625c1f5c80a]
+## 7. Availability of actuarial valuation, schedule of contributions, payment schedule and statement of investment principles[^c-f3d7d8a487190fad6b26c625c1f5c80a]
 
 (1) Subject to paragraph (2), the trustees of any scheme shall make provision in the manner specified in paragraph (3), for the disclosure of—
 
@@ -295,7 +295,7 @@ to persons and trade unions in the categories specified in paragraph (4).
 
 (5) When a copy of a document is furnished in accordance with paragraph (3), it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
 
-## 8. Limited disclosure requirement imposed on trustees of schemes which are not tax-approved or public service pension schemes and on trustees of a scheme established by the Salvation Army Act 1963[^key-b1e41ac9fa410f30e6bfbb9f9cfe73db]
+## 8. Limited disclosure requirement imposed on trustees of schemes which are not tax-approved or public service pension schemes and on trustees of a scheme established by the Salvation Army Act 1963[^c-b1e41ac9fa410f30e6bfbb9f9cfe73db]
 
 (1) This regulation applies to schemes to which neither regulation 2(1)(*a*) nor (*b*) refers and to a scheme established by the Salvation Army Act 1963.
 
@@ -310,11 +310,11 @@ to persons and trade unions in the categories specified in paragraph (4).
 
 (4) When any information specified in paragraph (2) is provided, it shall be accompanied by a written statement that further information about the scheme is available, giving the address to which enquiries about it should be sent.
 
-## 9. Recognised trade unions[^key-54acb77a8c0786f272a553ef4cbeef0c]
+## 9. Recognised trade unions[^c-54acb77a8c0786f272a553ef4cbeef0c]
 
 Any question whether an organisation is an independent trade union recognised to any extent for the purposes of collective bargaining in relation to members and prospective members of a scheme shall be referred to an industrial tribunal.
 
-## 10. Service of documents by post[^key-45977d11314624ae0522fdbc82eb8259]
+## 10. Service of documents by post[^c-45977d11314624ae0522fdbc82eb8259]
 
 (1) Any—
 
@@ -326,7 +326,7 @@ may be furnished, made or given by ordinary post.
 
 (2) Any information or document which these Regulations require the trustees of a scheme to give or furnish as of course to a beneficiary or a member who is not employed in relevant employment shall be deemed to have been given or furnished if it was sent to him by ordinary post to his last address known to the trustees.
 
-## 11. Penalties[^key-95dcd531597aacc88438ccf13d3a5eb9]
+## 11. Penalties[^c-95dcd531597aacc88438ccf13d3a5eb9]
 
 (1) Where any person fails, without reasonable excuse, to comply with any requirement imposed under regulation 4(2), 5(2) to (12) or 8(2), the Regulatory Authority may require that person to pay within 28 days a penalty which shall—
 
@@ -338,7 +338,7 @@ may be furnished, made or given by ordinary post.
 - (a) in the case of an individual not exceed £200; and
 - (b) in any other case not exceed £1,000.
 
-## 12. Revocations[^key-d83f1db4f256d08c474b802875872428]
+## 12. Revocations[^c-d83f1db4f256d08c474b802875872428]
 
 The regulations specified in column (1) of Schedule 4 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -354,50 +354,50 @@ Assistant Secretary
 
 Regulations 4 and 8
 
-**1.**[^key-ada4c365e70abc80c133c95e6f9f82c2] The categories of persons who are eligible to be members of the scheme.
+**1.**[^c-ada4c365e70abc80c133c95e6f9f82c2] The categories of persons who are eligible to be members of the scheme.
 
-**2..**[^key-aaaea8c27a663287db00e0c5eba5704d] Whether persons who are eligible to be members of the scheme are admitted to it—
+**2..**[^c-aaaea8c27a663287db00e0c5eba5704d] Whether persons who are eligible to be members of the scheme are admitted to it—
 
 - (a) only on their own application;
 - (b) automatically unless the person in question makes an election not to be admitted; or
 - (c) subject to the consent of their employer.
 
-**3..**[^key-223b79bfc8e1f4e7392821c6eb7c4b88] The conditions of eligibility for membership.
+**3..**[^c-223b79bfc8e1f4e7392821c6eb7c4b88] The conditions of eligibility for membership.
 
-**4..**[^key-a2487bdecbb56f4367747c08ddfced6c] The period of notice (if any) which a member of the scheme must give to terminate his pensionable service.
+**4..**[^c-a2487bdecbb56f4367747c08ddfced6c] The period of notice (if any) which a member of the scheme must give to terminate his pensionable service.
 
-**5..**[^key-7df66c4ad62a8a6a1b24b08b03a35029] Whether, and if so upon what conditions (if any), a member of the scheme, whose pensionable service has terminated before normal pension age, may re-enter pensionable service.
+**5..**[^c-7df66c4ad62a8a6a1b24b08b03a35029] Whether, and if so upon what conditions (if any), a member of the scheme, whose pensionable service has terminated before normal pension age, may re-enter pensionable service.
 
-**6..**[^key-27256e334b8675aa4a3b8d6c84223b92] How employers' contributions are determined.
+**6..**[^c-27256e334b8675aa4a3b8d6c84223b92] How employers' contributions are determined.
 
-**7..**[^key-26b2c502c2cd9ba193b878c079c5ea6a] How members' normal contributions, if any, are calculated.
+**7..**[^c-26b2c502c2cd9ba193b878c079c5ea6a] How members' normal contributions, if any, are calculated.
 
-**8..**[^key-e96b7c65948147b28407ad2a3a3ea66d] What arrangements are made for the payment by members of voluntary contributions.
+**8..**[^c-e96b7c65948147b28407ad2a3a3ea66d] What arrangements are made for the payment by members of voluntary contributions.
 
-**9..**[^key-17042bce6df344a4bcd0e1fde6523000] Whether the scheme is a tax-approved scheme, and if not whether an application for the scheme to become a tax-approved scheme is under consideration by the Commissioners of Inland Revenue.
+**9..**[^c-17042bce6df344a4bcd0e1fde6523000] Whether the scheme is a tax-approved scheme, and if not whether an application for the scheme to become a tax-approved scheme is under consideration by the Commissioners of Inland Revenue.
 
-**10..**[^key-232331e1dc4a588969dc177a54009b8c] Which of the relevant employments are, and which are not, contracted-out employments within the meaning of section 4, and whether the scheme is contracted-out in relation to those employments by virtue of satisfying section 5(2) or (3)[^f00013], or by virtue of being one to which regulations made under Article 146 apply (mixed benefit contracted-out schemes).
+**10..**[^c-232331e1dc4a588969dc177a54009b8c] Which of the relevant employments are, and which are not, contracted-out employments within the meaning of section 4, and whether the scheme is contracted-out in relation to those employments by virtue of satisfying section 5(2) or (3)[^f00013], or by virtue of being one to which regulations made under Article 146 apply (mixed benefit contracted-out schemes).
 
-**11..**[^key-96af95ae29059c6b7aa877b8e0a18c56] Except in the case of a simplified defined contribution scheme, normal pension age under the scheme.
+**11..**[^c-96af95ae29059c6b7aa877b8e0a18c56] Except in the case of a simplified defined contribution scheme, normal pension age under the scheme.
 
-**12..**[^key-6d3604f48e65bfa3ebd8a4abd4b72952] What benefits are payable under the scheme and how they are calculated (including how pensionable earnings are defined under the scheme and the rate at which rights to benefits accrue).
+**12..**[^c-6d3604f48e65bfa3ebd8a4abd4b72952] What benefits are payable under the scheme and how they are calculated (including how pensionable earnings are defined under the scheme and the rate at which rights to benefits accrue).
 
-**13..**[^key-2f01bd3d30ed82149f9da717ba1acae0] Whether there is a power under the scheme rules to increase pensions after they have become payable, otherwise than in accordance with statutory requirements, and if so what it is, who may exercise it, and whether and to what extent it is discretionary.
+**13..**[^c-2f01bd3d30ed82149f9da717ba1acae0] Whether there is a power under the scheme rules to increase pensions after they have become payable, otherwise than in accordance with statutory requirements, and if so what it is, who may exercise it, and whether and to what extent it is discretionary.
 
-**14..**[^key-3b618e4f4913e06f18ae0be24b847954] Where the scheme is one to which regulations made under Article 146 apply, the circumstances, if any, in which the nature of a member’s accrued rights, or the basis upon which a member accrues rights under the scheme, may alter as a result of the scheme being one to which those regulations apply, and a statement that the trustees will give notice to a member in circumstances where his rights are affected.
+**14..**[^c-3b618e4f4913e06f18ae0be24b847954] Where the scheme is one to which regulations made under Article 146 apply, the circumstances, if any, in which the nature of a member’s accrued rights, or the basis upon which a member accrues rights under the scheme, may alter as a result of the scheme being one to which those regulations apply, and a statement that the trustees will give notice to a member in circumstances where his rights are affected.
 
-**15..**[^key-68782fd07eb5b73b040e4afd246f3cec] Whether, and if so when and upon what conditions, survivors' benefits are payable under the scheme.
+**15..**[^c-68782fd07eb5b73b040e4afd246f3cec] Whether, and if so when and upon what conditions, survivors' benefits are payable under the scheme.
 
-**16..**[^key-d3ceab0fe57fc4674c71f9db92377bf3] The conditions on which benefits, other than survivors' benefits, are payable under the scheme.
+**16..**[^c-d3ceab0fe57fc4674c71f9db92377bf3] The conditions on which benefits, other than survivors' benefits, are payable under the scheme.
 
-**17..**[^key-0d60abcadb3c06cdfa5a9f6b3bfebdaa] Which benefits, if any, are payable only at some person’s discretion.
+**17..**[^c-0d60abcadb3c06cdfa5a9f6b3bfebdaa] Which benefits, if any, are payable only at some person’s discretion.
 
-**18..**[^key-e20df7ce79b7ef5ba31830333bdfee78] The short title of the enactment (if any) which provides for both—
+**18..**[^c-e20df7ce79b7ef5ba31830333bdfee78] The short title of the enactment (if any) which provides for both—
 
 - (a) the setting up of the scheme, and
 - (b) the determination of the rate or amount of the benefits under the scheme.
 
-**19..**[^key-5f4968d535bd18205326a44d524b7e5a] What arrangements are made, and in what circumstances, for—
+**19..**[^c-5f4968d535bd18205326a44d524b7e5a] What arrangements are made, and in what circumstances, for—
 
 - (a) estimates of entitlement to a cash equivalent;
 - (b) statements of entitlement to a guaranteed cash equivalent;
@@ -406,37 +406,37 @@ Regulations 4 and 8
 
 in relation to a member whose relevant employment or pensionable service in relevant employment terminates before he reaches normal pension age.
 
-**20..**[^key-9e9e7c5bfc6ba9780c3bfd5134dea72b] Whether, and the circumstances in which, the trustees will accept cash equivalents and provide transfer credits within the meaning of Chapter IV of Part IV of the Act (transfer values) and whether such acceptance is subject to the discretion of the trustees.
+**20..**[^c-9e9e7c5bfc6ba9780c3bfd5134dea72b] Whether, and the circumstances in which, the trustees will accept cash equivalents and provide transfer credits within the meaning of Chapter IV of Part IV of the Act (transfer values) and whether such acceptance is subject to the discretion of the trustees.
 
-**21..**[^key-512cdd61562519b7ea8421ee23bc3806] If the trustees have directed that any cash equivalent shall not take into account any such additional benefits as might accrue to the member in question resulting from the exercise of any discretion vested in the trustees or the employer, a statement to this effect.
+**21..**[^c-512cdd61562519b7ea8421ee23bc3806] If the trustees have directed that any cash equivalent shall not take into account any such additional benefits as might accrue to the member in question resulting from the exercise of any discretion vested in the trustees or the employer, a statement to this effect.
 
-**22..**[^key-d784bf70db05e15239f0ac99224b82e8] A statement summarising the way in which transfer values are calculated.
+**22..**[^c-d784bf70db05e15239f0ac99224b82e8] A statement summarising the way in which transfer values are calculated.
 
-**23..**[^key-221bc2bbe37b5ddb607d0a57c54d386d] Except in the case of a public service pension scheme such as is referred to in regulation 6(2), a statement that a scheme annual report is available on request.
+**23..**[^c-221bc2bbe37b5ddb607d0a57c54d386d] Except in the case of a public service pension scheme such as is referred to in regulation 6(2), a statement that a scheme annual report is available on request.
 
-**24..**[^key-e1fccdd8b5ef08d698c0a416c21f11e1] Whether information about the scheme has been given to the Registrar of Occupational and Personal Pension Schemes, appointed in accordance with regulations made under section 6 of the Pension Schemes Act 1993[^f00014].
+**24..**[^c-e1fccdd8b5ef08d698c0a416c21f11e1] Whether information about the scheme has been given to the Registrar of Occupational and Personal Pension Schemes, appointed in accordance with regulations made under section 6 of the Pension Schemes Act 1993[^f00014].
 
-**25..**[^key-f4c515cc8408b27bf2ceb64da3b3574d] What procedures the scheme has for the internal resolution of disputes (unless it is an exempt scheme by virtue of regulations made under Article 50(7)), and the address and job title of the person to be contacted in order to have recourse to these.
+**25..**[^c-f4c515cc8408b27bf2ceb64da3b3574d] What procedures the scheme has for the internal resolution of disputes (unless it is an exempt scheme by virtue of regulations made under Article 50(7)), and the address and job title of the person to be contacted in order to have recourse to these.
 
-**26..**[^key-fff598eb1f70f1a743a221a26a01ec4f] A statement that OPAS (the Pensions Advisory Service) is available to assist members and beneficiaries of the scheme in connection with difficulties which they have failed to resolve with the trustees or administrators of the scheme and the address at which it may be contacted.
+**26..**[^c-fff598eb1f70f1a743a221a26a01ec4f] A statement that OPAS (the Pensions Advisory Service) is available to assist members and beneficiaries of the scheme in connection with difficulties which they have failed to resolve with the trustees or administrators of the scheme and the address at which it may be contacted.
 
-**27..**[^key-60d437c44251669bd27a3a0787089b3d] A statement that the Pensions Ombudsman appointed under section 145(2) of the Pension Schemes Act 1993 may investigate and determine any complaint or dispute of fact or law in relation to an occupational pension scheme made or referred in accordance with the Act and the address at which he may be contacted.
+**27..**[^c-60d437c44251669bd27a3a0787089b3d] A statement that the Pensions Ombudsman appointed under section 145(2) of the Pension Schemes Act 1993 may investigate and determine any complaint or dispute of fact or law in relation to an occupational pension scheme made or referred in accordance with the Act and the address at which he may be contacted.
 
-**28..**[^key-4da317a1536a533de3af43b9a59a356e] A statement that the Regulatory Authority is able to intervene in the running of schemes where trustees, employers or professional advisers have failed in their duties, giving the address at which it may be contacted.
+**28..**[^c-4da317a1536a533de3af43b9a59a356e] A statement that the Regulatory Authority is able to intervene in the running of schemes where trustees, employers or professional advisers have failed in their duties, giving the address at which it may be contacted.
 
-**29..**[^key-517883841e8bdc093a660b099658ac55] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+**29..**[^c-517883841e8bdc093a660b099658ac55] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
 
 ## SCHEDULE 2 — Information to be made available to individuals
 
 Regulation 5
 
-**1..**[^key-f451402f96b6651a00a81e364822f28f] The amount of benefit which is payable to the person.
+**1..**[^c-f451402f96b6651a00a81e364822f28f] The amount of benefit which is payable to the person.
 
-**2..**[^key-3ff4cf0b3436fdcdca61d820ec4fd85a] If a benefit is payable periodically, the conditions (if any) subject to which payment will be continued.
+**2..**[^c-3ff4cf0b3436fdcdca61d820ec4fd85a] If a benefit is payable periodically, the conditions (if any) subject to which payment will be continued.
 
-**3..**[^key-ad7401280786b9b7f72324283e0ce0b2] If a benefit is payable periodically, the provisions (if any) under which the amount payable will be altered.
+**3..**[^c-ad7401280786b9b7f72324283e0ce0b2] If a benefit is payable periodically, the provisions (if any) under which the amount payable will be altered.
 
-**4.**[^key-a37424630c7cab150d5045efd80e6721] In the case of—
+**4.**[^c-a37424630c7cab150d5045efd80e6721] In the case of—
 
 - (a) an active member, the information specified in either (the trustees having the option to choose which one) head (i) or (ii), together with the information specified in head (iii)—
   - (i) the amounts of his own benefits and of his survivors' benefits which would be payable from normal pension age or death if his pensionable service were to terminate within one month of the date on which the information is furnished to him, calculated without regard to possible increases in his salary;
@@ -451,7 +451,7 @@ and in either case, the information must include—
 - (iii) the amount of the member’s pensionable remuneration on a specified date being, in the case of an active member, the date on which the information is furnished to him or a date within one month thereof, and in the case of a deferred member, the date pensionable service ceased; and
 - (iv) details of how any deduction from benefits is calculated.
 
-**5.**[^key-bc31b56211b3cbde871afe07da681b85] (1) The amount of contributions (before the making of any deductions) credited to the member under the scheme during the immediately preceding scheme year and, where the scheme was for the whole or any part of the period a contracted-out scheme, the amount of those contributions which is attributable to—
+**5.**[^c-bc31b56211b3cbde871afe07da681b85] (1) The amount of contributions (before the making of any deductions) credited to the member under the scheme during the immediately preceding scheme year and, where the scheme was for the whole or any part of the period a contracted-out scheme, the amount of those contributions which is attributable to—
 
 - (a) the minimum payments to the scheme made in respect of the member by his employer during the immediately preceding scheme year;
 - (b) the payments (if any) made to the scheme by the Department in accordance with Article 9(1) of the Social Security (Northern Ireland) Order 1986[^f00015] (schemes becoming contracted-out between 1986 and 1993) in respect of the member during the immediately preceding scheme year;
@@ -460,60 +460,60 @@ and in either case, the information must include—
 
 (2) If the scheme is a simplified defined contribution scheme, the amount or fraction of contributions applied to insure benefits payable in the event of the member’s death before starting to receive retirement benefits under the scheme.
 
-**6.**[^key-27b6e1a31669c8ee999986c79a8ee2d8] (1) The value of—
+**6.**[^c-27b6e1a31669c8ee999986c79a8ee2d8] (1) The value of—
 
 - (a) the member’s protected rights under the scheme as at a specified date, and
 - (b) the member’s accrued rights (other than his protected rights) under the scheme at the same or another specified date.
 
 (2) Where the cash equivalent (calculated, as at the date specified for the purposes of sub-paragraph (1) in accordance with section 93[^f00017], and regulations made thereunder), in respect of the transfer of the member’s rights mentioned in sub-paragraph (1)(*a*) or (*b*) or both would be different from the values to be specified under that sub-paragraph, that cash equivalent.
 
-**7.**[^key-560d78f1829d9f6cec1b442cbc6ecb9f] The options available to the member within the scheme rules.
+**7.**[^c-560d78f1829d9f6cec1b442cbc6ecb9f] The options available to the member within the scheme rules.
 
-**8.**[^key-390ba04a16cc56315c687ec23b85c943] The date on which the scheme ceased to be a money purchase contracted-out scheme in relation to the member’s employment.
+**8.**[^c-390ba04a16cc56315c687ec23b85c943] The date on which the scheme ceased to be a money purchase contracted-out scheme in relation to the member’s employment.
 
-**9.**[^key-3bc8a2d4fab82fc58398d2f83bf9b776] The options available to the member within the scheme rules in respect of his protected rights.
+**9.**[^c-3bc8a2d4fab82fc58398d2f83bf9b776] The options available to the member within the scheme rules in respect of his protected rights.
 
-**10.**[^key-419bb1676671b123a985d70e83ccc156] An account of the amount by which the member's—
+**10.**[^c-419bb1676671b123a985d70e83ccc156] An account of the amount by which the member's—
 
 - (a) protected rights, and
 - (b) accrued rights other than his protected rights,
 
 have been reduced, and of the action taken by the trustees, or which it is open to the member to take, in order, so far as may be possible, to restore the value of his accrued rights under the scheme.
 
-**11.**[^key-130a7cd124d399021c92889003efa09a] The rights and options (if any) available on the death of a member or beneficiary, and the procedures for exercising them.
+**11.**[^c-130a7cd124d399021c92889003efa09a] The rights and options (if any) available on the death of a member or beneficiary, and the procedures for exercising them.
 
-**12.**[^key-7a57b1566db26650150aaa0cc896550d] The provisions (or, as the case may be, a statement that there are no provisions) under which any pension payable to a survivor of a member or beneficiary may or will be increased, and the extent to which such increases are dependent on the exercise of a discretion.
+**12.**[^c-7a57b1566db26650150aaa0cc896550d] The provisions (or, as the case may be, a statement that there are no provisions) under which any pension payable to a survivor of a member or beneficiary may or will be increased, and the extent to which such increases are dependent on the exercise of a discretion.
 
-**13.**[^key-9ac701e4952744089b2fe4f71199304f] Whether the member or prospective member is entitled to acquire transfer credits in exchange for a specified cash equivalent (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
+**13.**[^c-9ac701e4952744089b2fe4f71199304f] Whether the member or prospective member is entitled to acquire transfer credits in exchange for a specified cash equivalent (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
 
-**14.**[^key-7a4881ba05a81c9bc47991e3486a01eb] Whether the member or prospective member is entitled to acquire transfer credits in exchange for any transfer payment (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
+**14.**[^c-7a4881ba05a81c9bc47991e3486a01eb] Whether the member or prospective member is entitled to acquire transfer credits in exchange for any transfer payment (within the meaning of Chapter IV of Part IV of the Act), provided by another scheme, and if so, a statement of those transfer credits.
 
-**15.**[^key-cf3fd8e86ea31cb0a6f146086fa4c312] What action is being taken to establish the scheme’s liabilities and to recover any assets; when it is anticipated final details will be known; and (where the trustees have sufficient information) an indication of the extent to which, if at all, the actuarial value of accrued rights or benefits to which such person is entitled are likely to be reduced.
+**15.**[^c-cf3fd8e86ea31cb0a6f146086fa4c312] What action is being taken to establish the scheme’s liabilities and to recover any assets; when it is anticipated final details will be known; and (where the trustees have sufficient information) an indication of the extent to which, if at all, the actuarial value of accrued rights or benefits to which such person is entitled are likely to be reduced.
 
-**16.**[^key-674814f866c62700d50f744b9a06624c] An estimate of the amount of the member’s own benefits and of his survivors' benefits which are expected to be payable from normal pension age or death.
+**16.**[^c-674814f866c62700d50f744b9a06624c] An estimate of the amount of the member’s own benefits and of his survivors' benefits which are expected to be payable from normal pension age or death.
 
 ## SCHEDULE 3 — Information to be included in Annual Report
 
 Regulation 6
 
-**1.**[^key-7d04fc1eb16f85fead4f880ec6aca415] The names of the persons who were trustees of the scheme, and in the case of a scheme none of the trustees of which is an individual, the names of the directors of any company which is a trustee, during the scheme year to which the information relates (in this Schedule called “the year”).
+**1.**[^c-7d04fc1eb16f85fead4f880ec6aca415] The names of the persons who were trustees of the scheme, and in the case of a scheme none of the trustees of which is an individual, the names of the directors of any company which is a trustee, during the scheme year to which the information relates (in this Schedule called “the year”).
 
-**2.**[^key-c4eec9be041b0bdfa983f935e37a778a] The provisions of the scheme in relation to the appointment of trustees and their removal from office, and in the case of a scheme none of the trustees of which is an individual, the provisions in the articles of association of each trustee which relate to the appointment and removal from office of any directors.
+**2.**[^c-c4eec9be041b0bdfa983f935e37a778a] The provisions of the scheme in relation to the appointment of trustees and their removal from office, and in the case of a scheme none of the trustees of which is an individual, the provisions in the articles of association of each trustee which relate to the appointment and removal from office of any directors.
 
-**3.**[^key-7d32088343b8c2067761d6b0e7bcb897] The names of the professional advisers and of such banks, custodians, and other persons and organisations who have acted for or were retained by the trustees during the year, with an indication (except in a case where regulation 6 is complied with by trustees of a scheme for the first time) of any change since the previous year.
+**3.**[^c-7d32088343b8c2067761d6b0e7bcb897] The names of the professional advisers and of such banks, custodians, and other persons and organisations who have acted for or were retained by the trustees during the year, with an indication (except in a case where regulation 6 is complied with by trustees of a scheme for the first time) of any change since the previous year.
 
-**4.**[^key-ef7b7ef2c0a09911b8709ea01e9af26c] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
+**4.**[^c-ef7b7ef2c0a09911b8709ea01e9af26c] The address to which enquiries about the scheme generally or about an individual’s entitlement to benefit should be sent.
 
-**5.**[^key-cfe7d91597b8effa86970318fb2cd8a9] The number of beneficiaries and active, deferred and pensioner members as at any one date during the year.
+**5.**[^c-cfe7d91597b8effa86970318fb2cd8a9] The number of beneficiaries and active, deferred and pensioner members as at any one date during the year.
 
-**6.**[^key-177453766b97bf44e0c65bcda5d680da] Except in the case of a money purchase scheme, the percentage increases made (otherwise than in accordance with a statutory requirement) during the year (or, if there have been different increases for different individuals or groups of individuals, the maximum, minimum and average percentage increases) to—
+**6.**[^c-177453766b97bf44e0c65bcda5d680da] Except in the case of a money purchase scheme, the percentage increases made (otherwise than in accordance with a statutory requirement) during the year (or, if there have been different increases for different individuals or groups of individuals, the maximum, minimum and average percentage increases) to—
 
 - (a) pensions which were payable; and
 - (b) deferred pensions,
 
 with a statement whether the increases were to any extent discretionary, and if so to what extent.
 
-**7.**[^key-b74d82b0a72f919b96dac0f6d1780b80] Except in the case of a money purchase scheme which is a wholly insured scheme, the following information—
+**7.**[^c-b74d82b0a72f919b96dac0f6d1780b80] Except in the case of a money purchase scheme which is a wholly insured scheme, the following information—
 
 - (a) where any cash equivalents or guaranteed cash equivalents (within the meaning of Chapter IV of Part IV of the Act) paid during the year were not calculated and verified in the manner prescribed by regulations made under section 93, a statement explaining why;
 - (b) where any of the cash equivalents or guaranteed cash equivalents paid during the year were less than the amount for which section 90(1)[^f00018] provides, a statement to that effect together with information as to—
@@ -521,19 +521,19 @@ with a statement whether the increases were to any extent discretionary, and if 
   - (ii) when full values became, or are likely to become available; and
 - (c) a statement whether discretionary benefits are included in the calculation of transfer values, and if so, the method by which the value of discretionary benefits is assessed.
 
-**8.**[^key-ac2f9d2804bd79add9a069615017537c] A statement as to whether the accounts have been prepared and audited in accordance with regulations made under Article 41(1) and (6) (unless the scheme is exempt from such requirement by virtue of those regulations).
+**8.**[^c-ac2f9d2804bd79add9a069615017537c] A statement as to whether the accounts have been prepared and audited in accordance with regulations made under Article 41(1) and (6) (unless the scheme is exempt from such requirement by virtue of those regulations).
 
-**9.**[^key-3ad5ccf4f72f976f713d9b4cadd00ab7] If the auditor’s statement made in accordance with regulations made under Article 41(1)(*a*) and (2)(*b*) is negative or qualified, an account of the reasons why and a statement as to how the situation has been or is likely to be resolved.
+**9.**[^c-3ad5ccf4f72f976f713d9b4cadd00ab7] If the auditor’s statement made in accordance with regulations made under Article 41(1)(*a*) and (2)(*b*) is negative or qualified, an account of the reasons why and a statement as to how the situation has been or is likely to be resolved.
 
-**10.**[^key-34e1cd53ff69e5531076f05e0adb504f] If such situation as is mentioned in paragraph 9 was not resolved in a previous year, a statement as to how it has been or is likely to be resolved.
+**10.**[^c-34e1cd53ff69e5531076f05e0adb504f] If such situation as is mentioned in paragraph 9 was not resolved in a previous year, a statement as to how it has been or is likely to be resolved.
 
-**11.**[^key-1fabb246d70001ec82b7a4f0ce1b093b] Who has managed the investments of the scheme during the year and the extent of any delegation of this function by the trustees.
+**11.**[^c-1fabb246d70001ec82b7a4f0ce1b093b] Who has managed the investments of the scheme during the year and the extent of any delegation of this function by the trustees.
 
-**12.**[^key-23b0c8602eae20a289013c72abea50dc] Whether the trustees have produced a statement of the principles governing decisions about investments for the purposes of the scheme in accordance with Article 35 (unless the scheme is exempt from such requirement by virtue of regulations made under that Article), and where the trustees have produced such a statement, advising that a copy is available on request.
+**12.**[^c-23b0c8602eae20a289013c72abea50dc] Whether the trustees have produced a statement of the principles governing decisions about investments for the purposes of the scheme in accordance with Article 35 (unless the scheme is exempt from such requirement by virtue of regulations made under that Article), and where the trustees have produced such a statement, advising that a copy is available on request.
 
-**13.**[^key-741b7299eea6f6f44b8dd48d410f9c2b] Except in relation to a wholly insured scheme, a statement as to the trustees' policy on the custody of the scheme assets.
+**13.**[^c-741b7299eea6f6f44b8dd48d410f9c2b] Except in relation to a wholly insured scheme, a statement as to the trustees' policy on the custody of the scheme assets.
 
-**14.**[^key-1d6ebe903047d7703cc8c5fa53465d84] Where the scheme is one to which Article 35 applies, an investment report containing—
+**14.**[^c-1d6ebe903047d7703cc8c5fa53465d84] Where the scheme is one to which Article 35 applies, an investment report containing—
 
 - (a) a statement by the trustees, or the fund manager, providing details of any investments made for the scheme during the year which were not made in accordance with the statement of the principles governing decisions about investments required under Article 35;
 - (b) where investments for the scheme have been made in the year which do not accord with the statement of the principles governing decisions about investments required under Article 35 (or were made in a previous scheme year and continued to be held at the end of the year), a statement by the trustees, or the fund manager, giving the reasons why and explaining what action, if any, it is proposed to take or has already been taken to remedy the position;
@@ -543,15 +543,15 @@ with a statement whether the increases were to any extent discretionary, and if 
 
   including an assessment of the nature, disposition, marketability, security and valuation of the scheme’s assets.
 
-**15.**[^key-61e2fd2e86e044a9d478c097e650cfe8] A copy of any statement made on the resignation or removal of the auditor or the actuary and made in accordance with regulations made under Article 47(6).
+**15.**[^c-61e2fd2e86e044a9d478c097e650cfe8] A copy of any statement made on the resignation or removal of the auditor or the actuary and made in accordance with regulations made under Article 47(6).
 
-**16.**[^key-f0c9dd57610f327e7a78f95578a4b82f] Where the scheme has employer-related investments within the meaning of Article 40(2)—
+**16.**[^c-f0c9dd57610f327e7a78f95578a4b82f] Where the scheme has employer-related investments within the meaning of Article 40(2)—
 
 - (a) a list of those investments;
 - (b) a statement as to the proportion of the scheme’s resources represented by those investments;
 - (c) a statement as to whether the scheme’s investments comply with any restrictions prescribed by regulations made under Article 40, and where they do not, how it is intended to remedy the position.
 
-## SCHEDULE 4 — Regulations Revoked[^key-2721eaee730e587ffa60ab384b2df2c2]
+## SCHEDULE 4 — Regulations Revoked[^c-2721eaee730e587ffa60ab384b2df2c2]
 
 Regulation 12
 
@@ -628,7 +628,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-bcbf49f6c76840330236aa3d34b4d593]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-bcbf49f6c76840330236aa3d34b4d593]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -640,17 +640,17 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e57048426fe78c9414a2e41630d37543]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-e57048426fe78c9414a2e41630d37543]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00008]: Footnote: [1963 c. xxxii](https://www.legislation.gov.uk/ukla/1963/32)
 
-[^key-93f785338b1d9dd4808ac24337c3a7c7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-93f785338b1d9dd4808ac24337c3a7c7]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-16788d2fbe647cb2e3875743323a1755]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-16788d2fbe647cb2e3875743323a1755]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-08c732b1429e8af89d67c1bbe2fddb8e]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-08c732b1429e8af89d67c1bbe2fddb8e]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-1f73895712e7b8affdbeefc0810e4370]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-1f73895712e7b8affdbeefc0810e4370]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
@@ -660,150 +660,150 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00012]: Footnote: [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225); relevant amending regulations are [S.R. 1987 No. 283](https://www.legislation.gov.uk/nisr/1987/283), [S.R. 1988 No. 109](https://www.legislation.gov.uk/nisr/1988/109) and [S.R. 1992 Nos. 47](https://www.legislation.gov.uk/nisr/1992/47) and [304](https://www.legislation.gov.uk/nisr/1992/304)
 
-[^key-f3d7d8a487190fad6b26c625c1f5c80a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-f3d7d8a487190fad6b26c625c1f5c80a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-b1e41ac9fa410f30e6bfbb9f9cfe73db]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-b1e41ac9fa410f30e6bfbb9f9cfe73db]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-54acb77a8c0786f272a553ef4cbeef0c]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-54acb77a8c0786f272a553ef4cbeef0c]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-45977d11314624ae0522fdbc82eb8259]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-45977d11314624ae0522fdbc82eb8259]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-95dcd531597aacc88438ccf13d3a5eb9]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-95dcd531597aacc88438ccf13d3a5eb9]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-d83f1db4f256d08c474b802875872428]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-d83f1db4f256d08c474b802875872428]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-ada4c365e70abc80c133c95e6f9f82c2]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-ada4c365e70abc80c133c95e6f9f82c2]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-aaaea8c27a663287db00e0c5eba5704d]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-aaaea8c27a663287db00e0c5eba5704d]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-223b79bfc8e1f4e7392821c6eb7c4b88]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-223b79bfc8e1f4e7392821c6eb7c4b88]: Commencement: Sch. 1 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-a2487bdecbb56f4367747c08ddfced6c]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-a2487bdecbb56f4367747c08ddfced6c]: Commencement: Sch. 1 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-7df66c4ad62a8a6a1b24b08b03a35029]: Commencement: Sch. 1 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-7df66c4ad62a8a6a1b24b08b03a35029]: Commencement: Sch. 1 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-27256e334b8675aa4a3b8d6c84223b92]: Commencement: Sch. 1 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-27256e334b8675aa4a3b8d6c84223b92]: Commencement: Sch. 1 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-26b2c502c2cd9ba193b878c079c5ea6a]: Commencement: Sch. 1 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-26b2c502c2cd9ba193b878c079c5ea6a]: Commencement: Sch. 1 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-e96b7c65948147b28407ad2a3a3ea66d]: Commencement: Sch. 1 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-e96b7c65948147b28407ad2a3a3ea66d]: Commencement: Sch. 1 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-17042bce6df344a4bcd0e1fde6523000]: Commencement: Sch. 1 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-17042bce6df344a4bcd0e1fde6523000]: Commencement: Sch. 1 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-232331e1dc4a588969dc177a54009b8c]: Commencement: Sch. 1 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-232331e1dc4a588969dc177a54009b8c]: Commencement: Sch. 1 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00013]: Footnote: Section 5(2) to (2C) was substituted for section 5(2) by Article 133(3) of the Pensions (Northern Ireland) Order 1995 and section 5(3) is amended by Article 133(4) of, and paragraph 17 of Schedule 3 to, that Order
 
-[^key-96af95ae29059c6b7aa877b8e0a18c56]: Commencement: Sch. 1 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-96af95ae29059c6b7aa877b8e0a18c56]: Commencement: Sch. 1 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-6d3604f48e65bfa3ebd8a4abd4b72952]: Commencement: Sch. 1 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-6d3604f48e65bfa3ebd8a4abd4b72952]: Commencement: Sch. 1 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-2f01bd3d30ed82149f9da717ba1acae0]: Commencement: Sch. 1 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-2f01bd3d30ed82149f9da717ba1acae0]: Commencement: Sch. 1 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-3b618e4f4913e06f18ae0be24b847954]: Commencement: Sch. 1 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-3b618e4f4913e06f18ae0be24b847954]: Commencement: Sch. 1 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-68782fd07eb5b73b040e4afd246f3cec]: Commencement: Sch. 1 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-68782fd07eb5b73b040e4afd246f3cec]: Commencement: Sch. 1 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-d3ceab0fe57fc4674c71f9db92377bf3]: Commencement: Sch. 1 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-d3ceab0fe57fc4674c71f9db92377bf3]: Commencement: Sch. 1 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-0d60abcadb3c06cdfa5a9f6b3bfebdaa]: Commencement: Sch. 1 para. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-0d60abcadb3c06cdfa5a9f6b3bfebdaa]: Commencement: Sch. 1 para. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-e20df7ce79b7ef5ba31830333bdfee78]: Commencement: Sch. 1 para. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-e20df7ce79b7ef5ba31830333bdfee78]: Commencement: Sch. 1 para. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-5f4968d535bd18205326a44d524b7e5a]: Commencement: Sch. 1 para. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-5f4968d535bd18205326a44d524b7e5a]: Commencement: Sch. 1 para. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-9e9e7c5bfc6ba9780c3bfd5134dea72b]: Commencement: Sch. 1 para. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-9e9e7c5bfc6ba9780c3bfd5134dea72b]: Commencement: Sch. 1 para. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-512cdd61562519b7ea8421ee23bc3806]: Commencement: Sch. 1 para. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-512cdd61562519b7ea8421ee23bc3806]: Commencement: Sch. 1 para. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-d784bf70db05e15239f0ac99224b82e8]: Commencement: Sch. 1 para. 22 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-d784bf70db05e15239f0ac99224b82e8]: Commencement: Sch. 1 para. 22 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-221bc2bbe37b5ddb607d0a57c54d386d]: Commencement: Sch. 1 para. 23 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-221bc2bbe37b5ddb607d0a57c54d386d]: Commencement: Sch. 1 para. 23 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-e1fccdd8b5ef08d698c0a416c21f11e1]: Commencement: Sch. 1 para. 24 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-e1fccdd8b5ef08d698c0a416c21f11e1]: Commencement: Sch. 1 para. 24 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00014]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 6 is amended by paragraph 23 of Schedule 3 to, and paragraph 20 of Schedule 5 to, the Pensions Act 1995
 
-[^key-f4c515cc8408b27bf2ceb64da3b3574d]: Commencement: Sch. 1 para. 25 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-f4c515cc8408b27bf2ceb64da3b3574d]: Commencement: Sch. 1 para. 25 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-fff598eb1f70f1a743a221a26a01ec4f]: Commencement: Sch. 1 para. 26 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-fff598eb1f70f1a743a221a26a01ec4f]: Commencement: Sch. 1 para. 26 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-60d437c44251669bd27a3a0787089b3d]: Commencement: Sch. 1 para. 27 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-60d437c44251669bd27a3a0787089b3d]: Commencement: Sch. 1 para. 27 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-4da317a1536a533de3af43b9a59a356e]: Commencement: Sch. 1 para. 28 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-4da317a1536a533de3af43b9a59a356e]: Commencement: Sch. 1 para. 28 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-517883841e8bdc093a660b099658ac55]: Commencement: Sch. 1 para. 29 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-517883841e8bdc093a660b099658ac55]: Commencement: Sch. 1 para. 29 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-f451402f96b6651a00a81e364822f28f]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-f451402f96b6651a00a81e364822f28f]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-3ff4cf0b3436fdcdca61d820ec4fd85a]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-3ff4cf0b3436fdcdca61d820ec4fd85a]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-ad7401280786b9b7f72324283e0ce0b2]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-ad7401280786b9b7f72324283e0ce0b2]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-a37424630c7cab150d5045efd80e6721]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-a37424630c7cab150d5045efd80e6721]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-bc31b56211b3cbde871afe07da681b85]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-bc31b56211b3cbde871afe07da681b85]: Commencement: Sch. 2 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888); Article 9 was repealed by Part I of Schedule 4 to the Pension Schemes (Northern Ireland) Act 1993. *See also* paragraph 21 of Schedule 5 to that Act
 
 [^f00016]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-27b6e1a31669c8ee999986c79a8ee2d8]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-27b6e1a31669c8ee999986c79a8ee2d8]: Commencement: Sch. 2 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00017]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-560d78f1829d9f6cec1b442cbc6ecb9f]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-560d78f1829d9f6cec1b442cbc6ecb9f]: Commencement: Sch. 2 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-390ba04a16cc56315c687ec23b85c943]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-390ba04a16cc56315c687ec23b85c943]: Commencement: Sch. 2 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-3bc8a2d4fab82fc58398d2f83bf9b776]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-3bc8a2d4fab82fc58398d2f83bf9b776]: Commencement: Sch. 2 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-419bb1676671b123a985d70e83ccc156]: Commencement: Sch. 2 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-419bb1676671b123a985d70e83ccc156]: Commencement: Sch. 2 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-130a7cd124d399021c92889003efa09a]: Commencement: Sch. 2 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-130a7cd124d399021c92889003efa09a]: Commencement: Sch. 2 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-7a57b1566db26650150aaa0cc896550d]: Commencement: Sch. 2 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-7a57b1566db26650150aaa0cc896550d]: Commencement: Sch. 2 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-9ac701e4952744089b2fe4f71199304f]: Commencement: Sch. 2 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-9ac701e4952744089b2fe4f71199304f]: Commencement: Sch. 2 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-7a4881ba05a81c9bc47991e3486a01eb]: Commencement: Sch. 2 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-7a4881ba05a81c9bc47991e3486a01eb]: Commencement: Sch. 2 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-cf3fd8e86ea31cb0a6f146086fa4c312]: Commencement: Sch. 2 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-cf3fd8e86ea31cb0a6f146086fa4c312]: Commencement: Sch. 2 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-674814f866c62700d50f744b9a06624c]: Commencement: Sch. 2 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-674814f866c62700d50f744b9a06624c]: Commencement: Sch. 2 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-7d04fc1eb16f85fead4f880ec6aca415]: Commencement: Sch. 3 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-7d04fc1eb16f85fead4f880ec6aca415]: Commencement: Sch. 3 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-c4eec9be041b0bdfa983f935e37a778a]: Commencement: Sch. 3 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-c4eec9be041b0bdfa983f935e37a778a]: Commencement: Sch. 3 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-7d32088343b8c2067761d6b0e7bcb897]: Commencement: Sch. 3 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-7d32088343b8c2067761d6b0e7bcb897]: Commencement: Sch. 3 para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-ef7b7ef2c0a09911b8709ea01e9af26c]: Commencement: Sch. 3 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-ef7b7ef2c0a09911b8709ea01e9af26c]: Commencement: Sch. 3 para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-cfe7d91597b8effa86970318fb2cd8a9]: Commencement: Sch. 3 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-cfe7d91597b8effa86970318fb2cd8a9]: Commencement: Sch. 3 para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-177453766b97bf44e0c65bcda5d680da]: Commencement: Sch. 3 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-177453766b97bf44e0c65bcda5d680da]: Commencement: Sch. 3 para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-b74d82b0a72f919b96dac0f6d1780b80]: Commencement: Sch. 3 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-b74d82b0a72f919b96dac0f6d1780b80]: Commencement: Sch. 3 para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
 [^f00018]: Footnote: Section 90 was amended by Article 150 of the Pensions (Northern Ireland) Order 1995
 
-[^key-ac2f9d2804bd79add9a069615017537c]: Commencement: Sch. 3 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-ac2f9d2804bd79add9a069615017537c]: Commencement: Sch. 3 para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-3ad5ccf4f72f976f713d9b4cadd00ab7]: Commencement: Sch. 3 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-3ad5ccf4f72f976f713d9b4cadd00ab7]: Commencement: Sch. 3 para. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-34e1cd53ff69e5531076f05e0adb504f]: Commencement: Sch. 3 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-34e1cd53ff69e5531076f05e0adb504f]: Commencement: Sch. 3 para. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-1fabb246d70001ec82b7a4f0ce1b093b]: Commencement: Sch. 3 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-1fabb246d70001ec82b7a4f0ce1b093b]: Commencement: Sch. 3 para. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-23b0c8602eae20a289013c72abea50dc]: Commencement: Sch. 3 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-23b0c8602eae20a289013c72abea50dc]: Commencement: Sch. 3 para. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-741b7299eea6f6f44b8dd48d410f9c2b]: Commencement: Sch. 3 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-741b7299eea6f6f44b8dd48d410f9c2b]: Commencement: Sch. 3 para. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-1d6ebe903047d7703cc8c5fa53465d84]: Commencement: Sch. 3 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-1d6ebe903047d7703cc8c5fa53465d84]: Commencement: Sch. 3 para. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-61e2fd2e86e044a9d478c097e650cfe8]: Commencement: Sch. 3 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-61e2fd2e86e044a9d478c097e650cfe8]: Commencement: Sch. 3 para. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-f0c9dd57610f327e7a78f95578a4b82f]: Commencement: Sch. 3 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-f0c9dd57610f327e7a78f95578a4b82f]: Commencement: Sch. 3 para. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
 
-[^key-2721eaee730e587ffa60ab384b2df2c2]: Commencement: Sch. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)
+[^c-2721eaee730e587ffa60ab384b2df2c2]: Commencement: Sch. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/98/regulation/1/1)

@@ -42,7 +42,7 @@ And see sections 108 and 117 and paragraphs 3 and 11 of Schedule 7 (which also e
 
 and related expressions are to be construed accordingly.
 
-This subsection [^key-d01da8c4eac77829eee1b9b2a8a752f6]... has effect subject to any other provision defining “occupier” for any purposes of this Act.
+This subsection [^c-d01da8c4eac77829eee1b9b2a8a752f6]... has effect subject to any other provision defining “occupier” for any purposes of this Act.
 
 (7) In this Act “**owner**”, in relation to premises—
 
@@ -62,4 +62,4 @@ And see sections 108 and 117 and paragraphs 3 and 11 of Schedule 7 (which also e
 
 ## Annotations
 
-[^key-d01da8c4eac77829eee1b9b2a8a752f6]: Textual amendment: Words in s. 262(6) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-d01da8c4eac77829eee1b9b2a8a752f6]: Textual amendment: Words in s. 262(6) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)

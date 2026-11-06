@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Enforcement of access prohibitions[^key-15dad4984b4e276996497583de65212e]
+## 23. Enforcement of access prohibitions[^c-15dad4984b4e276996497583de65212e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15dad4984b4e276996497583de65212e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2016/2/section/23) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-15dad4984b4e276996497583de65212e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2016/2/section/23) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

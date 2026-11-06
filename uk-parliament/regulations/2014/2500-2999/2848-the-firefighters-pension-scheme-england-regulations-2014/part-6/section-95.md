@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Person to whom lump sum death benefit payable[^key-a410bb55e07b926a0690762a0afe8db4]
+## 95. Person to whom lump sum death benefit payable[^c-a410bb55e07b926a0690762a0afe8db4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager may, at its absolute discretion, pay any lump sum death benef
 
 ## Annotations
 
-[^key-a410bb55e07b926a0690762a0afe8db4]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/2848/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-a410bb55e07b926a0690762a0afe8db4]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/2848/regulation/95) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

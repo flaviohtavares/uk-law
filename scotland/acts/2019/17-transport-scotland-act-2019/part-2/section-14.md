@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Required content of a scheme[^key-e93afefab3a014389f5f00731978d112]
+## 14. Required content of a scheme[^c-e93afefab3a014389f5f00731978d112]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ within the meaning of section 151(1) of the Roads (Scotland) Act 1984.
 
 ## Annotations
 
-[^key-e93afefab3a014389f5f00731978d112]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/17/section/14) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-e93afefab3a014389f5f00731978d112]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/17/section/14) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

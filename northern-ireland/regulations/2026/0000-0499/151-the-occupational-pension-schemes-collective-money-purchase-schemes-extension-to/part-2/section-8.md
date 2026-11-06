@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Viability report: unconnected multiple employer schemes[^key-64e160390e049f35e783e533e2063cb9]
+## 8. Viability report: unconnected multiple employer schemes[^c-64e160390e049f35e783e533e2063cb9]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In section 64 (viability report) after subsection (7) insert—
 
 ## Annotations
 
-[^key-64e160390e049f35e783e533e2063cb9]: Commencement: Reg. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-64e160390e049f35e783e533e2063cb9]: Commencement: Reg. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

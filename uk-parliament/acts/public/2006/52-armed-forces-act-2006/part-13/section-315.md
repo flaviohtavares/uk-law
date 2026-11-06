@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Deserters and absentees without leave surrendering to civilian police[^key-f10e60fa069367e39a298d74077e5eda][^key-582d3855e57a804391ea53dbc5a1f69a][^key-e5f99ad6686efb0079d72ced721c8e9c][^key-becee77de0ca2aa7ba572dee51b5787f]
+## 315. Deserters and absentees without leave surrendering to civilian police[^c-f10e60fa069367e39a298d74077e5eda][^c-582d3855e57a804391ea53dbc5a1f69a][^c-e5f99ad6686efb0079d72ced721c8e9c][^c-becee77de0ca2aa7ba572dee51b5787f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,20 +40,20 @@ he must be taken to a police station.
 - (b) arrange for him to be brought, as soon as practicable, before a court of summary jurisdiction in the relevant territory in which the police station is situated; or
 - (c) release him subject to a condition that he reports, at or by such time as may be specified in the condition, to such place or person as may be so specified for the purpose of enabling him to be taken into service custody.
 
-(5)[^key-dcebe0bc380e72a8afb147faaf72c9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-dcebe0bc380e72a8afb147faaf72c9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) In this section “civilian policeman” and “relevant territory” have[^key-82c4314b5243e50d3c6a2add084971f9] the same meaning as in section 314.
+(6) In this section “civilian policeman” and “relevant territory” have[^c-82c4314b5243e50d3c6a2add084971f9] the same meaning as in section 314.
 
 ## Annotations
 
-[^key-f10e60fa069367e39a298d74077e5eda]: Commencement: S. 315 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f10e60fa069367e39a298d74077e5eda]: Commencement: S. 315 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-582d3855e57a804391ea53dbc5a1f69a]: Modification: Ss. 314-317 applied (with modifications) by 1952 c. 67, s. 13 (as amended (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/18/2/a) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-582d3855e57a804391ea53dbc5a1f69a]: Modification: Ss. 314-317 applied (with modifications) by 1952 c. 67, s. 13 (as amended (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/18/2/a) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-e5f99ad6686efb0079d72ced721c8e9c]: Commencement: S. 315 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e5f99ad6686efb0079d72ced721c8e9c]: Commencement: S. 315 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-becee77de0ca2aa7ba572dee51b5787f]: Modification: S. 315 extended by S.I. 1999/1736, Sch. 8 para. 6(2) (as amended (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(6)(e)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/6/e))
+[^c-becee77de0ca2aa7ba572dee51b5787f]: Modification: S. 315 extended by S.I. 1999/1736, Sch. 8 para. 6(2) (as amended (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(6)(e)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/6/e))
 
-[^key-dcebe0bc380e72a8afb147faaf72c9e4]: Textual amendment: [S. 315(5)](https://www.legislation.gov.uk/ukpga/2006/52/section/315/5) omitted (12.5.2016) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/8/2)
+[^c-dcebe0bc380e72a8afb147faaf72c9e4]: Textual amendment: [S. 315(5)](https://www.legislation.gov.uk/ukpga/2006/52/section/315/5) omitted (12.5.2016) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/8/2)
 
-[^key-82c4314b5243e50d3c6a2add084971f9]: Textual amendment: Words in [s. 315(6)](https://www.legislation.gov.uk/ukpga/2006/52/section/315/6) substituted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/8/3)
+[^c-82c4314b5243e50d3c6a2add084971f9]: Textual amendment: Words in [s. 315(6)](https://www.legislation.gov.uk/ukpga/2006/52/section/315/6) substituted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/8/3)

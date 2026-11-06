@@ -63,7 +63,7 @@ In these Regulations—
 
 (1) The social security functions of the First-tier Tribunal are allocated to the Social Security Chamber [^c23431261].
 
-(2)[^key-4ef88623cc59ba4a044219cd6287996c] The social security functions of the First-tier Tribunal are the functions conferred on the Tribunal by—
+(2)[^c-4ef88623cc59ba4a044219cd6287996c] The social security functions of the First-tier Tribunal are the functions conferred on the Tribunal by—
 
 - (a) the 2018 Act;
 - (b) regulations made under the 2018 Act; and
@@ -75,7 +75,7 @@ The First-tier Tribunal Social Security Chamber may consider all aspects of a de
 
 ## 5. Chamber president
 
-Until 31 March 2024[^key-4e626ea643cb9043a8188d969e9a498e], the following provisions of the Tribunals (Scotland) Act 2014 will not apply in relation to the presidency of the First-tier Tribunal Social Security Chamber—
+Until 31 March 2024[^c-4e626ea643cb9043a8188d969e9a498e], the following provisions of the Tribunals (Scotland) Act 2014 will not apply in relation to the presidency of the First-tier Tribunal Social Security Chamber—
 
 - (a) section 21(2); and
 - (b) in schedule 4—
@@ -110,6 +110,6 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^c23431261]: Marginal citation: The First-tier Tribunal for Scotland Social Security Chamber is brought into being by [S.S.I. 2018/349](https://www.legislation.gov.uk/ssi/2018/349).
 
-[^key-4ef88623cc59ba4a044219cd6287996c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/350/regulation/3/2) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/2/2)
+[^c-4ef88623cc59ba4a044219cd6287996c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/350/regulation/3/2) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/2/2)
 
-[^key-4e626ea643cb9043a8188d969e9a498e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2018/350/regulation/5) substituted (18.3.2021) by [The First-tier Tribunal for Scotland Social Security Chamber (Allocation of Functions) Amendment Regulations 2021 (S.S.I. 2021/149)](https://www.legislation.gov.uk/ssi/2021/149), [regs. 1](https://www.legislation.gov.uk/ssi/2021/149/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/149/regulation/2/2)
+[^c-4e626ea643cb9043a8188d969e9a498e]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2018/350/regulation/5) substituted (18.3.2021) by [The First-tier Tribunal for Scotland Social Security Chamber (Allocation of Functions) Amendment Regulations 2021 (S.S.I. 2021/149)](https://www.legislation.gov.uk/ssi/2021/149), [regs. 1](https://www.legislation.gov.uk/ssi/2021/149/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/149/regulation/2/2)

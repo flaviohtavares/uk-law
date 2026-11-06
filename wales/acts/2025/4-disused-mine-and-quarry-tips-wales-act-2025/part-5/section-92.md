@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Coming into force[^key-f784a262844589917fdc9284c185be2c]
+## 92. Coming into force[^c-f784a262844589917fdc9284c185be2c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f784a262844589917fdc9284c185be2c]: Commencement: S. 92 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-f784a262844589917fdc9284c185be2c]: Commencement: S. 92 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

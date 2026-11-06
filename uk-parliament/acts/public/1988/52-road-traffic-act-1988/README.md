@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to road traffic with amendment
 
 \[15th November 1988\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7e0e652a33247f857b3b71de625b580c][^key-1743444f68a8a4e9d305ae7d2de2bb28]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-7e0e652a33247f857b3b71de625b580c][^c-1743444f68a8a4e9d305ae7d2de2bb28]
 
 ## Contents
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 10 — Detention of persons affected by alcohol or a drug.](part-i/section-10.md)
 - [Section 11 — Interpretation of sections 4 to 10.](part-i/section-11.md)
 
-#### Motor racing on public ways[^key-b878d127630eef0eb967d69ec2026b3e]
+#### Motor racing on public ways[^c-b878d127630eef0eb967d69ec2026b3e]
 
 *Extent: E+W+S*
 
@@ -93,7 +93,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 12H — Races and trials of speed in Scotland: further provision](part-i/section-12h.md)
 - [Section 12I — Regulations under section 12G or 12H: procedure](part-i/section-12i.md)
 
-#### Other motor events[^key-b867c5f9ff35b55e73197ba2e68cf9b2]
+#### Other motor events[^c-b867c5f9ff35b55e73197ba2e68cf9b2]
 
 *Extent: E+W+S*
 
@@ -243,7 +243,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 66A — Appointment of examiners.](part-ii/section-66a.md)
 
-#### Stopping officers[^key-b2f82883c34e2f3ce6609ef4e4af3f55]
+#### Stopping officers[^c-b2f82883c34e2f3ce6609ef4e4af3f55]
 
 - [Section 66B — Appointment of stopping officers](part-ii/section-66b.md)
 - [Section 66C — Stopping officers: offences](part-ii/section-66c.md)
@@ -455,7 +455,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 131 — Appeals.](part-v/section-131.md)
 
-#### Compensation[^key-cc840d2f3ee802d137482fc4836a2b7d]
+#### Compensation[^c-cc840d2f3ee802d137482fc4836a2b7d]
 
 *Extent: E+W+S*
 
@@ -497,7 +497,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-#### Compulsory insurance ...[^key-46b8cbf364269d1a490d4d1c2678212a]
+#### Compulsory insurance ...[^c-46b8cbf364269d1a490d4d1c2678212a]
 
 *Extent: E+W+S*
 
@@ -520,7 +520,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 155 — Deposits.](part-vi/section-155.md)
 - [Section 156 — Power to require evidence of insurance ... on application for vehicle excise licence.](part-vi/section-156.md)
 
-#### Assimilated law relating to compulsory insurance[^key-53681c5b8b7aeb2955121e0d705629d2][^key-53fa8f4e5a330b89e52401107efe4a01]
+#### Assimilated law relating to compulsory insurance[^c-53681c5b8b7aeb2955121e0d705629d2][^c-53fa8f4e5a330b89e52401107efe4a01]
 
 - [Section 156A — Assimilated law relating to compulsory insurance](part-vi/section-156a.md)
 
@@ -643,15 +643,15 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7e0e652a33247f857b3b71de625b580c]: Modification: Act applied (with modifications) (E.W.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 paras. 8, 9](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/8)
+[^c-7e0e652a33247f857b3b71de625b580c]: Modification: Act applied (with modifications) (E.W.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 paras. 8, 9](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/8)
 
-[^key-1743444f68a8a4e9d305ae7d2de2bb28]: Modification: Act applied (with modifications) (E.W.) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/8)
+[^c-1743444f68a8a4e9d305ae7d2de2bb28]: Modification: Act applied (with modifications) (E.W.) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/8)
 
 [^c19262141]: Modification: Pt. I modified (E.W.S.) (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [art. 27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-b878d127630eef0eb967d69ec2026b3e]: Textual amendment: S. 12 cross-heading substituted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 75(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)
+[^c-b878d127630eef0eb967d69ec2026b3e]: Textual amendment: S. 12 cross-heading substituted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 75(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)
 
-[^key-b867c5f9ff35b55e73197ba2e68cf9b2]: Textual amendment: S. 13 cross-heading inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 75(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)
+[^c-b867c5f9ff35b55e73197ba2e68cf9b2]: Textual amendment: S. 13 cross-heading inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 75(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)
 
 [^c19262241]: Modification: Pt. II modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [art. 27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
@@ -659,7 +659,7 @@ SCHEDULES
 
 [^c13976051]: Textual amendment: S. 66A and cross heading inserted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 9(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/9/1); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-b2f82883c34e2f3ce6609ef4e4af3f55]: Textual amendment: Ss. 66B, 66C and cross-heading inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/2)
+[^c-b2f82883c34e2f3ce6609ef4e4af3f55]: Textual amendment: Ss. 66B, 66C and cross-heading inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/2)
 
 [^c13976241]: Textual amendment: S. 68 and cross-heading substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s.11](https://www.legislation.gov.uk/ukpga/1991/40/section/11); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -695,7 +695,7 @@ SCHEDULES
 
 [^c13987351]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1988/52/part/IV) (ss. 110–122): by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 1(1)(2)(7)](https://www.legislation.gov.uk/ukpga/1989/22/section/1), [16](https://www.legislation.gov.uk/ukpga/1989/22/section/16), [Sch. 6](https://www.legislation.gov.uk/ukpga/1989/22/schedule/6) it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the [Public Passenger Vehicles Act 1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
 
-[^key-cc840d2f3ee802d137482fc4836a2b7d]: Textual amendment: S. 131A and crossheading inserted (8.6.2012 for specified purposes, 6.7.2012 so far as not already in force) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b), 4(a)
+[^c-cc840d2f3ee802d137482fc4836a2b7d]: Textual amendment: S. 131A and crossheading inserted (8.6.2012 for specified purposes, 6.7.2012 so far as not already in force) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/7); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/3/b), 4(a)
 
 [^M_F_faf9c17f-90f7-4089-eb59-26d9412e9045]: Textual amendment: Words in s. 133A cross-heading omitted (8.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2), [Sch. 2 para. 24(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/24/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
@@ -705,11 +705,11 @@ SCHEDULES
 
 [^c19262271]: Modification: Pt. VI modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [art. 27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-46b8cbf364269d1a490d4d1c2678212a]: Textual amendment: Words in s. 143 cross-heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-46b8cbf364269d1a490d4d1c2678212a]: Textual amendment: Words in s. 143 cross-heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-53681c5b8b7aeb2955121e0d705629d2]: Textual amendment: Word in s. 156A cross-heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/24/2)
+[^c-53681c5b8b7aeb2955121e0d705629d2]: Textual amendment: Word in s. 156A cross-heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/24/2)
 
-[^key-53fa8f4e5a330b89e52401107efe4a01]: Textual amendment: S. 156A and cross-heading inserted (28.6.2022) by [Motor Vehicles (Compulsory Insurance) Act 2022 (c. 25)](https://www.legislation.gov.uk/ukpga/2022/25), [ss. 1](https://www.legislation.gov.uk/ukpga/2022/25/section/1), [2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)
+[^c-53fa8f4e5a330b89e52401107efe4a01]: Textual amendment: S. 156A and cross-heading inserted (28.6.2022) by [Motor Vehicles (Compulsory Insurance) Act 2022 (c. 25)](https://www.legislation.gov.uk/ukpga/2022/25), [ss. 1](https://www.legislation.gov.uk/ukpga/2022/25/section/1), [2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)
 
 [^c19262281]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1988/52/part/VII) modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [art. 27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 

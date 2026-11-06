@@ -50,7 +50,7 @@ Section 125BA
 
 ### Entry to levy distress
 
-**3.**[^key-6c994dfa9934b5f5c4090f494ab5067e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6c994dfa9934b5f5c4090f494ab5067e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Searching arrested persons
 
@@ -79,4 +79,4 @@ Section 125BA
 
 [^c19487781]: Textual amendment: Sch. 4A inserted (18.7.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 27](https://www.legislation.gov.uk/ukpga/2004/28/section/27), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/28/schedule/4); [S.I. 2005/1821](https://www.legislation.gov.uk/uksi/2005/1821), [art. 2](https://www.legislation.gov.uk/uksi/2005/1821/article/2)
 
-[^key-6c994dfa9934b5f5c4090f494ab5067e]: Textual amendment: Sch. 4A para. 3 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 65](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/65), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-6c994dfa9934b5f5c4090f494ab5067e]: Textual amendment: Sch. 4A para. 3 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 65](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/65), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

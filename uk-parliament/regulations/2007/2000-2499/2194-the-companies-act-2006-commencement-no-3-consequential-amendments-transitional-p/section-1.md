@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, interpretation and coming into force[^key-afa1419d47a26b5b5c608286add8baa1]
+## 1. Citation, interpretation and coming into force[^c-afa1419d47a26b5b5c608286add8baa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-afa1419d47a26b5b5c608286add8baa1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2194/article/1) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-afa1419d47a26b5b5c608286add8baa1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2194/article/1) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
 
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 

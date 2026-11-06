@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Dormant accounts of charities: procedure and interpretation[^key-a8a5382f66d24a8dcc21b7fc46a8dec0][^key-00d60c4457ba7d4c5a1289df08f19313]
+## 48. Dormant accounts of charities: procedure and interpretation[^c-a8a5382f66d24a8dcc21b7fc46a8dec0][^c-00d60c4457ba7d4c5a1289df08f19313]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ is effected after the dormancy date.
 
 ## Annotations
 
-[^key-a8a5382f66d24a8dcc21b7fc46a8dec0]: Commencement: S. 48 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-a8a5382f66d24a8dcc21b7fc46a8dec0]: Commencement: S. 48 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-00d60c4457ba7d4c5a1289df08f19313]: Commencement: S. 48 in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-00d60c4457ba7d4c5a1289df08f19313]: Commencement: S. 48 in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

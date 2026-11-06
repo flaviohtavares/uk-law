@@ -129,7 +129,7 @@ For the purposes of Schedule 2 to the 2008 Act “**interested parties**” mean
 (1) Subject to paragraph (2), the date determined for the purposes of paragraph 5(1) and (2) of Schedule 2 to the 2008 Act is—
 
 - (a) if an existing case is related to an application under Article 7(1) of the Child Support Order, a date specified by the Department which shall be no fewer than 30 days after the date on which notice is given under regulation 5(2);
-- (b) in any other case, a date specified by the Department which shall be no fewer than 180 days but no more than 200[^key-72ea13b14f875fa4ba1c0b3cc51eb3ec] days after which that notice is given.
+- (b) in any other case, a date specified by the Department which shall be no fewer than 180 days but no more than 200[^c-72ea13b14f875fa4ba1c0b3cc51eb3ec] days after which that notice is given.
 
 (2) Where an existing case becomes related to an application under Article 7(1) of the Child Support Order after a notice has been given under regulation 5(2), the Department may revise the liability end date by issuing a further notice to the interested parties with a liability end date falling at least 30 days after such further notice is given.
 
@@ -197,6 +197,6 @@ Regulation 8 provides for the treatment of an existing case where no calculation
 
 [^c22271031]: Marginal citation: S.R. [2001 No. 18](https://www.legislation.gov.uk/ukcm/2001/18); [regulation 5](https://www.legislation.gov.uk/nisr/2014/191/regulation/5) was amended by regulation 6(4) of S.R. [2003 No. 469](https://www.legislation.gov.uk/ukcm/2003/469), [regulation 7(2)](https://www.legislation.gov.uk/ukcm/2003/469/regulation/7/2) of S.R. [2004 No. 428](https://www.legislation.gov.uk/ukcm/2004/428), [regulation 26(4)](https://www.legislation.gov.uk/ukcm/2004/428/regulation/26/4) of S.R. [2008 No. 286](https://www.legislation.gov.uk/ukcm/2008/286) and regulation 7 of S.R. [2009 No. 133](https://www.legislation.gov.uk/ukcm/2009/133)
 
-[^key-72ea13b14f875fa4ba1c0b3cc51eb3ec]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/nisr/2014/191/regulation/6/1/b) substituted (18.11.2016) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2016/390/regulation/5)
+[^c-72ea13b14f875fa4ba1c0b3cc51eb3ec]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/nisr/2014/191/regulation/6/1/b) substituted (18.11.2016) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2016/390/regulation/5)
 
 [^c22271041]: Marginal citation: [Article 31](https://www.legislation.gov.uk/nisr/2014/191/article/31) is amended by section 1(2) of the 2000 Act and Article 32A was inserted by section 14 of the Child Maintenance Act (Northern Ireland) 2008

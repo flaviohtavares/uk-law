@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment to regulation 78B[^key-667d811e5152647279806a0051782084]
+## 61. Amendment to regulation 78B[^c-667d811e5152647279806a0051782084]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 78B (post authorisation requirements in relation to UKMA(GB) for a
 
 ## Annotations
 
-[^key-667d811e5152647279806a0051782084]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2024/832/regulation/61) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-667d811e5152647279806a0051782084]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2024/832/regulation/61) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00072]: Footnote: Regulation 78B was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

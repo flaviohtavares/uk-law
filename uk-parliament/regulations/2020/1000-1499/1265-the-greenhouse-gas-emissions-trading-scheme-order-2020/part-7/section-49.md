@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Regulator must publish names of persons subject to civil penalty under article 52[^key-5e9774c1a530f0e0eb42ed3f85602b1c]
+## 49. Regulator must publish names of persons subject to civil penalty under article 52[^c-5e9774c1a530f0e0eb42ed3f85602b1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) But paragraph (1) does not apply if, following an appeal, the person is found not to be liable to a civil penalty.
 
-(3)[^key-07fc7099256f12c8858eec5cb8266228] This article is subject to article 75C (national security).
+(3)[^c-07fc7099256f12c8858eec5cb8266228] This article is subject to article 75C (national security).
 
 ## Annotations
 
-[^key-5e9774c1a530f0e0eb42ed3f85602b1c]: Commencement: Art. 49 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-5e9774c1a530f0e0eb42ed3f85602b1c]: Commencement: Art. 49 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-07fc7099256f12c8858eec5cb8266228]: Textual amendment: Art. 49(3) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [25(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/25/2)
+[^c-07fc7099256f12c8858eec5cb8266228]: Textual amendment: Art. 49(3) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [25(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/25/2)

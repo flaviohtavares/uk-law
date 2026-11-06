@@ -22,7 +22,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Wales – joint arrangements[^key-6463720b4815fdd89b3fedbdec722cc2]
+## 3A. Wales – joint arrangements[^c-6463720b4815fdd89b3fedbdec722cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^M_F_0880555d-342f-48af-92a5-7cc517bd094e]: Textual amendment: S. 3A omitted (7.3.2018) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/15/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/a)
 
-[^key-6463720b4815fdd89b3fedbdec722cc2]: Textual amendment: S. 3A inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [ss. 170](https://www.legislation.gov.uk/anaw/2014/4/section/170), [199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/a)
+[^c-6463720b4815fdd89b3fedbdec722cc2]: Textual amendment: S. 3A inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [ss. 170](https://www.legislation.gov.uk/anaw/2014/4/section/170), [199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/a)

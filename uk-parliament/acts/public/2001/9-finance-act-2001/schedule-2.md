@@ -78,7 +78,7 @@ Section 9.
 </tbody>
 </table>
 
-**6.**[^key-b473f8e33bfcaf282c4ecbb65e7f9b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b473f8e33bfcaf282c4ecbb65e7f9b09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** For the Table in paragraph 11(1) (tractive units not satisfying reduced pollution requirements and with a revenue weight exceeding 3,500 kilograms but not exceeding 44,000 kilograms) substitute—
 
@@ -142,4 +142,4 @@ Section 9.
 
 ## Annotations
 
-[^key-b473f8e33bfcaf282c4ecbb65e7f9b09]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/2/paragraph/6) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-b473f8e33bfcaf282c4ecbb65e7f9b09]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/2/paragraph/6) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)

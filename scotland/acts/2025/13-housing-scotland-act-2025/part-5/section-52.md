@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Duties of relevant bodies in relation to homelessness[^key-822368637e199427c764ff47ec1aedc9]
+## 52. Duties of relevant bodies in relation to homelessness[^c-822368637e199427c764ff47ec1aedc9]
 
 *Extent: S*
 
-(1)[^key-7acf8019af46383cc7012fb9d739fd03] The Housing (Scotland) Act 1987 is modified as follows.
+(1)[^c-7acf8019af46383cc7012fb9d739fd03] The Housing (Scotland) Act 1987 is modified as follows.
 
 (2) In section 24 (homeless persons and persons threatened with homelessness)—
 
@@ -112,7 +112,7 @@ summary: ''
 
   .
 
-(9)[^key-39998d5494ff6a8f70279b1c545cce6a] After section 36 insert—
+(9)[^c-39998d5494ff6a8f70279b1c545cce6a] After section 36 insert—
 
 > **Duties of relevant bodies in relation to homelessness**
 >
@@ -212,7 +212,7 @@ summary: ''
 
 (10) In section 40 (false statements etc.), in subsection (1)(c), the words “or threatened with homelessness” are repealed.
 
-(11)[^key-7acf8019af46383cc7012fb9d739fd03] After section 40 insert—
+(11)[^c-7acf8019af46383cc7012fb9d739fd03] After section 40 insert—
 
 > **40A. Meaning of homelessness and threatened with homelessness**
 >
@@ -246,7 +246,7 @@ summary: ''
 
   ,
 - (b) in the definition of “homeless intentionally or threatened with homelessness intentionally”, the words “or threatened with homelessness intentionally” are repealed,
-- (c)[^key-39998d5494ff6a8f70279b1c545cce6a] after the definition of “relevant authority” insert—
+- (c)[^c-39998d5494ff6a8f70279b1c545cce6a] after the definition of “relevant authority” insert—
 
   > - “**relevant body**” means—
   >   - (a) a Health Board constituted by order under section 2(1)(a) of the National Health Service (Scotland) Act 1978,
@@ -262,7 +262,7 @@ summary: ''
 
   .
 
-(13)[^key-39998d5494ff6a8f70279b1c545cce6a] After section 43 insert—
+(13)[^c-39998d5494ff6a8f70279b1c545cce6a] After section 43 insert—
 
 > **43A. Power to modify the meaning of “relevant body”**
 >
@@ -284,8 +284,8 @@ summary: ''
 
 ## Annotations
 
-[^key-822368637e199427c764ff47ec1aedc9]: Commencement: S. 52 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-822368637e199427c764ff47ec1aedc9]: Commencement: S. 52 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
 
-[^key-7acf8019af46383cc7012fb9d739fd03]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2025/13/section/52/1)[(11)](https://www.legislation.gov.uk/asp/2025/13/section/52/11) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-7acf8019af46383cc7012fb9d739fd03]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2025/13/section/52/1)[(11)](https://www.legislation.gov.uk/asp/2025/13/section/52/11) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-39998d5494ff6a8f70279b1c545cce6a]: Commencement: [S. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9)[(12)(c)](https://www.legislation.gov.uk/asp/2025/13/section/52/12/c)[(13)](https://www.legislation.gov.uk/asp/2025/13/section/52/13) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-39998d5494ff6a8f70279b1c545cce6a]: Commencement: [S. 52(9)](https://www.legislation.gov.uk/asp/2025/13/section/52/9)[(12)(c)](https://www.legislation.gov.uk/asp/2025/13/section/52/12/c)[(13)](https://www.legislation.gov.uk/asp/2025/13/section/52/13) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

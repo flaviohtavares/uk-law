@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-54021b31ff6dd7fe409ff752a30a48bd]
+## 2. Interpretation[^c-54021b31ff6dd7fe409ff752a30a48bd]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-54021b31ff6dd7fe409ff752a30a48bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/84/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-54021b31ff6dd7fe409ff752a30a48bd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/84/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
 [^f00003]: Footnote: [1976 c.38](https://www.legislation.gov.uk/ukpga/1976/38). The schedule was substituted in relation to Scotland by [S.S.I. 2008/302](https://www.legislation.gov.uk/ssi/2008/302).
 

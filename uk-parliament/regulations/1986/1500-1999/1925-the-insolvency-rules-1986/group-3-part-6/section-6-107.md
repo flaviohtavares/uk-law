@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.107. Expunging of proof by the court[^key-8aa64e1b947973172c53011203c9adc3]
+## 6.107. Expunging of proof by the court[^c-8aa64e1b947973172c53011203c9adc3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa64e1b947973172c53011203c9adc3]: Commencement: [Rule 6.107](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.107) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8aa64e1b947973172c53011203c9adc3]: Commencement: [Rule 6.107](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.107) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

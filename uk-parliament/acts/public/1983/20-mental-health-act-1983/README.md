@@ -33,7 +33,7 @@ Mental Health Act 1983
 
 \[9th May 1983\]
 
-Be it enacted by the Queen’s most excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-411439fa430fe5c7c4dfd76e9ea858d8]
+Be it enacted by the Queen’s most excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-411439fa430fe5c7c4dfd76e9ea858d8]
 
 ## Contents
 
@@ -146,7 +146,7 @@ Be it enacted by the Queen’s most excellent Majesty, by and with the advice an
 - [Section 33 — Special provisions as to wards of court.](part-ii/section-33.md)
 - [Section 34 — Interpretation of Part II.](part-ii/section-34.md)
 
-### Part III — Patients Concerned in Criminal Proceedings or Under Sentence[^c10386841][^key-a33c266fd18c97ed2db83994dd9c676d]
+### Part III — Patients Concerned in Criminal Proceedings or Under Sentence[^c10386841][^c-a33c266fd18c97ed2db83994dd9c676d]
 
 *Extent: E+W+S*
 
@@ -517,7 +517,7 @@ SCHEDULES
 
 [^c20404601]: Modification: Act modified (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 10](https://www.legislation.gov.uk/uksi/2009/462/article/10), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4)
 
-[^key-411439fa430fe5c7c4dfd76e9ea858d8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1983/20) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/7), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(8)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/8); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-411439fa430fe5c7c4dfd76e9ea858d8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1983/20) applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/7), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(8)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/8); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
 [^c10384681]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1983/20/part/II) (ss. 2–34) modified by [Mental Health (Scotland) Act 1984 (c. 36, SIF 85)](https://www.legislation.gov.uk/ukpga/1984/36), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/1984/36/section/17/2), [78(2)](https://www.legislation.gov.uk/ukpga/1984/36/section/78/2)
 
@@ -529,7 +529,7 @@ SCHEDULES
 
 [^c10386841]: Modification: Pt. 3: certain defintions applied (E.W.) (1.1.1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/6/2); [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2)
 
-[^key-a33c266fd18c97ed2db83994dd9c676d]: Modification: Pt. 3 applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-a33c266fd18c97ed2db83994dd9c676d]: Modification: Pt. 3 applied in part (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/5)[(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/6/6), [29(6)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/6)[(7)](https://www.legislation.gov.uk/uksi/2024/619/regulation/29/7); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
 [^c10387581]: Textual amendment: [Ss. 45A](https://www.legislation.gov.uk/ukpga/1983/20/section/45A), [45B](https://www.legislation.gov.uk/ukpga/1983/20/section/45B) inserted (1.10.1997) by [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43), [ss. 46](https://www.legislation.gov.uk/ukpga/1997/43/section/46); [S.I. 1997/2200](https://www.legislation.gov.uk/uksi/1997/2200), [art. 2](https://www.legislation.gov.uk/uksi/1997/2200/article/2) (with saving in [art. 5(1)](https://www.legislation.gov.uk/uksi/1997/2200/article/5/1))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Standards and requirements: consultation and review[^key-3bf649c6c182b8027ff08998488cc4f5][^key-ba599ac4ef27734e4749b1ffd4515582]
+## 5. Standards and requirements: consultation and review[^c-3bf649c6c182b8027ff08998488cc4f5][^c-ba599ac4ef27734e4749b1ffd4515582]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (f) persons carrying on a retail pharmacy business at a registered pharmacy; and
 - (g) persons or bodies providing, assessing, regulating or funding education and training for registrants or prospective registrants.
 
-(1A)[^key-dbc050859012a39a5cd2eb3147de4e35] Before setting any standards under this Order, the Council must consult the Scottish Ministers, the Welsh Ministers and the Secretary of State for Health.
+(1A)[^c-dbc050859012a39a5cd2eb3147de4e35] Before setting any standards under this Order, the Council must consult the Scottish Ministers, the Welsh Ministers and the Secretary of State for Health.
 
 (2) The Council must keep the standards and requirements set under this Order under review and may vary or withdraw any of those standards and requirements whenever it considers it appropriate to do so.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf649c6c182b8027ff08998488cc4f5]: Commencement: Art. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3bf649c6c182b8027ff08998488cc4f5]: Commencement: Art. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ba599ac4ef27734e4749b1ffd4515582]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/231/article/5) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ba599ac4ef27734e4749b1ffd4515582]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/231/article/5) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-dbc050859012a39a5cd2eb3147de4e35]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/5/1A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [18](https://www.legislation.gov.uk/uksi/2016/372/article/18); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-dbc050859012a39a5cd2eb3147de4e35]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/5/1A) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [18](https://www.legislation.gov.uk/uksi/2016/372/article/18); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)

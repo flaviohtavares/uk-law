@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Offence of Commissioner disclosing confidential information[^key-95d167d023107d321f39dc8e3b81e6b3]
+## 17. Offence of Commissioner disclosing confidential information[^c-95d167d023107d321f39dc8e3b81e6b3]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d167d023107d321f39dc8e3b81e6b3]: Commencement: S. 17 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-95d167d023107d321f39dc8e3b81e6b3]: Commencement: S. 17 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

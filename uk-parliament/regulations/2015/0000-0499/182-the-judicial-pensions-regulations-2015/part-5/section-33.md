@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Calculation of amount of accrued pension for purpose of partial retirement[^key-a23a4b8d27a4b0dd73473e007eef8e4f]
+## 33. Calculation of amount of accrued pension for purpose of partial retirement[^c-a23a4b8d27a4b0dd73473e007eef8e4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a23a4b8d27a4b0dd73473e007eef8e4f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/182/regulation/33) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-a23a4b8d27a4b0dd73473e007eef8e4f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/182/regulation/33) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

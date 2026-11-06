@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11A. Complaints about licensed providers[^key-98324742f0277cfec68303c20a2bd9c5]
+## 11A. Complaints about licensed providers[^c-98324742f0277cfec68303c20a2bd9c5]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98324742f0277cfec68303c20a2bd9c5]: Textual amendment: S. 11A inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 131](https://www.legislation.gov.uk/asp/2010/8/section/131), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [134(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c)
+[^c-98324742f0277cfec68303c20a2bd9c5]: Textual amendment: S. 11A inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 131](https://www.legislation.gov.uk/asp/2010/8/section/131), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [134(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c)

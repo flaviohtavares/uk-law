@@ -38,26 +38,26 @@ concerning the conclusion of consultations with the Republic of Guinea-Bissau un
 
 (2011/492/EU) (repealed) (revoked)
 
-[^key-f850b9317b12d3dc7d332dbcfe5dcb42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f850b9317b12d3dc7d332dbcfe5dcb42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f850b9317b12d3dc7d332dbcfe5dcb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f850b9317b12d3dc7d332dbcfe5dcb42]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-f850b9317b12d3dc7d332dbcfe5dcb42] DRAFT LETTER
+## ANNEX[^c-f850b9317b12d3dc7d332dbcfe5dcb42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f850b9317b12d3dc7d332dbcfe5dcb42] ANNEX I: SCHEDULE OF COMMITMENTS
+[^c-f850b9317b12d3dc7d332dbcfe5dcb42] DRAFT LETTER
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f850b9317b12d3dc7d332dbcfe5dcb42] ANNEX I: SCHEDULE OF COMMITMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f850b9317b12d3dc7d332dbcfe5dcb42]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f850b9317b12d3dc7d332dbcfe5dcb42]: Textual amendment: Decision revoked (31.12.2020) by [The European Network of Employment Services (EU Exit) Regulations 2018 (S.I. 2018/1283)](https://www.legislation.gov.uk/uksi/2018/1283), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1283/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1283/schedule) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1283/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

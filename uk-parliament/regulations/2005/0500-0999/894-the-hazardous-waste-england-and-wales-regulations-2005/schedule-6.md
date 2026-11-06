@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6[^key-0df7c713582e451861a2e74429141371]
+## SCHEDULE 6[^c-0df7c713582e451861a2e74429141371]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 35(4)
 
-[^key-0df7c713582e451861a2e74429141371]
+[^c-0df7c713582e451861a2e74429141371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0df7c713582e451861a2e74429141371]
+[^c-0df7c713582e451861a2e74429141371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0df7c713582e451861a2e74429141371]
+[^c-0df7c713582e451861a2e74429141371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0df7c713582e451861a2e74429141371]
+[^c-0df7c713582e451861a2e74429141371]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0df7c713582e451861a2e74429141371]: Textual amendment: Sch. 6 omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/28) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-0df7c713582e451861a2e74429141371]: Textual amendment: Sch. 6 omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/28) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

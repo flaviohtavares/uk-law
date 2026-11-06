@@ -31,24 +31,24 @@ Exchequer And Audit Departments Act 1957 (repealed)
 
 1957 c.45
 
-[^key-61901ebed479492026b99827398061d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61901ebed479492026b99827398061d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[17th July 1957\]
 
 **No longer in force.**
 
-## 1. Salary of Comptroller.[^key-61901ebed479492026b99827398061d7][^key-61901ebed479492026b99827398061d7]
+## 1. Salary of Comptroller.[^c-61901ebed479492026b99827398061d7][^c-61901ebed479492026b99827398061d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Performance of Comptroller’s functions by authorised officer.[^key-61901ebed479492026b99827398061d7][^key-61901ebed479492026b99827398061d7]
+## 2. Performance of Comptroller’s functions by authorised officer.[^c-61901ebed479492026b99827398061d7][^c-61901ebed479492026b99827398061d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, citation and repeal.[^key-61901ebed479492026b99827398061d7][^key-61901ebed479492026b99827398061d7]
+## 3. Short title, citation and repeal.[^c-61901ebed479492026b99827398061d7][^c-61901ebed479492026b99827398061d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61901ebed479492026b99827398061d7]: Textual amendment: Act repealed (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/3) (with [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/3/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-61901ebed479492026b99827398061d7]: Textual amendment: Act repealed (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/3) (with [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/3/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50I (Extent: W). Imposition (Extent: W)[^key-f5c01c740dffce4cb246e7921ab2d48c]
+## 50I (Extent: W). Imposition (Extent: W)[^c-f5c01c740dffce4cb246e7921ab2d48c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c01c740dffce4cb246e7921ab2d48c]: Textual amendment: S. 50I inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 58](https://www.legislation.gov.uk/mwa/2011/5/section/58), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)
+[^c-f5c01c740dffce4cb246e7921ab2d48c]: Textual amendment: S. 50I inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 58](https://www.legislation.gov.uk/mwa/2011/5/section/58), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)

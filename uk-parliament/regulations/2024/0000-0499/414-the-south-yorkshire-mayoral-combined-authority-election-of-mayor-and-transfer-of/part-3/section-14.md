@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Amendment of the York and North Yorkshire Combined Authority Order 2023[^key-b44aed8f24085d78aafab1580b63ade6]
+## 14. Amendment of the York and North Yorkshire Combined Authority Order 2023[^c-b44aed8f24085d78aafab1580b63ade6]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In the York and North Yorkshire Combined Authority Order 2023[^f00022], in Sched
 
 ## Annotations
 
-[^key-b44aed8f24085d78aafab1580b63ade6]: Commencement: Art. 14 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-b44aed8f24085d78aafab1580b63ade6]: Commencement: Art. 14 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00022]: Footnote: [S.I. 2023/1432](https://www.legislation.gov.uk/uksi/2023/1432).

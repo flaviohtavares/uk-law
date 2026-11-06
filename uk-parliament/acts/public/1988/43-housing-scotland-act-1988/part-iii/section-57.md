@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Persons by whom right may be exercised.[^key-28c3b5517268fcb9c30c974d639c6f19]
+## 57. Persons by whom right may be exercised.[^c-28c3b5517268fcb9c30c974d639c6f19]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28c3b5517268fcb9c30c974d639c6f19]: Textual amendment: Ss. 56-64 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/4/3); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-28c3b5517268fcb9c30c974d639c6f19]: Textual amendment: Ss. 56-64 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/4/3); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

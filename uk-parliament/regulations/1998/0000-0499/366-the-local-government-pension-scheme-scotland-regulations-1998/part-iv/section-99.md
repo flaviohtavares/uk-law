@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Right to apply for an appointed person to decide a disagreement[^key-25a22b6d2f9f7fcc44e293884c195db0]
+## 99. Right to apply for an appointed person to decide a disagreement[^c-25a22b6d2f9f7fcc44e293884c195db0]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ must set out his full name, address, date of birth, his national insurance numbe
 
 ## Annotations
 
-[^key-25a22b6d2f9f7fcc44e293884c195db0]: Commencement: Reg. 99 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-25a22b6d2f9f7fcc44e293884c195db0]: Commencement: Reg. 99 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

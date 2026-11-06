@@ -34,28 +34,28 @@ Order made by the Department for Communities and laid before the Assembly under 
 
 Local Government
 
-The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) Order (Northern Ireland) 2022 (revoked)[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]
+The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) Order (Northern Ireland) 2022 (revoked)[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]
 
 Made
 
 *21st March 2022*
 
-[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]
+## 1. Citation[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of expiry date[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]
+## 2. Extension of expiry date[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46e1598b0e7a7a1a56bcad6d0fb2b204]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/130) revoked (24.9.2022) by [The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/214)](https://www.legislation.gov.uk/nisr/2022/214), [arts. 2](https://www.legislation.gov.uk/nisr/2022/214/article/2), [3](https://www.legislation.gov.uk/nisr/2022/214/article/3)
+[^c-46e1598b0e7a7a1a56bcad6d0fb2b204]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/130) revoked (24.9.2022) by [The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/214)](https://www.legislation.gov.uk/nisr/2022/214), [arts. 2](https://www.legislation.gov.uk/nisr/2022/214/article/2), [3](https://www.legislation.gov.uk/nisr/2022/214/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Offences[^key-40d9bca4312be6d9394afad863cc8224]
+## 14. Offences[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40d9bca4312be6d9394afad863cc8224]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/574) revoked (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2022/126/regulation/4))
+[^c-40d9bca4312be6d9394afad863cc8224]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/574) revoked (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2022/126/regulation/4))

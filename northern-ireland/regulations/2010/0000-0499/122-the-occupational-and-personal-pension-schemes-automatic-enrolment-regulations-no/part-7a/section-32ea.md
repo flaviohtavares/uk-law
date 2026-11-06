@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32EA. Alternative quality requirements for a collective money purchase scheme[^key-122ee397c63a14415db4a37bebd2fa83][^key-dffb89b4fcb87c9c0f583cb7b572d605]
+## 32EA. Alternative quality requirements for a collective money purchase scheme[^c-122ee397c63a14415db4a37bebd2fa83][^c-dffb89b4fcb87c9c0f583cb7b572d605]
 
 *Extent: N.I.*
 
@@ -69,6 +69,6 @@ the prescribed alternative requirement is set out in paragraph (2).
 
 ## Annotations
 
-[^key-122ee397c63a14415db4a37bebd2fa83]: Textual amendment: [Reg. 32EA](https://www.legislation.gov.uk/nisr/2010/122/regulation/32EA) inserted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/3)
+[^c-122ee397c63a14415db4a37bebd2fa83]: Textual amendment: [Reg. 32EA](https://www.legislation.gov.uk/nisr/2010/122/regulation/32EA) inserted (26.1.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (S.R. 2024/15)](https://www.legislation.gov.uk/nisr/2024/15), [regs. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1), [36](https://www.legislation.gov.uk/nisr/2024/15/regulation/36), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/nisr/2024/15/schedule/7/paragraph/2/3)
 
-[^key-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
+[^c-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)

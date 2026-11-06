@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Security for charges[^key-88bcb771688a0de54ccdfb0f875abd1a]
+## 39. Security for charges[^c-88bcb771688a0de54ccdfb0f875abd1a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88bcb771688a0de54ccdfb0f875abd1a]: Commencement: Art. 39 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-88bcb771688a0de54ccdfb0f875abd1a]: Commencement: Art. 39 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

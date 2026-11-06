@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Grounds on which a marriage converted from a civil partnership is void or voidable[^key-20cba5849e481854496bfc8b11a416ba]
+## 12A. Grounds on which a marriage converted from a civil partnership is void or voidable[^c-20cba5849e481854496bfc8b11a416ba]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20cba5849e481854496bfc8b11a416ba]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1973/18/section/12A) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/6/4)
+[^c-20cba5849e481854496bfc8b11a416ba]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1973/18/section/12A) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3168)](https://www.legislation.gov.uk/uksi/2014/3168), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/3168/article/1/3), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2014/3168/schedule/paragraph/6/4)

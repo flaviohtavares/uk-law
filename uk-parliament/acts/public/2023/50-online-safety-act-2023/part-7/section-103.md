@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Requirement to name a senior manager[^key-603d47149aebf9c3b232e673f9175f45][^key-cb00db13b0aff198e1e323b4c8ef1ed5]
+## 103. Requirement to name a senior manager[^c-603d47149aebf9c3b232e673f9175f45][^c-cb00db13b0aff198e1e323b4c8ef1ed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-603d47149aebf9c3b232e673f9175f45]: Commencement: S. 103 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-603d47149aebf9c3b232e673f9175f45]: Commencement: S. 103 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cb00db13b0aff198e1e323b4c8ef1ed5]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/50/section/103) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z7)
+[^c-cb00db13b0aff198e1e323b4c8ef1ed5]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/50/section/103) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z7)

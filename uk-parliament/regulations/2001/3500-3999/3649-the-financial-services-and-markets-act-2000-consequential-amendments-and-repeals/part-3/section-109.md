@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Information in connection with police officers' pensions[^key-e0a1b27a368a5d7a7dd891c42e0b4367]
+## 109. Information in connection with police officers' pensions[^c-e0a1b27a368a5d7a7dd891c42e0b4367]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 8A[^f00102] of the Police Pensions Act 1976 (information in connectio
 
 ## Annotations
 
-[^key-e0a1b27a368a5d7a7dd891c42e0b4367]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e0a1b27a368a5d7a7dd891c42e0b4367]: Commencement: Art. 109 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00102]: Footnote: Section 8A was inserted by the Police and Firemen’s Pensions Act [1997 (c. 52)](https://www.legislation.gov.uk/ukpga/1997/52) s. 2.

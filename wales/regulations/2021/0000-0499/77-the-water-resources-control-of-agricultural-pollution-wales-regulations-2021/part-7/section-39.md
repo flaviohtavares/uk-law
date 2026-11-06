@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Records of crops sown[^key-72e6ccb0fdf8a2a3c97bc54f27c6d42d]
+## 39. Records of crops sown[^c-72e6ccb0fdf8a2a3c97bc54f27c6d42d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An occupier who intends to spread nitrogen fertiliser must record within one wee
 
 ## Annotations
 
-[^key-72e6ccb0fdf8a2a3c97bc54f27c6d42d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/77/regulation/39) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-72e6ccb0fdf8a2a3c97bc54f27c6d42d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/77/regulation/39) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

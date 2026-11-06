@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Child sex offences: grooming aggravating factor[^key-5545ab1e6b666cdcadb46a1698c62937]
+## 83. Child sex offences: grooming aggravating factor[^c-5545ab1e6b666cdcadb46a1698c62937]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5545ab1e6b666cdcadb46a1698c62937]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2026/20/section/83) in force at 29.6.2026, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a)
+[^c-5545ab1e6b666cdcadb46a1698c62937]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2026/20/section/83) in force at 29.6.2026, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/a)

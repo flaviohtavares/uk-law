@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Regulations: procedure[^key-b3e3eb56fbe4fd381486ddd2520a1b95]
+## 43. Regulations: procedure[^c-b3e3eb56fbe4fd381486ddd2520a1b95]
 
 *Extent: E+W+S*
 
-(1)[^key-e67dd232e300d330f9317b85ab1b2aa9] Regulations under this Part are to be made by statutory instrument.
+(1)[^c-e67dd232e300d330f9317b85ab1b2aa9] Regulations under this Part are to be made by statutory instrument.
 
 (2) A statutory instrument containing regulations made by the Secretary of State under this Part is subject to the negative resolution procedure, subject as follows.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e3eb56fbe4fd381486ddd2520a1b95]: Commencement: S. 43 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/21)
+[^c-b3e3eb56fbe4fd381486ddd2520a1b95]: Commencement: S. 43 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/21)
 
-[^key-e67dd232e300d330f9317b85ab1b2aa9]: Modification: S. 43(1) excluded (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 29(8)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/29/8/a), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/f)
+[^c-e67dd232e300d330f9317b85ab1b2aa9]: Modification: S. 43(1) excluded (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 29(8)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/29/8/a), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/f)

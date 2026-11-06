@@ -48,11 +48,11 @@ Coming into force
 
 The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates' Courts Acts 1980 [^c23911621]:
 
-## 1. Citation and commencement[^key-cc501017077198259e1826b512f3f53f]
+## 1. Citation and commencement[^c-cc501017077198259e1826b512f3f53f]
 
 These Rules may be cited as the Magistrates' Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5B) Rules 2019, and come into force on 12th November 2019.
 
-## 2. Interpretation[^key-764fea4853c286596bf108c970dd9a6e]
+## 2. Interpretation[^c-764fea4853c286596bf108c970dd9a6e]
 
 In these Rules—
 
@@ -61,7 +61,7 @@ In these Rules—
 - (c) “**electronic communication**” has the meaning given by section 15(1) of the Electronic Communications Act 2000 [^c23911641];
 - (d) words and expressions used otherwise have the same meaning as in Part 5B of the Order.
 
-## 3. Application for account freezing order[^key-310a870f761e6a8ae90ec4bb45924589]
+## 3. Application for account freezing order[^c-310a870f761e6a8ae90ec4bb45924589]
 
 (1) An application under article 213Z1(2) of the Order for an account freezing order must be made in writing and may be sent to the court before which the applicant wishes to make the application.
 
@@ -80,9 +80,9 @@ In these Rules—
 - (a) notice of the order; and
 - (b) a copy of the order,
 
-to any person by or for whom the account which is the subject of the application is operated and to any other person known to be affected by the order, including the relevant financial institution[^key-407679df14a13547df506a2a81f4fcb7].
+to any person by or for whom the account which is the subject of the application is operated and to any other person known to be affected by the order, including the relevant financial institution[^c-407679df14a13547df506a2a81f4fcb7].
 
-## 4. Application for the variation or setting aside of an account freezing order[^key-e54b7e0c5189397cc79afb042a83e7bd]
+## 4. Application for the variation or setting aside of an account freezing order[^c-e54b7e0c5189397cc79afb042a83e7bd]
 
 (1) An application under article 213Z4(1) of the Order to vary or set aside an account freezing order made under article 213Z3(2) of the Order must be made in writing to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
 
@@ -103,7 +103,7 @@ to any person by or for whom the account which is the subject of the application
 
 to any person other than one referred to in paragraph (4) who is known to be affected by the order.
 
-## 5. Application for forfeiture of frozen money[^key-08bc268b1fee4cf77612afd1acd68c9b]
+## 5. Application for forfeiture of frozen money[^c-08bc268b1fee4cf77612afd1acd68c9b]
 
 (1) An application under article 213Z7(3) of the Order for the forfeiture of money held in a frozen account must be made in writing and may be sent to the court to which the application for the account freezing order under article 213Z3 of the Order has been sent.
 
@@ -117,7 +117,7 @@ to any person other than one referred to in paragraph (4) who is known to be aff
 
 (6) A copy of an order for the forfeiture of frozen funds under article 213Z7 of the Order shall be given by the court to every person to whom notice of the account freezing order made under article 213Z3(2) of the Order in respect of the frozen account and to any other person identified by the court as being affected by the application.
 
-## 6. Director of Public Prosecutions appearing in proceedings[^key-99f951b7fa76eb1a1aec847b9c9726b9]
+## 6. Director of Public Prosecutions appearing in proceedings[^c-99f951b7fa76eb1a1aec847b9c9726b9]
 
 Where the Director of Public Prosecutions has agreed under article 213Z12 of the Order to appear in proceedings under Part 5B of the Order for—
 
@@ -127,11 +127,11 @@ Where the Director of Public Prosecutions has agreed under article 213Z12 of the
 
 the Director must notify the court which is dealing with the proceedings if the Director wants documents given under these Rules to be given also to the Director.
 
-## 7. Application for compensation[^key-b361d5237176944c2198c51d1ffe343b]
+## 7. Application for compensation[^c-b361d5237176944c2198c51d1ffe343b]
 
 (1) An application under article 213Z11 of the Order for compensation must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
 
-(2) But if the applicant has been given notice of an order under article 213Z3 of the Order in respect of the relevant financial institution[^key-cc1e6516eb8c8cd37e23c5b8302a96d8] account which is the subject of the application, then the application shall be sent to the court which sent the applicant that notice.
+(2) But if the applicant has been given notice of an order under article 213Z3 of the Order in respect of the relevant financial institution[^c-cc1e6516eb8c8cd37e23c5b8302a96d8] account which is the subject of the application, then the application shall be sent to the court which sent the applicant that notice.
 
 (3) The court must send a copy of the application to—
 
@@ -142,7 +142,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (4) The court must fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than 28 days from the date on which it is fixed, and must notify the date to the applicant and every person to whom a copy of the application is required to be sent under paragraph (3).
 
-## 8. Giving of documents[^key-958552eac45f94cd1ef7de2b66846b84]
+## 8. Giving of documents[^c-958552eac45f94cd1ef7de2b66846b84]
 
 (1) Any document required to be given to any person under these Rules may be given—
 
@@ -152,7 +152,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (2) If any document is given to a person in accordance with paragraph (1), it is deemed to have been received by that person unless the contrary is shown.
 
-## 9. Giving documents by post[^key-e95e9bac013756e504d1224d8a69760e]
+## 9. Giving documents by post[^c-e95e9bac013756e504d1224d8a69760e]
 
 (1) In order to give a document by post to a person (other than to the court), it must be sent by properly addressing, pre-paying and posting to an address which has been given by that person for the purpose of receipt of documents under these Rules.
 
@@ -175,7 +175,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (3) Unless the contrary is shown, the document is to be deemed as having been given to the person on the second day after it was posted, provided that day is a business day; or if not, the next business day after that day.
 
-## 10. Giving documents by means of electronic communication[^key-caefd8a8816986648a1a52de949aa09d]
+## 10. Giving documents by means of electronic communication[^c-caefd8a8816986648a1a52de949aa09d]
 
 (1) In order to give a document by fax, email or other means of electronic communication, the intended recipient of the document must previously have indicated in writing to the person giving the document—
 
@@ -190,7 +190,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (5) Where a document is given by electronic means, the person giving the document need not in addition send or deliver a hard copy.
 
-## 11. Giving of documents by an alternative method or at an alternative place[^key-366bea95b1f022ff648e3a0ffa1b2c58]
+## 11. Giving of documents by an alternative method or at an alternative place[^c-366bea95b1f022ff648e3a0ffa1b2c58]
 
 (1) Where it appears to the court that there is a good reason to authorise the giving of a document by a method or at a place not otherwise permitted by these Rules, the court may make an order permitting the giving of a document by an alternative method or at an alternative place.
 
@@ -207,7 +207,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (b) the place at which the document may be given, if it is not a place permitted by these Rules; and
 - (c) the date on which the document is deemed to be given.
 
-## 12. Giving a document to a child or a protected person[^key-b5bd1a924d28dec0fe6ded924f3a8085]
+## 12. Giving a document to a child or a protected person[^c-b5bd1a924d28dec0fe6ded924f3a8085]
 
 (1) Where the intended recipient of a document is known to be a child who is not also a protected person, the document must be given to the child and—
 
@@ -243,7 +243,7 @@ the Director must notify the court which is dealing with the proceedings if the 
   - (ii) in relation to Northern Ireland, a person who is 16 years or over who lacks capacity to understand the nature of forfeiture proceedings because of an impairment of, or a disturbance in the functioning of, the mind or brain;
   - (iii) in relation to Scotland, a person who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000 [^c23911661], of understanding the nature of forfeiture proceedings.
 
-## 13. Giving of documents to persons outside the United Kingdom[^key-8dda165f4e011664214535f721181810]
+## 13. Giving of documents to persons outside the United Kingdom[^c-8dda165f4e011664214535f721181810]
 
 (1) If a document is to be given to a person who resides outside the United Kingdom, the document must be given in accordance with the terms of any relevant declaration.
 
@@ -252,7 +252,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (a) a declaration made in accordance with Article 31(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism agreed at Warsaw on 16th May 2005 [^c23911671] that judicial documents may not be sent directly to persons abroad by postal channels; or
 - (b) a declaration made in accordance with Article 21(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime agreed at Strasbourg on 8th November 1990 [^c23911681] that judicial documents may not be sent directly to persons abroad by postal channels.
 
-## 14. Transfer of proceedings[^key-a5ca80b809863bbec3505f95ce7fe6da]
+## 14. Transfer of proceedings[^c-a5ca80b809863bbec3505f95ce7fe6da]
 
 (1) Any person who is a party to, or affected by, proceedings under Part 5B of the Order may, at any time, make an application to the court dealing with the matter for the proceedings to be transferred to a different magistrates' court.
 
@@ -271,7 +271,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (c) any further proceedings under Part 5B of the Order in respect of the property to which the proceedings relate shall be dealt with in the court to which proceedings are transferred;
 - (d) any requirement under these Rules to make or send an application to the court shall be read as a requirement to make or send an application to the court to which proceedings are transferred.
 
-## 15. Procedure at hearings[^key-e7490ef35decf774fcd44bc8b77b655e]
+## 15. Procedure at hearings[^c-e7490ef35decf774fcd44bc8b77b655e]
 
 (1) At the hearing of an application under Part 5B of the Order, any person to whom notice of the application has been given may attend and be heard on the question of whether the application should be granted, but the fact that any such person does not attend shall not prevent the court from hearing the application.
 
@@ -308,51 +308,51 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23911621]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 144 has been amended by section 109(1) and paragraphs 245(1), (2), (5) of Schedule 8 and Schedule 10 to the Courts Act 2003; [section 15(1)](https://www.legislation.gov.uk/uksi/2019/1369/section/15/1) and paragraphs 99, 102(1), (2), (3)(a), (3)(b), (4) and (6) of Schedule 4 to the Constitutional Reform Act 2005; [section 208(1)](https://www.legislation.gov.uk/uksi/2019/1369/section/208/1) and paragraphs 42, 43(b) of Schedule 21 to the Legal Services Act 2007; [Article 3(2)](https://www.legislation.gov.uk/uksi/2019/1369/article/3/2) and paragraphs 1(1), (2) – (6) of Schedule 2 to SI 2012/2398 and section 17(6) and paragraphs 39, 52 and 99 of Schedule 10 to the Crime and Courts Act 2013.
 
-[^key-cc501017077198259e1826b512f3f53f]: Commencement: Rule 1 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-cc501017077198259e1826b512f3f53f]: Commencement: Rule 1 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-764fea4853c286596bf108c970dd9a6e]: Commencement: Rule 2 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-764fea4853c286596bf108c970dd9a6e]: Commencement: Rule 2 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
 [^c23911631]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2019/1369/section/I). No. 2005/3181, to which relevant amendments were made by [S.I. 2018/1078](https://www.legislation.gov.uk/uksi/2018/1078).
 
 [^c23911641]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) is amended by section 406 of, and paragraph 158 of Schedule 17 to, the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-310a870f761e6a8ae90ec4bb45924589]: Commencement: Rule 3 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-310a870f761e6a8ae90ec4bb45924589]: Commencement: Rule 3 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-407679df14a13547df506a2a81f4fcb7]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/2019/1369/rule/3/7) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/626/rule/5/a)
+[^c-407679df14a13547df506a2a81f4fcb7]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/2019/1369/rule/3/7) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/626/rule/5/a)
 
-[^key-e54b7e0c5189397cc79afb042a83e7bd]: Commencement: Rule 4 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-e54b7e0c5189397cc79afb042a83e7bd]: Commencement: Rule 4 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-08bc268b1fee4cf77612afd1acd68c9b]: Commencement: Rule 5 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-08bc268b1fee4cf77612afd1acd68c9b]: Commencement: Rule 5 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-99f951b7fa76eb1a1aec847b9c9726b9]: Commencement: Rule 6 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-99f951b7fa76eb1a1aec847b9c9726b9]: Commencement: Rule 6 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-b361d5237176944c2198c51d1ffe343b]: Commencement: Rule 7 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-b361d5237176944c2198c51d1ffe343b]: Commencement: Rule 7 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-cc1e6516eb8c8cd37e23c5b8302a96d8]: Textual amendment: Words in [rule 7(2)](https://www.legislation.gov.uk/uksi/2019/1369/rule/7/2) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/626/rule/5/b)
+[^c-cc1e6516eb8c8cd37e23c5b8302a96d8]: Textual amendment: Words in [rule 7(2)](https://www.legislation.gov.uk/uksi/2019/1369/rule/7/2) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/626/rule/5/b)
 
-[^key-958552eac45f94cd1ef7de2b66846b84]: Commencement: Rule 8 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-958552eac45f94cd1ef7de2b66846b84]: Commencement: Rule 8 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-e95e9bac013756e504d1224d8a69760e]: Commencement: Rule 9 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-e95e9bac013756e504d1224d8a69760e]: Commencement: Rule 9 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-caefd8a8816986648a1a52de949aa09d]: Commencement: Rule 10 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-caefd8a8816986648a1a52de949aa09d]: Commencement: Rule 10 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-366bea95b1f022ff648e3a0ffa1b2c58]: Commencement: Rule 11 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-366bea95b1f022ff648e3a0ffa1b2c58]: Commencement: Rule 11 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-b5bd1a924d28dec0fe6ded924f3a8085]: Commencement: Rule 12 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-b5bd1a924d28dec0fe6ded924f3a8085]: Commencement: Rule 12 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
 [^c23911651]: Marginal citation: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
 [^c23911661]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-8dda165f4e011664214535f721181810]: Commencement: Rule 13 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-8dda165f4e011664214535f721181810]: Commencement: Rule 13 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
 [^c23911671]: Marginal citation: Council of Europe Treaty Series 198.
 
 [^c23911681]: Marginal citation: European Treaty Series 141.
 
-[^key-a5ca80b809863bbec3505f95ce7fe6da]: Commencement: Rule 14 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-a5ca80b809863bbec3505f95ce7fe6da]: Commencement: Rule 14 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
-[^key-e7490ef35decf774fcd44bc8b77b655e]: Commencement: Rule 15 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
+[^c-e7490ef35decf774fcd44bc8b77b655e]: Commencement: Rule 15 in force at 12.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1369/rule/1)
 
 [^c23911691]: Marginal citation: [S.I. 2018/1078](https://www.legislation.gov.uk/uksi/2018/1078).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1273. Limited liability partnerships[^key-4bac43518713b12cafdb3833a4668e83]
+## 1273. Limited liability partnerships[^c-4bac43518713b12cafdb3833a4668e83]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ This is subject to subsection (4).
 
 ## Annotations
 
-[^key-4bac43518713b12cafdb3833a4668e83]: Modification: S. 1273 excluded by [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8), s. 259GE(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))
+[^c-4bac43518713b12cafdb3833a4668e83]: Modification: S. 1273 excluded by [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8), s. 259GE(8) (as inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1))

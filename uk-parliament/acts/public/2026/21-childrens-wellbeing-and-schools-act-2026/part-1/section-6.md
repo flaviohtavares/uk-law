@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Promoting educational achievement[^key-4b54a39ced1cb58a3cdfdc9a6f2a8cca]
+## 6. Promoting educational achievement[^c-4b54a39ced1cb58a3cdfdc9a6f2a8cca]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b54a39ced1cb58a3cdfdc9a6f2a8cca]: Commencement: S. 6 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-4b54a39ced1cb58a3cdfdc9a6f2a8cca]: Commencement: S. 6 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

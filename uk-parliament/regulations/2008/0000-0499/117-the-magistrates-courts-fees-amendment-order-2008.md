@@ -52,9 +52,9 @@ In accordance with section 92(1) of the Courts Act 2003 he has obtained the cons
 
 In accordance with section 92(5) and (6) of the Courts Act 2003 he has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice and the Civil Justice Council.
 
-**1.**[^key-aaf81943263466c144592c954898a2bb] This Order may be cited as the Magistrates’ Courts Fees (Amendment) Order 2008 and shall come into force on 11th February 2008.
+**1.**[^c-aaf81943263466c144592c954898a2bb] This Order may be cited as the Magistrates’ Courts Fees (Amendment) Order 2008 and shall come into force on 11th February 2008.
 
-**2.**[^key-1c2c9276fffa69d2b7ac4398c37d9faa] For paragraph 2(1) in Schedule 2 to the Magistrates’ Courts Fees Order 2005[^f00002] (remission and part remission of fees) substitute—
+**2.**[^c-1c2c9276fffa69d2b7ac4398c37d9faa] For paragraph 2(1) in Schedule 2 to the Magistrates’ Courts Fees Order 2005[^f00002] (remission and part remission of fees) substitute—
 
 > (1) No fee shall be payable under this Order by a party who, at the time when a fee would otherwise be payable—
 >
@@ -96,8 +96,8 @@ This Order amends the Magistrates’ Courts Fees Order 2005 ([S.I. 2005/3444 (L.
 
 [^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 92 is amended by paragraphs 308 and 345 of Part 1 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) from 1 October 2005 and paragraph 4(1) and (3) of Part 2 of Schedule 11 to that Act from a date to be appointed.
 
-[^key-aaf81943263466c144592c954898a2bb]: Commencement: Art. 1 in force at 11.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/117/article/1)
+[^c-aaf81943263466c144592c954898a2bb]: Commencement: Art. 1 in force at 11.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/117/article/1)
 
-[^key-1c2c9276fffa69d2b7ac4398c37d9faa]: Commencement: Art. 2 in force at 11.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/117/article/1)
+[^c-1c2c9276fffa69d2b7ac4398c37d9faa]: Commencement: Art. 2 in force at 11.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/117/article/1)
 
 [^f00002]: Footnote: [S.I..2005/3444](https://www.legislation.gov.uk/uksi/2005/3444); amended by [S.I. 2007/2619](https://www.legislation.gov.uk/uksi/2007/2619); there is another amending instrument but it is no longer relevant.

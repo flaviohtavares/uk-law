@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1.1. Overriding objective[^key-1e76cd7c1cb9a8931930214e7ccb0d00]
+## 1.1. Overriding objective[^c-1e76cd7c1cb9a8931930214e7ccb0d00]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e76cd7c1cb9a8931930214e7ccb0d00]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/2015/1568/article/1.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-1e76cd7c1cb9a8931930214e7ccb0d00]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/2015/1568/article/1.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262AEA. Co-ownership authorised contractual schemes: withdrawal of election[^key-1aa322b90ff083b0e68d05a33dbeba23][^key-18b6232020d0001d9dbf020b95ca3a81][^key-41576033bd98ddb7deae0b114205a1aa]
+## 262AEA. Co-ownership authorised contractual schemes: withdrawal of election[^c-1aa322b90ff083b0e68d05a33dbeba23][^c-18b6232020d0001d9dbf020b95ca3a81][^c-41576033bd98ddb7deae0b114205a1aa]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) an election under section 262AB has been made in relation to a co-ownership authorised contractual[^key-2d3944a8e7b8948b780fa02b51fdb05d] scheme before the relevant date (within the meaning of section 270ID(8)), and
+- (a) an election under section 262AB has been made in relation to a co-ownership authorised contractual[^c-2d3944a8e7b8948b780fa02b51fdb05d] scheme before the relevant date (within the meaning of section 270ID(8)), and
 - (b) an allowance under Part 2A (structures and buildings allowances) is available by reference to a building or structure which is subject to the scheme.
 
 (2) The operator of the scheme may, by notice to an officer of Revenue and Customs, withdraw the election.
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa322b90ff083b0e68d05a33dbeba23]: Textual amendment: [S. 262AEA](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/8)
+[^c-1aa322b90ff083b0e68d05a33dbeba23]: Textual amendment: [S. 262AEA](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/8)
 
-[^key-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
+[^c-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
 
-[^key-41576033bd98ddb7deae0b114205a1aa]: Textual amendment: Words in [s. 262AEA](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA) heading inserted (19.3.2025) by The Co-ownership [Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(8)(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/8/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-41576033bd98ddb7deae0b114205a1aa]: Textual amendment: Words in [s. 262AEA](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA) heading inserted (19.3.2025) by The Co-ownership [Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(8)(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/8/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-2d3944a8e7b8948b780fa02b51fdb05d]: Textual amendment: Words in [s. 262AEA(1)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA/1/a) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(8)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/8/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-2d3944a8e7b8948b780fa02b51fdb05d]: Textual amendment: Words in [s. 262AEA(1)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/262AEA/1/a) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(8)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/8/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

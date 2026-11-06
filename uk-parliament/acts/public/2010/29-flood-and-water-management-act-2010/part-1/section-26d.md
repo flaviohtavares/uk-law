@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26D. Payments relating to members[^key-d15dd4362300103f62bcae888f80c54d]
+## 26D. Payments relating to members[^c-d15dd4362300103f62bcae888f80c54d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d15dd4362300103f62bcae888f80c54d]: Textual amendment: [Ss. 26B-26D](https://www.legislation.gov.uk/ukpga/2010/29/section/26B) and cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 81(1)](https://www.legislation.gov.uk/anaw/2016/3/section/81/1), [88(3)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/d); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-d15dd4362300103f62bcae888f80c54d]: Textual amendment: [Ss. 26B-26D](https://www.legislation.gov.uk/ukpga/2010/29/section/26B) and cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 81(1)](https://www.legislation.gov.uk/anaw/2016/3/section/81/1), [88(3)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/d); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Charitable status of federations[^key-388875974783655287c62395eb629f2c]
+## 26. Charitable status of federations[^c-388875974783655287c62395eb629f2c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The governing body of a federation which includes a foundation, voluntary or fou
 
 ## Annotations
 
-[^key-388875974783655287c62395eb629f2c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/1035/regulation/26) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-388875974783655287c62395eb629f2c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/1035/regulation/26) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

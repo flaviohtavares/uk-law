@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Criminal procedure: powers to make Criminal Procedure Rules[^key-67f978e7680324ca06a43a91a5a70aaa]
+## 82. Criminal procedure: powers to make Criminal Procedure Rules[^c-67f978e7680324ca06a43a91a5a70aaa]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f978e7680324ca06a43a91a5a70aaa]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/20/section/82) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(o)](https://www.legislation.gov.uk/uksi/2015/994/article/6/o)
+[^c-67f978e7680324ca06a43a91a5a70aaa]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/20/section/82) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(o)](https://www.legislation.gov.uk/uksi/2015/994/article/6/o)

@@ -27,7 +27,7 @@ summary: ''
 
 (2) At any time when the rate is not the rate mentioned in paragraph (1), the rate of the surviving adult dependant's pension in the case of the death of a pensioner member is equal to 37.5% of the pension to which the member was entitled on the date of death (disregarding any additional pension).
 
-(3)[^key-1806e2cec578e5c4fad4ecee9cf51e73] For the purposes of paragraph (1) any reduction in the rate of the member’s pension under—
+(3)[^c-1806e2cec578e5c4fad4ecee9cf51e73] For the purposes of paragraph (1) any reduction in the rate of the member’s pension under—
 
 - (a) Chapter 8 of this Part;
 - (b) regulation 58; or
@@ -63,10 +63,10 @@ the member's pension referred to in paragraph (1) means that member's original t
 
 (7) This regulation is subject to regulation 73 (re-employed pensioners: adult survivor pensions in initial period).
 
-(8)[^key-9c265b215264f88f891075f131c88039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9c265b215264f88f891075f131c88039] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1806e2cec578e5c4fad4ecee9cf51e73]: Textual amendment: [Reg. 70(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/3)[(3A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/3A) substituted for reg. 70(3) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [40(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/40/2)
+[^c-1806e2cec578e5c4fad4ecee9cf51e73]: Textual amendment: [Reg. 70(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/3)[(3A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/3A) substituted for reg. 70(3) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [40(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/40/2)
 
-[^key-9c265b215264f88f891075f131c88039]: Textual amendment: [Reg. 70(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/8) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [40(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/40/3)
+[^c-9c265b215264f88f891075f131c88039]: Textual amendment: [Reg. 70(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/70/8) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [40(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/40/3)

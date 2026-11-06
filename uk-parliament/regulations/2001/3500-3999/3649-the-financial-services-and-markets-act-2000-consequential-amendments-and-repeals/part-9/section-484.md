@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 484. Meaning of “reference banks”[^key-07c6f334ad6fa5a6d9525e59187907b4]
+## 484. Meaning of “reference banks”[^c-07c6f334ad6fa5a6d9525e59187907b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07c6f334ad6fa5a6d9525e59187907b4]: Commencement: Art. 484 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-07c6f334ad6fa5a6d9525e59187907b4]: Commencement: Art. 484 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00317]: Footnote: Regulation T8 was inserted by [S.I. 2000/605](https://www.legislation.gov.uk/uksi/2000/605), regulations 2 and 14.

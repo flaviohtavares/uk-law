@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Effect of appeal[^key-ff3c500cb04726ae954b97532ab3274e]
+## 116. Effect of appeal[^c-ff3c500cb04726ae954b97532ab3274e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3c500cb04726ae954b97532ab3274e]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2014/18/section/116) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-ff3c500cb04726ae954b97532ab3274e]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2014/18/section/116) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Determination of application for registration to provide third party verification service[^key-e6f2321680b402fcd8700720d73ce341]
+## 27. Determination of application for registration to provide third party verification service[^c-e6f2321680b402fcd8700720d73ce341]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6f2321680b402fcd8700720d73ce341]: Commencement: Reg. 27 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-e6f2321680b402fcd8700720d73ce341]: Commencement: Reg. 27 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

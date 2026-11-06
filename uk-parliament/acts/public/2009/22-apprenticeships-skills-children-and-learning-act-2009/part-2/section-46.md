@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Boarding accommodation: persons subject to learning difficulty assessment[^key-8e7c037ac9de6a8f6d1c4606e00848fd]
+## 46. Boarding accommodation: persons subject to learning difficulty assessment[^c-8e7c037ac9de6a8f6d1c4606e00848fd]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 514 of the Education Act 1996 (c. 56) insert—
 
 > **514A. Provision of boarding accommodation for persons subject to learning difficulty assessment**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England may secure the provision of boarding accommodation in connection with the provision of education or training for a person in their area who is—
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England may secure the provision of boarding accommodation in connection with the provision of education or training for a person in their area who is—
 >
 > - (a) over compulsory school age but under 25, and
 > - (b) subject to learning difficulty assessment.
@@ -37,6 +37,6 @@ After section 514 of the Education Act 1996 (c. 56) insert—
 
 ## Annotations
 
-[^key-8e7c037ac9de6a8f6d1c4606e00848fd]: Commencement: S. 46 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-8e7c037ac9de6a8f6d1c4606e00848fd]: Commencement: S. 46 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

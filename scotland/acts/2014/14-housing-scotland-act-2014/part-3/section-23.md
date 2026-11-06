@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-d63240f2cdc3ba80667e4364fcf48ba8] In section 13 of the 2006 Act (the repairing standard), after subsection (4) insert—
+(1)[^c-d63240f2cdc3ba80667e4364fcf48ba8] In section 13 of the 2006 Act (the repairing standard), after subsection (4) insert—
 
 > (4A) In determining whether a house meets the standard of repair mentioned in subsection (1)(c) and (d) in relation to installations for the supply of electricity and electrical fixtures, fittings and appliances, regard is to be had to any guidance issued by the Scottish Ministers on electrical safety standards.
 
 .
 
-(2)[^key-daba3d8b07a483c89cfcca9fb3e34c80] After section 19 of the 2006 Act insert—
+(2)[^c-daba3d8b07a483c89cfcca9fb3e34c80] After section 19 of the 2006 Act insert—
 
 > **19A. Duty to ensure regular electrical safety inspections**
 >
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d63240f2cdc3ba80667e4364fcf48ba8]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2014/14/section/23/1) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-d63240f2cdc3ba80667e4364fcf48ba8]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2014/14/section/23/1) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-daba3d8b07a483c89cfcca9fb3e34c80]: Commencement: [S. 23(2)](https://www.legislation.gov.uk/asp/2014/14/section/23/2) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/272/article/3))
+[^c-daba3d8b07a483c89cfcca9fb3e34c80]: Commencement: [S. 23(2)](https://www.legislation.gov.uk/asp/2014/14/section/23/2) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/272/article/3))

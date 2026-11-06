@@ -33,7 +33,7 @@ Agriculture
 
 Food
 
-The Rice Products from the United States of America (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008 (revoked)[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+The Rice Products from the United States of America (Restriction on First Placing on the Market) Regulations (Northern Ireland) 2008 (revoked)[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 Made
 
@@ -43,40 +43,40 @@ Coming into operation
 
 12th March 2008
 
-[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 1. Citation and commencement[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 2. Interpretation[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on first placing on the market of rice products[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 3. Restriction on first placing on the market of rice products[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 4. Enforcement[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 5. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
+## 6. Revocation[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/99) revoked (16.6.2010) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Revocation) Regulations (Northern Ireland) 2010 (S.R. 2010/214)](https://www.legislation.gov.uk/nisr/2010/214), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/214/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2010/214/regulation/2)
+[^c-d9e1be4b34f2a5b2dc2e9e453bdf2e0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/99) revoked (16.6.2010) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Revocation) Regulations (Northern Ireland) 2010 (S.R. 2010/214)](https://www.legislation.gov.uk/nisr/2010/214), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/214/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2010/214/regulation/2)

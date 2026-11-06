@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Dispensations from section 31(4)[^key-33d8e30b7c4504221b9ee158dbfbd931][^key-a13ee788db79fd8c1c496244015ac708][^key-f8b55749b2b22275431cf99c4735770a]
+## 33. Dispensations from section 31(4)[^c-33d8e30b7c4504221b9ee158dbfbd931][^c-a13ee788db79fd8c1c496244015ac708][^c-f8b55749b2b22275431cf99c4735770a]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-33d8e30b7c4504221b9ee158dbfbd931]: Commencement: S. 33 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/e)
+[^c-33d8e30b7c4504221b9ee158dbfbd931]: Commencement: S. 33 in force at 7.6.2012 for specified purposes by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/e)
 
-[^key-a13ee788db79fd8c1c496244015ac708]: Commencement: S. 33 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
+[^c-a13ee788db79fd8c1c496244015ac708]: Commencement: S. 33 in force at 1.7.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2)
 
-[^key-f8b55749b2b22275431cf99c4735770a]: Modification: S. 33 applied by 1959 c. xlvi s. 11(3)(d) (as substituted (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))
+[^c-f8b55749b2b22275431cf99c4735770a]: Modification: S. 33 applied by 1959 c. xlvi s. 11(3)(d) (as substituted (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2013/6/schedule/1/paragraph/1))

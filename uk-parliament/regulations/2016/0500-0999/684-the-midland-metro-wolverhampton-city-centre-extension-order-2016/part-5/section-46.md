@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Minerals[^key-68517601d6dd5c366ecf879d71b1ca4d]
+## 46. Minerals[^c-68517601d6dd5c366ecf879d71b1ca4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order affects the right of any person entitled to any mine or mi
 
 ## Annotations
 
-[^key-68517601d6dd5c366ecf879d71b1ca4d]: Commencement: Art. 46 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-68517601d6dd5c366ecf879d71b1ca4d]: Commencement: Art. 46 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

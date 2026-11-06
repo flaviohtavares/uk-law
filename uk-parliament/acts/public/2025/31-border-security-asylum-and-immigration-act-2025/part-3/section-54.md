@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Confiscation of assets[^key-cef6c53afd99ed1ca09ff8916e131949]
+## 54. Confiscation of assets[^c-cef6c53afd99ed1ca09ff8916e131949]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cef6c53afd99ed1ca09ff8916e131949]: Commencement: S. 54 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-cef6c53afd99ed1ca09ff8916e131949]: Commencement: S. 54 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

@@ -43,17 +43,17 @@ In accordance with section 152(2) of that Act the Welsh Ministers have obtained 
 
 The Welsh Ministers, in exercise of the powers conferred by section 151(2) of the Equality Act 2010, make the following Order:
 
-## 1. Title, commencement and application[^key-afa0d42a20a0d7cd73887d74e41fd626]
+## 1. Title, commencement and application[^c-afa0d42a20a0d7cd73887d74e41fd626]
 
 (1) The title of this Order is the Equality Act 2010 (Specification of Relevant Welsh Authorities) Order 2011.
 
 (2) This Order comes into force on the day after the day on which it is made.
 
-## 2. Amendment of Part 2 of Schedule 19 to the Equality Act 2010[^key-8a98165229f1affc128095fcb087a25a]
+## 2. Amendment of Part 2 of Schedule 19 to the Equality Act 2010[^c-8a98165229f1affc128095fcb087a25a]
 
 Part 2 (Public Authorities: Relevant Welsh Authorities) of Schedule 19 to the Equality Act 2010 is amended as follows:
 
-- (a)[^key-e702d7c8d5c07a5751ca2e13bbcc30ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e702d7c8d5c07a5751ca2e13bbcc30ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the entry “A county council, county borough council or community council in Wales.” substitute “A county council or county borough council in Wales.”;
 - (c) omit the following entries—
 
@@ -126,8 +126,8 @@ This Order omits entries from the list of authorities specified. However, the au
 
 [^f00001]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-afa0d42a20a0d7cd73887d74e41fd626]: Commencement: Art. 1 in force at 4.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/1063/article/1/2)
+[^c-afa0d42a20a0d7cd73887d74e41fd626]: Commencement: Art. 1 in force at 4.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/1063/article/1/2)
 
-[^key-8a98165229f1affc128095fcb087a25a]: Commencement: Art. 2 in force at 4.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/1063/article/1/2)
+[^c-8a98165229f1affc128095fcb087a25a]: Commencement: Art. 2 in force at 4.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/1063/article/1/2)
 
-[^key-e702d7c8d5c07a5751ca2e13bbcc30ae]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1063/article/2/a) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/7)
+[^c-e702d7c8d5c07a5751ca2e13bbcc30ae]: Textual amendment: [Art. 2(a)](https://www.legislation.gov.uk/wsi/2011/1063/article/2/a) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/7)

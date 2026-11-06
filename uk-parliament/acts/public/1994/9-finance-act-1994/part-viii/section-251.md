@@ -32,7 +32,7 @@ summary: ''
 
 and this subsection shall have effect where the date of payment is the relevant date or later.
 
-(3)[^key-aedd004f37f6b5d16aeaea02701755ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aedd004f37f6b5d16aeaea02701755ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Sections 749(4A) and 751(2)(bb) of the Taxes Act 1988 shall be omitted; and this subsection shall be deemed to have come into force on the relevant date.
 
@@ -69,6 +69,6 @@ and this subsection shall have effect where the company concerned becomes on or 
 
 [^c14457381]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-aedd004f37f6b5d16aeaea02701755ab]: Textual amendment: [S. 251(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/251/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-aedd004f37f6b5d16aeaea02701755ab]: Textual amendment: [S. 251(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/251/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14457391]: Textual amendment: S. 251(12) repealed (the repeal coming into force in accordance with the provisions of Pt. IV Ch. II (ss. 80-105) of the repealing Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3), Note

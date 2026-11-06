@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Revised information to employees about payments and tax deducted (Form P 60)[^key-084f1e4ea8b3ccb13c64b620d387d275]
+## 67A. Revised information to employees about payments and tax deducted (Form P 60)[^c-084f1e4ea8b3ccb13c64b620d387d275]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ with references to revised amounts being construed as references to the amounts 
 
 ## Annotations
 
-[^key-084f1e4ea8b3ccb13c64b620d387d275]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/1077/regulation/11)
+[^c-084f1e4ea8b3ccb13c64b620d387d275]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [11](https://www.legislation.gov.uk/uksi/2007/1077/regulation/11)

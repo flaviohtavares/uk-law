@@ -114,7 +114,7 @@ any other party may put the witness statement in as hearsay evidence.
 - (b) application notice; or
 - (c) answer,
 
-if the application form, application notice or answer, as the case may be, is verified by a statement of truth or if the court gives that party permission to do so without such verification[^key-36d4ea3b53a305f6b8ff71e3860c6d09].
+if the application form, application notice or answer, as the case may be, is verified by a statement of truth or if the court gives that party permission to do so without such verification[^c-36d4ea3b53a305f6b8ff71e3860c6d09].
 
 ## 22.8. Order for cross-examination
 
@@ -124,7 +124,7 @@ if the application form, application notice or answer, as the case may be, is ve
 
 (2) If the court gives permission under paragraph (1) but the person in question does not attend, that person's evidence may not be used unless the court directs otherwise.
 
-([^key-eb4de0dca940bf4d79db27ee21599978]... )
+([^c-eb4de0dca940bf4d79db27ee21599978]... )
 
 ## 22.9. Witness summaries
 
@@ -166,9 +166,9 @@ A witness who is called to give evidence at the final hearing may be cross-exami
 
 (1) Evidence must be given by affidavit<sup>(GL) </sup>instead of or in addition to a witness statement if this is required by the court, a provision contained in any other rule, a practice direction or any other enactment.
 
-(2)[^key-f9b2bc5eaaefcb1d1483af587c7200a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f9b2bc5eaaefcb1d1483af587c7200a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-([^key-9f61f949adbf8b25f0e7d0359270881b]... )
+([^c-9f61f949adbf8b25f0e7d0359270881b]... )
 
 ## 22.13. Form of affidavit
 
@@ -258,10 +258,10 @@ This Chapter of this Part applies to affidavits<sup>(GL)</sup> and affirmations 
 
 ## Annotations
 
-[^key-36d4ea3b53a305f6b8ff71e3860c6d09]: Textual amendment: Words in [rule 22.7(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/22.07/2) inserted (20.12.2012) by [The Family Procedure (Amendment No. 4) Rules 2012 (S.I. 2012/2806)](https://www.legislation.gov.uk/uksi/2012/2806), [rules 1](https://www.legislation.gov.uk/uksi/2012/2806/article/1), [17](https://www.legislation.gov.uk/uksi/2012/2806/rule/17)
+[^c-36d4ea3b53a305f6b8ff71e3860c6d09]: Textual amendment: Words in [rule 22.7(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/22.07/2) inserted (20.12.2012) by [The Family Procedure (Amendment No. 4) Rules 2012 (S.I. 2012/2806)](https://www.legislation.gov.uk/uksi/2012/2806), [rules 1](https://www.legislation.gov.uk/uksi/2012/2806/article/1), [17](https://www.legislation.gov.uk/uksi/2012/2806/rule/17)
 
-[^key-eb4de0dca940bf4d79db27ee21599978]: Textual amendment: Words in [rule 22.8](https://www.legislation.gov.uk/uksi/2010/2955/rule/22.8) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb4de0dca940bf4d79db27ee21599978]: Textual amendment: Words in [rule 22.8](https://www.legislation.gov.uk/uksi/2010/2955/rule/22.8) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9b2bc5eaaefcb1d1483af587c7200a1]: Textual amendment: Rule 22.12(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [68](https://www.legislation.gov.uk/uksi/2013/3204/rule/68) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-f9b2bc5eaaefcb1d1483af587c7200a1]: Textual amendment: Rule 22.12(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [68](https://www.legislation.gov.uk/uksi/2013/3204/rule/68) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-9f61f949adbf8b25f0e7d0359270881b]: Textual amendment: Words in rule 22.12 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [68](https://www.legislation.gov.uk/uksi/2013/3204/rule/68) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-9f61f949adbf8b25f0e7d0359270881b]: Textual amendment: Words in rule 22.12 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [68](https://www.legislation.gov.uk/uksi/2013/3204/rule/68) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

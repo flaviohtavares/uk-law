@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. General elections[^key-e65a6e814b9ae6bebdc8ea06323b7edf]
+## 8. General elections[^c-e65a6e814b9ae6bebdc8ea06323b7edf]
 
 *Extent: E+W*
 
@@ -103,4 +103,4 @@ For sections 6 to 9 of the 2006 Act (voting and seat allocation at general elect
 
 ## Annotations
 
-[^key-e65a6e814b9ae6bebdc8ea06323b7edf]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/4/section/8) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)
+[^c-e65a6e814b9ae6bebdc8ea06323b7edf]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/4/section/8) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)

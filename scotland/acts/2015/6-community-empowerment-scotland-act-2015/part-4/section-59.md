@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Appeals to Lands Tribunal as respects valuations of land[^key-474c03e99b9fb86457d33a383a45591f]
+## 59. Appeals to Lands Tribunal as respects valuations of land[^c-474c03e99b9fb86457d33a383a45591f]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-474c03e99b9fb86457d33a383a45591f]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/6/section/59) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-474c03e99b9fb86457d33a383a45591f]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/6/section/59) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

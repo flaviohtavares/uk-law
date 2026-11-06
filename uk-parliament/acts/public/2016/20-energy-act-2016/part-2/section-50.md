@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Appeals in relation to sanction notices[^key-0d864f2a9ae015c53c26d70754bf91d0]
+## 50. Appeals in relation to sanction notices[^c-0d864f2a9ae015c53c26d70754bf91d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the Tribunal, or the Upper Tribunal, may further suspend the effect of the notic
 
 ## Annotations
 
-[^key-0d864f2a9ae015c53c26d70754bf91d0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/20/section/50) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-0d864f2a9ae015c53c26d70754bf91d0]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/20/section/50) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

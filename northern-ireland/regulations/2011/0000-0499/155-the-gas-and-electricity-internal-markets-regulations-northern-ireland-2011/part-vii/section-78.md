@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Amendments to the Energy Order – miscellaneous provisions[^key-6e91a84aa9f390effd4559a0fe15bb15]
+## 78. Amendments to the Energy Order – miscellaneous provisions[^c-6e91a84aa9f390effd4559a0fe15bb15]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ For paragraph (11) of Article 45 there shall be substituted the following paragr
 
 .
 
-**79.**[^key-32b77dd8c0d90b11215bf9f2d4a04d95] After Article 51(1) of the Energy Order there shall be inserted the following paragraph—
+**79.**[^c-32b77dd8c0d90b11215bf9f2d4a04d95] After Article 51(1) of the Energy Order there shall be inserted the following paragraph—
 
 > (1A) The Authority may, for the purposes of its monitoring functions under Article 50 of the Electricity Order and Article 27 of the Gas Order, serve a notice under paragraph (2) on any regulated person, but only where the activities being monitored are the activities set out in paragraph (3B) of Article 50 of the Electricity Order and paragraph (3B) of Article 27 of the Gas Order, as the case may be.
 
@@ -34,6 +34,6 @@ For paragraph (11) of Article 45 there shall be substituted the following paragr
 
 ## Annotations
 
-[^key-6e91a84aa9f390effd4559a0fe15bb15]: Commencement: Reg. 78 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-6e91a84aa9f390effd4559a0fe15bb15]: Commencement: Reg. 78 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-32b77dd8c0d90b11215bf9f2d4a04d95]: Commencement: Reg. 79 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-32b77dd8c0d90b11215bf9f2d4a04d95]: Commencement: Reg. 79 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

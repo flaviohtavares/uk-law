@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Conflicts of interest[^key-cafe50978848a2f63480123aedeeef66]
+## 21. Conflicts of interest[^c-cafe50978848a2f63480123aedeeef66]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ is required to recuse themselves from the decision-making process.
 
 ## Annotations
 
-[^key-cafe50978848a2f63480123aedeeef66]: Commencement: Reg. 21 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-cafe50978848a2f63480123aedeeef66]: Commencement: Reg. 21 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
 [^f00012]: Footnote: “Integrated care board” is defined in section 275(1) of the National Health Service Act 2006 (the definition was inserted by paragraph 132 of Schedule 4 to the Health and Care Act 2022).

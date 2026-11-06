@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Power of designated senior officers to grant authorisations: urgent cases[^key-da542ad332f868df8dbb6d2623372c33]
+## 61A. Power of designated senior officers to grant authorisations: urgent cases[^c-da542ad332f868df8dbb6d2623372c33]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da542ad332f868df8dbb6d2623372c33]: Textual amendment: S. 61A inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [7](https://www.legislation.gov.uk/uksi/2018/1123/regulation/7) (see S.I. 2019/174, reg. 2(c))
+[^c-da542ad332f868df8dbb6d2623372c33]: Textual amendment: S. 61A inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [7](https://www.legislation.gov.uk/uksi/2018/1123/regulation/7) (see S.I. 2019/174, reg. 2(c))

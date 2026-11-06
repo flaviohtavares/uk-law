@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Arrangements for assessing etc risks posed by certain offenders[^key-2c1892cbf42ccf91cbb80de7584d5825]
+## 189. Arrangements for assessing etc risks posed by certain offenders[^c-2c1892cbf42ccf91cbb80de7584d5825]
 
 *Extent: E+W*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c1892cbf42ccf91cbb80de7584d5825]: Commencement: S. 189 in force at Royal Assent, see [s. 208(4)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/x)
+[^c-2c1892cbf42ccf91cbb80de7584d5825]: Commencement: S. 189 in force at Royal Assent, see [s. 208(4)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/x)

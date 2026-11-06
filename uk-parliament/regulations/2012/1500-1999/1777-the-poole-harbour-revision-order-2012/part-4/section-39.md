@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Borrowing powers[^key-bd4749acf559a10a257808a9b661065c]
+## 39. Borrowing powers[^c-bd4749acf559a10a257808a9b661065c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd4749acf559a10a257808a9b661065c]: Commencement: Art. 39 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-bd4749acf559a10a257808a9b661065c]: Commencement: Art. 39 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

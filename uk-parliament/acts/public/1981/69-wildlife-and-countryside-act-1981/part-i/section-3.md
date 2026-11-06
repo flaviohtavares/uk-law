@@ -50,7 +50,7 @@ summary: ''
 - (b) no objections thereto have been made by any of those owners or occupiers before the expiration of a period of three months from the date of the giving of the notice or the publication of the advertisement; or
 - (c) any such objections so made have been withdrawn.
 
-## 3. Areas of special protection.[^key-833d7099c3be2859c2c48ed167dd10ee][^c4938931]
+## 3. Areas of special protection.[^c-833d7099c3be2859c2c48ed167dd10ee][^c4938931]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^c4938921]: Textual amendment: Word in s. 3(4) substituted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 65(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/65/1) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-833d7099c3be2859c2c48ed167dd10ee]: Textual amendment: S. 3 repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2011/6/section/4/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-833d7099c3be2859c2c48ed167dd10ee]: Textual amendment: S. 3 repealed (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2011/6/section/4/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
 [^c4938931]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only

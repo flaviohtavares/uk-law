@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Power to require provision of facilities.[^key-6add369a5fba56b6a39f56a0a2beeab1][^key-3c0b554c77d35927edadd26f4634db90][^key-b521c564702d0177e9810983e2b99c43]
+## 158. Power to require provision of facilities.[^c-6add369a5fba56b6a39f56a0a2beeab1][^c-3c0b554c77d35927edadd26f4634db90][^c-b521c564702d0177e9810983e2b99c43]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,16 +39,16 @@ summary: ''
 - (b) improperly obtains access to any place or article secured by any such lock; or
 - (c) has any such fitting or any article intended to be secured by means thereof so constructed that that intention is defeated,
 
-he shall be liable on summary conviction to a penalty of level 5 on the standard scale *(affected by repeal, see note)*[^key-5a32000e07322e3363a785fc579eadb5]£20,000 and may be detained.
+he shall be liable on summary conviction to a penalty of level 5 on the standard scale *(affected by repeal, see note)*[^c-5a32000e07322e3363a785fc579eadb5]£20,000 and may be detained.
 
 ## Annotations
 
-[^key-6add369a5fba56b6a39f56a0a2beeab1]: Modification: S. 158 applied (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/1)
+[^c-6add369a5fba56b6a39f56a0a2beeab1]: Modification: S. 158 applied (1.4.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2016/1172/regulation/22), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/1172/schedule/2/paragraph/1)
 
-[^key-3c0b554c77d35927edadd26f4634db90]: Modification: Ss. 158-160 applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
+[^c-3c0b554c77d35927edadd26f4634db90]: Modification: Ss. 158-160 applied (with modifications) (6.4.2018) by [The Soft Drinks Industry Levy (Enforcement) Regulations 2018 (S.I. 2018/264)](https://www.legislation.gov.uk/uksi/2018/264), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/264/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/264/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/264/schedule) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2018/264/regulation/3))
 
-[^key-b521c564702d0177e9810983e2b99c43]: Modification: S. 158 modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [16(e)](https://www.legislation.gov.uk/uksi/2018/75/regulation/16/e)
+[^c-b521c564702d0177e9810983e2b99c43]: Modification: S. 158 modified (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [16(e)](https://www.legislation.gov.uk/uksi/2018/75/regulation/16/e)
 
 [^c14781351]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703](https://www.legislation.gov.uk/uksi/1984/703), (N.I. 3) arts. 5, 6
 
-[^key-5a32000e07322e3363a785fc579eadb5]: Textual amendment: S. 158(4)(c): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(17)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/17) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-5a32000e07322e3363a785fc579eadb5]: Textual amendment: S. 158(4)(c): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(17)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/17) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

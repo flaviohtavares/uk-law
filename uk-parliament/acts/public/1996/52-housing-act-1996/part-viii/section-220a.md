@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220A. Provision of general advice etc about residential licences: England[^key-377e4a19388c99caf72b09fb2de00007]
+## 220A. Provision of general advice etc about residential licences: England[^c-377e4a19388c99caf72b09fb2de00007]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-377e4a19388c99caf72b09fb2de00007]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/1996/52/section/220A) inserted (1.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 48](https://www.legislation.gov.uk/ukpga/2015/20/section/48), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/994/article/2/a)
+[^c-377e4a19388c99caf72b09fb2de00007]: Textual amendment: [S. 220A](https://www.legislation.gov.uk/ukpga/1996/52/section/220A) inserted (1.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 48](https://www.legislation.gov.uk/ukpga/2015/20/section/48), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/994/article/2/a)

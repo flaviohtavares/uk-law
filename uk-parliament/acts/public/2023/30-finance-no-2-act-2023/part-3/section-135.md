@@ -22,8 +22,8 @@ summary: ''
 
 (1) The underlying profits of a member of a multinational group that is a permanent establishment are the member’s profits—
 
-- (a) if the member has separate financial accounts prepared in accordance with acceptable accounting standards[^key-305b531c9773a3c803cbd2f0277d948d], as reflected in those accounts, and
-- (b) if not, as reflected in the underlying profits accounts of the main entity, attributed between the permanent establishment and the main entity on the same principles as those set out in section 159(1), (2) or (3) (as the case may be)[^key-c04fb07faca574d003cfe92087e2bd39].
+- (a) if the member has separate financial accounts prepared in accordance with acceptable accounting standards[^c-305b531c9773a3c803cbd2f0277d948d], as reflected in those accounts, and
+- (b) if not, as reflected in the underlying profits accounts of the main entity, attributed between the permanent establishment and the main entity on the same principles as those set out in section 159(1), (2) or (3) (as the case may be)[^c-c04fb07faca574d003cfe92087e2bd39].
 
 (2) If the member is a permanent establishment falling within paragraph (d) of section 232(2) (income of permanent establishment exempt from tax in territory of main entity) the member’s underlying profits are determined only by reference to its relevant income and relevant expenses.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-305b531c9773a3c803cbd2f0277d948d]: Textual amendment: Words in [s. 135(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/135/1/a) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/6/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-305b531c9773a3c803cbd2f0277d948d]: Textual amendment: Words in [s. 135(1)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/135/1/a) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/6/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-c04fb07faca574d003cfe92087e2bd39]: Textual amendment: Words in [s. 135(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/135/1/b) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/6/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-c04fb07faca574d003cfe92087e2bd39]: Textual amendment: Words in [s. 135(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/135/1/b) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 6(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/6/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

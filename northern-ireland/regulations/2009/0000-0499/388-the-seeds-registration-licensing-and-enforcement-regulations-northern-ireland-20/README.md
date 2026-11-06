@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Seeds (Registration, Licensing and Enforcement) Regulations (Northern Ireland) 2009 (revoked)[^key-98e58d5639bec4850aca2676ce8faed8]
+The Seeds (Registration, Licensing and Enforcement) Regulations (Northern Ireland) 2009 (revoked)[^c-98e58d5639bec4850aca2676ce8faed8]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into operation
 
 31st December 2009
 
-[^key-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 1 — General[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 — Registration of persons engaged in seed industry activities[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 2 — Registration of persons engaged in seed industry activities[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ Coming into operation
 - [Section 8 — Revocation of registrations](part-2/section-8.md)
 - [Section 9 — List](part-2/section-9.md)
 
-### PART 3 — Licensed crop inspectors[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 3 — Licensed crop inspectors[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -83,7 +83,7 @@ Coming into operation
 - [Section 15 — List](part-3/section-15.md)
 - [Section 16 — Fees](part-3/section-16.md)
 
-### PART 4 — Licensed seed samplers[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 4 — Licensed seed samplers[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -97,7 +97,7 @@ Coming into operation
 - [Section 22 — List](part-4/section-22.md)
 - [Section 23 — Fees](part-4/section-23.md)
 
-### PART 5 — Licensed seed testing stations[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 5 — Licensed seed testing stations[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -112,7 +112,7 @@ Coming into operation
 - [Section 30 — List](part-5/section-30.md)
 - [Section 31 — Fees](part-5/section-31.md)
 
-### PART 6 — Enforcement of Seeds Regulations[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 6 — Enforcement of Seeds Regulations[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -121,7 +121,7 @@ Coming into operation
 - [Section 32 — Sampling for enforcement purposes](part-6/section-32.md)
 - [Section 33 — Certificates of taking and testing a sample](part-6/section-33.md)
 
-### PART 7 — Miscellaneous and supplemental[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 7 — Miscellaneous and supplemental[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -148,12 +148,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98e58d5639bec4850aca2676ce8faed8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))
+[^c-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))

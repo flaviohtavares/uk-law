@@ -42,15 +42,15 @@ A draft of these Regulations has been laid before the House of Commons in accord
 
 Accordingly, the Secretary of State, in exercise of the powers conferred by sections 205(1) and (2), 209(5), 211(5) and (6), 214(2), 216(1), (4)(a) and (7)(d) and (f), 217(1) to (3) and (5), 220(1), (2)(a), (d), (e) and (j) and (3) and 222(1) of the Planning Act 2008, and with the consent of the Treasury, makes the following Regulations:
 
-## 1. Citation and commencement[^key-06577259decd7868ce1543fde9651888]
+## 1. Citation and commencement[^c-06577259decd7868ce1543fde9651888]
 
  These Regulations may be cited as the Community Infrastructure Levy (Amendment) Regulations 2012 and shall come into force on the day after the day on which they are made.
 
-## 2. Amendments to the Community Infrastructure Levy Regulations 2010[^key-7d4caa17fc7f223370d0a5f14f1649cf]
+## 2. Amendments to the Community Infrastructure Levy Regulations 2010[^c-7d4caa17fc7f223370d0a5f14f1649cf]
 
 The Community Infrastructure Levy Regulations 2010[^f00002] are amended in accordance with the following regulations.
 
-## 3. Amendment to Part 2 – definition of key terms[^key-8d8ccce8ca069df278c6c97000c6a977]
+## 3. Amendment to Part 2 – definition of key terms[^c-8d8ccce8ca069df278c6c97000c6a977]
 
 (1) In regulation 5(3)(a) (meaning of “planning permission”) after paragraph (ii) insert—
 
@@ -72,7 +72,7 @@ The Community Infrastructure Levy Regulations 2010[^f00002] are amended in accor
 > - (b) work on the earlier development was halted and a different chargeable development (“the later development”) that was granted planning permission under section 73 of TCPA 1990 was commenced on the relevant land; and
 > - (c) the later development was subsequently halted and the earlier development is continued.
 
-## 4. Amendment to Part 3 – charging schedules[^key-700242364c5f67360f58887bca036744]
+## 4. Amendment to Part 3 – charging schedules[^c-700242364c5f67360f58887bca036744]
 
 (1) In regulation 15 (consultation on a preliminary draft charging schedule) omit—
 
@@ -86,7 +86,7 @@ The Community Infrastructure Levy Regulations 2010[^f00002] are amended in accor
 - (a) in paragraph (a), after the words “charging schedule” insert “, together with any report made under section 213(3B) of PA 2008,”; and
 - (b) in paragraph (b) after the words “charging schedule” insert “, together with any report made under section 213(3B) of PA 2008,”.
 
-## 5. Amendment to Part 5 – chargeable amount[^key-b774261b5d8ab77223c3c2c7d4bdb9a6]
+## 5. Amendment to Part 5 – chargeable amount[^c-b774261b5d8ab77223c3c2c7d4bdb9a6]
 
 In regulation 40 (calculation of chargeable amount) for paragraph (6) substitute—
 
@@ -119,7 +119,7 @@ In regulation 40 (calculation of chargeable amount) for paragraph (6) substitute
 > - (b) will be part of the chargeable development upon completion; and
 > - (c) will be chargeable at rate R.
 
-## 6. Amendment to Part 6 – exemptions and relief[^key-9b69ba70aae3b7ee62a132d32a65d46c]
+## 6. Amendment to Part 6 – exemptions and relief[^c-9b69ba70aae3b7ee62a132d32a65d46c]
 
 —In regulation 50 (social housing relief: qualifying amount)—
 
@@ -168,7 +168,7 @@ In regulation 40 (calculation of chargeable amount) for paragraph (6) substitute
   >
   > (12) In this regulation “building” and “new build” have the same meaning as in regulation 40.
 
-## 7. Amendment to Part 7 – application of CIL[^key-49cc94bcec37eaee1818502e2214b745]
+## 7. Amendment to Part 7 – application of CIL[^c-49cc94bcec37eaee1818502e2214b745]
 
 In regulation 59 (application to infrastructure)—
 
@@ -177,7 +177,7 @@ In regulation 59 (application to infrastructure)—
 - (c) in paragraph (3) after words “apply CIL to funding” insert “the provision, improvement, replacement, operation or maintenance of”; and
 - (d) in paragraph (4) after the words “person to apply to funding” insert “the provision, improvement, replacement, operation or maintenance of”.
 
-## 8. Amendment to Part 8 - administration[^key-1c7dd8c3d24c05b656c155fa31f6a97b]
+## 8. Amendment to Part 8 - administration[^c-1c7dd8c3d24c05b656c155fa31f6a97b]
 
 (1) In regulation 67 (commencement notice) for paragraph (6) substitute—
 
@@ -232,7 +232,7 @@ In regulation 59 (application to infrastructure)—
 > - (a) that part of Y which (in accordance with regulation 61(4)) the collecting authority applies to administrative expenses incurred by it in connection with collecting Y; and
 > - (b) any overpayment (including interest) which the collecting authority has repaid under regulation 75.
 
-## 9. Amendment to Part 12 – miscellaneous and transitional provisions[^key-25fa78d204d63f19c80b88e2e58323d4]
+## 9. Amendment to Part 12 – miscellaneous and transitional provisions[^c-25fa78d204d63f19c80b88e2e58323d4]
 
 (1) After regulation 128 (transitional provision: general) insert—
 
@@ -288,7 +288,7 @@ In regulation 59 (application to infrastructure)—
 >
 > (4) Other than this regulation these Regulations shall not apply in relation to that development.
 
-## 10. Transitional provisions[^key-e578a61f11caba68f25e0c056f35b507]
+## 10. Transitional provisions[^c-e578a61f11caba68f25e0c056f35b507]
 
 (1) The amendments in regulations 3(2), 8(1), (3) and (4) and 9(1) do not apply in relation to a development that was granted planning permission under section 73 of TCPA before these Regulations came into force.
 
@@ -364,33 +364,33 @@ The Department is not required to produce an impact assessment in relation to th
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 205(2) was amended by section 115(2)(a) of the Localism Act 2011 ([2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20)) and section 216(1) and (4)(a) was amended by section 115(5)(a)(ii) and (c) of the Localism Act 2011.
 
-[^key-06577259decd7868ce1543fde9651888]: Commencement: Reg. 1 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-06577259decd7868ce1543fde9651888]: Commencement: Reg. 1 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
-[^key-7d4caa17fc7f223370d0a5f14f1649cf]: Commencement: Reg. 2 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-7d4caa17fc7f223370d0a5f14f1649cf]: Commencement: Reg. 2 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) as amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
 
-[^key-8d8ccce8ca069df278c6c97000c6a977]: Commencement: Reg. 3 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-8d8ccce8ca069df278c6c97000c6a977]: Commencement: Reg. 3 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
 [^f00003]: Footnote: Section 73(5), inserted by section 51(3) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), prevents such permissions from extending the time within which development must be commenced. This provision is yet to be commenced in relation to Wales.
 
-[^key-700242364c5f67360f58887bca036744]: Commencement: Reg. 4 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-700242364c5f67360f58887bca036744]: Commencement: Reg. 4 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
-[^key-b774261b5d8ab77223c3c2c7d4bdb9a6]: Commencement: Reg. 5 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-b774261b5d8ab77223c3c2c7d4bdb9a6]: Commencement: Reg. 5 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
-[^key-9b69ba70aae3b7ee62a132d32a65d46c]: Commencement: Reg. 6 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-9b69ba70aae3b7ee62a132d32a65d46c]: Commencement: Reg. 6 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
-[^key-49cc94bcec37eaee1818502e2214b745]: Commencement: Reg. 7 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-49cc94bcec37eaee1818502e2214b745]: Commencement: Reg. 7 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
-[^key-1c7dd8c3d24c05b656c155fa31f6a97b]: Commencement: Reg. 8 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-1c7dd8c3d24c05b656c155fa31f6a97b]: Commencement: Reg. 8 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
 [^f00004]: Footnote: Regulation 70 was substituted by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
 
-[^key-25fa78d204d63f19c80b88e2e58323d4]: Commencement: Reg. 9 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-25fa78d204d63f19c80b88e2e58323d4]: Commencement: Reg. 9 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184).
 
-[^key-e578a61f11caba68f25e0c056f35b507]: Commencement: Reg. 10 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
+[^c-e578a61f11caba68f25e0c056f35b507]: Commencement: Reg. 10 in force at 29.11.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2975/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948) as amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987).
 

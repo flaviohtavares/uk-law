@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91.[^key-a270c57918c520d8d14cba0b63e3143b]
+## 91.[^c-a270c57918c520d8d14cba0b63e3143b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the heading to Article 10 for “Community” substitute “ domestic ”.
 
 ## Annotations
 
-[^key-a270c57918c520d8d14cba0b63e3143b]: Commencement: Reg. 91 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a270c57918c520d8d14cba0b63e3143b]: Commencement: Reg. 91 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

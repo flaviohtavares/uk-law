@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Restriction on exercise of maritime enforcement powers[^c22719331][^key-c125bda6eee6f5a342b141f1244fd9aa]
+## 97. Restriction on exercise of maritime enforcement powers[^c22719331][^c-c125bda6eee6f5a342b141f1244fd9aa]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22719331]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2017/3/section/97) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c125bda6eee6f5a342b141f1244fd9aa]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2017/3/section/97) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-c125bda6eee6f5a342b141f1244fd9aa]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2017/3/section/97) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

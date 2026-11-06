@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Requirements for carrying out cremation[^key-90d9f2adcb99295cacc321a4a0571f24]
+## 50. Requirements for carrying out cremation[^c-90d9f2adcb99295cacc321a4a0571f24]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90d9f2adcb99295cacc321a4a0571f24]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/20/section/50) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-90d9f2adcb99295cacc321a4a0571f24]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/20/section/50) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

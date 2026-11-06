@@ -43,7 +43,7 @@ Coming into force
 
 1st September 1999
 
-The Secretary of State, in exercise of the powers conferred on him by sections 209(1)(b) and 236 of the Employment Rights Act 1996[^f00001], hereby makes the following Order:[^key-53f6422046a3a6dcfcceadbeb3b144a5][^key-c881b742353b05a65511b7dcca5038f2]
+The Secretary of State, in exercise of the powers conferred on him by sections 209(1)(b) and 236 of the Employment Rights Act 1996[^f00001], hereby makes the following Order:[^c-53f6422046a3a6dcfcceadbeb3b144a5][^c-c881b742353b05a65511b7dcca5038f2]
 
 ## Contents
 
@@ -81,6 +81,6 @@ In addition to consolidating the provisions of the revoked orders with drafting 
 
 [^f00001]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-53f6422046a3a6dcfcceadbeb3b144a5]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/2277) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 44](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/44)
+[^c-53f6422046a3a6dcfcceadbeb3b144a5]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/2277) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 44](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/44)
 
-[^key-c881b742353b05a65511b7dcca5038f2]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/2277) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/44)
+[^c-c881b742353b05a65511b7dcca5038f2]: Modification: [Order](https://www.legislation.gov.uk/uksi/1999/2277) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/44)

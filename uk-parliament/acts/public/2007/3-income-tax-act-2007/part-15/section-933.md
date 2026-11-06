@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 933. UK resident companies[^key-6b283bdf5af8428541bdde995ea32128]
+## 933. UK resident companies[^c-6b283bdf5af8428541bdde995ea32128]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A payment is an excepted payment if the person beneficially entitled to the inco
 
 ## Annotations
 
-[^key-6b283bdf5af8428541bdde995ea32128]: Modification: S. 933 applied (6.4.2013) by [Small Charitable Donations Act 2012 (c. 23)](https://www.legislation.gov.uk/ukpga/2012/23), [s. 21](https://www.legislation.gov.uk/ukpga/2012/23/section/21), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2012/23/schedule/paragraph/10)
+[^c-6b283bdf5af8428541bdde995ea32128]: Modification: S. 933 applied (6.4.2013) by [Small Charitable Donations Act 2012 (c. 23)](https://www.legislation.gov.uk/ukpga/2012/23), [s. 21](https://www.legislation.gov.uk/ukpga/2012/23/section/21), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2012/23/schedule/paragraph/10)

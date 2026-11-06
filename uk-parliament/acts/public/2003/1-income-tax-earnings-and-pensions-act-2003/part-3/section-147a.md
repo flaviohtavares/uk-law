@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147A. Classic cars: optional remuneration arrangements[^key-3f703765e5ac352f9cacfde395af927b]
+## 147A. Classic cars: optional remuneration arrangements[^c-3f703765e5ac352f9cacfde395af927b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f703765e5ac352f9cacfde395af927b]: Textual amendment: [S. 147A](https://www.legislation.gov.uk/ukpga/2003/1/section/147A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/32)
+[^c-3f703765e5ac352f9cacfde395af927b]: Textual amendment: [S. 147A](https://www.legislation.gov.uk/ukpga/2003/1/section/147A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/32)

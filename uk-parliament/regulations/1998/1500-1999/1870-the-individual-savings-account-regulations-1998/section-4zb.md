@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4ZB. Subscriptions to a junior ISA account[^key-23140fc123eff5eb43ab0e4394ecae86]
+## 4ZB. Subscriptions to a junior ISA account[^c-23140fc123eff5eb43ab0e4394ecae86]
 
 *Extent: E+W+S+N.I.*
 
-(1) Any person may subscribe to a junior ISA account provided the overall amount subscribed by that person and any other person for any year in respect of the same named child does not exceed £9,000[^key-c493544cc591c2b85143346d47ec3214].
+(1) Any person may subscribe to a junior ISA account provided the overall amount subscribed by that person and any other person for any year in respect of the same named child does not exceed £9,000[^c-c493544cc591c2b85143346d47ec3214].
 
 (2) An amount paid to a junior ISA account in excess of the amount mentioned in paragraph (1) is not an amount subscribed to a junior ISA account and must not be held in that account.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23140fc123eff5eb43ab0e4394ecae86]: Textual amendment: Regs. 4ZA-4ZE inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1780/regulation/8)
+[^c-23140fc123eff5eb43ab0e4394ecae86]: Textual amendment: Regs. 4ZA-4ZE inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1780/regulation/8)
 
-[^key-c493544cc591c2b85143346d47ec3214]: Textual amendment: Sum in reg. 4ZB(1) substituted (6.4.2020) by [The Individual Savings Account (Amendment No. 2) Regulations 2020 (S.I. 2020/261)](https://www.legislation.gov.uk/uksi/2020/261), [regs. 1](https://www.legislation.gov.uk/uksi/2020/261/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/261/regulation/3)
+[^c-c493544cc591c2b85143346d47ec3214]: Textual amendment: Sum in reg. 4ZB(1) substituted (6.4.2020) by [The Individual Savings Account (Amendment No. 2) Regulations 2020 (S.I. 2020/261)](https://www.legislation.gov.uk/uksi/2020/261), [regs. 1](https://www.legislation.gov.uk/uksi/2020/261/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/261/regulation/3)

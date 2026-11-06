@@ -23,7 +23,7 @@ summary: ''
 (1) Parts 1 to 7 extend to England and Wales only, except that—
 
 - (a) an amendment or repeal effected by any of those Parts has the same extent as the provision amended or repealed, and
-- (b) sections 67(2) to (6), [^key-34f0d3d988e0ee6698a42ec973b4c608]... 114, 116 and 117 (powers to make consequential provision etc) extend also to Scotland and Northern Ireland.
+- (b) sections 67(2) to (6), [^c-34f0d3d988e0ee6698a42ec973b4c608]... 114, 116 and 117 (powers to make consequential provision etc) extend also to Scotland and Northern Ireland.
 
 Paragraph (a) does not apply to Chapter 6 of Part 1 (which accordingly extends to England and Wales only).
 
@@ -33,4 +33,4 @@ Paragraph (a) does not apply to Chapter 6 of Part 1 (which accordingly extends t
 
 ## Annotations
 
-[^key-34f0d3d988e0ee6698a42ec973b4c608]: Textual amendment: Words in s. 147(1)(b) repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(5)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/q), [Sch. 25 Pt. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/15)
+[^c-34f0d3d988e0ee6698a42ec973b4c608]: Textual amendment: Words in s. 147(1)(b) repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(5)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/q), [Sch. 25 Pt. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/15)

@@ -24,7 +24,7 @@ summary: ''
 
 - (a) for prescribing anything which under this Act is to be prescribed;
 - (b) for prescribing the manner in which, and the persons to and by whom, applications for registration or naturalisation under any provision of this Act may or must be made;
-- (bza)[^key-43300a4f4e691352481e5285d772c0eb] requiring an application for registration or naturalisation of a person as a British citizen to be accompanied by biometric information, or enabling an authorised person to require an individual to whom such an application relates to provide biometric information;
+- (bza)[^c-43300a4f4e691352481e5285d772c0eb] requiring an application for registration or naturalisation of a person as a British citizen to be accompanied by biometric information, or enabling an authorised person to require an individual to whom such an application relates to provide biometric information;
 - (ba)[^c19262801] for determining whether a person has sufficient knowledge of a language for the purpose of an application for naturalisation;
 - (bb) for determining whether a person has sufficient knowledge about life in the United Kingdom for the purpose of an application for naturalisation;
 - (c) for the registration of anything required or authorised by or under this Act to be registered;
@@ -36,12 +36,12 @@ summary: ''
 - (de) for the completion and grant of a certificate of registration or naturalisation;
 - (e) for the giving of any notice required or authorised to be given to any person under this Act;
 - (f) for the cancellation of the registration of, and the cancellation and amendment of certificates of naturalisation relating to, persons deprived of citizenship or of the status of a British National (Overseas)[^c8126671] under this Act, and for requiring such certificates to be delivered up for those purposes;
-- (g) for the births and deaths of persons of any class or description born or dying in a country mentioned in Schedule 3 to be registered [^key-74982727528499084f0718ee0d033fd1]...;
-- (h) for the births and deaths of persons of any class or description born or dying in a foreign country to be registered [^key-b77bb4d99a9621ee0f627cf4ad5b1cda]...;
-- (i)[^key-5ee63dcc30354f5b683d7f66661403bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) for the births and deaths of persons of any class or description born or dying in a country mentioned in Schedule 3 to be registered [^c-74982727528499084f0718ee0d033fd1]...;
+- (h) for the births and deaths of persons of any class or description born or dying in a foreign country to be registered [^c-b77bb4d99a9621ee0f627cf4ad5b1cda]...;
+- (i)[^c-5ee63dcc30354f5b683d7f66661403bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j)[^c19262891] as to the consequences of failure to comply with provision made under any of paragraphs (a) to (i).
 
-(1ZA)[^key-c96880e244fc9c134c181b0040aed61a] In subsection (1)(bza) “ **authorised person** ” and “ **biometric information** ” have the same meaning as in section 126 of the Nationality, Immigration and Asylum Act 2002.
+(1ZA)[^c-c96880e244fc9c134c181b0040aed61a] In subsection (1)(bza) “ **authorised person** ” and “ **biometric information** ” have the same meaning as in section 126 of the Nationality, Immigration and Asylum Act 2002.
 
 (1ZB) Section 126(4) to (7) of that Act applies to regulations under subsection (1)(bza) as it applies to regulations under section 126(1) of that Act.
 
@@ -83,7 +83,7 @@ summary: ''
 
 (4) Her Majesty may by Order in Council provide for any Act or Northern Ireland legislation to which this subsection applies to apply, with such adaptations and modifications as appear to Her necessary, to births and deaths registered—
 
-- (a) in accordance with regulations made in pursuance of subsection (1)(g) and (h)[^key-c893ab06b432ca4f0c2cb2d973527da9] of this section or subsection (1)(f) and (g) of section 29 of the 1948 Act; or
+- (a) in accordance with regulations made in pursuance of subsection (1)(g) and (h)[^c-c893ab06b432ca4f0c2cb2d973527da9] of this section or subsection (1)(f) and (g) of section 29 of the 1948 Act; or
 - (b) at a consulate of Her Majesty in accordance with regulations made under the British Nationality and Status of Aliens Acts 1914 to 1943 or in accordance with instructions of the Secretary of State; or
 - (c) by a High Commissioner for Her Majesty’s government in the United Kingdom or members of his official staff in accordance with instructions of the Secretary of State;
 
@@ -98,7 +98,7 @@ and an Order in Council under this subsection may exclude, in relation to births
 
 (7) Any regulations or Order in Council made under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(8)[^key-81b190cf32bcec0a6e9f6d7fca52642c] Any regulations (whether alone or with other provision)—
+(8)[^c-81b190cf32bcec0a6e9f6d7fca52642c] Any regulations (whether alone or with other provision)—
 
 - (a) under subsection (1)(a) for prescribing activities for the purposes of paragraph 4B(5)(a) of Schedule 1; or
 - (b) under subsection (1)(bza), (bc)[^M_F_6b98bf21-8fc9-42b5-8636-209166dd17b8], (bd) or (be),
@@ -117,7 +117,7 @@ may not be made unless a draft has been laid before and approved by a resolution
 
 [^c8126651]: Modification: S. 41 modified (19.3.1997) by [1997 c. 20](https://www.legislation.gov.uk/ukpga/1997/20), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1997/20/section/2/3)
 
-[^key-43300a4f4e691352481e5285d772c0eb]: Textual amendment: S. 41(1)(bza) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)
+[^c-43300a4f4e691352481e5285d772c0eb]: Textual amendment: S. 41(1)(bza) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)
 
 [^c19262801]: Textual amendment: S. 41(1)(ba)(bb) inserted (6.7.2004) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2002/41/section/1/3), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2004/1707](https://www.legislation.gov.uk/uksi/2004/1707), [art. 2](https://www.legislation.gov.uk/uksi/2004/1707/article/2)
 
@@ -125,15 +125,15 @@ may not be made unless a draft has been laid before and approved by a resolution
 
 [^c8126671]: Textual amendment: By [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948), [art. 7(4)](https://www.legislation.gov.uk/uksi/1986/948/article/7/4)(*b*) it is provided that s. 41 shall have effect as if in subsection (1)(*f*) after the word “citizenship” there were inserted the words “or of the status of a British National (Overseas)”
 
-[^key-74982727528499084f0718ee0d033fd1]: Textual amendment: Words in s. 41(1)(g) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/i)
+[^c-74982727528499084f0718ee0d033fd1]: Textual amendment: Words in s. 41(1)(g) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/i)
 
-[^key-b77bb4d99a9621ee0f627cf4ad5b1cda]: Textual amendment: Words in s. 41(1)(h) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/ii)
+[^c-b77bb4d99a9621ee0f627cf4ad5b1cda]: Textual amendment: Words in s. 41(1)(h) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/ii)
 
-[^key-5ee63dcc30354f5b683d7f66661403bb]: Textual amendment: S. 41(1)(i) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/iii)
+[^c-5ee63dcc30354f5b683d7f66661403bb]: Textual amendment: S. 41(1)(i) omitted (1.4.2014) by virtue of [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2014/542/article/2/a/iii)
 
 [^c19262891]: Textual amendment: S. 41(1)(j) added (5.11.2007) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2006/13/section/50/4), [62](https://www.legislation.gov.uk/ukpga/2006/13/section/62); [S.I. 2007/3138](https://www.legislation.gov.uk/uksi/2007/3138), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3138/article/2/i)
 
-[^key-c96880e244fc9c134c181b0040aed61a]: Textual amendment: S. 41(1ZA)-(1ZD) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)
+[^c-c96880e244fc9c134c181b0040aed61a]: Textual amendment: S. 41(1ZA)-(1ZD) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i)
 
 [^c19262881]: Textual amendment: S. 41(1A) inserted (6.7.2004) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2002/41/section/1/4), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2004/1707](https://www.legislation.gov.uk/uksi/2004/1707), [art. 2](https://www.legislation.gov.uk/uksi/2004/1707/article/2)
 
@@ -147,7 +147,7 @@ may not be made unless a draft has been laid before and approved by a resolution
 
 [^c19262701]: Textual amendment: S. 41(3A)(3B) inserted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/41/section/3), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2002/41/schedule/1/paragraph/7) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/3156](https://www.legislation.gov.uk/uksi/2003/3156), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/3156/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/3156/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3156/article/4))
 
-[^key-c893ab06b432ca4f0c2cb2d973527da9]: Textual amendment: Words in s. 41(4)(a) substituted (1.4.2014) by [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/542/article/2/b)
+[^c-c893ab06b432ca4f0c2cb2d973527da9]: Textual amendment: Words in s. 41(4)(a) substituted (1.4.2014) by [The Legislative Reform (Overseas Registration of Births and Deaths) Order 2014 (S.I. 2014/542)](https://www.legislation.gov.uk/uksi/2014/542), [arts. 1](https://www.legislation.gov.uk/uksi/2014/542/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/542/article/2/b)
 
 [^c8126731]: Marginal citation: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
@@ -155,6 +155,6 @@ may not be made unless a draft has been laid before and approved by a resolution
 
 [^c8126751]: Marginal citation: [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49).
 
-[^key-81b190cf32bcec0a6e9f6d7fca52642c]: Textual amendment: S. 41(8) inserted (27.10.2014 for specified purposes) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/5), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/a)
+[^c-81b190cf32bcec0a6e9f6d7fca52642c]: Textual amendment: S. 41(8) inserted (27.10.2014 for specified purposes) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/5), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/a)
 
 [^M_F_6b98bf21-8fc9-42b5-8636-209166dd17b8]: Textual amendment: By [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2014/22/section/10/4), 75(2); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(i)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/i), it is provided that in s. 41(8)(b) the words "(1)(bza), (bc)" be substituted for "(1)(bc)" (28.7.2014) despite s. 41(8) not being inserted until 27.10.2014 and the words "(bc), (bd) or (be)" in s. 41(8)(b) being excluded from the commencement of that insertion

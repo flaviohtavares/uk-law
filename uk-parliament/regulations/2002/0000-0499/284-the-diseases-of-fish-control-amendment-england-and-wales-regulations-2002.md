@@ -35,7 +35,7 @@ SALMON AND FRESHWATER FISHERIES
 
 SEA FISHERIES
 
-The Diseases of Fish (Control) (Amendment) (England and Wales) Regulations 2002 (revoked)[^key-bdb9c709fb9731225598b586d879c41a]
+The Diseases of Fish (Control) (Amendment) (England and Wales) Regulations 2002 (revoked)[^c-bdb9c709fb9731225598b586d879c41a]
 
 Made
 
@@ -49,48 +49,48 @@ Coming into force
 
 10th March 2002
 
-[^key-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-bdb9c709fb9731225598b586d879c41a]
+## 1. Title, commencement and extent[^c-bdb9c709fb9731225598b586d879c41a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Diseases of Fish (Control) Regulations 1994[^key-bdb9c709fb9731225598b586d879c41a]
+## 2. Amendment of the Diseases of Fish (Control) Regulations 1994[^c-bdb9c709fb9731225598b586d879c41a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Diseases of Fish (Control) Regulations 1994[^key-bdb9c709fb9731225598b586d879c41a]
+## SCHEDULE — Amendments to the Diseases of Fish (Control) Regulations 1994[^c-bdb9c709fb9731225598b586d879c41a]
 
 Regulation 2
 
-**1.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bdb9c709fb9731225598b586d879c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdb9c709fb9731225598b586d879c41a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdb9c709fb9731225598b586d879c41a]: Textual amendment: Regulations revoked (with application in accordance with reg. 2(2) of the amending S.I.) by [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2/c), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/11)
+[^c-bdb9c709fb9731225598b586d879c41a]: Textual amendment: Regulations revoked (with application in accordance with reg. 2(2) of the amending S.I.) by [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2/c), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/11)

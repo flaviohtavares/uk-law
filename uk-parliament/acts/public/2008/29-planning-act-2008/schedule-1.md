@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — The Infrastructure Planning Commission[^key-961a0dfb843331cab4cc37a7e1ab70ab]
+## SCHEDULE 1 — The Infrastructure Planning Commission[^c-961a0dfb843331cab4cc37a7e1ab70ab]
 
 *Extent: E+W+S*
 
@@ -116,4 +116,4 @@ Section 1
 
 ## Annotations
 
-[^key-961a0dfb843331cab4cc37a7e1ab70ab]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/1) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-961a0dfb843331cab4cc37a7e1ab70ab]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2008/29/schedule/1) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/2), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

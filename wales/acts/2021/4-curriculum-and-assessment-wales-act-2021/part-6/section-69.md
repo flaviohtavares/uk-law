@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Power to make provision for children receiving education in more than one setting etc[^key-e4b0d2196058781ae2e97fe8ff4fcabf][^key-c47b2f3fa1c302ddf37f69fe3b07215b]
+## 69. Power to make provision for children receiving education in more than one setting etc[^c-e4b0d2196058781ae2e97fe8ff4fcabf][^c-c47b2f3fa1c302ddf37f69fe3b07215b]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b0d2196058781ae2e97fe8ff4fcabf]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2021/4/section/69) in force at 14.6.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 3(b)](https://www.legislation.gov.uk/wsi/2022/652/article/3/b)
+[^c-e4b0d2196058781ae2e97fe8ff4fcabf]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2021/4/section/69) in force at 14.6.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 3(b)](https://www.legislation.gov.uk/wsi/2022/652/article/3/b)
 
-[^key-c47b2f3fa1c302ddf37f69fe3b07215b]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2021/4/section/69) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(e)](https://www.legislation.gov.uk/wsi/2022/652/article/4/e)
+[^c-c47b2f3fa1c302ddf37f69fe3b07215b]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2021/4/section/69) in force at 1.9.2022 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(e)](https://www.legislation.gov.uk/wsi/2022/652/article/4/e)

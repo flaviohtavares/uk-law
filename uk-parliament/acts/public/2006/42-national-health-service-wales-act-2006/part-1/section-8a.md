@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8A. Provision for bodies in Scotland[^key-4374710321fb535711cb4828b22c8bb5]
+## 8A. Provision for bodies in Scotland[^c-4374710321fb535711cb4828b22c8bb5]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4374710321fb535711cb4828b22c8bb5]: Textual amendment: S. 8A inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/14); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4374710321fb535711cb4828b22c8bb5]: Textual amendment: S. 8A inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/14); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

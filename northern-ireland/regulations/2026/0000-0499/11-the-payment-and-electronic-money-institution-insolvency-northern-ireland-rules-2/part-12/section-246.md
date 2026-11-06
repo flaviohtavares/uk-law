@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 246. Punishment of offences[^key-8d48bcf3a214b8429426386b509b473b]
+## 246. Punishment of offences[^c-8d48bcf3a214b8429426386b509b473b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Schedule has effect with respect to the ways in which certain contraventions
 
 ## Annotations
 
-[^key-8d48bcf3a214b8429426386b509b473b]: Commencement: [Rule 246](https://www.legislation.gov.uk/nisr/2026/11/rule/246) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8d48bcf3a214b8429426386b509b473b]: Commencement: [Rule 246](https://www.legislation.gov.uk/nisr/2026/11/rule/246) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

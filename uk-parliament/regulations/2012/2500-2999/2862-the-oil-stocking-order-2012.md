@@ -62,9 +62,9 @@ This Order may be cited as the Oil Stocking Order 2012 and comes into force on 3
 - “**the 2008 Regulation**” means Regulation 2008/1099/EC of the European Parliament and of the Council on energy statistics [^c21450701];
 - “**the 2009 Directive**” means Council Directive [2009/119/EC](https://www.legislation.gov.uk/european/directive/2009/0119) imposing an obligation on member States to maintain minimum stocks of crude oil and/or petroleum products [^c21450711];
 - “**additive**” means a non-hydrocarbon compound added to or blended with a product to modify its properties;
-- [^key-a1a25d490ff19586cd0f3c9cf9add4b3]...
+- [^c-a1a25d490ff19586cd0f3c9cf9add4b3]...
 - “**biofuel**” means a liquid or gaseous fuel for transport produced from biomass, ‘biomass’ being the biodegradable fraction of products, waste and residues from agriculture (including vegetable and animal substances), forestry and related industries, as well as the biodegradable fraction of industrial and municipal waste;
-- “**CSE**” means a central stockholding entity established by a member State[^key-cd1eb962fc096ee296dde3e36f2530c2] to acquire, maintain or sell stocks, including emergency stocks and specific stocks;
+- “**CSE**” means a central stockholding entity established by a member State[^c-cd1eb962fc096ee296dde3e36f2530c2] to acquire, maintain or sell stocks, including emergency stocks and specific stocks;
 - “**CSE ticket arrangement**” means an arrangement between P and a CSE under which the CSE holds P's stock in a member State for a period of no less than 1 month;
 - “**delegation arrangement**” means an arrangement under which a person holds stock in the United Kingdom for a period of no less than 1 month for the purpose of—
   - (a) carrying out a task, relating to the management of emergency stocks or specific stocks held on behalf of a member State, which has been delegated to that person by that State or the CSE of that State; or
@@ -155,7 +155,7 @@ The requirements referred to in article 3(2)(a) are that—
 
 ### 7. Restrictions on enforcement proceedings
 
-(1) A person must not, in respect of specific stocks maintained or transported within the United Kingdom on behalf of a member State[^key-91ac974f4382daae17a350e63e014b5f], commence or continue execution or other legal process or seek to levy distress.
+(1) A person must not, in respect of specific stocks maintained or transported within the United Kingdom on behalf of a member State[^c-91ac974f4382daae17a350e63e014b5f], commence or continue execution or other legal process or seek to levy distress.
 
 (2) In the application of paragraph (1) to—
 
@@ -168,11 +168,11 @@ The requirements referred to in article 3(2)(a) are that—
 
 (2) Where the Secretary of State receives a notice under paragraph (1), the Secretary of State may, in relation to any direction to P which is in force at the date of receipt (“the receipt date”), give notice to P to extend the period of the direction for a period of up to 3 months from the receipt date.
 
-## PART 4 — STOCKS HELD ON BEHALF OF ... MEMBER STATES, CSEs and EU OPERATORS[^key-3acaebf3712de4d3aedc25b61d76eddd]
+## PART 4 — STOCKS HELD ON BEHALF OF ... MEMBER STATES, CSEs and EU OPERATORS[^c-3acaebf3712de4d3aedc25b61d76eddd]
 
-### 9. Arrangements for stocks held on behalf of a member State, a CSE or an EU operator[^key-0c00caf80ac772d2c3106954ef703fa3]
+### 9. Arrangements for stocks held on behalf of a member State, a CSE or an EU operator[^c-0c00caf80ac772d2c3106954ef703fa3]
 
-A person must not hold stock in the United Kingdom on behalf of a member State[^key-84148bde3434672cd28c9f987a02d11b], a CSE or an EU operator otherwise than in accordance with a delegation arrangement authorised by the Secretary of State.
+A person must not hold stock in the United Kingdom on behalf of a member State[^c-84148bde3434672cd28c9f987a02d11b], a CSE or an EU operator otherwise than in accordance with a delegation arrangement authorised by the Secretary of State.
 
 ### 10. Commingled stock
 
@@ -205,7 +205,7 @@ A person must not hold stock in the United Kingdom on behalf of a member State[^
 
 ### 11. Protection of stocks in an oil supply crisis
 
-(1) A person who knows or has reason to believe that there is in force a relevant decision, must not hinder the transfer, use or release of emergency stocks or specific stocks held within the United Kingdom on behalf of a member State[^key-c284dfeaaffd676da4fb7c8acafb015a].
+(1) A person who knows or has reason to believe that there is in force a relevant decision, must not hinder the transfer, use or release of emergency stocks or specific stocks held within the United Kingdom on behalf of a member State[^c-c284dfeaaffd676da4fb7c8acafb015a].
 
 (2) In paragraph (1), “**relevant decision**” means a decision in force taken by the Governing Body of the International Energy Agency [^c21450731] to make crude oil or petroleum products available to the market.
 
@@ -245,7 +245,7 @@ the application for authorisation of the CSE ticket arrangement must be made at 
 
 (2) Where the Secretary of State gives an authorisation, the Secretary of State—
 
-- (a)[^key-ee2414e7e9364ab3131c7ac11bdbe924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ee2414e7e9364ab3131c7ac11bdbe924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) must, where a person is authorised to hold stock in the United Kingdom under a delegation arrangement, make that authorisation subject to terms which—
   - (i) require compliance with article 10; and
   - (ii) prohibit any other person from holding that stock; and
@@ -502,25 +502,25 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21450711]: Marginal citation: OJ No L 265, 9.10.2009, p.9.
 
-[^key-a1a25d490ff19586cd0f3c9cf9add4b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1a25d490ff19586cd0f3c9cf9add4b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd1eb962fc096ee296dde3e36f2530c2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd1eb962fc096ee296dde3e36f2530c2]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/2/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91ac974f4382daae17a350e63e014b5f]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/7/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91ac974f4382daae17a350e63e014b5f]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/7/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21450721]: Marginal citation: [S.I. 1981/226 (N.I.6)](https://www.legislation.gov.uk/nisi/1981/226); there have been 29 amending instruments, the most recent amending instrument being [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-3acaebf3712de4d3aedc25b61d76eddd]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2862/part/4) heading omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3acaebf3712de4d3aedc25b61d76eddd]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2862/part/4) heading omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c00caf80ac772d2c3106954ef703fa3]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) heading substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c00caf80ac772d2c3106954ef703fa3]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) heading substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84148bde3434672cd28c9f987a02d11b]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84148bde3434672cd28c9f987a02d11b]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2012/2862/article/9) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c284dfeaaffd676da4fb7c8acafb015a]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/11/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c284dfeaaffd676da4fb7c8acafb015a]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2012/2862/article/11/1) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21450731]: Marginal citation: The website of the International Energy Agency is: www.iea.org.
 
-[^key-ee2414e7e9364ab3131c7ac11bdbe924]: Textual amendment: [Art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2012/2862/article/13/2/a) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee2414e7e9364ab3131c7ac11bdbe924]: Textual amendment: [Art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2012/2862/article/13/2/a) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21450741]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Amendments have been made that are not relevant for these purposes.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Interpretation[^key-6a063938d9be696253f5e21b0418a85d]
+## 20. Interpretation[^c-6a063938d9be696253f5e21b0418a85d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a063938d9be696253f5e21b0418a85d]: Textual amendment: Reg. 20 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1408/regulation/9)
+[^c-6a063938d9be696253f5e21b0418a85d]: Textual amendment: Reg. 20 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1408/regulation/9)

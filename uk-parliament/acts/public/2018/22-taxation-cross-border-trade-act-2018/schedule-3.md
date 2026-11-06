@@ -24,12 +24,12 @@ Section 10
 
 ### PART 1 — Introduction
 
-**1.**[^key-e785c0d24a5967d17681d7bc4221631b] For the purposes of section 10—
+**1.**[^c-e785c0d24a5967d17681d7bc4221631b] For the purposes of section 10—
 
 - (a) a country or territory is an “eligible developing country” if it is listed in Part 2 or Part 3 of this Schedule;
 - (b) a country or territory is a “least developed country” if it is listed in Part 2 of this Schedule.
 
-### PART 2 — Least developed countries[^key-65fcb5f6080563a23b6d25b484f33ad4]
+### PART 2 — Least developed countries[^c-65fcb5f6080563a23b6d25b484f33ad4]
 
 <table>
 <tbody>
@@ -81,9 +81,9 @@ Section 10
 </tbody>
 </table>
 
-[^key-7f83a540daca707d747b82e3130f4983][^key-4481ba7f7172ff1f642360bfcf9d561d][^key-2de2bf500e4781be46835fb67c66dac5]
+[^c-7f83a540daca707d747b82e3130f4983][^c-4481ba7f7172ff1f642360bfcf9d561d][^c-2de2bf500e4781be46835fb67c66dac5]
 
-### PART 3 — Other eligible developing countries[^key-1b76895e607ea1ec7271fab99251ddda]
+### PART 3 — Other eligible developing countries[^c-1b76895e607ea1ec7271fab99251ddda]
 
 <table>
 <tbody>
@@ -136,11 +136,11 @@ Section 10
 </tbody>
 </table>
 
-[^key-0b0aee43bf6b3aa5092b3a9c2e66140e][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-2cfc2d965eb4a819e075bdab86974eae][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-2cfc2d965eb4a819e075bdab86974eae][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-2cfc2d965eb4a819e075bdab86974eae][^key-fb1cfe50ab598404bcfc1940ffb29b16][^key-2cfc2d965eb4a819e075bdab86974eae][^key-5854a97044d8a25459baa73928cd6e5a][^key-5854a97044d8a25459baa73928cd6e5a][^key-b4d29f8c58b3701a6f5b858a9bf0736c][^key-fb1cfe50ab598404bcfc1940ffb29b16][^key-5854a97044d8a25459baa73928cd6e5a]
+[^c-0b0aee43bf6b3aa5092b3a9c2e66140e][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-2cfc2d965eb4a819e075bdab86974eae][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-2cfc2d965eb4a819e075bdab86974eae][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-2cfc2d965eb4a819e075bdab86974eae][^c-fb1cfe50ab598404bcfc1940ffb29b16][^c-2cfc2d965eb4a819e075bdab86974eae][^c-5854a97044d8a25459baa73928cd6e5a][^c-5854a97044d8a25459baa73928cd6e5a][^c-b4d29f8c58b3701a6f5b858a9bf0736c][^c-fb1cfe50ab598404bcfc1940ffb29b16][^c-5854a97044d8a25459baa73928cd6e5a]
 
 ### PART 4 — Power to amend Parts 2 and 3
 
-**2.**[^key-ef5fb00e1a5b20c10adee6b7b7f5a979] (1) The Secretary of State may by regulations add countries or territories to or remove them from a list in Part 2 or 3 if the Secretary of State is satisfied that—
+**2.**[^c-ef5fb00e1a5b20c10adee6b7b7f5a979] (1) The Secretary of State may by regulations add countries or territories to or remove them from a list in Part 2 or 3 if the Secretary of State is satisfied that—
 
 - (a) in the case of the list in Part 2, the country or territory has become, or ceased to be, a least developed country or territory;
 - (b) in the case of the list in Part 3, the country has become, or ceased to be, a country or territory that is similarly situated to the other countries and territories listed in Part 3, in terms of its economic characteristics.
@@ -153,26 +153,26 @@ Section 10
 
 ## Annotations
 
-[^key-e785c0d24a5967d17681d7bc4221631b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/paragraph/1) in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-e785c0d24a5967d17681d7bc4221631b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/paragraph/1) in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
 
-[^key-65fcb5f6080563a23b6d25b484f33ad4]: Commencement: Sch. 3 Pt. 2 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-65fcb5f6080563a23b6d25b484f33ad4]: Commencement: Sch. 3 Pt. 2 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
 
-[^key-7f83a540daca707d747b82e3130f4983]: Textual amendment: Words in Sch. 3 Pt. 2 omitted (31.12.2020) by virtue of [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7f83a540daca707d747b82e3130f4983]: Textual amendment: Words in Sch. 3 Pt. 2 omitted (31.12.2020) by virtue of [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4481ba7f7172ff1f642360bfcf9d561d]: Textual amendment: Word in Sch. 3 Pt. 2 substituted (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(a)(i)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4481ba7f7172ff1f642360bfcf9d561d]: Textual amendment: Word in Sch. 3 Pt. 2 substituted (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(a)(i)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2de2bf500e4781be46835fb67c66dac5]: Textual amendment: Word in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/2) omitted (1.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/12/2)
+[^c-2de2bf500e4781be46835fb67c66dac5]: Textual amendment: Word in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/2) omitted (1.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/12/2)
 
-[^key-1b76895e607ea1ec7271fab99251ddda]: Commencement: Sch. 3 Pt. 3 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-1b76895e607ea1ec7271fab99251ddda]: Commencement: Sch. 3 Pt. 3 in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
 
-[^key-0b0aee43bf6b3aa5092b3a9c2e66140e]: Textual amendment: Word in Sch. 3 Pt. 3 added (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(b)(i)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0b0aee43bf6b3aa5092b3a9c2e66140e]: Textual amendment: Word in Sch. 3 Pt. 3 added (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(b)(i)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/b/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5854a97044d8a25459baa73928cd6e5a]: Textual amendment: Words in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) omitted (1.1.2022) by virtue of [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2021/1489/regulation/16/2/a)
+[^c-5854a97044d8a25459baa73928cd6e5a]: Textual amendment: Words in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) omitted (1.1.2022) by virtue of [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2021/1489/regulation/16/2/a)
 
-[^key-2cfc2d965eb4a819e075bdab86974eae]: Textual amendment: Words in Sch. 3 Pt. 3 omitted (31.12.2020) by virtue of [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2cfc2d965eb4a819e075bdab86974eae]: Textual amendment: Words in Sch. 3 Pt. 3 omitted (31.12.2020) by virtue of [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [30(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/30/b/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-fb1cfe50ab598404bcfc1940ffb29b16]: Textual amendment: Words in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) omitted (19.6.2023) by virtue of [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2023/561/regulation/27) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))
+[^c-fb1cfe50ab598404bcfc1940ffb29b16]: Textual amendment: Words in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) omitted (19.6.2023) by virtue of [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2023/561/regulation/27) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))
 
-[^key-b4d29f8c58b3701a6f5b858a9bf0736c]: Textual amendment: Word in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/12/3)
+[^c-b4d29f8c58b3701a6f5b858a9bf0736c]: Textual amendment: Word in [Sch. 3 Pt. 3](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/part/3) inserted (1.1.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 4) Regulations 2025 (S.I. 2025/1289)](https://www.legislation.gov.uk/uksi/2025/1289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/1289/regulation/12/3)
 
-[^key-ef5fb00e1a5b20c10adee6b7b7f5a979]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/paragraph/2) in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)
+[^c-ef5fb00e1a5b20c10adee6b7b7f5a979]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2018/22/schedule/3/paragraph/2) in force at 23.1.2019 by [S.I. 2019/69](https://www.legislation.gov.uk/uksi/2019/69), [reg. 2](https://www.legislation.gov.uk/uksi/2019/69/regulation/2)

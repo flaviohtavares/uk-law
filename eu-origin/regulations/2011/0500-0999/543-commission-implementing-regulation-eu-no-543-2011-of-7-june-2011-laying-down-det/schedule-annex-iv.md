@@ -67,14 +67,14 @@ summary: ''
 </tbody>
 </table>
 
-[^key-3f01aa524af5613e919462a154a422d2][^f00071][^key-c6eb4b5d5098862c664ef548502069a2]
+[^c-3f01aa524af5613e919462a154a422d2][^f00071][^c-c6eb4b5d5098862c664ef548502069a2]
 
 ## Annotations
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) No 594/2013 of 21 June 2013 amending Implementing Regulation (EU) No 543/2011 as regards marketing standards in the fruit and vegetables sector and correcting that Implementing Regulation](https://www.legislation.gov.uk/eur/2013/594).
 
-[^key-3f01aa524af5613e919462a154a422d2]: Textual amendment: Word in [Annex 4](https://www.legislation.gov.uk/eur/2011/543/annex/IV) footnote substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(45)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f01aa524af5613e919462a154a422d2]: Textual amendment: Word in [Annex 4](https://www.legislation.gov.uk/eur/2011/543/annex/IV) footnote substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(45)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^f00071]: Footnote: Approval[^key-3f01aa524af5613e919462a154a422d2][^c000002] under Article 15 is given to fruit and vegetables originating within the State of Israel, excluding the territories under Israeli administration since June 1967, namely the Golan Heights, the Gaza Strip, East Jerusalem and the rest of the West Bank.
+[^f00071]: Footnote: Approval[^c-3f01aa524af5613e919462a154a422d2][^c000002] under Article 15 is given to fruit and vegetables originating within the State of Israel, excluding the territories under Israeli administration since June 1967, namely the Golan Heights, the Gaza Strip, East Jerusalem and the rest of the West Bank.
 
-[^key-c6eb4b5d5098862c664ef548502069a2]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2011/543/annex/IV) table inserted (1.7.2022) by [The Common Organisation of the Markets in Agricultural Products (Third Country Listing for Fruit and Vegetables) (Amendment, etc.) Regulations 2022 (S.I. 2022/608)](https://www.legislation.gov.uk/uksi/2022/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/608/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/608/regulation/3)
+[^c-c6eb4b5d5098862c664ef548502069a2]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2011/543/annex/IV) table inserted (1.7.2022) by [The Common Organisation of the Markets in Agricultural Products (Third Country Listing for Fruit and Vegetables) (Amendment, etc.) Regulations 2022 (S.I. 2022/608)](https://www.legislation.gov.uk/uksi/2022/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/608/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/608/regulation/3)

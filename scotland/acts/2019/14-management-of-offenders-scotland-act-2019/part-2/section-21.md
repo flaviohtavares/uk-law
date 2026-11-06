@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Table B – disclosure periods: service sentences[^key-ef21e8f2168aa2c866ec2750f29551fb]
+## 21. Table B – disclosure periods: service sentences[^c-ef21e8f2168aa2c866ec2750f29551fb]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef21e8f2168aa2c866ec2750f29551fb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/14/section/21) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-ef21e8f2168aa2c866ec2750f29551fb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/14/section/21) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

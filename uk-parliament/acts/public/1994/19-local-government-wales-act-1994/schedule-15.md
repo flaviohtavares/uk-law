@@ -225,7 +225,7 @@ Section 66(5).
 - (a) in subsection (1), for first “or” substitute “ council, the principal council, as respects a member of a ” and omit “district” in the second and third places; and
 - (b) in subsections (2) and (3), omit “district”.
 
-**26.**[^key-a28e66340ea17b6e0b9c43a008ab818e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a28e66340ea17b6e0b9c43a008ab818e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In section 103 (expenses of joint committees), in paragraph (a), for “or communities or groups of parishes or communities” substitute “ or groups of parishes ” and after “council” insert—
 
@@ -440,7 +440,7 @@ Section 66(5).
 
 [^c10521961]: Commencement: [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/1994/19/schedule/15/paragraph/23) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
-[^key-a28e66340ea17b6e0b9c43a008ab818e]: Textual amendment: [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/1994/19/schedule/15/paragraph/26) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 28](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/28)
+[^c-a28e66340ea17b6e0b9c43a008ab818e]: Textual amendment: [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/1994/19/schedule/15/paragraph/26) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 28](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/28)
 
 [^c20991801]: Textual amendment: [Sch. 15 para. 30](https://www.legislation.gov.uk/ukpga/1994/19/schedule/15/paragraph/30) repealed (27.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [128](https://www.legislation.gov.uk/ukpga/2003/26/section/128), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/3034/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/1)
 

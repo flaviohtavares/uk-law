@@ -25,10 +25,10 @@ summary: ''
 - (a) promotes the spiritual, moral, cultural, mental and physical development of pupils at the school and of society, and
 - (b) prepares pupils at the school for the opportunities, responsibilities and experiences of later life.
 
-(2)[^key-7cdf30c21b29be6e7147ba8badb354ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7cdf30c21b29be6e7147ba8badb354ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c380662]: Commencement: S. 78 wholly in force at 1.10.2002; s. 78 not in force at Royal Assent, see s. 216; s. 78 in force for certain purposes at 26.7.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 2](https://www.legislation.gov.uk/uksi/2002/2002/article/2) and at 1.10.2002 insofar as not already in force by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 2](https://www.legislation.gov.uk/uksi/2002/2439/article/2) (with transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-7cdf30c21b29be6e7147ba8badb354ae]: Textual amendment: S. 78(2) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/5), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-7cdf30c21b29be6e7147ba8badb354ae]: Textual amendment: S. 78(2) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/5), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))

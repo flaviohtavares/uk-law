@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. On-demand programme services: accessibility for people with disabilities[^key-83cace1c3758ef578c5da4dcf1c725fd]
+## 93. On-demand programme services: accessibility for people with disabilities[^c-83cace1c3758ef578c5da4dcf1c725fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83cace1c3758ef578c5da4dcf1c725fd]: Textual amendment: S. 93 omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/40/2), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/r)
+[^c-83cace1c3758ef578c5da4dcf1c725fd]: Textual amendment: S. 93 omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/40/2), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/r)

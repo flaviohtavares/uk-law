@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Amendment of Commission Regulation [(EC) No. 282/2008](https://www.legislation.gov.uk/eur/2008/282) on recycled plastic materials and articles intended to come into contact with foods and amending Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023)[^key-8375ef99bbd3ff6842401a88d299262b]
+## 70. Amendment of Commission Regulation [(EC) No. 282/2008](https://www.legislation.gov.uk/eur/2008/282) on recycled plastic materials and articles intended to come into contact with foods and amending Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023)[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)
+[^c-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130F. Arrangements under section 130E for Welsh qualifying compulsory patients[^key-4cd18775133f76873c5965abc3eb44e1]
+## 130F. Arrangements under section 130E for Welsh qualifying compulsory patients[^c-4cd18775133f76873c5965abc3eb44e1]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cd18775133f76873c5965abc3eb44e1]: Textual amendment: S. 130F inserted (15.2.2011 for specified purposes, 3.1.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-4cd18775133f76873c5965abc3eb44e1]: Textual amendment: S. 130F inserted (15.2.2011 for specified purposes, 3.1.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 32](https://www.legislation.gov.uk/mwa/2010/7/section/32), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 2(b)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/b) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

@@ -30,7 +30,7 @@ summary: ''
 
 and a person guilty of an offence under that section in relation to a vessel shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(2A)[^key-8945cb2fabfd095acd1e25ff602d20c9] A smoke control order made under section 18 by a local authority in England may provide for vessels which are moored in the smoke control area to be subject to the operation of Schedule 1A.
+(2A)[^c-8945cb2fabfd095acd1e25ff602d20c9] A smoke control order made under section 18 by a local authority in England may provide for vessels which are moored in the smoke control area to be subject to the operation of Schedule 1A.
 
 (2B) For the purposes of a smoke control order which so provides—
 
@@ -52,4 +52,4 @@ and a person guilty of an offence under that section in relation to a vessel sha
 
 ## Annotations
 
-[^key-8945cb2fabfd095acd1e25ff602d20c9]: Textual amendment: [S. 44(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1993/11/section/44/2A) inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/7) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-8945cb2fabfd095acd1e25ff602d20c9]: Textual amendment: [S. 44(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1993/11/section/44/2A) inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/7) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)

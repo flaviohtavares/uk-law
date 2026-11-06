@@ -72,7 +72,7 @@ A local authority in England [^c18135181] which has received a copy of a report 
 
 ## 3. Publication of a written statement of proposed action
 
-A local authority in England which has received a copy of a report under section 137 of the Act must, within 70 working days of receiving that report, or as soon as is reasonably practicable,[^key-a074f09baceafc7964cb5bfecef43018] publish a written statement of action which they propose to take in the light of the report (a “written statement”) by—
+A local authority in England which has received a copy of a report under section 137 of the Act must, within 70 working days of receiving that report, or as soon as is reasonably practicable,[^c-a074f09baceafc7964cb5bfecef43018] publish a written statement of action which they propose to take in the light of the report (a “written statement”) by—
 
 - (a) sending a copy of the written statement to—
   - (i) the Chief Inspector, and
@@ -105,4 +105,4 @@ Regulation 3 specifies the manner and period of time within which an authority m
 
 [^c18135191]: Marginal citation: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31).
 
-[^key-a074f09baceafc7964cb5bfecef43018]: Textual amendment: Words in reg. 3 inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/445/regulation/7) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-a074f09baceafc7964cb5bfecef43018]: Textual amendment: Words in reg. 3 inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/445/regulation/7) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))

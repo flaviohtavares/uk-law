@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 394. Meaning of “liable schemes”[^key-c88a9848a934e044697ebad76befa38f]
+## 394. Meaning of “liable schemes”[^c-c88a9848a934e044697ebad76befa38f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c88a9848a934e044697ebad76befa38f]: Commencement: Art. 394 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c88a9848a934e044697ebad76befa38f]: Commencement: Art. 394 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

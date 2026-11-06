@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2011 (revoked)[^key-60f217999ff51b3f7c87bbc92f5c64a7]
+The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2011 (revoked)[^c-60f217999ff51b3f7c87bbc92f5c64a7]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st December 2011
 
-[^key-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-60f217999ff51b3f7c87bbc92f5c64a7]
+## 1. Citation and commencement[^c-60f217999ff51b3f7c87bbc92f5c64a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Part 8 of the Financial Services and Markets Act 2000[^key-60f217999ff51b3f7c87bbc92f5c64a7]
+## 2. Amendment of Part 8 of the Financial Services and Markets Act 2000[^c-60f217999ff51b3f7c87bbc92f5c64a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60f217999ff51b3f7c87bbc92f5c64a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60f217999ff51b3f7c87bbc92f5c64a7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2928) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-60f217999ff51b3f7c87bbc92f5c64a7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2928) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

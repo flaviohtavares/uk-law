@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Temporary restrictions on successor company’s borrowings etc.[^key-4ae0aeda8e7370a753f3685ee7dfb508]
+## 9. Temporary restrictions on successor company’s borrowings etc.[^c-4ae0aeda8e7370a753f3685ee7dfb508]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae0aeda8e7370a753f3685ee7dfb508]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1986/31/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-4ae0aeda8e7370a753f3685ee7dfb508]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1986/31/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

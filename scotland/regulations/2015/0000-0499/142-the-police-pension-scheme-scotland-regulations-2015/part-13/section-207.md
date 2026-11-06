@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 207. Forfeiture: appeals to tribunal[^key-5e66eb31dbaca0fefb4981dc4fa4c65f]
+## 207. Forfeiture: appeals to tribunal[^c-5e66eb31dbaca0fefb4981dc4fa4c65f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e66eb31dbaca0fefb4981dc4fa4c65f]: Commencement: Reg. 207 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5e66eb31dbaca0fefb4981dc4fa4c65f]: Commencement: Reg. 207 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

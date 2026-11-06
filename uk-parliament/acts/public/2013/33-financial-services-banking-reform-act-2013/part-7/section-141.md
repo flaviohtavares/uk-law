@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Minor amendments[^key-f45ef49438a77ca28bda53b212d68cda][^key-43db3b8c60cef5a8017d1455556b3382]
+## 141. Minor amendments[^c-f45ef49438a77ca28bda53b212d68cda][^c-43db3b8c60cef5a8017d1455556b3382]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 10 (which contains amendments of, or connected with, the Financial Serv
 
 ## Annotations
 
-[^key-f45ef49438a77ca28bda53b212d68cda]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2013/33/section/141) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/c)
+[^c-f45ef49438a77ca28bda53b212d68cda]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2013/33/section/141) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/c)
 
-[^key-43db3b8c60cef5a8017d1455556b3382]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2013/33/section/141) in force at 1.4.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/2/b)
+[^c-43db3b8c60cef5a8017d1455556b3382]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2013/33/section/141) in force at 1.4.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/2/b)

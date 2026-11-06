@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Complaints about water services and sewerage services providers[^key-5a03811bb7dcde457ef2d591f276563d]
+## 131. Complaints about water services and sewerage services providers[^c-5a03811bb7dcde457ef2d591f276563d]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ In the Water Services etc. (Scotland) Act 2005 (asp 3), after section 11 insertâ
 
 ## Annotations
 
-[^key-5a03811bb7dcde457ef2d591f276563d]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2010/8/section/131) in force at 15.8.2011 by [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c)
+[^c-5a03811bb7dcde457ef2d591f276563d]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2010/8/section/131) in force at 15.8.2011 by [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.26. Title of proceedings[^key-939925ef081dcc32779e5f5cd6d25810]
+## 7.26. Title of proceedings[^c-939925ef081dcc32779e5f5cd6d25810]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-939925ef081dcc32779e5f5cd6d25810]: Commencement: [Rule 7.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-939925ef081dcc32779e5f5cd6d25810]: Commencement: [Rule 7.26](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.26) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

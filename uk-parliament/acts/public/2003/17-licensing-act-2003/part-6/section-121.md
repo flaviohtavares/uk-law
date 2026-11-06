@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 121. Determination of application for renewal[^key-128a48b2c5b591d2c7061dec6edd25e1]
+## 121. Determination of application for renewal[^c-128a48b2c5b591d2c7061dec6edd25e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-128a48b2c5b591d2c7061dec6edd25e1]: Textual amendment: S. 121 omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/6) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-128a48b2c5b591d2c7061dec6edd25e1]: Textual amendment: S. 121 omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/6) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)

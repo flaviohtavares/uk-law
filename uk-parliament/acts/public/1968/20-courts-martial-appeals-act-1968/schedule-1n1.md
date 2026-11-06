@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Provisions as to Retrial[^key-84683598a1fa00aa958475bdfa41cf5f]
+## SCHEDULE 1 — Provisions as to Retrial[^c-84683598a1fa00aa958475bdfa41cf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ Section 20
 
 ## Annotations
 
-[^key-84683598a1fa00aa958475bdfa41cf5f]: Textual amendment: Sch. 1 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/54); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-84683598a1fa00aa958475bdfa41cf5f]: Textual amendment: Sch. 1 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/54); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**40.**[^key-109260fa79d28d9c740627715f8573e2] (1) Regulation 3 of the Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Legal Separations) (England and Wales and Northern Ireland) Regulations 2005[^f00067] is amended as follows.
+**40.**[^c-109260fa79d28d9c740627715f8573e2] (1) Regulation 3 of the Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Legal Separations) (England and Wales and Northern Ireland) Regulations 2005[^f00067] is amended as follows.
 
 (2) In the heading, for “between two people of the same sex” substitute “of the sort in question”.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-109260fa79d28d9c740627715f8573e2]: Commencement: Reg. 40 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-109260fa79d28d9c740627715f8573e2]: Commencement: Reg. 40 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00067]: Footnote: [S.I. 2005/3104](https://www.legislation.gov.uk/uksi/2005/3104).

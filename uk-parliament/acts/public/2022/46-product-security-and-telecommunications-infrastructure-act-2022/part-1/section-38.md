@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. The relevant maximum[^key-ee6a52ffceaa8bec7c7101a1023e9327][^key-25c9127b59ad0ddd2af70d1d302e6e48]
+## 38. The relevant maximum[^c-ee6a52ffceaa8bec7c7101a1023e9327][^c-25c9127b59ad0ddd2af70d1d302e6e48]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ This is subject to subsections (2) to (6).
 
 ## Annotations
 
-[^key-ee6a52ffceaa8bec7c7101a1023e9327]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-ee6a52ffceaa8bec7c7101a1023e9327]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-25c9127b59ad0ddd2af70d1d302e6e48]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/46/section/38) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-25c9127b59ad0ddd2af70d1d302e6e48]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/46/section/38) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

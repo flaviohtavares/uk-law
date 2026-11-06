@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A (Extent: W). Fire and rescue authorities in Wales: performance and governance (Extent: W)[^key-2b0d93359f4458eb9704e1eba0fd6e39]
+## 21A (Extent: W). Fire and rescue authorities in Wales: performance and governance (Extent: W)[^c-2b0d93359f4458eb9704e1eba0fd6e39]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b0d93359f4458eb9704e1eba0fd6e39]: Textual amendment: S. 21A inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 167(2)](https://www.legislation.gov.uk/asc/2021/1/section/167/2), [175(3)(s)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/s)
+[^c-2b0d93359f4458eb9704e1eba0fd6e39]: Textual amendment: S. 21A inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 167(2)](https://www.legislation.gov.uk/asc/2021/1/section/167/2), [175(3)(s)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/s)

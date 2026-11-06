@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may, for any purpose related to provision that is made by this Chapter, or any purpose for which provision may be made under this Chapter, modify—
 
-- (a) a condition of a particular licence under section 6(1)(a) to (e) of EA 1989 (generation, transmission, distribution, supply , electricity system operator[^key-3549f14c0fbfc1bc80b412c62afdaf26] and interconnector licences);
+- (a) a condition of a particular licence under section 6(1)(a) to (e) of EA 1989 (generation, transmission, distribution, supply , electricity system operator[^c-3549f14c0fbfc1bc80b412c62afdaf26] and interconnector licences);
 - (b) the standard conditions incorporated in licences under those provisions by virtue of section 8A of that Act;
 - (c) a document maintained in accordance with the conditions of licences under those provisions, or an agreement that gives effect to a document so maintained.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3549f14c0fbfc1bc80b412c62afdaf26]: Textual amendment: Words in s. 37(1)(a) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/5); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-3549f14c0fbfc1bc80b412c62afdaf26]: Textual amendment: Words in s. 37(1)(a) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/5); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

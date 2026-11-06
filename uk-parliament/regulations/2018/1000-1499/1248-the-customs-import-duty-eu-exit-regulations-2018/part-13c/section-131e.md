@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131E. Other listed locations[^key-d456698f7c6b0627bf2fb112c1ac950d]
+## 131E. Other listed locations[^c-d456698f7c6b0627bf2fb112c1ac950d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Except in cases of urgency, a listing must not have effect earlier than 30 days after the date on which the listing is made.
 
-(5) HMRC may vary or cancel any listing and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing[^key-cefc7af17363665de86db5ad6720a181] and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing[^key-86b32ec21110dc3d00cd8771c8530b13].
+(5) HMRC may vary or cancel any listing and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing[^c-cefc7af17363665de86db5ad6720a181] and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing[^c-86b32ec21110dc3d00cd8771c8530b13].
 
 (6) A notice must further—
 
@@ -40,11 +40,11 @@ summary: ''
 
 ## Annotations
 
-[^key-d456698f7c6b0627bf2fb112c1ac950d]: Textual amendment: Pt. 13C inserted (1.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d456698f7c6b0627bf2fb112c1ac950d]: Textual amendment: Pt. 13C inserted (1.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/3), [3(15)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/3/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cefc7af17363665de86db5ad6720a181]: Textual amendment: Words in [reg. 131E(5)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131E/5) inserted (4.8.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/830)](https://www.legislation.gov.uk/uksi/2021/830), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/830/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2021/830/regulation/2/6)
+[^c-cefc7af17363665de86db5ad6720a181]: Textual amendment: Words in [reg. 131E(5)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131E/5) inserted (4.8.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/830)](https://www.legislation.gov.uk/uksi/2021/830), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/830/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2021/830/regulation/2/6)
 
-[^key-86b32ec21110dc3d00cd8771c8530b13]: Textual amendment: Words in [reg. 131E(5)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131E/5) inserted (22.12.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/6)
+[^c-86b32ec21110dc3d00cd8771c8530b13]: Textual amendment: Words in [reg. 131E(5)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131E/5) inserted (22.12.2021) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/6)
 
 [^M_F_7e047b7a-e92e-43c8-b0c0-3d1c4ef8769c]: Textual amendment: Word in reg. 131E(6)(a) inserted (1.1.2022) by (1.1.2022) by [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/7/c)
 

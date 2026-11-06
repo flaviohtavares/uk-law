@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Sealing of receptacles[^key-240d426c34041c9fda88eed8b12b1ef0]
+## 40. Sealing of receptacles[^c-240d426c34041c9fda88eed8b12b1ef0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In regulation 89(1) omit the “and” preceding sub-paragraph (d) and after sub
 
 ## Annotations
 
-[^key-240d426c34041c9fda88eed8b12b1ef0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2006/2910/regulation/40) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-240d426c34041c9fda88eed8b12b1ef0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2006/2910/regulation/40) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

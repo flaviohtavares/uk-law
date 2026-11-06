@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-### PART 1 — Streets subject to permanent street works[^key-75086e8134dd0b7549d116c8f3cb1e50]
+### PART 1 — Streets subject to permanent street works[^c-75086e8134dd0b7549d116c8f3cb1e50]
 
 Articles 10 and 11
 
@@ -38,7 +38,7 @@ Articles 10 and 11
 | In the County of Flintshire | Holywell Road | Works for the installation and maintenance of access for Work Nos. 41 and 41C between points marked 18-KK and 18-JJ on sheet 18 of the access and rights of way plans |
 | In the County of Flintshire | Alt-Goch Lane | Works for the installation and maintenance of access for Work Nos. 48 and 49 between points marked 22-K and 22-L on sheet 22 of the access and rights of way plans |
 
-### PART 2 — Streets subject to temporary street works[^key-45049c76758959532798c1ef87e53f20]
+### PART 2 — Streets subject to temporary street works[^c-45049c76758959532798c1ef87e53f20]
 
 Article 10
 
@@ -94,6 +94,6 @@ Article 10
 
 ## Annotations
 
-[^key-75086e8134dd0b7549d116c8f3cb1e50]: Commencement: Sch. 3 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-75086e8134dd0b7549d116c8f3cb1e50]: Commencement: Sch. 3 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-45049c76758959532798c1ef87e53f20]: Commencement: Sch. 3 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-45049c76758959532798c1ef87e53f20]: Commencement: Sch. 3 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

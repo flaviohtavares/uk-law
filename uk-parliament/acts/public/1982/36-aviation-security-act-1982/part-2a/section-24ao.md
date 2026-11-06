@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24AO. Powers of Secretary of State in relation to disputes[^key-60eb6c2fea269d569f8c613a4608a22d]
+## 24AO. Powers of Secretary of State in relation to disputes[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ to take such steps as the Secretary of State thinks may assist to resolve the di
 
 ## Annotations
 
-[^key-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)

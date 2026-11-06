@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Fixed term employment[^key-201788f87d99fd79b7ee72f2aad28866]
+## 282. Fixed term employment[^c-201788f87d99fd79b7ee72f2aad28866]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-201788f87d99fd79b7ee72f2aad28866]: Textual amendment: [S. 282](https://www.legislation.gov.uk/ukpga/1992/52/section/282) substituted (with application in accordance with art. 2 of the amending S.I.) by [The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013 (S.I. 2013/763)](https://www.legislation.gov.uk/uksi/2013/763), [arts. 1](https://www.legislation.gov.uk/uksi/2013/763/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/763/article/3/4)
+[^c-201788f87d99fd79b7ee72f2aad28866]: Textual amendment: [S. 282](https://www.legislation.gov.uk/ukpga/1992/52/section/282) substituted (with application in accordance with art. 2 of the amending S.I.) by [The Trade Union and Labour Relations (Consolidation) Act 1992 (Amendment) Order 2013 (S.I. 2013/763)](https://www.legislation.gov.uk/uksi/2013/763), [arts. 1](https://www.legislation.gov.uk/uksi/2013/763/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/763/article/3/4)

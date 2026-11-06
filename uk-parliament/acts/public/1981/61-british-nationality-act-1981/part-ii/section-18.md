@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Acquisition by naturalisation.[^key-20c48a92622b7f09e11c7c4baf6f21cc]
+## 18. Acquisition by naturalisation.[^c-20c48a92622b7f09e11c7c4baf6f21cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3) Every application under this section shall specify the British overseas territory[^c16728361] which is to be treated as the relevant territory for the purposes of that application; and, in relation to any such application, references in Schedule 1 to the relevant territory shall be construed accordingly.
 
-(4)[^key-95086e41e37e89d05ef7524b0c48c9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-95086e41e37e89d05ef7524b0c48c9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-20c48a92622b7f09e11c7c4baf6f21cc]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1981/61/section/18) restricted (20.7.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/33/2/b), [68(3)(a)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/a) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
+[^c-20c48a92622b7f09e11c7c4baf6f21cc]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1981/61/section/18) restricted (20.7.2023) by [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/33/2/b), [68(3)(a)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/a) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
 
 [^c16762251]: Textual amendment: Words in. s. 18 substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/2/b)
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c16728361]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/ukpga/1981/61/section/18/3) substituted (26.2.2002) by [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/b)
 
-[^key-95086e41e37e89d05ef7524b0c48c9fd]: Textual amendment: [S. 18(4)](https://www.legislation.gov.uk/ukpga/1981/61/section/18/4) omitted (2.12.2025) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 42(2)(j)](https://www.legislation.gov.uk/ukpga/2025/31/section/42/2/j), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-95086e41e37e89d05ef7524b0c48c9fd]: Textual amendment: [S. 18(4)](https://www.legislation.gov.uk/ukpga/1981/61/section/18/4) omitted (2.12.2025) by virtue of [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 42(2)(j)](https://www.legislation.gov.uk/ukpga/2025/31/section/42/2/j), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

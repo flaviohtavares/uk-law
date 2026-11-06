@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2008 (revoked)[^key-f1088b2cca91338296f969031dd6574b]
+The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2008 (revoked)[^c-f1088b2cca91338296f969031dd6574b]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st September 2008
 
-[^key-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f1088b2cca91338296f969031dd6574b]
+## 1. Citation, commencement and interpretation[^c-f1088b2cca91338296f969031dd6574b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed early years provision[^key-f1088b2cca91338296f969031dd6574b]
+## 2. Prescribed early years provision[^c-f1088b2cca91338296f969031dd6574b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed periods[^key-f1088b2cca91338296f969031dd6574b]
+## 3. Prescribed periods[^c-f1088b2cca91338296f969031dd6574b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed ages[^key-f1088b2cca91338296f969031dd6574b]
+## 4. Prescribed ages[^c-f1088b2cca91338296f969031dd6574b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1088b2cca91338296f969031dd6574b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1088b2cca91338296f969031dd6574b]: Textual amendment: Regulations revoked (1.9.2013) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (S.I. 2012/2488)](https://www.legislation.gov.uk/uksi/2012/2488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/5/a)
+[^c-f1088b2cca91338296f969031dd6574b]: Textual amendment: Regulations revoked (1.9.2013) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (S.I. 2012/2488)](https://www.legislation.gov.uk/uksi/2012/2488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/2488/regulation/5/a)

@@ -62,16 +62,16 @@ Article 2(3) to (5)
 
   Aldwark, Birchover, Stanton.
 
-### PART 3 — Article 2(5) land[^key-7a8859c154a8bcbeb617678232c92228]
+### PART 3 — Article 2(5) land[^c-7a8859c154a8bcbeb617678232c92228]
 
 **No longer in force.**
 
-**3.**[^key-7a8859c154a8bcbeb617678232c92228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7a8859c154a8bcbeb617678232c92228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7a8859c154a8bcbeb617678232c92228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7a8859c154a8bcbeb617678232c92228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c22501281]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 41 was amended by sections 20 and 24 of, and Schedules 3 and 4 to, the [Agriculture Act 1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49), [Schedule 3](https://www.legislation.gov.uk/ukpga/1986/49/schedule/3) to the [Norfolk and Suffolk Broads Act 1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), [Schedule 10](https://www.legislation.gov.uk/ukpga/1988/4/schedule/10) to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and Schedules 11 and 12 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments not relevant to this Order.
 
-[^key-7a8859c154a8bcbeb617678232c92228]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2015/596/schedule/1/part/3) omitted (31.5.2019) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [art. 7(2)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/7/2/ii)
+[^c-7a8859c154a8bcbeb617678232c92228]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2015/596/schedule/1/part/3) omitted (31.5.2019) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [art. 7(2)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/7/2/ii)

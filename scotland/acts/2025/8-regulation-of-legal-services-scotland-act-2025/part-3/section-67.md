@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Conduct or regulatory complaint appears to relevant professional organisation during investigation to be services complaint[^key-59ee27f3b6208d7999c88c5130b75157]
+## 67. Conduct or regulatory complaint appears to relevant professional organisation during investigation to be services complaint[^c-59ee27f3b6208d7999c88c5130b75157]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59ee27f3b6208d7999c88c5130b75157]: Commencement: S. 67 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-59ee27f3b6208d7999c88c5130b75157]: Commencement: S. 67 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

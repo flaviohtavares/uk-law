@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Disclosure of interests in shares: interests to be disregarded[^key-f443b86ecdb9f7ba8acbabda7fca221b]
+## 9. Disclosure of interests in shares: interests to be disregarded[^c-f443b86ecdb9f7ba8acbabda7fca221b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ For section 209(2) of the 1985 Act (interests in shares to be disregarded for pu
 
 ## Annotations
 
-[^key-f443b86ecdb9f7ba8acbabda7fca221b]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f443b86ecdb9f7ba8acbabda7fca221b]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00016]: Footnote: Substituted by [S.I. 1993/1819](https://www.legislation.gov.uk/uksi/1993/1819), regulation 8; subsection (2) amended by [S.I. 1993/2689](https://www.legislation.gov.uk/uksi/1993/2689), regulation 3.

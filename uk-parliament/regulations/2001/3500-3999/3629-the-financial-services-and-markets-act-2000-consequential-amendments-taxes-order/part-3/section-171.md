@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. General investment rules[^key-c6809a8e3e0770cde7993eef60c11d39]
+## 171. General investment rules[^c-c6809a8e3e0770cde7993eef60c11d39]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6809a8e3e0770cde7993eef60c11d39]: Commencement: Art. 171 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-c6809a8e3e0770cde7993eef60c11d39]: Commencement: Art. 171 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00146]: Footnote: This sourcebook is part of the FSA Handbook. The FSA Handbook may be purchased on paper and on CD Rom from the Publications Department (Sales), Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS and is available on line at www.fsa.gov.uk.

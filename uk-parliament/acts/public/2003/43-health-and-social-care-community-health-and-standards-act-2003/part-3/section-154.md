@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Payment of NHS charges[^key-3d1f60a2e38eb5de8fb36d656c547fa4][^key-bddf1ce7d067ee5d385484f2ab51f878]
+## 154. Payment of NHS charges[^c-3d1f60a2e38eb5de8fb36d656c547fa4][^c-bddf1ce7d067ee5d385484f2ab51f878]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d1f60a2e38eb5de8fb36d656c547fa4]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2003/43/section/154) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-3d1f60a2e38eb5de8fb36d656c547fa4]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2003/43/section/154) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
 
-[^key-bddf1ce7d067ee5d385484f2ab51f878]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2003/43/section/154) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-bddf1ce7d067ee5d385484f2ab51f878]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2003/43/section/154) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)

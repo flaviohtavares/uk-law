@@ -22,7 +22,7 @@ summary: ''
 
 (1) Schedule 1 (which consists primarily of the re-enactment, with consequential amendments and minor modifications, of provisions of section 6 of Family Law Reform Act 1969[^c15160181] the Guardianship of Minors Acts 1971 and 1973, the [^c15160191]Children Act 1975 and of sections 15 and 16 of the [^c15160201]Family Law Reform Act 1987) makes provision in relation to financial relief for children.
 
-(2)[^key-e5224bb1e52ae28a9e2d85c102570545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e5224bb1e52ae28a9e2d85c102570545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c15160201]: Marginal citation: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42).
 
-[^key-e5224bb1e52ae28a9e2d85c102570545]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/1989/41/section/15/2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 105](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/105); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-e5224bb1e52ae28a9e2d85c102570545]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/1989/41/section/15/2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 105](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/105); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

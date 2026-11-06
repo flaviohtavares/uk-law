@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Government requirements for licensed services[^key-0383bd6fd3de19821da0c32e3f12848e]
+## 336. Government requirements for licensed services[^c-0383bd6fd3de19821da0c32e3f12848e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A direction under this subsection is a direction to the holders of the Broadcasting Act licences specified in the notice under subsection (1) to include an announcement so specified in their licensed services.
 
-(3)[^key-0690409200438bff998a05bf1e01f74f] The direction—
+(3)[^c-0690409200438bff998a05bf1e01f74f] The direction—
 
 - (a) may specify the times at which the announcement is to be broadcast or otherwise transmitted; and
 - (b) where the announcement relates to an emergency, including a natural disaster, must require the information given in the announcement to be provided in a manner which is accessible to people with disabilities.
@@ -49,6 +49,6 @@ the holder of the licence in question may include in the licensed service an ann
 
 ## Annotations
 
-[^key-0383bd6fd3de19821da0c32e3f12848e]: Commencement: S. 336 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0383bd6fd3de19821da0c32e3f12848e]: Commencement: S. 336 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0690409200438bff998a05bf1e01f74f]: Textual amendment: [S. 336(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/336/3) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/1062/regulation/16) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-0690409200438bff998a05bf1e01f74f]: Textual amendment: [S. 336(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/336/3) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/1062/regulation/16) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

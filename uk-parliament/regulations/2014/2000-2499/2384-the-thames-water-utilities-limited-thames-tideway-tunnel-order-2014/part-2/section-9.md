@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Transfer of benefit of Order[^key-893631c676cf2bec7838815218c90640]
+## 9. Transfer of benefit of Order[^c-893631c676cf2bec7838815218c90640]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-893631c676cf2bec7838815218c90640]: Commencement: Art. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-893631c676cf2bec7838815218c90640]: Commencement: Art. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

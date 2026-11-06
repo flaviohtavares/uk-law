@@ -31,7 +31,7 @@ summary: ''
 
 Road Traffic And Vehicles
 
-The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-59b800872f9eff88915469a5235a122e]
+The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-59b800872f9eff88915469a5235a122e]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st April 2009
 
-[^key-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-59b800872f9eff88915469a5235a122e]
+## 1. Citation and commencement[^c-59b800872f9eff88915469a5235a122e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^key-59b800872f9eff88915469a5235a122e]
+## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^c-59b800872f9eff88915469a5235a122e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-59b800872f9eff88915469a5235a122e]
+## 3. Revocation[^c-59b800872f9eff88915469a5235a122e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59b800872f9eff88915469a5235a122e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59b800872f9eff88915469a5235a122e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/72) revoked (1.10.2023) by [The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/125)](https://www.legislation.gov.uk/nisr/2023/125), [regs. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1), [3](https://www.legislation.gov.uk/nisr/2023/125/regulation/3)
+[^c-59b800872f9eff88915469a5235a122e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/72) revoked (1.10.2023) by [The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/125)](https://www.legislation.gov.uk/nisr/2023/125), [regs. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1), [3](https://www.legislation.gov.uk/nisr/2023/125/regulation/3)

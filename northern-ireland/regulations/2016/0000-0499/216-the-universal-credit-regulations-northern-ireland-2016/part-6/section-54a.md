@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54A. Transitional provision – temporary de minimis period[^key-f2785bf8f6a87b8c4c2352c46bfbf450]
+## 54A. Transitional provision – temporary de minimis period[^c-f2785bf8f6a87b8c4c2352c46bfbf450]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2785bf8f6a87b8c4c2352c46bfbf450]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/nisr/2016/216/regulation/54A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(9)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/9)
+[^c-f2785bf8f6a87b8c4c2352c46bfbf450]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/nisr/2016/216/regulation/54A) inserted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(9)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/9)

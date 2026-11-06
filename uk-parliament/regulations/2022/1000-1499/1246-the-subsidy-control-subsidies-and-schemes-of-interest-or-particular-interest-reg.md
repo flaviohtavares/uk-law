@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by sections 11(1), (
 
 In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-9d27263320ae196f39b95603e714a4f6]
+## 1. Citation, commencement and extent[^c-9d27263320ae196f39b95603e714a4f6]
 
 (1) These Regulations may be cited as the Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) Regulations 2022.
 
@@ -52,7 +52,7 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-26d42c33af10fbeab6023236934d7217]
+## 2. Interpretation[^c-26d42c33af10fbeab6023236934d7217]
 
 (1) In these Regulations—
 
@@ -69,14 +69,14 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 
 (3) For the purposes of regulations 3(2) to (4) and 4(2), the amount of any subsidy is to be determined in accordance with regulation 7.
 
-## 3. Subsidy, or subsidy scheme, of particular interest[^key-72bc0664f58f1016d6f1fcf23a404e4c]
+## 3. Subsidy, or subsidy scheme, of particular interest[^c-72bc0664f58f1016d6f1fcf23a404e4c]
 
 (1) A subsidy[^f00003] is a subsidy of particular interest if paragraph (2), (3), (4) or (5) applies to the subsidy.
 
 (2) This paragraph applies to a subsidy if—
 
 - (a) the amount of the subsidy exceeds £1 million,
-- (b) the total amount of the subsidy and any other related subsidy given to the same enterprise[^f00004] within the applicable period exceeds £25 million,[^key-24115d446721f1209911030bb18a3569] and
+- (b) the total amount of the subsidy and any other related subsidy given to the same enterprise[^f00004] within the applicable period exceeds £25 million,[^c-24115d446721f1209911030bb18a3569] and
 - (c) none of the provisions mentioned in regulation 4(4) applies to the giving of the subsidy.
 
 (3) This paragraph applies to a subsidy if—
@@ -99,7 +99,7 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 
 (6) A subsidy scheme is a subsidy scheme of particular interest if it allows for one or more subsidies of particular interest to be given under it.
 
-## 4. Subsidy, or subsidy scheme, of interest[^key-ff67731e70204576f6cafa7e0c6b3692]
+## 4. Subsidy, or subsidy scheme, of interest[^c-ff67731e70204576f6cafa7e0c6b3692]
 
 (1) A subsidy is a subsidy of interest if—
 
@@ -123,7 +123,7 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 - (a) it is not a subsidy scheme of particular interest within the meaning of regulation 3(6), and
 - (b) it allows for one or more subsidies of interest to be given under it.
 
-## 5. Related subsidies[^key-9784ea6641e4eb2783bbbac46b910dcb]
+## 5. Related subsidies[^c-9784ea6641e4eb2783bbbac46b910dcb]
 
 (1) This regulation applies for the purposes of regulations 3(2)(b) and (3)(b) and 4(2).
 
@@ -147,7 +147,7 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 - (b) the “current financial year” is the financial year in which the subsidy is given, and
 - (c) the “elapsed part” of that year is so much of it as has passed at the time it is given.
 
-## 6. Sensitive sectors[^key-532830f521cf8a8ece2cbcd4e0429757]
+## 6. Sensitive sectors[^c-532830f521cf8a8ece2cbcd4e0429757]
 
 (1) This regulation applies for the purposes of regulation 3(3)(c).
 
@@ -167,7 +167,7 @@ In accordance with section 87(3) of the Subsidy Control Act 2022, a draft of the
 - (b) number of employees;
 - (c) geographical location.
 
-## 7. Amount of subsidy[^key-9ba6bc616a21010a5a724b4eb3811d5e]
+## 7. Amount of subsidy[^c-9ba6bc616a21010a5a724b4eb3811d5e]
 
 (1) If a subsidy is provided in cash, the gross cash amount[^f00006] given is to be used in determining the amount of the subsidy.
 
@@ -181,7 +181,7 @@ Department for Business, Energy and Industrial Strategy
 
 28th November 2022
 
-## SCHEDULE[^key-1bece2d2fd1d57d5814459412f1f1ef2]
+## SCHEDULE[^c-1bece2d2fd1d57d5814459412f1f1ef2]
 
 Regulation 2(1)
 
@@ -210,30 +210,30 @@ A full impact assessment has not been produced for this instrument as the effect
 
 [^f00001]: Footnote: [2022 c. 23](https://www.legislation.gov.uk/ukpga/2022/23).
 
-[^key-9d27263320ae196f39b95603e714a4f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-9d27263320ae196f39b95603e714a4f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
-[^key-26d42c33af10fbeab6023236934d7217]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1246/regulation/2) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-26d42c33af10fbeab6023236934d7217]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1246/regulation/2) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
 [^f00002]: Footnote: For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales NP10 8XG (tel: +44 (0)1329 444970; email: Classifications.helpdesk@ons.gsi.gov.uk. For an electronic copy, see: https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
 
-[^key-72bc0664f58f1016d6f1fcf23a404e4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1246/regulation/3) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-72bc0664f58f1016d6f1fcf23a404e4c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1246/regulation/3) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
 [^f00003]: Footnote: “**subsidy**” has the meaning given by section 2(1) of the Subsidy Control Act 2022.
 
 [^f00004]: Footnote: “**enterprise**” has the meaning given by section 7 of the Subsidy Control Act 2022.
 
-[^key-24115d446721f1209911030bb18a3569]: Textual amendment: Sum in reg. 3(2)(b) substituted (4.8.2025) by [The Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) (Amendment) Regulations 2025 (S.I. 2025/845)](https://www.legislation.gov.uk/uksi/2025/845), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/845/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/845/regulation/2)
+[^c-24115d446721f1209911030bb18a3569]: Textual amendment: Sum in reg. 3(2)(b) substituted (4.8.2025) by [The Subsidy Control (Subsidies and Schemes of Interest or Particular Interest) (Amendment) Regulations 2025 (S.I. 2025/845)](https://www.legislation.gov.uk/uksi/2025/845), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/845/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/845/regulation/2)
 
-[^key-ff67731e70204576f6cafa7e0c6b3692]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1246/regulation/4) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-ff67731e70204576f6cafa7e0c6b3692]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1246/regulation/4) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
-[^key-9784ea6641e4eb2783bbbac46b910dcb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1246/regulation/5) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-9784ea6641e4eb2783bbbac46b910dcb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1246/regulation/5) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
 [^f00005]: Footnote: “**public authority**” has the meaning given by section 6(1) of the Subsidy Control Act 2022.
 
-[^key-532830f521cf8a8ece2cbcd4e0429757]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1246/regulation/6) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-532830f521cf8a8ece2cbcd4e0429757]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1246/regulation/6) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
-[^key-9ba6bc616a21010a5a724b4eb3811d5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1246/regulation/7) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-9ba6bc616a21010a5a724b4eb3811d5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1246/regulation/7) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
 
 [^f00006]: Footnote: Section 82(1) of the Subsidy Control Act 2022 provides that the Secretary of State may by regulations make provision about how the gross cash amount, and the gross cash equivalent amount, is to be determined for the purposes of these Regulations.
 
-[^key-1bece2d2fd1d57d5814459412f1f1ef2]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2022/1246/schedule) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)
+[^c-1bece2d2fd1d57d5814459412f1f1ef2]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2022/1246/schedule) in force at 4.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1246/regulation/1/2)

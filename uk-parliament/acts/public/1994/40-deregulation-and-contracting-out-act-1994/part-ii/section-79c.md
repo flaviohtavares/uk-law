@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79C. Regulations for the purposes of section 79A and 79B[^key-ddbfa973b44ad00b92b87b50c2c353ff]
+## 79C. Regulations for the purposes of section 79A and 79B[^c-ddbfa973b44ad00b92b87b50c2c353ff]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-471704c8e0a4241ac8eb9b4071ec6740] The Secretary of State may by regulations made by statutory instrument specify for the purposes of section 79A(q) or 79B(h) any body which is (or any class of bodies each of which is)–
+(1)[^c-471704c8e0a4241ac8eb9b4071ec6740] The Secretary of State may by regulations made by statutory instrument specify for the purposes of section 79A(q) or 79B(h) any body which is (or any class of bodies each of which is)–
 
 - (a) a levying body, within the meaning of section 74 of the Local Government Finance Act 1988;
 - (b) a body to which section 75 of that Act applies (bodies with power to issue special levies);
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddbfa973b44ad00b92b87b50c2c353ff]: Textual amendment: Ss. 79A-79C inserted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 239(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/239/3), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))
+[^c-ddbfa973b44ad00b92b87b50c2c353ff]: Textual amendment: Ss. 79A-79C inserted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 239(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/239/3), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))
 
-[^key-471704c8e0a4241ac8eb9b4071ec6740]: Modification: S. 79C(1) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [33(2)](https://www.legislation.gov.uk/uksi/2018/644/article/33/2)
+[^c-471704c8e0a4241ac8eb9b4071ec6740]: Modification: S. 79C(1) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [33(2)](https://www.legislation.gov.uk/uksi/2018/644/article/33/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4. Deputy judge: appointment and term of office[^key-f9df234e5bf1712958b01a8c05b9125d]
+## 4. Deputy judge: appointment and term of office[^c-f9df234e5bf1712958b01a8c05b9125d]
 
 *Extent: E*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9df234e5bf1712958b01a8c05b9125d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/3/section/4) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f9df234e5bf1712958b01a8c05b9125d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/3/section/4) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

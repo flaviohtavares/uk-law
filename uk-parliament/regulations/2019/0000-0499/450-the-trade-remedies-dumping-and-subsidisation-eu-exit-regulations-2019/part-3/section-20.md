@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Meaning of financial contribution by a foreign authority[^key-85b3fbf5086af3ecb0cdec72c36318b6]
+## 20. Meaning of financial contribution by a foreign authority[^c-85b3fbf5086af3ecb0cdec72c36318b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85b3fbf5086af3ecb0cdec72c36318b6]: Commencement: Reg. 20 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-85b3fbf5086af3ecb0cdec72c36318b6]: Commencement: Reg. 20 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
 [^c24288071]: Marginal citation: Available from: https://www.wto.org/english/docs\_e/legal\_e/legal\_e.htm.

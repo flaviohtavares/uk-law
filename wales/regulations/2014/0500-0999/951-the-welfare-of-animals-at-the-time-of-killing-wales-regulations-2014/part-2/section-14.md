@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Exceptions to the requirement for a licence[^key-62f73e571f3de590ce1c65e79435f138]
+## 14. Exceptions to the requirement for a licence[^c-62f73e571f3de590ce1c65e79435f138]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Regulation 12 does not apply to any person who—
 
 ## Annotations
 
-[^key-62f73e571f3de590ce1c65e79435f138]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2014/951/regulation/14) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-62f73e571f3de590ce1c65e79435f138]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2014/951/regulation/14) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

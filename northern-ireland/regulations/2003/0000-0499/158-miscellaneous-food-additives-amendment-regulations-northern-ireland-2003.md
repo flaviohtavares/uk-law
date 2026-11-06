@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-6533ddef147fdbbdf1635844150300c6]
+Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-6533ddef147fdbbdf1635844150300c6]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 2nd May 2003
 
-[^key-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6533ddef147fdbbdf1635844150300c6]
+## 1. Citation and commencement[^c-6533ddef147fdbbdf1635844150300c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations (Northern Ireland) 1996[^key-6533ddef147fdbbdf1635844150300c6]
+## 2. Amendment of the Miscellaneous Food Additives Regulations (Northern Ireland) 1996[^c-6533ddef147fdbbdf1635844150300c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6533ddef147fdbbdf1635844150300c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6533ddef147fdbbdf1635844150300c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/158) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)
+[^c-6533ddef147fdbbdf1635844150300c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/158) revoked (20.1.2010) by [The Food Additives Regulations (Northern Ireland) 2009 (S.R. 2009/416)](https://www.legislation.gov.uk/nisr/2009/416), [regs. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1), [20](https://www.legislation.gov.uk/nisr/2009/416/regulation/20), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2)

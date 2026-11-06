@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.4A. Members’ contributions: redundancy[^key-d9e5e06cfba126ca913881c1031d9a10]
+## 2.C.4A. Members’ contributions: redundancy[^c-d9e5e06cfba126ca913881c1031d9a10]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e5e06cfba126ca913881c1031d9a10]: Textual amendment: [Reg. 2.C.4A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2015/96/regulation/25)
+[^c-d9e5e06cfba126ca913881c1031d9a10]: Textual amendment: [Reg. 2.C.4A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2015/96/regulation/25)

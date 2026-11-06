@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Aggravated offence where death or serious injury occurs[^key-1e37786bacc1a607b750ca271cd5c888]
+## 25. Aggravated offence where death or serious injury occurs[^c-1e37786bacc1a607b750ca271cd5c888]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e37786bacc1a607b750ca271cd5c888]: Commencement: S. 25 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1e37786bacc1a607b750ca271cd5c888]: Commencement: S. 25 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

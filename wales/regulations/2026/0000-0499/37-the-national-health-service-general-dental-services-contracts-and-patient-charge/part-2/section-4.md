@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Prescribed conditions[^key-707d4ad054b0291970b9d28c4bef4d45]
+## 4. Prescribed conditions[^c-707d4ad054b0291970b9d28c4bef4d45]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-707d4ad054b0291970b9d28c4bef4d45]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/37/regulation/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-707d4ad054b0291970b9d28c4bef4d45]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/37/regulation/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00019]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); as amended by the Sexual Offences Act 1956 (c. 69), section 52, Schedule 4; the Criminal Justice Act 1988 (c. 33), section 170(1) and 170(2), Schedule 15, paragraph 8, Schedule 16; the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), Schedule 10, paragraph 2; the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), Schedule 21(2), paragraph 53; Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), Schedule 5(1), paragraphs 1(3) and (4); the Online Safety Act [2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), Schedule 14(2), paragraph 6 and Schedule 14(3), paragraph 13 (words substituted by the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), Schedule 6, paragraph 7).
 

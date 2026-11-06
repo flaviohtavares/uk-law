@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Regulations about fundraising[^key-debcffe1911904bfeeff06fa3b581bd5][^key-12e8fd4177a2584f0207b054337668e9]
+## 83. Regulations about fundraising[^c-debcffe1911904bfeeff06fa3b581bd5][^c-12e8fd4177a2584f0207b054337668e9]
 
 *Extent: S*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-debcffe1911904bfeeff06fa3b581bd5]: Commencement: S. 83 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-debcffe1911904bfeeff06fa3b581bd5]: Commencement: S. 83 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-12e8fd4177a2584f0207b054337668e9]: Commencement: S. 83 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-12e8fd4177a2584f0207b054337668e9]: Commencement: S. 83 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

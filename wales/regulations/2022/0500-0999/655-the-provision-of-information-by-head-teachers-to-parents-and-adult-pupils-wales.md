@@ -45,7 +45,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 408
 
 In accordance with section 408(5) of that Act, the Welsh Ministers have consulted with such persons as they consider desirable.
 
-## 1. Title, commencement and application[^key-7b193413a099d654d65ff5174bad7198]
+## 1. Title, commencement and application[^c-7b193413a099d654d65ff5174bad7198]
 
 (1) The title of these Regulations is the Provision of Information by Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
 
@@ -84,7 +84,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (9) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-ee737b727bd69727009ea156d2f14bbc]
+## 2. Interpretation[^c-ee737b727bd69727009ea156d2f14bbc]
 
 (1) In these Regulations—
 
@@ -133,7 +133,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 - (a) a head teacher is a reference to a teacher in charge of a PRU, or
 - (b) a governing body is a reference to management committee (if there is one) and to a teacher in charge of a PRU if there is no management committee.
 
-## 3. Disapplication and revocation of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-758f9de111a349fa266bc8322f7687eb]
+## 3. Disapplication and revocation of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-758f9de111a349fa266bc8322f7687eb]
 
 (1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00019] (“**the 2011 Regulations**”) are disapplied as follows.
 
@@ -153,7 +153,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (3) The Regulations in Schedule 1 to these Regulations are revoked from 1 September 2028.
 
-## 4. Requirement to provide information: Termly progress[^key-2c12c6164725c116283fb197a05696e2]
+## 4. Requirement to provide information: Termly progress[^c-2c12c6164725c116283fb197a05696e2]
 
 (1) The head teacher of every maintained school must make arrangements for providing the information in Part 1 of Schedule 2 (“the termly information”).
 
@@ -167,7 +167,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (4) The termly information may be provided in such form as the head teacher reasonably considers appropriate.
 
-## 5. Requirement to provide information: Annual progress[^key-b3a7cd16c045a9887b873b8158f723e5]
+## 5. Requirement to provide information: Annual progress[^c-b3a7cd16c045a9887b873b8158f723e5]
 
 (1) The head teacher of every maintained school must make arrangements for providing (“the annual information”)—
 
@@ -189,7 +189,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (6) This regulation does not apply in relation to any pupil who is to be provided with a school leaver’s report pursuant to regulation 8.
 
-## 6. Reporting period: Annual progress[^key-030418ed81b7fa5adb8418e4c7cf7118]
+## 6. Reporting period: Annual progress[^c-030418ed81b7fa5adb8418e4c7cf7118]
 
 (1) The period to which the annual information specified in regulation 5 relates begins with the later of—
 
@@ -198,7 +198,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (2) Where any of the particulars necessary to provide the information specified in Part 3 of Schedule 2 are not received by the head teacher until after the end of the summer term, the head teacher must make available such information as soon as practicable and in any event not later than the following 30 September.
 
-## 7. Additional information to be made available: Annual progress[^key-e3c1353c16ca4d2e7c0e842b82bf1413]
+## 7. Additional information to be made available: Annual progress[^c-e3c1353c16ca4d2e7c0e842b82bf1413]
 
 (1) If any person set out in regulation 5(5) considers the annual information provided does not contain all the information required by regulation 5 that person may request the head teacher provide the missing information.
 
@@ -211,7 +211,7 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (4) Paragraph (1) does not apply if the information referred to in the request has previously been made available to the adult pupil or the pupil’s parent under these Regulations.
 
-## 8. Requirement to provide information: School leaver’s report[^key-3136d5c413be24f0ceb007255026b08a]
+## 8. Requirement to provide information: School leaver’s report[^c-3136d5c413be24f0ceb007255026b08a]
 
 (1) The head teacher of every maintained school must make available to any pupil who has ceased to be of compulsory school age and is proposing to leave or has left the school a report containing the information referred to in Part 4 of Schedule 2.
 
@@ -224,11 +224,11 @@ In accordance with section 408(5) of that Act, the Welsh Ministers have consulte
 
 (4) Any signature provided pursuant to paragraph (3) may be provided electronically.
 
-## 9. Reporting period: School leaver’s report[^key-ff4ab475c7ddb1fb22ca241487945c46]
+## 9. Reporting period: School leaver’s report[^c-ff4ab475c7ddb1fb22ca241487945c46]
 
 The report in regulation 8 must be made available to the pupil not later than 30 September following the end of the school year during or at the end of which the pupil left the school.
 
-## 10. Restrictions on provision of information[^key-568bdf3fcc7ce7a6cb805f0c935bb9de]
+## 10. Restrictions on provision of information[^c-568bdf3fcc7ce7a6cb805f0c935bb9de]
 
 (1) Nothing in these Regulations requires the making available of any information—
 
@@ -248,7 +248,7 @@ The report in regulation 8 must be made available to the pupil not later than 30
 
 (3) In this regulation “**child abuse**” includes physical (other than accidental) injury to, and physical or emotional neglect, ill-treatment or sexual abuse of, a child.
 
-## 11. Translation of information and documents[^key-483f04e96298f475ca28c2543343b5a9]
+## 11. Translation of information and documents[^c-483f04e96298f475ca28c2543343b5a9]
 
 (1) If it appears necessary to the head teacher of any maintained school that any document or information required to be made available under these Regulations which is provided in Welsh should be translated into English, it must be so translated and these Regulations are to apply to the document or information so translated as they apply to the original document or information.
 
@@ -258,7 +258,7 @@ The report in regulation 8 must be made available to the pupil not later than 30
 
 (4) No charge must be made for a copy of any information translated or produced in accordance with paragraphs (1), (2) or (3), but where a charge is made for a copy of an original document no greater charge must be made for a copy of the document so translated or produced.
 
-## 12. Amendment to the Pupil Information (Wales) Regulations 2011[^key-d11bfb7f7ea32efc92e05031a5aaa96a]
+## 12. Amendment to the Pupil Information (Wales) Regulations 2011[^c-d11bfb7f7ea32efc92e05031a5aaa96a]
 
 In regulation 3 of the Pupil Information (Wales) Regulations 2011[^f00020], for paragraph (1) substitute—
 
@@ -277,7 +277,7 @@ Minister for Education and Welsh Language, one of the Welsh Ministers
 
 15 June 2022
 
-## SCHEDULE 1 — Regulations revoked[^key-7550c33f4af8d631c9b87cf841511f3e]
+## SCHEDULE 1 — Regulations revoked[^c-7550c33f4af8d631c9b87cf841511f3e]
 
 Regulation 3(3)
 
@@ -299,51 +299,51 @@ Regulation 4
 
 ### PART 1 — Information to be provided in termly updates
 
-**1.**[^key-54fddfb81cac22f9943fa73af9a6cecb] A brief commentary on the pupil’s well-being.
+**1.**[^c-54fddfb81cac22f9943fa73af9a6cecb] A brief commentary on the pupil’s well-being.
 
-**2.**[^key-b68c9fb425f773863a904162abdb7505] A brief commentary on the key progress and learning of the pupil.
+**2.**[^c-b68c9fb425f773863a904162abdb7505] A brief commentary on the key progress and learning of the pupil.
 
-**3.**[^key-313e9ad8868c119d3f3fd3690280ccbb] A brief summary of the key progression needs of the pupil and the next steps to support that pupil’s progression.
+**3.**[^c-313e9ad8868c119d3f3fd3690280ccbb] A brief summary of the key progression needs of the pupil and the next steps to support that pupil’s progression.
 
-**4.**[^key-97528a5c2f12a2f8c99ded93858b9254] Brief advice on how the parents can support their child’s progression.
+**4.**[^c-97528a5c2f12a2f8c99ded93858b9254] Brief advice on how the parents can support their child’s progression.
 
 ### PART 2 — Information to be provided in annual updates
 
-**5.**[^key-ac12a9156b158b0675f517a8b3cc07b5] A brief commentary about the progress in learning across the relevant curriculum.
+**5.**[^c-ac12a9156b158b0675f517a8b3cc07b5] A brief commentary about the progress in learning across the relevant curriculum.
 
-**6.**[^key-0c494f21e61a3cda489a5e04df128dca] A brief commentary of the results of the assessments carried out under the Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024[^key-005f3ee24b009be305f1cf3c57d3c662].
+**6.**[^c-0c494f21e61a3cda489a5e04df128dca] A brief commentary of the results of the assessments carried out under the Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024[^c-005f3ee24b009be305f1cf3c57d3c662].
 
-**7.**[^key-0d899a4947b049bd603ecc29eddeea97] A brief summary of the pupil’s progression needs and the next steps to support that pupil’s progression.
+**7.**[^c-0d899a4947b049bd603ecc29eddeea97] A brief summary of the pupil’s progression needs and the next steps to support that pupil’s progression.
 
-**8.**[^key-2d785cdf6254241d557958a4498d853b] Brief advice on how parents can support their child’s progression.
+**8.**[^c-2d785cdf6254241d557958a4498d853b] Brief advice on how parents can support their child’s progression.
 
-**9.**[^key-19879101202d60ebe7305e73efcdec68] A brief commentary about the pupil’s well-being.
+**9.**[^c-19879101202d60ebe7305e73efcdec68] A brief commentary about the pupil’s well-being.
 
-**10.**[^key-30e27bdbabff478d4e7c875c4e23784c] A brief summary of the qualifications attained.
+**10.**[^c-30e27bdbabff478d4e7c875c4e23784c] A brief summary of the qualifications attained.
 
-**11.**[^key-814c771e6e6698e347f1def27a34d3bc] A summary of the pupil’s attendance record during the period to which information relates showing the number of authorised and unauthorised absences (within the meaning of the Education (Pupil Registration) (Wales) Regulations 2010[^f00022]) and the number of possible attendances.
+**11.**[^c-814c771e6e6698e347f1def27a34d3bc] A summary of the pupil’s attendance record during the period to which information relates showing the number of authorised and unauthorised absences (within the meaning of the Education (Pupil Registration) (Wales) Regulations 2010[^f00022]) and the number of possible attendances.
 
-**12.**[^key-1e07cc31f8001d30df0900f8ebb0cc3f] Particulars of the arrangements under which the information provided may be discussed with the pupil’s teachers by the pupil’s parent or, in the case of an adult pupil, the pupil.
+**12.**[^c-1e07cc31f8001d30df0900f8ebb0cc3f] Particulars of the arrangements under which the information provided may be discussed with the pupil’s teachers by the pupil’s parent or, in the case of an adult pupil, the pupil.
 
 ### PART 3 — Approved relevant qualifications
 
-**13.**[^key-27a9d77c6b365da1bf61024b6693608c] The name of any subject in which the pupil was entered in respect of an approved relevant qualification and the grade (if any) achieved.
+**13.**[^c-27a9d77c6b365da1bf61024b6693608c] The name of any subject in which the pupil was entered in respect of an approved relevant qualification and the grade (if any) achieved.
 
-**14.**[^key-eeaa8fcb8a9964a77e4901703f518b55] Details of any approved relevant qualification or any unit or credit towards such qualification obtained by the pupil during the period to which the information relates which is not referred to elsewhere in this Schedule.
+**14.**[^c-eeaa8fcb8a9964a77e4901703f518b55] Details of any approved relevant qualification or any unit or credit towards such qualification obtained by the pupil during the period to which the information relates which is not referred to elsewhere in this Schedule.
 
-**15.**[^key-5aa7680c6f93c4c7d90b8131dd01c505] Brief particulars of the pupil’s achievements in any area of learning, including the Welsh Baccalaureate Qualification Core Certificate, not mentioned elsewhere in this Schedule which forms part of the school curriculum and of the pupil’s skills and abilities and about the pupil’s general progress at school during the period to which the information relates.
+**15.**[^c-5aa7680c6f93c4c7d90b8131dd01c505] Brief particulars of the pupil’s achievements in any area of learning, including the Welsh Baccalaureate Qualification Core Certificate, not mentioned elsewhere in this Schedule which forms part of the school curriculum and of the pupil’s skills and abilities and about the pupil’s general progress at school during the period to which the information relates.
 
 ### PART 4 — School leavers report
 
-**16.**[^key-182861aef3a592c8e8efca44fe4677eb] The pupil’s name.
+**16.**[^c-182861aef3a592c8e8efca44fe4677eb] The pupil’s name.
 
-**17.**[^key-899fd76f738b2121f9177577ca508ea2] The pupil’s school.
+**17.**[^c-899fd76f738b2121f9177577ca508ea2] The pupil’s school.
 
-**18.**[^key-97bc2492d7ca8f2741073457fe764136] The details of any approved relevant qualification and any unit or credit towards such a qualification awarded to the pupil.
+**18.**[^c-97bc2492d7ca8f2741073457fe764136] The details of any approved relevant qualification and any unit or credit towards such a qualification awarded to the pupil.
 
-**19.**[^key-d39ba69dfdc53e011890e35f13db7b43] Brief particulars of the pupil’s progress and achievements in subjects (other than those in which the pupil has achieved any approved relevant qualification or any unit or credit towards such a qualification).
+**19.**[^c-d39ba69dfdc53e011890e35f13db7b43] Brief particulars of the pupil’s progress and achievements in subjects (other than those in which the pupil has achieved any approved relevant qualification or any unit or credit towards such a qualification).
 
-**20.**[^key-bcb29688cb759a9926f54b0d4e18e8bc] Brief particulars of the pupil’s progress in any activities forming part of the school curriculum, in the school year during or at the end of which the pupil left the school.
+**20.**[^c-bcb29688cb759a9926f54b0d4e18e8bc] Brief particulars of the pupil’s progress in any activities forming part of the school curriculum, in the school year during or at the end of which the pupil left the school.
 
 EXPLANATORY NOTE
 
@@ -399,7 +399,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: For the definitions of “prescribed” and “regulations” see section 579(1) of the Education Act 1996. The functions of the Secretary of State in the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and are now exercisable by the Welsh Ministers under section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-7b193413a099d654d65ff5174bad7198]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/655/regulation/1) comes into force in accordance with reg. 1(2)-(8)
+[^c-7b193413a099d654d65ff5174bad7198]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/655/regulation/1) comes into force in accordance with reg. 1(2)-(8)
 
 [^f00005]: Footnote: See regulation 2 for the definition of “nursery class”.
 
@@ -417,7 +417,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: See regulation 2 for the definition of “pupil referral unit”. For the purposes of these Regulations maintained schools are defined to include PRUs (see regulation 2(1)).
 
-[^key-ee737b727bd69727009ea156d2f14bbc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/655/regulation/2) comes into force in accordance with reg. 1(2)-(8)
+[^c-ee737b727bd69727009ea156d2f14bbc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/655/regulation/2) comes into force in accordance with reg. 1(2)-(8)
 
 [^f00013]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4).
 
@@ -431,72 +431,72 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: Subsection (1) was amended by section 57(1) and paragraph 9 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsection (1) and (1A) were further amended by section 215(1) and paragraph 34 of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-758f9de111a349fa266bc8322f7687eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/655/regulation/3) comes into force in accordance with reg. 1(2)-(8)
+[^c-758f9de111a349fa266bc8322f7687eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/655/regulation/3) comes into force in accordance with reg. 1(2)-(8)
 
 [^f00019]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766), [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729), [S.I. 2021/612 (W. 612)](https://www.legislation.gov.uk/wsi/2021/612) and [S.I. 2022/517 (W. 124)](https://www.legislation.gov.uk/wsi/2022/517).
 
-[^key-2c12c6164725c116283fb197a05696e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/655/regulation/4) comes into force in accordance with reg. 1(2)-(8)
+[^c-2c12c6164725c116283fb197a05696e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/655/regulation/4) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-b3a7cd16c045a9887b873b8158f723e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/655/regulation/5) comes into force in accordance with reg. 1(2)-(8)
+[^c-b3a7cd16c045a9887b873b8158f723e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/655/regulation/5) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-030418ed81b7fa5adb8418e4c7cf7118]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/655/regulation/6) comes into force in accordance with reg. 1(2)-(8)
+[^c-030418ed81b7fa5adb8418e4c7cf7118]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/655/regulation/6) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-e3c1353c16ca4d2e7c0e842b82bf1413]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/655/regulation/7) comes into force in accordance with reg. 1(2)-(8)
+[^c-e3c1353c16ca4d2e7c0e842b82bf1413]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/655/regulation/7) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-3136d5c413be24f0ceb007255026b08a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/655/regulation/8) comes into force in accordance with reg. 1(2)-(8)
+[^c-3136d5c413be24f0ceb007255026b08a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/655/regulation/8) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-ff4ab475c7ddb1fb22ca241487945c46]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/655/regulation/9) comes into force in accordance with reg. 1(2)-(8)
+[^c-ff4ab475c7ddb1fb22ca241487945c46]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/655/regulation/9) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-568bdf3fcc7ce7a6cb805f0c935bb9de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/655/regulation/10) comes into force in accordance with reg. 1(2)-(8)
+[^c-568bdf3fcc7ce7a6cb805f0c935bb9de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/655/regulation/10) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-483f04e96298f475ca28c2543343b5a9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/655/regulation/11) comes into force in accordance with reg. 1(2)-(8)
+[^c-483f04e96298f475ca28c2543343b5a9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/655/regulation/11) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-d11bfb7f7ea32efc92e05031a5aaa96a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/655/regulation/12) comes into force in accordance with reg. 1(2)-(8)
+[^c-d11bfb7f7ea32efc92e05031a5aaa96a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/655/regulation/12) comes into force in accordance with reg. 1(2)-(8)
 
 [^f00020]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942) amended by [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), paragraph 365(1) and (2)(a) of Part 2 of Schedule 19 to the Data Protection Act 2018 and [S.I. 2019/1281 (W. 225)](https://www.legislation.gov.uk/wsi/2019/1281).
 
-[^key-7550c33f4af8d631c9b87cf841511f3e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/1) comes into force in accordance with reg. 1(2)-(8)
+[^c-7550c33f4af8d631c9b87cf841511f3e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/1) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-54fddfb81cac22f9943fa73af9a6cecb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/1) comes into force in accordance with reg. 1(2)-(8)
+[^c-54fddfb81cac22f9943fa73af9a6cecb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/1) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-b68c9fb425f773863a904162abdb7505]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/2) comes into force in accordance with reg. 1(2)-(8)
+[^c-b68c9fb425f773863a904162abdb7505]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/2) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-313e9ad8868c119d3f3fd3690280ccbb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/3) comes into force in accordance with reg. 1(2)-(8)
+[^c-313e9ad8868c119d3f3fd3690280ccbb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/3) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-97528a5c2f12a2f8c99ded93858b9254]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/4) comes into force in accordance with reg. 1(2)-(8)
+[^c-97528a5c2f12a2f8c99ded93858b9254]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/4) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-ac12a9156b158b0675f517a8b3cc07b5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/5) comes into force in accordance with reg. 1(2)-(8)
+[^c-ac12a9156b158b0675f517a8b3cc07b5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/5) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-0c494f21e61a3cda489a5e04df128dca]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) comes into force in accordance with reg. 1(2)-(8)
+[^c-0c494f21e61a3cda489a5e04df128dca]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-005f3ee24b009be305f1cf3c57d3c662]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) substituted (1.9.2024) by [The Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024 (S.I. 2024/607)](https://www.legislation.gov.uk/wsi/2024/607), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/607/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/607/regulation/6)
+[^c-005f3ee24b009be305f1cf3c57d3c662]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/6) substituted (1.9.2024) by [The Education (Arrangements for Assessing Reading and Numeracy in the Curriculum for Wales) Regulations 2024 (S.I. 2024/607)](https://www.legislation.gov.uk/wsi/2024/607), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/607/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/607/regulation/6)
 
-[^key-0d899a4947b049bd603ecc29eddeea97]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/7) comes into force in accordance with reg. 1(2)-(8)
+[^c-0d899a4947b049bd603ecc29eddeea97]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/7) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-2d785cdf6254241d557958a4498d853b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/8) comes into force in accordance with reg. 1(2)-(8)
+[^c-2d785cdf6254241d557958a4498d853b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/8) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-19879101202d60ebe7305e73efcdec68]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/9) comes into force in accordance with reg. 1(2)-(8)
+[^c-19879101202d60ebe7305e73efcdec68]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/9) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-30e27bdbabff478d4e7c875c4e23784c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/10) comes into force in accordance with reg. 1(2)-(8)
+[^c-30e27bdbabff478d4e7c875c4e23784c]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/10) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-814c771e6e6698e347f1def27a34d3bc]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/11) comes into force in accordance with reg. 1(2)-(8)
+[^c-814c771e6e6698e347f1def27a34d3bc]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/11) comes into force in accordance with reg. 1(2)-(8)
 
 [^f00022]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
 
-[^key-1e07cc31f8001d30df0900f8ebb0cc3f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/12) comes into force in accordance with reg. 1(2)-(8)
+[^c-1e07cc31f8001d30df0900f8ebb0cc3f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/12) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-27a9d77c6b365da1bf61024b6693608c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/13) comes into force in accordance with reg. 1(2)-(8)
+[^c-27a9d77c6b365da1bf61024b6693608c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/13) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-eeaa8fcb8a9964a77e4901703f518b55]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/14) comes into force in accordance with reg. 1(2)-(8)
+[^c-eeaa8fcb8a9964a77e4901703f518b55]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/14) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-5aa7680c6f93c4c7d90b8131dd01c505]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/15) comes into force in accordance with reg. 1(2)-(8)
+[^c-5aa7680c6f93c4c7d90b8131dd01c505]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/15) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-182861aef3a592c8e8efca44fe4677eb]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/16) comes into force in accordance with reg. 1(2)-(8)
+[^c-182861aef3a592c8e8efca44fe4677eb]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/16) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-899fd76f738b2121f9177577ca508ea2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/17) comes into force in accordance with reg. 1(2)-(8)
+[^c-899fd76f738b2121f9177577ca508ea2]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/17) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-97bc2492d7ca8f2741073457fe764136]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/18) comes into force in accordance with reg. 1(2)-(8)
+[^c-97bc2492d7ca8f2741073457fe764136]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/18) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-d39ba69dfdc53e011890e35f13db7b43]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/19) comes into force in accordance with reg. 1(2)-(8)
+[^c-d39ba69dfdc53e011890e35f13db7b43]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/19) comes into force in accordance with reg. 1(2)-(8)
 
-[^key-bcb29688cb759a9926f54b0d4e18e8bc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/20) comes into force in accordance with reg. 1(2)-(8)
+[^c-bcb29688cb759a9926f54b0d4e18e8bc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2022/655/schedule/2/paragraph/20) comes into force in accordance with reg. 1(2)-(8)

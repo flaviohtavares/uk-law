@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Payment of fee loans and fee contribution loans[^key-7caeb643899dae536472e6d219a2e7d8]
+## 101. Payment of fee loans and fee contribution loans[^c-7caeb643899dae536472e6d219a2e7d8]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7caeb643899dae536472e6d219a2e7d8]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2007/195/regulation/101) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-7caeb643899dae536472e6d219a2e7d8]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2007/195/regulation/101) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Power to modify provision about a person becoming homeless intentionally[^key-4ece2c57e687a3c37f096749a6eceeab][^key-700dc20d44ff31f197df866fc3e4daeb]
+## 53. Power to modify provision about a person becoming homeless intentionally[^c-4ece2c57e687a3c37f096749a6eceeab][^c-700dc20d44ff31f197df866fc3e4daeb]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ece2c57e687a3c37f096749a6eceeab]: Commencement: S. 53 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-4ece2c57e687a3c37f096749a6eceeab]: Commencement: S. 53 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
 
-[^key-700dc20d44ff31f197df866fc3e4daeb]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/13/section/53) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-700dc20d44ff31f197df866fc3e4daeb]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/13/section/53) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

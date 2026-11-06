@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Support for staff raising concerns[^key-1454ce651012d7979e449d5338be6434]
+## 51. Support for staff raising concerns[^c-1454ce651012d7979e449d5338be6434]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1454ce651012d7979e449d5338be6434]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/762/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-1454ce651012d7979e449d5338be6434]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/762/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

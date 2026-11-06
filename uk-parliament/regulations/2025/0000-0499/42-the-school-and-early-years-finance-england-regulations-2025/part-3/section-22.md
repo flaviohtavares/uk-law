@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Risk protection arrangement[^key-79ef88af6a636633ddda8c46c0449a99]
+## 22. Risk protection arrangement[^c-79ef88af6a636633ddda8c46c0449a99]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79ef88af6a636633ddda8c46c0449a99]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/42/regulation/22) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-79ef88af6a636633ddda8c46c0449a99]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2025/42/regulation/22) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

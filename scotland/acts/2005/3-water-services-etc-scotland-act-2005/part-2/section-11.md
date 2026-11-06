@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Participation of licensed providers[^key-6c031d1871f1900d5f2c9f52bd4a080b]
+## 11. Participation of licensed providers[^c-6c031d1871f1900d5f2c9f52bd4a080b]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ as to steps to be taken for the purposes mentioned in subsection (1).
 
 ## Annotations
 
-[^key-6c031d1871f1900d5f2c9f52bd4a080b]: Commencement: S. 11 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-6c031d1871f1900d5f2c9f52bd4a080b]: Commencement: S. 11 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

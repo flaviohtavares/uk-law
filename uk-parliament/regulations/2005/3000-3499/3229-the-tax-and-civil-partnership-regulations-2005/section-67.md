@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67.[^key-7c1fae7a983d7d3e12de8e914c9d2667]
+## 67.[^c-7c1fae7a983d7d3e12de8e914c9d2667]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1fae7a983d7d3e12de8e914c9d2667]: Commencement: Reg. 67 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7c1fae7a983d7d3e12de8e914c9d2667]: Commencement: Reg. 67 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00018]: Footnote: Section 347B was inserted by the Finance Act 1988.
 

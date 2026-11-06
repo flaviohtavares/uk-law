@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Direct payments: conditions for payment to meet an adult’s needs[^key-6a07fb0f29ac4594c6936a5816b36514]
+## 50. Direct payments: conditions for payment to meet an adult’s needs[^c-6a07fb0f29ac4594c6936a5816b36514]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a07fb0f29ac4594c6936a5816b36514]: Textual amendment: [Ss. 50-52](https://www.legislation.gov.uk/anaw/2014/4/section/50) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(b)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
+[^c-6a07fb0f29ac4594c6936a5816b36514]: Textual amendment: [Ss. 50-52](https://www.legislation.gov.uk/anaw/2014/4/section/50) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(b)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)

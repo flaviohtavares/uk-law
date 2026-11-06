@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Reporting to Law Society[^key-1cc1800db85d25cfea570783b53380d0]
+## 33. Reporting to Law Society[^c-1cc1800db85d25cfea570783b53380d0]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc1800db85d25cfea570783b53380d0]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/16/section/33) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-1cc1800db85d25cfea570783b53380d0]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/16/section/33) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

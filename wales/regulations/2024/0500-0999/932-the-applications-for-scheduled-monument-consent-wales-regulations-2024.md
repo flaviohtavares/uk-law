@@ -43,9 +43,9 @@ Coming into force
 
 4 November 2024
 
-The Welsh Ministers, in exercise of the powers conferred on them by sections 14(3), 209(2) and 211(3)(a) and (4) of the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.[^key-5fa6009294615bd654293c8daae8a227]
+The Welsh Ministers, in exercise of the powers conferred on them by sections 14(3), 209(2) and 211(3)(a) and (4) of the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.[^c-5fa6009294615bd654293c8daae8a227]
 
-## 1. Title, coming into force and code[^key-f304e23561785ee2b6928807908c22d5]
+## 1. Title, coming into force and code[^c-f304e23561785ee2b6928807908c22d5]
 
 (1) The title of these Regulations is the Applications for Scheduled Monument Consent (Wales) Regulations 2024.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 14(
 
 (3) These Regulations form part of a code of law relating to the historic environment of Wales[^f00002].
 
-## 2. Applying for scheduled monument consent[^key-3e5dab7dd269ad2bedba8e315e423e66]
+## 2. Applying for scheduled monument consent[^c-3e5dab7dd269ad2bedba8e315e423e66]
 
 (1) In addition to the requirements of section 14(2) of the 2023 Act, an application for scheduled monument consent within the meaning of section 13(1) or (2) of that Act must—
 
@@ -72,7 +72,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 14(
   - (a) an owner of the freehold estate, or
   - (b) a tenant under a lease granted or extended for a fixed term that has at least 7 years left to run.
 
-## 3. Consequential amendments to the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^key-611e4585b8b9bdecb68e377d0ee1fbbe]
+## 3. Consequential amendments to the Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^c-611e4585b8b9bdecb68e377d0ee1fbbe]
 
 (1) The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^f00003] are amended as follows.
 
@@ -227,11 +227,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 14(
 
 .
 
-## 4. ...[^key-e272ceb7930aa479b1b2411f1e41d85f][^key-e272ceb7930aa479b1b2411f1e41d85f]
+## 4. ...[^c-e272ceb7930aa479b1b2411f1e41d85f][^c-e272ceb7930aa479b1b2411f1e41d85f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-7fc25bf29a2d355c1448d362ecc5a467]
+## 5. Revocation[^c-7fc25bf29a2d355c1448d362ecc5a467]
 
 The Ancient Monuments (Applications for Scheduled Monument Consent) (Wales) Regulations 2017[^f00005] are revoked.
 
@@ -265,20 +265,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
 
-[^key-5fa6009294615bd654293c8daae8a227]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 4A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/4A), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1992/3138/schedule/3/paragraph/2) (as inserted by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/uksi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/932/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2024/932/regulation/3/4/6))
+[^c-5fa6009294615bd654293c8daae8a227]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 4A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/4A), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1992/3138/schedule/3/paragraph/2) (as inserted by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/uksi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/932/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2024/932/regulation/3/4/6))
 
-[^key-f304e23561785ee2b6928807908c22d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/932/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+[^c-f304e23561785ee2b6928807908c22d5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/932/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
 
 [^f00002]: Footnote: See paragraphs 8 to 10 of the Explanatory Notes to the Historic Environment (Wales) Act 2023, which can be found at https://www.legislation.gov.uk/asc/2023/3/notes/division/3.
 
-[^key-3e5dab7dd269ad2bedba8e315e423e66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/932/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+[^c-3e5dab7dd269ad2bedba8e315e423e66]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/932/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
 
-[^key-611e4585b8b9bdecb68e377d0ee1fbbe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/932/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+[^c-611e4585b8b9bdecb68e377d0ee1fbbe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/932/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), amended by [S.I. 2017/642 (W. 148)](https://www.legislation.gov.uk/wsi/2017/642).
 
-[^key-e272ceb7930aa479b1b2411f1e41d85f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/932/regulation/4) and heading omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [19(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/2) (with [reg. 19(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/3))
+[^c-e272ceb7930aa479b1b2411f1e41d85f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/932/regulation/4) and heading omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [19(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/2) (with [reg. 19(3)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/19/3))
 
-[^key-7fc25bf29a2d355c1448d362ecc5a467]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/932/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
+[^c-7fc25bf29a2d355c1448d362ecc5a467]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/932/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/932/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2017/642 (W. 148)](https://www.legislation.gov.uk/wsi/2017/642).

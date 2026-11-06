@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Special procedure where investigation relates to service police[^key-02ba2801f8f49bf51081c5e8f9bb668a]
+## 46. Special procedure where investigation relates to service police[^c-02ba2801f8f49bf51081c5e8f9bb668a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02ba2801f8f49bf51081c5e8f9bb668a]: Commencement: Reg. 46 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-02ba2801f8f49bf51081c5e8f9bb668a]: Commencement: Reg. 46 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

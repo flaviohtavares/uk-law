@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Regulation (EU) No 1026/2012 of the European Parliament and of the Council on certain measures for the purpose of the conservation of fish stocks in relation to countries allowing non-sustainable fishing[^key-6bea7982cc527138dafed4e5b14656ca]
+## 29. Regulation (EU) No 1026/2012 of the European Parliament and of the Council on certain measures for the purpose of the conservation of fish stocks in relation to countries allowing non-sustainable fishing[^c-6bea7982cc527138dafed4e5b14656ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,7 +156,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6bea7982cc527138dafed4e5b14656ca]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-6bea7982cc527138dafed4e5b14656ca]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24328151]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

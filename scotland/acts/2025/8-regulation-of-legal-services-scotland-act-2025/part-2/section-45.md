@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Financial sanctions[^key-0f07249a6cabdc7697ab84d3cc780558][^key-58d47287ca93335fdcbfadc98a9539f2][^key-43c670c59ccafa3ae418a3836723ab6a]
+## 45. Financial sanctions[^c-0f07249a6cabdc7697ab84d3cc780558][^c-58d47287ca93335fdcbfadc98a9539f2][^c-43c670c59ccafa3ae418a3836723ab6a]
 
 *Extent: S*
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0f07249a6cabdc7697ab84d3cc780558]: Commencement: S. 45 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0f07249a6cabdc7697ab84d3cc780558]: Commencement: S. 45 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-58d47287ca93335fdcbfadc98a9539f2]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/8/section/45) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-58d47287ca93335fdcbfadc98a9539f2]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/8/section/45) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-43c670c59ccafa3ae418a3836723ab6a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/8/section/45) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-43c670c59ccafa3ae418a3836723ab6a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/8/section/45) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

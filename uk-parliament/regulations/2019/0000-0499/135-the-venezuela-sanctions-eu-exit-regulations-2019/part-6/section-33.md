@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Finance: exceptions from prohibitions[^key-67934f00033242317461ff5e146e020c]
+## 33. Finance: exceptions from prohibitions[^c-67934f00033242317461ff5e146e020c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,13 +50,13 @@ summary: ''
 
 (8) The definition of “relevant institution” in paragraph (7) is to be read with section 22 of the Financial Services and Markets Act 2000 [^c23542931], any relevant order under that section [^c23542941] and Schedule 2 to that Act [^c23542951].
 
-(9)[^key-dacdb5e907c0f70b6a99aa3ca49f4e13] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
+(9)[^c-dacdb5e907c0f70b6a99aa3ca49f4e13] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person.
 
 (10) When determining for the purposes of paragraph (5) when a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**D**”) became a designated person, C is to be treated as having become a designated person at the same time as D.
 
 ## Annotations
 
-[^key-67934f00033242317461ff5e146e020c]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67934f00033242317461ff5e146e020c]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23542901]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 142D was inserted by the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [section 4(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/4/1).
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c23542951]: Marginal citation: Schedule 2 was amended by the [Regulation of Financial Services (Land Transactions) Act 2003 (c.24)](https://www.legislation.gov.uk/ukpga/2003/24), [section 1](https://www.legislation.gov.uk/ukpga/2003/24/section/1); the [Dormant Bank and Building Society Accounts Act 2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), [section 15](https://www.legislation.gov.uk/ukpga/2008/31/section/15) and Schedule 2, paragraph 1; the Financial Services Act 2012, sections 7(2) to (5) and 8; [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); and it is prospectively amended by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135).
 
-[^key-dacdb5e907c0f70b6a99aa3ca49f4e13]: Textual amendment: [Reg. 33(9)](https://www.legislation.gov.uk/uksi/2019/135/regulation/33/9)[(10)](https://www.legislation.gov.uk/uksi/2019/135/regulation/33/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/2/4)
+[^c-dacdb5e907c0f70b6a99aa3ca49f4e13]: Textual amendment: [Reg. 33(9)](https://www.legislation.gov.uk/uksi/2019/135/regulation/33/9)[(10)](https://www.legislation.gov.uk/uksi/2019/135/regulation/33/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/2/4)

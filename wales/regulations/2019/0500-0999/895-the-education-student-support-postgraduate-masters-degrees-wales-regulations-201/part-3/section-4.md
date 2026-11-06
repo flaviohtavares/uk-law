@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Interpretation and index[^key-b4cbb8a42120b860571fdd00b72b5f36]
+## 4. Interpretation and index[^c-b4cbb8a42120b860571fdd00b72b5f36]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4cbb8a42120b860571fdd00b72b5f36]: Commencement: Reg. 4 in force at 27.5.2019, see reg. 1(2)
+[^c-b4cbb8a42120b860571fdd00b72b5f36]: Commencement: Reg. 4 in force at 27.5.2019, see reg. 1(2)

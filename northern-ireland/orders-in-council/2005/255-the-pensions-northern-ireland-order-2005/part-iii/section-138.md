@@ -31,7 +31,7 @@ summary: ''
 - (b) that—
   - (i) the trustees or managers did not make an application under that Article or Article 137(2) within the authorised period (within the meaning of Article 135(6)) (or any such application has been withdrawn), or
   - (ii) if such an application was made, it has been finally determined, and
-- (c)[^c17104841] that, if an application was made under Article 135, the Board is not required to assume responsibility for the scheme by virtue of Article 136(2) or (2B)[^key-5a7d67673252bc3ca23269c590577a81].
+- (c)[^c17104841] that, if an application was made under Article 135, the Board is not required to assume responsibility for the scheme by virtue of Article 136(2) or (2B)[^c-5a7d67673252bc3ca23269c590577a81].
 
 (3) For the purposes of paragraph (2)(b)(ii) an application is not finally determined until—
 
@@ -49,7 +49,7 @@ summary: ''
 (5) The conditions are—
 
 - (a) that an application is made by, or notice is given to, the trustees or managers of the scheme under Article 141 (applications and notifications where closed schemes have insufficient assets),
-- (b)[^c17104841] that the determination made by the Board or[^key-a0cb9bf2f97f16dc76f60b0cc9b1df74] valuation obtained by the Board in respect of the scheme under Article 142(3) has become binding, and
+- (b)[^c17104841] that the determination made by the Board or[^c-a0cb9bf2f97f16dc76f60b0cc9b1df74] valuation obtained by the Board in respect of the scheme under Article 142(3) has become binding, and
 - (c)[^c17104841] that the Board is not required to assume responsibility for the scheme by virtue of Article 142(1) (duty to assume responsibility for closed scheme).
 
 (6)[^c17104821] Where a scheme is wound up in accordance with paragraph (1)(a), the winding up is to be taken as beginning immediately before the assessment period.
@@ -76,7 +76,7 @@ summary: ''
 
 (13) Where an assessment period in relation to an eligible scheme comes to an end by virtue of the conditions in paragraph (2) or (5) being satisfied, paragraphs (1) to (4) of Article 134 apply as they apply where an assessment period comes to an end by virtue of the Board ceasing to be involved with the scheme, except that in paragraph (2) of that Article the reference to Article 198 is to be read as a reference to paragraph (6) of this Article.
 
-(14) Where a public service pension scheme (within the meaning of the Pension Schemes Act)[^key-4782281b2688d62357bea1738011b878] is required to be wound up under this Article, the appropriate authority may by order make provision modifying any statutory provision in which the scheme is contained or under which it is made.
+(14) Where a public service pension scheme (within the meaning of the Pension Schemes Act)[^c-4782281b2688d62357bea1738011b878] is required to be wound up under this Article, the appropriate authority may by order make provision modifying any statutory provision in which the scheme is contained or under which it is made.
 
 (15) In paragraph (14), “the appropriate authority”, in relation to a scheme, means such Minister of the Crown or government department as may be designated by the Treasury or the Department of Finance and Personnel as having responsibility for the particular scheme.
 
@@ -88,8 +88,8 @@ summary: ''
 
 [^c17104841]: Textual amendment: mod. by SR 2005/55
 
-[^key-5a7d67673252bc3ca23269c590577a81]: Textual amendment: Words in art. 138(2)(c) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/16); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
+[^c-5a7d67673252bc3ca23269c590577a81]: Textual amendment: Words in art. 138(2)(c) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/16); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
 
-[^key-a0cb9bf2f97f16dc76f60b0cc9b1df74]: Textual amendment: Words in art. 138(5)(b) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/10); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-a0cb9bf2f97f16dc76f60b0cc9b1df74]: Textual amendment: Words in art. 138(5)(b) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/10); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-4782281b2688d62357bea1738011b878]: Textual amendment: Words in art. 138(14) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/18); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-4782281b2688d62357bea1738011b878]: Textual amendment: Words in art. 138(14) inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/18); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)

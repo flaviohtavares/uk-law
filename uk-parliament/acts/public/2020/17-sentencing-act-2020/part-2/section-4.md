@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Availability of deferment order[^key-1fdeac98383aafc8f3b2875ded7ef7ce]
+## 4. Availability of deferment order[^c-1fdeac98383aafc8f3b2875ded7ef7ce]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ See also section 11(4) (power of Crown Court to make further deferment order whe
 
 ## Annotations
 
-[^key-1fdeac98383aafc8f3b2875ded7ef7ce]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/17/section/4) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1fdeac98383aafc8f3b2875ded7ef7ce]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/17/section/4) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

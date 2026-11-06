@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — New Schedule 2A to the Road Traffic Act 1988[^key-3d48ba6df363f810062105c4bbaf0ced]
+## SCHEDULE 5 — New Schedule 2A to the Road Traffic Act 1988[^c-3d48ba6df363f810062105c4bbaf0ced]
 
 *Extent: E+W+S+N.I.*
 
 Section 22
 
-[^key-3d48ba6df363f810062105c4bbaf0ced]
+[^c-3d48ba6df363f810062105c4bbaf0ced]
 
 The Schedule inserted after Schedule 2 to the Road Traffic Act 1988 is as follows—
 
@@ -182,4 +182,4 @@ The Schedule inserted after Schedule 2 to the Road Traffic Act 1988 is as follow
 
 ## Annotations
 
-[^key-3d48ba6df363f810062105c4bbaf0ced]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/5) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)
+[^c-3d48ba6df363f810062105c4bbaf0ced]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/5) in force at 4.2.2011 by [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)

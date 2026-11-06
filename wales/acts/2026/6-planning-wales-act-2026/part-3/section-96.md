@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Duration of minerals permission[^key-5caedf051c8d4bb268d0edc9bea5bdda]
+## 96. Duration of minerals permission[^c-5caedf051c8d4bb268d0edc9bea5bdda]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 5 provides for every minerals permission to be subject to a condition l
 
 ## Annotations
 
-[^key-5caedf051c8d4bb268d0edc9bea5bdda]: Commencement: S. 96 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5caedf051c8d4bb268d0edc9bea5bdda]: Commencement: S. 96 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

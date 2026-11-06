@@ -27,7 +27,7 @@ summary: ''
 
 1978 No. 1045 (N.I. 15)
 
-Matrimonial Causes (Northern Ireland) Order 1978[^key-4a8b1e13164588f658c412b4a908ea36]
+Matrimonial Causes (Northern Ireland) Order 1978[^c-4a8b1e13164588f658c412b4a908ea36]
 
 \[25th July 1978\]
 
@@ -196,6 +196,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-4a8b1e13164588f658c412b4a908ea36]: Modification: Order: transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 31](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/31) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-4a8b1e13164588f658c412b4a908ea36]: Modification: Order: transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 31](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/31) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c16975111]: Textual amendment: [1989 NI 4](https://www.legislation.gov.uk/1989/ni4)

@@ -58,14 +58,14 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 (1) In these Regulations—
 
-- “the 2017 Act” means the Guardianship (Missing Persons) Act 2017;[^key-cb60149f0fd49f7329839e868a0bebb5]
+- “the 2017 Act” means the Guardianship (Missing Persons) Act 2017;[^c-cb60149f0fd49f7329839e868a0bebb5]
 - “**the Act**” means the Mental Capacity Act 2005;
-- “**court**” means the Court of Protection or in relation to proceedings under the 2017 Act the court for the time being designated by the Lord Chancellor under section 23 of the 2017 Act[^key-7e14f84b235969c9df5216161f194b14];
-- “guardian” has the meaning given in the 2017 Act;[^key-6874b8ae89aa056d8121bb3fe10f38e4]
+- “**court**” means the Court of Protection or in relation to proceedings under the 2017 Act the court for the time being designated by the Lord Chancellor under section 23 of the 2017 Act[^c-7e14f84b235969c9df5216161f194b14];
+- “guardian” has the meaning given in the 2017 Act;[^c-6874b8ae89aa056d8121bb3fe10f38e4]
 - “guardianship order” has the meaning given in the 2017 Act;
 - “**LPA certificate**”, in relation to an instrument made with a view to creating a lasting power of attorney, means the certificate which is required to be included in the instrument by virtue of paragraph 2(1)(e) of Schedule 1 to the Act;
-- “**person to notify[^key-bf9f4f9e33cd8f7101b1266b7506a4f9]**”, in relation to an instrument made with a view to creating a lasting power of attorney, means a person who, under Schedule 1, paragraph 2(1)(c)(i) of the Act,[^key-429cf7e38f300e087086900225586b3b] is named in the instrument as being a person to be notified of any application for the registration of the instrument;
-- “**prescribed information**”, in relation to any instrument intended to create a lasting power of attorney, means the information contained in the form used for the instrument which appears under the heading “Section 8 – Your legal rights and responsibilities”[^key-0befb3daf86c161e227e0b4a4218b200].
+- “**person to notify[^c-bf9f4f9e33cd8f7101b1266b7506a4f9]**”, in relation to an instrument made with a view to creating a lasting power of attorney, means a person who, under Schedule 1, paragraph 2(1)(c)(i) of the Act,[^c-429cf7e38f300e087086900225586b3b] is named in the instrument as being a person to be notified of any application for the registration of the instrument;
+- “**prescribed information**”, in relation to any instrument intended to create a lasting power of attorney, means the information contained in the form used for the instrument which appears under the heading “Section 8 – Your legal rights and responsibilities”[^c-0befb3daf86c161e227e0b4a4218b200].
 
 ### 3. Minimal differences from forms prescribed in these Regulations
 
@@ -106,11 +106,11 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 The forms set out in Parts 1 and 2 of Schedule 1 to these Regulations are the forms which, in the circumstances to which they apply, are to be used for instruments intended to create a lasting power of attorney.
 
-#### 6. Maximum number of people to notify[^key-b94a1b027ee5b44f90e67803d6d6282f]
+#### 6. Maximum number of people to notify[^c-b94a1b027ee5b44f90e67803d6d6282f]
 
-The maximum number of people to notify[^key-633f9c8293eb7d4f337756a79f40b20a] that the donor of a lasting power of attorney may specify in the instrument intended to create the power is 5.
+The maximum number of people to notify[^c-633f9c8293eb7d4f337756a79f40b20a] that the donor of a lasting power of attorney may specify in the instrument intended to create the power is 5.
 
-#### 7. Requirement for two LPA certificates where instrument has no named persons[^key-4d619f367cfdded9d7100cc79b1b40bc]
+#### 7. Requirement for two LPA certificates where instrument has no named persons[^c-4d619f367cfdded9d7100cc79b1b40bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,13 +147,13 @@ The maximum number of people to notify[^key-633f9c8293eb7d4f337756a79f40b20a] th
 
 (4) In this regulation—
 
-- “care home” means—[^key-28e1c0b0ac7fe1ee2b6a7c2e30950990]
+- “care home” means—[^c-28e1c0b0ac7fe1ee2b6a7c2e30950990]
   - (a) a care home in England within the meaning given by section 3 of the Care Standards Act 2000, and
   - (b) a place in Wales at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to persons aged 18 or over;
 - “**registered health care professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c18574381]; and
 - “**registered social worker**” means a person registered as a social worker in a register maintained by—
-  - (a) Social Work England;[^key-f4ccc1383348928a4bd4eab1821e2005]
-  - (b) Social Care Wales[^key-cc34dd326cc36c9836bfe54f25f29af3];
+  - (a) Social Work England;[^c-f4ccc1383348928a4bd4eab1821e2005]
+  - (b) Social Care Wales[^c-cc34dd326cc36c9836bfe54f25f29af3];
   - (c) the Scottish Social Services Council; or
   - (d) the Northern Ireland Social Care Council.
 
@@ -165,17 +165,17 @@ The maximum number of people to notify[^key-633f9c8293eb7d4f337756a79f40b20a] th
 
 (3) As soon as reasonably practicable after the steps required by paragraph (2) have been taken, the donor must—
 
-- (a) complete the provisions of Sections 1 to 7[^key-837a2baa484d7d2f6201665999b34fc0] of the instrument that apply to him (or direct another person to do so); and
-- (b)[^key-1ce91e2b1e66a948582879275607094a] subject to paragraph (7), in the presence of a witness—
+- (a) complete the provisions of Sections 1 to 7[^c-837a2baa484d7d2f6201665999b34fc0] of the instrument that apply to him (or direct another person to do so); and
+- (b)[^c-1ce91e2b1e66a948582879275607094a] subject to paragraph (7), in the presence of a witness—
   - (i) sign Section 9 of the instrument if the instrument is intended to create a lasting power of attorney for property and financial affairs (Form LP1F); or
   - (ii) sign Sections 5 and 9 of the instrument if the instrument is intended to create a lasting power of attorney for health and welfare (Form LP1H);
 
 (4) As soon as reasonably practicable after the steps required by paragraph (3) have been taken—
 
-- (a) the person giving an LPA certificate, [^key-bc443af95b9346353a45582475341eba]...
-- (b)[^key-2656bb40a12d0c96a4a938b11603efb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the person giving an LPA certificate, [^c-bc443af95b9346353a45582475341eba]...
+- (b)[^c-2656bb40a12d0c96a4a938b11603efb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-must complete the LPA certificate at Section 10[^key-61eb0ab8e8bf6e32d735c44762e37128] of the instrument and sign it.
+must complete the LPA certificate at Section 10[^c-61eb0ab8e8bf6e32d735c44762e37128] of the instrument and sign it.
 
 (5) As soon as reasonably practicable after the steps required by paragraph (4) have been taken—
 
@@ -186,7 +186,7 @@ must read (or have read to him) all the prescribed information.
 
 (6) As soon as reasonably practicable after the steps required by paragraph (5) have been taken, the donee or, if more than one, each of them—
 
-- (a) must complete the provisions of Section 11[^key-31287b284402124374223eed40032907] of the instrument that apply to him (or direct another person to do so); and
+- (a) must complete the provisions of Section 11[^c-31287b284402124374223eed40032907] of the instrument that apply to him (or direct another person to do so); and
 - (b) subject to paragraph (7), must sign Section 11 of the instrument in the presence of a witness.
 
 (7) If the instrument is to be signed by any person at the direction of the donor, or at the direction of any donee, the signature must be done in the presence of two witnesses.
@@ -207,9 +207,9 @@ must read (or have read to him) all the prescribed information.
 
 #### 10. Notice to be given by a person about to apply for registration of lasting power of attorney
 
-Schedule 2 to these Regulations sets out the form of notice (Form LPA3)[^key-ea5b95c8c279b4d78f160762b8680b02] which must be given by a donor or donee who is about to make an application for the registration of an instrument intended to create a lasting power of attorney.
+Schedule 2 to these Regulations sets out the form of notice (Form LPA3)[^c-ea5b95c8c279b4d78f160762b8680b02] which must be given by a donor or donee who is about to make an application for the registration of an instrument intended to create a lasting power of attorney.
 
-#### 11. Application for registration[^key-c0c571cb2da633a82b5468ae2f83bc32]
+#### 11. Application for registration[^c-c0c571cb2da633a82b5468ae2f83bc32]
 
 (1) An application to the Public Guardian for the registration of an instrument intended to create a lasting power of attorney that is in Form LP1F or LP1H must be made by completion of Sections 12 and 13, the relevant parts of Section 14 and Section 15 of that Form.
 
@@ -242,7 +242,7 @@ the Public Guardian must not register the instrument unless the court directs th
 
 #### 12. Period to elapse before registration in cases not involving objection or defect
 
-The period at the end of which the Public Guardian must register an instrument in accordance with paragraph 5 of Schedule 1 to the Act is the period of 4 weeks[^key-095393f23bf9650aa8c0478d6b91a89e] beginning with—
+The period at the end of which the Public Guardian must register an instrument in accordance with paragraph 5 of Schedule 1 to the Act is the period of 4 weeks[^c-095393f23bf9650aa8c0478d6b91a89e] beginning with—
 
 - (a) the date on which the Public Guardian gave the notice or notices under paragraph 7 or 8 of Schedule 1 to the Act of receipt of an application for registration; or
 - (b) if notices were given on more than one date, the latest of those dates.
@@ -263,21 +263,21 @@ The period at the end of which the Public Guardian must register an instrument i
 - (a) to the donor personally; and
 - (b) in a way that is appropriate to the donor's circumstances (for example using simple language, visual aids or other appropriate means).
 
-#### 14. Objection to registration: notice to Public Guardian to be given by the donee of the power or a person to notify[^key-681ecc29543a49e4d990df847fd6d817][^key-de85e3f42dd016fd0b8ebfeb9c2eab84]
+#### 14. Objection to registration: notice to Public Guardian to be given by the donee of the power or a person to notify[^c-681ecc29543a49e4d990df847fd6d817][^c-de85e3f42dd016fd0b8ebfeb9c2eab84]
 
-(1) This regulation deals with any objection to the registration of an instrument as a lasting power of attorney which is to be made to the Public Guardian by the donee of the power or a[^key-8a4a60a3e58d5ab5912493fb7d438f53] person to notify[^key-8b0fffe4997112036c0fbed2660ccc8e].
+(1) This regulation deals with any objection to the registration of an instrument as a lasting power of attorney which is to be made to the Public Guardian by the donee of the power or a[^c-8a4a60a3e58d5ab5912493fb7d438f53] person to notify[^c-8b0fffe4997112036c0fbed2660ccc8e].
 
-(2) Where the donee of the power or a[^key-9a03bf514ee52fb8445cdaebcee0c12e] person to notify—
+(2) Where the donee of the power or a[^c-9a03bf514ee52fb8445cdaebcee0c12e] person to notify—
 
 - (a) is entitled to receive notice under paragraph 6, 7 or 8 of Schedule 1 to the Act of an application for the registration of the instrument, and
 - (b) wishes to object to registration on a ground set out in paragraph 13(1) of Schedule 1 to the Act,
 
-he must do so before the end of the period of 3 weeks[^key-1ad008d6067024ecea59c9479fc311be] beginning with the date on which the notice is given.
+he must do so before the end of the period of 3 weeks[^c-1ad008d6067024ecea59c9479fc311be] beginning with the date on which the notice is given.
 
 (3) A notice of objection must be given in writing, setting out—
 
 - (a) the name and address of the objector;
-- (b) [^key-34a690625b2ec9753af14c9ac8eda840]...the name and address of the donor of the power;
+- (b) [^c-34a690625b2ec9753af14c9ac8eda840]...the name and address of the donor of the power;
 - (c) if known, the name and address of the donee (or donees); and
 - (d) the ground for making the objection.
 
@@ -297,7 +297,7 @@ the notice under paragraph (4) must contain a statement to that effect.
 - (a) the notice under paragraph (4) indicates that the Public Guardian is not satisfied that the particular ground of objection to which that notice relates is established; and
 - (b) the period specified in paragraph (2) has not expired.
 
-#### 14A. Objection to registration: notice to Public Guardian to be given by the donor[^key-f8c595c413ab36ffc37d2b83f1b6ebc2]
+#### 14A. Objection to registration: notice to Public Guardian to be given by the donor[^c-f8c595c413ab36ffc37d2b83f1b6ebc2]
 
 (1) This regulation deals with any objection to the registration of an instrument as a lasting power of attorney which is to be made to the Public Guardian by the donor of the power.
 
@@ -306,7 +306,7 @@ the notice under paragraph (4) must contain a statement to that effect.
 - (a) is entitled to receive notice under paragraph 8 of Schedule 1 to the Act of an application for the registration of the instrument, and
 - (b) wishes to object to the registration,
 
-he must do so before the end of the period of 3 weeks[^key-f9d8960ed0db24ac1bdcbb2fbcea8112] beginning with the date on which the notice is given.
+he must do so before the end of the period of 3 weeks[^c-f9d8960ed0db24ac1bdcbb2fbcea8112] beginning with the date on which the notice is given.
 
 (3) The donor of the power must give notice of his objection in writing to the Public Guardian, setting out—
 
@@ -329,7 +329,7 @@ he must do so before the end of the period of 3 weeks[^key-f9d8960ed0db24ac1bdcb
 - (a) is entitled to receive notice under paragraph 6, 7 or 8 of Schedule 1 to the Act of an application for the registration of the instrument, and
 - (b) wishes to object to registration on one or more of the grounds set out in paragraph (2),
 
-he must make an application to the court before the end of the period of 3 weeks[^key-dbafb93a9b5060a6637633f5e84f8767] beginning with the date on which the notice is given.
+he must make an application to the court before the end of the period of 3 weeks[^c-dbafb93a9b5060a6637633f5e84f8767] beginning with the date on which the notice is given.
 
 (4) The notice of an application to the court, which a person making an objection to the court is required to give to the Public Guardian under paragraph 13(3)(b)(ii) of Schedule 1 to the Act, must be in writing.
 
@@ -374,7 +374,7 @@ he must notify the person (or persons) who applied for registration of that fact
 
 (2) The Public Guardian must give a notice to the donor and the donee (or, if more than one, each of them) requiring him to deliver to the Public Guardian—
 
-- (a) the original [^key-25981efa4ef04842e8d6c9f7fbb428c2]... instrument which was sent to the Public Guardian for registration;
+- (a) the original [^c-25981efa4ef04842e8d6c9f7fbb428c2]... instrument which was sent to the Public Guardian for registration;
 - (b) any office copy of that registered instrument; and
 - (c) any certified copy of that registered instrument.
 
@@ -451,12 +451,12 @@ he must notify the person (or persons) who applied for registration of that fact
 
 (1) Schedule 8 to these Regulations sets out the form (“EP2PG”) which must be used for making an application to the Public Guardian for the registration of an instrument creating an enduring power of attorney.
 
-(1A)[^key-c39e087bf5304e4f7e3a1526226ec6f1] The Public Guardian must not register an instrument where only a certified copy of the instrument is sent with the application, unless the applicant verifies that he cannot produce the original instrument because it has been lost or, as the case may be, destroyed.
+(1A)[^c-c39e087bf5304e4f7e3a1526226ec6f1] The Public Guardian must not register an instrument where only a certified copy of the instrument is sent with the application, unless the applicant verifies that he cannot produce the original instrument because it has been lost or, as the case may be, destroyed.
 
 (2) Where the instrument to be registered which is sent with the application is neither—
 
 - (a) the original instrument creating the power, nor
-- (b) a certified copy of it in relation to which paragraph (1A) has been complied with[^key-255c6600905150f69ee5622e6d4952d9],
+- (b) a certified copy of it in relation to which paragraph (1A) has been complied with[^c-255c6600905150f69ee5622e6d4952d9],
 
 the Public Guardian must not register the instrument unless the court directs him to do so.
 
@@ -525,9 +525,9 @@ In a case within paragraph 20(6) or (7) of Schedule 4 to the Act, the form of th
 (1) In this Part “**the registers**” means—
 
 - (a) the register of lasting powers of attorney,
-- (b) the register of enduring powers of attorney, [^key-689bf04a5d25efe9c0bb3a2691888552]...
-- (c) the register of court orders appointing deputies, and[^key-04f7cff0221b9258919d1a22b8d95727]
-- (d)[^key-8e743199ab206bf97bf592bd37b49148] the register of guardianship orders,
+- (b) the register of enduring powers of attorney, [^c-689bf04a5d25efe9c0bb3a2691888552]...
+- (c) the register of court orders appointing deputies, and[^c-04f7cff0221b9258919d1a22b8d95727]
+- (d)[^c-8e743199ab206bf97bf592bd37b49148] the register of guardianship orders,
 
 which the Public Guardian must establish and maintain.
 
@@ -574,7 +574,7 @@ which the Public Guardian must establish and maintain.
 
 (5) The Public Guardian may require the applicant to provide such further information, or produce such documents, as the Public Guardian reasonably considers necessary to enable him to determine the application.
 
-(6) In determining whether to disclose any additional information relating[^key-ab205b11cfc4f37e41d30f4b4796d801] to P, the Public Guardian must, in particular, have regard to—
+(6) In determining whether to disclose any additional information relating[^c-ab205b11cfc4f37e41d30f4b4796d801] to P, the Public Guardian must, in particular, have regard to—
 
 - (a) the connection between P and the applicant;
 - (b) the reasons for requesting the information (in particular, why the information cannot or should not be obtained directly from P);
@@ -624,11 +624,11 @@ which the Public Guardian must establish and maintain.
 
 - “**authorised insurance company**” means—
   - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c18574401] to effect or carry out contracts of insurance;
-  - (b) [^key-f85099947f75fe3872be52438a5014db]...
+  - (b) [^c-f85099947f75fe3872be52438a5014db]...
   - (c) a person who carries on insurance market activity (within the meaning given in section 316(3) of that Act); and
 - “**authorised deposit-taker**” means—
   - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits;
-  - (b) [^key-a390aa2739212478e2574498955506c9]...
+  - (b) [^c-a390aa2739212478e2574498955506c9]...
 
 (6) The definitions of “authorised insurance company” and “authorised deposit-taker” must be read with—
 
@@ -647,7 +647,7 @@ which the Public Guardian must establish and maintain.
 - (a) the requirements set out in sub-paragraphs (a) and (b) of regulation 33(3) have been met in relation to it; and
 - (b) no payment is due from S in connection with the discharge of his functions.
 
-(4)[^key-b8802443df7ec6a6424cd66032efcaf4] The Public Guardian must, if satisfied as to the matters in paragraph (3), provide written notice of that fact to S within 2 weeks of being given notification in accordance with regulation 33(3)(b) in relation to the new security.
+(4)[^c-b8802443df7ec6a6424cd66032efcaf4] The Public Guardian must, if satisfied as to the matters in paragraph (3), provide written notice of that fact to S within 2 weeks of being given notification in accordance with regulation 33(3)(b) in relation to the new security.
 
 #### 36. Enforcement following court order of any endorsed security
 
@@ -664,41 +664,41 @@ which the Public Guardian must establish and maintain.
 
 (2) The security may be discharged if the court makes an order discharging it.
 
-(3)[^key-8bb9858abdefea2bcc8093d632fa00ce] Otherwise the security may not be discharged—
+(3)[^c-8bb9858abdefea2bcc8093d632fa00ce] Otherwise the security may not be discharged—
 
-- (a) if the person on whose behalf S was appointed to act dies, until the end of the period of 2 years beginning on the date of his death; [^key-85dc7889bdc1455450746bc6564c4158]...
-- (aa)[^key-ae3e964e3ea357ee1be46d655551a549] if, in respect of the person on whose behalf S was appointed to act, the court makes a declaration of presumed death under section 2(1) of the Presumption of Death Act 2013, until the end of the period of 2 years beginning on the date the court makes the declaration of presumed death; or
+- (a) if the person on whose behalf S was appointed to act dies, until the end of the period of 2 years beginning on the date of his death; [^c-85dc7889bdc1455450746bc6564c4158]...
+- (aa)[^c-ae3e964e3ea357ee1be46d655551a549] if, in respect of the person on whose behalf S was appointed to act, the court makes a declaration of presumed death under section 2(1) of the Presumption of Death Act 2013, until the end of the period of 2 years beginning on the date the court makes the declaration of presumed death; or
 - (b) in any other case, until the end of the period of 7 years beginning on whichever of the following dates first occurs—
   - (i) if S dies, the date of his death;
   - (ii) if the court makes an order which discharges S but which does not also discharge the security under paragraph (2), the date of the order;
   - (iii) the date when S otherwise ceases to be under a duty to discharge the functions in respect of which he was ordered to give security.
 
-(3A)[^key-6689b3d2c618809a99153dfbf1fde879] Where S has replaced a security (“the original security”) previously given by S and the Public Guardian has provided notice in accordance with regulation 35(4), the original security shall stand discharged 2 years from the date on which that notice was issued unless discharged by earlier order of the court upon application under paragraph (2).
+(3A)[^c-6689b3d2c618809a99153dfbf1fde879] Where S has replaced a security (“the original security”) previously given by S and the Public Guardian has provided notice in accordance with regulation 35(4), the original security shall stand discharged 2 years from the date on which that notice was issued unless discharged by earlier order of the court upon application under paragraph (2).
 
 (4) For the purposes of paragraph (3), if a person takes any step with a view to discharging the security before the end of the period specified in that paragraph, the security is to be treated for all purposes as if it were still in place.
 
-(5)[^key-9c737a6236966da9c772e9b375413e49] For the purposes of paragraph (3A), if a person takes any step otherwise than under paragraph (2) with a view to discharging the original security before the end of the period specified paragraph (3A), the security is to be treated for all purposes as if it were still in place.
+(5)[^c-9c737a6236966da9c772e9b375413e49] For the purposes of paragraph (3A), if a person takes any step otherwise than under paragraph (2) with a view to discharging the original security before the end of the period specified paragraph (3A), the security is to be treated for all purposes as if it were still in place.
 
-(6)[^key-39d1f9fedd2ece62c086a5fe6bb6dd42] For the purposes of paragraph (3)(aa), “the court” means the High Court.
+(6)[^c-39d1f9fedd2ece62c086a5fe6bb6dd42] For the purposes of paragraph (3)(aa), “the court” means the High Court.
 
-### Deputies and Guardians[^key-35f7af6720a5dd1942281f0cdd5c142e]
+### Deputies and Guardians[^c-35f7af6720a5dd1942281f0cdd5c142e]
 
 #### 38. Application for additional time to submit a report
 
-(1) This regulation applies where the court requires a deputy or a guardian[^key-6f0674b879ace6cafa5da489051298d1] to submit a report to the Public Guardian and specifies a time or interval for it to be submitted.
+(1) This regulation applies where the court requires a deputy or a guardian[^c-6f0674b879ace6cafa5da489051298d1] to submit a report to the Public Guardian and specifies a time or interval for it to be submitted.
 
-(2) A deputy or a guardian[^key-d9a0d8328581ee842a2e481a84ae808d] may apply to the Public Guardian requesting more time for submitting a particular report.
+(2) A deputy or a guardian[^c-d9a0d8328581ee842a2e481a84ae808d] may apply to the Public Guardian requesting more time for submitting a particular report.
 
 (3) An application must—
 
 - (a) state the reason for requesting more time; and
 - (b) contain or be accompanied by such information as the Public Guardian may reasonably require to determine the application.
 
-(4) In response to an application, the Public Guardian may, if he considers it appropriate to do so, undertake that he will not take steps to secure performance of the deputy's or the guardian’s[^key-91a2f408eaf2ad8fbdf9b3a865631fdb] duty to submit the report at the relevant time on the condition that the report is submitted on or before such later date as he may specify.
+(4) In response to an application, the Public Guardian may, if he considers it appropriate to do so, undertake that he will not take steps to secure performance of the deputy's or the guardian’s[^c-91a2f408eaf2ad8fbdf9b3a865631fdb] duty to submit the report at the relevant time on the condition that the report is submitted on or before such later date as he may specify.
 
 #### 39. Content of reports
 
-(1) Any report which the court requires a deputy or a guardian[^key-14002361668be7a0adcf24ab20841083] to submit to the Public Guardian must include such material as the court may direct.
+(1) Any report which the court requires a deputy or a guardian[^c-14002361668be7a0adcf24ab20841083] to submit to the Public Guardian must include such material as the court may direct.
 
 (2) The report must also contain or be accompanied by—
 
@@ -710,7 +710,7 @@ which the Public Guardian must establish and maintain.
 - (a) extends only to information or documents which are reasonably required in connection with the exercise by the Public Guardian of functions conferred on him under the Act; and
 - (b) is subject to paragraph (1) and to any other directions given by the court.
 
-(4) Where powers as respects a person's property and affairs are conferred on a deputy under section 16 of the Act or a guardian under the 2017 Act[^key-a53b4489171fc2e323259bb068ba2bfa], the information specified by the Public Guardian under paragraph (2) may include accounts which—
+(4) Where powers as respects a person's property and affairs are conferred on a deputy under section 16 of the Act or a guardian under the 2017 Act[^c-a53b4489171fc2e323259bb068ba2bfa], the information specified by the Public Guardian under paragraph (2) may include accounts which—
 
 - (a) deal with specified matters; and
 - (b) are provided in a specified form.
@@ -722,49 +722,49 @@ which the Public Guardian must establish and maintain.
 
 as he may reasonably require.
 
-(6) “**Specified**” means specified in a notice in writing given to the deputy or the guardian[^key-43dfaf716c71a87d0855ce8e20babd90] by the Public Guardian.
+(6) “**Specified**” means specified in a notice in writing given to the deputy or the guardian[^c-43dfaf716c71a87d0855ce8e20babd90] by the Public Guardian.
 
-#### 40. Power to require final report on termination of deputy appointment or on expiry, variation or revocation of guardianship order[^key-0402e83b8d96d1fc7d50f73d94e383d6]
+#### 40. Power to require final report on termination of deputy appointment or on expiry, variation or revocation of guardianship order[^c-0402e83b8d96d1fc7d50f73d94e383d6]
 
-(1) In the case of a deputy,[^key-1dc140f1d5e276cfc6d56c0f329565ae] this regulation applies where—
+(1) In the case of a deputy,[^c-1dc140f1d5e276cfc6d56c0f329565ae] this regulation applies where—
 
 - (a) the person on whose behalf a deputy was appointed to act has died;
 - (b) the deputy has died;
 - (c) the court has made an order discharging the deputy; or
 - (d) the deputy otherwise ceases to be under a duty to discharge the functions to which his appointment relates.
 
-(1A)[^key-6edbf70cb6b1f0613ed565f80559976c] In the case of a guardian, this regulation applies where—
+(1A)[^c-6edbf70cb6b1f0613ed565f80559976c] In the case of a guardian, this regulation applies where—
 
 - (a) the period of appointment of the guardian has expired under section 7 of the 2017 Act (period of guardianship);
 - (b) the court has made an order varying the guardianship order under section 12 of the 2017 Act (variation of guardianship order);
 - (c) the court has made an order revoking the guardianship order under section 13 of the 2017 Act (revocation of guardianship order); or
 - (d) the guardianship order has been automatically revoked under section 14 of the 2017 Act (automatic revocation).
 
-(2) The Public Guardian may require the deputy or the guardian[^key-1ac671c0f6c002059c6822f1f22cf852] (or, in the case of the deputy's death or the guardian’s death[^key-53fc4eef875bbbb3c16d919f02e29fbf], his personal representatives) to submit a final report on the discharge of his functions.
+(2) The Public Guardian may require the deputy or the guardian[^c-1ac671c0f6c002059c6822f1f22cf852] (or, in the case of the deputy's death or the guardian’s death[^c-53fc4eef875bbbb3c16d919f02e29fbf], his personal representatives) to submit a final report on the discharge of his functions.
 
 (3) A final report must be submitted—
 
 - (a) before the end of such reasonable period as may be specified; and
 - (b) at such place as may be specified.
 
-(4) The Public Guardian must consider the final report, together with any other information that he may have relating to the discharge by the deputy or the guardian[^key-35e1779cd8af9a1f8a0f6dc841fa25f5] of his functions.
+(4) The Public Guardian must consider the final report, together with any other information that he may have relating to the discharge by the deputy or the guardian[^c-35e1779cd8af9a1f8a0f6dc841fa25f5] of his functions.
 
-(5) Where the Public Guardian is dissatisfied with any aspect of the final report he may apply to the court for an appropriate remedy (including enforcement of security given by the deputy or the guardian[^key-4aaacc8f68c7fcbe107b94850892981c]).
+(5) Where the Public Guardian is dissatisfied with any aspect of the final report he may apply to the court for an appropriate remedy (including enforcement of security given by the deputy or the guardian[^c-4aaacc8f68c7fcbe107b94850892981c]).
 
-(6) “**Specified**” means specified in a notice in writing given to the deputy or the guardian or their[^key-42b7e3f80be495f5541b5a1e9ab500e9] personal representatives by the Public Guardian.
+(6) “**Specified**” means specified in a notice in writing given to the deputy or the guardian or their[^c-42b7e3f80be495f5541b5a1e9ab500e9] personal representatives by the Public Guardian.
 
-#### 41. Power to require information from deputies or guardians[^key-24414cbb8e96feedee389d84301b7349]
+#### 41. Power to require information from deputies or guardians[^c-24414cbb8e96feedee389d84301b7349]
 
 (1) This regulation applies in any case where—
 
 - (a) the Public Guardian has received representations (including complaints) about—
-  - (i) the way in which a deputy or a guardian[^key-0485d047643a6c1330bf8f32bfbdd0b4] is exercising his powers; or
+  - (i) the way in which a deputy or a guardian[^c-0485d047643a6c1330bf8f32bfbdd0b4] is exercising his powers; or
   - (ii) any failure to exercise them; or
 - (b) it appears to the Public Guardian that there are other circumstances which—
-  - (i) give rise to concerns about, or dissatisfaction with, the conduct of the deputy or the guardian[^key-2a9faf4552099f2373c93931e7156f0d] (including any failure to act); or
-  - (ii) otherwise constitute good reason to seek information about the deputy's or the guardian’s[^key-c1f3ca187d400e23ae41a7c62d2803ec] discharge of his functions.
+  - (i) give rise to concerns about, or dissatisfaction with, the conduct of the deputy or the guardian[^c-2a9faf4552099f2373c93931e7156f0d] (including any failure to act); or
+  - (ii) otherwise constitute good reason to seek information about the deputy's or the guardian’s[^c-c1f3ca187d400e23ae41a7c62d2803ec] discharge of his functions.
 
-(2) The Public Guardian may require the deputy or the guardian[^key-a11da95b848e902003505ca125b5a1f1] —
+(2) The Public Guardian may require the deputy or the guardian[^c-a11da95b848e902003505ca125b5a1f1] —
 
 - (a) to provide specified information or information of a specified description; or
 - (b) to produce specified documents or documents of a specified description.
@@ -781,29 +781,29 @@ as he may reasonably require.
 
 as he may reasonably require.
 
-(5) “**Specified**” means specified in a notice in writing given to the deputy or the guardian[^key-7c26318e99bb61cc1cb196c6d3458616] by the Public Guardian.
+(5) “**Specified**” means specified in a notice in writing given to the deputy or the guardian[^c-7c26318e99bb61cc1cb196c6d3458616] by the Public Guardian.
 
-#### 42. Right of deputy or guardian to require review of decisions made by the Public Guardian[^key-992006505d399b49dc117eba5de13d5d]
+#### 42. Right of deputy or guardian to require review of decisions made by the Public Guardian[^c-992006505d399b49dc117eba5de13d5d]
 
-(1) A deputy or a guardian[^key-3670e8731ac95c234e84d5ec4c8eebc5] may require the Public Guardian to reconsider any decision he has made in relation to the deputy or the guardian[^key-65372cc1e37b85e614d9a9cacd7f59f5].
+(1) A deputy or a guardian[^c-3670e8731ac95c234e84d5ec4c8eebc5] may require the Public Guardian to reconsider any decision he has made in relation to the deputy or the guardian[^c-65372cc1e37b85e614d9a9cacd7f59f5].
 
-(2) The right under paragraph (1) is exercisable by giving notice of exercise of the right to the Public Guardian before the end of the period of 14 days beginning with the date on which notice of the decision is given to the deputy or the guardian[^key-850e4b990921bed3668fc06185e089b0].
+(2) The right under paragraph (1) is exercisable by giving notice of exercise of the right to the Public Guardian before the end of the period of 14 days beginning with the date on which notice of the decision is given to the deputy or the guardian[^c-850e4b990921bed3668fc06185e089b0].
 
 (3) The notice of exercise of the right must—
 
 - (a) state the grounds on which reconsideration is required; and
 - (b) contain or be accompanied by any relevant information or documents.
 
-(4) At any time after receiving the notice and before reconsidering the decision to which it relates, the Public Guardian may require the deputy or the guardian[^key-ec25e27f06a3928ccfd0d8e0a133229e] to provide him with such further information, or to produce such documents, as he reasonably considers necessary to enable him to reconsider the matter.
+(4) At any time after receiving the notice and before reconsidering the decision to which it relates, the Public Guardian may require the deputy or the guardian[^c-ec25e27f06a3928ccfd0d8e0a133229e] to provide him with such further information, or to produce such documents, as he reasonably considers necessary to enable him to reconsider the matter.
 
-(5) The Public Guardian must give to the deputy or the guardian[^key-37fd236db2c7de2daf11e82c4af9178f]—
+(5) The Public Guardian must give to the deputy or the guardian[^c-37fd236db2c7de2daf11e82c4af9178f]—
 
 - (a) written notice of his decision on reconsideration, and
 - (b) if he upholds the previous decision, a statement of his reasons.
 
 ### Miscellaneous functions
 
-#### 43. Applications to the Court ...[^key-bd9815c211834b83b3b32fde1fbd50ab]
+#### 43. Applications to the Court ...[^c-bd9815c211834b83b3b32fde1fbd50ab]
 
 The Public Guardian has the function of making applications to the court in connection with his functions under the Act in such circumstances as he considers it necessary or appropriate to do so.
 
@@ -898,7 +898,7 @@ as he may reasonably require.
 
 #### 48. Other functions in relation to enduring powers of attorney
 
-(1)[^key-87d4fe2d2db2ff1eccc1f5aa44786de0] The Public Guardian has the following functions—
+(1)[^c-87d4fe2d2db2ff1eccc1f5aa44786de0] The Public Guardian has the following functions—
 
 - (a) directing a Court of Protection Visitor—
   - (i) to visit an attorney under a registered enduring power of attorney, or
@@ -907,7 +907,7 @@ as he may reasonably require.
   and to make a report to the Public Guardian on such matters as he may direct;
 - (b) dealing with representations (including complaints) about the way in which an attorney under a registered enduring power of attorney is exercising his powers.
 
-(2)[^key-f4af0fb361c98498136fc4b9b25be549] The functions conferred by paragraph (1) may be discharged in co-operation with any other person who has functions in relation to the care or treatment of P.
+(2)[^c-f4af0fb361c98498136fc4b9b25be549] The functions conferred by paragraph (1) may be discharged in co-operation with any other person who has functions in relation to the care or treatment of P.
 
 Signed by authority of the Lord Chancellor.
 
@@ -917,7 +917,7 @@ Parliamentary Under-Secretary of State,
 
 Department for Constitutional Affairs
 
-## SCHEDULE 1 — Form of Lasting Power of Attorney[^key-97b0bb63bfadd3c74d8be1cf97176ab4]
+## SCHEDULE 1 — Form of Lasting Power of Attorney[^c-97b0bb63bfadd3c74d8be1cf97176ab4]
 
 Regulation 5
 
@@ -931,7 +931,7 @@ Regulation 5
 
 °
 
-## SCHEDULE 2 — Form of Notice of Intention to Register Lasting Power of Attorney (Form LPA3)[^key-9dc1186e1ce484b48e1086598014c4dc]
+## SCHEDULE 2 — Form of Notice of Intention to Register Lasting Power of Attorney (Form LPA3)[^c-9dc1186e1ce484b48e1086598014c4dc]
 
 Regulation 10
 
@@ -939,7 +939,7 @@ Regulation 10
 
 °
 
-## SCHEDULE 3 — Form to Register Certain Lasting Powers of Attorney (Form LP2)[^key-4da4f525c6935fd55c46dacafd32cd6c]
+## SCHEDULE 3 — Form to Register Certain Lasting Powers of Attorney (Form LP2)[^c-4da4f525c6935fd55c46dacafd32cd6c]
 
 Regulation 11
 
@@ -947,7 +947,7 @@ Regulation 11
 
 °
 
-## SCHEDULE 3A[^key-bc01b9850e825ea78c91d638a2280765]
+## SCHEDULE 3A[^c-bc01b9850e825ea78c91d638a2280765]
 
 **No longer in force.**
 
@@ -955,7 +955,7 @@ Regulation 13
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Form of Notices of Application to Register a Lasting Power of Attorney[^key-b2a35ce8b39533b6fe250b0a5b3356d3]
+## SCHEDULE 4 — Form of Notices of Application to Register a Lasting Power of Attorney[^c-b2a35ce8b39533b6fe250b0a5b3356d3]
 
 Regulation 13
 
@@ -975,7 +975,7 @@ Regulation 17
 
 [image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_sld_071)
 
-## SCHEDULE 6 — Form of Disclaimer by a Proposed or Acting Attorney under a Lasting Power of Attorney (Form LPA005)[^key-ddf7775d15561e14cc62a90964f36432]
+## SCHEDULE 6 — Form of Disclaimer by a Proposed or Acting Attorney under a Lasting Power of Attorney (Form LPA005)[^c-ddf7775d15561e14cc62a90964f36432]
 
 Regulation 20
 
@@ -987,7 +987,7 @@ Regulation 20
 
 Regulation 23
 
- [^key-a17849d6c8b2637743870427ea3a0ad0]
+ [^c-a17849d6c8b2637743870427ea3a0ad0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_036)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_037)
 
@@ -997,7 +997,7 @@ Regulation 23
 
 Regulation 24
 
- [^key-d3d50547fb668c4a3aa3aa3c93664d95]
+ [^c-d3d50547fb668c4a3aa3aa3c93664d95]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_038)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_039)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_040)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_041)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_042)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_043)[image: see source](https://www.legislation.gov.uk/uksi/2007/1253/images/uksi_20071253_en_epp_044)
 
@@ -1025,182 +1025,182 @@ There are also provisions relating to the registers which the Public Guardian is
 
 [^c18574351]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9). Paragraph 1(3) of Schedule 1 is cited because of the meaning there given to “prescribed” and “regulations”.
 
-[^key-cb60149f0fd49f7329839e868a0bebb5]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/a)
+[^c-cb60149f0fd49f7329839e868a0bebb5]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/a)
 
-[^key-7e14f84b235969c9df5216161f194b14]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/b)
+[^c-7e14f84b235969c9df5216161f194b14]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/b)
 
-[^key-6874b8ae89aa056d8121bb3fe10f38e4]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/c)
+[^c-6874b8ae89aa056d8121bb3fe10f38e4]: Textual amendment: Words in reg. 2 inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/4/c)
 
-[^key-bf9f4f9e33cd8f7101b1266b7506a4f9]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/a/i)
+[^c-bf9f4f9e33cd8f7101b1266b7506a4f9]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/a/i)
 
-[^key-429cf7e38f300e087086900225586b3b]: Textual amendment: Words in reg. 2(1) inserted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/a/ii)
+[^c-429cf7e38f300e087086900225586b3b]: Textual amendment: Words in reg. 2(1) inserted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/a/ii)
 
-[^key-0befb3daf86c161e227e0b4a4218b200]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/b)
+[^c-0befb3daf86c161e227e0b4a4218b200]: Textual amendment: Words in reg. 2(1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2015/899/regulation/4/b)
 
 [^c18574361]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b94a1b027ee5b44f90e67803d6d6282f]: Textual amendment: Words in reg. 6 heading substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/899/regulation/5)
+[^c-b94a1b027ee5b44f90e67803d6d6282f]: Textual amendment: Words in reg. 6 heading substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/899/regulation/5)
 
-[^key-633f9c8293eb7d4f337756a79f40b20a]: Textual amendment: Words in reg. 6 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/899/regulation/5)
+[^c-633f9c8293eb7d4f337756a79f40b20a]: Textual amendment: Words in reg. 6 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/899/regulation/5)
 
-[^key-4d619f367cfdded9d7100cc79b1b40bc]: Textual amendment: Reg. 7 omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2015/899/regulation/6)
+[^c-4d619f367cfdded9d7100cc79b1b40bc]: Textual amendment: Reg. 7 omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2015/899/regulation/6)
 
-[^key-28e1c0b0ac7fe1ee2b6a7c2e30950990]: Textual amendment: Words in reg. 8(4) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/18/2)
+[^c-28e1c0b0ac7fe1ee2b6a7c2e30950990]: Textual amendment: Words in reg. 8(4) substituted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/18/2)
 
 [^c18574381]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-f4ccc1383348928a4bd4eab1821e2005]: Textual amendment: Words in reg. 8(4) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/18); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-f4ccc1383348928a4bd4eab1821e2005]: Textual amendment: Words in reg. 8(4) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/18); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-cc34dd326cc36c9836bfe54f25f29af3]: Textual amendment: Words in reg. 8(4) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/15/2)
+[^c-cc34dd326cc36c9836bfe54f25f29af3]: Textual amendment: Words in reg. 8(4) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/15/2)
 
-[^key-837a2baa484d7d2f6201665999b34fc0]: Textual amendment: Words in reg. 9(3)(a) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/a)
+[^c-837a2baa484d7d2f6201665999b34fc0]: Textual amendment: Words in reg. 9(3)(a) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/a)
 
-[^key-1ce91e2b1e66a948582879275607094a]: Textual amendment: Reg. 9(3)(b) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/b)
+[^c-1ce91e2b1e66a948582879275607094a]: Textual amendment: Reg. 9(3)(b) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/b)
 
-[^key-bc443af95b9346353a45582475341eba]: Textual amendment: Word in reg. 9(4)(a) omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/c)
+[^c-bc443af95b9346353a45582475341eba]: Textual amendment: Word in reg. 9(4)(a) omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/c)
 
-[^key-2656bb40a12d0c96a4a938b11603efb6]: Textual amendment: Reg. 9(4)(b) omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/d)
+[^c-2656bb40a12d0c96a4a938b11603efb6]: Textual amendment: Reg. 9(4)(b) omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/d)
 
-[^key-61eb0ab8e8bf6e32d735c44762e37128]: Textual amendment: Words in reg. 9(4) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/e)
+[^c-61eb0ab8e8bf6e32d735c44762e37128]: Textual amendment: Words in reg. 9(4) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/e)
 
-[^key-31287b284402124374223eed40032907]: Textual amendment: Words in reg. 9(6) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/f)
+[^c-31287b284402124374223eed40032907]: Textual amendment: Words in reg. 9(6) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2015/899/regulation/7/f)
 
-[^key-ea5b95c8c279b4d78f160762b8680b02]: Textual amendment: Words in reg. 10 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/899/regulation/8)
+[^c-ea5b95c8c279b4d78f160762b8680b02]: Textual amendment: Words in reg. 10 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/899/regulation/8)
 
-[^key-c0c571cb2da633a82b5468ae2f83bc32]: Textual amendment: Reg. 11 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/899/regulation/9)
+[^c-c0c571cb2da633a82b5468ae2f83bc32]: Textual amendment: Reg. 11 substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/899/regulation/9)
 
-[^key-095393f23bf9650aa8c0478d6b91a89e]: Textual amendment: Words in reg. 12 substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/506/regulation/3)
+[^c-095393f23bf9650aa8c0478d6b91a89e]: Textual amendment: Words in reg. 12 substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/506/regulation/3)
 
-[^key-681ecc29543a49e4d990df847fd6d817]: Textual amendment: Words in reg. 14 title inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/1)
+[^c-681ecc29543a49e4d990df847fd6d817]: Textual amendment: Words in reg. 14 title inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/1)
 
-[^key-de85e3f42dd016fd0b8ebfeb9c2eab84]: Textual amendment: Words in reg. 14 heading substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/899/regulation/10)
+[^c-de85e3f42dd016fd0b8ebfeb9c2eab84]: Textual amendment: Words in reg. 14 heading substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/899/regulation/10)
 
-[^key-8a4a60a3e58d5ab5912493fb7d438f53]: Textual amendment: Words in reg. 14(1) inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/2)
+[^c-8a4a60a3e58d5ab5912493fb7d438f53]: Textual amendment: Words in reg. 14(1) inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/2)
 
-[^key-8b0fffe4997112036c0fbed2660ccc8e]: Textual amendment: Words in reg. 14(1)(2) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/899/regulation/10)
+[^c-8b0fffe4997112036c0fbed2660ccc8e]: Textual amendment: Words in reg. 14(1)(2) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/899/regulation/10)
 
-[^key-9a03bf514ee52fb8445cdaebcee0c12e]: Textual amendment: Words in reg. 14(2) substituted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/3)
+[^c-9a03bf514ee52fb8445cdaebcee0c12e]: Textual amendment: Words in reg. 14(2) substituted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/3)
 
-[^key-1ad008d6067024ecea59c9479fc311be]: Textual amendment: Words in reg. 14(2) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/506/regulation/4) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
+[^c-1ad008d6067024ecea59c9479fc311be]: Textual amendment: Words in reg. 14(2) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/506/regulation/4) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
 
-[^key-34a690625b2ec9753af14c9ac8eda840]: Textual amendment: Words in reg. 14(3)(b) omitted (1.10.2007) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/4)
+[^c-34a690625b2ec9753af14c9ac8eda840]: Textual amendment: Words in reg. 14(3)(b) omitted (1.10.2007) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2007/2161/regulation/3/4)
 
-[^key-f8c595c413ab36ffc37d2b83f1b6ebc2]: Textual amendment: Reg. 14A inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/2161/regulation/4)
+[^c-f8c595c413ab36ffc37d2b83f1b6ebc2]: Textual amendment: Reg. 14A inserted (1.10.2007) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2007 (S.I. 2007/2161)](https://www.legislation.gov.uk/uksi/2007/2161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/2161/regulation/4)
 
-[^key-f9d8960ed0db24ac1bdcbb2fbcea8112]: Textual amendment: Words in reg. 14A(2) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/506/regulation/5) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
+[^c-f9d8960ed0db24ac1bdcbb2fbcea8112]: Textual amendment: Words in reg. 14A(2) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/506/regulation/5) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
 
-[^key-dbafb93a9b5060a6637633f5e84f8767]: Textual amendment: Words in reg. 15(3) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/506/regulation/6) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
+[^c-dbafb93a9b5060a6637633f5e84f8767]: Textual amendment: Words in reg. 15(3) substituted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/506/regulation/6) (with [reg. 13(1)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/2))
 
-[^key-25981efa4ef04842e8d6c9f7fbb428c2]: Textual amendment: Word in reg. 18(2)(a) omitted (1.10.2009) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2009 (S.I. 2009/1884)](https://www.legislation.gov.uk/uksi/2009/1884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1884/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1884/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/1884/regulation/6))
+[^c-25981efa4ef04842e8d6c9f7fbb428c2]: Textual amendment: Word in reg. 18(2)(a) omitted (1.10.2009) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2009 (S.I. 2009/1884)](https://www.legislation.gov.uk/uksi/2009/1884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1884/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1884/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/1884/regulation/6))
 
-[^key-c39e087bf5304e4f7e3a1526226ec6f1]: Textual amendment: Reg. 24(1A) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-c39e087bf5304e4f7e3a1526226ec6f1]: Textual amendment: Reg. 24(1A) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
-[^key-255c6600905150f69ee5622e6d4952d9]: Textual amendment: Words in reg. 24(2)(b) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-255c6600905150f69ee5622e6d4952d9]: Textual amendment: Words in reg. 24(2)(b) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
 [^c18574391]: Marginal citation: [1971 c.27](https://www.legislation.gov.uk/ukpga/1971/27)
 
-[^key-689bf04a5d25efe9c0bb3a2691888552]: Textual amendment: Word in reg. 30(1)(b) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/a)
+[^c-689bf04a5d25efe9c0bb3a2691888552]: Textual amendment: Word in reg. 30(1)(b) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/a)
 
-[^key-04f7cff0221b9258919d1a22b8d95727]: Textual amendment: Word in reg. 30(1)(c) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/b)
+[^c-04f7cff0221b9258919d1a22b8d95727]: Textual amendment: Word in reg. 30(1)(c) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/b)
 
-[^key-8e743199ab206bf97bf592bd37b49148]: Textual amendment: Reg. 30(1)(d) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/c)
+[^c-8e743199ab206bf97bf592bd37b49148]: Textual amendment: Reg. 30(1)(d) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/5/c)
 
-[^key-ab205b11cfc4f37e41d30f4b4796d801]: Textual amendment: Word in reg. 32(6) inserted (1.10.2009) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2009 (S.I. 2009/1884)](https://www.legislation.gov.uk/uksi/2009/1884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1884/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1884/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/1884/regulation/6))
+[^c-ab205b11cfc4f37e41d30f4b4796d801]: Textual amendment: Word in reg. 32(6) inserted (1.10.2009) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2009 (S.I. 2009/1884)](https://www.legislation.gov.uk/uksi/2009/1884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1884/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2009/1884/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2009/1884/regulation/6))
 
 [^c18574401]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f85099947f75fe3872be52438a5014db]: Textual amendment: Words in [reg. 34(5)](https://www.legislation.gov.uk/uksi/2007/1253/regulation/34/5) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 53(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/53/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f85099947f75fe3872be52438a5014db]: Textual amendment: Words in [reg. 34(5)](https://www.legislation.gov.uk/uksi/2007/1253/regulation/34/5) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 53(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/53/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a390aa2739212478e2574498955506c9]: Textual amendment: Words in [reg. 34(5)](https://www.legislation.gov.uk/uksi/2007/1253/regulation/34/5) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 53(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/53/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a390aa2739212478e2574498955506c9]: Textual amendment: Words in [reg. 34(5)](https://www.legislation.gov.uk/uksi/2007/1253/regulation/34/5) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 53(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/53/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18574411]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), as amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), 2002/682, 1310, 1776 and 1777, 2003/1475, 1476 and 2822, 2004/1610 and 2737, 2005/593, 1518 and 2967 and 2006/1969, 2383 and 3221.
 
-[^key-b8802443df7ec6a6424cd66032efcaf4]: Textual amendment: Reg. 35(4) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/506/regulation/7)
+[^c-b8802443df7ec6a6424cd66032efcaf4]: Textual amendment: Reg. 35(4) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/506/regulation/7)
 
-[^key-8bb9858abdefea2bcc8093d632fa00ce]: Textual amendment: Reg. 37(3) substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1063/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-8bb9858abdefea2bcc8093d632fa00ce]: Textual amendment: Reg. 37(3) substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1063/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
-[^key-85dc7889bdc1455450746bc6564c4158]: Textual amendment: Word in reg. 37(3)(a) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/a)
+[^c-85dc7889bdc1455450746bc6564c4158]: Textual amendment: Word in reg. 37(3)(a) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/a)
 
-[^key-ae3e964e3ea357ee1be46d655551a549]: Textual amendment: Reg. 37(3)(aa) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/b)
+[^c-ae3e964e3ea357ee1be46d655551a549]: Textual amendment: Reg. 37(3)(aa) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/b)
 
-[^key-6689b3d2c618809a99153dfbf1fde879]: Textual amendment: Reg. 37(3A) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/506/regulation/8/a) (with [reg. 13(3)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/3))
+[^c-6689b3d2c618809a99153dfbf1fde879]: Textual amendment: Reg. 37(3A) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2013/506/regulation/8/a) (with [reg. 13(3)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/3))
 
-[^key-9c737a6236966da9c772e9b375413e49]: Textual amendment: Reg. 37(5) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/506/regulation/8/b) (with [reg. 13(3)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/3))
+[^c-9c737a6236966da9c772e9b375413e49]: Textual amendment: Reg. 37(5) inserted (1.4.2013) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2013 (S.I. 2013/506)](https://www.legislation.gov.uk/uksi/2013/506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/506/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2013/506/regulation/8/b) (with [reg. 13(3)](https://www.legislation.gov.uk/uksi/2013/506/regulation/13/3))
 
-[^key-39d1f9fedd2ece62c086a5fe6bb6dd42]: Textual amendment: Reg. 37(6) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/c)
+[^c-39d1f9fedd2ece62c086a5fe6bb6dd42]: Textual amendment: Reg. 37(6) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/6/c)
 
-[^key-35f7af6720a5dd1942281f0cdd5c142e]: Textual amendment: Words in reg. 38 cross-heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/1030/regulation/7)
+[^c-35f7af6720a5dd1942281f0cdd5c142e]: Textual amendment: Words in reg. 38 cross-heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/1030/regulation/7)
 
-[^key-6f0674b879ace6cafa5da489051298d1]: Textual amendment: Words in reg. 38(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/a)
+[^c-6f0674b879ace6cafa5da489051298d1]: Textual amendment: Words in reg. 38(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/a)
 
-[^key-d9a0d8328581ee842a2e481a84ae808d]: Textual amendment: Words in reg. 38(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/a)
+[^c-d9a0d8328581ee842a2e481a84ae808d]: Textual amendment: Words in reg. 38(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/a)
 
-[^key-91a2f408eaf2ad8fbdf9b3a865631fdb]: Textual amendment: Words in reg. 38(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/b)
+[^c-91a2f408eaf2ad8fbdf9b3a865631fdb]: Textual amendment: Words in reg. 38(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/8/b)
 
-[^key-14002361668be7a0adcf24ab20841083]: Textual amendment: Words in reg. 39(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/a)
+[^c-14002361668be7a0adcf24ab20841083]: Textual amendment: Words in reg. 39(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/a)
 
-[^key-a53b4489171fc2e323259bb068ba2bfa]: Textual amendment: Words in reg. 39(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/b)
+[^c-a53b4489171fc2e323259bb068ba2bfa]: Textual amendment: Words in reg. 39(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/b)
 
-[^key-43dfaf716c71a87d0855ce8e20babd90]: Textual amendment: Words in reg. 39(6) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/c)
+[^c-43dfaf716c71a87d0855ce8e20babd90]: Textual amendment: Words in reg. 39(6) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/9/c)
 
-[^key-0402e83b8d96d1fc7d50f73d94e383d6]: Textual amendment: Words in reg. 40 heading substituted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/a)
+[^c-0402e83b8d96d1fc7d50f73d94e383d6]: Textual amendment: Words in reg. 40 heading substituted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/a)
 
-[^key-1dc140f1d5e276cfc6d56c0f329565ae]: Textual amendment: Words in reg. 40(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/b)
+[^c-1dc140f1d5e276cfc6d56c0f329565ae]: Textual amendment: Words in reg. 40(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/b)
 
-[^key-6edbf70cb6b1f0613ed565f80559976c]: Textual amendment: Reg. 40(1A) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/c)
+[^c-6edbf70cb6b1f0613ed565f80559976c]: Textual amendment: Reg. 40(1A) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/c)
 
-[^key-1ac671c0f6c002059c6822f1f22cf852]: Textual amendment: Words in reg. 40(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(d)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/d/i)
+[^c-1ac671c0f6c002059c6822f1f22cf852]: Textual amendment: Words in reg. 40(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(d)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/d/i)
 
-[^key-53fc4eef875bbbb3c16d919f02e29fbf]: Textual amendment: Words in reg. 40(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/d/ii)
+[^c-53fc4eef875bbbb3c16d919f02e29fbf]: Textual amendment: Words in reg. 40(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/d/ii)
 
-[^key-35e1779cd8af9a1f8a0f6dc841fa25f5]: Textual amendment: Words in reg. 40(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/e)
+[^c-35e1779cd8af9a1f8a0f6dc841fa25f5]: Textual amendment: Words in reg. 40(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/e)
 
-[^key-4aaacc8f68c7fcbe107b94850892981c]: Textual amendment: Words in reg. 40(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(f)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/f)
+[^c-4aaacc8f68c7fcbe107b94850892981c]: Textual amendment: Words in reg. 40(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(f)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/f)
 
-[^key-42b7e3f80be495f5541b5a1e9ab500e9]: Textual amendment: Words in reg. 40(6) substituted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(g)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/g)
+[^c-42b7e3f80be495f5541b5a1e9ab500e9]: Textual amendment: Words in reg. 40(6) substituted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [10(g)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/10/g)
 
-[^key-24414cbb8e96feedee389d84301b7349]: Textual amendment: Words in reg. 41 heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/a)
+[^c-24414cbb8e96feedee389d84301b7349]: Textual amendment: Words in reg. 41 heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/a)
 
-[^key-0485d047643a6c1330bf8f32bfbdd0b4]: Textual amendment: Words in reg. 41(1)(a)(i) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/i)
+[^c-0485d047643a6c1330bf8f32bfbdd0b4]: Textual amendment: Words in reg. 41(1)(a)(i) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/i)
 
-[^key-2a9faf4552099f2373c93931e7156f0d]: Textual amendment: Words in reg. 41(1)(b)(i) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(aa)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/ii)
+[^c-2a9faf4552099f2373c93931e7156f0d]: Textual amendment: Words in reg. 41(1)(b)(i) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(aa)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/ii)
 
-[^key-c1f3ca187d400e23ae41a7c62d2803ec]: Textual amendment: Words in reg. 41(1)(b)(ii) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(bb)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/ii)
+[^c-c1f3ca187d400e23ae41a7c62d2803ec]: Textual amendment: Words in reg. 41(1)(b)(ii) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(b)(bb)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/b/ii)
 
-[^key-a11da95b848e902003505ca125b5a1f1]: Textual amendment: Words in reg. 41(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/c)
+[^c-a11da95b848e902003505ca125b5a1f1]: Textual amendment: Words in reg. 41(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/c)
 
-[^key-7c26318e99bb61cc1cb196c6d3458616]: Textual amendment: Words in reg. 41(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/d)
+[^c-7c26318e99bb61cc1cb196c6d3458616]: Textual amendment: Words in reg. 41(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/11/d)
 
-[^key-992006505d399b49dc117eba5de13d5d]: Textual amendment: Words in reg. 42 heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/a)
+[^c-992006505d399b49dc117eba5de13d5d]: Textual amendment: Words in reg. 42 heading inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/a)
 
-[^key-3670e8731ac95c234e84d5ec4c8eebc5]: Textual amendment: Words in reg. 42(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/b/i)
+[^c-3670e8731ac95c234e84d5ec4c8eebc5]: Textual amendment: Words in reg. 42(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/b/i)
 
-[^key-65372cc1e37b85e614d9a9cacd7f59f5]: Textual amendment: Words in reg. 42(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/b/ii)
+[^c-65372cc1e37b85e614d9a9cacd7f59f5]: Textual amendment: Words in reg. 42(1) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/b/ii)
 
-[^key-850e4b990921bed3668fc06185e089b0]: Textual amendment: Words in reg. 42(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
+[^c-850e4b990921bed3668fc06185e089b0]: Textual amendment: Words in reg. 42(2) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
 
-[^key-ec25e27f06a3928ccfd0d8e0a133229e]: Textual amendment: Words in reg. 42(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
+[^c-ec25e27f06a3928ccfd0d8e0a133229e]: Textual amendment: Words in reg. 42(4) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
 
-[^key-37fd236db2c7de2daf11e82c4af9178f]: Textual amendment: Words in reg. 42(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
+[^c-37fd236db2c7de2daf11e82c4af9178f]: Textual amendment: Words in reg. 42(5) inserted (31.7.2019) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2019/1030/regulation/12/c)
 
-[^key-bd9815c211834b83b3b32fde1fbd50ab]: Textual amendment: Words in [reg. 43 heading](https://www.legislation.gov.uk/uksi/2007/1253/part/4/crossheading/miscellaneous-functions) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1030/regulation/13)
+[^c-bd9815c211834b83b3b32fde1fbd50ab]: Textual amendment: Words in [reg. 43 heading](https://www.legislation.gov.uk/uksi/2007/1253/part/4/crossheading/miscellaneous-functions) omitted (31.7.2019) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2019 (S.I. 2019/1030)](https://www.legislation.gov.uk/uksi/2019/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1030/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1030/regulation/13)
 
-[^key-87d4fe2d2db2ff1eccc1f5aa44786de0]: Textual amendment: Reg. 48 renumbered as reg. 48(1) (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/5/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-87d4fe2d2db2ff1eccc1f5aa44786de0]: Textual amendment: Reg. 48 renumbered as reg. 48(1) (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/5/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
-[^key-f4af0fb361c98498136fc4b9b25be549]: Textual amendment: Reg. 48(2) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/5/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-f4af0fb361c98498136fc4b9b25be549]: Textual amendment: Reg. 48(2) inserted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2010/1063/regulation/5/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
-[^key-97b0bb63bfadd3c74d8be1cf97176ab4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/1253/schedule/1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2015/899/regulation/11), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/899/schedule/1) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
+[^c-97b0bb63bfadd3c74d8be1cf97176ab4]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/1253/schedule/1) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2015/899/regulation/11), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/899/schedule/1) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
 
-[^key-9dc1186e1ce484b48e1086598014c4dc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1253/schedule/2) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/899/regulation/12), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/899/schedule/2) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
+[^c-9dc1186e1ce484b48e1086598014c4dc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1253/schedule/2) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/899/regulation/12), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/899/schedule/2) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
 
-[^key-4da4f525c6935fd55c46dacafd32cd6c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/1253/schedule/3) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/899/regulation/13), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/899/schedule/3) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
+[^c-4da4f525c6935fd55c46dacafd32cd6c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/1253/schedule/3) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/899/regulation/13), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/899/schedule/3) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
 
-[^key-bc01b9850e825ea78c91d638a2280765]: Textual amendment: Sch. 3A omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/899/regulation/14) (with [reg. 19(3)-(5)](https://www.legislation.gov.uk/uksi/2015/899/regulation/19/3))
+[^c-bc01b9850e825ea78c91d638a2280765]: Textual amendment: Sch. 3A omitted (1.7.2015) by virtue of [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/899/regulation/14) (with [reg. 19(3)-(5)](https://www.legislation.gov.uk/uksi/2015/899/regulation/19/3))
 
-[^key-b2a35ce8b39533b6fe250b0a5b3356d3]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2007/1253/schedule/4) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2015/899/regulation/15), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/899/schedule/4) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
+[^c-b2a35ce8b39533b6fe250b0a5b3356d3]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2007/1253/schedule/4) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2015/899/regulation/15), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/899/schedule/4) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
 
-[^key-ddf7775d15561e14cc62a90964f36432]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2007/1253/schedule/6) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/899/regulation/16), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/899/schedule/5) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
+[^c-ddf7775d15561e14cc62a90964f36432]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2007/1253/schedule/6) substituted (1.7.2015) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2015 (S.I. 2015/899)](https://www.legislation.gov.uk/uksi/2015/899), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/899/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/899/regulation/16), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/899/schedule/5) (with [regs. 17-19](https://www.legislation.gov.uk/uksi/2015/899/regulation/17))
 
-[^key-a17849d6c8b2637743870427ea3a0ad0]: Textual amendment: Sch. 7 Form substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [reg. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1063/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-a17849d6c8b2637743870427ea3a0ad0]: Textual amendment: Sch. 7 Form substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [reg. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1063/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
 
-[^key-d3d50547fb668c4a3aa3aa3c93664d95]: Textual amendment: Sch. 8 Form substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [reg. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1063/schedule/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))
+[^c-d3d50547fb668c4a3aa3aa3c93664d95]: Textual amendment: Sch. 8 Form substituted (1.5.2010) by [The Lasting Powers of Attorney, Enduring Powers of Attorney and Public Guardian (Amendment) Regulations 2010 (S.I. 2010/1063)](https://www.legislation.gov.uk/uksi/2010/1063), [reg. 1](https://www.legislation.gov.uk/uksi/2010/1063/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1063/schedule/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2010/1063/regulation/8))

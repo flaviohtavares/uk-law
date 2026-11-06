@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Calculation of earnings of self-employed earners[^key-0fa96bad01b9a85a6b15c3f167aa76f6]
+## 77. Calculation of earnings of self-employed earners[^c-0fa96bad01b9a85a6b15c3f167aa76f6]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fa96bad01b9a85a6b15c3f167aa76f6]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2016/219/regulation/77) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-0fa96bad01b9a85a6b15c3f167aa76f6]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2016/219/regulation/77) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

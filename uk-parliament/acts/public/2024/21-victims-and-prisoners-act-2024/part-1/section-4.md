@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Revising the victims’ code[^key-3386512a43d8bd47bf55757ec6db4a95]
+## 4. Revising the victims’ code[^c-3386512a43d8bd47bf55757ec6db4a95]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3386512a43d8bd47bf55757ec6db4a95]: Commencement: S. 4 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-3386512a43d8bd47bf55757ec6db4a95]: Commencement: S. 4 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

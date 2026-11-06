@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-1cc45665f8483494ad9abf4bee37e07f]
+## 12.[^c-1cc45665f8483494ad9abf4bee37e07f]
 
 *Extent: E+W+S+N.I.*
 
 After Schedule 2 to the 2002 Regulations insert—
 
-> **SCHEDULE 2A — Modification of Annexes to Directives 90/385, 93/42, 98/79[^key-b0629467ba22b7dd692cfdbc87739e89]**
+> **SCHEDULE 2A — Modification of Annexes to Directives 90/385, 93/42, 98/79[^c-b0629467ba22b7dd692cfdbc87739e89]**
 >
 > Regulation 1A
 >
@@ -762,12 +762,12 @@ After Schedule 2 to the 2002 Regulations insert—
 >
 > **33.** Omit Annex X.
 >
-> **SCHEDULES 3-28 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-fc2ef9afa2bee718612ef4f30ea57965]**
+> **SCHEDULES 3-28 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-fc2ef9afa2bee718612ef4f30ea57965]**
 
 ## Annotations
 
-[^key-1cc45665f8483494ad9abf4bee37e07f]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1cc45665f8483494ad9abf4bee37e07f]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b0629467ba22b7dd692cfdbc87739e89]: Textual amendment: Words in reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/56)
+[^c-b0629467ba22b7dd692cfdbc87739e89]: Textual amendment: Words in reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/56)
 
-[^key-fc2ef9afa2bee718612ef4f30ea57965]: Textual amendment: Words in reg. 12 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/57)
+[^c-fc2ef9afa2bee718612ef4f30ea57965]: Textual amendment: Words in reg. 12 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/57)

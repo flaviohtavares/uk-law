@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44A. Declaration of religion, belief or non-belief[^key-9c70f93b60beea6fbd83ad8e5925d0fe]
+## 44A. Declaration of religion, belief or non-belief[^c-9c70f93b60beea6fbd83ad8e5925d0fe]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c70f93b60beea6fbd83ad8e5925d0fe]: Textual amendment: Rule 44A inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/6)
+[^c-9c70f93b60beea6fbd83ad8e5925d0fe]: Textual amendment: Rule 44A inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/6)

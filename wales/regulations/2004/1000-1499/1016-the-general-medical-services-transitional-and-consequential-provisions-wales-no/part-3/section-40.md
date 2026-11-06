@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Application and interpretation of this Part[^key-20bf219b3a52c27341377e1192b5b438]
+## 40. Application and interpretation of this Part[^c-20bf219b3a52c27341377e1192b5b438]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20bf219b3a52c27341377e1192b5b438]: Commencement: Art. 40 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-20bf219b3a52c27341377e1192b5b438]: Commencement: Art. 40 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

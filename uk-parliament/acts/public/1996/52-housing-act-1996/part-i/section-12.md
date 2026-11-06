@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Priority of charge for repayment of discount.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147561][^key-929009d983cff0d5877a0494cb28ef56]
+## 12. Priority of charge for repayment of discount.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147561][^c-929009d983cff0d5877a0494cb28ef56]
 
 *Extent: E+W*
 
-(1) The charge taking effect by virtue of section 11B[^key-90a1d683a74f18417b10ef81f45b81da] (charge for repayment of discount) has priority immediately after any legal charge securing an amount—
+(1) The charge taking effect by virtue of section 11B[^c-90a1d683a74f18417b10ef81f45b81da] (charge for repayment of discount) has priority immediately after any legal charge securing an amount—
 
 - (a) left outstanding by the purchaser, or
 - (b) advanced to him by an approved lending institution for the purpose of enabling him to acquire the interest disposed of on the first disposal,
@@ -45,8 +45,8 @@ A provision of the conveyance, grant or assignment, or of a collateral agreement
 (5) In this section “**approved lending institution**” means—
 
 - (a) a building society, bank, insurance company or friendly society,
-- (b) the Welsh Ministers[^key-056e78dee416c01b82be7c499a9de4ee], or
-- (c)[^key-73c55dfe53d9aa8bcd31ff818cb3a828] an authorised mortgage lender (within the meaning of the Housing Act 1985 (see section 622 of that Act)).
+- (b) the Welsh Ministers[^c-056e78dee416c01b82be7c499a9de4ee], or
+- (c)[^c-73c55dfe53d9aa8bcd31ff818cb3a828] an authorised mortgage lender (within the meaning of the Housing Act 1985 (see section 622 of that Act)).
 
 (6) The following are “approved purposes” for the purposes of this section—
 
@@ -69,10 +69,10 @@ In this subsection “service charge” has the meaning given by section 621A of
 
 [^c13147561]: Modification: S. 12 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/1996/2402/schedule/paragraph/1), [11](https://www.legislation.gov.uk/uksi/1996/2402/schedule/paragraph/11)
 
-[^key-929009d983cff0d5877a0494cb28ef56]: Modification: Ss. 11-12 applied (with modifications) (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 179](https://www.legislation.gov.uk/ukpga/2008/17/section/179), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-929009d983cff0d5877a0494cb28ef56]: Modification: Ss. 11-12 applied (with modifications) (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 179](https://www.legislation.gov.uk/ukpga/2008/17/section/179), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-90a1d683a74f18417b10ef81f45b81da]: Textual amendment: Words in s. 12 substituted (18.1.2005) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 199(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/199/2), [270(3)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/3/a) (with [s. 199(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/199/3))
+[^c-90a1d683a74f18417b10ef81f45b81da]: Textual amendment: Words in s. 12 substituted (18.1.2005) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 199(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/199/2), [270(3)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/3/a) (with [s. 199(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/199/3))
 
-[^key-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-73c55dfe53d9aa8bcd31ff818cb3a828]: Textual amendment: S. 12(5)(c) substituted (22.9.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 307(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/307/7), [325(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/2/a)
+[^c-73c55dfe53d9aa8bcd31ff818cb3a828]: Textual amendment: S. 12(5)(c) substituted (22.9.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 307(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/307/7), [325(2)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/2/a)

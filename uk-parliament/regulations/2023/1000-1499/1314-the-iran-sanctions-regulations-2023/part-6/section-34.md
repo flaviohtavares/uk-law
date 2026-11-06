@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Brokering services: non-UK activity relating to restricted goods and restricted technology[^key-b6bd8d216208f33307ede1e616b5e0f4]
+## 34. Brokering services: non-UK activity relating to restricted goods and restricted technology[^c-b6bd8d216208f33307ede1e616b5e0f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6bd8d216208f33307ede1e616b5e0f4]: Commencement: Reg. 34 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b6bd8d216208f33307ede1e616b5e0f4]: Commencement: Reg. 34 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

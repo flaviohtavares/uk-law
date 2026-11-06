@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-69d6d303d71fae86ecbd1ac1dcc09526]
+## 1. Citation and commencement[^c-69d6d303d71fae86ecbd1ac1dcc09526]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Friendly Societies (Accounts and Related P
 
 ## Annotations
 
-[^key-69d6d303d71fae86ecbd1ac1dcc09526]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-69d6d303d71fae86ecbd1ac1dcc09526]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

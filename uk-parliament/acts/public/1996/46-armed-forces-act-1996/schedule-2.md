@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Findings of unfitness to stand trial and insanity[^key-843bc27abbf081c8c376b2b0b229f592]
+## SCHEDULE 2 — Findings of unfitness to stand trial and insanity[^c-843bc27abbf081c8c376b2b0b229f592]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Section 8.
 
-### The 1955 Acts[^key-843bc27abbf081c8c376b2b0b229f592]
+### The 1955 Acts[^c-843bc27abbf081c8c376b2b0b229f592]
 
-**1.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The 1957 Act[^key-843bc27abbf081c8c376b2b0b229f592]
+### The 1957 Act[^c-843bc27abbf081c8c376b2b0b229f592]
 
-**4.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Courts-Martial (Appeals) Act 1968 (c. 20)[^key-843bc27abbf081c8c376b2b0b229f592]
+### The Courts-Martial (Appeals) Act 1968 (c. 20)[^c-843bc27abbf081c8c376b2b0b229f592]
 
-**6.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-843bc27abbf081c8c376b2b0b229f592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-843bc27abbf081c8c376b2b0b229f592]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/46/schedule/2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-843bc27abbf081c8c376b2b0b229f592]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/46/schedule/2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. No requirement for agreement of truster[^key-a3712076e72d627a219c846aa34d86bb]
+## 64. No requirement for agreement of truster[^c-a3712076e72d627a219c846aa34d86bb]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3712076e72d627a219c846aa34d86bb]: Commencement: S. 64 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-a3712076e72d627a219c846aa34d86bb]: Commencement: S. 64 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

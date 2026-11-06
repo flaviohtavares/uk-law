@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Senedd constituencies for a general election held after 6 April 2026 and before regulations under section 49J of the 2013 Act take effect[^key-b0fe1d80999a57b7f8474d1d69adc029]
+## 17. Senedd constituencies for a general election held after 6 April 2026 and before regulations under section 49J of the 2013 Act take effect[^c-b0fe1d80999a57b7f8474d1d69adc029]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 makes provision about the Senedd constituencies for which Members of 
 
 ## Annotations
 
-[^key-b0fe1d80999a57b7f8474d1d69adc029]: Commencement: S. 17 in force at 25.6.2024, see [s. 25(1)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/b)
+[^c-b0fe1d80999a57b7f8474d1d69adc029]: Commencement: S. 17 in force at 25.6.2024, see [s. 25(1)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/b)

@@ -31,7 +31,7 @@ No person may administer a veterinary medicinal product to an animal unless—
 
 No person may administer a veterinary medicinal product to an animal unless—
 
-- (a) the product has a marketing authorisation authorising its administration in Northern Ireland[^key-5a42213f273c8e22894d77a34250f783], and the administration is in accordance with that marketing authorisation; or
+- (a) the product has a marketing authorisation authorising its administration in Northern Ireland[^c-5a42213f273c8e22894d77a34250f783], and the administration is in accordance with that marketing authorisation; or
 - (b) it is administered in accordance with Schedule 4 (administration of a veterinary medicinal product outside the terms of a marketing authorisation) or Schedule 6 (exemptions for small pet animals).
 
 ## Annotations
@@ -40,4 +40,4 @@ No person may administer a veterinary medicinal product to an animal unless—
 
 [^M_E_24710f38-b7b8-4d5c-c35a-8479b5ef3363]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-5a42213f273c8e22894d77a34250f783]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/8/a) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/3)
+[^c-5a42213f273c8e22894d77a34250f783]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/8/a) substituted (N.I.) (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [10(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/10/3)

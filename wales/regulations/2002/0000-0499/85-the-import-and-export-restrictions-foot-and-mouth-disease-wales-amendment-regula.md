@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Wales) (Amendment) Regulations 2002 (revoked)[^key-8409491e7cf48687b2ce7a9a6fe7ea73]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Wales) (Amendment) Regulations 2002 (revoked)[^c-8409491e7cf48687b2ce7a9a6fe7ea73]
 
 Made
 
@@ -43,42 +43,42 @@ Coming into force
 
 19th January 2002
 
-[^key-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-8409491e7cf48687b2ce7a9a6fe7ea73]
+## 1. Title, application and commencement[^c-8409491e7cf48687b2ce7a9a6fe7ea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-8409491e7cf48687b2ce7a9a6fe7ea73]
+## 2. Amendment[^c-8409491e7cf48687b2ce7a9a6fe7ea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE[^key-8409491e7cf48687b2ce7a9a6fe7ea73]
+## THE SCHEDULE[^c-8409491e7cf48687b2ce7a9a6fe7ea73]
 
-> **SCHEDULE 2 — Permitted areas[^key-8409491e7cf48687b2ce7a9a6fe7ea73]**
+> **SCHEDULE 2 — Permitted areas[^c-8409491e7cf48687b2ce7a9a6fe7ea73]**
 >
-> **COUNTIES IN WALES[^key-8409491e7cf48687b2ce7a9a6fe7ea73]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **COUNTIES IN ENGLAND[^key-8409491e7cf48687b2ce7a9a6fe7ea73]**
+> **COUNTIES IN WALES[^c-8409491e7cf48687b2ce7a9a6fe7ea73]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **COUNTIES IN SCOTLAND[^key-8409491e7cf48687b2ce7a9a6fe7ea73]**
+> **COUNTIES IN ENGLAND[^c-8409491e7cf48687b2ce7a9a6fe7ea73]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **COUNTIES IN SCOTLAND[^c-8409491e7cf48687b2ce7a9a6fe7ea73]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8409491e7cf48687b2ce7a9a6fe7ea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8409491e7cf48687b2ce7a9a6fe7ea73]: Textual amendment: Regulations revoked (26.1.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Wales) (No. 2) Regulations 2002 (S.I. 2002/130)](https://www.legislation.gov.uk/uksi/2002/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/130/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2002/130/regulation/28)
+[^c-8409491e7cf48687b2ce7a9a6fe7ea73]: Textual amendment: Regulations revoked (26.1.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Wales) (No. 2) Regulations 2002 (S.I. 2002/130)](https://www.legislation.gov.uk/uksi/2002/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/130/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2002/130/regulation/28)

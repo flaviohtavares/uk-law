@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Benefit of planning permission[^key-589ca96dc06804fc3c4e2032018ceef1]
+## 91. Benefit of planning permission[^c-589ca96dc06804fc3c4e2032018ceef1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Planning permission to develop land has effect for the benefit of the land and o
 
 ## Annotations
 
-[^key-589ca96dc06804fc3c4e2032018ceef1]: Commencement: S. 91 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-589ca96dc06804fc3c4e2032018ceef1]: Commencement: S. 91 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

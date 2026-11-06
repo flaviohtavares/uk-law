@@ -29,8 +29,8 @@ summary: ''
 
 (3) An order under this section may be made so as to apply to property, or a disposal of property, only in prescribed circumstances; and the circumstances may relate to the property or disposal itself or to a person who holds or has held the property or to any other matter.
 
-(4) In this section, an order means an order made by the Secretary of State after consultation with the Scottish Ministers and the Department of Justice[^key-cc111cb7644d0df7590ccc6115be455d], and prescribed means prescribed by the order.
+(4) In this section, an order means an order made by the Secretary of State after consultation with the Scottish Ministers and the Department of Justice[^c-cc111cb7644d0df7590ccc6115be455d], and prescribed means prescribed by the order.
 
 ## Annotations
 
-[^key-cc111cb7644d0df7590ccc6115be455d]: Textual amendment: Words in s. 309(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 64](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/64) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-cc111cb7644d0df7590ccc6115be455d]: Textual amendment: Words in s. 309(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 64](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/64) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

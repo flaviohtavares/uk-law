@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Temporary speed limits[^key-0f7db88524eb2f866f41f526f2dd3603]
+## 16. Temporary speed limits[^c-0f7db88524eb2f866f41f526f2dd3603]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ as any other speed limit imposed by an order under that Act.
 
 ## Annotations
 
-[^key-0f7db88524eb2f866f41f526f2dd3603]: Commencement: Art. 16 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-0f7db88524eb2f866f41f526f2dd3603]: Commencement: Art. 16 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

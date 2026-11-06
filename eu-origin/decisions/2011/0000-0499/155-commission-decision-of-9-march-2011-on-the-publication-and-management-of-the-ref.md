@@ -39,41 +39,41 @@ on the publication and management of the reference document referred to in Artic
 
 (2011/155/EU) (revoked)
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8f8879deb930ad6c9872c9b8976b423]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-a8f8879deb930ad6c9872c9b8976b423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8f8879deb930ad6c9872c9b8976b423]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — REFERENCE DOCUMENT[^key-a8f8879deb930ad6c9872c9b8976b423]
+## ANNEX — REFERENCE DOCUMENT[^c-a8f8879deb930ad6c9872c9b8976b423]
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]1.
+[^c-a8f8879deb930ad6c9872c9b8976b423]1.
 
 **Purpose of the Reference document**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]2.
+[^c-a8f8879deb930ad6c9872c9b8976b423]2.
 
 **Structure and content**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]3.
+[^c-a8f8879deb930ad6c9872c9b8976b423]3.
 
 **Scope of application of the reference document**
 
@@ -81,4 +81,4 @@ on the publication and management of the reference document referred to in Artic
 
 ## Annotations
 
-[^key-a8f8879deb930ad6c9872c9b8976b423]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-a8f8879deb930ad6c9872c9b8976b423]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

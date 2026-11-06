@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18. Withdrawal of scheme or order at request of bishop[^key-8670c28138307fb2928192b8a1be5f10]
+## 18. Withdrawal of scheme or order at request of bishop[^c-8670c28138307fb2928192b8a1be5f10]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ If the bishop of the diocese concerned or, in a case to which section 15, 16 or 
 
 ## Annotations
 
-[^key-8670c28138307fb2928192b8a1be5f10]: Commencement: S. 18 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8670c28138307fb2928192b8a1be5f10]: Commencement: S. 18 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

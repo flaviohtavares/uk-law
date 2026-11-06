@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Schedule 4[^key-17d6976b84b62144801626d1e02ca469]
+## 24. Schedule 4[^c-17d6976b84b62144801626d1e02ca469]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Schedule 4.
 
 ## Annotations
 
-[^key-17d6976b84b62144801626d1e02ca469]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-17d6976b84b62144801626d1e02ca469]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)

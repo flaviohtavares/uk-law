@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Orders[^key-c175dee7531fdbfd0e3bc0e6b30956f0]
+## 95. Orders[^c-c175dee7531fdbfd0e3bc0e6b30956f0]
 
 *Extent: E+W*
 
@@ -29,14 +29,14 @@ summary: ''
 
 (3) The power is exercisable by statutory instrument.
 
-(4) [^key-59cd72a396def2b8ca7a19d3a06b1621]... , the Secretary of State may not make a statutory instrument containing an order under this Part unless a draft of the order has been laid before and approved by a resolution of each House of Parliament.
+(4) [^c-59cd72a396def2b8ca7a19d3a06b1621]... , the Secretary of State may not make a statutory instrument containing an order under this Part unless a draft of the order has been laid before and approved by a resolution of each House of Parliament.
 
-(5)[^key-c540e8ee1c8026365f70bb6deb78ea76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c540e8ee1c8026365f70bb6deb78ea76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c175dee7531fdbfd0e3bc0e6b30956f0]: Commencement: S. 95 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
+[^c-c175dee7531fdbfd0e3bc0e6b30956f0]: Commencement: S. 95 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
 
-[^key-59cd72a396def2b8ca7a19d3a06b1621]: Textual amendment: Words in s. 95(4) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
+[^c-59cd72a396def2b8ca7a19d3a06b1621]: Textual amendment: Words in s. 95(4) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
 
-[^key-c540e8ee1c8026365f70bb6deb78ea76]: Textual amendment: S. 95(5) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
+[^c-c540e8ee1c8026365f70bb6deb78ea76]: Textual amendment: S. 95(5) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)

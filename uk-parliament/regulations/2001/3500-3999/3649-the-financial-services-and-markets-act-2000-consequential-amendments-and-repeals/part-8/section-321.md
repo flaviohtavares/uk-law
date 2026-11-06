@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321. Authorisation of conveyancing practitioners[^key-efb51fca19baf38df43b8d64426c5579]
+## 321. Authorisation of conveyancing practitioners[^c-efb51fca19baf38df43b8d64426c5579]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ For section 37(8)[^f00237] of the Courts and Legal Services Act 1990 (authorisat
 
 ## Annotations
 
-[^key-efb51fca19baf38df43b8d64426c5579]: Commencement: Art. 321 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-efb51fca19baf38df43b8d64426c5579]: Commencement: Art. 321 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00237]: Footnote: Section 37(8) was amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 41(2).

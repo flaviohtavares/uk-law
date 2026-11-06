@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.25. Vacancies[^key-b0ece8af253a5edaee5208b4b3f7199d]
+## 3.25. Vacancies[^c-b0ece8af253a5edaee5208b4b3f7199d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0ece8af253a5edaee5208b4b3f7199d]: Commencement: [Rule 3.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b0ece8af253a5edaee5208b4b3f7199d]: Commencement: [Rule 3.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

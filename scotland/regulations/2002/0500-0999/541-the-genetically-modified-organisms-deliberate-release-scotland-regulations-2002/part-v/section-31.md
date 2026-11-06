@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Variation or revocation of consents to market[^key-7019f95ac486ddaf41488e83940fe474]
+## 31. Variation or revocation of consents to market[^c-7019f95ac486ddaf41488e83940fe474]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7019f95ac486ddaf41488e83940fe474]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/ssi/2002/541/regulation/31) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(20)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7019f95ac486ddaf41488e83940fe474]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/ssi/2002/541/regulation/31) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(20)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

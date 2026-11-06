@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Payment by cheque[^key-8374c3e2e48ed9d1842693a6c493d1d9]
+## 66. Payment by cheque[^c-8374c3e2e48ed9d1842693a6c493d1d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of regulations 54 to 58, where—
 
 ## Annotations
 
-[^key-8374c3e2e48ed9d1842693a6c493d1d9]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2009/470/regulation/66) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-8374c3e2e48ed9d1842693a6c493d1d9]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2009/470/regulation/66) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

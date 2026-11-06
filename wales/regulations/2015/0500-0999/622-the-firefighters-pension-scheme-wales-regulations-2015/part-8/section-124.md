@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Schedule 1 (payments for added pension)[^key-1f3ccf130a3d5f7c0146f4b6f287c0b3]
+## 124. Schedule 1 (payments for added pension)[^c-1f3ccf130a3d5f7c0146f4b6f287c0b3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect (including as to deduction of payments for added pension).
 
 ## Annotations
 
-[^key-1f3ccf130a3d5f7c0146f4b6f287c0b3]: Commencement: Reg. 124 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-1f3ccf130a3d5f7c0146f4b6f287c0b3]: Commencement: Reg. 124 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Supplementary provisions as to dividend[^key-604b1f32683b268deaf957440278ffef]
+## 141. Supplementary provisions as to dividend[^c-604b1f32683b268deaf957440278ffef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.182 of the 1986 Rules.
 
 ## Annotations
 
-[^key-604b1f32683b268deaf957440278ffef]: Commencement: Rule 141 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-604b1f32683b268deaf957440278ffef]: Commencement: Rule 141 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

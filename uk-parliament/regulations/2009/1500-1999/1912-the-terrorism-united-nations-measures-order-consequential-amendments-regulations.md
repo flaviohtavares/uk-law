@@ -78,7 +78,7 @@ In the definition of “terrorist financing” in regulation 2(1) of the Transfe
 
   .
 
-## 4. Amendment to the Payment Services Regulations 2009[^key-2fd4ff8a4ce87888e35af1fb21b96d34]
+## 4. Amendment to the Payment Services Regulations 2009[^c-2fd4ff8a4ce87888e35af1fb21b96d34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,4 +110,4 @@ A regulatory impact assessment of the effect that this instrument will have on t
 
 [^c19774521]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2009/1912/section/I) 2007/3298, to which there are amendments not relevant to these Regulations.
 
-[^key-2fd4ff8a4ce87888e35af1fb21b96d34]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1912/regulation/4) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)
+[^c-2fd4ff8a4ce87888e35af1fb21b96d34]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1912/regulation/4) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)

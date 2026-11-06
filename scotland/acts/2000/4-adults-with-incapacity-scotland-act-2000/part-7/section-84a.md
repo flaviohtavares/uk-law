@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Application to storage of gametes without adult's consent where adult is incapable[^key-3784c4ad6f34f1eb13fdc0fd6257eec9]
+## 84A. Application to storage of gametes without adult's consent where adult is incapable[^c-3784c4ad6f34f1eb13fdc0fd6257eec9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3784c4ad6f34f1eb13fdc0fd6257eec9]: Textual amendment: Ss. 84A, 84B inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/18); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-3784c4ad6f34f1eb13fdc0fd6257eec9]: Textual amendment: Ss. 84A, 84B inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/18); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

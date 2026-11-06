@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amount of partial retirement pension[^key-610546e2fafbda6401e407cbe2d961dc]
+## 55. Amount of partial retirement pension[^c-610546e2fafbda6401e407cbe2d961dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610546e2fafbda6401e407cbe2d961dc]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2014/1964/regulation/55) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-610546e2fafbda6401e407cbe2d961dc]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2014/1964/regulation/55) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

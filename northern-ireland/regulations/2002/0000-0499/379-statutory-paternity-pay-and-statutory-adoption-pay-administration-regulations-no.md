@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Employment and Learning, in exercise of the powers conferred on it by Articles 8(1), (2), (4) and (5), 9(1) and (2), 11(1) and (2) and 16(1) of the Employment (Northern Ireland) Order 2002[^f00001], and Articles 7(1)(fa) and (ga) and 23 of the Social Security Contributions (Transfer of Functions, Etc.) (Northern Ireland) Order 1999[^f00002], and of every other power enabling it in that behalf, with the concurrence of the Commissioners of Inland Revenue, hereby makes the following Regulations–
 
-## 1. Citation and commencement[^key-e2dc3fd3017b158c7b69bbd1c726ebe4]
+## 1. Citation and commencement[^c-e2dc3fd3017b158c7b69bbd1c726ebe4]
 
 These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (Administration) Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
 
-## 2. Interpretation[^key-fe87837460ca29724e1a34d0d5d22553]
+## 2. Interpretation[^c-fe87837460ca29724e1a34d0d5d22553]
 
 (1) In these Regulations–
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Statutory Paternity Pay and Statutory Adop
 
 (2) Any reference in these Regulations to the employees of an employer includes former employees of his.
 
-## 3. Funding of employers' liabilities to make payments of statutory paternity or statutory adoption pay[^key-e2380c7ecd824cd24b9157e6664be9f1]
+## 3. Funding of employers' liabilities to make payments of statutory paternity or statutory adoption pay[^c-e2380c7ecd824cd24b9157e6664be9f1]
 
 (1) An employer who has made any payment of statutory paternity pay or statutory adoption pay shall be entitled–
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the Statutory Paternity Pay and Statutory Adop
 
 (2) The employer shall be entitled in either case (a) or case (b) to apply for advance funding in respect of such payment in accordance with regulation 4, or to deduct it in accordance with regulation 5 from amounts otherwise payable by him.
 
-## 4. Application for funding from the Board[^key-58628f8d37f721e64bf78e4fed8dd262]
+## 4. Application for funding from the Board[^c-58628f8d37f721e64bf78e4fed8dd262]
 
 (1) If an employer is entitled to a payment determined in accordance with regulation 3 in respect of statutory paternity pay or statutory adoption pay which he is required to pay to an employee or employees for an income tax month or income tax quarter, and the payment exceeds the aggregate of–
 
@@ -99,7 +99,7 @@ the employer may apply to the Board for funding in a form approved for that purp
 
 (3) An application by an employer under paragraph (2) shall be for an amount up to, but not exceeding, the amount of the payment to which the employer is entitled in accordance with regulation 3 in respect of statutory paternity pay and statutory adoption pay which he is required to pay to an employee or employees for the income tax month or income tax quarter to which the payment of emoluments relates.
 
-## 5. Deductions from payments to the Board[^key-5eee8737ca4a4879868146674e6afd47]
+## 5. Deductions from payments to the Board[^c-5eee8737ca4a4879868146674e6afd47]
 
 An employer who is entitled to a payment determined in accordance with regulation 3 may recover such payment by making one or more deductions from the aggregate of the amounts specified in sub-paragraphs (a) to (d) of regulation 4(1) except where and in so far as–
 
@@ -108,18 +108,18 @@ An employer who is entitled to a payment determined in accordance with regulatio
 - (c) the employer has received payment from the Board under regulation 4; or
 - (d) the employer has made a request in writing under regulation 4 that the payment to which he is entitled in accordance with regulation 3 be paid to him and he has not received notification by the Board that the request is refused.
 
-## 6. Payments to employers by the Board[^key-55fa784057eb51307c1ba7f6491a0846]
+## 6. Payments to employers by the Board[^c-55fa784057eb51307c1ba7f6491a0846]
 
 If the total amount which an employer is or would otherwise be entitled to deduct under regulation 5 is less than the payment to which the employer is entitled in accordance with regulation 3 in an income tax month or income tax quarter, and the Board are satisfied that this is so, then provided that the employer has in writing requested them to do so, the Board shall pay the employer such amount as the employer was unable to deduct.
 
-## 7. Date when certain contributions are to be treated as paid[^key-077ef31cd0e683f327b40e2644fad75c]
+## 7. Date when certain contributions are to be treated as paid[^c-077ef31cd0e683f327b40e2644fad75c]
 
 Where an employer has made a deduction from a contributions payment under regulation 5, the date on which it is to be treated as having been paid for the purposes of Article 8(5) of the Employment Order (when amount deducted from contributions payment to be treated as paid and received by the Board) is–
 
 - (a) in a case where the deduction did not extinguish the contributions payment, the date on which the remainder of the contributions payment or, as the case may be, the first date on which any part of the remainder of the contributions payment was paid; and
 - (b) in a case where the deduction extinguished the contributions payment, the 14th day after the end of the income tax month or income tax quarter during which there were paid the earnings in respect of which the contributions payment was payable.
 
-## 8. Overpayments[^key-c54498fe7d59758523f4a526f06b545f]
+## 8. Overpayments[^c-c54498fe7d59758523f4a526f06b545f]
 
 (1) This regulation applies where funds have been provided to the employer pursuant to regulation 4 in respect of one or more employees and it appears to an officer of the Board that the employer has not used the whole or part of those funds to pay statutory paternity pay or statutory adoption pay.
 
@@ -136,7 +136,7 @@ Where an employer has made a deduction from a contributions payment under regula
 
 (6) Nothing in paragraph (5) prevents the bringing of separate proceedings for the recovery of any amount which the employer is liable to repay in respect of each employee.
 
-## 9. Records to be maintained by employers[^key-3eb6676135727d737e3e05af5aee315b]
+## 9. Records to be maintained by employers[^c-3eb6676135727d737e3e05af5aee315b]
 
 Every employer shall maintain for three years after the end of a tax year in which he made payments of statutory paternity pay or statutory adoption pay to any employee of his a record of–
 
@@ -146,7 +146,7 @@ Every employer shall maintain for three years after the end of a tax year in whi
 - (b) the weeks in that tax year in which statutory paternity pay or statutory adoption pay was paid to the employee and the amount paid in each week; and
 - (c) any week in that tax year which was within the employee’s paternity pay period or adoption pay period but for which no payment of statutory paternity pay or statutory adoption pay was made to him and the reason no payment was made.
 
-## 10. Inspection of employers' records[^key-4af8fa4eda6ffedde5d1fd6ee928b47c]
+## 10. Inspection of employers' records[^c-4af8fa4eda6ffedde5d1fd6ee928b47c]
 
 (1) Every employer, whenever called upon to do so by any authorised officer of the Board, shall produce the documents and records specified in paragraph (2) to that officer for inspection, at such time as that officer may reasonably require, at the prescribed place.
 
@@ -175,7 +175,7 @@ Every employer shall maintain for three years after the end of a tax year in whi
 
 (7) Where records are maintained by computer, the person required to make them available for inspection shall provide the authorised officer with all facilities necessary for obtaining information from them.
 
-## 11. Provision of information relating to entitlement to statutory paternity pay or statutory adoption pay[^key-fa56c99bc9d61be26a5166e277a51a92]
+## 11. Provision of information relating to entitlement to statutory paternity pay or statutory adoption pay[^c-fa56c99bc9d61be26a5166e277a51a92]
 
 (1) Where an employer who has been given evidence of entitlement to statutory paternity pay or statutory adoption pay pursuant to regulations made under section 167ZC(3)(c) or section 167ZL(8)(c) of the Contributions and Benefits Act by a person who is or has been an employee decides that he has no liability to make payments of statutory paternity pay or statutory adoption pay to the employee, the employer shall furnish the employee with details of the decision and the reasons for it.
 
@@ -194,13 +194,13 @@ Every employer shall maintain for three years after the end of a tax year in whi
 
 (4) For the purposes of paragraph (3)(b)(ii), an adopter is notified of having been matched with a child on the date on which he receives notification, under regulation 11(2) of the Adoption Agencies Regulations (Northern Ireland) 1989[^f00022] or regulation 11(2) of the Adoption Agencies Regulations 1983[^f00023] or regulation 12(3) of the Adoption Agencies (Scotland) Regulations 1996[^f00024] that an adoption agency has decided that he would be a suitable adoptive parent for the child.
 
-## 12. Application for the determination of any issue arising as to, or in connection with, entitlement to statutory paternity pay or statutory adoption pay[^key-4b7cd7f342a7a96d50069e0fc43ab1f9]
+## 12. Application for the determination of any issue arising as to, or in connection with, entitlement to statutory paternity pay or statutory adoption pay[^c-4b7cd7f342a7a96d50069e0fc43ab1f9]
 
 (1) An application for the determination of any issue arising as to, or in connection with, entitlement to statutory paternity pay or statutory adoption pay may be submitted to an officer of the Board by the employee concerned.
 
 (2) Such an issue shall be decided by an officer of the Board only on the basis of such an application or on his own initiative.
 
-## 13. Applications in connection with statutory paternity pay or statutory adoption pay[^key-ef7a3561f32b1199e71227c03f3cb2b8]
+## 13. Applications in connection with statutory paternity pay or statutory adoption pay[^c-ef7a3561f32b1199e71227c03f3cb2b8]
 
 (1) An application for the determination of any issue referred to in regulation 12 shall be made in a form approved for the purpose by the Board.
 
@@ -210,7 +210,7 @@ Every employer shall maintain for three years after the end of a tax year in whi
 - (b) state the period in respect of which entitlement to statutory paternity pay or statutory adoption pay is in issue; and
 - (c) state the grounds (if any) on which the applicant’s employer had denied liability for statutory paternity pay or statutory adoption pay in respect of the period specified in the application.
 
-## 14. Provision of information[^key-4b1b3519c55049f6f0940f9a6fc7f4d2]
+## 14. Provision of information[^c-4b1b3519c55049f6f0940f9a6fc7f4d2]
 
 (1) Any person specified in paragraph (2) shall, where information or documents are reasonably required from him to ascertain whether statutory paternity pay or statutory adoption pay is or was payable, furnish that information or those documents within 30 days of receiving a notification from an officer of the Board requesting such information or documents.
 
@@ -258,9 +258,9 @@ Regulation 11 requires an employer who decides not to make payments of s.p.p. or
 
 [^f00002]: Footnote: S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671); Articles 7(1)(fa) and (ga) were inserted by Article 10(2) of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) Article 23 was amended by paragraph 7 of Schedule 2 to the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-e2dc3fd3017b158c7b69bbd1c726ebe4]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-e2dc3fd3017b158c7b69bbd1c726ebe4]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-fe87837460ca29724e1a34d0d5d22553]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-fe87837460ca29724e1a34d0d5d22553]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00003]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 107A was inserted by Article 3 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
@@ -282,11 +282,11 @@ Regulation 11 requires an employer who decides not to make payments of s.p.p. or
 
 [^f00012]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16)
 
-[^key-e2380c7ecd824cd24b9157e6664be9f1]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-e2380c7ecd824cd24b9157e6664be9f1]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00013]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 163(2)(b) was substituted by section 21(2) of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22)
 
-[^key-58628f8d37f721e64bf78e4fed8dd262]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-58628f8d37f721e64bf78e4fed8dd262]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00014]: Footnote: S.I. [1993/744](https://www.legislation.gov.uk/uksi/1993/744); regulation 40 (concerning monthly payments) was amended by regulation 6 of S.I. [1993/2276](https://www.legislation.gov.uk/uksi/1993/2276); regulation 41 (concerning monthly payments) was amended by regulation 7 of S.I. [1993/2276](https://www.legislation.gov.uk/uksi/1993/2276), regulation 2 of S.I. [2000/1152](https://www.legislation.gov.uk/uksi/2000/1152) and by regulation 3 of S.I. [2000/2742](https://www.legislation.gov.uk/uksi/2000/2742)
 
@@ -298,25 +298,25 @@ Regulation 11 requires an employer who decides not to make payments of s.p.p. or
 
 [^f00018]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 559 was amended by section 139 of, and paragraph 1 of Schedule 27 to, the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and partly repealed by Part 8(21) of Schedule 29 to that Act; also amended by section 54(5) of the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16) and by section 55(2) of, and paragraph 2 of Schedule 8 to, the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), and partly repealed by Part 3(1) of Schedule 40 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23)
 
-[^key-5eee8737ca4a4879868146674e6afd47]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-5eee8737ca4a4879868146674e6afd47]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-55fa784057eb51307c1ba7f6491a0846]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-55fa784057eb51307c1ba7f6491a0846]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-077ef31cd0e683f327b40e2644fad75c]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-077ef31cd0e683f327b40e2644fad75c]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-c54498fe7d59758523f4a526f06b545f]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-c54498fe7d59758523f4a526f06b545f]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00019]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9)
 
 [^f00020]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); Section 65 was amended by section 57(1) of the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43) and paragraph 30 of Schedule 19 to the Finance Act 1998; section 66 was amended by section 57(2) of the Finance Act 1984 and the Schedule to S.I. [1991/724](https://www.legislation.gov.uk/uksi/1991/724), and partly repealed by Part 2(14) of Schedule 33 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9); section 67 was amended by section 58 of the Finance Act [1976 (c. 14)](https://www.legislation.gov.uk/ukpga/1976/14) and partly repealed by Schedule 15 to that Act, further amended by section 156 of the Finance Act 1995 and partly repealed by Part 2(14) of Schedule 33 to the Finance Act 2001
 
-[^key-3eb6676135727d737e3e05af5aee315b]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-3eb6676135727d737e3e05af5aee315b]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00021]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 167ZC (3)(c) was inserted by Article 5 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and section 167ZL (8)(c) was inserted by Article 6 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-4af8fa4eda6ffedde5d1fd6ee928b47c]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-4af8fa4eda6ffedde5d1fd6ee928b47c]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-fa56c99bc9d61be26a5166e277a51a92]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-fa56c99bc9d61be26a5166e277a51a92]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
 [^f00022]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253)
 
@@ -324,8 +324,8 @@ Regulation 11 requires an employer who decides not to make payments of s.p.p. or
 
 [^f00024]: Footnote: S.I. [1996/3266](https://www.legislation.gov.uk/uksi/1996/3266)
 
-[^key-4b7cd7f342a7a96d50069e0fc43ab1f9]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-4b7cd7f342a7a96d50069e0fc43ab1f9]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-ef7a3561f32b1199e71227c03f3cb2b8]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-ef7a3561f32b1199e71227c03f3cb2b8]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
 
-[^key-4b1b3519c55049f6f0940f9a6fc7f4d2]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)
+[^c-4b1b3519c55049f6f0940f9a6fc7f4d2]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/379/regulation/1)

@@ -22,14 +22,14 @@ summary: ''
 
 (1) No charge imposed by a harbour authority in respect of goods brought into, taken out of, or carried through a relevant harbour shall apply to goods contained in mail-bags—
 
-- (a) carried by a postal operator in connection with the provision of postal services[^key-7e1dce8b6f932fee61f58adb8e386a18],
-- (b) consigned by a postal operator in connection with the provision of postal services[^key-8f5eaea088b0a269d276ada166beebbe] to another for carriage (whether to a foreign postal administration or not), or
-- (c) consigned by a foreign postal administration to a postal operator in connection with the provision of postal services[^key-6a64a32875cc94b4cc8e2b8b0c9db605] for carriage.
+- (a) carried by a postal operator in connection with the provision of postal services[^c-7e1dce8b6f932fee61f58adb8e386a18],
+- (b) consigned by a postal operator in connection with the provision of postal services[^c-8f5eaea088b0a269d276ada166beebbe] to another for carriage (whether to a foreign postal administration or not), or
+- (c) consigned by a foreign postal administration to a postal operator in connection with the provision of postal services[^c-6a64a32875cc94b4cc8e2b8b0c9db605] for carriage.
 
 (2) No charge imposed by a harbour authority in respect of goods brought into, taken out of, or carried through a relevant harbour shall apply to goods contained in mail-bags which—
 
 - (a) are consigned by one foreign postal administration to another, and
-- (b) are mail-bags which, when in the United Kingdom, are in the charge of a postal operator in connection with the provision of postal services[^key-71025710f5cc38dc85cf325cb314caf9].
+- (b) are mail-bags which, when in the United Kingdom, are in the charge of a postal operator in connection with the provision of postal services[^c-71025710f5cc38dc85cf325cb314caf9].
 
 (3) Charges which are exigible by a harbour authority at a relevant harbour in respect of mail-bags which are carried or consigned as mentioned in subsection (1) or (2) and their contents shall not be payable before the end of the period of eight weeks starting with the day on which the bags are brought within the limits of the harbour.
 
@@ -57,13 +57,13 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1dce8b6f932fee61f58adb8e386a18]: Textual amendment: Word in s. 97(1)(a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7e1dce8b6f932fee61f58adb8e386a18]: Textual amendment: Word in s. 97(1)(a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-8f5eaea088b0a269d276ada166beebbe]: Textual amendment: Words in s. 97(1)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-8f5eaea088b0a269d276ada166beebbe]: Textual amendment: Words in s. 97(1)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-6a64a32875cc94b4cc8e2b8b0c9db605]: Textual amendment: Words in s. 97(1)(c) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-6a64a32875cc94b4cc8e2b8b0c9db605]: Textual amendment: Words in s. 97(1)(c) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/2/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-71025710f5cc38dc85cf325cb314caf9]: Textual amendment: Words in s. 97(2)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-71025710f5cc38dc85cf325cb314caf9]: Textual amendment: Words in s. 97(2)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 28(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/28/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c10291861]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

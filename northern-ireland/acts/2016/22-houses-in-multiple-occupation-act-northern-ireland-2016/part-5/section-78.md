@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Powers of entry: without warrant[^key-cd2761469fdeffb42f627d8d286c0eca]
+## 78. Powers of entry: without warrant[^c-cd2761469fdeffb42f627d8d286c0eca]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd2761469fdeffb42f627d8d286c0eca]: Commencement: [S. 78](https://www.legislation.gov.uk/nia/2016/22/section/78) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-cd2761469fdeffb42f627d8d286c0eca]: Commencement: [S. 78](https://www.legislation.gov.uk/nia/2016/22/section/78) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

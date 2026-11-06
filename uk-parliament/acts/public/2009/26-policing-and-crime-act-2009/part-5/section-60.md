@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to sell seized personal property: Northern Ireland[^key-8b2c58f9f62366162eb136d5db7b31c0]
+## 60. Power to sell seized personal property: Northern Ireland[^c-8b2c58f9f62366162eb136d5db7b31c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b2c58f9f62366162eb136d5db7b31c0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2009/26/section/60) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)
+[^c-8b2c58f9f62366162eb136d5db7b31c0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2009/26/section/60) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)

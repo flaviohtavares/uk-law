@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZYZA. Other relevant credits[^key-16115cd771f6d48ef0f8fa57ca6d1409][^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZYZA. Other relevant credits[^c-16115cd771f6d48ef0f8fa57ca6d1409][^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ are met in relation to C, L and C’s arrangement (as defined in subsection (2) 
 
 ## Annotations
 
-[^key-16115cd771f6d48ef0f8fa57ca6d1409]: Textual amendment: [S. 269ZYZA](https://www.legislation.gov.uk/ukpga/2010/4/section/269ZYZA) inserted (with effect in accordance with s. 30(17)-(19) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 30(14)](https://www.legislation.gov.uk/ukpga/2022/3/section/30/14)
+[^c-16115cd771f6d48ef0f8fa57ca6d1409]: Textual amendment: [S. 269ZYZA](https://www.legislation.gov.uk/ukpga/2010/4/section/269ZYZA) inserted (with effect in accordance with s. 30(17)-(19) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 30(14)](https://www.legislation.gov.uk/ukpga/2022/3/section/30/14)
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)

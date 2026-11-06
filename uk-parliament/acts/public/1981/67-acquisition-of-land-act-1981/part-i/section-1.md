@@ -31,7 +31,7 @@ summary: ''
 - section 1(3) of the [^c3309601]Military Lands Act 1892,
 - sections 25(1) and 39(1) of the [^c3309611]Small Holdings and Allotments Act 1908,
 - section 5(1) of the [^c3309621]Development and Road Improvement Funds Act 1909 as it applies to acquisition by local authorities (as defined in section 7(1) of this Act) or the Secretary of State,
-- [^key-9ea3dc53f7cb0a03f9aa61a85948f852]...
+- [^c-9ea3dc53f7cb0a03f9aa61a85948f852]...
 - [^c3309641] . . .
 - section 530(1) of the Education Act 1996[^c3309651],
 - [^c3309641]. . .
@@ -48,7 +48,7 @@ summary: ''
 
 [^c3309621]: Marginal citation: [1909 c. 47](https://www.legislation.gov.uk/ukpga/1909/47).
 
-[^key-9ea3dc53f7cb0a03f9aa61a85948f852]: Textual amendment: Words in s. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
+[^c-9ea3dc53f7cb0a03f9aa61a85948f852]: Textual amendment: Words in s. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
 
 [^c3309641]: Textual amendment: Words repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
 

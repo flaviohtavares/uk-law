@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Amendment of the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc) (England) Regulations 2015[^key-ea1de8ee6b9007392df21e154021ff5c]
+## 79. Amendment of the Social Security (Information-sharing) (NHS Payments and Remission of Charges etc) (England) Regulations 2015[^c-ea1de8ee6b9007392df21e154021ff5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea1de8ee6b9007392df21e154021ff5c]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2023/1071/regulation/79) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-ea1de8ee6b9007392df21e154021ff5c]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2023/1071/regulation/79) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00065]: Footnote: [S.I. 2015/124](https://www.legislation.gov.uk/uksi/2015/124), to which there are amendments not relevant to these Regulations.

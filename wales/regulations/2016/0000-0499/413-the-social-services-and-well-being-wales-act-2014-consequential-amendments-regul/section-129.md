@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**129.**[^key-7ad70c734860a3e99e5431afcfd08d72] In paragraph 8(2) of Schedule 4A[^f00147] to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges) in the definition of “care home”—
+**129.**[^c-7ad70c734860a3e99e5431afcfd08d72] In paragraph 8(2) of Schedule 4A[^f00147] to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges) in the definition of “care home”—
 
 - (a) omit paragraph (b), and
 - (b) after paragraph (c) insert—
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ad70c734860a3e99e5431afcfd08d72]: Commencement: Reg. 129 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7ad70c734860a3e99e5431afcfd08d72]: Commencement: Reg. 129 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00147]: Footnote: Schedule 4A was inserted by the Water Industry Act [1999 (c. 9)](https://www.legislation.gov.uk/ukpga/1999/9), section 1(2) and Schedule 1.

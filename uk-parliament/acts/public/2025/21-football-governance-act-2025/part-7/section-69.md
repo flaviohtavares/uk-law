@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Outcomes of investigations[^key-e159eebacb4930a0058c89c5102bbbea][^key-dc07b580f599d744c8f14ce8cba4a871]
+## 69. Outcomes of investigations[^c-e159eebacb4930a0058c89c5102bbbea][^c-dc07b580f599d744c8f14ce8cba4a871]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e159eebacb4930a0058c89c5102bbbea]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-e159eebacb4930a0058c89c5102bbbea]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-dc07b580f599d744c8f14ce8cba4a871]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/21/section/69) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/v)
+[^c-dc07b580f599d744c8f14ce8cba4a871]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/21/section/69) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/v)

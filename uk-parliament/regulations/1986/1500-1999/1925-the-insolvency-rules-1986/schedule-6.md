@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — DETERMINATION OF INSOLVENCY OFFICE HOLDER'S REMUNERATION[^key-cd2f06107ce24ea299428e708bc175b9]
+## SCHEDULE 6 — DETERMINATION OF INSOLVENCY OFFICE HOLDER'S REMUNERATION[^c-cd2f06107ce24ea299428e708bc175b9]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ As regards the determination of the remuneration of trustees and liquidators the
 
 ## Annotations
 
-[^key-cd2f06107ce24ea299428e708bc175b9]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/1986/1925/schedule/6) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [47](https://www.legislation.gov.uk/uksi/2004/584/article/47)
+[^c-cd2f06107ce24ea299428e708bc175b9]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/1986/1925/schedule/6) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [47](https://www.legislation.gov.uk/uksi/2004/584/article/47)

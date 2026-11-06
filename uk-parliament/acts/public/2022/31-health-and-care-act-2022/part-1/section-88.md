@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Meaning of “health” in NHS Act 2006[^key-816de0cae002b2581a79a80058833947][^key-f953c71a46b949c61591189a68edd683]
+## 88. Meaning of “health” in NHS Act 2006[^c-816de0cae002b2581a79a80058833947][^c-f953c71a46b949c61591189a68edd683]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 275(1) of the National Health Service Act 2006 (interpretation), at t
 
 ## Annotations
 
-[^key-816de0cae002b2581a79a80058833947]: Commencement: S. 88 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-816de0cae002b2581a79a80058833947]: Commencement: S. 88 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-f953c71a46b949c61591189a68edd683]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2022/31/section/88) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f953c71a46b949c61591189a68edd683]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2022/31/section/88) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

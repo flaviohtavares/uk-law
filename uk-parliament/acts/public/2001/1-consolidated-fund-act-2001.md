@@ -33,30 +33,30 @@ Consolidated Fund Act 2001 (repealed)
 
 \[22nd March 2001\]
 
-[^key-772c0663bf58380c3130dc9b8d8c14f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-772c0663bf58380c3130dc9b8d8c14f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Use of resources for the year ending on 31st March 2002[^key-772c0663bf58380c3130dc9b8d8c14f4][^key-772c0663bf58380c3130dc9b8d8c14f4]
+## 1. Use of resources for the year ending on 31st March 2002[^c-772c0663bf58380c3130dc9b8d8c14f4][^c-772c0663bf58380c3130dc9b8d8c14f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2000[^key-772c0663bf58380c3130dc9b8d8c14f4][^key-772c0663bf58380c3130dc9b8d8c14f4]
+## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2000[^c-772c0663bf58380c3130dc9b8d8c14f4][^c-772c0663bf58380c3130dc9b8d8c14f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Issue out of the Consolidated Fund for the year ending on 31st March 2001[^key-772c0663bf58380c3130dc9b8d8c14f4][^key-772c0663bf58380c3130dc9b8d8c14f4]
+## 3. Issue out of the Consolidated Fund for the year ending on 31st March 2001[^c-772c0663bf58380c3130dc9b8d8c14f4][^c-772c0663bf58380c3130dc9b8d8c14f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^key-772c0663bf58380c3130dc9b8d8c14f4][^key-772c0663bf58380c3130dc9b8d8c14f4]
+## 4. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^c-772c0663bf58380c3130dc9b8d8c14f4][^c-772c0663bf58380c3130dc9b8d8c14f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title[^key-772c0663bf58380c3130dc9b8d8c14f4][^key-772c0663bf58380c3130dc9b8d8c14f4]
+## 5. Short title[^c-772c0663bf58380c3130dc9b8d8c14f4][^c-772c0663bf58380c3130dc9b8d8c14f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-772c0663bf58380c3130dc9b8d8c14f4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2001/1) repealed (10.7.2003) by [Appropriation Act 2003 (c. 13)](https://www.legislation.gov.uk/ukpga/2003/13), [s. 4](https://www.legislation.gov.uk/ukpga/2003/13/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/13/schedule/3)
+[^c-772c0663bf58380c3130dc9b8d8c14f4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2001/1) repealed (10.7.2003) by [Appropriation Act 2003 (c. 13)](https://www.legislation.gov.uk/ukpga/2003/13), [s. 4](https://www.legislation.gov.uk/ukpga/2003/13/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/13/schedule/3)

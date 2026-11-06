@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Timing of repayments for plan 5 LLE loans[^key-c054e1f111805902e585e76e9053acf9]
+## 15A. Timing of repayments for plan 5 LLE loans[^c-c054e1f111805902e585e76e9053acf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c054e1f111805902e585e76e9053acf9]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2009/470/regulation/15A) inserted (1.9.2026) by [The Education (Student Loans) (Repayment) (Amendments for Lifelong Learning) Regulations 2026 (S.I. 2026/857)](https://www.legislation.gov.uk/uksi/2026/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/857/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/857/regulation/8)
+[^c-c054e1f111805902e585e76e9053acf9]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2009/470/regulation/15A) inserted (1.9.2026) by [The Education (Student Loans) (Repayment) (Amendments for Lifelong Learning) Regulations 2026 (S.I. 2026/857)](https://www.legislation.gov.uk/uksi/2026/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/857/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/857/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32C. Notification of criminal conduct authorisations[^key-f3f6cf29351a520fa780a051d42ba6f8]
+## 32C. Notification of criminal conduct authorisations[^c-f3f6cf29351a520fa780a051d42ba6f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3f6cf29351a520fa780a051d42ba6f8]: Textual amendment: S. 32C inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-f3f6cf29351a520fa780a051d42ba6f8]: Textual amendment: S. 32C inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)

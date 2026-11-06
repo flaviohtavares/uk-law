@@ -202,14 +202,14 @@ This is subject to paragraph 9 (interaction with penalties).
 
 (6) The specified provisions are—
 
-- (a)[^key-ca27960c64607d342071e70db02dd4a7] sections 315 and 315A of FA 2004 (penalties for non-disclosure of tax avoidance schemes);
+- (a)[^c-ca27960c64607d342071e70db02dd4a7] sections 315 and 315A of FA 2004 (penalties for non-disclosure of tax avoidance schemes);
 - (b) paragraphs 2 and 3 of Schedule 35 to FA 2014 (promoters of tax avoidance schemes: penalties);
 - (c) paragraph 1 of Schedule 20 to FA 2016 (penalties for enablers of offshore tax evasion or non-compliance);
 - (d) Part 1 of Schedule 16 to F(No.2)A 2017 (penalties for enablers of defeated tax avoidance);
 - (e) Part 2 of Schedule 17 to that Act (penalties for breach of certain obligations relating to disclosure of tax avoidance schemes by promoters etc of schemes);
-- (f)[^key-631306a2168d514979526219a2c21248] Schedule 13 to FA 2022 (penalties for facilitating avoidance schemes involving non-resident promoters).
-- (g)[^key-7c5fa8fd6edbac46a14da10179aa44b4] section 162 of FA 2026 (prohibition of promotion of certain tax avoidance arrangements: penalties).
-- (h)[^key-ed95040d1ff1e0d6dab18832b5f162f6] section 171 of FA 2026 (promoter action notices: penalties).
+- (f)[^c-631306a2168d514979526219a2c21248] Schedule 13 to FA 2022 (penalties for facilitating avoidance schemes involving non-resident promoters).
+- (g)[^c-7c5fa8fd6edbac46a14da10179aa44b4] section 162 of FA 2026 (prohibition of promotion of certain tax avoidance arrangements: penalties).
+- (h)[^c-ed95040d1ff1e0d6dab18832b5f162f6] section 171 of FA 2026 (promoter action notices: penalties).
 
 (7) A notice under sub-paragraph (1) must—
 
@@ -579,10 +579,10 @@ an appeal in respect of that liability may be made in the name of the individual
 
 ## Annotations
 
-[^key-ca27960c64607d342071e70db02dd4a7]: Textual amendment: [Sch. 13 para. 5(6)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/2) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-ca27960c64607d342071e70db02dd4a7]: Textual amendment: [Sch. 13 para. 5(6)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/2) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
-[^key-631306a2168d514979526219a2c21248]: Textual amendment: [Sch. 13 para. 5(6)(f)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/f) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/91/2)
+[^c-631306a2168d514979526219a2c21248]: Textual amendment: [Sch. 13 para. 5(6)(f)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/f) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/91/2)
 
-[^key-7c5fa8fd6edbac46a14da10179aa44b4]: Textual amendment: [Sch. 13 para. 5(6)(g)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/g) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 162(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/162/8)
+[^c-7c5fa8fd6edbac46a14da10179aa44b4]: Textual amendment: [Sch. 13 para. 5(6)(g)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/g) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 162(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/162/8)
 
-[^key-ed95040d1ff1e0d6dab18832b5f162f6]: Textual amendment: [Sch. 13 para. 5(6)(h)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/h) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 171(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/171/7)
+[^c-ed95040d1ff1e0d6dab18832b5f162f6]: Textual amendment: [Sch. 13 para. 5(6)(h)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/13/paragraph/5/6/h) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 171(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/171/7)

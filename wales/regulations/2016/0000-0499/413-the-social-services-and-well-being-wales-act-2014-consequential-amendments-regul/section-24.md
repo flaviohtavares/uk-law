@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**24.**[^key-d52022aa4baa6a60326136d677e00dc0] In Schedule 1[^f00018]—
+**24.**[^c-d52022aa4baa6a60326136d677e00dc0] In Schedule 1[^f00018]—
 
 - (a) omit the entries relating to the National Assistance Act 1948, except the entry relating to section 49 of that Act;
 - (b) in the entry relating to the Health Visiting and Social Work (Training) Act 1962[^f00019] omit “, and as extended by section 45(9) of the Health Services and Public Health Act [1968 (c. 46)](https://www.legislation.gov.uk/ukpga/1968/46)”;
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d52022aa4baa6a60326136d677e00dc0]: Commencement: Reg. 24 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d52022aa4baa6a60326136d677e00dc0]: Commencement: Reg. 24 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00018]: Footnote: In Schedule 1, the entry relating to the Health Services and Public Health Act 1968 was amended by the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), section 129, Schedule 16, and by the National Health Service Reorganisation Act [1973 (c.32)](https://www.legislation.gov.uk/ukpga/1973/32), section 57, Schedule 4, paragraph 131; the entry relating to the Disabled Persons (Services, Consultation and Representation) Act [1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33) was inserted by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), section 107, Schedule 5, paragraph 7 and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158); the entry relating to the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) was inserted by Schedule 9, paragraph 11 of that Act; the entry relating to the Community Care (Delayed Discharges etc.) Act [2003 (c. 5)](https://www.legislation.gov.uk/ukpga/2003/5) was inserted by section 13 of that Act and amended by the Personal Care at Home Act [2010 (c. 18)](https://www.legislation.gov.uk/ukpga/2010/18), section 1; the entry relating to the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) was inserted by section 56 of that Act and amended by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 195(3)(a).
 

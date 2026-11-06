@@ -36,14 +36,14 @@ the person shall (whether or not the child has been, or will be, so accommodated
 
 - (a) any health board constituted under section 2 of the [^c13125991]National Health Service (Scotland) Act 1978;
 - (b) any national health service trust established under section 12A of that Act;
-- (c)[^key-c2ef84a4e453a935644cf476700c5b16] any person providing—
+- (c)[^c-c2ef84a4e453a935644cf476700c5b16] any person providing—
   - (i) an independent hospital;
   - (ii) a private psychiatric hospital;
   - (iii) an independent clinic; or
   - (iv) an independent medical agency,
 
   within the meaning given to those expressions by section 10F(2) of the National Health Service (Scotland) Act [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29); and
-- (d) any person providing a care home service (as defined by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-7444ac52a632e9c20155281a4174d2ae] (asp 8)).
+- (d) any person providing a care home service (as defined by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-7444ac52a632e9c20155281a4174d2ae] (asp 8)).
 
 (4) For the purposes of subsection (1) above, a child has parental contact only when in the presence of a person having parental responsibilities in relation to him.
 
@@ -53,9 +53,9 @@ the person shall (whether or not the child has been, or will be, so accommodated
 
 [^c13125991]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-c2ef84a4e453a935644cf476700c5b16]: Textual amendment: S. 36(3)(c) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/4)
+[^c-c2ef84a4e453a935644cf476700c5b16]: Textual amendment: S. 36(3)(c) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/4)
 
-[^key-7444ac52a632e9c20155281a4174d2ae]: Textual amendment: Words in s. 36(3)(d) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 6(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/6/a)
+[^c-7444ac52a632e9c20155281a4174d2ae]: Textual amendment: Words in s. 36(3)(d) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 6(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/6/a)
 
 [^c13126041]: Marginal citation: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
 

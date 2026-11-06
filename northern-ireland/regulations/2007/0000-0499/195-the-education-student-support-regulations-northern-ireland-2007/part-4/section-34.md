@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Amount of the fee contribution loan[^key-d14e30a677d43bbf2234f1f294e0a793]
+## 34. Amount of the fee contribution loan[^c-d14e30a677d43bbf2234f1f294e0a793]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d14e30a677d43bbf2234f1f294e0a793]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2007/195/regulation/34) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-d14e30a677d43bbf2234f1f294e0a793]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2007/195/regulation/34) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

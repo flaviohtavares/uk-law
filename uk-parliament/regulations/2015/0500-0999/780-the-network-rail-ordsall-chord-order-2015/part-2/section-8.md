@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Power to deviate[^key-cb249261a4900dc07c6072328614718d]
+## 8. Power to deviate[^c-cb249261a4900dc07c6072328614718d]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In constructing or maintaining any of the scheduled works, Network Rail may—
 
 ## Annotations
 
-[^key-cb249261a4900dc07c6072328614718d]: Commencement: Art. 8 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-cb249261a4900dc07c6072328614718d]: Commencement: Art. 8 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Ability for creditors to opt not to receive certain notices: company insolvency[^key-0e51bd00d2753f44306796d43b73194e][^key-4e314648b3603f561f653f219b463ccd][^key-a7018845e2ea551da1ebbfa603c0e855]
+## 124. Ability for creditors to opt not to receive certain notices: company insolvency[^c-0e51bd00d2753f44306796d43b73194e][^c-4e314648b3603f561f653f219b463ccd][^c-a7018845e2ea551da1ebbfa603c0e855]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0e51bd00d2753f44306796d43b73194e]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
+[^c-0e51bd00d2753f44306796d43b73194e]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d)
 
-[^key-4e314648b3603f561f653f219b463ccd]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c)
+[^c-4e314648b3603f561f653f219b463ccd]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 6.4.2017 for E.W. in so far as not already in force by [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c)
 
-[^key-a7018845e2ea551da1ebbfa603c0e855]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 6.4.2019 for S. in so far as not already in force by [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)
+[^c-a7018845e2ea551da1ebbfa603c0e855]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2015/26/section/124) in force at 6.4.2019 for S. in so far as not already in force by [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)

@@ -169,7 +169,7 @@ such compensation as may be just shall be paid to that person by one or more of 
 - (a) by an arbitrator appointed by the Lord Chancellor; or
 - (b) where the proceedings are to be held in Scotland, by an arbiter appointed by the Lord President of the Court of Session.
 
-(3)[^key-45368af3c5d5c886b20f2a5a34a4736d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-45368af3c5d5c886b20f2a5a34a4736d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
@@ -189,4 +189,4 @@ such compensation as may be just shall be paid to that person by one or more of 
 
 [^c4122211]: Modification: Sch. 10 para. 9(2) restricted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26(8)(g)](https://www.legislation.gov.uk/ukpga/1993/8/section/26/8/g) (with [Sch. 7 paras. 2(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/3/2), [4](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/4)); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-45368af3c5d5c886b20f2a5a34a4736d]: Textual amendment: Sch. 10 para. 9(3) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+[^c-45368af3c5d5c886b20f2a5a34a4736d]: Textual amendment: Sch. 10 para. 9(3) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))

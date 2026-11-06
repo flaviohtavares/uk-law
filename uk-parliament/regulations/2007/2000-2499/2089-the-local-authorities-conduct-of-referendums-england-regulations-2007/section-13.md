@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Combination of referendum polls: supplementary[^key-64d34ba100f5ee3af43a4bdd4ca0ffbc]
+## 13. Combination of referendum polls: supplementary[^c-64d34ba100f5ee3af43a4bdd4ca0ffbc]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d34ba100f5ee3af43a4bdd4ca0ffbc]: Commencement: Reg. 13 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-64d34ba100f5ee3af43a4bdd4ca0ffbc]: Commencement: Reg. 13 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

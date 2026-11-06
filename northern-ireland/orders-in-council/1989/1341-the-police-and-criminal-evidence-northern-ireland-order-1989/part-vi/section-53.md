@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Interpretation of Part VI[^key-901fb042586209b32594ec1be67f8b73]
+## 53. Interpretation of Part VI[^c-901fb042586209b32594ec1be67f8b73]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
   - (b) section 5 of that Act;
   - (c) a warrant issued under section 71 of that Act;
   - (d) a provisional warrant (within the meaning given by that Act);
-  - (e) section 74A of that Act.[^key-c80694c49fad68cd44f9a68251db0b97]
+  - (e) section 74A of that Act.[^c-c80694c49fad68cd44f9a68251db0b97]
 - “[^c20420711]**fingerprints**”, in relation to any person, means a record (in any form and produced by any method) of the skin pattern and other physical characteristics or features of—
   - (a) any of that person's fingers; or
   - (b) either of his palms;
@@ -70,7 +70,7 @@ the sample has become unavailable or insufficient for the purpose of enabling in
 
 ## Annotations
 
-[^key-901fb042586209b32594ec1be67f8b73]: Modification: [Art. 53](https://www.legislation.gov.uk/nisi/1989/1341/article/53) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-901fb042586209b32594ec1be67f8b73]: Modification: [Art. 53](https://www.legislation.gov.uk/nisi/1989/1341/article/53) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20420191]: Textual amendment: Words in art. 53 inserted (1.3.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 42(4)(6)](https://www.legislation.gov.uk/ukpga/2003/6/section/42/4/6); [S.R. 2007/177](https://www.legislation.gov.uk/nisr/2007/177), [art. 2](https://www.legislation.gov.uk/nisr/2007/177/article/2)
 
@@ -80,7 +80,7 @@ the sample has become unavailable or insufficient for the purpose of enabling in
 
 [^c17129141]: Textual amendment: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41)
 
-[^key-c80694c49fad68cd44f9a68251db0b97]: Textual amendment: Art. 53(1): words in definition of “extradition arrest power” inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/8); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-c80694c49fad68cd44f9a68251db0b97]: Textual amendment: Art. 53(1): words in definition of “extradition arrest power” inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/8); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
 [^c20420711]: Textual amendment: Art. 53(1): definition of "fingerprints" substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [25(4)](https://www.legislation.gov.uk/nisi/2007/288/article/25/4)
 

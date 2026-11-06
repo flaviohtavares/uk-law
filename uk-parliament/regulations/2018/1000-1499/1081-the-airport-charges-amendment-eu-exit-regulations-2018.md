@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State is a Minister designated [^c23416951] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to air transport.
 
-## 1. Citation and commencement[^key-21ac5295dea0f208686fe0f375be6788]
+## 1. Citation and commencement[^c-21ac5295dea0f208686fe0f375be6788]
 
 (1) These Regulations may be cited as the Airport Charges (Amendment) (EU Exit) Regulations 2018 and come into force in accordance with paragraphs (2) and (3).
 
@@ -62,17 +62,17 @@ The Secretary of State is a Minister designated [^c23416951] for the purposes of
 
 (3) Regulation 4 comes into force on exit day.
 
-## 2. Amendment of Regulations[^key-77e042c00f56b795249d467ad7d6f212]
+## 2. Amendment of Regulations[^c-77e042c00f56b795249d467ad7d6f212]
 
 The Airport Charges Regulations 2011 [^c23416961] are amended as follows.
 
-## 3. Amendments coming into force prior to exit day[^key-0b284e20d176bf7a8eabba453af44ed4]
+## 3. Amendments coming into force prior to exit day[^c-0b284e20d176bf7a8eabba453af44ed4]
 
-(1)[^key-b560a54cec3228f04846ec089023f33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b560a54cec3228f04846ec089023f33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In regulation 33 (service of documents by the CAA), in paragraph (1)(b), for “the operator's” substitute “that person's”.
 
-## 4. Amendments coming into force on exit day[^key-6692242429fc337041c177b96abb422c]
+## 4. Amendments coming into force on exit day[^c-6692242429fc337041c177b96abb422c]
 
 (1) In regulation 3 (interpretation), in paragraph (1), omit the definition of “Eurostat”.
 
@@ -110,14 +110,14 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23416951]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
 
-[^key-21ac5295dea0f208686fe0f375be6788]: Commencement: Reg. 1 in force at 10.11.2018, see reg. 1(2)
+[^c-21ac5295dea0f208686fe0f375be6788]: Commencement: Reg. 1 in force at 10.11.2018, see reg. 1(2)
 
-[^key-77e042c00f56b795249d467ad7d6f212]: Commencement: Reg. 2 in force at 10.11.2018, see reg. 1(2)
+[^c-77e042c00f56b795249d467ad7d6f212]: Commencement: Reg. 2 in force at 10.11.2018, see reg. 1(2)
 
 [^c23416961]: Marginal citation: [S.I. 2011/2491](https://www.legislation.gov.uk/uksi/2011/2491), amended by the Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013.
 
-[^key-0b284e20d176bf7a8eabba453af44ed4]: Commencement: Reg. 3 in force at 10.11.2018, see reg. 1(2)
+[^c-0b284e20d176bf7a8eabba453af44ed4]: Commencement: Reg. 3 in force at 10.11.2018, see reg. 1(2)
 
-[^key-b560a54cec3228f04846ec089023f33a]: Textual amendment: Reg. 3(1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [394](https://www.legislation.gov.uk/uksi/2019/459/regulation/394); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b560a54cec3228f04846ec089023f33a]: Textual amendment: Reg. 3(1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [394](https://www.legislation.gov.uk/uksi/2019/459/regulation/394); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6692242429fc337041c177b96abb422c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-6692242429fc337041c177b96abb422c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)

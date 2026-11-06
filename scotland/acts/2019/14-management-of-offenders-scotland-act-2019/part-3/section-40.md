@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Continued independence of action[^key-3fcf6dd96e302af084a8d84719214e25]
+## 40. Continued independence of action[^c-3fcf6dd96e302af084a8d84719214e25]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fcf6dd96e302af084a8d84719214e25]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/14/section/40) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/f)
+[^c-3fcf6dd96e302af084a8d84719214e25]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/14/section/40) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/f)

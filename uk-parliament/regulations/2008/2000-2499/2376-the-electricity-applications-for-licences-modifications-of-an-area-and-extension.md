@@ -31,7 +31,7 @@ summary: ''
 
 Electricity
 
-The Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2008 (revoked)[^key-af5d322e05b897dc981aea50620ee92e]
+The Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2008 (revoked)[^c-af5d322e05b897dc981aea50620ee92e]
 
 Made
 
@@ -41,59 +41,59 @@ Coming into force
 
 1st October 2008
 
-[^key-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-af5d322e05b897dc981aea50620ee92e]
+## 1. Citation, commencement and revocation[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provisions[^key-af5d322e05b897dc981aea50620ee92e]
+## 2. Transitional provisions[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-af5d322e05b897dc981aea50620ee92e]
+## 3. Interpretation[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Manner of Application[^key-af5d322e05b897dc981aea50620ee92e]
+## 4. Manner of Application[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Form of application[^key-af5d322e05b897dc981aea50620ee92e]
+## 5. Form of application[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Additional information and documents to accompany application[^key-af5d322e05b897dc981aea50620ee92e]
+## 6. Additional information and documents to accompany application[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application fees[^key-af5d322e05b897dc981aea50620ee92e]
+## 7. Application fees[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Publication of notice of application[^key-af5d322e05b897dc981aea50620ee92e]
+## 8. Publication of notice of application[^c-af5d322e05b897dc981aea50620ee92e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-af5d322e05b897dc981aea50620ee92e]
+## SCHEDULE 1[^c-af5d322e05b897dc981aea50620ee92e]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-af5d322e05b897dc981aea50620ee92e]
+## SCHEDULE 2[^c-af5d322e05b897dc981aea50620ee92e]
 
 Regulation 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — APPLICATION FEES[^key-af5d322e05b897dc981aea50620ee92e]
+## SCHEDULE 3 — APPLICATION FEES[^c-af5d322e05b897dc981aea50620ee92e]
 
 Regulation 7
 
@@ -101,8 +101,8 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af5d322e05b897dc981aea50620ee92e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af5d322e05b897dc981aea50620ee92e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2376) revoked (28.12.2009) by [The Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2009 (S.I. 2009/3191)](https://www.legislation.gov.uk/uksi/2009/3191), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3191/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2009/3191/regulation/1/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/3191/regulation/2))
+[^c-af5d322e05b897dc981aea50620ee92e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2376) revoked (28.12.2009) by [The Electricity (Applications for Licences, Modifications of an Area and Extensions and Restrictions of Licences) Regulations 2009 (S.I. 2009/3191)](https://www.legislation.gov.uk/uksi/2009/3191), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3191/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2009/3191/regulation/1/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/3191/regulation/2))

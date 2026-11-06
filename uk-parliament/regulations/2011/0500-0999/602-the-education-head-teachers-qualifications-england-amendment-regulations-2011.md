@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Head Teachers’ Qualifications) (England) (Amendment) Regulations 2011 (revoked)[^key-9861e59fa3d8161fd03321db82b6695c]
+The Education (Head Teachers’ Qualifications) (England) (Amendment) Regulations 2011 (revoked)[^c-9861e59fa3d8161fd03321db82b6695c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2011
 
-[^key-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9861e59fa3d8161fd03321db82b6695c]
+## 1. Citation and commencement[^c-9861e59fa3d8161fd03321db82b6695c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Head Teachers’ Qualifications) (England) Regulations 2003[^key-9861e59fa3d8161fd03321db82b6695c]
+## 2. Amendment of the Education (Head Teachers’ Qualifications) (England) Regulations 2003[^c-9861e59fa3d8161fd03321db82b6695c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9861e59fa3d8161fd03321db82b6695c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9861e59fa3d8161fd03321db82b6695c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/602) revoked (8.2.2012) by [The Education (Head Teachers’ Qualifications) (England) (Revocation) Regulations 2012 (S.I. 2012/18)](https://www.legislation.gov.uk/uksi/2012/18), [reg. 1](https://www.legislation.gov.uk/uksi/2012/18/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/18/schedule)
+[^c-9861e59fa3d8161fd03321db82b6695c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/602) revoked (8.2.2012) by [The Education (Head Teachers’ Qualifications) (England) (Revocation) Regulations 2012 (S.I. 2012/18)](https://www.legislation.gov.uk/uksi/2012/18), [reg. 1](https://www.legislation.gov.uk/uksi/2012/18/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/18/schedule)

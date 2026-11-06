@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Amendment of the Controlled Waste (Duty of Care) Regulations (Northern Ireland) 2002[^key-eed9ff586b2ba22dadb9af0c93204b32]
+## 33. Amendment of the Controlled Waste (Duty of Care) Regulations (Northern Ireland) 2002[^c-eed9ff586b2ba22dadb9af0c93204b32]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eed9ff586b2ba22dadb9af0c93204b32]: Commencement: Reg. 33 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-eed9ff586b2ba22dadb9af0c93204b32]: Commencement: Reg. 33 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 2002 No.271](https://www.legislation.gov.uk/nisr/2002/271) as amended by [S.R.2003 No.404](https://www.legislation.gov.uk/nisr/2003/404)

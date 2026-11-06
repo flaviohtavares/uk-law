@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Applicants attempting to influence Board members[^key-c540bbc6c065a23b494cf6dd1e9cda91]
+## 8. Applicants attempting to influence Board members[^c-c540bbc6c065a23b494cf6dd1e9cda91]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c540bbc6c065a23b494cf6dd1e9cda91]: Commencement: S. 8 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-c540bbc6c065a23b494cf6dd1e9cda91]: Commencement: S. 8 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

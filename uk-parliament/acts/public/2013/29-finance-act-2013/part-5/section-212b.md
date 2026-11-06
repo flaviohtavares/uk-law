@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212B. Penalty: partnerships[^key-89efdfe4faeef70b107c2440df235a5b]
+## 212B. Penalty: partnerships[^c-89efdfe4faeef70b107c2440df235a5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89efdfe4faeef70b107c2440df235a5b]: Textual amendment: [S. 212B](https://www.legislation.gov.uk/ukpga/2013/29/section/212B) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/8)
+[^c-89efdfe4faeef70b107c2440df235a5b]: Textual amendment: [S. 212B](https://www.legislation.gov.uk/ukpga/2013/29/section/212B) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/8)

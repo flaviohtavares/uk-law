@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Disqualification for holding or obtaining travel authorisation[^key-fc9d63e4897f6595273e8f9fa018b6dc][^key-31e9b7da379b5d235afd5a5f188ca0c1]
+## 27. Disqualification for holding or obtaining travel authorisation[^c-fc9d63e4897f6595273e8f9fa018b6dc][^c-31e9b7da379b5d235afd5a5f188ca0c1]
 
 *Extent: E+W+S*
 
@@ -139,9 +139,9 @@ Before section 40 of the Child Support Act 1991 (c. 48) insert—
 
 ## Annotations
 
-[^key-fc9d63e4897f6595273e8f9fa018b6dc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27) in force at 29.11.2018 for specified purposes by [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/a)
+[^c-fc9d63e4897f6595273e8f9fa018b6dc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27) in force at 29.11.2018 for specified purposes by [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/a)
 
-[^key-31e9b7da379b5d235afd5a5f188ca0c1]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27) in force at 14.12.2018 in so far as not already in force by [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/b)
+[^c-31e9b7da379b5d235afd5a5f188ca0c1]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27) in force at 14.12.2018 in so far as not already in force by [S.I. 2018/1261](https://www.legislation.gov.uk/uksi/2018/1261), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1261/article/2/b)
 
 [^c2169237]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/2008/6/section/27) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/3/2), [Sch. para. 80(2)(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/80/2/a)
 

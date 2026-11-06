@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Efficiency[^key-9f465b913fea805ffd7bf5f1787b6c60]
+## 15. Efficiency[^c-9f465b913fea805ffd7bf5f1787b6c60]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The WAO must aim to carry out its functions efficiently and cost-effectively.
 
 ## Annotations
 
-[^key-9f465b913fea805ffd7bf5f1787b6c60]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2013/3/section/15) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(g)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/g)
+[^c-9f465b913fea805ffd7bf5f1787b6c60]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2013/3/section/15) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(g)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/g)

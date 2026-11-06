@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19B — Prisoners returning to the UK: Modifications of Chapter 6 of Part 12[^key-20d30de3db0b960ef2220a2c8229601b]
+## SCHEDULE 19B — Prisoners returning to the UK: Modifications of Chapter 6 of Part 12[^c-20d30de3db0b960ef2220a2c8229601b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ Paragraphs 5 and 6 apply where, before a person’s removal from the United King
 **6.** The person is to be treated as if—
 
 - (a) they had been recalled under section 254 on the day on which they returned to the United Kingdom, and
-- (b)[^key-add8ae9c25071beaa844de3bff58bfc6] section 255C (prisoners excluded from automatic release) applied to them.
+- (b)[^c-add8ae9c25071beaa844de3bff58bfc6] section 255C (prisoners excluded from automatic release) applied to them.
 
 ### 7. Person removed after referral to the Board but before disposal of the reference
 
@@ -64,12 +64,12 @@ Paragraphs 11 and 12 apply where, at the time of a person’s removal from priso
 **12.** The person is to be treated as if—
 
 - (a) they had been recalled under section 254 on the day on which they returned to the United Kingdom, and
-- (b)[^key-164555961d6c8804a959cc22598c5e1a] section 255C (prisoners excluded from automatic release) applied to them.
+- (b)[^c-164555961d6c8804a959cc22598c5e1a] section 255C (prisoners excluded from automatic release) applied to them.
 
 ## Annotations
 
-[^key-20d30de3db0b960ef2220a2c8229601b]: Textual amendment: [Sch. 19B](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B) inserted (28.6.2022 for E.W.) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/8); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))
+[^c-20d30de3db0b960ef2220a2c8229601b]: Textual amendment: [Sch. 19B](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B) inserted (28.6.2022 for E.W.) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/8); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/24) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/9))
 
-[^key-add8ae9c25071beaa844de3bff58bfc6]: Textual amendment: [Sch. 19B para. 6(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B/paragraph/6/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/11), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-add8ae9c25071beaa844de3bff58bfc6]: Textual amendment: [Sch. 19B para. 6(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B/paragraph/6/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/11), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-164555961d6c8804a959cc22598c5e1a]: Textual amendment: [Sch. 19B para. 12(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B/paragraph/12/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/11), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-164555961d6c8804a959cc22598c5e1a]: Textual amendment: [Sch. 19B para. 12(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19B/paragraph/12/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(11)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/11), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

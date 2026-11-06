@@ -32,7 +32,7 @@ summary: ''
 
 Exiting The European Union
 
-The Prohibition on Quantitative Restrictions (EU Exit) Regulations 2020 (revoked)[^key-2ef4ed25c327e2b544a0dfaf2be70f04]
+The Prohibition on Quantitative Restrictions (EU Exit) Regulations 2020 (revoked)[^c-2ef4ed25c327e2b544a0dfaf2be70f04]
 
 Made
 
@@ -40,26 +40,26 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2ef4ed25c327e2b544a0dfaf2be70f04]
+## 1. Citation, commencement and extent[^c-2ef4ed25c327e2b544a0dfaf2be70f04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Cessation of the prohibition on quantitative restrictions[^key-2ef4ed25c327e2b544a0dfaf2be70f04]
+## 2. Cessation of the prohibition on quantitative restrictions[^c-2ef4ed25c327e2b544a0dfaf2be70f04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-2ef4ed25c327e2b544a0dfaf2be70f04]
+## 3. Saving[^c-2ef4ed25c327e2b544a0dfaf2be70f04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef4ed25c327e2b544a0dfaf2be70f04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ef4ed25c327e2b544a0dfaf2be70f04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1625) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/c)
+[^c-2ef4ed25c327e2b544a0dfaf2be70f04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1625) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/c)

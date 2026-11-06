@@ -32,7 +32,7 @@ summary: ''
 (4) In this section, “**Crown hereditament**” means a hereditament which—
 
 - (a) is occupied by a Minister of the Crown or Government department or by any officer or body exercising functions on behalf of the Crown, but
-- (b) is not provided or maintained by a local authority *(not yet in force: or by a)*[^c13069891] *(not yet in force: police and crime commissioner[^key-e7f77d6a309c05d13114d5deace5951d])*.
+- (b) is not provided or maintained by a local authority *(not yet in force: or by a)*[^c13069891] *(not yet in force: police and crime commissioner[^c-e7f77d6a309c05d13114d5deace5951d])*.
 
 (5) In this section—
 
@@ -49,7 +49,7 @@ summary: ''
 
 [^c13069891]: Textual amendment: Words in s. 65A(4)(b) substituted (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 128](https://www.legislation.gov.uk/ukpga/2001/16/section/128), [Sch. 6 Pt. 3 para. 73](https://www.legislation.gov.uk/ukpga/2001/16/schedule/6/part/3/paragraph/73); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(k)](https://www.legislation.gov.uk/uksi/2002/344/article/3/k) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-e7f77d6a309c05d13114d5deace5951d]: Textual amendment: Words in s. 65A(4)(b) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 181](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/181); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-e7f77d6a309c05d13114d5deace5951d]: Textual amendment: Words in s. 65A(4)(b) substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 181](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/181); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
 [^c13069901]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

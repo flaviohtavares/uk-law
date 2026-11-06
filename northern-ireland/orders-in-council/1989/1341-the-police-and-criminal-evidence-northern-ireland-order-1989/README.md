@@ -27,7 +27,7 @@ summary: ''
 
 1989 No. 1341 (N.I. 12)
 
-The Police and Criminal Evidence (Northern Ireland) Order 1989 [^c17126951][^key-47b747e006f7a8c5afc1815dd2098524][^key-a7a89740fdd06a6ef29a23c18847b52e][^key-a7a89740fdd06a6ef29a23c18847b52e]
+The Police and Criminal Evidence (Northern Ireland) Order 1989 [^c17126951][^c-47b747e006f7a8c5afc1815dd2098524][^c-a7a89740fdd06a6ef29a23c18847b52e][^c-a7a89740fdd06a6ef29a23c18847b52e]
 
 2nd August 1989 [^c20406041][^c21392231][^c22043891][^c22043901]
 
@@ -257,9 +257,9 @@ SCHEDULES
 
 [^c17126951]: Textual amendment: mod. by [2005 c. 2](https://www.legislation.gov.uk/ukpga/2005/2)
 
-[^key-47b747e006f7a8c5afc1815dd2098524]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/1341) applied (with modifications) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [art. 6](https://www.legislation.gov.uk/uksi/2015/798/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/798/schedule/3)
+[^c-47b747e006f7a8c5afc1815dd2098524]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/1341) applied (with modifications) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [art. 6](https://www.legislation.gov.uk/uksi/2015/798/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/798/schedule/3)
 
-[^key-a7a89740fdd06a6ef29a23c18847b52e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/1341) applied (29.8.2023) by 2009 c. 1, s. 206P(7)-(9) (as inserted by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1))
+[^c-a7a89740fdd06a6ef29a23c18847b52e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1989/1341) applied (29.8.2023) by 2009 c. 1, s. 206P(7)-(9) (as inserted by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1))
 
 [^c20406041]: Modification: Order extended by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [Sch. 4 para. 23A](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4/paragraph/23A) (as inserted (prosp.) by [Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/912/article/1/2), [6(2)](https://www.legislation.gov.uk/nisi/2007/912/article/6/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/4/paragraph/5))
 

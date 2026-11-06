@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Power of Council to deal with property of solicitors removed from or struck off the roll[^key-ec3747241c66e2fd76a250c5e90600a0][^key-e18b880dc21886ee83dd8e9fd69c14e7]
+## 37. Power of Council to deal with property of solicitors removed from or struck off the roll[^c-ec3747241c66e2fd76a250c5e90600a0][^c-e18b880dc21886ee83dd8e9fd69c14e7]
 
 *Extent: N.I.*
 
@@ -35,9 +35,9 @@ and if he fails so to satisfy the Council, Schedule 1 shall apply in relation to
 
 ## Annotations
 
-[^key-ec3747241c66e2fd76a250c5e90600a0]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1976/582/article/37) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(m)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/m)
+[^c-ec3747241c66e2fd76a250c5e90600a0]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1976/582/article/37) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(m)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/m)
 
-[^key-e18b880dc21886ee83dd8e9fd69c14e7]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1976/582/article/37) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
+[^c-e18b880dc21886ee83dd8e9fd69c14e7]: Modification: [Art. 37](https://www.legislation.gov.uk/nisi/1976/582/article/37) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
 
 [^c17113841]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 

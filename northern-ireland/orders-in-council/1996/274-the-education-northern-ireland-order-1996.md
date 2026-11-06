@@ -89,7 +89,7 @@ shall come into operation on such day or days as the Department may by order app
 
 (7) In this Part, “child” includes any person who has not attained the age of nineteen years and is a registered pupil at a school.
 
-(8) For the purposes of paragraph (7) a person who attains the age of nineteen years at any time during a school year[^key-2422eb4b972a5632ec9e65237b79dc56] at any school shall be deemed not to have attained that age until the day after the end of that school year .
+(8) For the purposes of paragraph (7) a person who attains the age of nineteen years at any time during a school year[^c-2422eb4b972a5632ec9e65237b79dc56] at any school shall be deemed not to have attained that age until the day after the end of that school year .
 
 (9) In this Part, “the Tribunal” has the meaning assigned to it by Article 22(1).
 
@@ -120,21 +120,21 @@ to have regard to the provisions of the code.
 
 ### Special educational provision: general
 
-#### 6. Review of arrangements[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 6. Review of arrangements[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) A board shall—
 
 - (a) determine, and keep under review, its policy in relation to special educational provision; and
 - (b) keep under review the arrangements made by it for special educational provision.
 
-(2) In exercising its functions under paragraph (1)(a), the Authority[^key-0dcfd83d1a9c8e4d0652664e607a0303] shall consult—
+(2) In exercising its functions under paragraph (1)(a), the Authority[^c-0dcfd83d1a9c8e4d0652664e607a0303] shall consult—
 
-- (a) the Boards of Governors of grant-aided schools [^key-5f0cbe88e875c580f3c097a4db8ab2b9]...;
-- (b)[^key-8719e31372f5417550e927c37bbbed07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Boards of Governors of grant-aided schools [^c-5f0cbe88e875c580f3c097a4db8ab2b9]...;
+- (b)[^c-8719e31372f5417550e927c37bbbed07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Council for Catholic Maintained Schools; and
 - (d) such other persons as it thinks fit.
 
-#### 7. Duty to educate children with special educational needs in ordinary schools[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c21552251]
+#### 7. Duty to educate children with special educational needs in ordinary schools[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c21552251]
 
 (1) This Article applies to a child with special educational needs who should be educated in a grant-aided school.
 
@@ -145,7 +145,7 @@ to have regard to the provisions of the code.
 - (a) the wishes of his parent, or
 - (b) the provision of efficient education for other children.
 
-#### 7A. Education otherwise than in ordinary schools[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 7A. Education otherwise than in ordinary schools[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) Article 7(2) does not require a child to be educated in an ordinary school during any period in which—
 
@@ -182,7 +182,7 @@ it shall, in making the statement, comply with Article 7(3).
 
 (8) That guidance shall, in particular, relate to steps which may, or may not, be regarded as reasonable for the purposes of paragraphs (4) and (5).
 
-#### 8. Duties in relation to pupils with special educational needs in ordinary schools[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 8. Duties in relation to pupils with special educational needs in ordinary schools[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) The Board of Governors of an ordinary school shall—
 
@@ -209,7 +209,7 @@ that the child engages in the activities of the school together with children wh
 - (a) he has special educational needs; but
 - (b) no statement is maintained in respect of him under Article 16.
 
-#### 8A. Duty to inform parent where special educational provision made[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c20659831]
+#### 8A. Duty to inform parent where special educational provision made[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c20659831]
 
 If—
 
@@ -219,13 +219,13 @@ If—
 
 the Board of Governors of the school shall inform the child's parent that special educational provision is being made for him [^c20083521]. . . because it is considered that he has special educational needs.
 
-#### 9. Determination by Boards of Governors of policy in relation to provision of education for children with special educational needs[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 9. Determination by Boards of Governors of policy in relation to provision of education for children with special educational needs[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) The Board of Governors of a grant-aided school shall determine, and keep under review, its policy in relation to the provision of education for children with special educational needs.
 
 (2) In exercising its functions under paragraph (1), a Board of Governors of a school shall, to the extent that it may appear necessary or desirable for the purpose of co-ordinating provision for children with special educational needs, consult with—
 
-- (a) the Authority [^key-0782b71bdb7a6b0507ca7e905ebe7f17]...;
+- (a) the Authority [^c-0782b71bdb7a6b0507ca7e905ebe7f17]...;
 - (b) the Boards of Governors of other grant-aided schools; and
 - (c) the Council for Catholic Maintained Schools (in the case of a Catholic maintained school).
 
@@ -237,9 +237,9 @@ the Board of Governors of the school shall inform the child's parent that specia
 
 ### Special educational provision otherwise than in a grant-aided school
 
-#### 10. Special educational provision otherwise than in a grant-aided school[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 10. Special educational provision otherwise than in a grant-aided school[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
-(1) Subject to paragraphs (2) and (3) and to Articles 11 and 12, the Authority may arrange for the special educational provision (or any part of it) which any learning difficulty of a child [^key-cfbbee9ac9cddb742fde95d2bebb0304]... calls for to be made—
+(1) Subject to paragraphs (2) and (3) and to Articles 11 and 12, the Authority may arrange for the special educational provision (or any part of it) which any learning difficulty of a child [^c-cfbbee9ac9cddb742fde95d2bebb0304]... calls for to be made—
 
 - (a) in an institution outside Northern Ireland, or
 - (b) in Northern Ireland otherwise than in a grant-aided school.
@@ -253,7 +253,7 @@ the Board of Governors of the school shall inform the child's parent that specia
 
 (4) This Article is without prejudice to any other powers of the Authority .
 
-#### 11. Special educational provision in institutions outside Northern Ireland[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 11. Special educational provision in institutions outside Northern Ireland[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) No person shall so exercise his functions under this Part that the special educational provision (or any part of it) which any learning difficulty of a child calls for is made in an institution outside Northern Ireland unless the institution is one which specialises in providing for children with special needs.
 
@@ -266,7 +266,7 @@ the Board of Governors of the school shall inform the child's parent that specia
 - (c) his reasonable travelling expenses; and
 - (d) the expenses reasonably incurred by any person accompanying him while he is travelling or staying at the institution.
 
-#### 12. Special educational provision in institutions in Northern Ireland other than grant-aided schools[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 12. Special educational provision in institutions in Northern Ireland other than grant-aided schools[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) No person shall so exercise his functions under this Part that the special educational provision (or any part of it) which any learning difficulty of a child calls for is made in an institution in Northern Ireland other than a grant-aided school unless—
 
@@ -290,7 +290,7 @@ the Board of Governors of the school shall inform the child's parent that specia
 
 ### Identification and assessment of children with special educational needs
 
-#### 13. General duty of board towards children for whom it is responsible[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 13. General duty of board towards children for whom it is responsible[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) A board shall exercise its powers with a view to securing that, of the children for whom it is responsible, it identifies those to whom paragraph (2) applies.
 
@@ -299,21 +299,21 @@ the Board of Governors of the school shall inform the child's parent that specia
 - (a) he has special educational needs, and
 - (b) it is necessary for the Authority to determine the special educational provision which any learning difficulty he may have calls for.
 
-(3) For the purposes of this Part the Authority is responsible for a child if [^key-ddc0c155a7ac185bdfe1b5d90705ef5f]...—
+(3) For the purposes of this Part the Authority is responsible for a child if [^c-ddc0c155a7ac185bdfe1b5d90705ef5f]...—
 
 - (a) he is a registered pupil at a grant-aided school, or
 - (b) he has attained the age of two years, is not over compulsory school age and has been brought to the attention of the Authority as having, or probably having, special educational needs.
 
-#### 14. Duties of... health and social services trusts[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^key-fdd4dc43965e1a24c7a7f0cff4c7535a]
+#### 14. Duties of... health and social services trusts[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c-fdd4dc43965e1a24c7a7f0cff4c7535a]
 
 (1) If a health and social services authority, in the course of exercising any of its functions in relation to a child who has not attained the lower limit of compulsory school age, forms the opinion that he has, or probably has, special educational needs, that authority shall—
 
 - (a) inform the child's parent of its opinion and of its duty under this paragraph and paragraph (2); and
-- (b) after giving the parent an opportunity to discuss that opinion with an officer of the authority, bring it to the attention of the Authority[^key-ff40c28ab2b050709d40ed27d9af5662] .
+- (b) after giving the parent an opportunity to discuss that opinion with an officer of the authority, bring it to the attention of the Authority[^c-ff40c28ab2b050709d40ed27d9af5662] .
 
 (2) If, in a case falling within paragraph (1), the health and social services authority is of the opinion that a particular voluntary organisation is likely to be able to give the parent advice or assistance in connection with any special educational needs that the child may have, that authority shall inform the parent accordingly.
 
-(3) Where it appears to the Authority that any health and social services authority could, by taking any specified action, help in the exercise of any of the Authority's[^key-9a83cd1350c791bdad49de63a1e4022e] functions under this Part, the Authority may request the help of the authority, specifying the action in question.
+(3) Where it appears to the Authority that any health and social services authority could, by taking any specified action, help in the exercise of any of the Authority's[^c-9a83cd1350c791bdad49de63a1e4022e] functions under this Part, the Authority may request the help of the authority, specifying the action in question.
 
 (4) A health and social services authority whose help is so requested shall comply with the request unless it considers that—
 
@@ -325,17 +325,17 @@ the Board of Governors of the school shall inform the child's parent that specia
 
 (6) In this Article “health and social services authority” means—
 
-- (a)[^key-aef22cd0bfcce8bd06bd299b6545b428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-aef22cd0bfcce8bd06bd299b6545b428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a Health and Social Services trust established under the [^m00005] Health and Personal Social Services (Northern Ireland) Order 1991.
 
-#### 15. Assessment of educational needs[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 15. Assessment of educational needs[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) Where the Authority is of the opinion that a child for whom it is responsible falls, or probably falls, within paragraph (2), it shall serve a notice on the child's parent informing him—
 
 - (a) that the Authority is considering whether[^c17253511] to make an assessment of the child's educational needs,
 - (b) of the procedure to be followed in making the assessment,
 - (c) of the name of the officer of the Authority from whom further information may be obtained, and
-- (d) of the parent's right to make representations, and submit written evidence, to the Authority within such period (which shall not be less than 22 days[^key-d26b5da9e116b89817daa1189a2343e2] beginning with the date on which the notice is served) as may be specified in the notice.
+- (d) of the parent's right to make representations, and submit written evidence, to the Authority within such period (which shall not be less than 22 days[^c-d26b5da9e116b89817daa1189a2343e2] beginning with the date on which the notice is served) as may be specified in the notice.
 
 (2) A child falls within this paragraph if—
 
@@ -344,12 +344,12 @@ the Board of Governors of the school shall inform the child's parent that specia
 
 (3) Where—
 
-- (a) the Authority has served a notice under paragraph (1) and , subject to paragraph (3A),[^key-29212a65ae50b5f0140c10bb9dec031c] the period specified in the notice in accordance with paragraph (1)(d) has expired, and
+- (a) the Authority has served a notice under paragraph (1) and , subject to paragraph (3A),[^c-29212a65ae50b5f0140c10bb9dec031c] the period specified in the notice in accordance with paragraph (1)(d) has expired, and
 - (b) the Authority remains of the opinion, after taking into account any representations made and any evidence submitted to it in response to the notice, that the child falls, or probably falls, within paragraph (2),
 
 the Authority shall make an assessment of his educational needs.
 
-(3A)[^key-a9e5af19c37ea2b413eacd357d86de7b] The Authority may proceed to make an assessment under paragraph (3) before the expiry of the period specified in the notice mentioned in sub-paragraph (a) of that paragraph if it has obtained the consent in writing of the person on whom the notice was served.
+(3A)[^c-a9e5af19c37ea2b413eacd357d86de7b] The Authority may proceed to make an assessment under paragraph (3) before the expiry of the period specified in the notice mentioned in sub-paragraph (a) of that paragraph if it has obtained the consent in writing of the person on whom the notice was served.
 
 (4) Where the Authority decides to make an assessment under this Article, it shall give notice in writing to the child's parent of that decision and of the Authority's reasons for making it.
 
@@ -357,7 +357,7 @@ the Authority shall make an assessment of his educational needs.
 
 (6) Where, at any time after serving a notice under paragraph (1), the Authority decides not to assess the educational needs of the child concerned it shall give notice in writing to the child's parent of the Authority's decision and the reasons for making it.
 
-#### 16. Statement of special educational needs[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 16. Statement of special educational needs[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) If, in the light of an assessment under Article 15 of any child's educational needs and of any representations made by the child's parent, it is necessary for the Authority to determine the special educational provision which any learning difficulty he may have calls for, the Authority shall make and maintain a statement of his special educational needs.
 
@@ -387,7 +387,7 @@ the Authority shall make an assessment of his educational needs.
 
 (7) Schedule 2 (which makes provision in relation to the making and maintenance of statements under this Article) shall have effect.
 
-#### 17. Appeal against decision not to make statement[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 17. Appeal against decision not to make statement[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) If, after making an assessment under Article 15 of the educational needs of any child for whom no statement is maintained under Article 16, the Authority does not propose to make such a statement, it shall give notice in writing of its decision, of the reasons for making it[^c17253551]. . . to the child's parent.
 
@@ -406,7 +406,7 @@ the Authority shall make an assessment of his educational needs.
 - (b) order the Authority to make and maintain such a statement, or
 - (c) remit the case to the Authority for it to reconsider whether, having regard to any observations made by the Tribunal, it is necessary for the Authority to determine the special educational provision which any learning difficulty the child may have calls for.
 
-#### 18. Appeal against contents of statement[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 18. Appeal against contents of statement[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1)[^c17253581] The parent of a child for whom the Authority maintains a statement under Article 16 may appeal to the Tribunal—
 
@@ -440,7 +440,7 @@ and paragraph (1)(c) does not apply to a determination made following the servic
 
 (5) Before determining any appeal under this Article the Tribunal may, with the agreement of the parties, correct any deficiency in the statement.
 
-#### 18A. Unopposed appeals[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c17253471]
+#### 18A. Unopposed appeals[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c17253471]
 
 (1) This Article applies if—
 
@@ -457,9 +457,9 @@ and paragraph (1)(c) does not apply to a determination made following the servic
 - (b) in the case of an appeal under Article 20 or 20A, make an assessment of the child's educational needs,
 - (c) in the case of an appeal under paragraph 11(3) of Schedule 2 against a determination of the Authority not to comply with the parent's request, comply with the request.
 
-(5) Where the Authority is required by paragraph (4)(a) to make a statement under Article 16, the Authority[^key-2eb9a8ad4b551d413808f59913e4d019] shall maintain the statement under that Article.
+(5) Where the Authority is required by paragraph (4)(a) to make a statement under Article 16, the Authority[^c-2eb9a8ad4b551d413808f59913e4d019] shall maintain the statement under that Article.
 
-#### 19. Reviews of statements[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 19. Reviews of statements[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) A statement under Article 16 shall be reviewed by the Authority —
 
@@ -472,7 +472,7 @@ and paragraph (1)(c) does not apply to a determination made following the servic
 - (b) as to the participation in such reviews of such persons as may be prescribed, and
 - (c) in connection with such other matters relating to such reviews as the Department considers appropriate.
 
-#### 20. Assessment of educational needs at request of child's parent[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 20. Assessment of educational needs at request of child's parent[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
 (1) Where—
 
@@ -496,7 +496,7 @@ the Authority shall comply with that request.
 - (a) dismiss the appeal, or
 - (b) order the Authority to arrange for an assessment to be made in respect of the child under Article 15.
 
-#### 20A. Review or assessment of educational needs at request of responsible body[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c17253491]
+#### 20A. Review or assessment of educational needs at request of responsible body[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c17253491]
 
 (1) This Article applies if—
 
@@ -513,11 +513,11 @@ the Authority shall comply with that request.
 - (c) of the name of an officer of the Authority from whom further information may be obtained, and
 - (d) of the parent's right to make representations, and submit written evidence, to the Authority before the end of the period specified in the notice ( “the specified period”).
 
-(4) The specified period shall not be less than 22 days[^key-985aa54e27e35f85c1d7970f26d9c100] beginning with the date on which the notice is served.
+(4) The specified period shall not be less than 22 days[^c-985aa54e27e35f85c1d7970f26d9c100] beginning with the date on which the notice is served.
 
-(5) Subject to paragraph (5A),[^key-f14fe52ba630ab5d79f65c17ce70264e] the board may not decide whether to comply with the request until the specified period has expired.
+(5) Subject to paragraph (5A),[^c-f14fe52ba630ab5d79f65c17ce70264e] the board may not decide whether to comply with the request until the specified period has expired.
 
-(5A)[^key-d0a4140f8b8231c00f44e9af85fc6429] The Authority may take a decision under paragraph (5) before the expiry of the specified period if it has obtained the consent in writing of the person on whom the notice under paragraph (3) was served.
+(5A)[^c-d0a4140f8b8231c00f44e9af85fc6429] The Authority may take a decision under paragraph (5) before the expiry of the specified period if it has obtained the consent in writing of the person on whom the notice under paragraph (3) was served.
 
 (6) The board shall take into account any representations made, and any evidence submitted, to it in response to the notice under paragraph (3).
 
@@ -543,9 +543,9 @@ the Authority shall comply with that request.
 - (a) in relation to a grant-aided school, the Board of Governors,
 - (b) in relation to an independent school, the proprietor.
 
-#### 21. Assessment of educational needs of children under two[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164]
+#### 21. Assessment of educational needs of children under two[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164]
 
-(1) Where the Authority is of the opinion that a child [^key-e691a812e4cbeef13e94de8e9dfcfa6f]... who is under the age of two years falls, or probably falls, within paragraph (2)—
+(1) Where the Authority is of the opinion that a child [^c-e691a812e4cbeef13e94de8e9dfcfa6f]... who is under the age of two years falls, or probably falls, within paragraph (2)—
 
 - (a) it may, with the consent of his parent, make an assessment of the child's educational needs, and
 - (b) it shall make such an assessment at the request of his parent.
@@ -566,22 +566,22 @@ in such manner as it considers appropriate.
 
 ### General duties of boards[^c17253661]
 
-#### 21A. Advice and information for parents[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c17253681]
+#### 21A. Advice and information for parents[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c17253681]
 
-(1) A board shall arrange for the parent of any child [^key-afa2e6110d84978b6bb966b42ca12c01]... with special educational needs to be provided with advice and information about matters relating to those needs.
+(1) A board shall arrange for the parent of any child [^c-afa2e6110d84978b6bb966b42ca12c01]... with special educational needs to be provided with advice and information about matters relating to those needs.
 
 (2) In making the arrangements, the Authority shall have regard to any guidance given by the Department.
 
 (3) The board shall take such steps as it considers appropriate for making the services provided under paragraph (1) known to—
 
-- (a) the parents of children [^key-afa2e6110d84978b6bb966b42ca12c01]...;
-- (b) the principals and Boards of Governors of grant‐aided schools [^key-afa2e6110d84978b6bb966b42ca12c01]...;
-- (c) the principals and proprietors of independent schools [^key-afa2e6110d84978b6bb966b42ca12c01]...; and
+- (a) the parents of children [^c-afa2e6110d84978b6bb966b42ca12c01]...;
+- (b) the principals and Boards of Governors of grant‐aided schools [^c-afa2e6110d84978b6bb966b42ca12c01]...;
+- (c) the principals and proprietors of independent schools [^c-afa2e6110d84978b6bb966b42ca12c01]...; and
 - (d) such other persons as it considers appropriate.
 
-#### 21B. Resolution of disputes[^key-dab11ad452545a82ee9f7c89d6b6a207][^key-7aeb0d4d514d726ba75c4a999d5b8164][^c20659871]
+#### 21B. Resolution of disputes[^c-dab11ad452545a82ee9f7c89d6b6a207][^c-7aeb0d4d514d726ba75c4a999d5b8164][^c20659871]
 
-(1) A board shall make arrangements with a view to avoiding or resolving disagreements between boards or Boards of Governors of grant-aided schools (on the one hand) and parents of children [^key-afa2e6110d84978b6bb966b42ca12c01]... (on the other) about the exercise by boards or Boards of Governors of functions under this Part.
+(1) A board shall make arrangements with a view to avoiding or resolving disagreements between boards or Boards of Governors of grant-aided schools (on the one hand) and parents of children [^c-afa2e6110d84978b6bb966b42ca12c01]... (on the other) about the exercise by boards or Boards of Governors of functions under this Part.
 
 (2) A board shall also make arrangements with a view to avoiding or resolving, in each relevant school, disagreements between the parents of a child who is a pupil attending[^c20083601] the school and has special educational needs and the Board of Governors or proprietor of the school about the special educational provision made for that child.
 
@@ -596,9 +596,9 @@ in such manner as it considers appropriate.
 
 (6) The board shall take such steps as it considers appropriate for making the arrangements made under paragraphs (1) and (2) known to—
 
-- (a) the parents of children [^key-afa2e6110d84978b6bb966b42ca12c01]...;
-- (b) the principals and Boards of Governors of grant-aided schools [^key-afa2e6110d84978b6bb966b42ca12c01]...;
-- (c) the principals and proprietors of independent schools [^key-afa2e6110d84978b6bb966b42ca12c01]...; and
+- (a) the parents of children [^c-afa2e6110d84978b6bb966b42ca12c01]...;
+- (b) the principals and Boards of Governors of grant-aided schools [^c-afa2e6110d84978b6bb966b42ca12c01]...;
+- (c) the principals and proprietors of independent schools [^c-afa2e6110d84978b6bb966b42ca12c01]...; and
 - (d) such other persons as it considers appropriate.
 
 (7) The arrangements do not affect the entitlement of a parent to appeal to the Tribunal.
@@ -637,7 +637,7 @@ in such manner as it considers appropriate.
 
 (6)[^c22544151] The Department may—
 
-- (a) pay to the President, and to any other person in respect of his service as a member of the Tribunal, such remuneration , allowances[^key-42bd77ba033ca3d238cd3af1191e968f] and expenses as it may, with the approval of the Department of Finance and Personnel, determine;
+- (a) pay to the President, and to any other person in respect of his service as a member of the Tribunal, such remuneration , allowances[^c-42bd77ba033ca3d238cd3af1191e968f] and expenses as it may, with the approval of the Department of Finance and Personnel, determine;
 - (b) defray the expenses of the Tribunal to such amount as the Department may, with the approval of the Department of Finance and Personnel, determine;
 - (c) provide for the Tribunal such staff and accommodation as the Tribunal may require.
 
@@ -688,7 +688,7 @@ is guilty of an offence.
 
 #### 23A. Compliance with orders[^c17253721]
 
-If the Tribunal makes an order, the Authority[^key-79c083128f046019aceb5bf6b76a8c1d] must comply with the order before the end of the prescribed period beginning with the date on which it is made.
+If the Tribunal makes an order, the Authority[^c-79c083128f046019aceb5bf6b76a8c1d] must comply with the order before the end of the prescribed period beginning with the date on which it is made.
 
 #### 24. Appeals from Tribunal
 
@@ -1118,7 +1118,7 @@ together with the signature of any other member.
 
 ### 42. Direction to admit child to specified school
 
-(1) A board may give a direction under this Article if, in the case of any child [^key-7a950ea768610733cecc237e7a76509b]..., one or both of the following conditions is satisfied in relation to each school which is a reasonable distance from his home and provides suitable education, that is—
+(1) A board may give a direction under this Article if, in the case of any child [^c-7a950ea768610733cecc237e7a76509b]..., one or both of the following conditions is satisfied in relation to each school which is a reasonable distance from his home and provides suitable education, that is—
 
 - (a) he has been refused admission to the school; or
 - (b) he has been expelled from the school.
@@ -1136,7 +1136,7 @@ together with the signature of any other member.
 
 - (a) the parent of the child,
 - (b) the Board of Governors of the school it proposes to specify in the direction,
-- (c)[^key-3eb31735598ead3f78ed86583259b4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3eb31735598ead3f78ed86583259b4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) if that school is a Catholic maintained school, the Council for Catholic Maintained Schools.
 
 (6) Where the Authority gives a direction under this Article specifying a school, it shall give notice in writing of that fact to the Board of Governors of the school.
@@ -1310,8 +1310,8 @@ to express a preference as to the grant-aided school at which he wishes educatio
 
 (3) “Affected body” means—
 
-- (a) the Board of Governors of any school which the Authority is considering specifying; [^key-98a0e381a8cbdb0d0723c5cb2bdf613e]...
-- (b)[^key-98a0e381a8cbdb0d0723c5cb2bdf613e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Board of Governors of any school which the Authority is considering specifying; [^c-98a0e381a8cbdb0d0723c5cb2bdf613e]...
+- (b)[^c-98a0e381a8cbdb0d0723c5cb2bdf613e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Representations
 
@@ -1371,7 +1371,7 @@ disagrees with any part of the assessment in question, he may require the Author
 
 **10.** (1) Regulations may make provision as to the keeping and disclosure of statements.
 
-(2)[^key-9ff19e287f055cb24ffc36b4d0090aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9ff19e287f055cb24ffc36b4d0090aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Change of named school
 
@@ -1467,7 +1467,7 @@ but no right of the employee to terminate his contract of employment if a substa
 (2) Before giving any directions under this paragraph in relation to the Board of Governors of a school the Department shall consult—
 
 - (a) the Board of Governors of the school,
-- (b) in the case of a controlled school, the Authority [^key-dc67f5b1ced3ef5e23662e585f8f6eff]...,
+- (b) in the case of a controlled school, the Authority [^c-dc67f5b1ced3ef5e23662e585f8f6eff]...,
 - (c) in the case of a voluntary school, the trustees and (where the school is a Catholic maintained school) the Council for Catholic Maintained Schools.
 
 (3) Where directions under this paragraph provide for the transfer of any property, right or liability to any person or body, that property, right or liability shall, by virtue of this paragraph, vest in that person or body on such date as is specified in relation thereto in the directions.
@@ -1517,17 +1517,17 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^m00004]: Marginal citation: 1993 NI 12.
 
-[^key-2422eb4b972a5632ec9e65237b79dc56]: Textual amendment: Words in [art. 3(8)](https://www.legislation.gov.uk/nisi/1996/274/article/3/8) substituted (24.3.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 15(2)](https://www.legislation.gov.uk/nia/2016/8/section/15/2), [18(1)(a)](https://www.legislation.gov.uk/nia/2016/8/section/18/1/a)
+[^c-2422eb4b972a5632ec9e65237b79dc56]: Textual amendment: Words in [art. 3(8)](https://www.legislation.gov.uk/nisi/1996/274/article/3/8) substituted (24.3.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 15(2)](https://www.legislation.gov.uk/nia/2016/8/section/15/2), [18(1)(a)](https://www.legislation.gov.uk/nia/2016/8/section/18/1/a)
 
-[^key-dab11ad452545a82ee9f7c89d6b6a207]: Modification: Arts. 6-21B: power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-dab11ad452545a82ee9f7c89d6b6a207]: Modification: Arts. 6-21B: power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-7aeb0d4d514d726ba75c4a999d5b8164]: Modification: [Arts. 6-21B](https://www.legislation.gov.uk/nisi/1996/274/article/6) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-7aeb0d4d514d726ba75c4a999d5b8164]: Modification: [Arts. 6-21B](https://www.legislation.gov.uk/nisi/1996/274/article/6) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-0dcfd83d1a9c8e4d0652664e607a0303]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0dcfd83d1a9c8e4d0652664e607a0303]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-5f0cbe88e875c580f3c097a4db8ab2b9]: Textual amendment: Words in art. 6(2)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-5f0cbe88e875c580f3c097a4db8ab2b9]: Textual amendment: Words in art. 6(2)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-8719e31372f5417550e927c37bbbed07]: Textual amendment: Art. 6(2)(b) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-8719e31372f5417550e927c37bbbed07]: Textual amendment: Art. 6(2)(b) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c21552251]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
@@ -1541,31 +1541,31 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^c20083521]: Textual amendment: Words in art. 8A repealed (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)(d)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c/d), [44](https://www.legislation.gov.uk/nisi/2006/1915/article/44), [Sch. 2 para. 36(b)](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/36/b), [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/III); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2](https://www.legislation.gov.uk/nisr/2007/197/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/197/schedule)
 
-[^key-0782b71bdb7a6b0507ca7e905ebe7f17]: Textual amendment: Words in art. 9(2)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0782b71bdb7a6b0507ca7e905ebe7f17]: Textual amendment: Words in art. 9(2)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-cfbbee9ac9cddb742fde95d2bebb0304]: Textual amendment: Words in art. 10(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-cfbbee9ac9cddb742fde95d2bebb0304]: Textual amendment: Words in art. 10(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17253451]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-ddc0c155a7ac185bdfe1b5d90705ef5f]: Textual amendment: Words in art. 13(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ddc0c155a7ac185bdfe1b5d90705ef5f]: Textual amendment: Words in art. 13(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-fdd4dc43965e1a24c7a7f0cff4c7535a]: Textual amendment: Words in [art. 14 heading](https://www.legislation.gov.uk/nisi/1996/274/part/II/crossheading/identification-and-assessment-of-children-with-special-educational-needs) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fdd4dc43965e1a24c7a7f0cff4c7535a]: Textual amendment: Words in [art. 14 heading](https://www.legislation.gov.uk/nisi/1996/274/part/II/crossheading/identification-and-assessment-of-children-with-special-educational-needs) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ff40c28ab2b050709d40ed27d9af5662]: Textual amendment: Words in art. 14(1)(b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ff40c28ab2b050709d40ed27d9af5662]: Textual amendment: Words in art. 14(1)(b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-9a83cd1350c791bdad49de63a1e4022e]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-9a83cd1350c791bdad49de63a1e4022e]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-aef22cd0bfcce8bd06bd299b6545b428]: Textual amendment: [Art. 14(6)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/14/6/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-aef22cd0bfcce8bd06bd299b6545b428]: Textual amendment: [Art. 14(6)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/14/6/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^m00005]: Marginal citation: 1991 NI 1.
 
 [^c17253511]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-d26b5da9e116b89817daa1189a2343e2]: Textual amendment: Words in [art. 15(1)(d)](https://www.legislation.gov.uk/nisi/1996/274/article/15/1/d) substituted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(a)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/a), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-d26b5da9e116b89817daa1189a2343e2]: Textual amendment: Words in [art. 15(1)(d)](https://www.legislation.gov.uk/nisi/1996/274/article/15/1/d) substituted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(a)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/a), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
-[^key-29212a65ae50b5f0140c10bb9dec031c]: Textual amendment: Words in [art. 15(3)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/15/3/a) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(b)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/b), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-29212a65ae50b5f0140c10bb9dec031c]: Textual amendment: Words in [art. 15(3)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/15/3/a) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(b)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/b), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
-[^key-a9e5af19c37ea2b413eacd357d86de7b]: Textual amendment: [Art. 15(3A)](https://www.legislation.gov.uk/nisi/1996/274/article/15/3A) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(c)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/c), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-a9e5af19c37ea2b413eacd357d86de7b]: Textual amendment: [Art. 15(3A)](https://www.legislation.gov.uk/nisi/1996/274/article/15/3A) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(1)(c)](https://www.legislation.gov.uk/nia/2016/8/section/6/1/c), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
 [^c17253531]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
@@ -1575,25 +1575,25 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^c17253471]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-2eb9a8ad4b551d413808f59913e4d019]: Textual amendment: Words in art. 18A(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2eb9a8ad4b551d413808f59913e4d019]: Textual amendment: Words in art. 18A(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17253621]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
 [^c17253491]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-985aa54e27e35f85c1d7970f26d9c100]: Textual amendment: Words in [art. 20A(4)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/4) substituted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(a)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/a), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-985aa54e27e35f85c1d7970f26d9c100]: Textual amendment: Words in [art. 20A(4)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/4) substituted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(a)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/a), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
-[^key-f14fe52ba630ab5d79f65c17ce70264e]: Textual amendment: Words in [art. 20A(5)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/5) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(b)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/b), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-f14fe52ba630ab5d79f65c17ce70264e]: Textual amendment: Words in [art. 20A(5)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/5) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(b)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/b), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
-[^key-d0a4140f8b8231c00f44e9af85fc6429]: Textual amendment: [Art. 20A(5A)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/5A) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/c), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-d0a4140f8b8231c00f44e9af85fc6429]: Textual amendment: [Art. 20A(5A)](https://www.legislation.gov.uk/nisi/1996/274/article/20A/5A) inserted (30.9.2016) by [Special Educational Needs and Disability Act (Northern Ireland) 2016 (c. 8)](https://www.legislation.gov.uk/nia/2016/8), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2016/8/section/6/2/c), [18(2)](https://www.legislation.gov.uk/nia/2016/8/section/18/2); [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
 
-[^key-e691a812e4cbeef13e94de8e9dfcfa6f]: Textual amendment: Words in art. 21(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-e691a812e4cbeef13e94de8e9dfcfa6f]: Textual amendment: Words in art. 21(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17253661]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
 [^c17253681]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-afa2e6110d84978b6bb966b42ca12c01]: Textual amendment: Words in art. 21A repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-afa2e6110d84978b6bb966b42ca12c01]: Textual amendment: Words in art. 21A repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c20659871]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
@@ -1635,7 +1635,7 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^c22544151]: Modification: Art. 22(6) functions transferred from Department of Education to Department of Justice (1.4.2011) by [Departments (Transfer of Functions) Order (Northern Ireland) 2011 (S.R. 2011/44)](https://www.legislation.gov.uk/nisr/2011/44), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2011/44/article/1/2), [3](https://www.legislation.gov.uk/nisr/2011/44/article/3) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2011/44/article/8/2))
 
-[^key-42bd77ba033ca3d238cd3af1191e968f]: Textual amendment: Words in [art. 22(6)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/22/6/a) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/16)
+[^c-42bd77ba033ca3d238cd3af1191e968f]: Textual amendment: Words in [art. 22(6)(a)](https://www.legislation.gov.uk/nisi/1996/274/article/22/6/a) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/16)
 
 [^c22544161]: Modification: Art. 23 functions transferred from Department of Education to Department of Justice (1.4.2011) by [Departments (Transfer of Functions) Order (Northern Ireland) 2011 (S.R. 2011/44)](https://www.legislation.gov.uk/nisr/2011/44), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2011/44/article/1/2), [3](https://www.legislation.gov.uk/nisr/2011/44/article/3) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2011/44/article/8/2))
 
@@ -1643,7 +1643,7 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^c17253721]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-79c083128f046019aceb5bf6b76a8c1d]: Textual amendment: Words in art. 23A substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-79c083128f046019aceb5bf6b76a8c1d]: Textual amendment: Words in art. 23A substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17253891]: Textual amendment: [1997 NI 5](https://www.legislation.gov.uk/nisi/1997)
 
@@ -1655,9 +1655,9 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^m00006]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-7a950ea768610733cecc237e7a76509b]: Textual amendment: Words in art. 42(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-7a950ea768610733cecc237e7a76509b]: Textual amendment: Words in art. 42(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-3eb31735598ead3f78ed86583259b4c5]: Textual amendment: Art. 42(5)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-3eb31735598ead3f78ed86583259b4c5]: Textual amendment: Art. 42(5)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17519441]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
@@ -1667,11 +1667,11 @@ shall have effect as if it were made in respect of or, as the case may be, by th
 
 [^c17253921]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-98a0e381a8cbdb0d0723c5cb2bdf613e]: Textual amendment: Sch. 2 para. 6(3)(b) and preceding word repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-98a0e381a8cbdb0d0723c5cb2bdf613e]: Textual amendment: Sch. 2 para. 6(3)(b) and preceding word repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-9ff19e287f055cb24ffc36b4d0090aa3]: Textual amendment: Sch. 2 para. 10(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-9ff19e287f055cb24ffc36b4d0090aa3]: Textual amendment: Sch. 2 para. 10(2) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-dc67f5b1ced3ef5e23662e585f8f6eff]: Textual amendment: Words in Sch. 4 para. 3(2)(b) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-dc67f5b1ced3ef5e23662e585f8f6eff]: Textual amendment: Words in Sch. 4 para. 3(2)(b) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^M_F_cab2b713-6930-4f3c-b47a-f056fe99345a]: Textual amendment: Words in Sch. 4 para. 4(3)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 

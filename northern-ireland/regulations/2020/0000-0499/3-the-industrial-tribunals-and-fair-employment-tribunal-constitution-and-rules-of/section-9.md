@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Specialist panels: national security proceedings[^key-32fb92875215be380f844355f7719a4a]
+## 9. Specialist panels: national security proceedings[^c-32fb92875215be380f844355f7719a4a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The President shall select three panels of persons who may act in national secur
 
 ## Annotations
 
-[^key-32fb92875215be380f844355f7719a4a]: Commencement: Reg. 9 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-32fb92875215be380f844355f7719a4a]: Commencement: Reg. 9 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

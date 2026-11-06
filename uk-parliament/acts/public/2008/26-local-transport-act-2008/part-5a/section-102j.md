@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102J. Exercise of local transport functions[^key-6e2ee48c09053746a72efbd34e02c3e6]
+## 102J. Exercise of local transport functions[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 (7) In this section “**local authority**” means—
 
 - (a) a combined authority;
-- (aa)[^key-75afb2857bd92f02d205c7486a8d7251] a combined county authority;
+- (aa)[^c-75afb2857bd92f02d205c7486a8d7251] a combined county authority;
 - (b) an ITA;
 - (c) a Passenger Transport Executive;
 - (d) a county council in England;
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-75afb2857bd92f02d205c7486a8d7251]: Textual amendment: [S. 102J(7)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102J/7/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 184](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/184) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-75afb2857bd92f02d205c7486a8d7251]: Textual amendment: [S. 102J(7)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102J/7/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 184](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/184) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

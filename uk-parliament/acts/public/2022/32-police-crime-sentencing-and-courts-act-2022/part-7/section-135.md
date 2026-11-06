@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Repeal of uncommenced provision for establishment of recall adjudicators[^key-a12eecf086b327e35a16e514e29cfdee]
+## 135. Repeal of uncommenced provision for establishment of recall adjudicators[^c-a12eecf086b327e35a16e514e29cfdee]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In the Criminal Justice and Courts Act 2015, omit the following (which make prov
 
 ## Annotations
 
-[^key-a12eecf086b327e35a16e514e29cfdee]: Commencement: S. 135 in force at 28.6.2022, see [s. 208(5)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/n)
+[^c-a12eecf086b327e35a16e514e29cfdee]: Commencement: S. 135 in force at 28.6.2022, see [s. 208(5)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/n)

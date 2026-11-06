@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Entitlement to pension credit members’ pension[^key-4d1a2a648dd80a92214cb2a32b0bda53]
+## 91. Entitlement to pension credit members’ pension[^c-4d1a2a648dd80a92214cb2a32b0bda53]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A pension credit member (P) of this scheme is entitled to the immediate payment 
 
 ## Annotations
 
-[^key-4d1a2a648dd80a92214cb2a32b0bda53]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2014/290/regulation/91) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-4d1a2a648dd80a92214cb2a32b0bda53]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2014/290/regulation/91) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

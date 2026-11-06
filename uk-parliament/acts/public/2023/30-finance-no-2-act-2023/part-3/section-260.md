@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Transitional provision and safe harbours[^key-1c2fb86055c8673419e72edbdc019357]
+## 260. Transitional provision and safe harbours[^c-1c2fb86055c8673419e72edbdc019357]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2fb86055c8673419e72edbdc019357]: Textual amendment: [S. 260](https://www.legislation.gov.uk/ukpga/2023/30/section/260) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 41(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/41/3)
+[^c-1c2fb86055c8673419e72edbdc019357]: Textual amendment: [S. 260](https://www.legislation.gov.uk/ukpga/2023/30/section/260) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 41(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/41/3)

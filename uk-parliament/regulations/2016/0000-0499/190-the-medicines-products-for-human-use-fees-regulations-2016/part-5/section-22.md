@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A fee of £309[^key-ab2a594f0acf55e6ba634a978b318298] is payable by the holder of an active substance registration who provides, in accordance with any Regulations in connection with that registration—
+(1) A fee of £309[^c-ab2a594f0acf55e6ba634a978b318298] is payable by the holder of an active substance registration who provides, in accordance with any Regulations in connection with that registration—
 
 - (a) any report that must be submitted relating to that registration, or
 - (b) any notification that must be submitted about changes relating to that registration.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab2a594f0acf55e6ba634a978b318298]: Textual amendment: Sum in reg. 22(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/314/regulation/21)
+[^c-ab2a594f0acf55e6ba634a978b318298]: Textual amendment: Sum in reg. 22(1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/314/regulation/21)

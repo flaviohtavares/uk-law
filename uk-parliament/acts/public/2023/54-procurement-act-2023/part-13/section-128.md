@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Short title[^key-373f4933386c999334c3dd85945e615b]
+## 128. Short title[^c-373f4933386c999334c3dd85945e615b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Procurement Act 2023.
 
 ## Annotations
 
-[^key-373f4933386c999334c3dd85945e615b]: Commencement: S. 128 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-373f4933386c999334c3dd85945e615b]: Commencement: S. 128 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)

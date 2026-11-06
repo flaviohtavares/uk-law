@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Appointment of Chair[^key-13a685ff8530ad12365913aa5bf8c41d]
+## 51. Appointment of Chair[^c-13a685ff8530ad12365913aa5bf8c41d]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13a685ff8530ad12365913aa5bf8c41d]: Commencement: S. 51 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-13a685ff8530ad12365913aa5bf8c41d]: Commencement: S. 51 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -86,7 +86,7 @@ These Regulations may be cited as the Companies (Disclosure of Auditor Remunerat
 
 ## PART 2 — DISCLOSURE OF REMUNERATION
 
-### 4. Disclosure of remuneration: small and medium-sized companies[^key-fc1d4a16b03c90c7750ff231e5b51ebb]
+### 4. Disclosure of remuneration: small and medium-sized companies[^c-fc1d4a16b03c90c7750ff231e5b51ebb]
 
 (1) A note to the annual accounts of a small or medium-sized company must disclose the amount of any remuneration receivable by the company’s auditor for the auditing of those accounts.
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Companies (Disclosure of Auditor Remunerat
 - (b) tax advisory services;
 - (c) other services.
 
-### 5. Disclosure of remuneration: other companies[^key-fc1d4a16b03c90c7750ff231e5b51ebb]
+### 5. Disclosure of remuneration: other companies[^c-fc1d4a16b03c90c7750ff231e5b51ebb]
 
 (1) A note to the annual accounts of a company which is not a small or medium-sized company must disclose the amount of—
 
@@ -131,7 +131,7 @@ These Regulations may be cited as the Companies (Disclosure of Auditor Remunerat
   - (ii) failing any such requirement, the period of 12 months beginning with 1st April;
 - (b) “total audit remuneration received” means the total remuneration received for the auditing pursuant to legislation (including that of countries and territories outside the United Kingdom) of any accounts of any person.
 
-### 6. Group Accounts[^key-fc1d4a16b03c90c7750ff231e5b51ebb]
+### 6. Group Accounts[^c-fc1d4a16b03c90c7750ff231e5b51ebb]
 
 (1) Group accounts must comply with regulation 5(1)(b) as if the undertakings included in the consolidation were a single company except where the group—
 
@@ -276,7 +276,7 @@ An Impact Assessment has not been produced for these Regulations as they have on
 
 [^f00004]: Footnote: [S.I. 2005/2417](https://www.legislation.gov.uk/uksi/2005/2417).
 
-[^key-fc1d4a16b03c90c7750ff231e5b51ebb]: Modification: [Regs. 4-6](https://www.legislation.gov.uk/uksi/2008/489/regulation/4) applied (6.4.2008 with application in accordance with reg. 1(2)) by [The Partnerships (Accounts) Regulations 2008 (S.I. 2008/569)](https://www.legislation.gov.uk/uksi/2008/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/4/2)
+[^c-fc1d4a16b03c90c7750ff231e5b51ebb]: Modification: [Regs. 4-6](https://www.legislation.gov.uk/uksi/2008/489/regulation/4) applied (6.4.2008 with application in accordance with reg. 1(2)) by [The Partnerships (Accounts) Regulations 2008 (S.I. 2008/569)](https://www.legislation.gov.uk/uksi/2008/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/4/2)
 
 [^f00005]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 388 has been amended by section 4(2)(a) to (c) of the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), by section 11(1) of the Bankruptcy (Scotland) Act [1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6) and by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [2002/1240](https://www.legislation.gov.uk/uksi/2002/1240) and [2002/2708](https://www.legislation.gov.uk/uksi/2002/2708).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Lease of land for non-housing purposes[^key-0d8f3d0741c247db7cc232d2809e37c3]
+## 31. Lease of land for non-housing purposes[^c-0d8f3d0741c247db7cc232d2809e37c3]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8f3d0741c247db7cc232d2809e37c3]: Commencement: Reg. 31 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0d8f3d0741c247db7cc232d2809e37c3]: Commencement: Reg. 31 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

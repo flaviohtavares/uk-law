@@ -59,11 +59,11 @@ and (2) there shall be substituted the following subsections—
 > - (a) the convenience and welfare of persons residing, working or carrying on business there, and
 > - (b) until disposal, the maintenance and enhancement of the value of the land held and the return obtained from it.
 
-(3)[^key-d2ead60c0fa7b988fe62d432e27e5dc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d2ead60c0fa7b988fe62d432e27e5dc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d2ead60c0fa7b988fe62d432e27e5dc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d2ead60c0fa7b988fe62d432e27e5dc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Power to dissolve Commission.[^key-376f96df203dbda3d9e30893eecf6467]
+### 2. Power to dissolve Commission.[^c-376f96df203dbda3d9e30893eecf6467]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -459,7 +459,7 @@ Section 14(1).
 
 *Extent: E+W*
 
-**3.**[^key-9f066db372836d9bb1d0201f9ae68805] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9f066db372836d9bb1d0201f9ae68805] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -467,14 +467,14 @@ Section 14(1).
 
 *Extent: E+W*
 
-**5.**[^key-b637f28e0d51569708a1607f3b1f3c63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b637f28e0d51569708a1607f3b1f3c63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **6.** In section 39 of that Act (power to transfer undertakings)—
 
 - (a) in subsection (5) (Parliamentary control of order reducing liabilities) for the words from “by an order" to “shall apply" there shall be substituted the words “with the Treasury’s consent, by order", and
-- (b)[^key-4d58228aa9cabd44f80e7eabf7aa905f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4d58228aa9cabd44f80e7eabf7aa905f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -507,7 +507,7 @@ and paragraphs (a) and (b) of the definition of "the relevant portion of the cor
 **8.** In section 58 of that Act (capital expenditure and revenue account advances)—
 
 - (a) in subsections (1) and (5), for the words “and on such terms" there shall be substituted the words “, carrying interest at such rates and on such other terms"; and
-- (b)[^key-0a7e5a6e827cae3c9d31afde2098a6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0a7e5a6e827cae3c9d31afde2098a6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and in section 61(1) the following words (to the same effect), that is to say, the words from “at a rate of interest" to the end shall be omitted.
 
@@ -528,7 +528,7 @@ and in section 61(1) the following words (to the same effect), that is to say, t
 **12.** (1) In section 77 of that Act (regulations and orders) in subsection (3) (power to make orders under certain sections exercisable by statutory instrument, etc.)—
 
 - (a) after the words “under sections 1, 2,", where those words first occur, there shall be inserted “39";
-- (b)[^key-26362d2cf049360d61a68841e01bbb95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-26362d2cf049360d61a68841e01bbb95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the words from “and the power" onwards shall be omitted.
 
 (2) After that subsection there shall be inserted the following subsection—
@@ -576,7 +576,7 @@ and—
 
 *Extent: E+W*
 
-**16.**[^key-72c42fd6f78cf8df40b5d0634bc9ef65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-72c42fd6f78cf8df40b5d0634bc9ef65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Repeals
 
@@ -611,9 +611,9 @@ Section 14(2).
 
 [^c1200805]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
 
-[^key-d2ead60c0fa7b988fe62d432e27e5dc6]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1985/5/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/1985/5/section/1/4) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-d2ead60c0fa7b988fe62d432e27e5dc6]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1985/5/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/1985/5/section/1/4) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-376f96df203dbda3d9e30893eecf6467]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/5/section/2) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-376f96df203dbda3d9e30893eecf6467]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/5/section/2) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c1200807]: Textual amendment: [Ss. 3](https://www.legislation.gov.uk/ukpga/1985/5/section/3), [4](https://www.legislation.gov.uk/ukpga/1985/5/section/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1985/5/schedule/2/paragraph/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/7) repealed (*prosp.*) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
@@ -649,16 +649,16 @@ Section 14(2).
 
 [^c1200822]: Textual amendment: [Ss. 3](https://www.legislation.gov.uk/ukpga/1985/5/section/3), [4](https://www.legislation.gov.uk/ukpga/1985/5/section/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1985/5/schedule/2/paragraph/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/7) repealed (*prosp.*) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-9f066db372836d9bb1d0201f9ae68805]: Textual amendment: Sch. 3 para. 3 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-9f066db372836d9bb1d0201f9ae68805]: Textual amendment: Sch. 3 para. 3 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-b637f28e0d51569708a1607f3b1f3c63]: Textual amendment: Sch. 3 para. 5 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-b637f28e0d51569708a1607f3b1f3c63]: Textual amendment: Sch. 3 para. 5 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-4d58228aa9cabd44f80e7eabf7aa905f]: Textual amendment: Sch. 3 para. 6(b) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-4d58228aa9cabd44f80e7eabf7aa905f]: Textual amendment: Sch. 3 para. 6(b) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c1200823]: Textual amendment: [Ss. 3](https://www.legislation.gov.uk/ukpga/1985/5/section/3), [4](https://www.legislation.gov.uk/ukpga/1985/5/section/4), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1985/5/schedule/2/paragraph/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/7) repealed (*prosp.*) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-0a7e5a6e827cae3c9d31afde2098a6f3]: Textual amendment: Sch. 3 para. 8(b) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-0a7e5a6e827cae3c9d31afde2098a6f3]: Textual amendment: Sch. 3 para. 8(b) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-26362d2cf049360d61a68841e01bbb95]: Textual amendment: Sch. 3 para. 12(1)(b) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-26362d2cf049360d61a68841e01bbb95]: Textual amendment: Sch. 3 para. 12(1)(b) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-72c42fd6f78cf8df40b5d0634bc9ef65]: Textual amendment: Sch. 3 para. 16 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-72c42fd6f78cf8df40b5d0634bc9ef65]: Textual amendment: Sch. 3 para. 16 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/3068/article/6) [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

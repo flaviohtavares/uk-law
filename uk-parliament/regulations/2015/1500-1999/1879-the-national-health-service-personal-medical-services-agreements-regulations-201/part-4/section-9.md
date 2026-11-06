@@ -23,7 +23,7 @@ summary: ''
 (1) A contractor is to be regarded as a health service body for the purposes of section 9 of the Act (NHS contracts) from the date on which it enters into an agreement unless, in the case of—
 
 - (a) an agreement with a contractor who is an individual or which is a qualifying body, that individual or qualifying body; or
-- (b) any other agreement, any of the proposed parties to the agreement (other than NHS England[^key-9520329cffeb7671913a444ac58ebf84]),
+- (b) any other agreement, any of the proposed parties to the agreement (other than NHS England[^c-9520329cffeb7671913a444ac58ebf84]),
 
 objects by giving notice in writing to NHS England at any time prior to the agreement being made.
 
@@ -33,4 +33,4 @@ objects by giving notice in writing to NHS England at any time prior to the agre
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

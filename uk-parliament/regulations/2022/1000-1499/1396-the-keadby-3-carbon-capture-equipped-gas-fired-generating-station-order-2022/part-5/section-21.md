@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Compulsory acquisition of rights etc.[^key-218545ca4aad56485fb212333457dcac]
+## 21. Compulsory acquisition of rights etc.[^c-218545ca4aad56485fb212333457dcac]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In the case of the Order land specified in column (1) of the table in Schedule 6 (land in which only new rights etc. may be acquired) the undertaker’s powers under paragraph (1) are limited to acquire compulsorily the existing rights over land and create and acquire compulsorily the new rights as are specified in column (2) of that Schedule.
 
-(3) In the case of Order land required for Work No. 4A or 4B[^key-93b3f4d82b6ffee1c7c7db7639d78d0e], the undertaker’s powers under paragraph (1) are respectively[^key-d2eecb10fe1c28bba6fe33e5aef350ac] limited to either plots falling within Work No. 4A or plots falling within Work No. 4B and following approval by the relevant planning authority of the details for Work No. 4 pursuant to Requirement 5(4) the undertaker shall:
+(3) In the case of Order land required for Work No. 4A or 4B[^c-93b3f4d82b6ffee1c7c7db7639d78d0e], the undertaker’s powers under paragraph (1) are respectively[^c-d2eecb10fe1c28bba6fe33e5aef350ac] limited to either plots falling within Work No. 4A or plots falling within Work No. 4B and following approval by the relevant planning authority of the details for Work No. 4 pursuant to Requirement 5(4) the undertaker shall:
 
 - (a) if Work No. 4A is to be developed, serve written notice on those plots (being plots falling within Work No. 4B) confirming that the undertaker no longer intends to implement any powers of compulsory acquisition in relation to such plots; or
 - (b) if Works No. 4B is to be developed, serve written notice on those plots (being plots falling within Work No. 4A) confirming that the undertaker no longer intends to implement any powers of compulsory acquisition in relation to such plots.
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-218545ca4aad56485fb212333457dcac]: Commencement: Art. 21 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-218545ca4aad56485fb212333457dcac]: Commencement: Art. 21 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-93b3f4d82b6ffee1c7c7db7639d78d0e]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2022/1396/article/21/3) substituted (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)
+[^c-93b3f4d82b6ffee1c7c7db7639d78d0e]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2022/1396/article/21/3) substituted (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)
 
-[^key-d2eecb10fe1c28bba6fe33e5aef350ac]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2022/1396/article/21/3) added (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)
+[^c-d2eecb10fe1c28bba6fe33e5aef350ac]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2022/1396/article/21/3) added (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)

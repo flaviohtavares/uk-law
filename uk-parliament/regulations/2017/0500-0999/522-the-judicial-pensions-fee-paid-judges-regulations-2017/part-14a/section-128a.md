@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128A. Interpretation[^key-73af1ad52439faa59a794455bec473bf]
+## 128A. Interpretation[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,12 +51,12 @@ summary: ''
   - (b) an additional benefits scheme, and
   - (c) an additional voluntary contributions scheme;
 - “**membership notice**” has the meaning given in regulation 128C(2) and “**the date of a member’s membership notice**” means the date on which that member gave the notice to the administrators;
-- [^key-b7c2ef6118ad575fda20d6d3c629c4e9]...
+- [^c-b7c2ef6118ad575fda20d6d3c629c4e9]...
 - “retained benefits” are benefits determined by the administrators as satisfying the definition of that expression in regulation 2.3 of the 1995 Regulations on the assumed contribution commencement date for the FPJABS member as those Regulations had effect on that date;
 - “**retired FPJABS member**” means an FPJABS member who retired and who was not at the time of retirement an opted-out member of the principal scheme;
 - “**together with interest**” means with compound interest at the rate announced annually in relation to the Principal Civil Service Pension Scheme;
 - “**unretired FPJABS member**” means an FPJABS member who is continuing to hold judicial office and has not opted out of the principal scheme;
-- “[^key-656a9fcdd6d254b07067c57b09fa35b8]**WS**” has the meaning given in regulation 128B.
+- “[^c-656a9fcdd6d254b07067c57b09fa35b8]**WS**” has the meaning given in regulation 128B.
 
 (2) In relation to fee-paid days between 1st April 2015 and 31st March 2022, regulation 4 applies for the purposes of this Part as if paragraph (2)(c) were omitted.
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-b7c2ef6118ad575fda20d6d3c629c4e9]: Textual amendment: Words in [reg. 128A(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128A/1) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/23/a)
+[^c-b7c2ef6118ad575fda20d6d3c629c4e9]: Textual amendment: Words in [reg. 128A(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128A/1) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/23/a)
 
-[^key-656a9fcdd6d254b07067c57b09fa35b8]: Textual amendment: Words in [reg. 128A(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128A/1) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/23/b)
+[^c-656a9fcdd6d254b07067c57b09fa35b8]: Textual amendment: Words in [reg. 128A(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128A/1) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/23/b)

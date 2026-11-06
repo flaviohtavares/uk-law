@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Provision of copies of licences to chief constable[^key-3c901b8c99b2e4736e48fdabcea62b97]
+## 187. Provision of copies of licences to chief constable[^c-3c901b8c99b2e4736e48fdabcea62b97]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c901b8c99b2e4736e48fdabcea62b97]: Commencement: [S. 187](https://www.legislation.gov.uk/asp/2010/13/section/187) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-3c901b8c99b2e4736e48fdabcea62b97]: Commencement: [S. 187](https://www.legislation.gov.uk/asp/2010/13/section/187) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

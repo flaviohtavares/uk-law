@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125B. Functions of the Administrator: supplementary[^key-227f01d8a6f3337ce7e92fca8dd4aee7]
+## 125B. Functions of the Administrator: supplementary[^c-227f01d8a6f3337ce7e92fca8dd4aee7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-227f01d8a6f3337ce7e92fca8dd4aee7]: Textual amendment: Ss. 125-125C substituted for s. 125 (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/2)
+[^c-227f01d8a6f3337ce7e92fca8dd4aee7]: Textual amendment: Ss. 125-125C substituted for s. 125 (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/2)

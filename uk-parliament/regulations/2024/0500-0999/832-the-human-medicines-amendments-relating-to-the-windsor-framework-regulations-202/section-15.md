@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment to regulation 37[^key-3c0676f8f6cc6a7f978ee9755d9292c4]
+## 15. Amendment to regulation 37[^c-3c0676f8f6cc6a7f978ee9755d9292c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 37(5)(b) (manufacturing and assembly)[^f00022]—
 
 ## Annotations
 
-[^key-3c0676f8f6cc6a7f978ee9755d9292c4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/832/regulation/15) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-3c0676f8f6cc6a7f978ee9755d9292c4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/832/regulation/15) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00022]: Footnote: Regulation 37 was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), paragraph (5)(b) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488) and [2021/1452](https://www.legislation.gov.uk/uksi/2021/1452) and paragraph (6)(b) was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

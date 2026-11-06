@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Notice of no dividend or no further dividend[^key-51a75c168d301bd4840153f6aabf76f5]
+## 147. Notice of no dividend or no further dividend[^c-51a75c168d301bd4840153f6aabf76f5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51a75c168d301bd4840153f6aabf76f5]: Commencement: [Rule 147](https://www.legislation.gov.uk/nisr/2026/11/rule/147) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-51a75c168d301bd4840153f6aabf76f5]: Commencement: [Rule 147](https://www.legislation.gov.uk/nisr/2026/11/rule/147) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

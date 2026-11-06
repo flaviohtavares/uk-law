@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Equipment in relevant shafts and outlets[^key-f668e1e83a0f9bf828ca9fdc801a9be4]
+## 37. Equipment in relevant shafts and outlets[^c-f668e1e83a0f9bf828ca9fdc801a9be4]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f668e1e83a0f9bf828ca9fdc801a9be4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/427/regulation/37) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-f668e1e83a0f9bf828ca9fdc801a9be4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/427/regulation/37) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

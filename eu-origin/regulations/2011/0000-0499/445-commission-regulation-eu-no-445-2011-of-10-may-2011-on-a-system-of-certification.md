@@ -37,7 +37,7 @@ on a system of certification of entities in charge of maintenance for freight wa
 
 (Text with EEA relevance) (repealed)
 
-[^c000003][^key-cfdcf1b103cf6a1f45763fd0c3ddd39a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c000003][^c-cfdcf1b103cf6a1f45763fd0c3ddd39a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -519,4 +519,4 @@ At least the basic principles for the following processes must be clearly define
 
 [^c000003]: Textual amendment: Repealed (16.6.2020) by [Commission Implementing Regulation (EU) 2019/779 of 16 May 2019 laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 445/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/779), Art. 16 (with transitional provisions in Art. 15)
 
-[^key-cfdcf1b103cf6a1f45763fd0c3ddd39a]: Textual amendment: Regulation, in so far as still in force, revoked (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/837/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfdcf1b103cf6a1f45763fd0c3ddd39a]: Textual amendment: Regulation, in so far as still in force, revoked (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/837/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

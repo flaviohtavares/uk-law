@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Special measures directions for child witnesses[^key-a282f47eaaca0b349fb39653f50ab5e0]
+## 100. Special measures directions for child witnesses[^c-a282f47eaaca0b349fb39653f50ab5e0]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a282f47eaaca0b349fb39653f50ab5e0]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2009/25/section/100) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-a282f47eaaca0b349fb39653f50ab5e0]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2009/25/section/100) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

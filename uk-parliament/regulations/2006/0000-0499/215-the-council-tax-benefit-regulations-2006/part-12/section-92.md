@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 92. Collection of information[^key-ba716370142324b9a93bf478d7d08cdf]
+## 92. Collection of information[^c-ba716370142324b9a93bf478d7d08cdf]
 
 (1) The Secretary of State, or a person providing services to him, may receive or obtain relevant information from—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba716370142324b9a93bf478d7d08cdf]: Textual amendment: Reg. 92 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/9/4)
+[^c-ba716370142324b9a93bf478d7d08cdf]: Textual amendment: Reg. 92 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/9/4)

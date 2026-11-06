@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Remainder of amendments[^key-38c31a4a917ba4c8ba797ca5c50c4a5f]
+## 38. Remainder of amendments[^c-38c31a4a917ba4c8ba797ca5c50c4a5f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 makes minor and consequential amendments to the 1974 Act (including c
 
 ## Annotations
 
-[^key-38c31a4a917ba4c8ba797ca5c50c4a5f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/14/section/38) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-38c31a4a917ba4c8ba797ca5c50c4a5f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/14/section/38) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

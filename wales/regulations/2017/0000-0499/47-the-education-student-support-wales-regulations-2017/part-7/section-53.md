@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Additional amount of loans[^key-8b94b3ec7cf436652018b4e3e7a4e8bc]
+## 53. Additional amount of loans[^c-8b94b3ec7cf436652018b4e3e7a4e8bc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b94b3ec7cf436652018b4e3e7a4e8bc]: Commencement: Reg. 53 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-8b94b3ec7cf436652018b4e3e7a4e8bc]: Commencement: Reg. 53 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

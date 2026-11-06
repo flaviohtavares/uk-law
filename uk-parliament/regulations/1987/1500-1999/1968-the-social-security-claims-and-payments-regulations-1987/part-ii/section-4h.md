@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4H. Making a claim for employment and support allowance in writing[^key-e7da0b950217e9322b5f93dd25d40774]
+## 4H. Making a claim for employment and support allowance in writing[^c-e7da0b950217e9322b5f93dd25d40774]
 
 *Extent: E+W+S*
 
@@ -26,9 +26,9 @@ summary: ''
 
 (3) A claim in writing may also be made at the offices of—
 
-- (a) a local authority administering housing benefit [^key-f41876dfb2e9832783bb6fa708493db9]...;
-- (b) a person providing to such an authority services relating to housing benefit [^key-857d191f1cbb267ba129b5c9e3b9af08]...; or
-- (c) a person authorised to exercise the function of a local authority relating to housing benefit [^key-5471f779a0b69cb05acece00c6e28d47]...,
+- (a) a local authority administering housing benefit [^c-f41876dfb2e9832783bb6fa708493db9]...;
+- (b) a person providing to such an authority services relating to housing benefit [^c-857d191f1cbb267ba129b5c9e3b9af08]...; or
+- (c) a person authorised to exercise the function of a local authority relating to housing benefit [^c-5471f779a0b69cb05acece00c6e28d47]...,
 
 if the Secretary of State has arranged with the local authority or person specified in sub-paragraph (b) or (c) for them to receive claims in accordance with this paragraph.
 
@@ -48,16 +48,16 @@ if the Secretary of State has arranged with the local authority or person specif
 
 (6) If a written claim is defective when first received, the Secretary of State is to advise the person making it of the defect and of the provisions of regulation 6(1F) relating to the date of claim.
 
-(7) If that person corrects the defect so that the claim then satisfies the requirements of paragraph (2) and does so within one month, or such longer period as the Secretary of State considers reasonable, of the date the Secretary of State first[^key-fcac3c080b683bc5338861806167fed5] drew attention to the defect, the claim must be treated as having been properly made in the first instance.
+(7) If that person corrects the defect so that the claim then satisfies the requirements of paragraph (2) and does so within one month, or such longer period as the Secretary of State considers reasonable, of the date the Secretary of State first[^c-fcac3c080b683bc5338861806167fed5] drew attention to the defect, the claim must be treated as having been properly made in the first instance.
 
 ## Annotations
 
-[^key-e7da0b950217e9322b5f93dd25d40774]: Textual amendment: Regs. 4G-4I inserted (27.7.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [13](https://www.legislation.gov.uk/uksi/2008/1554/regulation/13)
+[^c-e7da0b950217e9322b5f93dd25d40774]: Textual amendment: Regs. 4G-4I inserted (27.7.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [13](https://www.legislation.gov.uk/uksi/2008/1554/regulation/13)
 
-[^key-f41876dfb2e9832783bb6fa708493db9]: Textual amendment: Words in [reg. 4H(3)(a)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/a) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-f41876dfb2e9832783bb6fa708493db9]: Textual amendment: Words in [reg. 4H(3)(a)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/a) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-857d191f1cbb267ba129b5c9e3b9af08]: Textual amendment: Words in [reg. 4H(3)(b)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/b) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-857d191f1cbb267ba129b5c9e3b9af08]: Textual amendment: Words in [reg. 4H(3)(b)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/b) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-5471f779a0b69cb05acece00c6e28d47]: Textual amendment: Words in [reg. 4H(3)(c)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/c) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-5471f779a0b69cb05acece00c6e28d47]: Textual amendment: Words in [reg. 4H(3)(c)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/4H/3/c) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-fcac3c080b683bc5338861806167fed5]: Textual amendment: Word in reg. 4H(7) substituted (26.10.2009) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/3/3/c)
+[^c-fcac3c080b683bc5338861806167fed5]: Textual amendment: Word in reg. 4H(7) substituted (26.10.2009) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/3/3/c)

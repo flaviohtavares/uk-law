@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Cross-border enforcement[^key-5924b455f485ae35b31ef67cb0c1b22b]
+## 31. Cross-border enforcement[^c-5924b455f485ae35b31ef67cb0c1b22b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5924b455f485ae35b31ef67cb0c1b22b]: Commencement: S. 31 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-5924b455f485ae35b31ef67cb0c1b22b]: Commencement: S. 31 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

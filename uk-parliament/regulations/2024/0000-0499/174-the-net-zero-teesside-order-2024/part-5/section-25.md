@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Compulsory acquisition of rights etc.[^key-a2bf628f246df18ee0c040c9783b1d45]
+## 25. Compulsory acquisition of rights etc.[^c-a2bf628f246df18ee0c040c9783b1d45]
 
 *Extent: E+W+S*
 
-(1) Subject to the following paragraphs of this article, and article 21A (supplemental land)[^key-c06d1e9eda123f7a57c3528b37cc2231] the undertaker may acquire such rights over the Order land as may be required for any purpose for which that land may be acquired under article 22 (compulsory acquisition of land), by creating them as well as acquiring rights already in existence.
+(1) Subject to the following paragraphs of this article, and article 21A (supplemental land)[^c-c06d1e9eda123f7a57c3528b37cc2231] the undertaker may acquire such rights over the Order land as may be required for any purpose for which that land may be acquired under article 22 (compulsory acquisition of land), by creating them as well as acquiring rights already in existence.
 
 (2) The powers of paragraph (1) may be exercised by a statutory undertaker in any case where the undertaker, with the consent of the Secretary of State, transfers the power to a statutory undertaker.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2bf628f246df18ee0c040c9783b1d45]: Commencement: Art. 25 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-a2bf628f246df18ee0c040c9783b1d45]: Commencement: Art. 25 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-c06d1e9eda123f7a57c3528b37cc2231]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/174/article/25/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [9](https://www.legislation.gov.uk/uksi/2025/1143/article/9)
+[^c-c06d1e9eda123f7a57c3528b37cc2231]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2024/174/article/25/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [9](https://www.legislation.gov.uk/uksi/2025/1143/article/9)

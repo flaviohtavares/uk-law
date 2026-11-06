@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. LGBC for England: changes to facilitate efficient administration[^key-cc06dd7f9198a27c618af4589ebd785d]
+## 95. LGBC for England: changes to facilitate efficient administration[^c-cc06dd7f9198a27c618af4589ebd785d]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc06dd7f9198a27c618af4589ebd785d]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2015/20/section/95) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/c)
+[^c-cc06dd7f9198a27c618af4589ebd785d]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2015/20/section/95) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/c)

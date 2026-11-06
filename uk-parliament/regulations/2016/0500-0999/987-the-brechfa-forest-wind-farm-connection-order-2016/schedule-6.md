@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — Streets subject to street works – crossing points[^key-de6a73f1e682a5708245125c65a81054]
+### PART 1 — Streets subject to street works – crossing points[^c-de6a73f1e682a5708245125c65a81054]
 
 | (1)Crossing point reference | (2)Grid reference | (3)Description | (4)Span numbers (excluding UG sections where no span number is defined) | (5)Plan reference |
 | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Article 9
 | CP26 | SN 44248 29257 | C1317 approximately 100 metres west of C1317/A485 junction | 144-145 | C/LA/PS/4 |
 | CP27 | SN 44384 30890 | A485 approximately 150 metres north Dyffryn-Croes | 159-160 | C/LA/PS/5 |
 
-### PART 2 — Streets subject to street works – accesses[^key-9ce60c80f4d62a9049fab3e35c02c2cf]
+### PART 2 — Streets subject to street works – accesses[^c-9ce60c80f4d62a9049fab3e35c02c2cf]
 
 | (1)Access number | (2)Grid reference | (3)Road accessed | (4)Description | (5)Plan reference | (6)New or existing access |
 | --- | --- | --- | --- | --- | --- |
@@ -151,6 +151,6 @@ Article 9
 
 ## Annotations
 
-[^key-de6a73f1e682a5708245125c65a81054]: Commencement: Sch. 6 Pt. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-de6a73f1e682a5708245125c65a81054]: Commencement: Sch. 6 Pt. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-9ce60c80f4d62a9049fab3e35c02c2cf]: Commencement: Sch. 6 Pt. 2 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-9ce60c80f4d62a9049fab3e35c02c2cf]: Commencement: Sch. 6 Pt. 2 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

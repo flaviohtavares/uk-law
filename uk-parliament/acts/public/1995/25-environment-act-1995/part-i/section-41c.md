@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41C. Charging schemes in respect of abstraction and impounding licences: cross-border arrangements[^key-acc7195cee555240cefa4330780658f2]
+## 41C. Charging schemes in respect of abstraction and impounding licences: cross-border arrangements[^c-acc7195cee555240cefa4330780658f2]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acc7195cee555240cefa4330780658f2]: Textual amendment: Ss. 41B, 41C inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [19](https://www.legislation.gov.uk/uksi/2013/1821/article/19) (with [arts. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24), [28](https://www.legislation.gov.uk/uksi/2013/1821/article/28))
+[^c-acc7195cee555240cefa4330780658f2]: Textual amendment: Ss. 41B, 41C inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [19](https://www.legislation.gov.uk/uksi/2013/1821/article/19) (with [arts. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24), [28](https://www.legislation.gov.uk/uksi/2013/1821/article/28))

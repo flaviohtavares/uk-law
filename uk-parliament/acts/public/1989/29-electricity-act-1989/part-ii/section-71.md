@@ -32,7 +32,7 @@ summary: ''
 (4) Shares in a company which are issued in pursuance of this section—
 
 - (a) shall be of such nominal value as the Secretary of State may direct; and
-- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^key-728dd360e102e0c233ad892a2eb37f7e] as if they had been paid up by virtue of the payment to the company of their nominal value in cash.
+- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^c-728dd360e102e0c233ad892a2eb37f7e] as if they had been paid up by virtue of the payment to the company of their nominal value in cash.
 
 (5) The Secretary of State shall not exercise any power conferred on him by this section, or dispose of any securities issued or of any rights to securities initially allotted to him in pursuance of this section, without the consent of the Treasury.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-728dd360e102e0c233ad892a2eb37f7e]: Textual amendment: Words in [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/71/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 102(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/102/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-728dd360e102e0c233ad892a2eb37f7e]: Textual amendment: Words in [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/71/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 102(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/102/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.3. Examination of witness by court[^key-c9bc2e41a0dbbe2a0bd486b9267ca43a]
+## 42.3. Examination of witness by court[^c-c9bc2e41a0dbbe2a0bd486b9267ca43a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 36.7 (Notice of hearings and decisions) applies in relation to an order of 
 
 ## Annotations
 
-[^key-c9bc2e41a0dbbe2a0bd486b9267ca43a]: Commencement: [Rule 42.3](https://www.legislation.gov.uk/uksi/2025/909/rule/42.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c9bc2e41a0dbbe2a0bd486b9267ca43a]: Commencement: [Rule 42.3](https://www.legislation.gov.uk/uksi/2025/909/rule/42.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Value of benefit conferred by capital payment made by way of making movable property available[^key-879c2e5f3070ffadcce98880505143a9]
+## 97B. Value of benefit conferred by capital payment made by way of making movable property available[^c-879c2e5f3070ffadcce98880505143a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Y is the number of days in the tax year.
 
 ## Annotations
 
-[^key-879c2e5f3070ffadcce98880505143a9]: Textual amendment: Ss. 97A-97C inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 1(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/1/2)
+[^c-879c2e5f3070ffadcce98880505143a9]: Textual amendment: Ss. 97A-97C inserted (with effect in accordance with Sch. 9 para. 3 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 9 para. 1(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/9/paragraph/1/2)

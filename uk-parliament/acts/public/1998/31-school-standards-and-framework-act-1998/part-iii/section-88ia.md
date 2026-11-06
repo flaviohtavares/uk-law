@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88IA. Changes to admission numbers[^key-2a713e05ce484771ee449bea8f3c3ae5][^key-fff7d3364a51a0a8358573f4fba9676d]
+## 88IA. Changes to admission numbers[^c-2a713e05ce484771ee449bea8f3c3ae5][^c-fff7d3364a51a0a8358573f4fba9676d]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a713e05ce484771ee449bea8f3c3ae5]: Textual amendment: S. 88IA inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/64/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-2a713e05ce484771ee449bea8f3c3ae5]: Textual amendment: S. 88IA inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/64/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
+[^c-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)

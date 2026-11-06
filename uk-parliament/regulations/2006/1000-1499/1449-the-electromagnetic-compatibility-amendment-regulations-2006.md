@@ -32,7 +32,7 @@ summary: ''
 
 ELECTROMAGNETIC COMPATIBILITY
 
-The Electromagnetic Compatibility (Amendment) Regulations 2006 (revoked)[^key-9e0da3c3ce7e308f554c685c6cbbb468]
+The Electromagnetic Compatibility (Amendment) Regulations 2006 (revoked)[^c-9e0da3c3ce7e308f554c685c6cbbb468]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 28th June 2006
 
-[^key-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9e0da3c3ce7e308f554c685c6cbbb468]
+## 1. Citation and commencement[^c-9e0da3c3ce7e308f554c685c6cbbb468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Electromagnetic Compatibility Regulations 2005[^key-9e0da3c3ce7e308f554c685c6cbbb468]
+## 2. Amendment to the Electromagnetic Compatibility Regulations 2005[^c-9e0da3c3ce7e308f554c685c6cbbb468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e0da3c3ce7e308f554c685c6cbbb468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e0da3c3ce7e308f554c685c6cbbb468]: Textual amendment: Regulations revoked (8.12.2016) by [The Electromagnetic Compatibility Regulations 2016 (S.I. 2016/1091)](https://www.legislation.gov.uk/uksi/2016/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1091/regulation/1), [75(4)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/75/4) (with [regs. 74](https://www.legislation.gov.uk/uksi/2016/1091/regulation/74), [75(5)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/75/5))
+[^c-9e0da3c3ce7e308f554c685c6cbbb468]: Textual amendment: Regulations revoked (8.12.2016) by [The Electromagnetic Compatibility Regulations 2016 (S.I. 2016/1091)](https://www.legislation.gov.uk/uksi/2016/1091), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1091/regulation/1), [75(4)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/75/4) (with [regs. 74](https://www.legislation.gov.uk/uksi/2016/1091/regulation/74), [75(5)](https://www.legislation.gov.uk/uksi/2016/1091/regulation/75/5))

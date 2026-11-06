@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Student’s eligible housing costs[^key-d6404985be78aaba3c60f8761dcd289c]
+## 54. Student’s eligible housing costs[^c-d6404985be78aaba3c60f8761dcd289c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6404985be78aaba3c60f8761dcd289c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2006/405/regulation/54) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-d6404985be78aaba3c60f8761dcd289c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2006/405/regulation/54) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

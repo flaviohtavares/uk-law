@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4A. Exclusion of section 4(2)(a) and (b) of the Act: domestic homicide and suicide reviews[^key-7a894f936aceb75ecc02d9041a338bc3]
+## 4A. Exclusion of section 4(2)(a) and (b) of the Act: domestic homicide and suicide reviews[^c-7a894f936aceb75ecc02d9041a338bc3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a894f936aceb75ecc02d9041a338bc3]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2013/50/article/4A) inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/141/article/2/3)
+[^c-7a894f936aceb75ecc02d9041a338bc3]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2013/50/article/4A) inserted (1.4.2026) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Domestic Homicide and Suicide Reviews) (Scotland) Amendment Order 2026 (S.S.I. 2026/141)](https://www.legislation.gov.uk/ssi/2026/141), [arts. 1](https://www.legislation.gov.uk/ssi/2026/141/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/141/article/2/3)

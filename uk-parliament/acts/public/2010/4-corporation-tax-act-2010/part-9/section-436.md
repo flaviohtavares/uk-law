@@ -36,8 +36,8 @@ summary: ''
 
 (6) In this section “**liabilities**” includes any share capital issued by the company which falls to be treated for accounting purposes as a liability.
 
-(7)[^key-1c64be97b572f71be1911ee4ea0bbb44] Except for subsection (6), this section applies to a partnership as it applies to a company, and references to “company” are to be read accordingly.
+(7)[^c-1c64be97b572f71be1911ee4ea0bbb44] Except for subsection (6), this section applies to a partnership as it applies to a company, and references to “company” are to be read accordingly.
 
 ## Annotations
 
-[^key-1c64be97b572f71be1911ee4ea0bbb44]: Textual amendment: S. 436(7) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/19)
+[^c-1c64be97b572f71be1911ee4ea0bbb44]: Textual amendment: S. 436(7) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/19)

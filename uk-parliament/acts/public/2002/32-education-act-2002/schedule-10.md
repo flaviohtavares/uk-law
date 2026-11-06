@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Establishment etc of schools: procedural changes[^key-f9964d6e8fda6439eaa4e0084ae23b8b]
+## SCHEDULE 10 — Establishment etc of schools: procedural changes[^c-f9964d6e8fda6439eaa4e0084ae23b8b]
 
 *Extent: E+W*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 75
 
-### 1. Proposals for establishment, alteration and discontinuance of schools[^key-f9964d6e8fda6439eaa4e0084ae23b8b]
+### 1. Proposals for establishment, alteration and discontinuance of schools[^c-f9964d6e8fda6439eaa4e0084ae23b8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Proposals for rationalisation of school places[^key-f9964d6e8fda6439eaa4e0084ae23b8b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Proposals in relation to sixth forms[^key-f9964d6e8fda6439eaa4e0084ae23b8b]
+### 7. Proposals for rationalisation of school places[^c-f9964d6e8fda6439eaa4e0084ae23b8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Proposals in relation to sixth forms[^c-f9964d6e8fda6439eaa4e0084ae23b8b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-f9964d6e8fda6439eaa4e0084ae23b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9964d6e8fda6439eaa4e0084ae23b8b]: Textual amendment: Sch. 10 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(12)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/12); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-f9964d6e8fda6439eaa4e0084ae23b8b]: Textual amendment: Sch. 10 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(12)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/12); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

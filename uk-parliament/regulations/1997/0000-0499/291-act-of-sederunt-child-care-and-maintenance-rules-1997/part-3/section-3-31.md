@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.31. Determination of application[^key-96f1286297cc77aea9077287e978441b]
+## 3.31. Determination of application[^c-96f1286297cc77aea9077287e978441b]
 
 *Extent: S*
 
 (1) On receipt of an application, the sheriff, having considered the grounds of the application and the supporting evidence, shall forthwith grant or refuse it.
 
-(2) Where an order is granted, it shall be in Form 49 and it shall contain any directions made under section 40, 41 or 42 of the[^key-785eebf6225c656c06b330ab538580ef] 2011 Act.
+(2) Where an order is granted, it shall be in Form 49 and it shall contain any directions made under section 40, 41 or 42 of the[^c-785eebf6225c656c06b330ab538580ef] 2011 Act.
 
 ## Annotations
 
-[^key-96f1286297cc77aea9077287e978441b]: Commencement: Rule 3.31 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-96f1286297cc77aea9077287e978441b]: Commencement: Rule 3.31 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-785eebf6225c656c06b330ab538580ef]: Textual amendment: Words in rule 3.31(2) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(24)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/24) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-785eebf6225c656c06b330ab538580ef]: Textual amendment: Words in rule 3.31(2) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(24)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/24) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

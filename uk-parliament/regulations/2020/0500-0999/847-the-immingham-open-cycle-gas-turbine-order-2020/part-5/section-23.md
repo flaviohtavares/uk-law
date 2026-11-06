@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Application of the 1981 Act[^key-0da05255cd8901fc959dd8f5865a6481]
+## 23. Application of the 1981 Act[^c-0da05255cd8901fc959dd8f5865a6481]
 
 *Extent: E+W*
 
 (1) The 1981 Act applies as if this Order were a compulsory purchase order.
 
-(2) The 1981 Act[^key-d6c8fc3bf2dbe0e0edda1ea45e6b2ca2] , as applied by paragraph (1), has effect with the following modifications.
+(2) The 1981 Act[^c-d6c8fc3bf2dbe0e0edda1ea45e6b2ca2] , as applied by paragraph (1), has effect with the following modifications.
 
 (3) In section 1 (application of Act) for subsection 2 there is substituted—
 
@@ -44,12 +44,12 @@ summary: ''
 
 > (2) But see article 24(3) (acquisition of subsoil only) of the Immingham Open Cycle Gas Turbine Order 2020, which excludes the acquisition of subsoil only from this Schedule.
 
-(10) References to the 1965 Act in the 1981 Act[^key-8ee6be38f6f036c2b44216ceee534131] must be construed as references to that Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (as modified by article 25 (modification of Part 1 of the 1965 Act)) to the compulsory acquisition of land under this Order.
+(10) References to the 1965 Act in the 1981 Act[^c-8ee6be38f6f036c2b44216ceee534131] must be construed as references to that Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (as modified by article 25 (modification of Part 1 of the 1965 Act)) to the compulsory acquisition of land under this Order.
 
 ## Annotations
 
-[^key-0da05255cd8901fc959dd8f5865a6481]: Commencement: Art. 23 in force at 1.9.2020, see art. 1
+[^c-0da05255cd8901fc959dd8f5865a6481]: Commencement: Art. 23 in force at 1.9.2020, see art. 1
 
-[^key-d6c8fc3bf2dbe0e0edda1ea45e6b2ca2]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/uksi/2020/847/article/23/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-d6c8fc3bf2dbe0e0edda1ea45e6b2ca2]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/uksi/2020/847/article/23/2) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-8ee6be38f6f036c2b44216ceee534131]: Textual amendment: Words in [art. 23(10)](https://www.legislation.gov.uk/uksi/2020/847/article/23/10) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-8ee6be38f6f036c2b44216ceee534131]: Textual amendment: Words in [art. 23(10)](https://www.legislation.gov.uk/uksi/2020/847/article/23/10) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

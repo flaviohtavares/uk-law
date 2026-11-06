@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Temporary disapplication of section 97[^key-538585c817ca26c2029792f5426c3a6b]
+## 98. Temporary disapplication of section 97[^c-538585c817ca26c2029792f5426c3a6b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-538585c817ca26c2029792f5426c3a6b]: Textual amendment: S. 98 revoked (11.9.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 5, Revocation and Saving Provision) Regulations 2019 (S.S.I. 2019/269)](https://www.legislation.gov.uk/ssi/2019/269), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/269/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2019/269/regulation/5)
+[^c-538585c817ca26c2029792f5426c3a6b]: Textual amendment: S. 98 revoked (11.9.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 5, Revocation and Saving Provision) Regulations 2019 (S.S.I. 2019/269)](https://www.legislation.gov.uk/ssi/2019/269), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/269/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2019/269/regulation/5)

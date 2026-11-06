@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30D. Transfer pricing records: carelessness for the purposes of section 30B[^key-e9c70fe6db82ad56ecc0f4a352f8523a]
+## 30D. Transfer pricing records: carelessness for the purposes of section 30B[^c-e9c70fe6db82ad56ecc0f4a352f8523a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9c70fe6db82ad56ecc0f4a352f8523a]: Textual amendment: [Ss. 30C](https://www.legislation.gov.uk/ukpga/1970/9/section/30C), [30D](https://www.legislation.gov.uk/ukpga/1970/9/section/30D) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/5/paragraph/4)
+[^c-e9c70fe6db82ad56ecc0f4a352f8523a]: Textual amendment: [Ss. 30C](https://www.legislation.gov.uk/ukpga/1970/9/section/30C), [30D](https://www.legislation.gov.uk/ukpga/1970/9/section/30D) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/5/paragraph/4)

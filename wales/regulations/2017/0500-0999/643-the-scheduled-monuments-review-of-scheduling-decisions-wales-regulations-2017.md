@@ -47,43 +47,43 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 1AE 
 
 ## PART 1 — Preliminary
 
-### 1. Title, commencement and application[^key-0797af0f7794ffaa55621d6946223e2d]
+### 1. Title, commencement and application[^c-0797af0f7794ffaa55621d6946223e2d]
 
 (1) The title of these Regulations is the Scheduled Monuments (Review of Scheduling Decisions) (Wales) Regulations 2017 and they come into force on 31 May 2017.
 
 (2) These Regulations apply to Wales.
 
-(3)[^key-c940ca63562dc0e4d0cd0f7681cf3175] These Regulations form part of a code of law relating to the historic environment of Wales.
+(3)[^c-c940ca63562dc0e4d0cd0f7681cf3175] These Regulations form part of a code of law relating to the historic environment of Wales.
 
-### 2. Interpretation[^key-f1f3293350814985f151b540b063945f]
+### 2. Interpretation[^c-f1f3293350814985f151b540b063945f]
 
 In these Regulations—
 
-- “[^key-9403f245d4bcfe40ecaa09fb8e38265f]**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;
+- “[^c-9403f245d4bcfe40ecaa09fb8e38265f]**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;
 - “applicant” (“*ceisydd*”) means the owner or occupier of the monument making an application for a review;
-- “appointed person” (“*person penodedig*”) means a person appointed by the Welsh Ministers under section 9(3) of the 2023 Act[^key-130342cd347157854158643342d1187d];
-- “hearing” (“*gwrandawiad*”) means a hearing held under section 10(2)(b) of the 2023 Act[^key-88310d96f8257d68fd0d15b950add73e] (review of decisions on certain amendments relating to the Schedule);
-- “inquiry” (“*ymchwiliad*”) means a [^key-9f68b389dcb23e8ce13c971c32468a34]... local inquiry held under section 10(2)(a) of the 2023 Act[^key-332d4133b5f9791f1d0971d5fa619fb6];
+- “appointed person” (“*person penodedig*”) means a person appointed by the Welsh Ministers under section 9(3) of the 2023 Act[^c-130342cd347157854158643342d1187d];
+- “hearing” (“*gwrandawiad*”) means a hearing held under section 10(2)(b) of the 2023 Act[^c-88310d96f8257d68fd0d15b950add73e] (review of decisions on certain amendments relating to the Schedule);
+- “inquiry” (“*ymchwiliad*”) means a [^c-9f68b389dcb23e8ce13c971c32468a34]... local inquiry held under section 10(2)(a) of the 2023 Act[^c-332d4133b5f9791f1d0971d5fa619fb6];
 - “inquiry statement” (“*datganiad ymchwiliad*”) has the meaning given in regulation 17(1)(a);
-- “interested person” (“*person â buddiant*”) means any person, other than the applicant, notified or consulted under section 5 of the 2023 Act (consultation before adding or removing monument to or from the Schedule)[^key-00ba3665caf347f68e138316d185554e] about the Welsh Ministers’ proposal to—
+- “interested person” (“*person â buddiant*”) means any person, other than the applicant, notified or consulted under section 5 of the 2023 Act (consultation before adding or removing monument to or from the Schedule)[^c-00ba3665caf347f68e138316d185554e] about the Welsh Ministers’ proposal to—
   - (a) include the monument to which a review relates in the Schedule; or
-  - (b) make a material amendment of the kind described in section 5(1)(c) of the 2023 Act[^key-515c951cc1b0cde61f3247b1928ac8f9] to the monument in the Schedule;
-- “review” (“*adolygiad*”) means a review carried out under section 9 of the 2023 Act[^key-20929301bea1b226f1c79b50381a6235];
+  - (b) make a material amendment of the kind described in section 5(1)(c) of the 2023 Act[^c-515c951cc1b0cde61f3247b1928ac8f9] to the monument in the Schedule;
+- “review” (“*adolygiad*”) means a review carried out under section 9 of the 2023 Act[^c-20929301bea1b226f1c79b50381a6235];
 - “specified matters” (“*materion penodedig*”) are, in relation to a review carried out by means of a hearing or an inquiry, the matters as specified by the appointed person to be considered at the hearing or inquiry;
 - “starting date” (“*dyddiad dechrau*”) has the meaning given in regulation 6(1)(a);
 - “the Welsh Ministers’ review statement” (“*datganiad Gweinidogion Cymru ar yr adolygiad*”) has the meaning given in regulation 8(1).
 
 ## PART 2 — Initial Procedure: Decisions by appointed person, grounds for review and applications for review
 
-### 3. Classes of review to be decided by an appointed person[^key-66eec5fe0d8588e28f6cc406c6be2d87]
+### 3. Classes of review to be decided by an appointed person[^c-66eec5fe0d8588e28f6cc406c6be2d87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Grounds for review[^key-8460e8335327454c09914afe5517f59f]
+### 4. Grounds for review[^c-8460e8335327454c09914afe5517f59f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Applications for review[^key-6386d45c15b0bbb28e5c4ec61fce753f]
+### 5. Applications for review[^c-6386d45c15b0bbb28e5c4ec61fce753f]
 
 (1) An application for a review must be made to the Welsh Ministers in accordance with this regulation.
 
@@ -96,16 +96,16 @@ In these Regulations—
   - (iv) a statement confirming whether the applicant is an owner or an occupier of the monument;
   - (v) the name and address of the representative of the applicant (if any) and confirmation as to whether any notice or other correspondence which is required by these Regulations to be sent to the applicant should be sent to the representative instead of the applicant;
   - (vi) a statement setting out the full particulars of the grounds for the review, including all the matters which the applicant intends to raise in the course of the review and which the applicant considers the appointed person should take into account in carrying out the review;
-  - (vii) a statement as to which of the ways (or combination of ways) mentioned in section 10(2) of the 2023 Act[^key-13afe95900b8f1906b97014020a55cd6] the applicant considers the review should be carried out; and
+  - (vii) a statement as to which of the ways (or combination of ways) mentioned in section 10(2) of the 2023 Act[^c-13afe95900b8f1906b97014020a55cd6] the applicant considers the review should be carried out; and
 - (b) the following—
   - (i) all documents, materials and evidence which the applicant intends to rely on in the course of the review;
-  - (ii) a copy of the notice served by the Welsh Ministers in relation to the monument under section 4(2) of the 2023 Act[^key-2d988770cac038d51945a4f6d2581087];
-  - (iii) where the applicant is not an owner of the monument but an owner is known to the applicant, a declaration[^key-38fe839120d749f28ad6899f74c8307f] confirming that the owner of the monument has been informed of the applicant’s intention to request the review;
-  - (iv) where the applicant is not an owner of the monument and an owner is not known to the applicant, a signed declaration[^key-278d2bc2608456489d03623f8b6139de] confirming that the applicant has taken all reasonable steps to identify any such owner but has been unable to do so.
+  - (ii) a copy of the notice served by the Welsh Ministers in relation to the monument under section 4(2) of the 2023 Act[^c-2d988770cac038d51945a4f6d2581087];
+  - (iii) where the applicant is not an owner of the monument but an owner is known to the applicant, a declaration[^c-38fe839120d749f28ad6899f74c8307f] confirming that the owner of the monument has been informed of the applicant’s intention to request the review;
+  - (iv) where the applicant is not an owner of the monument and an owner is not known to the applicant, a signed declaration[^c-278d2bc2608456489d03623f8b6139de] confirming that the applicant has taken all reasonable steps to identify any such owner but has been unable to do so.
 
-(3) An application must be made within the period of 12 weeks beginning with the date on which notice was served on an owner or occupier of the monument under section 4(2) of the 2023 Act[^key-9647c23b2150fc2a2552cbd1a5a33de1].
+(3) An application must be made within the period of 12 weeks beginning with the date on which notice was served on an owner or occupier of the monument under section 4(2) of the 2023 Act[^c-9647c23b2150fc2a2552cbd1a5a33de1].
 
-### 6. Notification of receipt of application for review and related requirements[^key-09c50a7a8022f096d49dcbe79b0fedd6]
+### 6. Notification of receipt of application for review and related requirements[^c-09c50a7a8022f096d49dcbe79b0fedd6]
 
 (1) The appointed person must as soon as practicable after receiving an application in accordance with regulation 5 advise the applicant and the Welsh Ministers in writing of—
 
@@ -113,11 +113,11 @@ In these Regulations—
 - (b) the reference number allocated to the review; and
 - (c) the address to which written communications about the review are to be sent.
 
-(2) The Welsh Ministers must within the period of three working days beginning with the day on which they received notification under paragraph (1) send to the applicant and the appointed person a copy of any representation previously made to the Welsh Ministers under section 5 of the 2023 Act[^key-9b312b32b4381703fdd76ce9c690cc97] by any interested person.
+(2) The Welsh Ministers must within the period of three working days beginning with the day on which they received notification under paragraph (1) send to the applicant and the appointed person a copy of any representation previously made to the Welsh Ministers under section 5 of the 2023 Act[^c-9b312b32b4381703fdd76ce9c690cc97] by any interested person.
 
 (3) In this regulation “working day” means a day other than a Saturday, Sunday, Christmas Day, Good Friday or a bank holiday.
 
-### 7. Notice to interested persons and others[^key-1c36e11b350c9efac330723563426d98]
+### 7. Notice to interested persons and others[^c-1c36e11b350c9efac330723563426d98]
 
 (1) The appointed person must as soon as practicable after the expiration of the period referred to in regulation 6(2) give written notice of the review to—
 
@@ -128,12 +128,12 @@ In these Regulations—
 
 - (a) state the name of the applicant and the address of the monument to which the review relates;
 - (b) set out the matters notified to the applicant under regulation 6(1);
-- (c) confirm that copies of any representations previously made to the Welsh Ministers under section 5 of the 2023 Act[^key-48e8ad30da92ac5afb5f346bd673b8a7] by any interested person have been sent to the applicant by the Welsh Ministers;
+- (c) confirm that copies of any representations previously made to the Welsh Ministers under section 5 of the 2023 Act[^c-48e8ad30da92ac5afb5f346bd673b8a7] by any interested person have been sent to the applicant by the Welsh Ministers;
 - (d) state that any such representations will be considered by the appointed person when making a decision on the review;
 - (e) state that further written representations may be made to the appointed person in accordance with regulation 9(2); and
 - (f) state how a copy of the application for review and other documents related to the review may be inspected.
 
-### 8. Welsh Ministers’ review statement[^key-65d0a7c82cf42828a17c3875ea5277f1]
+### 8. Welsh Ministers’ review statement[^c-65d0a7c82cf42828a17c3875ea5277f1]
 
 (1) The Welsh Ministers must, within the period of four weeks beginning on the starting date, send to the applicant and the appointed person a statement setting out all the matters which the Welsh Ministers intend to raise in the course of the review and which they consider should be taken into account by the appointed person in carrying out the review (“the Welsh Ministers’ review statement”).
 
@@ -147,20 +147,20 @@ In these Regulations—
 
 ## PART 3 — Written representations
 
-### 9. Written representations procedure[^key-3e864ffb53ad538589ea611d8ef2eaa7]
+### 9. Written representations procedure[^c-3e864ffb53ad538589ea611d8ef2eaa7]
 
-(1) Subject to paragraph (2), the following documents will be deemed for the purposes of section 10(2)(c) of the 2023 Act[^key-ce2a37ce36f84f0ceb52a46ecc387777] to comprise the following persons’ written representations in relation to the review—
+(1) Subject to paragraph (2), the following documents will be deemed for the purposes of section 10(2)(c) of the 2023 Act[^c-ce2a37ce36f84f0ceb52a46ecc387777] to comprise the following persons’ written representations in relation to the review—
 
 - (a) in the case of the applicant—
   - (i) an application made in accordance with regulation 5; and
   - (ii) any written comments made under regulation 8(3);
 - (b) in the case of the Welsh Ministers, the Welsh Ministers’ review statement and accompanying documents, materials and evidence;
-- (c) in the case of an interested person, any written representations previously made under section 5 of the 2023 Act[^key-55f5fb703af1b8408f7719b528869f19] by that person;
+- (c) in the case of an interested person, any written representations previously made under section 5 of the 2023 Act[^c-55f5fb703af1b8408f7719b528869f19] by that person;
 - (d) in the case of any person or body given notice under regulation 7(1)(b), any written representations previously made by such person or body about the Welsh Ministers’ proposal to—
   - (i) include the monument to which a review relates in the Schedule; or
-  - (ii)[^key-912ad2660dca95baf2703b82e1238161] make an amendment under section 5(1)(c) of the 2023 Act.
+  - (ii)[^c-912ad2660dca95baf2703b82e1238161] make an amendment under section 5(1)(c) of the 2023 Act.
 
-(2) An interested person or any person or body given notice under regulation 7(1)(b) may, in addition to the representations referred to in paragraph (1)(c) or (d) (whichever the case may be), make further written representations under section 10(2)(c) of the 2023 Act[^key-3d9f7a7cc8968da3675af41d5c6085ea], and where doing so must send three copies of such representations to the appointed person within the period of four weeks beginning on the starting date.
+(2) An interested person or any person or body given notice under regulation 7(1)(b) may, in addition to the representations referred to in paragraph (1)(c) or (d) (whichever the case may be), make further written representations under section 10(2)(c) of the 2023 Act[^c-3d9f7a7cc8968da3675af41d5c6085ea], and where doing so must send three copies of such representations to the appointed person within the period of four weeks beginning on the starting date.
 
 (3) The appointed person must, as soon as practicable after receipt of any representations made under paragraph (2), send a copy of such representations to the applicant and the Welsh Ministers.
 
@@ -173,13 +173,13 @@ In these Regulations—
 
 (6) Where paragraphs (2) to (4) impose a requirement on any person or body to send more than a single copy of any written representations or comments (whichever the case may be) to any other person or body, such requirement is to be construed as permitting the sending of only a single version of that document for the purpose of satisfying that requirement in any case where the person upon whom the requirement is imposed elects to send the representations or comments by means of electronic communications.
 
-### 10. Appointment of assessor[^key-dc773f8969398318133624a447456c57]
+### 10. Appointment of assessor[^c-dc773f8969398318133624a447456c57]
 
-Where an assessor is appointed under paragraph 3(b) of Schedule 2 to the 2023 Act[^key-01163c4e7bfcce81ecf7ff3712c6a170] (decisions on reviews by person appointed by Welsh Ministers), the appointed person must notify in writing the applicant and the Welsh Ministers of the appointment, the name of the person appointed and the matters on which they will advise.
+Where an assessor is appointed under paragraph 3(b) of Schedule 2 to the 2023 Act[^c-01163c4e7bfcce81ecf7ff3712c6a170] (decisions on reviews by person appointed by Welsh Ministers), the appointed person must notify in writing the applicant and the Welsh Ministers of the appointment, the name of the person appointed and the matters on which they will advise.
 
 ## PART 4 — Hearings
 
-### 11. Notice of hearing, specified matters and appearances at hearing[^key-4034721303afd0638e3435069d6db0cb]
+### 11. Notice of hearing, specified matters and appearances at hearing[^c-4034721303afd0638e3435069d6db0cb]
 
 (1) Where the appointed person decides that a review is to be carried out by means of a hearing, they must give written notice to that effect to—
 
@@ -193,13 +193,13 @@ Where an assessor is appointed under paragraph 3(b) of Schedule 2 to the 2023 Ac
 
 (4) The attendance at the hearing of any person who is not entitled to appear is subject to the discretion of the appointed person.
 
-### 12. Date and notification of hearing[^key-5b340b46b866e8210da087c9bb6c7770]
+### 12. Date and notification of hearing[^c-5b340b46b866e8210da087c9bb6c7770]
 
 (1) The appointed person must determine (and may subsequently vary) the date, time and place at which the hearing is to be held.
 
 (2) Subject to regulation 13(10), the appointed person must give to those persons entitled to appear at the hearing not less than four weeks notice of the date, time and place fixed for the holding of the hearing (and any subsequent variation thereof).
 
-### 13. Procedure at hearing[^key-136941d0803ce560c10f47725e48e338]
+### 13. Procedure at hearing[^c-136941d0803ce560c10f47725e48e338]
 
 (1) Except as otherwise provided in this Part, the procedure at a hearing is to be as the appointed person determines.
 
@@ -232,13 +232,13 @@ but any such person may submit to the appointed person any evidence or other mat
 
 (10) Where paragraph (9)(b) applies, the appointed person may give to those persons entitled to appear at the hearing less than four weeks notice of the date, time and place fixed for the resumption of the hearing (and any subsequent variation thereof) in any case where such shorter period is agreed between the applicant, appointed person and the Welsh Ministers.
 
-### 14. Appointment of assessor[^key-a93045ccb2a6a9782fc45f4912612175]
+### 14. Appointment of assessor[^c-a93045ccb2a6a9782fc45f4912612175]
 
-Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Act[^key-aaa4464a8278ae7eb539d7890f4a7c2e], the appointed person must notify in writing the persons entitled to appear at the hearing of the appointment, the name of the person appointed and the matters on which they will advise.
+Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Act[^c-aaa4464a8278ae7eb539d7890f4a7c2e], the appointed person must notify in writing the persons entitled to appear at the hearing of the appointment, the name of the person appointed and the matters on which they will advise.
 
 ## PART 5 — Inquiries procedure
 
-### 15. Notice of inquiry, specified matters and appearances at inquiry[^key-459df4a5a9bd41e8f57a1333e7c2adf8]
+### 15. Notice of inquiry, specified matters and appearances at inquiry[^c-459df4a5a9bd41e8f57a1333e7c2adf8]
 
 (1) Where the appointed person decides that a review is to be carried out by means of an inquiry, they must give notice to that effect to—
 
@@ -250,7 +250,7 @@ Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Ac
 
 (3) The persons entitled to appear at the inquiry are those referred to in paragraph (1)(a) to (c).
 
-### 16. Date and notification of, and publicity in relation to, inquiry[^key-c634370a11d66c2ccc629de8a8bfa326]
+### 16. Date and notification of, and publicity in relation to, inquiry[^c-c634370a11d66c2ccc629de8a8bfa326]
 
 (1) The appointed person must determine (and may subsequently vary) the date, time and place at which the inquiry is to be held.
 
@@ -258,7 +258,7 @@ Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Ac
 
 (3) The appointed person may make further arrangements for publicising the holding of the inquiry as they consider appropriate in the circumstances.
 
-### 17. Service of inquiry statements, documents etc.[^key-384da8bbe0035f7e014522ebb1bf3ea4]
+### 17. Service of inquiry statements, documents etc.[^c-384da8bbe0035f7e014522ebb1bf3ea4]
 
 (1) The appointed person may by written notice require that any person or body entitled to appear at the inquiry must, by such date as is specified in the notice, send to the appointed person and such other persons or bodies specified in the notice—
 
@@ -274,7 +274,7 @@ Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Ac
   - (ii) the matters in respect of which such persons are to give evidence; and
   - (iii) the relevant qualifications of such persons to do so.
 
-### 18. Procedure at inquiry[^key-210b4c07707f0ee6661268091756d4d9]
+### 18. Procedure at inquiry[^c-210b4c07707f0ee6661268091756d4d9]
 
 (1) Except as otherwise provided in this Part, the procedure at an inquiry is to be as the appointed person determines.
 
@@ -315,19 +315,19 @@ but any such person may submit to the appointed person any evidence or other mat
 
 (11) Where paragraph (10)(b) applies, the appointed person may give to those persons entitled to appear at the inquiry less than four weeks notice of the date, time and place fixed for the resumption of the inquiry (and any subsequent variation thereof) in any case where such shorter period is agreed between the applicant, appointed person and the Welsh Ministers.
 
-### 19. Appointment of assessor[^key-69b7d95a62d82483d4fb32d07479a480]
+### 19. Appointment of assessor[^c-69b7d95a62d82483d4fb32d07479a480]
 
-Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Act[^key-337295e5884cd1caf2c020446749243f], the appointed person must notify in writing the persons entitled to appear at the inquiry of the appointment, the name of the person appointed and the matters on which they will advise.
+Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Act[^c-337295e5884cd1caf2c020446749243f], the appointed person must notify in writing the persons entitled to appear at the inquiry of the appointment, the name of the person appointed and the matters on which they will advise.
 
 ## PART 6 — Supplementary matters
 
-**20.**[^key-aeb0233d9c7fe6bed3ae6fc2ada92a56] (1) The appointed person may in writing, at any time before they give their decision on the review, require the applicant, the Welsh Ministers, any interested person or any other person or body to provide such further information relevant to the review as may be specified.
+**20.**[^c-aeb0233d9c7fe6bed3ae6fc2ada92a56] (1) The appointed person may in writing, at any time before they give their decision on the review, require the applicant, the Welsh Ministers, any interested person or any other person or body to provide such further information relevant to the review as may be specified.
 
 (2) Such information must be provided in writing within such period as the appointed person may specify.
 
 (3) Where the appointed person requires further information under paragraph (1), they must allow the applicant and the Welsh Ministers the opportunity to comment on the information so provided in accordance with such arrangements as they consider appropriate.
 
-### 21. Site inspections[^key-5a67f4cf4bccf3d6c176eebae6ace27f]
+### 21. Site inspections[^c-5a67f4cf4bccf3d6c176eebae6ace27f]
 
 (1) The appointed person may at any time carry out—
 
@@ -347,11 +347,11 @@ Where an assessor is appointed under paragraph 3(a) of Schedule 2 to the 2023 Ac
 
 (3) The appointed person is not bound to defer an inspection if any person invited to accompany them under paragraph (2)(b)(ii) is not present at the time appointed.
 
-### 22. Allowing further time[^key-bace7ea552ef447b469cdbfecf9589e6]
+### 22. Allowing further time[^c-bace7ea552ef447b469cdbfecf9589e6]
 
 The appointed person may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these Regulations; and references in these Regulations to a period within which any step is required or enabled to be taken are to be construed accordingly.
 
-### 23. Publication of review documents[^key-44f3b6160512752f3015a971115e8dbe]
+### 23. Publication of review documents[^c-44f3b6160512752f3015a971115e8dbe]
 
 (1) The appointed person must, as soon as reasonably practicable after receipt, make available for inspection copies of the materials referred to in paragraph (2).
 
@@ -362,7 +362,7 @@ The appointed person may at any time in any particular case allow further time f
 
 ## PART 7 — Decisions on review
 
-### 24. Notification of decision[^key-8cbadb1aee44985cb9ec5424ea904c03]
+### 24. Notification of decision[^c-8cbadb1aee44985cb9ec5424ea904c03]
 
 The appointed person, having concluded that no further evidence is required so as to enable them to make their decision on the review, must as soon as reasonably practicable notify their decision, and the reasons for reaching it, to—
 
@@ -373,7 +373,7 @@ The appointed person, having concluded that no further evidence is required so a
 
 ## PART 8 — Costs incurred in relation to review
 
-**25.**[^key-4acf22aed181a01f6ea54fff9b710248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4acf22aed181a01f6ea54fff9b710248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Ken Skates
 
@@ -405,98 +405,98 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-0797af0f7794ffaa55621d6946223e2d]: Commencement: Reg. 1 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-0797af0f7794ffaa55621d6946223e2d]: Commencement: Reg. 1 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-c940ca63562dc0e4d0cd0f7681cf3175]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/3) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [114](https://www.legislation.gov.uk/uksi/2024/924/regulation/114)
+[^c-c940ca63562dc0e4d0cd0f7681cf3175]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/3) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [114](https://www.legislation.gov.uk/uksi/2024/924/regulation/114)
 
-[^key-f1f3293350814985f151b540b063945f]: Commencement: Reg. 2 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-f1f3293350814985f151b540b063945f]: Commencement: Reg. 2 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-9403f245d4bcfe40ecaa09fb8e38265f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/a)
+[^c-9403f245d4bcfe40ecaa09fb8e38265f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/a)
 
-[^key-130342cd347157854158643342d1187d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/b)
+[^c-130342cd347157854158643342d1187d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/b)
 
-[^key-88310d96f8257d68fd0d15b950add73e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/c)
+[^c-88310d96f8257d68fd0d15b950add73e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/c)
 
-[^key-9f68b389dcb23e8ce13c971c32468a34]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(d)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/d/i)
+[^c-9f68b389dcb23e8ce13c971c32468a34]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(d)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/d/i)
 
-[^key-332d4133b5f9791f1d0971d5fa619fb6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(d)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/d/ii)
+[^c-332d4133b5f9791f1d0971d5fa619fb6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(d)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/d/ii)
 
-[^key-00ba3665caf347f68e138316d185554e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(e)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/e/i)
+[^c-00ba3665caf347f68e138316d185554e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(e)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/e/i)
 
-[^key-515c951cc1b0cde61f3247b1928ac8f9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(e)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/e/ii)
+[^c-515c951cc1b0cde61f3247b1928ac8f9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(e)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/e/ii)
 
-[^key-20929301bea1b226f1c79b50381a6235]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(f)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/f)
+[^c-20929301bea1b226f1c79b50381a6235]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2017/643/regulation/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [115(f)](https://www.legislation.gov.uk/wsi/2024/924/regulation/115/f)
 
-[^key-66eec5fe0d8588e28f6cc406c6be2d87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/643/regulation/3) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [116](https://www.legislation.gov.uk/wsi/2024/924/regulation/116)
+[^c-66eec5fe0d8588e28f6cc406c6be2d87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/643/regulation/3) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [116](https://www.legislation.gov.uk/wsi/2024/924/regulation/116)
 
-[^key-8460e8335327454c09914afe5517f59f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/643/regulation/4) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [116](https://www.legislation.gov.uk/wsi/2024/924/regulation/116)
+[^c-8460e8335327454c09914afe5517f59f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/643/regulation/4) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [116](https://www.legislation.gov.uk/wsi/2024/924/regulation/116)
 
-[^key-6386d45c15b0bbb28e5c4ec61fce753f]: Commencement: Reg. 5 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-6386d45c15b0bbb28e5c4ec61fce753f]: Commencement: Reg. 5 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-13afe95900b8f1906b97014020a55cd6]: Textual amendment: Words in [reg. 5(2)(a)(vii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/a/vii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/a)
+[^c-13afe95900b8f1906b97014020a55cd6]: Textual amendment: Words in [reg. 5(2)(a)(vii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/a/vii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/a)
 
-[^key-2d988770cac038d51945a4f6d2581087]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/i)
+[^c-2d988770cac038d51945a4f6d2581087]: Textual amendment: Words in [reg. 5(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/i)
 
-[^key-38fe839120d749f28ad6899f74c8307f]: Textual amendment: Word in [reg. 5(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/iii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/ii)
+[^c-38fe839120d749f28ad6899f74c8307f]: Textual amendment: Word in [reg. 5(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/iii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/ii)
 
-[^key-278d2bc2608456489d03623f8b6139de]: Textual amendment: Word in [reg. 5(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/iv) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/ii)
+[^c-278d2bc2608456489d03623f8b6139de]: Textual amendment: Word in [reg. 5(2)(b)(iv)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/2/b/iv) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/b/ii)
 
-[^key-9647c23b2150fc2a2552cbd1a5a33de1]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/3) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/c)
+[^c-9647c23b2150fc2a2552cbd1a5a33de1]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2017/643/regulation/5/3) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [117(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/117/c)
 
-[^key-09c50a7a8022f096d49dcbe79b0fedd6]: Commencement: Reg. 6 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-09c50a7a8022f096d49dcbe79b0fedd6]: Commencement: Reg. 6 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-9b312b32b4381703fdd76ce9c690cc97]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2017/643/regulation/6/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [118](https://www.legislation.gov.uk/wsi/2024/924/regulation/118)
+[^c-9b312b32b4381703fdd76ce9c690cc97]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2017/643/regulation/6/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [118](https://www.legislation.gov.uk/wsi/2024/924/regulation/118)
 
-[^key-1c36e11b350c9efac330723563426d98]: Commencement: Reg. 7 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-1c36e11b350c9efac330723563426d98]: Commencement: Reg. 7 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-48e8ad30da92ac5afb5f346bd673b8a7]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2017/643/regulation/7/2/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [119](https://www.legislation.gov.uk/wsi/2024/924/regulation/119)
+[^c-48e8ad30da92ac5afb5f346bd673b8a7]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2017/643/regulation/7/2/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [119](https://www.legislation.gov.uk/wsi/2024/924/regulation/119)
 
-[^key-65d0a7c82cf42828a17c3875ea5277f1]: Commencement: Reg. 8 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-65d0a7c82cf42828a17c3875ea5277f1]: Commencement: Reg. 8 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-3e864ffb53ad538589ea611d8ef2eaa7]: Commencement: Reg. 9 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-3e864ffb53ad538589ea611d8ef2eaa7]: Commencement: Reg. 9 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-ce2a37ce36f84f0ceb52a46ecc387777]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/a)
+[^c-ce2a37ce36f84f0ceb52a46ecc387777]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/a)
 
-[^key-55f5fb703af1b8408f7719b528869f19]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/b)
+[^c-55f5fb703af1b8408f7719b528869f19]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1/c) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/b)
 
-[^key-912ad2660dca95baf2703b82e1238161]: Textual amendment: [Reg. 9(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1/d/ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/c)
+[^c-912ad2660dca95baf2703b82e1238161]: Textual amendment: [Reg. 9(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/1/d/ii) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(c)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/c)
 
-[^key-3d9f7a7cc8968da3675af41d5c6085ea]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(d)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/d)
+[^c-3d9f7a7cc8968da3675af41d5c6085ea]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/wsi/2017/643/regulation/9/2) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [120(d)](https://www.legislation.gov.uk/wsi/2024/924/regulation/120/d)
 
-[^key-dc773f8969398318133624a447456c57]: Commencement: Reg. 10 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-dc773f8969398318133624a447456c57]: Commencement: Reg. 10 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-01163c4e7bfcce81ecf7ff3712c6a170]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/wsi/2017/643/regulation/10) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [121](https://www.legislation.gov.uk/wsi/2024/924/regulation/121)
+[^c-01163c4e7bfcce81ecf7ff3712c6a170]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/wsi/2017/643/regulation/10) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [121](https://www.legislation.gov.uk/wsi/2024/924/regulation/121)
 
-[^key-4034721303afd0638e3435069d6db0cb]: Commencement: Reg. 11 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-4034721303afd0638e3435069d6db0cb]: Commencement: Reg. 11 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-5b340b46b866e8210da087c9bb6c7770]: Commencement: Reg. 12 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-5b340b46b866e8210da087c9bb6c7770]: Commencement: Reg. 12 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-136941d0803ce560c10f47725e48e338]: Commencement: Reg. 13 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-136941d0803ce560c10f47725e48e338]: Commencement: Reg. 13 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-a93045ccb2a6a9782fc45f4912612175]: Commencement: Reg. 14 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-a93045ccb2a6a9782fc45f4912612175]: Commencement: Reg. 14 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-aaa4464a8278ae7eb539d7890f4a7c2e]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/wsi/2017/643/regulation/14) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [122](https://www.legislation.gov.uk/wsi/2024/924/regulation/122)
+[^c-aaa4464a8278ae7eb539d7890f4a7c2e]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/wsi/2017/643/regulation/14) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [122](https://www.legislation.gov.uk/wsi/2024/924/regulation/122)
 
-[^key-459df4a5a9bd41e8f57a1333e7c2adf8]: Commencement: Reg. 15 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-459df4a5a9bd41e8f57a1333e7c2adf8]: Commencement: Reg. 15 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-c634370a11d66c2ccc629de8a8bfa326]: Commencement: Reg. 16 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-c634370a11d66c2ccc629de8a8bfa326]: Commencement: Reg. 16 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-384da8bbe0035f7e014522ebb1bf3ea4]: Commencement: Reg. 17 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-384da8bbe0035f7e014522ebb1bf3ea4]: Commencement: Reg. 17 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-210b4c07707f0ee6661268091756d4d9]: Commencement: Reg. 18 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-210b4c07707f0ee6661268091756d4d9]: Commencement: Reg. 18 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-69b7d95a62d82483d4fb32d07479a480]: Commencement: Reg. 19 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-69b7d95a62d82483d4fb32d07479a480]: Commencement: Reg. 19 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-337295e5884cd1caf2c020446749243f]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/wsi/2017/643/regulation/19) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [123](https://www.legislation.gov.uk/wsi/2024/924/regulation/123)
+[^c-337295e5884cd1caf2c020446749243f]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/wsi/2017/643/regulation/19) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [123](https://www.legislation.gov.uk/wsi/2024/924/regulation/123)
 
-[^key-aeb0233d9c7fe6bed3ae6fc2ada92a56]: Commencement: Reg. 20 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-aeb0233d9c7fe6bed3ae6fc2ada92a56]: Commencement: Reg. 20 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-5a67f4cf4bccf3d6c176eebae6ace27f]: Commencement: Reg. 21 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-5a67f4cf4bccf3d6c176eebae6ace27f]: Commencement: Reg. 21 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-bace7ea552ef447b469cdbfecf9589e6]: Commencement: Reg. 22 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-bace7ea552ef447b469cdbfecf9589e6]: Commencement: Reg. 22 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-44f3b6160512752f3015a971115e8dbe]: Commencement: Reg. 23 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-44f3b6160512752f3015a971115e8dbe]: Commencement: Reg. 23 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-8cbadb1aee44985cb9ec5424ea904c03]: Commencement: Reg. 24 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
+[^c-8cbadb1aee44985cb9ec5424ea904c03]: Commencement: Reg. 24 in force at 31.5.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/643/regulation/1/1)
 
-[^key-4acf22aed181a01f6ea54fff9b710248]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/643/regulation/25) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [124](https://www.legislation.gov.uk/wsi/2024/924/regulation/124)
+[^c-4acf22aed181a01f6ea54fff9b710248]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/643/regulation/25) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [124](https://www.legislation.gov.uk/wsi/2024/924/regulation/124)

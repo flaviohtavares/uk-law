@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46B. Good repute[^key-56f3a321df3e95cd5ac28218c6777526]
+## 46B. Good repute[^c-56f3a321df3e95cd5ac28218c6777526]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) Without prejudice to the generality of the Department’s powers under subsection (1), to determine that a person engaged in the transport of passengers is not of good repute, the Department shall determine that that person is not of good repute if that person has—
 
 - (a) been convicted of a serious offence (within the meaning given in subsection (5));
-- (b)[^key-ab56af8fb9dbe5bbcbdefb558f9d6920] incurred a conviction or penalty for a most serious infringement; or
+- (b)[^c-ab56af8fb9dbe5bbcbdefb558f9d6920] incurred a conviction or penalty for a most serious infringement; or
 - (c) been convicted of, or incurred a penalty for, a road transport offence.
 
 (5) A person engaged in the transport of passengers has a conviction for a “serious offence” if—
@@ -52,7 +52,7 @@ summary: ''
 - (a) “a sentence of imprisonment” includes a reference to any form of custodial sentence or order, other than one imposed under the Mental Health (Northern Ireland) Order 1986, or any corresponding statutory provision in any part of the United Kingdom or any corresponding provision in any country or territory outside the United Kingdom;
 - (b) “community service order” means an order under Article 13 of the Criminal Justice (Northern Ireland) Order 1996;
 - (c) “community payback order” means an order under section 227A of the Criminal Procedure (Scotland) Act 1995;
-- (ca)[^key-b4a9fe60e0d3bb2d68c1533b4f8e4a76] “most serious infringement” means—
+- (ca)[^c-b4a9fe60e0d3bb2d68c1533b4f8e4a76] “most serious infringement” means—
   - (i) an infringement referred to in Annex 4 of the 2009 Regulation;
   - (ii) an infringement referred to in Commission Regulation (EU) 2016/403 which that Regulation classifies as a “most serious infringement”; or
   - (iii) an infringement referred to in regulations made under Article 6.2(b) of the 2009 Regulation which the regulations define as having the highest degree of seriousness of infringements which the regulations establish;
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-56f3a321df3e95cd5ac28218c6777526]: Textual amendment: S. 46B substituted (18.8.2014) by [The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014 (S.R. 2014/206)](https://www.legislation.gov.uk/nisr/2014/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2014/206/regulation/9/9)
+[^c-56f3a321df3e95cd5ac28218c6777526]: Textual amendment: S. 46B substituted (18.8.2014) by [The Road Passenger Transport (Qualifications of Operators) Regulations (Northern Ireland) 2014 (S.R. 2014/206)](https://www.legislation.gov.uk/nisr/2014/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2014/206/regulation/9/9)
 
-[^key-ab56af8fb9dbe5bbcbdefb558f9d6920]: Textual amendment: S. 46B(4)(b) substituted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/973/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab56af8fb9dbe5bbcbdefb558f9d6920]: Textual amendment: S. 46B(4)(b) substituted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2019/973/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4a9fe60e0d3bb2d68c1533b4f8e4a76]: Textual amendment: S. 46B(7)(ca) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/973/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4a9fe60e0d3bb2d68c1533b4f8e4a76]: Textual amendment: S. 46B(7)(ca) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/973/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

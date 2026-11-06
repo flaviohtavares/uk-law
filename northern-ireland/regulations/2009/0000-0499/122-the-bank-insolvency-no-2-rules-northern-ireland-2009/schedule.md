@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE[^key-0163a222d2c6eb73b776aa5f42eb91a6]
+## SCHEDULE[^c-0163a222d2c6eb73b776aa5f42eb91a6]
 
 *Extent: N.I.*
 
 Rule 288
 
-[^key-0163a222d2c6eb73b776aa5f42eb91a6]The following schedules of the 1991 Rules are applied to these Rules.
+[^c-0163a222d2c6eb73b776aa5f42eb91a6]The following schedules of the 1991 Rules are applied to these Rules.
 
 - (a) Schedule 1. For “Rule 4.078”, wherever it appears, substitute “rule 40”;
 - (b) Schedule 2;
@@ -31,4 +31,4 @@ Rule 288
 
 ## Annotations
 
-[^key-0163a222d2c6eb73b776aa5f42eb91a6]: Commencement: Sch. in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-0163a222d2c6eb73b776aa5f42eb91a6]: Commencement: Sch. in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

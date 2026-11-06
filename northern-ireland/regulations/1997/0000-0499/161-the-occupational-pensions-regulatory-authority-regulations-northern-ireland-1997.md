@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of powers conferred on it by Articles 10(1) and 94(2) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-329006f612f71959985a5e3b5ead0bcb]
+## 1. Citation, commencement and interpretation[^c-329006f612f71959985a5e3b5ead0bcb]
 
 (1) These Regulations may be cited as the Occupational Pensions Regulatory Authority Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -48,11 +48,11 @@ The Department of Health and Social Services, in exercise of powers conferred on
 
 (3) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00002], where a period of time is expressed to begin on, or be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Application to the Authority for a review[^key-ec7a153869bfe4dbe43aa3263f40b472]
+## 2. Application to the Authority for a review[^c-ec7a153869bfe4dbe43aa3263f40b472]
 
 For the purposes of Article 94(2) (decisions the Authority must review on application being made within prescribed period), the prescribed period is 28 days beginning with the date of the notice referred to in regulation 2 of the Occupational Pensions Regulatory Authority (Determinations and Review Procedure) Regulations 1997[^f00003].
 
-## 3. Time limits for payment of civil penalties under Article 10(1)[^key-2b026c9a93f20834a7a05652d0c4ed68]
+## 3. Time limits for payment of civil penalties under Article 10(1)[^c-2b026c9a93f20834a7a05652d0c4ed68]
 
 For the purposes of Article 10(1) (civil penalties) the period prescribed for the payment of a penalty to the Authority shall be 28 days beginning with the date of the notice in writing sent by the Authority requiring payment of that penalty.
 
@@ -82,12 +82,12 @@ As these Regulations make in relation to Northern Ireland only provision contain
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-329006f612f71959985a5e3b5ead0bcb]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
+[^c-329006f612f71959985a5e3b5ead0bcb]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ec7a153869bfe4dbe43aa3263f40b472]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
+[^c-ec7a153869bfe4dbe43aa3263f40b472]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1997/794](https://www.legislation.gov.uk/uksi/1997/794)
 
-[^key-2b026c9a93f20834a7a05652d0c4ed68]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)
+[^c-2b026c9a93f20834a7a05652d0c4ed68]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/161/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Proceeds of fund-raising: power of charity trustees to apply cy-près[^key-7e114d4a7fac161b0cddfc28f91fac23][^key-5f03ce1bcef67d0697c2e113b90155fd]
+## 7. Proceeds of fund-raising: power of charity trustees to apply cy-près[^c-7e114d4a7fac161b0cddfc28f91fac23][^c-5f03ce1bcef67d0697c2e113b90155fd]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ After section 67 of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-7e114d4a7fac161b0cddfc28f91fac23]: Commencement: S. 7 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-7e114d4a7fac161b0cddfc28f91fac23]: Commencement: S. 7 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-5f03ce1bcef67d0697c2e113b90155fd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/6/section/7) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/4)
+[^c-5f03ce1bcef67d0697c2e113b90155fd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/6/section/7) in force at 31.10.2022 by [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/4)

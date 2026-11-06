@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Preferential debts: Great Britain[^key-c92c420ab5160c872e5a63d0bfa88a3c]
+## 13. Preferential debts: Great Britain[^c-c92c420ab5160c872e5a63d0bfa88a3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c92c420ab5160c872e5a63d0bfa88a3c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/33/section/13) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/a)
+[^c-c92c420ab5160c872e5a63d0bfa88a3c]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/33/section/13) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/a)

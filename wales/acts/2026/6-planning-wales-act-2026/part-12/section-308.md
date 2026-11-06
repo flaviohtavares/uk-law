@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 308. Meaning of “the appropriate Minister” etc.[^key-ce5e38d789ccfac6de01cf749809bf8e]
+## 308. Meaning of “the appropriate Minister” etc.[^c-ce5e38d789ccfac6de01cf749809bf8e]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce5e38d789ccfac6de01cf749809bf8e]: Commencement: S. 308 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ce5e38d789ccfac6de01cf749809bf8e]: Commencement: S. 308 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Billing limits for mobile phones[^key-d49f192f4e1b0c47972fc17d58fa3b00]
+## 102. Billing limits for mobile phones[^c-d49f192f4e1b0c47972fc17d58fa3b00]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ In Chapter 1 of Part 2 of the Communications Act 2003 (electronic communications
 
 ## Annotations
 
-[^key-d49f192f4e1b0c47972fc17d58fa3b00]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102) in force at 1.10.2018 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)
+[^c-d49f192f4e1b0c47972fc17d58fa3b00]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102) in force at 1.10.2018 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)

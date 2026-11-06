@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Application of existing provisions of regulations[^key-116ffb0008f608b69d6dde2c37922765]
+## 81. Application of existing provisions of regulations[^c-116ffb0008f608b69d6dde2c37922765]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 makes provision about the application of existing provisions of regul
 
 ## Annotations
 
-[^key-116ffb0008f608b69d6dde2c37922765]: Commencement: Reg. 81 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-116ffb0008f608b69d6dde2c37922765]: Commencement: Reg. 81 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

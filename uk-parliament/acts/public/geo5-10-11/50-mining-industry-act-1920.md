@@ -29,7 +29,7 @@ Mining Industry Act 1920
 
 1920 c.50
 
-An Act to provide for the better administration of mines, and to regulate the coal industry, and for other purposes connected with the mining industry and the persons employed therein. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-541c40681339fdc47f540d4a3ddaf33b]
+An Act to provide for the better administration of mines, and to regulate the coal industry, and for other purposes connected with the mining industry and the persons employed therein. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-541c40681339fdc47f540d4a3ddaf33b]
 
 \[16th August 1920\][^c581885][^c581886]
 
@@ -125,7 +125,7 @@ This Act may be cited as the Mining Industry Act 1920.
 
 ## Annotations
 
-[^key-541c40681339fdc47f540d4a3ddaf33b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/10-11/50) repealed (E.W.N.I) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/4)
+[^c-541c40681339fdc47f540d4a3ddaf33b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/10-11/50) repealed (E.W.N.I) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/4)
 
 [^c581885]: Modification: Functions of Board of Trade under this Act now exercisable by Secretary of State: S.R. & O. 1942/1132 (Rev. XV, p. 99, 1942 p. 217), art. 2(1), [Ministry of Fuel and Power Act 1945 (c. 19)](https://www.legislation.gov.uk/ukpga/1945/19), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1945/19/section/1/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1945/19/schedule/1), [S.I](https://www.legislation.gov.uk/ukpga/1945/19/section/I). 1957/48 (1957 I, p. 1439), 1969/1498, art. 2(1) and 1970/1537, art. 2(2)
 

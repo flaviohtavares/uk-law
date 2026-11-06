@@ -40,7 +40,7 @@ summary: ''
 (4) In subsection (3) of that section—
 
 - (a) in paragraph (a), after the words “subsection (1)” there shall be inserted the words “ or (2A) ”; and
-- (b)[^key-258d89b2c7f802bccf11c9352727e368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-258d89b2c7f802bccf11c9352727e368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (4) of that section, after the words “subsection (1)” there shall be inserted the words “ or (2A) ”.
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-258d89b2c7f802bccf11c9352727e368]: Textual amendment: [S. 105(4)(b)](https://www.legislation.gov.uk/ukpga/1995/4/section/105/4/b) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/a); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-258d89b2c7f802bccf11c9352727e368]: Textual amendment: [S. 105(4)(b)](https://www.legislation.gov.uk/ukpga/1995/4/section/105/4/b) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/a); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)

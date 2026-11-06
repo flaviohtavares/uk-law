@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-The Medicines for Human Use (Marketing Authorisations Etc.) Amendment Regulations 2003 (revoked)[^key-6284d69209fd9453e4af62b3536ab4b3]
+The Medicines for Human Use (Marketing Authorisations Etc.) Amendment Regulations 2003 (revoked)[^c-6284d69209fd9453e4af62b3536ab4b3]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st October 2003
 
-[^key-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6284d69209fd9453e4af62b3536ab4b3]
+## 1. Citation, commencement and interpretation[^c-6284d69209fd9453e4af62b3536ab4b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 5 to the principal Regulations[^key-6284d69209fd9453e4af62b3536ab4b3]
+## 2. Amendment of Schedule 5 to the principal Regulations[^c-6284d69209fd9453e4af62b3536ab4b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 5A to the principal Regulations[^key-6284d69209fd9453e4af62b3536ab4b3]
+## 3. Amendment of Schedule 5A to the principal Regulations[^c-6284d69209fd9453e4af62b3536ab4b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6284d69209fd9453e4af62b3536ab4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6284d69209fd9453e4af62b3536ab4b3]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-6284d69209fd9453e4af62b3536ab4b3]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

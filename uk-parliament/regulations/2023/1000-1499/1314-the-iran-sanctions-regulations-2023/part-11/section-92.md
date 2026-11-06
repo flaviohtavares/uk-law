@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Restrictions on exercise of maritime enforcement powers[^key-43d8446bd2c341259e70ff916877bf17]
+## 92. Restrictions on exercise of maritime enforcement powers[^c-43d8446bd2c341259e70ff916877bf17]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43d8446bd2c341259e70ff916877bf17]: Commencement: Reg. 92 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-43d8446bd2c341259e70ff916877bf17]: Commencement: Reg. 92 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00051]: Footnote: Command 8941.

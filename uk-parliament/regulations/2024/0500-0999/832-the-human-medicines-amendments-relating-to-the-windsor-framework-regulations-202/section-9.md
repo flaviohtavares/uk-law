@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment to regulation C17[^key-f36a68d22a18ffa646c5a041d7ec8d32]
+## 9. Amendment to regulation C17[^c-f36a68d22a18ffa646c5a041d7ec8d32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation C17(1) (guidelines on good manufacturing practice and good distrib
 
 ## Annotations
 
-[^key-f36a68d22a18ffa646c5a041d7ec8d32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/832/regulation/9) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f36a68d22a18ffa646c5a041d7ec8d32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/832/regulation/9) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00016]: Footnote: Regulation C17 was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

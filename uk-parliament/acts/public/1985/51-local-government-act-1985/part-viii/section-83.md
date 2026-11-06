@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. London rate equalisation schemes.[^key-abb1b43b66fe524ade2af48d826260ee]
+## 83. London rate equalisation schemes.[^c-abb1b43b66fe524ade2af48d826260ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abb1b43b66fe524ade2af48d826260ee]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1985/51/section/83) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-abb1b43b66fe524ade2af48d826260ee]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1985/51/section/83) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

@@ -65,8 +65,8 @@ This Order may be cited as the Control of Salmonella in Turkey Flocks Order 2009
 
 (2) In these Regulations, a reference to—
 
-- (a)[^key-c9dd1a3e69975e0fed7795139c058b9f] Regulation (EU) No 1190/2012 is a reference to [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council,
-- (b)[^key-882f1d0bd657739ce773f8b3eb598f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c9dd1a3e69975e0fed7795139c058b9f] Regulation (EU) No 1190/2012 is a reference to [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council,
+- (b)[^c-882f1d0bd657739ce773f8b3eb598f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) is a reference to Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of Salmonella in poultry [^c20015511],
 
 in each case as amended from time to time.
@@ -75,13 +75,13 @@ in each case as amended from time to time.
 
 The Secretary of State is the competent authority for the purposes of—
 
-- (a) Regulation ([^key-4737ce48bbeda4972720c7a7c3a1fb1a]EU) No 1190/2012;
-- (b)[^key-45ceac0f2bca657c4b54e2664e9e2092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Regulation ([^c-4737ce48bbeda4972720c7a7c3a1fb1a]EU) No 1190/2012;
+- (b)[^c-45ceac0f2bca657c4b54e2664e9e2092] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177).
 
 ## 4. Sampling
 
-(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Regulation ([^key-1426ce72021bb9c1bde32b7c7d81c58a]EU) No 1190/2012 and must despatch samples to an approved laboratory in accordance with point 2.2.4[^key-d8d51ec72dd9c8a99f493ce34051e50e] of that Annex (and for the purposes of that point “**express mail**” includes first class post).
+(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Regulation ([^c-1426ce72021bb9c1bde32b7c7d81c58a]EU) No 1190/2012 and must despatch samples to an approved laboratory in accordance with point 2.2.4[^c-d8d51ec72dd9c8a99f493ce34051e50e] of that Annex (and for the purposes of that point “**express mail**” includes first class post).
 
 (2) In relation to each sample the occupier must provide the following information—
 
@@ -120,7 +120,7 @@ When birds are moved on to or off a holding the occupier must record for each fl
 
 ## 7. Duties of the person in charge of a laboratory
 
-Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation ([^key-464f71c21abd05d8acb615ac84efdb85]EU) No 1190/2012.
+Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation ([^c-464f71c21abd05d8acb615ac84efdb85]EU) No 1190/2012.
 
 ## 8. Prohibition on the use of antimicrobials
 
@@ -148,7 +148,7 @@ If any person fails to take any action required by this Order, an inspector may 
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that the Secretary of State will enforce this Order instead of the local authority.
 
-(3)[^key-90f55d15561a80760ab89be2fbed616c] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-90f55d15561a80760ab89be2fbed616c] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 Jim Fitzpatrick
 
@@ -174,23 +174,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20015481]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c9dd1a3e69975e0fed7795139c058b9f]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/3271/article/2/2/a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/2)
+[^c-c9dd1a3e69975e0fed7795139c058b9f]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/3271/article/2/2/a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/2)
 
-[^key-882f1d0bd657739ce773f8b3eb598f35]: Textual amendment: Art. 2(2)(b) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/a)
+[^c-882f1d0bd657739ce773f8b3eb598f35]: Textual amendment: Art. 2(2)(b) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/a)
 
 [^c20015511]: Marginal citation: OJ No L 212, 2.8.2006, p 3.
 
-[^key-4737ce48bbeda4972720c7a7c3a1fb1a]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/3271/article/3/a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(3)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/3)
+[^c-4737ce48bbeda4972720c7a7c3a1fb1a]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/3271/article/3/a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(3)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/3)
 
-[^key-45ceac0f2bca657c4b54e2664e9e2092]: Textual amendment: Art. 3(b) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/b)
+[^c-45ceac0f2bca657c4b54e2664e9e2092]: Textual amendment: Art. 3(b) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/b)
 
-[^key-1426ce72021bb9c1bde32b7c7d81c58a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/3271/article/4/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(4)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/4/a)
+[^c-1426ce72021bb9c1bde32b7c7d81c58a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/3271/article/4/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(4)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/4/a)
 
-[^key-d8d51ec72dd9c8a99f493ce34051e50e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/3271/article/4/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(4)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/4/b)
+[^c-d8d51ec72dd9c8a99f493ce34051e50e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/3271/article/4/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(4)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/4/b)
 
-[^key-464f71c21abd05d8acb615ac84efdb85]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/3271/article/7) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(5)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/5)
+[^c-464f71c21abd05d8acb615ac84efdb85]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2009/3271/article/7) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [54(5)](https://www.legislation.gov.uk/uksi/2018/942/regulation/54/5)
 
-[^key-90f55d15561a80760ab89be2fbed616c]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2009/3271/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/c)
+[^c-90f55d15561a80760ab89be2fbed616c]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2009/3271/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2012/2897/article/33/c)
 
 [^c20015521]: Marginal citation: OJ No L 162, 21.6.2008, p 3.
 

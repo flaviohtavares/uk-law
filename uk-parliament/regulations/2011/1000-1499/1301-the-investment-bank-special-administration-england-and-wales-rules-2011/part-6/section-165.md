@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Application of rule 164 in a special administration (bank administration) and special administration (bank insolvency)[^key-6f2a065d908541cb09b046deb7c81a68]
+## 165. Application of rule 164 in a special administration (bank administration) and special administration (bank insolvency)[^c-6f2a065d908541cb09b046deb7c81a68]
 
 *Extent: E+W*
 
@@ -44,13 +44,13 @@ summary: ''
 (6) In this rule—
 
 - “**eligible depositor**” has the meaning given to it by section 93(3) of the 2009 Act;
-- “the appropriate regulator rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by the[^key-1e946d8cfede8fcd27d827ffe1046c3c] FSA or the PRA
-- “**protected deposit**” means a protected deposit within the meaning given by the the appropriate regulator rules[^key-149d0ff89393b33404fbbc85abf167a1] held by the investment bank at the date of the notice referred to in rule 164(1).
+- “the appropriate regulator rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by the[^c-1e946d8cfede8fcd27d827ffe1046c3c] FSA or the PRA
+- “**protected deposit**” means a protected deposit within the meaning given by the the appropriate regulator rules[^c-149d0ff89393b33404fbbc85abf167a1] held by the investment bank at the date of the notice referred to in rule 164(1).
 
 ## Annotations
 
-[^key-6f2a065d908541cb09b046deb7c81a68]: Commencement: [Rule 165](https://www.legislation.gov.uk/uksi/2011/1301/rule/165) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6f2a065d908541cb09b046deb7c81a68]: Commencement: [Rule 165](https://www.legislation.gov.uk/uksi/2011/1301/rule/165) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-1e946d8cfede8fcd27d827ffe1046c3c]: Textual amendment: Words in [art. 165(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/165/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(q)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/q/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-1e946d8cfede8fcd27d827ffe1046c3c]: Textual amendment: Words in [art. 165(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/165/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(q)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/q/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-149d0ff89393b33404fbbc85abf167a1]: Textual amendment: Words in [art. 165(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/165/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(q)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/q/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-149d0ff89393b33404fbbc85abf167a1]: Textual amendment: Words in [art. 165(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/165/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(q)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/q/ii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

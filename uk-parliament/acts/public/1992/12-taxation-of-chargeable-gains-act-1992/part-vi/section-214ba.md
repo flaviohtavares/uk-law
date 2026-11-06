@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214BA. Interpretation[^key-be7475d063eaec1978b90e3eb609bdbd]
+## 214BA. Interpretation[^c-be7475d063eaec1978b90e3eb609bdbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7475d063eaec1978b90e3eb609bdbd]: Textual amendment: S. 214BA repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/5/a), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-be7475d063eaec1978b90e3eb609bdbd]: Textual amendment: S. 214BA repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/5/a), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

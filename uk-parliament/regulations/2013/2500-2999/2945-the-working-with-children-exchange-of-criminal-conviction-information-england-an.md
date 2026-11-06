@@ -38,7 +38,7 @@ Police, England And Wales
 
 Police, Northern Ireland
 
-The Working with Children (Exchange of Criminal Conviction Information) (England and Wales and Northern Ireland) Regulations 2013 (revoked)[^key-4e60335655f498faa3a0de52f2474c74]
+The Working with Children (Exchange of Criminal Conviction Information) (England and Wales and Northern Ireland) Regulations 2013 (revoked)[^c-4e60335655f498faa3a0de52f2474c74]
 
 Made
 
@@ -52,34 +52,34 @@ Coming into force
 
 18th December 2013
 
-[^key-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4e60335655f498faa3a0de52f2474c74]
+## 1. Citation, commencement and extent[^c-4e60335655f498faa3a0de52f2474c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4e60335655f498faa3a0de52f2474c74]
+## 2. Interpretation[^c-4e60335655f498faa3a0de52f2474c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exchange of conviction and disqualification information[^key-4e60335655f498faa3a0de52f2474c74]
+## 3. Exchange of conviction and disqualification information[^c-4e60335655f498faa3a0de52f2474c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Identification of a chief officer of police[^key-4e60335655f498faa3a0de52f2474c74]
+## 4. Identification of a chief officer of police[^c-4e60335655f498faa3a0de52f2474c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information sharing[^key-4e60335655f498faa3a0de52f2474c74]
+## 5. Information sharing[^c-4e60335655f498faa3a0de52f2474c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e60335655f498faa3a0de52f2474c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e60335655f498faa3a0de52f2474c74]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2945) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/742/regulation/31) (with [reg. 32](https://www.legislation.gov.uk/uksi/2019/742/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e60335655f498faa3a0de52f2474c74]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2945) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/742/regulation/31) (with [reg. 32](https://www.legislation.gov.uk/uksi/2019/742/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

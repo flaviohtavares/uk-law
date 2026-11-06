@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Conditions applicable on completion of work[^key-709eb6b07fe9fa0d16f42a255114f7b7]
+## 83. Conditions applicable on completion of work[^c-709eb6b07fe9fa0d16f42a255114f7b7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-709eb6b07fe9fa0d16f42a255114f7b7]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2006/1/section/83) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-709eb6b07fe9fa0d16f42a255114f7b7]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2006/1/section/83) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

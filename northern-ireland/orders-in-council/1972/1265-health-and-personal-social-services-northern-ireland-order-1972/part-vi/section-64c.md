@@ -25,7 +25,7 @@ summary: ''
 (2) The regulations may, in particular, make provision as to the consequences of a failure to hold approved indemnity cover, including provision—
 
 - (a) for securing that a person is not to be added to any list unless he holds approved indemnity cover;
-- (b) for the removal from a list prepared by the Department[^key-dad4c407be86b3fba3f71f333f9fbf60] of a Part VI practitioner who does not within a prescribed period after the making of a request by the Department in the prescribed manner satisfy the Department that he holds approved indemnity cover.
+- (b) for the removal from a list prepared by the Department[^c-dad4c407be86b3fba3f71f333f9fbf60] of a Part VI practitioner who does not within a prescribed period after the making of a request by the Department in the prescribed manner satisfy the Department that he holds approved indemnity cover.
 
 (3) For the purposes of this Article—
 
@@ -34,7 +34,7 @@ summary: ''
   - (a) on prescribed terms; and
   - (b) with an approved body;
 - “indemnity cover”, in relation to a Part VI practitioner (or person who proposes to provide Part VI services), means a contract of insurance or other arrangement made for the purpose of indemnifying him and any person prescribed in relation to him to any prescribed extent against any liability which—
-  - (a) arises out of the provision of Part VI services in accordance with arrangements made by him with the Department[^key-840b7ecf014a6d430c5a7789c6560fe8] under this Part; and
+  - (a) arises out of the provision of Part VI services in accordance with arrangements made by him with the Department[^c-840b7ecf014a6d430c5a7789c6560fe8] under this Part; and
   - (b) is incurred by him or any such person in respect of the death or personal injury of a person;
 - “list” has the same meaning as in paragraph 1(8) of Schedule 11;
 - “Part VI practitioner” means a person whose name is on a list;
@@ -52,6 +52,6 @@ is to be treated as holding approved indemnity cover for the purposes of the reg
 
 [^c17173201]: Textual amendment: [2001 c. 3 (NI)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-dad4c407be86b3fba3f71f333f9fbf60]: Textual amendment: Words in [art. 64C(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/64C/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-dad4c407be86b3fba3f71f333f9fbf60]: Textual amendment: Words in [art. 64C(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/64C/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-840b7ecf014a6d430c5a7789c6560fe8]: Textual amendment: Words in [art. 64C(3)](https://www.legislation.gov.uk/nisi/1972/1265/article/64C/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 37(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-840b7ecf014a6d430c5a7789c6560fe8]: Textual amendment: Words in [art. 64C(3)](https://www.legislation.gov.uk/nisi/1972/1265/article/64C/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 37(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/37/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

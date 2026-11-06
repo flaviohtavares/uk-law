@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 522. Revocation of the 1996 Regulations[^key-a36cd2b13f924593a504cb2a28cc2762]
+## 522. Revocation of the 1996 Regulations[^c-a36cd2b13f924593a504cb2a28cc2762]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Amendment No. 2) Regulations 1996 are revoked.
 
 ## Annotations
 
-[^key-a36cd2b13f924593a504cb2a28cc2762]: Commencement: Art. 522 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a36cd2b13f924593a504cb2a28cc2762]: Commencement: Art. 522 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

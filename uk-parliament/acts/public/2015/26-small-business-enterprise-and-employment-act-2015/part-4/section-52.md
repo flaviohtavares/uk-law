@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Information about arbitration[^key-eea145eb7f247920e7a050df4f82b5da]
+## 52. Information about arbitration[^c-eea145eb7f247920e7a050df4f82b5da]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eea145eb7f247920e7a050df4f82b5da]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2015/26/section/52) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-eea145eb7f247920e7a050df4f82b5da]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2015/26/section/52) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

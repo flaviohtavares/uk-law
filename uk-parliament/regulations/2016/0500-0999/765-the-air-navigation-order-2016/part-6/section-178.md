@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Protection of air crew from cosmic radiation[^key-e592ed9b7922430c02e95af24d910b16]
+## 178. Protection of air crew from cosmic radiation[^c-e592ed9b7922430c02e95af24d910b16]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e592ed9b7922430c02e95af24d910b16]: Textual amendment: [Art. 178](https://www.legislation.gov.uk/uksi/2016/765/article/178) revoked (7.8.2019) by [The Air Navigation (Cosmic Radiation Protection of Air Crew and Space Crew and Consequential Amendments) Order 2019 (S.I. 2019/1115)](https://www.legislation.gov.uk/uksi/2019/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1), [28(1)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/1115/article/3))
+[^c-e592ed9b7922430c02e95af24d910b16]: Textual amendment: [Art. 178](https://www.legislation.gov.uk/uksi/2016/765/article/178) revoked (7.8.2019) by [The Air Navigation (Cosmic Radiation Protection of Air Crew and Space Crew and Consequential Amendments) Order 2019 (S.I. 2019/1115)](https://www.legislation.gov.uk/uksi/2019/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1), [28(1)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/28/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/1115/article/3))

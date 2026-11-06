@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 136. Data security[^key-391f57a3441f8807332e4c403e6938ac]
+## Article 136. Data security[^c-391f57a3441f8807332e4c403e6938ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The appropriate authority must ensure that the computerised information manageme
 
 ## Annotations
 
-[^key-391f57a3441f8807332e4c403e6938ac]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/eur/2017/625/article/136) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [24(10)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/24/10) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-391f57a3441f8807332e4c403e6938ac]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/eur/2017/625/article/136) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [24(10)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/24/10) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

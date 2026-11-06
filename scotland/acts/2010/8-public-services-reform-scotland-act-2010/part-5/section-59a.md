@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59A. Further provision in relation to registration of certain care services[^key-3661c062d28124df8c5602d5f4b209d2]
+## 59A. Further provision in relation to registration of certain care services[^c-3661c062d28124df8c5602d5f4b209d2]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3661c062d28124df8c5602d5f4b209d2]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/asp/2010/8/section/59A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 28(3)](https://www.legislation.gov.uk/asp/2024/5/section/28/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/b)
+[^c-3661c062d28124df8c5602d5f4b209d2]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/asp/2010/8/section/59A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 28(3)](https://www.legislation.gov.uk/asp/2024/5/section/28/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/b)

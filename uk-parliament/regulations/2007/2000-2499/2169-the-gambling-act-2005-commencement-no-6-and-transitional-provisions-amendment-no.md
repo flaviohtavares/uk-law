@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 355(1) and 358(1), (2) and (4) of, and paragraphs 2 and 4 to 11 of Schedule 18 to, the Gambling Act 2005[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-f940921f3966c0d62df2a3f6d98839ca]
+## 1. Citation, commencement and interpretation[^c-f940921f3966c0d62df2a3f6d98839ca]
 
 (1) This Order may be cited as the Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 and shall come into force on 16th August 2007.
 
 (2) In this Order “the Principal Commencement Order” means the Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006[^f00002].
 
-## 2. Amendment of article 1 of the Principal Commencement Order[^key-dfa223d03f9f5c1f3bcce67adc781ade]
+## 2. Amendment of article 1 of the Principal Commencement Order[^c-dfa223d03f9f5c1f3bcce67adc781ade]
 
 Article 1(2) of the Principal Commencement Order is amended by—
 
@@ -69,7 +69,7 @@ Article 1(2) of the Principal Commencement Order is amended by—
 
   .
 
-## 3. Amendment of article 2 of the Principal Commencement Order[^key-3137e61febcaeaa73a10aa1a9bfc5064]
+## 3. Amendment of article 2 of the Principal Commencement Order[^c-3137e61febcaeaa73a10aa1a9bfc5064]
 
 Article 2 of the Principal Commencement Order is amended by substituting for paragraph (4)—
 
@@ -79,13 +79,13 @@ Article 2 of the Principal Commencement Order is amended by substituting for par
 
 .
 
-## 4. Amendment of article 3 of the Principal Commencement Order[^key-e21215996eeb307acfd3a3456ff922f7]
+## 4. Amendment of article 3 of the Principal Commencement Order[^c-e21215996eeb307acfd3a3456ff922f7]
 
 (1) Article 3 of the Principal Commencement Order is amended as follows.
 
 (2) In paragraph (2) for “sections 12, 14, 15 and 24 to 31” substitute “section 31”.
 
-## 5. Amendment of the Principal Commencement Order: provisions relating to the successor company established under Part 1 of Horserace Betting and Olympic Lottery Act 2004[^key-72c3e24552630a104982659b46abd3a2]
+## 5. Amendment of the Principal Commencement Order: provisions relating to the successor company established under Part 1 of Horserace Betting and Olympic Lottery Act 2004[^c-72c3e24552630a104982659b46abd3a2]
 
 The Principal Commencement Order is amended by inserting the following articles after article 6—
 
@@ -127,11 +127,11 @@ The Principal Commencement Order is amended by inserting the following articles 
 
 .
 
-## 6. Amendment of the Principal Commencement Order to insert new Schedule[^key-5f308d6634725e82d1423d3992ffad52]
+## 6. Amendment of the Principal Commencement Order to insert new Schedule[^c-5f308d6634725e82d1423d3992ffad52]
 
 The Principal Commencement Order is amended by inserting after Schedule 3A the Schedule 3B set out in the Schedule to this Order.
 
-## 7. Amendment of Part 2 of Schedule 4 to the Principal Commencement Order[^key-d00d4f10577443458ad9d0d8c9bf5533]
+## 7. Amendment of Part 2 of Schedule 4 to the Principal Commencement Order[^c-d00d4f10577443458ad9d0d8c9bf5533]
 
 (1) Paragraph 7 of Schedule 4 to the Principal Commencement Order (which restricts the circumstances in which an application for a certificate of approval under section 19 of the Gaming Act 1968 may be granted) is amended as follows.
 
@@ -147,7 +147,7 @@ The Principal Commencement Order is amended by inserting after Schedule 3A the S
 
 (3) The amendment made by this article shall not affect the validity of any decision taken by the Gambling Commission on an application for a certificate under section 19 of the Gaming Act 1968 to which the amendment applies, where the decision was taken before the date on which this Order comes into force.
 
-## 8. Amendment of Part 3 of Schedule 4 to the Principal Commencement Order[^key-0296bf87f7307e6090dc7e2ad7c094f1]
+## 8. Amendment of Part 3 of Schedule 4 to the Principal Commencement Order[^c-0296bf87f7307e6090dc7e2ad7c094f1]
 
 (1) Paragraph 17 of Schedule 4 to the Principal Commencement Order (which provides for the continuation of certificates and permits granted under section 27 of the Gaming Act 1968) is amended as follows.
 
@@ -162,13 +162,13 @@ The Principal Commencement Order is amended by inserting after Schedule 3A the S
 
 .
 
-## 9. Amendment of Part 4 of Schedule 4 to the Principal Commencement Order[^key-cb71f9f9ff364b5513a599a9fc79d980]
+## 9. Amendment of Part 4 of Schedule 4 to the Principal Commencement Order[^c-cb71f9f9ff364b5513a599a9fc79d980]
 
 (1) Part 4 of Schedule 4 to the Principal Commencement Order (which makes provision about licences etc. issued under the Gambling Act 2005 before 1st September 2007) is amended as follows.
 
 (2) In paragraphs 37(2) and 38(2), in each case after “2007” insert “and which take effect on the date of issue”.
 
-## 10. Amendment of Part 6 of Schedule 4 to the Principal Commencement Order[^key-462c17a771f6a2c55962b644149269f1]
+## 10. Amendment of Part 6 of Schedule 4 to the Principal Commencement Order[^c-462c17a771f6a2c55962b644149269f1]
 
 (1) Paragraph 45 of Schedule 4 to the Principal Commencement Order (continuation of certificates under section 19 of the Gaming Act 1968) is amended as follows.
 
@@ -203,7 +203,7 @@ The Principal Commencement Order is amended by inserting after Schedule 3A the S
 
   .
 
-## 11. Amendment of Part 7 of Schedule 4 to the Principal Commencement Order[^key-adc7a9d985cebb58626c244d5fc1b79e]
+## 11. Amendment of Part 7 of Schedule 4 to the Principal Commencement Order[^c-adc7a9d985cebb58626c244d5fc1b79e]
 
 (1) Part 7 of Schedule 4 to the Principal Commencement Order (transitional provisions relating to the conversion of licences etc. issued under enactments to be repealed into premises licences under the Gambling Act 2005) is amended as follows.
 
@@ -240,7 +240,7 @@ Department for Culture, Media and Sport
 
 24th July 2007
 
-## SCHEDULE — New Schedule 3B to the Principal Commencement Order[^key-76250022b3f84dcec533ea373662da1a]
+## SCHEDULE — New Schedule 3B to the Principal Commencement Order[^c-76250022b3f84dcec533ea373662da1a]
 
 Article 6
 
@@ -316,30 +316,30 @@ Paragraph (3) of article 11 amends paragraph 55(4) of the Principal Commencement
 
 [^f00001]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-f940921f3966c0d62df2a3f6d98839ca]: Commencement: Art. 1 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-f940921f3966c0d62df2a3f6d98839ca]: Commencement: Art. 1 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), amended by [S.I. 2006/3361](https://www.legislation.gov.uk/uksi/2006/3361), [2007/1157](https://www.legislation.gov.uk/uksi/2007/1157) and [2007/1527](https://www.legislation.gov.uk/uksi/2007/1527).
 
-[^key-dfa223d03f9f5c1f3bcce67adc781ade]: Commencement: Art. 2 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-dfa223d03f9f5c1f3bcce67adc781ade]: Commencement: Art. 2 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
 [^f00003]: Footnote: [2004 c.25](https://www.legislation.gov.uk/ukpga/2004/25).
 
-[^key-3137e61febcaeaa73a10aa1a9bfc5064]: Commencement: Art. 3 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-3137e61febcaeaa73a10aa1a9bfc5064]: Commencement: Art. 3 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-e21215996eeb307acfd3a3456ff922f7]: Commencement: Art. 4 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-e21215996eeb307acfd3a3456ff922f7]: Commencement: Art. 4 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-72c3e24552630a104982659b46abd3a2]: Commencement: Art. 5 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-72c3e24552630a104982659b46abd3a2]: Commencement: Art. 5 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-5f308d6634725e82d1423d3992ffad52]: Commencement: Art. 6 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-5f308d6634725e82d1423d3992ffad52]: Commencement: Art. 6 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-d00d4f10577443458ad9d0d8c9bf5533]: Commencement: Art. 7 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-d00d4f10577443458ad9d0d8c9bf5533]: Commencement: Art. 7 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-0296bf87f7307e6090dc7e2ad7c094f1]: Commencement: Art. 8 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-0296bf87f7307e6090dc7e2ad7c094f1]: Commencement: Art. 8 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-cb71f9f9ff364b5513a599a9fc79d980]: Commencement: Art. 9 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-cb71f9f9ff364b5513a599a9fc79d980]: Commencement: Art. 9 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-462c17a771f6a2c55962b644149269f1]: Commencement: Art. 10 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-462c17a771f6a2c55962b644149269f1]: Commencement: Art. 10 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-adc7a9d985cebb58626c244d5fc1b79e]: Commencement: Art. 11 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-adc7a9d985cebb58626c244d5fc1b79e]: Commencement: Art. 11 in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
 
-[^key-76250022b3f84dcec533ea373662da1a]: Commencement: Sch. in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)
+[^c-76250022b3f84dcec533ea373662da1a]: Commencement: Sch. in force at 16.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1)

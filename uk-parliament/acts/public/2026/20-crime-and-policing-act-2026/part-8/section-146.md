@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Threatening, abusive or insulting behaviour towards emergency workers[^key-a34e5e6924d87d14ac1c8dcacc8617d0]
+## 146. Threatening, abusive or insulting behaviour towards emergency workers[^c-a34e5e6924d87d14ac1c8dcacc8617d0]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a34e5e6924d87d14ac1c8dcacc8617d0]: Commencement: S. 146 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a34e5e6924d87d14ac1c8dcacc8617d0]: Commencement: S. 146 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Income Support (General) (Standard Interest Rate Amendment No. 4) Regulations (Northern Ireland) 1999 (revoked)[^key-25499c0ae7dc4e20489e573b2531f508]
+The Income Support (General) (Standard Interest Rate Amendment No. 4) Regulations (Northern Ireland) 1999 (revoked)[^c-25499c0ae7dc4e20489e573b2531f508]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 9th May 1999
 
-[^key-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-25499c0ae7dc4e20489e573b2531f508]
+## 1. Citation, commencement and interpretation[^c-25499c0ae7dc4e20489e573b2531f508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 3 to the Income Support Regulations[^key-25499c0ae7dc4e20489e573b2531f508]
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-25499c0ae7dc4e20489e573b2531f508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-25499c0ae7dc4e20489e573b2531f508]
+## 3. Revocation[^c-25499c0ae7dc4e20489e573b2531f508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25499c0ae7dc4e20489e573b2531f508]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25499c0ae7dc4e20489e573b2531f508]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/187) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Income Support (General) (Standard Interest Rate Amendment No. 5) Regulations (Northern Ireland) 1999 (S.R. 1999/239)](https://www.legislation.gov.uk/nisr/1999/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/239/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1999/239/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/239/regulation/3))
+[^c-25499c0ae7dc4e20489e573b2531f508]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/187) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [The Income Support (General) (Standard Interest Rate Amendment No. 5) Regulations (Northern Ireland) 1999 (S.R. 1999/239)](https://www.legislation.gov.uk/nisr/1999/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/239/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1999/239/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/1999/239/regulation/3))

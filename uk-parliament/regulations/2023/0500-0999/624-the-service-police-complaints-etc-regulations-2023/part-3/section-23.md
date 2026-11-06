@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Duties to preserve evidence relating to conduct matters[^key-a070535d1d0513f092003a3c11363f1b]
+## 23. Duties to preserve evidence relating to conduct matters[^c-a070535d1d0513f092003a3c11363f1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a070535d1d0513f092003a3c11363f1b]: Commencement: Reg. 23 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-a070535d1d0513f092003a3c11363f1b]: Commencement: Reg. 23 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Applicable amounts for persons in residential care and nursing homes[^key-2b02a19cf7d610105dfe568fd1e2df14]
+## 19. Applicable amounts for persons in residential care and nursing homes[^c-2b02a19cf7d610105dfe568fd1e2df14]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b02a19cf7d610105dfe568fd1e2df14]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1987/1967/regulation/19) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. I para. 5](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/I/paragraph/5)
+[^c-2b02a19cf7d610105dfe568fd1e2df14]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1987/1967/regulation/19) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. I para. 5](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/I/paragraph/5)

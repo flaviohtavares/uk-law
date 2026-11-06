@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Subordinate legislation words to which this Part applies[^key-7c6f365717cd93292375584181255a3f]
+## 30. Subordinate legislation words to which this Part applies[^c-7c6f365717cd93292375584181255a3f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6f365717cd93292375584181255a3f]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/1/section/30) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-7c6f365717cd93292375584181255a3f]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/1/section/30) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

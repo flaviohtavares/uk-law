@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Requirements about the use of warning beacons[^key-dd1377fa545dce05d0141c221b7c496d]
+## 26. Requirements about the use of warning beacons[^c-dd1377fa545dce05d0141c221b7c496d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ No person shall use, or cause or permit to be used, on an unrestricted dual-carr
 
 ## Annotations
 
-[^key-dd1377fa545dce05d0141c221b7c496d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1989/1796/regulation/26) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-dd1377fa545dce05d0141c221b7c496d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1989/1796/regulation/26) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

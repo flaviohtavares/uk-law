@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Chief executives[^key-48455a98a2d6f2306530669db5dd0d56]
+## 54. Chief executives[^c-48455a98a2d6f2306530669db5dd0d56]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48455a98a2d6f2306530669db5dd0d56]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2021/1/section/54) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(h)](https://www.legislation.gov.uk/wsi/2021/231/article/6/h)
+[^c-48455a98a2d6f2306530669db5dd0d56]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2021/1/section/54) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(h)](https://www.legislation.gov.uk/wsi/2021/231/article/6/h)

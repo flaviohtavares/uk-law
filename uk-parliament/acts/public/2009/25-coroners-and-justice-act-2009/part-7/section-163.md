@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Limits on recoverable amount[^key-627f031e350a89e4ed6bd9801fd1ad7a]
+## 163. Limits on recoverable amount[^c-627f031e350a89e4ed6bd9801fd1ad7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-627f031e350a89e4ed6bd9801fd1ad7a]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2009/25/section/163) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-627f031e350a89e4ed6bd9801fd1ad7a]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2009/25/section/163) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)

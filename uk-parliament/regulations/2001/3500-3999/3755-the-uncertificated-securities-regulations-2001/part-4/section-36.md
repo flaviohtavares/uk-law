@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Liability for forged dematerialised instructions, induced amendments to Operator registers of securities, and induced Operator-instructions[^key-8dd86c7cb365ae51891d30a9681c0dae]
+## 36. Liability for forged dematerialised instructions, induced amendments to Operator registers of securities, and induced Operator-instructions[^c-8dd86c7cb365ae51891d30a9681c0dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ provided that the applicant need not give information or documents pursuant to t
 
 ## Annotations
 
-[^key-8dd86c7cb365ae51891d30a9681c0dae]: Commencement: Reg. 36 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-8dd86c7cb365ae51891d30a9681c0dae]: Commencement: Reg. 36 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

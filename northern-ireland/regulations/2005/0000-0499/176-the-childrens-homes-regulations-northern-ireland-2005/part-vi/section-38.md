@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Appointment of liquidators etc.[^key-9a54d9b876457ac10595cd1217ca2f08]
+## 38. Appointment of liquidators etc.[^c-9a54d9b876457ac10595cd1217ca2f08]
 
 *Extent: N.I.*
 
 (1) Any person to whom paragraph (2) applies shall –
 
-- (a) forthwith notify the RQIA[^key-4ca5e5950155e725f54604a422e453f9] of his appointment indicating the reasons for it;
+- (a) forthwith notify the RQIA[^c-4ca5e5950155e725f54604a422e453f9] of his appointment indicating the reasons for it;
 - (b) appoint a manager to take full-time day to day charge of the children’s home in any case where there is no registered manager; and
 - (c) not more than 28 days after his appointment notify the RQIAof his intentions regarding the future operation of the home.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a54d9b876457ac10595cd1217ca2f08]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/176/regulation/38) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-9a54d9b876457ac10595cd1217ca2f08]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/176/regulation/38) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

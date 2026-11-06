@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. 12% early years discretionary funding cap[^key-ab655986072de36332327d666498f18d]
+## 38. 12% early years discretionary funding cap[^c-ab655986072de36332327d666498f18d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ excluding any of the amounts specified in paragraph (4).
 
 ## Annotations
 
-[^key-ab655986072de36332327d666498f18d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/42/regulation/38) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-ab655986072de36332327d666498f18d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2025/42/regulation/38) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

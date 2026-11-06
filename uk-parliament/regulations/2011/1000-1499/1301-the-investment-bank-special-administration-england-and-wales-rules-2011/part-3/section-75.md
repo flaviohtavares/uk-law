@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Non-receipt of notice of meeting[^key-47f40094a3bbd09603f568a144c35277]
+## 75. Non-receipt of notice of meeting[^c-47f40094a3bbd09603f568a144c35277]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, in accordance with the Regulations or these Rules, a meeting is summoned 
 
 ## Annotations
 
-[^key-47f40094a3bbd09603f568a144c35277]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2011/1301/rule/75) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-47f40094a3bbd09603f568a144c35277]: Commencement: [Rule 75](https://www.legislation.gov.uk/uksi/2011/1301/rule/75) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

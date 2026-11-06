@@ -26,8 +26,8 @@ summary: ''
 
 (3) An application under section 47(1) for the cancellation of an entry made under section 46 must be made on Patents Form 30.
 
-(4) The period prescribed for the purposes of section 47(3) is two months beginning immediately after[^key-07e525bd1bb46491e6fc83730d9f95a6] the date on which the entry was made under section 46.
+(4) The period prescribed for the purposes of section 47(3) is two months beginning immediately after[^c-07e525bd1bb46491e6fc83730d9f95a6] the date on which the entry was made under section 46.
 
 ## Annotations
 
-[^key-07e525bd1bb46491e6fc83730d9f95a6]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/43/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-07e525bd1bb46491e6fc83730d9f95a6]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/43/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

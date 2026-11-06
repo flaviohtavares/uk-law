@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 5. Judges of the Court of Ecclesiastical Causes Reserved.[^key-8b3bb1358c78ff9631cd45ca5bda46c7]
+## 5. Judges of the Court of Ecclesiastical Causes Reserved.[^c-8b3bb1358c78ff9631cd45ca5bda46c7]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3bb1358c78ff9631cd45ca5bda46c7]: Textual amendment: S. 5 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/8), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-8b3bb1358c78ff9631cd45ca5bda46c7]: Textual amendment: S. 5 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/8), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

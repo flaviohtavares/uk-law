@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Exercise of functions[^key-eca8ef693bf8fc6ab5d816508cf630d6]
+## 69. Exercise of functions[^c-eca8ef693bf8fc6ab5d816508cf630d6]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca8ef693bf8fc6ab5d816508cf630d6]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/10/section/69) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-eca8ef693bf8fc6ab5d816508cf630d6]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/10/section/69) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

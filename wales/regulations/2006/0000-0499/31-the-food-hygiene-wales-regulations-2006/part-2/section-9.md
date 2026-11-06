@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where it appears to an authorised officer of an enforcement authority that in respect of an establishment [^key-83d7786786865018d2b28c65a76c3da8]...—
+(1) Where it appears to an authorised officer of an enforcement authority that in respect of an establishment [^c-83d7786786865018d2b28c65a76c3da8]...—
 
 - (a) any of the requirements of the Hygiene Regulations is being breached; or
 - (b) inspection under the Hygiene Regulations is being hampered,
@@ -45,4 +45,4 @@ the officer may, by a notice in writing served on the relevant food business ope
 
 ## Annotations
 
-[^key-83d7786786865018d2b28c65a76c3da8]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2006/31/regulation/9/1) omitted (1.5.2012) by virtue of [The Food Hygiene (Wales) (Amendment) Regulations 2012 (S.I. 2012/975)](https://www.legislation.gov.uk/wsi/2012/975), [regs. 1](https://www.legislation.gov.uk/wsi/2012/975/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2012/975/regulation/2/2)
+[^c-83d7786786865018d2b28c65a76c3da8]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2006/31/regulation/9/1) omitted (1.5.2012) by virtue of [The Food Hygiene (Wales) (Amendment) Regulations 2012 (S.I. 2012/975)](https://www.legislation.gov.uk/wsi/2012/975), [regs. 1](https://www.legislation.gov.uk/wsi/2012/975/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2012/975/regulation/2/2)

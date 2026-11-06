@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Other applications[^key-7db935f028efbfa8577737dfe861cfbf]
+## 20. Other applications[^c-7db935f028efbfa8577737dfe861cfbf]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7db935f028efbfa8577737dfe861cfbf]: Commencement: Reg. 20 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7db935f028efbfa8577737dfe861cfbf]: Commencement: Reg. 20 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

@@ -44,13 +44,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred upon them by section 1(4)(i) of the Breeding of Dogs Act 1973[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-9aa9fb7b06dce90399bf6d307c7ed08c]
+## 1. Citation, commencement and extent[^c-9aa9fb7b06dce90399bf6d307c7ed08c]
 
 (1) These Regulations may be cited as the Breeding of Dogs (Licensing Records) (Scotland) Regulations 1999 and shall come into force on 30th December 1999.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Provisions[^key-264fe20ade09daf906f5966bb0f7630d]
+## 2. Provisions[^c-264fe20ade09daf906f5966bb0f7630d]
 
 For the purposes of section 1(4)(i) of the Breeding of Dogs Act 1973, the records referred to in that section shall be in the form set out in the Schedule to these Regulations.
 
@@ -64,7 +64,7 @@ Edinburgh
 
 15th December 1999
 
-## SCHEDULE — FORM OF RECORD TO BE KEPT AT PREMISES FOR EACH BREEDING BITCH[^key-51815ac3702d059e9530331ff02f9c71]
+## SCHEDULE — FORM OF RECORD TO BE KEPT AT PREMISES FOR EACH BREEDING BITCH[^c-51815ac3702d059e9530331ff02f9c71]
 
 Regulation 2
 
@@ -96,11 +96,11 @@ These Regulations, which apply to Scotland only, prescribe the form in which tho
 
 [^f00001]: Footnote: [1973 c. 60](https://www.legislation.gov.uk/ukpga/1973/60). Section 1(4)(i) was inserted by section 2(2) of the Breeding and Sale of Dogs (Welfare) Act [1999 (c. 11)](https://www.legislation.gov.uk/ukpga/1999/11). These functions of the Secretary of State were transferred to the Scottish Ministers by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No. 2) Order 1999 (S.I. [1999/3321](https://www.legislation.gov.uk/uksi/1999/3321))
 
-[^key-9aa9fb7b06dce90399bf6d307c7ed08c]: Commencement: Reg. 1 in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
+[^c-9aa9fb7b06dce90399bf6d307c7ed08c]: Commencement: Reg. 1 in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
 
-[^key-264fe20ade09daf906f5966bb0f7630d]: Commencement: Reg. 2 in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
+[^c-264fe20ade09daf906f5966bb0f7630d]: Commencement: Reg. 2 in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
 
-[^key-51815ac3702d059e9530331ff02f9c71]: Commencement: Sch. in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
+[^c-51815ac3702d059e9530331ff02f9c71]: Commencement: Sch. in force at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/1999/176/regulation/1/1)
 
 [^f01000]: Footnote: \*
 

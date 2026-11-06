@@ -43,11 +43,11 @@ The Department of Health, Social Services and Public Safety[^f00001], with the c
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-f1df468b6c144cbf47c819fa42247ea5]
+### 1. Citation and commencement[^c-f1df468b6c144cbf47c819fa42247ea5]
 
 These Regulations may be cited as the Public Health (Aircraft) Regulations (Northern Ireland) 2008 and shall come into operation on 11th December 2008.
 
-### 2. Interpretation[^key-d99d2df15e128c0eacd3cdf23a46b6b3]
+### 2. Interpretation[^c-d99d2df15e128c0eacd3cdf23a46b6b3]
 
 (1) In these Regulations—
 
@@ -95,13 +95,13 @@ These Regulations may be cited as the Public Health (Aircraft) Regulations (Nort
 
 (2) Any reference, however expressed, in these Regulations to a person leaving an aircraft shall not be construed as a reference to that person leaving an aircraft and continuing his journey in that aircraft.
 
-### 3. Regulations not to apply to aircraft of the armed forces[^key-6a33dc0051625223ec4b70b222de9f36]
+### 3. Regulations not to apply to aircraft of the armed forces[^c-6a33dc0051625223ec4b70b222de9f36]
 
 Without prejudice to any statutory provision or rule of law which applies in relation to Her Majesty’s armed forces, nothing in these Regulations shall apply to any aircraft forming part of Her Majesty’s armed forces or of the armed forces of any country within the Commonwealth or of the armed forces of any other country for the time being designated for the purposes of all the provisions of the Visiting Forces Act 1952[^f00008] under section 1(2) of that Act, or to the officers and crew of such aircraft or to any aerodrome under the control of such forces.
 
 ## PART II — GENERAL
 
-### 4. Enforcement and execution of regulations[^key-ccf614538cfa89886c010ebc726d3266]
+### 4. Enforcement and execution of regulations[^c-ccf614538cfa89886c010ebc726d3266]
 
 (1) Subject to paragraph (2) every Board shall enforce and execute the Regulations and shall exercise its functions through the medical officer and other such officers as it may authorise in that behalf, and shall make such inquiries and take such other steps as seems to it to be necessary for securing the proper exercise of those functions.
 
@@ -113,7 +113,7 @@ Without prejudice to any statutory provision or rule of law which applies in rel
 
 (5) A Board must provide the National IHR Focal Point with the current contact details of each customs airport within its area.
 
-### 5. Appointment and duties of authorised officers and provisions of services by Boards[^key-0f7251fc41679d330e59b7df38c8919d]
+### 5. Appointment and duties of authorised officers and provisions of services by Boards[^c-0f7251fc41679d330e59b7df38c8919d]
 
 For the purposes of these Regulations, a Board may, and if so required by the Department shall—
 
@@ -131,7 +131,7 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 
 ## PART III — INCOMING AIRCRAFT
 
-### 6. Inspection of aircraft[^key-3e01b41726124406a0dacba8451c4362]
+### 6. Inspection of aircraft[^c-3e01b41726124406a0dacba8451c4362]
 
 (1) An authorised officer may, for the purposes of these Regulations, inspect any aircraft at a customs airport.
 
@@ -149,7 +149,7 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 - (a) with a view to the treatment of persons affected with any epidemic, endemic or infectious disease and for preventing the spread of such a disease; or
 - (b) for preventing other danger to public health.
 
-### 7. Examination, etc, of persons on aircraft[^key-071fdb74d2ef52252ce567e6bbfa6b39][^key-7bd54534cf559e81cce0cec61c2b5fe6]
+### 7. Examination, etc, of persons on aircraft[^c-071fdb74d2ef52252ce567e6bbfa6b39][^c-7bd54534cf559e81cce0cec61c2b5fe6]
 
 (1) The medical officer may, and if so requested by the commander or required by the Department, shall, examine any person on board or leaving an aircraft at a customs airport where there are reasonable grounds for suspecting that the person—
 
@@ -165,7 +165,7 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 - (d) except as provided in regulation 28, prohibit any person so examined from leaving the airport, or permit him to leave it on such conditions and subject to the taking of such measures, as the authorised officer considers reasonably necessary for preventing the spread of infection or other danger to public health; and
 - (e) require the commander to take or assist in taking such steps as in the opinion of the medical officer are reasonably necessary for preventing the spread of infection, or other danger to public health, for disinsection and the destruction of vermin and for the removal of conditions on the aircraft likely to convey infection, or other danger to public health, including conditions the existence of which might facilitate the harbouring of insects or vermin.
 
-### 8. Powers in respect of certain persons leaving aircraft[^key-4509e9035a4cecaf4d2c5431f584713b][^key-7bd54534cf559e81cce0cec61c2b5fe6]
+### 8. Powers in respect of certain persons leaving aircraft[^c-4509e9035a4cecaf4d2c5431f584713b][^c-7bd54534cf559e81cce0cec61c2b5fe6]
 
 (1) Where a person intending to leave an aircraft at a customs airport is an infected person or a suspected person, the medical officer may—
 
@@ -174,11 +174,11 @@ For the purposes of these Regulations, a Board may, and if so required by the De
 
 (2) Where the Department is satisfied that a grave danger to public health exists by reason of infectious disease and notifies medical officers accordingly, the medical officer may, and if the Department so directs, shall require a person leaving an aircraft at a customs airport to state in writing his name and intended destination and address.
 
-### 9. Notice to customs officer by authorised officer[^key-b3b9fb4768c2dc3a8ef514bd824be4c4]
+### 9. Notice to customs officer by authorised officer[^c-b3b9fb4768c2dc3a8ef514bd824be4c4]
 
 The authorised officer at a customs airport shall inform the customs officer of any measure applied by him or at his direction, under these Regulations, to an aircraft, any person thereon, or its stores, equipment or cargo.
 
-### 10. Supply of information etc, by commanders[^key-7a97b12af3d6ec6ec3f75d8be045a5c2]
+### 10. Supply of information etc, by commanders[^c-7a97b12af3d6ec6ec3f75d8be045a5c2]
 
 The commander of a aircraft at a customs airport shall—
 
@@ -186,7 +186,7 @@ The commander of a aircraft at a customs airport shall—
 - (b) notify the authorised officer immediately of any circumstances on board which are likely to cause the spread of infectious disease, including particulars as to the sanitary conditions of the aircraft and the presence of animals or captive birds of any species, mortality or sickness among such animals or birds, on the aircraft;
 - (c) comply with these Regulations, and with any directions or requirements of an authorised officer given or made for the purposes of these Regulations.
 
-### 11. Notification of infectious disease, etc, on board[^key-c26e8a024848c93761efbd5de2883bfc]
+### 11. Notification of infectious disease, etc, on board[^c-c26e8a024848c93761efbd5de2883bfc]
 
 (1) Where the commander of an aircraft becomes aware of an event described in paragraph (2), he shall send a communication to the authorised officer, manager or owner of the first customs airport where the aircraft is due to land.
 
@@ -216,7 +216,7 @@ The commander of a aircraft at a customs airport shall—
 
 (10) The Health Part of the Aircraft General Declaration completed in accordance with paragraph (9) shall be delivered to the authorised officer by the commander of the aircraft, or by a member of the crew deputed to act on his behalf.
 
-### 12. Deratting and disinfection of aircraft[^key-334bb5b58ab6cf22fc87009358055ed5]
+### 12. Deratting and disinfection of aircraft[^c-334bb5b58ab6cf22fc87009358055ed5]
 
 (1) Where—
 
@@ -235,15 +235,15 @@ the authorised officer may require the aircraft to be deratted.
 
 (6) The responsible authority must report the application of any such additional health measures to the National IHR focal point.
 
-### 13. Detention of aircraft[^key-4cca5e5c5c860f5e1b12b1c672fee21a]
+### 13. Detention of aircraft[^c-4cca5e5c5c860f5e1b12b1c672fee21a]
 
 (1) Where on the arrival of an aircraft at a customs airport the medical officer has reasonable grounds for believing that the aircraft may be an infected aircraft or a suspected aircraft, or any other aircraft which has had on board during the voyage a case of plague, cholera, yellow fever or smallpox in respect of which the aircraft has not outside the United Kingdom been subjected to appropriate measures equivalent to those provided for in these Regulations, he may cause the aircraft to be detained for inspection.
 
 (2) If the medical officer has caused an aircraft to be so detained, he shall inform the person in charge of the customs airport of such detention and send a notice in writing of such detention to the customs officer.
 
-**14.**[^key-82b80be5d22c9f63ed439b980bf0245f] If a customs officer receives in respect of an aircraft a notice in writing from the medical officer under regulation 13, he shall, if he visits the aircraft before the medical officer, deliver the notice to the commander and take all reasonable steps to secure compliance therewith.
+**14.**[^c-82b80be5d22c9f63ed439b980bf0245f] If a customs officer receives in respect of an aircraft a notice in writing from the medical officer under regulation 13, he shall, if he visits the aircraft before the medical officer, deliver the notice to the commander and take all reasonable steps to secure compliance therewith.
 
-**15.**[^key-972e68adddcc13254c6fc19cb938e223] Where on the arrival of an aircraft at a customs airport it appears to a customs officer that during the voyage of the aircraft—
+**15.**[^c-972e68adddcc13254c6fc19cb938e223] Where on the arrival of an aircraft at a customs airport it appears to a customs officer that during the voyage of the aircraft—
 
 - (a) there has been on the aircraft an event mentioned in regulation 11(2) ; or
 - (b) the aircraft has been in an area infected with plague, cholera, yellow fever or smallpox; or
@@ -251,28 +251,28 @@ the authorised officer may require the aircraft to be deratted.
 
 he shall, unless the authorised officer otherwise directs, give such directions as seem necessary to him to secure the detention of the aircraft, the persons carried thereon, and its stores, equipment and cargo.
 
-**16.**[^key-b526c85005398eaa410165fb9f072414] The detention of an aircraft by a customs officer under these Regulations shall cease as soon as the aircraft has been inspected by an authorised officer or, if such inspection has not commenced within 3 hours after the aircraft has been so detained, on the expiration of that period: provided that nothing in this regulation shall affect the power of the authorised officer to isolate an aircraft under regulation 6 or of the medical officer to continue the detention of an aircraft under regulation 17.
+**16.**[^c-b526c85005398eaa410165fb9f072414] The detention of an aircraft by a customs officer under these Regulations shall cease as soon as the aircraft has been inspected by an authorised officer or, if such inspection has not commenced within 3 hours after the aircraft has been so detained, on the expiration of that period: provided that nothing in this regulation shall affect the power of the authorised officer to isolate an aircraft under regulation 6 or of the medical officer to continue the detention of an aircraft under regulation 17.
 
-**17.**[^key-4e3f99e99c3bb55e54c4e75098690839] (1) The medical officer shall inspect any aircraft and the persons carried thereon as soon as possible and in any case within 3 hours after it has been detained under these Regulations.
+**17.**[^c-4e3f99e99c3bb55e54c4e75098690839] (1) The medical officer shall inspect any aircraft and the persons carried thereon as soon as possible and in any case within 3 hours after it has been detained under these Regulations.
 
 (2) If the aircraft is one to which the authorised officer is required by these Regulations to apply any further or additional measure, or if after such inspection the medical officer considers it necessary to apply any further or additional measure under these Regulations, the medical officer may continue the detention of the aircraft, if such continued detention is necessary for the application of that further or additional measure.
 
-### 18. Release of aircraft[^key-4b5f3e8199029fae5b43e90f52254303]
+### 18. Release of aircraft[^c-4b5f3e8199029fae5b43e90f52254303]
 
 When the authorised officer releases an aircraft from detention he shall give notice in writing to the customs officer, to the commander of the aircraft and to the person in charge of the customs airport that, so far as control under these Regulations is concerned, the aircraft is free to proceed at or after a date and time stated in the notice.
 
-### 19. Persons from infected areas[^key-cdd20b1851defe6155a36dadc15c5d22]
+### 19. Persons from infected areas[^c-cdd20b1851defe6155a36dadc15c5d22]
 
 On the arrival of an aircraft at a customs airport, the medical officer may place under surveillance for the appropriate period specified in regulation 28(1)—
 
 - (a) any person disembarking from the aircraft who has come from an area infected with cholera, smallpox or viral haemorrhagic fever; and
 - (b) any suspected person disembarking from the aircraft who has come from an area infected with yellow fever, plague, lassa fever, viral haemorrhagic fever or marburg disease.
 
-### 20. Removal of infected persons from aircraft when required by commander[^key-9a1ac020fa905a307364d7cfe81365c0]
+### 20. Removal of infected persons from aircraft when required by commander[^c-9a1ac020fa905a307364d7cfe81365c0]
 
 The medical officer shall, if so required by a commander of an aircraft on arrival at a customs airport require the medical officer to cause any infected person to be removed from the aircraft.
 
-### 21. Removal to airport able to apply measures[^key-ffd0563e764a5e9d2628b32795f33406]
+### 21. Removal to airport able to apply measures[^c-ffd0563e764a5e9d2628b32795f33406]
 
 (1) Where—
 
@@ -283,7 +283,7 @@ he may direct that the aircraft or the person proceed to a customs airport that 
 
 (2) Where an authorised officer gives a direction under paragraph (1), he shall give the commander of the aircraft concerned notice in writing of the direction which shall include the reasons for the direction.
 
-### 22. Additional measures[^key-deecb95694d0547e4cd0cef3bd460a73]
+### 22. Additional measures[^c-deecb95694d0547e4cd0cef3bd460a73]
 
 Without prejudice to any other provision in these Regulations, the additional measures in Schedule 2 shall be applicable on the arrival of—
 
@@ -292,7 +292,7 @@ Without prejudice to any other provision in these Regulations, the additional me
 - (c) any suspected person in relation to smallpox on a aircraft other than an infected aircraft;
 - (d) any other aircraft or person, when the authorised officer is satisfied that, notwithstanding that measures equivalent to such additional measures have been applied to the aircraft or person on board previously during its voyage, there is on board or has been on board since such previous application an infected person or suspected person and that it is necessary again to apply any such measures, or the authorised officer has reasonable grounds for believing that such previous measure was not substantially effective.
 
-### 23. Aircraft landing elsewhere than at a customs airport[^key-f1c2ea630891491a02c2a5a9b6667f1f]
+### 23. Aircraft landing elsewhere than at a customs airport[^c-f1c2ea630891491a02c2a5a9b6667f1f]
 
 (1) Where an aircraft lands elsewhere than at a customs airport—
 
@@ -305,7 +305,7 @@ Without prejudice to any other provision in these Regulations, the additional me
 
 (2) If any person who has informed an officer under this regulation of his intended destination and address arrives within fourteen days therefore at some other address, he shall forthwith send particulars of that address to the medical officer for the Board area at which he left the aircraft.
 
-### 24. Saving for certain aircraft[^key-c054468e8c8bc528c8562e629866d0c7]
+### 24. Saving for certain aircraft[^c-c054468e8c8bc528c8562e629866d0c7]
 
 In the case of an aircraft which has commenced its voyage at a place within the excepted area and has not during its voyage landed at any place outside the area—
 
@@ -316,7 +316,7 @@ In the case of an aircraft which has commenced its voyage at a place within the 
 
 ## PART IV — OUTGOING AIRCRAFT
 
-### 25. Examination, etc, of persons proposing to embark[^key-f26eabb8a49b6983de519623468419ec]
+### 25. Examination, etc, of persons proposing to embark[^c-f26eabb8a49b6983de519623468419ec]
 
 (1) Where an aircraft is due to depart from an aerodrome for a destination outside the United Kingdom, the medical officer—
 
@@ -332,7 +332,7 @@ Provided that in the case of smallpox a person shall not be prohibited from emba
 
 (3) The medical officer shall notify by the most expedious means the competent authority for the place to which the person is proceeding that such a person should in the opinion of the medical officer, be placed under surveillance.
 
-### 26. Infected places in Northern Ireland[^key-d3c446f3c0c74105c8df203b64af031c]
+### 26. Infected places in Northern Ireland[^c-d3c446f3c0c74105c8df203b64af031c]
 
 Where the Department has, by notice published in the Belfast Gazette, declared any place to be infected with a disease which in its opinion constitutes a menace to other countries by reason of its spread or potential spread, then, until the notice is revoked by a subsequent notice published in the Belfast Gazette, every medical officer shall comply with any requirement which may be made by the Department for preventing the spread of the disease, and in particular (but without prejudice to the generality of the foregoing provision) the following provisions of this regulation shall operate in relation to any aircraft departing from the aerodrome specified by the Department for a destination outside the United Kingdom—
 
@@ -345,7 +345,7 @@ Where the Department has, by notice published in the Belfast Gazette, declared a
 
 ## PART V — MISCELLANEOUS
 
-### 27. Compliance with directions, etc, under these Regulations[^key-8825498089fc58afa1089013ce9cb177]
+### 27. Compliance with directions, etc, under these Regulations[^c-8825498089fc58afa1089013ce9cb177]
 
 (1) Every person to whom these Regulations apply shall—
 
@@ -357,7 +357,7 @@ Where the Department has, by notice published in the Belfast Gazette, declared a
 - (a) comply with any direction, requirement, or condition so given, made or imposed under paragraph (1), and;
 - (b) furnish all such information in respect of that child or other person as may be reasonably required under that paragraph.
 
-### 28. Surveillance[^key-cf5906d20583e0abf9c41f9573934883]
+### 28. Surveillance[^c-cf5906d20583e0abf9c41f9573934883]
 
 (1) Where these Regulations permit a medical officer to place a person under surveillance, the period of such surveillance shall not exceed such of the following periods as may be appropriate:—
 
@@ -380,7 +380,7 @@ Where the Department has, by notice published in the Belfast Gazette, declared a
 
 Provided that an instruction shall not be given under this regulation unless the Department has by direction (whether general or special) authorised the giving of instructions thereunder.
 
-### 29. Charges for services[^key-5bc9ab0a9a959ae010aa41debc921fb0]
+### 29. Charges for services[^c-5bc9ab0a9a959ae010aa41debc921fb0]
 
 (1) The commander of an aircraft may request a responsible authority to cause to be applied measures he is required to apply under these Regulations.
 
@@ -410,15 +410,15 @@ Provided that an instruction shall not be given under this regulation unless the
 
 (7) Particulars under paragraph (6) shall include the date on which the measures were taken.
 
-### 30. Expenses of a responsible authority[^key-eb0ff9d5a7cc6fb9a4844dc9ba8afc92]
+### 30. Expenses of a responsible authority[^c-eb0ff9d5a7cc6fb9a4844dc9ba8afc92]
 
 Subject to regulation 31, any expenses incurred by a responsible authority in the enforcement and execution of these Regulations shall be defrayed in the same manner as the expenses incurred by them in the execution and discharge of their other powers and duties.
 
-### 31. Recovery of Charges[^key-5568fa6495e3c50936cf222ecf8b1599]
+### 31. Recovery of Charges[^c-5568fa6495e3c50936cf222ecf8b1599]
 
 Every charge authorised by regulation 30 shall be recoverable either summarily as a civil debt, or as a simple contract debt in any court of competent jurisdiction.
 
-### 32. Saving for aircraft unwilling to comply with these Regulations[^key-36d82de39b1592c6cea1a00ed5ce066f]
+### 32. Saving for aircraft unwilling to comply with these Regulations[^c-36d82de39b1592c6cea1a00ed5ce066f]
 
 (1) The commander of an aircraft on arrival, or already at an aerodrome, who is unwilling to comply with, or submit to any provisions of, or requirements made under these Regulations which may be applicable, shall so notify the authorised officer, and the authorised officer may then require the commander to remove the aircraft immediately from the aerodrome.
 
@@ -426,11 +426,11 @@ Every charge authorised by regulation 30 shall be recoverable either summarily a
 
 (3) When the authorised officer has required the removal of an aircraft from the aerodrome, it shall not, during its voyage, land at any other place in Northern Ireland.
 
-### 33. Saving for existing enactments[^key-2badcbbe708729653a19903b5f127c26]
+### 33. Saving for existing enactments[^c-2badcbbe708729653a19903b5f127c26]
 
 Nothing in these Regulations shall affect the Immigration Act 1971[^f00009] or Article 136 of the Air Navigation Order 2005 (Customs and Excise aerodromes)[^f00010].
 
-### 34. Revocation[^key-64437b6e62a841a922d1fdd9580e12dd]
+### 34. Revocation[^c-64437b6e62a841a922d1fdd9580e12dd]
 
 The Public Health (Aircraft) Regulations (Northern Ireland) 1971[^f00011] are revoked.
 
@@ -454,7 +454,7 @@ A senior officer of the
 
 Department
 
-## SCHEDULE 1 — HEALTH PART OF THE AIRCRAFT GENERAL DECLARATION[^key-28f4f6045c1ffd5ea030ea0f2d38e874]
+## SCHEDULE 1 — HEALTH PART OF THE AIRCRAFT GENERAL DECLARATION[^c-28f4f6045c1ffd5ea030ea0f2d38e874]
 
 Regulation 11(9)
 
@@ -466,20 +466,20 @@ Regulations 2(1) 22 and 28(3)
 
 ### PART I
 
-#### 1. A. Infected Aircraft[^key-5d4f7eb5057886168bb576a021bbd49e]
+#### 1. A. Infected Aircraft[^c-5d4f7eb5057886168bb576a021bbd49e]
 
 The medical officer may—
 
 - (a) require any suspected person on board to be disinsected and place him under surveillance, the period of surveillance being reckoned from the date of arrival of the aircraft;
 - (b) require the disinsecting and, if necessary, disinfection of the baggage of any infected or suspected person, and of any other article on board and any part of the aircraft which the medical officer considers to be contaminated.
 
-**2.**[^key-7cdd3a187f995f568ac4fc5ae9daedb4] If there is any rodent infected with plague on board, the medical officer or other authorised officer shall require to the aircraft to be deratted in a manner to be determined by him, but without prejudice of the generality of this requirement the following special provisions shall apply to any such deratting:—
+**2.**[^c-7cdd3a187f995f568ac4fc5ae9daedb4] If there is any rodent infected with plague on board, the medical officer or other authorised officer shall require to the aircraft to be deratted in a manner to be determined by him, but without prejudice of the generality of this requirement the following special provisions shall apply to any such deratting:—
 
 - (a) the deratting shall be carried out as soon as the holds have been emptied or when they contain only material unattractive to rodents, of such a nature or so disposed as to make a thorough inspection of the aircraft possible;
 - (b) one or more preliminary derattings of an aircraft with cargo in situ, or during its unloading may be carried out to prevent the escape of infected rodents;
 - (c) if the complete destruction of rodents cannot be secured because only part of the cargo is due to be unloaded, an aircraft shall not be prevented from unloading that part, but the medical officer or other authorised officer may apply any measures which he considers necessary to prevent the escape of infected rodents, including detaining the aircraft.
 
-#### 3. B. Aircraft which have been in areas infected with plague[^key-9daa7330f97e4c7b3796e2249a721b05]
+#### 3. B. Aircraft which have been in areas infected with plague[^c-9daa7330f97e4c7b3796e2249a721b05]
 
 The medical officer may—
 
@@ -489,48 +489,48 @@ The medical officer may—
 
 ### PART II — CHOLERA
 
-#### 1. A. Infected Aircraft and suspected Aircraft[^key-49cfc04016463aff0cf64d8984121e10]
+#### 1. A. Infected Aircraft and suspected Aircraft[^c-49cfc04016463aff0cf64d8984121e10]
 
 The medical officer—
 
 - (a) may place under surveillance any person who disembarks from an aircraft, the period of surveillance being reckoned from the date of disembarkation from the aircraft;
 - (b) shall be responsible for the supervision of the removal and safe disposal of any water, food (excluding cargo), human dejecta, waste water, waste matter and any other matter which is considered to be contaminated, and shall be responsible for the disinfection of water tanks and food handling equipment.
 
-**2.**[^key-ab8e433a6791ad463ed26d7529cd82f3] Foodstuffs carried as cargo on board aircraft in which a case of cholera has occurred during the journey may not be subjected to bacteriological examination except by the health authorities of the country of final destination.
+**2.**[^c-ab8e433a6791ad463ed26d7529cd82f3] Foodstuffs carried as cargo on board aircraft in which a case of cholera has occurred during the journey may not be subjected to bacteriological examination except by the health authorities of the country of final destination.
 
 ### PART III — YELLOW FEVER
 
-#### Infected Aircraft, suspected Aircraft, and Aircraft which have been in areas infected with yellow fever[^key-6a952689bfbf80ffd7a291ab6f3d706f]
+#### Infected Aircraft, suspected Aircraft, and Aircraft which have been in areas infected with yellow fever[^c-6a952689bfbf80ffd7a291ab6f3d706f]
 
 The medical officer may require the aircraft to be disinsected.
 
 ### PART IV — SMALLPOX
 
-#### 1. A. Infected Aircraft[^key-6fefa040c1a6d97a1abafc8f3a27523d]
+#### 1. A. Infected Aircraft[^c-6fefa040c1a6d97a1abafc8f3a27523d]
 
 The medical officer shall offer vaccination to any person on board or disembarking from the aircraft who does not show sufficient evidence of protection by previously having had smallpox.
 
-**2.**[^key-915070a81f175bd59a33e86df6e78fe5] The medical officer may either—
+**2.**[^c-915070a81f175bd59a33e86df6e78fe5] The medical officer may either—
 
 - (a) place under surveillance any person who disembarks, the period of surveillance being reckoned from the date on which the medical officer considers the person was last exposed to infection; or
 - (b) if he considers any such person is not sufficiently protected against smallpox, isolate him for a similar period.
 
-**3.**[^key-7a1e63a0c4ae1925b1b90ccbe83facf6] The medical officer shall require the disinfection of the baggage of any infected person, and of any other article on board and any part of the aircraft which the medical officer considers to be contaminated.
+**3.**[^c-7a1e63a0c4ae1925b1b90ccbe83facf6] The medical officer shall require the disinfection of the baggage of any infected person, and of any other article on board and any part of the aircraft which the medical officer considers to be contaminated.
 
-#### 4. B. Suspected persons on other Aircraft[^key-f5b7410b7c28fc8124ade8cef3cb0f0a]
+#### 4. B. Suspected persons on other Aircraft[^c-f5b7410b7c28fc8124ade8cef3cb0f0a]
 
 The medical officer may also apply the provisions of paragraphs 1 and 2 to any suspected person who disembarks from an aircraft which is not an infected aircraft.
 
 ### PART V — LASSA FEVER, RABIES, VIRAL HAEMORRHAGIC FEVER OR MARBURG DISEASE
 
-#### 1. Infected Aircraft and suspected Aircraft[^key-b4a3ec9107ed15a2f179b05d7602925a]
+#### 1. Infected Aircraft and suspected Aircraft[^c-b4a3ec9107ed15a2f179b05d7602925a]
 
 The medical officer may—
 
 - (a) place any suspected person on board under surveillance, the period of surveillance being reckoned from the date of arrival of the aircraft;
 - (b) require the disinfection of the baggage of any infected or suspected person, and of any other article on board and any part of the aircraft which the medical officer considers to be contaminated.
 
-**2.**[^key-f3344d7d08791794b72f63b1c2a3b079] If there is any rodent on board, the authorised officer may require the aircraft to be deratted in a manner determined by him.
+**2.**[^c-f3344d7d08791794b72f63b1c2a3b079] If there is any rodent on board, the authorised officer may require the aircraft to be deratted in a manner determined by him.
 
 (This note is not part of the Order)
 
@@ -564,9 +564,9 @@ Part V contains miscellaneous provisions concerning periods of surveillance, cha
 
 [^f00003]: Footnote: [1967 c. 36 (Northern Ireland)](https://www.legislation.gov.uk/apni/1967/36) sections 2A and 2B were inserted by Article 17 of the Health and Personal Social Services and Public Health (Northern Ireland) Order 1986 S.I. [1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) and amended by section 2 of the Public Health (Amendment) Act (Northern Ireland) [2008 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2008/5)
 
-[^key-f1df468b6c144cbf47c819fa42247ea5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-f1df468b6c144cbf47c819fa42247ea5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-d99d2df15e128c0eacd3cdf23a46b6b3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/436/regulation/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-d99d2df15e128c0eacd3cdf23a46b6b3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/436/regulation/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
 [^f00004]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
@@ -576,102 +576,102 @@ Part V contains miscellaneous provisions concerning periods of surveillance, cha
 
 [^f00007]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
-[^key-6a33dc0051625223ec4b70b222de9f36]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/436/regulation/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-6a33dc0051625223ec4b70b222de9f36]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/436/regulation/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
 [^f00008]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
-[^key-ccf614538cfa89886c010ebc726d3266]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/436/regulation/4) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-ccf614538cfa89886c010ebc726d3266]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/436/regulation/4) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-0f7251fc41679d330e59b7df38c8919d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/436/regulation/5) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-0f7251fc41679d330e59b7df38c8919d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/436/regulation/5) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-3e01b41726124406a0dacba8451c4362]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/436/regulation/6) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-3e01b41726124406a0dacba8451c4362]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/436/regulation/6) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-071fdb74d2ef52252ce567e6bbfa6b39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/436/regulation/7) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-071fdb74d2ef52252ce567e6bbfa6b39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/436/regulation/7) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-7bd54534cf559e81cce0cec61c2b5fe6]: Textual amendment: [Regs. 7](https://www.legislation.gov.uk/nisr/2008/436/regulation/7), [8](https://www.legislation.gov.uk/nisr/2008/436/regulation/8) applied as inserted by 2013 SR246 reg. 11(7)(e) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(7)(e)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/7/e))
+[^c-7bd54534cf559e81cce0cec61c2b5fe6]: Textual amendment: [Regs. 7](https://www.legislation.gov.uk/nisr/2008/436/regulation/7), [8](https://www.legislation.gov.uk/nisr/2008/436/regulation/8) applied as inserted by 2013 SR246 reg. 11(7)(e) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(7)(e)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/7/e))
 
-[^key-4509e9035a4cecaf4d2c5431f584713b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/436/regulation/8) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-4509e9035a4cecaf4d2c5431f584713b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/436/regulation/8) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-b3b9fb4768c2dc3a8ef514bd824be4c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/436/regulation/9) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-b3b9fb4768c2dc3a8ef514bd824be4c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/436/regulation/9) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-7a97b12af3d6ec6ec3f75d8be045a5c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/436/regulation/10) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-7a97b12af3d6ec6ec3f75d8be045a5c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/436/regulation/10) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-c26e8a024848c93761efbd5de2883bfc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/436/regulation/11) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-c26e8a024848c93761efbd5de2883bfc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/436/regulation/11) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-334bb5b58ab6cf22fc87009358055ed5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/436/regulation/12) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-334bb5b58ab6cf22fc87009358055ed5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/436/regulation/12) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-4cca5e5c5c860f5e1b12b1c672fee21a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/436/regulation/13) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-4cca5e5c5c860f5e1b12b1c672fee21a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/436/regulation/13) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-82b80be5d22c9f63ed439b980bf0245f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/436/regulation/14) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-82b80be5d22c9f63ed439b980bf0245f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/436/regulation/14) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-972e68adddcc13254c6fc19cb938e223]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/436/regulation/15) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-972e68adddcc13254c6fc19cb938e223]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/436/regulation/15) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-b526c85005398eaa410165fb9f072414]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/436/regulation/16) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-b526c85005398eaa410165fb9f072414]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/436/regulation/16) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-4e3f99e99c3bb55e54c4e75098690839]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/436/regulation/17) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-4e3f99e99c3bb55e54c4e75098690839]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/436/regulation/17) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-4b5f3e8199029fae5b43e90f52254303]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/436/regulation/18) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-4b5f3e8199029fae5b43e90f52254303]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/436/regulation/18) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-cdd20b1851defe6155a36dadc15c5d22]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/436/regulation/19) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-cdd20b1851defe6155a36dadc15c5d22]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/436/regulation/19) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-9a1ac020fa905a307364d7cfe81365c0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2008/436/regulation/20) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-9a1ac020fa905a307364d7cfe81365c0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2008/436/regulation/20) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-ffd0563e764a5e9d2628b32795f33406]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2008/436/regulation/21) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-ffd0563e764a5e9d2628b32795f33406]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2008/436/regulation/21) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-deecb95694d0547e4cd0cef3bd460a73]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/436/regulation/22) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-deecb95694d0547e4cd0cef3bd460a73]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/436/regulation/22) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-f1c2ea630891491a02c2a5a9b6667f1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2008/436/regulation/23) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-f1c2ea630891491a02c2a5a9b6667f1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2008/436/regulation/23) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-c054468e8c8bc528c8562e629866d0c7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/436/regulation/24) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-c054468e8c8bc528c8562e629866d0c7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/436/regulation/24) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-f26eabb8a49b6983de519623468419ec]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/436/regulation/25) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-f26eabb8a49b6983de519623468419ec]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/436/regulation/25) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-d3c446f3c0c74105c8df203b64af031c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2008/436/regulation/26) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-d3c446f3c0c74105c8df203b64af031c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2008/436/regulation/26) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-8825498089fc58afa1089013ce9cb177]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/436/regulation/27) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-8825498089fc58afa1089013ce9cb177]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/436/regulation/27) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-cf5906d20583e0abf9c41f9573934883]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2008/436/regulation/28) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-cf5906d20583e0abf9c41f9573934883]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2008/436/regulation/28) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-5bc9ab0a9a959ae010aa41debc921fb0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2008/436/regulation/29) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-5bc9ab0a9a959ae010aa41debc921fb0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2008/436/regulation/29) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-eb0ff9d5a7cc6fb9a4844dc9ba8afc92]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2008/436/regulation/30) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-eb0ff9d5a7cc6fb9a4844dc9ba8afc92]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2008/436/regulation/30) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-5568fa6495e3c50936cf222ecf8b1599]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2008/436/regulation/31) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-5568fa6495e3c50936cf222ecf8b1599]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2008/436/regulation/31) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-36d82de39b1592c6cea1a00ed5ce066f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2008/436/regulation/32) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-36d82de39b1592c6cea1a00ed5ce066f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2008/436/regulation/32) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-2badcbbe708729653a19903b5f127c26]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2008/436/regulation/33) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-2badcbbe708729653a19903b5f127c26]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2008/436/regulation/33) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
 [^f00009]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
 [^f00010]: Footnote: S.I. [2005/1970](https://www.legislation.gov.uk/uksi/2005/1970)
 
-[^key-64437b6e62a841a922d1fdd9580e12dd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2008/436/regulation/34) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-64437b6e62a841a922d1fdd9580e12dd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2008/436/regulation/34) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1971/182](https://www.legislation.gov.uk/nisr/1971/182)
 
-[^key-28f4f6045c1ffd5ea030ea0f2d38e874]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-28f4f6045c1ffd5ea030ea0f2d38e874]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-5d4f7eb5057886168bb576a021bbd49e]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/I/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-5d4f7eb5057886168bb576a021bbd49e]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/I/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-7cdd3a187f995f568ac4fc5ae9daedb4]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/1/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-7cdd3a187f995f568ac4fc5ae9daedb4]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/1/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-9daa7330f97e4c7b3796e2249a721b05]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/I/paragraph/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-9daa7330f97e4c7b3796e2249a721b05]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/I/paragraph/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-49cfc04016463aff0cf64d8984121e10]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/II/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-49cfc04016463aff0cf64d8984121e10]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/II/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-ab8e433a6791ad463ed26d7529cd82f3]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/II/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-ab8e433a6791ad463ed26d7529cd82f3]: Commencement: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/II/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-6a952689bfbf80ffd7a291ab6f3d706f]: Commencement: Sch. 2 Pt. 3 in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-6a952689bfbf80ffd7a291ab6f3d706f]: Commencement: Sch. 2 Pt. 3 in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-6fefa040c1a6d97a1abafc8f3a27523d]: Commencement: [Sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-6fefa040c1a6d97a1abafc8f3a27523d]: Commencement: [Sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-915070a81f175bd59a33e86df6e78fe5]: Commencement: [Sch. 2 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-915070a81f175bd59a33e86df6e78fe5]: Commencement: [Sch. 2 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-7a1e63a0c4ae1925b1b90ccbe83facf6]: Commencement: [Sch. 2 Pt. 4 para. 3](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-7a1e63a0c4ae1925b1b90ccbe83facf6]: Commencement: [Sch. 2 Pt. 4 para. 3](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/IV/paragraph/3) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-f5b7410b7c28fc8124ade8cef3cb0f0a]: Commencement: [Sch. 2 Pt. 4 para. 4](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/paragraph/4) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-f5b7410b7c28fc8124ade8cef3cb0f0a]: Commencement: [Sch. 2 Pt. 4 para. 4](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/paragraph/4) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-b4a3ec9107ed15a2f179b05d7602925a]: Commencement: [Sch. 2 Pt. 5 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/V/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-b4a3ec9107ed15a2f179b05d7602925a]: Commencement: [Sch. 2 Pt. 5 para. 1](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/V/paragraph/1) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
 
-[^key-f3344d7d08791794b72f63b1c2a3b079]: Commencement: [Sch. 2 Pt. 5 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/V/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)
+[^c-f3344d7d08791794b72f63b1c2a3b079]: Commencement: [Sch. 2 Pt. 5 para. 2](https://www.legislation.gov.uk/nisr/2008/436/schedule/2/part/V/paragraph/2) in operation at 11.12.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/436/regulation/1)

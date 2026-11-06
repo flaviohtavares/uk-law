@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Appropriate funds[^key-8c8adb7dfe0ae30fa22da69a04b68a08]
+## 30. Appropriate funds[^c-8c8adb7dfe0ae30fa22da69a04b68a08]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8adb7dfe0ae30fa22da69a04b68a08]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-8c8adb7dfe0ae30fa22da69a04b68a08]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).

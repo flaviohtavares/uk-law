@@ -52,13 +52,13 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred by section 1 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-98d6860d9c07e13dd8791e6a6309b12a]
+## 1. Citation and commencement[^c-98d6860d9c07e13dd8791e6a6309b12a]
 
 (1) This Order may be cited as the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016.
 
 (2) This Order comes into force on 9th November 2016.
 
-## 2. Interpretation[^key-0d06036a57dd2df70f9aff1cf9e0677a]
+## 2. Interpretation[^c-0d06036a57dd2df70f9aff1cf9e0677a]
 
 In this Order—
 
@@ -68,7 +68,7 @@ In this Order—
 - “instrument” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents;
 - “the Leader of the House of Commons” means the Minister of the Crown who is for the time being designated as Leader of the House of Commons by the Prime Minister.
 
-## 3. Transfer of concurrently exercisable functions of the Chancellor of the Duchy to the Minister for the Cabinet Office[^key-47d63970c2ce518581f83ef464876be7]
+## 3. Transfer of concurrently exercisable functions of the Chancellor of the Duchy to the Minister for the Cabinet Office[^c-47d63970c2ce518581f83ef464876be7]
 
 (1) The functions of the Secretary of State under—
 
@@ -79,15 +79,15 @@ which are exercisable concurrently with the Chancellor of the Duchy are to cease
 
 (2) The functions to which paragraph (1) applies include functions under any provision not yet in force at the time this Order is made (and in Schedule 1 a reference to an Act or provision of an Act or instrument includes a reference to the Act or provision as amended by any provision of an enactment or instrument passed or made before that time even though the amending provision is not yet in force at that time).
 
-## 4. Transfer of property, rights and liabilities in connection with article 3[^key-6e8d1d5749767bd6604e76fe45a9d31f]
+## 4. Transfer of property, rights and liabilities in connection with article 3[^c-6e8d1d5749767bd6604e76fe45a9d31f]
 
 There are transferred to the Minister for the Cabinet Office all property, rights and liabilities to which the Chancellor of the Duchy is entitled or subject at the coming into force of this Order in connection with an article 3 function.
 
-## 5. Transfer of concurrently exercisable functions of the Chancellor of the Duchy to the Leader of the House of Commons[^key-c9e35230398d8bbca0826b002085c0d5]
+## 5. Transfer of concurrently exercisable functions of the Chancellor of the Duchy to the Leader of the House of Commons[^c-c9e35230398d8bbca0826b002085c0d5]
 
 The functions of the Secretary of State under sections 3 and 4 of the Parliamentary Constituencies Act 1986[^f00003] are to cease to be exercisable concurrently with the Chancellor of the Duchy and are instead to be exercisable concurrently with the Leader of the House of Commons.
 
-## 6. Supplementary provision in connection with articles 3 to 5[^key-053c182fd231957bfcc98b051ede046d]
+## 6. Supplementary provision in connection with articles 3 to 5[^c-053c182fd231957bfcc98b051ede046d]
 
 (1) This article applies to—
 
@@ -108,7 +108,7 @@ The functions of the Secretary of State under sections 3 and 4 of the Parliament
 
 (6) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as necessary for the purposes of or in consequence of the transfer of anything to which this article applies, as if references to the Chancellor of the Duchy (and references which are to be read as references to the Chancellor of the Duchy) were references to the transferee.
 
-## 7. Transfer of functions exercisable by the Chancellor of the Duchy only to the Minister for the Cabinet Office[^key-092db59fc474b47d7cbb5e8ab558eeae]
+## 7. Transfer of functions exercisable by the Chancellor of the Duchy only to the Minister for the Cabinet Office[^c-092db59fc474b47d7cbb5e8ab558eeae]
 
 The following functions of the Chancellor of the Duchy are transferred to the Minister for the Cabinet Office—
 
@@ -118,7 +118,7 @@ The following functions of the Chancellor of the Duchy are transferred to the Mi
   - (i) the Representation of the People (England and Wales) Regulations 2001[^f00006];
   - (ii) the Representation of the People (Scotland) Regulations 2001[^f00007].
 
-## 8. Supplementary provision in connection with article 7[^key-56e468309bd43266ad9d2346d688b0f7]
+## 8. Supplementary provision in connection with article 7[^c-56e468309bd43266ad9d2346d688b0f7]
 
 (1) There are transferred to the Minister for the Cabinet Office all property, rights and liabilities to which the Chancellor of the Duchy is entitled or subject at the coming into force of this Order in connection with a function which is transferred by article 7 to the Minister for the Cabinet Office (an “article 7 function”).
 
@@ -130,11 +130,11 @@ The following functions of the Chancellor of the Duchy are transferred to the Mi
 
 (5) Any enactment or instrument passed or made before the coming into force of this Order has effect, so far as necessary for the purposes of or in consequence of article 7 or paragraph (1), as if references to the Chancellor of the Duchy (and references which are to be read as references to the Chancellor of the Duchy) were references to the Minister for the Cabinet Office.
 
-## 9. Function of the Secretary of State to be exercisable concurrently with the Minister for the Cabinet Office[^key-6b67b12b6da583fd721d506cb111aac2]
+## 9. Function of the Secretary of State to be exercisable concurrently with the Minister for the Cabinet Office[^c-6b67b12b6da583fd721d506cb111aac2]
 
 The function of the Secretary of State under regulation 114(6) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016[^f00008] is to be exercisable concurrently with the Minister for the Cabinet Office.
 
-## 10. Transfer of functions from the Minister for the Cabinet Office to the Secretary of State[^key-0a5e772e4a954a04a808b19314028907]
+## 10. Transfer of functions from the Minister for the Cabinet Office to the Secretary of State[^c-0a5e772e4a954a04a808b19314028907]
 
 (1) The functions of the Minister for the Cabinet Office under an Act, a provision of an Act or an instrument listed in paragraph (2) are transferred to the Secretary of State.
 
@@ -154,7 +154,7 @@ The function of the Secretary of State under regulation 114(6) of the Recall of 
 
 (4) The function of the Secretary of State under section 5(1) of the Police, Factories, &c. (Miscellaneous Provisions) Act 1916 (regulation of street collections)[^f00018] which is exercisable by the Secretary of State and the Minister for the Cabinet Office concurrently is to cease to be exercisable by the Minister for the Cabinet Office.
 
-## 11. Supplementary provision in connection with article 10[^key-2e4a40304ab592c52b6b755ea6fa28ea]
+## 11. Supplementary provision in connection with article 10[^c-2e4a40304ab592c52b6b755ea6fa28ea]
 
 (1) In this article, “article 10 function” means a function which—
 
@@ -176,13 +176,13 @@ The function of the Secretary of State under regulation 114(6) of the Recall of 
 - (a) references to the Minister for the Cabinet Office are to be read as including references to the Cabinet Office or an officer in that Office, and
 - (b) references to the Secretary of State are to be read as including references to a department or an officer of the Secretary of State accordingly.
 
-## 12. Validity of things done before coming into force of Order[^key-3b08ae16096b1a8f1e85f46642fc572b]
+## 12. Validity of things done before coming into force of Order[^c-3b08ae16096b1a8f1e85f46642fc572b]
 
 (1) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to the Chancellor of the Duchy or the Minister for the Cabinet Office before the coming into force of this Order.
 
 (2) In paragraph (1), the references to the Chancellor of the Duchy and the Minister for the Cabinet Office include references to the Cabinet Office or an officer in that Office.
 
-## 13. Consequential amendments[^key-18e5b32c5b5e83ff3b2efc5dc0b77511]
+## 13. Consequential amendments[^c-18e5b32c5b5e83ff3b2efc5dc0b77511]
 
 Schedule 2 has effect.
 
@@ -190,11 +190,11 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — Acts and provisions referred to in article 3(1)[^key-4294f77d9d2304b01aa6415d48d0272f]
+## SCHEDULE 1 — Acts and provisions referred to in article 3(1)[^c-4294f77d9d2304b01aa6415d48d0272f]
 
 Article 3(1)
 
-[^key-4294f77d9d2304b01aa6415d48d0272f]
+[^c-4294f77d9d2304b01aa6415d48d0272f]
 
 The Acts and provisions referred to in article 3(1) are—
 
@@ -229,11 +229,11 @@ Article 13
 
 ### PART 1 — Primary legislation
 
-#### 1. Police, Factories, &c. (Miscellaneous Provisions) Act [1916 (c. 31)](https://www.legislation.gov.uk/ukpga/1916/31)[^key-4069b593e9235d83246fe0281034ba51]
+#### 1. Police, Factories, &c. (Miscellaneous Provisions) Act [1916 (c. 31)](https://www.legislation.gov.uk/ukpga/1916/31)[^c-4069b593e9235d83246fe0281034ba51]
 
 In section 5(1)(a) and (2) of the Police, Factories, &c. (Miscellaneous Provisions) Act 1916 (regulation of street collection)[^f00043], in each place omit “or the Minister for the Cabinet Office”.
 
-#### 2. House to House Collections Act [1939 (c. 44)](https://www.legislation.gov.uk/ukpga/1939/44)[^key-b7c04ca02b4e61dc9110b12fdba5bf00]
+#### 2. House to House Collections Act [1939 (c. 44)](https://www.legislation.gov.uk/ukpga/1939/44)[^c-b7c04ca02b4e61dc9110b12fdba5bf00]
 
 In the following provisions of the House to House Collections Act 1939[^f00044], for “Minister for the Cabinet Office” in each place substitute “Secretary of State”—
 
@@ -241,7 +241,7 @@ In the following provisions of the House to House Collections Act 1939[^f00044],
 - (b) section 3 (exemptions);
 - (c) section 4(1) and (2) (regulations).
 
-#### 3. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^key-779120123f4a18f1803807a3b2dc7a76]
+#### 3. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^c-779120123f4a18f1803807a3b2dc7a76]
 
 For section 199ZA of the Representation of the People Act 1983[^f00045] substitute—
 
@@ -249,13 +249,13 @@ For section 199ZA of the Representation of the People Act 1983[^f00045] substitu
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 4. Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50)[^key-1c6d799d1836641df836476798404961]
+#### 4. Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50)[^c-1c6d799d1836641df836476798404961]
 
 In section 27 of the Representation of the People Act 1985 (interpretation)[^f00046], for subsection (2ZA) substitute—
 
 > (2ZA) See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 5. Parliamentary Constituencies Act [1986 (c. 56)](https://www.legislation.gov.uk/ukpga/1986/56)[^key-8ad03d4ddcc7021b187164b91603fdef]
+#### 5. Parliamentary Constituencies Act [1986 (c. 56)](https://www.legislation.gov.uk/ukpga/1986/56)[^c-8ad03d4ddcc7021b187164b91603fdef]
 
 (1) The Parliamentary Constituencies Act 1986 is amended as follows.
 
@@ -278,18 +278,18 @@ In section 27 of the Representation of the People Act 1985 (interpretation)[^f00
 >
 > In this Schedule, “the Secretary of State” means the Secretary of State or the Minister for the Cabinet Office.
 
-#### 6. Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)[^key-68605b0ed394e3e0333f097bb7be3f51]
+#### 6. Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)[^c-68605b0ed394e3e0333f097bb7be3f51]
 
 In paragraph 16(1) and (5) of Schedule 4B to the Town and Country Planning Act 1990 (regulations about referendums relating to neighbourhood development orders)[^f00050], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 7. Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14)[^key-aa0085589b8f5b911fb15e8ca95d8c15]
+#### 7. Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14)[^c-aa0085589b8f5b911fb15e8ca95d8c15]
 
 In the following provisions of the Local Government Finance Act 1992, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
 - (a) section 52ZQ(1), (2) and (6) (regulations about referendums relating to council tax increases)[^f00051];
 - (b) section 113(1), (2) and (3) (orders and regulations)[^f00052].
 
-#### 8. Charities Act [1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41)[^key-1f5bc40352a38c04a5e1a18a0638ccc8]
+#### 8. Charities Act [1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41)[^c-1f5bc40352a38c04a5e1a18a0638ccc8]
 
 (1) The Charities Act 1992 is amended as follows.
 
@@ -306,7 +306,7 @@ In the following provisions of the Local Government Finance Act 1992, for “Cha
 - (g) section 77(1), (3) and (4) (regulations and orders);
 - (h) section 79(2) (commencement).
 
-#### 9. National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39)[^key-41af94ae7e28798d22d99f6f68e23360]
+#### 9. National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39)[^c-41af94ae7e28798d22d99f6f68e23360]
 
 (1) The National Lottery etc. Act 1993 is amended as follows.
 
@@ -351,15 +351,15 @@ In the following provisions of the Local Government Finance Act 1992, for “Cha
 - (a) for “Minister for the Cabinet Office” in each place substitute “Secretary of State”, and
 - (b) in paragraphs 6 and 18(1), for “section 36E(2)(b)” substitute “section 36E(3)(ab)”.
 
-#### 10. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^key-0882df9a6aff8a2beee403f9d7b76c5a]
+#### 10. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^c-0882df9a6aff8a2beee403f9d7b76c5a]
 
 In section 507B(12) of the Education Act 1996[^f00065], for “the Minister for the Cabinet Office” substitute “the Secretary of State”.
 
-#### 11. Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29)[^key-21a09439591f70aa01590ac09cff51bc]
+#### 11. Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29)[^c-21a09439591f70aa01590ac09cff51bc]
 
 In section 17A(3) and (6) of the Greater London Authority Act 1999 (free delivery of election addresses)[^f00066], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 12. Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2)[^key-5e4631953f02eae151ad755c48afd6f8]
+#### 12. Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2)[^c-5e4631953f02eae151ad755c48afd6f8]
 
 For section 16A of the Representation of the People Act 2000[^f00067] substitute—
 
@@ -367,7 +367,7 @@ For section 16A of the Representation of the People Act 2000[^f00067] substitute
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 13. Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)[^key-3082442ab68c0b31d9be8ad6a8e2d1a6]
+#### 13. Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)[^c-3082442ab68c0b31d9be8ad6a8e2d1a6]
 
 In the following provisions of the Local Government Act 2000, for “Chancellor of the Duchy of Lancaster” in each place substitute “Minister for the Cabinet Office”—
 
@@ -376,7 +376,7 @@ In the following provisions of the Local Government Act 2000, for “Chancellor 
 - (c) section 44(1), (3A) and (3B) (power to make provision about elections)[^f00070];
 - (d) section 105(2A) (orders and regulations)[^f00071].
 
-#### 14. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^key-c4b1cbe81e20147a53036f77491b1d9f]
+#### 14. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^c-c4b1cbe81e20147a53036f77491b1d9f]
 
 (1) The Freedom of Information Act 2000 is amended as follows.
 
@@ -406,7 +406,7 @@ In the following provisions of the Local Government Act 2000, for “Chancellor 
 
 (4) In the heading of section 45, for the words from “by Chancellor” to the end substitute “by the Minister for the Cabinet Office”.
 
-#### 15. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-7d186e79b4d11adf76b1ea03eea51b36]
+#### 15. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^c-7d186e79b4d11adf76b1ea03eea51b36]
 
 In the following provisions of the Political Parties, Elections and Referendums Act 2000, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
@@ -414,7 +414,7 @@ In the following provisions of the Political Parties, Elections and Referendums 
 - (b) section 159A (functions of the Chancellor of the Duchy of Lancaster), including in the heading[^f00084];
 - (c) paragraph 2(1)(c) of Schedule 2 (Speaker’s Committee)[^f00085].
 
-#### 16. European Parliamentary Elections Act [2002 (c. 24)](https://www.legislation.gov.uk/ukpga/2002/24)[^key-d97194649608e4f5066f0666dc1f607c]
+#### 16. European Parliamentary Elections Act [2002 (c. 24)](https://www.legislation.gov.uk/ukpga/2002/24)[^c-d97194649608e4f5066f0666dc1f607c]
 
 For section 16B of the European Parliamentary Elections Act 2002[^f00086] substitute—
 
@@ -422,7 +422,7 @@ For section 16B of the European Parliamentary Elections Act 2002[^f00086] substi
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 17. European Parliament (Representation) Act [2003 (c. 7)](https://www.legislation.gov.uk/ukpga/2003/7)[^key-94fe8c6aaf07d93b052a263ed1e7e5f1]
+#### 17. European Parliament (Representation) Act [2003 (c. 7)](https://www.legislation.gov.uk/ukpga/2003/7)[^c-94fe8c6aaf07d93b052a263ed1e7e5f1]
 
 For section 26A of the European Parliament (Representation) Act 2003[^f00087] substitute—
 
@@ -430,7 +430,7 @@ For section 26A of the European Parliament (Representation) Act 2003[^f00087] su
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 18. Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22)[^key-e2cfaf5d688070cc0589424663ada365]
+#### 18. Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22)[^c-e2cfaf5d688070cc0589424663ada365]
 
 For section 74A of the Electoral Administration Act 2006[^f00088] substitute—
 
@@ -438,7 +438,7 @@ For section 74A of the Electoral Administration Act 2006[^f00088] substitute—
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 19. Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50)[^key-25cd1d3850fc342bb836f3262f25a215]
+#### 19. Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50)[^c-25cd1d3850fc342bb836f3262f25a215]
 
 (1) The Charities Act 2006 is amended as follows.
 
@@ -452,7 +452,7 @@ For section 74A of the Electoral Administration Act 2006[^f00088] substitute—
 
 (3) In section 78(6) (interpretation), omit the definition of “the Minister”.
 
-#### 20. Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31)[^key-e6cd203281225f5313867d003d7c2db2]
+#### 20. Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31)[^c-e6cd203281225f5313867d003d7c2db2]
 
 (1) The Dormant Bank and Building Society Accounts Act 2008 is amended as follows.
 
@@ -471,7 +471,7 @@ For section 74A of the Electoral Administration Act 2006[^f00088] substitute—
 
 (4) In sections 23(1) and 26(3), for “Minister” in each place substitute “Secretary of State”.
 
-#### 21. Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12)[^key-9bb88c7d4e174f394a3a15657530a64a]
+#### 21. Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12)[^c-9bb88c7d4e174f394a3a15657530a64a]
 
 For section 38A of the Political Parties and Elections Act 2009[^f00090] substitute—
 
@@ -479,7 +479,7 @@ For section 38A of the Political Parties and Elections Act 2009[^f00090] substit
 >
 > See the Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016, by virtue of which functions of the Secretary of State under this Act are exercisable concurrently with the Minister for the Cabinet Office.
 
-#### 22. Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20)[^key-9fb47e38e93c703e6d52570634ba2d8b]
+#### 22. Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20)[^c-9fb47e38e93c703e6d52570634ba2d8b]
 
 In the following provisions of the Local Democracy, Economic Development and Construction Act 2009, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
@@ -487,11 +487,11 @@ In the following provisions of the Local Democracy, Economic Development and Con
 - (b) section 116(1A) (power to make consequential provision in relation to orders under Schedule 5B)[^f00092];
 - (c) in Schedule 5B (mayors for combined authority areas: further provision about elections)[^f00093], paragraphs 3 and 12(1), (4) and (5).
 
-#### 23. Parliamentary Voting System and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1)[^key-79eaf7f0e1866fd425fd52cdf42f280d]
+#### 23. Parliamentary Voting System and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1)[^c-79eaf7f0e1866fd425fd52cdf42f280d]
 
 In section 14(4) of the Parliamentary Voting System and Constituencies Act 2011 (review of reduction in number of constituencies)[^f00094], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 24. Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13)[^key-15849822eac840dee812199d778682b7]
+#### 24. Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13)[^c-15849822eac840dee812199d778682b7]
 
 In the following provisions of the Police Reform and Social Responsibility Act 2011, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
@@ -506,7 +506,7 @@ In the following provisions of the Police Reform and Social Responsibility Act 2
 - (i) section 75(1) (duty to designate a local authority for each police area other than the metropolitan police district)[^f00103];
 - (j) section 154(1) and (5) (orders and regulations)[^f00104].
 
-#### 25. Charities Act [2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25)[^key-f343327791a829efc4c5d923ef8e1779]
+#### 25. Charities Act [2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25)[^c-f343327791a829efc4c5d923ef8e1779]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -562,33 +562,33 @@ In the following provisions of the Police Reform and Social Responsibility Act 2
 
 (5) In Schedule 11 (index of defined expressions), omit the entry for “the Minister”.
 
-#### 26. Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6)[^key-9984d8a892f3398991a6b4c7fa7faf64]
+#### 26. Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6)[^c-9984d8a892f3398991a6b4c7fa7faf64]
 
 In section 25(1) of the Electoral Registration and Administration Act 2013 (meaning of “the Minister” etc)[^f00107], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 27. Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act [2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4)[^key-ada7ee0f3c42bb0668ff34f21d404eac]
+#### 27. Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act [2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4)[^c-ada7ee0f3c42bb0668ff34f21d404eac]
 
 In the following provisions of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
 - (a) the definition of “the Minister” in section 25(1) (interpretation)[^f00108];
 - (b) section 33(13) (reporting of donations to recognised third parties)[^f00109].
 
-#### 28. Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29)[^key-31546f8217998b6b4015a43942916b53]
+#### 28. Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29)[^c-31546f8217998b6b4015a43942916b53]
 
 In the following provisions of the Wales Act 2014, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
 - (a) section 13(4)(a) (Assembly proposal for referendum on income tax provisions)[^f00110];
 - (b) the definition of “the Minister” in paragraph 15(1) of Schedule 1 (referendum on income tax provisions)[^f00111].
 
-#### 29. Recall of MPs Act [2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25)[^key-16d720867a25059f757fa63cc98693cf]
+#### 29. Recall of MPs Act [2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25)[^c-16d720867a25059f757fa63cc98693cf]
 
 In section 22(1) of the Recall of MPs Act 2015 (interpretation)[^f00112], in the definition of “the Minister”, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 30. European Union Referendum Act [2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36)[^key-b97b0240804225f62959b8aa845f2104]
+#### 30. European Union Referendum Act [2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36)[^c-b97b0240804225f62959b8aa845f2104]
 
 In section 11(1) of the European Union Referendum Act 2015, in the definition of “the Minister”, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 31. Charities (Protection and Social Investment) Act [2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4)[^key-9041841e1199bc553643af1a73294186]
+#### 31. Charities (Protection and Social Investment) Act [2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4)[^c-9041841e1199bc553643af1a73294186]
 
 (1) The Charities (Protection and Social Investment) Act 2016 is amended as follows.
 
@@ -599,7 +599,7 @@ In section 11(1) of the European Union Referendum Act 2015, in the definition of
 
 (3) In section 16(2), for “Minister” substitute “Secretary of State”.
 
-#### 32. Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19)[^key-792d914c883956f00b2ca9a4c86994e8]
+#### 32. Immigration Act [2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19)[^c-792d914c883956f00b2ca9a4c86994e8]
 
 In the following provisions of the Immigration Act 2016, for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”—
 
@@ -608,7 +608,7 @@ In the following provisions of the Immigration Act 2016, for “Chancellor of th
 
 ### PART 2 — Secondary legislation
 
-#### 33. Representation of the People (England and Wales) Regulations 2001 ([S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341))[^key-9c4d27a179676eac60ff56023b550894]
+#### 33. Representation of the People (England and Wales) Regulations 2001 ([S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341))[^c-9c4d27a179676eac60ff56023b550894]
 
 (1) The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
 
@@ -628,7 +628,7 @@ In the following provisions of the Immigration Act 2016, for “Chancellor of th
 - (a) regulation 29ZA(1);
 - (b) regulation 29ZB(8)[^f00121].
 
-#### 34. Representation of the People (Scotland) Regulations 2001 ([S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497))[^key-19c32c52e4ee7803c2988dbcd31dac5e]
+#### 34. Representation of the People (Scotland) Regulations 2001 ([S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497))[^c-19c32c52e4ee7803c2988dbcd31dac5e]
 
 (1) The Representation of the People (Scotland) Regulations 2001 are amended as follows.
 
@@ -648,19 +648,19 @@ In the following provisions of the Immigration Act 2016, for “Chancellor of th
 - (a) regulation 29ZA(1);
 - (b) regulation 29ZB(8)[^f00130].
 
-#### 35. European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 ([S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184))[^key-bd0aec4ebaf5df99dead2da91fa1fb3e]
+#### 35. European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 ([S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184))[^c-bd0aec4ebaf5df99dead2da91fa1fb3e]
 
 In regulation 8(1) and (3) of the European Parliamentary Elections (Franchise of Relevant Citizens of the Union) Regulations 2001 (copies of certain applications etc to be sent to the Secretary of State)[^f00131], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 36. Police and Crime Commissioner Elections Order 2012 ([S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917))[^key-c45e4c60dd1eb290bb5f140d16016c85]
+#### 36. Police and Crime Commissioner Elections Order 2012 ([S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917))[^c-c45e4c60dd1eb290bb5f140d16016c85]
 
 In article 2(1) of the Police and Crime Commissioner Elections Order 2012 (interpretation), in the definition of “the Minister”[^f00132], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 37. Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012 ([S.I. 2012/2088](https://www.legislation.gov.uk/uksi/2012/2088))[^key-20f15ee82386e2fe0b0b2f6a7f537f51]
+#### 37. Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012 ([S.I. 2012/2088](https://www.legislation.gov.uk/uksi/2012/2088))[^c-20f15ee82386e2fe0b0b2f6a7f537f51]
 
 In regulation 3 of the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012 (address for submission of accounts)[^f00133], for “Chancellor of the Duchy of Lancaster” substitute “Minister for the Cabinet Office”.
 
-#### 38. Tax Relief for Social Investments (Accreditation of Social Impact Contractor) Regulations 2014 ([S.I. 2014/3066](https://www.legislation.gov.uk/uksi/2014/3066))[^key-d71ee915e73e97e127c9ebf76144ecf8]
+#### 38. Tax Relief for Social Investments (Accreditation of Social Impact Contractor) Regulations 2014 ([S.I. 2014/3066](https://www.legislation.gov.uk/uksi/2014/3066))[^c-d71ee915e73e97e127c9ebf76144ecf8]
 
 (1) The Tax Relief for Social Investments (Accreditation of Social Impact Contractor) Regulations 2014 are amended as follows.
 
@@ -679,7 +679,7 @@ In regulation 3 of the Police and Crime Commissioner Elections (Returning Office
 
 (4) In regulation 7A(2), for “Minister’s” substitute “Secretary of State’s”.
 
-#### 39. Recall of MPs Act 2015 (Recall Petition) Regulations 2016 ([S.I. 2016/295](https://www.legislation.gov.uk/uksi/2016/295))[^key-a3f13c05b854d17a1306cd905f8f4e8e]
+#### 39. Recall of MPs Act 2015 (Recall Petition) Regulations 2016 ([S.I. 2016/295](https://www.legislation.gov.uk/uksi/2016/295))[^c-a3f13c05b854d17a1306cd905f8f4e8e]
 
 In regulation 114(6) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (forwarding of documents), for “Secretary of State” substitute “Minister”.
 
@@ -711,23 +711,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-98d6860d9c07e13dd8791e6a6309b12a]: Commencement: Art. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-98d6860d9c07e13dd8791e6a6309b12a]: Commencement: Art. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-0d06036a57dd2df70f9aff1cf9e0677a]: Commencement: Art. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-0d06036a57dd2df70f9aff1cf9e0677a]: Commencement: Art. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-47d63970c2ce518581f83ef464876be7]: Commencement: Art. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-47d63970c2ce518581f83ef464876be7]: Commencement: Art. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00002]: Footnote: The functions that are to be exercisable by the Minister for the Cabinet Office (concurrently with the Secretary of State) include those functions that were made exercisable by the Chancellor of the Duchy (concurrently with the Secretary of State) by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), art. 3, [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), art. 3 and by [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897), art. 3.
 
-[^key-6e8d1d5749767bd6604e76fe45a9d31f]: Commencement: Art. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-6e8d1d5749767bd6604e76fe45a9d31f]: Commencement: Art. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-c9e35230398d8bbca0826b002085c0d5]: Commencement: Art. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-c9e35230398d8bbca0826b002085c0d5]: Commencement: Art. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00003]: Footnote: [1986 c. 56](https://www.legislation.gov.uk/ukpga/1986/56). Section 3 was amended by section 2 of the Boundary Commissions Act [1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), section 10 of the Parliamentary Voting System and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1) and section 6 of the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6). Section 4 was amended by section 10 of the Parliamentary Voting System and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1) and the Schedule to the Fixed-term Parliaments Act [2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14). There are other amendments to the 1986 Act not relevant to this Order.
 
-[^key-053c182fd231957bfcc98b051ede046d]: Commencement: Art. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-053c182fd231957bfcc98b051ede046d]: Commencement: Art. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-092db59fc474b47d7cbb5e8ab558eeae]: Commencement: Art. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-092db59fc474b47d7cbb5e8ab558eeae]: Commencement: Art. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00004]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36). The functions that are to be transferred to the Minister for the Cabinet Office are those that were transferred to the Chancellor of the Duchy by [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897), art. 4.
 
@@ -737,13 +737,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00007]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497), amended by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), [2015/1376](https://www.legislation.gov.uk/uksi/2015/1376); there are other amending instruments but none is relevant. The functions that are to be transferred to the Minister for the Cabinet Office are those that were transferred to the Chancellor of the Duchy by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376).
 
-[^key-56e468309bd43266ad9d2346d688b0f7]: Commencement: Art. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-56e468309bd43266ad9d2346d688b0f7]: Commencement: Art. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-6b67b12b6da583fd721d506cb111aac2]: Commencement: Art. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-6b67b12b6da583fd721d506cb111aac2]: Commencement: Art. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2016/295](https://www.legislation.gov.uk/uksi/2016/295).
 
-[^key-0a5e772e4a954a04a808b19314028907]: Commencement: Art. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-0a5e772e4a954a04a808b19314028907]: Commencement: Art. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00009]: Footnote: [1939 c. 44](https://www.legislation.gov.uk/ukpga/1939/44). The functions under sections 2, 3 and 4 were transferred to the Minister for the Cabinet Office by [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), art. 3.
 
@@ -765,13 +765,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00018]: Footnote: [1916 c. 31](https://www.legislation.gov.uk/ukpga/1916/31). The function under section 5 was conferred on the Minister for the Cabinet Office by [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), art. 3.
 
-[^key-2e4a40304ab592c52b6b755ea6fa28ea]: Commencement: Art. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-2e4a40304ab592c52b6b755ea6fa28ea]: Commencement: Art. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-3b08ae16096b1a8f1e85f46642fc572b]: Commencement: Art. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-3b08ae16096b1a8f1e85f46642fc572b]: Commencement: Art. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-18e5b32c5b5e83ff3b2efc5dc0b77511]: Commencement: Art. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-18e5b32c5b5e83ff3b2efc5dc0b77511]: Commencement: Art. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-4294f77d9d2304b01aa6415d48d0272f]: Commencement: Sch. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-4294f77d9d2304b01aa6415d48d0272f]: Commencement: Sch. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00019]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -821,23 +821,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00042]: Footnote: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-4069b593e9235d83246fe0281034ba51]: Commencement: Sch. 2 para. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-4069b593e9235d83246fe0281034ba51]: Commencement: Sch. 2 para. 1 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00043]: Footnote: Section 5(1)(a) and (2) were amended by [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Sch. Other amendments have been made to section 5 which are not relevant to this Order.
 
-[^key-b7c04ca02b4e61dc9110b12fdba5bf00]: Commencement: Sch. 2 para. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-b7c04ca02b4e61dc9110b12fdba5bf00]: Commencement: Sch. 2 para. 2 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00044]: Footnote: The provisions in question were amended by [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Sch.
 
-[^key-779120123f4a18f1803807a3b2dc7a76]: Commencement: Sch. 2 para. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-779120123f4a18f1803807a3b2dc7a76]: Commencement: Sch. 2 para. 3 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00045]: Footnote: Section 199ZA was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-1c6d799d1836641df836476798404961]: Commencement: Sch. 2 para. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-1c6d799d1836641df836476798404961]: Commencement: Sch. 2 para. 4 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00046]: Footnote: Section 27(2ZA) was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2. Section 27 is applied with modifications by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), art. 3 and Sch. 1.
 
-[^key-8ad03d4ddcc7021b187164b91603fdef]: Commencement: Sch. 2 para. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-8ad03d4ddcc7021b187164b91603fdef]: Commencement: Sch. 2 para. 5 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00047]: Footnote: Section 3 was amended by section 2 of the Boundary Commissions Act [1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), section 10 of the Parliamentary Voting System and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1) and section 6 of the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6). Other amendments have been made to section 3 which are not relevant to this Order.
 
@@ -845,17 +845,17 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00049]: Footnote: Section 6B was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-68605b0ed394e3e0333f097bb7be3f51]: Commencement: Sch. 2 para. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-68605b0ed394e3e0333f097bb7be3f51]: Commencement: Sch. 2 para. 6 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00050]: Footnote: Schedule 4B was inserted by Schedule 10 to the Localism Act 2011. It is applied with modifications by sections 38A(3) and 38C(5) of the Planning and Compulsory Purchase Act 2004 and paragraph 7 of Schedule 4C to the Town and Country Planning Act 1990 as inserted by Schedules 9 and 11 to the Localism Act 2011. Paragraph 16(1) and (5) of Schedule 4B were amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-aa0085589b8f5b911fb15e8ca95d8c15]: Commencement: Sch. 2 para. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-aa0085589b8f5b911fb15e8ca95d8c15]: Commencement: Sch. 2 para. 7 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00051]: Footnote: Section 52ZQ was inserted by Schedule 5 to the Localism Act 2011 and amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
 [^f00052]: Footnote: Section 113 was amended by paragraph 52 of Schedule 7 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), by section 80(4) and (5) of, and paragraph 32 of Schedule 6 to, the Localism Act 2011, by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2. Other amendments have been made to section 113 which are not relevant to this Order.
 
-[^key-1f5bc40352a38c04a5e1a18a0638ccc8]: Commencement: Sch. 2 para. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-1f5bc40352a38c04a5e1a18a0638ccc8]: Commencement: Sch. 2 para. 8 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00053]: Footnote: The definition of “the Minister” in section 58(1) was inserted by section 75(1) of the Charities Act [2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50).
 
@@ -869,7 +869,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00058]: Footnote: Section 64B was inserted by section 14 of the Charities (Protection and Social Investment) Act [2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4).
 
-[^key-41af94ae7e28798d22d99f6f68e23360]: Commencement: Sch. 2 para. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-41af94ae7e28798d22d99f6f68e23360]: Commencement: Sch. 2 para. 9 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00059]: Footnote: Section 22(3A) to (3C) were inserted by section 7(3) of the National Lottery Act [2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23). Subsections (3A) and (3C) were amended by [S.I. 2011/739](https://www.legislation.gov.uk/uksi/2011/739), Sch.
 
@@ -883,19 +883,19 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00064]: Footnote: Schedule 4A was inserted by section 14 of and Schedule 2 to the National Lottery Act 2006 and amended by [S.I. 2011/739](https://www.legislation.gov.uk/uksi/2011/739), Sch.
 
-[^key-0882df9a6aff8a2beee403f9d7b76c5a]: Commencement: Sch. 2 para. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-0882df9a6aff8a2beee403f9d7b76c5a]: Commencement: Sch. 2 para. 10 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00065]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 507B was inserted by section 6 of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-21a09439591f70aa01590ac09cff51bc]: Commencement: Sch. 2 para. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-21a09439591f70aa01590ac09cff51bc]: Commencement: Sch. 2 para. 11 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00066]: Footnote: Section 17A was inserted by section 14 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Section 17A(3) was amended by [S.I. 2001/648](https://www.legislation.gov.uk/uksi/2001/648), Sch. 1 and Schedule 12 to the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5). Section 17A(3) and (6) were both amended by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-5e4631953f02eae151ad755c48afd6f8]: Commencement: Sch. 2 para. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-5e4631953f02eae151ad755c48afd6f8]: Commencement: Sch. 2 para. 12 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00067]: Footnote: Section 16A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-3082442ab68c0b31d9be8ad6a8e2d1a6]: Commencement: Sch. 2 para. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-3082442ab68c0b31d9be8ad6a8e2d1a6]: Commencement: Sch. 2 para. 13 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00068]: Footnote: Section 9HE was inserted by Schedule 2 to the Localism Act 2011 and was amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
@@ -905,7 +905,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00071]: Footnote: Section 105(2A) was inserted by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Sch. and amended by [S.I 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-c4b1cbe81e20147a53036f77491b1d9f]: Commencement: Sch. 2 para. 14 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-c4b1cbe81e20147a53036f77491b1d9f]: Commencement: Sch. 2 para. 14 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00072]: Footnote: The provisions listed in paragraph 14(2) were amended by [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897), Sch.
 
@@ -929,7 +929,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00082]: Footnote: Sub-paragraph (b) was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch. 2.
 
-[^key-7d186e79b4d11adf76b1ea03eea51b36]: Commencement: Sch. 2 para. 15 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-7d186e79b4d11adf76b1ea03eea51b36]: Commencement: Sch. 2 para. 15 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00083]: Footnote: Section 2(2)(b) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Sch. 2, substituted by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Sch. 2 and amended by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
@@ -937,29 +937,29 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00085]: Footnote: Paragraph 2(1)(c) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Sch. 2, by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) Sch. 2, by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-d97194649608e4f5066f0666dc1f607c]: Commencement: Sch. 2 para. 16 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-d97194649608e4f5066f0666dc1f607c]: Commencement: Sch. 2 para. 16 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00086]: Footnote: Section 16B was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-94fe8c6aaf07d93b052a263ed1e7e5f1]: Commencement: Sch. 2 para. 17 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-94fe8c6aaf07d93b052a263ed1e7e5f1]: Commencement: Sch. 2 para. 17 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00087]: Footnote: Section 26A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-e2cfaf5d688070cc0589424663ada365]: Commencement: Sch. 2 para. 18 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-e2cfaf5d688070cc0589424663ada365]: Commencement: Sch. 2 para. 18 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00088]: Footnote: Section 74A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-25cd1d3850fc342bb836f3262f25a215]: Commencement: Sch. 2 para. 19 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-25cd1d3850fc342bb836f3262f25a215]: Commencement: Sch. 2 para. 19 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-e6cd203281225f5313867d003d7c2db2]: Commencement: Sch. 2 para. 20 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-e6cd203281225f5313867d003d7c2db2]: Commencement: Sch. 2 para. 20 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00089]: Footnote: The provisions in question were amended by [S.I. 2010/2967](https://www.legislation.gov.uk/uksi/2010/2967), art. 3.
 
-[^key-9bb88c7d4e174f394a3a15657530a64a]: Commencement: Sch. 2 para. 21 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-9bb88c7d4e174f394a3a15657530a64a]: Commencement: Sch. 2 para. 21 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00090]: Footnote: Section 38A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Sch. and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-9fb47e38e93c703e6d52570634ba2d8b]: Commencement: Sch. 2 para. 22 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-9fb47e38e93c703e6d52570634ba2d8b]: Commencement: Sch. 2 para. 22 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00091]: Footnote: Section 114(1A) was inserted by Schedule 5 to the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
@@ -967,11 +967,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00093]: Footnote: Schedule 5B was inserted by Schedule 1 to the Cities and Local Government Devolution Act 2016.
 
-[^key-79eaf7f0e1866fd425fd52cdf42f280d]: Commencement: Sch. 2 para. 23 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-79eaf7f0e1866fd425fd52cdf42f280d]: Commencement: Sch. 2 para. 23 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00094]: Footnote: Section 14(4) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch.2.
 
-[^key-15849822eac840dee812199d778682b7]: Commencement: Sch. 2 para. 24 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-15849822eac840dee812199d778682b7]: Commencement: Sch. 2 para. 24 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00095]: Footnote: Section 50(4) was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Sch.
 
@@ -993,39 +993,39 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00104]: Footnote: Section 154(1) and (5) were amended by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268), art 4(3) and [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-f343327791a829efc4c5d923ef8e1779]: Commencement: Sch. 2 para. 25 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-f343327791a829efc4c5d923ef8e1779]: Commencement: Sch. 2 para. 25 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00105]: Footnote: Section 178A was inserted by section 9 of the Charities (Protection and Social Investment) Act [2016 (c.4)](https://www.legislation.gov.uk/ukpga/2016/4).
 
 [^f00106]: Footnote: Section 181A was inserted by section 10 of the Charities (Protection and Social Investment) Act [2016 (c.4)](https://www.legislation.gov.uk/ukpga/2016/4).
 
-[^key-9984d8a892f3398991a6b4c7fa7faf64]: Commencement: Sch. 2 para. 26 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-9984d8a892f3398991a6b4c7fa7faf64]: Commencement: Sch. 2 para. 26 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00107]: Footnote: Section 25(1) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-ada7ee0f3c42bb0668ff34f21d404eac]: Commencement: Sch. 2 para. 27 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-ada7ee0f3c42bb0668ff34f21d404eac]: Commencement: Sch. 2 para. 27 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00108]: Footnote: The definition of “the Minister” in section 25(1) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
 [^f00109]: Footnote: Section 33(13) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-31546f8217998b6b4015a43942916b53]: Commencement: Sch. 2 para. 28 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-31546f8217998b6b4015a43942916b53]: Commencement: Sch. 2 para. 28 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00110]: Footnote: Section 13(4)(a) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
 [^f00111]: Footnote: The definition of “the Minister” in paragraph 15 of Schedule 1 was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-16d720867a25059f757fa63cc98693cf]: Commencement: Sch. 2 para. 29 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-16d720867a25059f757fa63cc98693cf]: Commencement: Sch. 2 para. 29 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00112]: Footnote: The definition of “the Minister” in section 22(1) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-b97b0240804225f62959b8aa845f2104]: Commencement: Sch. 2 para. 30 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-b97b0240804225f62959b8aa845f2104]: Commencement: Sch. 2 para. 30 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-9041841e1199bc553643af1a73294186]: Commencement: Sch. 2 para. 31 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-9041841e1199bc553643af1a73294186]: Commencement: Sch. 2 para. 31 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-792d914c883956f00b2ca9a4c86994e8]: Commencement: Sch. 2 para. 32 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-792d914c883956f00b2ca9a4c86994e8]: Commencement: Sch. 2 para. 32 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
-[^key-9c4d27a179676eac60ff56023b550894]: Commencement: Sch. 2 para. 33 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-9c4d27a179676eac60ff56023b550894]: Commencement: Sch. 2 para. 33 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00113]: Footnote: The definition of “digital service” was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), reg. 3 and amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
@@ -1045,7 +1045,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00121]: Footnote: Paragraph (8) of regulation 29ZB was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-19c32c52e4ee7803c2988dbcd31dac5e]: Commencement: Sch. 2 para. 34 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-19c32c52e4ee7803c2988dbcd31dac5e]: Commencement: Sch. 2 para. 34 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00122]: Footnote: The definition of “digital service” was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), reg. 3 and amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
@@ -1065,19 +1065,19 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00130]: Footnote: Paragraph (8) of regulation 29ZB was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2.
 
-[^key-bd0aec4ebaf5df99dead2da91fa1fb3e]: Commencement: Sch. 2 para. 35 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-bd0aec4ebaf5df99dead2da91fa1fb3e]: Commencement: Sch. 2 para. 35 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00131]: Footnote: Regulation 8(1) and (3) were amended by [S.I. 2003/1557](https://www.legislation.gov.uk/uksi/2003/1557), reg. 5, by [S.I. 2009/726](https://www.legislation.gov.uk/uksi/2009/726), reg. 2, by [S.I. 2013/2876](https://www.legislation.gov.uk/uksi/2013/2876), reg. 4 and by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Sch. 2. Regulation 8(1) is applied with modifications by [S.I. 2003/1557](https://www.legislation.gov.uk/uksi/2003/1557), reg. 6 and Sch. 1. Regulation 8(3) was also amended by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), reg. 6.
 
-[^key-c45e4c60dd1eb290bb5f140d16016c85]: Commencement: Sch. 2 para. 36 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-c45e4c60dd1eb290bb5f140d16016c85]: Commencement: Sch. 2 para. 36 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00132]: Footnote: The definition of “the Minister” was inserted in article 2(1) by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Sch.
 
-[^key-20f15ee82386e2fe0b0b2f6a7f537f51]: Commencement: Sch. 2 para. 37 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-20f15ee82386e2fe0b0b2f6a7f537f51]: Commencement: Sch. 2 para. 37 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00133]: Footnote: Regulation 3 was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Sch.
 
-[^key-d71ee915e73e97e127c9ebf76144ecf8]: Commencement: Sch. 2 para. 38 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-d71ee915e73e97e127c9ebf76144ecf8]: Commencement: Sch. 2 para. 38 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
 
 [^f00134]: Footnote: Regulation 3(1) was amended by [S.I. 2015/2051](https://www.legislation.gov.uk/uksi/2015/2051), reg. 4.
 
@@ -1089,4 +1089,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00138]: Footnote: Regulation 10 was amended by [S.I. 2015/2051](https://www.legislation.gov.uk/uksi/2015/2051), reg. 7.
 
-[^key-a3f13c05b854d17a1306cd905f8f4e8e]: Commencement: Sch. 2 para. 39 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)
+[^c-a3f13c05b854d17a1306cd905f8f4e8e]: Commencement: Sch. 2 para. 39 in force at 9.11.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2)

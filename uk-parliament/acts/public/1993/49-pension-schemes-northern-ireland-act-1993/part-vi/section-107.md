@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Voluntary contributions.[^key-a2332f8e4319393d1291c45ebc716f9b]
+## 107. Voluntary contributions.[^c-a2332f8e4319393d1291c45ebc716f9b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2332f8e4319393d1291c45ebc716f9b]: Textual amendment: S. 107 repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [244(1)](https://www.legislation.gov.uk/nisi/2005/255/article/244/1), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
+[^c-a2332f8e4319393d1291c45ebc716f9b]: Textual amendment: S. 107 repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [244(1)](https://www.legislation.gov.uk/nisi/2005/255/article/244/1), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Data matching for detection of fraud etc.[^key-5b7bec333753dabe72c72e3f072b5301]
+## 97. Data matching for detection of fraud etc.[^c-5b7bec333753dabe72c72e3f072b5301]
 
 *Extent: S*
 
@@ -227,4 +227,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b7bec333753dabe72c72e3f072b5301]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/13/section/97) in force at 6.10.2010 by [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
+[^c-5b7bec333753dabe72c72e3f072b5301]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/13/section/97) in force at 6.10.2010 by [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)

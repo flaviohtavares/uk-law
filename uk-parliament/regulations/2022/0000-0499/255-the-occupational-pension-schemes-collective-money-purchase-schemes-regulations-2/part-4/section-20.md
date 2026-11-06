@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Reporting requirements relating to benefit adjustments[^key-1f9f6a8034f7edd941d5ef42853a672b]
+## 20. Reporting requirements relating to benefit adjustments[^c-1f9f6a8034f7edd941d5ef42853a672b]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ A report under section 22(2) of the Act (benefits adjustments) must, in addition
 
 ## Annotations
 
-[^key-1f9f6a8034f7edd941d5ef42853a672b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/255/regulation/20) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-1f9f6a8034f7edd941d5ef42853a672b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/255/regulation/20) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

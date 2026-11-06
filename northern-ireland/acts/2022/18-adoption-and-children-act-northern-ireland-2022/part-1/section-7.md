@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Arrangements on cancellation of registration[^key-4bbd5a5d13180386aa7d0e593f6b6f25]
+## 7. Arrangements on cancellation of registration[^c-4bbd5a5d13180386aa7d0e593f6b6f25]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bbd5a5d13180386aa7d0e593f6b6f25]: Commencement: S. 7 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4bbd5a5d13180386aa7d0e593f6b6f25]: Commencement: S. 7 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

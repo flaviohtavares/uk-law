@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendments to Part 1 (introduction)[^key-9483315cd18234c021823f709a2c08b3]
+## 28. Amendments to Part 1 (introduction)[^c-9483315cd18234c021823f709a2c08b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 1(2) (interpretation), for the definition of “LLP” substitute�
 
 ## Annotations
 
-[^key-9483315cd18234c021823f709a2c08b3]: Commencement: Reg. 28 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-9483315cd18234c021823f709a2c08b3]: Commencement: Reg. 28 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00042]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).

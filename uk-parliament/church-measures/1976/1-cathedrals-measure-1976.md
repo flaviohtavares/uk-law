@@ -52,7 +52,7 @@ For subsection (6) of section 42 of the [^c9220681]Cathedrals Measure1963 (which
 
 > (6) Where an application in that behalf is made by the bishop and the dean and canons of the cathedral church of Christ in Oxford to the Cathedral Statutes Commission appointed under the Cathedrals Measure 1976, the said Commission shall consider the revision of any instrument for the time being in force under this section and may, with the consent of the bishop, the dean and canons of the said cathedral church and the Church Commissioners, make an instrument under this section which may vary or revoke any instrument previously made thereunder and for the time being in force.
 
-## 8. Construction, repeals and savings.[^key-c28b2b0d263924a7fbb40c3bc3ab6d15]
+## 8. Construction, repeals and savings.[^c-c28b2b0d263924a7fbb40c3bc3ab6d15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,4 +86,4 @@ This Measure may be cited as the Cathedrals Measure 1976 and the Cathedrals Meas
 
 [^c9220681]: Marginal citation: [1963 No. 2](https://www.legislation.gov.uk/ukcm/1963/2).
 
-[^key-c28b2b0d263924a7fbb40c3bc3ab6d15]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1976/1/section/8) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 9](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/9); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-c28b2b0d263924a7fbb40c3bc3ab6d15]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1976/1/section/8) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 9](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/9); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

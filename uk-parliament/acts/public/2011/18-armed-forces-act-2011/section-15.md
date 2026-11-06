@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Increase in maximum term of detention for certain offences[^key-1640f1da515d2eec322123fcac45a6a6]
+## 15. Increase in maximum term of detention for certain offences[^c-1640f1da515d2eec322123fcac45a6a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1640f1da515d2eec322123fcac45a6a6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/18/section/15) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/669/article/8))
+[^c-1640f1da515d2eec322123fcac45a6a6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/18/section/15) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/669/article/8))

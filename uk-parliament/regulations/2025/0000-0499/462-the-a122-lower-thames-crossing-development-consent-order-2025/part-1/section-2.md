@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-6b6991c466f36f68cc4aa46ac7e3861f]
+## 2. Interpretation[^c-6b6991c466f36f68cc4aa46ac7e3861f]
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ and in this definition “**electronic communications network**” has the same 
 - “**the traffic regulation measures plans**” means the document of that description listed in Schedule 16 (documents to be certified) and certified by the Secretary of State as the traffic regulation measures plans for the purposes of this Order;
 - “**the tribunal**” means the Lands Chamber of the Upper Tribunal;
 - “**trunk road**” means a highway which is a trunk road by virtue of—
-  - (a) section 10 (certain special roads and other highways to become[^key-4ffb01cda0f5f873aac0accd57bc3bb8] trunk roads)[^f00042] or 19(1) (provisions as to trunk roads)[^f00043] of the 1980 Act;
+  - (a) section 10 (certain special roads and other highways to become[^c-4ffb01cda0f5f873aac0accd57bc3bb8] trunk roads)[^f00042] or 19(1) (provisions as to trunk roads)[^f00043] of the 1980 Act;
   - (b) an order or direction under section 10 of that Act; or
   - (c) an order granting development consent; or
   - (d) any other enactment;
@@ -143,7 +143,7 @@ and in this definition “**electronic communications network**” has the same 
 
 ## Annotations
 
-[^key-6b6991c466f36f68cc4aa46ac7e3861f]: Commencement: Art. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-6b6991c466f36f68cc4aa46ac7e3861f]: Commencement: Art. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00018]: Footnote: 6 Geo. 4 c. 25 (1825).
 
@@ -193,7 +193,7 @@ and in this definition “**electronic communications network**” has the same 
 
 [^f00041]: Footnote: Section 121A was inserted by section 168(1) of, and paragraph 70 of Part 2 of Schedule 8 to, the New Roads and Street Works Act 1991 and amended by section 1(6) of, and paragraphs 70 and 95 of Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7) and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).
 
-[^key-4ffb01cda0f5f873aac0accd57bc3bb8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/462/article/2) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-4ffb01cda0f5f873aac0accd57bc3bb8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/462/article/2) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00042]: Footnote: Section 10 was amended by section 22(2) of the New Roads and Street Works Act 1991, paragraph 22 of Schedule 2 to the Planning Act 2008 and by section 1 of, and paragraph 10 of Schedule 1 to, the Infrastructure Act 2015.
 

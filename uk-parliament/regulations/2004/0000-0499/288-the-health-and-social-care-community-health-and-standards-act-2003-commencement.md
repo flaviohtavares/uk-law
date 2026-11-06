@@ -37,7 +37,7 @@ Made
 
 The Secretary of State for Health, in exercise of the powers conferred on him by section 195(1)(b) and 199(1) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-581875562170b85a776064768cdad361]
+## 1. Citation, commencement, interpretation and application[^c-581875562170b85a776064768cdad361]
 
 (1) This Order may be cited as the Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) Order 2004.
 
@@ -52,12 +52,12 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - “the 1997 Act” means the National Health Service (Primary Care) Act 1997[^f00004]; and
 - “the 2001 Act” means the Health and Social Care Act 2001[^f00005].
 
-(5)[^key-59cfb1a98ffca9e38321085559066be2] This Order applies to England and shall not apply to Wales, but subject to that and to any express limitation to the extent of an enactment contained in the Act—
+(5)[^c-59cfb1a98ffca9e38321085559066be2] This Order applies to England and shall not apply to Wales, but subject to that and to any express limitation to the extent of an enactment contained in the Act—
 
 - (a) in so far as article 5 or 6 commences an amendment or repeal of an enactment, it has the same extent as that enactment; or
 - (b) in so far as article 7 or 8 modifies any enactment pending the coming into force of section 172(1) or 178(1) of the Act, it has the same extent as that enactment.
 
-## 2. Appointed days for provisions relating to primary medical services[^key-0425d1cfdffe351e643cf19a85d8f34b]
+## 2. Appointed days for provisions relating to primary medical services[^c-0425d1cfdffe351e643cf19a85d8f34b]
 
 (1) 3rd February 2004 is the appointed day for the coming into force of the following provisions of the Act—
 
@@ -71,9 +71,9 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - (b) section 180 in so far as it relates to the new section 28Y of the 1977 Act in its application to primary medical services; and
 - (c) paragraph 8 of Schedule 11 and section 184 and paragraph 7 of that Schedule in so far as they relate to that paragraph.
 
-(3) 1st April 2004 is the appointed day for the coming into force of section 174 in so far as it is not in force[^key-c8fea6d9e3d75fb25aa5a6f936d7bb2b].
+(3) 1st April 2004 is the appointed day for the coming into force of section 174 in so far as it is not in force[^c-c8fea6d9e3d75fb25aa5a6f936d7bb2b].
 
-## 3. Appointed days for provisions relating to the general medical services contract[^key-57ca83cd5a19c7d8bd33c994a7488bdc]
+## 3. Appointed days for provisions relating to the general medical services contract[^c-57ca83cd5a19c7d8bd33c994a7488bdc]
 
 (1) 3rd February 2004 is the day appointed for the coming into force of the following provisions of the Act—
 
@@ -86,22 +86,22 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 
 (3) 1st April 2004 is the day appointed for the coming into force of section 175 in so far as it is not in force.
 
-## 4. Appointed days in relation to section 28C arrangements[^key-bab12d8661cdcfc5d6a9a9f8516a912e][^key-b274d47d61b5e915833be38ea9ef441d]
+## 4. Appointed days in relation to section 28C arrangements[^c-bab12d8661cdcfc5d6a9a9f8516a912e][^c-b274d47d61b5e915833be38ea9ef441d]
 
-(1)[^key-bab12d8661cdcfc5d6a9a9f8516a912e] For the purposes of making regulations, 3rd February 2004 is the day appointed for the coming into force of section 177(1) and (2) of the Act in so far as it relates to section 28D(1)(bc) of the 1977 Act.
+(1)[^c-bab12d8661cdcfc5d6a9a9f8516a912e] For the purposes of making regulations, 3rd February 2004 is the day appointed for the coming into force of section 177(1) and (2) of the Act in so far as it relates to section 28D(1)(bc) of the 1977 Act.
 
-(2)[^key-b274d47d61b5e915833be38ea9ef441d] 1st March 2004 is the day appointed for the coming into force of the following provisions of the Act as they relate to primary medical services or personal medical services only—
+(2)[^c-b274d47d61b5e915833be38ea9ef441d] 1st March 2004 is the day appointed for the coming into force of the following provisions of the Act as they relate to primary medical services or personal medical services only—
 
 - (a) section 177(2) in so far as it is not in force and (3) to (11) and section 177(1) in so far as it relates to section 177(2) to (7);
 - (b) paragraphs 14 to 17 of Schedule 11 and section 184 and paragraph 7 of that Schedule in so far as it relates to those paragraphs; and
 - (c) the entries in Schedule 14 relating to sections 28C(3)(a) and (7), 28D(2), 28DA, 28E(2)(b) and the words following that paragraph, 28E(3)(f), (g) and (k) and (5) to (7) of the 1977 Act and section 196 in so far as it relates to those entries.
 
-(3)[^key-bab12d8661cdcfc5d6a9a9f8516a912e] 1st April 2004 is the day appointed for the coming into force of the following provisions of the Act as they relate to primary medical services or personal medical services only—
+(3)[^c-bab12d8661cdcfc5d6a9a9f8516a912e] 1st April 2004 is the day appointed for the coming into force of the following provisions of the Act as they relate to primary medical services or personal medical services only—
 
 - (a) section 177(12) in so far as it provides for section 28F and 28H of the 1977 Act to cease to have effect, and
 - (b) section 178.
 
-## 5. Consequential amendments relating to primary medical services, general medical services and section 28C arrangements coming into force on 1st April 2004[^key-85c69ddb0a90ea3c685e70e7c2679ab9]
+## 5. Consequential amendments relating to primary medical services, general medical services and section 28C arrangements coming into force on 1st April 2004[^c-85c69ddb0a90ea3c685e70e7c2679ab9]
 
 (1) 1st April 2004 is the day appointed for the coming into force of the provisions of Schedule 11 to the Act referred to in paragraph (2) and section 184 in so far as it relates to those provisions and is so far as are not in force.
 
@@ -134,7 +134,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - (y) paragraphs 70, 71 and 73 and paragraph 69 in so far as it relates to those paragraphs; and
 - (z) paragraph 74.
 
-## 6. Repeals relating to primary medical services, general medical services and section 28C arrangements[^key-0d520bb792dc758aaeb44f1da1a1fbb2]
+## 6. Repeals relating to primary medical services, general medical services and section 28C arrangements[^c-0d520bb792dc758aaeb44f1da1a1fbb2]
 
 (1) 1st April 2004 is the day appointed for the coming into force of the repeals of the enactments mentioned in Schedule 14 to the Act referred to in paragraph (2) and section 196 in so far as it relates to those enactments.
 
@@ -143,7 +143,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - (a) the National Health Service (Amendment) Act 1949[^f00006];
 - (b) the Health Services and Public Health Act 1968[^f00007];
 - (c) the Patents Act 1977[^f00008];
-- (d) in the 1977 Act, sections 3(3), 18A(3)(a), 26(2)(a) and (4)(a), 28F, 28H, 29 to 34A, 43ZA(3)(a), 43C(3), 43D(1) and (10)(a), 44(ZA1), (A1) and (3)(a) to (b), 45(3), 49F(1)(a), 52, 53, 56(a), 102(1)(a)(iii) and (2)(b), 126(4) and 128(1) in so far as it relates to the definitions of “medical list”, “personal medical services” and “terms of service” and Schedule 12A in so far as it relates to paragraphs 1(2)(d), 2(2)(c), 4(2)(b) and 5(2)(b)[^key-e4060d6fe2c38ed86f6d2ee1b1b3e178];
+- (d) in the 1977 Act, sections 3(3), 18A(3)(a), 26(2)(a) and (4)(a), 28F, 28H, 29 to 34A, 43ZA(3)(a), 43C(3), 43D(1) and (10)(a), 44(ZA1), (A1) and (3)(a) to (b), 45(3), 49F(1)(a), 52, 53, 56(a), 102(1)(a)(iii) and (2)(b), 126(4) and 128(1) in so far as it relates to the definitions of “medical list”, “personal medical services” and “terms of service” and Schedule 12A in so far as it relates to paragraphs 1(2)(d), 2(2)(c), 4(2)(b) and 5(2)(b)[^c-e4060d6fe2c38ed86f6d2ee1b1b3e178];
 - (e) in the Health and Social Services and Social Security Adjudications Act 1983[^f00009], section 14(1) and Schedule 6, paragraph 2;
 - (f) the Medical Act 1983[^f00010];
 - (g) the Copyright, Designs and Patents Act 1988[^f00011];
@@ -152,17 +152,17 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - (j) the Access to Health Records Act 1990[^f00014];
 - (k) the Trade Union and Labour Relations (Consolidation) Act 1992[^f00015];
 - (l) in the Health Service Commissioners Act 1993[^f00016], section 6(5);
-- (m) in the Health Authorities Act 1995[^f00017], paragraphs 18 to 23[^key-21c76fcf1737a382acefe59f5beebf9e] of Schedule 1;
+- (m) in the Health Authorities Act 1995[^f00017], paragraphs 18 to 23[^c-21c76fcf1737a382acefe59f5beebf9e] of Schedule 1;
 - (n) the Medical (Professional Performance) Act 1995[^f00018];
 - (o) in the Employment Rights Act 1996[^f00019], section 43K(1)(c)(i);
-- (p) in the 1997 Act, Part 1 and section 40(3) in so far as they relate[^key-d3906892f3202ea2dce3ab030adbb94d] to personal medical services, sections 23(1), 25(1) and 32[^key-401ce5a416cfc3919b679ea94cff43db] and Schedule 1 and Schedule 2, paragraphs 6, 8 to 11, 71, 80 and 81;
+- (p) in the 1997 Act, Part 1 and section 40(3) in so far as they relate[^c-d3906892f3202ea2dce3ab030adbb94d] to personal medical services, sections 23(1), 25(1) and 32[^c-401ce5a416cfc3919b679ea94cff43db] and Schedule 1 and Schedule 2, paragraphs 6, 8 to 11, 71, 80 and 81;
 - (q) in the Health Act 1999[^f00020], sections 9(2) and 11(2) in so far as it inserted section 44(A1) into the 1977 Act, Schedule 3, paragraph 11(3) and Schedule 4, paragraphs 2 and 17;
-- (r) in the 2001 Act, sections 15, 17, 18, 20(2) and (3), 23(2) and 27(5)(b) and section 27(5)(a) in so far as it relates to personal medical services and Schedule 5, paragraphs 5(4) to (6) and 11(3)[^key-509b970254c53558814db9b76635e09f]; and
+- (r) in the 2001 Act, sections 15, 17, 18, 20(2) and (3), 23(2) and 27(5)(b) and section 27(5)(a) in so far as it relates to personal medical services and Schedule 5, paragraphs 5(4) to (6) and 11(3)[^c-509b970254c53558814db9b76635e09f]; and
 - (s) in the National Health Service Reform and Health Care Professions Act 2002[^f00021], sections 5(2) and (6)(b) and Schedule 2, paragraphs 3 to 8 and 72, Schedule 3, paragraphs 5, 6 and 10 and Schedule 8, paragraph 2.
 
-## 7. Transitional provisions applying until the coming into force of section 172(1) of the Act[^key-0197899a66e2b3ac0338b9ba88e7be6a]
+## 7. Transitional provisions applying until the coming into force of section 172(1) of the Act[^c-0197899a66e2b3ac0338b9ba88e7be6a]
 
-(1)[^key-6c7c874397b6731fff579baa5598090e] The following transitional provisions shall apply until 1st April 2006.
+(1)[^c-6c7c874397b6731fff579baa5598090e] The following transitional provisions shall apply until 1st April 2006.
 
 (2) In relation to the Health Services and Public Health Act 1968—
 
@@ -218,7 +218,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 
       ,
 - (e) section 43(1) (persons authorised to provide pharmaceutical services) shall be read as if for the words “general medical services” there were substituted the words “primary medical services”;
-- (ee)[^key-d141bf5be1aee6611603a38c3f73c54b] section 43C(3) (indemnity cover) shall be read as if in the definition of “Part II services”, the words “general dental services,” were inserted before the words “general ophthalmic services;
+- (ee)[^c-d141bf5be1aee6611603a38c3f73c54b] section 43C(3) (indemnity cover) shall be read as if in the definition of “Part II services”, the words “general dental services,” were inserted before the words “general ophthalmic services;
 - (f) section 43D (supplementary lists) shall be read as if—
   - (i) in subsection (1), after the words “general ophthalmic services” there were inserted “, general dental services,”, and
   - (ii) in subsection (10), for the words “paragraphs (a) to (e), a supplementary list” there were substituted “paragraphs (b) to (e), a supplementary list, a list under section 28X”
@@ -249,7 +249,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
     > - (bb) dental practitioner providing general dental services, or performing personal dental services under section 28C arrangements;
 
     , and
-  - (ii) in paragraph 10(aa) for the words “paragraph 6(c) or (d) above” there were substituted the words “paragraph 6(bb)[^key-a95656fff510e55e3215d2eb50bb2e8c], (c) or (d) above”.
+  - (ii) in paragraph 10(aa) for the words “paragraph 6(c) or (d) above” there were substituted the words “paragraph 6(bb)[^c-a95656fff510e55e3215d2eb50bb2e8c], (c) or (d) above”.
 
 (5) In relation to section 1(6) of the Community Health Councils (Access to Information) Act 1988[^f00022] (access to meetings and documents of Community Health Councils), paragraph (ab) shall be read as if the words “section 28K or” were omitted.
 
@@ -260,7 +260,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 
 (7) In relation to section 17 of the Health and Medicines Act 1988 (arrangements for the provision of general medical services etc), subsection (1) shall be read as if the number “35” were inserted before the number “38”.
 
-(8)[^key-ae4473d0f481a5a4b9c2a902efe1cb63] In relation to Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), paragraph 7 shall be read as if the words “or primary dental services” were omitted and as if there were inserted at the end “or personal dental services under a pilot scheme (within the meaning of Part 1 of the National Health Service (Primary Care) Act 1997)”.
+(8)[^c-ae4473d0f481a5a4b9c2a902efe1cb63] In relation to Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), paragraph 7 shall be read as if the words “or primary dental services” were omitted and as if there were inserted at the end “or personal dental services under a pilot scheme (within the meaning of Part 1 of the National Health Service (Primary Care) Act 1997)”.
 
 (9) In relation to the Trade Union and Labour (Consolidation) Act 1992, section 279 (health service practitioners) shall be read as if—
 
@@ -315,7 +315,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 
 (13) In relation to section 17 of the National Health Service Reform and Health Care Professions Act 2002[^f00024] (additional functions of PCT Patients' Forums), subsection (1)(fa) shall be read as if the words “or primary dental services” were omitted.
 
-## 8. Transitional provisions applying until the coming into force of section 178(1) of the Act[^key-0840596fe072ae57bf78d39f36df77aa]
+## 8. Transitional provisions applying until the coming into force of section 178(1) of the Act[^c-0840596fe072ae57bf78d39f36df77aa]
 
 (1) Until the coming into force of section 178(1) of the Act in relation to primary dental services, the following transitional provisions shall apply.
 
@@ -334,7 +334,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - (a) there were omitted the words “or primary dental services”; and
 - (b) there were inserted at the end the words “or personal dental services under any provision of, or made under, the 1977 Act or the National Health Service (Primary Care) Act 1997”.
 
-## 9. Saving relating to the repeal of section 40(3) of the 1997 Act[^key-10ca98eb9205c27a11ff39dc15c94044]
+## 9. Saving relating to the repeal of section 40(3) of the 1997 Act[^c-10ca98eb9205c27a11ff39dc15c94044]
 
 Notwithstanding the repeal of section 40(3) of the 1997 Act (interpretation) in relation to personal medical services, section 54(1)(b) of the 1977 Act (sale of medical practices) shall be read as if section 40(3) of the 1997 Act was still in force.
 
@@ -396,7 +396,7 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43); *see* section 199(2) for the definition of the appropriate authority in relation to commencement orders.
 
-[^key-581875562170b85a776064768cdad361]: Commencement: Art. 1 in force at made date
+[^c-581875562170b85a776064768cdad361]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2004/287 (C. 11)](https://www.legislation.gov.uk/uksi/2004/287).
 
@@ -406,21 +406,21 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00005]: Footnote: [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15).
 
-[^key-59cfb1a98ffca9e38321085559066be2]: Textual amendment: [Art. 1(5)](https://www.legislation.gov.uk/uksi/2004/288/article/1/5) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2004/866/article/2/1)
+[^c-59cfb1a98ffca9e38321085559066be2]: Textual amendment: [Art. 1(5)](https://www.legislation.gov.uk/uksi/2004/288/article/1/5) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2004/866/article/2/1)
 
-[^key-0425d1cfdffe351e643cf19a85d8f34b]: Commencement: Art. 2 in force at made date
+[^c-0425d1cfdffe351e643cf19a85d8f34b]: Commencement: Art. 2 in force at made date
 
-[^key-c8fea6d9e3d75fb25aa5a6f936d7bb2b]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/288/article/2/3) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/866/article/2/2)
+[^c-c8fea6d9e3d75fb25aa5a6f936d7bb2b]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/288/article/2/3) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/866/article/2/2)
 
-[^key-57ca83cd5a19c7d8bd33c994a7488bdc]: Commencement: Art. 3 in force at made date
+[^c-57ca83cd5a19c7d8bd33c994a7488bdc]: Commencement: Art. 3 in force at made date
 
-[^key-bab12d8661cdcfc5d6a9a9f8516a912e]: Commencement: Art. 4(1)(3) in force at made date
+[^c-bab12d8661cdcfc5d6a9a9f8516a912e]: Commencement: Art. 4(1)(3) in force at made date
 
-[^key-b274d47d61b5e915833be38ea9ef441d]: Commencement: Art. 4(2) in force at 1.3.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/288/article/1/2)
+[^c-b274d47d61b5e915833be38ea9ef441d]: Commencement: Art. 4(2) in force at 1.3.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/288/article/1/2)
 
-[^key-85c69ddb0a90ea3c685e70e7c2679ab9]: Commencement: Art. 5 in force at made date
+[^c-85c69ddb0a90ea3c685e70e7c2679ab9]: Commencement: Art. 5 in force at made date
 
-[^key-0d520bb792dc758aaeb44f1da1a1fbb2]: Commencement: Art. 6 in force at made date
+[^c-0d520bb792dc758aaeb44f1da1a1fbb2]: Commencement: Art. 6 in force at made date
 
 [^f00006]: Footnote: [1949 c. 93](https://www.legislation.gov.uk/ukpga/1949/93).
 
@@ -428,7 +428,7 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00008]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
 
-[^key-e4060d6fe2c38ed86f6d2ee1b1b3e178]: Textual amendment: Words in [art. 6(2)(d)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/d) inserted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/a)
+[^c-e4060d6fe2c38ed86f6d2ee1b1b3e178]: Textual amendment: Words in [art. 6(2)(d)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/d) inserted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/a)
 
 [^f00009]: Footnote: [1983 c. 41](https://www.legislation.gov.uk/ukpga/1983/41).
 
@@ -448,38 +448,38 @@ The provisions of the Health and Social Care (Community Health and Standards) Ac
 
 [^f00017]: Footnote: [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17).
 
-[^key-21c76fcf1737a382acefe59f5beebf9e]: Textual amendment: Words in [art. 6(2)(m)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/m) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/b)
+[^c-21c76fcf1737a382acefe59f5beebf9e]: Textual amendment: Words in [art. 6(2)(m)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/m) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/b)
 
 [^f00018]: Footnote: [1995 c. 51](https://www.legislation.gov.uk/ukpga/1995/51).
 
 [^f00019]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-d3906892f3202ea2dce3ab030adbb94d]: Textual amendment: Words in [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) substituted (31.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No.2) (Amendment No.2) Order 2004 (S.I. 2004/1009)](https://www.legislation.gov.uk/uksi/2004/1009), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1009/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2004/1009/article/2/a)
+[^c-d3906892f3202ea2dce3ab030adbb94d]: Textual amendment: Words in [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) substituted (31.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No.2) (Amendment No.2) Order 2004 (S.I. 2004/1009)](https://www.legislation.gov.uk/uksi/2004/1009), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1009/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2004/1009/article/2/a)
 
-[^key-401ce5a416cfc3919b679ea94cff43db]: Textual amendment: Words in [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) substituted (31.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No.2) (Amendment No.2) Order 2004 (S.I. 2004/1009)](https://www.legislation.gov.uk/uksi/2004/1009), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1009/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2004/1009/article/2/b)
+[^c-401ce5a416cfc3919b679ea94cff43db]: Textual amendment: Words in [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) substituted (31.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No.2) (Amendment No.2) Order 2004 (S.I. 2004/1009)](https://www.legislation.gov.uk/uksi/2004/1009), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1009/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2004/1009/article/2/b)
 
 [^f00020]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8).
 
-[^key-509b970254c53558814db9b76635e09f]: Textual amendment: Words in [art. 6(2)(r)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/r) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/d)
+[^c-509b970254c53558814db9b76635e09f]: Textual amendment: Words in [art. 6(2)(r)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/r) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2004/866/article/2/3/d)
 
 [^f00021]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-0197899a66e2b3ac0338b9ba88e7be6a]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2004/288/article/1/3)
+[^c-0197899a66e2b3ac0338b9ba88e7be6a]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2004/288/article/1/3)
 
-[^key-6c7c874397b6731fff579baa5598090e]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2004/288/article/7/1) substituted (20.10.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 8) Order 2005 (S.I. 2005/2925)](https://www.legislation.gov.uk/uksi/2005/2925), [art. 12](https://www.legislation.gov.uk/uksi/2005/2925/article/12)
+[^c-6c7c874397b6731fff579baa5598090e]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2004/288/article/7/1) substituted (20.10.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 8) Order 2005 (S.I. 2005/2925)](https://www.legislation.gov.uk/uksi/2005/2925), [art. 12](https://www.legislation.gov.uk/uksi/2005/2925/article/12)
 
-[^key-d141bf5be1aee6611603a38c3f73c54b]: Textual amendment: [Art. 7(4)(ee)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/ee)[(f)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/f) substituted for [art. 7(4)(f)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/f) (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2004/866/article/2/4)
+[^c-d141bf5be1aee6611603a38c3f73c54b]: Textual amendment: [Art. 7(4)(ee)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/ee)[(f)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/f) substituted for [art. 7(4)(f)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/f) (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2004/866/article/2/4)
 
-[^key-a95656fff510e55e3215d2eb50bb2e8c]: Textual amendment: Words in [art. 7(4)(o)(ii)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/o/ii) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2004/866/article/2/5)
+[^c-a95656fff510e55e3215d2eb50bb2e8c]: Textual amendment: Words in [art. 7(4)(o)(ii)](https://www.legislation.gov.uk/uksi/2004/288/article/7/4/o/ii) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2004/866/article/2/5)
 
 [^f00022]: Footnote: [1988 c. 24](https://www.legislation.gov.uk/ukpga/1988/24).
 
-[^key-ae4473d0f481a5a4b9c2a902efe1cb63]: Textual amendment: [Art. 7(8)](https://www.legislation.gov.uk/uksi/2004/288/article/7/8) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2004/866/article/2/6)
+[^c-ae4473d0f481a5a4b9c2a902efe1cb63]: Textual amendment: [Art. 7(8)](https://www.legislation.gov.uk/uksi/2004/288/article/7/8) substituted (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2004/866/article/2/6)
 
 [^f00024]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-0840596fe072ae57bf78d39f36df77aa]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2004/288/article/1/3)
+[^c-0840596fe072ae57bf78d39f36df77aa]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2004/288/article/1/3)
 
 [^f00025]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-10ca98eb9205c27a11ff39dc15c94044]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2004/288/article/9) added (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2004/866/article/2/7)
+[^c-10ca98eb9205c27a11ff39dc15c94044]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2004/288/article/9) added (23.3.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 Commencement (No. 2) (Amendment) Order 2004 (S.I. 2004/866)](https://www.legislation.gov.uk/uksi/2004/866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/866/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2004/866/article/2/7)

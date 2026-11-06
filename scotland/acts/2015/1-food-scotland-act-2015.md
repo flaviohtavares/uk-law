@@ -38,11 +38,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Food Standards Scotland
 
-#### 1. Establishment[^key-d5d451854fd782be6c2b35b330365d94]
+#### 1. Establishment[^c-d5d451854fd782be6c2b35b330365d94]
 
 There is established a body corporate called Food Standards Scotland or, in Gaelic, Inbhe-Bidhe Alba.
 
-#### 2. Objectives[^key-3a476bf771bcd81ed3be9a9e9426fb7f]
+#### 2. Objectives[^c-3a476bf771bcd81ed3be9a9e9426fb7f]
 
 (1) The objectives of Food Standards Scotland are—
 
@@ -57,7 +57,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 - (a) which is compatible with its objectives, and
 - (b) which it considers most appropriate for the purpose of meeting those objectives.
 
-#### 3. General functions[^key-a8df30aaacf10ac02c213be11b7e4589]
+#### 3. General functions[^c-a8df30aaacf10ac02c213be11b7e4589]
 
 (1) The general functions of Food Standards Scotland are—
 
@@ -74,7 +74,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 - (c) in pursuance of subsection (1)(c), it informs or advises the public in relation to a particular matter,
 - (d) in pursuance of subsection (1)(d), it informs or advises users of animal feeding stuffs in relation to a particular matter.
 
-#### 4. Governance and accountability[^key-88dd7de3e844ce1cf2ef8db5b39ad9a6]
+#### 4. Governance and accountability[^c-88dd7de3e844ce1cf2ef8db5b39ad9a6]
 
 (1) Food Standards Scotland must so far as reasonably practicable operate in a way which—
 
@@ -95,7 +95,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 - (a) the Scottish Ministers,
 - (b) public bodies and office-holders with functions in relation to food matters or animal feeding stuffs matters.
 
-#### 5. Statement on performance of functions[^key-94d5b7fb7bbe6e8245ef9a0515d759b9]
+#### 5. Statement on performance of functions[^c-94d5b7fb7bbe6e8245ef9a0515d759b9]
 
 (1) Food Standards Scotland must prepare for approval by the Scottish Ministers a statement setting out how it intends to perform its functions.
 
@@ -124,7 +124,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 
 ### Membership
 
-#### 6. Number and appointment of members[^key-c4d895f59f76ae2264557168fb9d690a]
+#### 6. Number and appointment of members[^c-c4d895f59f76ae2264557168fb9d690a]
 
 (1) Food Standards Scotland is to consist of—
 
@@ -161,7 +161,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 - (b) may resign the assignment by informing the Scottish Ministers in writing to that effect,
 - (c) is assigned and ceases to be assigned the function in accordance with such terms and conditions as the Scottish Ministers may determine.
 
-#### 7. Early ending of membership[^key-d985137bb8b3e8da16e031c05429aca6]
+#### 7. Early ending of membership[^c-d985137bb8b3e8da16e031c05429aca6]
 
 (1) A person's membership of Food Standards Scotland ends if the person becomes—
 
@@ -180,7 +180,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
   - (ii) is unable to perform the functions of a member, or
   - (iii) is unsuitable to continue as a member.
 
-#### 8. Remuneration and expenses of members[^key-77108aa236b4a12e349535685d434b28]
+#### 8. Remuneration and expenses of members[^c-77108aa236b4a12e349535685d434b28]
 
 (1) A member of Food Standards Scotland is entitled to—
 
@@ -191,7 +191,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 
 ### Staff
 
-#### 9. Chief executive[^key-e02852a34a1d859833a825ac5314629a]
+#### 9. Chief executive[^c-e02852a34a1d859833a825ac5314629a]
 
 (1) Food Standards Scotland is to have, as a member of staff, a chief executive.
 
@@ -201,7 +201,7 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 
 (4) Food Standards Scotland may, with the approval of the Scottish Ministers, appoint subsequent chief executives on such terms and conditions as it, with the approval of the Scottish Ministers, determines.
 
-#### 10. Other staff[^key-06d046eec83f4af81fca2b2e2a4cb5e3]
+#### 10. Other staff[^c-06d046eec83f4af81fca2b2e2a4cb5e3]
 
 (1) Food Standards Scotland may appoint staff other than the chief executive.
 
@@ -211,11 +211,11 @@ There is established a body corporate called Food Standards Scotland or, in Gael
 
 ### Operational matters
 
-#### 11. Proceedings[^key-0ae81efed34b37d5e8b418b7aa6cb182]
+#### 11. Proceedings[^c-0ae81efed34b37d5e8b418b7aa6cb182]
 
 It is for Food Standards Scotland to regulate its procedure (including any quorum).
 
-#### 12. Committees[^key-fb46df6c27e50b651b55c8120f6b1cca]
+#### 12. Committees[^c-fb46df6c27e50b651b55c8120f6b1cca]
 
 (1) Food Standards Scotland may establish committees.
 
@@ -230,7 +230,7 @@ It is for Food Standards Scotland to regulate its procedure (including any quoru
 
 (5) It is for Food Standards Scotland to regulate the procedure (including any quorum) of any committee established by it.
 
-#### 13. Validity of things done[^key-462eacb6d335f164f74d1fe4d8fef79b]
+#### 13. Validity of things done[^c-462eacb6d335f164f74d1fe4d8fef79b]
 
 The validity of anything done by Food Standards Scotland or its committees is not affected by—
 
@@ -238,7 +238,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 - (b) a defect in the appointment of a member,
 - (c) a person's membership having ended under section 7.
 
-#### 14. Authority to exercise functions[^key-1915b38359dcb73efceb52ab85fb6f3e]
+#### 14. Authority to exercise functions[^c-1915b38359dcb73efceb52ab85fb6f3e]
 
 (1) Food Standards Scotland may authorise the exercise of any of its functions by—
 
@@ -255,7 +255,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (4) This section does not affect the responsibility of Food Standards Scotland for the exercise of its functions.
 
-#### 15. Annual and other reports[^key-d6a448b29884c3db8045f1c9f594d18d]
+#### 15. Annual and other reports[^c-d6a448b29884c3db8045f1c9f594d18d]
 
 (1) As soon as practicable after the end of each financial year, Food Standards Scotland must prepare and publish an annual report on the exercise of its functions during that financial year.
 
@@ -278,7 +278,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (6) Food Standards Scotland may lay a copy of any other report prepared by it before the Scottish Parliament.
 
-#### 16. General powers[^key-ea1e834156ca054400679a18d517fe3a]
+#### 16. General powers[^c-ea1e834156ca054400679a18d517fe3a]
 
 (1) Food Standards Scotland may do anything which it considers necessary or expedient for the purposes of or in connection with its functions.
 
@@ -289,7 +289,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Legislation relating to public bodies
 
-#### 17. Application of legislation relating to public bodies[^key-9d0b8e3c672a6a4f4c72696ccebb5ad9]
+#### 17. Application of legislation relating to public bodies[^c-9d0b8e3c672a6a4f4c72696ccebb5ad9]
 
 (1) In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), after the entry relating to the Crofting Commission insert— “ Food Standards Scotland ”.
 
@@ -331,7 +331,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Step-in powers
 
-#### 18. Serious failure[^key-6012e1a4b3a188b65701d477d69719de]
+#### 18. Serious failure[^c-6012e1a4b3a188b65701d477d69719de]
 
 (1) This section applies where the Scottish Ministers consider that there has been a serious failure by Food Standards Scotland to exercise any of its functions.
 
@@ -355,7 +355,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Acquisition of information
 
-#### 19. Duty to acquire, compile and keep under review relevant information[^key-1395071bcfb525e13cbadecb9c4c218d]
+#### 19. Duty to acquire, compile and keep under review relevant information[^c-1395071bcfb525e13cbadecb9c4c218d]
 
 (1) For the purpose of enabling it to perform its other functions effectively and to operate in accordance with section 4, Food Standards Scotland is to acquire, compile and keep under review information about food matters and animal feeding stuffs matters.
 
@@ -364,7 +364,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 - (a) monitoring developments in science, technology and other fields of knowledge relating to food matters and animal feeding stuffs matters,
 - (b) carrying out, commissioning or co-ordinating research on food matters and animal feeding stuffs matters.
 
-#### 20. Observations with a view to obtaining information[^key-a94f8c92ce7794834c7e0314d231ff16]
+#### 20. Observations with a view to obtaining information[^c-a94f8c92ce7794834c7e0314d231ff16]
 
 (1) For the purpose of exercising its function under section 19, Food Standards Scotland may carry out observations (or arrange for observations to be carried out on its behalf by any other person) with a view to obtaining information about—
 
@@ -384,7 +384,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 - “**agricultural business**” has the same meaning as in section 1 of the Farm Land and Rural Development Act 1988,
 - “**agricultural premises**” means any premises used for the purposes of an agricultural business.
 
-#### 21. Powers for persons carrying out observations[^key-1e303109c3e3d990bdc1ee670bcdc31b]
+#### 21. Powers for persons carrying out observations[^c-1e303109c3e3d990bdc1ee670bcdc31b]
 
 (1) Any member of staff or other individual may, if authorised to do so by Food Standards Scotland, exercise the powers specified in subsection (2) for the purpose of carrying out observations under section 20 in relation to a particular matter.
 
@@ -415,7 +415,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (7) In this section, “**authorised person**” means a person authorised under subsection (1).
 
-#### 22. Offences in relation to section 21[^key-a7ee48770c08463638cff5ad3e08eca0]
+#### 22. Offences in relation to section 21[^c-a7ee48770c08463638cff5ad3e08eca0]
 
 (1) Where subsection (2) applies, an authorised person commits an offence if the person makes use of or discloses to any other person any information obtained while on premises entered in exercise of the power in section 21(2)(a).
 
@@ -438,7 +438,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Enforcement action
 
-#### 23. Setting performance standards[^key-9d9293c4ce332289024555d266f23b71]
+#### 23. Setting performance standards[^c-9d9293c4ce332289024555d266f23b71]
 
 (1) For the purpose of carrying out its function under section 3(1)(e), Food Standards Scotland may determine standards of performance for enforcement authorities in enforcing food legislation.
 
@@ -449,7 +449,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (3) Food Standards Scotland may vary or revoke any standards determined under subsection (1).
 
-#### 24. Reporting own enforcement activities[^key-3b4fe1ee3ef8ed120d46bf7dd22c0a45]
+#### 24. Reporting own enforcement activities[^c-3b4fe1ee3ef8ed120d46bf7dd22c0a45]
 
 (1) Food Standards Scotland must include in each annual report it prepares a report on—
 
@@ -458,7 +458,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (2) In this section, “**annual report**” means a report prepared under section 15(1).
 
-#### 25. Reporting on enforcement action by others[^key-9212a542f92e4b29f4463ac55c4f09ee]
+#### 25. Reporting on enforcement action by others[^c-9212a542f92e4b29f4463ac55c4f09ee]
 
 (1) In consequence of the exercise of its function under section 3(1)(e), Food Standards Scotland may make a report to any enforcement authority on the authority's performance in enforcing any food legislation.
 
@@ -476,7 +476,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (4) In subsection (3), “**specified**” means specified in the direction.
 
-#### 26. Power to request information in relation to enforcement action[^key-a16442195fc94ddf81d86abeae75b6d5]
+#### 26. Power to request information in relation to enforcement action[^c-a16442195fc94ddf81d86abeae75b6d5]
 
 (1) For the purpose of carrying out its function under section 3(1)(e) in relation to any enforcement authority, Food Standards Scotland may require a person mentioned in subsection (2)––
 
@@ -490,7 +490,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (3) Food Standards Scotland may copy any information made available to it in pursuance of a requirement under subsection (1)(b).
 
-#### 27. Offences in relation to section 26[^key-7a38a26fbf7bc4e0f4bacf356d4696b0]
+#### 27. Offences in relation to section 26[^c-7a38a26fbf7bc4e0f4bacf356d4696b0]
 
 (1) A person commits an offence if the person—
 
@@ -501,7 +501,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 28. Powers for persons monitoring enforcement action[^key-7f014bf49bcde595c2e22977a818ff52]
+#### 28. Powers for persons monitoring enforcement action[^c-7f014bf49bcde595c2e22977a818ff52]
 
 (1) Any member of staff or other individual may, if authorised to do so by Food Standards Scotland, exercise the powers specified in subsection (2) for the purpose of carrying out the function under section 3(1)(e) in relation to any enforcement authority.
 
@@ -532,7 +532,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 (7) In this section, “**authorised person**” means a person authorised under subsection (1).
 
-#### 29. Offences in relation to section 28[^key-6a1577b91da1a788b52985c2c9861739]
+#### 29. Offences in relation to section 28[^c-6a1577b91da1a788b52985c2c9861739]
 
 (1) Where subsection (2) applies, an authorised person commits an offence if the person makes use of or discloses to any other person any information obtained while on premises entered in exercise of the power in section 28(2)(a).
 
@@ -555,7 +555,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Issuing guidance on food-borne diseases
 
-#### 30. Power to issue guidance on control of food-borne diseases[^key-56aacb9c84800748ee572bc461faa08a]
+#### 30. Power to issue guidance on control of food-borne diseases[^c-56aacb9c84800748ee572bc461faa08a]
 
 (1) Food Standards Scotland may issue to the persons mentioned in subsection (3) guidance about the exercise, generally, of their functions in relation to matters connected with the management of outbreaks (or suspected outbreaks) of food-borne diseases.
 
@@ -578,7 +578,7 @@ The validity of anything done by Food Standards Scotland or its committees is no
 
 ### Information sharing
 
-#### 31. Publication and disclosure of advice and information[^key-e01ec156da44bee2b978c4e788bd6c81]
+#### 31. Publication and disclosure of advice and information[^c-e01ec156da44bee2b978c4e788bd6c81]
 
 (1) Food Standards Scotland may—
 
@@ -611,7 +611,7 @@ any material to which this section applies.
 
 ### Consequential provision
 
-#### 32. Certain functions of Food Standards Agency ceasing to be exercisable[^key-b6abb18cab1e4789266b9f558c1dfc78]
+#### 32. Certain functions of Food Standards Agency ceasing to be exercisable[^c-b6abb18cab1e4789266b9f558c1dfc78]
 
 (1) The relevant functions of the Agency conferred by the 1999 Act cease to be exercisable.
 
@@ -621,7 +621,7 @@ any material to which this section applies.
 
 ### Food information
 
-#### 33. Food information[^key-bc267ce1dfff8f4b39ce71c8c7e89a57]
+#### 33. Food information[^c-bc267ce1dfff8f4b39ce71c8c7e89a57]
 
 After section 15 of the 1990 Act insert—
 
@@ -734,7 +734,7 @@ After section 15 of the 1990 Act insert—
 
 ### Food hygiene information scheme
 
-#### 34. Food hygiene information scheme[^key-f8f440b77bf527ba194f7683e0e06c37]
+#### 34. Food hygiene information scheme[^c-f8f440b77bf527ba194f7683e0e06c37]
 
 (1) In section 16(1) of the 1990 Act, after paragraph (d) insert—
 
@@ -764,7 +764,7 @@ After section 15 of the 1990 Act insert—
 
 ### Feeding stuffs
 
-#### 35. Regulation of animal feeding stuffs[^key-1f6044ed87ff4098855e0b55e9c64de1]
+#### 35. Regulation of animal feeding stuffs[^c-1f6044ed87ff4098855e0b55e9c64de1]
 
 (1) The Scottish Ministers may, for the purpose of regulating—
 
@@ -800,7 +800,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 ### Fixed penalty notices
 
-#### 36. Fixed penalty notices[^key-eae60740a89657c6d823c06bd6208b3e]
+#### 36. Fixed penalty notices[^c-eae60740a89657c6d823c06bd6208b3e]
 
 (1) An authorised officer of the appropriate enforcement authority may issue to a person a fixed penalty notice in relation to a relevant offence.
 
@@ -814,7 +814,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (6) In this section, “**standard scale**” has the meaning given in section 225(1) of the Criminal Procedure (Scotland) Act 1995.
 
-#### 37. Content and form of a fixed penalty notice[^key-508c3a1327512d16ab5fd6fecdd8bbc6]
+#### 37. Content and form of a fixed penalty notice[^c-508c3a1327512d16ab5fd6fecdd8bbc6]
 
 (1) A fixed penalty notice must include the following information—
 
@@ -836,7 +836,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 - (a) provision about the form and content of any of the information required to be included under subsection (1),
 - (b) provision about other information that is to be included in addition to that required under subsection (1).
 
-#### 38. Effect of a fixed penalty notice on criminal proceedings[^key-07ba8873d42881021b9977ced2e189a3]
+#### 38. Effect of a fixed penalty notice on criminal proceedings[^c-07ba8873d42881021b9977ced2e189a3]
 
 (1) Where a fixed penalty notice is issued to a person in relation to a relevant offence—
 
@@ -848,7 +848,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 - (a) constituting the relevant offence, and
 - (b) by reason of which the fixed penalty notice is issued.
 
-#### 39. Restrictions on issuing of a fixed penalty notice[^key-47ff894ebf9978fbfcfef042f37e38dc]
+#### 39. Restrictions on issuing of a fixed penalty notice[^c-47ff894ebf9978fbfcfef042f37e38dc]
 
 (1) A fixed penalty notice may not be issued to a person in relation to a relevant offence arising out of a particular act or omission if—
 
@@ -859,7 +859,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (2) A fixed penalty notice issued in contravention of subsection (1) is of no effect (and, accordingly, the appropriate enforcement authority must repay any amount paid in respect of the notice).
 
-#### 40. Withdrawal of a fixed penalty notice[^key-2f6d1d9540d02fe665619453fc66f900]
+#### 40. Withdrawal of a fixed penalty notice[^c-2f6d1d9540d02fe665619453fc66f900]
 
 (1) An authorised officer of the appropriate enforcement authority may withdraw a fixed penalty notice issued by an authorised officer of the authority.
 
@@ -870,7 +870,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (3) Where a fixed penalty notice is withdrawn, it is to be treated as if it had never been issued.
 
-#### 41. Income from fixed penalties to be paid to the Scottish Ministers[^key-661fe9a08a7f97d4d8dc01c4f1a4e0d6]
+#### 41. Income from fixed penalties to be paid to the Scottish Ministers[^c-661fe9a08a7f97d4d8dc01c4f1a4e0d6]
 
 (1) Sums received by enforcement authorities in response to fixed penalty notices are to be paid over to the Scottish Ministers.
 
@@ -878,7 +878,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 ### Compliance notices
 
-#### 42. Compliance notices[^key-bb4fa4c2141ce40ee98d7be15c4f5277]
+#### 42. Compliance notices[^c-bb4fa4c2141ce40ee98d7be15c4f5277]
 
 (1) An authorised officer of the appropriate enforcement authority may issue to a person a compliance notice in relation to a relevant offence.
 
@@ -886,7 +886,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (3) An authorised officer may issue a compliance notice to a person in relation to a relevant offence only if the officer is satisfied to the specified standard that the person has committed the offence.
 
-#### 43. Content and form of a compliance notice[^key-c9c82b0d34bbd3df3647b3a3e6387bee]
+#### 43. Content and form of a compliance notice[^c-c9c82b0d34bbd3df3647b3a3e6387bee]
 
 (1) A compliance notice must include the following information—
 
@@ -909,7 +909,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 - (a) provision about the form and content of any of the information required to be included under subsection (1),
 - (b) provision about other information that is to be included in addition to that required under subsection (1).
 
-#### 44. Failure to comply with a compliance notice[^key-f2b4507fa458057052ceccfd4a5876f7]
+#### 44. Failure to comply with a compliance notice[^c-f2b4507fa458057052ceccfd4a5876f7]
 
 (1) If a person to whom a compliance notice has been issued fails to comply with the notice, the person commits an offence.
 
@@ -920,7 +920,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (3) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 45. Effect of a compliance notice on criminal proceedings[^key-d8df07fdb2d510c97615cc78f69c00c7]
+#### 45. Effect of a compliance notice on criminal proceedings[^c-d8df07fdb2d510c97615cc78f69c00c7]
 
 (1) Where a compliance notice is issued to a person in relation to a relevant offence—
 
@@ -936,7 +936,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 - (a) constituting the relevant offence, and
 - (b) by reason of which the compliance notice is issued.
 
-#### 46. Restrictions on issuing of a compliance notice[^key-3fd090c69a2ccb5e7430342e268b759e]
+#### 46. Restrictions on issuing of a compliance notice[^c-3fd090c69a2ccb5e7430342e268b759e]
 
 (1) A compliance notice may not be issued to a person in relation to a relevant offence arising out of a particular act or omission if—
 
@@ -945,7 +945,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (2) A compliance notice issued in contravention of subsection (1) is of no effect.
 
-#### 47. Withdrawal of a compliance notice[^key-068e2706469a11b088028ebf73582e4e]
+#### 47. Withdrawal of a compliance notice[^c-068e2706469a11b088028ebf73582e4e]
 
 (1) An authorised officer of the appropriate enforcement authority may withdraw a compliance notice issued by an authorised officer of the authority.
 
@@ -956,7 +956,7 @@ any of the provisions of the 1990 Act (including any power to make orders or reg
 
 (3) Where a compliance notice is withdrawn, it is to be treated as if it had never been issued.
 
-#### 48. Appeal against a compliance notice[^key-bb4464fb979bc1b32fdbe6d356f5e902]
+#### 48. Appeal against a compliance notice[^c-bb4464fb979bc1b32fdbe6d356f5e902]
 
 (1) A person to whom a compliance notice has been issued may, before the expiry of the relevant period, appeal to a sheriff against the decision to issue the notice.
 
@@ -980,7 +980,7 @@ whichever expires earlier.
 
 ### General
 
-#### 49. Power to make supplementary etc. provision[^key-bf639bf9acdeadf854c03baa000cfd31]
+#### 49. Power to make supplementary etc. provision[^c-bf639bf9acdeadf854c03baa000cfd31]
 
 (1) The Scottish Ministers may by regulations make such supplementary, incidental or consequential provision as they consider appropriate in connection with fixed penalty notices and compliance notices and the carrying out by enforcement authorities and their authorised officers of functions under this Part.
 
@@ -1023,7 +1023,7 @@ whichever expires earlier.
 
 (7) The Scottish Ministers may by regulations modify subsection (6).
 
-#### 50. Regulations[^key-d4061140aef536e0ea0ee8cdff499935]
+#### 50. Regulations[^c-d4061140aef536e0ea0ee8cdff499935]
 
 (1) Before making any regulations under this Part, the Scottish Ministers must—
 
@@ -1034,7 +1034,7 @@ whichever expires earlier.
 
 (3) Subsection (1)(b) does not apply in any case in which consultation is required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178).
 
-#### 51. Lord Advocate's guidance[^key-055be1e00189b1809645c642d885ccdd]
+#### 51. Lord Advocate's guidance[^c-055be1e00189b1809645c642d885ccdd]
 
 (1) The Lord Advocate may issue guidance to enforcement authorities about the exercise by them, and their authorised officers, of functions under this Part in relation to fixed penalty notices and compliance notices.
 
@@ -1051,7 +1051,7 @@ whichever expires earlier.
 
 (5) The power in subsection (1) includes power to issue revised guidance (and references in this section to guidance are to be construed accordingly).
 
-#### 52. Interpretation of Part[^key-07a4b9d906b65458782989a8253a13eb]
+#### 52. Interpretation of Part[^c-07a4b9d906b65458782989a8253a13eb]
 
 In this Part—
 
@@ -1066,7 +1066,7 @@ In this Part—
 
 ## PART 4 — INTERPRETATION
 
-### 53. Meanings of “food” and “animal feeding stuffs”[^key-048159844481a0a7edb81ff157dac207]
+### 53. Meanings of “food” and “animal feeding stuffs”[^c-048159844481a0a7edb81ff157dac207]
 
 (1) In this Act—
 
@@ -1075,21 +1075,21 @@ In this Part—
 
 (2) The reference in subsection (1) to “**feeding stuffs**” includes any nutritional supplement or other similar substance which is not administered through oral feeding.
 
-### 54. Meaning of “food matter”[^key-13714d0a6bfe77edbc475ffe3714b251]
+### 54. Meaning of “food matter”[^c-13714d0a6bfe77edbc475ffe3714b251]
 
 In this Act, “**food matter**” means any matter connected with—
 
 - (a) health which may arise in relation to the consumption of food, or
 - (b) other interests of consumers in relation to food.
 
-### 55. Meaning of “other interests of consumers in relation to food”[^key-50d88f66db1abc456d573d526e5987c5]
+### 55. Meaning of “other interests of consumers in relation to food”[^c-50d88f66db1abc456d573d526e5987c5]
 
 In this Act, “**other interests of consumers in relation to food**” includes in particular interests in relation to—
 
 - (a) the labelling, marking, presentation or advertisement of food,
 - (b) the descriptions which may be applied to food.
 
-### 56. Meaning of “animal feeding stuffs matter”[^key-265bb5c99c161d369fe777942595a7d1]
+### 56. Meaning of “animal feeding stuffs matter”[^c-265bb5c99c161d369fe777942595a7d1]
 
 (1) In this Act, “**animal feeding stuffs matter**” means any matter connected with—
 
@@ -1101,7 +1101,7 @@ In this Act, “**other interests of consumers in relation to food**” includes
 - (a) the labelling, marking, presentation or advertisement of animal feeding stuffs,
 - (b) the descriptions which may be applied to animal feeding stuffs.
 
-### 57. Meaning of “food legislation”[^key-d4fed1431892aec56819ae3d08e4c3d6]
+### 57. Meaning of “food legislation”[^c-d4fed1431892aec56819ae3d08e4c3d6]
 
 (1) In this Act, “**food legislation**” means legislation for the time being in force—
 
@@ -1114,7 +1114,7 @@ In this Act, “**other interests of consumers in relation to food**” includes
 
 (2) In subsection (1), “**legislation**” means any enactment, or any obligation or restriction to which section 2(1) of the European Communities Act 1972 applies.
 
-### 58. General interpretation[^key-9c281fc02a04d3b5182582fb74d8b1e9]
+### 58. General interpretation[^c-9c281fc02a04d3b5182582fb74d8b1e9]
 
 (1) In this Act—
 
@@ -1148,8 +1148,8 @@ In this Act, “**other interests of consumers in relation to food**” includes
 - “**undischarged bankrupt**” means a person—
   - (a) whose estate has been sequestrated and who has not been discharged (or against whom a bankruptcy order has been made and is still in force),
   - (b) who has granted a trust deed for, or made a composition or arrangement with, creditors and has not been discharged in respect of it,
-  - (c) who is the subject of a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 , the Bankruptcy (Scotland) Act 2016[^key-2e2719217c6cafd8c5369cda2cc89120] or the Insolvency Act 1986,
-  - (d) who is the subject of a bankruptcy restrictions undertaking entered into under that Act of 1985 or that Act of 1986[^key-798d8a09547a244cdcaf2282bc9ac922],
+  - (c) who is the subject of a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 , the Bankruptcy (Scotland) Act 2016[^c-2e2719217c6cafd8c5369cda2cc89120] or the Insolvency Act 1986,
+  - (d) who is the subject of a bankruptcy restrictions undertaking entered into under that Act of 1985 or that Act of 1986[^c-798d8a09547a244cdcaf2282bc9ac922],
   - (e) who has been adjudged bankrupt and has not been discharged, or
   - (f) who is subject to any other kind of arrangement or undertaking, anywhere in the world, which is analogous to those described in paragraphs (a) to (d).
 
@@ -1164,7 +1164,7 @@ In this Act, “**other interests of consumers in relation to food**” includes
 
 ## PART 5 — FINAL PROVISIONS
 
-### 59. Modification of enactments[^key-27b19ee9098b9673d4a7321fe56b2e36]
+### 59. Modification of enactments[^c-27b19ee9098b9673d4a7321fe56b2e36]
 
 The schedule (which makes minor amendments to enactments and otherwise modifies enactments for the purposes of or in consequence of this Act) has effect.
 
@@ -1223,7 +1223,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Agriculture Act 1947
 
-**1.**[^key-774e096a91240a3b51d678a249eb39c3] In section 80 of the Agriculture Act 1947, after paragraph (e) insert—
+**1.**[^c-774e096a91240a3b51d678a249eb39c3] In section 80 of the Agriculture Act 1947, after paragraph (e) insert—
 
 > - (f) to Food Standards Scotland for purposes connected with the carrying out of any of its functions,
 
@@ -1231,7 +1231,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Food and Environment Protection Act 1985
 
-**2.**[^key-fe7fe8df1d4424b471b3cebd1b70bf48] (1) The Food and Environment Protection Act 1985 is amended as follows.
+**2.**[^c-fe7fe8df1d4424b471b3cebd1b70bf48] (1) The Food and Environment Protection Act 1985 is amended as follows.
 
 (2) In section 1(12) the words “or is made on their behalf by the Food Standards Agency in accordance with an arrangement made under section 17 of the Food Standards Act 1999” are repealed.
 
@@ -1243,7 +1243,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Food Safety Act 1990
 
-**3.**[^key-d8a048b04745654ec620322c295d2ec6] (1) The 1990 Act is amended as follows.
+**3.**[^c-d8a048b04745654ec620322c295d2ec6] (1) The 1990 Act is amended as follows.
 
 (2) In section 6, after subsection (4) insert—
 
@@ -1316,7 +1316,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Environmental Protection Act 1990
 
-**4.**[^key-4b1fe8e0f20c35480e9e688d3ad7b4a1] (1) The Environmental Protection Act 1990 is amended as follows.
+**4.**[^c-4b1fe8e0f20c35480e9e688d3ad7b4a1] (1) The Environmental Protection Act 1990 is amended as follows.
 
 (2) In section 108, after subsection (10) insert—
 
@@ -1338,11 +1338,11 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Radioactive Substances Act 1993
 
-**5.**[^key-1091d6d8ad302d449f046fe2fa48e83c] (1) The Radioactive Substances Act 1993 is amended as follows.
+**5.**[^c-1091d6d8ad302d449f046fe2fa48e83c] (1) The Radioactive Substances Act 1993 is amended as follows.
 
-(2)[^key-1758c125f00d7b10a5f21276cadbfa9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1758c125f00d7b10a5f21276cadbfa9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1758c125f00d7b10a5f21276cadbfa9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1758c125f00d7b10a5f21276cadbfa9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 25, after subsection (3A) insert—
 
@@ -1352,7 +1352,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Environment Act 1995
 
-**6.**[^key-a2848d6073a75167614ab5893e48c98a] In section 42 of the Environment Act 1995, after subsection (11) insert—
+**6.**[^c-a2848d6073a75167614ab5893e48c98a] In section 42 of the Environment Act 1995, after subsection (11) insert—
 
 > (12) In the application of this section to Scotland, the references to the Food Standards Agency are to be read as references to Food Standards Scotland.
 
@@ -1360,7 +1360,7 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Food Standards Act 1999
 
-**7.**[^key-e635d007a8210746b131cb0ed1420915] (1) The 1999 Act is amended as follows.
+**7.**[^c-e635d007a8210746b131cb0ed1420915] (1) The 1999 Act is amended as follows.
 
 (2) The following sections are repealed—
 
@@ -1379,158 +1379,158 @@ The short title of this Act is the Food (Scotland) Act 2015.
 
 ### Water Environment and Water Services (Scotland) Act 2003
 
-**8.**[^key-7ea0726408294b1d83cae0b5aebcbed9] In section 11(6)(fa) of the Water Environment and Water Services (Scotland) Act 2003, for “the Food Standards Agency” substitute “ Food Standards Scotland ”.
+**8.**[^c-7ea0726408294b1d83cae0b5aebcbed9] In section 11(6)(fa) of the Water Environment and Water Services (Scotland) Act 2003, for “the Food Standards Agency” substitute “ Food Standards Scotland ”.
 
 ### Gaelic Language (Scotland) Act 2005
 
-**9.**[^key-03d312586ed2908e0d3a5ba94a6da629] Section 10(3) of the Gaelic Language (Scotland) Act 2005 is repealed.
+**9.**[^c-03d312586ed2908e0d3a5ba94a6da629] Section 10(3) of the Gaelic Language (Scotland) Act 2005 is repealed.
 
 ### Regulatory Reform (Scotland) Act 2014
 
-**10.**[^key-e583f9e583ba464e90c4a7941c25cfef] In schedule 1 to the Regulatory Reform (Scotland) Act 2014, the entry for the Food Standards Agency is repealed.
+**10.**[^c-e583f9e583ba464e90c4a7941c25cfef] In schedule 1 to the Regulatory Reform (Scotland) Act 2014, the entry for the Food Standards Agency is repealed.
 
 ## Annotations
 
-[^key-d5d451854fd782be6c2b35b330365d94]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/1/section/1) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d5d451854fd782be6c2b35b330365d94]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/1/section/1) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-3a476bf771bcd81ed3be9a9e9426fb7f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/1/section/2) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-3a476bf771bcd81ed3be9a9e9426fb7f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/1/section/2) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-a8df30aaacf10ac02c213be11b7e4589]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/1/section/3) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-a8df30aaacf10ac02c213be11b7e4589]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/1/section/3) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-88dd7de3e844ce1cf2ef8db5b39ad9a6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/1/section/4) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-88dd7de3e844ce1cf2ef8db5b39ad9a6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/1/section/4) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-94d5b7fb7bbe6e8245ef9a0515d759b9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/1/section/5) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-94d5b7fb7bbe6e8245ef9a0515d759b9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/1/section/5) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-c4d895f59f76ae2264557168fb9d690a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/1/section/6) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-c4d895f59f76ae2264557168fb9d690a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/1/section/6) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d985137bb8b3e8da16e031c05429aca6]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/1/section/7) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d985137bb8b3e8da16e031c05429aca6]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/1/section/7) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-77108aa236b4a12e349535685d434b28]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/1/section/8) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-77108aa236b4a12e349535685d434b28]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/1/section/8) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-e02852a34a1d859833a825ac5314629a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/1/section/9) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-e02852a34a1d859833a825ac5314629a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/1/section/9) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-06d046eec83f4af81fca2b2e2a4cb5e3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/1/section/10) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-06d046eec83f4af81fca2b2e2a4cb5e3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/1/section/10) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-0ae81efed34b37d5e8b418b7aa6cb182]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/1/section/11) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-0ae81efed34b37d5e8b418b7aa6cb182]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/1/section/11) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-fb46df6c27e50b651b55c8120f6b1cca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/1/section/12) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-fb46df6c27e50b651b55c8120f6b1cca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/1/section/12) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-462eacb6d335f164f74d1fe4d8fef79b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/1/section/13) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-462eacb6d335f164f74d1fe4d8fef79b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/1/section/13) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1915b38359dcb73efceb52ab85fb6f3e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/1/section/14) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-1915b38359dcb73efceb52ab85fb6f3e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/1/section/14) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d6a448b29884c3db8045f1c9f594d18d]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/1/section/15) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d6a448b29884c3db8045f1c9f594d18d]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/1/section/15) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-ea1e834156ca054400679a18d517fe3a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/1/section/16) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-ea1e834156ca054400679a18d517fe3a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/1/section/16) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-9d0b8e3c672a6a4f4c72696ccebb5ad9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2015/1/section/17) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9d0b8e3c672a6a4f4c72696ccebb5ad9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2015/1/section/17) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-6012e1a4b3a188b65701d477d69719de]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/1/section/18) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-6012e1a4b3a188b65701d477d69719de]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/1/section/18) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1395071bcfb525e13cbadecb9c4c218d]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/1/section/19) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-1395071bcfb525e13cbadecb9c4c218d]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/1/section/19) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-a94f8c92ce7794834c7e0314d231ff16]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2015/1/section/20) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-a94f8c92ce7794834c7e0314d231ff16]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2015/1/section/20) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1e303109c3e3d990bdc1ee670bcdc31b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/1/section/21) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-1e303109c3e3d990bdc1ee670bcdc31b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/1/section/21) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-a7ee48770c08463638cff5ad3e08eca0]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/1/section/22) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-a7ee48770c08463638cff5ad3e08eca0]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/1/section/22) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-9d9293c4ce332289024555d266f23b71]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/1/section/23) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9d9293c4ce332289024555d266f23b71]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/1/section/23) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-3b4fe1ee3ef8ed120d46bf7dd22c0a45]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/1/section/24) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-3b4fe1ee3ef8ed120d46bf7dd22c0a45]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/1/section/24) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-9212a542f92e4b29f4463ac55c4f09ee]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/1/section/25) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9212a542f92e4b29f4463ac55c4f09ee]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/1/section/25) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-a16442195fc94ddf81d86abeae75b6d5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/1/section/26) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-a16442195fc94ddf81d86abeae75b6d5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/1/section/26) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-7a38a26fbf7bc4e0f4bacf356d4696b0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/1/section/27) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-7a38a26fbf7bc4e0f4bacf356d4696b0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/1/section/27) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-7f014bf49bcde595c2e22977a818ff52]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/1/section/28) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-7f014bf49bcde595c2e22977a818ff52]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/1/section/28) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-6a1577b91da1a788b52985c2c9861739]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/1/section/29) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-6a1577b91da1a788b52985c2c9861739]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/1/section/29) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-56aacb9c84800748ee572bc461faa08a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/1/section/30) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-56aacb9c84800748ee572bc461faa08a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/1/section/30) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-e01ec156da44bee2b978c4e788bd6c81]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2015/1/section/31) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-e01ec156da44bee2b978c4e788bd6c81]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2015/1/section/31) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-b6abb18cab1e4789266b9f558c1dfc78]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/1/section/32) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-b6abb18cab1e4789266b9f558c1dfc78]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/1/section/32) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-bc267ce1dfff8f4b39ce71c8c7e89a57]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/1/section/33) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bc267ce1dfff8f4b39ce71c8c7e89a57]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/1/section/33) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-f8f440b77bf527ba194f7683e0e06c37]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2015/1/section/34) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-f8f440b77bf527ba194f7683e0e06c37]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2015/1/section/34) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1f6044ed87ff4098855e0b55e9c64de1]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2015/1/section/35) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-1f6044ed87ff4098855e0b55e9c64de1]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2015/1/section/35) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-eae60740a89657c6d823c06bd6208b3e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/1/section/36) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-eae60740a89657c6d823c06bd6208b3e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/1/section/36) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-508c3a1327512d16ab5fd6fecdd8bbc6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/1/section/37) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-508c3a1327512d16ab5fd6fecdd8bbc6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/1/section/37) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-07ba8873d42881021b9977ced2e189a3]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/1/section/38) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-07ba8873d42881021b9977ced2e189a3]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/1/section/38) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-47ff894ebf9978fbfcfef042f37e38dc]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/1/section/39) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-47ff894ebf9978fbfcfef042f37e38dc]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/1/section/39) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-2f6d1d9540d02fe665619453fc66f900]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/1/section/40) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-2f6d1d9540d02fe665619453fc66f900]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/1/section/40) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-661fe9a08a7f97d4d8dc01c4f1a4e0d6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/1/section/41) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-661fe9a08a7f97d4d8dc01c4f1a4e0d6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/1/section/41) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-bb4fa4c2141ce40ee98d7be15c4f5277]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/1/section/42) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bb4fa4c2141ce40ee98d7be15c4f5277]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/1/section/42) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-c9c82b0d34bbd3df3647b3a3e6387bee]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/1/section/43) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-c9c82b0d34bbd3df3647b3a3e6387bee]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/1/section/43) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-f2b4507fa458057052ceccfd4a5876f7]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/1/section/44) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-f2b4507fa458057052ceccfd4a5876f7]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/1/section/44) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d8df07fdb2d510c97615cc78f69c00c7]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/1/section/45) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d8df07fdb2d510c97615cc78f69c00c7]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/1/section/45) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-3fd090c69a2ccb5e7430342e268b759e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/1/section/46) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-3fd090c69a2ccb5e7430342e268b759e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/1/section/46) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-068e2706469a11b088028ebf73582e4e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/1/section/47) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-068e2706469a11b088028ebf73582e4e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/1/section/47) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-bb4464fb979bc1b32fdbe6d356f5e902]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/1/section/48) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bb4464fb979bc1b32fdbe6d356f5e902]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/1/section/48) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-bf639bf9acdeadf854c03baa000cfd31]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2015/1/section/49) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bf639bf9acdeadf854c03baa000cfd31]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2015/1/section/49) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d4061140aef536e0ea0ee8cdff499935]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/1/section/50) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d4061140aef536e0ea0ee8cdff499935]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/1/section/50) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-055be1e00189b1809645c642d885ccdd]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/1/section/51) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-055be1e00189b1809645c642d885ccdd]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/1/section/51) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-07a4b9d906b65458782989a8253a13eb]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/1/section/52) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-07a4b9d906b65458782989a8253a13eb]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/1/section/52) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-048159844481a0a7edb81ff157dac207]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/1/section/53) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-048159844481a0a7edb81ff157dac207]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/1/section/53) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-13714d0a6bfe77edbc475ffe3714b251]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/1/section/54) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-13714d0a6bfe77edbc475ffe3714b251]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/1/section/54) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-50d88f66db1abc456d573d526e5987c5]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/1/section/55) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-50d88f66db1abc456d573d526e5987c5]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/1/section/55) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-265bb5c99c161d369fe777942595a7d1]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/1/section/56) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-265bb5c99c161d369fe777942595a7d1]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/1/section/56) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d4fed1431892aec56819ae3d08e4c3d6]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/1/section/57) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d4fed1431892aec56819ae3d08e4c3d6]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/1/section/57) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-9c281fc02a04d3b5182582fb74d8b1e9]: Commencement: S. 58 in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-9c281fc02a04d3b5182582fb74d8b1e9]: Commencement: S. 58 in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-2e2719217c6cafd8c5369cda2cc89120]: Textual amendment: Words in s. 58(1) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 28(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/28/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2e2719217c6cafd8c5369cda2cc89120]: Textual amendment: Words in s. 58(1) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 28(a)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/28/a) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-798d8a09547a244cdcaf2282bc9ac922]: Textual amendment: Words in s. 58(1) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 28(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/28/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-798d8a09547a244cdcaf2282bc9ac922]: Textual amendment: Words in s. 58(1) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 28(b)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/28/b) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-27b19ee9098b9673d4a7321fe56b2e36]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/1/section/59) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-27b19ee9098b9673d4a7321fe56b2e36]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/1/section/59) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-774e096a91240a3b51d678a249eb39c3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-774e096a91240a3b51d678a249eb39c3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-fe7fe8df1d4424b471b3cebd1b70bf48]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-fe7fe8df1d4424b471b3cebd1b70bf48]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-d8a048b04745654ec620322c295d2ec6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-d8a048b04745654ec620322c295d2ec6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-4b1fe8e0f20c35480e9e688d3ad7b4a1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-4b1fe8e0f20c35480e9e688d3ad7b4a1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1091d6d8ad302d449f046fe2fa48e83c]: Commencement: Sch. para. 5 in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-1091d6d8ad302d449f046fe2fa48e83c]: Commencement: Sch. para. 5 in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-1758c125f00d7b10a5f21276cadbfa9e]: Textual amendment: [Sch. paras. 5(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/5/2)[(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/5/3) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-1758c125f00d7b10a5f21276cadbfa9e]: Textual amendment: [Sch. paras. 5(2)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/5/2)[(3)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/5/3) repealed (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-a2848d6073a75167614ab5893e48c98a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-a2848d6073a75167614ab5893e48c98a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-e635d007a8210746b131cb0ed1420915]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-e635d007a8210746b131cb0ed1420915]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-7ea0726408294b1d83cae0b5aebcbed9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/8) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-7ea0726408294b1d83cae0b5aebcbed9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/8) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-03d312586ed2908e0d3a5ba94a6da629]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-03d312586ed2908e0d3a5ba94a6da629]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-e583f9e583ba464e90c4a7941c25cfef]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/10) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-e583f9e583ba464e90c4a7941c25cfef]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/10) in force at 1.4.2015 by [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

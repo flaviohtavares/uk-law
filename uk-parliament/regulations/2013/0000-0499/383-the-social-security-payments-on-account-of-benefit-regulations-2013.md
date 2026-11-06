@@ -105,8 +105,8 @@ has effect in connection with notices required to be given or sent under regulat
 - (c) income support;
 - (d) jobseeker's allowance;
 - (e) state pension credit;
-- (f) benefit under Parts 2 to 5 of the Contributions and Benefits Act except attendance allowance , disability living allowance and guardian’s allowance[^key-313c43d1e37d23650c072f4899dee518].
-- (g)[^key-4c02d60a8cfb0c5b55fe1144f03aa93a] a state pension under Part 1 of the Pensions Act 2014.
+- (f) benefit under Parts 2 to 5 of the Contributions and Benefits Act except attendance allowance , disability living allowance and guardian’s allowance[^c-313c43d1e37d23650c072f4899dee518].
+- (g)[^c-4c02d60a8cfb0c5b55fe1144f03aa93a] a state pension under Part 1 of the Pensions Act 2014.
 
 (2) For the purpose of paragraph (1)—
 
@@ -128,9 +128,9 @@ has effect in connection with notices required to be given or sent under regulat
 (1) The Secretary of State may make a payment on account of benefit to A if—
 
 - (a) either of paragraphs (2) or (3) applies;
-- (b) it appears to the Secretary of State likely that the conditions of entitlement for benefit are satisfied (or will be satisfied during the period in respect of which the payment is to be made)[^key-1b648303b99c1aa623329fdf603e17fb]; [^key-410c99c6c3004358131638ab96047b49]...
-- (c) the Secretary of State is satisfied that A is in financial need ; and[^key-6e0fde650ff82f0c520c6e5e1ce9c00a]
-- (d)[^key-313f7bdaec5ad52a6c6097747889e719] where the payment on account of benefit is to be on account of universal credit, A has been allocated a national insurance number.
+- (b) it appears to the Secretary of State likely that the conditions of entitlement for benefit are satisfied (or will be satisfied during the period in respect of which the payment is to be made)[^c-1b648303b99c1aa623329fdf603e17fb]; [^c-410c99c6c3004358131638ab96047b49]...
+- (c) the Secretary of State is satisfied that A is in financial need ; and[^c-6e0fde650ff82f0c520c6e5e1ce9c00a]
+- (d)[^c-313f7bdaec5ad52a6c6097747889e719] where the payment on account of benefit is to be on account of universal credit, A has been allocated a national insurance number.
 
 (2) This paragraph applies where A has made a claim for benefit but the claim has not yet been determined.
 
@@ -179,7 +179,7 @@ but an award of benefit has not yet been made.
 - (a) any child or qualifying young person for whom A is responsible; and
 - (b) where A is a member of a couple, their partner.
 
-(3) Where the payment on account of benefit is to be on account of a benefit specified in regulation 3(1)(b) to (g)[^key-db94e0d7868055b030075e0dc49d50d0], for the purpose of paragraph (1), “**family**” has the meaning given in section 137(1) of the Contributions and Benefits Act [^c2166215].
+(3) Where the payment on account of benefit is to be on account of a benefit specified in regulation 3(1)(b) to (g)[^c-db94e0d7868055b030075e0dc49d50d0], for the purpose of paragraph (1), “**family**” has the meaning given in section 137(1) of the Contributions and Benefits Act [^c2166215].
 
 ### 8. Requirement for notice
 
@@ -190,7 +190,7 @@ but an award of benefit has not yet been made.
 
 (2) Where A is a member of a couple and the payment on account of benefit is on account of universal credit, notice in writing must also be given or sent to their partner containing the information referred to in paragraph (1)(a) and (b).
 
-### 9. Payment by direct credit transfer[^key-0e8d0c5a6479a4b5488e7050883b77e0]
+### 9. Payment by direct credit transfer[^c-0e8d0c5a6479a4b5488e7050883b77e0]
 
 A payment on account of benefit may be paid by way of direct credit transfer into a bank account or other account nominated by A or a person acting on A’s behalf.
 
@@ -236,7 +236,7 @@ Where it is practicable to do so, a payment on account of benefit—
 - (a) “**employment and support allowance**” means an income-related allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the 2012 Act (to remove references to an income-related allowance);
 - (b) “**jobseeker's allowance**” means an income-based jobseeker's allowance under the 1995 Act as it has effect apart from the amendments made by Part 1 of Schedule 14 to the 2012 Act (to remove references to an income-based allowance).
 
-### 13. Earnings condition[^key-172611264facd52a4935d270c40c9672]
+### 13. Earnings condition[^c-172611264facd52a4935d270c40c9672]
 
 (1) The earnings condition is satisfied—
 
@@ -313,7 +313,7 @@ The recovery condition is satisfied where—
 
 (2) Where B is a member of a couple, notice in writing must also be given or sent to their partner containing the information referred to in paragraph (1)(a) and (b).
 
-### 18. Payment by direct credit transfer[^key-8ca7d5e4fd313b3c1e88530147235432]
+### 18. Payment by direct credit transfer[^c-8ca7d5e4fd313b3c1e88530147235432]
 
 A budgeting advance may be paid by way of direct credit transfer into a bank account or other account nominated by B or a person acting on B’s behalf.
 
@@ -401,30 +401,30 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2166213]: Marginal citation: [Schedule 9ZC](https://www.legislation.gov.uk/uksi/2013/383/schedule/9ZC) is inserted by [S.I.2003/2800](https://www.legislation.gov.uk/uksi/2003/2800) and amended by [S.I.2005/3321](https://www.legislation.gov.uk/uksi/2005/3321)and 2011/1498 and 2943.
 
-[^key-313c43d1e37d23650c072f4899dee518]: Textual amendment: Words in reg. 3(1)(f) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/7/2)
+[^c-313c43d1e37d23650c072f4899dee518]: Textual amendment: Words in reg. 3(1)(f) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/7/2)
 
-[^key-4c02d60a8cfb0c5b55fe1144f03aa93a]: Textual amendment: [Reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2013/383/regulation/3/1/g) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [41(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/41/2)
+[^c-4c02d60a8cfb0c5b55fe1144f03aa93a]: Textual amendment: [Reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2013/383/regulation/3/1/g) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [41(2)](https://www.legislation.gov.uk/uksi/2015/1985/article/41/2)
 
-[^key-1b648303b99c1aa623329fdf603e17fb]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/b) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/a)
+[^c-1b648303b99c1aa623329fdf603e17fb]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/b) inserted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/a)
 
-[^key-410c99c6c3004358131638ab96047b49]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/b) omitted (1.4.2024) by virtue of [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/a)
+[^c-410c99c6c3004358131638ab96047b49]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/b) omitted (1.4.2024) by virtue of [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/a)
 
-[^key-6e0fde650ff82f0c520c6e5e1ce9c00a]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/c) substituted for full stop (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/b)
+[^c-6e0fde650ff82f0c520c6e5e1ce9c00a]: Textual amendment: Word in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/c) substituted for full stop (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/b)
 
-[^key-313f7bdaec5ad52a6c6097747889e719]: Textual amendment: [Reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/d) inserted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/c)
+[^c-313f7bdaec5ad52a6c6097747889e719]: Textual amendment: [Reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2013/383/regulation/5/1/d) inserted (1.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2024/341/regulation/6/c)
 
 [^c2166214]: Marginal citation: Regulation 3 has been amended by [S.I. 1989/136](https://www.legislation.gov.uk/uksi/1989/136), 1994/2943, 1999/2556, 1999/3178, 2000/1483, 2001/488, 2003/1589, 2005/1551, 2007/2470, 2008/441, 2008/1554, 2008/2667, 2009/1490 and 2010/840 and
 
     1794\.
 
-[^key-db94e0d7868055b030075e0dc49d50d0]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/383/regulation/7/3) substituted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [41(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/41/3)
+[^c-db94e0d7868055b030075e0dc49d50d0]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/383/regulation/7/3) substituted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [41(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/41/3)
 
 [^c2166215]: Marginal citation: The definition is amended by paragraph 46 of Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-0e8d0c5a6479a4b5488e7050883b77e0]: Textual amendment: Reg. 9 substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/b)
+[^c-0e8d0c5a6479a4b5488e7050883b77e0]: Textual amendment: Reg. 9 substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/b)
 
-[^key-172611264facd52a4935d270c40c9672]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/383/regulation/13) substituted (with effect in accordance with reg. 1(3) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1754/regulation/7)
+[^c-172611264facd52a4935d270c40c9672]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/383/regulation/13) substituted (with effect in accordance with reg. 1(3) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1754/regulation/7)
 
-[^key-8ca7d5e4fd313b3c1e88530147235432]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/383/regulation/18) substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/c)
+[^c-8ca7d5e4fd313b3c1e88530147235432]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/383/regulation/18) substituted (with effect in accordance with reg. 1(2) of the commencing S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/5/1/c)
 
 [^c2166216]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991). Schedule 2 has been amended but the amendments are not relevant to this instrument.

@@ -18,12 +18,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**31A.**[^key-759b74d82b8780fdb2732631520211b9] (1) This regulation applies where a person—
+**31A.**[^c-759b74d82b8780fdb2732631520211b9] (1) This regulation applies where a person—
 
 - (a) makes a supply of investment gold of a description falling within item 1 of Group 15 of Schedule 9 to the Act, or
 - (b) makes a supply of a description falling within item 2 of Group 15 of Schedule 9 to the Act, which subsequently results in the transfer of the possession of the investment gold.
 
-(2) Subject to paragraph (6) below (and save as the Commissioners may otherwise allow in relation to supplies where the value is less than an amount equivalent to £13,000[^key-8d79a9c73c6ef15df07d146dd1fe537a] at a rate specified in any notice published by the Commissioners for the purposes of this regulation) in addition to the requirements upon every taxable person under this Part, a person making a supply of a description falling within paragraph (1) above shall—
+(2) Subject to paragraph (6) below (and save as the Commissioners may otherwise allow in relation to supplies where the value is less than an amount equivalent to £13,000[^c-8d79a9c73c6ef15df07d146dd1fe537a] at a rate specified in any notice published by the Commissioners for the purposes of this regulation) in addition to the requirements upon every taxable person under this Part, a person making a supply of a description falling within paragraph (1) above shall—
 
 - (a) without prejudice to regulations 13 and 14, issue an invoice in respect of the supply containing such details as may be specified in a notice published by the Comissioners for the purposes of this regulation;
 - (b) keep and maintain a record of the supply containing such details as may be specified in a notice published by the Commissioners for the purposes of this regulation;
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-759b74d82b8780fdb2732631520211b9]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/1995/2518/regulation/31A) inserted (1.1.2000) by [The Value Added Tax (Amendment) (No. 4) Regulations 1999 (S.I. 1999/3114)](https://www.legislation.gov.uk/uksi/1999/3114), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3114/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/3114/regulation/4)
+[^c-759b74d82b8780fdb2732631520211b9]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/1995/2518/regulation/31A) inserted (1.1.2000) by [The Value Added Tax (Amendment) (No. 4) Regulations 1999 (S.I. 1999/3114)](https://www.legislation.gov.uk/uksi/1999/3114), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3114/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/3114/regulation/4)
 
-[^key-8d79a9c73c6ef15df07d146dd1fe537a]: Textual amendment: Sum in [Reg. 31A(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/31A/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/59/regulation/32); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8d79a9c73c6ef15df07d146dd1fe537a]: Textual amendment: Sum in [Reg. 31A(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/31A/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/59/regulation/32); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -35,7 +35,7 @@ summary: ''
 (4) The bodies referred to in subsection (3)(b) above are—
 
 - (a)[^c982381] a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994, or a joint board or joint committee of two or more such councils, or the common good of such a council or any trust under the control of such a council;
-- (aa)[^key-21faa7422dbd26d09cc76c00ba403584] Scottish Water;
+- (aa)[^c-21faa7422dbd26d09cc76c00ba403584] Scottish Water;
 - (b) a development corporation established by an order made, or having effect as if made, under the [^c982391]New Towns (Scotland) Act 1968;
 - (c) the Scottish Special Housing Association;
 - (d) the Housing Corporation;
@@ -43,7 +43,7 @@ summary: ''
 - (f) a housing co-operative within the meaning of section 22 of the Housing (Scotland) Act 1987[^c982411]; and
 - (g) any housing trust which was in existence on 13th November 1953 . . . [^c982421].
 
-(5) An interest belonging to Her Majesty in right of the Crown shall not prevent this Part of this Act from applying to a contract if the interest is under the management of the Crown Estate Commissioners or is an interest to which section 90B(5) of the Scotland Act 1998 applies[^key-12138c5782948e391f0811d311155f10].
+(5) An interest belonging to Her Majesty in right of the Crown shall not prevent this Part of this Act from applying to a contract if the interest is under the management of the Crown Estate Commissioners or is an interest to which section 90B(5) of the Scotland Act 1998 applies[^c-12138c5782948e391f0811d311155f10].
 
 (6) No right to occupy a dwelling-house for a holiday shall be treated for the purposes of this Part of this Act as a right to occupy it as a residence.
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c982381]: Textual amendment: S. 63(4)(a)(aa) substituted for s. 63(4)(a) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 137(5)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/137/5); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
-[^key-21faa7422dbd26d09cc76c00ba403584]: Textual amendment: S. 63(4)(aa) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [sch. para. 5(2)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/5/2)
+[^c-21faa7422dbd26d09cc76c00ba403584]: Textual amendment: S. 63(4)(aa) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [sch. para. 5(2)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/5/2)
 
 [^c982391]: Marginal citation: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c982421]: Textual amendment: Words repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339](https://www.legislation.gov.uk/ukpga/1987/26/section/339), [Sch. 23 para. 29(4)(b)](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/29/4/b), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-12138c5782948e391f0811d311155f10]: Textual amendment: Words in [s. 63(5)](https://www.legislation.gov.uk/ukpga/1984/58/section/63/5) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 18(3)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/18/3)
+[^c-12138c5782948e391f0811d311155f10]: Textual amendment: Words in [s. 63(5)](https://www.legislation.gov.uk/ukpga/1984/58/section/63/5) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 18(3)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/18/3)

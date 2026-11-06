@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (England) Regulations 2004 (revoked)[^key-060c707f5a6158ae093a76f4f5bce186]
+The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (England) Regulations 2004 (revoked)[^c-060c707f5a6158ae093a76f4f5bce186]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into force
 
 1st April 2004
 
-[^key-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-060c707f5a6158ae093a76f4f5bce186]
+## 1. Title and commencement[^c-060c707f5a6158ae093a76f4f5bce186]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-060c707f5a6158ae093a76f4f5bce186]
+## 2. Interpretation[^c-060c707f5a6158ae093a76f4f5bce186]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-060c707f5a6158ae093a76f4f5bce186]
+## 3. Application[^c-060c707f5a6158ae093a76f4f5bce186]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision of appeals procedure[^key-060c707f5a6158ae093a76f4f5bce186]
+## 4. Provision of appeals procedure[^c-060c707f5a6158ae093a76f4f5bce186]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEMES IN RESPECT OF WHICH THE SECRETARY OF STATE MAY ESTABLISH AN APPEALS PROCEDURE[^key-060c707f5a6158ae093a76f4f5bce186]
+## SCHEDULE — SCHEMES IN RESPECT OF WHICH THE SECRETARY OF STATE MAY ESTABLISH AN APPEALS PROCEDURE[^c-060c707f5a6158ae093a76f4f5bce186]
 
 Regulations 2 and 4(1)
 
@@ -77,8 +77,8 @@ Regulations 2 and 4(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-060c707f5a6158ae093a76f4f5bce186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-060c707f5a6158ae093a76f4f5bce186]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-060c707f5a6158ae093a76f4f5bce186]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

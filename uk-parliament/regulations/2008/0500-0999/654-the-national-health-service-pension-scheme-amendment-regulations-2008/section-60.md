@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Amendment of regulation S4[^key-f52b32ac1ca1fc1d83666bd5d5d5776d]
+## 60. Amendment of regulation S4[^c-f52b32ac1ca1fc1d83666bd5d5d5776d]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ In regulation S4 for paragraphs (4) to (9) substitute—
 
 ## Annotations
 
-[^key-f52b32ac1ca1fc1d83666bd5d5d5776d]: Commencement: Reg. 60 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-f52b32ac1ca1fc1d83666bd5d5d5776d]: Commencement: Reg. 60 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

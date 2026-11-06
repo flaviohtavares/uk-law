@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Notices: offences[^key-32d7547c328065abc9b33cb1f2a5c722]
+## 101. Notices: offences[^c-32d7547c328065abc9b33cb1f2a5c722]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d7547c328065abc9b33cb1f2a5c722]: Commencement: S. 101 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-32d7547c328065abc9b33cb1f2a5c722]: Commencement: S. 101 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -33,18 +33,18 @@ of 7 May 2020
 
 on the position to be taken on behalf of the European Union during the 56th session of the Committee of Experts for the Carriage of Dangerous Goods of the Intergovernmental Organisation for International Carriage by Rail as regards certain amendments to Appendix C to the Convention concerning International Carriage by Rail (revoked)
 
-[^key-fad697e1473995c60e5bea7ab647c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fad697e1473995c60e5bea7ab647c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fad697e1473995c60e5bea7ab647c474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fad697e1473995c60e5bea7ab647c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fad697e1473995c60e5bea7ab647c474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fad697e1473995c60e5bea7ab647c474]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-fad697e1473995c60e5bea7ab647c474]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

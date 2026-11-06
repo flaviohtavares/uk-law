@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32ZA. Fees in connection with authority under section 5[^key-ad10d0e033d50c5a2d51884bafccf1ab]
+## 32ZA. Fees in connection with authority under section 5[^c-ad10d0e033d50c5a2d51884bafccf1ab]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad10d0e033d50c5a2d51884bafccf1ab]: Textual amendment: S. 32ZA inserted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1)
+[^c-ad10d0e033d50c5a2d51884bafccf1ab]: Textual amendment: S. 32ZA inserted (31.1.2017 for specified purposes, 18.7.2019 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/132/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2019/1141/regulation/3/1)

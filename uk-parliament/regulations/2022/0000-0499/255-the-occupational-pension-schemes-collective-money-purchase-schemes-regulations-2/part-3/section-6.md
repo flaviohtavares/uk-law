@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Authorisation: contents[^key-42ca48e5cd7d47f947a8a19f881a9a5b]
+## 6. Authorisation: contents[^c-42ca48e5cd7d47f947a8a19f881a9a5b]
 
 *Extent: E+W+S*
 
@@ -31,8 +31,8 @@ summary: ''
   - (iv)
     - (aa) the person’s residential address and address for correspondence, if different, and
     - (bb) if there has been a change to the person’s residential address at any time in the period of five years before the date of the application for authorisation, their other residential addresses falling within that period;
-  - (v) a criminal conviction certificate obtained by means of an application in accordance with section 112(1) of the Police Act 1997[^f00016] (criminal conviction certificates) , a Level 1 disclosure within the meaning of section 1 of the Disclosure (Scotland) Act 2020[^key-ff5ec567bb322bb19a52577af5e99c07] or, in relation to the law of a country outside the United Kingdom, any document that is equivalent to such a certificate or disclosure[^key-e388c1d48621c24f594e10d07a932865];
-- (b) where that person is acting in a capacity mentioned in section 11(2) of the Act[^key-0ba959137c49eb23b35950476ff3d58a] and that person is a body corporate—
+  - (v) a criminal conviction certificate obtained by means of an application in accordance with section 112(1) of the Police Act 1997[^f00016] (criminal conviction certificates) , a Level 1 disclosure within the meaning of section 1 of the Disclosure (Scotland) Act 2020[^c-ff5ec567bb322bb19a52577af5e99c07] or, in relation to the law of a country outside the United Kingdom, any document that is equivalent to such a certificate or disclosure[^c-e388c1d48621c24f594e10d07a932865];
+- (b) where that person is acting in a capacity mentioned in section 11(2) of the Act[^c-0ba959137c49eb23b35950476ff3d58a] and that person is a body corporate—
   - (i) the full name of each individual who is performing, or who will be performing, the functions of that person in relation to the scheme in the exercise of a management or executive role in relation to that person;
   - (ii) the date of birth of each such individual;
   - (iii)
@@ -56,7 +56,7 @@ summary: ''
 - (c) the date on which it is proposed that the scheme will begin operating, subject to the Regulator’s decision under section 9(1) of the Act (decision on application);
 - (d) the contact details of the trustees making the application;
 - (e) a copy of the rules of the scheme;
-- (f) a copy of the scheme’s trust deed;[^key-54eadf4be28d90825808902e8c0d4c8f]
+- (f) a copy of the scheme’s trust deed;[^c-54eadf4be28d90825808902e8c0d4c8f]
 - (g) an explanation of how the scheme satisfies the definition of a collective money purchase scheme under section 1(2) of the Act (collective money purchase schemes), including—
   - (i) an explanation of how the requirements of section 3 of the Act (qualifying schemes) are met in respect of the scheme, and
   - (ii) where the scheme is a section of a qualifying scheme, an explanation of how the requirements of section 3 of the Act are met in respect of that section.
@@ -65,14 +65,14 @@ summary: ''
 
 ## Annotations
 
-[^key-42ca48e5cd7d47f947a8a19f881a9a5b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/255/regulation/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-42ca48e5cd7d47f947a8a19f881a9a5b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/255/regulation/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00016]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); section 112(1) was amended by section 79(1) of the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), sections 97(2) and 112(2) of and Part 8 of Schedule 8 to the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), section 80(1) of the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [S.S.I. 2006/50](https://www.legislation.gov.uk/ssi/2006/50) and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).
 
-[^key-ff5ec567bb322bb19a52577af5e99c07]: Textual amendment: Words in [reg. 6(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/a/v) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(a)(i)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/a/i)
+[^c-ff5ec567bb322bb19a52577af5e99c07]: Textual amendment: Words in [reg. 6(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/a/v) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(a)(i)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/a/i)
 
-[^key-e388c1d48621c24f594e10d07a932865]: Textual amendment: Words in [reg. 6(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/a/v) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/a/ii)
+[^c-e388c1d48621c24f594e10d07a932865]: Textual amendment: Words in [reg. 6(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/a/v) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/a/ii)
 
-[^key-0ba959137c49eb23b35950476ff3d58a]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/b)
+[^c-0ba959137c49eb23b35950476ff3d58a]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/2/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/b)
 
-[^key-54eadf4be28d90825808902e8c0d4c8f]: Textual amendment: [Reg. 6(6)(g)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/6/g) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/c)
+[^c-54eadf4be28d90825808902e8c0d4c8f]: Textual amendment: [Reg. 6(6)(g)](https://www.legislation.gov.uk/uksi/2022/255/regulation/6/6/g) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [64(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/64/c)

@@ -34,7 +34,7 @@ Family Law
 
 Child Support
 
-The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2019 (revoked)[^key-d41f20f52b40cf3580be87c4f931a926]
+The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2019 (revoked)[^c-d41f20f52b40cf3580be87c4f931a926]
 
 Made
 
@@ -42,56 +42,56 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — INTRODUCTION[^key-d41f20f52b40cf3580be87c4f931a926]
+## PART 1 — INTRODUCTION[^c-d41f20f52b40cf3580be87c4f931a926]
 
-### 1. Citation and commencement[^key-d41f20f52b40cf3580be87c4f931a926]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — AMENDMENTS RELATING TO DEDUCTIONS FROM BENEFITS[^key-d41f20f52b40cf3580be87c4f931a926]
-
-### 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
+### 1. Citation and commencement[^c-d41f20f52b40cf3580be87c4f931a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
+## PART 2 — AMENDMENTS RELATING TO DEDUCTIONS FROM BENEFITS[^c-d41f20f52b40cf3580be87c4f931a926]
+
+### 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — WRITE OFF OF ARREARS OF CHILD MAINTENANCE SUPPORT[^key-d41f20f52b40cf3580be87c4f931a926]
-
-### 4. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
+### 3. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — INFORMATION[^key-d41f20f52b40cf3580be87c4f931a926]
+## PART 3 — WRITE OFF OF ARREARS OF CHILD MAINTENANCE SUPPORT[^c-d41f20f52b40cf3580be87c4f931a926]
 
-### 5. Amendment of the Child Support Information Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 5 — MAINTENANCE CALCULATION[^key-d41f20f52b40cf3580be87c4f931a926]
-
-### 6. Amendment of the Child Support Maintenance Calculation Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
+### 4. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — COLLECTION FEE[^key-d41f20f52b40cf3580be87c4f931a926]
+## PART 4 — INFORMATION[^c-d41f20f52b40cf3580be87c4f931a926]
 
-### 7. Amendment of the Child Support Fees Regulations[^key-d41f20f52b40cf3580be87c4f931a926]
+### 5. Amendment of the Child Support Information Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 5 — MAINTENANCE CALCULATION[^c-d41f20f52b40cf3580be87c4f931a926]
+
+### 6. Amendment of the Child Support Maintenance Calculation Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — COLLECTION FEE[^c-d41f20f52b40cf3580be87c4f931a926]
+
+### 7. Amendment of the Child Support Fees Regulations[^c-d41f20f52b40cf3580be87c4f931a926]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d41f20f52b40cf3580be87c4f931a926]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d41f20f52b40cf3580be87c4f931a926]: Textual amendment: Regulations revoked (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), regs. 1(1), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
+[^c-d41f20f52b40cf3580be87c4f931a926]: Textual amendment: Regulations revoked (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), regs. 1(1), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)

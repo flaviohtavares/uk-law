@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Representations to SNH on sites of special scientific interest[^key-4afbc3ea670d1ad2c6e9b71bbeaaaf7d][^key-2be916949732d4f360b3cafd31c39797]
+## 21. Representations to SNH on sites of special scientific interest[^c-4afbc3ea670d1ad2c6e9b71bbeaaaf7d][^c-2be916949732d4f360b3cafd31c39797]
 
 *Extent: S*
 
-(1)[^key-8ebff75395069f8b234ec56cccd540c3][^key-7c1cc2354c36b94824fc8967e730972b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8ebff75395069f8b234ec56cccd540c3][^c-7c1cc2354c36b94824fc8967e730972b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8ebff75395069f8b234ec56cccd540c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subsection (8) applies where—
 
@@ -47,17 +47,17 @@ summary: ''
 
 (8) Where this subsection applies SNH must—
 
-- (a)[^key-a5056dea760ec600bcf1471d2f032221] consider the matter, and
+- (a)[^c-a5056dea760ec600bcf1471d2f032221] consider the matter, and
 - (b) take such action as it thinks fit.
 
 ## Annotations
 
-[^key-4afbc3ea670d1ad2c6e9b71bbeaaaf7d]: Commencement: S. 21 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-4afbc3ea670d1ad2c6e9b71bbeaaaf7d]: Commencement: S. 21 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-2be916949732d4f360b3cafd31c39797]: Textual amendment: Words in s. 21 substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(c)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-2be916949732d4f360b3cafd31c39797]: Textual amendment: Words in s. 21 substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(c)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-8ebff75395069f8b234ec56cccd540c3]: Textual amendment: S. 21(1)-(5) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-8ebff75395069f8b234ec56cccd540c3]: Textual amendment: S. 21(1)-(5) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-7c1cc2354c36b94824fc8967e730972b]: Modification: S. 21(1) transfer of functions (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 2(1)](https://www.legislation.gov.uk/asp/2010/8/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2010/8/section/2/2)[134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-7c1cc2354c36b94824fc8967e730972b]: Modification: S. 21(1) transfer of functions (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 2(1)](https://www.legislation.gov.uk/asp/2010/8/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2010/8/section/2/2)[134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-a5056dea760ec600bcf1471d2f032221]: Textual amendment: S. 21(8)(a)(b) substituted for (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a5056dea760ec600bcf1471d2f032221]: Textual amendment: S. 21(8)(a)(b) substituted for (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 2(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/2/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

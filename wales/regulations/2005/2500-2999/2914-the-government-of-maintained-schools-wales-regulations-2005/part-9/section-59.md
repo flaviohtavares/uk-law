@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Right of persons to attend meetings of committees[^key-fd5baaad21af60dccb80803c11e66776][^key-9b6cda0efd29373068c0839c6d369f16]
+## 59. Right of persons to attend meetings of committees[^c-fd5baaad21af60dccb80803c11e66776][^c-9b6cda0efd29373068c0839c6d369f16]
 
 *Extent: E+W*
 
-[^key-9b6cda0efd29373068c0839c6d369f16]
+[^c-9b6cda0efd29373068c0839c6d369f16]
 
 (1) Subject to paragraphs (2) and (3) and Schedule 7 to these Regulations the following persons are entitled to attend any meeting of a committee—
 
@@ -31,12 +31,12 @@ summary: ''
 
 (2) A committee may exclude a member who is not a governor from any part of its meeting which he or she is otherwise entitled to attend when the business under consideration concerns an individual member of staff or pupil.
 
-(3) Paragraph (1)(b) does not apply in relation to the committees referred to in regulations 55 and 56 or in relation to any committee or selection panel exercising any function under The Staffing of Maintained Schools (Wales) Regulations 2006[^key-9b9998b752d4187a9d1166a7b4d269a2].
+(3) Paragraph (1)(b) does not apply in relation to the committees referred to in regulations 55 and 56 or in relation to any committee or selection panel exercising any function under The Staffing of Maintained Schools (Wales) Regulations 2006[^c-9b9998b752d4187a9d1166a7b4d269a2].
 
 ## Annotations
 
-[^key-fd5baaad21af60dccb80803c11e66776]: Commencement: Reg. 59 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-fd5baaad21af60dccb80803c11e66776]: Commencement: Reg. 59 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))
+[^c-9b6cda0efd29373068c0839c6d369f16]: Modification: Pt. 9 applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [41(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/1) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [41(2)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/41/2))
 
-[^key-9b9998b752d4187a9d1166a7b4d269a2]: Textual amendment: Words in [reg. 59(3)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/59/3) substituted (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/wsi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2006/873/regulation/1/1), [8(4)](https://www.legislation.gov.uk/wsi/2006/873/regulation/8/4)
+[^c-9b9998b752d4187a9d1166a7b4d269a2]: Textual amendment: Words in [reg. 59(3)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/59/3) substituted (1.4.2006) by [The Staffing of Maintained Schools (Wales) Regulations 2006 (S.I. 2006/873)](https://www.legislation.gov.uk/wsi/2006/873), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2006/873/regulation/1/1), [8(4)](https://www.legislation.gov.uk/wsi/2006/873/regulation/8/4)

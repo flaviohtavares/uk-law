@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Duties on transporters[^key-1ff3bb428914761751e085beeaefd469]
+## 10. Duties on transporters[^c-1ff3bb428914761751e085beeaefd469]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ff3bb428914761751e085beeaefd469]: Commencement: Art. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-1ff3bb428914761751e085beeaefd469]: Commencement: Art. 10 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

@@ -36,7 +36,7 @@ An Act to extend the period of time for making Ministerial appointments followin
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extension of period for filling Ministerial offices[^key-e5ac22e1cdd6285fd4dba24943d39278]
+## 1. Extension of period for filling Ministerial offices[^c-e5ac22e1cdd6285fd4dba24943d39278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,4 +74,4 @@ and any expression used in this section and in the Rates Order has the meaning g
 
 ## Annotations
 
-[^key-e5ac22e1cdd6285fd4dba24943d39278]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2017/24/section/1) omitted (1.11.2018) by virtue of [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/28/section/1/4), [10](https://www.legislation.gov.uk/ukpga/2018/28/section/10)
+[^c-e5ac22e1cdd6285fd4dba24943d39278]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2017/24/section/1) omitted (1.11.2018) by virtue of [Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (c. 28)](https://www.legislation.gov.uk/ukpga/2018/28), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/28/section/1/4), [10](https://www.legislation.gov.uk/ukpga/2018/28/section/10)

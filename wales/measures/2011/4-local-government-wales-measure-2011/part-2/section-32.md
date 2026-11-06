@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Amendment of Local Government Act 2000[^key-90884a8ad59802308ee91ad60bab61b0]
+## 32. Amendment of Local Government Act 2000[^c-90884a8ad59802308ee91ad60bab61b0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90884a8ad59802308ee91ad60bab61b0]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2011/4/section/32) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-90884a8ad59802308ee91ad60bab61b0]: Commencement: [S. 32](https://www.legislation.gov.uk/mwa/2011/4/section/32) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)

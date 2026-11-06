@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Penalty notices[^key-ec9fc77d3570145a7a23383f20cc1eb3]
+## 53. Penalty notices[^c-ec9fc77d3570145a7a23383f20cc1eb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec9fc77d3570145a7a23383f20cc1eb3]: Commencement: Art. 53 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-ec9fc77d3570145a7a23383f20cc1eb3]: Commencement: Art. 53 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

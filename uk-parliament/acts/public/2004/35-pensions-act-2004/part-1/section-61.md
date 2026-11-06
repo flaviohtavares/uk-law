@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations may provide—
+(1)[^c-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations may provide—
 
 - (a) for—
   - (i) information recorded in the register,
@@ -35,31 +35,31 @@ summary: ''
 
   by prescribed persons in prescribed circumstances.
 
-(2)[^key-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations under subsection (1) may, in particular—
+(2)[^c-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations under subsection (1) may, in particular—
 
 - (a) confer functions on—
   - (i) the Secretary of State, or
   - (ii) a person authorised by him for the purposes of the regulations;
 - (b) make provision with respect to the disclosure of information obtained by virtue of the regulations.
 
-(3)[^key-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations which contain any provision made by virtue of subsection (2)(b) may, in particular, modify section 82 (restricted information).
+(3)[^c-3318cf1b9fe8e0ebc75cf2b2028eee2b] Regulations which contain any provision made by virtue of subsection (2)(b) may, in particular, modify section 82 (restricted information).
 
-(4)[^key-0d0fa4dd0e082b92d7f88a699917b356] The Secretary of State may direct the Regulator to submit to him statistical and other reports concerning—
+(4)[^c-0d0fa4dd0e082b92d7f88a699917b356] The Secretary of State may direct the Regulator to submit to him statistical and other reports concerning—
 
 - (a) information recorded in the register, and
 - (b) the operation of the Regulator’s functions in relation to the register.
 
-(5)[^key-0d0fa4dd0e082b92d7f88a699917b356] A direction under subsection (4) may specify—
+(5)[^c-0d0fa4dd0e082b92d7f88a699917b356] A direction under subsection (4) may specify—
 
 - (a) the form in which, and
 - (b) the times at which,
 
 reports required by the direction are to be submitted.
 
-(6)[^key-0d0fa4dd0e082b92d7f88a699917b356] The Secretary of State may publish any report submitted to him by virtue of a direction under subsection (4) in such manner as he considers appropriate.
+(6)[^c-0d0fa4dd0e082b92d7f88a699917b356] The Secretary of State may publish any report submitted to him by virtue of a direction under subsection (4) in such manner as he considers appropriate.
 
 ## Annotations
 
-[^key-3318cf1b9fe8e0ebc75cf2b2028eee2b]: Commencement: S. 61(1)-(3) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-3318cf1b9fe8e0ebc75cf2b2028eee2b]: Commencement: S. 61(1)-(3) in force for the purpose only of conferring power to make regulations, orders or rules, as the case may be, 10.2.2005; and for all other purposes at 6.4.2005 in so far as not already in force by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
 
-[^key-0d0fa4dd0e082b92d7f88a699917b356]: Commencement: S. 61(4)-(6) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-0d0fa4dd0e082b92d7f88a699917b356]: Commencement: S. 61(4)-(6) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

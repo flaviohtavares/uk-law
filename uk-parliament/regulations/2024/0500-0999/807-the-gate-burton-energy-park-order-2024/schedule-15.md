@@ -22,7 +22,7 @@ summary: ''
 
 Article 43
 
-### 1. Interpretation[^key-0688ee631402498d696c2b74ac04f21b]
+### 1. Interpretation[^c-0688ee631402498d696c2b74ac04f21b]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph ‎4(2)(c); and
 - “**working day**” means any day other than a Saturday, Sunday or English bank or public holiday.
 
-### 2. Applications made under requirement[^key-58fc6281147aabec117a878e69b158e9]
+### 2. Applications made under requirement[^c-58fc6281147aabec117a878e69b158e9]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement, the undertaker must also submit a copy of that application to any requirement consultee.
 
@@ -46,7 +46,7 @@ In this Schedule—
 
 (5) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement included in this Order and the relevant planning authority does not determine the application within the period set out in sub-paragraph ‎(2) and is accompanied by a report pursuant to sub-paragraph ‎(4) which states that the subject matter of such application is likely to give rise to any materially new or materially different environmental effects compared to those in the environmental statement then the application is to be taken to have been refused by the relevant planning authority at the end of that period.
 
-### 3. Further information and consultation[^key-47d66211b99102ef6392ffea5e8c010c]
+### 3. Further information and consultation[^c-47d66211b99102ef6392ffea5e8c010c]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -58,7 +58,7 @@ In this Schedule—
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph ‎2 and paragraph 3.
 
-### 4. Appeals[^key-0869c21dbdb997551f6582043348ef0e]
+### 4. Appeals[^c-0869c21dbdb997551f6582043348ef0e]
 
 (1) The undertaker may appeal in the event that—
 
@@ -69,7 +69,7 @@ In this Schedule—
 
 (2) The steps to be followed in the appeal process are as follows—
 
-- (a) any appeal by the undertaker must be made within 42 days of the date of the notice of the decision or determination, or (where no determination has been made) the expiry of the time period set out in paragraph 2(2)[^key-88bcfa581d89b3b1daa74a62a9b6488a], giving rise to the appeal referred to in sub-paragraph (1);
+- (a) any appeal by the undertaker must be made within 42 days of the date of the notice of the decision or determination, or (where no determination has been made) the expiry of the time period set out in paragraph 2(2)[^c-88bcfa581d89b3b1daa74a62a9b6488a], giving rise to the appeal referred to in sub-paragraph (1);
 - (b) the undertaker must submit the appeal documentation to the Secretary of State and must on the same day provide copies of the appeal documentation to the relevant planning authority and any requirement consultee;
 - (c) the Secretary of State must appoint a person to determine the appeal as soon as reasonably practicable and must forthwith notify the appeal parties of the identity of the appointed person and the address to which all correspondence for the appointed person’s attention should be sent;
 - (d) the relevant planning authority and any requirement consultee must submit written representations to the appointed person in respect of the appeal within 10 working days of the start date and must ensure that copies of their written representations are sent to each other and to the undertaker on the day on which they are submitted to the appointed person;
@@ -100,7 +100,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-f1cae9745b997f8fcf5c47df7aa86273]
+### 5. Fees[^c-f1cae9745b997f8fcf5c47df7aa86273]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00076] (as may be amended or replaced from time to time) is to apply for the discharge of each requirement (whether dealt with in separate applications or combined within a single application) and must be paid to the relevant planning authority for each application.
 
@@ -113,16 +113,16 @@ and may deal with the application as if it had been made to them in the first in
 
 ## Annotations
 
-[^key-0688ee631402498d696c2b74ac04f21b]: Commencement: Sch. 15 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-0688ee631402498d696c2b74ac04f21b]: Commencement: Sch. 15 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-58fc6281147aabec117a878e69b158e9]: Commencement: Sch. 15 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-58fc6281147aabec117a878e69b158e9]: Commencement: Sch. 15 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-47d66211b99102ef6392ffea5e8c010c]: Commencement: Sch. 15 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-47d66211b99102ef6392ffea5e8c010c]: Commencement: Sch. 15 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-0869c21dbdb997551f6582043348ef0e]: Commencement: Sch. 15 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-0869c21dbdb997551f6582043348ef0e]: Commencement: Sch. 15 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-88bcfa581d89b3b1daa74a62a9b6488a]: Textual amendment: Words in [Sch. 15 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2024/807/schedule/15/paragraph/4/2/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-88bcfa581d89b3b1daa74a62a9b6488a]: Textual amendment: Words in [Sch. 15 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2024/807/schedule/15/paragraph/4/2/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
-[^key-f1cae9745b997f8fcf5c47df7aa86273]: Commencement: Sch. 15 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-f1cae9745b997f8fcf5c47df7aa86273]: Commencement: Sch. 15 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
 [^f00076]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920) amended by [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [S.I. 2014/357](https://www.legislation.gov.uk/uksi/2014/357), [S.I. 2014/643](https://www.legislation.gov.uk/uksi/2014/643). [S.I. 2017/1314](https://www.legislation.gov.uk/uksi/2017/1314) and [S.I. 2019/1154](https://www.legislation.gov.uk/uksi/2019/1154).

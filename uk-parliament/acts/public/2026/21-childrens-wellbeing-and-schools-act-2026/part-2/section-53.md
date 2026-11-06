@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. School teachers’ qualifications and induction[^key-0e6ff190ad908a394b5d99eaf83cde89]
+## 53. School teachers’ qualifications and induction[^c-0e6ff190ad908a394b5d99eaf83cde89]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e6ff190ad908a394b5d99eaf83cde89]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-0e6ff190ad908a394b5d99eaf83cde89]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

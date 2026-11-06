@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206A. Partial repayment of section 206 charge where IHT paid by recipient of benefit[^key-f2549fdafc8f033c389ecc02f84e0ac8]
+## 206A. Partial repayment of section 206 charge where IHT paid by recipient of benefit[^c-f2549fdafc8f033c389ecc02f84e0ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2549fdafc8f033c389ecc02f84e0ac8]: Textual amendment: [Ss. 206A](https://www.legislation.gov.uk/ukpga/2004/12/section/206A), [206B](https://www.legislation.gov.uk/ukpga/2004/12/section/206B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/9), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-f2549fdafc8f033c389ecc02f84e0ac8]: Textual amendment: [Ss. 206A](https://www.legislation.gov.uk/ukpga/2004/12/section/206A), [206B](https://www.legislation.gov.uk/ukpga/2004/12/section/206B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/9), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

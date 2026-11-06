@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — THE LONDON MEMBERS ELECTION RULES[^key-5dce8d7b73aeced47ad3ef752dff0e61]
+## SCHEDULE 6 — THE LONDON MEMBERS ELECTION RULES[^c-5dce8d7b73aeced47ad3ef752dff0e61]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ Rule 5(4)
 
 This Schedule may be cited as the London Members Election Rules.
 
-#### 2. Interpretation[^key-d0fcf8e1dd72378c1da23b3e4db88a10]
+#### 2. Interpretation[^c-d0fcf8e1dd72378c1da23b3e4db88a10]
 
 (1) In the rules in this Schedule, unless the context indicates otherwise—
 
@@ -37,12 +37,12 @@ This Schedule may be cited as the London Members Election Rules.
 - “**counting officer**” has the same meaning as in regulation 9 of the Referendum Regulations;
 - “**election**” means an election for the return of the London members;
 - “electoral area” where the Authority election is held together with a referendum, includes a voting area where the referendum is held;
-- [^key-4d6df064a781c3f4328a234689c5428c]...
+- [^c-4d6df064a781c3f4328a234689c5428c]...
 - “**individual candidate**” means a candidate other than a list candidate at an election for the return of London members of the London Assembly;
 - “**list candidate**” means a person included on a party list;
 - “**local authority mayoral election**” means an election conducted under the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 [^c19060821];
 - “**local count**” means the count of the London votes given for a registered party or, as the case may be, an individual candidate, at an election in an Assembly constituency;
-- [^key-4d6df064a781c3f4328a234689c5428c]...
+- [^c-4d6df064a781c3f4328a234689c5428c]...
 - “**London vote**” has the same meaning as in Part 1 of the 1999 Act;
 - “**party list**” means a list delivered to the GLRO in accordance with paragraph 5 (party lists and individual candidates) of Part 2 of Schedule 2 to the 1999 Act on behalf of a party registered under Part 2 (registration of political parties) of the 2000 Act [^c19060841];
 - “**petition organiser**” has the same meaning as in regulation 3 of the Local Authorities (Referendums) (Petitions and Directions) (England) Regulations 2000 [^c19060851];
@@ -51,7 +51,7 @@ This Schedule may be cited as the London Members Election Rules.
 - “**Referendum Regulations**” means the Local Authorities (Conduct of Referendums) (England) Regulations 2007 [^c19060861];
 - “**relevant election or referendum**” means one or more of the following—
   - (a) a Parliamentary election,
-  - (b) [^key-4d6df064a781c3f4328a234689c5428c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (b) [^c-4d6df064a781c3f4328a234689c5428c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (c) a local government election (including another Authority election where more than one is taken together),
   - (d) a local authority mayoral election or referendum in accordance with regulations made under sections 44 and 105, or 45 and 105, of the Local Government Act 2000 [^c19060871];
 - “**voting area**” has the same meaning as in regulation 2 of the Referendum Regulations.
@@ -76,10 +76,10 @@ Timetable
 | *Proceedings* | *Time* |
 | --- | --- |
 | Publication of notice of election | Not later than the thirtieth day before the day of election. |
-| Delivery of nomination papers and party lists | Not later than 4 in the afternoon[^key-5900dda23501cfe05e9dcf34c5ed9ebb] on the twenty–fourth day before the day of election. |
-| Delivery of notices of withdrawals of candidature[^key-fc4ec3b20af5a96b110dbe4fc308c33c] | Not later than 4 in the afternoon on the twenty-fourth day before the day of election |
-| Publication of statement as to persons nominated | Not later than 4 in the afternoon[^key-c3dd480ba59d7baeb9a5044cf8d1f265] on the twenty-second day before the day of election. |
-| [^key-b0f2bf7cd6531d400bfa7dc7a9eec601]. . . | [^key-b0f2bf7cd6531d400bfa7dc7a9eec601]. . . |
+| Delivery of nomination papers and party lists | Not later than 4 in the afternoon[^c-5900dda23501cfe05e9dcf34c5ed9ebb] on the twenty–fourth day before the day of election. |
+| Delivery of notices of withdrawals of candidature[^c-fc4ec3b20af5a96b110dbe4fc308c33c] | Not later than 4 in the afternoon on the twenty-fourth day before the day of election |
+| Publication of statement as to persons nominated | Not later than 4 in the afternoon[^c-c3dd480ba59d7baeb9a5044cf8d1f265] on the twenty-second day before the day of election. |
+| [^c-b0f2bf7cd6531d400bfa7dc7a9eec601]. . . | [^c-b0f2bf7cd6531d400bfa7dc7a9eec601]. . . |
 | Notice of poll | Not later than the sixth day before the day of election. |
 | Polling | Between the hours of 7 in the morning and 10 at night on the day of election. |
 
@@ -124,8 +124,8 @@ must reach the registration officer for local government electors in order that 
 
 (2) The nomination paper of an individual candidate must state the candidate's–
 
-- (a) full names, and[^key-889c3df7a0ebddc1cab184937a747318]
-- (b)[^key-7c2ffed77f2e255eb5127dee4e4c68e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) full names, and[^c-889c3df7a0ebddc1cab184937a747318]
+- (b)[^c-7c2ffed77f2e255eb5127dee4e4c68e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) if desired, a description consisting of the word “Independent”,
 
 and the surname must be placed first in the list of names.
@@ -143,7 +143,7 @@ and the surname must be placed first in the list of names.
 - (b) include a statement, signed by the person issuing the paper, that it is issued either—
   - (i) by the party's registered nominating officer, or
   - (ii) on behalf of the party's registered nominating officer, by a person authorised in writing by him, and
-- (c) be accompanied by a party list which sets out the full names [^key-2e754d5864205912dcc3506773189314]... of each candidate included in that list.
+- (c) be accompanied by a party list which sets out the full names [^c-2e754d5864205912dcc3506773189314]... of each candidate included in that list.
 
 (3) An authorised description for the purposes of paragraph (2)(a) must be either—
 
@@ -161,7 +161,7 @@ and the surname must be placed first in the list of names.
 
 (1) The following provisions of this rule have effect in relation to nomination papers delivered under rules 6 and 7.
 
-(2)[^key-75ece9dcb24d357531886551f886259d] If an individual candidate or candidate included on a party list—
+(2)[^c-75ece9dcb24d357531886551f886259d] If an individual candidate or candidate included on a party list—
 
 - (a) commonly uses a surname that is different from any other surname the candidate has,
 - (b) commonly uses a forename that is different from any other forename the candidate has, or
@@ -178,7 +178,7 @@ the nomination paper may state the commonly used name or names in addition to th
 
 after an earlier nomination paper has been delivered, that later paper must be deemed to supersede the earlier one.
 
-(4A)[^key-0e10f71430d27eeff45362953aa3a771] Subject to paragraph (4C), the nomination paper must be accompanied by a form (in this Schedule referred to as “the home address form”) which states—
+(4A)[^c-0e10f71430d27eeff45362953aa3a771] Subject to paragraph (4C), the nomination paper must be accompanied by a form (in this Schedule referred to as “the home address form”) which states—
 
 - (a) the candidate’s—
   - (i) full names,
@@ -234,8 +234,8 @@ after an earlier nomination paper has been delivered, that later paper must be d
 
 (1) A person will not be validly nominated (whether as an individual candidate or a list candidate) unless his consent to nomination–
 
-- (a)[^key-bcd6ff8cc0a9ed09bc1f765f4cf05d40] is given in writing in the appropriate form, or a form to like effect, on or within one month before the last day for the delivery of nomination papers;
-- (b) is attested by one witness [^key-0b289f0130c9d233403f0f846873a725]...; and
+- (a)[^c-bcd6ff8cc0a9ed09bc1f765f4cf05d40] is given in writing in the appropriate form, or a form to like effect, on or within one month before the last day for the delivery of nomination papers;
+- (b) is attested by one witness [^c-0b289f0130c9d233403f0f846873a725]...; and
 - (c) is delivered at the place and within the time for delivery of nomination papers.
 
 (2) A candidate's consent given under this rule must—
@@ -243,9 +243,9 @@ after an earlier nomination paper has been delivered, that later paper must be d
 - (a) state the day, month and year of his birth;
 - (b) contain a statement that he has read whichever of sub-paragraphs (5) and (6) of paragraph 5 of Schedule 2 to the 1999 Act (persons who many not be candidates) applies in his case; and
 - (c) contain a statement that to the best of the candidate's knowledge and belief he is not disqualified from being elected by reason of—
-  - (i) any disqualification set out in section 21 or 21A[^key-de4bb4582e5beb1b5dca2b0732311158] (disqualification from being the Mayor or an Assembly member) of the 1999 Act, [^key-63ad728b710e369fbea19dc0b4a3bd7b]...
-  - (ii)[^key-aad40ee927a04a4f14ffde3fd2bc7305] [^key-88518c10f72dabc0c71522a1521443e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii) an order made under section 34(4) of the Localism Act 2011 (offences) or section 30 of the Elections Act 2022 (disqualification orders)[^key-32ccfbf573ec09503fe943167f6a9139].
+  - (i) any disqualification set out in section 21 or 21A[^c-de4bb4582e5beb1b5dca2b0732311158] (disqualification from being the Mayor or an Assembly member) of the 1999 Act, [^c-63ad728b710e369fbea19dc0b4a3bd7b]...
+  - (ii)[^c-aad40ee927a04a4f14ffde3fd2bc7305] [^c-88518c10f72dabc0c71522a1521443e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) an order made under section 34(4) of the Localism Act 2011 (offences) or section 30 of the Elections Act 2022 (disqualification orders)[^c-32ccfbf573ec09503fe943167f6a9139].
 
 #### 10. Deposits
 
@@ -265,24 +265,24 @@ but the GLRO may refuse to accept a deposit sought to be made by means of a bank
 
 #### 11. Decisions as to validity of nomination papers
 
-(1) Where, in the case of an individual candidate, a nomination paper (“individual nomination paper”) and the candidate's consent to it and a home address form[^key-3e7c648990645fb6caf95c7fc2ae7069] are delivered and a deposit is made, in accordance with these Rules, the candidate will be deemed to stand nominated unless and until—
+(1) Where, in the case of an individual candidate, a nomination paper (“individual nomination paper”) and the candidate's consent to it and a home address form[^c-3e7c648990645fb6caf95c7fc2ae7069] are delivered and a deposit is made, in accordance with these Rules, the candidate will be deemed to stand nominated unless and until—
 
 - (a) the GLRO decides that the nomination paper is invalid, or
-- (aa)[^key-4d177dd1b33701742e38817a7780d054] the GLRO decides that the candidate’s home address form—
+- (aa)[^c-4d177dd1b33701742e38817a7780d054] the GLRO decides that the candidate’s home address form—
   - (i) does not comply with the requirements of rule 8(4A), or
   - (ii) if the form contains a statement under rule 8(4B)(a), does not comply with the signature requirement in that rule or the requirements of rule 8(4B)(b) , or
 - (b) proof is given to the GLRO's satisfaction of the candidate's death, or
 - (c) the candidate withdraws.
 
-(2) Where, the nomination paper of a registered party and the consent of each candidate and a home address form in respect of each candidate[^key-f3d76a18b2f0a61f67ef26771353090e] included in that party's list are delivered, and a deposit is made, in accordance with these Rules, that party and (subject to paragraph (6)) each candidate on its list must be deemed to stand nominated unless and until the GLRO decides that the nomination paper is invalid.
+(2) Where, the nomination paper of a registered party and the consent of each candidate and a home address form in respect of each candidate[^c-f3d76a18b2f0a61f67ef26771353090e] included in that party's list are delivered, and a deposit is made, in accordance with these Rules, that party and (subject to paragraph (6)) each candidate on its list must be deemed to stand nominated unless and until the GLRO decides that the nomination paper is invalid.
 
-(3) As soon as practicable after each nomination paper and each home address form have been delivered, the GLRO must examine them[^key-9606a79ad601c308fa3cccce4c7ada0e] and decide whether the individual candidate, or as the case may be, each registered party and each candidate included in that party's list has been validly nominated.
+(3) As soon as practicable after each nomination paper and each home address form have been delivered, the GLRO must examine them[^c-9606a79ad601c308fa3cccce4c7ada0e] and decide whether the individual candidate, or as the case may be, each registered party and each candidate included in that party's list has been validly nominated.
 
-(4) The GLRO is entitled to hold an individual nomination paper invalid only on the grounds that the particulars of the candidate on the nomination paper are not as required by law or that an order under section 30 of the Elections Act 2022 (disqualification orders) has effect in relation to the candidate[^key-a466ffecdf9329491a566d12829886b7].
+(4) The GLRO is entitled to hold an individual nomination paper invalid only on the grounds that the particulars of the candidate on the nomination paper are not as required by law or that an order under section 30 of the Elections Act 2022 (disqualification orders) has effect in relation to the candidate[^c-a466ffecdf9329491a566d12829886b7].
 
 (5) The GLRO is entitled to hold the nomination paper of a registered party invalid only on one of the following grounds—
 
-- (a) that the authorised description stated under rule 7(2)(a) breaches rule 7(3)[^key-2d5479ec204c16bcf29bcf76f104d1ed],
+- (a) that the authorised description stated under rule 7(2)(a) breaches rule 7(3)[^c-2d5479ec204c16bcf29bcf76f104d1ed],
 - (b) that the nomination paper does not contain the statement referred to in rule 7(2)(b),
 - (c) that the number of candidates on the list is greater than 25.
 
@@ -290,8 +290,8 @@ but the GLRO may refuse to accept a deposit sought to be made by means of a bank
 
 - (a) proof is given to the GLRO's satisfaction of his death,
 - (b) he withdraws or his candidature is withdrawn in accordance with rule 15,
-- (c) his particulars in that list are not as required by law, [^key-f09e63577b0ac4351c8e11ca43445955]...
-- (d) the consent to nomination of that candidate is not delivered in accordance with rule 9, or[^key-2a6bd7c7cfb3887b8f5577e15d8fb394]
+- (c) his particulars in that list are not as required by law, [^c-f09e63577b0ac4351c8e11ca43445955]...
+- (d) the consent to nomination of that candidate is not delivered in accordance with rule 9, or[^c-2a6bd7c7cfb3887b8f5577e15d8fb394]
 - (e) the candidate’s home address form—
   - (i) does not comply with the requirements of rule 8(4A), or
   - (ii) if the form contains a statement under rule 8(4B)(a), does not comply with the signature requirement in that rule or the requirements of rule 8(4B)(b),
@@ -305,7 +305,7 @@ the GLRO must delete the name and address of that candidate from the list.
 
 he must endorse and sign on the nomination paper to record that decision and the reasons for his decision.
 
-(8) The GLRO must, as soon as practicable after making such a decision under paragraph (3) that a home address form[^key-a39551b4fa33b81aff4fc9138dd97bbe] is valid or invalid, send notice of that decision—
+(8) The GLRO must, as soon as practicable after making such a decision under paragraph (3) that a home address form[^c-a39551b4fa33b81aff4fc9138dd97bbe] is valid or invalid, send notice of that decision—
 
 - (a) to the candidate at his home address as given in his nomination paper, and
 - (b) in the case of a list candidate, also to the nominating officer.
@@ -327,7 +327,7 @@ he must endorse and sign on the nomination paper to record that decision and the
 - (b) the persons who have been and stand nominated as individual candidates, and
 - (c) any other parties or persons who have been nominated, together with the reason why they no longer stand nominated.
 
-(2) If an individual's nomination paper or person's entry on a party list gives a commonly used surname or forename, or both surname and forename, in accordance with rule 8(2)[^key-111bd831ecd7d919845ecb2ced51d9d1], the statement must show the person's commonly used surname or forename, or both surname and forename (as the case may be) instead of the other surname or forename[^key-64f5996e842a25d507496cf2aff586f5].
+(2) If an individual's nomination paper or person's entry on a party list gives a commonly used surname or forename, or both surname and forename, in accordance with rule 8(2)[^c-111bd831ecd7d919845ecb2ced51d9d1], the statement must show the person's commonly used surname or forename, or both surname and forename (as the case may be) instead of the other surname or forename[^c-64f5996e842a25d507496cf2aff586f5].
 
 (3) Paragraph (2) does not apply if the GLRO thinks—
 
@@ -339,10 +339,10 @@ he must endorse and sign on the nomination paper to record that decision and the
 (5) The statement must show, in the following order—
 
 - (a) the registered parties which have been and stand nominated, arranged in alphabetical order according to the authorised descriptions given in the nomination papers,
-- (b) the names [^key-c265cc56ecf3e588a09a23bac302e91e]... of the list candidates as given in party lists, arranged in the order in which their names appear in those lists,
-- (c) the names [^key-ae7d5f36444674a9b06c028c8d67b8bc]... and descriptions (if any) of the persons standing nominated as individual candidates, arranged alphabetically in the order of their surnames and, if there are two or more of them with the same surname, of their other names.
+- (b) the names [^c-c265cc56ecf3e588a09a23bac302e91e]... of the list candidates as given in party lists, arranged in the order in which their names appear in those lists,
+- (c) the names [^c-ae7d5f36444674a9b06c028c8d67b8bc]... and descriptions (if any) of the persons standing nominated as individual candidates, arranged alphabetically in the order of their surnames and, if there are two or more of them with the same surname, of their other names.
 
-(5A)[^key-b67f0cdad6050d727a5c55917f13bc31] The statement must also show the following information contained in the home address form—
+(5A)[^c-b67f0cdad6050d727a5c55917f13bc31] The statement must also show the following information contained in the home address form—
 
 - (a) where the statement in rule 8(4B)(a) is made requiring the home address of the candidate not to be made public, the information mentioned in rule 8(4B)(b);
 - (b) in any other case, the home address of the person nominated.
@@ -367,13 +367,13 @@ the GLRO may cause any of their particulars to be shown on the statement with su
 
 #### 13. Correction of minor errors
 
-(1) The GLRO may, if he thinks fit, at any time before the publication under rule 12 of the statement of parties and persons nominated, correct minor errors in a nomination paper or home address form[^key-077520cc53f117e2835a4d75715e1a31].
+(1) The GLRO may, if he thinks fit, at any time before the publication under rule 12 of the statement of parties and persons nominated, correct minor errors in a nomination paper or home address form[^c-077520cc53f117e2835a4d75715e1a31].
 
 (2) Errors which may be corrected include—
 
 - (a) errors as to a person's electoral number,
 - (b) obvious errors of spelling in relation to the details of a party or candidate,
-- (c)[^key-94da8dc2738528ba7ac2e30f51526978] errors as to the information mentioned in rule 8(4B)(b).
+- (c)[^c-94da8dc2738528ba7ac2e30f51526978] errors as to the information mentioned in rule 8(4B)(b).
 
 (3) Anything done by the GLRO in pursuance of this rule may not be questioned in any proceedings other than proceedings on an election petition.
 
@@ -388,7 +388,7 @@ the GLRO may cause any of their particulars to be shown on the statement with su
 
 (2) Inspection under paragraph (1) may not take place on a day that is specified in rule 4(1).
 
-#### 14A. Inspection of home address forms: individual candidates and list candidates[^key-4fe5a752793d5bfc7825f1b714cad487]
+#### 14A. Inspection of home address forms: individual candidates and list candidates[^c-4fe5a752793d5bfc7825f1b714cad487]
 
 (1) During ordinary office hours, in the period starting 24 hours after the latest time for the delivery of nomination papers and before the date of the poll, the following may inspect the home address form of a candidate (“candidate A”)—
 
@@ -442,7 +442,7 @@ The votes at the poll must be given by ballot to enable the seats for London mem
 
 (4) Every ballot paper—
 
-- (a) must , so far as practicable for the purposes of electronic counting,[^key-1e410721262c14058c32e5b5931405b7] be printed in accordance with the directions set out in the Forms Schedule,
+- (a) must , so far as practicable for the purposes of electronic counting,[^c-1e410721262c14058c32e5b5931405b7] be printed in accordance with the directions set out in the Forms Schedule,
 - (b) must contain the authorised descriptions of the registered parties; and the names and other particulars of the individual candidates as shown in the statement of persons nominated,
 - (c) must have a number and other unique identifying mark printed on the back, and
 - (d) may, in the case of ballot papers for use at polling stations, be marked with the words “do not fold”.
@@ -484,7 +484,7 @@ No person who has voted at the election may, in any legal proceeding to question
 
 (1) The CRO may use, free of charge, for the purpose of taking the poll or counting the votes—
 
-- (a) a room in a school maintained or assisted by a local authority (as defined in the Education Act 1996)[^key-ec833fbbcdb682d7cde2ba146acaf36a] or a school in respect of which grants are made out of moneys provided by Parliament to the person or body of persons responsible for the management of the school,
+- (a) a room in a school maintained or assisted by a local authority (as defined in the Education Act 1996)[^c-ec833fbbcdb682d7cde2ba146acaf36a] or a school in respect of which grants are made out of moneys provided by Parliament to the person or body of persons responsible for the management of the school,
 - (b) a room the expense of maintaining which is met by any local authority.
 
 (2) The CRO must make good any damage done to, and defray an expense incurred by the persons having control over, any such room as mentioned in paragraph (1) by reason of its being used for the purpose of taking the poll or counting the votes.
@@ -510,7 +510,7 @@ and he must as soon as practicable after giving such a notice give a copy of it 
 (3) The notice published under paragraph (2) shall—
 
 - (a) state that the poll at the election is to be taken together with the poll at a relevant election or referendum as the case may be,
-- (b) specify the parliamentary constituency [^key-0e3101370d421bc7662fde393946b069]..., relevant London borough, or voting area; and in the case of an election to fill a casual vacancy, the electoral area for which the relevant election or referendum is held, and
+- (b) specify the parliamentary constituency [^c-0e3101370d421bc7662fde393946b069]..., relevant London borough, or voting area; and in the case of an election to fill a casual vacancy, the electoral area for which the relevant election or referendum is held, and
 - (c) where the polls are to be taken together in part of the Borough only, specify that part.
 
 (4) The notice of poll must include the heading “GREATER LONDON AUTHORITY ELECTION”.
@@ -544,7 +544,7 @@ and he must as soon as practicable after giving such a notice give a copy of it 
 
 (4) The CRO must provide each polling station with such number of compartments as may be necessary in which the voters can mark their votes screened from observation.
 
-(5)[^key-8657750752d4b53dff5ff598ff797236] The CRO must ensure that each polling station contains an area in which voters can produce proof of identity in private.
+(5)[^c-8657750752d4b53dff5ff598ff797236] The CRO must ensure that each polling station contains an area in which voters can produce proof of identity in private.
 
 #### 26. Appointment of presiding officers and clerks
 
@@ -552,7 +552,7 @@ and he must as soon as practicable after giving such a notice give a copy of it 
 
 (2) The CRO may, if he thinks fit, preside at a polling station and the provisions of this Part relating to a presiding officer apply to the CRO so presiding with the necessary modifications as to things to be done by the CRO to the presiding officer or by the presiding officer to the CRO.
 
-(3) A presiding officer may do, by the clerks appointed to assist him, any act (including the asking of questions) which he is required or authorised by this Part to do at a polling station except—[^key-d72f75a0f39923dd92ba1f3d810012bf]
+(3) A presiding officer may do, by the clerks appointed to assist him, any act (including the asking of questions) which he is required or authorised by this Part to do at a polling station except—[^c-d72f75a0f39923dd92ba1f3d810012bf]
 
 - (a) order the arrest, exclusion or removal of any person from the polling station,
 - (b) refuse to deliver a ballot paper under rule 37(3) or rule 39(1E) (including that rule as applied by rule 40, 41 or 42), or
@@ -623,9 +623,9 @@ subject to paragraph (3), may include any other information given in exercise of
 
 (4) The reference in paragraph (3)(b) to the copies of the register of electors includes a reference to copies of any notices issued under section 13B(3B) or (3D) of the 1983 Act [^c19060921] in respect of alterations to the register.
 
-(4A)[^key-a3d0a2248eb6873c4654ce884ddd19c8] The CRO must also provide each polling station with a ballot paper refusal list, in the appropriate form or a form to like effect, on which entries are to be made as mentioned in rule 43A (refusal to deliver ballot paper).
+(4A)[^c-a3d0a2248eb6873c4654ce884ddd19c8] The CRO must also provide each polling station with a ballot paper refusal list, in the appropriate form or a form to like effect, on which entries are to be made as mentioned in rule 43A (refusal to deliver ballot paper).
 
-(5)[^key-15cf6e0564e01f1c6ad37368b15176ff] The CRO must also provide each polling station with such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 39 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
+(5)[^c-15cf6e0564e01f1c6ad37368b15176ff] The CRO must also provide each polling station with such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 39 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
 
 - (a) blindness or partial sight, or
 - (b) another disability.
@@ -635,7 +635,7 @@ subject to paragraph (3), may include any other information given in exercise of
 - (a) the reference in that paragraph to the returning officer were a reference to the CRO, and
 - (b) the reference in that paragraph to paragraph (3A)(b) were a reference to paragraph (5) of this rule.
 
-(6)[^key-9b0f1bf60d0110af5bbdf1d82b432d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9b0f1bf60d0110af5bbdf1d82b432d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The enlarged sample copies of the ballot paper that the GLRO is required to provide, or cause to be displayed at every polling station (in accordance with section 199B(5) and (7) of the 1983 Act) must—
 
@@ -649,7 +649,7 @@ subject to paragraph (3), may include any other information given in exercise of
   - (i) in the communal areas, and
   - (ii) in every voting compartment.
 
-(8A)[^key-f8d4197b5fb135143835941c1711e9cc] A large notice must be displayed inside each polling station containing—
+(8A)[^c-f8d4197b5fb135143835941c1711e9cc] A large notice must be displayed inside each polling station containing—
 
 - (a) details of the documents the voter needs to produce when applying for a ballot paper, namely—
   - (i) in the case of an elector (other than an elector with an anonymous entry) or a proxy, any of the forms of identification for the time being referred to in rule 37(1H) of the parliamentary election rules;
@@ -738,12 +738,12 @@ may appoint—
 
 #### 32. Notification of requirement of secrecy
 
-(1)[^key-3123c7d8dd1611ca872ce13d3cace9cb] The CRO must make such arrangements as he thinks fit to ensure that—
+(1)[^c-3123c7d8dd1611ca872ce13d3cace9cb] The CRO must make such arrangements as he thinks fit to ensure that—
 
 - (a) every person attending at a polling station (otherwise than for the purpose of voting or assisting a voter with disabilities to vote or as a constable on duty there) has been given a copy of the provisions of subsections (1), (3) and (6) of section 66 (requirement of secrecy) of the Representation of the People Act 1983 [^c19060931], and
 - (b) every person attending at the counting of the votes (other than any constable on duty at the counting) has been given a copy of the provisions of subsections (2) and (6) of that section.
 
-(2)[^key-8988392331bb944aec00c998fb7f9250] In paragraph (1) a reference to a constable includes a person designated as a community support officer under section 38 of the 2002 Act (police powers for employees).
+(2)[^c-8988392331bb944aec00c998fb7f9250] In paragraph (1) a reference to a constable includes a person designated as a community support officer under section 38 of the 2002 Act (police powers for employees).
 
 #### 33. Return of postal ballot papers
 
@@ -762,7 +762,7 @@ the CRO must mark the list in the manner prescribed by regulations made under th
 
 - (a) voters,
 - (b) persons under the age of 18 who accompany voters to the polling station,
-- (ba)[^key-2777be1e8a778d974938bdc73e7dd7ff] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 50(6)(b);
+- (ba)[^c-2777be1e8a778d974938bdc73e7dd7ff] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 50(6)(b);
 - (c) the candidates and their election agents,
 - (d) the polling agents appointed to attend at the polling station,
 - (e) the clerks appointed to attend at the polling station,
@@ -779,7 +779,7 @@ the CRO must mark the list in the manner prescribed by regulations made under th
 
 (5) Any certificate surrendered under this rule must forthwith be cancelled.
 
-(6)[^key-bb2e5ea9333a4439d2de51c6229bef82] In this rule a reference to a constable includes a person designated as a community support officer under section 38 of the 2002 Act.
+(6)[^c-bb2e5ea9333a4439d2de51c6229bef82] In this rule a reference to a constable includes a person designated as a community support officer under section 38 of the 2002 Act.
 
 #### 35. Keeping of order in station
 
@@ -810,25 +810,25 @@ Immediately before the commencement of the poll, the presiding officer must—
 - (d) place each box in his view for the receipt of ballot papers, and
 - (e) keep each box locked and sealed or, as the case may be, sealed.
 
-#### 37. Questions to be put to voters[^key-aec2a2ea18550420221702f31f8bc3cc]
+#### 37. Questions to be put to voters[^c-aec2a2ea18550420221702f31f8bc3cc]
 
 (1) At the time of the application (but not afterwards), the questions specified in the second column of the following table—
 
 - (a) may be put by the presiding officer to a person who is mentioned in the first column, and
-- (b) must be put if (where applicable) the person has answered the previous question in the manner indicated, and[^key-00705f0c8000b4d2f32f8d6077fd1951] the letter “R” appears after the question and the candidate or his election or polling agent requires the question to be put.
+- (b) must be put if (where applicable) the person has answered the previous question in the manner indicated, and[^c-00705f0c8000b4d2f32f8d6077fd1951] the letter “R” appears after the question and the candidate or his election or polling agent requires the question to be put.
 
   | *Q. No.* | *Person applying for ballot paper* | *Question* |
   | --- | --- | --- |
-  | 1 | A person applying as an elector | (za)—“What is your name?”[^key-87280a602101ea154ced3a25185bcfcd]<br>(zb)—“What is your address?”<br>(a)—Are you the person registered in the register of local government electors for this election as follows *(read the whole entry from the register)*?<br>\[R\]<br>(b)—Have you already voted, here or elsewhere in Greater London at this election for London members, otherwise than as proxy for some other person? \[R\] |
-  | 2 | A person applying as proxy | (za)—“What is your name?”<br>(zb)—“What is your address?”<br>(a)—Are you the person whose name appears as A.B. in the list of proxies for this election as entitled to vote as proxy on behalf of C.D.? \[R\]<br>(b)—Have you already voted here or elsewhere in Greater London at this election for London members, as proxy on behalf of C.D.? \[R\]<br>(c)—Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of four or more electors? \[R\][^key-db817321a25b3a3dcc1f35f9a5a127b5]<br>(d)—If the person answers question (c) in the negative: “Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of two or more electors?” \[R\]<br>(e)—If the person answers question (d) in the affirmative: “Were two or more of the electors on whose behalf you have voted in this election, or any other election or referendum for which the day of poll is today, registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\]<br>(f)—If the person answers question (e) in the affirmative: “Is the elector (or are the electors) for whom you are voting today registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\] |
+  | 1 | A person applying as an elector | (za)—“What is your name?”[^c-87280a602101ea154ced3a25185bcfcd]<br>(zb)—“What is your address?”<br>(a)—Are you the person registered in the register of local government electors for this election as follows *(read the whole entry from the register)*?<br>\[R\]<br>(b)—Have you already voted, here or elsewhere in Greater London at this election for London members, otherwise than as proxy for some other person? \[R\] |
+  | 2 | A person applying as proxy | (za)—“What is your name?”<br>(zb)—“What is your address?”<br>(a)—Are you the person whose name appears as A.B. in the list of proxies for this election as entitled to vote as proxy on behalf of C.D.? \[R\]<br>(b)—Have you already voted here or elsewhere in Greater London at this election for London members, as proxy on behalf of C.D.? \[R\]<br>(c)—Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of four or more electors? \[R\][^c-db817321a25b3a3dcc1f35f9a5a127b5]<br>(d)—If the person answers question (c) in the negative: “Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of two or more electors?” \[R\]<br>(e)—If the person answers question (d) in the affirmative: “Were two or more of the electors on whose behalf you have voted in this election, or any other election or referendum for which the day of poll is today, registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\]<br>(f)—If the person answers question (e) in the affirmative: “Is the elector (or are the electors) for whom you are voting today registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\] |
   | 3 | A person applying as proxy for an elector with an anonymous entry (instead of the questions at entry 2) | (za)—“What is your name?”<br>(zb)—“What is your address?”<br>(a)—Are you the person entitled to vote as proxy on behalf of the elector whose number on the register of electors is (*read out the number)*? \[R\]<br>(b)—Have you already voted here or elsewhere in Greater London as proxy on behalf of the elector whose number on the register of electors is (*read out the number*)? \[R\]<br>(c)—Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of four or more electors? \[R\]<br>(d)—If the person answers question (c) in the negative: “Disregarding any parliamentary election or police and crime commissioner election, have you already voted as proxy at this election or any other election or referendum for which the day of poll is today, whether here or elsewhere in this electoral area or anywhere else in England, on behalf of two or more electors?” \[R\]<br>(e)—If the person answers question (d) in the affirmative: “Were two or more of the electors on whose behalf you have voted in this election, or any other election or referendum for which the day of poll is today, registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\]<br>(f)—If the person answers question (e) in the affirmative: “Is the elector (or are the electors) for whom you are voting today registered in a register of electors otherwise than in pursuance of a service declaration?” \[R\] |
-  | [^key-ca23c15467e51582edfe34a459c93673]. . . | [^key-ca23c15467e51582edfe34a459c93673]. . . | [^key-ca23c15467e51582edfe34a459c93673]. . . |
+  | [^c-ca23c15467e51582edfe34a459c93673]. . . | [^c-ca23c15467e51582edfe34a459c93673]. . . | [^c-ca23c15467e51582edfe34a459c93673]. . . |
   | 5 | A person applying as an elector in relation to whom there is an entry in the postal voters list | (za)—“What is your name?”<br>(zb)—“What is your address?”<br>(a)—Did you apply to vote by post?<br>(b)—Why have you not voted by post? |
   | 6 | A person applying as proxy who is named in the proxy postal voters list | (za)—“What is your name?”<br>(zb)—“What is your address?”<br>(a)—Did you apply to vote by post as proxy?<br>(b)—Why have you not voted by post as proxy? |
 
-(2) In the case of an elector in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references in the questions at entries 1(a) and 3(a) and (b)[^key-3da98e1f492cb08298779be902df8893] to reading from the register must be taken as references to reading from the notice issued under those subsections.
+(2) In the case of an elector in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references in the questions at entries 1(a) and 3(a) and (b)[^c-3da98e1f492cb08298779be902df8893] to reading from the register must be taken as references to reading from the notice issued under those subsections.
 
-(2A)[^key-615bf6ad6d4efb262f38190f90c5b4a5] Where a clerk—
+(2A)[^c-615bf6ad6d4efb262f38190f90c5b4a5] Where a clerk—
 
 - (a) gives a person the required information (see paragraph (5)),
 - (b) puts a question specified in paragraph (1) to the person, and
@@ -836,7 +836,7 @@ Immediately before the commencement of the poll, the presiding officer must—
 
 the clerk must refer the matter to the presiding officer, who must put the question to the person again.
 
-(3)[^key-0b54bcac55f68c25c3506cc6e7dafc5b] Where the presiding officer—
+(3)[^c-0b54bcac55f68c25c3506cc6e7dafc5b] Where the presiding officer—
 
 - (a) gives a person the required information,
 - (b) puts a question specified in paragraph (1) to the person (whether or not following a referral under paragraph (2A)), and
@@ -851,9 +851,9 @@ the officer must refuse to deliver a ballot paper to the person (and see rule 43
 
 (3B) In the case of an elector in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references to the register in paragraph (3A) are to be read as references to the notice issued under section 13B(3B) or (3D).
 
-(4) Except as authorised by this rule, no inquiry may be permitted as to the right of any person to vote (and for the purposes of this paragraph, an inquiry relating to the production of identification by a voter is not to be regarded as an inquiry as to the right of the person to vote)[^key-bb59b35bfb943508c2d442218d38de2e].
+(4) Except as authorised by this rule, no inquiry may be permitted as to the right of any person to vote (and for the purposes of this paragraph, an inquiry relating to the production of identification by a voter is not to be regarded as an inquiry as to the right of the person to vote)[^c-bb59b35bfb943508c2d442218d38de2e].
 
-(5)[^key-2acc52d2e39f1788da2099236588dc14] For the purposes of this rule, a person to whom any question is to be put is given “the required information” if the person is first informed that—
+(5)[^c-2acc52d2e39f1788da2099236588dc14] For the purposes of this rule, a person to whom any question is to be put is given “the required information” if the person is first informed that—
 
 - (a) a ballot paper will be refused if the person fails to answer each question satisfactorily, and
 - (b) giving false information may be an offence.
@@ -867,14 +867,14 @@ A person must not be prevented from voting because—
 
 #### 39. Voting procedure
 
-(1) Subject to rule 37(3) and to paragraphs (1A) to (1M), a[^key-3a7d8801036adb9cf2a780052da02dd0] ballot paper must be delivered to a voter who applies for one, and immediately before delivery—
+(1) Subject to rule 37(3) and to paragraphs (1A) to (1M), a[^c-3a7d8801036adb9cf2a780052da02dd0] ballot paper must be delivered to a voter who applies for one, and immediately before delivery—
 
-- (a)[^key-9b4d8a97e4117d9c1c78cf141e1917c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9b4d8a97e4117d9c1c78cf141e1917c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the number of the elector must be marked on the list mentioned in rule 29(3)(e) beside the number of the ballot paper to be issued to him,
 - (c) a mark must be placed in the register of electors against the number of the elector to note that a ballot paper has been applied for but without showing the particular ballot paper which may be delivered,
 - (d) in the case of a person applying for a ballot paper as proxy, a mark must also be placed against his name in the list of proxies.
 
-(1A)[^key-84932111a71323a373f61db21e9be9ac] A ballot paper must not be delivered to a voter unless the voter produces a specified document to the presiding officer or a clerk.
+(1A)[^c-84932111a71323a373f61db21e9be9ac] A ballot paper must not be delivered to a voter unless the voter produces a specified document to the presiding officer or a clerk.
 
 (1B) The presiding officer or clerk must arrange for the voter to produce any document in a private area of the polling station if the voter so requests, and, in such a case, must ensure that no other persons witness the production except as permitted by the voter.
 
@@ -916,11 +916,11 @@ A person must not be prevented from voting because—
 
 (1M) References in this rule to producing a document are to producing it for inspection.
 
-(2) In the case of an elector who has an anonymous entry, he must show the presiding officer his official poll card [^key-b2b91838312d226a33d181236aa223b9]....
+(2) In the case of an elector who has an anonymous entry, he must show the presiding officer his official poll card [^c-b2b91838312d226a33d181236aa223b9]....
 
 (3) In the case of an elector who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) of the 1983 Act, paragraph (1) is modified as follows—
 
-- (a)[^key-e490942c199f01bf65e753230edc12e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e490942c199f01bf65e753230edc12e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (c), for “in the register of electors” substitute “on the copy of the notice issued under section 13B(3B) or (3D) of the 1983 Act”.
 
 (4) The voter, on receiving the ballot paper, must forthwith proceed into one of the compartments in the polling station and there secretly mark his paper, and must then show to the presiding officer the back of the paper, so as to disclose the number and other unique identifying mark, and put the ballot paper into the ballot box in the presiding officer's presence, but so as to conceal his vote.
@@ -942,18 +942,18 @@ may be used for the election and each relevant election and referendum and one m
 
 (8) At an ordinary election, the same copy of the list mentioned in rule 29(3)(e), may be used for each Authority election and one mark may be placed in the list, to denote that a ballot paper has been delivered in respect of each Authority election; except that, where a ballot paper has not been issued in respect of any Authority election, a different mark must be placed in the list, so as to identify the elections in respect of which a ballot paper was issued.
 
-(9)[^key-39106bbe3435c4b9526f6995899a2958] A voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting must (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
+(9)[^c-39106bbe3435c4b9526f6995899a2958] A voter who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting must (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter accordingly.
 
 #### 40. Votes marked by presiding officer
 
-(1) Subject to paragraph (1A), the[^key-0df5b82c6879b445b3a9462f64ea23c0] presiding officer, on the application of a voter—
+(1) Subject to paragraph (1A), the[^c-0df5b82c6879b445b3a9462f64ea23c0] presiding officer, on the application of a voter—
 
 - (a) who is incapacitated by blindness or other disability from voting in the manner directed by these Rules, or
 - (b) who declares orally that he is unable to read,
 
 must, in the presence of the polling agents, cause the voter's vote to be marked on a ballot paper in the manner directed by the voter, and the ballot paper to be placed in the ballot box.
 
-(1A)[^key-9c729903523695129244b4448ef0d4e7] Paragraphs (1A) to (1M) of rule 39 apply in the case of a voter who applies under paragraph (1) of this rule as those paragraphs apply in the case of a voter who applies under rule 39(1), but as if—
+(1A)[^c-9c729903523695129244b4448ef0d4e7] Paragraphs (1A) to (1M) of rule 39 apply in the case of a voter who applies under paragraph (1) of this rule as those paragraphs apply in the case of a voter who applies under rule 39(1), but as if—
 
 - (a) references to delivering a ballot paper to a voter were to causing a voter’s vote to be marked on a ballot paper, and
 - (b) in rule 39(1G), the reference to paragraph (1) of rule 39 were to paragraph (1) of this rule.
@@ -973,7 +973,7 @@ must, in the presence of the polling agents, cause the voter's vote to be marked
 
 to vote with the assistance of another person by whom he is accompanied (in these Rules referred to as “**the companion**”), the presiding officer must require the voter to declare, orally or in writing, whether he is so incapacitated by his blindness or other disability, or by his inability to read, as to be unable to vote without assistance.
 
-(2) Subject to paragraph (2A), if[^key-07bea09f1919a0f587501903c2e4d37e] the presiding officer—
+(2) Subject to paragraph (2A), if[^c-07bea09f1919a0f587501903c2e4d37e] the presiding officer—
 
 - (a) is satisfied that the voter is so incapacitated, and
 - (b) is also satisfied by a written declaration made by the companion (in these Rules referred to as “**the declaration made by the companion of a voter with disabilities**”) that the companion—
@@ -982,12 +982,12 @@ to vote with the assistance of another person by whom he is accompanied (in thes
 
 the presiding officer must grant the application, and then anything which is by these Rules required to be done to, or by that voter in connection with the giving of his vote may be done to, or with the assistance of, the companion.
 
-(2A)[^key-70fb4a237e53ca4ec0e17ae1e2ba60d7] Paragraphs (1A) to (1M) of rule 39 apply in the case of a voter who applies under paragraph (1) of this rule as those paragraphs apply in the case of a voter who applies under rule 39(1), but as if—
+(2A)[^c-70fb4a237e53ca4ec0e17ae1e2ba60d7] Paragraphs (1A) to (1M) of rule 39 apply in the case of a voter who applies under paragraph (1) of this rule as those paragraphs apply in the case of a voter who applies under rule 39(1), but as if—
 
 - (a) references to delivering a ballot paper to a voter were to granting a voter’s application, and
 - (b) in rule 39(1G), the reference to paragraph (1) of rule 39 were to paragraph (1) of this rule.
 
-(3) For the purpose of these Rules, a person is a voter with disabilities if he has made such a declaration as is mentioned in paragraph (1) above, and a person may be qualified to assist a voter with disabilities to vote if that person is aged 18 or over.[^key-7c51d1749a2a900ff47af93bf418c8f7]
+(3) For the purpose of these Rules, a person is a voter with disabilities if he has made such a declaration as is mentioned in paragraph (1) above, and a person may be qualified to assist a voter with disabilities to vote if that person is aged 18 or over.[^c-7c51d1749a2a900ff47af93bf418c8f7]
 
 (4) The name and number in the register of electors of every voter whose vote is given in accordance with this rule and the name and address of the companion must be entered on a list (in these Rules referred to as the “**list of voters with disabilities assisted by companions**”). In the case of a person voting as proxy for an elector, the number to be entered together with the voter's name must be the elector's number.
 
@@ -1035,7 +1035,7 @@ and claims that he has lost or has not received his postal ballot paper.
 
 (6) The person must, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the provisions of this rule and rule 43, to mark a ballot paper (in these Rules referred to as a “**tendered ballot paper**”) in the same manner as any other voter.
 
-(7)[^key-587d6503224bed62a2f12a2ce0bab18c] Paragraphs (1A) to (1M) of rule 39 apply in the case of a person who seeks to mark a tendered ballot paper under this rule as they apply in the case of a voter who applies for a ballot paper under rule 39(1), but as if, in rule 39(1G) the reference to making a further application under paragraph (1) of rule 39 were to seeking a further time to mark a tendered ballot paper under the paragraph of this rule under which the first such attempt was made.
+(7)[^c-587d6503224bed62a2f12a2ce0bab18c] Paragraphs (1A) to (1M) of rule 39 apply in the case of a person who seeks to mark a tendered ballot paper under this rule as they apply in the case of a voter who applies for a ballot paper under rule 39(1), but as if, in rule 39(1G) the reference to making a further application under paragraph (1) of rule 39 were to seeking a further time to mark a tendered ballot paper under the paragraph of this rule under which the first such attempt was made.
 
 #### 43. Tendered ballot papers: general provisions
 
@@ -1061,7 +1061,7 @@ and claims that he has lost or has not received his postal ballot paper.
 
 (6) The same list may be used for each relevant election or referendum, and where it is so used, an entry in that list must be taken to mean that tendered ballot papers were marked in respect of each election or referendum, unless the list identifies the election or referendum at which a tendered ballot paper was marked.
 
-#### 43A. Refusal to deliver ballot paper[^key-e424be7b2b2a6adee3f6dd09de56bf3e]
+#### 43A. Refusal to deliver ballot paper[^c-e424be7b2b2a6adee3f6dd09de56bf3e]
 
 (1) Where a presiding officer refuses to deliver a ballot paper to a voter who applied for one as an elector, the officer or a clerk must enter on the ballot paper refusal list—
 
@@ -1127,7 +1127,7 @@ and claims that he has lost or has not received his postal ballot paper.
 
 (2) The same list may be used for each relevant election or referendum, and where it is so used, an entry in that list must be taken to mean that ballot papers were delivered in respect of each election or referendum, unless the list identifies the election or referendum at which a tendered ballot paper was marked.
 
-#### 45A. Collection and disclosure of information relating to applications made under rules 39 to 42[^key-fa147aad596d23fe4c58b558951ddb26]
+#### 45A. Collection and disclosure of information relating to applications made under rules 39 to 42[^c-fa147aad596d23fe4c58b558951ddb26]
 
 (1) This rule applies in relation to an election to which the Secretary of State’s duty under section 59A(4) of the 1983 Act (reports on voter identification requirements in respect of local government elections) applies.
 
@@ -1189,7 +1189,7 @@ The information as anonymised and collated in accordance with this paragraph is 
 - (b) the unused and spoilt ballot papers placed together,
 - (c) the tendered ballot papers,
 - (d) the marked copies of the register of electors (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act) and of the list of proxies,
-- (da)[^key-b6e24700ef94d86ec36e4852432b3afb] the ballot paper refusal list completed in accordance with rule 43A,
+- (da)[^c-b6e24700ef94d86ec36e4852432b3afb] the ballot paper refusal list completed in accordance with rule 43A,
 - (e) the list prepared under rule 19, including the part completed in accordance with rule 39(1)(b) (together referred to in these Rules as “**the completed corresponding number list**”),
 - (f) the certificates as to employment on duty on the day of the poll,
 - (g) the tendered votes list, the list of voters with disabilities assisted by companions, the list of votes marked by the presiding officer, a statement of the number of voters whose votes are so marked by the presiding officer under the heads “disability” and “unable to read”, the list maintained under rule 45, and the declarations made by the companions of voters with disabilities,
@@ -1279,7 +1279,7 @@ may be present at the counting of the votes in accordance with rule 50(2) to (14
 (2) Where the CRO does not discharge the functions specified in regulation 5 of the Combination of Polls Regulations, and the votes on the ballot papers are not to be counted concurrently with the votes on the ballot papers at a relevant election or referendum, he must—
 
 - (a) on receipt of the containers of ballot papers from the returning officer who does discharge those functions, and after the time specified in the notice given by him in writing to the counting agents under rule 48(2), open each container in the presence of the counting agents;
-- (b)[^key-718f0d0d70348f576c0601f795b9e26f] where the proceedings on the issue and receipt of postal ballot papers at the election are not taken together with those proceedings at a relevant election or referendum under regulation 65 of the Representation of the People (England and Wales) Regulations 2001 [^c19060961], or under that regulation as applied by regulations made under sections 44 and 105, or 45 and 105, of the Local Government Act 2000 [^c19060971], count such of the postal ballot papers as have been duly returned and record the number counted,
+- (b)[^c-718f0d0d70348f576c0601f795b9e26f] where the proceedings on the issue and receipt of postal ballot papers at the election are not taken together with those proceedings at a relevant election or referendum under regulation 65 of the Representation of the People (England and Wales) Regulations 2001 [^c19060961], or under that regulation as applied by regulations made under sections 44 and 105, or 45 and 105, of the Local Government Act 2000 [^c19060971], count such of the postal ballot papers as have been duly returned and record the number counted,
 
 and paragraph (10) below does not apply to these proceedings.
 
@@ -1292,10 +1292,10 @@ and paragraph (10) below does not apply to these proceedings.
 
 (5) A postal ballot paper must not be taken to be duly returned unless—
 
-- (a) it is returned in the manner set out in paragraph (6) and reaches the CRO or any polling station in the appropriate area (as defined in paragraph (7)) [^key-ecab79bf95d5f43f736f7cc9c054b71d]... before the close of the poll,
+- (a) it is returned in the manner set out in paragraph (6) and reaches the CRO or any polling station in the appropriate area (as defined in paragraph (7)) [^c-ecab79bf95d5f43f736f7cc9c054b71d]... before the close of the poll,
 - (b) the postal voting statement, duly signed, is also returned in the manner set out in paragraph (6) and reaches him or such polling station before that time,
-- (c) the postal voting statement also states the date of birth of the elector or proxy (as the case may be), [^key-c4f14320f93dcf263428e38821f60b28]...
-- (d) in a case where the steps for verifying the date of birth and signature of an elector or proxy have been prescribed by regulations made under the 1983 Act [^c19060981], the CRO (having taken such steps) verifies the date of birth and signature of the elector or proxy (as the case may be), and[^key-49104032b63cbf361e7e86c3c56c61cb]
+- (c) the postal voting statement also states the date of birth of the elector or proxy (as the case may be), [^c-c4f14320f93dcf263428e38821f60b28]...
+- (d) in a case where the steps for verifying the date of birth and signature of an elector or proxy have been prescribed by regulations made under the 1983 Act [^c19060981], the CRO (having taken such steps) verifies the date of birth and signature of the elector or proxy (as the case may be), and[^c-49104032b63cbf361e7e86c3c56c61cb]
 - (e) the postal ballot paper is not one that falls to be rejected in accordance with regulation 79B, 79D, 82B or 82D of the Representation of the People (England and Wales) Regulations 2001.
 
 (6) The manner in which any postal paper or postal voting statement may be returned—
@@ -1303,11 +1303,11 @@ and paragraph (10) below does not apply to these proceedings.
 - (a) to the CRO, is by hand or by post,
 - (b) to a polling station in the appropriate area, is by hand.
 
-(6A)[^key-e56d814c1a1f9434af0e049cc116565a] A postal ballot paper or postal voting statement that reaches the CRO or a polling station in the appropriate area at or after the close of the poll is treated for the purposes of paragraph (5) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
+(6A)[^c-e56d814c1a1f9434af0e049cc116565a] A postal ballot paper or postal voting statement that reaches the CRO or a polling station in the appropriate area at or after the close of the poll is treated for the purposes of paragraph (5) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
 
-(7) For the purposes of paragraphs (5), (6) and (6A)[^key-20817fb6aa689e20eefb5387fa7518e2], “**polling station in the appropriate area**” means a polling station—
+(7) For the purposes of paragraphs (5), (6) and (6A)[^c-20817fb6aa689e20eefb5387fa7518e2], “**polling station in the appropriate area**” means a polling station—
 
-- (a) in the area which is common to the Assembly constituency, and parliamentary constituency [^key-7ac917f8153a553d044cb2bc77594b2d]..., electoral area or voting area, as the case may be, in which the polls at the Authority election and a relevant election or referendum are being taken together, and
+- (a) in the area which is common to the Assembly constituency, and parliamentary constituency [^c-7ac917f8153a553d044cb2bc77594b2d]..., electoral area or voting area, as the case may be, in which the polls at the Authority election and a relevant election or referendum are being taken together, and
 - (b) in respect of which polls the voter has been issued with a postal ballot paper.
 
 (8) After completing the proceedings under paragraph (1) or (2), the CRO must cause the electronic counting system to process the ballot papers for the election so as to count—
@@ -1480,7 +1480,7 @@ may be present at an allocation, unless permitted by the GLRO to attend.
 
 (3) Subject to paragraph (4), after the GLRO complies with paragraphs (1) and (2), he may give public notice of the information referred to paragraph (2)(c) and (e) so as to set out the number of votes falling under each of those heads, in respect of each ward.
 
-(4) Where the sum of [^key-7c11fa5d55e33fe84fb10768d8440aa3]... votes given for all registered parties and individual candidates in any ward does not exceed 500, the GLRO must not give notice under paragraph (3) in respect of that ward alone, but must amalgamate the figures for that ward with those for any other ward in which more than 500 votes have been given, in the same Assembly constituency.
+(4) Where the sum of [^c-7c11fa5d55e33fe84fb10768d8440aa3]... votes given for all registered parties and individual candidates in any ward does not exceed 500, the GLRO must not give notice under paragraph (3) in respect of that ward alone, but must amalgamate the figures for that ward with those for any other ward in which more than 500 votes have been given, in the same Assembly constituency.
 
 #### 58. Return or forfeiture of candidate's deposit
 
@@ -1510,7 +1510,7 @@ may be present at an allocation, unless permitted by the GLRO to attend.
 (4) The CRO must not open the sealed packets of—
 
 - (a) tendered ballot papers, or
-- (aa)[^key-552315151720a5a14fdcc008d5f94f45] the completed ballot paper refusal list, or
+- (aa)[^c-552315151720a5a14fdcc008d5f94f45] the completed ballot paper refusal list, or
 - (b) certificates as to employment on duty on the day of the poll.
 
 (5) Where the CRO discharges the functions referred to in regulation 5 of the Combination of Polls Regulations, he must also not open the sealed packets of—
@@ -1526,7 +1526,7 @@ may be present at an allocation, unless permitted by the GLRO to attend.
 - (b) the packet containing the electronic record (if any),
 - (c) the ballot paper accounts and the statements of rejected ballot papers and of the result of the verification of the ballot paper accounts,
 - (d) the tendered votes lists, the lists of voters with disabilities assisted by companions, the lists of votes marked by the presiding officer and the related statements, the lists maintained under rule 45 and the declarations made by the companions of voters with disabilities,
-- (da)[^key-82b12b1590f97b275beafa7aef4068cb] the packet containing the completed ballot paper refusal list,
+- (da)[^c-82b12b1590f97b275beafa7aef4068cb] the packet containing the completed ballot paper refusal list,
 - (e) the packets of the completed corresponding number lists,
 - (f) the packets of certificates as to employment on duty on the day of the poll, and
 - (g) the packets containing marked copies of registers (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act) and of the postal voters list, of the lists of proxies and of the proxy postal voters list,
@@ -1544,7 +1544,7 @@ endorsing on each packet a description of its contents, the date of the election
 
 may be made by a county court, if the court is satisfied by evidence on oath that the order is required for the purpose of instituting or maintaining a prosecution for an offence in relation to ballot papers, or for the purpose of an election petition.
 
-(1A)[^key-055e37dab7fe477ead622c015a2dc8c5] An order—
+(1A)[^c-055e37dab7fe477ead622c015a2dc8c5] An order—
 
 - (a) for the opening of the sealed packet containing a completed ballot paper refusal list, or
 - (b) for the inspection or production of that list,
@@ -1596,7 +1596,7 @@ a completed corresponding number list with a number written beside the number of
 
 The relevant registration officer must retain or cause to be retained for one year all documents and, where applicable, the electronic record relating to an election forwarded to him in pursuance of these Rules by a CRO, and then, unless otherwise directed by an order of a county court, a Crown Court, a magistrate's court or an election court, must cause them to be destroyed.
 
-#### 62A. Destruction of home address forms[^key-beed0d7ac6431499ea51624dbb9fa928]
+#### 62A. Destruction of home address forms[^c-beed0d7ac6431499ea51624dbb9fa928]
 
 (1) The GLRO must destroy each candidate’s home address form—
 
@@ -1689,13 +1689,13 @@ Where the GLRO receives a notice under rule 65(2)(c)(ii) or section 11(5)(b) of 
 
 ## Annotations
 
-[^key-5dce8d7b73aeced47ad3ef752dff0e61]: Modification: Sch. 6 applied (with modifications) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1 Table 11](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-5dce8d7b73aeced47ad3ef752dff0e61]: Modification: Sch. 6 applied (with modifications) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1 Table 11](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-d0fcf8e1dd72378c1da23b3e4db88a10]: Modification: Sch. 6 para. 2 modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 28(a)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/28/a/b)
+[^c-d0fcf8e1dd72378c1da23b3e4db88a10]: Modification: Sch. 6 para. 2 modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 28(a)(b)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/28/a/b)
 
 [^c19060801]: Marginal citation: S.I 2004/294. Relevant amendments have been made to those regulations by [S.I. 2006/3278](https://www.legislation.gov.uk/uksi/2006/3278).
 
-[^key-4d6df064a781c3f4328a234689c5428c]: Textual amendment: Words in Sch. 6 rule 2(1) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-4d6df064a781c3f4328a234689c5428c]: Textual amendment: Words in Sch. 6 rule 2(1) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c19060821]: Marginal citation: SI 2007/1024
 
@@ -1707,190 +1707,190 @@ Where the GLRO receives a notice under rule 65(2)(c)(ii) or section 11(5)(b) of 
 
 [^c19060871]: Marginal citation: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 44 and 45 were amended by the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-5900dda23501cfe05e9dcf34c5ed9ebb]: Textual amendment: Words in Sch. 6 rule 3 substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/a)
+[^c-5900dda23501cfe05e9dcf34c5ed9ebb]: Textual amendment: Words in Sch. 6 rule 3 substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/a)
 
-[^key-fc4ec3b20af5a96b110dbe4fc308c33c]: Textual amendment: Words in Sch. 6 rule 3 inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/b)
+[^c-fc4ec3b20af5a96b110dbe4fc308c33c]: Textual amendment: Words in Sch. 6 rule 3 inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/b)
 
-[^key-c3dd480ba59d7baeb9a5044cf8d1f265]: Textual amendment: Words in Sch. 6 rule 3 substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(c)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/c)
+[^c-c3dd480ba59d7baeb9a5044cf8d1f265]: Textual amendment: Words in Sch. 6 rule 3 substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(c)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/c)
 
-[^key-b0f2bf7cd6531d400bfa7dc7a9eec601]: Textual amendment: Words in Sch. 6 rule 3 omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(d)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/d)
+[^c-b0f2bf7cd6531d400bfa7dc7a9eec601]: Textual amendment: Words in Sch. 6 rule 3 omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [6(12)(d)](https://www.legislation.gov.uk/uksi/2016/24/rule/6/12/d)
 
 [^c19060881]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-889c3df7a0ebddc1cab184937a747318]: Textual amendment: Word in Sch. 6 rule 6(2)(a) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/3/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-889c3df7a0ebddc1cab184937a747318]: Textual amendment: Word in Sch. 6 rule 6(2)(a) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/3/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-7c2ffed77f2e255eb5127dee4e4c68e3]: Textual amendment: [Sch. 6 rule 6(2)(b)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/6/2/b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/3/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-7c2ffed77f2e255eb5127dee4e4c68e3]: Textual amendment: [Sch. 6 rule 6(2)(b)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/6/2/b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/3/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-2e754d5864205912dcc3506773189314]: Textual amendment: Words in [Sch. 6 rule 7(2)(c)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/7/2/c) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/4) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-2e754d5864205912dcc3506773189314]: Textual amendment: Words in [Sch. 6 rule 7(2)(c)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/7/2/c) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/4) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
 [^c19060891]: Marginal citation: Section 28 of the [Political Parties, Elections and Referendums Act 2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41) was amended by [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366) and by section 48 of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
 [^c19060901]: Marginal citation: Section 28A of the [Political Parties, Elections and Referendums Act 2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41) was inserted by section 49(1) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-75ece9dcb24d357531886551f886259d]: Textual amendment: [Sch. 6 rule 8(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/8/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(27)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/27) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
+[^c-75ece9dcb24d357531886551f886259d]: Textual amendment: [Sch. 6 rule 8(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/8/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(27)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/27) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
 
-[^key-0e10f71430d27eeff45362953aa3a771]: Textual amendment: [Sch. 6 rule 8(4A)-(4F)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/8/4A) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/5) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-0e10f71430d27eeff45362953aa3a771]: Textual amendment: [Sch. 6 rule 8(4A)-(4F)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/8/4A) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/5) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-bcd6ff8cc0a9ed09bc1f765f4cf05d40]: Modification: Sch. 6 rule 9(1)(a) modified (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/5)
+[^c-bcd6ff8cc0a9ed09bc1f765f4cf05d40]: Modification: Sch. 6 rule 9(1)(a) modified (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/5)
 
-[^key-0b289f0130c9d233403f0f846873a725]: Textual amendment: Words in Sch. 6 rule 9(1)(b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/6/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-0b289f0130c9d233403f0f846873a725]: Textual amendment: Words in Sch. 6 rule 9(1)(b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/6/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-de4bb4582e5beb1b5dca2b0732311158]: Textual amendment: Words in Sch. 6 para. 9(2)(c)(i) inserted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 3(2)(e)](https://www.legislation.gov.uk/ukpga/2022/17/section/3/2/e), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+[^c-de4bb4582e5beb1b5dca2b0732311158]: Textual amendment: Words in Sch. 6 para. 9(2)(c)(i) inserted (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 3(2)(e)](https://www.legislation.gov.uk/ukpga/2022/17/section/3/2/e), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
 
-[^key-63ad728b710e369fbea19dc0b4a3bd7b]: Textual amendment: Word in [Sch. 6 rule 9(2)(c)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/9/2/c) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/7/5/a)
+[^c-63ad728b710e369fbea19dc0b4a3bd7b]: Textual amendment: Word in [Sch. 6 rule 9(2)(c)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/9/2/c) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/7/5/a)
 
-[^key-aad40ee927a04a4f14ffde3fd2bc7305]: Textual amendment: Sch. 6 rule 9(2)(c)(ii)(iii) substituted for Sch. 6 rule 9(2)(c)(ii) (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/7/5/b)
+[^c-aad40ee927a04a4f14ffde3fd2bc7305]: Textual amendment: Sch. 6 rule 9(2)(c)(ii)(iii) substituted for Sch. 6 rule 9(2)(c)(ii) (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/7/5/b)
 
-[^key-88518c10f72dabc0c71522a1521443e7]: Textual amendment: Sch. 6 rule 9(2)(c)(ii) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/6/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-88518c10f72dabc0c71522a1521443e7]: Textual amendment: Sch. 6 rule 9(2)(c)(ii) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/6/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-32ccfbf573ec09503fe943167f6a9139]: Textual amendment: Words in Sch. 6 rule 9(2)(c)(iii) inserted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(28)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/28) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
+[^c-32ccfbf573ec09503fe943167f6a9139]: Textual amendment: Words in Sch. 6 rule 9(2)(c)(iii) inserted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(28)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/28) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
 
-[^key-3e7c648990645fb6caf95c7fc2ae7069]: Textual amendment: Words in Sch. 6 rule 11(1) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/a/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-3e7c648990645fb6caf95c7fc2ae7069]: Textual amendment: Words in Sch. 6 rule 11(1) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/a/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-4d177dd1b33701742e38817a7780d054]: Textual amendment: Sch. 6 rule 11(1)(aa) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/a/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-4d177dd1b33701742e38817a7780d054]: Textual amendment: Sch. 6 rule 11(1)(aa) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/a/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-f3d76a18b2f0a61f67ef26771353090e]: Textual amendment: Words in Sch. 6 rule 11(2) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-f3d76a18b2f0a61f67ef26771353090e]: Textual amendment: Words in Sch. 6 rule 11(2) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-9606a79ad601c308fa3cccce4c7ada0e]: Textual amendment: Words in Sch. 6 rule 11(3) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/c) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-9606a79ad601c308fa3cccce4c7ada0e]: Textual amendment: Words in Sch. 6 rule 11(3) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/c) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-a466ffecdf9329491a566d12829886b7]: Textual amendment: Words in [Sch. 6 rule 11(4)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/11/4) inserted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(29)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/29) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/2))
+[^c-a466ffecdf9329491a566d12829886b7]: Textual amendment: Words in [Sch. 6 rule 11(4)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/11/4) inserted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(29)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/29) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/2))
 
-[^key-2d5479ec204c16bcf29bcf76f104d1ed]: Textual amendment: Words in Sch. 6 rule 11(5)(a) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/d) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-2d5479ec204c16bcf29bcf76f104d1ed]: Textual amendment: Words in Sch. 6 rule 11(5)(a) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/d) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-f09e63577b0ac4351c8e11ca43445955]: Textual amendment: Word in Sch. 6 rule 11(6) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(e)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/e/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-f09e63577b0ac4351c8e11ca43445955]: Textual amendment: Word in Sch. 6 rule 11(6) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(e)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/e/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-2a6bd7c7cfb3887b8f5577e15d8fb394]: Textual amendment: Sch. 6 rule 11(6)(e) and word inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/e/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-2a6bd7c7cfb3887b8f5577e15d8fb394]: Textual amendment: Sch. 6 rule 11(6)(e) and word inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/e/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-a39551b4fa33b81aff4fc9138dd97bbe]: Textual amendment: Words in Sch. 6 rule 11(8)(a) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(f)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/f) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-a39551b4fa33b81aff4fc9138dd97bbe]: Textual amendment: Words in Sch. 6 rule 11(8)(a) substituted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [6(2)(f)](https://www.legislation.gov.uk/uksi/2019/1426/rule/6/2/f) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-111bd831ecd7d919845ecb2ced51d9d1]: Textual amendment: Words in [Sch. 6 rule 12(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(30)(a)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/30/a) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
+[^c-111bd831ecd7d919845ecb2ced51d9d1]: Textual amendment: Words in [Sch. 6 rule 12(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(30)(a)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/30/a) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
 
-[^key-64f5996e842a25d507496cf2aff586f5]: Textual amendment: Words in [Sch. 6 rule 12(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(30)(b)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/30/b) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
+[^c-64f5996e842a25d507496cf2aff586f5]: Textual amendment: Words in [Sch. 6 rule 12(2)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/2) substituted (1.11.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/3), [5(30)(b)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/30/b) (with [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/3/c))
 
-[^key-c265cc56ecf3e588a09a23bac302e91e]: Textual amendment: Words in Sch. 6 rule 12(5)(b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/a/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-c265cc56ecf3e588a09a23bac302e91e]: Textual amendment: Words in Sch. 6 rule 12(5)(b) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/a/i) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-ae7d5f36444674a9b06c028c8d67b8bc]: Textual amendment: Word in Sch. 6 rule 12(5)(c) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/a/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-ae7d5f36444674a9b06c028c8d67b8bc]: Textual amendment: Word in Sch. 6 rule 12(5)(c) omitted (31.12.2019) by virtue of [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/a/ii) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-b67f0cdad6050d727a5c55917f13bc31]: Textual amendment: [Sch. 6 rule 12(5A)-(5F)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/5A) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-b67f0cdad6050d727a5c55917f13bc31]: Textual amendment: [Sch. 6 rule 12(5A)-(5F)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/12/5A) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/7/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-077520cc53f117e2835a4d75715e1a31]: Textual amendment: Words in Sch. 6 rule 13(1) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/8/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-077520cc53f117e2835a4d75715e1a31]: Textual amendment: Words in Sch. 6 rule 13(1) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/8/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-94da8dc2738528ba7ac2e30f51526978]: Textual amendment: Sch. 6 rule 13(2)(c) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/8/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-94da8dc2738528ba7ac2e30f51526978]: Textual amendment: Sch. 6 rule 13(2)(c) inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/8/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-4fe5a752793d5bfc7825f1b714cad487]: Textual amendment: Sch. 6 rule 14A inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/9) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-4fe5a752793d5bfc7825f1b714cad487]: Textual amendment: Sch. 6 rule 14A inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/9) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
 
-[^key-1e410721262c14058c32e5b5931405b7]: Textual amendment: Words in Sch. 6 rule 18(4)(a) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2016/24/rule/8/6)
+[^c-1e410721262c14058c32e5b5931405b7]: Textual amendment: Words in Sch. 6 rule 18(4)(a) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2016/24/rule/8/6)
 
-[^key-ec833fbbcdb682d7cde2ba146acaf36a]: Textual amendment: Words in Sch. 6 rule 22(1)(a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 77(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/77/2)
+[^c-ec833fbbcdb682d7cde2ba146acaf36a]: Textual amendment: Words in Sch. 6 rule 22(1)(a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 77(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/77/2)
 
-[^key-0e3101370d421bc7662fde393946b069]: Textual amendment: Words in Sch. 6 rule 23(3)(b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-0e3101370d421bc7662fde393946b069]: Textual amendment: Words in Sch. 6 rule 23(3)(b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c19060911]: Marginal citation: See the Representation of the People (England and Wales) Regulations 2001 [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871), 2006/752 and [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-8657750752d4b53dff5ff598ff797236]: Textual amendment: Sch. 6 rule 25(5) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/3)
+[^c-8657750752d4b53dff5ff598ff797236]: Textual amendment: Sch. 6 rule 25(5) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/3)
 
-[^key-d72f75a0f39923dd92ba1f3d810012bf]: Textual amendment: Words in Sch. 6 rule 26(3) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/4)
+[^c-d72f75a0f39923dd92ba1f3d810012bf]: Textual amendment: Words in Sch. 6 rule 26(3) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/4)
 
 [^c19060921]: Marginal citation: Section 13B of the 1983 Act was inserted by paragraph 3 of Schedule 2 to the [Representation of the People Act 2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 11(3) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Subsections (3B) and (3D) of section 13B were inserted by section 11(4) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-a3d0a2248eb6873c4654ce884ddd19c8]: Textual amendment: Sch. 6 rule 29(4A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(5)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/5/a)
+[^c-a3d0a2248eb6873c4654ce884ddd19c8]: Textual amendment: Sch. 6 rule 29(4A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(5)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/5/a)
 
-[^key-15cf6e0564e01f1c6ad37368b15176ff]: Textual amendment: Sch. 6 rule 29(5)(5A) substituted for Sch. 6 rule 29(5) (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/a/i) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
+[^c-15cf6e0564e01f1c6ad37368b15176ff]: Textual amendment: Sch. 6 rule 29(5)(5A) substituted for Sch. 6 rule 29(5) (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/a/i) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
 
-[^key-9b0f1bf60d0110af5bbdf1d82b432d0b]: Textual amendment: Sch. 6 rule 29(6) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/a/ii) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
+[^c-9b0f1bf60d0110af5bbdf1d82b432d0b]: Textual amendment: Sch. 6 rule 29(6) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/a/ii) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
 
-[^key-f8d4197b5fb135143835941c1711e9cc]: Textual amendment: Sch. 6 rule 29(8A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/5/b)
+[^c-f8d4197b5fb135143835941c1711e9cc]: Textual amendment: Sch. 6 rule 29(8A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/5/b)
 
-[^key-3123c7d8dd1611ca872ce13d3cace9cb]: Textual amendment: Sch. 6 rule 32 renumbered as Sch. 6 rule 32(1) (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/a)
+[^c-3123c7d8dd1611ca872ce13d3cace9cb]: Textual amendment: Sch. 6 rule 32 renumbered as Sch. 6 rule 32(1) (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/a)
 
 [^c19060931]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); Section 66 of that Act was amended by the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-8988392331bb944aec00c998fb7f9250]: Textual amendment: Sch. 6 rule 32(2) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/a)
+[^c-8988392331bb944aec00c998fb7f9250]: Textual amendment: Sch. 6 rule 32(2) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/a)
 
 [^c19060941]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); Regulation 84A of the Representation of the People (England and Wales) Regulations 2001 [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) provides the circumstances in which a postal vote should be treated as returned for this purpose.
 
-[^key-2777be1e8a778d974938bdc73e7dd7ff]: Textual amendment: Sch. 6 rule 34(1)(ba) inserted (13.12.2023) by [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/a) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
+[^c-2777be1e8a778d974938bdc73e7dd7ff]: Textual amendment: Sch. 6 rule 34(1)(ba) inserted (13.12.2023) by [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/a) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
 
-[^key-bb2e5ea9333a4439d2de51c6229bef82]: Textual amendment: Sch. 6 rule 34(6) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/b)
+[^c-bb2e5ea9333a4439d2de51c6229bef82]: Textual amendment: Sch. 6 rule 34(6) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2016/24/rule/5/6/b)
 
-[^key-aec2a2ea18550420221702f31f8bc3cc]: Modification: Sch. 6 rule 37 modified (31.10.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/2/d), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/2)[(3)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/3)
+[^c-aec2a2ea18550420221702f31f8bc3cc]: Modification: Sch. 6 rule 37 modified (31.10.2023) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/2/d), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/2)[(3)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/3)
 
-[^key-00705f0c8000b4d2f32f8d6077fd1951]: Textual amendment: Words in Sch. 6 rule 37(1)(b) inserted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(a)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/a) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
+[^c-00705f0c8000b4d2f32f8d6077fd1951]: Textual amendment: Words in Sch. 6 rule 37(1)(b) inserted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(a)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/a) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
 
-[^key-87280a602101ea154ced3a25185bcfcd]: Textual amendment: Words in Sch. 6 rule 37(1) table inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/a)
+[^c-87280a602101ea154ced3a25185bcfcd]: Textual amendment: Words in Sch. 6 rule 37(1) table inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/a)
 
-[^key-db817321a25b3a3dcc1f35f9a5a127b5]: Textual amendment: Words in Sch. 6 rule 37 table substituted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/b/i) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
+[^c-db817321a25b3a3dcc1f35f9a5a127b5]: Textual amendment: Words in Sch. 6 rule 37 table substituted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/b/i) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
 
-[^key-ca23c15467e51582edfe34a459c93673]: Textual amendment: Words in Sch. 6 rule 37 table omitted (31.1.2024) by virtue of [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/b/ii) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
+[^c-ca23c15467e51582edfe34a459c93673]: Textual amendment: Words in Sch. 6 rule 37 table omitted (31.1.2024) by virtue of [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/b/ii) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
 
-[^key-3da98e1f492cb08298779be902df8893]: Textual amendment: Words in Sch. 6 rule 37(2) substituted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/c) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
+[^c-3da98e1f492cb08298779be902df8893]: Textual amendment: Words in Sch. 6 rule 37(2) substituted (31.1.2024) by [The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1066)](https://www.legislation.gov.uk/uksi/2023/1066), [regs. 1(4)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/1/4/c), [5(31)(c)](https://www.legislation.gov.uk/uksi/2023/1066/regulation/5/31/c) (with [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1066/schedule/1/paragraph/13/1))
 
-[^key-615bf6ad6d4efb262f38190f90c5b4a5]: Textual amendment: Sch. 6 rule 37(2A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/b)
+[^c-615bf6ad6d4efb262f38190f90c5b4a5]: Textual amendment: Sch. 6 rule 37(2A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/b)
 
-[^key-0b54bcac55f68c25c3506cc6e7dafc5b]: Textual amendment: Sch. 6 rule 37(3)-(3B) substituted for Sch. 6 rule 37(3) (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(c)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/c)
+[^c-0b54bcac55f68c25c3506cc6e7dafc5b]: Textual amendment: Sch. 6 rule 37(3)-(3B) substituted for Sch. 6 rule 37(3) (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(c)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/c)
 
-[^key-bb59b35bfb943508c2d442218d38de2e]: Textual amendment: Words in Sch. 6 rule 37(4) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(d)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/d)
+[^c-bb59b35bfb943508c2d442218d38de2e]: Textual amendment: Words in Sch. 6 rule 37(4) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(d)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/d)
 
-[^key-2acc52d2e39f1788da2099236588dc14]: Textual amendment: Sch. 6 rule 37(5) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(e)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/e)
+[^c-2acc52d2e39f1788da2099236588dc14]: Textual amendment: Sch. 6 rule 37(5) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(6)(e)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/6/e)
 
-[^key-3a7d8801036adb9cf2a780052da02dd0]: Textual amendment: Words in Sch. 6 rule 39(1) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/a/i)
+[^c-3a7d8801036adb9cf2a780052da02dd0]: Textual amendment: Words in Sch. 6 rule 39(1) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/a/i)
 
-[^key-9b4d8a97e4117d9c1c78cf141e1917c5]: Textual amendment: Sch. 6 rule 39(1)(a) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/a/ii)
+[^c-9b4d8a97e4117d9c1c78cf141e1917c5]: Textual amendment: Sch. 6 rule 39(1)(a) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/a/ii)
 
-[^key-84932111a71323a373f61db21e9be9ac]: Textual amendment: Sch. 6 rule 39(1A)-(1M) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/b)
+[^c-84932111a71323a373f61db21e9be9ac]: Textual amendment: Sch. 6 rule 39(1A)-(1M) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/b)
 
-[^key-b2b91838312d226a33d181236aa223b9]: Textual amendment: Words in Sch. 6 rule 39(2) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(c)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/c)
+[^c-b2b91838312d226a33d181236aa223b9]: Textual amendment: Words in Sch. 6 rule 39(2) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(c)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/c)
 
-[^key-e490942c199f01bf65e753230edc12e0]: Textual amendment: Sch. 6 rule 39(3)(a) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(d)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/d)
+[^c-e490942c199f01bf65e753230edc12e0]: Textual amendment: Sch. 6 rule 39(3)(a) omitted (with application in accordance with rule 1(3)(4) of the amending S.I.) by virtue of [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(7)(d)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/7/d)
 
-[^key-39106bbe3435c4b9526f6995899a2958]: Textual amendment: Sch. 6 rule 39(9) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/a)
+[^c-39106bbe3435c4b9526f6995899a2958]: Textual amendment: Sch. 6 rule 39(9) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/a)
 
-[^key-0df5b82c6879b445b3a9462f64ea23c0]: Textual amendment: Words in Sch. 6 rule 40(1) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(8)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/8/a)
+[^c-0df5b82c6879b445b3a9462f64ea23c0]: Textual amendment: Words in Sch. 6 rule 40(1) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(8)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/8/a)
 
-[^key-9c729903523695129244b4448ef0d4e7]: Textual amendment: Sch. 6 rule 40(1A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(8)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/8/b)
+[^c-9c729903523695129244b4448ef0d4e7]: Textual amendment: Sch. 6 rule 40(1A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(8)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/8/b)
 
 [^c19060951]: Marginal citation: Section 13B of the 1983 Act was inserted by paragraph 3 of Schedule 2 to the [Representation of the People Act 2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 11(3) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Subsections (3B) and (3D) of section 13B were inserted by section 11(4) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-07bea09f1919a0f587501903c2e4d37e]: Textual amendment: Words in Sch. 6 rule 41(2) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(9)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/9/a)
+[^c-07bea09f1919a0f587501903c2e4d37e]: Textual amendment: Words in Sch. 6 rule 41(2) substituted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(9)(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/9/a)
 
-[^key-70fb4a237e53ca4ec0e17ae1e2ba60d7]: Textual amendment: Sch. 6 rule 41(2A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(9)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/9/b)
+[^c-70fb4a237e53ca4ec0e17ae1e2ba60d7]: Textual amendment: Sch. 6 rule 41(2A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(9)(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/9/b)
 
-[^key-7c51d1749a2a900ff47af93bf418c8f7]: Textual amendment: Words in Sch. 6 rule 41(3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/b) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
+[^c-7c51d1749a2a900ff47af93bf418c8f7]: Textual amendment: Words in Sch. 6 rule 41(3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Principal Area, Parish and Greater London Authority Elections) (Amendments) Rules 2022 (S.I. 2022/1284)](https://www.legislation.gov.uk/uksi/2022/1284), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/1284/rule/5/3/b) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/2022/1284/rule/1/2))
 
-[^key-587d6503224bed62a2f12a2ce0bab18c]: Textual amendment: Sch. 6 rule 42(7) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(10)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/10)
+[^c-587d6503224bed62a2f12a2ce0bab18c]: Textual amendment: Sch. 6 rule 42(7) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(10)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/10)
 
-[^key-e424be7b2b2a6adee3f6dd09de56bf3e]: Textual amendment: Sch. 6 rule 43A inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(11)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/11)
+[^c-e424be7b2b2a6adee3f6dd09de56bf3e]: Textual amendment: Sch. 6 rule 43A inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(11)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/11)
 
-[^key-fa147aad596d23fe4c58b558951ddb26]: Textual amendment: Sch. 6 rule 45A inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(12)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/12)
+[^c-fa147aad596d23fe4c58b558951ddb26]: Textual amendment: Sch. 6 rule 45A inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(12)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/12)
 
-[^key-b6e24700ef94d86ec36e4852432b3afb]: Textual amendment: Sch. 6 rule 47(1)(da) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(13)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/13)
+[^c-b6e24700ef94d86ec36e4852432b3afb]: Textual amendment: Sch. 6 rule 47(1)(da) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(13)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/13)
 
-[^key-718f0d0d70348f576c0601f795b9e26f]: Modification: [Sch. 6 para. 50(2)(b)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/paragraph/50/2/b) modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 28(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/28/c)
+[^c-718f0d0d70348f576c0601f795b9e26f]: Modification: [Sch. 6 para. 50(2)(b)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/paragraph/50/2/b) modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 28(c)](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/28/c)
 
 [^c19060961]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).
 
 [^c19060971]: Marginal citation: c. 22. Sections 44 and 45 were amended by the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41) and section 105 was amended by section 105 of the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-ecab79bf95d5f43f736f7cc9c054b71d]: Textual amendment: Words in [Sch. 6 rule 50(5)(a)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/50/5/a) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/i)
+[^c-ecab79bf95d5f43f736f7cc9c054b71d]: Textual amendment: Words in [Sch. 6 rule 50(5)(a)](https://www.legislation.gov.uk/uksi/2007/3541/schedule/6/rule/50/5/a) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/i)
 
-[^key-c4f14320f93dcf263428e38821f60b28]: Textual amendment: Word in Sch. 6 rule 50(5)(c) omitted (13.12.2023) by virtue of [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/b/i) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
+[^c-c4f14320f93dcf263428e38821f60b28]: Textual amendment: Word in Sch. 6 rule 50(5)(c) omitted (13.12.2023) by virtue of [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/b/i) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
 
 [^c19060981]: Marginal citation: See regulation 85 and 85[A of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)](https://www.legislation.gov.uk/uksi/2001/341), which were inserted by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-49104032b63cbf361e7e86c3c56c61cb]: Textual amendment: Sch. 6 rule 50(5)(e) and word inserted (13.12.2023) by [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/b/ii) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
+[^c-49104032b63cbf361e7e86c3c56c61cb]: Textual amendment: Sch. 6 rule 50(5)(e) and word inserted (13.12.2023) by [The Overseas Electors, Postal Vote Handling and Secrecy (Amendment) Rules 2023 (S.I. 2023/1233)](https://www.legislation.gov.uk/uksi/2023/1233), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/2), [5(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1233/rule/5/6/b/ii) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1233/rule/1/4))
 
-[^key-e56d814c1a1f9434af0e049cc116565a]: Textual amendment: Sch. 6 rule 50(6A) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/ii)
+[^c-e56d814c1a1f9434af0e049cc116565a]: Textual amendment: Sch. 6 rule 50(6A) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/ii)
 
-[^key-20817fb6aa689e20eefb5387fa7518e2]: Textual amendment: Words in Sch. 6 rule 50(7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/iii)
+[^c-20817fb6aa689e20eefb5387fa7518e2]: Textual amendment: Words in Sch. 6 rule 50(7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [9(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2016/24/rule/9/5/b/iii)
 
-[^key-7ac917f8153a553d044cb2bc77594b2d]: Textual amendment: Words in Sch. 6 rule 50(7)(a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7ac917f8153a553d044cb2bc77594b2d]: Textual amendment: Words in Sch. 6 rule 50(7)(a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-7c11fa5d55e33fe84fb10768d8440aa3]: Textual amendment: Words in Sch. 6 rule 57(4) omitted (1.3.2012) by virtue of [The Greater London Authority Elections (Amendment) Rules 2012 (S.I. 2012/198)](https://www.legislation.gov.uk/uksi/2012/198), [rules 1(1)](https://www.legislation.gov.uk/uksi/2012/198/rule/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2012/198/rule/4/1)
+[^c-7c11fa5d55e33fe84fb10768d8440aa3]: Textual amendment: Words in Sch. 6 rule 57(4) omitted (1.3.2012) by virtue of [The Greater London Authority Elections (Amendment) Rules 2012 (S.I. 2012/198)](https://www.legislation.gov.uk/uksi/2012/198), [rules 1(1)](https://www.legislation.gov.uk/uksi/2012/198/rule/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2012/198/rule/4/1)
 
-[^key-552315151720a5a14fdcc008d5f94f45]: Textual amendment: Sch. 6 rule 59(4)(aa) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(14)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/14)
+[^c-552315151720a5a14fdcc008d5f94f45]: Textual amendment: Sch. 6 rule 59(4)(aa) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(14)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/14)
 
-[^key-82b12b1590f97b275beafa7aef4068cb]: Textual amendment: Sch. 6 rule 60(1)(da) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(15)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/15)
+[^c-82b12b1590f97b275beafa7aef4068cb]: Textual amendment: Sch. 6 rule 60(1)(da) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(15)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/15)
 
-[^key-055e37dab7fe477ead622c015a2dc8c5]: Textual amendment: Sch. 6 rule 61(1A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(16)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/16)
+[^c-055e37dab7fe477ead622c015a2dc8c5]: Textual amendment: Sch. 6 rule 61(1A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [16(16)](https://www.legislation.gov.uk/uksi/2022/1397/rule/16/16)
 
-[^key-beed0d7ac6431499ea51624dbb9fa928]: Textual amendment: Sch. 6 rule 62A inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/10) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))
+[^c-beed0d7ac6431499ea51624dbb9fa928]: Textual amendment: Sch. 6 rule 62A inserted (31.12.2019) by [The Greater London Authority Elections (Amendment) Rules 2019 (S.I. 2019/1426)](https://www.legislation.gov.uk/uksi/2019/1426), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1426/rule/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2019/1426/rule/4/10) (with [rule 2](https://www.legislation.gov.uk/uksi/2019/1426/rule/2))

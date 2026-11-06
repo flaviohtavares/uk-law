@@ -112,33 +112,33 @@ or any re-enactment (with or without modifications) of any of those provisions.
 >
 > (3) The Secretary of State may require that a trade licence taken out by a motor trader or vehicle tester who does not hold an existing trade licence may be taken out only for a period of six months.
 >
-> (4) The rate of duty applicable to a trade licence taken out for a period of twelve months (“the applicable annual rate”)[^key-41c89b3361ecbfb13c6c1eb69f1f70b1] is—
+> (4) The rate of duty applicable to a trade licence taken out for a period of twelve months (“the applicable annual rate”)[^c-41c89b3361ecbfb13c6c1eb69f1f70b1] is—
 >
 > - (a) the annual rate currently applicable to a vehicle under sub-paragraph (1)(d)[^c16988461] of paragraph 2 of Schedule 1 if the licence is to be used only for vehicles to which that paragraph applies, and
 > - (b) otherwise, the basic goods vehicle rate currently applicable[^c19411901].
 >
-> (4A)[^key-120e04627d7cdb64f26f99bb4561b98a] Where a trade licence is taken out for a period of 12 months and the duty is to be paid by more than one instalment pursuant to an agreement under section 19B, the rate of duty is 105% of the applicable annual rate.
+> (4A)[^c-120e04627d7cdb64f26f99bb4561b98a] Where a trade licence is taken out for a period of 12 months and the duty is to be paid by more than one instalment pursuant to an agreement under section 19B, the rate of duty is 105% of the applicable annual rate.
 >
-> (5)[^key-115f5c8e41932c26f7d8c47fe3a9c814] The rate of duty applicable to a trade licence taken out for a period of 6 months is—
+> (5)[^c-115f5c8e41932c26f7d8c47fe3a9c814] The rate of duty applicable to a trade licence taken out for a period of 6 months is—
 >
 > - (a) 55% of the applicable annual rate for a corresponding trade licence taken out for 12 months, or
 > - (b) if the duty is to be paid by direct debit pursuant to an agreement under section 19B, 52.5% of that applicable annual rate.
 >
-> (6) In determining a rate of duty under subsection (4A) or (5)[^key-3316fdfdae5148e6195fc25a41b7cbf5] any fraction of five pence—
+> (6) In determining a rate of duty under subsection (4A) or (5)[^c-3316fdfdae5148e6195fc25a41b7cbf5] any fraction of five pence—
 >
 > - (a) if it exceeds two and a half pence, shall be treated as five pence, and
 > - (b) otherwise, shall be disregarded.
 >
 > (7)[^c18122311] In this section “**the basic goods vehicle rate**” means the annual rate applicable, by virtue of sub-paragraph (1) of paragraph 9 of Schedule 1, to a rigid goods vehicle which—
 >
-> - (a)[^key-76f2095039b3eb32918c36a895f414e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-76f2095039b3eb32918c36a895f414e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (b) falls within column (3) of the table in that sub-paragraph and has a revenue weight exceeding 3,500 kilograms and not exceeding 7,500 kilograms.
 
 (2) An order under sub-paragraph (1) may appoint different days for different cases.
 
 (3) A licence in force when such an order substitutes for section 13 the provisions set out in sub-paragraph (1) is not affected by that substitution.
 
-(4)[^key-581834272710b401df66b3309a3ee2d6] In cases in which the provisions set out in sub-paragraph (1) have effect, sections 35A(8) and 36(7) are to be read as referring to section 13(4A) instead of section 13(3A).
+(4)[^c-581834272710b401df66b3309a3ee2d6] In cases in which the provisions set out in sub-paragraph (1) have effect, sections 35A(8) and 36(7) are to be read as referring to section 13(4A) instead of section 13(3A).
 
 ### Combined road-rail transport of goods
 
@@ -183,23 +183,23 @@ in relation to any time before 27th July 1989 (the day on which the Finance Act 
 
 [^c12519121]: Marginal citation: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).
 
-[^key-41c89b3361ecbfb13c6c1eb69f1f70b1]: Textual amendment: Words in Sch. 4 para. 8(1) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/a)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-41c89b3361ecbfb13c6c1eb69f1f70b1]: Textual amendment: Words in Sch. 4 para. 8(1) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/a)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
 [^c16988461]: Textual amendment: Words in s. 13(4)(a) as set out in Sch. 4 para. 8 substituted (24.7.2002 with application as mentioned in [s. 18(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/18/3) of the amending Act) by virtue of [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 18(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/18/2)
 
 [^c19411901]: Textual amendment: Words in s. 13(4)(b) as set out in Sch. 4 para. 8(1) substituted (7.4.2005 with effect as mentioned in [s. 7(14)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/14) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 7(4)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/4)
 
-[^key-120e04627d7cdb64f26f99bb4561b98a]: Textual amendment: Words in Sch. 4 para. 8(1) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/b)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-120e04627d7cdb64f26f99bb4561b98a]: Textual amendment: Words in Sch. 4 para. 8(1) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/b)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
-[^key-115f5c8e41932c26f7d8c47fe3a9c814]: Textual amendment: Words in Sch. 4 para. 8(1) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/c)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-115f5c8e41932c26f7d8c47fe3a9c814]: Textual amendment: Words in Sch. 4 para. 8(1) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/c)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
-[^key-3316fdfdae5148e6195fc25a41b7cbf5]: Textual amendment: Words in Sch. 4 para. 8(1) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/d)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-3316fdfdae5148e6195fc25a41b7cbf5]: Textual amendment: Words in Sch. 4 para. 8(1) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(4)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/4/d)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
 [^c18122311]: Textual amendment: S. 13(7) as set out in Sch. 4 para. 8(1) inserted (7.4.2005 with effect as mentioned in [s. 7(14)(16)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/14/16) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 7(5)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/5)
 
-[^key-76f2095039b3eb32918c36a895f414e4]: Textual amendment: Words in Sch. 4 para. 8(1) omitted (with effect in accordance with Sch. 18 paras. 12-14, 16 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 para. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/10/b)
+[^c-76f2095039b3eb32918c36a895f414e4]: Textual amendment: Words in Sch. 4 para. 8(1) omitted (with effect in accordance with Sch. 18 paras. 12-14, 16 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 para. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/10/b)
 
-[^key-581834272710b401df66b3309a3ee2d6]: Textual amendment: Sch. 4 para. 8(4) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/9)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-581834272710b401df66b3309a3ee2d6]: Textual amendment: Sch. 4 para. 8(4) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/9)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
 [^c12519161]: Marginal citation: [S.I. 1971/450](https://www.legislation.gov.uk/uksi/1971/450).
 

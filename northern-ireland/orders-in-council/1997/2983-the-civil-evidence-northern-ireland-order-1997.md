@@ -81,7 +81,7 @@ The Civil Evidence (Northern Ireland) Order 1997
 
 ### Safeguards in relation to hearsay evidence
 
-#### 4. Power to call witness for cross-examination on hearsay statement[^key-8a0cc66bcd684abf1d477fcbed64c015]
+#### 4. Power to call witness for cross-examination on hearsay statement[^c-8a0cc66bcd684abf1d477fcbed64c015]
 
 (1) Rules of court may provide that, where a party to civil proceedings adduces hearsay evidence of a statement made by a person and does not call that person as a witness, any other party to the proceedings may, with the leave of the court, call that person as a witness and cross-examine him on the statement as if he had been called by the first-mentioned party and as if the hearsay statement were his evidence in chief.
 
@@ -90,7 +90,7 @@ The Civil Evidence (Northern Ireland) Order 1997
 - (a) of enabling the witness to be brought before the court; or
 - (b) of giving the party concerned a proper opportunity to investigate the statement or the credibility of the witness.
 
-#### 5. Considerations relevant to weighing of hearsay evidence[^key-ab9bdaf489d5731fe7c045c8b8ad3b20]
+#### 5. Considerations relevant to weighing of hearsay evidence[^c-ab9bdaf489d5731fe7c045c8b8ad3b20]
 
 (1) In estimating the weight (if any) to be given to hearsay evidence in civil proceedings the court shall have regard to any circumstances from which any inference can reasonably be drawn as to the reliability or otherwise of the evidence.
 
@@ -223,9 +223,9 @@ Any power to make rules of court includes power to make such provision as may be
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-8a0cc66bcd684abf1d477fcbed64c015]: Modification: Art. 4 applied by 2002 c. 29, s. 195Q(2) (as inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b))
+[^c-8a0cc66bcd684abf1d477fcbed64c015]: Modification: Art. 4 applied by 2002 c. 29, s. 195Q(2) (as inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b))
 
-[^key-ab9bdaf489d5731fe7c045c8b8ad3b20]: Modification: Art. 5 applied by 2002 c. 29, s. 195Q(2) (as inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b))
+[^c-ab9bdaf489d5731fe7c045c8b8ad3b20]: Modification: Art. 5 applied by 2002 c. 29, s. 195Q(2) (as inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b))
 
 [^m00002]: Marginal citation: 1995 NI 2.
 

@@ -33,20 +33,20 @@ of 1 October 2015
 
 on the conclusion of the Agreement for scientific and technological cooperation between the European Union and European Atomic Energy Community and the Swiss Confederation associating the Swiss Confederation to Horizon 2020 — the Framework Programme for Research and Innovation and the Research and Training Programme of the European Atomic Energy Community complementing Horizon 2020, and regulating the Swiss Confederation's participation in the ITER activities carried out by Fusion for Energy (revoked)
 
-[^key-38a26b5a43672fdd8f6268f0bef60350]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38a26b5a43672fdd8f6268f0bef60350]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-38a26b5a43672fdd8f6268f0bef60350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38a26b5a43672fdd8f6268f0bef60350]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38a26b5a43672fdd8f6268f0bef60350]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38a26b5a43672fdd8f6268f0bef60350]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-38a26b5a43672fdd8f6268f0bef60350]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

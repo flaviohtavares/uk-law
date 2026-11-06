@@ -48,27 +48,27 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 227ZJ(1), 245A(8) and 245C(3) of the Criminal Procedure (Scotland) Act 1995[^f00001], section 70(13) and (14) of the Children (Scotland) Act 1995[^f00002], and all other powers enabling them to do so.
 
-## 1. Citation, commencement and revocation[^key-275abeec4b63d288431efd623f8072a1]
+## 1. Citation, commencement and revocation[^c-275abeec4b63d288431efd623f8072a1]
 
 (1) These Regulations may be cited as the Restriction of Liberty Order etc. (Scotland) Regulations 2013 and come into force on 1st March 2013.
 
 (2) The Restriction of Liberty Order and Restricted Movement Requirement (Scotland) Regulations 2011[^f00003] are revoked.
 
-## 2. Interpretation[^key-f5214b7bab57f88db6412bf8668bd818]
+## 2. Interpretation[^c-f5214b7bab57f88db6412bf8668bd818]
 
 In these Regulations—
 
 - “the Act” means the Criminal Procedure (Scotland) Act 1995;
 - “curfew condition” has the meaning assigned to it by section 12AB(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00004];
 - “G4S Monitoring Technologies” means G4S Monitoring Technologies Limited, a company incorporated under the Companies Acts under number 2626613 and having its registered office at Southside, 105 Victoria Street, London, SW1E 6QT;
-- [^key-dd0d99e174595fa242a1f444a1445e96]...
+- [^c-dd0d99e174595fa242a1f444a1445e96]...
 - “offender” means a person subject to a requirement to which regulation 4 applies, or a person subject to a curfew condition;
 - “place of curfew” means a place that is specified in a requirement to which regulation 4 applies, or in a curfew condition, as a place which the offender is required to be in or, as the case may be, not be in;
 - “restricted movement requirement” has the meaning assigned to it by section 227ZF(1)[^f00005] of the Act;
 - “restriction of liberty order” has the meaning assigned to it by section 245A of the Act; and
-- [^key-846d0147216ea4b045c307902f32b422]...
+- [^c-846d0147216ea4b045c307902f32b422]...
 
-## 3. Prescribed courts[^key-ae46a42d7394da7b0a648896d5e06ce8]
+## 3. Prescribed courts[^c-ae46a42d7394da7b0a648896d5e06ce8]
 
 (1) The courts which are prescribed for the purpose of—
 
@@ -80,7 +80,7 @@ are those listed in Part 1 of Schedule 1 to these Regulations.
 
 (2) The courts which are prescribed for the purpose of imposing restricted movement requirements are those listed in Part 2 of Schedule 1 to these Regulations.
 
-## 4. Methods of monitoring compliance[^key-537da27541195edfdf73af77311018d0]
+## 4. Methods of monitoring compliance[^c-537da27541195edfdf73af77311018d0]
 
 (1) This regulation applies to requirements imposed—
 
@@ -98,16 +98,16 @@ are those listed in Part 1 of Schedule 1 to these Regulations.
 
 (3) The methods of monitoring set out in (2)(b), (c) and (d) shall not be used unless it is not reasonably practicable to use the method set out in (2)(a), except that the method set out in (2)(c) may be used as a back-up method of monitoring where the method set out in (2)(a) is also being used.
 
-## 5. Specified devices[^key-ece34ee35dc9482d34e79343614e09ff]
+## 5. Specified devices[^c-ece34ee35dc9482d34e79343614e09ff]
 
 The devices specified in Schedule 2 to these Regulations may be used for the purpose of—
 
 - (a) remotely monitoring the compliance of an offender with a requirement to which regulation 4 applies;
 - (b) remotely monitoring the compliance of an offender with a requirement imposed in a curfew condition; and
-- (ba)[^key-d8f9b2e68516d6522acba921de466d1e] remotely monitoring the compliance of an offender with a condition specified by virtue of section 40(2) of the Criminal Justice (Scotland) Act 2003.
+- (ba)[^c-d8f9b2e68516d6522acba921de466d1e] remotely monitoring the compliance of an offender with a condition specified by virtue of section 40(2) of the Criminal Justice (Scotland) Act 2003.
 - (c) monitoring the compliance of a child with a restriction imposed in a movement restriction condition.
 
-## 6. Amendment of the Intensive Support and Monitoring (Scotland) Regulations 2008[^key-a195cdaa68fb1a457a4fc5fcde854edb]
+## 6. Amendment of the Intensive Support and Monitoring (Scotland) Regulations 2008[^c-a195cdaa68fb1a457a4fc5fcde854edb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -125,7 +125,7 @@ Edinburgh
 
 Regulation 3
 
-### PART 1[^key-7e7b953bfdbdcc98cac8a68d08b09ccb]
+### PART 1[^c-7e7b953bfdbdcc98cac8a68d08b09ccb]
 
 The courts, or classes of courts, which are prescribed for the purposes specified in regulation 3(1) are—
 
@@ -141,7 +141,7 @@ The courts, or classes of courts, which are prescribed for the purposes specifie
 
 **3.** Any Justice of the Peace Court when constituted by a stipendiary magistrate.
 
-### PART 2[^key-49bc4cf9dd0475213ae511e055459eb7]
+### PART 2[^c-49bc4cf9dd0475213ae511e055459eb7]
 
 The courts, or classes of courts, which are prescribed for the purpose specified in regulation 3(2) are—
 
@@ -157,7 +157,7 @@ The courts, or classes of courts, which are prescribed for the purpose specified
 
 **3.** Any Justice of the Peace Court.
 
-## SCHEDULE 2[^key-2c141b32699e7a1b4e12bd1c0a22cb49]
+## SCHEDULE 2[^c-2c141b32699e7a1b4e12bd1c0a22cb49]
 
 Regulation 5
 
@@ -195,36 +195,36 @@ The Regulations revoke the Restriction of Liberty Order and Restricted Movement 
 
 [^f00002]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36); section 70 was amended by the Antisocial Behaviour etc. (Scotland) Act [2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8).
 
-[^key-275abeec4b63d288431efd623f8072a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/6/regulation/1) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-275abeec4b63d288431efd623f8072a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/6/regulation/1) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2011/3](https://www.legislation.gov.uk/ssi/2011/3).
 
-[^key-f5214b7bab57f88db6412bf8668bd818]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-f5214b7bab57f88db6412bf8668bd818]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
 [^f00004]: Footnote: [1993 c.9](https://www.legislation.gov.uk/ukpga/1993/9); section 12AB was inserted by section 15(10) of the Management of Offenders etc. (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14).
 
-[^key-dd0d99e174595fa242a1f444a1445e96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/2/a)
+[^c-dd0d99e174595fa242a1f444a1445e96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/2/a)
 
 [^f00005]: Footnote: Section 227ZF was inserted by section 14 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-846d0147216ea4b045c307902f32b422]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/2/b)
+[^c-846d0147216ea4b045c307902f32b422]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/6/regulation/2) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/2/b)
 
-[^key-ae46a42d7394da7b0a648896d5e06ce8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/6/regulation/3) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-ae46a42d7394da7b0a648896d5e06ce8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/6/regulation/3) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
 [^f00006]: Footnote: Section 234CA was inserted by section 47(2) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7).
 
 [^f00007]: Footnote: Section 230A was repealed by schedule 2, paragraph 17 of the Criminal Justice and Licensing (Scotland) Act 2010 [(asp 13)](https://www.legislation.gov.uk/asp/2010/13) By virtue of article 3 of the Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 6, Transitional and Savings Provisions) Order 2010 ([S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413)) the repeal has no effect in relation to an offence committed before 1st February 2011 or in relation to any probation order made under the Act.
 
-[^key-537da27541195edfdf73af77311018d0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/6/regulation/4) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-537da27541195edfdf73af77311018d0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/6/regulation/4) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
-[^key-ece34ee35dc9482d34e79343614e09ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/6/regulation/5) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-ece34ee35dc9482d34e79343614e09ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/6/regulation/5) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
-[^key-d8f9b2e68516d6522acba921de466d1e]: Textual amendment: [Reg. 5(ba)](https://www.legislation.gov.uk/ssi/2013/6/regulation/5/ba) inserted (13.3.2016) by [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2016 (S.S.I. 2016/89)](https://www.legislation.gov.uk/ssi/2016/89), [regs. 1](https://www.legislation.gov.uk/ssi/2016/89/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/89/regulation/2)
+[^c-d8f9b2e68516d6522acba921de466d1e]: Textual amendment: [Reg. 5(ba)](https://www.legislation.gov.uk/ssi/2013/6/regulation/5/ba) inserted (13.3.2016) by [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2016 (S.S.I. 2016/89)](https://www.legislation.gov.uk/ssi/2016/89), [regs. 1](https://www.legislation.gov.uk/ssi/2016/89/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/89/regulation/2)
 
-[^key-a195cdaa68fb1a457a4fc5fcde854edb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/6/regulation/6) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/3)
+[^c-a195cdaa68fb1a457a4fc5fcde854edb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/6/regulation/6) omitted (20.12.2019) by virtue of [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/3)
 
-[^key-7e7b953bfdbdcc98cac8a68d08b09ccb]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2013/6/schedule/1/part/1) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-7e7b953bfdbdcc98cac8a68d08b09ccb]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2013/6/schedule/1/part/1) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
-[^key-49bc4cf9dd0475213ae511e055459eb7]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2013/6/schedule/1/part/2) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
+[^c-49bc4cf9dd0475213ae511e055459eb7]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2013/6/schedule/1/part/2) in force at 1.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/1)
 
-[^key-2c141b32699e7a1b4e12bd1c0a22cb49]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/6/schedule/2) substituted (20.12.2019) by [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/4)
+[^c-2c141b32699e7a1b4e12bd1c0a22cb49]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/6/schedule/2) substituted (20.12.2019) by [The Restriction of Liberty Order etc. (Scotland) Amendment Regulations 2019 (S.S.I. 2019/423)](https://www.legislation.gov.uk/ssi/2019/423), [regs. 1](https://www.legislation.gov.uk/ssi/2019/423/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/423/regulation/2/4)

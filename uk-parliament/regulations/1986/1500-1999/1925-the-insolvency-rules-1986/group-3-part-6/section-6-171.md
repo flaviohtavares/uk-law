@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.171. Termination of appointment[^key-3b1a77b5496de2a8c346531423ddebf4]
+## 6.171. Termination of appointment[^c-3b1a77b5496de2a8c346531423ddebf4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b1a77b5496de2a8c346531423ddebf4]: Commencement: [Rule 6.171](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.171) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3b1a77b5496de2a8c346531423ddebf4]: Commencement: [Rule 6.171](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.171) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

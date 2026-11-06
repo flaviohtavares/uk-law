@@ -31,28 +31,28 @@ Nuclear Installations Act 1969 (repealed)
 
 1969 c.18
 
-[^key-e5b120cf92aa3c98c0e05d5351ade9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5b120cf92aa3c98c0e05d5351ade9ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Restriction of liability for certain damage.[^key-e5b120cf92aa3c98c0e05d5351ade9ab]
+## 1. Restriction of liability for certain damage.[^c-e5b120cf92aa3c98c0e05d5351ade9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e5b120cf92aa3c98c0e05d5351ade9ab]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e5b120cf92aa3c98c0e05d5351ade9ab]
 
-## 3. Extension of compensation in certain cases.[^key-e5b120cf92aa3c98c0e05d5351ade9ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Expenses.[^key-e5b120cf92aa3c98c0e05d5351ade9ab]
+## 3. Extension of compensation in certain cases.[^c-e5b120cf92aa3c98c0e05d5351ade9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Citation.[^key-e5b120cf92aa3c98c0e05d5351ade9ab]
+## 4. Expenses.[^c-e5b120cf92aa3c98c0e05d5351ade9ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Citation.[^c-e5b120cf92aa3c98c0e05d5351ade9ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5b120cf92aa3c98c0e05d5351ade9ab]: Textual amendment: Act repealed (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/1) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))
+[^c-e5b120cf92aa3c98c0e05d5351ade9ab]: Textual amendment: Act repealed (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by [The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562)](https://www.legislation.gov.uk/uksi/2016/562), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/562/schedule/2/paragraph/1) (with [art. 40](https://www.legislation.gov.uk/uksi/2016/562/article/40))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Charity trustee decision records as evidence[^key-8b667b92190e07412b274b3fbbb749ca]
+## 39. Charity trustee decision records as evidence[^c-8b667b92190e07412b274b3fbbb749ca]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b667b92190e07412b274b3fbbb749ca]: Commencement: Reg. 39 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-8b667b92190e07412b274b3fbbb749ca]: Commencement: Reg. 39 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

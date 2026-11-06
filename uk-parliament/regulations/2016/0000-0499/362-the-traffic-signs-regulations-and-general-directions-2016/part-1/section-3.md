@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Prescription of signs[^key-5f5773b3421ce97b913aba49e30df27d]
+## 3. Prescription of signs[^c-5f5773b3421ce97b913aba49e30df27d]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 | 4 | Schedule 5 Parts 1 to 4 | Signs that indicate parking places and areas subject to parking controls |
 | 5 | Schedule 6<br>Parts 1 and 2 | Upright signs for red routes |
 | 6 | Schedule 7<br>Parts 1 to 6 | Road markings and miscellaneous upright signs that indicate stopping, waiting, loading and parking controls |
-| 7 | Schedule 8<br>Parts 1 to 4B[^key-1f5e6384f66a58821e7ce79462e1359f] | Signs indicating the entrance to and the end of, a pedestrian, or pedestrian and cycle, zone, and signs for charging schemes and low emission zone schemes[^key-7e12f540e116c30985f4f463f8e579f6] |
+| 7 | Schedule 8<br>Parts 1 to 4B[^c-1f5e6384f66a58821e7ce79462e1359f] | Signs indicating the entrance to and the end of, a pedestrian, or pedestrian and cycle, zone, and signs for charging schemes and low emission zone schemes[^c-7e12f540e116c30985f4f463f8e579f6] |
 | 8 | Schedule 9<br>Parts 1 to 8 | Regulatory signs at junctions and miscellaneous regulatory signs |
 | 9 | Schedule 10<br>Parts 1 to 3 | Signs for speed limits |
 | 10 | Schedule 11<br>Parts 1 to 6 | Signs that give information, are advisory or guide traffic |
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5f5773b3421ce97b913aba49e30df27d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-5f5773b3421ce97b913aba49e30df27d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1f5e6384f66a58821e7ce79462e1359f]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/362/regulation/3/3) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/111/regulation/3/2/a)
+[^c-1f5e6384f66a58821e7ce79462e1359f]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/362/regulation/3/3) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/111/regulation/3/2/a)
 
-[^key-7e12f540e116c30985f4f463f8e579f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/362/regulation/3/3) Table inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/111/regulation/3/2/b)
+[^c-7e12f540e116c30985f4f463f8e579f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/362/regulation/3/3) Table inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/111/regulation/3/2/b)

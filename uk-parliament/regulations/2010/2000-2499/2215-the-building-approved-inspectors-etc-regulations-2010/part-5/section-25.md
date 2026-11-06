@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Form, grounds and period for rejecting public body's plans certificate[^key-9448eaa20a2e81d1c0abcfa644e35b68]
+## 25. Form, grounds and period for rejecting public body's plans certificate[^c-9448eaa20a2e81d1c0abcfa644e35b68]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9448eaa20a2e81d1c0abcfa644e35b68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Pts. 2-5](https://www.legislation.gov.uk/uksi/2010/2215/part/2) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))
+[^c-9448eaa20a2e81d1c0abcfa644e35b68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2215) revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(i)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/i) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44)); and [Pts. 2-5](https://www.legislation.gov.uk/uksi/2010/2215/part/2) revoked (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/uksi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/1) (with [reg. 42(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1268/regulation/42/5))

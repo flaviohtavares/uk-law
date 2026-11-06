@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 291. Ending of rights of statutory undertakers and network operators[^key-a276055640c7fcad6d8b2f1a1d239a5b]
+## 291. Ending of rights of statutory undertakers and network operators[^c-a276055640c7fcad6d8b2f1a1d239a5b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a276055640c7fcad6d8b2f1a1d239a5b]: Commencement: S. 291 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a276055640c7fcad6d8b2f1a1d239a5b]: Commencement: S. 291 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

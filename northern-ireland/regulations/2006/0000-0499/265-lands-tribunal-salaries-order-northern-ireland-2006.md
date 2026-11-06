@@ -31,7 +31,7 @@ summary: ''
 
 LANDS TRIBUNAL
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 2006 (revoked)[^key-2878a11627e729c3cfaa7cc5cf87c06f]
+Lands Tribunal (Salaries) Order (Northern Ireland) 2006 (revoked)[^c-2878a11627e729c3cfaa7cc5cf87c06f]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 24th July 2006
 
-[^key-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-2878a11627e729c3cfaa7cc5cf87c06f]
+## 1. Title and commencement[^c-2878a11627e729c3cfaa7cc5cf87c06f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-2878a11627e729c3cfaa7cc5cf87c06f]
+## 2. Revocation[^c-2878a11627e729c3cfaa7cc5cf87c06f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-2878a11627e729c3cfaa7cc5cf87c06f]
+## 3. Increases in salaries[^c-2878a11627e729c3cfaa7cc5cf87c06f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2878a11627e729c3cfaa7cc5cf87c06f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2878a11627e729c3cfaa7cc5cf87c06f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/265) revoked (1.6.2007) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2007 (S.R. 2007/255)](https://www.legislation.gov.uk/nisr/2007/255), [arts. 1](https://www.legislation.gov.uk/nisr/2007/255/article/1), [2](https://www.legislation.gov.uk/nisr/2007/255/article/2)
+[^c-2878a11627e729c3cfaa7cc5cf87c06f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/265) revoked (1.6.2007) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2007 (S.R. 2007/255)](https://www.legislation.gov.uk/nisr/2007/255), [arts. 1](https://www.legislation.gov.uk/nisr/2007/255/article/1), [2](https://www.legislation.gov.uk/nisr/2007/255/article/2)

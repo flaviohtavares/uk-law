@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Official pensions: adjustment of increases in survivors' pensions[^key-75c4a88c580649a1a3cdd79ba2c1acef]
+## 137. Official pensions: adjustment of increases in survivors' pensions[^c-75c4a88c580649a1a3cdd79ba2c1acef]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c4a88c580649a1a3cdd79ba2c1acef]: Commencement: S. 137 in force at 13.3.2014 by [S.I. 2014/463](https://www.legislation.gov.uk/uksi/2014/463), [art. 2](https://www.legislation.gov.uk/uksi/2014/463/article/2)
+[^c-75c4a88c580649a1a3cdd79ba2c1acef]: Commencement: S. 137 in force at 13.3.2014 by [S.I. 2014/463](https://www.legislation.gov.uk/uksi/2014/463), [art. 2](https://www.legislation.gov.uk/uksi/2014/463/article/2)

@@ -31,20 +31,20 @@ Forgery of Foreign Bills Act 1803 (repealed)
 
 1803 c. 139
 
-[^key-ebb628c82d14f526f2d0d23120744fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebb628c82d14f526f2d0d23120744fec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.] Persons forging, &c., foreign bills of exchange, &c. or tendering the same in payment, guilty of felony, and liable to be transported.[^key-ebb628c82d14f526f2d0d23120744fec][^key-ebb628c82d14f526f2d0d23120744fec]
+## 1.] Persons forging, &c., foreign bills of exchange, &c. or tendering the same in payment, guilty of felony, and liable to be transported.[^c-ebb628c82d14f526f2d0d23120744fec][^c-ebb628c82d14f526f2d0d23120744fec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Persons engraving plates for foreign bills of exchange, &c., or printing them, without lawful authority, to be deemed guilty of a misdemeanour. Act not to alter any law in force for the punishment of forgery.[^key-ebb628c82d14f526f2d0d23120744fec][^key-ebb628c82d14f526f2d0d23120744fec]
+## 2. Persons engraving plates for foreign bills of exchange, &c., or printing them, without lawful authority, to be deemed guilty of a misdemeanour. Act not to alter any law in force for the punishment of forgery.[^c-ebb628c82d14f526f2d0d23120744fec][^c-ebb628c82d14f526f2d0d23120744fec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.—8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-ebb628c82d14f526f2d0d23120744fec][^key-ebb628c82d14f526f2d0d23120744fec]
+## 3.—8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-ebb628c82d14f526f2d0d23120744fec][^c-ebb628c82d14f526f2d0d23120744fec]
 
 ## Annotations
 
-[^key-ebb628c82d14f526f2d0d23120744fec]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo3/43/139) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 4
+[^c-ebb628c82d14f526f2d0d23120744fec]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo3/43/139) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 4

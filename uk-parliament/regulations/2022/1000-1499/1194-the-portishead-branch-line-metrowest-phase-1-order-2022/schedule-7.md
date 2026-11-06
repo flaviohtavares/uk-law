@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Access to works[^key-bb54671f728e633989f9229e45c56d00]
+## SCHEDULE 7 — Access to works[^c-bb54671f728e633989f9229e45c56d00]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ Article 17
 
 ## Annotations
 
-[^key-bb54671f728e633989f9229e45c56d00]: Commencement: Sch. 7 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-bb54671f728e633989f9229e45c56d00]: Commencement: Sch. 7 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

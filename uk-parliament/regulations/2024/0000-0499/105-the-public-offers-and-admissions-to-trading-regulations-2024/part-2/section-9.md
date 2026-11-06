@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Designated activities: public offers of relevant securities[^key-13c5de145c857b8902d569d7dcd20a85]
+## 9. Designated activities: public offers of relevant securities[^c-13c5de145c857b8902d569d7dcd20a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The following activities are specified under section 71K of FSMA 2000[^f00026] a
 
 ## Annotations
 
-[^key-13c5de145c857b8902d569d7dcd20a85]: Commencement: Reg. 9 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)
+[^c-13c5de145c857b8902d569d7dcd20a85]: Commencement: Reg. 9 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)
 
 [^f00026]: Footnote: Section 71K is inserted by section 8(2) of the Financial Services and Markets Act 2023.

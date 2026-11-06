@@ -43,13 +43,13 @@ The Department of Enterprise, Trade and Investment[^f00001], makes the following
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-91dcbdfead006ca910c55c4869b058c4]
+### 1. Citation, commencement and revocation[^c-91dcbdfead006ca910c55c4869b058c4]
 
 (1) These Regulations may be cited as the Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 2006 and shall come into operation on 13th February 2006.
 
 (2) The Regulations specified in Schedule 4 are hereby revoked.
 
-### 2. Interpretation[^key-6aac807850fabdb40669bfa7752557be]
+### 2. Interpretation[^c-6aac807850fabdb40669bfa7752557be]
 
 (1) In these Regulations—
 
@@ -131,7 +131,7 @@ The Department of Enterprise, Trade and Investment[^f00001], makes the following
 | Milligram | mg |
 | Millimetre | mm |
 
-### 3. Application[^key-dca1e61b6e46c0cf257fcd4fd8f33a9d]
+### 3. Application[^c-dca1e61b6e46c0cf257fcd4fd8f33a9d]
 
 (1) Subject to paragraphs (2) to (4), these Regulations shall apply to all non-automatic weighing machines for use for trade, and such machines are hereby prescribed for the purposes of Article 9(1) of the 1981 Order.
 
@@ -142,8 +142,8 @@ The Department of Enterprise, Trade and Investment[^f00001], makes the following
 - (c) machines for use for grading by reference to their weight for the purpose of trading transactions by reference to that grading, of hens' eggs in shell which are intended for human consumption;
 - (d) machines for use only for weighing paint (other than paste paint);
 - (e) machines for use only as vehicle check weighing machines and bearing a conspicuous notice to that effect;
-- (f)[^key-8cf5ab0704b9bb0512a99e9bb7f2ba56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-8cf5ab0704b9bb0512a99e9bb7f2ba56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-8cf5ab0704b9bb0512a99e9bb7f2ba56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-8cf5ab0704b9bb0512a99e9bb7f2ba56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) machines used for weighing persons which are made available for use by the public, whether on payment or otherwise;
 - (i) customer check weighing machines, that is to say, non-automatic weighing machines which, in accordance with Article 5(3)(a) of the 1981 Order, are made available for use for trade by prospective buyers of goods so that they may check the weight of the goods before purchasing them;
 
@@ -160,7 +160,7 @@ and in this paragraph “packages” means packages as defined in Article 30(1) 
 
 (5) Nothing in these Regulations shall apply to any non-automatic weighing machine which is an “instrument” to which the Non-automatic Weighing Instruments (EEC Requirements) Regulations 1995[^f00008] apply.
 
-### 4. Purposes of use for trade[^key-16a76ec7b607fa267ebb334a2139c29a]
+### 4. Purposes of use for trade[^c-16a76ec7b607fa267ebb334a2139c29a]
 
 (1) A non-automatic weighing machine marked with a weighing range may be used for trade for determining the weight of any item by ascertaining the difference between two weights (both of which fall within the weighing range), that is to say, the weight of that item and another item or items and the weight of that other or those other items only.
 
@@ -197,13 +197,13 @@ and in this paragraph “packages” means packages as defined in Article 30(1) 
 
 ## PART II — MATERIALS, PRINCIPLES OF CONSTRUCTION AND MARKING OF NON-AUTOMATIC WEIGHING MACHINES
 
-### 5. Parts of non-automatic weighing machines[^key-d1d4e9b73252410005a7003ff681ca49]
+### 5. Parts of non-automatic weighing machines[^c-d1d4e9b73252410005a7003ff681ca49]
 
 (1) Where a non-automatic weighing machine has interchangeable or reversible parts, the interchange or reversal thereof shall not affect its metrological characteristics.
 
 (2) The constituent parts of a non-automatic weighing machine shall be sufficiently strong to withstand the wear and tear of ordinary use in trade.
 
-### 6. Monetary indications[^key-dbc905a945b606face8555391972e3ea]
+### 6. Monetary indications[^c-dbc905a945b606face8555391972e3ea]
 
 (1) A non-automatic weighing machine shall not have monetary indications in units other than decimal currency units.
 
@@ -212,29 +212,29 @@ and in this paragraph “packages” means packages as defined in Article 30(1) 
 - (a) indicate in digital form during a weighing operation a part of a penny in the amount of the price to be paid by the buyer; or
 - (b) indicate the price in digital form and have any monetary indications in units of a part of a penny in vulgar fraction form which are capable of being used during a weighing operation to calculate the price.
 
-### 7. Manner of construction of the load receptor[^key-06eead7d73378bbdba2efcd920a05395]
+### 7. Manner of construction of the load receptor[^c-06eead7d73378bbdba2efcd920a05395]
 
 The load receptor of a non-automatic weighing machine shall be so constructed as to provide for easy and practicable weighings for all test purposes not exceeding the maximum capacity of that machine, unless otherwise specified in the published particulars of the approved pattern.
 
-### 8. Zero setting device[^key-12579bd9ba2b36c7cdb39bf47490c6ed]
+### 8. Zero setting device[^c-12579bd9ba2b36c7cdb39bf47490c6ed]
 
 Where a non-automatic weighing machine is fitted with a zero setting device designed to compensate for the wear and tear of ordinary use in trade, the device shall have a total range not exceeding 4 per cent. of the maximum capacity of that machine, or as specified in the published particulars of the approved pattern, as the case may be.
 
-### 9. Accuracy classification[^key-128b5dc3b07f9e92e1323db3825b0672]
+### 9. Accuracy classification[^c-128b5dc3b07f9e92e1323db3825b0672]
 
 Subject to regulation 10, every non-automatic weighing machine shall comply with the requirements in Schedule 1 for accuracy classification.
 
-### 10. Verification scale interval[^key-7d0ec14724c6abef8a5c0c011b218795]
+### 10. Verification scale interval[^c-7d0ec14724c6abef8a5c0c011b218795]
 
 In the case of a non-automatic weighing machine (being a non-graduated Class II machine with a maximum capacity of not less than 25 g and not more than 1 kg) which is used for trade in any transaction by retail in drugs or other pharmaceutical products, the verification scale interval “e” in Table 2 of Schedule 1 shall be within the range Max/2000 to Max/20000 inclusive.
 
-### 11. Adjustable levelling and level indicating devices[^key-b601dc2786a8b34fe1b23240e8e68bce]
+### 11. Adjustable levelling and level indicating devices[^c-b601dc2786a8b34fe1b23240e8e68bce]
 
 (1) Subject to paragraph (2), every non-automatic weighing machine shall be fitted with an adjustable levelling device or devices and one or more level indicating devices to cover all directions.
 
 (2) Nothing in paragraph (1) shall apply to a machine which is permanently installed, freely suspended, or is a Class II, Class III or Class IIII machine which meets the requirements of paragraph 16 in Part III of Schedule 2 in relation to machines without level indicating devices.
 
-### 12. Approved patterns[^key-5c7fdac8ebedf2820d64b45549e55004]
+### 12. Approved patterns[^c-5c7fdac8ebedf2820d64b45549e55004]
 
 (1) Subject to paragraphs (2) and (3), every non-automatic weighing machine shall be made in accordance with a pattern in respect of which a certificate of approval is in operation.
 
@@ -242,11 +242,11 @@ In the case of a non-automatic weighing machine (being a non-graduated Class II 
 
 (3) Nothing in paragraph (1) shall apply to a machine of the type known as “common form” which was first stamped before 1st August 1991.
 
-### 13. Drainage[^key-aea55f930b7db14281994d98b9c2321f]
+### 13. Drainage[^c-aea55f930b7db14281994d98b9c2321f]
 
 Where a non-automatic weighing machine is installed in a pit which forms the base and sides of the machine, the pit shall be provided with adequate drainage.
 
-### 14. Approved minimum load[^key-7d2bf5ad9c4cb6255cc0098038889395]
+### 14. Approved minimum load[^c-7d2bf5ad9c4cb6255cc0098038889395]
 
 (1) Subject to paragraphs (2) and (3), the approved minimum load for a non-automatic weighing machine shall be that specified in Schedule 1.
 
@@ -257,7 +257,7 @@ Where a non-automatic weighing machine is installed in a pit which forms the bas
 - (a) in the case of a Class II, III or IIII non-automatic weighing machine used for the purpose of determining postal or other tariffs, the approved minimum load (as indicated in relation to the machine in Table 2, 3 or 4 in Schedule 1, as the case may require) shall be not less than five times the scale interval “d” (for a graduated machine) or five times the verification scale interval “e” (for a non-graduated machine) specified in relation to the machine in that Table; and
 - (b) in the case of a non-automatic weighing machine which is balanced otherwise than at zero, the approved minimum load shall be determined by reference to the balanced position.
 
-### 15. Scale intervals[^key-673c651a9a8af6448ff7885efd23ef89]
+### 15. Scale intervals[^c-673c651a9a8af6448ff7885efd23ef89]
 
 (1) The graduated weight indicating, printing and tare devices of any non-automatic weighing machine first passed as fit for use for trade on or after 1st August 1991 shall—
 
@@ -271,7 +271,7 @@ Where a non-automatic weighing machine is installed in a pit which forms the bas
 - (a) to semi-self indicating machines, made in accordance with an approved pattern, having mechanical weight indicating devices with a range of self indication of 500 g; or
 - (b) to that part of any weighing result which is obtained by adding the values of weights or poises.
 
-### 16. Relevant markings[^key-4c0338185db100f2540a3cfaa6780071]
+### 16. Relevant markings[^c-4c0338185db100f2540a3cfaa6780071]
 
 (1) Every non-automatic weighing machine first passed as fit for use for trade before 1st February 1992 shall be legibly and durably marked either as in paragraph (2) or with—
 
@@ -307,7 +307,7 @@ Where a non-automatic weighing machine is installed in a pit which forms the bas
   - (iii) “d = …” and “d<sub>T</sub> = …” if different from “e = …” (the scale intervals of the graduated weight indicating and/or printing devices and graduated tare devices respectively);
   - (iv) in the case of a machine to which regulation 14(3) applies, “Min …” (where “ …” is the approved minimum load for the purpose of determining postal or other tariffs) and the words “for determining … tariffs” (where “ …” is the specific tariff for which the machine is used).
 
-### 17. Units of measurement[^key-2e7152389fff2523404b82f0a549036a]
+### 17. Units of measurement[^c-2e7152389fff2523404b82f0a549036a]
 
 (1) Where units of measurement are marked on non-automatic weighing machines first passed as fit for use for trade—
 
@@ -321,11 +321,11 @@ Where a non-automatic weighing machine is installed in a pit which forms the bas
 
 (2) Nothing in paragraph (1) shall authorise the use for trade of the ton, hundredweight, quarter, stone or grain in any circumstances, other than those permitted by regulations 10(2) and (4) of the Units of Measurement Regulations 1980[^f00010] or of the dram in any circumstances other than those permitted by regulations 4(2) and (3) of the Units of Measurement Regulations 1978[^f00011].
 
-### 18. Supplementary indications[^key-7f22e433c023ce1287939789f67dcab9]
+### 18. Supplementary indications[^c-7f22e433c023ce1287939789f67dcab9]
 
-Where a weight indicating device of a non-automatic weighing machine indicates the weight of a load in metric units of measurement that indication may also be given by means of a supplementary indication[^key-2509a81f33cf18f6d6158413a43c7142]....
+Where a weight indicating device of a non-automatic weighing machine indicates the weight of a load in metric units of measurement that indication may also be given by means of a supplementary indication[^c-2509a81f33cf18f6d6158413a43c7142]....
 
-### 19. Riders or other devices[^key-7fc3e52c20dd755b1aea088feb2f1f7a]
+### 19. Riders or other devices[^c-7fc3e52c20dd755b1aea088feb2f1f7a]
 
 Only a non-automatic weighing machine of Class I or Class II shall be provided with—
 
@@ -333,11 +333,11 @@ Only a non-automatic weighing machine of Class I or Class II shall be provided w
 - (b) a device for interpolation of reading; or
 - (c) an indicating device on which the last figure is clearly differentiated from the other figures.
 
-### 20. Unit price indications[^key-3f61d95a8a2e140b409ebb38f3873981]
+### 20. Unit price indications[^c-3f61d95a8a2e140b409ebb38f3873981]
 
 Where a non-automatic weighing machine shows price expressed as an amount of money per unit of weight, such unit of weight shall be expressed per hundred grams, per kilogram or per tonne.
 
-### 21. Customer check weighing and self service machines[^key-f8c10fa46630e1340c74e288b2755e05]
+### 21. Customer check weighing and self service machines[^c-f8c10fa46630e1340c74e288b2755e05]
 
 (1) Every non-automatic weighing machine which is in use for trade for operation by a prospective buyer for the purpose of making known to him the weight and where appropriate the price of goods selected by him shall—
 
@@ -350,7 +350,7 @@ Where a non-automatic weighing machine shows price expressed as an amount of mon
 - (b) have any bag provided for the goods selected by the prospective buyer such that the goods are readily visible through it; and
 - (c) only be used in connection with the sale of different commodities, other than commodities having the same unit price, provided that they are readily distinguishable from each other.
 
-### 22. Provision of sealing devices[^key-added61882771de92cace8fbe6d72404]
+### 22. Provision of sealing devices[^c-added61882771de92cace8fbe6d72404]
 
 Every non-automatic weighing machine shall be provided with—
 
@@ -361,31 +361,31 @@ Every non-automatic weighing machine shall be provided with—
 
 ## PART III — MANNER OF ERECTION AND USE FOR TRADE
 
-### 23. Restriction on use where level indicating devices are fitted[^key-e8bd69a81f719eb5a3eabb0493ad9d8f]
+### 23. Restriction on use where level indicating devices are fitted[^c-e8bd69a81f719eb5a3eabb0493ad9d8f]
 
 Where a non-automatic weighing machine is fitted with one or more level indicating devices, a person shall not use the machine for trade unless each device indicates that it has been set to its reference position.
 
-### 24. Restriction on use where temperature range is marked[^key-f9a1f201031b5a102021ede4f4ffd563]
+### 24. Restriction on use where temperature range is marked[^c-f9a1f201031b5a102021ede4f4ffd563]
 
 Where a non-automatic weighing machine is marked with a temperature range, a person shall not use the machine for trade in temperatures outside that range.
 
-### 25. Manner of use[^key-71f6f84f6aa50e4108d615cca64cef58]
+### 25. Manner of use[^c-71f6f84f6aa50e4108d615cca64cef58]
 
 Where a non-automatic weighing machine is marked with the manner of use, a person shall not use the machine for trade in a manner which does not accord with the marking.
 
-### 26. Manner of erection where weight or other printing device is fitted[^key-6270acf2ff0c55ea68cf4bb82ddb4988]
+### 26. Manner of erection where weight or other printing device is fitted[^c-6270acf2ff0c55ea68cf4bb82ddb4988]
 
 Where a non-automatic weighing machine is fitted with a weight or any other printing device, the machine shall be so erected and used that the printing device, when used, produces a clear and durable printout.
 
-### 27. Restriction on use when any live part is submerged in liquid[^key-a82c883fa56a88b91dd5923fed7cf069]
+### 27. Restriction on use when any live part is submerged in liquid[^c-a82c883fa56a88b91dd5923fed7cf069]
 
 A person shall not use for trade a non-automatic weighing machine when any live part is wholly or partly submerged in liquid, except as specified in the published particulars of the approved pattern.
 
-### 28. Manner of erection where load is stationery relative to load receptor[^key-ec5cb99dd0d99a36b3ab78c4d138c54b]
+### 28. Manner of erection where load is stationery relative to load receptor[^c-ec5cb99dd0d99a36b3ab78c4d138c54b]
 
 Every non-automatic weighing machine shall be erected and used in such a manner that, during a weighing operation, the load being weighed is stationary relative to the load receptor and supported only by the load receptor.
 
-### 29. Accessibility[^key-24b9eb0b05670b6d0807c0d725162397]
+### 29. Accessibility[^c-24b9eb0b05670b6d0807c0d725162397]
 
 Except as specified in the published particulars of the approved pattern, every non-automatic weighing machine shall be erected in such a manner that the operator can, notwithstanding the nature of the machine or its surroundings, readily take up a single position from which he can—
 
@@ -393,7 +393,7 @@ Except as specified in the published particulars of the approved pattern, every 
 - (b) operate the weighing machine’s controls; and
 - (c) obtain a weight reading from the weighing machine.
 
-### 30. Use of weights to determine the value of load in metric units[^key-cb365fa9d6248614fb9f2edbdc4bc3b7]
+### 30. Use of weights to determine the value of load in metric units[^c-cb365fa9d6248614fb9f2edbdc4bc3b7]
 
 (1) Subject to paragraph (2), every Class I or Class II non-automatic weighing machine, used in association with a weight or weights to determine the value of any load in terms of metric units of mass other than carat (metric) units, shall be used for trade for such purpose only in association with weights which bear the mark of EEC initial verification in accordance with—
 
@@ -402,7 +402,7 @@ Except as specified in the published particulars of the approved pattern, every 
 
 (2) The requirements of this regulation shall not apply to any non-automatic weighing machine for use for trade in any transaction by retail in drugs or other pharmaceutical products.
 
-### 31. Balance or zero setting[^key-ad2d144565c1f9091a9d54e366c6425e]
+### 31. Balance or zero setting[^c-ad2d144565c1f9091a9d54e366c6425e]
 
 (1) Subject to paragraph (2), every non-automatic weighing machine shall be properly balanced or set to zero immediately prior to use.
 
@@ -410,17 +410,17 @@ Except as specified in the published particulars of the approved pattern, every 
 
 ## PART IV — TESTING
 
-### 32. Pre-testing requirements[^key-f5bf2e8005a1ff4b4c09736b445a3f9f]
+### 32. Pre-testing requirements[^c-f5bf2e8005a1ff4b4c09736b445a3f9f]
 
 (1) Every non-automatic weighing machine submitted for testing shall be completely assembled and in a clean condition.
 
 (2) For the purposes of the performance by an inspector of his functions under the 1981 Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any non-automatic weighing machine, a person submitting such a machine to an inspector or who an inspector has reasonable cause to believe has control of such a machine for use for trade shall, if requested, provide for the inspector’s use such material or items required by regulations 34 and 35 as the inspector may reasonably require, and any material or items so provided shall be returned to the person in question.
 
-### 33. Permanent installations[^key-2689169059a42a1bf097d0b8ae677b0c]
+### 33. Permanent installations[^c-2689169059a42a1bf097d0b8ae677b0c]
 
 A non-automatic weighing machine which is to be permanently installed in the position in which it is to be used shall not be tested, passed as fit for use for trade and stamped unless it has been completely erected ready for use and installed in the position in which it is to be used.
 
-### 34. Testing by use of weights or testing equipment[^key-1571c24c0c7e2f2735e1bee6a3686d65]
+### 34. Testing by use of weights or testing equipment[^c-1571c24c0c7e2f2735e1bee6a3686d65]
 
 (1) Every non-automatic weighing machine, where the maximum load does not exceed 5 tonnes, shall be tested by the use of weights as set out in the following Table—
 
@@ -434,11 +434,11 @@ A non-automatic weighing machine which is to be permanently installed in the pos
 
 (3) In this regulation “Northern Ireland local standard weights”, “Northern Ireland working standard weights” and “Northern Ireland test weights” shall be construed in accordance with the 1981 Order.
 
-### 35. Operation by coin, currency note, credit card or other such device[^key-7ff50025b33a13324bcdfcbd9404e789]
+### 35. Operation by coin, currency note, credit card or other such device[^c-7ff50025b33a13324bcdfcbd9404e789]
 
 Every non-automatic weighing machine designed to be operated by means of a coin, currency note, credit card or other such device as specified in the published particulars of the approved pattern shall be tested by use of the coin, currency note, credit card or device as appropriate.
 
-### 36. Non-automatic weighing machines imported from an EEA State[^key-aaeb7275da4571d087b797b56347ec04]
+### 36. Non-automatic weighing machines imported from an EEA State[^c-aaeb7275da4571d087b797b56347ec04]
 
 (1) In relation to any non-automatic weighing machine imported into Northern Ireland from an EEA State, (whether directly or indirectly through Great Britain), subject to paragraph (4), an inspector shall not carry out any test in accordance with these Regulations if, together with the machine being imported, he is presented with the requisite documentation.
 
@@ -456,7 +456,7 @@ Every non-automatic weighing machine designed to be operated by means of a coin,
 - (a) as to the authenticity of the test report or the results presented to him; or
 - (b) that the test results presented to him are results which in fact relate to the machines being imported.
 
-### 37. Other testing requirements[^key-7c0e64c7663277be6a055ccc077a3074]
+### 37. Other testing requirements[^c-7c0e64c7663277be6a055ccc077a3074]
 
 (1) Subject to paragraph (2), every non-automatic weighing machine shall be tested in accordance with the appropriate testing procedures specified in Schedule 2 or, where appropriate, those specified in the published particulars of the approved pattern; provided that the procedures specified in paragraphs 15 and 16 of that Schedule shall not be carried out unless the inspector considers it necessary to do so having regard to the characteristics of the machine or to the particular circumstances.
 
@@ -464,11 +464,11 @@ Every non-automatic weighing machine designed to be operated by means of a coin,
 
 ## PART V — SUPPLEMENTARY PROVISIONS
 
-### 38. Prescribed limits of error[^key-a390e5b178e07a7f82febf6838cff6f0]
+### 38. Prescribed limits of error[^c-a390e5b178e07a7f82febf6838cff6f0]
 
 The prescribed limits of error relating to non-automatic weighing machines shall be those set out in Schedule 3.
 
-### 39. Passing as fit for use for trade[^key-2bfad6473b18dfa2413bbd16866acd17]
+### 39. Passing as fit for use for trade[^c-2bfad6473b18dfa2413bbd16866acd17]
 
 (1) Subject to paragraphs (2) to (5), no non-automatic weighing machine shall be passed as fit for use for trade unless—
 
@@ -494,19 +494,19 @@ which was first passed as fit for use for trade before 1st August 1991 may conti
 - (a) where the requisite documentation is presented in accordance with regulation 36, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in the relevant EEA State it fell within the prescribed limits of error; and
 - (b) it complies with all the relevant requirements of these Regulations.
 
-### 40. Stamping[^key-0b6cd601e78cf76c117f591ec566f874]
+### 40. Stamping[^c-0b6cd601e78cf76c117f591ec566f874]
 
 (1) The stamp shall be placed on the plug, stud or plate and on every sealing device referred to in regulation 22.
 
 (2) A non-automatic weighing machine shall not be stamped in accordance with paragraph (1) if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
-### 41. Obliteration of stamps[^key-6513fb4ba72ff00ab1631539312db2cf]
+### 41. Obliteration of stamps[^c-6513fb4ba72ff00ab1631539312db2cf]
 
 Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration—
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/5/images/nisr_20060005_en_005)
 
-### 42. Powers and duties of inspector in relation to obliteration of stamps[^key-24b6c1eae19bc19761f0fac24491fa28]
+### 42. Powers and duties of inspector in relation to obliteration of stamps[^c-24b6c1eae19bc19761f0fac24491fa28]
 
 (1) Subject to paragraphs (2) and (3), an inspector shall obliterate the stamp on any non-automatic weighing machine which—
 
@@ -517,7 +517,7 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (3) Notwithstanding paragraph (1)(a), in so far as concerns errors over the first part of the range, a non-automatic weighing machine (other than a self or semi-self indicating graduated machine with an analogue indicating device) which was first passed as fit for use for trade before 1st August 1991 may remain in use provided that the error in excess or deficiency over the first part of the range is within or equal to two verification scale intervals.
 
-### 43. Particular circumstances in which an inspector shall or may obliterate stamps[^key-3848c436a2d8bc0d0f8a1128e661da06]
+### 43. Particular circumstances in which an inspector shall or may obliterate stamps[^c-3848c436a2d8bc0d0f8a1128e661da06]
 
 (1) An inspector shall obliterate the stamp on any non-automatic weighing machine which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 39.
 
@@ -525,7 +525,7 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (3) Where a machine has been subjected to one or other of the occurrences in paragraph (2) and the chief inspector of weights and measures has been furnished in writing with details of the occurrence, an inspector may obliterate the stamp.
 
-### 44. Other circumstances in which an inspector may obliterate stamps[^key-e9d7085091b49c2e03739674027e1d43]
+### 44. Other circumstances in which an inspector may obliterate stamps[^c-e9d7085091b49c2e03739674027e1d43]
 
 An inspector may obliterate the stamp on any non-automatic weighing machine which—
 
@@ -536,13 +536,13 @@ An inspector may obliterate the stamp on any non-automatic weighing machine whic
   - (i) prevent the machine operating consistently and correctly, or
   - (ii) are likely prematurely to degrade the metrological characteristics of the machine.
 
-### 45. Consequences of obliteration of stamp[^key-d64ab2363d7c1cc803cf87d4daaac36b]
+### 45. Consequences of obliteration of stamp[^c-d64ab2363d7c1cc803cf87d4daaac36b]
 
 (1) For the purpose of these Regulations, the obliteration of any one stamp on any non-automatic weighing machine shall be deemed to be the obliteration of all other stamps on that machine.
 
 (2) Where the stamp on one non-automatic weighing machine forming part of an inter-connected system is obliterated, paragraph (1) shall not apply so as to prevent the system or any other machine in the system being used, provided that the integrity of the remainder of the system is unimpaired.
 
-### 46. “Out of use” notice[^key-d7d82914204c7aaf8b5f8c9c89c32971]
+### 46. “Out of use” notice[^c-d7d82914204c7aaf8b5f8c9c89c32971]
 
 Where the inspector has obliterated a stamp on a non-automatic weighing machine which is made available for use by the public (whether on payment or otherwise) he may attach to the machine a notice bearing the words—
 
@@ -564,39 +564,39 @@ Regulation 9
 
 ### PART I — General
 
-**1.**[^key-87b5482289128b9ccd8da7ec9c3a5446] Non-automatic weighing machines are divided into four classes of accuracy according to specifications set out in Parts II to V. The division depends on their characteristics as well as the provisions relating to maximum capacity, the lower limit of the minimum load, the number of scale intervals and the scale interval itself.
+**1.**[^c-87b5482289128b9ccd8da7ec9c3a5446] Non-automatic weighing machines are divided into four classes of accuracy according to specifications set out in Parts II to V. The division depends on their characteristics as well as the provisions relating to maximum capacity, the lower limit of the minimum load, the number of scale intervals and the scale interval itself.
 
-**2.**[^key-b9341f889c8fe8bacaaa7cb8131f217b] Where self and semi-self indicating machines are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the classification of the machines into accuracy classes, their number of scale intervals and their minimum load shall be determined by reference to the verification scale interval.
+**2.**[^c-b9341f889c8fe8bacaaa7cb8131f217b] Where self and semi-self indicating machines are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the classification of the machines into accuracy classes, their number of scale intervals and their minimum load shall be determined by reference to the verification scale interval.
 
-**3.**[^key-694b524122bf53de852e2c576b5dc3e6] In each weighing mode of a machine each of the tare, weight indicating and printing devices operable in that mode has an associated verification scale interval. In a different weighing mode the same devices may have different verification scale intervals. When testing a machine it is therefore necessary to determine the verification scale interval for each device in each of the weighing modes in which it is operable.
+**3.**[^c-694b524122bf53de852e2c576b5dc3e6] In each weighing mode of a machine each of the tare, weight indicating and printing devices operable in that mode has an associated verification scale interval. In a different weighing mode the same devices may have different verification scale intervals. When testing a machine it is therefore necessary to determine the verification scale interval for each device in each of the weighing modes in which it is operable.
 
-**4.**[^key-ef933ef80d57a578d986ead1b6a9a9e7] A weight indicating or printing device which, in any single weighing mode, has its weighing range divided into parts, each part having a different scale interval, will also have a different verification scale interval for each part. When testing in a particular weighing mode the relevant verification scale intervals are those associated with those devices in that mode.
+**4.**[^c-ef933ef80d57a578d986ead1b6a9a9e7] A weight indicating or printing device which, in any single weighing mode, has its weighing range divided into parts, each part having a different scale interval, will also have a different verification scale interval for each part. When testing in a particular weighing mode the relevant verification scale intervals are those associated with those devices in that mode.
 
-**5.**[^key-166fd2e997e5e1d16c824e6842a1c865] Each verification scale interval is—
+**5.**[^c-166fd2e997e5e1d16c824e6842a1c865] Each verification scale interval is—
 
 - (a) marked on the machine in accordance with the published particulars of the approved pattern or, if there are no such markings,
 - (b) specified in the relevant Table in Parts II to V.
 
-**6.**[^key-2c70457604cd07878f9316bd889b7ada] The presence of a tare device or of a verification device on the machine does not affect the classification of the machine, which depends on its own characteristics. These devices are considered as belonging to the class of accuracy of the machine to which they are attached irrespective of their own characteristics.
+**6.**[^c-2c70457604cd07878f9316bd889b7ada] The presence of a tare device or of a verification device on the machine does not affect the classification of the machine, which depends on its own characteristics. These devices are considered as belonging to the class of accuracy of the machine to which they are attached irrespective of their own characteristics.
 
-**7.**[^key-7dc84ee8bdd4194873fa0418bdb27883] For machines provided with several weight indicating or printing devices, each of the devices—
+**7.**[^c-7dc84ee8bdd4194873fa0418bdb27883] For machines provided with several weight indicating or printing devices, each of the devices—
 
 - (a) has its own minimum load, the value of which is determined from the appropriate Table in Parts II, III, IV or V, depending on its metrological characteristics; and
 - (b) has the same digital scale interval, which must be at most equal to the smallest of any analogue scale interval.
 
-**8.**[^key-a259448b300636558ecd85cc8d0ab555] For machines provided with graduated tare devices the smallest scale interval of the devices must be equal to the smallest scale interval of the machine to which it is fitted. The verification scale interval of these devices shall be equal to the smallest verification scale interval of the machine.
+**8.**[^c-a259448b300636558ecd85cc8d0ab555] For machines provided with graduated tare devices the smallest scale interval of the devices must be equal to the smallest scale interval of the machine to which it is fitted. The verification scale interval of these devices shall be equal to the smallest verification scale interval of the machine.
 
-**9.**[^key-5db914cb1cf61ef52c6ec5482dfc3d32] For machines fitted with a graduated verification device the scale interval of such an incorporated device must be at most equal to one-fifth of the scale interval of the machine.
+**9.**[^c-5db914cb1cf61ef52c6ec5482dfc3d32] For machines fitted with a graduated verification device the scale interval of such an incorporated device must be at most equal to one-fifth of the scale interval of the machine.
 
 ### PART II — Machines Designated Class I
 
-**10.**[^key-9eff9569cf15202c9227c4f19013ead9] A machine made in accordance with an approved pattern and which is or could be marked
+**10.**[^c-9eff9569cf15202c9227c4f19013ead9] A machine made in accordance with an approved pattern and which is or could be marked
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/5/images/nisr_20060005_en_001)
 
 is a Class I machine.
 
-**11.**[^key-8b82dd88644c736241b4683f7c713d7d] The specifications for non-graduated and graduated Class I machines are given in Table 1.
+**11.**[^c-8b82dd88644c736241b4683f7c713d7d] The specifications for non-graduated and graduated Class I machines are given in Table 1.
 
 **Table 1**
 
@@ -621,24 +621,24 @@ is a Class I machine.
 |  |  | ≤ 0.5 mg |  |  |
 | 100 g ≤ Max | 50 d | 1 mg ≤ d | 100 000 ≤ n | d |
 
-#### 1. Notes[^key-bcd0dda5e2b2397b2b84e6b012f48540]
+#### 1. Notes[^c-bcd0dda5e2b2397b2b84e6b012f48540]
 
 When a machine is provided with a rider its verification scale interval shall be the smaller of the following—
 
 - (i) the verification scale interval of the machine not taking into account the rider, or
 - (ii) the scale interval of the rider device.
 
-**2.**[^key-d3fb1abd7c32763932d30a0b81e5e379] When graduated machines of the self and semi-self indicating type are provided with a device for interpolation of reading, this shall not be taken into account when determining the verification scale interval of the machine.
+**2.**[^c-d3fb1abd7c32763932d30a0b81e5e379] When graduated machines of the self and semi-self indicating type are provided with a device for interpolation of reading, this shall not be taken into account when determining the verification scale interval of the machine.
 
-**3.**[^key-a93ec92ba298ec50e9e4482899f68ab0] When graduated machines of the self or semi-self indicating type are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the verification scale interval shall correspond to the last but one figure of the indication.
+**3.**[^c-a93ec92ba298ec50e9e4482899f68ab0] When graduated machines of the self or semi-self indicating type are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the verification scale interval shall correspond to the last but one figure of the indication.
 
-**4.**[^key-43838cbaeda9651725f0eb29290fe5f8] In the case of machines where the weight indicating or printing is in carat (metric) units or ounces troy the relevant capacity and verification scale interval shall be the amounts in carat (metric) or ounces troy respectively which are equivalent to those specified in the Table in terms of mg, g and kg.
+**4.**[^c-43838cbaeda9651725f0eb29290fe5f8] In the case of machines where the weight indicating or printing is in carat (metric) units or ounces troy the relevant capacity and verification scale interval shall be the amounts in carat (metric) or ounces troy respectively which are equivalent to those specified in the Table in terms of mg, g and kg.
 
-**5.**[^key-c049e64ac9d1dcaec23ddd7c240982b5] Where the equivalent metric value for an ounce troy scale interval falls between ranges then the value shall be considered as belonging to the lower range.
+**5.**[^c-c049e64ac9d1dcaec23ddd7c240982b5] Where the equivalent metric value for an ounce troy scale interval falls between ranges then the value shall be considered as belonging to the lower range.
 
 ### PART III — Machines Designated Class II
 
-**12.**[^key-7ca9ff329c48e6a16e732a8aed7a219d] A machine which is:
+**12.**[^c-7ca9ff329c48e6a16e732a8aed7a219d] A machine which is:
 
 - (a) made in accordance with an approved pattern and which is or could be marked
 
@@ -649,7 +649,7 @@ When a machine is provided with a rider its verification scale interval shall be
 
 is a Class II machine.
 
-**13.**[^key-132f178a7228620e9719f0fd35a2ce91] The specifications for non-graduated and graduated Class II machines are given in Table 2.
+**13.**[^c-132f178a7228620e9719f0fd35a2ce91] The specifications for non-graduated and graduated Class II machines are given in Table 2.
 
 **Table 2**
 
@@ -683,26 +683,26 @@ is a Class II machine.
 | 10 g ≤ Max ≤ 50 kg | 50 d | 10 mg ≤ d ≤ 500 mg | 1 000 ≤ n ≤ 100 000 | d |
 | 5 kg ≤ Max | 50 d | 1 g ≤ d | 5 000 ≤ n ≤ 100 000 | d |
 
-#### 1. Notes[^key-866a59ce1869d56390482e4c4c7ade8c]
+#### 1. Notes[^c-866a59ce1869d56390482e4c4c7ade8c]
 
 When a machine is provided with a rider its verification scale interval shall be the smaller of the following—
 
 - (i) the verification scale interval of the machine not taking into account the rider, or
 - (ii) the scale interval of the rider device.
 
-**2.**[^key-968b76aaadc99afee05eaf09e88cedc2] When graduated self or semi-self indicating machines are provided with a device for interpolation of reading, this shall not be taken into account when determining the verification scale interval of the machine.
+**2.**[^c-968b76aaadc99afee05eaf09e88cedc2] When graduated self or semi-self indicating machines are provided with a device for interpolation of reading, this shall not be taken into account when determining the verification scale interval of the machine.
 
-**3.**[^key-55133c66b985dae2e54675371e68cd69] When graduated self or semi-self indicating machines are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the verification scale interval shall correspond to the last but one figure of the indication.
+**3.**[^c-55133c66b985dae2e54675371e68cd69] When graduated self or semi-self indicating machines are provided with an indicating device on which the last figure is clearly differentiated from the other figures, the verification scale interval shall correspond to the last but one figure of the indication.
 
-**4.**[^key-ce1e3c1fa094b0cd00d4127b4403010a] Machines of a maximum capacity equal to or greater than 1 kg of an actual scale interval of 100 mg and of a verification scale interval of 1 g may belong to this class of machine, provided that the last figure is clearly differentiated from the other figures.
+**4.**[^c-ce1e3c1fa094b0cd00d4127b4403010a] Machines of a maximum capacity equal to or greater than 1 kg of an actual scale interval of 100 mg and of a verification scale interval of 1 g may belong to this class of machine, provided that the last figure is clearly differentiated from the other figures.
 
-**5.**[^key-8cfb59f9838d5ed09352328020a18824] In the case of machines where the weight indicating or printing is in carat (metric) units or ounces troy the relevant capacity and verification scale interval shall be the amounts in carat (metric) or ounces troy respectively which are equivalent to those specified in the Table in terms of mg, g and kg.
+**5.**[^c-8cfb59f9838d5ed09352328020a18824] In the case of machines where the weight indicating or printing is in carat (metric) units or ounces troy the relevant capacity and verification scale interval shall be the amounts in carat (metric) or ounces troy respectively which are equivalent to those specified in the Table in terms of mg, g and kg.
 
-**6.**[^key-5f9a2560d221ff5005191da4a5d834e9] Where the equivalent metric value for an ounce troy scale interval falls between ranges then the value shall be considered as belonging to the lower range.
+**6.**[^c-5f9a2560d221ff5005191da4a5d834e9] Where the equivalent metric value for an ounce troy scale interval falls between ranges then the value shall be considered as belonging to the lower range.
 
 ### PART IV — Machines Designated Class III
 
-**14.**[^key-b391b8c32e8c3e5e184bfda6a4a30c02] A machine which is—
+**14.**[^c-b391b8c32e8c3e5e184bfda6a4a30c02] A machine which is—
 
 - (a) made in accordance with an approved pattern and which is or could be marked
 
@@ -714,7 +714,7 @@ When a machine is provided with a rider its verification scale interval shall be
 
 is a Class III machine.
 
-**15.**[^key-a208704fed29ec0dd0ca20ad4af155bf] The specifications for non-graduated and graduated Class III machines are given in Table 3.
+**15.**[^c-a208704fed29ec0dd0ca20ad4af155bf] The specifications for non-graduated and graduated Class III machines are given in Table 3.
 
 **Table 3**
 
@@ -763,7 +763,7 @@ is a Class III machine.
 
 ### PART V — Machines Designated Class IIII
 
-**16.**[^key-67f71b73767bf5a6a97538d18920cf8e] A machine which is—
+**16.**[^c-67f71b73767bf5a6a97538d18920cf8e] A machine which is—
 
 - (a) made in accordance with an approved pattern and which is or could be marked
 
@@ -776,7 +776,7 @@ is a Class III machine.
 
 is a Class IIII machine.
 
-**17.**[^key-8ab63fd31ce5cf74799425cad5978b3f] The specifications for non-graduated and graduated Class IIII machines are given in Table 4.
+**17.**[^c-8ab63fd31ce5cf74799425cad5978b3f] The specifications for non-graduated and graduated Class IIII machines are given in Table 4.
 
 **Table 4**
 
@@ -806,38 +806,38 @@ Regulation 37
 
 ### PART I — General
 
-**1.**[^key-731efa712cb90a5d3d9be0763738ed48] Subject to the provisions of paragraph 17 on eccentric load testing and any special arrangements required to comply with regulation 7, test loads shall be distributed over the central areas of load and weight receptors.
+**1.**[^c-731efa712cb90a5d3d9be0763738ed48] Subject to the provisions of paragraph 17 on eccentric load testing and any special arrangements required to comply with regulation 7, test loads shall be distributed over the central areas of load and weight receptors.
 
-**2.**[^key-05c3c0258a2215ed08c39e7b0d70db5d] (1) Subject to the provisions of paragraph 16 on tilt testing, machines fitted with level indicating devices shall only be tested when the devices indicate that the machines have been set to their reference positions.
+**2.**[^c-05c3c0258a2215ed08c39e7b0d70db5d] (1) Subject to the provisions of paragraph 16 on tilt testing, machines fitted with level indicating devices shall only be tested when the devices indicate that the machines have been set to their reference positions.
 
 (2) Movable machines or machines having movable load or weight receptors—
 
 - (a) shall, if freestanding, subject to subparagraph (1) and the provisions of paragraph 16(d) and (e) on tilt testing, be supported during testing on a level plane and, if practicable, have their load and/or weight bearing surfaces set level; and
 - (b) shall, if designed to be suspended in use, be suspended during testing.
 
-**3.**[^key-d03ba90a6083dc797f4705cd0af53661] When taking test readings from digital weight indicators or printers, other than the readings required for comparison testing by paragraph 10 and the readings required for discrimination testing by paragraph 14, the inspector shall eliminate any rounding error either by using the change points between consecutive indicated or printed digits or by using test facilities on the device under test which increase the resolution of the weight indication or printout.
+**3.**[^c-d03ba90a6083dc797f4705cd0af53661] When taking test readings from digital weight indicators or printers, other than the readings required for comparison testing by paragraph 10 and the readings required for discrimination testing by paragraph 14, the inspector shall eliminate any rounding error either by using the change points between consecutive indicated or printed digits or by using test facilities on the device under test which increase the resolution of the weight indication or printout.
 
-**4.**[^key-c588e1fe959023aa747209e961948b0c] In the case of a machine having an automatic zero tracking device or devices, these devices shall be effectively disabled during testing, by adopting a non-zero indication or printout as zero-for-the purposes of testing, so that the test results are not materially affected by the action of any of the automatic zero tracking devices.
+**4.**[^c-c588e1fe959023aa747209e961948b0c] In the case of a machine having an automatic zero tracking device or devices, these devices shall be effectively disabled during testing, by adopting a non-zero indication or printout as zero-for-the purposes of testing, so that the test results are not materially affected by the action of any of the automatic zero tracking devices.
 
-**5.**[^key-f938a654f12f72a59fe57eebcbec9686] In the case of a machine of an approved pattern which, in the published particulars thereof, is described as having a weighing mode in which, with the load receptor empty—
+**5.**[^c-f938a654f12f72a59fe57eebcbec9686] In the case of a machine of an approved pattern which, in the published particulars thereof, is described as having a weighing mode in which, with the load receptor empty—
 
 - (a) the machine cannot be balanced, or
 - (b) an indicating, printing or tare device cannot be set to zero,
 
 then nothing in the provisions of Parts II and III shall require such balancing or setting, or prevent the machine from being fully tested.
 
-**6.**[^key-fa10dafe7e13fc8df98d101dbd08a877] When testing any machine, the inspector shall first ascertain—
+**6.**[^c-fa10dafe7e13fc8df98d101dbd08a877] When testing any machine, the inspector shall first ascertain—
 
 - (a) its accuracy classification, the verification scale intervals and weighing ranges of all the indicating, printing and tare devices, in accordance with the provisions of Schedule 1;
 - (b) the number of its weighing modes;
 - (c) for each of the indicating, printing and tare devices, the value of test load at which the prescribed limits of error change in value, in accordance with the provisions of Schedule 3; and
 - (d) the maximum loads of all the weight and load receptors and combinations of load receptors.
 
-**7.**[^key-141d2c95bb83e655b95f264ad4bb3b18] Where feasible, the inspector may combine tests or carry out several tests concurrently.
+**7.**[^c-141d2c95bb83e655b95f264ad4bb3b18] Where feasible, the inspector may combine tests or carry out several tests concurrently.
 
 ### PART II — Accuracy testing
 
-#### 8. Weight indicating and weight printing devices[^key-ad1e943b785bf8704754eb64d6a06161]
+#### 8. Weight indicating and weight printing devices[^c-ad1e943b785bf8704754eb64d6a06161]
 
 - (a) Subject to paragraph 5, the inspector shall first balance the machine with the load and weight receptors empty and all the tare, weight indicating and printing devices set to zero.
 - (b) For each weighing mode of the machine, each of the weight indicating and printing devices which are operable in that mode shall be tested for accuracy unless, in the inspector’s opinion, a lesser number of tests on any device is sufficient to establish or re-establish its fitness for use. During accuracy testing each device shall be tested at least once with increasing and decreasing loads unless it is described in the published particulars of the approved pattern as not to be so tested.
@@ -845,11 +845,11 @@ then nothing in the provisions of Parts II and III shall require such balancing 
 
 ### PART III — Other testing
 
-#### 9. Interpretation[^key-74c9280d53cfd4b776c4ce1974a074db]
+#### 9. Interpretation[^c-74c9280d53cfd4b776c4ce1974a074db]
 
 In this Part “absolute value” means the range of the limit of error from the maximum plus to the maximum minus allowed.
 
-#### 10. Comparison testing[^key-14d261b37aff8886e8c826e210190743]
+#### 10. Comparison testing[^c-14d261b37aff8886e8c826e210190743]
 
 - (a) Machines having a weighing mode in which it is possible to obtain more than one determination of any test load by means of more than one tare, weight indicating or printing devices shall, for each such weighing mode, be tested as described in subparagraphs (b) and (c).
 - (b) Testing shall be carried out for at least three different values of test load.
@@ -859,24 +859,24 @@ In this Part “absolute value” means the range of the limit of error from the
   - (iii) the smaller of the absolute values of the appropriate prescribed limits of error where the two readings are obtained from two analogue devices; or
   - (iv) either the absolute value of the appropriate prescribed limits of error of the analogue device or the scale interval of the digital device whichever is the greater, where one of the two readings is obtained from an analogue device and the other is obtained from a digital device.
 
-#### 11. Alternative load balancing arrangement testing[^key-90eb11bbe91c893aa3b1cfa508b6f8a3]
+#### 11. Alternative load balancing arrangement testing[^c-90eb11bbe91c893aa3b1cfa508b6f8a3]
 
 - (a) Machines having a weighing mode in which it is possible to obtain more than one determination of a single load by means of alternative load balancing arrangements shall, for each such weighing mode, be tested as described in subparagraphs (b) and (c).
 - (b) If feasible, testing of each alternative load balancing arrangement shall be carried out for at least three different values of test load.
 - (c) For each test load the inspector shall compare the two readings obtained from the alternative load balancing arrangements. The difference between these readings must not exceed the absolute value (or the smaller of the absolute values) of the appropriate prescribed limits of error for the load applied.
 
-#### 12. Repeatability testing[^key-9e77facf420fbebbe5c98e9d2e635ea9]
+#### 12. Repeatability testing[^c-9e77facf420fbebbe5c98e9d2e635ea9]
 
 - (a) Repeatability testing shall be carried out as appropriate to the machine under test, with the test load being removed and then re-deposited as nearly as practicable in the same position.
 - (b) The readings for each test load shall be compared. The difference between the highest and the lowest of them must not exceed half the absolute value of the appropriate prescribed limits of error for the load applied. All readings must also fall within the prescribed limits of error.
 - (c) Additional repeatability testing may be carried out on machines having other weight indicating or printing devices associated with the load receptor under test.
 
-#### 13. Price-to-pay testing[^key-e717b526df766401445140859e0e8409]
+#### 13. Price-to-pay testing[^c-e717b526df766401445140859e0e8409]
 
 - (a) By checking with several different weights and unit prices, the inspector shall satisfy himself that the machine computes the price-to-pay correctly.
 - (b) In the case of a machine with digital indication or printing of price-to-pay, the price computation shall be deemed to be correct if the difference between any indicated or printed price-to-pay and the product of its associated unit price and indicated or printed weight is not greater than half the value of the smallest monetary unit.
 
-#### 14. Discrimination testing[^key-2e4fa5896d03838c6a53b207893671f3]
+#### 14. Discrimination testing[^c-2e4fa5896d03838c6a53b207893671f3]
 
 - (a) Discrimination testing shall not be carried out on accelerating machines.
 - (b) Subject to sub-paragraph (a), discrimination testing shall be carried out with the machine loaded to the approved minimum load and maximum capacity, or as near as practicable thereto, using each load and weight receptor, or combination of receptors, separately with the associated indicating or printing device which has the smallest prescribed limit of error for the value of load used in the testing.
@@ -887,13 +887,13 @@ In this Part “absolute value” means the range of the limit of error from the
   - (i) in the case of analogue indication or printing be equivalent to the absolute value of the prescribed limit of error for the load on the receptor and shall always cause a permanent displacement of the indicating element corresponding to at least 0.7 times its value;
   - (ii) in the case of a digital indication or printing, be equivalent to 1.4 times the digital scale interval and shall always cause an increase in the reading of the intitial indication.
 
-#### 15. Level indicator testing[^key-5f64198ff1b13ba7005761b631d598a8]
+#### 15. Level indicator testing[^c-5f64198ff1b13ba7005761b631d598a8]
 
 - (a) The sensitivity of the level indicating devices shall be such that, in the case of Class I and Class II machines, for a longitudinal or transverse tilt not exceeding 2 parts in 1000, the moving part of the indicator is displaced by at least 2 mm.
 - (b) In the case of Class III and Class IIII machines, when a machine is tilted longitudinally or transversely until the moving part of the indicator shows a displacement of at least 2 mm, the zero load reading of the associated indicating or printing device does not change by more than two verification scale intervals.
 - (c) In the case of Class II, Class III and Class IIII machines additionally, for all loads, the variation between the indicated or printed results obtained in the reference position and the tilted position shall not exceed the value of the prescribed limit of error for the test load, the machine having been adjusted to zero or balanced in the no-load condition for both the reference and tilted positions.
 
-#### 16. Tilt testing[^key-d8a4dc057596579d07435f7155650aa5]
+#### 16. Tilt testing[^c-d8a4dc057596579d07435f7155650aa5]
 
 - (a) Tilt testing shall not be carried out on any machines which are permanently installed, freely suspended or Class I machines provided with adjustable levelling devices and one or more level indicating devices.
 - (b) Machines subject to tilt testing which are submitted with a view to being passed for the first time as fit for use for trade shall be tested as described in subparagraphs (c) to (e). An inspector may, at his discretion, carry out tilt testing at other times on machines which are subject to such testing.
@@ -908,13 +908,13 @@ In this Part “absolute value” means the range of the limit of error from the
 
   the indication shall not vary by more than one verification scale interval when the maximum load is applied.
 
-#### 17. Eccentric load testing[^key-a6dffe4572a4ee25d3889c4c766b3b52]
+#### 17. Eccentric load testing[^c-a6dffe4572a4ee25d3889c4c766b3b52]
 
 - (a) Machines shall be subjected to eccentric load testing using each load and weight receptor, or combination of receptors, separately in association with the indicating or printing device which has the smallest prescribed limits of error for the value of load used in the testing.
 - (b) Subject to paragraph 5, the inspector shall first balance the machine with the load and weight receptors empty and all the tare, weight indicating and printing devices set to zero.
 - (c) The receptor shall then be loaded as specified in paragraph 18. The weight reading shall be noted for each specified position of the test load. For each weight reading the error must not exceed the appropriate prescribed limit of error.
 
-**18.**[^key-901574bb9ac6e7ff340dddff2c405b17]
+**18.**[^c-901574bb9ac6e7ff340dddff2c405b17]
 
 - (a) Subject to sub-paragraph (b)—
   - (i) in the case of a load receptor having four or fewer supports, a test load equal to one-third of the maximum load shall be applied in turn to each of the four quarter segments of the load receptor, each quarter segment being as nearly as is practicable equal to one quarter in area of the receptor; or
@@ -923,12 +923,12 @@ In this Part “absolute value” means the range of the limit of error from the
   - (iii) in the case of a machine which falls within head (i) or (ii) but which has a load receptor in the form of a tank or hopper where the off-centre loading is minimal, a test load which is equal to one-tenth of the maximum load shall be applied to each point of support of the load receptor.
 - (b) In the case of a machine used for weighing vehicles of any description, a test load which is as nearly as practicable equal to, but in the event does not exceed, four-fifths of the maximum load shall also be applied at both ends and in the middle of the load receptor in all directions of movement of the vehicle on the load receptor.
 
-#### 19. Locking or relieving gear testing[^key-73476a427a96aa46de27fd43d00fb028]
+#### 19. Locking or relieving gear testing[^c-73476a427a96aa46de27fd43d00fb028]
 
 - (a) Load and weight receptors which have associated locking or relieving devices shall, when supporting one-half of their maximum load, be eased into and out of lock or relief. This action must not cause the machine, in its unlocked or unrelieved position, to give any indication or printout which is in error by more than the appropriate prescribed limit of error.
 - (b) Such devices must not be able to be placed in intermediate positions.
 
-#### 20. Backbalance testing[^key-2d4147ae826325c6209f3054b5b7e46d]
+#### 20. Backbalance testing[^c-2d4147ae826325c6209f3054b5b7e46d]
 
 - (a) Backbalance testing shall be carried out only on accelerating machines.
 - (b) In backbalance testing the maximum load shall first be placed on the load receptor and the machine balanced so that the beam or indicating element only just maintains its horizontal position on its stop or carrier. The beam or indicating element shall then be moved to its position of greatest displacement from the horizontal position, after which the load on the load receptor shall be reduced by the minimum amount which is required to restore the beam or indicating element to its horizontal position.
@@ -938,7 +938,7 @@ In this Part “absolute value” means the range of the limit of error from the
 
 Regulations 37 and 38
 
-**1.**[^key-a1828334023001f2ff230f5ab785c2e1] Subject to paragraphs 2 and 3, the prescribed limits of error expressed in terms of “e”, the relevant verification scale interval of the device under test, shall be those set out in the Table.
+**1.**[^c-a1828334023001f2ff230f5ab785c2e1] Subject to paragraphs 2 and 3, the prescribed limits of error expressed in terms of “e”, the relevant verification scale interval of the device under test, shall be those set out in the Table.
 
 **Table**
 
@@ -968,13 +968,13 @@ Regulations 37 and 38
 </tbody>
 </table>
 
-### 2. Note[^key-631c0a22feee33601f3fea088a59bfdc]
+### 2. Note[^c-631c0a22feee33601f3fea088a59bfdc]
 
 When testing a weight indicating or printing device, in a weighing mode in which tare devices other than those within paragraph (b) of the definition of “tare device” in regulation 2 are operable, the ranges listed in column 4 of the Table shall be increased by the corresponding tare value.
 
 An indicating or printing device which, in any single weighing mode, has more than one verification scale interval, each of which relates exclusively to a particular part of the weighing range, shall have, for each particular part, those error allowances which would apply if the complete weighing range had the verification scale interval which relates to that particular part.
 
-**3.**[^key-07205297a82112b81d6e8aeae0e18ce5] In the case where—
+**3.**[^c-07205297a82112b81d6e8aeae0e18ce5] In the case where—
 
 - (a) a machine has had its stamp obliterated under regulation 43(2) because of an alteration or adjustment involving only the replacement or addition of a dial, chart or pointer, and
 - (b) the purpose of the alteration or adjustment was to modify an imperial machine to indicate weight in metric units, and
@@ -984,18 +984,18 @@ An indicating or printing device which, in any single weighing mode, has more th
 
   the appropriate prescribed limits of error upon the first retesting of such a machine with a view to its being passed as fit for use for trade shall be those set out in the Table in paragraph 1 as being applicable in relation to the obliteration of stamps.
 
-**4.**[^key-75b7764a8de8daf6620591b95256ec70] The requirements referred to in paragraph 3(c)(i) are that the chief inspector of weights and measures is furnished by the person carrying out the alteration or adjustment with the following particulars, namely—
+**4.**[^c-75b7764a8de8daf6620591b95256ec70] The requirements referred to in paragraph 3(c)(i) are that the chief inspector of weights and measures is furnished by the person carrying out the alteration or adjustment with the following particulars, namely—
 
 - (a) his name and address;
 - (b) particulars by which the machine may be identified;
 - (c) the name and address of the person who will first use the machine for trade after its alteration or adjustment and the address at which it will be so used or, if those particulars are not known, an address at which the machine will be available for inspection;
 - (d) confirmation that the modification consisted only of the replacement or addition of a chart, dial or pointer.
 
-## SCHEDULE 4 — REGULATIONS REVOKED[^key-2c34096c02e3571b764d8d78566dc167]
+## SCHEDULE 4 — REGULATIONS REVOKED[^c-2c34096c02e3571b764d8d78566dc167]
 
 Regulation 1(2)
 
-[^key-2c34096c02e3571b764d8d78566dc167]
+[^c-2c34096c02e3571b764d8d78566dc167]
 
 - The Weighing Equipment (Non-automatic Weighing Machines) Regulations (Northern Ireland) 1991 except regulation 46 and Schedule 1.
 - The Weighing Equipment (Non-automatic Weighing Machines) (Amendment) Regulations (Northern Ireland) 1992.
@@ -1027,9 +1027,9 @@ The Regulations make provision as to:
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
 
-[^key-91dcbdfead006ca910c55c4869b058c4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/5/regulation/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-91dcbdfead006ca910c55c4869b058c4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/5/regulation/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-6aac807850fabdb40669bfa7752557be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/5/regulation/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-6aac807850fabdb40669bfa7752557be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/5/regulation/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1988/186](https://www.legislation.gov.uk/uksi/1988/186) as amended by [S.I. 1988/1128](https://www.legislation.gov.uk/uksi/1988/1128)
 
@@ -1037,212 +1037,212 @@ The Regulations make provision as to:
 
 [^f00006]: Footnote: [S.R. & O. 1969 No. 11](https://www.legislation.gov.uk/nisro/1969/11) as amended by [S.R. 2002 No. 36](https://www.legislation.gov.uk/nisr/2002/36)
 
-[^key-dca1e61b6e46c0cf257fcd4fd8f33a9d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/5/regulation/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-dca1e61b6e46c0cf257fcd4fd8f33a9d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/5/regulation/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-8cf5ab0704b9bb0512a99e9bb7f2ba56]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/nisr/2006/5/regulation/3/2/f)[(g)](https://www.legislation.gov.uk/nisr/2006/5/regulation/3/2/g) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/part/2/paragraph/16) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
+[^c-8cf5ab0704b9bb0512a99e9bb7f2ba56]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/nisr/2006/5/regulation/3/2/f)[(g)](https://www.legislation.gov.uk/nisr/2006/5/regulation/3/2/g) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/part/2/paragraph/16) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
 
 [^f00008]: Footnote: [S.I. 1995/1907](https://www.legislation.gov.uk/uksi/1995/1907) as amended by [S.I. 1997/3035](https://www.legislation.gov.uk/uksi/1997/3035) and [S.I. 1998/2994](https://www.legislation.gov.uk/uksi/1998/2994)
 
-[^key-16a76ec7b607fa267ebb334a2139c29a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/5/regulation/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-16a76ec7b607fa267ebb334a2139c29a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/5/regulation/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. & O. (N.I.) 1967 No. 237](https://www.legislation.gov.uk/nisro/1967/237) as amended by [S.R. & O. (N.I.) 1971 No. 114](https://www.legislation.gov.uk/nisro/1971/114), [S.R. & O. (N.I.) 1974 No. 280](https://www.legislation.gov.uk/nisr/1974/280), [S.R. 1991 No. 266](https://www.legislation.gov.uk/nisr/1991/266), [S.R. 1993 No. 441](https://www.legislation.gov.uk/nisr/1993/441), [S.R. 1994 No. 322](https://www.legislation.gov.uk/nisr/1994/322) and [S.R. 1998 No. 48](https://www.legislation.gov.uk/nisr/1998/48)
 
-[^key-d1d4e9b73252410005a7003ff681ca49]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/5/regulation/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d1d4e9b73252410005a7003ff681ca49]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/5/regulation/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-dbc905a945b606face8555391972e3ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/5/regulation/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-dbc905a945b606face8555391972e3ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/5/regulation/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-06eead7d73378bbdba2efcd920a05395]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/5/regulation/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-06eead7d73378bbdba2efcd920a05395]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/5/regulation/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-12579bd9ba2b36c7cdb39bf47490c6ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/5/regulation/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-12579bd9ba2b36c7cdb39bf47490c6ed]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/5/regulation/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-128b5dc3b07f9e92e1323db3825b0672]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/5/regulation/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-128b5dc3b07f9e92e1323db3825b0672]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/5/regulation/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-7d0ec14724c6abef8a5c0c011b218795]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/5/regulation/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7d0ec14724c6abef8a5c0c011b218795]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/5/regulation/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-b601dc2786a8b34fe1b23240e8e68bce]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/5/regulation/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-b601dc2786a8b34fe1b23240e8e68bce]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/5/regulation/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-5c7fdac8ebedf2820d64b45549e55004]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/5/regulation/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-5c7fdac8ebedf2820d64b45549e55004]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/5/regulation/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-aea55f930b7db14281994d98b9c2321f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/5/regulation/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-aea55f930b7db14281994d98b9c2321f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/5/regulation/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-7d2bf5ad9c4cb6255cc0098038889395]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/5/regulation/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7d2bf5ad9c4cb6255cc0098038889395]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/5/regulation/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-673c651a9a8af6448ff7885efd23ef89]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/5/regulation/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-673c651a9a8af6448ff7885efd23ef89]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/5/regulation/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-4c0338185db100f2540a3cfaa6780071]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/5/regulation/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-4c0338185db100f2540a3cfaa6780071]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/5/regulation/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2e7152389fff2523404b82f0a549036a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/5/regulation/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2e7152389fff2523404b82f0a549036a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/5/regulation/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1980/1070](https://www.legislation.gov.uk/uksi/1980/1070); the relevant amending instrument is [S.I. 1980/1742](https://www.legislation.gov.uk/uksi/1980/1742)
 
 [^f00011]: Footnote: [S.I. 1978/484](https://www.legislation.gov.uk/uksi/1978/484); the relevant amending instrument is [S.I. 1980/1742](https://www.legislation.gov.uk/uksi/1980/1742)
 
-[^key-7f22e433c023ce1287939789f67dcab9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/5/regulation/18) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7f22e433c023ce1287939789f67dcab9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/5/regulation/18) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2509a81f33cf18f6d6158413a43c7142]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2006/5/regulation/18) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/3)
+[^c-2509a81f33cf18f6d6158413a43c7142]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2006/5/regulation/18) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/3)
 
-[^key-7fc3e52c20dd755b1aea088feb2f1f7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/5/regulation/19) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7fc3e52c20dd755b1aea088feb2f1f7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/5/regulation/19) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-3f61d95a8a2e140b409ebb38f3873981]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/5/regulation/20) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-3f61d95a8a2e140b409ebb38f3873981]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/5/regulation/20) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-f8c10fa46630e1340c74e288b2755e05]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/5/regulation/21) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-f8c10fa46630e1340c74e288b2755e05]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/5/regulation/21) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-added61882771de92cace8fbe6d72404]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/5/regulation/22) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-added61882771de92cace8fbe6d72404]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/5/regulation/22) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-e8bd69a81f719eb5a3eabb0493ad9d8f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/5/regulation/23) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-e8bd69a81f719eb5a3eabb0493ad9d8f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/5/regulation/23) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-f9a1f201031b5a102021ede4f4ffd563]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/5/regulation/24) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-f9a1f201031b5a102021ede4f4ffd563]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/5/regulation/24) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-71f6f84f6aa50e4108d615cca64cef58]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/5/regulation/25) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-71f6f84f6aa50e4108d615cca64cef58]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/5/regulation/25) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-6270acf2ff0c55ea68cf4bb82ddb4988]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/5/regulation/26) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-6270acf2ff0c55ea68cf4bb82ddb4988]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/5/regulation/26) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a82c883fa56a88b91dd5923fed7cf069]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/5/regulation/27) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a82c883fa56a88b91dd5923fed7cf069]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/5/regulation/27) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-ec5cb99dd0d99a36b3ab78c4d138c54b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/5/regulation/28) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-ec5cb99dd0d99a36b3ab78c4d138c54b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/5/regulation/28) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-24b9eb0b05670b6d0807c0d725162397]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/5/regulation/29) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-24b9eb0b05670b6d0807c0d725162397]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/5/regulation/29) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-cb365fa9d6248614fb9f2edbdc4bc3b7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/5/regulation/30) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-cb365fa9d6248614fb9f2edbdc4bc3b7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/5/regulation/30) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
 [^f00012]: Footnote: O.J. No. L84, 28.3.1974, p. 3
 
-[^key-ad2d144565c1f9091a9d54e366c6425e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/5/regulation/31) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-ad2d144565c1f9091a9d54e366c6425e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/5/regulation/31) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-f5bf2e8005a1ff4b4c09736b445a3f9f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/5/regulation/32) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-f5bf2e8005a1ff4b4c09736b445a3f9f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/5/regulation/32) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2689169059a42a1bf097d0b8ae677b0c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/5/regulation/33) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2689169059a42a1bf097d0b8ae677b0c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/5/regulation/33) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-1571c24c0c7e2f2735e1bee6a3686d65]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/5/regulation/34) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-1571c24c0c7e2f2735e1bee6a3686d65]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/5/regulation/34) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-7ff50025b33a13324bcdfcbd9404e789]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/5/regulation/35) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7ff50025b33a13324bcdfcbd9404e789]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/5/regulation/35) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-aaeb7275da4571d087b797b56347ec04]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/5/regulation/36) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-aaeb7275da4571d087b797b56347ec04]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/5/regulation/36) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
 [^f00013]: Footnote: EN 45001 is a European Standard which has the status of a British Standard; it is identical with BS 7501 (ISBN 0 580 17939 7), “General criteria for the operation of testing laboratories”
 
-[^key-7c0e64c7663277be6a055ccc077a3074]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/5/regulation/37) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7c0e64c7663277be6a055ccc077a3074]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/5/regulation/37) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a390e5b178e07a7f82febf6838cff6f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/5/regulation/38) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a390e5b178e07a7f82febf6838cff6f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/5/regulation/38) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2bfad6473b18dfa2413bbd16866acd17]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/5/regulation/39) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2bfad6473b18dfa2413bbd16866acd17]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/5/regulation/39) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-0b6cd601e78cf76c117f591ec566f874]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/5/regulation/40) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-0b6cd601e78cf76c117f591ec566f874]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/5/regulation/40) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-6513fb4ba72ff00ab1631539312db2cf]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/5/regulation/41) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-6513fb4ba72ff00ab1631539312db2cf]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/5/regulation/41) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-24b6c1eae19bc19761f0fac24491fa28]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/5/regulation/42) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-24b6c1eae19bc19761f0fac24491fa28]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/5/regulation/42) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-3848c436a2d8bc0d0f8a1128e661da06]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/5/regulation/43) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-3848c436a2d8bc0d0f8a1128e661da06]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/5/regulation/43) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-e9d7085091b49c2e03739674027e1d43]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/5/regulation/44) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-e9d7085091b49c2e03739674027e1d43]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/5/regulation/44) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-d64ab2363d7c1cc803cf87d4daaac36b]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/5/regulation/45) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d64ab2363d7c1cc803cf87d4daaac36b]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/5/regulation/45) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-d7d82914204c7aaf8b5f8c9c89c32971]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/5/regulation/46) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d7d82914204c7aaf8b5f8c9c89c32971]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/5/regulation/46) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-87b5482289128b9ccd8da7ec9c3a5446]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-87b5482289128b9ccd8da7ec9c3a5446]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-b9341f889c8fe8bacaaa7cb8131f217b]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-b9341f889c8fe8bacaaa7cb8131f217b]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-694b524122bf53de852e2c576b5dc3e6]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-694b524122bf53de852e2c576b5dc3e6]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-ef933ef80d57a578d986ead1b6a9a9e7]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-ef933ef80d57a578d986ead1b6a9a9e7]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-166fd2e997e5e1d16c824e6842a1c865]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-166fd2e997e5e1d16c824e6842a1c865]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2c70457604cd07878f9316bd889b7ada]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2c70457604cd07878f9316bd889b7ada]: Commencement: [Sch. 1 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/I/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-7dc84ee8bdd4194873fa0418bdb27883]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7dc84ee8bdd4194873fa0418bdb27883]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a259448b300636558ecd85cc8d0ab555]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a259448b300636558ecd85cc8d0ab555]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-5db914cb1cf61ef52c6ec5482dfc3d32]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-5db914cb1cf61ef52c6ec5482dfc3d32]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-9eff9569cf15202c9227c4f19013ead9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-9eff9569cf15202c9227c4f19013ead9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-8b82dd88644c736241b4683f7c713d7d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-8b82dd88644c736241b4683f7c713d7d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-bcd0dda5e2b2397b2b84e6b012f48540]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-bcd0dda5e2b2397b2b84e6b012f48540]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-d3fb1abd7c32763932d30a0b81e5e379]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d3fb1abd7c32763932d30a0b81e5e379]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a93ec92ba298ec50e9e4482899f68ab0]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a93ec92ba298ec50e9e4482899f68ab0]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-43838cbaeda9651725f0eb29290fe5f8]: Commencement: [Sch. 1 Pt. II para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-43838cbaeda9651725f0eb29290fe5f8]: Commencement: [Sch. 1 Pt. II para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-c049e64ac9d1dcaec23ddd7c240982b5]: Commencement: [Sch. 1 Pt. II para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-c049e64ac9d1dcaec23ddd7c240982b5]: Commencement: [Sch. 1 Pt. II para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/II/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-7ca9ff329c48e6a16e732a8aed7a219d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-7ca9ff329c48e6a16e732a8aed7a219d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-132f178a7228620e9719f0fd35a2ce91]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-132f178a7228620e9719f0fd35a2ce91]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-866a59ce1869d56390482e4c4c7ade8c]: Commencement: [Sch. 1 Pt. III para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-866a59ce1869d56390482e4c4c7ade8c]: Commencement: [Sch. 1 Pt. III para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-968b76aaadc99afee05eaf09e88cedc2]: Commencement: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-968b76aaadc99afee05eaf09e88cedc2]: Commencement: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-55133c66b985dae2e54675371e68cd69]: Commencement: [Sch. 1 Pt. III para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-55133c66b985dae2e54675371e68cd69]: Commencement: [Sch. 1 Pt. III para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-ce1e3c1fa094b0cd00d4127b4403010a]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-ce1e3c1fa094b0cd00d4127b4403010a]: Commencement: [Sch. 1 Pt. III para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-8cfb59f9838d5ed09352328020a18824]: Commencement: [Sch. 1 Pt. III para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-8cfb59f9838d5ed09352328020a18824]: Commencement: [Sch. 1 Pt. III para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-5f9a2560d221ff5005191da4a5d834e9]: Commencement: [Sch. 1 Pt. III para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-5f9a2560d221ff5005191da4a5d834e9]: Commencement: [Sch. 1 Pt. III para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/part/III/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-b391b8c32e8c3e5e184bfda6a4a30c02]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-b391b8c32e8c3e5e184bfda6a4a30c02]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a208704fed29ec0dd0ca20ad4af155bf]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a208704fed29ec0dd0ca20ad4af155bf]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-67f71b73767bf5a6a97538d18920cf8e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-67f71b73767bf5a6a97538d18920cf8e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-8ab63fd31ce5cf74799425cad5978b3f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-8ab63fd31ce5cf74799425cad5978b3f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/2006/5/schedule/1/paragraph/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-731efa712cb90a5d3d9be0763738ed48]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-731efa712cb90a5d3d9be0763738ed48]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-05c3c0258a2215ed08c39e7b0d70db5d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-05c3c0258a2215ed08c39e7b0d70db5d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-d03ba90a6083dc797f4705cd0af53661]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d03ba90a6083dc797f4705cd0af53661]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-c588e1fe959023aa747209e961948b0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-c588e1fe959023aa747209e961948b0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-f938a654f12f72a59fe57eebcbec9686]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-f938a654f12f72a59fe57eebcbec9686]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/5) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-fa10dafe7e13fc8df98d101dbd08a877]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-fa10dafe7e13fc8df98d101dbd08a877]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/6) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-141d2c95bb83e655b95f264ad4bb3b18]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-141d2c95bb83e655b95f264ad4bb3b18]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/7) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-ad1e943b785bf8704754eb64d6a06161]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-ad1e943b785bf8704754eb64d6a06161]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/8) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-74c9280d53cfd4b776c4ce1974a074db]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-74c9280d53cfd4b776c4ce1974a074db]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/9) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-14d261b37aff8886e8c826e210190743]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-14d261b37aff8886e8c826e210190743]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/10) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-90eb11bbe91c893aa3b1cfa508b6f8a3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-90eb11bbe91c893aa3b1cfa508b6f8a3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/11) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-9e77facf420fbebbe5c98e9d2e635ea9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-9e77facf420fbebbe5c98e9d2e635ea9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/12) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-e717b526df766401445140859e0e8409]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-e717b526df766401445140859e0e8409]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/13) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2e4fa5896d03838c6a53b207893671f3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2e4fa5896d03838c6a53b207893671f3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/14) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-5f64198ff1b13ba7005761b631d598a8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-5f64198ff1b13ba7005761b631d598a8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/15) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-d8a4dc057596579d07435f7155650aa5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-d8a4dc057596579d07435f7155650aa5]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/16) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a6dffe4572a4ee25d3889c4c766b3b52]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a6dffe4572a4ee25d3889c4c766b3b52]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/17) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-901574bb9ac6e7ff340dddff2c405b17]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/18) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-901574bb9ac6e7ff340dddff2c405b17]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/18) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-73476a427a96aa46de27fd43d00fb028]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/19) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-73476a427a96aa46de27fd43d00fb028]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/19) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2d4147ae826325c6209f3054b5b7e46d]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/20) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2d4147ae826325c6209f3054b5b7e46d]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2006/5/schedule/2/paragraph/20) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-a1828334023001f2ff230f5ab785c2e1]: Commencement: [Sch. 3 para. 1n1](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/1n1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-a1828334023001f2ff230f5ab785c2e1]: Commencement: [Sch. 3 para. 1n1](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/1n1) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-631c0a22feee33601f3fea088a59bfdc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-631c0a22feee33601f3fea088a59bfdc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/2) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-07205297a82112b81d6e8aeae0e18ce5]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-07205297a82112b81d6e8aeae0e18ce5]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/3) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-75b7764a8de8daf6620591b95256ec70]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-75b7764a8de8daf6620591b95256ec70]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/3/paragraph/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
 
-[^key-2c34096c02e3571b764d8d78566dc167]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)
+[^c-2c34096c02e3571b764d8d78566dc167]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/5/schedule/4) in operation at 13.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/5/regulation/1/1)

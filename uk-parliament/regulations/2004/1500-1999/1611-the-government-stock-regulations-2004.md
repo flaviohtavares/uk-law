@@ -39,15 +39,15 @@ Coming into force in accordance with article 1
 
 Whereas a draft of these Regulations has been laid before Parliament under section 6(2) of the Statutory Instruments Act 1946[^f00001] (which supersedes section 47(3) of the Finance Act 1942[^f00002]) and a period of forty days beginning with the date of laying has expired and neither House has resolved that the Regulations be not made:
 
-Now, therefore, the Treasury, in exercise of the powers conferred upon them by section 47 of the Finance Act 1942, hereby make the following Regulations:[^key-fc0c16c52f5d7c7654891d1e6ccc07ef]
+Now, therefore, the Treasury, in exercise of the powers conferred upon them by section 47 of the Finance Act 1942, hereby make the following Regulations:[^c-fc0c16c52f5d7c7654891d1e6ccc07ef]
 
 ## PART 1
 
-### 1. Citation and commencement[^key-e411c6f22d7daa614411a4bd120cd367]
+### 1. Citation and commencement[^c-e411c6f22d7daa614411a4bd120cd367]
 
 These Regulations may be cited as the Government Stock Regulations 2004 and come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-c65d4b6dc231a4abfd761b4ccb7f1014]
+### 2. Interpretation[^c-c65d4b6dc231a4abfd761b4ccb7f1014]
 
 (1) In these Regulations, save where the context otherwise requires—
 
@@ -78,7 +78,7 @@ These Regulations may be cited as the Government Stock Regulations 2004 and come
 
 ## PART 2 — APPOINTMENT OF REGISTRAR
 
-### 3. Appointment of registrar[^key-fb1be63442d8622ff5106943d539d938]
+### 3. Appointment of registrar[^c-fb1be63442d8622ff5106943d539d938]
 
 (1) The Treasury may from time to time appoint a person for the purposes of the administration of stock (including the registration of holders).
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Government Stock Regulations 2004 and come
 
 (4) The Bank of England is deemed to be appointed by the Treasury under paragraph (1) above as the first Registrar with effect from the coming into force of these Regulations.
 
-### 4. Transfer of register on appointment of registrar[^key-4ecd861ca0acc31c97925d15e04a07db]
+### 4. Transfer of register on appointment of registrar[^c-4ecd861ca0acc31c97925d15e04a07db]
 
 (1) From the transfer day, the new registrar shall administer stock and maintain the register.
 
@@ -99,11 +99,11 @@ These Regulations may be cited as the Government Stock Regulations 2004 and come
 
 as at the close of the last business day preceding that transfer day.
 
-### 5. Transfer of stock pending on the transfer day[^key-ea7dedf40302d4e184ce6d4567daadfc]
+### 5. Transfer of stock pending on the transfer day[^c-ea7dedf40302d4e184ce6d4567daadfc]
 
 Where, before the transfer day, a valid instrument in writing for the transfer of stock has been delivered to the previous registrar but the previous registrar has not given effect to the transfer, the instrument is deemed to have been delivered to the new registrar on the day of its delivery to the previous registrar.
 
-### 6. The previous registrar to provide relevant records to the new registrar[^key-78f180b892d567a2da6be71a3ca1e14c]
+### 6. The previous registrar to provide relevant records to the new registrar[^c-78f180b892d567a2da6be71a3ca1e14c]
 
 (1) This regulation applies where the previous registrar has not been appointed as the new registrar.
 
@@ -120,7 +120,7 @@ Where, before the transfer day, a valid instrument in writing for the transfer o
 
 ## PART 3 — REGISTRATION, CERTIFICATION AND TRANSFER OF STOCK
 
-### 7. Registers of stock and stockholders[^key-47530f05851e3ce55484fa570d823bc5]
+### 7. Registers of stock and stockholders[^c-47530f05851e3ce55484fa570d823bc5]
 
 (1) The Registrar shall keep in respect of each description of stock registers wherein shall be entered the name and address of each person who is for the time being a holder of stock of that description and the amount of that stock which he holds, but, if more than four persons are joint holders of any stock, the names and addresses of only four such persons shall be required to be entered in the register.
 
@@ -139,7 +139,7 @@ Where, before the transfer day, a valid instrument in writing for the transfer o
 
 (7) The provisions of the Bankers' Books Evidence Act 1879[^f00007] shall apply for the purpose of proving any entry in the register as if the Registrar were a bank and a banker within the meaning of that Act, and as if such entry in the register, or where the information recorded in the register is not in readable form and is later transcribed into readable form, the transcribed version of such entry, were an entry in a banker’s book.
 
-### 8. Issue of certificates[^key-e20f74063fba1ecef6e8ca23f06303fd]
+### 8. Issue of certificates[^c-e20f74063fba1ecef6e8ca23f06303fd]
 
 (1) Every person whose name is entered in a register as a holder of stock shall be entitled, without payment, to a certificate representing that stock.
 
@@ -151,7 +151,7 @@ Where, before the transfer day, a valid instrument in writing for the transfer o
 
 (5) Where the names of two or more persons are entered into a register as joint holders of any stock the Registrar shall not be required to issue more than one certificate in respect of that stock, and delivery of a certificate to one of several joint holders shall be sufficient delivery to all of them.
 
-### 9. Form and effect of certificate[^key-cb0830e7ead9469844b8141d80610512]
+### 9. Form and effect of certificate[^c-cb0830e7ead9469844b8141d80610512]
 
 (1) A certificate issued in pursuance of these Regulations shall specify the stock of which the person named therein is the owner and, subject to paragraph (2) below, shall bear a facsimile of the signature of a duly authorised officer of the Treasury.
 
@@ -159,7 +159,7 @@ Where, before the transfer day, a valid instrument in writing for the transfer o
 
 (3) Any such certificate shall be prima facie evidence of the title of the person named therein to the stock so specified.
 
-### 10. Applications and Tenders[^key-f5155c4f56bccabe840c628e1cf31e97]
+### 10. Applications and Tenders[^c-f5155c4f56bccabe840c628e1cf31e97]
 
 (1) An application or tender for stock made in pursuance of a prospectus issued by the Treasury shall not be revocable between—
 
@@ -170,7 +170,7 @@ and 10 am on the day following the second clear day thereafter.
 
 (2) In reckoning any period for the purposes of paragraph (1) above any day, which is not a business day, shall be disregarded.
 
-### 11. Redemption of stock by the Registrar[^key-5ba676feedab9341db257c77f2f1537f]
+### 11. Redemption of stock by the Registrar[^c-5ba676feedab9341db257c77f2f1537f]
 
 (1) The provisions of this regulation shall have effect for the purpose of prescribing the procedure to be followed by the Registrar when carrying out the redemption of any stock.
 
@@ -197,7 +197,7 @@ and any such request as is referred to in paragraph (3)(b) shall be signed by ea
 
 (6) Nothing in paragraphs (2) or (5) above shall affect the right of the Registrar in any case to require the consent in writing of the holder or holders of any stock before making any payment in respect of the redemption of the stock.
 
-### 12. Purchase of stock on application to the Registrar[^key-1faca585ac6577dda665ab6716744b3b]
+### 12. Purchase of stock on application to the Registrar[^c-1faca585ac6577dda665ab6716744b3b]
 
 (1) Stock in the register may be purchased on application to the Registrar in accordance with the provisions of this regulation.
 
@@ -223,7 +223,7 @@ and any such request as is referred to in paragraph (3)(b) shall be signed by ea
 
 (8) Paragraph (7) above does not affect the right of the Registrar to return the excess by any other means of payment for which the approved form may provide or which may otherwise be agreed between the applicant and the Registrar.
 
-### 13. Sale of stock on application to the Registrar[^key-0ab7841b4ad612e19436d0dcccbadaa8]
+### 13. Sale of stock on application to the Registrar[^c-0ab7841b4ad612e19436d0dcccbadaa8]
 
 (1) Stock in the register may be sold on application to the Registrar in accordance with the provisions of this regulation.
 
@@ -249,11 +249,11 @@ and any such request as is referred to in paragraph (3)(b) shall be signed by ea
 
 (8) Paragraph (7) above does not affect the right of the Registrar to pay the net proceeds of sale by any other means of payment for which the approved form may provide or which may otherwise be agreed between the applicant and the Registrar.
 
-### 14. Commission payable on purchase or sale of stock on application to the Registrar[^key-3351a70de29f77271c1c59cf0d684273]
+### 14. Commission payable on purchase or sale of stock on application to the Registrar[^c-3351a70de29f77271c1c59cf0d684273]
 
 Commission shall be payable to the Registrar on behalf of the Treasury in respect of the purchase or sale of stock in accordance with regulations 12 and 13 above at the rates specified in the Schedule to these Regulations.
 
-### 15. Mode of transfer of stock[^key-23e493d53a373a614a387dff13ca97e2]
+### 15. Mode of transfer of stock[^c-23e493d53a373a614a387dff13ca97e2]
 
 (1) Subject to paragraph (3) below, stock shall be transferable by instrument in writing in accordance with the Stock Transfer Act 1963[^f00008] delivered to the Registrar, and the Registrar shall retain any such instrument delivered to him.
 
@@ -263,11 +263,11 @@ Commission shall be payable to the Registrar on behalf of the Treasury in respec
 
 (4) A strip shall be transferable in no other manner than by means of a relevant system operated by an Operator in accordance with the 2001 Regulations.
 
-### 16. Evidence of right to transfer[^key-48bd225bb0f5565e4403d7c5ddc0c479]
+### 16. Evidence of right to transfer[^c-48bd225bb0f5565e4403d7c5ddc0c479]
 
 The Registrar may decline to give effect to a transfer of any stock unless there is furnished to him such evidence as he may require of the right of the transferor to make the transfer.
 
-### 17. Transfer by personal representatives, etc.[^key-e04ae7fb799f90031ba31ce4fadc7e9f]
+### 17. Transfer by personal representatives, etc.[^c-e04ae7fb799f90031ba31ce4fadc7e9f]
 
 (1) Any stock entered in a register in the name of a deceased person shall be transferable by his personal representative.
 
@@ -280,11 +280,11 @@ The Registrar may decline to give effect to a transfer of any stock unless there
 - (a) to a person appearing to the Registrar to be entitled to take out such probate, letters of administration or confirmation; or
 - (b) to any other person appearing to the Registrar to be a fit and proper person to receive it.
 
-### 18. Certification of transfers[^key-295c21cf656a65056f4b161815a5b3c9]
+### 18. Certification of transfers[^c-295c21cf656a65056f4b161815a5b3c9]
 
 The certification by the Registrar of a transfer of any stock or of a stock transfer or brokers transfer under the Stock Transfer Act 1963 relating to any stock shall be taken as a representation by the Registrar to any person acting on the faith of the certification that there have been produced to the Registrar such documents as on the face of them show a prima facie title to the stock in the transferor named in the transfer of stock or the stock transfer or broker’s transfer, as the case may be, but not as a representation that the transferor has any title to the stock.
 
-### 19. Conditions to be fulfilled before completion of transfer[^key-f54967fb384a2c3d4ddb3fb8b56ed9eb]
+### 19. Conditions to be fulfilled before completion of transfer[^c-f54967fb384a2c3d4ddb3fb8b56ed9eb]
 
 The Registrar may decline to give effect to a transfer of any stock by instrument in writing unless—
 
@@ -292,19 +292,19 @@ The Registrar may decline to give effect to a transfer of any stock by instrumen
 - (b) there is furnished to the Registrar such evidence as he may require that a certificate showing that the transferor is the holder of the stock being transferred has been lost or destroyed and there is given to the Registrar such indemnity in respect of such lost or destroyed certificate as he may require; or
 - (c) the transfer is accompanied by a certificate showing that the transferor is the holder of part of the stock being transferred, and as to the residue thereof there is furnished to the Registrar such evidence as he may require that a certificate showing that the transferor is the holder of such residue has been lost or destroyed and there is given to the Registrar such indemnity in respect of such lost or destroyed certificate as he may require.
 
-### 20. Transferor to remain holder until completion of transfer[^key-a67f56b41fabd8721526c766a2e27d34]
+### 20. Transferor to remain holder until completion of transfer[^c-a67f56b41fabd8721526c766a2e27d34]
 
 The transferor of any stock shall be deemed to remain the holder thereof until the Registrar has given effect to the transfer.
 
-### 21. Time for completion of transfer[^key-50e20a323afdd4c41fdb8af2325369a0]
+### 21. Time for completion of transfer[^c-50e20a323afdd4c41fdb8af2325369a0]
 
 The Registrar shall not be required to give effect to a transfer of any stock until the expiration of ten clear days after the day on which the Registrar receives the written instrument of transfer.
 
-### 22. Completion of transfer[^key-a4d5d9b6b289eac896d4fa0229445bce]
+### 22. Completion of transfer[^c-a4d5d9b6b289eac896d4fa0229445bce]
 
 The Registrar shall give effect to a transfer of any stock by entering in the register such particulars as are requisite to show the effect of the transfer.
 
-### 23. Stockholders who are trustees or hold offices[^key-f4ca4f642daeaa71aa49aa7a58c0254d]
+### 23. Stockholders who are trustees or hold offices[^c-f4ca4f642daeaa71aa49aa7a58c0254d]
 
 (1) The account on which any stock is standing in any register may be designated in such manner as the holder of the stock may specify and, in particular, the holder may be described as trustee of a specified trust or as trustee without specifying a trust or in any other manner indicating the capacity in which he holds the stock.
 
@@ -317,11 +317,11 @@ The Registrar shall give effect to a transfer of any stock by entering in the re
 
 (4) Nothing in this regulation shall permit or require notice of any trust to be entered in any register or be receivable by the Registrar in relation to stock which is an uncertificated unit of a security.
 
-### 24. Protection of the Registrar in relation to trusts[^key-38e28b0a2635f5b1db4c5aac6844a17c]
+### 24. Protection of the Registrar in relation to trusts[^c-38e28b0a2635f5b1db4c5aac6844a17c]
 
 Except as provided by these Regulations, no notice of any trust shall be entered in any register or in a certificate, or be receivable by the Registrar; and, notwithstanding that the holder of any stock is described as mentioned in regulation 23 above or that the stock is standing on an account otherwise designated as mentioned in that regulation or in respect of which there has been furnished to the Registrar any such statutory declaration or other evidence as is mentioned in regulation 26 below, the Registrar shall not be affected with notice of any trust and it shall not be necessary for the Registrar to inquire concerning the propriety of anything done in relation to that stock or any part thereof.
 
-### 25. Stock held by persons under the age of 16 years in Scotland[^key-0fce73602ec72c9e2934db966a3b02bc]
+### 25. Stock held by persons under the age of 16 years in Scotland[^c-0fce73602ec72c9e2934db966a3b02bc]
 
 (1) Where any stock is transferred by a person under the age of sixteen years to whom the Children (Scotland) Act 1995[^f00010] applies, the requirements of regulation 15 above shall be deemed to have been complied with if the transfer is subscribed on his behalf by his legal representative.
 
@@ -335,7 +335,7 @@ Except as provided by these Regulations, no notice of any trust shall be entered
 
 (6) This regulation is subject (in the case of stock which is a participating security) to any provision made by or under the 2001 Regulations.
 
-### 26. Stock held on trust subject to the law of Scotland[^key-0075ddee11ab85e5eeac1964eec31d08]
+### 26. Stock held on trust subject to the law of Scotland[^c-0075ddee11ab85e5eeac1964eec31d08]
 
 (1) Where any stock is transferred by persons who are trustees of a trust the execution of which is governed by the law of Scotland, the requirements of regulation 15 above shall, so far as those persons are concerned, be deemed to have been complied with if the transfer is executed by a quorum of those persons: but the Registrar may decline to recognise a transfer by the said persons unless the stock is standing on an account as respects which there has been furnished to the Registrar a statutory declaration, or such other evidence as the Registrar may require, that the stock from time to time standing thereon forms part of such a trust as aforesaid.
 
@@ -352,7 +352,7 @@ Except as provided by these Regulations, no notice of any trust shall be entered
 
 (3) In this regulation the expressions “trust”, “trustee” and “the court” have the same meaning as in the Trusts (Scotland) Act 1921.
 
-### 27. Execution of instruments in Scotland on behalf of persons blind or unable to write[^key-d08065c29fe539b7768abd114450bcec]
+### 27. Execution of instruments in Scotland on behalf of persons blind or unable to write[^c-d08065c29fe539b7768abd114450bcec]
 
 (1) Where any party to a transfer of any stock is blind or unable to write and the transfer is to be executed in Scotland, the requirements of regulation 15 above shall, so far as any such party is concerned, be deemed to be complied with if the transfer is subscribed on his behalf in accordance with section 9 of the Requirements of Writing (Scotland) Act 1995[^f00012].
 
@@ -360,7 +360,7 @@ Except as provided by these Regulations, no notice of any trust shall be entered
 
 (3) The Registrar may decline to give effect to an instrument purporting to be subscribed in accordance with this regulation unless there is furnished to them a statutory declaration, or such other evidence as the Registrar may require, that the transfer was to be executed, and has been subscribed, in Scotland.
 
-### 28. Special provisions as to certain bonds[^key-83a2cf6f55992e3b898f70db26429918]
+### 28. Special provisions as to certain bonds[^c-83a2cf6f55992e3b898f70db26429918]
 
 (1) Regulations 8, 19 and 22 above shall not apply to registered bonds transferable in fixed denominations, but the following provisions of this regulation shall have effect with respect thereto.
 
@@ -368,38 +368,38 @@ Except as provided by these Regulations, no notice of any trust shall be entered
 
 (3) The Registrar shall give effect to a transfer of any bond by entering in the register, and by endorsing on the bond, such particulars as are requisite to show the effect of the transfer.
 
-### 29. Exchange of Securities (General) Rules 1979 disapplied in connection with strips[^key-325d3274dd360387cbaa352ebac80880]
+### 29. Exchange of Securities (General) Rules 1979 disapplied in connection with strips[^c-325d3274dd360387cbaa352ebac80880]
 
 The Exchange of Securities (General) Rules 1979[^f00013] shall not apply to—
 
 - (a) the exchange of any stock for strips, or
 - (b) the exchange of any strips for stock.
 
-### 30. Powers of attorney[^key-92cc7b6545ae297030ff7e997def7afa]
+### 30. Powers of attorney[^c-92cc7b6545ae297030ff7e997def7afa]
 
 An authority to execute a transfer of any stock must be in writing.
 
-### 31. Evidence that person executing instrument by mark, etc., understood effect thereof[^key-9267d76c431676ccaca016d8d0032168]
+### 31. Evidence that person executing instrument by mark, etc., understood effect thereof[^c-9267d76c431676ccaca016d8d0032168]
 
 (1) Where the execution by a person of any transfer of any stock is otherwise than by signature, the Registrar may decline to recognise the instrument unless there is furnished to him such evidence as he may require (whether by way of a statement written on the instrument signed by the witness to the execution of the instrument by that party, or otherwise) that the effect of the instrument was understood by that person.
 
 (2) Paragraph (1) above shall not apply to the execution of a transfer under regulation 27(1) above.
 
-### 32. Indemnity for the Registrar[^key-785cd7bd774d2d6b2b9afd42fd9f3365]
+### 32. Indemnity for the Registrar[^c-785cd7bd774d2d6b2b9afd42fd9f3365]
 
 (1) The Bank of England, the Registrar and any previous registrar shall not be liable in respect of any payment duly made or act duly done in accordance with the 1965 Regulations or these Regulations, and any such payment shall, subject to the provisions of the 1965 Regulations or these Regulations for saving the rights of third parties, be deemed to have been a valid payment, and the receipt of the person to whom the money was paid shall be a full discharge to the Bank of England or (as the case may be) the Registrar or any previous registrar for the amount of the payment.
 
 (2) Where a warrant for payment of any amount payable in respect of any stock is sent by post in accordance with regulation 11 above or the corresponding provisions of the 1965 Regulations, the posting of the letter containing the warrant shall, as respects the liability of the Bank of England or (as the case may be) the Registrar or any previous registrar, be equivalent to the delivery of the warrant to the person entitled to receive it.
 
-### 33. Saving for rights of third parties[^key-fc824acf47badaebf276f69a62cfaf08]
+### 33. Saving for rights of third parties[^c-fc824acf47badaebf276f69a62cfaf08]
 
 Nothing in these Regulations for the protection of the Bank of England, the Registrar or any previous registrar in respect of any act done or any money paid shall operate to prevent the recovery by any person or his representative of any stock or money lawfully due to him from the person to whom that stock was transferred or that money was paid by or under the direction of the Bank of England, the Registrar or any previous registrar, or from the representatives of that person, or affect the rights which any person or his representatives may have in respect of any stock against a third party.
 
-### 34. Revocation[^key-3b57d8e734f0c20fb87ed2825a8230dc]
+### 34. Revocation[^c-3b57d8e734f0c20fb87ed2825a8230dc]
 
 The 1965 Regulations are revoked.
 
-### 35. Transitional provisions[^key-1afd998d388b50fb15a21ce61ad4353c]
+### 35. Transitional provisions[^c-1afd998d388b50fb15a21ce61ad4353c]
 
 (1) Without prejudice to the application of the Interpretation Act 1978[^f00014] or regulation 5 above, any instrument of transfer, certificate, application to buy or sell stock, dividend mandate, statutory declaration, demand or other instrument, which was issued, executed, subscribed, or made under, or had effect for the purposes of, the 1965 Regulations, shall have effect as if issued, executed, subscribed or made under, or for the purposes of, the corresponding provisions of these Regulations.
 
@@ -413,7 +413,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 30th June 2004
 
-## SCHEDULE — AMOUNT OF COMMISSION ON PURCHASE AND SALE OF STOCK[^key-c3cd0c441763098989f299c02fb5b8f5]
+## SCHEDULE — AMOUNT OF COMMISSION ON PURCHASE AND SALE OF STOCK[^c-c3cd0c441763098989f299c02fb5b8f5]
 
 Regulation 14
 
@@ -450,11 +450,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1942 c. 21](https://www.legislation.gov.uk/ukpga/1942/21). Section 47 was amended by the Finance Act [1964 (c. 49)](https://www.legislation.gov.uk/ukpga/1964/49), sections 24 and 26(7) and Schedule 8, paragraph 2; the Stock Transfer Act [1982 (c. 41)](https://www.legislation.gov.uk/ukpga/1982/41), section 3 and Schedule 2, paragraph 2; the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 183; the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 202; the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), section 34; the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), section 140; and by S.I. [1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), article 30(2) and Schedule 2, Part 1, by S.I. [2002/2521](https://www.legislation.gov.uk/uksi/2002/2521), article 10(2) and Schedule 2 Part 1; and by S.I. [2004/1486](https://www.legislation.gov.uk/uksi/2004/1486), article 2.
 
-[^key-fc0c16c52f5d7c7654891d1e6ccc07ef]: Modification: Regulations: power to modify conferred (17.12.2024) by [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) (as amended by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b))
+[^c-fc0c16c52f5d7c7654891d1e6ccc07ef]: Modification: Regulations: power to modify conferred (17.12.2024) by [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) (as amended by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b))
 
-[^key-e411c6f22d7daa614411a4bd120cd367]: Commencement: Reg. 1 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-e411c6f22d7daa614411a4bd120cd367]: Commencement: Reg. 1 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-c65d4b6dc231a4abfd761b4ccb7f1014]: Commencement: Reg. 2 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-c65d4b6dc231a4abfd761b4ccb7f1014]: Commencement: Reg. 2 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00003]: Footnote: S.I. [1965/1420](https://www.legislation.gov.uk/uksi/1965/1420); amended by S.I. [1981/1004](https://www.legislation.gov.uk/uksi/1981/1004); S.I. [1982/670](https://www.legislation.gov.uk/uksi/1982/670); S.I. [1985/1146](https://www.legislation.gov.uk/uksi/1985/1146); S.I. [1990/2253](https://www.legislation.gov.uk/uksi/1990/2253); [1997/1709](https://www.legislation.gov.uk/uksi/1997/1709); S.I. [1998/1749](https://www.legislation.gov.uk/uksi/1998/1749); S.I. [1999/1410](https://www.legislation.gov.uk/uksi/1999/1410); S.I. [2000/1681](https://www.legislation.gov.uk/uksi/2000/1681); [S.I 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); and S.I. [2002/2521](https://www.legislation.gov.uk/uksi/2002/2521).
 
@@ -464,86 +464,86 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: Part 1 of Schedule 11 has been amended by the Finance Act [1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25), section 73(8)(b) and Schedule 14, Part VII; the National Loans Act [1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), section 24(2) and Schedule 6, Part II; the Statute Law (Repeals) Act [1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), Schedule 1, Part III; and the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 187 and Schedule 17, Part XIV. Part 1 of Schedule 11 has been modified by the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), section 136, which provides that the descriptions of securities to which section 136(1) of that Act refers are not included in Part 1 of Schedule 11.
 
-[^key-fb1be63442d8622ff5106943d539d938]: Commencement: Reg. 3 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-fb1be63442d8622ff5106943d539d938]: Commencement: Reg. 3 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-4ecd861ca0acc31c97925d15e04a07db]: Commencement: Reg. 4 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-4ecd861ca0acc31c97925d15e04a07db]: Commencement: Reg. 4 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-ea7dedf40302d4e184ce6d4567daadfc]: Commencement: Reg. 5 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-ea7dedf40302d4e184ce6d4567daadfc]: Commencement: Reg. 5 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-78f180b892d567a2da6be71a3ca1e14c]: Commencement: Reg. 6 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-78f180b892d567a2da6be71a3ca1e14c]: Commencement: Reg. 6 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-47530f05851e3ce55484fa570d823bc5]: Commencement: Reg. 7 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-47530f05851e3ce55484fa570d823bc5]: Commencement: Reg. 7 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00007]: Footnote: [1879 c. 11](https://www.legislation.gov.uk/ukpga/1879/11). Relevant amendments made by the Statute Law Revision Act [1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56), section 1 and the first Schedule; the Statute Law Revision Act [1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22), section 1 and the Schedule; the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 7(3); the Prisoners and Criminal Proceedings (Scotland) Act [1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9), section 29 and Schedule 3, paragraph 7; the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), section 5 and Schedule 4, paragraph 2; the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47 and Schedule 1, paragraphs 15 and 16; and, with effect from a date to be appointed, by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332 and Schedule 3, Part 2, paragraph 30 and Schedule 37, Part 4; and by S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 266.
 
-[^key-e20f74063fba1ecef6e8ca23f06303fd]: Commencement: Reg. 8 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-e20f74063fba1ecef6e8ca23f06303fd]: Commencement: Reg. 8 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-cb0830e7ead9469844b8141d80610512]: Commencement: Reg. 9 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-cb0830e7ead9469844b8141d80610512]: Commencement: Reg. 9 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-f5155c4f56bccabe840c628e1cf31e97]: Commencement: Reg. 10 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-f5155c4f56bccabe840c628e1cf31e97]: Commencement: Reg. 10 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-5ba676feedab9341db257c77f2f1537f]: Commencement: Reg. 11 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-5ba676feedab9341db257c77f2f1537f]: Commencement: Reg. 11 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-1faca585ac6577dda665ab6716744b3b]: Commencement: Reg. 12 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-1faca585ac6577dda665ab6716744b3b]: Commencement: Reg. 12 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-0ab7841b4ad612e19436d0dcccbadaa8]: Commencement: Reg. 13 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-0ab7841b4ad612e19436d0dcccbadaa8]: Commencement: Reg. 13 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-3351a70de29f77271c1c59cf0d684273]: Commencement: Reg. 14 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-3351a70de29f77271c1c59cf0d684273]: Commencement: Reg. 14 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-23e493d53a373a614a387dff13ca97e2]: Commencement: Reg. 15 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-23e493d53a373a614a387dff13ca97e2]: Commencement: Reg. 15 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00008]: Footnote: [1963 c. 18](https://www.legislation.gov.uk/ukpga/1963/18). There have been amendments to the 1963 Act but none is relevant to these Regulations.
 
-[^key-48bd225bb0f5565e4403d7c5ddc0c479]: Commencement: Reg. 16 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-48bd225bb0f5565e4403d7c5ddc0c479]: Commencement: Reg. 16 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-e04ae7fb799f90031ba31ce4fadc7e9f]: Commencement: Reg. 17 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-e04ae7fb799f90031ba31ce4fadc7e9f]: Commencement: Reg. 17 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-295c21cf656a65056f4b161815a5b3c9]: Commencement: Reg. 18 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-295c21cf656a65056f4b161815a5b3c9]: Commencement: Reg. 18 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-f54967fb384a2c3d4ddb3fb8b56ed9eb]: Commencement: Reg. 19 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-f54967fb384a2c3d4ddb3fb8b56ed9eb]: Commencement: Reg. 19 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-a67f56b41fabd8721526c766a2e27d34]: Commencement: Reg. 20 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-a67f56b41fabd8721526c766a2e27d34]: Commencement: Reg. 20 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-50e20a323afdd4c41fdb8af2325369a0]: Commencement: Reg. 21 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-50e20a323afdd4c41fdb8af2325369a0]: Commencement: Reg. 21 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-a4d5d9b6b289eac896d4fa0229445bce]: Commencement: Reg. 22 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-a4d5d9b6b289eac896d4fa0229445bce]: Commencement: Reg. 22 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-f4ca4f642daeaa71aa49aa7a58c0254d]: Commencement: Reg. 23 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-f4ca4f642daeaa71aa49aa7a58c0254d]: Commencement: Reg. 23 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00009]: Footnote: [1890 c. 39](https://www.legislation.gov.uk/ukpga/1890/39).
 
-[^key-38e28b0a2635f5b1db4c5aac6844a17c]: Commencement: Reg. 24 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-38e28b0a2635f5b1db4c5aac6844a17c]: Commencement: Reg. 24 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-0fce73602ec72c9e2934db966a3b02bc]: Commencement: Reg. 25 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-0fce73602ec72c9e2934db966a3b02bc]: Commencement: Reg. 25 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00010]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-0075ddee11ab85e5eeac1964eec31d08]: Commencement: Reg. 26 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-0075ddee11ab85e5eeac1964eec31d08]: Commencement: Reg. 26 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00011]: Footnote: [1921 c. 58](https://www.legislation.gov.uk/ukpga/1921/58).
 
-[^key-d08065c29fe539b7768abd114450bcec]: Commencement: Reg. 27 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-d08065c29fe539b7768abd114450bcec]: Commencement: Reg. 27 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00012]: Footnote: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7).
 
-[^key-83a2cf6f55992e3b898f70db26429918]: Commencement: Reg. 28 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-83a2cf6f55992e3b898f70db26429918]: Commencement: Reg. 28 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-325d3274dd360387cbaa352ebac80880]: Commencement: Reg. 29 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-325d3274dd360387cbaa352ebac80880]: Commencement: Reg. 29 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00013]: Footnote: S.I. [1979/1678](https://www.legislation.gov.uk/uksi/1979/1678).
 
-[^key-92cc7b6545ae297030ff7e997def7afa]: Commencement: Reg. 30 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-92cc7b6545ae297030ff7e997def7afa]: Commencement: Reg. 30 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-9267d76c431676ccaca016d8d0032168]: Commencement: Reg. 31 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-9267d76c431676ccaca016d8d0032168]: Commencement: Reg. 31 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-785cd7bd774d2d6b2b9afd42fd9f3365]: Commencement: Reg. 32 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-785cd7bd774d2d6b2b9afd42fd9f3365]: Commencement: Reg. 32 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-fc824acf47badaebf276f69a62cfaf08]: Commencement: Reg. 33 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-fc824acf47badaebf276f69a62cfaf08]: Commencement: Reg. 33 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-3b57d8e734f0c20fb87ed2825a8230dc]: Commencement: Reg. 34 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-3b57d8e734f0c20fb87ed2825a8230dc]: Commencement: Reg. 34 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
-[^key-1afd998d388b50fb15a21ce61ad4353c]: Commencement: Reg. 35 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-1afd998d388b50fb15a21ce61ad4353c]: Commencement: Reg. 35 in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
 
 [^f00014]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). These are amendments to the 1978 Act but none is relevant to these Regulations.
 
-[^key-c3cd0c441763098989f299c02fb5b8f5]: Commencement: Sch. in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)
+[^c-c3cd0c441763098989f299c02fb5b8f5]: Commencement: Sch. in force at 1.7.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1611/regulation/1)

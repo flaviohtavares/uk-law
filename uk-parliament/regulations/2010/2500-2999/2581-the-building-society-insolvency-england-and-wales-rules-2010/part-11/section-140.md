@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Debts of insolvent building society to rank equally[^key-15decd4fb461dca9fb22e543500c617a]
+## 140. Debts of insolvent building society to rank equally[^c-15decd4fb461dca9fb22e543500c617a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.181 of the 1986 Rules[^f00058].
 
 ## Annotations
 
-[^key-15decd4fb461dca9fb22e543500c617a]: Commencement: Rule 140 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-15decd4fb461dca9fb22e543500c617a]: Commencement: Rule 140 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00058]: Footnote: Paragraph (2) was added by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

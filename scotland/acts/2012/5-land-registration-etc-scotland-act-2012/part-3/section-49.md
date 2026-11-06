@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Registrable deeds[^key-4b6a07be1e3a0052e0f73a2c26eb7361]
+## 49. Registrable deeds[^c-4b6a07be1e3a0052e0f73a2c26eb7361]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6a07be1e3a0052e0f73a2c26eb7361]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/5/section/49) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-4b6a07be1e3a0052e0f73a2c26eb7361]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2012/5/section/49) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

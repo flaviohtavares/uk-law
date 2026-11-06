@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Benefit period[^key-d352da9f682169290a033b0451542954]
+## 53. Benefit period[^c-d352da9f682169290a033b0451542954]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d352da9f682169290a033b0451542954]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1988/1890/regulation/53) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-d352da9f682169290a033b0451542954]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1988/1890/regulation/53) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

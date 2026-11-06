@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Sustainable development[^key-0227d95618c37356e2b838bc84f304b1]
+## 27. Sustainable development[^c-0227d95618c37356e2b838bc84f304b1]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0227d95618c37356e2b838bc84f304b1]: Commencement: S. 27 in force at 1.10.2011 by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/1/a)
+[^c-0227d95618c37356e2b838bc84f304b1]: Commencement: S. 27 in force at 1.10.2011 by [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/1/a)

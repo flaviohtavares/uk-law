@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Interpretation of Part 7[^key-439c176777a0f2b3febf00dbc701a390]
+## 117. Interpretation of Part 7[^c-439c176777a0f2b3febf00dbc701a390]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - “**the appropriate date**” has the meaning given by section 100(5);
 - “**country**” includes territory;
 - “**custodial sentence**” means—
-  - (a) a sentence of imprisonment, any other sentence or order mentioned in section 222(1) of the Sentencing Code[^key-9cf3a6d678f680bacfcfb0c3417d4fa8] (as in force at any time after the passing of this Act) or any corresponding sentence or order imposed or made under any enactment passed before that section came into force[^key-26e2d8d1d2028b68864484a39602a8da], or
+  - (a) a sentence of imprisonment, any other sentence or order mentioned in section 222(1) of the Sentencing Code[^c-9cf3a6d678f680bacfcfb0c3417d4fa8] (as in force at any time after the passing of this Act) or any corresponding sentence or order imposed or made under any enactment passed before that section came into force[^c-26e2d8d1d2028b68864484a39602a8da], or
   - (b) a relevant service sentence (see subsection (2) below);
 - “**home address**” has the meaning given by section 108(5);
 - “**hospital order**” means—
@@ -67,8 +67,8 @@ and references to a person having been found to be under a disability and to hav
 
 ## Annotations
 
-[^key-439c176777a0f2b3febf00dbc701a390]: Commencement: S. 117 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(t)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/t)
+[^c-439c176777a0f2b3febf00dbc701a390]: Commencement: S. 117 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(t)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/t)
 
-[^key-9cf3a6d678f680bacfcfb0c3417d4fa8]: Textual amendment: Words in s. 117(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 269(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/269/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9cf3a6d678f680bacfcfb0c3417d4fa8]: Textual amendment: Words in s. 117(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 269(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/269/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-26e2d8d1d2028b68864484a39602a8da]: Textual amendment: Words in s. 117(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 269(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/269/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-26e2d8d1d2028b68864484a39602a8da]: Textual amendment: Words in s. 117(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 269(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/269/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

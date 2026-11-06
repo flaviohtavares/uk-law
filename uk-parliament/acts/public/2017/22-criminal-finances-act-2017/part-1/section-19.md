@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Her Majesty's Revenue and Customs: new powers[^key-a160e8f49a98addd91b447333d2fd75e][^key-1056ffae322c36afd39c8ce35e64e5fc][^c22725221]
+## 19. Her Majesty's Revenue and Customs: new powers[^c-a160e8f49a98addd91b447333d2fd75e][^c-1056ffae322c36afd39c8ce35e64e5fc][^c22725221]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a160e8f49a98addd91b447333d2fd75e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/22/section/19) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f)
+[^c-a160e8f49a98addd91b447333d2fd75e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/22/section/19) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f)
 
-[^key-1056ffae322c36afd39c8ce35e64e5fc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/22/section/19) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+[^c-1056ffae322c36afd39c8ce35e64e5fc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/22/section/19) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
 
 [^c22725221]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/22/section/19) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

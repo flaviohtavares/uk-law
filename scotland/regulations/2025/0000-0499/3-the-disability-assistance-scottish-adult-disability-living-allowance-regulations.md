@@ -48,11 +48,11 @@ In accordance with section 97(2) of that Act, the Scottish Ministers have inform
 
 ## PART 1 — Introductory and interpretation
 
-### 1. Citation and commencement[^key-b3a5f3374be4f6e3a48d22f6f5955a27]
+### 1. Citation and commencement[^c-b3a5f3374be4f6e3a48d22f6f5955a27]
 
 These Regulations may be cited as the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 and come into force on 21 March 2025.
 
-### 2. Interpretation[^key-3e8b1fd26ea5c98ec5b64213757ad452]
+### 2. Interpretation[^c-3e8b1fd26ea5c98ec5b64213757ad452]
 
 In these Regulations—
 
@@ -110,7 +110,7 @@ In these Regulations—
 
 ## PART 2 — Scottish Adult Disability Living Allowance
 
-### 3. Overview[^key-0b7ef3dacf1e8032f8ff3469f6c7017c]
+### 3. Overview[^c-0b7ef3dacf1e8032f8ff3469f6c7017c]
 
 (1) An individual is entitled to Scottish Adult Disability Living Allowance in accordance with these Regulations if the individual meets the eligibility rules in—
 
@@ -129,16 +129,16 @@ In these Regulations—
 
 (3) There are 3 weekly rates of the care component and 2 weekly rates of the mobility component and those rates are specified in regulation 29 (amount and form of Scottish Adult Disability Living Allowance).
 
-### 4. Relevant status[^key-a2f5a034cd188e0990d0986924755f15]
+### 4. Relevant status[^c-a2f5a034cd188e0990d0986924755f15]
 
 An individual may only be entitled to Scottish Adult Disability Living Allowance if the individual is an individual—
 
 - (a) in respect of whom the Scottish Ministers are to make a determination under paragraph 7(1) (determination without application of entitlement to Scottish Adult Disability Living Allowance) of schedule 1,
-- (b)[^key-23165cdd1be551e276a69041f4efb917] in respect of whom the Scottish Ministers are to make a determination under regulation 47(2) (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or regulation 47A(2) (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
+- (b)[^c-23165cdd1be551e276a69041f4efb917] in respect of whom the Scottish Ministers are to make a determination under regulation 47(2) (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or regulation 47A(2) (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
 - (c) to whom paragraph 12 (reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year) or paragraph 13 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended) of schedule 1 applies, or
 - (d) who has received a determination under regulation 47, or paragraph 7(1), 12 or 13 of schedule 1, who continues to satisfy the eligibility rules at regulation 3(1)(b) to (e).
 
-### 5. Entitlement to other benefits[^key-871c034038d755d50f46332039c37161]
+### 5. Entitlement to other benefits[^c-871c034038d755d50f46332039c37161]
 
 An individual is not entitled to Scottish Adult Disability Living Allowance while they are entitled to—
 
@@ -151,7 +151,7 @@ An individual is not entitled to Scottish Adult Disability Living Allowance whil
 
 ## PART 3 — Eligibility: care component and mobility component
 
-### 6. Care component criterion: lowest, middle or highest rate care component[^key-2f00b3f2fbd2265cb6d326ff4bfd9920]
+### 6. Care component criterion: lowest, middle or highest rate care component[^c-2f00b3f2fbd2265cb6d326ff4bfd9920]
 
 (1) An individual satisfies the care component criterion in respect of any period throughout which at least one of the following conditions is satisfied—
 
@@ -193,7 +193,7 @@ An individual is not entitled to Scottish Adult Disability Living Allowance whil
 
 (8) In this regulation and regulations 7 and 8, “**require**” means reasonably require and cognate expressions are to be construed accordingly.
 
-### 7. Mobility requirements: lower rate mobility component[^key-5ac3c49c6321f184e4e05da51531047a]
+### 7. Mobility requirements: lower rate mobility component[^c-5ac3c49c6321f184e4e05da51531047a]
 
 (1) An individual is entitled to the mobility component at the lower rate (see regulation 29(2)(a)) if the individual satisfies the condition set out in paragraph (2).
 
@@ -212,13 +212,13 @@ An individual is not entitled to Scottish Adult Disability Living Allowance whil
 - “**guidance**” means direction or leading by physical means or verbal suggestion or persuasion,
 - “**supervision**” means the precautionary or anticipatory presence of another person to monitor an individual’s physical, mental or emotional health including monitoring for obstacles or dangerous places or situations.
 
-### 8. Mobility requirements: higher rate mobility component[^key-5a7ea931cbea4c1fbf7ddeb58e8fcd80]
+### 8. Mobility requirements: higher rate mobility component[^c-5a7ea931cbea4c1fbf7ddeb58e8fcd80]
 
 (1) An individual is entitled to the mobility component at the higher rate (see regulation 29(2)(b)) if the individual satisfies at least one of the conditions mentioned in paragraph (2).
 
 (2) The conditions referred to in paragraph (1) are—
 
-- (a) taking account of the individual’s physical[^key-8c9f39f3235d15f7819535d30a0489d0] condition as a whole, the individual’s condition is such that, without having regard to the nature of the location where the individual resides—
+- (a) taking account of the individual’s physical[^c-8c9f39f3235d15f7819535d30a0489d0] condition as a whole, the individual’s condition is such that, without having regard to the nature of the location where the individual resides—
   - (i) the individual is unable to walk,
   - (ii) the individual’s ability to walk out of doors is so limited, as regards the distance over which or the speed at which or the length of time for which or the manner in which the individual can make progress on foot without severe discomfort, that the individual is virtually unable to walk, or
   - (iii) the exertion required to walk would constitute a danger to the individual’s life, or would be likely to lead to a serious deterioration in the individual’s health, from which there would be no recovery, or from which recovery would take a significant period of time,
@@ -284,13 +284,13 @@ An individual is not entitled to Scottish Adult Disability Living Allowance whil
   - (ii) provided for use on a public road, and
   - (iii) controlled by the occupant.
 
-### 9. Exclusion of entitlement to mobility component[^key-e817d788dc9116773f539bb7408cecbe]
+### 9. Exclusion of entitlement to mobility component[^c-e817d788dc9116773f539bb7408cecbe]
 
 An individual is not entitled to the mobility component of Scottish Adult Disability Living Allowance for a period unless, during most of that period, the individual’s physical or mental condition is such that they are able, from time to time, to benefit from assistance for movement.
 
 ## PART 4 — Residence and Presence Conditions
 
-### 10. Residence and presence conditions[^key-cc1fc5e5a9e4851fb80a241fbc229ab0]
+### 10. Residence and presence conditions[^c-cc1fc5e5a9e4851fb80a241fbc229ab0]
 
 (1) An individual satisfies the residence and presence conditions where on any day that individual—
 
@@ -335,15 +335,15 @@ An individual is not entitled to the mobility component of Scottish Adult Disabi
   - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022,
 - (e) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Sudan before 15 April 2023, and
-  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan, [^key-ad2ce276d5be8c04562cdedb8e7c7995]...
+  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan, [^c-ad2ce276d5be8c04562cdedb8e7c7995]...
 - (f) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, and
-  - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack ,[^key-79be7d65d1822c438786066e96d7b491]
+  - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack ,[^c-79be7d65d1822c438786066e96d7b491]
 - (g) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
   - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date, and
-  - (iii) arrived in the United Kingdom on or before 13 December 2025, [^key-63f55660c735adb4e3ec6574379710ee]...
-- (h) has been granted, or is deemed to have been granted, leave outside the immigration rules.,[^key-c0e6f28c26b1a9bdda5c1b3607f2b4cd]
+  - (iii) arrived in the United Kingdom on or before 13 December 2025, [^c-63f55660c735adb4e3ec6574379710ee]...
+- (h) has been granted, or is deemed to have been granted, leave outside the immigration rules.,[^c-c0e6f28c26b1a9bdda5c1b3607f2b4cd]
 - (i) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in a country or territory outside of the United Kingdom,
   - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
@@ -354,19 +354,19 @@ An individual is not entitled to the mobility component of Scottish Adult Disabi
 
 (8) For the purposes of paragraph (7), “**the Afghan Citizens Resettlement Scheme**” means the scheme announced by the United Kingdom Government on 18 August 2021[^f00035].
 
-(9)[^key-975bbea3694307366c1dd75f6f309f45] Where paragraph (7)(i) applies, it will apply for 52 weeks beginning on the day on which His Majesty’s Government provided public information to advise British nationals to leave a country or territory immediately or arranged the evacuation of British nationals from that country or territory (whichever is earlier).
+(9)[^c-975bbea3694307366c1dd75f6f309f45] Where paragraph (7)(i) applies, it will apply for 52 weeks beginning on the day on which His Majesty’s Government provided public information to advise British nationals to leave a country or territory immediately or arranged the evacuation of British nationals from that country or territory (whichever is earlier).
 
-### 11. Temporary absence from the common travel area[^key-32bafce05d696604db228f37de301dca]
+### 11. Temporary absence from the common travel area[^c-32bafce05d696604db228f37de301dca]
 
 (1) Where an individual is temporarily absent from the common travel area, the individual is to be treated as present in the common travel area for—
 
-- (a) the first 13 weeks of that absence for any reason, [^key-1c48b73a2822f3466352b36809591f68]...
+- (a) the first 13 weeks of that absence for any reason, [^c-1c48b73a2822f3466352b36809591f68]...
 - (b) the first 26 weeks of that absence where—
   - (i) after the first 13 weeks, the absence is in connection with arrangements made for the medical treatment of the individual for a disease or bodily or mental disablement which commenced before leaving the common travel area, and
   - (ii) the arrangements relate to medical treatment—
     - (aa) outside the common travel area,
     - (bb) during the period when the individual is temporarily absent from the common travel area, and
-    - (cc) by, or under the supervision of, a person appropriately qualified to carry out that treatment, or[^key-b2389983f6c43d8038e676e162eaf4c9]
+    - (cc) by, or under the supervision of, a person appropriately qualified to carry out that treatment, or[^c-b2389983f6c43d8038e676e162eaf4c9]
 - (c) the first 26 weeks of that absence where—
   - (i) after the first 13 weeks of that 26 week period, the individual was present in a country or territory outside the common travel area immediately before His Majesty’s Government—
     - (aa) provided public information to advise British nationals to leave that country or territory, or
@@ -381,11 +381,11 @@ An individual is not entitled to the mobility component of Scottish Adult Disabi
 
 (3) Where an individual is temporarily absent from the common travel area on the date of transfer, the period at paragraph (1)(a) or (b) is to commence on the date Scottish Ministers identify as the commencement of the temporary absence from the common travel area.
 
-### 11A. Time limits on absences where the claimant is treated as being in the common travel area[^key-e5de21b2ba697fb15a0fb46a6084b46f]
+### 11A. Time limits on absences where the claimant is treated as being in the common travel area[^c-e5de21b2ba697fb15a0fb46a6084b46f]
 
 Where the individual is temporarily absent from the common travel area in the circumstances specified in regulation 11(1), the total period of an absence where an individual is treated as present in the common travel area will not exceed 26 weeks.
 
-### 12. Serving members of His Majesty’s forces, civil servants and their family members[^key-0e9f9503ffd21f1ee3def7ebe6657027]
+### 12. Serving members of His Majesty’s forces, civil servants and their family members[^c-0e9f9503ffd21f1ee3def7ebe6657027]
 
 (1) A relevant individual is treated as meeting the residence and presence conditions set out in regulation 10(1)(a), (b) and (d) where on any day that individual is outside the common travel area—
 
@@ -426,7 +426,7 @@ Where the individual is temporarily absent from the common travel area in the ci
     - (i) where that force is one of His Majesty’s military forces, the depot for M’s unit is outside the United Kingdom, or
     - (ii) where that force is one of His Majesty’s air forces, M is liable under the terms of M’s engagement to serve only in a specified area outside the United Kingdom.
 
-### 13. Aircraft workers, mariners and continental shelf operations[^key-05ffaccdf07de4c7d9537d62316ba256]
+### 13. Aircraft workers, mariners and continental shelf operations[^c-05ffaccdf07de4c7d9537d62316ba256]
 
 (1) An individual is to be treated as meeting the presence conditions set out in regulation 10(1)(d) and (e) for any period where that individual is—
 
@@ -446,7 +446,7 @@ Where the individual is temporarily absent from the common travel area in the ci
 
   but does not include a person in so far as that employment is as a serving member of His Majesty’s forces.
 
-### 14. Persons residing in the United Kingdom to whom a relevant EU regulation applies[^key-db4007b0d7d67c73c7eaf077a10e05d1]
+### 14. Persons residing in the United Kingdom to whom a relevant EU regulation applies[^c-db4007b0d7d67c73c7eaf077a10e05d1]
 
 The past presence condition set out in regulation 10(1)(e) does not apply where on any day the individual is—
 
@@ -461,7 +461,7 @@ The past presence condition set out in regulation 10(1)(e) does not apply where 
     - (ee) the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024[^f00046], and
   - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash.
 
-### 15. Persons residing outside the United Kingdom to whom a relevant EU regulation applies[^key-f36e05ecdf625c9ebfb4aca296b05fe6]
+### 15. Persons residing outside the United Kingdom to whom a relevant EU regulation applies[^c-f36e05ecdf625c9ebfb4aca296b05fe6]
 
 (1) The residence and presence conditions set out in regulation 10(1) do not apply in relation to the care component where on any day the individual satisfies the conditions in paragraph (2).
 
@@ -488,11 +488,11 @@ The past presence condition set out in regulation 10(1)(e) does not apply where 
 - (a) any member state of the European Union, or
 - (b) any other state that is party to the agreement on the European Economic Area signed at Oporto on 2 May 1992[^f00047], together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993[^f00048], as modified or supplemented from time to time.
 
-### 16. No entitlement to care component where UK is not competent state[^key-c980df66fcecf3a097957d7cac479683]
+### 16. No entitlement to care component where UK is not competent state[^c-c980df66fcecf3a097957d7cac479683]
 
 An individual to whom a relevant EU Regulation applies is not entitled to the care component for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the individual for the purposes of the relevant EU Regulation in question.
 
-### 17. Refugees[^key-ef42ca0458770fa9415db225ea3bc125]
+### 17. Refugees[^c-ef42ca0458770fa9415db225ea3bc125]
 
 The residence and presence conditions set out in regulation 10(1)(b) and (e) do not apply where an individual has—
 
@@ -501,13 +501,13 @@ The residence and presence conditions set out in regulation 10(1)(b) and (e) do 
 
 ## PART 5 — Entitlement under rules relating to age
 
-### 18. Age criteria[^key-05a451c3fcc7d7c9fd44e7e8916240a7]
+### 18. Age criteria[^c-05a451c3fcc7d7c9fd44e7e8916240a7]
 
 (1) Scottish Adult Disability Living Allowance may be paid in respect of an individual who is at least 18 years of age.
 
 (2) Where an individual was born on 29 February, their birthday is to be taken to fall on 28 February in a year which is not a leap year.
 
-### 19. Determination of an award after the person has reached the relevant age[^key-15ad0e6bc98ec38370f4aa2b97f90dd0]
+### 19. Determination of an award after the person has reached the relevant age[^c-15ad0e6bc98ec38370f4aa2b97f90dd0]
 
 (1) This regulation applies where—
 
@@ -542,7 +542,7 @@ for the purpose of this regulation, entitlement under that previous award is to 
 
 ## PART 6 — Entitlement under special rules for terminal illness and when undergoing dialysis
 
-### 20. Entitlement under special rules for terminal illness[^key-3a8ab60b1b7acb83a2a03fa96fa5337c]
+### 20. Entitlement under special rules for terminal illness[^c-3a8ab60b1b7acb83a2a03fa96fa5337c]
 
 (1) An individual who has a terminal illness is to be treated as satisfying the conditions for the highest rate of the care component in regulation 6(4)(a).
 
@@ -614,7 +614,7 @@ an individual’s entitlement can only begin—
   - (vi) Pension Age Disability Payment.
 - (b) regulation 5 (entitlement to other benefits) and section 71(7) (disability living allowance) of the Social Security Contributions and Benefits Act 1992[^f00050] are treated as omitted.
 
-### 21. Entitlement to middle rate of care component when undergoing dialysis[^key-ba574e00747fe195bece8497309f3b03]
+### 21. Entitlement to middle rate of care component when undergoing dialysis[^c-ba574e00747fe195bece8497309f3b03]
 
 (1) Except as provided in paragraph (3), an individual who suffers from renal failure and who is undergoing the treatment specified in paragraph (2) is treated as meeting the condition—
 
@@ -650,7 +650,7 @@ an individual’s entitlement can only begin—
 
 ## PART 7 — Effect of time spent in care homes, hospital and legal detention
 
-### 22. Effect of admission to a care home on ongoing entitlement to care component[^key-ada1156f922798f1ff9c9817f5e00ccb]
+### 22. Effect of admission to a care home on ongoing entitlement to care component[^c-ada1156f922798f1ff9c9817f5e00ccb]
 
 (1) This regulation applies where an individual who has an ongoing entitlement to the care component of Scottish Adult Disability Living Allowance becomes a resident of a care home.
 
@@ -664,7 +664,7 @@ an individual’s entitlement can only begin—
 - (b) partly out of the resources of the individual for whom the qualifying services are provided and partly out of the resources of another person (other than a local authority) or assistance from a charity, or
 - (c) entirely out of the resources of another person (other than a local authority) or assistance from a charity.
 
-### 23. Effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance[^key-162fb4b6dc1f04073d2e0d5fc9288c8e]
+### 23. Effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance[^c-162fb4b6dc1f04073d2e0d5fc9288c8e]
 
 (1) This regulation applies where an individual who has an ongoing entitlement to either component of Scottish Adult Disability Living Allowance—
 
@@ -686,7 +686,7 @@ an individual’s entitlement can only begin—
 
 (5) This regulation does not apply to an individual who was under the age of 18 on the day on which they began their current period undergoing medical or other treatment as an in-patient at a hospital or similar institution.
 
-### 24. Exception: Hospices[^key-64dfe8df632cf20cd372693931f545ba]
+### 24. Exception: Hospices[^c-64dfe8df632cf20cd372693931f545ba]
 
 (1) Regulations 22(2) and 23(2) do not apply where the individual is residing in a hospice and has a terminal illness.
 
@@ -704,7 +704,7 @@ an individual’s entitlement can only begin—
 - (e) a hospital maintained or administered by the Defence Council, or
 - (f) an institution similar to a hospital mentioned in any of the preceding sub-paragraphs.
 
-### 25. Effect of legal detention on ongoing entitlement to Scottish Adult Disability Living Allowance[^key-0b3e103d48246f72a00877aef6dc7e27]
+### 25. Effect of legal detention on ongoing entitlement to Scottish Adult Disability Living Allowance[^c-0b3e103d48246f72a00877aef6dc7e27]
 
 (1) This regulation applies where an individual who has an ongoing entitlement to Scottish Adult Disability Living Allowance begins a period of legal detention.
 
@@ -719,7 +719,7 @@ an individual’s entitlement can only begin—
 - (a) the individual is undergoing legal detention outside the United Kingdom, and
 - (b) in similar circumstances in Scotland, the individual would have been excepted from the application of that paragraph by virtue of the operation of any provision of this regulation.
 
-### 26. Calculation of periods of time spent in a care home, hospital or legal detention[^key-ef54edbf99481b243b5f8451b7b83ddd]
+### 26. Calculation of periods of time spent in a care home, hospital or legal detention[^c-ef54edbf99481b243b5f8451b7b83ddd]
 
 (1) Subject to paragraphs (3) to (6), a period during which an individual is—
 
@@ -753,7 +753,7 @@ is to be determined in accordance with this regulation.
 - (b) days as an in-patient in hospital or similar institution in terms of regulation 23 or 27, and
 - (c) days in legal detention in terms of regulation 25 or 27.
 
-### 27. Entitlement beginning while in alternative accommodation[^key-21801c0be2ddad42a7d2a80ccfaf49ab]
+### 27. Entitlement beginning while in alternative accommodation[^c-21801c0be2ddad42a7d2a80ccfaf49ab]
 
 (1) Paragraphs (2) to (4) apply where an individual is resident in a care home, an in-patient in a hospital or similar institution, or in legal detention on the day on which their entitlement to Scottish Adult Disability Living Allowance begins as a result of a transfer determination.
 
@@ -803,24 +803,24 @@ is to be determined in accordance with this regulation.
 
 ## PART 8 — Making payments and duration of eligibility
 
-### 28. Making Payments[^key-58dce32286da837fc30cd8821088234f]
+### 28. Making Payments[^c-58dce32286da837fc30cd8821088234f]
 
 (1) Where Scottish Adult Disability Living Allowance is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
 
 (2) Where the Scottish Ministers consider, for any reason, that it is no longer appropriate for a particular person who falls within paragraph (1) to continue to receive the payment, they may cease making payment to that person.
 
-### 29. Amount and form of Scottish Adult Disability Living Allowance[^key-b5e12e16827615f1d904a76a28f5ae77]
+### 29. Amount and form of Scottish Adult Disability Living Allowance[^c-b5e12e16827615f1d904a76a28f5ae77]
 
 (1) The weekly rate of payment of the care component is, where the individual is entitled to—
 
-- (a) the lowest rate, £30.30[^key-fbcde428b88db7a5f790b02aa8f52c16],
-- (b) the middle rate, £76.70[^key-89c61962aab25e318f8faab4f930c8aa], or
-- (c) the highest rate, £114.60[^key-15dc0d495d6c71dc6cda5b2fb5d1fa91].
+- (a) the lowest rate, £30.30[^c-fbcde428b88db7a5f790b02aa8f52c16],
+- (b) the middle rate, £76.70[^c-89c61962aab25e318f8faab4f930c8aa], or
+- (c) the highest rate, £114.60[^c-15dc0d495d6c71dc6cda5b2fb5d1fa91].
 
 (2) The weekly rate of the mobility component is, where the individual is entitled to—
 
-- (a) the lower rate, £30.30[^key-df74e81dbecde075ecd0160e032f6def], or
-- (b) the higher rate, £80.00[^key-d5697fcda873cf77c5f698affd01d493].
+- (a) the lower rate, £30.30[^c-df74e81dbecde075ecd0160e032f6def], or
+- (b) the higher rate, £80.00[^c-d5697fcda873cf77c5f698affd01d493].
 
 (3) Where an individual is entitled to payment of the care component or the mobility component for a period shorter than one week, payment is to be made at one-seventh of the relevant weekly rate, for each day of entitlement.
 
@@ -848,7 +848,7 @@ the amount of the care component of Scottish Adult Disability Living Allowance t
 
 (7) Scottish Adult Disability Living Allowance is only to be given in the form of money, except as provided for by regulation 39 (Form of payment – giving Scottish Adult Disability Living Allowance by way of deduction).
 
-### 30. Adjustment of payment where medical expenses are paid from public funds under war pensions instrument[^key-1efe2d00e9c61496ccb43650716c09a2]
+### 30. Adjustment of payment where medical expenses are paid from public funds under war pensions instrument[^c-1efe2d00e9c61496ccb43650716c09a2]
 
 (1) Except where paragraph (2) applies, where—
 
@@ -873,7 +873,7 @@ the amount of the care component of Scottish Adult Disability Living Allowance i
   - (a) is a day when the individual was undergoing medical treatment in a hospital or similar institution in the circumstances mentioned in regulation 23(1)(b), or
   - (b) is a day when the individual was prevented from receiving the care component of Scottish Adult Disability Living Allowance by virtue of regulation 22(2).
 
-### 31. Time of Payment[^key-786b8c5d5ba8a27dcf522f14fd5e2cdb]
+### 31. Time of Payment[^c-786b8c5d5ba8a27dcf522f14fd5e2cdb]
 
 Where an award of Scottish Adult Disability Living Allowance is made, the Scottish Ministers are to make—
 
@@ -884,7 +884,7 @@ Where an award of Scottish Adult Disability Living Allowance is made, the Scotti
   - (iii) weekly in advance where an individual previously received Disability Living Allowance weekly in advance, or
   - (iv) where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as they specify in the notice of determination.
 
-### 32. Continuing Eligibility[^key-d1ecd7099474b1fef543ec993194e8aa]
+### 32. Continuing Eligibility[^c-d1ecd7099474b1fef543ec993194e8aa]
 
 (1) Subject to paragraphs (3) and (4), a determination that an individual is entitled to Scottish Adult Disability Living Allowance in respect of a period is to be made on the basis that the individual has an ongoing entitlement to Scottish Adult Disability Living Allowance after the end of that period, except where paragraph (2) applies.
 
@@ -901,11 +901,11 @@ Where an award of Scottish Adult Disability Living Allowance is made, the Scotti
 - (b) the information on which the determination mentioned in paragraph (1) was made still applies and is relevant in the individual’s case, and
 - (c) there is no change in circumstances of the individual which would require to be notified under section 56 (duty to notify change of circumstances) of the 2018 Act.
 
-### 33. Circumstances in which assistance may be suspended[^key-c3ab4f883c75852d3526dddc542ed462]
+### 33. Circumstances in which assistance may be suspended[^c-c3ab4f883c75852d3526dddc542ed462]
 
 (1) The Scottish Ministers may decide that an individual who has an ongoing entitlement to Scottish Adult Disability Living Allowance in respect of a period by virtue of regulation 32 (continuing eligibility) is not to become entitled to be given some or all of either component or both components of that assistance at the time at which the individual otherwise would in accordance with that regulation, as read with regulation 31 (time of payment) (referred to in these Regulations as a decision to suspend the individual’s Scottish Adult Disability Living Allowance).
 
-(2)[^key-7263ffbd9d99e76311cd044e16ca01ed] Where such a decision is made in respect of an individual, payments of Scottish Adult Disability Living Allowance to that individual are to be suspended until such time as the Scottish Ministers decide to end the suspension in accordance with regulation 37.
+(2)[^c-7263ffbd9d99e76311cd044e16ca01ed] Where such a decision is made in respect of an individual, payments of Scottish Adult Disability Living Allowance to that individual are to be suspended until such time as the Scottish Ministers decide to end the suspension in accordance with regulation 37.
 
 (3) The Scottish Ministers may decide to suspend an individual’s Scottish Adult Disability Living Allowance only in the circumstances where—
 
@@ -921,11 +921,11 @@ Where an award of Scottish Adult Disability Living Allowance is made, the Scotti
 - (c) being put under pressure in relation to money or other property,
 - (d) having money or other property misused.
 
-### 34. Having regard to financial circumstances[^key-dbcdcdedf92a9e64150ef6b3c21a67d6]
+### 34. Having regard to financial circumstances[^c-dbcdcdedf92a9e64150ef6b3c21a67d6]
 
 The Scottish Ministers must have regard to an individual’s financial circumstances prior to making a decision to suspend payment to the individual of some or all of either component or both components of Scottish Adult Disability Living Allowance.
 
-### 35. Information to be given following suspension[^key-105592c47d208846cb063b5fb2d1fd3c]
+### 35. Information to be given following suspension[^c-105592c47d208846cb063b5fb2d1fd3c]
 
 (1) Having made a decision to suspend an individual’s Scottish Adult Disability Living Allowance, the Scottish Ministers must inform the individual of—
 
@@ -936,7 +936,7 @@ The Scottish Ministers must have regard to an individual’s financial circumsta
 
 (2) The Scottish Ministers must fulfil their duty under paragraph (1) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-### 36. Right to review suspension[^key-b41d47a54a73477bf15b5596458c8fa3]
+### 36. Right to review suspension[^c-b41d47a54a73477bf15b5596458c8fa3]
 
 (1) An individual may require the Scottish Ministers to review their decision to suspend that individual’s Scottish Adult Disability Living Allowance.
 
@@ -947,7 +947,7 @@ The Scottish Ministers must have regard to an individual’s financial circumsta
 
 (3) The Scottish Ministers must fulfil their duty under paragraph (2)(b) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-### 37. Ending a suspension[^key-50e4475e60b56001e65f19cf289e20ea]
+### 37. Ending a suspension[^c-50e4475e60b56001e65f19cf289e20ea]
 
 The Scottish Ministers are to make a decision to end a suspension where—
 
@@ -957,7 +957,7 @@ The Scottish Ministers are to make a decision to end a suspension where—
 - (d) the circumstances mentioned in regulation 33(3)(b) (circumstances in which assistance may be suspended) no longer apply, or
 - (e) the Scottish Ministers consider it appropriate in the circumstances, including having regard to the financial circumstances of the individual.
 
-### 38. Effect of suspension ending[^key-d984b557ae2d4c4fa86f3e7ff7c7ac66]
+### 38. Effect of suspension ending[^c-d984b557ae2d4c4fa86f3e7ff7c7ac66]
 
 When—
 
@@ -966,7 +966,7 @@ When—
 
 the individual is immediately to be given the Scottish Adult Disability Living Allowance that the individual would have become entitled to be given under the determination during the period of suspension.
 
-### 39. Form of payment – giving Scottish Adult Disability Living Allowance by way of deduction[^key-39e71ea499a1264f955a5359f66c9bd3]
+### 39. Form of payment – giving Scottish Adult Disability Living Allowance by way of deduction[^c-39e71ea499a1264f955a5359f66c9bd3]
 
 (1) Where an individual has a liability to the Scottish Ministers under section 63 of the 2018 Act (liability for assistance given in error), the individual’s payment of Scottish Adult Disability Living Allowance may be given (in whole or in part) by way of deduction, at a reasonable level, from that liability either—
 
@@ -975,7 +975,7 @@ the individual is immediately to be given the Scottish Adult Disability Living A
 
 (2) For the purpose of paragraph (1), “**reasonable level**” means a level that is reasonable having regard to the financial circumstances of the individual.
 
-### 40. When an increase in level of entitlement takes effect[^key-0f401dc3f78db7390b7be475d8e906c3]
+### 40. When an increase in level of entitlement takes effect[^c-0f401dc3f78db7390b7be475d8e906c3]
 
 (1) Where, as a result of a determination without an application, the amount of Scottish Adult Disability Living Allowance payable in respect of an individual is increased or their entitlement to a component is awarded, the change takes effect—
 
@@ -1006,7 +1006,7 @@ the individual is immediately to be given the Scottish Adult Disability Living A
 
 (6) Where paragraph (4) applies, for the period between the date when the individual’s entitlement to a higher rate of Scottish Adult Disability Living Allowance begins and the date of the determination under regulations 42 to 46, regulation 5 (entitlement to other benefits) and section 71(7) (disability living allowance) of the Social Security Contributions and Benefits Act 1992[^f00081], are treated as omitted.
 
-### 41. When a decrease in level or cessation of entitlement takes effect[^key-fa423c0546780e161ffc64a687df054e]
+### 41. When a decrease in level or cessation of entitlement takes effect[^c-fa423c0546780e161ffc64a687df054e]
 
 (1) Where, as a result of determination without an application, the amount of Scottish Adult Disability Living Allowance payable in respect of an individual is decreased or their entitlement to a component is ceased, the change takes effect—
 
@@ -1017,8 +1017,8 @@ the individual is immediately to be given the Scottish Adult Disability Living A
     - (aa) knowingly fails to notify a change, or
     - (bb) fails to notify the change as soon as reasonably practicable after it occurred,
 
-    the individual should have notified the Scottish Ministers of the change, [^key-d94a9ed29c43bb336566a0722b8442ca]...
-  - (ia)[^key-3f0bb4580f03f94716d5e1e63fbb4318] where the Scottish Ministers have—
+    the individual should have notified the Scottish Ministers of the change, [^c-d94a9ed29c43bb336566a0722b8442ca]...
+  - (ia)[^c-3f0bb4580f03f94716d5e1e63fbb4318] where the Scottish Ministers have—
     - (aa) made a decision to suspend the individual’s Scottish Adult Disability Living Allowance in terms of regulation 33(1) and (3)(a), and
     - (bb) subsequently made the determination on the basis that the eligibility rules for Scottish Adult Disability Living Allowance are not satisfied, as provided for by section 54(2) of the 2018 Act,
 
@@ -1031,7 +1031,7 @@ the individual is immediately to be given the Scottish Adult Disability Living A
 
 ## PART 9 — Determination of entitlement to Scottish Adult Disability Living Allowance without application
 
-### 42. Consideration of entitlement after specified period[^key-f275d7ea158bcf826850cfe80c23a43a]
+### 42. Consideration of entitlement after specified period[^c-f275d7ea158bcf826850cfe80c23a43a]
 
 The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, after the end of the period specified (if any) in—
 
@@ -1040,16 +1040,16 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 of the 2018 Act.
 
-### 43. Determination following change of circumstance etc.[^key-e08ee1ff47e1f679f2bc8272dac5c48b]
+### 43. Determination following change of circumstance etc.[^c-e08ee1ff47e1f679f2bc8272dac5c48b]
 
 The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where the individual has an ongoing entitlement to Scottish Adult Disability Living Allowance and they become aware—
 
 - (a) of a change of circumstances, whether or not notified by the individual in accordance with section 56 of the 2018 Act, or where the Scottish Ministers become aware that a determination of an individual’s entitlement was made in ignorance of a material fact, which would possibly result in an alteration to the component or rate of Scottish Adult Disability Living Allowance payable to the individual or which is likely to mean that the individual is no longer entitled to Scottish Adult Disability Living Allowance,
 - (b) that the individual has died,
-- (c)[^key-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Determination following official error – underpayments[^key-6abc15a4ff7e82a4892480a1a75314cb]
+### 44. Determination following official error – underpayments[^c-6abc15a4ff7e82a4892480a1a75314cb]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
 
@@ -1070,7 +1070,7 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 (3) In this regulation, “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.
 
-### 45. Determination following error – overpayments[^key-3a3840e19364a6ba7aebed216669b15c]
+### 45. Determination following error – overpayments[^c-3a3840e19364a6ba7aebed216669b15c]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
 
@@ -1096,7 +1096,7 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
     - (bb) an assumption which proves to be wrong, or
 - (b) a new determination having not been made after an assumption on the basis of which an earlier determination was made has proven to be wrong.
 
-### 46. Determination to effect a deduction decision[^key-fe0a50e6b788c92d00df9c1a6262927b]
+### 46. Determination to effect a deduction decision[^c-fe0a50e6b788c92d00df9c1a6262927b]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where the circumstances in paragraphs (2) and (3) apply.
 
@@ -1120,7 +1120,7 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 ## PART 10 — Movement of individuals between Scotland and the rest of the UK
 
-### 47. Individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^key-9ba18a14e19dc7472e2fcb2f748e1fd3]
+### 47. Individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^c-9ba18a14e19dc7472e2fcb2f748e1fd3]
 
 (1) This regulation applies where—
 
@@ -1166,7 +1166,7 @@ as the Scottish Ministers require.
 
 (11) In this regulation, “the date of the move” is the date when the individual becomes resident in Scotland, as notified by the individual or otherwise communicated to the Scottish Ministers (whether the notification takes place before or after the date of the move).
 
-### 47A. Individuals in respect of whom Disability Living Allowance was paid before 23 February 2026[^key-5c67236f727e932412a1cf4eda7127e0]
+### 47A. Individuals in respect of whom Disability Living Allowance was paid before 23 February 2026[^c-5c67236f727e932412a1cf4eda7127e0]
 
 (1) This regulation applies where—
 
@@ -1245,7 +1245,7 @@ as the Scottish Ministers require.
 - (b) contains a mobility component award for the higher rate, the Scottish Ministers may only award the higher rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
 - (c) does not contain an award of the mobility component, the Scottish Ministers may not award that component at either the lower or higher rate.
 
-### 48. Individuals in respect of whom Scottish Adult Disability Living Allowance is paid at the time of moving to another part of the United Kingdom[^key-e1b5ce02e2276756934cda0d401cf66d]
+### 48. Individuals in respect of whom Scottish Adult Disability Living Allowance is paid at the time of moving to another part of the United Kingdom[^c-e1b5ce02e2276756934cda0d401cf66d]
 
 (1) Where the Scottish Ministers become aware that an individual who is entitled to Scottish Adult Disability Living Allowance has moved or is to move to become resident in another part of the United Kingdom, the individual is to be treated as though the individual meets the condition under regulation 10(1)(a) (residence and presence conditions) of being ordinarily resident in Scotland for a period of 13 weeks beginning in accordance with paragraph (4).
 
@@ -1262,7 +1262,7 @@ as the Scottish Ministers require.
 
 ## PART 11 — Periods in respect of a re-determination request
 
-### 49. Periods in respect of a re-determination request[^key-9d594b9575a1bb3ff50aec2384cf80d9]
+### 49. Periods in respect of a re-determination request[^c-9d594b9575a1bb3ff50aec2384cf80d9]
 
 (1) The period for requesting a re-determination of entitlement to Scottish Adult Disability Living Allowance under section 41 of the 2018 Act (right to request re-determination) is 42 days beginning with the day that the individual is informed, in accordance with section 40 of the 2018 Act (notice of determination), of the right to make the request.
 
@@ -1274,7 +1274,7 @@ as the Scottish Ministers require.
 
 ## PART 12 — Provision of vehicles
 
-### 50. Payment of mobility component to authorised providers of vehicles for individuals with disabilities[^key-49cb434ad180482596dfbd4fb2d2f652]
+### 50. Payment of mobility component to authorised providers of vehicles for individuals with disabilities[^c-49cb434ad180482596dfbd4fb2d2f652]
 
 (1) Where—
 
@@ -1288,7 +1288,7 @@ the Scottish Ministers may, with the consent of the individual, pay that compone
 - (a) the agreement is brought to an end in accordance with the terms of the agreement, or
 - (b) the individual withdraws their consent.
 
-### 51. Vehicles for persons with disabilities – powers of appointees[^key-3b73afb1758f38201319ab4d6bd38de6]
+### 51. Vehicles for persons with disabilities – powers of appointees[^c-3b73afb1758f38201319ab4d6bd38de6]
 
 (1) Where a person (“an appointee”) is appointed by the Scottish Ministers under the 2018 Act to act on an individual’s behalf in connection with the determination of the individual’s entitlement to assistance under section 24 (duty to give assistance) of the 2018 Act, in addition to the powers conferred on the appointee by that Act the appointee can, on behalf of the individual—
 
@@ -1301,31 +1301,31 @@ the Scottish Ministers may, with the consent of the individual, pay that compone
 
 ## PART 13 — Short-term assistance
 
-### 52. Entitlement to short-term assistance[^key-46ac2c7f4c03ff9aa5ffcae2249d6e7a]
+### 52. Entitlement to short-term assistance[^c-46ac2c7f4c03ff9aa5ffcae2249d6e7a]
 
 Part 1 of schedule 1 makes provision about short-term assistance.
 
 ## PART 14 — Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance
 
-### 53. Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^key-3b296d956d1940edf79b04bc29abeaa2]
+### 53. Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^c-3b296d956d1940edf79b04bc29abeaa2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 15 — Reinstatement of entitlement within a year
 
-### 54. Reinstatement of entitlement within a year[^key-9ddbe4b2f68429f8d0296b46428c279b]
+### 54. Reinstatement of entitlement within a year[^c-9ddbe4b2f68429f8d0296b46428c279b]
 
 Part 3 of schedule 1 makes provision about reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year.
 
 ## PART 16 — Consequential Amendment
 
-### 55. Consequential amendment[^key-a7e8909171be2958b546e5212689b26e]
+### 55. Consequential amendment[^c-a7e8909171be2958b546e5212689b26e]
 
 The amendment specified in Part 1 of schedule 2 has effect.
 
 ## PART 17 — Miscellaneous amendments
 
-### 56. Miscellaneous amendments[^key-d98148bc6fe5aa7215ecc7391667b2ab]
+### 56. Miscellaneous amendments[^c-d98148bc6fe5aa7215ecc7391667b2ab]
 
 The amendments specified in Part 2 of schedule 2 have effect.
 
@@ -1345,18 +1345,18 @@ Edinburgh
 
 Regulation 52
 
-#### 1. Entitlement to short-term assistance[^key-26e5b84ddb3bc07208a15a78cfcd9fef]
+#### 1. Entitlement to short-term assistance[^c-26e5b84ddb3bc07208a15a78cfcd9fef]
 
 (1) Subject to sub-paragraphs (5) and (6), an individual who is, or was, entitled to Scottish Adult Disability Living Allowance under a determination made on the basis that the individual has ongoing entitlement is entitled to short-term assistance where—
 
 - (a) that determination of the individual’s entitlement to Scottish Adult Disability Living Allowance (“**the earlier determination**”) has been superseded by—
   - (i) a determination under section 37 (duty to make determination) of the 2018 Act, or
   - (ii) if the earlier determination is a—
-    - (aa)[^key-f8a261e7da7626589421aef9671496b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-f8a261e7da7626589421aef9671496b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under paragraph 12 of schedule 1 (reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year),
     - (cc) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under paragraph 13 of schedule 1 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended),
     - (dd) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under regulation 47 (individuals to whom Disability Living Allowance is paid before moving to Scotland),
-    - (ee)[^key-0572077daea5372ee4867066fc63cbe4] determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under regulation 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
+    - (ee)[^c-0572077daea5372ee4867066fc63cbe4] determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under regulation 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
 
     a determination under section 43 (duty to re-determine) or section 49 (First-tier Tribunal’s power to determine entitlement) of the 2018 Act,
 - (b) as a result of—
@@ -1409,7 +1409,7 @@ the Scottish Ministers are to make a determination without application of the in
 
 (9) In this Part of the schedule “**the earlier determination**” has the meaning given in sub-paragraph (1)(a).
 
-#### 2. Value and form[^key-2c02395a41f8ceb0dc8089265a630711]
+#### 2. Value and form[^c-2c02395a41f8ceb0dc8089265a630711]
 
 (1) The value of short-term assistance payable for any period is equal to V1-V2 where—
 
@@ -1425,7 +1425,7 @@ the Scottish Ministers are to make a determination without application of the in
 
 (4) Regulations 39 (form of payment - giving Scottish Adult Disability Living Allowance by way of deduction), 44 (determination following official error – underpayments), 45 (determination following error – overpayments) and 46 (determination to effect a deduction decision) apply to short-term assistance in the same way as they apply to Scottish Adult Disability Living Allowance.
 
-#### 3. End of entitlement[^key-b8d885ccbab6c5aca39e405af1ea1286]
+#### 3. End of entitlement[^c-b8d885ccbab6c5aca39e405af1ea1286]
 
 (1) When an individual’s entitlement to short-term assistance is to end under paragraph (2), the Scottish Ministers are to make a determination without application.
 
@@ -1437,42 +1437,42 @@ the Scottish Ministers are to make a determination without application of the in
 - (d) that the First-tier Tribunal for Scotland makes a determination to refuse permission under section 48(1)(b) of the 2018 Act (deadline for appealing) to bring an appeal against the determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in paragraph 1(1)(a)(i) or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates, or
 - (e) where the individual withdraws their application to bring an appeal against the determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in paragraph 1(1)(a)(i) or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates, on that day.
 
-#### 4. Reduction of Scottish Adult Disability Living Allowance where short-term assistance has been paid[^key-99b6b9f655c5bfb5c4c67954eddfc72d]
+#### 4. Reduction of Scottish Adult Disability Living Allowance where short-term assistance has been paid[^c-99b6b9f655c5bfb5c4c67954eddfc72d]
 
 Where an individual has received short-term assistance for a period and a determination is subsequently made that the individual is entitled to Scottish Adult Disability Living Allowance for the same period, any payment of Scottish Adult Disability Living Allowance to be made as a result of the subsequent determination for that period—
 
 - (a) where the individual is to be paid Scottish Adult Disability Living Allowance at the same rate as or a lower rate than any short-term assistance and any Scottish Adult Disability Living Allowance already paid to that individual for that period, is to be reduced to £0, and
 - (b) in any other case, is to be reduced by any short-term assistance and any Scottish Adult Disability Living Allowance already paid to that individual for that period.
 
-### PART 2 — Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+### PART 2 — Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 **No longer in force.**
 
-#### 5. Relevant individuals[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 5. Relevant individuals[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Notice of intention to transfer to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 6. Notice of intention to transfer to Scottish Adult Disability Living Allowance[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Determination without application of entitlement to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 7. Determination without application of entitlement to Scottish Adult Disability Living Allowance[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Effect of transfer determination on entitlement to Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 8. Effect of transfer determination on entitlement to Disability Living Allowance[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Exceptions to paragraph 7(5)[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 9. Exceptions to paragraph 7(5)[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Review determinations[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 10. Review determinations[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Appointees[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+#### 11. Appointees[^c-83bec4b13a65e84ac0c95ed174cd92e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1480,7 +1480,7 @@ Where an individual has received short-term assistance for a period and a determ
 
 Regulation 54
 
-#### 12. Reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year[^key-cbcff7a85cfb5c08e9ff35c80e5733a9]
+#### 12. Reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year[^c-cbcff7a85cfb5c08e9ff35c80e5733a9]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
 
@@ -1530,7 +1530,7 @@ is to be taken to be the period, of the relevant number of weeks referred to in 
 
 (10) Where an award is made under this paragraph, entitlement will begin on the date the individual made the request under sub-paragraph (1)(a).
 
-#### 13. Request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended[^key-acbf3315ed0f12c3604c47992de79303]
+#### 13. Request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended[^c-acbf3315ed0f12c3604c47992de79303]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
 
@@ -1557,8 +1557,8 @@ as the Scottish Ministers require.
 
 (3) In making a determination required by sub-paragraph (1) the Scottish Ministers are to use—
 
-- (a) the information provided in the request for entitlement, and[^key-207afccf8c9479765d931df6d6ad42f1]
-- (b)[^key-f69a8fb95abd07e911794b73e2676f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the information provided in the request for entitlement, and[^c-207afccf8c9479765d931df6d6ad42f1]
+- (b)[^c-f69a8fb95abd07e911794b73e2676f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
 
 (4) The Scottish Ministers may only make an award of a component of Scottish Adult Disability Living Allowance under this regulation if the entitlement results from substantially the same condition or conditions in respect of which the relevant component of Disability Living Allowance was previously given.
@@ -1593,7 +1593,7 @@ is to be taken to be the period, of the relevant number of weeks referred to in 
 
 (10) Where an award is made under this paragraph, entitlement will begin on the date the individual made the request under sub-paragraph (1)(a).
 
-(11)[^key-95c77fb5f15e3223dc94f614be016578] This paragraph does not apply where regulation 47 (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026) applies.
+(11)[^c-95c77fb5f15e3223dc94f614be016578] This paragraph does not apply where regulation 47 (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026) applies.
 
 ## SCHEDULE 2
 
@@ -1601,7 +1601,7 @@ is to be taken to be the period, of the relevant number of weeks referred to in 
 
 Regulation 55
 
-**1.**[^key-e2491d70d814ee75ba11eb366ad534c1] (1) The Social Security Contributions and Benefits Act 1992[^f00101] is amended in accordance with paragraph (2).
+**1.**[^c-e2491d70d814ee75ba11eb366ad534c1] (1) The Social Security Contributions and Benefits Act 1992[^f00101] is amended in accordance with paragraph (2).
 
 (2) In section 70(2) (carer’s allowance), after “pension age disability payment” insert “or scottish adult disability living allowance by virtue of entitlement to the care component at the highest or middle rate”.
 
@@ -1609,7 +1609,7 @@ Regulation 55
 
 Regulation 56
 
-**2.**[^key-3bd8dd318fa7faa2fc4246842b269d4a] (1) The Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00102] are amended as follows.
+**2.**[^c-3bd8dd318fa7faa2fc4246842b269d4a] (1) The Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00102] are amended as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “Attendance Allowance”, for the words “under section 64 of the Social Security Contributions and Benefits Act 1992” substitute—
 
@@ -1866,7 +1866,7 @@ Regulation 56
 
 .
 
-**3.**[^key-4e761f5cab6a6f476a92a9c5a32d8012] (1) The Disability Assistance for Older People (Scotland) Regulations 2024[^f00108] are amended as follows.
+**3.**[^c-4e761f5cab6a6f476a92a9c5a32d8012] (1) The Disability Assistance for Older People (Scotland) Regulations 2024[^f00108] are amended as follows.
 
 (2) In regulation 26 (amount and form of Pension Age Disability Payment), in paragraph (3)(b) after “attendance under”, insert “article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00109],”.
 
@@ -1941,9 +1941,9 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”). Schedules 5, 10 and 11 of the 2018 Act respectively make provision about the exercise of powers under sections 31, 36 and 51. Section 51 of the 2018 Act was amended by section 12(2) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”). Schedule 5 of the 2018 Act was amended by sections 11(2) and 13(3) of the 2020 Act. Schedule 11 of the 2018 Act was inserted by section 12(4) of the 2020 Act. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-b3a5f3374be4f6e3a48d22f6f5955a27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-b3a5f3374be4f6e3a48d22f6f5955a27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-3e8b1fd26ea5c98ec5b64213757ad452]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/3/regulation/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-3e8b1fd26ea5c98ec5b64213757ad452]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/3/regulation/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217), [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346) and [S.S.I. 2024/105](https://www.legislation.gov.uk/ssi/2024/105).
 
@@ -1997,21 +1997,21 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00027]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was relevantly amended by section 146(2)(a) and schedule 11 of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), paragraph 236 of schedule 6 of the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), section 147(3) of the Finance Act (c. 14), sections 42 and 43 and schedule 7 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), section 257(2) of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 76 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 88 of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-0b7ef3dacf1e8032f8ff3469f6c7017c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/3/regulation/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-0b7ef3dacf1e8032f8ff3469f6c7017c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/3/regulation/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-a2f5a034cd188e0990d0986924755f15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/3/regulation/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-a2f5a034cd188e0990d0986924755f15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/3/regulation/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-23165cdd1be551e276a69041f4efb917]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/4/b) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/2) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
+[^c-23165cdd1be551e276a69041f4efb917]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/4/b) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/2) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
 
-[^key-871c034038d755d50f46332039c37161]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/3/regulation/5) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-871c034038d755d50f46332039c37161]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/3/regulation/5) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-2f00b3f2fbd2265cb6d326ff4bfd9920]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/3/regulation/6) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-2f00b3f2fbd2265cb6d326ff4bfd9920]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/3/regulation/6) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-5ac3c49c6321f184e4e05da51531047a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/3/regulation/7) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-5ac3c49c6321f184e4e05da51531047a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/3/regulation/7) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-5a7ea931cbea4c1fbf7ddeb58e8fcd80]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/3/regulation/8) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-5a7ea931cbea4c1fbf7ddeb58e8fcd80]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/3/regulation/8) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-8c9f39f3235d15f7819535d30a0489d0]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/8/2/a) inserted (1.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/16/2)
+[^c-8c9f39f3235d15f7819535d30a0489d0]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/8/2/a) inserted (1.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/16/2)
 
 [^f00028]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -2019,9 +2019,9 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00030]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-e817d788dc9116773f539bb7408cecbe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/3/regulation/9) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-e817d788dc9116773f539bb7408cecbe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/3/regulation/9) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-cc1fc5e5a9e4851fb80a241fbc229ab0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/3/regulation/10) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-cc1fc5e5a9e4851fb80a241fbc229ab0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/3/regulation/10) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00031]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 115(9) was amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
@@ -2031,27 +2031,27 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00034]: Footnote: OJ C 202, 7.6.2016.
 
-[^key-ad2ce276d5be8c04562cdedb8e7c7995]: Textual amendment: Word in [reg. 10(7)(e)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/e) omitted (11.9.2025) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/a)
+[^c-ad2ce276d5be8c04562cdedb8e7c7995]: Textual amendment: Word in [reg. 10(7)(e)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/e) omitted (11.9.2025) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/a)
 
-[^key-79be7d65d1822c438786066e96d7b491]: Textual amendment: [Reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g)[(h)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/h) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/b)
+[^c-79be7d65d1822c438786066e96d7b491]: Textual amendment: [Reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g)[(h)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/h) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/b)
 
-[^key-63f55660c735adb4e3ec6574379710ee]: Textual amendment: Word in [reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/i)
+[^c-63f55660c735adb4e3ec6574379710ee]: Textual amendment: Word in [reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/i)
 
-[^key-c0e6f28c26b1a9bdda5c1b3607f2b4cd]: Textual amendment: [Reg. 10(7)(i)(j)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/i/j) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/ii)
+[^c-c0e6f28c26b1a9bdda5c1b3607f2b4cd]: Textual amendment: [Reg. 10(7)(i)(j)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/i/j) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/ii)
 
 [^f00035]: Footnote: Published at https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme.
 
-[^key-975bbea3694307366c1dd75f6f309f45]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/9) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/b)
+[^c-975bbea3694307366c1dd75f6f309f45]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/9) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/b)
 
-[^key-32bafce05d696604db228f37de301dca]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/3/regulation/11) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-32bafce05d696604db228f37de301dca]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/3/regulation/11) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-1c48b73a2822f3466352b36809591f68]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/a) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/a)
+[^c-1c48b73a2822f3466352b36809591f68]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/a) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/a)
 
-[^key-b2389983f6c43d8038e676e162eaf4c9]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/c) and word inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/b)
+[^c-b2389983f6c43d8038e676e162eaf4c9]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/c) and word inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/b)
 
-[^key-e5de21b2ba697fb15a0fb46a6084b46f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2025/3/regulation/11A) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/4)
+[^c-e5de21b2ba697fb15a0fb46a6084b46f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2025/3/regulation/11A) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/4)
 
-[^key-0e9f9503ffd21f1ee3def7ebe6657027]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/3/regulation/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-0e9f9503ffd21f1ee3def7ebe6657027]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/3/regulation/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00036]: Footnote: [S.S.I. 2009/210](https://www.legislation.gov.uk/ssi/2009/210).
 
@@ -2067,11 +2067,11 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00042]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-05ffaccdf07de4c7d9537d62316ba256]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/3/regulation/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-05ffaccdf07de4c7d9537d62316ba256]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/3/regulation/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00043]: Footnote: Section 120 was amended by paragraph 30 of schedule 4 of the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), paragraph 26 of schedule 3 and paragraph 8 of schedule 7 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), paragraph 70 of schedule 7 of the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) and sections 12(2) to (4) of the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7).
 
-[^key-db4007b0d7d67c73c7eaf077a10e05d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/3/regulation/14) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-db4007b0d7d67c73c7eaf077a10e05d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/3/regulation/14) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00044]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
@@ -2079,27 +2079,27 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00046]: Footnote: [S.I. 2024/149](https://www.legislation.gov.uk/uksi/2024/149).
 
-[^key-f36e05ecdf625c9ebfb4aca296b05fe6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/3/regulation/15) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-f36e05ecdf625c9ebfb4aca296b05fe6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/3/regulation/15) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00047]: Footnote: Command Paper 2073 and OJ L 1. 3.1.1994, p. 3.
 
 [^f00048]: Footnote: Command Paper 2183 and OJ L 1. 3.1.1994, p. 572.
 
-[^key-c980df66fcecf3a097957d7cac479683]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/3/regulation/16) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-c980df66fcecf3a097957d7cac479683]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/3/regulation/16) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-ef42ca0458770fa9415db225ea3bc125]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/3/regulation/17) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-ef42ca0458770fa9415db225ea3bc125]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/3/regulation/17) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-05a451c3fcc7d7c9fd44e7e8916240a7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/3/regulation/18) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-05a451c3fcc7d7c9fd44e7e8916240a7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/3/regulation/18) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-15ad0e6bc98ec38370f4aa2b97f90dd0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2025/3/regulation/19) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-15ad0e6bc98ec38370f4aa2b97f90dd0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2025/3/regulation/19) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-3a8ab60b1b7acb83a2a03fa96fa5337c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2025/3/regulation/20) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-3a8ab60b1b7acb83a2a03fa96fa5337c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2025/3/regulation/20) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00049]: Footnote: Schedule 5 of the 2018 Act was amended by sections 11(2) of the 2020 Act.
 
 [^f00050]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
 
-[^key-ba574e00747fe195bece8497309f3b03]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2025/3/regulation/21) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-ba574e00747fe195bece8497309f3b03]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2025/3/regulation/21) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00051]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -2117,9 +2117,9 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00058]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
 
-[^key-ada1156f922798f1ff9c9817f5e00ccb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2025/3/regulation/22) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-ada1156f922798f1ff9c9817f5e00ccb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2025/3/regulation/22) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-162fb4b6dc1f04073d2e0d5fc9288c8e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2025/3/regulation/23) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-162fb4b6dc1f04073d2e0d5fc9288c8e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2025/3/regulation/23) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00059]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -2129,13 +2129,13 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00062]: Footnote: The Defence Council was established by section 1 of the Defence (Transfer of Functions) Act [1964 (c. 15)](https://www.legislation.gov.uk/ukpga/1964/15).
 
-[^key-64dfe8df632cf20cd372693931f545ba]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2025/3/regulation/24) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-64dfe8df632cf20cd372693931f545ba]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2025/3/regulation/24) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-0b3e103d48246f72a00877aef6dc7e27]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2025/3/regulation/25) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-0b3e103d48246f72a00877aef6dc7e27]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2025/3/regulation/25) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-ef54edbf99481b243b5f8451b7b83ddd]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2025/3/regulation/26) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-ef54edbf99481b243b5f8451b7b83ddd]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2025/3/regulation/26) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-21801c0be2ddad42a7d2a80ccfaf49ab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2025/3/regulation/27) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-21801c0be2ddad42a7d2a80ccfaf49ab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2025/3/regulation/27) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00063]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -2143,19 +2143,19 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00065]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Sections 52D and 52M were inserted by section 130 of the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) subject to savings and transitional provisions specified in [S.S.I. 2005/452](https://www.legislation.gov.uk/ssi/2005/452). Section 52D was amended by sections 38(2)(c), 40(2)(a)(i) and (ii) and 40(2)(b) of the Mental Health (Scotland) Act [2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9). Section 52M was amended by sections 38(2)(g), 41(2)(a) and 41(2)(b) of the Mental Health (Scotland) Act 2015.
 
-[^key-58dce32286da837fc30cd8821088234f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2025/3/regulation/28) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-58dce32286da837fc30cd8821088234f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2025/3/regulation/28) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-b5e12e16827615f1d904a76a28f5ae77]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2025/3/regulation/29) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-b5e12e16827615f1d904a76a28f5ae77]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2025/3/regulation/29) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-fbcde428b88db7a5f790b02aa8f52c16]: Textual amendment: Sum in [Reg. 29(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/a) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+[^c-fbcde428b88db7a5f790b02aa8f52c16]: Textual amendment: Sum in [Reg. 29(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/a) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
 
-[^key-89c61962aab25e318f8faab4f930c8aa]: Textual amendment: Sum in [Reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/b) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+[^c-89c61962aab25e318f8faab4f930c8aa]: Textual amendment: Sum in [Reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/b) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
 
-[^key-15dc0d495d6c71dc6cda5b2fb5d1fa91]: Textual amendment: Sum in [Reg. 29(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/c) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/c) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+[^c-15dc0d495d6c71dc6cda5b2fb5d1fa91]: Textual amendment: Sum in [Reg. 29(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/c) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/c) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
 
-[^key-df74e81dbecde075ecd0160e032f6def]: Textual amendment: Sum in [Reg. 29(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(d)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/d) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+[^c-df74e81dbecde075ecd0160e032f6def]: Textual amendment: Sum in [Reg. 29(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(d)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/d) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
 
-[^key-d5697fcda873cf77c5f698affd01d493]: Textual amendment: Sum in [Reg. 29(2)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(e)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/e) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+[^c-d5697fcda873cf77c5f698affd01d493]: Textual amendment: Sum in [Reg. 29(2)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(e)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/e) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
 
 [^f00066]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 14 was amended by paragraph 3 of schedule 1 of the Personal Injuries (Civilians) Amendment Scheme 2001/420.
 
@@ -2179,103 +2179,103 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00076]: Footnote: Cmnd. 4567, as amended by Cmnd. 5421, [S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843), Cmnd. 5120, [S.I. 1993/597](https://www.legislation.gov.uk/uksi/1993/597) and [S.I. 1994/773](https://www.legislation.gov.uk/uksi/1994/773).
 
-[^key-1efe2d00e9c61496ccb43650716c09a2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2025/3/regulation/30) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-1efe2d00e9c61496ccb43650716c09a2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2025/3/regulation/30) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-786b8c5d5ba8a27dcf522f14fd5e2cdb]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2025/3/regulation/31) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-786b8c5d5ba8a27dcf522f14fd5e2cdb]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2025/3/regulation/31) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-d1ecd7099474b1fef543ec993194e8aa]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2025/3/regulation/32) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-d1ecd7099474b1fef543ec993194e8aa]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2025/3/regulation/32) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-c3ab4f883c75852d3526dddc542ed462]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2025/3/regulation/33) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-c3ab4f883c75852d3526dddc542ed462]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2025/3/regulation/33) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-7263ffbd9d99e76311cd044e16ca01ed]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/ssi/2025/3/regulation/33/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/3)
+[^c-7263ffbd9d99e76311cd044e16ca01ed]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/ssi/2025/3/regulation/33/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/3)
 
 [^f00077]: Footnote: Section 54(1A) was inserted by section 12(3)(b) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
 
 [^f00078]: Footnote: Section 85B was inserted by section 2(4) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
 
-[^key-dbcdcdedf92a9e64150ef6b3c21a67d6]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2025/3/regulation/34) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-dbcdcdedf92a9e64150ef6b3c21a67d6]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2025/3/regulation/34) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-105592c47d208846cb063b5fb2d1fd3c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/3/regulation/35) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-105592c47d208846cb063b5fb2d1fd3c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/3/regulation/35) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-b41d47a54a73477bf15b5596458c8fa3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2025/3/regulation/36) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-b41d47a54a73477bf15b5596458c8fa3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2025/3/regulation/36) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-50e4475e60b56001e65f19cf289e20ea]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/3/regulation/37) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-50e4475e60b56001e65f19cf289e20ea]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/3/regulation/37) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00079]: Footnote: Section 54(1) was amended by section 12(3)(a) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
 
 [^f00080]: Footnote: Section 54(2) was amended by section 12(3)(c) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
 
-[^key-d984b557ae2d4c4fa86f3e7ff7c7ac66]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/3/regulation/38) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-d984b557ae2d4c4fa86f3e7ff7c7ac66]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/3/regulation/38) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-39e71ea499a1264f955a5359f66c9bd3]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/3/regulation/39) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-39e71ea499a1264f955a5359f66c9bd3]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/3/regulation/39) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-0f401dc3f78db7390b7be475d8e906c3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2025/3/regulation/40) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-0f401dc3f78db7390b7be475d8e906c3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2025/3/regulation/40) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00081]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
 
-[^key-fa423c0546780e161ffc64a687df054e]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2025/3/regulation/41) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-fa423c0546780e161ffc64a687df054e]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2025/3/regulation/41) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-d94a9ed29c43bb336566a0722b8442ca]: Textual amendment: Word in [reg. 41(1)(c)(i)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c/i) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/a)
+[^c-d94a9ed29c43bb336566a0722b8442ca]: Textual amendment: Word in [reg. 41(1)(c)(i)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c/i) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/a)
 
-[^key-3f0bb4580f03f94716d5e1e63fbb4318]: Textual amendment: [Reg. 41(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c)[(ia)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/ia) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/b) (with [reg. 18(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/4))
+[^c-3f0bb4580f03f94716d5e1e63fbb4318]: Textual amendment: [Reg. 41(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c)[(ia)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/ia) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/b) (with [reg. 18(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/4))
 
-[^key-f275d7ea158bcf826850cfe80c23a43a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2025/3/regulation/42) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-f275d7ea158bcf826850cfe80c23a43a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2025/3/regulation/42) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-e08ee1ff47e1f679f2bc8272dac5c48b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2025/3/regulation/43) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-e08ee1ff47e1f679f2bc8272dac5c48b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2025/3/regulation/43) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-959e0a90975322e6ffca3256d4183b8b]: Textual amendment: [Reg. 43(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/c)[(d)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/d) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/a) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+[^c-959e0a90975322e6ffca3256d4183b8b]: Textual amendment: [Reg. 43(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/c)[(d)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/d) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/a) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
 
-[^key-6abc15a4ff7e82a4892480a1a75314cb]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2025/3/regulation/44) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-6abc15a4ff7e82a4892480a1a75314cb]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2025/3/regulation/44) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-3a3840e19364a6ba7aebed216669b15c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2025/3/regulation/45) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-3a3840e19364a6ba7aebed216669b15c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2025/3/regulation/45) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-fe0a50e6b788c92d00df9c1a6262927b]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2025/3/regulation/46) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-fe0a50e6b788c92d00df9c1a6262927b]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2025/3/regulation/46) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-9ba18a14e19dc7472e2fcb2f748e1fd3]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2025/3/regulation/47) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/5) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
+[^c-9ba18a14e19dc7472e2fcb2f748e1fd3]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2025/3/regulation/47) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/5) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
 
-[^key-5c67236f727e932412a1cf4eda7127e0]: Textual amendment: [Regs. 47A](https://www.legislation.gov.uk/ssi/2025/3/regulation/47A), [47B](https://www.legislation.gov.uk/ssi/2025/3/regulation/47B) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/6)
+[^c-5c67236f727e932412a1cf4eda7127e0]: Textual amendment: [Regs. 47A](https://www.legislation.gov.uk/ssi/2025/3/regulation/47A), [47B](https://www.legislation.gov.uk/ssi/2025/3/regulation/47B) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/6)
 
-[^key-e1b5ce02e2276756934cda0d401cf66d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2025/3/regulation/48) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-e1b5ce02e2276756934cda0d401cf66d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2025/3/regulation/48) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-9d594b9575a1bb3ff50aec2384cf80d9]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2025/3/regulation/49) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-9d594b9575a1bb3ff50aec2384cf80d9]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2025/3/regulation/49) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-49cb434ad180482596dfbd4fb2d2f652]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2025/3/regulation/50) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-49cb434ad180482596dfbd4fb2d2f652]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2025/3/regulation/50) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-3b73afb1758f38201319ab4d6bd38de6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2025/3/regulation/51) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-3b73afb1758f38201319ab4d6bd38de6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2025/3/regulation/51) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-46ac2c7f4c03ff9aa5ffcae2249d6e7a]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2025/3/regulation/52) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-46ac2c7f4c03ff9aa5ffcae2249d6e7a]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2025/3/regulation/52) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-3b296d956d1940edf79b04bc29abeaa2]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/ssi/2025/3/regulation/53) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/b) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+[^c-3b296d956d1940edf79b04bc29abeaa2]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/ssi/2025/3/regulation/53) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/b) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
 
-[^key-9ddbe4b2f68429f8d0296b46428c279b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2025/3/regulation/54) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-9ddbe4b2f68429f8d0296b46428c279b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2025/3/regulation/54) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-a7e8909171be2958b546e5212689b26e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2025/3/regulation/55) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-a7e8909171be2958b546e5212689b26e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2025/3/regulation/55) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-d98148bc6fe5aa7215ecc7391667b2ab]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2025/3/regulation/56) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-d98148bc6fe5aa7215ecc7391667b2ab]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2025/3/regulation/56) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-26e5b84ddb3bc07208a15a78cfcd9fef]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-26e5b84ddb3bc07208a15a78cfcd9fef]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-f8a261e7da7626589421aef9671496b5]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/aa) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/c) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+[^c-f8a261e7da7626589421aef9671496b5]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/aa) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/c) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
 
-[^key-0572077daea5372ee4867066fc63cbe4]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(ee)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/ee) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(7)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/7)
+[^c-0572077daea5372ee4867066fc63cbe4]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(ee)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/ee) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(7)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/7)
 
 [^f00085]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-2c02395a41f8ceb0dc8089265a630711]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-2c02395a41f8ceb0dc8089265a630711]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-b8d885ccbab6c5aca39e405af1ea1286]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-b8d885ccbab6c5aca39e405af1ea1286]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-99b6b9f655c5bfb5c4c67954eddfc72d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-99b6b9f655c5bfb5c4c67954eddfc72d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
-[^key-83bec4b13a65e84ac0c95ed174cd92e0]: Textual amendment: Sch. 1 Pt. 2 revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(d)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/d) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+[^c-83bec4b13a65e84ac0c95ed174cd92e0]: Textual amendment: Sch. 1 Pt. 2 revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(d)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/d) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
 
-[^key-cbcff7a85cfb5c08e9ff35c80e5733a9]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-cbcff7a85cfb5c08e9ff35c80e5733a9]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00092]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54). Relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346).
 
 [^f00093]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
 
-[^key-acbf3315ed0f12c3604c47992de79303]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-acbf3315ed0f12c3604c47992de79303]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00094]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -2283,9 +2283,9 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00096]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
 
-[^key-207afccf8c9479765d931df6d6ad42f1]: Textual amendment: Word in [sch. 1 para. 13(3)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/i)
+[^c-207afccf8c9479765d931df6d6ad42f1]: Textual amendment: Word in [sch. 1 para. 13(3)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/i)
 
-[^key-f69a8fb95abd07e911794b73e2676f4a]: Textual amendment: [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3/b) omitted (23.2.2026) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/ii)
+[^c-f69a8fb95abd07e911794b73e2676f4a]: Textual amendment: [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3/b) omitted (23.2.2026) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/ii)
 
 [^f00097]: Footnote: [S.I. 2013/387](https://www.legislation.gov.uk/uksi/2013/387).
 
@@ -2295,13 +2295,13 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00100]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
 
-[^key-95c77fb5f15e3223dc94f614be016578]: Textual amendment: [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/11) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/b)
+[^c-95c77fb5f15e3223dc94f614be016578]: Textual amendment: [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/11) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/b)
 
-[^key-e2491d70d814ee75ba11eb366ad534c1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-e2491d70d814ee75ba11eb366ad534c1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00101]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-3bd8dd318fa7faa2fc4246842b269d4a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-3bd8dd318fa7faa2fc4246842b269d4a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00102]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54). Relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2024/105](https://www.legislation.gov.uk/ssi/2024/105).
 
@@ -2315,7 +2315,7 @@ Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability
 
 [^f00107]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-4e761f5cab6a6f476a92a9c5a32d8012]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+[^c-4e761f5cab6a6f476a92a9c5a32d8012]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
 
 [^f00108]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
 

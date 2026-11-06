@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Deferred membership[^key-5fff0d4026bd168bc0c9d6fba50b7fdc]
+## 29. Deferred membership[^c-5fff0d4026bd168bc0c9d6fba50b7fdc]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A person (P) is a deferred member of this scheme in relation to a continuous per
 
 ## Annotations
 
-[^key-5fff0d4026bd168bc0c9d6fba50b7fdc]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5fff0d4026bd168bc0c9d6fba50b7fdc]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

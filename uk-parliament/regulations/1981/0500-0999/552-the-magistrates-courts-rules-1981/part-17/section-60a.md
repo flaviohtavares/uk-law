@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60A. Applications under regulation 7(2)(b) of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020[^key-31916c57319843e44eefc7b05661f00f]
+## 60A. Applications under regulation 7(2)(b) of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020[^c-31916c57319843e44eefc7b05661f00f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31916c57319843e44eefc7b05661f00f]: Textual amendment: [Rule 60A](https://www.legislation.gov.uk/uksi/1981/552/rule/60A) inserted (4.5.2021) by [The Magistrates’ Courts (Amendment) Rules 2021 (S.I. 2021/459)](https://www.legislation.gov.uk/uksi/2021/459), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/459/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/459/rule/2/2)
+[^c-31916c57319843e44eefc7b05661f00f]: Textual amendment: [Rule 60A](https://www.legislation.gov.uk/uksi/1981/552/rule/60A) inserted (4.5.2021) by [The Magistrates’ Courts (Amendment) Rules 2021 (S.I. 2021/459)](https://www.legislation.gov.uk/uksi/2021/459), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/459/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/459/rule/2/2)

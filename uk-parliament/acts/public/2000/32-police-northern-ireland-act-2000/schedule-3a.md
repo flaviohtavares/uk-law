@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — BELFAST SUB-GROUPS[^key-cb3ae09100803c051968f0c9576b64b5]
+## SCHEDULE 3A — BELFAST SUB-GROUPS[^c-cb3ae09100803c051968f0c9576b64b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - “**political member**”, in relation to a sub-group, means a member appointed under paragraph 2(3);
 - “**sub-group**” means a sub-group established under section 21.
 
-(1A)[^key-90e17413954f66e83f7b8a29c4bad121] In this Schedule, in relation to a sub-group and the holding of a local general election—
+(1A)[^c-90e17413954f66e83f7b8a29c4bad121] In this Schedule, in relation to a sub-group and the holding of a local general election—
 
 - “**the transitional period**” means the period—
   - (a) beginning with the election day; and
@@ -57,7 +57,7 @@ summary: ''
 
 (2) Subject to the following provisions of this paragraph, a person shall hold and vacate office as a political member in accordance with the terms of his appointment.
 
-(3)[^key-59fefde575223e4ffc633b11c396f36d] A political member shall hold office until the date of the local general election next following his appointment.
+(3)[^c-59fefde575223e4ffc633b11c396f36d] A political member shall hold office until the date of the local general election next following his appointment.
 
 (4) A person appointed to fill a casual vacancy shall hold office for the remainder of the term of the political member in whose place he is appointed.
 
@@ -69,24 +69,24 @@ summary: ''
 
 (6) A person whose term of office as a political member expires or who has resigned shall be eligible for re-appointment.
 
-(7)[^key-05bed02fe12d6a454d90d33078419b5b] Where a political member ceases to hold office at any time during the transitional period, no appointment shall be made to fill the casual vacancy; and paragraph 2 and sub-paragraph (1) of this paragraph shall have effect subject to this sub-paragraph.
+(7)[^c-05bed02fe12d6a454d90d33078419b5b] Where a political member ceases to hold office at any time during the transitional period, no appointment shall be made to fill the casual vacancy; and paragraph 2 and sub-paragraph (1) of this paragraph shall have effect subject to this sub-paragraph.
 
 ### Independent members
 
 **4.** (1) Appointments of independent members shall be made by the Board from among
 
-- (a)[^key-b40cdbe24ea75ebea2e023978c325c89] persons nominated by the council in accordance with paragraph 5; and[^key-a7e66d6174c5fd156c0fbc1507254a58]
+- (a)[^c-b40cdbe24ea75ebea2e023978c325c89] persons nominated by the council in accordance with paragraph 5; and[^c-a7e66d6174c5fd156c0fbc1507254a58]
 - (b) persons who hold office as independent members of the partnership
 
 (2) In appointing independent members of a sub-group the Board shall so far as practicable secure that the members of the sub-group (taken together) are representative of the community in the sub-group’s police district.
 
-(2A)[^key-e8da6aae2082d6db0e672add4e62f047] Where, following a local general election, the Board has completed the appointment of the independent members of the sub-group for a police district, it shall publish notice of the date which is to be the reconstitution date in relation to the sub-group for that police district.
+(2A)[^c-e8da6aae2082d6db0e672add4e62f047] Where, following a local general election, the Board has completed the appointment of the independent members of the sub-group for a police district, it shall publish notice of the date which is to be the reconstitution date in relation to the sub-group for that police district.
 
 (2B) Notice under sub-paragraph (2A) shall be published in such manner as appears to the Board appropriate for bringing it to the attention of interested persons.
 
 (3) Subject to the following provisions of this paragraph, a person shall hold and vacate office as an independent member in accordance with the terms of his appointment.
 
-(4)[^key-b20a1d8025814ff54cdbad035a5871b3] An independent member shall hold office until the date of the local general election next following his appointment.
+(4)[^c-b20a1d8025814ff54cdbad035a5871b3] An independent member shall hold office until the date of the local general election next following his appointment.
 
 (5) A person appointed to fill a casual vacancy shall hold office for the remainder of the term of the independent member in whose place he is appointed.
 
@@ -97,7 +97,7 @@ summary: ''
 
 (7) A person whose term of office as an independent member expires or who has resigned shall be eligible for re-appointment.
 
-(8)[^key-e0bb92393fc23c8e616aea649d43297c] Where an independent member ceases to hold office at any time during the transitional period, no appointment shall be made to fill the casual vacancy; and paragraph 2 and sub-paragraphs (1) and (2) of this paragraph shall have effect subject to this sub-paragraph.
+(8)[^c-e0bb92393fc23c8e616aea649d43297c] Where an independent member ceases to hold office at any time during the transitional period, no appointment shall be made to fill the casual vacancy; and paragraph 2 and sub-paragraphs (1) and (2) of this paragraph shall have effect subject to this sub-paragraph.
 
 ### The council’s nominations
 
@@ -129,15 +129,15 @@ summary: ''
 
 **6.** (1) In exercising functions under paragraphs 4 and 5, the council and the Board shall have regard to any code of practice under this paragraph.
 
-(2) The Department of Justice[^key-0f5495ade30f55eceb8be2c63a605e7c] may issue, and from time to time revise, a code of practice containing guidance as to the exercise by the council and the Board of their functions under paragraphs 4 and 5.
+(2) The Department of Justice[^c-0f5495ade30f55eceb8be2c63a605e7c] may issue, and from time to time revise, a code of practice containing guidance as to the exercise by the council and the Board of their functions under paragraphs 4 and 5.
 
-(3) Before issuing or revising a code of practice under this paragraph, the Department of Justice[^key-1dcd8c9e5e94e7a2af98bd031008f6ea] shall consult—
+(3) Before issuing or revising a code of practice under this paragraph, the Department of Justice[^c-1dcd8c9e5e94e7a2af98bd031008f6ea] shall consult—
 
 - (a) the Board;
 - (b) the council; and
 - (c) the Equality Commission for Northern Ireland.
 
-(4) The Department of Justice[^key-ee06dcd855ada64c17fa53d525d817de] shall arrange for any code of practice issued or revised under this paragraph to be published in such manner as appears to the Department of Justice[^key-50f1c87f619f929d4bea46b2ef4e31dc] to be appropriate.
+(4) The Department of Justice[^c-ee06dcd855ada64c17fa53d525d817de] shall arrange for any code of practice issued or revised under this paragraph to be published in such manner as appears to the Department of Justice[^c-50f1c87f619f929d4bea46b2ef4e31dc] to be appropriate.
 
 ### Removal of members from office
 
@@ -145,7 +145,7 @@ summary: ''
 
 - (a) in the case of an independent member, he failed to make the necessary disclosure in relation to a conviction of his for a criminal offence in Northern Ireland or elsewhere;
 - (b) in the case of an independent member, he has acted in breach of the terms of a declaration against terrorism;
-- (c)[^key-824628ce2db507d59b139a97d77f4b73] he has been convicted in Northern Ireland or elsewhere after the date of his appointment of a criminal offence (whether committed before or after that date);
+- (c)[^c-824628ce2db507d59b139a97d77f4b73] he has been convicted in Northern Ireland or elsewhere after the date of his appointment of a criminal offence (whether committed before or after that date);
 - (d) he has become bankrupt or made a composition or arrangement with his creditors;
 - (e) he has failed to comply with the terms of his appointment; or
 - (f) he is otherwise unable or unfit to discharge his functions as a member of the sub-group.
@@ -199,7 +199,7 @@ summary: ''
 
 (9) In this paragraph “**suspended sentence**” means a sentence of imprisonment or detention that is ordered not to take effect unless the conditions specified in the order are met.
 
-### Chairman and vice-chairman[^key-5a4218814e106cda61b0798528ac60cb]
+### Chairman and vice-chairman[^c-5a4218814e106cda61b0798528ac60cb]
 
 **9.** (1) For each sub-group there shall be a chairman appointed by the council from among the political members.
 
@@ -262,7 +262,7 @@ summary: ''
   - (ii) any reference to a councillor were a reference to a member of the sub-group;
   - (iii) any reference to the clerk of the council were a reference to the person acting as secretary of the sub-group;
 - (b) in section 28(4) of that Act for the words from “by any local elector” to the end there were substituted the words “ by any person ”;
-- (c) in section 29 of that Act any reference to the Ministry were a reference to the Department of Justice[^key-2db597cbf037cf64fe217fecb433fc22].
+- (c) in section 29 of that Act any reference to the Ministry were a reference to the Department of Justice[^c-2db597cbf037cf64fe217fecb433fc22].
 
 ### Committees
 
@@ -290,34 +290,34 @@ summary: ''
 
 ## Annotations
 
-[^key-cb3ae09100803c051968f0c9576b64b5]: Textual amendment: Sch. 3A inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/13); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
+[^c-cb3ae09100803c051968f0c9576b64b5]: Textual amendment: Sch. 3A inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/13); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
 
-[^key-90e17413954f66e83f7b8a29c4bad121]: Textual amendment: Sch. 3A para. 1(1A) inserted by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-90e17413954f66e83f7b8a29c4bad121]: Textual amendment: Sch. 3A para. 1(1A) inserted by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-59fefde575223e4ffc633b11c396f36d]: Modification: Sch. 3A para. 3(3) amendment to earlier affecting provision 2003 c. 6, Sch. 1 para. 13 (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-59fefde575223e4ffc633b11c396f36d]: Modification: Sch. 3A para. 3(3) amendment to earlier affecting provision 2003 c. 6, Sch. 1 para. 13 (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-05bed02fe12d6a454d90d33078419b5b]: Textual amendment: Sch. 3A para. 3(7) added by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(3)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/3) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-05bed02fe12d6a454d90d33078419b5b]: Textual amendment: Sch. 3A para. 3(7) added by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(3)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/3) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-b40cdbe24ea75ebea2e023978c325c89]: Textual amendment: Sch. 3A para. 4(1) renumbered as Sch. 3A para. 4(1)(a) (N.I.) (4.9.2007) (temp.) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/5) (with [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
+[^c-b40cdbe24ea75ebea2e023978c325c89]: Textual amendment: Sch. 3A para. 4(1) renumbered as Sch. 3A para. 4(1)(a) (N.I.) (4.9.2007) (temp.) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/5) (with [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
 
-[^key-a7e66d6174c5fd156c0fbc1507254a58]: Textual amendment: Sch. 3A para. 4(1)(b) and word inserted (N.I.) (4.9.2007) (temp.) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/5) (with [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
+[^c-a7e66d6174c5fd156c0fbc1507254a58]: Textual amendment: Sch. 3A para. 4(1)(b) and word inserted (N.I.) (4.9.2007) (temp.) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/5) (with [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/16/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
 
-[^key-e8da6aae2082d6db0e672add4e62f047]: Textual amendment: Sch. 3A para. 4(2A)(2B) inserted by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(4)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/4) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-e8da6aae2082d6db0e672add4e62f047]: Textual amendment: Sch. 3A para. 4(2A)(2B) inserted by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(4)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/4) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-b20a1d8025814ff54cdbad035a5871b3]: Modification: Sch. 3A para. 4(4) amendment to earlier affecting provision 2003 c. 6, Sch. 1 para. 13 (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(5)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/5) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-b20a1d8025814ff54cdbad035a5871b3]: Modification: Sch. 3A para. 4(4) amendment to earlier affecting provision 2003 c. 6, Sch. 1 para. 13 (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(5)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/5) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-e0bb92393fc23c8e616aea649d43297c]: Textual amendment: Sch. 3A para. 4(8) added by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(6)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/6) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-e0bb92393fc23c8e616aea649d43297c]: Textual amendment: Sch. 3A para. 4(8) added by 2003 c. 6, Sch. 1 para. 13 (as amended (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 2(6)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/2/6) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3)](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-0f5495ade30f55eceb8be2c63a605e7c]: Textual amendment: Words in [Sch. 3A para. 6(2)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-0f5495ade30f55eceb8be2c63a605e7c]: Textual amendment: Words in [Sch. 3A para. 6(2)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-1dcd8c9e5e94e7a2af98bd031008f6ea]: Textual amendment: Words in [Sch. 3A para. 6(3)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-1dcd8c9e5e94e7a2af98bd031008f6ea]: Textual amendment: Words in [Sch. 3A para. 6(3)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-ee06dcd855ada64c17fa53d525d817de]: Textual amendment: Words in [Sch. 3A para. 6(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(c)(i)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/c/i) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ee06dcd855ada64c17fa53d525d817de]: Textual amendment: Words in [Sch. 3A para. 6(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(c)(i)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/c/i) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-50f1c87f619f929d4bea46b2ef4e31dc]: Textual amendment: Words in [Sch. 3A para. 6(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/c/ii) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-50f1c87f619f929d4bea46b2ef4e31dc]: Textual amendment: Words in [Sch. 3A para. 6(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/6/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/2/c/ii) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-824628ce2db507d59b139a97d77f4b73]: Textual amendment: Sch. 3A para. 7(1)(c) substituted (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/3) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-824628ce2db507d59b139a97d77f4b73]: Textual amendment: Sch. 3A para. 7(1)(c) substituted (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/3) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-5a4218814e106cda61b0798528ac60cb]: Textual amendment: Sch. 3A para. 9 substituted (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/4) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
+[^c-5a4218814e106cda61b0798528ac60cb]: Textual amendment: Sch. 3A para. 9 substituted (N.I.) (4.9.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/6), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9/paragraph/4) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2006/53/section/1/3)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 3](https://www.legislation.gov.uk/nisr/2007/371/article/3)
 
-[^key-2db597cbf037cf64fe217fecb433fc22]: Textual amendment: Words in Sch. 3A para. 16(c) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2db597cbf037cf64fe217fecb433fc22]: Textual amendment: Words in Sch. 3A para. 16(c) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 89(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/89/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

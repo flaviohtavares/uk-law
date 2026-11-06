@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. For the protection of the Environment Agency[^key-45f46c9fb4293f55398c68fa5c16c1b5]
+## 47. For the protection of the Environment Agency[^c-45f46c9fb4293f55398c68fa5c16c1b5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 16 (for the protection of the Environment Agency) hav
 
 ## Annotations
 
-[^key-45f46c9fb4293f55398c68fa5c16c1b5]: Commencement: Art. 47 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-45f46c9fb4293f55398c68fa5c16c1b5]: Commencement: Art. 47 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

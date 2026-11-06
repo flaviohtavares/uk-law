@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16A. Approved places of inspection: Northern Ireland[^key-b995f234a7e0269f5c70dfb2e29fc3b9]
+## 16A. Approved places of inspection: Northern Ireland[^c-b995f234a7e0269f5c70dfb2e29fc3b9]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b995f234a7e0269f5c70dfb2e29fc3b9]: Textual amendment: [Art. 16A](https://www.legislation.gov.uk/nisr/2006/66/article/16A) inserted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(20)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b995f234a7e0269f5c70dfb2e29fc3b9]: Textual amendment: [Art. 16A](https://www.legislation.gov.uk/nisr/2006/66/article/16A) inserted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(20)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

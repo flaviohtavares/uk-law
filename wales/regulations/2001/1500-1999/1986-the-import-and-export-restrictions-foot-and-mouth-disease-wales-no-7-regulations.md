@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 7) Regulations 2001 (revoked)[^key-022528cc85051352d1d936ebf07b0ce8]
+The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 7) Regulations 2001 (revoked)[^c-022528cc85051352d1d936ebf07b0ce8]
 
 Made
 
@@ -43,108 +43,108 @@ Coming into force
 
 19th May 2001
 
-[^key-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application, commencement, and cessation[^key-022528cc85051352d1d936ebf07b0ce8]
+## 1. Title, application, commencement, and cessation[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-022528cc85051352d1d936ebf07b0ce8]
+## 2. Interpretation[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Import and export of live animals[^key-022528cc85051352d1d936ebf07b0ce8]
+## 3. Import and export of live animals[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Export of fresh meat[^key-022528cc85051352d1d936ebf07b0ce8]
+## 4. Export of fresh meat[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Export of meat products[^key-022528cc85051352d1d936ebf07b0ce8]
+## 5. Export of meat products[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Export of milk[^key-022528cc85051352d1d936ebf07b0ce8]
+## 6. Export of milk[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Export of milk products[^key-022528cc85051352d1d936ebf07b0ce8]
+## 7. Export of milk products[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Export of semen, etc.[^key-022528cc85051352d1d936ebf07b0ce8]
+## 8. Export of semen, etc.[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Export of hides and skins[^key-022528cc85051352d1d936ebf07b0ce8]
+## 9. Export of hides and skins[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Export of animal products[^key-022528cc85051352d1d936ebf07b0ce8]
+## 10. Export of animal products[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exemptions[^key-022528cc85051352d1d936ebf07b0ce8]
+## 11. Exemptions[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Endorsement of commercial documents[^key-022528cc85051352d1d936ebf07b0ce8]
+## 12. Endorsement of commercial documents[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Third country certificates[^key-022528cc85051352d1d936ebf07b0ce8]
+## 13. Third country certificates[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Export of horses[^key-022528cc85051352d1d936ebf07b0ce8]
+## 14. Export of horses[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Powers of inspectors[^key-022528cc85051352d1d936ebf07b0ce8]
+## 15. Powers of inspectors[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Powers of customs officers[^key-022528cc85051352d1d936ebf07b0ce8]
+## 16. Powers of customs officers[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Illegal consignments[^key-022528cc85051352d1d936ebf07b0ce8]
+## 17. Illegal consignments[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Obstruction[^key-022528cc85051352d1d936ebf07b0ce8]
+## 18. Obstruction[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Offences by bodies corporate[^key-022528cc85051352d1d936ebf07b0ce8]
+## 19. Offences by bodies corporate[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Penalties[^key-022528cc85051352d1d936ebf07b0ce8]
+## 20. Penalties[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Certificates, etc. issued in Northern Ireland, England or Scotland[^key-022528cc85051352d1d936ebf07b0ce8]
+## 21. Certificates, etc. issued in Northern Ireland, England or Scotland[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Enforcement[^key-022528cc85051352d1d936ebf07b0ce8]
+## 22. Enforcement[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Revocation[^key-022528cc85051352d1d936ebf07b0ce8]
+## 23. Revocation[^c-022528cc85051352d1d936ebf07b0ce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-022528cc85051352d1d936ebf07b0ce8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-022528cc85051352d1d936ebf07b0ce8]: Textual amendment: Regulations revoked (20.6.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 8) Regulations 2001 (S.I. 2001/2235)](https://www.legislation.gov.uk/uksi/2001/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2235/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2001/2235/regulation/23)
+[^c-022528cc85051352d1d936ebf07b0ce8]: Textual amendment: Regulations revoked (20.6.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 8) Regulations 2001 (S.I. 2001/2235)](https://www.legislation.gov.uk/uksi/2001/2235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2235/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2001/2235/regulation/23)

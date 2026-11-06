@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Amendment of the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^key-975524a2f4aa2d6273d7d33b69c5f81b]
+## 70. Amendment of the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^c-975524a2f4aa2d6273d7d33b69c5f81b]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-975524a2f4aa2d6273d7d33b69c5f81b]: Commencement: Reg. 70 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-975524a2f4aa2d6273d7d33b69c5f81b]: Commencement: Reg. 70 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00063]: Footnote: [S.R. 2009 No.252](https://www.legislation.gov.uk/nisr/2009/252)

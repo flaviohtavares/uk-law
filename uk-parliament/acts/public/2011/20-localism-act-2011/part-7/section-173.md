@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Determinations under this Chapter[^key-459f6748827aeb9b8d165b9a6145bf30][^key-9a5e3c8f813ac61e458888bb0362e484]
+## 173. Determinations under this Chapter[^c-459f6748827aeb9b8d165b9a6145bf30][^c-9a5e3c8f813ac61e458888bb0362e484]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-459f6748827aeb9b8d165b9a6145bf30]: Modification: S. 173 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-459f6748827aeb9b8d165b9a6145bf30]: Modification: S. 173 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-9a5e3c8f813ac61e458888bb0362e484]: Modification: S. 173 modified in part by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))
+[^c-9a5e3c8f813ac61e458888bb0362e484]: Modification: S. 173 modified in part by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))

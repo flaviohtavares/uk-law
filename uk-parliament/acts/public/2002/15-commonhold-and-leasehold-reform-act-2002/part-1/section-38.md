@@ -33,8 +33,8 @@ summary: ''
 - (a) the percentages allocated by a commonhold community statement to the commonhold units must amount in aggregate to 100;
 - (b) a commonhold community statement may specify 0 per cent. in relation to a unit.
 
-(3)[^key-b09d4591aebbe6d0e091899f9a95e6cf] In subsection (1)(a) “**expenses of the association**” does not include building safety expenses of the association (within the meaning of section 38A).
+(3)[^c-b09d4591aebbe6d0e091899f9a95e6cf] In subsection (1)(a) “**expenses of the association**” does not include building safety expenses of the association (within the meaning of section 38A).
 
 ## Annotations
 
-[^key-b09d4591aebbe6d0e091899f9a95e6cf]: Textual amendment: [S. 38(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/38/3) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(7)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/7), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-b09d4591aebbe6d0e091899f9a95e6cf]: Textual amendment: [S. 38(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/38/3) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(7)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/7), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)

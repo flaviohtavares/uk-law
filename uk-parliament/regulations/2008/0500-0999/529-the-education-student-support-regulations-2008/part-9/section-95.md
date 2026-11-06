@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Calculation of contribution[^key-4f881716cecb653a87994146758acea8]
+## 95. Calculation of contribution[^c-4f881716cecb653a87994146758acea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f881716cecb653a87994146758acea8]: Commencement: Reg. 95 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-4f881716cecb653a87994146758acea8]: Commencement: Reg. 95 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

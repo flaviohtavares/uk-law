@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.22. Delivery of documents to authorised recipients[^key-144f6ebe279e454a467d45ceaadde093]
+## 7.22. Delivery of documents to authorised recipients[^c-144f6ebe279e454a467d45ceaadde093]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the Act or these Rules a document is to be delivered to a person (ot
 
 ## Annotations
 
-[^key-144f6ebe279e454a467d45ceaadde093]: Commencement: Rule 7.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-144f6ebe279e454a467d45ceaadde093]: Commencement: Rule 7.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

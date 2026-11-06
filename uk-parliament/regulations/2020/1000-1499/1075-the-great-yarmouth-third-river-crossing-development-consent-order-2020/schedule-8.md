@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — LAND IN WHICH ONLY AIRSPACE AND NEW RIGHTS MAY BE ACQUIRED[^key-eb353d9bcceacbd29959f10d54619390]
+## SCHEDULE 8 — LAND IN WHICH ONLY AIRSPACE AND NEW RIGHTS MAY BE ACQUIRED[^c-eb353d9bcceacbd29959f10d54619390]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ Article 33(2)
 
 ## Annotations
 
-[^key-eb353d9bcceacbd29959f10d54619390]: Commencement: Sch. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-eb353d9bcceacbd29959f10d54619390]: Commencement: Sch. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

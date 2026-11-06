@@ -27,7 +27,7 @@ summary: ''
 
 be carried into effect in pursuance of the recommendation.
 
-(2) Those judges are [^c20657271]. . . the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20657231] President of the Business and Property Division[^key-a4b4b86fdb5ee25d63054c015fad4d7f]
+(2) Those judges are [^c20657271]. . . the Lord Chief Justice, the Master of the Rolls, the President of the Queen's Bench Division, the President of the Family Division and the[^c20657231] President of the Business and Property Division[^c-a4b4b86fdb5ee25d63054c015fad4d7f]
 
 (3) An Order in Council under this section may include such incidental, supplementary or consequential provisions as appear to Her Majesty necessary or expedient, including amendments of provisions referring to particular Divisions contained in this Act or any other statutory provision.
 
@@ -41,4 +41,4 @@ be carried into effect in pursuance of the recommendation.
 
 [^c20657231]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/7/2) substituted (1.10.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 120(3)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/120/3/b); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-a4b4b86fdb5ee25d63054c015fad4d7f]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/7/2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/c)
+[^c-a4b4b86fdb5ee25d63054c015fad4d7f]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/7/2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/c)

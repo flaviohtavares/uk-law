@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Appeal to First-tier Tribunal against process decisions[^key-a4b17882005dfb04ac1d74d21a333884]
+## 10. Appeal to First-tier Tribunal against process decisions[^c-a4b17882005dfb04ac1d74d21a333884]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b17882005dfb04ac1d74d21a333884]: Commencement: S. 10 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-a4b17882005dfb04ac1d74d21a333884]: Commencement: S. 10 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

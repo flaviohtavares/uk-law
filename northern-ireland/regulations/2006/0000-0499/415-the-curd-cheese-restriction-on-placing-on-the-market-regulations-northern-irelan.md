@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Curd Cheese (Restriction on Placing on the Market) Regulations (Northern Ireland) 2006 (revoked)[^key-12eb2ba756a4270e13c5c379a1e0a868]
+The Curd Cheese (Restriction on Placing on the Market) Regulations (Northern Ireland) 2006 (revoked)[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 18th October 2006
 
-[^key-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 1. Citation and commencement[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 2. Interpretation[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the placing on the market of curd cheese[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 3. Prohibition on the placing on the market of curd cheese[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 5. Inspection and seizure of suspected products[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 6. Offences and penalties[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-12eb2ba756a4270e13c5c379a1e0a868]
+## 7. Enforcement[^c-12eb2ba756a4270e13c5c379a1e0a868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12eb2ba756a4270e13c5c379a1e0a868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12eb2ba756a4270e13c5c379a1e0a868]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/415) revoked (7.3.2007) by [The Curd Cheese (Restriction on Placing on the Market) (Revocation) Regulations (Northern Ireland) 2007 (S.R. 2007/136)](https://www.legislation.gov.uk/nisr/2007/136), [regs. 1](https://www.legislation.gov.uk/nisr/2007/136/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/136/regulation/2)
+[^c-12eb2ba756a4270e13c5c379a1e0a868]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/415) revoked (7.3.2007) by [The Curd Cheese (Restriction on Placing on the Market) (Revocation) Regulations (Northern Ireland) 2007 (S.R. 2007/136)](https://www.legislation.gov.uk/nisr/2007/136), [regs. 1](https://www.legislation.gov.uk/nisr/2007/136/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/136/regulation/2)

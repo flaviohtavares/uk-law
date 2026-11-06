@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Commission shall consist of members to be known as Electoral Commissioners.
 
-(3) There shall be nine or ten[^key-448a3539a3897bbd941c5d9dc1da91c3] Electoral Commissioners.
+(3) There shall be nine or ten[^c-448a3539a3897bbd941c5d9dc1da91c3] Electoral Commissioners.
 
 (4) The Electoral Commissioners shall be appointed by Her Majesty (in accordance with section 3).
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-448a3539a3897bbd941c5d9dc1da91c3]: Textual amendment: Words in s. 1(3) substituted (1.10.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 6](https://www.legislation.gov.uk/ukpga/2009/12/section/6), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1); [S.I. 2010/2409](https://www.legislation.gov.uk/uksi/2010/2409), [art. 2](https://www.legislation.gov.uk/uksi/2010/2409/article/2)
+[^c-448a3539a3897bbd941c5d9dc1da91c3]: Textual amendment: Words in s. 1(3) substituted (1.10.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 6](https://www.legislation.gov.uk/ukpga/2009/12/section/6), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1); [S.I. 2010/2409](https://www.legislation.gov.uk/uksi/2010/2409), [art. 2](https://www.legislation.gov.uk/uksi/2010/2409/article/2)
 
 [^c20215301]: Textual amendment: Words in s. 1(5) inserted (21.7.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2009/12/section/39), [43(1)(5)(b)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1/5/b), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/9)

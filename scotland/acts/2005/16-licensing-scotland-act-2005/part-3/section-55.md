@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Certified copies[^key-da857731da132be76f4a1fc7b97129cd]
+## 55. Certified copies[^c-da857731da132be76f4a1fc7b97129cd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Any reference in this Part to a certified copy of a premises licence or of a sum
 
 ## Annotations
 
-[^key-da857731da132be76f4a1fc7b97129cd]: Commencement: S. 55 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-da857731da132be76f4a1fc7b97129cd]: Commencement: S. 55 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

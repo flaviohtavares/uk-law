@@ -38,7 +38,7 @@ River, Scotland
 
 River, England And Wales
 
-The Tweed Regulation (Salmon Conservation) Order 2016 (revoked)[^key-18723083fe32ef32bac00f3f59e94dc2]
+The Tweed Regulation (Salmon Conservation) Order 2016 (revoked)[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 Made
 
@@ -52,36 +52,36 @@ Coming into force
 
 31st March 2016
 
-[^key-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-18723083fe32ef32bac00f3f59e94dc2]
+## 1. Citation, commencement and interpretation[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Conservation status assessment[^key-18723083fe32ef32bac00f3f59e94dc2]
+## 2. Conservation status assessment[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on retaining salmon[^key-18723083fe32ef32bac00f3f59e94dc2]
+## 3. Prohibition on retaining salmon[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conservation plans[^key-18723083fe32ef32bac00f3f59e94dc2]
+## 4. Conservation plans[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendment[^key-18723083fe32ef32bac00f3f59e94dc2]
+## 5. Consequential amendment[^c-18723083fe32ef32bac00f3f59e94dc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18723083fe32ef32bac00f3f59e94dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18723083fe32ef32bac00f3f59e94dc2]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/118) revoked (1.4.2017) by [The Tweed Regulation (Salmon Conservation) (No. 2) Order 2016 (S.S.I. 2016/391)](https://www.legislation.gov.uk/ssi/2016/391), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1), [5](https://www.legislation.gov.uk/ssi/2016/391/article/5)
+[^c-18723083fe32ef32bac00f3f59e94dc2]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/118) revoked (1.4.2017) by [The Tweed Regulation (Salmon Conservation) (No. 2) Order 2016 (S.S.I. 2016/391)](https://www.legislation.gov.uk/ssi/2016/391), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1), [5](https://www.legislation.gov.uk/ssi/2016/391/article/5)

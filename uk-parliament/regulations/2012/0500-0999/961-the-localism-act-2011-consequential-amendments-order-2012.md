@@ -44,19 +44,19 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 A draft of this Order has been approved by a resolution of each House of Parliament in accordance with section 235(6) of that Act.
 
-## 1. Citation and commencement[^key-e8a8cf84556e25d54d8c1aa2c677a8da]
+## 1. Citation and commencement[^c-e8a8cf84556e25d54d8c1aa2c677a8da]
 
 (1) This Order may be cited as the Localism Act 2011 (Consequential Amendments) Order 2012.
 
 (2) This Order comes in to force on the day after the day on which it is made with the exception of Article 3 and Schedule 2, which come into force on 6th April 2012.
 
-## 2. Amendments to enactments[^key-ebb31ba9c1227381bba83228782fc60e][^key-ebb31ba9c1227381bba83228782fc60e]
+## 2. Amendments to enactments[^c-ebb31ba9c1227381bba83228782fc60e][^c-ebb31ba9c1227381bba83228782fc60e]
 
 The amendments specified in Schedule 1 to this Order shall have effect.
 
-**3.**[^key-31ed70ad49cd7aaa41ceb898e2509a47] The amendments specified in Schedule 2 to this Order shall have effect.
+**3.**[^c-31ed70ad49cd7aaa41ceb898e2509a47] The amendments specified in Schedule 2 to this Order shall have effect.
 
-**4.**[^key-c11b9860ebdd694bf991c280c0e11bd6] The amendments specified in Schedule 3 to this Order shall have effect.
+**4.**[^c-c11b9860ebdd694bf991c280c0e11bd6] The amendments specified in Schedule 3 to this Order shall have effect.
 
 Eric Pickles
 
@@ -68,15 +68,15 @@ Secretary of State for Communities and Local Government
 
 Article 2
 
-### 1. Industrial and Provident Societies Act [1965 (c. 12)](https://www.legislation.gov.uk/ukpga/1965/12)[^key-5c84de94b549c5754bf4f3bbbe03d1f0]
+### 1. Industrial and Provident Societies Act [1965 (c. 12)](https://www.legislation.gov.uk/ukpga/1965/12)[^c-5c84de94b549c5754bf4f3bbbe03d1f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^key-62426aa762964afd90d93f8a38275089][^key-62426aa762964afd90d93f8a38275089]
+### 2. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^c-62426aa762964afd90d93f8a38275089][^c-62426aa762964afd90d93f8a38275089]
 
 The Nationality, Immigration and Asylum Act 2002 is amended as follows.
 
-**3.**[^key-61252526f31c686cf6f5ff576203b454] In section 55(4) (provisions under which an authority may not provide or arrange for the provision of support following late claim of asylum)—
+**3.**[^c-61252526f31c686cf6f5ff576203b454] In section 55(4) (provisions under which an authority may not provide or arrange for the provision of support following late claim of asylum)—
 
 - (a) omit “and” at the end of paragraph (b), and
 - (b) at the end of paragraph (c) insert—
@@ -87,33 +87,33 @@ The Nationality, Immigration and Asylum Act 2002 is amended as follows.
 
   .
 
-**4.**[^key-ed857871b49c1c5d3ab57ddcfbdb3619] In paragraph 1(1) of Schedule 3 (enactments under which a person to whom the paragraph applies shall not be eligible for support or assistance) [^f00003] after paragraph (k) insert—
+**4.**[^c-ed857871b49c1c5d3ab57ddcfbdb3619] In paragraph 1(1) of Schedule 3 (enactments under which a person to whom the paragraph applies shall not be eligible for support or assistance) [^f00003] after paragraph (k) insert—
 
 > - (ka) section 1 of the Localism Act 2011 (local authority’s general power of competence),
 
 .
 
-### 5. Local Authorities (Goods and Services) (Public Bodies) (England) Order 2002[^key-75d0763130f943bb12887a9dfb377bc3][^key-75d0763130f943bb12887a9dfb377bc3]
+### 5. Local Authorities (Goods and Services) (Public Bodies) (England) Order 2002[^c-75d0763130f943bb12887a9dfb377bc3][^c-75d0763130f943bb12887a9dfb377bc3]
 
 In article 2(2) of the Local Authorities (Goods and Services) (Public Bodies) (England) Order 2002[^f00004] (designation of certain bodies as public bodies) after “Act 2000” insert “or section 1 of the Localism Act 2011”.
 
-### 6. Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43)[^key-bb6534ca984c9ea4aae468025ca15cf5][^key-bb6534ca984c9ea4aae468025ca15cf5]
+### 6. Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43)[^c-bb6534ca984c9ea4aae468025ca15cf5][^c-bb6534ca984c9ea4aae468025ca15cf5]
 
 In section 148 of the Health and Social Care (Community Health and Standards) Act 2003 (interpretation), in paragraph (c)(i) of the definition of “English local authority social service”[^f00005] after “(c. 22)” insert “or section 1 of the Localism Act 2011”.
 
-### 7. Service Charges (Consultation Requirements) (England) Regulations 2003[^key-a875e9cf190d53ab48f81aca5d8b91ce][^key-a875e9cf190d53ab48f81aca5d8b91ce]
+### 7. Service Charges (Consultation Requirements) (England) Regulations 2003[^c-a875e9cf190d53ab48f81aca5d8b91ce][^c-a875e9cf190d53ab48f81aca5d8b91ce]
 
 In regulation 3(1)(b)(ii) of the Service Charges (Consultation Requirements)(England) Regulations 2003[^f00006] (management agreements between local authorities and certain bodies not to be qualifying long term agreements) after “Act 2000” insert “or section 1 of the Localism Act 2011”.
 
-### 8. Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40)[^key-a2104e56da2f029a02962ebe879fa6d2][^key-a2104e56da2f029a02962ebe879fa6d2]
+### 8. Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40)[^c-a2104e56da2f029a02962ebe879fa6d2][^c-a2104e56da2f029a02962ebe879fa6d2]
 
 In section 135(2) of the Education and Inspections Act 2006 (definition of “related activity” in relation to a function to which Chapter 4 of Part 8 of the Act applies) after “(promotion of economic or social well-being)” insert “or section 1 of the Localism Act 2011 (local authority’s general power of competence)”.
 
-### 9. Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)[^key-5c7188d1249137c18236ddd1ef71784d][^key-5c7188d1249137c18236ddd1ef71784d]
+### 9. Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14)[^c-5c7188d1249137c18236ddd1ef71784d][^c-5c7188d1249137c18236ddd1ef71784d]
 
 In section 97(1) of the Health and Social Care Act 2008 (general interpretation of Part 1) in paragraph (b) of the definition of “adult social services” after “(c. 22)” insert “or section 1 of the Localism Act 2011”.
 
-### 10. Local Government Pension Scheme (Administration) Regulations 2008[^key-84f9968030198437507d1de205a78bc3][^key-84f9968030198437507d1de205a78bc3]
+### 10. Local Government Pension Scheme (Administration) Regulations 2008[^c-84f9968030198437507d1de205a78bc3][^c-84f9968030198437507d1de205a78bc3]
 
 In Schedule 2 to the Local Government Pension Scheme (Administration) Regulations 2008[^f00007] (which sets out scheme employers) in paragraph 22 of Part 1 after “Act 2000” insert “or section 1 of the Localism Act 2011”.
 
@@ -121,11 +121,11 @@ In Schedule 2 to the Local Government Pension Scheme (Administration) Regulation
 
 Article 3
 
-### 1. Amendment of the Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33)[^key-49e36f9bd4d589fa8b59570acb68357e]
+### 1. Amendment of the Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33)[^c-49e36f9bd4d589fa8b59570acb68357e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)[^key-2b62df94fd7dc119232557836bf7e7ea]
+### 2. Amendment of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70)[^c-2b62df94fd7dc119232557836bf7e7ea]
 
 (1) The Local Government Act 1972 is amended as follows.
 
@@ -152,7 +152,7 @@ Article 3
   - (i) is contained in an Act other than a local or private Act, and
   - (ii) authorises the compulsory acquisition of land specifically identified in that Act.
 
-### 3. Amendment of the Highways Act [1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66)[^key-825b56b2bd7d2ffcfa2d17cbe20af6d3]
+### 3. Amendment of the Highways Act [1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66)[^c-825b56b2bd7d2ffcfa2d17cbe20af6d3]
 
 (1) The Highways Act 1980 is amended as follows.
 
@@ -164,7 +164,7 @@ Article 3
 
 Article 4
 
-### 1. Amendments to the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5)[^key-e5dae963182378a316cc75cb554bd6d3][^key-e5dae963182378a316cc75cb554bd6d3]
+### 1. Amendments to the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5)[^c-e5dae963182378a316cc75cb554bd6d3][^c-e5dae963182378a316cc75cb554bd6d3]
 
 (1) The Planning and Compulsory Purchase Act 2004 is amended as follows.
 
@@ -203,52 +203,52 @@ A full impact assessment has not been produced for this Order as no impact on th
 
 [^f00001]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20)
 
-[^key-e8a8cf84556e25d54d8c1aa2c677a8da]: Commencement: Art. 1 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-e8a8cf84556e25d54d8c1aa2c677a8da]: Commencement: Art. 1 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-ebb31ba9c1227381bba83228782fc60e]: Commencement: Art. 2 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-ebb31ba9c1227381bba83228782fc60e]: Commencement: Art. 2 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-31ed70ad49cd7aaa41ceb898e2509a47]: Commencement: Art. 3 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-31ed70ad49cd7aaa41ceb898e2509a47]: Commencement: Art. 3 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-c11b9860ebdd694bf991c280c0e11bd6]: Commencement: Art. 4 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-c11b9860ebdd694bf991c280c0e11bd6]: Commencement: Art. 4 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-5c84de94b549c5754bf4f3bbbe03d1f0]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-5c84de94b549c5754bf4f3bbbe03d1f0]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-62426aa762964afd90d93f8a38275089]: Commencement: Sch. 1 para. 2 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-62426aa762964afd90d93f8a38275089]: Commencement: Sch. 1 para. 2 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-61252526f31c686cf6f5ff576203b454]: Commencement: Sch. 1 para. 3 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-61252526f31c686cf6f5ff576203b454]: Commencement: Sch. 1 para. 3 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-ed857871b49c1c5d3ab57ddcfbdb3619]: Commencement: Sch. 1 para. 4 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-ed857871b49c1c5d3ab57ddcfbdb3619]: Commencement: Sch. 1 para. 4 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00003]: Footnote: Paragraph 1(1) was amended by the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraph 229 and the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23) , section 22(6).
 
-[^key-75d0763130f943bb12887a9dfb377bc3]: Commencement: Sch. 1 para. 5 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-75d0763130f943bb12887a9dfb377bc3]: Commencement: Sch. 1 para. 5 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2002/522](https://www.legislation.gov.uk/uksi/2002/522).
 
-[^key-bb6534ca984c9ea4aae468025ca15cf5]: Commencement: Sch. 1 para. 6 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-bb6534ca984c9ea4aae468025ca15cf5]: Commencement: Sch. 1 para. 6 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00005]: Footnote: The definition of “English local authority social service” was amended by the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 14 paragraphs 82 and 93.
 
-[^key-a875e9cf190d53ab48f81aca5d8b91ce]: Commencement: Sch. 1 para. 7 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-a875e9cf190d53ab48f81aca5d8b91ce]: Commencement: Sch. 1 para. 7 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2003/1987](https://www.legislation.gov.uk/uksi/2003/1987), to which there are amendments not relevant to this Order.
 
-[^key-a2104e56da2f029a02962ebe879fa6d2]: Commencement: Sch. 1 para. 8 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-a2104e56da2f029a02962ebe879fa6d2]: Commencement: Sch. 1 para. 8 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-5c7188d1249137c18236ddd1ef71784d]: Commencement: Sch. 1 para. 9 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-5c7188d1249137c18236ddd1ef71784d]: Commencement: Sch. 1 para. 9 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
-[^key-84f9968030198437507d1de205a78bc3]: Commencement: Sch. 1 para. 10 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-84f9968030198437507d1de205a78bc3]: Commencement: Sch. 1 para. 10 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239), to which there are amendments not relevant to this Order
 
-[^key-49e36f9bd4d589fa8b59570acb68357e]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/1) revoked (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(h)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/h), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-49e36f9bd4d589fa8b59570acb68357e]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/1) revoked (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(h)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/h), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
 
-[^key-2b62df94fd7dc119232557836bf7e7ea]: Commencement: Sch. 2 para. 2 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-2b62df94fd7dc119232557836bf7e7ea]: Commencement: Sch. 2 para. 2 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00010]: Footnote: There are amendments to paragraph 55 of Schedule 16 but none are relevant to this Order.
 
-[^key-825b56b2bd7d2ffcfa2d17cbe20af6d3]: Commencement: Sch. 2 para. 3 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-825b56b2bd7d2ffcfa2d17cbe20af6d3]: Commencement: Sch. 2 para. 3 in force at 6.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
 
 [^f00011]: Footnote: There are amendments to section 262 but none are relevant to this Order.
 
-[^key-e5dae963182378a316cc75cb554bd6d3]: Commencement: Sch. 3 para. 1 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)
+[^c-e5dae963182378a316cc75cb554bd6d3]: Commencement: Sch. 3 para. 1 in force at 28.3.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2)

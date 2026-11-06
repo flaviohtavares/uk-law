@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Obligations of dealers[^key-7e62cd5a2db8380b9b61ab59818e17da]
+## 12. Obligations of dealers[^c-7e62cd5a2db8380b9b61ab59818e17da]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ A dealer of a household tumble dryer must ensure that—
 
 ## Annotations
 
-[^key-7e62cd5a2db8380b9b61ab59818e17da]: Commencement: Reg. 12 in force at 19.1.2027, see [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3/b)
+[^c-7e62cd5a2db8380b9b61ab59818e17da]: Commencement: Reg. 12 in force at 19.1.2027, see [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3/b)

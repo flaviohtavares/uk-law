@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Repeals and revocation[^key-964f55995e96c9c4a8a5ecda781112a7]
+## SCHEDULE 5 — Repeals and revocation[^c-964f55995e96c9c4a8a5ecda781112a7]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 Section 54(3).
 
-[^key-964f55995e96c9c4a8a5ecda781112a7]
+[^c-964f55995e96c9c4a8a5ecda781112a7]
 
 | Chapter or number | Short title or title | Extent of repeal or revocation |
 | --- | --- | --- |
@@ -75,16 +75,16 @@ Section 54(3).
 | 1997 c. 50. | The Police Act 1997. | In Schedule 6, paragraphs 19 to 22. |
 | S.I. 1991/724. | The High Court and County Courts Jurisdiction Order 1991. | In the Schedule, in Part I, the entry relating to the Local Government Finance Act 1982. |
 
-### TABLE OF DERIVATIONS[^key-964f55995e96c9c4a8a5ecda781112a7]
+### TABLE OF DERIVATIONS[^c-964f55995e96c9c4a8a5ecda781112a7]
 
-#### 1. Notes:[^key-964f55995e96c9c4a8a5ecda781112a7]
+#### 1. Notes:[^c-964f55995e96c9c4a8a5ecda781112a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-964f55995e96c9c4a8a5ecda781112a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-964f55995e96c9c4a8a5ecda781112a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-964f55995e96c9c4a8a5ecda781112a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-964f55995e96c9c4a8a5ecda781112a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-964f55995e96c9c4a8a5ecda781112a7]: Textual amendment: Act repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/1/2), [49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1) (with [Sch. 1 paras. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/paragraph/4), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/6/paragraph/8)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2); and (14.12.2023) by [S.I. 2023/1396](https://www.legislation.gov.uk/uksi/2023/1396), [art. 2](https://www.legislation.gov.uk/uksi/2023/1396/article/2))
+[^c-964f55995e96c9c4a8a5ecda781112a7]: Textual amendment: Act repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/2/section/1/2), [49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1) (with [Sch. 1 paras. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/paragraph/4), [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/6/paragraph/8)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), [art. 2](https://www.legislation.gov.uk/uksi/2016/675/article/2); and (14.12.2023) by [S.I. 2023/1396](https://www.legislation.gov.uk/uksi/2023/1396), [art. 2](https://www.legislation.gov.uk/uksi/2023/1396/article/2))

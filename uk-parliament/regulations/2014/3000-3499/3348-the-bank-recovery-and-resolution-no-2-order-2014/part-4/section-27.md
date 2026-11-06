@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Application and interpretation of Chapter 3[^key-0bee1ac2b2e11c77b04fd2479d911208]
+## 27. Application and interpretation of Chapter 3[^c-0bee1ac2b2e11c77b04fd2479d911208]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bee1ac2b2e11c77b04fd2479d911208]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/4/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bee1ac2b2e11c77b04fd2479d911208]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/4/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

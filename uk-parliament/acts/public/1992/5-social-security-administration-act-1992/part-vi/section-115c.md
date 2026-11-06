@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115C. Incorrect statements etc[^key-14191e52b277ad5409ee5f8f27ff8596]
+## 115C. Incorrect statements etc[^c-14191e52b277ad5409ee5f8f27ff8596]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14191e52b277ad5409ee5f8f27ff8596]: Textual amendment: Ss. 115C, 115D and cross-heading inserted (10.5.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/116/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/a)[(5)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/c)
+[^c-14191e52b277ad5409ee5f8f27ff8596]: Textual amendment: Ss. 115C, 115D and cross-heading inserted (10.5.2012 for specified purposes, 1.10.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/116/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/1/a)[(5)(c)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/5/c)

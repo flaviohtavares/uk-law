@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184A. Housing administration orders[^key-ea860242cd440aa5fa428bcb69755786]
+## 184A. Housing administration orders[^c-ea860242cd440aa5fa428bcb69755786]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea860242cd440aa5fa428bcb69755786]: Textual amendment: [Rule 184A](https://www.legislation.gov.uk/uksi/2003/1417/rule/184A) inserted (4.7.2018) by [The Insolvency of Registered Providers of Social Housing Regulations 2018 (S.I. 2018/728)](https://www.legislation.gov.uk/uksi/2018/728), [regs. 1](https://www.legislation.gov.uk/uksi/2018/728/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/728/regulation/4)
+[^c-ea860242cd440aa5fa428bcb69755786]: Textual amendment: [Rule 184A](https://www.legislation.gov.uk/uksi/2003/1417/rule/184A) inserted (4.7.2018) by [The Insolvency of Registered Providers of Social Housing Regulations 2018 (S.I. 2018/728)](https://www.legislation.gov.uk/uksi/2018/728), [regs. 1](https://www.legislation.gov.uk/uksi/2018/728/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/728/regulation/4)

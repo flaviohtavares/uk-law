@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D7. Increase of reckonable service at discretion of employing authority[^key-825e30f3eddf85ce8829bb625321253b]
+## D7. Increase of reckonable service at discretion of employing authority[^c-825e30f3eddf85ce8829bb625321253b]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ the body may, in consideration of special circumstances, resolve to add an addit
 
 ## Annotations
 
-[^key-825e30f3eddf85ce8829bb625321253b]: Commencement: [Reg. D7](https://www.legislation.gov.uk/uksi/1986/24/regulation/D7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-825e30f3eddf85ce8829bb625321253b]: Commencement: [Reg. D7](https://www.legislation.gov.uk/uksi/1986/24/regulation/D7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

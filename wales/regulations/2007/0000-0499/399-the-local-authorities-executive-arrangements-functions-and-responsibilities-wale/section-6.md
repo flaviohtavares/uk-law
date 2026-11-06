@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Discharge of specified functions by authorities[^key-3caf1c8a67767df56d0c684c41057dd0]
+## 6. Discharge of specified functions by authorities[^c-3caf1c8a67767df56d0c684c41057dd0]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3caf1c8a67767df56d0c684c41057dd0]: Commencement: Reg. 6 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-3caf1c8a67767df56d0c684c41057dd0]: Commencement: Reg. 6 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)

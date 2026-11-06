@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Representations[^key-6e1cf3d77bfd76d99e33fab0e4d783ad]
+## 69. Representations[^c-6e1cf3d77bfd76d99e33fab0e4d783ad]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 50S of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-6e1cf3d77bfd76d99e33fab0e4d783ad]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/5/section/69) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-6e1cf3d77bfd76d99e33fab0e4d783ad]: Commencement: [S. 69](https://www.legislation.gov.uk/mwa/2011/5/section/69) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

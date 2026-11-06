@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Surviving spouse’s guaranteed minimum pension[^key-5133e681aab38572018bcdd5d50c6ef0]
+## 42. Surviving spouse’s guaranteed minimum pension[^c-5133e681aab38572018bcdd5d50c6ef0]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5133e681aab38572018bcdd5d50c6ef0]: Commencement: Reg. 42 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5133e681aab38572018bcdd5d50c6ef0]: Commencement: Reg. 42 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

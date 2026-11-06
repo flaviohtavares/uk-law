@@ -51,7 +51,7 @@ summary: ''
 - (d) the names of counsel and solicitors in the proceedings;
 - (e) where the proceedings are adjourned, the date and place to which they are adjourned;
 - (f) any arrangements as to bail;
-- (g)[^key-be6f27504a2867366460be63468d2a13] whether, for the purposes of the proceedings, representation was provided to the accused or any of the accused under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (g)[^c-be6f27504a2867366460be63468d2a13] whether, for the purposes of the proceedings, representation was provided to the accused or any of the accused under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (8) The addresses that may be included in a report by virtue of subsection (7) are addresses—
 
@@ -77,4 +77,4 @@ summary: ''
 
 [^M_F_48f78742-aef6-42ea-cef8-7bf7e8346662]: Textual amendment: Word in s. 8C(5)(a) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/2), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-be6f27504a2867366460be63468d2a13]: Textual amendment: S. 8C(7)(g) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/15); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-be6f27504a2867366460be63468d2a13]: Textual amendment: S. 8C(7)(g) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/15); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

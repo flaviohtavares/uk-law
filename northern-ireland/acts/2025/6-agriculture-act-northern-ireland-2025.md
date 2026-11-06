@@ -36,7 +36,7 @@ An Act to make provision for the modification of assimilated direct legislation 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Aid in the fruit and vegetables sector: amendment of CMO Regulation[^key-bd47b6033c199ede7c5d799c9e1ce8d2]
+## 1. Aid in the fruit and vegetables sector: amendment of CMO Regulation[^c-bd47b6033c199ede7c5d799c9e1ce8d2]
 
 (1) Article 32 of the CMO Regulation is amended as follows.
 
@@ -59,7 +59,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) The amendments of Article 32 of the CMO Regulation made by this section do not affect the operation of that Article in relation to any operational programme with a duration ending on or before 31 December 2025.
 
-## 2. Aid in the fruit and vegetables sector: power to modify[^key-73165c378ad12b3dd5237bdcc6098b34]
+## 2. Aid in the fruit and vegetables sector: power to modify[^c-73165c378ad12b3dd5237bdcc6098b34]
 
 (1) The Department may by regulations modify the following assimilated direct legislation—
 
@@ -71,7 +71,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) Without prejudice to section 11(1E) of the Interpretation Act (Northern Ireland) 1954 (construction of certain references to EU instruments), the reference in subsection (1)(a) above to Article 32 of the CMO Regulation includes any provision inserted in that Article by section 1.
 
-## 3. Information provision and promotion measures: power to modify[^key-a128318916d291b80628b17225b471ea]
+## 3. Information provision and promotion measures: power to modify[^c-a128318916d291b80628b17225b471ea]
 
 The Department may by regulations modify the following assimilated direct legislation—
 
@@ -79,7 +79,7 @@ The Department may by regulations modify the following assimilated direct legisl
 - (b) [Commission Delegated Regulation (EU) 2015/1829](https://www.legislation.gov.uk/european/regulation/2015/1829) of 23 April 2015 supplementing [Regulation (EU) No 1144/2014](https://www.legislation.gov.uk/european/regulation/2014/1144) of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries;
 - (c) [Commission Implementing Regulation (EU) 2015/1831](https://www.legislation.gov.uk/european/regulation/2015/1831) of 7 October 2015 laying down rules for application of [Regulation (EU) No 1144/2014](https://www.legislation.gov.uk/european/regulation/2014/1144) of the European Parliament and of the Council on information provision and promotion measures concerning agricultural products implemented in the internal market and in the third countries.
 
-## 4. Regulations[^key-5fb5870b5d2a639b5183eb031703ffd7]
+## 4. Regulations[^c-5fb5870b5d2a639b5183eb031703ffd7]
 
 (1) Regulations under this Act may contain such supplementary, incidental, consequential, transitional, transitory or saving provisions as appear to the Department to be necessary or expedient.
 
@@ -87,7 +87,7 @@ The Department may by regulations modify the following assimilated direct legisl
 
 (3) Regulations may not be made under this Act unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-## 5. Interpretation[^key-0240bc24c343244dbbc252547d580213]
+## 5. Interpretation[^c-0240bc24c343244dbbc252547d580213]
 
 In this Act—
 
@@ -96,7 +96,7 @@ In this Act—
 - “**modify**” includes amend, repeal or revoke;
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-## 6. Commencement and short title[^key-3b1229497695d22f1f072b627d94af91]
+## 6. Commencement and short title[^c-3b1229497695d22f1f072b627d94af91]
 
 (1) This Act comes into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -104,14 +104,14 @@ In this Act—
 
 ## Annotations
 
-[^key-bd47b6033c199ede7c5d799c9e1ce8d2]: Commencement: S. 1 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-bd47b6033c199ede7c5d799c9e1ce8d2]: Commencement: S. 1 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
 
-[^key-73165c378ad12b3dd5237bdcc6098b34]: Commencement: S. 2 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-73165c378ad12b3dd5237bdcc6098b34]: Commencement: S. 2 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
 
-[^key-a128318916d291b80628b17225b471ea]: Commencement: S. 3 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-a128318916d291b80628b17225b471ea]: Commencement: S. 3 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
 
-[^key-5fb5870b5d2a639b5183eb031703ffd7]: Commencement: S. 4 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-5fb5870b5d2a639b5183eb031703ffd7]: Commencement: S. 4 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
 
-[^key-0240bc24c343244dbbc252547d580213]: Commencement: S. 5 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-0240bc24c343244dbbc252547d580213]: Commencement: S. 5 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
 
-[^key-3b1229497695d22f1f072b627d94af91]: Commencement: S. 6 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)
+[^c-3b1229497695d22f1f072b627d94af91]: Commencement: S. 6 in operation at 17.9.2025, see [s. 6(1)](https://www.legislation.gov.uk/nia/2025/6/section/6/1)

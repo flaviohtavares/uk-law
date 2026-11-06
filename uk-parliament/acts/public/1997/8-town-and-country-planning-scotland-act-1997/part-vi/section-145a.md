@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 145A. Fixed penalty notice where breach of condition notice not complied with[^key-2e359b92ea2bd9768af4db696f738c5d]
+## 145A. Fixed penalty notice where breach of condition notice not complied with[^c-2e359b92ea2bd9768af4db696f738c5d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e359b92ea2bd9768af4db696f738c5d]: Textual amendment: S. 145A inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 25(2)](https://www.legislation.gov.uk/asp/2006/17/section/25/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-2e359b92ea2bd9768af4db696f738c5d]: Textual amendment: S. 145A inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 25(2)](https://www.legislation.gov.uk/asp/2006/17/section/25/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

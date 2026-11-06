@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Information about children receiving funded education outside school[^key-4b9705fdcf5cdfa1aeb2e84fdb3646c1][^key-9d0dd91a7ee544d67f2907592b9a89a7]
+## 164. Information about children receiving funded education outside school[^c-4b9705fdcf5cdfa1aeb2e84fdb3646c1][^c-9d0dd91a7ee544d67f2907592b9a89a7]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ After section 537A of EA 1996 (provision of information about individual pupils)
 
 ## Annotations
 
-[^key-4b9705fdcf5cdfa1aeb2e84fdb3646c1]: Commencement: S. 164 in force at 28.3.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 2](https://www.legislation.gov.uk/uksi/2007/935/article/2)
+[^c-4b9705fdcf5cdfa1aeb2e84fdb3646c1]: Commencement: S. 164 in force at 28.3.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 2](https://www.legislation.gov.uk/uksi/2007/935/article/2)
 
-[^key-9d0dd91a7ee544d67f2907592b9a89a7]: Commencement: S. 164 in force at 1.9.2009 for W. by [S.I. 2009/1027](https://www.legislation.gov.uk/uksi/2009/1027), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/1027/article/3/b)
+[^c-9d0dd91a7ee544d67f2907592b9a89a7]: Commencement: S. 164 in force at 1.9.2009 for W. by [S.I. 2009/1027](https://www.legislation.gov.uk/uksi/2009/1027), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/1027/article/3/b)

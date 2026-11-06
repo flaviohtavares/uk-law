@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Suspension of penalty under sections 168 to 173 during currency of agreement for deferred payment[^key-8afe69e4eacda48942380831eae5e804]
+## 176. Suspension of penalty under sections 168 to 173 during currency of agreement for deferred payment[^c-8afe69e4eacda48942380831eae5e804]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ P becomes liable to that penalty at the date of the notice.
 
 ## Annotations
 
-[^key-8afe69e4eacda48942380831eae5e804]: Commencement: [S. 176](https://www.legislation.gov.uk/asp/2014/16/section/176) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-8afe69e4eacda48942380831eae5e804]: Commencement: [S. 176](https://www.legislation.gov.uk/asp/2014/16/section/176) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

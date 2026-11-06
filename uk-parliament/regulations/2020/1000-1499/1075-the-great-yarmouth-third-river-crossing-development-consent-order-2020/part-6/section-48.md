@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. No apparatus in the new bridge or new bridge approaches without consent[^key-c74b96eb1c050eda882a96499632c885]
+## 48. No apparatus in the new bridge or new bridge approaches without consent[^c-c74b96eb1c050eda882a96499632c885]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Regardless of anything contained in any enactment, no person is to enter upon, b
 
 ## Annotations
 
-[^key-c74b96eb1c050eda882a96499632c885]: Commencement: Art. 48 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c74b96eb1c050eda882a96499632c885]: Commencement: Art. 48 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

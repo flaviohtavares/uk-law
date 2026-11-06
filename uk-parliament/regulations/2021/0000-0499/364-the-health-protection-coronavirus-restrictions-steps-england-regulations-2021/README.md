@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (revoked)[^key-63574b350c0e5642d8b8f0b5715d9698]
+The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (revoked)[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 29th March 2021
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 1 — Introductory[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ Coming into force
 - [Section 5 — Permitted organised gatherings](part-1/section-5.md)
 - [Section 6 — The required precautions](part-1/section-6.md)
 
-### PART 2 — Step restrictions[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 2 — Step restrictions[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -71,7 +71,7 @@ Coming into force
 
 - [Section 7 — Step restrictions](part-2/section-7.md)
 
-### PART 3 — Restrictions on leaving the United Kingdom[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 3 — Restrictions on leaving the United Kingdom[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ Coming into force
 
 - [Section 8 — Restrictions on leaving the United Kingdom](part-3/section-8.md)
 
-### PART 4 — Disapplication of restrictions and requirements[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 4 — Disapplication of restrictions and requirements[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -87,7 +87,7 @@ Coming into force
 
 - [Section 9 — Disapplication by the Secretary of State](part-4/section-9.md)
 
-### PART 5 — Enforcement[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 5 — Enforcement[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ Coming into force
 - [Section 18 — Prosecutions](part-5/section-18.md)
 - [Section 19 — Self-incrimination](part-5/section-19.md)
 
-### PART 6 — Final provisions[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 6 — Final provisions[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -128,14 +128,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63574b350c0e5642d8b8f0b5715d9698]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))
+[^c-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))

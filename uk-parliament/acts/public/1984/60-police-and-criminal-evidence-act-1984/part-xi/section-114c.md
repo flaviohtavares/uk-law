@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114C. Power to apply Act to food crime officers[^key-5c8d152d3d06edcf076fd802946b3c13]
+## 114C. Power to apply Act to food crime officers[^c-5c8d152d3d06edcf076fd802946b3c13]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8d152d3d06edcf076fd802946b3c13]: Textual amendment: [S. 114C](https://www.legislation.gov.uk/ukpga/1984/60/section/114C) inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/1), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))
+[^c-5c8d152d3d06edcf076fd802946b3c13]: Textual amendment: [S. 114C](https://www.legislation.gov.uk/ukpga/1984/60/section/114C) inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/1), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))

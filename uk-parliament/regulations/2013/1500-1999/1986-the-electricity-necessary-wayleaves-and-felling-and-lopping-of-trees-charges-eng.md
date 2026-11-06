@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 188(1) to (5) of the Energy Act 2004[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-e677a43ed55c1c7c10bbdbc30cb3f329]
+## 1. Citation, commencement and extent[^c-e677a43ed55c1c7c10bbdbc30cb3f329]
 
 (1) These Regulations may be cited as the Electricity (Necessary Wayleaves and Felling and Lopping of Trees) (Charges) (England and Wales) Regulations 2013 and come into force on 1st October 2013.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Interpretation[^key-9f34a15fcce18ed5e9acacd759bf27b5]
+## 2. Interpretation[^c-9f34a15fcce18ed5e9acacd759bf27b5]
 
 In these Regulations—
 
@@ -66,11 +66,11 @@ In these Regulations—
   - (b) a reference made under paragraph 9(5) of that Schedule; and
 - “site inspection” means an inspection carried out under rule 14 of the Hearing Rules.
 
-## 3. Fees for a relevant application[^key-91fe8b1eb1c7f587377e2e4d77a0f677]
+## 3. Fees for a relevant application[^c-91fe8b1eb1c7f587377e2e4d77a0f677]
 
-An applicant must pay a charge of £236.50[^key-c245f6644c1aeaf19b4c3f95065ba4c9] to the Secretary of State when making a relevant application.
+An applicant must pay a charge of £236.50[^c-c245f6644c1aeaf19b4c3f95065ba4c9] to the Secretary of State when making a relevant application.
 
-## 4. Fees for inspector’s time[^key-d76e082fd8bfe7cbe8bc268c4a79aa6e]
+## 4. Fees for inspector’s time[^c-d76e082fd8bfe7cbe8bc268c4a79aa6e]
 
 (1) An applicant must pay to the Secretary of State—
 
@@ -121,16 +121,16 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20); section 188 was amended by the Energy Act 2008, section 36 and paragraphs 13(a), (b), (c), (d) and (e) of Schedule 1; and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), article 6(1)(d).
 
-[^key-e677a43ed55c1c7c10bbdbc30cb3f329]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
+[^c-e677a43ed55c1c7c10bbdbc30cb3f329]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
 
-[^key-9f34a15fcce18ed5e9acacd759bf27b5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1986/regulation/2) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
+[^c-9f34a15fcce18ed5e9acacd759bf27b5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1986/regulation/2) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2013/1987](https://www.legislation.gov.uk/uksi/2013/1987).
 
 [^f00003]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-91fe8b1eb1c7f587377e2e4d77a0f677]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1986/regulation/3) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
+[^c-91fe8b1eb1c7f587377e2e4d77a0f677]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1986/regulation/3) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
 
-[^key-c245f6644c1aeaf19b4c3f95065ba4c9]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2013/1986/regulation/3) substituted (6.4.2017) by [The Electricity (Necessary Wayleaves and Felling and Lopping of Trees) (Charges) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/195)](https://www.legislation.gov.uk/uksi/2017/195), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/195/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/195/regulation/2/2)
+[^c-c245f6644c1aeaf19b4c3f95065ba4c9]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2013/1986/regulation/3) substituted (6.4.2017) by [The Electricity (Necessary Wayleaves and Felling and Lopping of Trees) (Charges) (England and Wales) (Amendment) Regulations 2017 (S.I. 2017/195)](https://www.legislation.gov.uk/uksi/2017/195), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/195/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/195/regulation/2/2)
 
-[^key-d76e082fd8bfe7cbe8bc268c4a79aa6e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1986/regulation/4) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)
+[^c-d76e082fd8bfe7cbe8bc268c4a79aa6e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1986/regulation/4) in force at 1.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1986/regulation/1/1)

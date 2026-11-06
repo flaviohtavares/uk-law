@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Teachers’ Pay and Conditions (England) Order 2021 (revoked)[^key-e66eef01512f887fba020f68a5f903df]
+The School Teachers’ Pay and Conditions (England) Order 2021 (revoked)[^c-e66eef01512f887fba020f68a5f903df]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 22nd October 2021
 
-[^key-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-e66eef01512f887fba020f68a5f903df]
+## 1. Citation, commencement, extent and application[^c-e66eef01512f887fba020f68a5f903df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-e66eef01512f887fba020f68a5f903df]
+## 2. The Document[^c-e66eef01512f887fba020f68a5f903df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e66eef01512f887fba020f68a5f903df]
+## 3. Revocation[^c-e66eef01512f887fba020f68a5f903df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e66eef01512f887fba020f68a5f903df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e66eef01512f887fba020f68a5f903df]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1101) revoked (3.11.2022) by [The School Teachers’ Pay and Conditions (England) (No. 2) Order 2022 (S.I. 2022/1043)](https://www.legislation.gov.uk/uksi/2022/1043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1043/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/1043/article/3/1)
+[^c-e66eef01512f887fba020f68a5f903df]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1101) revoked (3.11.2022) by [The School Teachers’ Pay and Conditions (England) (No. 2) Order 2022 (S.I. 2022/1043)](https://www.legislation.gov.uk/uksi/2022/1043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1043/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/1043/article/3/1)

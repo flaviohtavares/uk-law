@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection
 
-The Landfill (Maximum Landfill Amount) Regulations 2011 (revoked)[^key-221b615f02111e58ed653bed33a6ed11]
+The Landfill (Maximum Landfill Amount) Regulations 2011 (revoked)[^c-221b615f02111e58ed653bed33a6ed11]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st October 2011
 
-[^key-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-221b615f02111e58ed653bed33a6ed11]
+## 1. Citation and commencement[^c-221b615f02111e58ed653bed33a6ed11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Landfill targets[^key-221b615f02111e58ed653bed33a6ed11]
+## 2. Landfill targets[^c-221b615f02111e58ed653bed33a6ed11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-221b615f02111e58ed653bed33a6ed11]
+## 3. Revocation[^c-221b615f02111e58ed653bed33a6ed11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-221b615f02111e58ed653bed33a6ed11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-221b615f02111e58ed653bed33a6ed11]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2299) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-221b615f02111e58ed653bed33a6ed11]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2299) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

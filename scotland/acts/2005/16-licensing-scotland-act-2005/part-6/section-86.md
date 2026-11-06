@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Suspension of licence after multiple endorsements[^key-3038f73543e7db7d05624e2fd307fa40]
+## 86. Suspension of licence after multiple endorsements[^c-3038f73543e7db7d05624e2fd307fa40]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ make an order under subsection (3).
 
 ## Annotations
 
-[^key-3038f73543e7db7d05624e2fd307fa40]: Commencement: S. 86 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-3038f73543e7db7d05624e2fd307fa40]: Commencement: S. 86 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

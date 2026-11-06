@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Procedural requirements for making of rules[^key-a4394b1a37ebd6ed09f5818a7539b06c][^key-b504f85fbc8752f68fecddfa1af8f02f]
+## 211. Procedural requirements for making of rules[^c-a4394b1a37ebd6ed09f5818a7539b06c][^c-b504f85fbc8752f68fecddfa1af8f02f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4394b1a37ebd6ed09f5818a7539b06c]: Commencement: S. 211 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-a4394b1a37ebd6ed09f5818a7539b06c]: Commencement: S. 211 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-b504f85fbc8752f68fecddfa1af8f02f]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2024/13/section/211) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-b504f85fbc8752f68fecddfa1af8f02f]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2024/13/section/211) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

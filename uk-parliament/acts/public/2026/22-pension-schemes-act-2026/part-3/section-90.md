@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Regulator’s direction-making powers during period of concern[^key-6e3247bc4ac809311d5a2b6d3638fb9f]
+## 90. Regulator’s direction-making powers during period of concern[^c-6e3247bc4ac809311d5a2b6d3638fb9f]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e3247bc4ac809311d5a2b6d3638fb9f]: Commencement: S. 90 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-6e3247bc4ac809311d5a2b6d3638fb9f]: Commencement: S. 90 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

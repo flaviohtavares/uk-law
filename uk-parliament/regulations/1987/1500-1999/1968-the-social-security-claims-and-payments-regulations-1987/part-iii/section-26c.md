@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26C. Employment and support allowance[^key-464acf59b9c81cb46db613cd2bc25553]
+## 26C. Employment and support allowance[^c-464acf59b9c81cb46db613cd2bc25553]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464acf59b9c81cb46db613cd2bc25553]: Textual amendment: Reg. 26C inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [21](https://www.legislation.gov.uk/uksi/2008/1554/regulation/21)
+[^c-464acf59b9c81cb46db613cd2bc25553]: Textual amendment: Reg. 26C inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [21](https://www.legislation.gov.uk/uksi/2008/1554/regulation/21)

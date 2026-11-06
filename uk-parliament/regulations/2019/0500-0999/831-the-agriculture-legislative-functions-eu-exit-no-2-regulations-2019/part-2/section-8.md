@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8.[^key-3b6a253190481b516fe2ce3782e241b5]
+## 8.[^c-3b6a253190481b516fe2ce3782e241b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ In Article 20—
 
 ## Annotations
 
-[^key-3b6a253190481b516fe2ce3782e241b5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-3b6a253190481b516fe2ce3782e241b5]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
 [^c23706561]: Marginal citation: A definition of “constituent nation” is inserted into Article 3 of Regulation (EU) 1308/2013 by the Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821).
 

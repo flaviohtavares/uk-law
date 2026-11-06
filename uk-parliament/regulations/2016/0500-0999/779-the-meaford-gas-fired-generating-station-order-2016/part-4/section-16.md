@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Discharge of water[^key-c2327bcdd3ca7422420db15ae71a6068]
+## 16. Discharge of water[^c-c2327bcdd3ca7422420db15ae71a6068]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(6) This article does not authorise any water discharge activities or groundwater activities for which a licence is required pursuant to regulation 12(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-e470fc9c5754674e9e0c0bf37dd14469].
+(6) This article does not authorise any water discharge activities or groundwater activities for which a licence is required pursuant to regulation 12(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-e470fc9c5754674e9e0c0bf37dd14469].
 
 (7) In this article—
 
@@ -42,11 +42,11 @@ summary: ''
 
 ## Annotations
 
-[^key-c2327bcdd3ca7422420db15ae71a6068]: Commencement: Art. 16 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-c2327bcdd3ca7422420db15ae71a6068]: Commencement: Art. 16 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
 
 [^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 43(2) and 35(8)(a) and paragraph 1 of Schedule 2 to the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 99(2), (4), (5)(a), (5)(b),(5)(c) and 36(2) of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-e470fc9c5754674e9e0c0bf37dd14469]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/779/article/16/6) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 116](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/116) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e470fc9c5754674e9e0c0bf37dd14469]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/779/article/16/6) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 116](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/116) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00019]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Paragraph 9B was inserted into Schedule 2 by the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), section 63(1) and Schedule 3, paragraph 9(1) and (5). There are other amendments to the 1964 Act which are not relevant to this Order.
 

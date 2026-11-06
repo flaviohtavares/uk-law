@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Significant events[^key-99e08c497ca00fea32efdc7549efc92d]
+## 23. Significant events[^c-99e08c497ca00fea32efdc7549efc92d]
 
 *Extent: E+W+S*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e08c497ca00fea32efdc7549efc92d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/255/regulation/23) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-99e08c497ca00fea32efdc7549efc92d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/255/regulation/23) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

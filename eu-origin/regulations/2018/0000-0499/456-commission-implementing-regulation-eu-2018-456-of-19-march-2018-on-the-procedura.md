@@ -75,18 +75,18 @@ This Regulation lays down rules for the implementation of Article 4 of Regulatio
 
 In addition to the definitions laid down in Regulation (EC) No 178/2002 of the European Parliament and of the Council[^f00002] and Regulation (EU) 2015/2283, the following definitions shall apply:
 
-- ((a)) ‘consultation request’ means a request from a food business operator [^key-338e3b35f78c586b0c33006d5e3f2af8]... to determine the novel food status of a particular food;
-- ((b)) [^key-6c120f5181138e89cb2d906d761e2606]...
+- ((a)) ‘consultation request’ means a request from a food business operator [^c-338e3b35f78c586b0c33006d5e3f2af8]... to determine the novel food status of a particular food;
+- ((b)) [^c-6c120f5181138e89cb2d906d761e2606]...
 
 ## Article 3. Submission of a consultation request
 
-1. The food business operator shall consult the Food Safety Authority[^key-39650d18200000f0a94ab770e3e1b4ce] as provided for in Article 4(2) of Regulation (EU) 2015/2283 by submitting a consultation request to the Food Safety Authority[^key-48534a4962484002a929a613f342a7b0].
+1. The food business operator shall consult the Food Safety Authority[^c-39650d18200000f0a94ab770e3e1b4ce] as provided for in Article 4(2) of Regulation (EU) 2015/2283 by submitting a consultation request to the Food Safety Authority[^c-48534a4962484002a929a613f342a7b0].
 
-2.[^key-0bfd59648184cb3cc65229f41ce0afb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-0bfd59648184cb3cc65229f41ce0afb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 4. Content and presentation of a consultation request
 
-1. The consultation request shall be submitted electronically to the Food Safety Authority[^key-49c6d0a6fad0563fd017c41846621b74] and shall consist of the following:
+1. The consultation request shall be submitted electronically to the Food Safety Authority[^c-49c6d0a6fad0563fd017c41846621b74] and shall consist of the following:
 
 - (a) a cover letter;
 - (b) a technical dossier;
@@ -101,7 +101,7 @@ In addition to the definitions laid down in Regulation (EC) No 178/2002 of the 
 
 ## Article 5. Procedures for verifying the validity of a consultation request
 
-1. The Food Safety Authority[^key-69c52cf33b12074ea74e53aa91b8c8c9] shall without delay verify whether the consultation request complies with the requirements of Article 4.
+1. The Food Safety Authority[^c-69c52cf33b12074ea74e53aa91b8c8c9] shall without delay verify whether the consultation request complies with the requirements of Article 4.
 
 2. Where the food business operator submits insufficient information in the consultation request, the Food Safety Authority shall request the food business operator to provide additional information or make the relevant updates to the consultation request within the time period specified by the Food Safety Authority.
 
@@ -110,21 +110,21 @@ In addition to the definitions laid down in Regulation (EC) No 178/2002 of the 
 - (a) the food business operator does not provide requested additional information or updated consultation request within the period specified by the Food Safety Authority;
 - (b) the submitted additional information is insufficient to conclude that the consultation request is valid.
 
-4. The Food Safety Authority shall decide on the validity of the consultation request and without delay inform the food business operator, the appropriate authority[^key-6d8b1ce18a8643a303d986a57e8fdb2d] of the decision. Where the consultation request is considered not valid, the Food Safety Authority shall provide the reasons for that conclusion.
+4. The Food Safety Authority shall decide on the validity of the consultation request and without delay inform the food business operator, the appropriate authority[^c-6d8b1ce18a8643a303d986a57e8fdb2d] of the decision. Where the consultation request is considered not valid, the Food Safety Authority shall provide the reasons for that conclusion.
 
 ## Article 6. Procedures for evaluating a valid consultation request
 
-1. The Food Safety Authority[^key-842711f5386cfa28ccb70d9c7732f08f] shall conclude on the novel food status of a food within 4 months from the date on which it decided on the validity of the consultation request.
+1. The Food Safety Authority[^c-842711f5386cfa28ccb70d9c7732f08f] shall conclude on the novel food status of a food within 4 months from the date on which it decided on the validity of the consultation request.
 
 2. Where the Food Safety Authority identifies that it does not have sufficient evidence to decide on the novel food status of a food, it may request the food business operator to provide additional information. The period of that request shall be determined together with the food business operator.
 
-[^key-f01084371c414cb66b609ab33de80751]....
+[^c-f01084371c414cb66b609ab33de80751]....
 
 3. Without prejudice to paragraph 4, a request for additional information referred to in paragraph 2 shall not extend the time period referred to in paragraph 1.
 
-4. In duly justified cases, the Food Safety Authority may extend the time period referred to in paragraph 1 by a maximum of 4 months. The Food Safety Authority shall inform the food business operator, the appropriate authority[^key-8369dd779f1f8efb8caa6a672d257ba3] of their decision and shall provide justification.
+4. In duly justified cases, the Food Safety Authority may extend the time period referred to in paragraph 1 by a maximum of 4 months. The Food Safety Authority shall inform the food business operator, the appropriate authority[^c-8369dd779f1f8efb8caa6a672d257ba3] of their decision and shall provide justification.
 
-5. On concluding on the novel food status of a food, the Food Safety Authority shall without delay notify the food business operator, the appropriate authority[^key-15a3c184cfae4466f6113f0996cf739c] of the decision and shall provide justification in accordance with Article 7 of this Regulation.
+5. On concluding on the novel food status of a food, the Food Safety Authority shall without delay notify the food business operator, the appropriate authority[^c-15a3c184cfae4466f6113f0996cf739c] of the decision and shall provide justification in accordance with Article 7 of this Regulation.
 
 ## Article 7. Information on the novel food status and publication
 
@@ -135,15 +135,15 @@ In addition to the definitions laid down in Regulation (EC) No 178/2002 of the 
 - (c) reasons justifying the statement referred to in point (b);
 - (d) where the food is novel food, the most appropriate food category under which it falls in accordance with Article 3(2) of Regulation (EU) 2015/2283.
 
-2. The Food Safety Authority[^key-698b530fd7dbf723b39c8e98df0aa8d7] shall without delay make the information on the novel food status publicly available on the Food Safety Authority's[^key-c5b4c48356a14f4e57a8379b11c2db7a] website.
+2. The Food Safety Authority[^c-698b530fd7dbf723b39c8e98df0aa8d7] shall without delay make the information on the novel food status publicly available on the Food Safety Authority's[^c-c5b4c48356a14f4e57a8379b11c2db7a] website.
 
 ## Article 8. Competent authorities of the Member States
 
-[^key-8b9a05b726f807f4e95ec24c2f887cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b9a05b726f807f4e95ec24c2f887cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 9. Confidentiality
 
-1. Food business operators may request the Food Safety Authority[^key-071c2d14389daba3e2b1ffa95e6fcc86] to agree that the disclosure of certain information submitted as part of the consultation request needs to benefit from confidential treatment where disclosure of such information may harm their competitive position.
+1. Food business operators may request the Food Safety Authority[^c-071c2d14389daba3e2b1ffa95e6fcc86] to agree that the disclosure of certain information submitted as part of the consultation request needs to benefit from confidential treatment where disclosure of such information may harm their competitive position.
 
 2. For the purpose of paragraph 1, food business operators shall indicate to the Food Safety Authority the parts of the information provided that they wish to be treated as confidential and provide all the necessary details to substantiate their request for confidentiality.
 
@@ -156,21 +156,21 @@ However, confidentiality shall not apply to the following information:
 - (c) a summary of the studies submitted by the applicant;
 - (d) where appropriate, the analysis method(s).
 
-4.[^key-8e8a632322e9da4732faee60b3d981b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-8e8a632322e9da4732faee60b3d981b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 5. After being informed pursuant to paragraph 3, the food business operator may withdraw its consultation request within 3 weeks during which the confidentiality of the information provided shall be observed.
 
-6. The Food Safety Authority[^key-a27bd822ea51160773bc6f4b0b6ff8fd] shall take necessary measures to ensure appropriate confidentiality of the information referred to in paragraphs 3 and received by it[^key-1887bb0421e7f9812dcaa13e7aa74f2f] under this Regulation, except for information which is required to be made public in order to protect human health.
+6. The Food Safety Authority[^c-a27bd822ea51160773bc6f4b0b6ff8fd] shall take necessary measures to ensure appropriate confidentiality of the information referred to in paragraphs 3 and received by it[^c-1887bb0421e7f9812dcaa13e7aa74f2f] under this Regulation, except for information which is required to be made public in order to protect human health.
 
-7. Where a food business operator withdraws or has withdrawn its consultation request in accordance with paragraph 5, the Food Safety Authority must not[^key-2369093ff3e3178e085498dd6bb680e3] disclose information for which confidentiality was requested by the food business operator pursuant to paragraph 1.
+7. Where a food business operator withdraws or has withdrawn its consultation request in accordance with paragraph 5, the Food Safety Authority must not[^c-2369093ff3e3178e085498dd6bb680e3] disclose information for which confidentiality was requested by the food business operator pursuant to paragraph 1.
 
-8. The application of paragraphs 1 to 7 shall not affect the exchange of information between the Food Safety Authority and the appropriate authority[^key-5a2b4f42024f86b142d8f57f328a1c99] necessary to consider the consultation requests submitted under this Regulation.
+8. The application of paragraphs 1 to 7 shall not affect the exchange of information between the Food Safety Authority and the appropriate authority[^c-5a2b4f42024f86b142d8f57f328a1c99] necessary to consider the consultation requests submitted under this Regulation.
 
 ## Article 10. Entry into force and application
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-5a4ba5d62ba2ebd3f063eea493299c50]...
+[^c-5a4ba5d62ba2ebd3f063eea493299c50]...
 
 Done at Brussels, 19 March 2018.
 
@@ -182,7 +182,7 @@ Jean-Claude Juncker
 
 ## ANNEX I — TEMPLATE COVER LETTER ACCOMPANYING A CONSULTATION REQUEST FOR DETERMINATION OF THE NOVEL FOOD STATUS
 
-*To the Food Safety Authority[^key-19e7cd9207f9d1475bd7b0d49a74c910]*
+*To the Food Safety Authority[^c-19e7cd9207f9d1475bd7b0d49a74c910]*
 
 Date: …
 
@@ -214,7 +214,7 @@ Enclosures:
 - Documents in support of the consultation request
 - Explanatory note
 
-## ANNEX II — TEMPLATE TECHNICAL DOSSIER[^key-723c20bd23923b7d1d736244cb8dda84]
+## ANNEX II — TEMPLATE TECHNICAL DOSSIER[^c-723c20bd23923b7d1d736244cb8dda84]
 
 ### 1.
 
@@ -287,50 +287,50 @@ Section 3: Foods resulting from a production process not used for food productio
 
 [^f00002]: Footnote: Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ([OJ L 31, 1.2.2002, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.031.01.0001.01.ENG)).
 
-[^key-338e3b35f78c586b0c33006d5e3f2af8]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eur/2018/456/article/2/a) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [66(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/66/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-338e3b35f78c586b0c33006d5e3f2af8]: Textual amendment: Words in [Art. 2(a)](https://www.legislation.gov.uk/eur/2018/456/article/2/a) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [66(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/66/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c120f5181138e89cb2d906d761e2606]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/eur/2018/456/article/2/b) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [66(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/66/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c120f5181138e89cb2d906d761e2606]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/eur/2018/456/article/2/b) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [66(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/66/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39650d18200000f0a94ab770e3e1b4ce]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2018/456/article/3/1) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(a)(i)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39650d18200000f0a94ab770e3e1b4ce]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2018/456/article/3/1) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(a)(i)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48534a4962484002a929a613f342a7b0]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2018/456/article/3/1) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(a)(ii)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48534a4962484002a929a613f342a7b0]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2018/456/article/3/1) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(a)(ii)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bfd59648184cb3cc65229f41ce0afb0]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2018/456/article/3/2) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bfd59648184cb3cc65229f41ce0afb0]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2018/456/article/3/2) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [67(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/67/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-49c6d0a6fad0563fd017c41846621b74]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/456/article/4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [68](https://www.legislation.gov.uk/uksi/2019/702/regulation/68); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49c6d0a6fad0563fd017c41846621b74]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/456/article/4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [68](https://www.legislation.gov.uk/uksi/2019/702/regulation/68); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69c52cf33b12074ea74e53aa91b8c8c9]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [69(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/69/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69c52cf33b12074ea74e53aa91b8c8c9]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [69(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/69/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d8b1ce18a8643a303d986a57e8fdb2d]: Textual amendment: Words in Art. 5(4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [69(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/69/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d8b1ce18a8643a303d986a57e8fdb2d]: Textual amendment: Words in Art. 5(4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [69(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/69/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-842711f5386cfa28ccb70d9c7732f08f]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2018/456/article/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-842711f5386cfa28ccb70d9c7732f08f]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2018/456/article/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f01084371c414cb66b609ab33de80751]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2018/456/article/6/2) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f01084371c414cb66b609ab33de80751]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2018/456/article/6/2) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8369dd779f1f8efb8caa6a672d257ba3]: Textual amendment: Words in [Art. 6(4)](https://www.legislation.gov.uk/eur/2018/456/article/6/4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(c)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8369dd779f1f8efb8caa6a672d257ba3]: Textual amendment: Words in [Art. 6(4)](https://www.legislation.gov.uk/eur/2018/456/article/6/4) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(c)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15a3c184cfae4466f6113f0996cf739c]: Textual amendment: Words in [Art. 6(5)](https://www.legislation.gov.uk/eur/2018/456/article/6/5) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(d)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15a3c184cfae4466f6113f0996cf739c]: Textual amendment: Words in [Art. 6(5)](https://www.legislation.gov.uk/eur/2018/456/article/6/5) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [70(d)](https://www.legislation.gov.uk/uksi/2019/702/regulation/70/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-698b530fd7dbf723b39c8e98df0aa8d7]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/456/article/7/2) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [71(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/71/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-698b530fd7dbf723b39c8e98df0aa8d7]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/456/article/7/2) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [71(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/71/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5b4c48356a14f4e57a8379b11c2db7a]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/456/article/7/2) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [71(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/71/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5b4c48356a14f4e57a8379b11c2db7a]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/456/article/7/2) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [71(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/71/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b9a05b726f807f4e95ec24c2f887cfb]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2018/456/article/8) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/702/regulation/72); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b9a05b726f807f4e95ec24c2f887cfb]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2018/456/article/8) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/702/regulation/72); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-071c2d14389daba3e2b1ffa95e6fcc86]: Textual amendment: Words in [Art. 9](https://www.legislation.gov.uk/eur/2018/456/article/9) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-071c2d14389daba3e2b1ffa95e6fcc86]: Textual amendment: Words in [Art. 9](https://www.legislation.gov.uk/eur/2018/456/article/9) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(a)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e8a632322e9da4732faee60b3d981b3]: Textual amendment: [Art. 9(4)](https://www.legislation.gov.uk/eur/2018/456/article/9/4) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e8a632322e9da4732faee60b3d981b3]: Textual amendment: [Art. 9(4)](https://www.legislation.gov.uk/eur/2018/456/article/9/4) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(b)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a27bd822ea51160773bc6f4b0b6ff8fd]: Textual amendment: Words in [Art. 9(6)](https://www.legislation.gov.uk/eur/2018/456/article/9/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(c)(i)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a27bd822ea51160773bc6f4b0b6ff8fd]: Textual amendment: Words in [Art. 9(6)](https://www.legislation.gov.uk/eur/2018/456/article/9/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(c)(i)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1887bb0421e7f9812dcaa13e7aa74f2f]: Textual amendment: Word in [Art. 9(6)](https://www.legislation.gov.uk/eur/2018/456/article/9/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(c)(ii)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1887bb0421e7f9812dcaa13e7aa74f2f]: Textual amendment: Word in [Art. 9(6)](https://www.legislation.gov.uk/eur/2018/456/article/9/6) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(c)(ii)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2369093ff3e3178e085498dd6bb680e3]: Textual amendment: Words in [Art. 9(7)](https://www.legislation.gov.uk/eur/2018/456/article/9/7) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(d)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2369093ff3e3178e085498dd6bb680e3]: Textual amendment: Words in [Art. 9(7)](https://www.legislation.gov.uk/eur/2018/456/article/9/7) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(d)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a2b4f42024f86b142d8f57f328a1c99]: Textual amendment: Words in [Art. 9(8)](https://www.legislation.gov.uk/eur/2018/456/article/9/8) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(e)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a2b4f42024f86b142d8f57f328a1c99]: Textual amendment: Words in [Art. 9(8)](https://www.legislation.gov.uk/eur/2018/456/article/9/8) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [73(e)](https://www.legislation.gov.uk/uksi/2019/702/regulation/73/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a4ba5d62ba2ebd3f063eea493299c50]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/456/signature) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [74](https://www.legislation.gov.uk/uksi/2019/702/regulation/74); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a4ba5d62ba2ebd3f063eea493299c50]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/456/signature) omitted (31.12.2020) by virtue of [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [74](https://www.legislation.gov.uk/uksi/2019/702/regulation/74); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19e7cd9207f9d1475bd7b0d49a74c910]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2018/456/annex/I) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/702/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19e7cd9207f9d1475bd7b0d49a74c910]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2018/456/annex/I) substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [regs. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [75](https://www.legislation.gov.uk/uksi/2019/702/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-723c20bd23923b7d1d736244cb8dda84]: Textual amendment: Annex 2 substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [reg. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/702/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-723c20bd23923b7d1d736244cb8dda84]: Textual amendment: Annex 2 substituted (31.12.2020) by [The Novel Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/702)](https://www.legislation.gov.uk/uksi/2019/702), [reg. 1](https://www.legislation.gov.uk/uksi/2019/702/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/702/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

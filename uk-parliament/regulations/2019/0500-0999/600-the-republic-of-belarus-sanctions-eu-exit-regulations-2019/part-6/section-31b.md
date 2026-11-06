@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31B. Exceptions relating to insurance and reinsurance services[^key-d0b06ab0f816cceae07ee140d86b9ab0]
+## 31B. Exceptions relating to insurance and reinsurance services[^c-d0b06ab0f816cceae07ee140d86b9ab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b06ab0f816cceae07ee140d86b9ab0]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/2019/600/regulation/31A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2021/1146/regulation/25)
+[^c-d0b06ab0f816cceae07ee140d86b9ab0]: Textual amendment: [Regs. 31A-31C](https://www.legislation.gov.uk/uksi/2019/600/regulation/31A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2021/1146/regulation/25)

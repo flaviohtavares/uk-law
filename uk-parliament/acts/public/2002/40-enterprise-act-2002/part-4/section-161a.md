@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161A. Acceptance of enforcement undertakings: Part 4[^key-b1e83ed35ddbd456f78ebf95821cf70e]
+## 161A. Acceptance of enforcement undertakings: Part 4[^c-b1e83ed35ddbd456f78ebf95821cf70e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e83ed35ddbd456f78ebf95821cf70e]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/2002/40/section/161A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2024/13/schedule/11/paragraph/16); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(15)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/15)
+[^c-b1e83ed35ddbd456f78ebf95821cf70e]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/2002/40/section/161A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2024/13/schedule/11/paragraph/16); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(15)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/15)

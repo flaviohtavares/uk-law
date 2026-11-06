@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — ORDERS CONFERRING COMPULSORY WORKS POWERS[^c19897481][^c19893161][^c13225581][^key-6dadf1a990916b2e10617602f6cf35e0][^key-fb67b482220fd1332c11c6fefc0429cf]
+## SCHEDULE 11 — ORDERS CONFERRING COMPULSORY WORKS POWERS[^c19897481][^c19893161][^c13225581][^c-6dadf1a990916b2e10617602f6cf35e0][^c-fb67b482220fd1332c11c6fefc0429cf]
 
 *Extent: E+W*
 
@@ -51,8 +51,8 @@ Section 167.
 
 (3) The persons mentioned in sub-paragraph (1)(c) above in relation to an application for a compulsory works order a draft of which has been submitted to the Secretary of State are—
 
-- (a) the Environment Agency[^c13225591], if the whole or any part of a relevant locality is in England[^key-1df19a724acc9846d2154e42edae1d3d];
-- (aa)[^key-a77bc144be10eb51d7ae130f2c1b9317] the NRBW, if the whole or any part of a relevant locality is in Wales;
+- (a) the Environment Agency[^c13225591], if the whole or any part of a relevant locality is in England[^c-1df19a724acc9846d2154e42edae1d3d];
+- (aa)[^c-a77bc144be10eb51d7ae130f2c1b9317] the NRBW, if the whole or any part of a relevant locality is in Wales;
 - (b) every local authority whose area is or includes the whole or any part of a relevant locality;
 - (c) every water undertaker, not being the applicant, whose area is or includes the whole or any part of such a locality;
 - (d) every navigation authority, harbour authority and conservancy authority which would be affected by, or has functions in relation to any inland waters which would be affected by, any provision proposed to be made by the order;
@@ -135,7 +135,7 @@ together, in the case of an application for an order modifications to which have
 **6.** (1) Without prejudice to the provisions of Schedule 14 to this Act—
 
 - (a) Part I of the [^c13225601]Compulsory Purchase Act 1965;
-- (b) sections 2A and[^key-0b41d09de1014b9420d267c04f1d172d] 4 and Part III of, and Schedule 3 to, the [^c13225611]Acquisition of Land Act 1981; and
+- (b) sections 2A and[^c-0b41d09de1014b9420d267c04f1d172d] 4 and Part III of, and Schedule 3 to, the [^c13225611]Acquisition of Land Act 1981; and
 - (c) the enactments for the time being in force with respect to compensation for the compulsory purchase of land,
 
 shall apply in relation to so much of a compulsory works order as confers powers of compulsory acquisition as they apply in relation to a compulsory purchase order made by virtue of section 155 of this Act and, accordingly, shall so apply, where the case so requires, with the modifications made by Schedule 9 to this Act.
@@ -162,7 +162,7 @@ he may make an application for the purpose to the High Court at any time before 
 
 (6) Where an order such as is mentioned in sub-paragraph (2) above is subject to special parliamentary procedure, sub-paragraphs (2) to (4) of this paragraph—
 
-- (a) shall not apply to the order if it is confirmed by Act of Parliament under section 4 or[^key-923657e67a4ed4e10b22eee25972699b] 6 of the [^c13225621]Statutory Orders (Special Procedure) Act 1945; and
+- (a) shall not apply to the order if it is confirmed by Act of Parliament under section 4 or[^c-923657e67a4ed4e10b22eee25972699b] 6 of the [^c13225621]Statutory Orders (Special Procedure) Act 1945; and
 - (b) in any other case, shall have effect as if the reference in sub-paragraph (2) of this paragraph to the date on which notice of the making of the order is first published in accordance with paragraph 5 above were a reference to the date on which the order becomes operative under the said Act of 1945.
 
 (7) In this paragraph—
@@ -255,25 +255,25 @@ shall be deemed to be a loss sustained by the undertaker or public authority and
 
     [Sch. 11](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11): functions for certain purposes exercised concurrently with the Secretary of State (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-6dadf1a990916b2e10617602f6cf35e0]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11) applied (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/4/1)
+[^c-6dadf1a990916b2e10617602f6cf35e0]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11) applied (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/4/1)
 
-[^key-fb67b482220fd1332c11c6fefc0429cf]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/5/1)
+[^c-fb67b482220fd1332c11c6fefc0429cf]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/5/1)
 
 [^c13225591]: Textual amendment: Words in Sch. 11 para. 1(3) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 126](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/126) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-1df19a724acc9846d2154e42edae1d3d]: Textual amendment: Words in Sch. 11 para. 1(3)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 262(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/262/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1df19a724acc9846d2154e42edae1d3d]: Textual amendment: Words in Sch. 11 para. 1(3)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 262(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/262/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-a77bc144be10eb51d7ae130f2c1b9317]: Textual amendment: Sch. 11 para. 1(3)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 262(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/262/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a77bc144be10eb51d7ae130f2c1b9317]: Textual amendment: Sch. 11 para. 1(3)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 262(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/262/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^M_F_73d3f852-3cd5-48e9-e267-f8590ebc43fe]: Textual amendment: Sch. 11 para. 1(3)(e) substituted (24.5.2007) by [The Planning and Compulsory Purchase Act 2004 (Corresponding Amendments) Order 2007 (S.I. 2007/1519)](https://www.legislation.gov.uk/uksi/2007/1519), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1519/article/1/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2007/1519/schedule/paragraph/8/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1519/article/1/3))
 
 [^c13225601]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-0b41d09de1014b9420d267c04f1d172d]: Textual amendment: Words in [Sch. 11 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11/paragraph/6/1/b) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/10); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g)
+[^c-0b41d09de1014b9420d267c04f1d172d]: Textual amendment: Words in [Sch. 11 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/11/paragraph/6/1/b) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/10); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g)
 
 [^c13225611]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-923657e67a4ed4e10b22eee25972699b]: Textual amendment: Words in Sch. 11 para. 6(6)(a) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
+[^c-923657e67a4ed4e10b22eee25972699b]: Textual amendment: Words in Sch. 11 para. 6(6)(a) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
 
 [^c13225621]: Marginal citation: [1945 c. 18 (9 & 10 Geo. 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/18).
 

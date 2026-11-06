@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Election of the chair and vice-chair[^key-f2de4bbd5c1980d64ae93ad09ef3c134][^key-0fc97f70d4ae64706491ad8153d04660]
+## 39. Election of the chair and vice-chair[^c-f2de4bbd5c1980d64ae93ad09ef3c134][^c-0fc97f70d4ae64706491ad8153d04660]
 
 *Extent: E+W*
 
-[^key-0fc97f70d4ae64706491ad8153d04660]
+[^c-0fc97f70d4ae64706491ad8153d04660]
 
 (1) Subject to paragraph (2) and to section 18 of the 1998 Act[^f00013] (*Power of National Assembly for Wales to appoint additional governors*), the governing body must elect a chair and a vice-chair from among their number annually.
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f2de4bbd5c1980d64ae93ad09ef3c134]: Commencement: Reg. 39 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-f2de4bbd5c1980d64ae93ad09ef3c134]: Commencement: Reg. 39 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))
+[^c-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))
 
 [^f00013]: Footnote: Amended by section 56 of the 2002 Act.

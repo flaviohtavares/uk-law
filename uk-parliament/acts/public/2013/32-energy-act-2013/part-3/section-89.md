@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Provision of information or advice to relevant authorities[^key-788910d7fdfe1ea5dbd783af59e22a63]
+## 89. Provision of information or advice to relevant authorities[^c-788910d7fdfe1ea5dbd783af59e22a63]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,13 +62,13 @@ summary: ''
 - (e) the Health and Safety Executive;
 - (f) the Health and Safety Executive for Northern Ireland;
 - (g) the Civil Aviation Authority;
-- (h) the Office of Rail and Road *(Extent: E+W+S)*[^key-d697ee5f108bedb241eae82a6852faba].
-- (i)[^key-85b8f45a29e882f8172b1afc05ba11ae] a person appointed by regulations under section 16 of the Space Industry Act 2018.
+- (h) the Office of Rail and Road *(Extent: E+W+S)*[^c-d697ee5f108bedb241eae82a6852faba].
+- (i)[^c-85b8f45a29e882f8172b1afc05ba11ae] a person appointed by regulations under section 16 of the Space Industry Act 2018.
 
 ## Annotations
 
-[^key-788910d7fdfe1ea5dbd783af59e22a63]: Commencement: S. 89 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-788910d7fdfe1ea5dbd783af59e22a63]: Commencement: S. 89 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-d697ee5f108bedb241eae82a6852faba]: Textual amendment: Words in s. 89(8)(h) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(w)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/w/ii)
+[^c-d697ee5f108bedb241eae82a6852faba]: Textual amendment: Words in s. 89(8)(h) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(w)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/w/ii)
 
-[^key-85b8f45a29e882f8172b1afc05ba11ae]: Textual amendment: [S. 89(8)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/89/8/i) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/32); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-85b8f45a29e882f8172b1afc05ba11ae]: Textual amendment: [S. 89(8)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/89/8/i) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/32); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

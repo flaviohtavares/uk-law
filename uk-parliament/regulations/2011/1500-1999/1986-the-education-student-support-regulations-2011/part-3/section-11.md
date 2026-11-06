@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Requirement to enter into a contract for a loan[^key-dd4c37b1ca6bfee7b05d33458d482a15]
+## 11. Requirement to enter into a contract for a loan[^c-dd4c37b1ca6bfee7b05d33458d482a15]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4c37b1ca6bfee7b05d33458d482a15]: Textual amendment: Reg. 11 substituted (23.12.2015) by [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1951/regulation/9)
+[^c-dd4c37b1ca6bfee7b05d33458d482a15]: Textual amendment: Reg. 11 substituted (23.12.2015) by [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1951/regulation/9)

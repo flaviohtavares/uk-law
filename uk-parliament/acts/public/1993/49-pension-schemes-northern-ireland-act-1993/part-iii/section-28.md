@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Suspension or forfeiture.[^key-07b0dde5f324679119e135b4d809aad1]
+## 28. Suspension or forfeiture.[^c-07b0dde5f324679119e135b4d809aad1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b0dde5f324679119e135b4d809aad1]: Textual amendment: S. 28 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(e)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/e), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)
+[^c-07b0dde5f324679119e135b4d809aad1]: Textual amendment: S. 28 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(e)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/e), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)

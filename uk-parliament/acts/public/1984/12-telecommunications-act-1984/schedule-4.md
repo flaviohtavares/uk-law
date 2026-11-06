@@ -701,7 +701,7 @@ and the power conferred by virtue of this sub-paragraph shall include power to m
 
 ### The Land Registration (Scotland) Act 1979[^c13632091]
 
-**71.**[^key-3f9d1a6647fc0f7b7d86640fda7c3d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-3f9d1a6647fc0f7b7d86640fda7c3d4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Estate Agents Act 1979[^c13632101]
 
@@ -1359,7 +1359,7 @@ shall be construed in accordance with sub-paragraph (3) below.
 
 [^c13632091]: Marginal citation: [1979 c. 33](https://www.legislation.gov.uk/ukpga/1979/33).
 
-[^key-3f9d1a6647fc0f7b7d86640fda7c3d4d]: Textual amendment: [Sch. 4 para. 71](https://www.legislation.gov.uk/ukpga/1984/12/schedule/4/paragraph/71) repealed (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/26) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3f9d1a6647fc0f7b7d86640fda7c3d4d]: Textual amendment: [Sch. 4 para. 71](https://www.legislation.gov.uk/ukpga/1984/12/schedule/4/paragraph/71) repealed (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/26) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c13632101]: Marginal citation: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38).
 

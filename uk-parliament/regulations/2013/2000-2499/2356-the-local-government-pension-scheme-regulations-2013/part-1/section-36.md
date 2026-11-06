@@ -24,11 +24,11 @@ summary: ''
 
 - (a) whether the member satisfies the conditions in regulation 35(3) and (4); and if so,
 - (b) how long the member is unlikely to be capable of undertaking gainful employment; and
-- (c)[^key-51b00e3da4c3aeb1801d9e67abeac956] where a member has been working reduced contractual hours and had reduced pay as a consequence of the reduction in contractual hours, whether that member was in part time service wholly or partly as a result of the condition that caused or contributed to the member’s ill-health retirement.
+- (c)[^c-51b00e3da4c3aeb1801d9e67abeac956] where a member has been working reduced contractual hours and had reduced pay as a consequence of the reduction in contractual hours, whether that member was in part time service wholly or partly as a result of the condition that caused or contributed to the member’s ill-health retirement.
 
 (2) An IRMP from whom a certificate is obtained under paragraph (1) must not have previously advised, or given an opinion on, or otherwise been involved in the particular case for which the certificate has been requested.
 
-(2A)[^key-1de03f6b0f13e60e8fae50ee4c730fc8] For the purposes of paragraph (2) an IRMP is not to be treated as having advised, given an opinion on or otherwise been involved in a particular case merely because another practitioner from the same occupational health provider has advised, given an opinion on or otherwise been involved in that case.
+(2A)[^c-1de03f6b0f13e60e8fae50ee4c730fc8] For the purposes of paragraph (2) an IRMP is not to be treated as having advised, given an opinion on or otherwise been involved in a particular case merely because another practitioner from the same occupational health provider has advised, given an opinion on or otherwise been involved in that case.
 
 (3) If the Scheme employer is not the member's appropriate administering authority, it must first obtain that authority's approval to its choice of IRMP.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51b00e3da4c3aeb1801d9e67abeac956]: Textual amendment: [Reg. 36(1)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/36/1/c) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/13/a)
+[^c-51b00e3da4c3aeb1801d9e67abeac956]: Textual amendment: [Reg. 36(1)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/36/1/c) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/13/a)
 
-[^key-1de03f6b0f13e60e8fae50ee4c730fc8]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/36/2A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/13/b)
+[^c-1de03f6b0f13e60e8fae50ee4c730fc8]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/36/2A) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/13/b)

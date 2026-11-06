@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Groundwater[^key-333d0f1f7570ea44a0baa8f0d4944ce7]
+## 14. Groundwater[^c-333d0f1f7570ea44a0baa8f0d4944ce7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-333d0f1f7570ea44a0baa8f0d4944ce7]: Textual amendment: Reg. 14 revoked (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2006/280/regulation/10)
+[^c-333d0f1f7570ea44a0baa8f0d4944ce7]: Textual amendment: Reg. 14 revoked (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2006/280/regulation/10)

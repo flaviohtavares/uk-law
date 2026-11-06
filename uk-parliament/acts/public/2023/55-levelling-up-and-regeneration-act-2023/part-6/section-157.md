@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Requirements to consult devolved administrations[^key-9e967e0901d712eedfda62a80ae259a9]
+## 157. Requirements to consult devolved administrations[^c-9e967e0901d712eedfda62a80ae259a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ with the consent of the Scottish Ministers, unless that provision is merely inci
 
 ## Annotations
 
-[^key-9e967e0901d712eedfda62a80ae259a9]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2023/55/section/157) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-9e967e0901d712eedfda62a80ae259a9]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2023/55/section/157) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

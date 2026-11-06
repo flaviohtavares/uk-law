@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Interpretation of Part 1[^key-4f7844bbc29974a343e064d373e574a6]
+## 40. Interpretation of Part 1[^c-4f7844bbc29974a343e064d373e574a6]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7844bbc29974a343e064d373e574a6]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/10/section/40) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-4f7844bbc29974a343e064d373e574a6]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/10/section/40) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

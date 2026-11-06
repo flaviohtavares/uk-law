@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. “Public authority”[^key-6043e55112a11f7809f1cac9c4247925]
+## 6. “Public authority”[^c-6043e55112a11f7809f1cac9c4247925]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6043e55112a11f7809f1cac9c4247925]: Commencement: S. 6 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-6043e55112a11f7809f1cac9c4247925]: Commencement: S. 6 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Reporting duty of the Scottish Parliament[^key-25f6cca7c0aad044eb3a7d454f48ef1b]
+## 21. Reporting duty of the Scottish Parliament[^c-25f6cca7c0aad044eb3a7d454f48ef1b]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f6cca7c0aad044eb3a7d454f48ef1b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/1/section/21) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-25f6cca7c0aad044eb3a7d454f48ef1b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/1/section/21) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

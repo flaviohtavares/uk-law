@@ -54,11 +54,11 @@ The Secretary of State has consulted the chief officer of the Devon and Cornwall
 
 Accordingly, the Secretary of State for Transport[^f00002] makes this Order:
 
-## 1. Citation and commencement[^key-2e0667936983c8d7e8dee66f404e95e5]
+## 1. Citation and commencement[^c-2e0667936983c8d7e8dee66f404e95e5]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions (County of Cornwall) Designation Order 2008 and shall come into force on 5th May 2008.
 
-## 2. Designation of civil enforcement area and special enforcement area[^key-e28fc8fa1d8932212f578cf58043d60b]
+## 2. Designation of civil enforcement area and special enforcement area[^c-e28fc8fa1d8932212f578cf58043d60b]
 
 (1) Subject to paragraph (2), the Secretary of State designates the County of Cornwall as—
 
@@ -96,8 +96,8 @@ No Impact Assessment has been prepared for this instrument as it has no signific
 
 [^f00002]: Footnote: The Secretary of State is the “appropriate national authority” for England for the purposes of Part 6 of the Traffic Management Act 2004 under section 92 of that Act.
 
-[^key-2e0667936983c8d7e8dee66f404e95e5]: Commencement: Art. 1 in force at 5.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1055/article/1)
+[^c-2e0667936983c8d7e8dee66f404e95e5]: Commencement: Art. 1 in force at 5.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1055/article/1)
 
-[^key-e28fc8fa1d8932212f578cf58043d60b]: Commencement: Art. 2 in force at 5.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1055/article/1)
+[^c-e28fc8fa1d8932212f578cf58043d60b]: Commencement: Art. 2 in force at 5.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1055/article/1)
 
 [^f00003]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

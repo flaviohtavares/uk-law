@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the extent and nature of the accommodation,
 - (b) the condition and location of the accommodation, including the state of repair of any dwelling-house, and the means of access to it,
-- (c) whether any accommodation is wholly or partly occupied by a person who is or has been employed in agriculture or by a person who has been married to , or has been the civil partner of,[^key-187338d41df07140fd903ef9786ebf9a] such a person, or whether the accommodation is vacant, and any impending change in the state of occupation,
+- (c) whether any accommodation is wholly or partly occupied by a person who is or has been employed in agriculture or by a person who has been married to , or has been the civil partner of,[^c-187338d41df07140fd903ef9786ebf9a] such a person, or whether the accommodation is vacant, and any impending change in the state of occupation,
 - (d) so far as it lies within the knowledge of the person on whom the notice is served, facts about, or related to, housing accommodation on, or held in connection with, or used for, the land at some time or times prior to the service of the notice, or even prior to the operative date, but not at a time more than 5 years before the service of the notice.
 
 (4) If the person served is not the owner or occupier of the land, the notice may require him to give any information in his possession which may identify the true owner or occupier and his address, or to state that he has no such information.
@@ -54,6 +54,6 @@ he shall be liable on summary conviction to a fine not exceeding level 5 on the 
 
 [^c13230721]: Modification: Certain functions of Minister of Agriculture, Fisheries and Food under ss. 30, 31 now exercisable (W.) by Secretary of State or Minister and Secretary of State jointly: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2](https://www.legislation.gov.uk/uksi/1978/272/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/1)
 
-[^key-187338d41df07140fd903ef9786ebf9a]: Textual amendment: Words in s. 31(3)(c) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-187338d41df07140fd903ef9786ebf9a]: Textual amendment: Words in s. 31(3)(c) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c13230741]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)

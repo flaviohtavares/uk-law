@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414A. Exception for payments and benefits under section 615(3) schemes[^key-d219fbdd174f385292bea6c629b27235]
+## 414A. Exception for payments and benefits under section 615(3) schemes[^c-d219fbdd174f385292bea6c629b27235]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d219fbdd174f385292bea6c629b27235]: Textual amendment: S. 414A inserted (with effect in accordance with art. 6 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2014/211/article/5/3/b)
+[^c-d219fbdd174f385292bea6c629b27235]: Textual amendment: S. 414A inserted (with effect in accordance with art. 6 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2014/211/article/5/3/b)

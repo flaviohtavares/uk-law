@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Hymenoplasty offences in Northern Ireland: penalties[^key-e7c1babfa57c808881e870a606fd5827][^key-e488fee509c3f6845c7da42a20ed7dc1]
+## 159. Hymenoplasty offences in Northern Ireland: penalties[^c-e7c1babfa57c808881e870a606fd5827][^c-e488fee509c3f6845c7da42a20ed7dc1]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ A person who commits an offence under section 156, 157 or 158 is liable—
 
 ## Annotations
 
-[^key-e7c1babfa57c808881e870a606fd5827]: Commencement: S. 159 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e7c1babfa57c808881e870a606fd5827]: Commencement: S. 159 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e488fee509c3f6845c7da42a20ed7dc1]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2022/31/section/159) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e488fee509c3f6845c7da42a20ed7dc1]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2022/31/section/159) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

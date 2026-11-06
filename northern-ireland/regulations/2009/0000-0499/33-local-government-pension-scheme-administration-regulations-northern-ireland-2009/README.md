@@ -39,13 +39,13 @@ Coming into operation
 
 1st April 2009
 
-[^key-f4ff113e077177dfd69afa0039c815dc]The Department of the Environment make these Regulations in exercise of the powers conferred by Article 9 of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972[^f00001] and now vested in it[^f00002].[^key-d4c37e8521b2063821e6654dae7724ee]
+[^c-f4ff113e077177dfd69afa0039c815dc]The Department of the Environment make these Regulations in exercise of the powers conferred by Article 9 of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972[^f00001] and now vested in it[^f00002].[^c-d4c37e8521b2063821e6654dae7724ee]
 
-In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers’ Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to it to be appropriate.[^key-d4c37e8521b2063821e6654dae7724ee]
+In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers’ Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to it to be appropriate.[^c-d4c37e8521b2063821e6654dae7724ee]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — PRELIMINARY (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 1 (affected by repeal, see note) — PRELIMINARY (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 12 — Re-employed and rejoining deferred members](part-2/section-12.md)
 - [Section 13 — Concurrent employments](part-2/section-13.md)
 
-### PART 3 (affected by repeal, see note) — CONTRIBUTIONS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 3 (affected by repeal, see note) — CONTRIBUTIONS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -87,7 +87,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 23 — Separate treatment of AVCs and SCAVCs from other contributions](part-3/section-23.md)
 - [Section 24 — Cost of calculations of additional pension where no notification given under regulation 22(4)](part-3/section-24.md)
 
-### PART 4 (affected by repeal, see note) — PENSION FUND AND EMPLOYERS’ PAYMENTS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 4 (affected by repeal, see note) — PENSION FUND AND EMPLOYERS’ PAYMENTS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -111,7 +111,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 41 — Rights to return of contributions](part-4/section-41.md)
 - [Section 42 — Exclusion of rights to return of contributions](part-4/section-42.md)
 
-### PART 5 (affected by repeal, see note) — PAYMENT OF BENEFITS, ETC. (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 5 (affected by repeal, see note) — PAYMENT OF BENEFITS, ETC. (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -126,7 +126,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 47A — Payments for persons incapable of managing their affairs](part-5/section-47a.md)
 - [Section 48 — Non-assignability](part-5/section-48.md)
 
-### PART 6 (affected by repeal, see note) — DETERMINATION OF QUESTIONS AND DISPUTES (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 6 (affected by repeal, see note) — DETERMINATION OF QUESTIONS AND DISPUTES (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -142,7 +142,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 58 — Rights of representation](part-6/section-58.md)
 - [Section 59 — Referral of decisions under regulation 50(1) to the county court](part-6/section-59.md)
 
-### PART 7 (affected by repeal, see note) — POLICY STATEMENTS AND INFORMATION (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 7 (affected by repeal, see note) — POLICY STATEMENTS AND INFORMATION (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -154,7 +154,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 64A — Pension savings statements](part-7/section-64a.md)
 - [Section 65 — Information to be supplied by employees](part-7/section-65.md)
 
-### PART 8 (affected by repeal, see note) — SPECIAL ADJUSTMENTS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 8 (affected by repeal, see note) — SPECIAL ADJUSTMENTS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -167,7 +167,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 71A — Revaluation of guaranteed minimum](part-8/section-71a.md)
 - [Section 72 — Transfer of sums from the fund to compensate for former member’s misconduct](part-8/section-72.md)
 
-### PART 9 (affected by repeal, see note) — TRANSFERS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 9 (affected by repeal, see note) — TRANSFERS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -181,17 +181,17 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 80 — Right to count credited period](part-9/section-80.md)
 - [Section 81 — Community scheme transferees](part-9/section-81.md)
 
-### PART 10 (affected by repeal, see note) — PENSION SHARING (affected by repeal, see note)[^key-de9b827c01ebc2a042a04f509abadd56][^key-f4ff113e077177dfd69afa0039c815dc][^key-f4ff113e077177dfd69afa0039c815dc]
+### PART 10 (affected by repeal, see note) — PENSION SHARING (affected by repeal, see note)[^c-de9b827c01ebc2a042a04f509abadd56][^c-f4ff113e077177dfd69afa0039c815dc][^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
-#### PRELIMINARY PROVISIONS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc]
+#### PRELIMINARY PROVISIONS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
 - [Section 82 — Pension debit member](part-10/section-82.md)
 
-#### SHARING OF RIGHTS UNDER THE SCHEME (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc]
+#### SHARING OF RIGHTS UNDER THE SCHEME (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -202,7 +202,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 87 — Safeguarded rights](part-10/section-87.md)
 - [Section 88 — Valuation date](part-10/section-88.md)
 
-#### PENSION CREDIT MEMBERS AND PENSION CREDIT (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc]
+#### PENSION CREDIT MEMBERS AND PENSION CREDIT (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -212,7 +212,7 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - [Section 92 — Death grants: pension credit members](part-10/section-92.md)
 - [Section 93 — Commutation: small pensions](part-10/section-93.md)
 
-#### TRANSFERS (affected by repeal, see note)[^key-f4ff113e077177dfd69afa0039c815dc]
+#### TRANSFERS (affected by repeal, see note)[^c-f4ff113e077177dfd69afa0039c815dc]
 
 *Extent: N.I.*
 
@@ -268,12 +268,12 @@ A regulatory impact assessment has not been produced for these Regulations as it
 
 ## Annotations
 
-[^key-f4ff113e077177dfd69afa0039c815dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) revoked (except reg. 4 for specified purposes, reg. 6 for specified purposes and reg. 11) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/2/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [13](https://www.legislation.gov.uk/nisr/2014/189/regulation/13), [14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
+[^c-f4ff113e077177dfd69afa0039c815dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) revoked (except reg. 4 for specified purposes, reg. 6 for specified purposes and reg. 11) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/2/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [13](https://www.legislation.gov.uk/nisr/2014/189/regulation/13), [14(1)(d)](https://www.legislation.gov.uk/nisr/2014/189/regulation/14/1/d), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
 
 [^f00001]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073); Art. 9 was amended by Art. 34 [S.I. 2005/1968 (N.I. 18)](https://www.legislation.gov.uk/nisi/2005/1968); Art. 14 was amended by Art. 12 [S.I. 1990/1509(N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509).
 
 [^f00002]: Footnote: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504)Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-d4c37e8521b2063821e6654dae7724ee]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) applied (with modifications) (9.5.2011) by S.R. 2009/33, reg. 3A, Sch. 4 (as inserted by [Local Government Pension Scheme (Councillors) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/117)](https://www.legislation.gov.uk/nisr/2011/117), [regs. 1](https://www.legislation.gov.uk/nisr/2011/117/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/117/regulation/3)[(4)](https://www.legislation.gov.uk/nisr/2011/117/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/117/schedule/2))
+[^c-d4c37e8521b2063821e6654dae7724ee]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2009/33) applied (with modifications) (9.5.2011) by S.R. 2009/33, reg. 3A, Sch. 4 (as inserted by [Local Government Pension Scheme (Councillors) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/117)](https://www.legislation.gov.uk/nisr/2011/117), [regs. 1](https://www.legislation.gov.uk/nisr/2011/117/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/117/regulation/3)[(4)](https://www.legislation.gov.uk/nisr/2011/117/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/117/schedule/2))
 
-[^key-de9b827c01ebc2a042a04f509abadd56]: Modification: [Pt. 10](https://www.legislation.gov.uk/nisr/2009/33/part/10) applied (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2009/34/regulation/13)
+[^c-de9b827c01ebc2a042a04f509abadd56]: Modification: [Pt. 10](https://www.legislation.gov.uk/nisr/2009/33/part/10) applied (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2009/34/regulation/13)

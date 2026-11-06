@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Transfer schemes[^key-116c39d2a9b28f295fd25f0ed3f8f859]
+## 25. Transfer schemes[^c-116c39d2a9b28f295fd25f0ed3f8f859]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 gives an education administrator the power to make transfer schemes.
 
 ## Annotations
 
-[^key-116c39d2a9b28f295fd25f0ed3f8f859]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/19/section/25) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-116c39d2a9b28f295fd25f0ed3f8f859]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/19/section/25) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

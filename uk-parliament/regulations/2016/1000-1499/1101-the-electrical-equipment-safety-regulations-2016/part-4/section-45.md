@@ -31,7 +31,7 @@ summary: ''
 - (a) the results of the evaluation; and
 - (b) the actions which it has required the economic operator to take.
 
-(3)[^key-8778c6f9106f9ab5871a82070e1ce2a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8778c6f9106f9ab5871a82070e1ce2a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the relevant economic operator does not take adequate corrective action within the prescribed period referred to in paragraph (1), the enforcing authority must take all appropriate measures to—
 
@@ -41,9 +41,9 @@ summary: ''
 
 (5) Where the enforcing authority is not the Secretary of State and it takes measures under paragraph (4), it must notify the Secretary of State of those measures without delay.
 
-(6)[^key-3ef4c88f1bf9afa5cabf490f2720c812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3ef4c88f1bf9afa5cabf490f2720c812] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The notice in paragraph (5)[^key-944c3a2b75971957b3ffdf321306ec5f] must include, where available—
+(7) The notice in paragraph (5)[^c-944c3a2b75971957b3ffdf321306ec5f] must include, where available—
 
 - (a) the data necessary for the identification of the electrical equipment which is not in conformity with Part 2;
 - (b) the origin of the electrical equipment;
@@ -52,7 +52,7 @@ summary: ''
 - (e) the arguments put forward by the relevant economic operator; and
 - (f) a statement as to whether the lack of conformity is due to—
   - (i) failure of the electrical equipment to meet relevant requirements relating to a risk; or
-  - (ii) shortcomings in a designated[^key-93b45ff679399769d8ed4366df3b95b8] standard referred to in regulation 36 conferring a presumption of conformity.
+  - (ii) shortcomings in a designated[^c-93b45ff679399769d8ed4366df3b95b8] standard referred to in regulation 36 conferring a presumption of conformity.
 
 (8) In this regulation, “**prescribed period**” means a period which is—
 
@@ -109,13 +109,13 @@ summary: ''
 
 ## Annotations
 
-[^key-8778c6f9106f9ab5871a82070e1ce2a3]: Textual amendment: Reg. 45(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8778c6f9106f9ab5871a82070e1ce2a3]: Textual amendment: Reg. 45(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ef4c88f1bf9afa5cabf490f2720c812]: Textual amendment: Reg. 45(6) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ef4c88f1bf9afa5cabf490f2720c812]: Textual amendment: Reg. 45(6) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-944c3a2b75971957b3ffdf321306ec5f]: Textual amendment: Words in reg. 45(7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/b) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-944c3a2b75971957b3ffdf321306ec5f]: Textual amendment: Words in reg. 45(7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/b) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93b45ff679399769d8ed4366df3b95b8]: Textual amendment: Word in reg. 45(7)(f)(ii) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/c) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93b45ff679399769d8ed4366df3b95b8]: Textual amendment: Word in reg. 45(7)(f)(ii) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 25(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/25/c) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_0db7f382-d708-4753-f4ee-7259393abf81]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

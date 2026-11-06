@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B7. Deemed employments[^key-270891fdc0705ffbc4e36445c50a12ae]
+## B7. Deemed employments[^c-270891fdc0705ffbc4e36445c50a12ae]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In these regulations, unless the context otherwise requires, references to emplo
 
 ## Annotations
 
-[^key-270891fdc0705ffbc4e36445c50a12ae]: Commencement: [Reg. B7](https://www.legislation.gov.uk/uksi/1986/24/regulation/B7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-270891fdc0705ffbc4e36445c50a12ae]: Commencement: [Reg. B7](https://www.legislation.gov.uk/uksi/1986/24/regulation/B7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

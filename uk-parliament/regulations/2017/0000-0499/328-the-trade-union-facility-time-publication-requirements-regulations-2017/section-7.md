@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Relevant public sector employer[^key-44ba15f2f4a56afddb6bcf1b954d4493]
+## 7. Relevant public sector employer[^c-44ba15f2f4a56afddb6bcf1b954d4493]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44ba15f2f4a56afddb6bcf1b954d4493]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-44ba15f2f4a56afddb6bcf1b954d4493]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
 
 [^f00004]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 

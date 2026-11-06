@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Traffic regulation[^key-81f4311ee7d793e9db63bb53b1239665]
+## 20. Traffic regulation[^c-81f4311ee7d793e9db63bb53b1239665]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 either at all times or at times, on days or during such periods as may be specified by the undertaker.
 
-(3) The power conferred by paragraph (2)[^key-e15678ea49a6b1ca6b53728aba138830] may be exercised at any time prior to the expiry of 12 months from the opening of the authorised development for public use but subject to paragraph (2) any prohibition, restriction or other provision made under paragraph (2) may have effect both before and after the expiry of that period.
+(3) The power conferred by paragraph (2)[^c-e15678ea49a6b1ca6b53728aba138830] may be exercised at any time prior to the expiry of 12 months from the opening of the authorised development for public use but subject to paragraph (2) any prohibition, restriction or other provision made under paragraph (2) may have effect both before and after the expiry of that period.
 
 (4) The undertaker must consult the chief officer of police and the traffic authority in whose area the road is situated before complying with the provisions of paragraph (2).
 
@@ -62,18 +62,18 @@ either at all times or at times, on days or during such periods as may be specif
 
 (10) The powers conferred on the undertaker by this article with respect to any road have effect subject to any agreement entered into by the undertaker with any person with an interest in (or who undertakes activities in relation to) premises served by the road.
 
-(11) If the traffic authority fails to notify the undertaker of its decision within 28 days of receiving an application for consent under paragraph (2)[^key-6e6f8b5bc6ced29e06b92ad80581f5d3] the traffic authority is deemed to have granted consent.
+(11) If the traffic authority fails to notify the undertaker of its decision within 28 days of receiving an application for consent under paragraph (2)[^c-6e6f8b5bc6ced29e06b92ad80581f5d3] the traffic authority is deemed to have granted consent.
 
-(12) Any application to which this article applies must include a statement that the provisions of paragraph (11)[^key-09eb29d819f1e7817f6d6f41ffaad786] apply to that application.
+(12) Any application to which this article applies must include a statement that the provisions of paragraph (11)[^c-09eb29d819f1e7817f6d6f41ffaad786] apply to that application.
 
 ## Annotations
 
-[^key-81f4311ee7d793e9db63bb53b1239665]: Commencement: Art. 20 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-81f4311ee7d793e9db63bb53b1239665]: Commencement: Art. 20 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-e15678ea49a6b1ca6b53728aba138830]: Textual amendment: Words in [art. 20(3)-(8)](https://www.legislation.gov.uk/uksi/2022/738/article/20/3) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-e15678ea49a6b1ca6b53728aba138830]: Textual amendment: Words in [art. 20(3)-(8)](https://www.legislation.gov.uk/uksi/2022/738/article/20/3) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
 
 [^f00053]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 
-[^key-6e6f8b5bc6ced29e06b92ad80581f5d3]: Textual amendment: Words in [art. 20(11)](https://www.legislation.gov.uk/uksi/2022/738/article/20/11) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-6e6f8b5bc6ced29e06b92ad80581f5d3]: Textual amendment: Words in [art. 20(11)](https://www.legislation.gov.uk/uksi/2022/738/article/20/11) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
 
-[^key-09eb29d819f1e7817f6d6f41ffaad786]: Textual amendment: Words in [art. 20(12)](https://www.legislation.gov.uk/uksi/2022/738/article/20/12) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-09eb29d819f1e7817f6d6f41ffaad786]: Textual amendment: Words in [art. 20(12)](https://www.legislation.gov.uk/uksi/2022/738/article/20/12) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)

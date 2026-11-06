@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 271. Execution overtaken by judgement debtor’s insolvency[^key-e0626999dfc090063e5717c73d62e2c9]
+## 271. Execution overtaken by judgement debtor’s insolvency[^c-e0626999dfc090063e5717c73d62e2c9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0626999dfc090063e5717c73d62e2c9]: Commencement: Rule 271 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e0626999dfc090063e5717c73d62e2c9]: Commencement: Rule 271 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

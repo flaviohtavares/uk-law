@@ -95,7 +95,7 @@ HAS ADOPTED THIS DECISION:
 
 The BAT conclusions for the manufacture of glass are set out in the Annex to this Decision.
 
-## Article 2. Application and Interpretation[^key-46e75aa7c12b7c4392b407e5b7be412b]
+## Article 2. Application and Interpretation[^c-46e75aa7c12b7c4392b407e5b7be412b]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -3275,7 +3275,7 @@ H<sub>2</sub>S, VOC emissions
 
 [^f00003]: Footnote: http://circa.europa.eu/Public/irc/env/ied/library?l=/ied\_art\_13\_forum/opinions\_article
 
-[^key-46e75aa7c12b7c4392b407e5b7be412b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2012/134/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46e75aa7c12b7c4392b407e5b7be412b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2012/134/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Specific cases correspond to less favourable cases (i.e. small special furnaces with a production of generally below 100 tonnes/day and a cullet rate of below 30 %). This category represents only 1 or 2 % of the container glass production.
 

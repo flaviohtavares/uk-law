@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. USP access conditions[^key-93f0bad42faa097f379cd1b7235a8280]
+## 38. USP access conditions[^c-93f0bad42faa097f379cd1b7235a8280]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f0bad42faa097f379cd1b7235a8280]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/5/section/38) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-93f0bad42faa097f379cd1b7235a8280]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/5/section/38) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

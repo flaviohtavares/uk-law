@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Meaning of “medical examination order”[^key-a52ab68c9ff44479243e1b8ed38947dc]
+## 87. Meaning of “medical examination order”[^c-a52ab68c9ff44479243e1b8ed38947dc]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52ab68c9ff44479243e1b8ed38947dc]: Commencement: S. 87 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a52ab68c9ff44479243e1b8ed38947dc]: Commencement: S. 87 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

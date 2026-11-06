@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Hymenoplasty offences in Scotland: penalties and supplementary[^key-0065511df3433213dbfe6973779c3d9f][^key-a2fad1162fba60816fdd1521fd5659a6]
+## 155. Hymenoplasty offences in Scotland: penalties and supplementary[^c-0065511df3433213dbfe6973779c3d9f][^c-a2fad1162fba60816fdd1521fd5659a6]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ as if the offence had been committed in that district.
 
 ## Annotations
 
-[^key-0065511df3433213dbfe6973779c3d9f]: Commencement: S. 155 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0065511df3433213dbfe6973779c3d9f]: Commencement: S. 155 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-a2fad1162fba60816fdd1521fd5659a6]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/31/section/155) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a2fad1162fba60816fdd1521fd5659a6]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/31/section/155) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

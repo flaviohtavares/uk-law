@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Timetable for deciding application for infrastructure consent[^key-bdb28b111329c71effa0320d20474274][^key-66a3e8a16f2fb067c6ef1949aa38d518]
+## 59. Timetable for deciding application for infrastructure consent[^c-bdb28b111329c71effa0320d20474274][^c-66a3e8a16f2fb067c6ef1949aa38d518]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb28b111329c71effa0320d20474274]: Commencement: S. 59 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-bdb28b111329c71effa0320d20474274]: Commencement: S. 59 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-66a3e8a16f2fb067c6ef1949aa38d518]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2024/3/section/59) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-66a3e8a16f2fb067c6ef1949aa38d518]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2024/3/section/59) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

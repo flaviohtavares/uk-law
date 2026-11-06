@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Requirement for landlords to be licensed to carry out property management activities[^key-de396ad9f52e12e6cfa5a6ce0f14a1d4][^key-7e9bd76ded47017ce70b8c369596293c]
+## 7. Requirement for landlords to be licensed to carry out property management activities[^c-de396ad9f52e12e6cfa5a6ce0f14a1d4][^c-7e9bd76ded47017ce70b8c369596293c]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de396ad9f52e12e6cfa5a6ce0f14a1d4]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/7/section/7) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-de396ad9f52e12e6cfa5a6ce0f14a1d4]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/7/section/7) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-7e9bd76ded47017ce70b8c369596293c]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/7/section/7) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-7e9bd76ded47017ce70b8c369596293c]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/7/section/7) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Applications, notices, etc.[^key-bc3d86beb33ad92eb668d51e95cb5d65]
+## 15. Applications, notices, etc.[^c-bc3d86beb33ad92eb668d51e95cb5d65]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3d86beb33ad92eb668d51e95cb5d65]: Commencement: Art. 15 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-bc3d86beb33ad92eb668d51e95cb5d65]: Commencement: Art. 15 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

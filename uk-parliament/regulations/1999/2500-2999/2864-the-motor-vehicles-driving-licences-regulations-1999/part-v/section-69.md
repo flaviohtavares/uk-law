@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-a2c22edb1c81541efa898dc8d2ec4386] Subject to paragraph (2), section 98(3)(c) of the Traffic Act shall not apply to a person who—
+(1)[^c-a2c22edb1c81541efa898dc8d2ec4386] Subject to paragraph (2), section 98(3)(c) of the Traffic Act shall not apply to a person who—
 
 - (a) passed a test in respect of a vehicle in former category P after 30th November 1990 and before 19th January 2013, or
 - (b) passes the test for the time being prescribed in respect of category AM,
@@ -29,9 +29,9 @@ and such a person shall be exempt from the requirement imposed by section 89(2A)
 
 (2) Paragraph (1) shall cease to apply to a person if he is disqualified by order of a court under section 36 of the Offenders Act.
 
-(2A)[^key-e74c61107f110550281927fbcf8a39a9] Subject to paragraph (2C), section 89(2A) of the Traffic Act shall not apply to a person who is for the time being the holder of a full licence for a class of vehicle included in category A in respect of a test of competence to drive a vehicle of any other class included in that category.
+(2A)[^c-e74c61107f110550281927fbcf8a39a9] Subject to paragraph (2C), section 89(2A) of the Traffic Act shall not apply to a person who is for the time being the holder of a full licence for a class of vehicle included in category A in respect of a test of competence to drive a vehicle of any other class included in that category.
 
-(2B) Subject to paragraph (2C), a person who is for the time being the holder of a full licence for a class of vehicle included in category AM or A[^key-72aab43cc2050eaeb6ee6574329b6f23] shall be exempt from the restriction imposed by section 97(3)(e) on his driving a vehicle of any class included in category AM or A.
+(2B) Subject to paragraph (2C), a person who is for the time being the holder of a full licence for a class of vehicle included in category AM or A[^c-72aab43cc2050eaeb6ee6574329b6f23] shall be exempt from the restriction imposed by section 97(3)(e) on his driving a vehicle of any class included in category AM or A.
 
 (2C) The exemptions conferred by paragraphs (2A) and (2B) shall not apply in relation to the holder of a full licence authorising him only to drive a vehicle included in category A having automatic transmission in respect of—
 
@@ -49,7 +49,7 @@ and such a person shall be exempt from the requirement imposed by section 89(2A)
 - (a) driving on an exempted island, whether or not he is also resident on that island; or
 - (b) driving on an island which is not an exempted island for the purpose of—
   - (i) undertaking, or travelling to or from, an approved training course,
-  - (ii) undergoing, or travelling to or from a place where he is to take or where he has taken, a test of competence prescribed in respect of category AM or A[^key-1dcc5affc5c38c24b02f2e11a74a023d].
+  - (ii) undergoing, or travelling to or from a place where he is to take or where he has taken, a test of competence prescribed in respect of category AM or A[^c-1dcc5affc5c38c24b02f2e11a74a023d].
 
 (7) In this regulation—
 
@@ -61,10 +61,10 @@ and such a person shall be exempt from the requirement imposed by section 89(2A)
 
 ## Annotations
 
-[^key-a2c22edb1c81541efa898dc8d2ec4386]: Textual amendment: Reg. 69(1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/a)
+[^c-a2c22edb1c81541efa898dc8d2ec4386]: Textual amendment: Reg. 69(1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/a)
 
-[^key-e74c61107f110550281927fbcf8a39a9]: Textual amendment: Reg. 69(2A)-(2C) inserted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [11](https://www.legislation.gov.uk/uksi/2001/53/regulation/11)
+[^c-e74c61107f110550281927fbcf8a39a9]: Textual amendment: Reg. 69(2A)-(2C) inserted (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [11](https://www.legislation.gov.uk/uksi/2001/53/regulation/11)
 
-[^key-72aab43cc2050eaeb6ee6574329b6f23]: Textual amendment: Words in reg. 69(2B) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/b)
+[^c-72aab43cc2050eaeb6ee6574329b6f23]: Textual amendment: Words in reg. 69(2B) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/b)
 
-[^key-1dcc5affc5c38c24b02f2e11a74a023d]: Textual amendment: Words in reg. 69(6)(b)(ii) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(c)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/c)
+[^c-1dcc5affc5c38c24b02f2e11a74a023d]: Textual amendment: Words in reg. 69(6)(b)(ii) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 41(c)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/41/c)

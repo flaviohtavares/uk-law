@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 366. Choice of inquiry, hearing or written procedure for appeals and applications[^key-7b83b6e26513263f772cbdf9832cc577]
+## 366. Choice of inquiry, hearing or written procedure for appeals and applications[^c-7b83b6e26513263f772cbdf9832cc577]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b83b6e26513263f772cbdf9832cc577]: Commencement: S. 366 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7b83b6e26513263f772cbdf9832cc577]: Commencement: S. 366 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

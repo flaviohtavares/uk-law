@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Appointment, etc., of grazings committee or grazings constable: appeal to Land Court[^key-db817ac482cb014da8735a9eb2344d37]
+## 24. Appointment, etc., of grazings committee or grazings constable: appeal to Land Court[^c-db817ac482cb014da8735a9eb2344d37]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db817ac482cb014da8735a9eb2344d37]: Commencement: S. 24 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-db817ac482cb014da8735a9eb2344d37]: Commencement: S. 24 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

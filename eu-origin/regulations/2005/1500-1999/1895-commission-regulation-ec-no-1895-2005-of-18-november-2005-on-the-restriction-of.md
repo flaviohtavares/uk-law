@@ -147,7 +147,7 @@ This Regulation shall enter into force on the twentieth day following its public
 
 It shall apply from 1 January 2006.
 
-[^key-17c00dea8865799c1b8b2229c513db57]...
+[^c-17c00dea8865799c1b8b2229c513db57]...
 
 Done at Brussels, 18 November 2005.
 
@@ -219,7 +219,7 @@ Correlation table
 
 [^f00004]: Footnote: [OJ L 186, 30.6.1989, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.186.01.0021.01.ENG). Directive as last amended by Directive 91/11/EEC ([OJ L 65, 11.3.1992, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.065.01.0032.01.ENG)).
 
-[^key-17c00dea8865799c1b8b2229c513db57]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1895/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/704/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17c00dea8865799c1b8b2229c513db57]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/1895/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/704/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [OJ L 39, 13.2.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.039.01.0001.01.ENG).
 

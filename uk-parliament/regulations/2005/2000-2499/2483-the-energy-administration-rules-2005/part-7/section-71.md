@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Disqualification from dividend[^key-2a5a9d8bd29b5839fa892b3f156e357e]
+## 71. Disqualification from dividend[^c-2a5a9d8bd29b5839fa892b3f156e357e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a creditor contravenes any provision of the 1986 Act or the Rules relating to
 
 ## Annotations
 
-[^key-2a5a9d8bd29b5839fa892b3f156e357e]: Commencement: Rule 71 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-2a5a9d8bd29b5839fa892b3f156e357e]: Commencement: Rule 71 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

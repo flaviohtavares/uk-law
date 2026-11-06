@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1(1)
 
 The Secretary of State for Social Security, in exercise of powers conferred on him by sections 128(5), 129(8), 135(1), 136(1), (3), (4) and (5)(b), 137(1) and (2)(d), (e), (l) and (m) and 175(1) to (5) of the Social Security Contributions and Benefits Act 1992[^f00001], and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f4d8b709965dbbab32abec91f4d53ddc]
+## 1. Citation, commencement and interpretation[^c-f4d8b709965dbbab32abec91f4d53ddc]
 
 (1) These Regulations may be cited as the Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 and shall come into force—
 
@@ -62,7 +62,7 @@ The Secretary of State for Social Security, in exercise of powers conferred on h
 - “the Family Credit Regulations” means the Family Credit (General) Regulations 1987[^f00004];
 - “the Income Support Regulations” means the Income Support (General) Regulations 1987[^f00005].
 
-## 2. Amendment of regulation 2 of the Income Support Regulations[^key-5ecdf24b2b7e20db96f3169b24320478]
+## 2. Amendment of regulation 2 of the Income Support Regulations[^c-5ecdf24b2b7e20db96f3169b24320478]
 
 In regulation 2(1) of the Income Support Regulations (interpretation)—
 
@@ -82,7 +82,7 @@ In regulation 2(1) of the Income Support Regulations (interpretation)—
 
   .
 
-## 3. Amendment of regulation 5 of the Income Support Regulations[^key-0f01b6f22ea33b1635fedfde5ee84029]
+## 3. Amendment of regulation 5 of the Income Support Regulations[^c-0f01b6f22ea33b1635fedfde5ee84029]
 
 (1) Regulation 5 of the Income Support Regulations (persons treated as engaged in remunerative work)[^f00009] shall be amended in accordance with the following provisions of this regulation.
 
@@ -94,11 +94,11 @@ In regulation 2(1) of the Income Support Regulations (interpretation)—
 
 (3) In paragraph (6) for the words “paragraph (f)” there shall be substituted the words “paragraph (k)”.
 
-## 4. Amendment of regulation 12 of the Income Support Regulations[^key-20440d07b094cc7611f75a44a73d2085]
+## 4. Amendment of regulation 12 of the Income Support Regulations[^c-20440d07b094cc7611f75a44a73d2085]
 
 In regulation 12 of the Income Support Regulations (relevant education)[^f00010] in paragraph (2) for the word “Technician” in each place where it occurs there shall be substituted the word “Technology”.
 
-## 5. Amendment of regulation 15 of the Income Support Regulations[^key-b9d9ea2c0d79b22a3cdc75dd4037a9d6]
+## 5. Amendment of regulation 15 of the Income Support Regulations[^c-b9d9ea2c0d79b22a3cdc75dd4037a9d6]
 
 In regulation 15 of the Income Support Regulations (circumstances in which a person is to be treated as responsible or not responsible for another) for paragraphs (1) and (2) there shall be substituted the following paragraphs—
 
@@ -113,7 +113,7 @@ In regulation 15 of the Income Support Regulations (circumstances in which a per
 
 .
 
-## 6. Amendment of regulation 16 of the Income Support Regulations[^key-e822e677160c8892643cc2e2b4b5f1f3]
+## 6. Amendment of regulation 16 of the Income Support Regulations[^c-e822e677160c8892643cc2e2b4b5f1f3]
 
 (1) Regulation 16 of the Income Support Regulations (circumstances in which a person is to be treated as being or not being a member of the household)[^f00011] shall be amended in accordance with the following provisions of this regulation.
 
@@ -128,15 +128,15 @@ In regulation 15 of the Income Support Regulations (circumstances in which a per
 
 .
 
-## 7. Amendment of regulation 17 of the Income Support Regulations[^key-5b5ac09f6a8d69307745b28ecf1e6027]
+## 7. Amendment of regulation 17 of the Income Support Regulations[^c-5b5ac09f6a8d69307745b28ecf1e6027]
 
 In regulation 17(1)(b) of the Income Support Regulations (applicable amounts) for the words “except where otherwise provided” there shall be substituted the words “except as provided in regulation 44(1) (modifications in respect of children and young persons)”.
 
-## 8. Amendment of regulation 18 of the Income Support Regulations[^key-8b83eafa7d5a6517abc26c44c6e925bc]
+## 8. Amendment of regulation 18 of the Income Support Regulations[^c-8b83eafa7d5a6517abc26c44c6e925bc]
 
 In regulation 18(1)(c) of the Income Support Regulations (polygamous marriages) for the words “except where otherwise provided” there shall be substituted the words “except as provided in regulation 44(1) (modifications in respect of children and young persons)”.
 
-## 9. Amendment of regulation 19 of the Income Support Regulations[^key-c0cd339ce910feb7f5c24ef9a0a0c6a8]
+## 9. Amendment of regulation 19 of the Income Support Regulations[^c-c0cd339ce910feb7f5c24ef9a0a0c6a8]
 
 (1) Regulation 19 of the Income Support Regulations (applicable amounts for persons in residential care and nursing homes)[^f00012] shall be amended in accordance with the following provisions of this regulation.
 
@@ -176,22 +176,22 @@ In regulation 18(1)(c) of the Income Support Regulations (polygamous marriages) 
 
   .
 
-## 10. Amendment of regulation 21 of the Income Support Regulations[^key-20b0b11c0b9cc2cb3ed71f8acaa2c0a9]
+## 10. Amendment of regulation 21 of the Income Support Regulations[^c-20b0b11c0b9cc2cb3ed71f8acaa2c0a9]
 
 In paragraph (3C) of regulation 21 of the Income Support Regulations (special cases)[^f00017] after the words “by that or another” there shall be inserted the word “local”.
 
-## 11. Amendment of regulation 30 of the Income Support Regulations[^key-3ee4009d46271092ee8fc5c8384a581b]
+## 11. Amendment of regulation 30 of the Income Support Regulations[^c-3ee4009d46271092ee8fc5c8384a581b]
 
 In regulation 30(1) of the Income Support Regulations (calculation of earnings of self-employed earners)—
 
 - (a) in sub-paragraph (a) for the words “52 weeks” there shall be substituted the words “one year”;
 - (b) in sub-paragraph (b) the words “of weeks” shall be omitted.
 
-## 12. Amendment of regulation 35 of the Income Support Regulations[^key-6a85d7e9ac81a259e114411918f9192b]
+## 12. Amendment of regulation 35 of the Income Support Regulations[^c-6a85d7e9ac81a259e114411918f9192b]
 
 In regulation 35(2) of the Income Support Regulations (earnings of employed earners) in sub-paragraph (b) for the words from “who for the time being is” to the end of the sub-paragraph there shall be substituted the words “in respect of a period throughout which the claimant is on maternity leave or is absent from work because he is ill”.
 
-## 13. Amendment of regulation 38 of the Income Support Regulations[^key-809b57acdcfb611e01f3f58a818be527]
+## 13. Amendment of regulation 38 of the Income Support Regulations[^c-809b57acdcfb611e01f3f58a818be527]
 
 (1) Regulation 38 of the Income Support Regulations (calculation of net profit of self-employed earners) shall be amended in accordance with the following provisions of this regulation.
 
@@ -203,7 +203,7 @@ In regulation 35(2) of the Income Support Regulations (earnings of employed earn
 
 .
 
-## 14. Amendment of regulation 39 of the Income Support Regulations[^key-2cb15675af65b7129a2bbb7ffa0a026e]
+## 14. Amendment of regulation 39 of the Income Support Regulations[^c-2cb15675af65b7129a2bbb7ffa0a026e]
 
 In regulation 39(2) of the Income Support Regulations (deduction of tax and contributions for self-employed earners[^f00018]) for sub-paragraphs (a) and (b) there shall be substituted the following sub-paragraphs—
 
@@ -212,7 +212,7 @@ In regulation 39(2) of the Income Support Regulations (deduction of tax and cont
 
 .
 
-## 15. Amendment of regulation 44 of the Income Support Regulations[^key-5f9305c7e83efe41fd9d737921e34db1]
+## 15. Amendment of regulation 44 of the Income Support Regulations[^c-5f9305c7e83efe41fd9d737921e34db1]
 
 (1) Regulation 44 of the Income Support Regulations (modifications in respect of children and young persons) shall be amended in accordance with the following provisions of this regulation.
 
@@ -222,11 +222,11 @@ In regulation 39(2) of the Income Support Regulations (deduction of tax and cont
 
 (4) In paragraph (5) for the words “except where otherwise provided” there shall be substituted the words “except as provided in paragraph (1)”.
 
-## 16. Amendment of regulation 61 of the Income Support Regulations[^key-97b5a6ce145c0f8dbd368ba8bd1ce275]
+## 16. Amendment of regulation 61 of the Income Support Regulations[^c-97b5a6ce145c0f8dbd368ba8bd1ce275]
 
 In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in the definition of “a course of advanced education” for the word “Technician” in each place where it occurs there shall be substituted the word “Technology”.
 
-## 17. Amendment of regulation 71 of the Income Support Regulations[^key-2bddc2077df8c385be2c7e5e30e27ab0]
+## 17. Amendment of regulation 71 of the Income Support Regulations[^c-2bddc2077df8c385be2c7e5e30e27ab0]
 
 (1) Regulation 71(1) of the Income Support Regulations (applicable amounts in urgent cases)[^f00020] shall be amended in accordance with the following provisions of this regulation.
 
@@ -240,7 +240,7 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 (4) In sub-paragraph (c)(i) the words “in respect of personal expenses as is” shall be omitted.
 
-## 18. Amendment of Schedule 2 to the Income Support Regulations[^key-ee076fbf7e60cc28899d02f1cd7344c7]
+## 18. Amendment of Schedule 2 to the Income Support Regulations[^c-ee076fbf7e60cc28899d02f1cd7344c7]
 
 (1) Schedule 2 to the Income Support Regulations (applicable amounts) shall be amended in accordance with the following provisions of this regulation.
 
@@ -250,11 +250,11 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 (4) In sub-paragraph (a) of paragraph 14 (disabled child premium)[^f00023] for the words “except where otherwise provided” there shall be substituted the words “except as provided in regulation 44(1) (modifications in respect of children and young persons)”.
 
-## 19. Amendment of Schedule 3 to the Income Support Regulations[^key-78fd53f39743c74e7ee0c0b7a201bdab]
+## 19. Amendment of Schedule 3 to the Income Support Regulations[^c-78fd53f39743c74e7ee0c0b7a201bdab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of Schedule 4 to the Income Support Regulations[^key-1358b905ea7b1ffc14fc08ff1611d398]
+## 20. Amendment of Schedule 4 to the Income Support Regulations[^c-1358b905ea7b1ffc14fc08ff1611d398]
 
 (1) Schedule 4 to the Income Support Regulations (applicable amounts of persons in residential care and nursing homes) shall be amended in accordance with the following provisions of this regulation.
 
@@ -282,7 +282,7 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 (3) In paragraph 11(2)[^f00028] for the words from “immediately” to “in force” there shall be substituted the words “in Schedule 3C”.[^f00029]
 
-## 21. Amendment of Schedule 7 to the Income Support Regulations[^key-d9fc0a7d73e3ada85c13004fc164cb31]
+## 21. Amendment of Schedule 7 to the Income Support Regulations[^c-d9fc0a7d73e3ada85c13004fc164cb31]
 
 (1) Schedule 7 to the Income Support Regulations (applicable amounts in special cases) shall be amended in accordance with the following provisions of this regulation.
 
@@ -299,7 +299,7 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 .
 
-## 22. Amendment of Schedule 8 to the Income Support Regulations[^key-7c74418516c6d2ed6210ff6443d2d353]
+## 22. Amendment of Schedule 8 to the Income Support Regulations[^c-7c74418516c6d2ed6210ff6443d2d353]
 
 (1) Schedule 8 to the Income Support Regulations (sums to be disregarded in the calculation of earnings) shall be amended in accordance with the following provisions of this regulation.
 
@@ -324,7 +324,7 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 .
 
-## 23. Amendment of Schedule 9 to the Income Support Regulations[^key-d77446b22fcd5456e14442be9d6f245b]
+## 23. Amendment of Schedule 9 to the Income Support Regulations[^c-d77446b22fcd5456e14442be9d6f245b]
 
 (1) Schedule 9 to the Income Support Regulations (sums to be disregarded in the calculation of income other than earnings) shall be amended in accordance with the following provisions of this regulation.
 
@@ -368,11 +368,11 @@ In regulation 61 of the Income Support Regulations (interpretation)[^f00019] in 
 
 .
 
-## 24. Amendment of Schedule 10 to the Income Support Regulations[^key-81c11a4b26734a4002b89a54fd9efe9f]
+## 24. Amendment of Schedule 10 to the Income Support Regulations[^c-81c11a4b26734a4002b89a54fd9efe9f]
 
 In paragraph 30 of Schedule 10 to the Income Support Regulations (capital to be disregarded)[^f00041] for the words “Any payment not exceeding £200” there shall be substituted the words “£200 of any payment, or, if the payment is less than £200, the whole of any payment”.
 
-## 25. Amendment of regulation 2 of the Family Credit Regulations[^key-df4ecc9825ff08eb6054c4f783530302]
+## 25. Amendment of regulation 2 of the Family Credit Regulations[^c-df4ecc9825ff08eb6054c4f783530302]
 
 In regulation 2(1) of the Family Credit Regulations (interpretation)—
 
@@ -387,7 +387,7 @@ In regulation 2(1) of the Family Credit Regulations (interpretation)—
 
   .
 
-## 26. Amendment of regulation 4 of the Family Credit Regulations[^key-b0becbe96f689eaad4b1ec79ccd1c259]
+## 26. Amendment of regulation 4 of the Family Credit Regulations[^c-b0becbe96f689eaad4b1ec79ccd1c259]
 
 In regulation 4 of the Family Credit Regulations (remunerative work)[^f00044] for paragraph (6) there shall be substituted the following paragraph—
 
@@ -400,7 +400,7 @@ In regulation 4 of the Family Credit Regulations (remunerative work)[^f00044] fo
 
 .
 
-## 27. Amendment of regulation 9 of the Family Credit Regulations[^key-bab7b438d748c8cc6f398a3eb007db4d]
+## 27. Amendment of regulation 9 of the Family Credit Regulations[^c-bab7b438d748c8cc6f398a3eb007db4d]
 
 In regulation 9 of the Family Credit Regulations (circumstances in which a person is to be treated as being no longer a member of the same household)[^f00045] for paragraph (1) there shall be substituted the following paragraph—
 
@@ -408,7 +408,7 @@ In regulation 9 of the Family Credit Regulations (circumstances in which a perso
 
 .
 
-## 28. Amendment of regulation 16 of the Family Credit Regulations[^key-9e4cfcf560000965053b63a4426d5888]
+## 28. Amendment of regulation 16 of the Family Credit Regulations[^c-9e4cfcf560000965053b63a4426d5888]
 
 (1) Regulation 16 of the Family Credit Regulations (normal weekly income other than earnings)[^f00046] shall be amended in accordance with the following provisions of this regulation.
 
@@ -432,7 +432,7 @@ In regulation 9 of the Family Credit Regulations (circumstances in which a perso
 
 .
 
-## 29. Amendment of regulation 22 of the Family Credit Regulations[^key-ed0250cbab877019d9cf40c76735658a]
+## 29. Amendment of regulation 22 of the Family Credit Regulations[^c-ed0250cbab877019d9cf40c76735658a]
 
 (1) Regulation 22 of the Family Credit Regulations (calculation of net profit of self-employed earners)[^f00050] shall be amended in accordance with the following provisions of this regulation.
 
@@ -444,11 +444,11 @@ In regulation 9 of the Family Credit Regulations (circumstances in which a perso
 
 .
 
-## 30. Amendment of regulation 24 of the Family Credit Regulations[^key-12b0aa14edc85955ebb7d535747d9fbc]
+## 30. Amendment of regulation 24 of the Family Credit Regulations[^c-12b0aa14edc85955ebb7d535747d9fbc]
 
 In regulation 24(1) of the Family Credit Regulations (calculation of income other than earnings)[^f00051] for the words from “regulation 25” to the end of the paragraph there shall be substituted the words “regulations 25 and 27 (capital treated as income and modifications in respect of children and young persons).”.
 
-## 31. Amendment of regulation 27 of the Family Credit Regulations[^key-f388fdc5e093ac7f6a100e190b61137a]
+## 31. Amendment of regulation 27 of the Family Credit Regulations[^c-f388fdc5e093ac7f6a100e190b61137a]
 
 (1) Regulation 27 of the Family Credit Regulations (modifications in respect of children and young persons)[^f00052] shall be amended in accordance with the following provisions of this regulation.
 
@@ -458,19 +458,19 @@ In regulation 24(1) of the Family Credit Regulations (calculation of income othe
 
 (4) In paragraph (3) for the words “except where otherwise provided” there shall be substituted the words “except as provided in paragraph (1)”.
 
-## 32. Amendment of regulation 37 of the Family Credit Regulations[^key-7532b4acb7c410ebf698793e059259ca]
+## 32. Amendment of regulation 37 of the Family Credit Regulations[^c-7532b4acb7c410ebf698793e059259ca]
 
 In regulation 37 of the Family Credit Regulations (interpretation)[^f00053] in the definition of “a course of advanced education” for the word “Technician” in each place where it occurs there shall be substituted the word “Technology”.
 
-## 33. Amendment of regulation 46 of the Family Credit Regulations[^key-9fb1cd7a29789a4b34fa992c24a52ada]
+## 33. Amendment of regulation 46 of the Family Credit Regulations[^c-9fb1cd7a29789a4b34fa992c24a52ada]
 
 In regulation 46(4) of the Family Credit Regulations (determination of appropriate maximum family credit) for the words “except where otherwise provided” there shall be substituted the words “except as provided in regulation 27(1) (modifications in respect of children and young persons)”.
 
-## 34. Amendment of Schedule 2 to the Family Credit Regulations[^key-631b50a892033f61e81ed826a54ae7ee]
+## 34. Amendment of Schedule 2 to the Family Credit Regulations[^c-631b50a892033f61e81ed826a54ae7ee]
 
 In paragraph 14(a) of Schedule 2 to the Family Credit Regulations (sums to be disregarded in the calculation of income other than earnings)[^f00054] after the words “such a pension” there shall be inserted the words “, except in so far as such a pension or payment falls to be disregarded under paragraphs 6 or 7”.
 
-## 35. Amendment of Schedule 3 to the Family Credit Regulations[^key-dc24da713271582d0324313a580a697b]
+## 35. Amendment of Schedule 3 to the Family Credit Regulations[^c-dc24da713271582d0324313a580a697b]
 
 (1) Schedule 3 to the Family Credit Regulations (capital to be disregarded) shall be amended in accordance with the following provisions of this regulation.
 
@@ -482,7 +482,7 @@ In paragraph 14(a) of Schedule 2 to the Family Credit Regulations (sums to be di
 
 (3) In paragraph 32[^f00056] for the words “Any payment not exceeding £200” there shall be substituted the words “£200 of any payment, or, if the payment is less than £200, the whole of any payment”.
 
-## 36. Amendment of regulation 2 of the Disability Working Allowance Regulations[^key-65c87ffcb0560a4cc1fe03b6ffcc0451]
+## 36. Amendment of regulation 2 of the Disability Working Allowance Regulations[^c-65c87ffcb0560a4cc1fe03b6ffcc0451]
 
 In regulation 2(1) of the Disability Working Allowance Regulations (interpretation)—
 
@@ -497,7 +497,7 @@ In regulation 2(1) of the Disability Working Allowance Regulations (interpretati
 
   .
 
-## 37. Amendment of regulation 6 of the Disability Working Allowance Regulations[^key-1e98fb258422e85b79145643f8b7b673]
+## 37. Amendment of regulation 6 of the Disability Working Allowance Regulations[^c-1e98fb258422e85b79145643f8b7b673]
 
 In regulation 6 of the Disability Working Allowance Regulations (remunerative work)[^f00059] for paragraph (6) there shall be substituted the following paragraph—
 
@@ -510,7 +510,7 @@ In regulation 6 of the Disability Working Allowance Regulations (remunerative wo
 
 .
 
-## 38. Amendment of regulation 11 of the Disability Working Allowance Regulations[^key-946f23f7c57505238dffd4ee2130edea]
+## 38. Amendment of regulation 11 of the Disability Working Allowance Regulations[^c-946f23f7c57505238dffd4ee2130edea]
 
 In regulation 11 of the Disability Working Allowance Regulations (circumstances in which a person is to be treated as being no longer a member of the same household) for paragraph (1) there shall be substituted the following paragraph—
 
@@ -518,7 +518,7 @@ In regulation 11 of the Disability Working Allowance Regulations (circumstances 
 
 .
 
-## 39. Amendment of regulation 18 of the Disability Working Allowance Regulations[^key-8cdbc1ab556736be3919eeb7917e770d]
+## 39. Amendment of regulation 18 of the Disability Working Allowance Regulations[^c-8cdbc1ab556736be3919eeb7917e770d]
 
 (1) Regulation 18 of the Disability Working Allowance Regulations (normal weekly income other than earnings)[^f00060] shall be amended in accordance with the following provisions of this regulation.
 
@@ -542,7 +542,7 @@ In regulation 11 of the Disability Working Allowance Regulations (circumstances 
 
 .
 
-## 40. Amendment of regulation 25 of the Disability Working Allowance Regulations[^key-1f1e697dc912f05b9e869cee1542a579]
+## 40. Amendment of regulation 25 of the Disability Working Allowance Regulations[^c-1f1e697dc912f05b9e869cee1542a579]
 
 (1) Regulation 25 of the Disability Working Allowance Regulations (calculation of net profit of self-employed earners)[^f00064] shall be amended in accordance with the following provisions of this regulation.
 
@@ -554,11 +554,11 @@ In regulation 11 of the Disability Working Allowance Regulations (circumstances 
 
 .
 
-## 41. Amendment of regulation 27 of the Disability Working Allowance Regulations[^key-2985e8f6d2dcf1632396309ca9163749]
+## 41. Amendment of regulation 27 of the Disability Working Allowance Regulations[^c-2985e8f6d2dcf1632396309ca9163749]
 
 In regulation 27(1) of the Disability Working Allowance Regulations (calculation of income other than earnings) for the words from “regulation 28” to the end of the paragraph there shall be substituted the words “regulations 28 and 30 (capital treated as income and modifications in respect of children and young persons).”.
 
-## 42. Amendment of regulation 30 of the Disability Working Allowance Regulations[^key-5ae4a4000a9868ea78faed287fd4fb97]
+## 42. Amendment of regulation 30 of the Disability Working Allowance Regulations[^c-5ae4a4000a9868ea78faed287fd4fb97]
 
 (1) Regulation 30 of the Disability Working Allowance Regulations (modifications in respect of children and young persons)[^f00065] shall be amended in accordance with the following provisions of this regulation.
 
@@ -568,19 +568,19 @@ In regulation 27(1) of the Disability Working Allowance Regulations (calculation
 
 (4) In paragraph (3) for the words “except where otherwise provided” there shall be substituted the words “except as provided in paragraph (1)”.
 
-## 43. Amendment of regulation 41 of the Disability Working Allowance Regulations[^key-7d4727ad20230c38bfcd61b0ac593df4]
+## 43. Amendment of regulation 41 of the Disability Working Allowance Regulations[^c-7d4727ad20230c38bfcd61b0ac593df4]
 
 In regulation 41 of the Disability Working Allowance Regulations (interpretation)[^f00066] in the definition of “a course of advanced education” for the word “Technician” in each place where it occurs there shall be substituted the word “Technology”.
 
-## 44. Amendment of regulation 51 of the Disability Working Allowance Regulations[^key-395d8376d46e1905e604025ac9436e20]
+## 44. Amendment of regulation 51 of the Disability Working Allowance Regulations[^c-395d8376d46e1905e604025ac9436e20]
 
 In regulation 51(4) of the Disability Working Allowance Regulations (determination of appropriate maximum disability working allowance) for the words “except where otherwise provided” there shall be substituted the words “except as provided in regulation 30(1) (modifications in respect of children and young persons)”.
 
-## 45. Amendment of Schedule 3 to the Disability Working Allowance Regulations[^key-c441218d04a2f00093c716d42447389c]
+## 45. Amendment of Schedule 3 to the Disability Working Allowance Regulations[^c-c441218d04a2f00093c716d42447389c]
 
 In paragraph 14(a) of Schedule 3 to the Disability Working Allowance Regulations (sums to be disregarded in the calculation of income other than earnings) after the words “such a pension” there shall be inserted the words “, except in so far as such a pension or payment falls to be disregarded under paragraphs 6 or 7”.
 
-## 46. Amendment of Schedule 4 to the Disability Working Allowance Regulations[^key-42ee68b442dfc53964e22e9c22d21934]
+## 46. Amendment of Schedule 4 to the Disability Working Allowance Regulations[^c-42ee68b442dfc53964e22e9c22d21934]
 
 (1) Schedule 4 to the Disability Working Allowance Regulations (capital to be disregarded) shall be amended in accordance with the following provisions of this regulation.
 
@@ -640,7 +640,7 @@ These Regulations do not impose a charge on businesses.
 
 [^f00002]: Footnote: See the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), section 173 (1)(b).
 
-[^key-f4d8b709965dbbab32abec91f4d53ddc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-f4d8b709965dbbab32abec91f4d53ddc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00003]: Footnote: S.I. [1991/2887](https://www.legislation.gov.uk/uksi/1991/2887).
 
@@ -648,7 +648,7 @@ These Regulations do not impose a charge on businesses.
 
 [^f00005]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-5ecdf24b2b7e20db96f3169b24320478]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/2119/regulation/2) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-5ecdf24b2b7e20db96f3169b24320478]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/2119/regulation/2) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00006]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); regulation 6 was amended by S.I. [1988/522](https://www.legislation.gov.uk/uksi/1988/522), [1989/1686](https://www.legislation.gov.uk/uksi/1989/1686), [1990/725](https://www.legislation.gov.uk/uksi/1990/725), [1990/2208](https://www.legislation.gov.uk/uksi/1990/2208), [1991/2284](https://www.legislation.gov.uk/uksi/1991/2284) and [1991/2741](https://www.legislation.gov.uk/uksi/1991/2741).
 
@@ -656,25 +656,25 @@ These Regulations do not impose a charge on businesses.
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-0f01b6f22ea33b1635fedfde5ee84029]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/2119/regulation/3) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-0f01b6f22ea33b1635fedfde5ee84029]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/2119/regulation/3) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00009]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1445](https://www.legislation.gov.uk/uksi/1988/1445) and [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1323](https://www.legislation.gov.uk/uksi/1989/1323), [1990/547](https://www.legislation.gov.uk/uksi/1990/547) and [1991/1559](https://www.legislation.gov.uk/uksi/1991/1559).
 
-[^key-20440d07b094cc7611f75a44a73d2085]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/2119/regulation/4) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-20440d07b094cc7611f75a44a73d2085]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/2119/regulation/4) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00010]: Footnote: Relevant amending instruments are S.I. [1988/1228](https://www.legislation.gov.uk/uksi/1988/1228), [1990/547](https://www.legislation.gov.uk/uksi/1990/547) and [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155).
 
-[^key-b9d9ea2c0d79b22a3cdc75dd4037a9d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/2119/regulation/5) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-b9d9ea2c0d79b22a3cdc75dd4037a9d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/2119/regulation/5) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-e822e677160c8892643cc2e2b4b5f1f3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/2119/regulation/6) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-e822e677160c8892643cc2e2b4b5f1f3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/2119/regulation/6) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00011]: Footnote: Relevant amending instrument is S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663).
 
-[^key-5b5ac09f6a8d69307745b28ecf1e6027]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/2119/regulation/7) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-5b5ac09f6a8d69307745b28ecf1e6027]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/2119/regulation/7) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-8b83eafa7d5a6517abc26c44c6e925bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/2119/regulation/8) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-8b83eafa7d5a6517abc26c44c6e925bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/2119/regulation/8) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-c0cd339ce910feb7f5c24ef9a0a0c6a8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/2119/regulation/9) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-c0cd339ce910feb7f5c24ef9a0a0c6a8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/2119/regulation/9) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00012]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445), [1988/2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [1991/1033](https://www.legislation.gov.uk/uksi/1991/1033) and [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147).
 
@@ -686,31 +686,31 @@ These Regulations do not impose a charge on businesses.
 
 [^f00016]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1445](https://www.legislation.gov.uk/uksi/1988/1445) and [2022](https://www.legislation.gov.uk/uksi/1988/2022) and [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147)
 
-[^key-20b0b11c0b9cc2cb3ed71f8acaa2c0a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/2119/regulation/10) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-20b0b11c0b9cc2cb3ed71f8acaa2c0a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/2119/regulation/10) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00017]: Footnote: Paragraph (3A) was inserted by S.I. [1991/1656](https://www.legislation.gov.uk/uksi/1991/1656); paragraphs (3B) and (3C) were inserted by S.I. [1993/518](https://www.legislation.gov.uk/uksi/1993/518)
 
-[^key-3ee4009d46271092ee8fc5c8384a581b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/2119/regulation/11) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-3ee4009d46271092ee8fc5c8384a581b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/2119/regulation/11) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-6a85d7e9ac81a259e114411918f9192b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/2119/regulation/12) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-6a85d7e9ac81a259e114411918f9192b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/2119/regulation/12) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-809b57acdcfb611e01f3f58a818be527]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/2119/regulation/13) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-809b57acdcfb611e01f3f58a818be527]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/2119/regulation/13) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-2cb15675af65b7129a2bbb7ffa0a026e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/2119/regulation/14) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-2cb15675af65b7129a2bbb7ffa0a026e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/2119/regulation/14) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00018]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155)
 
-[^key-5f9305c7e83efe41fd9d737921e34db1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/2119/regulation/15) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-5f9305c7e83efe41fd9d737921e34db1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/2119/regulation/15) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
-[^key-97b5a6ce145c0f8dbd368ba8bd1ce275]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/2119/regulation/16) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-97b5a6ce145c0f8dbd368ba8bd1ce275]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/2119/regulation/16) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00019]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155)
 
-[^key-2bddc2077df8c385be2c7e5e30e27ab0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/2119/regulation/17) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-2bddc2077df8c385be2c7e5e30e27ab0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/2119/regulation/17) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00020]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663) and [1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534) and [1034](https://www.legislation.gov.uk/uksi/1989/1034) and [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147)
 
-[^key-ee076fbf7e60cc28899d02f1cd7344c7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/2119/regulation/18) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-ee076fbf7e60cc28899d02f1cd7344c7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/2119/regulation/18) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00021]: Footnote: Paragraph 2A was inserted by S.I. [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147) and amended by S.I. [1993/518](https://www.legislation.gov.uk/uksi/1993/518) and [1219](https://www.legislation.gov.uk/uksi/1993/1219).
 
@@ -718,9 +718,9 @@ These Regulations do not impose a charge on businesses.
 
 [^f00023]: Footnote: Relevant amending instrument is S.I. [1992/2742](https://www.legislation.gov.uk/uksi/1992/2742).
 
-[^key-78fd53f39743c74e7ee0c0b7a201bdab]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/2119/regulation/19) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+[^c-78fd53f39743c74e7ee0c0b7a201bdab]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/2119/regulation/19) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://editorial.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
 
-[^key-1358b905ea7b1ffc14fc08ff1611d398]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/2119/regulation/20) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-1358b905ea7b1ffc14fc08ff1611d398]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/2119/regulation/20) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00027]: Footnote: Relevant amending instrument is S.I. [1991/2742](https://www.legislation.gov.uk/uksi/1991/2742)
 
@@ -728,7 +728,7 @@ These Regulations do not impose a charge on businesses.
 
 [^f00029]: Footnote: Schedule 3C was inserted by S.I. [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147)
 
-[^key-d9fc0a7d73e3ada85c13004fc164cb31]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/2119/regulation/21) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-d9fc0a7d73e3ada85c13004fc164cb31]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/2119/regulation/21) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00030]: Footnote: Paragraph 10A was inserted by S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663) and amended by S.I. [1988/2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/534](https://www.legislation.gov.uk/uksi/1989/534), [1990/547](https://www.legislation.gov.uk/uksi/1990/547), [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147) and [1993/349](https://www.legislation.gov.uk/uksi/1993/349)
 
@@ -740,13 +740,13 @@ These Regulations do not impose a charge on businesses.
 
 [^f00034]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663) and [1445](https://www.legislation.gov.uk/uksi/1988/1445), [1989/534](https://www.legislation.gov.uk/uksi/1989/534) and [1992/3147](https://www.legislation.gov.uk/uksi/1992/3147).
 
-[^key-7c74418516c6d2ed6210ff6443d2d353]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1993/2119/regulation/22) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-7c74418516c6d2ed6210ff6443d2d353]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1993/2119/regulation/22) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00035]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663) and [1445](https://www.legislation.gov.uk/uksi/1988/1445) and [1989/1323](https://www.legislation.gov.uk/uksi/1989/1323)
 
 [^f00036]: Footnote: Relevant amending instruments are S.I. [1988/633](https://www.legislation.gov.uk/uksi/1988/633) and [1445](https://www.legislation.gov.uk/uksi/1988/1445)
 
-[^key-d77446b22fcd5456e14442be9d6f245b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/2119/regulation/23) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-d77446b22fcd5456e14442be9d6f245b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/2119/regulation/23) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00037]: Footnote: Paragraph 9A was inserted by S.I. [1991/2742](https://www.legislation.gov.uk/uksi/1991/2742)
 
@@ -756,25 +756,25 @@ These Regulations do not impose a charge on businesses.
 
 [^f00040]: Footnote: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29); section 21 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 23, paragraphs 1 and 2 and Schedule 30; the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), Schedule 4, paragraph 44 and Schedule 5; the Housing (Homeless Persons) Act [1977 (c. 48)](https://www.legislation.gov.uk/ukpga/1977/48), Schedule; the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), Schedule 15, paragraph 5; the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 1, Part I, paragraph 5; and the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), section 42(1), Schedule 9, paragraph 5(1) and (2) and Schedule 10. Section 22 was amended by the Social Work (Scotland) Act [1968 (c. 49)](https://www.legislation.gov.uk/ukpga/1968/49), section 87(4) and Schedule 9, Part I; the Supplementary Benefits Act [1976 (c. 71)](https://www.legislation.gov.uk/ukpga/1976/71), Schedule 7, paragraph 3; the Housing (Homeless Persons) Act [1977 (c. 48)](https://www.legislation.gov.uk/ukpga/1977/48), Schedule; the Social Security Act [1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30), section 20, Schedule 4, paragraph 2(1) and Schedule 5, Part II; the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), section 20(1)(a), and the National Health Service and Community Care Act 1990, section 44, Schedule 10. Section 24 was amended by the National Assistance (Amendment) Act [1959 (c. 30)](https://www.legislation.gov.uk/ukpga/1959/30), section 1(1); the National Health Service (Scotland) Act [1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), Schedule 6, paragraph 82; the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 23, paragraph 2; the National Health Service Reorganisation Act [1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), Schedule 4, paragraph 45; the Housing (Homeless Persons) Act [1977 (c. 48)](https://www.legislation.gov.uk/ukpga/1977/48), Schedule, and the National Health Service and Community Care Act 1990, Schedule 9, paragraph 5(4). Section 26 was amended by the Health Services and Public Health Act [1968 (c. 46)](https://www.legislation.gov.uk/ukpga/1968/46), section 44 and Schedule 4; the Social Work (Scotland) Act [1968 (c. 49)](https://www.legislation.gov.uk/ukpga/1968/49), Schedule 9, Part I and applied by section 87(3); the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 23, paragraph 2; the Housing (Homeless Persons) Act [1977 (c. 48)](https://www.legislation.gov.uk/ukpga/1977/48), Schedule; the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), section 20(1)(b), the National Health Service and Community Care Act 1990, section 42(3) to (5), Schedule 9, paragraph 5(5), and Schedule 10, and section 1 of the Community Care (Residential Accommodation) Act [1992 (c. 49)](https://www.legislation.gov.uk/ukpga/1992/49)
 
-[^key-81c11a4b26734a4002b89a54fd9efe9f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1993/2119/regulation/24) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
+[^c-81c11a4b26734a4002b89a54fd9efe9f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1993/2119/regulation/24) in force at 4.10.1993, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/a)
 
 [^f00041]: Footnote: Paragraph 30 was added by S.I. [1988/1445](https://www.legislation.gov.uk/uksi/1988/1445); relevant amending instrument is S.I. [1991/387](https://www.legislation.gov.uk/uksi/1991/387)
 
-[^key-df4ecc9825ff08eb6054c4f783530302]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/2119/regulation/25) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-df4ecc9825ff08eb6054c4f783530302]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/2119/regulation/25) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00042]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 33 was amended by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), section 86, Schedule 10, Part IV, paragraph 75, Schedule 11; the Employment Act [1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), sections 11(1) and (2), 20, Schedule 2; the Nurses, Midwives and Health Visitors Act [1979 (c. 36)](https://www.legislation.gov.uk/ukpga/1979/36), section 23(4), Schedule 7, paragraph 31. Sections 34 to 44 were repealed by the Social Security Act 1986, sections 49(3), 86(2), Schedule 4, Part III, Schedule 11. Section 45 has been amended prospectively by the Social Security [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), section 23, Schedule 5, Part II, paragraph 15; Schedule 5, paragraph 15 has been repealed prospectively by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 51, Schedule 10. Section 47 was amended by the Employment Act [1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), section 11(3). Part III of the 1978 Act has been amended prospectively by the Trade Union Reform and Employment Rights Act 1993, sections 23 and 25, Schedules 2 and 3
 
 [^f00043]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-b0becbe96f689eaad4b1ec79ccd1c259]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/2119/regulation/26) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-b0becbe96f689eaad4b1ec79ccd1c259]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/2119/regulation/26) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00044]: Footnote: Relevant amending instrument is S.I. [1992/573](https://www.legislation.gov.uk/uksi/1992/573)
 
-[^key-bab7b438d748c8cc6f398a3eb007db4d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/2119/regulation/27) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-bab7b438d748c8cc6f398a3eb007db4d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/2119/regulation/27) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00045]: Footnote: Relevant amending instrument is S.I. [1988/660](https://www.legislation.gov.uk/uksi/1988/660)
 
-[^key-9e4cfcf560000965053b63a4426d5888]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1993/2119/regulation/28) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-9e4cfcf560000965053b63a4426d5888]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1993/2119/regulation/28) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00046]: Footnote: Relevant amending instruments are S.I. [1988/1970](https://www.legislation.gov.uk/uksi/1988/1970) and [1993/315](https://www.legislation.gov.uk/uksi/1993/315)
 
@@ -784,47 +784,47 @@ These Regulations do not impose a charge on businesses.
 
 [^f00049]: Footnote: Paragraph (4) was added by S.I. [1993/315](https://www.legislation.gov.uk/uksi/1993/315)
 
-[^key-ed0250cbab877019d9cf40c76735658a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1993/2119/regulation/29) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-ed0250cbab877019d9cf40c76735658a]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1993/2119/regulation/29) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00050]: Footnote: Relevant amending instrument is S.I. [1988/1970](https://www.legislation.gov.uk/uksi/1988/1970)
 
-[^key-12b0aa14edc85955ebb7d535747d9fbc]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/2119/regulation/30) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-12b0aa14edc85955ebb7d535747d9fbc]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/2119/regulation/30) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00051]: Footnote: Relevant amending instruments are S.I. [1990/574](https://www.legislation.gov.uk/uksi/1990/574) and [1549](https://www.legislation.gov.uk/uksi/1990/1549) and [1991/1520](https://www.legislation.gov.uk/uksi/1991/1520)
 
-[^key-f388fdc5e093ac7f6a100e190b61137a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1993/2119/regulation/31) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-f388fdc5e093ac7f6a100e190b61137a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1993/2119/regulation/31) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00052]: Footnote: Relevant amending instrument is S.I. [1993/315](https://www.legislation.gov.uk/uksi/1993/315)
 
-[^key-7532b4acb7c410ebf698793e059259ca]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/2119/regulation/32) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-7532b4acb7c410ebf698793e059259ca]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/2119/regulation/32) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00053]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155)
 
-[^key-9fb1cd7a29789a4b34fa992c24a52ada]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1993/2119/regulation/33) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-9fb1cd7a29789a4b34fa992c24a52ada]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1993/2119/regulation/33) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
-[^key-631b50a892033f61e81ed826a54ae7ee]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/2119/regulation/34) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-631b50a892033f61e81ed826a54ae7ee]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/2119/regulation/34) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00054]: Footnote: Relevant amending instruments are S.I. [1990/574](https://www.legislation.gov.uk/uksi/1990/574) and [1991/1520](https://www.legislation.gov.uk/uksi/1991/1520)
 
-[^key-dc24da713271582d0324313a580a697b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/2119/regulation/35) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-dc24da713271582d0324313a580a697b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/2119/regulation/35) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00055]: Footnote: Relevant amending instrument is S.I. [1990/1549](https://www.legislation.gov.uk/uksi/1990/1549)
 
 [^f00056]: Footnote: Paragraph 32 was added by S.I. [1988/1438](https://www.legislation.gov.uk/uksi/1988/1438); relevant amending instruments are S.I. [1988/1970](https://www.legislation.gov.uk/uksi/1988/1970) and [1991/387](https://www.legislation.gov.uk/uksi/1991/387)
 
-[^key-65c87ffcb0560a4cc1fe03b6ffcc0451]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1993/2119/regulation/36) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-65c87ffcb0560a4cc1fe03b6ffcc0451]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1993/2119/regulation/36) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00057]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 33 was amended by the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), section 86, Schedule 10, Part IV, paragraph 75, Schedule 11; the Employment Act [1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), sections 11(1) and (2), 20, Schedule 2; the Nurses, Midwives and Health Visitors Act [1979 (c. 36)](https://www.legislation.gov.uk/ukpga/1979/36), section 23(4), Schedule 7, paragraph 31. Sections 34 to 44 were repealed by the Social Security Act 1986, sections 49(3), 86(2), Schedule 4, Part III, Schedule 11. Section 45 has been amended prospectively by the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24), section 23, Schedule 5, Part II, paragraph 15; Schedule 5, paragraph 15 has been repealed prospectively by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 51, Schedule 10. Section 47 was amended by the Employment Act [1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), section 11(3). Part III of the 1978 Act has been amended prospectively by the Trade Union Reform and Employment Rights Act 1993, sections 23 and 25, Schedules 2 and 3
 
 [^f00058]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-1e98fb258422e85b79145643f8b7b673]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/2119/regulation/37) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-1e98fb258422e85b79145643f8b7b673]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/2119/regulation/37) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00059]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155)
 
-[^key-946f23f7c57505238dffd4ee2130edea]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/2119/regulation/38) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-946f23f7c57505238dffd4ee2130edea]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/2119/regulation/38) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
-[^key-8cdbc1ab556736be3919eeb7917e770d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1993/2119/regulation/39) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-8cdbc1ab556736be3919eeb7917e770d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1993/2119/regulation/39) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00060]: Footnote: Relevant amending instrument is S.I. [1993/315](https://www.legislation.gov.uk/uksi/1993/315).
 
@@ -834,22 +834,22 @@ These Regulations do not impose a charge on businesses.
 
 [^f00063]: Footnote: Paragraph (4) was added by S.I. [1993/315](https://www.legislation.gov.uk/uksi/1993/315)
 
-[^key-1f1e697dc912f05b9e869cee1542a579]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1993/2119/regulation/40) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-1f1e697dc912f05b9e869cee1542a579]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1993/2119/regulation/40) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00064]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155)
 
-[^key-2985e8f6d2dcf1632396309ca9163749]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/2119/regulation/41) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-2985e8f6d2dcf1632396309ca9163749]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/2119/regulation/41) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
-[^key-5ae4a4000a9868ea78faed287fd4fb97]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1993/2119/regulation/42) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-5ae4a4000a9868ea78faed287fd4fb97]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1993/2119/regulation/42) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00065]: Footnote: Relevant amending instrument is S.I. [1993/315](https://www.legislation.gov.uk/uksi/1993/315)
 
-[^key-7d4727ad20230c38bfcd61b0ac593df4]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/2119/regulation/43) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-7d4727ad20230c38bfcd61b0ac593df4]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/2119/regulation/43) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
 [^f00066]: Footnote: Relevant amending instrument is S.I. [1992/2155](https://www.legislation.gov.uk/uksi/1992/2155).
 
-[^key-395d8376d46e1905e604025ac9436e20]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/2119/regulation/44) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-395d8376d46e1905e604025ac9436e20]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/2119/regulation/44) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
-[^key-c441218d04a2f00093c716d42447389c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1993/2119/regulation/45) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-c441218d04a2f00093c716d42447389c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1993/2119/regulation/45) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
 
-[^key-42ee68b442dfc53964e22e9c22d21934]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/2119/regulation/46) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)
+[^c-42ee68b442dfc53964e22e9c22d21934]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/2119/regulation/46) in force at 5.10.1993, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b)

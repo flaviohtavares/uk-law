@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 539. Exclusions from jurisdiction[^key-457149908a37b99560d91d5a44cff4d1]
+## 539. Exclusions from jurisdiction[^c-457149908a37b99560d91d5a44cff4d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulation
 
 ## Annotations
 
-[^key-457149908a37b99560d91d5a44cff4d1]: Commencement: Art. 539 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-457149908a37b99560d91d5a44cff4d1]: Commencement: Art. 539 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

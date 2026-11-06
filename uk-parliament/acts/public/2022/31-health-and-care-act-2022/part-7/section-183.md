@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Regulations[^key-657fa261e2d1eb72173d014a35eba3ff]
+## 183. Regulations[^c-657fa261e2d1eb72173d014a35eba3ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-657fa261e2d1eb72173d014a35eba3ff]: Commencement: S. 183 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)
+[^c-657fa261e2d1eb72173d014a35eba3ff]: Commencement: S. 183 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)

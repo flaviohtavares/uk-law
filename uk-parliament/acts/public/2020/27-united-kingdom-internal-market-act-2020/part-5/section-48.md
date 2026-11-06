@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Guidance on Article 10 of the Northern Ireland Protocol[^key-c5a873fcd3befa94f2185af5a30b02bc]
+## 48. Guidance on Article 10 of the Northern Ireland Protocol[^c-c5a873fcd3befa94f2185af5a30b02bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5a873fcd3befa94f2185af5a30b02bc]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2020/27/section/48) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)
+[^c-c5a873fcd3befa94f2185af5a30b02bc]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2020/27/section/48) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)

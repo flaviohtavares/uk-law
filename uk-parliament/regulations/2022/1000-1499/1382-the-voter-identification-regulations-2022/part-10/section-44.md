@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of Schedule 2 (modifications of Acts and statutory instruments)[^key-966752d86972592ce0a0edc820eddc83]
+## 44. Amendment of Schedule 2 (modifications of Acts and statutory instruments)[^c-966752d86972592ce0a0edc820eddc83]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-966752d86972592ce0a0edc820eddc83]: Commencement: Reg. 44 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-966752d86972592ce0a0edc820eddc83]: Commencement: Reg. 44 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00064]: Footnote: Section 39 was amended by section 19 of, and by paragraph 8 of Schedule 4 to, the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50); by section 18(1) of, and by Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51); by Part 1 of Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40); by paragraph 68(11) of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); by paragraphs 1 and 6 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and by section 2(7) of the Local Government and Elections (Wales) Act 2021 (asc 1).
 

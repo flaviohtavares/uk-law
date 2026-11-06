@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Arrangements for the protection of children[^key-413b8064cd27836b74a6908540314542]
+## 13. Arrangements for the protection of children[^c-413b8064cd27836b74a6908540314542]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413b8064cd27836b74a6908540314542]: Commencement: Reg. 13 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-413b8064cd27836b74a6908540314542]: Commencement: Reg. 13 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

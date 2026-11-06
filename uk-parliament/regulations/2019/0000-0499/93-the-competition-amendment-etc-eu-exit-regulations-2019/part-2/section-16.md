@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-1c55dc420c2ed3088c3194ef1b4edd36]
+## 16.[^c-1c55dc420c2ed3088c3194ef1b4edd36]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c55dc420c2ed3088c3194ef1b4edd36]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1c55dc420c2ed3088c3194ef1b4edd36]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882791]: Marginal citation: Section 47A was initially inserted by section 18(1) of the Enterprise Act 2002, and subsequently substituted by paragraphs 1 and 4 of Schedule 8 to the [Consumer Rights Act 2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15).

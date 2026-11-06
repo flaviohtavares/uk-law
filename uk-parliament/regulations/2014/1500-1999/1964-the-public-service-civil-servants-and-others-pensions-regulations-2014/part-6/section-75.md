@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Provisional award of ill-health pension[^key-b6d87abd0f86f9be5c8de7a34da6ab49]
+## 75. Provisional award of ill-health pension[^c-b6d87abd0f86f9be5c8de7a34da6ab49]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6d87abd0f86f9be5c8de7a34da6ab49]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/1964/regulation/75) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-b6d87abd0f86f9be5c8de7a34da6ab49]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/1964/regulation/75) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

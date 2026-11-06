@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19F. Interpretation of sections 19B to 19E[^key-16cdbf2abe41e22af042e6954abb778e]
+## 19F. Interpretation of sections 19B to 19E[^c-16cdbf2abe41e22af042e6954abb778e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16cdbf2abe41e22af042e6954abb778e]: Textual amendment: Ss. 19B-19F inserted (18.9.2013 for specified purposes, 14.10.2013 for E.W.N.I. in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) (with [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8)); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)
+[^c-16cdbf2abe41e22af042e6954abb778e]: Textual amendment: Ss. 19B-19F inserted (18.9.2013 for specified purposes, 14.10.2013 for E.W.N.I. in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/3) (with [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/8)); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Final hearing held in public[^key-b0afd2d121fa671b2848d982e75a9ee6]
+## 57. Final hearing held in public[^c-b0afd2d121fa671b2848d982e75a9ee6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to rules 49 (privacy and restrictions on disclosure) and 93 (national se
 
 ## Annotations
 
-[^key-b0afd2d121fa671b2848d982e75a9ee6]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2024/1155/rule/57) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-b0afd2d121fa671b2848d982e75a9ee6]: Commencement: [Rule 57](https://www.legislation.gov.uk/uksi/2024/1155/rule/57) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

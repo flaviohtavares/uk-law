@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Publication of representations[^key-54cca0472bc9d21c42690c69dd6afed1]
+## 36. Publication of representations[^c-54cca0472bc9d21c42690c69dd6afed1]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54cca0472bc9d21c42690c69dd6afed1]: Commencement: Reg. 36 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-54cca0472bc9d21c42690c69dd6afed1]: Commencement: Reg. 36 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

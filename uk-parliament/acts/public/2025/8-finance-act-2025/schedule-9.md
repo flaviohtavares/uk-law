@@ -87,7 +87,7 @@ Section 40
 (7) In Schedule 1 (UK resident individuals not domiciled in UK)—
 
 - (a) in the heading, for “not domiciled in the UK” substitute “to whom the remittance basis applied”;
-- (b) in paragraph 1(1) for “applies” , in the second place it occurs,[^key-e186ed2d4fbf334b149d0a8898182cb6] substitute “applied”;
+- (b) in paragraph 1(1) for “applies” , in the second place it occurs,[^c-e186ed2d4fbf334b149d0a8898182cb6] substitute “applied”;
 - (c) omit paragraphs 2, 3 and 4.
 
 #### 3. Amendments of [ITEPA 2003](https://www.legislation.gov.uk/ukpga/2003/1) connected with end of remittance basis
@@ -518,4 +518,4 @@ In the [Income Tax (Digital Requirements) Regulations 2021](https://www.legislat
 
 ## Annotations
 
-[^key-e186ed2d4fbf334b149d0a8898182cb6]: Textual amendment: Words in [Sch. 9 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/7/b) inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/5)
+[^c-e186ed2d4fbf334b149d0a8898182cb6]: Textual amendment: Words in [Sch. 9 para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/7/b) inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/5)

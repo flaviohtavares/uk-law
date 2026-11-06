@@ -33,7 +33,7 @@ summary: ''
 - (a) any redundancy payment awarded by the tribunal under Part XII in respect of the same dismissal, or
 - (b) any payment made by the employer to the employee on the ground that the dismissal was by reason of redundancy (whether in pursuance of Part XII or otherwise).
 
-(5)[^key-080f6533f9d70968b264fdb580d21455] Where a dismissal is regarded as unfair by virtue of Article 135F (blacklists), the amount of the basic award shall be reduced or further reduced by the amount of any basic award under Article 154(1) in respect of the same dismissal under Article 136(1) (dismissal on grounds related to trade union membership or activities) or Article 137(1) and (7) (selection for redundancy on grounds related to trade union membership or activities).
+(5)[^c-080f6533f9d70968b264fdb580d21455] Where a dismissal is regarded as unfair by virtue of Article 135F (blacklists), the amount of the basic award shall be reduced or further reduced by the amount of any basic award under Article 154(1) in respect of the same dismissal under Article 136(1) (dismissal on grounds related to trade union membership or activities) or Article 137(1) and (7) (selection for redundancy on grounds related to trade union membership or activities).
 
 ## Annotations
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c17626631]: Textual amendment: [1998 NI 8](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-080f6533f9d70968b264fdb580d21455]: Textual amendment: [Art. 156(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/156/5) added (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(7)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/7)
+[^c-080f6533f9d70968b264fdb580d21455]: Textual amendment: [Art. 156(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/156/5) added (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(7)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/7)

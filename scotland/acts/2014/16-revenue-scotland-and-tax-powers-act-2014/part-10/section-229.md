@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 229. Reviews and appeals against notices or requirements[^key-dffe8cfa865371cb64baf8e255845308]
+## 229. Reviews and appeals against notices or requirements[^c-dffe8cfa865371cb64baf8e255845308]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dffe8cfa865371cb64baf8e255845308]: Commencement: [S. 229](https://www.legislation.gov.uk/asp/2014/16/section/229) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-dffe8cfa865371cb64baf8e255845308]: Commencement: [S. 229](https://www.legislation.gov.uk/asp/2014/16/section/229) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

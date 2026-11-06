@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Prohibition on different rules for overseas residents etc.[^key-2ffff148c6bcbaff67faa9fc9dff396e]
+## 66A. Prohibition on different rules for overseas residents etc.[^c-2ffff148c6bcbaff67faa9fc9dff396e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,10 +44,10 @@ which would be different according to whether that person works wholly in the Un
 (6) This section—
 
 - (a) shall be without prejudice to any enactment under which any amount is to be or may be deducted, or treated as deducted, from amounts payable by way of benefits under the scheme or treated as so payable; and
-- (b) shall not apply in relation to so much of any provision of a scheme as is required for securing compliance with the conditions of any registration[^key-743c10444e5465c05df42265a38268e3], exemption or relief given or available under the Tax Acts.
+- (b) shall not apply in relation to so much of any provision of a scheme as is required for securing compliance with the conditions of any registration[^c-743c10444e5465c05df42265a38268e3], exemption or relief given or available under the Tax Acts.
 
 ## Annotations
 
-[^key-2ffff148c6bcbaff67faa9fc9dff396e]: Textual amendment: S. 66A and cross-heading inserted (23.7.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 55](https://www.legislation.gov.uk/ukpga/2000/19/section/55), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/2295](https://www.legislation.gov.uk/uksi/2001/2295), art. 2(a)
+[^c-2ffff148c6bcbaff67faa9fc9dff396e]: Textual amendment: S. 66A and cross-heading inserted (23.7.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 55](https://www.legislation.gov.uk/ukpga/2000/19/section/55), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/2295](https://www.legislation.gov.uk/uksi/2001/2295), art. 2(a)
 
-[^key-743c10444e5465c05df42265a38268e3]: Textual amendment: Word in [s. 66A(6)(b)](https://www.legislation.gov.uk/ukpga/1995/26/section/66A/6/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2006/745/article/10/3)
+[^c-743c10444e5465c05df42265a38268e3]: Textual amendment: Word in [s. 66A(6)(b)](https://www.legislation.gov.uk/ukpga/1995/26/section/66A/6/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2006/745/article/10/3)

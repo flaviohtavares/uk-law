@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Taxation[^key-03126a103a24493ee6a3e210dd344823]
+## 47. Taxation[^c-03126a103a24493ee6a3e210dd344823]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 (which makes taxation provision in relation to nuclear transfer schem
 
 ## Annotations
 
-[^key-03126a103a24493ee6a3e210dd344823]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/20/section/47) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-03126a103a24493ee6a3e210dd344823]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/20/section/47) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

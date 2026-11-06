@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50Q (Extent: W). Award (Extent: W)[^key-7a4c147b05866759cf98214b14af929b]
+## 50Q (Extent: W). Award (Extent: W)[^c-7a4c147b05866759cf98214b14af929b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a4c147b05866759cf98214b14af929b]: Textual amendment: S. 50Q inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 66](https://www.legislation.gov.uk/mwa/2011/5/section/66), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-7a4c147b05866759cf98214b14af929b]: Textual amendment: S. 50Q inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 66](https://www.legislation.gov.uk/mwa/2011/5/section/66), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers conferred by sections 38(6), 4
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-d0e1c4a4099377348a1823260ecc7b3f]
+### 1. Citation, commencement and application[^c-d0e1c4a4099377348a1823260ecc7b3f]
 
 (1) These Regulations may be cited as the Access to the Countryside (Appeals against Works Notices) (England) Regulations 2011 and come into force on 1st October 2011.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation[^key-b690a6d553ca3a66d859e610f38e12cf]
+### 2. Interpretation[^c-b690a6d553ca3a66d859e610f38e12cf]
 
 In these Regulations—
 
@@ -93,7 +93,7 @@ In these Regulations—
 - “transferred appeal” means an appeal or any matter involved in an appeal, in respect of which the Secretary of State has exercised the power conferred by section 8 of the 2000 Act to appoint a person to determine the appeal or the matter (as the case may be) on behalf of the Secretary of State; and
 - “written representations” includes any supporting documents.
 
-### 3. Use of electronic communications[^key-1d44665da542c52e8ec91e6be7d536c9]
+### 3. Use of electronic communications[^c-1d44665da542c52e8ec91e6be7d536c9]
 
 (1) Any requirement imposed under these Regulations as to the giving or sending by one person to another of a notice or other document may be met by means of an electronic communication if—
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 ## PART 2 — Initial Stages of Appeal
 
-### 4. Manner and period for appeal[^key-0017c567873895d36fefb4f3da209c7c]
+### 4. Manner and period for appeal[^c-0017c567873895d36fefb4f3da209c7c]
 
 (1) A section 38 appeal or a Schedule 20 appeal is to be made by giving notice of appeal to the Secretary of State.
 
@@ -129,8 +129,8 @@ In these Regulations—
 
 (4) Where the appropriate authority gives notice under—
 
-- (a) section 36(3) of the 2000 Act [^key-5d2916d6e24515e91944f51055f615b5]...
-- (b)[^key-5d2916d6e24515e91944f51055f615b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 36(3) of the 2000 Act [^c-5d2916d6e24515e91944f51055f615b5]...
+- (b)[^c-5d2916d6e24515e91944f51055f615b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 to the owner or occupier of any land, the appropriate authority must take such steps as are reasonable to give a copy of that notice to every other owner or occupier of the land.
 
@@ -142,13 +142,13 @@ to the owner or occupier of any land, the appropriate authority must take such s
 - (b) every other owner or occupier of the appeal land whose address is known to the Secretary of State; and
 - (c) the local access forum.
 
-### 5. Notification of receipt of documents[^key-7d56090da78b2ccd9c79e9da63abd0b9]
+### 5. Notification of receipt of documents[^c-7d56090da78b2ccd9c79e9da63abd0b9]
 
 (1) The Secretary of State must, as soon as practicable after having received all the information required in order to be able to entertain the appeal, notify the appropriate authority of this in writing.
 
 (2) The notice to the appropriate authority under paragraph (1) must be accompanied by a questionnaire in respect of the information required by the Secretary of State to determine the appeal.
 
-### 6. Preliminary information to be supplied by the appropriate authority[^key-d626e038c0237fe26e52285e18b10c8a]
+### 6. Preliminary information to be supplied by the appropriate authority[^c-d626e038c0237fe26e52285e18b10c8a]
 
 The appropriate authority must ensure that, within two weeks of its receipt of the notification in accordance with regulation 5, it duly completes the questionnaire mentioned in regulation 5(2) and sends it to the Secretary of State, and must further ensure that the appellant receives —
 
@@ -157,7 +157,7 @@ The appropriate authority must ensure that, within two weeks of its receipt of t
 - (c) the address of the local access forum; and
 - (d) details of the time during which, and the place at which, the appropriate authority intends to make documents available for the purpose of regulation 41 (inspection and copying of documents).
 
-### 7. Notification of start of appeal etc[^key-4c7373b3fdff2ee08b0d55675fcd78bc]
+### 7. Notification of start of appeal etc[^c-4c7373b3fdff2ee08b0d55675fcd78bc]
 
 (1) The Secretary of State must, as soon as practicable after receiving the information to be supplied in accordance with regulation 6, give notice in writing to the appellant, the appropriate authority, any person who has made representations as mentioned in regulation 6(b) and the local access forum stating—
 
@@ -187,14 +187,14 @@ The appropriate authority must ensure that, within two weeks of its receipt of t
 
 (2) The Secretary of State must ensure that a copy of the notice given under paragraph (1) is made available for inspection on a relevant website until the appeal is determined.
 
-### 8. Supply of further information by the appropriate authority[^key-c2d2d568d43ea3bb61ae4d7ef2439317]
+### 8. Supply of further information by the appropriate authority[^c-c2d2d568d43ea3bb61ae4d7ef2439317]
 
 The appropriate authority must ensure that, within two weeks of the start date, the Secretary of State and the appellant have received copies of—
 
 - (a) any representations made to them as mentioned in regulations 6(b) and 7(1); and
 - (b) any correspondence between the appellant and the appropriate authority relating to the issue of the notice under sections 36(3) or 37(1) of the 2000 Act or paragraph 3(3) of Schedule 20, as the case may be.
 
-### 9. Submission of statements of case etc.[^key-b4603a5a0dd9595a8875885c194017f4]
+### 9. Submission of statements of case etc.[^c-b4603a5a0dd9595a8875885c194017f4]
 
 (1) The appropriate authority, the appellant and any other person who wishes to make representations to the Secretary of State must each ensure that, within six weeks of the start date, the Secretary of State receives the relevant documents.
 
@@ -204,7 +204,7 @@ The appropriate authority must ensure that, within two weeks of the start date, 
 - (b) in the case of the appellant, two copies of the appellant’s statement of case; and
 - (c) in the case of any other person, three copies of the representations in question.
 
-### 10. Copies of documents[^key-97cb97980a4a7d9fbffcd3f11c9b76f8]
+### 10. Copies of documents[^c-97cb97980a4a7d9fbffcd3f11c9b76f8]
 
 The Secretary of State must, as soon as practicable after receiving copies of the documents referred to in regulation 9—
 
@@ -212,7 +212,7 @@ The Secretary of State must, as soon as practicable after receiving copies of th
 - (b) send to the appropriate authority a copy of the statement of case submitted by the appellant; and
 - (c) send to the appellant and the appropriate authority a copy of any representations submitted by any other person mentioned in that regulation.
 
-### 11. Comments on statements of case[^key-388317ea65bafebc0323c9772067c810]
+### 11. Comments on statements of case[^c-388317ea65bafebc0323c9772067c810]
 
 (1) Where the appellant or the appropriate authority wish to make any comments on the other’s statement of case or any representations made by any interested person, they must ensure that the Secretary of State receives those comments within nine weeks of the start date.
 
@@ -221,7 +221,7 @@ The Secretary of State must, as soon as practicable after receiving copies of th
 - (a) to the appropriate authority, a copy of the comments received from the appellant under paragraph (1); and
 - (b) to the appellant, a copy of the comments received from the appropriate authority under paragraph (1).
 
-### 12. Provision of further information[^key-32cc62897d11b2b0c73acd756e093320]
+### 12. Provision of further information[^c-32cc62897d11b2b0c73acd756e093320]
 
 (1) The Secretary of State or the inspector may require such further information as either may specify from—
 
@@ -240,11 +240,11 @@ The Secretary of State must, as soon as practicable after receiving copies of th
 
 ### CHAPTER 1 — Appeals to be determined on the basis of written representations
 
-#### 12A. Scope of Chapter 1[^key-d7bc826a21cd5e7efd3fd83ac2772ee8]
+#### 12A. Scope of Chapter 1[^c-d7bc826a21cd5e7efd3fd83ac2772ee8]
 
 This Chapter applies where the Secretary of State has given a notice under regulation 7(1)(b) that the appeal will be determined on the basis of written representations.
 
-#### 13. Site inspections[^key-4632c8230224e5743675f0e421151408]
+#### 13. Site inspections[^c-4632c8230224e5743675f0e421151408]
 
 (1) Where it appears to the Secretary of State necessary or expedient to do so, the Secretary of State may arrange for an inspection of the appeal land to be made by the inspector.
 
@@ -254,13 +254,13 @@ This Chapter applies where the Secretary of State has given a notice under regul
 
 (4) The inspector is not bound to defer an inspection if the appellant or the appropriate authority, or their representative, is not present at the appointed time.
 
-#### 14. Decision on appeal[^key-2fe1c9f086304c8537116c074f64482f]
+#### 14. Decision on appeal[^c-2fe1c9f086304c8537116c074f64482f]
 
 The Secretary of State or, as the case may be, the inspector may proceed to a decision on the appeal taking into account only such statements of case, representations and comments as have been provided within the time limits specified by or under these Regulations.
 
-#### 15. Notification of a decision[^key-bf7f07d54a8d9667e39a2fff7a0e7aad]
+#### 15. Notification of a decision[^c-bf7f07d54a8d9667e39a2fff7a0e7aad]
 
-(1) The Secretary of State or, as the case may be, the inspector, must as soon as practicable notify the decision on the appeal[^key-cdc6a3f8be8c9deb169d077d328bb89f] and the reasons for reaching it, in writing to—
+(1) The Secretary of State or, as the case may be, the inspector, must as soon as practicable notify the decision on the appeal[^c-cdc6a3f8be8c9deb169d077d328bb89f] and the reasons for reaching it, in writing to—
 
 - (a) the appellant;
 - (b) the appropriate authority;
@@ -272,7 +272,7 @@ The Secretary of State or, as the case may be, the inspector may proceed to a de
 
 ### CHAPTER 2 — Appeals to be determined by way of a hearing
 
-#### 16. Date and notification of hearing[^key-73bb775e3da83563090c0b46c896496b]
+#### 16. Date and notification of hearing[^c-73bb775e3da83563090c0b46c896496b]
 
 (1) The date fixed by the Secretary of State for the holding of a hearing must be not later than eighteen weeks from the start date, unless the holding of the hearing on that date is not practicable.
 
@@ -304,7 +304,7 @@ The Secretary of State or, as the case may be, the inspector may proceed to a de
 
 (10) A notice under paragraph (7) may relate to more than one hearing.
 
-#### 17. Appearances at hearing[^key-c1def16820aebe59dfd78a7a11c7980c]
+#### 17. Appearances at hearing[^c-c1def16820aebe59dfd78a7a11c7980c]
 
 (1) The persons entitled to appear at the hearing are—
 
@@ -315,7 +315,7 @@ but the inspector may permit any other person to appear at a hearing, and such p
 
 (2) Any person entitled or permitted to appear may appear in person or be represented by any other person.
 
-#### 18. Procedure at hearing[^key-61b4fd5b5bcb7273b51704255ceb3a52]
+#### 18. Procedure at hearing[^c-61b4fd5b5bcb7273b51704255ceb3a52]
 
 (1) Except as otherwise provided in these Regulations, the inspector is to determine the procedure at a hearing.
 
@@ -342,7 +342,7 @@ but the inspector may permit any other person to appear at a hearing, and such p
 
 (7) Where a hearing is adjourned, no further notice is required, provided that the date, time and place of the adjourned hearing are announced at the hearing before the adjournment.
 
-#### 19. Evidence at hearing[^key-565f1d4e236fc3b399836ace0d18f656]
+#### 19. Evidence at hearing[^c-565f1d4e236fc3b399836ace0d18f656]
 
 (1) The appellant and the appropriate authority are entitled to give, or to call another person to give, oral evidence, and any other person may give, or call another person to give, oral evidence if so permitted at the discretion of the inspector.
 
@@ -360,7 +360,7 @@ but the inspector may permit any other person to appear at a hearing, and such p
 
 (8) The inspector may take into account any written representations, or evidence or any other document received by the inspector in connection with a hearing before the hearing opens or during the hearing provided it is disclosed at the hearing.
 
-#### 20. Site inspections[^key-8bcb44e3790e606443a928dede63deff]
+#### 20. Site inspections[^c-8bcb44e3790e606443a928dede63deff]
 
 (1) Where it appears to an inspector that one or more matters would be more satisfactorily resolved by adjourning the hearing to the site of the appeal land, the inspector may adjourn the hearing to that site and conclude the hearing there provided the inspector is satisfied that—
 
@@ -374,7 +374,7 @@ but the inspector may permit any other person to appear at a hearing, and such p
 
 (4) The inspector is not bound to defer an inspection if the appellant or the appropriate authority or their representatives are not present at the appointed time.
 
-#### 21. Procedure after hearing—appeals determined by the Secretary of State[^key-e672b284e0b066dc118dadd9fb7aab93]
+#### 21. Procedure after hearing—appeals determined by the Secretary of State[^c-e672b284e0b066dc118dadd9fb7aab93]
 
 (1) This regulation applies where a hearing has been held for the purposes of any appeal determined by the Secretary of State.
 
@@ -403,7 +403,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 - (a) the Secretary of State must send to the appellant, the appropriate authority and any other person who appeared at the hearing a written statement of the matters with respect to which further evidence is invited; and
 - (b) paragraphs (2) to (9) of regulation 16 apply as if the references to a hearing were references to a re-opened hearing.
 
-#### 22. Procedure after hearing—transferred appeals[^key-6aa13bfb4eded416dacbc4090def45e7]
+#### 22. Procedure after hearing—transferred appeals[^c-6aa13bfb4eded416dacbc4090def45e7]
 
 (1) This regulation applies where a hearing has been held for the purposes of a transferred appeal.
 
@@ -425,7 +425,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 - (a) the inspector must send to the appellant, the appropriate authority and any other person who appeared at the hearing a written statement of the matters with respect to which further evidence is invited; and
 - (b) paragraphs (2) to (9) of regulation 16 apply as if the references to a hearing were references to a re-opened hearing.
 
-#### 23. Notification of decision—appeals determined by the Secretary of State[^key-c22ad3fcca2ad0e97223897751c796d5]
+#### 23. Notification of decision—appeals determined by the Secretary of State[^c-c22ad3fcca2ad0e97223897751c796d5]
 
 (1) This regulation applies where a hearing has been held for the purposes of any appeal determined by the Secretary of State.
 
@@ -447,7 +447,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 (7) The Secretary of State must ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website for a period of three months*.*
 
-#### 24. Notification of decision—transferred appeals[^key-f64960cc4efce27be5e8c3ea0c3f8722]
+#### 24. Notification of decision—transferred appeals[^c-f64960cc4efce27be5e8c3ea0c3f8722]
 
 (1) This regulation applies where a hearing has been held for the purposes of a transferred appeal.
 
@@ -467,7 +467,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 ### CHAPTER 3 — Appeals to be determined by way of an inquiry
 
-#### 25. Procedure where the Secretary of State or inspector causes a pre-inquiry meeting to be held[^key-e5b34dbe7b2a2a4c14e04d5044b220ed]
+#### 25. Procedure where the Secretary of State or inspector causes a pre-inquiry meeting to be held[^c-e5b34dbe7b2a2a4c14e04d5044b220ed]
 
 (1) The Secretary of State or the inspector must hold a pre-inquiry meeting if it appears to be necessary, and any such meeting (or, where there is more than one, the first such meeting) must be held within twelve weeks of the start date.
 
@@ -493,13 +493,13 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 (8) The Secretary of State must, as soon as practicable after receipt of any such information, send a copy of it to the other parties entitled to appear at the inquiry.
 
-#### 26. Inquiry timetable[^key-a8aa0ce938ab57b2317e5e0a38453fa1]
+#### 26. Inquiry timetable[^c-a8aa0ce938ab57b2317e5e0a38453fa1]
 
 (1) Where a pre-inquiry meeting is held pursuant to regulation 25, the inspector must arrange a timetable for the proceedings of the inquiry.
 
 (2) The inspector must specify in the timetable arranged pursuant to this regulation a date by which any proof of evidence mentioned in regulation 28 is to be sent to the Secretary of State.
 
-#### 27. Date and notification of inquiry[^key-2c84d9bad522b67029644601e790838a]
+#### 27. Date and notification of inquiry[^c-2c84d9bad522b67029644601e790838a]
 
 (1) The date fixed by the Secretary of State for the holding of an inquiry must be—
 
@@ -534,7 +534,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 (10) A notice under paragraph (7) may relate to more than one inquiry.
 
-#### 28. Proofs of evidence[^key-6778e3529a957bc57a1ee472ae69f5d9]
+#### 28. Proofs of evidence[^c-6778e3529a957bc57a1ee472ae69f5d9]
 
 (1) Where the appellant or the appropriate authority propose to give, or to call another person to give, evidence at the inquiry by reading a proof of evidence, the appellant or the appropriate authority, as the case may be, must send two copies of the proof of evidence, together with any written summary accompanying it, to the Secretary of State.
 
@@ -551,13 +551,13 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 (6) Any person required by this regulation to send copies of a proof of evidence to the Secretary of State must send with them the same number of copies of the whole (or the relevant part) of any document referred to in the proof of evidence.
 
-#### 29. Statement of common ground[^key-3d82610374c8cb0e45f06456f26092eb]
+#### 29. Statement of common ground[^c-3d82610374c8cb0e45f06456f26092eb]
 
 (1) The appellant and the appropriate authority must together prepare a statement of common ground.
 
 (2) The appropriate authority must ensure that the Secretary of State receives the statement of common ground not less than four weeks before the date fixed for the holding of the inquiry.
 
-#### 30. Appearances at inquiry[^key-06072bb4cd91ada375e9026cec798e76]
+#### 30. Appearances at inquiry[^c-06072bb4cd91ada375e9026cec798e76]
 
 (1) The persons entitled to appear at an inquiry are—
 
@@ -568,7 +568,7 @@ but the inspector may permit any other person to appear at an inquiry, and such 
 
 (2) Any person entitled or permitted to appear may appear in person or be represented by any other person.
 
-#### 31. Procedure at inquiry[^key-35d3fb9f1fd5420873f34abfa4673429]
+#### 31. Procedure at inquiry[^c-35d3fb9f1fd5420873f34abfa4673429]
 
 (1) Except as otherwise provided in these Regulations, the inspector is to determine the procedure at an inquiry.
 
@@ -597,7 +597,7 @@ but the inspector may permit any other person to appear at an inquiry, and such 
 
 (8) Where an inquiry is adjourned, no further notice is required, provided that the date, time and place of the adjourned inquiry are announced at the inquiry before the adjournment.
 
-#### 32. Evidence at inquiry[^key-875c7c222b8c955820f2e12ef5144960]
+#### 32. Evidence at inquiry[^c-875c7c222b8c955820f2e12ef5144960]
 
 (1) A person appearing at an inquiry is entitled to give, or call any other person to give, oral evidence.
 
@@ -624,7 +624,7 @@ which the inspector considers is irrelevant or repetitious.
 
 (8) The inspector may take into account any written representations, or evidence or any other document received by the inspector in connection with an inquiry before the inquiry opens or during the inquiry, provided it is disclosed to the inquiry.
 
-#### 33. Site inspections[^key-d785cc425bb83a3883005d929dd1b93c]
+#### 33. Site inspections[^c-d785cc425bb83a3883005d929dd1b93c]
 
 (1) During an inquiry or after its close, the inspector may, where it appears necessary or expedient to do so, arrange to make an inspection in relation to an appeal.
 
@@ -634,7 +634,7 @@ which the inspector considers is irrelevant or repetitious.
 
 (4) The inspector is not bound to defer an inspection if the appellant or the appropriate authority or their representatives are not present at the appointed time.
 
-#### 34. Procedure after inquiry—appeals determined by the Secretary of State[^key-1e6648daf8d05a6d5b8005ff51619723]
+#### 34. Procedure after inquiry—appeals determined by the Secretary of State[^c-1e6648daf8d05a6d5b8005ff51619723]
 
 (1) This regulation applies where an inquiry has been held for the purposes of any appeal determined by the Secretary of State.
 
@@ -663,7 +663,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 - (a) the Secretary of State must send to the appellant, the appropriate authority and any other person who appeared at the inquiry a written statement of the matters with respect to which further evidence is invited; and
 - (b) paragraphs (2) to (9) of regulation 27 apply as if the references to an inquiry were references to a re-opened inquiry.
 
-#### 35. Procedure after inquiry—transferred appeals[^key-717a572f802789c7d2f604ca6323344b]
+#### 35. Procedure after inquiry—transferred appeals[^c-717a572f802789c7d2f604ca6323344b]
 
 (1) This regulation applies where an inquiry has been held for the purposes of a transferred appeal.
 
@@ -685,7 +685,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 - (a) the inspector must send to the appellant, the appropriate authority and any other person who appeared at the inquiry a written statement of the matters with respect to which further evidence is invited; and
 - (b) paragraphs (2) to (9) of regulation 27 apply as if the references to an inquiry were references to a re-opened inquiry.
 
-#### 36. Notification of decision—appeals determined by the Secretary of State[^key-0089812a21373febba14d932d8474e88]
+#### 36. Notification of decision—appeals determined by the Secretary of State[^c-0089812a21373febba14d932d8474e88]
 
 (1) This regulation applies where an inquiry has been held for the purposes of any appeal to be determined by the Secretary of State.
 
@@ -707,7 +707,7 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 (7) The Secretary of State must ensure that, as soon as practicable after any notification has been given under paragraph (2), a copy of the notification is made available for inspection on a relevant website for a period of three months.
 
-#### 37. Notification of decision—transferred appeals[^key-3986d81f8bfd086c68bb58229e2a50b9]
+#### 37. Notification of decision—transferred appeals[^c-3986d81f8bfd086c68bb58229e2a50b9]
 
 (1) This regulation applies where an inquiry has been held for the purposes of a transferred appeal.
 
@@ -729,15 +729,15 @@ and is, for that reason, disposed to disagree with a recommendation made by the 
 
 ### General
 
-#### 38. Consecutive and concurrent hearings and inquiries[^key-2a40646ac77f6a817814c7eb5f7fb2f8]
+#### 38. Consecutive and concurrent hearings and inquiries[^c-2a40646ac77f6a817814c7eb5f7fb2f8]
 
 The Secretary of State may arrange for two or more appeals to be heard consecutively or concurrently where they relate to the same area, or areas, of appeal land which the Secretary of State considers to be in such proximity as to make it expedient for the hearing or inquiry to be held consecutively or concurrently.
 
-#### 39. Notification of appointment of assessor[^key-baf037932df6cfbe02ab5221ebfbdfa6]
+#### 39. Notification of appointment of assessor[^c-baf037932df6cfbe02ab5221ebfbdfa6]
 
 Where the Secretary of State has appointed an assessor in respect of a hearing or inquiry, the inspector must, at the start of the hearing or inquiry, announce the appointment and the name of the assessor.
 
-#### 40. Further time and additional copies[^key-e4f9b882f6e301f3dbd83b1af487ffc5]
+#### 40. Further time and additional copies[^c-e4f9b882f6e301f3dbd83b1af487ffc5]
 
 (1) The Secretary of State may, at any time and in any particular case, give directions setting later time limits than those prescribed in these Regulations for the taking of any step or the doing of anything which is required or enabled to be taken or done by virtue of these Regulations, and references in these Regulations to a period within which any step or thing is required or enabled to be taken or done are to be construed accordingly.
 
@@ -756,7 +756,7 @@ Where the Secretary of State has appointed an assessor in respect of a hearing o
 
 (5) Any person who is required to supply copies under paragraph (2) must ensure that the copies are received within the period specified.
 
-#### 41. Inspection and copying of documents[^key-c9ad8d2ec1c9b2c322f274cd7cb27726]
+#### 41. Inspection and copying of documents[^c-c9ad8d2ec1c9b2c322f274cd7cb27726]
 
 The appropriate authority must afford any person who so requests an opportunity, at such time and place as the appropriate authority may reasonably determine, to inspect and, where practicable, take copies of—
 
@@ -768,7 +768,7 @@ The appropriate authority must afford any person who so requests an opportunity,
 - (f) any proof of evidence (together with any written summary) sent by or to the appropriate authority pursuant to regulation 28; or
 - (g) any statement of common ground prepared by the appellant and the appropriate authority pursuant to regulation 29.
 
-#### 42. Changes of procedure[^key-b2fa9eaec6da27fda0d6d5cf337a461a]
+#### 42. Changes of procedure[^c-b2fa9eaec6da27fda0d6d5cf337a461a]
 
 (1) If, at any time before the Secretary of State or the inspector notifies a decision on the appeal under regulation 15, the Secretary of State or inspector wishes the appeal to be determined no longer by way of written representations but instead by way of a hearing or inquiry, the Secretary of State must arrange for the appeal to proceed by way of a hearing or inquiry.
 
@@ -782,11 +782,11 @@ The appropriate authority must afford any person who so requests an opportunity,
 - (b) any step taken or thing done under these Regulations in relation to the former appeal procedure which could have been taken under any corresponding provision of these Regulations relating to the new appeal procedure is to be treated as if taken or done under that corresponding provision; and
 - (c) the Secretary of State may give such consequential directions as to the procedure to be applied in relation to the appeal as may be considered necessary.
 
-#### 43. Recovery of jurisdiction[^key-621a4a1e134f32317edc29e3c78f87a2]
+#### 43. Recovery of jurisdiction[^c-621a4a1e134f32317edc29e3c78f87a2]
 
 Where the appointment of an appointed person is revoked under paragraph 2(c) of Schedule 3 to the 2000 Act and no new appointment is made at the time of such revocation, the appeal is to proceed as an appeal which falls to be determined by the Secretary of State instead of as a transferred appeal, and any step taken or thing done in relation to an appeal which falls to be determined by the Secretary of State is to be treated as if it had been taken or done in relation to such an appeal.
 
-#### 44. Procedure following quashing of a decision[^key-7b9d6cb180f5a30d819c7bb4bc1f5dd4]
+#### 44. Procedure following quashing of a decision[^c-7b9d6cb180f5a30d819c7bb4bc1f5dd4]
 
 (1) Where the decision of the Secretary of State or an inspector in respect of an appeal is quashed in proceedings before any court, the Secretary of State—
 
@@ -798,7 +798,7 @@ Where the appointment of an appointed person is revoked under paragraph 2(c) of 
 
 (3) Those persons making representations or asking for the hearing or inquiry to be re-opened pursuant to an invitation under paragraph (1)(b) must ensure that such representations or requests are received by the Secretary of State within three weeks of the date of the written statement sent under paragraph (1)(a).
 
-#### 45. Revocation[^key-104b52063bc7e8e6b9206893306639d0]
+#### 45. Revocation[^c-104b52063bc7e8e6b9206893306639d0]
 
 The Access to the Countryside (Means of Access, Appeals) (England) Regulations 2004[^f00007] are revoked.
 
@@ -851,9 +851,9 @@ A separate Impact Assessment has not been prepared in respect of these Regulatio
 
 [^f00002]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-d0e1c4a4099377348a1823260ecc7b3f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-d0e1c4a4099377348a1823260ecc7b3f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-b690a6d553ca3a66d859e610f38e12cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2019/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-b690a6d553ca3a66d859e610f38e12cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2019/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c.37](https://www.legislation.gov.uk/ukpga/2000/37)
 
@@ -863,96 +863,96 @@ A separate Impact Assessment has not been prepared in respect of these Regulatio
 
 [^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); an amendment to that definition was made by paragraph 158 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1d44665da542c52e8ec91e6be7d536c9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2019/regulation/3) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-1d44665da542c52e8ec91e6be7d536c9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2019/regulation/3) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-0017c567873895d36fefb4f3da209c7c]: Commencement: Reg. 4 in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-0017c567873895d36fefb4f3da209c7c]: Commencement: Reg. 4 in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-5d2916d6e24515e91944f51055f615b5]: Textual amendment: Reg. 4(4)(b) and word omitted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/2/a)
+[^c-5d2916d6e24515e91944f51055f615b5]: Textual amendment: Reg. 4(4)(b) and word omitted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/2/a)
 
-[^key-7d56090da78b2ccd9c79e9da63abd0b9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2019/regulation/5) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-7d56090da78b2ccd9c79e9da63abd0b9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2019/regulation/5) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-d626e038c0237fe26e52285e18b10c8a]: Textual amendment: Reg. 6 substituted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/2/b)
+[^c-d626e038c0237fe26e52285e18b10c8a]: Textual amendment: Reg. 6 substituted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/2/b)
 
-[^key-4c7373b3fdff2ee08b0d55675fcd78bc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2019/regulation/7) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-4c7373b3fdff2ee08b0d55675fcd78bc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2019/regulation/7) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-c2d2d568d43ea3bb61ae4d7ef2439317]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2019/regulation/8) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-c2d2d568d43ea3bb61ae4d7ef2439317]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2019/regulation/8) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-b4603a5a0dd9595a8875885c194017f4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2019/regulation/9) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-b4603a5a0dd9595a8875885c194017f4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2019/regulation/9) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-97cb97980a4a7d9fbffcd3f11c9b76f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/2019/regulation/10) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-97cb97980a4a7d9fbffcd3f11c9b76f8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/2019/regulation/10) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-388317ea65bafebc0323c9772067c810]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2019/regulation/11) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-388317ea65bafebc0323c9772067c810]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2019/regulation/11) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-32cc62897d11b2b0c73acd756e093320]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/2019/regulation/12) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-32cc62897d11b2b0c73acd756e093320]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/2019/regulation/12) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-d7bc826a21cd5e7efd3fd83ac2772ee8]: Textual amendment: Reg. 12A inserted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/3/a)
+[^c-d7bc826a21cd5e7efd3fd83ac2772ee8]: Textual amendment: Reg. 12A inserted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/3/a)
 
-[^key-4632c8230224e5743675f0e421151408]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/2019/regulation/13) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-4632c8230224e5743675f0e421151408]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/2019/regulation/13) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-2fe1c9f086304c8537116c074f64482f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/2019/regulation/14) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-2fe1c9f086304c8537116c074f64482f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/2019/regulation/14) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-bf7f07d54a8d9667e39a2fff7a0e7aad]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/2019/regulation/15) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-bf7f07d54a8d9667e39a2fff7a0e7aad]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/2019/regulation/15) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-cdc6a3f8be8c9deb169d077d328bb89f]: Textual amendment: Words in reg. 15(1) substituted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/3/b)
+[^c-cdc6a3f8be8c9deb169d077d328bb89f]: Textual amendment: Words in reg. 15(1) substituted (15.2.2012) by [The Access to the Countryside (Appeals against Works Notices) (England) (Amendment) Regulations 2012 (S.I. 2012/67)](https://www.legislation.gov.uk/uksi/2012/67), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/67/regulation/2/3/b)
 
-[^key-73bb775e3da83563090c0b46c896496b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/2019/regulation/16) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-73bb775e3da83563090c0b46c896496b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/2019/regulation/16) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-c1def16820aebe59dfd78a7a11c7980c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/2019/regulation/17) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-c1def16820aebe59dfd78a7a11c7980c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/2019/regulation/17) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-61b4fd5b5bcb7273b51704255ceb3a52]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/2019/regulation/18) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-61b4fd5b5bcb7273b51704255ceb3a52]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/2019/regulation/18) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-565f1d4e236fc3b399836ace0d18f656]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/2019/regulation/19) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-565f1d4e236fc3b399836ace0d18f656]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/2019/regulation/19) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-8bcb44e3790e606443a928dede63deff]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/2019/regulation/20) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-8bcb44e3790e606443a928dede63deff]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/2019/regulation/20) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-e672b284e0b066dc118dadd9fb7aab93]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/2019/regulation/21) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-e672b284e0b066dc118dadd9fb7aab93]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/2019/regulation/21) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-6aa13bfb4eded416dacbc4090def45e7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/2019/regulation/22) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-6aa13bfb4eded416dacbc4090def45e7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/2019/regulation/22) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-c22ad3fcca2ad0e97223897751c796d5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/2019/regulation/23) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-c22ad3fcca2ad0e97223897751c796d5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/2019/regulation/23) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-f64960cc4efce27be5e8c3ea0c3f8722]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2011/2019/regulation/24) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-f64960cc4efce27be5e8c3ea0c3f8722]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2011/2019/regulation/24) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-e5b34dbe7b2a2a4c14e04d5044b220ed]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2011/2019/regulation/25) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-e5b34dbe7b2a2a4c14e04d5044b220ed]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2011/2019/regulation/25) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-a8aa0ce938ab57b2317e5e0a38453fa1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2011/2019/regulation/26) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-a8aa0ce938ab57b2317e5e0a38453fa1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2011/2019/regulation/26) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-2c84d9bad522b67029644601e790838a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/2019/regulation/27) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-2c84d9bad522b67029644601e790838a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/2019/regulation/27) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-6778e3529a957bc57a1ee472ae69f5d9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/2019/regulation/28) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-6778e3529a957bc57a1ee472ae69f5d9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/2019/regulation/28) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-3d82610374c8cb0e45f06456f26092eb]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2011/2019/regulation/29) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-3d82610374c8cb0e45f06456f26092eb]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2011/2019/regulation/29) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-06072bb4cd91ada375e9026cec798e76]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2011/2019/regulation/30) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-06072bb4cd91ada375e9026cec798e76]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2011/2019/regulation/30) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-35d3fb9f1fd5420873f34abfa4673429]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2011/2019/regulation/31) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-35d3fb9f1fd5420873f34abfa4673429]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2011/2019/regulation/31) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-875c7c222b8c955820f2e12ef5144960]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2011/2019/regulation/32) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-875c7c222b8c955820f2e12ef5144960]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2011/2019/regulation/32) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-d785cc425bb83a3883005d929dd1b93c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2011/2019/regulation/33) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-d785cc425bb83a3883005d929dd1b93c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2011/2019/regulation/33) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-1e6648daf8d05a6d5b8005ff51619723]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2011/2019/regulation/34) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-1e6648daf8d05a6d5b8005ff51619723]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2011/2019/regulation/34) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-717a572f802789c7d2f604ca6323344b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2011/2019/regulation/35) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-717a572f802789c7d2f604ca6323344b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2011/2019/regulation/35) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-0089812a21373febba14d932d8474e88]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2011/2019/regulation/36) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-0089812a21373febba14d932d8474e88]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2011/2019/regulation/36) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-3986d81f8bfd086c68bb58229e2a50b9]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2011/2019/regulation/37) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-3986d81f8bfd086c68bb58229e2a50b9]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2011/2019/regulation/37) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-2a40646ac77f6a817814c7eb5f7fb2f8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2011/2019/regulation/38) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-2a40646ac77f6a817814c7eb5f7fb2f8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2011/2019/regulation/38) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-baf037932df6cfbe02ab5221ebfbdfa6]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2011/2019/regulation/39) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-baf037932df6cfbe02ab5221ebfbdfa6]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2011/2019/regulation/39) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-e4f9b882f6e301f3dbd83b1af487ffc5]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2011/2019/regulation/40) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-e4f9b882f6e301f3dbd83b1af487ffc5]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2011/2019/regulation/40) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-c9ad8d2ec1c9b2c322f274cd7cb27726]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2011/2019/regulation/41) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-c9ad8d2ec1c9b2c322f274cd7cb27726]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2011/2019/regulation/41) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-b2fa9eaec6da27fda0d6d5cf337a461a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2011/2019/regulation/42) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-b2fa9eaec6da27fda0d6d5cf337a461a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2011/2019/regulation/42) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-621a4a1e134f32317edc29e3c78f87a2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2011/2019/regulation/43) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-621a4a1e134f32317edc29e3c78f87a2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2011/2019/regulation/43) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-7b9d6cb180f5a30d819c7bb4bc1f5dd4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2011/2019/regulation/44) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-7b9d6cb180f5a30d819c7bb4bc1f5dd4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2011/2019/regulation/44) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
-[^key-104b52063bc7e8e6b9206893306639d0]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2011/2019/regulation/45) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
+[^c-104b52063bc7e8e6b9206893306639d0]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2011/2019/regulation/45) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2019/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2004/3305](https://www.legislation.gov.uk/uksi/2004/3305).

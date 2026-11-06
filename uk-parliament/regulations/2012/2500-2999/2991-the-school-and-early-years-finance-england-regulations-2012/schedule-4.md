@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-82386b4b6987febffed080b0ea34c751]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-82386b4b6987febffed080b0ea34c751]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 19
 
-**1.**[^key-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-82386b4b6987febffed080b0ea34c751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82386b4b6987febffed080b0ea34c751]: Textual amendment: Regulations revoked (1.4.2015) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3352/regulation/2)
+[^c-82386b4b6987febffed080b0ea34c751]: Textual amendment: Regulations revoked (1.4.2015) by [The School and Early Years Finance (England) Regulations 2014 (S.I. 2014/3352)](https://www.legislation.gov.uk/uksi/2014/3352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/3352/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/3352/regulation/2)

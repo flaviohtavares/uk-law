@@ -37,43 +37,43 @@ laying down the rules and procedures related to experts in national accounting a
 
 (2012/20/EU) (revoked)
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b8f5d544cae068378b9c545ea7c7e4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b8f5d544cae068378b9c545ea7c7e4d5]
+## ANNEX[^c-b8f5d544cae068378b9c545ea7c7e4d5]
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]1.
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]1.
 
 **List of experts in national accounting**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]2.
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]2.
 
 **Definition of experts in national accounting**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]3.
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]3.
 
 **Selection of experts**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]4.
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]4.
 
 **Reimbursement of costs to the national authority responsible for EDP reporting**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]5.
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]5.
 
 **Confidentiality**
 
@@ -81,4 +81,4 @@ laying down the rules and procedures related to experts in national accounting a
 
 ## Annotations
 
-[^key-b8f5d544cae068378b9c545ea7c7e4d5]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 199](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/199); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8f5d544cae068378b9c545ea7c7e4d5]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 199](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/199); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

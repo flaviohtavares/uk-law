@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to make CCE prevention order[^key-3df31e2028632ec8d9c9720a37fad8d2][^key-49bbd0f1c64605cbc29e7eb31a2421a5]
+## 50. Power to make CCE prevention order[^c-3df31e2028632ec8d9c9720a37fad8d2][^c-49bbd0f1c64605cbc29e7eb31a2421a5]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3df31e2028632ec8d9c9720a37fad8d2]: Commencement: S. 50 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3df31e2028632ec8d9c9720a37fad8d2]: Commencement: S. 50 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-49bbd0f1c64605cbc29e7eb31a2421a5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2026/20/section/50) in force at 21.9.2026 for specified purposes by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/a)
+[^c-49bbd0f1c64605cbc29e7eb31a2421a5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2026/20/section/50) in force at 21.9.2026 for specified purposes by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Information for implementation of Act.[^key-e357d729feadd56f13338dc26b9a4797]
+## 96. Information for implementation of Act.[^c-e357d729feadd56f13338dc26b9a4797]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e357d729feadd56f13338dc26b9a4797]: Textual amendment: [Ss. 95-97](https://www.legislation.gov.uk/ukpga/1985/51/section/95) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-e357d729feadd56f13338dc26b9a4797]: Textual amendment: [Ss. 95-97](https://www.legislation.gov.uk/ukpga/1985/51/section/95) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

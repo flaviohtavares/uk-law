@@ -22,11 +22,11 @@ summary: ''
 
 (1) For the purposes of section 63 the UN terrorism orders are—
 
-- (a)[^key-8bcee66afe3534d87c2eb08fb719ed7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8bcee66afe3534d87c2eb08fb719ed7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Al-Qa'ida and Taliban (United Nations Measures) Order 2002 (S.I. 2002/111);
-- (c)[^key-cc80afc44cd1e418aab786d40d1a5724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cc80afc44cd1e418aab786d40d1a5724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Al-Qaida and Taliban (United Nations Measures) Order 2006 (S.I. 2006/2952).
-- (e)[^key-b6722534a3f6c75589b922f9f8a744a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b6722534a3f6c75589b922f9f8a744a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Treasury may by order amend subsection (1) by—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8bcee66afe3534d87c2eb08fb719ed7b]: Textual amendment: S. 64(1)(a) omitted (31.8.2010) by virtue of [Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (S.I. 2009/1911)](https://www.legislation.gov.uk/uksi/2009/1911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1911/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/1911/article/2/2)
+[^c-8bcee66afe3534d87c2eb08fb719ed7b]: Textual amendment: S. 64(1)(a) omitted (31.8.2010) by virtue of [Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (S.I. 2009/1911)](https://www.legislation.gov.uk/uksi/2009/1911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1911/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/1911/article/2/2)
 
-[^key-cc80afc44cd1e418aab786d40d1a5724]: Textual amendment: S. 64(1)(c) omitted (31.8.2010) by virtue of [Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (S.I. 2009/1911)](https://www.legislation.gov.uk/uksi/2009/1911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1911/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/1911/article/2/2)
+[^c-cc80afc44cd1e418aab786d40d1a5724]: Textual amendment: S. 64(1)(c) omitted (31.8.2010) by virtue of [Financial Restrictions Proceedings (UN Terrorism Orders) Order 2009 (S.I. 2009/1911)](https://www.legislation.gov.uk/uksi/2009/1911), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1911/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/1911/article/2/2)
 
-[^key-b6722534a3f6c75589b922f9f8a744a2]: Textual amendment: S. 64(1)(e) repealed (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)
+[^c-b6722534a3f6c75589b922f9f8a744a2]: Textual amendment: S. 64(1)(e) repealed (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)

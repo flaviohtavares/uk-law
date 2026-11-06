@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Extension of modifications relating to Sea Fish (Conservation) Act 1967[^key-88462a6d4dd86cb41718e3b8bcde738a]
+## 158. Extension of modifications relating to Sea Fish (Conservation) Act 1967[^c-88462a6d4dd86cb41718e3b8bcde738a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88462a6d4dd86cb41718e3b8bcde738a]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2010/5/section/158) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)
+[^c-88462a6d4dd86cb41718e3b8bcde738a]: Commencement: [S. 158](https://www.legislation.gov.uk/asp/2010/5/section/158) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)

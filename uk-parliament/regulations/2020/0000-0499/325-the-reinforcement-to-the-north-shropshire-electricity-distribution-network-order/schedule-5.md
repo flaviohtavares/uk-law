@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-9416f3dd38b6ebfdd6f45abacf31ec45]
+## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-9416f3dd38b6ebfdd6f45abacf31ec45]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ Table 3
 
 ## Annotations
 
-[^key-9416f3dd38b6ebfdd6f45abacf31ec45]: Commencement: Sch. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-9416f3dd38b6ebfdd6f45abacf31ec45]: Commencement: Sch. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

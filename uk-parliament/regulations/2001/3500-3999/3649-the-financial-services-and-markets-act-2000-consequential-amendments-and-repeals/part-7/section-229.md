@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Specification of banks and investments[^key-fe8573f4e9b94bfcd349edbd2d00e2f7]
+## 229. Specification of banks and investments[^c-fe8573f4e9b94bfcd349edbd2d00e2f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8573f4e9b94bfcd349edbd2d00e2f7]: Commencement: Art. 229 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fe8573f4e9b94bfcd349edbd2d00e2f7]: Commencement: Art. 229 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

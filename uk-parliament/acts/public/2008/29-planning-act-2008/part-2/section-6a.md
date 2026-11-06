@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Interpretation of sections 5(4) and 6(7)[^key-5033ae764b8a24a04cae33fe9ab48df1]
+## 6A. Interpretation of sections 5(4) and 6(7)[^c-5033ae764b8a24a04cae33fe9ab48df1]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5033ae764b8a24a04cae33fe9ab48df1]: Textual amendment: Ss. 6A, 6B inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/8), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-5033ae764b8a24a04cae33fe9ab48df1]: Textual amendment: Ss. 6A, 6B inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 130(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/130/8), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Third party notices[^key-ce09e75c0af15c8dceed585cbaf837b3]
+## 14. Third party notices[^c-ce09e75c0af15c8dceed585cbaf837b3]
 
 *Extent: E+W+S*
 
@@ -52,10 +52,10 @@ the Regulator may issue a notice (a “third party notice”) directing the thir
 
 This is subject to section 311 (protected items).
 
-(8)[^key-5bc6bb0222a6b8d7f7bf02769aca0e39] In this section “**pensions legislation**” has the same meaning as in section 13.
+(8)[^c-5bc6bb0222a6b8d7f7bf02769aca0e39] In this section “**pensions legislation**” has the same meaning as in section 13.
 
 ## Annotations
 
-[^key-ce09e75c0af15c8dceed585cbaf837b3]: Commencement: S. 14 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-ce09e75c0af15c8dceed585cbaf837b3]: Commencement: S. 14 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-5bc6bb0222a6b8d7f7bf02769aca0e39]: Modification: S. 14(8) modified (30.12.2005) by [The Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [13](https://www.legislation.gov.uk/uksi/2005/3380/regulation/13)
+[^c-5bc6bb0222a6b8d7f7bf02769aca0e39]: Modification: S. 14(8) modified (30.12.2005) by [The Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [13](https://www.legislation.gov.uk/uksi/2005/3380/regulation/13)

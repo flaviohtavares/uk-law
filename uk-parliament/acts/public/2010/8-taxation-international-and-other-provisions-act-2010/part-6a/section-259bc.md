@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259BC. The basic rules[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259BC. The basic rules[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) “**Ordinary income**” means income that is brought into account, before any deductions, for the purposes of calculating the income or profits on which a relevant tax is charged (“taxable profits”).
 
-(3) But an amount of income is not brought into account for those purposes to the extent that —[^key-46db69977a72b34a076062e933c1bc24]
+(3) But an amount of income is not brought into account for those purposes to the extent that —[^c-46db69977a72b34a076062e933c1bc24]
 
 - (a) it is charged to the relevant tax at a nil rate, or
 - (b) it is excluded, reduced or offset by any exemption, exclusion, relief, or credit—
@@ -51,7 +51,7 @@ but an amount refunded is to be ignored if and to the extent that it results fro
 
 (8) References to an amount of ordinary income being “included in” taxable profits are to that amount being brought into account for the purposes of calculating those profits.
 
-(8A)[^key-c15c51c2ca2e195073d04c3f51b4c22f] Income is to be treated as “ordinary income” if it would fall to be brought into account for the purpose of calculating taxable profits of a person but for the fact that the person is a qualifying institutional investor (and, if the person is based in a territory under the law of which there is no relevant tax on income of the kind in question, if the territory had such a tax).
+(8A)[^c-c15c51c2ca2e195073d04c3f51b4c22f] Income is to be treated as “ordinary income” if it would fall to be brought into account for the purpose of calculating taxable profits of a person but for the fact that the person is a qualifying institutional investor (and, if the person is based in a territory under the law of which there is no relevant tax on income of the kind in question, if the territory had such a tax).
 
 For the meaning of “qualifying institutional investor” see section 259NDA.
 
@@ -61,8 +61,8 @@ For the meaning of “qualifying institutional investor” see section 259NDA.
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-46db69977a72b34a076062e933c1bc24]: Textual amendment: Words in s. 259BC(3) substituted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/3)
+[^c-46db69977a72b34a076062e933c1bc24]: Textual amendment: Words in s. 259BC(3) substituted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/3)
 
-[^key-c15c51c2ca2e195073d04c3f51b4c22f]: Textual amendment: [S. 259BC(8A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259BC/8A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/26)
+[^c-c15c51c2ca2e195073d04c3f51b4c22f]: Textual amendment: [S. 259BC(8A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259BC/8A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/26)

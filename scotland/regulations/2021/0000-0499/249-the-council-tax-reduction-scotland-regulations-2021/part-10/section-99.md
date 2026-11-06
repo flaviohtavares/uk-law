@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Transitional entitlement to the disability premium, etc.[^key-ca609d2efd0ad741823262cf69bcff22]
+## 99. Transitional entitlement to the disability premium, etc.[^c-ca609d2efd0ad741823262cf69bcff22]
 
 *Extent: S*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ca609d2efd0ad741823262cf69bcff22]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2021/249/regulation/99) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-ca609d2efd0ad741823262cf69bcff22]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2021/249/regulation/99) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00227]: Footnote: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814). Paragraph 13 was revoked by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217), subject to savings provisions.
 

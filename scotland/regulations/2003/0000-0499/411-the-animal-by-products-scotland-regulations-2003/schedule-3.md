@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Remote Areas[^key-05c3d9303c778bfa449b1fea9a1720f6]
+## SCHEDULE 3 — Remote Areas[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 *Extent: S*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulation 29
 
-**1.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-05c3d9303c778bfa449b1fea9a1720f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))
+[^c-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))

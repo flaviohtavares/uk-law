@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**189.**[^key-8642f1be8f505bcbe049b6f313c24b3e] In section 2(5) (basic definitions) insert in the appropriate place in alphabetical order—
+**189.**[^c-8642f1be8f505bcbe049b6f313c24b3e] In section 2(5) (basic definitions) insert in the appropriate place in alphabetical order—
 
 > - “the 2014 Act” means the [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4),
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8642f1be8f505bcbe049b6f313c24b3e]: Commencement: Reg. 189 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8642f1be8f505bcbe049b6f313c24b3e]: Commencement: Reg. 189 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

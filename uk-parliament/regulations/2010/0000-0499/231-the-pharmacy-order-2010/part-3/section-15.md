@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Offences committed by partnerships[^key-417bc08075508dbe9bb6bba83dde1ad2][^key-a14c8bef30520edf36d93fc4ffc25e89]
+## 15. Offences committed by partnerships[^c-417bc08075508dbe9bb6bba83dde1ad2][^c-a14c8bef30520edf36d93fc4ffc25e89]
 
 *Extent: E+W+S*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-417bc08075508dbe9bb6bba83dde1ad2]: Commencement: Art. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-417bc08075508dbe9bb6bba83dde1ad2]: Commencement: Art. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a14c8bef30520edf36d93fc4ffc25e89]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/231/article/15) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a14c8bef30520edf36d93fc4ffc25e89]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/231/article/15) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00032]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).

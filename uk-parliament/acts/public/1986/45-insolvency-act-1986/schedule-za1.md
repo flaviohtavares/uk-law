@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE ZA1 — Moratorium: Eligible companies[^key-8e220f5268c49deaa2eddc407522b3df][^key-394b6e1af2948b238f75c9145bb9a773][^key-8be2684fe6e21831eee16ae3e58e827e]
+## SCHEDULE ZA1 — Moratorium: Eligible companies[^c-8e220f5268c49deaa2eddc407522b3df][^c-394b6e1af2948b238f75c9145bb9a773][^c-8be2684fe6e21831eee16ae3e58e827e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ Section A2
 A company is “eligible” for the purposes of this Part unless it is excluded from being eligible by any of the following—
 
 - paragraph 2 (current or recent insolvency procedure);
-- paragraph 2A (private registered providers of social housing);[^key-68a725e08f8c503706b95a88039c99b9]
-- paragraph 2B (a registered social landlord under Part 2 of the Housing (Scotland) Act 2010); *(Extent: S)*[^key-019610866c1859ae4fddfcf826e5f8d0]
+- paragraph 2A (private registered providers of social housing);[^c-68a725e08f8c503706b95a88039c99b9]
+- paragraph 2B (a registered social landlord under Part 2 of the Housing (Scotland) Act 2010); *(Extent: S)*[^c-019610866c1859ae4fddfcf826e5f8d0]
 - paragraph 3 (insurance companies);
 - paragraph 4 (banks);
 - paragraph 5 (electronic money institutions);
@@ -43,7 +43,7 @@ A company is “eligible” for the purposes of this Part unless it is excluded 
 - paragraph 15 (public-private partnership project companies);
 - paragraph 18 (certain overseas companies).
 
-### 2. Companies subject to, or recently subject to, moratorium or an insolvency procedure[^key-98c97beaff5639f4a0cad209bf7f62fe]
+### 2. Companies subject to, or recently subject to, moratorium or an insolvency procedure[^c-98c97beaff5639f4a0cad209bf7f62fe]
 
 (1) A company is excluded from being eligible if—
 
@@ -71,11 +71,11 @@ A company is “eligible” for the purposes of this Part unless it is excluded 
 - (b) section 124B (winding up of SE), or
 - (c) section 124C (winding up of SCE).
 
-### 2A. Private registered providers of social housing[^key-9b9a3288afaaffd0eb74aeb9082c19e6]
+### 2A. Private registered providers of social housing[^c-9b9a3288afaaffd0eb74aeb9082c19e6]
 
 A company is excluded from being eligible if it is a private registered provider of social housing.
 
-### 2B. Registered social landlord under Part 2 of the Housing (Scotland) Act 2010[^key-68bc74a57b3f3e6ff6ac42fa1671cf46]
+### 2B. Registered social landlord under Part 2 of the Housing (Scotland) Act 2010[^c-68bc74a57b3f3e6ff6ac42fa1671cf46]
 
 *Extent: S*
 
@@ -158,7 +158,7 @@ A company is excluded from being eligible if it is a recognised investment excha
 
 A company is excluded from being eligible if it is a securitisation company within the meaning of the Taxation of Securitisation Companies Regulations 2006 ([S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296)) (see regulation 4 of those Regulations).
 
-### 13. Parties to capital market arrangements[^key-1261caff0c65c6ab5c9cae69af928705]
+### 13. Parties to capital market arrangements[^c-1261caff0c65c6ab5c9cae69af928705]
 
 (1) A company is excluded from being eligible if, on the filing date—
 
@@ -219,7 +219,7 @@ A company is excluded from being eligible if it is a securitisation company with
   - (ii) an alternative finance investment bond within the meaning of article 77A of that Order;
 - (d) “commercial paper” has the meaning given by article 9(3) of that Order.
 
-### 15. Public-private partnership project companies[^key-0fbd5f03247c3008682b970be8d7d2d3]
+### 15. Public-private partnership project companies[^c-0fbd5f03247c3008682b970be8d7d2d3]
 
 (1) A company is excluded from being eligible if, on the filing date, it is a project company of a project which—
 
@@ -275,12 +275,12 @@ A company is excluded from being eligible if it is a securitisation company with
 
 (2) In sub-paragraph (1) a reference to the provision of finance includes a reference to the provision of an indemnity.
 
-### 18. Overseas companies with corresponding functions[^key-040b52c639aa1eb1b3a25e3b4a30587e]
+### 18. Overseas companies with corresponding functions[^c-040b52c639aa1eb1b3a25e3b4a30587e]
 
 A company is excluded from being eligible if its registered office or head office is outside the United Kingdom and—
 
-- (a) its functions correspond to those of a company mentioned in any of the previous paragraphs of this Schedule apart from paragraphs 2 and 2A[^key-c346a98022cf96f108096c45faf115bc] and, if it were a company registered under the Companies Act 2006 in England and Wales or Scotland, it would be excluded from being eligible by that paragraph, or
-- (b) it has entered into a transaction or done anything else that, if done in England and Wales or Scotland by a company registered under the Companies Act 2006 in England and Wales or Scotland, would result in the company being excluded by any of the previous paragraphs of this Schedule apart from paragraphs 2 and 2A[^key-29ed106a6c19aeee30723a3acbb86310].
+- (a) its functions correspond to those of a company mentioned in any of the previous paragraphs of this Schedule apart from paragraphs 2 and 2A[^c-c346a98022cf96f108096c45faf115bc] and, if it were a company registered under the Companies Act 2006 in England and Wales or Scotland, it would be excluded from being eligible by that paragraph, or
+- (b) it has entered into a transaction or done anything else that, if done in England and Wales or Scotland by a company registered under the Companies Act 2006 in England and Wales or Scotland, would result in the company being excluded by any of the previous paragraphs of this Schedule apart from paragraphs 2 and 2A[^c-29ed106a6c19aeee30723a3acbb86310].
 
 ### 19. Interpretation of Schedule
 
@@ -326,30 +326,30 @@ A company is excluded from being eligible if its registered office or head offic
 
 ## Annotations
 
-[^key-8e220f5268c49deaa2eddc407522b3df]: Modification: Sch. ZA1 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/6/1/c) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
+[^c-8e220f5268c49deaa2eddc407522b3df]: Modification: Sch. ZA1 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 6(1)(c)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/6/1/c) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
 
-[^key-394b6e1af2948b238f75c9145bb9a773]: Modification: Sch. ZA1 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/7/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
+[^c-394b6e1af2948b238f75c9145bb9a773]: Modification: Sch. ZA1 modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/7/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))
 
-[^key-8be2684fe6e21831eee16ae3e58e827e]: Textual amendment: Sch. ZA1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [12](https://www.legislation.gov.uk/ukpga/2020/12/section/12))
+[^c-8be2684fe6e21831eee16ae3e58e827e]: Textual amendment: Sch. ZA1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [12](https://www.legislation.gov.uk/ukpga/2020/12/section/12))
 
-[^key-68a725e08f8c503706b95a88039c99b9]: Textual amendment: Words in Sch. ZA1 para. 1 inserted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/2)
+[^c-68a725e08f8c503706b95a88039c99b9]: Textual amendment: Words in Sch. ZA1 para. 1 inserted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/2)
 
-[^key-019610866c1859ae4fddfcf826e5f8d0]: Textual amendment: Words in Sch. ZA1 para. 1 inserted (S.) (29.10.2020) by [The Insolvency Act 1986 (Scotland) Amendment Regulations 2020 (S.S.I. 2020/338)](https://www.legislation.gov.uk/ssi/2020/338), [regs. 1](https://www.legislation.gov.uk/ssi/2020/338/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/338/regulation/2/2)
+[^c-019610866c1859ae4fddfcf826e5f8d0]: Textual amendment: Words in Sch. ZA1 para. 1 inserted (S.) (29.10.2020) by [The Insolvency Act 1986 (Scotland) Amendment Regulations 2020 (S.S.I. 2020/338)](https://www.legislation.gov.uk/ssi/2020/338), [regs. 1](https://www.legislation.gov.uk/ssi/2020/338/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/338/regulation/2/2)
 
-[^key-98c97beaff5639f4a0cad209bf7f62fe]: Modification: [Sch. ZA1 para. 2](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/2) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-98c97beaff5639f4a0cad209bf7f62fe]: Modification: [Sch. ZA1 para. 2](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/2) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
 
-[^key-9b9a3288afaaffd0eb74aeb9082c19e6]: Textual amendment: Sch. ZA1 para. 2A inserted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/3)
+[^c-9b9a3288afaaffd0eb74aeb9082c19e6]: Textual amendment: Sch. ZA1 para. 2A inserted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/3)
 
-[^key-68bc74a57b3f3e6ff6ac42fa1671cf46]: Textual amendment: Sch. ZA1 para. 2B inserted (S.) (29.10.2020) by [The Insolvency Act 1986 (Scotland) Amendment Regulations 2020 (S.S.I. 2020/338)](https://www.legislation.gov.uk/ssi/2020/338), [regs. 1](https://www.legislation.gov.uk/ssi/2020/338/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/338/regulation/2/3)
+[^c-68bc74a57b3f3e6ff6ac42fa1671cf46]: Textual amendment: Sch. ZA1 para. 2B inserted (S.) (29.10.2020) by [The Insolvency Act 1986 (Scotland) Amendment Regulations 2020 (S.S.I. 2020/338)](https://www.legislation.gov.uk/ssi/2020/338), [regs. 1](https://www.legislation.gov.uk/ssi/2020/338/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/338/regulation/2/3)
 
-[^key-1261caff0c65c6ab5c9cae69af928705]: Modification: Sch. ZA1 para. 13 modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/a)
+[^c-1261caff0c65c6ab5c9cae69af928705]: Modification: Sch. ZA1 para. 13 modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/a)
 
 [^M_F_18eb4ec0-48c2-4edc-980d-b2d6cdcd467c]: Textual amendment: Word in Sch. ZA1 para. 14(5)(b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/16/2)
 
-[^key-0fbd5f03247c3008682b970be8d7d2d3]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/15) modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/b)
+[^c-0fbd5f03247c3008682b970be8d7d2d3]: Modification: [Sch. ZA1 para. 15](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/15) modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/b)
 
-[^key-040b52c639aa1eb1b3a25e3b4a30587e]: Modification: [Sch. ZA1 para. 18](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/18) modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/b)
+[^c-040b52c639aa1eb1b3a25e3b4a30587e]: Modification: [Sch. ZA1 para. 18](https://www.legislation.gov.uk/ukpga/1986/45/schedule/ZA1/paragraph/18) modified (E.W.S.) (26.11.2020) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Suspension of Liability for Wrongful Trading and Extension of the Relevant Period) Regulations 2020 (S.I. 2020/1349)](https://www.legislation.gov.uk/uksi/2020/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1349/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1349/regulation/2/5/b)
 
-[^key-c346a98022cf96f108096c45faf115bc]: Textual amendment: Words in Sch. ZA1 para. 18(a) substituted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/4/a)
+[^c-c346a98022cf96f108096c45faf115bc]: Textual amendment: Words in Sch. ZA1 para. 18(a) substituted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/4/a)
 
-[^key-29ed106a6c19aeee30723a3acbb86310]: Textual amendment: Words in Sch. ZA1 para. 18(b) substituted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/4/b)
+[^c-29ed106a6c19aeee30723a3acbb86310]: Textual amendment: Words in Sch. ZA1 para. 18(b) substituted (29.6.2020 at 10.30 a.m.) by [The Insolvency Act 1986 Part A1 Moratorium (Eligibility of Private Registered Providers) Regulations 2020 (S.I. 2020/652)](https://www.legislation.gov.uk/uksi/2020/652), [regs. 1](https://www.legislation.gov.uk/uksi/2020/652/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/652/regulation/2/4/b)

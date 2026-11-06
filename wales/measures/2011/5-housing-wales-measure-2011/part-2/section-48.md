@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Inspector's powers of entry and inspection[^key-dea33ffbad08166a73eca25bea4c9c36]
+## 48. Inspector's powers of entry and inspection[^c-dea33ffbad08166a73eca25bea4c9c36]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ After paragraph 19F of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-dea33ffbad08166a73eca25bea4c9c36]: Commencement: [S. 48](https://www.legislation.gov.uk/mwa/2011/5/section/48) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)
+[^c-dea33ffbad08166a73eca25bea4c9c36]: Commencement: [S. 48](https://www.legislation.gov.uk/mwa/2011/5/section/48) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)

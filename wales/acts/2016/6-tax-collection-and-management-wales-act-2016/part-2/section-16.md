@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Use of information by WRA and delegates[^key-1a88ce092c47c47137b5b047308383bb]
+## 16. Use of information by WRA and delegates[^c-1a88ce092c47c47137b5b047308383bb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ in connection with any function of WRA.
 
 ## Annotations
 
-[^key-1a88ce092c47c47137b5b047308383bb]: Commencement: S. 16 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-1a88ce092c47c47137b5b047308383bb]: Commencement: S. 16 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

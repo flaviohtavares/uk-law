@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Processing in reliance on relevant international law[^key-deeb594fc607c48af098a56dd677939e]
+## 72. Processing in reliance on relevant international law[^c-deeb594fc607c48af098a56dd677939e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4e4ed9ce42cb315d1e0f626685011750] The UK GDPR is amended in accordance with subsections (2) to (5).
+(1)[^c-4e4ed9ce42cb315d1e0f626685011750] The UK GDPR is amended in accordance with subsections (2) to (5).
 
-(2)[^key-4e4ed9ce42cb315d1e0f626685011750] In Article 6(3) (lawfulness of processing: basis in domestic law)—
+(2)[^c-4e4ed9ce42cb315d1e0f626685011750] In Article 6(3) (lawfulness of processing: basis in domestic law)—
 
 - (a) in the first subparagraph, omit “and (e)”,
 - (b) after that subparagraph insert—
@@ -32,9 +32,9 @@ summary: ''
   , and
 - (c) in the last subparagraph, in the last sentence, after “domestic law” insert “or relevant international law”.
 
-(3)[^key-2337b49b3a2b0989d14ba3e5bee455c5] In Article 8A(3)(e) (purpose limitation: further processing necessary to safeguard an objective listed in Article 23(1)) (inserted by section 71 of this Act), at the end insert “or by relevant international law (see section 9A of the 2018 Act)”.
+(3)[^c-2337b49b3a2b0989d14ba3e5bee455c5] In Article 8A(3)(e) (purpose limitation: further processing necessary to safeguard an objective listed in Article 23(1)) (inserted by section 71 of this Act), at the end insert “or by relevant international law (see section 9A of the 2018 Act)”.
 
-(4)[^key-4e4ed9ce42cb315d1e0f626685011750] In Article 9 (processing of special categories of personal data)—
+(4)[^c-4e4ed9ce42cb315d1e0f626685011750] In Article 9 (processing of special categories of personal data)—
 
 - (a) in paragraph 2(g) (substantial public interest), after “domestic law” insert “, or relevant international law,”, and
 - (b) in paragraph 5, before point (a) insert—
@@ -43,7 +43,7 @@ summary: ''
 
   .
 
-(5)[^key-4e4ed9ce42cb315d1e0f626685011750] In Article 10 (processing of personal data relating to criminal convictions and offences)—
+(5)[^c-4e4ed9ce42cb315d1e0f626685011750] In Article 10 (processing of personal data relating to criminal convictions and offences)—
 
 - (a) in paragraph 1, after “domestic law” insert “, or relevant international law,”, and
 - (b) in paragraph 2, before point (a) insert—
@@ -52,9 +52,9 @@ summary: ''
 
   .
 
-(6)[^key-4e4ed9ce42cb315d1e0f626685011750] The 2018 Act is amended in accordance with subsections (7) and (8).
+(6)[^c-4e4ed9ce42cb315d1e0f626685011750] The 2018 Act is amended in accordance with subsections (7) and (8).
 
-(7)[^key-4950e6df2ecb4aaf62b2b2eb9d9466e8][^key-2337b49b3a2b0989d14ba3e5bee455c5] Before section 10 (and the italic heading before that section) insert—
+(7)[^c-4950e6df2ecb4aaf62b2b2eb9d9466e8][^c-2337b49b3a2b0989d14ba3e5bee455c5] Before section 10 (and the italic heading before that section) insert—
 
 > **Relevant international law**
 >
@@ -76,7 +76,7 @@ summary: ''
 >
 > (6) In this section, “**treaty**” and “**ratified**” have the same meaning as in Part 2 of the Constitutional Reform and Governance Act 2010 (see section 25 of that Act).
 
-(8)[^key-4e4ed9ce42cb315d1e0f626685011750] Before Schedule 1 insert—
+(8)[^c-4e4ed9ce42cb315d1e0f626685011750] Before Schedule 1 insert—
 
 > **Schedule A1 — Processing in reliance on relevant international law**
 >
@@ -86,10 +86,10 @@ summary: ''
 
 ## Annotations
 
-[^key-deeb594fc607c48af098a56dd677939e]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-deeb594fc607c48af098a56dd677939e]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-4e4ed9ce42cb315d1e0f626685011750]: Commencement: [S. 72(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/1/2/4)(8) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)
+[^c-4e4ed9ce42cb315d1e0f626685011750]: Commencement: [S. 72(1)(2)(4)-(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/1/2/4)(8) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)
 
-[^key-2337b49b3a2b0989d14ba3e5bee455c5]: Commencement: [S. 72(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/3)[(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
+[^c-2337b49b3a2b0989d14ba3e5bee455c5]: Commencement: [S. 72(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/3)[(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
 
-[^key-4950e6df2ecb4aaf62b2b2eb9d9466e8]: Commencement: [S. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7) in force at 20.8.2025 for specified purposes by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)
+[^c-4950e6df2ecb4aaf62b2b2eb9d9466e8]: Commencement: [S. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7) in force at 20.8.2025 for specified purposes by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b)

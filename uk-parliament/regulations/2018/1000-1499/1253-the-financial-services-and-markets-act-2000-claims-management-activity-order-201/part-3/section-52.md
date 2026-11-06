@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Penalties for conduct for which the Regulator has given notice of proposed penalty[^key-b6f1ee4685225cf9e09b308f062fe031][^key-9f48164419671f2cb5e7c692f5814a2b]
+## 52. Penalties for conduct for which the Regulator has given notice of proposed penalty[^c-b6f1ee4685225cf9e09b308f062fe031][^c-9f48164419671f2cb5e7c692f5814a2b]
 
 *Extent: E+W+S*
 
@@ -60,9 +60,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f1ee4685225cf9e09b308f062fe031]: Commencement: Art. 52 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-b6f1ee4685225cf9e09b308f062fe031]: Commencement: Art. 52 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-9f48164419671f2cb5e7c692f5814a2b]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2018/1253/article/52) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-9f48164419671f2cb5e7c692f5814a2b]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2018/1253/article/52) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00091]: Footnote: Regulation 52 was amended by [S.I. 2014/3239](https://www.legislation.gov.uk/uksi/2014/3239).
 

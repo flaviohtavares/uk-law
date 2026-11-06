@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Pilot schemes.[^key-06fe1834a9b2db1ab1274320fbd014d3]
+## 28. Pilot schemes.[^c-06fe1834a9b2db1ab1274320fbd014d3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06fe1834a9b2db1ab1274320fbd014d3]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28) repealed (29.7.2013) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), [art. 4](https://www.legislation.gov.uk/uksi/2013/1860/article/4)
+[^c-06fe1834a9b2db1ab1274320fbd014d3]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28) repealed (29.7.2013) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2013/1860](https://www.legislation.gov.uk/uksi/2013/1860), [art. 4](https://www.legislation.gov.uk/uksi/2013/1860/article/4)

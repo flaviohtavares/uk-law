@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-f35da42df3afad5db1b2afcfcd05efe9]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-f35da42df3afad5db1b2afcfcd05efe9]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the administrative areas of Gloucestershire County Council, Cheltenham Borough Council and Tewkesbury Borough Council
 
-[^key-f35da42df3afad5db1b2afcfcd05efe9]
+[^c-f35da42df3afad5db1b2afcfcd05efe9]
 
 The authorised development is a nationally significant infrastructure project as defined in sections 14 and 22 of the 2008 Act[^f00082] and associated development within the meaning of section 115(2) of the 2008 Act, comprising—
 
@@ -203,6 +203,6 @@ In connection with the construction of any of those works, further associated de
 
 ## Annotations
 
-[^key-f35da42df3afad5db1b2afcfcd05efe9]: Commencement: Sch. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-f35da42df3afad5db1b2afcfcd05efe9]: Commencement: Sch. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00082]: Footnote: Section 22 was substituted by [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883).

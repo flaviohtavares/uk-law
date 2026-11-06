@@ -31,7 +31,7 @@ summary: ''
 
 Food
 
-The Meat (Official Controls Charges) Regulations (Northern Ireland) 2008 (revoked)[^key-35c282f032c620b7dff26fe25fba2bb0]
+The Meat (Official Controls Charges) Regulations (Northern Ireland) 2008 (revoked)[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 Made
 
@@ -41,92 +41,92 @@ Coming into operation
 
 30th March 2008
 
-[^key-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and duration[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 1. Citation, commencement and duration[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 2. Interpretation[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 3. Charges[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Withdrawal of official controls[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 4. Withdrawal of official controls[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 5. Information[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-35c282f032c620b7dff26fe25fba2bb0]
+## 6. Revocation[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^key-35c282f032c620b7dff26fe25fba2bb0]
+## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^key-35c282f032c620b7dff26fe25fba2bb0]
+## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 Regulation 2(1)
 
-### 1. The official controls charge[^key-35c282f032c620b7dff26fe25fba2bb0]
+### 1. The official controls charge[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The standard charge[^key-35c282f032c620b7dff26fe25fba2bb0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. The additional charge[^key-35c282f032c620b7dff26fe25fba2bb0]
+### 3. The standard charge[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Time costs[^key-35c282f032c620b7dff26fe25fba2bb0]
+**5.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. The additional charge[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Time costs[^c-35c282f032c620b7dff26fe25fba2bb0]
 
-**11.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Definitions[^key-35c282f032c620b7dff26fe25fba2bb0]
+**12.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-35c282f032c620b7dff26fe25fba2bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Definitions[^c-35c282f032c620b7dff26fe25fba2bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35c282f032c620b7dff26fe25fba2bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35c282f032c620b7dff26fe25fba2bb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/89) revoked (27.9.2009) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2009 (S.R. 2009/247)](https://www.legislation.gov.uk/nisr/2009/247), [regs. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/247/regulation/6)
+[^c-35c282f032c620b7dff26fe25fba2bb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/89) revoked (27.9.2009) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2009 (S.R. 2009/247)](https://www.legislation.gov.uk/nisr/2009/247), [regs. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/247/regulation/6)

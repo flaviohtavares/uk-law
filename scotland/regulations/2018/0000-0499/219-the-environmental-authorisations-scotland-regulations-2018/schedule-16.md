@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 16 — MANAGEMENT OF WASTE ELECTRICAL AND ELECTRONIC EQUIPMENT[^key-1321bc1ec6d5a4f1b4d9e31ef74d9682]
+## SCHEDULE 16 — MANAGEMENT OF WASTE ELECTRICAL AND ELECTRONIC EQUIPMENT[^c-1321bc1ec6d5a4f1b4d9e31ef74d9682]
 
 *Extent: S*
 
@@ -105,4 +105,4 @@ WEEE treatment sites must have—
 
 ## Annotations
 
-[^key-1321bc1ec6d5a4f1b4d9e31ef74d9682]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ssi/2018/219/schedule/16) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/7) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1321bc1ec6d5a4f1b4d9e31ef74d9682]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ssi/2018/219/schedule/16) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/7) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

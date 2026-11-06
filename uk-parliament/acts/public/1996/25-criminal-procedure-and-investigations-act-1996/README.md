@@ -37,7 +37,7 @@ An Act to make provision about criminal procedure and criminal investigations.
 
 ## Contents
 
-### Part I — Disclosure[^c11038501][^key-8c1811d7ba0c092c4e68960ff664e626]
+### Part I — Disclosure[^c11038501][^c-8c1811d7ba0c092c4e68960ff664e626]
 
 *Extent: E+W+N.I.*
 
@@ -174,7 +174,7 @@ An Act to make provision about criminal procedure and criminal investigations.
 - [Section 56 — Time limits for proceedings.](part-vii/section-56.md)
 - [Section 57 — Tainted acquittals: supplementary.](part-vii/section-57.md)
 
-#### Derogatory assertions (Northern Ireland)[^key-0f3c05e0879bf4c38b77489fd46f90bd]
+#### Derogatory assertions (Northern Ireland)[^c-0f3c05e0879bf4c38b77489fd46f90bd]
 
 - [Section 58 — Orders in respect of certain assertions.](part-vii/section-58.md)
 - [Section 59 — Restriction on reporting of assertions.](part-vii/section-59.md)
@@ -233,6 +233,6 @@ SCHEDULES
 
     [Pt. I](https://www.legislation.gov.uk/ukpga/1996/25/part/I): Power to modify conferred (1.12.2003) by [S.I. 1999/2789 (N.I. 8)](https://www.legislation.gov.uk/nisi/1999/2789), [art. 26(7)](https://www.legislation.gov.uk/nisi/1999/2789/article/26/7); [S.R. 2003/476](https://www.legislation.gov.uk/nisr/2003/476), [art. 4(a)](https://www.legislation.gov.uk/nisr/2003/476/article/4/a)
 
-[^key-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
+[^c-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
 
-[^key-0f3c05e0879bf4c38b77489fd46f90bd]: Textual amendment: Words in [s. 58 cross-heading](https://www.legislation.gov.uk/ukpga/1996/25/part/VII/crossheading/derogatory-assertions) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 135](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/135) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0f3c05e0879bf4c38b77489fd46f90bd]: Textual amendment: Words in [s. 58 cross-heading](https://www.legislation.gov.uk/ukpga/1996/25/part/VII/crossheading/derogatory-assertions) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 135](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/135) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

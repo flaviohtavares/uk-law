@@ -43,15 +43,15 @@ Coming into force
 
 30th August 2000
 
-The Secretary of State, in exercise of the powers conferred upon him by sections 40(1), (2) and (6), 41(2), 42(3), (4) and (5), 44(1)(b), 2(b) and (4), 45(1) and 67 of the Disability Discrimination Act 1995[^f00001] (“the Act”) and of all other powers enabling him in that behalf and after consultation with the Disabled Persons Transport Advisory Committee and such other representative organisations as he thought fit in accordance with section 40(7) of the Act and with such representative organisations as he thought fit in accordance with section 45(4) of the Act, hereby makes the following Regulations:[^key-6f3939b734880ec6215b507defe5708b][^key-239d695178800791e5617b1bc082a085]
+The Secretary of State, in exercise of the powers conferred upon him by sections 40(1), (2) and (6), 41(2), 42(3), (4) and (5), 44(1)(b), 2(b) and (4), 45(1) and 67 of the Disability Discrimination Act 1995[^f00001] (“the Act”) and of all other powers enabling him in that behalf and after consultation with the Disabled Persons Transport Advisory Committee and such other representative organisations as he thought fit in accordance with section 40(7) of the Act and with such representative organisations as he thought fit in accordance with section 45(4) of the Act, hereby makes the following Regulations:[^c-6f3939b734880ec6215b507defe5708b][^c-239d695178800791e5617b1bc082a085]
 
 ## PART I — Preliminary
 
-### 1. Citation, commencement and extent[^key-1df0f9ed7b65b3cd3896c1592dfd5727]
+### 1. Citation, commencement and extent[^c-1df0f9ed7b65b3cd3896c1592dfd5727]
 
 These Regulations may be cited as the Public Service Vehicles Accessibility Regulations 2000 and shall come into force on 30th August 2000.
 
-### 2. Interpretation[^key-e9b926b510cd5a08c277fab7de442a7e]
+### 2. Interpretation[^c-e9b926b510cd5a08c277fab7de442a7e]
 
 (1) In these Regulations—
 
@@ -96,7 +96,7 @@ These Regulations may be cited as the Public Service Vehicles Accessibility Regu
 
 ## PART II — Application of Regulations, Exemptions and Recognition
 
-### 3. Application[^key-f7f322f68334da81f01589f418eb1ea2]
+### 3. Application[^c-f7f322f68334da81f01589f418eb1ea2]
 
 (1) These Regulations apply to public service vehicles of the types described respectively in paragraphs (2) to (7) (a “regulated public service vehicle”) in the manner and to the extent set out in this Part.
 
@@ -149,7 +149,7 @@ shall not require a certificate relating to Schedule 1 until 1st January 2020.
 - (a) “first used” is to be construed in accordance with regulation 2(2); and
 - (b) references to a vehicle being “used” or “in use” means the regulated public service vehicle is being used to provide either a local service or a scheduled service.
 
-### 4. Exemptions[^key-64dd7ea00a3724d07f327a30e87bccbd]
+### 4. Exemptions[^c-64dd7ea00a3724d07f327a30e87bccbd]
 
 (1) The requirements specified in regulation 3 do not apply to a regulated public service vehicle which is—
 
@@ -160,17 +160,17 @@ shall not require a certificate relating to Schedule 1 until 1st January 2020.
 - (e) used by or for purposes of a Minister of the Crown or government department or in the service of a visiting force or headquarters; or
 - (f) a vehicle in respect of which twenty years have elapsed since the date of its first use on a road and which is not used to provide a local service or a scheduled service for more than 20 days in any calendar year.
 
-(2) The requirements of the Schedules specified below shall not come into effect in relation to any regulated public service vehicle to which those Schedules may apply until 1 January 2004[^key-7d179770fab6800b86eb706ef5fe930c]; and, accordingly, any certificate, approval or declaration issued, given or made in accordance with Parts III to VI shall be valid notwithstanding that the vehicle does not comply with those requirements.
+(2) The requirements of the Schedules specified below shall not come into effect in relation to any regulated public service vehicle to which those Schedules may apply until 1 January 2004[^c-7d179770fab6800b86eb706ef5fe930c]; and, accordingly, any certificate, approval or declaration issued, given or made in accordance with Parts III to VI shall be valid notwithstanding that the vehicle does not comply with those requirements.
 
 - The requirements are those specified in—
   - (a) paragraph 5(3)(b) to (e) of Schedule 1 (boarding lifts and ramps); and
   - (b) paragraphs 7(3)(c) and 4(c) of Schedule 3 (to the extent that they apply to a route number display and destination display fitted in accordance with paragraph 7(1)(b) of that Schedule).
 
-### 5. Recognition of compliance with EC and EEA equivalent requirements[^key-dce09b82de4ae032b3d93c66b90e2504][^key-930b528a99aeae6a45e678b46107a149]
+### 5. Recognition of compliance with EC and EEA equivalent requirements[^c-dce09b82de4ae032b3d93c66b90e2504][^c-930b528a99aeae6a45e678b46107a149]
 
 (1) The requirements of these Regulations specified in Schedule 1, or Schedule 2 (but not paragraph 8 of Schedule 2), shall not apply to a bus of Class I for which a Certificate of Conformity has been issued on the basis that the bus complies with Article 3 to the 2001 Directive and in such a case the vehicle examiner may issue an accessibility certificate in respect of the bus as though the bus had complied with those requirements of these Regulations.
 
-(2)[^key-8b69b26053b73c5f61b85778faf460c9] In the case of a bus which has not been issued with an accessibility certificate pursuant to paragraph (1), the requirements of these Regulations specified in Schedule 1, or Schedule 2 (but not paragraph 8 of Schedule 2), shall not apply if the bus satisfies—
+(2)[^c-8b69b26053b73c5f61b85778faf460c9] In the case of a bus which has not been issued with an accessibility certificate pursuant to paragraph (1), the requirements of these Regulations specified in Schedule 1, or Schedule 2 (but not paragraph 8 of Schedule 2), shall not apply if the bus satisfies—
 
 - (a) the requirements of—
   - (i) such of Annexes I to VI and VIII and IX to the 2001 Directive as apply to it; and
@@ -181,7 +181,7 @@ shall not require a certificate relating to Schedule 1 until 1st January 2020.
 
 and in such a case the vehicle examiner may issue an accessibility certificate in respect of the bus as though the bus had complied with those requirements of these Regulations.
 
-(3)[^key-475dcabfadf0dcf153ad734757a1df88] The requirements of these Regulations specified in Schedule 1, or Schedule 3 (but not paragraph 7 of Schedule 3), shall not apply to a coach which satisfies—
+(3)[^c-475dcabfadf0dcf153ad734757a1df88] The requirements of these Regulations specified in Schedule 1, or Schedule 3 (but not paragraph 7 of Schedule 3), shall not apply to a coach which satisfies—
 
 - (a) the requirements of—
   - (i) such of Annexes I to VI and VIII and IX to the 2001 Directive as apply to it; and
@@ -192,7 +192,7 @@ and in such a case the vehicle examiner may issue an accessibility certificate i
 
 and in such a case the vehicle examiner may issue an accessibility certificate in respect of the coach as though the coach had complied with those requirements of these Regulations.
 
-(4) Where there is produced to the Secretary of State evidence that satisfies him that a regulated public service vehicle has been found by the competent authority of another EEA State to conform with requirements that are equivalent to all, or some of, the requirements prescribed for that vehicle under these Regulations (including the requirements of the 2001 Directive or the requirements of[^key-a2114c5b5e66a8611f2cac5d81981d3f] ECE Regulation 107.01 or 107.02 mentioned in paragraphs (1) to (3) above), that vehicle shall, by virtue of that evidence, be regarded as conforming with those (and only those) requirements for the purposes of these Regulations.
+(4) Where there is produced to the Secretary of State evidence that satisfies him that a regulated public service vehicle has been found by the competent authority of another EEA State to conform with requirements that are equivalent to all, or some of, the requirements prescribed for that vehicle under these Regulations (including the requirements of the 2001 Directive or the requirements of[^c-a2114c5b5e66a8611f2cac5d81981d3f] ECE Regulation 107.01 or 107.02 mentioned in paragraphs (1) to (3) above), that vehicle shall, by virtue of that evidence, be regarded as conforming with those (and only those) requirements for the purposes of these Regulations.
 
 (5) In this Regulation—
 
@@ -201,41 +201,41 @@ and in such a case the vehicle examiner may issue an accessibility certificate i
 - (c) “a Certificate of Conformity” means a certificate issued by a manufacturer—
   - (i) pursuant to regulation 5 of the Motor Vehicles (EC Type Approval) Regulations 1998, or
   - (ii) under any provision of law of a Member State other than the United Kingdom giving effect to Council Directive [70/156/EEC](https://www.legislation.gov.uk/european/directive/1970/0156) of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers.
-- (d)[^key-8c04d4fe2f6048fa5df3d2a4be6d1f5f] “ECE Regulation 107” means ECE Regulation No. 107 containing uniform provisions concerning the approval of category M2 or M3 vehicles with regard to their general construction which came into force on 18th June 1998 as an annex to the UNECE Agreement;
+- (d)[^c-8c04d4fe2f6048fa5df3d2a4be6d1f5f] “ECE Regulation 107” means ECE Regulation No. 107 containing uniform provisions concerning the approval of category M2 or M3 vehicles with regard to their general construction which came into force on 18th June 1998 as an annex to the UNECE Agreement;
 - (e) “ECE Regulation 107.01” means ECE Regulation No. 107 as amended by the 01 series of amendments on 12th August 2004;
 - (f) “ECE Regulation 107.02” means ECE Regulation No. 107 as amended by the 02 series of amendments on 10th November 2007; and
 - (g) “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963.
 
 ## PART III — Accessibility Certificates
 
-### 6. Introductory[^key-66d5e959dd8d5c15449f48521446a8bf]
+### 6. Introductory[^c-66d5e959dd8d5c15449f48521446a8bf]
 
 This Part has effect with respect to the issue by a vehicle examiner in respect of a particular regulated public service vehicle under section 41(1)(a) of the Act of a certificate that such provisions of these Regulations as relate to that vehicle are satisifed in respect of it, and in this Part, Part VII and Schedule 4 the certificate so issued is referred to as an “accessibility certificate”.
 
-### 7. Applications and fees for accessibility certificates[^key-8e91823a4a250d8adce23de2e5fbb0fe]
+### 7. Applications and fees for accessibility certificates[^c-8e91823a4a250d8adce23de2e5fbb0fe]
 
 (1) Every application for an accessibility certificate shall be made to the Secretary of State in writing.
 
 (2) The prescribed fee for an application for an accessibility certificate—
 
 - (a) on the first application in respect of the vehicle—
-  - (i) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £51[^key-53cd0137b6d5269d331a5fe6350196ab], or
-  - (ii) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £104[^key-eba638a91fa55797e9c93709f13d91e3]; and
+  - (i) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £51[^c-53cd0137b6d5269d331a5fe6350196ab], or
+  - (ii) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £104[^c-eba638a91fa55797e9c93709f13d91e3]; and
 - (b) on any subsequent application—
-  - (i) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £17[^key-d78a724d6d1f377b30887513aa40d639], or
-  - (ii) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £36[^key-6a66942ba0cabb45280cd324654aad52].
+  - (i) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £17[^c-d78a724d6d1f377b30887513aa40d639], or
+  - (ii) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £36[^c-6a66942ba0cabb45280cd324654aad52].
 
-### 8. Accessibility certificate[^key-1dffc9cca7cb27974a19125379706423]
+### 8. Accessibility certificate[^c-1dffc9cca7cb27974a19125379706423]
 
 An accessibility certificate shall contain the information set out in Schedule 4.
 
 ## PART IV — Approval of a Vehicle as a Type Vehicle
 
-### 9. Introductory[^key-fe073b49ef6e43adaf91ed5ef3fc0aff]
+### 9. Introductory[^c-fe073b49ef6e43adaf91ed5ef3fc0aff]
 
 This Part has effect with respect to the approval by the Secretary of State under section 42(1) of the Act of a particular regulated public service vehicle as satisfying the provisions of these Regulations, and in this Part and in Part V and Schedules 5 and 6 a vehicle which has been so approved is referred to as a “type vehicle” and an approval so given (which may be in such form as the Secretary of State may determine) is referred to as a “type vehicle approval”.
 
-### 10. Applications for type vehicle approval[^key-8bd322a7b38c66f6f6a23d2784bbad8e]
+### 10. Applications for type vehicle approval[^c-8bd322a7b38c66f6f6a23d2784bbad8e]
 
 (1) Every application for the approval of a vehicle as a type vehicle shall be made to the Secretary of State in writing.
 
@@ -251,18 +251,18 @@ the application may, with the approval of the Secretary of State, be made by way
 
 (4) Every application mentioned in paragraphs (1) to (3) shall be accompanied by two sets of such working drawings and such detailed specifications and calculations as the Secretary of State may require, and the applicant shall, in respect of every such application, give the Secretary of State the facility to inspect and test the vehicle.
 
-### 11. Copies of drawings and specifications[^key-b23d54cdaa597121238a1066a2551039]
+### 11. Copies of drawings and specifications[^c-b23d54cdaa597121238a1066a2551039]
 
 On being given a type vehicle approval, the person who applied for it shall supply to the Secretary of State such number of copies of the relevant working drawings, specifications and calculations as the Secretary of State may require.
 
-### 12. Fees for approval as a type vehicle[^key-2c732f68af368bdbbdeb6c88eec32d74]
+### 12. Fees for approval as a type vehicle[^c-2c732f68af368bdbbdeb6c88eec32d74]
 
 (1) The prescribed fees for the approval of a vehicle as a type vehicle are as follows.
 
 (2) Subject to paragraphs (3) and (4), for an application made on the basis of a representation under each of sub-paragraphs (a) to (c) of regulation 10(2), the prescribed fee—
 
-- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £183[^key-4e8e4a99b542940fafaedd30e47dabe1], or
-- (b) where a regulated public service vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £366[^key-5c9f34965ecad69b3ee4aa98515376b4].
+- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £183[^c-4e8e4a99b542940fafaedd30e47dabe1], or
+- (b) where a regulated public service vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £366[^c-5c9f34965ecad69b3ee4aa98515376b4].
 
 (3) This paragraph applies where—
 
@@ -272,48 +272,48 @@ On being given a type vehicle approval, the person who applied for it shall supp
 
 (4) Where paragraph (3) applies, the prescribed fee—
 
-- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £17[^key-1769928d6123b5902f81efa58fffcdef], or
-- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £35[^key-cbeda34e2913aa493390013fa02c55d5].
+- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £17[^c-1769928d6123b5902f81efa58fffcdef], or
+- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £35[^c-cbeda34e2913aa493390013fa02c55d5].
 
 (5) For an approval given pursuant to an application under regulation 10(3), the prescribed fee—
 
-- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £90[^key-99455e6abafac0a638ec0a0bade80e01], or
-- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £181[^key-f1b279e278a3f966e51a3d359a5764fc].
+- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £90[^c-99455e6abafac0a638ec0a0bade80e01], or
+- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £181[^c-f1b279e278a3f966e51a3d359a5764fc].
 
 (6) In any other case, the prescribed fee—
 
-- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £401[^key-285172eddd3b6b6fcbae1aea0c50b48c], or
-- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £790[^key-32b29fb5ef9bbbe9000d31da4bf795ec].
+- (a) where the vehicle is required to comply with only one of Schedules 1, 2 or 3, is £401[^c-285172eddd3b6b6fcbae1aea0c50b48c], or
+- (b) where the vehicle is required to comply with either Schedules 1 and 2, or Schedules 1 and 3, is £790[^c-32b29fb5ef9bbbe9000d31da4bf795ec].
 
 (7) Where approval is refused, the Secretary of State may retain such portion of any fee as he considers appropriate for the work he has carried out inspecting the vehicle concerned.
 
 ## PART V — Declarations of Conformity to a Type Vehicle
 
-### 13. Introductory[^key-364cd96ded2367dc5302296cdca1eeb4]
+### 13. Introductory[^c-364cd96ded2367dc5302296cdca1eeb4]
 
 This Part applies with respect to the making by an authorised person (being a person authorised by the Secretary of State for the purposes of section 42(3) of the Act) of a declaration under that section that a particular regulated public service vehicle conforms in design, construction and equipment with a type vehicle, and in this Part and in Schedule 5 a declaration so made is referred to as a “declaration of conformity”.
 
-### 14. Form of declaration of conformity[^key-e996d72c2f2316254e255dc912efe12c]
+### 14. Form of declaration of conformity[^c-e996d72c2f2316254e255dc912efe12c]
 
 A declaration of conformity shall be made in the form set out in Schedule 5.
 
 ## PART VI — Conformity Certificates
 
-### 15. Introductory[^key-cac6f7326079197ce36c601864863930]
+### 15. Introductory[^c-cac6f7326079197ce36c601864863930]
 
 This Part has effect with respect to the issue by a vehicle examiner of a certificate under section 42(4) of the Act that a declaration of conformity has been issued in respect of a regulated public service vehicle, and a certificate so issued is referred to in this Part and in Part VII and Schedule 6 as a “conformity certificate”.
 
-### 16. Form of conformity certificate[^key-555c712cfcb57a3eb07549216f785eb1]
+### 16. Form of conformity certificate[^c-555c712cfcb57a3eb07549216f785eb1]
 
 A conformity certificate shall be issued in the form set out in Schedule 6.
 
-### 17. Fee for conformity certificate[^key-c4f66e848b39bf14eb2f68432384a512]
+### 17. Fee for conformity certificate[^c-c4f66e848b39bf14eb2f68432384a512]
 
-The prescribed fee for a conformity certificate is £17[^key-72f7a78fbe602268d9ba8135f71d0bec].
+The prescribed fee for a conformity certificate is £17[^c-72f7a78fbe602268d9ba8135f71d0bec].
 
 ## PART VII — Miscellaneous
 
-### 18. Issue of duplicate documentation[^key-23d7764cf0912894bd6fae804287a226]
+### 18. Issue of duplicate documentation[^c-23d7764cf0912894bd6fae804287a226]
 
 (1) If an accessibility certificate or a conformity certificate has been lost or destroyed, the owner of the vehicle to which it relates shall forthwith notify the Secretary of State and the Secretary of State, if satisfied that the certificate has been lost or destroyed, may issue a copy of the certificate marked as a duplicate.
 
@@ -323,9 +323,9 @@ The prescribed fee for a conformity certificate is £17[^key-72f7a78fbe602268d9b
 
 (4) A copy of a certificate issued and marked as a duplicate in accordance with paragraph (1) or (3) shall have the same effect as the original certificate.
 
-(5) The prescribed fee for the issue of a copy of a certificate under this regulation is £13[^key-59f3696e7e9158aaa23eff70c57f0917].
+(5) The prescribed fee for the issue of a copy of a certificate under this regulation is £13[^c-59f3696e7e9158aaa23eff70c57f0917].
 
-### 19. Reviews and appeals[^key-49af1e899cdfc44611eddd7fbbc6ff0f]
+### 19. Reviews and appeals[^c-49af1e899cdfc44611eddd7fbbc6ff0f]
 
 (1) This regulation applies where the Secretary of State refuses to issue a type vehicle approval under section 42(1) of the Act and where a vehicle examiner refuses to issue an accessibility certificate under section 41(1)(a) of the Act or a conformity certificate under section 42(4) of the Act.
 
@@ -359,7 +359,7 @@ Regulation 3
 
 ### PART I — WHEELCHAIR ACCESSIBILITY REQUIREMENTS
 
-#### 1. Definitions[^key-76b922522c1143f6c7475e140133635c]
+#### 1. Definitions[^c-76b922522c1143f6c7475e140133635c]
 
 In this Schedule—
 
@@ -386,7 +386,7 @@ In this Schedule—
 - “wheelchair user” means a disabled person using a wheelchair; and
 - “wheelchair user restraint” means a system which is designed to keep a wheelchair user restrained in the wheelchair.
 
-#### 2. Wheelchair spaces[^key-e6deb09442ab2849d2a65461fbbd3dde]
+#### 2. Wheelchair spaces[^c-e6deb09442ab2849d2a65461fbbd3dde]
 
 (1) A regulated public service vehicle shall be fitted with not less than one wheelchair space.
 
@@ -397,7 +397,7 @@ In this Schedule—
 - (a) shall comply with the requirements of paragraph 3; or
 - (b) where the vehicle is adapted to carry standing passengers and is not fitted with any seat belts for passengers which are required to be fitted by regulation, may comply with the requirements of paragraph 4 as an alternative to the requirements of paragraph 3.
 
-#### 3. Forward-facing wheelchairs[^key-45b35c010d66c13e31eec4057414530c]
+#### 3. Forward-facing wheelchairs[^c-45b35c010d66c13e31eec4057414530c]
 
 (1) Any wheelchair space fitted to a regulated public service vehicle shall comply with the following requirements—
 
@@ -470,7 +470,7 @@ In this Schedule—
 - (c) in the case of the test specified in sub-paragraph (7), the wheelchair shall not move more than 200mm in the longitudinal plane of the vehicle during the test; and
 - (d) no part of the system shall be deformed to such an extent after completion of the test that, because of sharp edges or other protrusions, the part is capable of causing injury.
 
-#### 4. Rearward-facing wheelchairs[^key-5d7dae9a729c1e96351347c233eeb85c]
+#### 4. Rearward-facing wheelchairs[^c-5d7dae9a729c1e96351347c233eeb85c]
 
 (1) Any wheelchair space fitted to a regulated public service vehicle shall comply with the following requirements—
 
@@ -525,7 +525,7 @@ In this Schedule—
 
 (8) In this paragraph, the phrase “front end of a wheelchair space” means the end of a wheelchair space that is closer to the front of the regulated public service vehicle to which the wheelchair space is fitted.
 
-#### 5. Boarding lifts and ramps[^key-7b6e1b5a67474bfaed40ddc52753d42f]
+#### 5. Boarding lifts and ramps[^c-7b6e1b5a67474bfaed40ddc52753d42f]
 
 (1) A regulated public service vehicle shall be fitted with not less than one boarding lift or one boarding ramp, or shall carry not less than one portable ramp.
 
@@ -539,8 +539,8 @@ In this Schedule—
 (3) Any boarding ramp fitted to a regulated public service vehicle shall (subject to (d) below) comply with the following requirements—
 
 - (a) a boarding ramp shall have a surface of not less than 800mm in width;
-- (b)[^key-0bba32baca8306e9e2bd240536164a72] no part of the surface in sub-paragraph (3)(a), and no part of the vehicle, shall present an obstruction greater than 15mm in height measured along a plane parallel to, and above, the surface of the ramp, and in the direction of travel of a reference wheelchair when moved into or from the vehicle;
-- (c) with the vehicle on a flat surface, in the normal condition for a wheelchair user to board or alight, and with the boarding ramp extended and sitting on a kerb of 125mm in height measured vertically from and parallel to the ground, the surface of a boarding ramp shall have a slope measured over the surface referred to in sub-paragraph (3)(a) of not more than 8°[^key-687dbed62d1a37037293a65e2be846d5] measured relative to the ground;
+- (b)[^c-0bba32baca8306e9e2bd240536164a72] no part of the surface in sub-paragraph (3)(a), and no part of the vehicle, shall present an obstruction greater than 15mm in height measured along a plane parallel to, and above, the surface of the ramp, and in the direction of travel of a reference wheelchair when moved into or from the vehicle;
+- (c) with the vehicle on a flat surface, in the normal condition for a wheelchair user to board or alight, and with the boarding ramp extended and sitting on a kerb of 125mm in height measured vertically from and parallel to the ground, the surface of a boarding ramp shall have a slope measured over the surface referred to in sub-paragraph (3)(a) of not more than 8°[^c-687dbed62d1a37037293a65e2be846d5] measured relative to the ground;
 - (d) notwithstanding (c) above, a boarding ramp may have—
   - (i) at the intersection of the surface of the kerb and the surface of the ramp described above, a slope not exceeding 15° relative to the ground over a distance of not more than 150mm (measured along the surface of the ramp and parallel to the direction of travel of a reference wheelchair when it is moved from the kerb and onto the ramp surface), and
   - (ii) at any other point a slope not exceeding 15° relative to the ground over a distance of not more than 150mm (measured along the surface of the ramp and parallel to the direction of travel of a reference wheelchair when it is moved into the vehicle) and rising to a height of not more than 15mm (measured above and parallel to the surface of the ramp or its sections);
@@ -596,7 +596,7 @@ In this Schedule—
 
 (11) In this paragraph “master control” means a control which enables another control to activate the relevant system, but which is not itself alone capable of activating that system.
 
-#### 6. Entrances and exits[^key-5dd474bb61e023e8bce5f9d9d2abdc70]
+#### 6. Entrances and exits[^c-5dd474bb61e023e8bce5f9d9d2abdc70]
 
 (1) Any entrance or exit which is intended to provide access for a wheelchair user shall have a clear unobstructed width of not less than 800mm.
 
@@ -607,7 +607,7 @@ In this Schedule—
 
 (3) Sub-paragraph (2) shall not apply to a power-operated boarding lift or a power-operated ramp which can only be operated by a control fitted in accordance with paragraph 5(5)(a)(ii).
 
-#### 7. Gangways[^key-709bfae53318a72da2d6a5b02c130e62]
+#### 7. Gangways[^c-709bfae53318a72da2d6a5b02c130e62]
 
 Any gangway between a wheelchair space and an entrance or exit intended to provide access for a wheelchair user—
 
@@ -615,7 +615,7 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 - (b) shall not be less than 750mm wide at any point along the gangway; and
 - (c) where a vehicle is fitted with more than one wheelchair space, the requirement in (a) above shall be met with any other wheelchair space occupied with a reference wheelchair.
 
-#### 8. Signs and markings[^key-ad9a7bf826d75eecf2da82c533e805a9]
+#### 8. Signs and markings[^c-ad9a7bf826d75eecf2da82c533e805a9]
 
 (1) A regulated public service vehicle shall have a sign conforming with diagram B in Part II of this Schedule, or a sign of equivalent meaning conforming to the dimensions in that diagram, which is—
 
@@ -635,7 +635,7 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 
 (3) Where a regulated public service vehicle is fitted with a wheelchair space for a forward facing wheelchair in accordance with the requirements of paragraph 3, instructions on the use of the wheelchair restraint system and wheelchair user restraint shall be situated in a position readily visible to any person using the system.
 
-#### 9. Communication devices[^key-b2ae9ad761749805e1c14fd16633a944]
+#### 9. Communication devices[^c-b2ae9ad761749805e1c14fd16633a944]
 
 (1) A communication device shall be fitted to a regulated public service vehicle in the following positions—
 
@@ -662,13 +662,13 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 - (a) shall not use only capital letters; and
 - (b) shall display illuminated the word “stopping” or a word or words to that effect immediately a communication device is activated and until at least one of the exits is open.
 
-#### 10. Lighting[^key-b87d5dcf36f8807092aa481d245a47e9]
+#### 10. Lighting[^c-b87d5dcf36f8807092aa481d245a47e9]
 
 (1) Lighting shall be fitted to illuminate the interior and exterior of a regulated public service vehicle sufficient to allow a wheelchair user to board and alight from the vehicle in safety.
 
-(2)[^key-68383bd5a4c5de95c1d180abedce998a] Any lighting fitted to a regulated public service vehicle in accordance with sub-paragraph (1) shall have a means of preventing its operation when the vehicle is in motion if its use is likely to affect adversely the driver’s vision.
+(2)[^c-68383bd5a4c5de95c1d180abedce998a] Any lighting fitted to a regulated public service vehicle in accordance with sub-paragraph (1) shall have a means of preventing its operation when the vehicle is in motion if its use is likely to affect adversely the driver’s vision.
 
-### PART II — Diagram A—Wheelchair Dimensions[^key-02d70abb13b309668edebe6b9bfab603][^key-35e2aeabedc53eaca17f74f41b1be1d0]
+### PART II — Diagram A—Wheelchair Dimensions[^c-02d70abb13b309668edebe6b9bfab603][^c-35e2aeabedc53eaca17f74f41b1be1d0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2000/1970/images/uksi_20001970_en_epp_001.gif)
 
@@ -680,7 +680,7 @@ Any gangway between a wheelchair space and an entrance or exit intended to provi
 
 Regulation 3
 
-### 1. Definitions[^key-0a0a38c22520afa363dfcb6a525c4a5a]
+### 1. Definitions[^c-0a0a38c22520afa363dfcb6a525c4a5a]
 
 In this Schedule—
 
@@ -701,9 +701,9 @@ In this Schedule—
 - “priority floor area” means a single continuous area of floor space comprising not less than 35% of the total floor area of a regulated public service vehicle;
 - “priority seat” means a seat designated as such in accordance with paragraph 3;
 - “seat” means a seat intended for use by passengers and, accordingly, does not include the driver’s seat or any other seat intended for use solely by a crew member; and
-- “total floor area” means the total floor area of a regulated public[^key-8e056db809ffd38e3672efb8e800c506] service vehicle, or in the case of a double-deck bus the total floor area of the vehicle’s lower deck, excluding the driver’s cab, wheelboxes, stepwells, internal staircases and any space designated for the storage of luggage.
+- “total floor area” means the total floor area of a regulated public[^c-8e056db809ffd38e3672efb8e800c506] service vehicle, or in the case of a double-deck bus the total floor area of the vehicle’s lower deck, excluding the driver’s cab, wheelboxes, stepwells, internal staircases and any space designated for the storage of luggage.
 
-### 2. Floor and gangways[^key-383b4af98bbf683036e6dbfe2d5eaada]
+### 2. Floor and gangways[^c-383b4af98bbf683036e6dbfe2d5eaada]
 
 (1) All floors within the total floor area of a regulated public service vehicle shall be slip-resistant.
 
@@ -719,7 +719,7 @@ In this Schedule—
 - (a) not less than 450mm up to a height of 1400mm measured vertically from the floor of the vehicle, and
 - (b) not less than 550mm at heights exceeding 1400mm measured vertically from the floor of the vehicle.
 
-### 3. Priority seats[^key-6cd0f56849f6fd9589bf6d6bb73cbaec]
+### 3. Priority seats[^c-6cd0f56849f6fd9589bf6d6bb73cbaec]
 
 (1) A regulated public service vehicle shall have not less than 4 seats designated by signs complying with sub-paragraph (3) as priority seats for use by disabled persons.
 
@@ -752,7 +752,7 @@ In this Schedule—
 
 (4) In sub-paragraph (2) the phrase “manufacturer’s nominal position for normal use” means the position of an adjustable seat which the manufacturer of the seat recommends, or has nominated, as being the normal position for using that seat.
 
-### 4. Steps[^key-e98148a7bb851da2a498a717c8849122]
+### 4. Steps[^c-e98148a7bb851da2a498a717c8849122]
 
 (1) Steps for use by passengers on a regulated public service vehicle shall (subject to sub-paragraph (6)) comply with the following requirements—
 
@@ -778,7 +778,7 @@ In this Schedule—
 
 (4) A regulated public service vehicle shall not be fitted with a step which can project beyond the side of the vehicle adjacent to the step unless—
 
-- (a) the step is protected by parts of the vehicle or otherwise so that it[^key-fa363864cd01b800a91ced57e8310583] is not liable to injure pedestrians; or
+- (a) the step is protected by parts of the vehicle or otherwise so that it[^c-fa363864cd01b800a91ced57e8310583] is not liable to injure pedestrians; or
 - (b) the step can fold or retract so that it does not project beyond the side face of the vehicle and the vehicle is not capable in the normal course of being driven away unless the step is so folded or retracted.
 
 (5) Where a regulated public service vehicle is fitted with a power-operated step, that step shall—
@@ -788,13 +788,13 @@ In this Schedule—
 
 (6) Sub-paragraphs (1)(d), (e) and (g) shall not apply to those steps in a double-deck bus which lead from the lower deck to the upper deck.
 
-### 5. Handrails and handholds[^key-65d3501214bd3bda6ae12ae1675463ac]
+### 5. Handrails and handholds[^c-65d3501214bd3bda6ae12ae1675463ac]
 
 (1) A handrail shall (subject to sub-paragraph (2)) be fitted in the following positions in a regulated public service vehicle—
 
 - (a) along one or both sides of a gangway—
   - (i) from a position level with the top of the back of a seat extending to the ceiling of the vehicle, or to a height of not less than 1500mm measured vertically from the floor of the vehicle, at intervals of not more than 1050mm measured in the longitudinal direction of the vehicle, or
-  - (ii) in areas where there are no seats adjacent to a gangway, from the floor or, where there is a wheel arch or similar structure, from the lowest height which is practicable to, in either case, the ceiling or[^key-e63c8f570f8a0ad8118ff1494913644f] a height of not less than 1500mm measured vertically from the floor of the vehicle, at intervals of not more than 1050mm measured in the longitudinal direction of the vehicle, and
+  - (ii) in areas where there are no seats adjacent to a gangway, from the floor or, where there is a wheel arch or similar structure, from the lowest height which is practicable to, in either case, the ceiling or[^c-e63c8f570f8a0ad8118ff1494913644f] a height of not less than 1500mm measured vertically from the floor of the vehicle, at intervals of not more than 1050mm measured in the longitudinal direction of the vehicle, and
   - (iii) where the gangway is adjacent to the internal walls of the vehicle, horizontally along the internal wall of the vehicle and parallel to those walls at a height of not less than 1200mm and not more than 1500mm measured vertically from the floor of the vehicle;
 - (b) in any area where passengers may stand other than a gangway—
   - (i) where the area is adjacent to the internal walls of the vehicle, horizontally along the internal walls of the vehicle and parallel to those walls at a height of not less than 1200mm and not more than 1500mm measured vertically from the floor of the vehicle, and
@@ -835,7 +835,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 - (a) it is unlikely to cause injury; and
 - (b) it is easily moveable to the extent required to permit unrestricted access by a disabled person to a priority seat or to the gangway.
 
-### 6. Communication devices[^key-690d4cea6ee17cb1a445dcb75304a363]
+### 6. Communication devices[^c-690d4cea6ee17cb1a445dcb75304a363]
 
 (1) A communication device shall be fitted in the following positions in a regulated public service vehicle—
 
@@ -861,7 +861,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 - (a) shall not use only capital letters; and
 - (b) shall display illuminated the word “stopping” or a word or words to that effect immediately a communication device is activated and until at least one of the exits is open.
 
-### 7. Kneeling Systems[^key-562e76880fa71a53348c6ef01321110c]
+### 7. Kneeling Systems[^c-562e76880fa71a53348c6ef01321110c]
 
 (1) Where a regulated public service vehicle is fitted with a kneeling system, the vehicle and system shall comply with the following requirements—
 
@@ -876,7 +876,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 
 (2) In this paragraph “emergency door” means an external door which is generally intended for use only in an emergency.
 
-### 8. Route and destination displays[^key-11690f0141f8993298185a3f05016660]
+### 8. Route and destination displays[^c-11690f0141f8993298185a3f05016660]
 
 (1) A regulated public service vehicle shall be fitted with a route number display and a destination display in the following positions—
 
@@ -911,7 +911,7 @@ a horizontal handrail or, at intervals of not more than 300mm, a series of handh
 
 Regulation 3
 
-### 1. Definitions[^key-b120b193f24eed76d3484da32e351c6d]
+### 1. Definitions[^c-b120b193f24eed76d3484da32e351c6d]
 
 In this Schedule—
 
@@ -921,20 +921,20 @@ In this Schedule—
 - “exit” means an exit from a regulated public service vehicle but does not include an exit which is provided for use only in case of emergency;
 - “external step” means the last step or platform from an entrance or an exit which leads directly from the vehicle to the ground;
 - “gangway” means the space provided for obtaining access from any entrance to the passengers' seats or from any such seat to an exit other than an emergency exit, but does not include a staircase or any space in front of a seat or row of seats which is required only for the use of passengers occupying the seat or row of seats;
-- “km/h” means kilometre(s)[^key-ea14b4e08b14e15696803db05d0c2a75] per hour;
+- “km/h” means kilometre(s)[^c-ea14b4e08b14e15696803db05d0c2a75] per hour;
 - “kneeling system” means a system which enables the bodywork of a regulated public service vehicle to be lowered relative to its normal height of travel;
 - “mm” means millimetre(s);
 - “N” means newton(s);
 - “normal height of travel” means the height specified by the vehicle’s manufacturer for normal vehicle travel; and
 - “seat” means a seat intended for use by passengers and, accordingly, does not include the driver’s seat or any other seat intended for use solely by a crew member.
 
-### 2. Floors and gangways[^key-0388997d63728260932db1bbb349d7a7]
+### 2. Floors and gangways[^c-0388997d63728260932db1bbb349d7a7]
 
 (1) All floors within a regulated public service vehicle shall be slip-resistant.
 
 (2) Any gangway within a regulated public service vehicle shall have a slope of not more than 5° in any direction, when the vehicle is unladen standing on a level surface and in its normal condition of travel.
 
-### 3. Seats[^key-8cc71b7912ffdd0ae639f0cb231ff61f]
+### 3. Seats[^c-8cc71b7912ffdd0ae639f0cb231ff61f]
 
 (1) Any seat fitted to a regulated public service vehicle shall comply with the following requirements—
 
@@ -952,7 +952,7 @@ In this Schedule—
 
 (2) In this paragraph, “manufacturer’s nominal position for normal use” means the position of an adjustable seat which the manufacturer of the seat recommends, or has nominated, as being the normal position for using the seat.
 
-### 4. Steps[^key-3562e3e8a575f6493951d0338cec47f2]
+### 4. Steps[^c-3562e3e8a575f6493951d0338cec47f2]
 
 (1) Steps for use by passengers on a regulated public service vehicle shall, except as provided in sub-paragraph (4), comply with the following requirements—
 
@@ -994,7 +994,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - (a) not be capable of operation whilst the vehicle is in motion, and
 - (b) be fitted with a safety device which stops the motion of the step if the step is subject to a reactive force not exceeding 150N in any direction and if that motion could cause injury to a passenger.
 
-### 5. Handrails[^key-6869279a2a394e5b025aab382cced192]
+### 5. Handrails[^c-6869279a2a394e5b025aab382cced192]
 
 (1) A handrail shall (subject to sub-paragraph (2)) be fitted in the following positions in a regulated public service vehicle—
 
@@ -1019,7 +1019,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - (e) be capable of being easily and firmly gripped by a passenger; and
 - (f) contrast with the parts of the vehicle adjacent to the handrail.
 
-### 6. Kneeling Systems[^key-0151200caf06d400421647927dc0adcb]
+### 6. Kneeling Systems[^c-0151200caf06d400421647927dc0adcb]
 
 (1) Where a regulated public service vehicle is fitted with a kneeling system, the vehicle and system shall comply with the following requirements—
 
@@ -1034,7 +1034,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 
 (2) In this paragraph “emergency door” means an external door which is generally intended for use only in an emergency.
 
-### 7. Route and destination displays[^key-2773bba417700ef6374ac5a83c9e4e60]
+### 7. Route and destination displays[^c-2773bba417700ef6374ac5a83c9e4e60]
 
 (1) A regulated public service vehicle shall be fitted with a route number display and a destination display in the following positions—
 
@@ -1065,7 +1065,7 @@ the requirements of sub-paragraphs (1)(d) and (3) shall only apply to one of tho
 - “destination” means a word or words to describe the route or final destination; and
 - “route number” means any combination of numbers or letters which designate a coach route.
 
-## SCHEDULE 4 — ACCESSIBILITY CERTIFICATE[^key-4d9cc2cac82b5c77a314fee6f5c24ccc][^M_F_8d4b18fe-4771-48a9-bc01-1d1a78206a8e][^M_F_842329f7-8bfb-4b2f-de51-6215d103dcc3]
+## SCHEDULE 4 — ACCESSIBILITY CERTIFICATE[^c-4d9cc2cac82b5c77a314fee6f5c24ccc][^M_F_8d4b18fe-4771-48a9-bc01-1d1a78206a8e][^M_F_842329f7-8bfb-4b2f-de51-6215d103dcc3]
 
 *Extent: E+W+S*
 
@@ -1075,7 +1075,7 @@ ACCESSIBILITY CERTIFICATE
 
 [image: see source](https://www.legislation.gov.uk/uksi/2000/1970/images/uksi_20001970_en_003)
 
-## SCHEDULE 5 — DECLARATION OF CONFORMITY TO AN APPROVED TYPE VEHICLE[^key-1456dae61a055a2106dc9ac4fc06cb93][^M_F_91fe43c8-da25-4a07-bd37-2a2b588241c6][^M_F_98fff461-61ab-4f51-a835-498c0e1d4978]
+## SCHEDULE 5 — DECLARATION OF CONFORMITY TO AN APPROVED TYPE VEHICLE[^c-1456dae61a055a2106dc9ac4fc06cb93][^M_F_91fe43c8-da25-4a07-bd37-2a2b588241c6][^M_F_98fff461-61ab-4f51-a835-498c0e1d4978]
 
 *Extent: E+W+S*
 
@@ -1085,7 +1085,7 @@ DECLARATION OF CONFORMITY TO AN APPROVED TYPE VEHICLE
 
 [image: see source](https://www.legislation.gov.uk/uksi/2000/1970/images/uksi_20001970_en_004)
 
-## SCHEDULE 6 — CONFORMITY CERTIFICATE[^key-8f40c04b9fa70ce9bff282045a1f9aa0][^M_F_c2a1c296-75cd-46c2-caa6-4419398a9807][^M_F_9dccffcb-e513-4f3a-bc27-ec5311dc3f7e]
+## SCHEDULE 6 — CONFORMITY CERTIFICATE[^c-8f40c04b9fa70ce9bff282045a1f9aa0][^M_F_c2a1c296-75cd-46c2-caa6-4419398a9807][^M_F_9dccffcb-e513-4f3a-bc27-ec5311dc3f7e]
 
 Regulation 16
 
@@ -1117,13 +1117,13 @@ A Regulatory Impact Assessment of the costs and benefits of the making of these 
 
 [^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50)
 
-[^key-6f3939b734880ec6215b507defe5708b]: Modification: [Sch. 3 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3) excluded (1.1.2003) by [The Public Service Vehicles Accessibility Regulations 2000 (S.I. 2000/1970)](https://www.legislation.gov.uk/uksi/2000/1970), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4/2)
+[^c-6f3939b734880ec6215b507defe5708b]: Modification: [Sch. 3 para. 7(3)(c)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3) excluded (1.1.2003) by [The Public Service Vehicles Accessibility Regulations 2000 (S.I. 2000/1970)](https://www.legislation.gov.uk/uksi/2000/1970), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4/2)
 
-[^key-239d695178800791e5617b1bc082a085]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/1970) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+[^c-239d695178800791e5617b1bc082a085]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2000/1970) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2779) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
 
-[^key-1df0f9ed7b65b3cd3896c1592dfd5727]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-1df0f9ed7b65b3cd3896c1592dfd5727]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-e9b926b510cd5a08c277fab7de442a7e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1970/regulation/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-e9b926b510cd5a08c277fab7de442a7e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1970/regulation/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^f00002]: Footnote: O.J. L. 42, 23.02.70, p. 1.
 
@@ -1151,167 +1151,167 @@ A Regulatory Impact Assessment of the costs and benefits of the making of these 
 
 [^f00014]: Footnote: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536).
 
-[^key-f7f322f68334da81f01589f418eb1ea2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1970/regulation/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-f7f322f68334da81f01589f418eb1ea2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1970/regulation/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-64dd7ea00a3724d07f327a30e87bccbd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-64dd7ea00a3724d07f327a30e87bccbd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^f00015]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-7d179770fab6800b86eb706ef5fe930c]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4) substituted (31.12.2002) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2002 (S.I. 2002/2981)](https://www.legislation.gov.uk/uksi/2002/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/2/2)
+[^c-7d179770fab6800b86eb706ef5fe930c]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4) substituted (31.12.2002) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2002 (S.I. 2002/2981)](https://www.legislation.gov.uk/uksi/2002/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/2/2)
 
-[^key-dce09b82de4ae032b3d93c66b90e2504]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-dce09b82de4ae032b3d93c66b90e2504]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-930b528a99aeae6a45e678b46107a149]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5) substituted (12.12.2005) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2005 (S.I. 2005/2988)](https://www.legislation.gov.uk/uksi/2005/2988), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2988/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/2988/regulation/2)
+[^c-930b528a99aeae6a45e678b46107a149]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5) substituted (12.12.2005) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2005 (S.I. 2005/2988)](https://www.legislation.gov.uk/uksi/2005/2988), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2988/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/2988/regulation/2)
 
-[^key-8b69b26053b73c5f61b85778faf460c9]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/2) substituted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/2)
+[^c-8b69b26053b73c5f61b85778faf460c9]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/2) substituted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/2)
 
-[^key-475dcabfadf0dcf153ad734757a1df88]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/3) substituted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/3)
+[^c-475dcabfadf0dcf153ad734757a1df88]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/3) substituted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/3)
 
-[^key-a2114c5b5e66a8611f2cac5d81981d3f]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/4) inserted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/4)
+[^c-a2114c5b5e66a8611f2cac5d81981d3f]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/4) inserted (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/4)
 
-[^key-8c04d4fe2f6048fa5df3d2a4be6d1f5f]: Textual amendment: [Reg. 5(5)(d)-(g)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/5/d) added (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/5)
+[^c-8c04d4fe2f6048fa5df3d2a4be6d1f5f]: Textual amendment: [Reg. 5(5)(d)-(g)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/5/5/d) added (3.3.2009) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2009 (S.I. 2009/143)](https://www.legislation.gov.uk/uksi/2009/143), [regs. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/143/regulation/2/5)
 
-[^key-66d5e959dd8d5c15449f48521446a8bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/1970/regulation/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-66d5e959dd8d5c15449f48521446a8bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/1970/regulation/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-8e91823a4a250d8adce23de2e5fbb0fe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-8e91823a4a250d8adce23de2e5fbb0fe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-53cd0137b6d5269d331a5fe6350196ab]: Textual amendment: Word in [reg. 7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/a/i) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-53cd0137b6d5269d331a5fe6350196ab]: Textual amendment: Word in [reg. 7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/a/i) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-eba638a91fa55797e9c93709f13d91e3]: Textual amendment: Word in [reg. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/a/ii) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-eba638a91fa55797e9c93709f13d91e3]: Textual amendment: Word in [reg. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/a/ii) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-d78a724d6d1f377b30887513aa40d639]: Textual amendment: Word in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/b/i) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-d78a724d6d1f377b30887513aa40d639]: Textual amendment: Word in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/b/i) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-6a66942ba0cabb45280cd324654aad52]: Textual amendment: Word in [reg. 7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/b/ii) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-6a66942ba0cabb45280cd324654aad52]: Textual amendment: Word in [reg. 7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/7/2/b/ii) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-1dffc9cca7cb27974a19125379706423]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/1970/regulation/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-1dffc9cca7cb27974a19125379706423]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2000/1970/regulation/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-fe073b49ef6e43adaf91ed5ef3fc0aff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/1970/regulation/9) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-fe073b49ef6e43adaf91ed5ef3fc0aff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2000/1970/regulation/9) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-8bd322a7b38c66f6f6a23d2784bbad8e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/1970/regulation/10) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-8bd322a7b38c66f6f6a23d2784bbad8e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/1970/regulation/10) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-b23d54cdaa597121238a1066a2551039]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/1970/regulation/11) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-b23d54cdaa597121238a1066a2551039]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2000/1970/regulation/11) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-2c732f68af368bdbbdeb6c88eec32d74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-2c732f68af368bdbbdeb6c88eec32d74]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-4e8e4a99b542940fafaedd30e47dabe1]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/2/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-4e8e4a99b542940fafaedd30e47dabe1]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/2/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-5c9f34965ecad69b3ee4aa98515376b4]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/2/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-5c9f34965ecad69b3ee4aa98515376b4]: Textual amendment: Word in [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/2/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-1769928d6123b5902f81efa58fffcdef]: Textual amendment: Word in [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/4/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-1769928d6123b5902f81efa58fffcdef]: Textual amendment: Word in [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/4/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-cbeda34e2913aa493390013fa02c55d5]: Textual amendment: Word in [reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/4/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-cbeda34e2913aa493390013fa02c55d5]: Textual amendment: Word in [reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/4/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-99455e6abafac0a638ec0a0bade80e01]: Textual amendment: Word in [reg. 12(5)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/5/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-99455e6abafac0a638ec0a0bade80e01]: Textual amendment: Word in [reg. 12(5)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/5/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-f1b279e278a3f966e51a3d359a5764fc]: Textual amendment: Word in [reg. 12(5)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/5/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-f1b279e278a3f966e51a3d359a5764fc]: Textual amendment: Word in [reg. 12(5)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/5/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-285172eddd3b6b6fcbae1aea0c50b48c]: Textual amendment: Word in [reg. 12(6)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/6/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-285172eddd3b6b6fcbae1aea0c50b48c]: Textual amendment: Word in [reg. 12(6)(a)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/6/a) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-32b29fb5ef9bbbe9000d31da4bf795ec]: Textual amendment: Word in [reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/6/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-32b29fb5ef9bbbe9000d31da4bf795ec]: Textual amendment: Word in [reg. 12(6)(b)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/12/6/b) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-364cd96ded2367dc5302296cdca1eeb4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/1970/regulation/13) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-364cd96ded2367dc5302296cdca1eeb4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/1970/regulation/13) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-e996d72c2f2316254e255dc912efe12c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/1970/regulation/14) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-e996d72c2f2316254e255dc912efe12c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2000/1970/regulation/14) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-cac6f7326079197ce36c601864863930]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/1970/regulation/15) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-cac6f7326079197ce36c601864863930]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2000/1970/regulation/15) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-555c712cfcb57a3eb07549216f785eb1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/1970/regulation/16) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-555c712cfcb57a3eb07549216f785eb1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2000/1970/regulation/16) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-c4f66e848b39bf14eb2f68432384a512]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/1970/regulation/17) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-c4f66e848b39bf14eb2f68432384a512]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2000/1970/regulation/17) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-72f7a78fbe602268d9ba8135f71d0bec]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2000/1970/regulation/17) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-72f7a78fbe602268d9ba8135f71d0bec]: Textual amendment: Word in [reg. 17](https://www.legislation.gov.uk/uksi/2000/1970/regulation/17) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-23d7764cf0912894bd6fae804287a226]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/1970/regulation/18) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-23d7764cf0912894bd6fae804287a226]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2000/1970/regulation/18) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-59f3696e7e9158aaa23eff70c57f0917]: Textual amendment: Word in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/18/5) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
+[^c-59f3696e7e9158aaa23eff70c57f0917]: Textual amendment: Word in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/18/5) substituted (3.5.2009) by [The Public Service Vehicles Accessibility (Amendment)(No.2) Regulations 2009 (S.I. 2009/876)](https://www.legislation.gov.uk/uksi/2009/876), [regs. 1](https://www.legislation.gov.uk/uksi/2009/876/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/876/regulation/2/2)
 
-[^key-49af1e899cdfc44611eddd7fbbc6ff0f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/1970/regulation/19) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-49af1e899cdfc44611eddd7fbbc6ff0f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2000/1970/regulation/19) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-76b922522c1143f6c7475e140133635c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-76b922522c1143f6c7475e140133635c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^f00016]: Footnote: O.J. L. 024, 30.01.76, p. 6; relevant amendments are Council Directives [81/575/EEC](https://www.legislation.gov.uk/european/directive/1981/0575) (O.J. L. 209, 29.07.81, p. 30), [82/318/EEC](https://www.legislation.gov.uk/european/directive/1982/0318) (O.J. L. 139, 19.05.82, p. 9) and [90/629/EEC](https://www.legislation.gov.uk/european/directive/1990/0629) (O.J. L. 341, 6.12.90, p. 14);
 
 [^f00017]: Footnote: O.J. L. 220, 29.08.77, p. 95; relevant amendments are Council Directives [81/576/EEC](https://www.legislation.gov.uk/european/directive/1981/0576) (O.J. L. 209, 29.07.81, p. 32), [82/319/EEC](https://www.legislation.gov.uk/european/directive/1982/0319) (O.J. L. 139, 19.05.82, p. 17) and [90/628/EEC](https://www.legislation.gov.uk/european/directive/1990/0628) L. 187 26.07.96, p. 95 (O.J. L. 341, 6.12.90, p. 1).
 
-[^key-e6deb09442ab2849d2a65461fbbd3dde]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-e6deb09442ab2849d2a65461fbbd3dde]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-45b35c010d66c13e31eec4057414530c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-45b35c010d66c13e31eec4057414530c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-5d7dae9a729c1e96351347c233eeb85c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-5d7dae9a729c1e96351347c233eeb85c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-7b6e1b5a67474bfaed40ddc52753d42f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-7b6e1b5a67474bfaed40ddc52753d42f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-0bba32baca8306e9e2bd240536164a72]: Modification: [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5/3/b) excluded (1.1.2003) by [The Public Service Vehicles Accessibility Regulations 2000 (S.I. 2000/1970)](https://www.legislation.gov.uk/uksi/2000/1970), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4/2)
+[^c-0bba32baca8306e9e2bd240536164a72]: Modification: [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5/3/b) excluded (1.1.2003) by [The Public Service Vehicles Accessibility Regulations 2000 (S.I. 2000/1970)](https://www.legislation.gov.uk/uksi/2000/1970), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2000/1970/regulation/4/2)
 
-[^key-687dbed62d1a37037293a65e2be846d5]: Textual amendment: Word in [Sch. 1 para. 5(3)(c)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5/3/c) substituted (31.12.2002) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2002 (S.I. 2002/2981)](https://www.legislation.gov.uk/uksi/2002/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/2/3)
+[^c-687dbed62d1a37037293a65e2be846d5]: Textual amendment: Word in [Sch. 1 para. 5(3)(c)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/5/3/c) substituted (31.12.2002) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2002 (S.I. 2002/2981)](https://www.legislation.gov.uk/uksi/2002/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2981/regulation/2/3)
 
-[^key-5dd474bb61e023e8bce5f9d9d2abdc70]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-5dd474bb61e023e8bce5f9d9d2abdc70]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-709bfae53318a72da2d6a5b02c130e62]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-709bfae53318a72da2d6a5b02c130e62]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-ad9a7bf826d75eecf2da82c533e805a9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-ad9a7bf826d75eecf2da82c533e805a9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-b2ae9ad761749805e1c14fd16633a944]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/9) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-b2ae9ad761749805e1c14fd16633a944]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/9) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-b87d5dcf36f8807092aa481d245a47e9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/10) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-b87d5dcf36f8807092aa481d245a47e9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/10) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-68383bd5a4c5de95c1d180abedce998a]: Textual amendment: [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/10/2) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/3/1)
+[^c-68383bd5a4c5de95c1d180abedce998a]: Textual amendment: [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/paragraph/10/2) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/3/1)
 
-[^key-02d70abb13b309668edebe6b9bfab603]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/part/II) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-02d70abb13b309668edebe6b9bfab603]: Commencement: [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/part/II) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-35e2aeabedc53eaca17f74f41b1be1d0]: Textual amendment: Image in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/part/II) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3318/schedule)
+[^c-35e2aeabedc53eaca17f74f41b1be1d0]: Textual amendment: Image in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2000/1970/schedule/1/part/II) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3318/schedule)
 
-[^key-0a0a38c22520afa363dfcb6a525c4a5a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-0a0a38c22520afa363dfcb6a525c4a5a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-8e056db809ffd38e3672efb8e800c506]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/1) inserted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/1)
+[^c-8e056db809ffd38e3672efb8e800c506]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/1) inserted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/1)
 
-[^key-383b4af98bbf683036e6dbfe2d5eaada]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-383b4af98bbf683036e6dbfe2d5eaada]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-6cd0f56849f6fd9589bf6d6bb73cbaec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-6cd0f56849f6fd9589bf6d6bb73cbaec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-e98148a7bb851da2a498a717c8849122]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-e98148a7bb851da2a498a717c8849122]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-fa363864cd01b800a91ced57e8310583]: Textual amendment: Word in [Sch. 2 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/4/4/a) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/2)
+[^c-fa363864cd01b800a91ced57e8310583]: Textual amendment: Word in [Sch. 2 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/4/4/a) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/2)
 
-[^key-65d3501214bd3bda6ae12ae1675463ac]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-65d3501214bd3bda6ae12ae1675463ac]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-e63c8f570f8a0ad8118ff1494913644f]: Textual amendment: Words in [Sch. 2 para. 5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/5/1/a/ii) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/3)
+[^c-e63c8f570f8a0ad8118ff1494913644f]: Textual amendment: Words in [Sch. 2 para. 5(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/5/1/a/ii) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2000/3318/regulation/4/3)
 
-[^key-690d4cea6ee17cb1a445dcb75304a363]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-690d4cea6ee17cb1a445dcb75304a363]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-562e76880fa71a53348c6ef01321110c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-562e76880fa71a53348c6ef01321110c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-11690f0141f8993298185a3f05016660]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-11690f0141f8993298185a3f05016660]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2000/1970/schedule/2/paragraph/8) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-b120b193f24eed76d3484da32e351c6d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-b120b193f24eed76d3484da32e351c6d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/1) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-ea14b4e08b14e15696803db05d0c2a75]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/1) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/3318/regulation/5)
+[^c-ea14b4e08b14e15696803db05d0c2a75]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/1) substituted (15.1.2001) by [The Public Service Vehicles Accessibility (Amendment) Regulations 2000 (S.I. 2000/3318)](https://www.legislation.gov.uk/uksi/2000/3318), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3318/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/3318/regulation/5)
 
-[^key-0388997d63728260932db1bbb349d7a7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-0388997d63728260932db1bbb349d7a7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/2) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-8cc71b7912ffdd0ae639f0cb231ff61f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-8cc71b7912ffdd0ae639f0cb231ff61f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/3) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-3562e3e8a575f6493951d0338cec47f2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-3562e3e8a575f6493951d0338cec47f2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-6869279a2a394e5b025aab382cced192]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-6869279a2a394e5b025aab382cced192]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-0151200caf06d400421647927dc0adcb]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-0151200caf06d400421647927dc0adcb]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-2773bba417700ef6374ac5a83c9e4e60]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-2773bba417700ef6374ac5a83c9e4e60]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2000/1970/schedule/3/paragraph/7) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
-[^key-4d9cc2cac82b5c77a314fee6f5c24ccc]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-4d9cc2cac82b5c77a314fee6f5c24ccc]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/4) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^M_F_8d4b18fe-4771-48a9-bc01-1d1a78206a8e]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/4): for every reference to "Disability Discrimination Act 1995" substitute a reference to "Equality Act 2010" (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/2/a) (with [Sch. 8 para. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/5))
 
 [^M_F_842329f7-8bfb-4b2f-de51-6215d103dcc3]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/1970/schedule/4): after the words “the Public Service Vehicles Accessibility Regulations 2000” insert the words “treated as” (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/2/b) (with [Sch. 8 para. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/5))
 
-[^key-1456dae61a055a2106dc9ac4fc06cb93]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-1456dae61a055a2106dc9ac4fc06cb93]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/5) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^M_F_91fe43c8-da25-4a07-bd37-2a2b588241c6]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/5): for every reference to "Disability Discrimination Act 1995" substitute a reference to "Equality Act 2010" (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/3/a) (with [Sch. 8 para. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/5))
 
 [^M_F_98fff461-61ab-4f51-a835-498c0e1d4978]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2000/1970/schedule/5): after the words “the Public Service Vehicles Accessibility Regulations 2000” insert the words “treated as” (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/3/b) (with [Sch. 8 para. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/5))
 
-[^key-8f40c04b9fa70ce9bff282045a1f9aa0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
+[^c-8f40c04b9fa70ce9bff282045a1f9aa0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/6) in force at 30.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1970/regulation/1)
 
 [^M_F_c2a1c296-75cd-46c2-caa6-4419398a9807]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2000/1970/schedule/6): for every reference to "Disability Discrimination Act 1995" substitute a reference to "Equality Act 2010" (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [Sch. 8 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/4/a) (with [Sch. 8 para. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2010/2317/schedule/8/paragraph/1/5))
 

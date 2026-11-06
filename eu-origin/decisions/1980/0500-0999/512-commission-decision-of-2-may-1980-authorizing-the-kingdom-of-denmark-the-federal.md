@@ -53,20 +53,20 @@ Whereas the measures provided for in this Decision are in accordance with the op
 
 HAS ADOPTED THIS DECISION:
 
-**Article A1.**[^key-f16098d59ef1bc61161c3bbec3acdcd1] In this Decision, “**the appropriate authority**” means—
+**Article A1.**[^c-f16098d59ef1bc61161c3bbec3acdcd1] In this Decision, “**the appropriate authority**” means—
 
 - (a) in relation to England, the Secretary of State;
 - (b) in relation to Wales, the Welsh Ministers;
 - (c) in relation to Scotland, the Scottish Ministers;
-- (d)[^key-95b7eaf0f340dffbac0b1db2a13eab06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-95b7eaf0f340dffbac0b1db2a13eab06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.** 1. The appropriate authorities may decide[^key-143e4ed67bbac0d5fbdd6fb06e967dc1], in respect of the species indicated [^key-e7650819b95800b61cc7df79c59e3354]... in the Annex hereto, not to apply the conditions laid down in Directive 66/401/EEC, Annex II, section I, point 2, paragraph B (1), on the testing for the purposes of certification of basic seed and certified seed, where the seed has been harvested in the territory in relation to which they have responsibility[^key-368af14c68ab77bb07f3a542414f9d5f].
+**Article 1.** 1. The appropriate authorities may decide[^c-143e4ed67bbac0d5fbdd6fb06e967dc1], in respect of the species indicated [^c-e7650819b95800b61cc7df79c59e3354]... in the Annex hereto, not to apply the conditions laid down in Directive 66/401/EEC, Annex II, section I, point 2, paragraph B (1), on the testing for the purposes of certification of basic seed and certified seed, where the seed has been harvested in the territory in relation to which they have responsibility[^c-368af14c68ab77bb07f3a542414f9d5f].
 
-2.[^key-28cc15f9451ddbd3bed3ad01a4664f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-28cc15f9451ddbd3bed3ad01a4664f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 2.** The authorization under Article 1 shall be withdrawn as soon as it is established that the conditions thereof are no longer satisfied.
 
-**Article 3.**[^key-1e782595969afa90aca4e999c1c5e980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1e782595969afa90aca4e999c1c5e980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 2 May 1980.
 
@@ -78,25 +78,25 @@ Vice-President
 
 ## ANNEX
 
-[^key-94b22fe8dfc4224434c11e345d8fb5fe]1.
+[^c-94b22fe8dfc4224434c11e345d8fb5fe]1.
 
 Kingdom of Denmark
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94b22fe8dfc4224434c11e345d8fb5fe]2.
+[^c-94b22fe8dfc4224434c11e345d8fb5fe]2.
 
 Federal Republic of Germany
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94b22fe8dfc4224434c11e345d8fb5fe]3.
+[^c-94b22fe8dfc4224434c11e345d8fb5fe]3.
 
 Grand Duchy of Luxembourg
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94b22fe8dfc4224434c11e345d8fb5fe]4.
+[^c-94b22fe8dfc4224434c11e345d8fb5fe]4.
 
 Kingdom of Netherlands
 
@@ -122,20 +122,20 @@ Great Britain[^M_F_87ad88f4-2cce-4da3-db59-6b085ee67c23]
 
 [^f00002]: Footnote: OJ No L 205, 13.8.1979, p. 1.
 
-[^key-f16098d59ef1bc61161c3bbec3acdcd1]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/1980/512/article/A1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f16098d59ef1bc61161c3bbec3acdcd1]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/1980/512/article/A1) inserted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95b7eaf0f340dffbac0b1db2a13eab06]: Textual amendment: [Art. A1(d)](https://www.legislation.gov.uk/eudn/1980/512/article/A1/d) omitted (15.4.2021) by virtue of [The Vegetable and Ornamental Plant Propagating Material and Fodder Plant Seed (Amendment) Regulations 2021 (S.I. 2021/393)](https://www.legislation.gov.uk/uksi/2021/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/393/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/393/regulation/5/2)
+[^c-95b7eaf0f340dffbac0b1db2a13eab06]: Textual amendment: [Art. A1(d)](https://www.legislation.gov.uk/eudn/1980/512/article/A1/d) omitted (15.4.2021) by virtue of [The Vegetable and Ornamental Plant Propagating Material and Fodder Plant Seed (Amendment) Regulations 2021 (S.I. 2021/393)](https://www.legislation.gov.uk/uksi/2021/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/393/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/393/regulation/5/2)
 
-[^key-143e4ed67bbac0d5fbdd6fb06e967dc1]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-143e4ed67bbac0d5fbdd6fb06e967dc1]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7650819b95800b61cc7df79c59e3354]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7650819b95800b61cc7df79c59e3354]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-368af14c68ab77bb07f3a542414f9d5f]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-368af14c68ab77bb07f3a542414f9d5f]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/1980/512/article/1/1) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28cc15f9451ddbd3bed3ad01a4664f16]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/1980/512/article/1/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28cc15f9451ddbd3bed3ad01a4664f16]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/1980/512/article/1/2) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e782595969afa90aca4e999c1c5e980]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1980/512/article/3) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(4)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e782595969afa90aca4e999c1c5e980]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1980/512/article/3) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(4)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94b22fe8dfc4224434c11e345d8fb5fe]: Textual amendment: [Annex paras. 1-4](https://www.legislation.gov.uk/eudn/1980/512/annex/paragraph/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94b22fe8dfc4224434c11e345d8fb5fe]: Textual amendment: [Annex paras. 1-4](https://www.legislation.gov.uk/eudn/1980/512/annex/paragraph/1) omitted (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2019/162/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_87ad88f4-2cce-4da3-db59-6b085ee67c23]: Textual amendment: Words in Annex para. 5 substituted (15.4.2021) by [The Vegetable and Ornamental Plant Propagating Material and Fodder Plant Seed (Amendment) Regulations 2021 (S.I. 2021/393)](https://www.legislation.gov.uk/uksi/2021/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/393/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/393/regulation/5/3)

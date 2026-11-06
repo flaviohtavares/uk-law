@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Revocation of regulation 257B[^key-acce78eb5513fcf3774d7a8636175f45]
+## 113. Revocation of regulation 257B[^c-acce78eb5513fcf3774d7a8636175f45]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 257B (transitional arrangements)[^f00120].
 
 ## Annotations
 
-[^key-acce78eb5513fcf3774d7a8636175f45]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2024/832/regulation/113) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-acce78eb5513fcf3774d7a8636175f45]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2024/832/regulation/113) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00120]: Footnote: Regulation 257B was inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

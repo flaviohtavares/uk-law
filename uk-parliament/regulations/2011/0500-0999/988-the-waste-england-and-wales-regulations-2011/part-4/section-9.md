@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Directions to the Environment Agency[^key-2fbc833e0a1685570ee38b0731ed3a7c]
+## 9. Directions to the Environment Agency[^c-2fbc833e0a1685570ee38b0731ed3a7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbc833e0a1685570ee38b0731ed3a7c]: Textual amendment: Reg. 9 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 404](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/404) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2fbc833e0a1685570ee38b0731ed3a7c]: Textual amendment: Reg. 9 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 404](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/404) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

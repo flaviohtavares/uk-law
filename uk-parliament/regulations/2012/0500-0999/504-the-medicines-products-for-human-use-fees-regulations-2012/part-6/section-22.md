@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Fees for assessment of a set of proposed changes to labels and leaflets[^key-85916a0a8585089198c48ad09111fcc9]
+## 22. Fees for assessment of a set of proposed changes to labels and leaflets[^c-85916a0a8585089198c48ad09111fcc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85916a0a8585089198c48ad09111fcc9]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 59(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/1) (with [reg. 59(2)-(4)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/2))
+[^c-85916a0a8585089198c48ad09111fcc9]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 59(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/1) (with [reg. 59(2)-(4)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/2))

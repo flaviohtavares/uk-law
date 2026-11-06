@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Power to amend implied terms[^key-43e0a400f70429a6c27b771854595fe1]
+## 51. Power to amend implied terms[^c-43e0a400f70429a6c27b771854595fe1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e0a400f70429a6c27b771854595fe1]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2013/6/section/51) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-43e0a400f70429a6c27b771854595fe1]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2013/6/section/51) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

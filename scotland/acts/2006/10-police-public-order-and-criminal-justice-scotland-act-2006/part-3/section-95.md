@@ -36,7 +36,7 @@ by the prosecutor.
 
 (4) Subsection (3) does not prevent disclosure by the court or the clerk of court to the High Court or the Clerk of Justiciary in connection with proceedings to which section 96 applies.
 
-(4A)[^key-1e969d32ef9e5c7cea6103ce118cf84a] Subsection (3) does not prevent disclosure by the court or the Clerk of the Sheriff Appeal Court in connection with proceedings to which section 96A applies.
+(4A)[^c-1e969d32ef9e5c7cea6103ce118cf84a] Subsection (3) does not prevent disclosure by the court or the Clerk of the Sheriff Appeal Court in connection with proceedings to which section 96A applies.
 
 (5) In subsection (2), a “relevant officer is a constable or any other officer of an organisation having functions which are conferred by or under an enactment or rule of law and which consist of or include the investigation of offences.
 
@@ -44,4 +44,4 @@ by the prosecutor.
 
 ## Annotations
 
-[^key-1e969d32ef9e5c7cea6103ce118cf84a]: Textual amendment: [S. 95(4A)](https://www.legislation.gov.uk/asp/2006/10/section/95/4A) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-1e969d32ef9e5c7cea6103ce118cf84a]: Textual amendment: [S. 95(4A)](https://www.legislation.gov.uk/asp/2006/10/section/95/4A) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

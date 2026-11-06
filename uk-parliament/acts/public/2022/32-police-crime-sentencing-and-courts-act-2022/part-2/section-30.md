@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Information: supplementary[^key-5dece8bfe250930ac71bddf7dd356a25][^key-575c9616da8030f21b768d778c6bde4d]
+## 30. Information: supplementary[^c-5dece8bfe250930ac71bddf7dd356a25][^c-575c9616da8030f21b768d778c6bde4d]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dece8bfe250930ac71bddf7dd356a25]: Commencement: S. 30 not in force at Royal Assent, see [ss. 34](https://www.legislation.gov.uk/ukpga/2022/32/ss./34), 208(1)
+[^c-5dece8bfe250930ac71bddf7dd356a25]: Commencement: S. 30 not in force at Royal Assent, see [ss. 34](https://www.legislation.gov.uk/ukpga/2022/32/ss./34), 208(1)
 
-[^key-575c9616da8030f21b768d778c6bde4d]: Commencement: S. 30 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))
+[^c-575c9616da8030f21b768d778c6bde4d]: Commencement: S. 30 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/2/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))

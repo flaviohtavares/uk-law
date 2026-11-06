@@ -62,7 +62,7 @@ summary: ''
 - [^c20930131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c20930131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c20930131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “secure accommodation service” has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;[^key-57cc222f8366fe672fa2165158d9f587] *(affected by repeal, see note)*[^c20916481]
+- “secure accommodation service” has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;[^c-57cc222f8366fe672fa2165158d9f587] *(affected by repeal, see note)*[^c20916481]
 - “**supervision order *(affected by repeal, see note)*[^c20916481]**” has— *(affected by repeal, see note)*[^c20916481]
   - (a) in relation to England and Wales, the meaning given by section 31(11) of the Children Act 1989 (c. 41); *(affected by repeal, see note)*[^c20916481] [^c20930191]. . .
   - (b) [^c20930191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -110,7 +110,7 @@ summary: ''
 
 [^c20930131]: Textual amendment: S. 22(5): definitions of "private hospital", "residential care home" and "residential family centre" omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [7(g)](https://www.legislation.gov.uk/uksi/2008/1779/article/7/g); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-57cc222f8366fe672fa2165158d9f587]: Textual amendment: Words in s. 22(5) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [25](https://www.legislation.gov.uk/wsi/2019/772/regulation/25)
+[^c-57cc222f8366fe672fa2165158d9f587]: Textual amendment: Words in s. 22(5) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [25](https://www.legislation.gov.uk/wsi/2019/772/regulation/25)
 
 [^c20930191]: Textual amendment: S. 22(5): paragraph (b) and word in paragraph (a) of the definition of "supervision order" omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [7(h)](https://www.legislation.gov.uk/uksi/2008/1779/article/7/h); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 

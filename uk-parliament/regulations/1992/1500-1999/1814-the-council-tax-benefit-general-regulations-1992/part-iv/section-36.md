@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Capital jointly held[^key-1f25af2ec726280a3f8810257de31de5]
+## 36. Capital jointly held[^c-1f25af2ec726280a3f8810257de31de5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Except where a claimant possesses capital which is disregarded under regulation 
 
 ## Annotations
 
-[^key-1f25af2ec726280a3f8810257de31de5]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1992/1814/regulation/36) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-1f25af2ec726280a3f8810257de31de5]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1992/1814/regulation/36) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

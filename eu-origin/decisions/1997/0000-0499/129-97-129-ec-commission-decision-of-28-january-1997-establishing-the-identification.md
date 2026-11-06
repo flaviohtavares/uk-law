@@ -31,10 +31,10 @@ summary: ''
 
 of 28 January 1997 establishing the identification system for packaging materials pursuant to European Parliament and Council Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance) (revoked)
 
-[^key-5296bd40981c408eb08dcecf5013b374]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5296bd40981c408eb08dcecf5013b374]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5296bd40981c408eb08dcecf5013b374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5296bd40981c408eb08dcecf5013b374] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5296bd40981c408eb08dcecf5013b374]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5296bd40981c408eb08dcecf5013b374]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

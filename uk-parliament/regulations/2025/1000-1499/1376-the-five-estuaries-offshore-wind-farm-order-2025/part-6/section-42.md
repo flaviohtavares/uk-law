@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Application of the 1990 Act[^key-189aa4e5192bdb6e88b6602240d08fe8]
+## 42. Application of the 1990 Act[^c-189aa4e5192bdb6e88b6602240d08fe8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order is to be treated as specific planning 
 
 ## Annotations
 
-[^key-189aa4e5192bdb6e88b6602240d08fe8]: Commencement: Art. 42 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-189aa4e5192bdb6e88b6602240d08fe8]: Commencement: Art. 42 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

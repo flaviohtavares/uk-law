@@ -32,10 +32,10 @@ Council Regulation (EEC) No 4055/86
 
 of 22 December 1986 applying the principle of freedom to provide services to maritime transport between Member States and between Member States and third countries (revoked)
 
-[^key-61d9a7b860f2c137b2939127bded9e2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61d9a7b860f2c137b2939127bded9e2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-61d9a7b860f2c137b2939127bded9e2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-61d9a7b860f2c137b2939127bded9e2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61d9a7b860f2c137b2939127bded9e2f]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/488/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61d9a7b860f2c137b2939127bded9e2f]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/488/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

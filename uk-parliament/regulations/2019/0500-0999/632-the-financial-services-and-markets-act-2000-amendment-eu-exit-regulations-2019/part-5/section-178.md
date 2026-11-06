@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-1ed711942811d45ffb7b98b5cd20c1c2][^key-660b7df424255946745807230422752e][^key-660b7df424255946745807230422752e]
+## 178. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-1ed711942811d45ffb7b98b5cd20c1c2][^c-660b7df424255946745807230422752e][^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In regulation 2 (descriptions of business for which appointed representatives are exempt)—
 
-- (a)[^key-ea817c3f45e95a92ae53e390790d3e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ea817c3f45e95a92ae53e390790d3e07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (1A) [^c23660451], for “a person who has a Part 4A permission for the purposes of the capital requirements directive or the markets in financial instruments directive, an EEA investment firm, or an EEA credit institution,” substitute “ a CRR firm, or a relevant investment firm or credit institution, ”;
 - (c) for paragraph (1B) [^c23660461] substitute—
 
@@ -50,15 +50,15 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed711942811d45ffb7b98b5cd20c1c2]: Commencement: Reg. 178 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1ed711942811d45ffb7b98b5cd20c1c2]: Commencement: Reg. 178 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23660421]: Marginal citation: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217).
 
 [^c23660431]: Marginal citation: Regulation 1(2) was amended by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475), 2003/1476, 2004/453, 2006/2383, 2006/3414, 2013/3115 and 2017/488.
 
-[^key-ea817c3f45e95a92ae53e390790d3e07]: Textual amendment: Reg. 178(3)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(3)(e)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/3/e)
+[^c-ea817c3f45e95a92ae53e390790d3e07]: Textual amendment: Reg. 178(3)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [57(3)(e)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57/3/e)
 
 [^c23660451]: Marginal citation: Regulation 2(1A) was inserted by [S.I. 2006/3414](https://www.legislation.gov.uk/uksi/2006/3414) and amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488) and 2017/701.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Person to whom lump sum death benefit payable[^key-db580f407d193249fd20d9b9d3e467bd]
+## 104. Person to whom lump sum death benefit payable[^c-db580f407d193249fd20d9b9d3e467bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The scheme manager may, at its absolute discretion, pay any lump sum death benef
 
 ## Annotations
 
-[^key-db580f407d193249fd20d9b9d3e467bd]: Commencement: Reg. 104 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-db580f407d193249fd20d9b9d3e467bd]: Commencement: Reg. 104 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

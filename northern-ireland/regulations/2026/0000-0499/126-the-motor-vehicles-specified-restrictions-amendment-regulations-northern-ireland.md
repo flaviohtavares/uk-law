@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 19AB(3), (5) and (11), 214(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-47bfc3fa18d69cd035ca6232baaa514e]
+## 1. Citation and commencement[^c-47bfc3fa18d69cd035ca6232baaa514e]
 
 These Regulations may be cited as the Motor Vehicles (Specified Restrictions) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st October 2026.
 
-## 2. Amendment of the Motor Vehicles (Specified Restrictions) Regulations[^key-2d3a19e4c555d8ed4b42cb20c39c7efd]
+## 2. Amendment of the Motor Vehicles (Specified Restrictions) Regulations[^c-2d3a19e4c555d8ed4b42cb20c39c7efd]
 
 (1) The Motor Vehicles (Specified Restrictions) Regulations (Northern Ireland) 1998[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -82,7 +82,7 @@ A senior officer of the
 
 Department for Infrastructure
 
-## SCHEDULE[^key-20bc17ba5d3eb71404eaa502432070a2]
+## SCHEDULE[^c-20bc17ba5d3eb71404eaa502432070a2]
 
 Regulation 2(5)
 
@@ -120,9 +120,9 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-47bfc3fa18d69cd035ca6232baaa514e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)
+[^c-47bfc3fa18d69cd035ca6232baaa514e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)
 
-[^key-2d3a19e4c555d8ed4b42cb20c39c7efd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/126/regulation/2) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)
+[^c-2d3a19e4c555d8ed4b42cb20c39c7efd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/126/regulation/2) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 380](https://www.legislation.gov.uk/nisr/1998/380)
 
@@ -130,4 +130,4 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00006]: Footnote: [1952 c. 39](https://www.legislation.gov.uk/ukpga/1952/39)
 
-[^key-20bc17ba5d3eb71404eaa502432070a2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/126/schedule) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)
+[^c-20bc17ba5d3eb71404eaa502432070a2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/126/schedule) in operation at 1.10.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/126/regulation/1)

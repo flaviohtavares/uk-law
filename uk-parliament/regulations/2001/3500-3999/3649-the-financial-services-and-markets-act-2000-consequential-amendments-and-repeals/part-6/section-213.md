@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Revocation or amendment of references to dissolved bodies, repealed legislation etc.[^key-c144cc1ee704e99a42a0657f669de41d]
+## 213. Revocation or amendment of references to dissolved bodies, repealed legislation etc.[^c-c144cc1ee704e99a42a0657f669de41d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c144cc1ee704e99a42a0657f669de41d]: Commencement: Art. 213 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c144cc1ee704e99a42a0657f669de41d]: Commencement: Art. 213 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00156]: Footnote: Amended by [S.I. 1999/248](https://www.legislation.gov.uk/uksi/1999/248).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Repeal or revocation of enactments[^key-903d34aa8964a41e6efe00b2e9bd1f14]
+## 61. Repeal or revocation of enactments[^c-903d34aa8964a41e6efe00b2e9bd1f14]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-903d34aa8964a41e6efe00b2e9bd1f14]: Commencement: Art. 61 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-903d34aa8964a41e6efe00b2e9bd1f14]: Commencement: Art. 61 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

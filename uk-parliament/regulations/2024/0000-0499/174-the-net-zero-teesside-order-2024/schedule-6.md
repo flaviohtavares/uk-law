@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — THOSE PARTS OF THE STREET TO BE TEMPORARILY STOPPED UP[^key-2a82b0efb4b9907fee3c92907dd80bd4]
+### PART 1 — THOSE PARTS OF THE STREET TO BE TEMPORARILY STOPPED UP[^c-2a82b0efb4b9907fee3c92907dd80bd4]
 
 Table 4
 
@@ -33,7 +33,7 @@ Table 4
 | In the District of Stockton-on-Tees | B1275 | Temporarily stop up, prohibit the use of, restrict the use of, alter or divert of the part of the street between the points marked D and F on sheet 7 of the access and rights of way plans |
 | In the District of Stockton-on-Tees | Nelson Avenue | Temporarily stop up, prohibit the use of, restrict the use of, alter or divert of the part of the street between the points marked J and G on sheet 7 of the access and rights of way plans |
 
-### PART 2 — THOSE PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^key-b9a73c0d519651d167097ac068ee7a03]
+### PART 2 — THOSE PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^c-b9a73c0d519651d167097ac068ee7a03]
 
 Table 5
 
@@ -46,7 +46,7 @@ Table 5
 | In the District of Stockton-on-Tees | Public footpath - England Coast Path | Temporarily stop up, prohibit the use of, restrict the use of, alter or divert the footpath between the points marked V and W1 on Sheet 6 of the access and rights of way plans |
 | In the District of Stockton-on-Tees | Public footpath - England Coast Path | Temporarily stop up, prohibit the use of, restrict the use of, alter or divert the footpath between the points marked W and X on sheet 6 of the access and rights of way plans |
 
-### PART 3 — THOSE PARTS OF THE ACCESS LAND WHERE PUBLIC ACCESS MAY BE TEMPORARILY SUSPENDED[^key-e7e396a51765489098136f53ee3d5aee]
+### PART 3 — THOSE PARTS OF THE ACCESS LAND WHERE PUBLIC ACCESS MAY BE TEMPORARILY SUSPENDED[^c-e7e396a51765489098136f53ee3d5aee]
 
 Table 6
 
@@ -56,8 +56,8 @@ Table 6
 
 ## Annotations
 
-[^key-2a82b0efb4b9907fee3c92907dd80bd4]: Commencement: Sch. 6 Pt. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-2a82b0efb4b9907fee3c92907dd80bd4]: Commencement: Sch. 6 Pt. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-b9a73c0d519651d167097ac068ee7a03]: Commencement: Sch. 6 Pt. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-b9a73c0d519651d167097ac068ee7a03]: Commencement: Sch. 6 Pt. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-e7e396a51765489098136f53ee3d5aee]: Commencement: Sch. 6 Pt. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-e7e396a51765489098136f53ee3d5aee]: Commencement: Sch. 6 Pt. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

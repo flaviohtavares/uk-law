@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Complaints in relation to legal services.[^key-cdf4df5eab6ff0b7448c5219552ba230][^key-f6a7a6972576850f2c7e0f09964ac896][^key-ad70cf6bd303b7e9373d64dbe7ce7a56]
+## 33. Complaints in relation to legal services.[^c-cdf4df5eab6ff0b7448c5219552ba230][^c-f6a7a6972576850f2c7e0f09964ac896][^c-ad70cf6bd303b7e9373d64dbe7ce7a56]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf4df5eab6ff0b7448c5219552ba230]: Textual amendment: S. 33 repealed (1.10.2008) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/20/paragraph/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 3(b)(c)](https://www.legislation.gov.uk/uksi/2008/1436/article/3/b/c)
+[^c-cdf4df5eab6ff0b7448c5219552ba230]: Textual amendment: S. 33 repealed (1.10.2008) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/20/paragraph/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2008/1436](https://www.legislation.gov.uk/uksi/2008/1436), [art. 3(b)(c)](https://www.legislation.gov.uk/uksi/2008/1436/article/3/b/c)
 
-[^key-f6a7a6972576850f2c7e0f09964ac896]: Modification: S. 33 savings for effects of 2007 c. 29, Sch. 20 para. 2, Sch. 23 (1.10.2008) by [The Legal Services Act 2007 (Transitional, Savings and Consequential Provisions) (Scotland) Order 2008 (S.I. 2008/2341)](https://www.legislation.gov.uk/uksi/2008/2341), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2341/article/1/2), [2](https://www.legislation.gov.uk/uksi/2008/2341/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2341/article/4))
+[^c-f6a7a6972576850f2c7e0f09964ac896]: Modification: S. 33 savings for effects of 2007 c. 29, Sch. 20 para. 2, Sch. 23 (1.10.2008) by [The Legal Services Act 2007 (Transitional, Savings and Consequential Provisions) (Scotland) Order 2008 (S.I. 2008/2341)](https://www.legislation.gov.uk/uksi/2008/2341), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2341/article/1/2), [2](https://www.legislation.gov.uk/uksi/2008/2341/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2341/article/4))
 
-[^key-ad70cf6bd303b7e9373d64dbe7ce7a56]: Modification: S. 33 savings for effects of 2007 c. 29, Sch. 20 para. 2, Sch. 23 (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/332/article/2/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/332/article/4))
+[^c-ad70cf6bd303b7e9373d64dbe7ce7a56]: Modification: S. 33 savings for effects of 2007 c. 29, Sch. 20 para. 2, Sch. 23 (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/332/article/2/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/332/article/4))

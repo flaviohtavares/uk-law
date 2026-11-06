@@ -28,7 +28,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Large Combustion Plants (National Emission Reduction Plan) Regulations 2007 (revoked)[^key-db8cc210d315bca919d94e99f4a2bb69]
+The Large Combustion Plants (National Emission Reduction Plan) Regulations 2007 (revoked)[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 Made
 
@@ -42,102 +42,102 @@ Coming into force
 
 10th September 2007
 
-[^key-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 1. Citation and commencement[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 2. Interpretation[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of “participating plant”[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 3. Meaning of “participating plant”[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Preparation of plans by the Secretary of State[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 4. Preparation of plans by the Secretary of State[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provision of information by the Secretary of State[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 5. Provision of information by the Secretary of State[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. National Emission Reduction Plan register[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 6. National Emission Reduction Plan register[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Verification of reports of annual mass emissions[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 7. Verification of reports of annual mass emissions[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transfers of emission allowances[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 8. Transfers of emission allowances[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Determination of emission allowance on plant closure[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 9. Determination of emission allowance on plant closure[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Derogations[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 10. Derogations[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Environment Agency's duties[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 11. Environment Agency's duties[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Environment Agency's costs[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 12. Environment Agency's costs[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Directions[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 13. Directions[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Consequential amendments[^key-db8cc210d315bca919d94e99f4a2bb69]
+## 14. Consequential amendments[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — THE REGISTER[^key-db8cc210d315bca919d94e99f4a2bb69]
+## SCHEDULE 1 — THE REGISTER[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 Regulation 5
 
-### PART 1 — Interpretation[^key-db8cc210d315bca919d94e99f4a2bb69]
+### PART 1 — Interpretation[^c-db8cc210d315bca919d94e99f4a2bb69]
 
-**1.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Contents of the register[^key-db8cc210d315bca919d94e99f4a2bb69]
+### PART 2 — Contents of the register[^c-db8cc210d315bca919d94e99f4a2bb69]
 
-**2.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^key-db8cc210d315bca919d94e99f4a2bb69]
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^c-db8cc210d315bca919d94e99f4a2bb69]
 
 Regulation 14
 
-**1.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-db8cc210d315bca919d94e99f4a2bb69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8cc210d315bca919d94e99f4a2bb69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db8cc210d315bca919d94e99f4a2bb69]: Textual amendment: Regulations revoked (1.4.2016) by [The Large Combustion Plants (Transitional National Plan) Regulations 2015 (S.I. 2015/1973)](https://www.legislation.gov.uk/uksi/2015/1973), regs. 1(4), [11(1)](https://www.legislation.gov.uk/uksi/2015/1973/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/1973/regulation/11/2))
+[^c-db8cc210d315bca919d94e99f4a2bb69]: Textual amendment: Regulations revoked (1.4.2016) by [The Large Combustion Plants (Transitional National Plan) Regulations 2015 (S.I. 2015/1973)](https://www.legislation.gov.uk/uksi/2015/1973), regs. 1(4), [11(1)](https://www.legislation.gov.uk/uksi/2015/1973/regulation/11/1) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/1973/regulation/11/2))

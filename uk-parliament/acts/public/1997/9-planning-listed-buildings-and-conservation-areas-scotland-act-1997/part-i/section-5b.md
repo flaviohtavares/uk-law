@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5B. Appeal against listing of buildings[^key-66cee40880df51e718a25db18ee71ee4]
+## 5B. Appeal against listing of buildings[^c-66cee40880df51e718a25db18ee71ee4]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66cee40880df51e718a25db18ee71ee4]: Textual amendment: Ss. 5B-5D inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/18) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-66cee40880df51e718a25db18ee71ee4]: Textual amendment: Ss. 5B-5D inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/18) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Income treated as capital[^key-aade9180a2defc7741c7dacab7d71454]
+## 30. Income treated as capital[^c-aade9180a2defc7741c7dacab7d71454]
 
 *Extent: E+W+S*
 
@@ -30,14 +30,14 @@ summary: ''
 
 (5) In the case of employment as an employed earner, any advance of earnings or any loan made by the claimant’s employer shall be treated as capital.
 
-(6)[^key-d085877eafbc84a9c0dac4939f0d5a25] Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a payment which is made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust , the Macfarlane (Special Payments) ([^key-7909c2b8e6abee418490cb3f6e052b02]No. 2) Trust , the Fund[^key-4884f01c7a028e3bead91d3899e08a3a] or the Independent Living Fund, shall be treated as capital.
+(6)[^c-d085877eafbc84a9c0dac4939f0d5a25] Any charitable or voluntary payment which is not made or due to be made at regular intervals, other than a payment which is made under the Macfarlane Trust, the Macfarlane (Special Payments) Trust , the Macfarlane (Special Payments) ([^c-7909c2b8e6abee418490cb3f6e052b02]No. 2) Trust , the Fund[^c-4884f01c7a028e3bead91d3899e08a3a] or the Independent Living Fund, shall be treated as capital.
 
 ## Annotations
 
-[^key-aade9180a2defc7741c7dacab7d71454]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-aade9180a2defc7741c7dacab7d71454]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-d085877eafbc84a9c0dac4939f0d5a25]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) added (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1990/834/regulation/6)
+[^c-d085877eafbc84a9c0dac4939f0d5a25]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) added (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1990/834/regulation/6)
 
-[^key-7909c2b8e6abee418490cb3f6e052b02]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) inserted (11.5.1991) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991 (S.I. 1991/1175)](https://www.legislation.gov.uk/uksi/1991/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/2/4)
+[^c-7909c2b8e6abee418490cb3f6e052b02]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) inserted (11.5.1991) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1991 (S.I. 1991/1175)](https://www.legislation.gov.uk/uksi/1991/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1991/1175/regulation/2/4)
 
-[^key-4884f01c7a028e3bead91d3899e08a3a]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) inserted (7.5.1992) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1992 (S.I. 1992/1101)](https://www.legislation.gov.uk/uksi/1992/1101), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/2/4)
+[^c-4884f01c7a028e3bead91d3899e08a3a]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/30/6) inserted (7.5.1992) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1992 (S.I. 1992/1101)](https://www.legislation.gov.uk/uksi/1992/1101), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1992/1101/regulation/2/4)

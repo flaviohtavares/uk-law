@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.127. Notification and advertisement of appointment of joint administrator[^key-3cd429780944af0d9d340d0898769129]
+## 2.127. Notification and advertisement of appointment of joint administrator[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Where, after an initial appointment has been made, an additional person or perso
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
 [^m00040]: Marginal citation: \[FORM 4.10\]

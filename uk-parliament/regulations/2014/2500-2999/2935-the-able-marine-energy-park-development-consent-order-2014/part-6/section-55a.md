@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55A. Certification of further environmental documents[^key-693bfe669c90a9eea123beae0b464c09]
+## 55A. Certification of further environmental documents[^c-693bfe669c90a9eea123beae0b464c09]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ for certification as further environmental documents.
 
 ## Annotations
 
-[^key-693bfe669c90a9eea123beae0b464c09]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2014/2935/article/55A) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/606/article/2/6)
+[^c-693bfe669c90a9eea123beae0b464c09]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2014/2935/article/55A) inserted (14.5.2021) by [The Able Marine Energy Park Development Consent (Amendment) Order 2021 (S.I. 2021/606)](https://www.legislation.gov.uk/uksi/2021/606), [arts. 1](https://www.legislation.gov.uk/uksi/2021/606/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/606/article/2/6)

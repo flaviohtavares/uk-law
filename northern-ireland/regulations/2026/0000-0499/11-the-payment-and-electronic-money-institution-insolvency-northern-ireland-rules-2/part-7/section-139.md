@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Test of security’s value[^key-bd0269ee74f86484b6a9beb52b36941a]
+## 139. Test of security’s value[^c-bd0269ee74f86484b6a9beb52b36941a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0269ee74f86484b6a9beb52b36941a]: Commencement: [Rule 139](https://www.legislation.gov.uk/nisr/2026/11/rule/139) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-bd0269ee74f86484b6a9beb52b36941a]: Commencement: [Rule 139](https://www.legislation.gov.uk/nisr/2026/11/rule/139) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

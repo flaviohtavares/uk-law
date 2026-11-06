@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**255.**[^key-6a891e0d898203f500c546e8a6059083] For section 53(7)(a) (fostering) substitute—
+**255.**[^c-6a891e0d898203f500c546e8a6059083] For section 53(7)(a) (fostering) substitute—
 
 > - (a) the person is a local authority foster parent within the meaning of section 105 of the Children Act 1989;
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a891e0d898203f500c546e8a6059083]: Commencement: Reg. 255 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-6a891e0d898203f500c546e8a6059083]: Commencement: Reg. 255 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

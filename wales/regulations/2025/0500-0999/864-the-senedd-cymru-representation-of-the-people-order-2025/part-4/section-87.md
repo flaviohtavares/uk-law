@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Method of questioning Senedd election[^key-e35603f021a9fd5463591d4f60688ced]
+## 87. Method of questioning Senedd election[^c-e35603f021a9fd5463591d4f60688ced]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35603f021a9fd5463591d4f60688ced]: Commencement: Art. 87 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e35603f021a9fd5463591d4f60688ced]: Commencement: Art. 87 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

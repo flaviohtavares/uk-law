@@ -35,7 +35,7 @@ he makes a statement which he knows to be false in a material particular, or rec
 - (a) the manager of an aerodrome in the United Kingdom,
 - (b) the operator of one or more aircraft registered or operating in the United Kingdom, [^c794655] . . .
 - (c) any person who—
-  - (i) is permitted to have access to a security restricted area[^key-e386405c25a5c642e64ec68769a4db7a] of an aerodrome for the purposes of the activities of a business carried on by him, and
+  - (i) is permitted to have access to a security restricted area[^c-e386405c25a5c642e64ec68769a4db7a] of an aerodrome for the purposes of the activities of a business carried on by him, and
   - (ii) has control in that security restricted area over the baggage, cargo or stores to which the question relates.
 
 [^c794656] and
@@ -64,6 +64,6 @@ he makes a statement which he knows to be false in a material particular, or rec
 
 [^c794655]: Textual amendment: Word in s. 21A(2)(b) omitted (1.9.1993) by virtue of [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/12/1/a)
 
-[^key-e386405c25a5c642e64ec68769a4db7a]: Textual amendment: Words in s. 21A substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(f)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/f)
+[^c-e386405c25a5c642e64ec68769a4db7a]: Textual amendment: Words in s. 21A substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(f)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/f)
 
 [^c794656]: Textual amendment: S. 21A(2)(d) and 'and' preceding it added (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073) , [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/1993/1073/regulation/12/1/b)

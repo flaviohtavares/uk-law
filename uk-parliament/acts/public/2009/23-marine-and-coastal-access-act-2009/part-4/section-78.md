@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Special procedure for applications relating to harbour works[^c2007837][^key-aee53d531ceb4042914e07052585b222]
+## 78. Special procedure for applications relating to harbour works[^c2007837][^c-aee53d531ceb4042914e07052585b222]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,16 +50,16 @@ the two applications are to be considered together.
 - (b) the two applications are to be considered together, and
 - (c) the condition in subsection (3)(b) is to be regarded as satisfied by virtue of subsection (4)(b),
 
-but this is subject to any provision that may be made by virtue of subsection (6)(c) or (d) or (6A)(b)[^key-0494cb0577d20e37374c33c89a3652e4].
+but this is subject to any provision that may be made by virtue of subsection (6)(c) or (d) or (6A)(b)[^c-0494cb0577d20e37374c33c89a3652e4].
 
-(6) Subject to subsection (6B),[^key-a48ff0c3a40a85c7d764d672c707d642] The Secretary of State may by order do any of the following—
+(6) Subject to subsection (6B),[^c-a48ff0c3a40a85c7d764d672c707d642] The Secretary of State may by order do any of the following—
 
 - (a) make provision falling within subsection (7) for cases where subsection (3) applies;
 - (b) make provision falling within subsection (7) for cases where subsection (5) applies;
 - (c) make provision falling within subsection (7) or (8) for cases where the harbour order authority (with the agreement of the Welsh Ministers, if they are the marine licence authority and the Secretary of State is the harbour order authority) comes to the conclusion that the marine licence application is not going to be made;
 - (d) make provision falling within subsection (7) or (8) for cases where the harbour order authority comes to the conclusion that the harbour order application is not going to be made.
 
-(6A)[^key-bdef3d2d16556a036b70af1b54900437] The Welsh Ministers may by regulations—
+(6A)[^c-bdef3d2d16556a036b70af1b54900437] The Welsh Ministers may by regulations—
 
 - (a) make provision falling within subsection (7) for cases where—
   - (i) the Welsh Ministers are both the marine licence authority and the harbour order authority, and
@@ -96,10 +96,10 @@ but this is subject to any provision that may be made by virtue of subsection (6
 
 [^c2007837]: Commencement: S. 78 partly in force; s. 78 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-aee53d531ceb4042914e07052585b222]: Commencement: S. 78 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-aee53d531ceb4042914e07052585b222]: Commencement: S. 78 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-0494cb0577d20e37374c33c89a3652e4]: Textual amendment: Words in s. 78(5) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-0494cb0577d20e37374c33c89a3652e4]: Textual amendment: Words in s. 78(5) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-a48ff0c3a40a85c7d764d672c707d642]: Textual amendment: Words in s. 78(6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-a48ff0c3a40a85c7d764d672c707d642]: Textual amendment: Words in s. 78(6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-bdef3d2d16556a036b70af1b54900437]: Textual amendment: S. 78(6A)(6B) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-bdef3d2d16556a036b70af1b54900437]: Textual amendment: S. 78(6A)(6B) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 80(4)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/80/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

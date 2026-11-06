@@ -31,10 +31,10 @@ summary: ''
 
 of 2 July 1993 on detailed rules governing intra-Community trade in certain live animals and products intended for exportation to third countries (revoked)
 
-[^key-51d2c520359e82a47532f403dc13772e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51d2c520359e82a47532f403dc13772e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-51d2c520359e82a47532f403dc13772e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-51d2c520359e82a47532f403dc13772e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51d2c520359e82a47532f403dc13772e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/1)
+[^c-51d2c520359e82a47532f403dc13772e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/1)

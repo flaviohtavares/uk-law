@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^key-832d3be9ea321b075855fe0cee5efd1b]
+## 146. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^c-832d3be9ea321b075855fe0cee5efd1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-832d3be9ea321b075855fe0cee5efd1b]: Commencement: Reg. 146 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-832d3be9ea321b075855fe0cee5efd1b]: Commencement: Reg. 146 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

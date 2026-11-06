@@ -45,8 +45,8 @@ summary: ''
 
 (6) On receipt of a notice under paragraph (3) the scheme manager must calculate the amount of contributions payable and give the member a notice stating that amount.
 
-(7) For the purpose of calculating the amount of contributions payable, the annual rate of the member's pensionable earnings is taken to be the rate that applied immediately before the commencement of[^key-9e4698988a23a83f91c37174a7ea527f] the period of unpaid leave.
+(7) For the purpose of calculating the amount of contributions payable, the annual rate of the member's pensionable earnings is taken to be the rate that applied immediately before the commencement of[^c-9e4698988a23a83f91c37174a7ea527f] the period of unpaid leave.
 
 ## Annotations
 
-[^key-9e4698988a23a83f91c37174a7ea527f]: Textual amendment: Words in [reg. 171(7)](https://www.legislation.gov.uk/nisr/2015/113/regulation/171/7) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/148/regulation/4)
+[^c-9e4698988a23a83f91c37174a7ea527f]: Textual amendment: Words in [reg. 171(7)](https://www.legislation.gov.uk/nisr/2015/113/regulation/171/7) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/148/regulation/4)

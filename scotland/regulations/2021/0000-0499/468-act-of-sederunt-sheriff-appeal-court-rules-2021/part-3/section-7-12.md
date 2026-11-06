@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.12. Extension of notes of evidence[^key-6f19625a4dba213398769216e6d4aaf8]
+## 7.12. Extension of notes of evidence[^c-6f19625a4dba213398769216e6d4aaf8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ It is not necessary to produce notes of evidence in relation to any issue in res
 
 ## Annotations
 
-[^key-6f19625a4dba213398769216e6d4aaf8]: Commencement: Para. 7.12 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6f19625a4dba213398769216e6d4aaf8]: Commencement: Para. 7.12 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

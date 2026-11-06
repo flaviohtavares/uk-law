@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Strategy on encouraging participation[^key-7700c3688d7d7ecadee2f7dbbccfc700]
+## 40. Strategy on encouraging participation[^c-7700c3688d7d7ecadee2f7dbbccfc700]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7700c3688d7d7ecadee2f7dbbccfc700]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2021/1/section/40) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)
+[^c-7700c3688d7d7ecadee2f7dbbccfc700]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2021/1/section/40) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)

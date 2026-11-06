@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Use of jobcentres by sex industry[^key-257dc22101e2a100b33c8cea22b0c2a9]
+## 144. Use of jobcentres by sex industry[^c-257dc22101e2a100b33c8cea22b0c2a9]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ In the Employment and Training Act 1973, after section 2 (duty of Secretary of S
 
 ## Annotations
 
-[^key-257dc22101e2a100b33c8cea22b0c2a9]: Commencement: S. 144 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/h)
+[^c-257dc22101e2a100b33c8cea22b0c2a9]: Commencement: S. 144 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/h)

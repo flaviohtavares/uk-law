@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Provisions ancillary to sections 118 and 119[^key-67a89326b179d2a68e353c4a2c26301c]
+## 120. Provisions ancillary to sections 118 and 119[^c-67a89326b179d2a68e353c4a2c26301c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 
 ## Annotations
 
-[^key-67a89326b179d2a68e353c4a2c26301c]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2016/21/section/120) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-67a89326b179d2a68e353c4a2c26301c]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2016/21/section/120) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

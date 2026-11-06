@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-adb5a887fed4c1e50580766f32b23713]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-adb5a887fed4c1e50580766f32b23713]
 
 *Extent: E+W+S+NI*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulations 3, 5(1) and 22(2) and paragraph 2 of Schedule 3
 
-**1.**[^key-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-adb5a887fed4c1e50580766f32b23713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)
+[^c-adb5a887fed4c1e50580766f32b23713]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2605/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/b)

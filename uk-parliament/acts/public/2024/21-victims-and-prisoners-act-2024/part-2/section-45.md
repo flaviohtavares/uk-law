@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Consequential amendments[^key-565fc4dd841b8499738096e0ec1758fa][^key-5059431f66163c08f85b33b7093be4f3]
+## 45. Consequential amendments[^c-565fc4dd841b8499738096e0ec1758fa][^c-5059431f66163c08f85b33b7093be4f3]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-565fc4dd841b8499738096e0ec1758fa]: Commencement: S. 45 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-565fc4dd841b8499738096e0ec1758fa]: Commencement: S. 45 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-5059431f66163c08f85b33b7093be4f3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/21/section/45) in force at 18.9.2024 for E.W. by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/k)
+[^c-5059431f66163c08f85b33b7093be4f3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2024/21/section/45) in force at 18.9.2024 for E.W. by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/k)

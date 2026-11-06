@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Default powers of the Welsh Ministers[^key-10fe87e110d33a22a339cb598d35f4bc]
+## 78. Default powers of the Welsh Ministers[^c-10fe87e110d33a22a339cb598d35f4bc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10fe87e110d33a22a339cb598d35f4bc]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/2/section/78) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-10fe87e110d33a22a339cb598d35f4bc]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/2/section/78) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

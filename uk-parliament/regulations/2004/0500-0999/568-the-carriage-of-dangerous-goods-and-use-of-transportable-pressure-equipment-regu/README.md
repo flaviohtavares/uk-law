@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (revoked)[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (revoked)[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 10th May 2004
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — INTRODUCTORY PROVISIONS[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 1 — INTRODUCTORY PROVISIONS[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ Coming into force
 - [Section 7 — Exemptions](part-1/section-7.md)
 - [Section 8 — Competent authority](part-1/section-8.md)
 
-### PART 2 — REQUIREMENTS OF ADR AND RID[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 2 — REQUIREMENTS OF ADR AND RID[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Coming into force
 - [Section 24 — Vehicle crews, equipment, operation and documentation](part-2/section-24.md)
 - [Section 25 — Construction and approval of vehicles](part-2/section-25.md)
 
-### PART 3 — COMPETENT AUTHORITY FUNCTIONS[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 3 — COMPETENT AUTHORITY FUNCTIONS[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 **No longer in force.**
 
@@ -103,7 +103,7 @@ Coming into force
 - [Section 35 — Miscellaneous functions of the GB competent authority](part-3/section-35.md)
 - [Section 36 — Exemption certificates, temporary and ad hoc exemptions](part-3/section-36.md)
 
-### PART 4 — TRANSPORTABLE PRESSURE EQUIPMENT[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 4 — TRANSPORTABLE PRESSURE EQUIPMENT[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,7 +119,7 @@ Coming into force
 - [Section 44 — Appointment of notified bodies and approved bodies by the competent authority](part-4/section-44.md)
 - [Section 45 — Conformity marking](part-4/section-45.md)
 
-### PART 5 — ADDITIONAL REQUIREMENTS TO ADR AND RID[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 5 — ADDITIONAL REQUIREMENTS TO ADR AND RID[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 **No longer in force.**
 
@@ -134,7 +134,7 @@ Coming into force
 - [Section 54 — Keeping of information by carriers](part-5/section-54.md)
 - [Section 55 — Placards, marks and plate markings for carriage within Great Britain](part-5/section-55.md)
 
-### PART 6 — MISCELLANEOUS[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### PART 6 — MISCELLANEOUS[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,14 +169,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)

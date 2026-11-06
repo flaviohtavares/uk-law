@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Duty to report on completion of default proceedings[^key-09b53811f7cf64d35a2107f49e46a10a]
+## 80. Duty to report on completion of default proceedings[^c-09b53811f7cf64d35a2107f49e46a10a]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-09b53811f7cf64d35a2107f49e46a10a]: Commencement: Art. 80 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-09b53811f7cf64d35a2107f49e46a10a]: Commencement: Art. 80 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00085]: Footnote: Amended by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880) regulation 6(2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Introduction and interpretation[^key-45686f8137c16da37040caca2d4666e5]
+## 58. Introduction and interpretation[^c-45686f8137c16da37040caca2d4666e5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45686f8137c16da37040caca2d4666e5]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2021/4/section/58) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)
+[^c-45686f8137c16da37040caca2d4666e5]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2021/4/section/58) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)

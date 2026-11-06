@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Production of computer records etc.[^key-2b336f1b409b1f340cf4c1629072abfa]
+## 127. Production of computer records etc.[^c-2b336f1b409b1f340cf4c1629072abfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b336f1b409b1f340cf4c1629072abfa]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/1988/39/section/127) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 114(8)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/114/8/b)
+[^c-2b336f1b409b1f340cf4c1629072abfa]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/1988/39/section/127) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 114(8)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/114/8/b)

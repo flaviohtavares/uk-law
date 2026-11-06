@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Determination of “the age addition”[^key-e4a8a011ceeb00ebc5ef8b1dec98b0e1]
+## 26. Determination of “the age addition”[^c-e4a8a011ceeb00ebc5ef8b1dec98b0e1]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a8a011ceeb00ebc5ef8b1dec98b0e1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/19/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e4a8a011ceeb00ebc5ef8b1dec98b0e1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/19/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Requisitioning and adoption of lateral drains: supplementary[^key-bdcd26c5f36de7b9b567e20d85a10451]
+## 97. Requisitioning and adoption of lateral drains: supplementary[^c-bdcd26c5f36de7b9b567e20d85a10451]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdcd26c5f36de7b9b567e20d85a10451]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2003/37/section/97) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-bdcd26c5f36de7b9b567e20d85a10451]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2003/37/section/97) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

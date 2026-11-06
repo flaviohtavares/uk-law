@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Power to search and seize vehicles[^key-1679a30993e9d5131373162ce3649d3d][^key-9212235eeed9fffdbbb12c5dacd800e1][^key-915e69faeb510eca0bc618a56eaae044]
+## 46. Power to search and seize vehicles[^c-1679a30993e9d5131373162ce3649d3d][^c-9212235eeed9fffdbbb12c5dacd800e1][^c-915e69faeb510eca0bc618a56eaae044]
 
 *Extent: E+W*
 
@@ -120,11 +120,11 @@ summary: ''
 
 ## Annotations
 
-[^key-1679a30993e9d5131373162ce3649d3d]: Commencement: S. 46 in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3)
+[^c-1679a30993e9d5131373162ce3649d3d]: Commencement: S. 46 in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3)
 
-[^key-9212235eeed9fffdbbb12c5dacd800e1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/16/section/46) in force at 3.3.2015 for specified purposes for E. by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/425/article/2/b)
+[^c-9212235eeed9fffdbbb12c5dacd800e1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/16/section/46) in force at 3.3.2015 for specified purposes for E. by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/425/article/2/b)
 
-[^key-915e69faeb510eca0bc618a56eaae044]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/16/section/46) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/b)
+[^c-915e69faeb510eca0bc618a56eaae044]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/16/section/46) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/b)
 
 [^c19272741]: Textual amendment: Words in s. 46(1) substituted (21.11.2005) by [The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005 (S.I. 2005/2900)](https://www.legislation.gov.uk/uksi/2005/2900), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2005/2900/regulation/3/2)
 

@@ -58,17 +58,17 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 ### 2. Interpretation
 
-(1)[^key-83739ebdad76786a96d6c242f2b16c21] In these Regulations–
+(1)[^c-83739ebdad76786a96d6c242f2b16c21] In these Regulations–
 
-- “Directive 2004/41”, “Regulation 2406/96”, “Regulation 852/2004, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in the schedule[^key-a040a07bd7a6ada0b7f1a5a092d8c26c];
+- “Directive 2004/41”, “Regulation 2406/96”, “Regulation 852/2004, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in the schedule[^c-a040a07bd7a6ada0b7f1a5a092d8c26c];
 - “**establishment**” has the meaning given by paragraph 1(c) of Article 2 of Regulation 852/2004;
-- “**first placing on the market**” has the meaning that it bears in Regulation 2017/625[^key-fa8c07d562d98b1a829611fc333039cf];
-- “**first sale in a fish market**” has the meaning that the phrase “first sale in fish market” bears in Regulation 2017/625[^key-1f5adc357b315d6de215367399653614];
+- “**first placing on the market**” has the meaning that it bears in Regulation 2017/625[^c-fa8c07d562d98b1a829611fc333039cf];
+- “**first sale in a fish market**” has the meaning that the phrase “first sale in fish market” bears in Regulation 2017/625[^c-1f5adc357b315d6de215367399653614];
 - “**fishery products**” has the meaning given by point 3.1 of Annex I to Regulation 853/2004;
 - “**food authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c19017041];
 - “**imported**” means introduced into Scotland other than from another part of the British Islands;
-- “**official controls**” is to be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^key-4ae165b551a85b7922030cf14e573ce5];
-- “**processing**” has the meaning that it bears in Regulation 2017/625[^key-1b0b0b4cbc5ab44fe890e8540f0b5b6d];
+- “**official controls**” is to be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^c-4ae165b551a85b7922030cf14e573ce5];
+- “**processing**” has the meaning that it bears in Regulation 2017/625[^c-1b0b0b4cbc5ab44fe890e8540f0b5b6d];
 - “**processing establishment**” means an establishment at which processing occurs;
 - “**relevant fishery products**” means fishery products which–
   - (a) were caught in their natural environment;
@@ -92,17 +92,17 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
   - (e) anchovies (*Engraulis* spp.);
   - (f) picarels of the species *Maena smaris*; and
   - (g) sprat of the species *Sprattus sprattus*;
-- “[^key-7ecb7843e693bb44368e743f2b1a42e4]**third country**” (except in the expression “**third country import**”) means any country or territory other than the British Islands;
-- “[^key-24ec50cf654ac1fa9f026401c52fba10]**third country import**” means an import in respect of which a charge is payable under Article 79 of Regulation 2017/625[^key-cb5c86fc969e4b119e642a1fe20e2488].
+- “[^c-7ecb7843e693bb44368e743f2b1a42e4]**third country**” (except in the expression “**third country import**”) means any country or territory other than the British Islands;
+- “[^c-24ec50cf654ac1fa9f026401c52fba10]**third country import**” means an import in respect of which a charge is payable under Article 79 of Regulation 2017/625[^c-cb5c86fc969e4b119e642a1fe20e2488].
 - “**vendor**” means–
   - (a) where a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products is effected on behalf of the owner or master of a vessel by another person, that other person; and
   - (b) where there is a first placing on the market or first sale in a fish market of relevant fishery products or relevant landed fishery products in any other circumstances, the owner or master of the vessel from which they are landed.
 
 ### 3. Actual costs
 
-For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items listed in Articles 80, 81 and 82 of Regulation 2017/625 directly incurred in the exercise of the official controls required under Title VI of and[^key-f8b02919fb617d848220475857df1e70] Annex VI[^key-0d39e7f751f7f8c76d39537836508c39] to Regulation 2019/627.
+For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of the costs of the items listed in Articles 80, 81 and 82 of Regulation 2017/625 directly incurred in the exercise of the official controls required under Title VI of and[^c-f8b02919fb617d848220475857df1e70] Annex VI[^c-0d39e7f751f7f8c76d39537836508c39] to Regulation 2019/627.
 
-### 4. Sterling equivalents of Euro[^key-c22bb7fcd58c8692392e524aa3af94fc]
+### 4. Sterling equivalents of Euro[^c-c22bb7fcd58c8692392e524aa3af94fc]
 
 Any reference in these Regulations to a specified number of Euros (“EUR”) is to be read as that sum converted into pounds sterling (“GBP”) using the exchange rate of GBP1 = EUR1.1413.
 
@@ -156,7 +156,7 @@ Where any duty is imposed under these Regulations on more than one person, the a
 
 ### 9. Sums remitted from one food authority to another
 
-In any case where the exercise of official controls is deferred and the food authority responsible for the exercise of official controls required under Title VI of and Annex VI to Regulation 2019/627[^key-61b3412fda0421546f8ecf4d5289da4e] (“authority A”) is not the relevant food authority to which a charge is required to be paid under these Regulations (“authority B”), authority B shall remit to authority A a sum equal to any amount received by authority B which is referable to official controls exercised by authority A.
+In any case where the exercise of official controls is deferred and the food authority responsible for the exercise of official controls required under Title VI of and Annex VI to Regulation 2019/627[^c-61b3412fda0421546f8ecf4d5289da4e] (“authority A”) is not the relevant food authority to which a charge is required to be paid under these Regulations (“authority B”), authority B shall remit to authority A a sum equal to any amount received by authority B which is referable to official controls exercised by authority A.
 
 ## PART 2 — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR THIRD COUNTRY IMPORTS
 
@@ -171,7 +171,7 @@ In any case where the exercise of official controls is deferred and the food aut
 
 (2) Subject to paragraph (8), where there is a chargeable transaction for the purposes of this regulation and regulation 11, the vendor shall pay the charge determined in accordance with paragraphs (3) to (7) (“the landings charge”) to the relevant food authority.
 
-(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products, the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627[^key-87366c3cff1b58b2659ac11d2a790696], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
+(3) Subject to paragraph (7), where the chargeable transaction is the first placing on the market of relevant fishery products or relevant landed fishery products, the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627[^c-87366c3cff1b58b2659ac11d2a790696], calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products or relevant landed fishery products first placed on the market in a calendar month.
 
 (4) Where the chargeable transaction is the first sale in a fish market of relevant fishery products, the landings charge shall be a contribution towards the expenditure incurred in exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627, calculated at the rate of 1 Euro per tonne for the first 50 tonnes and 0.5 Euro per tonne for each additional tonne of relevant fishery products first sold in a fish market in a calendar month.
 
@@ -230,7 +230,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (1) Subject to paragraph (3), the proprietor or operator of a processing establishment shall pay the charge determined in accordance with paragraph (2) (“the processing establishment charge”) to the relevant food authority.
 
-(2) The processing establishment charge shall be a contribution towards the expenditure incurred by the relevant food authority in exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627[^key-9566cb4b63884c1d579f539b277e3333], calculated at the rate of 0.5 Euro per tonne of fishery products entering the establishment for the purpose of processing.
+(2) The processing establishment charge shall be a contribution towards the expenditure incurred by the relevant food authority in exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627[^c-9566cb4b63884c1d579f539b277e3333], calculated at the rate of 0.5 Euro per tonne of fishery products entering the establishment for the purpose of processing.
 
 (3) Where the actual costs of exercising the official controls required under Title VI of and Annex VI to Regulation 2019/627 are less than the processing establishment charge, the proprietor or operator shall pay an amount equal to those costs to the relevant food authority, instead of the processing establishment charge.
 
@@ -268,7 +268,7 @@ St Andrew's House,
 
 Edinburgh
 
-## THE SCHEDULES — DEFINITIONS OF EU LEGISLATION[^key-32683afd5b1b4a82a20ca4b5c5df1e8d][^M_F_adfa43de-c11f-4cfc-a2c3-ec0d47f3a6ab]
+## THE SCHEDULES — DEFINITIONS OF EU LEGISLATION[^c-32683afd5b1b4a82a20ca4b5c5df1e8d][^M_F_adfa43de-c11f-4cfc-a2c3-ec0d47f3a6ab]
 
 - “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/eudr/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/eud/1995/0408),
 - “Regulation 2406/96” means Council Regulation [(EC) No. 2406/96](https://www.legislation.gov.uk/eur/1996/2406) laying down common marketing standards for certain fishery products,
@@ -310,42 +310,42 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c19017031]: Marginal citation: O.J. No. L 31, 1.2.02, p.1. The Regulation was amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4) and Commission Regulation (EC) No. 575/2006 (O.J. No. L 100, 8.4.06, p.3).
 
-[^key-83739ebdad76786a96d6c242f2b16c21]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/a)
+[^c-83739ebdad76786a96d6c242f2b16c21]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/a)
 
-[^key-a040a07bd7a6ada0b7f1a5a092d8c26c]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/i)
+[^c-a040a07bd7a6ada0b7f1a5a092d8c26c]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/i)
 
-[^key-fa8c07d562d98b1a829611fc333039cf]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/ii)
+[^c-fa8c07d562d98b1a829611fc333039cf]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/ii)
 
-[^key-1f5adc357b315d6de215367399653614]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/iii)
+[^c-1f5adc357b315d6de215367399653614]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/iii)
 
 [^c19017041]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 232.
 
-[^key-4ae165b551a85b7922030cf14e573ce5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/iv)
+[^c-4ae165b551a85b7922030cf14e573ce5]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/iv)
 
-[^key-1b0b0b4cbc5ab44fe890e8540f0b5b6d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(v)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/v)
+[^c-1b0b0b4cbc5ab44fe890e8540f0b5b6d]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(v)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/v)
 
-[^key-7ecb7843e693bb44368e743f2b1a42e4]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by virtue of [S.S.I. 2019/100](https://www.legislation.gov.uk/ssi/2019/100), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/100/regulation/2/2) (as substituted by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [8(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/8/2))
+[^c-7ecb7843e693bb44368e743f2b1a42e4]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by virtue of [S.S.I. 2019/100](https://www.legislation.gov.uk/ssi/2019/100), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/100/regulation/2/2) (as substituted by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [8(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/8/2))
 
-[^key-24ec50cf654ac1fa9f026401c52fba10]: Textual amendment: Words in reg. 2 substituted (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2012/177/schedule/4/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-24ec50cf654ac1fa9f026401c52fba10]: Textual amendment: Words in reg. 2 substituted (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2012/177/schedule/4/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
 
-[^key-cb5c86fc969e4b119e642a1fe20e2488]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(vi)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/vi)
+[^c-cb5c86fc969e4b119e642a1fe20e2488]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(2)(b)(vi)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/2/b/vi)
 
-[^key-f8b02919fb617d848220475857df1e70]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/3)
+[^c-f8b02919fb617d848220475857df1e70]: Textual amendment: Words in reg. 3 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/3)
 
-[^key-0d39e7f751f7f8c76d39537836508c39]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2007/537/regulation/3) substituted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/398/regulation/3)
+[^c-0d39e7f751f7f8c76d39537836508c39]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2007/537/regulation/3) substituted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/398/regulation/3)
 
-[^key-c22bb7fcd58c8692392e524aa3af94fc]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2007/537/regulation/4) substituted (31.12.2020) by [The Fishery Products (Official Controls Charges) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/100)](https://www.legislation.gov.uk/ssi/2019/100), [regs. 1](https://www.legislation.gov.uk/ssi/2019/100/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/100/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c22bb7fcd58c8692392e524aa3af94fc]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2007/537/regulation/4) substituted (31.12.2020) by [The Fishery Products (Official Controls Charges) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/100)](https://www.legislation.gov.uk/ssi/2019/100), [regs. 1](https://www.legislation.gov.uk/ssi/2019/100/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/100/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19017061]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-61b3412fda0421546f8ecf4d5289da4e]: Textual amendment: Words in reg. 9 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/5)
+[^c-61b3412fda0421546f8ecf4d5289da4e]: Textual amendment: Words in reg. 9 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/5)
 
-[^key-87366c3cff1b58b2659ac11d2a790696]: Textual amendment: Words in reg. 10 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/6)
+[^c-87366c3cff1b58b2659ac11d2a790696]: Textual amendment: Words in reg. 10 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/6)
 
-[^key-9566cb4b63884c1d579f539b277e3333]: Textual amendment: Words in reg. 12 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(7)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/7)
+[^c-9566cb4b63884c1d579f539b277e3333]: Textual amendment: Words in reg. 12 substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(7)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/7)
 
 [^c19017071]: Marginal citation: [S.S.I. 2006/579](https://www.legislation.gov.uk/ssi/2006/579).
 
-[^key-32683afd5b1b4a82a20ca4b5c5df1e8d]: Textual amendment: sch. substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(8)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/8), [sch. 2](https://www.legislation.gov.uk/ssi/2019/407/schedule/2)
+[^c-32683afd5b1b4a82a20ca4b5c5df1e8d]: Textual amendment: sch. substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [5(8)](https://www.legislation.gov.uk/ssi/2019/407/regulation/5/8), [sch. 2](https://www.legislation.gov.uk/ssi/2019/407/schedule/2)
 
 [^M_F_adfa43de-c11f-4cfc-a2c3-ec0d47f3a6ab]: Textual amendment: Word in sch. heading substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)

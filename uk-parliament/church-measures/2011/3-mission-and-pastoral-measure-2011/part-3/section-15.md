@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15. Limited extension of diocesan proposals and schemes to other dioceses[^key-0555c5970de12fd01a13df18df504f2b]
+## 15. Limited extension of diocesan proposals and schemes to other dioceses[^c-0555c5970de12fd01a13df18df504f2b]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0555c5970de12fd01a13df18df504f2b]: Commencement: S. 15 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-0555c5970de12fd01a13df18df504f2b]: Commencement: S. 15 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

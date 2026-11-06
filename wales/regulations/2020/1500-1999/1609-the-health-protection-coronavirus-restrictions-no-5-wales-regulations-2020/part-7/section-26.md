@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Enforcement of requirement to take preventative measures[^key-c510cb3e7315d1e9a90fd24452cd981c]
+## 26. Enforcement of requirement to take preventative measures[^c-c510cb3e7315d1e9a90fd24452cd981c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c510cb3e7315d1e9a90fd24452cd981c]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1609/regulation/26) omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/6)
+[^c-c510cb3e7315d1e9a90fd24452cd981c]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1609/regulation/26) omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/6)

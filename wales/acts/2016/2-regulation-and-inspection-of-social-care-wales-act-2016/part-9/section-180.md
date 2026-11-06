@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Delegating functions to another regulatory body[^key-33339c079c9cb8fcaebe98f53b2ff200]
+## 180. Delegating functions to another regulatory body[^c-33339c079c9cb8fcaebe98f53b2ff200]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33339c079c9cb8fcaebe98f53b2ff200]: Commencement: [S. 180](https://www.legislation.gov.uk/anaw/2016/2/section/180) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-33339c079c9cb8fcaebe98f53b2ff200]: Commencement: [S. 180](https://www.legislation.gov.uk/anaw/2016/2/section/180) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

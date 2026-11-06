@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 55. Functions of mission and pastoral committee concerning buildings closed for regular public worship[^key-eaad712b7746b700100e15f7ec54a690]
+## 55. Functions of mission and pastoral committee concerning buildings closed for regular public worship[^c-eaad712b7746b700100e15f7ec54a690]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaad712b7746b700100e15f7ec54a690]: Commencement: S. 55 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-eaad712b7746b700100e15f7ec54a690]: Commencement: S. 55 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

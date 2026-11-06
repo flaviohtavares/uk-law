@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Service of documents.[^c10458321][^key-40b0ede26b9194faded621917af6e36f]
+## 45. Service of documents.[^c10458321][^c-40b0ede26b9194faded621917af6e36f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,15 +27,15 @@ summary: ''
 - (a) by delivering it to him, or
 - (b) by leaving it at his proper address, or
 - (c) by sending it by post to him at that address, or
-- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication. or[^key-d7d87bdf3da178d5f0e086c193adeb52]
+- (d) by sending it to him at that address by telex or other similar means which produce a document containing the text of the communication. or[^c-d7d87bdf3da178d5f0e086c193adeb52]
 - (e) where—
   - (i) an address for service using electronic communications has been given by that person and not withdrawn in accordance with subsection (2E), and
   - (ii) that person has agreed to accept service by electronic communications of documents in a certain form and has not withdrawn that agreement in accordance with that subsection,
 
-  by using electronic communications to send the document in that form to that person at that address, or[^key-08888602d8511d60b9266204951b6b5b]
+  by using electronic communications to send the document in that form to that person at that address, or[^c-08888602d8511d60b9266204951b6b5b]
 - (f) in the case of a person who is required by regulations to be able to accept service electronically in a manner and form specified in the regulations, in that manner and form.
 
-(2A)[^key-bddc5e3832be04ceafb43e2c29c05cc6] A document given to or served on a person in accordance with subsection (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
+(2A)[^c-bddc5e3832be04ceafb43e2c29c05cc6] A document given to or served on a person in accordance with subsection (2)(e) must be in a form sufficiently permanent to be used for subsequent reference.
 
 (2B) Where a document is given to or served on a person in accordance with subsection (2)(e), the document is, unless the contrary is proved, to be deemed to have been given to or served on that person at the time at which the electronic communication is transmitted except where transmission is made outside that person’s normal business hours, in which case it is to be taken to have been given or served on the next working day, and in this subsection, “working day” means any day other than—
 
@@ -69,7 +69,7 @@ summary: ''
 
 (2I) Oral notice is not sufficient for the purposes of subsection (2E) or (2F).
 
-(3)[^key-68cab54e543218bae709fbcfc80132e7] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
+(3)[^c-68cab54e543218bae709fbcfc80132e7] Any document authorised to be given to or served on a body corporate may be given to or served on the secretary, clerk or similar officer of that body.
 
 (4) For the purposes of this section and section 7 of the [^c10458331]Interpretation Act 1978 (service of documents by post) in its application to this section, the proper address of any person to whom or on whom any document is to be given or served is his usual or last known address or place of business (whether in the United Kingdom or elsewhere), except that in the case of a body corporate or its secretary, clerk or similar officer it shall be the address of the registered or principal office of that body in the United Kingdom (or, if it has no office in the United Kingdom, of its principal office, wherever it may be).
 
@@ -86,7 +86,7 @@ summary: ''
 
 (9) Where any document mentioned in subsection (1) above is to be served (for the purposes of subsection (8) above or otherwise) on the master of a ship, it shall be treated as duly served if it is left on board that ship with the person being or appearing to be in command or charge of the ship.
 
-(9A)[^key-9fb802fa73a4f58672ee74b7e9d5efe4] Regulations under subsection (2)(f)—
+(9A)[^c-9fb802fa73a4f58672ee74b7e9d5efe4] Regulations under subsection (2)(f)—
 
 - (a) may make different provision for different cases,
 - (b) may include incidental, supplemental or transitional provision,
@@ -99,15 +99,15 @@ summary: ''
 
 [^c10458321]: Modification: S. 45 extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-40b0ede26b9194faded621917af6e36f]: Modification: Ss. 45, 46 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-40b0ede26b9194faded621917af6e36f]: Modification: Ss. 45, 46 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-d7d87bdf3da178d5f0e086c193adeb52]: Textual amendment: S. 45(2)(e) and word inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/2)
+[^c-d7d87bdf3da178d5f0e086c193adeb52]: Textual amendment: S. 45(2)(e) and word inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/2)
 
-[^key-08888602d8511d60b9266204951b6b5b]: Textual amendment: S. 45(2)(f) and word inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/5/a); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
+[^c-08888602d8511d60b9266204951b6b5b]: Textual amendment: S. 45(2)(f) and word inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/5/a); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
 
-[^key-bddc5e3832be04ceafb43e2c29c05cc6]: Textual amendment: S. 45(2A)-(2I) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/3)
+[^c-bddc5e3832be04ceafb43e2c29c05cc6]: Textual amendment: S. 45(2A)-(2I) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/3)
 
-[^key-68cab54e543218bae709fbcfc80132e7]: Textual amendment: S. 45(3) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/4)
+[^c-68cab54e543218bae709fbcfc80132e7]: Textual amendment: S. 45(3) substituted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2006/2190/article/4/4)
 
 [^c10458331]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -115,6 +115,6 @@ summary: ''
 
 [^c10458351]: Textual amendment: Words in s. 45(7)(a) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 88(5)(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/88/5/a) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 
-[^key-9fb802fa73a4f58672ee74b7e9d5efe4]: Textual amendment: S. 45(9A) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(5)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/5/b); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
+[^c-9fb802fa73a4f58672ee74b7e9d5efe4]: Textual amendment: S. 45(9A) inserted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(5)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/5/b); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
 
 [^c10458361]: Textual amendment: Words in s. 45(10) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 88(5)(b)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/88/5/b) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))

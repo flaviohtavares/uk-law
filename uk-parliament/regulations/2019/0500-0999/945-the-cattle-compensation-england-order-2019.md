@@ -47,11 +47,11 @@ Coming into force
 
 The Secretary of State makes this Order, with the approval of the Treasury, in exercise of the powers conferred by section 32(3) of the Animal Health Act 1981[^f00001].
 
-## 1. Citation and commencement[^key-02c054224d7f61b04bf17f91f06d49c8]
+## 1. Citation and commencement[^c-02c054224d7f61b04bf17f91f06d49c8]
 
 This Order may be cited as the Cattle Compensation (England) Order 2019 and comes into force on 1st July 2019.
 
-## 2. Interpretation[^key-0c7ddfdef36666d7e0553a6c036b8bf5]
+## 2. Interpretation[^c-0c7ddfdef36666d7e0553a6c036b8bf5]
 
 (1) In this Order—
 
@@ -75,20 +75,20 @@ This Order may be cited as the Cattle Compensation (England) Order 2019 and come
 
 (2) In paragraph (1), “skin test” means the single intradermal comparative cervical tuberculin test for tuberculosis.
 
-## 3. Compensation for an animal slaughtered for brucellosis, tuberculosis or enzootic bovine leukosis[^key-0dc1c18b4dcf5f64e5df25f398b26526]
+## 3. Compensation for an animal slaughtered for brucellosis, tuberculosis or enzootic bovine leukosis[^c-0dc1c18b4dcf5f64e5df25f398b26526]
 
 Subject to article 4, where the Secretary of State causes an animal to be slaughtered under section 32(1) of the Act in its application to brucellosis, tuberculosis or enzootic bovine leukosis, compensation payable under section 32(3) is to be determined in accordance with this Order.
 
-## 4. Animal slaughtered for reasons of tuberculosis where the owner is licensed to remove the animal to a slaughter house of the owner’s choice[^key-2fe6c8d0704bfcfc74427f8570d8c4d6]
+## 4. Animal slaughtered for reasons of tuberculosis where the owner is licensed to remove the animal to a slaughter house of the owner’s choice[^c-2fe6c8d0704bfcfc74427f8570d8c4d6]
 
 (1) This article applies where—
 
 - (a) the Secretary of State causes an animal to be slaughtered under section 32(1) of the Act in its application to tuberculosis, and
-- (b) an inspector has served a notice under article 8(1) of the Tuberculosis in Animals (England) Order 2021[^key-f038109192fe171098e151053a9a3760] and the owner is licensed to remove the animal to a slaughter house of the owner’s choice.
+- (b) an inspector has served a notice under article 8(1) of the Tuberculosis in Animals (England) Order 2021[^c-f038109192fe171098e151053a9a3760] and the owner is licensed to remove the animal to a slaughter house of the owner’s choice.
 
 (2) No compensation is payable under article 3 where the owner receives a commercial payment for the value of the slaughtered animal from the slaughter house operator.
 
-## 5. Calculation of compensation[^key-b91519bd496aaa129f051855fcd9456c]
+## 5. Calculation of compensation[^c-b91519bd496aaa129f051855fcd9456c]
 
 (1) Where the conditions in article 6 are met, compensation payable by the Secretary of State under section 32(3) of the Act is to be determined in accordance with this article.
 
@@ -99,7 +99,7 @@ Subject to article 4, where the Secretary of State causes an animal to be slaugh
 - (a) domestic cattle, where paragraph 3(2)(b) of the Schedule applies and the Secretary of State decides to act in accordance with that provision, or
 - (b) a buffalo or bison.
 
-## 6. Conditions for receipt of compensation payment[^key-aa8cb21459870f782eae72a7f1b652dd]
+## 6. Conditions for receipt of compensation payment[^c-aa8cb21459870f782eae72a7f1b652dd]
 
 The conditions referred to in article 5(1) are that—
 
@@ -107,7 +107,7 @@ The conditions referred to in article 5(1) are that—
 - (b) a cattle passport for the animal must be presented to the Secretary of State, or an agent acting on behalf of the Secretary of State, before or at the time of removal for slaughter, and
 - (c) where the Secretary of State so requests, for the purpose of verifying a person’s claim to ownership of an animal, that person must declare that, to the best of the person’s knowledge, there is no other person who may claim such ownership.
 
-## 7. Saving[^key-0d3edb7c84219f1aff8bdb5473f0adee]
+## 7. Saving[^c-0d3edb7c84219f1aff8bdb5473f0adee]
 
 The expiry of the Cattle Compensation (England) Order 2012[^f00007] on 1st July 2019 does not affect any calculation of compensation or payment made by the Secretary of State under the provisions of that Order and notified to the owner before the expiry of that Order.
 
@@ -131,7 +131,7 @@ Article 5
 
 ### PART 1 — Method of calculation
 
-#### 1. Interpretation[^key-feea2fe0e90bd1245702563820bf6062]
+#### 1. Interpretation[^c-feea2fe0e90bd1245702563820bf6062]
 
 In this Schedule—
 
@@ -141,7 +141,7 @@ In this Schedule—
 - “pedigree category” means a category consisting of pedigree animals which meet the conditions set out in paragraph 9(3);
 - “Regulation (EU) 2016/1012” means Regulation (EU) 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof[^f00008].
 
-#### 2. The average market price[^key-534cde15090cc475168f30b6ea78ff43]
+#### 2. The average market price[^c-534cde15090cc475168f30b6ea78ff43]
 
 (1) Subject to paragraphs 4, 6, 7 and 8, the compensation payable to the owner of an animal is the average market price for the category into which the animal falls at the relevant date.
 
@@ -154,7 +154,7 @@ In this Schedule—
 
 (4) The average market price for a category for which sale price data have been collected is the amount obtained by dividing the sum of the amounts obtained by way of sale prices for all the animals in that category sold during the relevant period by the total number of animals in that category so sold.
 
-#### 3. No sale price data or inadequate sale price data[^key-52a095290951ca211d441ce389bbbd72]
+#### 3. No sale price data or inadequate sale price data[^c-52a095290951ca211d441ce389bbbd72]
 
 (1) This paragraph applies where either there are no available sale price data, or the Secretary of State considers there to be inadequate sale price data, for calculating the average market price for a category of animal.
 
@@ -163,7 +163,7 @@ In this Schedule—
 - (a) the average market price is the most recently ascertained average market price for the relevant category of animal;
 - (b) but if the most recently ascertained average market price was ascertained more than two months before the relevant date, the Secretary of State may instead decide to pay compensation at the level of the market value of the animal in question, as determined in accordance with an order made under section 34(7)(a) of the Act[^f00009].
 
-#### 4. Compensation payable following delays in testing for tuberculosis[^key-6d31e82a3b059099a5cd1b2020a6aecb]
+#### 4. Compensation payable following delays in testing for tuberculosis[^c-6d31e82a3b059099a5cd1b2020a6aecb]
 
 (1) Compensation payable for an animal is to be calculated using the formula set out in paragraph (2) where—
 
@@ -186,7 +186,7 @@ In this Schedule—
 
 (4) The Secretary of State must notify the owner in writing of any decision to reduce compensation following a delay in testing for tuberculosis of more than 60 days after the latest date specified in the notice, giving the reasons for the decision and explaining that the owner may make written representations to a person appointed by the Secretary of State in accordance with paragraph 5.
 
-#### 5. Review of decision to reduce compensation under paragraph 4[^key-7bf58e09fc50032326baf99e6f32572b]
+#### 5. Review of decision to reduce compensation under paragraph 4[^c-7bf58e09fc50032326baf99e6f32572b]
 
 (1) Before the end of 21 days beginning with the day after that on which the notification under paragraph 4(4) is received, the owner may make written representations to a person appointed by the Secretary of State for the purpose of reviewing the decision to reduce the compensation, and provide a copy of such representations to the Secretary of State.
 
@@ -196,7 +196,7 @@ In this Schedule—
 
 (4) The Secretary of State must consider the report of the appointed person before making a decision on whether to maintain, amend or withdraw the decision under paragraph 4 and, before the end of 28 days beginning with the day after that on which the report of the appointed person is received by the Secretary of State, must notify the owner of the decision and provide a copy of the report of the appointed person.
 
-#### 6. Tuberculosis compensation reduction due to unclean animal presented for slaughter[^key-3e2053a0c22d1d4f2bf4ade580f0ce86]
+#### 6. Tuberculosis compensation reduction due to unclean animal presented for slaughter[^c-3e2053a0c22d1d4f2bf4ade580f0ce86]
 
 (1) The compensation payable in respect of an animal’s slaughter is 50% of the compensation which would otherwise be payable in accordance with paragraphs 2 to 5 where—
 
@@ -205,7 +205,7 @@ In this Schedule—
 
 (2) The Secretary of State must notify the owner in writing of the reason for the decision to reduce compensation in accordance with sub-paragraph (1).
 
-#### 7. Tuberculosis compensation reduction for an animal brought into a herd where the animal is subsequently slaughtered for reasons of tuberculosis[^key-a0823d3ee463dab3c2dc1ec5ed3e0356]
+#### 7. Tuberculosis compensation reduction for an animal brought into a herd where the animal is subsequently slaughtered for reasons of tuberculosis[^c-a0823d3ee463dab3c2dc1ec5ed3e0356]
 
 (1) The compensation payable in respect of an animal’s slaughter is 50% of the compensation which would otherwise be payable in accordance with paragraphs 2 to 5 where—
 
@@ -216,7 +216,7 @@ In this Schedule—
 
 (3) The reduction in compensation under sub-paragraph (1) does not apply where, before the herd lost its tuberculosis-free status, it was accredited under a cattle health scheme licensed by the Cattle Health Certification Standards (UK)[^f00011] in respect of tuberculosis.
 
-#### 8. Tuberculosis compensation where both paragraphs 6 and 7 apply[^key-c2b231119eb23fe32ca3dcdfcc30ebcd]
+#### 8. Tuberculosis compensation where both paragraphs 6 and 7 apply[^c-c2b231119eb23fe32ca3dcdfcc30ebcd]
 
 (1) This paragraph applies where both paragraphs 6 and 7 apply in respect of an animal.
 
@@ -226,7 +226,7 @@ In this Schedule—
 
 ### PART 2 — Categories
 
-#### 9. Determination of category[^key-6a314a600195a4fcf51625259bf8e932]
+#### 9. Determination of category[^c-6a314a600195a4fcf51625259bf8e932]
 
 (1) The Secretary of State must determine from the table in sub-paragraph (5) the category into which an animal falls at the relevant date and may appoint an agent for the purpose of that determination.
 
@@ -306,9 +306,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for the definition of “the Minister”. Functions conferred under the Act were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141). Functions of the Minister of Agriculture, Fisheries and Food were further transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-02c054224d7f61b04bf17f91f06d49c8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-02c054224d7f61b04bf17f91f06d49c8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-0c7ddfdef36666d7e0553a6c036b8bf5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/945/article/2) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-0c7ddfdef36666d7e0553a6c036b8bf5]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/945/article/2) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/529](https://www.legislation.gov.uk/uksi/2007/529), amended by [S.I. 2017/101](https://www.legislation.gov.uk/uksi/2017/101) and prospectively amended by [S.I. 2018/1238](https://www.legislation.gov.uk/uksi/2018/1238), to come into force on exit day; there are other amending instruments but none is relevant.
 
@@ -316,44 +316,44 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00004]: Footnote: [S.I. 2000/2056](https://www.legislation.gov.uk/uksi/2000/2056), to which there are amendments not relevant to this Order.
 
-[^key-0dc1c18b4dcf5f64e5df25f398b26526]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/945/article/3) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-0dc1c18b4dcf5f64e5df25f398b26526]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/945/article/3) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-2fe6c8d0704bfcfc74427f8570d8c4d6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/945/article/4) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-2fe6c8d0704bfcfc74427f8570d8c4d6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2019/945/article/4) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-f038109192fe171098e151053a9a3760]: Textual amendment: Words in [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2019/945/article/4/1/b) substituted (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [27(4)](https://www.legislation.gov.uk/uksi/2021/1001/article/27/4)
+[^c-f038109192fe171098e151053a9a3760]: Textual amendment: Words in [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2019/945/article/4/1/b) substituted (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [27(4)](https://www.legislation.gov.uk/uksi/2021/1001/article/27/4)
 
-[^key-b91519bd496aaa129f051855fcd9456c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/945/article/5) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-b91519bd496aaa129f051855fcd9456c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/945/article/5) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00006]: Footnote: The Individual Ascertainment of Value (England) Order 2019 ([S.I. 2019/946](https://www.legislation.gov.uk/uksi/2019/946)).
 
-[^key-aa8cb21459870f782eae72a7f1b652dd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/945/article/6) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-aa8cb21459870f782eae72a7f1b652dd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2019/945/article/6) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-0d3edb7c84219f1aff8bdb5473f0adee]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2019/945/article/7) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-0d3edb7c84219f1aff8bdb5473f0adee]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2019/945/article/7) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00007]: Footnote: [S.I. 2012/1379](https://www.legislation.gov.uk/uksi/2012/1379), as amended by [S.I. 2015/1838](https://www.legislation.gov.uk/uksi/2015/1838), [2018/754](https://www.legislation.gov.uk/uksi/2018/754).
 
-[^key-feea2fe0e90bd1245702563820bf6062]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/1) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-feea2fe0e90bd1245702563820bf6062]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/1) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00008]: Footnote: OJ No L 171, 29.6.2016, p. 66.
 
-[^key-534cde15090cc475168f30b6ea78ff43]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/2) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-534cde15090cc475168f30b6ea78ff43]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/2) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-52a095290951ca211d441ce389bbbd72]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/3) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-52a095290951ca211d441ce389bbbd72]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/3) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00009]: Footnote: The Individual Ascertainment of Value (England) Order 2019 ([S.I. 2019/946](https://www.legislation.gov.uk/uksi/2019/946)).
 
-[^key-6d31e82a3b059099a5cd1b2020a6aecb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/4) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-6d31e82a3b059099a5cd1b2020a6aecb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/4) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-7bf58e09fc50032326baf99e6f32572b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/5) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-7bf58e09fc50032326baf99e6f32572b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/5) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-3e2053a0c22d1d4f2bf4ade580f0ce86]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/6) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-3e2053a0c22d1d4f2bf4ade580f0ce86]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/6) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00010]: Footnote: OJ No L 139, 30.4.2004, p. 55, as last amended by Commission Regulation (EU) 2017/1981 (OJ No L 285, 1.11.2017, p. 10).
 
-[^key-a0823d3ee463dab3c2dc1ec5ed3e0356]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/7) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-a0823d3ee463dab3c2dc1ec5ed3e0356]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/7) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
 [^f00011]: Footnote: Cattle Health Certification Standards (UK) operate from Dairy House, Unit 31, Abbey Park, Stareton, Kenilworth, Warwickshire, CV8 2LY and an electronic mail address at info@checs.co.uk.
 
-[^key-c2b231119eb23fe32ca3dcdfcc30ebcd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/8) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-c2b231119eb23fe32ca3dcdfcc30ebcd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/8) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
 
-[^key-6a314a600195a4fcf51625259bf8e932]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/9) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)
+[^c-6a314a600195a4fcf51625259bf8e932]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/945/schedule/paragraph/9) in force at 1.7.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/945/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Time for sending in and paying claims[^key-33c73792d711d5ea4158082e8dc6ca7f]
+## 44. Time for sending in and paying claims[^c-33c73792d711d5ea4158082e8dc6ca7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ may apply to the Court of Session or to the sheriff for leave to pay a claim for
 
 ## Annotations
 
-[^key-33c73792d711d5ea4158082e8dc6ca7f]: Commencement: Art. 44 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-33c73792d711d5ea4158082e8dc6ca7f]: Commencement: Art. 44 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

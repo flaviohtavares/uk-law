@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Power to construct and maintain works[^key-1485b8fdb41e8d870dec2adbf0f9277a]
+## 6. Power to construct and maintain works[^c-1485b8fdb41e8d870dec2adbf0f9277a]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1485b8fdb41e8d870dec2adbf0f9277a]: Commencement: Art. 6 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-1485b8fdb41e8d870dec2adbf0f9277a]: Commencement: Art. 6 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

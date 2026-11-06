@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Child Maintenance Bonus (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 1997 (revoked)[^key-7dda2ecb66cb51a511a1438f4dd23c89]
+The Child Maintenance Bonus (Great Britain Reciprocal Arrangements) Regulations (Northern Ireland) 1997 (revoked)[^c-7dda2ecb66cb51a511a1438f4dd23c89]
 
 Made
 
@@ -40,40 +40,40 @@ Coming into operation
 
 7th April 1997
 
-[^key-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7dda2ecb66cb51a511a1438f4dd23c89]
+## 1. Citation, commencement and interpretation[^c-7dda2ecb66cb51a511a1438f4dd23c89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Adaptation of Article 4 of the Child Support Order and regulations made under it[^key-7dda2ecb66cb51a511a1438f4dd23c89]
+## 2. Adaptation of Article 4 of the Child Support Order and regulations made under it[^c-7dda2ecb66cb51a511a1438f4dd23c89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Memorandum of arrangements relating to the provision made for child maintenance bonus in the United Kingdom between the Secretary of State for Social Security of the one part and the Department of Health and Social Services for Northern Ireland of the other part[^key-7dda2ecb66cb51a511a1438f4dd23c89]
+## SCHEDULE — Memorandum of arrangements relating to the provision made for child maintenance bonus in the United Kingdom between the Secretary of State for Social Security of the one part and the Department of Health and Social Services for Northern Ireland of the other part[^c-7dda2ecb66cb51a511a1438f4dd23c89]
 
 Regulation 2(1)
 
-**1.**[^key-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7dda2ecb66cb51a511a1438f4dd23c89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dda2ecb66cb51a511a1438f4dd23c89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dda2ecb66cb51a511a1438f4dd23c89]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/126) revoked (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/b)
+[^c-7dda2ecb66cb51a511a1438f4dd23c89]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/126) revoked (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (S.R. 2001/25)](https://www.legislation.gov.uk/nisr/2001/25), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/25/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/4/1/b)

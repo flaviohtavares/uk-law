@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Powers to amend this Chapter[^key-fa25bc240dfc980d523cf9e4091d669b][^key-a12ba75dfdee1b438dfe0853151a3e5b]
+## 242. Powers to amend this Chapter[^c-fa25bc240dfc980d523cf9e4091d669b][^c-a12ba75dfdee1b438dfe0853151a3e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa25bc240dfc980d523cf9e4091d669b]: Commencement: S. 242 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-fa25bc240dfc980d523cf9e4091d669b]: Commencement: S. 242 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-a12ba75dfdee1b438dfe0853151a3e5b]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2024/13/section/242) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-a12ba75dfdee1b438dfe0853151a3e5b]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2024/13/section/242) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

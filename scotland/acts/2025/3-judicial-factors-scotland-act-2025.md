@@ -40,7 +40,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Appointment of judicial factor
 
-#### 1. Appointment of judicial factor[^key-af2fb845ae6d6eb1df9391adc204db78]
+#### 1. Appointment of judicial factor[^c-af2fb845ae6d6eb1df9391adc204db78]
 
 (1) The court may, on the application of an interested person (“**the applicant**”), appoint a judicial factor on an estate if the court considers that the conditions for appointment set out in section 4 are satisfied.
 
@@ -76,7 +76,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iii) where the application relates to the estate of a person other than an individual, of a sheriffdom in which the person’s registered office is situated or in which the person has a place of business,
   - (iv) where none of sub-paragraph (i) to (iii) applies, of the sheriffdom of Lothian and Borders sitting at Edinburgh.
 
-#### 2. Appointment of judicial factor: charities[^key-dcc454584632b19469055bff6cec5aef]
+#### 2. Appointment of judicial factor: charities[^c-dcc454584632b19469055bff6cec5aef]
 
 (1) Where an application is made under section 1(1) for the appointment of a judicial factor on the estate of a charity, the applicant must without delay—
 
@@ -100,7 +100,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Interim judicial factor
 
-#### 3. Interim judicial factor[^key-342d2ed9237d9516ede96763dfc04b35]
+#### 3. Interim judicial factor[^c-342d2ed9237d9516ede96763dfc04b35]
 
 (1) The court may appoint an interim judicial factor on an estate if it considers it necessary or expedient to do so, pending the determination of—
 
@@ -116,7 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Conditions and qualification for appointment
 
-#### 4. Conditions for appointment of judicial factor[^key-7339c67dd7b2c732f0fa4d6d0c3cd309]
+#### 4. Conditions for appointment of judicial factor[^c-7339c67dd7b2c732f0fa4d6d0c3cd309]
 
 (1) The conditions for appointment of a judicial factor are—
 
@@ -129,7 +129,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) In this section, “**actings**” includes such actions as may be required to hold, administer, or protect an estate for the benefit of persons with an interest in it.
 
-#### 5. Qualification for appointment as judicial factor[^key-0b53c9b43751047738421e7f9e489e05]
+#### 5. Qualification for appointment as judicial factor[^c-0b53c9b43751047738421e7f9e489e05]
 
 (1) A person may be appointed as a judicial factor only if the person is—
 
@@ -141,7 +141,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Caution
 
-#### 6. Finding of caution[^key-9f145b7813897d31fa5d004792c1cb0e]
+#### 6. Finding of caution[^c-9f145b7813897d31fa5d004792c1cb0e]
 
 (1) The court, when appointing a person as a judicial factor, may require the person to find caution for the performance of that person’s functions as judicial factor.
 
@@ -156,7 +156,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Intimation and recording of notice of appointment
 
-#### 7. Intimation and recording of notice of appointment[^key-b02be64f121374b81c53383363a35485]
+#### 7. Intimation and recording of notice of appointment[^c-b02be64f121374b81c53383363a35485]
 
 (1) Where a judicial factor is appointed, the clerk of court must, as soon as reasonably practicable after the date on which the interlocutor containing the order for the appointment of the judicial factor (“the appointing interlocutor”) is pronounced—
 
@@ -174,7 +174,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Any fee payable by virtue of subsection (1)(b) or (4)(a) is to be met from the factory estate.
 
-#### 8. Review of appropriateness of recording in the Register of Inhibitions[^key-28bdeed9b2490b53756cb1b90a63be41]
+#### 8. Review of appropriateness of recording in the Register of Inhibitions[^c-28bdeed9b2490b53756cb1b90a63be41]
 
 (1) The Scottish Ministers—
 
@@ -206,7 +206,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Vesting of estate in judicial factor
 
-#### 9. Vesting of estate in judicial factor[^key-e8b16327691e2407d07396ee2c2a4c1d]
+#### 9. Vesting of estate in judicial factor[^c-e8b16327691e2407d07396ee2c2a4c1d]
 
 (1) The whole estate on which a judicial factor is appointed vests in the judicial factor (in that person’s capacity as judicial factor)—
 
@@ -222,7 +222,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Warrant to intromit with estate
 
-#### 10. Warrant to intromit with estate[^key-d0418831b958b615dbbb8b137966cefd]
+#### 10. Warrant to intromit with estate[^c-d0418831b958b615dbbb8b137966cefd]
 
 (1) The clerk of court must issue to the judicial factor a certified copy of the appointing interlocutor without delay following the appointment date.
 
@@ -232,7 +232,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Remuneration and reimbursement of judicial factor
 
-#### 11. Remuneration and reimbursement of judicial factor[^key-29ddeecc769b5e04faf75f9162faf5c7]
+#### 11. Remuneration and reimbursement of judicial factor[^c-29ddeecc769b5e04faf75f9162faf5c7]
 
 (1) A judicial factor may be remunerated from the factory estate for carrying out the functions of judicial factor.
 
@@ -268,7 +268,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Guidance about the appointment of judicial factors on the estates of missing persons
 
-#### 12. Guidance about the appointment of judicial factors on the estates of missing persons[^key-5a38ecef93a03c4cf0a7152e7d5a1688]
+#### 12. Guidance about the appointment of judicial factors on the estates of missing persons[^c-5a38ecef93a03c4cf0a7152e7d5a1688]
 
 (1) The Scottish Ministers must issue guidance about the appointment of judicial factors on the estates of missing persons under section 1.
 
@@ -287,7 +287,7 @@ publish the guidance in such manner as they consider appropriate (which may incl
 
 ### Functions of judicial factor
 
-#### 13. Functions of judicial factor[^key-e57a00d774238cdeca6d521704751358]
+#### 13. Functions of judicial factor[^c-e57a00d774238cdeca6d521704751358]
 
 (1) It is the general function of a judicial factor to hold, manage, administer and protect the factory estate for the benefit of persons with an interest in the estate.
 
@@ -330,7 +330,7 @@ publish the guidance in such manner as they consider appropriate (which may incl
 
 ### Power of court to specify functions of judicial factor
 
-#### 14. Power of court to specify functions of judicial factor[^key-abf6bf985ff99e85b26f38bd42372a0b]
+#### 14. Power of court to specify functions of judicial factor[^c-abf6bf985ff99e85b26f38bd42372a0b]
 
 (1) In appointing a judicial factor the court may specify in the appointing interlocutor—
 
@@ -357,7 +357,7 @@ publish the guidance in such manner as they consider appropriate (which may incl
 
 ### Power of judicial factor to require information
 
-#### 15. Power of judicial factor to require information[^key-61da582e57af924a6c1cb58b1545b727]
+#### 15. Power of judicial factor to require information[^c-61da582e57af924a6c1cb58b1545b727]
 
 (1) A judicial factor may serve written notice on any person requesting that the person supply such information specified in the notice as the judicial factor reasonably considers relevant to the judicial factor’s functions.
 
@@ -387,7 +387,7 @@ is to be treated as having complied with the notice.
 
 ### Ingathering
 
-#### 16. Ingathering[^key-be682c9c32c04c0809e7381085f79abb]
+#### 16. Ingathering[^c-be682c9c32c04c0809e7381085f79abb]
 
 (1) A judicial factor must ingather the factory estate.
 
@@ -400,7 +400,7 @@ is to be treated as having complied with the notice.
 
 ### Inventory and management plan
 
-#### 17. Inventory of estate[^key-3826c79b5f0fc13f0a80618e62b7b590]
+#### 17. Inventory of estate[^c-3826c79b5f0fc13f0a80618e62b7b590]
 
 (1) A judicial factor must, no later than 6 months after the appointment date, send to the Accountant—
 
@@ -418,7 +418,7 @@ is to be treated as having complied with the notice.
 
 (5) The judicial factor and the Accountant may, at any time and in such manner as the Accountant may determine, take account of information discovered after the inventory is signed under subsection (4).
 
-#### 18. Management plan[^key-091f7dab5cc35e4bb59e97e1fbc4da71]
+#### 18. Management plan[^c-091f7dab5cc35e4bb59e97e1fbc4da71]
 
 (1) A judicial factor must, no later than 6 months after the appointment date, send to the Accountant—
 
@@ -461,7 +461,7 @@ is to be treated as having complied with the notice.
 
 ### Submission of accounts, etc.
 
-#### 19. Submission of accounts, etc.[^key-43d090da3bcd0ff69a298254b7facbe8]
+#### 19. Submission of accounts, etc.[^c-43d090da3bcd0ff69a298254b7facbe8]
 
 (1) A judicial factor must, as soon reasonably practicable following the end of each reporting period, submit to the Accountant a report setting out the judicial factor’s intromissions with the factory estate during the relevant reporting period.
 
@@ -486,7 +486,7 @@ is to be treated as having complied with the notice.
 
 ### Investment
 
-#### 20. Investment[^key-14c5c2542ddf8d0dd334de7f5360c38d]
+#### 20. Investment[^c-14c5c2542ddf8d0dd334de7f5360c38d]
 
 A judicial factor must—
 
@@ -495,7 +495,7 @@ A judicial factor must—
 
 ### Claims
 
-#### 21. Enforcing or defending claims[^key-1a5992d73f2e894a8ad6f712991af13e]
+#### 21. Enforcing or defending claims[^c-1a5992d73f2e894a8ad6f712991af13e]
 
 (1) A judicial factor must enforce or defend any claim in relation to the factory estate provided that the judicial factor is satisfied that to do so would be reasonable and prudent in all the circumstances.
 
@@ -503,7 +503,7 @@ A judicial factor must—
 
 ### Duty where estate object of dispute
 
-#### 22. Duty where estate object of dispute[^key-0ff796eefc0d7412195d3b862bb5cf65]
+#### 22. Duty where estate object of dispute[^c-0ff796eefc0d7412195d3b862bb5cf65]
 
 (1) This section applies where—
 
@@ -525,14 +525,14 @@ A judicial factor must—
 
 **Not yet in force.**
 
-### 23. Protection of person acquiring title[^key-bd828795d2341382fc66d48e888e8cad]
+### 23. Protection of person acquiring title[^c-bd828795d2341382fc66d48e888e8cad]
 
 Where a person has, in good faith and for value, acquired title from—
 
 - (a) a judicial factor, the title acquired is not challengeable on the ground that, subsequent to the acquisition, the judicial factor’s appointment was recalled,
 - (b) a person who derived title from a judicial factor, the title acquired is not challengeable on the ground that the title should not have been transferred to that person.
 
-### 24. Entitlements and liabilities of judicial factor[^key-59b343d0f789b9abe7299d95a868f8c6]
+### 24. Entitlements and liabilities of judicial factor[^c-59b343d0f789b9abe7299d95a868f8c6]
 
 A judicial factor stands in place of the factory estate in any dealings with a third party and accordingly the judicial factor, in the judicial factor’s capacity as such—
 
@@ -541,7 +541,7 @@ A judicial factor stands in place of the factory estate in any dealings with a t
   - (i) receive any amount due to the estate by the third party,
   - (ii) enforce any obligation due to the estate by the third party.
 
-### 25. Contracts entered into by judicial factor[^key-33a92ea4fb40d71782a3b2733a060359]
+### 25. Contracts entered into by judicial factor[^c-33a92ea4fb40d71782a3b2733a060359]
 
 (1) Subsection (2) applies where a judicial factor, in the capacity of judicial factor, enters into a contract with a person who is or ought to be aware that the judicial factor is entering into the contract in that capacity.
 
@@ -550,11 +550,11 @@ A judicial factor stands in place of the factory estate in any dealings with a t
 - (a) any rights which that person or any third party has under or by virtue of the contract are enforceable against the factory estate only, and
 - (b) if the contract gives rise to legal proceedings, the action is to be raised by, or, as the case may be, directed against, the judicial factor in the judicial factor’s capacity as such.
 
-### 26. Expenses of legal proceedings on behalf of factory estate[^key-3af0c5cb99e18afb5a234fe68ee66ba3]
+### 26. Expenses of legal proceedings on behalf of factory estate[^c-3af0c5cb99e18afb5a234fe68ee66ba3]
 
 Subject to section 27, where a judicial factor engages in legal proceedings on behalf of the factory estate, any expenses of the proceedings awarded against the judicial factor fall to be met from the factory estate.
 
-### 27. Claims arising from acts or omissions of judicial factor[^key-7e34d3722a555cd14d06d30e75c6bc7e]
+### 27. Claims arising from acts or omissions of judicial factor[^c-7e34d3722a555cd14d06d30e75c6bc7e]
 
 (1) This section applies where a claim for damages arises as a result of the acts or omissions of—
 
@@ -568,13 +568,13 @@ Subject to section 27, where a judicial factor engages in legal proceedings on b
 - (a) finds that the liability arose by virtue of a breach of duty on the part of the judicial factor, and
 - (b) considers it appropriate that the judicial factor be found personally liable for all, or some part of, the liability.
 
-### 28. Prescription of obligations[^key-80be89597588880a955cb3131a3c6ca9]
+### 28. Prescription of obligations[^c-80be89597588880a955cb3131a3c6ca9]
 
 (1) Subject to subsection (2), obligations due to or by a factory estate prescribe as if there had been no appointment of a judicial factor on the estate.
 
 (2) The period during which a person is appointed as judicial factor on an estate does not form part of the prescriptive period in respect of any obligation due by that person to the estate.
 
-### 29. Validity of certain transactions by judicial factor appointed on trust estate[^key-3bb06a28aa6e6ba636c61a03079ae6de]
+### 29. Validity of certain transactions by judicial factor appointed on trust estate[^c-3bb06a28aa6e6ba636c61a03079ae6de]
 
 (1) This section applies where a judicial factor is appointed on a trust estate and in relation to the trust estate, or any part of it, the judicial factor—
 
@@ -614,7 +614,7 @@ Subject to section 27, where a judicial factor engages in legal proceedings on b
 
 ### Distribution of factory estate
 
-#### 30. Approval of judicial factor’s scheme for distribution of factory estate[^key-9b206be6eb1076964d35a5cee12fef7a]
+#### 30. Approval of judicial factor’s scheme for distribution of factory estate[^c-9b206be6eb1076964d35a5cee12fef7a]
 
 (1) This section applies where a judicial factor has formulated a scheme—
 
@@ -667,7 +667,7 @@ Subject to section 27, where a judicial factor engages in legal proceedings on b
 
 (12) This section and sections 31 and 32 apply in relation to any formulation, scheme, approval, application or recording in relation to a part only of a factory estate as they apply in relation to a factory estate.
 
-#### 31. Application for distribution of factory estate[^key-fdef0c1409f8c7c44e8ceefcbd97dfcc]
+#### 31. Application for distribution of factory estate[^c-fdef0c1409f8c7c44e8ceefcbd97dfcc]
 
 (1) A person with an interest in the distribution of the factory estate (“**the applicant**”) may apply to the court for distribution in such manner as the court considers appropriate.
 
@@ -707,7 +707,7 @@ Subject to section 27, where a judicial factor engages in legal proceedings on b
 
 ### Termination, recall and discharge after distribution
 
-#### 32. Termination, recall and discharge after distribution of factory estate[^key-73abab6a12ac1d30996944b65e96700a]
+#### 32. Termination, recall and discharge after distribution of factory estate[^c-73abab6a12ac1d30996944b65e96700a]
 
 (1) This section applies where a judicial factor has distributed the factory estate by virtue of section 30(8) or (11) or section 31(5)(a).
 
@@ -733,7 +733,7 @@ Subject to section 27, where a judicial factor engages in legal proceedings on b
 
 ### Appointment of replacement judicial factor
 
-#### 33. Duty of Accountant to apply for appointment of replacement where judicial factor has died or ceased to perform duties[^key-d2b104cf66cb9dab87bbf4c0147ff17a]
+#### 33. Duty of Accountant to apply for appointment of replacement where judicial factor has died or ceased to perform duties[^c-d2b104cf66cb9dab87bbf4c0147ff17a]
 
 (1) Where a judicial factor (“the original judicial factor”)—
 
@@ -766,7 +766,7 @@ the Accountant must apply to the court under section 1(1) for a judicial factor 
 
 ### Other applications for recall and discharge
 
-#### 34. Resignation and applications for recall and discharge in other circumstances[^key-57701b85a028742c9c8882e314fefd8c]
+#### 34. Resignation and applications for recall and discharge in other circumstances[^c-57701b85a028742c9c8882e314fefd8c]
 
 (1) Where a judicial factor wishes to resign other than in the circumstances mentioned in section 30(1)(a) or (b), the court may, on application by the judicial factor—
 
@@ -810,7 +810,7 @@ until the court has received and considered a report under subsection (9), and m
 
 ### Inventory and balance sheet
 
-#### 35. Inventory and balance sheet where replacement judicial factor appointed[^key-cbbba3a290defe8013d2c204dabbd940]
+#### 35. Inventory and balance sheet where replacement judicial factor appointed[^c-cbbba3a290defe8013d2c204dabbd940]
 
 (1) Where a replacement judicial factor is appointed by virtue of—
 
@@ -823,7 +823,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### Termination of judicial factory where insufficient funds
 
-#### 36. Termination of judicial factory where insufficient funds[^key-f920a575cc987bcc58364312a3f0e511]
+#### 36. Termination of judicial factory where insufficient funds[^c-f920a575cc987bcc58364312a3f0e511]
 
 (1) This section applies where the Accountant is satisfied that there are not sufficient funds in the factory estate to meet the expenses of, or arising in connection with—
 
@@ -846,7 +846,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### Ending of judicial factor’s accountability on discharge
 
-#### 37. Ending of judicial factor’s accountability on discharge[^key-3fd69242740ceacc57a240eaa7b9a328]
+#### 37. Ending of judicial factor’s accountability on discharge[^c-3fd69242740ceacc57a240eaa7b9a328]
 
 (1) A judicial factor’s accountability for acts and omissions in the capacity of judicial factor in relation to the factory estate or, as the case may be, part of the estate, ends when—
 
@@ -861,7 +861,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### Accountant of Court and Depute Accountant
 
-#### 38. Accountant of Court: appointment, remuneration and fees[^key-96f2ae03b1dae1a1d53e99aa86de8323]
+#### 38. Accountant of Court: appointment, remuneration and fees[^c-96f2ae03b1dae1a1d53e99aa86de8323]
 
 (1) The Scottish Courts and Tribunals Service (“the SCTS”) may appoint a person to the office of Accountant of Court only if the person is, in the opinion of the SCTS, appropriately qualified or experienced in law and accounting.
 
@@ -890,7 +890,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 (9) The Accountant may waive the right to recover a particular fee charged by virtue of subsection (6) if satisfied that it is unlikely to be recovered.
 
-#### 39. Depute Accountant[^key-3e9453bab11f69384389179836b62860]
+#### 39. Depute Accountant[^c-3e9453bab11f69384389179836b62860]
 
 (1) The SCTS may appoint a Depute Accountant to carry out the functions of the Accountant during any period when the Accountant is unable to do so, on such terms and conditions as the SCTS may determine.
 
@@ -913,7 +913,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### General function of Accountant of Court
 
-#### 40. General function of Accountant of Court[^key-b7558645d3416a4fb4303d9d0b46070c]
+#### 40. General function of Accountant of Court[^c-b7558645d3416a4fb4303d9d0b46070c]
 
 (1) The Accountant must—
 
@@ -927,7 +927,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### Misconduct or failure of judicial factor
 
-#### 41. Misconduct or failure of judicial factor[^key-3e3c27c5a92ba24de20749f7c1742ab8]
+#### 41. Misconduct or failure of judicial factor[^c-3e3c27c5a92ba24de20749f7c1742ab8]
 
 (1) Subsection (2) applies where the Accountant has reason to believe that a judicial factor—
 
@@ -964,7 +964,7 @@ the replacement judicial factor and the Accountant must agree the inventory and 
 
 ### Power of Accountant to require information
 
-#### 42. Power of Accountant to require information[^key-7c1dcbe41257575821a853b72c176e75]
+#### 42. Power of Accountant to require information[^c-7c1dcbe41257575821a853b72c176e75]
 
 (1) The Accountant may serve written notice on the judicial factor or any other person requesting that the judicial factor or other person, as the case may be, provide such information specified in the notice as the Accountant reasonably considers relevant to the Accountant’s functions under this Act.
 
@@ -992,7 +992,7 @@ is to be treated as having complied with the notice.
 
 ### Audit by Accountant
 
-#### 43. Audit by Accountant[^key-dab56221affa7e2cf9d9846bffc0902c]
+#### 43. Audit by Accountant[^c-dab56221affa7e2cf9d9846bffc0902c]
 
 (1) Where the Accountant receives accounts prepared by a judicial factor by virtue of this Act the Accountant must audit the accounts in accordance with this section.
 
@@ -1015,7 +1015,7 @@ is to be treated as having complied with the notice.
 
 (6) Any costs incurred in remitting the accounts to a person under subsection (2)(b) are to be met from the factory estate.
 
-#### 44. Audit by Accountant: objection and appeal[^key-20c1a7325ee3c960294d60a378f02461]
+#### 44. Audit by Accountant: objection and appeal[^c-20c1a7325ee3c960294d60a378f02461]
 
 (1) Subject to subsections (2) to (5)—
 
@@ -1038,7 +1038,7 @@ are conclusive.
 
 ### Annual review
 
-#### 45. Annual review[^key-b2632501184069f5daaaf496f279b807]
+#### 45. Annual review[^c-b2632501184069f5daaaf496f279b807]
 
 (1) As soon as reasonably practicable following the expiry of each reporting year, the Accountant must publish a review of the Accountant’s activities in relation to the relevant judicial factories in the relevant reporting year.
 
@@ -1056,7 +1056,7 @@ are conclusive.
 
 ### Inspection of records held by Accountant
 
-#### 46. Inspection of records held by Accountant[^key-38d0e845baec98b6f4650c6e7681737e]
+#### 46. Inspection of records held by Accountant[^c-38d0e845baec98b6f4650c6e7681737e]
 
 (1) When a person with an interest in a factory estate so requests, the Accountant must, on cause shown—
 
@@ -1077,7 +1077,7 @@ are conclusive.
 
 ### Inconsistency in judgement or practice
 
-#### 47. Inconsistency in judgement or practice[^key-e70edf36ee744ea45dde8e28213c31e2]
+#### 47. Inconsistency in judgement or practice[^c-e70edf36ee744ea45dde8e28213c31e2]
 
 (1) This section applies where it appears to the Accountant that—
 
@@ -1093,7 +1093,7 @@ are conclusive.
 
 ### Right of judicial factor to require determination as regards decision of Accountant
 
-#### 48. Right of judicial factor to require determination as regards decision of Accountant[^key-8922e2cfbb31231ceb52b65c624efbbf]
+#### 48. Right of judicial factor to require determination as regards decision of Accountant[^c-8922e2cfbb31231ceb52b65c624efbbf]
 
 (1) A judicial factor may apply to the court which appointed the judicial factor for a determination as regards any decision of the Accountant which relates to the judicial factory.
 
@@ -1110,11 +1110,11 @@ are conclusive.
 
 **Not yet in force.**
 
-#### 49. Competence of appointing curator bonis[^key-a60420f46807199fe75942cd684cc6f4]
+#### 49. Competence of appointing curator bonis[^c-a60420f46807199fe75942cd684cc6f4]
 
 In any proceedings begun after the coming into force of this section it is not competent to appoint a curator bonis to any person.
 
-#### 50. Application of this Act[^key-2e17ff8077aab63643f36bf49f873357]
+#### 50. Application of this Act[^c-2e17ff8077aab63643f36bf49f873357]
 
 The provisions of this Act apply (as they apply in relation to a judicial factor (or interim judicial factor) appointed under this Act) in relation to a judicial factor (or interim judicial factor) appointed under—
 
@@ -1123,7 +1123,7 @@ The provisions of this Act apply (as they apply in relation to a judicial factor
 
 ### General
 
-#### 51. Ancillary provision[^key-1ce0fd00ac9e51ff7b022a0753f12d68]
+#### 51. Ancillary provision[^c-1ce0fd00ac9e51ff7b022a0753f12d68]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory, or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -1137,7 +1137,7 @@ The provisions of this Act apply (as they apply in relation to a judicial factor
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, and
 - (b) are otherwise subject to the negative procedure.
 
-#### 52. Modification of enactments and repeals and revocations[^key-d9d416100abc2f30ee6068a7b148c1f6]
+#### 52. Modification of enactments and repeals and revocations[^c-d9d416100abc2f30ee6068a7b148c1f6]
 
 **Not yet in force.**
 
@@ -1145,7 +1145,7 @@ The provisions of this Act apply (as they apply in relation to a judicial factor
 
 (2) Schedule 3 contains repeals and revocations.
 
-#### 53. Interpretation[^key-8552fd7f3cfa4bf57deb35c506c99add]
+#### 53. Interpretation[^c-8552fd7f3cfa4bf57deb35c506c99add]
 
 **Not yet in force.**
 
@@ -1162,7 +1162,7 @@ In this Act—
 - “**Keeper**” has the meaning given in section 7(1)(b), and
 - “**OSCR**” has the meaning given in section 2(1)(a).
 
-#### 54. Commencement[^key-092f8f2e2d4a69170f7d647e4993786e]
+#### 54. Commencement[^c-092f8f2e2d4a69170f7d647e4993786e]
 
 (1) This section and sections 51 and 55 come into force on the day after Royal Assent.
 
@@ -1173,7 +1173,7 @@ In this Act—
 - (a) include transitional, transitory, or saving provision,
 - (b) make different provision for different purposes.
 
-#### 55. Short title[^key-f07fbf3180912db5b2b76cef28ad966e]
+#### 55. Short title[^c-f07fbf3180912db5b2b76cef28ad966e]
 
 The short title of this Act is the Judicial Factors (Scotland) Act 2025.
 
@@ -1183,65 +1183,65 @@ The short title of this Act is the Judicial Factors (Scotland) Act 2025.
 
 (introduced by section 13(7))
 
-**1.**[^key-a0b0e2d94ba10fee8c8011328d1464ed] To take possession of, collect and ingather the property of the factory estate.
+**1.**[^c-a0b0e2d94ba10fee8c8011328d1464ed] To take possession of, collect and ingather the property of the factory estate.
 
-**2.**[^key-f0ac32b2982f2496790f079e3d7ceb31] On behalf of the factory estate—
+**2.**[^c-f0ac32b2982f2496790f079e3d7ceb31] On behalf of the factory estate—
 
 - (a) to bring or defend any action,
 - (b) to make any application to the court, or
 - (c) to engage in any other legal proceedings.
 
-**3.**[^key-8c60f070c9a3a611e3bb42179c5b9d65] To carry out works.
+**3.**[^c-8c60f070c9a3a611e3bb42179c5b9d65] To carry out works.
 
-**4.**[^key-8288b2b8670d08300f371767157f85ed] To grant any deed necessary for carrying into effect a function vested in the judicial factor.
+**4.**[^c-8288b2b8670d08300f371767157f85ed] To grant any deed necessary for carrying into effect a function vested in the judicial factor.
 
-**5.**[^key-03e397799b7905b2e737b109cf320c32] To carry on—
+**5.**[^c-03e397799b7905b2e737b109cf320c32] To carry on—
 
 - (a) the business (if any) of the factory estate, or
 - (b) any part of that business.
 
-**6.**[^key-688e66acfeb83e4c930be9007dab2572] To enter into, or take over, a contract.
+**6.**[^c-688e66acfeb83e4c930be9007dab2572] To enter into, or take over, a contract.
 
-**7.**[^key-a15590d73454b84b592061b139d539f2] To pay a debt due by the estate without requiring the creditor to constitute the debt, provided that the judicial factor is satisfied that the debt is a proper debt of the factory estate.
+**7.**[^c-a15590d73454b84b592061b139d539f2] To pay a debt due by the estate without requiring the creditor to constitute the debt, provided that the judicial factor is satisfied that the debt is a proper debt of the factory estate.
 
-**8.**[^key-1f12defa3f2b84ccad67b8ac058b1fb3] To employ, or dismiss from employment, any person.
+**8.**[^c-1f12defa3f2b84ccad67b8ac058b1fb3] To employ, or dismiss from employment, any person.
 
-**9.**[^key-612d8c4041cd6e311f930ee259a17dcd] To appoint an agent to carry out business which the judicial factor does not have the competence to carry out.
+**9.**[^c-612d8c4041cd6e311f930ee259a17dcd] To appoint an agent to carry out business which the judicial factor does not have the competence to carry out.
 
-**10.**[^key-b76455a741c9bf9d4d7213113b34c52f] To remunerate any person appointed under paragraph 9.
+**10.**[^c-b76455a741c9bf9d4d7213113b34c52f] To remunerate any person appointed under paragraph 9.
 
-**11.**[^key-efd244d7d5f256cb6e7c4cc18e0972aa] To sell the factory estate, or any part of the factory estate.
+**11.**[^c-efd244d7d5f256cb6e7c4cc18e0972aa] To sell the factory estate, or any part of the factory estate.
 
-**12.**[^key-a585c414b9df27a6a6d44caddd9d15c6] To grant, vary, or accept the surrender of a lease or tenancy of any duration of the heritable factory estate or of any part of the heritable factory estate.
+**12.**[^c-a585c414b9df27a6a6d44caddd9d15c6] To grant, vary, or accept the surrender of a lease or tenancy of any duration of the heritable factory estate or of any part of the heritable factory estate.
 
-**13.**[^key-1726af0b61f772c4fe5bf37ce97601b7] To remove a tenant.
+**13.**[^c-1726af0b61f772c4fe5bf37ce97601b7] To remove a tenant.
 
-**14.**[^key-58baf77e7b0d50a9af95305ddc84188c] To take a lease or tenancy of any duration of any property if it is a lease or tenancy required for the business of the factory estate.
+**14.**[^c-58baf77e7b0d50a9af95305ddc84188c] To take a lease or tenancy of any duration of any property if it is a lease or tenancy required for the business of the factory estate.
 
-**15.**[^key-b4ea8d6d071ffa824309d76effce4fa0] To make any kind of investment of the factory estate, including an investment in heritable property.
+**15.**[^c-b4ea8d6d071ffa824309d76effce4fa0] To make any kind of investment of the factory estate, including an investment in heritable property.
 
-**16.**[^key-7ec7f717b8d650aee34fd11e7cda9c3b] To appoint a person as the judicial factor’s nominee, to exercise the judicial factor’s function of investment under paragraph 15.
+**16.**[^c-7ec7f717b8d650aee34fd11e7cda9c3b] To appoint a person as the judicial factor’s nominee, to exercise the judicial factor’s function of investment under paragraph 15.
 
-**17.**[^key-970d39ffe604de93c898303a80218873] To authorise an agent to exercise any of the judicial factor’s investment management functions at the agent’s discretion.
+**17.**[^c-970d39ffe604de93c898303a80218873] To authorise an agent to exercise any of the judicial factor’s investment management functions at the agent’s discretion.
 
-**18.**[^key-80eed9fc892425bc8ad050aab142d059] To exchange any part of the heritable factory estate for heritable estate of a like, or greater, value.
+**18.**[^c-80eed9fc892425bc8ad050aab142d059] To exchange any part of the heritable factory estate for heritable estate of a like, or greater, value.
 
-**19.**[^key-e3084d462a16c2ae612e7d0d6beb9696] To acquire property (whether heritable or moveable).
+**19.**[^c-e3084d462a16c2ae612e7d0d6beb9696] To acquire property (whether heritable or moveable).
 
-**20.**[^key-0159a93cc8239ff26e1588d47ce9ab0b] To borrow money on the security of the factory estate or of any part of the factory estate.
+**20.**[^c-0159a93cc8239ff26e1588d47ce9ab0b] To borrow money on the security of the factory estate or of any part of the factory estate.
 
-**21.**[^key-dc450beb983ea19ae77f9a780d68e7f2] On behalf of the factory estate, to draw, accept, make or endorse any bill of exchange or promissory note.
+**21.**[^c-dc450beb983ea19ae77f9a780d68e7f2] On behalf of the factory estate, to draw, accept, make or endorse any bill of exchange or promissory note.
 
-**22.**[^key-e750da13b625c0b4b884b310aa86dff1] To refer to arbitration a question affecting the factory estate.
+**22.**[^c-e750da13b625c0b4b884b310aa86dff1] To refer to arbitration a question affecting the factory estate.
 
-**23.**[^key-628ac6f9532e4a0148e47d7d9d741017] To formulate and propose a scheme for division of the factory estate.
+**23.**[^c-628ac6f9532e4a0148e47d7d9d741017] To formulate and propose a scheme for division of the factory estate.
 
-**24.**[^key-185b1070655c7dd1df8a215196d5dc66] To apply to the court for—
+**24.**[^c-185b1070655c7dd1df8a215196d5dc66] To apply to the court for—
 
 - (a) authority to act at variance with the purposes of the judicial factory,
 - (b) a variation of the judicial factor’s functions.
 
-**25.**[^key-e0dc3a459cefe2a44b3b05a4f9b1860a] In respect of any securities of a company which are comprised in the factory estate, to concur, as if the judicial factor was entitled to the securities beneficially, in any scheme or arrangement for—
+**25.**[^c-e0dc3a459cefe2a44b3b05a4f9b1860a] In respect of any securities of a company which are comprised in the factory estate, to concur, as if the judicial factor was entitled to the securities beneficially, in any scheme or arrangement for—
 
 - (a) the reconstruction of the company,
 - (b) the sale of the property and undertaking of the company, or any part of that property and undertaking, to another company,
@@ -1249,11 +1249,11 @@ The short title of this Act is the Judicial Factors (Scotland) Act 2025.
 - (d) the amalgamation of the company with another company, or
 - (e) the release, modification or variation of any rights, privileges or liabilities attached to the securities or any of the securities.
 
-**26.**[^key-57bd485584e58e96eb8c942bbcd6c17f] To accept any securities of the reconstructed, purchasing or new company in lieu of, or in exchange for, all or any of the original securities.
+**26.**[^c-57bd485584e58e96eb8c942bbcd6c17f] To accept any securities of the reconstructed, purchasing or new company in lieu of, or in exchange for, all or any of the original securities.
 
-**27.**[^key-f937347a3e2f4ef6ab0b5137d6386600] To retain any such securities for any period which the judicial factor could properly have retained the original securities.
+**27.**[^c-f937347a3e2f4ef6ab0b5137d6386600] To retain any such securities for any period which the judicial factor could properly have retained the original securities.
 
-**28.**[^key-8303aa1c64c6378e90653bd7b7f00127] To such extent as the judicial factor considers appropriate—
+**28.**[^c-8303aa1c64c6378e90653bd7b7f00127] To such extent as the judicial factor considers appropriate—
 
 - (a) to exercise any conditional or preferential right to subscribe for any securities in a company,
 - (b) to apply capital of the factory estate in payment of the consideration for such subscription,
@@ -1265,7 +1265,7 @@ The short title of this Act is the Judicial Factors (Scotland) Act 2025.
 
 (introduced by section 52(1))
 
-### 1. Trusts (Scotland) Act 1921[^key-0faf1959c34d4fc33d998be5a0e15925]
+### 1. Trusts (Scotland) Act 1921[^c-0faf1959c34d4fc33d998be5a0e15925]
 
 (1) The Trusts (Scotland) Act 1921 is amended as follows.
 
@@ -1286,7 +1286,7 @@ The short title of this Act is the Judicial Factors (Scotland) Act 2025.
 
 (6) Section 25 (completion of title of judicial factors) is repealed.
 
-### 2. Conveyancing (Scotland) Act 1924[^key-c3a6bcf18c606185b8ad1440955df52e]
+### 2. Conveyancing (Scotland) Act 1924[^c-c3a6bcf18c606185b8ad1440955df52e]
 
 In section 5(3)(b) of the Conveyancing (Scotland) Act 1924 (deduction of title)—
 
@@ -1294,14 +1294,14 @@ In section 5(3)(b) of the Conveyancing (Scotland) Act 1924 (deduction of title)�
 - (b) for the words “section forty four of the said Act of 1874, as hereby amended,” there is substituted “that section”, and
 - (c) the words “shall be applicable to all judicial factors within the meaning of section three of the said Act of 1868, and both of such sections hereby amended” are repealed.
 
-### 3. Companies Act 1989[^key-111372195ab74a5a8b09ce0754ee62ca]
+### 3. Companies Act 1989[^c-111372195ab74a5a8b09ce0754ee62ca]
 
 In section 182(3)(b) of the Companies Act 1989 (powers of court in relation to certain proceedings begun before the commencement of that section)—
 
 - (a) the words “by a judicial factor appointed under section 11A of the Judicial Factors (Scotland) Act 1889” are repealed, and
 - (b) after the word “person” there is inserted “by a judicial factor appointed under the Judicial Factors (Scotland) Act 2025”.
 
-### 4. Pension Schemes Act 1993[^key-e7460f7d91bf46813d55b5f22abf2278]
+### 4. Pension Schemes Act 1993[^c-e7460f7d91bf46813d55b5f22abf2278]
 
 (1) The Pension Schemes Act 1993 is amended as follows.
 
@@ -1309,7 +1309,7 @@ In section 182(3)(b) of the Companies Act 1989 (powers of court in relation to c
 
 (3) In section 127(2)(b) transfer to Secretary of State of rights and remedies), for “11A of the Judicial Factors (Scotland) Act 1889” substitute “129ZA of that Act”.
 
-### 5. Employment Rights Act 1996[^key-d0bdd8ba2f9a3fbef6c2a273863b1fbf]
+### 5. Employment Rights Act 1996[^c-d0bdd8ba2f9a3fbef6c2a273863b1fbf]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -1317,19 +1317,19 @@ In section 182(3)(b) of the Companies Act 1989 (powers of court in relation to c
 
 (3) In section 189(2)(b) (transfer to Secretary of State of rights and remedies), for “11A of the Judicial Factors (Scotland) Act 1889” substitute “129ZA of that Act”.
 
-### 6. Pensions Act 2004[^key-46141af13852d14bfe1f0ad534c6d3bd]
+### 6. Pensions Act 2004[^c-46141af13852d14bfe1f0ad534c6d3bd]
 
 In section 121(2)(e)(ii) of the Pensions Act 2004 (insolvency event, insolvency date and insolvency practitioner), for “section 11A of the Judicial Factors (Scotland) Act [1889 (c.39)](https://www.legislation.gov.uk/ukpga/1889/39) is required by that section to divide the individual’s” substitute “the Judicial Factors (Scotland) Act 2025 on the individual’s insolvent estate is required by virtue of section 129ZA of the Bankruptcy (Scotland) Act 2016 to divide the”.
 
-### 7. Bankruptcy and Diligence etc. (Scotland) Act 2007[^key-e924021e289d6e62456806495981c2a7]
+### 7. Bankruptcy and Diligence etc. (Scotland) Act 2007[^c-e924021e289d6e62456806495981c2a7]
 
 In section 168(2)(a) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (inhibition effective against judicial factor), for “under section 11A of the Judicial Factors (Scotland) Act [1889 (c.39)](https://www.legislation.gov.uk/ukpga/1889/39) (application for judicial factor on deceased person’s estate)” substitute “, under the Judicial Factors (Scotland) Act 2025, on the insolvent estate of a deceased person”.
 
-### 8. Third Parties (Rights against Insurers) Act 2010[^key-0ba7b56f6f9ffa1f797c873aaee04b13]
+### 8. Third Parties (Rights against Insurers) Act 2010[^c-0ba7b56f6f9ffa1f797c873aaee04b13]
 
 In section 5(2)(c) of the Third Parties (Rights against Insurers) Act 2010 (individuals who die insolvent), for “section 11A of the Judicial Factors (Scotland) Act 1889 in respect of” substitute “the Judicial Factors (Scotland) Act 2025 on”.
 
-### 9. Courts Reform (Scotland) Act 2014[^key-6c2be4ca22df21ebdbf426dbf74f5af8]
+### 9. Courts Reform (Scotland) Act 2014[^c-6c2be4ca22df21ebdbf426dbf74f5af8]
 
 In section 39 of the Courts Reform (Scotland) Act 2014 (exclusive competence), after subsection (3) insert—
 
@@ -1337,7 +1337,7 @@ In section 39 of the Courts Reform (Scotland) Act 2014 (exclusive competence), a
 
 .
 
-### 10. Bankruptcy (Scotland) Act 2016[^key-0af94043ae9699164d8b9efe525511bf]
+### 10. Bankruptcy (Scotland) Act 2016[^c-0af94043ae9699164d8b9efe525511bf]
 
 (1) The Bankruptcy (Scotland) Act 2016 is amended as follows.
 
@@ -1387,7 +1387,7 @@ In section 39 of the Courts Reform (Scotland) Act 2014 (exclusive competence), a
 
 (introduced by section 52(2))
 
-### Part 1 — Repeals[^key-93e4816f976f88cee94cc053791f38d8]
+### Part 1 — Repeals[^c-93e4816f976f88cee94cc053791f38d8]
 
 <table>
 <thead>
@@ -1416,7 +1416,7 @@ In section 39 of the Courts Reform (Scotland) Act 2014 (exclusive competence), a
 </tbody>
 </table>
 
-### Part 2 — Revocations[^key-f77f551fabc3f276709ea5f86f7775c1]
+### Part 2 — Revocations[^c-f77f551fabc3f276709ea5f86f7775c1]
 
 | Title and date | Extent of revocation |
 | --- | --- |
@@ -1428,192 +1428,192 @@ In section 39 of the Courts Reform (Scotland) Act 2014 (exclusive competence), a
 
 ## Annotations
 
-[^key-af2fb845ae6d6eb1df9391adc204db78]: Commencement: S. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-af2fb845ae6d6eb1df9391adc204db78]: Commencement: S. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-dcc454584632b19469055bff6cec5aef]: Commencement: S. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-dcc454584632b19469055bff6cec5aef]: Commencement: S. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-342d2ed9237d9516ede96763dfc04b35]: Commencement: S. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-342d2ed9237d9516ede96763dfc04b35]: Commencement: S. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-7339c67dd7b2c732f0fa4d6d0c3cd309]: Commencement: S. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-7339c67dd7b2c732f0fa4d6d0c3cd309]: Commencement: S. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0b53c9b43751047738421e7f9e489e05]: Commencement: S. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0b53c9b43751047738421e7f9e489e05]: Commencement: S. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-9f145b7813897d31fa5d004792c1cb0e]: Commencement: S. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-9f145b7813897d31fa5d004792c1cb0e]: Commencement: S. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-b02be64f121374b81c53383363a35485]: Commencement: S. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-b02be64f121374b81c53383363a35485]: Commencement: S. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-28bdeed9b2490b53756cb1b90a63be41]: Commencement: S. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-28bdeed9b2490b53756cb1b90a63be41]: Commencement: S. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e8b16327691e2407d07396ee2c2a4c1d]: Commencement: S. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e8b16327691e2407d07396ee2c2a4c1d]: Commencement: S. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-d0418831b958b615dbbb8b137966cefd]: Commencement: S. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-d0418831b958b615dbbb8b137966cefd]: Commencement: S. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-29ddeecc769b5e04faf75f9162faf5c7]: Commencement: S. 11 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-29ddeecc769b5e04faf75f9162faf5c7]: Commencement: S. 11 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-5a38ecef93a03c4cf0a7152e7d5a1688]: Commencement: S. 12 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-5a38ecef93a03c4cf0a7152e7d5a1688]: Commencement: S. 12 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e57a00d774238cdeca6d521704751358]: Commencement: S. 13 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e57a00d774238cdeca6d521704751358]: Commencement: S. 13 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-abf6bf985ff99e85b26f38bd42372a0b]: Commencement: S. 14 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-abf6bf985ff99e85b26f38bd42372a0b]: Commencement: S. 14 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-61da582e57af924a6c1cb58b1545b727]: Commencement: S. 15 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-61da582e57af924a6c1cb58b1545b727]: Commencement: S. 15 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-be682c9c32c04c0809e7381085f79abb]: Commencement: S. 16 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-be682c9c32c04c0809e7381085f79abb]: Commencement: S. 16 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3826c79b5f0fc13f0a80618e62b7b590]: Commencement: S. 17 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3826c79b5f0fc13f0a80618e62b7b590]: Commencement: S. 17 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-091f7dab5cc35e4bb59e97e1fbc4da71]: Commencement: S. 18 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-091f7dab5cc35e4bb59e97e1fbc4da71]: Commencement: S. 18 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-43d090da3bcd0ff69a298254b7facbe8]: Commencement: S. 19 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-43d090da3bcd0ff69a298254b7facbe8]: Commencement: S. 19 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-14c5c2542ddf8d0dd334de7f5360c38d]: Commencement: S. 20 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-14c5c2542ddf8d0dd334de7f5360c38d]: Commencement: S. 20 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-1a5992d73f2e894a8ad6f712991af13e]: Commencement: S. 21 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-1a5992d73f2e894a8ad6f712991af13e]: Commencement: S. 21 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0ff796eefc0d7412195d3b862bb5cf65]: Commencement: S. 22 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0ff796eefc0d7412195d3b862bb5cf65]: Commencement: S. 22 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-bd828795d2341382fc66d48e888e8cad]: Commencement: S. 23 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-bd828795d2341382fc66d48e888e8cad]: Commencement: S. 23 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-59b343d0f789b9abe7299d95a868f8c6]: Commencement: S. 24 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-59b343d0f789b9abe7299d95a868f8c6]: Commencement: S. 24 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-33a92ea4fb40d71782a3b2733a060359]: Commencement: S. 25 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-33a92ea4fb40d71782a3b2733a060359]: Commencement: S. 25 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3af0c5cb99e18afb5a234fe68ee66ba3]: Commencement: S. 26 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3af0c5cb99e18afb5a234fe68ee66ba3]: Commencement: S. 26 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-7e34d3722a555cd14d06d30e75c6bc7e]: Commencement: S. 27 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-7e34d3722a555cd14d06d30e75c6bc7e]: Commencement: S. 27 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-80be89597588880a955cb3131a3c6ca9]: Commencement: S. 28 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-80be89597588880a955cb3131a3c6ca9]: Commencement: S. 28 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3bb06a28aa6e6ba636c61a03079ae6de]: Commencement: S. 29 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3bb06a28aa6e6ba636c61a03079ae6de]: Commencement: S. 29 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-9b206be6eb1076964d35a5cee12fef7a]: Commencement: S. 30 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-9b206be6eb1076964d35a5cee12fef7a]: Commencement: S. 30 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-fdef0c1409f8c7c44e8ceefcbd97dfcc]: Commencement: S. 31 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-fdef0c1409f8c7c44e8ceefcbd97dfcc]: Commencement: S. 31 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-73abab6a12ac1d30996944b65e96700a]: Commencement: S. 32 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-73abab6a12ac1d30996944b65e96700a]: Commencement: S. 32 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-d2b104cf66cb9dab87bbf4c0147ff17a]: Commencement: S. 33 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-d2b104cf66cb9dab87bbf4c0147ff17a]: Commencement: S. 33 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-57701b85a028742c9c8882e314fefd8c]: Commencement: S. 34 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-57701b85a028742c9c8882e314fefd8c]: Commencement: S. 34 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-cbbba3a290defe8013d2c204dabbd940]: Commencement: S. 35 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-cbbba3a290defe8013d2c204dabbd940]: Commencement: S. 35 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-f920a575cc987bcc58364312a3f0e511]: Commencement: S. 36 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-f920a575cc987bcc58364312a3f0e511]: Commencement: S. 36 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3fd69242740ceacc57a240eaa7b9a328]: Commencement: S. 37 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3fd69242740ceacc57a240eaa7b9a328]: Commencement: S. 37 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-96f2ae03b1dae1a1d53e99aa86de8323]: Commencement: S. 38 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-96f2ae03b1dae1a1d53e99aa86de8323]: Commencement: S. 38 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3e9453bab11f69384389179836b62860]: Commencement: S. 39 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3e9453bab11f69384389179836b62860]: Commencement: S. 39 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-b7558645d3416a4fb4303d9d0b46070c]: Commencement: S. 40 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-b7558645d3416a4fb4303d9d0b46070c]: Commencement: S. 40 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-3e3c27c5a92ba24de20749f7c1742ab8]: Commencement: S. 41 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-3e3c27c5a92ba24de20749f7c1742ab8]: Commencement: S. 41 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-7c1dcbe41257575821a853b72c176e75]: Commencement: S. 42 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-7c1dcbe41257575821a853b72c176e75]: Commencement: S. 42 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-dab56221affa7e2cf9d9846bffc0902c]: Commencement: S. 43 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-dab56221affa7e2cf9d9846bffc0902c]: Commencement: S. 43 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-20c1a7325ee3c960294d60a378f02461]: Commencement: S. 44 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-20c1a7325ee3c960294d60a378f02461]: Commencement: S. 44 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-b2632501184069f5daaaf496f279b807]: Commencement: S. 45 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-b2632501184069f5daaaf496f279b807]: Commencement: S. 45 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-38d0e845baec98b6f4650c6e7681737e]: Commencement: S. 46 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-38d0e845baec98b6f4650c6e7681737e]: Commencement: S. 46 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e70edf36ee744ea45dde8e28213c31e2]: Commencement: S. 47 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e70edf36ee744ea45dde8e28213c31e2]: Commencement: S. 47 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-8922e2cfbb31231ceb52b65c624efbbf]: Commencement: S. 48 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-8922e2cfbb31231ceb52b65c624efbbf]: Commencement: S. 48 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-a60420f46807199fe75942cd684cc6f4]: Commencement: S. 49 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-a60420f46807199fe75942cd684cc6f4]: Commencement: S. 49 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-2e17ff8077aab63643f36bf49f873357]: Commencement: S. 50 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-2e17ff8077aab63643f36bf49f873357]: Commencement: S. 50 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-1ce0fd00ac9e51ff7b022a0753f12d68]: Commencement: S. 51 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
+[^c-1ce0fd00ac9e51ff7b022a0753f12d68]: Commencement: S. 51 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
 
-[^key-d9d416100abc2f30ee6068a7b148c1f6]: Commencement: S. 52 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-d9d416100abc2f30ee6068a7b148c1f6]: Commencement: S. 52 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-8552fd7f3cfa4bf57deb35c506c99add]: Commencement: S. 53 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-8552fd7f3cfa4bf57deb35c506c99add]: Commencement: S. 53 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-092f8f2e2d4a69170f7d647e4993786e]: Commencement: S. 54 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
+[^c-092f8f2e2d4a69170f7d647e4993786e]: Commencement: S. 54 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
 
-[^key-f07fbf3180912db5b2b76cef28ad966e]: Commencement: S. 55 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
+[^c-f07fbf3180912db5b2b76cef28ad966e]: Commencement: S. 55 in force at 28.1.2025, see [s. 54(1)](https://www.legislation.gov.uk/asp/2025/3/section/54/1)
 
-[^key-a0b0e2d94ba10fee8c8011328d1464ed]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-a0b0e2d94ba10fee8c8011328d1464ed]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-f0ac32b2982f2496790f079e3d7ceb31]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-f0ac32b2982f2496790f079e3d7ceb31]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-8c60f070c9a3a611e3bb42179c5b9d65]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-8c60f070c9a3a611e3bb42179c5b9d65]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-8288b2b8670d08300f371767157f85ed]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-8288b2b8670d08300f371767157f85ed]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-03e397799b7905b2e737b109cf320c32]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-03e397799b7905b2e737b109cf320c32]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-688e66acfeb83e4c930be9007dab2572]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-688e66acfeb83e4c930be9007dab2572]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-a15590d73454b84b592061b139d539f2]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-a15590d73454b84b592061b139d539f2]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-1f12defa3f2b84ccad67b8ac058b1fb3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-1f12defa3f2b84ccad67b8ac058b1fb3]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-612d8c4041cd6e311f930ee259a17dcd]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-612d8c4041cd6e311f930ee259a17dcd]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-b76455a741c9bf9d4d7213113b34c52f]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-b76455a741c9bf9d4d7213113b34c52f]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-efd244d7d5f256cb6e7c4cc18e0972aa]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-efd244d7d5f256cb6e7c4cc18e0972aa]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-a585c414b9df27a6a6d44caddd9d15c6]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-a585c414b9df27a6a6d44caddd9d15c6]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-1726af0b61f772c4fe5bf37ce97601b7]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-1726af0b61f772c4fe5bf37ce97601b7]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-58baf77e7b0d50a9af95305ddc84188c]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-58baf77e7b0d50a9af95305ddc84188c]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-b4ea8d6d071ffa824309d76effce4fa0]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-b4ea8d6d071ffa824309d76effce4fa0]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-7ec7f717b8d650aee34fd11e7cda9c3b]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-7ec7f717b8d650aee34fd11e7cda9c3b]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-970d39ffe604de93c898303a80218873]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-970d39ffe604de93c898303a80218873]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-80eed9fc892425bc8ad050aab142d059]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-80eed9fc892425bc8ad050aab142d059]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e3084d462a16c2ae612e7d0d6beb9696]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e3084d462a16c2ae612e7d0d6beb9696]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0159a93cc8239ff26e1588d47ce9ab0b]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0159a93cc8239ff26e1588d47ce9ab0b]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-dc450beb983ea19ae77f9a780d68e7f2]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-dc450beb983ea19ae77f9a780d68e7f2]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e750da13b625c0b4b884b310aa86dff1]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e750da13b625c0b4b884b310aa86dff1]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-628ac6f9532e4a0148e47d7d9d741017]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-628ac6f9532e4a0148e47d7d9d741017]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-185b1070655c7dd1df8a215196d5dc66]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-185b1070655c7dd1df8a215196d5dc66]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e0dc3a459cefe2a44b3b05a4f9b1860a]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e0dc3a459cefe2a44b3b05a4f9b1860a]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-57bd485584e58e96eb8c942bbcd6c17f]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-57bd485584e58e96eb8c942bbcd6c17f]: Commencement: Sch. 1 para. 26 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-f937347a3e2f4ef6ab0b5137d6386600]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-f937347a3e2f4ef6ab0b5137d6386600]: Commencement: Sch. 1 para. 27 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-8303aa1c64c6378e90653bd7b7f00127]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-8303aa1c64c6378e90653bd7b7f00127]: Commencement: Sch. 1 para. 28 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0faf1959c34d4fc33d998be5a0e15925]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0faf1959c34d4fc33d998be5a0e15925]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-c3a6bcf18c606185b8ad1440955df52e]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-c3a6bcf18c606185b8ad1440955df52e]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-111372195ab74a5a8b09ce0754ee62ca]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-111372195ab74a5a8b09ce0754ee62ca]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e7460f7d91bf46813d55b5f22abf2278]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e7460f7d91bf46813d55b5f22abf2278]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-d0bdd8ba2f9a3fbef6c2a273863b1fbf]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-d0bdd8ba2f9a3fbef6c2a273863b1fbf]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-46141af13852d14bfe1f0ad534c6d3bd]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-46141af13852d14bfe1f0ad534c6d3bd]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-e924021e289d6e62456806495981c2a7]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-e924021e289d6e62456806495981c2a7]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0ba7b56f6f9ffa1f797c873aaee04b13]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0ba7b56f6f9ffa1f797c873aaee04b13]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-6c2be4ca22df21ebdbf426dbf74f5af8]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-6c2be4ca22df21ebdbf426dbf74f5af8]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-0af94043ae9699164d8b9efe525511bf]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-0af94043ae9699164d8b9efe525511bf]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-93e4816f976f88cee94cc053791f38d8]: Commencement: Sch. 3 Pt. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-93e4816f976f88cee94cc053791f38d8]: Commencement: Sch. 3 Pt. 1 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
 
-[^key-f77f551fabc3f276709ea5f86f7775c1]: Commencement: Sch. 3 Pt. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)
+[^c-f77f551fabc3f276709ea5f86f7775c1]: Commencement: Sch. 3 Pt. 2 not in force at Royal Assent, see [s. 54(2)](https://www.legislation.gov.uk/asp/2025/3/section/54/2)

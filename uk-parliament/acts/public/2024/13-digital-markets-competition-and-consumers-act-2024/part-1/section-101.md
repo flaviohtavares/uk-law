@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Rights to enforce requirements of this Part[^key-7d4017154d201fc346329cc081dcd511][^key-eb532ab4a125657801abf2ca511fd489]
+## 101. Rights to enforce requirements of this Part[^c-7d4017154d201fc346329cc081dcd511][^c-eb532ab4a125657801abf2ca511fd489]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4017154d201fc346329cc081dcd511]: Commencement: S. 101 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7d4017154d201fc346329cc081dcd511]: Commencement: S. 101 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-eb532ab4a125657801abf2ca511fd489]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2024/13/section/101) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-eb532ab4a125657801abf2ca511fd489]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2024/13/section/101) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

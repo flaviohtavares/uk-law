@@ -32,7 +32,7 @@ summary: ''
 
 Security Industry
 
-The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2019 (revoked)[^key-a11b37e49424339364aae249ada757c8]
+The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2019 (revoked)[^c-a11b37e49424339364aae249ada757c8]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st October 2019
 
-[^key-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a11b37e49424339364aae249ada757c8]
+## 1. Citation and commencement[^c-a11b37e49424339364aae249ada757c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Private Security Industry Act 2001 (Licences) Regulations 2007[^key-a11b37e49424339364aae249ada757c8]
+## 2. Amendments to the Private Security Industry Act 2001 (Licences) Regulations 2007[^c-a11b37e49424339364aae249ada757c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a11b37e49424339364aae249ada757c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a11b37e49424339364aae249ada757c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1086) revoked (6.4.2023) by [The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2023 (S.I. 2023/193)](https://www.legislation.gov.uk/uksi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/3))
+[^c-a11b37e49424339364aae249ada757c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1086) revoked (6.4.2023) by [The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2023 (S.I. 2023/193)](https://www.legislation.gov.uk/uksi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/3))

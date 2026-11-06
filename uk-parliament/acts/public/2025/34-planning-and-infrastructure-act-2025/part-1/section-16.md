@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Procedure relating to modifications under section 14[^key-839f7d6fac4270efb62eca855c6a6688]
+## 16. Procedure relating to modifications under section 14[^c-839f7d6fac4270efb62eca855c6a6688]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-839f7d6fac4270efb62eca855c6a6688]: Commencement: S. 16 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)
+[^c-839f7d6fac4270efb62eca855c6a6688]: Commencement: S. 16 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)

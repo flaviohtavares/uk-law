@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Power to suspend, restrict or prohibit admission to trading on regulated market[^key-c1efb0560c23a783dbc7476bccc518d5]
+## 36. Power to suspend, restrict or prohibit admission to trading on regulated market[^c-c1efb0560c23a783dbc7476bccc518d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1efb0560c23a783dbc7476bccc518d5]: Commencement: Reg. 36 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-c1efb0560c23a783dbc7476bccc518d5]: Commencement: Reg. 36 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

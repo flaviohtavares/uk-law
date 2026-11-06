@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.15. Endorsation unnecessary[^key-1525e4d286abf97b125f245fa6cc2cd9]
+## 2.15. Endorsation unnecessary[^c-1525e4d286abf97b125f245fa6cc2cd9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An initial writ, decree, charge, warrant or any other order or writ following up
 
 ## Annotations
 
-[^key-1525e4d286abf97b125f245fa6cc2cd9]: Commencement: Rule 2.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-1525e4d286abf97b125f245fa6cc2cd9]: Commencement: Rule 2.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

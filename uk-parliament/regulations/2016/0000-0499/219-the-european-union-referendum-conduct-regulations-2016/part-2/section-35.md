@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Votes marked by presiding officer[^key-11757333ac7ede4730e30e90e4ed3c8f]
+## 35. Votes marked by presiding officer[^c-11757333ac7ede4730e30e90e4ed3c8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ but in Northern Ireland this is subject to paragraph (3).
 
 ## Annotations
 
-[^key-11757333ac7ede4730e30e90e4ed3c8f]: Commencement: Reg. 35 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-11757333ac7ede4730e30e90e4ed3c8f]: Commencement: Reg. 35 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

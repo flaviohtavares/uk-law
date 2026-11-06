@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Declaration of assets and liabilities to be provided on application for registration[^key-a98590185571fea49d9d50f1ef2d3864][^key-d72f7f9db2c04a74a2364b50f0f08006]
+## 23. Declaration of assets and liabilities to be provided on application for registration[^c-a98590185571fea49d9d50f1ef2d3864][^c-d72f7f9db2c04a74a2364b50f0f08006]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a98590185571fea49d9d50f1ef2d3864]: Commencement: S. 23 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-a98590185571fea49d9d50f1ef2d3864]: Commencement: S. 23 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d72f7f9db2c04a74a2364b50f0f08006]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/37/section/23) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/3))
+[^c-d72f7f9db2c04a74a2364b50f0f08006]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2022/37/section/23) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/3))

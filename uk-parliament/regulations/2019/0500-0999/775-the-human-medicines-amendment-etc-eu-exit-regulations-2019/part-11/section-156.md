@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Insertion of new regulation 196A (major safety review by the licensing authority)[^key-35b861a016d9bae49cc4092985834b36][^key-be46233b99c9e5ecf11e9c677d34a7a0]
+## 156. Insertion of new regulation 196A (major safety review by the licensing authority)[^c-35b861a016d9bae49cc4092985834b36][^c-be46233b99c9e5ecf11e9c677d34a7a0]
 
 *Extent: E+W+S+N.I.*
 
-After regulation 196 insert[^key-f65f4e566f8845fafd4bb76ab99ea440] substitute—
+After regulation 196 insert[^c-f65f4e566f8845fafd4bb76ab99ea440] substitute—
 
-> **...[^key-d8ceb175f5cea67bc0a930953bf2bac8]**
+> **...[^c-d8ceb175f5cea67bc0a930953bf2bac8]**
 >
-> **196A. Major safety review by the licensing authority[^key-414e5c7fb2fba14c360f757eacf8120d]**
+> **196A. Major safety review by the licensing authority[^c-414e5c7fb2fba14c360f757eacf8120d]**
 >
 > (1) The licensing authority may conduct a major safety review where—
 >
@@ -63,12 +63,12 @@ After regulation 196 insert[^key-f65f4e566f8845fafd4bb76ab99ea440] substitute—
 
 ## Annotations
 
-[^key-35b861a016d9bae49cc4092985834b36]: Commencement: Reg. 156 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-35b861a016d9bae49cc4092985834b36]: Commencement: Reg. 156 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-be46233b99c9e5ecf11e9c677d34a7a0]: Textual amendment: Reg. 156 heading substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/a)
+[^c-be46233b99c9e5ecf11e9c677d34a7a0]: Textual amendment: Reg. 156 heading substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/a)
 
-[^key-f65f4e566f8845fafd4bb76ab99ea440]: Textual amendment: Words in reg. 156 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/b)
+[^c-f65f4e566f8845fafd4bb76ab99ea440]: Textual amendment: Words in reg. 156 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/b)
 
-[^key-d8ceb175f5cea67bc0a930953bf2bac8]: Textual amendment: Words in reg. 156 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/i)
+[^c-d8ceb175f5cea67bc0a930953bf2bac8]: Textual amendment: Words in reg. 156 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/i)
 
-[^key-414e5c7fb2fba14c360f757eacf8120d]: Textual amendment: Words in reg. 156 renumbered (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/ii)
+[^c-414e5c7fb2fba14c360f757eacf8120d]: Textual amendment: Words in reg. 156 renumbered (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 124(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/124/c/ii)

@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 22(1) and (2) of the Petroleum Act 1987[^f00001] (hereinafter referred to as “the Act”) and of all other powers enabling him in that behalf, and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following order:
 
-## 1. Citation and commencement[^key-31fd0b63dc8de016b9ee4d103151c837]
+## 1. Citation and commencement[^c-31fd0b63dc8de016b9ee4d103151c837]
 
 This order may be cited as the Offshore Installations (Safety Zones) (No. 2) Order 2003 and shall come into force on 21st July 2003.
 
-## 2. Establishment of safety zones[^key-99a620b741ee07fcde31a8b619c63acd]
+## 2. Establishment of safety zones[^c-99a620b741ee07fcde31a8b619c63acd]
 
 A safety zone is hereby established around each installation specified in column 1 of the Schedule hereto (being an installation stationed in waters to which subsection (7) of section 21 of the Act applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -57,7 +57,7 @@ Department for Work and Pensions
 
 9th July 2003
 
-## SCHEDULE — SAFETY ZONES[^key-a5f0c0665e647f615c726a64a3a24b27]
+## SCHEDULE — SAFETY ZONES[^c-a5f0c0665e647f615c726a64a3a24b27]
 
 Article 2
 
@@ -76,7 +76,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-1060d940b7bb2e5a01695552c126fb62][^key-1060d940b7bb2e5a01695552c126fb62][^key-1060d940b7bb2e5a01695552c126fb62][^key-1060d940b7bb2e5a01695552c126fb62][^key-1060d940b7bb2e5a01695552c126fb62][^key-1060d940b7bb2e5a01695552c126fb62]
+[^c-1060d940b7bb2e5a01695552c126fb62][^c-1060d940b7bb2e5a01695552c126fb62][^c-1060d940b7bb2e5a01695552c126fb62][^c-1060d940b7bb2e5a01695552c126fb62][^c-1060d940b7bb2e5a01695552c126fb62][^c-1060d940b7bb2e5a01695552c126fb62]
 
 (This note is not part of the order)
 
@@ -88,10 +88,10 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by S.I. [1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-31fd0b63dc8de016b9ee4d103151c837]: Commencement: Art. 1 in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
+[^c-31fd0b63dc8de016b9ee4d103151c837]: Commencement: Art. 1 in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
 
-[^key-99a620b741ee07fcde31a8b619c63acd]: Commencement: Art. 2 in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
+[^c-99a620b741ee07fcde31a8b619c63acd]: Commencement: Art. 2 in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
 
-[^key-a5f0c0665e647f615c726a64a3a24b27]: Commencement: Sch. in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
+[^c-a5f0c0665e647f615c726a64a3a24b27]: Commencement: Sch. in force at 21.7.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1710/article/1)
 
-[^key-1060d940b7bb2e5a01695552c126fb62]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1710/schedule) omitted (31.1.2007) by virtue of [The Offshore Installations (Safety Zones) Order 2007 (S.I. 2007/41)](https://www.legislation.gov.uk/uksi/2007/41), [arts. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1), [4](https://www.legislation.gov.uk/uksi/2007/41/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/41/schedule/2)
+[^c-1060d940b7bb2e5a01695552c126fb62]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1710/schedule) omitted (31.1.2007) by virtue of [The Offshore Installations (Safety Zones) Order 2007 (S.I. 2007/41)](https://www.legislation.gov.uk/uksi/2007/41), [arts. 1](https://www.legislation.gov.uk/uksi/2007/41/article/1), [4](https://www.legislation.gov.uk/uksi/2007/41/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/41/schedule/2)

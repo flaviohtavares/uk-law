@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 472A. Gifts under payroll deduction schemes: corporation tax liability and exemption[^key-9967c7b250b1b920cfb182e90c513c5e]
+## 472A. Gifts under payroll deduction schemes: corporation tax liability and exemption[^c-9967c7b250b1b920cfb182e90c513c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9967c7b250b1b920cfb182e90c513c5e]: Textual amendment: S. 472A inserted (with effect in accordance with Sch. 8 para. 8(1)(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/1/2)
+[^c-9967c7b250b1b920cfb182e90c513c5e]: Textual amendment: S. 472A inserted (with effect in accordance with Sch. 8 para. 8(1)(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/1/2)

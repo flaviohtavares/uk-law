@@ -42,11 +42,11 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 A draft of this instrument was laid before, and approved by a resolution of, the House of Commons in accordance with section 4(2) of the Savings (Government Contributions) Act 2017.
 
-## 1. Citation and commencement[^key-5619f3c9851269fb1384ce6a1e76d77f]
+## 1. Citation and commencement[^c-5619f3c9851269fb1384ce6a1e76d77f]
 
 These Regulations may be cited as the Help–to–Save Accounts Regulations 2018 and come into force on the day after they are made.
 
-## 2. Interpretation[^key-f22eaaaf42dcf29ad55095170268de2e]
+## 2. Interpretation[^c-f22eaaaf42dcf29ad55095170268de2e]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
   - “Schedule 2” means Schedule 2 to the Act;
   - “tax year” means a period beginning with 6th April in one year and ending with 5th April in the next.
 
-## 3. Eligible persons – entitlement to working tax credit or universal credit[^key-512bb88197ac3fec5fb7c638592871ff]
+## 3. Eligible persons – entitlement to working tax credit or universal credit[^c-512bb88197ac3fec5fb7c638592871ff]
 
 (1) This regulation specifies the conditions to be met by an individual for the purposes of meeting the first benefit entitlement condition and the second benefit entitlement condition.
 
@@ -91,7 +91,7 @@ Condition 3
 (3) The specified condition relating to the second benefit entitlement condition is that on each of the eligibility reference dates—
 
 - (a) the individual (as a single claimant or as a joint claimant) is in receipt of a current award validly obtained of universal credit (not being a nil award), and
-- (b)[^key-60d7ea02013ff13e270b7aa37a8be572] has earned income in the assessment period immediately preceding the first eligibility reference date equal to or greater than £1.
+- (b)[^c-60d7ea02013ff13e270b7aa37a8be572] has earned income in the assessment period immediately preceding the first eligibility reference date equal to or greater than £1.
 
 (4) A benefit entitlement condition is to be treated as met on any day if it would have been met but for an error or delay on the part of HMRC.
 
@@ -102,10 +102,10 @@ Condition 3
 - (a) “working tax credit”, “child tax credit” and “tax credit” have the meanings given by the Tax Credits Act;
 - (b) “assessment period” and “earned income” have the meanings given by the Universal Credit Regulations 2013[^f00003] or, in the case of Northern Ireland, the Welfare Reform (Northern Ireland) Order 2015[^f00004];
 - (c) “joint claimant”, “single claimant”, and “universal credit” have the meanings given by the Welfare Reform Act 2012 [^f00005] or, in the case of Northern Ireland, the Welfare Reform (Northern Ireland) Order 2015;
-- (d)[^key-4e3242040f7b1966e5f32f450cafb857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4e3242040f7b1966e5f32f450cafb857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) “Tax Credits Act” means the Tax Credits Act 2002 [^f00007].
 
-## 4. Eligible persons-presence in the United Kingdom[^key-2f96d0044e7cdfa65c1ef02405641bf4]
+## 4. Eligible persons-presence in the United Kingdom[^c-2f96d0044e7cdfa65c1ef02405641bf4]
 
 An individual is to be treated as being or not being in the United Kingdom at any time where the individual met —
 
@@ -116,13 +116,13 @@ An individual is to be treated as being or not being in the United Kingdom at an
   - (i) is so treated under regulations 9 to 11 (as the case requires) of the Universal Credit Regulations 2013[^f00009] or the Universal Credit Regulations (Northern Ireland) 2016[^f00010]; or
   - (ii) would be so treated if those regulations continued to apply to the individual.
 
-## 5. Trial[^key-833dc8c8f8b0bd0acaed619a751390de]
+## 5. Trial[^c-833dc8c8f8b0bd0acaed619a751390de]
 
 (1) The duty under section 2 of the Act does not apply to Help-to-Save accounts opened before 16th<sup> </sup>October 2018 unless the individual opening the account is an eligible person taking part in the trial.
 
 (2) For the purposes of this regulation “the trial” means a test of all the systems required to deliver Help-to-Save accounts, which will run from the date of the coming into force of these Regulations to 15th October 2018.
 
-## 6. Account holder not being in the United Kingdom[^key-459272e670498e52fb3d2f152facc75d]
+## 6. Account holder not being in the United Kingdom[^c-459272e670498e52fb3d2f152facc75d]
 
 (1) An account holder, who at any time does not meet the UK connection condition, may retain the benefits of the Help-to-Save account subsisting at that time.
 
@@ -136,11 +136,11 @@ An individual is to be treated as being or not being in the United Kingdom at an
 
 (6) The period specified for the purposes of paragraph (3) is 14 days beginning with the first day on which the UK connection condition is not met.
 
-## 7. Opening of Help-to-Save Account[^key-a8282feb120869981a5f909d23e0426d]
+## 7. Opening of Help-to-Save Account[^c-a8282feb120869981a5f909d23e0426d]
 
 A Help-to-Save account is opened with an authorised account provider on the date when the applicant enters into agreed terms with the authorised account provider, which includes the application and declaration required by regulation 8(2)(b).
 
-## 8. Application to open a Help-to-Save account[^key-7a93970f7e79513858904292bdd0024b]
+## 8. Application to open a Help-to-Save account[^c-7a93970f7e79513858904292bdd0024b]
 
 (1) An application by an individual to open a Help-to-Save account with an authorised account provider must be made to HMRC and must satisfy the conditions in paragraph (2).
 
@@ -159,7 +159,7 @@ A Help-to-Save account is opened with an authorised account provider on the date
 
 (5) This regulation is subject to regulations 9 and 10.
 
-## 9. Circumstances where eligible person unable to act—receivers etc.[^key-912b300b87e4a5a9ed3beea77cb3b30e]
+## 9. Circumstances where eligible person unable to act—receivers etc.[^c-912b300b87e4a5a9ed3beea77cb3b30e]
 
 (1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
 
@@ -175,7 +175,7 @@ A Help-to-Save account is opened with an authorised account provider on the date
   - (ii) in Scotland, a tutor, curator or other guardian acting or appointed in terms of law who is administering the estate of the person; or
   - (iii) in Northern Ireland, a controller appointed by the High Court, with power to open and manage a Help-to-Save account on behalf of the person.
 
-## 10. Circumstances where eligible person unable to act-other appointed persons[^key-0ad1a8a514a0a592f3f2d5466d89a111]
+## 10. Circumstances where eligible person unable to act-other appointed persons[^c-0ad1a8a514a0a592f3f2d5466d89a111]
 
 (1) In the circumstances specified in paragraph (2) a person mentioned in sub-paragraph (b) of that paragraph may act for the person mentioned in sub-paragraph (a) of that paragraph for the purposes of—
 
@@ -202,7 +202,7 @@ A Help-to-Save account is opened with an authorised account provider on the date
 - (b) when the person appointed has resigned from the appointment having given one month’s notice in writing to HMRC of that person’s resignation; or
 - (c) when HMRC are notified that a receiver or other person mentioned in paragraph (2)(b) has been appointed in relation to the person who is unable to open or manage a Help-to-Save account.
 
-## 11. General requirements for Help-to-Save accounts[^key-77cdf2320319d7974f67ad63e6895ab3]
+## 11. General requirements for Help-to-Save accounts[^c-77cdf2320319d7974f67ad63e6895ab3]
 
 (1) A Help-to-Save account must satisfy the requirements that—
 
@@ -222,7 +222,7 @@ A Help-to-Save account is opened with an authorised account provider on the date
 
 (4) This regulation is subject to regulations 9 and 10.
 
-## 12. Limit on amounts paid into a Help-to-Save account[^key-145bd6daa18a2a02924e246037118e1a]
+## 12. Limit on amounts paid into a Help-to-Save account[^c-145bd6daa18a2a02924e246037118e1a]
 
 (1) The amount that may be paid into a Help-to-Save account each month (excluding interest or other sums paid by the authorised account provider and excluding any bonus) must not exceed the maximum monthly amount.
 
@@ -234,7 +234,7 @@ A Help-to-Save account is opened with an authorised account provider on the date
 
 (5) This regulation is subject to regulation 6(2).
 
-## 13. Amount of Bonus[^key-35f0734ee38d6b4552b79fed0028fd56]
+## 13. Amount of Bonus[^c-35f0734ee38d6b4552b79fed0028fd56]
 
 (1) A bonus is to be paid to an account holder—
 
@@ -269,7 +269,7 @@ A by B where
 
 (10) For the purposes of paragraph 3(7) of Schedule 2, an account holder is to be considered as suffering from a terminal illness if HMRC has received written evidence from a registered medical practitioner that the account holder is expected to live for less than 12 months.
 
-## 14. Bonus claim[^key-6649b6487d9f9ec2f19711f45fec2ea3]
+## 14. Bonus claim[^c-6649b6487d9f9ec2f19711f45fec2ea3]
 
 (1) A bonus is only payable if a claim for it is made by the authorised account provider in accordance with arrangements made between HMRC and the Director of Savings.
 
@@ -283,7 +283,7 @@ A by B where
 
 (4) HMRC in accordance with those arrangements must pay the authorised account provider for the account of the account holder any bonus amount that is due.
 
-## 15. Rejection of bonus claim[^key-66ebc958df0f8c07896eac828f3dcd58]
+## 15. Rejection of bonus claim[^c-66ebc958df0f8c07896eac828f3dcd58]
 
 (1) HMRC must notify the authorised account provider of a rejection of any claim for a bonus together with reasons for the decision—
 
@@ -298,7 +298,7 @@ A by B where
 
 (5) The effect of any notification or decision is not suspended by the making of an application or an appeal.
 
-## 16. Recoupment of bonus etc.[^key-2250d6293b9607957478c63ec15ecd2a]
+## 16. Recoupment of bonus etc.[^c-2250d6293b9607957478c63ec15ecd2a]
 
 (1) Where—
 
@@ -323,7 +323,7 @@ the account is void and the persons mentioned in paragraph (4), who are to be jo
 
 (7) Regulation 19 applies to any notification under this regulation.
 
-## 17. Payments by and to HMRC[^key-825294d0a7a3ebf343b03b62fd13d3f6]
+## 17. Payments by and to HMRC[^c-825294d0a7a3ebf343b03b62fd13d3f6]
 
 (1) Any amount which is payable by virtue of an assessment made, or treated as made, under these Regulations is payable on the day following the end of the period of 30 days beginning with the day on which the notice of assessment is given.
 
@@ -333,13 +333,13 @@ the account is void and the persons mentioned in paragraph (4), who are to be jo
 
 (4) Sections 102 and 103 of that Act apply for repayment interest on any amount that is payable by HMRC under these Regulations which amount payable is to be treated as a repayment of an overpayment of income tax.
 
-## 18. “Repair” of invalid accounts[^key-ca4a8bdd802facaac2fb01dcc75c652b]
+## 18. “Repair” of invalid accounts[^c-ca4a8bdd802facaac2fb01dcc75c652b]
 
 (1) Except in the case of a breach of the declaration made under regulation 8(2)(b)(i), (ii) or (iv) (where no repair of an account is possible), it is an overriding requirement to be satisfied in relation to an account that the authorised account provider and account holder, as the case may be, take any steps necessary to remedy any breach of these Regulations.
 
 (2) Where a breach is remedied as mentioned in paragraph (1), the account must, to the extent of that breach, be treated as having been a valid Help-to-Save account at all times.
 
-## 19. Appeals[^key-4b2e38fe91ee21dfd45995a2d3e6d4cb]
+## 19. Appeals[^c-4b2e38fe91ee21dfd45995a2d3e6d4cb]
 
 (1) This Regulation applies to a review or appeal in respect of a decision made or notification given by HMRC under any of regulations 8, 15 and 16.
 
@@ -424,15 +424,15 @@ A full Regulatory Impact Assessment for Help-to-Save accounts has been published
 
 [^f00001]: Footnote: [2017 c. 2](https://www.legislation.gov.uk/ukpga/2017/2).
 
-[^key-5619f3c9851269fb1384ce6a1e76d77f]: Commencement: Reg. 1 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-5619f3c9851269fb1384ce6a1e76d77f]: Commencement: Reg. 1 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-f22eaaaf42dcf29ad55095170268de2e]: Commencement: Reg. 2 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-f22eaaaf42dcf29ad55095170268de2e]: Commencement: Reg. 2 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
 [^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-512bb88197ac3fec5fb7c638592871ff]: Commencement: Reg. 3 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-512bb88197ac3fec5fb7c638592871ff]: Commencement: Reg. 3 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-60d7ea02013ff13e270b7aa37a8be572]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/3/b) substituted (6.4.2025) by [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/2)
+[^c-60d7ea02013ff13e270b7aa37a8be572]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/3/b) substituted (6.4.2025) by [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/2)
 
 [^f00003]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
@@ -440,11 +440,11 @@ A full Regulatory Impact Assessment for Help-to-Save accounts has been published
 
 [^f00005]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-4e3242040f7b1966e5f32f450cafb857]: Textual amendment: [Reg. 3(6)(d)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/6/d) omitted (6.4.2025) by virtue of [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/3)
+[^c-4e3242040f7b1966e5f32f450cafb857]: Textual amendment: [Reg. 3(6)(d)](https://www.legislation.gov.uk/uksi/2018/87/regulation/3/6/d) omitted (6.4.2025) by virtue of [The Help-to-Save Accounts Regulations 2025 (S.I. 2025/327)](https://www.legislation.gov.uk/uksi/2025/327), [regs. 1](https://www.legislation.gov.uk/uksi/2025/327/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/327/regulation/2/3)
 
 [^f00007]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-2f96d0044e7cdfa65c1ef02405641bf4]: Commencement: Reg. 4 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-2f96d0044e7cdfa65c1ef02405641bf4]: Commencement: Reg. 4 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2003/654](https://www.legislation.gov.uk/uksi/2003/654).
 
@@ -452,40 +452,40 @@ A full Regulatory Impact Assessment for Help-to-Save accounts has been published
 
 [^f00010]: Footnote: [SR (N.I.) 2016/216](https://www.legislation.gov.uk/nisr/2016/216).
 
-[^key-833dc8c8f8b0bd0acaed619a751390de]: Commencement: Reg. 5 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-833dc8c8f8b0bd0acaed619a751390de]: Commencement: Reg. 5 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-459272e670498e52fb3d2f152facc75d]: Commencement: Reg. 6 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-459272e670498e52fb3d2f152facc75d]: Commencement: Reg. 6 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-a8282feb120869981a5f909d23e0426d]: Commencement: Reg. 7 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-a8282feb120869981a5f909d23e0426d]: Commencement: Reg. 7 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-7a93970f7e79513858904292bdd0024b]: Commencement: Reg. 8 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-7a93970f7e79513858904292bdd0024b]: Commencement: Reg. 8 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-912b300b87e4a5a9ed3beea77cb3b30e]: Commencement: Reg. 9 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-912b300b87e4a5a9ed3beea77cb3b30e]: Commencement: Reg. 9 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-0ad1a8a514a0a592f3f2d5466d89a111]: Commencement: Reg. 10 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-0ad1a8a514a0a592f3f2d5466d89a111]: Commencement: Reg. 10 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 33(1) was amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572), [2005/337](https://www.legislation.gov.uk/uksi/2005/337) and [2007/2470](https://www.legislation.gov.uk/uksi/2007/2470).
 
 [^f00012]: Footnote: [SR (N.I.) 1987/465](https://www.legislation.gov.uk/nisr/1987/465).
 
-[^key-77cdf2320319d7974f67ad63e6895ab3]: Commencement: Reg. 11 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-77cdf2320319d7974f67ad63e6895ab3]: Commencement: Reg. 11 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-145bd6daa18a2a02924e246037118e1a]: Commencement: Reg. 12 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-145bd6daa18a2a02924e246037118e1a]: Commencement: Reg. 12 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-35f0734ee38d6b4552b79fed0028fd56]: Commencement: Reg. 13 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-35f0734ee38d6b4552b79fed0028fd56]: Commencement: Reg. 13 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-6649b6487d9f9ec2f19711f45fec2ea3]: Commencement: Reg. 14 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-6649b6487d9f9ec2f19711f45fec2ea3]: Commencement: Reg. 14 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-66ebc958df0f8c07896eac828f3dcd58]: Commencement: Reg. 15 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-66ebc958df0f8c07896eac828f3dcd58]: Commencement: Reg. 15 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-2250d6293b9607957478c63ec15ecd2a]: Commencement: Reg. 16 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-2250d6293b9607957478c63ec15ecd2a]: Commencement: Reg. 16 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-825294d0a7a3ebf343b03b62fd13d3f6]: Commencement: Reg. 17 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-825294d0a7a3ebf343b03b62fd13d3f6]: Commencement: Reg. 17 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
 [^f00013]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10) and [S.I. 2011/701](https://www.legislation.gov.uk/uksi/2011/701).
 
-[^key-ca4a8bdd802facaac2fb01dcc75c652b]: Commencement: Reg. 18 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-ca4a8bdd802facaac2fb01dcc75c652b]: Commencement: Reg. 18 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
-[^key-4b2e38fe91ee21dfd45995a2d3e6d4cb]: Commencement: Reg. 19 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
+[^c-4b2e38fe91ee21dfd45995a2d3e6d4cb]: Commencement: Reg. 19 in force at 25.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/87/regulation/1)
 
 [^f00014]: Footnote: Section 49 was substituted and sections 49A, 49B, 49D to 49G and 49I were inserted, by [S.I.2009/56](https://www.legislation.gov.uk/uksi/2009/56).

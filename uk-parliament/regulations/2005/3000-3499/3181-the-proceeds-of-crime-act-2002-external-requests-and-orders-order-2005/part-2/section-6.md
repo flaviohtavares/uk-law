@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Action on receipt of external request in connection with criminal investigations or proceedings[^key-54aa125b3c2f26cf02f47c8b1dab33ff]
+## 6. Action on receipt of external request in connection with criminal investigations or proceedings[^c-54aa125b3c2f26cf02f47c8b1dab33ff]
 
 *Extent: E+W+S+N.I.*
 
-(1) Except where paragraph (2) applies, the Secretary of State may refer an external request in connection with criminal investigations or proceedings in the country from which the request was made and concerning relevant property in England or Wales to the Director of Public Prosecutions to process it.[^key-acbf9849dce191bd7d4ff2d128e59544]
+(1) Except where paragraph (2) applies, the Secretary of State may refer an external request in connection with criminal investigations or proceedings in the country from which the request was made and concerning relevant property in England or Wales to the Director of Public Prosecutions to process it.[^c-acbf9849dce191bd7d4ff2d128e59544]
 
 (2) This paragraph applies where it appears to the Secretary of State that the request—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54aa125b3c2f26cf02f47c8b1dab33ff]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2005/3181/article/6) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-54aa125b3c2f26cf02f47c8b1dab33ff]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2005/3181/article/6) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-acbf9849dce191bd7d4ff2d128e59544]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/6/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/15)
+[^c-acbf9849dce191bd7d4ff2d128e59544]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/6/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/15)

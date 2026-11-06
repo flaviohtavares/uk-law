@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Children’s case records[^key-3ede44ba0c109a21ad04ed2d1aadc991]
+## 24. Children’s case records[^c-3ede44ba0c109a21ad04ed2d1aadc991]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ede44ba0c109a21ad04ed2d1aadc991]: Commencement: Reg. 24 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-3ede44ba0c109a21ad04ed2d1aadc991]: Commencement: Reg. 24 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

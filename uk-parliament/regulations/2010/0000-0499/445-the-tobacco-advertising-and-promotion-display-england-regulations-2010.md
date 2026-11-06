@@ -52,12 +52,12 @@ for all other purposes
 
 The Secretary of State, in exercise of the powers conferred by sections 4(3), 7A(2), 7B(3) and 19(2) of the Tobacco Advertising and Promotion Act 2002[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-e9c6a842c5f5ff73fabd44861efb0aff][^key-7c2e866fd3d8ff039dbbb84d5198b6f7]
+## 1. Citation, commencement and application[^c-e9c6a842c5f5ff73fabd44861efb0aff][^c-7c2e866fd3d8ff039dbbb84d5198b6f7]
 
 (1) These Regulations may be cited as the Tobacco Advertising and Promotion (Display) (England) Regulations 2010 and come into force—
 
-- (a) for the purpose of large shops, other than bulk tobacconists, on 6th April 2012[^key-27b9b271f1adcfecd46e13f4cecd28cc]; and
-- (b) for all other purposes, on 6th April 2015[^key-9d840ca28845380609eecc703fc9e8c1].
+- (a) for the purpose of large shops, other than bulk tobacconists, on 6th April 2012[^c-27b9b271f1adcfecd46e13f4cecd28cc]; and
+- (b) for all other purposes, on 6th April 2015[^c-9d840ca28845380609eecc703fc9e8c1].
 
 (2) These Regulations apply in relation to England.
 
@@ -68,7 +68,7 @@ The Secretary of State, in exercise of the powers conferred by sections 4(3), 7A
 - “large shop” means a shop which has a relevant floor area exceeding 280 square metres; and
 - “relevant floor area”, in relation to a shop, means the internal floor area of so much of the shop as consists of, or is comprised in, a building but excluding any part of the shop which is used neither for the serving of customers in connection with the sale of goods nor for the display of goods.
 
-## 2. Interpretation[^key-1de07a7c15b18a8d2069afb2b0e7ceb1][^key-ac9c829745841b8e2d44453360c51cd6]
+## 2. Interpretation[^c-1de07a7c15b18a8d2069afb2b0e7ceb1][^c-ac9c829745841b8e2d44453360c51cd6]
 
 (1) In these Regulations—
 
@@ -88,14 +88,14 @@ The Secretary of State, in exercise of the powers conferred by sections 4(3), 7A
 - (a) during the most recent period of twelve months for which accounts are available; or
 - (b) during the period for which the shop has been established, if it has not been established long enough for twelve months’ accounts to be available.
 
-## 3. Meaning of place[^key-ae8b3796f1bfc6eaf8400e83a90ee589][^key-c5755c6247fe67687f15d3c9b6e8ea71]
+## 3. Meaning of place[^c-ae8b3796f1bfc6eaf8400e83a90ee589][^c-c5755c6247fe67687f15d3c9b6e8ea71]
 
 For the purposes of section 7A of the Act (prohibition of tobacco displays), “place” means a premises in England where tobacco products are offered for sale in the course of a business, other than premises—
 
 - (a) which are accessible only to persons who are engaged in, or employed by, a business which is part of the tobacco trade; and
 - (b) from which the prices of tobacco products are not visible from the outside of the premises.
 
-## 4. Display as a consequence of a requested display[^key-8c84c64efc54e0c5f5517ef3babcbc9d][^key-369bce746767b8857201250378623936]
+## 4. Display as a consequence of a requested display[^c-8c84c64efc54e0c5f5517ef3babcbc9d][^c-369bce746767b8857201250378623936]
 
 (1) This regulation applies where a requested display[^f00003] is made to an individual (“A”) aged 18 or over.
 
@@ -104,7 +104,7 @@ For the purposes of section 7A of the Act (prohibition of tobacco displays), “
 - (a) the display—
   - (i) is solely as a consequence of the requested display, and
   - (ii) lasts for no longer than is necessary to remove the requested product from the storage unit; and
-- (b) the area of storage unit displayed does not exceed 1.5 *(Extent: E)*[^key-1e4641cf52776b96685f9e204a17521f] square metres.
+- (b) the area of storage unit displayed does not exceed 1.5 *(Extent: E)*[^c-1e4641cf52776b96685f9e204a17521f] square metres.
 
 (3) No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products other than in a storage unit, to individuals other than A, if the display—
 
@@ -113,7 +113,7 @@ For the purposes of section 7A of the Act (prohibition of tobacco displays), “
 
 (4) In this regulation, “the requested product” means the product which A asked to purchase or for information about.
 
-## 5. Display in bulk tobacconists[^key-7c960c46948e7b5e0c90311047d518c9][^key-417bc0805fd04e6517e8aacc5c6fe924]
+## 5. Display in bulk tobacconists[^c-7c960c46948e7b5e0c90311047d518c9][^c-417bc0805fd04e6517e8aacc5c6fe924]
 
 (1) This regulation applies to displays in a bulk tobacconist.
 
@@ -131,7 +131,7 @@ For the purposes of section 7A of the Act (prohibition of tobacco displays), “
 
 (3) The dimensions of the notice to be exhibited in accordance with paragraph (2)(b) must be not less than 297 millimetres by 420 millimetres and the size of the statement to be displayed on the notice must be such that no character is less than 36 millimetres high.
 
-## 6. Incidental displays[^key-98775fb15f71db72e2c929509de6880f][^key-87c97995be5b023f21f402094a4ae780][^key-98775fb15f71db72e2c929509de6880f][^key-98775fb15f71db72e2c929509de6880f][^key-3a55ec618810500088d1ffe669d76e52]
+## 6. Incidental displays[^c-98775fb15f71db72e2c929509de6880f][^c-87c97995be5b023f21f402094a4ae780][^c-98775fb15f71db72e2c929509de6880f][^c-98775fb15f71db72e2c929509de6880f][^c-3a55ec618810500088d1ffe669d76e52]
 
 (1) No offence is committed under section 7A(of the Act (prohibition of tobacco displays) by a display of tobacco products in a storage unit if that display complies with the requirements of paragraph (2).
 
@@ -157,7 +157,7 @@ For the purposes of section 7A of the Act (prohibition of tobacco displays), “
 - (a) the tobacco products are displayed in the course of being placed in the storage unit only; and
 - (b) the display lasts for no longer than is necessary to place the products in the storage unit.
 
-## 7. Display to duly authorised officers of an enforcement authority etc[^key-feb7dea2313db643b2f68684ec6318ee][^key-cca37f54be6f329b2d0adc7dd7d52a72]
+## 7. Display to duly authorised officers of an enforcement authority etc[^c-feb7dea2313db643b2f68684ec6318ee][^c-cca37f54be6f329b2d0adc7dd7d52a72]
 
 No offence is committed under section 7A(1) of the Act (prohibition of tobacco displays) by a display of tobacco products if that display is requested by—
 
@@ -167,7 +167,7 @@ No offence is committed under section 7A(1) of the Act (prohibition of tobacco d
 
 who is acting in the course of their duty.
 
-## 8. Storage units[^key-9404c2c95f6327a56093bcf1f9f57c67][^key-d594f636bb65b03e2141018ada901ead]
+## 8. Storage units[^c-9404c2c95f6327a56093bcf1f9f57c67][^c-d594f636bb65b03e2141018ada901ead]
 
 (1) This regulation applies to indications on storage units of the tobacco products held in the storage unit.
 
@@ -193,11 +193,11 @@ who is acting in the course of their duty.
 
 > “other feature” means a logo, trademark, symbol, motto, type-face, colour or pattern of colour, picture, artwork, imagery, appearance, message or other indication that constitutes all or part of the recognisable identity of a product, but does not include a bar code or stock number.
 
-## 9. Revocation[^key-b3b5e10839f6c29ce5608fe02fd0b1f7][^key-9b941b67f83c81fde839c7cea31ae3d4]
+## 9. Revocation[^c-b3b5e10839f6c29ce5608fe02fd0b1f7][^c-9b941b67f83c81fde839c7cea31ae3d4]
 
 The Tobacco Advertising and Promotion (Point of Sale) Regulations 2004[^f00004] are revoked.
 
-## 10. Review[^key-e38f0d8384d6206cc0cae448abb67436]
+## 10. Review[^c-e38f0d8384d6206cc0cae448abb67436]
 
 (1) The Secretary of State must from time to time—
 
@@ -257,54 +257,54 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36). Section 4(3) was amended by [S.I. 2006/2369](https://www.legislation.gov.uk/uksi/2006/2369). Sections 7A and 7B were inserted by the Health Act [2009 (c.21)](https://www.legislation.gov.uk/ukpga/2009/21), section 21. The Secretary of State is the “appropriate Minister” in relation to England under section 21(1) of the Tobacco Advertising and Promotion Act 2002 (“the Act”), which was substituted by section 24 of, and paragraphs 2 and 12 of Schedule 4 to, the Health Act 2009.
 
-[^key-e9c6a842c5f5ff73fabd44861efb0aff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-e9c6a842c5f5ff73fabd44861efb0aff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-7c2e866fd3d8ff039dbbb84d5198b6f7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-7c2e866fd3d8ff039dbbb84d5198b6f7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/445/regulation/1) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-27b9b271f1adcfecd46e13f4cecd28cc]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/a)
+[^c-27b9b271f1adcfecd46e13f4cecd28cc]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/a)
 
-[^key-9d840ca28845380609eecc703fc9e8c1]: Textual amendment: Words in [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/b)
+[^c-9d840ca28845380609eecc703fc9e8c1]: Textual amendment: Words in [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b) substituted (30.6.2011) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2011 (S.I. 2011/1256)](https://www.legislation.gov.uk/uksi/2011/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2011/1256/regulation/2/b)
 
 [^f00002]: Footnote: *See* section 6(2) and (3) of the Act for the definition of “specialist tobacconist”.
 
-[^key-1de07a7c15b18a8d2069afb2b0e7ceb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-1de07a7c15b18a8d2069afb2b0e7ceb1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-ac9c829745841b8e2d44453360c51cd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-ac9c829745841b8e2d44453360c51cd6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/445/regulation/2) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-ae8b3796f1bfc6eaf8400e83a90ee589]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-ae8b3796f1bfc6eaf8400e83a90ee589]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-c5755c6247fe67687f15d3c9b6e8ea71]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-c5755c6247fe67687f15d3c9b6e8ea71]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/445/regulation/3) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-8c84c64efc54e0c5f5517ef3babcbc9d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-8c84c64efc54e0c5f5517ef3babcbc9d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-369bce746767b8857201250378623936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-369bce746767b8857201250378623936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
 [^f00003]: Footnote: *See* section 7B(8) of the Act for the definition of “a requested display”.
 
-[^key-1e4641cf52776b96685f9e204a17521f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) substituted (6.4.2012 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/a)
+[^c-1e4641cf52776b96685f9e204a17521f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/445/regulation/4) substituted (6.4.2012 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/a)
 
-[^key-7c960c46948e7b5e0c90311047d518c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-7c960c46948e7b5e0c90311047d518c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-417bc0805fd04e6517e8aacc5c6fe924]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-417bc0805fd04e6517e8aacc5c6fe924]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/445/regulation/5) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-98775fb15f71db72e2c929509de6880f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-98775fb15f71db72e2c929509de6880f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-87c97995be5b023f21f402094a4ae780]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-87c97995be5b023f21f402094a4ae780]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-3a55ec618810500088d1ffe669d76e52]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) substituted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/b)
+[^c-3a55ec618810500088d1ffe669d76e52]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/445/regulation/6) substituted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/b)
 
-[^key-feb7dea2313db643b2f68684ec6318ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-feb7dea2313db643b2f68684ec6318ee]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-cca37f54be6f329b2d0adc7dd7d52a72]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-cca37f54be6f329b2d0adc7dd7d52a72]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/445/regulation/7) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-9404c2c95f6327a56093bcf1f9f57c67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-9404c2c95f6327a56093bcf1f9f57c67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-d594f636bb65b03e2141018ada901ead]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-d594f636bb65b03e2141018ada901ead]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/445/regulation/8) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
-[^key-b3b5e10839f6c29ce5608fe02fd0b1f7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
+[^c-b3b5e10839f6c29ce5608fe02fd0b1f7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2012 for specifed purposes (as amended by S.I. 2011/1256, art. 2(a)), see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/a)
 
-[^key-9b941b67f83c81fde839c7cea31ae3d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
+[^c-9b941b67f83c81fde839c7cea31ae3d4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/445/regulation/9) in force at 6.4.2015 in so far as not already in force (as amended by S.I. 2011/1256, art. 2(b)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/445/regulation/1/1/b)
 
 [^f00004]: Footnote: [S.I. 2004/765](https://www.legislation.gov.uk/uksi/2004/765). There are no amendments to these Regulations.
 
-[^key-e38f0d8384d6206cc0cae448abb67436]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/445/regulation/10) inserted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/c)
+[^c-e38f0d8384d6206cc0cae448abb67436]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/445/regulation/10) inserted (6.4.2012 for specified purposes, 6.4.2015 for specified purposes) by [The Tobacco Advertising and Promotion (Display and Specialist Tobacconists) (England) (Amendment) Regulations 2012 (S.I. 2012/677)](https://www.legislation.gov.uk/uksi/2012/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/677/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/677/regulation/2/c)

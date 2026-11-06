@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.21. Consequence of failure to disclose documents or permit inspection[^key-838600bb6a770ceaaecadfe711765655]
+## 31.21. Consequence of failure to disclose documents or permit inspection[^c-838600bb6a770ceaaecadfe711765655]
 
 *Extent: E+W*
 
-A party may not rely on any document which they fail[^key-bb49488b355f4f8b9fb2791a83b64868] to disclose or in respect of which they fail to permit inspection unless the court gives permission.
+A party may not rely on any document which they fail[^c-bb49488b355f4f8b9fb2791a83b64868] to disclose or in respect of which they fail to permit inspection unless the court gives permission.
 
 ## Annotations
 
-[^key-838600bb6a770ceaaecadfe711765655]: Commencement: [Rule 31.21](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.21) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-838600bb6a770ceaaecadfe711765655]: Commencement: [Rule 31.21](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.21) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-bb49488b355f4f8b9fb2791a83b64868]: Textual amendment: Words in [rule 31.21](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.21) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(13)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/13)
+[^c-bb49488b355f4f8b9fb2791a83b64868]: Textual amendment: Words in [rule 31.21](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.21) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(13)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/13)

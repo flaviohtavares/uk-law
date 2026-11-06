@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Basic Payment and Support Schemes (England) (Amendment) Regulations 2017 (revoked)[^key-fc662637eac15f040a60df04d5ee6713]
+The Common Agricultural Policy Basic Payment and Support Schemes (England) (Amendment) Regulations 2017 (revoked)[^c-fc662637eac15f040a60df04d5ee6713]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st January 2018
 
-[^key-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-fc662637eac15f040a60df04d5ee6713]
+## 1. Citation, application and commencement[^c-fc662637eac15f040a60df04d5ee6713]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^key-fc662637eac15f040a60df04d5ee6713]
+## 2. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (England) Regulations 2014[^c-fc662637eac15f040a60df04d5ee6713]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (interpretation)[^key-fc662637eac15f040a60df04d5ee6713]
+## 3. Amendment of regulation 2 (interpretation)[^c-fc662637eac15f040a60df04d5ee6713]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 13 (ecological focus areas)[^key-fc662637eac15f040a60df04d5ee6713]
+## 4. Amendment of regulation 13 (ecological focus areas)[^c-fc662637eac15f040a60df04d5ee6713]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc662637eac15f040a60df04d5ee6713]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc662637eac15f040a60df04d5ee6713]: Textual amendment: Regulations revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-fc662637eac15f040a60df04d5ee6713]: Textual amendment: Regulations revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

@@ -45,7 +45,7 @@ Coming into force
 
 14th December 2001
 
-The Minister of Agriculture, Fisheries and Food in exercise of the powers conferred on her by section 32(3) of the Animal Health Act 1981 acting in relation to England and Wales with the approval of the Treasury; and The Minister of Agriculture, Fisheries and Food in exercise of the power conferred on her by section 34(7) of the said Act acting in relation to England, and The Minister of Agriculture, Fisheries and Food and the National Assembly for Wales, acting jointly in exercise of the powers conferred on them by section 34(7) of the said Act, in relation to Wales *(Extent: E)* *(affected by repeal, see note)*[^key-937194c11713173176323c011cb3dbd0][^f00001]. Hereby make the following Order: *(Extent: E)* *(affected by repeal, see note)*[^key-937194c11713173176323c011cb3dbd0]
+The Minister of Agriculture, Fisheries and Food in exercise of the powers conferred on her by section 32(3) of the Animal Health Act 1981 acting in relation to England and Wales with the approval of the Treasury; and The Minister of Agriculture, Fisheries and Food in exercise of the power conferred on her by section 34(7) of the said Act acting in relation to England, and The Minister of Agriculture, Fisheries and Food and the National Assembly for Wales, acting jointly in exercise of the powers conferred on them by section 34(7) of the said Act, in relation to Wales *(Extent: E)* *(affected by repeal, see note)*[^c-937194c11713173176323c011cb3dbd0][^f00001]. Hereby make the following Order: *(Extent: E)* *(affected by repeal, see note)*[^c-937194c11713173176323c011cb3dbd0]
 
 ## 1. Title, extent and commencement
 
@@ -96,7 +96,7 @@ A Regulatory Impact Assessment in relation to this Order is not required.
 
 ## Annotations
 
-[^key-937194c11713173176323c011cb3dbd0]: Textual amendment: Order revoked (E.) (1.7.2015) by [The Water, Animals, Marine Pollution and Environmental Protection (Miscellaneous Revocations) Order 2015 (S.I. 2015/663)](https://www.legislation.gov.uk/uksi/2015/663), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/663/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/663/article/3/a)
+[^c-937194c11713173176323c011cb3dbd0]: Textual amendment: Order revoked (E.) (1.7.2015) by [The Water, Animals, Marine Pollution and Environmental Protection (Miscellaneous Revocations) Order 2015 (S.I. 2015/663)](https://www.legislation.gov.uk/uksi/2015/663), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/663/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/663/article/3/a)
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food, by the Transfer of Functions (Agriculture and Food) Order 1999, S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141) and in relation to Wales functions of the Ministers, so far as exercisable by the Secretary of State for Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999, S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1. Section 32 was applied to any transmissible spongiform encephalopathy by article 7(1) of the Sheep and Goats Spongiform Encephalopathy Order 1998, S.I. [1998/1645](https://www.legislation.gov.uk/uksi/1998/1645).
 

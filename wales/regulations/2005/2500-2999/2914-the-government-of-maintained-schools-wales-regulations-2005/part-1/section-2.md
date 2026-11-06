@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocations, savings and amendments[^key-40f74a86628f249e867a0a4f020c9d05][^key-0a972b747f5bfa54aa81be28639f508b]
+## 2. Revocations, savings and amendments[^c-40f74a86628f249e867a0a4f020c9d05][^c-0a972b747f5bfa54aa81be28639f508b]
 
 *Extent: E+W*
 
-(1)[^key-40f74a86628f249e867a0a4f020c9d05] The Education (School Government) (Transition to New Framework) Regulations 1998[^f00002] are hereby revoked.
+(1)[^c-40f74a86628f249e867a0a4f020c9d05] The Education (School Government) (Transition to New Framework) Regulations 1998[^f00002] are hereby revoked.
 
-(2)[^key-0a972b747f5bfa54aa81be28639f508b] The Education (School Government) (Wales) Regulations 1999[^f00003] are revoked with effect from 1 January 2006, except for the following provisions which remain in force in respect of every maintained school until a new instrument of government is made for the school in accordance with regulation 33—
+(2)[^c-0a972b747f5bfa54aa81be28639f508b] The Education (School Government) (Wales) Regulations 1999[^f00003] are revoked with effect from 1 January 2006, except for the following provisions which remain in force in respect of every maintained school until a new instrument of government is made for the school in accordance with regulation 33—
 
 - Regulation 1 except for the words “and new schools” in paragraph (3);
 - Regulation 2(1) except for the definitions of “the First Transitional Regulations”, “new school” “School Organisation Regulations” and “the Second Transitional Regulations”;
@@ -38,13 +38,13 @@ summary: ''
 - Regulation 18 except in paragraph (1) for the words “and to Part VIII (transitional provisions)”; and
 - Regulations 19 and 20.
 
-(3)[^key-40f74a86628f249e867a0a4f020c9d05] Paragraph (1) of regulation 31 of the Education (New Schools) (Wales) Regulations 1999[^f00004], is amended by substituting the words “Part 5 of the Government of Maintained Schools (Wales) Regulations 2005” for the words “Schedule 12 to the 1998 Act”.
+(3)[^c-40f74a86628f249e867a0a4f020c9d05] Paragraph (1) of regulation 31 of the Education (New Schools) (Wales) Regulations 1999[^f00004], is amended by substituting the words “Part 5 of the Government of Maintained Schools (Wales) Regulations 2005” for the words “Schedule 12 to the 1998 Act”.
 
 ## Annotations
 
-[^key-40f74a86628f249e867a0a4f020c9d05]: Commencement: Reg. 2(1)(3) in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-40f74a86628f249e867a0a4f020c9d05]: Commencement: Reg. 2(1)(3) in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-0a972b747f5bfa54aa81be28639f508b]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/2/2) in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-0a972b747f5bfa54aa81be28639f508b]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/2/2) in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1998/2763](https://www.legislation.gov.uk/uksi/1998/2763), as amended by S.I. [1999/362](https://www.legislation.gov.uk/uksi/1999/362), [1999/2242 (W. 2)](https://www.legislation.gov.uk/wsi/1999/2242), [2001/2263 (W. 164)](https://www.legislation.gov.uk/wsi/2001/2263).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — REPEALS —[^c20583851][^key-9fb963baa6288e392e7f6f35e22234ed]
+## SCHEDULE 2 — REPEALS —[^c20583851][^c-9fb963baa6288e392e7f6f35e22234ed]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Article 19(2)
 
 [^c20583851]: Commencement: Sch. 2 partly in operation; Sch. 2 not in operation at date of making see art. 1(2); Sch. 2 in operation for certain purposes at 31.10.2007 by [S.R. 2007/430](https://www.legislation.gov.uk/nisr/2007/430), [art. 2(d)](https://www.legislation.gov.uk/nisr/2007/430/article/2/d); Sch. 2 in operation for certain purposes at 31.12.2007 by [S.R. 2007/466](https://www.legislation.gov.uk/nisr/2007/466), [art. 2(2)(n)](https://www.legislation.gov.uk/nisr/2007/466/article/2/2/n)
 
-[^key-9fb963baa6288e392e7f6f35e22234ed]: Commencement: Sch. 2 in operation at 2.9.2013 for specified purposes by [S.R. 2013/216](https://www.legislation.gov.uk/nisr/2013/216), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/216/article/2/c)
+[^c-9fb963baa6288e392e7f6f35e22234ed]: Commencement: Sch. 2 in operation at 2.9.2013 for specified purposes by [S.R. 2013/216](https://www.legislation.gov.uk/nisr/2013/216), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/216/article/2/c)

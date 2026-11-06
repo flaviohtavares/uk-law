@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Removal from register on consensual basis[^key-c9fcfbeade3dcba256c09d5fa1b8d9ba]
+## 135. Removal from register on consensual basis[^c-c9fcfbeade3dcba256c09d5fa1b8d9ba]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9fcfbeade3dcba256c09d5fa1b8d9ba]: Commencement: [S. 135](https://www.legislation.gov.uk/anaw/2016/2/section/135) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-c9fcfbeade3dcba256c09d5fa1b8d9ba]: Commencement: [S. 135](https://www.legislation.gov.uk/anaw/2016/2/section/135) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

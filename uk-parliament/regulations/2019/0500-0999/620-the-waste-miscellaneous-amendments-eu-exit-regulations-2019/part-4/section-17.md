@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Commission Decision [2009/335/EC](https://www.legislation.gov.uk/eudn/2009/335) on technical guidelines for the establishment of the financial guarantee in accordance with Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council concerning the management of waste from extractive industries[^key-465545c56fb7f40039c92c789863d9ea]
+## 17. Commission Decision [2009/335/EC](https://www.legislation.gov.uk/eudn/2009/335) on technical guidelines for the establishment of the financial guarantee in accordance with Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council concerning the management of waste from extractive industries[^c-465545c56fb7f40039c92c789863d9ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
   >
   > In paragraph 1—
   >
-  > - (a)[^key-c7da5fc7cfe90e13f40856bb04918a47] in so far as it extends to England and Wales—
+  > - (a)[^c-c7da5fc7cfe90e13f40856bb04918a47] in so far as it extends to England and Wales—
   >   - (i) “financial guarantee” means the financial guarantee referred to in Article 14 of [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021), as it applies by virtue of paragraph 7(j) of Schedule 20 to the Environmental Permitting (England and Wales) Regulations 2016 (“the 2016 Regulations”);
   >   - (ii) “rehabilitation” has the meaning given in Article 3(20) of [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021), and for the purposes of that definition “waste facility” has the meaning given in paragraph (iv);
   >   - (iii) “treatment” has the meaning given in Article 3(8) of [Directive 2006/21/EC](https://www.legislation.gov.uk/eudr/2006/0021), and for the purposes of that definition “waste” has the meaning given in paragraph (b) of the definition of “waste” in regulation 2(1) of the 2016 Regulations;
@@ -43,14 +43,14 @@ summary: ''
 
   .
 
-(3)[^key-8f59f2455ef1a735702395e9fc8607bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8f59f2455ef1a735702395e9fc8607bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit Article 2.
 
 ## Annotations
 
-[^key-465545c56fb7f40039c92c789863d9ea]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-465545c56fb7f40039c92c789863d9ea]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-c7da5fc7cfe90e13f40856bb04918a47]: Textual amendment: Words in reg. 17(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(13)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/13/a)
+[^c-c7da5fc7cfe90e13f40856bb04918a47]: Textual amendment: Words in reg. 17(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(13)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/13/a)
 
-[^key-8f59f2455ef1a735702395e9fc8607bf]: Textual amendment: Reg. 17(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(13)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/13/b)
+[^c-8f59f2455ef1a735702395e9fc8607bf]: Textual amendment: Reg. 17(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(13)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/13/b)

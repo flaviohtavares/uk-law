@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Creation or improvement of means of access to works[^key-f9512d60fdf2d847937585bc66fd1321]
+## 17. Creation or improvement of means of access to works[^c-f9512d60fdf2d847937585bc66fd1321]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 ## Annotations
 
-[^key-f9512d60fdf2d847937585bc66fd1321]: Commencement: Art. 17 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-f9512d60fdf2d847937585bc66fd1321]: Commencement: Art. 17 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52.[^key-f56a2d0c31a4f073bbb943806a4b15e8]
+## 52.[^c-f56a2d0c31a4f073bbb943806a4b15e8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56a2d0c31a4f073bbb943806a4b15e8]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2023/55/section/52) omitted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/8/2/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-f56a2d0c31a4f073bbb943806a4b15e8]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/2023/55/section/52) omitted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/8/2/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

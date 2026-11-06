@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. When a costs order or a preparation time order may or must be made[^key-7202a82cce23b10da55f0531c51a4816]
+## 74. When a costs order or a preparation time order may or must be made[^c-7202a82cce23b10da55f0531c51a4816]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7202a82cce23b10da55f0531c51a4816]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2024/1155/rule/74) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-7202a82cce23b10da55f0531c51a4816]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2024/1155/rule/74) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

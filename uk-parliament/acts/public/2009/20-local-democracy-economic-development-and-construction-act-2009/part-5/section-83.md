@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Duties of regional development agencies[^key-ffac5df8c252087910da58b5eb6afd5c]
+## 83. Duties of regional development agencies[^c-ffac5df8c252087910da58b5eb6afd5c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffac5df8c252087910da58b5eb6afd5c]: Textual amendment: S. 83 repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-ffac5df8c252087910da58b5eb6afd5c]: Textual amendment: S. 83 repealed (1.7.2012 at 0.02 a.m.) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)

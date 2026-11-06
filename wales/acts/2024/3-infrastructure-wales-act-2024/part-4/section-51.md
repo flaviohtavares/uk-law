@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Legal assistance[^key-d3e52b5ec90ab27a190e50fda9c7c8fc][^key-e401e0ae3fee89fb7b7371a0be7f1391]
+## 51. Legal assistance[^c-d3e52b5ec90ab27a190e50fda9c7c8fc][^c-e401e0ae3fee89fb7b7371a0be7f1391]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3e52b5ec90ab27a190e50fda9c7c8fc]: Commencement: S. 51 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-d3e52b5ec90ab27a190e50fda9c7c8fc]: Commencement: S. 51 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-e401e0ae3fee89fb7b7371a0be7f1391]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2024/3/section/51) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-e401e0ae3fee89fb7b7371a0be7f1391]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2024/3/section/51) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

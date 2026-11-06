@@ -45,7 +45,7 @@ Coming into force
 
 17th July 2014
 
-The Secretary of State, in exercise of the powers conferred by section 4 of the Petroleum Act 1998[^f00001], makes the following Regulations:[^key-924ce45e7a0f4640a937b71377543330][^key-03a5aa54317dac57db19429f97e6f9ac]
+The Secretary of State, in exercise of the powers conferred by section 4 of the Petroleum Act 1998[^f00001], makes the following Regulations:[^c-924ce45e7a0f4640a937b71377543330][^c-03a5aa54317dac57db19429f97e6f9ac]
 
 ## Contents
 
@@ -99,6 +99,6 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-924ce45e7a0f4640a937b71377543330]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/1686) modified (temp.) (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 14](https://www.legislation.gov.uk/uksi/2018/980/regulation/14) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
+[^c-924ce45e7a0f4640a937b71377543330]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/1686) modified (temp.) (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [reg. 14](https://www.legislation.gov.uk/uksi/2018/980/regulation/14) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16))
 
-[^key-03a5aa54317dac57db19429f97e6f9ac]: Modification: Regulations modified (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [reg. 9](https://www.legislation.gov.uk/uksi/2018/56/regulation/9) (as amended (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16)))
+[^c-03a5aa54317dac57db19429f97e6f9ac]: Modification: Regulations modified (9.2.2018) by [The Scotland Act 2016 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/56)](https://www.legislation.gov.uk/uksi/2018/56), [reg. 9](https://www.legislation.gov.uk/uksi/2018/56/regulation/9) (as amended (1.10.2018) by [The Scotland Act 2016, Wales Act 2017 and Onshore Petroleum (Consequential, Transitional and Saving Provisions and Model Clauses) Regulations 2018 (S.I. 2018/980)](https://www.legislation.gov.uk/uksi/2018/980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/980/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2018/980/regulation/7/4) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/980/regulation/16)))

@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 [^c2038861]The Secretary of State has not referred these Regulations to the Social Security Advisory Committee as it appears to the Secretary of State that by reason of urgency it is inexpedient to do so .
 
-The Secretary of State has not undertaken consultation with organisations appearing to the Secretary of State to be representative of the authorities concerned, as it appears to the Secretary of State that by reason of urgency it is inexpedient to do so [^c2038862].[^key-5b2676da11d3859b162de19a444b70a9]
+The Secretary of State has not undertaken consultation with organisations appearing to the Secretary of State to be representative of the authorities concerned, as it appears to the Secretary of State that by reason of urgency it is inexpedient to do so [^c2038862].[^c-5b2676da11d3859b162de19a444b70a9]
 
 ## PART 1 — GENERAL
 
@@ -53,7 +53,7 @@ The Secretary of State has not undertaken consultation with organisations appear
 
 (2) Subject to paragraph (3), these Regulations come into force on 1st October 2010.
 
-(3) Regulations 24 (revocation of transitional claims provisions) and 25(2) (amendment of the 2008 Regulations) and paragraphs 1A and 2[^key-ab20d0c012cc4beffeb515311c2dd7a8] of Schedule 4 (consequential amendments to the 2008 Regulations) come into force on 31st January 2011.
+(3) Regulations 24 (revocation of transitional claims provisions) and 25(2) (amendment of the 2008 Regulations) and paragraphs 1A and 2[^c-ab20d0c012cc4beffeb515311c2dd7a8] of Schedule 4 (consequential amendments to the 2008 Regulations) come into force on 31st January 2011.
 
 ### 2. Interpretation
 
@@ -94,7 +94,7 @@ The Secretary of State has not undertaken consultation with organisations appear
 
 (4) In these Regulations, any reference to Step 1, 2 or 3, in relation to any person, is to be construed in accordance with regulation 8.
 
-### 3. Persons to whom these Regulations apply[^key-1e37659f8046e248e8beba17569a2ee0]
+### 3. Persons to whom these Regulations apply[^c-1e37659f8046e248e8beba17569a2ee0]
 
 In these Regulations, regulations 4 to 22 apply to any person who, on or after 1st October 2010, is entitled to an existing award.
 
@@ -161,7 +161,7 @@ the notice issued to the person under this regulation shall have effect in relat
 (1) The enactments listed in paragraph (2) apply, subject to the modifications specified in Schedule 1, for the purposes of—
 
 - (a) enabling the Secretary of State to make in relation to any person a conversion decision under this Part; and
-- (b) providing for the revision or supersession[^key-ad794835cb2103f6c95c9e9ac2072efb] of such decisions at any time before the effective date.
+- (b) providing for the revision or supersession[^c-ad794835cb2103f6c95c9e9ac2072efb] of such decisions at any time before the effective date.
 
 (2) The listed enactments are—
 
@@ -175,16 +175,16 @@ the notice issued to the person under this regulation shall have effect in relat
 
 ### 7. Qualifying for conversion
 
-(1)[^key-69527e0fde90f8217f8033d1b0c92957] Subject to[^key-1e5e1df0345eeb01e164caa9dd60d31e] paragraphs (2) and (3)[^key-fe31c3606a4dc87ab1717cd7a582c00a], for the purposes of regulation 5(2)(a) (deciding whether an existing award qualifies for conversion), an existing award or awards to which a notified person (“P”)[^key-6dfc76952badef26fb7acd2bea0acb80] is entitled qualify for conversion into an award of an employment and support allowance under these Regulations[^key-e3bbf00ce06c333f614eea9ee165ce97] only if “P”[^key-557baa947b6eeaaf9ee83bbefc2aa760] satisfies the basic conditions set out in section 1(3)(a) to (d) and (f) of the 2007 Act.
+(1)[^c-69527e0fde90f8217f8033d1b0c92957] Subject to[^c-1e5e1df0345eeb01e164caa9dd60d31e] paragraphs (2) and (3)[^c-fe31c3606a4dc87ab1717cd7a582c00a], for the purposes of regulation 5(2)(a) (deciding whether an existing award qualifies for conversion), an existing award or awards to which a notified person (“P”)[^c-6dfc76952badef26fb7acd2bea0acb80] is entitled qualify for conversion into an award of an employment and support allowance under these Regulations[^c-e3bbf00ce06c333f614eea9ee165ce97] only if “P”[^c-557baa947b6eeaaf9ee83bbefc2aa760] satisfies the basic conditions set out in section 1(3)(a) to (d) and (f) of the 2007 Act.
 
-(2)[^key-f1f90389ea3bdc37b32a03f3a9aa0b3d] Where P is entitled to an award of an employment and support allowance under the 2007 Act and it has been determined in respect of that entitlement that P—
+(2)[^c-f1f90389ea3bdc37b32a03f3a9aa0b3d] Where P is entitled to an award of an employment and support allowance under the 2007 Act and it has been determined in respect of that entitlement that P—
 
 - (a) has limited capability for work, or
 - (b) is to be treated as having limited capability for work, other than by virtue of regulation 30 of the 2008 Regulations ,
 
 in relation to the conversion of P’s existing award, P is to be taken as having satisfied the condition set out in section 1(3)(a) of the 2007 Act (limited capability for work).
 
-(3)[^key-27ae31b33161fd8a7ddce8825e00a60c] Where P would be entitled to an award of an employment and support allowance under the 2007 Act but for the application of section 1A of that Act (duration of contributory allowance) and it had been determined in respect of the entitlement that had ceased that P—
+(3)[^c-27ae31b33161fd8a7ddce8825e00a60c] Where P would be entitled to an award of an employment and support allowance under the 2007 Act but for the application of section 1A of that Act (duration of contributory allowance) and it had been determined in respect of the entitlement that had ceased that P—
 
 - (a) had limited capability for work; or
 - (b) was to be treated as having limited capability for work, other than by virtue of regulation 30 of the 2008 Regulations,
@@ -193,7 +193,7 @@ in relation to the conversion of P’s existing award, P is to be taken as havin
 
 ### 8. Amount of an employment and support allowance on conversion
 
-(1)[^key-7eb0e2211005c2cb1c10982fb670f862] For the purposes of regulation 5(3), the amount of an employment and support allowance to which a notified person is entitled shall be determined as follows.
+(1)[^c-7eb0e2211005c2cb1c10982fb670f862] For the purposes of regulation 5(3), the amount of an employment and support allowance to which a notified person is entitled shall be determined as follows.
 
 *Step 1*
 
@@ -202,7 +202,7 @@ Determine in accordance with Part 1 of the 2007 Act and the 2008 Regulations the
 - (a) it had been determined that the person was entitled to an award of an employment and support allowance; and
 - (b) the assessment phase had ended.
 
-*Step 2[^key-cffb56690c5edcc33387e3aef4618bcc]*
+*Step 2[^c-cffb56690c5edcc33387e3aef4618bcc]*
 
 Determine in accordance with regulations 9 to 12—
 
@@ -213,7 +213,7 @@ Determine in accordance with regulations 9 to 12—
 
 Aggregate the amounts (if any) which result from Steps 1 and 2.
 
-(2)[^key-982261b58db8b470536e283df9f0209f] In a case to which regulation 7(2) applies (cases where a person is already entitled to an award of an employment and support allowance), a determination that the person has, or does not have, limited capability for work-related activity made in respect of the person’s current entitlement to an award of an employment and support allowance is to be treated as having been made for the purposes of Step 1.
+(2)[^c-982261b58db8b470536e283df9f0209f] In a case to which regulation 7(2) applies (cases where a person is already entitled to an award of an employment and support allowance), a determination that the person has, or does not have, limited capability for work-related activity made in respect of the person’s current entitlement to an award of an employment and support allowance is to be treated as having been made for the purposes of Step 1.
 
 ### 9. Determining entitlement to a transitional addition
 
@@ -246,15 +246,15 @@ are to be determined in accordance with regulation 10(2) (transitional addition:
 
 (5) In paragraph (3), the reference to the weekly rate of an existing award applicable to the notified person is to—
 
-- (a)[^key-8b74060ab39597dd40bd39d3c7b137b5] in the case of incapacity benefit, the weekly rate payable—
+- (a)[^c-8b74060ab39597dd40bd39d3c7b137b5] in the case of incapacity benefit, the weekly rate payable—
   - (i) under section 30B(2), (6) or (7) (subject to any deduction made in accordance with section 46(3) of the Pension Schemes Act 1993) of the Contributions and Benefits Act [^c2038879](incapacity benefit: rate),
   - (ii) under section 40(5) or 41(4) of that Act [^c2038880](long-term incapacity benefit for widows and for widowers),
   - (iii) under section 80, 81 or 86A of that Act (incapacity benefit: beneficiary’s dependent children; restrictions on increase – child not living with beneficiary etc; and increases for adult dependants),
   - (iv) by virtue of regulation 11(4) of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995 [^c2038881](former sickness benefit), or
   - (v) by virtue of regulations 17(1) (transitional awards of long-term incapacity benefit) or 17A (awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link) of those Regulations; or
-- (b) in the case of severe disablement allowance, the weekly rate payable under sections 68(7), 69(1) and 90[^key-575cf8b0fdf876785206ac9e456b7be6] of the Contributions and Benefits Act (as they have effect by virtue of article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No.9 and Transitional and Savings Provisions) Order 2000 [^c2038882]).
+- (b) in the case of severe disablement allowance, the weekly rate payable under sections 68(7), 69(1) and 90[^c-575cf8b0fdf876785206ac9e456b7be6] of the Contributions and Benefits Act (as they have effect by virtue of article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No.9 and Transitional and Savings Provisions) Order 2000 [^c2038882]).
 
-(6)[^key-e6138de6e4f6a5775c375edf14c238bc] Subject to paragraph (7), in determining the weekly rate of incapacity benefit or severe disablement allowance for the purposes of paragraph (5) the following amounts shall be disregarded–
+(6)[^c-e6138de6e4f6a5775c375edf14c238bc] Subject to paragraph (7), in determining the weekly rate of incapacity benefit or severe disablement allowance for the purposes of paragraph (5) the following amounts shall be disregarded–
 
 - (a) any relevant deduction within the meaning of regulation 2(1) (interpretation); and
 - (b) any other deduction relating to the existing award which is made by virtue of the Contributions and Benefits Act, the Administration Act or any other Act which is amended by Schedule 3 to the 2007 Act, the Social Security (Incapacity for Work) Act 1994 or by virtue of regulations made under those Acts.
@@ -334,7 +334,7 @@ and the effective date of the person's conversion decision is the first day of t
 
 ### 14. Conversion decision that existing award qualifies for conversion
 
-(1) Subject to paragraph (2A), paragraphs (2) to (6)[^key-d6744d4db624463ca75a238b2074cb18] apply in any case where the conversion decision is a decision that a notified person's (“P”) existing award or awards qualify for conversion into an employment and support allowance.
+(1) Subject to paragraph (2A), paragraphs (2) to (6)[^c-d6744d4db624463ca75a238b2074cb18] apply in any case where the conversion decision is a decision that a notified person's (“P”) existing award or awards qualify for conversion into an employment and support allowance.
 
 (2) On the effective date of the conversion decision—
 
@@ -343,7 +343,7 @@ and the effective date of the person's conversion decision is the first day of t
 
 are by virtue of this paragraph converted into, and shall have effect on and after that date as, a single award of an employment and support allowance of such amount as is specified in the conversion decision.
 
-(2A)[^key-d6b69b0de24c79d3e87683b26024b4b4] Where P—
+(2A)[^c-d6b69b0de24c79d3e87683b26024b4b4] Where P—
 
 - (a) has an existing award of income support;
 - (b) would, on the effective date of P’s conversion decision, remain entitled to income support (by virtue of another provision of the Income Support (General) Regulations 1987) were P not a person to whom regulation 6(4)(a) or 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, those Regulations (persons incapable of work or disabled) applied; and
@@ -358,7 +358,7 @@ paragraph (2B) applies instead of paragraphs (2) and (4).
 
 shall terminate immediately before the effective date of P’s conversion decision.
 
-(3)[^key-854d4e0d14b7ab4d07759b56246f5f56] In a case to which regulation 7(2) applies (cases where a person is already entitled to an award of an employment and support allowance), any entitlement of P to an award of an employment and support allowance by virtue of the 2007 Act shall terminate immediately before the effective date of P’s conversion decision.
+(3)[^c-854d4e0d14b7ab4d07759b56246f5f56] In a case to which regulation 7(2) applies (cases where a person is already entitled to an award of an employment and support allowance), any entitlement of P to an award of an employment and support allowance by virtue of the 2007 Act shall terminate immediately before the effective date of P’s conversion decision.
 
 (4) Where, immediately before the effective date of the conversion decision, any relevant deduction was made from the existing award or awards, or from an award of an employment and support allowance which terminates in accordance with paragraph (3), an equivalent deduction shall be made from the award of an employment and support allowance to which P is entitled by virtue of these Regulations.
 
@@ -379,7 +379,7 @@ paragraph 20H(1)(ee) of that Schedule (limited capability for work) shall be tre
 
 ### 15. Conversion decision that existing award does not qualify for conversion
 
-(1) Subject to paragraphs (2A) and (4), paragraphs (2), (3) and (6) apply[^key-adab9d9239050bbd7b1615fc97f6cbb0] in any case where the conversion decision is a decision that a notified person's (“P”) existing award or awards do not qualify for conversion into an employment and support allowance.
+(1) Subject to paragraphs (2A) and (4), paragraphs (2), (3) and (6) apply[^c-adab9d9239050bbd7b1615fc97f6cbb0] in any case where the conversion decision is a decision that a notified person's (“P”) existing award or awards do not qualify for conversion into an employment and support allowance.
 
 (2) P's entitlement to one or both of—
 
@@ -388,7 +388,7 @@ paragraph 20H(1)(ee) of that Schedule (limited capability for work) shall be tre
 
 shall terminate by virtue of this paragraph immediately before the effective date of P's conversion decision.
 
-(2A)[^key-0c37d3546177882bf2466ea20f8c4197] Where P–
+(2A)[^c-0c37d3546177882bf2466ea20f8c4197] Where P–
 
 - (a) has an existing award of income support, and
 - (b) would, on the effective date of P’s conversion decision, remain entitled to income support (by virtue of another provision of the Income Support (General) Regulations 1987) were P not a person to whom regulations 6(4)(a) or 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, those Regulations (persons incapable of work or disabled) applied,
@@ -397,7 +397,7 @@ P’s existing award of income support shall only terminate under paragraph (2)(
 
 (2B) Where paragraph (2A) applies, and P’s existing award of income support does not terminate under paragraph (2)(b), any entitlement of P to a disability premium by virtue of paragraph 12(1)(b) of Schedule 2 to the Income Support (General) Regulations 1987 (additional condition for the higher pensioner and disability premiums) shall terminate immediately before the effective date of P’s conversion decision.
 
-(3) Where, immediately before the effective date of P’s conversion decision[^key-1a30c5b948cee263b74b3fe7586848a7], P is entitled to be credited with any earnings under regulation 8B(2)(a) of the Social Security (Credits) Regulations 1975 [^c2038886] (credits for incapacity for work), P shall not be entitled to be so credited under that regulation on or after that date.
+(3) Where, immediately before the effective date of P’s conversion decision[^c-1a30c5b948cee263b74b3fe7586848a7], P is entitled to be credited with any earnings under regulation 8B(2)(a) of the Social Security (Credits) Regulations 1975 [^c2038886] (credits for incapacity for work), P shall not be entitled to be so credited under that regulation on or after that date.
 
 (4) Paragraph (5) applies where—
 
@@ -421,7 +421,7 @@ shall be reinstated with effect from the effective date of the earlier conversio
 - (d) the notice issued under regulation 4 (notice commencing the conversion phase) has effect in relation to that existing award or those existing awards; and
 - (e) with the exception of regulation 4 (notice commencing the conversion phase), the remaining provisions of this Part, including this regulation, apply to the new conversion decision.
 
-(6)[^key-89e7b77ad2e25ccf31bd4a67b728a7d0] Where—
+(6)[^c-89e7b77ad2e25ccf31bd4a67b728a7d0] Where—
 
 - (a) paragraph (2) applies; and
 - (b) P is a member of a joint-claim couple,
@@ -442,7 +442,7 @@ any entitlement of that couple to a disability premium by virtue of paragraph 20
 - (a) providing for the revision or supersession of any person's conversion decision at any time on or after that decision's effective date; and
 - (b) enabling any other matter to be determined in connection with any person's entitlement or continuing entitlement to an award of an employment and support allowance by virtue of these Regulations.
 
-(1A)[^key-70edfc5aef2b397c8d118e6bb38d166b] Where—
+(1A)[^c-70edfc5aef2b397c8d118e6bb38d166b] Where—
 
 - (a) a person makes a claim for an employment and support allowance subsequent to the termination of that person’s entitlement to an employment and support allowance by virtue of these Regulations; and
 - (b) the period of limited capability for work in relation to that claim would link, by virtue of regulation 145(1) of the 2008 Regulations, to a period of limited capability for work in respect of which an award was made by virtue of these Regulations,
@@ -464,19 +464,19 @@ that person’s entitlement to an award of an employment and support allowance s
 
 ### 17. Changes of circumstances before the effective date
 
-Where, on or after the effective date of any person's conversion decision, the Secretary of State is notified of any change of circumstances or other relevant event which occurred before that date and which would have been relevant to the existing award or awards[^key-2eafc861a9f2151572ba4292d744a14e], the Secretary of State—
+Where, on or after the effective date of any person's conversion decision, the Secretary of State is notified of any change of circumstances or other relevant event which occurred before that date and which would have been relevant to the existing award or awards[^c-2eafc861a9f2151572ba4292d744a14e], the Secretary of State—
 
-- (a)[^key-e650854f4a61ca14776c476a06b54614] must treat any award–
+- (a)[^c-e650854f4a61ca14776c476a06b54614] must treat any award–
   - (i) converted by virtue of regulation 14(2) (conversion decision that existing award qualifies for conversion), or
   - (ii) terminated by virtue of regulation 14(2B)(a) (termination of an existing award of incapacity benefit or severe disablement allowance where entitlement to award of income support continues), regulation 14(3) (termination of award of an employment and support allowance where that entitlement already exists) or regulation 15(2) (termination of existing awards which do not qualify for conversion),
 
   as if that award had not been converted or terminated;
 - (b) must treat any entitlement to be credited with earnings terminated by virtue of regulation 14(5) or 15(3) as if it had not been terminated;
 - (c) must treat any entitlement to a disability premium terminated by virtue of regulations 14(2B)(b), 15(2B) or 15(6) as if it had not been terminated;
-- (d)[^key-0371a755c97405b4d5f5a68083fc2288] must take account of the change of circumstances or other relevant event for the purposes of determining whether to revise or supersede a decision (“**the earlier decision**”) relating to the award or awards in respect of which the conversion decision was made;
+- (d)[^c-0371a755c97405b4d5f5a68083fc2288] must take account of the change of circumstances or other relevant event for the purposes of determining whether to revise or supersede a decision (“**the earlier decision**”) relating to the award or awards in respect of which the conversion decision was made;
 - (e) in an appropriate case, must revise or supersede the earlier decision;
-- (f) if any earlier decision is revised or superseded, must determine whether to revise or supersede[^key-3ab7346597b0501cf17d77ea9579c8c3] the conversion decision made in relation to P; and
-- (g) in an appropriate case, must revise or supersede[^key-626284168b2bfb9d55ab2d5e4a842368] that conversion decision.
+- (f) if any earlier decision is revised or superseded, must determine whether to revise or supersede[^c-3ab7346597b0501cf17d77ea9579c8c3] the conversion decision made in relation to P; and
+- (g) in an appropriate case, must revise or supersede[^c-626284168b2bfb9d55ab2d5e4a842368] that conversion decision.
 
 ### 18. Reducing the transitional addition: general rule
 
@@ -498,7 +498,7 @@ which is not excluded by paragraph (3).
 
 (1) Paragraphs (2) and (3) apply to any person (“T”) who—
 
-- (a)[^key-b89b38021f91d37d5e1f36404f667d57] on the day before the effective date of T’s conversion decision, was entitled in connection with an existing award of incapacity benefit or severe disablement allowance to an increase under–
+- (a)[^c-b89b38021f91d37d5e1f36404f667d57] on the day before the effective date of T’s conversion decision, was entitled in connection with an existing award of incapacity benefit or severe disablement allowance to an increase under–
   - (i) in the case of incapacity benefit, section 80 of the Contributions and Benefits Act (beneficiary’s dependent children), or
   - (ii) in the case of severe disablement allowance, section 90 of that Act (beneficiaries under sections 68 and 70),
 
@@ -512,7 +512,7 @@ which is not excluded by paragraph (3).
 
 T was entitled to the increase referred to in paragraph (1)(a).
 
-(3)[^key-82e57611ea2c4214b9c70db3e73d7e45] The amount of the transitional addition shall be reduced (but not below nil) by a sum equal to the amount of the increase referred to in paragraph (1)(a) payable to T on the day before the effective date, in respect of the child or qualifying young person in relation to whom child benefit terminated.
+(3)[^c-82e57611ea2c4214b9c70db3e73d7e45] The amount of the transitional addition shall be reduced (but not below nil) by a sum equal to the amount of the increase referred to in paragraph (1)(a) payable to T on the day before the effective date, in respect of the child or qualifying young person in relation to whom child benefit terminated.
 
 ### 20. Reducing the transitional addition: increases for adult dependants
 
@@ -530,33 +530,33 @@ T was entitled to the increase referred to in paragraph (1)(a).
 - (c) the termination of the entitlement of either T or that adult dependant to child benefit; or
 - (d) the award to that adult dependant of a personal benefit (within the meaning of the Social Security (Overlapping Benefits) Regulations 1979 [^c2038892]) which is equal to or more than the amount which, on the day before the effective date, was the amount of the increase referred to in paragraph (1)(a) to which T was entitled.
 
-(3)[^key-11579a133a7b31c701d31a62a76ad3bc] The amount of the transitional addition shall be reduced (but not below nil) by a sum equal to the amount which, on the day before the effective date, was the amount of the increase referred to in paragraph (1)(a) payable to T.
+(3)[^c-11579a133a7b31c701d31a62a76ad3bc] The amount of the transitional addition shall be reduced (but not below nil) by a sum equal to the amount which, on the day before the effective date, was the amount of the increase referred to in paragraph (1)(a) payable to T.
 
 ### 21. Termination of transitional addition
 
 (1) Any entitlement to a transitional addition which a person (“T”) may have by virtue of these Regulations terminates on whichever is the earlier of—
 
-- (a) the reduction in accordance with regulations 18 to 20 (reducing the transitional addition: general rule and increases for dependent children and adult dependants) of the amount of the transitional addition to nil; and[^key-59c591c39f250f13af61eec3384eb652]
-- (b) subject to paragraphs (2), (3)[^key-722908b9233f9aae77a2cb75a56a8409], (3A)[^key-87966b543031b7943cd6d423fa4cd75f] and (4), the termination in accordance with the enactments applied by regulation 16 of T's entitlement to an employment and support allowance (entitlement to which arises from sections 1(2)(a) or 1(2)(b) of the 2007 Act), or to a contributory allowance or to an income-related allowance[^key-4991f70f6a86f492661a91d983e82b9f]; [^key-0e8072d2e35d259072f2f4435dcb4304]...
-- (c)[^key-db8201446825c5c209536fdac205ac4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the reduction in accordance with regulations 18 to 20 (reducing the transitional addition: general rule and increases for dependent children and adult dependants) of the amount of the transitional addition to nil; and[^c-59c591c39f250f13af61eec3384eb652]
+- (b) subject to paragraphs (2), (3)[^c-722908b9233f9aae77a2cb75a56a8409], (3A)[^c-87966b543031b7943cd6d423fa4cd75f] and (4), the termination in accordance with the enactments applied by regulation 16 of T's entitlement to an employment and support allowance (entitlement to which arises from sections 1(2)(a) or 1(2)(b) of the 2007 Act), or to a contributory allowance or to an income-related allowance[^c-4991f70f6a86f492661a91d983e82b9f]; [^c-0e8072d2e35d259072f2f4435dcb4304]...
+- (c)[^c-db8201446825c5c209536fdac205ac4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Nothing in paragraph (1)(b) prevents reinstatement of a person's entitlement to a transitional addition following the reversal on appeal of any determination which results in a termination of the person’s entitlement to which that provision refers[^key-ef11c22c7b06a80f23542c65e58b5103].
+(2) Nothing in paragraph (1)(b) prevents reinstatement of a person's entitlement to a transitional addition following the reversal on appeal of any determination which results in a termination of the person’s entitlement to which that provision refers[^c-ef11c22c7b06a80f23542c65e58b5103].
 
-(3)[^key-bf024f9e790bb8049deaa1bd24bbcba4] Any termination by virtue of paragraph (1)(b) of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1.
+(3)[^c-bf024f9e790bb8049deaa1bd24bbcba4] Any termination by virtue of paragraph (1)(b) of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1.
 
-(3A)[^key-df821844b7790f640f683f13a44d3975] Any termination of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1A.
+(3A)[^c-df821844b7790f640f683f13a44d3975] Any termination of T’s entitlement to a transitional addition under regulation 10(2)(a) (transitional addition: incapacity benefit or severe disablement allowance) shall instead have effect as a suspension of that entitlement in Case 1A.
 
 (4) Any termination by virtue of paragraph (1)(b) of T’s entitlement to a transitional addition under regulation 11(2)(a) (transitional addition: income support) shall instead have effect as a suspension of that entitlement in Case 1 or Case 2.
 
 (5) Case 1 is where—
 
-- (a) on a subsequent claim made by T for an employment and support allowance, a period of limited capability for work is treated under regulation 145(1) [^key-7122d0f508db6040fb5ce33fa56a47b5] ... of the 2008 Regulations (linking rules) as a continuation of an earlier period of limited capability for work;
+- (a) on a subsequent claim made by T for an employment and support allowance, a period of limited capability for work is treated under regulation 145(1) [^c-7122d0f508db6040fb5ce33fa56a47b5] ... of the 2008 Regulations (linking rules) as a continuation of an earlier period of limited capability for work;
 - (b) T’s entitlement to an allowance which is referred to in paragraph (1)(b) (“T’s old entitlement”) was in respect of that earlier period; and
 - (c) in respect of that earlier period, it was terminated–[^M_F_0e8fa415-70a4-4c5e-8fcb-425474172395]
   - (i) other than by virtue of a determination that T did not have, or was treated as not having, limited capability for work, or
   - (ii) by virtue of a determination that the claimant did not have, or was treated as not having, limited capability for work, and, in respect of that subsequent claim, it is determined that T has, or is treated as having, limited capability for work, other than under regulation 30 of the 2008 Regulations.
 
-(5A)[^key-dd363b32e930570093d4e0b009342b6f] Case 1A is where—
+(5A)[^c-dd363b32e930570093d4e0b009342b6f] Case 1A is where—
 
 - (a) T was previously entitled to a contributory allowance;
 - (b) entitlement to that previous allowance terminated by virtue of section 1A of the 2007 Act (duration of contributory allowance);
@@ -570,7 +570,7 @@ T was entitled to the increase referred to in paragraph (1)(a).
 - (c) T again becomes entitled to an allowance which is referred to in sub-paragraph (a); and
 - (d) that entitlement commences before the end of the 12 week period which begins with the date of termination of T’s old entitlement.
 
-(7) In Cases 1, 1A[^key-2bfcd97e25932b062e5bbbf21ccd4f0b] and 2, the amount of the transitional addition or additions, as the case may be, to which T becomes entitled from the commencement of T’s subsequent entitlement to an allowance which is referred to in paragraph (1)(b) is to be determined by reference to the amount of the transitional addition or additions, as the case may be, to which T was entitled on the termination of T’s old entitlement, subject to any subsequent adjustment of that amount that would have been made under this Part.
+(7) In Cases 1, 1A[^c-2bfcd97e25932b062e5bbbf21ccd4f0b] and 2, the amount of the transitional addition or additions, as the case may be, to which T becomes entitled from the commencement of T’s subsequent entitlement to an allowance which is referred to in paragraph (1)(b) is to be determined by reference to the amount of the transitional addition or additions, as the case may be, to which T was entitled on the termination of T’s old entitlement, subject to any subsequent adjustment of that amount that would have been made under this Part.
 
 ## PART 4 — MISCELLANEOUS
 
@@ -578,7 +578,7 @@ T was entitled to the increase referred to in paragraph (1)(a).
 
 Where a conversion decision has been made in relation to any person, the following enactments shall not apply to that person with effect from the conversion decision's effective date—
 
-- (a) sections 30A, 30C,[^key-b66406137e9b10a71c9595ebe87293f3] 40 or 41 of the Contributions and Benefits Act [^c2038893] (incapacity benefit);
+- (a) sections 30A, 30C,[^c-b66406137e9b10a71c9595ebe87293f3] 40 or 41 of the Contributions and Benefits Act [^c2038893] (incapacity benefit);
 - (b) section 68 of the Contributions and Benefits Act (as it has effect by virtue of article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 [^c2038894]);
 - (c) regulation 13(2)(b) or (bb) of, or paragraph 7(a) or (b), 10, 12 or 13 of Schedule 1B to, the Income Support (General) Regulations 1987 [^c2038895] (prescribed category of persons for the purposes of entitlement on grounds of incapacity or disability);
 - (d) the Income Support Transitional Regulations 1987 [^c2038896]; and
@@ -588,7 +588,7 @@ Where a conversion decision has been made in relation to any person, the followi
 
 In sub-paragraphs (a), (b) and (c) of regulation 2(2) of the Employment and Support Allowance (Transitional Provisions) Regulations 2008 [^c2038898] (claim for existing award), for “a claim” substitute “ a claim made in respect of a period commencing before 31st January 2011 ”.
 
-### 23A. Termination of entitlement to the disability premium for persons incapable of work: income support[^key-9ebef7e4583a823b3dfc9f4ec041c522]
+### 23A. Termination of entitlement to the disability premium for persons incapable of work: income support[^c-9ebef7e4583a823b3dfc9f4ec041c522]
 
 (1) Subject to paragraph (4), paragraph 12 of Schedule 2 to the Income Support (General) Regulations 1987 (additional condition for the higher pensioner and disability premiums) is amended as follows.
 
@@ -646,9 +646,9 @@ Regulation 6(1)
 
 #### PART 1 — MODIFICATION OF PART 1 OF THE 2007 ACT
 
-**1.**[^key-4da30f8e250572b7e56890a08f7b922c] Any reference to a claimant is to be read as if it were a reference to a notified person.
+**1.**[^c-4da30f8e250572b7e56890a08f7b922c] Any reference to a claimant is to be read as if it were a reference to a notified person.
 
-**2.** Section 1 is to be read as if[^key-87f9436e056507c06daa7b2ca615ef2c]
+**2.** Section 1 is to be read as if[^c-87f9436e056507c06daa7b2ca615ef2c]
 
 - (a) for subsection (2), there were substituted—
 
@@ -699,7 +699,7 @@ Regulation 6(1)
 
 **10.** Regulation 30 (which provides for payment of the allowance pending determination of limited capability for work) does not apply.
 
-**10A.**[^key-c68c5d34e096b514222e0fc205520a4c] In the case of a person who is entitled to an existing award of income support and who is a person to whom paragraph (1) of regulation 6 of the Social Security (Habitual Residence) Amendment Regulations 2004 applies, regulation 70 (special cases: supplemental – persons from abroad) is to be read as if–
+**10A.**[^c-c68c5d34e096b514222e0fc205520a4c] In the case of a person who is entitled to an existing award of income support and who is a person to whom paragraph (1) of regulation 6 of the Social Security (Habitual Residence) Amendment Regulations 2004 applies, regulation 70 (special cases: supplemental – persons from abroad) is to be read as if–
 
 - (a) the word “or” at the end of paragraph (4)(k) were omitted; and
 - (b) at the end of paragraph (4)(jj) the word “or” and the following sub-paragraph were added–
@@ -735,7 +735,7 @@ Regulation 6(1)
 
 **13.** Regulation 32 of the Social Security (Claims and Payments) Regulations 1987 [^c2038902] (information to be given and changes to be notified) is to be read as if it were modified so as to enable the Secretary of State to require from any person entitled to an existing award—
 
-- (a) under paragraph (1), information or evidence for determining whether [^key-a0ef52d326603ae31d9ea071e34abe97]... an existing award should be converted into an award of an employment and support allowance; and
+- (a) under paragraph (1), information or evidence for determining whether [^c-a0ef52d326603ae31d9ea071e34abe97]... an existing award should be converted into an award of an employment and support allowance; and
 - (b) under paragraph (1A), information or evidence in connection with payment of benefit in the event that an existing award is converted into an award of an employment and support allowance.
 
 ## SCHEDULE 2 — Modification of enactments: after the conversion phase
@@ -744,11 +744,11 @@ Regulation 16(1)
 
 #### PART 1 — MODIFICATION OF PART 1 OF THE 2007 ACT
 
-**1.**[^key-97bf4b083c173b3cc30af53f35101380] Any reference to a claimant is to be read as if it were a reference to a person in relation to whom a conversion decision has been made under these Regulations.
+**1.**[^c-97bf4b083c173b3cc30af53f35101380] Any reference to a claimant is to be read as if it were a reference to a person in relation to whom a conversion decision has been made under these Regulations.
 
 **2.** Section 1 (employment and support allowance) is to be read as if—
 
-- (a)[^key-d01351b497d1159aa59c656d3eccb982] for subsection (2), there were substituted—
+- (a)[^c-d01351b497d1159aa59c656d3eccb982] for subsection (2), there were substituted—
 
   > (2) Subject to the provisions of this Part, a person is entitled to an employment and support allowance if the person satisfies the basic conditions and—
   >
@@ -770,7 +770,7 @@ Regulation 16(1)
 
   .
 
-**2A.**[^key-8eae22387faf704c08b137d95ef80381] (1) In relation to awards of an employment and support allowance to persons previously entitled to existing awards, the application of section 1A (duration of contributory allowance) is modified in accordance with sub-paragraph (2).
+**2A.**[^c-8eae22387faf704c08b137d95ef80381] (1) In relation to awards of an employment and support allowance to persons previously entitled to existing awards, the application of section 1A (duration of contributory allowance) is modified in accordance with sub-paragraph (2).
 
 (2) Section 1A is to be read as if there were substituted—
 
@@ -799,7 +799,7 @@ Regulation 16(1)
 
 **4.** Section 4 (amount of income-related allowance), except for the purposes of applying regulation 147A of the 2008 Regulations as modified by paragraph 15 of this Schedule, is to be read as if, in subsections (4)(a) and (5)(a), references to the assessment phase were to the conversion phase.
 
-**4A.**[^key-61cefdf4c553d1c7d899b3c87b8024b4] Schedule 1 to the 2007 Act (employment and support allowance: additional conditions) is to be read as if, in paragraph 6, after sub-paragraph (1), there were inserted—
+**4A.**[^c-61cefdf4c553d1c7d899b3c87b8024b4] Schedule 1 to the 2007 Act (employment and support allowance: additional conditions) is to be read as if, in paragraph 6, after sub-paragraph (1), there were inserted—
 
 > (1A) Paragraphs (1B) and (1C) apply where any person (“P”) is entitled by virtue of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) ( No. 2) Regulations 2010 (“the 2010 Regulations”) to an employment and support allowance which is attributable to an income-related allowance.
 >
@@ -837,7 +837,7 @@ Regulation 16(1)
 
 .
 
-##### Income Tax (Earnings and Pensions) Act 2003[^key-e5b51fb2824ec9ab76d4a0eb19048907]
+##### Income Tax (Earnings and Pensions) Act 2003[^c-e5b51fb2824ec9ab76d4a0eb19048907]
 
 **6A.** The Income Tax (Earnings and Pensions) Act 2003 is to be read as if—
 
@@ -861,7 +861,7 @@ Regulation 16(1)
 
 **9.** Part 3 (which makes provision about contribution conditions which do not apply by virtue of modifications contained in these Regulations) does not apply.
 
-**10.** Regulation 30 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made) is to be read as if, for paragraph (3), there was substituted—[^key-8e3480f1173d37d249f61e8bf2d8db8d]
+**10.** Regulation 30 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made) is to be read as if, for paragraph (3), there was substituted—[^c-8e3480f1173d37d249f61e8bf2d8db8d]
 
 > (3) Paragraph (2)(b) does not apply where a claimant has made and is pursuing an appeal against a conversion decision that embodies a determination that the claimant does not have limited capability for work and that appeal has not yet been determined by the First-tier Tribunal.”.
 
@@ -871,9 +871,9 @@ Regulation 16(1)
 
 > “**specified work**” means—
 >
-> - (a) work done in accordance with paragraph (4); or[^key-f930a54c897620d7a9a56ae05904877c]
-> - (b) work done in accordance with regulation 17(4)(a) of the Social Security (Incapacity for Work) (General) Regulations 1995 [^c2038906]; [^key-fb3b05d7fac098771be4357890702144]...
-> - (c) [^key-fb3b05d7fac098771be4357890702144]...
+> - (a) work done in accordance with paragraph (4); or[^c-f930a54c897620d7a9a56ae05904877c]
+> - (b) work done in accordance with regulation 17(4)(a) of the Social Security (Incapacity for Work) (General) Regulations 1995 [^c2038906]; [^c-fb3b05d7fac098771be4357890702144]...
+> - (c) [^c-fb3b05d7fac098771be4357890702144]...
 
 .
 
@@ -905,7 +905,7 @@ Regulation 16(1)
 >
 > (1) This regulation applies where a person has made and is pursuing an appeal against a conversion decision which embodies a determination that the person does not have limited capability for work.
 >
-> (1A)[^key-c6225d89aded1ec9404e499738cd2ae6] A person to whom this regulation applies who has made and is pursuing an appeal against a conversion decision in respect of an existing award of incapacity benefit or severe disablement allowance shall be treated as having satisfied the conditions in Part 1 of Schedule 1 to the Act (contributory allowance: conditions relating to national insurance).
+> (1A)[^c-c6225d89aded1ec9404e499738cd2ae6] A person to whom this regulation applies who has made and is pursuing an appeal against a conversion decision in respect of an existing award of incapacity benefit or severe disablement allowance shall be treated as having satisfied the conditions in Part 1 of Schedule 1 to the Act (contributory allowance: conditions relating to national insurance).
 >
 > (2) Subject to paragraph (3), where this regulation applies, a determination of limited capability for work by the Secretary of State under regulation 19 shall not be made until the appeal is determined by the First-tier Tribunal.
 >
@@ -925,16 +925,16 @@ Regulation 16(1)
 >
 > - (a) the claimant is entitled to an employment and support allowance by virtue of being treated as having limited capability for work in accordance with regulation 30;
 > - (b) neither of the circumstances in paragraph (3) applies or, subsequent to the application of either of those circumstances, the claimant has been determined not to have limited capability for work; and
-> - (c) the claimant's appeal is dismissed, withdrawn, struck out or has been discontinued in accordance with the provisions of regulation 33(10) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (notice of appeal),[^key-d4150bb99dd998604795e4f9f2963d30]
+> - (c) the claimant's appeal is dismissed, withdrawn, struck out or has been discontinued in accordance with the provisions of regulation 33(10) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (notice of appeal),[^c-d4150bb99dd998604795e4f9f2963d30]
 >
-> the claimant is to be treated as not having limited capability for work with effect from the day specified in paragraph (5A).[^key-a0174e8e4a6e5c64a1c5c40b78e8fc5e]
+> the claimant is to be treated as not having limited capability for work with effect from the day specified in paragraph (5A).[^c-a0174e8e4a6e5c64a1c5c40b78e8fc5e]
 >
-> (5A)[^key-8f275771fdda56a39f23ef9dafe939f5] The day specified for the purposes of paragraph (5) is the first day of the benefit week following the date on which the Secretary of State either—
+> (5A)[^c-8f275771fdda56a39f23ef9dafe939f5] The day specified for the purposes of paragraph (5) is the first day of the benefit week following the date on which the Secretary of State either—
 >
 > - (a) receives the First-tier Tribunal’s notification that the appeal is dismissed, withdrawn or struck out, or
 > - (b) discontinues action on an appeal in the circumstances to which regulation 33(10) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (notice of appeal) applies.
 >
-> (6) Where a claimant's appeal is successful, any entitlement to which this regulation applies shall terminate from the first day of the benefit week following the date on which the Secretary of State receives the First-tier Tribunal’s notification of that decision[^key-58815bf4d510656073e256b015de3c78].
+> (6) Where a claimant's appeal is successful, any entitlement to which this regulation applies shall terminate from the first day of the benefit week following the date on which the Secretary of State receives the First-tier Tribunal’s notification of that decision[^c-58815bf4d510656073e256b015de3c78].
 
 .
 
@@ -949,22 +949,22 @@ included the amount of any transitional addition to which the person is entitled
 
 ##### Social Security (Claims and Payments) Regulations 1987
 
-**17.** The Social Security (Claims and Payments) Regulations 1987 [^c2038908] are to be read subject to the modifications set out in paragraphs 18 to 22[^key-eb802c08458e2749e579fe5387d668c5] of this Schedule.
+**17.** The Social Security (Claims and Payments) Regulations 1987 [^c2038908] are to be read subject to the modifications set out in paragraphs 18 to 22[^c-eb802c08458e2749e579fe5387d668c5] of this Schedule.
 
 **18.** Regulation 3 (claims not required for entitlement to benefits in certain cases) is to be read as if—
 
 - (a) after the words “was made” in paragraph (j)(ii) [^c2038909], there were inserted—
 
-  > [^key-2ae1396bf2daee98e4cd41d7773654b7]...
+  > [^c-2ae1396bf2daee98e4cd41d7773654b7]...
   >
-  > - (k)[^key-7238ca0970185c42beaba27257122c51] the beneficiary–
+  > - (k)[^c-7238ca0970185c42beaba27257122c51] the beneficiary–
   >   - (i) has made and is pursuing an appeal against a conversion decision made by virtue of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) ( No. 2) Regulations 2010 which embodies a determination that the beneficiary does not have limited capability for work; or
   >   - (ii) was entitled to an employment and support allowance by virtue of the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) ( No. 2) Regulations 2010 and has made and is pursuing an appeal against a later decision which embodies a determination that the beneficiary does not have limited capability for work;
 
   ; and
-- (b) after paragraph (k)[^key-8267984b83ff63631d187afac121b81a], there were added—
+- (b) after paragraph (k)[^c-8267984b83ff63631d187afac121b81a], there were added—
 
-  > - (l)[^key-ffd04e1cb691036d9e8bbb634bb646cb] in the case of an employment and support allowance where the beneficiary is entitled to an existing award which is subject to conversion under the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010.
+  > - (l)[^c-ffd04e1cb691036d9e8bbb634bb646cb] in the case of an employment and support allowance where the beneficiary is entitled to an existing award which is subject to conversion under the Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010.
 
   .
 
@@ -1009,7 +1009,7 @@ included the amount of any transitional addition to which the person is entitled
     >   - (i) paragraph (1)(a), (b) and (d) of regulation 67 (prescribed amounts); or
     >   - (ii) paragraph (1)(a), (b), (c) and (e) of regulation 68 (polygamous marriages),
     >
-    >   of the Employment and Support Allowance Regulations (as modified by paragraphs 12 and 13[^key-40765c5fbd68b64caa4174b6d42b660e] of Schedule 2 to the 2010 Regulations); and
+    >   of the Employment and Support Allowance Regulations (as modified by paragraphs 12 and 13[^c-40765c5fbd68b64caa4174b6d42b660e] of Schedule 2 to the 2010 Regulations); and
     > - (b) in any other case, paragraph (1)(a) and (b) of regulation 67 or paragraph (1)(a) to (c) of regulation 68 of the Employment and Support Allowance Regulations.
 
     .
@@ -1030,7 +1030,7 @@ included the amount of any transitional addition to which the person is entitled
 
   .
 
-##### Community Charges (Deductions from Income Support) (Scotland) Regulations 1989[^key-69c94c03c312a424b521f64d50c54f66]
+##### Community Charges (Deductions from Income Support) (Scotland) Regulations 1989[^c-69c94c03c312a424b521f64d50c54f66]
 
 **22A.** Regulation 1 of the Community Charges (Deductions from Income Support) (Scotland) Regulations 1989 (citation, commencement and interpretation) is to be read as if, after paragraph (2), there were inserted—
 
@@ -1090,7 +1090,7 @@ included the amount of any transitional addition to which the person is entitled
 
 .
 
-##### Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-48356e9c3618369541c9b01d48cbe7da]
+##### Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-48356e9c3618369541c9b01d48cbe7da]
 
 **25A.** (1) Regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (revision of decisions) is to be read as if—
 
@@ -1113,7 +1113,7 @@ included the amount of any transitional addition to which the person is entitled
 
   .
 
-##### Social Security (Habitual Residence) Amendment Regulations 2004[^key-81be65ce3567d0da12ca072cb5a89dc1]
+##### Social Security (Habitual Residence) Amendment Regulations 2004[^c-81be65ce3567d0da12ca072cb5a89dc1]
 
 **27.** Regulation 6 of the Social Security (Habitual Residence) Amendment Regulations 2004 (transitional arrangements and savings) is to be read as if—
 
@@ -1161,7 +1161,7 @@ The regulations referred to in regulation 16(2)(e)(iii) are—
 - The Council Tax (Deductions from Income Support) Regulations 1993 [^c2038934]
 - The Jobseeker's Allowance Regulations 1996 [^c2038935]
 - The Social Security Benefits (Maintenance Payments and Consequential Amendments) Regulations 1996 [^c2038936]
-- The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations 1996[^key-36b9c2c1706d5c2eb861385f5ccfa2cb]
+- The Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations 1996[^c-36b9c2c1706d5c2eb861385f5ccfa2cb]
 - The Child Support Departure Direction and Consequential Amendments Regulations 1996 [^c2038937]
 - The Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c2038938]
 - The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 [^c2038939]
@@ -1174,7 +1174,7 @@ The regulations referred to in regulation 16(2)(e)(iii) are—
 - The Social Security (Loss of Benefit) Regulations 2001 [^c2038946]
 - The State Pension Credit Regulations 2002 [^c2038947]
 - The Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003 [^c2038948]
-- The Social Security (Habitual Residence) Amendment Regulations 2004[^key-26dd90919f6fd4a03d996f41987f5f4a]
+- The Social Security (Habitual Residence) Amendment Regulations 2004[^c-26dd90919f6fd4a03d996f41987f5f4a]
 - The Age-Related Payments Regulations 2005 [^c2038949]
 - The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 [^c2038950]
 
@@ -1184,13 +1184,13 @@ Regulation 26
 
 ### The Social Security (Claims and Payments) Regulations 1987
 
-**1.**[^key-64c54c258825df0ede18197a6acca6b5] In paragraph 8 of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c2038951] (deductions from benefit and direct payments to third parties), in sub-paragraph (4), for paragraph (a)(iv) substitute—
+**1.**[^c-64c54c258825df0ede18197a6acca6b5] In paragraph 8 of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c2038951] (deductions from benefit and direct payments to third parties), in sub-paragraph (4), for paragraph (a)(iv) substitute—
 
 > - (iv) in the case of an employment and support allowance, the applicable amount for the family as is awarded under paragraph (1)(a) and (b) of regulation 67 (prescribed amounts) or paragraph (1)(a) to (c) of regulation 68 (polygamous marriages) of the Employment and Support Allowance Regulations; or
 
 .
 
-### The Jobseeker’s Allowance Regulations 1996[^key-9a3aeefea8b062e81e4a3eac6dfd56b4]
+### The Jobseeker’s Allowance Regulations 1996[^c-9a3aeefea8b062e81e4a3eac6dfd56b4]
 
 **1A.** (1) In regulation 55(4) of the Jobseeker’s Allowance Regulations 1996 (short periods of sickness), for the words after “allowance”, where it appears for the first time, to the end of that paragraph, substitute “or 8 weeks of the person’s entitlement to statutory sick pay.”.
 
@@ -1198,7 +1198,7 @@ Regulation 26
 
 (3) In paragraph 20H of Schedule 1 to those Regulations (additional conditions for higher pensioner and disability premium) omit sub-paragraph (2).
 
-### The Employment and Support Allowance (Transitional Provisions) Regulations 2008[^key-3a1907b7fb3b1d740840751df5299e80]
+### The Employment and Support Allowance (Transitional Provisions) Regulations 2008[^c-3a1907b7fb3b1d740840751df5299e80]
 
 **2.** In regulation 2(3) of the Employment and Support Allowance (Transitional Provisions) Regulations 2008 [^c2038952] (claim for existing award), omit the words “severe disablement allowance,”.
 
@@ -1208,7 +1208,7 @@ Regulation 27
 
 #### PART 1 — AMENDMENT OF THE HOUSING BENEFIT REGULATIONS 2006
 
-**1.**[^key-890bebd28dc3893c168689a9c51ae624] (1) The Housing Benefit Regulations 2006 [^c2038953] are amended as follows.
+**1.**[^c-890bebd28dc3893c168689a9c51ae624] (1) The Housing Benefit Regulations 2006 [^c2038953] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -1558,9 +1558,9 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038862]: Marginal citation: *See* section 176(2)(a) of the Social Security Administration Act 1992.
 
-[^key-5b2676da11d3859b162de19a444b70a9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2010/1907) applied (with modifications) (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 9](https://www.legislation.gov.uk/uksi/2013/983/article/9), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/983/schedule/4) (as amended: (1.7.2013) by S.I. 2013/1511; (29.10.2013) by S.I. 2013/2657; (16.6.2014) by S.I. 2014/1452; (30.6.2014) by S.I. 2014/1661; (28.7.2014) by S.I. 2014/1923; (15.9.2014) by S.I. 2014/2321; (17.11.2014) by S.I. 2014/3067; (21.11.2014) by S.I. 2014/3094; (19.1.2015) by S.I. 2015/32; and (10.3.2015) by S.I. 2015/634)
+[^c-5b2676da11d3859b162de19a444b70a9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2010/1907) applied (with modifications) (24.4.2013) by [The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 (S.I. 2013/983)](https://www.legislation.gov.uk/uksi/2013/983), [art. 9](https://www.legislation.gov.uk/uksi/2013/983/article/9), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/983/schedule/4) (as amended: (1.7.2013) by S.I. 2013/1511; (29.10.2013) by S.I. 2013/2657; (16.6.2014) by S.I. 2014/1452; (30.6.2014) by S.I. 2014/1661; (28.7.2014) by S.I. 2014/1923; (15.9.2014) by S.I. 2014/2321; (17.11.2014) by S.I. 2014/3067; (21.11.2014) by S.I. 2014/3094; (19.1.2015) by S.I. 2015/32; and (10.3.2015) by S.I. 2015/634)
 
-[^key-ab20d0c012cc4beffeb515311c2dd7a8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2010/2430/regulation/2)
+[^c-ab20d0c012cc4beffeb515311c2dd7a8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2010/2430/regulation/2)
 
 [^c2038863]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
@@ -1584,11 +1584,11 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038873]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” in section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1e37659f8046e248e8beba17569a2ee0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/2430/regulation/3)
+[^c-1e37659f8046e248e8beba17569a2ee0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/2430/regulation/3)
 
 [^c2038875]: Marginal citation: [S.I. 2009/609](https://www.legislation.gov.uk/uksi/2009/609).
 
-[^key-ad794835cb2103f6c95c9e9ac2072efb]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/1/b) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/2)
+[^c-ad794835cb2103f6c95c9e9ac2072efb]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/1/b) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/2)
 
 [^c2038876]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 32(1) and (1A) were substituted by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050).
 
@@ -1596,29 +1596,29 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038878]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
-[^key-69527e0fde90f8217f8033d1b0c92957]: Textual amendment: Reg. 7(1): reg. 7 renumbered as reg. 7(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/2)
+[^c-69527e0fde90f8217f8033d1b0c92957]: Textual amendment: Reg. 7(1): reg. 7 renumbered as reg. 7(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/2)
 
-[^key-1e5e1df0345eeb01e164caa9dd60d31e]: Textual amendment: Words in reg. 7 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/3)
+[^c-1e5e1df0345eeb01e164caa9dd60d31e]: Textual amendment: Words in reg. 7 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/3)
 
-[^key-fe31c3606a4dc87ab1717cd7a582c00a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/7/1) substituted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/2/a)
+[^c-fe31c3606a4dc87ab1717cd7a582c00a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/7/1) substituted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/2/a)
 
-[^key-6dfc76952badef26fb7acd2bea0acb80]: Textual amendment: Word in reg. 7 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/4)
+[^c-6dfc76952badef26fb7acd2bea0acb80]: Textual amendment: Word in reg. 7 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/4)
 
-[^key-e3bbf00ce06c333f614eea9ee165ce97]: Textual amendment: Words in reg. 7 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/5)
+[^c-e3bbf00ce06c333f614eea9ee165ce97]: Textual amendment: Words in reg. 7 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/5)
 
-[^key-557baa947b6eeaaf9ee83bbefc2aa760]: Textual amendment: Word in reg. 7 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/6)
+[^c-557baa947b6eeaaf9ee83bbefc2aa760]: Textual amendment: Word in reg. 7 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/6)
 
-[^key-f1f90389ea3bdc37b32a03f3a9aa0b3d]: Textual amendment: Reg. 7(2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/7)
+[^c-f1f90389ea3bdc37b32a03f3a9aa0b3d]: Textual amendment: Reg. 7(2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/4/7)
 
-[^key-27ae31b33161fd8a7ddce8825e00a60c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/7/3) added (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/2/b)
+[^c-27ae31b33161fd8a7ddce8825e00a60c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/7/3) added (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/2/b)
 
-[^key-7eb0e2211005c2cb1c10982fb670f862]: Textual amendment: Reg. 8(1): reg. 8 renumbered as reg. 8(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/2)
+[^c-7eb0e2211005c2cb1c10982fb670f862]: Textual amendment: Reg. 8(1): reg. 8 renumbered as reg. 8(1) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/2)
 
-[^key-cffb56690c5edcc33387e3aef4618bcc]: Textual amendment: Reg. 8(1) modified at Step 2 sub-para (a)(b) renumbered from (c)(d)(1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/3)
+[^c-cffb56690c5edcc33387e3aef4618bcc]: Textual amendment: Reg. 8(1) modified at Step 2 sub-para (a)(b) renumbered from (c)(d)(1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/3)
 
-[^key-982261b58db8b470536e283df9f0209f]: Textual amendment: Reg. 8(2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/4)
+[^c-982261b58db8b470536e283df9f0209f]: Textual amendment: Reg. 8(2) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/5/4)
 
-[^key-8b74060ab39597dd40bd39d3c7b137b5]: Textual amendment: [Reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/5/a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/2/a)
+[^c-8b74060ab39597dd40bd39d3c7b137b5]: Textual amendment: [Reg. 10(5)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/5/a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/2/a)
 
 [^c2038879]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). “Contributions and Benefits Act” is defined in section 65 of the Welfare Reform Act 2007. Section 30B was inserted by section 2(1) of the [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18) and is to be repealed by paragraph 9(5) of Schedule 3 to the Welfare Reform Act 2007.
 
@@ -1626,11 +1626,11 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038881]: Marginal citation: [S.I. 1995/310](https://www.legislation.gov.uk/uksi/1995/310).
 
-[^key-575cf8b0fdf876785206ac9e456b7be6]: Textual amendment: Words in [reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/5/b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/2/b)
+[^c-575cf8b0fdf876785206ac9e456b7be6]: Textual amendment: Words in [reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/5/b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/2/b)
 
 [^c2038882]: Marginal citation: [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958) (C. 89).
 
-[^key-e6138de6e4f6a5775c375edf14c238bc]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/6) - [Reg. 10(7)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/7) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/3)
+[^c-e6138de6e4f6a5775c375edf14c238bc]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/6) - [Reg. 10(7)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/10/7) added (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/6/3)
 
 [^c2038883]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 17 was amended by [S.I. 1988/910](https://www.legislation.gov.uk/uksi/1988/910) and 1445, 1989/1678, 1991/387, 1992/3147, 1996/206, 2003/455 and 1121, 2005/2687 and 2006/588. Regulation 18 was amended by [S.I. 1988/1228](https://www.legislation.gov.uk/uksi/1988/1228) and 1445, 1989/1034, 1992/3147, 1996/206, 2001/3767, 2003/455 and 1121 and 2006/588.
 
@@ -1638,79 +1638,79 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038885]: Marginal citation: [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455).
 
-[^key-d6744d4db624463ca75a238b2074cb18]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/2)
+[^c-d6744d4db624463ca75a238b2074cb18]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/2)
 
-[^key-d6b69b0de24c79d3e87683b26024b4b4]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/2A) - [Reg. 14(2B)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/3)
+[^c-d6b69b0de24c79d3e87683b26024b4b4]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/2A) - [Reg. 14(2B)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/14/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/3)
 
-[^key-854d4e0d14b7ab4d07759b56246f5f56]: Textual amendment: Reg. 14(3)(7) substituted for reg. 14(3)(4) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/4)
+[^c-854d4e0d14b7ab4d07759b56246f5f56]: Textual amendment: Reg. 14(3)(7) substituted for reg. 14(3)(4) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/7/4)
 
-[^key-adab9d9239050bbd7b1615fc97f6cbb0]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/2)
+[^c-adab9d9239050bbd7b1615fc97f6cbb0]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/1) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/2)
 
-[^key-0c37d3546177882bf2466ea20f8c4197]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/2A) - [Reg. 15(2B)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/3)
+[^c-0c37d3546177882bf2466ea20f8c4197]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/2A) - [Reg. 15(2B)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/2B) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/3)
 
-[^key-1a30c5b948cee263b74b3fe7586848a7]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/4)
+[^c-1a30c5b948cee263b74b3fe7586848a7]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/15/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/4)
 
 [^c2038886]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556). Regulation 8B was inserted by SI 1996/2367 and amended by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
 
-[^key-89e7b77ad2e25ccf31bd4a67b728a7d0]: Textual amendment: Reg. 15(6)(7) substituted for reg. 15(6) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/5)
+[^c-89e7b77ad2e25ccf31bd4a67b728a7d0]: Textual amendment: Reg. 15(6)(7) substituted for reg. 15(6) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/8/5)
 
-[^key-70edfc5aef2b397c8d118e6bb38d166b]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/1A) inserted (1.5.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2012/757/regulation/21)
+[^c-70edfc5aef2b397c8d118e6bb38d166b]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/1A) inserted (1.5.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2012/757/regulation/21)
 
 [^c2038887]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
 [^c2038888]: Marginal citation: [1997 c. 27](https://www.legislation.gov.uk/ukpga/1997/27).
 
-[^key-2eafc861a9f2151572ba4292d744a14e]: Textual amendment: Words in reg. 17 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/a)
+[^c-2eafc861a9f2151572ba4292d744a14e]: Textual amendment: Words in reg. 17 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/a)
 
-[^key-e650854f4a61ca14776c476a06b54614]: Textual amendment: Reg. 17(a)(c) substituted for reg. 17(a) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/b)
+[^c-e650854f4a61ca14776c476a06b54614]: Textual amendment: Reg. 17(a)(c) substituted for reg. 17(a) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/b)
 
-[^key-0371a755c97405b4d5f5a68083fc2288]: Textual amendment: Reg. 17(d)(g): reg. 17(b)-(e) renumbered as reg. 17(d)-(g) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/c)
+[^c-0371a755c97405b4d5f5a68083fc2288]: Textual amendment: Reg. 17(d)(g): reg. 17(b)-(e) renumbered as reg. 17(d)-(g) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/9/c)
 
-[^key-3ab7346597b0501cf17d77ea9579c8c3]: Textual amendment: Words in [reg. 17(f)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/17/f) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/3)
+[^c-3ab7346597b0501cf17d77ea9579c8c3]: Textual amendment: Words in [reg. 17(f)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/17/f) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/3)
 
-[^key-626284168b2bfb9d55ab2d5e4a842368]: Textual amendment: Words in [reg. 17(g)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/17/g) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/3)
+[^c-626284168b2bfb9d55ab2d5e4a842368]: Textual amendment: Words in [reg. 17(g)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/17/g) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/3)
 
 [^c2038889]: Marginal citation: The reference to regulation 67(2)(a) of the 2008 Regulations is to that regulation as modified by paragraph 52(b) of Schedule 2 to these Regulations.
 
-[^key-b89b38021f91d37d5e1f36404f667d57]: Textual amendment: [Reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/19/1/a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/10/2)
+[^c-b89b38021f91d37d5e1f36404f667d57]: Textual amendment: [Reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/19/1/a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/10/2)
 
 [^c2038890]: Marginal citation: [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938).
 
-[^key-82e57611ea2c4214b9c70db3e73d7e45]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/19/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/10/3)
+[^c-82e57611ea2c4214b9c70db3e73d7e45]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/19/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/10/3)
 
 [^c2038891]: Marginal citation: Section 86A was inserted by section 2(5) of the Social Security (Incapacity for Work) Act 1994.
 
 [^c2038892]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 
-[^key-11579a133a7b31c701d31a62a76ad3bc]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/20/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/2430/regulation/11)
+[^c-11579a133a7b31c701d31a62a76ad3bc]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/20/3) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/2430/regulation/11)
 
-[^key-59c591c39f250f13af61eec3384eb652]: Textual amendment: Word in [reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/a) inserted (27.2.2020) by [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/a)
+[^c-59c591c39f250f13af61eec3384eb652]: Textual amendment: Word in [reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/a) inserted (27.2.2020) by [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/a)
 
-[^key-722908b9233f9aae77a2cb75a56a8409]: Textual amendment: Words in reg. 21(1)(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/2/a)
+[^c-722908b9233f9aae77a2cb75a56a8409]: Textual amendment: Words in reg. 21(1)(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/2/a)
 
-[^key-87966b543031b7943cd6d423fa4cd75f]: Textual amendment: Words in reg. 21(1)(b) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/a)
+[^c-87966b543031b7943cd6d423fa4cd75f]: Textual amendment: Words in reg. 21(1)(b) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/a)
 
-[^key-4991f70f6a86f492661a91d983e82b9f]: Textual amendment: Words in reg. 21(1)(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/2/b)
+[^c-4991f70f6a86f492661a91d983e82b9f]: Textual amendment: Words in reg. 21(1)(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/2/b)
 
-[^key-0e8072d2e35d259072f2f4435dcb4304]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/b) omitted (27.2.2020) by virtue of [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/b)
+[^c-0e8072d2e35d259072f2f4435dcb4304]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/b) omitted (27.2.2020) by virtue of [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/b)
 
-[^key-db8201446825c5c209536fdac205ac4d]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/c) omitted (27.2.2020) by virtue of [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/c)
+[^c-db8201446825c5c209536fdac205ac4d]: Textual amendment: [Reg. 21(1)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/21/1/c) omitted (27.2.2020) by virtue of [The Employment and Support Allowance (Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/102)](https://www.legislation.gov.uk/uksi/2020/102), [regs. 1](https://www.legislation.gov.uk/uksi/2020/102/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/102/regulation/2/c)
 
-[^key-ef11c22c7b06a80f23542c65e58b5103]: Textual amendment: Words in reg. 21(2) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/3)
+[^c-ef11c22c7b06a80f23542c65e58b5103]: Textual amendment: Words in reg. 21(2) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/3)
 
-[^key-bf024f9e790bb8049deaa1bd24bbcba4]: Textual amendment: Reg. 21(3) - (7) substituted for reg. 21(3) - (6) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/4)
+[^c-bf024f9e790bb8049deaa1bd24bbcba4]: Textual amendment: Reg. 21(3) - (7) substituted for reg. 21(3) - (6) (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/12/4)
 
-[^key-df821844b7790f640f683f13a44d3975]: Textual amendment: Reg. 21(3A) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/b)
+[^c-df821844b7790f640f683f13a44d3975]: Textual amendment: Reg. 21(3A) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/b)
 
-[^key-7122d0f508db6040fb5ce33fa56a47b5]: Textual amendment: Words in reg. 21(5)(a) omitted (1.5.2012) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/919/regulation/6/a)
+[^c-7122d0f508db6040fb5ce33fa56a47b5]: Textual amendment: Words in reg. 21(5)(a) omitted (1.5.2012) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/919/regulation/6/a)
 
 [^M_F_0e8fa415-70a4-4c5e-8fcb-425474172395]: Textual amendment: Reg. 21(5)(c) substituted (1.5.2012) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2012/919/regulation/6/b)
 
-[^key-dd363b32e930570093d4e0b009342b6f]: Textual amendment: Reg. 21(5A) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/c)
+[^c-dd363b32e930570093d4e0b009342b6f]: Textual amendment: Reg. 21(5A) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(c)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/c)
 
-[^key-2bfcd97e25932b062e5bbbf21ccd4f0b]: Textual amendment: Words in reg. 21(7) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(d)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/d)
+[^c-2bfcd97e25932b062e5bbbf21ccd4f0b]: Textual amendment: Words in reg. 21(7) inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(3)(d)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/3/d)
 
-[^key-b66406137e9b10a71c9595ebe87293f3]: Textual amendment: Word in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/a) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2010/2430/regulation/13)
+[^c-b66406137e9b10a71c9595ebe87293f3]: Textual amendment: Word in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/a) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2010/2430/regulation/13)
 
 [^c2038893]: Marginal citation: Section 30A was inserted by section 1(1) of the Social Security (Incapacity for Work) Act 1994 and is to be repealed by paragraph 9(5) of the Welfare Reform Act 2007. Section 40 was substituted, and section 41 inserted, by paragraphs 8 and 9 of Schedule 1 to the Social Security (Incapacity for Work) Act 1994 and are to be repealed by Schedule 8 to the Welfare Reform Act 2007.
 
@@ -1724,13 +1724,13 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038898]: Marginal citation: [S.I. 2008/795](https://www.legislation.gov.uk/uksi/2008/795).
 
-[^key-9ebef7e4583a823b3dfc9f4ec041c522]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2010/1907/regulation/23A) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2010/2430/regulation/14)
+[^c-9ebef7e4583a823b3dfc9f4ec041c522]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2010/1907/regulation/23A) inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2010/2430/regulation/14)
 
-[^key-4da30f8e250572b7e56890a08f7b922c]: Textual amendment: Sch. 1 paras. 1-13: Sch. 1 para. 28-40 renumbered as Sch. 1 para. 1-13 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/a)
+[^c-4da30f8e250572b7e56890a08f7b922c]: Textual amendment: Sch. 1 paras. 1-13: Sch. 1 para. 28-40 renumbered as Sch. 1 para. 1-13 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/a)
 
-[^key-87f9436e056507c06daa7b2ca615ef2c]: Textual amendment: Sch. 1 para. 2 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/2) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-87f9436e056507c06daa7b2ca615ef2c]: Textual amendment: Sch. 1 para. 2 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/2) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
-[^key-c68c5d34e096b514222e0fc205520a4c]: Textual amendment: Sch. 1 para. 10A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/3) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-c68c5d34e096b514222e0fc205520a4c]: Textual amendment: Sch. 1 para. 10A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/3) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
 [^c2038899]: Marginal citation: Section 30DD was inserted by section 63 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by [S.I. 2006/343](https://www.legislation.gov.uk/uksi/2006/343).
 
@@ -1740,15 +1740,15 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038902]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 32(1) and (1A) were inserted by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050).
 
-[^key-a0ef52d326603ae31d9ea071e34abe97]: Textual amendment: Words in Sch. 1 para. 13(a) omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/4) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-a0ef52d326603ae31d9ea071e34abe97]: Textual amendment: Words in Sch. 1 para. 13(a) omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/16/4) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
-[^key-97bf4b083c173b3cc30af53f35101380]: Textual amendment: Sch. 2 paras. 1-26: Sch. 2 para. 41-66 renumbered as Sch. 2 para. 1-26 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/b)
+[^c-97bf4b083c173b3cc30af53f35101380]: Textual amendment: Sch. 2 paras. 1-26: Sch. 2 para. 41-66 renumbered as Sch. 2 para. 1-26 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/b)
 
-[^key-d01351b497d1159aa59c656d3eccb982]: Textual amendment: Sch. 2 para. 2(a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/2) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-d01351b497d1159aa59c656d3eccb982]: Textual amendment: Sch. 2 para. 2(a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/2) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
-[^key-8eae22387faf704c08b137d95ef80381]: Textual amendment: Sch. 2 para. 2A inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/4)
+[^c-8eae22387faf704c08b137d95ef80381]: Textual amendment: Sch. 2 para. 2A inserted (1.5.2012) by [The Employment and Support Allowance (Duration of Contributory Allowance) (Consequential Amendments) Regulations 2012 (S.I. 2012/913)](https://www.legislation.gov.uk/uksi/2012/913), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/913/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2012/913/regulation/10/4)
 
-[^key-61cefdf4c553d1c7d899b3c87b8024b4]: Textual amendment: Sch. 2 para. 4A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/3) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-61cefdf4c553d1c7d899b3c87b8024b4]: Textual amendment: Sch. 2 para. 4A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/3) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
 [^c2038903]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14). Paragraphs 8A to 8D of Schedule 3 were inserted by paragraph 12 of Schedule 1 to the [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16).
 
@@ -1756,49 +1756,49 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038905]: Marginal citation: [S.I. 2001/1323](https://www.legislation.gov.uk/uksi/2001/1323). Regulation 5A was inserted by [S.I. 2009/2206](https://www.legislation.gov.uk/uksi/2009/2206). The reference to regulation 5A(2)(ba) is to the modification made by paragraph 66 of Schedule 2 to these Regulations.
 
-[^key-e5b51fb2824ec9ab76d4a0eb19048907]: Textual amendment: Sch. 2 para. 6A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/4) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-e5b51fb2824ec9ab76d4a0eb19048907]: Textual amendment: Sch. 2 para. 6A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/4) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
-[^key-8e3480f1173d37d249f61e8bf2d8db8d]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2/paragraph/10) substituted (30.3.2015 with application in accordance with reg. 2) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/437/regulation/7)
+[^c-8e3480f1173d37d249f61e8bf2d8db8d]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2/paragraph/10) substituted (30.3.2015 with application in accordance with reg. 2) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/437/regulation/7)
 
-[^key-f930a54c897620d7a9a56ae05904877c]: Textual amendment: Word in Sch. 2 para. 11 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(5)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/5/a) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-f930a54c897620d7a9a56ae05904877c]: Textual amendment: Word in Sch. 2 para. 11 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(5)(a)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/5/a) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
 [^c2038906]: Marginal citation: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311). Regulation 17(1A) was in force from 8th April 2002 to 9th April 2006. Regulation 17 was substituted by [S.I. 2006/757](https://www.legislation.gov.uk/uksi/2006/757) with effect from 10th April 2006.
 
-[^key-fb3b05d7fac098771be4357890702144]: Textual amendment: Words in Sch. 2 para. 11 omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(5)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/5/b) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
+[^c-fb3b05d7fac098771be4357890702144]: Textual amendment: Words in Sch. 2 para. 11 omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(5)(b)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/5/b) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/2))
 
 [^c2038907]: Marginal citation: Regulation 147A was inserted by [S.I. 2010/840](https://www.legislation.gov.uk/uksi/2010/840), [regulation 9(15)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/15).
 
-[^key-c6225d89aded1ec9404e499738cd2ae6]: Textual amendment: Words in Sch. 2 para. 15 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(7)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/7)
+[^c-c6225d89aded1ec9404e499738cd2ae6]: Textual amendment: Words in Sch. 2 para. 15 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(7)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/7)
 
-[^key-d4150bb99dd998604795e4f9f2963d30]: Textual amendment: Words in Sch. 2 para. 15(5)(c) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/i/aa)
+[^c-d4150bb99dd998604795e4f9f2963d30]: Textual amendment: Words in Sch. 2 para. 15(5)(c) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/i/aa)
 
-[^key-a0174e8e4a6e5c64a1c5c40b78e8fc5e]: Textual amendment: Words in Sch. 2 para. 15(5) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/i/bb)
+[^c-a0174e8e4a6e5c64a1c5c40b78e8fc5e]: Textual amendment: Words in Sch. 2 para. 15(5) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/i/bb)
 
-[^key-8f275771fdda56a39f23ef9dafe939f5]: Textual amendment: Words in Sch. 2 para. 15 inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/ii)
+[^c-8f275771fdda56a39f23ef9dafe939f5]: Textual amendment: Words in Sch. 2 para. 15 inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/ii)
 
-[^key-58815bf4d510656073e256b015de3c78]: Textual amendment: Words in Sch. 2 para. 15 substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/iii)
+[^c-58815bf4d510656073e256b015de3c78]: Textual amendment: Words in Sch. 2 para. 15 substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/a/iii)
 
 [^c2038908]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 3(j) was inserted by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554). Regulation 32(1B) was inserted by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050) and amended by [S.I. 2003/3209](https://www.legislation.gov.uk/uksi/2003/3209). Paragraphs 1(3) and 8(4)(a)(iv) of Schedule 9 were inserted by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
 
-[^key-eb802c08458e2749e579fe5387d668c5]: Textual amendment: Words in Sch. 2 para. 17 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(8)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/8)
+[^c-eb802c08458e2749e579fe5387d668c5]: Textual amendment: Words in Sch. 2 para. 17 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(8)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/8)
 
 [^c2038909]: Marginal citation: Paragraph (j) was substituted by regulation 2 of [S.I. 2010/840](https://www.legislation.gov.uk/uksi/2010/840).
 
-[^key-2ae1396bf2daee98e4cd41d7773654b7]: Textual amendment: Word in Sch. 2 para. 18(a) omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/a/i)
+[^c-2ae1396bf2daee98e4cd41d7773654b7]: Textual amendment: Word in Sch. 2 para. 18(a) omitted (1.11.2010) by virtue of [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/a/i)
 
-[^key-7238ca0970185c42beaba27257122c51]: Textual amendment: Words in Sch. 2 para. 18(a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/a/ii)
+[^c-7238ca0970185c42beaba27257122c51]: Textual amendment: Words in Sch. 2 para. 18(a) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/a/ii)
 
-[^key-8267984b83ff63631d187afac121b81a]: Textual amendment: Word in Sch. 2 para. 18(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/b/i)
+[^c-8267984b83ff63631d187afac121b81a]: Textual amendment: Word in Sch. 2 para. 18(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/b/i)
 
-[^key-ffd04e1cb691036d9e8bbb634bb646cb]: Textual amendment: Word in Sch. 2 para. 18(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/b/ii)
+[^c-ffd04e1cb691036d9e8bbb634bb646cb]: Textual amendment: Word in Sch. 2 para. 18(b) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/9/b/ii)
 
 [^c2038910]: Marginal citation: Regulation 26C was inserted by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [regulation 21](https://www.legislation.gov.uk/uksi/2008/1554/regulation/21).
 
-[^key-40765c5fbd68b64caa4174b6d42b660e]: Textual amendment: Words in Sch. 2 para. 21(b)(ii) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(10)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/10)
+[^c-40765c5fbd68b64caa4174b6d42b660e]: Textual amendment: Words in Sch. 2 para. 21(b)(ii) substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(10)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/10)
 
 [^c2038911]: Marginal citation: Schedule 9B was inserted by [S.I. 2001/18](https://www.legislation.gov.uk/uksi/2001/18), [regulation 2](https://www.legislation.gov.uk/uksi/2001/18/regulation/2). It has been amended but not in a way material to these Regulations.
 
-[^key-69c94c03c312a424b521f64d50c54f66]: Textual amendment: Sch. 2 para. 22A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(11)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/11)
+[^c-69c94c03c312a424b521f64d50c54f66]: Textual amendment: Sch. 2 para. 22A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(11)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/11)
 
 [^c2038912]: Marginal citation: [S.I. 1990/545](https://www.legislation.gov.uk/uksi/1990/545). These Regulations lapsed on the repeal of the enabling authority, as from 1st April 1993, except in relation to any community charge in respect of a day falling before that date or in relation to any financial year beginning before that date.
 
@@ -1806,11 +1806,11 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038914]: Marginal citation: [S.I. 1993/494](https://www.legislation.gov.uk/uksi/1993/494). [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554) added an employment and support allowance to the benefits from which deductions may be made, inserted definitions of “contributory employment and support allowance”, “income related employment and support allowance” and made other relevant amendments.
 
-[^key-48356e9c3618369541c9b01d48cbe7da]: Textual amendment: Sch. 2 para. 25A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(12)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/12)
+[^c-48356e9c3618369541c9b01d48cbe7da]: Textual amendment: Sch. 2 para. 25A inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [17(12)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17/12)
 
 [^c2038915]: Marginal citation: [S.I. 2001/1323](https://www.legislation.gov.uk/uksi/2001/1323). Regulation 5A was inserted by [S.I. 2009/2206](https://www.legislation.gov.uk/uksi/2009/2206).
 
-[^key-81be65ce3567d0da12ca072cb5a89dc1]: Textual amendment: Sch. 2 para. 27 inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/b)
+[^c-81be65ce3567d0da12ca072cb5a89dc1]: Textual amendment: Sch. 2 para. 27 inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(4)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/4/b)
 
 [^c2038916]: Marginal citation: [S.I. 1974/2010](https://www.legislation.gov.uk/uksi/1974/2010).
 
@@ -1854,7 +1854,7 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038936]: Marginal citation: [S.I. 1996/940](https://www.legislation.gov.uk/uksi/1996/940).
 
-[^key-36b9c2c1706d5c2eb861385f5ccfa2cb]: Textual amendment: Words in Sch. 3 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/18/2)
+[^c-36b9c2c1706d5c2eb861385f5ccfa2cb]: Textual amendment: Words in Sch. 3 inserted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/18/2)
 
 [^c2038937]: Marginal citation: [S.I. 1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
 
@@ -1880,23 +1880,23 @@ Copies of this impact assessment are available in the libraries of both Houses o
 
 [^c2038948]: Marginal citation: [S.I. 2003/1886](https://www.legislation.gov.uk/uksi/2003/1886).
 
-[^key-26dd90919f6fd4a03d996f41987f5f4a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1907/schedule/3) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/5)
+[^c-26dd90919f6fd4a03d996f41987f5f4a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1907/schedule/3) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/27/5)
 
 [^c2038949]: Marginal citation: [S.I. 2005/1983](https://www.legislation.gov.uk/uksi/2005/1983).
 
 [^c2038950]: Marginal citation: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061).
 
-[^key-64c54c258825df0ede18197a6acca6b5]: Textual amendment: Sch. 4 para. 1 2: Sch. 4 para. 67 68 renumbered as Sch. 4 para. 1 2 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(c)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/c)
+[^c-64c54c258825df0ede18197a6acca6b5]: Textual amendment: Sch. 4 para. 1 2: Sch. 4 para. 67 68 renumbered as Sch. 4 para. 1 2 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(c)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/c)
 
 [^c2038951]: Marginal citation: Paragraph 8(4)(a)(iv) of Schedule 9 was inserted by [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554).
 
-[^key-9a3aeefea8b062e81e4a3eac6dfd56b4]: Textual amendment: Sch. 4 para. 1A inserted (31.1.2011) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/19/2)
+[^c-9a3aeefea8b062e81e4a3eac6dfd56b4]: Textual amendment: Sch. 4 para. 1A inserted (31.1.2011) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/19/2)
 
-[^key-3a1907b7fb3b1d740840751df5299e80]: Textual amendment: Word in Sch. 4 para. 2 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/19/3)
+[^c-3a1907b7fb3b1d740840751df5299e80]: Textual amendment: Word in Sch. 4 para. 2 substituted (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/19/3)
 
 [^c2038952]: Marginal citation: [S.I. 2008/795](https://www.legislation.gov.uk/uksi/2008/795). Regulation 2(2) was amended by [S.I. 2008/2783](https://www.legislation.gov.uk/uksi/2008/2783).
 
-[^key-890bebd28dc3893c168689a9c51ae624]: Textual amendment: Sch. 5 paras. 1-3: Sch. 5 para. 69-71 renumbered as Sch. 5 para. 1-3 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(d)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/d)
+[^c-890bebd28dc3893c168689a9c51ae624]: Textual amendment: Sch. 5 paras. 1-3: Sch. 5 para. 69-71 renumbered as Sch. 5 para. 1-3 (1.11.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) (Amendment) Regulations 2010 (S.I. 2010/2430)](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/1/2), [15(1)(d)](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15/1/d)
 
 [^c2038953]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Regulations 2, 21 and 22 were amended, and Parts 5 and 6 of Schedule 3 inserted, by [S.I. 2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) (as amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428)). Paragraph 1A of Schedule 3 was inserted by [S.I. 2009/583](https://www.legislation.gov.uk/uksi/2009/583).
 

@@ -35,12 +35,12 @@ summary: ''
   - (a) in relation to an electricity generation undertaking or an electricity supply undertaking, a licence under Article 10(1)(a) or (c) of the Electricity (Northern Ireland) Order 1992; and
   - (b) in relation to a gas supply undertaking, a licence under Article 8(1)(c);
 - “**majority shareholding**” means a simple majority of shares;
-- “**person from a country outside the United Kingdom[^key-07767d276f8083a648af9409d39bcf4d]** ” means any person the Authority thinks is a person from a country outside the United Kingdom;
+- “**person from a country outside the United Kingdom[^c-07767d276f8083a648af9409d39bcf4d]** ” means any person the Authority thinks is a person from a country outside the United Kingdom;
 - “**qualification measures**” in relation to an applicant for certification, means measures taken or arrangements made to ensure that the certification ground to which his application relates applies in his case;
 - “**related conveyance licensee**” means, in relation to an applicant for certification or a certified person, any other person (including a person nominated or designated as independent system operator for the purposes of the second certification ground) who—
   - (a) holds; or
   - (b) in the case of an applicant for certification would, pursuant to any qualification measures proposed in the application, hold, a licence under Article 8(1)(a) under which that person co-ordinates, and directs, the flow of gas into and through a gas transmission pipe-line of the applicant or certified person;
-- “[^c22559841]**review period**” in relation to a review under Article 8I means the period specified in paragraph (5) [^key-3723ea09da021296dd36ab49a88d3608]... of that Article as extended, if appropriate, by—
+- “[^c22559841]**review period**” in relation to a review under Article 8I means the period specified in paragraph (5) [^c-3723ea09da021296dd36ab49a88d3608]... of that Article as extended, if appropriate, by—
   - (a) any period of suspension under paragraph (8) of that Article, or
   - (b) the 4 months mentioned in paragraph (12A) of that Article;
 - “**senior officer**” means—
@@ -50,14 +50,14 @@ summary: ''
 - “**shareholder right**”, in relation to a company, means a right conferred by the holding of a share in the company's share capital—
   - (a) to vote at general meetings of the company; or
   - (b) to appoint or remove a member of the company's board of directors;
-- [^key-f9b3eeffa5b5f30526053bdc95c7b306]...
+- [^c-f9b3eeffa5b5f30526053bdc95c7b306]...
 
 (2) In Articles 8B to 8K and this Article, “**relevant producer or supplier**”, in relation to an applicant for certification or a certified person, means—
 
 - (a) an electricity generation undertaking, an electricity supply undertaking or a gas supply undertaking which meets the requirements of paragraph (3); or
 - (b) a gas producer which meets the requirements of paragraph (4).
 
-(3) An undertaking mentioned in paragraph (2)(a) meets the requirements of this paragraph if it carries out its generation or supply activity in a country outside the United Kingdom[^key-b675be8cd8f94da772e006190bef2d16] and it—
+(3) An undertaking mentioned in paragraph (2)(a) meets the requirements of this paragraph if it carries out its generation or supply activity in a country outside the United Kingdom[^c-b675be8cd8f94da772e006190bef2d16] and it—
 
 - (a) requires a licence or similar authority to do so;
 - (b) would, in the Authority's opinion, require a licence to do so if it carried out the activity in Northern Ireland; or
@@ -65,21 +65,21 @@ summary: ''
 
 (4) A gas producer meets the requirements of this paragraph if it—
 
-- (a) carries out its production activity in a country outside the United Kingdom[^key-7d078e72114178e611cee2bb51854893]; and
+- (a) carries out its production activity in a country outside the United Kingdom[^c-7d078e72114178e611cee2bb51854893]; and
 - (b) has a relationship with the applicant or certified person which the Authority thinks might lead the applicant or certified person to discriminate in favour of it.
 
 ## Annotations
 
 [^c21259511]: Textual amendment: [Arts. 8B-8L](https://www.legislation.gov.uk/nisi/1996/275/article/8B) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 12](https://www.legislation.gov.uk/nisr/2011/155/regulation/12)
 
-[^key-07767d276f8083a648af9409d39bcf4d]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07767d276f8083a648af9409d39bcf4d]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22559841]: Textual amendment: [Art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1): definition of "review period" substituted (5.6.2015) by [Electricity and Gas (Ownership Unbundling) Regulations (Northern Ireland) 2015 (S.R. 2015/249)](https://www.legislation.gov.uk/nisr/2015/249), [reg. 4(5)](https://www.legislation.gov.uk/nisr/2015/249/regulation/4/5) (with [reg. 5(1)](https://www.legislation.gov.uk/nisr/2015/249/regulation/5/1))
 
-[^key-3723ea09da021296dd36ab49a88d3608]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3723ea09da021296dd36ab49a88d3608]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9b3eeffa5b5f30526053bdc95c7b306]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(c)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9b3eeffa5b5f30526053bdc95c7b306]: Textual amendment: Words in [art. 8L(1)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/1) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(2)(c)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b675be8cd8f94da772e006190bef2d16]: Textual amendment: Words in [art. 8L(3)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b675be8cd8f94da772e006190bef2d16]: Textual amendment: Words in [art. 8L(3)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d078e72114178e611cee2bb51854893]: Textual amendment: Words in [art. 8L(4)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d078e72114178e611cee2bb51854893]: Textual amendment: Words in [art. 8L(4)](https://www.legislation.gov.uk/nisi/1996/275/article/8L/4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [116(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/116/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

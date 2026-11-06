@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Ministers' grant-making powers[^key-d4060e9a969be543755e8d2406010aec]
+## 25. Ministers' grant-making powers[^c-d4060e9a969be543755e8d2406010aec]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4060e9a969be543755e8d2406010aec]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/17/section/25) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)
+[^c-d4060e9a969be543755e8d2406010aec]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/17/section/25) in force at 15.1.2020 by [S.S.I. 2019/428](https://www.legislation.gov.uk/ssi/2019/428), [reg. 2](https://www.legislation.gov.uk/ssi/2019/428/regulation/2)

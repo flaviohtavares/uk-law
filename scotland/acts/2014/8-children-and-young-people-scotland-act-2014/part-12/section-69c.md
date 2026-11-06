@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69C. Guidance on family group decision-making services[^key-03bc05d2d1ac5accc513911b0fd60098]
+## 69C. Guidance on family group decision-making services[^c-03bc05d2d1ac5accc513911b0fd60098]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03bc05d2d1ac5accc513911b0fd60098]: Textual amendment: [S. 69C](https://www.legislation.gov.uk/asp/2014/8/section/69C) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 16(2)](https://www.legislation.gov.uk/asp/2026/16/section/16/2), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-03bc05d2d1ac5accc513911b0fd60098]: Textual amendment: [S. 69C](https://www.legislation.gov.uk/asp/2014/8/section/69C) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 16(2)](https://www.legislation.gov.uk/asp/2026/16/section/16/2), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

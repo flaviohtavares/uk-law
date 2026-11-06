@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Rent review: repairing tenancies[^key-d3aa1032ba1c58159710112df1b9f1f0]
+## 37. Rent review: repairing tenancies[^c-d3aa1032ba1c58159710112df1b9f1f0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3aa1032ba1c58159710112df1b9f1f0]: Commencement: S. 37 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-d3aa1032ba1c58159710112df1b9f1f0]: Commencement: S. 37 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

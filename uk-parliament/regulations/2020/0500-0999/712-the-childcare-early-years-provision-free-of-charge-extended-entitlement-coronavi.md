@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^key-f3e02bfb44ee5ebabda2df38f730b782]
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (revoked)[^c-f3e02bfb44ee5ebabda2df38f730b782]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 31st July 2020
 
-[^key-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f3e02bfb44ee5ebabda2df38f730b782]
+## 1. Citation and commencement[^c-f3e02bfb44ee5ebabda2df38f730b782]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-f3e02bfb44ee5ebabda2df38f730b782]
+## 2. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-f3e02bfb44ee5ebabda2df38f730b782]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f3e02bfb44ee5ebabda2df38f730b782] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3e02bfb44ee5ebabda2df38f730b782]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3e02bfb44ee5ebabda2df38f730b782]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2020/712) revoked (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/9)
+[^c-f3e02bfb44ee5ebabda2df38f730b782]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2020/712) revoked (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/9)

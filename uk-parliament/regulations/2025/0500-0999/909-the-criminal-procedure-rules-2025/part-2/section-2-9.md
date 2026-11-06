@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.9. Exercise of functions of a District Judge (Magistrates’ Courts) in extradition cases[^key-7f1eb548ad8f02a20477a6a7a63266c1]
+## 2.9. Exercise of functions of a District Judge (Magistrates’ Courts) in extradition cases[^c-7f1eb548ad8f02a20477a6a7a63266c1]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f1eb548ad8f02a20477a6a7a63266c1]: Commencement: [Rule 2.9](https://www.legislation.gov.uk/uksi/2025/909/rule/2.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7f1eb548ad8f02a20477a6a7a63266c1]: Commencement: [Rule 2.9](https://www.legislation.gov.uk/uksi/2025/909/rule/2.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

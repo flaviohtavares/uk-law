@@ -50,35 +50,35 @@ In accordance with section 48(4A)[^f00002] of that Act they have had regard to r
 
 There has been consultation as required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation, commencement and extent[^key-e3e907f5d1a3984acbf2d0bb104b86f6]
+## 1. Citation, commencement and extent[^c-e3e907f5d1a3984acbf2d0bb104b86f6]
 
 (1) These Regulations may be cited as the Nutrition and Health Claims (Scotland) Regulations 2007, and come into force on 1st October 2007.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-894dd27669236cb85d4f922c588eb024]
+## 2. Interpretation[^c-894dd27669236cb85d4f922c588eb024]
 
 (1) In these Regulations–
 
 - “the Act” means the Food Safety Act 1990; and
-- “the Regulation” means Regulation[^key-8c489f5839e43c105ec6745b6207728f] [(EC) No. 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as the Annex to that Regulation may be amended from time to time.
+- “the Regulation” means Regulation[^c-8c489f5839e43c105ec6745b6207728f] [(EC) No. 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as the Annex to that Regulation may be amended from time to time.
 
 (2) Expressions used in these Regulations and in the Regulation have the same meaning in these Regulations as they do in that Regulation.
 
 (3) Any reference to a numbered Article is a reference to the Article so numbered in the Regulation.
 
-## 3. Competent Authorities[^key-f7a8a8c00dc92d49bde73d5d8e59203e]
+## 3. Competent Authorities[^c-f7a8a8c00dc92d49bde73d5d8e59203e]
 
 The competent authority for the purposes of the Regulation–
 
-- (a) in relation to Articles 1(4), 15(1B) and (2), 16(2) and 18(1B) and (2)[^key-a616ce2467a565e820189753e9d66aba] is the Food Standards Scotland[^key-1a920af5b32b0c91a178c5efb4c87c88]; and
+- (a) in relation to Articles 1(4), 15(1B) and (2), 16(2) and 18(1B) and (2)[^c-a616ce2467a565e820189753e9d66aba] is the Food Standards Scotland[^c-1a920af5b32b0c91a178c5efb4c87c88]; and
 - (b) in relation to Article 6(3) is each food authority in its area.
 
-## 4. Enforcement[^key-7f503e89a6e2cfee2247768040044fcc]
+## 4. Enforcement[^c-7f503e89a6e2cfee2247768040044fcc]
 
 Each food authority within its area shall execute and enforce the provisions of these Regulations and of the Regulation.
 
-## 5. Offences and Penalties[^key-a107a54a0d876df444429b05d810a8ca]
+## 5. Offences and Penalties[^c-a107a54a0d876df444429b05d810a8ca]
 
 (1) Subject to the derogation contained in Article 1(3) (relating to trade marks etc) and to the transitional measures contained in Article 28, any person who contravenes or fails to comply with the provisions of the Regulation specified in paragraph (2) is guilty of an offence and liable–
 
@@ -90,14 +90,14 @@ Each food authority within its area shall execute and enforce the provisions of 
 - (a) Article 3 (general requirements relating to all claims);
 - (b) Article 4(3) (restrictions on claims that may be made on alcoholic beverages);
 - (c) Article 6(2) (requirement for justification of claims);
-- (d)[^key-a60486afd146c59dc795aa973e5cd02d] Article 7 (requirements for nutrition information) as read with the first subparagraph of Article 54(3) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608).
+- (d)[^c-a60486afd146c59dc795aa973e5cd02d] Article 7 (requirements for nutrition information) as read with the first subparagraph of Article 54(3) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608).
 - (e) Article 8(1) (requirements for nutrition claims);
 - (f) Article 9 (requirements for comparative claims);
 - (g) Article 10(1), (2) and (3) (requirements for health claims);
 - (h) Article 12 (prohibition of certain health claims); and
 - (i) Article 14(2) (requirements for reduction of disease risk claims).
 
-## 6. Application of various provisions of the Act[^key-a2e3598f9e0fa9a58671ba3cd0b7991c]
+## 6. Application of various provisions of the Act[^c-a2e3598f9e0fa9a58671ba3cd0b7991c]
 
 The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations:–
 
@@ -112,7 +112,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (i) section 36A (offences by Scottish partnerships); and
 - (j) section 44 (protection of officers acting in good faith).
 
-## 7. Obstruction of officers and provision of information etc[^key-55c0804d35e96f73c82b8a1a78ce9532]
+## 7. Obstruction of officers and provision of information etc[^c-55c0804d35e96f73c82b8a1a78ce9532]
 
 (1) Any person who–
 
@@ -128,7 +128,7 @@ is guilty of an offence and liable on summary conviction to a term of imprisonme
 
 (3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
 
-## 8. Amendment of the Food Labelling Regulations[^key-43066d5a0476ea74dd655a1cef2244a1]
+## 8. Amendment of the Food Labelling Regulations[^c-43066d5a0476ea74dd655a1cef2244a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -174,26 +174,26 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1. This Regulation was amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4) and Commission Regulation (EC) No. 575/2006 (O.J. No. L 100, 8.4.06, p.3).
 
-[^key-e3e907f5d1a3984acbf2d0bb104b86f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2007/383/regulation/1) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-e3e907f5d1a3984acbf2d0bb104b86f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2007/383/regulation/1) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-894dd27669236cb85d4f922c588eb024]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2007/383/regulation/2) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-894dd27669236cb85d4f922c588eb024]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2007/383/regulation/2) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-8c489f5839e43c105ec6745b6207728f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/2/1) substituted (1.10.2010) by [The Nutrition and Health Claims (Scotland) Amendment Regulations 2010 (S.S.I. 2010/307)](https://www.legislation.gov.uk/ssi/2010/307), [regs. 1](https://www.legislation.gov.uk/ssi/2010/307/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/307/regulation/2)
+[^c-8c489f5839e43c105ec6745b6207728f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/2/1) substituted (1.10.2010) by [The Nutrition and Health Claims (Scotland) Amendment Regulations 2010 (S.S.I. 2010/307)](https://www.legislation.gov.uk/ssi/2010/307), [regs. 1](https://www.legislation.gov.uk/ssi/2010/307/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/307/regulation/2)
 
-[^key-f7a8a8c00dc92d49bde73d5d8e59203e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2007/383/regulation/3) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-f7a8a8c00dc92d49bde73d5d8e59203e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2007/383/regulation/3) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-a616ce2467a565e820189753e9d66aba]: Textual amendment: Words in reg. 3(a) substituted (31.12.2020) by [The Nutrition (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/54)](https://www.legislation.gov.uk/ssi/2019/54), [regs. 1](https://www.legislation.gov.uk/ssi/2019/54/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/54/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a616ce2467a565e820189753e9d66aba]: Textual amendment: Words in reg. 3(a) substituted (31.12.2020) by [The Nutrition (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/54)](https://www.legislation.gov.uk/ssi/2019/54), [regs. 1](https://www.legislation.gov.uk/ssi/2019/54/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/54/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a920af5b32b0c91a178c5efb4c87c88]: Textual amendment: Words in reg. 3(a) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 17](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/17)
+[^c-1a920af5b32b0c91a178c5efb4c87c88]: Textual amendment: Words in reg. 3(a) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 17](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/17)
 
-[^key-7f503e89a6e2cfee2247768040044fcc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2007/383/regulation/4) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-7f503e89a6e2cfee2247768040044fcc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2007/383/regulation/4) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-a107a54a0d876df444429b05d810a8ca]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2007/383/regulation/5) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-a107a54a0d876df444429b05d810a8ca]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2007/383/regulation/5) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-a60486afd146c59dc795aa973e5cd02d]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/ssi/2007/383/regulation/5/2/d) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 14](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/14)
+[^c-a60486afd146c59dc795aa973e5cd02d]: Textual amendment: [Reg. 5(2)(d)](https://www.legislation.gov.uk/ssi/2007/383/regulation/5/2/d) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 14](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/14)
 
-[^key-a2e3598f9e0fa9a58671ba3cd0b7991c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2007/383/regulation/6) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-a2e3598f9e0fa9a58671ba3cd0b7991c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2007/383/regulation/6) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-55c0804d35e96f73c82b8a1a78ce9532]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2007/383/regulation/7) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
+[^c-55c0804d35e96f73c82b8a1a78ce9532]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2007/383/regulation/7) in force at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/383/regulation/1/1)
 
-[^key-43066d5a0476ea74dd655a1cef2244a1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2007/383/regulation/8) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-43066d5a0476ea74dd655a1cef2244a1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2007/383/regulation/8) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

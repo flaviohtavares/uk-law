@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80B. Relationships education and relationships and sex education: statements of policy[^M_C_d1f764d2-434d-4ebb-a223-35cae5e09f83][^key-d8acbc8581ad2ed8f8294ac81607f012]
+## 80B. Relationships education and relationships and sex education: statements of policy[^M_C_d1f764d2-434d-4ebb-a223-35cae5e09f83][^c-d8acbc8581ad2ed8f8294ac81607f012]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^M_C_d1f764d2-434d-4ebb-a223-35cae5e09f83]: Modification: Ss. 80A, 80B applied (with modifications) by [S.I. 2007/2979](https://www.legislation.gov.uk/uksi/2007/2979), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/19) (as substituted (1.9.2020) by [The Relationships Education, Relationships and Sex Education and Health Education (England) Regulations 2019 (S.I. 2019/924)](https://www.legislation.gov.uk/uksi/2019/924), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/924/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/924/schedule/paragraph/9))
 
-[^key-d8acbc8581ad2ed8f8294ac81607f012]: Textual amendment: Ss. 80A, 80B inserted (1.9.2020) by [The Relationships Education, Relationships and Sex Education and Health Education (England) Regulations 2019 (S.I. 2019/924)](https://www.legislation.gov.uk/uksi/2019/924), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/924/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/924/schedule/paragraph/8)
+[^c-d8acbc8581ad2ed8f8294ac81607f012]: Textual amendment: Ss. 80A, 80B inserted (1.9.2020) by [The Relationships Education, Relationships and Sex Education and Health Education (England) Regulations 2019 (S.I. 2019/924)](https://www.legislation.gov.uk/uksi/2019/924), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/924/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/924/schedule/paragraph/8)

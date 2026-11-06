@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 676DD. Meaning of “the relevant provisions”[^key-82d4e61c538f0bb232e9dcf64fc911c6]
+## 676DD. Meaning of “the relevant provisions”[^c-82d4e61c538f0bb232e9dcf64fc911c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter “**the relevant provisions**” means—
 
 ## Annotations
 
-[^key-82d4e61c538f0bb232e9dcf64fc911c6]: Textual amendment: [Pt. 14 Ch. 2D](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2D) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 78](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/78)
+[^c-82d4e61c538f0bb232e9dcf64fc911c6]: Textual amendment: [Pt. 14 Ch. 2D](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2D) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 78](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/78)

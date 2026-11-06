@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9B. Confidential information in certain cases where power to designate by description is used[^key-702747087aa1433f78a6e763a045e0ab]
+## 9B. Confidential information in certain cases where power to designate by description is used[^c-702747087aa1433f78a6e763a045e0ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ grant an injunction (in Scotland, an interdict) to prevent a breach of the prohi
 
 ## Annotations
 
-[^key-702747087aa1433f78a6e763a045e0ab]: Textual amendment: [Regs. 9A](https://www.legislation.gov.uk/uksi/2019/855/regulation/9A), [9B](https://www.legislation.gov.uk/uksi/2019/855/regulation/9B) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/395/regulation/9)
+[^c-702747087aa1433f78a6e763a045e0ab]: Textual amendment: [Regs. 9A](https://www.legislation.gov.uk/uksi/2019/855/regulation/9A), [9B](https://www.legislation.gov.uk/uksi/2019/855/regulation/9B) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/395/regulation/9)

@@ -43,7 +43,7 @@ shall be amended in accordance with the following provisions of this Schedule.
 
 ### Power to call for documents
 
-**3.**[^key-b0590e0c322ef5a51de343b21d18434b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0590e0c322ef5a51de343b21d18434b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Further amendments of section 28A
 
@@ -93,7 +93,7 @@ shall be amended in accordance with the following provisions of this Schedule.
 
 [^c14617611]: Textual amendment: Words in [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/1996/8/schedule/19/paragraph/2) repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. III(28), Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28)
 
-[^key-b0590e0c322ef5a51de343b21d18434b]: Textual amendment: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/1996/8/schedule/19/paragraph/3) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/e) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-b0590e0c322ef5a51de343b21d18434b]: Textual amendment: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/1996/8/schedule/19/paragraph/3) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/e) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
 
 [^c14617631]: Textual amendment: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/1996/8/schedule/19/paragraph/4) repealed (11.5.2001 with effect as mentioned in Sch. 33 Pt. 2(13), Note of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/13)
 

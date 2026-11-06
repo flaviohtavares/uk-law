@@ -24,7 +24,7 @@ summary: ''
 
 (2) When drawing up or amending criteria under paragraph (1)—
 
-- (a) the Board of Governors of a controlled school shall consider any representations made to it by the Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] responsible for the management of the school;
+- (a) the Board of Governors of a controlled school shall consider any representations made to it by the Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] responsible for the management of the school;
 - (b) the Board of Governors of a Catholic maintained school shall consider any representations made to it by the Council for Catholic Maintained Schools.
 
 (3) Where the criteria to be applied in respect of any school year have been published under Article 33(2), the Board of Governors shall not amend those criteria in respect of that school year without the approval of the Department.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

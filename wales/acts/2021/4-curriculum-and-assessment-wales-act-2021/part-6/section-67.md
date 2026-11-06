@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Local authorities' duty to facilitate the performance of functions[^key-5fb1f0ddfa8634bb13cca99733c0590a]
+## 67. Local authorities' duty to facilitate the performance of functions[^c-5fb1f0ddfa8634bb13cca99733c0590a]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb1f0ddfa8634bb13cca99733c0590a]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2021/4/section/67) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)
+[^c-5fb1f0ddfa8634bb13cca99733c0590a]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2021/4/section/67) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)

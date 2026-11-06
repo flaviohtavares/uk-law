@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96F. Suspension of application of a UK trade remedies measure[^key-ad66f9e7a5729ec4019d9f8bdf1b1365][^key-dc68a8dc60108bd892ea7da55f232855]
+## 96F. Suspension of application of a UK trade remedies measure[^c-ad66f9e7a5729ec4019d9f8bdf1b1365][^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
+[^c-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-[^key-0f6079af8d4eeefc8c3d7ca65e4f3e8e]...Deductions may be made from benefit and direct payments may be made to third parties on behalf of a claimant in accordance with the provisions of Schedules 5 and 6.
+[^c-0f6079af8d4eeefc8c3d7ca65e4f3e8e]...Deductions may be made from benefit and direct payments may be made to third parties on behalf of a claimant in accordance with the provisions of Schedules 5 and 6.
 
 ## Annotations
 
-[^key-0f6079af8d4eeefc8c3d7ca65e4f3e8e]: Textual amendment: Words in reg. 55 omitted by S.R. 2017/176, Sch 5 para. 8(b) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+[^c-0f6079af8d4eeefc8c3d7ca65e4f3e8e]: Textual amendment: Words in reg. 55 omitted by S.R. 2017/176, Sch 5 para. 8(b) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))

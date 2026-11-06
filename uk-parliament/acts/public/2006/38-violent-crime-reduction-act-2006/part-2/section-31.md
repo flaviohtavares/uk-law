@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-12ea68565fb50d7240c2715781a8507f] In subsection (1) of section 3 of the 1968 Act (offence for a person other than a registered firearms dealer to sell etc. a firearm or ammunition by way of trade or business), at the end of paragraph (b) insert
+(1)[^c-12ea68565fb50d7240c2715781a8507f] In subsection (1) of section 3 of the 1968 Act (offence for a person other than a registered firearms dealer to sell etc. a firearm or ammunition by way of trade or business), at the end of paragraph (b) insert
 
 > or
 >
@@ -28,17 +28,17 @@ summary: ''
 
 .
 
-(2)[^key-12ea68565fb50d7240c2715781a8507f] In section 40(2) of that Act (which excludes air weapons from the requirements to keep a register of transactions), omit the words from “ to firearms ” to “ therein ”.
+(2)[^c-12ea68565fb50d7240c2715781a8507f] In section 40(2) of that Act (which excludes air weapons from the requirements to keep a register of transactions), omit the words from “ to firearms ” to “ therein ”.
 
-(3)[^key-2ae53dfffd4c499c95a073fc4b92cafd][^key-0be985f66a30452527675470e2738587] In section 57(4) of that Act (interpretation), in the definition of “firearms dealer”, for the words from “manufactures” onwards substitute—
+(3)[^c-2ae53dfffd4c499c95a073fc4b92cafd][^c-0be985f66a30452527675470e2738587] In section 57(4) of that Act (interpretation), in the definition of “firearms dealer”, for the words from “manufactures” onwards substitute—
 
 > - (a) manufactures, sells, transfers, repairs, tests or proves firearms or ammunition to which section 1 of this Act applies or shot guns; or
 > - (b) sells or transfers air weapons.
 
 ## Annotations
 
-[^key-12ea68565fb50d7240c2715781a8507f]: Commencement: [S. 31(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/2) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/a)
+[^c-12ea68565fb50d7240c2715781a8507f]: Commencement: [S. 31(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/2) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/a)
 
-[^key-2ae53dfffd4c499c95a073fc4b92cafd]: Commencement: [S. 31(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/3) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/858/article/2/e)
+[^c-2ae53dfffd4c499c95a073fc4b92cafd]: Commencement: [S. 31(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/3) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/858/article/2/e)
 
-[^key-0be985f66a30452527675470e2738587]: Commencement: [S. 31(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/3) in force in so far as not already in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/a)
+[^c-0be985f66a30452527675470e2738587]: Commencement: [S. 31(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/31/3) in force in so far as not already in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/a)

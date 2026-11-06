@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Community sentences: electronic monitoring of requirements.[^c10578991][^key-89fbfe179eff002c8557527c98d3eaf2]
+## 52. Community sentences: electronic monitoring of requirements.[^c10578991][^c-89fbfe179eff002c8557527c98d3eaf2]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ After section 36A of the [^c10579001]Powers of Criminal Courts (Sentencing) Act 
 
 [^c10578991]: Commencement: S. 52 partly in force; s. 52 not in force at Royal Assent see s. 80; s. 52 in force for specified purposes at 20.6.2001 and 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(e)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/e)
 
-[^key-89fbfe179eff002c8557527c98d3eaf2]: Commencement: S. 52 in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-89fbfe179eff002c8557527c98d3eaf2]: Commencement: S. 52 in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
 
 [^c10579001]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).

@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Agreement between the European Community and its Member States and the Swiss Confederation on the Free Movement of Persons) Order 2000 (revoked)[^key-c377ec7f6f102b7332aeba3cee2f7586]
+The European Communities (Definition of Treaties) (Agreement between the European Community and its Member States and the Swiss Confederation on the Free Movement of Persons) Order 2000 (revoked)[^c-c377ec7f6f102b7332aeba3cee2f7586]
 
 Made
 
@@ -45,30 +45,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c377ec7f6f102b7332aeba3cee2f7586]
+## 1. Citation and commencement[^c-c377ec7f6f102b7332aeba3cee2f7586]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification as Community Treaty[^key-c377ec7f6f102b7332aeba3cee2f7586]
+## 2. Specification as Community Treaty[^c-c377ec7f6f102b7332aeba3cee2f7586]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c377ec7f6f102b7332aeba3cee2f7586]
+## SCHEDULE[^c-c377ec7f6f102b7332aeba3cee2f7586]
 
-[^key-c377ec7f6f102b7332aeba3cee2f7586]
+[^c-c377ec7f6f102b7332aeba3cee2f7586]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c377ec7f6f102b7332aeba3cee2f7586]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c377ec7f6f102b7332aeba3cee2f7586]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/3269) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c377ec7f6f102b7332aeba3cee2f7586]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/3269) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

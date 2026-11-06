@@ -39,17 +39,17 @@ An Act further to amend the Acts relating to the Ecclesiastical Commissioners, a
 
 ## 2—11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c563218]
 
-## 12. Sect. 67 of 3 & 4 Vict. c. 113. extended to all lands.[^key-3aed654495b1de96f911563d8b289712]
+## 12. Sect. 67 of 3 & 4 Vict. c. 113. extended to all lands.[^c-3aed654495b1de96f911563d8b289712]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Provision concerning local claims to apply to tithes and lands of an Ecclesiastical Corporation having a revenue exceeding its statutory income[^key-eb33e02db2929f292eb50aa4e6b95e4d]
+## 13. Provision concerning local claims to apply to tithes and lands of an Ecclesiastical Corporation having a revenue exceeding its statutory income[^c-eb33e02db2929f292eb50aa4e6b95e4d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 14. Preference may be given to places where contribution is made in aid of grant.
 
-In making additional provision for the cure of souls under section sixty-seven of the [^c563223]Ecclesiastical Commissioners Act 1840, preference may be given, if the said Commissioners see fit, to those places in respect of which contributions from other sources are made in aid of grants out of the common fund[^key-acea20a21090ab55c36a1b961a6ec491]...
+In making additional provision for the cure of souls under section sixty-seven of the [^c563223]Ecclesiastical Commissioners Act 1840, preference may be given, if the said Commissioners see fit, to those places in respect of which contributions from other sources are made in aid of grants out of the common fund[^c-acea20a21090ab55c36a1b961a6ec491]...
 
 ## 15. In mining districts Commissioners may make grants for cure of souls.
 
@@ -73,13 +73,13 @@ In districts in which large masses of population are collected for the purpose o
 
 [^c563218]: Textual amendment: [Ss. 2–11](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/2), [16–20](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/16), [22–41](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/22), [43](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/43) and 44 repealed by [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79)
 
-[^key-3aed654495b1de96f911563d8b289712]: Textual amendment: S. 12 repealed (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/1/2), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-3aed654495b1de96f911563d8b289712]: Textual amendment: S. 12 repealed (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/1/2), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-eb33e02db2929f292eb50aa4e6b95e4d]: Textual amendment: S. 13 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-eb33e02db2929f292eb50aa4e6b95e4d]: Textual amendment: S. 13 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c563223]: Marginal citation: [1840 c. 113](https://www.legislation.gov.uk/ukpga/1840/113).
 
-[^key-acea20a21090ab55c36a1b961a6ec491]: Textual amendment: Words in s. 14 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-acea20a21090ab55c36a1b961a6ec491]: Textual amendment: Words in s. 14 repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c563224]: Textual amendment: [Ss. 2–11](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/2), [16–20](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/16), [22–41](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/22), [43](https://www.legislation.gov.uk/ukpga/Vict/23-24/124/section/43) and 44 repealed by [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79)
 

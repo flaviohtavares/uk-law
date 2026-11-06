@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59A. Local retention of non-domestic rates[^key-f2165418977c6822ac1b48e68fb81fc6]
+## 59A. Local retention of non-domestic rates[^c-f2165418977c6822ac1b48e68fb81fc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7B (local retention of non-domestic rates) has effect.
 
 ## Annotations
 
-[^key-f2165418977c6822ac1b48e68fb81fc6]: Textual amendment: S. 59A inserted (with effect in accordance with s. 1(6) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/1/2)
+[^c-f2165418977c6822ac1b48e68fb81fc6]: Textual amendment: S. 59A inserted (with effect in accordance with s. 1(6) of the amending Act) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/1/2)

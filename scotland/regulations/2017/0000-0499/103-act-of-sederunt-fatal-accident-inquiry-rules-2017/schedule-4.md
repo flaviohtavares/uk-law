@@ -22,7 +22,7 @@ summary: ''
 
 Rule 1.5
 
-### 1. Lodging[^key-d2a8028957c4c48dbd157f16050ff026]
+### 1. Lodging[^c-d2a8028957c4c48dbd157f16050ff026]
 
 (1) Where these Rules require something to be lodged or the sheriff orders something to be lodged, it must be lodged with the sheriff clerk.
 
@@ -34,7 +34,7 @@ Rule 1.5
 - (d) fax; or
 - (e) another method ordered by the sheriff.
 
-### 2. Live links[^key-d238a73d7e3af39474d3d4f7dc41199a]
+### 2. Live links[^c-d238a73d7e3af39474d3d4f7dc41199a]
 
 (1) In this rule—
 
@@ -54,7 +54,7 @@ Rule 1.5
 
 ### Reporting restrictions
 
-#### 3. Reporting restrictions: interpretation and application[^key-65bd00ff5d7ead2b56c71cc3ea4e5733]
+#### 3. Reporting restrictions: interpretation and application[^c-65bd00ff5d7ead2b56c71cc3ea4e5733]
 
 (1) Paragraphs 4 to 7 apply to orders which restrict the reporting of proceedings, whether under section 22(2) (publishing restrictions in relation to children) or otherwise.
 
@@ -63,7 +63,7 @@ Rule 1.5
 - (a) who has asked to see any order made by the sheriff which restricts the reporting of proceedings, including an interim order; and
 - (b) whose name is included on a list kept by the Lord President of the Court of Session for the purposes of paragraphs 4 to 7.
 
-#### 4. Interim orders: notification to interested persons[^key-945452e5d3223b4aea6c918d1acf1032]
+#### 4. Interim orders: notification to interested persons[^c-945452e5d3223b4aea6c918d1acf1032]
 
 (1) Where the sheriff is considering making an order, the sheriff may make an interim order.
 
@@ -71,7 +71,7 @@ Rule 1.5
 
 (3) The sheriff is to specify in the interim order why the sheriff is considering making an order.
 
-#### 5. Interim orders: representations[^key-453ad800c7337248efd26050ca747798]
+#### 5. Interim orders: representations[^c-453ad800c7337248efd26050ca747798]
 
 (1) Subparagraph (2) applies where the sheriff has made an interim order.
 
@@ -98,14 +98,14 @@ Rule 1.5
 
 (7) Where the sheriff recalls an interim order, the sheriff clerk must immediately notify any interested person.
 
-#### 6. Notification of reporting restrictions[^key-cbd6973885f0aa2483f17d804529de9b]
+#### 6. Notification of reporting restrictions[^c-cbd6973885f0aa2483f17d804529de9b]
 
 Where the sheriff makes an order, the sheriff clerk must immediately—
 
 - (a) send a copy of the order to any interested person; and
 - (b) arrange for the publication of the making of the order on SCTS’s website.
 
-#### 7. Applications for variation or revocation[^key-54088bb1411911bbe6a7f07007c9cfbb]
+#### 7. Applications for variation or revocation[^c-54088bb1411911bbe6a7f07007c9cfbb]
 
 (1) A person aggrieved by an order may apply to the sheriff for its variation or revocation.
 
@@ -122,13 +122,13 @@ Where the sheriff makes an order, the sheriff clerk must immediately—
 
 ### The style of oath and affirmation
 
-#### 8. Oaths[^key-f3f6e41907092c099e453c14f281b113]
+#### 8. Oaths[^c-f3f6e41907092c099e453c14f281b113]
 
 The style of the oath is—
 
 - “I swear by Almighty God that I will tell the truth, the whole truth and nothing but the truth”.
 
-#### 9. Affirmations[^key-4ddd396c47cd65b16e2f833613d321c8]
+#### 9. Affirmations[^c-4ddd396c47cd65b16e2f833613d321c8]
 
 The style of the affirmation is—
 
@@ -136,14 +136,14 @@ The style of the affirmation is—
 
 ### Interventions
 
-#### 10. Interventions by the Commission for Equality and Human Rights and the Scottish Commission for Human Rights[^key-f75e4723e88f5384503c30ddc0eddccd]
+#### 10. Interventions by the Commission for Equality and Human Rights and the Scottish Commission for Human Rights[^c-f75e4723e88f5384503c30ddc0eddccd]
 
 Paragraphs 11 to 14 apply to—
 
 - (a) interventions in legal proceedings by the Commission for Equality and Human Rights under section 30(1) of the Equality Act 2006[^f00012];
 - (b) interventions in civil proceedings by the Scottish Commission for Human Rights under section 14(2) of the Scottish Commission for Human Rights Act 2006[^f00013].
 
-#### 11. Applications to intervene[^key-7c98dee5611978d69c3297ff235e8cfd]
+#### 11. Applications to intervene[^c-7c98dee5611978d69c3297ff235e8cfd]
 
 (1) An application for leave to intervene is to be made in writing.
 
@@ -156,7 +156,7 @@ Paragraphs 11 to 14 apply to—
 
 (4) Where no hearing is requested, the sheriff may appoint a date and time for a hearing of the sheriff’s own accord and the sheriff clerk must notify the date and time of the hearing to the participants and the applicant.
 
-#### 12. Determination of applications[^key-092bb0218a95ffceaaa024b804aafe31]
+#### 12. Determination of applications[^c-092bb0218a95ffceaaa024b804aafe31]
 
 (1) The sheriff may determine an application for leave to intervene without a hearing, unless a hearing is fixed under paragraph 11(3) or (4).
 
@@ -166,7 +166,7 @@ Paragraphs 11 to 14 apply to—
 
 (4) When an application is determined, the sheriff clerk must notify the participants and the applicant of the outcome.
 
-#### 13. Invitations to intervene[^key-eff3e61f02ed86766c406cacb43cf1aa]
+#### 13. Invitations to intervene[^c-eff3e61f02ed86766c406cacb43cf1aa]
 
 (1) An invitation to intervene under section 14(2)(b) of the Scottish Commission for Human Rights Act 2006[^f00014] is to be in writing.
 
@@ -177,7 +177,7 @@ Paragraphs 11 to 14 apply to—
 
 (3) Where the sheriff invites the intervention, the sheriff may impose any conditions that the sheriff considers desirable to further the purpose of the inquiry.
 
-#### 14. Form of intervention[^key-968e34fee0beda5d4ce60aa30cdf9cfe]
+#### 14. Form of intervention[^c-968e34fee0beda5d4ce60aa30cdf9cfe]
 
 (1) An intervention is by written submission.
 
@@ -196,7 +196,7 @@ Paragraphs 11 to 14 apply to—
 
 ### Lay representation and support
 
-#### 15. Lay representation: applications[^key-8e76219b509467701127e53caadb11ad]
+#### 15. Lay representation: applications[^c-8e76219b509467701127e53caadb11ad]
 
 (1) In paragraphs 15 to 18 a reference to a participant is a reference to a participant other than a procurator fiscal.
 
@@ -213,7 +213,7 @@ Paragraphs 11 to 14 apply to—
 - (a) do so in respect of one or more specified hearings; and
 - (b) withdraw permission of the sheriff’s own accord or on the application of any participant.
 
-#### 16. Lay representation: functions, conditions and duties[^key-401004e63c10accc8680b48ae3198a36]
+#### 16. Lay representation: functions, conditions and duties[^c-401004e63c10accc8680b48ae3198a36]
 
 (1) A participant must appear along with the lay representative at any hearing where the lay representative is to make oral submissions.
 
@@ -223,7 +223,7 @@ Paragraphs 11 to 14 apply to—
 
 (4) A lay representative must not receive directly or indirectly from the participant any remuneration or other reward for assisting the participant.
 
-#### 17. Lay support: application[^key-d0d8801976edaa822f0406aa0aaddc54]
+#### 17. Lay support: application[^c-d0d8801976edaa822f0406aa0aaddc54]
 
 (1) A participant who is an individual may apply to the sheriff for permission for a named person to assist the participant in the conduct of inquiry proceedings, and such a person is to be known as a lay supporter.
 
@@ -237,7 +237,7 @@ Paragraphs 11 to 14 apply to—
 - (a) of the sheriff’s own accord; or
 - (b) on the application of any participant.
 
-#### 18. Lay support: functions, conditions and duties[^key-37f3028ae17a29fecb4fd6370985f6f0]
+#### 18. Lay support: functions, conditions and duties[^c-37f3028ae17a29fecb4fd6370985f6f0]
 
 (1) A lay supporter may assist a participant by accompanying the participant at inquiry hearings.
 
@@ -258,7 +258,7 @@ Paragraphs 11 to 14 apply to—
 
 ### Lay representation for non-natural persons
 
-#### 19. Interpretation[^key-1bd9619173c3106b39f7f7128241aa84]
+#### 19. Interpretation[^c-1bd9619173c3106b39f7f7128241aa84]
 
 (1) In paragraphs 19 to 22—
 
@@ -278,8 +278,8 @@ Paragraphs 11 to 14 apply to—
 - “**lay representative**” means an individual who is not a legal representative; and
 - “**legal representative**” means—
   - (a) a solicitor;
-  - (b) an advocate [^key-6c924015dde77df9afd0092082861b63]...
-  - (c) [^key-6c924015dde77df9afd0092082861b63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (b) an advocate [^c-6c924015dde77df9afd0092082861b63]...
+  - (c) [^c-6c924015dde77df9afd0092082861b63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An individual holds a relevant position with a non-natural person if the individual—
 
@@ -290,7 +290,7 @@ Paragraphs 11 to 14 apply to—
 
 (3) References to conducting proceedings are references to exercising, in relation to the proceedings, a function or right (including a right of audience) that a legal representative could exercise in the proceedings.
 
-#### 20. Lay representation of non-natural persons at inquiries[^key-0b601c3821ed0e0602240f17b8400157]
+#### 20. Lay representation of non-natural persons at inquiries[^c-0b601c3821ed0e0602240f17b8400157]
 
 (1) This section applies where a non-natural person is a participant at an inquiry.
 
@@ -317,7 +317,7 @@ Paragraphs 11 to 14 apply to—
 - (a) the non-natural person’s interest in the inquiry proceedings; and
 - (b) the likely complexity of the inquiry proceedings.
 
-#### 21. Applications for authorisation of lay representatives for non-natural persons[^key-83dc695054d86a9ce160ee8eace85542]
+#### 21. Applications for authorisation of lay representatives for non-natural persons[^c-83dc695054d86a9ce160ee8eace85542]
 
 (1) An application for permission for a lay representative to conduct proceedings on behalf of a non-natural person is to be made in Form S4.21.
 
@@ -330,7 +330,7 @@ Paragraphs 11 to 14 apply to—
 - (a) do so in respect of one or more specified hearings;
 - (b) withdraw permission of the sheriff’s own accord or on the application of a participant.
 
-#### 22. Lay representation of non-natural persons: functions, conditions and duties[^key-1491e900fb96fc17903a930912756186]
+#### 22. Lay representation of non-natural persons: functions, conditions and duties[^c-1491e900fb96fc17903a930912756186]
 
 (1) A lay representative may be shown any document (including a court document) or receive any information about the inquiry proceedings without the non-natural person, or any of its office holders or employees, contravening any prohibition or restriction on disclosure of the document or information.
 
@@ -340,54 +340,54 @@ Paragraphs 11 to 14 apply to—
 
 ## Annotations
 
-[^key-d2a8028957c4c48dbd157f16050ff026]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-d2a8028957c4c48dbd157f16050ff026]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-d238a73d7e3af39474d3d4f7dc41199a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-d238a73d7e3af39474d3d4f7dc41199a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-65bd00ff5d7ead2b56c71cc3ea4e5733]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-65bd00ff5d7ead2b56c71cc3ea4e5733]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-945452e5d3223b4aea6c918d1acf1032]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-945452e5d3223b4aea6c918d1acf1032]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-453ad800c7337248efd26050ca747798]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-453ad800c7337248efd26050ca747798]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-cbd6973885f0aa2483f17d804529de9b]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-cbd6973885f0aa2483f17d804529de9b]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-54088bb1411911bbe6a7f07007c9cfbb]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-54088bb1411911bbe6a7f07007c9cfbb]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-f3f6e41907092c099e453c14f281b113]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-f3f6e41907092c099e453c14f281b113]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-4ddd396c47cd65b16e2f833613d321c8]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-4ddd396c47cd65b16e2f833613d321c8]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-f75e4723e88f5384503c30ddc0eddccd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-f75e4723e88f5384503c30ddc0eddccd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00012]: Footnote: [2006 c.3](https://www.legislation.gov.uk/ukpga/2006/3).
 
 [^f00013]: Footnote: [2006 asp 16](https://www.legislation.gov.uk/asp/2006/16).
 
-[^key-7c98dee5611978d69c3297ff235e8cfd]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-7c98dee5611978d69c3297ff235e8cfd]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-092bb0218a95ffceaaa024b804aafe31]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-092bb0218a95ffceaaa024b804aafe31]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-eff3e61f02ed86766c406cacb43cf1aa]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/13) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-eff3e61f02ed86766c406cacb43cf1aa]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/13) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00014]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-968e34fee0beda5d4ce60aa30cdf9cfe]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/14) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-968e34fee0beda5d4ce60aa30cdf9cfe]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/14) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-8e76219b509467701127e53caadb11ad]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/15) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-8e76219b509467701127e53caadb11ad]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/15) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-401004e63c10accc8680b48ae3198a36]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/16) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-401004e63c10accc8680b48ae3198a36]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/16) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-d0d8801976edaa822f0406aa0aaddc54]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/17) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-d0d8801976edaa822f0406aa0aaddc54]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/17) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-37f3028ae17a29fecb4fd6370985f6f0]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/18) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-37f3028ae17a29fecb4fd6370985f6f0]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/18) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-1bd9619173c3106b39f7f7128241aa84]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/19) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-1bd9619173c3106b39f7f7128241aa84]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/19) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-6c924015dde77df9afd0092082861b63]: Textual amendment: Words in [sch. 4 para. 19(1)](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/19/1) omitted (15.6.2017) by virtue of [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/6)
+[^c-6c924015dde77df9afd0092082861b63]: Textual amendment: Words in [sch. 4 para. 19(1)](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/19/1) omitted (15.6.2017) by virtue of [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/6)
 
-[^key-0b601c3821ed0e0602240f17b8400157]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/20) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-0b601c3821ed0e0602240f17b8400157]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/20) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-83dc695054d86a9ce160ee8eace85542]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/21) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-83dc695054d86a9ce160ee8eace85542]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/21) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-1491e900fb96fc17903a930912756186]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/22) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-1491e900fb96fc17903a930912756186]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ssi/2017/103/schedule/4/paragraph/22) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

@@ -24,8 +24,8 @@ summary: ''
 
 (2) In this regulation any reference to the current edition of a specified publication as in force at a particular time is a reference to the edition of that publication in force, under whatever title, at that time together with any amendments, additions and deletions made to it up to that time.
 
-(3) In this regulation, “**specified publication**” has the meaning given by regulation 321(1) of the 2012 Regulations[^key-e14ff951580e310dde174d049cc496c1].
+(3) In this regulation, “**specified publication**” has the meaning given by regulation 321(1) of the 2012 Regulations[^c-e14ff951580e310dde174d049cc496c1].
 
 ## Annotations
 
-[^key-e14ff951580e310dde174d049cc496c1]: Textual amendment: Words in [reg. 53(3)](https://www.legislation.gov.uk/uksi/2004/1031/regulation/53/3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 60](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/60) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-e14ff951580e310dde174d049cc496c1]: Textual amendment: Words in [reg. 53(3)](https://www.legislation.gov.uk/uksi/2004/1031/regulation/53/3) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 60](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/60) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

@@ -25,7 +25,7 @@ summary: ''
 - (a) has been convicted in a category 1 territory of an offence constituted by the conduct, and
 - (b) has been sentenced for the offence.
 
-(2) The conduct constitutes an extradition offence in relation to the category 1 territory if the conditions in subsection (3) or (4)[^key-2d4eb764e7191538fb7f05181bcd8a78] are satisfied.
+(2) The conduct constitutes an extradition offence in relation to the category 1 territory if the conditions in subsection (3) or (4)[^c-2d4eb764e7191538fb7f05181bcd8a78] are satisfied.
 
 (3) The conditions in this subsection are that—
 
@@ -39,7 +39,7 @@ summary: ''
 - (b) in corresponding circumstances equivalent conduct would constitute an extra-territorial offence under the law of the relevant part of the United Kingdom;
 - (c) a sentence of imprisonment or another form of detention for a term of 4 months or a greater punishment has been imposed in the category 1 territory in respect of the conduct.
 
-(5)[^key-6f7b69341ded00ce362d250205ecf3c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6f7b69341ded00ce362d250205ecf3c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of subsections (3)(b) and (4)(b)—
 
@@ -52,6 +52,6 @@ summary: ''
 
 [^c2087079]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-2d4eb764e7191538fb7f05181bcd8a78]: Textual amendment: Words in s. 65(2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/12/3/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7) (with [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/10)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)
+[^c-2d4eb764e7191538fb7f05181bcd8a78]: Textual amendment: Words in s. 65(2) substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/12/3/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7) (with [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/10)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)
 
-[^key-6f7b69341ded00ce362d250205ecf3c6]: Textual amendment: S. 65(5) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/12/3/b), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7) (with [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/10)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)
+[^c-6f7b69341ded00ce362d250205ecf3c6]: Textual amendment: S. 65(5) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/12/3/b), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7) (with [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/6/paragraph/10)); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)

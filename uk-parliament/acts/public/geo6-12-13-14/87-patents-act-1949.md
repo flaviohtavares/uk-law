@@ -801,7 +801,7 @@ Provided that if it appears to the comptroller that any dispute referred to him 
 
 (3) Subsection (1) of section thirty and section sixty-two of this Act shall apply to proceedings before the comptroller on a reference under this section as they apply to proceedings for infringement of a patent before the court.
 
-(4) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or *(Extent: S)*[^key-5c57f484dcc00577abd30f1a15e983fa]Part I of the Arbitration Act 1996[^c599856], shall not apply *(Extent: S)* *(affected by repeal, see note)*[^key-5427784a118a500ea75188630c57a2aa]applies *(Extent: S)* to proceedings before the comptroller on a reference under this section.
+(4) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or *(Extent: S)*[^c-5c57f484dcc00577abd30f1a15e983fa]Part I of the Arbitration Act 1996[^c599856], shall not apply *(Extent: S)* *(affected by repeal, see note)*[^c-5427784a118a500ea75188630c57a2aa]applies *(Extent: S)* to proceedings before the comptroller on a reference under this section.
 
 (5) The decision of the comptroller on a reference under this section shall not be binding upon any party thereto in any subsequent proceedings before the court for infringement of the patent or for revocation of the patent; but a patentee or licensee shall not be entitled, in any such subsequent proceedings for infringement, to any relief in respect of an alleged infringement which was in issue in proceedings under this section.
 
@@ -1139,11 +1139,11 @@ SCHEDULES
 
 [^c599853]: Marginal citation: [1962 c. 30](https://www.legislation.gov.uk/ukpga/1962/30).
 
-[^key-5c57f484dcc00577abd30f1a15e983fa]: Textual amendment: Words in [s. 67(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/67/4) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/2/a)
+[^c-5c57f484dcc00577abd30f1a15e983fa]: Textual amendment: Words in [s. 67(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/67/4) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/2/a)
 
 [^c599856]: Textual amendment: Words in s. 67(4) substituted (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/8); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (with Sch. 2 )
 
-[^key-5427784a118a500ea75188630c57a2aa]: Textual amendment: Word in [s. 67(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/67/4) substituted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/2/b)
+[^c-5427784a118a500ea75188630c57a2aa]: Textual amendment: Word in [s. 67(4)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/67/4) substituted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/2/b)
 
 [^c599857]: Textual amendment: [Ss. 54](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/54), [57](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/57), [58](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/58), [68](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/section/68) repealed by [Patents Act 1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37), [Sch. 6](https://www.legislation.gov.uk/ukpga/1977/37/schedule/6)
 

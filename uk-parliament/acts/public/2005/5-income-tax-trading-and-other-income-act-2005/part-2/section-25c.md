@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25C. Election for profits to be calculated in accordance with GAAP[^key-b2a74abc77e1f26a4e16443765062c9b]
+## 25C. Election for profits to be calculated in accordance with GAAP[^c-b2a74abc77e1f26a4e16443765062c9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a74abc77e1f26a4e16443765062c9b]: Textual amendment: [S. 25C](https://www.legislation.gov.uk/ukpga/2005/5/section/25C) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-b2a74abc77e1f26a4e16443765062c9b]: Textual amendment: [S. 25C](https://www.legislation.gov.uk/ukpga/2005/5/section/25C) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

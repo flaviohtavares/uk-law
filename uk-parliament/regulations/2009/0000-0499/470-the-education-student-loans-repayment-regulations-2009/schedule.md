@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1[^key-32b86e03b856008bbf493a305f6c9d1b][^key-e7cf08516f81803ed0703ed9b8e1b69a]
+## SCHEDULE 1[^c-32b86e03b856008bbf493a305f6c9d1b][^c-e7cf08516f81803ed0703ed9b8e1b69a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ The following Regulations are revoked in their entirety:
 
 ## Annotations
 
-[^key-32b86e03b856008bbf493a305f6c9d1b]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/470/schedule) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-32b86e03b856008bbf493a305f6c9d1b]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/470/schedule) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-e7cf08516f81803ed0703ed9b8e1b69a]: Textual amendment: Sch. renumbered as Sch. 1 (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [18](https://www.legislation.gov.uk/uksi/2012/836/regulation/18)
+[^c-e7cf08516f81803ed0703ed9b8e1b69a]: Textual amendment: Sch. renumbered as Sch. 1 (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [18](https://www.legislation.gov.uk/uksi/2012/836/regulation/18)

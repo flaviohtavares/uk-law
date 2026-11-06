@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Order for information in connection with building liability order[^key-22d3dcbfade7636c36c58c37fb7cf363][^key-3f03908afadbbf226be80603dafcd802][^key-8913e4ae33a8216b009d31d4200b1879]
+## 132. Order for information in connection with building liability order[^c-22d3dcbfade7636c36c58c37fb7cf363][^c-3f03908afadbbf226be80603dafcd802][^c-8913e4ae33a8216b009d31d4200b1879]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-22d3dcbfade7636c36c58c37fb7cf363]: Commencement: S. 132 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-22d3dcbfade7636c36c58c37fb7cf363]: Commencement: S. 132 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-3f03908afadbbf226be80603dafcd802]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/30/section/132) in force at 28.5.2022 for specified purposes by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/561/regulation/2)
+[^c-3f03908afadbbf226be80603dafcd802]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/30/section/132) in force at 28.5.2022 for specified purposes by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/561/regulation/2)
 
-[^key-8913e4ae33a8216b009d31d4200b1879]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/30/section/132) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/i)
+[^c-8913e4ae33a8216b009d31d4200b1879]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2022/30/section/132) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 838A. Asbestos compensation settlements[^key-9516ea9e1ef6344ee29b4c6e17f5eb7d]
+## 838A. Asbestos compensation settlements[^c-9516ea9e1ef6344ee29b4c6e17f5eb7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9516ea9e1ef6344ee29b4c6e17f5eb7d]: Textual amendment: S. 838A inserted (16.12.2010 with effect in accordance with Sch. 14 para. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 14 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/14/paragraph/3/3)
+[^c-9516ea9e1ef6344ee29b4c6e17f5eb7d]: Textual amendment: S. 838A inserted (16.12.2010 with effect in accordance with Sch. 14 para. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 14 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/14/paragraph/3/3)

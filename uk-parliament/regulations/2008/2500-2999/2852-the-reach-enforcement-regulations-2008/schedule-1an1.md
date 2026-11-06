@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Table of retained REACH provisions[^key-7ffc839cbc47eed83a58e1f339f9f3ae]
+## SCHEDULE 1A — Table of retained REACH provisions[^c-7ffc839cbc47eed83a58e1f339f9f3ae]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-7ffc839cbc47eed83a58e1f339f9f3ae]: Textual amendment: Sch. 1A inserted (N.I.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/c), [16(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/16/3)
+[^c-7ffc839cbc47eed83a58e1f339f9f3ae]: Textual amendment: Sch. 1A inserted (N.I.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/c), [16(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/16/3)

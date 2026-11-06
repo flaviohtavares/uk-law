@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendments to the Social Services and Well-being (Wales) Act 2014[^key-b37bc6cfc80a33257d19945f72cccc77][^key-8957365edfa2d9103d86fb31b3cdab53]
+## 16. Amendments to the Social Services and Well-being (Wales) Act 2014[^c-b37bc6cfc80a33257d19945f72cccc77][^c-8957365edfa2d9103d86fb31b3cdab53]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b37bc6cfc80a33257d19945f72cccc77]: Commencement: S. 16 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(a)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/a)
+[^c-b37bc6cfc80a33257d19945f72cccc77]: Commencement: S. 16 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(a)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/a)
 
-[^key-8957365edfa2d9103d86fb31b3cdab53]: Commencement: S. 16 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(za)](https://www.legislation.gov.uk/wsi/2021/373/article/8/za) (as inserted by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/735/article/2/5/a))
+[^c-8957365edfa2d9103d86fb31b3cdab53]: Commencement: S. 16 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(za)](https://www.legislation.gov.uk/wsi/2021/373/article/8/za) (as inserted by [S.I. 2021/735](https://www.legislation.gov.uk/uksi/2021/735), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/735/article/2/5/a))

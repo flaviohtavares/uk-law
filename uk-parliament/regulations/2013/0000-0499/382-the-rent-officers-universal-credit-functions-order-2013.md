@@ -59,10 +59,10 @@ In this Order—
 - “**Welfare Reform Act**” means the Welfare Reform Act 2012 [^c2166187];
 - “**the Universal Credit Regulations**” means the Universal Credit Regulations 2013 [^c2166188];
 - “**accommodation**” means any residential accommodation whether or not consisting of the whole or part of a building and whether or not comprising separate and self-contained premises;
-- “assessment period” has the same meaning as in section 40 of the Welfare Reform Act.[^key-5d867f3e80a85e9a02705b3953d10be6]
-- [^key-e5a0aaf987f369602dcbb825abc6dd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “assessment period” has the same meaning as in section 40 of the Welfare Reform Act.[^c-5d867f3e80a85e9a02705b3953d10be6]
+- [^c-e5a0aaf987f369602dcbb825abc6dd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “assured tenancy”—
-  - (a) in England [^key-ac780ba4995883e047c31485fa7c93c3]... , has the same meaning as in Part 1 of the Housing Act 1988 [^c2166190], except that it includes—
+  - (a) in England [^c-ac780ba4995883e047c31485fa7c93c3]... , has the same meaning as in Part 1 of the Housing Act 1988 [^c2166190], except that it includes—
     - (i) a tenancy which would be an assured tenancy but for paragraph 2, 8 or 10 of Schedule 1 (tenancies which cannot be assured tenancies) to that Act; and
     - (ii) a licence which would be an assured tenancy (within the extended meaning given in this definition) were it a tenancy; and
   - (b) in Scotland, has the same meaning as in Part 2 of the Housing (Scotland) Act 1988 [^c2166191], except that it includes—
@@ -70,7 +70,7 @@ In this Order—
     - (ii) any other form of occupancy which would be an assured tenancy (within the extended meaning given in this definition) were it a tenancy;
 - “**broad rental market area**” has the meaning given in article 3;
 - “**housing payment**” means a relevant payment within the meaning of paragraph 3 of Schedule 4 (housing costs element for renters) to the Universal Credit Regulations;
-- “ *(Extent: W)*[^key-e46faca55c7825dcb81b556bfdc9e15c]**introductory standard contract *(Extent: W)***” has the meaning given by the Renting Homes (Wales) Act 2016 (see section 16 of that Act); *(Extent: W)*
+- “ *(Extent: W)*[^c-e46faca55c7825dcb81b556bfdc9e15c]**introductory standard contract *(Extent: W)***” has the meaning given by the Renting Homes (Wales) Act 2016 (see section 16 of that Act); *(Extent: W)*
 - “**local authority**” means—
   - (a) in relation to England, the council of a district or London borough, the Common Council of the City of London or the Council of the Isles of Scilly;
   - (b) in relation to Wales, the council of a county or county borough; and
@@ -106,7 +106,7 @@ In this Order—
 - (a) determine one or more broad rental market areas; and
 - (b) in respect of that broad rental market area, or those broad rental market areas, give to the Secretary of State a notice which identifies the local authority areas and the postcodes contained within the broad rental market area (or each of them).
 
-(2A)[^key-c8c4d7b376f801a9d697db9361465edc] The power in paragraph (2) is not limited by paragraph 2(2)[^key-6600ab52558ec26d1dc178c8daae96d8] of Schedule 1.
+(2A)[^c-c8c4d7b376f801a9d697db9361465edc] The power in paragraph (2) is not limited by paragraph 2(2)[^c-6600ab52558ec26d1dc178c8daae96d8] of Schedule 1.
 
 (3) A broad rental market area is an area within which a person could reasonably be expected to live having regard to facilities and services for the purposes of health, education, recreation, personal banking and shopping, taking account of the distance of travel, by public and private transport, to and from those facilities and services.
 
@@ -120,31 +120,31 @@ In this Order—
 (6) Any broad rental market area determination made in accordance with paragraph (2) is to take effect—
 
 - (a) on the day the determination is made for the purpose of enabling a rent officer to determine a local housing allowance for that area; and
-- (b)[^key-2a8d6b3356cca7adf119fffb9539deb2] for all other purposes on the next relevant Monday following the day on which the determination is made.
+- (b)[^c-2a8d6b3356cca7adf119fffb9539deb2] for all other purposes on the next relevant Monday following the day on which the determination is made.
 
 (7) For broad rental market area determinations that take effect on 29th April 2013, a rent officer must use the broad rental market area determinations determined in accordance with article 4B of, and Schedule 3B to, the Rent Officers (Housing Benefit Functions) Order 1997 [^c2166194] or the Rent Officers (Housing Benefit Functions) (Scotland) Order 1997 [^c2166195] that apply on 29th April 2013.
 
-(8)[^key-1a88d6c39bdfbc00320939502167f8f3] “Relevant Monday” has the same meaning as in article 4(4).
+(8)[^c-1a88d6c39bdfbc00320939502167f8f3] “Relevant Monday” has the same meaning as in article 4(4).
 
-## 4. Local housing allowance determinations[^key-a880f13f891a8d85df40bedbbda59e77]
+## 4. Local housing allowance determinations[^c-a880f13f891a8d85df40bedbbda59e77]
 
-(1)[^key-99711a4a3476aa8d5c54d46ec6b6d935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-99711a4a3476aa8d5c54d46ec6b6d935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1)[^key-8480ba8f362019e354f73afc81284d4f] In 2014 and in each subsequent year, on the date specified in paragraph[^key-57b0102f7007d2ae79a68d8ebca100b2] (2)[^key-7ec848da5e2e6aef9909bb47c913b989], a rent officer must—
+(1)[^c-8480ba8f362019e354f73afc81284d4f] In 2014 and in each subsequent year, on the date specified in paragraph[^c-57b0102f7007d2ae79a68d8ebca100b2] (2)[^c-7ec848da5e2e6aef9909bb47c913b989], a rent officer must—
 
 - (a) for each broad rental market area determine, in accordance with Schedule 1, a local housing allowance for each of the categories of accommodation set out in paragraph 1 of Schedule 1; and
 - (b) notify the Secretary of State of the local housing allowance determination made in accordance with sub-paragraph (a) for each broad rental market area.
 
-(2)[^key-f2d8bbb58f8ffafa258ebbe512179723] The date specified for the purposes of paragraph[^key-85a4ce3f685b56e9b0f36374eb58ed22] (1)[^key-5ca27ca8d24b832aa83c50b39196aaa8] is the last working day of January and also the 31st March 2020[^key-be98333430ee27fad1e4e9fbe98a3f50].
+(2)[^c-f2d8bbb58f8ffafa258ebbe512179723] The date specified for the purposes of paragraph[^c-85a4ce3f685b56e9b0f36374eb58ed22] (1)[^c-5ca27ca8d24b832aa83c50b39196aaa8] is the last working day of January and also the 31st March 2020[^c-be98333430ee27fad1e4e9fbe98a3f50].
 
-(3)[^key-12a0d4f6ac190d1eec1cf5623df6f379] Any local housing allowance determination made in accordance with paragraph (1) is to take effect—
+(3)[^c-12a0d4f6ac190d1eec1cf5623df6f379] Any local housing allowance determination made in accordance with paragraph (1) is to take effect—
 
 - (a) in the case of a person with an existing UC entitlement—
   - (i) on the relevant Monday where that is the first day of an assessment period for the person in question; or
   - (ii) where the relevant Monday is not the first day of an assessment period for that person, on the first day of the next assessment period following that; or
 - (b) in any other case, on the relevant Monday.
 
-(3A)[^key-c74578fa3d1548058fe94c3d7ed87559] The determinations made in accordance with paragraph (1) on the 31st March 2020 shall take effect (under paragraph (3)) in place of the determinations made in accordance with paragraph (1) on the 31st January 2020.
+(3A)[^c-c74578fa3d1548058fe94c3d7ed87559] The determinations made in accordance with paragraph (1) on the 31st March 2020 shall take effect (under paragraph (3)) in place of the determinations made in accordance with paragraph (1) on the 31st January 2020.
 
 (4) For the purposes of this article—
 
@@ -194,13 +194,13 @@ Parliamentary Under-Secretary of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — Local housing allowance determinations[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95][^key-095565c1734ea6dce9c0be3d1db2fb46][^key-7df3514424048e82063cfb491fe00c5a]
+## SCHEDULE 1 — Local housing allowance determinations[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95][^c-095565c1734ea6dce9c0be3d1db2fb46][^c-7df3514424048e82063cfb491fe00c5a]
 
 Article 4
 
-### 1. Categories of accommodation[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 1. Categories of accommodation[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
 The categories of accommodation for which a rent officer is required to determine a local housing allowance in accordance with article 4 are—
 
@@ -214,44 +214,44 @@ The categories of accommodation for which a rent officer is required to determin
 - (d) accommodation where the tenant has the use of only three bedrooms;
 - (e) accommodation where the tenant has the use of only four bedrooms.
 
-### 2. Local housing allowance for category of accommodation in paragraph 1[^key-83d7dd9673414845dab8aa31a03eb5af][^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 2. Local housing allowance for category of accommodation in paragraph 1[^c-83d7dd9673414845dab8aa31a03eb5af][^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
-(1) Subject to paragraphs[^key-a6863168b5e7524e1cc081a209d62b08] 5 (anomalous local housing allowances and 7 (minimum local housing allowance)[^key-2acd811d66e3435c0b90d8493a952d8a]) the rent officer must determine a local housing allowance for each category of accommodation in paragraph 1 as follows.
+(1) Subject to paragraphs[^c-a6863168b5e7524e1cc081a209d62b08] 5 (anomalous local housing allowances and 7 (minimum local housing allowance)[^c-2acd811d66e3435c0b90d8493a952d8a]) the rent officer must determine a local housing allowance for each category of accommodation in paragraph 1 as follows.
 
-(2)[^key-8c03b240e70659426e34de2d485c5401] The local housing allowance for any category of accommodation is the lower of—
+(2)[^c-8c03b240e70659426e34de2d485c5401] The local housing allowance for any category of accommodation is the lower of—
 
 - (a) the rent at the 30th percentile determined in accordance with paragraph 3; and
 - (b) for a category of accommodation listed in column 1 of the following table, the amount listed in column 2 of that table (maximum local housing allowance)—
 
   | *1. Category of accommodation as specified in paragraph 1* | *2. Maximum local housing allowance for that category of accommodation* |
   | --- | --- |
-  | paragraph 1(a) (one bedroom, shared accommodation) | £1,439.97[^key-a8ee758bc7e7fe4b40dc711e1b304076] |
-  | Paragraph 1(b) (one bedroom, exclusive use) | £1,439.97[^key-99ca921b9ac7a89f5c743ab71c7a8249] |
-  | Paragraph 1(c) (two bedrooms) | £1,793.98[^key-9a372ef8130ac1b372e145c4b95c3f04] |
-  | Paragraph 1(d) (three bedrooms) | £2,160.02[^key-46972fcf33bf796553b65c4c14b96770] |
-  | Paragraph 1(e) (four bedrooms) | £3,060.00[^key-2e0ce9d36ad899fefbd41b3564c171d6] |
+  | paragraph 1(a) (one bedroom, shared accommodation) | £1,439.97[^c-a8ee758bc7e7fe4b40dc711e1b304076] |
+  | Paragraph 1(b) (one bedroom, exclusive use) | £1,439.97[^c-99ca921b9ac7a89f5c743ab71c7a8249] |
+  | Paragraph 1(c) (two bedrooms) | £1,793.98[^c-9a372ef8130ac1b372e145c4b95c3f04] |
+  | Paragraph 1(d) (three bedrooms) | £2,160.02[^c-46972fcf33bf796553b65c4c14b96770] |
+  | Paragraph 1(e) (four bedrooms) | £3,060.00[^c-2e0ce9d36ad899fefbd41b3564c171d6] |
 
-(2A)[^key-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-d4662e69a029f09a3fa22309fb11403d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the local housing allowance would otherwise not be a whole number of pence, it must be rounded to the nearest whole penny by disregarding any amount less than half a penny and treating any amount of half a penny or more as a whole penny.
 
-### 3. Rent at the 30th percentile[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 3. Rent at the 30th percentile[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
 (1) The rent officer must determine the rent at the 30th percentile in accordance with the following sub-paragraphs.
 
 (2) The rent officer must compile a list of rents.
 
-(3)[^key-326b13d4b452ffe6aab0d550e81f23d0] The rent officer must compile a list of rents in ascending order of the rents which, in the rent officer’s opinion, are payable—
+(3)[^c-326b13d4b452ffe6aab0d550e81f23d0] The rent officer must compile a list of rents in ascending order of the rents which, in the rent officer’s opinion, are payable—
 
 - (a) for each category of dwelling specified in paragraph 1—
   - (i) in England, let under an assured tenancy, or
@@ -262,13 +262,13 @@ The categories of accommodation for which a rent officer is required to determin
 
 (4) The list must include any rents which are of the same amount.
 
-(5) The criteria for including an assured tenancy or a relevant occupation contract, as the case may be, *(Extent: W)*[^key-3ce52f3321add80aed66ff39264aca7d] on the list of rents in relation to each category of accommodation specified in paragraph 1 are that—
+(5) The criteria for including an assured tenancy or a relevant occupation contract, as the case may be, *(Extent: W)*[^c-3ce52f3321add80aed66ff39264aca7d] on the list of rents in relation to each category of accommodation specified in paragraph 1 are that—
 
-- (a) the accommodation let under the assured tenancy or relevant occupation contract *(Extent: W)*[^key-65e0661108d22f91f78fe6adec7b55dc] is in the broad rental market area for which the local housing allowance for that category of accommodation is being determined;
+- (a) the accommodation let under the assured tenancy or relevant occupation contract *(Extent: W)*[^c-65e0661108d22f91f78fe6adec7b55dc] is in the broad rental market area for which the local housing allowance for that category of accommodation is being determined;
 - (b) the accommodation is in a reasonable state of repair; and
-- (c) the assured tenancy or relevant occupation contract *(Extent: W)*[^key-af36304c656325909fd96ed298f05b35] permits the tenant to use exclusively or share the use of, as the case may be, the same number and type of rooms as the category of accommodation in relation to which the list of rents is being compiled.
+- (c) the assured tenancy or relevant occupation contract *(Extent: W)*[^c-af36304c656325909fd96ed298f05b35] permits the tenant to use exclusively or share the use of, as the case may be, the same number and type of rooms as the category of accommodation in relation to which the list of rents is being compiled.
 
-(6)[^key-99055b403845bd44f33c7b197547cff8] Sub-paragraph (7) applies where the rent officer is not satisfied that the list of rents in respect of any category of accommodation would contain sufficient rents, payable in the 12 month period ending on the 30th day of the September preceding the date of the determination for accommodation in the broad rental market area, to enable a local housing allowance to be determined which is representative of the rents that a landlord might reasonably be expected to obtain in that area.
+(6)[^c-99055b403845bd44f33c7b197547cff8] Sub-paragraph (7) applies where the rent officer is not satisfied that the list of rents in respect of any category of accommodation would contain sufficient rents, payable in the 12 month period ending on the 30th day of the September preceding the date of the determination for accommodation in the broad rental market area, to enable a local housing allowance to be determined which is representative of the rents that a landlord might reasonably be expected to obtain in that area.
 
 (7) In a case where this sub-paragraph applies, the rent officer may add to the list rents for accommodation in the same category in other areas in which a comparable market exists.
 
@@ -297,44 +297,44 @@ The categories of accommodation for which a rent officer is required to determin
 
 *Extent: W*
 
-(11)[^key-463bab219f68b6d8f5235ab9aa9c0d77] In this paragraph, “**relevant occupation contract**” means—
+(11)[^c-463bab219f68b6d8f5235ab9aa9c0d77] In this paragraph, “**relevant occupation contract**” means—
 
 - (a) a secure contract in relation to which the landlord is a registered social landlord, a private registered provider of social housing, or a private landlord,
 - (b) a standard contract, or
 - (c) an introductory standard contract in relation to which the landlord is a registered social landlord or a private registered provider of social housing.
 
-### 4. Maximum local housing allowance[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 4. Maximum local housing allowance[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
-.[^key-03437bd6e04567ea768bd4561c23b639] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.[^c-03437bd6e04567ea768bd4561c23b639] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Anomalous local housing allowances[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 5. Anomalous local housing allowances[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
-Subject to paragraph 7, where—[^key-ec1bb8ffd88659f67a94e11bf1582d78]
+Subject to paragraph 7, where—[^c-ec1bb8ffd88659f67a94e11bf1582d78]
 
 - (a) the rent officer has determined the local housing allowance for each of the categories of accommodation in paragraph 1 in accordance with the preceding paragraphs of this Schedule; and
 - (b) the local housing allowance for a category of accommodation in paragraph 1(b) to (e) is lower than the local housing allowance for any of the categories of accommodation which precede it,
 
 that local housing allowance is to be the same as the highest local housing allowance which precedes it.
 
-### 5A.[^key-e3b36933fdd029ad6afec819abe25add][^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
+### 5A.[^c-e3b36933fdd029ad6afec819abe25add][^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6.[^key-fc4d7d1c20b379f5d296bdf702042506][^key-d0940ca0b9435cf0d0ac8283aeaa2e0e][^key-4f2bcb077811184670de8d0f736d4114][^key-2c80b7af49e48defbeb8ea41e67ced95]
-
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Minimum local housing allowance[^key-878edc4a3a7fe956d5e4b943f438a837]
+### 6.[^c-fc4d7d1c20b379f5d296bdf702042506][^c-d0940ca0b9435cf0d0ac8283aeaa2e0e][^c-4f2bcb077811184670de8d0f736d4114][^c-2c80b7af49e48defbeb8ea41e67ced95]
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Minimum local housing allowance[^c-878edc4a3a7fe956d5e4b943f438a837]
+
+[^c-095565c1734ea6dce9c0be3d1db2fb46]
 
 Where—
 
@@ -355,7 +355,7 @@ Article 5
 
 - (a) have regard to the level of similar payments under tenancies for accommodation which—
   - (i) is let by the same type of landlord;
-  - (ii) is in the same local authority area (but see paragraph 4)[^key-2897334716ab8f65766f5b37071d03e5] ;
+  - (ii) is in the same local authority area (but see paragraph 4)[^c-2897334716ab8f65766f5b37071d03e5] ;
   - (iii) has the same number of bedrooms; and
   - (iv) is in the same reasonable state of repair,
 
@@ -365,7 +365,7 @@ Article 5
   - (ii) any payments for services performed or facilities (including the use of furniture) provided for, or rights made available to, the tenant which are not service charge payments; and
 - (c) where the accommodation is let at an Affordable Rent, assume that the rent is reasonable.
 
-**4.** Where the rent officer is not satisfied that the local authority area contains sufficient accommodation to allow a determination of the housing payments which a landlord might reasonably have been expected to charge, the rent officer may have regard to the level of housing payments in one adjoining local authority area or one local authority area adjoining an adjoining local authority area or, if the rent officer considers it necessary, more than one such area[^key-856a3af1b9dfeeaaf6fc24f55bb30941] .
+**4.** Where the rent officer is not satisfied that the local authority area contains sufficient accommodation to allow a determination of the housing payments which a landlord might reasonably have been expected to charge, the rent officer may have regard to the level of housing payments in one adjoining local authority area or one local authority area adjoining an adjoining local authority area or, if the rent officer considers it necessary, more than one such area[^c-856a3af1b9dfeeaaf6fc24f55bb30941] .
 
 **5.** For the purposes of this Schedule—
 
@@ -407,114 +407,114 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2166188]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-5d867f3e80a85e9a02705b3953d10be6]: Textual amendment: Words in art. 2 inserted (8.1.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2014 (S.I. 2014/3126)](https://www.legislation.gov.uk/uksi/2014/3126), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3126/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/3126/article/4/2)
+[^c-5d867f3e80a85e9a02705b3953d10be6]: Textual amendment: Words in art. 2 inserted (8.1.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2014 (S.I. 2014/3126)](https://www.legislation.gov.uk/uksi/2014/3126), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3126/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/3126/article/4/2)
 
-[^key-e5a0aaf987f369602dcbb825abc6dd24]: Textual amendment: Words in art. 2 omitted (1.9.2013) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 (S.I. 2013/1544)](https://www.legislation.gov.uk/uksi/2013/1544), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1544/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1544/article/4/2)
+[^c-e5a0aaf987f369602dcbb825abc6dd24]: Textual amendment: Words in art. 2 omitted (1.9.2013) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 (S.I. 2013/1544)](https://www.legislation.gov.uk/uksi/2013/1544), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1544/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1544/article/4/2)
 
-[^key-ac780ba4995883e047c31485fa7c93c3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/382/article/2) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(a)(i)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/a/i)
+[^c-ac780ba4995883e047c31485fa7c93c3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/382/article/2) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(a)(i)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/a/i)
 
 [^c2166190]: Marginal citation: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50).
 
 [^c2166191]: Marginal citation: [1998 c.43](https://www.legislation.gov.uk/ukpga/1998/43).
 
-[^key-e46faca55c7825dcb81b556bfdc9e15c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/382/article/2) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(a)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/a/ii)
+[^c-e46faca55c7825dcb81b556bfdc9e15c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/382/article/2) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(a)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/a/ii)
 
 [^c2166192]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^c2166193]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c8c4d7b376f801a9d697db9361465edc]: Textual amendment: Art. 3(2A) inserted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/2)
+[^c-c8c4d7b376f801a9d697db9361465edc]: Textual amendment: Art. 3(2A) inserted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/2)
 
-[^key-6600ab52558ec26d1dc178c8daae96d8]: Textual amendment: Word in [art. 3(2A)](https://www.legislation.gov.uk/uksi/2013/382/article/3/2A) substituted (30.1.2020) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/27/article/4/2)
+[^c-6600ab52558ec26d1dc178c8daae96d8]: Textual amendment: Word in [art. 3(2A)](https://www.legislation.gov.uk/uksi/2013/382/article/3/2A) substituted (30.1.2020) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/27/article/4/2)
 
-[^key-2a8d6b3356cca7adf119fffb9539deb2]: Textual amendment: [Art. 3(6)(b)](https://www.legislation.gov.uk/uksi/2013/382/article/3/6/b) substituted (31.1.2022) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment and Modification) Order 2021 (S.I. 2021/1380)](https://www.legislation.gov.uk/uksi/2021/1380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1380/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1380/article/4/2)
+[^c-2a8d6b3356cca7adf119fffb9539deb2]: Textual amendment: [Art. 3(6)(b)](https://www.legislation.gov.uk/uksi/2013/382/article/3/6/b) substituted (31.1.2022) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment and Modification) Order 2021 (S.I. 2021/1380)](https://www.legislation.gov.uk/uksi/2021/1380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1380/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1380/article/4/2)
 
 [^c2166194]: Marginal citation: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984). Article 4B was inserted by [S.I. 2003/2398](https://www.legislation.gov.uk/uksi/2003/2398) and amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217), 2007/2871, 2008/587, 2010/2836 and 2012/646. Schedule 3B was inserted by [S.I. 2007/2871](https://www.legislation.gov.uk/uksi/2007/2871) and amended by [S.I. 2008/3156](https://www.legislation.gov.uk/uksi/2008/3156), 2009/2459, 2010/2836 and 2012/646.
 
 [^c2166195]: Marginal citation: [S.I. 1997/1995](https://www.legislation.gov.uk/uksi/1997/1995). Article 4B was inserted by [S.I. 2003/2398](https://www.legislation.gov.uk/uksi/2003/2398) and amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217), 2007/2871, 2008/587, 2010/2836 and 2012/646. Schedule 3B was inserted by [S.I. 2007/2871](https://www.legislation.gov.uk/uksi/2007/2871) and amended by [S.I. 2008/3156](https://www.legislation.gov.uk/uksi/2008/3156), 2009/2459, 2010/2836 and 2012/646.
 
-[^key-1a88d6c39bdfbc00320939502167f8f3]: Textual amendment: Art. 3(8) inserted (26.1.2018) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2017 (S.I. 2017/1323)](https://www.legislation.gov.uk/uksi/2017/1323), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1323/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1323/article/4/2/b)
+[^c-1a88d6c39bdfbc00320939502167f8f3]: Textual amendment: Art. 3(8) inserted (26.1.2018) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2017 (S.I. 2017/1323)](https://www.legislation.gov.uk/uksi/2017/1323), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1323/article/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1323/article/4/2/b)
 
-[^key-a880f13f891a8d85df40bedbbda59e77]: Modification: Art. 4 modified (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations 2020 (S.I. 2020/397)](https://www.legislation.gov.uk/uksi/2020/397), [regs. 1](https://www.legislation.gov.uk/uksi/2020/397/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/2)
+[^c-a880f13f891a8d85df40bedbbda59e77]: Modification: Art. 4 modified (6.4.2020) by [The Social Security (Coronavirus) (Further Measures) Amendment Regulations 2020 (S.I. 2020/397)](https://www.legislation.gov.uk/uksi/2020/397), [regs. 1](https://www.legislation.gov.uk/uksi/2020/397/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/2)
 
-[^key-99711a4a3476aa8d5c54d46ec6b6d935]: Textual amendment: Art. 4(1) omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-99711a4a3476aa8d5c54d46ec6b6d935]: Textual amendment: Art. 4(1) omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-8480ba8f362019e354f73afc81284d4f]: Textual amendment: Art. 4(1): art. 4(2) renumbered as art. 4(1) (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/regulation/1)
+[^c-8480ba8f362019e354f73afc81284d4f]: Textual amendment: Art. 4(1): art. 4(2) renumbered as art. 4(1) (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/regulation/1)
 
-[^key-57b0102f7007d2ae79a68d8ebca100b2]: Textual amendment: Words in art. 4(2) substituted (1.9.2013) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 (S.I. 2013/1544)](https://www.legislation.gov.uk/uksi/2013/1544), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1544/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/1544/article/4/3/a)
+[^c-57b0102f7007d2ae79a68d8ebca100b2]: Textual amendment: Words in art. 4(2) substituted (1.9.2013) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2013 (S.I. 2013/1544)](https://www.legislation.gov.uk/uksi/2013/1544), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1544/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/1544/article/4/3/a)
 
-[^key-7ec848da5e2e6aef9909bb47c913b989]: Textual amendment: Word in art. 4(1) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/b) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-7ec848da5e2e6aef9909bb47c913b989]: Textual amendment: Word in art. 4(1) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/b) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-f2d8bbb58f8ffafa258ebbe512179723]: Textual amendment: Art. 4(2): art. 4(2A) renumbered as art. 4(2) (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-f2d8bbb58f8ffafa258ebbe512179723]: Textual amendment: Art. 4(2): art. 4(2A) renumbered as art. 4(2) (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/a) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-85a4ce3f685b56e9b0f36374eb58ed22]: Textual amendment: Art. 4(2A) substituted (8.1.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2014 (S.I. 2014/3126)](https://www.legislation.gov.uk/uksi/2014/3126), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3126/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/3126/article/4/3)
+[^c-85a4ce3f685b56e9b0f36374eb58ed22]: Textual amendment: Art. 4(2A) substituted (8.1.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2014 (S.I. 2014/3126)](https://www.legislation.gov.uk/uksi/2014/3126), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3126/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/3126/article/4/3)
 
-[^key-5ca27ca8d24b832aa83c50b39196aaa8]: Textual amendment: Word in art. 4(2) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/b) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-5ca27ca8d24b832aa83c50b39196aaa8]: Textual amendment: Word in art. 4(2) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/b) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-be98333430ee27fad1e4e9fbe98a3f50]: Textual amendment: Words in art. 4(2) added (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/a/i)
+[^c-be98333430ee27fad1e4e9fbe98a3f50]: Textual amendment: Words in art. 4(2) added (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/a/i)
 
-[^key-12a0d4f6ac190d1eec1cf5623df6f379]: Textual amendment: Art. 4(3)(4) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-12a0d4f6ac190d1eec1cf5623df6f379]: Textual amendment: Art. 4(3)(4) substituted (2.11.2015) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/2/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-c74578fa3d1548058fe94c3d7ed87559]: Textual amendment: Art. 4(3A) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/a/ii)
+[^c-c74578fa3d1548058fe94c3d7ed87559]: Textual amendment: Art. 4(3A) inserted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/a/ii)
 
 [^c2166196]: Marginal citation: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
-[^key-d0940ca0b9435cf0d0ac8283aeaa2e0e]: Modification: Sch. 1 modified (28.1.2021) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2020 (S.I. 2020/1519)](https://www.legislation.gov.uk/uksi/2020/1519), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1519/article/1), [4](https://www.legislation.gov.uk/uksi/2020/1519/article/4)
+[^c-d0940ca0b9435cf0d0ac8283aeaa2e0e]: Modification: Sch. 1 modified (28.1.2021) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2020 (S.I. 2020/1519)](https://www.legislation.gov.uk/uksi/2020/1519), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1519/article/1), [4](https://www.legislation.gov.uk/uksi/2020/1519/article/4)
 
-[^key-4f2bcb077811184670de8d0f736d4114]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2022) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment and Modification) Order 2021 (S.I. 2021/1380)](https://www.legislation.gov.uk/uksi/2021/1380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1380/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/1380/article/7)
+[^c-4f2bcb077811184670de8d0f736d4114]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2022) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment and Modification) Order 2021 (S.I. 2021/1380)](https://www.legislation.gov.uk/uksi/2021/1380), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1380/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/1380/article/7)
 
-[^key-2c80b7af49e48defbeb8ea41e67ced95]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2023) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2023 (S.I. 2023/6)](https://www.legislation.gov.uk/uksi/2023/6), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/6/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/6/article/4)
+[^c-2c80b7af49e48defbeb8ea41e67ced95]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2023) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2023 (S.I. 2023/6)](https://www.legislation.gov.uk/uksi/2023/6), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/6/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/6/article/4)
 
-[^key-095565c1734ea6dce9c0be3d1db2fb46]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2025) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2025 (S.I. 2025/5)](https://www.legislation.gov.uk/uksi/2025/5), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/5/article/1/1), [4](https://www.legislation.gov.uk/uksi/2025/5/article/4)
+[^c-095565c1734ea6dce9c0be3d1db2fb46]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (31.1.2025) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2025 (S.I. 2025/5)](https://www.legislation.gov.uk/uksi/2025/5), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/5/article/1/1), [4](https://www.legislation.gov.uk/uksi/2025/5/article/4)
 
-[^key-7df3514424048e82063cfb491fe00c5a]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (30.1.2026) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2026 (S.I. 2026/5)](https://www.legislation.gov.uk/uksi/2026/5), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/5/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/5/article/4)
+[^c-7df3514424048e82063cfb491fe00c5a]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/382/schedule/1) modified (30.1.2026) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Modification) Order 2026 (S.I. 2026/5)](https://www.legislation.gov.uk/uksi/2026/5), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/5/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/5/article/4)
 
-[^key-83d7dd9673414845dab8aa31a03eb5af]: Textual amendment: Sch. 1 para. 2 substituted (13.1.2014) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 (S.I. 2013/2978)](https://www.legislation.gov.uk/uksi/2013/2978), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2978/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/2978/article/4/3/a)
+[^c-83d7dd9673414845dab8aa31a03eb5af]: Textual amendment: Sch. 1 para. 2 substituted (13.1.2014) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 (S.I. 2013/2978)](https://www.legislation.gov.uk/uksi/2013/2978), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2978/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2013/2978/article/4/3/a)
 
-[^key-a6863168b5e7524e1cc081a209d62b08]: Textual amendment: Word in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/1) substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/a/i)
+[^c-a6863168b5e7524e1cc081a209d62b08]: Textual amendment: Word in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/1) substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/a/i)
 
-[^key-2acd811d66e3435c0b90d8493a952d8a]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/1) inserted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/a/ii)
+[^c-2acd811d66e3435c0b90d8493a952d8a]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/1) inserted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/a/ii)
 
-[^key-8c03b240e70659426e34de2d485c5401]: Textual amendment: Sch. 1 para. 2(2) substituted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/b)
+[^c-8c03b240e70659426e34de2d485c5401]: Textual amendment: Sch. 1 para. 2(2) substituted (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/4/3/b)
 
-[^key-a8ee758bc7e7fe4b40dc711e1b304076]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/i)
+[^c-a8ee758bc7e7fe4b40dc711e1b304076]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/i)
 
-[^key-99ca921b9ac7a89f5c743ab71c7a8249]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/ii)
+[^c-99ca921b9ac7a89f5c743ab71c7a8249]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/ii)
 
-[^key-9a372ef8130ac1b372e145c4b95c3f04]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/iii)
+[^c-9a372ef8130ac1b372e145c4b95c3f04]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/iii)
 
-[^key-46972fcf33bf796553b65c4c14b96770]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/iv)
+[^c-46972fcf33bf796553b65c4c14b96770]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/iv)
 
-[^key-2e0ce9d36ad899fefbd41b3564c171d6]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(v)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/v)
+[^c-2e0ce9d36ad899fefbd41b3564c171d6]: Textual amendment: Sum in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/2/2/b) table substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(2)(b)(v)](https://www.legislation.gov.uk/uksi/2024/11/article/4/2/b/v)
 
-[^key-d4662e69a029f09a3fa22309fb11403d]: Textual amendment: Sch. 1 para. 2(2) substituted for Sch. 1 paras. 2(2A)-(3A) (30.1.2020) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/27/article/4/3/a)
+[^c-d4662e69a029f09a3fa22309fb11403d]: Textual amendment: Sch. 1 para. 2(2) substituted for Sch. 1 paras. 2(2A)-(3A) (30.1.2020) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/27/article/4/3/a)
 
-[^key-326b13d4b452ffe6aab0d550e81f23d0]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/3) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(i)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/i)
+[^c-326b13d4b452ffe6aab0d550e81f23d0]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/3) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(i)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/i)
 
-[^key-3ce52f3321add80aed66ff39264aca7d]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/ii)
+[^c-3ce52f3321add80aed66ff39264aca7d]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/ii)
 
-[^key-65e0661108d22f91f78fe6adec7b55dc]: Textual amendment: Words in [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5/a) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(iii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/iii)
+[^c-65e0661108d22f91f78fe6adec7b55dc]: Textual amendment: Words in [Sch. 1 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5/a) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(iii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/iii)
 
-[^key-af36304c656325909fd96ed298f05b35]: Textual amendment: Words in [Sch. 1 para. 3(5)(c)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5/c) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(iv)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/iv)
+[^c-af36304c656325909fd96ed298f05b35]: Textual amendment: Words in [Sch. 1 para. 3(5)(c)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/5/c) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(iv)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/iv)
 
-[^key-99055b403845bd44f33c7b197547cff8]: Textual amendment: Sch. 1 para. 3(6) substituted (13.1.2014) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 (S.I. 2013/2978)](https://www.legislation.gov.uk/uksi/2013/2978), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2978/article/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2978/article/4/3/b/ii)
+[^c-99055b403845bd44f33c7b197547cff8]: Textual amendment: Sch. 1 para. 3(6) substituted (13.1.2014) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 (S.I. 2013/2978)](https://www.legislation.gov.uk/uksi/2013/2978), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2978/article/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2978/article/4/3/b/ii)
 
 [^c2166197]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-463bab219f68b6d8f5235ab9aa9c0d77]: Textual amendment: [Sch. 1 para. 3(11)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/11) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(v)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/v)
+[^c-463bab219f68b6d8f5235ab9aa9c0d77]: Textual amendment: [Sch. 1 para. 3(11)](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/3/11) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 28(b)(v)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28/b/v)
 
-[^key-03437bd6e04567ea768bd4561c23b639]: Textual amendment: Sch. 1 para. 4 omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(3)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/3/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-03437bd6e04567ea768bd4561c23b639]: Textual amendment: Sch. 1 para. 4 omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(3)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/3/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-ec1bb8ffd88659f67a94e11bf1582d78]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/5) substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/11/article/4/3)
+[^c-ec1bb8ffd88659f67a94e11bf1582d78]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/5) substituted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/11/article/4/3)
 
-[^key-e3b36933fdd029ad6afec819abe25add]: Textual amendment: Sch. 1 para. 5A omitted (30.1.2020) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/27/article/4/3/b)
+[^c-e3b36933fdd029ad6afec819abe25add]: Textual amendment: Sch. 1 para. 5A omitted (30.1.2020) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2020 (S.I. 2020/27)](https://www.legislation.gov.uk/uksi/2020/27), [arts. 1](https://www.legislation.gov.uk/uksi/2020/27/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/27/article/4/3/b)
 
-[^key-fc4d7d1c20b379f5d296bdf702042506]: Textual amendment: Sch. 1 para. 6 omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(3)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/3/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
+[^c-fc4d7d1c20b379f5d296bdf702042506]: Textual amendment: Sch. 1 para. 6 omitted (2.11.2015) by virtue of [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2015 (S.I. 2015/1753)](https://www.legislation.gov.uk/uksi/2015/1753), [art. 4(3)(c)](https://www.legislation.gov.uk/uksi/2015/1753/article/4/3/c) , [art. 1](https://www.legislation.gov.uk/uksi/2015/1753/article/1)
 
-[^key-878edc4a3a7fe956d5e4b943f438a837]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/7) and cross-heading inserted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/11/article/4/4)
+[^c-878edc4a3a7fe956d5e4b943f438a837]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/382/schedule/1/paragraph/7) and cross-heading inserted (31.1.2024) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Amendment) Order 2024 (S.I. 2024/11)](https://www.legislation.gov.uk/uksi/2024/11), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/11/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/11/article/4/4)
 
-[^key-2897334716ab8f65766f5b37071d03e5]: Textual amendment: Words in [Sch. 2 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2013/382/schedule/2/paragraph/3/a/ii) substituted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/4/a)
+[^c-2897334716ab8f65766f5b37071d03e5]: Textual amendment: Words in [Sch. 2 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2013/382/schedule/2/paragraph/3/a/ii) substituted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/4/a)
 
-[^key-856a3af1b9dfeeaaf6fc24f55bb30941]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/382/schedule/2/paragraph/4) substituted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/4/b)
+[^c-856a3af1b9dfeeaaf6fc24f55bb30941]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/382/schedule/2/paragraph/4) substituted (23.1.2017) by [The Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2016 (S.I. 2016/1179)](https://www.legislation.gov.uk/uksi/2016/1179), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1179/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/1179/article/4/4/b)
 
 [^c2166198]: Marginal citation: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17). Section 194 was amended by [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844) and section 179 of, and Schedule 17 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 240. First excepted case[^key-3765773710cf3f9d40bdde5a43bf0d8b]
+## 240. First excepted case[^c-3765773710cf3f9d40bdde5a43bf0d8b]
 
 *Extent: N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3765773710cf3f9d40bdde5a43bf0d8b]: Commencement: [Rule 240](https://www.legislation.gov.uk/nisr/2026/11/rule/240) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3765773710cf3f9d40bdde5a43bf0d8b]: Commencement: [Rule 240](https://www.legislation.gov.uk/nisr/2026/11/rule/240) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

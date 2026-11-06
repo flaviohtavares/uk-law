@@ -126,7 +126,7 @@ Article 2
 - Nottingham Trent University
 - Oxford Brookes University
 - Plymouth University
-- Presbyterian Theological Faculty, Ireland[^key-e551adb8b005293c3bf03248d77e881e]
+- Presbyterian Theological Faculty, Ireland[^c-e551adb8b005293c3bf03248d77e881e]
 - Queen Margaret University, Edinburgh
 - Queen Mary University of London
 - Queen's University Belfast
@@ -259,4 +259,4 @@ Article 3(1) of the 1988 Order makes it an offence to grant, offer to grant, or 
 
 [^c22862761]: Marginal citation: S.R. [2005 No. 522](https://www.legislation.gov.uk/ukcm/2005/522)
 
-[^key-e551adb8b005293c3bf03248d77e881e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2018/8/schedule) inserted (23.7.2018) by [The Education (Recognised Bodies) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/139)](https://www.legislation.gov.uk/nisr/2018/139), [arts. 1](https://www.legislation.gov.uk/nisr/2018/139/article/1), [2](https://www.legislation.gov.uk/nisr/2018/139/article/2)
+[^c-e551adb8b005293c3bf03248d77e881e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2018/8/schedule) inserted (23.7.2018) by [The Education (Recognised Bodies) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/139)](https://www.legislation.gov.uk/nisr/2018/139), [arts. 1](https://www.legislation.gov.uk/nisr/2018/139/article/1), [2](https://www.legislation.gov.uk/nisr/2018/139/article/2)

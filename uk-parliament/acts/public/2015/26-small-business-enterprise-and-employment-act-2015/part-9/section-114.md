@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Company Directors Disqualification (Northern Ireland) Order 2002: bankruptcy, etc in England and Wales or Scotland[^key-20d8481f48ed208593f548ee3c7ee2fb]
+## 114. Company Directors Disqualification (Northern Ireland) Order 2002: bankruptcy, etc in England and Wales or Scotland[^c-20d8481f48ed208593f548ee3c7ee2fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ For paragraph (1) of Article 15 of the Company Directors Disqualification (North
 
 ## Annotations
 
-[^key-20d8481f48ed208593f548ee3c7ee2fb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2015/26/section/114) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/12))
+[^c-20d8481f48ed208593f548ee3c7ee2fb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2015/26/section/114) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/12))

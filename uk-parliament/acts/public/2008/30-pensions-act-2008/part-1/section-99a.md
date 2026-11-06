@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies for the purposes of paragraph (a) of the definition[^key-729b274d5892bae6d48e02df86639c05] of “money purchase benefits” in section 99.
+(1) This section applies for the purposes of paragraph (a) of the definition[^c-729b274d5892bae6d48e02df86639c05] of “money purchase benefits” in section 99.
 
 (2) A benefit other than a pension in payment falls within this section if its rate or amount is calculated solely by reference to assets which (because of the nature of the calculation) must necessarily suffice for the purposes of its provision to or in respect of the member.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c21683801]: Textual amendment: S. 99A inserted (retrospective to 5.7.2010) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 29(4)(8)](https://www.legislation.gov.uk/ukpga/2011/19/section/29/4/8); [S.I. 2010/10](https://www.legislation.gov.uk/uksi/2010/10), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/10/article/2/c)
 
-[^key-729b274d5892bae6d48e02df86639c05]: Textual amendment: Words in [s. 99A(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/99A/1) substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/1/schedule/1/paragraph/7); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-729b274d5892bae6d48e02df86639c05]: Textual amendment: Words in [s. 99A(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/99A/1) substituted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/1/schedule/1/paragraph/7); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

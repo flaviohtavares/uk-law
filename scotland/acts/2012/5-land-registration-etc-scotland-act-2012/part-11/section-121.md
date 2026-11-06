@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Crown application[^key-c752b366ad00783e6e59f4f669107d27]
+## 121. Crown application[^c-c752b366ad00783e6e59f4f669107d27]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c752b366ad00783e6e59f4f669107d27]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2012/5/section/121) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c752b366ad00783e6e59f4f669107d27]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2012/5/section/121) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

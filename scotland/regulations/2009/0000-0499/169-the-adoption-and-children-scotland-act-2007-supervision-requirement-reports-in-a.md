@@ -32,7 +32,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS
 
-The Adoption and Children (Scotland) Act 2007 (Supervision Requirement Reports in Applications for Permanence Orders) Regulations 2009 (revoked)[^key-7da27e281d3476dd614d8740f86f4bfb]
+The Adoption and Children (Scotland) Act 2007 (Supervision Requirement Reports in Applications for Permanence Orders) Regulations 2009 (revoked)[^c-7da27e281d3476dd614d8740f86f4bfb]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 28th September 2009
 
-[^key-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7da27e281d3476dd614d8740f86f4bfb]
+## 1. Citation and commencement[^c-7da27e281d3476dd614d8740f86f4bfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7da27e281d3476dd614d8740f86f4bfb]
+## 2. Interpretation[^c-7da27e281d3476dd614d8740f86f4bfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supervision requirement report[^key-7da27e281d3476dd614d8740f86f4bfb]
+## 3. Supervision requirement report[^c-7da27e281d3476dd614d8740f86f4bfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7da27e281d3476dd614d8740f86f4bfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7da27e281d3476dd614d8740f86f4bfb]: Textual amendment: Regulations revoked (2.6.2014) by [The Adoption and Children (Scotland) Act 2007 (Compulsory Supervision Order Reports in Applications for Permanence Orders) Regulations 2014 (S.S.I. 2014/113)](https://www.legislation.gov.uk/ssi/2014/113), [regs. 1](https://www.legislation.gov.uk/ssi/2014/113/regulation/1), [4](https://www.legislation.gov.uk/ssi/2014/113/regulation/4)
+[^c-7da27e281d3476dd614d8740f86f4bfb]: Textual amendment: Regulations revoked (2.6.2014) by [The Adoption and Children (Scotland) Act 2007 (Compulsory Supervision Order Reports in Applications for Permanence Orders) Regulations 2014 (S.S.I. 2014/113)](https://www.legislation.gov.uk/ssi/2014/113), [regs. 1](https://www.legislation.gov.uk/ssi/2014/113/regulation/1), [4](https://www.legislation.gov.uk/ssi/2014/113/regulation/4)

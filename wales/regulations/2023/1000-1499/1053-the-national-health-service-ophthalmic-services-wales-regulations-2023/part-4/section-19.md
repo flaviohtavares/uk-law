@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Contingent removal from a supplementary list[^key-7edd3b0327220d6881c02b4478c78ecb]
+## 19. Contingent removal from a supplementary list[^c-7edd3b0327220d6881c02b4478c78ecb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7edd3b0327220d6881c02b4478c78ecb]: Commencement: Reg. 19 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-7edd3b0327220d6881c02b4478c78ecb]: Commencement: Reg. 19 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

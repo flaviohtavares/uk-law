@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 247. Applications under section 176A(5) to disapply section 176A[^key-df426306fcbc1f739b643701326ca243]
+## 247. Applications under section 176A(5) to disapply section 176A[^c-df426306fcbc1f739b643701326ca243]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df426306fcbc1f739b643701326ca243]: Commencement: [Rule 247](https://www.legislation.gov.uk/uksi/2011/1301/rule/247) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-df426306fcbc1f739b643701326ca243]: Commencement: [Rule 247](https://www.legislation.gov.uk/uksi/2011/1301/rule/247) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

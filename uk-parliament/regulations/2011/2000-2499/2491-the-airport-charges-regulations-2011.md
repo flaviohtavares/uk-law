@@ -89,7 +89,7 @@ The Secretary of State being a Minister designated [^c21074431]for the purposes 
 - “**airport operator**” means the person for the time being having the management of an airport or, in relation to a particular airport, the management of that airport;
 - “**airport user**” means, in relation to any airport, a person responsible for the carriage of passengers, mail or freight by air to or from the airport;
 - “**the CAA**” means the Civil Aviation Authority;
-- [^key-f9e5665b1b5e4d0fd0ec8116a532dab4]...
+- [^c-f9e5665b1b5e4d0fd0ec8116a532dab4]...
 - “**operator**”, in relation to an aircraft, means the person for the time being having management of the aircraft;
 - “**a passenger movement**” has the same meaning as in the Airport Charges Directive;
 - “**regulated airport**” has the meaning given in regulation 4;
@@ -103,7 +103,7 @@ The Secretary of State being a Minister designated [^c21074431]for the purposes 
 - (c) charges payable for services provided for airport users as described in the Annex to Council Directive [96/67/EC](https://www.legislation.gov.uk/european/directive/1996/0067) of 15th October 1996 on access to the groundhandling market at Community airports [^c21074511];
 - (d) charges payable by virtue of section 73 of the Transport Act 2000 [^c21074521] (charges for chargeable air services);
 - (e) charges referred to in Regulation [(EC) No. 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) of the European Parliament and of the Council of 5th July 2006 which are levied for the funding of assistance to disabled passengers and passengers with reduced mobility [^c21074531]; and
-- (f)[^key-984f2f827e896dbb244b94edab36c21d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-984f2f827e896dbb244b94edab36c21d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Regulated airports
 
@@ -145,7 +145,7 @@ The Secretary of State being a Minister designated [^c21074431]for the purposes 
 
 (3) The CAA may amend and re-publish any list published in accordance with this Regulation.
 
-(4)[^key-a776919d9041c1b55015c6fc413e706e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a776919d9041c1b55015c6fc413e706e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Consultation about airport charges and services
 
@@ -383,27 +383,27 @@ Schedule 1 (review of penalties placed on airport users) has effect in respect o
 - (a) the order were a compliance order under Article 39(3)(a) or (5) of that Order, and
 - (b) the references in paragraphs (1) and (2) of that article to Article 39 of that Order were references to regulation 21 of these Regulations.
 
-## PART 7 — Designation under the Airports Act 1986 etc.[^key-274b50b3bcafaaa2c1da7a161da30a50]
+## PART 7 — Designation under the Airports Act 1986 etc.[^c-274b50b3bcafaaa2c1da7a161da30a50]
 
 **No longer in force.**
 
-### 23. Examination of competition under the Airports Act 1986[^key-274b50b3bcafaaa2c1da7a161da30a50]
+### 23. Examination of competition under the Airports Act 1986[^c-274b50b3bcafaaa2c1da7a161da30a50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Transitional provision[^key-274b50b3bcafaaa2c1da7a161da30a50]
+### 24. Transitional provision[^c-274b50b3bcafaaa2c1da7a161da30a50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 8 — Designation under the Airports (Northern Ireland) Order 1994 etc.[^key-dc53aaaa55e96775d265eeef8e73e5bc]
+## PART 8 — Designation under the Airports (Northern Ireland) Order 1994 etc.[^c-dc53aaaa55e96775d265eeef8e73e5bc]
 
 **No longer in force.**
 
-### 25. Examination of competition under the Airports (Northern Ireland) Order 1994[^key-dc53aaaa55e96775d265eeef8e73e5bc]
+### 25. Examination of competition under the Airports (Northern Ireland) Order 1994[^c-dc53aaaa55e96775d265eeef8e73e5bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Transitional provision[^key-dc53aaaa55e96775d265eeef8e73e5bc]
+### 26. Transitional provision[^c-dc53aaaa55e96775d265eeef8e73e5bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -456,15 +456,15 @@ Schedule 3 (restriction on the disclosure of information) has effect.
 The CAA must publish an annual report concerning the exercise of its functions under—
 
 - (a) these Regulations,
-- (b)[^key-24b0f00e3d16b1bf51c075693276aa45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-24b0f00e3d16b1bf51c075693276aa45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-24b0f00e3d16b1bf51c075693276aa45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-24b0f00e3d16b1bf51c075693276aa45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 33. Service of documents by the CAA
 
 (1) Anything requiring to be served on any person, or any notice to be given, by the CAA under these Regulations must be set out in a notice in writing which may be served or given either—
 
 - (a) by delivering it to that person,
-- (b) by leaving it at that person's[^key-e58c7e70fcf9bb7a5c3d0975c29724fc] proper address, or
+- (b) by leaving it at that person's[^c-e58c7e70fcf9bb7a5c3d0975c29724fc] proper address, or
 - (c) by post.
 
 (2) For the purposes of paragraph (1)—
@@ -665,7 +665,7 @@ A full impact assessment of the effect that the instrument will have on the cost
 
 [^c21074481]: Marginal citation: OJ L 70, 14.03.09, p.11.
 
-[^key-f9e5665b1b5e4d0fd0ec8116a532dab4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/3/1) omitted (31.12.2020) by virtue of [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/4/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9e5665b1b5e4d0fd0ec8116a532dab4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/3/1) omitted (31.12.2020) by virtue of [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/4/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21074491]: Marginal citation: Sections 38A to 38C were inserted by the [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [s. 4](https://www.legislation.gov.uk/ukpga/2006/34/section/4).
 
@@ -677,17 +677,17 @@ A full impact assessment of the effect that the instrument will have on the cost
 
 [^c21074531]: Marginal citation: OJ L 204, 26.07.06, p. 1.
 
-[^key-984f2f827e896dbb244b94edab36c21d]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/3/2/f) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [391](https://www.legislation.gov.uk/uksi/2019/459/regulation/391); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-984f2f827e896dbb244b94edab36c21d]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/3/2/f) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [391](https://www.legislation.gov.uk/uksi/2019/459/regulation/391); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a776919d9041c1b55015c6fc413e706e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/6/4) omitted (31.12.2020) by virtue of [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a776919d9041c1b55015c6fc413e706e]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/6/4) omitted (31.12.2020) by virtue of [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-274b50b3bcafaaa2c1da7a161da30a50]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2011/2491/part/7) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/5)
+[^c-274b50b3bcafaaa2c1da7a161da30a50]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2011/2491/part/7) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/5)
 
-[^key-dc53aaaa55e96775d265eeef8e73e5bc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2011/2491/part/8) omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/7/a)
+[^c-dc53aaaa55e96775d265eeef8e73e5bc]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2011/2491/part/8) omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/7/a)
 
-[^key-24b0f00e3d16b1bf51c075693276aa45]: Textual amendment: Reg. 32(b)(c) omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/7/b)
+[^c-24b0f00e3d16b1bf51c075693276aa45]: Textual amendment: Reg. 32(b)(c) omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/7/b)
 
-[^key-e58c7e70fcf9bb7a5c3d0975c29724fc]: Textual amendment: Words in [reg. 33(1)(b)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/33/1/b) substituted (10.11.2018) by [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/3/2)
+[^c-e58c7e70fcf9bb7a5c3d0975c29724fc]: Textual amendment: Words in [reg. 33(1)(b)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/33/1/b) substituted (10.11.2018) by [The Airport Charges (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1081)](https://www.legislation.gov.uk/uksi/2018/1081), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/1081/regulation/3/2)
 
 [^c21074591]: Marginal citation: [Section 2(2)](https://www.legislation.gov.uk/uksi/2011/2491/section/2/2) was amended by section 72 of the [Airports Act 1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31).
 

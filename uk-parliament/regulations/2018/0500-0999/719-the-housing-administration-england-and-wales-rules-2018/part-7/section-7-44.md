@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.44. Gazette – as evidence, variations and errors[^key-569ad14c2642416d6192e83013a8947e]
+## 7.44. Gazette – as evidence, variations and errors[^c-569ad14c2642416d6192e83013a8947e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-569ad14c2642416d6192e83013a8947e]: Commencement: Rule 7.44 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-569ad14c2642416d6192e83013a8947e]: Commencement: Rule 7.44 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

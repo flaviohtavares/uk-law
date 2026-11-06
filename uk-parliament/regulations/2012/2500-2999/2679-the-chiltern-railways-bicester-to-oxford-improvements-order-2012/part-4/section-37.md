@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Traffic regulation[^key-7fbf92fbb49d5e34b69c62acd16e7b1b]
+## 37. Traffic regulation[^c-7fbf92fbb49d5e34b69c62acd16e7b1b]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7fbf92fbb49d5e34b69c62acd16e7b1b]: Commencement: Art. 37 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-7fbf92fbb49d5e34b69c62acd16e7b1b]: Commencement: Art. 37 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00025]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 

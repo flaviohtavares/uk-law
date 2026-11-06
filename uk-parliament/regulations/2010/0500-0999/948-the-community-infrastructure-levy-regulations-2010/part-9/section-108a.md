@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108A. Power to require information[^key-1687df256cfe04fa1e9e50f006ce95ea]
+## 108A. Power to require information[^c-1687df256cfe04fa1e9e50f006ce95ea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A collecting authority may require any owner of a material interest in any relev
 
 ## Annotations
 
-[^key-1687df256cfe04fa1e9e50f006ce95ea]: Textual amendment: [Reg. 108A](https://www.legislation.gov.uk/uksi/2010/948/regulation/108A) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2011/987/regulation/10/1)
+[^c-1687df256cfe04fa1e9e50f006ce95ea]: Textual amendment: [Reg. 108A](https://www.legislation.gov.uk/uksi/2010/948/regulation/108A) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2011/987/regulation/10/1)

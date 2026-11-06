@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. A claimant who works to be treated as not entitled to an employment and support allowance[^key-2331006e0cf54e4e161870e519632574]
+## 40. A claimant who works to be treated as not entitled to an employment and support allowance[^c-2331006e0cf54e4e161870e519632574]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
   - (i) a member of the Disability Living Allowance Advisory Board, or
   - (ii) a panel member with a disability qualification, as defined in regulation 1(2) of the Decisions and Appeals Regulations, acting as a member of an appeal tribunal constituted under Chapter 1 of Part 2 of the 1998 Order;
 - (c) domestic tasks carried out in the claimant’s own home or the care of a relative;
-- (d) duties undertaken in caring for another person who is accommodated with the claimant by virtue of arrangements made under any of the provisions referred to in paragraph 27 or 28 of Schedule 8 (sums to be disregarded in the calculation of income other than earnings) or[^key-4d4ffb18d988c006d82643210a45aa9c] where the claimant is in receipt of any payment specified in those paragraphs;
+- (d) duties undertaken in caring for another person who is accommodated with the claimant by virtue of arrangements made under any of the provisions referred to in paragraph 27 or 28 of Schedule 8 (sums to be disregarded in the calculation of income other than earnings) or[^c-4d4ffb18d988c006d82643210a45aa9c] where the claimant is in receipt of any payment specified in those paragraphs;
 - (e) any activity the claimant undertakes during an emergency to protect another person or to prevent serious damage to property or livestock; or
 - (f) any of the categories of work set out in regulation 45 (exempt work)*.*
 
@@ -54,6 +54,6 @@ is to be treated as not entitled to an employment and support allowance by virtu
 
 ## Annotations
 
-[^key-2331006e0cf54e4e161870e519632574]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2008/280/regulation/40) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-2331006e0cf54e4e161870e519632574]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2008/280/regulation/40) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-4d4ffb18d988c006d82643210a45aa9c]: Textual amendment: Word in [reg. 40(2)(d)](https://www.legislation.gov.uk/nisr/2008/280/regulation/40/2/d) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(20)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/20)
+[^c-4d4ffb18d988c006d82643210a45aa9c]: Textual amendment: Word in [reg. 40(2)(d)](https://www.legislation.gov.uk/nisr/2008/280/regulation/40/2/d) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(20)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Time limit for exercise of authority to acquire land compulsorily[^key-7e566f65981131b032caba3379756575]
+## 19. Time limit for exercise of authority to acquire land compulsorily[^c-7e566f65981131b032caba3379756575]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e566f65981131b032caba3379756575]: Commencement: Art. 19 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-7e566f65981131b032caba3379756575]: Commencement: Art. 19 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

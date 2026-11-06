@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Notional income[^key-03775d2111a476289e80a688cdf52ac8]
+## 30. Notional income[^c-03775d2111a476289e80a688cdf52ac8]
 
 *Extent: N.I.*
 
@@ -82,7 +82,7 @@ the relevant person shall be treated as possessing such earnings (if any) as is 
 
 ## Annotations
 
-[^key-03775d2111a476289e80a688cdf52ac8]: Commencement: Reg. 30 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-03775d2111a476289e80a688cdf52ac8]: Commencement: Reg. 30 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00044]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); the relevant amending regulations are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1990 No. 442](https://www.legislation.gov.uk/nisr/1990/442), [S.R. 1993 No. 145](https://www.legislation.gov.uk/nisr/1993/145), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111)
 

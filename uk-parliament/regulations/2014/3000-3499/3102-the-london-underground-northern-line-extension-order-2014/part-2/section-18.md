@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Protective works to buildings[^key-88c4aa6965933e0f4be4af9deedfebb7]
+## 18. Protective works to buildings[^c-88c4aa6965933e0f4be4af9deedfebb7]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ LUL must compensate the owners and occupiers of the building for any damage sust
 
 ## Annotations
 
-[^key-88c4aa6965933e0f4be4af9deedfebb7]: Commencement: Art. 18 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-88c4aa6965933e0f4be4af9deedfebb7]: Commencement: Art. 18 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00032]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

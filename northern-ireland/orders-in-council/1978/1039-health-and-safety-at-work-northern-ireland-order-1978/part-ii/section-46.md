@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the Executive proposes to submit under Article 13 (1A)( *c*) any such proposals as are mentioned in paragraph (1) except proposals for the making of regulations under Article 40(2), it shall, before so submitting them, consult—
 
-- (a) any government department or other body that appears to the Executive to be appropriate (and, in particular, in the case of proposals for the making of regulations under Article 20(2), any body representing district councils that so appears, and, in the case of proposals for the making of regulations relating to electro-magnetic radiations, the Department of Health and Social Services [^key-38a8978b8385bf5d867dea82219faf10]...);
+- (a) any government department or other body that appears to the Executive to be appropriate (and, in particular, in the case of proposals for the making of regulations under Article 20(2), any body representing district councils that so appears, and, in the case of proposals for the making of regulations relating to electro-magnetic radiations, the Department of Health and Social Services [^c-38a8978b8385bf5d867dea82219faf10]...);
 - (b) such government departments and other bodies, if any, as, in relation to any matter dealt with in the proposals, the Executive is required to consult, under this paragraph by virtue of directions given to it by the Department.
 
 ## Annotations
@@ -37,4 +37,4 @@ summary: ''
 
 [^c17537551]: Textual amendment: [1998 NI 18](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-38a8978b8385bf5d867dea82219faf10]: Textual amendment: Words in art. 46(3)(a) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/7/3)
+[^c-38a8978b8385bf5d867dea82219faf10]: Textual amendment: Words in art. 46(3)(a) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/7/3)

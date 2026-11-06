@@ -46,15 +46,15 @@ Coming into force
 
 10th January 2015
 
-[^key-1401b87a085795cec823d8dddad97a12]The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.[^key-a09ec4c50ce4bf20c01c728d69305fcd]
+[^c-1401b87a085795cec823d8dddad97a12]The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.[^c-a09ec4c50ce4bf20c01c728d69305fcd]
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 17(2) to (4) and 142(3) of the Financial Services (Banking Reform) Act 2013[^f00003], make the following Order:[^key-a09ec4c50ce4bf20c01c728d69305fcd]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 17(2) to (4) and 142(3) of the Financial Services (Banking Reform) Act 2013[^f00003], make the following Order:[^c-a09ec4c50ce4bf20c01c728d69305fcd]
 
-## 1. Citation and commencement[^key-b8c0ba950702ee78b90a2ae0f8bcbed8]
+## 1. Citation and commencement[^c-b8c0ba950702ee78b90a2ae0f8bcbed8]
 
 This Order may be cited as the Building Societies (Bail-in) Order 2014 and comes into force on 10th January 2015.
 
-## 2. Amendments to Part 1 of the Banking Act 2009[^key-f8eaf0147e525933de10a49ee1be37ec]
+## 2. Amendments to Part 1 of the Banking Act 2009[^c-f8eaf0147e525933de10a49ee1be37ec]
 
 (1) Part 1 of the Banking Act 2009[^f00004] is amended as follows.
 
@@ -273,7 +273,7 @@ This Order may be cited as the Building Societies (Bail-in) Order 2014 and comes
 
 .
 
-## 3. Charges[^key-5975aa2a66de8bafc329b4e6c3abae94]
+## 3. Charges[^c-5975aa2a66de8bafc329b4e6c3abae94]
 
 (1) Where—
 
@@ -314,7 +314,7 @@ section 859C(2) and (3) of the Companies Act 2006 (charges existing on property 
 - “resolution instrument” has the meaning given by section 12A of the Banking Act 2009;
 - “successor company” has the meaning given by section 84D(8) of the Banking Act 2009.
 
-## 4. Amendment to Building Societies Act 1986[^key-4193123e7c3824ffb9591fb0c8402f83]
+## 4. Amendment to Building Societies Act 1986[^c-4193123e7c3824ffb9591fb0c8402f83]
 
 (1) Section 90D of the Building Societies Act 1986[^f00045] (notice to the FCA and the PRA) is amended as follows.
 
@@ -371,7 +371,7 @@ section 859C(2) and (3) of the Companies Act 2006 (charges existing on property 
 
 .
 
-## 5. Amendment to the Building Societies (Insolvency and Special Administration) Order 2009[^key-5df5aaed1a51de12060d3eeb443df259]
+## 5. Amendment to the Building Societies (Insolvency and Special Administration) Order 2009[^c-5df5aaed1a51de12060d3eeb443df259]
 
 In Schedule 1 to the Building Societies (Insolvency and Special Administration) Order 2009[^f00048] (modified application of Parts 2 and 3 of the Banking Act 2009 to building societies), after paragraph 32 insert—
 
@@ -388,7 +388,7 @@ In Schedule 1 to the Building Societies (Insolvency and Special Administration) 
 
 .
 
-## 6. Amendment to the Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014[^key-fde9c7c4ccf78d9a04ce96949a9ee69d]
+## 6. Amendment to the Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014[^c-fde9c7c4ccf78d9a04ce96949a9ee69d]
 
 In regulation 12 of the Banking Act 2009 (Mandatory Compensation Arrangements Following Bail-in) Regulations 2014[^f00050] (application to building societies), after paragraph (2) insert—
 
@@ -405,7 +405,7 @@ In regulation 12 of the Banking Act 2009 (Mandatory Compensation Arrangements Fo
 
 .
 
-## 7. Review[^key-1401b87a085795cec823d8dddad97a12]
+## 7. Review[^c-1401b87a085795cec823d8dddad97a12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -446,19 +446,19 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 ## Annotations
 
-[^key-1401b87a085795cec823d8dddad97a12]: Textual amendment: Order revoked (14.12.2023 for the revocation of art. 7) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/1), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(ix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/ix)
+[^c-1401b87a085795cec823d8dddad97a12]: Textual amendment: Order revoked (14.12.2023 for the revocation of art. 7) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/1), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(ix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/ix)
 
 [^f00001]: Footnote: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under s. 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed in Brussels on 17th March 1993 (Cm 2183).
 
-[^key-a09ec4c50ce4bf20c01c728d69305fcd]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a09ec4c50ce4bf20c01c728d69305fcd]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00003]: Footnote: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-b8c0ba950702ee78b90a2ae0f8bcbed8]: Commencement: Art. 1 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-b8c0ba950702ee78b90a2ae0f8bcbed8]: Commencement: Art. 1 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
-[^key-f8eaf0147e525933de10a49ee1be37ec]: Commencement: Art. 2 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-f8eaf0147e525933de10a49ee1be37ec]: Commencement: Art. 2 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
 [^f00004]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -536,7 +536,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00041]: Footnote: Section 103 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [2009/805](https://www.legislation.gov.uk/uksi/2009/805) and [2013/496](https://www.legislation.gov.uk/uksi/2013/496).
 
-[^key-5975aa2a66de8bafc329b4e6c3abae94]: Commencement: Art. 3 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-5975aa2a66de8bafc329b4e6c3abae94]: Commencement: Art. 3 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
 [^f00042]: Footnote: Sections 859A and 859C were inserted by [S.I. 2013/600](https://www.legislation.gov.uk/uksi/2013/600).
 
@@ -544,7 +544,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00044]: Footnote: Sections 859K, 859L and 859O were inserted by [S.I. 2013/6000](https://www.legislation.gov.uk/uksi/2013/6000).
 
-[^key-4193123e7c3824ffb9591fb0c8402f83]: Commencement: Art. 4 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-4193123e7c3824ffb9591fb0c8402f83]: Commencement: Art. 4 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
 [^f00045]: Footnote: Section 90D was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805) and amended by [S.I. 2013/496](https://www.legislation.gov.uk/uksi/2013/496).
 
@@ -552,12 +552,12 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00047]: Footnote: Section 90C was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
-[^key-5df5aaed1a51de12060d3eeb443df259]: Commencement: Art. 5 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-5df5aaed1a51de12060d3eeb443df259]: Commencement: Art. 5 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
 [^f00048]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
 [^f00049]: Footnote: Section 152A was inserted by paragraph 29 of Schedule 2 to the Financial Services (Banking Reform) Act 2013.
 
-[^key-fde9c7c4ccf78d9a04ce96949a9ee69d]: Commencement: Art. 6 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
+[^c-fde9c7c4ccf78d9a04ce96949a9ee69d]: Commencement: Art. 6 in force at 10.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1)
 
 [^f00050]: Footnote: [S.I. 2014/3330](https://www.legislation.gov.uk/uksi/2014/3330).

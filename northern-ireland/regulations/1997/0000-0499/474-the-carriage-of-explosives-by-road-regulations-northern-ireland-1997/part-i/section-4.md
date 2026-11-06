@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Armed forces etc[^key-2eeccbabb5cfaad985e03841c1976cba]
+## 4. Armed forces etc[^c-2eeccbabb5cfaad985e03841c1976cba]
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ and includes a vehicle which has been provided under any kind of agreement or ar
 
 ## Annotations
 
-[^key-2eeccbabb5cfaad985e03841c1976cba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/474/regulation/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-2eeccbabb5cfaad985e03841c1976cba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/474/regulation/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00017]: Footnote: [S.R. 1995 No. 449](https://www.legislation.gov.uk/nisr/1995/449)
 

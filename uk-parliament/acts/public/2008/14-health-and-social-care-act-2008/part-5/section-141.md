@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-58e41f93d2eca7531289f65c2b98d0a9] In section 164 of the National Health Service Act 2006 (remuneration for persons providing pharmaceutical services)—
+(1)[^c-58e41f93d2eca7531289f65c2b98d0a9] In section 164 of the National Health Service Act 2006 (remuneration for persons providing pharmaceutical services)—
 
 - (a) after subsection (4) insert—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58e41f93d2eca7531289f65c2b98d0a9]: Commencement: [S. 141(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/141/1) in force at 1.4.2013 by [S.I. 2013/159](https://www.legislation.gov.uk/uksi/2013/159), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/159/article/2/a)
+[^c-58e41f93d2eca7531289f65c2b98d0a9]: Commencement: [S. 141(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/141/1) in force at 1.4.2013 by [S.I. 2013/159](https://www.legislation.gov.uk/uksi/2013/159), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/159/article/2/a)

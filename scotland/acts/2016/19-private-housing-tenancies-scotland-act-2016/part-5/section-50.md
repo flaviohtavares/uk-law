@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Termination by notice to leave and tenant leaving[^key-2d199a751dfbcf2ab42698631bc53bc4]
+## 50. Termination by notice to leave and tenant leaving[^c-2d199a751dfbcf2ab42698631bc53bc4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d199a751dfbcf2ab42698631bc53bc4]: Commencement: S. 50 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-2d199a751dfbcf2ab42698631bc53bc4]: Commencement: S. 50 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

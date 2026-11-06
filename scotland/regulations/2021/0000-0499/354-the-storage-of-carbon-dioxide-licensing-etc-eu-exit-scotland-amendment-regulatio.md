@@ -48,15 +48,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-672fe82210d9d15c2787668a87090b64]
+## 1. Citation and commencement[^c-672fe82210d9d15c2787668a87090b64]
 
 These Regulations may be cited as the Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Regulations 2021 and come into force on 1 December 2021.
 
-## 2. Amendment of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^key-9fe7ab14a62f76f0cea7b36bf2eb7fe2]
+## 2. Amendment of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^c-9fe7ab14a62f76f0cea7b36bf2eb7fe2]
 
 The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f00002] are amended in accordance with regulations 3 to 9.
 
-**3.**[^key-95c64de539e2ccdcbc7ed70be5445471] In regulation 1 (citation, commencement and interpretation)—
+**3.**[^c-95c64de539e2ccdcbc7ed70be5445471] In regulation 1 (citation, commencement and interpretation)—
 
 - (a) in paragraph (2)—
   - (i) at the end of sub-paragraph (a) omit “and”, and
@@ -93,14 +93,14 @@ The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f000
 
   .
 
-**4.**[^key-c11c6ef85d251c0c42dd874486a4e6a0] In regulation 6 (applications for a storage permit)—
+**4.**[^c-c11c6ef85d251c0c42dd874486a4e6a0] In regulation 6 (applications for a storage permit)—
 
 - (a) in paragraph (3)—
   - (i) in sub-paragraph (e), for the words after “under” substitute “the Monitoring Regulation”,
   - (ii) in sub-paragraph (h), for “implementing” substitute “which before IP completion day implemented”, and
 - (b) omit paragraph (4).
 
-**5.**[^key-e1036d8b040870844a552b12f2ec0a5e] In regulation 7 (grant of storage permits)—
+**5.**[^c-e1036d8b040870844a552b12f2ec0a5e] In regulation 7 (grant of storage permits)—
 
 - (a) in paragraph (1)(b)—
   - (i) for “territories” substitute “territory”,
@@ -108,7 +108,7 @@ The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f000
 - (b) in paragraph (2), for “member State” substitute “state”, and
 - (c) omit paragraph (7).
 
-**6.**[^key-5527413e3b3a241c9f3fd3605565a06f] In regulation 11(4) (consequences of revocation of a storage permit)—
+**6.**[^c-5527413e3b3a241c9f3fd3605565a06f] In regulation 11(4) (consequences of revocation of a storage permit)—
 
 - (a) for sub-paragraph (d) substitute—
 
@@ -117,7 +117,7 @@ The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f000
   , and
 - (b) in sub-paragraph (e), after “under” insert “legislation which before IP completion day implemented”.
 
-**7.**[^key-c81a9a3a1c2c88b8881e9b0b7353b423] In regulation 13(5) (post-closure obligations)—
+**7.**[^c-c81a9a3a1c2c88b8881e9b0b7353b423] In regulation 13(5) (post-closure obligations)—
 
 - (a) in sub-paragraph (a), for “implementing” substitute “which before IP completion day implemented”, and
 - (b) for sub-paragraph (b) substitute—
@@ -126,9 +126,9 @@ The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f000
 
   .
 
-**8.**[^key-7b0d32210240acfc910ce62ce18d5394][^key-b772650825f2813d4c2af312b49b6d33] In paragraph 5(2) (interpretation) of schedule 1 (provisions to be included in a licence), after “Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013)” insert “as that Directive had effect immediately before IP completion day”.
+**8.**[^c-7b0d32210240acfc910ce62ce18d5394][^c-b772650825f2813d4c2af312b49b6d33] In paragraph 5(2) (interpretation) of schedule 1 (provisions to be included in a licence), after “Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013)” insert “as that Directive had effect immediately before IP completion day”.
 
-**9.**[^key-28bc6272a37da729ea45d1717ccba38e] In schedule 2 (provisions to be included in a storage permit)—
+**9.**[^c-28bc6272a37da729ea45d1717ccba38e] In schedule 2 (provisions to be included in a storage permit)—
 
 - (a) in paragraph 3(7) (reporting and notification of leakages and significant irregularities)—
   - (i) after “to” insert “emissions from”, and
@@ -155,28 +155,28 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), to which there are amendments not relevant to these Regulations.
 
-[^key-672fe82210d9d15c2787668a87090b64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-672fe82210d9d15c2787668a87090b64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-9fe7ab14a62f76f0cea7b36bf2eb7fe2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/354/regulation/2) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-9fe7ab14a62f76f0cea7b36bf2eb7fe2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/354/regulation/2) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2011/24](https://www.legislation.gov.uk/ssi/2011/24), amended by [S.S.I. 2011/457](https://www.legislation.gov.uk/ssi/2011/457) and [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-95c64de539e2ccdcbc7ed70be5445471]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/354/regulation/3) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-95c64de539e2ccdcbc7ed70be5445471]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/354/regulation/3) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
 [^f00003]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
 
 [^f00004]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12), to which there are amendments not relevant to these Regulations.
 
-[^key-c11c6ef85d251c0c42dd874486a4e6a0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/354/regulation/4) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-c11c6ef85d251c0c42dd874486a4e6a0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/354/regulation/4) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-e1036d8b040870844a552b12f2ec0a5e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/354/regulation/5) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-e1036d8b040870844a552b12f2ec0a5e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/354/regulation/5) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-5527413e3b3a241c9f3fd3605565a06f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/354/regulation/6) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-5527413e3b3a241c9f3fd3605565a06f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/354/regulation/6) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-c81a9a3a1c2c88b8881e9b0b7353b423]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/354/regulation/7) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-c81a9a3a1c2c88b8881e9b0b7353b423]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/354/regulation/7) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-7b0d32210240acfc910ce62ce18d5394]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-7b0d32210240acfc910ce62ce18d5394]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
 
-[^key-b772650825f2813d4c2af312b49b6d33]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) substituted (30.11.2021) by [The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/383)](https://www.legislation.gov.uk/ssi/2021/383), [regs. 1](https://www.legislation.gov.uk/ssi/2021/383/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/383/regulation/2/2)
+[^c-b772650825f2813d4c2af312b49b6d33]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) substituted (30.11.2021) by [The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/383)](https://www.legislation.gov.uk/ssi/2021/383), [regs. 1](https://www.legislation.gov.uk/ssi/2021/383/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/383/regulation/2/2)
 
-[^key-28bc6272a37da729ea45d1717ccba38e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/354/regulation/9) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+[^c-28bc6272a37da729ea45d1717ccba38e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/354/regulation/9) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)

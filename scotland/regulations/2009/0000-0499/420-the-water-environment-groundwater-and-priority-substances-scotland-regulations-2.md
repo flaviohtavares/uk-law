@@ -34,7 +34,7 @@ Environmental Protection
 
 Water
 
-The Water Environment (Groundwater and Priority Substances) (Scotland) Regulations 2009 (revoked)[^key-5ea9039cf09855c4ce5981a21816886b]
+The Water Environment (Groundwater and Priority Substances) (Scotland) Regulations 2009 (revoked)[^c-5ea9039cf09855c4ce5981a21816886b]
 
 Made
 
@@ -42,133 +42,133 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5ea9039cf09855c4ce5981a21816886b]
+## 1. Citation and commencement[^c-5ea9039cf09855c4ce5981a21816886b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5ea9039cf09855c4ce5981a21816886b]
+## 2. Interpretation[^c-5ea9039cf09855c4ce5981a21816886b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provisions of the Act which are modified for the purpose of giving effect to the Groundwater Directive 2006 and the Priority Substances Directive[^key-5ea9039cf09855c4ce5981a21816886b]
+## 3. Provisions of the Act which are modified for the purpose of giving effect to the Groundwater Directive 2006 and the Priority Substances Directive[^c-5ea9039cf09855c4ce5981a21816886b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^key-5ea9039cf09855c4ce5981a21816886b]
+## 4. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^c-5ea9039cf09855c4ce5981a21816886b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-5ea9039cf09855c4ce5981a21816886b]
+## 5. Revocations[^c-5ea9039cf09855c4ce5981a21816886b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Schedule 2 to the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^key-5ea9039cf09855c4ce5981a21816886b]
+## SCHEDULE 1 — Schedule 2 to the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^c-5ea9039cf09855c4ce5981a21816886b]
 
 Regulation 4(6)
 
-> **SCHEDULE 2 — Hazardous Substances[^key-5ea9039cf09855c4ce5981a21816886b]**
+> **SCHEDULE 2 — Hazardous Substances[^c-5ea9039cf09855c4ce5981a21816886b]**
 >
 > Regulation 2(1)
 >
-> **1.**[^key-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-5ea9039cf09855c4ce5981a21816886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Schedule 4 to the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^key-5ea9039cf09855c4ce5981a21816886b]
+## SCHEDULE 2 — Schedule 4 to the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^c-5ea9039cf09855c4ce5981a21816886b]
 
 Regulation 4(8)
 
-> **SCHEDULE 4[^key-5ea9039cf09855c4ce5981a21816886b]**
+> **SCHEDULE 4[^c-5ea9039cf09855c4ce5981a21816886b]**
 >
 > Regulation 15(1)
 >
-> **PART 1[^key-5ea9039cf09855c4ce5981a21816886b]**
+> **PART 1[^c-5ea9039cf09855c4ce5981a21816886b]**
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2[^key-5ea9039cf09855c4ce5981a21816886b]**
->
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> **PART 2[^c-5ea9039cf09855c4ce5981a21816886b]**
+>
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-5ea9039cf09855c4ce5981a21816886b]
+> [^c-5ea9039cf09855c4ce5981a21816886b]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^c-5ea9039cf09855c4ce5981a21816886b]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Revocations[^key-5ea9039cf09855c4ce5981a21816886b]
+## SCHEDULE 3 — Revocations[^c-5ea9039cf09855c4ce5981a21816886b]
 
 Regulation 5
 
@@ -176,8 +176,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ea9039cf09855c4ce5981a21816886b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ea9039cf09855c4ce5981a21816886b]: Textual amendment: Regulations revoked (15.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/3), [7](https://www.legislation.gov.uk/ssi/2015/211/regulation/7)
+[^c-5ea9039cf09855c4ce5981a21816886b]: Textual amendment: Regulations revoked (15.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/3), [7](https://www.legislation.gov.uk/ssi/2015/211/regulation/7)

@@ -31,10 +31,10 @@ summary: ''
 
 of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620) (revoked)
 
-[^key-52ad4a8a4abde353f8e31e018f2ae256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52ad4a8a4abde353f8e31e018f2ae256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-52ad4a8a4abde353f8e31e018f2ae256] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-52ad4a8a4abde353f8e31e018f2ae256] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52ad4a8a4abde353f8e31e018f2ae256]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52ad4a8a4abde353f8e31e018f2ae256]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

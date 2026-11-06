@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Publicity where an environmental statement is submitted after the planning application or application for infrastructure consent[^key-623a3d44904587a5054aee378b2b43f4]
+## 35. Publicity where an environmental statement is submitted after the planning application or application for infrastructure consent[^c-623a3d44904587a5054aee378b2b43f4]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Regulation 19 applies as if paragraphs (2) and (3) read—
 
 > (2) The applicant must publish in a local newspaper circulating in the locality in which the land is situated a notice stating—
 >
-> - (a) the applicant's name, that an application is being made to the Welsh Ministers for planning permission or infrastructure consent[^key-87056edd4261d5f87641c34f3c70d5ba] and the address of the Welsh Ministers;
+> - (a) the applicant's name, that an application is being made to the Welsh Ministers for planning permission or infrastructure consent[^c-87056edd4261d5f87641c34f3c70d5ba] and the address of the Welsh Ministers;
 > - (b) the date on which the application was made;
 > - (c) the address or location and the nature of the proposed development;
 > - (d) that a copy of the application, any accompanying plan and other documents, and a copy of the environmental statement may be inspected by members of the public at all reasonable hours;
@@ -40,6 +40,6 @@ Regulation 19 applies as if paragraphs (2) and (3) read—
 
 ## Annotations
 
-[^key-623a3d44904587a5054aee378b2b43f4]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/wsi/2017/567/regulation/35) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(33)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/33) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-623a3d44904587a5054aee378b2b43f4]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/wsi/2017/567/regulation/35) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(33)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/33) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
 
-[^key-87056edd4261d5f87641c34f3c70d5ba]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/wsi/2017/567/regulation/35) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(34)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/34) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-87056edd4261d5f87641c34f3c70d5ba]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/wsi/2017/567/regulation/35) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(34)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/34) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

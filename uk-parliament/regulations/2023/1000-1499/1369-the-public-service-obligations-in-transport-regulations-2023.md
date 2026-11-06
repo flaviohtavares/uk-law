@@ -50,13 +50,13 @@ In accordance with paragraph 5(1) of Schedule 5 to the 2023 Act, a draft of this
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation, commencement and extent[^key-ce5ec742bcc406d2623a5ba266ea7682]
+### 1. Citation, commencement and extent[^c-ce5ec742bcc406d2623a5ba266ea7682]
 
 (1) These Regulations may be cited as the Public Service Obligations in Transport Regulations 2023 and come into force on 25th December 2023.
 
 (2) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation[^key-d547d0ccd77ef439eb04dcc0b75ba0d8]
+### 2. Interpretation[^c-d547d0ccd77ef439eb04dcc0b75ba0d8]
 
 (1) In these Regulations—
 
@@ -116,7 +116,7 @@ In accordance with paragraph 5(1) of Schedule 5 to the 2023 Act, a draft of this
   - (i) one or more public authorities, or
   - (ii) a board more than half of the members of which are appointed by one or more public authorities.
 
-### 3. Scope[^key-3864b39efeef22fa9e64b972e89b844e]
+### 3. Scope[^c-3864b39efeef22fa9e64b972e89b844e]
 
 (1) Subject to paragraphs (2) and (4), these Regulations apply to national and international public passenger transport services by rail, other track-based modes and road.
 
@@ -134,7 +134,7 @@ In accordance with paragraph 5(1) of Schedule 5 to the 2023 Act, a draft of this
 
 (4) This regulation does not apply for the purposes of regulation 28 and Schedule 3.
 
-### 4. Objectives[^key-a07f6eff644c20f1ebc902329bba95a0]
+### 4. Objectives[^c-a07f6eff644c20f1ebc902329bba95a0]
 
 (1) When exercising functions under these Regulations, a competent authority in England or Wales must—
 
@@ -163,7 +163,7 @@ In accordance with paragraph 5(1) of Schedule 5 to the 2023 Act, a draft of this
 
 ## PART 2 — Content of public service contracts
 
-### 5. Interpretation of Part 2[^key-0a8f61166fa0d551b6f1e17677befb11]
+### 5. Interpretation of Part 2[^c-0a8f61166fa0d551b6f1e17677befb11]
 
 For the purposes of this Part—
 
@@ -177,7 +177,7 @@ For the purposes of this Part—
   - (i) a level of profit that is within a normal range for the sector, or
   - (ii) where a level of profit that is within a normal range for the sector cannot be determined, the level of profit that would be required by a typical, well-run undertaking adequately equipped with the means to provide the service, and active in the same sector considering whether or not to provide the service in question.
 
-### 6. Public service obligations[^key-6320463a5c387dfe19efda6887b756e9]
+### 6. Public service obligations[^c-6320463a5c387dfe19efda6887b756e9]
 
 (1) A competent authority must determine the specifications for public service obligations and the scope of their application taking into account—
 
@@ -191,7 +191,7 @@ For the purposes of this Part—
 
 (3) Subject to agreement of the competent authorities in whose geographical area the services are provided, public service obligations may concern cross-border public transport services, including those relating to local and regional transport needs.
 
-### 7. Public service contracts and general rules[^key-54475d89eb7dc65b9f70c06da9e3bc23]
+### 7. Public service contracts and general rules[^c-54475d89eb7dc65b9f70c06da9e3bc23]
 
 (1) Subject to paragraph (2), where a competent authority grants an operator an exclusive right or compensation in return for the discharge of a public service obligation, it must do so by means of a public service contract.
 
@@ -231,7 +231,7 @@ may be effected by a general rule.
 
 (7) A public service contract must require the public service operator to provide the competent authority with the information essential for the subsequent award of the public service contract, while ensuring the protection of commercially sensitive information.
 
-### 8. Subcontracting[^key-26b473f52031f67f9d1bd335fc535db5]
+### 8. Subcontracting[^c-26b473f52031f67f9d1bd335fc535db5]
 
 (1) A competent authority’s tender documents and public service contracts must clearly indicate—
 
@@ -244,13 +244,13 @@ may be effected by a general rule.
 
 (4) Where a public service contract entrusts an operator with the design, construction and operation of public passenger transport services, that contract may permit the operator to subcontract the whole of the operation of those services.
 
-### 9. Duration of public service contracts[^key-48761f731e0b65c5cd10661365236f00]
+### 9. Duration of public service contracts[^c-48761f731e0b65c5cd10661365236f00]
 
 (1) Unless paragraph (2) or (3) applies, the duration of a public service contract must not exceed—
 
 - (a) 10 years if the contract is awarded under regulation 17 (direct awards: rail), regulation 19 (direct award: rail due to structural and geographical characteristics) or regulation 20 (direct award: rail where operator manages the railway infrastructure);
 - (b) 2 years if the contract is awarded, extended or imposed under regulation 16 (emergency measures);
-- (c) 5 years, if the contract is awarded under regulation 16A (direct award of bus contracts to incumbent operators) or[^key-2f09daa5c3e806172a46d797d3e307b3] regulation 18 (temporary direct award: rail);
+- (c) 5 years, if the contract is awarded under regulation 16A (direct award of bus contracts to incumbent operators) or[^c-2f09daa5c3e806172a46d797d3e307b3] regulation 18 (temporary direct award: rail);
 - (d) for any other contract—
   - (i) if transport by either rail or other track-based modes, or any combination of rail and other track-based modes, represents more than 50% of the value of the public passenger transport services, 15 years;
   - (ii) otherwise, 10 years.
@@ -266,9 +266,9 @@ may be effected by a general rule.
 - (a) in the opinion of the competent authority a longer duration is justified by the amortisation of capital in relation to exceptional levels of investment in infrastructure, rolling stock or vehicles, and
 - (b) the public service contract is awarded in a fair competitive tendering procedure.
 
-(4) Paragraphs (2) and (3) do not apply to a contract made under regulation 16 (emergency measures) , regulation 16A (direct award of bus contracts to incumbent operators)[^key-c4241bd2f32f3691e16c91bb54e80197] or regulation 18 (temporary direct awards).
+(4) Paragraphs (2) and (3) do not apply to a contract made under regulation 16 (emergency measures) , regulation 16A (direct award of bus contracts to incumbent operators)[^c-c4241bd2f32f3691e16c91bb54e80197] or regulation 18 (temporary direct awards).
 
-### 10. Public service compensation for directly awarded contracts[^key-678fcf46312799c21e29668fe51f25ac]
+### 10. Public service compensation for directly awarded contracts[^c-678fcf46312799c21e29668fe51f25ac]
 
 (1) With the exception of a public service contract awarded under regulation 14 (award of contracts under competitive procedure), every public service contract awarded and general rule effected under these Regulations must, in order to demonstrate that overcompensation has been avoided, comply with this regulation.
 
@@ -287,7 +287,7 @@ may be effected by a general rule.
 - (a) effective management by the public service operator, and
 - (b) the provision of passenger transport services of an appropriately high standard of service quality.
 
-### 11. Rail rolling stock[^key-b170232524aaad3250307325ec3a2795]
+### 11. Rail rolling stock[^c-b170232524aaad3250307325ec3a2795]
 
 (1) Ahead of launching a competitive tendering procedure for a public service contract that requires the use of rolling stock, a competent authority must—
 
@@ -307,7 +307,7 @@ may be effected by a general rule.
 
 ## PART 3 — Award and modification of public service contracts
 
-### 12. Application and exclusions[^key-81fa86bc149e657285ed7224a88e9fd2]
+### 12. Application and exclusions[^c-81fa86bc149e657285ed7224a88e9fd2]
 
 (1) Unless paragraph (2) applies, a public service contract must be awarded in accordance with whichever of regulations 13 to 20 is applicable.
 
@@ -321,7 +321,7 @@ may be effected by a general rule.
   - (a) at least part of the consideration for that supply is a right for the supplier to exploit the services, and
   - (b) under the contract the public service operator is exposed to a real operating risk.
 
-### 13. Provision of passenger transport services by a competent local authority[^key-e2aa37b4f71ec652c584b4508115fe68]
+### 13. Provision of passenger transport services by a competent local authority[^c-e2aa37b4f71ec652c584b4508115fe68]
 
 (1) A competent local authority or a group of authorities providing integrated public passenger transport services may—
 
@@ -352,7 +352,7 @@ may be effected by a general rule.
 
 (7) In this regulation, “**integrated public passenger transport services**” means interconnected public passenger transport services within a particular geographical area with a single information service, ticketing scheme and timetable.
 
-### 14. Award of contracts under competitive procedure[^key-3c3e04e3c7a58f984d2a680d75e2ad0f]
+### 14. Award of contracts under competitive procedure[^c-3c3e04e3c7a58f984d2a680d75e2ad0f]
 
 (1) A competent authority must award a public service contract on the basis of a competitive tendering procedure unless—
 
@@ -370,7 +370,7 @@ may be effected by a general rule.
 - (a) information on passenger demand, fares, costs and revenues related to the public passenger transport services covered by the competitive tendering procedure, and
 - (b) details of the infrastructure specifications relevant for the operation of the required vehicles or rolling stock.
 
-### 15. Direct award of passenger services contracts under the de minimis exception[^key-2f4ee5cd4cc9f303ac0b974f5bf4ce3e]
+### 15. Direct award of passenger services contracts under the de minimis exception[^c-2f4ee5cd4cc9f303ac0b974f5bf4ce3e]
 
 (1) A competent authority may award a public service contract directly—
 
@@ -379,7 +379,7 @@ may be effected by a general rule.
 
 (2) In the case of a public service contract not including public passenger transport services by rail, tramway or other track-based mode directly awarded to a small or medium-sized enterprise operating not more than 23 road vehicles, those thresholds may be increased to either an average annual value estimated at less than £1,750,000 or to an annual provision of less than 600,000 kilometres of public passenger transport services.
 
-### 16. Emergency measures[^key-f12e13c239d9773f157d366164f23dee][^key-4cb410387febc2a17e2e71eb267a56fd]
+### 16. Emergency measures[^c-f12e13c239d9773f157d366164f23dee][^c-4cb410387febc2a17e2e71eb267a56fd]
 
 (1) In the event of a disruption of services, or the immediate risk of such a situation, a competent authority may take emergency measures.
 
@@ -387,7 +387,7 @@ may be effected by a general rule.
 
 (3) The publication requirement in regulation 22 does not apply where a contract is awarded under this regulation.
 
-### 16A. Direct award of bus contracts to incumbent operators[^key-11e5a3cb9a91bf48d66c0c2b423cfcf8]
+### 16A. Direct award of bus contracts to incumbent operators[^c-11e5a3cb9a91bf48d66c0c2b423cfcf8]
 
 (1) A franchising authority, or two or more franchising authorities acting jointly, may make a direct award of a public service contract where—
 
@@ -418,7 +418,7 @@ and, where the award is made by two or more franchising authorities acting joint
 - “**local service**”;
 - “**local service contract**”.
 
-### 17. General direct award provision for rail[^key-5ffe8efd03fc43fbec5a2f8177b93e6e]
+### 17. General direct award provision for rail[^c-5ffe8efd03fc43fbec5a2f8177b93e6e]
 
 (1) A competent authority may make a direct award of a public service contract concerning transport by rail.
 
@@ -436,7 +436,7 @@ and, where the award is made by two or more franchising authorities acting joint
 - (e) quality targets, such as punctuality and reliability and any applicable rewards and penalties, and
 - (f) where there is an extended contract duration under regulation 9(2), a description of the assets to be provided by the operator which justify the award of a contract of a longer duration under that regulation.
 
-### 18. Direct award of rail contracts in exceptional circumstances[^key-318f412e4f8b9a9af0fc2b8e0b1339d8]
+### 18. Direct award of rail contracts in exceptional circumstances[^c-318f412e4f8b9a9af0fc2b8e0b1339d8]
 
 (1) Where it considers that it is justified by exceptional circumstances, a competent authority may, on a temporary basis, directly award a new public service contract for public passenger transport services by rail where the previous contract was awarded on the basis of a competitive tendering procedure.
 
@@ -451,7 +451,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 (5) A subsequent contract that concerns the same public service obligations must not be awarded on the basis of this provision.
 
-### 19. Direct award of rail contracts due to structural and geographical characteristics[^key-afe2247d0efc10877e24c1397ff5e340]
+### 19. Direct award of rail contracts due to structural and geographical characteristics[^c-afe2247d0efc10877e24c1397ff5e340]
 
 (1) A competent authority may award a public service contract for public passenger transport services by rail directly—
 
@@ -488,13 +488,13 @@ and, where the award is made by two or more franchising authorities acting joint
 
 (8) The competent authority must publish on its website a contract awarded under this regulation, taking into consideration the protection of commercially sensitive information and commercial interests.
 
-### 20. Direct award of rail contracts when the operator manages the entire or major part of the railway infrastructure[^key-93a19f54405ea50a1aba48751d1d3bc7]
+### 20. Direct award of rail contracts when the operator manages the entire or major part of the railway infrastructure[^c-93a19f54405ea50a1aba48751d1d3bc7]
 
 (1) Where railway infrastructure comprises a network of the kind referred to in regulation 4(7)(a) or (b) of the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016[^f00010], a competent authority may award a public service contract for public passenger transport services by rail directly where it concerns only the operation of passenger rail services by an operator which manages the entire or the major part of the railway infrastructure on which the services are provided.
 
 (2) The competent authority must publish on its website a contract awarded pursuant to this regulation, taking into consideration the protection of commercially sensitive information and commercial interests.
 
-### 21. Modifying a public service contract[^key-e84fe64e8d55a3d9ca3add979265eaa8]
+### 21. Modifying a public service contract[^c-e84fe64e8d55a3d9ca3add979265eaa8]
 
 (1) A competent authority may modify a public service contract if the modification—
 
@@ -527,7 +527,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 ## PART 4 — Publication requirements
 
-### 22. Pre-award publication[^key-a0b9724f0509d63e6d0be1766a226374][^key-c602312a435f629a10b8c4a0cf046a2f]
+### 22. Pre-award publication[^c-a0b9724f0509d63e6d0be1766a226374][^c-c602312a435f629a10b8c4a0cf046a2f]
 
 (1) Each competent authority must, for each public service contract, unless either of the circumstances in paragraph (3) apply, and subject to paragraph (6), take the necessary measures to ensure that at least one year before the relevant day, the following information is published on its website—
 
@@ -546,7 +546,7 @@ and, where the award is made by two or more franchising authorities acting joint
 (3) The competent authority may decide not to publish this information where—
 
 - (a) a public service contract concerns an annual provision of less than 50,000 kilometres of public passenger transport services, or
-- (b) a contract is awarded under regulation 16 (emergency measures) or regulation 16A (direct award of bus contracts to incumbent operators)[^key-4e08ad479a12e3725afb8a17de264744].
+- (b) a contract is awarded under regulation 16 (emergency measures) or regulation 16A (direct award of bus contracts to incumbent operators)[^c-4e08ad479a12e3725afb8a17de264744].
 
 (4) If the competent authority becomes aware that any of the information it published under paragraph (1) is, or has become, erroneous or inaccurate, it must publish a rectification on its website as soon as possible.
 
@@ -566,7 +566,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 (8) In this regulation, “**an incumbent**” means the public service operator (if any) performing an existing public service contract in respect of the services and areas referred to in paragraph (1)(c).
 
-### 23. Post-award publication and right to request reasons for direct award[^key-5ce63f7c9d3b5a8077dca9bb9cf7af1a]
+### 23. Post-award publication and right to request reasons for direct award[^c-5ce63f7c9d3b5a8077dca9bb9cf7af1a]
 
 (1) A competent authority must, while ensuring the protection of commercially sensitive information and commercial interests, publish on its website such of the information about any public service contract or general rule set out in Schedule 2 as is relevant to that public service contract or general rule.
 
@@ -576,7 +576,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 ## PART 5 — Enforcement
 
-### 24. Actions in respect of a failure to comply with these Regulations[^key-eead325fc99eb8ef4572d5d5497ded1e]
+### 24. Actions in respect of a failure to comply with these Regulations[^c-eead325fc99eb8ef4572d5d5497ded1e]
 
 (1) An action in respect of a failure by a competent authority to comply with these Regulations in deciding to enter into a public service contract or make a general rule may not be brought after the end of the period of one month beginning with whichever is the latest of—
 
@@ -594,7 +594,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 (6) In this regulation “**action**” includes any proceeding in a court of law.
 
-### 25. Recovery orders[^key-ed51ac9cd7745ce329663f677d31be71]
+### 25. Recovery orders[^c-ed51ac9cd7745ce329663f677d31be71]
 
 (1) A court may make a recovery order if—
 
@@ -615,7 +615,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 (4) In this regulation, “**subsidy**” has the same meaning as in the Subsidy Control Act 2022[^f00013].
 
-### 26. Pre-action information requests[^key-46d703b534b497d8dcb2c8efbeb738ad]
+### 26. Pre-action information requests[^c-46d703b534b497d8dcb2c8efbeb738ad]
 
 (1) An interested party may make a request to a competent authority for information about its decision to enter into a public service contract or make a general rule.
 
@@ -645,7 +645,7 @@ and, where the award is made by two or more franchising authorities acting joint
 
 ## PART 6 — Miscellaneous
 
-### 27. Certain pre-existing contracts[^key-96e4d1399a3354244bfc25d12ae2d24f]
+### 27. Certain pre-existing contracts[^c-96e4d1399a3354244bfc25d12ae2d24f]
 
 The application of regulation 9 (duration of public service contracts) to certain pre-existing contracts is limited as follows—
 
@@ -656,7 +656,7 @@ The application of regulation 9 (duration of public service contracts) to certai
 - (e) a public service contract for public passenger transport services by rail directly awarded on the basis of a procedure other than a fair competitive procedure on or after 24th December 2017 and before 3rd December 2019 may continue until it expires, but may not have a duration longer than 10 years except where regulation 9(2) or (3) applies, and
 - (f) notwithstanding paragraphs (a) to (e), any public service contract referred to in this regulation may continue until it expires where its earlier termination would entail undue legal or economic consequences.
 
-### 28. Consequential amendments, revocations, savings and supplementary provision[^key-c5d82cd7d9b1eb2211cb7e4160a39944]
+### 28. Consequential amendments, revocations, savings and supplementary provision[^c-c5d82cd7d9b1eb2211cb7e4160a39944]
 
 (1) Schedule 3 (consequential amendments and revocations) has effect.
 
@@ -684,7 +684,7 @@ Department for Transport
 
 Regulation 21
 
-### 1. Provided for in the public service contract[^key-63a3dc91a1da3ece0e216352d4cbd3a1]
+### 1. Provided for in the public service contract[^c-63a3dc91a1da3ece0e216352d4cbd3a1]
 
 A modification is a permitted modification if—
 
@@ -693,11 +693,11 @@ A modification is a permitted modification if—
   - (ii) a notice for the award of that contract published under regulation 22 or 23, and
 - (b) the modification would not change the overall nature of the public service contract.
 
-### 2. Emergency[^key-0759793c1779ed8920d10f8345dbea4a]
+### 2. Emergency[^c-0759793c1779ed8920d10f8345dbea4a]
 
 A modification is a permitted modification if its purpose could otherwise be achieved by the direct award of a public service contract under regulation 16.
 
-### 3. Unforeseeable consequences[^key-00a8d7a2e1bd3851227e50d6776e35f6]
+### 3. Unforeseeable consequences[^c-00a8d7a2e1bd3851227e50d6776e35f6]
 
 A modification is a permitted modification if—
 
@@ -705,7 +705,7 @@ A modification is a permitted modification if—
 - (b) the modification would not change the overall nature of the public service contract, and
 - (c) the modification would not increase the estimated value of the public service contract by more than 50%.
 
-### 4. Materialisation of a known risk[^key-bcb2f5df57d35b276029008cad6cf61c]
+### 4. Materialisation of a known risk[^c-bcb2f5df57d35b276029008cad6cf61c]
 
 A modification is a permitted modification if—
 
@@ -716,7 +716,7 @@ A modification is a permitted modification if—
   - (iv) awarding a further public service contract under these Regulations, instead of modifying the contract, would not be in the public interest in the circumstances, and
 - (b) the modification would not increase the estimated value of the public service contract by more than 50% ignoring, for the purpose of estimating the value of the public service contract, the fact that the risk has materialised.
 
-**5.**[^key-cb5c58b2b2a90544cdb20083bc93be03] In paragraph 4, a “**known risk**” means a risk that—
+**5.**[^c-cb5c58b2b2a90544cdb20083bc93be03] In paragraph 4, a “**known risk**” means a risk that—
 
 - (a) the competent authority considered—
   - (i) could jeopardise the satisfactory performance of the public service contract, but
@@ -725,12 +725,12 @@ A modification is a permitted modification if—
   - (i) its meeting the description in sub-paragraph (a), and
   - (ii) the possibility of modification under paragraph 4.
 
-**6.**[^key-2b86e3b9fa62252598b12b341d3fd961] In considering whether awarding a new public service contract would be in the public interest for the purposes of paragraph 4, a competent authority—
+**6.**[^c-2b86e3b9fa62252598b12b341d3fd961] In considering whether awarding a new public service contract would be in the public interest for the purposes of paragraph 4, a competent authority—
 
 - (a) must consider whether a new public service contract could provide more value for money, and
 - (b) may consider technical and operational matters.
 
-### 7. Additional services[^key-c393b428134a271370a6954935cba9e7]
+### 7. Additional services[^c-c393b428134a271370a6954935cba9e7]
 
 A modification is a permitted modification if—
 
@@ -741,15 +741,15 @@ A modification is a permitted modification if—
   - (ii) the substantial duplication of costs for the authority, and
 - (d) the modification would not increase the estimated value of the public service contract by more than 50%.
 
-### 8. Transfer on corporate restructuring[^key-75c49fdea27a3256e1dc25f06d80fe72]
+### 8. Transfer on corporate restructuring[^c-75c49fdea27a3256e1dc25f06d80fe72]
 
 A novation or assignment (or in Scotland, assignation) of a public service contract to an operator is a permitted modification if it is required following a corporate restructuring or similar circumstance.
 
-## SCHEDULE 2 — Information to be published about a public service contract or general rule[^key-b1e33e7080d63ed13e541db1938e62e7]
+## SCHEDULE 2 — Information to be published about a public service contract or general rule[^c-b1e33e7080d63ed13e541db1938e62e7]
 
 Regulation 23
 
-[^key-b1e33e7080d63ed13e541db1938e62e7]
+[^c-b1e33e7080d63ed13e541db1938e62e7]
 
 The information is—
 
@@ -784,7 +784,7 @@ Regulation 28
 
 #### CHAPTER 1 — Primary legislation
 
-##### 1. Amendment of the Railways Act 1993[^key-d69eb5008095641457ea02cb547839ad]
+##### 1. Amendment of the Railways Act 1993[^c-d69eb5008095641457ea02cb547839ad]
 
 (1) The Railways Act 1993[^f00014] is amended as follows.
 
@@ -794,13 +794,13 @@ Regulation 28
 
 .
 
-##### 2. Amendment of the Government of Wales Act 2006[^key-f3aa489df3aab5f347a3faf5d0f0c346]
+##### 2. Amendment of the Government of Wales Act 2006[^c-f3aa489df3aab5f347a3faf5d0f0c346]
 
 (1) The Government of Wales Act 2006[^f00015] is amended as follows.
 
 (2) In Schedule 7A (reserved matters), in paragraph (c) of the exception relating to Section E2 (rail transport), for “Regulation [(EC) No. 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road” substitute “the Public Service Obligations in Transport Regulations 2023”.
 
-##### 3. Amendment of the Subsidy Control Act 2022[^key-eef58238c98460510ce86469603d1f8f]
+##### 3. Amendment of the Subsidy Control Act 2022[^c-eef58238c98460510ce86469603d1f8f]
 
 (1) The Subsidy Control Act 2022[^f00016] is amended as follows.
 
@@ -817,25 +817,25 @@ Regulation 28
 
 #### CHAPTER 2 — Secondary legislation
 
-##### 4. Amendment of the Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^key-a5446f6f6c1d681925a5b58d9e04be7f]
+##### 4. Amendment of the Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^c-a5446f6f6c1d681925a5b58d9e04be7f]
 
 (1) The Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^f00017] are amended as follows.
 
 (2) In regulation 2, in the definition of “operator” for “Article 2 of Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road, as amended from time to time” substitute “regulation 2 of the Public Service Obligations in Transport Regulations 2023”.
 
-##### 5. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^key-46fcfcda9314ed8121c7dbd5a1fbd262]
+##### 5. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^c-46fcfcda9314ed8121c7dbd5a1fbd262]
 
 (1) The Cleaner Road Transport Vehicles Regulations 2011[^f00018] are amended as follows.
 
 (2) In regulation 2, in the definition of ““public service contract” and “public service obligation”” for “Regulation (EC) No 1370” to the end of the definition substitute “the Public Service Obligations in Transport Regulations 2023”.
 
-##### 6. Amendment of the Concession Contracts (Scotland) Regulations 2016[^key-e562c6c4d5c201eeaa588556e04a2b15]
+##### 6. Amendment of the Concession Contracts (Scotland) Regulations 2016[^c-e562c6c4d5c201eeaa588556e04a2b15]
 
 (1) The Concession Contracts (Scotland) Regulations 2016[^f00019] are amended as follows.
 
 (2) In regulation 12(1)(l) (exclusions: specific service contracts) for “Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council on public passenger transport services by rail and by road” substitute “the Public Service Obligations in Transport Regulations 2023, except where such services are provided by means of a motor vehicle, other than a tram, which is adapted to carry not more than sixteen passengers”.
 
-##### 7. Amendment of the Railways (Access, Management and Licensing of Railways Undertakings) Regulations 2016[^key-6d4926cdda1c19ebdc9e937ffd6414e3]
+##### 7. Amendment of the Railways (Access, Management and Licensing of Railways Undertakings) Regulations 2016[^c-6d4926cdda1c19ebdc9e937ffd6414e3]
 
 (1) The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016[^f00020] are amended as follows.
 
@@ -852,7 +852,7 @@ Regulation 28
 
 #### CHAPTER 3 — Retained EU law
 
-##### 8. Amendment of Commission Implementing [Regulation (EU) 2018/1795](https://www.legislation.gov.uk/european/regulation/2018/1795)[^key-a3bc9796950dd23037930534b487085e]
+##### 8. Amendment of Commission Implementing [Regulation (EU) 2018/1795](https://www.legislation.gov.uk/european/regulation/2018/1795)[^c-a3bc9796950dd23037930534b487085e]
 
 (1) Commission Implementing [Regulation (EU) 2018/1795](https://www.legislation.gov.uk/european/regulation/2018/1795) of 20 November 2018 laying down procedure and criteria for the application of the economic equilibrium test pursuant to Article 11 of [Directive 2012/34/EU](https://www.legislation.gov.uk/european/directive/2012/0034) of the European Parliament and of the Council[^f00021] is amended as follows.
 
@@ -870,7 +870,7 @@ Regulation 28
 
 ### PART 2 — Revocations
 
-#### 9. Revocations[^key-e28498d4547552b67f5118c7a9de7cc9]
+#### 9. Revocations[^c-e28498d4547552b67f5118c7a9de7cc9]
 
 The following are revoked—
 
@@ -896,9 +896,9 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00002]: Footnote: See section 21(1) of the Retained EU Law (Revocation and Reform) Act 2023 for the definition of “relevant national authority”.
 
-[^key-ce5ec742bcc406d2623a5ba266ea7682]: Commencement: Reg. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-ce5ec742bcc406d2623a5ba266ea7682]: Commencement: Reg. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-d547d0ccd77ef439eb04dcc0b75ba0d8]: Commencement: Reg. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-d547d0ccd77ef439eb04dcc0b75ba0d8]: Commencement: Reg. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). See section 329(1) for definition of “carriageway”.
 
@@ -914,129 +914,129 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00009]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-3864b39efeef22fa9e64b972e89b844e]: Commencement: Reg. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-3864b39efeef22fa9e64b972e89b844e]: Commencement: Reg. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-a07f6eff644c20f1ebc902329bba95a0]: Commencement: Reg. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-a07f6eff644c20f1ebc902329bba95a0]: Commencement: Reg. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-0a8f61166fa0d551b6f1e17677befb11]: Commencement: Reg. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-0a8f61166fa0d551b6f1e17677befb11]: Commencement: Reg. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-6320463a5c387dfe19efda6887b756e9]: Commencement: Reg. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-6320463a5c387dfe19efda6887b756e9]: Commencement: Reg. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-54475d89eb7dc65b9f70c06da9e3bc23]: Commencement: Reg. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-54475d89eb7dc65b9f70c06da9e3bc23]: Commencement: Reg. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-26b473f52031f67f9d1bd335fc535db5]: Commencement: Reg. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-26b473f52031f67f9d1bd335fc535db5]: Commencement: Reg. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-48761f731e0b65c5cd10661365236f00]: Commencement: Reg. 9 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-48761f731e0b65c5cd10661365236f00]: Commencement: Reg. 9 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-2f09daa5c3e806172a46d797d3e307b3]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/9/1/c) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/3/a), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
+[^c-2f09daa5c3e806172a46d797d3e307b3]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/9/1/c) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/3/a), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
 
-[^key-c4241bd2f32f3691e16c91bb54e80197]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/9/4) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/3/b), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
+[^c-c4241bd2f32f3691e16c91bb54e80197]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/9/4) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/3/b), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
 
-[^key-678fcf46312799c21e29668fe51f25ac]: Commencement: Reg. 10 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-678fcf46312799c21e29668fe51f25ac]: Commencement: Reg. 10 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-b170232524aaad3250307325ec3a2795]: Commencement: Reg. 11 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-b170232524aaad3250307325ec3a2795]: Commencement: Reg. 11 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-81fa86bc149e657285ed7224a88e9fd2]: Commencement: Reg. 12 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-81fa86bc149e657285ed7224a88e9fd2]: Commencement: Reg. 12 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-e2aa37b4f71ec652c584b4508115fe68]: Commencement: Reg. 13 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-e2aa37b4f71ec652c584b4508115fe68]: Commencement: Reg. 13 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-3c3e04e3c7a58f984d2a680d75e2ad0f]: Commencement: Reg. 14 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-3c3e04e3c7a58f984d2a680d75e2ad0f]: Commencement: Reg. 14 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-2f4ee5cd4cc9f303ac0b974f5bf4ce3e]: Commencement: Reg. 15 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-2f4ee5cd4cc9f303ac0b974f5bf4ce3e]: Commencement: Reg. 15 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-f12e13c239d9773f157d366164f23dee]: Commencement: Reg. 16 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-f12e13c239d9773f157d366164f23dee]: Commencement: Reg. 16 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-4cb410387febc2a17e2e71eb267a56fd]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1369/regulation/16) modified (28.11.2024) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 30B(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/30B/3) (as inserted by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/3), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2))
+[^c-4cb410387febc2a17e2e71eb267a56fd]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1369/regulation/16) modified (28.11.2024) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 30B(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/30B/3) (as inserted by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/3), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2))
 
-[^key-11e5a3cb9a91bf48d66c0c2b423cfcf8]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2023/1369/regulation/16A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
+[^c-11e5a3cb9a91bf48d66c0c2b423cfcf8]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2023/1369/regulation/16A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
 
-[^key-5ffe8efd03fc43fbec5a2f8177b93e6e]: Commencement: Reg. 17 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-5ffe8efd03fc43fbec5a2f8177b93e6e]: Commencement: Reg. 17 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-318f412e4f8b9a9af0fc2b8e0b1339d8]: Commencement: Reg. 18 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-318f412e4f8b9a9af0fc2b8e0b1339d8]: Commencement: Reg. 18 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-afe2247d0efc10877e24c1397ff5e340]: Commencement: Reg. 19 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-afe2247d0efc10877e24c1397ff5e340]: Commencement: Reg. 19 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-93a19f54405ea50a1aba48751d1d3bc7]: Commencement: Reg. 20 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-93a19f54405ea50a1aba48751d1d3bc7]: Commencement: Reg. 20 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), to which there have been amendments not relevant to these Regulations.
 
-[^key-e84fe64e8d55a3d9ca3add979265eaa8]: Commencement: Reg. 21 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-e84fe64e8d55a3d9ca3add979265eaa8]: Commencement: Reg. 21 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-a0b9724f0509d63e6d0be1766a226374]: Commencement: Reg. 22 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-a0b9724f0509d63e6d0be1766a226374]: Commencement: Reg. 22 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-c602312a435f629a10b8c4a0cf046a2f]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/1369/regulation/22) excluded (28.11.2024) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 30(1B)](https://www.legislation.gov.uk/ukpga/1993/43/section/30/1B) (as substituted by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/2/b), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2))
+[^c-c602312a435f629a10b8c4a0cf046a2f]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/1369/regulation/22) excluded (28.11.2024) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 30(1B)](https://www.legislation.gov.uk/ukpga/1993/43/section/30/1B) (as substituted by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/2/b), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2))
 
-[^key-4e08ad479a12e3725afb8a17de264744]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/22/3/b) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/4), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
+[^c-4e08ad479a12e3725afb8a17de264744]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/22/3/b) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 13(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/13/4), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/k)
 
-[^key-5ce63f7c9d3b5a8077dca9bb9cf7af1a]: Commencement: Reg. 23 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-5ce63f7c9d3b5a8077dca9bb9cf7af1a]: Commencement: Reg. 23 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-eead325fc99eb8ef4572d5d5497ded1e]: Commencement: Reg. 24 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-eead325fc99eb8ef4572d5d5497ded1e]: Commencement: Reg. 24 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00011]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
 [^f00012]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-ed51ac9cd7745ce329663f677d31be71]: Commencement: Reg. 25 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-ed51ac9cd7745ce329663f677d31be71]: Commencement: Reg. 25 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00013]: Footnote: [2022 c. 23](https://www.legislation.gov.uk/ukpga/2022/23). See section 2(1) for the definition of “subsidy”.
 
-[^key-46d703b534b497d8dcb2c8efbeb738ad]: Commencement: Reg. 26 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-46d703b534b497d8dcb2c8efbeb738ad]: Commencement: Reg. 26 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-96e4d1399a3354244bfc25d12ae2d24f]: Commencement: Reg. 27 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-96e4d1399a3354244bfc25d12ae2d24f]: Commencement: Reg. 27 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-c5d82cd7d9b1eb2211cb7e4160a39944]: Commencement: Reg. 28 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-c5d82cd7d9b1eb2211cb7e4160a39944]: Commencement: Reg. 28 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-63a3dc91a1da3ece0e216352d4cbd3a1]: Commencement: Sch. 1 para. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-63a3dc91a1da3ece0e216352d4cbd3a1]: Commencement: Sch. 1 para. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-0759793c1779ed8920d10f8345dbea4a]: Commencement: Sch. 1 para. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-0759793c1779ed8920d10f8345dbea4a]: Commencement: Sch. 1 para. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-00a8d7a2e1bd3851227e50d6776e35f6]: Commencement: Sch. 1 para. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-00a8d7a2e1bd3851227e50d6776e35f6]: Commencement: Sch. 1 para. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-bcb2f5df57d35b276029008cad6cf61c]: Commencement: Sch. 1 para. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-bcb2f5df57d35b276029008cad6cf61c]: Commencement: Sch. 1 para. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-cb5c58b2b2a90544cdb20083bc93be03]: Commencement: Sch. 1 para. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-cb5c58b2b2a90544cdb20083bc93be03]: Commencement: Sch. 1 para. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-2b86e3b9fa62252598b12b341d3fd961]: Commencement: Sch. 1 para. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-2b86e3b9fa62252598b12b341d3fd961]: Commencement: Sch. 1 para. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-c393b428134a271370a6954935cba9e7]: Commencement: Sch. 1 para. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-c393b428134a271370a6954935cba9e7]: Commencement: Sch. 1 para. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-75c49fdea27a3256e1dc25f06d80fe72]: Commencement: Sch. 1 para. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-75c49fdea27a3256e1dc25f06d80fe72]: Commencement: Sch. 1 para. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-b1e33e7080d63ed13e541db1938e62e7]: Commencement: Sch. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-b1e33e7080d63ed13e541db1938e62e7]: Commencement: Sch. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
-[^key-d69eb5008095641457ea02cb547839ad]: Commencement: Sch. 3 para. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-d69eb5008095641457ea02cb547839ad]: Commencement: Sch. 3 para. 1 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00014]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). Section 136 was amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), Schedule 16, paragraph 51 and the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), Schedule 11, paragraph 14 and Schedule 13, Part 1, and by [S.I. 2010/402](https://www.legislation.gov.uk/uksi/2010/402). There have been other amendments to section 136, but none is relevant.
 
-[^key-f3aa489df3aab5f347a3faf5d0f0c346]: Commencement: Sch. 3 para. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-f3aa489df3aab5f347a3faf5d0f0c346]: Commencement: Sch. 3 para. 2 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00015]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Schedule 7A to the Government of Wales Act 2006 was inserted by Schedule 1 to the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-eef58238c98460510ce86469603d1f8f]: Commencement: Sch. 3 para. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-eef58238c98460510ce86469603d1f8f]: Commencement: Sch. 3 para. 3 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00016]: Footnote: [2022 c. 23](https://www.legislation.gov.uk/ukpga/2022/23).
 
-[^key-a5446f6f6c1d681925a5b58d9e04be7f]: Commencement: Sch. 3 para. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-a5446f6f6c1d681925a5b58d9e04be7f]: Commencement: Sch. 3 para. 4 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00017]: Footnote: [S.S.I. 2010/390](https://www.legislation.gov.uk/ssi/2010/390).
 
-[^key-46fcfcda9314ed8121c7dbd5a1fbd262]: Commencement: Sch. 3 para. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-46fcfcda9314ed8121c7dbd5a1fbd262]: Commencement: Sch. 3 para. 5 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2011/1631](https://www.legislation.gov.uk/uksi/2011/1631).
 
-[^key-e562c6c4d5c201eeaa588556e04a2b15]: Commencement: Sch. 3 para. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-e562c6c4d5c201eeaa588556e04a2b15]: Commencement: Sch. 3 para. 6 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00019]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65).
 
-[^key-6d4926cdda1c19ebdc9e937ffd6414e3]: Commencement: Sch. 3 para. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-6d4926cdda1c19ebdc9e937ffd6414e3]: Commencement: Sch. 3 para. 7 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645).
 
-[^key-a3bc9796950dd23037930534b487085e]: Commencement: Sch. 3 para. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-a3bc9796950dd23037930534b487085e]: Commencement: Sch. 3 para. 8 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00021]: Footnote: EUR 2018/1795, as amended by [S.I. 2019/518](https://www.legislation.gov.uk/uksi/2019/518).
 
-[^key-e28498d4547552b67f5118c7a9de7cc9]: Commencement: Sch. 3 para. 9 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
+[^c-e28498d4547552b67f5118c7a9de7cc9]: Commencement: Sch. 3 para. 9 in force at 25.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1)
 
 [^f00022]: Footnote: EUR 1370/2007, as amended by [S.I. 2020/504](https://www.legislation.gov.uk/uksi/2020/504) and [S.I. 2020/1470](https://www.legislation.gov.uk/uksi/2020/1470).
 

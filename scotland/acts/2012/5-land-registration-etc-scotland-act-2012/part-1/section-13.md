@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. The cadastral map: further provision[^key-b5af33fd27230a111b62d27c973e282f]
+## 13. The cadastral map: further provision[^c-b5af33fd27230a111b62d27c973e282f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the Keeper may adopt such means of representing the boundaries on the cadastral 
 
 ## Annotations
 
-[^key-b5af33fd27230a111b62d27c973e282f]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2012/5/section/13) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b5af33fd27230a111b62d27c973e282f]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2012/5/section/13) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

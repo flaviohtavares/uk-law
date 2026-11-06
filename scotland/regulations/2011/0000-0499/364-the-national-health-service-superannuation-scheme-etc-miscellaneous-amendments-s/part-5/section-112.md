@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Amendment of regulation 6[^key-6939f97a247c31f821d926322589b615]
+## 112. Amendment of regulation 6[^c-6939f97a247c31f821d926322589b615]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 6 (circumstances in which elections cease to have effect)—
 
 ## Annotations
 
-[^key-6939f97a247c31f821d926322589b615]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2011/364/regulation/112) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-6939f97a247c31f821d926322589b615]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2011/364/regulation/112) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

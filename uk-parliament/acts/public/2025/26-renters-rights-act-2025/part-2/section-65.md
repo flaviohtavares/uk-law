@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Approval and designation of landlord redress schemes[^key-be6909076408ea2f8486d74ec85f0cdd]
+## 65. Approval and designation of landlord redress schemes[^c-be6909076408ea2f8486d74ec85f0cdd]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6909076408ea2f8486d74ec85f0cdd]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-be6909076408ea2f8486d74ec85f0cdd]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

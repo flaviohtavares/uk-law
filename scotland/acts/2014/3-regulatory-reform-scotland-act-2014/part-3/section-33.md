@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Interpretation of Chapter 2[^key-8a3a5463683c62d5501625ceb99b2cbc]
+## 33. Interpretation of Chapter 2[^c-8a3a5463683c62d5501625ceb99b2cbc]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-8a3a5463683c62d5501625ceb99b2cbc]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/3/section/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-8a3a5463683c62d5501625ceb99b2cbc]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/3/section/33) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

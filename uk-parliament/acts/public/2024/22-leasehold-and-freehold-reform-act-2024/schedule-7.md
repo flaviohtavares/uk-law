@@ -24,7 +24,7 @@ summary: ''
 
 Section 37
 
-### 1. Involvement of other landlords: the LRA 1967[^key-339284891f213dae060ab62d5aaaff76]
+### 1. Involvement of other landlords: the LRA 1967[^c-339284891f213dae060ab62d5aaaff76]
 
 (1) Schedule 1 to the LRA 1967 (enfranchisement and extension by sub-tenants) is amended as follows.
 
@@ -110,13 +110,13 @@ Section 37
 
 (6) Omit paragraph 7A (minor superior tenancies).
 
-### 2. Involvement of other landlords: collective enfranchisement under the LRHUDA 1993[^key-c3db79caadd838bdf4384d22037451c4]
+### 2. Involvement of other landlords: collective enfranchisement under the LRHUDA 1993[^c-c3db79caadd838bdf4384d22037451c4]
 
 In section 24 of the LRHUDA 1993 (applications where terms in dispute or failure to enter contract), after subsection (8) insert—
 
 > (9) But the “terms of acquisition” do not include any terms which relate to matters dealt with in Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024.
 
-**3.**[^key-26f0a4089a6abca9535b5b5172bcdc0c] (1) Schedule 1 to the LRHUDA 1993 (conduct of proceedings by reversioner on behalf of other landlords) is amended as follows.
+**3.**[^c-26f0a4089a6abca9535b5b5172bcdc0c] (1) Schedule 1 to the LRHUDA 1993 (conduct of proceedings by reversioner on behalf of other landlords) is amended as follows.
 
 (2) In paragraph 6 (acts of reversioner binding on other landlords)—
 
@@ -162,7 +162,7 @@ In section 24 of the LRHUDA 1993 (applications where terms in dispute or failure
 >
 > (2) This paragraph does not limit the power of the reversioner to apply to the appropriate tribunal for the determination of any person’s entitlement to a share of the purchase price under Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024.
 
-**4.**[^key-ae5859b98910786c42c4796d79506f35] In Schedule 8 to the LRHUDA 1993 (discharge of mortgages etc)—
+**4.**[^c-ae5859b98910786c42c4796d79506f35] In Schedule 8 to the LRHUDA 1993 (discharge of mortgages etc)—
 
 - (a) in paragraph 1, for the definition of “the consideration payable” substitute—
 
@@ -173,13 +173,13 @@ In section 24 of the LRHUDA 1993 (applications where terms in dispute or failure
 
   > (4) If the amount to be applied for the redemption of a mortgage under paragraph 2, or that may be paid into the tribunal under sub-paragraph (1), cannot be ascertained because the share of the purchase price payable to the relevant landlord has not been agreed or determined under Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024, the nominee purchaser may pay the whole of the price payable into the tribunal.
 
-### 5. Involvement of other landlords: new lease under the LRHUDA 1993[^key-d72baa93acfb82bcc1676ad90ff8f79e]
+### 5. Involvement of other landlords: new lease under the LRHUDA 1993[^c-d72baa93acfb82bcc1676ad90ff8f79e]
 
 In section 48 of the LRHUDA 1993 (applications where terms in dispute or failure to enter into new lease), after subsection (7) insert—
 
 > (8) But the “terms of acquisition” do not include any terms which relate to matters dealt with in Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024.
 
-**6.**[^key-b5a0230738c4d43f96596a52bb3cc76b] (1) Schedule 11 to the LRHUDA 1993 (procedure where competent landlord is not tenant’s immediate landlord) is amended as follows.
+**6.**[^c-b5a0230738c4d43f96596a52bb3cc76b] (1) Schedule 11 to the LRHUDA 1993 (procedure where competent landlord is not tenant’s immediate landlord) is amended as follows.
 
 (2) In paragraph 6 (acts of competent landlord binding on other landlords), for sub-paragraph (2) substitute—
 
@@ -214,42 +214,42 @@ In section 48 of the LRHUDA 1993 (applications where terms in dispute or failure
 >
 > (2) This paragraph does not limit the power of the competent landlord to apply to the appropriate tribunal for the determination of any person’s entitlement to a share of the purchase price under Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024.
 
-### 7. Other consequential amendments to the LRA 1967[^key-9d7dd1eaf712bae7d4a7d6b0943ba325]
+### 7. Other consequential amendments to the LRA 1967[^c-9d7dd1eaf712bae7d4a7d6b0943ba325]
 
 The LRA 1967 is amended in accordance with paragraphs 8 to 13.
 
-**8.**[^key-09ed35fe941ba3938ea3d8b0fc981e0c] In section 8(1) (obligation to enfranchise), after “price” insert “payable in accordance with section 9”.
+**8.**[^c-09ed35fe941ba3938ea3d8b0fc981e0c] In section 8(1) (obligation to enfranchise), after “price” insert “payable in accordance with section 9”.
 
-**9.**[^key-4e73329b271e3f82f7246cf33002d070] Omit section 9A (compensation payable in cases where right to enfranchisement arises by virtue of section 1A or 1B).
+**9.**[^c-4e73329b271e3f82f7246cf33002d070] Omit section 9A (compensation payable in cases where right to enfranchisement arises by virtue of section 1A or 1B).
 
-**10.**[^key-6f3791579202a4f2715581747fd06b13] In section 19(10)(b) (price subject to local management scheme), for “under” substitute “in accordance with”.
+**10.**[^c-6f3791579202a4f2715581747fd06b13] In section 19(10)(b) (price subject to local management scheme), for “under” substitute “in accordance with”.
 
-**11.**[^key-5f2a8bbb64442912dca6e2711b9e3f03] In section 23(5)(b) (terms of extended tenancy), omit “section 9(1) and (1A) above,”.
+**11.**[^c-5f2a8bbb64442912dca6e2711b9e3f03] In section 23(5)(b) (terms of extended tenancy), omit “section 9(1) and (1A) above,”.
 
-**12.**[^key-d1f8eacc6afd8c0d68ffed215521f584] In section 24(1) (application of price), for “under section 9 above” substitute “in accordance with section 9”.
+**12.**[^c-d1f8eacc6afd8c0d68ffed215521f584] In section 24(1) (application of price), for “under section 9 above” substitute “in accordance with section 9”.
 
-**13.**[^key-451cfa8fd1f581f22941dc846b140804] In section 31 (ecclesiastical property)—
+**13.**[^c-451cfa8fd1f581f22941dc846b140804] In section 31 (ecclesiastical property)—
 
 - (a) in subsection (2)(a), after “payable” insert “in accordance with section 9 or 14A”;
 - (b) in subsection (3), for “under section 9 above” substitute “in accordance with section 9 or 14A”;
 - (c) in subsection (4)(c), for “under section 9 above” substitute “in accordance with section 9 or 14A”.
 
-### 14. Other consequential amendments to the LRHUDA 1993[^key-725499d6cc7ef5a0c6497cc09248082c]
+### 14. Other consequential amendments to the LRHUDA 1993[^c-725499d6cc7ef5a0c6497cc09248082c]
 
 The LRHUDA 1993 is amended in accordance with paragraphs 15 to 29.
 
-**15.**[^key-3bbe4688e375b5075de71e3d2553ed2f] In section 13(3) (initial notice), for paragraph (d) substitute—
+**15.**[^c-3bbe4688e375b5075de71e3d2553ed2f] In section 13(3) (initial notice), for paragraph (d) substitute—
 
 > - (d) specify the proposed purchase price payable in accordance with section 32(1);
 
 .
 
-**16.**[^key-1ea29acce151dbe80d1db335a9380df6] In section 18(2) (duty to disclose agreements)—
+**16.**[^c-1ea29acce151dbe80d1db335a9380df6] In section 18(2) (duty to disclose agreements)—
 
 - (a) in paragraph (a), for the words from “to the reversioner” to “for the purposes of Schedule 6” substitute “is determined in accordance with section 32(1)”;
 - (b) in the words after paragraph (b), for the words from “to the reversioner” to “relevant landlord” substitute “in addition to the price so determined”.
 
-**17.**[^key-ac55354446b297eb6129894d5d69116a] In section 27 (vesting orders under section 26: supplementary provision)—
+**17.**[^c-ac55354446b297eb6129894d5d69116a] In section 27 (vesting orders under section 26: supplementary provision)—
 
 - (a) in subsection (3), omit “in respect of each of those interests”;
 - (b) in subsection (5)—
@@ -260,23 +260,23 @@ The LRHUDA 1993 is amended in accordance with paragraphs 15 to 29.
   - (i) omit “in respect of that interest”;
   - (ii) omit “for the acquisition of that interest”.
 
-**18.**[^key-a720ee8fc71175287af0f5bd9dd70ca2] In section 32 (determination of price)—
+**18.**[^c-a720ee8fc71175287af0f5bd9dd70ca2] In section 32 (determination of price)—
 
 - (a) in subsection (2), for “any such interest” substitute “the freehold or any other interest to be acquired by the nominee purchaser in accordance with this Chapter”;
 - (b) for subsection (5) substitute—
 
   > (5) The nominee purchaser is to be treated for all purposes as a purchaser for valuable consideration in money or money’s worth of the freehold or other interest, even if the price payable by the nominee purchaser in accordance with section 32(1), or the share of the purchase price payable to the owner of the interest under Part 6 of Schedule 4 to the Leasehold and Freehold Reform Act 2024, is zero or only a nominal amount.
 
-**19.**[^key-d7d2013555f07ce79627204a93d35c48] In section 39(1) (right to acquire new lease), for “a premium” substitute “the price”.
+**19.**[^c-d7d2013555f07ce79627204a93d35c48] In section 39(1) (right to acquire new lease), for “a premium” substitute “the price”.
 
-**20.**[^key-32fdabba5cc0b1f34144fef8d8c648ac] In section 42(3)(c) (notice to acquire new lease)—
+**20.**[^c-32fdabba5cc0b1f34144fef8d8c648ac] In section 42(3)(c) (notice to acquire new lease)—
 
 - (a) for “premium” substitute “price”;
 - (b) omit the words from “and, where” to the end.
 
-**21.**[^key-1df8cd163ba6947788ce4c0ea243fad4] In section 48(7) (applications where terms in dispute etc), for the words from “the premium” to “Schedule 13” substitute “the price payable in accordance with section 56(1)”.
+**21.**[^c-1df8cd163ba6947788ce4c0ea243fad4] In section 48(7) (applications where terms in dispute etc), for the words from “the premium” to “Schedule 13” substitute “the price payable in accordance with section 56(1)”.
 
-**22.**[^key-2806c998d76b547584ae5688fdc7bdf7] In section 51 (vesting orders under section 50: supplementary provision)—
+**22.**[^c-2806c998d76b547584ae5688fdc7bdf7] In section 51 (vesting orders under section 50: supplementary provision)—
 
 - (a) in subsection (5)—
   - (i) in paragraph (a), for “premium which is payable under Schedule 13” substitute “price which is payable in accordance with section 56(1)”;
@@ -284,22 +284,22 @@ The LRHUDA 1993 is amended in accordance with paragraphs 15 to 29.
   - (iii) omit paragraph (b);
 - (b) in subsection (6), for the words from “premium” to the end substitute “price payable”.
 
-**23.**[^key-7f7c15146aa90605dfa4f20ce81e2400] In section 56 (obligation to grant new lease)—
+**23.**[^c-7f7c15146aa90605dfa4f20ce81e2400] In section 56 (obligation to grant new lease)—
 
 - (a) omit subsection (2);
 - (b) in subsection (3), for the words from “amount of any such premium” to “Schedule 13” substitute “price payable”;
 - (c) in subsection (4), for “7(2)” substitute “7(2A)”.
 
-**24.**[^key-c9f12fc28ac9556e7dea3dfb50c21221] Omit section 66 (amendments to the LRA 1967).
+**24.**[^c-c9f12fc28ac9556e7dea3dfb50c21221] Omit section 66 (amendments to the LRA 1967).
 
-**25.**[^key-bc0c98a23b01b9c6c7e788805c8c017d] In section 70(12) (estate management schemes)—
+**25.**[^c-bc0c98a23b01b9c6c7e788805c8c017d] In section 70(12) (estate management schemes)—
 
 - (a) in paragraph (b), for “under section 9” substitute “in accordance with section 9”;
 - (b) in paragraph (c), for “under Schedule 6 to this Act” substitute “in accordance with section 32(1)”.
 
-**26.**[^key-eda117c13bf230c9794b620da38e0ad5] In section 73(10) (applications for estate management schemes), for the words from the beginning to “it shall” substitute “For the purposes of Schedule 4 to the Leasehold and Freehold Reform Act 2024 as it applies in relation to an acquisition mentioned in section 69(1)(a) or (b), it is to”.
+**26.**[^c-eda117c13bf230c9794b620da38e0ad5] In section 73(10) (applications for estate management schemes), for the words from the beginning to “it shall” substitute “For the purposes of Schedule 4 to the Leasehold and Freehold Reform Act 2024 as it applies in relation to an acquisition mentioned in section 69(1)(a) or (b), it is to”.
 
-**27.**[^key-7c8624c08c47a6ed6c696ef9f22ba82e] (1) Schedule 2 (special categories of landlords) is amended as follows.
+**27.**[^c-7c8624c08c47a6ed6c696ef9f22ba82e] (1) Schedule 2 (special categories of landlords) is amended as follows.
 
 (2) In paragraph 1 (interpretation), omit sub-paragraph (2).
 
@@ -325,7 +325,7 @@ The LRHUDA 1993 is amended in accordance with paragraphs 15 to 29.
   - (ii) in paragraph (i), for “for any interest in property on its acquisition” substitute “in respect of the acquisition of any interest in property”;
   - (iii) in paragraph (ii), for “a premium” substitute “the price payable”.
 
-**28.**[^key-1a888764a6f447532c8ffd912ef0ce1e] (1) Schedule 5 (vesting orders under sections 24 and 25) is amended as follows.
+**28.**[^c-1a888764a6f447532c8ffd912ef0ce1e] (1) Schedule 5 (vesting orders under sections 24 and 25) is amended as follows.
 
 (2) In paragraph 2(1) (execution of conveyance), omit “in respect of each of those interests”.
 
@@ -340,64 +340,64 @@ The LRHUDA 1993 is amended in accordance with paragraphs 15 to 29.
 - (a) omit “in respect of that interest”;
 - (b) omit “for the acquisition of that interest”.
 
-**29.**[^key-85bd0850490c200fc91d94775526c579] Omit Schedule 15 (section 9 of the LRA 1967 as amended by section 66).
+**29.**[^c-85bd0850490c200fc91d94775526c579] Omit Schedule 15 (section 9 of the LRA 1967 as amended by section 66).
 
 ## Annotations
 
-[^key-339284891f213dae060ab62d5aaaff76]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-339284891f213dae060ab62d5aaaff76]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c3db79caadd838bdf4384d22037451c4]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c3db79caadd838bdf4384d22037451c4]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-26f0a4089a6abca9535b5b5172bcdc0c]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-26f0a4089a6abca9535b5b5172bcdc0c]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-ae5859b98910786c42c4796d79506f35]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ae5859b98910786c42c4796d79506f35]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d72baa93acfb82bcc1676ad90ff8f79e]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d72baa93acfb82bcc1676ad90ff8f79e]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b5a0230738c4d43f96596a52bb3cc76b]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-b5a0230738c4d43f96596a52bb3cc76b]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-9d7dd1eaf712bae7d4a7d6b0943ba325]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-9d7dd1eaf712bae7d4a7d6b0943ba325]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-09ed35fe941ba3938ea3d8b0fc981e0c]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-09ed35fe941ba3938ea3d8b0fc981e0c]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4e73329b271e3f82f7246cf33002d070]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4e73329b271e3f82f7246cf33002d070]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-6f3791579202a4f2715581747fd06b13]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-6f3791579202a4f2715581747fd06b13]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-5f2a8bbb64442912dca6e2711b9e3f03]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5f2a8bbb64442912dca6e2711b9e3f03]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d1f8eacc6afd8c0d68ffed215521f584]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d1f8eacc6afd8c0d68ffed215521f584]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-451cfa8fd1f581f22941dc846b140804]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-451cfa8fd1f581f22941dc846b140804]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-725499d6cc7ef5a0c6497cc09248082c]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-725499d6cc7ef5a0c6497cc09248082c]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-3bbe4688e375b5075de71e3d2553ed2f]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3bbe4688e375b5075de71e3d2553ed2f]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1ea29acce151dbe80d1db335a9380df6]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1ea29acce151dbe80d1db335a9380df6]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-ac55354446b297eb6129894d5d69116a]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ac55354446b297eb6129894d5d69116a]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a720ee8fc71175287af0f5bd9dd70ca2]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a720ee8fc71175287af0f5bd9dd70ca2]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d7d2013555f07ce79627204a93d35c48]: Commencement: Sch. 7 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d7d2013555f07ce79627204a93d35c48]: Commencement: Sch. 7 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-32fdabba5cc0b1f34144fef8d8c648ac]: Commencement: Sch. 7 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-32fdabba5cc0b1f34144fef8d8c648ac]: Commencement: Sch. 7 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1df8cd163ba6947788ce4c0ea243fad4]: Commencement: Sch. 7 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1df8cd163ba6947788ce4c0ea243fad4]: Commencement: Sch. 7 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-2806c998d76b547584ae5688fdc7bdf7]: Commencement: Sch. 7 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2806c998d76b547584ae5688fdc7bdf7]: Commencement: Sch. 7 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-7f7c15146aa90605dfa4f20ce81e2400]: Commencement: Sch. 7 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7f7c15146aa90605dfa4f20ce81e2400]: Commencement: Sch. 7 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c9f12fc28ac9556e7dea3dfb50c21221]: Commencement: Sch. 7 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c9f12fc28ac9556e7dea3dfb50c21221]: Commencement: Sch. 7 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-bc0c98a23b01b9c6c7e788805c8c017d]: Commencement: Sch. 7 para. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bc0c98a23b01b9c6c7e788805c8c017d]: Commencement: Sch. 7 para. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-eda117c13bf230c9794b620da38e0ad5]: Commencement: Sch. 7 para. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-eda117c13bf230c9794b620da38e0ad5]: Commencement: Sch. 7 para. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-7c8624c08c47a6ed6c696ef9f22ba82e]: Commencement: Sch. 7 para. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7c8624c08c47a6ed6c696ef9f22ba82e]: Commencement: Sch. 7 para. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1a888764a6f447532c8ffd912ef0ce1e]: Commencement: Sch. 7 para. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1a888764a6f447532c8ffd912ef0ce1e]: Commencement: Sch. 7 para. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-85bd0850490c200fc91d94775526c579]: Commencement: Sch. 7 para. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-85bd0850490c200fc91d94775526c579]: Commencement: Sch. 7 para. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

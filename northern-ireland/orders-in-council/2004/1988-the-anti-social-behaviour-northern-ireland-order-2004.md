@@ -90,7 +90,7 @@ The Anti-social Behaviour (Northern Ireland) Order 2004
 - (a) that the person has acted, since the commencement date, in an anti-social manner, that is to say, in a manner that caused or was likely to cause harassment, alarm or distress to one or more persons not of the same household as himself; and
 - (b) that such an order is necessary to protect relevant persons from further anti-social acts by him.
 
-(2) Such an application shall be made by complaint to a magistrates' court [^key-e6a92b961e4e441d266bb17ead4b4b67]....
+(2) Such an application shall be made by complaint to a magistrates' court [^c-e6a92b961e4e441d266bb17ead4b4b67]....
 
 (3) If, on such an application, it is proved that the conditions mentioned in paragraph (1) are fulfilled, the magistrates' court may make an order which prohibits the defendant from doing anything described in the order.
 
@@ -306,7 +306,7 @@ the relevant authority or authorities to be specified in the order shall be such
 
 (14) The references in paragraphs (5), (8) and (11) to the court by which an order was made—
 
-- (a) include, in the case of an order made by a magistrates' court, a reference to any magistrates' court [^key-83fae5f6c32e53fcb7bfdf18e72fabce]...; and
+- (a) include, in the case of an order made by a magistrates' court, a reference to any magistrates' court [^c-83fae5f6c32e53fcb7bfdf18e72fabce]...; and
 - (b) shall be treated, in the case of an order made on appeal, as a reference to the court from which the appeal was brought (and not the appellate court).
 
 (15) No order under Article 6 or 6A shall be discharged on an application under this Article before the end of the period of two years beginning with the day on which the order takes effect, unless—
@@ -420,7 +420,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 [^c19964071]: Textual amendment: Words in [art. 2(5)](https://www.legislation.gov.uk/nisi/2004/1988/article/2/5) inserted (18.9.2006) by [Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15))](https://www.legislation.gov.uk/nisi/2005/1965), [arts. 1(2)(a)](https://www.legislation.gov.uk/nisi/2005/1965/article/1/2/a), [2(3)](https://www.legislation.gov.uk/nisi/2005/1965/article/2/3); [S.R. 2006/368](https://www.legislation.gov.uk/nisr/2006/368), [art. 2(a)](https://www.legislation.gov.uk/nisr/2006/368/article/2/a)
 
-[^key-e6a92b961e4e441d266bb17ead4b4b67]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/2004/1988/article/3/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 127(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/127/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-e6a92b961e4e441d266bb17ead4b4b67]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/2004/1988/article/3/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 127(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/127/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19963941]: Textual amendment: Art. 3(4A) inserted (6.4.2008) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/59/2), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2); [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/791/article/3/d)
 
@@ -436,7 +436,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 [^c19975921]: Textual amendment: Art. 6B inserted (18.9.2006) by [Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15))](https://www.legislation.gov.uk/nisi/2005/1965), [arts. 2(a)](https://www.legislation.gov.uk/nisi/2005/1965/article/2/a), [5](https://www.legislation.gov.uk/nisi/2005/1965/article/5); [S.R. 2006/368](https://www.legislation.gov.uk/nisr/2006/368), [art. 2(a)](https://www.legislation.gov.uk/nisr/2006/368/article/2/a)
 
-[^key-83fae5f6c32e53fcb7bfdf18e72fabce]: Textual amendment: Words in [art. 6B(14)(a)](https://www.legislation.gov.uk/nisi/2004/1988/article/6B/14/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 127(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/127/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-83fae5f6c32e53fcb7bfdf18e72fabce]: Textual amendment: Words in [art. 6B(14)(a)](https://www.legislation.gov.uk/nisi/2004/1988/article/6B/14/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 127(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/127/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20916371]: Textual amendment: [Art. 6C](https://www.legislation.gov.uk/nisi/2004/1988/article/6C) and preceding cross-heading inserted (18.9.2006) by [Criminal Justice (Northern Ireland) Order 2005 (S.I. 2005/1965 (N.I. 15))](https://www.legislation.gov.uk/nisi/2005/1965), [arts. 2(a)](https://www.legislation.gov.uk/nisi/2005/1965/article/2/a), [6](https://www.legislation.gov.uk/nisi/2005/1965/article/6); [S.R. 2006/368](https://www.legislation.gov.uk/nisr/2006/368), [art. 2(a)](https://www.legislation.gov.uk/nisr/2006/368/article/2/a)
 

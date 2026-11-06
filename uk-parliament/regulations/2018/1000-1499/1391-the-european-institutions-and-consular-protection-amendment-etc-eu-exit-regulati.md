@@ -70,33 +70,33 @@ In these Regulations—
 
 ## PART 2 — Cessation and saving of retained EU rights, etc.
 
-### 3. Cessation of rights etc. on IP completion day[^key-e3f4b266ad12db1bf2c8d520507abca3][^key-883649eab25f8ab02eb2fcb4fc00356c]
+### 3. Cessation of rights etc. on IP completion day[^c-e3f4b266ad12db1bf2c8d520507abca3][^c-883649eab25f8ab02eb2fcb4fc00356c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Saving of non-disclosure provision relating to information obtained prior to exit day[^key-653514059651ccc0853e44e5284c7a70]
+### 4. Saving of non-disclosure provision relating to information obtained prior to exit day[^c-653514059651ccc0853e44e5284c7a70]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Saving of immunities of judges from legal proceedings in respect of acts performed by them in their official capacity[^key-0a9a1507eba190dabe26b26f4e8a0528]
+### 5. Saving of immunities of judges from legal proceedings in respect of acts performed by them in their official capacity[^c-0a9a1507eba190dabe26b26f4e8a0528]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Saving of immunities of agents, advisers and lawyers that appeared before the Court of Justice before IP completion day[^c23508141][^key-25a580be983d05ad1df45ae9d420ead3]
+### 6. Saving of immunities of agents, advisers and lawyers that appeared before the Court of Justice before IP completion day[^c23508141][^c-25a580be983d05ad1df45ae9d420ead3]
 
-The rights derived from the fifth paragraph of Article 19 of Protocol 3 continue to be recognised and available in domestic law (and to be enforced, allowed and followed accordingly) after IP completion day[^key-9fcc6b158323a80fcccad3813344e8ab] in respect of duties exercised by agents, advisers and lawyers in cases before the CJEU before IP completion day.
+The rights derived from the fifth paragraph of Article 19 of Protocol 3 continue to be recognised and available in domestic law (and to be enforced, allowed and followed accordingly) after IP completion day[^c-9fcc6b158323a80fcccad3813344e8ab] in respect of duties exercised by agents, advisers and lawyers in cases before the CJEU before IP completion day.
 
-### 7. Saving of immunities of Members of the European Parliament in relation to the performance of their duties before exit day[^key-16870aee21915bce0e1d4871510cdc8c]
+### 7. Saving of immunities of Members of the European Parliament in relation to the performance of their duties before exit day[^c-16870aee21915bce0e1d4871510cdc8c]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Saving of immunities of Judges, etc. in relation to acts performed by them in an official capacity before exit day[^key-efcf8a4089e4c4f82586528bf4b08cfb]
+### 8. Saving of immunities of Judges, etc. in relation to acts performed by them in an official capacity before exit day[^c-efcf8a4089e4c4f82586528bf4b08cfb]
 
 **Not yet in force.**
 
@@ -116,9 +116,9 @@ The rights derived from the fifth paragraph of Article 19 of Protocol 3 continue
 
 (3) Omit Articles 2 to 8.
 
-### 10. References in assimilated law to the official languages and working languages of the European Atomic Energy Community[^c23508201][^key-e0357c052e765a1edf246cd2e06f638a]
+### 10. References in assimilated law to the official languages and working languages of the European Atomic Energy Community[^c23508201][^c-e0357c052e765a1edf246cd2e06f638a]
 
-Any reference in assimilated[^key-3c10b73262838a4bedcf1bc33908aceb] law to the official languages and working languages of the European Atomic Energy Community (or similar expressions) is to be read as a reference to the English language, unless the contrary intention appears.
+Any reference in assimilated[^c-3c10b73262838a4bedcf1bc33908aceb] law to the official languages and working languages of the European Atomic Energy Community (or similar expressions) is to be read as a reference to the English language, unless the contrary intention appears.
 
 ### 11. Amendment of EEC, Euratom Regulation 1182/71 of the Council of 3 June 1971 determining the rules applicable to periods, dates and time limits[^c23508211]
 
@@ -243,31 +243,31 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23508101]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1391/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e3f4b266ad12db1bf2c8d520507abca3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1391/regulation/3) revoked (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/a)
+[^c-e3f4b266ad12db1bf2c8d520507abca3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1391/regulation/3) revoked (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/a)
 
-[^key-883649eab25f8ab02eb2fcb4fc00356c]: Textual amendment: Words in reg. 3 heading substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/2)
+[^c-883649eab25f8ab02eb2fcb4fc00356c]: Textual amendment: Words in reg. 3 heading substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/2)
 
-[^key-653514059651ccc0853e44e5284c7a70]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/4)
+[^c-653514059651ccc0853e44e5284c7a70]: Textual amendment: Reg. 4 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/4)
 
-[^key-0a9a1507eba190dabe26b26f4e8a0528]: Textual amendment: Reg. 5 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/5)
+[^c-0a9a1507eba190dabe26b26f4e8a0528]: Textual amendment: Reg. 5 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/5)
 
 [^c23508141]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-25a580be983d05ad1df45ae9d420ead3]: Textual amendment: Words in reg. 6 heading substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/6)
+[^c-25a580be983d05ad1df45ae9d420ead3]: Textual amendment: Words in reg. 6 heading substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/6)
 
-[^key-9fcc6b158323a80fcccad3813344e8ab]: Textual amendment: Words in reg. 6 substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/7)
+[^c-9fcc6b158323a80fcccad3813344e8ab]: Textual amendment: Words in reg. 6 substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/7)
 
-[^key-16870aee21915bce0e1d4871510cdc8c]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/8)
+[^c-16870aee21915bce0e1d4871510cdc8c]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/8)
 
-[^key-efcf8a4089e4c4f82586528bf4b08cfb]: Textual amendment: Reg. 8 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/9)
+[^c-efcf8a4089e4c4f82586528bf4b08cfb]: Textual amendment: Reg. 8 omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1464)](https://www.legislation.gov.uk/uksi/2020/1464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1464/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2020/1464/regulation/2/9)
 
 [^c23508191]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/1391/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23508201]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/1391/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e0357c052e765a1edf246cd2e06f638a]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1391/regulation/10) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/b)
+[^c-e0357c052e765a1edf246cd2e06f638a]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1391/regulation/10) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/b)
 
-[^key-3c10b73262838a4bedcf1bc33908aceb]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1391/regulation/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/b)
+[^c-3c10b73262838a4bedcf1bc33908aceb]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/uksi/2018/1391/regulation/10) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/2/paragraph/1/b)
 
 [^c23508211]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1391/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 

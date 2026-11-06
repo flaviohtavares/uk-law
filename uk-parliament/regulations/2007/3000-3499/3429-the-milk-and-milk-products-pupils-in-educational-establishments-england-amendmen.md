@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Milk and Milk Products (Pupils in Educational Establishments) (England) (Amendment) Regulations 2007 (revoked)[^key-9cab9a44008a527e196d4470fbbd3e07]
+The Milk and Milk Products (Pupils in Educational Establishments) (England) (Amendment) Regulations 2007 (revoked)[^c-9cab9a44008a527e196d4470fbbd3e07]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2008
 
-[^key-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9cab9a44008a527e196d4470fbbd3e07]
+## 1. Title and commencement[^c-9cab9a44008a527e196d4470fbbd3e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-9cab9a44008a527e196d4470fbbd3e07]
+## 2. Amendment[^c-9cab9a44008a527e196d4470fbbd3e07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9cab9a44008a527e196d4470fbbd3e07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9cab9a44008a527e196d4470fbbd3e07]: Textual amendment: Regulations revoked (1.9.2008) by [The Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 (S.I. 2008/2072)](https://www.legislation.gov.uk/uksi/2008/2072), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/2072/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2008/2072/regulation/5)
+[^c-9cab9a44008a527e196d4470fbbd3e07]: Textual amendment: Regulations revoked (1.9.2008) by [The Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 (S.I. 2008/2072)](https://www.legislation.gov.uk/uksi/2008/2072), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/2072/regulation/1/b), [5](https://www.legislation.gov.uk/uksi/2008/2072/regulation/5)

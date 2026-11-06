@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Bail-in stabilisation option[^key-b15418abb0d1764a1d80b0b89b36c010][^key-82c5fac34c607b4a7d43c067048475fc]
+## 17. Bail-in stabilisation option[^c-b15418abb0d1764a1d80b0b89b36c010][^c-82c5fac34c607b4a7d43c067048475fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) into which the building society is converted, or
   - (ii) to which the business of the building society is transferred;
 - (d) enable the Bank of England, in a case where it has transferred the business of a building society by virtue of paragraph (a)(ii), to dissolve the building society at any time after the transfer;
-- (e) confer functions on the Treasury, the Bank of England, the FCA, the PRA or a resolution administrator[^key-ce545915e6ff2ec4429cff840c07b82f];
+- (e) confer functions on the Treasury, the Bank of England, the FCA, the PRA or a resolution administrator[^c-ce545915e6ff2ec4429cff840c07b82f];
 - (f) make further amendments of Part 1 of the Banking Act 2009;
 - (g) amend or modify the effect of the Building Societies Act 1986 or any other enactment to which this subsection applies.
 
@@ -45,19 +45,19 @@ summary: ''
 
 (5) In this section—
 
-- [^key-354c17b090149e9233023ed54aec99df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-354c17b090149e9233023ed54aec99df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**building society**” has the same meaning as in section 84 of the Banking Act 2009;
 - “**company**” means a company as defined in section 1(1) of the Companies Act 2006 which is a public company limited by shares.
-- “resolution administrator” is to be read in accordance with sections 62B to 62E of the Banking Act 2009.[^key-cc078d97971341a9c1b72776e253854c]
+- “resolution administrator” is to be read in accordance with sections 62B to 62E of the Banking Act 2009.[^c-cc078d97971341a9c1b72776e253854c]
 
 ## Annotations
 
-[^key-b15418abb0d1764a1d80b0b89b36c010]: Commencement: S. 17 in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-b15418abb0d1764a1d80b0b89b36c010]: Commencement: S. 17 in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-82c5fac34c607b4a7d43c067048475fc]: Commencement: S. 17 in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-82c5fac34c607b4a7d43c067048475fc]: Commencement: S. 17 in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-ce545915e6ff2ec4429cff840c07b82f]: Textual amendment: Words in s. 17(3)(e) substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/a)
+[^c-ce545915e6ff2ec4429cff840c07b82f]: Textual amendment: Words in s. 17(3)(e) substituted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/a)
 
-[^key-354c17b090149e9233023ed54aec99df]: Textual amendment: S. 17(5) definition of “bail-in administrator” omitted (10.1.2015) by virtue of [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/b/i)
+[^c-354c17b090149e9233023ed54aec99df]: Textual amendment: S. 17(5) definition of “bail-in administrator” omitted (10.1.2015) by virtue of [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/b/i)
 
-[^key-cc078d97971341a9c1b72776e253854c]: Textual amendment: S. 17(5) definition of “resolution administrator” inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/b/ii)
+[^c-cc078d97971341a9c1b72776e253854c]: Textual amendment: S. 17(5) definition of “resolution administrator” inserted (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [Sch. 3 para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3348/schedule/3/paragraph/6/b/ii)

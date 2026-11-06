@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Police air operations[^key-2c8c9b47acf0106f2ca422e3ace9d0e7]
+## 95. Police air operations[^c-2c8c9b47acf0106f2ca422e3ace9d0e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c8c9b47acf0106f2ca422e3ace9d0e7]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2013/2870/article/95) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2c8c9b47acf0106f2ca422e3ace9d0e7]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2013/2870/article/95) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

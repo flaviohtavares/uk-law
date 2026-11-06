@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 575. Meaning of “connected” persons[^key-56900fffa9f41bb0d4db29c329cdddd7]
+## 575. Meaning of “connected” persons[^c-56900fffa9f41bb0d4db29c329cdddd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ But this subsection does not apply in relation to acquisitions or disposals of a
 
 ## Annotations
 
-[^key-56900fffa9f41bb0d4db29c329cdddd7]: Textual amendment: Ss. 575, 575A substituted for s. 575 (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 411](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/411) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-56900fffa9f41bb0d4db29c329cdddd7]: Textual amendment: Ss. 575, 575A substituted for s. 575 (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 411](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/411) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

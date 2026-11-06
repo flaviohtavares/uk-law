@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247A. Regulations about moratorium for certain CIOs[^key-828372f691e17b935e211e45a1f1c841]
+## 247A. Regulations about moratorium for certain CIOs[^c-828372f691e17b935e211e45a1f1c841]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-828372f691e17b935e211e45a1f1c841]: Textual amendment: S. 247A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-828372f691e17b935e211e45a1f1c841]: Textual amendment: S. 247A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_956fccfa-69c0-4534-e862-c5ca68fc7857]: Modification: S. 247A(6) restricted (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2020/12/section/44/3), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

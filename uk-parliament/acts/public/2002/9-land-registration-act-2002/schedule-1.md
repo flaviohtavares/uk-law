@@ -26,7 +26,7 @@ Sections 11 and 12
 
 A leasehold estate in land granted for a term not exceeding seven years from the date of the grant, except for a lease the grant of which falls within section 4(1) (d), (e) or (f).
 
-### 1A. Relevant social housing tenancies[^key-ad7f1658efc7d74d795b4282eff3ae54]
+### 1A. Relevant social housing tenancies[^c-ad7f1658efc7d74d795b4282eff3ae54]
 
 A leasehold estate in land under a relevant social housing tenancy.
 
@@ -72,7 +72,7 @@ A franchise.
 
 ## Annotations
 
-[^key-ad7f1658efc7d74d795b4282eff3ae54]: Textual amendment: Sch.1 para. 1A and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-ad7f1658efc7d74d795b4282eff3ae54]: Textual amendment: Sch.1 para. 1A and cross-heading inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
 [^c4271311]: Textual amendment: Sch. 1 paras. 10-14 shall cease to have effect (coming into force in accordance with s. 117(1) of [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9)) by virtue of [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/117/1), [136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2) (with [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/117/2), [129](https://www.legislation.gov.uk/ukpga/2002/9/section/129))
 

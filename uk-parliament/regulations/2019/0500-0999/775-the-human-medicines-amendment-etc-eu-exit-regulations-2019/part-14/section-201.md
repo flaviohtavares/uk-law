@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Amendment of Schedule 24 (packaging information requirements)[^key-2490e10aa07ea0c51dcc1e5debb76f55]
+## 201. Amendment of Schedule 24 (packaging information requirements)[^c-2490e10aa07ea0c51dcc1e5debb76f55]
 
 *Extent: E+W+S+N.I.*
 
 (1) Schedule 24 is amended as follows.
 
-(2) In paragraph 7(b), for “published pursuant to Article 65 of the 2001 Directive” substitute “ published under regulation 257D in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive or under regulation 257D that is applicable to such products.[^key-8d744fb1f0118fa0641c4c441d9c1f2a]”.
+(2) In paragraph 7(b), for “published pursuant to Article 65 of the 2001 Directive” substitute “ published under regulation 257D in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive or under regulation 257D that is applicable to such products.[^c-8d744fb1f0118fa0641c4c441d9c1f2a]”.
 
-(3) In paragraphs 15, 16 and 23, for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^key-d4c8d12e57987ebf09a84474b1b4e0fb].
+(3) In paragraphs 15, 16 and 23, for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^c-d4c8d12e57987ebf09a84474b1b4e0fb].
 
-(4)[^key-ea260f233f3a09ea922a377dc9336dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ea260f233f3a09ea922a377dc9336dcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After Part 3 insert—
 
-> **PART 4 — Outer and immediate packaging: advanced therapy medicinal products for sale or supply in Great Britain only[^key-c9f9901577e90bb9eec9cba7bace08b2]**
+> **PART 4 — Outer and immediate packaging: advanced therapy medicinal products for sale or supply in Great Britain only[^c-c9f9901577e90bb9eec9cba7bace08b2]**
 >
 > **34.**
 >
@@ -106,7 +106,7 @@ summary: ''
 >
 > Where the exempt advanced therapy medicinal product is for autologous use, the unique patient identifier and the words “for autologous use only”.
 >
-> **PART 5 — Immediate packaging: blister packs and small packaging (advanced therapy medicinal products for sale or supply in Great Britain only)[^key-577ea87c4212885907f626434f44eabe]**
+> **PART 5 — Immediate packaging: blister packs and small packaging (advanced therapy medicinal products for sale or supply in Great Britain only)[^c-577ea87c4212885907f626434f44eabe]**
 >
 > **51.**
 >
@@ -125,18 +125,18 @@ summary: ''
 
 ## Annotations
 
-[^key-2490e10aa07ea0c51dcc1e5debb76f55]: Commencement: Reg. 201 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2490e10aa07ea0c51dcc1e5debb76f55]: Commencement: Reg. 201 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8d744fb1f0118fa0641c4c441d9c1f2a]: Textual amendment: Words in reg. 201(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/a)
+[^c-8d744fb1f0118fa0641c4c441d9c1f2a]: Textual amendment: Words in reg. 201(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/a)
 
-[^key-d4c8d12e57987ebf09a84474b1b4e0fb]: Textual amendment: Words in reg. 201(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)
+[^c-d4c8d12e57987ebf09a84474b1b4e0fb]: Textual amendment: Words in reg. 201(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)
 
-[^key-ea260f233f3a09ea922a377dc9336dcc]: Textual amendment: Reg. 201(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/c)
+[^c-ea260f233f3a09ea922a377dc9336dcc]: Textual amendment: Reg. 201(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/c)
 
-[^key-c9f9901577e90bb9eec9cba7bace08b2]: Textual amendment: Words in reg. 201(5) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d/i)
+[^c-c9f9901577e90bb9eec9cba7bace08b2]: Textual amendment: Words in reg. 201(5) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d/i)
 
 [^c23885371]: Marginal citation: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Schedule 3A was inserted by the Human Fertilisation and Embryology (Quality and Safety) Regulations 2007/1522, regulation 30.
 
 [^c23885381]: Marginal citation: [S.I. 2007/1523](https://www.legislation.gov.uk/uksi/2007/1523).
 
-[^key-577ea87c4212885907f626434f44eabe]: Textual amendment: Words in reg. 201(5) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d/ii)
+[^c-577ea87c4212885907f626434f44eabe]: Textual amendment: Words in reg. 201(5) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d/ii)

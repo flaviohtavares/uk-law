@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Requirements about the use of front and rear position lamps, rear registration plate lamps, side marker lamps and end-outline marker lamps[^key-2c1fd3fe05fa6cbea5545f47dbe08d0d]
+## 27. Requirements about the use of front and rear position lamps, rear registration plate lamps, side marker lamps and end-outline marker lamps[^c-2c1fd3fe05fa6cbea5545f47dbe08d0d]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ unless every front position lamp, rear position lamp, rear registration plate la
 
 (7) The classes of vehicle referred to in paragraph (5) are—
 
-- (a) a motor vehicle being a goods vehicle the gross weight of which does not exceed 2500[^key-527d9de82c1c4cacd135103a19435d00] kg;
+- (a) a motor vehicle being a goods vehicle the gross weight of which does not exceed 2500[^c-527d9de82c1c4cacd135103a19435d00] kg;
 - (b) a passenger vehicle other than a bus;
 - (c) an invalid carriage; and
 - (d) a motor cycle or a cycle in either case with or without a sidecar, not being—
@@ -72,16 +72,16 @@ unless every front position lamp, rear position lamp, rear registration plate la
 - (b) a cycle waiting to proceed provided it is kept to the left-hand or near side edge of a carriageway; or
 - (c) a vehicle which is parked in an area on part of a highway on which roadworks are being carried out and which is bounded by amber lamps and other traffic signs so as to prevent the presence of the vehicle, its load or equipment being a danger to persons using the road.
 
-(10)[^key-954437a6b9424a70da7df468b743d040] In this regulation “gross weight” has the same meaning as in regulation 2 of the Construction and Use Regulations.
+(10)[^c-954437a6b9424a70da7df468b743d040] In this regulation “gross weight” has the same meaning as in regulation 2 of the Construction and Use Regulations.
 
 ## Annotations
 
-[^key-2c1fd3fe05fa6cbea5545f47dbe08d0d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/169/regulation/27) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-2c1fd3fe05fa6cbea5545f47dbe08d0d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2000/169/regulation/27) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
 
 [^f00019]: Footnote: [S.R. 1997 No. 386](https://www.legislation.gov.uk/nisr/1997/386)
 
-[^key-527d9de82c1c4cacd135103a19435d00]: Textual amendment: Words in [reg. 27(7)(a)](https://www.legislation.gov.uk/nisr/2000/169/regulation/27/7/a) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2011/329/regulation/9/2)
+[^c-527d9de82c1c4cacd135103a19435d00]: Textual amendment: Words in [reg. 27(7)(a)](https://www.legislation.gov.uk/nisr/2000/169/regulation/27/7/a) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2011/329/regulation/9/2)
 
-[^key-954437a6b9424a70da7df468b743d040]: Textual amendment: [Reg. 27(10)](https://www.legislation.gov.uk/nisr/2000/169/regulation/27/10) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2011/329/regulation/9/3)
+[^c-954437a6b9424a70da7df468b743d040]: Textual amendment: [Reg. 27(10)](https://www.legislation.gov.uk/nisr/2000/169/regulation/27/10) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2011/329/regulation/9/3)

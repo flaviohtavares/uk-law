@@ -46,18 +46,18 @@ The Department for Employment and Learning, in exercise of the powers conferred 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-5f57b6e0ce7119fb47d1371ceee0f626]
+### 1. Citation and commencement[^c-5f57b6e0ce7119fb47d1371ceee0f626]
 
 These Regulations may be cited as the Information and Consultation of Employees Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
-### 2. Interpretation[^key-5132ae0b5bd9a238201def9f5bff9de5]
+### 2. Interpretation[^c-5132ae0b5bd9a238201def9f5bff9de5]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
 (2) In these Regulations –
 
 - “the 1996 Order” means the Employment Rights (Northern Ireland) Order 1996[^f00003];
-- “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011;[^key-d57a30bd2925539b4f419943a8ab731b]
+- “agency worker” has the same meaning as in regulation 3 of the Agency Workers Regulations (Northern Ireland) 2011;[^c-d57a30bd2925539b4f419943a8ab731b]
 - “the 1992 Order” means the Industrial Relations (Northern Ireland) Order 1992[^f00004];
 - “the Agency” means the Labour Relations Agency;
 - “consultation” means the exchange of views and establishment of a dialogue between –
@@ -82,14 +82,14 @@ These Regulations may be cited as the Information and Consultation of Employees 
   - (b) an agreement between the employer and the information and consultation representatives referred to in regulation 18(2);
 - “negotiating representative” means a person elected or appointed pursuant to regulation 14(1)(a);
 - “parties” means the employer and the negotiating representatives or the information and consultation representatives, as the case may be;
-- “[^key-3fe407fd514232a3a2d10216fbbf3391]Pension Schemes Regulations” means The Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006
+- “[^c-3fe407fd514232a3a2d10216fbbf3391]Pension Schemes Regulations” means The Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006
 - “pre-existing agreement” means an agreement between an employer and his employees or their representatives which –
   - (a) is made prior to the making of an employee request; and
   - (b) satisfies the conditions set out in regulation 8(1)(a) to (d),
 
   but does not include an agreement concluded in accordance with regulations 17 or 42 to 45 of the Transnational Information and Consultation Regulations 1999[^f00006], or a negotiated agreement;
 - “standard information and consultation provisions” means the provisions set out in regulation 20;
-- “suitable information relating to the use of agency workers” means information as to—[^key-829a572d538b06a7ffa935ab74fbd86d]
+- “suitable information relating to the use of agency workers” means information as to—[^c-829a572d538b06a7ffa935ab74fbd86d]
   - (a) the number of agency workers working temporarily for and under the supervision and direction of the employer,
   - (b) the parts of the employer’s undertaking in which those agency workers are working, and
   - (c) the type of work those agency workers are carrying out.
@@ -98,7 +98,7 @@ These Regulations may be cited as the Information and Consultation of Employees 
   - (a) satisfies the requirements of regulation 7; and
   - (b) is not invalid by virtue of regulation 12.
 
-### 3. Application[^key-39f3a2de406f4601d67608eb36198593]
+### 3. Application[^c-39f3a2de406f4601d67608eb36198593]
 
 (1) These Regulations apply to undertakings –
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Information and Consultation of Employees 
 
 (3) In these Regulations, an undertaking to which these Regulations apply is referred to, in relation to its employees, as the “employer”.
 
-### 3A. Agency Workers[^key-c3a12de1d0c6ebf47fae4ecde4f37c89]
+### 3A. Agency Workers[^c-c3a12de1d0c6ebf47fae4ecde4f37c89]
 
 (1) Paragraphs (2) and (3) apply to an agency worker whose contract within regulation 3(1)(b) of the Agency Workers Regulations (Northern Ireland) 2011 (contract with the temporary work agency) is not a contract of employment.
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Information and Consultation of Employees 
 
 ## PART II — EMPLOYEE NUMBERS AND ENTITLEMENT TO DATA
 
-### 4. Calculation of number of employees[^key-1453e21037cb3cf467d45a721c8ba7b1]
+### 4. Calculation of number of employees[^c-1453e21037cb3cf467d45a721c8ba7b1]
 
 (1) Subject to paragraph (4), the number of employees for the purposes of regulation 3(1) shall be determined by ascertaining the average number of employees employed in the previous 12 months, calculated in accordance with paragraph (2).
 
@@ -135,7 +135,7 @@ the employee may be counted as representing half of a full-time employee, for th
 
 (4) If the undertaking has been in existence for less than 12 months, the references to 12 months in paragraphs (1), (2) and (3), and the divisor of 12 referred to in paragraph (2) shall be replaced by the number of months the undertaking has been in existence.
 
-### 5. Entitlement to data[^key-f4b81e680f810209f352fd7163687acc]
+### 5. Entitlement to data[^c-f4b81e680f810209f352fd7163687acc]
 
 (1) An employee or an employees' representative may request data from the employer for the purpose of determining the number of people employed by the employer’s undertaking in the United Kingdom.
 
@@ -146,7 +146,7 @@ the employee may be counted as representing half of a full-time employee, for th
 - (a) make the calculation of the numbers of employees referred to in regulation 4; and
 - (b) determine, for the purpose of regulation 7(2), what number of employees constitutes 10% of the employees in the undertaking.
 
-### 6. Complaint of failure to provide data[^key-ea78f61502b60d16924cf76a77abb606]
+### 6. Complaint of failure to provide data[^c-ea78f61502b60d16924cf76a77abb606]
 
 (1) An employee or an employees' representative who has requested data under regulation 5 may present a complaint to the Industrial Court that –
 
@@ -163,7 +163,7 @@ the employee may be counted as representing half of a full-time employee, for th
 
 ## PART III — NEGOTIATED AGREEMENTS
 
-### 7. Employee request to negotiate an agreement in respect of information and consultation[^key-0cc5a8f830e5f3f290e2de6c8cfad7c5]
+### 7. Employee request to negotiate an agreement in respect of information and consultation[^c-0cc5a8f830e5f3f290e2de6c8cfad7c5]
 
 (1) On receipt of a valid employee request, the employer shall, subject to paragraphs (8) and (9) initiate negotiations by taking the steps set out in regulation 14(1).
 
@@ -201,7 +201,7 @@ the employee may be counted as representing half of a full-time employee, for th
 
 (9) If an application is made to the Industrial Court under regulation 13, the employer shall not be required to initiate negotiations unless and until the Industrial Court declares that there was a valid employee request or that the employer’s notification was valid.
 
-### 8. Pre-existing agreements: ballot for endorsement of employee request[^key-68aaf2b246e68757f4ffe1ea8143dd61]
+### 8. Pre-existing agreements: ballot for endorsement of employee request[^c-68aaf2b246e68757f4ffe1ea8143dd61]
 
 (1) Subject to regulation 9, this regulation applies where a valid employee request has been made under regulation 7 by fewer than 40% of employees employed in the undertaking on the date that request was made and where there exists one or more pre-existing agreements which –
 
@@ -244,11 +244,11 @@ have voted in favour of endorsing the request.
 
 (9) Where the Industrial Court finds a complaint under paragraph (8) well-founded it shall make an order requiring the employer to hold the ballot within such period as the order may specify.
 
-### 8A. Pre-existing agreements: agency workers[^key-e5de66c445c94eb4466e92420d6a66ca]
+### 8A. Pre-existing agreements: agency workers[^c-e5de66c445c94eb4466e92420d6a66ca]
 
 Where information about the employment situation is to be provided under a pre-existing agreement by an employer, such information must include suitable information relating to the use of agency workers (if any) in that undertaking.
 
-### 9. Pre-existing agreements covering groups of undertakings[^key-2f08d706776545f1cc735eb7b1fd3cca]
+### 9. Pre-existing agreements covering groups of undertakings[^c-2f08d706776545f1cc735eb7b1fd3cca]
 
 (1) This regulation applies where –
 
@@ -265,7 +265,7 @@ Where information about the employment situation is to be provided under a pre-e
 
 (3) Notwithstanding paragraph (2), the undertaking mentioned in paragraph (1)(a) may choose to hold the ballot for endorsement of the employee request in accordance with regulation 8 rather than under this regulation.
 
-### 10. Complaint about ballot for endorsement of employee request[^key-348f370522c6f6cfce2785a399e5b73b]
+### 10. Complaint about ballot for endorsement of employee request[^c-348f370522c6f6cfce2785a399e5b73b]
 
 (1) Any employee in the undertaking referred to in regulation 8(1) or employee in one of the undertakings referred to in regulation 9(1), or representative of such employees, who believes that a requirement has not been satisfied that has to be satisfied in order to entitle either the employer, in accordance with regulation 8(2), to hold a ballot, or the employers, in accordance with regulation 9(2), to hold a combined ballot, may, within 21 days of the employer informing the employees of the relevant undertaking under regulation 8(3)(a), present a complaint to the Industrial Court.
 
@@ -279,7 +279,7 @@ Where information about the employment situation is to be provided under a pre-e
   - (i) where prior to the order being made, the employer referred to in regulation 8(1) or 9(1)(a) makes representations to the Industrial Court that he would prefer to initiate negotiations under regulation 7, make an order requiring that employer to do so; or
   - (ii) in the absence of such representations, order the employer or employers to hold the ballot under regulation 8 or 9, as the case may be, again within such period as the order may specify.
 
-### 11. Employer notification of decision to start negotiations[^key-9d7610530f4a8cd60ec0ee03289abc89]
+### 11. Employer notification of decision to start negotiations[^c-9d7610530f4a8cd60ec0ee03289abc89]
 
 (1) The employer may start the negotiation process set out in regulation 14(1) on his own initiative by issuing a written notification satisfying the requirements of paragraph (2) and where the employer issues such a notification regulations 14 to 17 shall apply.
 
@@ -289,7 +289,7 @@ Where information about the employment situation is to be provided under a pre-e
 - (b) state the date on which it is issued; and
 - (c) be published in such a manner as to bring it to the attention of, so far as reasonably practicable, all the employees of the undertaking.
 
-### 12. Restrictions on employee request and employer notification[^key-e368230dc65aad78e507dd72f048c3ee]
+### 12. Restrictions on employee request and employer notification[^c-e368230dc65aad78e507dd72f048c3ee]
 
 (1) Subject to paragraph (2), no employee request or employer notification is valid if it is made or issued, as the case may be –
 
@@ -302,7 +302,7 @@ Where information about the employment situation is to be provided under a pre-e
 - (a) where a ballot held under regulation 8 or 9 had the result that the employees did not endorse the valid employee request, that there is no longer a pre-existing agreement which satisfies paragraph (1)(b) and (c) of regulation 8 or in the case of a ballot held under regulation 9, that there is no longer an agreement satisfying paragraph (1)(b) of that regulation; or
 - (b) where a negotiated agreement exists, that the agreement no longer complies with the requirement in regulation 16(1) that it must cover all the employees of the undertaking.
 
-### 13. Dispute about employee request, employer notification or whether obligation in regulation 7(1) applies[^key-2957874f216f745fb0e48c23f6b2a375]
+### 13. Dispute about employee request, employer notification or whether obligation in regulation 7(1) applies[^c-2957874f216f745fb0e48c23f6b2a375]
 
 (1) If the employer considers that there was no valid employee request –
 
@@ -315,7 +315,7 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 (3) The Industrial Court shall only consider an application for a declaration made under paragraph (1) or (2) if the application is made within a one month period beginning on the date of the employee request or the date on which the employer notification is made.
 
-### 14. Negotiations to reach an agreement[^key-49b5b44f7b7f879c5cdc926f159fe6aa]
+### 14. Negotiations to reach an agreement[^c-49b5b44f7b7f879c5cdc926f159fe6aa]
 
 (1) In order to initiate negotiations to reach an agreement under these Regulations the employer must as soon as reasonably practicable –
 
@@ -349,13 +349,13 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 - (a) the references to the employees of the undertaking refer to the employees of all the undertakings to be covered by any negotiated agreement; and
 - (b) references to employees refer to employees of all the undertakings to be covered by any negotiated agreement.
 
-### 15. Complaints about election or appointment of negotiating representatives[^key-369e09741809428dc4948edc4c81627c]
+### 15. Complaints about election or appointment of negotiating representatives[^c-369e09741809428dc4948edc4c81627c]
 
 (1) If an employee or an employees' representative considers that one or both of the requirements for the election or appointment of negotiating representatives set out in regulation 14(2) have not been complied with, he may, within 21 days of the election or appointment, present a complaint to the Industrial Court.
 
 (2) Where the Industrial Court finds the complaint well-founded it shall make an order requiring the employer to arrange for the process of election or appointment of negotiating representatives referred to in regulation 14 to take place again within such period as the order shall specify.
 
-### 16. Negotiated agreements[^key-8dc774ae877368c75b3b79738e268fb4]
+### 16. Negotiated agreements[^c-8dc774ae877368c75b3b79738e268fb4]
 
 (1) A negotiated agreement must cover all employees of the undertaking and may consist either of a single agreement or of different parts (each being approved in accordance with paragraph (4)) which, taken together, cover all the employees of the undertaking. The single agreement or each part must –
 
@@ -363,10 +363,10 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 - (b) be in writing;
 - (c) be dated;
 - (d) be approved in accordance with paragraphs (3) to (5);
-- (e) be signed by or on behalf of the employer; [^key-34c431d2d1969651332b8a4020dedcfe]...
+- (e) be signed by or on behalf of the employer; [^c-34c431d2d1969651332b8a4020dedcfe]...
 - (f) either –
   - (i) provide for the election or appointment of information and consultation representatives to whom the employer must provide the information and whom the employer must consult in the circumstances referred to in sub-paragraph (a); or
-  - (ii) provide that the employer must provide information directly to the employees to which it relates and consult those employees directly in the circumstances referred to in sub-paragraph (a); and[^key-936654bac220eed30e93138805ab468f]
+  - (ii) provide that the employer must provide information directly to the employees to which it relates and consult those employees directly in the circumstances referred to in sub-paragraph (a); and[^c-936654bac220eed30e93138805ab468f]
 - (g) provide that where an employer is to provide information about the employment situation, under that agreement or under any part, such information shall include suitable information relating to the use of agency workers (if any) in that undertaking.
 
 (2) Where a negotiated agreement consists of different parts they may provide differently in relation to the matters referred to in paragraph (1)(a) and (f).
@@ -395,13 +395,13 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 (6) Where the employer holds a ballot under this regulation he must, as soon as reasonably practicable after the date of the ballot, inform the employees entitled to vote of the result.
 
-### 17. Complaints about ballot for employee approval of negotiated agreement[^key-c7fbd309eaca36e4814439f66d381d89]
+### 17. Complaints about ballot for employee approval of negotiated agreement[^c-c7fbd309eaca36e4814439f66d381d89]
 
 (1) Any negotiating representative who believes that the arrangements for a ballot held under regulation 16 did not satisfy one or more of the requirements set out in paragraph (5) of that regulation, may, within 21 days of the date of the ballot, present a complaint to the Industrial Court.
 
 (2) Where the Industrial Court finds the complaint well-founded it shall make an order requiring the employer to hold the ballot referred to in regulation 16 again within such period as the order may specify.
 
-### 17A. Negotiated agreements and listed changes to pension schemes[^key-6b0308bc367d515538d0432d37bc4aaf]
+### 17A. Negotiated agreements and listed changes to pension schemes[^c-6b0308bc367d515538d0432d37bc4aaf]
 
 (1) A requirement in any negotiated agreement or any part of such an agreement made before 6th April 2006 to inform and consult employees or their representatives about a listed change shall cease to apply once—
 
@@ -412,7 +412,7 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 ## PART IV — STANDARD INFORMATION AND CONSULTATION PROVISIONS
 
-### 18. Application of standard information and consultation provisions[^key-2f57b32ef8618be5d249cb1dbe245c0d]
+### 18. Application of standard information and consultation provisions[^c-2f57b32ef8618be5d249cb1dbe245c0d]
 
 (1) Subject to paragraph (2) –
 
@@ -431,7 +431,7 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 (3) An agreement referred to in paragraph (2) shall only have effect if it covers all the employees of the undertaking, complies with the requirements listed in regulation 16(1)(a) to (c), (e) and (f) and is signed by a majority of the information and consultation representatives.
 
-### 19. Election of information and consultation representatives[^key-6122968b0432dd07c5f05becf0704ffd]
+### 19. Election of information and consultation representatives[^c-6122968b0432dd07c5f05becf0704ffd]
 
 (1) Where the standard information and consultation provisions are to apply, the employer shall, before the standard information and consultation provisions start to apply, arrange for the holding of a ballot of its employees to elect the relevant number of information and consultation representatives.
 
@@ -445,15 +445,15 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 (6) Where the Industrial Court finds a complaint under paragraph (4) well-founded, the employee or the employees' representative may make an application to the High Court under regulation 22(6) and paragraphs (7) and (8) of that regulation shall apply to any such application.
 
-### 20. Standard information and consultation provisions[^key-e77c3c1b200d94a32785058c9d13f344]
+### 20. Standard information and consultation provisions[^c-e77c3c1b200d94a32785058c9d13f344]
 
 (1) Where the standard information and consultation provisions apply pursuant to regulation 18, the employer must provide the information and consultation representatives with information on –
 
 - (a) the recent and probable development of the undertaking’s activities and economic situation;
-- (b) the situation, structure and probable development of employment within the undertaking (and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)[^key-a23418bf61c3cdb3525e77dc76647e38] and on any anticipatory measures envisaged, in particular, where there is a threat to employment within the undertaking; and
+- (b) the situation, structure and probable development of employment within the undertaking (and such information must include suitable information relating to the use of agency workers (if any) in that undertaking)[^c-a23418bf61c3cdb3525e77dc76647e38] and on any anticipatory measures envisaged, in particular, where there is a threat to employment within the undertaking; and
 - (c) subject to paragraph (5), decisions likely to lead to substantial changes in work organisation or in contractual relations, including those referred to in –
-  - (i) articles 216 to 220 of the 1996 Order[^f00007]; [^key-86512fce785c70463feb958e06629235]...
-  - (ii)[^key-552a1279524eca1ced8bf3d4180573c7] regulations 13 to 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006; and
+  - (i) articles 216 to 220 of the 1996 Order[^f00007]; [^c-86512fce785c70463feb958e06629235]...
+  - (ii)[^c-552a1279524eca1ced8bf3d4180573c7] regulations 13 to 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006; and
   - (iii) regulations 13 to 16 of the Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006.
 
 (2) The information referred to in paragraph (1) must be given at such time, in such fashion and with such content as are appropriate to enable, in particular, the information and consultation representatives to conduct an adequate study and, where necessary, to prepare for consultation.
@@ -469,23 +469,23 @@ the employer may apply to the Industrial Court for a declaration as to whether t
 
 (5) The duties in this regulation to inform and consult the information and consultation representatives on decisions falling within paragraph (1)(c) cease to apply once the employer is under a duty under –
 
-- (a) Article 216 of the 1996 Order referred to in paragraph (1)(c)(i) (duty of employer to consult representatives of employees); [^key-6ae5b55efb512663876575bcfcc3cb7c]...
-- (b) regulation 13[^key-8b29476c9b14c79f39f9159bad24416c] of the Regulations referred to in paragraph (1)(c)(ii) or paragraph (1)(c)(iii)[^key-578f6d7e160b0c29f8042314d7aa010f] (duty to inform and consult trade union representatives); or[^key-8608e9a15e29ece082f923d290ca1c80]
+- (a) Article 216 of the 1996 Order referred to in paragraph (1)(c)(i) (duty of employer to consult representatives of employees); [^c-6ae5b55efb512663876575bcfcc3cb7c]...
+- (b) regulation 13[^c-8b29476c9b14c79f39f9159bad24416c] of the Regulations referred to in paragraph (1)(c)(ii) or paragraph (1)(c)(iii)[^c-578f6d7e160b0c29f8042314d7aa010f] (duty to inform and consult trade union representatives); or[^c-8608e9a15e29ece082f923d290ca1c80]
 - (c) any of regulations 7(3) and 11 to 13 of the Pension Schemes Regulations,
 
-and he has notified the information and consultation representatives in writing that he will be complying with his duty under the legislation referred to in sub-paragraph (a), (b) or (c)[^key-ae83bad830d0b10e76aca7e6ce1d3b6a], as the case may be, instead of under these Regulations provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
+and he has notified the information and consultation representatives in writing that he will be complying with his duty under the legislation referred to in sub-paragraph (a), (b) or (c)[^c-ae83bad830d0b10e76aca7e6ce1d3b6a], as the case may be, instead of under these Regulations provided that the notification is given on each occasion on which the employer has become or is about to become subject to the duty.
 
 (6) Where there is an obligation in these Regulations on the employer to inform and consult his employees, a failure on the part of a person who controls the employer (either directly or indirectly) to provide information to the employer shall not constitute a valid reason for the employer failing to inform and consult.
 
 ## PART V — DUTY OF CO-OPERATION
 
-### 21. Co-operation[^key-db8c0ec99c46b6e5fb22fe24ee607aed]
+### 21. Co-operation[^c-db8c0ec99c46b6e5fb22fe24ee607aed]
 
 The parties are under a duty, when negotiating or implementing a negotiated agreement or when implementing the standard information and consultation provisions, to work in a spirit of co-operation and with due regard for their reciprocal rights and obligations, taking into account the interests of both the undertaking and the employees.
 
 ## PART VI — COMPLIANCE AND ENFORCEMENT
 
-### 22. Disputes about operation of a negotiated agreement or the standard information and consultation provisions[^key-c8d30a53b6ca1427e1117f79a94c4b54]
+### 22. Disputes about operation of a negotiated agreement or the standard information and consultation provisions[^c-c8d30a53b6ca1427e1117f79a94c4b54]
 
 (1) Where –
 
@@ -518,7 +518,7 @@ a complaint may be presented to the Industrial Court by a relevant applicant who
 
 (9) No order of the Industrial Court under this regulation shall have the effect of suspending or altering the effect of any act done or of any agreement made by the employer or of preventing or delaying any act or agreement which the employer proposes to do or to make.
 
-### 23. Penalties[^key-86cb387d036a2dca171d3d4fcf0504a0]
+### 23. Penalties[^c-86cb387d036a2dca171d3d4fcf0504a0]
 
 (1) A penalty notice issued under regulation 22 shall specify –
 
@@ -549,13 +549,13 @@ the Department for Employment and Learning may recover from the employer, as a c
 
 (7) Any sums received by the Department under regulation 22 or this regulation shall be paid into the Consolidated Fund.
 
-### 24. Exclusivity of remedy[^key-0c1937fd6c3ecfbea0b3ad1d78efb953]
+### 24. Exclusivity of remedy[^c-0c1937fd6c3ecfbea0b3ad1d78efb953]
 
 Where Parts I to VI provide for a remedy for infringement of any right by way of application or complaint to the Industrial Court (and provide for no other remedy), no other remedy is available for infringement of that right.
 
 ## PART VII — CONFIDENTIAL INFORMATION
 
-### 25. Breach of statutory duty[^key-7caa890c1910ad8664635f80b1269f14]
+### 25. Breach of statutory duty[^c-7caa890c1910ad8664635f80b1269f14]
 
 (1) A person to whom the employer, pursuant to his obligations under these Regulations, entrusts any information or document on terms requiring it to be held in confidence shall not disclose that information or document except, where the terms permit him to do so, in accordance with those terms.
 
@@ -573,7 +573,7 @@ Where Parts I to VI provide for a remedy for infringement of any right by way of
 
 (8) If a declaration is made under paragraph (7), the information or document shall not at any time thereafter be regarded as having been entrusted to the recipient who made the application under paragraph (6), or to any other recipient, on terms requiring it to be held in confidence.
 
-### 26. Withholding of information by the employer[^key-271acec2df9db9a9b96dd34bd933ca45]
+### 26. Withholding of information by the employer[^c-271acec2df9db9a9b96dd34bd933ca45]
 
 (1) The employer is not required to disclose any information or document to a person for the purposes of these Regulations where the nature of the information or document is such that, according to objective criteria, the disclosure of the information or document would seriously harm the functioning of, or would be prejudicial to, the undertaking.
 
@@ -595,7 +595,7 @@ as to whether the nature of the information or document which the employer has f
 
 ## PART VIII — PROTECTIONS FOR INFORMATION AND CONSULTATION REPRESENTATIVES, ETC.
 
-### 27. Right to time off for information and consultation representatives, etc.[^key-e5cbbbdb2d69885c501b77ffe1885d1d]
+### 27. Right to time off for information and consultation representatives, etc.[^c-e5cbbbdb2d69885c501b77ffe1885d1d]
 
 (1) An employee who is –
 
@@ -606,7 +606,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (2) For the purpose of this regulation, the working hours of an employee shall be taken to be any time when, in accordance with his contract of employment, the employee is required to be at work.
 
-### 28. Right to remuneration for time off under regulation 27[^key-77744c511a16fed716ccc2975f837a6a]
+### 28. Right to remuneration for time off under regulation 27[^c-77744c511a16fed716ccc2975f837a6a]
 
 (1) An employee who is permitted to take time off under regulation 27 is entitled to be paid remuneration by his employer for the time taken off at the appropriate hourly rate.
 
@@ -628,7 +628,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (7) Any contractual remuneration paid to an employee in respect of a period of time off under regulation 27 goes towards discharging any liability of the employer to pay remuneration under paragraph (1) in respect of that period, and conversely, any payment of remuneration under paragraph (1) in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
 
-### 29. Right to time off: complaint to industrial tribunals[^key-fa1c02b23b3862d490552f4a10f2df48]
+### 29. Right to time off: complaint to industrial tribunals[^c-fa1c02b23b3862d490552f4a10f2df48]
 
 (1) An employee may present a complaint to an industrial tribunal that his employer –
 
@@ -640,7 +640,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 - (a) before the end of the period of three months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-5185c7d2d729e8ae69c361a5a81bf97b] Regulation 29A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-5185c7d2d729e8ae69c361a5a81bf97b] Regulation 29A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where a tribunal finds a complaint under this regulation well-founded, the tribunal shall make a declaration to that effect.
 
@@ -648,7 +648,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (5) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which he is entitled under regulation 28, the tribunal shall also order the employer to pay to the employee the amount it finds due to him.
 
-### 29A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-5ce254c833f8969d9ad40b1b2f4a1d65]
+### 29A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-5ce254c833f8969d9ad40b1b2f4a1d65]
 
 (1) In this regulation—
 
@@ -661,7 +661,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 (4) The power conferred on the industrial tribunal by regulation 29(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 30. Unfair dismissal[^key-16ef0e3215387485e2deac1d1dfcf736]
+### 30. Unfair dismissal[^c-16ef0e3215387485e2deac1d1dfcf736]
 
 (1) An employee who is dismissed and to whom paragraph (2) or (5) applies shall be regarded, if the reason (or, if more than one, the principal reason) for the dismissal is a reason specified in, respectively, paragraph (3) or (6), as unfairly dismissed for the purposes of Part XI of the 1996 Order.
 
@@ -702,7 +702,7 @@ is entitled to be permitted by his employer to take reasonable time off during t
 
 but for that paragraph to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
 
-### 31. Subsidiary provisions relating to unfair dismissal[^key-79f32975fe747fce0e67793d37f27bc1]
+### 31. Subsidiary provisions relating to unfair dismissal[^c-79f32975fe747fce0e67793d37f27bc1]
 
 (1) In Article 137 of the 1996 Order (redundancy as unfair dismissal) –
 
@@ -735,7 +735,7 @@ but for that paragraph to apply, the claim to the right and, if applicable, the 
 
   .
 
-### 32. Detriment[^key-e7670f10ab38f919b3b62ca529ae337a]
+### 32. Detriment[^c-e7670f10ab38f919b3b62ca529ae337a]
 
 (1) An employee to whom paragraph (2) or (5) applies has the right not to be subjected to any detriment by any act, or deliberate failure to act, by his employer, done on a ground specified in, respectively, paragraph (3) or (6).
 
@@ -778,13 +778,13 @@ but for that paragraph to apply, the claim to the right and, if applicable, the 
 
 (8) This regulation does not apply where the detriment in question amounts to dismissal.
 
-### 33. Detriment: enforcement and subsidiary provisions[^key-bbecc35888ce815d9494c8c984a20cb9]
+### 33. Detriment: enforcement and subsidiary provisions[^c-bbecc35888ce815d9494c8c984a20cb9]
 
 (1) An employee may present a complaint to an industrial tribunal that he has been subjected to a detriment in contravention of regulation 32.
 
 (2) The provisions of Articles 71(2) to (4) and 72 of the 1996 Order (complaints to industrial tribunals and remedies) shall apply in relation to a complaint under this regulation as they apply in relation to a complaint under Article 71 of the Order but taking references in those provisions to the employer as references to the employer within the meaning of regulation 32(1).
 
-### 34. Conciliation[^key-dcba298f9ec3f22d8d0f5864217c2213]
+### 34. Conciliation[^c-dcba298f9ec3f22d8d0f5864217c2213]
 
 In Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation) in paragraph (1) (which specifies the proceedings and claims to which the Article applies)[^f00014] –
 
@@ -799,7 +799,7 @@ In Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (concili
 
 ## PART IX — MISCELLANEOUS
 
-### 35. Industrial Court: proceedings[^key-f62ee669f848709d97c2477170718d35]
+### 35. Industrial Court: proceedings[^c-f62ee669f848709d97c2477170718d35]
 
 (1) Where under these Regulations a person presents a complaint or makes an application to the Industrial Court the complaint or application must be in writing and in such form as the Industrial Court may require.
 
@@ -813,7 +813,7 @@ In Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (concili
 
 (6) An appeal lies to the High Court on any question of law arising from any declaration or order of, or arising in any proceedings before, the Industrial Court under these Regulations.
 
-### 36. Labour Relations Agency[^key-ddd26b20f565020bec898bfa46082fe8]
+### 36. Labour Relations Agency[^c-ddd26b20f565020bec898bfa46082fe8]
 
 (1) If on receipt of an application or complaint under these Regulations the Industrial Court is of the opinion that it is reasonably likely to be settled by conciliation or other assistance provided by the Agency in accordance with paragraph (2), it shall refer the application or complaint to the Agency and shall notify the applicant or complainant and any persons whom it considers have a proper interest in the application or complaint accordingly.
 
@@ -833,7 +833,7 @@ In Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 (concili
 
 the Industrial Court shall proceed to hear and determine the application or complaint.
 
-### 37. Restrictions on contracting out: general[^key-607c68ad63eb6cf80a6fa5ca3e520198]
+### 37. Restrictions on contracting out: general[^c-607c68ad63eb6cf80a6fa5ca3e520198]
 
 (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports –
 
@@ -842,14 +842,14 @@ the Industrial Court shall proceed to hear and determine the application or comp
 
 (2) Paragraph (1) does not apply to any agreement to refrain from continuing any proceedings referred to in sub-paragraph (b) of that paragraph made after the proceedings have been instituted.
 
-### 38. Restrictions on contracting out: Part VIII[^key-7aece04005818bb3858b261c4b4140c8]
+### 38. Restrictions on contracting out: Part VIII[^c-7aece04005818bb3858b261c4b4140c8]
 
 (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports –
 
 - (a) to exclude or limit the operation of any provision of Part VIII; or
 - (b) to preclude a person from bringing any proceedings before an industrial tribunal under that Part.
 
-(2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an industrial tribunal where the Agency has taken action under any of Articles 20A to 20C[^key-88e60920c8a81a32d84880e195cae341] of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation).
+(2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an industrial tribunal where the Agency has taken action under any of Articles 20A to 20C[^c-88e60920c8a81a32d84880e195cae341] of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation).
 
 (3) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an industrial tribunal proceedings within Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (proceedings under these Regulations where conciliation is available) if the conditions regulating compromise agreements under these Regulations are satisfied in relation to the agreement.
 
@@ -883,7 +883,7 @@ the Industrial Court shall proceed to hear and determine the application or comp
 
 and “associated employer” shall be construed accordingly.
 
-### 39. Crown employment[^key-a5c86fb5addcf2092d71c63808df220d]
+### 39. Crown employment[^c-a5c86fb5addcf2092d71c63808df220d]
 
 (1) These Regulations have effect in relation to Crown employment and persons in Crown employment as they have effect in relation to other employment and other employees.
 
@@ -894,7 +894,7 @@ and “associated employer” shall be construed accordingly.
 - (a) references to an employee shall be construed as references to a person in Crown employment; and
 - (b) references to a contract of employment shall be construed as references to the terms of employment of a person in Crown employment.
 
-### 40. Exception for merchant navy[^key-94d13d8326980eb495020fea3bde46a5]
+### 40. Exception for merchant navy[^c-94d13d8326980eb495020fea3bde46a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -906,7 +906,7 @@ A senior officer of the
 
 Department for Employment and Learning
 
-## SCHEDULE 1 — APPLICATION OF REGULATIONS[^key-02cee4327bd46aaeee95aea15c04adb4]
+## SCHEDULE 1 — APPLICATION OF REGULATIONS[^c-02cee4327bd46aaeee95aea15c04adb4]
 
 Regulation 3
 
@@ -920,11 +920,11 @@ Regulation 3
 
 Regulation 19
 
-### 1. Ballot arrangements[^key-b95aaf34123f36fbf1fc49b6c5d9b220]
+### 1. Ballot arrangements[^c-b95aaf34123f36fbf1fc49b6c5d9b220]
 
 Ballots held under regulation 19 must comply with the requirements specified in paragraph 2.
 
-### 2.[^key-8675cf2748337986ac3213875ddc2e7f]
+### 2.[^c-8675cf2748337986ac3213875ddc2e7f]
 
 The requirements referred to in paragraph 1 are that –
 
@@ -936,34 +936,34 @@ The requirements referred to in paragraph 1 are that –
 - (f) after the employer has formulated proposals as to the arrangements for the ballot and before he has published the final arrangements under sub-paragraph (g) he must, so far as reasonably practicable, consult with employees' representatives or, if no such representatives exist, the employees, on the proposed arrangements for the ballot; and
 - (g) the employer must publish the final arrangements for the ballot in such manner as to bring them to the attention of, so far as reasonably practicable, his employees and, where they exist, the employees' representatives.
 
-### 3.[^key-0ccd14780a1720bf0e4838ce44520420]
+### 3.[^c-0ccd14780a1720bf0e4838ce44520420]
 
 Any employee or an employees' representative who believes that the arrangements for the ballot are defective may, within a period of 21 days beginning on the date on which the employer published the final arrangements under paragraph 2(g), present a complaint to the Industrial Court.
 
-### 4.[^key-d1d5a15962ff3c37e3015ce99ff9577c]
+### 4.[^c-d1d5a15962ff3c37e3015ce99ff9577c]
 
 Where the Industrial Court finds the complaint well-founded it shall make a declaration to that effect and may make an order requiring the employer to modify the arrangements he has made for the ballot or to satisfy the requirements in sub-paragraphs (a) to (g) of paragraph 2.
 
-### 5.[^key-292efd35208bcf07059ce79d45ad2f76]
+### 5.[^c-292efd35208bcf07059ce79d45ad2f76]
 
 An order under paragraph 4 shall specify the modifications to the arrangements which the employer is required to make and the requirements he must satisfy.
 
-### 6.[^key-060ee3c0e8936c1f81c4b24f2a92f6ee]
+### 6.[^c-060ee3c0e8936c1f81c4b24f2a92f6ee]
 
 A person is an independent ballot supervisor for the purposes of paragraph 2(e) if the employer reasonably believes that he will carry out any functions conferred on him in relation to the ballot competently and has no reasonable grounds for believing that his independence might reasonably be called into question.
 
-### 7.[^key-d5c0eddb6654c9763ae300bac4b513ba]
+### 7.[^c-d5c0eddb6654c9763ae300bac4b513ba]
 
 For the purposes of paragraph 3 the arrangements for the ballot are defective if any of the requirements specified in sub-paragraphs (a) to (g) of paragraph 2 are not satisfied.
 
-### 8. Conduct of the ballot[^key-edb5f5ecb887db07b01d632c4b678c76]
+### 8. Conduct of the ballot[^c-edb5f5ecb887db07b01d632c4b678c76]
 
 The employer must –
 
 - (a) ensure that a ballot supervisor appointed under paragraph 2(e) carries out his functions under this Schedule and that there is no interference with his carrying out of those functions; and
 - (b) comply with all reasonable requests made by a ballot supervisor for the purposes of or in connection with the carrying out of those functions.
 
-### 9.[^key-0c9b844708681854d01f14d4ad0aee5b]
+### 9.[^c-0c9b844708681854d01f14d4ad0aee5b]
 
 A ballot supervisor’s appointment shall require that he –
 
@@ -977,26 +977,26 @@ A ballot supervisor’s appointment shall require that he –
   - (iii) so far as reasonably practicable, those voting are able to do so in secret; and
   - (iv) the votes given in the ballot are fairly and accurately counted.
 
-### 10.[^key-84d6686906b13927a76c7fd4458ecc19]
+### 10.[^c-84d6686906b13927a76c7fd4458ecc19]
 
 As soon as reasonably practicable after the date of the ballot, the ballot supervisor must publish the results of the ballot in such manner as to make them available to the employer and, so far as reasonably practicable, the employees entitled to vote in the ballot and the persons who stood as candidates in the ballot.
 
-### 11.[^key-cabdb9441102bdd9a1e995ab052cc2d7]
+### 11.[^c-cabdb9441102bdd9a1e995ab052cc2d7]
 
 A ballot supervisor shall publish a report (“an ineffective ballot report”) where he considers (whether or not on the basis of representations made to him by another person) that –
 
 - (a) any of the requirements referred to in paragraph 2 was not satisfied with the result that the outcome of the ballot would have been different; or
 - (b) there was interference with the carrying out of his functions or a failure by the employer to comply with all reasonable requests made by him with the result that he was unable to form a proper judgement as to whether each of the requirements referred to in paragraph 2 was satisfied in the ballot.
 
-### 12.[^key-b115110a31bbca9d21acfd348e9a693b]
+### 12.[^c-b115110a31bbca9d21acfd348e9a693b]
 
 Where a ballot supervisor publishes an ineffective ballot report the report must be published within a period of one month commencing on the date on which the ballot supervisor publishes the results of the ballot under paragraph 10.
 
-### 13.[^key-e599db1af039a65f3e619cc2767c4ae6]
+### 13.[^c-e599db1af039a65f3e619cc2767c4ae6]
 
 A ballot supervisor must publish an ineffective ballot report in such manner as to make it available to the employer and, so far as reasonably practicable, the employees entitled to vote in the ballot and the persons who stood as candidates in the ballot.
 
-### 14.[^key-4e9e8aa797cf1ce86f1346a58f5c268a]
+### 14.[^c-4e9e8aa797cf1ce86f1346a58f5c268a]
 
 Where a ballot supervisor publishes an ineffective ballot report the outcome of the ballot shall be of no effect and –
 
@@ -1005,7 +1005,7 @@ Where a ballot supervisor publishes an ineffective ballot report the outcome of 
   - (i) the employer shall arrange for the separate ballot or ballots in respect of which an ineffective ballot report has been issued to be reheld in accordance with regulation 19; and
   - (ii) no such ballot shall have effect until it has been reheld and no ineffective ballot report has been published in respect of it.
 
-### 15.[^key-1806bea22cf5f23232516b3dcc6ba128]
+### 15.[^c-1806bea22cf5f23232516b3dcc6ba128]
 
 All costs relating to the holding of the ballot, including payments made to a ballot supervisor for supervising the conduct of the ballot, shall be borne by the employer (whether or not an ineffective ballot report has been made).
 
@@ -1057,117 +1057,117 @@ The principal provisions of the Regulations provide as follows –
 
 [^f00001]: Footnote: [2004 c. 24](https://www.legislation.gov.uk/ukpga/2004/24)
 
-[^key-5f57b6e0ce7119fb47d1371ceee0f626]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-5f57b6e0ce7119fb47d1371ceee0f626]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-5132ae0b5bd9a238201def9f5bff9de5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-5132ae0b5bd9a238201def9f5bff9de5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00003]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-d57a30bd2925539b4f419943a8ab731b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/a)
+[^c-d57a30bd2925539b4f419943a8ab731b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/a)
 
 [^f00004]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
 [^f00005]: Footnote: O.J. No. L80, 23.3.2002. p. 29
 
-[^key-3fe407fd514232a3a2d10216fbbf3391]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/86/regulation/3)
+[^c-3fe407fd514232a3a2d10216fbbf3391]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/47/regulation/2) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/86/regulation/3)
 
 [^f00006]: Footnote: S.I. [1999/3323](https://www.legislation.gov.uk/uksi/1999/3323)
 
-[^key-829a572d538b06a7ffa935ab74fbd86d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/b)
+[^c-829a572d538b06a7ffa935ab74fbd86d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/2/2) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/25/b)
 
-[^key-39f3a2de406f4601d67608eb36198593]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/47/regulation/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-39f3a2de406f4601d67608eb36198593]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/47/regulation/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-c3a12de1d0c6ebf47fae4ecde4f37c89]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2005/47/regulation/3A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/26)
+[^c-c3a12de1d0c6ebf47fae4ecde4f37c89]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2005/47/regulation/3A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/26)
 
-[^key-1453e21037cb3cf467d45a721c8ba7b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/47/regulation/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-1453e21037cb3cf467d45a721c8ba7b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/47/regulation/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-f4b81e680f810209f352fd7163687acc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/47/regulation/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-f4b81e680f810209f352fd7163687acc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/47/regulation/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-ea78f61502b60d16924cf76a77abb606]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/47/regulation/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-ea78f61502b60d16924cf76a77abb606]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/47/regulation/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-0cc5a8f830e5f3f290e2de6c8cfad7c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/47/regulation/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-0cc5a8f830e5f3f290e2de6c8cfad7c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/47/regulation/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-68aaf2b246e68757f4ffe1ea8143dd61]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/47/regulation/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-68aaf2b246e68757f4ffe1ea8143dd61]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/47/regulation/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-e5de66c445c94eb4466e92420d6a66ca]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/2005/47/regulation/8A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/27)
+[^c-e5de66c445c94eb4466e92420d6a66ca]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/nisr/2005/47/regulation/8A) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/27)
 
-[^key-2f08d706776545f1cc735eb7b1fd3cca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/47/regulation/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-2f08d706776545f1cc735eb7b1fd3cca]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/47/regulation/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-348f370522c6f6cfce2785a399e5b73b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/47/regulation/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-348f370522c6f6cfce2785a399e5b73b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/47/regulation/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-9d7610530f4a8cd60ec0ee03289abc89]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/47/regulation/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-9d7610530f4a8cd60ec0ee03289abc89]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/47/regulation/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-e368230dc65aad78e507dd72f048c3ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/47/regulation/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-e368230dc65aad78e507dd72f048c3ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/47/regulation/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-2957874f216f745fb0e48c23f6b2a375]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/47/regulation/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-2957874f216f745fb0e48c23f6b2a375]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/47/regulation/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-49b5b44f7b7f879c5cdc926f159fe6aa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/47/regulation/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-49b5b44f7b7f879c5cdc926f159fe6aa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/47/regulation/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-369e09741809428dc4948edc4c81627c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/47/regulation/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-369e09741809428dc4948edc4c81627c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/47/regulation/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-8dc774ae877368c75b3b79738e268fb4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/47/regulation/16) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-8dc774ae877368c75b3b79738e268fb4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/47/regulation/16) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-34c431d2d1969651332b8a4020dedcfe]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/e) omitted (5.12.2011) by virtue of [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
+[^c-34c431d2d1969651332b8a4020dedcfe]: Textual amendment: Word in [reg. 16(1)(e)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/e) omitted (5.12.2011) by virtue of [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
 
-[^key-936654bac220eed30e93138805ab468f]: Textual amendment: [Reg. 16(1)(g)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/g) and word inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
+[^c-936654bac220eed30e93138805ab468f]: Textual amendment: [Reg. 16(1)(g)](https://www.legislation.gov.uk/nisr/2005/47/regulation/16/1/g) and word inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/28)
 
-[^key-c7fbd309eaca36e4814439f66d381d89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/47/regulation/17) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-c7fbd309eaca36e4814439f66d381d89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/47/regulation/17) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-6b0308bc367d515538d0432d37bc4aaf]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2005/47/regulation/17A) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/86/regulation/4)
+[^c-6b0308bc367d515538d0432d37bc4aaf]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2005/47/regulation/17A) inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/86/regulation/4)
 
-[^key-2f57b32ef8618be5d249cb1dbe245c0d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/47/regulation/18) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-2f57b32ef8618be5d249cb1dbe245c0d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/47/regulation/18) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-6122968b0432dd07c5f05becf0704ffd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/47/regulation/19) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-6122968b0432dd07c5f05becf0704ffd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/47/regulation/19) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-e77c3c1b200d94a32785058c9d13f344]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/47/regulation/20) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-e77c3c1b200d94a32785058c9d13f344]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/47/regulation/20) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-a23418bf61c3cdb3525e77dc76647e38]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/b) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/29)
+[^c-a23418bf61c3cdb3525e77dc76647e38]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/b) inserted (5.12.2011) by [THE AGENCY WORKERS REGULATIONS (NORTHERN IRELAND) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [reg. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/29)
 
 [^f00007]: Footnote: Articles 216 and 217 were amended by Articles 8, 9 and 10 of the Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations (Northern Ireland) 1999 ([S.R. 1999/432](https://www.legislation.gov.uk/nisr/1999/432))
 
-[^key-86512fce785c70463feb958e06629235]: Textual amendment: Word in [reg. 20(1)(c)(i)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/i) omitted (30.12.2007) by virtue of [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/a)
+[^c-86512fce785c70463feb958e06629235]: Textual amendment: Word in [reg. 20(1)(c)(i)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/i) omitted (30.12.2007) by virtue of [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/a)
 
-[^key-552a1279524eca1ced8bf3d4180573c7]: Textual amendment: [Reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii)[(iii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/iii) substituted for [reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii) (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/b)
+[^c-552a1279524eca1ced8bf3d4180573c7]: Textual amendment: [Reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii)[(iii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/iii) substituted for [reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/1/c/ii) (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/2/b)
 
-[^key-6ae5b55efb512663876575bcfcc3cb7c]: Textual amendment: Word in [reg. 20(5)(a)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/a) omitted (6.4.2006) by virtue of [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/a)
+[^c-6ae5b55efb512663876575bcfcc3cb7c]: Textual amendment: Word in [reg. 20(5)(a)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/a) omitted (6.4.2006) by virtue of [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/a)
 
-[^key-8b29476c9b14c79f39f9159bad24416c]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) substituted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
+[^c-8b29476c9b14c79f39f9159bad24416c]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) substituted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
 
-[^key-578f6d7e160b0c29f8042314d7aa010f]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) inserted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
+[^c-578f6d7e160b0c29f8042314d7aa010f]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/b) inserted (30.12.2007) by [The Transfer of Undertakings and Service Provision Change (Protection of Employment) (Consequential Amendments etc.) Regulations (Northern Ireland) 2007 (S.R. 2007/494)](https://www.legislation.gov.uk/nisr/2007/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/494/regulation/3/3)
 
-[^key-8608e9a15e29ece082f923d290ca1c80]: Textual amendment: [Reg. 20(5)(c)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/c) and word inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/b)
+[^c-8608e9a15e29ece082f923d290ca1c80]: Textual amendment: [Reg. 20(5)(c)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5/c) and word inserted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/b)
 
-[^key-ae83bad830d0b10e76aca7e6ce1d3b6a]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5) substituted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/c)
+[^c-ae83bad830d0b10e76aca7e6ce1d3b6a]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/nisr/2005/47/regulation/20/5) substituted (6.4.2006) by [The Information and Consultation of Employees (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/86)](https://www.legislation.gov.uk/nisr/2006/86), [regs. 1](https://www.legislation.gov.uk/nisr/2006/86/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2006/86/regulation/5/c)
 
-[^key-db8c0ec99c46b6e5fb22fe24ee607aed]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/47/regulation/21) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-db8c0ec99c46b6e5fb22fe24ee607aed]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/47/regulation/21) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-c8d30a53b6ca1427e1117f79a94c4b54]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/47/regulation/22) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-c8d30a53b6ca1427e1117f79a94c4b54]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/47/regulation/22) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-86cb387d036a2dca171d3d4fcf0504a0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/47/regulation/23) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-86cb387d036a2dca171d3d4fcf0504a0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/47/regulation/23) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-0c1937fd6c3ecfbea0b3ad1d78efb953]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/47/regulation/24) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-0c1937fd6c3ecfbea0b3ad1d78efb953]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/47/regulation/24) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-7caa890c1910ad8664635f80b1269f14]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/47/regulation/25) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-7caa890c1910ad8664635f80b1269f14]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/47/regulation/25) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
 [^f00009]: Footnote: Article 67A of the 1996 Order was inserted by Article 3 of the Public Interest Disclosure (Northern Ireland) Order 1998 (S.I. [1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763))
 
-[^key-271acec2df9db9a9b96dd34bd933ca45]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/47/regulation/26) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-271acec2df9db9a9b96dd34bd933ca45]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/47/regulation/26) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-e5cbbbdb2d69885c501b77ffe1885d1d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/47/regulation/27) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-e5cbbbdb2d69885c501b77ffe1885d1d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/47/regulation/27) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-77744c511a16fed716ccc2975f837a6a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/47/regulation/28) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-77744c511a16fed716ccc2975f837a6a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/47/regulation/28) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-fa1c02b23b3862d490552f4a10f2df48]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/47/regulation/29) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-fa1c02b23b3862d490552f4a10f2df48]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/47/regulation/29) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-5185c7d2d729e8ae69c361a5a81bf97b]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/nisr/2005/47/regulation/29/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/30)
+[^c-5185c7d2d729e8ae69c361a5a81bf97b]: Textual amendment: [Reg. 29(2A)](https://www.legislation.gov.uk/nisr/2005/47/regulation/29/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/30)
 
-[^key-5ce254c833f8969d9ad40b1b2f4a1d65]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/nisr/2005/47/regulation/29A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/31)
+[^c-5ce254c833f8969d9ad40b1b2f4a1d65]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/nisr/2005/47/regulation/29A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/31)
 
-[^key-16ef0e3215387485e2deac1d1dfcf736]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/47/regulation/30) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-16ef0e3215387485e2deac1d1dfcf736]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/47/regulation/30) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-79f32975fe747fce0e67793d37f27bc1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/47/regulation/31) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-79f32975fe747fce0e67793d37f27bc1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/47/regulation/31) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
 [^f00010]: Footnote: Article 137 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed
 
@@ -1177,58 +1177,58 @@ The principal provisions of the Regulations provide as follows –
 
 [^f00013]: Footnote: Article 141(2) has been amended on a number of occasions to specify additional cases where the upper age limit does not apply
 
-[^key-e7670f10ab38f919b3b62ca529ae337a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/47/regulation/32) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-e7670f10ab38f919b3b62ca529ae337a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/47/regulation/32) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-bbecc35888ce815d9494c8c984a20cb9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/47/regulation/33) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-bbecc35888ce815d9494c8c984a20cb9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/47/regulation/33) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-dcba298f9ec3f22d8d0f5864217c2213]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/47/regulation/34) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-dcba298f9ec3f22d8d0f5864217c2213]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/47/regulation/34) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
 [^f00014]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921) Article 20 has been amended on a number of occasions to specify additional proceedings and claims to which the Article applies
 
-[^key-f62ee669f848709d97c2477170718d35]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/47/regulation/35) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-f62ee669f848709d97c2477170718d35]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/47/regulation/35) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-ddd26b20f565020bec898bfa46082fe8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/47/regulation/36) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-ddd26b20f565020bec898bfa46082fe8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/47/regulation/36) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisr/1995/1980)
 
-[^key-607c68ad63eb6cf80a6fa5ca3e520198]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2005/47/regulation/37) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-607c68ad63eb6cf80a6fa5ca3e520198]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2005/47/regulation/37) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-7aece04005818bb3858b261c4b4140c8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/47/regulation/38) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-7aece04005818bb3858b261c4b4140c8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/47/regulation/38) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-88e60920c8a81a32d84880e195cae341]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/38/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 32](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/32)
+[^c-88e60920c8a81a32d84880e195cae341]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/nisr/2005/47/regulation/38/2) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 32](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/32)
 
-[^key-a5c86fb5addcf2092d71c63808df220d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/47/regulation/39) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-a5c86fb5addcf2092d71c63808df220d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/47/regulation/39) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-94d13d8326980eb495020fea3bde46a5]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/47/regulation/40) omitted (26.1.2020) by virtue of [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/12/regulation/4/2)
+[^c-94d13d8326980eb495020fea3bde46a5]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/47/regulation/40) omitted (26.1.2020) by virtue of [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/12/regulation/4/2)
 
-[^key-02cee4327bd46aaeee95aea15c04adb4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-02cee4327bd46aaeee95aea15c04adb4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-b95aaf34123f36fbf1fc49b6c5d9b220]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-b95aaf34123f36fbf1fc49b6c5d9b220]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/1) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-8675cf2748337986ac3213875ddc2e7f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-8675cf2748337986ac3213875ddc2e7f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/2) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-0ccd14780a1720bf0e4838ce44520420]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-0ccd14780a1720bf0e4838ce44520420]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/3) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-d1d5a15962ff3c37e3015ce99ff9577c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-d1d5a15962ff3c37e3015ce99ff9577c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/4) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-292efd35208bcf07059ce79d45ad2f76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-292efd35208bcf07059ce79d45ad2f76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/5) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-060ee3c0e8936c1f81c4b24f2a92f6ee]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-060ee3c0e8936c1f81c4b24f2a92f6ee]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/6) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-d5c0eddb6654c9763ae300bac4b513ba]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-d5c0eddb6654c9763ae300bac4b513ba]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/7) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-edb5f5ecb887db07b01d632c4b678c76]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-edb5f5ecb887db07b01d632c4b678c76]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/8) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-0c9b844708681854d01f14d4ad0aee5b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-0c9b844708681854d01f14d4ad0aee5b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/9) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-84d6686906b13927a76c7fd4458ecc19]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-84d6686906b13927a76c7fd4458ecc19]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/10) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-cabdb9441102bdd9a1e995ab052cc2d7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-cabdb9441102bdd9a1e995ab052cc2d7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/11) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-b115110a31bbca9d21acfd348e9a693b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-b115110a31bbca9d21acfd348e9a693b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/12) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-e599db1af039a65f3e619cc2767c4ae6]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-e599db1af039a65f3e619cc2767c4ae6]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/13) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-4e9e8aa797cf1ce86f1346a58f5c268a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-4e9e8aa797cf1ce86f1346a58f5c268a]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/14) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
 
-[^key-1806bea22cf5f23232516b3dcc6ba128]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)
+[^c-1806bea22cf5f23232516b3dcc6ba128]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2005/47/schedule/2/paragraph/15) in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/47/regulation/1)

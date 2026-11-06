@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134A. OFCOM reports on infrastructure etc[^key-664126478f24a6febb38714cad6b23c6]
+## 134A. OFCOM reports on infrastructure etc[^c-664126478f24a6febb38714cad6b23c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 (4) “**Relevant period**” means—
 
 - (a) the period of 3 years beginning with the day specified in the first report, and
-- (b)[^key-952a5ca3343fbce5535041bd0bba8b65] each subsequent period beginning with the end of the previous period and ending at such time not more than 3 years after the end of the previous period as OFCOM may determine.
+- (b)[^c-952a5ca3343fbce5535041bd0bba8b65] each subsequent period beginning with the end of the previous period and ending at such time not more than 3 years after the end of the previous period as OFCOM may determine.
 
 (5) Where there is a significant change in connection with a matter listed in section 134B(1) or (2) and OFCOM consider that the change should be brought to the attention of the Secretary of State, OFCOM must—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-952a5ca3343fbce5535041bd0bba8b65]: Textual amendment: S. 134A(4)(b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/55)
+[^c-952a5ca3343fbce5535041bd0bba8b65]: Textual amendment: S. 134A(4)(b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/55)

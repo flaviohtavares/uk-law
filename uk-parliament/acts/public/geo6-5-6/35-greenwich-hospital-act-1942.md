@@ -37,12 +37,12 @@ An Act to extend the powers of the Admiralty under section twenty of the Greenwi
 
 (1) The powers conferred on the Admiralty by section twenty of the [^c591180]Greenwich Hospital Act, 1865, as extended by section eight of the [^c591181]Greenwich Hospital Act, 1872, shall extend and be deemed to have extended so as to include power—
 
-- (a) to grant from the funds of Greenwich Hospital such pensions or pecuniary benefits as the Admiralty think fit to persons employed for the purposes of Greenwich Hospital, or to their legal personal representatives, widows, surviving civil partners[^key-c14a2da07eb877832afa235feda73bef] or dependants; and
-- (b) to contribute towards the payment by any other authority or person of pensions or pecuniary benefits to persons who have been employed as aforesaid, or to their legal personal representatives, widows, surviving civil partners[^key-75cb53af0f9bccb36ba34554d20a135c] or dependants.
+- (a) to grant from the funds of Greenwich Hospital such pensions or pecuniary benefits as the Admiralty think fit to persons employed for the purposes of Greenwich Hospital, or to their legal personal representatives, widows, surviving civil partners[^c-c14a2da07eb877832afa235feda73bef] or dependants; and
+- (b) to contribute towards the payment by any other authority or person of pensions or pecuniary benefits to persons who have been employed as aforesaid, or to their legal personal representatives, widows, surviving civil partners[^c-75cb53af0f9bccb36ba34554d20a135c] or dependants.
 
-(2) The said powers shall, in the case of persons who retire after the passing of this Act from such employment as aforesaid, also extend so as to include power to permit the allocation, to such extent and subject to such conditions as the Admiralty may prescribe, to the spouses, civil partners[^key-1a84f17305151519672512ab76f8b2cf] and dependants of any such persons of pensions granted to them from the funds of Greenwich Hospital.
+(2) The said powers shall, in the case of persons who retire after the passing of this Act from such employment as aforesaid, also extend so as to include power to permit the allocation, to such extent and subject to such conditions as the Admiralty may prescribe, to the spouses, civil partners[^c-1a84f17305151519672512ab76f8b2cf] and dependants of any such persons of pensions granted to them from the funds of Greenwich Hospital.
 
-(3)[^key-750e8330581efb078c43298b3e770ac0][^c591182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-750e8330581efb078c43298b3e770ac0][^c591182] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The powers conferred by this section shall be in addition to and not in derogation of any existing power exercisable by the Admiralty under the Greenwich Hospital Acts, 1865 to 1921.
 
@@ -66,13 +66,13 @@ This Act may be cited as the Greenwich Hospital Act, 1942, and the Greenwich Hos
 
 [^c591181]: Marginal citation: [1872 c. 67](https://www.legislation.gov.uk/ukpga/1872/67).
 
-[^key-c14a2da07eb877832afa235feda73bef]: Textual amendment: Words in s. 1(1)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(1)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-c14a2da07eb877832afa235feda73bef]: Textual amendment: Words in s. 1(1)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(1)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-75cb53af0f9bccb36ba34554d20a135c]: Textual amendment: Words in s. 1(1)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(1)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-75cb53af0f9bccb36ba34554d20a135c]: Textual amendment: Words in s. 1(1)(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(1)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-1a84f17305151519672512ab76f8b2cf]: Textual amendment: Words in s. 1(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-1a84f17305151519672512ab76f8b2cf]: Textual amendment: Words in s. 1(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 14(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/14/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-750e8330581efb078c43298b3e770ac0]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/Geo6/5-6/35/section/1/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2
+[^c-750e8330581efb078c43298b3e770ac0]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/Geo6/5-6/35/section/1/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 2
 
 [^c591182]: Modification: The text of S. 1(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any repeals or amendments which may have been made prior to 1.2.1991
 

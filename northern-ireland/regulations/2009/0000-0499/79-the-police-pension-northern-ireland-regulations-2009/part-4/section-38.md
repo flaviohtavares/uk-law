@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Calculation of adult survivors’ pensions[^key-bb3539aca6ddc3ad3d0b32ba7639c00b]
+## 38. Calculation of adult survivors’ pensions[^c-bb3539aca6ddc3ad3d0b32ba7639c00b]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ the Board may, in their discretion, withhold the pension.
 
 ## Annotations
 
-[^key-bb3539aca6ddc3ad3d0b32ba7639c00b]: Commencement: Reg. 38 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-bb3539aca6ddc3ad3d0b32ba7639c00b]: Commencement: Reg. 38 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

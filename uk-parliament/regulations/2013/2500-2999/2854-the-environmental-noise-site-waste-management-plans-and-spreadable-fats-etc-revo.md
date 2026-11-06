@@ -56,11 +56,11 @@ So far as relating to regulation 2(c), the Secretary of State makes the followin
 
 So far as relating to regulation 3, the Secretary of State makes the following Regulations in exercise of the powers conferred by sections 16(1) and 26(1) and (3) of the Food Safety Act 1990, and now vested in the Secretary of State[^f00005].
 
-## 1. Citation and commencement[^key-b3a19e36e76c5e04e2f37b2c2c16fe46]
+## 1. Citation and commencement[^c-b3a19e36e76c5e04e2f37b2c2c16fe46]
 
 These Regulations may be cited as the Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 and come into force on 1st December 2013.
 
-## 2. Revocations[^key-2f3977532349e53a182b633e52d4a800]
+## 2. Revocations[^c-2f3977532349e53a182b633e52d4a800]
 
 The following Regulations are revoked—
 
@@ -68,7 +68,7 @@ The following Regulations are revoked—
 - (b) the Environmental Noise (Identification of Noise Sources) (England) (Amendment) Regulations 2007[^f00007];
 - (c) the Site Waste Management Plans Regulations 2008[^f00008].
 
-## 3. Amendment of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^key-3e4e49b420b8750d7e5f2f3a68a637d4]
+## 3. Amendment of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^c-3e4e49b420b8750d7e5f2f3a68a637d4]
 
 (1) The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^f00009] are amended as follows.
 
@@ -113,9 +113,9 @@ A full impact assessment of the effect that the revocation of the Site Waste Man
 
 [^f00005]: Footnote: Functions of the Minister of Agriculture, Fisheries and Food under the Food Safety Act 1990 ceased to be exercisable by that Minister by virtue of section 26(1) of the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28); references to the Secretary of State were inserted into section 16 of the Food Safety Act 1990 by the Food Standards Act 1999, Schedule 5, paragraphs 7 and 8.
 
-[^key-b3a19e36e76c5e04e2f37b2c2c16fe46]: Commencement: Reg. 1 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
+[^c-b3a19e36e76c5e04e2f37b2c2c16fe46]: Commencement: Reg. 1 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
 
-[^key-2f3977532349e53a182b633e52d4a800]: Commencement: Reg. 2 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
+[^c-2f3977532349e53a182b633e52d4a800]: Commencement: Reg. 2 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2007/415](https://www.legislation.gov.uk/uksi/2007/415), amended by [S.I. 2007/2458](https://www.legislation.gov.uk/uksi/2007/2458).
 
@@ -123,6 +123,6 @@ A full impact assessment of the effect that the revocation of the Site Waste Man
 
 [^f00008]: Footnote: [S.I. 2008/314](https://www.legislation.gov.uk/uksi/2008/314), to which there are amendments not relevant to this instrument.
 
-[^key-3e4e49b420b8750d7e5f2f3a68a637d4]: Commencement: Reg. 3 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
+[^c-3e4e49b420b8750d7e5f2f3a68a637d4]: Commencement: Reg. 3 in force at 1.12.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2854/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2008/1287](https://www.legislation.gov.uk/uksi/2008/1287), to which there are amendments not relevant to this instrument.

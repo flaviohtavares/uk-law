@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Instruction in flying[^key-56b3b4c7e20ba6adf7a187a20b2625e2]
+## 45. Instruction in flying[^c-56b3b4c7e20ba6adf7a187a20b2625e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b3b4c7e20ba6adf7a187a20b2625e2]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2015/870/article/45) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-56b3b4c7e20ba6adf7a187a20b2625e2]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2015/870/article/45) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

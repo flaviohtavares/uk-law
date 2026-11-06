@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Admission and rejection of claims[^key-06d70985be2eb360ce9a446ef9b5a10d]
+## 25. Admission and rejection of claims[^c-06d70985be2eb360ce9a446ef9b5a10d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d70985be2eb360ce9a446ef9b5a10d]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2007/3141/rule/25) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-06d70985be2eb360ce9a446ef9b5a10d]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2007/3141/rule/25) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

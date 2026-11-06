@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Guarantees by the Secretary of State[^key-b4647335ce4a64cbc0e1e35e08ef07b6]
+## 22. Guarantees by the Secretary of State[^c-b4647335ce4a64cbc0e1e35e08ef07b6]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4647335ce4a64cbc0e1e35e08ef07b6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2008/17/section/22) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-b4647335ce4a64cbc0e1e35e08ef07b6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2008/17/section/22) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/k) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

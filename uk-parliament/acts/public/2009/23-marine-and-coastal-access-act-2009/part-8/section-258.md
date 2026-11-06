@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Power to require attendance of certain persons[^key-c70574f477909c4a8eb0491bdf5106d2]
+## 258. Power to require attendance of certain persons[^c-c70574f477909c4a8eb0491bdf5106d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c70574f477909c4a8eb0491bdf5106d2]: Commencement: S. 258 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-c70574f477909c4a8eb0491bdf5106d2]: Commencement: S. 258 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

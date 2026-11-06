@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Financial provision[^key-865aeeb10765afcd0f7ff22449a91cb0]
+## 77. Financial provision[^c-865aeeb10765afcd0f7ff22449a91cb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-865aeeb10765afcd0f7ff22449a91cb0]: Commencement: S. 77 in force at Royal Assent, see [s. 81(1)(c)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/c)
+[^c-865aeeb10765afcd0f7ff22449a91cb0]: Commencement: S. 77 in force at Royal Assent, see [s. 81(1)(c)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/c)

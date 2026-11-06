@@ -69,13 +69,13 @@ These Regulations may be cited as the Bankruptcy (Scotland) Regulations 2016 and
 
 (1) The forms set out in schedule 1 are the forms referred to in regulations 8, 12, 19, 20, 23, 24, 27 and 29, failing which they are prescribed for the purposes of the provisions of the Act referred to in the form.
 
-(2) Any signature required as shown on a form set out in schedule 1 must be provided [^key-b7dd440f85a4170978ca9f982c6c63b0]... by—
+(2) Any signature required as shown on a form set out in schedule 1 must be provided [^c-b7dd440f85a4170978ca9f982c6c63b0]... by—
 
-- (a) a manuscript signature; [^key-b7dd440f85a4170978ca9f982c6c63b0]...
-- (b) except in Forms 19 to 21, an image of a manuscript signature sent electronically ; or[^key-d8ad310301077854b7444fe76576f04d]
+- (a) a manuscript signature; [^c-b7dd440f85a4170978ca9f982c6c63b0]...
+- (b) except in Forms 19 to 21, an image of a manuscript signature sent electronically ; or[^c-d8ad310301077854b7444fe76576f04d]
 - (c) in any case, an electronic signature.
 
-(3)[^key-319ec9afb71b7b52850db01969b472ed] In paragraph (2), “electronic signature” (except where it relates to Form 9) is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000 (electronic signatures and related certificates), but includes a version of an electronic signature which is reproduced on a paper document.
+(3)[^c-319ec9afb71b7b52850db01969b472ed] In paragraph (2), “electronic signature” (except where it relates to Form 9) is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000 (electronic signatures and related certificates), but includes a version of an electronic signature which is reproduced on a paper document.
 
 ## PART 1 — Money advisers
 
@@ -318,7 +318,7 @@ A creditor may state the amount of that creditor's claim in a foreign currency f
 - (a) where the claim is constituted by decree or other order made by a court ordering the debtor to pay to the creditor a sum expressed in a foreign currency; or
 - (b) where the claim is not so constituted, it arises from a contract or bill of exchange in terms of which payment is or may be required to be made by the debtor to the creditor in a foreign currency [^c23277911].
 
-### 22. Conversion of foreign currency claims[^key-4d0f76619d819dc524bdfeb8d9fa455c]
+### 22. Conversion of foreign currency claims[^c-4d0f76619d819dc524bdfeb8d9fa455c]
 
 For the purposes of sections 48(1)(a) and 126(5) of the Act, the manner of conversion into sterling of the amount of a claim stated in foreign currency is to be at a single exchange rate for that currency determined by the trustee with reference to the exchange rates prevailing at the close of business on the date of sequestration.
 
@@ -353,9 +353,9 @@ The course of financial education prescribed for the purposes of section 117(1) 
 
 ### 26. Interest on claims in sequestration
 
-(1)[^key-434dc68ed98e4702532a0012c3e79498] The prescribed rate of interest for the purposes of section 129(10)(a) of the Act (interest on preferred debts and ordinary debts between the date of sequestration and the date of payment of the debt) is an annual rate of 2 percentage points above the Bank of England base rate that applies on the date of sequestration[^key-bcfa4205ab8ff82fa75017bef4940008].
+(1)[^c-434dc68ed98e4702532a0012c3e79498] The prescribed rate of interest for the purposes of section 129(10)(a) of the Act (interest on preferred debts and ordinary debts between the date of sequestration and the date of payment of the debt) is an annual rate of 2 percentage points above the Bank of England base rate that applies on the date of sequestration[^c-bcfa4205ab8ff82fa75017bef4940008].
 
-(2)[^key-f1bfe6e8ca26c53c77ced02cb390e7b0] In paragraph (1), “**Bank of England base rate**” means—
+(2)[^c-f1bfe6e8ca26c53c77ced02cb390e7b0] In paragraph (1), “**Bank of England base rate**” means—
 
 - (a) except where sub-paragraph (b) applies, the percentage rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the money markets, or
 - (b) where an order under section 19 of the Bank of England Act 1998 (reserve powers) is in force, any equivalent percentage rate determined by the Treasury under that section.
@@ -434,7 +434,7 @@ Regulation 3
 
 ### LIST OF FORMS TO BE USED
 
-| *Form* | *Purpose* | *Relevant provisions of the Act* | *Relevant provision of these Regulations or any other Regulations as may be specified[^key-8a38905d17bb3c54587cb68e429a5be6]* | *Form consolidated* |
+| *Form* | *Purpose* | *Relevant provisions of the Act* | *Relevant provision of these Regulations or any other Regulations as may be specified[^c-8a38905d17bb3c54587cb68e429a5be6]* | *Form consolidated* |
 | --- | --- | --- | --- | --- |
 | 1 | Debtor Application | Sections 2(1)(a), 5(a), 8(3)(a), 224(3)(c) and 228(1) | Regulation 12(1)(a) | *Form 14* |
 | 2 | Certificate for sequestration | Section 9 | Regulation 8(1) | *S.S.I. 2010/397, amended by S.S.I. 2014/296.* |
@@ -470,11 +470,11 @@ Regulation 3
 | 32 | Notice granting Trustee Authority to Resign Office | Section 142(5) | Regulation 3 | *Form 13* |
 | 33 | Moratorium – Notice of Intention to Apply | Section 195(1) | Regulation 29 | *Form 29* |
 | 34 | Moratorium – Notice of Intention to Apply (Trust, Partnership, etc.) | Section 196(1) | Regulation 29 | *Form 30* |
-| 35[^key-1048a69784d4115a6fc681c822c95706] | Trustee application for authority to resign office – debtor’s failure to co-operate | Section 147A(3) | Regulation 3(5)(a) of the Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 | Not applicable |
+| 35[^c-1048a69784d4115a6fc681c822c95706] | Trustee application for authority to resign office – debtor’s failure to co-operate | Section 147A(3) | Regulation 3(5)(a) of the Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 | Not applicable |
 | 36 | Intention to resign notice | Section 147A(5)(a) | Regulation 3(5)(b) of the Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 | Not applicable |
 | 37 | Notice granting the trustee authority to resign office – debtor’s failure to co-operate | Section 147A(6)(b) | Regulation 3(5)(c) of the Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 | Not applicable |
 
-[^key-5a11c87f711b4c9bf6c240b09a54a2bf][^key-e8d7b5254055f5f9eeb03c720ebb62a1][^key-7a51230f29c8309b3e3c117f4e095459]Form 1
+[^c-5a11c87f711b4c9bf6c240b09a54a2bf][^c-e8d7b5254055f5f9eeb03c720ebb62a1][^c-7a51230f29c8309b3e3c117f4e095459]Form 1
 
 Debtor Application
 
@@ -516,7 +516,7 @@ Form of Schedule of Award of Sequestration on Application by Debtor or Executor
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_078)
 
-[^key-1e76f1e570c82157c67f7a8b2cf9d8f2]Form 8
+[^c-1e76f1e570c82157c67f7a8b2cf9d8f2]Form 8
 
 Form of Refusal of Award of Sequestration
 
@@ -536,7 +536,7 @@ Petition by creditor or trustee under a trust deed
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_082)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_083)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_084)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_085)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_086)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_087)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_088)
 
-[^key-a5f2b1f4a53f0f681247e7ad16a270bb][^key-1cd478dcfbbb93ab90cfa6c2c48b9ec1]Form 11
+[^c-a5f2b1f4a53f0f681247e7ad16a270bb][^c-1cd478dcfbbb93ab90cfa6c2c48b9ec1]Form 11
 
 Statement of Claim by Creditor
 
@@ -548,7 +548,7 @@ Form of Undertaking to act as Trustee in Sequestration on the Application of a D
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_091)
 
-[^key-778b12e62449f105774d6ecaf3c4a471]Form 13
+[^c-778b12e62449f105774d6ecaf3c4a471]Form 13
 
 Statement of Undertakings
 
@@ -608,7 +608,7 @@ Notice of Proceedings by Trustee to Obtain Authority in Relation to Debtor's Fam
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_107)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_108)
 
-[^key-2b147d16df273668bcae124f4d086332]Form 23
+[^c-2b147d16df273668bcae124f4d086332]Form 23
 
 Debtor's Account of Current State of Affairs
 
@@ -626,13 +626,13 @@ Debtor Certificate of Discharge (where Accountant in Bankruptcy not the trustee)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_120)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_121)
 
-[^key-46b683947b79d8d8d1e782dc9a12c4ea][^key-cc342afe5f0774ea6526e81e9dc07b6c]Form 26
+[^c-46b683947b79d8d8d1e782dc9a12c4ea][^c-cc342afe5f0774ea6526e81e9dc07b6c]Form 26
 
 Debtor Certificate of Discharge (where Accountant in Bankruptcy is the trustee)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_122)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_123)
 
-[^key-d6a063694fef8bd365fa0099dd36112c]Form 27
+[^c-d6a063694fef8bd365fa0099dd36112c]Form 27
 
 Debtor Certificate of Discharge (debtor to whom section 2(2) applies)
 
@@ -680,19 +680,19 @@ Moratorium – Notice of Intention to Apply (Trust, Partnership, etc.)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_sld_139)
 
-Form 35[^key-3adb59d1dea86856b03a799941d89f90]
+Form 35[^c-3adb59d1dea86856b03a799941d89f90]
 
 Trustee application for authority to resign office – debtor’s failure to co-operate
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_epp_005.gif)
 
-Form 36[^key-192937710601b1793b70acb549df2c68]
+Form 36[^c-192937710601b1793b70acb549df2c68]
 
 Intention to resign notice
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/ssi/2016/397/images/ssi_20160397_en_epp_007.gif)
 
-Form 37[^key-c0c1b1600ae69773173cbd97a6d95f3f]
+Form 37[^c-c0c1b1600ae69773173cbd97a6d95f3f]
 
 Notice granting the trustee authority to resign office – debtor’s failure to co-operate
 
@@ -735,8 +735,8 @@ Regulation 30
 
 - Name and address of granter of trust deed
 - Granter's date of birth (where known)
-- Address of the centre of main interests and all establishments, within the meaning of the Regulation (EU) 2015/848[^key-25e1bef993f4a20a09e8a1cc432e9036] (as it forms part of domestic law on and after exit day)[^key-b53bbe186aa5cd9f18f9ca9f449c7f10], of the granter of the trust deed,[^key-4a9ae39430f2749753206090071c1b9c]...
-- Whether the protected trust deed is considered to be main or territorial proceedings within the meaning of the said EU[^key-dd43b8ab516aff902fe5d3a54d554440] Regulation
+- Address of the centre of main interests and all establishments, within the meaning of the Regulation (EU) 2015/848[^c-25e1bef993f4a20a09e8a1cc432e9036] (as it forms part of domestic law on and after exit day)[^c-b53bbe186aa5cd9f18f9ca9f449c7f10], of the granter of the trust deed,[^c-4a9ae39430f2749753206090071c1b9c]...
+- Whether the protected trust deed is considered to be main or territorial proceedings within the meaning of the said EU[^c-dd43b8ab516aff902fe5d3a54d554440] Regulation
 - The location and nature of any other insolvency proceedings
 - Name and address of trustee under deed
 - Date (or dates) of execution of deed
@@ -855,11 +855,11 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c23277661]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and schedule 17, paragraph 158.
 
-[^key-b7dd440f85a4170978ca9f982c6c63b0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/2) omitted (29.3.2021) by virtue of [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/2) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
+[^c-b7dd440f85a4170978ca9f982c6c63b0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/2) omitted (29.3.2021) by virtue of [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/2) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
 
-[^key-d8ad310301077854b7444fe76576f04d]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/2/c) and word inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/3) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
+[^c-d8ad310301077854b7444fe76576f04d]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/2/c) and word inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/3) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
 
-[^key-319ec9afb71b7b52850db01969b472ed]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/3) inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/4) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
+[^c-319ec9afb71b7b52850db01969b472ed]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2016/397/regulation/3/3) inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [6(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/6/4) (with [reg. 3(c)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/c))
 
 [^c23277671]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 390 was amended by the Adults with [Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), schedule 5, paragraph 18; the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), schedule 4, paragraph 16(2); the [Enterprise Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), schedule 21, paragraph 4; [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), schedule 1, paragraph 18(3); the [Mental Capacity Act 2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9), schedule 6, paragraph 31(3), schedule 7; the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), schedule 20, paragraph 6; [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), schedule 1, paragraph 78(4); the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20) (“**the 2015 Act**”), section 17(2) and the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26), section 115.
 
@@ -911,7 +911,7 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c23277911]: Marginal citation: This regulation re-enacts, with modifications, regulation 10 of the 2014 Regulations.
 
-[^key-4d0f76619d819dc524bdfeb8d9fa455c]: Textual amendment: Reg. 22 substituted (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/2)
+[^c-4d0f76619d819dc524bdfeb8d9fa455c]: Textual amendment: Reg. 22 substituted (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/2)
 
 [^c23277931]: Marginal citation: This regulation re-enacts regulation 12 of the 2014 Regulations.
 
@@ -919,11 +919,11 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c23277951]: Marginal citation: Money Advice Scotland is a company registered in Scotland with registered number SC137717, registered charity in Scotland registration number SC005663. The Scottish Financial Education Module is available at http://www.moneyadvicescotland.org.uk/.
 
-[^key-434dc68ed98e4702532a0012c3e79498]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/397/regulation/26) renumbered as reg. 26(1) (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/2)
+[^c-434dc68ed98e4702532a0012c3e79498]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/397/regulation/26) renumbered as reg. 26(1) (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/2)
 
-[^key-bcfa4205ab8ff82fa75017bef4940008]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/ssi/2016/397/regulation/26/1) substituted (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/3)
+[^c-bcfa4205ab8ff82fa75017bef4940008]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/ssi/2016/397/regulation/26/1) substituted (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/3)
 
-[^key-f1bfe6e8ca26c53c77ced02cb390e7b0]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/26/2) inserted (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/4)
+[^c-f1bfe6e8ca26c53c77ced02cb390e7b0]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/26/2) inserted (6.4.2024) by [The Bankruptcy (Scotland) Amendment Regulations 2024 (S.S.I. 2024/48)](https://www.legislation.gov.uk/ssi/2024/48), [regs. 1](https://www.legislation.gov.uk/ssi/2024/48/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/48/regulation/2/4)
 
 [^c23277971]: Marginal citation: This regulation re-enacts regulation 19 of the 2014 Regulations.
 
@@ -931,37 +931,37 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c23277991]: Marginal citation: This regulation re-enacts regulation 8 of the 2014 Regulations.
 
-[^key-1048a69784d4115a6fc681c822c95706]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) table inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/1)
+[^c-1048a69784d4115a6fc681c822c95706]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) table inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/1)
 
-[^key-8a38905d17bb3c54587cb68e429a5be6]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) table substituted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/2)
+[^c-8a38905d17bb3c54587cb68e429a5be6]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) table substituted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/2)
 
-[^key-5a11c87f711b4c9bf6c240b09a54a2bf]: Textual amendment: Sch. 1 Form 1: in the Statement of Undertakings, in undertaking 2, the word “application” is substituted for “award” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/a)
+[^c-5a11c87f711b4c9bf6c240b09a54a2bf]: Textual amendment: Sch. 1 Form 1: in the Statement of Undertakings, in undertaking 2, the word “application” is substituted for “award” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/a)
 
-[^key-e8d7b5254055f5f9eeb03c720ebb62a1]: Textual amendment: Sch. 1 Form 1, section 3.1a: the sum "£25,000" is substituted for "£17,000" (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/7/2)
+[^c-e8d7b5254055f5f9eeb03c720ebb62a1]: Textual amendment: Sch. 1 Form 1, section 3.1a: the sum "£25,000" is substituted for "£17,000" (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/7/2)
 
-[^key-7a51230f29c8309b3e3c117f4e095459]: Textual amendment: Sch. 1 Form 1, undertaking 13: the words "the total Full Administration bankruptcy application fee" are substituted for “a further £110” (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/7/3)
+[^c-7a51230f29c8309b3e3c117f4e095459]: Textual amendment: Sch. 1 Form 1, undertaking 13: the words "the total Full Administration bankruptcy application fee" are substituted for “a further £110” (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/7/3)
 
-[^key-1e76f1e570c82157c67f7a8b2cf9d8f2]: Textual amendment: Sch. 1 Form 8: the sum "£25,000" is substituted for "£17,000" (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [8](https://www.legislation.gov.uk/ssi/2021/148/regulation/8)
+[^c-1e76f1e570c82157c67f7a8b2cf9d8f2]: Textual amendment: Sch. 1 Form 8: the sum "£25,000" is substituted for "£17,000" (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [8](https://www.legislation.gov.uk/ssi/2021/148/regulation/8)
 
-[^key-a5f2b1f4a53f0f681247e7ad16a270bb]: Textual amendment: Sch. 1 Form 11: in Note 4, the words “insolvency practitioner” are substituted for “liquidator” each time it occurs (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
+[^c-a5f2b1f4a53f0f681247e7ad16a270bb]: Textual amendment: Sch. 1 Form 11: in Note 4, the words “insolvency practitioner” are substituted for “liquidator” each time it occurs (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
 
-[^key-1cd478dcfbbb93ab90cfa6c2c48b9ec1]: Textual amendment: Sch. 1 Form 11 Note 4 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cd478dcfbbb93ab90cfa6c2c48b9ec1]: Textual amendment: Sch. 1 Form 11 Note 4 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-778b12e62449f105774d6ecaf3c4a471]: Textual amendment: Sch. 1 Form 13: after “that” in the third line of undertaking 11, the word “date” is inserted (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/b)
+[^c-778b12e62449f105774d6ecaf3c4a471]: Textual amendment: Sch. 1 Form 13: after “that” in the third line of undertaking 11, the word “date” is inserted (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/b)
 
-[^key-2b147d16df273668bcae124f4d086332]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 23: the words “section 87(2)” are substituted for “section 87(1)” (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/4)
+[^c-2b147d16df273668bcae124f4d086332]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 23: the words “section 87(2)” are substituted for “section 87(1)” (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/4)
 
-[^key-46b683947b79d8d8d1e782dc9a12c4ea]: Textual amendment: Sch. 1 Form 26: for the title to Notes, “Debtor certificate of discharge (where the Accountant in Bankruptcy is the trustee)” is substituted for “Debtor certificate of discharge” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/c/i)
+[^c-46b683947b79d8d8d1e782dc9a12c4ea]: Textual amendment: Sch. 1 Form 26: for the title to Notes, “Debtor certificate of discharge (where the Accountant in Bankruptcy is the trustee)” is substituted for “Debtor certificate of discharge” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/c/i)
 
-[^key-cc342afe5f0774ea6526e81e9dc07b6c]: Textual amendment: Sch. 1 Form 26: in the third bullet point of Note (1), the words “justice of the peace court (or a district court)” are substituted for “district court” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/c/ii)
+[^c-cc342afe5f0774ea6526e81e9dc07b6c]: Textual amendment: Sch. 1 Form 26: in the third bullet point of Note (1), the words “justice of the peace court (or a district court)” are substituted for “district court” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/c/ii)
 
-[^key-d6a063694fef8bd365fa0099dd36112c]: Textual amendment: Sch. 1 Form 27: the word “2016” is substituted for “1985 (as amended)” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/d)
+[^c-d6a063694fef8bd365fa0099dd36112c]: Textual amendment: Sch. 1 Form 27: the word “2016” is substituted for “1985 (as amended)” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2017/136/regulation/2/3/d)
 
-[^key-3adb59d1dea86856b03a799941d89f90]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 35 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/a), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/2)
+[^c-3adb59d1dea86856b03a799941d89f90]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 35 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/a), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/2)
 
-[^key-192937710601b1793b70acb549df2c68]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 36 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/b), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/3)
+[^c-192937710601b1793b70acb549df2c68]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 36 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/b), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/3)
 
-[^key-c0c1b1600ae69773173cbd97a6d95f3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 37 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/c), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/4)
+[^c-c0c1b1600ae69773173cbd97a6d95f3f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/397/schedule/1) Form 37 inserted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/ssi/2025/145/regulation/3/5/c), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2025/145/schedule/part/4)
 
 [^c23279391]: Marginal citation: As provided for in section 29(5) of the Act.
 
@@ -975,12 +975,12 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^c23279441]: Marginal citation: Under section 146 or 147 of the Act.
 
-[^key-25e1bef993f4a20a09e8a1cc432e9036]: Textual amendment: Words in sch. 2 substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/3/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
+[^c-25e1bef993f4a20a09e8a1cc432e9036]: Textual amendment: Words in sch. 2 substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/3/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
 
-[^key-b53bbe186aa5cd9f18f9ca9f449c7f10]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/397/schedule/2) inserted (31.12.2020) by [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/3/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b53bbe186aa5cd9f18f9ca9f449c7f10]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/397/schedule/2) inserted (31.12.2020) by [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/3/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a9ae39430f2749753206090071c1b9c]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/397/schedule/2) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/3/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a9ae39430f2749753206090071c1b9c]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2016/397/schedule/2) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2019/94/regulation/7/3/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd43b8ab516aff902fe5d3a54d554440]: Textual amendment: Word in sch. 2 substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/3/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
+[^c-dd43b8ab516aff902fe5d3a54d554440]: Textual amendment: Word in sch. 2 substituted (26.6.2017) by [The Insolvency (Regulation (EU) 2015/848) (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/210)](https://www.legislation.gov.uk/ssi/2017/210), [regs. 1](https://www.legislation.gov.uk/ssi/2017/210/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2017/210/regulation/7/3/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/210/regulation/9))
 
 [^c23279461]: Marginal citation: As provided for in section 195(1) or 196(1) of the Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Interpretation of Chapter 4[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+## 97A. Interpretation of Chapter 4[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (a) is within section 688A(2)(d), and
   - (b) is within that provision by virtue of a connection with a person who is within section 688A(2)(c);
 - “qualifying period” means a tax period beginning on or after 6th August 2007;
-- “relevant apprenticeship levy debt” means a debt specified in regulation 97B;[^key-5ddb2dc3e3b60c8d9421e6333bd275b2]
+- “relevant apprenticeship levy debt” means a debt specified in regulation 97B;[^c-5ddb2dc3e3b60c8d9421e6333bd275b2]
 - “relevant PAYE debt” means a debt specified in regulation 97B;
 - “specified amount” means the amount mentioned in regulation 97C(1)(b);
 - “transfer notice” means the notice mentioned in regulation 97C(4);
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-5ddb2dc3e3b60c8d9421e6333bd275b2]: Textual amendment: Words in [reg. 97A(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/94A/1) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/5)
+[^c-5ddb2dc3e3b60c8d9421e6333bd275b2]: Textual amendment: Words in [reg. 97A(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/94A/1) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Postal administrators[^key-a0e49b8255f4ee86998116f411439a84]
+## 72. Postal administrators[^c-a0e49b8255f4ee86998116f411439a84]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0e49b8255f4ee86998116f411439a84]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2011/5/section/72) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a0e49b8255f4ee86998116f411439a84]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2011/5/section/72) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

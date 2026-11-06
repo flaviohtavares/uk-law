@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2AB — Duties of supply exemption holders[^key-96f7125eebe7cf644c148ed1819a0bcc]
+## SCHEDULE 2AB — Duties of supply exemption holders[^c-96f7125eebe7cf644c148ed1819a0bcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -191,7 +191,7 @@ Section 6C
 
 ### Determination of disputes
 
-**7.** (1) Sections 27C and 27D apply in relation to an exempt supply dispute as they apply in relation to a section 27B[^key-6f3017cf3f664c2c789351bce55d9de8] dispute such as is mentioned in section 27B(1), but as if in section 27C(8) the words “against whom a complaint is made as mentioned in section 27B(1)(a), and” were omitted.
+**7.** (1) Sections 27C and 27D apply in relation to an exempt supply dispute as they apply in relation to a section 27B[^c-6f3017cf3f664c2c789351bce55d9de8] dispute such as is mentioned in section 27B(1), but as if in section 27C(8) the words “against whom a complaint is made as mentioned in section 27B(1)(a), and” were omitted.
 
 (2) A dispute is an “exempt supply dispute” if—
 
@@ -210,6 +210,6 @@ Section 6C
 
 ## Annotations
 
-[^key-96f7125eebe7cf644c148ed1819a0bcc]: Textual amendment: Schs. 2AA, 2AB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2704/schedule/1)
+[^c-96f7125eebe7cf644c148ed1819a0bcc]: Textual amendment: Schs. 2AA, 2AB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/20/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2704/schedule/1)
 
-[^key-6f3017cf3f664c2c789351bce55d9de8]: Textual amendment: Words in [Sch. 2AB para. 7](https://www.legislation.gov.uk/ukpga/1986/44/schedule/2AB/paragraph/7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/530/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f3017cf3f664c2c789351bce55d9de8]: Textual amendment: Words in [Sch. 2AB para. 7](https://www.legislation.gov.uk/ukpga/1986/44/schedule/2AB/paragraph/7) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/530/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

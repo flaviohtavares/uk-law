@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Licence holders[^key-cb11fccba6d909afaa457ecbd2204027]
+## 7. Licence holders[^c-cb11fccba6d909afaa457ecbd2204027]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ For Article 12 there shall be substituted:
 
 .
 
-**8.**[^key-a097ee6fdb0badd279538e65a8697d79] (1) For Article 13(1) there shall be substituted the following paragraph—
+**8.**[^c-a097ee6fdb0badd279538e65a8697d79] (1) For Article 13(1) there shall be substituted the following paragraph—
 
 > (1) Subject to paragraph (2), Schedule 3 (which makes provision with respect to the compulsory acquisition of land) and Schedule 4 (which confers other powers and makes other provision) shall have effect—
 >
@@ -54,6 +54,6 @@ For Article 12 there shall be substituted:
 
 ## Annotations
 
-[^key-cb11fccba6d909afaa457ecbd2204027]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/321/regulation/7) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-cb11fccba6d909afaa457ecbd2204027]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/321/regulation/7) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
 
-[^key-a097ee6fdb0badd279538e65a8697d79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/321/regulation/8) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-a097ee6fdb0badd279538e65a8697d79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/321/regulation/8) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

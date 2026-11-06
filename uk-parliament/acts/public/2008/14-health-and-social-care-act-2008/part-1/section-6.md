@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Transfers of property, rights and liabilities[^key-50a0694cb0d0f03473bff2b8678e1a71]
+## 6. Transfers of property, rights and liabilities[^c-50a0694cb0d0f03473bff2b8678e1a71]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 (which makes provision for the transfer of property, rights and liabi
 
 ## Annotations
 
-[^key-50a0694cb0d0f03473bff2b8678e1a71]: Commencement: S. 6 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)
+[^c-50a0694cb0d0f03473bff2b8678e1a71]: Commencement: S. 6 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/d)

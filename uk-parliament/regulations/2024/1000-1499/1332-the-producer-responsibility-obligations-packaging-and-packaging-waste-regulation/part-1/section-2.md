@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-cc531a8f59b1e52c809c405e671eb2e1][^key-4a075c3ef75b3e826dba0c1dc9882485][^key-cc531a8f59b1e52c809c405e671eb2e1]
+## 2. Interpretation[^c-cc531a8f59b1e52c809c405e671eb2e1][^c-4a075c3ef75b3e826dba0c1dc9882485][^c-cc531a8f59b1e52c809c405e671eb2e1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cc531a8f59b1e52c809c405e671eb2e1] In these Regulations—
+(1)[^c-cc531a8f59b1e52c809c405e671eb2e1] In these Regulations—
 
 - “**the 1990 Act**” means the Environmental Protection Act 1990[^f00002];
 - “**the 2007 Regulations**” means the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^f00003];
@@ -30,7 +30,7 @@ summary: ''
   - (b) the Packaging Waste (Data Collection and Reporting) (Wales) Regulations 2023[^f00006];
   - (c) the Packaging Waste (Data Reporting) (Scotland) Regulations 2023[^f00007]; or
   - (d) the Packaging Waste (Data Reporting) (No. 2) Regulations (Northern Ireland) 2023[^f00008];
-- “[^key-21d6077e1f0647d46788e13531f0771d]**accredited**” has the meaning given in regulation 84(1);
+- “[^c-21d6077e1f0647d46788e13531f0771d]**accredited**” has the meaning given in regulation 84(1);
 - “**administration fee**” has the meaning given in regulation 57(1);
 - “**appropriate agency**” has the meaning given in regulation 5;
 - “**appropriate authority**” means—
@@ -74,7 +74,7 @@ summary: ''
 - “established in the United Kingdom” is to be interpreted in accordance with regulation 4;
 - “**exempt packaging**” means packaging which is exempt in relation to a producer in accordance with regulation 11;
 - “**exporter**” has the meaning given in regulation 84(1);
-- “[^key-0296bfa6f6c40e7bb90b91b86aa1d4b5]**fibre-based composite material**” has the meaning given in regulation 7(5A)(a)
+- “[^c-0296bfa6f6c40e7bb90b91b86aa1d4b5]**fibre-based composite material**” has the meaning given in regulation 7(5A)(a)
 - “**first UK owner**” has the meaning given in regulation 18(1)(b);
 - “**financial year**”, in relation to the scheme administrator, a relevant authority or the appropriate agency, means a period from 1st April to the following 31st March;
 - “**fit and proper person**” means a person whom the appropriate agency has determined is a fit and proper person in accordance with regulation 131;
@@ -156,7 +156,7 @@ summary: ''
 - “**waste disposal authority**” has the meaning given in section 30(2) of the 1990 Act;
 - “**waste income**” means the income earned by a relevant authority through the sale of household packaging waste for recycling, other recovery operations or disposal.
 
-(2)[^key-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, “**medical packaging**” means immediate packaging or outer packaging on a medicinal product, a veterinary medicinal product or a medical device, and for the purposes of this definition—
+(2)[^c-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, “**medical packaging**” means immediate packaging or outer packaging on a medicinal product, a veterinary medicinal product or a medical device, and for the purposes of this definition—
 
 - (a) “**immediate packaging**”, “**outer packaging**” and “**medicinal product**” have the meanings given in regulations 2 and 8 of the Human Medicines Regulations 2012[^f00024];
 - (b) “**medical device**” has the meaning given in regulation 2(1) of the Medical Devices Regulations 2002[^f00025]; and
@@ -164,7 +164,7 @@ summary: ''
   - (i) in England, Wales and Scotland, in regulation 2(1) of the Veterinary Medicines Regulations 2013[^f00026]; and
   - (ii) in Northern Ireland, in Article 4(1) of [Regulation (EU) 2019/6](https://www.legislation.gov.uk/european/regulation/2019/0006) of the European Union and of the Council on veterinary medicinal products[^f00027].
 
-(3)[^key-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, “**online marketplace**” means a website or mobile application which facilitates the sale or other supply of goods through the website or mobile application by persons other than the operator, whether or not the operator also supplies goods through the online marketplace, and for the purposes of this definition—
+(3)[^c-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, “**online marketplace**” means a website or mobile application which facilitates the sale or other supply of goods through the website or mobile application by persons other than the operator, whether or not the operator also supplies goods through the online marketplace, and for the purposes of this definition—
 
 - (a) references to a “website or mobile application” include any means by which information is made available on the internet;
 - (b) an online marketplace facilitates the sale or other supply of goods if it allows a person to—
@@ -172,13 +172,13 @@ summary: ''
   - (ii) enter into a contract for the sale or other supply of those goods;
 - (c) “**the operator**” means the online marketplace operator.
 
-(4)[^key-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, a reference to any EU regulation or EU tertiary legislation is a reference to that regulation or legislation as it is amended by domestic law in any part of the United Kingdom from time to time.
+(4)[^c-4a075c3ef75b3e826dba0c1dc9882485] In these Regulations, a reference to any EU regulation or EU tertiary legislation is a reference to that regulation or legislation as it is amended by domestic law in any part of the United Kingdom from time to time.
 
 ## Annotations
 
-[^key-cc531a8f59b1e52c809c405e671eb2e1]: Commencement: Reg. 2(1) in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-cc531a8f59b1e52c809c405e671eb2e1]: Commencement: Reg. 2(1) in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-4a075c3ef75b3e826dba0c1dc9882485]: Commencement: Reg. 2(2)-(4) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4a075c3ef75b3e826dba0c1dc9882485]: Commencement: Reg. 2(2)-(4) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00002]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -194,7 +194,7 @@ summary: ''
 
 [^f00008]: Footnote: [S.R. 2023 No. 25](https://www.legislation.gov.uk/nisr/2023/25), amended by [S.R. 2023 No. 106](https://www.legislation.gov.uk/nisr/2023/106) and [2024 No. 80](https://www.legislation.gov.uk/nisr/2024/80).
 
-[^key-21d6077e1f0647d46788e13531f0771d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/2/1) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-21d6077e1f0647d46788e13531f0771d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/2/1) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
 [^f00009]: Footnote: There are amendments to section 89 which are not relevant to these Regulations.
 
@@ -204,7 +204,7 @@ summary: ''
 
 [^f00012]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12).
 
-[^key-0296bfa6f6c40e7bb90b91b86aa1d4b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/2/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-0296bfa6f6c40e7bb90b91b86aa1d4b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/2/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/4/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
 [^f00013]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1159(4) provides that in that section and Schedule 6 “**company**” includes any body corporate.
 

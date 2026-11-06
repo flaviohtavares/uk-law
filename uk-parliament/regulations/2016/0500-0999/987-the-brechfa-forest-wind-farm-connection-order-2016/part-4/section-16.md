@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Defence to proceedings in respect of statutory nuisance[^key-98de5a305865976f46cfc40e42c9495b]
+## 16. Defence to proceedings in respect of statutory nuisance[^c-98de5a305865976f46cfc40e42c9495b]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-98de5a305865976f46cfc40e42c9495b]: Commencement: Art. 16 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-98de5a305865976f46cfc40e42c9495b]: Commencement: Art. 16 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00017]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

@@ -24,10 +24,10 @@ summary: ''
 
 (2) These Regulations, except for those regulations specified in paragraph (3), shall come into force on 3rd December 2007.
 
-(3) Regulations 81 to 87, 93(e), (f), (g) and (h) and 94(b) shall come into force on the coming into force of article 21 of the Pharmacists and Pharmacy Technicians Order 2007 (the Register of Pharmacy Technicians)[^key-23afc2f5f3ca2d9341ef5e0c600792f1].
+(3) Regulations 81 to 87, 93(e), (f), (g) and (h) and 94(b) shall come into force on the coming into force of article 21 of the Pharmacists and Pharmacy Technicians Order 2007 (the Register of Pharmacy Technicians)[^c-23afc2f5f3ca2d9341ef5e0c600792f1].
 
 (4) The extent of any amendment made by these Regulations is the same as that of the enactment amended.
 
 ## Annotations
 
-[^key-23afc2f5f3ca2d9341ef5e0c600792f1]: Textual amendment: Words in reg. 1(3) substituted (31.3.2008) by [The European Qualifications (Health and Social Care Professions) (Amendment) Regulations 2008 (S.I. 2008/462)](https://www.legislation.gov.uk/uksi/2008/462), [regs. 1](https://www.legislation.gov.uk/uksi/2008/462/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/462/regulation/2)
+[^c-23afc2f5f3ca2d9341ef5e0c600792f1]: Textual amendment: Words in reg. 1(3) substituted (31.3.2008) by [The European Qualifications (Health and Social Care Professions) (Amendment) Regulations 2008 (S.I. 2008/462)](https://www.legislation.gov.uk/uksi/2008/462), [regs. 1](https://www.legislation.gov.uk/uksi/2008/462/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/462/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Abatement of works abandoned or decayed[^key-9feb9572bf6db6319e087ec2f60f2a86]
+## 24. Abatement of works abandoned or decayed[^c-9feb9572bf6db6319e087ec2f60f2a86]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9feb9572bf6db6319e087ec2f60f2a86]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2014/2935/article/24) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-9feb9572bf6db6319e087ec2f60f2a86]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2014/2935/article/24) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

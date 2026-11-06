@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Initial determination of a local authority’s schools budget[^key-50f113e4149627373aa56c4b85616942]
+## 5. Initial determination of a local authority’s schools budget[^c-50f113e4149627373aa56c4b85616942]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local authority must, not later than 28th February 2025—
 
 ## Annotations
 
-[^key-50f113e4149627373aa56c4b85616942]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/42/regulation/5) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-50f113e4149627373aa56c4b85616942]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/42/regulation/5) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

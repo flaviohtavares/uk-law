@@ -430,14 +430,14 @@ After regulation 15 (jobseeker’s allowance determinations on incomplete eviden
 >
 > **15D. Procedure in relation to the adjustment of the amount payable under a maintenance calculation**
 >
-> (1)[^key-bdc72d7be820038bfc4cdddbb05d2067] Where the Secretary of State has adjusted the amount payable under a maintenance calculation under the provisions of regulation 10(1) and (3A) of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations and that maintenance calculation is subsequently replaced by a fresh maintenance calculation made by virtue of a revision under section 16 of the Child Support Act or of a decision under section 17 of that Act superseding an earlier decision, that adjustment shall, subject to paragraph (2), continue to apply to the amount payable under that fresh maintenance calculation unless the Secretary of State is satisfied that such adjustment would not be appropriate in all the circumstances of the case. *(affected by repeal, see note)*[^key-bdc72d7be820038bfc4cdddbb05d2067]
+> (1)[^c-bdc72d7be820038bfc4cdddbb05d2067] Where the Secretary of State has adjusted the amount payable under a maintenance calculation under the provisions of regulation 10(1) and (3A) of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations and that maintenance calculation is subsequently replaced by a fresh maintenance calculation made by virtue of a revision under section 16 of the Child Support Act or of a decision under section 17 of that Act superseding an earlier decision, that adjustment shall, subject to paragraph (2), continue to apply to the amount payable under that fresh maintenance calculation unless the Secretary of State is satisfied that such adjustment would not be appropriate in all the circumstances of the case. *(affected by repeal, see note)*[^c-bdc72d7be820038bfc4cdddbb05d2067]
 >
-> (2) Where the Secretary of State is satisfied that the adjustment referred to in paragraph (1) would not be appropriate, he may make a decision under section 17 of the Child Support Act, superseding an earlier decision making an adjustment, and— *(affected by repeal, see note)*[^key-bdc72d7be820038bfc4cdddbb05d2067]
+> (2) Where the Secretary of State is satisfied that the adjustment referred to in paragraph (1) would not be appropriate, he may make a decision under section 17 of the Child Support Act, superseding an earlier decision making an adjustment, and— *(affected by repeal, see note)*[^c-bdc72d7be820038bfc4cdddbb05d2067]
 >
-> - (a) the adjustment shall cease; or *(affected by repeal, see note)*[^key-bdc72d7be820038bfc4cdddbb05d2067]
-> - (b) he may adjust the amount payable under that fresh maintenance calculation, *(affected by repeal, see note)*[^key-bdc72d7be820038bfc4cdddbb05d2067]
+> - (a) the adjustment shall cease; or *(affected by repeal, see note)*[^c-bdc72d7be820038bfc4cdddbb05d2067]
+> - (b) he may adjust the amount payable under that fresh maintenance calculation, *(affected by repeal, see note)*[^c-bdc72d7be820038bfc4cdddbb05d2067]
 >
-> as he sees fit, having regard to the matters specified in regulation 10(1)(b)(i) to (iii) of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations. *(affected by repeal, see note)*[^key-bdc72d7be820038bfc4cdddbb05d2067]
+> as he sees fit, having regard to the matters specified in regulation 10(1)(b)(i) to (iii) of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations. *(affected by repeal, see note)*[^c-bdc72d7be820038bfc4cdddbb05d2067]
 
 .
 
@@ -457,17 +457,17 @@ In regulation 30 (appeal against a decision which has been revised)—
 - (d) in paragraph (4) after the words “notification of the decision as" there shall be inserted the words “ replaced or ”; and
 - (e) in paragraph (5) after the words “decision before it was" there shall be inserted the words “ replaced or ”.
 
-## 12. Insertion of regulation 30A[^key-61a9fad0e83f6b9ba37a6a50ae0e2a04]
+## 12. Insertion of regulation 30A[^c-61a9fad0e83f6b9ba37a6a50ae0e2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Substitution of regulation 45[^key-3ab1ecc037a519f41e6b31db4d7ba227]
+## 13. Substitution of regulation 45[^c-3ab1ecc037a519f41e6b31db4d7ba227]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 14. Revocation and savings
 
-(1) Subject to the Child Support (Transitional Provisions) Regulations 2000 and[^key-afca86becf6426339d4eaaa369754f65] paragraph (2), regulations 10(2) and (3) and 11 to 17 of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations are hereby revoked.
+(1) Subject to the Child Support (Transitional Provisions) Regulations 2000 and[^c-afca86becf6426339d4eaaa369754f65] paragraph (2), regulations 10(2) and (3) and 11 to 17 of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations are hereby revoked.
 
 (2) Where on the commencement date—
 
@@ -493,7 +493,7 @@ the provisions in regulations 10(2) and (3) and 11 to 17 of the Arrears, Interes
 
 ## 15.
 
-(Z1)[^key-1a92e845d67a04897828c8177638eb42] This regulation is subject to the Child Support (Transitional Provisions) Regulations 2000.
+(Z1)[^c-1a92e845d67a04897828c8177638eb42] This regulation is subject to the Child Support (Transitional Provisions) Regulations 2000.
 
 (1) Where—
 
@@ -580,12 +580,12 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1636055]: Marginal citation: [Section 28ZC](https://www.legislation.gov.uk/uksi/2000/3185/section/28ZC) was inserted by section 44 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-bdc72d7be820038bfc4cdddbb05d2067]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/3185/regulation/10) revoked in part (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-bdc72d7be820038bfc4cdddbb05d2067]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/3185/regulation/10) revoked in part (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
-[^key-61a9fad0e83f6b9ba37a6a50ae0e2a04]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/3185/regulation/12) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-61a9fad0e83f6b9ba37a6a50ae0e2a04]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/3185/regulation/12) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
-[^key-3ab1ecc037a519f41e6b31db4d7ba227]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/3185/regulation/13) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-3ab1ecc037a519f41e6b31db4d7ba227]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/3185/regulation/13) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-afca86becf6426339d4eaaa369754f65]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/14/1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/2/a)
+[^c-afca86becf6426339d4eaaa369754f65]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/14/1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/2/a)
 
-[^key-1a92e845d67a04897828c8177638eb42]: Textual amendment: [Reg. 15(Z1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/15/Z1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/4/c)
+[^c-1a92e845d67a04897828c8177638eb42]: Textual amendment: [Reg. 15(Z1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/15/Z1) inserted (3.3.2003) by [The Child Support (Transitional Provision)(Miscellaneous Amendments) Regulations 2003 (S.I. 2003/347)](https://www.legislation.gov.uk/uksi/2003/347), [regs. 1](https://www.legislation.gov.uk/uksi/2003/347/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2003/347/regulation/2/4/c)

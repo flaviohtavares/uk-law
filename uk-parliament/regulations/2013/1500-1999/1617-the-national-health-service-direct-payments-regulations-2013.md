@@ -48,25 +48,25 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-4862aca20f764925270ceb8cf45e2969]
+### 1. Citation and commencement[^c-4862aca20f764925270ceb8cf45e2969]
 
 These Regulations may be cited as the National Health Service (Direct Payments) Regulations 2013 and come into force on 1st August 2013.
 
-### 2. Interpretation[^key-4d66598250f225607cf46812cd0b7d8d]
+### 2. Interpretation[^c-4d66598250f225607cf46812cd0b7d8d]
 
 (1) In these Regulations—
 
 - “the 2002 Act” means the National Health Service Reform and Health Care Professions Act 2002[^f00002];
 - “the 2005 Act” means the Mental Capacity Act 2005[^f00003];
 - “the 2006 Act” means the National Health Service Act 2006;
-- [^key-340506d7ad4d0dba52b9e81ee293ccad]...
+- [^c-340506d7ad4d0dba52b9e81ee293ccad]...
 - “care plan” means a plan prepared in accordance with regulation 8 (care plan and care co-ordinator);
-- [^key-81419481141b293e3e8820592e66b269]...
+- [^c-81419481141b293e3e8820592e66b269]...
 - “child” means a person under the age of 16;
-- “health body” means an integrated care board[^key-403e14f2cfaba367316f6fb665c297b0], NHS England[^key-2487d0ffd798a3409a8a7bd6ca7d44c4], a local authority (within the meaning of section 2B of the 2006 Act[^f00006]) or the Secretary of State;
+- “health body” means an integrated care board[^c-403e14f2cfaba367316f6fb665c297b0], NHS England[^c-2487d0ffd798a3409a8a7bd6ca7d44c4], a local authority (within the meaning of section 2B of the 2006 Act[^f00006]) or the Secretary of State;
 - “health care professional” means a member of a profession regulated by a body mentioned in section 25(3) of the 2002 Act (the Professional Standards Authority for Health and Social Care)[^f00007];
-- “[^key-dc62b9bad24f0a78c9f4ed16493df5a4]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
-- “[^key-d0210f8adac1ab5d9a4bf07d2e11faf0]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “[^c-dc62b9bad24f0a78c9f4ed16493df5a4]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-d0210f8adac1ab5d9a4bf07d2e11faf0]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
 - “nominee” has the meaning given in regulation 6 (nominated person);
 - “parental responsibility” has the meaning given in section 3 of the Children Act 1989 (meaning of parental responsibility)[^f00008];
 - “patient” means a person to or in respect of whom direct payments may be made in accordance with regulations 3, 4 or 5 (persons to whom a direct payment may be made, and direct payments in respect of children and persons who lack capacity);
@@ -85,7 +85,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 ## PART 2 — Direct Payments
 
-### 3. Persons to whom a direct payment may be made[^key-fd8b9c7e5442d17a5aaed73ed8e5dcfc]
+### 3. Persons to whom a direct payment may be made[^c-fd8b9c7e5442d17a5aaed73ed8e5dcfc]
 
 (1) A direct payment may be made to a person who—
 
@@ -106,7 +106,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (b) has capacity to consent to the making of a direct payment to them; and
 - (c) is not a person described in the Schedule (persons excluded from direct payments).
 
-### 4. Direct payments in respect of children[^key-af6dd75d6d567802bca4e166c5b99dc8]
+### 4. Direct payments in respect of children[^c-af6dd75d6d567802bca4e166c5b99dc8]
 
 (1) A direct payment may be made in respect of a person who is a child, if that person—
 
@@ -136,7 +136,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (b) if the patient does not consent to the continued making of direct payments to the representative or nominee, the health body must stop making the direct payments; and
 - (c) the health body must as soon as reasonably possible review the making of the direct payments in accordance with regulation 14 (monitoring and review of direct payments).
 
-### 5. Direct payments in respect of persons who lack capacity[^key-a21e0adf3c02bad7c0dad8f631f7f28d]
+### 5. Direct payments in respect of persons who lack capacity[^c-a21e0adf3c02bad7c0dad8f631f7f28d]
 
 (1) A direct payment may be made in respect of a person, other than a child, who lacks capacity to consent to the making of a direct payment to them, if that person—
 
@@ -178,7 +178,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (b) if the patient does not consent to the continued making of direct payments to the representative or nominee, the health body must stop making the direct payments; and
 - (c) the health body must as soon as reasonably possible review the making of the direct payments in accordance with regulation 14 (monitoring and review of direct payments).
 
-### 6. Nominated person[^key-d43ce52549d3b6272d76f2a495e3b959]
+### 6. Nominated person[^c-d43ce52549d3b6272d76f2a495e3b959]
 
 (1) The following persons may nominate another person (a “nominee”) to receive a direct payment on a patient’s behalf—
 
@@ -204,7 +204,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (a) stop making the direct payments; and
 - (b) as soon as reasonably possible review the making of the direct payments in accordance with regulation 14.
 
-### 7. Decision to make a direct payment[^key-505c7985e061a229ee7aa15857f47697]
+### 7. Decision to make a direct payment[^c-505c7985e061a229ee7aa15857f47697]
 
 (1) A health body must make any decision to make a direct payment to, or in respect of, a patient in accordance with this regulation.
 
@@ -279,13 +279,13 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (10) If a health body considers making a direct payment to a patient in accordance with this regulation and decides not to make such a payment, they must inform the patient and any representative or nominee in writing of the decision, and state the reasons for the decision.
 
-(11)[^key-9be8d50dd9b7b91459567001e6b516f5] Where a health body decides under paragraph (10) not to make a direct payment, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+(11)[^c-9be8d50dd9b7b91459567001e6b516f5] Where a health body decides under paragraph (10) not to make a direct payment, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
 
 (12) A health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
 
 (13) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (10) in any six month period.
 
-### 8. Care plan and care co-ordinator[^key-b667bf9ab4555b833198a5d0316659d0]
+### 8. Care plan and care co-ordinator[^c-b667bf9ab4555b833198a5d0316659d0]
 
 (1) Before a health body may make a direct payment, the health body must—
 
@@ -337,12 +337,12 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (h) which consist of the provision of gambling services or facilities; or
 - (i) to repay a debt otherwise than in respect of a service specified in the care plan.
 
-(5A)[^key-aa2d23ece9955bf69ff37f2e716ddf93] A health body may specify in a care plan that a service may be secured in respect of a patient from a connected person[^key-cc2bda14db2fba0f2d329ccc8e98bfd1] only if a health body is satisfied that to secure a service from that person is necessary—
+(5A)[^c-aa2d23ece9955bf69ff37f2e716ddf93] A health body may specify in a care plan that a service may be secured in respect of a patient from a connected person[^c-cc2bda14db2fba0f2d329ccc8e98bfd1] only if a health body is satisfied that to secure a service from that person is necessary—
 
 - (a) to meet satisfactorily the patient’s need for that service; or
 - (b) to promote the welfare of a patient who is a child.
 
-(5B)[^key-d076b01e583857d5e0f8b3b6b80ac8c9] In paragraph (5A), “connected person” in relation to a patient means any of the following who lives in the same household as the patient whether or not the person is a nominee—
+(5B)[^c-d076b01e583857d5e0f8b3b6b80ac8c9] In paragraph (5A), “connected person” in relation to a patient means any of the following who lives in the same household as the patient whether or not the person is a nominee—
 
 - (a) a family member mentioned in regulation 7(8); or
 - (b) a friend of the patient.
@@ -352,7 +352,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (a) the patient, representative or nominee may request the health body to inform them of the reason for the decision; and
 - (b) the health body must inform them of the reason for the decision.
 
-(6A)[^key-03e8764ac9309862c0e1b19c557ea2fd] Where a health body decides under paragraph (6) not to include a particular service in the care plan, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+(6A)[^c-03e8764ac9309862c0e1b19c557ea2fd] Where a health body decides under paragraph (6) not to include a particular service in the care plan, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
 
 (6B) The health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
 
@@ -364,7 +364,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 - (b) that the amount of the direct payments is sufficient to provide for the full cost of each of the services specified in the care plan; and
 - (c) that the patient’s requirements may be reviewed in accordance with regulation 14(2).
 
-### 9. Information, advice and other support[^key-d9e04dacea05d6b3bade280a08e0bbcc]
+### 9. Information, advice and other support[^c-d9e04dacea05d6b3bade280a08e0bbcc]
 
 (1) A health body must make arrangements for a patient, representative or nominee to whom direct payments are made to obtain information, advice or other support in connection with the making of direct payments.
 
@@ -382,14 +382,14 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (3) If the care plan specifies a requirement for information, advice or other support, that support may be a service in respect of which direct payments may be made.
 
-### 10. Conditions applying to the making of direct payments by a health body[^key-f294067c7a52ea3f8324290ac0578d14]
+### 10. Conditions applying to the making of direct payments by a health body[^c-f294067c7a52ea3f8324290ac0578d14]
 
-(1) Where a health body has decided to make direct payments to or in respect of a patient, a health body must only make the payments into an account approved by the health body for the benefit of the patient if they are satisfied —[^key-8cdde039a9af32732b9d2f76f09fb738]
+(1) Where a health body has decided to make direct payments to or in respect of a patient, a health body must only make the payments into an account approved by the health body for the benefit of the patient if they are satisfied —[^c-8cdde039a9af32732b9d2f76f09fb738]
 
 - (a) where the account is a managed account, that the requirements in paragraphs (2)(b) and (5) are met;
 - (b) in any other case, that the requirements in paragraphs (2), (3) and (5) are met.
 
-(1A)[^key-ab0024bdca5b96652363b372daa4bf81] In paragraph (1)(a), “managed account” means an account held by a person or organisation where that person or organisation has been appointed by the patient, representative or nominee, both to hold the direct payment on the patient’s, representative’s or nominee’s behalf, and to apply that payment in accordance with the instructions of the patient, representative or nominee.
+(1A)[^c-ab0024bdca5b96652363b372daa4bf81] In paragraph (1)(a), “managed account” means an account held by a person or organisation where that person or organisation has been appointed by the patient, representative or nominee, both to hold the direct payment on the patient’s, representative’s or nominee’s behalf, and to apply that payment in accordance with the instructions of the patient, representative or nominee.
 
 (2) The account mentioned at paragraph (1) must be capable of—
 
@@ -412,7 +412,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 (5) A health body must ensure that an account mentioned in paragraph (1) is subject to arrangements or procedures that the health body considers adequate to—
 
 - (a) enable the monitoring and review mentioned in regulation 14(1)(a) and (6)(c) to be carried out; and
-- (b)[^key-e213a4b75a3753322378231b74888637] ensure that direct payments paid into it in respect of a patient will be used only for services agreed in that patient’s care plan.
+- (b)[^c-e213a4b75a3753322378231b74888637] ensure that direct payments paid into it in respect of a patient will be used only for services agreed in that patient’s care plan.
 
 (6) Paragraphs (1) to (5) do not apply where a patient is in receipt of a one-off direct payment.
 
@@ -420,7 +420,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (8) In this regulation and regulation 11, “one-off direct payment” means a payment made for a single item or service or a single payment made for no more than 5 items or services where that payment is the only payment a patient would receive from that health body in any financial year.
 
-### 11. Conditions to be complied with by the patient, representative or nominee[^key-edc6978494d24a18e395c555d4db432c]
+### 11. Conditions to be complied with by the patient, representative or nominee[^c-edc6978494d24a18e395c555d4db432c]
 
 (1) A patient, representative or nominee must—
 
@@ -438,7 +438,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (3) If a patient, representative or nominee requests a health body to be responsible in place of that person for ensuring that the enquiries mentioned in paragraph (2)(a) or (b) have been carried out in respect of any particular provider of services, the health body must make the enquiries mentioned.
 
-(3A)[^key-cda8d2d0a859a4ac4b7faa9c2f566867] A patient, representative or nominee may use direct payments to secure a service in respect of the patient from a person mentioned in regulation 8(5A), only if the care plan specifies, pursuant to that regulation, that the service may be secured from that person.
+(3A)[^c-cda8d2d0a859a4ac4b7faa9c2f566867] A patient, representative or nominee may use direct payments to secure a service in respect of the patient from a person mentioned in regulation 8(5A), only if the care plan specifies, pursuant to that regulation, that the service may be secured from that person.
 
 (4) A patient, representative or nominee must on request, or at intervals specified by a health body, provide the health body with information or evidence relating to—
 
@@ -447,7 +447,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (5) If the patient, representative or nominee considers that it is reasonable to do so, the patient, representative or nominee must notify the health body when the state of health or other relevant circumstances of the patient change substantially.
 
-(6) Except in the case of a managed account as defined in regulation 10(1A),[^key-b1c2da20b92eddd415907fde04124b69] a patient, representative or nominee must ensure that the account approved by a health body into which direct payments are paid is—
+(6) Except in the case of a managed account as defined in regulation 10(1A),[^c-b1c2da20b92eddd415907fde04124b69] a patient, representative or nominee must ensure that the account approved by a health body into which direct payments are paid is—
 
 - (a) used only for the purposes of securing services by means of—
   - (i) direct payments under these Regulations,
@@ -472,7 +472,7 @@ These Regulations may be cited as the National Health Service (Direct Payments) 
 
 (11) Where a health body is satisfied that a one-off direct payment is appropriate in the circumstances of an individual case, that payment may be made into the personal bank account of the patient or that of the patient’s representative or nominee.
 
-### 12. Provision of information[^key-dd1f6fc74653d789a581b769c717c5c8]
+### 12. Provision of information[^c-dd1f6fc74653d789a581b769c717c5c8]
 
 Any information that must be provided under these Regulations to a health body must be—
 
@@ -482,7 +482,7 @@ Any information that must be provided under these Regulations to a health body m
   - (i) an explanation by the information provider of anything which has been provided, or
   - (ii) a statement to the best of the knowledge and belief of the information provider as to where information or evidence that the person has failed to provide is held.
 
-### 13. Amount of direct payment[^key-9c9a0de6fd86ecc37720b512bc471cf1]
+### 13. Amount of direct payment[^c-9c9a0de6fd86ecc37720b512bc471cf1]
 
 (1) A health body must ensure that the amount of the direct payments paid to or in respect of a patient is sufficient to provide for the full cost of each of the services specified in the care plan.
 
@@ -497,13 +497,13 @@ Any information that must be provided under these Regulations to a health body m
 
 (5) Where a health body decides to reduce the amount of the direct payments, the health body must provide reasonable notice in writing to the patient, representative or nominee stating the reasons for the decision.
 
-(6)[^key-6c52748eaec15111cd74446a86db3032] Where a health body decides under paragraph (5) to reduce the amount paid by way of direct payments, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
+(6)[^c-6c52748eaec15111cd74446a86db3032] Where a health body decides under paragraph (5) to reduce the amount paid by way of direct payments, a patient, representative or nominee may require the health body to re-consider the decision, and may provide evidence or relevant information for the health body to consider as part of that deliberation.
 
 (7) A health body must inform the patient and any representative or nominee in writing of the decision on a re-consideration, and state the reasons for the decision.
 
 (8) A health body may not be required to undertake more than one re-consideration following a decision under paragraph (5).
 
-### 14. Monitoring and review of direct payments[^key-15d0700ec7e4c4351bb254b1b3ac8681]
+### 14. Monitoring and review of direct payments[^c-15d0700ec7e4c4351bb254b1b3ac8681]
 
 (1) A health body must monitor—
 
@@ -559,7 +559,7 @@ Any information that must be provided under these Regulations to a health body m
 
 (12) A health body may not be required to undertake more than one further review following a decision under paragraph (9).
 
-### 15. Repayment of direct payments[^key-c46f0f94233f91dcc69b82a8d680cddb]
+### 15. Repayment of direct payments[^c-c46f0f94233f91dcc69b82a8d680cddb]
 
 (1) A health body may require that part or all of a direct payment must be repaid to the health body, if satisfied that it is appropriate to require repayment having regard in particular to whether—
 
@@ -587,13 +587,13 @@ Any information that must be provided under these Regulations to a health body m
 
 (7) A health body may waive any requirement pursuant to a decision under paragraph (1) or (4) for part or all of a direct payment to be repaid.
 
-### 16. Recovery of amounts due as a civil debt[^key-0035e25dedc560998dee8138ffcc804b]
+### 16. Recovery of amounts due as a civil debt[^c-0035e25dedc560998dee8138ffcc804b]
 
 (1) Where a sum must be repaid to a health body pursuant to regulation 15 and the reasons for the decision to require repayment is that theft, fraud or another offence may have occurred in connection with a direct payment, that sum may be recovered summarily as a civil debt.
 
 (2) Paragraph (1) does not affect any other method of recovery.
 
-### 17. Stopping direct payments[^key-f56cfa78c49d447f339349cd2e8b92ec]
+### 17. Stopping direct payments[^c-f56cfa78c49d447f339349cd2e8b92ec]
 
 (1) A health body must stop making direct payments—
 
@@ -630,7 +630,7 @@ Any information that must be provided under these Regulations to a health body m
 
 ## PART 3 — Partnership Arrangements
 
-### 18. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^key-5371c2726c23cf8ca08228b03e724fd3]
+### 18. Amendment of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^c-5371c2726c23cf8ca08228b03e724fd3]
 
 (1) The NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00026] are amended as follows.
 
@@ -644,7 +644,7 @@ Any information that must be provided under these Regulations to a health body m
 
 ## PART 4 — Revocation and Transitional Provision
 
-### 19. Transitional provision in respect of direct payments[^key-9f99ee33d78e0a9b2cee8036d4c059f9]
+### 19. Transitional provision in respect of direct payments[^c-9f99ee33d78e0a9b2cee8036d4c059f9]
 
 (1) Any direct payment payable under a pilot scheme by a pilot health body immediately before 1st August 2013 is to be payable by the successor health body on and after that date.
 
@@ -661,7 +661,7 @@ Any information that must be provided under these Regulations to a health body m
 - “pilot scheme” means a pilot scheme under the 2010 Direct Payments Regulations;
 - “successor health body” means the health body which, on or after 1st August 2013, has a duty to provide or arrange for the provision of the services which, immediately before 1st August 2013, are being secured for a patient by a direct payment under a pilot scheme.
 
-### 20. Revocation[^key-a1f33730425e767aaec54cdc71b58e41]
+### 20. Revocation[^c-a1f33730425e767aaec54cdc71b58e41]
 
 The National Health Service (Direct Payments) Regulations 2010 are revoked.
 
@@ -675,22 +675,22 @@ Department of Health
 
 1st July 2013
 
-## SCHEDULE — Persons excluded from direct payments[^key-94ae3e9c16ad577c61afe75a1ead7058]
+## SCHEDULE — Persons excluded from direct payments[^c-94ae3e9c16ad577c61afe75a1ead7058]
 
 Regulations 3, 4 and 5
 
-[^key-94ae3e9c16ad577c61afe75a1ead7058]
+[^c-94ae3e9c16ad577c61afe75a1ead7058]
 
 A person referred to in regulations 3(3)(c), 4(1)(b) and 5(1)(b) is a person who is—
 
-- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003 or paragraph 19 of Schedule 9 to the Sentencing Code[^key-e83d19c51722f9507276a13f1c68c645] (drug rehabilitation requirement)[^f00029], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-e25ab415d3b076dbd017ad7f58d84b3e] (community orders)[^f00030], or by a suspended sentence of imprisonment within the meaning of section 189 of that Act or section 286 of that Code[^key-2e4c93440e88c33105ae1e96376b18dc] (suspended sentences of imprisonment)[^f00031];
-- (b) subject to an alcohol treatment requirement as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^key-be6e97237fbe7f9291aa6c4b4ef9a8c5] (alcohol treatment requirement), imposed by a community order, within the meaning of section 177 of that Act or section 200 of that Code[^key-930ca274a7c54cbf648992574d109760], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^key-61b720f8ce4afb0e401d73bc1c7f5019];
+- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003 or paragraph 19 of Schedule 9 to the Sentencing Code[^c-e83d19c51722f9507276a13f1c68c645] (drug rehabilitation requirement)[^f00029], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^c-e25ab415d3b076dbd017ad7f58d84b3e] (community orders)[^f00030], or by a suspended sentence of imprisonment within the meaning of section 189 of that Act or section 286 of that Code[^c-2e4c93440e88c33105ae1e96376b18dc] (suspended sentences of imprisonment)[^f00031];
+- (b) subject to an alcohol treatment requirement as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^c-be6e97237fbe7f9291aa6c4b4ef9a8c5] (alcohol treatment requirement), imposed by a community order, within the meaning of section 177 of that Act or section 200 of that Code[^c-930ca274a7c54cbf648992574d109760], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^c-61b720f8ce4afb0e401d73bc1c7f5019];
 - (c) released on licence under Part 2 of the Criminal Justice Act 1991 (early release of prisoners)[^f00032], Chapter 6 of Part 12 of the Criminal Justice Act 2003 (release, licences and recall)[^f00033] or Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences)[^f00034] subject to a non-standard licence condition requiring the offender to undertake offending behaviour work to address drug or alcohol related behaviour;
 - (d) required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000 (community rehabilitation orders)[^f00035] or a community punishment and rehabilitation order within the meaning of section 51 of that Act (community punishment and rehabilitation orders)[^f00036];
 - (e) subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000 (drug treatment and testing orders)[^f00037];
-- (f) subject to a youth rehabilitation order imposed in accordance with paragraph 22 of Schedule 1 to the Criminal Justice and Immigration Act 2008 (“the Criminal Justice Act 2008”) or Part 13 of Schedule 6 to the Sentencing Code (drug treatment requirement)[^key-fad51fff169afc68cfef37a0f2e015a0] which requires the person to submit to treatment pursuant to a drug treatment requirement;
-- (g) subject to a youth rehabilitation order imposed in accordance with paragraph 23 of Schedule 1 to the Criminal Justice Act 2008 or Part 14 of Schedule 6 to the Sentencing Code[^key-6a6ed8299519228e226e46879d715928] (drug testing requirement) which includes a drug testing requirement;
-- (h) subject to a youth rehabilitation order imposed in accordance with paragraph 24 of Schedule 1 to the Criminal Justice Act 2008 or Part 15 of Schedule 6 to the Sentencing Code[^key-6817340cd69de9a0aec9d64137473111] (intoxicating substance treatment requirement) which requires the person to submit to treatment pursuant to an intoxicating substance treatment requirement;
+- (f) subject to a youth rehabilitation order imposed in accordance with paragraph 22 of Schedule 1 to the Criminal Justice and Immigration Act 2008 (“the Criminal Justice Act 2008”) or Part 13 of Schedule 6 to the Sentencing Code (drug treatment requirement)[^c-fad51fff169afc68cfef37a0f2e015a0] which requires the person to submit to treatment pursuant to a drug treatment requirement;
+- (g) subject to a youth rehabilitation order imposed in accordance with paragraph 23 of Schedule 1 to the Criminal Justice Act 2008 or Part 14 of Schedule 6 to the Sentencing Code[^c-6a6ed8299519228e226e46879d715928] (drug testing requirement) which includes a drug testing requirement;
+- (h) subject to a youth rehabilitation order imposed in accordance with paragraph 24 of Schedule 1 to the Criminal Justice Act 2008 or Part 15 of Schedule 6 to the Sentencing Code[^c-6817340cd69de9a0aec9d64137473111] (intoxicating substance treatment requirement) which requires the person to submit to treatment pursuant to an intoxicating substance treatment requirement;
 - (i) either—
   - (i) subject to a drug treatment and testing order within the meaning of section 234B of the Criminal Procedure (Scotland) Act 1995 (drug treatment and testing order)[^f00039], or
   - (ii) subject to a community payback order under section 227A of that Act[^f00040] imposing requirements relating to drug or alcohol treatment; or
@@ -720,29 +720,29 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Sections 12A to 12D of the National Health Service Act 2006 (“the 2006 Act”) were inserted by section 11 of the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21) (“the 2009 Act”). Sections 12A and 12B have been amended by section 55(1) of, and paragraphs 10 and 11 of Part 1 of Schedule 4 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Sections 12A(6) and 12C(1) to (4) have been repealed by the National Health Service (Direct Payments) (Repeal of Pilot Schemes Limitation) Order 2013 ([S.I. 2013/1563](https://www.legislation.gov.uk/uksi/2013/1563)). *See* section 275 of the 2006 Act for the definitions of “prescribed” and “regulations”. By virtue of section 271(1) of the 2006 Act, the powers exercised in making these Regulations are exercisable by the Secretary of State only in relation to England.
 
-[^key-4862aca20f764925270ceb8cf45e2969]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-4862aca20f764925270ceb8cf45e2969]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-4d66598250f225607cf46812cd0b7d8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-4d66598250f225607cf46812cd0b7d8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00002]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17) (“the 2002 Act”).
 
 [^f00003]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-340506d7ad4d0dba52b9e81ee293ccad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/a)
+[^c-340506d7ad4d0dba52b9e81ee293ccad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/a)
 
-[^key-81419481141b293e3e8820592e66b269]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/a)
+[^c-81419481141b293e3e8820592e66b269]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/a)
 
-[^key-403e14f2cfaba367316f6fb665c297b0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-403e14f2cfaba367316f6fb665c297b0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-2487d0ffd798a3409a8a7bd6ca7d44c4]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-2487d0ffd798a3409a8a7bd6ca7d44c4]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2013/1617) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00006]: Footnote: Section 2B was inserted by section 12 of the 2012 Act.
 
 [^f00007]: Footnote: Section 25(3) of the 2002 Act has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 127 of, and paragraphs 17 of Schedule 10 to, the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”), and by section 230(1) of, and paragraph 56(b) of Schedule 15 to, the 2012 Act.
 
-[^key-dc62b9bad24f0a78c9f4ed16493df5a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/b)
+[^c-dc62b9bad24f0a78c9f4ed16493df5a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [68(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/68/2/b)
 
-[^key-d0210f8adac1ab5d9a4bf07d2e11faf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/b)
+[^c-d0210f8adac1ab5d9a4bf07d2e11faf0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69/2/b)
 
 [^f00008]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41) (“the 1989 Act”). A person may have parental responsibility for a person who is not a child for the purposes of these Regulations; see section 105 of the 1989 Act, by virtue of which “child” for the purposes of the 1989 Act means, subject to paragraph 16 of Schedule 1 to the Act, a person under the age of 18.
 
@@ -752,15 +752,15 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^f00011]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887), as amended by [S.I. 2010/2246](https://www.legislation.gov.uk/uksi/2010/2246).
 
-[^key-fd8b9c7e5442d17a5aaed73ed8e5dcfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1617/regulation/3) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-fd8b9c7e5442d17a5aaed73ed8e5dcfc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1617/regulation/3) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-af6dd75d6d567802bca4e166c5b99dc8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1617/regulation/4) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-af6dd75d6d567802bca4e166c5b99dc8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1617/regulation/4) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-a21e0adf3c02bad7c0dad8f631f7f28d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1617/regulation/5) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-a21e0adf3c02bad7c0dad8f631f7f28d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1617/regulation/5) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-d43ce52549d3b6272d76f2a495e3b959]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1617/regulation/6) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-d43ce52549d3b6272d76f2a495e3b959]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/1617/regulation/6) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-505c7985e061a229ee7aa15857f47697]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-505c7985e061a229ee7aa15857f47697]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00012]: Footnote: *See* section 35 of the Mental Capacity Act [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9). Section 35 has been amended by section 50(7) of, and Schedule 9 to, the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12) (“the 2007 Act”), section 55(2) of, and paragraphs 133 and 134 of Schedule 5 to, the 2012 Act, and by [S.I. 2010/813](https://www.legislation.gov.uk/uksi/2010/813), regulation 17.
 
@@ -772,9 +772,9 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^f00016]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887), as amended by [S.I. 2010/2246](https://www.legislation.gov.uk/uksi/2010/2246).
 
-[^key-9be8d50dd9b7b91459567001e6b516f5]: Textual amendment: [Reg. 7(11)-(13)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7/11) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2354/regulation/2)
+[^c-9be8d50dd9b7b91459567001e6b516f5]: Textual amendment: [Reg. 7(11)-(13)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/7/11) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2354/regulation/2)
 
-[^key-b667bf9ab4555b833198a5d0316659d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-b667bf9ab4555b833198a5d0316659d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00017]: Footnote: Section 83 has been amended by section 55(1) of, and paragraph 30 of Schedule 4 to, the 2012 Act.
 
@@ -788,81 +788,81 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^f00022]: Footnote: The NHS Health Check programme aims to help prevent heart disease, stroke, diabetes, kidney disease and certain types of dementia. *See* http://www.healthcheck.nhs.uk/.
 
-[^key-aa2d23ece9955bf69ff37f2e716ddf93]: Textual amendment: [Reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/2)
+[^c-aa2d23ece9955bf69ff37f2e716ddf93]: Textual amendment: [Reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/2)
 
-[^key-cc2bda14db2fba0f2d329ccc8e98bfd1]: Textual amendment: Words in [reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/a)
+[^c-cc2bda14db2fba0f2d329ccc8e98bfd1]: Textual amendment: Words in [reg. 8(5A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5A) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/a)
 
-[^key-d076b01e583857d5e0f8b3b6b80ac8c9]: Textual amendment: [Reg. 8(5B)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5B) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/b)
+[^c-d076b01e583857d5e0f8b3b6b80ac8c9]: Textual amendment: [Reg. 8(5B)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/5B) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/2/b)
 
-[^key-03e8764ac9309862c0e1b19c557ea2fd]: Textual amendment: [Reg. 8(6A)-(6C)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/6A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/3)
+[^c-03e8764ac9309862c0e1b19c557ea2fd]: Textual amendment: [Reg. 8(6A)-(6C)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/8/6A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/3/3)
 
-[^key-d9e04dacea05d6b3bade280a08e0bbcc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1617/regulation/9) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-d9e04dacea05d6b3bade280a08e0bbcc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1617/regulation/9) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-f294067c7a52ea3f8324290ac0578d14]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-f294067c7a52ea3f8324290ac0578d14]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-8cdde039a9af32732b9d2f76f09fb738]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/a)
+[^c-8cdde039a9af32732b9d2f76f09fb738]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/a)
 
-[^key-ab0024bdca5b96652363b372daa4bf81]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1A) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/b)
+[^c-ab0024bdca5b96652363b372daa4bf81]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/1A) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/b)
 
 [^f00023]: Footnote: The Independent Living Fund (2006) is an Executive Non-Departmental Public Body of the Department of Work and Pensions set up as a national resource dedicated to the financial support of disabled people. It provides discretionary cash payments directly to disabled people. Its operations are governed by a Deed dated 10th April 2006 between the Secretary of State for Work and Pensions and the Original Trustees, amended from time to time by the Secretary of State for Work and Pensions. *See* the Independent Living Fund (2006) Order 2007 ([S.I. 2007/2538](https://www.legislation.gov.uk/uksi/2007/2538), as amended by [S.I. 2013/458](https://www.legislation.gov.uk/uksi/2013/458)).
 
-[^key-e213a4b75a3753322378231b74888637]: Textual amendment: [Reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/5/b) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/c)
+[^c-e213a4b75a3753322378231b74888637]: Textual amendment: [Reg. 10(5)(b)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/10/5/b) substituted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/3/c)
 
-[^key-edc6978494d24a18e395c555d4db432c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-edc6978494d24a18e395c555d4db432c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00024]: Footnote: The Care Quality Commission (CQC) was established by section 1(1) of the 2008 Act and regulates all health and adult social care services in England, including those provided by the NHS, local authorities, private companies and voluntary organisations.
 
 [^f00025]: Footnote: Section 25(3) of the 2002 Act has been amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 127 of, and paragraphs 17(1) and (2) of Schedule 10 to, the 2008 Act, and by section 230(1) of, and paragraph 56(b) of Schedule 15 to, the 2012 Act.
 
-[^key-cda8d2d0a859a4ac4b7faa9c2f566867]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/3A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2354/regulation/4)
+[^c-cda8d2d0a859a4ac4b7faa9c2f566867]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/3A) inserted (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2354/regulation/4)
 
-[^key-b1c2da20b92eddd415907fde04124b69]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/6) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/4)
+[^c-b1c2da20b92eddd415907fde04124b69]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/11/6) inserted (1.4.2017) by [The National Health Service (Direct Payments) (Amendment) Regulations 2017 (S.I. 2017/219)](https://www.legislation.gov.uk/uksi/2017/219), [regs. 1](https://www.legislation.gov.uk/uksi/2017/219/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/219/regulation/2/4)
 
-[^key-dd1f6fc74653d789a581b769c717c5c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1617/regulation/12) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-dd1f6fc74653d789a581b769c717c5c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/1617/regulation/12) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-9c9a0de6fd86ecc37720b512bc471cf1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-9c9a0de6fd86ecc37720b512bc471cf1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-6c52748eaec15111cd74446a86db3032]: Textual amendment: [Reg. 13(6)-(8)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13/6) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2354/regulation/5)
+[^c-6c52748eaec15111cd74446a86db3032]: Textual amendment: [Reg. 13(6)-(8)](https://www.legislation.gov.uk/uksi/2013/1617/regulation/13/6) added (14.10.2013) by [The National Health Service (Direct Payments) (Amendment) Regulations 2013 (S.I. 2013/2354)](https://www.legislation.gov.uk/uksi/2013/2354), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2354/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2354/regulation/5)
 
-[^key-15d0700ec7e4c4351bb254b1b3ac8681]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1617/regulation/14) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-15d0700ec7e4c4351bb254b1b3ac8681]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/1617/regulation/14) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-c46f0f94233f91dcc69b82a8d680cddb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1617/regulation/15) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-c46f0f94233f91dcc69b82a8d680cddb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/1617/regulation/15) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-0035e25dedc560998dee8138ffcc804b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1617/regulation/16) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-0035e25dedc560998dee8138ffcc804b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/1617/regulation/16) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-f56cfa78c49d447f339349cd2e8b92ec]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1617/regulation/17) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-f56cfa78c49d447f339349cd2e8b92ec]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/1617/regulation/17) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-5371c2726c23cf8ca08228b03e724fd3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1617/regulation/18) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-5371c2726c23cf8ca08228b03e724fd3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/1617/regulation/18) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617). Regulation 5 has been amended by [S.I. 2009/278](https://www.legislation.gov.uk/uksi/2009/278), [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000), [S.I. 2012/3094](https://www.legislation.gov.uk/uksi/2012/3094) and [S.I 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-9f99ee33d78e0a9b2cee8036d4c059f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1617/regulation/19) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-9f99ee33d78e0a9b2cee8036d4c059f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/1617/regulation/19) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
 [^f00027]: Footnote: [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000). Regulations 1 to 5 and 7 to 20 were amended by, or affected by the provisions of, the National Treatment Agency (Abolition) and articles 11 and 12 of, and paragraph 154 of Schedule 2 and paragraph 22 of Schedule 3 to, the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 ([S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235)).
 
 [^f00028]: Footnote: [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-a1f33730425e767aaec54cdc71b58e41]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1617/regulation/20) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-a1f33730425e767aaec54cdc71b58e41]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/1617/regulation/20) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-94ae3e9c16ad577c61afe75a1ead7058]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
+[^c-94ae3e9c16ad577c61afe75a1ead7058]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) in force at 1.8.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1617/regulation/1)
 
-[^key-e83d19c51722f9507276a13f1c68c645]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e83d19c51722f9507276a13f1c68c645]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00029]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44). Section 209 has been amended by section 6(2) of, and paragraphs 71 and 88 of Schedule 4 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) (“the Criminal Justice Act 2008”), and section 74(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) (“the Legal Aid Act”).
 
-[^key-e25ab415d3b076dbd017ad7f58d84b3e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e25ab415d3b076dbd017ad7f58d84b3e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00030]: Footnote: Section 177 has been amended by section 6(2) of, and paragraphs 71 and 82 of Schedule 4 to, the Criminal Justice Act 2008, and sections 66, 70, 72 and 76 of the Legal Aid Act.
 
-[^key-2e4c93440e88c33105ae1e96376b18dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2e4c93440e88c33105ae1e96376b18dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00031]: Footnote: Section 189 has been amended by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643), and section 68 of the Legal Aid Act.
 
-[^key-be6e97237fbe7f9291aa6c4b4ef9a8c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-be6e97237fbe7f9291aa6c4b4ef9a8c5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-930ca274a7c54cbf648992574d109760]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-930ca274a7c54cbf648992574d109760]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-61b720f8ce4afb0e401d73bc1c7f5019]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-61b720f8ce4afb0e401d73bc1c7f5019]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00032]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53). Sections 34A and 35 have been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44) (“the 2003 Act”).
 
@@ -876,11 +876,11 @@ An impact assessment has not been produced for this instrument as the instrument
 
 [^f00037]: Footnote: Section 52 has been repealed, with savings, by sections 303 and 332 of, and Schedule 37 to, the 2003 Act.
 
-[^key-fad51fff169afc68cfef37a0f2e015a0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fad51fff169afc68cfef37a0f2e015a0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6a6ed8299519228e226e46879d715928]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6a6ed8299519228e226e46879d715928]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6817340cd69de9a0aec9d64137473111]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/6) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6817340cd69de9a0aec9d64137473111]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1617/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 418(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/418/6) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00039]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 234B was inserted by section 89 of the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37).
 

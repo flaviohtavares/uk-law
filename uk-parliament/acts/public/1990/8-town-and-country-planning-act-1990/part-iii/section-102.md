@@ -35,7 +35,7 @@ as the case may be.
 
 (2) An order under this section may grant planning permission for any development of the land to which the order relates, subject to such conditions as may be specified in the order.
 
-(2A)[^key-fa593e66930a32bb67e253a80cd8b1eb] Section 71ZA applies where planning permission is granted by an order under this section as if the references to the decision notice were to the order.
+(2A)[^c-fa593e66930a32bb67e253a80cd8b1eb] Section 71ZA applies where planning permission is granted by an order under this section as if the references to the decision notice were to the order.
 
 (3) Section 97 shall apply in relation to any planning permission granted by an order under this section as it applies in relation to planning permission granted by the local planning authority on an application made under this Part.
 
@@ -56,7 +56,7 @@ as the case may be.
 
 [^c14020881]: Modification: S. 102: functions of local authority not to be responsibility of an executive of the authority (E.)(16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-fa593e66930a32bb67e253a80cd8b1eb]: Textual amendment: S. 102(2A) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 33(4)](https://www.legislation.gov.uk/anaw/2015/4/section/33/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
+[^c-fa593e66930a32bb67e253a80cd8b1eb]: Textual amendment: S. 102(2A) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 33(4)](https://www.legislation.gov.uk/anaw/2015/4/section/33/4), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [arts. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b), [5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
 
 [^c14020891]: Textual amendment: S. 102(4)(5) substituted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para.21](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/21) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 

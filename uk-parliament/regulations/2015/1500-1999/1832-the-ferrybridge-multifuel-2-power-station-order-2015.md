@@ -47,17 +47,17 @@ The single appointed person, having considered the application with the document
 
 The Secretary of State, having considered the report and recommendation of the single appointed person, has decided the application and determined to make an Order giving effect to the proposals comprised in the application with modifications which in the opinion of the Secretary of State do not make substantial changes to the proposals.
 
-The Secretary of State, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, makes the following Order—[^key-895403eff51b2f3dc4f6b85d564756c5]
+The Secretary of State, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, makes the following Order—[^c-895403eff51b2f3dc4f6b85d564756c5]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-fa1b4fe733db090ad80d8044ccbca9e6]
+### 1. Citation and commencement[^c-fa1b4fe733db090ad80d8044ccbca9e6]
 
 (1) This Order may be cited as the Ferrybridge Multifuel 2 Power Station Order 2015.
 
 (2) This Order comes into force on 19th November 2015.
 
-### 2. Interpretation[^key-39df83de1aa5d0d893958090feae15cd]
+### 2. Interpretation[^c-39df83de1aa5d0d893958090feae15cd]
 
 (1) In this Order—
 
@@ -67,7 +67,7 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 - “1989 Act” means the Electricity Act 1989[^f00007];
 - “1991 Act” means the New Roads and Street Works Act 1991[^f00008];
 - “2008 Act” means the Planning Act 2008;
-- “[^key-d266c1c662bc689906f029c5486f30f5]**2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016;
+- “[^c-d266c1c662bc689906f029c5486f30f5]**2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016;
 - “authorised development” means the development and associated development described in Schedule 1 (the authorised development) which is development within the meaning of section 32 of the 2008 Act;
 - “building” includes any structure or erection or any part of a structure or erection;
 - “business day” means any day except—
@@ -84,13 +84,13 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 - “light goods vehicle” means a motor vehicle constructed or adapted to carry or to haul goods of not more than 3.5 tonnes in weight;
 - “maintain” includes (i) inspect, repair, adjust, alter, improve, refurbish, and (ii) in relation to a part of a work (but not the whole of a work) of the authorised development, remove, clear, demolish, decommission, reconstruct or replace; and “maintenance” and other cognate expressions are to be construed accordingly;
 - “MWe” means megawatts of electrical output;
-- “Order land” means the land required for the authorised[^key-abeaf15cb211f54b501a68fa9d1d9fce] development shown on the Order plan which is within the Order limits;
+- “Order land” means the land required for the authorised[^c-abeaf15cb211f54b501a68fa9d1d9fce] development shown on the Order plan which is within the Order limits;
 - “Order limits” means the limits, shown by the red line boundary on the Order plan, within which the authorised development may be carried out;
 - “Order plan” means the document certified as the Order plan by the Secretary of State for the purposes of this Order under article 23;
 - “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00010];
 - “a part” of the authorised development means any part of Works Nos. 1-4;
 - “planning authority” means Wakefield Metropolitan District Council, as the planning authority for the area in which the Order land is situated;
-- “[^key-ffa264ad973fbc372a88a2c5d93b1829]**processed municipal solid waste**” includes, for the purposes of this Order, waste falling within class 20 03 01 of the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) \[2000\] OJ L226/3 as amended by Commission [Decision 2001/118/EC](https://www.legislation.gov.uk/european/decision/2001/0118) \[2001\] OJ L47/1, Commission [Decision 2001/119/EC](https://www.legislation.gov.uk/european/decision/2001/0119) \[2001\] OJ L47/32, Council [Decision 2001/573/EC](https://www.legislation.gov.uk/european/decision/2001/0573) \[2001\] OJ L203/18 and Commission [Decision 2014/955/EU](https://www.legislation.gov.uk/european/decision/2014/0955) \[2014\] OJ L370/44;
+- “[^c-ffa264ad973fbc372a88a2c5d93b1829]**processed municipal solid waste**” includes, for the purposes of this Order, waste falling within class 20 03 01 of the Annex to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) \[2000\] OJ L226/3 as amended by Commission [Decision 2001/118/EC](https://www.legislation.gov.uk/european/decision/2001/0118) \[2001\] OJ L47/1, Commission [Decision 2001/119/EC](https://www.legislation.gov.uk/european/decision/2001/0119) \[2001\] OJ L47/32, Council [Decision 2001/573/EC](https://www.legislation.gov.uk/european/decision/2001/0573) \[2001\] OJ L203/18 and Commission [Decision 2014/955/EU](https://www.legislation.gov.uk/european/decision/2014/0955) \[2014\] OJ L370/44;
 - “requirements” means the requirements set out in Schedule 2 (the requirements); and a reference to a numbered requirement is a reference to the requirement imposed by the corresponding numbered paragraph of that Schedule;
 - “statutory undertaker” means any person falling within the meaning of section 127(8) of the 2008 Act;
 - “street” means a street within the meaning of section 48 of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes any footpath, and “street” includes any part of a street;
@@ -111,7 +111,7 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 (6) A reference in this Order to a “Work” identified by a number is a reference to the Work of that number described in Schedule 1 and shown on the works plans.
 
-### 3. Electronic communications[^key-9feefaea5fb50a2fe4e23a39354c06ff]
+### 3. Electronic communications[^c-9feefaea5fb50a2fe4e23a39354c06ff]
 
 (1) In this Order—
 
@@ -132,11 +132,11 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 ## PART 2 — PRINCIPAL POWERS
 
-### 4. Development consent granted by this Order[^key-97ea91051388ddf2cf6acdaeb0f0852b]
+### 4. Development consent granted by this Order[^c-97ea91051388ddf2cf6acdaeb0f0852b]
 
 Subject to the provisions of this Order and to the requirements in Schedule 2, the undertaker is granted development consent for the authorised development.
 
-### 5. Limits of deviation[^key-66e4cb688082139348135377a33dae54]
+### 5. Limits of deviation[^c-66e4cb688082139348135377a33dae54]
 
 (1) In carrying out the authorised development the undertaker may deviate laterally from the lines, situations or building outlines shown on the works plans and sheet 1 of the indicative layout—
 
@@ -156,7 +156,7 @@ Subject to the provisions of this Order and to the requirements in Schedule 2, t
 
 - (a) the height of the emissions stack comprised in Work No. 1A must be 136 metres above ordnance datum (Newlyn);
 - (b) the height of each building comprised in the authorised development and listed in Schedule 3 (maximum building dimensions) must not exceed the maximum height for that building specified in that Schedule;
-- (c) the height of each building comprised in the authorised development and listed in Schedule 4 (minimum building dimensions) must not be less than the minimum height[^key-3441b3d19dbdce455cd12fcd86f53810] for that building specified in that Schedule; and
+- (c) the height of each building comprised in the authorised development and listed in Schedule 4 (minimum building dimensions) must not be less than the minimum height[^c-3441b3d19dbdce455cd12fcd86f53810] for that building specified in that Schedule; and
 - (d) each part of the authorised development, apart from piling works, must be at least 1 metre above the relevant groundwater table level.
 
 (5) In this article—
@@ -164,13 +164,13 @@ Subject to the provisions of this Order and to the requirements in Schedule 2, t
 - the “indicative layout” means the document certified as the indicative generating station site layout, elevation and sections plan – concept layout by the Secretary of State for the purposes of this Order under article 23;
 - “the relevant groundwater table level” means, in relation to each part of the authorised development, the level of the groundwater table in the land on which it is proposed to construct that part, as established pursuant to requirement 6 (pre-development groundwater table level survey).
 
-### 6. Authorisation of the operation of the authorised development[^key-7536166c4be48914432fe20a6c12bc97]
+### 6. Authorisation of the operation of the authorised development[^c-7536166c4be48914432fe20a6c12bc97]
 
 (1) The undertaker is authorised to operate the generating station comprised in the authorised development.
 
 (2) Paragraph (1) does not relieve the undertaker of any requirement to obtain any permit or licence under any other legislation that may be required to authorise the operation of a generating station.
 
-### 7. Power to maintain the authorised development[^key-04a46a59f8dcb0dc9af95788ed0e9fdd]
+### 7. Power to maintain the authorised development[^c-04a46a59f8dcb0dc9af95788ed0e9fdd]
 
 (1) The undertaker may at any time maintain the authorised development, except to the extent that this Order (including the requirements), or an agreement made under this Order, provides otherwise.
 
@@ -180,7 +180,7 @@ Subject to the provisions of this Order and to the requirements in Schedule 2, t
 - (b) outside the Order limits; or
 - (c) which would result in the authorised development varying from the description in Schedule 1.
 
-### 8. Transfer of the benefit of this Order[^key-1494895149d925f39ac96e1e09974db8]
+### 8. Transfer of the benefit of this Order[^c-1494895149d925f39ac96e1e09974db8]
 
 (1) Except where paragraph (4) applies, the undertaker may, with the consent of the Secretary of State,—
 
@@ -205,7 +205,7 @@ Subject to the provisions of this Order and to the requirements in Schedule 2, t
 
 ## PART 3 — SUPPLEMENTARY POWERS
 
-### 9. Street works[^key-c4f189bbde616338712b6a5ebabaf564]
+### 9. Street works[^c-c4f189bbde616338712b6a5ebabaf564]
 
 (1) The undertaker may, for the purposes of the authorised development, enter on so much of the streets specified in Schedule 5 (streets subject to street works) as is within the Order limits and may—
 
@@ -221,14 +221,14 @@ Subject to the provisions of this Order and to the requirements in Schedule 2, t
 
 (4) In this article “apparatus” has the same meaning as in Part 3 of the 1991 Act.
 
-### 10. Access to works[^key-734772a3cbcf82e1ccae14128024583b]
+### 10. Access to works[^c-734772a3cbcf82e1ccae14128024583b]
 
 The undertaker may, for the purposes of the authorised development—
 
 - (a) form and lay out means of access, or improve existing means of access, in the location specified in Schedule 6 (access to works); and
 - (b) with the approval of the planning authority after consultation with the highway authority, form and lay out such other means of access, or improve existing means of access, at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised development.
 
-### 11. Agreements with street authorities[^key-5b60032e289eceea1cd5cb2a1b150766]
+### 11. Agreements with street authorities[^c-5b60032e289eceea1cd5cb2a1b150766]
 
 (1) A street authority and the undertaker may enter into an agreement with respect to the carrying out of any of the works referred to in article 9(1) (street works).
 
@@ -238,7 +238,7 @@ The undertaker may, for the purposes of the authorised development—
 - (b) include an agreement between the undertaker and the street authority specifying a reasonable time for the completion of the works;
 - (c) contain such terms as to payment and otherwise as the parties consider appropriate.
 
-### 12. Discharge of water[^key-2b98ba3aee8a33000eac96d07fdd4597]
+### 12. Discharge of water[^c-2b98ba3aee8a33000eac96d07fdd4597]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -255,7 +255,7 @@ The undertaker may, for the purposes of the authorised development—
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise a water discharge activity prohibited by regulation 12 of the 2016 Regulations[^key-70bbd85af21a01cbc4189cf7522770f5].
+(7) This article does not authorise a water discharge activity prohibited by regulation 12 of the 2016 Regulations[^c-70bbd85af21a01cbc4189cf7522770f5].
 
 (8) In this article—
 
@@ -264,7 +264,7 @@ The undertaker may, for the purposes of the authorised development—
 
   other expressions, excluding “watercourse”, used both in this article and in the Water Resources Act 1991[^f00014] have the same meanings as in that Act.
 
-### 13. Authority to survey and investigate the land[^key-0bc1cdafcb1fd1286024ab81085ea828]
+### 13. Authority to survey and investigate the land[^c-0bc1cdafcb1fd1286024ab81085ea828]
 
 (1) The undertaker may, for the purposes of this Order, enter on any land within the Order limits or which may be affected by the authorised development and—
 
@@ -291,7 +291,7 @@ The undertaker may, for the purposes of the authorised development—
 
 (7) Any compensation payable under paragraph (6) is to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-### 14. Felling or lopping of trees[^key-370bbccd630a036cae36220fd7e1007e]
+### 14. Felling or lopping of trees[^c-370bbccd630a036cae36220fd7e1007e]
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised development, or cut back its roots, if it reasonably believes that it is necessary to do so to prevent the tree or shrub—
 
@@ -304,7 +304,7 @@ The undertaker may, for the purposes of the authorised development—
 
 (4) Any dispute as to a person’s entitlement to compensation under paragraph (3), or any dispute as to the amount of compensation, is to be determined under Part 1(determination of questions of disputed compensation) of the 1961 Act.
 
-### 15. Rights under or over streets[^key-1cf641c8469c9b85db48a5245c3a1b68]
+### 15. Rights under or over streets[^c-1cf641c8469c9b85db48a5245c3a1b68]
 
 (1) The undertaker may enter on and appropriate so much of the subsoil of, or airspace over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
 
@@ -321,13 +321,13 @@ The undertaker may, for the purposes of the authorised development—
 
 (6) Compensation is not payable under paragraph (4) to a person who is an undertaker to which section 85 of the 1991 Act (sharing cost of necessary measures) applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
 
-### 16. Statutory undertakers[^key-e7559644cbfe477e082234f78da67690]
+### 16. Statutory undertakers[^c-e7559644cbfe477e082234f78da67690]
 
 (1) The undertaker may extinguish the rights of, or remove or reposition the apparatus belonging to, statutory undertakers shown on the Order plan and described in the book of reference.
 
 (2) In paragraph (1), “the Order plan” and “the book of reference” mean the documents respectively certified as such by the Secretary of State for the purposes of this Order under article 23.
 
-### 17. Recovery of costs of new connections[^key-bd7dda4ab9f6c6166349aaeaad42778b]
+### 17. Recovery of costs of new connections[^c-bd7dda4ab9f6c6166349aaeaad42778b]
 
 (1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 16 (statutory undertakers), any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
@@ -347,7 +347,7 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## PART 4 — MISCELLANEOUS AND GENERAL
 
-### 18. Defence to proceedings in respect of statutory nuisance constituted by noise emitted from premises[^key-bbde4d81cca54a89bf472beae904a29c]
+### 18. Defence to proceedings in respect of statutory nuisance constituted by noise emitted from premises[^c-bbde4d81cca54a89bf472beae904a29c]
 
 (1) Paragraph (2) applies where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00016] (summary proceedings by persons aggrieved by statutory nuisances) in relation to a nuisance falling within section 79(1)(g) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance).
 
@@ -362,11 +362,11 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 (3) Section 61(9) of the Control of Pollution Act 1974 (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded) do not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development.
 
-### 19. Procedures for approvals etc. required by the requirements[^key-159817c045556214218ae0e6f8cb3855]
+### 19. Procedures for approvals etc. required by the requirements[^c-159817c045556214218ae0e6f8cb3855]
 
 Schedule 7 (procedures for approvals etc. required by the requirements) has effect in relation to each approval, consent and agreement required by the requirements.
 
-### 20. Removal of human remains[^key-03317529b6567eb020e7c02e51c47527]
+### 20. Removal of human remains[^c-03317529b6567eb020e7c02e51c47527]
 
 (1) Before the undertaker carries out any development or works which it has reason to think will or may disturb any human remains in the Order land it must remove those remains, or cause them to be removed, from the Order land in accordance with the following provisions of this article.
 
@@ -412,7 +412,7 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 (13) Section 25 of the Burial Act 1857[^f00018] (bodies not to be removed from burial grounds, save under faculty, without licence of Secretary of State) does not apply to a removal carried out in accordance with this article.
 
-### 21. Application of landlord and tenant law[^key-864686db4b2a4f9c1c76d743d82d9cba]
+### 21. Application of landlord and tenant law[^c-864686db4b2a4f9c1c76d743d82d9cba]
 
 (1) This article applies to—
 
@@ -429,11 +429,11 @@ so far as the agreement relates to the terms on which any land which is the subj
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 22. Operational land for the purposes of the Town and Country Planning Act 1990[^key-abb74814339d29ec3aac03aa334b7100]
+### 22. Operational land for the purposes of the Town and Country Planning Act 1990[^c-abb74814339d29ec3aac03aa334b7100]
 
 Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) of the Town and Country Planning Act 1990[^f00019] (cases in which land is to be treated as operational land for the purposes of that Act).
 
-### 23. Certification of documents[^key-b53815c40223c39a416c9305e1c8eaa1]
+### 23. Certification of documents[^c-b53815c40223c39a416c9305e1c8eaa1]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State a printed copy of each of the documents submitted with the application for this Order and listed in paragraph (2), for certification that it is a true copy of the document referred to in this Order.
 
@@ -457,7 +457,7 @@ Development consent granted by this Order is to be treated as specific planning 
 
 (3) A document certified in accordance with paragraph (1) is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 24. Arbitration[^key-3f2405756f259cd594591c75f3bbe248]
+### 24. Arbitration[^c-3f2405756f259cd594591c75f3bbe248]
 
 Any difference under any provision of this Order, unless otherwise provided for, is to be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the Secretary of State.
 
@@ -471,13 +471,13 @@ Department of Energy and Climate Change
 
 28th October 2015
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-acf34ab6f8a572510c787dd4fe17d5e0]
 
 Article 2
 
 ### Nationally significant infrastructure project
 
-[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+[^c-acf34ab6f8a572510c787dd4fe17d5e0]
 
 The construction and operation of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, comprising—
 
@@ -516,7 +516,7 @@ Shown on works plan sheet 2.
 
 ### Associated development
 
-[^key-acf34ab6f8a572510c787dd4fe17d5e0]
+[^c-acf34ab6f8a572510c787dd4fe17d5e0]
 
 Associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project referred to in Work No. 1, comprising—:
 
@@ -545,7 +545,7 @@ In connection with and in addition to Works Nos. 1, 2, 3 and 4 and to the extent
 - (d) CCTV and other security measures;
 - (e) surface and foul water drainage facilities;
 - (f) potable water supply;
-- (g) new electronic communications[^key-0a1ffbce8ceafa41ce957b5b8b40931c] and utilities apparatus and connections;
+- (g) new electronic communications[^c-0a1ffbce8ceafa41ce957b5b8b40931c] and utilities apparatus and connections;
 - (h) hard and soft landscaping;
 - (i) biodiversity enhancement measures;
 - (j) works to permanently alter the position of existing electronic communications and utilities apparatus and connections;
@@ -559,23 +559,23 @@ and, to the extent that it does not form part of such works, further associated 
 
 Article 2
 
-### 1. Commencement of the authorised development[^key-ca8d0501eab5f54fe0f079b32d5dfd90]
+### 1. Commencement of the authorised development[^c-ca8d0501eab5f54fe0f079b32d5dfd90]
 
 (1) The authorised development must commence within five years of the date on which this Order comes into force.
 
 (2) The authorised development must not commence unless the undertaker has given the planning authority 14 days’ notice of its intention to commence the authorised development.
 
-### 2. Commercial use[^key-f15d119f3352ba41f5bc2c1eb51ad4c2]
+### 2. Commercial use[^c-f15d119f3352ba41f5bc2c1eb51ad4c2]
 
 The authorised development must not be brought into commercial use unless the undertaker has given the planning authority 28 days’ notice of its intention to commence commercial use of the authorised development.
 
-### 3. Fuel type[^key-53a33c73f30512ed0b5384a9dcae5a05]
+### 3. Fuel type[^c-53a33c73f30512ed0b5384a9dcae5a05]
 
 (1) Only fuel of a type specified in the environmental permit may be combusted in the boilers of the authorised development.
 
 (2) Except for purposes of the start-up or support firing of a boiler, only waste derived fuel may be combusted in the boilers of the authorised development.
 
-### 4. Detailed design[^key-de0fa102d016fadd15b5e26728459d41]
+### 4. Detailed design[^c-de0fa102d016fadd15b5e26728459d41]
 
 (1) Work No. 1 must not commence until written details of the following have been submitted to and approved by the planning authority—
 
@@ -600,7 +600,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (6) The authorised development must be carried out in accordance with the approved details.
 
-### 5. Design of fuel storage bunker[^key-c09cd04727ad76aafef40fcf3022384b]
+### 5. Design of fuel storage bunker[^c-c09cd04727ad76aafef40fcf3022384b]
 
 (1) Work No. 1 must not commence until written details of the design of the fuel storage bunker comprised in Work No. 1A have been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
 
@@ -608,7 +608,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) The fuel storage bunker must be constructed in accordance with the approved details.
 
-### 6. Pre-development groundwater table level survey[^key-b89d72f32f94c5365ccd9a946be65009]
+### 6. Pre-development groundwater table level survey[^c-b89d72f32f94c5365ccd9a946be65009]
 
 (1) Work No. 1 must not commence until the undertaker has carried out the groundwater table level survey and the results of that survey have been submitted in writing to and, after consultation with the Environment Agency, approved by the planning authority.
 
@@ -618,9 +618,9 @@ The authorised development must not be brought into commercial use unless the un
 - (b) is carried out over a period of 12 months, and
 - (c) establishes the groundwater table level at each of those locations.
 
-### 7. Provision of landscaping[^key-94cfed9f41e6b454ec2689f1dbf2eb1d]
+### 7. Provision of landscaping[^c-94cfed9f41e6b454ec2689f1dbf2eb1d]
 
-(1) Within 12 months of the Commissioning of the authorised development a written detailed landscaping scheme for each part shall be[^key-73298e5c925d5652590260c35ed8d602] submitted to and approved by the planning authority.
+(1) Within 12 months of the Commissioning of the authorised development a written detailed landscaping scheme for each part shall be[^c-73298e5c925d5652590260c35ed8d602] submitted to and approved by the planning authority.
 
 (2) Each scheme submitted and approved must include details of all proposed hard and soft landscaping works, including—
 
@@ -635,7 +635,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) In subparagraph (3), “the biodiversity enhancement and management plan” means the plan approved under requirement 17(1).
 
-### 8. Implementation and maintenance of landscaping[^key-a4d7a21e785d32831111ee7aa316a51a]
+### 8. Implementation and maintenance of landscaping[^c-a4d7a21e785d32831111ee7aa316a51a]
 
 (1) All landscaping works must be carried out in accordance with the relevant landscaping scheme (including the implementation timetable) approved under requirement 7.
 
@@ -645,7 +645,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) The undertaker must implement and maintain an annual landscaping maintenance plan during the construction, operation and decommissioning of the authorised development.
 
-### 9. External lighting[^key-b54768671b946e81002c48f3f9215949]
+### 9. External lighting[^c-b54768671b946e81002c48f3f9215949]
 
 (1) Each part of the authorised development must not commence until a written scheme for all temporary and permanent external lighting to be installed during the construction and operation of that part (except the aviation warning lighting required by virtue of requirement 44) has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
@@ -658,7 +658,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) Each scheme must be implemented as approved.
 
-### 10. Highway accesses[^key-461c9bcfb99cd39ab517c8a8a0bef519]
+### 10. Highway accesses[^c-461c9bcfb99cd39ab517c8a8a0bef519]
 
 (1) Each part of the authorised development must not commence until written details of the siting, design and layout (including visibility splays and surfacing) of any new or modified permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, for that part have been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
 
@@ -666,7 +666,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) The highway accesses must be constructed in accordance with the relevant approved details.
 
-### 11. Fencing – A1(M)[^key-031de4a62e168fd434a8271b5914417f]
+### 11. Fencing – A1(M)[^c-031de4a62e168fd434a8271b5914417f]
 
 (1) The authorised development must not commence until written details of the design and construction of any fencing on the boundary of the authorised development with the A1(M) have been submitted to and, after consultation with the Highways Agency, approved by the planning authority.
 
@@ -674,7 +674,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) The authorised development must not be brought into commercial use until the fencing has been completed.
 
-### 12. Fencing and other means of enclosure[^key-9c3180686bc75ef308f5c5f910e0e2e2]
+### 12. Fencing and other means of enclosure[^c-9c3180686bc75ef308f5c5f910e0e2e2]
 
 (1) Each part of the authorised development must not commence until written details of all proposed means of enclosure for that part have been submitted to and approved by the planning authority.
 
@@ -686,7 +686,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (5) Each part of the authorised development must be carried out in accordance with the relevant approved details.
 
-### 13. Surface and foul water drainage[^key-004151d1ab3e25ffff3b978fd1456dd3]
+### 13. Surface and foul water drainage[^c-004151d1ab3e25ffff3b978fd1456dd3]
 
 (1) Each part of the authorised development must not commence until written details of the surface and foul water drainage systems (including means of pollution control, in accordance with the CEMP) for that part have been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
 
@@ -696,7 +696,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) The authorised development must not be commissioned until the surface and foul water drainage systems have been constructed.
 
-### 14. Flood risk mitigation[^key-f8957c5aa6f9fa74229c9e98e7066b11]
+### 14. Flood risk mitigation[^c-f8957c5aa6f9fa74229c9e98e7066b11]
 
 (1) Each part of the authorised development must not commence until a written scheme for the mitigation of flood risk during the construction and operation of that part has been submitted to and, after consultation with the Environment Agency, approved by the planning authority.
 
@@ -704,7 +704,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) Each approved scheme must be maintained throughout the construction and operation of the relevant part of the authorised development.
 
-### 15. Contaminated land and groundwater[^key-2c270cc52feb9c9e2a9c1136c6f3e263]
+### 15. Contaminated land and groundwater[^c-2c270cc52feb9c9e2a9c1136c6f3e263]
 
 (1) Each part of the authorised development must not commence until a written scheme applicable to the relevant part of the authorised development, to deal with the contamination of any land (including groundwater), which is likely to cause significant harm to persons, the environment or significant pollution of controlled waters or the environment, has, after consultation with the Environment Agency, been submitted to and approved by the planning authority.
 
@@ -721,7 +721,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (6) The authorised development, including any remediation, must be carried out in accordance with all approved schemes.
 
-### 16. Archaeology[^key-334e841a134aa9ccb16b377a9f3360a7]
+### 16. Archaeology[^c-334e841a134aa9ccb16b377a9f3360a7]
 
 (1) Each part of the authorised development must not commence until a written programme of archaeological work for that part has been submitted to and, after consultation with West Yorkshire Archaeology Advisory Service, approved by the planning authority.
 
@@ -744,18 +744,18 @@ The authorised development must not be brought into commercial use unless the un
 - (a) the site investigation and post-investigation assessment provided for in the approved programme have been completed, and
 - (b) the arrangements referred to in subparagraph (2)(e) made under the approved programme have been implemented.
 
-### 17. Biodiversity enhancement and management plan[^key-29aaf95580563c95a6eaf048300c2a5a]
+### 17. Biodiversity enhancement and management plan[^c-29aaf95580563c95a6eaf048300c2a5a]
 
 (1) Within 12 months of the commissioning of the authorised development a written biodiversity enhancement and management plan shall be[^M_F_62bc545b-41f9-45a9-edf4-48f32bc023e0] submitted to and, after consultation with Yorkshire Wildlife Trust, approved by the planning authority.
 
 (2) The plan submitted and approved must—
 
-- (a) be in accordance with the relevant[^M_F_02e8eb6f-b2b0-461c-a8ba-312bd7060371] survey results and mitigation and enhancement measures included in chapter 14[^key-297cf72b97886493fa7dc9bd1adf473b] of the environmental statement, the biodiversity strategy and the indicative landscaping strategy;
+- (a) be in accordance with the relevant[^M_F_02e8eb6f-b2b0-461c-a8ba-312bd7060371] survey results and mitigation and enhancement measures included in chapter 14[^c-297cf72b97886493fa7dc9bd1adf473b] of the environmental statement, the biodiversity strategy and the indicative landscaping strategy;
 - (b) include an implementation timetable and details relating to maintenance and management.
 
 (3) The plan must be implemented as approved.
 
-### 18. Construction environmental management plan[^key-2166f18b7641951e36475747ba08cdb8]
+### 18. Construction environmental management plan[^c-2166f18b7641951e36475747ba08cdb8]
 
 (1) The authorised development must not commence until a written construction environmental management plan has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
@@ -767,15 +767,15 @@ The authorised development must not be brought into commercial use unless the un
 - (d) incorporate a code of construction practice; and
 - (e) incorporate a scheme for handling complaints received from local residents, business and organisations relating to emissions of noise, odour or dust from the authorised development during its construction, which must include appropriate corrective action in relation to substantiated complaints relating to emissions of noise.
 
-(3) In subparagraph (2)(b), a “protected species” means a species protected under the Wildlife and Countryside Act 1981[^f00020] or the Conservation of Habitats and Species Regulations 2017[^key-71dd5159aacc277e2104b971434b6e97].
+(3) In subparagraph (2)(b), a “protected species” means a species protected under the Wildlife and Countryside Act 1981[^f00020] or the Conservation of Habitats and Species Regulations 2017[^c-71dd5159aacc277e2104b971434b6e97].
 
 (4) All construction works associated with the authorised development must be carried out in accordance with the approved CEMP.
 
-### 19. Construction traffic routing and management plan[^key-3ec38c8c92016f02ee7978941b3da9ab]
+### 19. Construction traffic routing and management plan[^c-3ec38c8c92016f02ee7978941b3da9ab]
 
 (1) The authorised development must not commence until a written construction traffic routing and management plan has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
 
-(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the construction staff[^key-99f89c2b2f295af27e768a58981c83e0] travel plan framework contained in Appendix 7B[^key-a4abb5d8f21b9f3c1ba48b3381d0a01e] to the environmental statement.
+(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the construction staff[^c-99f89c2b2f295af27e768a58981c83e0] travel plan framework contained in Appendix 7B[^c-a4abb5d8f21b9f3c1ba48b3381d0a01e] to the environmental statement.
 
 (3) The plan submitted and approved must include—
 
@@ -791,7 +791,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (5) The plan must be implemented as approved.
 
-### 20. Construction hours[^key-b2b1c99b4da4c6eb41400bbf468a2c92]
+### 20. Construction hours[^c-b2b1c99b4da4c6eb41400bbf468a2c92]
 
 (1) Construction work associated with the authorised development may only take place—
 
@@ -828,7 +828,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (7) The restrictions in subparagraph (6) do not apply to vehicle movements which are carried out with the prior approval of the planning authority.
 
-### 21. Piling and penetrative foundation design[^key-aabf8c74c2c77c256bb7604b27b74e4f]
+### 21. Piling and penetrative foundation design[^c-aabf8c74c2c77c256bb7604b27b74e4f]
 
 (1) Each part of the authorised development must not commence until a written piling and penetrative foundation design method statement, informed by a risk assessment, for that part has been submitted to and, after consultation with the Environment Agency and Selby District Council, approved by the planning authority.
 
@@ -836,7 +836,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) All piling and penetrative foundation works must be carried out in accordance with the relevant approved method statement.
 
-### 22. Construction – A1(M)[^key-ca53e9caa5efbddb3d9d3f6fef6fa284]
+### 22. Construction – A1(M)[^c-ca53e9caa5efbddb3d9d3f6fef6fa284]
 
 (1) The authorised development must not commence until a written scheme detailing the construction methods to be employed in the vicinity of the A1(M) has been submitted to and, after consultation with the Highways Agency, approved by the planning authority.
 
@@ -849,7 +849,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) The scheme must be implemented as approved.
 
-### 23. Control of noise during construction[^key-b427d607a4e27688eddcb2b2a7eabc44]
+### 23. Control of noise during construction[^c-b427d607a4e27688eddcb2b2a7eabc44]
 
 (1) The authorised development must not commence until a written programme for the monitoring and control of noise during the construction of the authorised development has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
@@ -863,7 +863,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) All activities on the Order land associated with the construction of the authorised development must be carried out in accordance with British Standards 5228-1:2009 and 5228-2:2009.
 
-### 24. Control of operational noise[^key-d3847c0805dbe0f9f6955a3c4d32c676]
+### 24. Control of operational noise[^c-d3847c0805dbe0f9f6955a3c4d32c676]
 
 (1) The authorised development must not be commissioned until a written programme for the monitoring and control of noise during the operation of the authorised development has been submitted to and, after consultation with the Environment Agency and Selby District Council, approved by the planning authority.
 
@@ -896,7 +896,7 @@ The authorised development must not be brought into commercial use unless the un
   - (i) the reasons for the emergency, and
   - (ii) how long it expects the emergency to last.
 
-### 25. Control of odour emissions[^key-2b9f79a62b065b9b2bd74b7a7b85efc5]
+### 25. Control of odour emissions[^c-2b9f79a62b065b9b2bd74b7a7b85efc5]
 
 (1) The authorised development must not be commissioned until a written scheme for the management and mitigation of odour emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
@@ -906,25 +906,25 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) The approved scheme must be maintained throughout the operation of the authorised development.
 
-### 26. Control of dust emissions[^key-84ff81b76100ce42b3f0429a93a4469a]
+### 26. Control of dust emissions[^c-84ff81b76100ce42b3f0429a93a4469a]
 
 (1) The authorised development must not commence until a written scheme for the management and mitigation of dust emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
 (2) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development.
 
-### 27. Control of smoke emissions[^key-a1a6ad1ff1ca70052894c47fef817ab7]
+### 27. Control of smoke emissions[^c-a1a6ad1ff1ca70052894c47fef817ab7]
 
 (1) The authorised development must not commence until a written scheme for the management and mitigation of smoke emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
 (2) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development.
 
-### 28. Control of steam emissions[^key-9c64a27af1e09367652a6fb1430eb885]
+### 28. Control of steam emissions[^c-9c64a27af1e09367652a6fb1430eb885]
 
 (1) The authorised development must not commence until a written scheme for the management and mitigation of steam emissions has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
 (2) The approved scheme must be maintained during the construction, operation and decommissioning of the authorised development.
 
-### 29. Control of insects and vermin[^key-004898283536550d1cebdc637e637ca3]
+### 29. Control of insects and vermin[^c-004898283536550d1cebdc637e637ca3]
 
 (1) The authorised development must not be commissioned until—
 
@@ -935,7 +935,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) In subparagraph (1), “insects and vermin” excludes insects and vermin that are wild animals included in Schedule 5 to the Wildlife and Countryside Act 1981[^f00022] (animals which are protected), unless they are included in respect of section 9(5) of that Act only.
 
-### 30. Accumulations and deposits[^key-4dbc208e6f3da0cbbac34e2a3f0ed74d]
+### 30. Accumulations and deposits[^c-4dbc208e6f3da0cbbac34e2a3f0ed74d]
 
 (1) The authorised development must not commence until a written scheme for the management of relevant accumulations and deposits has been submitted to and approved by the planning authority.
 
@@ -946,7 +946,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (3) The approved scheme must be implemented before and maintained during the construction, operation and decommissioning of the authorised development
 
-### 31. Restoration of land used temporarily for construction[^key-d7469178c47d922a9447d05ee7ced0f2]
+### 31. Restoration of land used temporarily for construction[^c-d7469178c47d922a9447d05ee7ced0f2]
 
 (1) Within 12 months of bringing the authorised development into commercial use, a written scheme for the restoration of any land within the Order limits which has been used temporarily for construction will be submitted to the planning authority for approval[^M_F_9ec40045-3cd2-4aa1-f124-3fd1c3da3540].
 
@@ -956,7 +956,7 @@ The authorised development must not be brought into commercial use unless the un
 - (b) each landscaping scheme approved in accordance with requirement 7, and
 - (c) the biodiversity enhancement and management plan approved in accordance with requirement 17.
 
-### 32. Operational traffic routing and management plan[^key-0481b4cfc324f2165f0b6798dbf46e21]
+### 32. Operational traffic routing and management plan[^c-0481b4cfc324f2165f0b6798dbf46e21]
 
 (1) The authorised development must not be commissioned until a written operational traffic routing and management plan has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
 
@@ -966,11 +966,11 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) The plan must be implemented as approved.
 
-### 33. Travel plan – operational staff[^key-0655794353d735c858db386292fe30e2]
+### 33. Travel plan – operational staff[^c-0655794353d735c858db386292fe30e2]
 
 (1) The authorised development must not be brought into commercial use until a written travel plan for operational staff has been submitted to and, after consultation with the relevant highway authorities, approved by the planning authority.
 
-(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the operational staff[^key-420a1e23270f81478fff624b08eab955] travel plan framework contained in Appendix 7C to the environmental statement.
+(2) The plan submitted and approved must be in accordance with the principles set out in chapter 7 of the environmental statement and the operational staff[^c-420a1e23270f81478fff624b08eab955] travel plan framework contained in Appendix 7C to the environmental statement.
 
 (3) The plan submitted and approved must include—
 
@@ -981,7 +981,7 @@ The authorised development must not be brought into commercial use unless the un
 
 (4) The approved plan must be implemented within six months after the authorised development is brought into commercial use and must be maintained throughout the operation of the authorised development.
 
-### 34. Operational deliveries[^key-92686838af25ded73447e35ca3e19fd5]
+### 34. Operational deliveries[^c-92686838af25ded73447e35ca3e19fd5]
 
 (1) A heavy goods vehicle transporting fuel, consumables or combustion by-products may only enter or leave the authorised development—
 
@@ -993,7 +993,7 @@ The authorised development must not be brought into commercial use unless the un
 - (a) associated with an emergency, or
 - (b) carried out with the prior approval of the planning authority.
 
-### 35. Sustainable fuel transport management plan[^key-4cad1a6c0495c280c47d2a1022a28ed0]
+### 35. Sustainable fuel transport management plan[^c-4cad1a6c0495c280c47d2a1022a28ed0]
 
 (1) The authorised development must not be brought into commercial use until a written sustainable fuel transport management plan has been submitted to and, after consultation with the relevant highway authorities and Canal & River Trust, approved by the planning authority.
 
@@ -1010,11 +1010,11 @@ The authorised development must not be brought into commercial use unless the un
 
 (5) Every five years during the operation of the authorised development, the undertaker must carry out an appraisal of the viability of upgrading the existing wharf facility in the context of the evaluation of the potential for fuel and ash transportation by water.
 
-### 36. Enclosure of loads[^key-d51792c7f3e9ac8070b1d0cde5ff113c]
+### 36. Enclosure of loads[^c-d51792c7f3e9ac8070b1d0cde5ff113c]
 
 During the operation of the authorised development, each heavy goods vehicle transporting bulk materials, fuel or combustion by-products to or from the authorised development must be enclosed.
 
-### 37. Air quality – emissions reduction[^key-61620f0dd7a8d9c77ab2f7c9248f89f8]
+### 37. Air quality – emissions reduction[^c-61620f0dd7a8d9c77ab2f7c9248f89f8]
 
 (1) During the operation of the authorised development—
 
@@ -1023,7 +1023,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 
 (2) In subparagraph (1)(a), “day” means a period of twenty-four hours beginning at midnight.
 
-### 38. Air quality monitoring[^key-da414cc09b07144f99d7d892718f3a60]
+### 38. Air quality monitoring[^c-da414cc09b07144f99d7d892718f3a60]
 
 (1) The authorised development must not be commissioned until a written scheme of air quality monitoring has been submitted to and, after consultation with Selby District Council, approved by the planning authority.
 
@@ -1048,7 +1048,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 
 (8) For each year from the date on which the authorised development is commissioned, the undertaker must, within three months after the final measurement made in that year, provide the planning authority with a report of measurements made in accordance with the scheme in that year.
 
-### 39. Fire prevention[^key-6a7db0c7cfb313e9f119bb5468c8bb81]
+### 39. Fire prevention[^c-6a7db0c7cfb313e9f119bb5468c8bb81]
 
 (1) The authorised development must not commence until a written fire prevention method statement has been submitted to and, after consultation with West Yorkshire Fire and Rescue Service, approved by the planning authority.
 
@@ -1058,7 +1058,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 - (b) details of fire detection and suppression measures;
 - (c) the location of and accesses to all fire appliances in each major building and each storage area in the authorised development.
 
-### 40. Combined heat and power (“CHP”)[^key-2dfc0f9a44ba1da085efc1ab7f0b8504]
+### 40. Combined heat and power (“CHP”)[^c-2dfc0f9a44ba1da085efc1ab7f0b8504]
 
 (1) The authorised development must not be brought into commercial use until the planning authority has given notice that it is satisfied that the undertaker has allowed for space and routes within the design of the authorised development for the later provision of heat pass-outs for off-site users of process or space heating and its later connection to such systems.
 
@@ -1079,7 +1079,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 
 (8) In subparagraph (1), “the combined heat and power assessment” means the document certified as the combined heat and power assessment by the Secretary of State for the purposes of this Order under article 23.
 
-### 41. Waste hierarchy scheme[^key-26066ca5c7e5988f08b061750456de27]
+### 41. Waste hierarchy scheme[^c-26066ca5c7e5988f08b061750456de27]
 
 (1) The undertaker must operate the authorised development in accordance with the waste hierarchy by means of the measures specified in the environmental permit and any operational environmental management system.
 
@@ -1088,7 +1088,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 - “the waste hierarchy” means the waste hierarchy set out in Article 4 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008[^f00025];
 - “operational environmental management system” means a system of policies and procedures adopted by the undertaker to manage the environmental impact of the authorised development.
 
-### 42. Waste management – construction and operational waste[^key-90183367b7ba9352eaf5834cdaea3f06]
+### 42. Waste management – construction and operational waste[^c-90183367b7ba9352eaf5834cdaea3f06]
 
 (1) The authorised development must not commence until a written construction site waste management plan has been submitted to and approved by the planning authority.
 
@@ -1102,7 +1102,7 @@ During the operation of the authorised development, each heavy goods vehicle tra
 
 (6) The operational waste management plan must be implemented as approved.
 
-### 43. Decommissioning[^key-c1f01853b0433a621dbcd150e2a3f857]
+### 43. Decommissioning[^c-c1f01853b0433a621dbcd150e2a3f857]
 
 (1) Within six months after it decides to decommission the authorised development, the undertaker must submit to the planning authority for its approval a written decommissioning scheme.
 
@@ -1121,25 +1121,25 @@ During the operation of the authorised development, each heavy goods vehicle tra
 
 (5) The undertaker must implement the scheme as approved and is responsible for the costs of the decommissioning works.
 
-(6) In subparagraph (5), “the undertaker” does not include a person to whom part of the benefit of this Order has been transferred or granted under article 8 (transfer of the benefit of this Order)[^key-519b674fe00bcc9204327ee4411ee2bd].
+(6) In subparagraph (5), “the undertaker” does not include a person to whom part of the benefit of this Order has been transferred or granted under article 8 (transfer of the benefit of this Order)[^c-519b674fe00bcc9204327ee4411ee2bd].
 
-### 44. Aviation warning lighting[^key-f1e0087e0a097bada8d5bed239ae6c91]
+### 44. Aviation warning lighting[^c-f1e0087e0a097bada8d5bed239ae6c91]
 
 (1) The authorised development must not commence until written details of the aviation warning lighting to be installed on the emissions stack comprised in Work No. 1A and each crane required for the construction of the authorised development which has a height of 60m or greater have been submitted to and approved by the planning authority.
 
 (2) The aviation warning lighting must be installed and operated in accordance with the approved details.
 
-### 45. Air safety[^key-20f6daebd424754903f85579ba3f466b]
+### 45. Air safety[^c-20f6daebd424754903f85579ba3f466b]
 
 The authorised development must not commence until written details of the information that is required by the Defence Geographic Centre of the Ministry of Defence to chart the site for civil aviation purposes have been submitted to and approved by the planning authority.
 
-### 46. Site security[^key-8d2ae06d4bbcecdbbb9c0bea7a333579]
+### 46. Site security[^c-8d2ae06d4bbcecdbbb9c0bea7a333579]
 
 (1) The authorised development must not be commissioned until a written scheme detailing security measures to minimise the risk of crime within the Order limits has been submitted to and, after consultation with West Yorkshire Police, approved by the planning authority.
 
 (2) The approved scheme must be maintained and operated throughout the operation and decommissioning of the authorised development.
 
-### 47. Local liaison committee[^key-897b21757432303d66a53eb5fd322b82]
+### 47. Local liaison committee[^c-897b21757432303d66a53eb5fd322b82]
 
 (1) The authorised development must not commence until the undertaker has established a committee to liaise with local residents, businesses and organisations in relation to the construction and operation of the authorised development.
 
@@ -1151,13 +1151,13 @@ The authorised development must not commence until written details of the inform
 
 (5) If there already exists a local liaison committee in relation to development on the Order land, that committee may, with the agreement of the planning authority and Selby District Council perform the functions of the committee to be established under subparagraph (1); and in that case the duty to establish a committee under subparagraph (1) does not apply.
 
-### 48. Employment, skills and training plan[^key-e2185843ebca0a13edcab4b703605614]
+### 48. Employment, skills and training plan[^c-e2185843ebca0a13edcab4b703605614]
 
 (1) Work No. 1 must not commence until a written plan detailing arrangements to promote employment, skills and training development opportunities for local residents has been submitted to and approved by the planning authority.
 
 (2) The approved plan must be implemented and maintained during the construction and operation of Work No.1.
 
-### 49. Interpretation[^key-92b2b99d0b96e790c33dbd7e388b01ef]
+### 49. Interpretation[^c-92b2b99d0b96e790c33dbd7e388b01ef]
 
 (1) In this Schedule—
 
@@ -1168,7 +1168,7 @@ The authorised development must not commence until written details of the inform
 - “commercial use” of the authorised development means the export of electricity from the authorised development;
 - “commissioning of the authorised development” means the process of testing all systems and components of the authorised development (including systems and components which are not yet installed but the installation of which is near to completion), in order to verify that they function in accordance with the design objectives, specifications and operational requirements of the undertaker; and “commission” and other cognate expressions, in relation to the authorised development, are to be construed accordingly;
 - “construction site” means the Order land during the construction of the authorised development;
-- “environmental permit” means a permit granted under the 2016 Regulations[^key-fd29d557b9253a3a3a2edb832bf8bcda] authorising the operation of the authorised development;
+- “environmental permit” means a permit granted under the 2016 Regulations[^c-fd29d557b9253a3a3a2edb832bf8bcda] authorising the operation of the authorised development;
 - “indicative landscaping plan” means the document certified as the indicative landscaping plan by the Secretary of State for the purposes of this Order under article 23;
 - “means of enclosure” means fencing, walls or other means of boundary treatment and enclosure;
 - “permitted preliminary works” means site clearance work, survey work, archaeological field work, investigations for the purpose of assessing ground conditions, remedial work in respect of any contamination or other adverse ground conditions, the diversion and laying of services, the erection of any temporary means of enclosure, the preparation of facilities for the use of the contractor, the temporary display of site notices and advertisements and the provision of site security; and
@@ -1178,7 +1178,7 @@ The authorised development must not commence until written details of the inform
 
 (3) A reference in this Schedule to details, a method statement, a plan, a programme, a scheme or any other document approved by the planning authority is a reference to that document including any amendments subsequently approved by the planning authority.
 
-## SCHEDULE 3 — MAXIMUM BUILDING DIMENSIONS[^key-b83c4e72bbcd8b825fbab7d7bcddf78c]
+## SCHEDULE 3 — MAXIMUM BUILDING DIMENSIONS[^c-b83c4e72bbcd8b825fbab7d7bcddf78c]
 
 Article 5
 
@@ -1199,7 +1199,7 @@ Article 5
 | Security gatehouses and weighbridges (Work No. 1B) | 20 | 4 | 20 |
 | Substation (Work No. 2C) | 90 | 55 | 36 |
 
-## SCHEDULE 4 — MINIMUM BUILDING DIMENSIONS[^key-1343b788c9ca1734193e670c25497d7b]
+## SCHEDULE 4 — MINIMUM BUILDING DIMENSIONS[^c-1343b788c9ca1734193e670c25497d7b]
 
 Article 5
 
@@ -1220,7 +1220,7 @@ Article 5
 | Security gatehouses and weighbridges (Work No. 1B) | 10 | 2.5 | 19 |
 | Substation (Work No. 2C) | 80 | 50 | 34 |
 
-## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^key-2400fabf8de43ff9cffe66a2253750b7]
+## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^c-2400fabf8de43ff9cffe66a2253750b7]
 
 Article 9
 
@@ -1229,7 +1229,7 @@ Article 9
 | Wakefield Metropolitan District | Kirkhaw Lane |
 | Wakefield Metropolitan District | The unnamed road |
 
-## SCHEDULE 6 — ACCESS TO WORKS[^key-2d7e8792e392bcc9658c86a880c64832]
+## SCHEDULE 6 — ACCESS TO WORKS[^c-2d7e8792e392bcc9658c86a880c64832]
 
 Article 10
 
@@ -1241,11 +1241,11 @@ Article 10
 
 Article 19
 
-### 1. Application of this Schedule[^key-0f00ba85c0ac8107d8ccbe3d24d99115]
+### 1. Application of this Schedule[^c-0f00ba85c0ac8107d8ccbe3d24d99115]
 
 This Schedule applies to an application made by the undertaker to the planning authority (referred to in this Schedule as “the authority”) for an approval, consent or agreement required by any of the requirements.
 
-### 2. Decision period[^key-47e69ef061955c72b726a7ee0adeb7ea]
+### 2. Decision period[^c-47e69ef061955c72b726a7ee0adeb7ea]
 
 (1) The authority must give written notice to the undertaker of its decision on the application before the end of the decision period.
 
@@ -1257,7 +1257,7 @@ This Schedule applies to an application made by the undertaker to the planning a
 - (b) where the authority gives written notice under paragraph 3(1) or (2) requiring further information, the period of eight weeks from the day immediately following the day on which the undertaker provides the further information; or
 - (c) such longer period as may be agreed in writing by the undertaker and the authority.
 
-### 3. Further information[^key-8bef3865626b0ab504dab58e05a6eac7]
+### 3. Further information[^c-8bef3865626b0ab504dab58e05a6eac7]
 
 (1) If the authority considers that it requires further information to make a decision on the application, it must give written notice to the undertaker specifying the further information required within seven business days from the day on which it receives the application.
 
@@ -1271,7 +1271,7 @@ This Schedule applies to an application made by the undertaker to the planning a
 
 (4) If the authority does not give written notice in accordance with subparagraph (1), (2) or (3), it is not entitled to request any additional information in relation to the application without the prior agreement in writing of the undertaker.
 
-### 4. Fees[^key-65ea04f3c61cfbfc0bd9e77e2e5057dc]
+### 4. Fees[^c-65ea04f3c61cfbfc0bd9e77e2e5057dc]
 
 (1) The undertaker must pay the authority a fee of £97, or such greater fee as for the time being is payable to the authority in respect of an application for the discharge of a condition imposed on a grant of planning permission, in respect of each application.
 
@@ -1287,7 +1287,7 @@ This Schedule applies to an application made by the undertaker to the planning a
 - (a) the day on which the authority rejects the application as being invalidly made;
 - (b) the day after the day on which the decision period expires.
 
-### 5. Appeal to the Secretary of State (procedure)[^key-45529d0856324e3c9166b15bf69e2946]
+### 5. Appeal to the Secretary of State (procedure)[^c-45529d0856324e3c9166b15bf69e2946]
 
 (1) The undertaker may appeal to the Secretary of State against—
 
@@ -1325,7 +1325,7 @@ This Schedule applies to an application made by the undertaker to the planning a
 - (a) may make further representations to the appointed person in response to the representations of another party; and
 - (b) must, at the same time, send a copy of any such further representations to each other party.
 
-### 6. Appeal to the Secretary of State (powers of the appointed person)[^key-66a67bec94a75c58999a0b0128eb1b25]
+### 6. Appeal to the Secretary of State (powers of the appointed person)[^c-66a67bec94a75c58999a0b0128eb1b25]
 
 (1) The appointed person may—
 
@@ -1342,7 +1342,7 @@ This Schedule applies to an application made by the undertaker to the planning a
 
 (3) The appointed person may waive or extend any time limit (including after it has expired) for the provision of representations or information in relation to an appeal.
 
-### 7. Appeal to the Secretary of State (supplementary)[^key-b2e4d869e9a8579f51eb5170c0bab548]
+### 7. Appeal to the Secretary of State (supplementary)[^c-b2e4d869e9a8579f51eb5170c0bab548]
 
 (1) The decision of the appointed person on an appeal may not be challenged except by proceedings for judicial review.
 
@@ -1370,11 +1370,11 @@ A copy of the various documents referred to in the Order, and certified in accor
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103).
 
-[^key-895403eff51b2f3dc4f6b85d564756c5]: Modification: Order modified (20.9.2018) by The Ferrybridge Multifuel 2 [Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1016/article/3/4)
+[^c-895403eff51b2f3dc4f6b85d564756c5]: Modification: Order modified (20.9.2018) by The Ferrybridge Multifuel 2 [Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1016/article/3/4)
 
-[^key-fa1b4fe733db090ad80d8044ccbca9e6]: Commencement: Art. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-fa1b4fe733db090ad80d8044ccbca9e6]: Commencement: Art. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-39df83de1aa5d0d893958090feae15cd]: Commencement: Art. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-39df83de1aa5d0d893958090feae15cd]: Commencement: Art. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -1386,234 +1386,234 @@ A copy of the various documents referred to in the Order, and certified in accor
 
 [^f00008]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-d266c1c662bc689906f029c5486f30f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-d266c1c662bc689906f029c5486f30f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-abeaf15cb211f54b501a68fa9d1d9fce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-abeaf15cb211f54b501a68fa9d1d9fce]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
 [^f00010]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-ffa264ad973fbc372a88a2c5d93b1829]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) inserted (28.4.2025) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2025 (S.I. 2025/523)](https://www.legislation.gov.uk/uksi/2025/523), [arts. 1](https://www.legislation.gov.uk/uksi/2025/523/article/1), [3](https://www.legislation.gov.uk/uksi/2025/523/article/3)
+[^c-ffa264ad973fbc372a88a2c5d93b1829]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1832/article/2/1) inserted (28.4.2025) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2025 (S.I. 2025/523)](https://www.legislation.gov.uk/uksi/2025/523), [arts. 1](https://www.legislation.gov.uk/uksi/2025/523/article/1), [3](https://www.legislation.gov.uk/uksi/2025/523/article/3)
 
-[^key-9feefaea5fb50a2fe4e23a39354c06ff]: Commencement: Art. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-9feefaea5fb50a2fe4e23a39354c06ff]: Commencement: Art. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00011]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-97ea91051388ddf2cf6acdaeb0f0852b]: Commencement: Art. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-97ea91051388ddf2cf6acdaeb0f0852b]: Commencement: Art. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-66e4cb688082139348135377a33dae54]: Commencement: Art. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-66e4cb688082139348135377a33dae54]: Commencement: Art. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-3441b3d19dbdce455cd12fcd86f53810]: Textual amendment: Word in [art. 5(4)(c)](https://www.legislation.gov.uk/uksi/2015/1832/article/5/4/c) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-3441b3d19dbdce455cd12fcd86f53810]: Textual amendment: Word in [art. 5(4)(c)](https://www.legislation.gov.uk/uksi/2015/1832/article/5/4/c) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-7536166c4be48914432fe20a6c12bc97]: Commencement: Art. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-7536166c4be48914432fe20a6c12bc97]: Commencement: Art. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-04a46a59f8dcb0dc9af95788ed0e9fdd]: Commencement: Art. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-04a46a59f8dcb0dc9af95788ed0e9fdd]: Commencement: Art. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-1494895149d925f39ac96e1e09974db8]: Commencement: Art. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-1494895149d925f39ac96e1e09974db8]: Commencement: Art. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-c4f189bbde616338712b6a5ebabaf564]: Commencement: Art. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-c4f189bbde616338712b6a5ebabaf564]: Commencement: Art. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-734772a3cbcf82e1ccae14128024583b]: Commencement: Art. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-734772a3cbcf82e1ccae14128024583b]: Commencement: Art. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-5b60032e289eceea1cd5cb2a1b150766]: Commencement: Art. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-5b60032e289eceea1cd5cb2a1b150766]: Commencement: Art. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2b98ba3aee8a33000eac96d07fdd4597]: Commencement: Art. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2b98ba3aee8a33000eac96d07fdd4597]: Commencement: Art. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00012]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-70bbd85af21a01cbc4189cf7522770f5]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/7)[(8)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/8) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-70bbd85af21a01cbc4189cf7522770f5]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/7)[(8)](https://www.legislation.gov.uk/uksi/2015/1832/article/12/8) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00013]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^f00014]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-0bc1cdafcb1fd1286024ab81085ea828]: Commencement: Art. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-0bc1cdafcb1fd1286024ab81085ea828]: Commencement: Art. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-370bbccd630a036cae36220fd7e1007e]: Commencement: Art. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-370bbccd630a036cae36220fd7e1007e]: Commencement: Art. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-1cf641c8469c9b85db48a5245c3a1b68]: Commencement: Art. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-1cf641c8469c9b85db48a5245c3a1b68]: Commencement: Art. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-e7559644cbfe477e082234f78da67690]: Commencement: Art. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-e7559644cbfe477e082234f78da67690]: Commencement: Art. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-bd7dda4ab9f6c6166349aaeaad42778b]: Commencement: Art. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-bd7dda4ab9f6c6166349aaeaad42778b]: Commencement: Art. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00015]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-bbde4d81cca54a89bf472beae904a29c]: Commencement: Art. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-bbde4d81cca54a89bf472beae904a29c]: Commencement: Art. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00016]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^f00017]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-159817c045556214218ae0e6f8cb3855]: Commencement: Art. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-159817c045556214218ae0e6f8cb3855]: Commencement: Art. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-03317529b6567eb020e7c02e51c47527]: Commencement: Art. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-03317529b6567eb020e7c02e51c47527]: Commencement: Art. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00018]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).
 
-[^key-864686db4b2a4f9c1c76d743d82d9cba]: Commencement: Art. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-864686db4b2a4f9c1c76d743d82d9cba]: Commencement: Art. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-abb74814339d29ec3aac03aa334b7100]: Commencement: Art. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-abb74814339d29ec3aac03aa334b7100]: Commencement: Art. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00019]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-b53815c40223c39a416c9305e1c8eaa1]: Commencement: Art. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b53815c40223c39a416c9305e1c8eaa1]: Commencement: Art. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-3f2405756f259cd594591c75f3bbe248]: Commencement: Art. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-3f2405756f259cd594591c75f3bbe248]: Commencement: Art. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-acf34ab6f8a572510c787dd4fe17d5e0]: Commencement: Sch. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-acf34ab6f8a572510c787dd4fe17d5e0]: Commencement: Sch. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-0a1ffbce8ceafa41ce957b5b8b40931c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1832/schedule/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/54/2)
+[^c-0a1ffbce8ceafa41ce957b5b8b40931c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1832/schedule/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/54/2)
 
-[^key-ca8d0501eab5f54fe0f079b32d5dfd90]: Commencement: Sch. 2 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-ca8d0501eab5f54fe0f079b32d5dfd90]: Commencement: Sch. 2 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-f15d119f3352ba41f5bc2c1eb51ad4c2]: Commencement: Sch. 2 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-f15d119f3352ba41f5bc2c1eb51ad4c2]: Commencement: Sch. 2 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-53a33c73f30512ed0b5384a9dcae5a05]: Commencement: Sch. 2 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-53a33c73f30512ed0b5384a9dcae5a05]: Commencement: Sch. 2 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-de0fa102d016fadd15b5e26728459d41]: Commencement: Sch. 2 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-de0fa102d016fadd15b5e26728459d41]: Commencement: Sch. 2 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-c09cd04727ad76aafef40fcf3022384b]: Commencement: Sch. 2 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-c09cd04727ad76aafef40fcf3022384b]: Commencement: Sch. 2 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-b89d72f32f94c5365ccd9a946be65009]: Commencement: Sch. 2 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b89d72f32f94c5365ccd9a946be65009]: Commencement: Sch. 2 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-94cfed9f41e6b454ec2689f1dbf2eb1d]: Commencement: Sch. 2 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-94cfed9f41e6b454ec2689f1dbf2eb1d]: Commencement: Sch. 2 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-73298e5c925d5652590260c35ed8d602]: Textual amendment: Words in [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/7/1) substituted (20.9.2018) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
+[^c-73298e5c925d5652590260c35ed8d602]: Textual amendment: Words in [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/7/1) substituted (20.9.2018) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
 
-[^key-a4d7a21e785d32831111ee7aa316a51a]: Commencement: Sch. 2 para. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-a4d7a21e785d32831111ee7aa316a51a]: Commencement: Sch. 2 para. 8 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-b54768671b946e81002c48f3f9215949]: Commencement: Sch. 2 para. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b54768671b946e81002c48f3f9215949]: Commencement: Sch. 2 para. 9 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-461c9bcfb99cd39ab517c8a8a0bef519]: Commencement: Sch. 2 para. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-461c9bcfb99cd39ab517c8a8a0bef519]: Commencement: Sch. 2 para. 10 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-031de4a62e168fd434a8271b5914417f]: Commencement: Sch. 2 para. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-031de4a62e168fd434a8271b5914417f]: Commencement: Sch. 2 para. 11 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-9c3180686bc75ef308f5c5f910e0e2e2]: Commencement: Sch. 2 para. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-9c3180686bc75ef308f5c5f910e0e2e2]: Commencement: Sch. 2 para. 12 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-004151d1ab3e25ffff3b978fd1456dd3]: Commencement: Sch. 2 para. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-004151d1ab3e25ffff3b978fd1456dd3]: Commencement: Sch. 2 para. 13 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-f8957c5aa6f9fa74229c9e98e7066b11]: Commencement: Sch. 2 para. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-f8957c5aa6f9fa74229c9e98e7066b11]: Commencement: Sch. 2 para. 14 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2c270cc52feb9c9e2a9c1136c6f3e263]: Commencement: Sch. 2 para. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2c270cc52feb9c9e2a9c1136c6f3e263]: Commencement: Sch. 2 para. 15 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-334e841a134aa9ccb16b377a9f3360a7]: Commencement: Sch. 2 para. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-334e841a134aa9ccb16b377a9f3360a7]: Commencement: Sch. 2 para. 16 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-29aaf95580563c95a6eaf048300c2a5a]: Commencement: Sch. 2 para. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-29aaf95580563c95a6eaf048300c2a5a]: Commencement: Sch. 2 para. 17 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^M_F_62bc545b-41f9-45a9-edf4-48f32bc023e0]: Textual amendment: Words in [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/1) substituted (20.9.2018) by [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
 
 [^M_F_02e8eb6f-b2b0-461c-a8ba-312bd7060371]: Textual amendment: Word in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/2/a) inserted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
 
-[^key-297cf72b97886493fa7dc9bd1adf473b]: Textual amendment: Word in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/2/a) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-297cf72b97886493fa7dc9bd1adf473b]: Textual amendment: Word in [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/17/2/a) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-2166f18b7641951e36475747ba08cdb8]: Commencement: Sch. 2 para. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2166f18b7641951e36475747ba08cdb8]: Commencement: Sch. 2 para. 18 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00020]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-71dd5159aacc277e2104b971434b6e97]: Textual amendment: Words in [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/18/3) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 62](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/62)
+[^c-71dd5159aacc277e2104b971434b6e97]: Textual amendment: Words in [Sch. 2 para. 18(3)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/18/3) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 62](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/62)
 
-[^key-3ec38c8c92016f02ee7978941b3da9ab]: Commencement: Sch. 2 para. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-3ec38c8c92016f02ee7978941b3da9ab]: Commencement: Sch. 2 para. 19 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-99f89c2b2f295af27e768a58981c83e0]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-99f89c2b2f295af27e768a58981c83e0]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-a4abb5d8f21b9f3c1ba48b3381d0a01e]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-a4abb5d8f21b9f3c1ba48b3381d0a01e]: Textual amendment: Word in [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/19/2) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-b2b1c99b4da4c6eb41400bbf468a2c92]: Commencement: Sch. 2 para. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b2b1c99b4da4c6eb41400bbf468a2c92]: Commencement: Sch. 2 para. 20 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-aabf8c74c2c77c256bb7604b27b74e4f]: Commencement: Sch. 2 para. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-aabf8c74c2c77c256bb7604b27b74e4f]: Commencement: Sch. 2 para. 21 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-ca53e9caa5efbddb3d9d3f6fef6fa284]: Commencement: Sch. 2 para. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-ca53e9caa5efbddb3d9d3f6fef6fa284]: Commencement: Sch. 2 para. 22 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-b427d607a4e27688eddcb2b2a7eabc44]: Commencement: Sch. 2 para. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b427d607a4e27688eddcb2b2a7eabc44]: Commencement: Sch. 2 para. 23 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-d3847c0805dbe0f9f6955a3c4d32c676]: Commencement: Sch. 2 para. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-d3847c0805dbe0f9f6955a3c4d32c676]: Commencement: Sch. 2 para. 24 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2b9f79a62b065b9b2bd74b7a7b85efc5]: Commencement: Sch. 2 para. 25 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2b9f79a62b065b9b2bd74b7a7b85efc5]: Commencement: Sch. 2 para. 25 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-84ff81b76100ce42b3f0429a93a4469a]: Commencement: Sch. 2 para. 26 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-84ff81b76100ce42b3f0429a93a4469a]: Commencement: Sch. 2 para. 26 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-a1a6ad1ff1ca70052894c47fef817ab7]: Commencement: Sch. 2 para. 27 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-a1a6ad1ff1ca70052894c47fef817ab7]: Commencement: Sch. 2 para. 27 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-9c64a27af1e09367652a6fb1430eb885]: Commencement: Sch. 2 para. 28 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-9c64a27af1e09367652a6fb1430eb885]: Commencement: Sch. 2 para. 28 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-004898283536550d1cebdc637e637ca3]: Commencement: Sch. 2 para. 29 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-004898283536550d1cebdc637e637ca3]: Commencement: Sch. 2 para. 29 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00022]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-4dbc208e6f3da0cbbac34e2a3f0ed74d]: Commencement: Sch. 2 para. 30 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-4dbc208e6f3da0cbbac34e2a3f0ed74d]: Commencement: Sch. 2 para. 30 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-d7469178c47d922a9447d05ee7ced0f2]: Commencement: Sch. 2 para. 31 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-d7469178c47d922a9447d05ee7ced0f2]: Commencement: Sch. 2 para. 31 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^M_F_9ec40045-3cd2-4aa1-f124-3fd1c3da3540]: Textual amendment: Words in [Sch. 2 para. 31(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/31/1) substituted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
 
 [^M_F_0f348ed7-476d-4e05-8bed-46ecdf9220b0]: Textual amendment: Words in [Sch. 2 para. 31(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/31/2) substituted (20.9.2018) by virtue of [The Ferrybridge Multifuel 2 Power Station (Amendment) Order 2018 (S.I. 2018/1016)](https://www.legislation.gov.uk/uksi/2018/1016), [art. 1](https://www.legislation.gov.uk/uksi/2018/1016/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1016/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2018/1016/schedule)
 
-[^key-0481b4cfc324f2165f0b6798dbf46e21]: Commencement: Sch. 2 para. 32 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-0481b4cfc324f2165f0b6798dbf46e21]: Commencement: Sch. 2 para. 32 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-0655794353d735c858db386292fe30e2]: Commencement: Sch. 2 para. 33 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-0655794353d735c858db386292fe30e2]: Commencement: Sch. 2 para. 33 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-420a1e23270f81478fff624b08eab955]: Textual amendment: Word in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/33/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-420a1e23270f81478fff624b08eab955]: Textual amendment: Word in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/33/2) inserted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-92686838af25ded73447e35ca3e19fd5]: Commencement: Sch. 2 para. 34 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-92686838af25ded73447e35ca3e19fd5]: Commencement: Sch. 2 para. 34 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-4cad1a6c0495c280c47d2a1022a28ed0]: Commencement: Sch. 2 para. 35 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-4cad1a6c0495c280c47d2a1022a28ed0]: Commencement: Sch. 2 para. 35 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-d51792c7f3e9ac8070b1d0cde5ff113c]: Commencement: Sch. 2 para. 36 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-d51792c7f3e9ac8070b1d0cde5ff113c]: Commencement: Sch. 2 para. 36 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-61620f0dd7a8d9c77ab2f7c9248f89f8]: Commencement: Sch. 2 para. 37 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-61620f0dd7a8d9c77ab2f7c9248f89f8]: Commencement: Sch. 2 para. 37 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00023]: Footnote: OJ No L 334, 17.12.10, p17.
 
 [^f00024]: Footnote: OJ No L 188, 18.7.09, p1.
 
-[^key-da414cc09b07144f99d7d892718f3a60]: Commencement: Sch. 2 para. 38 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-da414cc09b07144f99d7d892718f3a60]: Commencement: Sch. 2 para. 38 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-6a7db0c7cfb313e9f119bb5468c8bb81]: Commencement: Sch. 2 para. 39 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-6a7db0c7cfb313e9f119bb5468c8bb81]: Commencement: Sch. 2 para. 39 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2dfc0f9a44ba1da085efc1ab7f0b8504]: Commencement: Sch. 2 para. 40 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2dfc0f9a44ba1da085efc1ab7f0b8504]: Commencement: Sch. 2 para. 40 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-26066ca5c7e5988f08b061750456de27]: Commencement: Sch. 2 para. 41 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-26066ca5c7e5988f08b061750456de27]: Commencement: Sch. 2 para. 41 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
 [^f00025]: Footnote: OJ No L 312, 22.11.08, p3.
 
-[^key-90183367b7ba9352eaf5834cdaea3f06]: Commencement: Sch. 2 para. 42 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-90183367b7ba9352eaf5834cdaea3f06]: Commencement: Sch. 2 para. 42 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-c1f01853b0433a621dbcd150e2a3f857]: Commencement: Sch. 2 para. 43 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-c1f01853b0433a621dbcd150e2a3f857]: Commencement: Sch. 2 para. 43 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-519b674fe00bcc9204327ee4411ee2bd]: Textual amendment: Words in [Sch. 2 para. 43(6)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/43/6) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
+[^c-519b674fe00bcc9204327ee4411ee2bd]: Textual amendment: Words in [Sch. 2 para. 43(6)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/43/6) substituted (13.7.2016) by [The Ferrybridge Multifuel 2 Power Station (Correction) Order 2016 (S.I. 2016/737)](https://www.legislation.gov.uk/uksi/2016/737), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/737/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/737/schedule)
 
-[^key-f1e0087e0a097bada8d5bed239ae6c91]: Commencement: Sch. 2 para. 44 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-f1e0087e0a097bada8d5bed239ae6c91]: Commencement: Sch. 2 para. 44 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-20f6daebd424754903f85579ba3f466b]: Commencement: Sch. 2 para. 45 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-20f6daebd424754903f85579ba3f466b]: Commencement: Sch. 2 para. 45 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-8d2ae06d4bbcecdbbb9c0bea7a333579]: Commencement: Sch. 2 para. 46 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-8d2ae06d4bbcecdbbb9c0bea7a333579]: Commencement: Sch. 2 para. 46 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-897b21757432303d66a53eb5fd322b82]: Commencement: Sch. 2 para. 47 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-897b21757432303d66a53eb5fd322b82]: Commencement: Sch. 2 para. 47 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-e2185843ebca0a13edcab4b703605614]: Commencement: Sch. 2 para. 48 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-e2185843ebca0a13edcab4b703605614]: Commencement: Sch. 2 para. 48 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-92b2b99d0b96e790c33dbd7e388b01ef]: Commencement: Sch. 2 para. 49 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-92b2b99d0b96e790c33dbd7e388b01ef]: Commencement: Sch. 2 para. 49 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-fd29d557b9253a3a3a2edb832bf8bcda]: Textual amendment: Words in [Sch. 2 para. 49(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/49/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-fd29d557b9253a3a3a2edb832bf8bcda]: Textual amendment: Words in [Sch. 2 para. 49(1)](https://www.legislation.gov.uk/uksi/2015/1832/schedule/2/paragraph/49/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 99(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/99/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-b83c4e72bbcd8b825fbab7d7bcddf78c]: Commencement: Sch. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b83c4e72bbcd8b825fbab7d7bcddf78c]: Commencement: Sch. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-1343b788c9ca1734193e670c25497d7b]: Commencement: Sch. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-1343b788c9ca1734193e670c25497d7b]: Commencement: Sch. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2400fabf8de43ff9cffe66a2253750b7]: Commencement: Sch. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2400fabf8de43ff9cffe66a2253750b7]: Commencement: Sch. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-2d7e8792e392bcc9658c86a880c64832]: Commencement: Sch. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-2d7e8792e392bcc9658c86a880c64832]: Commencement: Sch. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-0f00ba85c0ac8107d8ccbe3d24d99115]: Commencement: Sch. 7 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-0f00ba85c0ac8107d8ccbe3d24d99115]: Commencement: Sch. 7 para. 1 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-47e69ef061955c72b726a7ee0adeb7ea]: Commencement: Sch. 7 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-47e69ef061955c72b726a7ee0adeb7ea]: Commencement: Sch. 7 para. 2 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-8bef3865626b0ab504dab58e05a6eac7]: Commencement: Sch. 7 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-8bef3865626b0ab504dab58e05a6eac7]: Commencement: Sch. 7 para. 3 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-65ea04f3c61cfbfc0bd9e77e2e5057dc]: Commencement: Sch. 7 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-65ea04f3c61cfbfc0bd9e77e2e5057dc]: Commencement: Sch. 7 para. 4 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-45529d0856324e3c9166b15bf69e2946]: Commencement: Sch. 7 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-45529d0856324e3c9166b15bf69e2946]: Commencement: Sch. 7 para. 5 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-66a67bec94a75c58999a0b0128eb1b25]: Commencement: Sch. 7 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-66a67bec94a75c58999a0b0128eb1b25]: Commencement: Sch. 7 para. 6 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
 
-[^key-b2e4d869e9a8579f51eb5170c0bab548]: Commencement: Sch. 7 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)
+[^c-b2e4d869e9a8579f51eb5170c0bab548]: Commencement: Sch. 7 para. 7 in force at 19.11.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1832/article/1/2)

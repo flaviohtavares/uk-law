@@ -62,10 +62,10 @@ Having carried out the consultation required by Article 9 of Regulation [(EC) No
 
 (1) The Welsh Ministers are the competent authority for the purposes of—
 
-- (a) Title II of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products [^c20849911] , as last amended by Regulation ([^key-d5c345a104cdfbf73358795dca9afdd5]EU) No 653/2014 of the European Parliament and of the Council;
+- (a) Title II of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products [^c20849911] , as last amended by Regulation ([^c-d5c345a104cdfbf73358795dca9afdd5]EU) No 653/2014 of the European Parliament and of the Council;
 - (b) Commission Regulation [(EC) No 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825) laying down detailed rules for the application of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) [^c20849921];
-- (c)[^key-38b07d802afcf28b2eae0bd7529d671f] Article 78 of, and Part 1 of Annex 7 to, Regulation ([^key-217523bf015bb3f4e76d5e19a3d7f316]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time;
-- (d) Commission Regulation [(EC) No 566/2008](https://www.legislation.gov.uk/european/regulation/2008/0566) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing of the meat of bovine animals aged 12 months or less [^c20849941] , as last amended by Commission Implementing Regulation ([^key-772cc8edc2fff9d854124afe4d340f0a]EU) 565/2013.
+- (c)[^c-38b07d802afcf28b2eae0bd7529d671f] Article 78 of, and Part 1 of Annex 7 to, Regulation ([^c-217523bf015bb3f4e76d5e19a3d7f316]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time;
+- (d) Commission Regulation [(EC) No 566/2008](https://www.legislation.gov.uk/european/regulation/2008/0566) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing of the meat of bovine animals aged 12 months or less [^c20849941] , as last amended by Commission Implementing Regulation ([^c-772cc8edc2fff9d854124afe4d340f0a]EU) 565/2013.
 
 ## 3. The enforcement authorities
 
@@ -73,9 +73,9 @@ Having carried out the consultation required by Article 9 of Regulation [(EC) No
 
 (2) Otherwise these Regulations are enforced by the local authority, port health authority and Welsh Ministers.
 
-## 4. Offences under assimilated direct legislation[^key-c4fbc13de77fff65fdcc2350573f7b73][^key-174d6832c162648bef34104cdd32c7ad]
+## 4. Offences under assimilated direct legislation[^c-c4fbc13de77fff65fdcc2350573f7b73][^c-174d6832c162648bef34104cdd32c7ad]
 
-(1) Any person who fails to comply with any of the following provisions in assimilated direct[^key-d77906b58b37a62d3e26a61d254a2d8a] legislation is guilty of an offence—
+(1) Any person who fails to comply with any of the following provisions in assimilated direct[^c-d77906b58b37a62d3e26a61d254a2d8a] legislation is guilty of an offence—
 
 - (a) the following provisions of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and the Council—
   - (i) Article 11 (requirement to label);
@@ -83,20 +83,20 @@ Having carried out the consultation required by Article 9 of Regulation [(EC) No
   - (iii) Article 13(2) (indications on the label);
   - (iv) Article 13(5) (additional information on the label);
   - (v) Article 14 (labelling of minced beef);
-  - (vi) Article 15 (beef from third countries) , as read with Article 15za (transitional provisions)[^key-e5a2361d399815978e876d5ace2e62e1];
-  - (vii)[^key-55a58ec6ff53e39331591c587a844a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (viii)[^key-55a58ec6ff53e39331591c587a844a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi) Article 15 (beef from third countries) , as read with Article 15za (transitional provisions)[^c-e5a2361d399815978e876d5ace2e62e1];
+  - (vii)[^c-55a58ec6ff53e39331591c587a844a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^c-55a58ec6ff53e39331591c587a844a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the following provisions of Commission Regulation [(EC) No 1825/2000](https://www.legislation.gov.uk/european/regulation/2000/1825)—
   - (i) Article 1 (traceability);
-  - (ii) Article 2 (labelling) (but see paragraph (4))[^key-24b0b61ad5a50d00981eb62fea99c962];
+  - (ii) Article 2 (labelling) (but see paragraph (4))[^c-24b0b61ad5a50d00981eb62fea99c962];
   - (iii) Article 4 (size and composition of a group);
   - (iv) Article 5(2) (minced beef);
   - (v) Article 5a (trimmings);
   - (vi) Article 5b (pre-packaged cut meat);
   - (vii) Article 5c (non-pre-packaged cut meat);
-  - (viii)[^key-ab17a15214e5851ad2d39d1a4b21bc46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii)[^c-ab17a15214e5851ad2d39d1a4b21bc46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ix) Article 7 (access to premises and records);
-- (c)[^key-d462e71666e070e6d6d9db8afc15d96f] The following provisions of Regulation ([^key-d84f224e6c9eb41081e8b1a3f0feec23]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time—
+- (c)[^c-d462e71666e070e6d6d9db8afc15d96f] The following provisions of Regulation ([^c-d84f224e6c9eb41081e8b1a3f0feec23]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time—
   - (i) i)Article 78 and paragraph II of Part I of Annex VII (classification at the slaughterhouse);
   - (ii) Article 78 and paragraph III of Part I of Annex VII (sales descriptions);
   - (iii) Article 78 and paragraph IV of Part I of Annex VII (compulsory indication on the label);
@@ -106,11 +106,11 @@ Having carried out the consultation required by Article 9 of Regulation [(EC) No
   - (ii) Article 4(2) (indication of age);
   - (iii) Article 5 (recording information).
 
-(2) For the purposes of point 4(2) of Part 1 of Annex 7 to Regulation ([^key-176bd7efcc656dce72f9f91395bfc750][^key-b639f070333a4abf6674e11e6bc323fc]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time, the required information must be displayed near the meat so as to allow the final consumer to readily identify the information which must be clearly legible.
+(2) For the purposes of point 4(2) of Part 1 of Annex 7 to Regulation ([^c-176bd7efcc656dce72f9f91395bfc750][^c-b639f070333a4abf6674e11e6bc323fc]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time, the required information must be displayed near the meat so as to allow the final consumer to readily identify the information which must be clearly legible.
 
 (3) Records (including electronic records) must be retained for a period of 12 months from the end of the calendar year in which the record was made.
 
-(4)[^key-ea7d0379097c2306add49865ce54ab3b] Paragraphs (1)(a)(vi) and (1)(b)(ii) do not apply if the matter constituting the alleged contravention—
+(4)[^c-ea7d0379097c2306add49865ce54ab3b] Paragraphs (1)(a)(vi) and (1)(b)(ii) do not apply if the matter constituting the alleged contravention—
 
 - (a) relates to a product that was placed on the market before 1 January 2024, and
 - (b) would not have constituted a contravention—
@@ -145,7 +145,7 @@ and any person who fails to comply with that notice is guilty of an offence.
 - (a) there is or has been on the premises any contravention of these Regulations; or
 - (b) there is on the premises any evidence of any contravention of these Regulations.
 
-(2) The officer may be accompanied by such other persons as the officer considers necessary [^key-527be420517c0e7354236ca720d9d700]....
+(2) The officer may be accompanied by such other persons as the officer considers necessary [^c-527be420517c0e7354236ca720d9d700]....
 
 (3) If a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry into any premises for any purpose in paragraph (1) and that—
 
@@ -226,44 +226,44 @@ A regulatory impact assessment has not been produced as no effect on the private
 
 [^c20849911]: Marginal citation: OJ No L 204, 11.8.2000, p 1 as last amended by Council Regulation (EC) No 1791/2006 (OJ No L 363, 20.12.2006, p.1).
 
-[^key-d5c345a104cdfbf73358795dca9afdd5]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/a) inserted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/a)
+[^c-d5c345a104cdfbf73358795dca9afdd5]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/a) inserted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/a)
 
 [^c20849921]: Marginal citation: OJ No L 216, 26.8.2000, p 8 as last amended by Commission Regulation (EC) 275/2007 (OJ No L76, 16.3.2007, p.12)
 
-[^key-38b07d802afcf28b2eae0bd7529d671f]: Textual amendment: Reg. 2(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(2)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/2)
+[^c-38b07d802afcf28b2eae0bd7529d671f]: Textual amendment: Reg. 2(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(2)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/2)
 
-[^key-217523bf015bb3f4e76d5e19a3d7f316]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/c) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/b)
+[^c-217523bf015bb3f4e76d5e19a3d7f316]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/c) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/b)
 
 [^c20849941]: Marginal citation: OJ No L 160, 19.6.2008, p.22.
 
-[^key-772cc8edc2fff9d854124afe4d340f0a]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/d) inserted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/c)
+[^c-772cc8edc2fff9d854124afe4d340f0a]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/wsi/2011/991/regulation/2/1/d) inserted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/3/c)
 
-[^key-c4fbc13de77fff65fdcc2350573f7b73]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/991/regulation/4) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4fbc13de77fff65fdcc2350573f7b73]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/991/regulation/4) heading substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-174d6832c162648bef34104cdd32c7ad]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2011/991/regulation/4) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/11/a)
+[^c-174d6832c162648bef34104cdd32c7ad]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/wsi/2011/991/regulation/4) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/11/a)
 
-[^key-d77906b58b37a62d3e26a61d254a2d8a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/11/b)
+[^c-d77906b58b37a62d3e26a61d254a2d8a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/11/b)
 
-[^key-e5a2361d399815978e876d5ace2e62e1]: Textual amendment: Words in [reg. 4(1)(a)(vi)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/a/vi) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5a2361d399815978e876d5ace2e62e1]: Textual amendment: Words in [reg. 4(1)(a)(vi)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/a/vi) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55a58ec6ff53e39331591c587a844a89]: Textual amendment: Reg. 4(1)(a)(vii)(viii) omitted (7.12.2018) by virtue of [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/a/i)
+[^c-55a58ec6ff53e39331591c587a844a89]: Textual amendment: Reg. 4(1)(a)(vii)(viii) omitted (7.12.2018) by virtue of [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/a/i)
 
-[^key-24b0b61ad5a50d00981eb62fea99c962]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/b/ii) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24b0b61ad5a50d00981eb62fea99c962]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/b/ii) inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab17a15214e5851ad2d39d1a4b21bc46]: Textual amendment: [Reg. 4(1)(b)(viii)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/b/viii) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(iv)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab17a15214e5851ad2d39d1a4b21bc46]: Textual amendment: [Reg. 4(1)(b)(viii)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/1/b/viii) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(2)(a)(iv)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d462e71666e070e6d6d9db8afc15d96f]: Textual amendment: Reg. 4(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(3)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/3)
+[^c-d462e71666e070e6d6d9db8afc15d96f]: Textual amendment: Reg. 4(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(3)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/3)
 
-[^key-d84f224e6c9eb41081e8b1a3f0feec23]: Textual amendment: Words in reg. 4(1)(c) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/a/ii)
+[^c-d84f224e6c9eb41081e8b1a3f0feec23]: Textual amendment: Words in reg. 4(1)(c) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/a/ii)
 
-[^key-176bd7efcc656dce72f9f91395bfc750]: Textual amendment: Words in reg. 4(2) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/b)
+[^c-176bd7efcc656dce72f9f91395bfc750]: Textual amendment: Words in reg. 4(2) substituted (7.12.2018) by [The Beef and Veal Labelling (Wales) (Amendment) Regulations 2018 (S.I. 2018/1188)](https://www.legislation.gov.uk/wsi/2018/1188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2018/1188/regulation/4/b)
 
-[^key-b639f070333a4abf6674e11e6bc323fc]: Textual amendment: Words in reg. 4(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/4)
+[^c-b639f070333a4abf6674e11e6bc323fc]: Textual amendment: Words in reg. 4(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [3(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/3/4)
 
-[^key-ea7d0379097c2306add49865ce54ab3b]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/4) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/5/2)
+[^c-ea7d0379097c2306add49865ce54ab3b]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2011/991/regulation/4/4) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/5/2)
 
 [^c20849951]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); [sections 51](https://www.legislation.gov.uk/wsi/2011/991/section/51) and 52 have been substituted by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 47](https://www.legislation.gov.uk/ukpga/2003/39/section/47).
 
-[^key-527be420517c0e7354236ca720d9d700]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/991/regulation/6/2) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-527be420517c0e7354236ca720d9d700]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/991/regulation/6/2) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/732)](https://www.legislation.gov.uk/wsi/2019/732), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/732/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/732/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20849961]: Marginal citation: [S.I. 2001/1360](https://www.legislation.gov.uk/uksi/2001/1360) (W.88).

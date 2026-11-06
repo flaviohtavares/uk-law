@@ -43,7 +43,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-54a6e4e66df8f252afcd734644d9bda6]
+### 1. Citation, commencement and interpretation[^c-54a6e4e66df8f252afcd734644d9bda6]
 
 (1) These Regulations may be cited as the Social Security (Incapacity for Work) (Miscellaneous Amendments) Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
 
@@ -53,7 +53,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part II — Incapacity for Work Amendments
 
-### 2. Amendment of the General Regulations[^key-9022592fdfcd241996e0d81a88817ca3]
+### 2. Amendment of the General Regulations[^c-9022592fdfcd241996e0d81a88817ca3]
 
 (1) The General Regulations shall be amended in accordance with paragraphs (2) to (14).
 
@@ -95,7 +95,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (6) In regulation 13A[^f00009] (welfare to work beneficiary)—
 
-- (a)[^key-a312ed746d867b892e8c4bbedcbd0721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a312ed746d867b892e8c4bbedcbd0721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (2)(*c*)(i) for “satisfied the all work test in accordance with Part III” there shall be substituted “determined to be incapable of work in accordance with the personal capability assessment under Part III”.
 
 (7) In regulation 14(*a*)(ii) (pregnancy) for “where the all work test applies” there shall be substituted “where the question of whether a person is capable or incapable of work falls to be determined in accordance with the personal capability assessment”.
@@ -129,7 +129,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(13)[^key-774afc8188e0354f9d6fb120acdde994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-774afc8188e0354f9d6fb120acdde994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) For regulation 28(1) (conditions for treating the all work test as satisfied until assessment) there shall be substituted—
 
@@ -141,7 +141,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part III — Consequential Amendments
 
-### 3. Amendment of the Social Security (Medical Evidence) Regulations[^key-42be1796f7e1f905bd18e9d3f748257d]
+### 3. Amendment of the Social Security (Medical Evidence) Regulations[^c-42be1796f7e1f905bd18e9d3f748257d]
 
 (1) The Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00013] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -156,8 +156,8 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) In regulation 2 (evidence of incapacity for work and confinement)—
 
-- (a)[^key-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-77f24b755a5a2eb106de569af251c2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (2)[^f00016] for “all work test” there shall be substituted “personal capability assessment”.
 
 (4) In Schedule 1B[^f00017]—
@@ -167,11 +167,11 @@ The Department for Social Development, in exercise of the powers conferred by se
   - (i) for “all work test” in both places where it occurs there shall be substituted “personal capability assessment”; and
   - (ii) for “the all work assessment” there shall be substituted “the assessment”.
 
-### 4. Amendment of the Income Support (General) Regulations[^key-85795fcc920f18f9c352765e5201d37f]
+### 4. Amendment of the Income Support (General) Regulations[^c-85795fcc920f18f9c352765e5201d37f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^key-755961eb758e2ab7037f23fe86b625a7]
+### 5. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^c-755961eb758e2ab7037f23fe86b625a7]
 
 (1) The Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00021] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -187,7 +187,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 ## Part IV — Transitional Provision
 
-### 6. Person determined or treated as satisfying the all work test[^key-27e1a5cc0fa4ef88f3ad4552fc0e44c4]
+### 6. Person determined or treated as satisfying the all work test[^c-27e1a5cc0fa4ef88f3ad4552fc0e44c4]
 
 (1) For the purposes of Part XIIA of the Social Security Contributions and Benefits Act (Northern Ireland) 1992 (incapacity for work) a determination under the all work test made before 3rd April 2000 shall from that date be treated as if it were a determination under the personal capability assessment.
 
@@ -221,13 +221,13 @@ These Regulations are made in consequence of Article 58 of, and paragraph 22(2) 
 
 [^f00004]: Footnote: *See* section 150(5)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-54a6e4e66df8f252afcd734644d9bda6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/4/regulation/1) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+[^c-54a6e4e66df8f252afcd734644d9bda6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/4/regulation/1) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149), [S.R. 1996 Nos. 289](https://www.legislation.gov.uk/nisr/1996/289) and [601](https://www.legislation.gov.uk/nisr/1996/601) and [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9022592fdfcd241996e0d81a88817ca3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/4/regulation/2) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+[^c-9022592fdfcd241996e0d81a88817ca3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/4/regulation/2) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
 
 [^f00007]: Footnote: Regulation 6 was amended by regulation 4(2) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and regulation 25(2) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
@@ -235,29 +235,29 @@ These Regulations are made in consequence of Article 58 of, and paragraph 22(2) 
 
 [^f00009]: Footnote: Regulation 13A was inserted by regulation 4(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
-[^key-a312ed746d867b892e8c4bbedcbd0721]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/6/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-a312ed746d867b892e8c4bbedcbd0721]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/6/a) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
 [^M_F_e4b3ab48-0f26-4b53-c355-c53b1052006d]: Textual amendment: Reg. 2(8) revoked (10.4.2006) by [The Social Security (Incapacity for Work) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/150)](https://www.legislation.gov.uk/nisr/2006/150), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/150/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/150/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/150/schedule)
 
 [^f00011]: Footnote: Regulation 17A was inserted by regulation 4(6) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and amended by regulation 25(3) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-774afc8188e0354f9d6fb120acdde994]: Textual amendment: [Reg. 2(13)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/13) revoked (10.2.2005) by [The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/15)](https://www.legislation.gov.uk/nisr/2005/15), [regs. 1](https://www.legislation.gov.uk/nisr/2005/15/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/15/regulation/3)
+[^c-774afc8188e0354f9d6fb120acdde994]: Textual amendment: [Reg. 2(13)](https://www.legislation.gov.uk/nisr/2000/4/regulation/2/13) revoked (10.2.2005) by [The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/15)](https://www.legislation.gov.uk/nisr/2005/15), [regs. 1](https://www.legislation.gov.uk/nisr/2005/15/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/15/regulation/3)
 
-[^key-42be1796f7e1f905bd18e9d3f748257d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/4/regulation/3) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+[^c-42be1796f7e1f905bd18e9d3f748257d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/4/regulation/3) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175); relevant amending regulations are [S.R. 1982 No. 153](https://www.legislation.gov.uk/nisr/1982/153), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
 [^f00014]: Footnote: The definition of “the all work test” was inserted by regulation 2(2) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468)
 
-[^key-77f24b755a5a2eb106de569af251c2a6]: Textual amendment: [Reg. 3(3)(a)-(b)](https://www.legislation.gov.uk/nisr/2000/4/regulation/3/3/a) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
+[^c-77f24b755a5a2eb106de569af251c2a6]: Textual amendment: [Reg. 3(3)(a)-(b)](https://www.legislation.gov.uk/nisr/2000/4/regulation/3/3/a) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
 
 [^f00016]: Footnote: Paragraph (2) was amended by regulation 2(3)(*b*) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468)
 
 [^f00017]: Footnote: Schedule 1B was inserted by regulation 2(5) of [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and amended by regulation 2(3) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
-[^key-85795fcc920f18f9c352765e5201d37f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/4/regulation/4) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
+[^c-85795fcc920f18f9c352765e5201d37f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/4/regulation/4) revoked (6.4.2010) by [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/55)](https://www.legislation.gov.uk/nisr/2010/55), [reg. 1](https://www.legislation.gov.uk/nisr/2010/55/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/55/schedule/3)
 
-[^key-755961eb758e2ab7037f23fe86b625a7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/4/regulation/5) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+[^c-755961eb758e2ab7037f23fe86b625a7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/4/regulation/5) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601)
 
@@ -265,4 +265,4 @@ These Regulations are made in consequence of Article 58 of, and paragraph 22(2) 
 
 [^f00023]: Footnote: Paragraph (4) was amended by regulation 3(8)(*a*) of [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
-[^key-27e1a5cc0fa4ef88f3ad4552fc0e44c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/4/regulation/6) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)
+[^c-27e1a5cc0fa4ef88f3ad4552fc0e44c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/4/regulation/6) in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/4/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Duty to ensure authenticity of documents held under section 98 or 101[^key-379b9352b5d19986d557f3e3d3d80f41]
+## 103. Duty to ensure authenticity of documents held under section 98 or 101[^c-379b9352b5d19986d557f3e3d3d80f41]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ a copy of a prescribed document (or a part of such a document), that person must
 
 ## Annotations
 
-[^key-379b9352b5d19986d557f3e3d3d80f41]: Commencement: S. 103 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-379b9352b5d19986d557f3e3d3d80f41]: Commencement: S. 103 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

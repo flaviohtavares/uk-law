@@ -22,13 +22,13 @@ summary: ''
 
 (1) Child benefit shall be payable at such weekly rate as may be prescribed.
 
-(2) Different rates may be prescribed in relation to different cases, whether by reference to the age of the child or qualifying young person[^key-7cd8e061313ef7b27af08477520d81d9] in respect of whom the benefit is payable or otherwise.
+(2) Different rates may be prescribed in relation to different cases, whether by reference to the age of the child or qualifying young person[^c-7cd8e061313ef7b27af08477520d81d9] in respect of whom the benefit is payable or otherwise.
 
 (3) The power to prescribe different rates under subsection (2) above shall be exercised so as to bring different rates into force on such day as the Secretary of State may by order specify.
 
-(4)[^key-0ae6c21000c75dad57ee636990b28b4d] No rate prescribed in place of a rate previously in force shall be lower than the rate that it replaces.
+(4)[^c-0ae6c21000c75dad57ee636990b28b4d] No rate prescribed in place of a rate previously in force shall be lower than the rate that it replaces.
 
-(5)[^key-0cd64ee43495f9f79ff3fb0ab467bb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0cd64ee43495f9f79ff3fb0ab467bb15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An order under subsection (3) above may be varied or revoked at any time before the date specified thereby.
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7cd8e061313ef7b27af08477520d81d9]: Textual amendment: Words in s. 145(2) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/11)
+[^c-7cd8e061313ef7b27af08477520d81d9]: Textual amendment: Words in s. 145(2) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/11)
 
-[^key-0ae6c21000c75dad57ee636990b28b4d]: Modification: S. 145(4) excluded (21.5.1998) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/72/1), [87(2)(a)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2/a)
+[^c-0ae6c21000c75dad57ee636990b28b4d]: Modification: S. 145(4) excluded (21.5.1998) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/72/1), [87(2)(a)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2/a)
 
-[^key-0cd64ee43495f9f79ff3fb0ab467bb15]: Textual amendment: S. 145(5) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
+[^c-0cd64ee43495f9f79ff3fb0ab467bb15]: Textual amendment: S. 145(5) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)

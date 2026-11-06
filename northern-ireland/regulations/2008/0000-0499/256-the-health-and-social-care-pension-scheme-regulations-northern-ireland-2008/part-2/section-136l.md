@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136L. Amount of pension and lump sum to be to be paid to a 2008 Section Optant[^key-af94c9e64ee4d1ae42d050ff544f5d6b][^key-2212ef046179ca474bf07d49bb83903e]
+## 136L. Amount of pension and lump sum to be to be paid to a 2008 Section Optant[^c-af94c9e64ee4d1ae42d050ff544f5d6b][^c-2212ef046179ca474bf07d49bb83903e]
 
 *Extent: N.I.*
 
@@ -147,6 +147,6 @@ and
 
 ## Annotations
 
-[^key-af94c9e64ee4d1ae42d050ff544f5d6b]: Modification: [Reg. 136L](https://www.legislation.gov.uk/nisr/2008/256/regulation/136L) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [28(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/3/b/ii)
+[^c-af94c9e64ee4d1ae42d050ff544f5d6b]: Modification: [Reg. 136L](https://www.legislation.gov.uk/nisr/2008/256/regulation/136L) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [28(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/28/3/b/ii)
 
-[^key-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
+[^c-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Meaning of “annualised final pay”[^key-d26340f17cfec5d8f3577639663d27d4]
+## 94. Meaning of “annualised final pay”[^c-d26340f17cfec5d8f3577639663d27d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d26340f17cfec5d8f3577639663d27d4]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2014/2848/regulation/94) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-d26340f17cfec5d8f3577639663d27d4]: Commencement: [Reg. 94](https://www.legislation.gov.uk/uksi/2014/2848/regulation/94) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

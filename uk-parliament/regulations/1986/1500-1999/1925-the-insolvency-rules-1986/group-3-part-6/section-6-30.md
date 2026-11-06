@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.30. Substitution of petitioner[^key-ae3f28aef2ef874020152eb85ef173d3]
+## 6.30. Substitution of petitioner[^c-ae3f28aef2ef874020152eb85ef173d3]
 
 *Extent: E+W*
 
@@ -29,10 +29,10 @@ summary: ''
 
 - (a) has under Rule 6.23 given notice of his intention to appear at the hearing,
 - (b) is desirous of prosecuting the petition, and
-- (c) was, at the date on which the petition was presented, in such a position in relation to the debtor as would have enabled him (the creditor) on that date to present a bankruptcy petition in respect of a debt or debts owed to him by the debtor (or in the case of the member State liquidator, owed to creditors in proceedings in relation to which he holds office)[^key-1df031554d0412f291c4523f46db4bc2], paragraphs (a) to (d) of section 267(2) being satisfied in respect of that debt or those debts.
+- (c) was, at the date on which the petition was presented, in such a position in relation to the debtor as would have enabled him (the creditor) on that date to present a bankruptcy petition in respect of a debt or debts owed to him by the debtor (or in the case of the member State liquidator, owed to creditors in proceedings in relation to which he holds office)[^c-1df031554d0412f291c4523f46db4bc2], paragraphs (a) to (d) of section 267(2) being satisfied in respect of that debt or those debts.
 
 ## Annotations
 
-[^key-ae3f28aef2ef874020152eb85ef173d3]: Commencement: [Rule 6.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ae3f28aef2ef874020152eb85ef173d3]: Commencement: [Rule 6.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-1df031554d0412f291c4523f46db4bc2]: Textual amendment: Words in rule 6.30(2)(c) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-1df031554d0412f291c4523f46db4bc2]: Textual amendment: Words in rule 6.30(2)(c) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

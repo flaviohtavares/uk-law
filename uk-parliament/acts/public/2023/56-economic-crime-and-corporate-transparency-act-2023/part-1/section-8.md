@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Names for criminal purposes[^key-aaee0860494b2103499151aa3c080396][^key-bcf0ab3989179da81d7af7b0b703cb27]
+## 8. Names for criminal purposes[^c-aaee0860494b2103499151aa3c080396][^c-bcf0ab3989179da81d7af7b0b703cb27]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaee0860494b2103499151aa3c080396]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-aaee0860494b2103499151aa3c080396]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-bcf0ab3989179da81d7af7b0b703cb27]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/56/section/8) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/d)
+[^c-bcf0ab3989179da81d7af7b0b703cb27]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/56/section/8) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/d)

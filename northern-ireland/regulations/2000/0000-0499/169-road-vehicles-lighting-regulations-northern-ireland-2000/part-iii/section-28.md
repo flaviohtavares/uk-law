@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Requirements about the use of headlamps and front fog lamps[^key-eca64f9f32ee6f5f7c5176d92e453f4b]
+## 28. Requirements about the use of headlamps and front fog lamps[^c-eca64f9f32ee6f5f7c5176d92e453f4b]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca64f9f32ee6f5f7c5176d92e453f4b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/169/regulation/28) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-eca64f9f32ee6f5f7c5176d92e453f4b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/169/regulation/28) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

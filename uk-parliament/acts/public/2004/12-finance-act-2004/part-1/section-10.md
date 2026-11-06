@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Bioethanol[^key-2ec2dc3c34b5135ecc6130a4a03827e5]
+## 10. Bioethanol[^c-2ec2dc3c34b5135ecc6130a4a03827e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 >   - (i) for the purpose of rendering the substance denatured alcohol, and
 >   - (ii) in the minimum proportion necessary for that purpose.
 
-(2)[^key-d833c8f8ddebe6f9b1eb0099148a03cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d833c8f8ddebe6f9b1eb0099148a03cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 6AC of that Act (biodiesel: application of provisions relating to hydrocarbon oil) insert—
 
@@ -153,6 +153,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ec2dc3c34b5135ecc6130a4a03827e5]: Commencement: S. 10 in force at 1.1.2005, see s. 10(10)
+[^c-2ec2dc3c34b5135ecc6130a4a03827e5]: Commencement: S. 10 in force at 1.1.2005, see s. 10(10)
 
-[^key-d833c8f8ddebe6f9b1eb0099148a03cd]: Textual amendment: S. 10(2) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/e/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-d833c8f8ddebe6f9b1eb0099148a03cd]: Textual amendment: S. 10(2) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/e/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

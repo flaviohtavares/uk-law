@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Consultation by employers: occupational pension schemes[^key-9a0f1a3c3d991b58a32b182a0be4f7a6][^key-eeae0d5b3df64514b3432151671a2868]
+## 259. Consultation by employers: occupational pension schemes[^c-9a0f1a3c3d991b58a32b182a0be4f7a6][^c-eeae0d5b3df64514b3432151671a2868]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ to consult prescribed persons in the prescribed manner before the decision is ma
 
 ## Annotations
 
-[^key-9a0f1a3c3d991b58a32b182a0be4f7a6]: Commencement: [S. 259](https://www.legislation.gov.uk/ukpga/2004/35/section/259) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
+[^c-9a0f1a3c3d991b58a32b182a0be4f7a6]: Commencement: [S. 259](https://www.legislation.gov.uk/ukpga/2004/35/section/259) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
 
-[^key-eeae0d5b3df64514b3432151671a2868]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/2004/35/section/259) modified (2.2.2006) by [The Occupational Pension Schemes (Consultation by Employers) (Modification for Multi-employer Schemes) Regulations 2006 (S.I. 2006/16)](https://www.legislation.gov.uk/uksi/2006/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/16/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/16/regulation/2)
+[^c-eeae0d5b3df64514b3432151671a2868]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/2004/35/section/259) modified (2.2.2006) by [The Occupational Pension Schemes (Consultation by Employers) (Modification for Multi-employer Schemes) Regulations 2006 (S.I. 2006/16)](https://www.legislation.gov.uk/uksi/2006/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/16/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/16/regulation/2)

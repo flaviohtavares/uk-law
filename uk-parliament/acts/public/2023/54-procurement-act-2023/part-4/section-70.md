@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Information about payments under public contracts[^key-286013afe6e4889fa48429fb4d8e68c7][^key-2d766ec5ee62a819f78f2a221a33fedd]
+## 70. Information about payments under public contracts[^c-286013afe6e4889fa48429fb4d8e68c7][^c-2d766ec5ee62a819f78f2a221a33fedd]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-286013afe6e4889fa48429fb4d8e68c7]: Commencement: S. 70 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-286013afe6e4889fa48429fb4d8e68c7]: Commencement: S. 70 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-2d766ec5ee62a819f78f2a221a33fedd]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/54/section/70) in force at 1.4.2026 for specified purposes by [S.I. 2025/1316](https://www.legislation.gov.uk/uksi/2025/1316), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/2/b)
+[^c-2d766ec5ee62a819f78f2a221a33fedd]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/54/section/70) in force at 1.4.2026 for specified purposes by [S.I. 2025/1316](https://www.legislation.gov.uk/uksi/2025/1316), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/2/b)

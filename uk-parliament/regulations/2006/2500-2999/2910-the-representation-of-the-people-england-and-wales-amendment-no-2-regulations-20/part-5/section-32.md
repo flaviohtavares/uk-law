@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Amendment of regulation 51[^key-08684ccd663286ae8472eff26521426f]
+## 32. Amendment of regulation 51[^c-08684ccd663286ae8472eff26521426f]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08684ccd663286ae8472eff26521426f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2006/2910/regulation/32) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-08684ccd663286ae8472eff26521426f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2006/2910/regulation/32) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00051]: Footnote: Regulation 51(2) was amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

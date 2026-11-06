@@ -44,15 +44,15 @@ The Department of Finance[^f00001] makes the following Order in exercise of the 
 
 In accordance with Article 7(4)[^f00003] of that Order it has taken into consideration estimates of the amounts to be raised by district rates.
 
-## 1. Citation and commencement[^key-39e090afccecfe0f5c8081c7a14243fb]
+## 1. Citation and commencement[^c-39e090afccecfe0f5c8081c7a14243fb]
 
 This Order may be cited as the Rates (Regional Rates) Order (Northern Ireland) 2026 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-## 2. Application[^key-4ce14aef53fcd97fa101a00791be39cc]
+## 2. Application[^c-4ce14aef53fcd97fa101a00791be39cc]
 
 This Order shall apply in respect of the year ending 31st March 2027.
 
-## 3. Regional Rates[^key-19b30614bebabb399b8d553400c9a95e]
+## 3. Regional Rates[^c-19b30614bebabb399b8d553400c9a95e]
 
 (1) The regional rate to be levied on the rateable net annual values of hereditaments shall be 30.79 pence in the pound.
 
@@ -82,8 +82,8 @@ Hereditaments which are dwelling-houses, private garages and private storage pre
 
 [^f00003]: Footnote: Article 7(4) was amended by Article 10 of, and paragraph 1 of Schedule 2, to the Rates (Amendment) (Northern Ireland) Order 1998 ([S.I. 1998/3164 (N.I. 22)](https://www.legislation.gov.uk/nisi/1998/3164))
 
-[^key-39e090afccecfe0f5c8081c7a14243fb]: Commencement: Art. 1 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)
+[^c-39e090afccecfe0f5c8081c7a14243fb]: Commencement: Art. 1 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)
 
-[^key-4ce14aef53fcd97fa101a00791be39cc]: Commencement: Art. 2 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)
+[^c-4ce14aef53fcd97fa101a00791be39cc]: Commencement: Art. 2 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)
 
-[^key-19b30614bebabb399b8d553400c9a95e]: Commencement: Art. 3 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)
+[^c-19b30614bebabb399b8d553400c9a95e]: Commencement: Art. 3 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/19/article/1)

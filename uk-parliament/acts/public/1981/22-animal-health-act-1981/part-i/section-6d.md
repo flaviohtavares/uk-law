@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Emergency biosecurity orders: Scotland[^key-cdeb9f955d087f412d6def2925d4eb21]
+## 6D. Emergency biosecurity orders: Scotland[^c-cdeb9f955d087f412d6def2925d4eb21]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ subsections (11) and (12) of section 6C do not apply in relation to the making o
 
 ## Annotations
 
-[^key-cdeb9f955d087f412d6def2925d4eb21]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1981/22/section/6C) - [S. 6D](https://www.legislation.gov.uk/ukpga/1981/22/section/6D) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 4](https://www.legislation.gov.uk/asp/2006/11/section/4), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-cdeb9f955d087f412d6def2925d4eb21]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1981/22/section/6C) - [S. 6D](https://www.legislation.gov.uk/ukpga/1981/22/section/6D) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 4](https://www.legislation.gov.uk/asp/2006/11/section/4), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

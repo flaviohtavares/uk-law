@@ -22,9 +22,9 @@ summary: ''
 
 Section 21
 
-**1.**[^key-b8142fbdfb0918cfb65f8a7097a58764] The Benchmarks Regulation is amended as follows.
+**1.**[^c-b8142fbdfb0918cfb65f8a7097a58764] The Benchmarks Regulation is amended as follows.
 
-**2.**[^key-9adaeffb5ca46fb98baadb6ef1b78178] (1) Article 3(1) (definitions) is amended as follows.
+**2.**[^c-9adaeffb5ca46fb98baadb6ef1b78178] (1) Article 3(1) (definitions) is amended as follows.
 
 (2) In point (6) (administrator)—
 
@@ -55,11 +55,11 @@ Section 21
 > - (b) Christmas Day or Good Friday, or
 > - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in England and Wales.
 
-**3.**[^key-c0defe86b4fcd27537989e8339d56a64] In Article 3, after paragraph 1 insert—
+**3.**[^c-c0defe86b4fcd27537989e8339d56a64] In Article 3, after paragraph 1 insert—
 
 > **1A.** References in this Regulation to the capability of a benchmark to measure the underlying market or economic reality are references to both its current capability to do so and its capability to do so in the future.
 
-**4.**[^key-1d0d04ec6f954d79c4feb93bb084e9c4] In Article 11 (input data), after paragraph 4 insert—
+**4.**[^c-1d0d04ec6f954d79c4feb93bb084e9c4] In Article 11 (input data), after paragraph 4 insert—
 
 > **4A.** In the case of a critical benchmark, paragraph 4 does not require the administrator to cease providing the benchmark before the end of a period during which the administrator is required to continue publishing the benchmark by Article 21(1) or (2) or by a decision of the FCA under Article 21(3).
 >
@@ -68,9 +68,9 @@ Section 21
 > - (a) paragraph 4 does not require the administrator to cease providing the benchmark while those measures have effect, and
 > - (b) the administrator's duty under paragraph 4 to make changes is a duty to make changes so far as compatible with those measures.
 
-**5.**[^key-b33b785d69e48da53b8319fac7e8e8dd] In Article A20(5)(b) (review of critical benchmarks), for “determines” substitute “ determine ”.
+**5.**[^c-b33b785d69e48da53b8319fac7e8e8dd] In Article A20(5)(b) (review of critical benchmarks), for “determines” substitute “ determine ”.
 
-**6.**[^key-472a4d4f27e49e18e5aa969debbb2877] (1) Article 20 (critical benchmarks: conditions and other matters) is amended as follows.
+**6.**[^c-472a4d4f27e49e18e5aa969debbb2877] (1) Article 20 (critical benchmarks: conditions and other matters) is amended as follows.
 
 (2) In paragraph 5(b), for “determines” substitute “ determine ”.
 
@@ -85,9 +85,9 @@ Section 21
 
 (6) In paragraph 6(b), for “the thresholds in points (a) and (c)(i)” substitute “ the value in point (a) ”.
 
-**7.**[^key-3b9e1d0a3ab92390051af3cf13625010] In Article 21(3) (mandatory administration of a critical benchmark), in the first subparagraph, in point (b), at the end insert “ (whether by the exercise of the FCA's powers under Article 23D or otherwise) ”.
+**7.**[^c-3b9e1d0a3ab92390051af3cf13625010] In Article 21(3) (mandatory administration of a critical benchmark), in the first subparagraph, in point (b), at the end insert “ (whether by the exercise of the FCA's powers under Article 23D or otherwise) ”.
 
-**8.**[^key-61f43a4450676ba416b7431c0eef4a84] After Article 26 insert—
+**8.**[^c-61f43a4450676ba416b7431c0eef4a84] After Article 26 insert—
 
 > **CHAPTER 7 COMPLIANCE WITH REQUIREMENTS**
 >
@@ -95,18 +95,18 @@ Section 21
 >
 > Supervised entities and supervised third country entities must comply with prohibitions and other requirements imposed on them by the FCA under this Regulation.
 
-**9.**[^key-9307f42041d02d9d87e254a3d7181aa3] In Article 29 (use of a benchmark), after paragraph 1 insert—
+**9.**[^c-9307f42041d02d9d87e254a3d7181aa3] In Article 29 (use of a benchmark), after paragraph 1 insert—
 
 > **1A.** Paragraph 1 does not enable a supervised entity to use a benchmark in the United Kingdom in breach of a prohibition under Article 21A or 23B.
 >
 > **1B.** The use of a benchmark by a supervised entity for a financial contract, financial instrument or investment fund in breach of a prohibition under Article 21A or 23B does not affect the validity or enforceability of a contract or other arrangement.
 
-**10.**[^key-0278c0dd316057b2131a3ef6071b3c29] In Article 36(1) (register of administrators and benchmarks), after point (d) insert—
+**10.**[^c-0278c0dd316057b2131a3ef6071b3c29] In Article 36(1) (register of administrators and benchmarks), after point (d) insert—
 
 > - (e) any prohibitions under Article 21A or 23B on the use of benchmarks by supervised entities that are in force;
 > - (f) any benchmarks that are Article 23A benchmarks.
 
-**11.**[^key-d152db33f2c9b3b8a7b47d4aa3bd33cb] After Article 48 insert—
+**11.**[^c-d152db33f2c9b3b8a7b47d4aa3bd33cb] After Article 48 insert—
 
 > **TITLE 6A — PROVISION OF INFORMATION AND PERIODS OF TIME**
 >
@@ -141,24 +141,24 @@ Section 21
 
 ## Annotations
 
-[^key-b8142fbdfb0918cfb65f8a7097a58764]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-b8142fbdfb0918cfb65f8a7097a58764]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-9adaeffb5ca46fb98baadb6ef1b78178]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-9adaeffb5ca46fb98baadb6ef1b78178]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-c0defe86b4fcd27537989e8339d56a64]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-c0defe86b4fcd27537989e8339d56a64]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-1d0d04ec6f954d79c4feb93bb084e9c4]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-1d0d04ec6f954d79c4feb93bb084e9c4]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-b33b785d69e48da53b8319fac7e8e8dd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-b33b785d69e48da53b8319fac7e8e8dd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-472a4d4f27e49e18e5aa969debbb2877]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/6) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-472a4d4f27e49e18e5aa969debbb2877]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/6) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-3b9e1d0a3ab92390051af3cf13625010]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/7) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-3b9e1d0a3ab92390051af3cf13625010]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/7) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-61f43a4450676ba416b7431c0eef4a84]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-61f43a4450676ba416b7431c0eef4a84]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/8) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-9307f42041d02d9d87e254a3d7181aa3]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-9307f42041d02d9d87e254a3d7181aa3]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/9) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-0278c0dd316057b2131a3ef6071b3c29]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-0278c0dd316057b2131a3ef6071b3c29]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/10) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
 
-[^key-d152db33f2c9b3b8a7b47d4aa3bd33cb]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/11) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)
+[^c-d152db33f2c9b3b8a7b47d4aa3bd33cb]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/5/paragraph/11) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/n)

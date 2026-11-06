@@ -32,7 +32,7 @@ summary: ''
 
 financial services and markets
 
-The Financial Services and Markets Act 2000 (Appointed Representatives) (Amendment) Regulations 2006 (revoked)[^key-9bd7599530a3fbf719cc1707983ad280]
+The Financial Services and Markets Act 2000 (Appointed Representatives) (Amendment) Regulations 2006 (revoked)[^c-9bd7599530a3fbf719cc1707983ad280]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 1st November 2007
 
-[^key-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9bd7599530a3fbf719cc1707983ad280]
+## 1. Citation and commencement[^c-9bd7599530a3fbf719cc1707983ad280]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Appointed Representatives Regulations[^key-9bd7599530a3fbf719cc1707983ad280]
+## 2. Amendment of the Appointed Representatives Regulations[^c-9bd7599530a3fbf719cc1707983ad280]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9bd7599530a3fbf719cc1707983ad280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bd7599530a3fbf719cc1707983ad280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bd7599530a3fbf719cc1707983ad280]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/3414) revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-9bd7599530a3fbf719cc1707983ad280]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/3414) revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

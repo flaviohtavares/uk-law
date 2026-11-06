@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Set-off for enhancement in value of retained land[^key-94d0299e6c85eba14dddaa0084dd3da2]
+## 33. Set-off for enhancement in value of retained land[^c-94d0299e6c85eba14dddaa0084dd3da2]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-94d0299e6c85eba14dddaa0084dd3da2]: Commencement: Art. 33 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-94d0299e6c85eba14dddaa0084dd3da2]: Commencement: Art. 33 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

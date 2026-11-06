@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. An appeal may be brought against decisions of the Agency taken pursuant to Article 9, Article 20, Article 27(6), Article 51 and Article 52[^key-28521b91dc0d99a5b906433d24d5a3f5] .
+1. An appeal may be brought against decisions of the Agency taken pursuant to Article 9, Article 20, Article 27(6), Article 51 and Article 52[^c-28521b91dc0d99a5b906433d24d5a3f5] .
 
-1A.[^key-ca313ce994b7f0a2589dedc91c569834] An appeal pursuant to paragraph 1 lies to the First-tier Tribunal.
+1A.[^c-ca313ce994b7f0a2589dedc91c569834] An appeal pursuant to paragraph 1 lies to the First-tier Tribunal.
 
 2. An appeal lodged pursuant to paragraph 1 shall have suspensive effect.
 
-3.[^key-beb059f78405ffd7c79d963ebdc63823] On an appeal pursuant to paragraph 1, the First-tier Tribunal—
+3.[^c-beb059f78405ffd7c79d963ebdc63823] On an appeal pursuant to paragraph 1, the First-tier Tribunal—
 
 - (a) may dismiss the appeal, or
 - (b) if it allows the appeal may—
@@ -37,8 +37,8 @@ summary: ''
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (Official Journal of the European Union L 396 of 30 December 2006)](https://www.legislation.gov.uk/eur/2006/1907/pdfs/eurcs_20061907_en_001.pdf).
 
-[^key-28521b91dc0d99a5b906433d24d5a3f5]: Textual amendment: Words in [Art. 91(1)](https://www.legislation.gov.uk/eur/2006/1907/article/91/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28521b91dc0d99a5b906433d24d5a3f5]: Textual amendment: Words in [Art. 91(1)](https://www.legislation.gov.uk/eur/2006/1907/article/91/1) substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca313ce994b7f0a2589dedc91c569834]: Textual amendment: [Art. 91(1A)](https://www.legislation.gov.uk/eur/2006/1907/article/91/1A) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca313ce994b7f0a2589dedc91c569834]: Textual amendment: [Art. 91(1A)](https://www.legislation.gov.uk/eur/2006/1907/article/91/1A) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-beb059f78405ffd7c79d963ebdc63823]: Textual amendment: [Art. 91(3)](https://www.legislation.gov.uk/eur/2006/1907/article/91/3) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(4)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beb059f78405ffd7c79d963ebdc63823]: Textual amendment: [Art. 91(3)](https://www.legislation.gov.uk/eur/2006/1907/article/91/3) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 68(4)](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/68/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

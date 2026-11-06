@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Action by relevant authority[^key-00a599f9e9708286352904adff3892e4][^key-155c668f45f6e2f1e4750219569e7143]
+## 77. Action by relevant authority[^c-00a599f9e9708286352904adff3892e4][^c-155c668f45f6e2f1e4750219569e7143]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00a599f9e9708286352904adff3892e4]: Commencement: S. 77 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-00a599f9e9708286352904adff3892e4]: Commencement: S. 77 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-155c668f45f6e2f1e4750219569e7143]: Commencement: S. 77 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-155c668f45f6e2f1e4750219569e7143]: Commencement: S. 77 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

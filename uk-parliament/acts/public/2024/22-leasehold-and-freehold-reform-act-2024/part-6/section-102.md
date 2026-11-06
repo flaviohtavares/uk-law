@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Financial assistance for establishment or maintenance of redress schemes[^key-5ac6c04eb3a54fcfa6b714a41d0c411e]
+## 102. Financial assistance for establishment or maintenance of redress schemes[^c-5ac6c04eb3a54fcfa6b714a41d0c411e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Secretary of State may give financial assistance (by way of grant, loan, or 
 
 ## Annotations
 
-[^key-5ac6c04eb3a54fcfa6b714a41d0c411e]: Commencement: S. 102 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5ac6c04eb3a54fcfa6b714a41d0c411e]: Commencement: S. 102 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

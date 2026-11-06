@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 38. Investments in diocesan stipends funds[^key-884fd06d7f7a58cae2b2e5120897b252]
+## 38. Investments in diocesan stipends funds[^c-884fd06d7f7a58cae2b2e5120897b252]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ In section 4 of the Diocesan Stipends Funds Measure 1953 (application of money c
 
 ## Annotations
 
-[^key-884fd06d7f7a58cae2b2e5120897b252]: Commencement: [S. 38](https://www.legislation.gov.uk/ukcm/2018/8/section/38) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-884fd06d7f7a58cae2b2e5120897b252]: Commencement: [S. 38](https://www.legislation.gov.uk/ukcm/2018/8/section/38) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Approval of warrants by Judicial Commissioners[^key-72060ff7d86ef3b6e62cb0a6fec751d9][^key-1c454ddd30f940e2b3d8a15a9ddf2d58]
+## 108. Approval of warrants by Judicial Commissioners[^c-72060ff7d86ef3b6e62cb0a6fec751d9][^c-1c454ddd30f940e2b3d8a15a9ddf2d58]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72060ff7d86ef3b6e62cb0a6fec751d9]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2016/25/section/108) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/h)
+[^c-72060ff7d86ef3b6e62cb0a6fec751d9]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2016/25/section/108) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/h)
 
-[^key-1c454ddd30f940e2b3d8a15a9ddf2d58]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2016/25/section/108) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/c)
+[^c-1c454ddd30f940e2b3d8a15a9ddf2d58]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2016/25/section/108) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/c)

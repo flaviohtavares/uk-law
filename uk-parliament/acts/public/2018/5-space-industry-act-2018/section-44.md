@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Powers in relation to land: compensation[^key-f2f13e891f862a0b8787b8cd17a33ce6]
+## 44. Powers in relation to land: compensation[^c-f2f13e891f862a0b8787b8cd17a33ce6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8, which makes provision about compensation in connection with orders u
 
 ## Annotations
 
-[^key-f2f13e891f862a0b8787b8cd17a33ce6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/5/section/44) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 80](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/80) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-f2f13e891f862a0b8787b8cd17a33ce6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/5/section/44) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 80](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/80) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

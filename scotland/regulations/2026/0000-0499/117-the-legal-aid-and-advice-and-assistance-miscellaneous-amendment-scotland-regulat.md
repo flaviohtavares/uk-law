@@ -44,15 +44,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 37(2) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament[^f00002].
 
-## 1. Citation and commencement[^key-f333850fec6d27534b2b6329f60d0750]
+## 1. Citation and commencement[^c-f333850fec6d27534b2b6329f60d0750]
 
 These Regulations may be cited as the Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 and come into force on 1 June 2026.
 
-## 2. Application[^key-ef4e386f24c7fd2245b265345672998c]
+## 2. Application[^c-ef4e386f24c7fd2245b265345672998c]
 
 Regulations 3 and 6 apply only in relation to a case where the advice and assistance or assistance by way of representation was made available on or after 1 June 2026.
 
-## 3. Amendment of the Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^key-06445a0bf29324c0b335688a67c65e14]
+## 3. Amendment of the Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^c-06445a0bf29324c0b335688a67c65e14]
 
 (1) The Advice and Assistance (Financial Limit) (Scotland) Regulations 1993[^f00003] are amended as follows.
 
@@ -75,7 +75,7 @@ Regulations 3 and 6 apply only in relation to a case where the advice and assist
     ,
 - (b) in paragraph (c)(xvii), for “£500” substitute “£550”.
 
-## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-c524d749c6a2833b01afa54c904c0098]
+## 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-c524d749c6a2833b01afa54c904c0098]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996[^f00004] are amended as follows.
 
@@ -97,7 +97,7 @@ Regulations 3 and 6 apply only in relation to a case where the advice and assist
 
 .
 
-## 5. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-7cc99df8ed646b2927de85dadd5159f0]
+## 5. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-7cc99df8ed646b2927de85dadd5159f0]
 
 (1) The Civil Legal Aid (Scotland) Regulations 2002[^f00006] are amended as follows.
 
@@ -138,7 +138,7 @@ Regulations 3 and 6 apply only in relation to a case where the advice and assist
 
 .
 
-## 6. Amendment of the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003[^key-501acb481ff377abc3269638693333ca]
+## 6. Amendment of the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003[^c-501acb481ff377abc3269638693333ca]
 
 (1) The Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003[^f00007] are amended as follows.
 
@@ -176,7 +176,7 @@ Regulations 3 and 6 apply only in relation to a case where the advice and assist
   - (ii) after “3A(1)” omit “(a)(ii), (iii), (iiia) and (iiib),”,
 - (b) after paragraph (1) insert—
 
-  > (1A) Paragraph (1) does not apply in relation to proceedings described in regulation 3A[^key-22e960343f454e187d8ae23cd7d846c8] where the applicant is a child.
+  > (1A) Paragraph (1) does not apply in relation to proceedings described in regulation 3A[^c-22e960343f454e187d8ae23cd7d846c8] where the applicant is a child.
 
   ,
 - (c) in paragraph (3A)—
@@ -184,7 +184,7 @@ Regulations 3 and 6 apply only in relation to a case where the advice and assist
   - (ii) after “3A(1)” omit “(a)(ii), (iii), (iiia) and (iiib),”,
   - (iii) after “required to allow” omit “the child,”.
 
-## 7. Amendment of the Children’s Legal Assistance (Scotland) Regulations 2013[^key-945a45f36dca7d8457dec0cd412f637d]
+## 7. Amendment of the Children’s Legal Assistance (Scotland) Regulations 2013[^c-945a45f36dca7d8457dec0cd412f637d]
 
 (1) The Children’s Legal Assistance (Scotland) Regulations 2013[^f00008] are amended as follows.
 
@@ -238,30 +238,30 @@ Regulation 7 amends the Children’s Legal Assistance (Scotland) Regulations 201
 
 [^f00002]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-f333850fec6d27534b2b6329f60d0750]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-f333850fec6d27534b2b6329f60d0750]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
-[^key-ef4e386f24c7fd2245b265345672998c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-ef4e386f24c7fd2245b265345672998c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
-[^key-06445a0bf29324c0b335688a67c65e14]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/117/regulation/3) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-06445a0bf29324c0b335688a67c65e14]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/117/regulation/3) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1993/3187](https://www.legislation.gov.uk/uksi/1993/3187). Regulation 3 was substituted by [S.S.I. 2007/248](https://www.legislation.gov.uk/ssi/2007/248); paragraph (b)(iii) was revoked by [S.S.I. 2008/251](https://www.legislation.gov.uk/ssi/2008/251) and paragraph (c)(xvii) was inserted by [S.S.I. 2021/368](https://www.legislation.gov.uk/ssi/2021/368) and amended by [S.S.I. 2023/313](https://www.legislation.gov.uk/ssi/2023/313).
 
-[^key-c524d749c6a2833b01afa54c904c0098]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/117/regulation/4) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-c524d749c6a2833b01afa54c904c0098]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/117/regulation/4) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447), relevantly amended by [S.S.I. 2024/311](https://www.legislation.gov.uk/ssi/2024/311) and [S.S.I. 2003/163](https://www.legislation.gov.uk/ssi/2003/163). Paragraph 5(d) of schedule 2 was inserted by [S.S.I. 2003/163](https://www.legislation.gov.uk/ssi/2003/163).
 
 [^f00005]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). Section 93(A) was inserted by the Social Security (Amendment) (Scotland) Act [2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2).
 
-[^key-7cc99df8ed646b2927de85dadd5159f0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/117/regulation/5) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-7cc99df8ed646b2927de85dadd5159f0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/117/regulation/5) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
 [^f00006]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), relevantly amended by [S.S.I. 2024/178](https://www.legislation.gov.uk/ssi/2024/178), [S.S.I. 2024/216](https://www.legislation.gov.uk/ssi/2024/216) and [S.S.I. 2024/311](https://www.legislation.gov.uk/ssi/2024/311). Sub-paragraphs (xxxii) and (xxxiii) of regulation 33(a) inserted by [S.S.I. 2024/311](https://www.legislation.gov.uk/ssi/2024/311).
 
-[^key-501acb481ff377abc3269638693333ca]: Commencement: Reg. 6 in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-501acb481ff377abc3269638693333ca]: Commencement: Reg. 6 in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
 [^f00007]: Footnote: [S.S.I. 2003/179](https://www.legislation.gov.uk/ssi/2003/179). Definition of “child” in regulation 1, regulation 3A and regulation 13(3A) inserted by [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200). Regulation 13(1) also relevantly amended by [S.S.I. 2023/11](https://www.legislation.gov.uk/ssi/2023/11).
 
-[^key-22e960343f454e187d8ae23cd7d846c8]: Textual amendment: Words in reg. 6(4)(b) substituted (1.6.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2026/144/regulation/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
+[^c-22e960343f454e187d8ae23cd7d846c8]: Textual amendment: Words in reg. 6(4)(b) substituted (1.6.2026) by [The Legal Aid and Advice and Assistance (Fees) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/144)](https://www.legislation.gov.uk/ssi/2026/144), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/144/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2026/144/regulation/10) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/144/regulation/2))
 
-[^key-945a45f36dca7d8457dec0cd412f637d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/117/regulation/7) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
+[^c-945a45f36dca7d8457dec0cd412f637d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/117/regulation/7) in force at 1.6.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200), relevantly amended by [S.S.I. 2024/216](https://www.legislation.gov.uk/ssi/2024/216).

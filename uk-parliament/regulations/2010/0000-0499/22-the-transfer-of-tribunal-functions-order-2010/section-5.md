@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consequential, transitional and saving provisions[^key-336b2a6dc6ce2548753a2cbe9f3be86d]
+## 5. Consequential, transitional and saving provisions[^c-336b2a6dc6ce2548753a2cbe9f3be86d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-336b2a6dc6ce2548753a2cbe9f3be86d]: Commencement: Art. 5 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)
+[^c-336b2a6dc6ce2548753a2cbe9f3be86d]: Commencement: Art. 5 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)

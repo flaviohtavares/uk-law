@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Duty of HSC trust to refer case to Tribunal[^key-daf5c2e8602d659d9d79ac128bac2562]
+## 48. Duty of HSC trust to refer case to Tribunal[^c-daf5c2e8602d659d9d79ac128bac2562]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ the relevant trust must as soon as practicable refer the person's case to the Tr
 
 ## Annotations
 
-[^key-daf5c2e8602d659d9d79ac128bac2562]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/18/section/48) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-daf5c2e8602d659d9d79ac128bac2562]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2016/18/section/48) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

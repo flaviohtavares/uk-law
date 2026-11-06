@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P6. Actuary's certificates[^key-95455aa49931306c25ad691273f53d32]
+## P6. Actuary's certificates[^c-95455aa49931306c25ad691273f53d32]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ the old certificate shall, if the actuary and the administering authority so agr
 
 ## Annotations
 
-[^key-95455aa49931306c25ad691273f53d32]: Commencement: [Reg. P6](https://www.legislation.gov.uk/uksi/1986/24/regulation/P6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-95455aa49931306c25ad691273f53d32]: Commencement: [Reg. P6](https://www.legislation.gov.uk/uksi/1986/24/regulation/P6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

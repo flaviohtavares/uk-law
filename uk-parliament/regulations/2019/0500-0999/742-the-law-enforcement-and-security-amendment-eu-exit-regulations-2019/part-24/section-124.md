@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Amendment of the Local Government (Miscellaneous Provisions) Act 1982[^key-ddda87142473313cd472bf7d0f2c6a46]
+## 124. Amendment of the Local Government (Miscellaneous Provisions) Act 1982[^c-ddda87142473313cd472bf7d0f2c6a46]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In Schedule 3 to the Local Government (Miscellaneous Provisions) Act 1982 [^c236
 
 ## Annotations
 
-[^key-ddda87142473313cd472bf7d0f2c6a46]: Commencement: Reg. 124 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ddda87142473313cd472bf7d0f2c6a46]: Commencement: Reg. 124 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692181]: Marginal citation: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).
 

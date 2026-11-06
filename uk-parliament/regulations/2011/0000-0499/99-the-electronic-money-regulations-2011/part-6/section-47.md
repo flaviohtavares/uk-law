@@ -27,7 +27,7 @@ summary: ''
 - (a) the need to use its resources in the most efficient and economic way;
 - (b) the responsibilities of those who manage the affairs of electronic money issuers;
 - (c) the principle that a burden or restriction which is imposed on a person, or on the carrying on of an activity, should be proportionate to the benefits, considered in general terms, which are expected to result from the imposition of that burden or restriction;
-- ((not yet in force: ca))[^key-5e541ceea4f37277efe97f4fa9ddfadd] *(not yet in force: the desirability of sustainable growth in the economy of the United Kingdom in the medium or long term, including in a way consistent with contributing towards achieving compliance by the Secretary of State with—)*
+- ((not yet in force: ca))[^c-5e541ceea4f37277efe97f4fa9ddfadd] *(not yet in force: the desirability of sustainable growth in the economy of the United Kingdom in the medium or long term, including in a way consistent with contributing towards achieving compliance by the Secretary of State with—)*
   - ((not yet in force: i)) *(not yet in force: section 1 (target for 2050) of the Climate Change Act 2008, and)*
   - ((not yet in force: ii)) *(not yet in force: section 5 (environmental targets: effect) of the Environment Act 2021,)*
 
@@ -38,7 +38,7 @@ summary: ''
 - (g) the desirability of facilitating competition in relation to the issuance of electronic money and the provision of payment services; and
 - (h) the desirability of enhancing the understanding and knowledge of members of the public of financial matters (including the United Kingdom financial system).
 
-(3)[^key-72811ef9be315cfc250e34ac320f56b9] The Treasury may at any time by notice in writing to the Authority make recommendations to the Authority about aspects of the economic policy of His Majesty’s Government to which the Authority should have regard when considering the application of the principles in paragraph (2).
+(3)[^c-72811ef9be315cfc250e34ac320f56b9] The Treasury may at any time by notice in writing to the Authority make recommendations to the Authority about aspects of the economic policy of His Majesty’s Government to which the Authority should have regard when considering the application of the principles in paragraph (2).
 
 (4) Section 1JA of the 2000 Act applies in relation to any recommendation made under paragraph (3) as if—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e541ceea4f37277efe97f4fa9ddfadd]: Textual amendment: [Reg. 47(2)(ca)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/2/ca) inserted (18.9.2023 for specified purposes, 1.1.2025 in so far as not already in force) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)(3)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/2/a); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/a) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
+[^c-5e541ceea4f37277efe97f4fa9ddfadd]: Textual amendment: [Reg. 47(2)(ca)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/2/ca) inserted (18.9.2023 for specified purposes, 1.1.2025 in so far as not already in force) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)(3)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/2/a); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/a) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
 
-[^key-72811ef9be315cfc250e34ac320f56b9]: Textual amendment: [Reg. 47(3)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/3)[(4)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/4) inserted (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/2/b)
+[^c-72811ef9be315cfc250e34ac320f56b9]: Textual amendment: [Reg. 47(3)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/3)[(4)](https://www.legislation.gov.uk/uksi/2011/99/regulation/47/4) inserted (18.9.2023) by [The Electronic Money, Payment Card Interchange Fee and Payment Services (Amendment) Regulations 2023 (S.I. 2023/790)](https://www.legislation.gov.uk/uksi/2023/790), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/790/regulation/1/2/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/790/regulation/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Fee Support Generally[^key-271324deb38a5e7f0446d9b2e65091ca]
+## 13. Fee Support Generally[^c-271324deb38a5e7f0446d9b2e65091ca]
 
 *Extent: E+W*
 
@@ -33,9 +33,9 @@ summary: ''
   - (i) is not a compressed degree student; and
   - (ii) is undertaking a designated course in the United Kingdom but is not in attendance because the eligible student is unable to attend for a reason which relates to the eligible student’s disability.
 
-(5) Subject to paragraph (5A),[^key-486767e8ee0444dfe6dd1425c4b9f7e4] An eligible student who is undertaking a distance learning course does not qualify for any fee support under this Part in respect of that course unless the Welsh Ministers consider that the student is undertaking the course in Wales on the first day of the first academic year.
+(5) Subject to paragraph (5A),[^c-486767e8ee0444dfe6dd1425c4b9f7e4] An eligible student who is undertaking a distance learning course does not qualify for any fee support under this Part in respect of that course unless the Welsh Ministers consider that the student is undertaking the course in Wales on the first day of the first academic year.
 
-(5A)[^key-2c1c555ec7d5be4f9db66c117bfe46bb] Paragraph (5) does not apply where—
+(5A)[^c-2c1c555ec7d5be4f9db66c117bfe46bb] Paragraph (5) does not apply where—
 
 - (a) the student (“S”) or a close relative of S is a member of the armed forces,
 - (b) S is not undertaking the course in Wales on the first day of the first academic year, and
@@ -43,18 +43,18 @@ summary: ''
 
 (6) An eligible student who is undertaking a distance learning course will no longer qualify for any fee support under this Part in respect of that course if the Welsh Ministers consider that the student is undertaking the course outside the United Kingdom.
 
-(7)[^key-8ca2f60dc79e03a1d953b3e619e79f46] But paragraph (6) does not apply where the student is undertaking the course outside the United Kingdom because the student or a close relative of the student is serving as a member of the armed forces.
+(7)[^c-8ca2f60dc79e03a1d953b3e619e79f46] But paragraph (6) does not apply where the student is undertaking the course outside the United Kingdom because the student or a close relative of the student is serving as a member of the armed forces.
 
 ## Annotations
 
-[^key-271324deb38a5e7f0446d9b2e65091ca]: Commencement: Reg. 13 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-271324deb38a5e7f0446d9b2e65091ca]: Commencement: Reg. 13 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
 [^f00049]: Footnote: [S.I. 1999/2263](https://www.legislation.gov.uk/uksi/1999/2263), amended by [S.I. 2001/2893](https://www.legislation.gov.uk/uksi/2001/2893).
 
 [^f00050]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.
 
-[^key-486767e8ee0444dfe6dd1425c4b9f7e4]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/5) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(a)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/a)
+[^c-486767e8ee0444dfe6dd1425c4b9f7e4]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/5) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(a)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/a)
 
-[^key-2c1c555ec7d5be4f9db66c117bfe46bb]: Textual amendment: [Reg. 13(5A)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/5A) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(b)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/b)
+[^c-2c1c555ec7d5be4f9db66c117bfe46bb]: Textual amendment: [Reg. 13(5A)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/5A) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(b)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/b)
 
-[^key-8ca2f60dc79e03a1d953b3e619e79f46]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/7) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(c)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/c)
+[^c-8ca2f60dc79e03a1d953b3e619e79f46]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/wsi/2017/47/regulation/13/7) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [25(c)](https://www.legislation.gov.uk/wsi/2018/814/regulation/25/c)

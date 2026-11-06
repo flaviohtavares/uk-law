@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-0bbe53e448972acb041b035a4c531c5d] Where the calculation is for the purposes of section 27BI, the calculation date is—
+(A1)[^c-0bbe53e448972acb041b035a4c531c5d] Where the calculation is for the purposes of section 27BI, the calculation date is—
 
 - (a) where the complaint is under section 27BG(1), (2), (3) or (7), the latest day of the reference period to which the complaint relates on which the worker was employed by the employer under a worker’s contract;
 - (b) where the complaint is under section 27BG(8)—
@@ -38,9 +38,9 @@ summary: ''
 
 (3) Where the calculation is for the purposes of section 56, the calculation date is the day of the appointment.
 
-(3A)[^key-1e5fb6bd086d67030de8ddcf4e1e0d70] Where the calculation is for the purposes of section 57ZF, the calculation date is the day of the appointment.
+(3A)[^c-1e5fb6bd086d67030de8ddcf4e1e0d70] Where the calculation is for the purposes of section 57ZF, the calculation date is the day of the appointment.
 
-(3B)[^key-990edd3d4ef7158b082679e3b6cde287] Where the calculation is for the purposes of section 57ZK or 57ZM, the calculation date is the day of the appointment.
+(3B)[^c-990edd3d4ef7158b082679e3b6cde287] Where the calculation is for the purposes of section 57ZK or 57ZM, the calculation date is the day of the appointment.
 
 (4) Where the calculation is for the purposes of section 62, the calculation date is the day on which the time off was taken or on which it is alleged the time off should have been permitted.
 
@@ -61,11 +61,11 @@ summary: ''
 
 [^c20112411]: Modification: Ss. 220-228 applied (6.4.2006 with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2006/246/regulation/16/4) (with [reg. 21(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/5))
 
-[^key-0bbe53e448972acb041b035a4c531c5d]: Textual amendment: S. 225(A1)(B1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2025/36/schedule/2/paragraph/27); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(36)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/36/c)
+[^c-0bbe53e448972acb041b035a4c531c5d]: Textual amendment: S. 225(A1)(B1) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2025/36/schedule/2/paragraph/27); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(36)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/36/c)
 
-[^key-1e5fb6bd086d67030de8ddcf4e1e0d70]: Textual amendment: S. 225(3A) inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
+[^c-1e5fb6bd086d67030de8ddcf4e1e0d70]: Textual amendment: S. 225(3A) inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
 
-[^key-990edd3d4ef7158b082679e3b6cde287]: Textual amendment: S. 225(3B) inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/d), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-990edd3d4ef7158b082679e3b6cde287]: Textual amendment: S. 225(3B) inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/d), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
 
 [^c16336911]: Textual amendment: S. 225(4A) inserted (1.9.1999) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1998/30/section/44/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1998/30/schedule/3/paragraph/14) (with [s. 42(8)](https://www.legislation.gov.uk/ukpga/1998/30/section/42/8)); [S.I. 1999/987](https://www.legislation.gov.uk/uksi/1999/987), [art. 2](https://www.legislation.gov.uk/uksi/1999/987/article/2)
 

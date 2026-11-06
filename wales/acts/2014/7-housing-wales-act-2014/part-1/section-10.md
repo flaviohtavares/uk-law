@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Meaning of lettings work[^key-4197d91597cd6f2a70737253a1e605f1][^key-2d22e5e72115ac23f2f3257ff3a044ef]
+## 10. Meaning of lettings work[^c-4197d91597cd6f2a70737253a1e605f1][^c-2d22e5e72115ac23f2f3257ff3a044ef]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ when done by a person who—
 
 ## Annotations
 
-[^key-4197d91597cd6f2a70737253a1e605f1]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/7/section/10) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-4197d91597cd6f2a70737253a1e605f1]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/7/section/10) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-2d22e5e72115ac23f2f3257ff3a044ef]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/7/section/10) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-2d22e5e72115ac23f2f3257ff3a044ef]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/7/section/10) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

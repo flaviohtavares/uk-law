@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — INDUSTRIAL TRIBUNALS RULES OF PROCEDURE[^key-2a5468f6af0b2384dff9dd1b131b476c]
+## SCHEDULE 1 — INDUSTRIAL TRIBUNALS RULES OF PROCEDURE[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *Extent: N.I.*
 
@@ -24,104 +24,104 @@ summary: ''
 
 Regulations 2(2), (6) and (10), 9, 10(1), and 11(2)
 
-### 1. Originating application[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 1. Originating application[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Action upon receipt of originating application[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 2. Action upon receipt of originating application[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Appearance by respondent[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 3. Appearance by respondent[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Case management[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 4. Case management[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Time and place of hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 5. Time and place of hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Entitlement to bring or contest proceedings[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 6. Entitlement to bring or contest proceedings[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Pre-hearing review[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 7. Pre-hearing review[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7A. Special advocate[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 7A. Special advocate[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7B. Reasons for the tribunal’s decision in national security cases[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 7B. Reasons for the tribunal’s decision in national security cases[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. National security[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 8. National security[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Dismissals in connection with industrial action[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 9. Dismissals in connection with industrial action[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 10. The hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10A.**[^key-2a5468f6af0b2384dff9dd1b131b476c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^c-2a5468f6af0b2384dff9dd1b131b476c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Procedure at hearing[^key-2a5468f6af0b2384dff9dd1b131b476c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Decision of tribunal[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 11. Procedure at hearing[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Review of tribunal’s decision[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 12. Decision of tribunal[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Costs[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 13. Review of tribunal’s decision[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Miscellaneous powers[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 14. Costs[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Restricted reporting orders[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 15. Miscellaneous powers[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Extension of time[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 16. Restricted reporting orders[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Devolution issues[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 17. Extension of time[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Joinder and representative respondents[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 18. Devolution issues[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Combined proceedings[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 19. Joinder and representative respondents[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. References to the European Court of Justice[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 20. Combined proceedings[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Notices, etc.[^key-2a5468f6af0b2384dff9dd1b131b476c]
+### 21. References to the European Court of Justice[^c-2a5468f6af0b2384dff9dd1b131b476c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Notices, etc.[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

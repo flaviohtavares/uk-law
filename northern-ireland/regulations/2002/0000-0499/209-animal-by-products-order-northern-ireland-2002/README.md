@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Animal By-Products Order (Northern Ireland) 2002 (revoked)[^key-ad1bee8a3efab7ae7e569e53c223e737]
+Animal By-Products Order (Northern Ireland) 2002 (revoked)[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 8th July 2002
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Introduction[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### Part I — Introduction[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — Interpretation and scope](part-i/section-2.md)
 - [Section 3 — Extension of definitions of animals and poultry](part-i/section-3.md)
 
-### Part II — Disposal of High Risk and Low Risk Material[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### Part II — Disposal of High Risk and Low Risk Material[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -78,7 +78,7 @@ Coming into operation
 - [Section 18 — Operation of knackers' yards and supply of feeding stuffs from knacker’s yards](part-ii/section-18.md)
 - [Section 19 — Records for animal by-products](part-ii/section-19.md)
 
-### Part III — Catering waste intended for feeding to livestock[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### Part III — Catering waste intended for feeding to livestock[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ Coming into operation
 - [Section 24 — Transport of catering waste](part-iii/section-24.md)
 - [Section 25 — Catering waste from a means of transport from outside Northern Ireland](part-iii/section-25.md)
 
-### Part IV — General[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### Part IV — General[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -115,14 +115,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1bee8a3efab7ae7e569e53c223e737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)
+[^c-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)

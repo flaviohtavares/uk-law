@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Guidance published by the IFR[^key-a217eef1686d587024f017599c1d7eec]
+## 12. Guidance published by the IFR[^c-a217eef1686d587024f017599c1d7eec]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a217eef1686d587024f017599c1d7eec]: Commencement: S. 12 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-a217eef1686d587024f017599c1d7eec]: Commencement: S. 12 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

@@ -16,82 +16,82 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — National Council for Education and Training for Wales[^key-41d52d02fc5a9bcde07be501537c4fb1]
+## SCHEDULE 4 — National Council for Education and Training for Wales[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 *Extent: E+W*
 
 Section 30.
 
-### Chief executive[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Chief executive[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**1.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure of members[^key-41d52d02fc5a9bcde07be501537c4fb1]
-
-**No longer in force.**
-
-**2.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Salaries, pensions, Et ceteralaetc[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Tenure of members[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**4.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-41d52d02fc5a9bcde07be501537c4fb1]
+**3.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
-
-**5.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Delegation of functions[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Salaries, pensions, Et ceteralaetc[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**7.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Members’ interests[^key-41d52d02fc5a9bcde07be501537c4fb1]
-
-**No longer in force.**
-
-**8.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Proceedings[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Staff[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**9.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Seal and proof of instruments[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Delegation of functions[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**12.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Accounts[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Members’ interests[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**14.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Council’s status[^key-41d52d02fc5a9bcde07be501537c4fb1]
+### Proceedings[^c-41d52d02fc5a9bcde07be501537c4fb1]
 
 **No longer in force.**
 
-**15.**[^key-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Seal and proof of instruments[^c-41d52d02fc5a9bcde07be501537c4fb1]
+
+**No longer in force.**
+
+**12.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Accounts[^c-41d52d02fc5a9bcde07be501537c4fb1]
+
+**No longer in force.**
+
+**14.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Council’s status[^c-41d52d02fc5a9bcde07be501537c4fb1]
+
+**No longer in force.**
+
+**15.**[^c-41d52d02fc5a9bcde07be501537c4fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41d52d02fc5a9bcde07be501537c4fb1]: Textual amendment: Sch. 4 omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/80) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-41d52d02fc5a9bcde07be501537c4fb1]: Textual amendment: Sch. 4 omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/80) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))

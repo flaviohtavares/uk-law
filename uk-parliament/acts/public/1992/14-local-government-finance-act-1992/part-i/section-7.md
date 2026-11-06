@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where on any day two or more persons fall within subsection (2) or (3) above, they shall each be jointly and severally liable to pay the council tax in respect of the dwelling and that day.
 
-(5) Subsections (4) and (4A) *(Extent: W)*[^key-f5c54dc510690371d3e58a3311bd6e4b] of section 6 above shall apply for the purposes of subsection (4) above as they apply *(Extent: W)* for the purposes of subsection (3) of that section.
+(5) Subsections (4) and (4A) *(Extent: W)*[^c-f5c54dc510690371d3e58a3311bd6e4b] of section 6 above shall apply for the purposes of subsection (4) above as they apply *(Extent: W)* for the purposes of subsection (3) of that section.
 
 (6) In this section “**caravan**” shall be construed in accordance with Part I of the [^c12072931]Caravan Sites and Control of Development Act 1960.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5c54dc510690371d3e58a3311bd6e4b]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/7/5) substituted (1.4.2022) by [The Council Tax (Joint and Several Liability of Care Leavers) (Wales) Regulations 2022 (S.I. 2022/210)](https://www.legislation.gov.uk/wsi/2022/210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/210/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/210/regulation/2/3)
+[^c-f5c54dc510690371d3e58a3311bd6e4b]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/7/5) substituted (1.4.2022) by [The Council Tax (Joint and Several Liability of Care Leavers) (Wales) Regulations 2022 (S.I. 2022/210)](https://www.legislation.gov.uk/wsi/2022/210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/210/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/210/regulation/2/3)
 
 [^c12072931]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61QI. Permission granted by street vote development orders[^key-514558ce6e40c22f8b62e165d308af90]
+## 61QI. Permission granted by street vote development orders[^c-514558ce6e40c22f8b62e165d308af90]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ the development may, despite the withdrawal of the permission, be completed.
 
 ## Annotations
 
-[^key-514558ce6e40c22f8b62e165d308af90]: Textual amendment: [Ss. 61QA-61QM](https://www.legislation.gov.uk/ukpga/1990/8/section/61QA) and cross-heading inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/106/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)
+[^c-514558ce6e40c22f8b62e165d308af90]: Textual amendment: [Ss. 61QA-61QM](https://www.legislation.gov.uk/ukpga/1990/8/section/61QA) and cross-heading inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/106/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)

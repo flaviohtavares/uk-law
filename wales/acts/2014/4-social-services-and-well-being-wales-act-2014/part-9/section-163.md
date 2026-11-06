@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Arrangements to promote co-operation: children[^key-5b947f743b2c5be5763003e998ad84f8]
+## 163. Arrangements to promote co-operation: children[^c-5b947f743b2c5be5763003e998ad84f8]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b947f743b2c5be5763003e998ad84f8]: Commencement: S. 163 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-5b947f743b2c5be5763003e998ad84f8]: Commencement: S. 163 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

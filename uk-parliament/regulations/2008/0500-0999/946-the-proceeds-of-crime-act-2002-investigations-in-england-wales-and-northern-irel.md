@@ -54,15 +54,15 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 Accordingly, the Secretary of State makes the following Order—
 
-## 1. Citation and commencement[^key-3f0c6b8c9446d193d14182b7c2d13432]
+## 1. Citation and commencement[^c-3f0c6b8c9446d193d14182b7c2d13432]
 
 This Order may be cited as the Proceeds of Crime Act 2002 (Investigations in England, Wales and Northern Ireland: Code of Practice) Order 2008 and shall come into force on 1st April 2008.
 
-## 2. Revised code of practice[^key-5f530fa40333d1b1bb96b56fc27a7407]
+## 2. Revised code of practice[^c-5f530fa40333d1b1bb96b56fc27a7407]
 
 Subject to article 3, the revised code of practice entitled “Code of Practice issued under section 377 of the Proceeds of Crime Act 2002” laid before Parliament on 18th February 2008 shall come into operation on 1st April 2008.
 
-## 3. Exercise of functions at time of coming into operation[^key-f38d235155f033191c4d372703262c33]
+## 3. Exercise of functions at time of coming into operation[^c-f38d235155f033191c4d372703262c33]
 
 The revised code of practice referred to in article 2 shall apply to the exercise of any function under Chapter 2 of Part 8 of the Proceeds of Crime Act 2002 by a person who must comply with the revised code of practice under section 377(5) of that Act[^f00003] after midnight on 31st March 2008, notwithstanding that the person may have started to exercise the function before that time.
 
@@ -90,10 +90,10 @@ Article 3 of the Order makes provision in relation to persons who begin exercisi
 
 [^f00002]: Footnote: The code of practice was previously brought into operation on 23rd February 2003 in accordance with [S.I. 2003/334](https://www.legislation.gov.uk/uksi/2003/334).
 
-[^key-3f0c6b8c9446d193d14182b7c2d13432]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
+[^c-3f0c6b8c9446d193d14182b7c2d13432]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
 
-[^key-5f530fa40333d1b1bb96b56fc27a7407]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
+[^c-5f530fa40333d1b1bb96b56fc27a7407]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
 
-[^key-f38d235155f033191c4d372703262c33]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
+[^c-f38d235155f033191c4d372703262c33]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/946/article/1)
 
 [^f00003]: Footnote: The persons who must comply with the revised code of practice are the Director General of the Serious Organised Crime Agency, other members of the staff of the Serious Organised Crime Agency, accredited financial investigators, constables and officers of Revenue and Customs, see section 377(1) of the Proceeds of Crime Act 2002 as amended by paragraph 114 of Schedule 8 to the Serious Crime Act 2007.

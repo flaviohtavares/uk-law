@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 83. Mutual assistance[^key-7bb16668e52757f6743499fb5fd3bccd]
+## Article 83. Mutual assistance[^c-7bb16668e52757f6743499fb5fd3bccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb16668e52757f6743499fb5fd3bccd]: Textual amendment: [Art. 83](https://www.legislation.gov.uk/eur/2013/1306/article/83) omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [7(22)](https://www.legislation.gov.uk/uksi/2019/763/regulation/7/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bb16668e52757f6743499fb5fd3bccd]: Textual amendment: [Art. 83](https://www.legislation.gov.uk/eur/2013/1306/article/83) omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [7(22)](https://www.legislation.gov.uk/uksi/2019/763/regulation/7/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

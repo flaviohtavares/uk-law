@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. No entitlement to ill-health pension[^key-3faa83006635c1bcce23a96acde0e3a1]
+## 108. No entitlement to ill-health pension[^c-3faa83006635c1bcce23a96acde0e3a1]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3faa83006635c1bcce23a96acde0e3a1]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2014/292/regulation/108) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3faa83006635c1bcce23a96acde0e3a1]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2014/292/regulation/108) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

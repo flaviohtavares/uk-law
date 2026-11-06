@@ -44,8 +44,8 @@ summary: ''
 
 .
 
-(7)[^key-cf1681344303a6a85f5e62e1bce24ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cf1681344303a6a85f5e62e1bce24ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf1681344303a6a85f5e62e1bce24ea2]: Textual amendment: S. 10(7) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(6)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/6/b)
+[^c-cf1681344303a6a85f5e62e1bce24ea2]: Textual amendment: S. 10(7) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(6)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Amendment of section 85 (Welsh text)[^key-75456cee577c6c953fb5319c947d5e7f]
+## 131. Amendment of section 85 (Welsh text)[^c-75456cee577c6c953fb5319c947d5e7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75456cee577c6c953fb5319c947d5e7f]: Commencement: Reg. 131 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-75456cee577c6c953fb5319c947d5e7f]: Commencement: Reg. 131 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

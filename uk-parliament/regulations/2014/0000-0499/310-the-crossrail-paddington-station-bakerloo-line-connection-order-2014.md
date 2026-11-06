@@ -49,15 +49,15 @@ The Secretary of State, having considered the objections made and not withdrawn,
 
 Notice of the Secretary of State’s determination was published in the London Gazette on 11th February 2014.
 
-The Secretary of State, in exercise of the powers conferred by sections 1 and 5 of, and paragraphs 1 to 5, 7, 8, 10, 11, 15 and 16 of Schedule 1 to, the 1992 Act and by section 48 of the Crossrail Act 2008 makes the following Order—[^key-e2e67abc9edc308c4848709cbb7194cd]
+The Secretary of State, in exercise of the powers conferred by sections 1 and 5 of, and paragraphs 1 to 5, 7, 8, 10, 11, 15 and 16 of Schedule 1 to, the 1992 Act and by section 48 of the Crossrail Act 2008 makes the following Order—[^c-e2e67abc9edc308c4848709cbb7194cd]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-c9abce2e514c105a78fdd319f9a86620]
+### 1. Citation and commencement[^c-c9abce2e514c105a78fdd319f9a86620]
 
 This Order may be cited as the Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 and comes into force on 11th March 2014.
 
-### 2. Interpretation[^key-7a1201b36da4fe96673a621e4a6ac3e0]
+### 2. Interpretation[^c-7a1201b36da4fe96673a621e4a6ac3e0]
 
 (1) In this Order—
 
@@ -100,7 +100,7 @@ This Order may be cited as the Crossrail (Paddington Station Bakerloo Line Conne
 
 ### Principal Powers
 
-#### 3. Power to construct and maintain works[^key-ab43b12e42542beff639d0bd3fd43078]
+#### 3. Power to construct and maintain works[^c-ab43b12e42542beff639d0bd3fd43078]
 
 (1) The promoter may construct and maintain the scheduled work.
 
@@ -121,7 +121,7 @@ This Order may be cited as the Crossrail (Paddington Station Bakerloo Line Conne
 
 (5) Paragraphs (3) and (4) only authorise the carrying out or maintenance of works within the limits of deviation or the limits of land to be acquired or used.
 
-#### 4. Power to deviate[^key-4aedde17d31e2363dffa09d94d769b7f]
+#### 4. Power to deviate[^c-4aedde17d31e2363dffa09d94d769b7f]
 
 In constructing or maintaining the scheduled work, the promoter may—
 
@@ -132,13 +132,13 @@ In constructing or maintaining the scheduled work, the promoter may—
 
 ### Streets
 
-#### 5. Stopping up of highways[^key-e0455d0aad2462dd6c2aff85815aac6d]
+#### 5. Stopping up of highways[^c-e0455d0aad2462dd6c2aff85815aac6d]
 
 (1) The promoter may exercise the power conferred by paragraph 1 of Schedule 3 (highways) to the principal Act to stop up London Street in the City of Westminster between points P1, P2, P3, P4 and P1 (which points are shown on the works and land plan) for purposes connected with the authorised works.
 
 (2) Paragraph (1) has effect without affecting article 18 (application of the principal Act to authorised works).
 
-#### 6. Temporary interference[^key-2688c5cf2a125784e65a4039aaf8f3ae]
+#### 6. Temporary interference[^c-2688c5cf2a125784e65a4039aaf8f3ae]
 
 (1) The promoter may exercise the powers conferred by paragraph 5(1) of Schedule 3 (highways) to the principal Act to temporarily stop up and alter the streets specified in columns (1) and (2) of Schedule 2 (streets to be temporarily stopped up) to the extent specified in column (3) of that Schedule.
 
@@ -146,7 +146,7 @@ In constructing or maintaining the scheduled work, the promoter may—
 
 (3) Paragraph (1) has effect without affecting article 18 (application of the principal Act to authorised works).
 
-#### 7. Protective works to buildings, roads and apparatus of a statutory undertaker[^key-6d088efe60f4a13c84719d29c74f62d1]
+#### 7. Protective works to buildings, roads and apparatus of a statutory undertaker[^c-6d088efe60f4a13c84719d29c74f62d1]
 
 (1) Subject to the following provisions of this article, the promoter may at its own expense and from time to time carry out such protective works to—
 
@@ -203,13 +203,13 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 ### Powers of acquisition
 
-#### 8. Power to acquire land[^key-82b1084fce2e02666a6d69017a0de36c]
+#### 8. Power to acquire land[^c-82b1084fce2e02666a6d69017a0de36c]
 
 (1) The promoter may acquire compulsorily so much of the land shown on the works and land plan within the limits of deviation as land to be acquired compulsorily and described in the book of reference as may be required for the purposes of the authorised works and may use any land so acquired for those purposes or for any other purposes that are ancillary to the promoter’s statutory undertaking.
 
 (2) This article is subject to article 12 (acquisition of land limited to subsoil lying more than 9 metres beneath surface) and article 13 (temporary use of land for construction of works).
 
-#### 9. Application of Part 1 of the 1965 Act[^key-ac8a3e6d3437981ac2e7d805f4bdb1fa]
+#### 9. Application of Part 1 of the 1965 Act[^c-ac8a3e6d3437981ac2e7d805f4bdb1fa]
 
 (1) Part 1 of the 1965 Act, in so far as not modified by or inconsistent with the provisions of this Order, applies to the acquisition of land under this Order—
 
@@ -218,7 +218,7 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 (2) Part 1 of the 1965 Act, as applied by paragraph (1), has effect as if section 4 (which provides a time limit for compulsory purchase of land) and paragraph 3(3) of Schedule 3 (which makes provision as to the giving of bonds) were omitted.
 
-#### 10. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-62a42bb36f62ec58d33bb6ecc47021d5]
+#### 10. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-62a42bb36f62ec58d33bb6ecc47021d5]
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981[^f00010] applies as if this Order were a compulsory purchase order.
 
@@ -253,7 +253,7 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 (8) References to the 1965 Act are construed as references to that Act as applied to the acquisition of land under article 8 (power to acquire land)*.*
 
-#### 11. Power to acquire new rights[^key-98f4731298d1ce38666ba6554fbecc13]
+#### 11. Power to acquire new rights[^c-98f4731298d1ce38666ba6554fbecc13]
 
 (1) The promoter may acquire compulsorily such easements or other rights over any land referred to in paragraph (1) of article 8 (power to acquire land) as may be required for any purpose for which that land may be acquired under that provision, by creating them as well as by acquiring easements or other rights already in existence.
 
@@ -261,7 +261,7 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 (3) Subject to section 8 of the 1965 Act (as substituted by paragraph 5 of Schedule 3), where the promoter acquires a right over land under paragraph (1) the promoter is not required to acquire a greater interest in that land.
 
-#### 12. Acquisition of land limited to subsoil lying more than 9 metres beneath surface[^key-77e3b733ca4e32eca7d634eda550c90c]
+#### 12. Acquisition of land limited to subsoil lying more than 9 metres beneath surface[^c-77e3b733ca4e32eca7d634eda550c90c]
 
 (1) This article applies to the land specified in Schedule 4 (land of which only subsoil more than 9 metres beneath surface may be acquired).
 
@@ -277,7 +277,7 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 ### Temporary possession of land
 
-#### 13. Temporary use of land for construction of works[^key-058be39a315183f6965aa9cf87f1f296]
+#### 13. Temporary use of land for construction of works[^c-058be39a315183f6965aa9cf87f1f296]
 
 (1) The promoter may, in connection with the carrying out of the authorised works—
 
@@ -311,7 +311,7 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 ### Compensation
 
-#### 14. Disregard of certain interests and improvements[^key-c8989bb09933bf48d3622624d28a3ad9]
+#### 14. Disregard of certain interests and improvements[^c-c8989bb09933bf48d3622624d28a3ad9]
 
 (1) In assessing the compensation payable to any person on the acquisition from that person of any land under this Order, the tribunal must not take into account—
 
@@ -322,7 +322,7 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 (2) In paragraph (1) “relevant land” means the land acquired from the person concerned or any other land with which that person is, or was at the time when the building was erected, the works executed or the improvement or alteration made, directly or indirectly concerned.
 
-#### 15. Set-off for enhancement in value of retained land[^key-adaf2438a6e330a6295d5731f2e043fe]
+#### 15. Set-off for enhancement in value of retained land[^c-adaf2438a6e330a6295d5731f2e043fe]
 
 (1) In assessing the compensation payable to any person in respect of the acquisition from that person under this Order of any land (including the subsoil) the tribunal must set off against the value of the land so acquired any increase in value of any contiguous or adjacent land belonging to that person in the same capacity which will accrue to that person by reason of the construction of the authorised works.
 
@@ -337,7 +337,7 @@ which will accrue to that person by reason of the construction of the authorised
 
 ### Supplementary
 
-#### 16. Acquisition of part of certain properties[^key-dc2092f6c0c26a034ea60db6f96ddafd]
+#### 16. Acquisition of part of certain properties[^c-dc2092f6c0c26a034ea60db6f96ddafd]
 
 (1) This article applies instead of section 8(1) of the 1965 Act (as applied by article 9 (application of Part 1 of the 1965 Act)) in any case where—
 
@@ -382,7 +382,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, the promoter must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
 
-#### 17. Time limit for exercise of powers of acquisition[^key-ac7cb3ecf9324daee732e9fc1854168b]
+#### 17. Time limit for exercise of powers of acquisition[^c-ac7cb3ecf9324daee732e9fc1854168b]
 
 (1) After the end of the period of 5 years beginning with the day on which this Order comes into force—
 
@@ -393,7 +393,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## PART 4 — MISCELLANEOUS AND GENERAL
 
-### 18. Application of the principal Act to authorised works[^key-badc52bb70c0c094c42569cd5fa6f4c4]
+### 18. Application of the principal Act to authorised works[^c-badc52bb70c0c094c42569cd5fa6f4c4]
 
 (1) Schedule 6 (application of provisions of the principal Act) has effect.
 
@@ -401,7 +401,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (3) Without limitation on the scope of paragraph (2), in determining any application or request by the promoter to any body for an approval or consent under the provisions of the principal Act (including those provisions as applied by this Order), that body must have regard (so far as relevant) to the combined effect of the works authorised by this Order and the works authorised by the principal Act for the purposes of the construction of which the promoter is the nominated undertaker.
 
-### 19. Modification of provisions in an agreement relating to the protection of Network Rail[^key-9dd10ebf5fe6dfbc8a44b53418b4c304]
+### 19. Modification of provisions in an agreement relating to the protection of Network Rail[^c-9dd10ebf5fe6dfbc8a44b53418b4c304]
 
 (1) The promoter is bound by the obligations of the Secretary of State for Transport under the relevant agreement as if it had been a party to that agreement.
 
@@ -416,7 +416,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (5) In this article “the relevant agreement” means the agreement dated 9th October 2006 between the Secretary of State for Transport and Network Rail relating to protective provisions in respect of the Crossrail Project.
 
-### 20. Compliance with Environmental Minimum Requirements[^key-4bc417a2bd0e5c328ffc240174538e45]
+### 20. Compliance with Environmental Minimum Requirements[^c-4bc417a2bd0e5c328ffc240174538e45]
 
 (1) Any provisions of any development agreement requiring compliance with Crossrail Environmental Minimum Requirements apply to the promoter as if the authorised works were included in the works authorised by the principal Act.
 
@@ -425,7 +425,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 - (i) “development agreement” means an agreement to which the Secretary of State for Transport and the promoter are a party and under which the promoter has responsibilities in relation to the design, construction, financing or maintenance of Crossrail; and
 - (ii) “Environmental Minimum Requirements” means the undertakings and assurances given to Parliament and petitioners by the Secretary of State for Transport during the passage of the Crossrail Bill specified in the Crossrail Register of Undertakings and Assurances published by the Department for Transport together with the Crossrail Planning and Heritage Memorandum, Construction Code and Environmental Memorandum.
 
-### 21. Obstruction of construction of authorised works[^key-bfcd00a2159f96d14484637524f0d523]
+### 21. Obstruction of construction of authorised works[^c-bfcd00a2159f96d14484637524f0d523]
 
 Any person who, without reasonable excuse—
 
@@ -434,7 +434,7 @@ Any person who, without reasonable excuse—
 
 is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 22. Traffic signs[^key-ff41392990962dadc866455ddf832d29]
+### 22. Traffic signs[^c-ff41392990962dadc866455ddf832d29]
 
 (1) The promoter may, for the purposes of, or in connection with the construction or operation of, the authorised works, place or maintain traffic signs of a type prescribed by regulations made under section 64(1)(a) (general provisions as to traffic signs) of the 1984 Act or of a character authorised by the Secretary of State on any street in connection with any instrument made under article 23 (traffic regulation) or any other street as reasonably required for conveying information to traffic.
 
@@ -449,7 +449,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 (5) Expressions used in this article and in the 1984 Act have the same meaning in this article as in that Act.
 
-### 23. Traffic regulation[^key-35b1ea07e6ed3662da1c8f7d843e1b43]
+### 23. Traffic regulation[^c-35b1ea07e6ed3662da1c8f7d843e1b43]
 
 (1) Subject to the provisions of this article the promoter may, for the purposes and during the construction of the authorised works and with the consent of the traffic authority in whose area the relevant street is situated (such consent not to be unreasonably withheld)—
 
@@ -475,7 +475,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 - “statutory utility” means a statutory undertaker for the purposes of the 1980 Act or a public communications provider; and
 - “traffic authority” has the same meaning as in the 1984 Act.
 
-### 24. Agreements with the Company[^key-a567825862f07de8b22c25a003ea33d1]
+### 24. Agreements with the Company[^c-a567825862f07de8b22c25a003ea33d1]
 
 (1) The promoter and the Company may enter into and carry into effect agreements with respect to the construction, maintenance, use and operation of—
 
@@ -496,7 +496,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 together with any rights and obligations (whether or not statutory) of the Company or the promoter relating to the works, lands or property referred to in sub-paragraphs (a) or (b).
 
-### 25. Defence to proceedings in respect of statutory nuisance[^key-52f22c33e20ac85a42d52a35859f63bc]
+### 25. Defence to proceedings in respect of statutory nuisance[^c-52f22c33e20ac85a42d52a35859f63bc]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00014] (summary proceedings by person aggrieved by statutory nuisances) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order is to be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows—
 
@@ -512,13 +512,13 @@ do not apply where the consent relates to the use of premises by the promoter fo
 
 (3) The provisions of this article do not affect the application to the authorised works of section 122 of the Railways Act 1993[^f00016] (statutory authority as a defence to actions in nuisance, etc.) or any rule of common law having similar effect.
 
-### 26. Trespass[^key-6f86f98a41a92e7f65c22ffaeacd8baf]
+### 26. Trespass[^c-6f86f98a41a92e7f65c22ffaeacd8baf]
 
 (1) Any person who trespasses on any part of the land occupied by the promoter for the purposes of constructing the scheduled work is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (2) No person is to be convicted of an offence under this article unless it is shown that a notice warning the public not to trespass on such land was clearly exhibited and maintained in close proximity to all such land occupied by the promoter.
 
-### 27. Disclosure of confidential information[^key-a458606bd838576efacbf4a3bc7c08a5]
+### 27. Disclosure of confidential information[^c-a458606bd838576efacbf4a3bc7c08a5]
 
 A person who—
 
@@ -527,11 +527,11 @@ A person who—
 
 is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale unless the disclosure is made in the course of that person’s performance of a duty in connection with the purposes for which the person was authorised to enter the land.
 
-### 28. Certification of plans etc.[^key-1c3d17f9fef9c0527eaa19b3cb325713]
+### 28. Certification of plans etc.[^c-1c3d17f9fef9c0527eaa19b3cb325713]
 
 The promoter must, as soon as practicable after the making of this Order, submit copies of the book of reference and the works and land plan to the Secretary of State for certification that they are, respectively, true copies of the book of reference and the works and land plan referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 29. Service of notices[^key-14a92a824db2e665cc0ed2e3f8863e49]
+### 29. Service of notices[^c-14a92a824db2e665cc0ed2e3f8863e49]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -563,11 +563,11 @@ The promoter must, as soon as practicable after the making of this Order, submit
 
 (9) This article does not exclude the employment of any method of service not expressly provided for by it.
 
-### 30. No double recovery[^key-d51acd7751f11ca7413e836de1b9ec13]
+### 30. No double recovery[^c-d51acd7751f11ca7413e836de1b9ec13]
 
 Compensation is not payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-### 31. Arbitration[^key-2939e04cd4461eee205067c0322632c6]
+### 31. Arbitration[^c-2939e04cd4461eee205067c0322632c6]
 
 Any difference under any provision of this Order, unless otherwise provided for, must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -583,17 +583,17 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULED WORK[^key-2ed03ee3f3919c57b1e27826d1ea6944]
+## SCHEDULE 1 — SCHEDULED WORK[^c-2ed03ee3f3919c57b1e27826d1ea6944]
 
 Articles 2 and 3
 
-[^key-2ed03ee3f3919c57b1e27826d1ea6944]
+[^c-2ed03ee3f3919c57b1e27826d1ea6944]
 
 In the City of Westminster—
 
 - Work No 1 - A passenger subway incorporating a step free interchange linking the Crossrail (Paddington) Station to the London Underground Bakerloo Line platforms commencing beneath a point 10 metres west of the junction of Winsland Mews with London Street and terminating beneath a point 35 metres east of the junction of Chilworth Street with Eastbourne Terrace.
 
-## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^key-084893d2a94d9ecbb11444fb97af87b6]
+## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^c-084893d2a94d9ecbb11444fb97af87b6]
 
 Article 6
 
@@ -614,9 +614,9 @@ Article 11
 
 ### Compensation enactments
 
-**1.**[^key-f7f0140db2bceb558fb2d5a752b82681] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply with the necessary modifications as respects compensation in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-f7f0140db2bceb558fb2d5a752b82681] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply with the necessary modifications as respects compensation in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-058d27461dc7f02508c3da9ae338439a] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00018] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
+**2.**[^c-058d27461dc7f02508c3da9ae338439a] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00018] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4—
 
@@ -632,20 +632,20 @@ Article 11
 
 ### Application of the 1965 Act
 
-**3.**[^key-ca2c6b6e295e59f719a73a83ffbf7c5c] (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are to be read (according to the requirements of the particular context) as referring to, or as including references to—
+**3.**[^c-ca2c6b6e295e59f719a73a83ffbf7c5c] (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
 - (a) the right acquired or to be acquired; or
 - (b) the land over which the right is or is to be exercisable.
 
 (2) Without limitation on the scope of sub-paragraph (1), Part 1 of the 1965 Act applies in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
 
-**4.**[^key-e962efa67d2520b18cddea66ea034355] For section 7 of the 1965 Act (measure of compensation in case of severance) there is substituted the following section—
+**4.**[^c-e962efa67d2520b18cddea66ea034355] For section 7 of the 1965 Act (measure of compensation in case of severance) there is substituted the following section—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act regard must be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
 .
 
-**5.**[^key-409e9e3fca7376d4143eab48ac0d273a] For section 8 of the 1965 Act (other provisions as to divided land) there is substituted the following—
+**5.**[^c-409e9e3fca7376d4143eab48ac0d273a] For section 8 of the 1965 Act (other provisions as to divided land) there is substituted the following—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)—
 >
@@ -662,7 +662,7 @@ Article 11
 
 .
 
-**6.**[^key-8910b26a5a0a206b84cda03f755d7fd2] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+**6.**[^c-8910b26a5a0a206b84cda03f755d7fd2] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey);
 - (b) paragraph 10(3) of Schedule 1 (owners under incapacity);
@@ -671,13 +671,13 @@ Article 11
 
 are modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**7.**[^key-e08d6b2d64f120a978b193c9a3aae0c9] Section 11 of the 1965 Act (powers of entry) is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right, it has power, exercisable in the equivalent circumstances and subject to the equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
+**7.**[^c-e08d6b2d64f120a978b193c9a3aae0c9] Section 11 of the 1965 Act (powers of entry) is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right, it has power, exercisable in the equivalent circumstances and subject to the equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
 
-**8.**[^key-9f66a21e911368a8ea4f829fd24b0531] Section 20 of the 1965 Act (protection for interests of tenants at will etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+**8.**[^c-9f66a21e911368a8ea4f829fd24b0531] Section 20 of the 1965 Act (protection for interests of tenants at will etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
-**9.**[^key-2cac340836e2b21a9000e4dfe1abbd72] Section 22 of the 1965 Act (interests omitted from purchase) is modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired subject to compliance with that section as respects compensation.
+**9.**[^c-2cac340836e2b21a9000e4dfe1abbd72] Section 22 of the 1965 Act (interests omitted from purchase) is modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired subject to compliance with that section as respects compensation.
 
-## SCHEDULE 4 — LAND OF WHICH ONLY SUBSOIL MORE THAN 9 METRES BENEATH SURFACE MAY BE ACQUIRED[^key-a7428f837b46ceae95874f2d290014e1]
+## SCHEDULE 4 — LAND OF WHICH ONLY SUBSOIL MORE THAN 9 METRES BENEATH SURFACE MAY BE ACQUIRED[^c-a7428f837b46ceae95874f2d290014e1]
 
 Article 12
 
@@ -691,7 +691,7 @@ Article 12
 </tbody>
 </table>
 
-## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-c5e531f0ee7b529f030aef82bf9d2aa5]
+## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-c5e531f0ee7b529f030aef82bf9d2aa5]
 
 Article 13
 
@@ -709,7 +709,7 @@ Article 13
 
 Article 18
 
-**1.**[^key-e28f55ffe74f067d67a63ec240327097] The following provisions of the principal Act apply to the matters which are the subject of this Order on the general assumptions mentioned in paragraph 2 and, where any special assumption is mentioned in paragraph 3 for any such provision, on the special assumptions for it so mentioned—
+**1.**[^c-e28f55ffe74f067d67a63ec240327097] The following provisions of the principal Act apply to the matters which are the subject of this Order on the general assumptions mentioned in paragraph 2 and, where any special assumption is mentioned in paragraph 3 for any such provision, on the special assumptions for it so mentioned—
 
 - (a) sections 8 (extinguishment of private rights of way), 9 (extinguishment of rights of statutory undertakers etc), 10 (planning: general), 11 (permitted developments: time limit), 12 (fees for planning applications), 13 (power to disapply section 10(1)), 15 (extension of permitted development rights) and section 20 (control of construction sites: appeals);
 - (b) paragraphs 8 (discharge of water) and 9 (entry for preparatory purposes) of Schedule 2 (works: further and supplementary provisions);
@@ -720,7 +720,7 @@ Article 18
 
 ### The general assumptions
 
-**2.**[^key-e22b396be2831a6d302d5b47abf65dcd] The general assumptions are that references in the principal Act in whatever form (including references inserted or substituted by any provision of that Act in any other enactment)—
+**2.**[^c-e22b396be2831a6d302d5b47abf65dcd] The general assumptions are that references in the principal Act in whatever form (including references inserted or substituted by any provision of that Act in any other enactment)—
 
 - (a) to that Act were references to this Order;
 - (b) to the nominated undertaker were references to the promoter;
@@ -732,7 +732,7 @@ Article 18
 
 ### The special assumptions
 
-**3.**[^key-1d8f45a41eefe446996485a0df555029] (1) The special assumptions are the assumptions set out in sub-paragraphs (2) to (8), and have effect for the purposes mentioned in paragraph 1.
+**3.**[^c-1d8f45a41eefe446996485a0df555029] (1) The special assumptions are the assumptions set out in sub-paragraphs (2) to (8), and have effect for the purposes mentioned in paragraph 1.
 
 (2) In section 10(4) of the principal Act the reference to statements specified for the purposes of subsection (2)(b) is to be treated as including a reference to the environmental statement submitted with this Order.
 
@@ -754,7 +754,7 @@ Article 18
 
 ### Ancillary matters
 
-**4.**[^key-7d682772fe7035862865e45a33c3cbe7] (1) Regulations made under section 20(4) of the principal Act have effect in relation to appeals referred to arbitration under subsection (7A) of section 60 or 61 of the Control of Pollution Act 1974[^f00021], as inserted by section 20(3) of the principal Act and applied by paragraph 1, as they have effect for appeals referred to arbitration under that subsection in relation to works carried out in exercise of the powers conferred by Part 1 of the principal Act.
+**4.**[^c-7d682772fe7035862865e45a33c3cbe7] (1) Regulations made under section 20(4) of the principal Act have effect in relation to appeals referred to arbitration under subsection (7A) of section 60 or 61 of the Control of Pollution Act 1974[^f00021], as inserted by section 20(3) of the principal Act and applied by paragraph 1, as they have effect for appeals referred to arbitration under that subsection in relation to works carried out in exercise of the powers conferred by Part 1 of the principal Act.
 
 (2) Rules made under section 54(5) of the principal Act apply to an arbitration under this Order as they apply to an arbitration under Part 1 of the principal Act.
 
@@ -780,11 +780,11 @@ A copy of the works and land plans and the book of reference mentioned in this O
 
 [^f00003]: Footnote: [2008 c.18](https://www.legislation.gov.uk/ukpga/2008/18). Section 48 was amended by section 36 of and Schedule 2 to the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-e2e67abc9edc308c4848709cbb7194cd]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/310) modified by 1965 c.56 s. 8(1) (as modified) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/310/schedule/3/paragraph/5)
+[^c-e2e67abc9edc308c4848709cbb7194cd]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/310) modified by 1965 c.56 s. 8(1) (as modified) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/310/schedule/3/paragraph/5)
 
-[^key-c9abce2e514c105a78fdd319f9a86620]: Commencement: Art. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-c9abce2e514c105a78fdd319f9a86620]: Commencement: Art. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-7a1201b36da4fe96673a621e4a6ac3e0]: Commencement: Art. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-7a1201b36da4fe96673a621e4a6ac3e0]: Commencement: Art. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -798,59 +798,59 @@ A copy of the works and land plans and the book of reference mentioned in this O
 
 [^f00009]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22) as amended by the Traffic Management Act [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-ab43b12e42542beff639d0bd3fd43078]: Commencement: Art. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-ab43b12e42542beff639d0bd3fd43078]: Commencement: Art. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-4aedde17d31e2363dffa09d94d769b7f]: Commencement: Art. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-4aedde17d31e2363dffa09d94d769b7f]: Commencement: Art. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-e0455d0aad2462dd6c2aff85815aac6d]: Commencement: Art. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-e0455d0aad2462dd6c2aff85815aac6d]: Commencement: Art. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-2688c5cf2a125784e65a4039aaf8f3ae]: Commencement: Art. 6 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-2688c5cf2a125784e65a4039aaf8f3ae]: Commencement: Art. 6 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-6d088efe60f4a13c84719d29c74f62d1]: Commencement: Art. 7 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-6d088efe60f4a13c84719d29c74f62d1]: Commencement: Art. 7 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-82b1084fce2e02666a6d69017a0de36c]: Commencement: Art. 8 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-82b1084fce2e02666a6d69017a0de36c]: Commencement: Art. 8 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-ac8a3e6d3437981ac2e7d805f4bdb1fa]: Commencement: Art. 9 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-ac8a3e6d3437981ac2e7d805f4bdb1fa]: Commencement: Art. 9 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-62a42bb36f62ec58d33bb6ecc47021d5]: Commencement: Art. 10 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-62a42bb36f62ec58d33bb6ecc47021d5]: Commencement: Art. 10 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00010]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66).
 
-[^key-98f4731298d1ce38666ba6554fbecc13]: Commencement: Art. 11 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-98f4731298d1ce38666ba6554fbecc13]: Commencement: Art. 11 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-77e3b733ca4e32eca7d634eda550c90c]: Commencement: Art. 12 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-77e3b733ca4e32eca7d634eda550c90c]: Commencement: Art. 12 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-058be39a315183f6965aa9cf87f1f296]: Commencement: Art. 13 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-058be39a315183f6965aa9cf87f1f296]: Commencement: Art. 13 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-c8989bb09933bf48d3622624d28a3ad9]: Commencement: Art. 14 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-c8989bb09933bf48d3622624d28a3ad9]: Commencement: Art. 14 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-adaf2438a6e330a6295d5731f2e043fe]: Commencement: Art. 15 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-adaf2438a6e330a6295d5731f2e043fe]: Commencement: Art. 15 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-dc2092f6c0c26a034ea60db6f96ddafd]: Commencement: Art. 16 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-dc2092f6c0c26a034ea60db6f96ddafd]: Commencement: Art. 16 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-ac7cb3ecf9324daee732e9fc1854168b]: Commencement: Art. 17 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-ac7cb3ecf9324daee732e9fc1854168b]: Commencement: Art. 17 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00011]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
 
-[^key-badc52bb70c0c094c42569cd5fa6f4c4]: Commencement: Art. 18 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-badc52bb70c0c094c42569cd5fa6f4c4]: Commencement: Art. 18 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00012]: Footnote: [1992 c.42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-9dd10ebf5fe6dfbc8a44b53418b4c304]: Commencement: Art. 19 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-9dd10ebf5fe6dfbc8a44b53418b4c304]: Commencement: Art. 19 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-4bc417a2bd0e5c328ffc240174538e45]: Commencement: Art. 20 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-4bc417a2bd0e5c328ffc240174538e45]: Commencement: Art. 20 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-bfcd00a2159f96d14484637524f0d523]: Commencement: Art. 21 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-bfcd00a2159f96d14484637524f0d523]: Commencement: Art. 21 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-ff41392990962dadc866455ddf832d29]: Commencement: Art. 22 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-ff41392990962dadc866455ddf832d29]: Commencement: Art. 22 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-35b1ea07e6ed3662da1c8f7d843e1b43]: Commencement: Art. 23 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-35b1ea07e6ed3662da1c8f7d843e1b43]: Commencement: Art. 23 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00013]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-a567825862f07de8b22c25a003ea33d1]: Commencement: Art. 24 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-a567825862f07de8b22c25a003ea33d1]: Commencement: Art. 24 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-52f22c33e20ac85a42d52a35859f63bc]: Commencement: Art. 25 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-52f22c33e20ac85a42d52a35859f63bc]: Commencement: Art. 25 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00014]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -858,58 +858,58 @@ A copy of the works and land plans and the book of reference mentioned in this O
 
 [^f00016]: Footnote: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43) as amended by the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38) and the Railways Act [2005 (c.14)](https://www.legislation.gov.uk/ukpga/2005/14).
 
-[^key-6f86f98a41a92e7f65c22ffaeacd8baf]: Commencement: Art. 26 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-6f86f98a41a92e7f65c22ffaeacd8baf]: Commencement: Art. 26 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-a458606bd838576efacbf4a3bc7c08a5]: Commencement: Art. 27 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-a458606bd838576efacbf4a3bc7c08a5]: Commencement: Art. 27 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-1c3d17f9fef9c0527eaa19b3cb325713]: Commencement: Art. 28 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-1c3d17f9fef9c0527eaa19b3cb325713]: Commencement: Art. 28 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-14a92a824db2e665cc0ed2e3f8863e49]: Commencement: Art. 29 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-14a92a824db2e665cc0ed2e3f8863e49]: Commencement: Art. 29 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00017]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-d51acd7751f11ca7413e836de1b9ec13]: Commencement: Art. 30 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-d51acd7751f11ca7413e836de1b9ec13]: Commencement: Art. 30 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-2939e04cd4461eee205067c0322632c6]: Commencement: Art. 31 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-2939e04cd4461eee205067c0322632c6]: Commencement: Art. 31 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-2ed03ee3f3919c57b1e27826d1ea6944]: Commencement: Sch. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-2ed03ee3f3919c57b1e27826d1ea6944]: Commencement: Sch. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-084893d2a94d9ecbb11444fb97af87b6]: Commencement: Sch. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-084893d2a94d9ecbb11444fb97af87b6]: Commencement: Sch. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-f7f0140db2bceb558fb2d5a752b82681]: Commencement: Sch. 3 para. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-f7f0140db2bceb558fb2d5a752b82681]: Commencement: Sch. 3 para. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-058d27461dc7f02508c3da9ae338439a]: Commencement: Sch. 3 para. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-058d27461dc7f02508c3da9ae338439a]: Commencement: Sch. 3 para. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00018]: Footnote: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-ca2c6b6e295e59f719a73a83ffbf7c5c]: Commencement: Sch. 3 para. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-ca2c6b6e295e59f719a73a83ffbf7c5c]: Commencement: Sch. 3 para. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-e962efa67d2520b18cddea66ea034355]: Commencement: Sch. 3 para. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-e962efa67d2520b18cddea66ea034355]: Commencement: Sch. 3 para. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-409e9e3fca7376d4143eab48ac0d273a]: Commencement: Sch. 3 para. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-409e9e3fca7376d4143eab48ac0d273a]: Commencement: Sch. 3 para. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00019]: Footnote: [S.I. 2014/310](https://www.legislation.gov.uk/uksi/2014/310).
 
-[^key-8910b26a5a0a206b84cda03f755d7fd2]: Commencement: Sch. 3 para. 6 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-8910b26a5a0a206b84cda03f755d7fd2]: Commencement: Sch. 3 para. 6 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-e08d6b2d64f120a978b193c9a3aae0c9]: Commencement: Sch. 3 para. 7 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-e08d6b2d64f120a978b193c9a3aae0c9]: Commencement: Sch. 3 para. 7 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-9f66a21e911368a8ea4f829fd24b0531]: Commencement: Sch. 3 para. 8 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-9f66a21e911368a8ea4f829fd24b0531]: Commencement: Sch. 3 para. 8 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-2cac340836e2b21a9000e4dfe1abbd72]: Commencement: Sch. 3 para. 9 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-2cac340836e2b21a9000e4dfe1abbd72]: Commencement: Sch. 3 para. 9 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-a7428f837b46ceae95874f2d290014e1]: Commencement: Sch. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-a7428f837b46ceae95874f2d290014e1]: Commencement: Sch. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-c5e531f0ee7b529f030aef82bf9d2aa5]: Commencement: Sch. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-c5e531f0ee7b529f030aef82bf9d2aa5]: Commencement: Sch. 5 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-e28f55ffe74f067d67a63ec240327097]: Commencement: Sch. 6 para. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-e28f55ffe74f067d67a63ec240327097]: Commencement: Sch. 6 para. 1 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-e22b396be2831a6d302d5b47abf65dcd]: Commencement: Sch. 6 para. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-e22b396be2831a6d302d5b47abf65dcd]: Commencement: Sch. 6 para. 2 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00020]: Footnote: [S.I. 2010/988](https://www.legislation.gov.uk/uksi/2010/988).
 
-[^key-1d8f45a41eefe446996485a0df555029]: Commencement: Sch. 6 para. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-1d8f45a41eefe446996485a0df555029]: Commencement: Sch. 6 para. 3 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
-[^key-7d682772fe7035862865e45a33c3cbe7]: Commencement: Sch. 6 para. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
+[^c-7d682772fe7035862865e45a33c3cbe7]: Commencement: Sch. 6 para. 4 in force at 11.3.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1)
 
 [^f00021]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40).

@@ -26,7 +26,7 @@ Section 125
 
 **2.** (1) Sub-paragraph (1) of paragraph 3 (decisions under or for the purposes of ALDA 1979) is amended as follows.
 
-(2)[^key-efc6f683475f3854ed1f72b6c7f75ec7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-efc6f683475f3854ed1f72b6c7f75ec7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After paragraph (k) insert—
 
@@ -107,4 +107,4 @@ Section 125
 
 ## Annotations
 
-[^key-efc6f683475f3854ed1f72b6c7f75ec7]: Textual amendment: [Sch. 42 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/42/paragraph/2/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/e)
+[^c-efc6f683475f3854ed1f72b6c7f75ec7]: Textual amendment: [Sch. 42 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/42/paragraph/2/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/e)

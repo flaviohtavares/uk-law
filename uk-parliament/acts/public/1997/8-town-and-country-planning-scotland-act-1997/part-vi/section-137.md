@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 137. Effect of planning permission etc. on enforcement or breach of condition notice.[^c950148][^key-525ea2a5bf0d39daff4aa1bbfa7caff8][^key-78450d798892cc62dc783a4a71f66b22]
+## 137. Effect of planning permission etc. on enforcement or breach of condition notice.[^c950148][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-78450d798892cc62dc783a4a71f66b22]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ planning permission is granted for any development carried out before the grant 
 
 [^c950148]: Modification: S. 137: power to modify conferred (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/23/1/c), [31](https://www.legislation.gov.uk/ukpga/1997/10/section/31) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-78450d798892cc62dc783a4a71f66b22]: Modification: S. 137 modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [51](https://www.legislation.gov.uk/ssi/2015/181/regulation/51)
+[^c-78450d798892cc62dc783a4a71f66b22]: Modification: S. 137 modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [51](https://www.legislation.gov.uk/ssi/2015/181/regulation/51)

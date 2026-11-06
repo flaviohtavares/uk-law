@@ -24,9 +24,9 @@ Section 19
 
 ### Police and Criminal Evidence Act 1984
 
-**1.**[^key-73deab459ed6fe95f91e084829dba87b] The Police and Criminal Evidence Act 1984 is amended as follows.
+**1.**[^c-73deab459ed6fe95f91e084829dba87b] The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**2.**[^key-d2b202c86349d87209716ec6c2da8391] (1) Section 63F (retention of section 63D material: persons arrested for or charged with a qualifying offence) is amended as follows.
+**2.**[^c-d2b202c86349d87209716ec6c2da8391] (1) Section 63F (retention of section 63D material: persons arrested for or charged with a qualifying offence) is amended as follows.
 
 (2) In subsection (3), for “or (5)” substitute “ , (5) or (5A) ”.
 
@@ -46,7 +46,7 @@ Section 19
 > - (a) an offence for the time being listed in section 41(1) of the Counter-Terrorism Act 2008 (see section 65A(2)(r) below), or
 > - (b) an ancillary offence, as defined by section 65A(5) below, relating to an offence for the time being listed in section 41(1) of that Act.
 
-**3.**[^key-481b5872510647383d2e2d8f78fc0b84] (1) Section 63M (retention of section 63D material for purposes of national security) is amended as follows.
+**3.**[^c-481b5872510647383d2e2d8f78fc0b84] (1) Section 63M (retention of section 63D material for purposes of national security) is amended as follows.
 
 (2) In subsection (1), for “the responsible” substitute “ a ”.
 
@@ -54,7 +54,7 @@ Section 19
 
 (4) In subsection (3)(b), for “2 years” substitute “ 5 years ”.
 
-**4.**[^key-0692d357e73e4143b947fd65de8fdaf7] After section 63P insert—
+**4.**[^c-0692d357e73e4143b947fd65de8fdaf7] After section 63P insert—
 
 > **63PA. Retention of further sets of fingerprints**
 >
@@ -139,9 +139,9 @@ Section 19
 
 ### Criminal Procedure (Scotland) Act 1995
 
-**6.**[^key-ffa2dbe6d36ca4ab9121720d492f77cb] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**6.**[^c-ffa2dbe6d36ca4ab9121720d492f77cb] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
-**7.**[^key-a3f2a300b47c7c34fd9303bca679cb72] (1) Section 18G (retention of samples etc: national security) is amended as follows.
+**7.**[^c-a3f2a300b47c7c34fd9303bca679cb72] (1) Section 18G (retention of samples etc: national security) is amended as follows.
 
 (2) In subsection (2) for “the relevant chief constable” substitute “ the chief constable of the Police Service of Scotland ”.
 
@@ -151,7 +151,7 @@ Section 19
 
 (5) Omit subsection (6).
 
-**8.**[^key-a89ecb0d81ec99294058e4b0e2bf5dd1] After section 18G insert—
+**8.**[^c-a89ecb0d81ec99294058e4b0e2bf5dd1] After section 18G insert—
 
 > **18GA. Retention of further fingerprints**
 >
@@ -180,9 +180,9 @@ Section 19
 
 ### Terrorism Act 2000
 
-**9.**[^key-798a61c8e518d19c67ed87e7171bddba] Part 1 of Schedule 8 to the Terrorism Act 2000 (treatment of persons detained under section 41 of, or Schedule 7 to, that Act) is amended as follows.
+**9.**[^c-798a61c8e518d19c67ed87e7171bddba] Part 1 of Schedule 8 to the Terrorism Act 2000 (treatment of persons detained under section 41 of, or Schedule 7 to, that Act) is amended as follows.
 
-**10.**[^key-c5989d9e80193cd88243a24affb3b1b7] (1) Paragraph 20E is amended as follows.
+**10.**[^c-c5989d9e80193cd88243a24affb3b1b7] (1) Paragraph 20E is amended as follows.
 
 (2) In sub-paragraph (1), for “the responsible” substitute “ a ”.
 
@@ -198,7 +198,7 @@ Section 19
 > - (b) the chief constable of the Police Service of Scotland, or
 > - (c) the Chief Constable of the Police Service of Northern Ireland.
 
-**11.**[^key-190b236665dba0dda5824f15b67189d3] After paragraph 20E insert—
+**11.**[^c-190b236665dba0dda5824f15b67189d3] After paragraph 20E insert—
 
 > **20EA.** (1) This paragraph applies where paragraph 20A material is or includes a person's fingerprints (“the original fingerprints”).
 >
@@ -241,9 +241,9 @@ Section 19
 
 ### Counter-Terrorism Act 2008
 
-**12.**[^key-8a8d1cb6668a7cda9b4122b9cdae87e3] The Counter-Terrorism Act 2008 is amended as follows.
+**12.**[^c-8a8d1cb6668a7cda9b4122b9cdae87e3] The Counter-Terrorism Act 2008 is amended as follows.
 
-**13.**[^key-8baba90f9b1f81a3be56ce4cd13dd855] (1) Section 18B (retention for purposes of national security) is amended as follows.
+**13.**[^c-8baba90f9b1f81a3be56ce4cd13dd855] (1) Section 18B (retention for purposes of national security) is amended as follows.
 
 (2) In subsection (1) after “responsible officer” insert “ , or by a chief officer of police, ”.
 
@@ -258,7 +258,7 @@ Section 19
 > - (a) the chief officer of police of a police force in England and Wales, or
 > - (b) the Chief Constable of the Police Service of Northern Ireland.
 
-**14.**[^key-e1c23f8fddd0a38ff93437cc3c83725c] After section 18B insert—
+**14.**[^c-e1c23f8fddd0a38ff93437cc3c83725c] After section 18B insert—
 
 > **18BA. Retention of further fingerprints**
 >
@@ -299,9 +299,9 @@ Section 19
 
 ### Terrorism Prevention and Investigation Measures Act 2011
 
-**15.**[^key-fafb89b5b99045e6bbc47daf7a04278d] Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011 (fingerprints and samples) is amended as follows.
+**15.**[^c-fafb89b5b99045e6bbc47daf7a04278d] Schedule 6 to the Terrorism Prevention and Investigation Measures Act 2011 (fingerprints and samples) is amended as follows.
 
-**16.**[^key-23e4cf8ca4e23d308ce1a7fc9b37833f] (1) Paragraph 11 is amended as follows.
+**16.**[^c-23e4cf8ca4e23d308ce1a7fc9b37833f] (1) Paragraph 11 is amended as follows.
 
 (2) In sub-paragraph (1), for “the responsible” substitute “ a ”.
 
@@ -317,7 +317,7 @@ Section 19
 > - (b) the chief constable of the Police Service of Scotland, or
 > - (c) the Chief Constable of the Police Service of Northern Ireland.
 
-**17.**[^key-70cd81196a7723e529167239002cb147] After paragraph 11 insert—
+**17.**[^c-70cd81196a7723e529167239002cb147] After paragraph 11 insert—
 
 > **11A.** (1) This paragraph applies where paragraph 6 material is or includes a person's fingerprints (“the original fingerprints”).
 >
@@ -397,34 +397,34 @@ Section 19
 
 ## Annotations
 
-[^key-73deab459ed6fe95f91e084829dba87b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/1) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-73deab459ed6fe95f91e084829dba87b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/1) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-d2b202c86349d87209716ec6c2da8391]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/2) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-d2b202c86349d87209716ec6c2da8391]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/2) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-481b5872510647383d2e2d8f78fc0b84]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/3) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-481b5872510647383d2e2d8f78fc0b84]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/3) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-0692d357e73e4143b947fd65de8fdaf7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/4) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-0692d357e73e4143b947fd65de8fdaf7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/4) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-ffa2dbe6d36ca4ab9121720d492f77cb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/6) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-ffa2dbe6d36ca4ab9121720d492f77cb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/6) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-a3f2a300b47c7c34fd9303bca679cb72]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/7) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-a3f2a300b47c7c34fd9303bca679cb72]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/7) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-a89ecb0d81ec99294058e4b0e2bf5dd1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/8) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-a89ecb0d81ec99294058e4b0e2bf5dd1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/8) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-798a61c8e518d19c67ed87e7171bddba]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/9) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-798a61c8e518d19c67ed87e7171bddba]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/9) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-c5989d9e80193cd88243a24affb3b1b7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/10) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-c5989d9e80193cd88243a24affb3b1b7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/10) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-190b236665dba0dda5824f15b67189d3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/11) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-190b236665dba0dda5824f15b67189d3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/11) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-8a8d1cb6668a7cda9b4122b9cdae87e3]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/12) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-8a8d1cb6668a7cda9b4122b9cdae87e3]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/12) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-8baba90f9b1f81a3be56ce4cd13dd855]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/13) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-8baba90f9b1f81a3be56ce4cd13dd855]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/13) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-e1c23f8fddd0a38ff93437cc3c83725c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/14) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-e1c23f8fddd0a38ff93437cc3c83725c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/14) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-fafb89b5b99045e6bbc47daf7a04278d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/15) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-fafb89b5b99045e6bbc47daf7a04278d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/15) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-23e4cf8ca4e23d308ce1a7fc9b37833f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-23e4cf8ca4e23d308ce1a7fc9b37833f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/16) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
 
-[^key-70cd81196a7723e529167239002cb147]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-70cd81196a7723e529167239002cb147]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/17) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)

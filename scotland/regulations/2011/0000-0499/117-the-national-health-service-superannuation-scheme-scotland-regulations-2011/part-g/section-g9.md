@@ -28,8 +28,8 @@ summary: ''
 
 (4) If a female member who has made an election under this regulation—
 
-- (a)[^key-d3b34688250e0ef126f5f452992bce21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) dies without leaving a widower but leaving a surviving civil partner or, as the case may be, a surviving scheme partner[^key-2821bc6353c39936e254ab451edd5a26],
+- (a)[^c-d3b34688250e0ef126f5f452992bce21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) dies without leaving a widower but leaving a surviving civil partner or, as the case may be, a surviving scheme partner[^c-2821bc6353c39936e254ab451edd5a26],
 
 the widower's pension described in paragraph (1) shall be paid to that surviving partner.
 
@@ -37,6 +37,6 @@ the widower's pension described in paragraph (1) shall be paid to that survivin
 
 [^c21042041]: Marginal citation: Regulation 20(2) was inserted into the 1980 Regulations by regulation 13 of [S.I. 1989/1749](https://www.legislation.gov.uk/uksi/1989/1749).
 
-[^key-d3b34688250e0ef126f5f452992bce21]: Textual amendment: Reg. G9(4)(a) and word omitted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/96/regulation/10)
+[^c-d3b34688250e0ef126f5f452992bce21]: Textual amendment: Reg. G9(4)(a) and word omitted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/96/regulation/10)
 
-[^key-2821bc6353c39936e254ab451edd5a26]: Textual amendment: Words in [reg. G9(4)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/G9/4/b) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2021/102/regulation/7)
+[^c-2821bc6353c39936e254ab451edd5a26]: Textual amendment: Words in [reg. G9(4)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/G9/4/b) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2021/102/regulation/7)

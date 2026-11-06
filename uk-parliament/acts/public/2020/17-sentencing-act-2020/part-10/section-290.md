@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290. Suspended sentence order: available community requirements[^key-d9b31ec323976b7ad242e52eb39e55ad]
+## 290. Suspended sentence order: available community requirements[^c-d9b31ec323976b7ad242e52eb39e55ad]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9b31ec323976b7ad242e52eb39e55ad]: Commencement: S. 290 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d9b31ec323976b7ad242e52eb39e55ad]: Commencement: S. 290 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Directions as to practice and procedure[^key-5a1e50ae947a894f683a5b46355c1bbb]
+## 61. Directions as to practice and procedure[^c-5a1e50ae947a894f683a5b46355c1bbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1e50ae947a894f683a5b46355c1bbb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/4/section/61) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-5a1e50ae947a894f683a5b46355c1bbb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/4/section/61) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)

@@ -26,15 +26,15 @@ summary: ''
 
 (3) Sections 8 to 13 (taking of fingerprints and samples: Northern Ireland) extend to Northern Ireland only, except that section 11(2) extends also to England and Wales.
 
-(4)[^key-3b603cf30d324cb5818d77575b64a254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3b603cf30d324cb5818d77575b64a254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 15 (material subject to the Police and Criminal Evidence (Northern Ireland) Order 1989) extends to Northern Ireland only.
 
-(6)[^key-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f22fdf33d0579524711fd550ead754b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Sections 20 to 23 (further provision relating to the retention, destruction and use of fingerprints and samples etc) extend to England and Wales, Scotland and Northern Ireland.
 
@@ -50,14 +50,14 @@ summary: ''
 
 (15) Section 55 (sale and supply of alcohol) extends to England and Wales only.
 
-(16)[^key-bca9b24d313b0f87108bf60e44ed689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-bca9b24d313b0f87108bf60e44ed689d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (17) Sections 57 to 60 (final) extend to England and Wales, Scotland and Northern Ireland.
 
 ## Annotations
 
-[^key-3b603cf30d324cb5818d77575b64a254]: Textual amendment: S. 58(4) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/4/3), [10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/c)
+[^c-3b603cf30d324cb5818d77575b64a254]: Textual amendment: S. 58(4) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/4/3), [10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/c)
 
-[^key-f22fdf33d0579524711fd550ead754b4]: Textual amendment: S. 58(6)-(8) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/4/3), [10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/c)
+[^c-f22fdf33d0579524711fd550ead754b4]: Textual amendment: S. 58(6)-(8) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/4/3), [10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/c)
 
-[^key-bca9b24d313b0f87108bf60e44ed689d]: Textual amendment: S. 58(16) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/5/b) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-bca9b24d313b0f87108bf60e44ed689d]: Textual amendment: S. 58(16) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/5/b) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

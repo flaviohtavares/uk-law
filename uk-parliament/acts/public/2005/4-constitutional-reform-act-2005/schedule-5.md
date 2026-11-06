@@ -361,7 +361,7 @@ Section 15
 > - (a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
 > - (b) a Lord Justice of Appeal (as defined in section 88 of that Act).
 
-**36.**[^key-11817df7f8cae8a9561be9a12ee0c682] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-11817df7f8cae8a9561be9a12ee0c682] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** Omit section 104 (under-sheriffs).
 
@@ -494,7 +494,7 @@ Section 15
 
 **49.** In Article 2 (interpretation), in paragraph (5) omit“on the Lord Chancellor”.
 
-**50.**[^key-41d951ca0af1b410b27220896b9de1e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-41d951ca0af1b410b27220896b9de1e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **51.** In Article 4 (directions as to holding of courts), for “Lord Chancellor” in each place substitute “ Lord Chief Justice ”.
 
@@ -571,7 +571,7 @@ Section 15
 
 **63.** (1) Article 11 (petty sessions and petty sessions districts) is amended as follows.
 
-(2)[^key-62fd77de41cad320d81c85f755a66b67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-62fd77de41cad320d81c85f755a66b67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (3) for “Lord Chancellor” in each place substitute “Lord Chief Justice”.
 
@@ -994,19 +994,19 @@ Section 15
 
 **115.**[^c18935601] (1) The Justice (Northern Ireland) Act 2002 is amended as follows.
 
-(2) Where the amendment to section [^key-ca714f9502349e164e104851c9273dbd]... 24(5) or 43(6) of that Act made by this Schedule comes into force before section 23 of this Act, the reference in that section (as amended by this Schedule) to the President of the Supreme Court has effect, until section 23 comes into force, as a reference to the senior Lord of Appeal in Ordinary.
+(2) Where the amendment to section [^c-ca714f9502349e164e104851c9273dbd]... 24(5) or 43(6) of that Act made by this Schedule comes into force before section 23 of this Act, the reference in that section (as amended by this Schedule) to the President of the Supreme Court has effect, until section 23 comes into force, as a reference to the senior Lord of Appeal in Ordinary.
 
 **Not yet in force.**
 
-**116.**[^key-c7531b8fbb7f95cd3a632122c88400cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**116.**[^c-c7531b8fbb7f95cd3a632122c88400cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**117.**[^key-31f6fd329a98905599a69570ae2c5023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**117.**[^c-31f6fd329a98905599a69570ae2c5023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **118.** In section 10 (transfer of functions of justices of the peace), in subsection (4) after “Lord Chancellor may” insert “ , after consultation with the Lord Chief Justice, ”.
 
 **119.** In section 12 (role of the Lord Chief Justice), omit subsections (2) and (3).
 
-**120.**[^key-a79b2f8bd3b925da52706a81516e51b3] (1) In section 24 (removal of Attorney General), in subsection (5) after “Lord Chancellor” insert
+**120.**[^c-a79b2f8bd3b925da52706a81516e51b3] (1) In section 24 (removal of Attorney General), in subsection (5) after “Lord Chancellor” insert
 
 > after consultation with all of the following—
 >
@@ -1017,7 +1017,7 @@ Section 15
 
 .
 
-**121.**[^key-6cc804f59f424a2882cc157174434725] In section 43 (appointment and removal of Director of Public Prosecutions), in subsection (6) after “Lord Chancellor” insert
+**121.**[^c-6cc804f59f424a2882cc157174434725] In section 43 (appointment and removal of Director of Public Prosecutions), in subsection (6) after “Lord Chancellor” insert
 
 > after consultation with all of the following—
 >
@@ -1064,7 +1064,7 @@ Section 15
 
 **Not yet in force.**
 
-**123.**[^key-c438c81898d3a4c090c5ac2004cebee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-c438c81898d3a4c090c5ac2004cebee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **124.** (1) Schedule 4 (functions of justices of the peace) is amended as follows.
 
@@ -1091,7 +1091,7 @@ Section 15
 
 (5) At the end of the Schedule insert— “ Member of the panel of persons who may serve as chairmen of a tribunal established for the purposes of the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997 (S.R. 1997/269). Chairman of a Tribunal appointed under paragraph 1(1)(a) of Schedule 3 to the Misuse of Drugs Act 1971 in its application to Northern Ireland Member of a Tribunal appointed under paragraph 2(1) of the Schedule to the Pensions Appeal Tribunals Act 1943 in its application to Northern Ireland President or Deputy President of Pensions Appeal Tribunals appointed under paragraph 2B of the Schedule to the Pensions Appeal Tribunals Act 1943 in its application to Northern Ireland Chairman of the Plant Varieties and Seeds Tribunal for the purpose of proceedings brought before it in Northern Ireland Member of the panel of persons to act as chairmen of Reinstatement Committees sitting in Northern Ireland (appointed under paragraph 2(1)(a) of Schedule 2 to the Reserve Forces (Safeguard of Employment) Act 1985) Member of the panel of persons appointed under section 6(1) of the Tribunals and Inquiries Act 1992 to act as chairmen of tribunals that sit in Northern Ireland Member of the panel of chairmen of VAT tribunals for Northern Ireland General Commissioner for a division in Northern Ireland (appointed under section 2 of the Taxes Management Act 1970) ”.
 
-**127.**[^key-f3cfb3cf875f6418b38d0af5c518d4ff] In Schedule 12 (minor and consequential amendments), after paragraph 81 insert—
+**127.**[^c-f3cfb3cf875f6418b38d0af5c518d4ff] In Schedule 12 (minor and consequential amendments), after paragraph 81 insert—
 
 > **82. Constitutional Reform Act 2005**
 >
@@ -1104,7 +1104,7 @@ Section 15
 - (a) the entry relating to the County Courts (Northern Ireland) Order 1980 (1980/397 (N.I. 3));
 - (b) the entry relating to Article 168 of the Magistrates' Courts (Northern Ireland) Order 1981.
 
-(3)[^key-3279ab898ef1dc8cb2bb08fc4cb29558] After the entries relating to the Justice (Northern Ireland) Act 2002 insert—
+(3)[^c-3279ab898ef1dc8cb2bb08fc4cb29558] After the entries relating to the Justice (Northern Ireland) Act 2002 insert—
 
 > |  |  |
 > | --- | --- |
@@ -1195,32 +1195,32 @@ Section 15
 
 ## Annotations
 
-[^key-11817df7f8cae8a9561be9a12ee0c682]: Textual amendment: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/36) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-11817df7f8cae8a9561be9a12ee0c682]: Textual amendment: [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/36) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-41d951ca0af1b410b27220896b9de1e4]: Textual amendment: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/50) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-41d951ca0af1b410b27220896b9de1e4]: Textual amendment: [Sch. 5 para. 50](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/50) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-62fd77de41cad320d81c85f755a66b67]: Textual amendment: [Sch. 5 para. 63(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/63/2) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-62fd77de41cad320d81c85f755a66b67]: Textual amendment: [Sch. 5 para. 63(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/63/2) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c18935601]: Commencement: Sch. 5 para. 115 partly in force; Sch. 5 para. 115 not in force at Royal Assent see s. 148; Sch. 5 para. 115(1) in force at 3.4.2006 by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(c)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/c)
 
-[^key-ca714f9502349e164e104851c9273dbd]: Textual amendment: Word in [Sch. 5 para. 115(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/115/2) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/2); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-ca714f9502349e164e104851c9273dbd]: Textual amendment: Word in [Sch. 5 para. 115(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/115/2) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/2); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-c7531b8fbb7f95cd3a632122c88400cd]: Textual amendment: [Sch. 5 para. 116](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/116) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/3); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-c7531b8fbb7f95cd3a632122c88400cd]: Textual amendment: [Sch. 5 para. 116](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/116) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/3); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-31f6fd329a98905599a69570ae2c5023]: Textual amendment: [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/117) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-31f6fd329a98905599a69570ae2c5023]: Textual amendment: [Sch. 5 para. 117](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/117) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-a79b2f8bd3b925da52706a81516e51b3]: Commencement: [Sch. 5 para. 120](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/120) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)
+[^c-a79b2f8bd3b925da52706a81516e51b3]: Commencement: [Sch. 5 para. 120](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/120) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)
 
-[^key-6cc804f59f424a2882cc157174434725]: Commencement: [Sch. 5 para. 121](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/121) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)
+[^c-6cc804f59f424a2882cc157174434725]: Commencement: [Sch. 5 para. 121](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/121) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)
 
 [^c18896151]: Commencement: [Sch. 5 para. 122](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/122) partly in force; [Sch. 5 para. 122](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/122) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [Sch. 5 para. 122(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/122/4) in force for specified purposes at 31.8.2005 by [S.I. 2005/2284](https://www.legislation.gov.uk/uksi/2005/2284), [art. 2](https://www.legislation.gov.uk/uksi/2005/2284/article/2); [Sch. 5 para. 122(1)-(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/122/1)(5) in force for specified purposes at 3.4.2006 by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/e); [Sch. 5 para. 122(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/122/5) in force for specified further purposes at 15.6.2006 by [S.I. 2006/1537](https://www.legislation.gov.uk/uksi/2006/1537), [art. 2](https://www.legislation.gov.uk/uksi/2006/1537/article/2)
 
-[^key-c438c81898d3a4c090c5ac2004cebee3]: Textual amendment: [Sch. 5 para. 123](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/123) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/3); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-c438c81898d3a4c090c5ac2004cebee3]: Textual amendment: [Sch. 5 para. 123](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/123) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/6/3); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
 [^c18896231]: Commencement: [Sch. 5 para. 126](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/126) partly in force; [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [Sch. 5 para. 126(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/126/4) in force at 31.8.2005 by [S.I. 2005/2284](https://www.legislation.gov.uk/uksi/2005/2284), [art. 2](https://www.legislation.gov.uk/uksi/2005/2284/article/2); [Sch. 5 para. 126(1)(2)(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/126/1/2/5) in force for specified purposes at 3.4.2006 by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(g)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/g)
 
-[^key-f3cfb3cf875f6418b38d0af5c518d4ff]: Commencement: [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)
+[^c-f3cfb3cf875f6418b38d0af5c518d4ff]: Commencement: [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)
 
 [^c18935641]: Commencement: [Sch. 5 para. 128](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/128) partly in force; [Sch. 5 para. 128](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/128) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [Sch. 5 para. 128(1)(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/128/1/2) in force at 3.4.2006 by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(h)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/h)
 
-[^key-3279ab898ef1dc8cb2bb08fc4cb29558]: Commencement: [Sch. 5 para. 128(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/128/3) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/iii)
+[^c-3279ab898ef1dc8cb2bb08fc4cb29558]: Commencement: [Sch. 5 para. 128(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/128/3) in force at 12.4.2010 by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/iii)

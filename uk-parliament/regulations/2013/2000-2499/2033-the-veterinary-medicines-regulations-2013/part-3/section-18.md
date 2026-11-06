@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A veterinary surgeon who administers a veterinary medicinal product to a food-producing animal must as soon as is reasonably practicable[^key-d2c476e19e111d07775ed86487e258c4] either enter the following information personally in the keeper’s records or give it to the keeper in writing (in which case the keeper must enter the following into those records)—
+A veterinary surgeon who administers a veterinary medicinal product to a food-producing animal must as soon as is reasonably practicable[^c-d2c476e19e111d07775ed86487e258c4] either enter the following information personally in the keeper’s records or give it to the keeper in writing (in which case the keeper must enter the following into those records)—
 
 - (a) the name of the veterinary surgeon;
 - (b) the name of the product and the batch number;
@@ -31,4 +31,4 @@ A veterinary surgeon who administers a veterinary medicinal product to a food-pr
 
 ## Annotations
 
-[^key-d2c476e19e111d07775ed86487e258c4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2013/2033/regulation/18) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/567/regulation/11)
+[^c-d2c476e19e111d07775ed86487e258c4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2013/2033/regulation/18) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/567/regulation/11)

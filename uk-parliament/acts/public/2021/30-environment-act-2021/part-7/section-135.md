@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Declarations about obligations under conservation covenants[^key-67b0b88d92d6a7b6e45acb2107247428][^key-6c66e7139ceea8d89903095b7d668fed]
+## 135. Declarations about obligations under conservation covenants[^c-67b0b88d92d6a7b6e45acb2107247428][^c-6c66e7139ceea8d89903095b7d668fed]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67b0b88d92d6a7b6e45acb2107247428]: Commencement: S. 135 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-67b0b88d92d6a7b6e45acb2107247428]: Commencement: S. 135 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-6c66e7139ceea8d89903095b7d668fed]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2021/30/section/135) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-6c66e7139ceea8d89903095b7d668fed]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2021/30/section/135) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

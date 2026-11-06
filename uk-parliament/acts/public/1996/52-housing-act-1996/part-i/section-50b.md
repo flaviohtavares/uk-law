@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B (Extent: W). Exercise of enforcement powers (Extent: W)[^key-a5b524a2fd674e2060165d26fbb35606]
+## 50B (Extent: W). Exercise of enforcement powers (Extent: W)[^c-a5b524a2fd674e2060165d26fbb35606]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5b524a2fd674e2060165d26fbb35606]: Textual amendment: S. 50B inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 51](https://www.legislation.gov.uk/mwa/2011/5/section/51), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)
+[^c-a5b524a2fd674e2060165d26fbb35606]: Textual amendment: S. 50B inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 51](https://www.legislation.gov.uk/mwa/2011/5/section/51), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)

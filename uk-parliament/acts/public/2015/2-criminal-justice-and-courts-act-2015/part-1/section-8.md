@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Recall adjudicators[^key-91844ebb9e1288cc6fe0e2b8fec9d844]
+## 8. Recall adjudicators[^c-91844ebb9e1288cc6fe0e2b8fec9d844]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91844ebb9e1288cc6fe0e2b8fec9d844]: Textual amendment: [Ss. 8-10](https://www.legislation.gov.uk/ukpga/2015/2/section/8) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 135(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/135/a), [208(5)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/n)
+[^c-91844ebb9e1288cc6fe0e2b8fec9d844]: Textual amendment: [Ss. 8-10](https://www.legislation.gov.uk/ukpga/2015/2/section/8) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 135(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/135/a), [208(5)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/n)

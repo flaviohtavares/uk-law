@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Application of sections 10 to 13 to London[^key-c85938082a39bc454e36af181e44045d]
+## 13A. Application of sections 10 to 13 to London[^c-c85938082a39bc454e36af181e44045d]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ includes a power to vary or revoke any previous such regulations or order (as th
 
 ## Annotations
 
-[^key-c85938082a39bc454e36af181e44045d]: Textual amendment: S. 13A inserted (E.W.) (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 54(8)](https://www.legislation.gov.uk/ukpga/2008/26/section/54/8), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-c85938082a39bc454e36af181e44045d]: Textual amendment: S. 13A inserted (E.W.) (26.11.2008 for specified purposes, 6.4.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 54(8)](https://www.legislation.gov.uk/ukpga/2008/26/section/54/8), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

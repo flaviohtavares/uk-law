@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Fitness to hold a licence[^key-73de4784c45af098739cd6cf2eeef604]
+## 9. Fitness to hold a licence[^c-73de4784c45af098739cd6cf2eeef604]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73de4784c45af098739cd6cf2eeef604]: Commencement: Reg. 9 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-73de4784c45af098739cd6cf2eeef604]: Commencement: Reg. 9 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
 [^f00004]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

@@ -23,7 +23,7 @@ summary: ''
 (1) The development management scheme may be disapplied to the development, or to any part of the development, by an owners' association established by the scheme registering against the development or as the case may be the part, a deed of disapplication granted by that association in accordance with the scheme; and subject to subsection (3) below the disapplication shall take effect—
 
 - (a) on the date of registration; or
-- (b) [^key-01e4dab45dfbaf76ba205e2018516c02]... on such later date as may be specified in the deed (the specification being of a fixed date and not, for example, of a date determinable by reference to the occurrence of an event).
+- (b) [^c-01e4dab45dfbaf76ba205e2018516c02]... on such later date as may be specified in the deed (the specification being of a fixed date and not, for example, of a date determinable by reference to the occurrence of an event).
 
 (2) The deed of disapplication may by means of real burdens provide for the future management and regulation—
 
@@ -43,4 +43,4 @@ and section 4 of this Act shall apply accordingly except that paragraph (b) of s
 
 ## Annotations
 
-[^key-01e4dab45dfbaf76ba205e2018516c02]: Textual amendment: Words in [s. 73(1)(b)](https://www.legislation.gov.uk/asp/2003/9/section/73/1/b) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(7)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-01e4dab45dfbaf76ba205e2018516c02]: Textual amendment: Words in [s. 73(1)(b)](https://www.legislation.gov.uk/asp/2003/9/section/73/1/b) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 43(7)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

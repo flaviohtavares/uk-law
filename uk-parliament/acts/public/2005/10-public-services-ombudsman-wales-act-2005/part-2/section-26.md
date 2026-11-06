@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Disclosure of information[^key-8bfc12ab8ebd1a3ae7e884c3ad97dc90]
+## 26. Disclosure of information[^c-8bfc12ab8ebd1a3ae7e884c3ad97dc90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bfc12ab8ebd1a3ae7e884c3ad97dc90]: Textual amendment: S. 26 omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 25](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/25); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-8bfc12ab8ebd1a3ae7e884c3ad97dc90]: Textual amendment: S. 26 omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 25](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/25); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

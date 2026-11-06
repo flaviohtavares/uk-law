@@ -49,11 +49,11 @@ Regulation 23
 | *Extent: E+W+S+N.I.*<br>**10.** Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | No requirement |
 
-**12.**[^key-d179232cb67c5dbbb36699cdb1b117ca] Other requirements—
+**12.**[^c-d179232cb67c5dbbb36699cdb1b117ca] Other requirements—
 
 Every front fog lamp shall be so constructed that the direction of the beam of light emitted therefrom can be adjusted whilst the vehicle is stationary.
 
-**13.**[^key-780b21cd493fb06ccf73335da477c085] Definitions—
+**13.**[^c-780b21cd493fb06ccf73335da477c085] Definitions—
 
 In this Schedule “approval mark” means either—
 
@@ -62,6 +62,6 @@ In this Schedule “approval mark” means either—
 
 ## Annotations
 
-[^key-d179232cb67c5dbbb36699cdb1b117ca]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/6/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-d179232cb67c5dbbb36699cdb1b117ca]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/6/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-780b21cd493fb06ccf73335da477c085]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/6/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-780b21cd493fb06ccf73335da477c085]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/6/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

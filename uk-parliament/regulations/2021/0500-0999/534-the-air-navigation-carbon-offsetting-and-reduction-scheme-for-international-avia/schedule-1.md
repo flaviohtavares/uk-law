@@ -22,13 +22,13 @@ summary: ''
 
 Article 70(1)
 
-### 1. Compliance periods and timeline[^key-3f932bf9b05696bc61967f0c485128eb]
+### 1. Compliance periods and timeline[^c-3f932bf9b05696bc61967f0c485128eb]
 
 (1) The procedures specified in this Schedule summarise administrative roles and responsibilities of the persons involved in implementing Parts 2 and 3 of this Order. This Schedule provides a list of activities, and the associated date by which the activities must be completed.
 
 2021-2023 period
 
-(2) During the period of 2021-2023, aeroplane operators , Regulators and the Secretary of State[^key-fc23e2906db2a649d9f7f93dd19dfdaf] must comply with the requirements according to the timeline in Table 1, where applicable.
+(2) During the period of 2021-2023, aeroplane operators , Regulators and the Secretary of State[^c-fc23e2906db2a649d9f7f93dd19dfdaf] must comply with the requirements according to the timeline in Table 1, where applicable.
 
 Table 1
 
@@ -55,7 +55,7 @@ Details of compliance timeline for 2021-2023 period
 | 1st August 2022 | The Regulator must obtain and use the ICAO document entitled “CORSIA States for Chapter 3 State Pairs” applicable for the 2023 compliance year. |
 | 31st October 2022 | The Regulator must obtain and use the Sector’s Growth Factor (SGF) for 2021 from the ICAO document entitled “CORSIA Annual Sector’s Growth Factor (SGF)[^f00050]”. |
 | 30th November 2022 | The Secretary of State must submit updates to the list of aeroplane operators that are attributed to the United Kingdom to ICAO in accordance with article 8(5), as well as updates to the list of verification bodies accredited in the United Kingdom in accordance with article 11(3). |
-| 30th November 2022[^key-13d2bc80a1981a713b25fb57259b9054] | The Regulator must calculate and inform aeroplane operators of their offsetting requirements for 2021 in accordance with articles 41A and 41B. |
+| 30th November 2022[^c-13d2bc80a1981a713b25fb57259b9054] | The Regulator must calculate and inform aeroplane operators of their offsetting requirements for 2021 in accordance with articles 41A and 41B. |
 | 1st January 2023 to 31st December 2023 | The aeroplane operator must monitor, in accordance with Chapter 2 of Part 3 of this Order, CO<sub>2</sub> emissions for 2023 from international flights. |
 | 1st January 2023 to 30th April 2023 | The aeroplane operator must compile 2022 CO<sub>2</sub> emissions data to be verified by a verification body, in accordance with Chapter 4 of Part 3 of this Order. |
 | 30th April 2023 | The aeroplane operator and the verification body must both independently submit, upon authorisation by the aeroplane operator, the verified Emissions Report and associated Verification Report for 2022 to the Regulator in accordance with article 35(3). |
@@ -223,10 +223,10 @@ Details of compliance timeline for 2033-2035 period
 
 ## Annotations
 
-[^key-3f932bf9b05696bc61967f0c485128eb]: Commencement: Sch. 1 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-3f932bf9b05696bc61967f0c485128eb]: Commencement: Sch. 1 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-fc23e2906db2a649d9f7f93dd19dfdaf]: Textual amendment: Words in [Sch. 1 para. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2021/534/schedule/1/paragraph/1/2) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [31(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/31/2)
+[^c-fc23e2906db2a649d9f7f93dd19dfdaf]: Textual amendment: Words in [Sch. 1 para. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2021/534/schedule/1/paragraph/1/2) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [31(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/31/2)
 
 [^f00050]: Footnote: ICAO document entitled “CORSIA Annual Sector’s Growth Factor (SGF)” is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
-[^key-13d2bc80a1981a713b25fb57259b9054]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/534/schedule/1) Table 1 inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [31(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/31/3)
+[^c-13d2bc80a1981a713b25fb57259b9054]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/534/schedule/1) Table 1 inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [31(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/31/3)

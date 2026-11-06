@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Annual Budget documents[^key-d8b69e66604008981a0125027c9a5791]
+## 2. Annual Budget documents[^c-d8b69e66604008981a0125027c9a5791]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b69e66604008981a0125027c9a5791]: Commencement: S. 2 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)
+[^c-d8b69e66604008981a0125027c9a5791]: Commencement: S. 2 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)

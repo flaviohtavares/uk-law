@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Planning permission[^key-28040b470043a291e63166c16faec086]
+## 8. Planning permission[^c-28040b470043a291e63166c16faec086]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ then the carrying out, use or operation of such development under the terms of t
 
 ## Annotations
 
-[^key-28040b470043a291e63166c16faec086]: Commencement: Art. 8 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-28040b470043a291e63166c16faec086]: Commencement: Art. 8 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

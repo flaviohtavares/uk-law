@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Victim statements in solemn proceedings[^key-27b0305b87ce6611d85a02ae1e907fc1]
+## 50. Victim statements in solemn proceedings[^c-27b0305b87ce6611d85a02ae1e907fc1]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27b0305b87ce6611d85a02ae1e907fc1]: Commencement: S. 50 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-27b0305b87ce6611d85a02ae1e907fc1]: Commencement: S. 50 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19C — Insurers in financial difficulties: enforcement of contracts[^key-c47bcef6c4b6edb35a17dcdff0d064f7]
+## SCHEDULE 19C — Insurers in financial difficulties: enforcement of contracts[^c-c47bcef6c4b6edb35a17dcdff0d064f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,4 +255,4 @@ the entitlement may not be exercised while the insurer is in financial difficult
 
 ## Annotations
 
-[^key-c47bcef6c4b6edb35a17dcdff0d064f7]: Textual amendment: [Sch. 19C](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 13 para. 1(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/1/3)
+[^c-c47bcef6c4b6edb35a17dcdff0d064f7]: Textual amendment: [Sch. 19C](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 13 para. 1(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/1/3)

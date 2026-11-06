@@ -1939,7 +1939,7 @@ A company is not to be treated as carrying on a separate trade under Part 15, 15
 (5) Where, by virtue of this paragraph, different Parts of CTA 2009 apply in respect of different portions of an accounting period, the portions are to be treated as separate accounting periods for the purposes of—
 
 - (a) those Parts, and
-- (b) paragraphs 19 to 24A[^key-a711aaa4cc13f00b8a94352773073083] (but not for other corporation tax purposes).
+- (b) paragraphs 19 to 24A[^c-a711aaa4cc13f00b8a94352773073083] (but not for other corporation tax purposes).
 
 (6) For the purposes of this paragraph—
 
@@ -2045,7 +2045,7 @@ The repeal of Parts 15 and 15A of CTA 2009 does not affect the requirement in se
 
 (4) In section 1179FH of CTA 2009 as it applies in relation to the video game, the references to core expenditure are to be read as limited to core expenditure incurred in or after the opt-in period.
 
-#### 24A. Calculation of expenditure credit where company previously benefiting from video games tax relief[^key-cff3474ba44fdf42bb95da00360b4241]
+#### 24A. Calculation of expenditure credit where company previously benefiting from video games tax relief[^c-cff3474ba44fdf42bb95da00360b4241]
 
 (1) Sub-paragraph (2) applies if—
 
@@ -2078,6 +2078,6 @@ The repeal of Parts 15 and 15A of CTA 2009 does not affect the requirement in se
 
 ## Annotations
 
-[^key-a711aaa4cc13f00b8a94352773073083]: Textual amendment: Word in [Sch. 2 para. 18(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/18/5/b) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/4)
+[^c-a711aaa4cc13f00b8a94352773073083]: Textual amendment: Word in [Sch. 2 para. 18(5)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/18/5/b) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/4)
 
-[^key-cff3474ba44fdf42bb95da00360b4241]: Textual amendment: [Sch. 2 para. 24A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/24A) and cross-heading inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/4)
+[^c-cff3474ba44fdf42bb95da00360b4241]: Textual amendment: [Sch. 2 para. 24A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/24A) and cross-heading inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/32/4)

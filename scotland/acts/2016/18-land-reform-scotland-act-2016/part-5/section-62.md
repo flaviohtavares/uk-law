@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Confirmation of intention to proceed with purchase and withdrawal[^key-19153a4ec89a4b803d63b19cbbc32a8c]
+## 62. Confirmation of intention to proceed with purchase and withdrawal[^c-19153a4ec89a4b803d63b19cbbc32a8c]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19153a4ec89a4b803d63b19cbbc32a8c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2016/18/section/62) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-19153a4ec89a4b803d63b19cbbc32a8c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2016/18/section/62) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

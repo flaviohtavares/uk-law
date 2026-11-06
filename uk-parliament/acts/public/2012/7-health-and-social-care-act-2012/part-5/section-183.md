@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Local authority arrangements[^key-63446a5af7b7334de17958324491436b][^c2191334]
+## 183. Local authority arrangements[^c-63446a5af7b7334de17958324491436b][^c2191334]
 
 *Extent: E+W*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63446a5af7b7334de17958324491436b]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2012/7/section/183) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-63446a5af7b7334de17958324491436b]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2012/7/section/183) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191334]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2012/7/section/183) partly in force; [s. 183](https://www.legislation.gov.uk/ukpga/2012/7/section/183) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

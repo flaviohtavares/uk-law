@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL INSURANCE
 
-The National Insurance (Isle of Man Reciprocal Agreement) Order, 1948 (revoked)[^key-b2c7a1a0402f46e5391b53b12242f439]
+The National Insurance (Isle of Man Reciprocal Agreement) Order, 1948 (revoked)[^c-b2c7a1a0402f46e5391b53b12242f439]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into Operation
 
 9th August 1948
 
-[^key-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Citation, commencement and interpretation[^key-b2c7a1a0402f46e5391b53b12242f439]
+## Citation, commencement and interpretation[^c-b2c7a1a0402f46e5391b53b12242f439]
 
-**1.**[^key-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b2c7a1a0402f46e5391b53b12242f439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## FIRST SCHEDULE[^key-b2c7a1a0402f46e5391b53b12242f439]
+## FIRST SCHEDULE[^c-b2c7a1a0402f46e5391b53b12242f439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE[^key-b2c7a1a0402f46e5391b53b12242f439]
+## SECOND SCHEDULE[^c-b2c7a1a0402f46e5391b53b12242f439]
 
 Article 3
 
-### PART I — PROVISIONS OF THE ACT AND REGULATIONS APPLYING FOR THE PURPOSES OF THE ISLE OF MAN ACT[^key-b2c7a1a0402f46e5391b53b12242f439]
+### PART I — PROVISIONS OF THE ACT AND REGULATIONS APPLYING FOR THE PURPOSES OF THE ISLE OF MAN ACT[^c-b2c7a1a0402f46e5391b53b12242f439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MODIFICATIONS[^key-b2c7a1a0402f46e5391b53b12242f439]
+### PART II — MODIFICATIONS[^c-b2c7a1a0402f46e5391b53b12242f439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c7a1a0402f46e5391b53b12242f439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2c7a1a0402f46e5391b53b12242f439]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1948/1844) revoked (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [arts. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1), [3](https://www.legislation.gov.uk/uksi/2016/157/article/3)
+[^c-b2c7a1a0402f46e5391b53b12242f439]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1948/1844) revoked (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [arts. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1), [3](https://www.legislation.gov.uk/uksi/2016/157/article/3)

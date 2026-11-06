@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Creditors’ meeting[^key-78efa7bfdf1697e275eafa3534382010]
+## 65. Creditors’ meeting[^c-78efa7bfdf1697e275eafa3534382010]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78efa7bfdf1697e275eafa3534382010]: Commencement: S. 65 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-78efa7bfdf1697e275eafa3534382010]: Commencement: S. 65 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

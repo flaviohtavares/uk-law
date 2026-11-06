@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 1 — TITLE AND COMMENCEMENT
 
-### 1. Title and commencement[^key-27695a665537dded32fa32942a808809]
+### 1. Title and commencement[^c-27695a665537dded32fa32942a808809]
 
 (1) The title of these Regulations is the Education (Student Fees, Awards and Support) (Ordinary Residence) (Wales) Regulations 2021.
 
@@ -55,11 +55,11 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## PART 2 — AMENDMENTS TO THE EDUCATION (FEES AND AWARDS) (WALES) REGULATIONS 2007
 
-### 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^key-df5a650b07286d0f53a6c4b9c831354a]
+### 2. Amendments to the Education (Fees and Awards) (Wales) Regulations 2007[^c-df5a650b07286d0f53a6c4b9c831354a]
 
 The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with regulations 3 and 4.
 
-### 3.[^key-5680dd94a7dbf8dd8ab6bea01819922b]
+### 3.[^c-5680dd94a7dbf8dd8ab6bea01819922b]
 
 In the Schedule, in paragraph 4A (persons granted stateless leave and their family members)—
 
@@ -75,7 +75,7 @@ In the Schedule, in paragraph 4A (persons granted stateless leave and their fami
 - (f) at the end of sub-paragraph (3)(c), for “; and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 4.[^key-72f1ab5446c25c559e7284cfcd616bd8]
+### 4.[^c-72f1ab5446c25c559e7284cfcd616bd8]
 
 In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
 
@@ -86,45 +86,45 @@ In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
 - (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
 - (f) omit sub-paragraph (2)(d).
 
-## PART 3 — AMENDMENTS TO THE EDUCATION (EUROPEAN UNIVERSITY INSTITUTE) (WALES) REGULATIONS 2014[^key-a6b7340dc690673c12f3224404c5da53]
+## PART 3 — AMENDMENTS TO THE EDUCATION (EUROPEAN UNIVERSITY INSTITUTE) (WALES) REGULATIONS 2014[^c-a6b7340dc690673c12f3224404c5da53]
 
 **No longer in force.**
 
-### 5. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-a6b7340dc690673c12f3224404c5da53]
+### 5. Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-a6b7340dc690673c12f3224404c5da53]
+### 6.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-a6b7340dc690673c12f3224404c5da53]
+### 7.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-a6b7340dc690673c12f3224404c5da53]
+### 8.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-a6b7340dc690673c12f3224404c5da53]
+### 9.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-a6b7340dc690673c12f3224404c5da53]
+### 10.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11.[^key-a6b7340dc690673c12f3224404c5da53]
+### 11.[^c-a6b7340dc690673c12f3224404c5da53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — AMENDMENTS TO THE HIGHER EDUCATION (QUALIFYING COURSES, QUALIFYING PERSONS AND SUPPLEMENTARY PROVISION) (WALES) REGULATIONS 2015
 
-### 12. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^key-2eab51ee53f84f29f66370877ae52533]
+### 12. Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^c-2eab51ee53f84f29f66370877ae52533]
 
 The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00008] are amended in accordance with regulations 13 and 14.
 
-### 13.[^key-da7e8aa826269dde591e953c08d60cd2]
+### 13.[^c-da7e8aa826269dde591e953c08d60cd2]
 
 In the Schedule, in paragraph 4A (persons granted stateless leave and their family members)—
 
@@ -140,7 +140,7 @@ In the Schedule, in paragraph 4A (persons granted stateless leave and their fami
 - (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 14.[^key-8dff9012f9ce01830cf392fae6c46ee4]
+### 14.[^c-8dff9012f9ce01830cf392fae6c46ee4]
 
 In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
 
@@ -153,15 +153,15 @@ In the Schedule, in paragraph 5A (persons with section 67 leave to remain)—
 
 ## PART 5 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2017
 
-### 15. Amendments to the Education (Student Support) (Wales) Regulations 2017[^key-528d26c81e701561972fe56d9b7aacc4]
+### 15. Amendments to the Education (Student Support) (Wales) Regulations 2017[^c-528d26c81e701561972fe56d9b7aacc4]
 
 The Education (Student Support) (Wales) Regulations 2017[^f00009] are amended in accordance with regulations 16 to 34.
 
-### 16.[^key-4e82df38f802927066995b7a2f05f18d]
+### 16.[^c-4e82df38f802927066995b7a2f05f18d]
 
 In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
 
-### 17.[^key-c4f08e305625de1dfaa6122e5f57fb5a]
+### 17.[^c-c4f08e305625de1dfaa6122e5f57fb5a]
 
 After regulation 4(9A) insert—
 
@@ -174,11 +174,11 @@ After regulation 4(9A) insert—
 >
 > A’s status as an eligible or qualifying student terminates immediately before the first day of the academic year in respect of which A is applying for support.
 
-### 18.[^key-b074b11f680a6e54d9a46fa2f0ff982f]
+### 18.[^c-b074b11f680a6e54d9a46fa2f0ff982f]
 
 In regulation 4(11), after “(9A),” insert “(9B),”.
 
-### 19.[^key-617d51c8bafa4e11bdb4c91e48f6ff1b]
+### 19.[^c-617d51c8bafa4e11bdb4c91e48f6ff1b]
 
 For regulation 15(b) substitute—
 
@@ -186,7 +186,7 @@ For regulation 15(b) substitute—
 
 .
 
-### 20.[^key-e0e394bf8cd0423a1326f5646b209bf3]
+### 20.[^c-e0e394bf8cd0423a1326f5646b209bf3]
 
 For regulation 23(12)(b) substitute—
 
@@ -194,7 +194,7 @@ For regulation 23(12)(b) substitute—
 
 .
 
-### 21.[^key-8b58155db4fa71feb94a027712329caa]
+### 21.[^c-8b58155db4fa71feb94a027712329caa]
 
 For regulation 49(2)(b) substitute—
 
@@ -202,7 +202,7 @@ For regulation 49(2)(b) substitute—
 
 .
 
-### 22.[^key-6d65a6a246a863c3c9288d88a548476b]
+### 22.[^c-6d65a6a246a863c3c9288d88a548476b]
 
 After regulation 64(10A) insert—
 
@@ -213,11 +213,11 @@ After regulation 64(10A) insert—
 >
 > A’s status as an eligible distance learning student terminates immediately before the first day of the academic year in respect of which A is applying for support.
 
-### 23.[^key-f91b98e2e468021d03ab4ca927b54b90]
+### 23.[^c-f91b98e2e468021d03ab4ca927b54b90]
 
 In regulation 64(12), after “(10A),” insert “(10B),”.
 
-### 24.[^key-26b1e2ed1d9c63894be00fd43b19a355]
+### 24.[^c-26b1e2ed1d9c63894be00fd43b19a355]
 
 For regulation 65(4)(b) substitute—
 
@@ -225,7 +225,7 @@ For regulation 65(4)(b) substitute—
 
 .
 
-### 25.[^key-7f0b30da09de85609f56618bbb194917]
+### 25.[^c-7f0b30da09de85609f56618bbb194917]
 
 After regulation 81(9A) insert—
 
@@ -236,11 +236,11 @@ After regulation 81(9A) insert—
 >
 > A’s status as an eligible part-time student terminates immediately before the first day of the academic year in respect of which A is applying for support.
 
-### 26.[^key-31b0ca0716ee65201656c84f79030f3d]
+### 26.[^c-31b0ca0716ee65201656c84f79030f3d]
 
 In regulation 81(11), after “(9A),” insert “(9B),”.
 
-### 27.[^key-b9ec90350527f1c8519616383130e9aa]
+### 27.[^c-b9ec90350527f1c8519616383130e9aa]
 
 For regulation 82(4)(b) substitute—
 
@@ -248,7 +248,7 @@ For regulation 82(4)(b) substitute—
 
 .
 
-### 28.[^key-e8b05771821f72d6f708fc633f6f43c5]
+### 28.[^c-e8b05771821f72d6f708fc633f6f43c5]
 
 After regulation 110(11A) insert—
 
@@ -259,11 +259,11 @@ After regulation 110(11A) insert—
 >
 > A’s status as an eligible postgraduate student terminates immediately before the first day of the academic year in respect of which A is applying for support.
 
-### 29.[^key-7349fc9b1f4e3bc75a9319b61ecc534c]
+### 29.[^c-7349fc9b1f4e3bc75a9319b61ecc534c]
 
 In regulation 110(13), after “(11A),” insert “(11B),”.
 
-### 30.[^key-1c96580a425adf77c1a4940893d83d9f]
+### 30.[^c-1c96580a425adf77c1a4940893d83d9f]
 
 For regulation 111(2)(b) substitute—
 
@@ -271,7 +271,7 @@ For regulation 111(2)(b) substitute—
 
 .
 
-### 31.[^key-90fac32fb862d9ae9a484ea0b2dcb3e6]
+### 31.[^c-90fac32fb862d9ae9a484ea0b2dcb3e6]
 
 In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 
@@ -302,7 +302,7 @@ In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 > - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
 > - (b) “person being granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
 
-### 32.[^key-1468999826b7f8408e05379958bbe01b]
+### 32.[^c-1468999826b7f8408e05379958bbe01b]
 
 In Schedule 1, in paragraph 4A (persons granted stateless leave and their family members)—
 
@@ -318,7 +318,7 @@ In Schedule 1, in paragraph 4A (persons granted stateless leave and their family
 - (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 33.[^key-e7d0874527ac650c43a70c15976f249b]
+### 33.[^c-e7d0874527ac650c43a70c15976f249b]
 
 In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
 
@@ -329,7 +329,7 @@ In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
 - (e) at the end of sub-paragraph (2)(c) for “; and” substitute a full stop;
 - (f) omit sub-paragraph (2)(d).
 
-### 34.[^key-33cea882ecee5beedaf1f6533bb83365]
+### 34.[^c-33cea882ecee5beedaf1f6533bb83365]
 
 In Schedule 4, for paragraph 6(a) substitute—
 
@@ -339,15 +339,15 @@ In Schedule 4, for paragraph 6(a) substitute—
 
 ## PART 6 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE MASTER’S DEGREE LOANS) (WALES) REGULATIONS 2017
 
-### 35. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^key-4703fab53311ccce16d387cc890f7427]
+### 35. Amendments to the Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^c-4703fab53311ccce16d387cc890f7427]
 
 The Education (Postgraduate Master’s Degree Loans) (Wales) Regulations 2017[^f00010] are amended in accordance with regulations 36 to 40.
 
-### 36.[^key-d6509f8ee4c0f080065b10190f71dda9]
+### 36.[^c-d6509f8ee4c0f080065b10190f71dda9]
 
 In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
 
-### 37.[^key-e8e73e928a55dddc1b786b2ca39a4114]
+### 37.[^c-e8e73e928a55dddc1b786b2ca39a4114]
 
 For regulation 8(b) substitute—
 
@@ -355,7 +355,7 @@ For regulation 8(b) substitute—
 
 .
 
-### 38.[^key-7c7c55aa389557b823e4a9662883eb36]
+### 38.[^c-7c7c55aa389557b823e4a9662883eb36]
 
 In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 
@@ -386,7 +386,7 @@ In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 > - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
 > - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
 
-### 39.[^key-7e212cfffa0bfb651262a1f69cacecb0]
+### 39.[^c-7e212cfffa0bfb651262a1f69cacecb0]
 
 In Schedule 1, in paragraph 4A (persons granted stateless leave and their family members)—
 
@@ -402,7 +402,7 @@ In Schedule 1, in paragraph 4A (persons granted stateless leave and their family
 - (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 40.[^key-7b90e22bfc6291e5dfac6fb0deb02f32]
+### 40.[^c-7b90e22bfc6291e5dfac6fb0deb02f32]
 
 In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
 
@@ -415,18 +415,18 @@ In Schedule 1, in paragraph 5A (persons with section 67 leave to remain)—
 
 ## PART 7 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (WALES) REGULATIONS 2018
 
-### 41. Amendments to the Education (Student Support) (Wales) Regulations 2018[^key-bc54f6298299d9f7747a8ad13e54fb8f]
+### 41. Amendments to the Education (Student Support) (Wales) Regulations 2018[^c-bc54f6298299d9f7747a8ad13e54fb8f]
 
 The Education (Student Support) (Wales) Regulations 2018[^f00011] are amended in accordance with regulations 42 to 51.
 
-### 42.[^key-625701dc6f33ace20faabb9cdc72664c]
+### 42.[^c-625701dc6f33ace20faabb9cdc72664c]
 
 In regulation 23—
 
 - (a) in paragraph (1)(a), for “Category 3 eligible student (see Schedule 2)” substitute “Category 3 eligible student or an eligible student on grounds of humanitarian protection under paragraph 339C of the immigration rules (see Schedule 2)”;
 - (b) in paragraph (1)(b)(ii), after “eligible student” insert “or an eligible student on grounds of humanitarian protection under paragraph 339C of the immigration rules”.
 
-### 43.[^key-270c801443cb7ee01cbd1da5b6c4c174]
+### 43.[^c-270c801443cb7ee01cbd1da5b6c4c174]
 
 In regulation 80—
 
@@ -437,7 +437,7 @@ In regulation 80—
   ;
 - (b) in paragraph (3), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
 
-### 44.[^key-7d0d30437cda35de3e67ee8d319bb7ad]
+### 44.[^c-7d0d30437cda35de3e67ee8d319bb7ad]
 
 For regulation 81(3)(b)(i) substitute—
 
@@ -445,7 +445,7 @@ For regulation 81(3)(b)(i) substitute—
 
 .
 
-### 45.[^key-17bbcae233934718fed7c9e9a90f32d7]
+### 45.[^c-17bbcae233934718fed7c9e9a90f32d7]
 
 In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members) insert—
 
@@ -476,7 +476,7 @@ In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members
 > - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
 > - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
 
-### 46.[^key-d1e150b3e716b1c400e0f002b4bce41b]
+### 46.[^c-d1e150b3e716b1c400e0f002b4bce41b]
 
 In Schedule 2, in paragraph 2A (Category 2A - persons granted stateless leave and their family members)—
 
@@ -492,11 +492,11 @@ In Schedule 2, in paragraph 2A (Category 2A - persons granted stateless leave an
 - (f) at the end of sub-paragraph (3)(c) for “, and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 47.[^key-3dde957855fe2822fe55c1418a22d4e5]
+### 47.[^c-3dde957855fe2822fe55c1418a22d4e5]
 
 In Schedule 2, in paragraph 3 (Category 3 - persons with leave to enter or remain and their family members), in sub-paragraph (4)(a)(i), omit “humanitarian protection or”.
 
-### 48.[^key-9a761e0b18cc8364df3a39f2ed9591e3]
+### 48.[^c-9a761e0b18cc8364df3a39f2ed9591e3]
 
 In Schedule 2, in paragraph 3A (Category 3A - persons with section 67 leave to remain)—
 
@@ -507,14 +507,14 @@ In Schedule 2, in paragraph 3A (Category 3A - persons with section 67 leave to r
 - (e) at the end of sub-paragraph (2)(c) for “, and” substitute a full stop;
 - (f) omit sub-paragraph (2)(d).
 
-### 49.[^key-8dd99369ab4a10b3a8e214d618b8f7a1]
+### 49.[^c-8dd99369ab4a10b3a8e214d618b8f7a1]
 
 In Schedule 4 (disabled postgraduate student’s grant), in paragraph 13 (other persons who cease to have leave to enter or remain)—
 
 - (a) in sub-paragraph (1)(a), for “category 3 eligible postgraduate student (see Schedule 2)” substitute “category 3 eligible postgraduate student or an eligible postgraduate student on grounds of humanitarian protection under paragraph 339C of the immigration rules (see Schedule 2)”;
 - (b) in sub-paragraph (1)(b)(ii), after “postgraduate student” insert “or an eligible postgraduate student on grounds of humanitarian protection under paragraph 339C of the immigration rules”.
 
-### 50.[^key-07cd59261d93a347e41abadd55dd8616]
+### 50.[^c-07cd59261d93a347e41abadd55dd8616]
 
 In Schedule 4, in paragraph 14 (becoming eligible during an academic year)—
 
@@ -525,7 +525,7 @@ In Schedule 4, in paragraph 14 (becoming eligible during an academic year)—
   ;
 - (b) in sub-paragraph (4), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
 
-### 51.[^key-51766b9706619e1fd51a131c8f748193]
+### 51.[^c-51766b9706619e1fd51a131c8f748193]
 
 In Schedule 5, in paragraph 4 (students becoming eligible during the course of an academic year)—
 
@@ -538,15 +538,15 @@ In Schedule 5, in paragraph 4 (students becoming eligible during the course of a
 
 ## PART 8 — AMENDMENTS TO THE EDUCATION (POSTGRADUATE DOCTORAL DEGREE LOANS) (WALES) REGULATIONS 2018
 
-### 52. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^key-a59e4ef84ccbc6e671fe6e22e2fd0cb1]
+### 52. Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^c-a59e4ef84ccbc6e671fe6e22e2fd0cb1]
 
 The Education (Postgraduate Doctorate Degree Loans) (Wales) Regulations 2018[^f00012] are amended in accordance with regulations 53 to 57.
 
-### 53.[^key-878b6535e549f16bc0a3d1d2557902d5]
+### 53.[^c-878b6535e549f16bc0a3d1d2557902d5]
 
 In regulation 2(1), in the definition of “person with leave to enter or remain”, in paragraph (a)(i), omit “humanitarian protection or”.
 
-### 54.[^key-0fe74db9a6c54e685ba4b92dc589f14c]
+### 54.[^c-0fe74db9a6c54e685ba4b92dc589f14c]
 
 For regulation 8(b) substitute—
 
@@ -554,7 +554,7 @@ For regulation 8(b) substitute—
 
 .
 
-### 55.[^key-037506fc59d7141eb87efbc66416e661]
+### 55.[^c-037506fc59d7141eb87efbc66416e661]
 
 In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 
@@ -585,7 +585,7 @@ In Schedule 1, after paragraph 4 (refugees and their family members) insert—
 > - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
 > - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
 
-### 56.[^key-e64ed3f69bcb1307ca100b1eb942fbe0]
+### 56.[^c-e64ed3f69bcb1307ca100b1eb942fbe0]
 
 In Schedule 1, in paragraph 5 (persons granted stateless leave and their family members)—
 
@@ -601,7 +601,7 @@ In Schedule 1, in paragraph 5 (persons granted stateless leave and their family 
 - (f) at the end of sub-paragraph (3)(c) for “; and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 57.[^key-c99f0b57e49004277b4cb9ce10cf5f79]
+### 57.[^c-c99f0b57e49004277b4cb9ce10cf5f79]
 
 In Schedule 1, in paragraph 6A (persons with section 67 leave to remain)—
 
@@ -614,11 +614,11 @@ In Schedule 1, in paragraph 6A (persons with section 67 leave to remain)—
 
 ## PART 9 — AMENDMENTS TO THE EDUCATION (STUDENT SUPPORT) (POSTGRADUATE MASTER’S DEGREES) (WALES) REGULATIONS 2019
 
-### 58. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^key-398d3a093d5559aa28c9f2a6b53a9743]
+### 58. Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^c-398d3a093d5559aa28c9f2a6b53a9743]
 
 The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00013] are amended in accordance with regulations 59 to 63.
 
-### 59.[^key-7cfc525010acee51dd73e8d0b8e67651]
+### 59.[^c-7cfc525010acee51dd73e8d0b8e67651]
 
 In regulation 16—
 
@@ -629,7 +629,7 @@ In regulation 16—
   ;
 - (b) in paragraph (2), in the appropriate place insert ““immigration rules” (“*rheolau mewnfudo*”);”.
 
-### 60.[^key-a165bb8595888ad8c9a5efb97a55be4a]
+### 60.[^c-a165bb8595888ad8c9a5efb97a55be4a]
 
 In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members) insert—
 
@@ -660,7 +660,7 @@ In Schedule 2, after paragraph 2 (Category 2 - refugees and their family members
 > - (a) “leave application date” means the date on which a person made an application for leave to enter or remain in the United Kingdom that results in a person becoming a person granted leave to enter or remain as a protected person;
 > - (b) “person granted leave to enter or remain as a protected person” means a person who has extant leave to enter or remain on the grounds of humanitarian protection under paragraph 339C of the immigration rules.
 
-### 61.[^key-edabf1885246ba7c686ab24b418de681]
+### 61.[^c-edabf1885246ba7c686ab24b418de681]
 
 In Schedule 2, in paragraph 3 (Category 3 - persons granted stateless leave and their family members)—
 
@@ -676,11 +676,11 @@ In Schedule 2, in paragraph 3 (Category 3 - persons granted stateless leave and 
 - (f) at the end of sub-paragraph (3)(c) for “, and” substitute a full stop;
 - (g) omit sub-paragraph (3)(d).
 
-### 62.[^key-a1abbd577dfad1992a2b4d52526b2bac]
+### 62.[^c-a1abbd577dfad1992a2b4d52526b2bac]
 
 In Schedule 2, in paragraph 4 (Category 4 - persons with leave to enter or remain and their family members), in sub-paragraph (4)(a)(i), omit “humanitarian protection or”.
 
-### 63.[^key-938a30405edc43872c3fbdc02a77461b]
+### 63.[^c-938a30405edc43872c3fbdc02a77461b]
 
 In Schedule 2, in paragraph 5 (Category 5 - persons with section 67 leave to remain)—
 
@@ -740,130 +740,130 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-27695a665537dded32fa32942a808809]: Commencement: Reg. 1 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-27695a665537dded32fa32942a808809]: Commencement: Reg. 1 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-df5a650b07286d0f53a6c4b9c831354a]: Commencement: Reg. 2 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-df5a650b07286d0f53a6c4b9c831354a]: Commencement: Reg. 2 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), amended by [S.I. 2008/1259 (W. 126)](https://www.legislation.gov.uk/wsi/2008/1259); [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142); [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.I. 2011/1978 (W. 218)](https://www.legislation.gov.uk/wsi/2011/1978); [S.I. 2013/1792 (W. 179)](https://www.legislation.gov.uk/wsi/2013/1792); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-5680dd94a7dbf8dd8ab6bea01819922b]: Commencement: Reg. 3 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-5680dd94a7dbf8dd8ab6bea01819922b]: Commencement: Reg. 3 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-72f1ab5446c25c559e7284cfcd616bd8]: Commencement: Reg. 4 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-72f1ab5446c25c559e7284cfcd616bd8]: Commencement: Reg. 4 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-a6b7340dc690673c12f3224404c5da53]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/9/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3)), regs. 1(2), 2, 10(f)
+[^c-a6b7340dc690673c12f3224404c5da53]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2021/9/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.[S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3)), regs. 1(2), 2, 10(f)
 
-[^key-2eab51ee53f84f29f66370877ae52533]: Commencement: Reg. 12 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-2eab51ee53f84f29f66370877ae52533]: Commencement: Reg. 12 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), amended by [S.I. 2016/276 (W. 100)](https://www.legislation.gov.uk/wsi/2016/276); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-da7e8aa826269dde591e953c08d60cd2]: Commencement: Reg. 13 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-da7e8aa826269dde591e953c08d60cd2]: Commencement: Reg. 13 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-8dff9012f9ce01830cf392fae6c46ee4]: Commencement: Reg. 14 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-8dff9012f9ce01830cf392fae6c46ee4]: Commencement: Reg. 14 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-528d26c81e701561972fe56d9b7aacc4]: Commencement: Reg. 15 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-528d26c81e701561972fe56d9b7aacc4]: Commencement: Reg. 15 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/708 (W. 159)](https://www.legislation.gov.uk/wsi/2020/708); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-4e82df38f802927066995b7a2f05f18d]: Commencement: Reg. 16 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-4e82df38f802927066995b7a2f05f18d]: Commencement: Reg. 16 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-c4f08e305625de1dfaa6122e5f57fb5a]: Commencement: Reg. 17 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-c4f08e305625de1dfaa6122e5f57fb5a]: Commencement: Reg. 17 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-b074b11f680a6e54d9a46fa2f0ff982f]: Commencement: Reg. 18 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-b074b11f680a6e54d9a46fa2f0ff982f]: Commencement: Reg. 18 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-617d51c8bafa4e11bdb4c91e48f6ff1b]: Commencement: Reg. 19 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-617d51c8bafa4e11bdb4c91e48f6ff1b]: Commencement: Reg. 19 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-e0e394bf8cd0423a1326f5646b209bf3]: Commencement: Reg. 20 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-e0e394bf8cd0423a1326f5646b209bf3]: Commencement: Reg. 20 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-8b58155db4fa71feb94a027712329caa]: Commencement: Reg. 21 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-8b58155db4fa71feb94a027712329caa]: Commencement: Reg. 21 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-6d65a6a246a863c3c9288d88a548476b]: Commencement: Reg. 22 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-6d65a6a246a863c3c9288d88a548476b]: Commencement: Reg. 22 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-f91b98e2e468021d03ab4ca927b54b90]: Commencement: Reg. 23 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-f91b98e2e468021d03ab4ca927b54b90]: Commencement: Reg. 23 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-26b1e2ed1d9c63894be00fd43b19a355]: Commencement: Reg. 24 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-26b1e2ed1d9c63894be00fd43b19a355]: Commencement: Reg. 24 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7f0b30da09de85609f56618bbb194917]: Commencement: Reg. 25 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7f0b30da09de85609f56618bbb194917]: Commencement: Reg. 25 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-31b0ca0716ee65201656c84f79030f3d]: Commencement: Reg. 26 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-31b0ca0716ee65201656c84f79030f3d]: Commencement: Reg. 26 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-b9ec90350527f1c8519616383130e9aa]: Commencement: Reg. 27 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-b9ec90350527f1c8519616383130e9aa]: Commencement: Reg. 27 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-e8b05771821f72d6f708fc633f6f43c5]: Commencement: Reg. 28 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-e8b05771821f72d6f708fc633f6f43c5]: Commencement: Reg. 28 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7349fc9b1f4e3bc75a9319b61ecc534c]: Commencement: Reg. 29 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7349fc9b1f4e3bc75a9319b61ecc534c]: Commencement: Reg. 29 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-1c96580a425adf77c1a4940893d83d9f]: Commencement: Reg. 30 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-1c96580a425adf77c1a4940893d83d9f]: Commencement: Reg. 30 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-90fac32fb862d9ae9a484ea0b2dcb3e6]: Commencement: Reg. 31 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-90fac32fb862d9ae9a484ea0b2dcb3e6]: Commencement: Reg. 31 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-1468999826b7f8408e05379958bbe01b]: Commencement: Reg. 32 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-1468999826b7f8408e05379958bbe01b]: Commencement: Reg. 32 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-e7d0874527ac650c43a70c15976f249b]: Commencement: Reg. 33 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-e7d0874527ac650c43a70c15976f249b]: Commencement: Reg. 33 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-33cea882ecee5beedaf1f6533bb83365]: Commencement: Reg. 34 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-33cea882ecee5beedaf1f6533bb83365]: Commencement: Reg. 34 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-4703fab53311ccce16d387cc890f7427]: Commencement: Reg. 35 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-4703fab53311ccce16d387cc890f7427]: Commencement: Reg. 35 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2017/523 (W. 109)](https://www.legislation.gov.uk/wsi/2017/523), amended by [S.I. 2017/712 (W. 169)](https://www.legislation.gov.uk/wsi/2017/712); [S.I. 2018/277 (W. 53)](https://www.legislation.gov.uk/wsi/2018/277); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-d6509f8ee4c0f080065b10190f71dda9]: Commencement: Reg. 36 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-d6509f8ee4c0f080065b10190f71dda9]: Commencement: Reg. 36 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-e8e73e928a55dddc1b786b2ca39a4114]: Commencement: Reg. 37 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-e8e73e928a55dddc1b786b2ca39a4114]: Commencement: Reg. 37 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7c7c55aa389557b823e4a9662883eb36]: Commencement: Reg. 38 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7c7c55aa389557b823e4a9662883eb36]: Commencement: Reg. 38 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7e212cfffa0bfb651262a1f69cacecb0]: Commencement: Reg. 39 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7e212cfffa0bfb651262a1f69cacecb0]: Commencement: Reg. 39 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7b90e22bfc6291e5dfac6fb0deb02f32]: Commencement: Reg. 40 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7b90e22bfc6291e5dfac6fb0deb02f32]: Commencement: Reg. 40 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-bc54f6298299d9f7747a8ad13e54fb8f]: Commencement: Reg. 41 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-bc54f6298299d9f7747a8ad13e54fb8f]: Commencement: Reg. 41 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2018/813 (W. 164)](https://www.legislation.gov.uk/wsi/2018/813); [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/708 (W. 159)](https://www.legislation.gov.uk/wsi/2020/708); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-625701dc6f33ace20faabb9cdc72664c]: Commencement: Reg. 42 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-625701dc6f33ace20faabb9cdc72664c]: Commencement: Reg. 42 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-270c801443cb7ee01cbd1da5b6c4c174]: Commencement: Reg. 43 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-270c801443cb7ee01cbd1da5b6c4c174]: Commencement: Reg. 43 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-7d0d30437cda35de3e67ee8d319bb7ad]: Commencement: Reg. 44 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7d0d30437cda35de3e67ee8d319bb7ad]: Commencement: Reg. 44 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-17bbcae233934718fed7c9e9a90f32d7]: Commencement: Reg. 45 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-17bbcae233934718fed7c9e9a90f32d7]: Commencement: Reg. 45 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-d1e150b3e716b1c400e0f002b4bce41b]: Commencement: Reg. 46 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-d1e150b3e716b1c400e0f002b4bce41b]: Commencement: Reg. 46 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-3dde957855fe2822fe55c1418a22d4e5]: Commencement: Reg. 47 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-3dde957855fe2822fe55c1418a22d4e5]: Commencement: Reg. 47 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-9a761e0b18cc8364df3a39f2ed9591e3]: Commencement: Reg. 48 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-9a761e0b18cc8364df3a39f2ed9591e3]: Commencement: Reg. 48 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-8dd99369ab4a10b3a8e214d618b8f7a1]: Commencement: Reg. 49 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-8dd99369ab4a10b3a8e214d618b8f7a1]: Commencement: Reg. 49 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-07cd59261d93a347e41abadd55dd8616]: Commencement: Reg. 50 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-07cd59261d93a347e41abadd55dd8616]: Commencement: Reg. 50 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-51766b9706619e1fd51a131c8f748193]: Commencement: Reg. 51 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-51766b9706619e1fd51a131c8f748193]: Commencement: Reg. 51 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-a59e4ef84ccbc6e671fe6e22e2fd0cb1]: Commencement: Reg. 52 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-a59e4ef84ccbc6e671fe6e22e2fd0cb1]: Commencement: Reg. 52 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), amended by [S.I. 2018/814 (W. 165)](https://www.legislation.gov.uk/wsi/2018/814); [S.I. 2019/235 (W. 54)](https://www.legislation.gov.uk/wsi/2019/235); [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-878b6535e549f16bc0a3d1d2557902d5]: Commencement: Reg. 53 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-878b6535e549f16bc0a3d1d2557902d5]: Commencement: Reg. 53 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-0fe74db9a6c54e685ba4b92dc589f14c]: Commencement: Reg. 54 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-0fe74db9a6c54e685ba4b92dc589f14c]: Commencement: Reg. 54 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-037506fc59d7141eb87efbc66416e661]: Commencement: Reg. 55 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-037506fc59d7141eb87efbc66416e661]: Commencement: Reg. 55 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-e64ed3f69bcb1307ca100b1eb942fbe0]: Commencement: Reg. 56 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-e64ed3f69bcb1307ca100b1eb942fbe0]: Commencement: Reg. 56 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-c99f0b57e49004277b4cb9ce10cf5f79]: Commencement: Reg. 57 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-c99f0b57e49004277b4cb9ce10cf5f79]: Commencement: Reg. 57 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-398d3a093d5559aa28c9f2a6b53a9743]: Commencement: Reg. 58 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-398d3a093d5559aa28c9f2a6b53a9743]: Commencement: Reg. 58 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), amended by [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094); [S.I. 2019/1192 (W. 209)](https://www.legislation.gov.uk/wsi/2019/1192); [S.I. 2020/142 (W. 25)](https://www.legislation.gov.uk/wsi/2020/142); [S.I. 2020/153 (W. 27)](https://www.legislation.gov.uk/wsi/2020/153); [S.I. 2020/918 (W. 206)](https://www.legislation.gov.uk/wsi/2020/918); and [S.I. 2020/1302 (W. 287)](https://www.legislation.gov.uk/wsi/2020/1302) (as from IP completion day, as defined by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), section 39(1) to (5)).
 
-[^key-7cfc525010acee51dd73e8d0b8e67651]: Commencement: Reg. 59 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-7cfc525010acee51dd73e8d0b8e67651]: Commencement: Reg. 59 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-a165bb8595888ad8c9a5efb97a55be4a]: Commencement: Reg. 60 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-a165bb8595888ad8c9a5efb97a55be4a]: Commencement: Reg. 60 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-edabf1885246ba7c686ab24b418de681]: Commencement: Reg. 61 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-edabf1885246ba7c686ab24b418de681]: Commencement: Reg. 61 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-a1abbd577dfad1992a2b4d52526b2bac]: Commencement: Reg. 62 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-a1abbd577dfad1992a2b4d52526b2bac]: Commencement: Reg. 62 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
 
-[^key-938a30405edc43872c3fbdc02a77461b]: Commencement: Reg. 63 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)
+[^c-938a30405edc43872c3fbdc02a77461b]: Commencement: Reg. 63 in force at 28.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/9/regulation/1/2)

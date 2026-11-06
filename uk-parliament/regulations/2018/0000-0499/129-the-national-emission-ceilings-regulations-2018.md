@@ -101,7 +101,7 @@ These Regulations may be cited as the National Emission Ceilings Regulations 201
 - “**international maritime traffic**” means journeys at sea and in coastal waters by water-borne vessels of all flags, except fishing vessels, that depart from the territory of one country and arrive in the territory of another country;
 - “**landing and take-off cycle**” means the cycle that includes taxi in and out, take-off, climb out, approach, landing and all other aircraft activities that take place below the altitude of 3,000 feet.
 
-(4)[^key-addf57b8dc09d8fee028b1b3c2846cad] When interpreting the Directive for the purposes of these Regulations—
+(4)[^c-addf57b8dc09d8fee028b1b3c2846cad] When interpreting the Directive for the purposes of these Regulations—
 
 - (a) in Annex 3, Part 2 is to be read as if for “Member States”, in each place where the words occur, there were substituted “ the Secretary of State ”;
 - (b) in Annex 4, Part 1 is to be read as if—
@@ -207,11 +207,11 @@ These Regulations may be cited as the National Emission Ceilings Regulations 201
 
 ## PART 4 — National air pollution control programme
 
-### 9. National air pollution control programme[^key-16327c889961c147f7ca995527773904]
+### 9. National air pollution control programme[^c-16327c889961c147f7ca995527773904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Participation in the drawing up of the national air pollution control programme[^key-4aa3e8d541e3f594219b01b84b7dbbf2]
+### 10. Participation in the drawing up of the national air pollution control programme[^c-4aa3e8d541e3f594219b01b84b7dbbf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -342,7 +342,7 @@ The figures show the percentage reductions to be made for the purpose of regulat
 
 | *SO<sub>2</sub>* | *NO<sub>x</sub>* | *NMVOC* | *NH<sub>3</sub>* | *PM<sub>2.5</sub>* |
 | --- | --- | --- | --- | --- |
-| 88% | 73% | 39% | 16% | 46%[^key-7bef3d445bdf9e3a9db86ea62368a359] |
+| 88% | 73% | 39% | 16% | 46%[^c-7bef3d445bdf9e3a9db86ea62368a359] |
 
 ## SCHEDULE 4 — Spatially disaggregated and large point source inventories
 
@@ -415,7 +415,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c22924451]: Marginal citation: The Convention can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or it can be accessed at https://www.unece.org/fileadmin/DAM/env/lrtap/full%20text/1979.CLRTAP.e.pdf.
 
-[^key-addf57b8dc09d8fee028b1b3c2846cad]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2018/129/regulation/2/4) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [6](https://www.legislation.gov.uk/uksi/2019/74/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-addf57b8dc09d8fee028b1b3c2846cad]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2018/129/regulation/2/4) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [6](https://www.legislation.gov.uk/uksi/2019/74/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22924461]: Marginal citation: The UK National Atmospheric Emissions Inventory can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at http://naei.beis.gov.uk/data/data-selector?view=air-pollutants.
 
@@ -423,10 +423,10 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c22924481]: Marginal citation: The report can be obtained or viewed at the Department for Environment, Food and Rural Affairs, Nobel House, 17 Smith Square, London SW1P 3JR or accessed at http://www.iiasa.ac.at/web/home/research/researchPrograms/air/policy/TSAP\_16a.pdf and http://www.iiasa.ac.at/web/home/research/researchPrograms/air/policy/TSAP\_16b.pdf.
 
-[^key-16327c889961c147f7ca995527773904]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/129/regulation/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-16327c889961c147f7ca995527773904]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/129/regulation/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-4aa3e8d541e3f594219b01b84b7dbbf2]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/129/regulation/10) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-4aa3e8d541e3f594219b01b84b7dbbf2]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/129/regulation/10) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c22924501]: Marginal citation: [S.I. 2002/3118](https://www.legislation.gov.uk/uksi/2002/3118).
 
-[^key-7bef3d445bdf9e3a9db86ea62368a359]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2018/129/schedule/3) substituted (10.12.2020) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1313/regulation/3)
+[^c-7bef3d445bdf9e3a9db86ea62368a359]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2018/129/schedule/3) substituted (10.12.2020) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1313/regulation/3)

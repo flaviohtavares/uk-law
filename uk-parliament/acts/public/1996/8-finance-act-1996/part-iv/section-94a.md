@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Loan relationships with embedded derivatives[^key-d8e7cea70b47bd95d6adc456f9f914d6]
+## 94A. Loan relationships with embedded derivatives[^c-d8e7cea70b47bd95d6adc456f9f914d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e7cea70b47bd95d6adc456f9f914d6]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/1996/8/section/94A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 428](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/428), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d8e7cea70b47bd95d6adc456f9f914d6]: Textual amendment: [S. 94A](https://www.legislation.gov.uk/ukpga/1996/8/section/94A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 428](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/428), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

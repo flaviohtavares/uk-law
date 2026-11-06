@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Reduced disqualification period for attendance on course[^key-961df792c84d4db021433fe23daf2e88][^M_I_e95c21ef-a762-4c50-8977-eecd9895cd0d]
+## 35. Reduced disqualification period for attendance on course[^c-961df792c84d4db021433fe23daf2e88][^M_I_e95c21ef-a762-4c50-8977-eecd9895cd0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,6 +165,6 @@ For sections 34A to 34C of the Road Traffic Offenders Act 1988 (c. 53) substitut
 
 ## Annotations
 
-[^key-961df792c84d4db021433fe23daf2e88]: Commencement: S. 35 in force at 21.12.2012 for specified purposes by [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
+[^c-961df792c84d4db021433fe23daf2e88]: Commencement: S. 35 in force at 21.12.2012 for specified purposes by [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
 
 [^M_I_e95c21ef-a762-4c50-8977-eecd9895cd0d]: Commencement: S. 35 in force at 24.6.2013 for specified purposes by [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))

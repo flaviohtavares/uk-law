@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82C. Expressions relating to the Crown[^key-a023c74d5e3053689e7381729fc2d234][^c21493611]
+## 82C. Expressions relating to the Crown[^c-a023c74d5e3053689e7381729fc2d234][^c21493611]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a023c74d5e3053689e7381729fc2d234]: Modification: S. 82C modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-a023c74d5e3053689e7381729fc2d234]: Modification: S. 82C modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
 [^c21493611]: Textual amendment: S. 82C inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 79(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/79/4), [121(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2004/5/schedule/3/paragraph/7) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85A. Appointment of person to act on behalf of child[^key-9d2461510b0bd76499829f6329d129d8]
+## 85A. Appointment of person to act on behalf of child[^c-9d2461510b0bd76499829f6329d129d8]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (b) the Scottish Ministers may request that the appointee provide them with information that the Ministers may otherwise request under section 54 or (as the case may be) the regulations under section 79 (and in the case of section 54, subsections (2) and (3) of that section apply to that request as they apply to a request made to the child),
 - (c) any information that would be given to the child under or by virtue of Part 2 or (as the case may be) the regulations, must be given to the appointee instead.
 
-(5A)[^key-993222ee7ade097c193e78a161a3b9c5] The Scottish Ministers must consider whether to make an appointment under subsection (1), or to terminate such an appointment, if requested to do so by—
+(5A)[^c-993222ee7ade097c193e78a161a3b9c5] The Scottish Ministers must consider whether to make an appointment under subsection (1), or to terminate such an appointment, if requested to do so by—
 
 - (a) the child, or
 - (b) anyone else who appears to the Ministers to—
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d2461510b0bd76499829f6329d129d8]: Textual amendment: S. 85A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/18/section/1/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-9d2461510b0bd76499829f6329d129d8]: Textual amendment: S. 85A and cross-heading inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/18/section/1/2), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
 
-[^key-993222ee7ade097c193e78a161a3b9c5]: Textual amendment: [S. 85A(5A)-(5C)](https://www.legislation.gov.uk/asp/2018/9/section/85A/5A) inserted (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(3)](https://www.legislation.gov.uk/asp/2020/18/section/2/3), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
+[^c-993222ee7ade097c193e78a161a3b9c5]: Textual amendment: [S. 85A(5A)-(5C)](https://www.legislation.gov.uk/asp/2018/9/section/85A/5A) inserted (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(3)](https://www.legislation.gov.uk/asp/2020/18/section/2/3), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))

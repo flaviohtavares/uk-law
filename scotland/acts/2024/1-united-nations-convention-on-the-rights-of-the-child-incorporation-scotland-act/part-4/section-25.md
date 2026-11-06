@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Strike down declarators[^key-328cd7e7e1fbf547fed306792f09365f]
+## 25. Strike down declarators[^c-328cd7e7e1fbf547fed306792f09365f]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-328cd7e7e1fbf547fed306792f09365f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/1/section/25) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-328cd7e7e1fbf547fed306792f09365f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/1/section/25) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

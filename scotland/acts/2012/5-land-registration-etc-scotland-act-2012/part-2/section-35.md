@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Period within which decision must be made[^key-9c689626e8e45f7dd62292b24a7170d7]
+## 35. Period within which decision must be made[^c-9c689626e8e45f7dd62292b24a7170d7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c689626e8e45f7dd62292b24a7170d7]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/5/section/35) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9c689626e8e45f7dd62292b24a7170d7]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/5/section/35) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

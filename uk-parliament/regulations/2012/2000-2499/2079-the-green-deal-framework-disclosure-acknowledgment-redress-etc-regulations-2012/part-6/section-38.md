@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Permitted early repayment of credit[^key-910180ab28790384b595b217569addbd]
+## 38. Permitted early repayment of credit[^c-910180ab28790384b595b217569addbd]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ the new agreement would be a regulated consumer credit agreement.
 
 ## Annotations
 
-[^key-910180ab28790384b595b217569addbd]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/2079/regulation/38) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-910180ab28790384b595b217569addbd]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/2079/regulation/38) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

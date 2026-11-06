@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Sections 24 and 25: “public property” and “service property”[^key-002c3abde8fa3f1264d30d3b30ad4d4d][^key-aaf8c16ccb44e299ab8c5c6d419995b2]
+## 26. Sections 24 and 25: “public property” and “service property”[^c-002c3abde8fa3f1264d30d3b30ad4d4d][^c-aaf8c16ccb44e299ab8c5c6d419995b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-002c3abde8fa3f1264d30d3b30ad4d4d]: Commencement: S. 26 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-002c3abde8fa3f1264d30d3b30ad4d4d]: Commencement: S. 26 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-aaf8c16ccb44e299ab8c5c6d419995b2]: Commencement: S. 26 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-aaf8c16ccb44e299ab8c5c6d419995b2]: Commencement: S. 26 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

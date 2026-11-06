@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Establishment in the United Kingdom[^key-afa9fe881c1845065ee7b56dcadf151b]
+## 4. Establishment in the United Kingdom[^c-afa9fe881c1845065ee7b56dcadf151b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afa9fe881c1845065ee7b56dcadf151b]: Commencement: Reg. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-afa9fe881c1845065ee7b56dcadf151b]: Commencement: Reg. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

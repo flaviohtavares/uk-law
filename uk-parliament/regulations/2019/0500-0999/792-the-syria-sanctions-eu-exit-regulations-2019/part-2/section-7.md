@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Interpretation of regulation 6[^key-cb4ecbb55da3dd707412e6a530e5ee59]
+## 7. Interpretation of regulation 6[^c-cb4ecbb55da3dd707412e6a530e5ee59]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Schedule 1 contains provision applying for the purpose of interpreting paragraph (2).
 
-(4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and [^key-ffb2f948bc618b62f92c28d95f83b515]... whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
+(4) The second condition is that it is reasonable, having regard to all the circumstances, to expect that P would (if P chose to) be able, in most cases or in significant respects, by whatever means and [^c-ffb2f948bc618b62f92c28d95f83b515]... whether directly or indirectly, to achieve the result that affairs of C are conducted in accordance with P's wishes.
 
 (5) For the purposes of regulation 6(2)(d), the reference to a person who is “associated” with another person includes, in particular, a person who is a family member of Bashar al-Assad or Rami Makhlouf.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb4ecbb55da3dd707412e6a530e5ee59]: Commencement: Reg. 7 in force at 6.4.2019, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/2/f)
+[^c-cb4ecbb55da3dd707412e6a530e5ee59]: Commencement: Reg. 7 in force at 6.4.2019, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/2/f)
 
-[^key-ffb2f948bc618b62f92c28d95f83b515]: Textual amendment: Comma in reg. 7(4) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/4); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-ffb2f948bc618b62f92c28d95f83b515]: Textual amendment: Comma in reg. 7(4) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/4); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

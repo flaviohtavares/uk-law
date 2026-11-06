@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 222. Application to court by creditor[^key-3a36537c9fcf57412e84efc28bf57a01]
+## 222. Application to court by creditor[^c-3a36537c9fcf57412e84efc28bf57a01]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the administrator;
 - (b) the person who made the application for the special administration order; and
-- (c) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-ea001281df07160a3cdab78cace69648].
+- (c) the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-ea001281df07160a3cdab78cace69648].
 
 (2) Service shall be effected not less than 5 business days before the date fixed for the hearing.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a36537c9fcf57412e84efc28bf57a01]: Commencement: [Rule 222](https://www.legislation.gov.uk/uksi/2011/1301/rule/222) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3a36537c9fcf57412e84efc28bf57a01]: Commencement: [Rule 222](https://www.legislation.gov.uk/uksi/2011/1301/rule/222) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-ea001281df07160a3cdab78cace69648]: Textual amendment: Words in [art. 222(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/222/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xx)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xx) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-ea001281df07160a3cdab78cace69648]: Textual amendment: Words in [art. 222(1)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/222/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xx)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xx) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

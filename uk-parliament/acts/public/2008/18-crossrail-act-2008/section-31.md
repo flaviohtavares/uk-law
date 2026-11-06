@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Arbitration after referral under section 30(3)[^key-dbc40f05ec47decf83950d91efa5bb88]
+## 31. Arbitration after referral under section 30(3)[^c-dbc40f05ec47decf83950d91efa5bb88]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc40f05ec47decf83950d91efa5bb88]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2008/18/section/31) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
+[^c-dbc40f05ec47decf83950d91efa5bb88]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/2008/18/section/31) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)

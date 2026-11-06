@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2G. Continuing account of a deceased investor and administration-period investments[^key-7a2392cc035c96c3fff4775954608d3c]
+## 2G. Continuing account of a deceased investor and administration-period investments[^c-7a2392cc035c96c3fff4775954608d3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the completion of the administration of the deceased’s estate,
 - (b) the day falling on the third anniversary of the death, or
-- (c)[^key-9e4f2430d44d937f7bf2c19c5ace9af6] the day on which a person within section 694A(2) of ITTOIA 2005 withdraws all account investments, other proceeds in respect of such investments and cash representing subscriptions to the account.
+- (c)[^c-9e4f2430d44d937f7bf2c19c5ace9af6] the day on which a person within section 694A(2) of ITTOIA 2005 withdraws all account investments, other proceeds in respect of such investments and cash representing subscriptions to the account.
 
 (3) A continuing account of a deceased investor is to cease to be such an account at the end of the period referred to in paragraph (2).
 
@@ -44,16 +44,16 @@ summary: ''
 (6) In relation to a continuing account of a deceased investor—
 
 - (a) regulations 4(6)(a) and (f) (except in relation to a transfer when regulation 17, 19 or 20 applies), 12(3)(f) and (6)(a) and 12B(8)(a) and (c) do not apply,
-- (b) in regulation 7(2)(h)(iii), the phrase “but have remained in the beneficial ownership of the participant” is to be treated as omitted, and[^key-3f0ec1d9004fa73994e45149a5189412]
-- (c) in regulation 21(4D), after “made on a transfer”, there is to be treated as inserted “and is a continuing account of a deceased investor”. [^key-e6da5d90787f9b6dcdec729ee3dfb6c4]...
-- (d)[^key-e6da5d90787f9b6dcdec729ee3dfb6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in regulation 7(2)(h)(iii), the phrase “but have remained in the beneficial ownership of the participant” is to be treated as omitted, and[^c-3f0ec1d9004fa73994e45149a5189412]
+- (c) in regulation 21(4D), after “made on a transfer”, there is to be treated as inserted “and is a continuing account of a deceased investor”. [^c-e6da5d90787f9b6dcdec729ee3dfb6c4]...
+- (d)[^c-e6da5d90787f9b6dcdec729ee3dfb6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a2392cc035c96c3fff4775954608d3c]: Textual amendment: Reg. 2G inserted (6.4.2018) by [The Individual Savings Account (Amendment No. 3) Regulations 2017 (S.I. 2017/1089)](https://www.legislation.gov.uk/uksi/2017/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1089/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1089/regulation/4)
+[^c-7a2392cc035c96c3fff4775954608d3c]: Textual amendment: Reg. 2G inserted (6.4.2018) by [The Individual Savings Account (Amendment No. 3) Regulations 2017 (S.I. 2017/1089)](https://www.legislation.gov.uk/uksi/2017/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1089/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1089/regulation/4)
 
-[^key-9e4f2430d44d937f7bf2c19c5ace9af6]: Textual amendment: [Reg. 2G(2)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2G/2/c) substituted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/350/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/350/regulation/2))
+[^c-9e4f2430d44d937f7bf2c19c5ace9af6]: Textual amendment: [Reg. 2G(2)(c)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/2G/2/c) substituted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/350/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/350/regulation/2))
 
-[^key-3f0ec1d9004fa73994e45149a5189412]: Textual amendment: Word in reg. 2G(6) inserted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/359/regulation/3/a)
+[^c-3f0ec1d9004fa73994e45149a5189412]: Textual amendment: Word in reg. 2G(6) inserted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/359/regulation/3/a)
 
-[^key-e6da5d90787f9b6dcdec729ee3dfb6c4]: Textual amendment: Words in reg. 2G(6) omitted (6.4.2018) by virtue of [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/359/regulation/3/b)
+[^c-e6da5d90787f9b6dcdec729ee3dfb6c4]: Textual amendment: Words in reg. 2G(6) omitted (6.4.2018) by virtue of [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/359/regulation/3/b)

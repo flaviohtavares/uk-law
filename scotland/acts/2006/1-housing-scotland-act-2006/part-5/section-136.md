@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Change of ownership: effect on HMO licence[^key-84eee22cff079897a9ccf3d9418994ce]
+## 136. Change of ownership: effect on HMO licence[^c-84eee22cff079897a9ccf3d9418994ce]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84eee22cff079897a9ccf3d9418994ce]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2006/1/section/136) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-84eee22cff079897a9ccf3d9418994ce]: Commencement: [S. 136](https://www.legislation.gov.uk/asp/2006/1/section/136) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

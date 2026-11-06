@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Civil service code[^key-f864ae437f7410eea3f3f32f19858306]
+## 5. Civil service code[^c-f864ae437f7410eea3f3f32f19858306]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f864ae437f7410eea3f3f32f19858306]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2010/25/section/5) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-f864ae437f7410eea3f3f32f19858306]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2010/25/section/5) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

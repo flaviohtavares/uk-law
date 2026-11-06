@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Registered email addresses: transitional provision[^key-2a4ce6b0bda60176eeccc2e69fbaf02a][^key-c8f27a3e3e1c77b1a82e14752eb1514d]
+## 30. Registered email addresses: transitional provision[^c-2a4ce6b0bda60176eeccc2e69fbaf02a][^c-c8f27a3e3e1c77b1a82e14752eb1514d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a4ce6b0bda60176eeccc2e69fbaf02a]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2a4ce6b0bda60176eeccc2e69fbaf02a]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c8f27a3e3e1c77b1a82e14752eb1514d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/56/section/30) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/x)
+[^c-c8f27a3e3e1c77b1a82e14752eb1514d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/56/section/30) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/x)

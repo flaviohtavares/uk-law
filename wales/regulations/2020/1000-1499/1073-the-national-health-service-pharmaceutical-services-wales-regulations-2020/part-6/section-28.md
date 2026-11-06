@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Provision of pharmaceutical services for immediate treatment or personal administration[^key-7bb9e9deb9807ee1788d1c3070b1b24d]
+## 28. Provision of pharmaceutical services for immediate treatment or personal administration[^c-7bb9e9deb9807ee1788d1c3070b1b24d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb9e9deb9807ee1788d1c3070b1b24d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2020/1073/regulation/28) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-7bb9e9deb9807ee1788d1c3070b1b24d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2020/1073/regulation/28) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

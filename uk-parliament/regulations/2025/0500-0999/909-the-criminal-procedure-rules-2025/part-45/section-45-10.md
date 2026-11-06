@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.10. Costs against a third party[^key-980407e394fd1caffc60920d33d2f183]
+## 45.10. Costs against a third party[^c-980407e394fd1caffc60920d33d2f183]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-980407e394fd1caffc60920d33d2f183]: Commencement: [Rule 45.10](https://www.legislation.gov.uk/uksi/2025/909/rule/45.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-980407e394fd1caffc60920d33d2f183]: Commencement: [Rule 45.10](https://www.legislation.gov.uk/uksi/2025/909/rule/45.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

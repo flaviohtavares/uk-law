@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**252.**[^key-7158d0cb8fcd3e9de092ee7e18f847a4] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
+**252.**[^c-7158d0cb8fcd3e9de092ee7e18f847a4] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
 ## Annotations
 
-[^key-7158d0cb8fcd3e9de092ee7e18f847a4]: Commencement: Reg. 252 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7158d0cb8fcd3e9de092ee7e18f847a4]: Commencement: Reg. 252 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

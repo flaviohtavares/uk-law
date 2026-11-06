@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.1. Where to start proceedings[^key-797b9baca7495dfac58882b9e682a83a]
+## 7.1. Where to start proceedings[^c-797b9baca7495dfac58882b9e682a83a]
 
 *Extent: E+W*
 
-Restrictions on where proceedings may be started are set out in the relevant practice directions supplementing this Part[^key-92abb7c2c2481a493caf592b544bcd92].
+Restrictions on where proceedings may be started are set out in the relevant practice directions supplementing this Part[^c-92abb7c2c2481a493caf592b544bcd92].
 
 ## Annotations
 
-[^key-797b9baca7495dfac58882b9e682a83a]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-797b9baca7495dfac58882b9e682a83a]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-92abb7c2c2481a493caf592b544bcd92]: Textual amendment: Words in [rule 7.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.1) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/6/a)
+[^c-92abb7c2c2481a493caf592b544bcd92]: Textual amendment: Words in [rule 7.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.1) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/6/a)

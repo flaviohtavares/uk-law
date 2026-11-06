@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Application of Part I of the Local Government Act 1988 during transitional period.[^key-f8a2e686e0b25e41e0614ae0e836bfae]
+## 52. Application of Part I of the Local Government Act 1988 during transitional period.[^c-f8a2e686e0b25e41e0614ae0e836bfae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a2e686e0b25e41e0614ae0e836bfae]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1994/19/section/52) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/d)
+[^c-f8a2e686e0b25e41e0614ae0e836bfae]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1994/19/section/52) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 38(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/38/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Civil registration fees[^key-313f280009a2d8ced61bd87c737d6271]
+## 89. Civil registration fees[^c-313f280009a2d8ced61bd87c737d6271]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-313f280009a2d8ced61bd87c737d6271]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2016/19/section/89) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/r)
+[^c-313f280009a2d8ced61bd87c737d6271]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2016/19/section/89) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/r)

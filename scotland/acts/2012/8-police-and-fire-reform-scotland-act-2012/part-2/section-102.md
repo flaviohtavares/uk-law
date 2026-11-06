@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Promotion of fire safety[^key-f6ddc698c8dcb244058f27c81a27a4b2]
+## 102. Promotion of fire safety[^c-f6ddc698c8dcb244058f27c81a27a4b2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In section 8 of the 2005 Act (fire safety)—
 
 ## Annotations
 
-[^key-f6ddc698c8dcb244058f27c81a27a4b2]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2012/8/section/102) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-f6ddc698c8dcb244058f27c81a27a4b2]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2012/8/section/102) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

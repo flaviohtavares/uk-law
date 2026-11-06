@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Amendment of regulation 169 (mixing of general sale medicinal products)[^key-1eacbf9a278293ed785f85e55b1f980c]
+## 136. Amendment of regulation 169 (mixing of general sale medicinal products)[^c-1eacbf9a278293ed785f85e55b1f980c]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 169(9)(a), for “marketing authorisation” substitute “UK marketing authorisation or EU marketing authorisation”[^key-057b00ddf68518a966a1aef4fab20db0] .
+In regulation 169(9)(a), for “marketing authorisation” substitute “UK marketing authorisation or EU marketing authorisation”[^c-057b00ddf68518a966a1aef4fab20db0] .
 
 ## Annotations
 
-[^key-1eacbf9a278293ed785f85e55b1f980c]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1eacbf9a278293ed785f85e55b1f980c]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-057b00ddf68518a966a1aef4fab20db0]: Textual amendment: Words in reg. 136 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 104](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/104)
+[^c-057b00ddf68518a966a1aef4fab20db0]: Textual amendment: Words in reg. 136 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 104](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/104)

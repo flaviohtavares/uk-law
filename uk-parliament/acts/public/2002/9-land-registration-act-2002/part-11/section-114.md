@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Supplementary[^key-27ad4af5aaf518ebcea6999a080570d6]
+## 114. Supplementary[^c-27ad4af5aaf518ebcea6999a080570d6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27ad4af5aaf518ebcea6999a080570d6]: Textual amendment: [S. 114](https://www.legislation.gov.uk/ukpga/2002/9/section/114) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/234) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-27ad4af5aaf518ebcea6999a080570d6]: Textual amendment: [S. 114](https://www.legislation.gov.uk/ukpga/2002/9/section/114) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 234](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/234) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

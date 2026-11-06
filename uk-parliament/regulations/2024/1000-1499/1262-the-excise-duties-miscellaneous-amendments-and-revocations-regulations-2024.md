@@ -52,7 +52,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 - (d) sections 45 and 48(10) and (11) of the Taxation (Cross-border Trade) Act 2018[^f00004];
 - (e) section 88(1)(j) and (k), (2)(c) and (3) of the Finance (No. 2) Act 2023[^f00005].
 
-## 1. Citation and commencement[^key-fb7995a2cda3cfc774b4bcc95da22be1]
+## 1. Citation and commencement[^c-fb7995a2cda3cfc774b4bcc95da22be1]
 
 (1) These Regulations may be cited as the Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024.
 
@@ -60,7 +60,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 (3) All other provisions come into force on 23rd December 2024.
 
-## 2. Amendment of the Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^key-2afb6a9246207e69dfbfbcc4642836c7]
+## 2. Amendment of the Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^c-2afb6a9246207e69dfbfbcc4642836c7]
 
 (1) The Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^f00006] are amended as follows.
 
@@ -117,7 +117,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 - (a) in paragraph (1), omit “or (2)”;
 - (b) omit paragraph (2).
 
-## 3. Amendment of the Excise Goods (Export Shops) Regulations 2000[^key-3093c70a8fd6436d58b918cf427cc318]
+## 3. Amendment of the Excise Goods (Export Shops) Regulations 2000[^c-3093c70a8fd6436d58b918cf427cc318]
 
 In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise duty points)[^f00007]—
 
@@ -136,11 +136,11 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
 
   .
 
-## 4. Amendment of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-634e32b7acad2ab941533bf44ce4bf7b][^key-6529785c0330bde2fcdd0ac8e939d6f2]
+## 4. Amendment of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^c-634e32b7acad2ab941533bf44ce4bf7b][^c-6529785c0330bde2fcdd0ac8e939d6f2]
 
-(1)[^key-634e32b7acad2ab941533bf44ce4bf7b] The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^f00008] are amended as follows.
+(1)[^c-634e32b7acad2ab941533bf44ce4bf7b] The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^f00008] are amended as follows.
 
-(2)[^key-634e32b7acad2ab941533bf44ce4bf7b] In regulation 3 (interpretation), in paragraph (1)—
+(2)[^c-634e32b7acad2ab941533bf44ce4bf7b] In regulation 3 (interpretation), in paragraph (1)—
 
 - (a) before the definition of “ALDA 1979” insert—
 
@@ -153,7 +153,7 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
 
   .
 
-(3)[^key-634e32b7acad2ab941533bf44ce4bf7b] In regulation 57 (electronic administrative document for movements within the United Kingdom), for paragraphs (7) and (8) substitute—
+(3)[^c-634e32b7acad2ab941533bf44ce4bf7b] In regulation 57 (electronic administrative document for movements within the United Kingdom), for paragraphs (7) and (8) substitute—
 
 > (7) The consignor of the excise goods must provide the person accompanying the goods during the course of the movement or, where there is no person accompanying the goods, the transporter or carrier with—
 >
@@ -164,9 +164,9 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
 
 .
 
-(4)[^key-634e32b7acad2ab941533bf44ce4bf7b] In regulation 62(5) (simplified procedure for certain movements of alcoholic products), omit the definition of “alcoholic products”.
+(4)[^c-634e32b7acad2ab941533bf44ce4bf7b] In regulation 62(5) (simplified procedure for certain movements of alcoholic products), omit the definition of “alcoholic products”.
 
-(5)[^key-634e32b7acad2ab941533bf44ce4bf7b] In regulation 63A (simplified procedure for direct exports)—
+(5)[^c-634e32b7acad2ab941533bf44ce4bf7b] In regulation 63A (simplified procedure for direct exports)—
 
 - (a) in paragraph (1), after “tobacco products” insert “(“the products”)”;
 - (b) in paragraph (2)—
@@ -195,7 +195,7 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
   ;
 - (d) in paragraph (3), omit the definition of “alcoholic products”.
 
-(6)[^key-634e32b7acad2ab941533bf44ce4bf7b] After regulation 63A, insert—
+(6)[^c-634e32b7acad2ab941533bf44ce4bf7b] After regulation 63A, insert—
 
 > **63B. Simplified procedure for movements of alcoholic products and tobacco products between customs warehouses and tax warehouses**
 >
@@ -211,7 +211,7 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
 
 .
 
-(7)[^key-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85A (interpretation and application of Part 14A), omit the following definitions—
+(7)[^c-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85A (interpretation and application of Part 14A), omit the following definitions—
 
 - (a) “free zone duty representative”;
 - (b) “free zone registered owner”;
@@ -219,28 +219,28 @@ In the Excise Goods (Export Shops) Regulations 2000, in regulation 11 (excise du
 - (d) “relevant excise goods”;
 - (e) “revenue trader”.
 
-(8)[^key-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85B (holding excise goods in a free zone etc.)—
+(8)[^c-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85B (holding excise goods in a free zone etc.)—
 
 - (a) omit paragraph (3);
 - (b) in paragraph (4), for “, (2) or (3)” substitute “or (2)”.
 
-(9)[^key-6529785c0330bde2fcdd0ac8e939d6f2] Omit regulation 85D (approval of owners and duty representatives: terms and conditions).
+(9)[^c-6529785c0330bde2fcdd0ac8e939d6f2] Omit regulation 85D (approval of owners and duty representatives: terms and conditions).
 
-(10)[^key-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85E (excise duty points and liability to pay)—
+(10)[^c-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85E (excise duty points and liability to pay)—
 
 - (a) in paragraph (1), for “, 85C or 85D” substitute “or 85C”;
 - (b) omit paragraphs (4) and (5).
 
-(11)[^key-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85F (application of the Finance Act 1994 to this part)—
+(11)[^c-6529785c0330bde2fcdd0ac8e939d6f2] In regulation 85F (application of the Finance Act 1994 to this part)—
 
 - (a) in paragraph (1), for “, C or D” substitute “or 85C”;
 - (b) in paragraph (3), omit the words from “, a free zone registered owner” to “regulation 85D(3),”.
 
-## 5. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^key-44e92e9c8e6d2dfc5f9abe755862c5a1]
+## 5. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^c-44e92e9c8e6d2dfc5f9abe755862c5a1]
 
 In the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^f00012], in regulation 100 (miscellaneous savings), in paragraph (2), omit sub-paragraph (c).
 
-## 6. Amendment of the Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022[^key-9db3cd0dfb805af4ca31f998014fb709]
+## 6. Amendment of the Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022[^c-9db3cd0dfb805af4ca31f998014fb709]
 
 In the Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022[^f00013], in regulation 9 (movements of excise goods under duty suspension arrangements), in paragraph (1), for sub-paragraph (c) substitute—
 
@@ -255,15 +255,15 @@ In the Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amen
 
 .
 
-## 7. Consequential amendments and revocations[^key-b81d2561a3ea19655984dd2fd1e35d14]
+## 7. Consequential amendments and revocations[^c-b81d2561a3ea19655984dd2fd1e35d14]
 
 In the Excise Goods (Accompanying Documents) Regulations 2002[^f00014], omit regulation 30 (the warehousekeepers and owners of warehoused goods regulations 1999).
 
-**8.**[^key-30976733a0515edade6295adb8494789] In the Excise Warehousing (Energy Products) Regulations 2004[^f00015], omit regulation 7 (amendment to other warehousing regulations).
+**8.**[^c-30976733a0515edade6295adb8494789] In the Excise Warehousing (Energy Products) Regulations 2004[^f00015], omit regulation 7 (amendment to other warehousing regulations).
 
-**9.**[^key-8c229b8e6ef104dbc32c0e8549e667d2] The Warehousekeepers and Owners of Warehoused Goods (Amendment) Regulations 2006[^f00016] are revoked.
+**9.**[^c-8c229b8e6ef104dbc32c0e8549e667d2] The Warehousekeepers and Owners of Warehoused Goods (Amendment) Regulations 2006[^f00016] are revoked.
 
-**10.**[^key-306155baa7f9e86b6a8ad917222466ad][^key-b73ffbcd620d0a9b0cca140135ffe27a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-306155baa7f9e86b6a8ad917222466ad][^c-b73ffbcd620d0a9b0cca140135ffe27a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jonathan Athow
 
@@ -307,19 +307,19 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00005]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30). See section 88(4) for the definition of “specified”. The effect of section 117(3) is that “**the Commissioners**” has the same meaning as in the Customs and Excise Acts 1979.
 
-[^key-fb7995a2cda3cfc774b4bcc95da22be1]: Commencement: Reg. 1 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
+[^c-fb7995a2cda3cfc774b4bcc95da22be1]: Commencement: Reg. 1 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
 
-[^key-2afb6a9246207e69dfbfbcc4642836c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2) in force at 3.3.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
+[^c-2afb6a9246207e69dfbfbcc4642836c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2) in force at 3.3.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 1999/1278](https://www.legislation.gov.uk/uksi/1999/1278). Relevant amendments were made by [S.I. 2004/2064](https://www.legislation.gov.uk/uksi/2004/2064) and [2006/577](https://www.legislation.gov.uk/uksi/2006/577).
 
-[^key-3093c70a8fd6436d58b918cf427cc318]: Commencement: Reg. 3 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
+[^c-3093c70a8fd6436d58b918cf427cc318]: Commencement: Reg. 3 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2000/645](https://www.legislation.gov.uk/uksi/2000/645).
 
-[^key-634e32b7acad2ab941533bf44ce4bf7b]: Commencement: Reg. 4(1)-(6) in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
+[^c-634e32b7acad2ab941533bf44ce4bf7b]: Commencement: Reg. 4(1)-(6) in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
 
-[^key-6529785c0330bde2fcdd0ac8e939d6f2]: Commencement: [Reg. 4(7)-(11)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/4/7) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-6529785c0330bde2fcdd0ac8e939d6f2]: Commencement: [Reg. 4(7)-(11)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/4/7) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593). Relevant amendments were made by [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225), [2019/13](https://www.legislation.gov.uk/uksi/2019/13), [2021/1156](https://www.legislation.gov.uk/uksi/2021/1156) and [2023/884](https://www.legislation.gov.uk/uksi/2023/884).
 
@@ -329,26 +329,26 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00011]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Sections 43A, 43B and 43C were inserted by paragraph 2 of Schedule 2 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16). Section 43AA and 43D were inserted by section 20 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Relevant amendments were made by section 20 of the Finance Act 2004 and paragraphs 1, 2, and 6 to 9 of Schedule 18 to the Finance Act [2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1).
 
-[^key-44e92e9c8e6d2dfc5f9abe755862c5a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/1262/regulation/5) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-44e92e9c8e6d2dfc5f9abe755862c5a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/1262/regulation/5) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559).
 
-[^key-9db3cd0dfb805af4ca31f998014fb709]: Commencement: Reg. 6 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
+[^c-9db3cd0dfb805af4ca31f998014fb709]: Commencement: Reg. 6 in force at 23.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2022/265](https://www.legislation.gov.uk/uksi/2022/265)
 
-[^key-b81d2561a3ea19655984dd2fd1e35d14]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/1262/regulation/7) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-b81d2561a3ea19655984dd2fd1e35d14]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/1262/regulation/7) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2002/501](https://www.legislation.gov.uk/uksi/2002/501).
 
-[^key-30976733a0515edade6295adb8494789]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/1262/regulation/8) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-30976733a0515edade6295adb8494789]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/1262/regulation/8) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2004/2064](https://www.legislation.gov.uk/uksi/2004/2064).
 
-[^key-8c229b8e6ef104dbc32c0e8549e667d2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1262/regulation/9) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-8c229b8e6ef104dbc32c0e8549e667d2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1262/regulation/9) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2006/577](https://www.legislation.gov.uk/uksi/2006/577).
 
-[^key-306155baa7f9e86b6a8ad917222466ad]: Textual amendment: Reg. 10 omitted (28.2.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) (Amendment) Regulations 2025 (S.I. 2025/1262)](https://www.legislation.gov.uk/uksi/2025/1262), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1262/regulation/1), [2](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2)
+[^c-306155baa7f9e86b6a8ad917222466ad]: Textual amendment: Reg. 10 omitted (28.2.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) (Amendment) Regulations 2025 (S.I. 2025/1262)](https://www.legislation.gov.uk/uksi/2025/1262), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1262/regulation/1), [2](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2)
 
-[^key-b73ffbcd620d0a9b0cca140135ffe27a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1262/regulation/10) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)
+[^c-b73ffbcd620d0a9b0cca140135ffe27a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1262/regulation/10) in force at 3.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2)

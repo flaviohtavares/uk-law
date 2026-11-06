@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Order-making powers: supplementary[^c2008202][^key-20c312e2c72a12916d8f32f8dacfe5d9]
+## 222. Order-making powers: supplementary[^c2008202][^c-20c312e2c72a12916d8f32f8dacfe5d9]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ After section 40A of the Salmon and Freshwater Fisheries Act 1975 (as inserted b
 
 [^c2008202]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222) partly in force; [s. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-20c312e2c72a12916d8f32f8dacfe5d9]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
+[^c-20c312e2c72a12916d8f32f8dacfe5d9]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2009/23/section/222) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)

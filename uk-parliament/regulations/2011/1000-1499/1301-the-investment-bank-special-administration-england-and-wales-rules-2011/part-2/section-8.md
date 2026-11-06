@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Witness statement in support of application[^key-f77c1c2add17094d3c7441129dde5059]
+## 8. Witness statement in support of application[^c-f77c1c2add17094d3c7441129dde5059]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the investment bank or one of its directors, the witness statement shall be made by one of its directors or the company secretary of the investment bank, stating that they make it on behalf of the investment bank or, as the case may be, on behalf of the directors;
 - (b) a creditor or a contributory of the investment bank, the witness statement shall be made by a person acting under the authority of all the creditors, or, as the case may be, all the contributories, making the application;
-- (c) the FCA or, where relevant, the PRA[^key-0cc5d45a2cd3134aa9ef64ce1ce477c4], the witness statement must identify the person making the statement and must include the capacity in which that person makes the statement and the basis for that person’s knowledge of the matters set out in the statement; or
+- (c) the FCA or, where relevant, the PRA[^c-0cc5d45a2cd3134aa9ef64ce1ce477c4], the witness statement must identify the person making the statement and must include the capacity in which that person makes the statement and the basis for that person’s knowledge of the matters set out in the statement; or
 - (d) a combination of the persons listed in regulation 5(1)(a) to (e), the witness statement shall be made by a person acting under the authority of all the applicants.
 
 (3) The witness statement shall—
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f77c1c2add17094d3c7441129dde5059]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2011/1301/rule/8) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f77c1c2add17094d3c7441129dde5059]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2011/1301/rule/8) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-0cc5d45a2cd3134aa9ef64ce1ce477c4]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/8/2/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-0cc5d45a2cd3134aa9ef64ce1ce477c4]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/8/2/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/i) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

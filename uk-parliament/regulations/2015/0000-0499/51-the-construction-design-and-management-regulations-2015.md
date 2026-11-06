@@ -193,7 +193,7 @@ These Regulations apply—
 - (b) be clearly displayed in the construction site office in a comprehensible form where it can be read by any worker engaged in the construction work; and
 - (c) if necessary, be periodically updated.
 
-(4) Where a project includes construction work of a description for which the Office of Rail and Road[^key-3ea7ea3e72051e859f90332d18cecec1] is the enforcing authority by virtue of regulation 3 of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 [^c22333591], the client must give notice to the Office of Rail and Road instead of the Executive.
+(4) Where a project includes construction work of a description for which the Office of Rail and Road[^c-3ea7ea3e72051e859f90332d18cecec1] is the enforcing authority by virtue of regulation 3 of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 [^c22333591], the client must give notice to the Office of Rail and Road instead of the Executive.
 
 (5) Where a project includes construction work on premises which are or are on—
 
@@ -841,7 +841,7 @@ Regulation 12(2)
 
 **2.** Work which puts workers at risk from chemical or biological substances constituting a particular danger to the health or safety of workers or involving a legal requirement for health monitoring.
 
-**3.** Work with ionizing radiation requiring the designation of controlled or supervised areas under regulation 17 of the Ionising Radiations Regulations 2017[^key-08ac5def9d110ddf8d1b41649df9427c].
+**3.** Work with ionizing radiation requiring the designation of controlled or supervised areas under regulation 17 of the Ionising Radiations Regulations 2017[^c-08ac5def9d110ddf8d1b41649df9427c].
 
 **4.** Work near high voltage power lines.
 
@@ -1060,7 +1060,7 @@ Regulation 38
 
 [^c22333581]: Marginal citation: [S.I. 2013/240](https://www.legislation.gov.uk/uksi/2013/240).
 
-[^key-3ea7ea3e72051e859f90332d18cecec1]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2015/51/regulation/6/4) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ll)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ll)
+[^c-3ea7ea3e72051e859f90332d18cecec1]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2015/51/regulation/6/4) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ll)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ll)
 
 [^c22333591]: Marginal citation: [S.I. 2006/557](https://www.legislation.gov.uk/uksi/2006/557). Regulation 3 was amended by [S.I. 2007/1573](https://www.legislation.gov.uk/uksi/2007/1573) and 2014/469.
 
@@ -1074,4 +1074,4 @@ Regulation 38
 
 [^c22333641]: Marginal citation: OJ No L 245, 26.8.1992, p6–22.
 
-[^key-08ac5def9d110ddf8d1b41649df9427c]: Textual amendment: Words in Sch. 3 para. 3 substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/14) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-08ac5def9d110ddf8d1b41649df9427c]: Textual amendment: Words in Sch. 3 para. 3 substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/14) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))

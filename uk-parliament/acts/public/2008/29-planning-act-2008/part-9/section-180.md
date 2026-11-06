@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Local development documents[^key-12c6dbfbb7247540f5d754e011cc11f2]
+## 180. Local development documents[^c-12c6dbfbb7247540f5d754e011cc11f2]
 
 *Extent: E+W+S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12c6dbfbb7247540f5d754e011cc11f2]: Commencement: S. 180 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)
+[^c-12c6dbfbb7247540f5d754e011cc11f2]: Commencement: S. 180 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)

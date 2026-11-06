@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Amendment of Part 2[^key-5a025b8c2f0c91092bf07362a4c17a61]
+## 13. Amendment of Part 2[^c-5a025b8c2f0c91092bf07362a4c17a61]
 
 *Extent: N.I.*
 
@@ -26,19 +26,19 @@ In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
 
 .
 
-**14.**[^key-497ff54d2fbe09c92f5e48a517533875] In Rule 2.012 (The hearing) after sub-paragraph (1)(c) insert—
+**14.**[^c-497ff54d2fbe09c92f5e48a517533875] In Rule 2.012 (The hearing) after sub-paragraph (1)(c) insert—
 
 > - (ca) if there is a moratorium in force for the company under Part 1A of the Order, the monitor;
 
 .
 
-**15.**[^key-8ed494a8d4658ac319eb471ba7688078] In Rule 2.028 (Notification and advertisement of administrator’s appointment) before sub-paragraph (2)(a) insert—
+**15.**[^c-8ed494a8d4658ac319eb471ba7688078] In Rule 2.028 (Notification and advertisement of administrator’s appointment) before sub-paragraph (2)(a) insert—
 
 > - (za) if there is a moratorium in force for the company under Part 1A of the Order, to the monitor;
 
 .
 
-**16.**[^key-6c4ebb0011f5f4ef58091fd3ff910eeb] In Rule 2.034 (Administrator’s proposals)—
+**16.**[^c-6c4ebb0011f5f4ef58091fd3ff910eeb] In Rule 2.034 (Administrator’s proposals)—
 
 (1) In paragraph (2)—
 
@@ -63,13 +63,13 @@ In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
 
 .
 
-**17.**[^key-0e8e1c473f33be33d3acd7341c02e960] In Rule 2.068 (Expenses of the administration), after paragraph (3) insert—
+**17.**[^c-0e8e1c473f33be33d3acd7341c02e960] In Rule 2.068 (Expenses of the administration), after paragraph (3) insert—
 
 > (3A) Where paragraph 65A or paragraph 100(1) of Schedule B1 to the Order applies, the items specified in paragraph 65A or paragraph 100 (as the case may be) are payable in priority to the expenses in this Rule.
 
 .
 
-**18.**[^key-e02f66bec38b72a9cd44e208ac9df964] After Rule 2.068 insert—
+**18.**[^c-e02f66bec38b72a9cd44e208ac9df964] After Rule 2.068 insert—
 
 > **2.068ZA. Priority of moratorium debts in subsequent administration**
 >
@@ -82,7 +82,7 @@ In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
 
 .
 
-**19.**[^key-fe1686571c875a27dbd49f23a9e61de3] In Rule 2.096 (Notice of proposed distribution)—
+**19.**[^c-fe1686571c875a27dbd49f23a9e61de3] In Rule 2.096 (Notice of proposed distribution)—
 
 (1) In paragraph (1), after “he shall” insert “(subject to paragraphs (5) and (6));”.
 
@@ -110,7 +110,7 @@ In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
 
 .
 
-**20.**[^key-61eae85b18e95edab21114d30e654061] In Rule 2.099 (Notice of declaration of a dividend)—
+**20.**[^c-61eae85b18e95edab21114d30e654061] In Rule 2.099 (Notice of declaration of a dividend)—
 
 (1) In paragraph (1), after “he shall” insert “(subject to paragraphs (3) and (4))”.
 
@@ -127,20 +127,20 @@ In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
 
 ## Annotations
 
-[^key-5a025b8c2f0c91092bf07362a4c17a61]: Commencement: Rule 13 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-5a025b8c2f0c91092bf07362a4c17a61]: Commencement: Rule 13 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-497ff54d2fbe09c92f5e48a517533875]: Commencement: Rule 14 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-497ff54d2fbe09c92f5e48a517533875]: Commencement: Rule 14 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-8ed494a8d4658ac319eb471ba7688078]: Commencement: Rule 15 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-8ed494a8d4658ac319eb471ba7688078]: Commencement: Rule 15 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-6c4ebb0011f5f4ef58091fd3ff910eeb]: Commencement: Rule 16 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-6c4ebb0011f5f4ef58091fd3ff910eeb]: Commencement: Rule 16 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-0e8e1c473f33be33d3acd7341c02e960]: Commencement: Rule 17 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-0e8e1c473f33be33d3acd7341c02e960]: Commencement: Rule 17 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-e02f66bec38b72a9cd44e208ac9df964]: Commencement: Rule 18 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-e02f66bec38b72a9cd44e208ac9df964]: Commencement: Rule 18 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
 [^f00018]: Footnote: Article 197B was inserted by section 18 of the Corporate Insolvency and Governance Act [2020 (c.12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
-[^key-fe1686571c875a27dbd49f23a9e61de3]: Commencement: Rule 19 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-fe1686571c875a27dbd49f23a9e61de3]: Commencement: Rule 19 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-61eae85b18e95edab21114d30e654061]: Commencement: Rule 20 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-61eae85b18e95edab21114d30e654061]: Commencement: Rule 20 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

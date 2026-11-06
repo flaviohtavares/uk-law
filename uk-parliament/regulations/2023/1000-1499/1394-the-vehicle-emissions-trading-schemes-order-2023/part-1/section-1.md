@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-f812dde9966df726eedfef4de68e6952]
+## 1. Citation and commencement[^c-f812dde9966df726eedfef4de68e6952]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ This Order may be cited as the Vehicle Emissions Trading Schemes Order 2023 and 
 
 ## Annotations
 
-[^key-f812dde9966df726eedfef4de68e6952]: Commencement: Art. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-f812dde9966df726eedfef4de68e6952]: Commencement: Art. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

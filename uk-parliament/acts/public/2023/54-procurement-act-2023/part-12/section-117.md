@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Single source defence contracts[^key-de327af4072d76b6778a9dde13000d6f][^key-5fa3dc861f7d76675c2e6d399f3ceed5][^key-25e67f473c6421b3965785474ab11729]
+## 117. Single source defence contracts[^c-de327af4072d76b6778a9dde13000d6f][^c-5fa3dc861f7d76675c2e6d399f3ceed5][^c-25e67f473c6421b3965785474ab11729]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 10 makes amendments to Part 2 of the Defence Reform Act 2014 (single so
 
 ## Annotations
 
-[^key-de327af4072d76b6778a9dde13000d6f]: Commencement: S. 117 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-de327af4072d76b6778a9dde13000d6f]: Commencement: S. 117 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-5fa3dc861f7d76675c2e6d399f3ceed5]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/54/section/117) in force at 19.1.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-5fa3dc861f7d76675c2e6d399f3ceed5]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/54/section/117) in force at 19.1.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-25e67f473c6421b3965785474ab11729]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/54/section/117) in force at 1.4.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/a)
+[^c-25e67f473c6421b3965785474ab11729]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/54/section/117) in force at 1.4.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/a)

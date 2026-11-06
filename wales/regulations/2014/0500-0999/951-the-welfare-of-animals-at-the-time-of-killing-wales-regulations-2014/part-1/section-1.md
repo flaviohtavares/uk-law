@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, application and commencement[^key-d070d08851411c551fd0ad6fae1f8b89]
+## 1. Title, application and commencement[^c-d070d08851411c551fd0ad6fae1f8b89]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ These Regulations—
 
 ## Annotations
 
-[^key-d070d08851411c551fd0ad6fae1f8b89]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/951/regulation/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d070d08851411c551fd0ad6fae1f8b89]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/951/regulation/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Miscellaneous amendments[^key-d54d0f58de1509358141a89cc6bd6872]
+## 52. Miscellaneous amendments[^c-d54d0f58de1509358141a89cc6bd6872]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
   - (i) paragraph 2(1)(b), (2) (twice) and (3) (four times);
   - (ii) paragraph 3(1)(a), (2)(a) and (3)(a);
   - (iii) paragraph 4(1), (2) and (5) (in paragraph (b) in the definition of “investment reserve”);
-- (l)[^key-c0eeb66eb62b6d174e75a1cdf9a67c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-c0eeb66eb62b6d174e75a1cdf9a67c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the following provisions for “long term” substitute “long-term”—
 
@@ -56,11 +56,11 @@ summary: ''
   - (i) paragraph 2(3)(d) (in the second place where it occurs);
   - (ii) paragraph 4(2)(a) and (b), (4)(b) and (5) (in the first place where it occurs in the definition of “investment reserve”);
 - (n) paragraph 5(5)(a) and (b) of Schedule 19AB[^f00075];
-- (o)[^key-c53512598722a41acba6b0861790fec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-c53512598722a41acba6b0861790fec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d54d0f58de1509358141a89cc6bd6872]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-d54d0f58de1509358141a89cc6bd6872]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00057]: Footnote: Section 432A was inserted, together with sections 432B to 432E, by paragraph 4 of Schedule 6 to the Finance Act 1990 and relevantly amended by paragraph 13(2) of Schedule 8 to the Finance Act 1995 and section 109(5) and (6) of the Finance Act 2000.
 
@@ -80,7 +80,7 @@ summary: ''
 
 [^f00065]: Footnote: Schedule 19AA was inserted by paragraph 6 of Schedule 7 to the Finance Act 1990 and relevantly amended by Articles 3 and 4 of S.I. [1994/3278](https://www.legislation.gov.uk/uksi/1994/3278) and Article 3 of S.I. [2000/2188](https://www.legislation.gov.uk/uksi/2000/2188).
 
-[^key-c0eeb66eb62b6d174e75a1cdf9a67c58]: Textual amendment: [Art. 52(1)(l)](https://www.legislation.gov.uk/uksi/2001/3629/article/52/1/l) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
+[^c-c0eeb66eb62b6d174e75a1cdf9a67c58]: Textual amendment: [Art. 52(1)(l)](https://www.legislation.gov.uk/uksi/2001/3629/article/52/1/l) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
 
 [^f00067]: Footnote: Section 432ZA was inserted by paragraph 11(2) of Schedule 8 to the Finance Act 1995.
 
@@ -100,4 +100,4 @@ summary: ''
 
 [^f00075]: Footnote: Schedule 19AB was inserted by Schedule 8 to the Finance Act 1991 and is repealed by Part 2(12) of Schedule 33 to the Finance Act 2001 with effect in accordance with section 87 of that Act.
 
-[^key-c53512598722a41acba6b0861790fec0]: Textual amendment: [Art. 52(2)(o)](https://www.legislation.gov.uk/uksi/2001/3629/article/52/2/o) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))
+[^c-c53512598722a41acba6b0861790fec0]: Textual amendment: [Art. 52(2)(o)](https://www.legislation.gov.uk/uksi/2001/3629/article/52/2/o) revoked (31.12.2006 with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2006/3271/regulation/43/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/2) (with [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1))

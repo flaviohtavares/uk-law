@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Entering etc a prohibited place for a purpose prejudicial to the UK[^key-572e9b052d611848cb0e8a4a74718347][^key-9075fd7bd4c9a6324a8cd17744fa918d]
+## 4. Entering etc a prohibited place for a purpose prejudicial to the UK[^c-572e9b052d611848cb0e8a4a74718347][^c-9075fd7bd4c9a6324a8cd17744fa918d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-572e9b052d611848cb0e8a4a74718347]: Commencement: S. 4 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-572e9b052d611848cb0e8a4a74718347]: Commencement: S. 4 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-9075fd7bd4c9a6324a8cd17744fa918d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/32/section/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-9075fd7bd4c9a6324a8cd17744fa918d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/32/section/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

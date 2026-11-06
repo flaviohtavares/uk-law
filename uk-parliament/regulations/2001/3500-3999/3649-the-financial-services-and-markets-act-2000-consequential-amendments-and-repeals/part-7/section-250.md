@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Meaning of “bank” and “recognised financial institution”[^key-cfac9663d3535178360e9a785ad96b19]
+## 250. Meaning of “bank” and “recognised financial institution”[^c-cfac9663d3535178360e9a785ad96b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfac9663d3535178360e9a785ad96b19]: Commencement: Art. 250 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cfac9663d3535178360e9a785ad96b19]: Commencement: Art. 250 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

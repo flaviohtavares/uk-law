@@ -44,13 +44,13 @@ Coming into force
 
 4th March 2022
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 74, 75(6), 76(5), 80(1)(b), 82(1) and 83(1) of the Transport (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.[^key-106c898c407b9f11186dc267848251f2]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 74, 75(6), 76(5), 80(1)(b), 82(1) and 83(1) of the Transport (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.[^c-106c898c407b9f11186dc267848251f2]
 
-In accordance with sections 74, 76(5), 80(1)(b) and 83(1) of that Act, the Scottish Ministers have consulted with such persons as they consider appropriate.[^key-106c898c407b9f11186dc267848251f2]
+In accordance with sections 74, 76(5), 80(1)(b) and 83(1) of that Act, the Scottish Ministers have consulted with such persons as they consider appropriate.[^c-106c898c407b9f11186dc267848251f2]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-34b5dc1ca2cb9e79128a283d8783b7ac]
+### 1. Citation, commencement and interpretation[^c-34b5dc1ca2cb9e79128a283d8783b7ac]
 
 (1) These Regulations may be cited as the Workplace Parking Licensing (Scotland) Regulations 2022 and come into force on 4 March 2022.
 
@@ -64,7 +64,7 @@ In accordance with sections 74, 76(5), 80(1)(b) and 83(1) of that Act, the Scott
 
 ## PART 2 — Consultation, reporting and publication requirements
 
-### 2. Publication of proposal[^key-08db4dd7531bad93037eca56cd0565d0]
+### 2. Publication of proposal[^c-08db4dd7531bad93037eca56cd0565d0]
 
 Before making a scheme, a local authority must—
 
@@ -74,7 +74,7 @@ Before making a scheme, a local authority must—
 - (d) send to the Scottish Ministers a copy of the documents and the notice mentioned in paragraph (b),
 - (e) take such other steps as it considers appropriate for ensuring that adequate publicity about the proposal to make the scheme is given to persons likely to be affected by it.
 
-### 3. Consultation[^key-c2f941859af455dd11fef2552b1ab0e3]
+### 3. Consultation[^c-c2f941859af455dd11fef2552b1ab0e3]
 
 A local authority must send to any person it intends to consult under section 73(1)(b) of the Act—
 
@@ -82,7 +82,7 @@ A local authority must send to any person it intends to consult under section 73
 - (b) notice of the time period for consultation responses to be submitted,
 - (c) notice of where such responses are to be sent.
 
-### 4. Report following consultation[^key-2e883726d74ea5d5ec93a4376a72edf2]
+### 4. Report following consultation[^c-2e883726d74ea5d5ec93a4376a72edf2]
 
 The report required under section 73(1)(c) of the Act must be—
 
@@ -90,7 +90,7 @@ The report required under section 73(1)(c) of the Act must be—
 - (b) sent to such persons consulted under section 73(1)(b) of the Act as the local authority considers appropriate,
 - (c) sent to the Scottish Ministers.
 
-### 5. Notice of making a scheme[^key-614a62da495c6dd7006ef7ad5ec9d4c5]
+### 5. Notice of making a scheme[^c-614a62da495c6dd7006ef7ad5ec9d4c5]
 
 Within 14 days of making a scheme under section 72 of the Act a local authority must—
 
@@ -108,7 +108,7 @@ notice of the making of the scheme containing the information specified in Part 
 
 ## PART 3 — Examinations
 
-### 6. Examination of proposals[^key-acb4cbadbfd36100f4310510b1cd7138]
+### 6. Examination of proposals[^c-acb4cbadbfd36100f4310510b1cd7138]
 
 (1) Where an initiating party intends to appoint a reporter to carry out an examination under section 75(2) of the Act in relation to a proposal to make a scheme, that party must give notice in writing of its intention to—
 
@@ -132,7 +132,7 @@ and any relevant qualifications those persons have to do so.
 
 (4) All matters which the initiating party intends to raise in the examination must be set out in the statement referred to in paragraph (2)(a), or in the documents which accompany that statement.
 
-### 7. Appointment of reporter[^key-840dc0fb96405ea6cd808d9c1f41298d]
+### 7. Appointment of reporter[^c-840dc0fb96405ea6cd808d9c1f41298d]
 
 (1) A reporter appointed under section 75(2) of the Act must be—
 
@@ -144,7 +144,7 @@ and any relevant qualifications those persons have to do so.
 - (a) copies of notices sent in accordance with regulation 6(1),
 - (b) copies of everything referred to in regulation 6(2).
 
-### 8. Responses to notice of intention to cause an examination to be held[^key-d26d0253fd068b9ec918d64aedbccb9d]
+### 8. Responses to notice of intention to cause an examination to be held[^c-d26d0253fd068b9ec918d64aedbccb9d]
 
 (1) The persons referred to in regulation 6(1) may respond in writing to the initiating party’s notice within the scope of the examination as set in accordance with regulation 9.
 
@@ -162,7 +162,7 @@ and any relevant qualifications those persons have to do so.
 
 (3) All matters which the respondent intends to raise in the examination must be set out in the representations referred to in paragraph (2)(a), or in the documents which accompany those representations.
 
-### 9. Scope of examinations[^key-ab86a04ed049022cb5affe0b7dcb6dbd]
+### 9. Scope of examinations[^c-ab86a04ed049022cb5affe0b7dcb6dbd]
 
 (1) The scope of the examination is to include only—
 
@@ -171,7 +171,7 @@ and any relevant qualifications those persons have to do so.
 
 (2) Matters outwith the scope of the examination that are raised in any response referred to in regulation 8 must be disregarded by the reporter.
 
-### 10. Procedure and timetable for examinations[^key-8598630b1dd3c1505f41770f5ab8f6c2]
+### 10. Procedure and timetable for examinations[^c-8598630b1dd3c1505f41770f5ab8f6c2]
 
 (1) On appointment the reporter must in writing invite the local authority proposing to make the scheme and the Scottish Ministers to identify and agree any further matters as referred to in regulation 9(1)(b) for the purpose of setting the scope of the examination.
 
@@ -188,7 +188,7 @@ and any relevant qualifications those persons have to do so.
 - (d) the fact that persons given notice under this paragraph may send comments on any matters raised in the responses to the reporter and to all other persons given notice under this paragraph,
 - (e) the period within which any such comments are to be sent.
 
-### 11. Opt-in procedure[^key-ddb71749350c6d69291de2c52f4e2911]
+### 11. Opt-in procedure[^c-ddb71749350c6d69291de2c52f4e2911]
 
 (1) The reporter may invite, by notice in writing given in accordance with this regulation, the persons specified in regulation 6(1) to confirm if they wish to participate in any further procedure.
 
@@ -198,7 +198,7 @@ and any relevant qualifications those persons have to do so.
 - (b) include information as to how the opt-in notice may be given and specify the date (being not less than 14 days after the date on which the notice under paragraph (1) is given) on or before which the opt-in notice must be given to the reporter, and
 - (c) inform the person that if they do not give an opt-in notice to the reporter before that date they may lose the opportunity to participate in any further procedure.
 
-### 12. Further submissions and information[^key-bb215238532e06b28d3ea3ef4e47c11b]
+### 12. Further submissions and information[^c-bb215238532e06b28d3ea3ef4e47c11b]
 
 (1) Before holding an examination the reporter may determine that further written submissions should be made, or further information should be provided, within the scope of the examination.
 
@@ -220,7 +220,7 @@ and any relevant qualifications those persons have to do so.
 - (a) may send comments in writing to the reporter in reply to that response, and
 - (b) must, when doing so, send a copy of such comments to the other parties.
 
-### 13. Pre-examination meetings[^key-cb0540a547ae4a5fc40405438a3aa0a4]
+### 13. Pre-examination meetings[^c-cb0540a547ae4a5fc40405438a3aa0a4]
 
 (1) The reporter may hold a meeting (a “pre-examination meeting”) to consider the manner in which the examination is to be conducted with a view to securing the efficient and expeditious conduct of the examination.
 
@@ -228,18 +228,18 @@ and any relevant qualifications those persons have to do so.
 
 (3) The reporter is to determine the matters to be discussed and the procedure to be followed at the pre-examination meeting.
 
-### 14. Determination without further procedure[^key-cd1043fb399463e6059c3f48b443df0f]
+### 14. Determination without further procedure[^c-cd1043fb399463e6059c3f48b443df0f]
 
 Where the reporter has received the information specified in regulations 6(2), 8(2), and (as the case may be) 10(3)(d) and 12(4) and (5), and considers that no further representations are, or information is, required to enable the examination to be carried out, the reporter may carry out the examination and prepare a report on it without further procedure in accordance with section 75(3)(a) of the Act.
 
-### 15. Conclusion on further procedure[^key-a76e10ff315f40f0ea423e7f93fbcaef]
+### 15. Conclusion on further procedure[^c-a76e10ff315f40f0ea423e7f93fbcaef]
 
 Where the reporter decides not to carry out the examination in accordance with regulation 14 the reporter must (following any pre-examination meeting conducted in accordance with regulation 13)—
 
 - (a) determine whether to carry out the examination by means of a hearing in accordance with section 75(3)(b) of the Act or by means of an inquiry in accordance with section 75(3)(c) of the Act,
 - (b) inform the parties in writing of that determination.
 
-### 16. Inspections[^key-3d6a3a6efe2230d36cee02fbbdb9811f]
+### 16. Inspections[^c-3d6a3a6efe2230d36cee02fbbdb9811f]
 
 (1) The reporter may at any time make—
 
@@ -252,26 +252,26 @@ Where the reporter decides not to carry out the examination in accordance with r
 
 (4) The reporter is not required to defer an inspection if any party referred to in paragraph (3) to whom notice was given is not present at the time of the inspection.
 
-### 17. Hearings and inquiries procedure[^key-f48bb026dcf322c563c01e699df460b3]
+### 17. Hearings and inquiries procedure[^c-f48bb026dcf322c563c01e699df460b3]
 
 (1) Schedule 2 specifies the procedure for the conduct of a hearing into an examination under section 75 of the Act.
 
 (2) Schedule 3 specifies the procedure for the conduct of an inquiry into an examination under section 75 of the Act.
 
-### 18. Expenses[^key-870cd8a302d7de92989735e3c917a57c]
+### 18. Expenses[^c-870cd8a302d7de92989735e3c917a57c]
 
 (1) The reporter may make orders as to the expenses incurred by the parties to the examination.
 
 (2) Orders under paragraph (1) in favour of the Scottish Ministers may include expenses in relation to the administration of the examination, in particular such reasonable sum as the reporter determines in respect of the Scottish Ministers’ general staff expenses and overheads.
 
-### 19. Report[^key-cd564f4f546eb833d7294a1c269a7e2f]
+### 19. Report[^c-cd564f4f546eb833d7294a1c269a7e2f]
 
 The reporter must—
 
 - (a) provide the parties with a copy of the report prepared under section 75(2) of the Act,
 - (b) arrange for publication of the report on the Scottish Ministers’ website.
 
-### 20. Interpretation of Part 3[^key-b58f403a4d11aa7e77c132dc54829ecb]
+### 20. Interpretation of Part 3[^c-b58f403a4d11aa7e77c132dc54829ecb]
 
 In this Part and schedules 2 and 3—
 
@@ -283,7 +283,7 @@ In this Part and schedules 2 and 3—
 
 ## PART 4 — Liability to pay licence charge
 
-### 21. Liability to pay licence charge[^key-80506cc186307b211e8a30fb394b8966]
+### 21. Liability to pay licence charge[^c-80506cc186307b211e8a30fb394b8966]
 
 (1) This paragraph applies where the occupier of premises has—
 
@@ -294,7 +294,7 @@ In this Part and schedules 2 and 3—
 
 ## PART 5 — Reviews and appeals of licensing decisions
 
-### 22. Application for review of decision by local authority[^key-fac9c61ea87e864b3ffc4ce40513d02f]
+### 22. Application for review of decision by local authority[^c-fac9c61ea87e864b3ffc4ce40513d02f]
 
 (1) A scheme must make provision allowing for the recipient of a decision to make an application to the local authority for a review of the decision.
 
@@ -316,7 +316,7 @@ In this Part and schedules 2 and 3—
   - (b) a decision to attach a condition to a licence,
   - (c) a decision to revoke, suspend or vary a licence.
 
-### 23. Determination of application for review[^key-0f8154813af64739781fb5a20ffd16c1]
+### 23. Determination of application for review[^c-0f8154813af64739781fb5a20ffd16c1]
 
 (1) Where an application for review of a decision is made to a local authority under regulation 22(1) within the period mentioned in regulation 22(2)(a) or taken account of by the local authority under regulation 22(3), it must consider the application and any supporting evidence provided.
 
@@ -334,7 +334,7 @@ In this Part and schedules 2 and 3—
 - (c) describe in general terms the manner and form for making an appeal,
 - (d) state that the sheriff has the power to make an award of expenses.
 
-### 24. Appeals against determination of local authority[^key-e6cc8b7f0ae3f05543a0fd70e77c7911]
+### 24. Appeals against determination of local authority[^c-e6cc8b7f0ae3f05543a0fd70e77c7911]
 
 (1) An applicant may by summary application appeal to the sheriff against a determination made by a local authority under regulation 23(2).
 
@@ -351,7 +351,7 @@ In this Part and schedules 2 and 3—
 
 ## PART 6 — Penalty charges and enforcement
 
-### 25. Imposition of penalty charges[^key-d6343d063647bff5159c3497d15a2935]
+### 25. Imposition of penalty charges[^c-d6343d063647bff5159c3497d15a2935]
 
 (1) A scheme may provide for the imposition of a penalty charge in any of the following circumstances—
 
@@ -363,7 +363,7 @@ In this Part and schedules 2 and 3—
 
 (3) A scheme may not specify under paragraph (2) a period of less than 28 days beginning with the date on which the penalty charge notice is served.
 
-### 26. Rates of penalty charges[^key-1819be6305b71ba7efff10013da7cfa1]
+### 26. Rates of penalty charges[^c-1819be6305b71ba7efff10013da7cfa1]
 
 (1) A scheme which provides for penalty charges must specify the amount of the penalty charge and may specify different amounts in different circumstances.
 
@@ -378,7 +378,7 @@ In this Part and schedules 2 and 3—
 
 (5) In this regulation “**relevant period**” has the same meaning as in regulation 29(3).
 
-### 27. Liability to pay penalty charges by persons other than the occupier of premises[^key-1bec6b873809276411e6f5da52dbf758]
+### 27. Liability to pay penalty charges by persons other than the occupier of premises[^c-1bec6b873809276411e6f5da52dbf758]
 
 (1) This paragraph applies where the occupier of any premises has—
 
@@ -387,7 +387,7 @@ In this Part and schedules 2 and 3—
 
 (2) Where paragraph (1) applies, any penalty charge imposed in respect of those premises must be paid by P.
 
-### 28. Penalty charge notices[^key-2c0099e4e31ae059c9cc0f0e36a56323]
+### 28. Penalty charge notices[^c-2c0099e4e31ae059c9cc0f0e36a56323]
 
 (1) Where a local authority has reason to believe that a penalty charge is payable under provision made in a scheme, it may serve a notice (a “penalty charge notice”) on the person liable to pay the charge.
 
@@ -403,7 +403,7 @@ In this Part and schedules 2 and 3—
   - (i) the penalty charge is not paid, or
   - (ii) no representations are made in accordance with regulation 30.
 
-### 29. Charge certificates[^key-42c185182ac4ee76df4aeb25da75bcdd]
+### 29. Charge certificates[^c-42c185182ac4ee76df4aeb25da75bcdd]
 
 (1) This regulation applies where a scheme makes provision as described in regulation 26(3) and—
 
@@ -431,7 +431,7 @@ In this Part and schedules 2 and 3—
 
 the local authority may recover the increased charge as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
 
-### 30. Representations in respect of penalty charges[^key-4c1cc6e163871bfcc184050638f9b0a6]
+### 30. Representations in respect of penalty charges[^c-4c1cc6e163871bfcc184050638f9b0a6]
 
 (1) The recipient of a penalty charge notice may make written representations within the payment period to the local authority against the decision to serve a penalty charge notice on any of the grounds specified in paragraph (4).
 
@@ -447,7 +447,7 @@ the local authority may recover the increased charge as if it were payable under
 
 (5) Where the ground mentioned in paragraph (4)(c) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address (if known) of the person who is considered by the recipient of the penalty charge notice to be responsible for payment of the penalty charge.
 
-### 31. Response to representations[^key-c6831b6aa5ccf71484cc2f3c7ff4db2d]
+### 31. Response to representations[^c-c6831b6aa5ccf71484cc2f3c7ff4db2d]
 
 (1) Where representations are made to a local authority under regulation 30(1) within the payment period, or taken account of by the local authority under regulation 30(3), it must—
 
@@ -478,14 +478,14 @@ the local authority may recover the increased charge as if it were payable under
 
 the local authority may issue a charge certificate under regulation 29 (and describe the effect of that regulation were it to do so).
 
-### 32. Appeal to the First-tier Tribunal[^key-56281b20d11f26fe826a72d47ed67e16]
+### 32. Appeal to the First-tier Tribunal[^c-56281b20d11f26fe826a72d47ed67e16]
 
 A person on whom a penalty charge notice has been served may, on any of the grounds set out in regulation 30(4) and before the end of the appeal period or such longer period as the First-tier Tribunal may allow, appeal to the First-tier Tribunal against the imposition of the penalty charge if—
 
 - (a) that person has made representations to the local authority under regulation 30(1), and
 - (b) that person has received from the local authority a notice of rejection under regulation 31(3).
 
-### 33. Interpretation of Part 6[^key-2993db06820390fc3cf8ce6fb99d3687]
+### 33. Interpretation of Part 6[^c-2993db06820390fc3cf8ce6fb99d3687]
 
 In this Part—
 
@@ -496,7 +496,7 @@ In this Part—
 
 ## PART 7 — General
 
-### 34. Accounts[^key-b0026a07e07b7dd5c85a6b5c9c17cf0f]
+### 34. Accounts[^c-b0026a07e07b7dd5c85a6b5c9c17cf0f]
 
 (1) A local authority operating a scheme must for the duration of the scheme—
 
@@ -517,7 +517,7 @@ In this Part—
 - “**adequate accounting records**” has the meaning given in regulation 6 of the Local Authority Accounts (Scotland) Regulations 2014[^f00004],
 - “**proper accounting practices**” has the meaning given in section 12 of the Local Government in Scotland Act 2003[^f00005].
 
-### 35. Amending and revoking schemes[^key-471f9025c059ab0af510ad96e00a926c]
+### 35. Amending and revoking schemes[^c-471f9025c059ab0af510ad96e00a926c]
 
 The requirements of regulations 2 to 20 and schedule 1 apply to proposals to amend or revoke a scheme as they do to proposals to make a scheme.
 
@@ -535,7 +535,7 @@ Edinburgh
 
 Regulations 2, 5 and 35
 
-### PART 1 — PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSAL[^key-3a569071f683298cccfa77c86b66a2c9]
+### PART 1 — PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSAL[^c-3a569071f683298cccfa77c86b66a2c9]
 
 **1.** The name of the local authority.
 
@@ -545,7 +545,7 @@ Regulations 2, 5 and 35
 
 **4.** The fact that the information referred to in regulation 2(b) is available on the local authority’s website.
 
-### PART 2 — INFORMATION TO BE INCLUDED IN THE NOTICE OF MAKING THE SCHEME[^key-9076cf3ce3d1364280ad4a589fb51974]
+### PART 2 — INFORMATION TO BE INCLUDED IN THE NOTICE OF MAKING THE SCHEME[^c-9076cf3ce3d1364280ad4a589fb51974]
 
 **1.** The name of the local authority.
 
@@ -561,7 +561,7 @@ Regulations 2, 5 and 35
 
 Regulations 17 and 20
 
-### 1. Notice of hearing[^key-4aff20ab998bc53ea096e380e0fc65b9]
+### 1. Notice of hearing[^c-4aff20ab998bc53ea096e380e0fc65b9]
 
 (1) Where the reporter determines that a hearing is to be held the reporter must give notice in writing to that effect to—
 
@@ -575,11 +575,11 @@ Regulations 17 and 20
 - (a) confirmation that if those persons do not reply to the reporter in terms of sub-paragraph (2) they will not be entitled to appear at the hearing,
 - (b) details of a website where copies of documents and information submitted to the reporter under these regulations can be inspected.
 
-### 2. Appearances at hearing[^key-a393096408fde35bb47b8dafe21acb75]
+### 2. Appearances at hearing[^c-a393096408fde35bb47b8dafe21acb75]
 
 The parties entitled to appear at a hearing are those who have informed the reporter of their intention to appear under paragraph 1(2).
 
-### 3. Date and notification of hearing[^key-9a71290ae8d8652902ba39a0211afeed]
+### 3. Date and notification of hearing[^c-9a71290ae8d8652902ba39a0211afeed]
 
 (1) The reporter must fix the date and time for the holding of the hearing and the manner in which the hearing will be conducted, including its location (if appropriate), all or any of which may subsequently be varied by the reporter.
 
@@ -590,7 +590,7 @@ The parties entitled to appear at a hearing are those who have informed the repo
 
 and any subsequent variation thereof.
 
-### 4. Written statement[^key-24d05761d6796f8fcf153e751691f05c]
+### 4. Written statement[^c-24d05761d6796f8fcf153e751691f05c]
 
 (1) Where required to do so by notice in writing given by the reporter the initiating party or any party who submitted a response under regulation 8 must, by the date specified in the notice, send to—
 
@@ -606,7 +606,7 @@ a written statement to be given to the hearing by a person included in the list 
 
 (3) A written statement must not, unless the reporter agrees, contain more than 2000 words.
 
-### 5. Procedure at hearing[^key-7391bfed159e21a7e927b0e439501b76]
+### 5. Procedure at hearing[^c-7391bfed159e21a7e927b0e439501b76]
 
 (1) Except as otherwise provided in this schedule, the procedure at a hearing is as the reporter determines.
 
@@ -624,7 +624,7 @@ a written statement to be given to the hearing by a person included in the list 
 
 Regulations 17 and 20
 
-### 1. Notice of inquiry session and specified matters[^key-0c7ac6efe779cc39b86be16f15a52cc2]
+### 1. Notice of inquiry session and specified matters[^c-0c7ac6efe779cc39b86be16f15a52cc2]
 
 (1) Where the reporter determines that an inquiry is to be held the reporter must give notice in writing to that effect to—
 
@@ -638,11 +638,11 @@ Regulations 17 and 20
 - (a) confirmation that if parties do not reply to the reporter in terms of sub-paragraph (2) they will not be entitled to appear at the inquiry,
 - (b) details of a website where documents and information submitted to the reporter under these regulations can be inspected.
 
-### 2. Appearances at inquiry[^key-adf4c33bc8534a045357b57d16c91abc]
+### 2. Appearances at inquiry[^c-adf4c33bc8534a045357b57d16c91abc]
 
 The parties entitled to appear at an inquiry are those who have informed the reporter of their intention to appear under paragraph 1(2).
 
-### 3. Date and notification of inquiry[^key-266874ed31fb5b657ba7a54bf6709344]
+### 3. Date and notification of inquiry[^c-266874ed31fb5b657ba7a54bf6709344]
 
 (1) The reporter must fix the date and time for the holding of the inquiry and the manner in which the inquiry will be conducted, including its location (if appropriate), all or any of which may subsequently be varied by the reporter.
 
@@ -653,7 +653,7 @@ The parties entitled to appear at an inquiry are those who have informed the rep
 
 and any subsequent variation thereof.
 
-### 4. Precognitions[^key-7c1caa8e1040028d990b174b1fe2bb6b]
+### 4. Precognitions[^c-7c1caa8e1040028d990b174b1fe2bb6b]
 
 (1) Where required to do so by notice in writing given by the reporter, the initiating party or any party who submitted a response under regulation 8 must, by the date specified in the notice, send to—
 
@@ -671,7 +671,7 @@ a precognition in respect of any evidence to be given to the inquiry by a person
 
 (4) In this paragraph “**precognition**” means a written statement of the evidence which it is proposed that a witness will give to the inquiry.
 
-### 5. Procedure at inquiry[^key-8cdd2b2eb50d0de8f7965f8ca3988808]
+### 5. Procedure at inquiry[^c-8cdd2b2eb50d0de8f7965f8ca3988808]
 
 (1) Except as otherwise provided in this schedule, the procedure at an inquiry is as the reporter determines.
 
@@ -740,106 +740,106 @@ Impact assessments have been prepared in relation to these Regulations, copies o
 
 [^f00001]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-106c898c407b9f11186dc267848251f2]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2022/4): transfer of functions (1.6.2023) by [The First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023 (S.S.I. 2023/158)](https://www.legislation.gov.uk/ssi/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/158/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2023/158/regulation/4)
+[^c-106c898c407b9f11186dc267848251f2]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2022/4): transfer of functions (1.6.2023) by [The First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023 (S.S.I. 2023/158)](https://www.legislation.gov.uk/ssi/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/158/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2023/158/regulation/4)
 
-[^key-34b5dc1ca2cb9e79128a283d8783b7ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/4/regulation/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-34b5dc1ca2cb9e79128a283d8783b7ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/4/regulation/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
 [^f00002]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was relevantly amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-08db4dd7531bad93037eca56cd0565d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/4/regulation/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-08db4dd7531bad93037eca56cd0565d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/4/regulation/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-c2f941859af455dd11fef2552b1ab0e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/4/regulation/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-c2f941859af455dd11fef2552b1ab0e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/4/regulation/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-2e883726d74ea5d5ec93a4376a72edf2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/4/regulation/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-2e883726d74ea5d5ec93a4376a72edf2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/4/regulation/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-614a62da495c6dd7006ef7ad5ec9d4c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/4/regulation/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-614a62da495c6dd7006ef7ad5ec9d4c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/4/regulation/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-acb4cbadbfd36100f4310510b1cd7138]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/4/regulation/6) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-acb4cbadbfd36100f4310510b1cd7138]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/4/regulation/6) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-840dc0fb96405ea6cd808d9c1f41298d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/4/regulation/7) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-840dc0fb96405ea6cd808d9c1f41298d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/4/regulation/7) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-d26d0253fd068b9ec918d64aedbccb9d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/4/regulation/8) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-d26d0253fd068b9ec918d64aedbccb9d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/4/regulation/8) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-ab86a04ed049022cb5affe0b7dcb6dbd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/4/regulation/9) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-ab86a04ed049022cb5affe0b7dcb6dbd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/4/regulation/9) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-8598630b1dd3c1505f41770f5ab8f6c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/4/regulation/10) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-8598630b1dd3c1505f41770f5ab8f6c2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/4/regulation/10) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-ddb71749350c6d69291de2c52f4e2911]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/4/regulation/11) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-ddb71749350c6d69291de2c52f4e2911]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/4/regulation/11) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-bb215238532e06b28d3ea3ef4e47c11b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/4/regulation/12) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-bb215238532e06b28d3ea3ef4e47c11b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/4/regulation/12) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-cb0540a547ae4a5fc40405438a3aa0a4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/4/regulation/13) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-cb0540a547ae4a5fc40405438a3aa0a4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/4/regulation/13) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-cd1043fb399463e6059c3f48b443df0f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/4/regulation/14) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-cd1043fb399463e6059c3f48b443df0f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/4/regulation/14) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-a76e10ff315f40f0ea423e7f93fbcaef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/4/regulation/15) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-a76e10ff315f40f0ea423e7f93fbcaef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/4/regulation/15) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-3d6a3a6efe2230d36cee02fbbdb9811f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/4/regulation/16) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-3d6a3a6efe2230d36cee02fbbdb9811f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/4/regulation/16) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-f48bb026dcf322c563c01e699df460b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2022/4/regulation/17) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-f48bb026dcf322c563c01e699df460b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2022/4/regulation/17) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-870cd8a302d7de92989735e3c917a57c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2022/4/regulation/18) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-870cd8a302d7de92989735e3c917a57c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2022/4/regulation/18) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-cd564f4f546eb833d7294a1c269a7e2f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2022/4/regulation/19) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-cd564f4f546eb833d7294a1c269a7e2f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2022/4/regulation/19) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-b58f403a4d11aa7e77c132dc54829ecb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2022/4/regulation/20) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-b58f403a4d11aa7e77c132dc54829ecb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2022/4/regulation/20) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-80506cc186307b211e8a30fb394b8966]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2022/4/regulation/21) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-80506cc186307b211e8a30fb394b8966]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2022/4/regulation/21) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-fac9c61ea87e864b3ffc4ce40513d02f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2022/4/regulation/22) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-fac9c61ea87e864b3ffc4ce40513d02f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2022/4/regulation/22) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-0f8154813af64739781fb5a20ffd16c1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2022/4/regulation/23) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-0f8154813af64739781fb5a20ffd16c1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2022/4/regulation/23) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-e6cc8b7f0ae3f05543a0fd70e77c7911]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2022/4/regulation/24) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-e6cc8b7f0ae3f05543a0fd70e77c7911]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2022/4/regulation/24) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-d6343d063647bff5159c3497d15a2935]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2022/4/regulation/25) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-d6343d063647bff5159c3497d15a2935]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2022/4/regulation/25) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-1819be6305b71ba7efff10013da7cfa1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2022/4/regulation/26) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-1819be6305b71ba7efff10013da7cfa1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2022/4/regulation/26) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-1bec6b873809276411e6f5da52dbf758]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2022/4/regulation/27) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-1bec6b873809276411e6f5da52dbf758]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2022/4/regulation/27) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-2c0099e4e31ae059c9cc0f0e36a56323]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2022/4/regulation/28) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-2c0099e4e31ae059c9cc0f0e36a56323]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2022/4/regulation/28) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-42c185182ac4ee76df4aeb25da75bcdd]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2022/4/regulation/29) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-42c185182ac4ee76df4aeb25da75bcdd]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2022/4/regulation/29) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-4c1cc6e163871bfcc184050638f9b0a6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2022/4/regulation/30) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-4c1cc6e163871bfcc184050638f9b0a6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2022/4/regulation/30) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-c6831b6aa5ccf71484cc2f3c7ff4db2d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2022/4/regulation/31) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-c6831b6aa5ccf71484cc2f3c7ff4db2d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2022/4/regulation/31) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-56281b20d11f26fe826a72d47ed67e16]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2022/4/regulation/32) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-56281b20d11f26fe826a72d47ed67e16]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2022/4/regulation/32) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-2993db06820390fc3cf8ce6fb99d3687]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2022/4/regulation/33) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-2993db06820390fc3cf8ce6fb99d3687]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2022/4/regulation/33) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-b0026a07e07b7dd5c85a6b5c9c17cf0f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2022/4/regulation/34) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-b0026a07e07b7dd5c85a6b5c9c17cf0f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2022/4/regulation/34) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2014/200](https://www.legislation.gov.uk/ssi/2014/200).
 
 [^f00005]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1). Section 12 was modified by [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121).
 
-[^key-471f9025c059ab0af510ad96e00a926c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2022/4/regulation/35) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-471f9025c059ab0af510ad96e00a926c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2022/4/regulation/35) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-3a569071f683298cccfa77c86b66a2c9]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/1/part/1/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-3a569071f683298cccfa77c86b66a2c9]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/1/part/1/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-9076cf3ce3d1364280ad4a589fb51974]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/1/part/2/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-9076cf3ce3d1364280ad4a589fb51974]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/1/part/2/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-4aff20ab998bc53ea096e380e0fc65b9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-4aff20ab998bc53ea096e380e0fc65b9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-a393096408fde35bb47b8dafe21acb75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-a393096408fde35bb47b8dafe21acb75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-9a71290ae8d8652902ba39a0211afeed]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-9a71290ae8d8652902ba39a0211afeed]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-24d05761d6796f8fcf153e751691f05c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-24d05761d6796f8fcf153e751691f05c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-7391bfed159e21a7e927b0e439501b76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-7391bfed159e21a7e927b0e439501b76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/4/schedule/2/paragraph/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-0c7ac6efe779cc39b86be16f15a52cc2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-0c7ac6efe779cc39b86be16f15a52cc2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/1) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-adf4c33bc8534a045357b57d16c91abc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-adf4c33bc8534a045357b57d16c91abc]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/2) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-266874ed31fb5b657ba7a54bf6709344]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-266874ed31fb5b657ba7a54bf6709344]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/3) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-7c1caa8e1040028d990b174b1fe2bb6b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-7c1caa8e1040028d990b174b1fe2bb6b]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/4) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
 
-[^key-8cdd2b2eb50d0de8f7965f8ca3988808]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)
+[^c-8cdd2b2eb50d0de8f7965f8ca3988808]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2022/4/schedule/3/paragraph/5) in force at 4.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/4/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 607ZA. Debits referable to times before UK property business etc carried on[^key-6c40483cd698e668f33a56095a9d1f5f][^key-a986edb47976713b2fce85d269f21752]
+## 607ZA. Debits referable to times before UK property business etc carried on[^c-6c40483cd698e668f33a56095a9d1f5f][^c-a986edb47976713b2fce85d269f21752]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ the debits are (so far as they exceed relevant credits) treated for the purposes
 
 ## Annotations
 
-[^key-6c40483cd698e668f33a56095a9d1f5f]: Modification: S. 607ZA modified by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 para. 40(7)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/40/7) (as inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10))
+[^c-6c40483cd698e668f33a56095a9d1f5f]: Modification: S. 607ZA modified by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 para. 40(7)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/40/7) (as inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10))
 
-[^key-a986edb47976713b2fce85d269f21752]: Textual amendment: S. 607ZA inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/4), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)
+[^c-a986edb47976713b2fce85d269f21752]: Textual amendment: S. 607ZA inserted (6.4.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 6 paras. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/4), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/6/paragraph/10)

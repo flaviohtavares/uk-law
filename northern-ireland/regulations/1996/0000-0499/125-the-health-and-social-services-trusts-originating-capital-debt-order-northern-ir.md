@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 14(1) and (4) of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00001], and all other powers enabling it in that behalf, and with the consent of the Department of Finance and Personnel in accordance with Article 14(8) of that Order, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-702948f9c40dea40bbc84c8391d8b4c3]
+## 1. Citation and commencement[^c-702948f9c40dea40bbc84c8391d8b4c3]
 
 This Order may be cited as the Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1996 and shall come into operation on 27th March 1996.
 
-## 2. Originating capital debt of HSS Trusts[^key-51e91d847ad2817ac6ce3898d14fb8a3]
+## 2. Originating capital debt of HSS Trusts[^c-51e91d847ad2817ac6ce3898d14fb8a3]
 
 (1) The originating capital debt of an HSS trust specified in column 1 of the Schedule shall be of the amount specified opposite it in column 2.
 
@@ -68,7 +68,7 @@ Assistant Secretary
 
 27th March 1996.
 
-## SCHEDULE — Originating Capital Debts[^key-f0c37a2d60965d56790a6267117ff219]
+## SCHEDULE — Originating Capital Debts[^c-f0c37a2d60965d56790a6267117ff219]
 
 Article 2
 
@@ -84,7 +84,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-f69f70cab67d3af00c6837558fb36b8d][^key-84fbbe680601b3aa91ee6285daf609fb][^key-84fbbe680601b3aa91ee6285daf609fb][^key-84fbbe680601b3aa91ee6285daf609fb][^key-84fbbe680601b3aa91ee6285daf609fb]
+[^c-f69f70cab67d3af00c6837558fb36b8d][^c-84fbbe680601b3aa91ee6285daf609fb][^c-84fbbe680601b3aa91ee6285daf609fb][^c-84fbbe680601b3aa91ee6285daf609fb][^c-84fbbe680601b3aa91ee6285daf609fb]
 
 (This note is not part of the Order.)
 
@@ -94,12 +94,12 @@ This Order determines the amount of the originating capital debt provided for in
 
 [^f00001]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-702948f9c40dea40bbc84c8391d8b4c3]: Commencement: Art. 1 in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
+[^c-702948f9c40dea40bbc84c8391d8b4c3]: Commencement: Art. 1 in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
 
-[^key-51e91d847ad2817ac6ce3898d14fb8a3]: Commencement: Art. 2 in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
+[^c-51e91d847ad2817ac6ce3898d14fb8a3]: Commencement: Art. 2 in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
 
-[^key-f0c37a2d60965d56790a6267117ff219]: Commencement: Sch. in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
+[^c-f0c37a2d60965d56790a6267117ff219]: Commencement: Sch. in operation at 27.3.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/125/article/1)
 
-[^key-f69f70cab67d3af00c6837558fb36b8d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1996/125/schedule) substituted (16.4.1996) by [The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996 (S.R. 1996/160)](https://www.legislation.gov.uk/nisr/1996/160), [arts. 1](https://www.legislation.gov.uk/nisr/1996/160/article/1), [2](https://www.legislation.gov.uk/nisr/1996/160/article/2)
+[^c-f69f70cab67d3af00c6837558fb36b8d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1996/125/schedule) substituted (16.4.1996) by [The Health and Social Services Trusts (Originating Capital Debt) (Amendment) Order (Northern Ireland) 1996 (S.R. 1996/160)](https://www.legislation.gov.uk/nisr/1996/160), [arts. 1](https://www.legislation.gov.uk/nisr/1996/160/article/1), [2](https://www.legislation.gov.uk/nisr/1996/160/article/2)
 
-[^key-84fbbe680601b3aa91ee6285daf609fb]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1996/125/schedule) deleted (21.3.2008) by [The Health and Social Services Trusts (Originating Capital) Order (Northern Ireland) 2008 (S.R. 2008/142)](https://www.legislation.gov.uk/nisr/2008/142), [art. 3](https://www.legislation.gov.uk/nisr/2008/142/article/3)
+[^c-84fbbe680601b3aa91ee6285daf609fb]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1996/125/schedule) deleted (21.3.2008) by [The Health and Social Services Trusts (Originating Capital) Order (Northern Ireland) 2008 (S.R. 2008/142)](https://www.legislation.gov.uk/nisr/2008/142), [art. 3](https://www.legislation.gov.uk/nisr/2008/142/article/3)

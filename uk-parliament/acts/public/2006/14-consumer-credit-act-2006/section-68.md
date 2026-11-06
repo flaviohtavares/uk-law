@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Consequential amendments[^key-aea763c7bc0af4148b0cb61741594318]
+## 68. Consequential amendments[^c-aea763c7bc0af4148b0cb61741594318]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ as he thinks fit in consequence of any provision of this Act.
 
 ## Annotations
 
-[^key-aea763c7bc0af4148b0cb61741594318]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/14/section/68) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-aea763c7bc0af4148b0cb61741594318]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2006/14/section/68) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)

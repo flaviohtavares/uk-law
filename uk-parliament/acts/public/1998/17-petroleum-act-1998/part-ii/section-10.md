@@ -55,7 +55,7 @@ as an area as respects which the powers conferred by this section and section 11
 - “**cross-boundary field**” means a field that extends across the boundary between waters falling within paragraph (a) or (b) of subsection (7) and a foreign sector of the continental shelf;
 - “**field**” means a geological structure identified as such by Order in Council under subsection (8).
 
-(10) This section applies to installations notwithstanding that they are for the time being in transit but does not apply to an installation that is a renewable energy installation (within the meaning of Chapter 2 of Part 2 of the Energy Act 2004)[^key-3781f3f59db5ed8394926551f1b3dce7] .
+(10) This section applies to installations notwithstanding that they are for the time being in transit but does not apply to an installation that is a renewable energy installation (within the meaning of Chapter 2 of Part 2 of the Energy Act 2004)[^c-3781f3f59db5ed8394926551f1b3dce7] .
 
 (11) A statutory instrument containing an Order in Council under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -63,4 +63,4 @@ as an area as respects which the powers conferred by this section and section 11
 
 [^c12433591]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-3781f3f59db5ed8394926551f1b3dce7]: Textual amendment: Words in s. 10(10) inserted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/103/3), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-3781f3f59db5ed8394926551f1b3dce7]: Textual amendment: Words in s. 10(10) inserted (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/103/3), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

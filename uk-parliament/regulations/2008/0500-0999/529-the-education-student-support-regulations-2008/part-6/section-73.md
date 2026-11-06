@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Students falling into more than one category[^key-4737aa98ea7147537edc8cc910c00662]
+## 73. Students falling into more than one category[^c-4737aa98ea7147537edc8cc910c00662]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Where an eligible student falls into more than one of the categories set out in 
 
 ## Annotations
 
-[^key-4737aa98ea7147537edc8cc910c00662]: Commencement: Reg. 73 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-4737aa98ea7147537edc8cc910c00662]: Commencement: Reg. 73 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

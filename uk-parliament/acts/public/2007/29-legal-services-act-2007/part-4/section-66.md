@@ -31,7 +31,7 @@ summary: ''
 (3) Those persons are—
 
 - (a) the Lord Chancellor,
-- (b) the CMA[^key-818b951cafa3c3acc9de7c063c3aa337] ,
+- (b) the CMA[^c-818b951cafa3c3acc9de7c063c3aa337] ,
 - (c) the Consumer Panel,
 - (d) the Lord Chief Justice, and
 - (e) such other persons as the Board considers it reasonable to consult regarding the proposals.
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-818b951cafa3c3acc9de7c063c3aa337]: Textual amendment: Word in [s. 66(3)(b)](https://www.legislation.gov.uk/ukpga/2007/29/section/66/3/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 114](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/114); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-818b951cafa3c3acc9de7c063c3aa337]: Textual amendment: Word in [s. 66(3)(b)](https://www.legislation.gov.uk/ukpga/2007/29/section/66/3/b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 114](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/114); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

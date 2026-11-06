@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Notification to the European Railway Agency regarding safety certificates and safety authorisations relating to the mainline railway[^key-6928e4d40b9a1d34e31f8847b9f675f1]
+## 18. Notification to the European Railway Agency regarding safety certificates and safety authorisations relating to the mainline railway[^c-6928e4d40b9a1d34e31f8847b9f675f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6928e4d40b9a1d34e31f8847b9f675f1]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/599/regulation/18) omitted (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6928e4d40b9a1d34e31f8847b9f675f1]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2006/599/regulation/18) omitted (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/837/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

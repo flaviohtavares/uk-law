@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9ZD — Distance selling of goods from Northern Ireland: special accounting scheme[^key-2a9542f53d540b9e8bacc2463a1b8066]
+## SCHEDULE 9ZD — Distance selling of goods from Northern Ireland: special accounting scheme[^c-2a9542f53d540b9e8bacc2463a1b8066]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,14 +29,14 @@ Section 40A
 **1.** In this Schedule—
 
 - (a) Parts 2 and 3 establish a special accounting scheme (the One Stop Shop scheme, referred to in this Schedule as the “**OSS scheme**”) which may be used by persons making intra-Community distance sales of goods from Northern Ireland to member States;
-- (b) Part 4 is about persons participating in a non-UK scheme[^key-63eba32f14aeb26001e921ff973a02e4];
-- (c) Part 5 is about the collection of UK VAT[^key-4b5cb96a5c86e9a7cb07e76d14bb5095];
+- (b) Part 4 is about persons participating in a non-UK scheme[^c-63eba32f14aeb26001e921ff973a02e4];
+- (c) Part 5 is about the collection of UK VAT[^c-4b5cb96a5c86e9a7cb07e76d14bb5095];
 - (d) Part 6 is about appeals;
 - (e) Part 7 contains definitions.
 
 #### “Scheme supply”
 
-**2.** For the purposes of this Schedule, “**scheme supply**” means a supply of goods that would be an “intra-Community distance sale of goods” within the meaning given by Article 14(4) of the VAT Directive if references in that Article to a “Member State” were read as if they included a reference to Northern Ireland [^key-1a90c0a62fa6e3c85afbe1a2d63f5d3d]....
+**2.** For the purposes of this Schedule, “**scheme supply**” means a supply of goods that would be an “intra-Community distance sale of goods” within the meaning given by Article 14(4) of the VAT Directive if references in that Article to a “Member State” were read as if they included a reference to Northern Ireland [^c-1a90c0a62fa6e3c85afbe1a2d63f5d3d]....
 
 ### PART 2 — Registration
 
@@ -60,7 +60,7 @@ Section 40A
 
 (2) P may not be registered under the OSS scheme if they are a participant in a non-UK scheme (see para 38(1)).
 
-(3) P must register under the OSS scheme if P intends to account for VAT on scheme supplies even if P is [^key-d26b01d33d6a7351459feb88112310f5]... registered under this Act.
+(3) P must register under the OSS scheme if P intends to account for VAT on scheme supplies even if P is [^c-d26b01d33d6a7351459feb88112310f5]... registered under this Act.
 
 #### Becoming registered
 
@@ -106,7 +106,7 @@ Section 40A
 
 ### PART 3 — Liability, returns, payment etc
 
-#### Liability to pay ... VAT to Commissioners[^key-1d12896b0c22be948bfe6481570066ad]
+#### Liability to pay ... VAT to Commissioners[^c-1d12896b0c22be948bfe6481570066ad]
 
 **10.** (1) This paragraph applies where a person (“P”)—
 
@@ -115,7 +115,7 @@ Section 40A
 
 (2) P is liable to pay to the Commissioners the gross amount of VAT on the supply.
 
-(3)[^key-d5e50012b0d9185aef9436ca01ba3850] The gross amount of VAT on the supply is determined in accordance with sub-paragraphs (4) and (5), without any deduction of VAT pursuant to Article 168 of the VAT Directive.
+(3)[^c-d5e50012b0d9185aef9436ca01ba3850] The gross amount of VAT on the supply is determined in accordance with sub-paragraphs (4) and (5), without any deduction of VAT pursuant to Article 168 of the VAT Directive.
 
 (4) If the supply is treated as made in the United Kingdom, the amount is the amount of VAT that would be charged on the supply on the assumption for all purposes of this Act relating to the determination of—
 
@@ -155,17 +155,17 @@ that P is registered under this Act.
 
 #### Availability of records
 
-**14.** (1) A person (“P”) who is registered under the OSS scheme must keep and[^key-d8fa64bccbe8ad5f7a54bfe7ec98375b] make available to the Commissioners, on request, [^key-fe55ec785e1788b1a78c86a01b2ac046]... obligatory records [^key-9d47adb695947cb540b33bb9fe71517e]....
+**14.** (1) A person (“P”) who is registered under the OSS scheme must keep and[^c-d8fa64bccbe8ad5f7a54bfe7ec98375b] make available to the Commissioners, on request, [^c-fe55ec785e1788b1a78c86a01b2ac046]... obligatory records [^c-9d47adb695947cb540b33bb9fe71517e]....
 
 (2) The records must be made available by electronic means.
 
-(3) In sub-paragraph (1) “**obligatory records**” means records , of transactions entered into by P covered by the scheme, containing the information referred to in Article 63c(1) of the Implementing Regulation.[^key-3b3f3d7d46838e33794914ee70a6efb1]
+(3) In sub-paragraph (1) “**obligatory records**” means records , of transactions entered into by P covered by the scheme, containing the information referred to in Article 63c(1) of the Implementing Regulation.[^c-3b3f3d7d46838e33794914ee70a6efb1]
 
 #### Amounts required to be paid to member States
 
 **15.** Section 44 of the Commissioners for Revenue and Customs Act 2005 (requirement to pay receipts into the Consolidated Fund) does not apply to any money received for or on account of VAT that is required to be paid to a member State under Article 46 of Council Regulation (EU) No 904/2010.
 
-#### Persons registered under the OSS scheme who are also registered under this Act[^key-b82affa9769a5247a613818a69b3a98b]
+#### Persons registered under the OSS scheme who are also registered under this Act[^c-b82affa9769a5247a613818a69b3a98b]
 
 **15A.** (1) A person (“**P**”) who—
 
@@ -252,7 +252,7 @@ is not required to discharge any obligation placed on them as a taxable person, 
 
 **21.** The power of the Commissioners to make regulations under section 39 (repayment of VAT to those in business overseas) includes power to make provision for giving effect to the second sentence of Article 369j of the VAT Directive (which provides for VAT on certain supplies to participants in special accounting schemes to be refunded in accordance with Directive [2008/9/EC](https://www.legislation.gov.uk/european/directive/2008/0009)).
 
-#### Availability of records[^key-5c9bfb6656b5b5f73e6f151d0fafe318]
+#### Availability of records[^c-5c9bfb6656b5b5f73e6f151d0fafe318]
 
 **21A.** (1) A person (“P”) who is a participant in a non-UK special scheme must keep and make available to the Commissioners, on request, obligatory records.
 
@@ -260,14 +260,14 @@ is not required to discharge any obligation placed on them as a taxable person, 
 
 (3) In sub-paragraph (1) “obligatory records” means records, of transactions entered into by P covered by the scheme, containing the information referred to in Article 63c(1) of the Implementing Regulation.
 
-### PART 5 — Collection of ...UK VAT[^key-2a9542f53d540b9e8bacc2463a1b8066][^key-7e0a3f4e874617faa8bd5d08bd5a31d0]
+### PART 5 — Collection of ...UK VAT[^c-2a9542f53d540b9e8bacc2463a1b8066][^c-7e0a3f4e874617faa8bd5d08bd5a31d0]
 
 #### Assessments: general modifications of section 73
 
 **22.** (1) For the purposes of this Schedule, section 73 (failure to make returns etc) is to be read as if—
 
-- (a) the reference in subsection (1) of that section to returns required under this Act included relevant non-UK returns, [^key-3bee5b3a9939fede783e31111bf9ff3f]...
-- (b) references in that section to a prescribed accounting period included a tax period , and[^key-a90f9dd93ce26026d91e61414d9da32f]
+- (a) the reference in subsection (1) of that section to returns required under this Act included relevant non-UK returns, [^c-3bee5b3a9939fede783e31111bf9ff3f]...
+- (b) references in that section to a prescribed accounting period included a tax period , and[^c-a90f9dd93ce26026d91e61414d9da32f]
 - (c) references in that section to a VAT credit included a repayment to persons who are not taxable persons of an amount of VAT paid under and in accordance with this Schedule.
 
 (2) See also the modifications in paragraph 23.
@@ -276,7 +276,7 @@ is not required to discharge any obligation placed on them as a taxable person, 
 
 #### Assessments in connection with increase in consideration: modifications
 
-**23.** (1) Sub-paragraphs (2) and (3)[^key-19b102c51554fe423f2da675efb2a2f5] make modifications of section 73[^key-0e535d2dee1c8584451f025780ff4d54] which—
+**23.** (1) Sub-paragraphs (2) and (3)[^c-19b102c51554fe423f2da675efb2a2f5] make modifications of section 73[^c-0e535d2dee1c8584451f025780ff4d54] which—
 
 - (a) have effect for the purposes of this Schedule, and
 - (b) are in addition to any other modifications of those sections made by this Schedule.
@@ -296,43 +296,43 @@ is not required to discharge any obligation placed on them as a taxable person, 
 
 (3) The reference in section 73(9) to subsection (1) of that section is taken to include a reference to section 73(3A) (treated as inserted by sub-paragraph (2)).
 
-(4)[^key-34f01ba0220312feeb92a2b2f902dd21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-34f01ba0220312feeb92a2b2f902dd21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Assessments: consequential modifications
 
-**24.** References to prescribed accounting periods in section 77 (assessments: time limits, etc)[^key-11868ee095e8b33397d95262b459258b] are to be read in accordance with the modifications made by paragraphs 22 and 23—
+**24.** References to prescribed accounting periods in section 77 (assessments: time limits, etc)[^c-11868ee095e8b33397d95262b459258b] are to be read in accordance with the modifications made by paragraphs 22 and 23—
 
-- (a)[^key-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-aec83c2624bf8f14b6abb6badb034ee1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Deemed amendments of ... returns[^key-43232c6e7d7e9df2ccaa7d72cd6eee7e]
+#### Deemed amendments of ... returns[^c-43232c6e7d7e9df2ccaa7d72cd6eee7e]
 
-**25.** (1) Where a person who has made an OSS scheme return or[^key-571082a0a960f50241c6beffab290b95] a relevant non-UK return makes a claim under paragraph 31(7)(b) (overpayments) in relation to an error in the return, the [^key-d59518c8639340f78a6faa33a6e45be8]... return is taken for the purposes of this Act to have been amended by the information in the claim.
+**25.** (1) Where a person who has made an OSS scheme return or[^c-571082a0a960f50241c6beffab290b95] a relevant non-UK return makes a claim under paragraph 31(7)(b) (overpayments) in relation to an error in the return, the [^c-d59518c8639340f78a6faa33a6e45be8]... return is taken for the purposes of this Act to have been amended by the information in the claim.
 
-(2) Where a person who has made an OSS scheme return or[^key-75c063d09ec51335979c381f6bab9b21] a relevant non-UK return gives the Commissioners a notice relating to the return under paragraph 33(2)[^key-a826f09b4d2430ec5c596a30ab8c6f68] (increase or decrease in consideration), the [^key-54d7f67e933271ff7a911ac3554f6db9]... return is taken for the purposes of this Act to have been amended by that information.
+(2) Where a person who has made an OSS scheme return or[^c-75c063d09ec51335979c381f6bab9b21] a relevant non-UK return gives the Commissioners a notice relating to the return under paragraph 33(2)[^c-a826f09b4d2430ec5c596a30ab8c6f68] (increase or decrease in consideration), the [^c-54d7f67e933271ff7a911ac3554f6db9]... return is taken for the purposes of this Act to have been amended by that information.
 
-(3) Where (in a case not falling within sub-paragraph (1) or (2)) a person who has made an OSS scheme return or[^key-83949cc531b512e8fc30e1e84b21861f] a relevant non-UK return notifies the Commissioners [^key-e8f44e1fb6dca1f40fc6d32ad9b45e37]... of a change that needs to be made to the return to correct an error, or rectify an omission, in it, the [^key-1e8cc66b3bdad7862adfdc0d9ea6a67f]... return is taken for the purposes of this Act to have been amended by that information.
+(3) Where (in a case not falling within sub-paragraph (1) or (2)) a person who has made an OSS scheme return or[^c-83949cc531b512e8fc30e1e84b21861f] a relevant non-UK return notifies the Commissioners [^c-e8f44e1fb6dca1f40fc6d32ad9b45e37]... of a change that needs to be made to the return to correct an error, or rectify an omission, in it, the [^c-1e8cc66b3bdad7862adfdc0d9ea6a67f]... return is taken for the purposes of this Act to have been amended by that information.
 
 #### Interest on VAT: “reckonable date”
 
-**26.**[^key-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Default surcharge: notice of special surcharge period
 
-**27.**[^key-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Further default after service of notice
 
-**28.**[^key-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Default surcharge: exceptions for reasonable excuse etc
 
-**29.**[^key-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interest in certain cases of official error
 
-**30.**[^key-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-d224976f3e0751078e5abbae9ec22d58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Overpayments
 
@@ -369,7 +369,7 @@ the Commissioners must pay (or repay) to the person so much of the amount as rem
 
 #### Overpayments: supplementary
 
-**32.** (1) In section 80 (credit for, or repayment of, overstated or overpaid VAT), subsections (3) to (3C) (unjust enrichment) and (4A) [^key-d09b8f7dd0bdbf5988e1d0618bc053fe]... and (6) (recovery by assessment of amounts wrongly credited) have effect as if—
+**32.** (1) In section 80 (credit for, or repayment of, overstated or overpaid VAT), subsections (3) to (3C) (unjust enrichment) and (4A) [^c-d09b8f7dd0bdbf5988e1d0618bc053fe]... and (6) (recovery by assessment of amounts wrongly credited) have effect as if—
 
 - (a) a claim—
   - (i) under paragraph 31(1) were a claim under section 80(1),
@@ -377,7 +377,7 @@ the Commissioners must pay (or repay) to the person so much of the amount as rem
   - (iii) under paragraph 31(3) were a claim under section 80(1A);
 - (b) references in that section to a prescribed accounting period included a tax period.
 
-(2) In section 80(3) to (3C), (4A) [^key-1a2a9e6906378fb170f95c8e0bc2f410]... and (6), as modified by sub-paragraph (1), references to the crediting of amounts are to be read as including the payment of amounts.
+(2) In section 80(3) to (3C), (4A) [^c-1a2a9e6906378fb170f95c8e0bc2f410]... and (6), as modified by sub-paragraph (1), references to the crediting of amounts are to be read as including the payment of amounts.
 
 (3) The Commissioners are not liable to repay the overpaid amount on a claim made—
 
@@ -401,28 +401,28 @@ if the claim is made more than 4 years after the relevant date.
 - (b) the disclosure is made in a later tax period, and
 - (c) some or all of the disclosed amount is not in fact VAT due.
 
-#### Increase or decrease in consideration for a supply : cases outside Article 61 of the Implementing Regulation[^key-9c939f637c049e1dbbae49454e363c08]
+#### Increase or decrease in consideration for a supply : cases outside Article 61 of the Implementing Regulation[^c-9c939f637c049e1dbbae49454e363c08]
 
 **33.** (1) This paragraph applies where—
 
-- (a) a person makes an OSS scheme return or[^key-d590aef61448f2e7395aebaa5d676274] a non-UK return for a tax period (“**the affected tax period**”) relating (wholly or partly) to a UK supply, and
-- (b) after the end of the period during which the person is entitled under Article 61 of the Implementing Regulation to amend their return[^key-155e0349b047e871fd5f751f01142a41] the amount of the consideration for the UK supply increases or decreases.
+- (a) a person makes an OSS scheme return or[^c-d590aef61448f2e7395aebaa5d676274] a non-UK return for a tax period (“**the affected tax period**”) relating (wholly or partly) to a UK supply, and
+- (b) after the end of the period during which the person is entitled under Article 61 of the Implementing Regulation to amend their return[^c-155e0349b047e871fd5f751f01142a41] the amount of the consideration for the UK supply increases or decreases.
 
-(2)[^key-cec9e78f826e923e556b44d64feac538] The person must, in the tax period in which the increase or decrease is accounted for in the person’s business accounts, notify the Commissioners of the adjustment needed to the figures in the OSS scheme return or non-UK return (as the case may be) because of the increase or decrease.
+(2)[^c-cec9e78f826e923e556b44d64feac538] The person must, in the tax period in which the increase or decrease is accounted for in the person’s business accounts, notify the Commissioners of the adjustment needed to the figures in the OSS scheme return or non-UK return (as the case may be) because of the increase or decrease.
 
-(3) Where the change to which a notice under sub-paragraph (2) relates is an increase in the consideration for a supply, the person must pay to the Commissioners the difference between—[^key-d50b8b314ab81dcb7f4d497b8d0531e3]
+(3) Where the change to which a notice under sub-paragraph (2) relates is an increase in the consideration for a supply, the person must pay to the Commissioners the difference between—[^c-d50b8b314ab81dcb7f4d497b8d0531e3]
 
 - (a) the amount of VAT that was chargeable on the supply before the increase in consideration, and
 - (b) the amount of VAT that is chargeable in respect of the whole of the increased consideration for the supply.
 
-(4) Where the change to which an amendment or notice under sub-paragraph (2) relates is a decrease in the consideration for a supply[^key-608ccf65c5d78e42cfbafe48de58db3a], the amendment or notice has effect as a claim; and where a claim is made the Commissioners must repay any UK[^key-3ab51aa6dcd3015685e914dfe3ce29f5] VAT paid by the person that would not have been UK VAT due from the person had the consideration for the supply always been the decreased amount.
+(4) Where the change to which an amendment or notice under sub-paragraph (2) relates is a decrease in the consideration for a supply[^c-608ccf65c5d78e42cfbafe48de58db3a], the amendment or notice has effect as a claim; and where a claim is made the Commissioners must repay any UK[^c-3ab51aa6dcd3015685e914dfe3ce29f5] VAT paid by the person that would not have been UK VAT due from the person had the consideration for the supply always been the decreased amount.
 
 (5) The Commissioners may by regulations specify—
 
-- (a) the latest time by which, and the form and manner in which, a claim or other notice under sub-paragraph (2)[^key-34dadc1dcc524bb71068538852c690df] must be given;
-- (b) the latest time by which, and the form in which, a payment under sub-paragraph (3) must be made [^key-e0d3acd4ef245a0c63846fa31c0ee7a6]....
+- (a) the latest time by which, and the form and manner in which, a claim or other notice under sub-paragraph (2)[^c-34dadc1dcc524bb71068538852c690df] must be given;
+- (b) the latest time by which, and the form in which, a payment under sub-paragraph (3) must be made [^c-e0d3acd4ef245a0c63846fa31c0ee7a6]....
 
-(6)[^key-65dbe5afb3f483f82e276fe0e4f00882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-65dbe5afb3f483f82e276fe0e4f00882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this paragraph “**UK supply**” means a scheme supply that is treated as made in the United Kingdom.
 
@@ -457,7 +457,7 @@ the person is regarded as telling HMRC about that for the purposes of paragraph 
 - (b) the cancellation of the registration of any person under the OSS scheme;
 - (c) a refusal to make a repayment under paragraph 31 (overpayments), or a decision by the Commissioners as to the amount of a repayment due under that provision;
 - (d) a refusal to make a repayment under paragraph 33(4) (decrease in consideration);
-- (e)[^key-5a4896f1195c10dfb34ac5c269022232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5a4896f1195c10dfb34ac5c269022232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Part 5 of this Act (reviews and appeals), and any order or regulations under that Part, have effect as if an appeal under this paragraph were an appeal which lies to the tribunal under section 83(1) (but not under any particular paragraph of that subsection).
 
@@ -490,90 +490,90 @@ the person is regarded as telling HMRC about that for the purposes of paragraph 
 
 ## Annotations
 
-[^key-2a9542f53d540b9e8bacc2463a1b8066]: Textual amendment: [Schs. 9ZD-9ZF](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD) inserted (10.6.2021 for specified purposes, 1.7.2021 for specified purposes, 1.3.2024 for specified purposes, 31.3.2026 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)); [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4); [S.I. 2026/315](https://www.legislation.gov.uk/uksi/2026/315), [reg. 2](https://www.legislation.gov.uk/uksi/2026/315/regulation/2)
+[^c-2a9542f53d540b9e8bacc2463a1b8066]: Textual amendment: [Schs. 9ZD-9ZF](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD) inserted (10.6.2021 for specified purposes, 1.7.2021 for specified purposes, 1.3.2024 for specified purposes, 31.3.2026 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)); [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4); [S.I. 2026/315](https://www.legislation.gov.uk/uksi/2026/315), [reg. 2](https://www.legislation.gov.uk/uksi/2026/315/regulation/2)
 
-[^key-63eba32f14aeb26001e921ff973a02e4]: Textual amendment: Words in [Sch. 9ZD para. 1(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/1/b) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/4/a)
+[^c-63eba32f14aeb26001e921ff973a02e4]: Textual amendment: Words in [Sch. 9ZD para. 1(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/1/b) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/4/a)
 
-[^key-4b5cb96a5c86e9a7cb07e76d14bb5095]: Textual amendment: Words in [Sch. 9ZD para. 1(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/1/c) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/4/b)
+[^c-4b5cb96a5c86e9a7cb07e76d14bb5095]: Textual amendment: Words in [Sch. 9ZD para. 1(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/1/c) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/4/b)
 
-[^key-1a90c0a62fa6e3c85afbe1a2d63f5d3d]: Textual amendment: Words in [Sch. 9ZD para. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/2) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1164/regulation/3)
+[^c-1a90c0a62fa6e3c85afbe1a2d63f5d3d]: Textual amendment: Words in [Sch. 9ZD para. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/2) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1164/regulation/3)
 
-[^key-d26b01d33d6a7351459feb88112310f5]: Textual amendment: Word in [Sch. 9ZD para. 4(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/4/3) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1164/regulation/4)
+[^c-d26b01d33d6a7351459feb88112310f5]: Textual amendment: Word in [Sch. 9ZD para. 4(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/4/3) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/1164/regulation/4)
 
-[^key-1d12896b0c22be948bfe6481570066ad]: Textual amendment: Word in Sch. 9ZD para. 10 heading omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/5/2)
+[^c-1d12896b0c22be948bfe6481570066ad]: Textual amendment: Word in Sch. 9ZD para. 10 heading omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/5/2)
 
-[^key-d5e50012b0d9185aef9436ca01ba3850]: Textual amendment: [Sch. 9ZD para. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/10/3) substituted for [Sch. 9ZD](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD) [para. 10(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/10/3) (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/5/3)
+[^c-d5e50012b0d9185aef9436ca01ba3850]: Textual amendment: [Sch. 9ZD para. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/10/3) substituted for [Sch. 9ZD](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD) [para. 10(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/10/3) (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/5/3)
 
-[^key-d8fa64bccbe8ad5f7a54bfe7ec98375b]: Textual amendment: Words in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/a)
+[^c-d8fa64bccbe8ad5f7a54bfe7ec98375b]: Textual amendment: Words in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/a)
 
-[^key-fe55ec785e1788b1a78c86a01b2ac046]: Textual amendment: Word in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/b)
+[^c-fe55ec785e1788b1a78c86a01b2ac046]: Textual amendment: Word in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/b)
 
-[^key-9d47adb695947cb540b33bb9fe71517e]: Textual amendment: Words in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/c)
+[^c-9d47adb695947cb540b33bb9fe71517e]: Textual amendment: Words in [Sch. 9ZD para. 14(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/1) omitted (1.12.2021) by virtue of [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/2/c)
 
-[^key-3b3f3d7d46838e33794914ee70a6efb1]: Textual amendment: Words in [Sch. 9ZD para. 14(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/3) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/3)
+[^c-3b3f3d7d46838e33794914ee70a6efb1]: Textual amendment: Words in [Sch. 9ZD para. 14(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/14/3) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/1164/regulation/6/3)
 
-[^key-b82affa9769a5247a613818a69b3a98b]: Textual amendment: [Sch. 9ZD para. 15A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/15A) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/226/regulation/5)
+[^c-b82affa9769a5247a613818a69b3a98b]: Textual amendment: [Sch. 9ZD para. 15A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/15A) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/226/regulation/5)
 
-[^key-5c9bfb6656b5b5f73e6f151d0fafe318]: Textual amendment: Sch. 9ZD para. 21A and cross-heading inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/1164/regulation/7)
+[^c-5c9bfb6656b5b5f73e6f151d0fafe318]: Textual amendment: Sch. 9ZD para. 21A and cross-heading inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/1164/regulation/7)
 
-[^key-7e0a3f4e874617faa8bd5d08bd5a31d0]: Textual amendment: Word in [Sch. 9ZD Pt. 5](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/226/regulation/7)
+[^c-7e0a3f4e874617faa8bd5d08bd5a31d0]: Textual amendment: Word in [Sch. 9ZD Pt. 5](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/226/regulation/7)
 
-[^key-3bee5b3a9939fede783e31111bf9ff3f]: Textual amendment: Word in [Sch. 9ZD para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/paragraph/22/1/a) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/8/a)
+[^c-3bee5b3a9939fede783e31111bf9ff3f]: Textual amendment: Word in [Sch. 9ZD para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/paragraph/22/1/a) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/8/a)
 
-[^key-a90f9dd93ce26026d91e61414d9da32f]: Textual amendment: [Sch. 9ZD para. 22(1)(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/paragraph/22/1/c) and word inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/8/b)
+[^c-a90f9dd93ce26026d91e61414d9da32f]: Textual amendment: [Sch. 9ZD para. 22(1)(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/paragraph/22/1/c) and word inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/8/b)
 
-[^key-19b102c51554fe423f2da675efb2a2f5]: Textual amendment: Words in [Sch. 9ZD para. 23(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/1) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-19b102c51554fe423f2da675efb2a2f5]: Textual amendment: Words in [Sch. 9ZD para. 23(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/1) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-0e535d2dee1c8584451f025780ff4d54]: Textual amendment: Words in [Sch. 9ZD para. 23(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/1) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-0e535d2dee1c8584451f025780ff4d54]: Textual amendment: Words in [Sch. 9ZD para. 23(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/1) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-34f01ba0220312feeb92a2b2f902dd21]: Textual amendment: [Sch. 9ZD para. 23(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/4) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-34f01ba0220312feeb92a2b2f902dd21]: Textual amendment: [Sch. 9ZD para. 23(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/23/4) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-11868ee095e8b33397d95262b459258b]: Textual amendment: Words in [Sch. 9ZD para. 24](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/24) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-11868ee095e8b33397d95262b459258b]: Textual amendment: Words in [Sch. 9ZD para. 24](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/24) substituted (1.3.2024) by [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-aec83c2624bf8f14b6abb6badb034ee1]: Textual amendment: [Sch. 9ZD para. 24(a)-(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/24/a) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-aec83c2624bf8f14b6abb6badb034ee1]: Textual amendment: [Sch. 9ZD para. 24(a)-(c)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/24/a) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-43232c6e7d7e9df2ccaa7d72cd6eee7e]: Textual amendment: Words in [Sch. 9ZD para. 25](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/crossheading/deemed-amendments-of-relevant-nonuk-returns) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/2)
+[^c-43232c6e7d7e9df2ccaa7d72cd6eee7e]: Textual amendment: Words in [Sch. 9ZD para. 25](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/crossheading/deemed-amendments-of-relevant-nonuk-returns) heading omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/2)
 
-[^key-571082a0a960f50241c6beffab290b95]: Textual amendment: Words in [Sch. 9ZD para. 25(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/1) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/3/a)
+[^c-571082a0a960f50241c6beffab290b95]: Textual amendment: Words in [Sch. 9ZD para. 25(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/1) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/3/a)
 
-[^key-d59518c8639340f78a6faa33a6e45be8]: Textual amendment: Words in [Sch. 9ZD para. 25(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/1) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/3/b)
+[^c-d59518c8639340f78a6faa33a6e45be8]: Textual amendment: Words in [Sch. 9ZD para. 25(1)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/1) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/3/b)
 
-[^key-75c063d09ec51335979c381f6bab9b21]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/a)
+[^c-75c063d09ec51335979c381f6bab9b21]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/a)
 
-[^key-a826f09b4d2430ec5c596a30ab8c6f68]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/b)
+[^c-a826f09b4d2430ec5c596a30ab8c6f68]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/b)
 
-[^key-54d7f67e933271ff7a911ac3554f6db9]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/c)
+[^c-54d7f67e933271ff7a911ac3554f6db9]: Textual amendment: Words in [Sch. 9ZD para. 25(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/2) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/4/c)
 
-[^key-83949cc531b512e8fc30e1e84b21861f]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/a)
+[^c-83949cc531b512e8fc30e1e84b21861f]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/a)
 
-[^key-e8f44e1fb6dca1f40fc6d32ad9b45e37]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/b)
+[^c-e8f44e1fb6dca1f40fc6d32ad9b45e37]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/b)
 
-[^key-1e8cc66b3bdad7862adfdc0d9ea6a67f]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/c)
+[^c-1e8cc66b3bdad7862adfdc0d9ea6a67f]: Textual amendment: Words in [Sch. 9ZD para. 25(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/25/3) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2022/226/regulation/9/5/c)
 
-[^key-d224976f3e0751078e5abbae9ec22d58]: Textual amendment: [Sch. 9ZD paras. 26-30](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/26) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-d224976f3e0751078e5abbae9ec22d58]: Textual amendment: [Sch. 9ZD paras. 26-30](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/26) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-d09b8f7dd0bdbf5988e1d0618bc053fe]: Textual amendment: Word in Sch. 9ZD para. 32(1) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-d09b8f7dd0bdbf5988e1d0618bc053fe]: Textual amendment: Word in Sch. 9ZD para. 32(1) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-1a2a9e6906378fb170f95c8e0bc2f410]: Textual amendment: Word in Sch. 9ZD para. 32(2) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-1a2a9e6906378fb170f95c8e0bc2f410]: Textual amendment: Word in Sch. 9ZD para. 32(2) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
 
-[^key-9c939f637c049e1dbbae49454e363c08]: Textual amendment: Words in [Sch. 9ZD para. 33](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/crossheading/increase-or-decrease-in-consideration-for-a-supply) heading inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/2)
+[^c-9c939f637c049e1dbbae49454e363c08]: Textual amendment: Words in [Sch. 9ZD para. 33](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/part/5/crossheading/increase-or-decrease-in-consideration-for-a-supply) heading inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/2)
 
-[^key-d590aef61448f2e7395aebaa5d676274]: Textual amendment: Words in [Sch. 9ZD para. 33(1)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/1/a) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/3/a)
+[^c-d590aef61448f2e7395aebaa5d676274]: Textual amendment: Words in [Sch. 9ZD para. 33(1)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/1/a) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/3/a)
 
-[^key-155e0349b047e871fd5f751f01142a41]: Textual amendment: Words in [Sch. 9ZD para. 33(1)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/1/b) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/3/b)
+[^c-155e0349b047e871fd5f751f01142a41]: Textual amendment: Words in [Sch. 9ZD para. 33(1)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/1/b) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/3/b)
 
-[^key-cec9e78f826e923e556b44d64feac538]: Textual amendment: [Sch. 9ZD para. 33(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/2) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/4)
+[^c-cec9e78f826e923e556b44d64feac538]: Textual amendment: [Sch. 9ZD para. 33(2)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/2) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/4)
 
-[^key-d50b8b314ab81dcb7f4d497b8d0531e3]: Textual amendment: Words in [Sch. 9ZD para. 33(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/3) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/5)
+[^c-d50b8b314ab81dcb7f4d497b8d0531e3]: Textual amendment: Words in [Sch. 9ZD para. 33(3)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/3) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(5)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/5)
 
-[^key-608ccf65c5d78e42cfbafe48de58db3a]: Textual amendment: Word in [Sch. 9ZD para. 33(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/4) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(6)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/6/a)
+[^c-608ccf65c5d78e42cfbafe48de58db3a]: Textual amendment: Word in [Sch. 9ZD para. 33(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/4) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(6)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/6/a)
 
-[^key-3ab51aa6dcd3015685e914dfe3ce29f5]: Textual amendment: Word in [Sch. 9ZD para. 33(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/4) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(6)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/6/b)
+[^c-3ab51aa6dcd3015685e914dfe3ce29f5]: Textual amendment: Word in [Sch. 9ZD para. 33(4)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/4) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(6)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/6/b)
 
-[^key-34dadc1dcc524bb71068538852c690df]: Textual amendment: Words in [Sch. 9ZD para. 33(5)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/5/a) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(7)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/7/a)
+[^c-34dadc1dcc524bb71068538852c690df]: Textual amendment: Words in [Sch. 9ZD para. 33(5)(a)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/5/a) substituted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(7)(a)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/7/a)
 
-[^key-e0d3acd4ef245a0c63846fa31c0ee7a6]: Textual amendment: Words in [Sch. 9ZD para. 33(5)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/5/b) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(7)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/7/b)
+[^c-e0d3acd4ef245a0c63846fa31c0ee7a6]: Textual amendment: Words in [Sch. 9ZD para. 33(5)(b)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/5/b) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(7)(b)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/7/b)
 
-[^key-65dbe5afb3f483f82e276fe0e4f00882]: Textual amendment: [Sch. 9ZD para. 33(6)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/6) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(8)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/8)
+[^c-65dbe5afb3f483f82e276fe0e4f00882]: Textual amendment: [Sch. 9ZD para. 33(6)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/33/6) omitted (1.4.2022) by virtue of [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [15(8)](https://www.legislation.gov.uk/uksi/2022/226/regulation/15/8)
 
-[^key-5a4896f1195c10dfb34ac5c269022232]: Textual amendment: [Sch. 9ZD para. 37(1)(e)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/37/1/e) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))
+[^c-5a4896f1195c10dfb34ac5c269022232]: Textual amendment: [Sch. 9ZD para. 37(1)(e)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZD/paragraph/37/1/e) omitted (1.3.2024) by virtue of [The Value Added Tax (Distance Selling) (Amendments) Regulations 2024 (S.I. 2024/128)](https://www.legislation.gov.uk/uksi/2024/128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/128/regulation/4/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/128/regulation/1/2))

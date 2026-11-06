@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Principle: best interests[^key-2555e362b184bee9e8bacc28ac74d683][^key-e2f136a88c47da1d79fa377998adef13]
+## 2. Principle: best interests[^c-2555e362b184bee9e8bacc28ac74d683][^c-e2f136a88c47da1d79fa377998adef13]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2555e362b184bee9e8bacc28ac74d683]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/18/section/2) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-2555e362b184bee9e8bacc28ac74d683]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/18/section/2) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-e2f136a88c47da1d79fa377998adef13]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/18/section/2) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)
+[^c-e2f136a88c47da1d79fa377998adef13]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/18/section/2) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)

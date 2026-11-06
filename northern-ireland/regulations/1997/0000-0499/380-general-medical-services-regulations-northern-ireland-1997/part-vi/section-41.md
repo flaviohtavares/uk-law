@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Publication of particulars[^key-bb0f4932562e7eb079a231d6108eec8a]
+## 41. Publication of particulars[^c-bb0f4932562e7eb079a231d6108eec8a]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ and shall keep them up to date.
 
 ## Annotations
 
-[^key-bb0f4932562e7eb079a231d6108eec8a]: Commencement: Reg. 41 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-bb0f4932562e7eb079a231d6108eec8a]: Commencement: Reg. 41 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

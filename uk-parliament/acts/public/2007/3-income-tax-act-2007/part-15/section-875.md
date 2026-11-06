@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest made by a building society unless it is treated as a payment of yearly interest by virtue of section 874(5A).[^key-8680e65c4b92c383a566b71a90c33dea]
+The duty to deduct a sum representing income tax under section 874 does not apply to a payment of interest made by a building society unless it is treated as a payment of yearly interest by virtue of section 874(5A).[^c-8680e65c4b92c383a566b71a90c33dea]
 
 ## Annotations
 
-[^key-8680e65c4b92c383a566b71a90c33dea]: Textual amendment: Words in s. 875 inserted (with effect in accordance with Sch. 11 para. 12(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/3)
+[^c-8680e65c4b92c383a566b71a90c33dea]: Textual amendment: Words in s. 875 inserted (with effect in accordance with Sch. 11 para. 12(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/3)

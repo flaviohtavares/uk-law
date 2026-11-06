@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Time limit for exercise of powers of acquisition[^key-e4159b9ae98d56d92d3b211cdc461db4]
+## 43. Time limit for exercise of powers of acquisition[^c-e4159b9ae98d56d92d3b211cdc461db4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4159b9ae98d56d92d3b211cdc461db4]: Commencement: Art. 43 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-e4159b9ae98d56d92d3b211cdc461db4]: Commencement: Art. 43 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

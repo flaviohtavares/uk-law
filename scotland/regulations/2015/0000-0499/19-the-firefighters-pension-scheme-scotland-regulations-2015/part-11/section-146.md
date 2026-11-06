@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. Reference of appeal to the board[^key-4adf3095e5335fd07f6cacbe4a0eeb6c]
+## 146. Reference of appeal to the board[^c-4adf3095e5335fd07f6cacbe4a0eeb6c]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4adf3095e5335fd07f6cacbe4a0eeb6c]: Commencement: [Reg. 146](https://www.legislation.gov.uk/ssi/2015/19/regulation/146) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4adf3095e5335fd07f6cacbe4a0eeb6c]: Commencement: [Reg. 146](https://www.legislation.gov.uk/ssi/2015/19/regulation/146) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Representation[^key-e5835b436ab378474a26afc0688c9781]
+## 57. Representation[^c-e5835b436ab378474a26afc0688c9781]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5835b436ab378474a26afc0688c9781]: Textual amendment: [S. 57](https://www.legislation.gov.uk/asp/2012/8/section/57) repealed (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-e5835b436ab378474a26afc0688c9781]: Textual amendment: [S. 57](https://www.legislation.gov.uk/asp/2012/8/section/57) repealed (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))

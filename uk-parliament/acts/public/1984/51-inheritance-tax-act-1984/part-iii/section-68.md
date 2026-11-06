@@ -37,9 +37,9 @@ summary: ''
 
 (5) The amount referred to in subsection (4)(a) above is equal to the aggregate of—
 
-- (a) the value, immediately after the settlement commenced, of the relevant[^key-4c228507e24a43a94615e725166dc0a7] property then comprised in it;
-- (b) the value, immediately after a related settlement commenced, of the relevant[^key-06ad7bb749325609a5ec421477341d0a] property then comprised in it; [^key-04ddf503f6625b9af5535376fab363f4]...
-- (c)[^key-c4ef3c67f8d2d0dd61dac22113f0fc04] the value, immediately after it became comprised in the settlement, of property which—
+- (a) the value, immediately after the settlement commenced, of the relevant[^c-4c228507e24a43a94615e725166dc0a7] property then comprised in it;
+- (b) the value, immediately after a related settlement commenced, of the relevant[^c-06ad7bb749325609a5ec421477341d0a] property then comprised in it; [^c-04ddf503f6625b9af5535376fab363f4]...
+- (c)[^c-c4ef3c67f8d2d0dd61dac22113f0fc04] the value, immediately after it became comprised in the settlement, of property which—
   - (i) became comprised in the settlement after the settlement commenced and before the occasion of the charge under section 65 above, and
   - (ii) was relevant property immediately after it became so comprised,
 
@@ -78,13 +78,13 @@ summary: ''
 
     “(c) for which the appropriate Table of rates is the second Table in Schedule 1 to this Act.”.
 
-[^key-4c228507e24a43a94615e725166dc0a7]: Textual amendment: Word in s. 68(5)(a) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/a)
+[^c-4c228507e24a43a94615e725166dc0a7]: Textual amendment: Word in s. 68(5)(a) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/a)
 
-[^key-06ad7bb749325609a5ec421477341d0a]: Textual amendment: Word in s. 68(5)(b) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/a)
+[^c-06ad7bb749325609a5ec421477341d0a]: Textual amendment: Word in s. 68(5)(b) inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/a)
 
-[^key-04ddf503f6625b9af5535376fab363f4]: Textual amendment: Word in s. 68(5) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/b)
+[^c-04ddf503f6625b9af5535376fab363f4]: Textual amendment: Word in s. 68(5) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/b)
 
-[^key-c4ef3c67f8d2d0dd61dac22113f0fc04]: Textual amendment: S. 68(5)(c)-(f) substituted for s. 68(5)(c) (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/c)
+[^c-c4ef3c67f8d2d0dd61dac22113f0fc04]: Textual amendment: S. 68(5)(c)-(f) substituted for s. 68(5)(c) (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/1/paragraph/4/c)
 
 [^c13608921]: Textual amendment: Finance Act 1986 Sch. 19 para. 18(3)(a),*with effect from* 18*March* 1986.*Originally*
 

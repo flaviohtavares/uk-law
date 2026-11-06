@@ -32,7 +32,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food Labelling (Amendment) (England) (No. 2) Regulations 2004 (revoked)[^key-afcf8d26be8b604b251f354ce2a012db]
+The Food Labelling (Amendment) (England) (No. 2) Regulations 2004 (revoked)[^c-afcf8d26be8b604b251f354ce2a012db]
 
 Made
 
@@ -46,84 +46,84 @@ Coming into force
 
 26th November 2004
 
-[^key-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-afcf8d26be8b604b251f354ce2a012db]
+## 1. Title, application and commencement[^c-afcf8d26be8b604b251f354ce2a012db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-afcf8d26be8b604b251f354ce2a012db]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-afcf8d26be8b604b251f354ce2a012db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW SCHEDULE AA1 TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^key-afcf8d26be8b604b251f354ce2a012db]
+## SCHEDULE — NEW SCHEDULE AA1 TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^c-afcf8d26be8b604b251f354ce2a012db]
 
 Regulation 14
 
-> **SCHEDULE AA1 — ALLERGENIC INGREDIENTS[^key-afcf8d26be8b604b251f354ce2a012db]**
+> **SCHEDULE AA1 — ALLERGENIC INGREDIENTS[^c-afcf8d26be8b604b251f354ce2a012db]**
 >
 > Regulation 2(1) and 34B
 >
-> **1.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12.**[^key-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-afcf8d26be8b604b251f354ce2a012db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afcf8d26be8b604b251f354ce2a012db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afcf8d26be8b604b251f354ce2a012db]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 17
+[^c-afcf8d26be8b604b251f354ce2a012db]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 17

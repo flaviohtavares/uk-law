@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.28. Application to stay case for abuse of process[^key-469cf3f165f4d6bf4148747b6fa4f1d2]
+## 3.28. Application to stay case for abuse of process[^c-469cf3f165f4d6bf4148747b6fa4f1d2]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ not more than 10 business days after service of the application.
 
 ## Annotations
 
-[^key-469cf3f165f4d6bf4148747b6fa4f1d2]: Commencement: [Rule 3.28](https://www.legislation.gov.uk/uksi/2025/909/rule/3.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-469cf3f165f4d6bf4148747b6fa4f1d2]: Commencement: [Rule 3.28](https://www.legislation.gov.uk/uksi/2025/909/rule/3.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

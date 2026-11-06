@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Burma Sanctions) (No. 2) Order 2018 (revoked)[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+The Export Control (Burma Sanctions) (No. 2) Order 2018 (revoked)[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 Made
 
@@ -46,64 +46,64 @@ Coming into force
 
 14th August 2018
 
-[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 1. Citation and commencement[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of offences to extra-territorial activities[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 2. Extension of offences to extra-territorial activities[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 3. Interpretation[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Licences[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 4. Licences[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Contravention of relevant prohibitions in the Burma Regulation[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 5. Contravention of relevant prohibitions in the Burma Regulation[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Circumvention of relevant prohibitions in the Burma Regulation[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 6. Circumvention of relevant prohibitions in the Burma Regulation[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Defence[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 7. Defence[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences under this Order: Penalties[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 8. Offences under this Order: Penalties[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences under the 1979 Act in connection with the Burma Regulation: Penalties[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 9. Offences under the 1979 Act in connection with the Burma Regulation: Penalties[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of the 1979 Act for the purposes of this Order[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 10. Application of the 1979 Act for the purposes of this Order[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 11. Revocation[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Review[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
+## 12. Review[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c06b0f926712c4f8fe8cfa4a6ea0e2c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/894) revoked (31.12.2020) by [The Burma (Sanctions) (EU Exit) Regulations 2019 (revoked) 2019 (S.I. 2019/136)](https://www.legislation.gov.uk/uksi/2019/136), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/136/regulation/1/2), [70(2)](https://www.legislation.gov.uk/uksi/2019/136/regulation/70/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/4/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c06b0f926712c4f8fe8cfa4a6ea0e2c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/894) revoked (31.12.2020) by [The Burma (Sanctions) (EU Exit) Regulations 2019 (revoked) 2019 (S.I. 2019/136)](https://www.legislation.gov.uk/uksi/2019/136), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/136/regulation/1/2), [70(2)](https://www.legislation.gov.uk/uksi/2019/136/regulation/70/2); [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/4/2) [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

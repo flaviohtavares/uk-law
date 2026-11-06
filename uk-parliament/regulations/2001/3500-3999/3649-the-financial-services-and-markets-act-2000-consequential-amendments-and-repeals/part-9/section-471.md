@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 471. Interpretation of the 1994 Regulations[^key-65133b5ad71a3fdf5782813aebc29d07]
+## 471. Interpretation of the 1994 Regulations[^c-65133b5ad71a3fdf5782813aebc29d07]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In paragraph (1) of regulation 3 of the Insolvency Regulations 1994 (interpretat
 
 ## Annotations
 
-[^key-65133b5ad71a3fdf5782813aebc29d07]: Commencement: Art. 471 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-65133b5ad71a3fdf5782813aebc29d07]: Commencement: Art. 471 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

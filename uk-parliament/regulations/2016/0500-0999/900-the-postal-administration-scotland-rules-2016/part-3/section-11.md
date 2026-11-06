@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Notice requiring statement of affairs[^key-c57898643cff793ed07f457382b914f4]
+## 11. Notice requiring statement of affairs[^c-c57898643cff793ed07f457382b914f4]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c57898643cff793ed07f457382b914f4]: Commencement: Rule 11 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c57898643cff793ed07f457382b914f4]: Commencement: Rule 11 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00008]: Footnote: Section 235 was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 17, paragraph 24.

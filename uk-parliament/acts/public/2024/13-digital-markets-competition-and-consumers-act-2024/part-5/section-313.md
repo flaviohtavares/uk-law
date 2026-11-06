@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313. Procedure and appeals[^key-9b7d70dc0e66b75aa9803d0a2055d91c][^key-0fb0978d549e16682fa35180aa79dc63]
+## 313. Procedure and appeals[^c-9b7d70dc0e66b75aa9803d0a2055d91c][^c-0fb0978d549e16682fa35180aa79dc63]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b7d70dc0e66b75aa9803d0a2055d91c]: Commencement: S. 313 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9b7d70dc0e66b75aa9803d0a2055d91c]: Commencement: S. 313 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0fb0978d549e16682fa35180aa79dc63]: Commencement: [S. 313](https://www.legislation.gov.uk/ukpga/2024/13/section/313) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)
+[^c-0fb0978d549e16682fa35180aa79dc63]: Commencement: [S. 313](https://www.legislation.gov.uk/ukpga/2024/13/section/313) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)

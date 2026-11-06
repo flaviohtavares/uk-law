@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Further provision about proceedings[^key-e89b28a0b0c7803567b8321402fb8bb2][^key-6b43fe4e4c5dcf2eafe094e86acf934a][^key-d526c2c11a63d1ba0b0d49ea9f828955]
+## 38. Further provision about proceedings[^c-e89b28a0b0c7803567b8321402fb8bb2][^c-6b43fe4e4c5dcf2eafe094e86acf934a][^c-d526c2c11a63d1ba0b0d49ea9f828955]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ The following provisions of the Companies Act 2006 apply in relation to offences
 
 ## Annotations
 
-[^key-e89b28a0b0c7803567b8321402fb8bb2]: Commencement: S. 38 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-e89b28a0b0c7803567b8321402fb8bb2]: Commencement: S. 38 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-6b43fe4e4c5dcf2eafe094e86acf934a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/10/section/38) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
+[^c-6b43fe4e4c5dcf2eafe094e86acf934a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/10/section/38) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/j)
 
-[^key-d526c2c11a63d1ba0b0d49ea9f828955]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/10/section/38) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-d526c2c11a63d1ba0b0d49ea9f828955]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/10/section/38) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144A. Chapter not to apply where cash basis used[^key-b8a446f3fa4b572239ef9d556ffa7e5d]
+## 144A. Chapter not to apply where cash basis used[^c-b8a446f3fa4b572239ef9d556ffa7e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-b8a446f3fa4b572239ef9d556ffa7e5d]: Textual amendment: S. 144A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/26)
+[^c-b8a446f3fa4b572239ef9d556ffa7e5d]: Textual amendment: S. 144A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/26)

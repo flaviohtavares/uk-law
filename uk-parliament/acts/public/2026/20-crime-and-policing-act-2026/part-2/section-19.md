@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Failure to comply with content manager requirements: civil penalty[^key-de60d7a5bee6ff3685ae2093becb9b35]
+## 19. Failure to comply with content manager requirements: civil penalty[^c-de60d7a5bee6ff3685ae2093becb9b35]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de60d7a5bee6ff3685ae2093becb9b35]: Commencement: S. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-de60d7a5bee6ff3685ae2093becb9b35]: Commencement: S. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

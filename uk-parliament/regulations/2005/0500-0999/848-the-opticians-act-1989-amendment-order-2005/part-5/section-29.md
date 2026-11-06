@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Transitional provisions[^key-f644f8925da340ca944a1306bc4f4aaa][^M_I_a7769d4c-56f2-4aa1-9941-41490eb2e0d3]
+## 29. Transitional provisions[^c-f644f8925da340ca944a1306bc4f4aaa][^M_I_a7769d4c-56f2-4aa1-9941-41490eb2e0d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f644f8925da340ca944a1306bc4f4aaa]: Commencement: Art. 29(1) comes into force in accordance with art. 1(3)-(6)
+[^c-f644f8925da340ca944a1306bc4f4aaa]: Commencement: Art. 29(1) comes into force in accordance with art. 1(3)-(6)
 
 [^M_I_a7769d4c-56f2-4aa1-9941-41490eb2e0d3]: Commencement: Art. 29(2)-(4) in force at 22.3.2005, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/848/article/1/2)
 

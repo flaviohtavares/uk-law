@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Revocation of section 29 designations[^key-981fcd1496e9d6a3ecbfd098d0dee043]
+## 32. Revocation of section 29 designations[^c-981fcd1496e9d6a3ecbfd098d0dee043]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-981fcd1496e9d6a3ecbfd098d0dee043]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2015/5/section/32) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-981fcd1496e9d6a3ecbfd098d0dee043]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2015/5/section/32) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

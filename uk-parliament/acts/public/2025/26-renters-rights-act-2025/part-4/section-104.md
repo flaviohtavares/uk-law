@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Rent repayment orders: liability of directors etc[^key-dec604bb71726371cf03d39e6f92531b][^key-bf30188a71ca03105e54bdb7bf88b7fe]
+## 104. Rent repayment orders: liability of directors etc[^c-dec604bb71726371cf03d39e6f92531b][^c-bf30188a71ca03105e54bdb7bf88b7fe]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ In the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016
 
 ## Annotations
 
-[^key-dec604bb71726371cf03d39e6f92531b]: Commencement: S. 104 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-dec604bb71726371cf03d39e6f92531b]: Commencement: S. 104 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-bf30188a71ca03105e54bdb7bf88b7fe]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/26/section/104) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/k) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-bf30188a71ca03105e54bdb7bf88b7fe]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/26/section/104) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/k) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

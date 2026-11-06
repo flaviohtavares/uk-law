@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 566A. Exception to pre-emption right: companies in financial difficulty[^key-eab91a6d0eb1d52a959e8300c73af649]
+## 566A. Exception to pre-emption right: companies in financial difficulty[^c-eab91a6d0eb1d52a959e8300c73af649]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 561(1) (existing shareholders’ right of pre-emption) does not apply to
 
 ## Annotations
 
-[^key-eab91a6d0eb1d52a959e8300c73af649]: Textual amendment: [S. 566A](https://www.legislation.gov.uk/ukpga/2006/46/section/566A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/3/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-eab91a6d0eb1d52a959e8300c73af649]: Textual amendment: [S. 566A](https://www.legislation.gov.uk/ukpga/2006/46/section/566A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/33/3/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

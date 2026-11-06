@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Default powers of Secretary of State in relation to adult social care[^key-9bd8920fe4f889b41007754897f60dcf][^key-756f6be99a03b32ec0e7509be340fb20]
+## 164. Default powers of Secretary of State in relation to adult social care[^c-9bd8920fe4f889b41007754897f60dcf][^c-756f6be99a03b32ec0e7509be340fb20]
 
 *Extent: E+W*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd8920fe4f889b41007754897f60dcf]: Commencement: S. 164 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-9bd8920fe4f889b41007754897f60dcf]: Commencement: S. 164 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-756f6be99a03b32ec0e7509be340fb20]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2022/31/section/164) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
+[^c-756f6be99a03b32ec0e7509be340fb20]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2022/31/section/164) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)

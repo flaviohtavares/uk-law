@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — ACQUISITION OF NEW RIGHTS ONLY[^key-297b13fd47da6a4653a111a863428874]
+## SCHEDULE 9 — ACQUISITION OF NEW RIGHTS ONLY[^c-297b13fd47da6a4653a111a863428874]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Articles 21 and 25
 
 ## Annotations
 
-[^key-297b13fd47da6a4653a111a863428874]: Commencement: Sch. 9 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-297b13fd47da6a4653a111a863428874]: Commencement: Sch. 9 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

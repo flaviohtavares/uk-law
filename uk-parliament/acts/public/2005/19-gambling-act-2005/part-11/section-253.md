@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Lottery ticket[^key-0ad86096d3a6345a1eb0d9d039717c09]
+## 253. Lottery ticket[^c-0ad86096d3a6345a1eb0d9d039717c09]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad86096d3a6345a1eb0d9d039717c09]: Commencement: [S. 253](https://www.legislation.gov.uk/ukpga/2005/19/section/253) in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-0ad86096d3a6345a1eb0d9d039717c09]: Commencement: [S. 253](https://www.legislation.gov.uk/ukpga/2005/19/section/253) in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))

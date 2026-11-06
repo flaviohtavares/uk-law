@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257CF. The no disqualifying arrangements requirement[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257CF. The no disqualifying arrangements requirement[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 - “relevant tax relief”, in respect of shares, means one or more of the following—
   - (a) SEIS relief in respect of the shares;
   - (b) EIS relief in respect of the shares;
-  - (ba) SI[^key-da86b068ced42577d30c5b091c7bba0a] relief under Part 5B in respect of the shares;
+  - (ba) SI[^c-da86b068ced42577d30c5b091c7bba0a] relief under Part 5B in respect of the shares;
   - (c) relief under Chapter 6 of Part 4 (losses on disposal of shares) in respect of the shares;
   - (d) relief under section 150A or 150E of TCGA 1992 (enterprise investment scheme) in respect of the shares;
   - (e) relief under Schedule 5B to that Act (enterprise investment scheme: re-investment) in consequence of which deferral relief is attributable to the shares (see paragraph 19(2) of that Schedule);
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-da86b068ced42577d30c5b091c7bba0a]: Textual amendment: Words in [s. 257CF(6)](https://www.legislation.gov.uk/ukpga/2007/3/section/257CF/6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/3)
+[^c-da86b068ced42577d30c5b091c7bba0a]: Textual amendment: Words in [s. 257CF(6)](https://www.legislation.gov.uk/ukpga/2007/3/section/257CF/6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/3)

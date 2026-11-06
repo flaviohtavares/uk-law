@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Membership of Speaker's Committee[^key-35e53027bdf768119532f5b077810d90]
+## 27. Membership of Speaker's Committee[^c-35e53027bdf768119532f5b077810d90]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e53027bdf768119532f5b077810d90]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2010/25/section/27) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)
+[^c-35e53027bdf768119532f5b077810d90]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2010/25/section/27) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/a)

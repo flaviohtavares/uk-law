@@ -32,7 +32,7 @@ Land Registration etc. (Scotland) Act 2012
 
 An Act of the Scottish Parliament to reform and restate the law on the registration of rights to land in the land register; to enable electronic conveyancing and registration of electronic documents in the land register; to provide for the closure of the Register of Sasines in due course; to make provision about the functions of the Keeper of the Registers of Scotland; to allow electronic documents to be used for certain contracts, unilateral obligations and trusts that must be constituted by writing; to provide about the formal validity of electronic documents and for their registration; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 31st May 2012 and received Royal Assent on 10th July 2012[^key-dd60c9b27f0f071bec0c6508231a5ad1]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 31st May 2012 and received Royal Assent on 10th July 2012[^c-dd60c9b27f0f071bec0c6508231a5ad1]
 
 ## Contents
 
@@ -157,7 +157,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 54 — Registration of decree of reduction](part-3/section-54.md)
 - [Section 55 — Registration of order for rectification of document etc.](part-3/section-55.md)
 
-### Part 4 — Advance notices[^key-5cbb0f26650b67617e67c8a5b9d3efe3]
+### Part 4 — Advance notices[^c-5cbb0f26650b67617e67c8a5b9d3efe3]
 
 - [Section 56 — Advance notices](part-4/section-56.md)
 - [Section 57 — Application for advance notice](part-4/section-57.md)
@@ -300,7 +300,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 111 — Duties of certain persons](part-11/section-111.md)
 
-#### Offences[^key-ec87859313616980d774709990100aee]
+#### Offences[^c-ec87859313616980d774709990100aee]
 
 - [Section 112 — Offence relating to applications for registration](part-11/section-112.md)
 - [Section 112A — Offence by overseas entity](part-11/section-112a.md)
@@ -329,8 +329,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-dd60c9b27f0f071bec0c6508231a5ad1]: Modification: [Act](https://www.legislation.gov.uk/asp/2012/5) applied (with modifications) (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/11); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-dd60c9b27f0f071bec0c6508231a5ad1]: Modification: [Act](https://www.legislation.gov.uk/asp/2012/5) applied (with modifications) (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/11); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)
+[^c-5cbb0f26650b67617e67c8a5b9d3efe3]: Modification: Pt. 4 applied (with modifications) (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [4](https://www.legislation.gov.uk/ssi/2014/190/article/4)
 
-[^key-ec87859313616980d774709990100aee]: Textual amendment: [S. 112 cross-heading](https://www.legislation.gov.uk/asp/2012/5/part/11/crossheading/offence) substituted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/6); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-ec87859313616980d774709990100aee]: Textual amendment: [S. 112 cross-heading](https://www.legislation.gov.uk/asp/2012/5/part/11/crossheading/offence) substituted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/6); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Expiry of provisions of the Parliamentary Standards Act 2009[^key-0f66dc83b42d26f665c4cec717147cf6]
+## 37. Expiry of provisions of the Parliamentary Standards Act 2009[^c-0f66dc83b42d26f665c4cec717147cf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit section 15 of the Parliamentary Standards Act 2009 (expiry of provisions of
 
 ## Annotations
 
-[^key-0f66dc83b42d26f665c4cec717147cf6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2010/25/section/37) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/g)
+[^c-0f66dc83b42d26f665c4cec717147cf6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2010/25/section/37) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/g)

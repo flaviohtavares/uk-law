@@ -45,29 +45,29 @@ The Secretary of State, having considered the application, the responses to the 
 
 Accordingly, the Secretary of State, in exercise of the powers in paragraph 2(1) and (9) of Schedule 6 to the Planning Act 2008, makes the following Order:
 
-## 1. Citation and commencement[^key-3855a4dda13ac8881ae7cce647a986db]
+## 1. Citation and commencement[^c-3855a4dda13ac8881ae7cce647a986db]
 
 This Order may be cited as the East Anglia THREE Offshore Wind Farm (Amendment) Order 2022 and comes into force on 1st October 2022.
 
-## 2. Amendment to the East Anglia THREE Offshore Wind Farm Order 2017[^key-1d3687dd2f668b7577ab669209435b2f]
+## 2. Amendment to the East Anglia THREE Offshore Wind Farm Order 2017[^c-1d3687dd2f668b7577ab669209435b2f]
 
 The East Anglia THREE Offshore Wind Farm Order 2017 (“**the 2017 Order**”) is amended in accordance with this Order.
 
-## 3. Amendments to Part 1 (Authorised development) of Schedule 1 (Authorised project)[^key-e8ddd7d65cffd6db4c54475f9a8cfc31]
+## 3. Amendments to Part 1 (Authorised development) of Schedule 1 (Authorised project)[^c-e8ddd7d65cffd6db4c54475f9a8cfc31]
 
 In Part 1 (Authorised development) of Schedule 1 (Authorised project) to the 2017 Order, in paragraph (a) of the description of Work No. 1—
 
 - (a) omit the words “with a gross electrical output capacity of up to 1,400 MW”; and
 - (b) for “121” substitute “100”.
 
-## 4. Amendments to Part 3 (Requirements) of Schedule 1 (Authorised project)[^key-4e24401889607e85407989a055f477f6]
+## 4. Amendments to Part 3 (Requirements) of Schedule 1 (Authorised project)[^c-4e24401889607e85407989a055f477f6]
 
 Part 3 (Requirements) of Schedule 1 (Authorised project) to the 2017 Order is amended as follows—
 
 - (a) in paragraph 2(1)(a), for “262” substitute “282”;
 - (b) in paragraph 2(1)(c), for “230” substitute “250”;
 - (c) in paragraph 3(8)(a), omit the words “with a gross electrical output capacity of up to 1,400 MW” and for “121” Substitute “100”;
-- (d)[^key-1e163c47a965abe0d0d8307cb32a27c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1e163c47a965abe0d0d8307cb32a27c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph 33(2)(a) for “Trimingham” substitute “Neatishead”; and
 - (f) in paragraph 33(2)(c) (Ministry of Defence surveillance operations), for “Kington Road, Sutton Coldfield, B75 7RL” substitute “St George’s House, DIO Head Office, DMS Whittington, Lichfield, Staffordshire WS14 9PY”.
 
@@ -93,12 +93,12 @@ This Order amends the East Anglia THREE Offshore Wind Farm Order 2017 (as amende
 
 [^f00003]: Footnote: [S.I. 2017/826](https://www.legislation.gov.uk/uksi/2017/826) as amended by [S.I. 2018/843](https://www.legislation.gov.uk/uksi/2018/843), [S.I. 2019/997](https://www.legislation.gov.uk/uksi/2019/997) and [S.I. 2021/471](https://www.legislation.gov.uk/uksi/2021/471).
 
-[^key-3855a4dda13ac8881ae7cce647a986db]: Commencement: Art. 1 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
+[^c-3855a4dda13ac8881ae7cce647a986db]: Commencement: Art. 1 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
 
-[^key-1d3687dd2f668b7577ab669209435b2f]: Commencement: Art. 2 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
+[^c-1d3687dd2f668b7577ab669209435b2f]: Commencement: Art. 2 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
 
-[^key-e8ddd7d65cffd6db4c54475f9a8cfc31]: Commencement: Art. 3 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
+[^c-e8ddd7d65cffd6db4c54475f9a8cfc31]: Commencement: Art. 3 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
 
-[^key-4e24401889607e85407989a055f477f6]: Commencement: Art. 4 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
+[^c-4e24401889607e85407989a055f477f6]: Commencement: Art. 4 in force at 1.10.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1015/article/1)
 
-[^key-1e163c47a965abe0d0d8307cb32a27c5]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/uksi/2022/1015/article/4/d) omitted (17.11.2022) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) (No. 2) Order 2022 (S.I. 2022/1195)](https://www.legislation.gov.uk/uksi/2022/1195), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1195/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1195/article/3)
+[^c-1e163c47a965abe0d0d8307cb32a27c5]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/uksi/2022/1015/article/4/d) omitted (17.11.2022) by virtue of [The East Anglia THREE Offshore Wind Farm (Amendment) (No. 2) Order 2022 (S.I. 2022/1195)](https://www.legislation.gov.uk/uksi/2022/1195), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1195/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1195/article/3)

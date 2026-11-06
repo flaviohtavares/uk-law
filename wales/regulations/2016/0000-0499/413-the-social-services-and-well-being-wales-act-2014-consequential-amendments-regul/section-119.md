@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**119.**[^key-cccd4d66a6472410ec5c382c9b6284a2] In Schedule 2, in paragraph 24(3) (enforcement of contribution orders) before paragraph (a) insert—
+**119.**[^c-cccd4d66a6472410ec5c382c9b6284a2] In Schedule 2, in paragraph 24(3) (enforcement of contribution orders) before paragraph (a) insert—
 
 > - (aa) a local authority in Wales;
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cccd4d66a6472410ec5c382c9b6284a2]: Commencement: Reg. 119 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-cccd4d66a6472410ec5c382c9b6284a2]: Commencement: Reg. 119 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

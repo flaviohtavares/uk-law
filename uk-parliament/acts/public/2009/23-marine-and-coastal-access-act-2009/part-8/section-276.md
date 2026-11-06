@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Forfeiture etc of fish failing to meet size requirements[^key-0f6004067bc74f7d1faf8dcd965919ef]
+## 276. Forfeiture etc of fish failing to meet size requirements[^c-0f6004067bc74f7d1faf8dcd965919ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f6004067bc74f7d1faf8dcd965919ef]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2009/23/section/276) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-0f6004067bc74f7d1faf8dcd965919ef]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2009/23/section/276) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

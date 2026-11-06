@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.7. Service or delivery of application[^key-1d8e3b87c8711040b452b36a2b403f67]
+## 4.7. Service or delivery of application[^c-1d8e3b87c8711040b452b36a2b403f67]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d8e3b87c8711040b452b36a2b403f67]: Commencement: Rule 4.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1d8e3b87c8711040b452b36a2b403f67]: Commencement: Rule 4.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

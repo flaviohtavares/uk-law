@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Higher-risk building work: registered building control approvers[^key-050c4d84959300910cfe7f620b8e8ce6][^key-5f2be384d3863a96eea25080aa56ade3][^key-f325eebc82d34bb0d9ee73edf02c5860][^key-bb4fab8f49fc6ebdd45312f08b5b769d][^key-877f38e29e78cebf5d68e7e32401e5ed]
+## 46. Higher-risk building work: registered building control approvers[^c-050c4d84959300910cfe7f620b8e8ce6][^c-5f2be384d3863a96eea25080aa56ade3][^c-f325eebc82d34bb0d9ee73edf02c5860][^c-bb4fab8f49fc6ebdd45312f08b5b769d][^c-877f38e29e78cebf5d68e7e32401e5ed]
 
 *Extent: E+W*
 
@@ -144,12 +144,12 @@ summary: ''
 
 ## Annotations
 
-[^key-050c4d84959300910cfe7f620b8e8ce6]: Commencement: S. 46 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
+[^c-050c4d84959300910cfe7f620b8e8ce6]: Commencement: S. 46 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
 
-[^key-5f2be384d3863a96eea25080aa56ade3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(u)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/u)
+[^c-5f2be384d3863a96eea25080aa56ade3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(u)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/u)
 
-[^key-f325eebc82d34bb0d9ee73edf02c5860]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(x)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/x)
+[^c-f325eebc82d34bb0d9ee73edf02c5860]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(x)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/x)
 
-[^key-bb4fab8f49fc6ebdd45312f08b5b769d]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/l) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/993/regulation/8))
+[^c-bb4fab8f49fc6ebdd45312f08b5b769d]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/l) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4), [8](https://www.legislation.gov.uk/uksi/2023/993/regulation/8))
 
-[^key-877f38e29e78cebf5d68e7e32401e5ed]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 6.4.2024 for W. in so far as not already in force by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(v)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/v) (with [regs. 3-5](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-877f38e29e78cebf5d68e7e32401e5ed]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2022/30/section/46) in force at 6.4.2024 for W. in so far as not already in force by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(v)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/v) (with [regs. 3-5](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

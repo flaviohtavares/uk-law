@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Standards of care and support - overarching requirements[^key-059047c4c46b460d1203cc41a4b94a1e]
+## 17. Standards of care and support - overarching requirements[^c-059047c4c46b460d1203cc41a4b94a1e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059047c4c46b460d1203cc41a4b94a1e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/163/regulation/17) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-059047c4c46b460d1203cc41a4b94a1e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/163/regulation/17) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Alteration of levels.[^key-d33b92d637bddeea765e781a33d05763]
+## 77. Alteration of levels.[^c-d33b92d637bddeea765e781a33d05763]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d33b92d637bddeea765e781a33d05763]: Modification: S. 77 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(m)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/m)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-d33b92d637bddeea765e781a33d05763]: Modification: S. 77 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(m)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/m)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

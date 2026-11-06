@@ -35,7 +35,7 @@ summary: ''
 - (c) a place in the local justice area in which the witnesses, or the majority of the witnesses, reside;
 - (d) a place where other cases raising similar issues are being dealt with.
 
-(6)[^key-c4bbe7df129c8f83d3b4eab2f6ed1a61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c4bbe7df129c8f83d3b4eab2f6ed1a61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The Lord Chancellor may , after consulting the Lord Chief Justice,[^c19142391] give directions as to the days on which and times at which magistrates' courts may sit.
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c19142351]: Textual amendment: Words in s. 30(1) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 328(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/328/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 
-[^key-c4bbe7df129c8f83d3b4eab2f6ed1a61]: Textual amendment: S. 30(6) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 88](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/88); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c4bbe7df129c8f83d3b4eab2f6ed1a61]: Textual amendment: S. 30(6) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 88](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/88); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19142391]: Textual amendment: Words in s. 30(7) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 328(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/328/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 

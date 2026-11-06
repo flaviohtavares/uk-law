@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Financial implications of closure proposals[^key-6e803b2c8ba7d4f2709ba93a1a555bb0]
+## 78. Financial implications of closure proposals[^c-6e803b2c8ba7d4f2709ba93a1a555bb0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 4 of the 2010 Act (proposal paper), after subsection (2) insert—
 
 ## Annotations
 
-[^key-6e803b2c8ba7d4f2709ba93a1a555bb0]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/8/section/78) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-6e803b2c8ba7d4f2709ba93a1a555bb0]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/8/section/78) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Article 27A inserted[^key-c3224f5ee1fe4e0a3a33569086c74138]
+## 16. Article 27A inserted[^c-c3224f5ee1fe4e0a3a33569086c74138]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ After article 27 insert—
 
 ## Annotations
 
-[^key-c3224f5ee1fe4e0a3a33569086c74138]: Commencement: Art. 16 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-c3224f5ee1fe4e0a3a33569086c74138]: Commencement: Art. 16 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

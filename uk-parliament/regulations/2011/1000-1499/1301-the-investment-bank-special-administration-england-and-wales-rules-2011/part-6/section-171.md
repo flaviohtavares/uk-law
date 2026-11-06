@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171. Surrender for non-disclosure[^key-67e66a061f6d9489b4763dcb1a15f684]
+## 171. Surrender for non-disclosure[^c-67e66a061f6d9489b4763dcb1a15f684]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67e66a061f6d9489b4763dcb1a15f684]: Commencement: [Rule 171](https://www.legislation.gov.uk/uksi/2011/1301/rule/171) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-67e66a061f6d9489b4763dcb1a15f684]: Commencement: [Rule 171](https://www.legislation.gov.uk/uksi/2011/1301/rule/171) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

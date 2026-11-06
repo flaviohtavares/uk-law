@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. The MRO notice[^key-706e3041b9c5ba46924aceb112302805]
+## 23. The MRO notice[^c-706e3041b9c5ba46924aceb112302805]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The MRO notice must be—
 
 - (a) in writing; and
-- (b) received by the pub-owning business within the period of 21 days beginning with the day after[^key-a360fec43795297770b6f563932f0b93] the day on which the event mentioned in paragraph (1) occurred.
+- (b) received by the pub-owning business within the period of 21 days beginning with the day after[^c-a360fec43795297770b6f563932f0b93] the day on which the event mentioned in paragraph (1) occurred.
 
 (3) The MRO notice must include—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-706e3041b9c5ba46924aceb112302805]: Commencement: Reg. 23 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-706e3041b9c5ba46924aceb112302805]: Commencement: Reg. 23 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
-[^key-a360fec43795297770b6f563932f0b93]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/23/2/b) inserted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-a360fec43795297770b6f563932f0b93]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/23/2/b) inserted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
 
 [^f00018]: Footnote: Section 44(1)(a) of SBEEA 2015 defines “MRO procedure”.

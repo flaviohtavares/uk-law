@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84.19. Issue of replacement certificates and surrender of certificates[^key-f146bf34e754c1428c9e6fb4aac5a79e][^M_F_87b5206e-a9f1-4578-c113-c0749c754001]
+## 84.19. Issue of replacement certificates and surrender of certificates[^c-f146bf34e754c1428c9e6fb4aac5a79e][^M_F_87b5206e-a9f1-4578-c113-c0749c754001]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f146bf34e754c1428c9e6fb4aac5a79e]: Textual amendment: [Pt. 84 Section 4](https://www.legislation.gov.uk/uksi/1998/3132/part/84/section/4) inserted (6.4.2014) by [The Civil Procedure (Amendment No.2) Rules 2014 (S.I. 2014/482)](https://www.legislation.gov.uk/uksi/2014/482), [rules 2](https://www.legislation.gov.uk/uksi/2014/482/rule/2), [4](https://www.legislation.gov.uk/uksi/2014/482/rule/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/482/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2014/482/rule/5))
+[^c-f146bf34e754c1428c9e6fb4aac5a79e]: Textual amendment: [Pt. 84 Section 4](https://www.legislation.gov.uk/uksi/1998/3132/part/84/section/4) inserted (6.4.2014) by [The Civil Procedure (Amendment No.2) Rules 2014 (S.I. 2014/482)](https://www.legislation.gov.uk/uksi/2014/482), [rules 2](https://www.legislation.gov.uk/uksi/2014/482/rule/2), [4](https://www.legislation.gov.uk/uksi/2014/482/rule/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/482/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2014/482/rule/5))
 
 [^M_F_87b5206e-a9f1-4578-c113-c0749c754001]: Textual amendment: [Pt. 84](https://www.legislation.gov.uk/uksi/1998/3132/part/84) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))

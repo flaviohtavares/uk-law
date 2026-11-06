@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Protection of rights of civil partner against arrangements intended to defeat them[^key-e9080bbc3c8d64b6ed86d9bb24750a1a]
+## 115. Protection of rights of civil partner against arrangements intended to defeat them[^c-e9080bbc3c8d64b6ed86d9bb24750a1a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the trustee must inform the non-entitled partner, within 14 days beginning with 
 
 ## Annotations
 
-[^key-e9080bbc3c8d64b6ed86d9bb24750a1a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2016/21/section/115) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e9080bbc3c8d64b6ed86d9bb24750a1a]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2016/21/section/115) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

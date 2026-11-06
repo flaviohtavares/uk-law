@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Calculation of amount of accrued pension for purpose of deferment or retirement[^key-5679d143777c518759c183d87260734f]
+## 23. Calculation of amount of accrued pension for purpose of deferment or retirement[^c-5679d143777c518759c183d87260734f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5679d143777c518759c183d87260734f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/19/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-5679d143777c518759c183d87260734f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/19/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

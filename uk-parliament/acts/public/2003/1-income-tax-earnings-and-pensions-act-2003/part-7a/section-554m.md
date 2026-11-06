@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554M. Exclusions: earmarking for employee share schemes (4)[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554M. Exclusions: earmarking for employee share schemes (4)[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,14 +84,14 @@ and the specified exit event, or an exit event within the specified description,
 
 - (a) A exercises the relevant share option (wholly or partly) before the end of the exit period and, as a result, receives the shares, and
 - (b) the receipt of the shares gives rise to employment income of A—
-  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^key-149f2950e777d9b3918c7f98907715c6], or
+  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^c-149f2950e777d9b3918c7f98907715c6], or
   - (ii) which is exempt income.
 
 (10) This subsection applies to any earmarked shares if—
 
 - (a) A exercises the relevant share option (wholly or partly) before the end of the exit period and, as a result, a sum of money is paid to A as mentioned in subsection (1)(a)(ii),
 - (b) the payment of the sum gives rise to employment income of A—
-  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^key-9bccb130879477385af4b3db54041a51], or
+  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^c-9bccb130879477385af4b3db54041a51], or
   - (ii) which is exempt income, and
 - (c) the payment represents the proceeds of the disposal of the shares, or the payment is made from another source and, correspondingly, the shares are no longer held by any person in relation to the relevant share option.
 
@@ -116,8 +116,8 @@ and the specified exit event, or an exit event within the specified description,
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-149f2950e777d9b3918c7f98907715c6]: Textual amendment: Words in s. 554M(9)(b)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/19/2), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-149f2950e777d9b3918c7f98907715c6]: Textual amendment: Words in s. 554M(9)(b)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/19/2), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-9bccb130879477385af4b3db54041a51]: Textual amendment: Words in s. 554M(10)(b)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/19/3), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-9bccb130879477385af4b3db54041a51]: Textual amendment: Words in s. 554M(10)(b)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/19/3), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

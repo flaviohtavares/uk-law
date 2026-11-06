@@ -34,7 +34,7 @@ European Communities
 
 Animals
 
-The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-9f6861c7801ab70352f6956ba0a4956d]
+The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-9f6861c7801ab70352f6956ba0a4956d]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into operation
 
 17th December 2010
 
-[^key-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9f6861c7801ab70352f6956ba0a4956d]
+## 1. Citation, commencement and interpretation[^c-9f6861c7801ab70352f6956ba0a4956d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006[^key-9f6861c7801ab70352f6956ba0a4956d]
+## 2. Amendment to the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006[^c-9f6861c7801ab70352f6956ba0a4956d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f6861c7801ab70352f6956ba0a4956d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f6861c7801ab70352f6956ba0a4956d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/380) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(i)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/i)
+[^c-9f6861c7801ab70352f6956ba0a4956d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/380) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(i)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/i)

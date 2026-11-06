@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Signing procedure: Northern Ireland[^key-39470ef23ed94ad50ed1137f19153003]
+## 28. Signing procedure: Northern Ireland[^c-39470ef23ed94ad50ed1137f19153003]
 
 *Extent: N.I.*
 
-(1) Subject to paragraphs (3) to (7C)[^key-06cd9cabed117b9b159069e94b61912d], a signing sheet must be delivered to a person who applies for one and, immediately before delivery—
+(1) Subject to paragraphs (3) to (7C)[^c-06cd9cabed117b9b159069e94b61912d], a signing sheet must be delivered to a person who applies for one and, immediately before delivery—
 
 - (a) the number and name of the elector as stated in the copy of the register must be called out;
 - (b) the number of the elector must be marked on the list mentioned in regulation 19(3)(d) (equipment at petition signing place) beside the number of the signing sheet to be delivered to that person;
@@ -31,9 +31,9 @@ summary: ''
 
 (3) A signing sheet must not be delivered to an elector unless that person has produced a specified document to the petition clerk or assistant for inspection by them.
 
-(3A)[^key-f119971ea272de4cac335da52ae2b040] The petition clerk or assistant must arrange for the person to produce any document in a private area of the petition signing place if the person so requests, and, in such a case, must ensure that no other persons witness the production except as permitted by the person.
+(3A)[^c-f119971ea272de4cac335da52ae2b040] The petition clerk or assistant must arrange for the person to produce any document in a private area of the petition signing place if the person so requests, and, in such a case, must ensure that no other persons witness the production except as permitted by the person.
 
-(4) Where a person produces a specified document, the petition clerk or assistant to whom it is produced must deliver a signing sheet to that person unless —[^key-72807fcc2e818a93eeac6ffc7bec952f]
+(4) Where a person produces a specified document, the petition clerk or assistant to whom it is produced must deliver a signing sheet to that person unless —[^c-72807fcc2e818a93eeac6ffc7bec952f]
 
 - (a) the clerk or assistant decides that—
   - (i) the document, or
@@ -44,11 +44,11 @@ summary: ''
 
 raises a reasonable doubt as to whether the person is the elector or proxy whom that person represents themselves to be.
 
-(5) Where in such a case it is a petition clerk who so decides or reasonably suspects (as the case may be)[^key-892521d39750a2515643bb951221c2d5], the petition clerk must refuse to deliver a signing sheet to that person (subject to paragraph (6A))[^key-de7ab736b7b71706e2334ee9f6fb74fe].
+(5) Where in such a case it is a petition clerk who so decides or reasonably suspects (as the case may be)[^c-892521d39750a2515643bb951221c2d5], the petition clerk must refuse to deliver a signing sheet to that person (subject to paragraph (6A))[^c-de7ab736b7b71706e2334ee9f6fb74fe].
 
-(6) Where in such a case it is an assistant who so decides or reasonably suspects (as the case may be)[^key-3a9deccc876d8a247dc0f9908d68c3ee], the assistant must refer the matter and produce the document to the petition clerk, who must proceed as if it had been to the petition clerk that the person had produced the document in the first place.
+(6) Where in such a case it is an assistant who so decides or reasonably suspects (as the case may be)[^c-3a9deccc876d8a247dc0f9908d68c3ee], the assistant must refer the matter and produce the document to the petition clerk, who must proceed as if it had been to the petition clerk that the person had produced the document in the first place.
 
-(6A)[^key-527154bee8c9187e8ec68c7bea2e8eb0] There is an exception from paragraph (5) for cases within sub-paragraph (a) of paragraph (4) where—
+(6A)[^c-527154bee8c9187e8ec68c7bea2e8eb0] There is an exception from paragraph (5) for cases within sub-paragraph (a) of paragraph (4) where—
 
 - (a) a discrepancy between the name of a holder of a specified document and the name of the elector or proxy that the person claims to be is resolved to the petition clerk’s satisfaction at the time of the application by the person producing further proof of identity, and
 - (b) the petition clerk has no other reason (arising from any document produced by the person) to doubt that the person is the elector or proxy that the person claims to be.
@@ -60,9 +60,9 @@ raises a reasonable doubt as to whether the person is the elector or proxy whom 
 - (a) where the person is registered in a register of parliamentary electors in Northern Ireland, section 10(4A)(b), 10A(1A)(b) or 13A(2A)(b) of the 1983 Act (information provided by the canvass or on an application for registration), and
 - (b) where the person is registered in a register of parliamentary electors in Great Britain and does not also fall within sub-paragraph (a), regulation 63(1A) (date of birth of proxy to be included in proxy application).
 
-(7) For the purposes of this regulation, a specified document is a document (in whatever form issued to the holder and regardless of expiry date)[^key-d902fb8536593ea31e048a2ee103361d] which for the time being falls within the list specified in rule 37(1E) of the parliamentary election rules as amended from time to time by virtue of rule 37(1F) of those rules (voting procedure).
+(7) For the purposes of this regulation, a specified document is a document (in whatever form issued to the holder and regardless of expiry date)[^c-d902fb8536593ea31e048a2ee103361d] which for the time being falls within the list specified in rule 37(1E) of the parliamentary election rules as amended from time to time by virtue of rule 37(1F) of those rules (voting procedure).
 
-(7A)[^key-148f622512315e7bcfa112a0cf16a81a] In this regulation, a “**forged document**” means a false document made to resemble a specified document.
+(7A)[^c-148f622512315e7bcfa112a0cf16a81a] In this regulation, a “**forged document**” means a false document made to resemble a specified document.
 
 (7B) No person other than the petition clerk or an assistant to the petition clerk may inspect a document produced as proof of a person’s identity, except as permitted by the person.
 
@@ -82,22 +82,22 @@ raises a reasonable doubt as to whether the person is the elector or proxy whom 
 
 ## Annotations
 
-[^key-39470ef23ed94ad50ed1137f19153003]: Commencement: Reg. 28 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-39470ef23ed94ad50ed1137f19153003]: Commencement: Reg. 28 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-06cd9cabed117b9b159069e94b61912d]: Textual amendment: Words in reg. 28(1) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/2)
+[^c-06cd9cabed117b9b159069e94b61912d]: Textual amendment: Words in reg. 28(1) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/2)
 
-[^key-f119971ea272de4cac335da52ae2b040]: Textual amendment: Reg. 28(3A) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/3)
+[^c-f119971ea272de4cac335da52ae2b040]: Textual amendment: Reg. 28(3A) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/3)
 
-[^key-72807fcc2e818a93eeac6ffc7bec952f]: Textual amendment: Words in reg. 28(4) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/4)
+[^c-72807fcc2e818a93eeac6ffc7bec952f]: Textual amendment: Words in reg. 28(4) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/4)
 
-[^key-892521d39750a2515643bb951221c2d5]: Textual amendment: Words in reg. 28(5) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(5)(a)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/5/a)
+[^c-892521d39750a2515643bb951221c2d5]: Textual amendment: Words in reg. 28(5) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(5)(a)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/5/a)
 
-[^key-de7ab736b7b71706e2334ee9f6fb74fe]: Textual amendment: Words in reg. 28(5) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(5)(b)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/5/b)
+[^c-de7ab736b7b71706e2334ee9f6fb74fe]: Textual amendment: Words in reg. 28(5) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(5)(b)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/5/b)
 
-[^key-3a9deccc876d8a247dc0f9908d68c3ee]: Textual amendment: Words in reg. 28(6) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/6)
+[^c-3a9deccc876d8a247dc0f9908d68c3ee]: Textual amendment: Words in reg. 28(6) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(6)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/6)
 
-[^key-527154bee8c9187e8ec68c7bea2e8eb0]: Textual amendment: Reg. 28(6A)-(6C) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(7)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/7)
+[^c-527154bee8c9187e8ec68c7bea2e8eb0]: Textual amendment: Reg. 28(6A)-(6C) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(7)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/7)
 
-[^key-d902fb8536593ea31e048a2ee103361d]: Textual amendment: Words in reg. 28(7) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(8)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/8)
+[^c-d902fb8536593ea31e048a2ee103361d]: Textual amendment: Words in reg. 28(7) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(8)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/8)
 
-[^key-148f622512315e7bcfa112a0cf16a81a]: Textual amendment: Reg. 28(7A)-(7C) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(9)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/9)
+[^c-148f622512315e7bcfa112a0cf16a81a]: Textual amendment: Reg. 28(7A)-(7C) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [18(9)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/18/9)

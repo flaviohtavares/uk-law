@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Re-employed and rejoining deferred members[^key-143c41626a26af7cb7246b4307ffcc6a]
+## 16. Re-employed and rejoining deferred members[^c-143c41626a26af7cb7246b4307ffcc6a]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-143c41626a26af7cb7246b4307ffcc6a]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-143c41626a26af7cb7246b4307ffcc6a]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

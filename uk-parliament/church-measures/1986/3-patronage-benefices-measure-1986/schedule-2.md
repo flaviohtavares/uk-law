@@ -34,7 +34,7 @@ Section 23.
 
 **4.** For section 11(1) there shall be substituted:—
 
-> (1) As soon as practicable after the start date specified in the notice under section 7(4) and in any event before the end of the period of six months beginning with that date, one or more joint meetings of the parochial church councils concerned[^key-5f4f31f66bfa8f900f6b51d75fce499e] shall be held for the purposes of—
+> (1) As soon as practicable after the start date specified in the notice under section 7(4) and in any event before the end of the period of six months beginning with that date, one or more joint meetings of the parochial church councils concerned[^c-5f4f31f66bfa8f900f6b51d75fce499e] shall be held for the purposes of—
 >
 > - (a) discharging the duties imposed on them by subsection (1A) below;
 > - (b) appointing such number of persons, but not less than four, as will enable each of those councils to have at least one representative, but not more than two representatives,[^c922717] to act as representatives of those councils in connection with the selection of an incumbent;
@@ -77,7 +77,7 @@ Section 23.
 
 **15.** In section 12(9) for the words “The secretary of the parochial church council shall invite both the rural dean of the deanery in which the parish is” there shall be substituted the words “The secretaries of the parochial church councils concerned shall invite both the rural dean of the deanery which comprises the parishes concerned.”
 
-**16.**[^key-a4c7859f11da5cd14ee49dde894a8f6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a4c7859f11da5cd14ee49dde894a8f6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 19(1) for the words “of the parish” there shall be substituted the words “of each of the parishes”.
 
@@ -89,7 +89,7 @@ Section 23.
 
 **20.** Where, by a pastoral scheme or by a scheme made under the Church Representation Rules, a joint parochial church council is established for all the parishes of a benefice, the functions under Part II of this Measure of the parochial church councils of those parishes shall be exercisable by the joint parochial church council.
 
-**20A.**[^key-8716769f17660e9fd47b028191ade2ad] Paragraph 19 applies only to a team council, and paragraph 20 applies only to a joint parochial church council, which was—
+**20A.**[^c-8716769f17660e9fd47b028191ade2ad] Paragraph 19 applies only to a team council, and paragraph 20 applies only to a joint parochial church council, which was—
 
 - (a) established by a pastoral scheme by virtue of Schedule 3 to the Mission and Pastoral Measure 2011 and in existence immediately before the commencement of the amendments to that Schedule by Schedule 2 to the Church Representation and Ministers Measure 2019, or
 - (b) established by a scheme made under the Church Representation Rules and in existence immediately before the commencement of Schedule 1 to that Measure (which replaced those Rules).
@@ -104,10 +104,10 @@ Section 23.
 
 ## Annotations
 
-[^key-5f4f31f66bfa8f900f6b51d75fce499e]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/4) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1183/article/3/4) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
+[^c-5f4f31f66bfa8f900f6b51d75fce499e]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/4) substituted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1183/article/3/4) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
 
 [^c922717]: Textual amendment: Words in Sch. 2 para. 4 inserted (1.6.1992) by [Church of England (Miscellaneous Provisions) Measure 1992 (No. 1)](https://www.legislation.gov.uk/ukcm/1992/1), [s. 17(1)](https://www.legislation.gov.uk/ukcm/1992/1/section/17/1), [Sch. 3 para.27](https://www.legislation.gov.uk/ukcm/1992/1/schedule/3/paragraph/27) (with [s. 18](https://www.legislation.gov.uk/ukcm/1992/1/section/18));[Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 
-[^key-a4c7859f11da5cd14ee49dde894a8f6c]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/16) omitted (1.1.2020) by virtue of [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/1183/article/4/6) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
+[^c-a4c7859f11da5cd14ee49dde894a8f6c]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/16) omitted (1.1.2020) by virtue of [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/1183/article/4/6) (with [arts. 8](https://www.legislation.gov.uk/uksi/2019/1183/article/8), [9](https://www.legislation.gov.uk/uksi/2019/1183/article/9))
 
-[^key-8716769f17660e9fd47b028191ade2ad]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/20A) inserted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/17); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-8716769f17660e9fd47b028191ade2ad]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/ukcm/1986/3/schedule/2/paragraph/20A) inserted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/17); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

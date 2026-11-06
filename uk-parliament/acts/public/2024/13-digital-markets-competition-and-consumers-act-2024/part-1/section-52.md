@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Replacement of pro-competition orders[^key-cda56e936ad7eb4308f9424af09f1660][^key-892fefc24caf717602d0ef7827216be7]
+## 52. Replacement of pro-competition orders[^c-cda56e936ad7eb4308f9424af09f1660][^c-892fefc24caf717602d0ef7827216be7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cda56e936ad7eb4308f9424af09f1660]: Commencement: S. 52 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-cda56e936ad7eb4308f9424af09f1660]: Commencement: S. 52 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-892fefc24caf717602d0ef7827216be7]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2024/13/section/52) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-892fefc24caf717602d0ef7827216be7]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2024/13/section/52) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -22,19 +22,19 @@ summary: ''
 
 Regulation 20(1) and (2)
 
-**1.**[^key-0aed18a6c4812e0ab2ce20838bba5a67] (1) The enforcing authority must ensure that the methods of analysis used for the purposes of monitoring and demonstrating compliance with these Regulations are validated and documented in accordance with European standard EN ISO/IEC 17025:2005 entitled “*General requirements for the competence of testing and calibration laboratories (ISO/IEC 17025:2005)*”[^f00028], or other equivalent standards accepted at international level.
+**1.**[^c-0aed18a6c4812e0ab2ce20838bba5a67] (1) The enforcing authority must ensure that the methods of analysis used for the purposes of monitoring and demonstrating compliance with these Regulations are validated and documented in accordance with European standard EN ISO/IEC 17025:2005 entitled “*General requirements for the competence of testing and calibration laboratories (ISO/IEC 17025:2005)*”[^f00028], or other equivalent standards accepted at international level.
 
 (2) The enforcing authority must ensure that laboratories or parties contracted by laboratories apply quality management system practices in accordance with European standard EN ISO/IEC 17025:2005 entitled “*General requirements for the competence of testing and calibration laboratories (ISO/IEC 17025:2005)*”, or other equivalent standards accepted at international level.
 
-**2.**[^key-c48ebe1a55d8f78bc7e80ca7f7a61fa2] In the absence of an analytical method meeting the minimum performance criteria set out in Part B of this schedule, the enforcing authority must ensure that monitoring is carried out using best available techniques not entailing excessive costs.
+**2.**[^c-c48ebe1a55d8f78bc7e80ca7f7a61fa2] In the absence of an analytical method meeting the minimum performance criteria set out in Part B of this schedule, the enforcing authority must ensure that monitoring is carried out using best available techniques not entailing excessive costs.
 
 ### PART A — Microbiological parameters
 
-**1.**[^key-eeb6c0c3542e4339593ec9d8372da923] (1) Subject to sub-paragraph (2), the methods in paragraph 2 are given for reference.
+**1.**[^c-eeb6c0c3542e4339593ec9d8372da923] (1) Subject to sub-paragraph (2), the methods in paragraph 2 are given for reference.
 
 (2) The enforcing authority may use other methods, providing the provisions of regulation 20 are met.
 
-**2.**[^key-5c6d43eb7ab111030c26f31b847c2af9] The methods for microbiological parameters are—
+**2.**[^c-5c6d43eb7ab111030c26f31b847c2af9] The methods for microbiological parameters are—
 
 - (a) for *Escherichia coli* and coliform bacteria—
   - (i) European standard EN ISO 9308-1:2014 entitled “*Water quality - Enumeration of Escherichia coli and coliform bacteria - Part 1: Membrane filtration method for waters with low bacterial background flora (ISO 9308-1:2014)*”[^f00029]; or
@@ -46,16 +46,16 @@ Regulation 20(1) and (2)
 
 ### PART B — Chemical and indicator parameters
 
-**1.**[^key-57fae7a4abda439161c4c18e14f1fdc4] (1) Subject to paragraph 3, for a parameter in Table 1, the method of analysis used must, as a minimum, be capable of measuring concentrations equal to the parametric value for the parameter with—
+**1.**[^c-57fae7a4abda439161c4c18e14f1fdc4] (1) Subject to paragraph 3, for a parameter in Table 1, the method of analysis used must, as a minimum, be capable of measuring concentrations equal to the parametric value for the parameter with—
 
 - (a) a limit of quantification of 30 % or less of the parametric value; and
 - (b) an uncertainty of measurement as specified in Table 1.
 
 (2) The result of the analysis for a parameter in Table B or Table C must be expressed using at least the same number of significant figures as the parametric value for the parameter in the table.
 
-**2.**[^key-1a6fffad11c3e1a3a6c70bdd2c5c3bb8] The uncertainty of measurement specified in Table 1 must not be used as an additional tolerance to the parametric values.
+**2.**[^c-1a6fffad11c3e1a3a6c70bdd2c5c3bb8] The uncertainty of measurement specified in Table 1 must not be used as an additional tolerance to the parametric values.
 
-**3.**[^key-446b37f06b550ce318e92e06f1bf74db] Until 31st December 2019, the enforcing authority may, for a parameter in Table 2, use the corresponding[^key-6fbe62262881f1c759244fff3447b7b3] ‘trueness’, ‘precision’ and ‘limit of detection’ in that table as an alternative set of performance characteristics (instead of using the limit of quantification and the uncertainty of measurement referred to in paragraph 1(1)).
+**3.**[^c-446b37f06b550ce318e92e06f1bf74db] Until 31st December 2019, the enforcing authority may, for a parameter in Table 2, use the corresponding[^c-6fbe62262881f1c759244fff3447b7b3] ‘trueness’, ‘precision’ and ‘limit of detection’ in that table as an alternative set of performance characteristics (instead of using the limit of quantification and the uncertainty of measurement referred to in paragraph 1(1)).
 
 TABLE 1
 
@@ -89,7 +89,7 @@ Minimum performance characteristic: uncertainty of measurement
 | Nitrite | 20 |  |
 | Oxidisability | 50 | Note 8 |
 | Pesticides | 30 | Note 9 |
-| Polycyclic aromatic hydrocarbons | 50[^key-7f7b0696c3cd8ed1695403363f0ef4bb] | Note 10 |
+| Polycyclic aromatic hydrocarbons | 50[^c-7f7b0696c3cd8ed1695403363f0ef4bb] | Note 10 |
 | Selenium | 40 |  |
 | Sodium | 15 |  |
 | Sulphate | 15 |  |
@@ -129,7 +129,7 @@ Minimum performance characteristics: trueness, precision and limit of detection
 | Nickel | 10 | 10 | 10 |  |
 | Nitrate | 10 | 10 | 10 |  |
 | Nitrite | 10 | 10 | 10 |  |
-| Oxidisability | 25 | 25 | 10[^key-a702621c355d92acd0b6a9b450e1381e] | Note 8 |
+| Oxidisability | 25 | 25 | 10[^c-a702621c355d92acd0b6a9b450e1381e] | Note 8 |
 | Pesticides | 25 | 25 | 25 | Note 9 |
 | Polycyclic aromatic hydrocarbons | 25 | 25 | 25 | Note 10 |
 | Selenium | 10 | 10 | 10 |  |
@@ -166,7 +166,7 @@ Note 11: The performance characteristics apply to individual substances, specifi
 
 Note 12: The uncertainty of measurement should be estimated at the level of 3 mg/l of the total organic carbon in accordance with European standard EN 1484:1997 entitled “*Water analysis - Guidelines for the determination of total organic carbon and dissolved organic carbon*”[^f00039].
 
-### PART C — Indicative dose[^key-267b99489d05fbba5bf51f9e740f77fa]
+### PART C — Indicative dose[^c-267b99489d05fbba5bf51f9e740f77fa]
 
 For each parameter in Table 3, the method of analysis used must be capable of measuring activity concentrations with at least the limit of detection specified for that parameter in the second column of that table.
 
@@ -209,15 +209,15 @@ Note 5: This limit of detection applies only to initial screening for indicative
 
 ## Annotations
 
-[^key-0aed18a6c4812e0ab2ce20838bba5a67]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-0aed18a6c4812e0ab2ce20838bba5a67]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00028]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 15th March 2005. Under reference BS EN ISO/IEC 17025:2005, it is published as a UK standard by the British Standards Institution (ISBN 0 580 46330 3).
 
-[^key-c48ebe1a55d8f78bc7e80ca7f7a61fa2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-c48ebe1a55d8f78bc7e80ca7f7a61fa2]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-eeb6c0c3542e4339593ec9d8372da923]: Commencement: [Sch. 4 Pt. A para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/A/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-eeb6c0c3542e4339593ec9d8372da923]: Commencement: [Sch. 4 Pt. A para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/A/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-5c6d43eb7ab111030c26f31b847c2af9]: Commencement: [Sch. 4 Pt. A para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/A/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-5c6d43eb7ab111030c26f31b847c2af9]: Commencement: [Sch. 4 Pt. A para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/A/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00029]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 18th January 2017. Under reference BS EN ISO 9308-1:2014+A1:2017, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 92379 1).
 
@@ -231,19 +231,19 @@ Note 5: This limit of detection applies only to initial screening for indicative
 
 [^f00034]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 15th July 2016. Under reference BS EN ISO 14189:2016, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 92184 1).
 
-[^key-57fae7a4abda439161c4c18e14f1fdc4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/4) Pt. B para. 1 in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-57fae7a4abda439161c4c18e14f1fdc4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/4) Pt. B para. 1 in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-1a6fffad11c3e1a3a6c70bdd2c5c3bb8]: Commencement: [Sch. 4 Pt. B para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/B/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-1a6fffad11c3e1a3a6c70bdd2c5c3bb8]: Commencement: [Sch. 4 Pt. B para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/B/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-446b37f06b550ce318e92e06f1bf74db]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-446b37f06b550ce318e92e06f1bf74db]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-6fbe62262881f1c759244fff3447b7b3]: Textual amendment: Word in sch. 4 para. 3 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(a)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/a)
+[^c-6fbe62262881f1c759244fff3447b7b3]: Textual amendment: Word in sch. 4 para. 3 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(a)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/a)
 
-[^key-7f7b0696c3cd8ed1695403363f0ef4bb]: Textual amendment: Word in sch. 4 para. 3 Table 1 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/b)
+[^c-7f7b0696c3cd8ed1695403363f0ef4bb]: Textual amendment: Word in sch. 4 para. 3 Table 1 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(b)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/b)
 
 [^f00035]: Footnote: Acrylamide, epichlorohydrin and vinyl chloride to be controlled by product specification.
 
-[^key-a702621c355d92acd0b6a9b450e1381e]: Textual amendment: Word in sch. 4 para. 3 Table 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(c)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/c)
+[^c-a702621c355d92acd0b6a9b450e1381e]: Textual amendment: Word in sch. 4 para. 3 Table 2 substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(7)(c)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/7/c)
 
 [^f00036]: Footnote: Acrylamide, epichlorohydrin and vinyl chloride to be controlled by product specification.
 
@@ -253,7 +253,7 @@ Note 5: This limit of detection applies only to initial screening for indicative
 
 [^f00039]: Footnote: This standard was approved by the European Committee for Standardization (CEN) on 6th April 1997. Under reference BS EN 1484:1997, it is published as a UK standard by the British Standards Institution (ISBN 0 580 28372 0).
 
-[^key-267b99489d05fbba5bf51f9e740f77fa]: Commencement: [Sch. 4 Pt. C](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/C) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-267b99489d05fbba5bf51f9e740f77fa]: Commencement: [Sch. 4 Pt. C](https://www.legislation.gov.uk/ssi/2017/282/schedule/4/part/C) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00041]: Footnote: This standard has been approved by the International Organization for Standardization (ISO). Under reference BS ISO 11929:2010, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 59044 3).
 

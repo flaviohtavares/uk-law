@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Maintenance of rear under-run protective device[^key-1ec0f6f521e33f1b56bb33c2f4c32bd7]
+## 50. Maintenance of rear under-run protective device[^c-1ec0f6f521e33f1b56bb33c2f4c32bd7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every device fitted to a vehicle in compliance with the requirements of regulati
 
 ## Annotations
 
-[^key-1ec0f6f521e33f1b56bb33c2f4c32bd7]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1986/1078/regulation/50) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1ec0f6f521e33f1b56bb33c2f4c32bd7]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1986/1078/regulation/50) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

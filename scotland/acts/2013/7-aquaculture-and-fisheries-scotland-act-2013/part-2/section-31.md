@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Offence of fishing for salmon during annual close time[^key-f18f98fe887f7ddf118240490c38d01a]
+## 31. Offence of fishing for salmon during annual close time[^c-f18f98fe887f7ddf118240490c38d01a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 14 of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) 
 
 ## Annotations
 
-[^key-f18f98fe887f7ddf118240490c38d01a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/7/section/31) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f18f98fe887f7ddf118240490c38d01a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/7/section/31) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

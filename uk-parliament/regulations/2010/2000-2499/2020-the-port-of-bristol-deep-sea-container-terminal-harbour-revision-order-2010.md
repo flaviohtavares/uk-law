@@ -47,13 +47,13 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-c9068d08cc00d6107b68e35df28f0782]
+### 1. Citation and commencement[^c-c9068d08cc00d6107b68e35df28f0782]
 
 (1) This Order may be cited as the Port of Bristol (Deep Sea Container Terminal) Harbour Revision Order 2010 and shall come into force on 1st September 2010.
 
 (2) The Bristol Dock Acts and Orders 1848 to 1993 and this Order may be cited together as the Bristol Dock Acts and Orders 1848 to 2010.
 
-### 2. Interpretation[^key-885ed82e34f70ed5f1d3e96cc1162c8b]
+### 2. Interpretation[^c-885ed82e34f70ed5f1d3e96cc1162c8b]
 
 (1) In this Order—
 
@@ -96,7 +96,7 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 ## PART 2 — WORKS
 
-### 3. Power to construct, etc., works[^key-672d9cebf3ea54effd63510ed1959051]
+### 3. Power to construct, etc., works[^c-672d9cebf3ea54effd63510ed1959051]
 
 (1) The Company may, in the lines and situations and on the lands delineated on the deposited plans and within the limits of deviation and according to the levels shown on the deposited sections, construct, operate and maintain the whole or any part or parts of the works set out in Schedule 1(works) on and in the bed and foreshore of the River Severn.
 
@@ -108,7 +108,7 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 (5) The Company may authorise any person to carry out the works.
 
-### 4. Subsidiary works[^key-5e6195ff90b0918e904e1aca5d3c1415]
+### 4. Subsidiary works[^c-5e6195ff90b0918e904e1aca5d3c1415]
 
 (1) The Company may from time to time within the limits of deviation provide, construct, maintain and operate such dock facilities, together with works ancillary to those facilities, as may be necessary or convenient for the purposes of, or in connection with, the construction and maintenance of the works authorised by article 3 or the operation of the undertaking, and for this purpose the Company may construct, maintain and operate (whether temporarily or permanently) pumps, conduits, pipes, manifolds, hydrants, wires, drains, sewage and other treatment plants, mains, cables, substations, telecommunications equipment and other utilities plant, conveyors, cranes, lifts, hoists, container and other cargo handling and haulage equipment and stagings, rail mounted gantries, rubber tyred gantries, vessel power supply facilities, weighbridges, stairs, ladders, stagings, quays, berths, jetties, piers, approaches, catwalks, platforms, pontoons and gangways, buildings, sheds, silos, tanks, offices, workshops, depots, vehicle parking, holding and loading areas, roads and road improvements, road and rail crossings, service, outfall and culvert crossings, pavements, bridges, ramps, culverts, railway tracks, sidings, signals, security barriers, foundations, walls, bunds, fences, gates, paving and surfacing, equipment, machinery, appliances, dredged material washing, grading and weighing facilities, lights and lighting columns, signage, radio masts, CCTV cameras and masts, security installations, navigation signals, marks and lights, and such other port, harbour, dock, wharf or terminal facilities and conveniences as may be necessary or expedient.
 
@@ -129,7 +129,7 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 (5) The powers conferred by this article are subject to the restrictions set out in Schedule 2 (restrictions on works).
 
-### 5. Power to dredge the Severn Estuary[^key-071245a25498957dd41088cf51903f82]
+### 5. Power to dredge the Severn Estuary[^c-071245a25498957dd41088cf51903f82]
 
 (1) The Company may deepen, dredge, scour, cleanse, alter and improve the bed, shores and channels of the River Severn to the extent described in Schedule 3 (dredging works) or as may be required for the purpose of maintaining the works described in that Schedule to enable uninterrupted means of access to the works by vessels and enabling the use of the works at all states of the tide.
 
@@ -142,7 +142,7 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 - (a) be disposed of in contravention of the provisions of any enactment relating to the disposal of waste; or
 - (b) be deposited below the level of high water except within the designated harbour for the purposes of constructing the works or otherwise in such places and in accordance with such conditions and restrictions as may be approved or prescribed by the Secretary of State pursuant to Part 2 of the Food and Environment Protection Act 1985[^f00012].
 
-### 6. Power to deviate[^key-38424533d0823bdb0a549b6ad35d832c]
+### 6. Power to deviate[^c-38424533d0823bdb0a549b6ad35d832c]
 
 (1) In constructing and maintaining the works authorised by article 3(1) (power to construct, etc., works) and in exercising the powers conferred by article 5(1) (power to dredge the Severn Estuary), the Company may deviate laterally from the lines or situations of those works shown on the deposited plans to the extent of the limits of deviation or, for works authorised by article 5(1), to any extent not exceeding the limits of deviation for dredging.
 
@@ -150,13 +150,13 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 (3) In exercising the powers conferred by article 5(1) the Company may deviate vertically to any extent upwards and up to 0.3 metres downwards as may be necessary or convenient.
 
-### 7. Period for completion of works[^key-e12fad023af5b6ba04b3a7ba6be38908]
+### 7. Period for completion of works[^c-e12fad023af5b6ba04b3a7ba6be38908]
 
 (1) Subject to paragraph (2), if the works are not completed within ten years from the coming into force of this Order or such extended time as the Secretary of State may, on the application of the Company, allow then, on the expiration of that period, or such extended time (as the case may be), the powers conferred by this Order to the Company for constructing the works shall cease except as to so much of them as is then substantially commenced.
 
 (2) Nothing in paragraph (1) shall apply to any works carried out under paragraph (3) of article 3 (power to construct, etc., works) or article 4 (subsidiary works), or to any maintenance dredging.
 
-### 8. Works to be within the district of The City of Bristol[^key-33816fc988445b4712ff24ce3b913769]
+### 8. Works to be within the district of The City of Bristol[^c-33816fc988445b4712ff24ce3b913769]
 
 (1) During the period beginning with the date on which this Order comes into force and ending on the accretion date, the area within the limits of deviation shall, to the extent that it is outside the area of The City of Bristol for the purposes of the Control of Pollution Act 1974[^f00013] and the 1990 Act, be annexed to and incorporated with the district of The City of Bristol.
 
@@ -169,7 +169,7 @@ The Secretary of State (being the appropriate Minister under section 14(7) of th
 
 (4) Nothing in this article shall require the performance of any functions under the Ordnance Survey Act 1841[^f00014] until the Company has certified in writing to the Director General of Ordnance Survey that the works have been completed.
 
-### 9. Obstruction of works[^key-bf9184ace1f2b3624f4ea74c78034d89]
+### 9. Obstruction of works[^c-bf9184ace1f2b3624f4ea74c78034d89]
 
 Any person who, without reasonable excuse—
 
@@ -178,7 +178,7 @@ Any person who, without reasonable excuse—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 10. Tidal works not to be executed without approval of Secretary of State[^key-69752d91b2165779814a35ecb84a112f]
+### 10. Tidal works not to be executed without approval of Secretary of State[^c-69752d91b2165779814a35ecb84a112f]
 
 (1) Unless construction has commenced within five years of the coming into force of this Order, a tidal work shall not be constructed except in accordance with plans and sections approved by the Secretary of State and subject to any conditions and restrictions imposed by the Secretary of State before the work is begun.
 
@@ -196,13 +196,13 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (5) Any expenditure incurred by the Secretary of State pursuant to paragraphs (2) to (4) shall be recoverable from the Company.
 
-### 11. Provision against danger to navigation[^key-93eba073b37b9780ae1192644901f0ef]
+### 11. Provision against danger to navigation[^c-93eba073b37b9780ae1192644901f0ef]
 
 (1) In case of injury to, or destruction or decay of, a tidal work or any part of it, the Company shall as soon as reasonably practicable notify Trinity House and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House shall from time to time direct.
 
 (2) If, without reasonable excuse, the Company fails to notify Trinity House as required by paragraph (1), or to comply in any respect with a direction given under that paragraph, the Company shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and, on conviction on indictment, to a fine.
 
-### 12. Abatement of works abandoned or decayed[^key-af53abbc0743b7f1c392b01d8bc29ee7]
+### 12. Abatement of works abandoned or decayed[^c-af53abbc0743b7f1c392b01d8bc29ee7]
 
 (1) Where a tidal work is abandoned or suffered to fall into decay, the Secretary of State may by notice in writing require the Company at its own expense either to repair and restore the work or any part of it, or to remove the work and restore its site to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -215,29 +215,29 @@ is abandoned or suffered to fall into decay and the works mentioned in sub-parag
 
 (3) If, at the end of 30 days beginning with the date on which a notice under this article is served upon the Company, it has failed to comply with the requirements of the notice, the Secretary of State may execute the works specified in the notice and any expenditure incurred by the Secretary of State in so doing shall be recoverable from the Company.
 
-### 13. Survey of tidal works[^key-10afaede244eea9ce65a04a8a90bd41e]
+### 13. Survey of tidal works[^c-10afaede244eea9ce65a04a8a90bd41e]
 
 The Secretary of State may at any time, if the Secretary of State deems it expedient to do so, order a survey and examination of a tidal work or of the site upon which it is proposed to construct the work and any expenditure incurred by the Secretary of State in so doing shall be recoverable from the Company.
 
-### 14. Permanent lights on tidal works[^key-a7187691bf4f1e6015229a847a7d1412]
+### 14. Permanent lights on tidal works[^c-a7187691bf4f1e6015229a847a7d1412]
 
 (1) After the completion of a tidal work the Company shall, at the outer extremity of such work, exhibit every night from sunset to sunrise such lights, if any, and take such other steps, if any, for the prevention of danger to navigation as Trinity House shall from time to time direct.
 
 (2) If the Company fails to comply in any respect with a direction given under paragraph (1), it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and, on conviction on indictment, to a fine.
 
-### 15. Lights on tidal works during construction, etc.[^key-f0ba51e8b2d575ff69b8b853bace2545]
+### 15. Lights on tidal works during construction, etc.[^c-f0ba51e8b2d575ff69b8b853bace2545]
 
 (1) The Company shall, at or near a tidal work, during the whole time of the construction, extension, enlargement, alteration, replacement or re-laying of such work exhibit every night from sunset to sunrise such lights, if any, and take such other steps, if any, for the prevention of danger to navigation as the Secretary of State shall from time to time direct.
 
 (2) If the Company fails to comply in any respect with a direction given under paragraph (1), it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and, on conviction on indictment, to a fine.
 
-### 16. Application of permitted development rights[^key-20a0c1376a469a1505c28c5f40182148]
+### 16. Application of permitted development rights[^c-20a0c1376a469a1505c28c5f40182148]
 
 Schedule 4 shall have effect.
 
 ## PART 3 — JURISDICTION
 
-### 17. Extension of limits of jurisdiction for the purposes of pilotage[^key-2bc9c1d355890e95c02f40e2c395c006]
+### 17. Extension of limits of jurisdiction for the purposes of pilotage[^c-2bc9c1d355890e95c02f40e2c395c006]
 
 (1) The limits within which the Company shall have jurisdiction for the purposes of pilotage under Part 1 of the Pilotage Act 1987[^f00015] shall include (in addition to the designated harbour) the added pilotage area.
 
@@ -245,7 +245,7 @@ Schedule 4 shall have effect.
 
 ## PART 4 — PROTECTIVE PROVISIONS
 
-### 18. Crown rights[^key-416b72615b91881b435db1d36e108589]
+### 18. Crown rights[^c-416b72615b91881b435db1d36e108589]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular, nothing in this Order authorises the Company to take, use, enter upon or in any manner interfere with any land, hereditaments or rights of whatsoever description (including any part of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
@@ -254,25 +254,25 @@ Schedule 4 shall have effect.
 
 (2) A consent under paragraph (1) may be given unconditionally or subject to such terms and conditions as may be considered necessary or appropriate.
 
-### 19. Saving for Trinity House[^key-14bf34f93a457f0cf80b5d652859d56b]
+### 19. Saving for Trinity House[^c-14bf34f93a457f0cf80b5d652859d56b]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
 
-### 20. For the protection of the Environment Agency[^key-37d979254b069abad98b2728f83ac884]
+### 20. For the protection of the Environment Agency[^c-37d979254b069abad98b2728f83ac884]
 
 Schedule 6 shall have effect.
 
-### 21. For the protection of the Historic Environment[^key-0d7bb88f7678896804e5db0de8ba4b40]
+### 21. For the protection of the Historic Environment[^c-0d7bb88f7678896804e5db0de8ba4b40]
 
 Schedule 7 shall have effect.
 
-### 22. For the protection of the Highways Agency[^key-070a0eb48a916051dd8ed071ce4f33bb]
+### 22. For the protection of the Highways Agency[^c-070a0eb48a916051dd8ed071ce4f33bb]
 
 Schedule 8 shall have effect.
 
 ## PART 5 — MISCELLANEOUS AND GENERAL
 
-### 23. Works to form part of the undertaking[^key-96c1d6d4656317f329fece46d26e5bac]
+### 23. Works to form part of the undertaking[^c-96c1d6d4656317f329fece46d26e5bac]
 
 (1) The works and the bed, banks and shores of the River Severn on which the works are constructed and any lands reclaimed or acquired by the Company for the purpose of the works shall for all purposes form part of the Avonmouth Docks of the Company and of the undertaking.
 
@@ -280,7 +280,7 @@ Schedule 8 shall have effect.
 
 (3) Nothing in this Order shall affect the operation within the designated harbour of such of the provisions of the 1847 Act as immediately before the coming into force of this Order were operative within the designated harbour and those provisions shall extend to and apply to the works.
 
-### 24. Application of byelaws[^key-463ccec5ded517ee8bbf03d0733f17db]
+### 24. Application of byelaws[^c-463ccec5ded517ee8bbf03d0733f17db]
 
 (1) The Bristol Port General Byelaws 2005 apply, subject to paragraph (2), to the designated harbour as they applied to the designated harbour immediately before the coming into force of this Order, and nothing in this Order shall affect the right of the Company to enforce the byelaws or to amend or revoke them.
 
@@ -288,7 +288,7 @@ Schedule 8 shall have effect.
 
 (3) In this article “the Bristol Port General Byelaws 2005” means the byelaws made by the Company on 25 November 2005 and confirmed by the Secretary of State on 1 December 2005[^f00016].
 
-### 25. Power to appropriate[^key-5a2e58526b934a800b62e25c6fb7ecf4]
+### 25. Power to appropriate[^c-5a2e58526b934a800b62e25c6fb7ecf4]
 
 (1) Notwithstanding anything in section 33 (harbour, dock, and pier to be free to the public on payment of rates) of the 1847 Act or any other enactment, the Company may from time to time set apart or appropriate the whole or any part or parts of the lands, quays, berths, buildings, facilities, machinery or equipment comprised within Works Nos. 1 to 6 or upon which Works Nos. 1 to 6 are constructed and maintained for the exclusive, partial or preferential use and accommodation of any particular trade, person, activity, vessel or goods or any class of trade, person, activity, vessel or goods, subject to the payment of such charges and subject to such terms and conditions and regulations as the Company may think fit.
 
@@ -296,7 +296,7 @@ Schedule 8 shall have effect.
 
 (3) The provisions of section 58 (powers of the harbour master as to the mooring of vessels) of the 1847 Act shall extend and apply to any such vessel.
 
-### 26. Defence to proceedings in respect of statutory nuisance[^key-d8143950f6deeb22d5f8056f8619930d]
+### 26. Defence to proceedings in respect of statutory nuisance[^c-d8143950f6deeb22d5f8056f8619930d]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00017] (summary proceedings by persons aggrieved by statutory nuisances) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made, and no fine shall be imposed, under section 82(2) of that Act[^f00018] if the defendant shows—
 
@@ -310,13 +310,13 @@ Schedule 8 shall have effect.
 
 shall not apply where the consent relates to the use of premises by the Company for the purposes of, or in connection with, the exercise of the powers conferred by this Order with respect to the construction or maintenance of the works.
 
-### 27. Defence of due diligence[^key-83b52fe07248c54e108a6f5c143f22a1]
+### 27. Defence of due diligence[^c-83b52fe07248c54e108a6f5c143f22a1]
 
 (1) In proceedings for an offence under any provision of this Order it shall be a defence for the Company to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
 (2) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, within a period of seven clear days before the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
 
-### 28. Certification of plans[^key-9f501a1db786759256a8dd24dd866f4e]
+### 28. Certification of plans[^c-9f501a1db786759256a8dd24dd866f4e]
 
 The Company shall, as soon as practicable after the making of this Order, submit copies of the deposited plans and the deposited sections to the Secretary of State for certification that they are true copies of, respectively, the deposited plans and the deposited sections referred to in this Order, and a document so certified shall be admissible in any proceedings, as evidence of the contents of the document of which it is a copy.
 
@@ -334,7 +334,7 @@ Department for Transport
 
 Articles 2 and 3(1)
 
-**1.**[^key-70bbe3a5539ed7b4fd94e2a7af5b4208] In this Schedule “Point” means the relevant point shown on the deposited plans, the map reference of which is set out below.
+**1.**[^c-70bbe3a5539ed7b4fd94e2a7af5b4208] In this Schedule “Point” means the relevant point shown on the deposited plans, the map reference of which is set out below.
 
 |  |  |  |
 | --- | --- | --- |
@@ -373,7 +373,7 @@ Articles 2 and 3(1)
 | 6D | 351411 | 179759 |
 | 6E | 351288 | 179834 |
 
-**2.**[^key-293c24809b1c638e3187044343343d76] The works referred to in article 3(1) are as follows.
+**2.**[^c-293c24809b1c638e3187044343343d76] The works referred to in article 3(1) are as follows.
 
 - *Work No. 1*: the following works for the construction of new port facilities and infrastructure—
   - (a) demolition of any structures, including jetties and berthing structures;
@@ -414,64 +414,64 @@ Articles 2 and 3(1)
 
 Articles 3(4) and 4(5)
 
-**1.**[^key-0894d0b15a4ca4c4adf48dd2407d9474] In this Schedule—
+**1.**[^c-0894d0b15a4ca4c4adf48dd2407d9474] In this Schedule—
 
 - (a) “building” does not include any form of crane or flood lighting column or tower or communication, radar, CCTV mast, or tower or similar such structure; and
 - (b) “the Terminal” means Works Nos. 1 to 6.
 
 ### New quay
 
-**2.**[^key-d18c2b7eeb7e30b06ce95e234c7e7f19] The face of the new quay authorised as part of Work No. 1 shall be constructed at an elevation at least 10 metres AOD.
+**2.**[^c-d18c2b7eeb7e30b06ce95e234c7e7f19] The face of the new quay authorised as part of Work No. 1 shall be constructed at an elevation at least 10 metres AOD.
 
 ### Containers and associated equipment
 
-**3.**[^key-aefe748db72a055db0c585cba1855737] Quayside container cranes may only be used in the area shown edged red on sheet 20 of the deposited plans and must not—
+**3.**[^c-aefe748db72a055db0c585cba1855737] Quayside container cranes may only be used in the area shown edged red on sheet 20 of the deposited plans and must not—
 
 - (a) exceed 15 in number; or
 - (b) exceed 130 metres in height (with booms up) above the constructed ground level of Work No. 1.
 
-**4.**[^key-b7e7057740c0464caba2df7dd2d2090c] Container stacks in the Terminal shall not exceed a maximum height of—
+**4.**[^c-b7e7057740c0464caba2df7dd2d2090c] Container stacks in the Terminal shall not exceed a maximum height of—
 
 - (a) 24 metres above the constructed ground levels of Works Nos. 1, 2, 5 and 6 in the area shown edged green on sheet 20 of the deposited plans; or
 - (b) 15 metres above the constructed ground levels of Works Nos. 1, 2, 5 and 6 in any part of the Terminal other than the area referred to in paragraph (a).
 
-**5.**[^key-5a7c4d28460550d603fc506c992e018b] In the Terminal, gantry cranes used for stacking or otherwise handling containers shall not exceed a maximum height of 25 metres above the constructed ground levels of Works Nos. 1, 2, 5 and 6.
+**5.**[^c-5a7c4d28460550d603fc506c992e018b] In the Terminal, gantry cranes used for stacking or otherwise handling containers shall not exceed a maximum height of 25 metres above the constructed ground levels of Works Nos. 1, 2, 5 and 6.
 
 ### Other height restrictions
 
-**6.**[^key-c0e3b3ac5395b854dbf052c9d2cc4b94] No building constructed within the Terminal shall exceed a height at its eaves of 15 metres above the constructed ground level.
+**6.**[^c-c0e3b3ac5395b854dbf052c9d2cc4b94] No building constructed within the Terminal shall exceed a height at its eaves of 15 metres above the constructed ground level.
 
-**7.**[^key-4d54c934087291dd04382fbea73e344e] Security fencing and other fencing within and around the boundary of the Terminal shall not exceed 3 metres in height above the constructed ground level.
+**7.**[^c-4d54c934087291dd04382fbea73e344e] Security fencing and other fencing within and around the boundary of the Terminal shall not exceed 3 metres in height above the constructed ground level.
 
-**8.**[^key-b7daca5603b69bb6ea855a07fe504532] Lighting towers within the Terminal shall not exceed 30 metres in height above the constructed ground level but this shall not prevent the use of lights on quayside container cranes and other quayside and container and general cargo handling equipment.
+**8.**[^c-b7daca5603b69bb6ea855a07fe504532] Lighting towers within the Terminal shall not exceed 30 metres in height above the constructed ground level but this shall not prevent the use of lights on quayside container cranes and other quayside and container and general cargo handling equipment.
 
 ### Other works restrictions
 
-**9.**[^key-7db122dcbc4cdcdd0d7cf878aca6100f] No more than 15 railway sidings shall be constructed within the limits of deviation for Work No. 5.
+**9.**[^c-7db122dcbc4cdcdd0d7cf878aca6100f] No more than 15 railway sidings shall be constructed within the limits of deviation for Work No. 5.
 
-**10.**[^key-5a394335117d279acb183786a570f51e] No pylons or overhead power supply cables may be constructed within the Terminal as part of the works.
+**10.**[^c-5a394335117d279acb183786a570f51e] No pylons or overhead power supply cables may be constructed within the Terminal as part of the works.
 
 ### Restrictions on use
 
-**11.**[^key-78cad84cd6495a25cfa19ea2c68f214c] Once constructed no part of the water frontage of the new quay authorised by Work No. 1 may be used other than for the berthing (including lay-by) and accommodation of vessels.
+**11.**[^c-78cad84cd6495a25cfa19ea2c68f214c] Once constructed no part of the water frontage of the new quay authorised by Work No. 1 may be used other than for the berthing (including lay-by) and accommodation of vessels.
 
-**12.**[^key-dab9ce224b89de8b32cbbea56fab682b] Construction plant, concrete batching and aggregate plants, temporary grading, washing and weighing plant, temporary bridges, conveyor systems, temporary accesses, temporary buildings and offices and working spaces and residential caravans are only permitted to facilitate the construction or maintenance of the works and for no other purpose and shall be removed once the use for which they were installed has ceased.
+**12.**[^c-dab9ce224b89de8b32cbbea56fab682b] Construction plant, concrete batching and aggregate plants, temporary grading, washing and weighing plant, temporary bridges, conveyor systems, temporary accesses, temporary buildings and offices and working spaces and residential caravans are only permitted to facilitate the construction or maintenance of the works and for no other purpose and shall be removed once the use for which they were installed has ceased.
 
 ### Construction activities and mitigation
 
-**13.**[^key-f3480931504b15208f40390d4e9f4964] (1) A code of construction practice shall be submitted to and approved in writing by Bristol City Council before commencement of construction of the works, and save insofar as any requirements of the code of construction practice may be waived by any requirements imposed in a notice served under section 60 (control of noise on construction sites) or a consent under section 61 (prior consent for work on construction sites) of the Control of Pollution Act 1974[^f00020], such construction shall be carried out in accordance with the approved code of construction practice.
+**13.**[^c-f3480931504b15208f40390d4e9f4964] (1) A code of construction practice shall be submitted to and approved in writing by Bristol City Council before commencement of construction of the works, and save insofar as any requirements of the code of construction practice may be waived by any requirements imposed in a notice served under section 60 (control of noise on construction sites) or a consent under section 61 (prior consent for work on construction sites) of the Control of Pollution Act 1974[^f00020], such construction shall be carried out in accordance with the approved code of construction practice.
 
 (2) In this paragraph “code of construction practice” means a code setting out measures to be employed in the construction of the works so as to mitigate the impact of those works, based on the measures identified in the environmental information submitted to the Secretary of State in connection with the application for this Order.
 
 ### Application of Town and Country Planning legislation
 
-**14.**[^key-31752fe50b8e6222ce2c07a837349b2e] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act[^f00021] and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act[^f00022] and the Town and Country Planning (General Development Procedure) Order 1995[^f00023].
+**14.**[^c-31752fe50b8e6222ce2c07a837349b2e] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act[^f00021] and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act[^f00022] and the Town and Country Planning (General Development Procedure) Order 1995[^f00023].
 
 ## SCHEDULE 3 — DREDGING WORKS
 
 Article 5(1)
 
-**1.**[^key-99df2727dd8815949f145ca29de741ba] In this Schedule “Point” means the relevant point shown on the deposited plans and the co-ordinates of which are set out below.
+**1.**[^c-99df2727dd8815949f145ca29de741ba] In this Schedule “Point” means the relevant point shown on the deposited plans and the co-ordinates of which are set out below.
 
 |  |  |  |
 | --- | --- | --- |
@@ -481,7 +481,7 @@ Article 5(1)
 | D1C | 51º31’.129N | 002º42’.582W |
 | D1D | 51º31’.197N | 002º42’.650W |
 
-**2.**[^key-86223f0b791841d4d748447304720422] The works referred to in article 5(1) are as follows.
+**2.**[^c-86223f0b791841d4d748447304720422] The works referred to in article 5(1) are as follows.
 
 - *Dredging Work No. 1:* an area of the River Severn for use as a berthing pocket for vessels to a maximum dredged depth of 18 metres below Chart Datum (unless the Secretary of State shall approve otherwise in writing), being the area bounded by a line commencing on the face of the new quay authorised as part of Work No. 1 at Point D1B passing in a north-eastwards direction along that face to Point D1C then turning and passing in a generally northwards or north-westwards direction to Point D1D then turning and passing in a south-westward direction to Point D1A on the inner face of the breakwater authorised by Work No. 3 then returning in a south-eastwards direction along that face to terminate at Point D1B, as shown on sheet 11 of the deposited plans.
 - *Dredging Work No. 2:* an area of the River Severn for use as a manoeuvring area and turning circle for vessels to a maximum dredged depth of 14 metres below Chart Datum (unless the Secretary of State shall approve otherwise in writing), being the area bounded—
@@ -511,7 +511,7 @@ Article 16
 
 ### PART 1 — Permitted development
 
-**1.**[^key-7b4dc65c0fa45c2fd50598a9b0414943] (1) In their application to the works, article 3 of, and Part 11 of Schedule 2 to, the 1995 Order[^f00024] (which permit development authorised by a harbour revision order designating specifically both the nature of the development authorised and the land on which it may be carried out) shall have effect as if the planning permission granted by that Order were subject to the restrictions contained in Schedule 2 (restrictions on works).
+**1.**[^c-7b4dc65c0fa45c2fd50598a9b0414943] (1) In their application to the works, article 3 of, and Part 11 of Schedule 2 to, the 1995 Order[^f00024] (which permit development authorised by a harbour revision order designating specifically both the nature of the development authorised and the land on which it may be carried out) shall have effect as if the planning permission granted by that Order were subject to the restrictions contained in Schedule 2 (restrictions on works).
 
 (2) In their application to other development carried out on land which falls to be treated as operational land of a dock or harbour undertaker by virtue of this Order, article 3 of, and Part 17 of Schedule 2 to, the 1995 Order[^f00025] shall have effect as if the planning permission granted by that Order were subject to the restrictions contained in Schedule 2.
 
@@ -521,9 +521,9 @@ Article 16
 
 ### PART 2 — Habitats Regulations
 
-**2.**[^key-cf0b89dd3239a04dfeda57d6340690c7] Subject to paragraph 3 regulation 75 of the Conservation of Habitats and Species Regulations 2017[^M_F_ed7a2f01-edc7-4cab-ae8e-144aa3e2aa58] (the “Habitats Regulations”) shall not apply to any planning permission which relates to the works authorised by this Order and which is granted by article 3(1) of the 1995 Order for the class of development described as permitted development in Part 11 of Schedule 2 to that Order.
+**2.**[^c-cf0b89dd3239a04dfeda57d6340690c7] Subject to paragraph 3 regulation 75 of the Conservation of Habitats and Species Regulations 2017[^M_F_ed7a2f01-edc7-4cab-ae8e-144aa3e2aa58] (the “Habitats Regulations”) shall not apply to any planning permission which relates to the works authorised by this Order and which is granted by article 3(1) of the 1995 Order for the class of development described as permitted development in Part 11 of Schedule 2 to that Order.
 
-**3.**[^key-9ccf0d3adc53d106136449edcb1b6818] Paragraph 2 does not apply if and to the extent that the works—
+**3.**[^c-9ccf0d3adc53d106136449edcb1b6818] Paragraph 2 does not apply if and to the extent that the works—
 
 - (a) do not form part of the plan or project which was subject to an appropriate assessment in accordance with regulation 63[^M_F_6a570219-8baa-4a80-e036-b02a20b2fff6] of the Habitats Regulations in connection with the making of this Order; and
 - (b) are not subject to further consent, permission or authorisation by a competent authority as defined in the Habitats Regulations.
@@ -532,7 +532,7 @@ Article 16
 
 Article 17
 
-**1.**[^key-a8eb4c057e021682c80d00bb613255e4] In this Schedule—
+**1.**[^c-a8eb4c057e021682c80d00bb613255e4] In this Schedule—
 
 - (a) “Gloucester Harbour” means the area within which the Gloucester Harbour Trustees have authority as defined in article 11 of the Gloucester Harbour Revision (Constitution) Order 2002[^f00027];
 - (b) “Newport Harbour” means the port or harbour of Newport as defined in section 5 of the Newport (Monmouthshire) Harbour Act 1890[^f00028];
@@ -543,13 +543,13 @@ Article 17
 
 ### Added pilotage area
 
-**2.**[^key-17ad1ce1b4bab18699709a632934016a] The added pilotage area shall be the area shown hatched in blue on the pilotage plan, being so much of the area of the Severn Estuary as is bounded by an imaginary line commencing at Wharf Point (latitude 51º29.9’ north – longitude 002º43’ west) and from there drawn along the line of mean high water springs in a generally south westerly direction along the south side of the Severn Estuary to Foreland Point (latitude 51º14.7’ north – longitude 003º47’ west), then straight in a northerly direction to Porthcawl Breakwater Head (latitude 51º28.4’ north – longitude 003º42’ west), then along the line of mean high water springs in a generally easterly direction along the north side of the Severn Estuary to a point near Magor on the South Wales coast at which the level of mean high water springs is intersected by latitude 51º33’ north, then straight due east to a point on the coast of the county of Gloucester where the level of mean high water springs is intersected by latitude 51º33’ north, then along the line of mean high water springs in a generally south westerly direction along the south side of the Severn Estuary to Wharf Point, not including any area within the designated harbour and not including the Port of Barry, the Port of Cardiff, Newport Harbour, Gloucester Harbour and the Port of Bridgwater.
+**2.**[^c-17ad1ce1b4bab18699709a632934016a] The added pilotage area shall be the area shown hatched in blue on the pilotage plan, being so much of the area of the Severn Estuary as is bounded by an imaginary line commencing at Wharf Point (latitude 51º29.9’ north – longitude 002º43’ west) and from there drawn along the line of mean high water springs in a generally south westerly direction along the south side of the Severn Estuary to Foreland Point (latitude 51º14.7’ north – longitude 003º47’ west), then straight in a northerly direction to Porthcawl Breakwater Head (latitude 51º28.4’ north – longitude 003º42’ west), then along the line of mean high water springs in a generally easterly direction along the north side of the Severn Estuary to a point near Magor on the South Wales coast at which the level of mean high water springs is intersected by latitude 51º33’ north, then straight due east to a point on the coast of the county of Gloucester where the level of mean high water springs is intersected by latitude 51º33’ north, then along the line of mean high water springs in a generally south westerly direction along the south side of the Severn Estuary to Wharf Point, not including any area within the designated harbour and not including the Port of Barry, the Port of Cardiff, Newport Harbour, Gloucester Harbour and the Port of Bridgwater.
 
 ## SCHEDULE 6 — FOR THE PROTECTION OF THE ENVIRONMENT AGENCY
 
 Article 20
 
-**1.**[^key-f0427610e2dcb46fb337105b6c4acea8] (1) The following provisions shall apply for the protection of the Agency unless otherwise agreed in writing between the Company and the Agency.
+**1.**[^c-f0427610e2dcb46fb337105b6c4acea8] (1) The following provisions shall apply for the protection of the Agency unless otherwise agreed in writing between the Company and the Agency.
 
 (2) Where any consent, approval or agreement is required to be given by the Agency, pursuant to this Schedule, it shall not be unreasonably withheld or delayed.
 
@@ -576,7 +576,7 @@ Article 20
 
 ### Specified works
 
-**2.**[^key-f810e1beaee833860cf1c5c08b5567f4] (1) Before beginning to construct any specified work other than an excluded work, the Company shall submit to the Agency for its approval plans of the specified work and such further particulars available to it as the Agency may within 28 days of the submission of the plans reasonably require.
+**2.**[^c-f810e1beaee833860cf1c5c08b5567f4] (1) Before beginning to construct any specified work other than an excluded work, the Company shall submit to the Agency for its approval plans of the specified work and such further particulars available to it as the Agency may within 28 days of the submission of the plans reasonably require.
 
 (2) Any approval of the Agency required under this paragraph—
 
@@ -590,14 +590,14 @@ Article 20
   - (iv) the prevention of flooding; or
   - (v) the prevention of pollution.
 
-**3.**[^key-db79b1251154585c047cb7440874e562] The conditions which the Agency may impose under paragraph 2 include—
+**3.**[^c-db79b1251154585c047cb7440874e562] The conditions which the Agency may impose under paragraph 2 include—
 
 - (a) conditions as to the time and the manner in which any work is to be carried out; and
 - (b) conditions requiring the Company at its own expense—
   - (i) to provide or maintain means of access for the Agency;
   - (ii) to construct such protective works, whether temporary or permanent, during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary to safeguard any drainage work against damage or to secure that its efficiency for flood defence purposes is not impaired and that the risk of flooding is not otherwise increased by reason of any specified work.
 
-**4.**[^key-af1608d28f1f6b8db8b166dead7566f6] (1) Subject to sub-paragraph (2)—
+**4.**[^c-af1608d28f1f6b8db8b166dead7566f6] (1) Subject to sub-paragraph (2)—
 
 - (a) any specified work (other than an excluded work), and all protective works required by the Agency under paragraph 2(2)(b), shall be constructed within such period (if any) as the Agency may specify at the time when it gives its approval under paragraph 2, or may approve at any later time on application by the Company;
 - (b) any specified work (other than an excluded work) shall be constructed in accordance with the plans approved or deemed to have been approved or settled under this Schedule and in accordance with any conditions imposed under paragraph 2; and
@@ -615,7 +615,7 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Surveys and maintenance of drainage works
 
-**5.**[^key-25b8ce184bd731e77a6d94b14fc634f2] (1) Before commencing the construction of a specified work liable to affect a drainage work, the Company shall procure at its expense, in liaison with and to the reasonable satisfaction of the Agency, a survey of any drainage work liable to be affected by that specified work.
+**5.**[^c-25b8ce184bd731e77a6d94b14fc634f2] (1) Before commencing the construction of a specified work liable to affect a drainage work, the Company shall procure at its expense, in liaison with and to the reasonable satisfaction of the Agency, a survey of any drainage work liable to be affected by that specified work.
 
 (2) Subject to sub-paragraph (3), the Company shall, from the commencement of the construction of any specified work and except to the extent that any approval given by the Agency under this Schedule permits otherwise, maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation and on land owned by the Company or which it otherwise has control of or is in occupation of for the purposes of or in connection with the specified work, whether or not the drainage work is constructed under the powers of this Order or is already in existence.
 
@@ -629,7 +629,7 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Damage to flood defences
 
-**6.**[^key-75790f47c240ccb744e61fa6473c13df] (1) If, during the construction of a specified work or within 10 years after the completion of any such work, there is caused or created an accumulation or erosion which causes damage to flood defences, the Company shall, if it is proven by the construction of the specified work to have caused such damage or the reasonable expectation of such damage and if so required by the Agency before or within the period of 10 years after such completion, remedy such accumulation or erosion to the extent and commensurate with the damage it is proven to have caused, in the manner specified in sub-paragraph (4), and, if it refuses or fails to do so, the Agency may itself cause work to be done and may recover the reasonable cost from the Company.
+**6.**[^c-75790f47c240ccb744e61fa6473c13df] (1) If, during the construction of a specified work or within 10 years after the completion of any such work, there is caused or created an accumulation or erosion which causes damage to flood defences, the Company shall, if it is proven by the construction of the specified work to have caused such damage or the reasonable expectation of such damage and if so required by the Agency before or within the period of 10 years after such completion, remedy such accumulation or erosion to the extent and commensurate with the damage it is proven to have caused, in the manner specified in sub-paragraph (4), and, if it refuses or fails to do so, the Agency may itself cause work to be done and may recover the reasonable cost from the Company.
 
 (2) Should any accumulation or erosion which causes damage to flood defences or the reasonable expectation of such damage arise within the period of 10 years and be remedied in accordance with sub-paragraph (1), any recurrence of such accumulation or erosion proven to have been caused by the specified works shall from time to time be remedied in accordance with sub-paragraph (1) by the Company during the period of 10 years and at any time subsequently, except that the Company’s obligation under this paragraph shall cease in the event that, following the remedying of any accumulation or erosion, a period of 10 years elapses without any further accumulation or erosion proven to have been caused by the specified works being caused or created.
 
@@ -644,11 +644,11 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Impairment of efficiency of drainage work for flood defence purposes
 
-**7.**[^key-365d65a73f996d20ff0e5c9514f0b870] If by reason of the construction of any specified work, or of the failure of any such work, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Company to the reasonable satisfaction of the Agency; and if the Company fail to do so within such reasonable period as the Agency may require by notice in writing to the Company, the Agency may make good such impairment or damage and recover from the Company the expense reasonably incurred by it in so doing.
+**7.**[^c-365d65a73f996d20ff0e5c9514f0b870] If by reason of the construction of any specified work, or of the failure of any such work, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Company to the reasonable satisfaction of the Agency; and if the Company fail to do so within such reasonable period as the Agency may require by notice in writing to the Company, the Agency may make good such impairment or damage and recover from the Company the expense reasonably incurred by it in so doing.
 
 ### Protection of the fishery
 
-**8.**[^key-04aef55d358dc7d77bbe5d68002c3df6] (1) The Company shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
+**8.**[^c-04aef55d358dc7d77bbe5d68002c3df6] (1) The Company shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
 
 (2) If by reason of—
 
@@ -663,7 +663,7 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
 
 #### Indemnity as to costs and expenses
 
-**9.**[^key-00921fa0da8f340c17d606c2f1ada87b] (1) The Company shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
+**9.**[^c-00921fa0da8f340c17d606c2f1ada87b] (1) The Company shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
 
 - (a) in the examination or approval of plans under this Schedule; and
 - (b) in the inspection, for the purpose of compliance with this Schedule, of the construction of the specified works or any protective works required by the Agency under this Schedule.
@@ -680,17 +680,17 @@ which is caused by the construction of any of the specified works or any act or 
 
 (3) The Agency shall give to the Company reasonable notice of any such claim, demand, or proceedings and no settlement or compromise of any such claim, demand, proceedings, costs, damages, expenses or losses shall be made without the consent of the Company which shall not be unreasonably withheld and if the Company shall not give such consent the Agency shall diligently defend such claim or demand.
 
-**10.**[^key-db4dbee3bbf8d4628f60e9d56a630b1d] The fact that any work or thing has been executed or done by the Company in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Company from any liability under paragraph 9.
+**10.**[^c-db4dbee3bbf8d4628f60e9d56a630b1d] The fact that any work or thing has been executed or done by the Company in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Company from any liability under paragraph 9.
 
 ### Approvals
 
-**11.**[^key-de69d4fd2ffe7a18c6b118e2126ad155] (1) For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991[^f00033] (abstraction and impounding of water) and section 109 of that Act (structures in, over or under a main river ) as applying to the construction of any specified work any consent or approval given or deemed to be given by the Agency under this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109.
+**11.**[^c-de69d4fd2ffe7a18c6b118e2126ad155] (1) For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991[^f00033] (abstraction and impounding of water) and section 109 of that Act (structures in, over or under a main river ) as applying to the construction of any specified work any consent or approval given or deemed to be given by the Agency under this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109.
 
 (2) Section 23 of the Land Drainage Act 1991[^f00034] (prohibition on obstructions etc in watercourses) and any byelaws made under that Act or the Water Resources Act 1991 shall not apply to anything done under or in pursuance of this Order.
 
 ### Disputes and differences
 
-**12.**[^key-0f0aaa4be7afcbfc2ac33b1bd324beeb] (1) Any dispute arising between the Company and the Agency under this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly.
+**12.**[^c-0f0aaa4be7afcbfc2ac33b1bd324beeb] (1) Any dispute arising between the Company and the Agency under this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly.
 
 (2) In the case of any conflict between any approval or consent given by the Agency pursuant to this Schedule and any condition or restriction imposed on any approval by the Secretary of State under article 10 (tidal works not to be executed without approval of Secretary of State), the terms of the approval of the Secretary of State shall prevail.
 
@@ -698,7 +698,7 @@ which is caused by the construction of any of the specified works or any act or 
 
 Article 21
 
-**1.**[^key-38426689b0e908e9ab8d94197f413b36] (1) The following provisions shall apply for the protection of the historic environment unless otherwise agreed in writing between the Company and English Heritage[^f00035].
+**1.**[^c-38426689b0e908e9ab8d94197f413b36] (1) The following provisions shall apply for the protection of the historic environment unless otherwise agreed in writing between the Company and English Heritage[^f00035].
 
 (2) In this Schedule—
 
@@ -716,49 +716,49 @@ Article 21
 
 ### Written scheme of investigation
 
-**2.**[^key-b51adc6abf0e1c094b1f67ffe0201ffc] The Company shall not commence construction of a relevant work until the Company has—
+**2.**[^c-b51adc6abf0e1c094b1f67ffe0201ffc] The Company shall not commence construction of a relevant work until the Company has—
 
 - (a) appointed the Retained Archaeologist to ensure the delivery of the Scheme; and
 - (b) carried out the pre-construction archaeological work applicable to that relevant work.
 
-**3.**[^key-88626afc2b31ac037edabd1a5e889704] During construction of a relevant work, the Company will secure the implementation of the measures on its part set out in or from time to time agreed pursuant to the Scheme applicable to that relevant work (other than the pre-construction archaeological work and the post-construction archaeological work).
+**3.**[^c-88626afc2b31ac037edabd1a5e889704] During construction of a relevant work, the Company will secure the implementation of the measures on its part set out in or from time to time agreed pursuant to the Scheme applicable to that relevant work (other than the pre-construction archaeological work and the post-construction archaeological work).
 
-**4.**[^key-b4a6a2a6d56364c5ae51de66c01851b6] Following the completion of construction of a relevant work, the Company will secure the implementation of all the post-construction archaeological work applicable to that relevant work.
+**4.**[^c-b4a6a2a6d56364c5ae51de66c01851b6] Following the completion of construction of a relevant work, the Company will secure the implementation of all the post-construction archaeological work applicable to that relevant work.
 
-**5.**[^key-57f1b2e8ab6a2c2b1af6223e6395e009] Any work executed or undertaken by or on behalf of the Company in accordance with the Scheme approved or deemed to be approved by English Heritage shall not relieve the Company of any liability.
+**5.**[^c-57f1b2e8ab6a2c2b1af6223e6395e009] Any work executed or undertaken by or on behalf of the Company in accordance with the Scheme approved or deemed to be approved by English Heritage shall not relieve the Company of any liability.
 
 ### Application of Town and Country Planning legislation
 
-**6.**[^key-699d412307bc2a33027401f7e8ce1665] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act and the Town and Country Planning (General Development Procedure) Order 1995.
+**6.**[^c-699d412307bc2a33027401f7e8ce1665] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act and the Town and Country Planning (General Development Procedure) Order 1995.
 
 ## SCHEDULE 8 — FOR THE PROTECTION OF THE HIGHWAYS AGENCY
 
 Article 22
 
-**1.**[^key-bdf9a82499709ae4f8f864ceb7255447] In this Schedule—
+**1.**[^c-bdf9a82499709ae4f8f864ceb7255447] In this Schedule—
 
 - “Port Management Plan” means the Bristol Deep Sea Container Terminal Port Management Plan agreed between the Company and the Highways Agency of the Secretary of State for Transport (“Highways Agency”) dated December 2008 as it may be amended from time to time; and
 - “beneficial use” means the use of the works to generate revenue from shipping but, without limitation, does not include activities related to the construction, marketing, security or maintenance of the works.
 
 ### Construction management plan
 
-**2.**[^key-6017a607838fd7f7cbaaaf01a12c78f9] (1) Construction of the works shall not commence until the Company has agreed with the Highways Agency pursuant to the provisions of the Port Management Plan the details of a construction management plan relating to the works, the construction management plan to be based on the Bristol Deep Sea Container Terminal construction management plan dated August 2008.
+**2.**[^c-6017a607838fd7f7cbaaaf01a12c78f9] (1) Construction of the works shall not commence until the Company has agreed with the Highways Agency pursuant to the provisions of the Port Management Plan the details of a construction management plan relating to the works, the construction management plan to be based on the Bristol Deep Sea Container Terminal construction management plan dated August 2008.
 
 (2) During construction of the works, the Company will implement the measures on its part set out in and from time to time agreed pursuant to the construction management plan agreed under this paragraph.
 
 ### Travel plan
 
-**3.**[^key-179abb3ff3f0c4f90ba1f61a6b761967] (1) None of the works shall be brought into beneficial use until the detailed measures comprising the travel plan for the operation of the works have been approved by the Highways Agency in accordance with the Port Management Plan, the travel plan to be based on the Bristol Deep Sea Container Terminal interim travel plan dated August 2008.
+**3.**[^c-179abb3ff3f0c4f90ba1f61a6b761967] (1) None of the works shall be brought into beneficial use until the detailed measures comprising the travel plan for the operation of the works have been approved by the Highways Agency in accordance with the Port Management Plan, the travel plan to be based on the Bristol Deep Sea Container Terminal interim travel plan dated August 2008.
 
 (2) During the beneficial use of the works, the Company shall implement the measures on its part set out in and from time to time agreed pursuant to the travel plan agreed under this paragraph.
 
 ### Port Management Plan
 
-**4.**[^key-a283efbb4af0293aae625fb495251272] During the beneficial use of the works the Company shall implement the measures and comply with the requirements on its part set out in and from time to time agreed pursuant to the Port Management Plan.
+**4.**[^c-a283efbb4af0293aae625fb495251272] During the beneficial use of the works the Company shall implement the measures and comply with the requirements on its part set out in and from time to time agreed pursuant to the Port Management Plan.
 
 ### Application of Town and Country Planning legislation
 
-**5.**[^key-36dd65d09188ee6f0fedcdcf07a945f6] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act and the Town and Country Planning (General Development Procedure) Order 1995.
+**5.**[^c-36dd65d09188ee6f0fedcdcf07a945f6] The provisions of this Schedule shall be deemed to be conditions subject to which a planning permission was granted under section 70 of the 1990 Act and, accordingly, they shall be subject to the provisions of that Act and all associated legislation and, in particular, they may be varied in their application to the works in accordance with sections 73 and 73A of the 1990 Act and the Town and Country Planning (General Development Procedure) Order 1995.
 
 EXPLANATORY NOTE
 
@@ -782,9 +782,9 @@ The deposited plans and sections of the works authorised by the Order can be ins
 
 [^f00003]: Footnote: For the definition of “the Minister” (mentioned in section 14(7)) *see* section 57(1).
 
-[^key-c9068d08cc00d6107b68e35df28f0782]: Commencement: Art. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-c9068d08cc00d6107b68e35df28f0782]: Commencement: Art. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-885ed82e34f70ed5f1d3e96cc1162c8b]: Commencement: Art. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-885ed82e34f70ed5f1d3e96cc1162c8b]: Commencement: Art. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00004]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27) (10 & 11 Vict.).
 
@@ -798,67 +798,67 @@ The deposited plans and sections of the works authorised by the Order can be ins
 
 [^f00009]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-672d9cebf3ea54effd63510ed1959051]: Commencement: Art. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-672d9cebf3ea54effd63510ed1959051]: Commencement: Art. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-5e6195ff90b0918e904e1aca5d3c1415]: Commencement: Art. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-5e6195ff90b0918e904e1aca5d3c1415]: Commencement: Art. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00010]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 85 is amended by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), regulations 73 and 74, Schedule 21, Part 1 paragraph 21 and Schedule 23; and [S.I. 2009/1799](https://www.legislation.gov.uk/uksi/2009/1799), regulation 28(1) and Schedule 2, paragraph 2.
 
-[^key-071245a25498957dd41088cf51903f82]: Commencement: Art. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-071245a25498957dd41088cf51903f82]: Commencement: Art. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00011]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
 [^f00012]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
 
-[^key-38424533d0823bdb0a549b6ad35d832c]: Commencement: Art. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-38424533d0823bdb0a549b6ad35d832c]: Commencement: Art. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-e12fad023af5b6ba04b3a7ba6be38908]: Commencement: Art. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-e12fad023af5b6ba04b3a7ba6be38908]: Commencement: Art. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-33816fc988445b4712ff24ce3b913769]: Commencement: Art. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-33816fc988445b4712ff24ce3b913769]: Commencement: Art. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00013]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
 [^f00014]: Footnote: [1841 c. 30](https://www.legislation.gov.uk/ukpga/1841/30).
 
-[^key-bf9184ace1f2b3624f4ea74c78034d89]: Commencement: Art. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-bf9184ace1f2b3624f4ea74c78034d89]: Commencement: Art. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-69752d91b2165779814a35ecb84a112f]: Commencement: Art. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-69752d91b2165779814a35ecb84a112f]: Commencement: Art. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-93eba073b37b9780ae1192644901f0ef]: Commencement: Art. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-93eba073b37b9780ae1192644901f0ef]: Commencement: Art. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-af53abbc0743b7f1c392b01d8bc29ee7]: Commencement: Art. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-af53abbc0743b7f1c392b01d8bc29ee7]: Commencement: Art. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-10afaede244eea9ce65a04a8a90bd41e]: Commencement: Art. 13 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-10afaede244eea9ce65a04a8a90bd41e]: Commencement: Art. 13 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-a7187691bf4f1e6015229a847a7d1412]: Commencement: Art. 14 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-a7187691bf4f1e6015229a847a7d1412]: Commencement: Art. 14 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-f0ba51e8b2d575ff69b8b853bace2545]: Commencement: Art. 15 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-f0ba51e8b2d575ff69b8b853bace2545]: Commencement: Art. 15 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-20a0c1376a469a1505c28c5f40182148]: Commencement: Art. 16 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-20a0c1376a469a1505c28c5f40182148]: Commencement: Art. 16 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-2bc9c1d355890e95c02f40e2c395c006]: Commencement: Art. 17 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-2bc9c1d355890e95c02f40e2c395c006]: Commencement: Art. 17 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00015]: Footnote: [1987 c.21](https://www.legislation.gov.uk/ukpga/1987/21).
 
-[^key-416b72615b91881b435db1d36e108589]: Commencement: Art. 18 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-416b72615b91881b435db1d36e108589]: Commencement: Art. 18 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-14bf34f93a457f0cf80b5d652859d56b]: Commencement: Art. 19 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-14bf34f93a457f0cf80b5d652859d56b]: Commencement: Art. 19 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-37d979254b069abad98b2728f83ac884]: Commencement: Art. 20 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-37d979254b069abad98b2728f83ac884]: Commencement: Art. 20 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-0d7bb88f7678896804e5db0de8ba4b40]: Commencement: Art. 21 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-0d7bb88f7678896804e5db0de8ba4b40]: Commencement: Art. 21 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-070a0eb48a916051dd8ed071ce4f33bb]: Commencement: Art. 22 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-070a0eb48a916051dd8ed071ce4f33bb]: Commencement: Art. 22 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-96c1d6d4656317f329fece46d26e5bac]: Commencement: Art. 23 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-96c1d6d4656317f329fece46d26e5bac]: Commencement: Art. 23 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-463ccec5ded517ee8bbf03d0733f17db]: Commencement: Art. 24 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-463ccec5ded517ee8bbf03d0733f17db]: Commencement: Art. 24 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00016]: Footnote: A copy of the byelaws may be obtained from The Bristol Port Company at St Andrew’s House, St Andrew’s Road, Avonmouth, Bristol BS11 9DQ.
 
-[^key-5a2e58526b934a800b62e25c6fb7ecf4]: Commencement: Art. 25 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-5a2e58526b934a800b62e25c6fb7ecf4]: Commencement: Art. 25 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-d8143950f6deeb22d5f8056f8619930d]: Commencement: Art. 26 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-d8143950f6deeb22d5f8056f8619930d]: Commencement: Art. 26 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00017]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) is amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 107 and Schedule 17, paragraph 6.
 
@@ -866,43 +866,43 @@ The deposited plans and sections of the works authorised by the Order can be ins
 
 [^f00019]: Footnote: Sections 61(9) and 65(8) are amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 24 and the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43) section 162 and Schedule 15, paragraph 15.
 
-[^key-83b52fe07248c54e108a6f5c143f22a1]: Commencement: Art. 27 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-83b52fe07248c54e108a6f5c143f22a1]: Commencement: Art. 27 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-9f501a1db786759256a8dd24dd866f4e]: Commencement: Art. 28 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-9f501a1db786759256a8dd24dd866f4e]: Commencement: Art. 28 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-70bbe3a5539ed7b4fd94e2a7af5b4208]: Commencement: Sch. 1 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-70bbe3a5539ed7b4fd94e2a7af5b4208]: Commencement: Sch. 1 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-293c24809b1c638e3187044343343d76]: Commencement: Sch. 1 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-293c24809b1c638e3187044343343d76]: Commencement: Sch. 1 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-0894d0b15a4ca4c4adf48dd2407d9474]: Commencement: Sch. 2 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-0894d0b15a4ca4c4adf48dd2407d9474]: Commencement: Sch. 2 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-d18c2b7eeb7e30b06ce95e234c7e7f19]: Commencement: Sch. 2 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-d18c2b7eeb7e30b06ce95e234c7e7f19]: Commencement: Sch. 2 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-aefe748db72a055db0c585cba1855737]: Commencement: Sch. 2 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-aefe748db72a055db0c585cba1855737]: Commencement: Sch. 2 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-b7e7057740c0464caba2df7dd2d2090c]: Commencement: Sch. 2 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-b7e7057740c0464caba2df7dd2d2090c]: Commencement: Sch. 2 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-5a7c4d28460550d603fc506c992e018b]: Commencement: Sch. 2 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-5a7c4d28460550d603fc506c992e018b]: Commencement: Sch. 2 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-c0e3b3ac5395b854dbf052c9d2cc4b94]: Commencement: Sch. 2 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-c0e3b3ac5395b854dbf052c9d2cc4b94]: Commencement: Sch. 2 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-4d54c934087291dd04382fbea73e344e]: Commencement: Sch. 2 para. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-4d54c934087291dd04382fbea73e344e]: Commencement: Sch. 2 para. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-b7daca5603b69bb6ea855a07fe504532]: Commencement: Sch. 2 para. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-b7daca5603b69bb6ea855a07fe504532]: Commencement: Sch. 2 para. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-7db122dcbc4cdcdd0d7cf878aca6100f]: Commencement: Sch. 2 para. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-7db122dcbc4cdcdd0d7cf878aca6100f]: Commencement: Sch. 2 para. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-5a394335117d279acb183786a570f51e]: Commencement: Sch. 2 para. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-5a394335117d279acb183786a570f51e]: Commencement: Sch. 2 para. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-78cad84cd6495a25cfa19ea2c68f214c]: Commencement: Sch. 2 para. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-78cad84cd6495a25cfa19ea2c68f214c]: Commencement: Sch. 2 para. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-dab9ce224b89de8b32cbbea56fab682b]: Commencement: Sch. 2 para. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-dab9ce224b89de8b32cbbea56fab682b]: Commencement: Sch. 2 para. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-f3480931504b15208f40390d4e9f4964]: Commencement: Sch. 2 para. 13 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-f3480931504b15208f40390d4e9f4964]: Commencement: Sch. 2 para. 13 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00020]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61 is amended by the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55), section 133 and Schedule 7; the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 24, and the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), section 162 and Schedule 15 paragraph 15. There are other amendments but none is relevant.
 
-[^key-31752fe50b8e6222ce2c07a837349b2e]: Commencement: Sch. 2 para. 14 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-31752fe50b8e6222ce2c07a837349b2e]: Commencement: Sch. 2 para. 14 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00021]: Footnote: Section 70 is amended by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 32 and Schedule 7, paragraph 14.
 
@@ -910,25 +910,25 @@ The deposited plans and sections of the works authorised by the Order can be ins
 
 [^f00023]: Footnote: [S.I. 1995/419](https://www.legislation.gov.uk/uksi/1995/419).
 
-[^key-99df2727dd8815949f145ca29de741ba]: Commencement: Sch. 3 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-99df2727dd8815949f145ca29de741ba]: Commencement: Sch. 3 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-86223f0b791841d4d748447304720422]: Commencement: Sch. 3 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-86223f0b791841d4d748447304720422]: Commencement: Sch. 3 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-7b4dc65c0fa45c2fd50598a9b0414943]: Commencement: Sch. 4 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-7b4dc65c0fa45c2fd50598a9b0414943]: Commencement: Sch. 4 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00024]: Footnote: Article 3 is amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 76; [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293), regulations 34 and 35 and Schedule 5; [S.I. 1999/1783](https://www.legislation.gov.uk/uksi/1999/1783), regulation 15; [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956), article 13 and Schedule 6, paragraph 3; and [S.I. 2006/1282](https://www.legislation.gov.uk/uksi/2006/1282), article 16. Part 11 of Schedule 2 is amended by [S.I. 1996/528](https://www.legislation.gov.uk/uksi/1996/528), article 2.
 
 [^f00025]: Footnote: There are amendments to Part 17 of Schedule 2 but none is relevant.
 
-[^key-cf0b89dd3239a04dfeda57d6340690c7]: Commencement: Sch. 4 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-cf0b89dd3239a04dfeda57d6340690c7]: Commencement: Sch. 4 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^M_F_ed7a2f01-edc7-4cab-ae8e-144aa3e2aa58]: Textual amendment: Words in Sch. 4 para. 2 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 20(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/20/a)
 
-[^key-9ccf0d3adc53d106136449edcb1b6818]: Commencement: Sch. 4 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-9ccf0d3adc53d106136449edcb1b6818]: Commencement: Sch. 4 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^M_F_6a570219-8baa-4a80-e036-b02a20b2fff6]: Textual amendment: Words in Sch. 4 para. 3(a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 20(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/20/b)
 
-[^key-a8eb4c057e021682c80d00bb613255e4]: Commencement: Sch. 5 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-a8eb4c057e021682c80d00bb613255e4]: Commencement: Sch. 5 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00027]: Footnote: [S.I. 2002/3268](https://www.legislation.gov.uk/uksi/2002/3268).
 
@@ -940,60 +940,60 @@ The deposited plans and sections of the works authorised by the Order can be ins
 
 [^f00031]: Footnote: [1993 c. 42](https://www.legislation.gov.uk/ukpga/1993/42).
 
-[^key-17ad1ce1b4bab18699709a632934016a]: Commencement: Sch. 5 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-17ad1ce1b4bab18699709a632934016a]: Commencement: Sch. 5 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-f0427610e2dcb46fb337105b6c4acea8]: Commencement: Sch. 6 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-f0427610e2dcb46fb337105b6c4acea8]: Commencement: Sch. 6 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-f810e1beaee833860cf1c5c08b5567f4]: Commencement: Sch. 6 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-f810e1beaee833860cf1c5c08b5567f4]: Commencement: Sch. 6 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-db79b1251154585c047cb7440874e562]: Commencement: Sch. 6 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-db79b1251154585c047cb7440874e562]: Commencement: Sch. 6 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-af1608d28f1f6b8db8b166dead7566f6]: Commencement: Sch. 6 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-af1608d28f1f6b8db8b166dead7566f6]: Commencement: Sch. 6 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-25b8ce184bd731e77a6d94b14fc634f2]: Commencement: Sch. 6 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-25b8ce184bd731e77a6d94b14fc634f2]: Commencement: Sch. 6 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-75790f47c240ccb744e61fa6473c13df]: Commencement: Sch. 6 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-75790f47c240ccb744e61fa6473c13df]: Commencement: Sch. 6 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00032]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-365d65a73f996d20ff0e5c9514f0b870]: Commencement: Sch. 6 para. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-365d65a73f996d20ff0e5c9514f0b870]: Commencement: Sch. 6 para. 7 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-04aef55d358dc7d77bbe5d68002c3df6]: Commencement: Sch. 6 para. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-04aef55d358dc7d77bbe5d68002c3df6]: Commencement: Sch. 6 para. 8 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-00921fa0da8f340c17d606c2f1ada87b]: Commencement: Sch. 6 para. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-00921fa0da8f340c17d606c2f1ada87b]: Commencement: Sch. 6 para. 9 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-db4dbee3bbf8d4628f60e9d56a630b1d]: Commencement: Sch. 6 para. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-db4dbee3bbf8d4628f60e9d56a630b1d]: Commencement: Sch. 6 para. 10 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-de69d4fd2ffe7a18c6b118e2126ad155]: Commencement: Sch. 6 para. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-de69d4fd2ffe7a18c6b118e2126ad155]: Commencement: Sch. 6 para. 11 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00033]: Footnote: Section 109 is amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 22, paragraph 128, and is prospectively amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), section 82.
 
 [^f00034]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 is amended by the Environment Act 1995, section 120 and Schedule 22, paragraphs 191 and 192. This section is prospectively amended by the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) section 31 and Schedule 2, paragraphs 25 and 32.
 
-[^key-0f0aaa4be7afcbfc2ac33b1bd324beeb]: Commencement: Sch. 6 para. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-0f0aaa4be7afcbfc2ac33b1bd324beeb]: Commencement: Sch. 6 para. 12 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-38426689b0e908e9ab8d94197f413b36]: Commencement: Sch. 7 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-38426689b0e908e9ab8d94197f413b36]: Commencement: Sch. 7 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
 [^f00035]: Footnote: English Heritage is the name by which the Historic Buildings and Monuments Commission for England, established under section 32 of the National Heritage Act [1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47), is known.
 
 [^f00036]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48).
 
-[^key-b51adc6abf0e1c094b1f67ffe0201ffc]: Commencement: Sch. 7 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-b51adc6abf0e1c094b1f67ffe0201ffc]: Commencement: Sch. 7 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-88626afc2b31ac037edabd1a5e889704]: Commencement: Sch. 7 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-88626afc2b31ac037edabd1a5e889704]: Commencement: Sch. 7 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-b4a6a2a6d56364c5ae51de66c01851b6]: Commencement: Sch. 7 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-b4a6a2a6d56364c5ae51de66c01851b6]: Commencement: Sch. 7 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-57f1b2e8ab6a2c2b1af6223e6395e009]: Commencement: Sch. 7 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-57f1b2e8ab6a2c2b1af6223e6395e009]: Commencement: Sch. 7 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-699d412307bc2a33027401f7e8ce1665]: Commencement: Sch. 7 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-699d412307bc2a33027401f7e8ce1665]: Commencement: Sch. 7 para. 6 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-bdf9a82499709ae4f8f864ceb7255447]: Commencement: Sch. 8 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-bdf9a82499709ae4f8f864ceb7255447]: Commencement: Sch. 8 para. 1 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-6017a607838fd7f7cbaaaf01a12c78f9]: Commencement: Sch. 8 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-6017a607838fd7f7cbaaaf01a12c78f9]: Commencement: Sch. 8 para. 2 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-179abb3ff3f0c4f90ba1f61a6b761967]: Commencement: Sch. 8 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-179abb3ff3f0c4f90ba1f61a6b761967]: Commencement: Sch. 8 para. 3 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-a283efbb4af0293aae625fb495251272]: Commencement: Sch. 8 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-a283efbb4af0293aae625fb495251272]: Commencement: Sch. 8 para. 4 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
 
-[^key-36dd65d09188ee6f0fedcdcf07a945f6]: Commencement: Sch. 8 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)
+[^c-36dd65d09188ee6f0fedcdcf07a945f6]: Commencement: Sch. 8 para. 5 in force at 1.9.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/1)

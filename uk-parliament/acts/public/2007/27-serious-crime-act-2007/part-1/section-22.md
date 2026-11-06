@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Inter-relationship between different types of orders in England and Wales or Northern Ireland[^key-91bdbe01d433dac6199f2b373ff64ba8][^key-37e26caf296343818b7099c9ec30ffad]
+## 22. Inter-relationship between different types of orders in England and Wales or Northern Ireland[^c-91bdbe01d433dac6199f2b373ff64ba8][^c-37e26caf296343818b7099c9ec30ffad]
 
 *Extent: E+W+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91bdbe01d433dac6199f2b373ff64ba8]: Commencement: S. 22 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-91bdbe01d433dac6199f2b373ff64ba8]: Commencement: S. 22 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
 
-[^key-37e26caf296343818b7099c9ec30ffad]: Textual amendment: Words in s. 22 heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/16); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-37e26caf296343818b7099c9ec30ffad]: Textual amendment: Words in s. 22 heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/16); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

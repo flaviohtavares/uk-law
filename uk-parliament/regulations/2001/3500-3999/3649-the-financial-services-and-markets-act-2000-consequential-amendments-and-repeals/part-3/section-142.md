@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Advisers for occupational pension schemes[^key-b175661a465b6b74e466228a27ba7288]
+## 142. Advisers for occupational pension schemes[^c-b175661a465b6b74e466228a27ba7288]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b175661a465b6b74e466228a27ba7288]: Commencement: Art. 142 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b175661a465b6b74e466228a27ba7288]: Commencement: Art. 142 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

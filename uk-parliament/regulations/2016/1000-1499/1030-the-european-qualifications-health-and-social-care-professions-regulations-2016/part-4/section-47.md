@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of section 15[^key-9e2d56cdbf3e1de5e346fc0befdb0066]
+## 47. Amendment of section 15[^c-9e2d56cdbf3e1de5e346fc0befdb0066]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2d56cdbf3e1de5e346fc0befdb0066]: Commencement: Reg. 47 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9e2d56cdbf3e1de5e346fc0befdb0066]: Commencement: Reg. 47 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

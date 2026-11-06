@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Prohibition on discrimination in provision of certain facilities or services.[^key-5449c22b82aeae21a801caaf66069aa9]
+## 18. Prohibition on discrimination in provision of certain facilities or services.[^c-5449c22b82aeae21a801caaf66069aa9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5449c22b82aeae21a801caaf66069aa9]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1990/35/section/18) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-5449c22b82aeae21a801caaf66069aa9]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1990/35/section/18) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

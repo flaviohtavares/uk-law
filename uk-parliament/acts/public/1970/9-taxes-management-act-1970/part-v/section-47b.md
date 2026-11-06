@@ -22,7 +22,7 @@ summary: ''
 
 If and so far as the question in dispute on any appeal against the refusal of relief under Chapter[^c845362] III of Part VII of the principal Act (relief for investment in corporate trades), or against an assessment withdrawing any such relief, is a question of the value of an interest in land (within the meaning of Section 294(5) of that Act, it shall be determined—
 
-- (a) if the land is in England and Wales, on a reference to the Upper Tribunal[^key-95ece7791b4b288ca3aeff997ab2daa0];
+- (a) if the land is in England and Wales, on a reference to the Upper Tribunal[^c-95ece7791b4b288ca3aeff997ab2daa0];
 - (b) if the land is in Scotland, on a reference to the Lands Tribunal for Scotland; and
 - (c) if the land is in Northern Ireland, on a reference to the Lands Tribunal for Northern Ireland.
 
@@ -32,4 +32,4 @@ If and so far as the question in dispute on any appeal against the refusal of re
 
 [^c845362]: Textual amendment: [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1), Sch. 29 para. 32.
 
-[^key-95ece7791b4b288ca3aeff997ab2daa0]: Textual amendment: Words in s. 47B(a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/97) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-95ece7791b4b288ca3aeff997ab2daa0]: Textual amendment: Words in s. 47B(a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/97) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

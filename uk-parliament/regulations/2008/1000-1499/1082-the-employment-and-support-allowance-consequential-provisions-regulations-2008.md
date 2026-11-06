@@ -58,12 +58,12 @@ These Regulations may be cited as the Employment and Support Allowance (Conseque
 
 In paragraph 5(2) of Schedule 3 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 [^c1921554] (transitional and savings provisions), in the paragraph inserted as paragraph (4) of regulation 13 of both the Housing Benefit Regulations 2006 and the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 after sub-paragraph (c) insert—
 
-> - (ca) has limited capability for work within the meaning of section 1(4)[^key-81f803a47389b95cf8d14565fb1fb40d] of the Welfare Reform Act 2007; or
+> - (ca) has limited capability for work within the meaning of section 1(4)[^c-81f803a47389b95cf8d14565fb1fb40d] of the Welfare Reform Act 2007; or
 > - (cb) is treated as not having limited capability for work in accordance with regulations made under paragraph 1(a) of Schedule 2 to that Act (employment and support allowance: supplementary provisions); or
 
 .
 
-### 3. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-17805ace2caf25fbd25265c54b717d61]
+### 3. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^c-17805ace2caf25fbd25265c54b717d61]
 
 (1) The Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 are amended as follows.
 
@@ -128,7 +128,7 @@ The Housing Benefit Regulations 2006 [^c1921557] are amended in accordance with 
   > “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act;
 
   ;
-- (ee)[^key-0e57f601dc403f7bdb76345cc4c703bc] after the definition of “Jobseeker’s Allowance Regulations” insert—
+- (ee)[^c-0e57f601dc403f7bdb76345cc4c703bc] after the definition of “Jobseeker’s Allowance Regulations” insert—
 
   > - “limited capability for work” has the meaning given in section 1(4) of the Welfare Reform Act;
   > - “limited capability for work-related activity” has the meaning given in section 2(5) of the Welfare Reform Act;
@@ -172,7 +172,7 @@ In regulation 5(1)(b) (persons who have attained the qualifying age for state pe
 
 In regulation 6(6) (remunerative work) for “or an income-based jobseeker's allowance” substitute “ , an income-based jobseeker's allowance or an income-related employment and support allowance ”.
 
-### 7A. Amendment of regulation 7[^key-7c7c1bee229663e9592047ecd8c95fce]
+### 7A. Amendment of regulation 7[^c-7c7c1bee229663e9592047ecd8c95fce]
 
 In regulation 7(8)(c)(ii) (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) after “Schedule 3” add “or a component under paragraph 23 or 24 of that Schedule”.
 
@@ -197,7 +197,7 @@ In regulation 22 (applicable amounts) after sub-paragraph (d) add—
 
 > - (e) the amount of either the—
 >   - (i) work-related activity component; or
->   - (ii) [^key-9d9c78496dd5bf36e0da6a29eea0f4e7]...support component,
+>   - (ii) [^c-9d9c78496dd5bf36e0da6a29eea0f4e7]...support component,
 >
 >   which may be applicable to him in accordance with Part 5 of Schedule 3 (the components).
 
@@ -209,7 +209,7 @@ In regulation 23 (polygamous marriages) after sub-paragraph (e) add—
 
 > - (f) the amount of either the—
 >   - (i) work-related activity component; or
->   - (ii) [^key-ec8f0196a2df9ca400f991d2c225dd92]...support component,
+>   - (ii) [^c-ec8f0196a2df9ca400f991d2c225dd92]...support component,
 >
 >   which may be applicable to him in accordance with Part 5 of Schedule 3 (the components).
 
@@ -365,14 +365,14 @@ In Schedule 3 (applicable amounts)—
   > </table>
 - (b) in Part 3 (premiums) after sub-paragraph (8) of paragraph 13 [^c1921570] (additional conditions for the Disability Premium) add—
 
-  > (9) The claimant is not entitled to the disability premium if the claimant has, or is treated as having, limited capability for work [^key-31baa9bbff21ad6890fc872f18f96e72]....
+  > (9) The claimant is not entitled to the disability premium if the claimant has, or is treated as having, limited capability for work [^c-31baa9bbff21ad6890fc872f18f96e72]....
 
   ;
 - (c) in paragraph 15 (enhanced disability premium) for sub-paragraph (1) substitute—
 
   > (1) Subject to sub-paragraph (2), the condition is that—
   >
-  > - (a)[^key-128a5c790bbc4708760976a395abb5f8] the Secretary of State has decided that the claimant has, or is to be treated as having, limited capability for work-related activity; or
+  > - (a)[^c-128a5c790bbc4708760976a395abb5f8] the Secretary of State has decided that the claimant has, or is to be treated as having, limited capability for work-related activity; or
   > - (b) the care component of disability living allowance is, or would, but for a suspension of benefit in accordance with regulations made under section 113(2) of the Act or but for an abatement as a consequence of hospitalisation be payable at the highest rate prescribed under section 72(3) of the Act in respect of—
   >   - (i) the claimant; or
   >   - (ii) a member of the claimant's family,
@@ -382,7 +382,7 @@ In Schedule 3 (applicable amounts)—
   .
 - (d) after Part 4 (amounts of premiums specified in Part 3) add—
 
-  > **PART 5 — The components[^key-f0a7f2a0bf097b99332c5d8c7d27ae76]**
+  > **PART 5 — The components[^c-f0a7f2a0bf097b99332c5d8c7d27ae76]**
   >
   > **21.** Subject to paragraph 22, the claimant is entitled to one, but not both, of the components in paragraphs 23 or 24 if—
   >
@@ -421,10 +421,10 @@ In Schedule 4 (sums to be disregarded in the calculation of earnings)—
 - (c) in paragraph 17(2)(b)(iv) [^c1921571]—
   - (i) for paragraph (aa) substitute—
 
-    > - (aa) the claimant's applicable amount includes a disability premium under paragraph 12, the work-related activity component under paragraph 23 or the support component under paragraph 24 of Schedule 3 [^key-ce3484276ca9e5ddd3c202e83c47a3f8]...;
+    > - (aa) the claimant's applicable amount includes a disability premium under paragraph 12, the work-related activity component under paragraph 23 or the support component under paragraph 24 of Schedule 3 [^c-ce3484276ca9e5ddd3c202e83c47a3f8]...;
 
     and
-  - (ii) in paragraph (bb) for “[^key-c5e5160da431671a7024733bafda2afb]... disability premium” substitute “, a disability premium, the work-related activity component or the support component ”.
+  - (ii) in paragraph (bb) for “[^c-c5e5160da431671a7024733bafda2afb]... disability premium” substitute “, a disability premium, the work-related activity component or the support component ”.
 
 ### 25. Amendment of Schedule 5
 
@@ -474,7 +474,7 @@ The Housing Benefit (Persons who have attained the qualifying age for state pens
 
 - (a) in the definition of “appropriate DWP office” for “or a jobseeker's allowance” substitute “, a jobseeker's allowance or an employment and support allowance”;
 - (b) in the definition of “the benefit Acts” after “the Jobseekers Act” insert “, the Welfare Reform Act”;
-- (bb)[^key-1b7aa72796c18cad516c0025f08fa776] after the definition of “the Consequential Provisions Regulations” insert—
+- (bb)[^c-1b7aa72796c18cad516c0025f08fa776] after the definition of “the Consequential Provisions Regulations” insert—
 
   > - “contributory employment and support allowance” means a contributory allowance under Part 1 of the Welfare Reform Act;
 
@@ -489,7 +489,7 @@ The Housing Benefit (Persons who have attained the qualifying age for state pens
   > “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act;
 
   ;
-- (e) after the definition of “the Macfarlane Trust” insert—[^key-bbe29ea812324da4a7c0d6077c18a734]
+- (e) after the definition of “the Macfarlane Trust” insert—[^c-bbe29ea812324da4a7c0d6077c18a734]
 
   > - “main phase employment and support allowance” means an employment and support allowance where the calculation of the amount payable in respect of the claimant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act;
 
@@ -521,7 +521,7 @@ The Housing Benefit (Persons who have attained the qualifying age for state pens
 
 ### 30. Amendment of regulation 5
 
-In regulation 5(2) (persons who have attained the qualifying age for state pension credit) for “or on an income-based jobseeker's allowance” substitute “, on[^key-d7144f595bee0c0fcf95d07c11c7376b] an income-based jobseeker's allowance or on an income-related employment and support allowance”.
+In regulation 5(2) (persons who have attained the qualifying age for state pension credit) for “or on an income-based jobseeker's allowance” substitute “, on[^c-d7144f595bee0c0fcf95d07c11c7376b] an income-based jobseeker's allowance or on an income-related employment and support allowance”.
 
 ### 31. Amendment of regulation 6
 
@@ -579,7 +579,7 @@ In regulation 48 (diminishing notional capital rule)—
 
 - (a) in paragraph (3) after sub-paragraph (d) add—
 
-  > ; and[^key-1d37fd9e52ea1e86c811756bc9461b21]
+  > ; and[^c-1d37fd9e52ea1e86c811756bc9461b21]
   >
   > - (e) where the claimant has also claimed an employment and support allowance, the amount of an income-related employment and support allowance to which he would have been entitled in respect of the benefit week to which paragraph (2) refers but for the application of regulation 115 of the Employment and Support Allowance Regulations (notional capital).
 
@@ -679,13 +679,13 @@ The Council Tax Benefit Regulations 2006 [^c1921580] are amended in accordance w
   > “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act;
 
   ;
-- (ee)[^key-def0ae3903a893ad0373b86c35f43990] after the definition of “Jobseeker’s Allowance Regulations” insert—
+- (ee)[^c-def0ae3903a893ad0373b86c35f43990] after the definition of “Jobseeker’s Allowance Regulations” insert—
 
   > - “limited capability for work” has the meaning given in section 1(4) of the Welfare Reform Act;
   > - “limited capability for work-related activity” has the meaning given in section 2(5) of the Welfare Reform Act;
 
   ;
-- (f) after the definition of “the Macfarlane Trust” insert—[^key-39509753660c929dd57082686e68fd29]
+- (f) after the definition of “the Macfarlane Trust” insert—[^c-39509753660c929dd57082686e68fd29]
 
   > - “main phase employment and support allowance” means an employment and support allowance where the calculation of the amount payable in respect of the claimant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act;
 
@@ -737,7 +737,7 @@ In regulation 12 (applicable amounts) after sub-paragraph (d) add—
 
 > - (e) the amount of either the—
 >   - (i) work-related activity component; or
->   - (ii) [^key-629e6eca0a7c4d792c777da58f6d96f3]...support component
+>   - (ii) [^c-629e6eca0a7c4d792c777da58f6d96f3]...support component
 >
 >   which may be applicable to him in accordance with Part 5 of Schedule 1 (the components).
 
@@ -749,7 +749,7 @@ In regulation 13 (polygamous marriages) after sub-paragraph (e) add—
 
 > - (f) the amount of either the—
 >   - (i) work-related activity component; or
->   - (ii) [^key-7558d67558d40eccb0d2c0bdfcc29632]...support component
+>   - (ii) [^c-7558d67558d40eccb0d2c0bdfcc29632]...support component
 >
 >   which may be applicable to him in accordance with Part 5 of Schedule 1 (the components).
 
@@ -898,14 +898,14 @@ In Schedule 1 (applicable amounts)—
   > </table>
 - (b) in Part 3 (premiums) after sub-paragraph (9) [^c1921588] of paragraph 13 (additional conditions for the Disability Premium) add—
 
-  > (10) The claimant is not entitled to the disability premium if the claimant has, or is treated as having, limited capability for work[^key-885cbb6709a16779d2e2b8eb40e7590f]....
+  > (10) The claimant is not entitled to the disability premium if the claimant has, or is treated as having, limited capability for work[^c-885cbb6709a16779d2e2b8eb40e7590f]....
 
   ;
 - (c) in paragraph 15 (enhanced disability premium) for sub-paragraph (1) substitute—
 
   > (1) Subject to sub-paragraph (2), the condition is that—
   >
-  > - (a)[^key-d62f85ffb1e8a34881117557bc928e5b] the Secretary of State has decided that the claimant has, or is to be treated as having, limited capability for work-related activity; or
+  > - (a)[^c-d62f85ffb1e8a34881117557bc928e5b] the Secretary of State has decided that the claimant has, or is to be treated as having, limited capability for work-related activity; or
   > - (b) the care component of disability living allowance is, or would, but for a suspension of benefit in accordance with regulations made under section 113(2) of the Act or but for an abatement as a consequence of hospitalisation be payable at the highest rate prescribed under section 72(3) of the Act in respect of—
   >   - (i) the claimant; or
   >   - (ii) a member of the claimant's family,
@@ -915,7 +915,7 @@ In Schedule 1 (applicable amounts)—
   .
 - (d) after Part 4 (amount of premiums specified in Part 3) add—
 
-  > **PART 5 — The components[^key-b7b4dbaaafec4d174d3d3c4d7432fc14]**
+  > **PART 5 — The components[^c-b7b4dbaaafec4d174d3d3c4d7432fc14]**
   >
   > **21.** Subject to paragraph 22 the claimant is entitled to one, but not both, of the components in paragraph 23 or 24 if—
   >
@@ -1029,12 +1029,12 @@ The Council Tax Benefit (Persons who have attained the qualifying age for state 
   > “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act;
 
   ;
-- (f) after the definition of “the Macfarlane Trust” insert—[^key-61cf849b62c67ee80b2bb94d1ad72f93]
+- (f) after the definition of “the Macfarlane Trust” insert—[^c-61cf849b62c67ee80b2bb94d1ad72f93]
 
   > - “main phase employment and support allowance” means an employment and support allowance where the calculation of the amount payable in respect of the claimant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act;
 
   ;
-- (ff)[^key-882f58398adf6e8f6667130c155cceee] in the definition of “qualifying contributory benefit” after sub-paragraph (b) add—
+- (ff)[^c-882f58398adf6e8f6667130c155cceee] in the definition of “qualifying contributory benefit” after sub-paragraph (b) add—
 
   > - (c) contributory employment and support allowance;
 
@@ -1245,27 +1245,27 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921554]: Marginal citation: [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217). Paragraph 5(2) was amended by SI. 2007/2870 and 2008/1042.
 
-[^key-81f803a47389b95cf8d14565fb1fb40d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1082/regulation/2) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2008/2428/regulation/25)
+[^c-81f803a47389b95cf8d14565fb1fb40d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1082/regulation/2) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2008/2428/regulation/25)
 
-[^key-17805ace2caf25fbd25265c54b717d61]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1082/regulation/3) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2008/2428/regulation/26)
+[^c-17805ace2caf25fbd25265c54b717d61]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/1082/regulation/3) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2008/2428/regulation/26)
 
 [^c1921557]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
 [^c1921558]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-0e57f601dc403f7bdb76345cc4c703bc]: Textual amendment: [Reg. 5(2)(ee)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/5/2/ee) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2008/2428/regulation/27)
+[^c-0e57f601dc403f7bdb76345cc4c703bc]: Textual amendment: [Reg. 5(2)(ee)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/5/2/ee) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2008/2428/regulation/27)
 
 [^c1921559]: Marginal citation: Definitions of “qualifying contributory benefit” and “qualifying income-related benefit” were inserted by [S.I. 2008/959](https://www.legislation.gov.uk/uksi/2008/959).
 
-[^key-7c7c1bee229663e9592047ecd8c95fce]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2008/1082/regulation/7A) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2008/2428/regulation/28)
+[^c-7c7c1bee229663e9592047ecd8c95fce]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2008/1082/regulation/7A) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2008/2428/regulation/28)
 
 [^c1921560]: Marginal citation: Paragraph (3B) was substituted by [S.I. 2006/1026](https://www.legislation.gov.uk/uksi/2006/1026) and amended by [S.I. 2006/2528](https://www.legislation.gov.uk/uksi/2006/2528) and 3341.
 
 [^c1921561]: Marginal citation: Sub-paragraph (a) was amended by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718).
 
-[^key-9d9c78496dd5bf36e0da6a29eea0f4e7]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2008/1082/regulation/11) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2008/2428/regulation/29)
+[^c-9d9c78496dd5bf36e0da6a29eea0f4e7]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2008/1082/regulation/11) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2008/2428/regulation/29)
 
-[^key-ec8f0196a2df9ca400f991d2c225dd92]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2008/1082/regulation/12) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2008/2428/regulation/30)
+[^c-ec8f0196a2df9ca400f991d2c225dd92]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2008/1082/regulation/12) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2008/2428/regulation/30)
 
 [^c1921562]: Marginal citation: Paragraph (11) was amended by [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
@@ -1285,33 +1285,33 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921570]: Marginal citation: Paragraph 13 was amended by [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
-[^key-31baa9bbff21ad6890fc872f18f96e72]: Textual amendment: Words in [reg. 23(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/b) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/a)
+[^c-31baa9bbff21ad6890fc872f18f96e72]: Textual amendment: Words in [reg. 23(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/b) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/a)
 
-[^key-128a5c790bbc4708760976a395abb5f8]: Textual amendment: Words in [reg. 23(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/c) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/b)
+[^c-128a5c790bbc4708760976a395abb5f8]: Textual amendment: Words in [reg. 23(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/c) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/b)
 
-[^key-f0a7f2a0bf097b99332c5d8c7d27ae76]: Textual amendment: [Reg. 23(d)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/d) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/c)
+[^c-f0a7f2a0bf097b99332c5d8c7d27ae76]: Textual amendment: [Reg. 23(d)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/23/d) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [31(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/31/c)
 
 [^c1921571]: Marginal citation: Paragraph 17 was amended by [S.I. 2007/688](https://www.legislation.gov.uk/uksi/2007/688) and 2008/1042.
 
-[^key-ce3484276ca9e5ddd3c202e83c47a3f8]: Textual amendment: Word in [reg. 24(c)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/24/c/i) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/32/a)
+[^c-ce3484276ca9e5ddd3c202e83c47a3f8]: Textual amendment: Word in [reg. 24(c)(i)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/24/c/i) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/32/a)
 
-[^key-c5e5160da431671a7024733bafda2afb]: Textual amendment: Word in [reg. 24(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/24/c/ii) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/32/b)
+[^c-c5e5160da431671a7024733bafda2afb]: Textual amendment: Word in [reg. 24(c)(ii)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/24/c/ii) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/32/b)
 
 [^c1921572]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
-[^key-1b7aa72796c18cad516c0025f08fa776]: Textual amendment: [Reg. 29(2)(bb)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/29/2/bb) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/33/a)
+[^c-1b7aa72796c18cad516c0025f08fa776]: Textual amendment: [Reg. 29(2)(bb)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/29/2/bb) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/33/a)
 
-[^key-bbe29ea812324da4a7c0d6077c18a734]: Textual amendment: [Reg. 29(2)(e)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/29/2/e) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [33(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/33/b)
+[^c-bbe29ea812324da4a7c0d6077c18a734]: Textual amendment: [Reg. 29(2)(e)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/29/2/e) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [33(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/33/b)
 
 [^c1921573]: Marginal citation: Definitions of “qualifying contributory benefit” and “qualifying income-related benefit” were inserted by [S.I. 2008/959](https://www.legislation.gov.uk/uksi/2008/959).
 
-[^key-d7144f595bee0c0fcf95d07c11c7376b]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/uksi/2008/1082/regulation/30) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2008/2428/regulation/34)
+[^c-d7144f595bee0c0fcf95d07c11c7376b]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/uksi/2008/1082/regulation/30) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2008/2428/regulation/34)
 
 [^c1921574]: Marginal citation: Paragraph (2) was amended by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718).
 
 [^c1921575]: Marginal citation: Paragraph (11) was amended by [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
-[^key-1d37fd9e52ea1e86c811756bc9461b21]: Textual amendment: Word in [reg. 35(a)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/35/a) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2008/2428/regulation/35)
+[^c-1d37fd9e52ea1e86c811756bc9461b21]: Textual amendment: Word in [reg. 35(a)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/35/a) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2008/2428/regulation/35)
 
 [^c1921576]: Marginal citation: Paragraph (4) was amended by [S.I. 2007/2869](https://www.legislation.gov.uk/uksi/2007/2869).
 
@@ -1323,9 +1323,9 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921580]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
-[^key-def0ae3903a893ad0373b86c35f43990]: Textual amendment: [Reg. 43(2)(ee)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/43/2/ee) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/36/a)
+[^c-def0ae3903a893ad0373b86c35f43990]: Textual amendment: [Reg. 43(2)(ee)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/43/2/ee) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/36/a)
 
-[^key-39509753660c929dd57082686e68fd29]: Textual amendment: [Reg. 43(2)(f)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/43/2/f) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/36/b)
+[^c-39509753660c929dd57082686e68fd29]: Textual amendment: [Reg. 43(2)(f)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/43/2/f) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/36/b)
 
 [^c1921581]: Marginal citation: Definitions of “qualifying contributory benefit” and “qualifying income-related benefit” were inserted by [S.I. 2008/959](https://www.legislation.gov.uk/uksi/2008/959).
 
@@ -1333,9 +1333,9 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921583]: Marginal citation: Paragraph (2)was amended by [S.I. 2006/718](https://www.legislation.gov.uk/uksi/2006/718).
 
-[^key-629e6eca0a7c4d792c777da58f6d96f3]: Textual amendment: Word in [reg. 48](https://www.legislation.gov.uk/uksi/2008/1082/regulation/48) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2008/2428/regulation/37)
+[^c-629e6eca0a7c4d792c777da58f6d96f3]: Textual amendment: Word in [reg. 48](https://www.legislation.gov.uk/uksi/2008/1082/regulation/48) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2008/2428/regulation/37)
 
-[^key-7558d67558d40eccb0d2c0bdfcc29632]: Textual amendment: Word in [reg. 49](https://www.legislation.gov.uk/uksi/2008/1082/regulation/49) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2008/2428/regulation/38)
+[^c-7558d67558d40eccb0d2c0bdfcc29632]: Textual amendment: Word in [reg. 49](https://www.legislation.gov.uk/uksi/2008/1082/regulation/49) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2008/2428/regulation/38)
 
 [^c1921584]: Marginal citation: Paragraph (11) was amended by [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
@@ -1347,11 +1347,11 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921588]: Marginal citation: Paragraph (9) was amended by [S.I. 2008/1042](https://www.legislation.gov.uk/uksi/2008/1042).
 
-[^key-885cbb6709a16779d2e2b8eb40e7590f]: Textual amendment: Words in [reg. 59(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/b) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/a)
+[^c-885cbb6709a16779d2e2b8eb40e7590f]: Textual amendment: Words in [reg. 59(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/b) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/a)
 
-[^key-d62f85ffb1e8a34881117557bc928e5b]: Textual amendment: Words in [reg. 59(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/c) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/b)
+[^c-d62f85ffb1e8a34881117557bc928e5b]: Textual amendment: Words in [reg. 59(c)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/c) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/b)
 
-[^key-b7b4dbaaafec4d174d3d3c4d7432fc14]: Textual amendment: [Reg. 59(d)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/d) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/c)
+[^c-b7b4dbaaafec4d174d3d3c4d7432fc14]: Textual amendment: [Reg. 59(d)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/59/d) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [39(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/39/c)
 
 [^c1921589]: Marginal citation: Paragraph 1 was amended by [S.I. 2006/588](https://www.legislation.gov.uk/uksi/2006/588) and 2007/688.
 
@@ -1359,9 +1359,9 @@ A full impact assessment has not been published for this Instrument as it has no
 
 [^c1921591]: Marginal citation: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
-[^key-61cf849b62c67ee80b2bb94d1ad72f93]: Textual amendment: [Reg. 66(2)(f)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/66/2/f) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/40/a)
+[^c-61cf849b62c67ee80b2bb94d1ad72f93]: Textual amendment: [Reg. 66(2)(f)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/66/2/f) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/40/a)
 
-[^key-882f58398adf6e8f6667130c155cceee]: Textual amendment: [Reg. 66(2)(ff)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/66/2/ff) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/40/b)
+[^c-882f58398adf6e8f6667130c155cceee]: Textual amendment: [Reg. 66(2)(ff)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/66/2/ff) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/40/b)
 
 [^c1921592]: Marginal citation: Paragraph (2) was amended by [S.I. 2006/716](https://www.legislation.gov.uk/uksi/2006/716).
 

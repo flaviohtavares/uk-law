@@ -49,7 +49,7 @@ In accordance with section 29(2A) of that Act[^f00002] a draft of this instrumen
 
 ## PART 1 — Introductory provision
 
-### 1. Citation, commencement and interpretation[^key-30cdbb6428f9c8c0196f2a1916be6998]
+### 1. Citation, commencement and interpretation[^c-30cdbb6428f9c8c0196f2a1916be6998]
 
 (1) These Regulations may be cited as the Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 and come into force on 1st April 2021.
 
@@ -57,7 +57,7 @@ In accordance with section 29(2A) of that Act[^f00002] a draft of this instrumen
 
 ## PART 2 — Addition of judicial offices
 
-### 2. Amendments to the Schedule[^key-9ea0b117d1f1b49a23b3818d72ec25dc]
+### 2. Amendments to the Schedule[^c-9ea0b117d1f1b49a23b3818d72ec25dc]
 
 (1) The Schedule (fee-paid offices, annual divisors) to the FPJPS Regulations is amended as follows.
 
@@ -162,7 +162,7 @@ In accordance with section 29(2A) of that Act[^f00002] a draft of this instrumen
 
 ## PART 3 — Application of FPJPS Regulations to new members in respect of service before 1st April 2021
 
-### 3. Interpretation[^key-3643926b1aa71631a599e0c48563be38]
+### 3. Interpretation[^c-3643926b1aa71631a599e0c48563be38]
 
 (1) In this Part—
 
@@ -187,14 +187,14 @@ In accordance with section 29(2A) of that Act[^f00002] a draft of this instrumen
 
 (2) Except where otherwise defined in this Part, expressions used in this Part and in the FPJPS Regulations have the same meaning in this Part as they have in those Regulations.
 
-### 4. Scope of this Part[^key-4a0554f1891978b74a3e026208b5ebc4]
+### 4. Scope of this Part[^c-4a0554f1891978b74a3e026208b5ebc4]
 
 This Part applies—
 
 - (a) to a new member, and
 - (b) in respect of qualifying fee-paid service before 1st April 2021.
 
-### 5. Application and modification of the FPJPS Regulations[^key-e147759c48f89029d591ca9e13d59291]
+### 5. Application and modification of the FPJPS Regulations[^c-e147759c48f89029d591ca9e13d59291]
 
 (1) Subject to regulation 6(1), the FPJPS Regulations apply to a new member, as if they had always been a member in relation to a qualifying fee-paid day, with the following modifications.
 
@@ -220,7 +220,7 @@ This Part applies—
 - (a) the pre-commencement dependants’ contributions amount are to be read as if they were references to the previous service dependants’ contributions amount;
 - (b) Part 8 of the FPJPS Regulations are to be read as if they were references to this Part.
 
-### 6. Liability to pay contributions in respect of service before 1st April 2021[^key-2f488c7e606db06e6e84de381ad02c7a]
+### 6. Liability to pay contributions in respect of service before 1st April 2021[^c-2f488c7e606db06e6e84de381ad02c7a]
 
 (1) Part 8 (contributions in respect of pre-commencement service) and Part 9 (contributions in respect of service on or after commencement day) of the FPJPS Regulations do not apply in respect of a new member before 1st April 2021, without prejudice to Part 9’s continued application to a new member on and after 1st April 2021.
 
@@ -244,7 +244,7 @@ This Part applies—
   - (ii) ending on the day on which they retired, and
 - (c) did not have a qualifying child at any time during that period.
 
-### 7. Calculation of personal contributions in respect of service before 1st April 2021[^key-468e1f95f736e10f3cfd519696f1e44b]
+### 7. Calculation of personal contributions in respect of service before 1st April 2021[^c-468e1f95f736e10f3cfd519696f1e44b]
 
 Subject to regulation 9 (qualifying fee-paid days disregarded if they do not add to reckonable service), the previous service personal contributions amount in relation to a new member is determined as follows—
 
@@ -262,7 +262,7 @@ For each fee period from 1st April 2015 to 31st March 2021, multiply the total f
 
 Add together the amounts found under Step 2.
 
-### 8. Calculation of dependants’ contributions in respect of service before 1st April 2021[^key-178a3b03c737984cd36d6eba5dec2c50]
+### 8. Calculation of dependants’ contributions in respect of service before 1st April 2021[^c-178a3b03c737984cd36d6eba5dec2c50]
 
 Subject to regulation 9, the previous service dependants’ contributions amount in relation to a new member is determined as follows—
 
@@ -280,17 +280,17 @@ For each fee period from 1st April 2015 to 31st March 2021, multiply the total f
 
 Add together the amounts found under Step 2.
 
-### 9. Qualifying fee-paid days disregarded if they do not add to reckonable service[^key-f22b47b0c3a821d04bcda33c8b8d5422]
+### 9. Qualifying fee-paid days disregarded if they do not add to reckonable service[^c-f22b47b0c3a821d04bcda33c8b8d5422]
 
 (1) A qualifying fee-paid day worked in an eligible fee-paid judicial office is disregarded for the purposes of regulations 7 and 8 if a new member’s reckonable service in relation to that office would have been equal to or greater than the maximum amount in relation to that office, had they retired on the day before that day.
 
 (2) The reference in paragraph (1) to the maximum amount in relation to an office is to that amount as determined in accordance with regulation 5(4) (maximum amount) of the FPJPS Regulations.
 
-### 10. Payment of contributions in respect of service before 1st April 2021[^key-2d4425692c44f561f6ad334d2fb79d48]
+### 10. Payment of contributions in respect of service before 1st April 2021[^c-2d4425692c44f561f6ad334d2fb79d48]
 
 (1) The previous service contributions amount, or any part of it, may be paid—
 
-- (a)[^key-307638a95a31b3b71c03e182050adc28] by way of a lump sum—
+- (a)[^c-307638a95a31b3b71c03e182050adc28] by way of a lump sum—
   - (i) at any time during the period beginning on 1st April 2021 and ending at the end of 31st March 2025, or
   - (ii) at such later time as the administrators consider reasonable in all the circumstances;
 - (b) by way of such deductions from fees paid to a new member in respect of fee-paid days as may be specified in an agreement between a new member and the appropriate Minister,
@@ -319,7 +319,7 @@ Lord Chancellor
 
 Regulations 7 and 8
 
-**1.**[^key-8e8b719fe6282300fc765b20fa596b11] The contributions table for 7th April 2000 to 31st March 2015 is as follows—
+**1.**[^c-8e8b719fe6282300fc765b20fa596b11] The contributions table for 7th April 2000 to 31st March 2015 is as follows—
 
 | Fee Period | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -328,7 +328,7 @@ Regulations 7 and 8
 | 1st April 2013 to 31st March 2014 | 2.56% | 1.80% |
 | 1st April 2014 to 31st March 2015 | 3.20% | 1.80% |
 
-**2.**[^key-d0b0b032c47c31da820cf994f58fb85e] The contributions table for the fee period 1st April 2015 to 31st March 2016 is as follows—
+**2.**[^c-d0b0b032c47c31da820cf994f58fb85e] The contributions table for the fee period 1st April 2015 to 31st March 2016 is as follows—
 
 | Annualised fees | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -338,7 +338,7 @@ Regulations 7 and 8
 | £47,001 to but not including £150,001 | 2.61% | 1.80% |
 | £150,001 and above | 4.43% | 1.80% |
 
-**3.**[^key-5d8db256de424792ce4efd59222a7cf6] The contributions table for the fee period 1st April 2016 to 31st March 2017 is as follows—
+**3.**[^c-5d8db256de424792ce4efd59222a7cf6] The contributions table for the fee period 1st April 2016 to 31st March 2017 is as follows—
 
 | Annualised fees | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -348,7 +348,7 @@ Regulations 7 and 8
 | £48,472 to but not including £150,001 | 2.61% | 1.80% |
 | £150,001 and above | 4.43% | 1.80% |
 
-**4.**[^key-844f41cb339fab6dfab99d7558787eae] The contributions table for the fee period 1st April 2017 to 31st March 2018 is as follows—
+**4.**[^c-844f41cb339fab6dfab99d7558787eae] The contributions table for the fee period 1st April 2017 to 31st March 2018 is as follows—
 
 | Annualised fees | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -358,7 +358,7 @@ Regulations 7 and 8
 | £51,006 to but not including £150,001 | 2.61% | 1.80% |
 | £150,001 and above | 4.43% | 0% |
 
-**5.**[^key-fa89a064a5ded2c1447c02aa1867c5a7] The contributions table for the fee periods 1st April 2018 to 31st March 2020 is as follows—
+**5.**[^c-fa89a064a5ded2c1447c02aa1867c5a7] The contributions table for the fee periods 1st April 2018 to 31st March 2020 is as follows—
 
 | Annualised fees | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -368,7 +368,7 @@ Regulations 7 and 8
 | £51,516 to but not including £150,001 | 2.61% | 1.80% |
 | £150,001 and above | 4.43% | 0% |
 
-**6.**[^key-730270ee712f804442791bbdf368c4ef] The contributions table for the fee period 1st April 2020 to 31st March 2021 is as follows—
+**6.**[^c-730270ee712f804442791bbdf368c4ef] The contributions table for the fee period 1st April 2020 to 31st March 2021 is as follows—
 
 | Annualised fees | Contribution (personal) | Contribution (dependants) |
 | --- | --- | --- |
@@ -393,38 +393,38 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: Section 29(2A) was inserted by section 78(2) of, and paragraph 8 of Schedule 5 to, the Pension Schemes Act 2015.
 
-[^key-30cdbb6428f9c8c0196f2a1916be6998]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-30cdbb6428f9c8c0196f2a1916be6998]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2017/522](https://www.legislation.gov.uk/uksi/2017/522), amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), [2019/781](https://www.legislation.gov.uk/uksi/2019/781), [2020/386](https://www.legislation.gov.uk/uksi/2020/386).
 
-[^key-9ea0b117d1f1b49a23b3818d72ec25dc]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-9ea0b117d1f1b49a23b3818d72ec25dc]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-3643926b1aa71631a599e0c48563be38]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-3643926b1aa71631a599e0c48563be38]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-4a0554f1891978b74a3e026208b5ebc4]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-4a0554f1891978b74a3e026208b5ebc4]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-e147759c48f89029d591ca9e13d59291]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-e147759c48f89029d591ca9e13d59291]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-2f488c7e606db06e6e84de381ad02c7a]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-2f488c7e606db06e6e84de381ad02c7a]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-468e1f95f736e10f3cfd519696f1e44b]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-468e1f95f736e10f3cfd519696f1e44b]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-178a3b03c737984cd36d6eba5dec2c50]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-178a3b03c737984cd36d6eba5dec2c50]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-f22b47b0c3a821d04bcda33c8b8d5422]: Commencement: Reg. 9 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-f22b47b0c3a821d04bcda33c8b8d5422]: Commencement: Reg. 9 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-2d4425692c44f561f6ad334d2fb79d48]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-2d4425692c44f561f6ad334d2fb79d48]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-307638a95a31b3b71c03e182050adc28]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2021/444/regulation/10/1/a) substituted (with effect in accordance with Sch. para. 7(2) of the amending S.I.) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/7)
+[^c-307638a95a31b3b71c03e182050adc28]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2021/444/regulation/10/1/a) substituted (with effect in accordance with Sch. para. 7(2) of the amending S.I.) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/7)
 
-[^key-8e8b719fe6282300fc765b20fa596b11]: Commencement: Sch. para. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-8e8b719fe6282300fc765b20fa596b11]: Commencement: Sch. para. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-d0b0b032c47c31da820cf994f58fb85e]: Commencement: Sch. para. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-d0b0b032c47c31da820cf994f58fb85e]: Commencement: Sch. para. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-5d8db256de424792ce4efd59222a7cf6]: Commencement: Sch. para. 3 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-5d8db256de424792ce4efd59222a7cf6]: Commencement: Sch. para. 3 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-844f41cb339fab6dfab99d7558787eae]: Commencement: Sch. para. 4 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-844f41cb339fab6dfab99d7558787eae]: Commencement: Sch. para. 4 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-fa89a064a5ded2c1447c02aa1867c5a7]: Commencement: Sch. para. 5 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-fa89a064a5ded2c1447c02aa1867c5a7]: Commencement: Sch. para. 5 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
 
-[^key-730270ee712f804442791bbdf368c4ef]: Commencement: Sch. para. 6 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)
+[^c-730270ee712f804442791bbdf368c4ef]: Commencement: Sch. para. 6 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1)

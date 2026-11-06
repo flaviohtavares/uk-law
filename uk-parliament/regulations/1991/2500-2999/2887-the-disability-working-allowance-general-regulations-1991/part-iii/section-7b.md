@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7B. Days to be disregarded[^key-842a5bea4fac49f9cc30aef57c8f5dfd]
+## 7B. Days to be disregarded[^c-842a5bea4fac49f9cc30aef57c8f5dfd]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-842a5bea4fac49f9cc30aef57c8f5dfd]: Textual amendment: [Regs. 7A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/7A), [7B](https://www.legislation.gov.uk/uksi/1991/2887/regulation/7B) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Disability Working Allowance and Income Support (General) Amendment Regulations 1995 (S.I. 1995/482)](https://www.legislation.gov.uk/uksi/1995/482), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/482/regulation/1/1/b), [2](https://www.legislation.gov.uk/uksi/1995/482/regulation/2)
+[^c-842a5bea4fac49f9cc30aef57c8f5dfd]: Textual amendment: [Regs. 7A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/7A), [7B](https://www.legislation.gov.uk/uksi/1991/2887/regulation/7B) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Disability Working Allowance and Income Support (General) Amendment Regulations 1995 (S.I. 1995/482)](https://www.legislation.gov.uk/uksi/1995/482), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/482/regulation/1/1/b), [2](https://www.legislation.gov.uk/uksi/1995/482/regulation/2)

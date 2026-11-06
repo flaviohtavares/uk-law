@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-The Further Education Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-899718d385048d0192e26cbb0eed42ae]
+The Further Education Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-899718d385048d0192e26cbb0eed42ae]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 10th April 1998
 
-[^key-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-899718d385048d0192e26cbb0eed42ae]
+## 1. Citation and commencement[^c-899718d385048d0192e26cbb0eed42ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Further Education Teachers' (Eligibility) Regulations (Northern Ireland) 1997[^key-899718d385048d0192e26cbb0eed42ae]
+## 2. Amendment of the Further Education Teachers' (Eligibility) Regulations (Northern Ireland) 1997[^c-899718d385048d0192e26cbb0eed42ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-899718d385048d0192e26cbb0eed42ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-899718d385048d0192e26cbb0eed42ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/96) revoked (30.4.2007) by [The Further Education Teachers’ (Eligibility) Regulations (Northern Ireland) 2007 (S.R. 2007/127)](https://www.legislation.gov.uk/nisr/2007/127), [regs. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2007/127/regulation/2/b)
+[^c-899718d385048d0192e26cbb0eed42ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/96) revoked (30.4.2007) by [The Further Education Teachers’ (Eligibility) Regulations (Northern Ireland) 2007 (S.R. 2007/127)](https://www.legislation.gov.uk/nisr/2007/127), [regs. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2007/127/regulation/2/b)

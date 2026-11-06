@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Division of unsold assets[^key-3c8487448166e2df250ce7db55728344]
+## 142. Division of unsold assets[^c-3c8487448166e2df250ce7db55728344]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.183 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3c8487448166e2df250ce7db55728344]: Commencement: Rule 142 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3c8487448166e2df250ce7db55728344]: Commencement: Rule 142 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

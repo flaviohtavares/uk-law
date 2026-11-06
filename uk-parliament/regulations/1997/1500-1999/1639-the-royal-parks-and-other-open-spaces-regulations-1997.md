@@ -42,7 +42,7 @@ Whereas a draft of these Regulations has been laid before Parliament for a perio
 
 Now, therefore, in exercise of the powers conferred by section 2(1) of the Parks Regulation (Amendment) Act 1926[^f00002] as extended by section 7(5) of the Crown Estate Act 1961[^f00003] and now vested in her[^f00004], the Secretary of State hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-049b3d795df0afae7757499afd02640a]
+## 1. Citation, commencement and interpretation[^c-049b3d795df0afae7757499afd02640a]
 
 (1) These Regulations may be cited as the Royal Parks and Other Open Spaces Regulations 1997 and shall come into force on 1st October 1997.
 
@@ -52,14 +52,14 @@ Now, therefore, in exercise of the powers conferred by section 2(1) of the Parks
 - “Palace” means Buckingham Palace, Hampton Court Palace or St. James’s Palace;
 - “Park” means an area of land described in Schedule 1 to these Regulations;
 - “Park road” means a road, which is for the time being open to vehicular traffic, in a Park;
-- “private hire vehicle” means a vehicle licensed under section 7 of the Private Hire Vehicles (London) Act 1998;[^key-e0d967dc37ead89b4e76bf2a9456544f]
+- “private hire vehicle” means a vehicle licensed under section 7 of the Private Hire Vehicles (London) Act 1998;[^c-e0d967dc37ead89b4e76bf2a9456544f]
 - “taxi” means a vehicle licensed under section 6 of the Metropolitan Carriage Act 1869[^f00007];
 - “the public speaking area” means that part of Hyde Park bounded by Cumberland Gate and North Carriage Drive on the north, Stanhope Walk on the west, Grosvenor Walk on the south, and the Broad Walk on the east, including the area known as Speakers' Corner;
 - “the riding ways” means—
   - (a) in relation to Hyde Park, the Park roads therein and the horse rides known as the Dorchester Ride, the Ladies' Mile, the New Ride, the North Ride, Rotten Row and the Serpentine Ride, and
   - (b) in relation to St. James’s and The Green Parks, the Park roads therein and the horse rides known as Constitution Hill Ride and the Mall Ride.
 
-## 2. Restriction on use of a Park[^key-343a100bd879a983b01f5a5a0fae7f05]
+## 2. Restriction on use of a Park[^c-343a100bd879a983b01f5a5a0fae7f05]
 
 No person, without the written permission of the Secretary of State, shall—
 
@@ -69,7 +69,7 @@ No person, without the written permission of the Secretary of State, shall—
 
 (3) permit any animal of which he is in charge to be in any Park or part thereof in contravention of a notice exhibited by order of the Secretary of State.
 
-## 3. Acts prohibited in a Park[^key-97a1acb3a19cd56967f980878c9d8019]
+## 3. Acts prohibited in a Park[^c-97a1acb3a19cd56967f980878c9d8019]
 
 Subject to the provisions of regulation 6, no person using a Park shall—
 
@@ -79,7 +79,7 @@ Subject to the provisions of regulation 6, no person using a Park shall—
 
 (3) drop or leave litter or refuse except in a receptacle provided for the purpose;
 
-(4) unless he is a child of 10 years of age or under,[^key-6b8ff11193ef2fbe676fd1672ca4de65] use—
+(4) unless he is a child of 10 years of age or under,[^c-6b8ff11193ef2fbe676fd1672ca4de65] use—
 
 - (a) any pedal cycle, or
 - (b) any roller skate, roller blade, skate board or other foot-propelled device
@@ -91,7 +91,7 @@ except on a Park road or in an area designated and marked as being for that purp
 - (a) after having been required by a constable to do so, or
 - (b) in contravention of a notice exhibited by order of the Secretary of State;
 
-(6)[^key-e7364821705248b3e223f564a0600d10] unless the person is a registered blind person, without reasonable excuse, fail to remove immediately any faeces deposited by any animal (other than a horse)[^key-b0b342897cdc2cebc0f05a5df6fc32ef] of which he is in charge, provided always that it shall not be a reasonable excuse that a person in charge of an animal did not have with him any means of removal of the faeces;
+(6)[^c-e7364821705248b3e223f564a0600d10] unless the person is a registered blind person, without reasonable excuse, fail to remove immediately any faeces deposited by any animal (other than a horse)[^c-b0b342897cdc2cebc0f05a5df6fc32ef] of which he is in charge, provided always that it shall not be a reasonable excuse that a person in charge of an animal did not have with him any means of removal of the faeces;
 
 (7) permit any animal of which he is in charge to be tethered or to graze;
 
@@ -139,7 +139,7 @@ provided in the case of sub-paragraphs (b) and (c) above that the said vehicle i
 
 (16) fail to comply with a reasonable direction given by a constable to leave a Park or any part thereof.
 
-## 3A. Acts prohibited in designated parks[^key-c8e8bb9bb918a9be450f86568316e9b7]
+## 3A. Acts prohibited in designated parks[^c-c8e8bb9bb918a9be450f86568316e9b7]
 
 (1) A constable who has reasonable grounds for believing that a person is doing, or is about to do, a prohibited activity may direct the person—
 
@@ -210,7 +210,7 @@ provided in the case of sub-paragraphs (b) and (c) above that the said vehicle i
 
 Sections 4, 5 and 6 of the Royal Parks (Trading) Act 2000 apply in relation to an offence under the Parks Regulation (Amendment) Act 1926 relating to a breach of regulation 3A(7) as if that offence were a park trading offence under the Royal Parks (Trading) Act 2000.
 
-## 4. Acts in a Park for which written permission is required[^key-2a4d869c14ce3208d033e109978bcba7]
+## 4. Acts in a Park for which written permission is required[^c-2a4d869c14ce3208d033e109978bcba7]
 
 Unless the Secretary of State’s written permission has first been obtained, no person using a Park shall—
 
@@ -228,7 +228,7 @@ Unless the Secretary of State’s written permission has first been obtained, no
 
 (7) use language which publicly intimates that any article, commodity, facility or service can be obtained in a Park or elsewhere;
 
-(8) exhibit any notice or advertisement or any other written or pictorial matter (other than a notice or advertisement approved by Transport for London and exhibited on a taxi or private hire vehicle)[^key-57710b75d0f9fe86d3c4a8755e6ec296];
+(8) exhibit any notice or advertisement or any other written or pictorial matter (other than a notice or advertisement approved by Transport for London and exhibited on a taxi or private hire vehicle)[^c-57710b75d0f9fe86d3c4a8755e6ec296];
 
 (9) play or cause to be played a musical instrument;
 
@@ -261,7 +261,7 @@ Unless the Secretary of State’s written permission has first been obtained, no
 - (a) in a place for the time being marked by buoys or other means as appointed for that purpose, and
 - (b) in accordance with any direction for the control of such activities given by a constable, or by a notice exhibited by order of the Secretary of State;
 
-(23) sail any model except on Adam’s Pond in Richmond Park, on the Model Boating Pond[^key-53c318be4864f69b94b621165737a12d] in Bushy Park, on the Rick Pond in Hampton Court Park, or on the Round Pond in Kensington Gardens;
+(23) sail any model except on Adam’s Pond in Richmond Park, on the Model Boating Pond[^c-53c318be4864f69b94b621165737a12d] in Bushy Park, on the Rick Pond in Hampton Court Park, or on the Round Pond in Kensington Gardens;
 
 (24) feed or touch any deer or pelican;
 
@@ -284,28 +284,28 @@ Unless the Secretary of State’s written permission has first been obtained, no
 
 (30) unless in an emergency, cause any vehicle to wait, or leave any vehicle unattended, in a place other than one for the time being appointed for the parking of a vehicle of that description by the Secretary of State;
 
-(31)[^key-c42f76f3583495579f4c8d415e0b230f] cause or permit any fire to be lit or to place, throw or let fall a lighted match, similar object or any other thing so as to be likely to cause a fire.
+(31)[^c-c42f76f3583495579f4c8d415e0b230f] cause or permit any fire to be lit or to place, throw or let fall a lighted match, similar object or any other thing so as to be likely to cause a fire.
 
-## 5. General[^key-1e350a1952766234bf9c4acd98657a9c]
+## 5. General[^c-1e350a1952766234bf9c4acd98657a9c]
 
 Where a constable has reasonable ground for belief that a person has contravened any one or more of these Regulations, that person shall give on demand his name and address to that constable.
 
-## 6.[^key-a469faf5e9cf69bacf865a06d2ef5a08]
+## 6.[^c-a469faf5e9cf69bacf865a06d2ef5a08]
 
 (1) The provisions of this regulation shall have effect—
 
 - (a) where an officer, servant or agent of the Secretary of State is acting in the performance of his duty to secure the proper management of a Park or the preservation of order and prevention of abuses therein, or
 - (b) where a constable or a member of the armed forces or of any fire brigade or ambulance service is acting in the performance of his duty.
 
-(1A)[^key-877ca34a9bd7c4731d89375d20d38145] In relation to England, the reference to a member of a fire brigade in paragraph (1) is a reference to an employee of a fire and rescue authority.
+(1A)[^c-877ca34a9bd7c4731d89375d20d38145] In relation to England, the reference to a member of a fire brigade in paragraph (1) is a reference to an employee of a fire and rescue authority.
 
 (2) Any such person mentioned in paragraph (1) above does not, by reason of any failure to comply with any notice exhibited by order of the Secretary of State, contravene regulation 3(5), (9) or (13)(c) above, and is for the purpose of regulations 2 and 4 above hereby granted permission to do any act mentioned in those regulations.
 
-## 6A.[^key-bbab382ea231565659f12764cde286d2]
+## 6A.[^c-bbab382ea231565659f12764cde286d2]
 
 Regulation 4(6) above is a park trading regulation within the meaning of section 1 of the Royal Parks (Trading) Act 2000 (designation of regulations as park trading regulations).
 
-## 7. Revocation[^key-99dc748c39b19b346c9d6fe1830145cd]
+## 7. Revocation[^c-99dc748c39b19b346c9d6fe1830145cd]
 
 The Trafalgar Square Regulations 1952[^f00010] and the Royal and other Parks and Gardens Regulations 1977[^f00011] are hereby revoked.
 
@@ -319,47 +319,47 @@ Secretary of State for National Heritage
 
 Regulation 1(2)
 
-**1.**[^key-00d17360a60816f02182da4515107767][^key-b70a5644d2b219936db4d278b8ae13be] The garden surrounding the Jewel Tower and the lawn surrounding the King George V Memorial, on Abingdon Street, London SW1.
+**1.**[^c-00d17360a60816f02182da4515107767][^c-b70a5644d2b219936db4d278b8ae13be] The garden surrounding the Jewel Tower and the lawn surrounding the King George V Memorial, on Abingdon Street, London SW1.
 
-**2.**[^key-bb24bd78a327edfe7c911c47c07b5150] Brompton Cemetery;
+**2.**[^c-bb24bd78a327edfe7c911c47c07b5150] Brompton Cemetery;
 
-**3.**[^key-8f56e12f44024fb9bb4d47aacf91f951] Bushy Park;
+**3.**[^c-8f56e12f44024fb9bb4d47aacf91f951] Bushy Park;
 
-**3A.**[^key-09ed83afcec7997f96747b8b6a8287e7] Canning Green, being the lawn on the land bounded by Great George Street, Parliament Square, Broad Sanctuary and Little George Street, London SW1.
+**3A.**[^c-09ed83afcec7997f96747b8b6a8287e7] Canning Green, being the lawn on the land bounded by Great George Street, Parliament Square, Broad Sanctuary and Little George Street, London SW1.
 
-**4.**[^key-05980c15630ce02f4b284868e3c97791] The Longford River and those parts of its banks which are for the time being under the control or management of the Secretary of State;
+**4.**[^c-05980c15630ce02f4b284868e3c97791] The Longford River and those parts of its banks which are for the time being under the control or management of the Secretary of State;
 
-**5.**[^key-25515eecc7aa012046ac3e1a69a0b74c] Greenwich Park, being those parts of the Park which are for the time being under the control or management of the Secretary of State;
+**5.**[^c-25515eecc7aa012046ac3e1a69a0b74c] Greenwich Park, being those parts of the Park which are for the time being under the control or management of the Secretary of State;
 
-**6.**[^key-2ed6d2144542003783f92dfe29bf158f] Grosvenor Square Garden;
+**6.**[^c-2ed6d2144542003783f92dfe29bf158f] Grosvenor Square Garden;
 
-**7.**[^key-fcec6c0c0fe75006db644fd94bf1a5f9] Hampton Court Gardens;
+**7.**[^c-fcec6c0c0fe75006db644fd94bf1a5f9] Hampton Court Gardens;
 
-**8.**[^key-fa1e026ef47ca978158eaf5198d5a2d4] Hampton Court Green;
+**8.**[^c-fa1e026ef47ca978158eaf5198d5a2d4] Hampton Court Green;
 
-**9.**[^key-614575839982091883316c00fb4f8317] Hampton Court Park;
+**9.**[^c-614575839982091883316c00fb4f8317] Hampton Court Park;
 
-**10.**[^key-8ceef03615fa9d91ebbb27175d88a707] Hyde Park;
+**10.**[^c-8ceef03615fa9d91ebbb27175d88a707] Hyde Park;
 
-**11.**[^key-7c48d8747df5100e52048ad3bf90c1cd] Kensington Gardens;
+**11.**[^c-7c48d8747df5100e52048ad3bf90c1cd] Kensington Gardens;
 
-**12.**[^key-2c4f66bc046de594d75715fbe59fca77] The Natural History Museum Gardens;
+**12.**[^c-2c4f66bc046de594d75715fbe59fca77] The Natural History Museum Gardens;
 
-**13.**[^key-749dd0f87300b253d26bbae895be2502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-749dd0f87300b253d26bbae895be2502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-9d417bf29b314febaa438abb4f38c363] Primrose Hill;
+**14.**[^c-9d417bf29b314febaa438abb4f38c363] Primrose Hill;
 
-**15.**[^key-254c521ba8b8c0297432f48be31d7b6d] The Regent’s Park;
+**15.**[^c-254c521ba8b8c0297432f48be31d7b6d] The Regent’s Park;
 
-**16.**[^key-59e05096422f74b0ac1d863661807959] Richmond Park;
+**16.**[^c-59e05096422f74b0ac1d863661807959] Richmond Park;
 
-**17.**[^key-1915e337eda3f7230aa6205b86ef0512] St. James’s and The Green Parks;
+**17.**[^c-1915e337eda3f7230aa6205b86ef0512] St. James’s and The Green Parks;
 
-**18.**[^key-270e83eeb93c5cfc51018a43df10798d] Tower Gardens;
+**18.**[^c-270e83eeb93c5cfc51018a43df10798d] Tower Gardens;
 
-**19.**[^key-1ce4e7798385d258daad1691483927c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1ce4e7798385d258daad1691483927c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-33490fa415b0e168bf54f50a94085179] Victoria Tower Gardens.
+**20.**[^c-33490fa415b0e168bf54f50a94085179] Victoria Tower Gardens.
 
 ## SCHEDULE 2 — THE DRIVING AND RIDING OF VEHICLES ON A PARK ROAD
 
@@ -367,23 +367,23 @@ Regulation 1(2)
 
 Regulation 4(27)
 
-**1.**[^key-da473ad1cd78a33d0ce215c3a5692755] A taxi or a private hire vehicle[^key-b58e2507c9f69f52716c5b3e8e338db0].
+**1.**[^c-da473ad1cd78a33d0ce215c3a5692755] A taxi or a private hire vehicle[^c-b58e2507c9f69f52716c5b3e8e338db0].
 
-**2.**[^key-632ce75070b6260a6bf9e2c62b333d60] A vehicle in use for the purpose of transacting business with any person either residing in a Palace or Park or using land therein under licence from the Secretary of State.
+**2.**[^c-632ce75070b6260a6bf9e2c62b333d60] A vehicle in use for the purpose of transacting business with any person either residing in a Palace or Park or using land therein under licence from the Secretary of State.
 
-**3.**[^key-9c07b08dcd344fd21c2dac77c27d6fbc] A vehicle in use for the purpose of the repair or removal of any other vehicle which is broken down in a Park.
+**3.**[^c-9c07b08dcd344fd21c2dac77c27d6fbc] A vehicle in use for the purpose of the repair or removal of any other vehicle which is broken down in a Park.
 
-### PART 2 — Speeds at which a vehicle may be driven or ridden on a Park road[^key-7795ff21dcb1416422e6f78d9d9b6a0e]
+### PART 2 — Speeds at which a vehicle may be driven or ridden on a Park road[^c-7795ff21dcb1416422e6f78d9d9b6a0e]
 
 Regulation 4(28)
 
-**1.**[^key-1ba9bdd27175f86e622c43f01fe1b8be] On a Park road in Bushy Park, The Green Park, Greenwich Park, Hyde Park (other than the Serpentine Road), St James’s Park, The Regent’s Park or Richmond Park, at a speed not exceeding 20 mph.
+**1.**[^c-1ba9bdd27175f86e622c43f01fe1b8be] On a Park road in Bushy Park, The Green Park, Greenwich Park, Hyde Park (other than the Serpentine Road), St James’s Park, The Regent’s Park or Richmond Park, at a speed not exceeding 20 mph.
 
-**2.**[^key-974029d245f2e9d2a2f8790c695d80e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-974029d245f2e9d2a2f8790c695d80e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** On the Serpentine Road in Hyde Park, and on the Park road from Kingston Gate leading to the Home Park Golf Club in Hampton Court Park, at a speed not exceeding 15 mph.
 
-**4.** On a Park road (other than one mentioned in paragraphs 1 [^key-1818635165d531751db78beba82baefa]... or 3), at a speed not exceeding 10 mph.
+**4.** On a Park road (other than one mentioned in paragraphs 1 [^c-1818635165d531751db78beba82baefa]... or 3), at a speed not exceeding 10 mph.
 
 (This note is not part of the Regulations)
 
@@ -401,110 +401,110 @@ The Regulations revoke and re-enact, with minor and drafting amendments, the Tra
 
 [^f00004]: Footnote: [1942 c. 23](https://www.legislation.gov.uk/ukpga/1942/23), S.R. & O. 1945/991; [S.I. 1962/1549](https://www.legislation.gov.uk/uksi/1962/1549), [1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [1992/1311](https://www.legislation.gov.uk/uksi/1992/1311).
 
-[^key-049b3d795df0afae7757499afd02640a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-049b3d795df0afae7757499afd02640a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
 [^f00005]: Footnote: [1872 c. 15](https://www.legislation.gov.uk/ukpga/1872/15).
 
 [^f00006]: Footnote: [1974 c. 29](https://www.legislation.gov.uk/ukpga/1974/29).
 
-[^key-e0d967dc37ead89b4e76bf2a9456544f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/1639) inserted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/2)
+[^c-e0d967dc37ead89b4e76bf2a9456544f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/1639) inserted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/2)
 
 [^f00007]: Footnote: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
 
-[^key-343a100bd879a983b01f5a5a0fae7f05]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1639/regulation/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-343a100bd879a983b01f5a5a0fae7f05]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1639/regulation/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-97a1acb3a19cd56967f980878c9d8019]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-97a1acb3a19cd56967f980878c9d8019]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-6b8ff11193ef2fbe676fd1672ca4de65]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/4) inserted (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/2/a)
+[^c-6b8ff11193ef2fbe676fd1672ca4de65]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/4) inserted (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/2/a)
 
-[^key-e7364821705248b3e223f564a0600d10]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/6) substituted (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/2/b)
+[^c-e7364821705248b3e223f564a0600d10]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/6) substituted (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/2/b)
 
-[^key-b0b342897cdc2cebc0f05a5df6fc32ef]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/6) inserted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/3)
+[^c-b0b342897cdc2cebc0f05a5df6fc32ef]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3/6) inserted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/3)
 
 [^f00008]: Footnote: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796).
 
-[^key-c8e8bb9bb918a9be450f86568316e9b7]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3A) inserted (28.3.2012) by [The Royal Parks and Other Open Spaces (Amendment) (No. 2) Regulations 2012 (S.I. 2012/957)](https://www.legislation.gov.uk/uksi/2012/957), [regs. 1](https://www.legislation.gov.uk/uksi/2012/957/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/957/regulation/2/2)
+[^c-c8e8bb9bb918a9be450f86568316e9b7]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/1997/1639/regulation/3A) inserted (28.3.2012) by [The Royal Parks and Other Open Spaces (Amendment) (No. 2) Regulations 2012 (S.I. 2012/957)](https://www.legislation.gov.uk/uksi/2012/957), [regs. 1](https://www.legislation.gov.uk/uksi/2012/957/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/957/regulation/2/2)
 
-[^key-2a4d869c14ce3208d033e109978bcba7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-2a4d869c14ce3208d033e109978bcba7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-57710b75d0f9fe86d3c4a8755e6ec296]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/8) added (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/4)
+[^c-57710b75d0f9fe86d3c4a8755e6ec296]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/8) added (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/4)
 
 [^f00009]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-53c318be4864f69b94b621165737a12d]: Textual amendment: Words in [reg. 4(23)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/23) substituted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/5)
+[^c-53c318be4864f69b94b621165737a12d]: Textual amendment: Words in [reg. 4(23)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/23) substituted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/5)
 
-[^key-c42f76f3583495579f4c8d415e0b230f]: Textual amendment: [Reg. 4(31)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/31) added (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/3)
+[^c-c42f76f3583495579f4c8d415e0b230f]: Textual amendment: [Reg. 4(31)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/4/31) added (10.5.2004) by [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/3)
 
-[^key-1e350a1952766234bf9c4acd98657a9c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/1639/regulation/5) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-1e350a1952766234bf9c4acd98657a9c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1997/1639/regulation/5) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-a469faf5e9cf69bacf865a06d2ef5a08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-a469faf5e9cf69bacf865a06d2ef5a08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-877ca34a9bd7c4731d89375d20d38145]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6/1A) inserted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [41](https://www.legislation.gov.uk/uksi/2004/3168/article/41)
+[^c-877ca34a9bd7c4731d89375d20d38145]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6/1A) inserted (30.12.2004) by [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [41](https://www.legislation.gov.uk/uksi/2004/3168/article/41)
 
-[^key-bbab382ea231565659f12764cde286d2]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6A) inserted (2.11.2000) by [The Royal Parks and Other Open Spaces (Park Trading) Regulations 2000 (S.I. 2000/2949)](https://www.legislation.gov.uk/uksi/2000/2949), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2949/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/2949/regulation/2)
+[^c-bbab382ea231565659f12764cde286d2]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/1997/1639/regulation/6A) inserted (2.11.2000) by [The Royal Parks and Other Open Spaces (Park Trading) Regulations 2000 (S.I. 2000/2949)](https://www.legislation.gov.uk/uksi/2000/2949), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2949/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/2949/regulation/2)
 
-[^key-99dc748c39b19b346c9d6fe1830145cd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/1639/regulation/7) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-99dc748c39b19b346c9d6fe1830145cd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1997/1639/regulation/7) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1952/776](https://www.legislation.gov.uk/uksi/1952/776).
 
 [^f00011]: Footnote: [S.I. 1977/217](https://www.legislation.gov.uk/uksi/1977/217).
 
-[^key-00d17360a60816f02182da4515107767]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-00d17360a60816f02182da4515107767]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-b70a5644d2b219936db4d278b8ae13be]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/1) substituted (14.1.2012) by [The Royal Parks and Other Open Spaces (Amendment) Regulations 2012 (S.I. 2012/98)](https://www.legislation.gov.uk/uksi/2012/98), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/98/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/98/regulation/2/2)
+[^c-b70a5644d2b219936db4d278b8ae13be]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/1) substituted (14.1.2012) by [The Royal Parks and Other Open Spaces (Amendment) Regulations 2012 (S.I. 2012/98)](https://www.legislation.gov.uk/uksi/2012/98), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/98/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/98/regulation/2/2)
 
-[^key-bb24bd78a327edfe7c911c47c07b5150]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-bb24bd78a327edfe7c911c47c07b5150]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-8f56e12f44024fb9bb4d47aacf91f951]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-8f56e12f44024fb9bb4d47aacf91f951]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-09ed83afcec7997f96747b8b6a8287e7]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/3A) inserted (14.1.2012) by [The Royal Parks and Other Open Spaces (Amendment) Regulations 2012 (S.I. 2012/98)](https://www.legislation.gov.uk/uksi/2012/98), [regs. 1](https://www.legislation.gov.uk/uksi/2012/98/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/98/regulation/2/3)
+[^c-09ed83afcec7997f96747b8b6a8287e7]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/3A) inserted (14.1.2012) by [The Royal Parks and Other Open Spaces (Amendment) Regulations 2012 (S.I. 2012/98)](https://www.legislation.gov.uk/uksi/2012/98), [regs. 1](https://www.legislation.gov.uk/uksi/2012/98/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/98/regulation/2/3)
 
-[^key-05980c15630ce02f4b284868e3c97791]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/4) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-05980c15630ce02f4b284868e3c97791]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/4) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-25515eecc7aa012046ac3e1a69a0b74c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/5) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-25515eecc7aa012046ac3e1a69a0b74c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/5) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-2ed6d2144542003783f92dfe29bf158f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/6) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-2ed6d2144542003783f92dfe29bf158f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/6) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-fcec6c0c0fe75006db644fd94bf1a5f9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/7) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-fcec6c0c0fe75006db644fd94bf1a5f9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/7) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-fa1e026ef47ca978158eaf5198d5a2d4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/8) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-fa1e026ef47ca978158eaf5198d5a2d4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/8) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-614575839982091883316c00fb4f8317]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/9) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-614575839982091883316c00fb4f8317]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/9) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-8ceef03615fa9d91ebbb27175d88a707]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/10) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-8ceef03615fa9d91ebbb27175d88a707]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/10) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-7c48d8747df5100e52048ad3bf90c1cd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/11) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-7c48d8747df5100e52048ad3bf90c1cd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/11) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-2c4f66bc046de594d75715fbe59fca77]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/12) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-2c4f66bc046de594d75715fbe59fca77]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/12) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-749dd0f87300b253d26bbae895be2502]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/13) omitted (10.5.2004) by virtue of [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/4)
+[^c-749dd0f87300b253d26bbae895be2502]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/13) omitted (10.5.2004) by virtue of [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/4)
 
-[^key-9d417bf29b314febaa438abb4f38c363]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/14) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-9d417bf29b314febaa438abb4f38c363]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/14) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-254c521ba8b8c0297432f48be31d7b6d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/15) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-254c521ba8b8c0297432f48be31d7b6d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/15) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-59e05096422f74b0ac1d863661807959]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/16) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-59e05096422f74b0ac1d863661807959]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/16) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-1915e337eda3f7230aa6205b86ef0512]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/17) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-1915e337eda3f7230aa6205b86ef0512]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/17) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-270e83eeb93c5cfc51018a43df10798d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/18) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-270e83eeb93c5cfc51018a43df10798d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/18) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-1ce4e7798385d258daad1691483927c9]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/19) omitted (10.5.2004) by virtue of [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/4)
+[^c-1ce4e7798385d258daad1691483927c9]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/19) omitted (10.5.2004) by virtue of [Royal Parks and Other Open Spaces (Amendment) Regulations 2004 (S.I. 2004/1308)](https://www.legislation.gov.uk/uksi/2004/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1308/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/1308/regulation/2/4)
 
-[^key-33490fa415b0e168bf54f50a94085179]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/20) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-33490fa415b0e168bf54f50a94085179]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/1639/schedule/1/paragraph/20) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-da473ad1cd78a33d0ce215c3a5692755]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-da473ad1cd78a33d0ce215c3a5692755]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/1) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-b58e2507c9f69f52716c5b3e8e338db0]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/I) added (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/6)
+[^c-b58e2507c9f69f52716c5b3e8e338db0]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/I) added (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/6)
 
-[^key-632ce75070b6260a6bf9e2c62b333d60]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-632ce75070b6260a6bf9e2c62b333d60]: Commencement: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/2) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-9c07b08dcd344fd21c2dac77c27d6fbc]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
+[^c-9c07b08dcd344fd21c2dac77c27d6fbc]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/1/paragraph/3) in force at 1.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1639/regulation/1/1)
 
-[^key-7795ff21dcb1416422e6f78d9d9b6a0e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II) substituted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/7)
+[^c-7795ff21dcb1416422e6f78d9d9b6a0e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II) substituted (6.4.2010) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2010 (S.I. 2010/1194)](https://www.legislation.gov.uk/uksi/2010/1194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2010/1194/regulation/2/7)
 
-[^key-1ba9bdd27175f86e622c43f01fe1b8be]: Textual amendment: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/1) substituted (24.9.2020) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/a)
+[^c-1ba9bdd27175f86e622c43f01fe1b8be]: Textual amendment: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/1) substituted (24.9.2020) by [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/a)
 
-[^key-974029d245f2e9d2a2f8790c695d80e3]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/2) omitted (24.9.2020) by virtue of [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/b)
+[^c-974029d245f2e9d2a2f8790c695d80e3]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/2) omitted (24.9.2020) by virtue of [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/b)
 
-[^key-1818635165d531751db78beba82baefa]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/4) omitted (24.9.2020) by virtue of [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/c)
+[^c-1818635165d531751db78beba82baefa]: Textual amendment: Word in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1997/1639/schedule/2/part/II/paragraph/4) omitted (24.9.2020) by virtue of [The Royal Parks and Other Open Spaces (Amendment) etc. Regulations 2020 (S.I. 2020/1027)](https://www.legislation.gov.uk/uksi/2020/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1027/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1027/regulation/2/2/c)

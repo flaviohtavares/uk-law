@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Communication of disclaimer to persons interested[^key-240e7a77c4090bf8fc892c3fcb039333]
+## 146. Communication of disclaimer to persons interested[^c-240e7a77c4090bf8fc892c3fcb039333]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.198 of the 1991 Rules.
 
 ## Annotations
 
-[^key-240e7a77c4090bf8fc892c3fcb039333]: Commencement: Rule 146 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-240e7a77c4090bf8fc892c3fcb039333]: Commencement: Rule 146 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

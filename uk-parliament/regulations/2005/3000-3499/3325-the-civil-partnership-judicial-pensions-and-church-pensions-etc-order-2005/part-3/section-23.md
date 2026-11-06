@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**23.**[^key-3500591201cf3506d02c73c72bacb31f] (1) Section 123 (widows' and widowers' pensions) is amended as follows.
+**23.**[^c-3500591201cf3506d02c73c72bacb31f] (1) Section 123 (widows' and widowers' pensions) is amended as follows.
 
 (2) For the heading substitute “Widows', widowers' and surviving civil partners' pensions”.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3500591201cf3506d02c73c72bacb31f]: Commencement: Art. 23 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-3500591201cf3506d02c73c72bacb31f]: Commencement: Art. 23 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

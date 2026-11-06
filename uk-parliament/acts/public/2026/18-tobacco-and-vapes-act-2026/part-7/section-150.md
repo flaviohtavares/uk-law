@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Vape-free premises in Scotland[^key-86b02095e3586409b17a791fc3b33906]
+## 150. Vape-free premises in Scotland[^c-86b02095e3586409b17a791fc3b33906]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86b02095e3586409b17a791fc3b33906]: Commencement: S. 150 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)
+[^c-86b02095e3586409b17a791fc3b33906]: Commencement: S. 150 not in force at Royal Assent, see [s. 176(3)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/b)

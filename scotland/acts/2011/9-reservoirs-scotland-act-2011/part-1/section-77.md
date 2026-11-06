@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Emergency powers[^key-992c1460ad4a3009fac707cf91aff698]
+## 77. Emergency powers[^c-992c1460ad4a3009fac707cf91aff698]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-992c1460ad4a3009fac707cf91aff698]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2011/9/section/77) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-992c1460ad4a3009fac707cf91aff698]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2011/9/section/77) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

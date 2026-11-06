@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Application of the 1991 Act[^key-83d5b1fc615e4c34da9db9bbbfa0dd27]
+## 9. Application of the 1991 Act[^c-83d5b1fc615e4c34da9db9bbbfa0dd27]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-83d5b1fc615e4c34da9db9bbbfa0dd27]: Commencement: Art. 9 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-83d5b1fc615e4c34da9db9bbbfa0dd27]: Commencement: Art. 9 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00017]: Footnote: As amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Extent[^key-f7a290a4801e913c6b2233700dc7866f]
+## 146. Extent[^c-f7a290a4801e913c6b2233700dc7866f]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7a290a4801e913c6b2233700dc7866f]: Commencement: S. 146 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-f7a290a4801e913c6b2233700dc7866f]: Commencement: S. 146 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

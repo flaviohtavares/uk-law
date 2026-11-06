@@ -172,7 +172,7 @@ The notification of production and markets required pursuant to the notification
 
 2. Member States shall notify the Commission of any important new information likely to alter substantially information already notified.
 
-3. Member States shall take the necessary measures to ensure that the economic operators concerned provide them with the information required within the appropriate time limits. Economic operators must provide the relevant authorities with such information at their disposal and specified in Annexes I, II or III as the relevant authorities request. The relevant authorities may specify the manner in which, and the period within which, such information is to be provided. If no such period is specified, the information must be provided within a reasonable time.[^key-79c7c5fc40a9e031a97857af64a1e815]
+3. Member States shall take the necessary measures to ensure that the economic operators concerned provide them with the information required within the appropriate time limits. Economic operators must provide the relevant authorities with such information at their disposal and specified in Annexes I, II or III as the relevant authorities request. The relevant authorities may specify the manner in which, and the period within which, such information is to be provided. If no such period is specified, the information must be provided within a reasonable time.[^c-79c7c5fc40a9e031a97857af64a1e815]
 
 #### Article 8. Additional information
 
@@ -256,7 +256,7 @@ The following Regulations are repealed:
 - Regulation (EC) No 1557/2006,
 - Implementing Regulation (EU) No 1288/2011.
 
-### Article 16a. Definitions[^key-30831fc2718c068f786f95ef71889d1f]
+### Article 16a. Definitions[^c-30831fc2718c068f786f95ef71889d1f]
 
 In this Regulation:
 
@@ -273,7 +273,7 @@ This Regulation shall enter into force on the seventh day following that of its 
 
 Point 1 of Annex II and point 2 of Annex III shall apply as from 1 October 2017.
 
-[^key-a289c9d9ed2dd9045f168ca1589456cf]...
+[^c-a289c9d9ed2dd9045f168ca1589456cf]...
 
 Done at Brussels, 20 April 2017.
 
@@ -283,13 +283,13 @@ Done at Brussels, 20 April 2017.
 
 Jean-Claude Juncker
 
-## ANNEX I — Requirements relating to weekly price information[^key-37abc9f671859fc0dba56c3aa899355e]
+## ANNEX I — Requirements relating to weekly price information[^c-37abc9f671859fc0dba56c3aa899355e]
 
 1\.
 
 **Cereals**
 
-*Information[^key-bf4a1b511bd875888f57c9b12d75c634]:* representative market prices for each of the cereals and the cereal qualities considered relevant for the market in the United Kingdom[^key-327e6f6aa60f7ea0988d382a55ff3c70], expressed per tonne of product.
+*Information[^c-bf4a1b511bd875888f57c9b12d75c634]:* representative market prices for each of the cereals and the cereal qualities considered relevant for the market in the United Kingdom[^c-327e6f6aa60f7ea0988d382a55ff3c70], expressed per tonne of product.
 
 *Member States concerned:* all Member States.
 
@@ -297,17 +297,17 @@ Jean-Claude Juncker
 
 2\.
 
-**[^key-59af38907d1360776c63c9ea86b07678]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .**
+**[^c-59af38907d1360776c63c9ea86b07678]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .**
 
 3\.
 
-**[^key-e4ab6a5e60b6fe3ed233de0dfb2ed3cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .**
+**[^c-e4ab6a5e60b6fe3ed233de0dfb2ed3cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .**
 
 4\.
 
 **Fruit and vegetables**
 
-*Information:* a single weighted average price for the types and varieties of fruit and vegetables listed in Annex VI of Regulation (EU) 2017/891[^key-4d2067c56e9d4551c4d6baa7c495b04b] meeting the general marketing standard set out in Part A of Annex I to Implementing Regulation (EU) No 543/2011[^key-0ebeaccb27083b54b77c268f14c2ac0f] or for Class I for products covered by a specific marketing standard, expressed per 100 kg net weight of product.
+*Information:* a single weighted average price for the types and varieties of fruit and vegetables listed in Annex VI of Regulation (EU) 2017/891[^c-4d2067c56e9d4551c4d6baa7c495b04b] meeting the general marketing standard set out in Part A of Annex I to Implementing Regulation (EU) No 543/2011[^c-0ebeaccb27083b54b77c268f14c2ac0f] or for Class I for products covered by a specific marketing standard, expressed per 100 kg net weight of product.
 
 *Member States concerned:* Member States as specified in Annex XV to Implementing Regulation (EU) No 543/2011, when data are available.
 
@@ -327,7 +327,7 @@ Jean-Claude Juncker
 
 **Meat**
 
-*Information:* prices for beef, pig and sheep carcasses and certain live cattle, calves and piglets as regards the classification of beef, pig and sheep carcasses and the reporting of market prices in accordance with legislation made[^key-2223030242ad26fe3415dcc84d6fb33d] under Regulation (EU) No 1308/2013.
+*Information:* prices for beef, pig and sheep carcasses and certain live cattle, calves and piglets as regards the classification of beef, pig and sheep carcasses and the reporting of market prices in accordance with legislation made[^c-2223030242ad26fe3415dcc84d6fb33d] under Regulation (EU) No 1308/2013.
 
 *Member States concerned:* all Member States.
 
@@ -341,7 +341,7 @@ Jean-Claude Juncker
 
 *Member States concerned:* Member States whose national production represents 2 % or more of Union production; or, in the case of commodity cheeses, where the cheese type represents 4 % or more of the total national cheese production.
 
-*Other:* prices shall be provided[^key-5d66740a01a02ebfd50188e33172fb1a] for products purchased from the manufacturer, excluding any other cost (transport, loading, handling, storage, pallets, insurance, etc.) based on contracts concluded for deliveries within three months.
+*Other:* prices shall be provided[^c-5d66740a01a02ebfd50188e33172fb1a] for products purchased from the manufacturer, excluding any other cost (transport, loading, handling, storage, pallets, insurance, etc.) based on contracts concluded for deliveries within three months.
 
 8\.
 
@@ -351,7 +351,7 @@ Jean-Claude Juncker
 
 *Member States concerned:* all Member States.
 
-*Other:* prices shall be provided[^key-7e92f330daf4d942e36f8bf4a0ce346f] for products in packing stations. Where the production in cages is no longer representative, the information must contain[^key-9bf95a6379f42ec758ec9a9e8c4d4420] the wholesale price of Class A eggs, produced by laying hens kept in barn systems, expressed per 100 kg.
+*Other:* prices shall be provided[^c-7e92f330daf4d942e36f8bf4a0ce346f] for products in packing stations. Where the production in cages is no longer representative, the information must contain[^c-9bf95a6379f42ec758ec9a9e8c4d4420] the wholesale price of Class A eggs, produced by laying hens kept in barn systems, expressed per 100 kg.
 
 9\.
 
@@ -361,15 +361,15 @@ Jean-Claude Juncker
 
 *Member States concerned:* all Member States.
 
-*Other:* prices shall be provided[^key-e7e8adab48e3d60ab544388e8a53b5a4] for products in slaughter plants or recorded on representative markets. Where another chicken presentation or specific cuts of chicken are important in terms of the market structure of the constituent nation concerned[^key-6cbe9d2a829d5289f1153d97e2b2c5eb], the information may contain[^key-e649bef618fdff14e430d8977f9d88a0], in addition to the average wholesale price for whole Class A chickens (‘65 % chickens’), the wholesale price of a different chicken presentation or cuts of Class A quality, specifying the type of presentation or cuts to which the price refers, expressed per 100 kg.
+*Other:* prices shall be provided[^c-e7e8adab48e3d60ab544388e8a53b5a4] for products in slaughter plants or recorded on representative markets. Where another chicken presentation or specific cuts of chicken are important in terms of the market structure of the constituent nation concerned[^c-6cbe9d2a829d5289f1153d97e2b2c5eb], the information may contain[^c-e649bef618fdff14e430d8977f9d88a0], in addition to the average wholesale price for whole Class A chickens (‘65 % chickens’), the wholesale price of a different chicken presentation or cuts of Class A quality, specifying the type of presentation or cuts to which the price refers, expressed per 100 kg.
 
-## ANNEX II — Requirements relating to non-weekly price information[^key-721fd2e05a0efb6a5e670664dcadc5cb]
+## ANNEX II — Requirements relating to non-weekly price information[^c-721fd2e05a0efb6a5e670664dcadc5cb]
 
 1\.
 
 **Sugar**
 
-*Information[^key-706f3290e113711ea58664decef89864]*
+*Information[^c-706f3290e113711ea58664decef89864]*
 
 - ((a)) the weighted averages of the following sugar prices, expressed per tonne of sugar, as well as the total corresponding quantities and the weighted standard deviations:
   - ((i)) for the previous month, the selling price;
@@ -409,14 +409,14 @@ Prices shall be established in line with the methodology published by the Commis
 
 *Information:* in relation to the wines referred to in point 1 of Part II of Annex VII to Regulation (EU) No 1308/2013:
 
-- ((a)) a summary of the prices for the previous month expressed per hectolitre of wine with reference to the volumes concerned .[^key-0a622a93efae32726fc4b79cafe09d8c]
-- ((b)) [^key-a3db4aa0ab2272eadc83c114c67fdd00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((a)) a summary of the prices for the previous month expressed per hectolitre of wine with reference to the volumes concerned .[^c-0a622a93efae32726fc4b79cafe09d8c]
+- ((b)) [^c-a3db4aa0ab2272eadc83c114c67fdd00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Member States concerned:* Member States whose wine production during the past five years on average exceeded 5 % of the total Union wine production.
 
 *Period of notification:* by 15th of each month in respect of the preceding month.
 
-*Other:* prices shall be for product unpacked ex-producer's premises. For the information referred to in point[^key-696f4f8dc1d13881ebab6743e9edbece] (a) [^key-22f0f07ea9e6787175a72dbaef963bfa]..., the relevant authority[^key-bbb42e1b90e451b38a9e8352f85c4350] shall make a selection of the eight most representative markets to be monitored, which shall include at least two for wines with protected designation of origin or protected geographical indication.
+*Other:* prices shall be for product unpacked ex-producer's premises. For the information referred to in point[^c-696f4f8dc1d13881ebab6743e9edbece] (a) [^c-22f0f07ea9e6787175a72dbaef963bfa]..., the relevant authority[^c-bbb42e1b90e451b38a9e8352f85c4350] shall make a selection of the eight most representative markets to be monitored, which shall include at least two for wines with protected designation of origin or protected geographical indication.
 
 4\.
 
@@ -432,7 +432,7 @@ Milk
 
 *Period of notification:* by the end of each month in respect of the preceding month.
 
-*Other:* the price shall be that paid by first purchasers established in the constituent nation concerned[^key-4625d3c1797df35ebc1b91fb3e69f403].
+*Other:* the price shall be that paid by first purchasers established in the constituent nation concerned[^c-4625d3c1797df35ebc1b91fb3e69f403].
 
 (b)
 
@@ -446,9 +446,9 @@ Milk products
 
 *Other:* the prices shall relate to cheese purchased from the manufacturer, excluding any other cost (transport, loading, handling, storage, pallets, insurance, etc.) based on contracts concluded for deliveries within three months.
 
-## ANNEX III — Requirements relating to production and market information ...[^key-76d1b694fc60de7999acab910818481c]
+## ANNEX III — Requirements relating to production and market information ...[^c-76d1b694fc60de7999acab910818481c]
 
-[^key-27bb8a10f959f93f6baf5f4a04db4edf]1.
+[^c-27bb8a10f959f93f6baf5f4a04db4edf]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -460,11 +460,11 @@ A.
 
 Beet areas
 
-*Information[^key-bd4595618d6aff1810a3d839743bf6e7]:* sugar beet area for the current marketing year and an estimate for the following marketing year.
+*Information[^c-bd4595618d6aff1810a3d839743bf6e7]:* sugar beet area for the current marketing year and an estimate for the following marketing year.
 
 *Period of notification:* by 31 May each year.
 
-[^key-0c92d1d114ea4379695bb5620a43ba2a]...
+[^c-0c92d1d114ea4379695bb5620a43ba2a]...
 
 *Other:* these figures shall be expressed in hectares and broken down by areas intended for production of sugar and those intended for production of bioethanol.
 
@@ -474,9 +474,9 @@ Sugar and bioethanol production
 
 *Information:* sugar production and bioethanol production by each undertaking in the previous marketing year and an estimate of sugar production by each undertaking for the current marketing year;
 
-*Period of notification:* by 30 November each year as regards the previous marketing year production and by 31 March each year [^key-535c8e3baedc31392e3d381eed60861b]... as regards the current marketing year production.
+*Period of notification:* by 30 November each year as regards the previous marketing year production and by 31 March each year [^c-535c8e3baedc31392e3d381eed60861b]... as regards the current marketing year production.
 
-[^key-8ed5b7795d76d7b59d691e48a4068a82]...
+[^c-8ed5b7795d76d7b59d691e48a4068a82]...
 
 *Other*
 
@@ -491,35 +491,35 @@ Sugar and bioethanol production
 - ((d)) the figures for sugar shall be broken down by month and, with regard to the current marketing year, shall correspond to provisional figures until the month of February and to estimates for the remaining months of the marketing year.
 - ((e)) bioethanol production shall only include bioethanol obtained from any of the products referred to in point (a) and shall be expressed in hectolitres.
 
-[^key-c2815ca5e118d3ae9bc8fcfec6054090]C.
+[^c-c2815ca5e118d3ae9bc8fcfec6054090]C.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 D.
 
-Sugar [^key-15424e3bcaa9aae289a7ea91b04826bc]... stocks
+Sugar [^c-15424e3bcaa9aae289a7ea91b04826bc]... stocks
 
 *Information*
 
 - ((a)) quantities of sugar production stored at the end of each month by sugar undertakings and refiners;
-- ((b)) [^key-5db898eb80ee491eefec3250ec80dcb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((b)) [^c-5db898eb80ee491eefec3250ec80dcb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Period of notification:* by the end of each month in respect of the preceding month in question [^key-26641db4281101e89115a5ba3b917030]....
+*Period of notification:* by the end of each month in respect of the preceding month in question [^c-26641db4281101e89115a5ba3b917030]....
 
 *Member States concerned*
 
 - ((a)) for sugar, all Member States where sugar undertakings or refiners are located and production of sugar exceeds 10 000 tonnes;
-- ((b)) [^key-5db898eb80ee491eefec3250ec80dcb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((b)) [^c-5db898eb80ee491eefec3250ec80dcb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Other:* the figures shall refer to products stored in free circulation in the United Kingdom and to sugar production as defined in point B[^key-3708156c896ac9b50d216cef39da4622].
+*Other:* the figures shall refer to products stored in free circulation in the United Kingdom and to sugar production as defined in point B[^c-3708156c896ac9b50d216cef39da4622].
 
 With regard to sugar:
 
 - the figures shall refer to quantities owned by the undertaking or the refiner or covered by a warrant,
 - the figures shall specify, for the quantities in storage at the end of the months of July, August and September, the quantity which comes from the production of sugar under the following marketing year,
-- [^key-3c3e6f9f9c48654519a6d167fa8f3a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-3c3e6f9f9c48654519a6d167fa8f3a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5eae28771704276ca4876fa7d02c9c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5eae28771704276ca4876fa7d02c9c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3\.
 
@@ -529,20 +529,20 @@ With regard to sugar:
 
 - ((a)) the fibre flax area for the current marketing year and the estimate for the next marketing year, expressed in hectares;
 - ((b)) the production of long flax fibres for the previous marketing year and an estimate for the current marketing year, expressed in tonnes;
-- ((c)) [^key-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- ((d)) [^key-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- ((e)) [^key-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((c)) [^c-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((d)) [^c-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- ((e)) [^c-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Period of notification*
 
 - for fibre flax area, by 31 July each year;
 - for production of long flax fibres, by 31 October each year;
-- [^key-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Member States concerned*
 
 - for flax, all Member States where long flax fibres are produced from a planted area exceeding 1 000 ha of fibre flax;
-- [^key-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-856c08ae4a04fceeaf3256c1c6c5a2a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4\.
 
@@ -559,15 +559,15 @@ With regard to sugar:
 
 *Member States concerned:* Member States with a planted area of more than 200 hectares of hops in the previous year.
 
-[^key-088a1e7e41faaabc7dbd33f53d601838]5.
+[^c-088a1e7e41faaabc7dbd33f53d601838]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-088a1e7e41faaabc7dbd33f53d601838]6.
+[^c-088a1e7e41faaabc7dbd33f53d601838]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-088a1e7e41faaabc7dbd33f53d601838]7.
+[^c-088a1e7e41faaabc7dbd33f53d601838]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -577,9 +577,9 @@ With regard to sugar:
 
 *Information*
 
-- ((a)) estimates of the production of wine products (including vinified and non-vinified grape must) in the constituent nation concerned[^key-e4ca437664322b2eba2b18676112d428] during the current wine year;
-- ((b)) the definitive result of the production declarations referred to in Article 31 of Regulation (EU) No 2018/273[^key-1b1ed46382b827ae1c0ef50c5e35b7e9], as well as an estimate of the production not covered by such declarations;
-- ((c)) a summary of the stock declarations referred to in Article 32 of Regulation (EU) No 2018/273[^key-1c2d1d42f6b84626210b3855cc50d0ac], held at 31 July of the previous wine year;
+- ((a)) estimates of the production of wine products (including vinified and non-vinified grape must) in the constituent nation concerned[^c-e4ca437664322b2eba2b18676112d428] during the current wine year;
+- ((b)) the definitive result of the production declarations referred to in Article 31 of Regulation (EU) No 2018/273[^c-1b1ed46382b827ae1c0ef50c5e35b7e9], as well as an estimate of the production not covered by such declarations;
+- ((c)) a summary of the stock declarations referred to in Article 32 of Regulation (EU) No 2018/273[^c-1c2d1d42f6b84626210b3855cc50d0ac], held at 31 July of the previous wine year;
 - ((d)) the final balance sheet of the previous wine year including full information on availabilities (opening stocks, production, imports), uses (human and industrial consumption, transformation, exports and losses) and final stocks.
 
 *Period of notification*
@@ -601,7 +601,7 @@ With regard to sugar:
 
 *Member States concerned:* all Member States.
 
-*Other*: the quantities refer to milk delivered in the preceding month to first purchasers established in the constituent nation concerned[^key-4ab839420bf509e5b407dd8c3f0137b9]. The relevant authorities[^key-61d7fd274fa9dec79679c0e2e36ded7c] shall ensure that all first purchasers established in their territory declare [^key-3a333661d39094b9055c1d97031e7ca4]... the quantity of cow's raw milk that has been delivered to them each month in a timely and accurate manner [^key-89d934f2377ccbbfea44820f9d90c2aa]....
+*Other*: the quantities refer to milk delivered in the preceding month to first purchasers established in the constituent nation concerned[^c-4ab839420bf509e5b407dd8c3f0137b9]. The relevant authorities[^c-61d7fd274fa9dec79679c0e2e36ded7c] shall ensure that all first purchasers established in their territory declare [^c-3a333661d39094b9055c1d97031e7ca4]... the quantity of cow's raw milk that has been delivered to them each month in a timely and accurate manner [^c-89d934f2377ccbbfea44820f9d90c2aa]....
 
 10\.
 
@@ -684,96 +684,96 @@ With regard to sugar:
 
 [^f00028]: Footnote: Uruguay Round of Multilateral Trade Negotiations (1986- 1994) — Annex 1 — Annex 1A — Agreement on Agriculture (WTO-GATT 1994) WTO-‘GATT 1994’ ([OJ L 336, 23.12.1994, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1994.336.01.0022.01.ENG)).
 
-[^key-79c7c5fc40a9e031a97857af64a1e815]: Textual amendment: Words in Art. 7(3) substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/2), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-79c7c5fc40a9e031a97857af64a1e815]: Textual amendment: Words in Art. 7(3) substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/2), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-30831fc2718c068f786f95ef71889d1f]: Textual amendment: Art. 16a inserted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/3), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-30831fc2718c068f786f95ef71889d1f]: Textual amendment: Art. 16a inserted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/3), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-a289c9d9ed2dd9045f168ca1589456cf]: Textual amendment: Words in Signature omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/4), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-a289c9d9ed2dd9045f168ca1589456cf]: Textual amendment: Words in Signature omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/4), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-37abc9f671859fc0dba56c3aa899355e]: Textual amendment: Word in Annex 1 heading substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-37abc9f671859fc0dba56c3aa899355e]: Textual amendment: Word in Annex 1 heading substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-bf4a1b511bd875888f57c9b12d75c634]: Textual amendment: Word in Annex 1 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-bf4a1b511bd875888f57c9b12d75c634]: Textual amendment: Word in Annex 1 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-327e6f6aa60f7ea0988d382a55ff3c70]: Textual amendment: Words in Annex 1 Section 1 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(c)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/c), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-327e6f6aa60f7ea0988d382a55ff3c70]: Textual amendment: Words in Annex 1 Section 1 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(c)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/c), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-59af38907d1360776c63c9ea86b07678]: Textual amendment: Annex 1 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-59af38907d1360776c63c9ea86b07678]: Textual amendment: Annex 1 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-e4ab6a5e60b6fe3ed233de0dfb2ed3cc]: Textual amendment: Annex 1 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-e4ab6a5e60b6fe3ed233de0dfb2ed3cc]: Textual amendment: Annex 1 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-4d2067c56e9d4551c4d6baa7c495b04b]: Textual amendment: Words in Annex 1 Section 4 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(e)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/e/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-4d2067c56e9d4551c4d6baa7c495b04b]: Textual amendment: Words in Annex 1 Section 4 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(e)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/e/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-0ebeaccb27083b54b77c268f14c2ac0f]: Textual amendment: Words in Annex 1 Section 4 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/e/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-0ebeaccb27083b54b77c268f14c2ac0f]: Textual amendment: Words in Annex 1 Section 4 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/e/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-2223030242ad26fe3415dcc84d6fb33d]: Textual amendment: Words in Annex 1 Section 6 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(f)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/f), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-2223030242ad26fe3415dcc84d6fb33d]: Textual amendment: Words in Annex 1 Section 6 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(f)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/f), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-5d66740a01a02ebfd50188e33172fb1a]: Textual amendment: Word in Annex 1 Section 7 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(g)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/g), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-5d66740a01a02ebfd50188e33172fb1a]: Textual amendment: Word in Annex 1 Section 7 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(g)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/g), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-7e92f330daf4d942e36f8bf4a0ce346f]: Textual amendment: Word in Annex 1 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(h)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/h/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-7e92f330daf4d942e36f8bf4a0ce346f]: Textual amendment: Word in Annex 1 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(h)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/h/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-9bf95a6379f42ec758ec9a9e8c4d4420]: Textual amendment: Words in Annex 1 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(h)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/h/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-9bf95a6379f42ec758ec9a9e8c4d4420]: Textual amendment: Words in Annex 1 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(h)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/h/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-e7e8adab48e3d60ab544388e8a53b5a4]: Textual amendment: Word in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-e7e8adab48e3d60ab544388e8a53b5a4]: Textual amendment: Word in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-6cbe9d2a829d5289f1153d97e2b2c5eb]: Textual amendment: Words in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-6cbe9d2a829d5289f1153d97e2b2c5eb]: Textual amendment: Words in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-e649bef618fdff14e430d8977f9d88a0]: Textual amendment: Words in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/cc), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-e649bef618fdff14e430d8977f9d88a0]: Textual amendment: Words in Annex 1 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(5)(i)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/5/i/cc), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-721fd2e05a0efb6a5e670664dcadc5cb]: Textual amendment: Words in Annex 2 heading substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-721fd2e05a0efb6a5e670664dcadc5cb]: Textual amendment: Words in Annex 2 heading substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-706f3290e113711ea58664decef89864]: Textual amendment: Words in Annex 2 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-706f3290e113711ea58664decef89864]: Textual amendment: Words in Annex 2 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-0a622a93efae32726fc4b79cafe09d8c]: Textual amendment: Full stop in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/i/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-0a622a93efae32726fc4b79cafe09d8c]: Textual amendment: Full stop in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/i/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-a3db4aa0ab2272eadc83c114c67fdd00]: Textual amendment: Words in Annex 2 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/i/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-a3db4aa0ab2272eadc83c114c67fdd00]: Textual amendment: Words in Annex 2 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/i/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-696f4f8dc1d13881ebab6743e9edbece]: Textual amendment: Word in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-696f4f8dc1d13881ebab6743e9edbece]: Textual amendment: Word in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-22f0f07ea9e6787175a72dbaef963bfa]: Textual amendment: Words in Annex 2 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-22f0f07ea9e6787175a72dbaef963bfa]: Textual amendment: Words in Annex 2 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-bbb42e1b90e451b38a9e8352f85c4350]: Textual amendment: Words in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/cc), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-bbb42e1b90e451b38a9e8352f85c4350]: Textual amendment: Words in Annex 2 Section 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/c/ii/cc), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-4625d3c1797df35ebc1b91fb3e69f403]: Textual amendment: Words in Annex 2 Section 4(a) substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-4625d3c1797df35ebc1b91fb3e69f403]: Textual amendment: Words in Annex 2 Section 4(a) substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(6)(d)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/6/d), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-76d1b694fc60de7999acab910818481c]: Textual amendment: Words in Annex 3 heading omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-76d1b694fc60de7999acab910818481c]: Textual amendment: Words in Annex 3 heading omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/a), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-27bb8a10f959f93f6baf5f4a04db4edf]: Textual amendment: Annex 3 Section 1 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(c)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/c), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-27bb8a10f959f93f6baf5f4a04db4edf]: Textual amendment: Annex 3 Section 1 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(c)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/c), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-bd4595618d6aff1810a3d839743bf6e7]: Textual amendment: Words in Annex 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-bd4595618d6aff1810a3d839743bf6e7]: Textual amendment: Words in Annex 3 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/b), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-0c92d1d114ea4379695bb5620a43ba2a]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-0c92d1d114ea4379695bb5620a43ba2a]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-535c8e3baedc31392e3d381eed60861b]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/ii/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-535c8e3baedc31392e3d381eed60861b]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/ii/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-8ed5b7795d76d7b59d691e48a4068a82]: Textual amendment: Word in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/ii/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-8ed5b7795d76d7b59d691e48a4068a82]: Textual amendment: Word in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/ii/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-c2815ca5e118d3ae9bc8fcfec6054090]: Textual amendment: Annex 3 Section 2(C) omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-c2815ca5e118d3ae9bc8fcfec6054090]: Textual amendment: Annex 3 Section 2(C) omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-15424e3bcaa9aae289a7ea91b04826bc]: Textual amendment: Words in Annex 3 Section 2 heading omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-15424e3bcaa9aae289a7ea91b04826bc]: Textual amendment: Words in Annex 3 Section 2 heading omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/aa), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-5db898eb80ee491eefec3250ec80dcb7]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-5db898eb80ee491eefec3250ec80dcb7]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/bb), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-26641db4281101e89115a5ba3b917030]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/cc)
+[^c-26641db4281101e89115a5ba3b917030]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(cc)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/cc)
 
-[^key-3708156c896ac9b50d216cef39da4622]: Textual amendment: Words in Annex 3 Section 2 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(dd)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/dd), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-3708156c896ac9b50d216cef39da4622]: Textual amendment: Words in Annex 3 Section 2 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(dd)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/dd), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-3c3e6f9f9c48654519a6d167fa8f3a04]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(ee)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/ee), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-3c3e6f9f9c48654519a6d167fa8f3a04]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(ee)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/ee), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-5eae28771704276ca4876fa7d02c9c93]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(ff)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/ff), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-5eae28771704276ca4876fa7d02c9c93]: Textual amendment: Words in Annex 3 Section 2 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(d)(iv)(ff)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/d/iv/ff), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-856c08ae4a04fceeaf3256c1c6c5a2a9]: Textual amendment: Words in Annex 3 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(e)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/e), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-856c08ae4a04fceeaf3256c1c6c5a2a9]: Textual amendment: Words in Annex 3 Section 3 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(e)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/e), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-088a1e7e41faaabc7dbd33f53d601838]: Textual amendment: Annex 3 Section s 5-7 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(f)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/f), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-088a1e7e41faaabc7dbd33f53d601838]: Textual amendment: Annex 3 Section s 5-7 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(f)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/f), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-e4ca437664322b2eba2b18676112d428]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-e4ca437664322b2eba2b18676112d428]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-1b1ed46382b827ae1c0ef50c5e35b7e9]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-1b1ed46382b827ae1c0ef50c5e35b7e9]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-1c2d1d42f6b84626210b3855cc50d0ac]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-1c2d1d42f6b84626210b3855cc50d0ac]: Textual amendment: Words in Annex 3 Section 8 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(g)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/g/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-4ab839420bf509e5b407dd8c3f0137b9]: Textual amendment: Words in Annex 3 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-4ab839420bf509e5b407dd8c3f0137b9]: Textual amendment: Words in Annex 3 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(i)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/i), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-61d7fd274fa9dec79679c0e2e36ded7c]: Textual amendment: Words in Annex 3 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-61d7fd274fa9dec79679c0e2e36ded7c]: Textual amendment: Words in Annex 3 Section 9 substituted (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(ii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/ii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-3a333661d39094b9055c1d97031e7ca4]: Textual amendment: Words in Annex 3 Section 9 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-3a333661d39094b9055c1d97031e7ca4]: Textual amendment: Words in Annex 3 Section 9 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(iii)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/iii), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
 
-[^key-89d934f2377ccbbfea44820f9d90c2aa]: Textual amendment: Words in Annex 3 Section 9 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(iv)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/iv), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)
+[^c-89d934f2377ccbbfea44820f9d90c2aa]: Textual amendment: Words in Annex 3 Section 9 omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [6(7)(h)(iv)](https://www.legislation.gov.uk/uksi/2021/756/regulation/6/7/h/iv), [7](https://www.legislation.gov.uk/uksi/2021/756/regulation/7)

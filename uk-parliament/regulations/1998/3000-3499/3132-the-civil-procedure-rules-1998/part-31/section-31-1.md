@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.1. Scope of this Part[^key-687b061775b33b2842ab98d8428a9c39]
+## 31.1. Scope of this Part[^c-687b061775b33b2842ab98d8428a9c39]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-687b061775b33b2842ab98d8428a9c39]: Commencement: [Rule 31.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-687b061775b33b2842ab98d8428a9c39]: Commencement: [Rule 31.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

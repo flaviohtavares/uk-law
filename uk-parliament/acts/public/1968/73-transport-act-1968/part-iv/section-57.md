@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Grants for research or development in connection with transport services, etc.[^key-7ae994116dd400feea930b82cc6871de]
+## 57. Grants for research or development in connection with transport services, etc.[^c-7ae994116dd400feea930b82cc6871de]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Minister shall have power with the approval of the Treasury to make grants u
 
 ## Annotations
 
-[^key-7ae994116dd400feea930b82cc6871de]: Modification: S. 57: functions made exercisable concurrently or jointly with the Welsh Ministers (1.4.2018) by [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 1](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/1) (as inserted by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-7ae994116dd400feea930b82cc6871de]: Modification: S. 57: functions made exercisable concurrently or jointly with the Welsh Ministers (1.4.2018) by [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 1](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/1) (as inserted by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))

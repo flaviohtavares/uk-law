@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Overview of Part 3[^key-f4d6424bfea53fd0abb71bfe9f173608]
+## 6. Overview of Part 3[^c-f4d6424bfea53fd0abb71bfe9f173608]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4d6424bfea53fd0abb71bfe9f173608]: Commencement: S. 6 in force at Royal Assent, see [s. 240(4)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/b)
+[^c-f4d6424bfea53fd0abb71bfe9f173608]: Commencement: S. 6 in force at Royal Assent, see [s. 240(4)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/b)

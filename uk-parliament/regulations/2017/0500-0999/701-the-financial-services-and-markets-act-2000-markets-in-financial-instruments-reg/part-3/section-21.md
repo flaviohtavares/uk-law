@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Position limits affecting multiple EEA jurisdictions[^key-d168e8a2ca6fcfac57699264f0507276]
+## 21. Position limits affecting multiple EEA jurisdictions[^c-d168e8a2ca6fcfac57699264f0507276]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d168e8a2ca6fcfac57699264f0507276]: Textual amendment: Regs. 20-22 omitted (31.12.2020) by virtue of [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [8(12)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/8/12) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d168e8a2ca6fcfac57699264f0507276]: Textual amendment: Regs. 20-22 omitted (31.12.2020) by virtue of [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [8(12)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/8/12) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

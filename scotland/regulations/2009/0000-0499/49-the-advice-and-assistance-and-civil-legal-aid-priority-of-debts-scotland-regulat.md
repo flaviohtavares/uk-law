@@ -32,7 +32,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2009 (revoked)[^key-a0661c88ea50d6567f1058a29809209d]
+The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2009 (revoked)[^c-a0661c88ea50d6567f1058a29809209d]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 7th April 2009
 
-[^key-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a0661c88ea50d6567f1058a29809209d]
+## 1. Citation and commencement[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-a0661c88ea50d6567f1058a29809209d]
+## 2. Application[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-a0661c88ea50d6567f1058a29809209d]
+## 3. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-a0661c88ea50d6567f1058a29809209d]
+## 4. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-a0661c88ea50d6567f1058a29809209d]
+## 5. Revocations[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-a0661c88ea50d6567f1058a29809209d]
+## 6.[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-a0661c88ea50d6567f1058a29809209d]
+## SCHEDULE — Revocations[^c-a0661c88ea50d6567f1058a29809209d]
 
 Regulations 5 and 6
 
-### PART 1 — Revocation of Regulations relating to Advice and Assistance[^key-a0661c88ea50d6567f1058a29809209d]
+### PART 1 — Revocation of Regulations relating to Advice and Assistance[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Revocation of Regulations relating to Civil Legal Aid[^key-a0661c88ea50d6567f1058a29809209d]
+### PART 2 — Revocation of Regulations relating to Civil Legal Aid[^c-a0661c88ea50d6567f1058a29809209d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0661c88ea50d6567f1058a29809209d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0661c88ea50d6567f1058a29809209d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/49) revoked (12.4.2010) by [The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2010 (S.S.I. 2010/57)](https://www.legislation.gov.uk/ssi/2010/57), [regs. 1](https://www.legislation.gov.uk/ssi/2010/57/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2010/57/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/ssi/2010/57/regulation/5/2))
+[^c-a0661c88ea50d6567f1058a29809209d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/49) revoked (12.4.2010) by [The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2010 (S.S.I. 2010/57)](https://www.legislation.gov.uk/ssi/2010/57), [regs. 1](https://www.legislation.gov.uk/ssi/2010/57/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2010/57/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/ssi/2010/57/regulation/5/2))

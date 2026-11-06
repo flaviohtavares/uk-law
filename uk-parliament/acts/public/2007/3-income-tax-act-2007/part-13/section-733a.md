@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 733A. Settlor liable for section 731 charge on closely-related beneficiary[^key-8e08e1ed40ed588b45cd4b6498a3cf20]
+## 733A. Settlor liable for section 731 charge on closely-related beneficiary[^c-8e08e1ed40ed588b45cd4b6498a3cf20]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e08e1ed40ed588b45cd4b6498a3cf20]: Textual amendment: [Ss. 733A-733E](https://www.legislation.gov.uk/ukpga/2007/3/section/733A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 41](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/41), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-8e08e1ed40ed588b45cd4b6498a3cf20]: Textual amendment: [Ss. 733A-733E](https://www.legislation.gov.uk/ukpga/2007/3/section/733A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 41](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/41), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

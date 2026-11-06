@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Police regulations: direction to Authority[^key-a5bb8ace6eb0ac6e7bd611098fbbb3c1]
+## 41. Police regulations: direction to Authority[^c-a5bb8ace6eb0ac6e7bd611098fbbb3c1]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The Secretary of State may direct the Authority to—
 
 ## Annotations
 
-[^key-a5bb8ace6eb0ac6e7bd611098fbbb3c1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/20/section/41) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/x)
+[^c-a5bb8ace6eb0ac6e7bd611098fbbb3c1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/20/section/41) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/x)

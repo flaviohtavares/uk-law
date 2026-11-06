@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Survivor’s guaranteed minimum pensions[^key-85fb209538a76cb5a38c08353a052198]
+## 92. Survivor’s guaranteed minimum pensions[^c-85fb209538a76cb5a38c08353a052198]
 
 *Extent: E+W*
 
@@ -41,15 +41,15 @@ summary: ''
 
 - (a) that is forfeited—
   - (i) as a result of a conviction for treason, or
-  - (ii) in a case where the relevant offence under regulation 181 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence”[^key-17735114ffbd4326119c4d9a4afcd024]...; or
+  - (ii) in a case where the relevant offence under regulation 181 (forfeiture: offences committed by members, surviving partners or eligible children) falls under paragraph (b) of the definition in that regulation of “relevant offence”[^c-17735114ffbd4326119c4d9a4afcd024]...; or
 - (b) where that pension is commuted under regulation 177 (commutation of small pensions) where the conditions in regulation 60 of the Occupational Pension Schemes (Contracting-out) Regulations 1996[^f00059] are met.
 
 ## Annotations
 
-[^key-85fb209538a76cb5a38c08353a052198]: Commencement: Reg. 92 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-85fb209538a76cb5a38c08353a052198]: Commencement: Reg. 92 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00058]: Footnote: Section 17 was amended by the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), Schedule 1, paragraph 39; the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 5, paragraph 1 and Schedule 9, Part 3; the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 284(2); the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 14(2); the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), Schedule 4, paragraphs 18 and 20; and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and [2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-17735114ffbd4326119c4d9a4afcd024]: Textual amendment: Words in [reg. 92(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/622/regulation/92/5/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 43(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/43/3)
+[^c-17735114ffbd4326119c4d9a4afcd024]: Textual amendment: Words in [reg. 92(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/622/regulation/92/5/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 43(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/43/3)
 
 [^f00059]: Footnote: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172). Regulation 60 was substituted by [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and amended by [S.I.2006/1337](https://www.legislation.gov.uk/uksi/2006/1337), [2009/2930](https://www.legislation.gov.uk/uksi/2009/2930) and [2010/499](https://www.legislation.gov.uk/uksi/2010/499).

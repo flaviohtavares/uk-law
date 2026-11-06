@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22.[^key-8c11f9b6225e486f7abb7877fc26aca7]
+## 22.[^c-8c11f9b6225e486f7abb7877fc26aca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c11f9b6225e486f7abb7877fc26aca7]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/976/article/22) ceases to have effect (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2595/article/3/4) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-8c11f9b6225e486f7abb7877fc26aca7]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/976/article/22) ceases to have effect (18.10.2012) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2595/article/3/4) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

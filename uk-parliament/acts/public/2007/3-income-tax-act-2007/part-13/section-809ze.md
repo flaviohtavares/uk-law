@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZE. Capital payment”, “relevant capital payment” etc[^key-1041fc81251c969f6adca9f56e0fce58]
+## 809ZE. Capital payment”, “relevant capital payment” etc[^c-1041fc81251c969f6adca9f56e0fce58]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ the capital payment is only “relevant” so far as it exceeds the amount that 
 
 ## Annotations
 
-[^key-1041fc81251c969f6adca9f56e0fce58]: Textual amendment: Ss. 809ZE , 809ZF inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 551](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/551) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1041fc81251c969f6adca9f56e0fce58]: Textual amendment: Ss. 809ZE , 809ZF inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 551](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/551) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

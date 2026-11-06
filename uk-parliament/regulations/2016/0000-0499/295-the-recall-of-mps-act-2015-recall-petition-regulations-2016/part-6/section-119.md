@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Other signing offences[^key-dbe599a07071dfa326c01c3d10679c5a]
+## 119. Other signing offences[^c-dbe599a07071dfa326c01c3d10679c5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) applies for the appointment of a proxy to sign a petition for them knowing that they or their prospective proxy is not entitled at any time during the signing period to sign the petition; or
 - (d) signs a petition in person or by post, as proxy for some other person, knowing the other person is not entitled to do so.
 
-(1A)[^key-684c5e9affd0291b2a52cbc7b759f13e] A person (“**P**”) is guilty of an offence if P applies for the appointment of a proxy to sign a petition for P—
+(1A)[^c-684c5e9affd0291b2a52cbc7b759f13e] A person (“**P**”) is guilty of an offence if P applies for the appointment of a proxy to sign a petition for P—
 
 - (a) where P knows that the person to be appointed is already appointed as proxy to sign that petition for four or more other persons;
 - (b) where—
@@ -46,7 +46,7 @@ summary: ''
 
 (3) A person is guilty of an offence if they sign a petition in person as proxy for an elector at which that person is entitled to sign by post as proxy for that elector.
 
-(4)[^key-519247935d75104a8296493833a02e33][^key-f7bf7a433e244bb83ad09242c448f956] A person (“**P**”) is guilty of an offence if P signs a petition as proxy—
+(4)[^c-519247935d75104a8296493833a02e33][^c-f7bf7a433e244bb83ad09242c448f956] A person (“**P**”) is guilty of an offence if P signs a petition as proxy—
 
 - (a) for more than four persons, or
 - (b) for more than two persons where P knows that more than two of those persons are registered in the register otherwise than in pursuance of an overseas elector’s declaration or as a service voter.
@@ -69,10 +69,10 @@ is also to be taken to have signed the petition.
 
 ## Annotations
 
-[^key-dbe599a07071dfa326c01c3d10679c5a]: Commencement: Reg. 119 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-dbe599a07071dfa326c01c3d10679c5a]: Commencement: Reg. 119 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-684c5e9affd0291b2a52cbc7b759f13e]: Textual amendment: Reg. 119(1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(16)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-684c5e9affd0291b2a52cbc7b759f13e]: Textual amendment: Reg. 119(1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(16)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
 
-[^key-519247935d75104a8296493833a02e33]: Modification: Reg. 119(4) excluded (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 34(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/1) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
+[^c-519247935d75104a8296493833a02e33]: Modification: Reg. 119(4) excluded (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 34(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/1) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
 
-[^key-f7bf7a433e244bb83ad09242c448f956]: Textual amendment: Reg. 119(4) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f), [19(16)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-f7bf7a433e244bb83ad09242c448f956]: Textual amendment: Reg. 119(4) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f), [19(16)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

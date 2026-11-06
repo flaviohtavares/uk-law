@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17104321] For the purposes of this Chapter a valuation obtained under Article 127(2)(b)[^key-2a3ebccff6af20d5154502d2ec589c58] is not binding until—
+(1)[^c17104321] For the purposes of this Chapter a valuation obtained under Article 127(2)(b)[^c-2a3ebccff6af20d5154502d2ec589c58] is not binding until—
 
 - (a) it is approved under Article 128,
 - (b) the period within which the approval may be reviewed by virtue of Chapter 6 has expired, and
@@ -45,6 +45,6 @@ summary: ''
 
 [^c17104321]: Textual amendment: mod. by SR 2005/91
 
-[^key-2a3ebccff6af20d5154502d2ec589c58]: Textual amendment: Word in [art. 129(1)](https://www.legislation.gov.uk/nisi/2005/255/article/129/1) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/8); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-2a3ebccff6af20d5154502d2ec589c58]: Textual amendment: Word in [art. 129(1)](https://www.legislation.gov.uk/nisi/2005/255/article/129/1) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/8); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
 [^c17104331]: Textual amendment: mod. by SR 2005/55

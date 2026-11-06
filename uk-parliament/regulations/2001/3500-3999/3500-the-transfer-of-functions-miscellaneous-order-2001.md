@@ -51,24 +51,24 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in pursuance of sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-## 1. Citation and commencement[^key-a05bcd17c161a7c7d3e90c4448e37a15]
+## 1. Citation and commencement[^c-a05bcd17c161a7c7d3e90c4448e37a15]
 
 (1) This Order may be cited as the Transfer of Functions (Miscellaneous) Order 2001.
 
 (2) This Order shall come into force on 26th November 2001.
 
-## 2. Interpretation[^key-4975c741cfda43b23fd7bc64bede9c0b]
+## 2. Interpretation[^c-4975c741cfda43b23fd7bc64bede9c0b]
 
 In this Order—
 
 - (a) “instrument”, without prejudice to the generality of that expression, includes in particular Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents, and
 - (b) a reference to a function of the Secretary of State includes a reference to a function of the Secretary of State for the Home Department and to anything which is required or authorised to be done in or by the office of that Secretary of State (whether by reference to “the Home Office”, “the Home Department” or otherwise).
 
-## 3. Transfer from Home Secretary to Lord Chancellor[^key-d514616b14f5212969314aabe51d4a4b]
+## 3. Transfer from Home Secretary to Lord Chancellor[^c-d514616b14f5212969314aabe51d4a4b]
 
 The functions listed in Schedule 1 to this Order are hereby transferred to the Lord Chancellor.
 
-## 4. Functions passing from Home Secretary to Lord Chancellor: supplemental[^key-3aa4479acd7dc6c4298510bad479d704]
+## 4. Functions passing from Home Secretary to Lord Chancellor: supplemental[^c-3aa4479acd7dc6c4298510bad479d704]
 
 (1) This article applies to a function which—
 
@@ -106,13 +106,13 @@ The functions listed in Schedule 1 to this Order are hereby transferred to the L
 
 (8) Any property right or liability to which the Secretary of State for the Home Department is entitled or subject immediately before the coming into force of this Order in connection with a function to which this article applies is hereby transferred to the Lord Chancellor.
 
-## 5. Transfer from Home Secretary to Secretary of State for Transport, Local Government and the Regions[^key-42f5d8addb31a239c1d3d3abb1cded17]
+## 5. Transfer from Home Secretary to Secretary of State for Transport, Local Government and the Regions[^c-42f5d8addb31a239c1d3d3abb1cded17]
 
 (1) The function of the Secretary of State for the Home Department under article 3 of the Fire Service College Trading Fund Order 1992[^f00004] (source of loans) is hereby transferred to the Secretary of State for Transport, Local Government and the Regions.
 
 (2) The function of the Secretary of State for the Home Department under section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000[^f00005] (membership of Speaker’s Committee) is hereby transferred to the Secretary of State for Transport, Local Government and the Regions.
 
-## 6. Functions passing from Home Secretary to other Secretaries of State: supplemental[^key-48732ccdf468c3212c04c8214b28e097]
+## 6. Functions passing from Home Secretary to other Secretaries of State: supplemental[^c-48732ccdf468c3212c04c8214b28e097]
 
 (1) This article applies to a function which—
 
@@ -159,11 +159,11 @@ The functions listed in Schedule 1 to this Order are hereby transferred to the L
 
 (9) Any property right or liability to which the Secretary of State for the Home Department is entitled or subject immediately before the coming into force of this Order in connection with a function to which this article applies is hereby transferred to the new Secretary of State.
 
-## 7. Plant Varieties and Seeds (Isle of Man) Order 1969[^key-47d2534c597431d2a9eba4d6bd7d7059]
+## 7. Plant Varieties and Seeds (Isle of Man) Order 1969[^c-47d2534c597431d2a9eba4d6bd7d7059]
 
 The functions which arise by virtue of paragraph 9 of the Schedule to the Plant Varieties and Seeds (Isle of Man) Order 1969[^f00010] (adaptation of Plant Varieties and Seeds Act 1964[^f00011] to Isle of Man: definition of “Ministers”) are hereby transferred to the Secretary of State for Environment, Food and Rural Affairs and the Lord Chancellor acting jointly.
 
-## 8. Consequential amendments[^key-dbc9b77a9b69c973cb907c046437ef03]
+## 8. Consequential amendments[^c-dbc9b77a9b69c973cb907c046437ef03]
 
 The enactments mentioned in Schedule 2 to this Order shall have effect with the amendments specified.
 
@@ -177,26 +177,26 @@ Article 3
 
 ### Ceremonial
 
-**1.**[^key-1ec50b064fa8fd729def4eb975bc583a] The function of the Secretary of State under section 2(4) of the Lieutenancies Act 1997[^f00012] (consent to appointment of deputy lieutenant).
+**1.**[^c-1ec50b064fa8fd729def4eb975bc583a] The function of the Secretary of State under section 2(4) of the Lieutenancies Act 1997[^f00012] (consent to appointment of deputy lieutenant).
 
-**2.**[^key-5d95742d7291fd921cd8b04296354f12] Functions of the Secretary of State for the Home Department under the Royal Warrant concerning the preparation and maintenance of the Official Roll of the Baronetage.
+**2.**[^c-5d95742d7291fd921cd8b04296354f12] Functions of the Secretary of State for the Home Department under the Royal Warrant concerning the preparation and maintenance of the Official Roll of the Baronetage.
 
 ### Channel Islands and Isle of Man
 
-**3.**[^key-05975ea6b893cea520b057bc2c58eb72] Functions of the Secretary of State under—
+**3.**[^c-05975ea6b893cea520b057bc2c58eb72] Functions of the Secretary of State under—
 
 - (a) the Schedule to the Channel Islands (Church Legislation) Measure 1931[^f00013];
 - (b) the Royal Assent to Legislation (Isle of Man) Order 1981;
 - (c) the Royal Assent to Sodor and Man Diocesan Synod Measures Order 1994.
 
-**4.**[^key-3f310e88acda1906ad5ca8fef905a4e0] Any function of the Secretary of State which—
+**4.**[^c-3f310e88acda1906ad5ca8fef905a4e0] Any function of the Secretary of State which—
 
 - (a) is conferred by Letters Patent or Royal Warrant, and
 - (b) reflects a relationship between the administration of any of the Channel Islands or of the Isle of Man and the Crown or a Minister of the Crown.
 
 ### Human rights
 
-**5.**[^key-323dc966b809a94e9846f2ba1744be45] Functions of the Secretary of State under the Human Rights Act 1998[^f00014] except for the powers under—
+**5.**[^c-323dc966b809a94e9846f2ba1744be45] Functions of the Secretary of State under the Human Rights Act 1998[^f00014] except for the powers under—
 
 - (a) section 2(3)(a) (interpretation of Convention: tribunal),
 - (b) section 7(9)(a) (proceedings),
@@ -205,37 +205,37 @@ Article 3
 
 ### Chartered associations
 
-**6.**[^key-7fa6547e71dc7d9a4d24ff0cf2500ff4] Functions of the Secretary of State under section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926[^f00015] (application for protection of name, uniform, &c. of chartered association).
+**6.**[^c-7fa6547e71dc7d9a4d24ff0cf2500ff4] Functions of the Secretary of State under section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926[^f00015] (application for protection of name, uniform, &c. of chartered association).
 
-**7.**[^key-843af8e06abbfee44abdbbcad03d0207] Any function which—
+**7.**[^c-843af8e06abbfee44abdbbcad03d0207] Any function which—
 
 - (a) is conferred on or entrusted to the Secretary of State for the Home Department, and
 - (b) arises under a charter which provides for the incorporation or establishment of an organisation or body.
 
 ### Appointments
 
-**8.**[^key-3aa2c5ea42529fb764be39fb16f2f3ea] The function of the Secretary of State for the Home Department of appointing a Conservator under section 12 of the Wimbledon and Putney Commons Act 1871[^f00016].
+**8.**[^c-3aa2c5ea42529fb764be39fb16f2f3ea] The function of the Secretary of State for the Home Department of appointing a Conservator under section 12 of the Wimbledon and Putney Commons Act 1871[^f00016].
 
 ### Ecclesiastical
 
-**9.**[^key-ec4eb16c2901d7035f4c9a161265e70a] The function of the Secretary of State for the Home Department under section 12(2) of the Church Commissioners Measure 1947[^f00017] (annual report and accounts).
+**9.**[^c-ec4eb16c2901d7035f4c9a161265e70a] The function of the Secretary of State for the Home Department under section 12(2) of the Church Commissioners Measure 1947[^f00017] (annual report and accounts).
 
 ### Marriage
 
-**10.**[^key-16e2091abb7c0c6255f94b6931ad70db] The functions of the Secretary of State under section 1 of the Provisional Order (Marriages) Act 1905[^f00018] (doubt about validity of marriage).
+**10.**[^c-16e2091abb7c0c6255f94b6931ad70db] The functions of the Secretary of State under section 1 of the Provisional Order (Marriages) Act 1905[^f00018] (doubt about validity of marriage).
 
 ### Access to information
 
-**11.**[^key-866d7c94d55896b028afe38ed2de41b0] The functions of the Secretary of State under the Data Protection Act 1998[^f00019] except for—
+**11.**[^c-866d7c94d55896b028afe38ed2de41b0] The functions of the Secretary of State under the Data Protection Act 1998[^f00019] except for—
 
 - (a) the function under section 6(4)(a) (chairman of Tribunal: consultation), and
 - (b) the duty under section 25(1) (which relates to the first set of notification regulations and is therefore spent).
 
-**12.**[^key-c9fca7a6e7e0f4d0ea6cabe240dbd6f2] The functions of the Secretary of State under the Freedom of Information Act 2000[^f00020] except for the power to make regulations under section 74 (Aarhus Convention on environmental matters).
+**12.**[^c-c9fca7a6e7e0f4d0ea6cabe240dbd6f2] The functions of the Secretary of State under the Freedom of Information Act 2000[^f00020] except for the power to make regulations under section 74 (Aarhus Convention on environmental matters).
 
 ### Buildings and structures in London
 
-**13.**[^key-cbee36bcec1098fad8b336fcdad551d8] Functions of the Secretary of State under the London Building Acts (Amendment) Act 1939[^f00021].
+**13.**[^c-cbee36bcec1098fad8b336fcdad551d8] Functions of the Secretary of State under the London Building Acts (Amendment) Act 1939[^f00021].
 
 ## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
 
@@ -245,22 +245,22 @@ Article 8
 
 #### [The Wimbledon and Putney Commons Act 1871 (c. cciv)](https://www.legislation.gov.uk/ukla/1871/204)
 
-**1.**[^key-a49a46bbdb37eb2ff1f087997803e4bf] In Section 12 of the Wimbledon and Putney Commons Act 1871 (appointment of Conservators) for the words “Secretary of State for the Home Department” there shall be substituted the words “the Lord Chancellor”.
+**1.**[^c-a49a46bbdb37eb2ff1f087997803e4bf] In Section 12 of the Wimbledon and Putney Commons Act 1871 (appointment of Conservators) for the words “Secretary of State for the Home Department” there shall be substituted the words “the Lord Chancellor”.
 
 #### The Provisional Order (Marriages) Act [1905 (c. 23)](https://www.legislation.gov.uk/ukpga/1905/23)
 
-**2.**[^key-945721813c99b4329c4d2e59324bb843] In section 1 of the Provisional Order (Marriages) Act 1905—
+**2.**[^c-945721813c99b4329c4d2e59324bb843] In section 1 of the Provisional Order (Marriages) Act 1905—
 
 - (a) in subsection (1), for the words “A Secretary of State” there shall be substituted the words “Lord Chancellor”, and
 - (b) in subsections (2) and (3) for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
 
 #### The Chartered Associations (Protection of Names and Uniforms) Act [1926 (c. 26)](https://www.legislation.gov.uk/ukpga/1926/26)
 
-**3.**[^key-30391fcc24495690df7f236463fe9362] In Section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926 (application for protection of name, uniform, &c. of chartered institution) for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
+**3.**[^c-30391fcc24495690df7f236463fe9362] In Section 1(2) of the Chartered Associations (Protection of Names and Uniforms) Act 1926 (application for protection of name, uniform, &c. of chartered institution) for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
 
 #### [The London Building Acts (Amendment) Act 1939 (c. xcvii)](https://www.legislation.gov.uk/ukla/1939/97)
 
-**4.**[^key-41ca8bab283f5cda4f1bb816d48f9a59] In the following provisions of the London Building Acts (Amendment) Act 1939 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
+**4.**[^c-41ca8bab283f5cda4f1bb816d48f9a59] In the following provisions of the London Building Acts (Amendment) Act 1939 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
 
 - (a) section 55(f) (settlement of disputes),
 - (b) section 109 (appeal tribunal), and
@@ -268,11 +268,11 @@ Article 8
 
 #### The Lieutenancies Act [1997 (c. 23)](https://www.legislation.gov.uk/ukpga/1997/23)
 
-**5.**[^key-f67e0132c4d5385f80ba56e15e6897a7] In section 2(4) of the Lieutenancies Act 1997 (consent to appointment of deputy lieutenant) for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”.
+**5.**[^c-f67e0132c4d5385f80ba56e15e6897a7] In section 2(4) of the Lieutenancies Act 1997 (consent to appointment of deputy lieutenant) for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”.
 
 #### The Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)
 
-**6.**[^key-09d4e2f8024921c283fc23f2c5949236] (1) In the following provisions of the Data Protection Act 1998 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
+**6.**[^c-09d4e2f8024921c283fc23f2c5949236] (1) In the following provisions of the Data Protection Act 1998 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
 
 - (a) section 6(4)(c) (appointment of members of Information Tribunal),
 - (b) section 7(10) (access to personal data),
@@ -281,12 +281,12 @@ Article 8
 - (e) section 9A(5) (compliance with request),
 - (f) section 10(2)(b) (processing of data),
 - (g) section 12(5)(b) (automatic decision-making),
-- (h)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-77f022678c5fcacd223f1a601d985fc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (n) section 30(1), (2) and (3) (health education and social work),
 - (o) section 32(3)(b) (journalism, literature and art),
 - (p) section 38(1) and (2) (exemptions),
@@ -301,17 +301,17 @@ Article 8
 - (y) Schedule 2 (first principle: personal data: conditions), paragraph 6(2),
 - (z) Schedule 3 (first principle: sensitive personal data: conditions), paragraphs 2(2), 7(2), 9(2) and 10,
 - (aa) Schedule 4 (eighth principle: exceptions), paragraph 4(2),
-- (bb) Schedule 5 (Commissioner and Tribunal), paragraphs 4(5), 8, 9(1), (2) and (3), 10(1)(b), 13, 14 and 15, *(affected by repeal, see note)*[^key-3026e9693724b846a102e4890cac8379]
+- (bb) Schedule 5 (Commissioner and Tribunal), paragraphs 4(5), 8, 9(1), (2) and (3), 10(1)(b), 13, 14 and 15, *(affected by repeal, see note)*[^c-3026e9693724b846a102e4890cac8379]
 - (cc) Schedule 6 (appeal), paragraph 7(1), (2)(k) and (3), and
 - (dd) Schedule 7 (exemptions), paragraphs 4 and 6(2).
 
-(2)[^key-c5b6c121089eed48f6e59f9fde39b485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c5b6c121089eed48f6e59f9fde39b485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-dfbd052711a7c1ef928fcb23a70ccb4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dfbd052711a7c1ef928fcb23a70ccb4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Human Rights Act [1998 (c. 42)](https://www.legislation.gov.uk/ukpga/1998/42)
 
-**7.**[^key-99cb0988616b266a32383571873cc3f7] In the following provisions of the Human Rights Act 1998 for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”—
+**7.**[^c-99cb0988616b266a32383571873cc3f7] In the following provisions of the Human Rights Act 1998 for the words “Secretary of State” there shall be substituted the words “Lord Chancellor”—
 
 - (a) section 1(4) (power to amend Act),
 - (b) section 14(1)(b), (4) and (5) (derogation),
@@ -320,7 +320,7 @@ Article 8
 
 #### The Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)
 
-**8.**[^key-2bbb0dd2418452579d6f85617bf7f733] (1) In the following provisions of the Freedom of Information Act 2000 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
+**8.**[^c-2bbb0dd2418452579d6f85617bf7f733] (1) In the following provisions of the Freedom of Information Act 2000 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”—
 
 - (a) section 4(1), (5) and (7) (amendment of list of public authorities),
 - (b) section 5(1) and (3) (additional authorities),
@@ -344,7 +344,7 @@ Article 8
 
 #### The Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)
 
-**9.**[^key-c8feac1f2fcbed2e77b660f45aed20ae] (1) In section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000 (membership of Speaker’s Committee) for the words “Secretary of State for the Home Department” there shall be substituted the words “Secretary of State for Transport, Local Government and the Regions”.
+**9.**[^c-c8feac1f2fcbed2e77b660f45aed20ae] (1) In section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000 (membership of Speaker’s Committee) for the words “Secretary of State for the Home Department” there shall be substituted the words “Secretary of State for Transport, Local Government and the Regions”.
 
 (2) In paragraph 2(1)(c) of Schedule 2 to that Act (Speaker’s Committee: term of office) for the words “Secretary of State for the Home Department” there shall be substituted the words “Secretary of State for Transport, Local Government and the Regions”.
 
@@ -352,18 +352,18 @@ Article 8
 
 #### The Channel Islands (Church Legislation) Measure 1931 (No. 4)
 
-**10.**[^key-e3042275d777814a5a5dfead4d4a84b8] In the Schedule to the Channel Islands (Church Legislation) Measure 1931—
+**10.**[^c-e3042275d777814a5a5dfead4d4a84b8] In the Schedule to the Channel Islands (Church Legislation) Measure 1931—
 
 - (a) in paragraph 3 for the words “Secretary of State for the Home Department” there shall be substituted the words “Lord Chancellor”, and
 - (b) in paragraph 5 for the words “said Secretary of State” there shall be substituted the words “Lord Chancellor”.
 
 #### The Church Commissioners Measure 1947 (No. 2)
 
-**11.**[^key-67c810c44eecfe56183fcb69cd3981e1] In section 12(2) of the Church Commissioners Measure 1947 (annual report and accounts) for the words “Secretary of State for the Home Department” there shall be substituted the words “Lord Chancellor”.
+**11.**[^c-67c810c44eecfe56183fcb69cd3981e1] In section 12(2) of the Church Commissioners Measure 1947 (annual report and accounts) for the words “Secretary of State for the Home Department” there shall be substituted the words “Lord Chancellor”.
 
 #### The Plant Varieties and Seeds (Isle of Man) Order 1969 (S.I. [1969/1829](https://www.legislation.gov.uk/uksi/1969/1829))
 
-**12.**[^key-aecd597896da2e9ee0e8c17a4a294ee9] In paragraph 9 of the Schedule to the Plant Varieties and Seeds (Isle of Man) Order 1969 (definition of Ministers) for the substituted definition of Ministers there shall be substituted—
+**12.**[^c-aecd597896da2e9ee0e8c17a4a294ee9] In paragraph 9 of the Schedule to the Plant Varieties and Seeds (Isle of Man) Order 1969 (definition of Ministers) for the substituted definition of Ministers there shall be substituted—
 
 > - “The Ministers” means the Secretary of State for Environment, Food and Rural Affairs and the Lord Chancellor acting jointly;
 
@@ -371,11 +371,11 @@ Article 8
 
 #### The Royal Assent to Legislation (Isle of Man) Order 1981
 
-**13.**[^key-9474b13703aec2df84fe05cdbb87c1dc] In articles 3 and 4 of the Royal Assent to Legislation (Isle of Man) Order 1981 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
+**13.**[^c-9474b13703aec2df84fe05cdbb87c1dc] In articles 3 and 4 of the Royal Assent to Legislation (Isle of Man) Order 1981 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
 
 #### The Company and Business Names Regulations 1981 (S.I. [1981/1685](https://www.legislation.gov.uk/uksi/1981/1685))
 
-**14.**[^key-766fbd65085b3b6a7261fa81ea4953f9] At the end of the Schedule to the Company and Business Names Regulations 1981 (names requiring approval of Secretary of State) the following shall be added—
+**14.**[^c-766fbd65085b3b6a7261fa81ea4953f9] At the end of the Schedule to the Company and Business Names Regulations 1981 (names requiring approval of Secretary of State) the following shall be added—
 
 > - **Note:** The reference in Column (2) to the Home Office shall be treated as a reference to the Lord Chancellor’s Department in relation to the following entries in Column (1)—
 >   - (a) Duke,
@@ -394,11 +394,11 @@ Article 8
 
 #### The Fire Service College Trading Fund Order 1992 (S.I. [1992/640](https://www.legislation.gov.uk/uksi/1992/640))
 
-**15.**[^key-96eb2a50322a475996a52479629bc95c] In article 3 of the Fire Service College Trading Fund Order 1992 (source of loans) for the words “Secretary of State for the Home Department” there shall be substituted the words “Secretary of State for Transport, Local Government and the Regions”.
+**15.**[^c-96eb2a50322a475996a52479629bc95c] In article 3 of the Fire Service College Trading Fund Order 1992 (source of loans) for the words “Secretary of State for the Home Department” there shall be substituted the words “Secretary of State for Transport, Local Government and the Regions”.
 
 #### The Royal Assent to Sodor and Man Diocesan Synod Measures Order 1994
 
-**16.**[^key-0413421728c902aa9f005aa36dfe02a9] In articles 3 and 4 of the Royal Assent to Sodor and Man Diocesan Synod Measures Order 1994 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
+**16.**[^c-0413421728c902aa9f005aa36dfe02a9] In articles 3 and 4 of the Royal Assent to Sodor and Man Diocesan Synod Measures Order 1994 for the words “Secretary of State” there shall be substituted, in each place, the words “Lord Chancellor”.
 
 (This note is not part of the Order)
 
@@ -420,25 +420,25 @@ Article 8 and Schedule 2 make consequential amendments to legislation.
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-a05bcd17c161a7c7d3e90c4448e37a15]: Commencement: Art. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-a05bcd17c161a7c7d3e90c4448e37a15]: Commencement: Art. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-4975c741cfda43b23fd7bc64bede9c0b]: Commencement: Art. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-4975c741cfda43b23fd7bc64bede9c0b]: Commencement: Art. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-d514616b14f5212969314aabe51d4a4b]: Commencement: Art. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-d514616b14f5212969314aabe51d4a4b]: Commencement: Art. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-3aa4479acd7dc6c4298510bad479d704]: Commencement: Art. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-3aa4479acd7dc6c4298510bad479d704]: Commencement: Art. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00002]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
 [^f00003]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-42f5d8addb31a239c1d3d3abb1cded17]: Commencement: Art. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-42f5d8addb31a239c1d3d3abb1cded17]: Commencement: Art. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00004]: Footnote: S.I. [1992/640](https://www.legislation.gov.uk/uksi/1992/640).
 
 [^f00005]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-48732ccdf468c3212c04c8214b28e097]: Commencement: Art. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-48732ccdf468c3212c04c8214b28e097]: Commencement: Art. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00006]: Footnote: [1984 c. 39](https://www.legislation.gov.uk/ukpga/1984/39).
 
@@ -448,96 +448,96 @@ Article 8 and Schedule 2 make consequential amendments to legislation.
 
 [^f00009]: Footnote: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
-[^key-47d2534c597431d2a9eba4d6bd7d7059]: Commencement: Art. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-47d2534c597431d2a9eba4d6bd7d7059]: Commencement: Art. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00010]: Footnote: S.I. [1969/1829](https://www.legislation.gov.uk/uksi/1969/1829).
 
 [^f00011]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14).
 
-[^key-dbc9b77a9b69c973cb907c046437ef03]: Commencement: Art. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-dbc9b77a9b69c973cb907c046437ef03]: Commencement: Art. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-1ec50b064fa8fd729def4eb975bc583a]: Commencement: Sch. 1 para. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-1ec50b064fa8fd729def4eb975bc583a]: Commencement: Sch. 1 para. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00012]: Footnote: [1997 c. 23](https://www.legislation.gov.uk/ukpga/1997/23).
 
-[^key-5d95742d7291fd921cd8b04296354f12]: Commencement: Sch. 1 para. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-5d95742d7291fd921cd8b04296354f12]: Commencement: Sch. 1 para. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-05975ea6b893cea520b057bc2c58eb72]: Commencement: Sch. 1 para. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-05975ea6b893cea520b057bc2c58eb72]: Commencement: Sch. 1 para. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00013]: Footnote: [1931 No. 4](https://www.legislation.gov.uk/ukcm/1931/4).
 
-[^key-3f310e88acda1906ad5ca8fef905a4e0]: Commencement: Sch. 1 para. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-3f310e88acda1906ad5ca8fef905a4e0]: Commencement: Sch. 1 para. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-323dc966b809a94e9846f2ba1744be45]: Commencement: Sch. 1 para. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-323dc966b809a94e9846f2ba1744be45]: Commencement: Sch. 1 para. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00014]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-7fa6547e71dc7d9a4d24ff0cf2500ff4]: Commencement: Sch. 1 para. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-7fa6547e71dc7d9a4d24ff0cf2500ff4]: Commencement: Sch. 1 para. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00015]: Footnote: [1926 c. 26](https://www.legislation.gov.uk/ukpga/1926/26).
 
-[^key-843af8e06abbfee44abdbbcad03d0207]: Commencement: Sch. 1 para. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-843af8e06abbfee44abdbbcad03d0207]: Commencement: Sch. 1 para. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-3aa2c5ea42529fb764be39fb16f2f3ea]: Commencement: Sch. 1 para. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-3aa2c5ea42529fb764be39fb16f2f3ea]: Commencement: Sch. 1 para. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00016]: Footnote: [1871 c. cciv](https://www.legislation.gov.uk/ukla/1871/204).
 
-[^key-ec4eb16c2901d7035f4c9a161265e70a]: Commencement: Sch. 1 para. 9 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-ec4eb16c2901d7035f4c9a161265e70a]: Commencement: Sch. 1 para. 9 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00017]: Footnote: [1947 No. 2](https://www.legislation.gov.uk/ukcm/1947/2)
 
-[^key-16e2091abb7c0c6255f94b6931ad70db]: Commencement: Sch. 1 para. 10 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-16e2091abb7c0c6255f94b6931ad70db]: Commencement: Sch. 1 para. 10 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00018]: Footnote: [1905 c. 23](https://www.legislation.gov.uk/ukpga/1905/23).
 
-[^key-866d7c94d55896b028afe38ed2de41b0]: Commencement: Sch. 1 para. 11 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-866d7c94d55896b028afe38ed2de41b0]: Commencement: Sch. 1 para. 11 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00019]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-c9fca7a6e7e0f4d0ea6cabe240dbd6f2]: Commencement: Sch. 1 para. 12 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-c9fca7a6e7e0f4d0ea6cabe240dbd6f2]: Commencement: Sch. 1 para. 12 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00020]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-cbee36bcec1098fad8b336fcdad551d8]: Commencement: Sch. 1 para. 13 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-cbee36bcec1098fad8b336fcdad551d8]: Commencement: Sch. 1 para. 13 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
 [^f00021]: Footnote: [1939 c. xcvii](https://www.legislation.gov.uk/ukla/1939/97).
 
-[^key-a49a46bbdb37eb2ff1f087997803e4bf]: Commencement: Sch. 2 para. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-a49a46bbdb37eb2ff1f087997803e4bf]: Commencement: Sch. 2 para. 1 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-945721813c99b4329c4d2e59324bb843]: Commencement: Sch. 2 para. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-945721813c99b4329c4d2e59324bb843]: Commencement: Sch. 2 para. 2 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-30391fcc24495690df7f236463fe9362]: Commencement: Sch. 2 para. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-30391fcc24495690df7f236463fe9362]: Commencement: Sch. 2 para. 3 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-41ca8bab283f5cda4f1bb816d48f9a59]: Commencement: Sch. 2 para. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-41ca8bab283f5cda4f1bb816d48f9a59]: Commencement: Sch. 2 para. 4 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-f67e0132c4d5385f80ba56e15e6897a7]: Commencement: Sch. 2 para. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-f67e0132c4d5385f80ba56e15e6897a7]: Commencement: Sch. 2 para. 5 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-09d4e2f8024921c283fc23f2c5949236]: Commencement: Sch. 2 para. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-09d4e2f8024921c283fc23f2c5949236]: Commencement: Sch. 2 para. 6 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-77f022678c5fcacd223f1a601d985fc5]: Textual amendment: [Sch. 2 para. 6(1)(h)-(m)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/1/h) revoked (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/b/i), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
+[^c-77f022678c5fcacd223f1a601d985fc5]: Textual amendment: [Sch. 2 para. 6(1)(h)-(m)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/1/h) revoked (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/b/i), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
 
-[^key-3026e9693724b846a102e4890cac8379]: Textual amendment: [Sch. 2 para. 6(1)(bb)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/1/bb) revoked in part (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
+[^c-3026e9693724b846a102e4890cac8379]: Textual amendment: [Sch. 2 para. 6(1)(bb)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/1/bb) revoked in part (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
-[^key-c5b6c121089eed48f6e59f9fde39b485]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/2) revoked (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/b/ii), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
+[^c-c5b6c121089eed48f6e59f9fde39b485]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/2) revoked (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/b/ii), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
 
-[^key-dfbd052711a7c1ef928fcb23a70ccb4b]: Textual amendment: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/3) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
+[^c-dfbd052711a7c1ef928fcb23a70ccb4b]: Textual amendment: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2001/3500/schedule/2/paragraph/6/3) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
-[^key-99cb0988616b266a32383571873cc3f7]: Commencement: Sch. 2 para. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-99cb0988616b266a32383571873cc3f7]: Commencement: Sch. 2 para. 7 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-2bbb0dd2418452579d6f85617bf7f733]: Commencement: Sch. 2 para. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-2bbb0dd2418452579d6f85617bf7f733]: Commencement: Sch. 2 para. 8 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-c8feac1f2fcbed2e77b660f45aed20ae]: Commencement: Sch. 2 para. 9 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-c8feac1f2fcbed2e77b660f45aed20ae]: Commencement: Sch. 2 para. 9 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-e3042275d777814a5a5dfead4d4a84b8]: Commencement: Sch. 2 para. 10 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-e3042275d777814a5a5dfead4d4a84b8]: Commencement: Sch. 2 para. 10 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-67c810c44eecfe56183fcb69cd3981e1]: Commencement: Sch. 2 para. 11 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-67c810c44eecfe56183fcb69cd3981e1]: Commencement: Sch. 2 para. 11 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-aecd597896da2e9ee0e8c17a4a294ee9]: Commencement: Sch. 2 para. 12 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-aecd597896da2e9ee0e8c17a4a294ee9]: Commencement: Sch. 2 para. 12 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-9474b13703aec2df84fe05cdbb87c1dc]: Commencement: Sch. 2 para. 13 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-9474b13703aec2df84fe05cdbb87c1dc]: Commencement: Sch. 2 para. 13 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-766fbd65085b3b6a7261fa81ea4953f9]: Commencement: Sch. 2 para. 14 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-766fbd65085b3b6a7261fa81ea4953f9]: Commencement: Sch. 2 para. 14 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-96eb2a50322a475996a52479629bc95c]: Commencement: Sch. 2 para. 15 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-96eb2a50322a475996a52479629bc95c]: Commencement: Sch. 2 para. 15 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
 
-[^key-0413421728c902aa9f005aa36dfe02a9]: Commencement: Sch. 2 para. 16 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)
+[^c-0413421728c902aa9f005aa36dfe02a9]: Commencement: Sch. 2 para. 16 in force at 26.11.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3500/article/1/2)

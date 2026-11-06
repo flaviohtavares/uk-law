@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Power of Secretary of State to require information and samples[^key-656dfddba3f555ac9ba65653f8b9ca9b]
+## 11. Power of Secretary of State to require information and samples[^c-656dfddba3f555ac9ba65653f8b9ca9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ except in accordance with this section.
 
 ## Annotations
 
-[^key-656dfddba3f555ac9ba65653f8b9ca9b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/20/section/11) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-656dfddba3f555ac9ba65653f8b9ca9b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/20/section/11) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

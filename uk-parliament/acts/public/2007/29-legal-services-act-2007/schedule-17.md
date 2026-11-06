@@ -65,7 +65,7 @@ Section 182
   > - (ca) after the Investigating Committee established under section 24 has made any order in his case under section 24A;
 
   , and
-- (b)[^key-f18b5b75a589b7e8514a50f92d7dc2be] after paragraph (e) insert—
+- (b)[^c-f18b5b75a589b7e8514a50f92d7dc2be] after paragraph (e) insert—
 
   > - (ea) when, having been required by rules made under section 22 to deliver to the Council a report by an accountant, he has not delivered such a report within the period required by the rules;
   > - (eb) after having been disqualified under section 99 of the Legal Services Act 2007 (disqualification from being manager or employee of a licensed body etc);
@@ -76,16 +76,16 @@ Section 182
 (3) In subsection (4)—
 
 - (a) after “paragraph” insert “ (ca), ”, and
-- (b)[^key-f18b5b75a589b7e8514a50f92d7dc2be] after “(e),” insert “ (ea), (eb), (ec), ”.
+- (b)[^c-f18b5b75a589b7e8514a50f92d7dc2be] after “(e),” insert “ (ea), (eb), (ec), ”.
 
-(4)[^key-ab193c21c2ef73ba9b5001592195dbfa] In subsection (5) for “or” at the end of paragraph (a) substitute—
+(4)[^c-ab193c21c2ef73ba9b5001592195dbfa] In subsection (5) for “or” at the end of paragraph (a) substitute—
 
 > - (aa) pending the hearing and determination of any appeal brought by the applicant under paragraph 18, 20, 29, 32, 34 or 37 of Schedule 13 to the Legal Services Act 2007;
 > - (ab) pending the review by a licensing authority, in accordance with its licensing rules, of a determination that the applicant should be disqualified under section 99 of the Legal Services Act 2007; or
 
 .
 
-(5)[^key-ab193c21c2ef73ba9b5001592195dbfa] After that subsection insert—
+(5)[^c-ab193c21c2ef73ba9b5001592195dbfa] After that subsection insert—
 
 > (6) In this section—
 >
@@ -105,16 +105,16 @@ Section 182
 (2) In subsection (2)(a)—
 
 - (a) after “paragraph” insert “ (ca), ”, and
-- (b)[^key-af64fc9be5d389d5af817a915a88fbae] after “(e),” insert “ (ea), (eb), (ec), ”.
+- (b)[^c-af64fc9be5d389d5af817a915a88fbae] after “(e),” insert “ (ea), (eb), (ec), ”.
 
-(3)[^key-ac507cc46507728351a9312bf421f0bd] In subsection (4), for “or” at the end of paragraph (a) substitute—
+(3)[^c-ac507cc46507728351a9312bf421f0bd] In subsection (4), for “or” at the end of paragraph (a) substitute—
 
 > - (aa) pending the hearing and determination of any appeal brought by the licensed conveyancer under paragraph 18, 20, 29, 32, 34 or 37 of Schedule 13 to the Legal Services Act 2007;
 > - (ab) pending the review by a licensing authority, in accordance with its licensing rules, of a determination that the licensed conveyancer should be disqualified under section 99 of the Legal Services Act 2007; or
 
 .
 
-(4)[^key-ac507cc46507728351a9312bf421f0bd] After subsection (5) insert—
+(4)[^c-ac507cc46507728351a9312bf421f0bd] After subsection (5) insert—
 
 > (6) In this section “**licensing authority**” and “**licensing rules**” have the same meaning as in the Legal Services Act 2007 (see sections 73 and 83 of that Act).
 
@@ -798,22 +798,22 @@ Section 182
 
 (6) In paragraph 4—
 
-- (a)[^key-324c23e645ff4f9ef3038481a8e7f4f1] in sub-paragraph (1) after “allegation” insert “ within paragraph 3(1)(a) or (ab) ”,
-- (b)[^key-324c23e645ff4f9ef3038481a8e7f4f1] in that sub-paragraph, after paragraph (b) insert
+- (a)[^c-324c23e645ff4f9ef3038481a8e7f4f1] in sub-paragraph (1) after “allegation” insert “ within paragraph 3(1)(a) or (ab) ”,
+- (b)[^c-324c23e645ff4f9ef3038481a8e7f4f1] in that sub-paragraph, after paragraph (b) insert
 
   > , or
   >
   > - (c) has failed to comply with any such condition as is mentioned in paragraph 3(1)(ab),
 
   ,
-- (c)[^key-324c23e645ff4f9ef3038481a8e7f4f1] in sub-paragraph (2), in paragraph (b), for “£3,000” substitute “ such amount as may be prescribed by rules made by the Council for the purposes of this sub-paragraph ”,
-- (d)[^key-324c23e645ff4f9ef3038481a8e7f4f1] after paragraph (b) of that sub-paragraph insert—
+- (c)[^c-324c23e645ff4f9ef3038481a8e7f4f1] in sub-paragraph (2), in paragraph (b), for “£3,000” substitute “ such amount as may be prescribed by rules made by the Council for the purposes of this sub-paragraph ”,
+- (d)[^c-324c23e645ff4f9ef3038481a8e7f4f1] after paragraph (b) of that sub-paragraph insert—
 
   > - (ba) an order reprimanding that body;
   > - (bb) an order that the recognition of that body under section 32 is to have effect subject to such conditions as may be specified in the order;
 
   ,
-- (e)[^key-324c23e645ff4f9ef3038481a8e7f4f1] omit paragraph (c) of that sub-paragraph,
+- (e)[^c-324c23e645ff4f9ef3038481a8e7f4f1] omit paragraph (c) of that sub-paragraph,
 - (f) after that sub-paragraph insert—
 
   > (2A) Where on the hearing of any allegation within paragraph 3(1)(aa) the Discipline and Appeals Committee are satisfied that a manager or employee has failed to comply with any such rules as are mentioned in sub-paragraph (ii) of that paragraph, the Committee may, if they think fit, make one or more of the orders referred to in sub-paragraph (2B).
@@ -838,7 +838,7 @@ Section 182
   > (2E) In sub-paragraph (2D), for the purposes of paragraph (a) or (b) of that sub-paragraph, the reference to costs includes costs incurred in connection with a preliminary investigation of the allegation under paragraph 3.
 
   , and
-- (g)[^key-28f631853840cb6359b135585736fa8f] omit sub-paragraphs (3), (3A) and (4).
+- (g)[^c-28f631853840cb6359b135585736fa8f] omit sub-paragraphs (3), (3A) and (4).
 
 (7) In paragraph 5—
 
@@ -1190,17 +1190,17 @@ Section 182
 
 [^c20577361]: Commencement: Sch. 17 para. 5(1)(2)(a)(3)(a) in force and Sch. 17 para. 5(2)(b)(3)(b) in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 
-[^key-f18b5b75a589b7e8514a50f92d7dc2be]: Commencement: Sch. 17 para. 5(2)(b)(3)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
+[^c-f18b5b75a589b7e8514a50f92d7dc2be]: Commencement: Sch. 17 para. 5(2)(b)(3)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
 
-[^key-ab193c21c2ef73ba9b5001592195dbfa]: Commencement: Sch. 17 para. 5(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
+[^c-ab193c21c2ef73ba9b5001592195dbfa]: Commencement: Sch. 17 para. 5(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
 
 [^M_I_bddd9fc4-0b2c-4ea9-8a20-ce06bcb352e8]: Commencement: Sch. 17 para. 6 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 
 [^c20577501]: Commencement: Sch. 17 para. 7(1)(2)(a) in force and Sch. 17 para. 7(2)(b) in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 
-[^key-af64fc9be5d389d5af817a915a88fbae]: Commencement: Sch. 17 para. 7(2)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
+[^c-af64fc9be5d389d5af817a915a88fbae]: Commencement: Sch. 17 para. 7(2)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
 
-[^key-ac507cc46507728351a9312bf421f0bd]: Commencement: Sch. 17 para. 7(3)(4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
+[^c-ac507cc46507728351a9312bf421f0bd]: Commencement: Sch. 17 para. 7(3)(4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/g)
 
 [^M_I_1badf284-1cbe-47a1-97fb-58885787c444]: Commencement: Sch. 17 para. 8 in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 
@@ -1252,9 +1252,9 @@ Section 182
 
 [^c20577901]: Commencement: Sch. 17 para. 32 partly in force: Sch. 17 para. 32 not in force at Royal Assent see s. 211; Sch. 17 para. 32(1)-(6)(f) in force and Sch. 17 para. 32(6)(f) in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/503/article/4))
 
-[^key-324c23e645ff4f9ef3038481a8e7f4f1]: Commencement: Sch. 17 para. 32(6)(a)-(e) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/c)
+[^c-324c23e645ff4f9ef3038481a8e7f4f1]: Commencement: Sch. 17 para. 32(6)(a)-(e) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/c)
 
-[^key-28f631853840cb6359b135585736fa8f]: Commencement: Sch. 17 para. 32(6)(g) in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/c)
+[^c-28f631853840cb6359b135585736fa8f]: Commencement: Sch. 17 para. 32(6)(g) in force at 6.10.2010 in so far as not already in force by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/c)
 
 [^c20577941]: Commencement: [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/34) wholly in force at 1.1.2010; [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/34) not in force at Royal Assent see [s. 211](https://www.legislation.gov.uk/ukpga/2007/29/section/211); [Sch. 17 para. 34(1)(5)(6)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/34/1/5/6) in force at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/ii); [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/34) in force otherwise at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/iii) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 

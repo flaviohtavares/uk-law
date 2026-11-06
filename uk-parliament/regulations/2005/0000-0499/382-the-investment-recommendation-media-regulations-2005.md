@@ -32,7 +32,7 @@ summary: ''
 
 FINANCIAL SERVICES
 
-The Investment Recommendation (Media) Regulations 2005 (revoked)[^key-80786414617e7abcb73f71219b28f0a8]
+The Investment Recommendation (Media) Regulations 2005 (revoked)[^c-80786414617e7abcb73f71219b28f0a8]
 
 Made
 
@@ -46,76 +46,76 @@ Coming into force
 
 1st July 2005
 
-[^key-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — CITATION, INTERPRETATION AND APPLICATION[^key-80786414617e7abcb73f71219b28f0a8]
+## PART 1 — CITATION, INTERPRETATION AND APPLICATION[^c-80786414617e7abcb73f71219b28f0a8]
 
-### 1. Citation and commencement[^key-80786414617e7abcb73f71219b28f0a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-80786414617e7abcb73f71219b28f0a8]
+### 1. Citation and commencement[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application of Regulations[^key-80786414617e7abcb73f71219b28f0a8]
+### 2. Interpretation[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — PRODUCTION OF INVESTMENT RECOMMENDATIONS[^key-80786414617e7abcb73f71219b28f0a8]
-
-### 4. Disclosure of identity of producers[^key-80786414617e7abcb73f71219b28f0a8]
+### 3. Application of Regulations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Fair presentation[^key-80786414617e7abcb73f71219b28f0a8]
+## PART 2 — PRODUCTION OF INVESTMENT RECOMMENDATIONS[^c-80786414617e7abcb73f71219b28f0a8]
+
+### 4. Disclosure of identity of producers[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Disclosure of interests etc[^key-80786414617e7abcb73f71219b28f0a8]
+### 5. Fair presentation[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Non-written investment recommendations[^key-80786414617e7abcb73f71219b28f0a8]
+### 6. Disclosure of interests etc[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — DISSEMINATION OF INVESTMENT RECOMMENDATIONS PRODUCED BY THIRD PARTIES[^key-80786414617e7abcb73f71219b28f0a8]
-
-### 8. Disclosure of identity of persons disseminating investment recommendations[^key-80786414617e7abcb73f71219b28f0a8]
+### 7. Non-written investment recommendations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Dissemination of altered investment recommendations[^key-80786414617e7abcb73f71219b28f0a8]
+## PART 3 — DISSEMINATION OF INVESTMENT RECOMMENDATIONS PRODUCED BY THIRD PARTIES[^c-80786414617e7abcb73f71219b28f0a8]
+
+### 8. Disclosure of identity of persons disseminating investment recommendations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Dissemination of summaries of investment recommendations[^key-80786414617e7abcb73f71219b28f0a8]
+### 9. Dissemination of altered investment recommendations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. News reporting on investment recommendations[^key-80786414617e7abcb73f71219b28f0a8]
+### 10. Dissemination of summaries of investment recommendations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — TERRITORIAL SCOPE AND ACTIONS FOR DAMAGES[^key-80786414617e7abcb73f71219b28f0a8]
-
-### 12. Territorial scope[^key-80786414617e7abcb73f71219b28f0a8]
+### 11. News reporting on investment recommendations[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Actions for damages[^key-80786414617e7abcb73f71219b28f0a8]
+## PART 4 — TERRITORIAL SCOPE AND ACTIONS FOR DAMAGES[^c-80786414617e7abcb73f71219b28f0a8]
+
+### 12. Territorial scope[^c-80786414617e7abcb73f71219b28f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 13. Actions for damages[^c-80786414617e7abcb73f71219b28f0a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80786414617e7abcb73f71219b28f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80786414617e7abcb73f71219b28f0a8]: Textual amendment: Regulations revoked (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/680/regulation/19)
+[^c-80786414617e7abcb73f71219b28f0a8]: Textual amendment: Regulations revoked (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/680/regulation/19)

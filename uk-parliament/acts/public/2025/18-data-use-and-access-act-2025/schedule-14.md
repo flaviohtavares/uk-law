@@ -22,7 +22,7 @@ summary: ''
 
 Section 117
 
-### 1. Schedule 12A to the Data Protection Act 2018[^key-7de774ca525637048099703b30532c4d][^key-d0472b031253be5e747e390780af5a6d]
+### 1. Schedule 12A to the Data Protection Act 2018[^c-7de774ca525637048099703b30532c4d][^c-d0472b031253be5e747e390780af5a6d]
 
 In the Data Protection Act 2018, after Schedule 12 insert—
 
@@ -389,7 +389,7 @@ In the Data Protection Act 2018, after Schedule 12 insert—
 > - (a) references to pensions, allowances or gratuities include references to any similar benefits provided on death or retirement, and
 > - (b) references to the payment of pensions, allowances or gratuities to or in respect of a person include references to the making of payments towards the provision of pensions, allowances or gratuities to be paid to or in respect of a person.
 
-### 2. Transitional provision: first chair[^key-4e03685f63f9e2b9ba2753d198dc82e2][^key-4ec5b0b651d1a6d5412ce6117e7c9803]
+### 2. Transitional provision: first chair[^c-4e03685f63f9e2b9ba2753d198dc82e2][^c-4ec5b0b651d1a6d5412ce6117e7c9803]
 
 (1) This paragraph applies to the person who holds the office of Information Commissioner immediately before the day on which this Schedule comes into force.
 
@@ -397,13 +397,13 @@ In the Data Protection Act 2018, after Schedule 12 insert—
 
 (3) For the purposes of paragraph 7(3) of Schedule 12A to the Data Protection Act 2018 (extension of chair’s term), the term of the person’s appointment as chair of the Information Commission is to be treated as a term beginning when the person began to hold the office of Information Commissioner.
 
-### 3. Transitional provision: consultation about non-executive members[^key-18697cc514d493bf5e666c97f3fb1ec3][^key-85aab3f874e3f3e24330fa1f7a37c747]
+### 3. Transitional provision: consultation about non-executive members[^c-18697cc514d493bf5e666c97f3fb1ec3][^c-85aab3f874e3f3e24330fa1f7a37c747]
 
 (1) This paragraph is about the requirement under paragraph 3(4) of Schedule 12A to the Data Protection Act 2018 for the Secretary of State to consult the chair of the Information Commission before appointing a non-executive member of the Information Commission.
 
 (2) The requirement may be satisfied by consultation, before this Schedule comes into force, with the person who holds the office of Information Commissioner.
 
-### 4. Transitional provision: consultation about interim chief executive[^key-5f86d12ab0342c9d5a2de8f440aa2f57][^key-383ac868e7f31ffc785f8d7cf01e5e87]
+### 4. Transitional provision: consultation about interim chief executive[^c-5f86d12ab0342c9d5a2de8f440aa2f57][^c-383ac868e7f31ffc785f8d7cf01e5e87]
 
 (1) This paragraph is about the requirement under paragraph 25 of Schedule 12A to the Data Protection Act 2018 (transitional provision: interim chief executive) for the chair of the Information Commission to consult the Secretary of State before appointing the first chief executive of the Information Commission.
 
@@ -411,18 +411,18 @@ In the Data Protection Act 2018, after Schedule 12 insert—
 
 ## Annotations
 
-[^key-7de774ca525637048099703b30532c4d]: Commencement: Sch. 14 para. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-7de774ca525637048099703b30532c4d]: Commencement: Sch. 14 para. 1 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-d0472b031253be5e747e390780af5a6d]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/1) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/904/regulation/1/3))
+[^c-d0472b031253be5e747e390780af5a6d]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/1) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/904/regulation/1/3))
 
-[^key-4e03685f63f9e2b9ba2753d198dc82e2]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-4e03685f63f9e2b9ba2753d198dc82e2]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-4ec5b0b651d1a6d5412ce6117e7c9803]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/2) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)
+[^c-4ec5b0b651d1a6d5412ce6117e7c9803]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/2) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)
 
-[^key-18697cc514d493bf5e666c97f3fb1ec3]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-18697cc514d493bf5e666c97f3fb1ec3]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-85aab3f874e3f3e24330fa1f7a37c747]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/3) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)
+[^c-85aab3f874e3f3e24330fa1f7a37c747]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/3) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)
 
-[^key-5f86d12ab0342c9d5a2de8f440aa2f57]: Commencement: Sch. 14 para. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-5f86d12ab0342c9d5a2de8f440aa2f57]: Commencement: Sch. 14 para. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-383ac868e7f31ffc785f8d7cf01e5e87]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/4) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)
+[^c-383ac868e7f31ffc785f8d7cf01e5e87]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/14/paragraph/4) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/z)

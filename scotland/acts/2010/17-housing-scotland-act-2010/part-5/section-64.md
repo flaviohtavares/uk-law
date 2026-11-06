@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Appeals against suspension or removal[^key-b5f4c9285465d8326be0ba2037759298]
+## 64. Appeals against suspension or removal[^c-b5f4c9285465d8326be0ba2037759298]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ and the Court's determination of the matter is final.
 
 ## Annotations
 
-[^key-b5f4c9285465d8326be0ba2037759298]: Commencement: S. 64 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-b5f4c9285465d8326be0ba2037759298]: Commencement: S. 64 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

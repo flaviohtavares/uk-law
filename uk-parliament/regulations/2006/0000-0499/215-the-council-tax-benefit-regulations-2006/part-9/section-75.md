@@ -20,8 +20,8 @@ summary: ''
 
 (2) The relevant authority shall make a decision on each claim within 14 days of the provisions of regulations 69 and 72 (time and manner for making claims and evidence and information required) being satisfied or as soon as reasonably practicable thereafter.
 
-(3)[^key-0c61e8ca4493f82378a76c66c580edea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0c61e8ca4493f82378a76c66c580edea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c61e8ca4493f82378a76c66c580edea]: Textual amendment: Reg. 75(3) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/5/c)
+[^c-0c61e8ca4493f82378a76c66c580edea]: Textual amendment: Reg. 75(3) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/5/c)

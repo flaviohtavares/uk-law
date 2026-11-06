@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-649dc895305d096ef329063f755dc3b9]
+## 1. Citation and commencement[^c-649dc895305d096ef329063f755dc3b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Transfer of Functions of the Asylum and Immigrati
 
 ## Annotations
 
-[^key-649dc895305d096ef329063f755dc3b9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
+[^c-649dc895305d096ef329063f755dc3b9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)

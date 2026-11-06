@@ -39,59 +39,59 @@ on a standardisation request to the European standardisation organisations as re
 
 (Text with EEA relevance) (revoked)
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dcc8c940f97036a8df21c42be3aa83e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Requested standardisation activities[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 1. Requested standardisation activities[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Establishment of the work programme[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 2. Establishment of the work programme[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Agreement on the work programme[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 3. Agreement on the work programme[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reporting[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 4. Reporting[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Validity[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 5. Validity[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Interoperability requirements[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 6. Interoperability requirements[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## Article 7. Addressees[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8dcc8c940f97036a8df21c42be3aa83e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — REQUIREMENTS FOR THE EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## ANNEX I — REQUIREMENTS FOR THE EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.
 
 GENERAL REQUIREMENTS
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.1.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.1.
 
 **General requirements for establishing the work programme**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.2.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.2.
 
 **General requirements for the requested deliverables**
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.2.1.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.2.1.
 
 *Compliance*
 
@@ -101,7 +101,7 @@ The requested European standards and European standardisation deliverables shall
 - the principles of the personal data protection regulation (Directive 95/46/EC of the European Parliament and of the Council and proposal for a Regulation of the European Parliament and Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data),
 - the principles of e-accessibility and web accessibility (Communication ‘Towards an accessible information society’).
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.2.2.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.2.2.
 
 *Harmonisation*
 
@@ -111,7 +111,7 @@ Therefore the requested European standards and European standardisation delivera
 
 Against this background the requested European standards and European standardisation deliverables should provide consideration to the reuse, harmonisation or interface with existing reference data models, common data dictionaries and metadata structure requirements with a view to foster interoperability, consistency and continuity of services.
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.2.3.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.2.3.
 
 *Implementability*
 
@@ -126,67 +126,67 @@ This should include the following aspects as far as possible:
 - ((3)) executable and freely available guidance, code lists, datasets, tools and processes to facilitate operational implementation and conformance tests;
 - ((4)) data availability, access, quality, reliability and accuracy.
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]2.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]2.
 
 REQUIREMENTS TO STRENGTHEN COMPATIBILITY AND COHERENCE WITH EXISTING STANDARDS AND TECHNICAL SPECIFICATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.
 
 SPECIFIC REQUIREMENTS FOR THE REQUESTED DELIVERABLES
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.1.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.1.
 
 **Defining a diversity of relevant use cases embedded within an urban ITS architecture and supporting the implementation of standards and other specifications**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.2.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.2.
 
 **Addressing multimodal information services, contributing to seamless mobility**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.3.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.3.
 
 **Addressing traffic management, including access regulation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.4.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.4.
 
 **Addressing urban logistics, including parking management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]4.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]4.
 
 REQUIREMENTS CONCERNING LATER REVIEWS TO THE REQUESTED DELIVERABLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES AND DEADLINES FOR ADOPTION[^key-8dcc8c940f97036a8df21c42be3aa83e]
+## ANNEX II — EUROPEAN STANDARDS AND EUROPEAN STANDARDISATION DELIVERABLES AND DEADLINES FOR ADOPTION[^c-8dcc8c940f97036a8df21c42be3aa83e]
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]1.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]1.
 
 USE CASES, URBAN ITS ARCHITECTURE, AND IMPLEMENTATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]2.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]2.
 
 MULTIMODAL INFORMATION SERVICES, CONTRIBUTING TO SEAMLESS MOBILITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]3.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]3.
 
 TRAFFIC MANAGEMENT, INCLUDING ACCESS REGULATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]4.
+[^c-8dcc8c940f97036a8df21c42be3aa83e]4.
 
 URBAN LOGISTICS, INCLUDING PARKING MANAGEMENT
 
@@ -194,4 +194,4 @@ URBAN LOGISTICS, INCLUDING PARKING MANAGEMENT
 
 ## Annotations
 
-[^key-8dcc8c940f97036a8df21c42be3aa83e]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-8dcc8c940f97036a8df21c42be3aa83e]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

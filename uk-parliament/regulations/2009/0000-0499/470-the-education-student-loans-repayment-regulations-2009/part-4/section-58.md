@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Interest on unpaid repayments[^key-f9caeb877366c8f8513393bb0901953d]
+## 58. Interest on unpaid repayments[^c-f9caeb877366c8f8513393bb0901953d]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-995635f784646106398d0ccf46df0561] Subject to paragraphs (1A) and (2), where an employer has not on or before the 14th day after the end of an income tax period, beginning on or after 6 April 2014, paid an amount which the employer is liable to pay to HMRC under regulation 54 for that period, that amount will carry interest at the rate applicable under section 103 of the Finance Act 2009 for the purposes of section 101 of the Finance Act 2009 from that date until payment.
+(1)[^c-995635f784646106398d0ccf46df0561] Subject to paragraphs (1A) and (2), where an employer has not on or before the 14th day after the end of an income tax period, beginning on or after 6 April 2014, paid an amount which the employer is liable to pay to HMRC under regulation 54 for that period, that amount will carry interest at the rate applicable under section 103 of the Finance Act 2009 for the purposes of section 101 of the Finance Act 2009 from that date until payment.
 
 (1A) Subject to paragraph (2), any amount which an employer is liable to pay to HMRC under regulation 54 and which is outstanding immediately prior to 6 April 2014 will carry interest from the 14th day after the end of the tax year in which it should have been paid to the date of payment at the rate applicable under—
 
 - (a) section 178 of the Finance Act 1989 for the purposes of section 86 of the 1970 Act in respect of the period up to and including 5 April 2014; and
 - (b) sections 101 and 103 of the Finance Act 2009 in respect of the period from 6 April 2014.
 
-(2) Where payment is made by an approved method of electronic communications, the interest payable under paragraph (1) must be calculated as if the date in paragraph (1) was the 17<sup>th</sup> day after the end of the tax period[^key-ed5745c367cb79ff136a45abd4947d82].
+(2) Where payment is made by an approved method of electronic communications, the interest payable under paragraph (1) must be calculated as if the date in paragraph (1) was the 17<sup>th</sup> day after the end of the tax period[^c-ed5745c367cb79ff136a45abd4947d82].
 
 (3) Interest payable under this regulation is recoverable as if it were an amount which the employer was liable to pay under regulation 54.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f9caeb877366c8f8513393bb0901953d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2009/470/regulation/58) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-f9caeb877366c8f8513393bb0901953d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2009/470/regulation/58) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-995635f784646106398d0ccf46df0561]: Textual amendment: [Reg. 58(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1A) substituted for [reg. 58(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/651/regulation/5/a)
+[^c-995635f784646106398d0ccf46df0561]: Textual amendment: [Reg. 58(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1)[(1A)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1A) substituted for [reg. 58(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/1) (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/651/regulation/5/a)
 
-[^key-ed5745c367cb79ff136a45abd4947d82]: Textual amendment: Word in [reg. 58(2)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/2) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/651/regulation/5/b)
+[^c-ed5745c367cb79ff136a45abd4947d82]: Textual amendment: Word in [reg. 58(2)](https://www.legislation.gov.uk/uksi/2009/470/regulation/58/2) substituted (6.4.2014) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2014 (S.I. 2014/651)](https://www.legislation.gov.uk/uksi/2014/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/651/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/651/regulation/5/b)

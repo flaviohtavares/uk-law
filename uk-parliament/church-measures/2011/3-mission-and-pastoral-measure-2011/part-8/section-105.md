@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 105. Meaning of “benefice” and “parish”[^key-8794a819f3badf7b00cfc39b1bd0224b]
+## 105. Meaning of “benefice” and “parish”[^c-8794a819f3badf7b00cfc39b1bd0224b]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8794a819f3badf7b00cfc39b1bd0224b]: Commencement: S. 105 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8794a819f3badf7b00cfc39b1bd0224b]: Commencement: S. 105 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Miscellaneous Food Additives (Amendment) (No.2) (Wales) Regulations 2005 (revoked)[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+The Miscellaneous Food Additives (Amendment) (No.2) (Wales) Regulations 2005 (revoked)[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 Made
 
@@ -41,72 +41,72 @@ Coming into force
 
 20 May 2005
 
-[^key-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 1. Title, commencement and application[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 3.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 4.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 5.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 6.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 7.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 8.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 9.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 10.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 11.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 12.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 13.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-0d8e7943b2dae34d9a82ad57c082f81e]
+## 14.[^c-0d8e7943b2dae34d9a82ad57c082f81e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d8e7943b2dae34d9a82ad57c082f81e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d8e7943b2dae34d9a82ad57c082f81e]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg.1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-0d8e7943b2dae34d9a82ad57c082f81e]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg.1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

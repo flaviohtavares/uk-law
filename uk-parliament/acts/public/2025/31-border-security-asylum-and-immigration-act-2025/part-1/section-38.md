@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Use and retention of information taken under section 37[^key-96028a4740fa88aacc78230c5b8d426f]
+## 38. Use and retention of information taken under section 37[^c-96028a4740fa88aacc78230c5b8d426f]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96028a4740fa88aacc78230c5b8d426f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/31/section/38) in force at 2.2.2026, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)
+[^c-96028a4740fa88aacc78230c5b8d426f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/31/section/38) in force at 2.2.2026, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)

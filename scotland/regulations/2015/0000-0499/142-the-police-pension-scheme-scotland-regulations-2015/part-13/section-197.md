@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 197. Appeals to sheriff[^key-8239a67cbdba09919a249e7b1fc65ea9]
+## 197. Appeals to sheriff[^c-8239a67cbdba09919a249e7b1fc65ea9]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8239a67cbdba09919a249e7b1fc65ea9]: Commencement: Reg. 197 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-8239a67cbdba09919a249e7b1fc65ea9]: Commencement: Reg. 197 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -32,10 +32,10 @@ Commission Regulation (EC) No 997/2002
 
 of 11 June 2002 establishing detailed rules for the implementation of the provisions relating to the allocation of a Community financial contribution for Member States in order to strengthen inspection infrastructures for plant health checks on plants and plant products coming from third countries (revoked)
 
-[^key-e4553ed4997fbef8b6a3988e719d49fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4553ed4997fbef8b6a3988e719d49fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e4553ed4997fbef8b6a3988e719d49fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e4553ed4997fbef8b6a3988e719d49fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4553ed4997fbef8b6a3988e719d49fb]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-e4553ed4997fbef8b6a3988e719d49fb]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

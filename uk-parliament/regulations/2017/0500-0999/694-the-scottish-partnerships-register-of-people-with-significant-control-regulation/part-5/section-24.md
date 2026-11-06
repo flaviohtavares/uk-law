@@ -25,7 +25,7 @@ summary: ''
 - (a) knows or has reasonable cause to believe that there is a registrable person in relation to the eligible Scottish partnership, and
 - (b) has not been able to identify the registrable person.
 
-(2)[^key-e9423381f1bb4652ce596019ce093821] The eligible Scottish partnership must deliver the information specified in paragraph (3) to the registrar within the period of 14 days beginning with the later of—
+(2)[^c-e9423381f1bb4652ce596019ce093821] The eligible Scottish partnership must deliver the information specified in paragraph (3) to the registrar within the period of 14 days beginning with the later of—
 
 - (a) 24th July 2017, and
 - (b) the day on which it first has the knowledge or reasonable cause for belief.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9423381f1bb4652ce596019ce093821]: Modification: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/24/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [27](https://www.legislation.gov.uk/uksi/2020/645/regulation/27)
+[^c-e9423381f1bb4652ce596019ce093821]: Modification: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/24/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [27](https://www.legislation.gov.uk/uksi/2020/645/regulation/27)

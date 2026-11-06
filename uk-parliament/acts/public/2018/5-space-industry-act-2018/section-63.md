@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Provision of advice and assistance by or to an appointed person[^key-53296e1ee8089346ff8f577495336be8]
+## 63. Provision of advice and assistance by or to an appointed person[^c-53296e1ee8089346ff8f577495336be8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the appointed person may refuse to do so until the other person pays to the appo
 
 ## Annotations
 
-[^key-53296e1ee8089346ff8f577495336be8]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2018/5/section/63) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 103](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/103) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-53296e1ee8089346ff8f577495336be8]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2018/5/section/63) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 103](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/103) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

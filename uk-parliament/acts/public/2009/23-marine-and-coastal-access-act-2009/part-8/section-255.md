@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Power to record evidence of offences[^key-de8a31db84dff8038996a06a777141bb]
+## 255. Power to record evidence of offences[^c-de8a31db84dff8038996a06a777141bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ any vessel, marine installation, premises or vehicle.
 
 ## Annotations
 
-[^key-de8a31db84dff8038996a06a777141bb]: Commencement: S. 255 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-de8a31db84dff8038996a06a777141bb]: Commencement: S. 255 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2021 (revoked)[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2021 (revoked)[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 31st March 2021
 
-[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]
+## 1. Citation and commencement[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]
+## 2. The levy ceiling[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]
+## 3. Revocation[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-bafcd98d18d3d2e30bdc0a10bbd2f72e]: Textual amendment: Order revoked (31.3.2022) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2022 (S.R. 2022/69)](https://www.legislation.gov.uk/nisr/2022/69), [arts. 1](https://www.legislation.gov.uk/nisr/2022/69/article/1), [3](https://www.legislation.gov.uk/nisr/2022/69/article/3)
+[^c-bafcd98d18d3d2e30bdc0a10bbd2f72e]: Textual amendment: Order revoked (31.3.2022) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2022 (S.R. 2022/69)](https://www.legislation.gov.uk/nisr/2022/69), [arts. 1](https://www.legislation.gov.uk/nisr/2022/69/article/1), [3](https://www.legislation.gov.uk/nisr/2022/69/article/3)

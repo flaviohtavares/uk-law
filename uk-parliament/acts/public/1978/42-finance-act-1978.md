@@ -43,7 +43,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 6. Anti-dumping measures on ECSC products.
 
-(1) In relation to any product covered by the ECSC treaty, the Secretary of State may by order make such provision as appears to him to be appropriate for the purpose of giving effect to any Recommendation or other EU[^key-3f351960f3ff9d9646da2fab69998eb2] obligation arising under that treaty and relating to the imposition, amendment, suspension, revocation or annulment of anti-dumping measures, that is to say, measures for affording protection against dumping or the granting of bounties or subsidies by countries which are not members of the European Union[^key-f13aa48e2d20af044442e9e4d6a31491].
+(1) In relation to any product covered by the ECSC treaty, the Secretary of State may by order make such provision as appears to him to be appropriate for the purpose of giving effect to any Recommendation or other EU[^c-3f351960f3ff9d9646da2fab69998eb2] obligation arising under that treaty and relating to the imposition, amendment, suspension, revocation or annulment of anti-dumping measures, that is to say, measures for affording protection against dumping or the granting of bounties or subsidies by countries which are not members of the European Union[^c-f13aa48e2d20af044442e9e4d6a31491].
 
 (2) Without prejudice to the generality of the power conferred by subsection (1) above, so far as may be necessary for giving effect to EU obligation, an order under that subsection may, in circumstances specified in the order,—
 
@@ -124,7 +124,7 @@ and in section 40(1) of the said Act of 1972 (appeals) after paragraph (g) ther 
 
 (1)(2)[^c10342701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3979ff280847af3769845059c289e4ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3979ff280847af3769845059c289e4ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c10342711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,7 +164,7 @@ and in section 40(1) of the said Act of 1972 (appeals) after paragraph (g) ther 
 
 ## PART V — MISCELLANEOUS AND SUPPLEMENTARY
 
-### 77. Disclosure of information to tax authorities in other member States.[^key-9968312879014089050e7b6df0540816]
+### 77. Disclosure of information to tax authorities in other member States.[^c-9968312879014089050e7b6df0540816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -437,9 +437,9 @@ Section 80.
 
 [^c10342241]: Textual amendment: [Ss. 3–5](https://www.legislation.gov.uk/ukpga/1978/42/section/3) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177(3)](https://www.legislation.gov.uk/ukpga/1979/2/section/177/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I)
 
-[^key-3f351960f3ff9d9646da2fab69998eb2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
+[^c-3f351960f3ff9d9646da2fab69998eb2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
 
-[^key-f13aa48e2d20af044442e9e4d6a31491]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
+[^c-f13aa48e2d20af044442e9e4d6a31491]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4))
 
 [^c10342301]: Textual amendment: Words repealed by [Excise Duties (Surcharges or Rebates) Act 1979 (c. 8)](https://www.legislation.gov.uk/ukpga/1979/8), [s. 4](https://www.legislation.gov.uk/ukpga/1979/8/section/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/8/schedule/2)
 
@@ -471,7 +471,7 @@ Section 80.
 
 [^c10342701]: Textual amendment: S. 29(1)(2) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31).
 
-[^key-3979ff280847af3769845059c289e4ca]: Textual amendment: S. 29(3) repealed (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3979ff280847af3769845059c289e4ca]: Textual amendment: S. 29(3) repealed (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c10342711]: Textual amendment: S. 29(4) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
@@ -499,7 +499,7 @@ Section 80.
 
 [^c10342831]: Textual amendment: [S. 76](https://www.legislation.gov.uk/ukpga/1978/42/section/76) repealed by [Finance (No. 2) Act 1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47), [s. 25(5)](https://www.legislation.gov.uk/ukpga/1979/47/section/25/5), [Sch. 5 Pt. IV](https://www.legislation.gov.uk/ukpga/1979/47/schedule/5/part/IV)
 
-[^key-9968312879014089050e7b6df0540816]: Textual amendment: S. 77 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)
+[^c-9968312879014089050e7b6df0540816]: Textual amendment: S. 77 repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)
 
 [^c10342861]: Textual amendment: [S. 78](https://www.legislation.gov.uk/ukpga/1978/42/section/78) repealed by [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. XIV](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/XIV)
 

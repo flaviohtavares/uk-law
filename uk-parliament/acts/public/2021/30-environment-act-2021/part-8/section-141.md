@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Amendments of Schedule 7B to the Government of Wales Act 2006[^key-510b8d4ff37cffbb14b557d01c2e6b23]
+## 141. Amendments of Schedule 7B to the Government of Wales Act 2006[^c-510b8d4ff37cffbb14b557d01c2e6b23]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-510b8d4ff37cffbb14b557d01c2e6b23]: Commencement: S. 141 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-510b8d4ff37cffbb14b557d01c2e6b23]: Commencement: S. 141 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

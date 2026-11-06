@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Additional powers in respect of off-street parking places[^key-82bcc38a6a8a35a918f9020ceee9d1f6]
+## 11. Additional powers in respect of off-street parking places[^c-82bcc38a6a8a35a918f9020ceee9d1f6]
 
 *Extent: N.I.*
 
-(1) The powers of the parking authority[^key-d54597c2a6130c025797f7d4b1b3f389] under Article 10 to provide off-street parking places for vehicles shall include power—
+(1) The powers of the parking authority[^c-d54597c2a6130c025797f7d4b1b3f389] under Article 10 to provide off-street parking places for vehicles shall include power—
 
 - (a) provide such parking places below ground or in buildings, including buildings used also for other purposes, together with means of access to them;
 - (b) to provide at such parking places buildings, facilities and apparatus for the storage and sale of fuel and lubricants and the supply of air and water for vehicles;
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82bcc38a6a8a35a918f9020ceee9d1f6]: Modification: Arts. 10-14: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
+[^c-82bcc38a6a8a35a918f9020ceee9d1f6]: Modification: Arts. 10-14: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
 
-[^key-d54597c2a6130c025797f7d4b1b3f389]: Textual amendment: Words in art. 11 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 2(1)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/2/1)
+[^c-d54597c2a6130c025797f7d4b1b3f389]: Textual amendment: Words in art. 11 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 2(1)](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Duty to give information and documents on change of accountable person[^key-48d74a69cdfc53f5767b8ecbe1d8508e]
+## 50. Duty to give information and documents on change of accountable person[^c-48d74a69cdfc53f5767b8ecbe1d8508e]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48d74a69cdfc53f5767b8ecbe1d8508e]: Commencement: S. 50 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-48d74a69cdfc53f5767b8ecbe1d8508e]: Commencement: S. 50 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

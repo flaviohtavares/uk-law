@@ -46,11 +46,11 @@ And whereas the Secretary of State for Transport has considered the objections m
 
 Now, therefore, the Secretary of State for Transport (being the appropriate Minister under subsection (7) of the said section 14)[^f00003] in exercise of the powers conferred by that section and now vested in him[^f00004], and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-9b47a4c699a9cc749a809076e52fc0e0]
+## 1. Citation and commencement[^c-9b47a4c699a9cc749a809076e52fc0e0]
 
 This Order may be cited as the Weymouth Harbour Revision Order 1996 and shall come into force on 15th January 1996.
 
-## 2. Interpretation[^key-bba8d1d2bf00379e052021a2cdf2bdf7]
+## 2. Interpretation[^c-bba8d1d2bf00379e052021a2cdf2bdf7]
 
 In this Order—
 
@@ -59,7 +59,7 @@ In this Order—
 - “the Authority” means the Weymouth and Portland Borough Council;
 - “the signed plan” means the plan prepared in duplicate, signed by an Under Secretary in the Department of Transport and marked “Signed plan referred to in the Weymouth Harbour Revision Order 1996”, one copy of which is deposited at the offices of the Department of Transport and the other at the principal office of the Authority.
 
-## 3. Power to grant leases[^key-21dddba37d979c31ad3b8d0f26b5b46e]
+## 3. Power to grant leases[^c-21dddba37d979c31ad3b8d0f26b5b46e]
 
 (1) Nothwithstanding section 33 of the Harbours, Docks and Piers Clauses Act 1847[^f00005] (incorporated with the Weymouth and Melcombe Regis Corporation Act 1887[^f00006], the Weymouth and Melcombe Regis Corporation Act 1914[^f00007], and the Weymouth and Melcombe Regis Harbour Order 1925)[^f00008] the Authority may (subject to the Inner Harbour (North)’s belonging to the Authority) lease the Inner Harbour (North) in whole or in part for the purpose of the construction and operation by the tenant of a marina.
 
@@ -77,7 +77,7 @@ Department of Transport
 
 3rd January 1996
 
-## SCHEDULE — DESCRIPTION OF THE INNER HARBOUR (NORTH)[^key-0799e31d685ed13db1ead6d4747b444d]
+## SCHEDULE — DESCRIPTION OF THE INNER HARBOUR (NORTH)[^c-0799e31d685ed13db1ead6d4747b444d]
 
 Article 2
 
@@ -102,11 +102,11 @@ This Order empowers the Weymouth and Portland Borough Council to lease part of t
 
 [^f00004]: Footnote: S.I. [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
 
-[^key-9b47a4c699a9cc749a809076e52fc0e0]: Commencement: Art. 1 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
+[^c-9b47a4c699a9cc749a809076e52fc0e0]: Commencement: Art. 1 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
 
-[^key-bba8d1d2bf00379e052021a2cdf2bdf7]: Commencement: Art. 2 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
+[^c-bba8d1d2bf00379e052021a2cdf2bdf7]: Commencement: Art. 2 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
 
-[^key-21dddba37d979c31ad3b8d0f26b5b46e]: Commencement: Art. 3 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
+[^c-21dddba37d979c31ad3b8d0f26b5b46e]: Commencement: Art. 3 in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
 
 [^f00005]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -116,4 +116,4 @@ This Order empowers the Weymouth and Portland Borough Council to lease part of t
 
 [^f00008]: Footnote: Confirmed by [1925 c. 1xxiv](https://www.legislation.gov.uk/ukla/1925/74).
 
-[^key-0799e31d685ed13db1ead6d4747b444d]: Commencement: Sch. in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)
+[^c-0799e31d685ed13db1ead6d4747b444d]: Commencement: Sch. in force at 15.1.1996, see [art. 1](https://www.legislation.gov.uk/uksi/1996/15/article/1)

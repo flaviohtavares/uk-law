@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.2. Initiation of proceedings[^key-91883e36099918b1c969af1f9cca1eb0]
+## 3.11.2. Initiation of proceedings[^c-91883e36099918b1c969af1f9cca1eb0]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91883e36099918b1c969af1f9cca1eb0]: Commencement: Rule 3.11.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-91883e36099918b1c969af1f9cca1eb0]: Commencement: Rule 3.11.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00051]: Footnote: Section 136 was amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), Schedule 4, paragraph 48.

@@ -29,7 +29,7 @@ summary: ''
   - (ii) are available for assignment; and
 - (b) the purposes for which the different frequencies have been allocated.
 
-(3)[^key-0ae3d0da8323628e7ecbb080226228a3] Before publishing the plan, OFCOM must ensure that the criteria applied to determine the allocation of frequencies for particular purposes are—
+(3)[^c-0ae3d0da8323628e7ecbb080226228a3] Before publishing the plan, OFCOM must ensure that the criteria applied to determine the allocation of frequencies for particular purposes are—
 
 - (a) objectively justifiable in relation to the frequencies or uses to which they relate,
 - (b) not such as to discriminate unduly against particular persons or against a particular description of persons;
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae3d0da8323628e7ecbb080226228a3]: Textual amendment: S. 2(3) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/2) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-0ae3d0da8323628e7ecbb080226228a3]: Textual amendment: S. 2(3) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/2) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

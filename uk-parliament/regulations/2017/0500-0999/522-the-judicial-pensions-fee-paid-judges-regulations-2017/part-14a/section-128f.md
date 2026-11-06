@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128F. Limits on maximum purchases[^key-73af1ad52439faa59a794455bec473bf]
+## 128F. Limits on maximum purchases[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,18 +26,18 @@ summary: ''
 
 - (a) the amount referred to in paragraph (3)(a), (b) or (c) as appropriate; or
 - (b) the greater of—
-  - (i) 2/3rds of the amount determined in accordance with the following formula—[^key-683e3ec7d37fc6abf1c254afefff2c61]
+  - (i) 2/3rds of the amount determined in accordance with the following formula—[^c-683e3ec7d37fc6abf1c254afefff2c61]
 
     [formula: see source](https://www.legislation.gov.uk/uksi/2017/522)
 
     where—
 
     - RB is the member’s retained benefits, and
-  - (ii) 1/60th of the value of WS[^key-ff212e4427396b3539637f3b899ddcbf] for each year of qualifying judicial service, subject to a maximum of 40 years of qualifying judicial service.
+  - (ii) 1/60th of the value of WS[^c-ff212e4427396b3539637f3b899ddcbf] for each year of qualifying judicial service, subject to a maximum of 40 years of qualifying judicial service.
 
 (3) The amount referred to in paragraph (2)(a) is—
 
-- (a) where the member retires at or after the member’s earliest normal pension age under the pre-1995 provisions, the amount calculated by applying the appropriate fraction (determined in accordance with the table below, into which a fraction of a year is to be interpolated in accordance with paragraph (4)) to the value of WS[^key-07f023aa6ed876d44d7eebc49c229d1c]—
+- (a) where the member retires at or after the member’s earliest normal pension age under the pre-1995 provisions, the amount calculated by applying the appropriate fraction (determined in accordance with the table below, into which a fraction of a year is to be interpolated in accordance with paragraph (4)) to the value of WS[^c-07f023aa6ed876d44d7eebc49c229d1c]—
 
   | Complete years of qualifying judicial service | Appropriate fraction |
   | --- | --- |
@@ -77,9 +77,9 @@ summary: ''
 
 (5) The lump sum benefit must not exceed the figure calculated in accordance with sub-paragraphs (a) or (c) as appropriate—
 
-- (a) on retirement before the member’s earliest normal pension age under the pre-1995 provisions other than on the ground of ill health, or at or after the member’s earliest normal pension age under the pre-1995 provisions, the fraction of WS[^key-40ecbc0d0ab69b415db9a99ebf6b427d] obtained under subparagraph (b);
+- (a) on retirement before the member’s earliest normal pension age under the pre-1995 provisions other than on the ground of ill health, or at or after the member’s earliest normal pension age under the pre-1995 provisions, the fraction of WS[^c-40ecbc0d0ab69b415db9a99ebf6b427d] obtained under subparagraph (b);
 - (b) the fraction is determined in accordance with the scale set out in the Occupational Pension Schemes (Maximum Rate Lump Sum) Regulations 1987, but for the ‘period of service’ in that scale using the member’s qualifying judicial service;
-- (c) on retirement before the member’s earliest normal pension age under the pre-1995 provisions on the ground of ill-health, the fraction of WS[^key-0a42d4af63f789ee092786834ad4043e] obtained under sub-paragraph (d);
+- (c) on retirement before the member’s earliest normal pension age under the pre-1995 provisions on the ground of ill-health, the fraction of WS[^c-0a42d4af63f789ee092786834ad4043e] obtained under sub-paragraph (d);
 - (d) the fraction is determined in accordance with the scale set out in the Occupational Pension Schemes (Maximum Rate Lump Sum) Regulations 1987, but for the ‘period of service’ in that scale using a value for the member’s qualifying judicial service as if the member had continued in eligible fee-paid judicial office until the date on which they reached their earliest normal pension age under the pre-1995 provisions.
 
 (6) Where the maximum number of added units of benefit would (apart from this paragraph) be negative, it is instead nil.
@@ -88,14 +88,14 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-683e3ec7d37fc6abf1c254afefff2c61]: Textual amendment: [Reg. 128F(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/2/b/i): in the formula, “WS” substituted for “PRS” (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/a)
+[^c-683e3ec7d37fc6abf1c254afefff2c61]: Textual amendment: [Reg. 128F(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/2/b/i): in the formula, “WS” substituted for “PRS” (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/a)
 
-[^key-ff212e4427396b3539637f3b899ddcbf]: Textual amendment: Word in [reg. 128F(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/2/b/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/a)
+[^c-ff212e4427396b3539637f3b899ddcbf]: Textual amendment: Word in [reg. 128F(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/2/b/ii) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/a)
 
-[^key-07f023aa6ed876d44d7eebc49c229d1c]: Textual amendment: Word in [reg. 128F(3)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/3/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/b)
+[^c-07f023aa6ed876d44d7eebc49c229d1c]: Textual amendment: Word in [reg. 128F(3)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/3/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/b)
 
-[^key-40ecbc0d0ab69b415db9a99ebf6b427d]: Textual amendment: Word in [reg. 128F(5)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/5/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/c)
+[^c-40ecbc0d0ab69b415db9a99ebf6b427d]: Textual amendment: Word in [reg. 128F(5)(a)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/5/a) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/c)
 
-[^key-0a42d4af63f789ee092786834ad4043e]: Textual amendment: Word in [reg. 128F(5)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/5/c) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(d)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/d)
+[^c-0a42d4af63f789ee092786834ad4043e]: Textual amendment: Word in [reg. 128F(5)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128F/5/c) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [24(d)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/24/d)

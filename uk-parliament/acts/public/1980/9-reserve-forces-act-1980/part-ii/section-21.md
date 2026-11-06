@@ -28,7 +28,7 @@ summary: ''
 
 (4)[^M_F_c8763e44-1129-455e-fb2b-035d2f07b4a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Nothing in subsection (2) above shall prejudice the operation of subsection (3)[^key-b1060a4163f7cfe7c27fce66cc992149] .
+(5) Nothing in subsection (2) above shall prejudice the operation of subsection (3)[^c-b1060a4163f7cfe7c27fce66cc992149] .
 
 ## Annotations
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_F_c8763e44-1129-455e-fb2b-035d2f07b4a3]: Textual amendment: S. 21(4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 6(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/6/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b1060a4163f7cfe7c27fce66cc992149]: Textual amendment: Words in s. 21(5) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 6(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/6/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b1060a4163f7cfe7c27fce66cc992149]: Textual amendment: Words in s. 21(5) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 6(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/6/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

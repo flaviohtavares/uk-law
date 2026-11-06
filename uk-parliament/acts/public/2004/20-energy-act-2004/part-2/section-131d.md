@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131D. Recycled carbon fuel and nuclear-derived fuel[^key-9d519566258aa1c90c978c03ccf7b79a]
+## 131D. Recycled carbon fuel and nuclear-derived fuel[^c-9d519566258aa1c90c978c03ccf7b79a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d519566258aa1c90c978c03ccf7b79a]: Textual amendment: [S. 131D](https://www.legislation.gov.uk/ukpga/2004/20/section/131D) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 157](https://www.legislation.gov.uk/ukpga/2023/52/section/157), [334(2)(e)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/e)
+[^c-9d519566258aa1c90c978c03ccf7b79a]: Textual amendment: [S. 131D](https://www.legislation.gov.uk/ukpga/2004/20/section/131D) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 157](https://www.legislation.gov.uk/ukpga/2023/52/section/157), [334(2)(e)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/e)

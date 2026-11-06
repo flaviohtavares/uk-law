@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Prohibitory property orders: restriction on proceedings and remedies[^key-a411834192316f4f0761eec2cee29427]
+## 164. Prohibitory property orders: restriction on proceedings and remedies[^c-a411834192316f4f0761eec2cee29427]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a411834192316f4f0761eec2cee29427]: Commencement: [Art. 164](https://www.legislation.gov.uk/uksi/2005/3181/article/164) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a411834192316f4f0761eec2cee29427]: Commencement: [Art. 164](https://www.legislation.gov.uk/uksi/2005/3181/article/164) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

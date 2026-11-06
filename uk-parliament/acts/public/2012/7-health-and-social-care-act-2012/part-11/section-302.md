@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302. Transfer schemes in respect of previously transferred property[^key-4e55390db5242d675c3cde1664693a05][^key-4c757d563dc16da9d7bb0025a7e723dc][^key-8f4211ab674097db8a866e5ef80e79dc][^key-300b365bb74db61fc10323d4a9f9e109]
+## 302. Transfer schemes in respect of previously transferred property[^c-4e55390db5242d675c3cde1664693a05][^c-4c757d563dc16da9d7bb0025a7e723dc][^c-8f4211ab674097db8a866e5ef80e79dc][^c-300b365bb74db61fc10323d4a9f9e109]
 
 *Extent: E+W*
 
@@ -60,10 +60,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4e55390db5242d675c3cde1664693a05]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-4e55390db5242d675c3cde1664693a05]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-4c757d563dc16da9d7bb0025a7e723dc]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-4c757d563dc16da9d7bb0025a7e723dc]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-8f4211ab674097db8a866e5ef80e79dc]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8f4211ab674097db8a866e5ef80e79dc]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-300b365bb74db61fc10323d4a9f9e109]: Textual amendment: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-300b365bb74db61fc10323d4a9f9e109]: Textual amendment: [S. 302](https://www.legislation.gov.uk/ukpga/2012/7/section/302) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/89/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If a transfer value payment is made under this Chapter in respect of a person’s rights under this Section of[^key-b0b752f34fe7f883301daabeaa9d437c] the Scheme, those rights are extinguished.
+(1) If a transfer value payment is made under this Chapter in respect of a person’s rights under this Section of[^c-b0b752f34fe7f883301daabeaa9d437c] the Scheme, those rights are extinguished.
 
 ## Annotations
 
-[^key-b0b752f34fe7f883301daabeaa9d437c]: Textual amendment: Words in [reg. 2.F.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.7/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-b0b752f34fe7f883301daabeaa9d437c]: Textual amendment: Words in [reg. 2.F.7(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.7/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

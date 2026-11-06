@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Election for armed forces service to be pensionable[^key-ffe00ad65a2e3bd35e666859646a1b8b]
+## 25. Election for armed forces service to be pensionable[^c-ffe00ad65a2e3bd35e666859646a1b8b]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffe00ad65a2e3bd35e666859646a1b8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/292/regulation/25) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ffe00ad65a2e3bd35e666859646a1b8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/292/regulation/25) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00021]: Footnote: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).

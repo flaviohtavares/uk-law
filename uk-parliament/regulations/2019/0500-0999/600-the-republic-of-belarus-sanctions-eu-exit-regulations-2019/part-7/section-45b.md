@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Internet services: information offences[^key-da6f13fd2597cac5ef6b2e5fb2a15fe3]
+## 45B. Internet services: information offences[^c-da6f13fd2597cac5ef6b2e5fb2a15fe3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6f13fd2597cac5ef6b2e5fb2a15fe3]: Textual amendment: [Regs. 45A](https://www.legislation.gov.uk/uksi/2019/600/regulation/45A), [45B](https://www.legislation.gov.uk/uksi/2019/600/regulation/45B) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/616/regulation/16)
+[^c-da6f13fd2597cac5ef6b2e5fb2a15fe3]: Textual amendment: [Regs. 45A](https://www.legislation.gov.uk/uksi/2019/600/regulation/45A), [45B](https://www.legislation.gov.uk/uksi/2019/600/regulation/45B) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/616/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 274. Notifications relating to documents[^key-07fd56d234f680195aa60a553de85fa5]
+## 274. Notifications relating to documents[^c-07fd56d234f680195aa60a553de85fa5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 272 of these Rules, a notificati
 
 ## Annotations
 
-[^key-07fd56d234f680195aa60a553de85fa5]: Commencement: [Rule 274](https://www.legislation.gov.uk/nisr/2026/11/rule/274) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-07fd56d234f680195aa60a553de85fa5]: Commencement: [Rule 274](https://www.legislation.gov.uk/nisr/2026/11/rule/274) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

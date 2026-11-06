@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105CB. Decision about whether or not to proceed with a project subject to an environmental impact assessment[^key-4da1fb64128d6c93404a2cdf5336c23d][^c13422031]
+## 105CB. Decision about whether or not to proceed with a project subject to an environmental impact assessment[^c-4da1fb64128d6c93404a2cdf5336c23d][^c13422031]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4da1fb64128d6c93404a2cdf5336c23d]: Textual amendment: Ss. 105CA-105CD inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/6) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
+[^c-4da1fb64128d6c93404a2cdf5336c23d]: Textual amendment: Ss. 105CA-105CD inserted (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/6) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Prescribed role: all operators[^key-74feea0752d4f8aa7967983d8054a016]
+## 8. Prescribed role: all operators[^c-74feea0752d4f8aa7967983d8054a016]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74feea0752d4f8aa7967983d8054a016]: Commencement: Reg. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-74feea0752d4f8aa7967983d8054a016]: Commencement: Reg. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

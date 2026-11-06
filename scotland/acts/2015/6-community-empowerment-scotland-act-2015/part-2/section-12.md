@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Locality plan: progress report[^key-539b06f0aaa1260dd29c05a7fcd82476]
+## 12. Locality plan: progress report[^c-539b06f0aaa1260dd29c05a7fcd82476]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-539b06f0aaa1260dd29c05a7fcd82476]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/6/section/12) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-539b06f0aaa1260dd29c05a7fcd82476]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/6/section/12) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

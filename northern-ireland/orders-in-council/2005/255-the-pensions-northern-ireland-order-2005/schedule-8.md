@@ -51,7 +51,7 @@ or the failure to provide information under those provisions.
 
 **7A.**[^c17106861] Any determination by the Board under Article 125(2) (determination on a review of an ill health pension that compensation in respect of the pension is to be determined in the prescribed manner).
 
-**7B.**[^key-8749bcf444f23745b4e424ebf3dfe7a3][^c17106901] A notice under Article 127(2A) (whether Board will make a determination or obtain an actuarial valuation).
+**7B.**[^c-8749bcf444f23745b4e424ebf3dfe7a3][^c17106901] A notice under Article 127(2A) (whether Board will make a determination or obtain an actuarial valuation).
 
 **7C.**[^M_F_387f6bfa-d5ce-4ab7-d658-dc8c09a61255] The failure by the Board either to—
 
@@ -75,7 +75,7 @@ or the failure to provide information under those provisions.
 
 **14.** Any direction given under Article 138(7) (directions about winding up of scheme with sufficient assets to meet protected liabilities) and any variation or revocation of such a direction.
 
-**14A.**[^key-e4a3aec055af7a400869bfd85ff49818] A notice under Article 142(3A) (whether Board will make a determination or obtain an actuarial valuation).
+**14A.**[^c-e4a3aec055af7a400869bfd85ff49818] A notice under Article 142(3A) (whether Board will make a determination or obtain an actuarial valuation).
 
 **14B.** The failure by the Board either to—
 
@@ -100,7 +100,7 @@ or the failure to provide information under those provisions.
 
 **16F.** The recovery of a charge from a person under regulation 16 of the Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011 (charges in respect of pension compensation sharing costs etc. recoverable by the Board), the amount of the charge or the method of recovery.
 
-**16G.**[^key-7675c8ff3c45b30246d82d7b7eba6343] Any determination by the Board, or the failure to make a determination, under regulation 53(1) of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (discharge as money purchase liabilities: periods after the appointed day).
+**16G.**[^c-7675c8ff3c45b30246d82d7b7eba6343] Any determination by the Board, or the failure to make a determination, under regulation 53(1) of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (discharge as money purchase liabilities: periods after the appointed day).
 
 **16H.** Any determination by the Board, or the failure to make a determination, under regulation 54(2) of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (closed schemes: Board’s assumption of responsibility after the appointed day).
 
@@ -122,7 +122,7 @@ or the failure to provide information under those provisions.
 
 **20.** The making of a fraud compensation payment under Article 165(1), the amount of any such payment or the failure to make such a payment.
 
-**21.**[^key-53804d6e64f6fe5571dc6c991bd2f3b3][^key-efb4ebb0f8e866b1178f36e2983be0ee] The issue of, or failure to issue, a notice under Article 166(2) (scheme rescue not possible or having occurred in case of scheme which is not eligible etc.).
+**21.**[^c-53804d6e64f6fe5571dc6c991bd2f3b3][^c-efb4ebb0f8e866b1178f36e2983be0ee] The issue of, or failure to issue, a notice under Article 166(2) (scheme rescue not possible or having occurred in case of scheme which is not eligible etc.).
 
 **22.** Any settlement date determined by the Board under Article 167(2) (recovery of value) or the failure to determine a settlement date under that provision.
 
@@ -153,7 +153,7 @@ or the failure to provide information under those provisions.
 
 [^c17106861]: Textual amendment: SR 2005/357
 
-[^key-8749bcf444f23745b4e424ebf3dfe7a3]: Textual amendment: Sch. 8 paras. 7B-7D substituted for Sch. 8 para. 8 (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-8749bcf444f23745b4e424ebf3dfe7a3]: Textual amendment: Sch. 8 paras. 7B-7D substituted for Sch. 8 para. 8 (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 13(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
 [^c17106901]: Textual amendment: mod. by SR 2005/127
 
@@ -161,13 +161,13 @@ or the failure to provide information under those provisions.
 
 [^c17106911]: Textual amendment: mod. by SR 2005/127
 
-[^key-e4a3aec055af7a400869bfd85ff49818]: Textual amendment: Sch. 8 paras. 14A-14C inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-e4a3aec055af7a400869bfd85ff49818]: Textual amendment: Sch. 8 paras. 14A-14C inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
 [^c20226731]: Textual amendment: Sch. 8 paras. 16A, 16B inserted (6.4.2006) by [Pension Protection Fund (Reviewable Matters and Review and Reconsideration of Reviewable Matters) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/156)](https://www.legislation.gov.uk/nisr/2006/156), [reg. 2(b)](https://www.legislation.gov.uk/nisr/2006/156/regulation/2/b)
 
 [^M_F_e7a5ad21-36b4-4cf7-9530-023bd856b10a]: Textual amendment: Sch. 8 paras. 16C-16F inserted (6.4.2011) by [The Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011 (S.R. 2011/113)](https://www.legislation.gov.uk/nisr/2011/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/113/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2011/113/regulation/32)
 
-[^key-7675c8ff3c45b30246d82d7b7eba6343]: Textual amendment: [Sch. 8 paras. 16G-16I](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/16G) inserted (24.7.2014) by [The Pensions (2012 Act) (Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/213)](https://www.legislation.gov.uk/nisr/2014/213), [regs. 1](https://www.legislation.gov.uk/nisr/2014/213/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/213/regulation/3)
+[^c-7675c8ff3c45b30246d82d7b7eba6343]: Textual amendment: [Sch. 8 paras. 16G-16I](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/16G) inserted (24.7.2014) by [The Pensions (2012 Act) (Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/213)](https://www.legislation.gov.uk/nisr/2014/213), [regs. 1](https://www.legislation.gov.uk/nisr/2014/213/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/213/regulation/3)
 
 [^c17106881]: Textual amendment: SR 2005/127
 
@@ -177,6 +177,6 @@ or the failure to provide information under those provisions.
 
 [^c22068591]: Textual amendment: Sch. 8 para. 19B inserted (1.4.2010) by [Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/80)](https://www.legislation.gov.uk/nisr/2010/80), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2010/80/regulation/1/a), [2](https://www.legislation.gov.uk/nisr/2010/80/regulation/2)
 
-[^key-53804d6e64f6fe5571dc6c991bd2f3b3]: Modification: [Sch. 8 para. 21](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/21) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [23(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2023/148/regulation/23/2/a/vi)
+[^c-53804d6e64f6fe5571dc6c991bd2f3b3]: Modification: [Sch. 8 para. 21](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/21) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [23(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2023/148/regulation/23/2/a/vi)
 
-[^key-efb4ebb0f8e866b1178f36e2983be0ee]: Modification: [Sch. 8 para. 21](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/21) modifed (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [23(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2024/78/regulation/23/2/a/vi)
+[^c-efb4ebb0f8e866b1178f36e2983be0ee]: Modification: [Sch. 8 para. 21](https://www.legislation.gov.uk/nisi/2005/255/schedule/8/paragraph/21) modifed (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [23(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2024/78/regulation/23/2/a/vi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Evidence of identity[^key-437b91dda58547d7665dc621ce8c60d8]
+## 78. Evidence of identity[^c-437b91dda58547d7665dc621ce8c60d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ and the Director of Savings may for the purpose of obtaining the evidence requir
 
 ## Annotations
 
-[^key-437b91dda58547d7665dc621ce8c60d8]: Commencement: Reg. 78 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-437b91dda58547d7665dc621ce8c60d8]: Commencement: Reg. 78 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1150. Meaning of “investment manager” and “investment transaction”[^key-47cf833ad37c6ab085f0755c0294a3f6]
+## 1150. Meaning of “investment manager” and “investment transaction”[^c-47cf833ad37c6ab085f0755c0294a3f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47cf833ad37c6ab085f0755c0294a3f6]: Textual amendment: [S. 1150](https://www.legislation.gov.uk/ukpga/2010/4/section/1150) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 17(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/17/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-47cf833ad37c6ab085f0755c0294a3f6]: Textual amendment: [S. 1150](https://www.legislation.gov.uk/ukpga/2010/4/section/1150) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 17(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/17/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

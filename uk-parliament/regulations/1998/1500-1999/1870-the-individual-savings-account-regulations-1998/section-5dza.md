@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5DZA. Treatment of ISA where funds transferred under regulation 13B(2)(b) of the Child Trust Funds Regulations (maturity of child trust fund - no instructions)[^key-03a57b2c1e09bbb64af1c459e4e9e776][^key-8ef43955e91d7850ecd84c6f42a9af50]
+## 5DZA. Treatment of ISA where funds transferred under regulation 13B(2)(b) of the Child Trust Funds Regulations (maturity of child trust fund - no instructions)[^c-03a57b2c1e09bbb64af1c459e4e9e776][^c-8ef43955e91d7850ecd84c6f42a9af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) A transfer under that regulation is to be disregarded for the purposes of—
 
 - (a) the overall subscription limit under regulation 4ZA(1) (subscriptions to an account other than a junior ISA account), and
-- (b) the conditions for a qualifying individual under regulation 10(2)[^key-b6dd567ca79041ca2d94f80d2b0b20f4]... (d) (qualifying individuals who may invest under an account that is not a junior ISA account nor a Lifetime ISA).
+- (b) the conditions for a qualifying individual under regulation 10(2)[^c-b6dd567ca79041ca2d94f80d2b0b20f4]... (d) (qualifying individuals who may invest under an account that is not a junior ISA account nor a Lifetime ISA).
 
 (3) Notwithstanding any other provision of these regulations, paragraphs (4) to (10) apply until the account holder makes an application under regulation 12 (conditions for application to open an account that is not a junior ISA account or a Lifetime ISA).
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-03a57b2c1e09bbb64af1c459e4e9e776]: Textual amendment: Regs. 5DZ, 5DZA inserted (6.4.2020) by [The Individual Savings Account (Amendment) Regulations 2020 (S.I. 2020/30)](https://www.legislation.gov.uk/uksi/2020/30), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/30/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/30/regulation/4)
+[^c-03a57b2c1e09bbb64af1c459e4e9e776]: Textual amendment: Regs. 5DZ, 5DZA inserted (6.4.2020) by [The Individual Savings Account (Amendment) Regulations 2020 (S.I. 2020/30)](https://www.legislation.gov.uk/uksi/2020/30), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/30/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/30/regulation/4)
 
-[^key-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
+[^c-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
 
-[^key-b6dd567ca79041ca2d94f80d2b0b20f4]: Textual amendment: Words in [reg. 5DZA(2)(b)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DZA/2/b) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [13](https://www.legislation.gov.uk/uksi/2024/350/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/350/regulation/2))
+[^c-b6dd567ca79041ca2d94f80d2b0b20f4]: Textual amendment: Words in [reg. 5DZA(2)(b)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DZA/2/b) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [13](https://www.legislation.gov.uk/uksi/2024/350/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/350/regulation/2))

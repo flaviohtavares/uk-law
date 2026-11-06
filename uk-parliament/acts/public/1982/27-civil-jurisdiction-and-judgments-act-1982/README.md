@@ -31,7 +31,7 @@ Civil Jurisdiction and Judgments Act 1982
 
 [^c21528271]An Act to make further provision about the jurisdiction of courts and tribunals in the United Kingdom and certain other territories and about the recognition and enforcement of judgments given in the United Kingdom or elsewhere; to provide for the modification of certain provisions relating to legal aid; and for connected purposes.
 
-\[13th July 1982\][^key-f13386f1c92d9fa8b665ff52cf927d2f][^key-d294ada90d78d2590fda0597388c8ed8]
+\[13th July 1982\][^c-f13386f1c92d9fa8b665ff52cf927d2f][^c-d294ada90d78d2590fda0597388c8ed8]
 
 ## Contents
 
@@ -89,7 +89,7 @@ Civil Jurisdiction and Judgments Act 1982
 
 *Extent: E+W+S+N.I.*
 
-#### Jurisdiction in consumer and employment matters[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]
+#### Jurisdiction in consumer and employment matters[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -221,11 +221,11 @@ SCHEDULES
 - [SCHEDULE 13](schedule-13.md)
 - [SCHEDULE 14](schedule-14.md)
 
-## Jurisdiction in other civil proceedings[^key-1a21924278339d3122498385dd3752c8]
+## Jurisdiction in other civil proceedings[^c-1a21924278339d3122498385dd3752c8]
 
 *Extent: E+W+S+N.I.*
 
-## Recognition of judgments[^key-5b09d2f765f35f8fcd0d82167290976e]
+## Recognition of judgments[^c-5b09d2f765f35f8fcd0d82167290976e]
 
 *Extent: E+W+S+N.I.*
 
@@ -233,12 +233,12 @@ SCHEDULES
 
 [^c21528271]: Modification: Act: functions transferred (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 15(1)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1), [Sch. 17 para. 8](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/8) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f13386f1c92d9fa8b665ff52cf927d2f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/27) applied (with modifications) (31.12.2020) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 (S.I. 2018/1124)](https://www.legislation.gov.uk/uksi/2018/1124), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1124/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/2); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f13386f1c92d9fa8b665ff52cf927d2f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/27) applied (with modifications) (31.12.2020) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 (S.I. 2018/1124)](https://www.legislation.gov.uk/uksi/2018/1124), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1124/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2018/1124/regulation/7/2); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d294ada90d78d2590fda0597388c8ed8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/27) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d294ada90d78d2590fda0597388c8ed8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/27) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59cf4b4d784fe6deb5c8fcaeb9468fc7]: Textual amendment: [Ss. 15A-15E](https://www.legislation.gov.uk/ukpga/1982/27/section/15A) and cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a21924278339d3122498385dd3752c8]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1982/27/section/16) cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2019/479/regulation/27) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a21924278339d3122498385dd3752c8]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1982/27/section/16) cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2019/479/regulation/27) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b09d2f765f35f8fcd0d82167290976e]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1982/27/section/18) cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/479/regulation/29) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b09d2f765f35f8fcd0d82167290976e]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1982/27/section/18) cross-heading inserted (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2019/479/regulation/29) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

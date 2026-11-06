@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of article 2 (interpretation)[^key-8b00b5ded0ec9363546053cd3889792c]
+## 56. Amendment of article 2 (interpretation)[^c-8b00b5ded0ec9363546053cd3889792c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In article 2 (interpretation)
 
 ## Annotations
 
-[^key-8b00b5ded0ec9363546053cd3889792c]: Commencement: Reg. 56 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-8b00b5ded0ec9363546053cd3889792c]: Commencement: Reg. 56 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

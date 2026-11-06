@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Efficient use of water resources[^key-0c9ffd5767bd16a4a10983ff872e896a]
+## 72. Efficient use of water resources[^c-0c9ffd5767bd16a4a10983ff872e896a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 6 of the Environment Act 1995 (c. 25) (general provisions with respec
 
 ## Annotations
 
-[^key-0c9ffd5767bd16a4a10983ff872e896a]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2003/37/section/72) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(s)](https://www.legislation.gov.uk/uksi/2004/641/article/3/s) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-0c9ffd5767bd16a4a10983ff872e896a]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2003/37/section/72) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(s)](https://www.legislation.gov.uk/uksi/2004/641/article/3/s) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

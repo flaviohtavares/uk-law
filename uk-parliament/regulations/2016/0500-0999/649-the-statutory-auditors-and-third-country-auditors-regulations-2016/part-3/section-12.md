@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Contractual terms restricting choice of auditor[^key-d36b241687d18e2a919773173993ee71]
+## 12. Contractual terms restricting choice of auditor[^c-d36b241687d18e2a919773173993ee71]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d36b241687d18e2a919773173993ee71]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/649/regulation/12) substituted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2017/516/regulation/14/3)
+[^c-d36b241687d18e2a919773173993ee71]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/649/regulation/12) substituted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2017/516/regulation/14/3)

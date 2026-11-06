@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 8 — TRANSITIONAL PROVISIONS (SLAUGHTERHOUSES)[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+## SCHEDULE 8 — TRANSITIONAL PROVISIONS (SLAUGHTERHOUSES)[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 45
 
-### 1. Animals delivered other than in containers[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 1. Animals delivered other than in containers[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Lairages other than field lairages[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 2. Lairages other than field lairages[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Field lairages[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 3. Field lairages[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Shackle lines[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 4. Shackle lines[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Electrical stunning other than by waterbath[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 5. Electrical stunning other than by waterbath[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Electrical stunning by waterbath[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 6. Electrical stunning by waterbath[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Exposure to gas[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 7. Exposure to gas[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)

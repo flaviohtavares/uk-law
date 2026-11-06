@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England.
 
-## 28. Application of provisions of Part 3 to pastoral church buildings schemes[^key-0e4be4e35c1abd9106b703ee654fcb4c]
+## 28. Application of provisions of Part 3 to pastoral church buildings schemes[^c-0e4be4e35c1abd9106b703ee654fcb4c]
 
 *Extent: E*
 
-Sections 12, 14, 15 and 16 shall apply in relation to pastoral church buildings schemes as they apply to pastoral schemes which are not pastoral church buildings schemes; and for that purpose, a reference in section 12 or Schedule 2 to a notice under section 11(2) includes a reference to a notice under section 26(2).[^key-8044e89b46e8180be745c348a6c6252f]
+Sections 12, 14, 15 and 16 shall apply in relation to pastoral church buildings schemes as they apply to pastoral schemes which are not pastoral church buildings schemes; and for that purpose, a reference in section 12 or Schedule 2 to a notice under section 11(2) includes a reference to a notice under section 26(2).[^c-8044e89b46e8180be745c348a6c6252f]
 
 ## Annotations
 
-[^key-0e4be4e35c1abd9106b703ee654fcb4c]: Commencement: S. 28 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-0e4be4e35c1abd9106b703ee654fcb4c]: Commencement: S. 28 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-8044e89b46e8180be745c348a6c6252f]: Textual amendment: Words in s. 28 inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)
+[^c-8044e89b46e8180be745c348a6c6252f]: Textual amendment: Words in s. 28 inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)

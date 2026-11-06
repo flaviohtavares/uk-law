@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B (Extent: W). Combination of local elections in Wales (Extent: W)[^key-23e9dfc1c15cc2126aca0745175ac273][^c14479931]
+## 36B (Extent: W). Combination of local elections in Wales (Extent: W)[^c-23e9dfc1c15cc2126aca0745175ac273][^c14479931]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ are to be taken on the same day and the elections are for related electoral area
 
 ## Annotations
 
-[^key-23e9dfc1c15cc2126aca0745175ac273]: Textual amendment: Ss. 36B, 36C inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/5)
+[^c-23e9dfc1c15cc2126aca0745175ac273]: Textual amendment: Ss. 36B, 36C inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/5)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Failure to perform duty[^key-936f8a802d6431c84c2c4d93bd1ef847]
+## 22. Failure to perform duty[^c-936f8a802d6431c84c2c4d93bd1ef847]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936f8a802d6431c84c2c4d93bd1ef847]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2012/8/section/22) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-936f8a802d6431c84c2c4d93bd1ef847]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2012/8/section/22) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

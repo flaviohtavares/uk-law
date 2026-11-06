@@ -93,11 +93,11 @@ The Feeding Stuffs Regulations shall apply to—
 - (a) non medicinal zootechnical additives as they apply to additives; and
 - (b) non medicinal zootechnical premixtures as they apply to premixtures.
 
-## 5. Application of the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 to non-medicinal zootechnical additives[^key-840841dff4942bff4ec1fb6e2cf701d5]
+## 5. Application of the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 to non-medicinal zootechnical additives[^c-840841dff4942bff4ec1fb6e2cf701d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Secondary analysis by the Government Chemist[^key-6fa3c023a110accd1cf2a0b8f38ba89c]
+## 6. Secondary analysis by the Government Chemist[^c-6fa3c023a110accd1cf2a0b8f38ba89c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,9 +187,9 @@ The Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Reg
 
 [^c12418571]: Marginal citation: [S.S.I. 2004/433](https://www.legislation.gov.uk/ssi/2004/433), amended by [S.S.I. 2005/246](https://www.legislation.gov.uk/ssi/2005/246).
 
-[^key-840841dff4942bff4ec1fb6e2cf701d5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/3362/regulation/5) revoked (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/201/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2008/201/regulation/4/2))
+[^c-840841dff4942bff4ec1fb6e2cf701d5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/3362/regulation/5) revoked (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/201/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2008/201/regulation/4/2))
 
-[^key-6fa3c023a110accd1cf2a0b8f38ba89c]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/3362/regulation/6) revoked (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/201/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2008/201/regulation/4/2))
+[^c-6fa3c023a110accd1cf2a0b8f38ba89c]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/3362/regulation/6) revoked (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [3](https://www.legislation.gov.uk/ssi/2008/201/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2008/201/regulation/4/2))
 
 [^c12418591]: Marginal citation: [S.I. 1999/1872](https://www.legislation.gov.uk/uksi/1999/1872) as amended by [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62) and 453, 2003/101 and 277 and 2005/116.
 

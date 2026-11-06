@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 10A — Sub-sale development relief[^key-ecefd11a35111cf7e3be2f3a814f8d4a]
+## SCHEDULE 10A — Sub-sale development relief[^c-ecefd11a35111cf7e3be2f3a814f8d4a]
 
 *Extent: S*
 
@@ -63,7 +63,7 @@ summary: ''
 
 (2) For the purposes of sub-paragraph (1)(a), an assignation, sub-sale or other transaction (relating to the whole or part of the subject-matter of the qualifying sub-sale), as a result of which a person other than the second buyer becomes entitled to call for a conveyance to that person, is not to be treated as substantial performance of the qualifying sub-sale.
 
-(3) The “relevant period” is the period of 5 years from the effective date of[^key-c8ba227eb8fa1da4198e18611d3df32a] the qualifying sub-sale.
+(3) The “relevant period” is the period of 5 years from the effective date of[^c-c8ba227eb8fa1da4198e18611d3df32a] the qualifying sub-sale.
 
 #### Subject-matter
 
@@ -143,6 +143,6 @@ is exempt from charge.
 
 ## Annotations
 
-[^key-ecefd11a35111cf7e3be2f3a814f8d4a]: Textual amendment: Sch. 10A inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1) , [7](https://www.legislation.gov.uk/ssi/2015/123/article/7) , [Sch.](https://www.legislation.gov.uk/ssi/2015/123/schedule)
+[^c-ecefd11a35111cf7e3be2f3a814f8d4a]: Textual amendment: Sch. 10A inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123) , [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1) , [7](https://www.legislation.gov.uk/ssi/2015/123/article/7) , [Sch.](https://www.legislation.gov.uk/ssi/2015/123/schedule)
 
-[^key-c8ba227eb8fa1da4198e18611d3df32a]: Textual amendment: Words in [sch. 10A para. 4(3)](https://www.legislation.gov.uk/asp/2013/11/schedule/10A/paragraph/4/3) substituted (2.6.2025) by [The Land and Buildings Transaction Tax (Group Relief and Sub-sale Development Relief Modifications) (Scotland) Order 2025 (S.S.I. 2025/158)](https://www.legislation.gov.uk/ssi/2025/158), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/158/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2025/158/article/3/2)
+[^c-c8ba227eb8fa1da4198e18611d3df32a]: Textual amendment: Words in [sch. 10A para. 4(3)](https://www.legislation.gov.uk/asp/2013/11/schedule/10A/paragraph/4/3) substituted (2.6.2025) by [The Land and Buildings Transaction Tax (Group Relief and Sub-sale Development Relief Modifications) (Scotland) Order 2025 (S.S.I. 2025/158)](https://www.legislation.gov.uk/ssi/2025/158), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/158/article/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2025/158/article/3/2)

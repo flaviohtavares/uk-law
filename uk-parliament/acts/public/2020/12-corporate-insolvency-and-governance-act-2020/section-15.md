@@ -28,7 +28,7 @@ summary: ''
 (2) In subsection (1)(a) “**relevant period**” means the period which—
 
 - (a) begins with the day on which this section comes into force, and
-- (b) ends with 30 June 2021[^key-be52f701b35a449d6d82ed1380122d13].
+- (b) ends with 30 June 2021[^c-be52f701b35a449d6d82ed1380122d13].
 
 (3) For the purposes of subsection (1)(b), whether the supplier is a “small entity” at the time the company becomes subject to a relevant insolvency procedure (the “ relevant time ”) is to be determined under subsections (4) to (10).
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be52f701b35a449d6d82ed1380122d13]: Textual amendment: Words in [s. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/section/15/2/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/375/regulation/3/2)
+[^c-be52f701b35a449d6d82ed1380122d13]: Textual amendment: Words in [s. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/section/15/2/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/375/regulation/3/2)

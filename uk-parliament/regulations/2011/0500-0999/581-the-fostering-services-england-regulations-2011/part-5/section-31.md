@@ -22,10 +22,10 @@ summary: ''
 
 The fostering service provider must maintain a register (a “register of foster parents”) and enter in it the following particulars in relation to each foster parent—
 
-- (a) name, address, date of birth and sex of each foster parent and, in the case of a local authority fostering service, of each person with whom it has placed a child under regulation 24 or regulation 25A[^key-87f758333b12a6e4d7be5e791fe45759] of the Care Planning Regulations,
+- (a) name, address, date of birth and sex of each foster parent and, in the case of a local authority fostering service, of each person with whom it has placed a child under regulation 24 or regulation 25A[^c-87f758333b12a6e4d7be5e791fe45759] of the Care Planning Regulations,
 - (b) the date of approval and of each review of approval (as the case may be), and
 - (c) the current terms of approval (if any).
 
 ## Annotations
 
-[^key-87f758333b12a6e4d7be5e791fe45759]: Textual amendment: Words in reg. 31(a) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/984/regulation/10)
+[^c-87f758333b12a6e4d7be5e791fe45759]: Textual amendment: Words in reg. 31(a) inserted (1.7.2013) by [The Care Planning, Placement and Case Review and Fostering Services (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/984)](https://www.legislation.gov.uk/uksi/2013/984), [regs. 1](https://www.legislation.gov.uk/uksi/2013/984/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/984/regulation/10)

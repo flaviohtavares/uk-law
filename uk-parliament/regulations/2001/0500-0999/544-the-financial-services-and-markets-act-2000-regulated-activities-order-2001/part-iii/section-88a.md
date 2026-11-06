@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Regulated home reversion plans[^key-5883e227e9847b10fce46a140b6d9200]
+## 88A. Regulated home reversion plans[^c-5883e227e9847b10fce46a140b6d9200]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Rights under a regulated home reversion plan.
 
 ## Annotations
 
-[^key-5883e227e9847b10fce46a140b6d9200]: Textual amendment: Arts. 88A, 88B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [23](https://www.legislation.gov.uk/uksi/2006/2383/article/23)
+[^c-5883e227e9847b10fce46a140b6d9200]: Textual amendment: Arts. 88A, 88B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [23](https://www.legislation.gov.uk/uksi/2006/2383/article/23)

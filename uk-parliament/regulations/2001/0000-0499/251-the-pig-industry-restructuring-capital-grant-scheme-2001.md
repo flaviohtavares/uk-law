@@ -59,7 +59,7 @@ This Scheme may be cited as the Pig Industry Restructuring (Capital Grant) Schem
 
 - “bank” means—[^M_F_f3924281-1563-4866-cc58-90315d3c27ed]
   - (i) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits,
-  - (ii) [^key-45007609dbf77fee4bba8d11736adc02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) [^c-45007609dbf77fee4bba8d11736adc02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the National Savings Bank,
   - (iv) a municipal bank, that is to say a company which was, immediately before the repeal of the Banking Act 1987, exempted from the prohibition in section 3 of that Act by virtue of section 4(1) of, and paragraph 4 of Schedule 2 to, that Act, or
   - (v) a credit union within the meaning of the Credit Unions Act 1979;
@@ -136,7 +136,7 @@ No Regulatory Impact Assessment has been prepared in respect of this Scheme.
 
 [^M_F_f3924281-1563-4866-cc58-90315d3c27ed]: Textual amendment: Words in para. 2(1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [604(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/604/2)
 
-[^key-45007609dbf77fee4bba8d11736adc02]: Textual amendment: Words in [para. 2(1)](https://www.legislation.gov.uk/uksi/2001/251/paragraph/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/48) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45007609dbf77fee4bba8d11736adc02]: Textual amendment: Words in [para. 2(1)](https://www.legislation.gov.uk/uksi/2001/251/paragraph/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/48) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: S.I. [2001/252](https://www.legislation.gov.uk/uksi/2001/252).
 

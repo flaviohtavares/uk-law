@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.9. Application to postpone the publication of information by the prosecutor[^key-289f5c3d580f79e7006849cd210dc647]
+## 11.9. Application to postpone the publication of information by the prosecutor[^c-289f5c3d580f79e7006849cd210dc647]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-289f5c3d580f79e7006849cd210dc647]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/uksi/2025/909/rule/11.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-289f5c3d580f79e7006849cd210dc647]: Commencement: [Rule 11.9](https://www.legislation.gov.uk/uksi/2025/909/rule/11.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Establishment of scheme advisory board[^key-036a55b5bc2af65f17163b4b276d4573]
+## 9. Establishment of scheme advisory board[^c-036a55b5bc2af65f17163b4b276d4573]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036a55b5bc2af65f17163b4b276d4573]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2336/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-036a55b5bc2af65f17163b4b276d4573]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2336/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

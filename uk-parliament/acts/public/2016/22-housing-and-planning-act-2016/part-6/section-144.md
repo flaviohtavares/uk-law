@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Power to give direction to examiner of development plan document[^key-586e965720725bc24ab76092f2318da5]
+## 144. Power to give direction to examiner of development plan document[^c-586e965720725bc24ab76092f2318da5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In section 20 of the Planning and Compulsory Purchase Act 2004 (independent exam
 
 ## Annotations
 
-[^key-586e965720725bc24ab76092f2318da5]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2016/22/section/144) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/c)
+[^c-586e965720725bc24ab76092f2318da5]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2016/22/section/144) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Consequential amendments[^key-20b77fcc89bc0c94f02d8a24ab10be40]
+## 118. Consequential amendments[^c-20b77fcc89bc0c94f02d8a24ab10be40]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For amendments consequential on this Part, see Schedule 4.
 
 ## Annotations
 
-[^key-20b77fcc89bc0c94f02d8a24ab10be40]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2017/2/section/118) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)
+[^c-20b77fcc89bc0c94f02d8a24ab10be40]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2017/2/section/118) in force at 31.5.2018 by [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/605/article/2/a)

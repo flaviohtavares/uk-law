@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Relationship with other powers to modify legislation[^key-c8d859404d00fc4cf02d2408e5fe931f]
+## 20. Relationship with other powers to modify legislation[^c-c8d859404d00fc4cf02d2408e5fe931f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Nothing in this Chapter affects any other power under an enactment to modify pro
 
 ## Annotations
 
-[^key-c8d859404d00fc4cf02d2408e5fe931f]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/4/section/20) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)
+[^c-c8d859404d00fc4cf02d2408e5fe931f]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/4/section/20) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)

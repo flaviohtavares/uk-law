@@ -26,9 +26,9 @@ Section 76
 
 #### Airports Act 1986 (c. 31)
 
-**1.**[^key-f4a146abead438dfcd2ed6b4df064c4d] The Airports Act 1986 is amended as follows.
+**1.**[^c-f4a146abead438dfcd2ed6b4df064c4d] The Airports Act 1986 is amended as follows.
 
-**2.**[^key-30ddb0e5606f3997ad4e74540dd7284c] For section 57 (scope of Part 5: status of certain airport operators as statutory undertakers etc) substitute—
+**2.**[^c-30ddb0e5606f3997ad4e74540dd7284c] For section 57 (scope of Part 5: status of certain airport operators as statutory undertakers etc) substitute—
 
 > **57A. Scope of Part 5**
 >
@@ -79,7 +79,7 @@ Section 76
 >
 > (12) An order under subsection (11) does not affect the validity of a certificate granted under this section before the order comes into force.
 
-**3.**[^key-c07ce06111144c23a6877844d2a4051e] (1) Section 79 (orders and regulations) is amended as follows.
+**3.**[^c-c07ce06111144c23a6877844d2a4051e] (1) Section 79 (orders and regulations) is amended as follows.
 
 (2) In subsection (2), at the end insert “ , unless it is an instrument described in subsection (4A) ”.
 
@@ -89,11 +89,11 @@ Section 76
 
 #### Consequential repeal
 
-**4.**[^key-9eba442e91377745d66dc6552ba60ea2] In Schedule 4 to the Local Transport Act 2008, omit paragraph 54(3).
+**4.**[^c-9eba442e91377745d66dc6552ba60ea2] In Schedule 4 to the Local Transport Act 2008, omit paragraph 54(3).
 
 #### Power to make provision in relation to operators of airport areas
 
-**5.**[^key-36422956cba6e92018ec40110d0bd1ae] (1) The Secretary of State may by regulations make provision about the operation of section 57A of the Airports Act 1986 in cases in which two or more persons are operators of different areas that form part of the same airport.
+**5.**[^c-36422956cba6e92018ec40110d0bd1ae] (1) The Secretary of State may by regulations make provision about the operation of section 57A of the Airports Act 1986 in cases in which two or more persons are operators of different areas that form part of the same airport.
 
 (2) Regulations under this paragraph may modify—
 
@@ -112,15 +112,15 @@ Section 76
 
 #### Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
 
-**6.**[^key-9bb92bf3fbb48c6d3b0db2c07f64107c] The Airports (Northern Ireland) Order 1994 is amended as follows.
+**6.**[^c-9bb92bf3fbb48c6d3b0db2c07f64107c] The Airports (Northern Ireland) Order 1994 is amended as follows.
 
-**7.**[^key-74606c765c6164f8e9bed33ebaaa29e3] In Article 2(2) (interpretation), for the definition of “regulated airport” substitute—
+**7.**[^c-74606c765c6164f8e9bed33ebaaa29e3] In Article 2(2) (interpretation), for the definition of “regulated airport” substitute—
 
 > “**regulated airport**” has the meaning given in Article 2A;
 
 .
 
-**8.**[^key-306974f9e05b97a065c12b3d6c9794c9] In Part 2 (powers in relation to land exercisable in connection with airports), before Article 3 insert—
+**8.**[^c-306974f9e05b97a065c12b3d6c9794c9] In Part 2 (powers in relation to land exercisable in connection with airports), before Article 3 insert—
 
 > **Regulated airports**
 >
@@ -157,7 +157,7 @@ Section 76
 >
 > (10) An order under paragraph (9) does not affect the validity of a certificate granted under this Article before the order comes into force.
 
-**9.**[^key-da2ef977df90147fcbd728a3f31617ae] (1) Article 70 (regulations and orders) is amended as follows.
+**9.**[^c-da2ef977df90147fcbd728a3f31617ae] (1) Article 70 (regulations and orders) is amended as follows.
 
 (2) In paragraph (2), after “Schedule 7” insert “ and orders described in paragraph (2A) ”.
 
@@ -165,11 +165,11 @@ Section 76
 
 > (2A) An order under Article 2A(9) increasing the specified sum by more than is necessary to reflect changes in the value of money may not be made unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
 
-**10.**[^key-a384f0e376be64eb21e402b41180e0ea] The amendments in paragraphs 7 to 9 are without prejudice to the power to make further orders amending or revoking the provisions inserted.
+**10.**[^c-a384f0e376be64eb21e402b41180e0ea] The amendments in paragraphs 7 to 9 are without prejudice to the power to make further orders amending or revoking the provisions inserted.
 
 #### Power to make provision in relation to operators of airport areas
 
-**11.**[^key-4573229b8aa9490e53c60274d2f5b763] (1) The Secretary of State may by regulations make provision about the operation of Article 2A of the Airports (Northern Ireland) Order 1994 in cases in which two or more persons are operators of different areas that form part of the same airport.
+**11.**[^c-4573229b8aa9490e53c60274d2f5b763] (1) The Secretary of State may by regulations make provision about the operation of Article 2A of the Airports (Northern Ireland) Order 1994 in cases in which two or more persons are operators of different areas that form part of the same airport.
 
 (2) Regulations under this paragraph may modify—
 
@@ -185,24 +185,24 @@ Section 76
 
 ## Annotations
 
-[^key-f4a146abead438dfcd2ed6b4df064c4d]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-f4a146abead438dfcd2ed6b4df064c4d]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/1) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-30ddb0e5606f3997ad4e74540dd7284c]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-30ddb0e5606f3997ad4e74540dd7284c]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/2) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-c07ce06111144c23a6877844d2a4051e]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-c07ce06111144c23a6877844d2a4051e]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/3) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-9eba442e91377745d66dc6552ba60ea2]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-9eba442e91377745d66dc6552ba60ea2]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/4) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-36422956cba6e92018ec40110d0bd1ae]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-36422956cba6e92018ec40110d0bd1ae]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/5) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-9bb92bf3fbb48c6d3b0db2c07f64107c]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-9bb92bf3fbb48c6d3b0db2c07f64107c]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/6) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-74606c765c6164f8e9bed33ebaaa29e3]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/7) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-74606c765c6164f8e9bed33ebaaa29e3]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/7) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-306974f9e05b97a065c12b3d6c9794c9]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-306974f9e05b97a065c12b3d6c9794c9]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-da2ef977df90147fcbd728a3f31617ae]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-da2ef977df90147fcbd728a3f31617ae]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/9) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-a384f0e376be64eb21e402b41180e0ea]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-a384f0e376be64eb21e402b41180e0ea]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-4573229b8aa9490e53c60274d2f5b763]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/11) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-4573229b8aa9490e53c60274d2f5b763]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/11) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

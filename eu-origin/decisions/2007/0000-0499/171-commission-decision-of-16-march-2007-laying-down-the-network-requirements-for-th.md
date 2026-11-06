@@ -35,159 +35,159 @@ laying down the network requirements for the Schengen Information System II (3rd
 
 (2007/171/EC) (revoked)
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a6f652c8e66a43021e479d684ff7b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5a6f652c8e66a43021e479d684ff7b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5a6f652c8e66a43021e479d684ff7b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a6f652c8e66a43021e479d684ff7b3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-5a6f652c8e66a43021e479d684ff7b3b]
+## ANNEX[^c-5a6f652c8e66a43021e479d684ff7b3b]
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]1.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]1.
 
 Introduction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]1.1.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]1.1.
 
 Acronyms and abbreviations
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]2.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]2.
 
 General overview
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]3.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]3.
 
 Geographical Coverage
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.
 
 Network services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.1.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.1.
 
 Network layout
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.2.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.2.
 
 Connection type principal CS-SIS — backup CS-SIS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.3.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.3.
 
 Bandwidth
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.4.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.4.
 
 Classes of service
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.5.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.5.
 
 Supported protocols
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.
 
 Technical specifications
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.1.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.1.
 
 IP addressing
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.2.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.2.
 
 Support for IPv6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.3.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.3.
 
 Static Route Injection
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.4.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.4.
 
 Sustained Flow Rate
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.6.5.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.6.5.
 
 Other specifications
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]4.7.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]4.7.
 
 Resiliency
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]5.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]5.
 
 Monitoring
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]6.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]6.
 
 Generic services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]7.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]7.
 
 Availability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]8.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]8.
 
 Security services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]8.1.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]8.1.
 
 Network encryption
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]8.2.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]8.2.
 
 Other security features
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]9.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]9.
 
 Helpdesk and support structure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]10.
+[^c-5a6f652c8e66a43021e479d684ff7b3b]10.
 
 Interaction with other systems
 
@@ -195,4 +195,4 @@ Interaction with other systems
 
 ## Annotations
 
-[^key-5a6f652c8e66a43021e479d684ff7b3b]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [119(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/119/2/a) (with [regs. 120](https://www.legislation.gov.uk/uksi/2019/742/regulation/120), [121](https://www.legislation.gov.uk/uksi/2019/742/regulation/121)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [35](https://www.legislation.gov.uk/uksi/2020/1408/regulation/35), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36), [37](https://www.legislation.gov.uk/uksi/2020/1408/regulation/37)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a6f652c8e66a43021e479d684ff7b3b]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [119(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/119/2/a) (with [regs. 120](https://www.legislation.gov.uk/uksi/2019/742/regulation/120), [121](https://www.legislation.gov.uk/uksi/2019/742/regulation/121)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [35](https://www.legislation.gov.uk/uksi/2020/1408/regulation/35), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36), [37](https://www.legislation.gov.uk/uksi/2020/1408/regulation/37)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

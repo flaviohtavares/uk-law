@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Business, Innovation and Skills makes the following Order in exercise of the powers conferred by section 265(1) and (2) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001].
 
-## 1. Citation and commencement[^key-1b23127a02941322a7499734af0a8f72]
+## 1. Citation and commencement[^c-1b23127a02941322a7499734af0a8f72]
 
 This Order may be cited as the Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments to Subordinate Legislation) (England and Wales) Order 2012 and comes into force on 9th January 2013.
 
-## 2. Amendment of the National Minimum Wage Regulations 1999[^key-e96d9625a8ff67e0d5acf91d9596b611]
+## 2. Amendment of the National Minimum Wage Regulations 1999[^c-e96d9625a8ff67e0d5acf91d9596b611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002[^key-aafc317da2f3f83481ff7a20c76a7528]
+## 3. Amendment of the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002[^c-aafc317da2f3f83481ff7a20c76a7528]
 
 (1) The Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002[^f00003] are amended as follows.
 
@@ -82,10 +82,10 @@ An impact assessment has not been produced for this instrument as it contains on
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-1b23127a02941322a7499734af0a8f72]: Commencement: Art. 1 in force at 9.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1)
+[^c-1b23127a02941322a7499734af0a8f72]: Commencement: Art. 1 in force at 9.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1)
 
-[^key-e96d9625a8ff67e0d5acf91d9596b611]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/3112/regulation/2) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-e96d9625a8ff67e0d5acf91d9596b611]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/3112/regulation/2) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
 
-[^key-aafc317da2f3f83481ff7a20c76a7528]: Commencement: Art. 3 in force at 9.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1)
+[^c-aafc317da2f3f83481ff7a20c76a7528]: Commencement: Art. 3 in force at 9.1.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1)
 
 [^f00003]: Footnote: [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034); there are no relevant amending instruments.

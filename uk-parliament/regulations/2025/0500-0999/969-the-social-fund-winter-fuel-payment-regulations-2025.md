@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 173(1)(b) of the Social Security Administration Act 1992, the Social Security Advisory Committee has agreed that the proposals in respect of these Regulations should not be referred to it.
 
-## 1. Citation, commencement, extent and interpretation[^key-b391c8e28644c5b58dfae3d67101f02d]
+## 1. Citation, commencement, extent and interpretation[^c-b391c8e28644c5b58dfae3d67101f02d]
 
 (1) These Regulations may be cited as the Social Fund Winter Fuel Payment Regulations 2025 and come into force on 15th September 2025.
 
@@ -89,14 +89,14 @@ In accordance with section 173(1)(b) of the Social Security Administration Act 1
   throughout the qualifying week and the period of at least 12 weeks ending immediately before the qualifying week;
 - (b) lives with a person if, disregarding any period of temporary absence, they share accommodation with one or more persons as their mutual home and they are not in residential care.
 
-## 2. Entitlement to a Winter Fuel Payment[^key-831dfdb410e8707b59113983688fa7bb]
+## 2. Entitlement to a Winter Fuel Payment[^c-831dfdb410e8707b59113983688fa7bb]
 
 Subject to regulation 4, the Secretary of State must pay a winter fuel payment out of the social fund to a person (“**P**”) where—
 
 - (a) in or before the qualifying week, P has reached pensionable age, and
 - (b) in respect of any day falling within the qualifying week, P is ordinarily resident in England or Wales.
 
-## 3. Amount of a Winter Fuel Payment[^key-663289f7796effbbfea51e1d6064c396]
+## 3. Amount of a Winter Fuel Payment[^c-663289f7796effbbfea51e1d6064c396]
 
 (1) Subject to paragraphs (2) and (3), where P has not reached the age of 80 in or before the qualifying week, the amount of a winter fuel payment is £200.
 
@@ -126,7 +126,7 @@ Subject to regulation 4, the Secretary of State must pay a winter fuel payment o
   - (i) in that week, living with a person entitled to a winter fuel payment under regulation 2 in respect of the qualifying week and that person has reached the age of 80, or
   - (ii) in residential care.
 
-## 4. Persons not entitled to a Winter Fuel Payment[^key-5cae642be3d19ac5543c9ae81827d5fb]
+## 4. Persons not entitled to a Winter Fuel Payment[^c-5cae642be3d19ac5543c9ae81827d5fb]
 
 (1) Regulation 2 does not apply to P if any of the circumstances in paragraphs (2) to (5) applies.
 
@@ -147,7 +147,7 @@ Subject to regulation 4, the Secretary of State must pay a winter fuel payment o
 - (a) a winter fuel payment has been made by virtue of regulation 5(1) in respect of the qualifying week, or
 - (b) regulation 5(2) applies.
 
-## 5. Making a Winter Fuel Payment without a claim[^key-40a94c281b9ac2c7a306e0573cbe128d]
+## 5. Making a Winter Fuel Payment without a claim[^c-40a94c281b9ac2c7a306e0573cbe128d]
 
 (1) The Secretary of State may, on or before the 31st March following the qualifying week, pay to P a winter fuel payment if (disregarding regulation 4(5)) P appears to the Secretary of State to be entitled to a winter fuel payment under regulation 2.
 
@@ -157,11 +157,11 @@ Subject to regulation 4, the Secretary of State must pay a winter fuel payment o
 
 (4) Paragraph (3) does not apply so as to exclude the revision of a decision under section 9 of the Social Security Act 1998 (revision of decisions)[^f00016] or the supersession of a decision under section 10 of that Act (decisions superseding earlier decisions) or the consideration of fresh evidence in connection with the revision or supersession of a decision.
 
-## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations 1987[^key-50802ad27f9f13187dd84b2ba33f2ac6]
+## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations 1987[^c-50802ad27f9f13187dd84b2ba33f2ac6]
 
 In regulation 4(6A)(a)(ii) of the Social Security (Claims and Payments) Regulations 1987 (making a claim for benefit)[^f00017] for “regulation 4(1)(c) of the Social Fund Winter Fuel Payment Regulations 2024” substitute “regulation 4(5) of the Social Fund Winter Fuel Payment Regulations 2025”.
 
-## 7. Revocations[^key-b6c4ed19fc3c576633d82a8d392c6730]
+## 7. Revocations[^c-b6c4ed19fc3c576633d82a8d392c6730]
 
 The following Regulations are revoked—
 
@@ -225,7 +225,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14). Section 79(1) is amended by paragraph 13(2) of Schedule 4 to the Tax Credits Act 2002 and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-b391c8e28644c5b58dfae3d67101f02d]: Commencement: Reg. 1 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-b391c8e28644c5b58dfae3d67101f02d]: Commencement: Reg. 1 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
 [^f00004]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 is amended by paragraph 3 of Schedule 3 to the [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2) and paragraph 4 of Schedule 5 to the [Health and Social Care Act 2008](https://www.legislation.gov.uk/ukpga/2008/14) (c. 14).
 
@@ -249,23 +249,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00014]: Footnote: [1947 c. 19](https://www.legislation.gov.uk/ukpga/1947/19). Section 3(1) is amended by paragraph 3(1) of Schedule 6 to the Ministry of Social Security Act [1966 (c. 20)](https://www.legislation.gov.uk/ukpga/1966/20) and paragraph 1 of Schedule 4 to the [Social Security Act 1980](https://www.legislation.gov.uk/ukpga/1980/30) (c. 30).
 
-[^key-831dfdb410e8707b59113983688fa7bb]: Commencement: Reg. 2 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-831dfdb410e8707b59113983688fa7bb]: Commencement: Reg. 2 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
-[^key-663289f7796effbbfea51e1d6064c396]: Commencement: Reg. 3 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-663289f7796effbbfea51e1d6064c396]: Commencement: Reg. 3 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
-[^key-5cae642be3d19ac5543c9ae81827d5fb]: Commencement: Reg. 4 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-5cae642be3d19ac5543c9ae81827d5fb]: Commencement: Reg. 4 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
-[^key-40a94c281b9ac2c7a306e0573cbe128d]: Commencement: Reg. 5 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-40a94c281b9ac2c7a306e0573cbe128d]: Commencement: Reg. 5 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
 [^f00015]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 115(1) is amended by section 4(2) of the [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 19 of Schedule 3 to the [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 138(2) of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), paragraph 54 of Schedule 2 and paragraph 44 of Schedule 9, to the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
 
 [^f00016]: Footnote: Section 10 is amended by paragraph 23 of Schedule 7 and Part 1 of Schedule 10 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999 and paragraph 4 of Schedule 12 to the Welfare Reform Act 2012 and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-50802ad27f9f13187dd84b2ba33f2ac6]: Commencement: Reg. 6 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-50802ad27f9f13187dd84b2ba33f2ac6]: Commencement: Reg. 6 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968), amended by [S.I. 2003/1632](https://www.legislation.gov.uk/uksi/2003/1632), [2007/2911](https://www.legislation.gov.uk/uksi/2007/2911), [2024/869](https://www.legislation.gov.uk/uksi/2024/869).
 
-[^key-b6c4ed19fc3c576633d82a8d392c6730]: Commencement: Reg. 7 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
+[^c-b6c4ed19fc3c576633d82a8d392c6730]: Commencement: Reg. 7 in force at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2024/869](https://www.legislation.gov.uk/uksi/2024/869), amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898).
 

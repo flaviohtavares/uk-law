@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Meaning of “2018 Act”[^key-1adecdd138add4e97c0fe5279cb3925a]
+## 24. Meaning of “2018 Act”[^c-1adecdd138add4e97c0fe5279cb3925a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, the “**2018 Act**” means the Social Security (Scotland) Act 201
 
 ## Annotations
 
-[^key-1adecdd138add4e97c0fe5279cb3925a]: Commencement: S. 24 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)
+[^c-1adecdd138add4e97c0fe5279cb3925a]: Commencement: S. 24 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)

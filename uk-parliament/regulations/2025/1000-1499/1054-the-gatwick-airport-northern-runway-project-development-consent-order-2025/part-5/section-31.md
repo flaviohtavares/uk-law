@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Private rights of way[^key-d04e05e26c926cf06ad82ed4d5b0a915]
+## 31. Private rights of way[^c-d04e05e26c926cf06ad82ed4d5b0a915]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-d04e05e26c926cf06ad82ed4d5b0a915]: Commencement: Art. 31 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-d04e05e26c926cf06ad82ed4d5b0a915]: Commencement: Art. 31 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00073]: Footnote: Section 11(1) was amended by paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), paragraph 12(1) of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure (No. 1) and section 186(2)(a) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

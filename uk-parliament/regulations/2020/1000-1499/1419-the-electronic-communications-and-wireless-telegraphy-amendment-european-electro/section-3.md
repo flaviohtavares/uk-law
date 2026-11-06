@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments of subordinate legislation[^M_I_b540596f-cf41-4975-f5ce-930982d7ee77][^key-f98d8853eb2fe7cf5ea20d06b79b1aa3]
+## 3. Amendments of subordinate legislation[^M_I_b540596f-cf41-4975-f5ce-930982d7ee77][^c-f98d8853eb2fe7cf5ea20d06b79b1aa3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 2 contains amendments of subordinate legislation.
 
 [^M_I_b540596f-cf41-4975-f5ce-930982d7ee77]: Commencement: Reg. 3 in force at 21.12.2020 for specified purposes, see reg. 1(2)
 
-[^key-f98d8853eb2fe7cf5ea20d06b79b1aa3]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day in so far as not already in force, see reg. 1(3)(b)
+[^c-f98d8853eb2fe7cf5ea20d06b79b1aa3]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day in so far as not already in force, see reg. 1(3)(b)

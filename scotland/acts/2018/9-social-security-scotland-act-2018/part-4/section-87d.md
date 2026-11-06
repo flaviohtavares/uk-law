@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87D. Right to support for response to request[^key-15473c52603be604652a346d4fb5b7af]
+## 87D. Right to support for response to request[^c-15473c52603be604652a346d4fb5b7af]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15473c52603be604652a346d4fb5b7af]: Textual amendment: [Ss. 87B-87E](https://www.legislation.gov.uk/asp/2018/9/section/87B) and cross-heading inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/2/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)
+[^c-15473c52603be604652a346d4fb5b7af]: Textual amendment: [Ss. 87B-87E](https://www.legislation.gov.uk/asp/2018/9/section/87B) and cross-heading inserted (15.12.2025 for specified purposes) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 18(2)](https://www.legislation.gov.uk/asp/2025/2/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/377](https://www.legislation.gov.uk/ssi/2025/377), [reg. 2](https://www.legislation.gov.uk/ssi/2025/377/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 91. Availability and reliability of the Union Registry and the EUTL[^key-74d3f421ea299ccc6e6a5013e6a9e58d]
+## Article 91. Availability and reliability of the Union Registry and the EUTL[^c-74d3f421ea299ccc6e6a5013e6a9e58d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74d3f421ea299ccc6e6a5013e6a9e58d]: Textual amendment: [Art. 91](https://www.legislation.gov.uk/eur/2013/389/article/91) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/2)
+[^c-74d3f421ea299ccc6e6a5013e6a9e58d]: Textual amendment: [Art. 91](https://www.legislation.gov.uk/eur/2013/389/article/91) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/2)

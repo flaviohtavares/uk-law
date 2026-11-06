@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Insertion of sections 36A to 36I[^key-87a2be51e2300295f9de1160841e4200]
+## 29. Insertion of sections 36A to 36I[^c-87a2be51e2300295f9de1160841e4200]
 
 *Extent: E+W+S+N.I.*
 
@@ -242,4 +242,4 @@ After section 36 insert—
 
 ## Annotations
 
-[^key-87a2be51e2300295f9de1160841e4200]: Commencement: Art. 29 in force at 19.7.2005 for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
+[^c-87a2be51e2300295f9de1160841e4200]: Commencement: Art. 29 in force at 19.7.2005 for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Taking action in relation to regulated markets[^key-2de136d7511ded44286d733dffb0858e][^key-48373697ee911570701a6f2f34d8923d]
+## 140. Taking action in relation to regulated markets[^c-2de136d7511ded44286d733dffb0858e][^c-48373697ee911570701a6f2f34d8923d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2de136d7511ded44286d733dffb0858e]: Commencement: S. 140 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2de136d7511ded44286d733dffb0858e]: Commencement: S. 140 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-48373697ee911570701a6f2f34d8923d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2024/13/section/140) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-48373697ee911570701a6f2f34d8923d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2024/13/section/140) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

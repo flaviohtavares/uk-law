@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Eligible child’s pension[^key-b2f59e905c76c441601b4a8077161a04]
+## 84. Eligible child’s pension[^c-b2f59e905c76c441601b4a8077161a04]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2f59e905c76c441601b4a8077161a04]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2015/19/regulation/84) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b2f59e905c76c441601b4a8077161a04]: Commencement: [Reg. 84](https://www.legislation.gov.uk/ssi/2015/19/regulation/84) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

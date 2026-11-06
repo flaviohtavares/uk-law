@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Continued airworthiness[^key-2d609e1758113e8a608975b0f257ea65]
+## 26. Continued airworthiness[^c-2d609e1758113e8a608975b0f257ea65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the aircraft is maintained in accordance with an approved maintenance programme;
 - (b) the aircraft’s maintenance and continued airworthiness (including that of its engines, equipment and radio station) is managed by a person or organisation approved by the Governor in accordance with the specified requirements;
-- (c) all mandatory airworthiness or equivalent directives issued by the State responsible for the certification standard of the aircraft or by the Governor[^key-04901c2fa6991b1047afb099eb079cd2] have been complied with , or the Governor has approved alternative means of compliance with such directives ;
+- (c) all mandatory airworthiness or equivalent directives issued by the State responsible for the certification standard of the aircraft or by the Governor[^c-04901c2fa6991b1047afb099eb079cd2] have been complied with , or the Governor has approved alternative means of compliance with such directives ;
 - (d) all inspections required in respect of the aircraft under the provisions of this Order have been completed; and
 - (e) a flight manual or equivalent document is available for use by the flight crew containing—
   - (i) the limitations within which the aircraft is considered airworthy; and
@@ -42,6 +42,6 @@ must appoint a technical coordinator, acceptable to the Governor, who must ensur
 
 ## Annotations
 
-[^key-2d609e1758113e8a608975b0f257ea65]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2013/2870/article/26) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2d609e1758113e8a608975b0f257ea65]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2013/2870/article/26) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-04901c2fa6991b1047afb099eb079cd2]: Textual amendment: Words in [art. 26(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/26/1/c) inserted (5.11.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2015 (S.I. 2015/1769)](https://www.legislation.gov.uk/uksi/2015/1769), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/1), [4](https://www.legislation.gov.uk/uksi/2015/1769/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/3))
+[^c-04901c2fa6991b1047afb099eb079cd2]: Textual amendment: Words in [art. 26(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/26/1/c) inserted (5.11.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2015 (S.I. 2015/1769)](https://www.legislation.gov.uk/uksi/2015/1769), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/1), [4](https://www.legislation.gov.uk/uksi/2015/1769/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/3))

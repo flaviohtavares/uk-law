@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Amendment of regulation D1[^key-dedc3a7f16c0f4ea1dbab7ced8e4049a]
+## 7. Amendment of regulation D1[^c-dedc3a7f16c0f4ea1dbab7ced8e4049a]
 
 *Extent: E+W*
 
@@ -217,4 +217,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dedc3a7f16c0f4ea1dbab7ced8e4049a]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-dedc3a7f16c0f4ea1dbab7ced8e4049a]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

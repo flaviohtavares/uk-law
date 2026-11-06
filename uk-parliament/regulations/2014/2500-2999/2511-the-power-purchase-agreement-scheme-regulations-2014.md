@@ -48,7 +48,7 @@ In accordance with section 51(6) and (7) of that Act, the Secretary of State has
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-ad9075e3af0fa3489fdef9d611888f3d]
+### 1. Citation and commencement[^c-ad9075e3af0fa3489fdef9d611888f3d]
 
 (1) These Regulations may be cited as the Power Purchase Agreement Scheme Regulations 2014.
 
@@ -56,14 +56,14 @@ In accordance with section 51(6) and (7) of that Act, the Secretary of State has
 
 (3) Except as stated in paragraph (2), these Regulations come into force on 1st October 2015.
 
-### 2. Interpretation[^key-cb0e1bab46b66effb3c61cd184c563b3]
+### 2. Interpretation[^c-cb0e1bab46b66effb3c61cd184c563b3]
 
 (1) In these Regulations—
 
 - “the Act” means the Energy Act 2013;
 - “auction” means an auction held by virtue of relevant supply licence conditions;
 - “backstop power purchase agreement” (“BPPA”) means a power purchase agreement which is entered into under the power purchase agreement scheme;
-- “Balancing and Settlement Code” means the code for the governance of electricity balancing and settlement in Great Britain as amended from time to time[^key-d4b74eb8f51f85e3b68a5f5f4ed58a41] which is maintained in accordance with the conditions of an electricity system operator licence granted under section 6(1)(da) of the Electricity Act 1989[^key-dc58f8af2142453e7e23c5c2b982c7a8];
+- “Balancing and Settlement Code” means the code for the governance of electricity balancing and settlement in Great Britain as amended from time to time[^c-d4b74eb8f51f85e3b68a5f5f4ed58a41] which is maintained in accordance with the conditions of an electricity system operator licence granted under section 6(1)(da) of the Electricity Act 1989[^c-dc58f8af2142453e7e23c5c2b982c7a8];
 - “CFD counterparty” means the person or persons designated as a counterparty for contracts for difference in accordance with section 7 of the Act;
 - “day” means a day that is not—
   - (a) a Saturday or Sunday, Christmas Day or Good Friday, or
@@ -106,7 +106,7 @@ In accordance with section 51(6) and (7) of that Act, the Secretary of State has
 
 ### Terms of backstop power purchase agreements
 
-#### 3. Standard terms of BPPAs[^key-5f386d1a1b9b31b98b17dc76a7168cd6]
+#### 3. Standard terms of BPPAs[^c-5f386d1a1b9b31b98b17dc76a7168cd6]
 
 (1) Any BPPA entered into between a licensed supplier and an eligible generator must include the standard terms which are applicable under paragraph (3) on the date on which the eligible generator enters into the relevant contract.
 
@@ -128,7 +128,7 @@ In accordance with section 51(6) and (7) of that Act, the Secretary of State has
 - (a) publish the terms which are issued, revised or amended under paragraph (3); and
 - (b) specify the date on or by reference to which any such term, revision or amendment applies (which must not be earlier than the date on which the term, revision or amendment is published).
 
-#### 4. Number of BPPAs subject to an auction held in respect of an eligible generator[^key-d94b55c5e024f4b27abd96bf57350348]
+#### 4. Number of BPPAs subject to an auction held in respect of an eligible generator[^c-d94b55c5e024f4b27abd96bf57350348]
 
 (1) In this regulation, “OLR application capacity”, in relation to a generating station, means the total capacity in megawatts in respect of which an electricity generator is seeking to enter into one or more BPPAs.
 
@@ -157,9 +157,9 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 ### Procedure for entering into backstop power purchase agreements
 
-#### 5. Sending expressions of interest to all licensed suppliers[^key-c6486aa712aa0b94407e20ffaa06fd26][^key-1ec80c99e274d2379acd466715f43985]
+#### 5. Sending expressions of interest to all licensed suppliers[^c-c6486aa712aa0b94407e20ffaa06fd26][^c-1ec80c99e274d2379acd466715f43985]
 
-(1)[^key-c6486aa712aa0b94407e20ffaa06fd26] In these Regulations, “expression of interest” means an expression of interest submitted to the Authority by an electricity generator which—
+(1)[^c-c6486aa712aa0b94407e20ffaa06fd26] In these Regulations, “expression of interest” means an expression of interest submitted to the Authority by an electricity generator which—
 
 - (a) states that the electricity generator is seeking to enter into one or more BPPAs in respect of a generating station specified in the expression of interest (or in respect of a proportion so specified of the capacity of that generating station);
 - (b) states that the electricity generator meets the eligibility requirements;
@@ -172,16 +172,16 @@ where “C” is the OLR application capacity in relation to the generating stat
 - (b) must specify the form of an expression of interest and the manner in which it is to be submitted; and
 - (c) must publish any requirements specified under sub-paragraph (a) or (b).
 
-(3)[^key-c6486aa712aa0b94407e20ffaa06fd26] Within the period of two days which starts with the first day following the day on which the Authority receives an expression of interest, the Authority must give notice of it to all licensed suppliers together with a copy of the expression of interest.
+(3)[^c-c6486aa712aa0b94407e20ffaa06fd26] Within the period of two days which starts with the first day following the day on which the Authority receives an expression of interest, the Authority must give notice of it to all licensed suppliers together with a copy of the expression of interest.
 
-(4)[^key-c6486aa712aa0b94407e20ffaa06fd26] Paragraph (3) does not apply where—
+(4)[^c-c6486aa712aa0b94407e20ffaa06fd26] Paragraph (3) does not apply where—
 
-- (a) information which is submitted to the Authority in the electricity generator’s expression of interest [^key-c3b8d9690acf2b260f4cd64920abcc3c]... or which the Authority holds under these Regulations does not support the statement referred to in paragraph (1)(b); or
+- (a) information which is submitted to the Authority in the electricity generator’s expression of interest [^c-c3b8d9690acf2b260f4cd64920abcc3c]... or which the Authority holds under these Regulations does not support the statement referred to in paragraph (1)(b); or
 - (b) at any time before the Authority gives a notice under paragraph (3), the Authority is notified by the electricity generator that it withdraws its expression of interest.
 
-(5)[^key-c6486aa712aa0b94407e20ffaa06fd26] In any case falling within paragraph (4), the Authority must give notice to the electricity generator which states that the generator’s expression of interest will not be sent to licensed suppliers and states the Authority’s reasons for its decision.
+(5)[^c-c6486aa712aa0b94407e20ffaa06fd26] In any case falling within paragraph (4), the Authority must give notice to the electricity generator which states that the generator’s expression of interest will not be sent to licensed suppliers and states the Authority’s reasons for its decision.
 
-#### 6. Determination as to whether electricity generator meets eligibility requirements[^key-e4624598a714fb9aa00cc13335499ad0]
+#### 6. Determination as to whether electricity generator meets eligibility requirements[^c-e4624598a714fb9aa00cc13335499ad0]
 
 (1) Where licensed suppliers are notified under regulation 5(3) of an expression of interest submitted by an electricity generator, the Authority must determine whether or not the electricity generator meets the eligibility requirements.
 
@@ -198,7 +198,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (6) The Authority cannot be satisfied that the electricity generator meets the eligibility requirements where—
 
-- (a)[^key-d964908ee9d90f423feeeff06e729e8f] the electricity generator has (or a previous party to the relevant contract in respect of the generating station specified in the expression of interest has) failed to provide to the Authority within the 5-day period starting with the date on which the relevant notice was given—
+- (a)[^c-d964908ee9d90f423feeeff06e729e8f] the electricity generator has (or a previous party to the relevant contract in respect of the generating station specified in the expression of interest has) failed to provide to the Authority within the 5-day period starting with the date on which the relevant notice was given—
   - (i) in respect of the expression of interest to which the current determination relates, any project information requested in a notice under paragraph (5);
   - (ii) in respect of a previous expression of interest, any project information requested in a notice under paragraph (5) or any updated project information or confirmation requested in a notice under paragraph 3(1) of the Schedule.
 - (b) the electricity generator has (or a previous party to the relevant contract in respect of the generating station specified in the expression of interest has) previously withdrawn an expression of interest in respect of the generating station after the date on which the electricity generator (or the previous party to the relevant contract) submitted to the Authority a statement of confirmation in respect of the expression of interest;
@@ -217,7 +217,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 - (a) it is determined and the period for bringing any further appeal has ended; or
 - (b) it is abandoned or otherwise ceases to have effect.
 
-#### 7. OLR notice in respect of an eligible generator[^key-01aca2999eca5d7716754a03e0b911df]
+#### 7. OLR notice in respect of an eligible generator[^c-01aca2999eca5d7716754a03e0b911df]
 
 (1) Where regulation 6(2) applies, the Authority must—
 
@@ -235,7 +235,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (5) The Authority must send a copy of the OLR notice to the eligible generator together with one copy of each BPPA sent to licensed suppliers under paragraph (3).
 
-#### 8. Period for taking steps required by regulations 6 and 7[^key-e2e4bcad6e5437541baa7b1d9bafc00a]
+#### 8. Period for taking steps required by regulations 6 and 7[^c-e2e4bcad6e5437541baa7b1d9bafc00a]
 
 (1) In respect of an electricity generator, the Authority must take the steps required by regulations 6 and 7 within the 5-day period which starts with the first day after—
 
@@ -247,7 +247,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 - (a) in any case where a notice is given to the electricity generator under regulation 6(5) specifying project information which remains to be submitted by the electricity generator, no account is to be taken of the day on which the notice is given and each subsequent day until the first day following the day on which the information specified in the notice is received by the Authority; and
 - (b) in any case where information requested by the Authority under regulation 14(1) is not provided by the CFD counterparty within the 2-day period specified in regulation 14(2), no account is to be taken of any day after the end of that 2-day period until the first day following the day on which the information is provided.
 
-#### 9. Circumstances before issue of OLR notice in which no BPPA is to be entered into[^key-c6ef4e0f718ef977bbed9b538587be66]
+#### 9. Circumstances before issue of OLR notice in which no BPPA is to be entered into[^c-c6ef4e0f718ef977bbed9b538587be66]
 
 (1) Paragraph (3) applies in respect of an electricity generator where, at any time after notice of the expression of interest is given to licensed suppliers under regulation 5(3) but before an OLR notice is issued—
 
@@ -265,7 +265,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (4) The Authority must take the steps required by paragraph (3)(a) and (b) as soon reasonably practicable after the duty to take the steps arises.
 
-#### 10. Circumstances after issue of OLR notice in which no BPPA is to be entered into[^key-5698662f467389a08b55e9d47b372468]
+#### 10. Circumstances after issue of OLR notice in which no BPPA is to be entered into[^c-5698662f467389a08b55e9d47b372468]
 
 (1) Paragraph (2) applies where, at any time after an OLR notice is issued in respect of an eligible generator and before the close of the auction held in respect of the generator—
 
@@ -282,7 +282,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (3) The Authority must take the steps required by paragraph (2)(a), (b) and (c) as soon reasonably practicable after the duty to take the steps arises.
 
-#### 11. Auction process for selecting a licensed supplier in respect of a BPPA[^key-9fce0cc213b8beace20c0945d6e379fe]
+#### 11. Auction process for selecting a licensed supplier in respect of a BPPA[^c-9fce0cc213b8beace20c0945d6e379fe]
 
 (1) The Schedule to these Regulations makes provision in connection with auctions which are held in respect of eligible generators.
 
@@ -290,7 +290,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (3) The Authority may delegate to such person or persons as the Authority may determine any of its functions relating to the conduct of the auction.
 
-#### 12. Requirement to participate in auctions held in an OLR year[^key-49eb9e0cb1e191c9822b319324491550]
+#### 12. Requirement to participate in auctions held in an OLR year[^c-49eb9e0cb1e191c9822b319324491550]
 
 (1) The Authority must, in respect of each OLR year—
 
@@ -306,7 +306,7 @@ where “C” is the OLR application capacity in relation to the generating stat
 
 (3) For the purposes of paragraph (1), an auction in respect of an eligible generator is to be regarded as held in a particular OLR year if the expression of interest from the generator is received by the Authority in that OLR year.
 
-#### 13. Modification of certain deadlines in exceptional circumstances[^key-097eee24760bbe0fc15b0ba98bb991d5]
+#### 13. Modification of certain deadlines in exceptional circumstances[^c-097eee24760bbe0fc15b0ba98bb991d5]
 
 (1) This regulation applies to any function of the Authority (“relevant function”) which is conferred by—
 
@@ -332,30 +332,30 @@ and, in relation to any relevant function, the “specified period” is the per
 
 ### Information in connection with power purchase agreement scheme
 
-#### 14. CFD Counterparty to provide information requested by the Authority[^key-0254991be1728c0d860d36342a46b149]
+#### 14. CFD Counterparty to provide information requested by the Authority[^c-0254991be1728c0d860d36342a46b149]
 
 (1) For the purposes of enabling the Authority to make a determination under regulation 6(1) in respect of an electricity generator, the Authority may request a CFD counterparty to provide it with information about any relevant contract which has been entered into by that generator.
 
 (2) Where a request is made under paragraph (1), the CFD counterparty must provide the information to the Authority within the period of 2 days which starts with the day on which the CFD counterparty receives the request.
 
-#### 15. Licensed suppliers to provide information requested by the Authority[^key-1eb3326b8b7dd6f39548122eb5cc4d2b][^key-55b94e812a2b44811b5508f2fafaf257]
+#### 15. Licensed suppliers to provide information requested by the Authority[^c-1eb3326b8b7dd6f39548122eb5cc4d2b][^c-55b94e812a2b44811b5508f2fafaf257]
 
-(1)[^key-1eb3326b8b7dd6f39548122eb5cc4d2b] The Authority may by notice require a licensed supplier to provide it with—
+(1)[^c-1eb3326b8b7dd6f39548122eb5cc4d2b] The Authority may by notice require a licensed supplier to provide it with—
 
 - (a) a statement of the amount of electricity the licensed supplier has supplied in Great Britain in an OLR year; and
 - (b) any other information which the Authority believes the licensed supplier holds and which, in the Authority’s opinion, the Authority requires in order to discharge its functions in connection with the power purchase agreement scheme.
 
-(2)[^key-1eb3326b8b7dd6f39548122eb5cc4d2b] A licensed supplier must comply with a requirement under paragraph (1) within such period as the Authority may specify when imposing the requirement.
+(2)[^c-1eb3326b8b7dd6f39548122eb5cc4d2b] A licensed supplier must comply with a requirement under paragraph (1) within such period as the Authority may specify when imposing the requirement.
 
-(3)[^key-55b94e812a2b44811b5508f2fafaf257] The Authority may by notice require an OLR which has entered into a BPPA to provide the Authority with a statement, in respect of any periodic levelisation period which falls wholly or partly within the period during which the BPPA is in force, of the electrical output of the electricity generator provided under the BPPA during that period.
+(3)[^c-55b94e812a2b44811b5508f2fafaf257] The Authority may by notice require an OLR which has entered into a BPPA to provide the Authority with a statement, in respect of any periodic levelisation period which falls wholly or partly within the period during which the BPPA is in force, of the electrical output of the electricity generator provided under the BPPA during that period.
 
-(4)[^key-55b94e812a2b44811b5508f2fafaf257] An OLR must comply with a requirement under paragraph (3) within such period as the Authority may specify when imposing the requirement.
+(4)[^c-55b94e812a2b44811b5508f2fafaf257] An OLR must comply with a requirement under paragraph (3) within such period as the Authority may specify when imposing the requirement.
 
-#### 16. Records to be maintained by the Authority[^key-a899d8ffaa78d2dd3176ac7191712b4d]
+#### 16. Records to be maintained by the Authority[^c-a899d8ffaa78d2dd3176ac7191712b4d]
 
 (1) The Authority must establish and maintain records of each generating station in respect of which—
 
-- (a)[^key-1c3bbf816a7d472cbf36560a04cbd959] an electricity generator fails to provide any—
+- (a)[^c-1c3bbf816a7d472cbf36560a04cbd959] an electricity generator fails to provide any—
   - (i) project information requested in a notice under regulation 6(5); or
   - (ii) updated project information or confirmation requested in a notice under paragraph 3(1) of the Schedule,
 
@@ -380,7 +380,7 @@ and, in relation to any relevant function, the “specified period” is the per
 - (a) in relation to a contract for difference under Chapter 2 of Part 2 of the Act, the unique identifier assigned to the contract by the CFD counterparty under regulation 12(2)(a) of the Contracts for Difference (Standard Terms) Regulations 2014[^f00005];
 - (b) in relation to an investment contract within the meaning of Schedule 2 to the Act, the name specified in the contract by which the project to which the contract relates is known or any unique identifier assigned to the contract by a person to whom property, rights or liabilities under the contract are transferred by a scheme made under paragraph 16 of Schedule 2 to the Act.
 
-#### 17. Annual reports[^key-35c899f6e89ba8c36c2a101f4c1b857e]
+#### 17. Annual reports[^c-35c899f6e89ba8c36c2a101f4c1b857e]
 
 (1) On or before 31st December after the end of each OLR year the Authority must provide to the Secretary of State a report in respect of that OLR year setting out—
 
@@ -388,7 +388,7 @@ and, in relation to any relevant function, the “specified period” is the per
 - (b) the total number of electricity generators which have entered into a BPPA in that OLR year;
 - (c) the total number of generating stations of each particular technology in respect of which BPPAs have been entered into in that OLR year;
 - (d) the total amount of management fees payable to OLRs under BPPAs which are in force for the whole or part of that OLR year;
-- (e)[^key-d591de30fba0bd25f7d1a5273c8925d2] the total amount of electricity provided by electricity generators under BPPAs in that OLR year; and
+- (e)[^c-d591de30fba0bd25f7d1a5273c8925d2] the total amount of electricity provided by electricity generators under BPPAs in that OLR year; and
 - (f) any information that the Authority is required to make public under these Regulations.
 
 (2) The Authority must publish any report it provides under paragraph (1).
@@ -397,7 +397,7 @@ and, in relation to any relevant function, the “specified period” is the per
 
 ### OLR levelisation
 
-#### 18. OLR levelisation[^key-ddcc6f7e130778c01963d4f732ad7af7]
+#### 18. OLR levelisation[^c-ddcc6f7e130778c01963d4f732ad7af7]
 
 (1) With effect from the date on which the Authority is notified that the first BPPA is entered into, the Authority must maintain an account (“the OLR levelisation account”)—
 
@@ -412,13 +412,13 @@ and, in relation to any relevant function, the “specified period” is the per
 
 (5) Paragraph (4) applies in respect of any periodic levelisation period only if at least one BPPA is in force for the whole or part of that period.
 
-#### 19. Calculations required for purposes of this Part[^key-7779f65c92a8b705f32482b7e36a327c]
+#### 19. Calculations required for purposes of this Part[^c-7779f65c92a8b705f32482b7e36a327c]
 
 (1) Before calculating the annual levelisation payment under regulation 20 in respect of each licensed supplier (“A”) in respect of an OLR year, the Authority must make the determinations in relation to A which are required by paragraphs (2) to (5).
 
 (2) The amount of A’s “OLR contribution” in respect of an OLR year is to be determined as being the sum of all amounts which, in respect of each BPPA for which A is the OLR, are calculated by applying the formula [formula: see source](https://www.legislation.gov.uk/uksi/2014/2511), where—
 
-- (a) V is the volume of electrical output of the electricity generator provided to[^key-9e083f6c17e9129d982e41efd95860b0] the OLR under the BPPA in any period falling within the OLR year during which the BPPA is in force; and
+- (a) V is the volume of electrical output of the electricity generator provided to[^c-9e083f6c17e9129d982e41efd95860b0] the OLR under the BPPA in any period falling within the OLR year during which the BPPA is in force; and
 - (b) MF is the amount of the management fee which is payable to the OLR under the BPPA during the first 12 months for which the BPPA is in force, expressed as an amount for each megawatt hour of electricity purchased by the OLR.
 
 (3) The amount of A’s “adjusted OLR contribution” in respect of an OLR year is to be determined by taking the amount (if any) determined for A under paragraph (2) and adjusting it by—
@@ -437,7 +437,7 @@ and, in relation to any relevant function, the “specified period” is the per
 - (a) calculating the sum of the amounts determined under paragraph (2) in relation to all licensed suppliers; and
 - (b) multiplying it by the percentage determined in respect of A under paragraph (4).
 
-#### 20. Annual levelisation payments[^key-206b9253bbce26c55c30a9a9640691af]
+#### 20. Annual levelisation payments[^c-206b9253bbce26c55c30a9a9640691af]
 
 (1) Subject to regulation 18(3), the Authority must, on or before 1st October following the end of each OLR year, calculate the amount which each licensed supplier is entitled to receive from, or required to pay into, the OLR levelisation account in respect of that OLR year as follows.
 
@@ -445,35 +445,35 @@ and, in relation to any relevant function, the “specified period” is the per
 
 (3) If the adjusted OLR contribution of a licensed supplier for the OLR year is less than the licensed supplier’s market share OLR contribution, the licensed supplier must make an annual levelisation payment to the Authority equal to the difference between those amounts.
 
-#### 21. Periodic levelisation payments[^key-a6c4df35a31bd771ec09f04e309edd1b][^key-0c2797e23298cdfa44a36894a4d8fcda]
+#### 21. Periodic levelisation payments[^c-a6c4df35a31bd771ec09f04e309edd1b][^c-0c2797e23298cdfa44a36894a4d8fcda]
 
-(1)[^key-a6c4df35a31bd771ec09f04e309edd1b] The Authority must determine and publish the periodic levelisation periods which are to apply in [^key-4bb18302ac744034f8c684533d0fcafc]... respect of each OLR year.
+(1)[^c-a6c4df35a31bd771ec09f04e309edd1b] The Authority must determine and publish the periodic levelisation periods which are to apply in [^c-4bb18302ac744034f8c684533d0fcafc]... respect of each OLR year.
 
-(2)[^key-a6c4df35a31bd771ec09f04e309edd1b] The determination under paragraph (1) must be made—
+(2)[^c-a6c4df35a31bd771ec09f04e309edd1b] The determination under paragraph (1) must be made—
 
 - (a) in respect of the OLR year which ends on 31st March 2016, on or before 1st September 2015; and
 - (b) in respect of any other OLR year, not later than 1st March in the immediately preceding OLR year.
 
-(3)[^key-a6c4df35a31bd771ec09f04e309edd1b] Each periodic levelisation period must be a period of 3 months or less which falls within the OLR year to which a determination under paragraph (1) relates.
+(3)[^c-a6c4df35a31bd771ec09f04e309edd1b] Each periodic levelisation period must be a period of 3 months or less which falls within the OLR year to which a determination under paragraph (1) relates.
 
-(4)[^key-a6c4df35a31bd771ec09f04e309edd1b] The Authority may vary the periodic levelisation periods which are to apply in an OLR year and must publish notice of any such variation at least one month before the variation takes effect.
+(4)[^c-a6c4df35a31bd771ec09f04e309edd1b] The Authority may vary the periodic levelisation periods which are to apply in an OLR year and must publish notice of any such variation at least one month before the variation takes effect.
 
-(5)[^key-0c2797e23298cdfa44a36894a4d8fcda] Subject to regulation 18(5), the Authority must calculate the periodic levelisation payment which each licensed supplier is required to make or is entitled to receive for each periodic levelisation period.
+(5)[^c-0c2797e23298cdfa44a36894a4d8fcda] Subject to regulation 18(5), the Authority must calculate the periodic levelisation payment which each licensed supplier is required to make or is entitled to receive for each periodic levelisation period.
 
-(6)[^key-0c2797e23298cdfa44a36894a4d8fcda] A calculation under paragraph (5) must be based on the Authority’s estimate of the difference between the licensed supplier’s OLR contribution[^f00008] and its market share OLR contribution[^f00009] for the OLR year in which the periodic levelisation period falls.
+(6)[^c-0c2797e23298cdfa44a36894a4d8fcda] A calculation under paragraph (5) must be based on the Authority’s estimate of the difference between the licensed supplier’s OLR contribution[^f00008] and its market share OLR contribution[^f00009] for the OLR year in which the periodic levelisation period falls.
 
-(7)[^key-0c2797e23298cdfa44a36894a4d8fcda] If the OLR contribution of a licensed supplier for the OLR year is estimated to be greater than the licensed supplier’s market share OLR contribution, the licensed supplier is entitled to receive a periodic levelisation payment from the Authority equal to the difference between those amounts.
+(7)[^c-0c2797e23298cdfa44a36894a4d8fcda] If the OLR contribution of a licensed supplier for the OLR year is estimated to be greater than the licensed supplier’s market share OLR contribution, the licensed supplier is entitled to receive a periodic levelisation payment from the Authority equal to the difference between those amounts.
 
-(8)[^key-0c2797e23298cdfa44a36894a4d8fcda] If the OLR contribution of a licensed supplier for the OLR year is estimated to be less than the licensed supplier’s market share OLR contribution, the licensed supplier must make a periodic[^key-b41de419585c1f7fd2e51d99191f8692] levelisation payment to the Authority equal to the difference between those amounts.
+(8)[^c-0c2797e23298cdfa44a36894a4d8fcda] If the OLR contribution of a licensed supplier for the OLR year is estimated to be less than the licensed supplier’s market share OLR contribution, the licensed supplier must make a periodic[^c-b41de419585c1f7fd2e51d99191f8692] levelisation payment to the Authority equal to the difference between those amounts.
 
-#### 22. Notice of levelisation payments[^key-10a12e0927fd7707030cc609972af860]
+#### 22. Notice of levelisation payments[^c-10a12e0927fd7707030cc609972af860]
 
 Where the Authority calculates levelisation payments for any OLR year or periodic levelisation period in accordance with this Part, it must—
 
 - (a) give notice to each licensed supplier which is liable to make or entitled to receive a levelisation payment of the amount of that payment; and
 - (b) where the licensed supplier is liable to make a levelisation payment, specify in the notice the date by which payment is to be made.
 
-#### 23. Payments by the Authority[^key-3a43a5466fd5ea299e251560b1d50b4d]
+#### 23. Payments by the Authority[^c-3a43a5466fd5ea299e251560b1d50b4d]
 
 (1) This regulation applies where a licensed supplier is given notice that it is entitled to receive a levelisation payment.
 
@@ -488,7 +488,7 @@ Where the Authority calculates levelisation payments for any OLR year or periodi
 
 (5) If the Authority believes that the amount in the OLR levelisation account will not be sufficient to enable it to make a levelisation payment out of the account, the Authority may defer all or part of that payment until there is a sufficient amount in the OLR levelisation account.
 
-#### 24. Levelisation correction[^key-54fab0fca3ace09107db4177997ac6ea]
+#### 24. Levelisation correction[^c-54fab0fca3ace09107db4177997ac6ea]
 
 (1) Paragraph (2) applies where the Authority identifies that any calculation under regulation 19 or 20(1) is incorrect.
 
@@ -503,26 +503,26 @@ Where the Authority calculates levelisation payments for any OLR year or periodi
 
 ### OLR mutualisation
 
-#### 25. Trigger for OLR mutualisation[^key-fa5e11e4f8d05329cac59a3a26e9a64b][^key-9ca1e62bb55092176d5eb69a545fc750]
+#### 25. Trigger for OLR mutualisation[^c-fa5e11e4f8d05329cac59a3a26e9a64b][^c-9ca1e62bb55092176d5eb69a545fc750]
 
-(1)[^key-fa5e11e4f8d05329cac59a3a26e9a64b] The Secretary of State must determine in respect of each OLR year a lower limit for the unpaid amounts referred to in paragraph (2)(b) that will trigger a mutualisation (“the mutualisation lower limit”).
+(1)[^c-fa5e11e4f8d05329cac59a3a26e9a64b] The Secretary of State must determine in respect of each OLR year a lower limit for the unpaid amounts referred to in paragraph (2)(b) that will trigger a mutualisation (“the mutualisation lower limit”).
 
-(2)[^key-9ca1e62bb55092176d5eb69a545fc750] Regulation 26 applies if—
+(2)[^c-9ca1e62bb55092176d5eb69a545fc750] Regulation 26 applies if—
 
 - (a) one or more licensed suppliers fail to make to the Authority the whole or part of a periodic levelisation payment within 5 days of the date on which it is due (“the due date”); and
 - (b) after 5 days following the due date, the total of unpaid amounts is equal to or greater than the mutualisation lower limit.
 
-(3)[^key-fa5e11e4f8d05329cac59a3a26e9a64b] In determining the mutualisation lower limit in respect of any OLR year under paragraph (1), the Secretary of State must have regard to—
+(3)[^c-fa5e11e4f8d05329cac59a3a26e9a64b] In determining the mutualisation lower limit in respect of any OLR year under paragraph (1), the Secretary of State must have regard to—
 
 - (a) where the total of unpaid amounts referred to in paragraph (2)(b) falls below the limit determined for that year, the likely effect on any licensed supplier which has entered into a BPPA with an electricity generator of deferring payment under regulation 23(5) of amounts of periodic levelisation payment to which the licensed supplier is entitled; and
 - (b) where the total of unpaid amounts referred to in paragraph (2)(b) is equal to or above the limit determined for that year, the likely effect on all licensed suppliers of having to make mutualisation payments under regulation 26(2).
 
-(4)[^key-fa5e11e4f8d05329cac59a3a26e9a64b] The Secretary of State must publish the mutualisation lower limit determined under paragraph (1)—
+(4)[^c-fa5e11e4f8d05329cac59a3a26e9a64b] The Secretary of State must publish the mutualisation lower limit determined under paragraph (1)—
 
 - (a) in respect of the OLR year which ends on 31st March 2016, on or before 30th September 2015; and
 - (b) in respect of any other OLR year, before the beginning of the OLR year to which it relates.
 
-#### 26. OLR mutualisation[^key-18841ae593f1a9d3698d0f6dba634338]
+#### 26. OLR mutualisation[^c-18841ae593f1a9d3698d0f6dba634338]
 
 (1) In this regulation—
 
@@ -563,9 +563,9 @@ Where the Authority calculates levelisation payments for any OLR year or periodi
 
 ### Miscellaneous
 
-#### 27. Termination of supply licence[^key-694fb1aba9a32a549fde78beded8f32c]
+#### 27. Termination of supply licence[^c-694fb1aba9a32a549fde78beded8f32c]
 
-(1) This regulation applies if the supply licence of a licensed supplier (“E”)[^key-17061ed65d0922a679041fa5065c2fa6] is terminated.
+(1) This regulation applies if the supply licence of a licensed supplier (“E”)[^c-17061ed65d0922a679041fa5065c2fa6] is terminated.
 
 (2) E is not to be regarded as a licensed supplier for the purposes of any periodic levelisation, annual levelisation or mutualisation which takes place after the termination of its licence.
 
@@ -587,7 +587,7 @@ the Authority may adjust the annual levelisation payment of each remaining licen
 - (b) it is surrendered by the licensed supplier; or
 - (c) it expires by effluxion of time.
 
-#### 28. Late payments[^key-c6f2e492752407aef9e7561791256c71]
+#### 28. Late payments[^c-c6f2e492752407aef9e7561791256c71]
 
 (1) This regulation applies when the Authority receives a payment as a consequence of the application of—
 
@@ -608,15 +608,15 @@ the Authority may adjust the annual levelisation payment of each remaining licen
 
 ## PART 4 — Miscellaneous
 
-### 29. Enforcement[^key-b0d6a0914310e5c505d2df423a09394e]
+### 29. Enforcement[^c-b0d6a0914310e5c505d2df423a09394e]
 
 Any requirement imposed on a licensed supplier under these Regulations is enforceable by the Authority as if any such requirement was a relevant requirement on a regulated person for the purposes of section 25 of the Electricity Act 1989[^f00010].
 
-### 30. Publication of guidance[^key-01654ccadea2a6d7ae693258e62e5752]
+### 30. Publication of guidance[^c-01654ccadea2a6d7ae693258e62e5752]
 
 The Authority may publish procedural guidance for electricity generators and licensed suppliers for or in connection with the power purchase agreement scheme.
 
-### 31. Reviews by Secretary of State[^key-00ecf45adabddc58d3357ca09f100cbe]
+### 31. Reviews by Secretary of State[^c-00ecf45adabddc58d3357ca09f100cbe]
 
 (1) In respect of each OLR year, the Secretary of State must review—
 
@@ -632,7 +632,7 @@ The Authority may publish procedural guidance for electricity generators and lic
 - (a) publish the conclusions of any review under paragraph (1); and
 - (b) indicate what (if any) changes to the power purchase agreement scheme are proposed, subject to consultation under section 51(6) or 54(2) of the Act.
 
-### 32. Notices etc[^key-39a0c9bd5a3d4bd4db6f7300f5f793ca]
+### 32. Notices etc[^c-39a0c9bd5a3d4bd4db6f7300f5f793ca]
 
 (1) Any requirement to give a notice to any person under these Regulations—
 
@@ -655,17 +655,17 @@ Regulation 11(1)
 
 ### PART 1 — The auction
 
-#### 1. One auction in respect of each eligible generator[^key-855dcf534e2b3b03820516807be0fde5]
+#### 1. One auction in respect of each eligible generator[^c-855dcf534e2b3b03820516807be0fde5]
 
 One auction is to be held in respect of each eligible generator irrespective of the number of BPPAs determined in accordance with regulation 4 as being subject to the auction in respect of that generator.
 
-#### 2. Close of the auction period[^key-c955ff02a557b7eb8e37a1dd79a99e96]
+#### 2. Close of the auction period[^c-c955ff02a557b7eb8e37a1dd79a99e96]
 
 (1) Each auction closes at the end of the 10-day period which starts with the first day after the date on which the OLR notice is sent to licensed suppliers under regulation 7(1)(b).
 
-(2) Sub-paragraph (1) is subject to paragraph 3(1A) and[^key-5e28df57410f930c19a60069bb7e0d98] 3(2) and regulation 10.
+(2) Sub-paragraph (1) is subject to paragraph 3(1A) and[^c-5e28df57410f930c19a60069bb7e0d98] 3(2) and regulation 10.
 
-#### 3. Errors or omissions in information submitted by eligible generator[^key-6e70610d569ae452a9ad16546b420397]
+#### 3. Errors or omissions in information submitted by eligible generator[^c-6e70610d569ae452a9ad16546b420397]
 
 (1) If at any time before the close of an auction the Authority identifies that there is an error in or omission from the project information submitted by an eligible generator, the Authority must give a notice to the eligible generator which—
 
@@ -675,7 +675,7 @@ One auction is to be held in respect of each eligible generator irrespective of 
   - (i) within 2 days of the start of the 10-day period specified in paragraph 2, the date on which the auction closes is delayed in accordance with sub-paragraph (2);
   - (ii) within 5 days of the date of the notice under this sub-paragraph, the auction is terminated in accordance with regulation 10(1)(b) and (2)(c).
 
-(1A)[^key-51e60fad980218c02bf16b3de0adb657] If within the first 2 days of the 10-day period specified in paragraph 2 the Authority receives an updated version of the project information from the eligible generator—
+(1A)[^c-51e60fad980218c02bf16b3de0adb657] If within the first 2 days of the 10-day period specified in paragraph 2 the Authority receives an updated version of the project information from the eligible generator—
 
 - (a) the date on which the auction closes is unchanged;
 - (b) the Authority must send a revised OLR notice to all licensed suppliers in accordance with regulation 7(1)(b); and
@@ -685,24 +685,24 @@ One auction is to be held in respect of each eligible generator irrespective of 
 
 - (a) the auction does not close until the end of a further 10-day period which starts with the date on which the response is received;
 - (b) the Authority must give a notice to all licensed suppliers stating the date on which the auction closes by virtue of paragraph (a); and
-- (c) where the Authority receives an updated version of the project information from the eligible generator, the Authority must send the revised OLR notice[^key-bffb4f11f96ff1d417d658ff5727891d] to all licensed suppliers.
+- (c) where the Authority receives an updated version of the project information from the eligible generator, the Authority must send the revised OLR notice[^c-bffb4f11f96ff1d417d658ff5727891d] to all licensed suppliers.
 
 (3) Sub-paragraph (2) does not apply where the auction is terminated in accordance with regulation 10(1)(b) and (2)(c).
 
 ### PART 2 — Selecting a licensed supplier in respect of a BPPA
 
-#### 4. Single BPPA subject to an auction[^key-55291d2a38b96f48ebc1bee990c093c9]
+#### 4. Single BPPA subject to an auction[^c-55291d2a38b96f48ebc1bee990c093c9]
 
 Paragraphs 5 to 7 apply in any case where—
 
 - (a) not more than one BPPA is subject to an auction in respect of an eligible generator; and
 - (b) one or more bids in that auction are received by the Authority before the auction closes.
 
-#### 5. Determining the successful bid[^key-5c01253924bf804dc00847c113668614]
+#### 5. Determining the successful bid[^c-5c01253924bf804dc00847c113668614]
 
 (1) The Authority must in accordance with sub-paragraphs (2) to (5) select the successful bidder in respect of the BPPA.
 
-(2)[^key-fb90c6683ebdbcaf149383feb7518fd9] The Authority must take no account of any bid made by a licensed supplier which—
+(2)[^c-fb90c6683ebdbcaf149383feb7518fd9] The Authority must take no account of any bid made by a licensed supplier which—
 
 - (a) is not connected to a GSP group that is specified in the eligible generator’s project information in relation to the generating station specified in that project information; or
 - (b) was submitted before a revised OLR notice was issued in accordance with paragraph 3(1A) or 3(2)(c).
@@ -722,7 +722,7 @@ Paragraphs 5 to 7 apply in any case where—
 - (b) all other licensed suppliers which bid in the auction, stating that they have not been selected; and
 - (c) the eligible generator, stating the name of the licensed supplier selected and enclosing the signed copies of the BPPA which the licensed supplier provided to the Authority in accordance with relevant supply licence conditions.
 
-#### 6. Reserve bids[^key-7dc880ec287217278aaa251d87f8f7ce]
+#### 6. Reserve bids[^c-7dc880ec287217278aaa251d87f8f7ce]
 
 (1) Each licensed supplier which submitted a bid in respect of the BPPA subject to an auction is to be treated for the purposes of paragraph 7 as a reserve bidder which submitted a reserve bid in respect of the BPPA.
 
@@ -731,7 +731,7 @@ Paragraphs 5 to 7 apply in any case where—
 - (a) the successful bidder; or
 - (b) any voluntary licensed supplier which specified in its bid in accordance with relevant supply licence conditions that the bid was not to be considered as a reserve bid.
 
-#### 7. Consideration of reserve bids[^key-fda83a083c86fac3d864ba062b4d07d3]
+#### 7. Consideration of reserve bids[^c-fda83a083c86fac3d864ba062b4d07d3]
 
 (1) Sub-paragraph (2) applies where an eligible generator which has entered into a BPPA with an OLR which has been selected under paragraph 5 or this paragraph gives notice which states that it—
 
@@ -750,16 +750,16 @@ Paragraphs 5 to 7 apply in any case where—
 - (a) the licensed supplier which is selected under this paragraph, stating that the licensed supplier has been selected as the successful reserve bidder; and
 - (b) the eligible generator, stating the name of that licensed supplier and enclosing the signed copies of the BPPA which the licensed supplier provided to the Authority in accordance with relevant supply licence conditions.
 
-#### 8. Multiple BPPAs subject to an auction[^key-81e7213c2335886358605aa4dadc8dd6]
+#### 8. Multiple BPPAs subject to an auction[^c-81e7213c2335886358605aa4dadc8dd6]
 
 Paragraphs 9 to 11 apply where—
 
 - (a) in accordance with regulation 4, two or more BPPAs are to be subject to an auction in respect of an eligible generator; and
 - (b) two or more bids in that auction are received by the Authority before the auction closes.
 
-#### 9. Determining the successful bid: multiple BPPA auction[^key-fe16a73c0aa36e5727bb270d032079f6]
+#### 9. Determining the successful bid: multiple BPPA auction[^c-fe16a73c0aa36e5727bb270d032079f6]
 
-(1)[^key-da7a6368c3786a272dac808af0483535] The Authority must take no account of any bid made by a licensed supplier which—
+(1)[^c-da7a6368c3786a272dac808af0483535] The Authority must take no account of any bid made by a licensed supplier which—
 
 - (a) is not connected to a GSP group that is specified in the eligible generator’s project information in relation to the generating station specified in that project information; or
 - (b) was submitted before a revised OLR notice was issued in accordance with paragraph 3(1A) or 3(2)(c).
@@ -789,7 +789,7 @@ and so on until all of the licensed suppliers which proposed that amount of mana
 - (b) all other licensed suppliers which bid in the auction, stating that they have not been selected; and
 - (c) the eligible generator, stating the name of each licensed supplier selected and in each case enclosing the signed copies of the BPPA which the licensed supplier provided to the Authority in accordance with relevant supply licence conditions.
 
-#### 10. Reserve bids: multiple BPPA auction[^key-f52c0077072c2f4de2373cd7ceb6d78a]
+#### 10. Reserve bids: multiple BPPA auction[^c-f52c0077072c2f4de2373cd7ceb6d78a]
 
 (1) Each licensed supplier which submitted a bid in respect of a BPPA subject to an auction is to be treated for the purposes of paragraph 11 as a reserve bidder which submitted a reserve bid in respect of that BPPA.
 
@@ -798,7 +798,7 @@ and so on until all of the licensed suppliers which proposed that amount of mana
 - (a) to any bid submitted by a licensed supplier which has already been selected under paragraph 9 or 11; or
 - (b) to any bid submitted by a voluntary licensed supplier which specified in its bid in accordance with relevant supply licence conditions that the bid was not to be considered as a reserve bid.
 
-#### 11. Consideration of reserve bids: multiple BPPA auction[^key-745cf068040e49cc712f109cc6e32696]
+#### 11. Consideration of reserve bids: multiple BPPA auction[^c-745cf068040e49cc712f109cc6e32696]
 
 (1) Sub-paragraph (2) applies where an eligible generator which has entered into a BPPA with an OLR which has been selected under paragraph 9 or this paragraph gives notice which states that it—
 
@@ -818,11 +818,11 @@ and so on until all of the licensed suppliers which proposed that amount of mana
 - (a) the licensed supplier which is selected under this paragraph, stating that the licensed supplier has been selected as the successful reserve bidder; and
 - (b) the eligible generator, stating the name of that licensed supplier and enclosing the signed copies of the BPPA which the licensed supplier provided to the Authority in accordance with relevant supply licence conditions.
 
-#### 12. Publishing the outcome of an auction[^key-caada35599de126a42507507927eabd9]
+#### 12. Publishing the outcome of an auction[^c-caada35599de126a42507507927eabd9]
 
 In relation to each BPPA which is entered into by an OLR, the Authority must publish a statement specifying—
 
-- (a) the name of the[^key-4084a34aef0812a21d28c35a1fbe3c21] OLR;
+- (a) the name of the[^c-4084a34aef0812a21d28c35a1fbe3c21] OLR;
 - (b) the name of the eligible generator which is party to the BPPA; and
 - (c) the amount of the management fee payable to the OLR under the BPPA, expressed as an amount for each megawatt hour of electricity.
 
@@ -858,146 +858,146 @@ Part 4 (regulations 29 to 32) contains miscellaneous provisions. Regulation 29 m
 
 [^f00001]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-ad9075e3af0fa3489fdef9d611888f3d]: Commencement: Reg. 1 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-ad9075e3af0fa3489fdef9d611888f3d]: Commencement: Reg. 1 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-cb0e1bab46b66effb3c61cd184c563b3]: Commencement: Reg. 2 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-cb0e1bab46b66effb3c61cd184c563b3]: Commencement: Reg. 2 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-d4b74eb8f51f85e3b68a5f5f4ed58a41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/2/1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [29(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/29/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-d4b74eb8f51f85e3b68a5f5f4ed58a41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/2/1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [29(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/29/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-dc58f8af2142453e7e23c5c2b982c7a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/2/1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [29(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/29/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-dc58f8af2142453e7e23c5c2b982c7a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/2/1) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [29(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/29/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1 to the Act was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
 [^f00004]: Footnote: See paragraph 1 of Schedule 2.
 
-[^key-5f386d1a1b9b31b98b17dc76a7168cd6]: Commencement: Reg. 3 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-5f386d1a1b9b31b98b17dc76a7168cd6]: Commencement: Reg. 3 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-d94b55c5e024f4b27abd96bf57350348]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2511/regulation/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-d94b55c5e024f4b27abd96bf57350348]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2511/regulation/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-c6486aa712aa0b94407e20ffaa06fd26]: Commencement: [Reg. 5(1)(3)-(5)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/1/3) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-c6486aa712aa0b94407e20ffaa06fd26]: Commencement: [Reg. 5(1)(3)-(5)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/1/3) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-1ec80c99e274d2379acd466715f43985]: Commencement: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/2) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-1ec80c99e274d2379acd466715f43985]: Commencement: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/2) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-c3b8d9690acf2b260f4cd64920abcc3c]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/4/a) omitted (1.10.2015) by virtue of [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2015/1412/regulation/3)
+[^c-c3b8d9690acf2b260f4cd64920abcc3c]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/5/4/a) omitted (1.10.2015) by virtue of [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2015/1412/regulation/3)
 
-[^key-e4624598a714fb9aa00cc13335499ad0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2511/regulation/6) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-e4624598a714fb9aa00cc13335499ad0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2511/regulation/6) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-d964908ee9d90f423feeeff06e729e8f]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/6/6/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2015/1412/regulation/4)
+[^c-d964908ee9d90f423feeeff06e729e8f]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/6/6/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2015/1412/regulation/4)
 
-[^key-01aca2999eca5d7716754a03e0b911df]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2511/regulation/7) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-01aca2999eca5d7716754a03e0b911df]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2511/regulation/7) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-e2e4bcad6e5437541baa7b1d9bafc00a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2511/regulation/8) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-e2e4bcad6e5437541baa7b1d9bafc00a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2511/regulation/8) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-c6ef4e0f718ef977bbed9b538587be66]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2511/regulation/9) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-c6ef4e0f718ef977bbed9b538587be66]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2511/regulation/9) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-5698662f467389a08b55e9d47b372468]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2511/regulation/10) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-5698662f467389a08b55e9d47b372468]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2511/regulation/10) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-9fce0cc213b8beace20c0945d6e379fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2511/regulation/11) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-9fce0cc213b8beace20c0945d6e379fe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2511/regulation/11) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-49eb9e0cb1e191c9822b319324491550]: Commencement: Reg. 12 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-49eb9e0cb1e191c9822b319324491550]: Commencement: Reg. 12 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-097eee24760bbe0fc15b0ba98bb991d5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2511/regulation/13) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-097eee24760bbe0fc15b0ba98bb991d5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2511/regulation/13) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-0254991be1728c0d860d36342a46b149]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2511/regulation/14) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-0254991be1728c0d860d36342a46b149]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2511/regulation/14) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-1eb3326b8b7dd6f39548122eb5cc4d2b]: Commencement: Reg. 15(1)(2) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-1eb3326b8b7dd6f39548122eb5cc4d2b]: Commencement: Reg. 15(1)(2) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-55b94e812a2b44811b5508f2fafaf257]: Commencement: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/15/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/15/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-55b94e812a2b44811b5508f2fafaf257]: Commencement: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/15/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/15/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-a899d8ffaa78d2dd3176ac7191712b4d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2511/regulation/16) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-a899d8ffaa78d2dd3176ac7191712b4d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2511/regulation/16) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-1c3bbf816a7d472cbf36560a04cbd959]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/16/1/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/1412/regulation/5)
+[^c-1c3bbf816a7d472cbf36560a04cbd959]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/16/1/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/1412/regulation/5)
 
 [^f00005]: Footnote: [S.I. 2014/2012](https://www.legislation.gov.uk/uksi/2014/2012).
 
-[^key-35c899f6e89ba8c36c2a101f4c1b857e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2511/regulation/17) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-35c899f6e89ba8c36c2a101f4c1b857e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2511/regulation/17) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-d591de30fba0bd25f7d1a5273c8925d2]: Textual amendment: [Reg. 17(1)(e)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/17/1/e) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2015/1412/regulation/6)
+[^c-d591de30fba0bd25f7d1a5273c8925d2]: Textual amendment: [Reg. 17(1)(e)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/17/1/e) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2015/1412/regulation/6)
 
-[^key-ddcc6f7e130778c01963d4f732ad7af7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2511/regulation/18) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-ddcc6f7e130778c01963d4f732ad7af7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2511/regulation/18) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-7779f65c92a8b705f32482b7e36a327c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2511/regulation/19) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-7779f65c92a8b705f32482b7e36a327c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2511/regulation/19) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-9e083f6c17e9129d982e41efd95860b0]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/19/2/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2015/1412/regulation/7)
+[^c-9e083f6c17e9129d982e41efd95860b0]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/19/2/a) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2015/1412/regulation/7)
 
-[^key-206b9253bbce26c55c30a9a9640691af]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2511/regulation/20) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-206b9253bbce26c55c30a9a9640691af]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2511/regulation/20) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
 [^f00006]: Footnote: See regulation 19(3).
 
 [^f00007]: Footnote: See regulation 19(5).
 
-[^key-a6c4df35a31bd771ec09f04e309edd1b]: Commencement: Reg. 21(1)-(4) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-a6c4df35a31bd771ec09f04e309edd1b]: Commencement: Reg. 21(1)-(4) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-0c2797e23298cdfa44a36894a4d8fcda]: Commencement: [Reg. 21(5)-(8)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/5) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-0c2797e23298cdfa44a36894a4d8fcda]: Commencement: [Reg. 21(5)-(8)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/5) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-4bb18302ac744034f8c684533d0fcafc]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/1) omitted (20.7.2015) by virtue of [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/8/1)
+[^c-4bb18302ac744034f8c684533d0fcafc]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/1) omitted (20.7.2015) by virtue of [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/8/1)
 
 [^f00008]: Footnote: See regulation 19(2).
 
 [^f00009]: Footnote: See regulation 19(5).
 
-[^key-b41de419585c1f7fd2e51d99191f8692]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/8) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/8/2)
+[^c-b41de419585c1f7fd2e51d99191f8692]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/21/8) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/8/2)
 
-[^key-10a12e0927fd7707030cc609972af860]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2511/regulation/22) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-10a12e0927fd7707030cc609972af860]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2511/regulation/22) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-3a43a5466fd5ea299e251560b1d50b4d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/2511/regulation/23) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-3a43a5466fd5ea299e251560b1d50b4d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/2511/regulation/23) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-54fab0fca3ace09107db4177997ac6ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/2511/regulation/24) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-54fab0fca3ace09107db4177997ac6ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/2511/regulation/24) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-fa5e11e4f8d05329cac59a3a26e9a64b]: Commencement: Reg. 25(1)(3)(4) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-fa5e11e4f8d05329cac59a3a26e9a64b]: Commencement: Reg. 25(1)(3)(4) in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-9ca1e62bb55092176d5eb69a545fc750]: Commencement: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/25/2) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-9ca1e62bb55092176d5eb69a545fc750]: Commencement: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/25/2) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-18841ae593f1a9d3698d0f6dba634338]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2511/regulation/26) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-18841ae593f1a9d3698d0f6dba634338]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/2511/regulation/26) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-694fb1aba9a32a549fde78beded8f32c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/2511/regulation/27) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-694fb1aba9a32a549fde78beded8f32c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/2511/regulation/27) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-17061ed65d0922a679041fa5065c2fa6]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/27/1) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2015/1412/regulation/9)
+[^c-17061ed65d0922a679041fa5065c2fa6]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/27/1) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2015/1412/regulation/9)
 
-[^key-c6f2e492752407aef9e7561791256c71]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2511/regulation/28) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-c6f2e492752407aef9e7561791256c71]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2511/regulation/28) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-b0d6a0914310e5c505d2df423a09394e]: Commencement: Reg. 29 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-b0d6a0914310e5c505d2df423a09394e]: Commencement: Reg. 29 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
 [^f00010]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 25 was amended by section 54(3) of, and paragraph 12(5) of Schedule 10 to, the Competition Act [1998 (c.41)](https://www.legislation.gov.uk/ukpga/1998/41), sections 3(2), 60(1) to (5) and 108 of, paragraphs 24 and 27 of Schedule 6 and Schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), section 63(1) of, and paragraphs 7 and 9 of Schedule 7 to, the Consumers, Estate Agents and Redress Act [2007 (c.17)](https://www.legislation.gov.uk/ukpga/2007/17) and section 51(5) of, and paragraphs 4 and 5 of Schedule 14 to, the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24). It was also amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
-[^key-01654ccadea2a6d7ae693258e62e5752]: Commencement: Reg. 30 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-01654ccadea2a6d7ae693258e62e5752]: Commencement: Reg. 30 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-00ecf45adabddc58d3357ca09f100cbe]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/2511/regulation/31) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-00ecf45adabddc58d3357ca09f100cbe]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/2511/regulation/31) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-39a0c9bd5a3d4bd4db6f7300f5f793ca]: Commencement: Reg. 32 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
+[^c-39a0c9bd5a3d4bd4db6f7300f5f793ca]: Commencement: Reg. 32 in force at 14.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/2)
 
-[^key-855dcf534e2b3b03820516807be0fde5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/1) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-855dcf534e2b3b03820516807be0fde5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/1) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-c955ff02a557b7eb8e37a1dd79a99e96]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/2) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-c955ff02a557b7eb8e37a1dd79a99e96]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/2) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-5e28df57410f930c19a60069bb7e0d98]: Textual amendment: Words in [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/2/2) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/1)
+[^c-5e28df57410f930c19a60069bb7e0d98]: Textual amendment: Words in [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/2/2) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/1)
 
-[^key-6e70610d569ae452a9ad16546b420397]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-6e70610d569ae452a9ad16546b420397]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-51e60fad980218c02bf16b3de0adb657]: Textual amendment: [Sch. para. 3(1A)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3/1A) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/2)
+[^c-51e60fad980218c02bf16b3de0adb657]: Textual amendment: [Sch. para. 3(1A)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3/1A) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/2)
 
-[^key-bffb4f11f96ff1d417d658ff5727891d]: Textual amendment: Words in [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3/2/c) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/3)
+[^c-bffb4f11f96ff1d417d658ff5727891d]: Textual amendment: Words in [Sch. para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/3/2/c) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/10/3)
 
-[^key-55291d2a38b96f48ebc1bee990c093c9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-55291d2a38b96f48ebc1bee990c093c9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/4) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-5c01253924bf804dc00847c113668614]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/5) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-5c01253924bf804dc00847c113668614]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/5) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-fb90c6683ebdbcaf149383feb7518fd9]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/5/2) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/1)
+[^c-fb90c6683ebdbcaf149383feb7518fd9]: Textual amendment: [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/5/2) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/1)
 
-[^key-7dc880ec287217278aaa251d87f8f7ce]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/6) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-7dc880ec287217278aaa251d87f8f7ce]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/6) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-fda83a083c86fac3d864ba062b4d07d3]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/7) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-fda83a083c86fac3d864ba062b4d07d3]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/7) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-81e7213c2335886358605aa4dadc8dd6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/8) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-81e7213c2335886358605aa4dadc8dd6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/8) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-fe16a73c0aa36e5727bb270d032079f6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/9) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-fe16a73c0aa36e5727bb270d032079f6]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/9) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-da7a6368c3786a272dac808af0483535]: Textual amendment: [Sch. para. 9(1)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/9/1) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/2)
+[^c-da7a6368c3786a272dac808af0483535]: Textual amendment: [Sch. para. 9(1)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/9/1) substituted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/2)
 
-[^key-f52c0077072c2f4de2373cd7ceb6d78a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/10) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-f52c0077072c2f4de2373cd7ceb6d78a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/10) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-745cf068040e49cc712f109cc6e32696]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/11) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-745cf068040e49cc712f109cc6e32696]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/11) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-caada35599de126a42507507927eabd9]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/12) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
+[^c-caada35599de126a42507507927eabd9]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/12) in force at 1.10.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2511/regulation/1/3)
 
-[^key-4084a34aef0812a21d28c35a1fbe3c21]: Textual amendment: Word in [Sch. para. 12(a)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/12/a) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/3)
+[^c-4084a34aef0812a21d28c35a1fbe3c21]: Textual amendment: Word in [Sch. para. 12(a)](https://www.legislation.gov.uk/uksi/2014/2511/schedule/paragraph/12/a) inserted (1.10.2015) by [The Power Purchase Agreement Scheme (Amendment) Regulations 2015 (S.I. 2015/1412)](https://www.legislation.gov.uk/uksi/2015/1412), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/1/3), [11(3)](https://www.legislation.gov.uk/uksi/2015/1412/regulation/11/3)

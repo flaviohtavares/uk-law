@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Access to works[^key-99a82ceb997f2af4b3befaa51de74861]
+## SCHEDULE 5 — Access to works[^c-99a82ceb997f2af4b3befaa51de74861]
 
 *Extent: E+W*
 
 Article 15
 
-[^key-99a82ceb997f2af4b3befaa51de74861]
+[^c-99a82ceb997f2af4b3befaa51de74861]
 
 In the District of Tendring—
 
@@ -58,4 +58,4 @@ In the District of Tendring—
 
 ## Annotations
 
-[^key-99a82ceb997f2af4b3befaa51de74861]: Commencement: Sch. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-99a82ceb997f2af4b3befaa51de74861]: Commencement: Sch. 5 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 447. Interpretation of article 12: assets of Libya[^key-b0d3f4e18797efbc4832a1800df516e8]
+## 447. Interpretation of article 12: assets of Libya[^c-b0d3f4e18797efbc4832a1800df516e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d3f4e18797efbc4832a1800df516e8]: Commencement: Art. 447 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b0d3f4e18797efbc4832a1800df516e8]: Commencement: Art. 447 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

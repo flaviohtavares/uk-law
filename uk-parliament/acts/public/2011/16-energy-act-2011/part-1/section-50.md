@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Further provision about non-domestic energy efficiency regulations[^key-4051c71e8f988919e4ec316fbd81e09b]
+## 50. Further provision about non-domestic energy efficiency regulations[^c-4051c71e8f988919e4ec316fbd81e09b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4051c71e8f988919e4ec316fbd81e09b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/16/section/50) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-4051c71e8f988919e4ec316fbd81e09b]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/16/section/50) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

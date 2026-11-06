@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Advocation in solemn proceedings[^key-35b0c3448ca151b1c6e3d131e2dcff3c]
+## 92. Advocation in solemn proceedings[^c-35b0c3448ca151b1c6e3d131e2dcff3c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ After section 130 of the 1995 Act there is inserted—
 
 ## Annotations
 
-[^key-35b0c3448ca151b1c6e3d131e2dcff3c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/1/section/92) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-35b0c3448ca151b1c6e3d131e2dcff3c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/1/section/92) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Medicine information systems[^key-3fc1b41cc6117e002c7498348ac48e68][^key-13d0f143a9dd681e825ed8138d22e01b]
+## 101. Medicine information systems[^c-3fc1b41cc6117e002c7498348ac48e68][^c-13d0f143a9dd681e825ed8138d22e01b]
 
 *Extent: E+W*
 
@@ -171,6 +171,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc1b41cc6117e002c7498348ac48e68]: Commencement: S. 101 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-3fc1b41cc6117e002c7498348ac48e68]: Commencement: S. 101 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-13d0f143a9dd681e825ed8138d22e01b]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2022/31/section/101) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-13d0f143a9dd681e825ed8138d22e01b]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2022/31/section/101) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

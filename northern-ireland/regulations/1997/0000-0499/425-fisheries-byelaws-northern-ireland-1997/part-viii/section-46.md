@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**46.**[^key-385c1a1eaf9ec0edb4dd82ae3214924f] A person shall not use any net for the taking of salmon or freshwater fish in Toome Bay within 1,610 metres of the drainage flood gates at Toomebridge.
+**46.**[^c-385c1a1eaf9ec0edb4dd82ae3214924f] A person shall not use any net for the taking of salmon or freshwater fish in Toome Bay within 1,610 metres of the drainage flood gates at Toomebridge.
 
 ## Annotations
 
-[^key-385c1a1eaf9ec0edb4dd82ae3214924f]: Commencement: S. 46 in operation at 1.11.1997, see byelaw 1
+[^c-385c1a1eaf9ec0edb4dd82ae3214924f]: Commencement: S. 46 in operation at 1.11.1997, see byelaw 1

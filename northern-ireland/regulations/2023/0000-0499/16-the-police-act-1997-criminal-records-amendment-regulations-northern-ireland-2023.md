@@ -42,11 +42,11 @@ Coming into operation-
 
 The Department of Justice makes the following Regulations in exercise of the powers conferred by sections 113B(2)(b), 113BB(1), 125(1) and (5) of the Police Act 1997[^f00001] as modified by section 126A[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-6a78bec5fe67162e730deb727e7d7933]
+## 1. Citation and commencement[^c-6a78bec5fe67162e730deb727e7d7933]
 
 These Regulations may be cited as the Police Act 1997 (Criminal Records) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 20th March 2023.
 
-## 2. Amendment of the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008[^key-c4f4e237272f47c367be3ddb3d08c926]
+## 2. Amendment of the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008[^c-c4f4e237272f47c367be3ddb3d08c926]
 
 (1) The Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008[^f00003] are amended as follows.
 
@@ -84,9 +84,9 @@ Regulation 2(4) amends regulation 12 of the 2008 Regulations, to extend eligibil
 
 [^f00002]: Footnote: Section 126A was inserted by Article 12 and paragraph 38 of Schedule 14 to [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-6a78bec5fe67162e730deb727e7d7933]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1) in operation at 20.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1)
+[^c-6a78bec5fe67162e730deb727e7d7933]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1) in operation at 20.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1)
 
-[^key-c4f4e237272f47c367be3ddb3d08c926]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/16/regulation/2) in operation at 20.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1)
+[^c-c4f4e237272f47c367be3ddb3d08c926]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/16/regulation/2) in operation at 20.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/16/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2008/542](https://www.legislation.gov.uk/uksi/2008/542); relevant amending Regulations are [S.R. 2010 No. 229](https://www.legislation.gov.uk/nisr/2010/229), [S.R. 2012 No. 321](https://www.legislation.gov.uk/nisr/2012/321), [S.R. 2015 No. 350](https://www.legislation.gov.uk/nisr/2015/350) and [S.R. 2022 No. 212](https://www.legislation.gov.uk/nisr/2022/212).
 

@@ -28,7 +28,7 @@ Section 35.
 
 **1.** (1) [^c1365908] The Employment Agencies Act 1973 shall be amended as follows.
 
-(2)[^key-0e8367852ebe071b28e5dd8a1fb9e40e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0e8367852ebe071b28e5dd8a1fb9e40e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 3 there shall be inserted—
 
@@ -91,7 +91,7 @@ Section 35.
 >
 > (2) No other appeal shall lie from a decision of an employment tribunal under section 3A or 3C of this Act; and section 11 of the Tribunals and Inquiries [^c1365919]Act 1992 (appeals from certain tribunals to High Court or Court of Session) shall not apply to proceedings before an employment tribunal under section 3A or 3C of this Act.
 
-(4)[^key-c6b43ee4c385472ec7ef6c0719133f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c6b43ee4c385472ec7ef6c0719133f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 13(1) (interpretation) after the definition of “prescribed” there shall be inserted—
 
@@ -103,7 +103,7 @@ Section 35.
 
 *Extent: N.I.*
 
-**2.** (1)[^key-921d5e573225b02cf438bc90c2720bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** (1)[^c-921d5e573225b02cf438bc90c2720bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After Article 5 of that Order there shall be inserted—
 
@@ -170,30 +170,30 @@ Section 35.
 
 #### United Kingdom
 
-**3.**[^key-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Great Britain
 
 *Extent: E+W+S*
 
-**4.**[^key-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Northern Ireland
 
-**5.**[^key-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-35909e48b0aab91636173e6c045d9de5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1365908]: Marginal citation: 1973 c35.
 
-[^key-0e8367852ebe071b28e5dd8a1fb9e40e]: Textual amendment: Sch. 10 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-0e8367852ebe071b28e5dd8a1fb9e40e]: Textual amendment: Sch. 10 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c1365909]: Textual amendment: Words in Sch.10 para. 1(3) substituted (E.W.S.) (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
 [^c1365919]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-c6b43ee4c385472ec7ef6c0719133f27]: Textual amendment: Sch. 10 para. 1(4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/67) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/c)
+[^c-c6b43ee4c385472ec7ef6c0719133f27]: Textual amendment: Sch. 10 para. 1(4) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/67) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/c)
 
-[^key-921d5e573225b02cf438bc90c2720bf1]: Textual amendment: [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/10/paragraph/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-921d5e573225b02cf438bc90c2720bf1]: Textual amendment: [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/10/paragraph/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-35909e48b0aab91636173e6c045d9de5]: Textual amendment: [Sch. 10 paras. 3-5](https://www.legislation.gov.uk/ukpga/1994/40/schedule/10/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-35909e48b0aab91636173e6c045d9de5]: Textual amendment: [Sch. 10 paras. 3-5](https://www.legislation.gov.uk/ukpga/1994/40/schedule/10/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

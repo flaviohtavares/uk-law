@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Byelaws for preventing pollution of water.[^c13462321][^key-5d007330f060f6cce0c74a6262ac91d9]
+## 71. Byelaws for preventing pollution of water.[^c13462321][^c-5d007330f060f6cce0c74a6262ac91d9]
 
 *Extent: S*
 
@@ -55,7 +55,7 @@ Scottish Water[^c18236791] may, whether proceedings have been taken in respect o
 
 [^c13462321]: Modification: S. 71 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [s. 40(4)](https://www.legislation.gov.uk/ukpga/1993/12/section/40/4), [Sch. 3 Pt. II para. 17](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/II/paragraph/17) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46))
 
-[^key-5d007330f060f6cce0c74a6262ac91d9]: Modification: S. 71 restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-5d007330f060f6cce0c74a6262ac91d9]: Modification: S. 71 restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c18236551]: Textual amendment: Words in s. 71(1) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(1)](https://www.legislation.gov.uk/asp/2002/3/section/71/1), [Sch. 6 para. 45(2)(a)](https://www.legislation.gov.uk/asp/2002/3/schedule/6/paragraph/45/2/a) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
 

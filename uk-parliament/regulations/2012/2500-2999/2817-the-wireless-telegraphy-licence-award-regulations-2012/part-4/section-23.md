@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Preparing a permissible bid selection list for each bidder[^key-094da0e0d2d39e61d15c554edfd01f53]
+## 23. Preparing a permissible bid selection list for each bidder[^c-094da0e0d2d39e61d15c554edfd01f53]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-094da0e0d2d39e61d15c554edfd01f53]: Commencement: Reg. 23 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-094da0e0d2d39e61d15c554edfd01f53]: Commencement: Reg. 23 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

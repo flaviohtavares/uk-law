@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45B. Failure to apply for renewal of Scheme membership[^key-2059074a9e6f3ddbd8ac875b9df92cd7]
+## 45B. Failure to apply for renewal of Scheme membership[^c-2059074a9e6f3ddbd8ac875b9df92cd7]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ that is made by the scheme member during any discretionary membership period of 
 
 ## Annotations
 
-[^key-2059074a9e6f3ddbd8ac875b9df92cd7]: Textual amendment: [S. 45B](https://www.legislation.gov.uk/asp/2007/14/section/45B) inserted (1.4.2026) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 72](https://www.legislation.gov.uk/asp/2020/13/section/72), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-2059074a9e6f3ddbd8ac875b9df92cd7]: Textual amendment: [S. 45B](https://www.legislation.gov.uk/asp/2007/14/section/45B) inserted (1.4.2026) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 72](https://www.legislation.gov.uk/asp/2020/13/section/72), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)

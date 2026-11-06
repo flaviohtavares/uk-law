@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Interpretation of Chapter 4[^key-f24fb15842c2453006c58f23c819ca51]
+## 49. Interpretation of Chapter 4[^c-f24fb15842c2453006c58f23c819ca51]
 
 *Extent: N.I.*
 
 (1) In regulations 45 to 48—
 
-- (a) subject to sub-paragraph (m),[^key-22c8b1d3a1032b8310eb3acdbf1d089a] “**adult dependant**” means, in relation to an eligible student, an adult person dependent on the student other than his child, his partner (including a spouse or civil partner from whom the Department considers the student is separated) or his former partner;
+- (a) subject to sub-paragraph (m),[^c-22c8b1d3a1032b8310eb3acdbf1d089a] “**adult dependant**” means, in relation to an eligible student, an adult person dependent on the student other than his child, his partner (including a spouse or civil partner from whom the Department considers the student is separated) or his former partner;
 - (b) “**child**” in relation to an eligible student includes any child of his partner who is dependent on him and any child for whom he has parental responsibility who is dependent on him;
 - (c) “**dependant**” means, in relation to an eligible student, his partner, his dependent child or an adult dependant, who in each case is not an eligible student and does not hold a statutory award;
 - (d) “**dependent**” means wholly or mainly financially dependent;
-- (da)[^key-b364efac14ebc3883bd65def91f81a8e] “dependent child” means, in relation to an eligible student, a child dependent on the student;
+- (da)[^c-b364efac14ebc3883bd65def91f81a8e] “dependent child” means, in relation to an eligible student, a child dependent on the student;
 - (e) “**lone parent**” means an eligible student who does not have a partner and who has a dependent child or dependent children;
 - (f) “**net income**” has the meaning given in paragraph (2);
-- (g) subject to sub-paragraphs (h), (i), (j) , (k) and (l)[^key-f2a14a444d64e8c566acf3a7347957b0], “**partner**” means any of the following—
+- (g) subject to sub-paragraphs (h), (i), (j) , (k) and (l)[^c-f2a14a444d64e8c566acf3a7347957b0], “**partner**” means any of the following—
   - (i) the spouse of an eligible student;
   - (ii) the civil partner of an eligible student;
   - (iii) a person ordinarily living with an eligible student as if he were his spouse where an eligible student falls within paragraph 2(1)(a) of Schedule 5 and began the specified designated course on or after 1st September 2000;
@@ -42,7 +42,7 @@ summary: ''
 - (k) for the purposes of regulation 46—
   - (i) sub-paragraph (h) does not apply; and
   - (ii) a person is to be treated as a partner if he would be a partner under sub-paragraph (g) but for the fact that the eligible student with whom he is ordinarily living does not fall within paragraph (2)(1)(a) of Schedule 5.
-- (l)[^key-f9c23a0b64bf8efe65db993511275e1e] for the purposes of determining whether a person is the former partner of an eligible student’s partner, “partner” in relation to an eligible student’s partner means—
+- (l)[^c-f9c23a0b64bf8efe65db993511275e1e] for the purposes of determining whether a person is the former partner of an eligible student’s partner, “partner” in relation to an eligible student’s partner means—
   - (i) the spouse of an eligible student’s partner;
   - (ii) the civil partner of an eligible student’s partner;
   - (iii) where the eligible student began the specified designated course on or after 1st September 2000, a person ordinarily living with an eligible student’s partner as if he were his spouse;
@@ -75,15 +75,15 @@ summary: ''
 
 ## Annotations
 
-[^key-f24fb15842c2453006c58f23c819ca51]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2007/195/regulation/49) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-f24fb15842c2453006c58f23c819ca51]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2007/195/regulation/49) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-22c8b1d3a1032b8310eb3acdbf1d089a]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/a) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/2)
+[^c-22c8b1d3a1032b8310eb3acdbf1d089a]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/a) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/2)
 
-[^key-b364efac14ebc3883bd65def91f81a8e]: Textual amendment: [Reg. 49(1)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/da) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/3)
+[^c-b364efac14ebc3883bd65def91f81a8e]: Textual amendment: [Reg. 49(1)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/da) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/3)
 
-[^key-f2a14a444d64e8c566acf3a7347957b0]: Textual amendment: Words in [reg. 49(1)(g)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/g) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(4)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/4)
+[^c-f2a14a444d64e8c566acf3a7347957b0]: Textual amendment: Words in [reg. 49(1)(g)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/g) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(4)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/4)
 
-[^key-f9c23a0b64bf8efe65db993511275e1e]: Textual amendment: [Reg. 49(1)(l)-(n)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/l) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(5)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/5)
+[^c-f9c23a0b64bf8efe65db993511275e1e]: Textual amendment: [Reg. 49(1)(l)-(n)](https://www.legislation.gov.uk/nisr/2007/195/regulation/49/1/l) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [14(5)](https://www.legislation.gov.uk/nisr/2007/363/regulation/14/5)
 
 [^f00047]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7), as amended by Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)), Articles 3 to 5, 7,8, 10 to 12 and Schedules 1 and 2
 

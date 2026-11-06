@@ -50,13 +50,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-56492d6d79d6343a284e50ede03689ef]
+### 1. Citation, commencement and extent[^c-56492d6d79d6343a284e50ede03689ef]
 
 (1) This Order may be cited as the Bovine Viral Diarrhoea (Scotland) Order 2019 and comes into force on 1 December 2019.
 
 (2) This Order extends to Scotland only.
 
-### 2. Interpretation[^key-116a13c4f0ff4f2ef32cbd1a36c9f328]
+### 2. Interpretation[^c-116a13c4f0ff4f2ef32cbd1a36c9f328]
 
 (1) In this Order unless the context otherwise requires—
 
@@ -88,7 +88,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**official ear tag**” means an ear tag applied under the Cattle Identification (Scotland) Regulations 2007 [^c23891361],
 - “**official ear tag number**” means the number which is printed on an official ear tag,
 - “**premises**” means any land, building or vehicle, of any description,
-- “[^key-183ffbaeb12829e52a5251322f9fa9fe]**qualifying calf**” means a calf of a bovine animal which is born—
+- “[^c-183ffbaeb12829e52a5251322f9fa9fe]**qualifying calf**” means a calf of a bovine animal which is born—
   - (a) into a breeding herd to a dam which became part of the herd while the dam was pregnant with the calf,
   - (b) to a dam which—
     - (i) is a breeding bovine animal, and
@@ -105,7 +105,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) In this Order, unless the context otherwise requires, any reference to an article or a schedule is a reference to an article in, or the schedule of, this Order.
 
-### 3. Notices and other instruments[^key-128378247a3b25c2106a513ecdfe1c61]
+### 3. Notices and other instruments[^c-128378247a3b25c2106a513ecdfe1c61]
 
 (1) Any notice, licence or approval given by the Scottish Ministers or an inspector under this Order—
 
@@ -122,11 +122,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (b) on demand by a veterinary inspector, an inspector or an officer of the Scottish Ministers, produce the licence or a copy of it and allow a copy or extract to be taken, and
 - (c) keep the licence or a copy of it for the period of 6 months after the movement is completed.
 
-### 4. Extension of the definition of “disease”[^key-1369f3ea71a9e56005b7ab5aefdabf13]
+### 4. Extension of the definition of “disease”[^c-1369f3ea71a9e56005b7ab5aefdabf13]
 
 The definition of “disease” in section 88(1) of the Act continues to be extended to include BVD for all the purposes of the Act [^c23891401].
 
-### 5. Compliance with this Order[^key-6091bd4cd132f6c493491cb8ed1be909]
+### 5. Compliance with this Order[^c-6091bd4cd132f6c493491cb8ed1be909]
 
 (1) Any sampling by a previous keeper for the purposes of compliance with the obligations of a keeper under this Order may, if the current keeper so elects, be relied upon by the current keeper for the purposes of determining compliance by the current keeper with the obligations in this Order.
 
@@ -136,7 +136,7 @@ The definition of “disease” in section 88(1) of the Act continues to be exte
 
 ## PART 2 — BVD Screening
 
-### 6. Approval of veterinary surgeons[^key-84f53eab1a3c30800ee691949d26d234]
+### 6. Approval of veterinary surgeons[^c-84f53eab1a3c30800ee691949d26d234]
 
 (1) The Scottish Ministers may approve, subject to any conditions that the Scottish Ministers consider necessary, any veterinary surgeon whom they consider to be suitable for the purposes of carrying out the functions conferred on an approved veterinary surgeon by Parts 2 and 3 of this Order.
 
@@ -150,7 +150,7 @@ The definition of “disease” in section 88(1) of the Act continues to be exte
 
 (6) An approved veterinary surgeon may by notice given to the Scottish Ministers indicate that the veterinary surgeon no longer wishes approval, in which case the approval ceases to have effect on the date on which the Scottish Ministers receive that notice.
 
-### 7. Approval of laboratories[^key-3f3c394267abf6d23d28d39eac5cc06f]
+### 7. Approval of laboratories[^c-3f3c394267abf6d23d28d39eac5cc06f]
 
 (1) The Scottish Ministers may approve, subject to any conditions that the Scottish Ministers consider necessary, any laboratory that they consider to be suitable for the purpose of testing samples submitted under this Part.
 
@@ -158,7 +158,7 @@ The definition of “disease” in section 88(1) of the Act continues to be exte
 
 (3) The operator of an approved laboratory must comply with any condition of the approval.
 
-### 8. Suspension and revocation of approval of laboratories[^key-2da8aed192622f3d06c18e7e29351eab]
+### 8. Suspension and revocation of approval of laboratories[^c-2da8aed192622f3d06c18e7e29351eab]
 
 (1) The Scottish Ministers may by notice given to the operator of an approved laboratory suspend or revoke an approval granted under article 7 if—
 
@@ -171,7 +171,7 @@ The definition of “disease” in section 88(1) of the Act continues to be exte
 
 (4) The operator of an approved laboratory may by notice given to the Scottish Ministers indicate that the operator no longer wishes approval of the laboratory, in which case the approval ceases to have effect on the date on which the Scottish Ministers receive that notice.
 
-### 9. Sampling of breeding herds in accordance with compliance deadlines[^key-1cd4b1420fa3b1f40f847a75b75ce63c]
+### 9. Sampling of breeding herds in accordance with compliance deadlines[^c-1cd4b1420fa3b1f40f847a75b75ce63c]
 
 (1) For the purposes of this article, a breeding herd does not include any bovine animal which has an individual BVD status of negative.
 
@@ -208,7 +208,7 @@ the specified number in the relevant sub-paragraph is to be read as the total nu
 
 (8) Paragraph (3)(c) applies only where no calves have been removed from the herd in the immediately preceding 12 month period.
 
-### 10. Sampling of breeding bovine animals in accordance with compliance deadlines[^key-86bdc7211947b88a6db11c837bde5e7a]
+### 10. Sampling of breeding bovine animals in accordance with compliance deadlines[^c-86bdc7211947b88a6db11c837bde5e7a]
 
 (1) The keeper of a breeding bovine animal must, by each compliance deadline, take from the animal—
 
@@ -217,7 +217,7 @@ the specified number in the relevant sub-paragraph is to be read as the total nu
 
 (2) Paragraph (1) does not apply in the case of a breeding bovine animal which has an individual BVD status of negative.
 
-### 11. Determining compliance deadlines[^key-fdddd72f63f62bf033f5f7fc7411dbeb]
+### 11. Determining compliance deadlines[^c-fdddd72f63f62bf033f5f7fc7411dbeb]
 
 (1) The first compliance deadline falls on the expiry of the period of 30 consecutive days that the herd or animal has been kept in Scotland as a breeding herd or as a breeding bovine animal.
 
@@ -233,7 +233,7 @@ after the results of the tests of the samples taken under article 9 or 10 are no
 - (a) a compliance deadline will not fall on the later of those compliance deadlines, and
 - (b) the herd or animal will be treated as not having been kept in Scotland as a breeding herd or breeding bovine animal on that date.
 
-### 12. Additional sampling of not negative breeding herds[^key-0ebd365a780fa173db006a4f1d6f8372]
+### 12. Additional sampling of not negative breeding herds[^c-0ebd365a780fa173db006a4f1d6f8372]
 
 (1) This article applies to a breeding herd where—
 
@@ -250,7 +250,7 @@ after the results of the tests of the samples taken under article 9 or 10 are no
 - (a) an ear tag sample of tissue taken in accordance with article 14, or
 - (b) a sample of blood.
 
-### 13. Follow-on sampling of long term not negative herds[^key-63133355aed7af9eb8e97a66e80721da]
+### 13. Follow-on sampling of long term not negative herds[^c-63133355aed7af9eb8e97a66e80721da]
 
 (1) This article applies to a breeding herd on the date that article 12 ceases to apply to the herd in accordance with article 12(2)(a).
 
@@ -263,9 +263,9 @@ after the results of the tests of the samples taken under article 9 or 10 are no
 
 from each calf born in the herd.
 
-### 14. Ear tag samples of tissue[^key-26094d634052bea1aa2ae59fcfcdbabf]
+### 14. Ear tag samples of tissue[^c-26094d634052bea1aa2ae59fcfcdbabf]
 
-(1) Subject to paragraph (3)[^key-a92fbbd4fc548f23ad3c06a4c10ef5cd], an ear tag sample of tissue is taken in accordance with this article if it is extracted from the animal from an official ear tag or a management tag and the vessel used to collect the sample complies with the conditions in paragraph (2).
+(1) Subject to paragraph (3)[^c-a92fbbd4fc548f23ad3c06a4c10ef5cd], an ear tag sample of tissue is taken in accordance with this article if it is extracted from the animal from an official ear tag or a management tag and the vessel used to collect the sample complies with the conditions in paragraph (2).
 
 (2) The conditions in this paragraph are—
 
@@ -276,11 +276,11 @@ from each calf born in the herd.
 
 (3) The keeper must not take (or arrange to have taken) an ear tag sample of tissue from any bovine animal from which a sample has previously been collected from a management tag for the purpose of submitting for sampling under this Order.
 
-(4)[^key-7deb4663254540a4531bda9ef1f984db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7deb4663254540a4531bda9ef1f984db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of this article, “**collected**” includes any attempt to collect a sample.
 
-### 15. Removal of management tags[^key-79c61e2cb4c6d749cb398f536d97cb7e]
+### 15. Removal of management tags[^c-79c61e2cb4c6d749cb398f536d97cb7e]
 
 (1) The keeper must remove a management tag which has been applied to a bovine animal where the information on the tag has become illegible.
 
@@ -289,7 +289,7 @@ from each calf born in the herd.
 - (a) with the approval of the Scottish Ministers, or
 - (b) where the removal is necessary to safeguard the welfare of the animal.
 
-### 16. Replacement of management tags[^key-b94288fca3b0b702ff60f4698e7fff50]
+### 16. Replacement of management tags[^c-b94288fca3b0b702ff60f4698e7fff50]
 
 (1) This article applies where a management tag—
 
@@ -311,7 +311,7 @@ from each calf born in the herd.
 
 (5) This article applies in the same way to the removal and replacement of any replacement tag applied in accordance with this article.
 
-### 17. Sampling restricted to veterinary surgeons[^key-0af8fb028fdac2d1f3f4df97df872263]
+### 17. Sampling restricted to veterinary surgeons[^c-0af8fb028fdac2d1f3f4df97df872263]
 
 (1) A keeper may not take (or arrange to have taken) a sample referred to in paragraph (2) unless the sample is taken by, or under the supervision of, a veterinary surgeon.
 
@@ -320,7 +320,7 @@ from each calf born in the herd.
 - (a) a sample of blood from any bovine animal, or
 - (b) any sample from a bovine animal which has an individual BVD status of positive.
 
-### 18. Submission of samples for testing[^key-2c2432519ddb3197f423446145a96a33]
+### 18. Submission of samples for testing[^c-2c2432519ddb3197f423446145a96a33]
 
 (1) The keeper must, in accordance with paragraph (2), submit any sample taken under articles 9, 10, 12(3) or 13(3) to an approved laboratory with whose operator arrangements have been made for testing in relation to BVDV.
 
@@ -335,7 +335,7 @@ from each calf born in the herd.
   - (v) where applied, the official ear tag number from the official ear tag,
   - (vi) any other information reasonably requested by the operator of the laboratory.
 
-### 19. Sampling of qualifying calves[^key-f2eafcf7ccd87fc920643068d35ffb31]
+### 19. Sampling of qualifying calves[^c-f2eafcf7ccd87fc920643068d35ffb31]
 
 (1) The keeper of a qualifying calf must—
 
@@ -354,7 +354,7 @@ from each calf born in the herd.
   - (iv) where applied, the official ear tag number from the official ear tag, and
   - (v) any other information reasonably requested by the operator of the laboratory.
 
-### 20. Testing for exposure to BVDV[^key-dd04dc9a7926fcdc9e30d52fcf990310]
+### 20. Testing for exposure to BVDV[^c-dd04dc9a7926fcdc9e30d52fcf990310]
 
 (1) This article applies where—
 
@@ -367,7 +367,7 @@ from each calf born in the herd.
 - (a) test each of the samples for evidence of exposure to BVDV, and
 - (b) determine whether or not any of the samples show evidence of exposure to BVDV.
 
-### 21. Testing for the presence of BVDV[^key-341fcbe5559a071a7b346d455f11c71d]
+### 21. Testing for the presence of BVDV[^c-341fcbe5559a071a7b346d455f11c71d]
 
 (1) This article applies where—
 
@@ -380,7 +380,7 @@ from each calf born in the herd.
 - (a) test the sample for the presence of BVDV, and
 - (b) determine whether or not BVDV is present in the sample.
 
-### 22. Notification of test result[^key-79e158e1a512e6c64e3faf65433b9a83]
+### 22. Notification of test result[^c-79e158e1a512e6c64e3faf65433b9a83]
 
 (1) Following the completion of a test under article 20 the operator of an approved laboratory must by notice inform the keeper and the Scottish Ministers of each test result and—
 
@@ -403,7 +403,7 @@ from each calf born in the herd.
 - (e) the CPH number for the holding on which the herd or animal was kept at the time the sample was or the samples were taken,
 - (f) where applied, the official ear tag number from the official ear tag.
 
-### 23. Testing of qualifying calves[^key-8fde7e914bb887c6b30f19291d836b2a]
+### 23. Testing of qualifying calves[^c-8fde7e914bb887c6b30f19291d836b2a]
 
 (1) This article applies where—
 
@@ -428,13 +428,13 @@ from each calf born in the herd.
 - (d) the CPH number for the holding on which the calf was kept at the time the sample was taken, and
 - (e) where applied, the official ear tag number from the official ear tag.
 
-### 24. Record keeping and disclosure[^key-bfd1033d3c0fd70c124ee932892639bd]
+### 24. Record keeping and disclosure[^c-bfd1033d3c0fd70c124ee932892639bd]
 
 (1) The operator of an approved laboratory must maintain a record of any test carried out under this Part for 3 years from the date of such a test.
 
 (2) The operator of the approved laboratory must, if requested by notice by the Scottish Ministers to do so, provide the Scottish Ministers with a copy of such records.
 
-### 25. Reporting of tests for presence of BVDV other than under this Order[^key-c38610e08d819eef2774a01bee225ffb]
+### 25. Reporting of tests for presence of BVDV other than under this Order[^c-c38610e08d819eef2774a01bee225ffb]
 
 (1) This article applies where, other than for the purposes of this Order, a laboratory (including an approved laboratory) tests for evidence of exposure to BVDV or for the presence of BVDV in a sample (of any description) taken from a bovine animal.
 
@@ -453,7 +453,7 @@ from each calf born in the herd.
 
 ## PART 3 — BVD Control
 
-### 26. Individual BVD status[^key-3769c3cddbda5f7b8d23df43d8ccce4c]
+### 26. Individual BVD status[^c-3769c3cddbda5f7b8d23df43d8ccce4c]
 
 (1) For the purposes of this Order, a bovine animal referred to in paragraph (2), either—
 
@@ -479,7 +479,7 @@ from each calf born in the herd.
 
 (5) The bovine animal has no individual BVD status in all other cases.
 
-### 27. Collective BVD status of breeding herds[^key-884dcf0f9c6fedaf576143b07fcec166]
+### 27. Collective BVD status of breeding herds[^c-884dcf0f9c6fedaf576143b07fcec166]
 
 (1) For the purposes of this Order, a breeding herd either—
 
@@ -504,24 +504,24 @@ from each calf born in the herd.
 
 (5) In this article, any reference to a “**notice**” means the most recent notice submitted by the operator of an approved laboratory to the Scottish Ministers under article 22 and supersedes any previous notice.
 
-### 28. Change of individual BVD status by an approved veterinary surgeon[^key-6535e288f9bb940295803a57859a5c7b]
+### 28. Change of individual BVD status by an approved veterinary surgeon[^c-6535e288f9bb940295803a57859a5c7b]
 
 An approved veterinary surgeon may change the individual BVD status of a bovine animal from positive to negative where that surgeon reasonably considers that further action or investigation has been carried out which confirms that BVDV is not or is no longer present in that animal.
 
-### 29. Change of collective BVD status by an approved veterinary surgeon[^key-abe99b48aacd2047e3fafe8d45dffd19]
+### 29. Change of collective BVD status by an approved veterinary surgeon[^c-abe99b48aacd2047e3fafe8d45dffd19]
 
 An approved veterinary surgeon may change the collective BVD status of a breeding herd from not negative to negative where that surgeon reasonably considers that—
 
 - (a) further action or investigation has been carried out to confirm the presence of BVDV in any animal forming part of the herd, and
 - (b) as a result of such action or investigation, either the presence of BVDV has not been confirmed in any such animal or, in the case where the presence of BVDV has been confirmed in any such animal, that animal has been removed from the herd and, prior to its removal, the animal was isolated or other appropriate steps were taken so as to minimise the risk of spread of BVDV to any other animal in the herd.
 
-### 30. Notification of a change of status by an approved veterinary surgeon[^key-c3b246cfb587f3ae37812f24d2fc775a]
+### 30. Notification of a change of status by an approved veterinary surgeon[^c-c3b246cfb587f3ae37812f24d2fc775a]
 
 (1) The approved veterinary surgeon must by notice inform the keeper and the Scottish Ministers of any change of BVD status under articles 28 or 29.
 
 (2) A notice under paragraph (1) must be given within 5 days of the approved veterinary surgeon's determination of the change of BVD status and must include the official ear tag number of the animal or animals in respect of which the further action or investigation or, as the case may be, further testing, has been carried out.
 
-### 31. Restrictions on the movement of breeding bovine animals where sampling obligations are missed[^key-270ecf9a579382b9a4127bfedb2f0b92]
+### 31. Restrictions on the movement of breeding bovine animals where sampling obligations are missed[^c-270ecf9a579382b9a4127bfedb2f0b92]
 
 (1) This article applies to the keeper of a breeding bovine animal which has no individual BVD status if, by the date of the first compliance deadline (set in accordance with article 11(1)), the keeper has failed to comply with the obligation in article 10(1).
 
@@ -538,7 +538,7 @@ An approved veterinary surgeon may change the collective BVD status of a breedin
   - (i) the keeper has complied with the obligation in article 10(1), and
   - (ii) has received a notification under article 22(2) in respect of the sample taken.
 
-### 32. Restrictions on the movement of bovine animals with an individual BVD status of positive[^key-2825b85bb6dccbf03ac6e42fe2d18d92]
+### 32. Restrictions on the movement of bovine animals with an individual BVD status of positive[^c-2825b85bb6dccbf03ac6e42fe2d18d92]
 
 (1) Subject to paragraph (2), a keeper must not move a bovine animal off of a holding if the animal has an individual BVD status of positive.
 
@@ -547,7 +547,7 @@ An approved veterinary surgeon may change the collective BVD status of a breedin
 - (a) the animal is being moved to slaughter, or
 - (b) the movement is under a licence granted by a veterinary inspector or the Scottish Ministers.
 
-### 33. Restrictions on the movement of animals off a holding with a not negative herd or a BVD positive animal[^key-414f887c4f0471d81d35221b355a014f]
+### 33. Restrictions on the movement of animals off a holding with a not negative herd or a BVD positive animal[^c-414f887c4f0471d81d35221b355a014f]
 
 (1) Subject to paragraph (2), the keeper must not move a bovine animal off of a holding if—
 
@@ -560,7 +560,7 @@ An approved veterinary surgeon may change the collective BVD status of a breedin
 - (b) the animal is being moved to slaughter, or
 - (c) the movement is under a licence granted by a veterinary inspector or the Scottish Ministers.
 
-### 33A. Restrictions on the movement of animals onto a holding with a not negative herd where sampling obligations are missed[^key-c2b8b48e9b80879a03bb5f935864297e]
+### 33A. Restrictions on the movement of animals onto a holding with a not negative herd where sampling obligations are missed[^c-c2b8b48e9b80879a03bb5f935864297e]
 
 (1) This article applies to the keeper of a breeding herd to which article 12 applies, where the keeper has failed to comply with the obligation in article 12(3).
 
@@ -571,13 +571,13 @@ An approved veterinary surgeon may change the collective BVD status of a breedin
 - (a) beginning with the day after the expiry of the period of 13 months starting on the date on which article 12 first applied to the breeding herd, and
 - (b) ending on the date on which article 12 ceases to apply to the breeding herd in accordance with article 12(2).
 
-### 34. Restrictions on the movement of bovine animals onto a holding with a BVD positive animal[^key-e457bbde51f7a1cde35da7e671d17cbc]
+### 34. Restrictions on the movement of bovine animals onto a holding with a BVD positive animal[^c-e457bbde51f7a1cde35da7e671d17cbc]
 
 (1) The keeper must not move (or arrange to move) any bovine animal onto a holding where a bovine animal with an individual BVD status of positive is present and has been kept on the holding for a period of more than 40 days, unless the movement is under a licence granted by a veterinary inspector or the Scottish Ministers.
 
 (2) In calculating the period a bovine animal has been kept on the holding for the purposes of paragraph (1), any period during which the keeper does not know (and could not reasonably be expected to know) that the bovine animal has an individual BVD status of positive, or that the bovine animal is present on the holding, is to be disregarded.
 
-### 35. Restriction on the movement of high risk animals[^key-25668060b581e1152b840c8e68e3aaf8]
+### 35. Restriction on the movement of high risk animals[^c-25668060b581e1152b840c8e68e3aaf8]
 
 (1) This article applies to the keeper of a breeding herd which contains any bovine animal which—
 
@@ -590,9 +590,9 @@ An approved veterinary surgeon may change the collective BVD status of a breedin
 - (b) the movement is under a licence granted by a veterinary inspector or the Scottish Ministers, or
 - (c) an approved veterinary surgeon reasonably considers that further action or investigation has been carried out which confirms that BVDV is not present in the animal and has by notice informed the keeper and the Scottish Ministers of that fact.
 
-### 35A. Separation of bovine animals with an individual BVD status of positive[^key-179145f9a637bae06310a6ebf9ca968a]
+### 35A. Separation of bovine animals with an individual BVD status of positive[^c-179145f9a637bae06310a6ebf9ca968a]
 
-(1) This article applies to a [^key-9cb386302b09ea1fe1fd722204aaeb02]... herd which contains one or more bovine animals with an individual BVD status of positive.
+(1) This article applies to a [^c-9cb386302b09ea1fe1fd722204aaeb02]... herd which contains one or more bovine animals with an individual BVD status of positive.
 
 (2) Subject to paragraphs (4) and (5), where this article applies the keeper must separate all the bovine animals with an individual BVD status of positive from the rest of the herd and house them in one or more groups (each a “BVD positive group”) in accordance with the conditions in paragraph (3).
 
@@ -612,9 +612,9 @@ any bovine animal that is not part of a BVD positive group.
 
 (6) A bovine animal does not cease to be part of a breeding herd by virtue of its separation under this article.
 
-(7)[^key-48f2ab6a61832906221521844aad0360] In this article “**herd**” means any group of two or more bovine animals.
+(7)[^c-48f2ab6a61832906221521844aad0360] In this article “**herd**” means any group of two or more bovine animals.
 
-### 36. Notification of BVD on a holding[^key-a3aa049f730ac7d52b880dc01df39bc9]
+### 36. Notification of BVD on a holding[^c-a3aa049f730ac7d52b880dc01df39bc9]
 
 (1) This article applies where—
 
@@ -630,7 +630,7 @@ any bovine animal that is not part of a BVD positive group.
 
 (4) Where the individual BVD status of the bovine animal is changed, the keeper must, within 7 days of receiving notice from an approved laboratory of the change of individual BVD status (or otherwise becoming aware of the change), give the other keeper notice of the change.
 
-### 37. Notification of BVD status prior to movement[^key-e6ae6cfa8cffc8c165433f3d02e2806c]
+### 37. Notification of BVD status prior to movement[^c-e6ae6cfa8cffc8c165433f3d02e2806c]
 
 (1) This article applies where a keeper intends to move a bovine animal in a breeding herd or a breeding bovine animal off the holding on which it is kept (except where the animal is being moved to slaughter).
 
@@ -650,7 +650,7 @@ any bovine animal that is not part of a BVD positive group.
 - (a) the animal being moved, and
 - (b) every other bovine animal that is being moved with the animal.
 
-### 38. Meaning of “moved to slaughter”[^key-83e45e12372f020d7eed7d79f335030a]
+### 38. Meaning of “moved to slaughter”[^c-83e45e12372f020d7eed7d79f335030a]
 
 (1) In this Part, where any bovine animal is “moved to slaughter” this means that the animal is being moved under the conditions specified in paragraph (2).
 
@@ -661,7 +661,7 @@ any bovine animal that is not part of a BVD positive group.
 
 ## PART 4 — Final provisions
 
-### 39. Maintenance, publication and provision of information[^key-3ee9649c7c1c64d1604c2aca812e06b5]
+### 39. Maintenance, publication and provision of information[^c-3ee9649c7c1c64d1604c2aca812e06b5]
 
 (1) The Scottish Ministers must maintain a record of information notified or provided in accordance with articles 3(4)(b), 6(6), 7(2), 8(2), 22(1), 22(2), 23(3), 25(2), and 30.
 
@@ -680,13 +680,13 @@ any bovine animal that is not part of a BVD positive group.
 - (a) provide information held by them, as described in paragraph (2), to any other person who requests that information,
 - (b) publish such information (or any part of such information) as they deem appropriate.
 
-### 40. Enforcement[^key-a57b5b97c4c117917c1aeda75a015ce5]
+### 40. Enforcement[^c-a57b5b97c4c117917c1aeda75a015ce5]
 
 (1) Subject to paragraph (2), this Order is enforced by the local authority.
 
 (2) The Scottish Ministers may, in relation to such particular cases or such cases of a particular description, as they may specify, enforce this Order in place of the local authority.
 
-### 41. Powers of entry[^key-e2d3dc49af511e4f2613418a441b3143]
+### 41. Powers of entry[^c-e2d3dc49af511e4f2613418a441b3143]
 
 (1) An inspector may, on producing a duly authenticated authorisation if requested, enter any premises (except premises used wholly as a private dwelling house) at any reasonable hour for the purpose of enforcing this Order.
 
@@ -704,7 +704,7 @@ any bovine animal that is not part of a BVD positive group.
 
 (4) A warrant may be granted for a period of up to 3 months.
 
-### 42. Powers of inspectors[^key-f1672986b2e4ad7683b2f09228aa85d5]
+### 42. Powers of inspectors[^c-f1672986b2e4ad7683b2f09228aa85d5]
 
 (1) An inspector entering any premises may for the purpose of enforcing this Order—
 
@@ -721,7 +721,7 @@ any bovine animal that is not part of a BVD positive group.
 - (a) take any necessary equipment or vehicle on to the premises,
 - (b) be accompanied by such other persons as the inspector considers necessary.
 
-### 43. Offences by bodies corporate[^key-f6246e84408f011fe263ea7ee583f3d5]
+### 43. Offences by bodies corporate[^c-f6246e84408f011fe263ea7ee583f3d5]
 
 (1) Where—
 
@@ -740,7 +740,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner,
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 44. Revocation and transitional provisions[^key-bc01e3ffec703fb0b7d287aafa3a2411]
+### 44. Revocation and transitional provisions[^c-bc01e3ffec703fb0b7d287aafa3a2411]
 
 (1) The 2013 Order is revoked.
 
@@ -758,7 +758,7 @@ Edinburgh
 
 Article 44(2)
 
-### 1. Testing and sampling requirements – compliance deadlines[^key-940a1eb604cbf23bc5b789bbcd379e0d]
+### 1. Testing and sampling requirements – compliance deadlines[^c-940a1eb604cbf23bc5b789bbcd379e0d]
 
 (1) This paragraph applies where, immediately before the coming into force day, the keeper of a breeding herd or a breeding bovine animal is subject to a compliance deadline under article 10 of the 2013 Order.
 
@@ -783,7 +783,7 @@ Article 44(2)
 
 .
 
-### 2. Qualifying calves[^key-d1da5eca065614fc7dde2bd6c1692b09]
+### 2. Qualifying calves[^c-d1da5eca065614fc7dde2bd6c1692b09]
 
 (1) This paragraph applies where—
 
@@ -792,15 +792,15 @@ Article 44(2)
 
 (2) The period for taking a sample from the calf provided for by article 19(1)(a) runs from the date that the calf is born.
 
-### 3. Approvals of laboratories[^key-313736c222309b7065a771f861bbc7b6]
+### 3. Approvals of laboratories[^c-313736c222309b7065a771f861bbc7b6]
 
 Any approval of a laboratory granted by the Scottish Ministers under article 6 of the 2013 Order, which is in force immediately before the coming into force day, continues to have effect for the purposes of this Order as if it had been granted under article 7.
 
-### 4. Approvals of veterinary surgeons[^key-e5b751d8783303fe321e93e65dd699cb]
+### 4. Approvals of veterinary surgeons[^c-e5b751d8783303fe321e93e65dd699cb]
 
 Any approval of a veterinary surgeon granted by the Scottish Ministers under article 5 of the 2013 Order, which is in force immediately before the coming into force day, continues to have effect for the purposes of this Order as if it had been granted under article 6.
 
-### 5. Operators of approved laboratories[^key-b892a25cec4c4502ef414f8b7cd2f219]
+### 5. Operators of approved laboratories[^c-b892a25cec4c4502ef414f8b7cd2f219]
 
 (1) This paragraph applies where—
 
@@ -815,18 +815,18 @@ Any approval of a veterinary surgeon granted by the Scottish Ministers under art
   - (ii) a breeding bovine animal under 11(6) of the 2013 Order or
   - (iii) a qualifying calf under article 15 of the 2013 Order.
 
-### 6. Approved laboratories – record keeping and disclosure[^key-c1aac645ba0268ab656f9fb4588175d1]
+### 6. Approved laboratories – record keeping and disclosure[^c-c1aac645ba0268ab656f9fb4588175d1]
 
 Article 24 applies to any operator of an approved laboratory (within the meaning of the 2013 Order) in relation to a record of any test carried out under that Order before the coming into force day.
 
-### 7. Collective BVD status on the coming into force day[^key-baff5efe48e1034a89119da3f699fca8]
+### 7. Collective BVD status on the coming into force day[^c-baff5efe48e1034a89119da3f699fca8]
 
 A breeding herd which, immediately before the coming into force day—
 
 - (a) had a BVD status of negative for the purposes of the 2013 Order has a collective BVD status of negative, and
 - (b) had a BVD status of not negative for the purposes of the 2013 Order has a collective BVD status of not negative.
 
-### 8. Individual BVD status on the coming into force day[^key-22a0b635b1bffe0f477235f593349319]
+### 8. Individual BVD status on the coming into force day[^c-22a0b635b1bffe0f477235f593349319]
 
 A bovine animal which, immediately before the coming into force day, is of the description specified in an entry in column one has the individual BVD status provided in the corresponding entry in column 2—
 
@@ -844,7 +844,7 @@ A bovine animal which, immediately before the coming into force day, is of the d
 | - (a) forms part of a breeding herd, and<br>- (b) has been tested one or more times for the presence of BVDV and the finding of the most recent test is positive for the presence of BVDV |  |
 | A qualifying calf which has not been tested for the presence of BVDV | No individual BVD status |
 
-### 9. Change of BVD finding by approved veterinary surgeon[^key-81959cb76619758bd9420a03ab4036f1]
+### 9. Change of BVD finding by approved veterinary surgeon[^c-81959cb76619758bd9420a03ab4036f1]
 
 (1) Where before the coming into force day—
 
@@ -890,9 +890,9 @@ The principal provisions of this Order which are different to the 2013 Order are
 
 [^c23891331]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981 (“**the Act**”). The functions of the Ministers were, in so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-56492d6d79d6343a284e50ede03689ef]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/310/article/1) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-56492d6d79d6343a284e50ede03689ef]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/310/article/1) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-116a13c4f0ff4f2ef32cbd1a36c9f328]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2019/310/article/2) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-116a13c4f0ff4f2ef32cbd1a36c9f328]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2019/310/article/2) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
 [^c23891341]: Marginal citation: [S.S.I. 2013/3](https://www.legislation.gov.uk/ssi/2013/3). Amended by [S.S.I. 2013/21](https://www.legislation.gov.uk/ssi/2013/21), [S.S.I. 2013/337](https://www.legislation.gov.uk/ssi/2013/337), [S.S.I. 2013/363](https://www.legislation.gov.uk/ssi/2013/363) and [S.S.I. 2015/186](https://www.legislation.gov.uk/ssi/2015/186).
 
@@ -900,126 +900,126 @@ The principal provisions of this Order which are different to the 2013 Order are
 
 [^c23891361]: Marginal citation: [S.S.I. 2007/174](https://www.legislation.gov.uk/ssi/2007/174). Amended by S.S.I 2007/312, [S.S.I. 2011/412](https://www.legislation.gov.uk/ssi/2011/412), [S.S.I. 2017/133](https://www.legislation.gov.uk/ssi/2017/133), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
-[^key-183ffbaeb12829e52a5251322f9fa9fe]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2019/310/article/2/1) substituted (1.2.2026) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/176/article/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2025/176/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2025/176/article/3/2))
+[^c-183ffbaeb12829e52a5251322f9fa9fe]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2019/310/article/2/1) substituted (1.2.2026) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/176/article/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2025/176/article/3/1/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2025/176/article/3/2))
 
 [^c23891371]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^c23891381]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Amended by [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-128378247a3b25c2106a513ecdfe1c61]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2019/310/article/3) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-128378247a3b25c2106a513ecdfe1c61]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2019/310/article/3) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
 [^c23891391]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1369f3ea71a9e56005b7ab5aefdabf13]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2019/310/article/4) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-1369f3ea71a9e56005b7ab5aefdabf13]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2019/310/article/4) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
 [^c23891401]: Marginal citation: The definition was so extended by article 4 of the 2013 Order, which is revoked by article 44.
 
-[^key-6091bd4cd132f6c493491cb8ed1be909]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2019/310/article/5) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-6091bd4cd132f6c493491cb8ed1be909]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2019/310/article/5) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-84f53eab1a3c30800ee691949d26d234]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2019/310/article/6) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-84f53eab1a3c30800ee691949d26d234]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2019/310/article/6) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-3f3c394267abf6d23d28d39eac5cc06f]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2019/310/article/7) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-3f3c394267abf6d23d28d39eac5cc06f]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2019/310/article/7) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-2da8aed192622f3d06c18e7e29351eab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2019/310/article/8) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-2da8aed192622f3d06c18e7e29351eab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2019/310/article/8) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-1cd4b1420fa3b1f40f847a75b75ce63c]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2019/310/article/9) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-1cd4b1420fa3b1f40f847a75b75ce63c]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2019/310/article/9) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-86bdc7211947b88a6db11c837bde5e7a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2019/310/article/10) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-86bdc7211947b88a6db11c837bde5e7a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2019/310/article/10) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-fdddd72f63f62bf033f5f7fc7411dbeb]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2019/310/article/11) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-fdddd72f63f62bf033f5f7fc7411dbeb]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2019/310/article/11) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-0ebd365a780fa173db006a4f1d6f8372]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2019/310/article/12) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-0ebd365a780fa173db006a4f1d6f8372]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2019/310/article/12) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-63133355aed7af9eb8e97a66e80721da]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2019/310/article/13) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-63133355aed7af9eb8e97a66e80721da]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2019/310/article/13) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-26094d634052bea1aa2ae59fcfcdbabf]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2019/310/article/14) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-26094d634052bea1aa2ae59fcfcdbabf]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2019/310/article/14) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-a92fbbd4fc548f23ad3c06a4c10ef5cd]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/ssi/2019/310/article/14/1) substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(a)(i)](https://www.legislation.gov.uk/ssi/2025/176/article/2/a/i)
+[^c-a92fbbd4fc548f23ad3c06a4c10ef5cd]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/ssi/2019/310/article/14/1) substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(a)(i)](https://www.legislation.gov.uk/ssi/2025/176/article/2/a/i)
 
-[^key-7deb4663254540a4531bda9ef1f984db]: Textual amendment: [Art. 14(4)](https://www.legislation.gov.uk/ssi/2019/310/article/14/4) omitted (1.7.2025) by virtue of [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(a)(ii)](https://www.legislation.gov.uk/ssi/2025/176/article/2/a/ii)
+[^c-7deb4663254540a4531bda9ef1f984db]: Textual amendment: [Art. 14(4)](https://www.legislation.gov.uk/ssi/2019/310/article/14/4) omitted (1.7.2025) by virtue of [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(a)(ii)](https://www.legislation.gov.uk/ssi/2025/176/article/2/a/ii)
 
-[^key-79c61e2cb4c6d749cb398f536d97cb7e]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2019/310/article/15) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-79c61e2cb4c6d749cb398f536d97cb7e]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2019/310/article/15) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-b94288fca3b0b702ff60f4698e7fff50]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2019/310/article/16) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-b94288fca3b0b702ff60f4698e7fff50]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2019/310/article/16) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-0af8fb028fdac2d1f3f4df97df872263]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2019/310/article/17) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-0af8fb028fdac2d1f3f4df97df872263]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2019/310/article/17) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-2c2432519ddb3197f423446145a96a33]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2019/310/article/18) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-2c2432519ddb3197f423446145a96a33]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2019/310/article/18) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-f2eafcf7ccd87fc920643068d35ffb31]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2019/310/article/19) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-f2eafcf7ccd87fc920643068d35ffb31]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2019/310/article/19) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-dd04dc9a7926fcdc9e30d52fcf990310]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2019/310/article/20) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-dd04dc9a7926fcdc9e30d52fcf990310]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2019/310/article/20) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-341fcbe5559a071a7b346d455f11c71d]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2019/310/article/21) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-341fcbe5559a071a7b346d455f11c71d]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2019/310/article/21) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-79e158e1a512e6c64e3faf65433b9a83]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2019/310/article/22) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-79e158e1a512e6c64e3faf65433b9a83]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2019/310/article/22) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-8fde7e914bb887c6b30f19291d836b2a]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2019/310/article/23) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-8fde7e914bb887c6b30f19291d836b2a]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2019/310/article/23) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-bfd1033d3c0fd70c124ee932892639bd]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2019/310/article/24) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-bfd1033d3c0fd70c124ee932892639bd]: Commencement: [Art. 24](https://www.legislation.gov.uk/ssi/2019/310/article/24) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-c38610e08d819eef2774a01bee225ffb]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2019/310/article/25) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-c38610e08d819eef2774a01bee225ffb]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2019/310/article/25) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-3769c3cddbda5f7b8d23df43d8ccce4c]: Commencement: Art. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-3769c3cddbda5f7b8d23df43d8ccce4c]: Commencement: Art. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-884dcf0f9c6fedaf576143b07fcec166]: Commencement: Art. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-884dcf0f9c6fedaf576143b07fcec166]: Commencement: Art. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-6535e288f9bb940295803a57859a5c7b]: Commencement: Art. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-6535e288f9bb940295803a57859a5c7b]: Commencement: Art. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-abe99b48aacd2047e3fafe8d45dffd19]: Commencement: Art. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-abe99b48aacd2047e3fafe8d45dffd19]: Commencement: Art. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-c3b246cfb587f3ae37812f24d2fc775a]: Commencement: Art. 30 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-c3b246cfb587f3ae37812f24d2fc775a]: Commencement: Art. 30 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-270ecf9a579382b9a4127bfedb2f0b92]: Textual amendment: Art. 31 substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2025/176/article/2/b)
+[^c-270ecf9a579382b9a4127bfedb2f0b92]: Textual amendment: Art. 31 substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2025/176/article/2/b)
 
-[^key-2825b85bb6dccbf03ac6e42fe2d18d92]: Commencement: Art. 32 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-2825b85bb6dccbf03ac6e42fe2d18d92]: Commencement: Art. 32 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-414f887c4f0471d81d35221b355a014f]: Commencement: Art. 33 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-414f887c4f0471d81d35221b355a014f]: Commencement: Art. 33 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-c2b8b48e9b80879a03bb5f935864297e]: Textual amendment: [Art. 33A](https://www.legislation.gov.uk/ssi/2019/310/article/33A) inserted (1.2.2026) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/176/article/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2025/176/article/3/1/b)
+[^c-c2b8b48e9b80879a03bb5f935864297e]: Textual amendment: [Art. 33A](https://www.legislation.gov.uk/ssi/2019/310/article/33A) inserted (1.2.2026) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/176/article/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2025/176/article/3/1/b)
 
-[^key-e457bbde51f7a1cde35da7e671d17cbc]: Textual amendment: Art. 34 substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(c)](https://www.legislation.gov.uk/ssi/2025/176/article/2/c)
+[^c-e457bbde51f7a1cde35da7e671d17cbc]: Textual amendment: Art. 34 substituted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(c)](https://www.legislation.gov.uk/ssi/2025/176/article/2/c)
 
-[^key-25668060b581e1152b840c8e68e3aaf8]: Commencement: Art. 35 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-25668060b581e1152b840c8e68e3aaf8]: Commencement: Art. 35 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-179145f9a637bae06310a6ebf9ca968a]: Textual amendment: Art. 35A inserted (18.5.2020) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2020 (S.S.I. 2020/86)](https://www.legislation.gov.uk/ssi/2020/86), [arts. 1](https://www.legislation.gov.uk/ssi/2020/86/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/86/article/2/2)
+[^c-179145f9a637bae06310a6ebf9ca968a]: Textual amendment: Art. 35A inserted (18.5.2020) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2020 (S.S.I. 2020/86)](https://www.legislation.gov.uk/ssi/2020/86), [arts. 1](https://www.legislation.gov.uk/ssi/2020/86/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/86/article/2/2)
 
-[^key-9cb386302b09ea1fe1fd722204aaeb02]: Textual amendment: Word in [art. 35A(1)](https://www.legislation.gov.uk/ssi/2019/310/article/35A/1) omitted (1.7.2025) by virtue of [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(d)(i)](https://www.legislation.gov.uk/ssi/2025/176/article/2/d/i)
+[^c-9cb386302b09ea1fe1fd722204aaeb02]: Textual amendment: Word in [art. 35A(1)](https://www.legislation.gov.uk/ssi/2019/310/article/35A/1) omitted (1.7.2025) by virtue of [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(d)(i)](https://www.legislation.gov.uk/ssi/2025/176/article/2/d/i)
 
-[^key-48f2ab6a61832906221521844aad0360]: Textual amendment: Art. 35A(7) inserted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(d)(ii)](https://www.legislation.gov.uk/ssi/2025/176/article/2/d/ii)
+[^c-48f2ab6a61832906221521844aad0360]: Textual amendment: Art. 35A(7) inserted (1.7.2025) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2025 (S.S.I. 2025/176)](https://www.legislation.gov.uk/ssi/2025/176), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/176/article/1/2), [2(d)(ii)](https://www.legislation.gov.uk/ssi/2025/176/article/2/d/ii)
 
-[^key-a3aa049f730ac7d52b880dc01df39bc9]: Commencement: Art. 36 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-a3aa049f730ac7d52b880dc01df39bc9]: Commencement: Art. 36 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-e6ae6cfa8cffc8c165433f3d02e2806c]: Commencement: Art. 37 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-e6ae6cfa8cffc8c165433f3d02e2806c]: Commencement: Art. 37 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-83e45e12372f020d7eed7d79f335030a]: Commencement: Art. 38 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-83e45e12372f020d7eed7d79f335030a]: Commencement: Art. 38 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-3ee9649c7c1c64d1604c2aca812e06b5]: Commencement: [Art. 39](https://www.legislation.gov.uk/ssi/2019/310/article/39) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-3ee9649c7c1c64d1604c2aca812e06b5]: Commencement: [Art. 39](https://www.legislation.gov.uk/ssi/2019/310/article/39) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-a57b5b97c4c117917c1aeda75a015ce5]: Commencement: [Art. 40](https://www.legislation.gov.uk/ssi/2019/310/article/40) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-a57b5b97c4c117917c1aeda75a015ce5]: Commencement: [Art. 40](https://www.legislation.gov.uk/ssi/2019/310/article/40) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-e2d3dc49af511e4f2613418a441b3143]: Commencement: [Art. 41](https://www.legislation.gov.uk/ssi/2019/310/article/41) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-e2d3dc49af511e4f2613418a441b3143]: Commencement: [Art. 41](https://www.legislation.gov.uk/ssi/2019/310/article/41) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-f1672986b2e4ad7683b2f09228aa85d5]: Commencement: [Art. 42](https://www.legislation.gov.uk/ssi/2019/310/article/42) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-f1672986b2e4ad7683b2f09228aa85d5]: Commencement: [Art. 42](https://www.legislation.gov.uk/ssi/2019/310/article/42) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-f6246e84408f011fe263ea7ee583f3d5]: Commencement: [Art. 43](https://www.legislation.gov.uk/ssi/2019/310/article/43) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-f6246e84408f011fe263ea7ee583f3d5]: Commencement: [Art. 43](https://www.legislation.gov.uk/ssi/2019/310/article/43) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-bc01e3ffec703fb0b7d287aafa3a2411]: Commencement: [Art. 44](https://www.legislation.gov.uk/ssi/2019/310/article/44) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-bc01e3ffec703fb0b7d287aafa3a2411]: Commencement: [Art. 44](https://www.legislation.gov.uk/ssi/2019/310/article/44) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-940a1eb604cbf23bc5b789bbcd379e0d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/1) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-940a1eb604cbf23bc5b789bbcd379e0d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/1) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-d1da5eca065614fc7dde2bd6c1692b09]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/2) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-d1da5eca065614fc7dde2bd6c1692b09]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/2) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-313736c222309b7065a771f861bbc7b6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/3) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-313736c222309b7065a771f861bbc7b6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/3) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-e5b751d8783303fe321e93e65dd699cb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/4) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-e5b751d8783303fe321e93e65dd699cb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/4) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-b892a25cec4c4502ef414f8b7cd2f219]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/5) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-b892a25cec4c4502ef414f8b7cd2f219]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/5) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-c1aac645ba0268ab656f9fb4588175d1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/6) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-c1aac645ba0268ab656f9fb4588175d1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/6) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-baff5efe48e1034a89119da3f699fca8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/7) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-baff5efe48e1034a89119da3f699fca8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/7) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-22a0b635b1bffe0f477235f593349319]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/8) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-22a0b635b1bffe0f477235f593349319]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/8) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
 
-[^key-81959cb76619758bd9420a03ab4036f1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/9) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)
+[^c-81959cb76619758bd9420a03ab4036f1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2019/310/schedule/paragraph/9) in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/310/article/1/1)

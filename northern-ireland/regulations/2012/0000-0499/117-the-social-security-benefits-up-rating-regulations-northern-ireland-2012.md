@@ -42,40 +42,40 @@ Coming into operation
 
 9th April 2012
 
-[^key-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 1. Citation, commencement and interpretation[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-c72dac60b3cca47dab685d9c32ffd23e]
+## 6. Revocation[^c-c72dac60b3cca47dab685d9c32ffd23e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72dac60b3cca47dab685d9c32ffd23e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c72dac60b3cca47dab685d9c32ffd23e]: Textual amendment: Regulations revoked (8.4.2013) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2013 (S.R. 2013/70)](https://www.legislation.gov.uk/nisr/2013/70), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/70/regulation/1), [6](https://www.legislation.gov.uk/nisr/2013/70/regulation/6)
+[^c-c72dac60b3cca47dab685d9c32ffd23e]: Textual amendment: Regulations revoked (8.4.2013) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2013 (S.R. 2013/70)](https://www.legislation.gov.uk/nisr/2013/70), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/70/regulation/1), [6](https://www.legislation.gov.uk/nisr/2013/70/regulation/6)

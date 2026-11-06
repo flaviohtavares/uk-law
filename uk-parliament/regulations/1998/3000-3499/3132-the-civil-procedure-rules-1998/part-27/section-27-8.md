@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.8. Conduct of the hearing[^key-e84d851dbbb55aa0536b18d5fd7df391]
+## 27.8. Conduct of the hearing[^c-e84d851dbbb55aa0536b18d5fd7df391]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e84d851dbbb55aa0536b18d5fd7df391]: Commencement: [Rule 27.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e84d851dbbb55aa0536b18d5fd7df391]: Commencement: [Rule 27.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

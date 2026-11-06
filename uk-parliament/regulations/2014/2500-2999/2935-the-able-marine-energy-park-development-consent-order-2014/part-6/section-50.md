@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Operational land for purposes of the 1990 Act[^key-c097b151205d7dc0c042ac1ee525b316]
+## 50. Operational land for purposes of the 1990 Act[^c-c097b151205d7dc0c042ac1ee525b316]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order within the area of jurisdiction is to 
 
 ## Annotations
 
-[^key-c097b151205d7dc0c042ac1ee525b316]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2014/2935/article/50) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-c097b151205d7dc0c042ac1ee525b316]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2014/2935/article/50) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

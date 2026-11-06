@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.56. Accounts[^key-ba15e702b1c10355a9304ab3f4df82de]
+## 33.56. Accounts[^c-ba15e702b1c10355a9304ab3f4df82de]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 (4) When the receiver applies for the examination of the accounts he must at the same time lodge with the Crown Court—
 
 - (a) the accounts; and
-- (b) a copy of the notice served on him under paragraph (3)[^key-22d3d2d54e1d88ad15ccf4f6fd0186c4].
+- (b) a copy of the notice served on him under paragraph (3)[^c-22d3d2d54e1d88ad15ccf4f6fd0186c4].
 
 (5) If the receiver fails to comply with paragraph (3)(c) of this rule, any party to receivership proceedings may apply to the Crown Court for an examination of the accounts in relation to the contested item.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba15e702b1c10355a9304ab3f4df82de]: Commencement: [Rule 33.56](https://www.legislation.gov.uk/uksi/2025/909/rule/33.56) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ba15e702b1c10355a9304ab3f4df82de]: Commencement: [Rule 33.56](https://www.legislation.gov.uk/uksi/2025/909/rule/33.56) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-22d3d2d54e1d88ad15ccf4f6fd0186c4]: Textual amendment: Words in rule 33.56(4)(b) substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/12)
+[^c-22d3d2d54e1d88ad15ccf4f6fd0186c4]: Textual amendment: Words in rule 33.56(4)(b) substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/12)

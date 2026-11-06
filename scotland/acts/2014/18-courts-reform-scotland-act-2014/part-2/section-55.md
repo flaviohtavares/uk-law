@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. President and Vice President: incapacity and suspension[^key-0602d562a9ae9471257ee28d5b5c7c8a]
+## 55. President and Vice President: incapacity and suspension[^c-0602d562a9ae9471257ee28d5b5c7c8a]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0602d562a9ae9471257ee28d5b5c7c8a]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/18/section/55) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-0602d562a9ae9471257ee28d5b5c7c8a]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/18/section/55) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

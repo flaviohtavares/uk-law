@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Recall and further release of offenders[^key-09631ed119ffe12eed0086d7db44a255]
+## 9. Recall and further release of offenders[^c-09631ed119ffe12eed0086d7db44a255]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 
 (3) In section 255(1)(a) (recall of prisoners released early under section 246), for “any condition included in his licence” substitute “ the curfew condition included in the licence ”.
 
-(4)[^key-7e2d7e8ae1ac044bd76ed83e68c66c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7e2d7e8ae1ac044bd76ed83e68c66c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7e2d7e8ae1ac044bd76ed83e68c66c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7e2d7e8ae1ac044bd76ed83e68c66c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 240ZA(6) (time remanded in custody not to count as time served for purposes of automatic release), for “period of 28 days served by the offender before automatic release” substitute “ automatic release period served by the offender ”.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09631ed119ffe12eed0086d7db44a255]: Commencement: S. 9 in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/40/article/2/i)
+[^c-09631ed119ffe12eed0086d7db44a255]: Commencement: S. 9 in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/40/article/2/i)
 
-[^key-7e2d7e8ae1ac044bd76ed83e68c66c22]: Textual amendment: S. 9(4)(5) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-7e2d7e8ae1ac044bd76ed83e68c66c22]: Textual amendment: S. 9(4)(5) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Temporary use of land for the carrying out of the authorised development[^key-a4bb326b4e7841304fed7f01cfde7e51]
+## 32. Temporary use of land for the carrying out of the authorised development[^c-a4bb326b4e7841304fed7f01cfde7e51]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4bb326b4e7841304fed7f01cfde7e51]: Commencement: Art. 32 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-a4bb326b4e7841304fed7f01cfde7e51]: Commencement: Art. 32 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

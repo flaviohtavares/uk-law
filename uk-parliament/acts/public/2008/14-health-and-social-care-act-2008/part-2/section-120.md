@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Additional responsibilities of responsible officers: England and Wales and Northern Ireland[^c1942062][^key-8cc04404b741d5b7361824447798ee00]
+## 120. Additional responsibilities of responsible officers: England and Wales and Northern Ireland[^c1942062][^c-8cc04404b741d5b7361824447798ee00]
 
 *Extent: E+W+N.I.*
 
@@ -57,4 +57,4 @@ but do not relate to the regulation under that Act of the medical profession.
 
 [^c1942062]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2008/14/section/120) partly in force; [s. 120](https://www.legislation.gov.uk/ukpga/2008/14/section/120) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-8cc04404b741d5b7361824447798ee00]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2008/14/section/120) in force at 1.4.2010 for E.W. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/708/article/3/b)
+[^c-8cc04404b741d5b7361824447798ee00]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2008/14/section/120) in force at 1.4.2010 for E.W. by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/708/article/3/b)

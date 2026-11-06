@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54ZA. Relief for telecommunications infrastructure[^key-40bd267066a0591a5744d8e4f7d98057]
+## 54ZA. Relief for telecommunications infrastructure[^c-40bd267066a0591a5744d8e4f7d98057]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40bd267066a0591a5744d8e4f7d98057]: Textual amendment: [S. 54ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/54ZA) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/3/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
+[^c-40bd267066a0591a5744d8e4f7d98057]: Textual amendment: [S. 54ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/54ZA) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/3/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)

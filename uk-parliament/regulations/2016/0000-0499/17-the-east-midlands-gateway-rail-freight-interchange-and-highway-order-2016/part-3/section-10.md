@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Highway works[^key-d17e8f836afbdf3620ebcf60ad3c9250]
+## 10. Highway works[^c-d17e8f836afbdf3620ebcf60ad3c9250]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d17e8f836afbdf3620ebcf60ad3c9250]: Commencement: Art. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-d17e8f836afbdf3620ebcf60ad3c9250]: Commencement: Art. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

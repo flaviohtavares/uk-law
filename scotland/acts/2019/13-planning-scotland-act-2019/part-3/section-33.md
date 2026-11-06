@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Completion notices[^key-cf7a4603c69d64c2e5772c7f0e761a7b]
+## 33. Completion notices[^c-cf7a4603c69d64c2e5772c7f0e761a7b]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf7a4603c69d64c2e5772c7f0e761a7b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/13/section/33) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-cf7a4603c69d64c2e5772c7f0e761a7b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/13/section/33) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))

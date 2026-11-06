@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66H. Creating, or requesting the creation of, purported intimate image of adult: time limit for prosecution[^key-7b3e9eb537311f4cdeecdee53908a175]
+## 66H. Creating, or requesting the creation of, purported intimate image of adult: time limit for prosecution[^c-7b3e9eb537311f4cdeecdee53908a175]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b3e9eb537311f4cdeecdee53908a175]: Textual amendment: Ss. 66E-66H inserted (6.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 138(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/138/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)
+[^c-7b3e9eb537311f4cdeecdee53908a175]: Textual amendment: Ss. 66E-66H inserted (6.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 138(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/138/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)

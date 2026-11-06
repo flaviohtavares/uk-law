@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Authority’s duties as respects incoming firms[^key-98985d59280676012a0ee1b76bd6b0fb]
+## 99. Authority’s duties as respects incoming firms[^c-98985d59280676012a0ee1b76bd6b0fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the Authority need only take such action (if any) under paragraph 13(2) or 14(2)
 
 ## Annotations
 
-[^key-98985d59280676012a0ee1b76bd6b0fb]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-98985d59280676012a0ee1b76bd6b0fb]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

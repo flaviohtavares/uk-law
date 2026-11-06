@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Timing of parish and community council elections in England and Wales[^key-89211264905c65b52f9f47d02cbe875b]
+## 15. Timing of parish and community council elections in England and Wales[^c-89211264905c65b52f9f47d02cbe875b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89211264905c65b52f9f47d02cbe875b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/6/section/15) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/702/article/3/b)
+[^c-89211264905c65b52f9f47d02cbe875b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/6/section/15) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/702/article/3/b)

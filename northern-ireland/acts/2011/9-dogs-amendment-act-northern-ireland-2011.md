@@ -48,7 +48,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-### 2. Microchipping[^key-9e0e54c58064c04347d914c40c26bf8e]
+### 2. Microchipping[^c-9e0e54c58064c04347d914c40c26bf8e]
 
 (1) In Article 6 of the Dogs Order (issue of dog licences) at the end add—
 
@@ -548,7 +548,7 @@ Section 17.
 
 ## Annotations
 
-[^key-9e0e54c58064c04347d914c40c26bf8e]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/9/section/2) in operation at 9.4.2012 by [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
+[^c-9e0e54c58064c04347d914c40c26bf8e]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/9/section/2) in operation at 9.4.2012 by [S.R. 2012/131](https://www.legislation.gov.uk/nisr/2012/131), [art. 2](https://www.legislation.gov.uk/nisr/2012/131/article/2)
 
 [^c22528291]: Subordinate legislation: [S. 18(1)](https://www.legislation.gov.uk/nia/2011/9/section/18/1) power partly exercised: 28.7.2011 appointed for specified provisions by [S.R. 2011/281](https://www.legislation.gov.uk/nisr/2011/281), [art. 2](https://www.legislation.gov.uk/nisr/2011/281/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/281/schedule);
 

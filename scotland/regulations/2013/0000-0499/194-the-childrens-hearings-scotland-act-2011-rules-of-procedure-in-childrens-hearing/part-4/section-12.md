@@ -32,8 +32,8 @@ summary: ''
 (3) Where the Reporter is required to arrange a children's hearing under section 69(2) (determination under section 66: referral to children's hearing) of the Act the Reporter must notify—
 
 - (a) where the information was provided under section 60 (local authority's duty to provide information to Principal Reporter) of the Act, the local authority which provided the information;
-- (b) where the information was provided under section 61 (constable's duty to provide information to Principal Reporter) of the Act or section 53(2) of the Criminal Justice (Scotland) Act 2016 (duty to inform Principal Reporter if child not being prosecuted)[^key-c89605fc4cc631bc48a1d3a774fa101f], the chief constable of the Police Service of Scotland.
+- (b) where the information was provided under section 61 (constable's duty to provide information to Principal Reporter) of the Act or section 53(2) of the Criminal Justice (Scotland) Act 2016 (duty to inform Principal Reporter if child not being prosecuted)[^c-c89605fc4cc631bc48a1d3a774fa101f], the chief constable of the Police Service of Scotland.
 
 ## Annotations
 
-[^key-c89605fc4cc631bc48a1d3a774fa101f]: Textual amendment: Words in rule 12(3)(b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 15](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/15) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))
+[^c-c89605fc4cc631bc48a1d3a774fa101f]: Textual amendment: Words in rule 12(3)(b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 15](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/15) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))

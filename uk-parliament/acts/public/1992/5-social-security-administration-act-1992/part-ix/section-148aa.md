@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148AA. Revaluation of flat rate accrual amount[^key-cc910a9bf4f6cdb28986ae08a1aedb87]
+## 148AA. Revaluation of flat rate accrual amount[^c-cc910a9bf4f6cdb28986ae08a1aedb87]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State must in the tax year preceding the flat rate introduction year and in each subsequent tax year up to and including the tax year 2014-15[^key-e2587511a2c87905d16e31af084ecbcb] review the general level of earnings obtaining in Great Britain and any changes in that level which have taken place during the review period.
+(1) The Secretary of State must in the tax year preceding the flat rate introduction year and in each subsequent tax year up to and including the tax year 2014-15[^c-e2587511a2c87905d16e31af084ecbcb] review the general level of earnings obtaining in Great Britain and any changes in that level which have taken place during the review period.
 
 (2) In this section “**the review period**” means—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc910a9bf4f6cdb28986ae08a1aedb87]: Textual amendment: [S. 148AA](https://www.legislation.gov.uk/ukpga/1992/5/section/148AA) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/2/paragraph/2)
+[^c-cc910a9bf4f6cdb28986ae08a1aedb87]: Textual amendment: [S. 148AA](https://www.legislation.gov.uk/ukpga/1992/5/section/148AA) inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/22/schedule/2/paragraph/2)
 
-[^key-e2587511a2c87905d16e31af084ecbcb]: Textual amendment: Words in s. 148AA(1) inserted (6.4.2016 with effect in accordance with art. 1(2) of the amending S.I.) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 3(3)](https://www.legislation.gov.uk/uksi/2016/224/article/3/3)
+[^c-e2587511a2c87905d16e31af084ecbcb]: Textual amendment: Words in s. 148AA(1) inserted (6.4.2016 with effect in accordance with art. 1(2) of the amending S.I.) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 3(3)](https://www.legislation.gov.uk/uksi/2016/224/article/3/3)

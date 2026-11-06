@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Arrangements for the supply of goods and services or interchange of staff.[^c20367711][^c20720651][^key-566a400277a41c903789f6b755b07c2c][^key-1f33671e727114086487240be16b7ebb]
+## 105. Arrangements for the supply of goods and services or interchange of staff.[^c20367711][^c20720651][^c-566a400277a41c903789f6b755b07c2c][^c-1f33671e727114086487240be16b7ebb]
 
 *Extent: N.I.*
 
@@ -50,8 +50,8 @@ on such terms as may be provided for by the arrangements.
 
 [^c20720651]: Modification: [Ss. 104-106](https://www.legislation.gov.uk/apni/1972/9/section/104) applied (20.8.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [art. 7](https://www.legislation.gov.uk/nisr/2008/310/article/7)
 
-[^key-566a400277a41c903789f6b755b07c2c]: Modification: Ss. 104-106 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
+[^c-566a400277a41c903789f6b755b07c2c]: Modification: Ss. 104-106 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
 
-[^key-1f33671e727114086487240be16b7ebb]: Modification: Ss. 104-106 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
+[^c-1f33671e727114086487240be16b7ebb]: Modification: Ss. 104-106 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
 
 [^c16964051]: Textual amendment: [1985 NI 15](https://www.legislation.gov.uk/1985/ni15)

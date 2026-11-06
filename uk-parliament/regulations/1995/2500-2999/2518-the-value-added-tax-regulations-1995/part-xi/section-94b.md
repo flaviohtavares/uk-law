@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**94B.**[^key-e57975dd45af8622387af9a38e46aa8a] (1) This regulation applies in relation to the following supplies where they are provided in the circumstances referred to in paragraph (2) below—
+**94B.**[^c-e57975dd45af8622387af9a38e46aa8a] (1) This regulation applies in relation to the following supplies where they are provided in the circumstances referred to in paragraph (2) below—
 
 - (a) supplies falling within regulation 85 above (leases treated as supplies of goods) other than any supply which is exempt by virtue of Group 1 of Schedule 9 to the Act or would be exempt but for the operation of Part 1 of Schedule 10[^M_F_27dac321-68df-4b3c-9eab-08a6abd17837] to the Act;
 - (b) supplies falling within regulation 86(1) to (4) above (supplies of water, gas or any form of power, heat, refrigeration or ventilation);
@@ -32,7 +32,7 @@ summary: ''
 
 (3) But this regulation does not apply where a person can show that a person to whom he has made a supply of a description falling within paragraph (1) above is entitled under sections 25 and 26 of the Act to credit for all of the VAT on that supply.
 
-(4)[^key-cef16edde1e70806f71add2b4beefcea] For the purposes of paragraph (2)—
+(4)[^c-cef16edde1e70806f71add2b4beefcea] For the purposes of paragraph (2)—
 
 - (a) any question whether one person is connected with another shall be determined in accordance with section 839 of the Taxes Act;
 - (b) a company is not connected with another company only because both are under the control of—
@@ -81,8 +81,8 @@ select an alternative period end date falling before the end of that period (whi
 
 ## Annotations
 
-[^key-e57975dd45af8622387af9a38e46aa8a]: Textual amendment: [Reg. 94B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94B) inserted (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2003/2318/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))
+[^c-e57975dd45af8622387af9a38e46aa8a]: Textual amendment: [Reg. 94B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94B) inserted (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2003/2318/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))
 
 [^M_F_27dac321-68df-4b3c-9eab-08a6abd17837]: Textual amendment: Words in reg. 94B(1)(a)(c) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/18) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
-[^key-cef16edde1e70806f71add2b4beefcea]: Textual amendment: [Reg. 94B(4)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94B/4) substituted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/1967/regulation/6)
+[^c-cef16edde1e70806f71add2b4beefcea]: Textual amendment: [Reg. 94B(4)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94B/4) substituted (15.8.2009) by [The Value Added Tax (Amendment) (No. 3) Regulations 2009 (S.I. 2009/1967)](https://www.legislation.gov.uk/uksi/2009/1967), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1967/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/1967/regulation/6)

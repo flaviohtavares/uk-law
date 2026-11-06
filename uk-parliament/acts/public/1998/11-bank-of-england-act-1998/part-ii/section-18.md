@@ -37,8 +37,8 @@ summary: ''
 
 (5) No report under this section shall be published without the approval of the Monetary Policy Committee.
 
-(6) A report under this section shall be published as soon as reasonably[^key-9756be7533796211e6c952b6fc7239bd] practicable after the end of the period to which it relates and in such manner as the Bank thinks fit.
+(6) A report under this section shall be published as soon as reasonably[^c-9756be7533796211e6c952b6fc7239bd] practicable after the end of the period to which it relates and in such manner as the Bank thinks fit.
 
 ## Annotations
 
-[^key-9756be7533796211e6c952b6fc7239bd]: Textual amendment: Word in s. 18(6) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/17) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/f)
+[^c-9756be7533796211e6c952b6fc7239bd]: Textual amendment: Word in s. 18(6) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/17) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/f)

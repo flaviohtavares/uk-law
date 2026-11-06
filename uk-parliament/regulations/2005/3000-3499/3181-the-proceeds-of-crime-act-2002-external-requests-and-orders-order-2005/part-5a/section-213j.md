@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213J. Testing and safekeeping of property seized under article 213H[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213J. Testing and safekeeping of property seized under article 213H[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)

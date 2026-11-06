@@ -29,7 +29,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 1976 (revoked)[^key-5cc64d588ea285ab1387f720bb79c0e1]
+The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 1976 (revoked)[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 Made
 
@@ -43,54 +43,54 @@ Coming into Operation
 
 6th September 1976
 
-[^key-5cc64d588ea285ab1387f720bb79c0e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cc64d588ea285ab1387f720bb79c0e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5cc64d588ea285ab1387f720bb79c0e1]
+## 1. Citation, commencement and interpretation[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Social Security Act 1975 and certain regulations[^key-5cc64d588ea285ab1387f720bb79c0e1]
+## 2. Modification of the Social Security Act 1975 and certain regulations[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-5cc64d588ea285ab1387f720bb79c0e1]
+## 3. Revocations[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5cc64d588ea285ab1387f720bb79c0e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cc64d588ea285ab1387f720bb79c0e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — MEMORANDUM OF RECIPROCAL ARRANGEMENTS RELATING TO SOCIAL SECURITY BETWEEN THE SECRETARY OF STATE FOR SOCIAL SERVICES, WITH THE CONSENT OF THE TREASURY, OF THE ONE PART AND THE DEPARTMENT OF HEALTH AND SOCIAL SERVICES FOR NORTHERN IRELAND, WITH THE CONSENT OF THE DEPARTMENT OF FINANCE FOR NORTHERN IRELAND, OF THE OTHER PART[^key-5cc64d588ea285ab1387f720bb79c0e1]
+## SCHEDULE 1 — MEMORANDUM OF RECIPROCAL ARRANGEMENTS RELATING TO SOCIAL SECURITY BETWEEN THE SECRETARY OF STATE FOR SOCIAL SERVICES, WITH THE CONSENT OF THE TREASURY, OF THE ONE PART AND THE DEPARTMENT OF HEALTH AND SOCIAL SERVICES FOR NORTHERN IRELAND, WITH THE CONSENT OF THE DEPARTMENT OF FINANCE FOR NORTHERN IRELAND, OF THE OTHER PART[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ADAPTATIONS OF CERTAIN PROVISIONS OF THE SOCIAL SECURITY ACT 1975[^key-5cc64d588ea285ab1387f720bb79c0e1]
+## SCHEDULE 2 — ADAPTATIONS OF CERTAIN PROVISIONS OF THE SOCIAL SECURITY ACT 1975[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 Regulation 2(2)
 
-### PART I[^key-5cc64d588ea285ab1387f720bb79c0e1]
+### PART I[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-5cc64d588ea285ab1387f720bb79c0e1]
+### PART II[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III[^key-5cc64d588ea285ab1387f720bb79c0e1]
+### PART III[^c-5cc64d588ea285ab1387f720bb79c0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5cc64d588ea285ab1387f720bb79c0e1]EXPLANATORY NOTE
+[^c-5cc64d588ea285ab1387f720bb79c0e1]EXPLANATORY NOTE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5cc64d588ea285ab1387f720bb79c0e1]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1976/1003) Regulations revoked (E.W.S.) (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/1/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/2))
+[^c-5cc64d588ea285ab1387f720bb79c0e1]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1976/1003) Regulations revoked (E.W.S.) (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/1/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/287/regulation/3/2))

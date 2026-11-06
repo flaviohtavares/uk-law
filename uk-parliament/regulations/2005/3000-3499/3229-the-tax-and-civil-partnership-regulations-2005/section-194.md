@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194.[^key-8bb7708251017ae2819a92bed90e2078]
+## 194.[^c-8bb7708251017ae2819a92bed90e2078]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 634 (meaning of “capital sum” and “sums paid to settlor”), in
 
 ## Annotations
 
-[^key-8bb7708251017ae2819a92bed90e2078]: Commencement: Reg. 194 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-8bb7708251017ae2819a92bed90e2078]: Commencement: Reg. 194 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

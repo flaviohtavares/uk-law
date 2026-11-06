@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — MODIFICATIONS OF THE COMPANIES ACTS AND THE INSOLVENCY (NORTHERN IRELAND) ORDER 1989[^key-7a266a0c4405e7956cd89498f2989d77]
+## SCHEDULE 4 — MODIFICATIONS OF THE COMPANIES ACTS AND THE INSOLVENCY (NORTHERN IRELAND) ORDER 1989[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Regulations 83 and 86
 
-### 1. Modifications applying before registration[^key-7a266a0c4405e7956cd89498f2989d77]
+### 1. Modifications applying before registration[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Modifications applying on or after registration[^key-7a266a0c4405e7956cd89498f2989d77]
+### 2. Modifications applying on or after registration[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3.[^key-7a266a0c4405e7956cd89498f2989d77]
+### 3.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-7a266a0c4405e7956cd89498f2989d77]
+### 4.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-7a266a0c4405e7956cd89498f2989d77]
+### 5.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Effect of registration[^key-7a266a0c4405e7956cd89498f2989d77]
+### 6. Effect of registration[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-7a266a0c4405e7956cd89498f2989d77]
+### 7.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Use of “limited”[^key-7a266a0c4405e7956cd89498f2989d77]
+### 8. Use of “limited”[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Certificate as to share capital[^key-7a266a0c4405e7956cd89498f2989d77]
+### 9. Certificate as to share capital[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Fees[^key-7a266a0c4405e7956cd89498f2989d77]
+### 10. Fees[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Accounting reference date[^key-7a266a0c4405e7956cd89498f2989d77]
+### 11. Accounting reference date[^c-7a266a0c4405e7956cd89498f2989d77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a266a0c4405e7956cd89498f2989d77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/417) ceases to have effect (1.10.2009) by virtue of [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(2)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/2/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-7a266a0c4405e7956cd89498f2989d77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/417) ceases to have effect (1.10.2009) by virtue of [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(2)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/2/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))

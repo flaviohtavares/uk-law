@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Service of application[^key-4c1c8368ebeab2fe428286912d57cf8c]
+## 18. Service of application[^c-4c1c8368ebeab2fe428286912d57cf8c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c1c8368ebeab2fe428286912d57cf8c]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2011/1301/rule/18) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4c1c8368ebeab2fe428286912d57cf8c]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2011/1301/rule/18) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

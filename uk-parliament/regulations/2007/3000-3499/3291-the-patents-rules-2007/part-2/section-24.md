@@ -27,10 +27,10 @@ summary: ''
 
 he must report this finding to the comptroller, and the comptroller must notify the applicant accordingly.
 
-(2) Where the comptroller has notified the applicant under paragraph (1), the applicant must, before the end of the period of two months beginning immediately after[^key-e38e198a8055b6e4bd305071f01c150b] the date of that notification, provide the comptroller with a corrected date; otherwise the comptroller must disregard the declaration in so far as it relates to the earlier relevant application.
+(2) Where the comptroller has notified the applicant under paragraph (1), the applicant must, before the end of the period of two months beginning immediately after[^c-e38e198a8055b6e4bd305071f01c150b] the date of that notification, provide the comptroller with a corrected date; otherwise the comptroller must disregard the declaration in so far as it relates to the earlier relevant application.
 
 (3) In paragraph (2) “**corrected date**” means a date that would not have been reported by the examiner under paragraph (1).
 
 ## Annotations
 
-[^key-e38e198a8055b6e4bd305071f01c150b]: Textual amendment: Words in [rule 24(2)](https://www.legislation.gov.uk/uksi/2007/3291/rule/24/2) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-e38e198a8055b6e4bd305071f01c150b]: Textual amendment: Words in [rule 24(2)](https://www.legislation.gov.uk/uksi/2007/3291/rule/24/2) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Provision of safeguarding information to the police: Northern Ireland[^key-5318e876f6dcc2ff2d751dcd3d4ea717]
+## 91. Provision of safeguarding information to the police: Northern Ireland[^c-5318e876f6dcc2ff2d751dcd3d4ea717]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After Article 52 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 
 
 ## Annotations
 
-[^key-5318e876f6dcc2ff2d751dcd3d4ea717]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2009/26/section/91) in force at 30.11.2009 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/b)
+[^c-5318e876f6dcc2ff2d751dcd3d4ea717]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2009/26/section/91) in force at 30.11.2009 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/b)

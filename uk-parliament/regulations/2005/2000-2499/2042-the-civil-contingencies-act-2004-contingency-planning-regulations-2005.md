@@ -48,7 +48,7 @@ Coming into force
 - (b)
 - (c)
 
-hereby makes the following Regulations:[^key-84f236cd1cd80e7996227d56c8800c02]
+hereby makes the following Regulations:[^c-84f236cd1cd80e7996227d56c8800c02]
 
 ## PART 1 — Introductory
 
@@ -62,7 +62,7 @@ hereby makes the following Regulations:[^key-84f236cd1cd80e7996227d56c8800c02]
 
 Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Northern Ireland.
 
-### 3. Interpretation[^key-d26dd3fa5db010c139c4189859a7937d]
+### 3. Interpretation[^c-d26dd3fa5db010c139c4189859a7937d]
 
 (1) In these Regulations –
 
@@ -72,7 +72,7 @@ Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Nort
   - (a) the Security Service;
   - (b) the Secret Intelligence Service;
   - (c) the Government Communications Headquarters;
-  - (d) the Serious Organised Crime Agency[^key-de7107e237ae219bbcaa96ba367d02c7];
+  - (d) the Serious Organised Crime Agency[^c-de7107e237ae219bbcaa96ba367d02c7];
 - “**Category 1 responder**” means a person or body listed in Part 1 or 2 of Schedule 1 [^c12282381];
 - “**Category 2 responder**” means a general Category 2 responder or a Scottish Category 2 responder;
 - “**community risk register**” has the meaning given by –
@@ -88,10 +88,10 @@ Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Nort
   - (d) a person or body listed in paragraph 27 of Part 3 of Schedule 1 which is a relevant harbour authority;
 - “**general responder**” means a general Category 1 responder or a general Category 2 responder;
 - “**local resilience area**” in relation to each general responder (other than a general responder whose functions are exercisable only in Northern Ireland) means –
-  - (b) in so far as the responder has functions which are exercisable in relation to a London borough or the City of London, London;[^key-3a46d4f430d896583426f260b25d688e]
+  - (b) in so far as the responder has functions which are exercisable in relation to a London borough or the City of London, London;[^c-3a46d4f430d896583426f260b25d688e]
   - (c) otherwise, the police area in which the responder's functions are exercisable;
-- “**local resilience forum**” has the meaning given by regulation 4(4)(b)[^key-9ccde1709c2c259be66f843324d3b9c1];
-- “London” means the area comprising the areas of the London boroughs and the City of London;[^key-d4431fa2f07138d7da313e3c07d98e99]
+- “**local resilience forum**” has the meaning given by regulation 4(4)(b)[^c-9ccde1709c2c259be66f843324d3b9c1];
+- “London” means the area comprising the areas of the London boroughs and the City of London;[^c-d4431fa2f07138d7da313e3c07d98e99]
 - “**non-lead general Category 1 responders**” has the meaning given in regulation 9(4);
 - “**relevant airport operator**” means an airport operator, within the meaning of section 82(1) of the Airports Act 1986 [^c12282391], which is responsible for an airport through which, in the most recent year for which data is available, at least 50,000 passengers or 10,000 tonnes of freight and mail were transported;
 - “**relevant harbour authority**” means a harbour authority, within the meaning of section 46(1) of the Aviation and Maritime Security Act 1990 [^c12282401], which is responsible for a harbour through which the average annual maritime traffic, calculated by reference to the most recent three years for which data is available, is at least 1.5 million tonnes of cargo or 200,000 passengers;
@@ -116,7 +116,7 @@ Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Nort
 
 ## PART 2 — General
 
-### 4. Co-operation and local resilience forums – England and Wales[^key-39074b61074806424a1dca360afe50bc]
+### 4. Co-operation and local resilience forums – England and Wales[^c-39074b61074806424a1dca360afe50bc]
 
 *Extent: E+W+S*
 
@@ -229,7 +229,7 @@ Regulations 4, 5, 9 to 11, 15 to 17, 32 to 34 and 36 to 44 do not extend to Nort
 - (b) the form of co-operation;
 - (c) contact details for the individuals who are to be involved in the co-operation.
 
-(4)[^key-381a4440b273d84df2d75dd5e468c0d8] A protocol which facilitates co-operation under regulation 4 may in particular include provision relating to the performance of a general Category 2 responder’s duty under—
+(4)[^c-381a4440b273d84df2d75dd5e468c0d8] A protocol which facilitates co-operation under regulation 4 may in particular include provision relating to the performance of a general Category 2 responder’s duty under—
 
 - (a) regulation 4(2) (duty to co-operate);
 - (b) regulation 4(9) (duty to attend meetings of local resilience forums); and
@@ -288,12 +288,12 @@ If, pursuant to regulation 9 or an analogous provision in regulations made by th
 
 General Category 1 responders need not perform a duty under section 2(1) in relation to an emergency which is –
 
-- (a) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^key-eced297951c1867625b6c648fd83d690], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
-- (b) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-f7ea8717d31cb172cd517f39eeee0c1c], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
+- (a) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^c-eced297951c1867625b6c648fd83d690], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
+- (b) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-f7ea8717d31cb172cd517f39eeee0c1c], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
 - (c) a major accident, within the meaning of regulation 2(1) of the Pipelines Safety Regulations 1996 [^c12282431], involving a dangerous fluid (within the meaning of those Regulations) which is in, or has been conveyed in, a pipeline to which those Regulations apply;
 - (d) a major accident, within the meaning of regulation 2(1) of the Pipelines Safety Regulations (Northern Ireland) 1997 [^c12282441], involving a dangerous fluid (within the meaning of those Regulations) which is in, or has been conveyed in, a pipeline to which those Regulations apply;
-- (e) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-f1e9a726b4d12f12f346197897d291ca], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply; or
-- (f) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^key-24cb47acbdfa757c2392ee27619892dd], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply.
+- (e) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-f1e9a726b4d12f12f346197897d291ca], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply; or
+- (f) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^c-24cb47acbdfa757c2392ee27619892dd], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply.
 
 ## PART 3 — Duty to assess risk of emergency occurring
 
@@ -365,7 +365,7 @@ A general Category 1 responder need only perform the duty under section 2(1)(a) 
 
 (3) A general Category 1 responder which has functions which are exercisable in a local resilience area in Wales must from time to time provide the Assembly with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
 
-(4) A general Category 1 responder which has functions which are exercisable in a local resilience area in England must from time to time provide a Minister of the Crown[^key-ac5d14b4142fa652d4bab5b098296c5d] with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
+(4) A general Category 1 responder which has functions which are exercisable in a local resilience area in England must from time to time provide a Minister of the Crown[^c-ac5d14b4142fa652d4bab5b098296c5d] with a copy of the community risk register which it maintains for that local resilience area under paragraph (1) of regulation 15.
 
 ### 17. Community risk register – Scotland
 
@@ -558,7 +558,7 @@ The arrangements maintained by a general Category 1 responder under section 2(1)
 
 *Extent: E+W+S*
 
-### 36. Interpretation of Part 7[^key-b3329f3379c74d6538fca3d942760daf]
+### 36. Interpretation of Part 7[^c-b3329f3379c74d6538fca3d942760daf]
 
 In this Part of the Regulations –
 
@@ -666,7 +666,7 @@ Relevant responders may make a charge for advice or assistance provided on reque
 
 ## PART 8 — Information
 
-**44A.**[^key-19d25a3384c188b7c1003b97169d0475] (1) Subject to regulations 45 to 53, general responders may disclose information on request to another general responder in connection with the performance by either of a function under the Act which relates to emergencies.
+**44A.**[^c-19d25a3384c188b7c1003b97169d0475] (1) Subject to regulations 45 to 53, general responders may disclose information on request to another general responder in connection with the performance by either of a function under the Act which relates to emergencies.
 
 (2) In relation to the Chief Constable of the Police Service of Northern Ireland, “emergencies” means an emergency falling within section 1(1)(c).
 
@@ -677,41 +677,41 @@ Relevant responders may make a charge for advice or assistance provided on reque
 - (a) information the disclosure of which to the public would, or would be likely to, adversely affect national security;
 - (b) information the disclosure of which to the public would, or would be likely to, adversely affect public safety;
 - (c) information disclosure of which to the public would, or would be likely to, prejudice the commercial interests of any person; or
-- (d) information which is personal data [^key-2b645a800d4999bb0c897a09305a6aae]... if the condition in paragraph (1A), (1B) or (1C)[^key-ebd764ef2621c787f070c97516090371] is satisfied.
+- (d) information which is personal data [^c-2b645a800d4999bb0c897a09305a6aae]... if the condition in paragraph (1A), (1B) or (1C)[^c-ebd764ef2621c787f070c97516090371] is satisfied.
 
-(1A)[^key-f17f360e3db0b90eed1a78bebe6b0b9f] The condition in this paragraph is that the disclosure of the information to a member of the public—
+(1A)[^c-f17f360e3db0b90eed1a78bebe6b0b9f] The condition in this paragraph is that the disclosure of the information to a member of the public—
 
 - (a) would contravene any of the data protection principles, or
 - (b) would do so if the exemptions in section 24(1) of the Data Protection Act 2018 (manual unstructured data held by public authorities) were disregarded.
 
 (1B) The condition in this paragraph is that the disclosure of the information to a member of the public would contravene—
 
-- (a) Article 21 of the UK GDPR[^key-2fadf12ee03b185888c69b3ba8f3798a] (general processing: right to object to processing), or
+- (a) Article 21 of the UK GDPR[^c-2fadf12ee03b185888c69b3ba8f3798a] (general processing: right to object to processing), or
 - (b) section 99 of the Data Protection Act 2018 (intelligence services processing: right to object to processing).
 
 (1C) The condition in this paragraph is that—
 
-- (a) on a request under Article 15(1) of the UK GDPR[^key-bf37b93b16da470153bcc34b6537549a] (general processing: right of access by the data subject) for access to personal data, the information would be withheld in reliance on provision made by or under section 15, 16 or 26 of, or Schedule 2, 3 or 4 to, the Data Protection Act 2018,
+- (a) on a request under Article 15(1) of the UK GDPR[^c-bf37b93b16da470153bcc34b6537549a] (general processing: right of access by the data subject) for access to personal data, the information would be withheld in reliance on provision made by or under section 15, 16 or 26 of, or Schedule 2, 3 or 4 to, the Data Protection Act 2018,
 - (b) on a request under section 45(1)(b) of that Act (law enforcement processing: right of access by the data subject), the information would be withheld in reliance on subsection (4) of that section, or
 - (c) on a request under section 94(1)(b) of that Act (intelligence services processing: rights of access by the data subject), the information would be withheld in reliance on a provision of Chapter 6 of Part 4 of that Act.
 
 (1D) In this regulation—
 
 - “**the data protection principles**” means the principles set out in—
-  - (a) Article 5(1) of the UK GDPR[^key-ff2d8b9c87920c2b34b9d017a7139ccc] ,
+  - (a) Article 5(1) of the UK GDPR[^c-ff2d8b9c87920c2b34b9d017a7139ccc] ,
   - (b) section 34(1) of the Data Protection Act 2018, and
   - (c) section 85(1) of that Act;
-- [^key-577e959f48214b05fb3d0ff84b040852]...
+- [^c-577e959f48214b05fb3d0ff84b040852]...
 - “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
-- “[^key-5ebc7a8add6b278593aedd815658fccb]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-5ebc7a8add6b278593aedd815658fccb]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 
-(1E) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^key-742b73ee12ebce06074477d43449ef21] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^key-6a1f2a9431381e6d9803b1a790e5b421] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^key-9265d00f11586867f546dbfaa37174d0].
+(1E) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^c-742b73ee12ebce06074477d43449ef21] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^c-6a1f2a9431381e6d9803b1a790e5b421] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^c-9265d00f11586867f546dbfaa37174d0].
 
-(2)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-877d0f53924f9604def239d41f49b196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 46. Sensitive information – certificates in relation to national security
 
@@ -737,7 +737,7 @@ Relevant responders may make a charge for advice or assistance provided on reque
 (3) The condition in this paragraph is that the requesting responder is satisfied that **–**
 
 - (a) the information is not held by the requesting responder; and
-- (b) it is not reasonable to seek to obtain the information by other means ; and[^key-618dd5b4c46280fb05e98359df369edb]
+- (b) it is not reasonable to seek to obtain the information by other means ; and[^c-618dd5b4c46280fb05e98359df369edb]
 - (c) the general Category 1 responder or general Category 2 responder which holds the information will not provide or is unable to provide the information without a request under this Regulation.
 
 (4) To the extent that this paragraph applies, the requesting responder may make a request for the information to a general Category 1 responder or a general Category 2 responder (referred to in this Part of the Regulations as “the receiving responder”).
@@ -876,7 +876,7 @@ may only be used by that responder for the purpose of performing the function fo
 
 (2) For the purposes of paragraph (1), it is immaterial whether the disclosure is made pursuant to a request made under regulation 47.
 
-(3) In paragraph (1), the reference to the H[^key-ec7e6d87960a9b2281d678e7978a2839]ealth and Safety Executive includes a reference to an officer of the Executive.
+(3) In paragraph (1), the reference to the H[^c-ec7e6d87960a9b2281d678e7978a2839]ealth and Safety Executive includes a reference to an officer of the Executive.
 
 ### 54A. Energy Act 2013
 
@@ -895,11 +895,11 @@ may only be used by that responder for the purpose of performing the function fo
 
 ## PART 9 — London
 
-### 55. Role of the London Fire Commissioner[^key-8f2dc8ea4817f0d3110010f0aa69098b]
+### 55. Role of the London Fire Commissioner[^c-8f2dc8ea4817f0d3110010f0aa69098b]
 
-(1) In London, it shall be the function of the London Fire Commissioner[^key-e60b71217b5eb4d6f500cc4fd46cc0db] to –
+(1) In London, it shall be the function of the London Fire Commissioner[^c-e60b71217b5eb4d6f500cc4fd46cc0db] to –
 
-- (a)[^key-893796194a196a51385f5ee9b2702cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-893796194a196a51385f5ee9b2702cc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) on behalf of all relevant Category 1 responders which have functions which are exercisable in London, take the lead responsibility for performing the duty under section 2(1)(d) (duty to maintain emergency plans) in relation to pan-London emergencies;
 - (c) at the request of a relevant Category 1 responder which has functions which are exercisable in London, assist that responder in –
   - (i) carrying out exercises for the purpose of ensuring that a plan maintained by that relevant Category 1 responder by virtue of section 2(1)(c) or (d) in relation to a pan-London emergency is effective;
@@ -916,7 +916,7 @@ may only be used by that responder for the purpose of performing the function fo
 
 ### 56. Role of other Category 1 responders in London
 
-Category 1 responders which have functions which are exercisable in London, other than the London Fire Commissioner[^key-2a19e225a65e6254ea660c2f2fddba2e], shall co-operate with the London Fire Commissioner in connection with the performance by the Commissioner of the Commissioner’s functions[^key-bef20349a8e3ccadab1f9bdef34f37d0] under regulation 55.
+Category 1 responders which have functions which are exercisable in London, other than the London Fire Commissioner[^c-2a19e225a65e6254ea660c2f2fddba2e], shall co-operate with the London Fire Commissioner in connection with the performance by the Commissioner of the Commissioner’s functions[^c-bef20349a8e3ccadab1f9bdef34f37d0] under regulation 55.
 
 ## PART 10 — Northern Ireland
 
@@ -964,7 +964,7 @@ Each general Category 1 responder which has functions which are exercisable in N
 - (a) make arrangements with a body specified in paragraph (4) of regulation 57 to perform a duty of the general Category 1 responder under section 2(1) jointly with that body;
 - (b) make arrangements with such a body for that body to perform such a duty on behalf of the general Category 1 responder.
 
-## Part 11 — Review[^key-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]
+## Part 11 — Review[^c-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]
 
 **59.** (1) Before the end of the review period, the Minister for the Cabinet Office must—
 
@@ -989,13 +989,13 @@ Jim Murphy
 
 Parliamentary Secretary, Cabinet Office
 
-## SCHEDULE — Local resilience areas in London[^key-2b27afb190126f48153bc266627f66b5]
+## SCHEDULE — Local resilience areas in London[^c-2b27afb190126f48153bc266627f66b5]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-[^key-2b27afb190126f48153bc266627f66b5]
+[^c-2b27afb190126f48153bc266627f66b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1023,85 +1023,85 @@ Part 10 relates to the performance of the duties under the Act in Northern Irela
 
 ## Annotations
 
-[^key-84f236cd1cd80e7996227d56c8800c02]: Modification: Regulations continued (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 110(1)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110/1)
+[^c-84f236cd1cd80e7996227d56c8800c02]: Modification: Regulations continued (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 110(1)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110/1)
 
-[^key-d26dd3fa5db010c139c4189859a7937d]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2042/regulation/3) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/a)
+[^c-d26dd3fa5db010c139c4189859a7937d]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2042/regulation/3) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/a)
 
-[^key-de7107e237ae219bbcaa96ba367d02c7]: Textual amendment: Words in reg. 3(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/46)
+[^c-de7107e237ae219bbcaa96ba367d02c7]: Textual amendment: Words in reg. 3(1) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/46)
 
 [^c12282381]: Marginal citation: Amended by [S.I. 2005/2043](https://www.legislation.gov.uk/uksi/2005/2043).
 
-[^key-3a46d4f430d896583426f260b25d688e]: Textual amendment: Words in reg. 3(1) substituted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+[^c-3a46d4f430d896583426f260b25d688e]: Textual amendment: Words in reg. 3(1) substituted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
 
-[^key-9ccde1709c2c259be66f843324d3b9c1]: Textual amendment: Word in reg. 3(1) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/624/regulation/3)
+[^c-9ccde1709c2c259be66f843324d3b9c1]: Textual amendment: Word in reg. 3(1) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/624/regulation/3)
 
-[^key-d4431fa2f07138d7da313e3c07d98e99]: Textual amendment: Words in reg. 3(1) inserted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+[^c-d4431fa2f07138d7da313e3c07d98e99]: Textual amendment: Words in reg. 3(1) inserted (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2011/615/regulation/5/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
 
 [^c12282391]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
 [^c12282401]: Marginal citation: [1990 c. 31](https://www.legislation.gov.uk/ukpga/1990/31).
 
-[^key-39074b61074806424a1dca360afe50bc]: Textual amendment: Reg. 4 substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/624/regulation/4)
+[^c-39074b61074806424a1dca360afe50bc]: Textual amendment: Reg. 4 substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/624/regulation/4)
 
-[^key-381a4440b273d84df2d75dd5e468c0d8]: Textual amendment: Reg. 7(4)(5) inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/624/regulation/5)
+[^c-381a4440b273d84df2d75dd5e468c0d8]: Textual amendment: Reg. 7(4)(5) inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/624/regulation/5)
 
-[^key-eced297951c1867625b6c648fd83d690]: Textual amendment: Word in reg. 12(a) substituted (E.W.S.) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-eced297951c1867625b6c648fd83d690]: Textual amendment: Word in reg. 12(a) substituted (E.W.S.) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-f7ea8717d31cb172cd517f39eeee0c1c]: Textual amendment: Words in reg. 12(b) substituted (N.I.) (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-f7ea8717d31cb172cd517f39eeee0c1c]: Textual amendment: Words in reg. 12(b) substituted (N.I.) (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/2) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
 
 [^c12282431]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825); amended by the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) s.328.
 
 [^c12282441]: Marginal citation: [S.I. 1997/193](https://www.legislation.gov.uk/uksi/1997/193).
 
-[^key-f1e9a726b4d12f12f346197897d291ca]: Textual amendment: Words in reg. 12(e) substituted (E.W.S.) (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-f1e9a726b4d12f12f346197897d291ca]: Textual amendment: Words in reg. 12(e) substituted (E.W.S.) (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-24cb47acbdfa757c2392ee27619892dd]: Textual amendment: Words in reg. 12(f) substituted (N.I.) (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [reg. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2019/185/schedule/9/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
+[^c-24cb47acbdfa757c2392ee27619892dd]: Textual amendment: Words in reg. 12(f) substituted (N.I.) (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [reg. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2019/185/schedule/9/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
 
-[^key-ac5d14b4142fa652d4bab5b098296c5d]: Textual amendment: Words in reg. 16(4) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/624/regulation/6)
+[^c-ac5d14b4142fa652d4bab5b098296c5d]: Textual amendment: Words in reg. 16(4) substituted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/624/regulation/6)
 
-[^key-b3329f3379c74d6538fca3d942760daf]: Modification: [Reg. 36](https://www.legislation.gov.uk/uksi/2005/2042/regulation/36) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/b)
+[^c-b3329f3379c74d6538fca3d942760daf]: Modification: [Reg. 36](https://www.legislation.gov.uk/uksi/2005/2042/regulation/36) modified (temp.) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [47(1)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/47/1/b)
 
-[^key-19d25a3384c188b7c1003b97169d0475]: Textual amendment: Reg. 44A inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/624/regulation/7)
+[^c-19d25a3384c188b7c1003b97169d0475]: Textual amendment: Reg. 44A inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/624/regulation/7)
 
-[^key-2b645a800d4999bb0c897a09305a6aae]: Textual amendment: Words in reg. 45(1)(d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2b645a800d4999bb0c897a09305a6aae]: Textual amendment: Words in reg. 45(1)(d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-ebd764ef2621c787f070c97516090371]: Textual amendment: Words in reg. 45(1)(d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ebd764ef2621c787f070c97516090371]: Textual amendment: Words in reg. 45(1)(d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-f17f360e3db0b90eed1a78bebe6b0b9f]: Textual amendment: Reg. 45(1A)-(1E) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-f17f360e3db0b90eed1a78bebe6b0b9f]: Textual amendment: Reg. 45(1A)-(1E) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2fadf12ee03b185888c69b3ba8f3798a]: Textual amendment: Words in [reg. 45(1B)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1B/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fadf12ee03b185888c69b3ba8f3798a]: Textual amendment: Words in [reg. 45(1B)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1B/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf37b93b16da470153bcc34b6537549a]: Textual amendment: Words in [reg. 45(1C)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1C/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf37b93b16da470153bcc34b6537549a]: Textual amendment: Words in [reg. 45(1C)(a)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1C/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff2d8b9c87920c2b34b9d017a7139ccc]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff2d8b9c87920c2b34b9d017a7139ccc]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-577e959f48214b05fb3d0ff84b040852]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-577e959f48214b05fb3d0ff84b040852]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ebc7a8add6b278593aedd815658fccb]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ebc7a8add6b278593aedd815658fccb]: Textual amendment: Words in [reg. 45(1D)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1D) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-742b73ee12ebce06074477d43449ef21]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-742b73ee12ebce06074477d43449ef21]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 60(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/60/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a1f2a9431381e6d9803b1a790e5b421]: Textual amendment: Word in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+[^c-6a1f2a9431381e6d9803b1a790e5b421]: Textual amendment: Word in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
 
-[^key-9265d00f11586867f546dbfaa37174d0]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+[^c-9265d00f11586867f546dbfaa37174d0]: Textual amendment: Words in [reg. 45(1E)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/45/1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/e), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
 
-[^key-877d0f53924f9604def239d41f49b196]: Textual amendment: Reg. 45(2)-(4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-877d0f53924f9604def239d41f49b196]: Textual amendment: Reg. 45(2)-(4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 317(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/317/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-618dd5b4c46280fb05e98359df369edb]: Textual amendment: Reg. 47(3)(c) and word inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/624/regulation/8)
+[^c-618dd5b4c46280fb05e98359df369edb]: Textual amendment: Reg. 47(3)(c) and word inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/624/regulation/8)
 
 [^c12282501]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15); the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 14](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14); the [Consumer Protection Act 1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), [Schedule 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/3); the [Norfolk and Suffolk Broads Act 1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), [Schedule 6](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6); the [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), [Schedule 13](https://www.legislation.gov.uk/ukpga/1988/40/schedule/13); the [Water Act 1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), [Schedule 25](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25); the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22); the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [Schedule 29](https://www.legislation.gov.uk/ukpga/1999/29/schedule/29); the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [section 105](https://www.legislation.gov.uk/ukpga/2003/20/section/105); [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822); and [S.I. 2004/3363](https://www.legislation.gov.uk/uksi/2004/3363).
 
-[^key-ec7e6d87960a9b2281d678e7978a2839]: Textual amendment: Reg. 54A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 192](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/192) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ec7e6d87960a9b2281d678e7978a2839]: Textual amendment: Reg. 54A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 192](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/192) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8f2dc8ea4817f0d3110010f0aa69098b]: Textual amendment: Reg. 55 heading substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/a)
+[^c-8f2dc8ea4817f0d3110010f0aa69098b]: Textual amendment: Reg. 55 heading substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/a)
 
-[^key-e60b71217b5eb4d6f500cc4fd46cc0db]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/55/1) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/b)
+[^c-e60b71217b5eb4d6f500cc4fd46cc0db]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2005/2042/regulation/55/1) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/2/b)
 
-[^key-893796194a196a51385f5ee9b2702cc5]: Textual amendment: Reg. 55(1)(a) omitted (1.4.2011) by virtue of [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2011/615/regulation/6/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+[^c-893796194a196a51385f5ee9b2702cc5]: Textual amendment: Reg. 55(1)(a) omitted (1.4.2011) by virtue of [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [6(2)](https://www.legislation.gov.uk/uksi/2011/615/regulation/6/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
 
-[^key-2a19e225a65e6254ea660c2f2fddba2e]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/a)
+[^c-2a19e225a65e6254ea660c2f2fddba2e]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/a)
 
-[^key-bef20349a8e3ccadab1f9bdef34f37d0]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/b)
+[^c-bef20349a8e3ccadab1f9bdef34f37d0]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2005/2042/regulation/56) substituted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/9/3/b)
 
 [^c12282511]: Marginal citation: [1972 c. 9](https://www.legislation.gov.uk/ukpga/1972/9).
 
@@ -1121,6 +1121,6 @@ Part 10 relates to the performance of the duties under the Act in Northern Irela
 
 [^c12282591]: Marginal citation: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
-[^key-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]: Textual amendment: Pt. 11 inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/624/regulation/9)
+[^c-aac26a6c2bd11e1fd81a8ca9f3d0a5e2]: Textual amendment: Pt. 11 inserted (1.4.2012) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2012 (S.I. 2012/624)](https://www.legislation.gov.uk/uksi/2012/624), [regs. 1](https://www.legislation.gov.uk/uksi/2012/624/regulation/1), [9](https://www.legislation.gov.uk/uksi/2012/624/regulation/9)
 
-[^key-2b27afb190126f48153bc266627f66b5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2042/schedule) revoked (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [8](https://www.legislation.gov.uk/uksi/2011/615/regulation/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))
+[^c-2b27afb190126f48153bc266627f66b5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2042/schedule) revoked (1.4.2011) by [The Civil Contingencies Act 2004 (Contingency Planning) (Amendment) Regulations 2011 (S.I. 2011/615)](https://www.legislation.gov.uk/uksi/2011/615), [regs. 2](https://www.legislation.gov.uk/uksi/2011/615/regulation/2), [8](https://www.legislation.gov.uk/uksi/2011/615/regulation/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2011/615/regulation/7))

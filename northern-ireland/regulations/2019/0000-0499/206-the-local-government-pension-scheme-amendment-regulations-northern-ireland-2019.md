@@ -527,11 +527,11 @@ In regulation 46 (death grants: deferred members and pension credit members)—
 
 Omit paragraph (5) of regulation 51 (death grants: pensioner members).
 
-### 71.[^key-dd2b713d59b3876ba3a71c6083fafb9c]
+### 71.[^c-dd2b713d59b3876ba3a71c6083fafb9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 72.[^key-dd2b713d59b3876ba3a71c6083fafb9c]
+### 72.[^c-dd2b713d59b3876ba3a71c6083fafb9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -997,7 +997,7 @@ These Regulations are made under the powers contained in the Public Service Pens
 
 [^c23912541]: Marginal citation: [Regulation 23](https://www.legislation.gov.uk/nisr/2019/206/regulation/23) was amended by regulation 8 of S.R. [2016 No. 128](https://www.legislation.gov.uk/ukcm/2016/128).
 
-[^key-dd2b713d59b3876ba3a71c6083fafb9c]: Textual amendment: Regs. 71, 72 revoked (31.5.2020 with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2020/77/regulation/7)
+[^c-dd2b713d59b3876ba3a71c6083fafb9c]: Textual amendment: Regs. 71, 72 revoked (31.5.2020 with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/77)](https://www.legislation.gov.uk/nisr/2020/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/77/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2020/77/regulation/7)
 
 [^c23912561]: Marginal citation: [Regulations 70(13A) to (13D)](https://www.legislation.gov.uk/nisr/2019/206/regulation/70/13A) were inserted by regulation 19(b) of S.R. [2016 No. 128](https://www.legislation.gov.uk/ukcm/2016/128).
 

@@ -33,7 +33,7 @@ AGRICULTURE, WALES
 
 FOOD, WALES
 
-The Food (Suspension of the use of E 128 Red 2G as Food Colour) (Wales) (No.2) Regulations 2007 (revoked)[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+The Food (Suspension of the use of E 128 Red 2G as Food Colour) (Wales) (No.2) Regulations 2007 (revoked)[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 Made
 
@@ -47,40 +47,40 @@ Coming into force
 
 07 August 2007
 
-[^key-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 1. Title and commencement[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 2. Interpretation[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Suspension of activities involving the colour E128 Red 2G[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 3. Suspension of activities involving the colour E128 Red 2G[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 4. Enforcement[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 5. Application of various provisions of the Food Safety Act 1990[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c7dbec5f4d52c49599a2610d142c1e2e]
+## 6.[^c-c7dbec5f4d52c49599a2610d142c1e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7dbec5f4d52c49599a2610d142c1e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7dbec5f4d52c49599a2610d142c1e2e]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)
+[^c-c7dbec5f4d52c49599a2610d142c1e2e]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)

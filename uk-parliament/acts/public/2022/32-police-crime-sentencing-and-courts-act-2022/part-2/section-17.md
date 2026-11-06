@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Supply of information to local policing bodies[^key-18840a6bcb587ce8db8b9f8777c13d9a][^key-2fc6653b394e8bc19961873efccd8c2e]
+## 17. Supply of information to local policing bodies[^c-18840a6bcb587ce8db8b9f8777c13d9a][^c-2fc6653b394e8bc19961873efccd8c2e]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18840a6bcb587ce8db8b9f8777c13d9a]: Commencement: S. 17 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-18840a6bcb587ce8db8b9f8777c13d9a]: Commencement: S. 17 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2fc6653b394e8bc19961873efccd8c2e]: Commencement: S. 17 in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/i)
+[^c-2fc6653b394e8bc19961873efccd8c2e]: Commencement: S. 17 in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/i)

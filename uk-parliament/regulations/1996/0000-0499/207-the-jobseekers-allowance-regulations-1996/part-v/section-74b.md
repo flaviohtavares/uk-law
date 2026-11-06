@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 74B. Reduced allowance where one member of a joint-claim couple is subject to a sanction[^key-41b0765a03d55778afe9d60e78a9aa01]
+## 74B. Reduced allowance where one member of a joint-claim couple is subject to a sanction[^c-41b0765a03d55778afe9d60e78a9aa01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41b0765a03d55778afe9d60e78a9aa01]: Textual amendment: [Reg. 74B](https://www.legislation.gov.uk/uksi/1996/207/regulation/74B) revoked (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/8)
+[^c-41b0765a03d55778afe9d60e78a9aa01]: Textual amendment: [Reg. 74B](https://www.legislation.gov.uk/uksi/1996/207/regulation/74B) revoked (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/8)

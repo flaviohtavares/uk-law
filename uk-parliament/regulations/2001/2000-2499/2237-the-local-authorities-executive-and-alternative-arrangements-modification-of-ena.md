@@ -45,7 +45,7 @@ Coming into force
 
 The Secretary of State for Transport, Local Government and the Regions, in exercise of the powers conferred upon him by sections 47 and 105 of the Local Government Act 2000[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement, application and interpretation[^key-7ed765e026bba46aecd3faec6c20aea9]
+## 1. Citation, commencement, application and interpretation[^c-7ed765e026bba46aecd3faec6c20aea9]
 
 (1) This Order may be cited as the Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 and shall come into force on 11th July 2001.
 
@@ -57,7 +57,7 @@ The Secretary of State for Transport, Local Government and the Regions, in exerc
 - “the 1988 Finance Act” means the Local Government Finance Act 1988[^f00004]; and
 - “the 1989 Act” means the Local Government and Housing Act 1989[^f00005].
 
-## 2. Modification of Acts[^key-8cfa091e1528e856b3706b400de8f9e9]
+## 2. Modification of Acts[^c-8cfa091e1528e856b3706b400de8f9e9]
 
 The following enactments, in their application to England, are modified in accordance with articles 3 to 44—
 
@@ -90,7 +90,7 @@ The following enactments, in their application to England, are modified in accor
 - (aa) the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00029]; and
 - (bb) the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00030].
 
-## 3. Restriction on promotion of Bills for changing local government areas, etc.[^key-66e59b0ddf61a376f9fc50fb680b6825]
+## 3. Restriction on promotion of Bills for changing local government areas, etc.[^c-66e59b0ddf61a376f9fc50fb680b6825]
 
 In section 70 of the 1972 Act[^f00031] (restriction on promotion of bills for changing local government areas, etc.), at the end there shall be added—
 
@@ -98,22 +98,22 @@ In section 70 of the 1972 Act[^f00031] (restriction on promotion of bills for ch
 
 .
 
-## 4. Qualifications for election and holding office as elected mayor[^key-2ebd4582ef250d5a9ba7c8cc29b8fe59]
+## 4. Qualifications for election and holding office as elected mayor[^c-2ebd4582ef250d5a9ba7c8cc29b8fe59]
 
 In section 79 of the 1972 Act[^f00032] (qualifications for election and holding office as member of local authority), in subsection (1), after “member of a local authority”, there shall be inserted “, or be qualified to be elected and to be an elected mayor,”.
 
-## 5. Disqualifications for election and holding office as elected mayor[^key-9ed731b807194aa6c230190ccd8ba52c]
+## 5. Disqualifications for election and holding office as elected mayor[^c-9ed731b807194aa6c230190ccd8ba52c]
 
 In section 80 of the 1972 Act[^f00033] (disqualifications for election and holding office as member of local authority), in subsection (1)—
 
 - (a) after “member of a local authority”, there shall be inserted “, and be disqualified for being elected or being an elected mayor,”; and
 - (b) in subsection (a), after “appointments”, there shall be inserted “or elections”.
 
-## 6. Validity of acts done by unqualified persons[^key-e7e55c6058e7f44c19bccc2008eb55e4]
+## 6. Validity of acts done by unqualified persons[^c-e7e55c6058e7f44c19bccc2008eb55e4]
 
 In section 82 of the 1972 Act[^f00034] (validity of acts done by unqualified persons), in subsection (1), after “the Local Government Act 1985”, there shall be inserted “or elected as elected mayor or executive leader”.
 
-## 7. Vacation of office by failure to attend meetings[^key-db8a74b9027656d8e1b729c71689674d]
+## 7. Vacation of office by failure to attend meetings[^c-db8a74b9027656d8e1b729c71689674d]
 
 In section 85 of the 1972 Act[^f00035] (vacation of office by failure to attend meetings)—
 
@@ -134,14 +134,14 @@ In section 85 of the 1972 Act[^f00035] (vacation of office by failure to attend 
   - (i) after “subsection (1)”, there shall be inserted “or (2A)”; and
   - (ii) after “meetings of the authority”, there shall be inserted “or, as the case may be, meetings of the executive”.
 
-## 8. Members of local authorities not to be appointed as officers[^key-87faf302f11333ee875e3007299a5f6e]
+## 8. Members of local authorities not to be appointed as officers[^c-87faf302f11333ee875e3007299a5f6e]
 
 In section 116 of the 1972 Act[^f00036] (members of local authorities not to be appointed as officers)—
 
 - (a) after “being appointed”, there shall be inserted “or elected”; and
 - (b) after “or vice-chairman”, there shall be inserted “or, in the case of a local authority which are operating executive arrangements which involve a leader and cabinet executive, the office of executive leader or member of the executive”.
 
-## 9. General provisions as to interpretation[^key-28825d8b88a48347f5c004bff6331f40]
+## 9. General provisions as to interpretation[^c-28825d8b88a48347f5c004bff6331f40]
 
 In subsection (1) of section 270 of the 1972 Act[^f00037] (general provisions as to interpretation), after “that is to say—”, there shall be inserted—
 
@@ -149,7 +149,7 @@ In subsection (1) of section 270 of the 1972 Act[^f00037] (general provisions as
 
 .
 
-## 10. Consideration of adverse reports[^key-b9167f764d1537dd0987154bd9efdc23]
+## 10. Consideration of adverse reports[^c-b9167f764d1537dd0987154bd9efdc23]
 
 (1) In section 31A of the Local Government Act 1974[^f00038] (consideration of adverse reports)—
 
@@ -173,7 +173,7 @@ In subsection (1) of section 270 of the 1972 Act[^f00037] (general provisions as
 
 .
 
-## 11. Evidence of resolutions and minutes of proceedings etc.[^key-40e1ab2105538a3d06951851fd9bcfa1]
+## 11. Evidence of resolutions and minutes of proceedings etc.[^c-40e1ab2105538a3d06951851fd9bcfa1]
 
 (1) In section 41 of the Local Government (Miscellaneous Provisions) Act 1976 (evidence of resolutions and minutes of proceedings)—
 
@@ -194,14 +194,14 @@ In subsection (1) of section 270 of the 1972 Act[^f00037] (general provisions as
 
 .
 
-## 12. Disqualification[^key-616004a5254a3efae91c2978b1efe9ea]
+## 12. Disqualification[^c-616004a5254a3efae91c2978b1efe9ea]
 
 In subsection (1) of section 35 of the Local Government Act 1985 (disqualification)—
 
 - (a) after “or vice-chairman”, there shall be inserted “or, in the case of a local authority which are operating executive arrangements which involve a leader and cabinet executive, the office of executive leader or member of the executive”; and
 - (b) after “appointments”, there shall be inserted “or elections”.
 
-## 13. Disabilities of directors of public transport companies[^key-f4fb5ee5d317253527a6eb37296e0e50]
+## 13. Disabilities of directors of public transport companies[^c-f4fb5ee5d317253527a6eb37296e0e50]
 
 In section 74 of the Transport Act 1985 (disabilities of directors of public transport companies)—
 
@@ -227,7 +227,7 @@ In section 74 of the Transport Act 1985 (disabilities of directors of public tra
   ; and
 - (d) in subsection (7), after “subsection (3)” there shall be inserted “or (3A)”.
 
-## 14. Working standards and testing and stamping equipment[^key-e9a8683a7f138defc0fc6a93417c8812]
+## 14. Working standards and testing and stamping equipment[^c-e9a8683a7f138defc0fc6a93417c8812]
 
 In section 5 of the Weights and Measures Act 1985 (working standards and testing and stamping equipment) in subsection (11), at the end of paragraph (c) there shall be inserted—
 
@@ -237,7 +237,7 @@ In section 5 of the Weights and Measures Act 1985 (working standards and testing
 
 .
 
-## 15. Local authority publicity[^key-08443daab1fe50abd32699422563b6cb]
+## 15. Local authority publicity[^c-08443daab1fe50abd32699422563b6cb]
 
 In section 6 of the Local Government Act 1986[^f00042] (interpretation and application of Part II), after subsection (6), there shall be added—
 
@@ -245,7 +245,7 @@ In section 6 of the Local Government Act 1986[^f00042] (interpretation and appli
 
 .
 
-## 16. Disabilities of directors of public airport companies[^key-54d661f244d7a0d51e57851547b6ae52]
+## 16. Disabilities of directors of public airport companies[^c-54d661f244d7a0d51e57851547b6ae52]
 
 In section 18 of the Airports Act 1986 (disabilities of directors of public airport companies)—
 
@@ -259,7 +259,7 @@ In section 18 of the Airports Act 1986 (disabilities of directors of public airp
   ; and
 - (b) in subsection (3), after “of subsection (2)” there shall be inserted “or any person who contravenes subsection (2A)”.
 
-## 17. Authorisation of pilots[^key-b5f4e02f3a333b2544b11adc5f417ea7]
+## 17. Authorisation of pilots[^c-b5f4e02f3a333b2544b11adc5f417ea7]
 
 In section 3 of the Pilotage Act 1987 (authorisation of pilots)—
 
@@ -277,13 +277,13 @@ In section 3 of the Pilotage Act 1987 (authorisation of pilots)—
 
   .
 
-## 18. Public supply or works contracts[^key-867fc88f1d0f12326bc8f8e9014370c8]
+## 18. Public supply or works contracts[^c-867fc88f1d0f12326bc8f8e9014370c8]
 
 (1) In section 19 of the Local Government Act 1988 (provisions supplementary to or consequential on section 17), in subsection (6), after “Local Government Act 1972”, there shall be inserted “, regulations under section 19 of the Local Government Act 2000 (discharge of functions of and by another local authority)”.
 
 (2) In Schedule 2 to the Local Government Act 1988[^f00044] (public supply or works contracts: the public authorities), after “A local authority.”, there shall be inserted “An executive of a local authority (within the meaning of Part II of the Local Government Act 2000).”.
 
-## 19. Financial administration—interpretation[^key-ef1fbacc2268d9b606c1da08442abac5]
+## 19. Financial administration—interpretation[^c-ef1fbacc2268d9b606c1da08442abac5]
 
 In section 111 of the 1988 Finance Act[^f00045] (interpretation), after subsection (3), there shall be inserted—
 
@@ -291,7 +291,7 @@ In section 111 of the 1988 Finance Act[^f00045] (interpretation), after subsecti
 
 .
 
-## 20. Functions of responsible officer as regards reports[^key-dd4a0372b33b86fcc85dcc3e19635a8f]
+## 20. Functions of responsible officer as regards reports[^c-dd4a0372b33b86fcc85dcc3e19635a8f]
 
 (1) In section 114 of the 1988 Finance Act[^f00046] (functions of responsible officer as regards reports)—
 
@@ -338,7 +338,7 @@ In section 111 of the 1988 Finance Act[^f00045] (interpretation), after subsecti
 
 .
 
-## 21. Duties of executive as regards reports[^key-343a1425c51530625220b210b2a02b79]
+## 21. Duties of executive as regards reports[^c-343a1425c51530625220b210b2a02b79]
 
 (1) After section 115A of the 1988 Finance Act[^f00048], there shall be inserted—
 
@@ -406,7 +406,7 @@ In section 111 of the 1988 Finance Act[^f00045] (interpretation), after subsecti
 
   .
 
-## 22. Politically restricted posts[^key-cc44cc82ca46a8adbe60061e83bfeffb]
+## 22. Politically restricted posts[^c-cc44cc82ca46a8adbe60061e83bfeffb]
 
 In subsection (3)(a) of section 2 of the 1989 Act[^f00049] (politically restricted posts), after “are represented”, there shall be inserted—
 
@@ -414,7 +414,7 @@ In subsection (3)(a) of section 2 of the 1989 Act[^f00049] (politically restrict
 
 .
 
-## 23. Designation and reports of monitoring officer[^key-b7b757b9ced537f24e6c429c1cf63cc2]
+## 23. Designation and reports of monitoring officer[^c-b7b757b9ced537f24e6c429c1cf63cc2]
 
 (1) In section 5 of the 1989 Act[^f00050] (designation and reports of monitoring officer)—
 
@@ -468,7 +468,7 @@ In subsection (3)(a) of section 2 of the 1989 Act[^f00049] (politically restrict
 
 .
 
-## 24. Assistants for political groups[^key-e8e07e0de1df8ad391479ff7f1bfefca]
+## 24. Assistants for political groups[^c-e8e07e0de1df8ad391479ff7f1bfefca]
 
 In section 9 of the 1989 Act[^f00052] (assistants for political groups)—
 
@@ -497,7 +497,7 @@ In section 9 of the 1989 Act[^f00052] (assistants for political groups)—
 
   .
 
-## 25. Interpretation of Part I of the 1989 Act[^key-986a5b274085a79247c3216c9df837af]
+## 25. Interpretation of Part I of the 1989 Act[^c-986a5b274085a79247c3216c9df837af]
 
 In section 21 of the 1989 Act[^f00056]—
 
@@ -508,7 +508,7 @@ In section 21 of the 1989 Act[^f00056]—
   ; and
 - (b) in subsection (4), after “or otherwise)”, there shall be inserted “or a member of any executive of the authority (other than a council manager)”.
 
-## 26. Companies in which local authorities have interests[^key-40961c0f8d797e67e457896c258aeed1]
+## 26. Companies in which local authorities have interests[^c-40961c0f8d797e67e457896c258aeed1]
 
 (1) In subsection (5) of section 71 of the 1989 Act[^f00057] (control of minority interests etc. in certain companies), after “or sub-committee thereof),”, there shall be inserted—
 
@@ -522,7 +522,7 @@ In section 21 of the 1989 Act[^f00056]—
 
 .
 
-## 27. Performance of sewerage undertaker’s functions by local authorities etc.[^key-c6ab19ed43814345206e520681f3d04d]
+## 27. Performance of sewerage undertaker’s functions by local authorities etc.[^c-c6ab19ed43814345206e520681f3d04d]
 
 In section 97 of the Water Industry Act 1991 (performance of sewerage undertaker’s functions by local authorities etc.)—
 
@@ -542,7 +542,7 @@ In section 97 of the Water Industry Act 1991 (performance of sewerage undertaker
 
   .
 
-## 28. Council tax and community charges: restrictions on voting[^key-8f323078cf657f4999f9db9d7b42dce5]
+## 28. Council tax and community charges: restrictions on voting[^c-8f323078cf657f4999f9db9d7b42dce5]
 
 (1) In section 106 of the Local Government Finance Act 1992 (council tax and community charges: restrictions on voting)—
 
@@ -562,7 +562,7 @@ In section 97 of the Water Industry Act 1991 (performance of sewerage undertaker
 
 .
 
-## 29. Functions of local authorities[^key-f261b7e67f7d322ed9577bf4b81c959b]
+## 29. Functions of local authorities[^c-f261b7e67f7d322ed9577bf4b81c959b]
 
 In section 70 of the Deregulation and Contracting Out Act 1994[^f00058] (functions of local authorities)—
 
@@ -588,7 +588,7 @@ In section 70 of the Deregulation and Contracting Out Act 1994[^f00058] (functio
 
   .
 
-## 30. Right to time off for public duties[^key-a7d2a4b17394d14ebbaae05df3c16e0b]
+## 30. Right to time off for public duties[^c-a7d2a4b17394d14ebbaae05df3c16e0b]
 
 In section 50 of the Employment Rights Act 1996 (right to time off for public duties),
 
@@ -607,19 +607,19 @@ In section 50 of the Employment Rights Act 1996 (right to time off for public du
 
   .
 
-## 31. Statements privileged subject to explanation or contradiction[^key-f95546c0edce7b3dfaa44fe99a855b0e]
+## 31. Statements privileged subject to explanation or contradiction[^c-f95546c0edce7b3dfaa44fe99a855b0e]
 
 In Schedule 1 to the Defamation Act 1996 (statements privileged subject to explanation or contradiction)—
 
-- (a)[^key-77dc2a14b3d9ed599f481ea2cc562839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-77dc2a14b3d9ed599f481ea2cc562839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after sub-paragraph (1) of paragraph 11, there shall be inserted—
 
   > (1A) In the case of a local authority which are operating executive arrangements, a fair and accurate record of any decision made by any member of the executive where that record is required to be made and available for public inspection by virtue of section 22 of the Local Government Act 2000 or of any provision in regulations made under that section.
 
   ; and
-- (c)[^key-34b041fcbeede71457e97b514c7036c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-34b041fcbeede71457e97b514c7036c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 32. Pupil referral units[^key-3d39b8f101472ba99cf01cc88b31961f]
+## 32. Pupil referral units[^c-3d39b8f101472ba99cf01cc88b31961f]
 
 In Schedule 1 to the Education Act 1996 (pupil referral units)—
 
@@ -640,7 +640,7 @@ In Schedule 1 to the Education Act 1996 (pupil referral units)—
 
   .
 
-## 33. Disqualification in certain cases of justices who are members of local authorities[^key-0d86bc1a850704799199d3f4d4aa3305]
+## 33. Disqualification in certain cases of justices who are members of local authorities[^c-0d86bc1a850704799199d3f4d4aa3305]
 
 In subsection (1) of section 66 of the Justices of the Peace Act 1997 (disqualification in certain cases of justices who are members of local authorities)—
 
@@ -651,7 +651,7 @@ In subsection (1) of section 66 of the Justices of the Peace Act 1997 (disqualif
 
   .
 
-## 34. Transfer or delegation of functions relating to student support[^key-d7339f87239f89b479de637e224d64c6]
+## 34. Transfer or delegation of functions relating to student support[^c-d7339f87239f89b479de637e224d64c6]
 
 In section 23 of the Teaching and Higher Education Act 1998 (transfer or delegation of functions relating to student support)—
 
@@ -672,7 +672,7 @@ In section 23 of the Teaching and Higher Education Act 1998 (transfer or delegat
 
   .
 
-## 35. Disqualification from being the Mayor or an Assembly member[^key-68e22b886952efbb6c6b5a6b67c9b2de]
+## 35. Disqualification from being the Mayor or an Assembly member[^c-68e22b886952efbb6c6b5a6b67c9b2de]
 
 In section 21 of the Greater London Authority Act 1999 (disqualification from being the Mayor or an Assembly member)—
 
@@ -688,7 +688,7 @@ In section 21 of the Greater London Authority Act 1999 (disqualification from be
 
   .
 
-## 36. Delegation[^key-8512d9b9c5fc78111ccc89fbd6189ea9]
+## 36. Delegation[^c-8512d9b9c5fc78111ccc89fbd6189ea9]
 
 In section 38 of the Greater London Authority Act 1999 (delegation)—
 
@@ -710,7 +710,7 @@ In section 38 of the Greater London Authority Act 1999 (delegation)—
 
   .
 
-## 37. Delegation of Authority’s functions[^key-a0d0132e9f96bd714da4ba4d361f2619]
+## 37. Delegation of Authority’s functions[^c-a0d0132e9f96bd714da4ba4d361f2619]
 
 In section 380 of the Greater London Authority Act 1999 (delegation of Authority’s functions)—
 
@@ -732,11 +732,11 @@ In section 380 of the Greater London Authority Act 1999 (delegation of Authority
 
   .
 
-## 38. Power to order parent or guardian to pay fine, costs or compensation[^key-ccbd5fe1e9dd2beda13a873c5ed5003e]
+## 38. Power to order parent or guardian to pay fine, costs or compensation[^c-ccbd5fe1e9dd2beda13a873c5ed5003e]
 
 In section 137 of the Powers of Criminal Courts (Sentencing) Act 2000 (power to order parent or guardian to pay fine, costs or compensation) in subsection (8)(b), for “stand referred to their social services committees under” there shall be substituted “are social services functions within the meaning of”.
 
-## 39. Adoption panels[^key-19bc1d79ea49cbafac7017c4d5ab97d6]
+## 39. Adoption panels[^c-19bc1d79ea49cbafac7017c4d5ab97d6]
 
 In regulation 5 of the Adoption Agencies Regulations 1983[^f00062] (establishment of adoption panel and appointment of members), after paragraph (6), there shall be added—
 
@@ -752,19 +752,19 @@ In regulation 5 of the Adoption Agencies Regulations 1983[^f00062] (establishmen
 
 .
 
-## 40. Independent visitors[^key-412a2e7d9af23438e8b6bad353a99f2d]
+## 40. Independent visitors[^c-412a2e7d9af23438e8b6bad353a99f2d]
 
 In regulation 2 of the Definition of Independent Visitors (Children) Regulations 1991[^f00064] (independent visitors), in sub-paragraph (i) of paragraph (a), after “elected or co-opted”, there shall be inserted “, or a council manager of the local authority (within the meaning of section 11(4)(b) of the Local Government Act 2000 (local authority executives))”.
 
-## 41. Applications to court[^key-7a21b30357698e9fa6f1ac563971306c]
+## 41. Applications to court[^c-7a21b30357698e9fa6f1ac563971306c]
 
 In regulation 8 of the Children (Secure Accommodation) Regulations 1991[^f00065] (applications to court), after “Local Government Act 1972”, there shall be inserted “or to provisions in or under sections 14 to 20 of the Local Government Act 2000”.
 
-## 42. Information from public bodies[^key-ee07b588a136e3eeb76b36e8b7e1592e]
+## 42. Information from public bodies[^c-ee07b588a136e3eeb76b36e8b7e1592e]
 
 In regulation 4 of the Council Tax (Administration and Enforcement) Regulations 1992[^f00066] (information from public bodies), in sub-paragraph (a) of paragraph (3), after “by a committee”, there shall be inserted “, any executive (within the meaning of Part II of the Local Government Act 2000), a committee of any executive or a member of any executive,”.
 
-## 43. Special educational needs—approval of independent schools[^key-22ea54df3b7720bce3153c4f7c61d018]
+## 43. Special educational needs—approval of independent schools[^c-22ea54df3b7720bce3153c4f7c61d018]
 
 In regulation 2(1) of the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^f00067] (interpretation)—
 
@@ -775,7 +775,7 @@ In regulation 2(1) of the Education (Special Educational Needs) (Approval of Ind
   ; and
 - (b) in the definition of “local authority”, for “acting in the discharge of their functions under any of the enactments specified in Schedule 1 to the Local Authority Social Services Act 1970 (enactments conferring functions assigned to the social services committee)”, there shall be substituted “which is, or whose executive (if any) is, responsible for exercising social services functions within the meaning of section 1A of the Local Authority Social Services Act 1970[^f00068] (meaning of “social services functions”)”.
 
-## 44. NHS bodies and local authorities partnership arrangements[^key-61cde9231eb0e363ee115587d4c91f9d]
+## 44. NHS bodies and local authorities partnership arrangements[^c-61cde9231eb0e363ee115587d4c91f9d]
 
 In regulation 10 of the NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00069] (supplementary)—
 
@@ -790,7 +790,7 @@ In regulation 10 of the NHS Bodies and Local Authorities Partnership Arrangement
 
   .
 
-## 45. Disability of members of authorities for voting on account of prejudicial interests[^key-1a56e3a0f2a0bef1d144fb84ecd0ae2d]
+## 45. Disability of members of authorities for voting on account of prejudicial interests[^c-1a56e3a0f2a0bef1d144fb84ecd0ae2d]
 
 (1) Where a local authority are operating either executive arrangements or alternative arrangements, the provisions in this article shall apply.
 
@@ -822,7 +822,7 @@ In regulation 10 of the NHS Bodies and Local Authorities Partnership Arrangement
 
 (9) The provisions in this article shall cease to have effect with respect to a local authority as soon as that local authority adopt a code of conduct within the meaning of Part III of the Local Government Act 2000 (conduct of local government members and employees).
 
-## 46. Members of the executive[^key-90a57afe9dae84dfb5ac7cbad5969b50]
+## 46. Members of the executive[^c-90a57afe9dae84dfb5ac7cbad5969b50]
 
 (1) Where a member of an executive of a local authority ceases to be a councillor, in the case of a mayor and cabinet executive or leader and cabinet executive, he shall at the same time cease to be a member of the executive.
 
@@ -841,7 +841,7 @@ In regulation 10 of the NHS Bodies and Local Authorities Partnership Arrangement
 - (a) appoint to the executive the number of councillors so determined; and
 - (b) where a councillor ceases to be a member of the executive before the end of the term of office of the executive leader, appoint another councillor to the executive to replace him.
 
-## 47. Mayor and cabinet executives[^key-612c99a4b0ba6260b56c262e6e258916]
+## 47. Mayor and cabinet executives[^c-612c99a4b0ba6260b56c262e6e258916]
 
 (1) The provisions in this article apply in relation to executive arrangements by a local authority which involve a mayor and cabinet executive.
 
@@ -962,7 +962,7 @@ Regulation 4 of the Council Tax (Administration and Enforcement) Regulations 199
 
 [^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-7ed765e026bba46aecd3faec6c20aea9]: Commencement: Art. 1 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-7ed765e026bba46aecd3faec6c20aea9]: Commencement: Art. 1 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00002]: Footnote: For the application of sections 47 and 105 of the Local Government Act 2000 to Wales, *see* section 106(1) of that Act.
 
@@ -972,7 +972,7 @@ Regulation 4 of the Council Tax (Administration and Enforcement) Regulations 199
 
 [^f00005]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-8cfa091e1528e856b3706b400de8f9e9]: Commencement: Art. 2 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-8cfa091e1528e856b3706b400de8f9e9]: Commencement: Art. 2 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00006]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -1024,91 +1024,91 @@ Regulation 4 of the Council Tax (Administration and Enforcement) Regulations 199
 
 [^f00030]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617).
 
-[^key-66e59b0ddf61a376f9fc50fb680b6825]: Commencement: Art. 3 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-66e59b0ddf61a376f9fc50fb680b6825]: Commencement: Art. 3 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00031]: Footnote: Section 70 was amended by paragraph 1 of Schedule 14 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), paragraph 41 of Schedule 12 and Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40) and paragraph 14 of Schedule 29 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-2ebd4582ef250d5a9ba7c8cc29b8fe59]: Commencement: Art. 4 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-2ebd4582ef250d5a9ba7c8cc29b8fe59]: Commencement: Art. 4 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00032]: Footnote: Section 79 was amended by regulation 3 of the Local Government Elections (Changes to the Franchise and Qualification of Members) Regulations 1995 ([S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948)). There are other amendments to section 79 which are not relevant to this Order.
 
-[^key-9ed731b807194aa6c230190ccd8ba52c]: Commencement: Art. 5 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-9ed731b807194aa6c230190ccd8ba52c]: Commencement: Art. 5 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00033]: Footnote: Section 80(1) was amended by paragraph 5 of Schedule 5 and Part IV of Schedule 6 to the Local Government Finance Act [1982 (c. 32)](https://www.legislation.gov.uk/ukpga/1982/32), paragraph 12 of Schedule 8 to the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), section 1(3) of the 1989 Act, paragraph 10 of Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraph 3 of Schedule 3 to the Audit Commission Act [1998 (c. 18)](https://www.legislation.gov.uk/ukpga/1998/18) and paragraph 8 of Schedule 3 and paragraph 8 of Schedule 5 to the Local Government Act 2000.
 
-[^key-e7e55c6058e7f44c19bccc2008eb55e4]: Commencement: Art. 6 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-e7e55c6058e7f44c19bccc2008eb55e4]: Commencement: Art. 6 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00034]: Footnote: Section 82(1) was amended by Schedule 14 to the Local Government Act 1985, Schedule 6 to the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4) and Schedule 13 to the Education Reform Act 1988.
 
-[^key-db8a74b9027656d8e1b729c71689674d]: Commencement: Art. 7 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-db8a74b9027656d8e1b729c71689674d]: Commencement: Art. 7 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00035]: Footnote: Subsection (3A) of section 85 was inserted by paragraph 9 of Schedule 5 to the Local Government Act 2000. There are other amendments to section 85 which are not relevant to this Order.
 
-[^key-87faf302f11333ee875e3007299a5f6e]: Commencement: Art. 8 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-87faf302f11333ee875e3007299a5f6e]: Commencement: Art. 8 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00036]: Footnote: Section 116 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-28825d8b88a48347f5c004bff6331f40]: Commencement: Art. 9 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-28825d8b88a48347f5c004bff6331f40]: Commencement: Art. 9 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00037]: Footnote: Section 270 was amended by paragraph 12 of Schedule 3 to the Local Government Act 2000. There are other amendments to section 270 which are not relevant to this Order.
 
-[^key-b9167f764d1537dd0987154bd9efdc23]: Commencement: Art. 10 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-b9167f764d1537dd0987154bd9efdc23]: Commencement: Art. 10 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00038]: Footnote: Section 31A was inserted by section 28(1) of the Local Government and Housing Act 1989.
 
-[^key-40e1ab2105538a3d06951851fd9bcfa1]: Commencement: Art. 11 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-40e1ab2105538a3d06951851fd9bcfa1]: Commencement: Art. 11 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00039]: Footnote: *See* the Local Authorities (Executive Arrangements) (Access to Information) (England) Regulations 2000 ([S.I. 2000/3272](https://www.legislation.gov.uk/uksi/2000/3272)).
 
-[^key-616004a5254a3efae91c2978b1efe9ea]: Commencement: Art. 12 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-616004a5254a3efae91c2978b1efe9ea]: Commencement: Art. 12 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-f4fb5ee5d317253527a6eb37296e0e50]: Commencement: Art. 13 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-f4fb5ee5d317253527a6eb37296e0e50]: Commencement: Art. 13 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00040]: Footnote: Subsection (3A) of section 74 of the Transport Act 1985 was inserted by section 161 of the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-e9a8683a7f138defc0fc6a93417c8812]: Commencement: Art. 14 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-e9a8683a7f138defc0fc6a93417c8812]: Commencement: Art. 14 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00041]: Footnote: *See* the Local Authorities (Arrangements for the Discharge of Functions) (England) Regulations 2000 ([S.I. 2000/2851](https://www.legislation.gov.uk/uksi/2000/2851)).
 
-[^key-08443daab1fe50abd32699422563b6cb]: Commencement: Art. 15 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-08443daab1fe50abd32699422563b6cb]: Commencement: Art. 15 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00042]: Footnote: There are amendments to section 6 which are not relevant to this Order.
 
 [^f00043]: Footnote: *See* the Local Authorities (Executive Arrangements) (Access to Information) (England) Regulations 2000 ([S.I. 2000/3272](https://www.legislation.gov.uk/uksi/2000/3272)).
 
-[^key-54d661f244d7a0d51e57851547b6ae52]: Commencement: Art. 16 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-54d661f244d7a0d51e57851547b6ae52]: Commencement: Art. 16 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-b5f4e02f3a333b2544b11adc5f417ea7]: Commencement: Art. 17 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-b5f4e02f3a333b2544b11adc5f417ea7]: Commencement: Art. 17 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-867fc88f1d0f12326bc8f8e9014370c8]: Commencement: Art. 18 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-867fc88f1d0f12326bc8f8e9014370c8]: Commencement: Art. 18 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00044]: Footnote: There are amendments to Schedule 2 which are not relevant to this Order.
 
-[^key-ef1fbacc2268d9b606c1da08442abac5]: Commencement: Art. 19 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-ef1fbacc2268d9b606c1da08442abac5]: Commencement: Art. 19 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00045]: Footnote: There are amendments to section 111 which are not relevant to this Order.
 
-[^key-dd4a0372b33b86fcc85dcc3e19635a8f]: Commencement: Art. 20 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-dd4a0372b33b86fcc85dcc3e19635a8f]: Commencement: Art. 20 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00046]: Footnote: Section 114 was amended by paragraphs 1 and 66 of Schedule 5 to the 1989 Act and section 130 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29). There are other amendments to section 114 which are not relevant to this Order.
 
 [^f00047]: Footnote: Section 5A is inserted by article 23(2) of this Order.
 
-[^key-343a1425c51530625220b210b2a02b79]: Commencement: Art. 21 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-343a1425c51530625220b210b2a02b79]: Commencement: Art. 21 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00048]: Footnote: Section 115A was inserted by section 131 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-cc44cc82ca46a8adbe60061e83bfeffb]: Commencement: Art. 22 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-cc44cc82ca46a8adbe60061e83bfeffb]: Commencement: Art. 22 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00049]: Footnote: There are amendments to section 2 which are not relevant to this Order.
 
-[^key-b7b757b9ced537f24e6c429c1cf63cc2]: Commencement: Art. 23 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-b7b757b9ced537f24e6c429c1cf63cc2]: Commencement: Art. 23 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00050]: Footnote: Section 5 was amended by paragraph 35 of Schedule 4 to the Police and Magistrates' Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29) and is to be amended by paragraph 24 of Schedule 5 to the Local Government Act 2000 on 28th July 2001, or a date to be appointed, whichever is the earlier (see section 108 of the Local Government Act 2000). There are other amendments to section 5 which are not relevant to this Order.
 
 [^f00051]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-e8e07e0de1df8ad391479ff7f1bfefca]: Commencement: Art. 24 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-e8e07e0de1df8ad391479ff7f1bfefca]: Commencement: Art. 24 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00052]: Footnote: There are amendments to section 9 which are not relevant to this Order.
 
@@ -1118,19 +1118,19 @@ Regulation 4 of the Council Tax (Administration and Enforcement) Regulations 199
 
 [^f00055]: Footnote: *See* regulation 6 of the Local Authorities (Arrangements for the Discharge of Functions) (England) Regulations 2000, ([S.I. 2000/2851](https://www.legislation.gov.uk/uksi/2000/2851)).
 
-[^key-986a5b274085a79247c3216c9df837af]: Commencement: Art. 25 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-986a5b274085a79247c3216c9df837af]: Commencement: Art. 25 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00056]: Footnote: There are amendments to section 21 which are not relevant to this Order.
 
-[^key-40961c0f8d797e67e457896c258aeed1]: Commencement: Art. 26 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-40961c0f8d797e67e457896c258aeed1]: Commencement: Art. 26 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00057]: Footnote: Section 71 has been brought into force in part by [S.I. 1989/2445](https://www.legislation.gov.uk/uksi/1989/2445) and [1995/841](https://www.legislation.gov.uk/uksi/1995/841). Subsection (5) has been brought into force for the purposes of paragraph (a) only.
 
-[^key-c6ab19ed43814345206e520681f3d04d]: Commencement: Art. 27 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-c6ab19ed43814345206e520681f3d04d]: Commencement: Art. 27 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-8f323078cf657f4999f9db9d7b42dce5]: Commencement: Art. 28 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-8f323078cf657f4999f9db9d7b42dce5]: Commencement: Art. 28 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-f261b7e67f7d322ed9577bf4b81c959b]: Commencement: Art. 29 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-f261b7e67f7d322ed9577bf4b81c959b]: Commencement: Art. 29 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00058]: Footnote: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40). Section 70 was amended by section 40 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) and is to be amended by Part IX of Schedule 34 to that Act on a date to be appointed.
 
@@ -1138,62 +1138,62 @@ Regulation 4 of the Council Tax (Administration and Enforcement) Regulations 199
 
 [^f00060]: Footnote: *See* the Local Authorities (Arrangements for the Discharge of Functions) (England) Regulations 2000 ([S.I. 2000/2851](https://www.legislation.gov.uk/uksi/2000/2851)).
 
-[^key-a7d2a4b17394d14ebbaae05df3c16e0b]: Commencement: Art. 30 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-a7d2a4b17394d14ebbaae05df3c16e0b]: Commencement: Art. 30 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-f95546c0edce7b3dfaa44fe99a855b0e]: Commencement: Art. 31 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-f95546c0edce7b3dfaa44fe99a855b0e]: Commencement: Art. 31 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-77dc2a14b3d9ed599f481ea2cc562839]: Textual amendment: [Art. 31(a)](https://www.legislation.gov.uk/uksi/2001/2237/article/31/a) revoked (6.5.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments) (England) Order 2002 (S.I. 2002/1057)](https://www.legislation.gov.uk/uksi/2002/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1057/article/1/1), [15](https://www.legislation.gov.uk/uksi/2002/1057/article/15)
+[^c-77dc2a14b3d9ed599f481ea2cc562839]: Textual amendment: [Art. 31(a)](https://www.legislation.gov.uk/uksi/2001/2237/article/31/a) revoked (6.5.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments) (England) Order 2002 (S.I. 2002/1057)](https://www.legislation.gov.uk/uksi/2002/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1057/article/1/1), [15](https://www.legislation.gov.uk/uksi/2002/1057/article/15)
 
-[^key-34b041fcbeede71457e97b514c7036c2]: Textual amendment: [Art. 31(c)](https://www.legislation.gov.uk/uksi/2001/2237/article/31/c) revoked (6.5.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments) (England) Order 2002 (S.I. 2002/1057)](https://www.legislation.gov.uk/uksi/2002/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1057/article/1/1), [15](https://www.legislation.gov.uk/uksi/2002/1057/article/15)
+[^c-34b041fcbeede71457e97b514c7036c2]: Textual amendment: [Art. 31(c)](https://www.legislation.gov.uk/uksi/2001/2237/article/31/c) revoked (6.5.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments) (England) Order 2002 (S.I. 2002/1057)](https://www.legislation.gov.uk/uksi/2002/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1057/article/1/1), [15](https://www.legislation.gov.uk/uksi/2002/1057/article/15)
 
-[^key-3d39b8f101472ba99cf01cc88b31961f]: Commencement: Art. 32 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-3d39b8f101472ba99cf01cc88b31961f]: Commencement: Art. 32 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00061]: Footnote: Paragraph 15 was inserted by section 48 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-0d86bc1a850704799199d3f4d4aa3305]: Commencement: Art. 33 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-0d86bc1a850704799199d3f4d4aa3305]: Commencement: Art. 33 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-d7339f87239f89b479de637e224d64c6]: Commencement: Art. 34 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-d7339f87239f89b479de637e224d64c6]: Commencement: Art. 34 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-68e22b886952efbb6c6b5a6b67c9b2de]: Commencement: Art. 35 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-68e22b886952efbb6c6b5a6b67c9b2de]: Commencement: Art. 35 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-8512d9b9c5fc78111ccc89fbd6189ea9]: Commencement: Art. 36 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-8512d9b9c5fc78111ccc89fbd6189ea9]: Commencement: Art. 36 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-a0d0132e9f96bd714da4ba4d361f2619]: Commencement: Art. 37 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-a0d0132e9f96bd714da4ba4d361f2619]: Commencement: Art. 37 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-ccbd5fe1e9dd2beda13a873c5ed5003e]: Commencement: Art. 38 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-ccbd5fe1e9dd2beda13a873c5ed5003e]: Commencement: Art. 38 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-19bc1d79ea49cbafac7017c4d5ab97d6]: Commencement: Art. 39 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-19bc1d79ea49cbafac7017c4d5ab97d6]: Commencement: Art. 39 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00062]: Footnote: [S.I. 1983/1964](https://www.legislation.gov.uk/uksi/1983/1964). Regulation 5 was substituted by the Adoption Agencies and Children (Arrangements for Placement and Reviews) (Miscellaneous Amendments) Regulations 1997 ([S.I. 1997/649](https://www.legislation.gov.uk/uksi/1997/649)).
 
 [^f00063]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42). Section 1A was inserted by section 102(3) of the Local Government Act 2000.
 
-[^key-412a2e7d9af23438e8b6bad353a99f2d]: Commencement: Art. 40 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-412a2e7d9af23438e8b6bad353a99f2d]: Commencement: Art. 40 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00064]: Footnote: [S.I. 1991/892](https://www.legislation.gov.uk/uksi/1991/892).
 
-[^key-7a21b30357698e9fa6f1ac563971306c]: Commencement: Art. 41 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-7a21b30357698e9fa6f1ac563971306c]: Commencement: Art. 41 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00065]: Footnote: [S.I. 1991/1505](https://www.legislation.gov.uk/uksi/1991/1505).
 
-[^key-ee07b588a136e3eeb76b36e8b7e1592e]: Commencement: Art. 42 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-ee07b588a136e3eeb76b36e8b7e1592e]: Commencement: Art. 42 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00066]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613). Regulation 4 was substituted by the Council Tax (Administration and Enforcement) (Amendment) Regulations 1992 ([S.I. 1992/3008](https://www.legislation.gov.uk/uksi/1992/3008)).
 
-[^key-22ea54df3b7720bce3153c4f7c61d018]: Commencement: Art. 43 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-22ea54df3b7720bce3153c4f7c61d018]: Commencement: Art. 43 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00067]: Footnote: [S.I. 1994/651](https://www.legislation.gov.uk/uksi/1994/651). There are amendments to regulation 2 which are not relevant to this Order.
 
 [^f00068]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42). Section 1A was inserted by section 102(3) of the Local Government Act 2000.
 
-[^key-61cde9231eb0e363ee115587d4c91f9d]: Commencement: Art. 44 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-61cde9231eb0e363ee115587d4c91f9d]: Commencement: Art. 44 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00069]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617).
 
-[^key-1a56e3a0f2a0bef1d144fb84ecd0ae2d]: Commencement: Art. 45 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-1a56e3a0f2a0bef1d144fb84ecd0ae2d]: Commencement: Art. 45 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
-[^key-90a57afe9dae84dfb5ac7cbad5969b50]: Commencement: Art. 46 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-90a57afe9dae84dfb5ac7cbad5969b50]: Commencement: Art. 46 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
 
 [^f00070]: Footnote: *See* paragraph 2(3)(a) of Schedule 1 to the Local Government Act 2000.
 
-[^key-612c99a4b0ba6260b56c262e6e258916]: Commencement: Art. 47 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)
+[^c-612c99a4b0ba6260b56c262e6e258916]: Commencement: Art. 47 in force at 11.7.2001, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2001/2237/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Powers of entry, inspection etc.[^key-e588523e4710a5d1dea485a740248713]
+## 29. Powers of entry, inspection etc.[^c-e588523e4710a5d1dea485a740248713]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ as the enforcing authority may reasonably require.
 
 ## Annotations
 
-[^key-e588523e4710a5d1dea485a740248713]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2017/282/regulation/29) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-e588523e4710a5d1dea485a740248713]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2017/282/regulation/29) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

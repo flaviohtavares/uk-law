@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. The form of notices and other documents[^key-626933899de340935824ff892299742e]
+## 161. The form of notices and other documents[^c-626933899de340935824ff892299742e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to any order of the court, any notice or other document required to be g
 
 ## Annotations
 
-[^key-626933899de340935824ff892299742e]: Commencement: [Rule 161](https://www.legislation.gov.uk/uksi/2013/3208/rule/161) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-626933899de340935824ff892299742e]: Commencement: [Rule 161](https://www.legislation.gov.uk/uksi/2013/3208/rule/161) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -50,15 +50,15 @@ arising from the withdrawal of the United Kingdom from the EU.
 
 (2) See paragraphs 8 to 11 for the meaning of “**devolved competence**” for the purposes of this Part.
 
-#### ...[^key-7dd86d39c0891f97bd59c38807f69116]
+#### ...[^c-7dd86d39c0891f97bd59c38807f69116]
 
-**3.**[^key-7dd86d39c0891f97bd59c38807f69116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7dd86d39c0891f97bd59c38807f69116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Requirement for consultation in certain circumstances
 
 **4.** No regulations may be made under this Part by a devolved authority acting alone so far as the regulations—
 
-- (a) are to come into force before IP completion day[^key-8db667e8776e370cf9702193e7afc425], or
+- (a) are to come into force before IP completion day[^c-8db667e8776e370cf9702193e7afc425], or
 - (b) remove (whether wholly or partly) reciprocal arrangements of the kind mentioned in section 8(2)(c) or (e),
 
 unless the regulations are, to that extent, made after consulting with the Secretary of State.
@@ -141,13 +141,13 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 **8.** (1) A provision is within the devolved competence of the Scottish Ministers for the purposes of this Part if—
 
-- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^key-62e47c94c0c3d67f96fabdbb61a9a156]..., or
+- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^c-62e47c94c0c3d67f96fabdbb61a9a156]..., or
 - (b) it meets the conditions in sub-paragraph (2).
 
 (2) The conditions are—
 
 - (a) the provision—
-  - (i) amends or revokes subordinate legislation made before IP completion day[^key-12ce8890ada1b4131615ab0677659041] by the Scottish Ministers, the First Minister or the Lord Advocate acting alone, or
+  - (i) amends or revokes subordinate legislation made before IP completion day[^c-12ce8890ada1b4131615ab0677659041] by the Scottish Ministers, the First Minister or the Lord Advocate acting alone, or
   - (ii) makes supplementary, incidental, consequential, transitional, transitory or saving provision in connection with any such amendment or revocation,
 - (b) the subject-matter of the provision does not go beyond the subject-matter of the subordinate legislation concerned,
 - (c) the provision only forms part of the law of Scotland,
@@ -156,13 +156,13 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 **9.** (1) A provision is within the devolved competence of the Welsh Ministers for the purposes of this Part if—
 
-- (a) it would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of the Assembly ([^key-015b31c4b79b9c398b430226ba04d6e3]... including any provision that could be made only with the consent of a Minister of the Crown), or
+- (a) it would be within the legislative competence of the National Assembly for Wales if it were contained in an Act of the Assembly ([^c-015b31c4b79b9c398b430226ba04d6e3]... including any provision that could be made only with the consent of a Minister of the Crown), or
 - (b) it meets the conditions in sub-paragraph (2).
 
 (2) The conditions are—
 
 - (a) the provision—
-  - (i) amends or revokes subordinate legislation made before IP completion day[^key-1e812d39eecb98154ee1f07b52870681] by the Welsh Ministers acting alone or the National Assembly for Wales constituted by the Government of Wales Act 1998, or
+  - (i) amends or revokes subordinate legislation made before IP completion day[^c-1e812d39eecb98154ee1f07b52870681] by the Welsh Ministers acting alone or the National Assembly for Wales constituted by the Government of Wales Act 1998, or
   - (ii) makes supplementary, incidental, consequential, transitional, transitory or saving provision in connection with any such amendment or revocation,
 - (b) the subject-matter of the provision does not go beyond the subject-matter of the subordinate legislation concerned,
 - (c) the provision only forms part of the law of England and Wales,
@@ -172,17 +172,17 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 **10.** (1) A provision is within the devolved competence of a Northern Ireland department for the purposes of this Part if—
 
 - (a) the provision, if it were contained in an Act of the Northern Ireland Assembly—
-  - (i) would be within the legislative competence of the Assembly, [^key-757517920cb801b0840518f0cba21735]..., and
+  - (i) would be within the legislative competence of the Assembly, [^c-757517920cb801b0840518f0cba21735]..., and
   - (ii) would not require the consent of the Secretary of State,
 - (b) the provision—
   - (i) amends or repeals Northern Ireland legislation, and
-  - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^key-cb30aec15f21e09abbf29e72f8b86aa5]... and require the consent of the Secretary of State, or
+  - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^c-cb30aec15f21e09abbf29e72f8b86aa5]... and require the consent of the Secretary of State, or
 - (c) the provision meets the conditions in sub-paragraph (2).
 
 (2) The conditions are—
 
 - (a) the provision—
-  - (i) amends or revokes subordinate legislation made before IP completion day[^key-d6336407febc94ab625c50132d28f9cc] by a Northern Ireland devolved authority acting alone, or
+  - (i) amends or revokes subordinate legislation made before IP completion day[^c-d6336407febc94ab625c50132d28f9cc] by a Northern Ireland devolved authority acting alone, or
   - (ii) makes supplementary, incidental, consequential, transitional, transitory or saving provision in connection with any such amendment or revocation,
 - (b) the subject-matter of the provision does not go beyond the subject-matter of the subordinate legislation concerned,
 - (c) the provision only forms part of the law of Northern Ireland,
@@ -192,7 +192,7 @@ unless the regulations are, to that extent, made jointly with the Minister of th
 
 **11.** References in paragraphs 8 to 10, in connection with the making of regulations under this Part, to the subject-matter of any provision or subordinate legislation are to be read as references to the subject-matter of the provision or subordinate legislation when the regulations concerned are made.
 
-### PART 1A — Provision in connection with implementation period[^key-e3ca2fd0533b0dc18d054b3c83674eeb]
+### PART 1A — Provision in connection with implementation period[^c-e3ca2fd0533b0dc18d054b3c83674eeb]
 
 #### 11A. Supplementary power in connection with implementation period
 
@@ -250,7 +250,7 @@ A provision is within the devolved competence of the Scottish Ministers for the 
   - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly (ignoring, in the case of regulations made under this Part before exit day, section 6(2)(d) of the Northern Ireland Act 1998 so far as relating to EU law) and require the consent of the Secretary of State, or
 - (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone (ignoring, in the case of regulations made under this Part before exit day, section 24(1)(b) of the Northern Ireland Act 1998).
 
-### PART 1B — Provision in connection with certain other separation issues[^key-0abfbe867c9bcc9d7ea6993a4b36db11]
+### PART 1B — Provision in connection with certain other separation issues[^c-0abfbe867c9bcc9d7ea6993a4b36db11]
 
 #### 11G. Powers in connection with Part 3 of withdrawal agreement and EEA EFTA separation agreement
 
@@ -312,8 +312,8 @@ Paragraphs 5 to 7 apply for the purposes of this Part as they apply for the purp
 
 A provision is within the devolved competence of the Scottish Ministers for the purposes of this Part if—
 
-- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^key-fef3be997920685f8b524c6da15cc935]..., or
-- (b) it is provision which could be made in other subordinate legislation by the Scottish Ministers, the First Minister or the Lord Advocate acting alone [^key-fcddaab1524197b652e8c5cd4f11baed]....
+- (a) it would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament [^c-fef3be997920685f8b524c6da15cc935]..., or
+- (b) it is provision which could be made in other subordinate legislation by the Scottish Ministers, the First Minister or the Lord Advocate acting alone [^c-fcddaab1524197b652e8c5cd4f11baed]....
 
 **11K.** A provision is within the devolved competence of the Welsh Ministers for the purposes of this Part if—
 
@@ -330,7 +330,7 @@ A provision is within the devolved competence of the Scottish Ministers for the 
   - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly [^M_F_8f539b0f-3ce0-41a2-9fed-23d7a5ab5437]... and require the consent of the Secretary of State, or
 - (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone [^M_F_3feb9d21-c4cd-4354-eeed-1171702a9d8b]....
 
-### PART 1C — Provision in connection with Protocol on Ireland/Northern Ireland[^key-7cf0e905800378954254b665a96029e8]
+### PART 1C — Provision in connection with Protocol on Ireland/Northern Ireland[^c-7cf0e905800378954254b665a96029e8]
 
 #### 11M. Power in connection with Protocol on Ireland/Northern Ireland
 
@@ -400,65 +400,65 @@ A provision is within the devolved competence of the Scottish Ministers for the 
   - (ii) would, if it were contained in an Act of the Northern Ireland Assembly, be within the legislative competence of the Assembly (ignoring section 6(2)(d) of the Northern Ireland Act 1998 so far as relating to EU law) and require the consent of the Secretary of State, or
 - (c) the provision is provision which could be made in other subordinate legislation by any Northern Ireland devolved authority acting alone (ignoring section 24(1)(b) of the Northern Ireland Act 1998).
 
-### Part 2 — Implementing the withdrawal agreement[^key-1725b54961ed2a59a55fd905b0b3208c]
+### Part 2 — Implementing the withdrawal agreement[^c-1725b54961ed2a59a55fd905b0b3208c]
 
 **No longer in force.**
 
-#### Power to implement withdrawal agreement[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### Power to implement withdrawal agreement[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**12.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### No power to make provision outside devolved competence[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### No power to make provision outside devolved competence[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**13.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### No power to modify retained direct EU legislation etc.[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### No power to modify retained direct EU legislation etc.[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**14.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Requirement for consultation in certain circumstances[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### Requirement for consultation in certain circumstances[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**15.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Certain requirements for consent, joint exercise or consultation[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### Certain requirements for consent, joint exercise or consultation[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**16.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of devolved competence: Part 2[^key-1725b54961ed2a59a55fd905b0b3208c]
+#### Meaning of devolved competence: Part 2[^c-1725b54961ed2a59a55fd905b0b3208c]
 
-**17.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1725b54961ed2a59a55fd905b0b3208c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dd86d39c0891f97bd59c38807f69116]: Textual amendment: [Sch. 2 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1/crossheading/no-power-to-modify-retained-direct-eu-legislation-or-confer-certain-functions) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/i)
+[^c-7dd86d39c0891f97bd59c38807f69116]: Textual amendment: [Sch. 2 para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1/crossheading/no-power-to-modify-retained-direct-eu-legislation-or-confer-certain-functions) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/i)
 
-[^key-8db667e8776e370cf9702193e7afc425]: Textual amendment: Words in Sch. 2 para. 4(a) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/a), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
+[^c-8db667e8776e370cf9702193e7afc425]: Textual amendment: Words in Sch. 2 para. 4(a) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/a), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
 
-[^key-62e47c94c0c3d67f96fabdbb61a9a156]: Textual amendment: Words in [Sch. 2 para. 8(1)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/8/1/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/ii)
+[^c-62e47c94c0c3d67f96fabdbb61a9a156]: Textual amendment: Words in [Sch. 2 para. 8(1)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/8/1/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/ii)
 
-[^key-12ce8890ada1b4131615ab0677659041]: Textual amendment: Words in Sch. 2 para. 8(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/b), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
+[^c-12ce8890ada1b4131615ab0677659041]: Textual amendment: Words in Sch. 2 para. 8(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/b), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
 
-[^key-015b31c4b79b9c398b430226ba04d6e3]: Textual amendment: Words in [Sch. 2 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/9/1/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iii)
+[^c-015b31c4b79b9c398b430226ba04d6e3]: Textual amendment: Words in [Sch. 2 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/9/1/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iii)
 
-[^key-1e812d39eecb98154ee1f07b52870681]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/c), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
+[^c-1e812d39eecb98154ee1f07b52870681]: Textual amendment: Words in Sch. 2 para. 9(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/c), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
 
-[^key-757517920cb801b0840518f0cba21735]: Textual amendment: Words in [Sch. 2 para. 10(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/10/1/a/i) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iv)
+[^c-757517920cb801b0840518f0cba21735]: Textual amendment: Words in [Sch. 2 para. 10(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/10/1/a/i) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iv)
 
-[^key-cb30aec15f21e09abbf29e72f8b86aa5]: Textual amendment: Words in [Sch. 2 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/10/1/b/ii) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iv)
+[^c-cb30aec15f21e09abbf29e72f8b86aa5]: Textual amendment: Words in [Sch. 2 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/10/1/b/ii) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/a/iv)
 
-[^key-d6336407febc94ab625c50132d28f9cc]: Textual amendment: Words in Sch. 2 para. 10(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(d)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/d), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
+[^c-d6336407febc94ab625c50132d28f9cc]: Textual amendment: Words in Sch. 2 para. 10(2)(a)(i) substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 27(7)(d)](https://www.legislation.gov.uk/ukpga/2020/1/section/27/7/d), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
 
-[^key-e3ca2fd0533b0dc18d054b3c83674eeb]: Textual amendment: Sch. 2 Pt. 1A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2020/1/section/4), [42(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/a) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-e3ca2fd0533b0dc18d054b3c83674eeb]: Textual amendment: Sch. 2 Pt. 1A inserted (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2020/1/section/4), [42(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/a) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
 
-[^key-0abfbe867c9bcc9d7ea6993a4b36db11]: Textual amendment: [Sch. 2 Pt. 1B](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1B) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 19](https://www.legislation.gov.uk/ukpga/2020/1/section/19), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/h)
+[^c-0abfbe867c9bcc9d7ea6993a4b36db11]: Textual amendment: [Sch. 2 Pt. 1B](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1B) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 19](https://www.legislation.gov.uk/ukpga/2020/1/section/19), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/h)
 
-[^key-fef3be997920685f8b524c6da15cc935]: Textual amendment: Words in [Sch. 2 Pt. 1B para. 11J(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11J/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/i/aa)
+[^c-fef3be997920685f8b524c6da15cc935]: Textual amendment: Words in [Sch. 2 Pt. 1B para. 11J(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11J/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/i/aa)
 
-[^key-fcddaab1524197b652e8c5cd4f11baed]: Textual amendment: Words in [Sch. 2 Pt. 1B para. 11J(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11J/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/i/bb)
+[^c-fcddaab1524197b652e8c5cd4f11baed]: Textual amendment: Words in [Sch. 2 Pt. 1B para. 11J(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/paragraph/11J/b) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/i/bb)
 
 [^M_F_42bd51be-8aec-4615-ab10-7d34dd63e84b]: Textual amendment: Words in Sch. 2 Pt. 1B para. 11K(a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/iii)
 
@@ -470,6 +470,6 @@ A provision is within the devolved competence of the Scottish Ministers for the 
 
 [^M_F_3feb9d21-c4cd-4354-eeed-1171702a9d8b]: Textual amendment: Words in Sch. 2 Pt. 1B para. 11L(c) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/357/regulation/6/3/b/iii)
 
-[^key-7cf0e905800378954254b665a96029e8]: Textual amendment: [Sch. 2 Pt. 1C](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1C) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 22](https://www.legislation.gov.uk/ukpga/2020/1/section/22), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/j)
+[^c-7cf0e905800378954254b665a96029e8]: Textual amendment: [Sch. 2 Pt. 1C](https://www.legislation.gov.uk/ukpga/2018/16/schedule/2/part/1C) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 22](https://www.legislation.gov.uk/ukpga/2020/1/section/22), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/j)
 
-[^key-1725b54961ed2a59a55fd905b0b3208c]: Textual amendment: Sch. 2 Pt. 2 repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(d)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/d), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))
+[^c-1725b54961ed2a59a55fd905b0b3208c]: Textual amendment: Sch. 2 Pt. 2 repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(d)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/d), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66))

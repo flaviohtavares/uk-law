@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Amendments[^key-4fdb623903806f67c81ef37d982e973f]
+## 42. Amendments[^c-4fdb623903806f67c81ef37d982e973f]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4fdb623903806f67c81ef37d982e973f]: Commencement: Reg. 42 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-4fdb623903806f67c81ef37d982e973f]: Commencement: Reg. 42 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00023]: Footnote: [S.R. 1994 No. 6](https://www.legislation.gov.uk/nisr/1994/6), to which there are amendments not relevant to these Regulations
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Meaning of “relevant offence” and “SEPA” in Part 3[^key-52107f27ec19adae6e6d526af41d03ff]
+## 53. Meaning of “relevant offence” and “SEPA” in Part 3[^c-52107f27ec19adae6e6d526af41d03ff]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-52107f27ec19adae6e6d526af41d03ff]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/3/section/53) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-52107f27ec19adae6e6d526af41d03ff]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/3/section/53) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

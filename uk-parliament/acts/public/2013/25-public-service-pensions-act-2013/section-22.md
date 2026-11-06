@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Procedure for protected elements[^key-77ef8741fd981f1a82a982f5cbe10ff5]
+## 22. Procedure for protected elements[^c-77ef8741fd981f1a82a982f5cbe10ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77ef8741fd981f1a82a982f5cbe10ff5]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/25/section/22) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/433/article/2/h)
+[^c-77ef8741fd981f1a82a982f5cbe10ff5]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/25/section/22) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(h)](https://www.legislation.gov.uk/uksi/2014/433/article/2/h)

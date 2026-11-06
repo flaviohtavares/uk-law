@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Carry over of disputes relating to out of hours arrangements between default and general medical services contracts[^key-b6e95e49fbd8f7de35e1c7a216cdf70f]
+## 69. Carry over of disputes relating to out of hours arrangements between default and general medical services contracts[^c-b6e95e49fbd8f7de35e1c7a216cdf70f]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ paragraph (2) shall apply.
 
 ## Annotations
 
-[^key-b6e95e49fbd8f7de35e1c7a216cdf70f]: Commencement: Art. 69 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-b6e95e49fbd8f7de35e1c7a216cdf70f]: Commencement: Art. 69 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

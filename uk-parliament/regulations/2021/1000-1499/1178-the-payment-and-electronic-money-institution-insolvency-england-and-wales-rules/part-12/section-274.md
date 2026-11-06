@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 274. Information to be contained in all notifications to the registrar of companies[^key-a8b9381259f28e5ae556c90350eff020]
+## 274. Information to be contained in all notifications to the registrar of companies[^c-a8b9381259f28e5ae556c90350eff020]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8b9381259f28e5ae556c90350eff020]: Commencement: Rule 274 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-a8b9381259f28e5ae556c90350eff020]: Commencement: Rule 274 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

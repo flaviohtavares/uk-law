@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Provision of information upon request[^key-e49fdd2f48e7c1cbf66f76b465f0b53b]
+## 105. Provision of information upon request[^c-e49fdd2f48e7c1cbf66f76b465f0b53b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e49fdd2f48e7c1cbf66f76b465f0b53b]: Commencement: [S. 105](https://www.legislation.gov.uk/anaw/2014/7/section/105) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/380/article/2/c)
+[^c-e49fdd2f48e7c1cbf66f76b465f0b53b]: Commencement: [S. 105](https://www.legislation.gov.uk/anaw/2014/7/section/105) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/380/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Grant of a spaceport licence: prescribed criteria for horizontal spaceports[^key-b88e6dbf29af700afb1670593cfa915c]
+## 35. Grant of a spaceport licence: prescribed criteria for horizontal spaceports[^c-b88e6dbf29af700afb1670593cfa915c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b88e6dbf29af700afb1670593cfa915c]: Commencement: Reg. 35 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b88e6dbf29af700afb1670593cfa915c]: Commencement: Reg. 35 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00033]: Footnote: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36).

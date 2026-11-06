@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 206. Parliamentary control of orders and regulations[^key-dc8968134f8ca5bc4ed08d2b33fe39f1]
+## 206. Parliamentary control of orders and regulations[^c-dc8968134f8ca5bc4ed08d2b33fe39f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,9 +48,9 @@ summary: ''
 - (l) section 80(1) (order establishing appellate body etc);
 - (m) section 106(1)(e) (power to prescribe bodies as bodies to which section 106 applies);
 - (n) section 109 (power to modify application of Part 5 to foreign bodies);
-- (na)[^key-2a1e2352ab7e50ce0c430def8ef3b9a6] section 111D (order to confer information powers on other approved regulators);
+- (na)[^c-2a1e2352ab7e50ce0c430def8ef3b9a6] section 111D (order to confer information powers on other approved regulators);
 - (o) section 173(5)(c) (power to prescribe persons as leviable bodies);
-- (oa)[^key-7de37ac0d607f1ea81e9a96564edf5c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (oa)[^c-7de37ac0d607f1ea81e9a96564edf5c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) section 207(5) (power to modify definition of “manager” in its application to foreign bodies);
 - (q) section 208(3) (power to make consequential provision etc by amending enactments);
 - (r) paragraph 9(1) of Schedule 3 (modification of exempt persons);
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8968134f8ca5bc4ed08d2b33fe39f1]: Modification: [S. 206](https://www.legislation.gov.uk/ukpga/2007/29/section/206) extended to S. and N.I. in accordance with the amending provision (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/5), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-dc8968134f8ca5bc4ed08d2b33fe39f1]: Modification: [S. 206](https://www.legislation.gov.uk/ukpga/2007/29/section/206) extended to S. and N.I. in accordance with the amending provision (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(5)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/5), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-2a1e2352ab7e50ce0c430def8ef3b9a6]: Textual amendment: [S. 206(4)(na)](https://www.legislation.gov.uk/ukpga/2007/29/section/206/4/na) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
+[^c-2a1e2352ab7e50ce0c430def8ef3b9a6]: Textual amendment: [S. 206(4)(na)](https://www.legislation.gov.uk/ukpga/2007/29/section/206/4/na) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 210(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/210/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
 
-[^key-7de37ac0d607f1ea81e9a96564edf5c5]: Textual amendment: S. 206(4)(oa) omitted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(8)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/8)
+[^c-7de37ac0d607f1ea81e9a96564edf5c5]: Textual amendment: S. 206(4)(oa) omitted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(8)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/8)

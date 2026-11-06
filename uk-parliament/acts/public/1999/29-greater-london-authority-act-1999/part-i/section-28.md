@@ -32,7 +32,7 @@ summary: ''
 - (a) two members of the Assembly;
 - (b) the proper officer of the Authority;
 - (c) a justice of the peace or magistrate in the United Kingdom, the Channel Islands or the Isle of Man; or
-- (d) a commissioner appointed to administer oaths in the Senior Courts[^key-9235f3dec1854d447e361e53ebdccd11].
+- (d) a commissioner appointed to administer oaths in the Senior Courts[^c-9235f3dec1854d447e361e53ebdccd11].
 
 (4) Any person before whom a declaration is authorised to be made under this section may take the declaration.
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c12800221]: Commencement: S. 28 wholly in force at 14.12.1999: by virtue of s. 425(2) the Act is in force at Royal Assent in regards to any powers of a Minister of the Crown to make regulations or an order; s. 28 in force at 14.12.1999 insofar as not already in force by [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^key-9235f3dec1854d447e361e53ebdccd11]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-9235f3dec1854d447e361e53ebdccd11]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

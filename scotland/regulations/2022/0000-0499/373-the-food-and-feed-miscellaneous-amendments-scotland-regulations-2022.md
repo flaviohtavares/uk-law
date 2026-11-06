@@ -53,7 +53,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-6337ff4369d7bb75b02ffeaf60a12668]
+### 1. Citation, commencement and extent[^c-6337ff4369d7bb75b02ffeaf60a12668]
 
 (1) These Regulations may be cited as the Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 and come into force on 9 February 2023.
 
@@ -61,25 +61,25 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 ## PART 2 — Amendment of feed additives authorisations legislation
 
-### 2. Amendment of Commission Implementing Regulation (EU) No. 787/2013[^key-16ea916ead550d1c2a12412530b03076]
+### 2. Amendment of Commission Implementing Regulation (EU) No. 787/2013[^c-16ea916ead550d1c2a12412530b03076]
 
 (1) Commission Implementing Regulation (EU) No. 787/2013 concerning the authorisation of a preparation of *Bacillus subtilis* (ATCC PTA-6737) as a feed additive for turkeys for fattening and turkeys reared for breeding (holder of authorisation Kemin Europa N.V.)[^f00004] is amended in accordance with this regulation.
 
 (2) In the Annex, in the table, in the column headed “Additive”, for “Bacillus velezensis” substitute “*Bacillus velezensis”*.
 
-### 3. Amendment of Commission Implementing Regulation (EU) 2015/1020[^key-3d5bda7de5708d46e8c1937d193dd18c]
+### 3. Amendment of Commission Implementing Regulation (EU) 2015/1020[^c-3d5bda7de5708d46e8c1937d193dd18c]
 
 (1) Commission Implementing Regulation (EU) 2015/1020 concerning the authorisation of the preparation of *Bacillus subtilis* (ATCC PTA-6737) as a feed additive for laying hens and minor poultry species for laying (holder of the authorisation Kemin Europa NV)[^f00005] is amended in accordance with this regulation.
 
 (2) In the Annex, in the table, in the column headed “Additive”, for “Bacillus velezensis” substitute “*Bacillus velezensis”*.
 
-### 4. Amendment of Commission Implementing Regulation (EU) 2017/2276[^key-f1921e5e6d573a5a093e513806bc9505]
+### 4. Amendment of Commission Implementing Regulation (EU) 2017/2276[^c-f1921e5e6d573a5a093e513806bc9505]
 
 (1) Commission Implementing Regulation (EU) 2017/2276 concerning the authorisation of a new use of the preparation of *Bacillus subtilis* (ATCC PTA-6737) as a feed additive for sows (holder of the authorisation Kemin Europa N.V.)[^f00006] is amended in accordance with this regulation.
 
 (2) In the Annex, in the table, in the column headed “Composition, chemical formula, description, analytical method”, for “B*acillus velezensis”* substitute “*Bacillus velezensis”*.
 
-### 5. Amendment of the Feed Additives (Authorisations) (Scotland) Regulations 2022[^key-9e3995c50fd59bf8a47461e4e68bb184]
+### 5. Amendment of the Feed Additives (Authorisations) (Scotland) Regulations 2022[^c-9e3995c50fd59bf8a47461e4e68bb184]
 
 (1) The Feed Additives (Authorisations) (Scotland) Regulations 2022[^f00007] are amended in accordance with this regulation.
 
@@ -89,29 +89,29 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 (4) In regulation 10(2) (transitional: Decoquinate (Deccox®) (identification number 51756i (formerly E756))) after ““**the prior authorisation**” means” insert “an authorisation contained in”.
 
-(5)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-bba8c74272d16b4029cb4a251d134a47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of miscellaneous food and feed legislation
 
-### 6. Amendment of the Animal Feed (Scotland) Regulations 2010[^key-04d6a485aa901d59e35c4de9befb2fa9]
+### 6. Amendment of the Animal Feed (Scotland) Regulations 2010[^c-04d6a485aa901d59e35c4de9befb2fa9]
 
 (1) The Animal Feed (Scotland) Regulations 2010[^f00012] are amended in accordance with this regulation.
 
@@ -157,7 +157,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 (6) Schedule 1 has effect.
 
-### 7. Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012[^key-6e282aac96609a40a0350f0dd8941520]
+### 7. Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012[^c-6e282aac96609a40a0350f0dd8941520]
 
 (1) The Materials and Articles in Contact with Food (Scotland) Regulations 2012[^f00014] are amended in accordance with this regulation.
 
@@ -181,7 +181,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 (5) Schedule 2 has effect.
 
-### 8. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^key-e989f759c4d7ce5ec84e19b5af99a3ec]
+### 8. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^c-e989f759c4d7ce5ec84e19b5af99a3ec]
 
 (1) The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^f00015] are amended in accordance with this regulation.
 
@@ -213,7 +213,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/200
 
 (9) Schedule 3 has effect.
 
-### 9. Amendment of the Food Information (Scotland) Regulations 2014[^key-a9871b441e76d239db36d0330f51d143]
+### 9. Amendment of the Food Information (Scotland) Regulations 2014[^c-a9871b441e76d239db36d0330f51d143]
 
 (1) The Food Information (Scotland) Regulations 2014[^f00016] are amended in accordance with this regulation.
 
@@ -236,7 +236,7 @@ Edinburgh
 
 Regulation 6(6)
 
-**1.**[^key-8c86bfd6e7e67dafb3004f12c1aa65b7] After schedule 2 (revocations) of the Animal Feed (Scotland) Regulations 2010 insert—
+**1.**[^c-8c86bfd6e7e67dafb3004f12c1aa65b7] After schedule 2 (revocations) of the Animal Feed (Scotland) Regulations 2010 insert—
 
 > **SCHEDULE 3 — Categories of feed materials which may be indicated in place of individual feed materials on the packaging, container or label of compound feedingstuffs for pet animals**
 >
@@ -862,7 +862,7 @@ Regulation 6(6)
 
 Regulation 7(5)
 
-**1.**[^key-d8f4b23947e912782fc458b7003b7715] After schedule 5 of the Materials and Articles in Contact with Food (Scotland) Regulations 2012 insert—
+**1.**[^c-d8f4b23947e912782fc458b7003b7715] After schedule 5 of the Materials and Articles in Contact with Food (Scotland) Regulations 2012 insert—
 
 > **SCHEDULE 6 — LIST OF SUBSTANCES AUTHORISED IN THE MANUFACTURE OF REGENERATED CELLULOSE FILM**
 >
@@ -1028,7 +1028,7 @@ Regulation 7(5)
 
 Regulation 8(9)
 
-**1.**[^key-9edc60ece14b3e3b144786a8c60ed94b] After schedule 5 the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 insert—
+**1.**[^c-9edc60ece14b3e3b144786a8c60ed94b] After schedule 5 the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 insert—
 
 > **SCHEDULE 6 — Extraction solvents which may be used during the processing of raw materials, of foodstuffs, of food components or of food ingredients**
 >
@@ -1139,45 +1139,45 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00003]: Footnote: EUR 178/2002 as amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641). [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-6337ff4369d7bb75b02ffeaf60a12668]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/373/regulation/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-6337ff4369d7bb75b02ffeaf60a12668]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/373/regulation/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
-[^key-16ea916ead550d1c2a12412530b03076]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/373/regulation/2) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-16ea916ead550d1c2a12412530b03076]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/373/regulation/2) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00004]: Footnote: EUR 787/2013.
 
-[^key-3d5bda7de5708d46e8c1937d193dd18c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/373/regulation/3) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-3d5bda7de5708d46e8c1937d193dd18c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/373/regulation/3) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00005]: Footnote: EUR 2015/1020.
 
-[^key-f1921e5e6d573a5a093e513806bc9505]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/373/regulation/4) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-f1921e5e6d573a5a093e513806bc9505]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/373/regulation/4) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00006]: Footnote: EUR 2017/2276.
 
-[^key-9e3995c50fd59bf8a47461e4e68bb184]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/373/regulation/5) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-9e3995c50fd59bf8a47461e4e68bb184]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/373/regulation/5) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00007]: Footnote: [S.S.I. 2022/288](https://www.legislation.gov.uk/ssi/2022/288).
 
-[^key-bba8c74272d16b4029cb4a251d134a47]: Textual amendment: [Reg. 5(5)-(14)](https://www.legislation.gov.uk/ssi/2022/373/regulation/5/5) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/7/2)
+[^c-bba8c74272d16b4029cb4a251d134a47]: Textual amendment: [Reg. 5(5)-(14)](https://www.legislation.gov.uk/ssi/2022/373/regulation/5/5) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/7/2)
 
-[^key-04d6a485aa901d59e35c4de9befb2fa9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/373/regulation/6) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-04d6a485aa901d59e35c4de9befb2fa9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/373/regulation/6) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2010/373](https://www.legislation.gov.uk/ssi/2010/373), last amended by [S.S.I. 2020/467](https://www.legislation.gov.uk/ssi/2020/467).
 
 [^f00013]: Footnote: See article 3(2)(a) of EUR 2009/767 for the meaning of “feed business operator”.
 
-[^key-6e282aac96609a40a0350f0dd8941520]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/373/regulation/7) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-6e282aac96609a40a0350f0dd8941520]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/373/regulation/7) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00014]: Footnote: [S.S.I. 2012/318](https://www.legislation.gov.uk/ssi/2012/318) as relevantly amended by [S.S.I. 2019/52](https://www.legislation.gov.uk/ssi/2019/52).
 
-[^key-e989f759c4d7ce5ec84e19b5af99a3ec]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/373/regulation/8) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-e989f759c4d7ce5ec84e19b5af99a3ec]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/373/regulation/8) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00015]: Footnote: [S.S.I. 2013/266](https://www.legislation.gov.uk/ssi/2013/266) as relevantly amended by [S.S.I. 2019/53](https://www.legislation.gov.uk/ssi/2019/53) and [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372).
 
-[^key-a9871b441e76d239db36d0330f51d143]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/373/regulation/9) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-a9871b441e76d239db36d0330f51d143]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/373/regulation/9) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00016]: Footnote: [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312) as relevantly amended by [S.S.I. 2015/410](https://www.legislation.gov.uk/ssi/2015/410), [S.S.I. 2016/191](https://www.legislation.gov.uk/ssi/2016/191) and [S.S.I. 2020/156](https://www.legislation.gov.uk/ssi/2020/156).
 
-[^key-8c86bfd6e7e67dafb3004f12c1aa65b7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/1/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-8c86bfd6e7e67dafb3004f12c1aa65b7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/1/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f00017]: Footnote: EUR 68/2013.
 
@@ -1309,9 +1309,9 @@ A business and regulatory impact assessment has not been produced for this instr
 
     In many cases it might not be necessary to perform an investigation into the source of contamination as the background level in some areas is close to or above the action level. However, in cases where the action level is exceeded, all information, such as sampling period, geographical origin, fish species etc., shall be recorded with a view to future measures to manage the presence of dioxins and dioxin-like compounds in these materials for animal nutrition.
 
-[^key-d8f4b23947e912782fc458b7003b7715]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/2/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-d8f4b23947e912782fc458b7003b7715]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/2/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
-[^key-9edc60ece14b3e3b144786a8c60ed94b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/3/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
+[^c-9edc60ece14b3e3b144786a8c60ed94b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/3/paragraph/1) in force at 9.2.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1)
 
 [^f01038]: Footnote: (1)
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. First review of compulsion order[^key-e89f80b47eaf4e287e7c8f8fa0af6821]
+## 139. First review of compulsion order[^c-e89f80b47eaf4e287e7c8f8fa0af6821]
 
 *Extent: S*
 
 (1) This section applies where a relevant compulsion order is made in respect of a patient.
 
-(2)[^key-ca8d3ae0255559388904dfc44a204c06] The patient’s responsible medical officer shall, during the appropriate period, carry out a review in respect of the compulsion order (such review being referred to in this Part of this Act as the “first review”) by complying with the requirements in subsection (3) below.
+(2)[^c-ca8d3ae0255559388904dfc44a204c06] The patient’s responsible medical officer shall, during the appropriate period, carry out a review in respect of the compulsion order (such review being referred to in this Part of this Act as the “first review”) by complying with the requirements in subsection (3) below.
 
 (3) Those requirements are—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e89f80b47eaf4e287e7c8f8fa0af6821]: Commencement: S. 139 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-e89f80b47eaf4e287e7c8f8fa0af6821]: Commencement: S. 139 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-ca8d3ae0255559388904dfc44a204c06]: Modification: S. 139(2) modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2), [(3)(c)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-ca8d3ae0255559388904dfc44a204c06]: Modification: S. 139(2) modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2), [(3)(c)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

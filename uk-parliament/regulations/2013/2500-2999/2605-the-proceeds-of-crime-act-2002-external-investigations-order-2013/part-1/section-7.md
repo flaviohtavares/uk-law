@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Requirements for making of production order[^key-f950b50329ddc4366134859099af7c76]
+## 7. Requirements for making of production order[^c-f950b50329ddc4366134859099af7c76]
 
 *Extent: E+W+N.I.*
 
 (1) These are the requirements for the making of a production order.
 
-(2)[^key-370b1e3eeea2ad48f3597c35092a4fbd] There must be reasonable grounds for suspecting that—
+(2)[^c-370b1e3eeea2ad48f3597c35092a4fbd] There must be reasonable grounds for suspecting that—
 
 - (a) the person the application for the order specifies as being subject to the external investigation holds property obtained as a result of or in connection with criminal conduct;
 - (b) that person has, at any time, held property that was obtained as a result of or in connection with criminal conduct; or
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f950b50329ddc4366134859099af7c76]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/2605/article/7) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-f950b50329ddc4366134859099af7c76]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/2605/article/7) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-370b1e3eeea2ad48f3597c35092a4fbd]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/7/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1751/article/5)
+[^c-370b1e3eeea2ad48f3597c35092a4fbd]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/7/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1751/article/5)

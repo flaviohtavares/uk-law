@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Required life sentence for manslaughter of emergency worker[^key-302d98b1ec7baeb52c3301e84697d1a3]
+## 3. Required life sentence for manslaughter of emergency worker[^c-302d98b1ec7baeb52c3301e84697d1a3]
 
 *Extent: E+W*
 
@@ -167,4 +167,4 @@ summary: ''
 
 ## Annotations
 
-[^key-302d98b1ec7baeb52c3301e84697d1a3]: Commencement: S. 3 in force at 28.6.2022, see [s. 208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)
+[^c-302d98b1ec7baeb52c3301e84697d1a3]: Commencement: S. 3 in force at 28.6.2022, see [s. 208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Financial support for further education or training: further provision[^key-81397de026bc965115a895443cb14e48][^key-5f4f85a92a153220e22990e0e2ddb444]
+## 98. Financial support for further education or training: further provision[^c-81397de026bc965115a895443cb14e48][^c-5f4f85a92a153220e22990e0e2ddb444]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81397de026bc965115a895443cb14e48]: Commencement: S. 98 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-81397de026bc965115a895443cb14e48]: Commencement: S. 98 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-5f4f85a92a153220e22990e0e2ddb444]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2022/1/section/98) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(x)](https://www.legislation.gov.uk/wsi/2026/62/article/2/x)
+[^c-5f4f85a92a153220e22990e0e2ddb444]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2022/1/section/98) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(x)](https://www.legislation.gov.uk/wsi/2026/62/article/2/x)

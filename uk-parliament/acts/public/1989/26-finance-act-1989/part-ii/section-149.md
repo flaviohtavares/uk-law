@@ -37,15 +37,15 @@ summary: ''
 - (a) for the words “**sections 36, 37 and 39**” in section 30(6) of the [^c13116081]Taxes Management Act 1970 (tax repaid in error etc.),
 - (b) for the words “**sections 37 to 39**” in section 118(3) of that Act (effect under law of Scotland of assessment in partnership name),
 - (c)[^c13116091] for the words “sections 36 and 39” in paragraph 10(1) of Schedule 13to the Taxes Act 1988 (assessments to advance corporation tax), and
-- (d)[^key-61376d698a19971626dd272137830e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-61376d698a19971626dd272137830e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The words “ fraudulent or negligent conduct ” shall be substituted—
 
 - (a) for the words “fraud, wilful default or neglect” in—
-  - (i)[^key-40f1d0b710fffd1dea998c3409442e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-e35775702f8c55596946e3db88da539b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-40f1d0b710fffd1dea998c3409442e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-e35775702f8c55596946e3db88da539b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) paragraph 9 of Schedule 16A to the [^c13116101]Finance Act 1973and of Schedule 19A to the Taxes Act 1988 (Lloyd’s), and
-- (b)[^key-6dad6320f272ea0a6cf89b8611774a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6dad6320f272ea0a6cf89b8611774a58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 105 of the Taxes Management Act 1970 (admissibility of evidence), for the words “fraud or default” and the words “fraud or wilful default” there shall be substituted the words “fraudulent conduct”.
 
@@ -62,12 +62,12 @@ summary: ''
 
 [^c13116091]: Textual amendment: S. 149(3)(c) repealed (31.7.1998 with effect in accordance with [Sch. 3](https://www.legislation.gov.uk/ukpga/1998/36/schedule/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/2), note
 
-[^key-61376d698a19971626dd272137830e72]: Textual amendment: S. 149(3)(d) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-61376d698a19971626dd272137830e72]: Textual amendment: S. 149(3)(d) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-40f1d0b710fffd1dea998c3409442e88]: Textual amendment: [S. 149(4)(a)(i)](https://www.legislation.gov.uk/ukpga/1989/26/section/149/4/a/i) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/a); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-40f1d0b710fffd1dea998c3409442e88]: Textual amendment: [S. 149(4)(a)(i)](https://www.legislation.gov.uk/ukpga/1989/26/section/149/4/a/i) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/a); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
-[^key-e35775702f8c55596946e3db88da539b]: Textual amendment: [S. 149(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/1989/26/section/149/4/a/ii) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/a); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-e35775702f8c55596946e3db88da539b]: Textual amendment: [S. 149(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/1989/26/section/149/4/a/ii) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/a); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
 [^c13116101]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-6dad6320f272ea0a6cf89b8611774a58]: Textual amendment: S. 149(4)(b) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6dad6320f272ea0a6cf89b8611774a58]: Textual amendment: S. 149(4)(b) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

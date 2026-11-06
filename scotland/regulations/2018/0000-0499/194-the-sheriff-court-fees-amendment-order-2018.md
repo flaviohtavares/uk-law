@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Court
 
-The Sheriff Court Fees Amendment Order 2018 (revoked)[^key-b333cbc54245ae2841464c726a9e4d05]
+The Sheriff Court Fees Amendment Order 2018 (revoked)[^c-b333cbc54245ae2841464c726a9e4d05]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 28th September 2018
 
-[^key-b333cbc54245ae2841464c726a9e4d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b333cbc54245ae2841464c726a9e4d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b333cbc54245ae2841464c726a9e4d05]
+## 1. Citation and commencement[^c-b333cbc54245ae2841464c726a9e4d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sheriff Court Fees Order 2018[^key-b333cbc54245ae2841464c726a9e4d05]
+## 2. Amendment of the Sheriff Court Fees Order 2018[^c-b333cbc54245ae2841464c726a9e4d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b333cbc54245ae2841464c726a9e4d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b333cbc54245ae2841464c726a9e4d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b333cbc54245ae2841464c726a9e4d05]EXPLANATORY NOTE
+[^c-b333cbc54245ae2841464c726a9e4d05]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -74,4 +74,4 @@ Article 2(3) provides that the fees exemptions in articles 8 and 9 of that Order
 
 ## Annotations
 
-[^key-b333cbc54245ae2841464c726a9e4d05]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2018/194) revoked (1.7.2022) by [The Sheriff Court Fees Order 2022 (S.S.I. 2022/181)](https://www.legislation.gov.uk/ssi/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/181/article/1/1), [15(b)](https://www.legislation.gov.uk/ssi/2022/181/article/15/b)
+[^c-b333cbc54245ae2841464c726a9e4d05]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2018/194) revoked (1.7.2022) by [The Sheriff Court Fees Order 2022 (S.S.I. 2022/181)](https://www.legislation.gov.uk/ssi/2022/181), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/181/article/1/1), [15(b)](https://www.legislation.gov.uk/ssi/2022/181/article/15/b)

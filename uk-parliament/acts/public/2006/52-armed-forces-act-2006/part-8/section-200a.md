@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200A. Modifications of section 286 of the Sentencing Code[^key-6db0a58b3ef4ab0b4f3835fe0f8eef5b]
+## 200A. Modifications of section 286 of the Sentencing Code[^c-6db0a58b3ef4ab0b4f3835fe0f8eef5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ Section 286 of the Sentencing Code has effect in relation to a suspended sentenc
 
 ## Annotations
 
-[^key-6db0a58b3ef4ab0b4f3835fe0f8eef5b]: Textual amendment: Ss. 200, 200A substituted (1.12.2020) for s. 200 [formula: see source](https://www.legislation.gov.uk/ukpga/2006/52)by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6db0a58b3ef4ab0b4f3835fe0f8eef5b]: Textual amendment: Ss. 200, 200A substituted (1.12.2020) for s. 200 [formula: see source](https://www.legislation.gov.uk/ukpga/2006/52)by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -41,15 +41,15 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by Articles 57D and 106(b) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-90373d15b8416ace5913fe544b28babb]
+## 1. Citation and commencement[^c-90373d15b8416ace5913fe544b28babb]
 
 These Regulations may be cited as the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) Regulations (Northern Ireland) 2004 and shall come into operation on 1st April 2004.
 
-## 2. Drugs, medicines and other substances that may not be ordered[^key-e82b4376d2c0e05e64c999466c223725]
+## 2. Drugs, medicines and other substances that may not be ordered[^c-e82b4376d2c0e05e64c999466c223725]
 
 A drug, medicine and other substance listed in Schedule 1 may not be ordered for a patient in the provision of medical services under a general medical services contract.
 
-## 3. Drugs, medicines and other substances that may be ordered only in certain circumstances[^key-f76c3d111d202aedd86996bd5169dcaf]
+## 3. Drugs, medicines and other substances that may be ordered only in certain circumstances[^c-f76c3d111d202aedd86996bd5169dcaf]
 
 A drug, medicine or other substance specified in an entry in column 1 of Schedule 2 may not be ordered for a patient in the provision of medical services under a general medical services contract unless –
 
@@ -72,11 +72,11 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1 — DRUGS, MEDICINES AND OTHER SUBSTANCES NOT TO BE ORDERED UNDER A GENERAL MEDICAL SERVICES CONTRACT[^key-8a4640264c4b0560c4c46b8b1509d742]
+## SCHEDULE 1 — DRUGS, MEDICINES AND OTHER SUBSTANCES NOT TO BE ORDERED UNDER A GENERAL MEDICAL SERVICES CONTRACT[^c-8a4640264c4b0560c4c46b8b1509d742]
 
 Regulation 2
 
-[^key-8a4640264c4b0560c4c46b8b1509d742]
+[^c-8a4640264c4b0560c4c46b8b1509d742]
 
 - 10 Day Slimmer Tablets
 - 10 Hour Capsules
@@ -3223,7 +3223,7 @@ Regulation 2
 - Zubes Original Cough Mixture
 - Zyriton Expectorant Linctus
 
-## SCHEDULE 2 — DRUGS, MEDICINES AND OTHER SUBSTANCES TO BE ORDERED ONLY IN CERTAIN CIRCUMSTANCES[^key-96c4a1275638cd85ba3672737b23898a]
+## SCHEDULE 2 — DRUGS, MEDICINES AND OTHER SUBSTANCES TO BE ORDERED ONLY IN CERTAIN CIRCUMSTANCES[^c-96c4a1275638cd85ba3672737b23898a]
 
 Regulation 3
 
@@ -3249,7 +3249,7 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-2babba8fc57bd1e2969ecba5739b11c4][^key-2babba8fc57bd1e2969ecba5739b11c4][^key-2babba8fc57bd1e2969ecba5739b11c4][^key-6494c046fe88e63c81ad0bc30e9e1418][^key-e02114f8839f3e7c47dba0f723908204][^key-e02114f8839f3e7c47dba0f723908204][^key-e02114f8839f3e7c47dba0f723908204][^key-e02114f8839f3e7c47dba0f723908204][^key-e02114f8839f3e7c47dba0f723908204][^key-e02114f8839f3e7c47dba0f723908204][^key-8d0bf0b9c074be48f8856924bf86834b][^key-3b2c9e8d7d6dbe84630054419f66b32c][^key-c0a837945cacc302a70111f00a9186e0][^key-b21a0e91125732a915c54ab91523b0c9][^key-6244c6af53d1399360eabdc9dd5eec1d][^key-1026d8ee6ef6eda87f17b916b828250c][^key-1026d8ee6ef6eda87f17b916b828250c][^key-1026d8ee6ef6eda87f17b916b828250c]
+[^c-2babba8fc57bd1e2969ecba5739b11c4][^c-2babba8fc57bd1e2969ecba5739b11c4][^c-2babba8fc57bd1e2969ecba5739b11c4][^c-6494c046fe88e63c81ad0bc30e9e1418][^c-e02114f8839f3e7c47dba0f723908204][^c-e02114f8839f3e7c47dba0f723908204][^c-e02114f8839f3e7c47dba0f723908204][^c-e02114f8839f3e7c47dba0f723908204][^c-e02114f8839f3e7c47dba0f723908204][^c-e02114f8839f3e7c47dba0f723908204][^c-8d0bf0b9c074be48f8856924bf86834b][^c-3b2c9e8d7d6dbe84630054419f66b32c][^c-c0a837945cacc302a70111f00a9186e0][^c-b21a0e91125732a915c54ab91523b0c9][^c-6244c6af53d1399360eabdc9dd5eec1d][^c-1026d8ee6ef6eda87f17b916b828250c][^c-1026d8ee6ef6eda87f17b916b828250c][^c-1026d8ee6ef6eda87f17b916b828250c]
 
 (This note is not part of the Regulations.)
 
@@ -3265,30 +3265,30 @@ Regulation 3 and Schedule 2 specify the drugs, medicinces and other substances t
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 57D was inserted by Article 4 of S.I. [2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-90373d15b8416ace5913fe544b28babb]: Commencement: Reg. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
+[^c-90373d15b8416ace5913fe544b28babb]: Commencement: Reg. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
 
-[^key-e82b4376d2c0e05e64c999466c223725]: Commencement: Reg. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
+[^c-e82b4376d2c0e05e64c999466c223725]: Commencement: Reg. 2 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
 
-[^key-f76c3d111d202aedd86996bd5169dcaf]: Commencement: Reg. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
+[^c-f76c3d111d202aedd86996bd5169dcaf]: Commencement: Reg. 3 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
 
-[^key-8a4640264c4b0560c4c46b8b1509d742]: Commencement: Sch. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
+[^c-8a4640264c4b0560c4c46b8b1509d742]: Commencement: Sch. 1 in operation at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/142/regulation/1)
 
-[^key-96c4a1275638cd85ba3672737b23898a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (13.10.2011) by [The Health and Personal Social Services (General Medical Services Contracts)(Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/327)](https://www.legislation.gov.uk/nisr/2011/327), [reg. 1](https://www.legislation.gov.uk/nisr/2011/327/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/327/schedule)
+[^c-96c4a1275638cd85ba3672737b23898a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (13.10.2011) by [The Health and Personal Social Services (General Medical Services Contracts)(Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/327)](https://www.legislation.gov.uk/nisr/2011/327), [reg. 1](https://www.legislation.gov.uk/nisr/2011/327/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/327/schedule)
 
-[^key-2babba8fc57bd1e2969ecba5739b11c4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table omitted (1.9.2014) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/a)
+[^c-2babba8fc57bd1e2969ecba5739b11c4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table omitted (1.9.2014) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/a)
 
-[^key-6494c046fe88e63c81ad0bc30e9e1418]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table substituted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/b)
+[^c-6494c046fe88e63c81ad0bc30e9e1418]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table substituted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/b)
 
-[^key-e02114f8839f3e7c47dba0f723908204]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table omitted (1.9.2014) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(c)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/c)
+[^c-e02114f8839f3e7c47dba0f723908204]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table omitted (1.9.2014) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(c)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/c)
 
-[^key-8d0bf0b9c074be48f8856924bf86834b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(d)(i)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/d/i)
+[^c-8d0bf0b9c074be48f8856924bf86834b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(d)(i)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/d/i)
 
-[^key-3b2c9e8d7d6dbe84630054419f66b32c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (31.12.2020) by S.I. 2019/784, reg. 19(2)(a) (as substituted by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/1348/regulation/17))
+[^c-3b2c9e8d7d6dbe84630054419f66b32c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (31.12.2020) by S.I. 2019/784, reg. 19(2)(a) (as substituted by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/1348/regulation/17))
 
-[^key-c0a837945cacc302a70111f00a9186e0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (31.12.2020) by S.I. 2019/784, reg. 19(2)(b) (as substituted by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/1348/regulation/17))
+[^c-c0a837945cacc302a70111f00a9186e0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) substituted (31.12.2020) by S.I. 2019/784, reg. 19(2)(b) (as substituted by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/1348/regulation/17))
 
-[^key-b21a0e91125732a915c54ab91523b0c9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/d/ii)
+[^c-b21a0e91125732a915c54ab91523b0c9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/d/ii)
 
-[^key-6244c6af53d1399360eabdc9dd5eec1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(e)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/e)
+[^c-6244c6af53d1399360eabdc9dd5eec1d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) Table inserted (1.9.2014) by [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/215)](https://www.legislation.gov.uk/nisr/2014/215), [regs. 1](https://www.legislation.gov.uk/nisr/2014/215/regulation/1), [2(1)(e)](https://www.legislation.gov.uk/nisr/2014/215/regulation/2/1/e)
 
-[^key-1026d8ee6ef6eda87f17b916b828250c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) omitted (1.5.2026) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/72)](https://www.legislation.gov.uk/nisr/2026/72), [regs. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2026/72/regulation/2/1/a)
+[^c-1026d8ee6ef6eda87f17b916b828250c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2004/142/schedule/2) omitted (1.5.2026) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/72)](https://www.legislation.gov.uk/nisr/2026/72), [regs. 1](https://www.legislation.gov.uk/nisr/2026/72/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2026/72/regulation/2/1/a)

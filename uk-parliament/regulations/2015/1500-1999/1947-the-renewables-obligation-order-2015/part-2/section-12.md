@@ -26,8 +26,8 @@ summary: ''
 
 (3) Where calculation B is greater than calculation A for an obligation period, the total obligation for that period is calculation B.
 
-(4) References to the total obligation in this Part[^key-6d2d336d502e84a11ebffd35dd31e6e1] are to be construed accordingly.
+(4) References to the total obligation in this Part[^c-6d2d336d502e84a11ebffd35dd31e6e1] are to be construed accordingly.
 
 ## Annotations
 
-[^key-6d2d336d502e84a11ebffd35dd31e6e1]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2015/1947/article/12/4) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1289/article/6)
+[^c-6d2d336d502e84a11ebffd35dd31e6e1]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/2015/1947/article/12/4) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1289/article/6)

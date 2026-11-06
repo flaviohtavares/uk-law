@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Amendment of regulation 7[^key-4ddd6319ec5eafc0daac8a8b90b6f98d]
+## 48. Amendment of regulation 7[^c-4ddd6319ec5eafc0daac8a8b90b6f98d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In regulation 7 (conditions for exemption under the Act)—
 
 ## Annotations
 
-[^key-4ddd6319ec5eafc0daac8a8b90b6f98d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2013/364/regulation/48) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-4ddd6319ec5eafc0daac8a8b90b6f98d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2013/364/regulation/48) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

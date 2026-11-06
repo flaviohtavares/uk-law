@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Social Security Administration (Northern Ireland) Act 1992[^key-8bcc45accf8a16865f44f44cde50fbf5]
+## 67. Social Security Administration (Northern Ireland) Act 1992[^c-8bcc45accf8a16865f44f44cde50fbf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In the Social Security Administration (Northern Ireland) Act 1992 [^c23624511] i
 
 ## Annotations
 
-[^key-8bcc45accf8a16865f44f44cde50fbf5]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8bcc45accf8a16865f44f44cde50fbf5]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624511]: Marginal citation: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8)

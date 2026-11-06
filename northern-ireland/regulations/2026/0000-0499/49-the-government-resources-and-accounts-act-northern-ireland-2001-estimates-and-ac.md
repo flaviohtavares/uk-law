@@ -44,11 +44,11 @@ The Department of Finance [^f00001], in exercise of the powers conferred by sect
 
 In accordance with section 8A(5) of the Act the Department of Finance have consulted, where they think it appropriate, with the Treasury.
 
-## 1. Title and commencement[^key-b626de3f6df2ebca228d5e46d2758efc]
+## 1. Title and commencement[^c-b626de3f6df2ebca228d5e46d2758efc]
 
 This Order may be cited as the Government Resources and Accounts Act (Northern Ireland) 2001 (Estimates and Accounts) (Designation of Bodies) Order 2026 and shall come into operation on 1<sup>st</sup> April 2026.
 
-## 2. Designation of Bodies[^key-61f1b0c2ff12b4c37c67c61d7c0ce601]
+## 2. Designation of Bodies[^c-61f1b0c2ff12b4c37c67c61d7c0ce601]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of sections 8A and 8B of the Government Resources and Accounts Act (Northern Ireland) 2001—
 
@@ -69,14 +69,14 @@ Article 2
 
 DESIGNATED BODIES FOR 2026-2027
 
-### PART 1 — Department of Agriculture, Environment and Rural Affairs[^key-2567c7f863710140141176528fc364cf]
+### PART 1 — Department of Agriculture, Environment and Rural Affairs[^c-2567c7f863710140141176528fc364cf]
 
 - Agri-Food and Biosciences Institute
 - Livestock and Meat Commission for Northern Ireland
 - Loughs Agency of the Foyle, Carlingford and Irish Lights Commission
 - Northern Ireland Fishery Harbour Authority
 
-### PART 2 — Department for Communities[^key-01e8d2330e09e5b5d3c2dcaf7da4a632]
+### PART 2 — Department for Communities[^c-01e8d2330e09e5b5d3c2dcaf7da4a632]
 
 - Armagh Observatory and Planetarium
 - Arts Council of Northern Ireland
@@ -100,7 +100,7 @@ DESIGNATED BODIES FOR 2026-2027
 - Sports Council for Northern Ireland (Sport NI)
 - Ulster Supported Employment Limited
 
-### PART 3 — Department for the Economy[^key-25efa5399dad7c3840a030f9af075d86]
+### PART 3 — Department for the Economy[^c-25efa5399dad7c3840a030f9af075d86]
 
 - Belfast Metropolitan College (BMC)
 - Construction Industry Training Board (CITBNI) (as established under the Industrial Training Act 1964)
@@ -119,7 +119,7 @@ DESIGNATED BODIES FOR 2026-2027
 - Stranmillis University College
 - Tourism Ireland Company Limited by Guarantee (trading as Tourism Ireland)
 
-### PART 4 — Department of Education[^key-3865a98b6d9dd264e86823d60e744d3f]
+### PART 4 — Department of Education[^c-3865a98b6d9dd264e86823d60e744d3f]
 
 - Comhairle na Gaelscolaíochta
 - Council for Catholic Maintained Schools
@@ -134,7 +134,7 @@ DESIGNATED BODIES FOR 2026-2027
 - Voluntary Grammar Schools
 - Youth Council for Northern Ireland
 
-### PART 5 — Department of Finance[^key-a86b3358a02526ad25614c29e5cdbc10][^key-1f6465c7f4df0e194909f75e862fe1f8]
+### PART 5 — Department of Finance[^c-a86b3358a02526ad25614c29e5cdbc10][^c-1f6465c7f4df0e194909f75e862fe1f8]
 
 - Civil Service Appeals Board (CSAB)
 - Legal Services Oversight Commissioner (LSOC)
@@ -144,7 +144,7 @@ DESIGNATED BODIES FOR 2026-2027
 - Special EU Programmes Body (SEUPB)
 - Statistics Advisory Committee (SAC)
 
-### PART 6 — Department of Health[^key-185e0840db6dae72e3ad2c0d8120fe52]
+### PART 6 — Department of Health[^c-185e0840db6dae72e3ad2c0d8120fe52]
 
 - Belfast Health and Social Care Trust
 - Charitable trusts the trustees of which are the Health and Social Care Trusts (as established under the Health and Personal Social Services (NI) Order 1972)
@@ -166,11 +166,11 @@ DESIGNATED BODIES FOR 2026-2027
 - The Institute of Public Health in Ireland CLG
 - Western Health and Social Care Trust
 
-### PART 7 — Department for Infrastructure[^key-569bd0ac6de120f92d46fb831e2856cc]
+### PART 7 — Department for Infrastructure[^c-569bd0ac6de120f92d46fb831e2856cc]
 
 - Waterways Ireland
 
-### PART 8 — Department of Justice[^key-4b05547d7e358d20527a47c2c6e74df9]
+### PART 8 — Department of Justice[^c-4b05547d7e358d20527a47c2c6e74df9]
 
 - Care Tribunal for Northern Ireland
 - Commissioner for Hearings under Prison Rule 109B
@@ -211,7 +211,7 @@ DESIGNATED BODIES FOR 2026-2027
 - State Pathologist’s Department
 - Youth Justice Agency (YJA)
 
-### PART 9 — The Executive Office[^key-ba335562242a3a572478966ee32425c8]
+### PART 9 — The Executive Office[^c-ba335562242a3a572478966ee32425c8]
 
 - Attorney General for Northern Ireland (AGNI)
 - Commissioner for Public Appointments for Northern Ireland (CPANI)
@@ -247,26 +247,26 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2001 C.6 (NI)](https://www.legislation.gov.uk/nia/2001/6), sections 8A and 8B were inserted by the Financial Reporting (Department and Public Bodies) Act (Northern Ireland) [2022 c.8 (NI)](https://www.legislation.gov.uk/nia/2022/8)
 
-[^key-b626de3f6df2ebca228d5e46d2758efc]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-b626de3f6df2ebca228d5e46d2758efc]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-61f1b0c2ff12b4c37c67c61d7c0ce601]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-61f1b0c2ff12b4c37c67c61d7c0ce601]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-2567c7f863710140141176528fc364cf]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-2567c7f863710140141176528fc364cf]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-01e8d2330e09e5b5d3c2dcaf7da4a632]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-01e8d2330e09e5b5d3c2dcaf7da4a632]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-25efa5399dad7c3840a030f9af075d86]: Commencement: Sch. Pt. 3 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-25efa5399dad7c3840a030f9af075d86]: Commencement: Sch. Pt. 3 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-3865a98b6d9dd264e86823d60e744d3f]: Commencement: Sch. Pt. 4 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-3865a98b6d9dd264e86823d60e744d3f]: Commencement: Sch. Pt. 4 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-a86b3358a02526ad25614c29e5cdbc10]: Commencement: Sch. Pt. 5 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-a86b3358a02526ad25614c29e5cdbc10]: Commencement: Sch. Pt. 5 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-1f6465c7f4df0e194909f75e862fe1f8]: Modification: [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2026/49/schedule/part/5) modified (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/5)
+[^c-1f6465c7f4df0e194909f75e862fe1f8]: Modification: [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2026/49/schedule/part/5) modified (8.10.2026) by [Northern Ireland Fiscal Council Act (Northern Ireland) 2026 (c. 8)](https://www.legislation.gov.uk/nia/2026/8), [s. 9(1)](https://www.legislation.gov.uk/nia/2026/8/section/9/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2026/8/schedule/2/paragraph/5)
 
-[^key-185e0840db6dae72e3ad2c0d8120fe52]: Commencement: Sch. Pt. 6 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-185e0840db6dae72e3ad2c0d8120fe52]: Commencement: Sch. Pt. 6 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-569bd0ac6de120f92d46fb831e2856cc]: Commencement: Sch. Pt. 7 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-569bd0ac6de120f92d46fb831e2856cc]: Commencement: Sch. Pt. 7 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-4b05547d7e358d20527a47c2c6e74df9]: Commencement: Sch. Pt. 8 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-4b05547d7e358d20527a47c2c6e74df9]: Commencement: Sch. Pt. 8 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
 
-[^key-ba335562242a3a572478966ee32425c8]: Commencement: Sch. Pt. 9 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)
+[^c-ba335562242a3a572478966ee32425c8]: Commencement: Sch. Pt. 9 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/49/article/1)

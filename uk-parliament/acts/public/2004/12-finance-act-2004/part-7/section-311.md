@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Allocation of reference number to arrangements[^c10807401][^key-773a39e302fe125f1e0f419d8dea633f]
+## 311. Allocation of reference number to arrangements[^c10807401][^c-773a39e302fe125f1e0f419d8dea633f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c10807401]: Commencement: S. 311 wholly in force at 1.8.2004; s. 311 in force for certain purposes at Royal Assent and otherwise in force at 1.8.2004 see [s. 319(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/319/1)
 
-[^key-773a39e302fe125f1e0f419d8dea633f]: Textual amendment: Ss. 311-311C substituted for s. 311 (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-773a39e302fe125f1e0f419d8dea633f]: Textual amendment: Ss. 311-311C substituted for s. 311 (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

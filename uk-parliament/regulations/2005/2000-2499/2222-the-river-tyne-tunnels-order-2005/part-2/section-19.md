@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Protection of tunnel, etc.[^key-f818ea261e8da427fc004d826b193f82]
+## 19. Protection of tunnel, etc.[^c-f818ea261e8da427fc004d826b193f82]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ and to the extent that any activity within sub-paragraph (a) or (b) affects a ti
 
 ## Annotations
 
-[^key-f818ea261e8da427fc004d826b193f82]: Commencement: Art. 19 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-f818ea261e8da427fc004d826b193f82]: Commencement: Art. 19 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

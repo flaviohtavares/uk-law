@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Repeal of the Vagrancy Act 1824 etc[^key-cbe2f041e0791d774ca1dc08e7269362][^key-03c25f417ea4741cb62b678a0bb65396]
+## 81. Repeal of the Vagrancy Act 1824 etc[^c-cbe2f041e0791d774ca1dc08e7269362][^c-03c25f417ea4741cb62b678a0bb65396]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe2f041e0791d774ca1dc08e7269362]: Commencement: S. 81 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cbe2f041e0791d774ca1dc08e7269362]: Commencement: S. 81 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-03c25f417ea4741cb62b678a0bb65396]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/32/section/81) in force at 29.6.2026 by [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-03c25f417ea4741cb62b678a0bb65396]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/32/section/81) in force at 29.6.2026 by [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Certificates of exemption[^key-bb6cfe3f16103c04deb31a8c9af02c93]
+## 13. Certificates of exemption[^c-bb6cfe3f16103c04deb31a8c9af02c93]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 ## Annotations
 
-[^key-bb6cfe3f16103c04deb31a8c9af02c93]: Commencement: Reg. 13 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-bb6cfe3f16103c04deb31a8c9af02c93]: Commencement: Reg. 13 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

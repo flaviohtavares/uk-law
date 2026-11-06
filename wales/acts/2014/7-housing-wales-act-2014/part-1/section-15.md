@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Registration by a licensing authority[^key-b201f59bc17e029dbc145c534a371088][^key-9dd117e0c1720d574fff35ca71dd8377]
+## 15. Registration by a licensing authority[^c-b201f59bc17e029dbc145c534a371088][^c-9dd117e0c1720d574fff35ca71dd8377]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b201f59bc17e029dbc145c534a371088]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/7/section/15) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-b201f59bc17e029dbc145c534a371088]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/7/section/15) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-9dd117e0c1720d574fff35ca71dd8377]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/7/section/15) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/e)
+[^c-9dd117e0c1720d574fff35ca71dd8377]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/7/section/15) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/e)

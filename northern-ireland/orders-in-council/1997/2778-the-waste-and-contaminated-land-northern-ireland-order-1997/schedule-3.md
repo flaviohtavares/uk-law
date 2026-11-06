@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — THE WASTE MANAGEMENT PLAN[^key-769936da4455499cd385e3f3f6fcb520]
+## SCHEDULE 3 — THE WASTE MANAGEMENT PLAN[^c-769936da4455499cd385e3f3f6fcb520]
 
 *Extent: N.I.*
 
@@ -59,9 +59,9 @@ To ensure that waste management is carried out without endangering human health,
 
 #### 4. Principles of self-sufficiency and proximity
 
-(1) To establish an integrated and adequate network of waste disposal installations and of installations for the recovery of mixed municipal waste collected from private households, including where such collection also covers such waste from other producers[^key-c5dee8e66b870e59fd482d56a59dd993]....
+(1) To establish an integrated and adequate network of waste disposal installations and of installations for the recovery of mixed municipal waste collected from private households, including where such collection also covers such waste from other producers[^c-c5dee8e66b870e59fd482d56a59dd993]....
 
-(2) The network must be designed so as to enable the United Kingdom as a whole to[^key-de30c704e55b39fd87d3d329ffb8e4dc] move towards the aim of becoming[^key-4e303b5c1cfcb086df3c6c67ddad0422] self-sufficient in waste disposal as well as in the recovery of mixed municipal waste collected from private households taking into account geographical circumstances or the need for specialised installations for certain types of waste.
+(2) The network must be designed so as to enable the United Kingdom as a whole to[^c-de30c704e55b39fd87d3d329ffb8e4dc] move towards the aim of becoming[^c-4e303b5c1cfcb086df3c6c67ddad0422] self-sufficient in waste disposal as well as in the recovery of mixed municipal waste collected from private households taking into account geographical circumstances or the need for specialised installations for certain types of waste.
 
 (3) The network must enable waste to be disposed of, or mixed municipal waste collected from private households for recovery to be recovered, in one of the nearest appropriate installations and by means of the most appropriate methods and technologies, so as to ensure a high level of protection for the environment and human health.
 
@@ -80,7 +80,7 @@ The waste management plan must include such matters as the Department of Agricul
 - (a) the type, quantity and source of waste generated within Northern Ireland;
 - (b) the waste likely to be shipped from or to Northern Ireland;
 - (c) an evaluation of the development of waste streams in the future;
-- (d) existing major disposal and recovery installations, including any special arrangements for waste containing significant amounts of critical raw materials, waste oils or hazardous waste[^key-a09f1a4bc44420201dda2d0d26ad15c4] ;
+- (d) existing major disposal and recovery installations, including any special arrangements for waste containing significant amounts of critical raw materials, waste oils or hazardous waste[^c-a09f1a4bc44420201dda2d0d26ad15c4] ;
 - (e) an assessment of the need for closure of existing waste installations, and for additional waste installation infrastructure in accordance with the objective in paragraph 4;
 - (f) an assessment of the investments and other financial means required, including for district councils, to meet the needs identified following the assessment in sub-paragraph (e);
 - (g) an assessment of existing waste collection schemes, including the material and territorial coverage of separate collection and measures to improve their operation, of any exceptions to the requirement for waste to be subject to separate collection and of the need for new collection schemes;
@@ -166,12 +166,12 @@ The waste management plan must include policies in relation to preparing for re-
 
 ## Annotations
 
-[^key-769936da4455499cd385e3f3f6fcb520]: Textual amendment: Sch. 3 substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/7)
+[^c-769936da4455499cd385e3f3f6fcb520]: Textual amendment: Sch. 3 substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/7)
 
-[^key-c5dee8e66b870e59fd482d56a59dd993]: Textual amendment: Words in Sch. 3 para. 4(1) omitted (31.12.2020) by virtue of [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2019/1443/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5dee8e66b870e59fd482d56a59dd993]: Textual amendment: Words in Sch. 3 para. 4(1) omitted (31.12.2020) by virtue of [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2019/1443/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de30c704e55b39fd87d3d329ffb8e4dc]: Textual amendment: Sch. 3 para. 4(2) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de30c704e55b39fd87d3d329ffb8e4dc]: Textual amendment: Sch. 3 para. 4(2) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e303b5c1cfcb086df3c6c67ddad0422]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (31.12.2020) by S.I. 2019/584, reg. 14(a) (as amended by [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/1443/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-4e303b5c1cfcb086df3c6c67ddad0422]: Textual amendment: Words in Sch. 3 para. 4(2) substituted (31.12.2020) by S.I. 2019/584, reg. 14(a) (as amended by [The Waste and Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1443)](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/1443/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-a09f1a4bc44420201dda2d0d26ad15c4]: Textual amendment: Words in [Sch. 3 para. 6(d)](https://www.legislation.gov.uk/nisi/1997/2778/schedule/3/paragraph/6/d) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a09f1a4bc44420201dda2d0d26ad15c4]: Textual amendment: Words in [Sch. 3 para. 6(d)](https://www.legislation.gov.uk/nisi/1997/2778/schedule/3/paragraph/6/d) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

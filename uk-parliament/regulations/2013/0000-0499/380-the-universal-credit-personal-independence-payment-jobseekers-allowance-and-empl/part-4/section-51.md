@@ -39,7 +39,7 @@ summary: ''
 - (a) paying any arrears of benefit; or
 - (b) making a payment in respect of a terminal period of an award or for any similar purpose.
 
-(4A)[^key-5e0035e1c55854b2e68a23f32e3a691a] The Secretary of State may pay arrears of employment and support allowance in instalments where—
+(4A)[^c-5e0035e1c55854b2e68a23f32e3a691a] The Secretary of State may pay arrears of employment and support allowance in instalments where—
 
 - (a) the Secretary of State considers it is necessary for protecting the interests of the claimant; and
 - (b) the claimant agrees that those arrears may be paid in instalments.
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e0035e1c55854b2e68a23f32e3a691a]: Textual amendment: [Reg. 51(4A)](https://www.legislation.gov.uk/uksi/2013/380/regulation/51/4A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/4)
+[^c-5e0035e1c55854b2e68a23f32e3a691a]: Textual amendment: [Reg. 51(4A)](https://www.legislation.gov.uk/uksi/2013/380/regulation/51/4A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/4)
 
 [^c2167225]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Notice of findings[^key-4a84c93fe94b82b302d213b1181c3b0f][^key-f4cefacc9f9e0d5787bd52be08aa7078]
+## 30. Notice of findings[^c-4a84c93fe94b82b302d213b1181c3b0f][^c-f4cefacc9f9e0d5787bd52be08aa7078]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a84c93fe94b82b302d213b1181c3b0f]: Commencement: S. 30 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-4a84c93fe94b82b302d213b1181c3b0f]: Commencement: S. 30 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f4cefacc9f9e0d5787bd52be08aa7078]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/13/section/30) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f4cefacc9f9e0d5787bd52be08aa7078]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2024/13/section/30) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

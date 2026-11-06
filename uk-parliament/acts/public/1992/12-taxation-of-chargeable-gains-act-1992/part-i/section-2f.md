@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2F. Interaction of capital gains tax and corporation tax[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 2F. Interaction of capital gains tax and corporation tax[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)

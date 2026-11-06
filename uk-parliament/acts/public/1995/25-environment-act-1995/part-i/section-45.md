@@ -25,7 +25,7 @@ summary: ''
 - (a) keep proper accounts and proper accounting records; and
 - (b) prepare in respect of each accounting year a statement of accounts giving a true and fair view of the state of affairs and the income and expenditure of the new Agency.
 
-(2)[^c14537401][^key-950a3f5576398f9d8b3eb113e288c6cd] Every statement of accounts prepared by a new Agency in accordance with this section shall comply with any requirement which the appropriate Ministers have in the case of the Agency only[^c14537411], with the consent of the Treasury, notified in writing to the new Agency and which relates to any of the following matters, namely—
+(2)[^c14537401][^c-950a3f5576398f9d8b3eb113e288c6cd] Every statement of accounts prepared by a new Agency in accordance with this section shall comply with any requirement which the appropriate Ministers have in the case of the Agency only[^c14537411], with the consent of the Treasury, notified in writing to the new Agency and which relates to any of the following matters, namely—
 
 - (a) the information to be contained in the statement;
 - (b) the manner in which that information is to be presented;
@@ -42,6 +42,6 @@ summary: ''
 
 [^c14537401]: Modification: S. 45(2): Treasury consent requirement continued (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-950a3f5576398f9d8b3eb113e288c6cd]: Modification: [S. 45(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/45/2) functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [7](https://www.legislation.gov.uk/uksi/2013/1821/article/7) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-950a3f5576398f9d8b3eb113e288c6cd]: Modification: [S. 45(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/45/2) functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [7](https://www.legislation.gov.uk/uksi/2013/1821/article/7) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
 [^c14537411]: Textual amendment: Words in s. 45(2) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 120(4)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/120/4/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)

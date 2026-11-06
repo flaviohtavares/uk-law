@@ -33,8 +33,8 @@ summary: ''
 - (b) another qualifying option granted to the employee by reason of the employee’s employment as mentioned in subsection (2)(a) or (b) above, or
 - (c) a relevant CSOP option.
 
-(4) In this section a “**CSOP option**” means an option to acquire shares under a scheme which is a Schedule 4[^key-381d8da4022109b3fad22f8f36bca8e2] CSOP scheme (see Schedule 4).
+(4) In this section a “**CSOP option**” means an option to acquire shares under a scheme which is a Schedule 4[^c-381d8da4022109b3fad22f8f36bca8e2] CSOP scheme (see Schedule 4).
 
 ## Annotations
 
-[^key-381d8da4022109b3fad22f8f36bca8e2]: Textual amendment: Words in s. 539(4) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 198](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/198), [204](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/204) (with [Sch. 8 paras. 205-215](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/205))
+[^c-381d8da4022109b3fad22f8f36bca8e2]: Textual amendment: Words in s. 539(4) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 198](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/198), [204](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/204) (with [Sch. 8 paras. 205-215](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/205))

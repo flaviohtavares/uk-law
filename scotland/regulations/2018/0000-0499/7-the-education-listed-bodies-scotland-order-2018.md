@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 216(2) of the Education Reform Act 1988[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-e1d8f574a42afe22d3f1c2a4af2ae002]
+## 1. Citation, commencement and extent[^c-e1d8f574a42afe22d3f1c2a4af2ae002]
 
 (1) This Order may be cited as the Education (Listed Bodies) (Scotland) Order 2018 and comes into force on 31st January 2018.
 
 (2) This Order extends to Scotland only.
 
-## 2. Listed bodies[^key-cbe86efd46db23200e5c6c7887e30f0f]
+## 2. Listed bodies[^c-cbe86efd46db23200e5c6c7887e30f0f]
 
 The bodies listed in the schedule comprise all those bodies which appear to the Scottish Ministers to fall within section 216(3) of the Education Reform Act 1988.
 
-## 3. Revocation[^key-bf551db17e80d1358b2cc8ea86b82b9e]
+## 3. Revocation[^c-bf551db17e80d1358b2cc8ea86b82b9e]
 
 The Education (Listed Bodies) (Scotland) Order 2007[^f00002] and the Education (Listed Bodies) (Scotland) Amendment Order 2009[^f00003] are revoked.
 
@@ -74,7 +74,7 @@ Edinburgh
 
 Article 2
 
-### PART 1 — Bodies providing Courses in preparation for a Degree[^key-afd02bd4de2546dcfc31ea2f998c948f]
+### PART 1 — Bodies providing Courses in preparation for a Degree[^c-afd02bd4de2546dcfc31ea2f998c948f]
 
 #### Section 1 (Generally)
 
@@ -422,7 +422,7 @@ Article 2
 - The Manufacturing Institute
 - The Markfield Institute of Higher Education
 - Marshall of Cambridge Aerospace
-- Mary Hare[^key-3970cd675af360e196ab4ae14777e42b]
+- Mary Hare[^c-3970cd675af360e196ab4ae14777e42b]
 - Maryvale Institute
 - Matrix College of Counselling and Psychotherapy
 - Matrix Training Consultancy
@@ -638,7 +638,7 @@ Article 2
 - St Mellitus College
 - St Padarns Institute (Athrofa Padran Sant)
 - St Patrick’s College
-- St Philip’s Centre Ltd[^key-1a235fb6c9dda3d5d3f19bc0ed30d4a0]
+- St Philip’s Centre Ltd[^c-1a235fb6c9dda3d5d3f19bc0ed30d4a0]
 - St Vincent College
 - Stafford College
 - Stanmore College
@@ -765,7 +765,7 @@ Article 2
 - West London College
 - Whitefield Sports Centre
 
-### PART 2 — Constituent colleges, schools or halls or other institutions of a university[^key-273067b7a5eea5496af373c1b53508ef]
+### PART 2 — Constituent colleges, schools or halls or other institutions of a university[^c-273067b7a5eea5496af373c1b53508ef]
 
 #### UNIVERSITY OF CAMBRIDGE
 
@@ -943,20 +943,20 @@ There are omitted from the schedule of this Order a number of bodies that were l
 
 [^f00001]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40). Relevant modifications to that Act are contained in [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e1d8f574a42afe22d3f1c2a4af2ae002]: Commencement: Art. 1 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
+[^c-e1d8f574a42afe22d3f1c2a4af2ae002]: Commencement: Art. 1 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
 
-[^key-cbe86efd46db23200e5c6c7887e30f0f]: Commencement: Art. 2 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
+[^c-cbe86efd46db23200e5c6c7887e30f0f]: Commencement: Art. 2 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
 
-[^key-bf551db17e80d1358b2cc8ea86b82b9e]: Commencement: Art. 3 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
+[^c-bf551db17e80d1358b2cc8ea86b82b9e]: Commencement: Art. 3 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/558](https://www.legislation.gov.uk/ssi/2007/558).
 
 [^f00003]: Footnote: [S.S.I. 2009/60](https://www.legislation.gov.uk/ssi/2009/60).
 
-[^key-afd02bd4de2546dcfc31ea2f998c948f]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1) in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
+[^c-afd02bd4de2546dcfc31ea2f998c948f]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1) in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
 
-[^key-3970cd675af360e196ab4ae14777e42b]: Textual amendment: Words in [sch. Pt. 1 s. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1/section/1) substituted (5.12.2022) by [The Education (Listed Bodies) (Scotland) Amendment Order 2022 (S.S.I. 2022/294)](https://www.legislation.gov.uk/ssi/2022/294), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/294/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/294/article/3/a)
+[^c-3970cd675af360e196ab4ae14777e42b]: Textual amendment: Words in [sch. Pt. 1 s. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1/section/1) substituted (5.12.2022) by [The Education (Listed Bodies) (Scotland) Amendment Order 2022 (S.S.I. 2022/294)](https://www.legislation.gov.uk/ssi/2022/294), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/294/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/294/article/3/a)
 
-[^key-1a235fb6c9dda3d5d3f19bc0ed30d4a0]: Textual amendment: Words in [sch. Pt. 1 s. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1/section/1) substituted (5.12.2022) by [The Education (Listed Bodies) (Scotland) Amendment Order 2022 (S.S.I. 2022/294)](https://www.legislation.gov.uk/ssi/2022/294), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/294/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/294/article/3/b)
+[^c-1a235fb6c9dda3d5d3f19bc0ed30d4a0]: Textual amendment: Words in [sch. Pt. 1 s. 1](https://www.legislation.gov.uk/ssi/2018/7/schedule/part/1/section/1) substituted (5.12.2022) by [The Education (Listed Bodies) (Scotland) Amendment Order 2022 (S.S.I. 2022/294)](https://www.legislation.gov.uk/ssi/2022/294), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/294/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/294/article/3/b)
 
-[^key-273067b7a5eea5496af373c1b53508ef]: Commencement: Sch. Pt. 2 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)
+[^c-273067b7a5eea5496af373c1b53508ef]: Commencement: Sch. Pt. 2 in force at 31.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/7/article/1/1)

@@ -28,7 +28,7 @@ Section 5.
 
 - (a) agreeing upon the purposes of the society and upon the extent of its powers in a memorandum the provisions of which comply with the requirements of this Schedule;
 - (b) agreeing upon rules for the regulation of the society which comply with the requirements of this Schedule; and
-- (c) sending to the FCA[^key-237af2b38f33c031ba5fc8a3bba23b79] 3 copies of the memorandum and the rules, each copy signed by at least 7 of those persons (or, if there are only 7, by all of them) and (unless the secretary is to be elected) by the intended secretary.
+- (c) sending to the FCA[^c-237af2b38f33c031ba5fc8a3bba23b79] 3 copies of the memorandum and the rules, each copy signed by at least 7 of those persons (or, if there are only 7, by all of them) and (unless the secretary is to be elected) by the intended secretary.
 
 (2) Where two or more friendly societies propose to amalgamate under section 85 above, they shall establish their successor society by—
 
@@ -44,7 +44,7 @@ Section 5.
 
 shall register the society and issue it with a certificate of incorporation.
 
-(4) The FCA shall not register a society as the successor society to any friendly societies proposing to amalgamate unless the appropriate authority[^key-75ad6de5daaba70418c6494411cc4514] [^c15390001]. . . has confirmed the proposed amalgamation under section 85 above.
+(4) The FCA shall not register a society as the successor society to any friendly societies proposing to amalgamate unless the appropriate authority[^c-75ad6de5daaba70418c6494411cc4514] [^c15390001]. . . has confirmed the proposed amalgamation under section 85 above.
 
 (5)[^c15390011] The FCA shall not register a society which, if it were registered [^c15390031]. . ., would be a society to which section 37(2) or (3) above applies if the FCA is satisfied that the principal place of business of the society is to be situated outside the United Kingdom; [^c15390031]. . ..
 
@@ -193,14 +193,14 @@ but the FCA shall not register the copy.
 **10.**[^c15390411] (1) Every incorporated friendly society shall have its name mentioned in legible characters—
 
 - (a) in all its business letters, its notices and its other official publications;
-- (b) in all its bills of parcels, invoices, receipts and letters of credit; [^key-1474ffe890e288c3da75b4b354fc4aec]...
+- (b) in all its bills of parcels, invoices, receipts and letters of credit; [^c-1474ffe890e288c3da75b4b354fc4aec]...
 - (c) in all bills of exchange, promissory notes, endorsements, cheques and orders for money or goods purporting to be signed by or on behalf of the society.
-- (d)[^key-65608df4bd70fe0cf39a3f7315892b37] in all its business correspondence and documentation that takes electronic form; and
+- (d)[^c-65608df4bd70fe0cf39a3f7315892b37] in all its business correspondence and documentation that takes electronic form; and
 - (e) on all its websites.
 
 (2) Where the name of an incorporated friendly society does not include the words “friendly society", the fact that it is an incorporated friendly society shall be shown in legible characters in all documents such as are mentioned in sub-paragraph (1) above.
 
-(3)[^key-ae0da47d72b37d434b926f7db69a9d96] The reference in this paragraph to a society’s websites includes a reference to a section of another person’s website—
+(3)[^c-ae0da47d72b37d434b926f7db69a9d96] The reference in this paragraph to a society’s websites includes a reference to a section of another person’s website—
 
 - (a) which relates to the society; and
 - (b) which the society placed, or the placement of which the society authorised, on the other person’s website.
@@ -251,8 +251,8 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 (2) The reference in sub-paragraph (1) above to a copy of an incorporated friendly society’s statutory documents is a reference to—
 
-- (a) a [^key-660dad41e6943af9f897490748521ff1]... copy of the society’s rules for the time being, with a copy of the certificate of incorporation of the society annexed to it; and
-- (b) a [^key-660dad41e6943af9f897490748521ff1]... copy of the memorandum of the society for the time being.
+- (a) a [^c-660dad41e6943af9f897490748521ff1]... copy of the society’s rules for the time being, with a copy of the certificate of incorporation of the society annexed to it; and
+- (b) a [^c-660dad41e6943af9f897490748521ff1]... copy of the memorandum of the society for the time being.
 
 (3) If an incorporated friendly society fails to comply with the requirements of sub-paragraph (1) above, the society shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -262,7 +262,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 **14.**[^c15390541] (1) Every incorporated friendly society shall maintain a register of the names and addresses of the members of the society.
 
-(1A)[^key-dae0357e7575437981f6bf6a05542667] Where a member has notified to the society an electronic address for the purpose of receiving notices or documents under this Act, the requirement under sub-paragraph (1) includes a requirement to secure that the register shows—
+(1A)[^c-dae0357e7575437981f6bf6a05542667] Where a member has notified to the society an electronic address for the purpose of receiving notices or documents under this Act, the requirement under sub-paragraph (1) includes a requirement to secure that the register shows—
 
 - (a) that electronic address; and
 - (b) the purposes for which it has been notified.
@@ -276,14 +276,14 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 - (a) may remove that address from the register; and
 - (b) need not enter in the register an address for that member while it has no address for him and his whereabouts are unknown.
 
-(4A)[^key-9ba38e0c00659bd0f7816a60d7432b18] Where it appears to an incorporated friendly society that an electronic address shown on the register pursuant to sub-paragraph (1) is no longer current, the society may remove that address from the register.
+(4A)[^c-9ba38e0c00659bd0f7816a60d7432b18] Where it appears to an incorporated friendly society that an electronic address shown on the register pursuant to sub-paragraph (1) is no longer current, the society may remove that address from the register.
 
 (5) If an incorporated friendly society contravenes sub-paragraph (1) above, the society shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (6) For the purposes of this Act “**registered address**”, in relation to a member of an incorporated friendly society, means—
 
-- (a) the postal[^key-838c13479a23ca2e495e780f86770b2d] address shown in the register mentioned under this paragraph, except in a case where paragraph (b) below applies;
-- (b) where the member has requested that communications from the society be sent to some other address (not being an electronic address)[^key-f99d7f5ad80ff406c8a20a38c486522b], that other address.
+- (a) the postal[^c-838c13479a23ca2e495e780f86770b2d] address shown in the register mentioned under this paragraph, except in a case where paragraph (b) below applies;
+- (b) where the member has requested that communications from the society be sent to some other address (not being an electronic address)[^c-f99d7f5ad80ff406c8a20a38c486522b], that other address.
 
 ### Inspection of records by members
 
@@ -295,9 +295,9 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c15389941]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1) wholly in force; [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 
-[^key-237af2b38f33c031ba5fc8a3bba23b79]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 51(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/51/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-237af2b38f33c031ba5fc8a3bba23b79]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 51(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/51/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-75ad6de5daaba70418c6494411cc4514]: Textual amendment: Words in [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 51(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/51/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-75ad6de5daaba70418c6494411cc4514]: Textual amendment: Words in [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 51(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/51/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15390001]: Textual amendment: Words in [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/1/4) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -329,11 +329,11 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c15390411]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10) wholly in force; [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 
-[^key-1474ffe890e288c3da75b4b354fc4aec]: Textual amendment: Word in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1) omitted (12.4.2011) by virtue of [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2011/593/article/9/a)
+[^c-1474ffe890e288c3da75b4b354fc4aec]: Textual amendment: Word in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1) omitted (12.4.2011) by virtue of [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2011/593/article/9/a)
 
-[^key-65608df4bd70fe0cf39a3f7315892b37]: Textual amendment: [Sch. 3 para. 10(1)(d)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1/d)[(e)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1/e) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2011/593/article/9/b)
+[^c-65608df4bd70fe0cf39a3f7315892b37]: Textual amendment: [Sch. 3 para. 10(1)(d)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1/d)[(e)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/1/e) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2011/593/article/9/b)
 
-[^key-ae0da47d72b37d434b926f7db69a9d96]: Textual amendment: [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/3) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2011/593/article/9/c)
+[^c-ae0da47d72b37d434b926f7db69a9d96]: Textual amendment: [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/10/3) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2011/593/article/9/c)
 
 [^c15390431]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/11) wholly in force; [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/11) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/11) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 
@@ -341,7 +341,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c15390511]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13) wholly in force; [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 
-[^key-660dad41e6943af9f897490748521ff1]: Textual amendment: Word in [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13/2) omitted (12.4.2011) by virtue of [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [10](https://www.legislation.gov.uk/uksi/2011/593/article/10)
+[^c-660dad41e6943af9f897490748521ff1]: Textual amendment: Word in [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13/2) omitted (12.4.2011) by virtue of [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [10](https://www.legislation.gov.uk/uksi/2011/593/article/10)
 
 [^c15390521]: Modification: [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/13/4): Functions of the Friendly Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/II) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/2617/article/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
@@ -349,12 +349,12 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c15390541]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14) wholly in force; [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)
 
-[^key-dae0357e7575437981f6bf6a05542667]: Textual amendment: [Sch. 3 para. 14(1A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/1A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/a)
+[^c-dae0357e7575437981f6bf6a05542667]: Textual amendment: [Sch. 3 para. 14(1A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/1A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/a)
 
-[^key-9ba38e0c00659bd0f7816a60d7432b18]: Textual amendment: [Sch. 3 para. 14(4A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/4A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/b)
+[^c-9ba38e0c00659bd0f7816a60d7432b18]: Textual amendment: [Sch. 3 para. 14(4A)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/4A) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/b)
 
-[^key-838c13479a23ca2e495e780f86770b2d]: Textual amendment: Word in [Sch. 3 para. 14(6)(a)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/6/a) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/c)
+[^c-838c13479a23ca2e495e780f86770b2d]: Textual amendment: Word in [Sch. 3 para. 14(6)(a)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/6/a) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/c)
 
-[^key-f99d7f5ad80ff406c8a20a38c486522b]: Textual amendment: Words in [Sch. 3 para. 14(6)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/6/b) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(d)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/d)
+[^c-f99d7f5ad80ff406c8a20a38c486522b]: Textual amendment: Words in [Sch. 3 para. 14(6)(b)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/14/6/b) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [11(2)(d)](https://www.legislation.gov.uk/uksi/2011/593/article/11/2/d)
 
 [^c15390551]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/15) wholly in force; [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/15) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/40/schedule/3/paragraph/15) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3)

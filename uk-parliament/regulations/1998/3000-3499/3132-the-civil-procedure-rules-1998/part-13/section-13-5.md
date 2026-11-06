@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.5. Claimant’s duty to apply to set aside judgment[^key-ecb787b5fe70428f7fa3d4b1b7b91e96]
+## 13.5. Claimant’s duty to apply to set aside judgment[^c-ecb787b5fe70428f7fa3d4b1b7b91e96]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecb787b5fe70428f7fa3d4b1b7b91e96]: Textual amendment: [Rule 13.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.5) revoked (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [21(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/21/a)
+[^c-ecb787b5fe70428f7fa3d4b1b7b91e96]: Textual amendment: [Rule 13.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.5) revoked (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [21(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/21/a)

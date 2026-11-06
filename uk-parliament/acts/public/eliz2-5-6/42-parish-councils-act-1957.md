@@ -72,7 +72,7 @@ A parish council may provide, maintain and light such public clocks within the p
 
 ### 5. Provisions as to consents and access.[^c613168][^c613169][^c613167]
 
-(1)[^c613170][^key-3608b518809fbf24582544f9b90c976e] A parish council or parish meeting shall not have power by virtue of the foregoing provisions of this Part of this Act to provide any seat, shelter, clock, lamp or lamp post, any other material or apparatus, . . . [^c613171] —
+(1)[^c613170][^c-3608b518809fbf24582544f9b90c976e] A parish council or parish meeting shall not have power by virtue of the foregoing provisions of this Part of this Act to provide any seat, shelter, clock, lamp or lamp post, any other material or apparatus, . . . [^c613171] —
 
 - (a) on any land or premises not forming part of a road, or in a position obstructing or interfering with any existing access to any such land or premises, except with the consent of the owner and the occupier of the land or premises; or
 - (b) in any road which is not a highway or in any public path, except with the consent of the owner and the occupier of the land over which the road or path runs; or
@@ -87,7 +87,7 @@ A parish council may provide, maintain and light such public clocks within the p
   | In any road which is a highway belonging to and repairable by any railway, dock, harbour, canal, inland navigation or passenger road transport undertakers and forming the approach to any station, dock, wharf or depot of those undertakers. | The undertakers concerned. |
   | On any bridge carrying a highway over any railway, dock, harbour, canal or inland navigation, or on the approaches to any such bridge or under any bridge carrying a railway, canal or inland navigation over a highway. | The railway, dock, harbour, canal or inland navigation undertakers concerned. |
 
-(2)[^c613170][^key-3608b518809fbf24582544f9b90c976e] Any consent required by paragraph (*c*) of subsection (1) of this section shall not unreasonably be withheld, but may be given subject to any reasonable conditions, including a condition that the parish council or parish meeting, as the case may be, shall remove any thing to the provision of which the consent relates either at any time or at or after the expiration of a period if reasonably required so to do by the person giving the consent.
+(2)[^c613170][^c-3608b518809fbf24582544f9b90c976e] Any consent required by paragraph (*c*) of subsection (1) of this section shall not unreasonably be withheld, but may be given subject to any reasonable conditions, including a condition that the parish council or parish meeting, as the case may be, shall remove any thing to the provision of which the consent relates either at any time or at or after the expiration of a period if reasonably required so to do by the person giving the consent.
 
 (3) Any dispute between a parish council or parish meeting and a person whose consent is required under paragraph (*c*) of subsection (1) of this section whether that consent is unreasonably withheld or is given subject to reasonable conditions, or whether the removal of any thing to the provision of which the consent relates in accordance with any condition of the consent is reasonably required, shall—
 
@@ -206,7 +206,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 [^c613170]: Modification: S. 5(1)(2): Certain functions made exercisable by, or by employees of, such person as may be authorised in that behalf by the Secretary of State for Transport (25.7.1995) by [S.I. 1995/1986](https://www.legislation.gov.uk/uksi/1995/1986), [art. 2](https://www.legislation.gov.uk/uksi/1995/1986/article/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1995/1986/schedule/3/paragraph/4)
 
-[^key-3608b518809fbf24582544f9b90c976e]: Modification: S. 5(1)(2): functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/4)
+[^c-3608b518809fbf24582544f9b90c976e]: Modification: S. 5(1)(2): functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/4)
 
 [^c613171]: Textual amendment: Words repealed by [Road Traffic Act 1960 (c. 16)](https://www.legislation.gov.uk/ukpga/1960/16), [Sch. 18](https://www.legislation.gov.uk/ukpga/1960/16/schedule/18)
 

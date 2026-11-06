@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Power to operate scheduled works[^key-82e502597d0fd4b2a91425681e97bedd]
+## 44. Power to operate scheduled works[^c-82e502597d0fd4b2a91425681e97bedd]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ occasioned by the operation of the scheduled works unless the costs, damages, lo
 
 ## Annotations
 
-[^key-82e502597d0fd4b2a91425681e97bedd]: Commencement: Art. 44 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-82e502597d0fd4b2a91425681e97bedd]: Commencement: Art. 44 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

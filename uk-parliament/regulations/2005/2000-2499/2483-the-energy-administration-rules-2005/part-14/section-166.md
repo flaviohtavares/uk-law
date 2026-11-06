@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Confidentiality of documents[^key-8036298d8cc73047f7a0f175e1e1c102]
+## 166. Confidentiality of documents[^c-8036298d8cc73047f7a0f175e1e1c102]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ he may decline to allow it to be inspected by a person who would otherwise be en
 
 ## Annotations
 
-[^key-8036298d8cc73047f7a0f175e1e1c102]: Commencement: Rule 166 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8036298d8cc73047f7a0f175e1e1c102]: Commencement: Rule 166 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

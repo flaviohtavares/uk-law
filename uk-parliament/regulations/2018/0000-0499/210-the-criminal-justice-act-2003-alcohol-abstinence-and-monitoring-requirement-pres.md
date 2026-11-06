@@ -62,7 +62,7 @@ The following Orders are revoked—
 
 ## 3. Prescription of arrangement for monitoring
 
-The arrangement for monitoring prescribed by the Secretary of State for the purpose of paragraph 25(7)(c) of Schedule 9 to the Sentencing Code[^key-200771c467de1158cff1f0e7e338c8f4] is monitoring by a transdermal electronic tag.
+The arrangement for monitoring prescribed by the Secretary of State for the purpose of paragraph 25(7)(c) of Schedule 9 to the Sentencing Code[^c-200771c467de1158cff1f0e7e338c8f4] is monitoring by a transdermal electronic tag.
 
 Rory Stewart
 
@@ -96,4 +96,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22914031]: Marginal citation: [S.I. 2017/537](https://www.legislation.gov.uk/uksi/2017/537).
 
-[^key-200771c467de1158cff1f0e7e338c8f4]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2018/210/article/3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 438](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/438) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-200771c467de1158cff1f0e7e338c8f4]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2018/210/article/3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 438](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/438) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

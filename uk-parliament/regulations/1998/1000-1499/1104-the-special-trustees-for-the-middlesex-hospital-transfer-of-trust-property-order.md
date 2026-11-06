@@ -44,7 +44,7 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers conferred on him by section 92(1) of the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, having regard to the change in the arrangements for the administration of hospitals and other establishments and facilities resulting from the establishment of the Camden and Islington Community Health Services National Health Service Trust[^f00002], having consulted that Trust and the Special Trustees for the Middlesex Hospital in accordance with section 92(3) of that Act, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-332982b3b256d622facdab6b2c7854a5]
+## 1. Citation, commencement and interpretation[^c-332982b3b256d622facdab6b2c7854a5]
 
 (1) This Order may be cited as the Special Trustees for the Middlesex Hospital (Transfer of Trust Property) Order 1998 and shall come into force on 14th May 1998.
 
@@ -54,7 +54,7 @@ The Secretary of State for Health, in exercise of the powers conferred on him by
 - “the Trust” means the Camden and Islington Community Health Services National Health Service Trust;
 - “the trust property” means the items specified in a schedule of trust property prepared by, agreed upon by and signed on behalf of the Special Trustees and the Trust on 11th August 1997.
 
-## 2. Transfer of trust property[^key-57ca91250b5923c240907579d101b1d9]
+## 2. Transfer of trust property[^c-57ca91250b5923c240907579d101b1d9]
 
 On 14th May 1998 the trust property shall be transferred from the Special Trustees to the Trust.
 
@@ -78,6 +78,6 @@ This Order transfers to the Camden and Islington Community Health Services Natio
 
 [^f00002]: Footnote: *See* S.I. [1992/2519](https://www.legislation.gov.uk/uksi/1992/2519).
 
-[^key-332982b3b256d622facdab6b2c7854a5]: Commencement: Art. 1 in force at 14.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1104/article/1/1)
+[^c-332982b3b256d622facdab6b2c7854a5]: Commencement: Art. 1 in force at 14.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1104/article/1/1)
 
-[^key-57ca91250b5923c240907579d101b1d9]: Commencement: Art. 2 in force at 14.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1104/article/1/1)
+[^c-57ca91250b5923c240907579d101b1d9]: Commencement: Art. 2 in force at 14.5.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1104/article/1/1)

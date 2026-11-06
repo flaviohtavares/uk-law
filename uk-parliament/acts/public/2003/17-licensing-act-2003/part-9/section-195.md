@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 195. Crown application[^key-19ff1fb4e61fe1f752c08cd4b2932dce]
+## 195. Crown application[^c-19ff1fb4e61fe1f752c08cd4b2932dce]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19ff1fb4e61fe1f752c08cd4b2932dce]: Modification: S. 195 applied (with modifications) (2.3.2020) by [Public Health (Minimum Price for Alcohol) (Wales) Act 2018 (anaw 5)](https://www.legislation.gov.uk/anaw/2018/5), [ss. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23), [28(2)](https://www.legislation.gov.uk/anaw/2018/5/section/28/2) (with [s. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23)); [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-19ff1fb4e61fe1f752c08cd4b2932dce]: Modification: S. 195 applied (with modifications) (2.3.2020) by [Public Health (Minimum Price for Alcohol) (Wales) Act 2018 (anaw 5)](https://www.legislation.gov.uk/anaw/2018/5), [ss. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23), [28(2)](https://www.legislation.gov.uk/anaw/2018/5/section/28/2) (with [s. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23)); [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)

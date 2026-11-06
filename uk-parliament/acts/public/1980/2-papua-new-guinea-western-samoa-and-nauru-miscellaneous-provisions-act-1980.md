@@ -95,15 +95,15 @@ Section 3.
 
 #### Army Act 1955 (c. 18)
 
-**10.**[^key-74021993feaf06cae06a5cdbe869ff15][^c990299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-74021993feaf06cae06a5cdbe869ff15][^c990299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Air Force Act 1955 (c. 19)
 
-**11.**[^key-74021993feaf06cae06a5cdbe869ff15][^c990300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-74021993feaf06cae06a5cdbe869ff15][^c990300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Naval Discipline Act 1957 (c.53)
 
-**12.**[^key-74021993feaf06cae06a5cdbe869ff15][^c990301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-74021993feaf06cae06a5cdbe869ff15][^c990301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Offices, Shops and Railway Premises Act 1963 (c. 41)
 
@@ -145,7 +145,7 @@ Section 3.
 
 [^c990298]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-74021993feaf06cae06a5cdbe869ff15]: Textual amendment: [Sch. paras. 10-12](https://www.legislation.gov.uk/ukpga/1980/2/schedule/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-74021993feaf06cae06a5cdbe869ff15]: Textual amendment: [Sch. paras. 10-12](https://www.legislation.gov.uk/ukpga/1980/2/schedule/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c990299]: Modification: The text of Sch. paras. 4, 6, 10, 11, 12, 13, 14 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

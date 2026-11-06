@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Invalid nominations of individuals[^key-1fd00ab2da72b0cdc9d46fdfe4792111]
+## 143. Invalid nominations of individuals[^c-1fd00ab2da72b0cdc9d46fdfe4792111]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd00ab2da72b0cdc9d46fdfe4792111]: Commencement: Reg. 143 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1fd00ab2da72b0cdc9d46fdfe4792111]: Commencement: Reg. 143 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

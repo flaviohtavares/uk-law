@@ -31,24 +31,24 @@ House of Commons Members’ Fund Act 1962 (repealed)
 
 1962 c.53
 
-[^key-e509eece3f2169fb8443465b3b13d004]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e509eece3f2169fb8443465b3b13d004]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Powers of investment of trustees.[^key-e509eece3f2169fb8443465b3b13d004]
+## 1. Powers of investment of trustees.[^c-e509eece3f2169fb8443465b3b13d004]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation, short title, citation and repeal.[^key-e509eece3f2169fb8443465b3b13d004]
+## 2. Interpretation, short title, citation and repeal.[^c-e509eece3f2169fb8443465b3b13d004]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e509eece3f2169fb8443465b3b13d004]
+## SCHEDULE[^c-e509eece3f2169fb8443465b3b13d004]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e509eece3f2169fb8443465b3b13d004]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(d)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/d)
+[^c-e509eece3f2169fb8443465b3b13d004]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(d)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/d)

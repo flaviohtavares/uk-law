@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Insertion of section 85A (English text)[^key-9b2d59d6f052a407a643094dae15afdf]
+## 132. Insertion of section 85A (English text)[^c-9b2d59d6f052a407a643094dae15afdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In the English language text, after section 85, insert—
 
 ## Annotations
 
-[^key-9b2d59d6f052a407a643094dae15afdf]: Commencement: Reg. 132 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9b2d59d6f052a407a643094dae15afdf]: Commencement: Reg. 132 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

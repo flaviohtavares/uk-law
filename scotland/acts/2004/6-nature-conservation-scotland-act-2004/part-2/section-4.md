@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Site management statements[^key-cef9d7c867e7f7f21098fba42a44cc95]
+## 4. Site management statements[^c-cef9d7c867e7f7f21098fba42a44cc95]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ review and, if it thinks fit, revise the site management statement.
 
 ## Annotations
 
-[^key-cef9d7c867e7f7f21098fba42a44cc95]: Commencement: S. 4 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-cef9d7c867e7f7f21098fba42a44cc95]: Commencement: S. 4 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

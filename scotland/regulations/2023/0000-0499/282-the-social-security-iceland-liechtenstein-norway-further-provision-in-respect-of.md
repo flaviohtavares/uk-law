@@ -56,7 +56,7 @@ The Convention shall enter into force (in relation to the States which have noti
 
 In order to give effect to the Convention, therefore, His Majesty, in exercise of the powers conferred upon Him by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Him to do so, is pleased, by and with the advice of His Privy Council, to order as follows:
 
-## 1. Citation, commencement and interpretation[^key-d3cc8a67c949a100ae578d86d9077e09]
+## 1. Citation, commencement and interpretation[^c-d3cc8a67c949a100ae578d86d9077e09]
 
 (1) This Order may be cited as the Social Security (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2023 and comes into force—
 
@@ -69,14 +69,14 @@ In order to give effect to the Convention, therefore, His Majesty, in exercise o
 - “the Depositary” is to be interpreted in accordance with Article 73(2) (authentic text and depositary) of the Convention set out in the schedule of the 2023 Order, and
 - “**EEA EFTA State**” has the meaning given to it in Article 1(o) (definitions) of the Convention set out in the schedule of the 2023 Order.
 
-## 2. Application of article 2 of the 2023 Order[^key-417e036389bb5bef063803f33cf5010a]
+## 2. Application of article 2 of the 2023 Order[^c-417e036389bb5bef063803f33cf5010a]
 
 Paragraphs (1) and (2) of article 2 of the 2023 Order (modification of legislation) apply insofar as—
 
 - (a) it is within the legislative competence of the Scottish Parliament to make the modification paragraph (1) of article 2 of that Order describes, and
 - (b) the 2023 Order does not make that modification.
 
-## 3. Application of article 3 of the 2023 Order[^key-8ef0b784b29ee18198486b5b9dee1e3f]
+## 3. Application of article 3 of the 2023 Order[^c-8ef0b784b29ee18198486b5b9dee1e3f]
 
 The legislation described by article 3 of the 2023 Order (variation of orders) is varied in accordance with Article 78 (relationship with pre-existing Social Security Coordination Agreements) of the Convention set out in the schedule of that Order so far as such legislation relates to Scotland and it would be within the legislative competence of the Scottish Parliament to make the variation if it were contained in an Act of the Scottish Parliament.
 
@@ -100,12 +100,12 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00002]: Footnote: 2023 CP 889.
 
-[^key-d3cc8a67c949a100ae578d86d9077e09]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-d3cc8a67c949a100ae578d86d9077e09]: Commencement: Art. 1 comes into force in accordance with art. 1
 
 [^f00003]: Footnote: The date on which the Convention enters into force will be published on the relevant page on UK Treaties Online which can be found at https://www.gov.uk/guidance/uk-treaties.
 
 [^f00004]: Footnote: [S.I. 2023/1060](https://www.legislation.gov.uk/uksi/2023/1060).
 
-[^key-417e036389bb5bef063803f33cf5010a]: Commencement: Art. 2 comes into force in accordance with [art. 1](https://editorial.legislation.gov.uk/ssi/2023/282/article/1)
+[^c-417e036389bb5bef063803f33cf5010a]: Commencement: Art. 2 comes into force in accordance with [art. 1](https://editorial.legislation.gov.uk/ssi/2023/282/article/1)
 
-[^key-8ef0b784b29ee18198486b5b9dee1e3f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2023/282/article/3) inserted (11.3.2024) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2024/62/article/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2024/62/article/4/2)
+[^c-8ef0b784b29ee18198486b5b9dee1e3f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2023/282/article/3) inserted (11.3.2024) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2024/62/article/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2024/62/article/4/2)

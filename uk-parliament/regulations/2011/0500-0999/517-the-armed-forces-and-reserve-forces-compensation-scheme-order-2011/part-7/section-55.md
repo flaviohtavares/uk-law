@@ -61,7 +61,7 @@ relate to the period of service during which the injury for which injury benefit
   - (i) to a reconsideration of the decision under article 53; and
   - (ii) to appeal to the appropriate tribunal under section 5A(1) of the Pensions Appeal Tribunals Act 1943.
 
-(8) Article 49 has effect in respect of an application for a review under this article and articles 56 and 57[^key-dff0d151320094e2d8329da6ce2193ea] as though a reference to making a claim was a reference to making an application for a review and reference to the time for making a claim was a reference to the time for making an application for a review.
+(8) Article 49 has effect in respect of an application for a review under this article and articles 56 and 57[^c-dff0d151320094e2d8329da6ce2193ea] as though a reference to making a claim was a reference to making an application for a review and reference to the time for making a claim was a reference to the time for making an application for a review.
 
 (9) The Secretary of State is to review an injury benefit decision under this article on one occasion only.
 
@@ -78,4 +78,4 @@ and in either case the reconsideration has not been determined;
 
 ## Annotations
 
-[^key-dff0d151320094e2d8329da6ce2193ea]: Textual amendment: Words in [art. 55(8)](https://www.legislation.gov.uk/uksi/2011/517/article/55/8) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [7](https://www.legislation.gov.uk/uksi/2018/293/article/7)
+[^c-dff0d151320094e2d8329da6ce2193ea]: Textual amendment: Words in [art. 55(8)](https://www.legislation.gov.uk/uksi/2011/517/article/55/8) inserted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [7](https://www.legislation.gov.uk/uksi/2018/293/article/7)

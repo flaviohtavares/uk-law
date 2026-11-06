@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 434. Production of documents and evidence to inspectors.[^c17408921][^c17408931][^c17408941][^key-9dd6a6a3959695cafd83e4c2b36c9457]
+## 434. Production of documents and evidence to inspectors.[^c17408921][^c17408931][^c17408941][^c-9dd6a6a3959695cafd83e4c2b36c9457]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ by or on behalf of the prosecution, unless evidence relating to it is adduced, o
 
 [^c17408941]: Modification: S. 434 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-9dd6a6a3959695cafd83e4c2b36c9457]: Modification: S. 434 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-9dd6a6a3959695cafd83e4c2b36c9457]: Modification: S. 434 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17408951]: Textual amendment: Words in s. 434(1)(a) substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/56/2), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2)
 

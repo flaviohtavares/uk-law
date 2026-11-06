@@ -38,203 +38,203 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-694a9c741da7dce5290121d4a4df6def]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-694a9c741da7dce5290121d4a4df6def]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-694a9c741da7dce5290121d4a4df6def] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-694a9c741da7dce5290121d4a4df6def]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — DEFINITIONS OF CHARACTERISTICS[^key-694a9c741da7dce5290121d4a4df6def]
+## ANNEX I — DEFINITIONS OF CHARACTERISTICS[^c-694a9c741da7dce5290121d4a4df6def]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -248,47 +248,47 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annexes I to IV and VIII of Regulation (EC) No 295/2008 with the exception of enterprises with an activity classified in NACE Rev.2 Section K
+[^c-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annexes I to IV and VIII of Regulation (EC) No 295/2008 with the exception of enterprises with an activity classified in NACE Rev.2 Section K
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annex V of Regulation (EC) No 295/2008, ‘Gross premiums written’ (12 11 0) is calculated as follows:
+[^c-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annex V of Regulation (EC) No 295/2008, ‘Gross premiums written’ (12 11 0) is calculated as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annex VII of Regulation (EC) No 295/2008 Turnover (Total pension contributions) is calculated as follows:
+[^c-694a9c741da7dce5290121d4a4df6def]For the statistics on activities defined in Section 3 of Annex VII of Regulation (EC) No 295/2008 Turnover (Total pension contributions) is calculated as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -296,771 +296,771 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Com-mission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1074,7 +1074,7 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1088,2952 +1088,2952 @@ implementing Regulation (EC) No 295/2008 of the European Parliament and of the C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] Definition:
+[^c-694a9c741da7dce5290121d4a4df6def] Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Link to company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Links with company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Links with company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Links with other variables
+[^c-694a9c741da7dce5290121d4a4df6def]Links with other variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition
+[^c-694a9c741da7dce5290121d4a4df6def]Definition
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Links with company accounts
+[^c-694a9c741da7dce5290121d4a4df6def]Links with company accounts
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
+[^c-694a9c741da7dce5290121d4a4df6def] 4th Accounting Directive: Council Directive 78/660/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
+[^c-694a9c741da7dce5290121d4a4df6def] IAS Regulations: European Parliament and Council Regulation (EC) No 1606/2002 and Commission Regulation (EC) No 1725/2003
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Note:
+[^c-694a9c741da7dce5290121d4a4df6def]Note:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Definition:
+[^c-694a9c741da7dce5290121d4a4df6def]Definition:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Link to other variables:
+[^c-694a9c741da7dce5290121d4a4df6def]Link to other variables:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — TECHNICAL FORMAT FOR THE TRANSMISSION OF STRUCTURAL BUSINESS STATISTICS[^key-694a9c741da7dce5290121d4a4df6def]
+## ANNEX II — TECHNICAL FORMAT FOR THE TRANSMISSION OF STRUCTURAL BUSINESS STATISTICS[^c-694a9c741da7dce5290121d4a4df6def]
 
-[^key-694a9c741da7dce5290121d4a4df6def]1.
+[^c-694a9c741da7dce5290121d4a4df6def]1.
 
 THE FORM OF THE DATA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]2.
+[^c-694a9c741da7dce5290121d4a4df6def]2.
 
 DATA SET IDENTIFIER
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]3.
+[^c-694a9c741da7dce5290121d4a4df6def]3.
 
 RECORD STRUCTURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.
+[^c-694a9c741da7dce5290121d4a4df6def]4.
 
 DESCRIPTION OF THE FIELDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.1.
+[^c-694a9c741da7dce5290121d4a4df6def]4.1.
 
 Series
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.2.
+[^c-694a9c741da7dce5290121d4a4df6def]4.2.
 
 Territorial unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.3.
+[^c-694a9c741da7dce5290121d4a4df6def]4.3.
 
 Size classes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.4.
+[^c-694a9c741da7dce5290121d4a4df6def]4.4.
 
 Economic activity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]a)
+[^c-694a9c741da7dce5290121d4a4df6def]a)
 
 NACE Rev.2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]b)
+[^c-694a9c741da7dce5290121d4a4df6def]b)
 
 NACE Rev.1.1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.5.
+[^c-694a9c741da7dce5290121d4a4df6def]4.5.
 
 Variable
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.6.
+[^c-694a9c741da7dce5290121d4a4df6def]4.6.
 
 Data value
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.7.
+[^c-694a9c741da7dce5290121d4a4df6def]4.7.
 
 Quality flag
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.8.
+[^c-694a9c741da7dce5290121d4a4df6def]4.8.
 
 Confidentiality
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.9.
+[^c-694a9c741da7dce5290121d4a4df6def]4.9.
 
 Units of data values
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.10.
+[^c-694a9c741da7dce5290121d4a4df6def]4.10.
 
 Breakdown of products
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.11.
+[^c-694a9c741da7dce5290121d4a4df6def]4.11.
 
 Turnover size classes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.12.
+[^c-694a9c741da7dce5290121d4a4df6def]4.12.
 
 Breakdown by environmental domains
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.13.
+[^c-694a9c741da7dce5290121d4a4df6def]4.13.
 
 Geographical breakdown
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.14.
+[^c-694a9c741da7dce5290121d4a4df6def]4.14.
 
 Residence of parent enterprise
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.15.
+[^c-694a9c741da7dce5290121d4a4df6def]4.15.
 
 Legal form
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.16.
+[^c-694a9c741da7dce5290121d4a4df6def]4.16.
 
 Type of insurance enterprise or insurance business
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.17.
+[^c-694a9c741da7dce5290121d4a4df6def]4.17.
 
 Category
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.18.
+[^c-694a9c741da7dce5290121d4a4df6def]4.18.
 
 Currency breakdown
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.19.
+[^c-694a9c741da7dce5290121d4a4df6def]4.19.
 
 Residence of client
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]4.20.
+[^c-694a9c741da7dce5290121d4a4df6def]4.20.
 
 Population
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]5.
+[^c-694a9c741da7dce5290121d4a4df6def]5.
 
 ADDITIONAL DOCUMENTATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — DOUBLE REPORTING IN NACE Rev.1.1[^key-694a9c741da7dce5290121d4a4df6def]
+## ANNEX III — DOUBLE REPORTING IN NACE Rev.1.1[^c-694a9c741da7dce5290121d4a4df6def]
 
-[^key-694a9c741da7dce5290121d4a4df6def]1.
+[^c-694a9c741da7dce5290121d4a4df6def]1.
 
 The following series of data shall be provided for reference year 2008 using NACE Rev.1.1:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Series 1Z
+[^c-694a9c741da7dce5290121d4a4df6def]Series 1Z
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Series 2Z
+[^c-694a9c741da7dce5290121d4a4df6def]Series 2Z
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Series 3Z
+[^c-694a9c741da7dce5290121d4a4df6def]Series 3Z
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]Series 4Z
+[^c-694a9c741da7dce5290121d4a4df6def]Series 4Z
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]2.
+[^c-694a9c741da7dce5290121d4a4df6def]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — DEROGATIONS[^key-694a9c741da7dce5290121d4a4df6def]
+## ANNEX IV — DEROGATIONS[^c-694a9c741da7dce5290121d4a4df6def]
 
-### Section I: Derogations with regard to the provisions of Annex I[^key-694a9c741da7dce5290121d4a4df6def]
+### Section I: Derogations with regard to the provisions of Annex I[^c-694a9c741da7dce5290121d4a4df6def]
 
-[^key-694a9c741da7dce5290121d4a4df6def]DENMARK
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-694a9c741da7dce5290121d4a4df6def]GERMANY
+[^c-694a9c741da7dce5290121d4a4df6def]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]GREECE
+[^c-694a9c741da7dce5290121d4a4df6def]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]FRANCE
+[^c-694a9c741da7dce5290121d4a4df6def]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]IRELAND
+[^c-694a9c741da7dce5290121d4a4df6def]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]ITALY
+[^c-694a9c741da7dce5290121d4a4df6def]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
+[^c-694a9c741da7dce5290121d4a4df6def]ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]MALTA
+[^c-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]POLAND
+[^c-694a9c741da7dce5290121d4a4df6def]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]SWEDEN
+[^c-694a9c741da7dce5290121d4a4df6def]POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]UNITED KINGDOM
+[^c-694a9c741da7dce5290121d4a4df6def]SWEDEN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section II: Derogations with regard to the provisions of Annex II[^key-694a9c741da7dce5290121d4a4df6def]
-
-[^key-694a9c741da7dce5290121d4a4df6def]BELGIUM
+[^c-694a9c741da7dce5290121d4a4df6def]UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]BULGARIA
+### Section II: Derogations with regard to the provisions of Annex II[^c-694a9c741da7dce5290121d4a4df6def]
+
+[^c-694a9c741da7dce5290121d4a4df6def]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]DENMARK
+[^c-694a9c741da7dce5290121d4a4df6def]BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]GERMANY
+[^c-694a9c741da7dce5290121d4a4df6def]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]GREECE
+[^c-694a9c741da7dce5290121d4a4df6def]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]FRANCE
+[^c-694a9c741da7dce5290121d4a4df6def]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]IRELAND
+[^c-694a9c741da7dce5290121d4a4df6def]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
+[^c-694a9c741da7dce5290121d4a4df6def]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]SLOVENIA
+[^c-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]SLOVAKIA
+[^c-694a9c741da7dce5290121d4a4df6def]SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section III: Derogations with regard to the provisions of Annex III[^key-694a9c741da7dce5290121d4a4df6def]
-
-[^key-694a9c741da7dce5290121d4a4df6def]GERMANY
+[^c-694a9c741da7dce5290121d4a4df6def]SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]FRANCE
+### Section III: Derogations with regard to the provisions of Annex III[^c-694a9c741da7dce5290121d4a4df6def]
+
+[^c-694a9c741da7dce5290121d4a4df6def]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]MALTA
+[^c-694a9c741da7dce5290121d4a4df6def]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section IV: Derogations with regard to the provisions of Annex VIII[^key-694a9c741da7dce5290121d4a4df6def]
-
-[^key-694a9c741da7dce5290121d4a4df6def]BELGIUM
+[^c-694a9c741da7dce5290121d4a4df6def]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]ESTONIA
+### Section IV: Derogations with regard to the provisions of Annex VIII[^c-694a9c741da7dce5290121d4a4df6def]
+
+[^c-694a9c741da7dce5290121d4a4df6def]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]FRANCE
+[^c-694a9c741da7dce5290121d4a4df6def]ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
+[^c-694a9c741da7dce5290121d4a4df6def]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]MALTA
+[^c-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]AUSTRIA
+[^c-694a9c741da7dce5290121d4a4df6def]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]POLAND
+[^c-694a9c741da7dce5290121d4a4df6def]AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]FINLAND
+[^c-694a9c741da7dce5290121d4a4df6def]POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section V: Derogations with regard to the provisions of Annex IX[^key-694a9c741da7dce5290121d4a4df6def]
-
-[^key-694a9c741da7dce5290121d4a4df6def]BELGIUM
+[^c-694a9c741da7dce5290121d4a4df6def]FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]DENMARK
+### Section V: Derogations with regard to the provisions of Annex IX[^c-694a9c741da7dce5290121d4a4df6def]
+
+[^c-694a9c741da7dce5290121d4a4df6def]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]GERMANY
+[^c-694a9c741da7dce5290121d4a4df6def]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]GREECE
+[^c-694a9c741da7dce5290121d4a4df6def]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]IRELAND
+[^c-694a9c741da7dce5290121d4a4df6def]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]CYPRUS
+[^c-694a9c741da7dce5290121d4a4df6def]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
+[^c-694a9c741da7dce5290121d4a4df6def]CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]HUNGARY
+[^c-694a9c741da7dce5290121d4a4df6def]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]MALTA
+[^c-694a9c741da7dce5290121d4a4df6def]HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]ROMANIA
+[^c-694a9c741da7dce5290121d4a4df6def]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-694a9c741da7dce5290121d4a4df6def]SLOVENIA
+[^c-694a9c741da7dce5290121d4a4df6def]ROMANIA
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-694a9c741da7dce5290121d4a4df6def]SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-694a9c741da7dce5290121d4a4df6def]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/150); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-694a9c741da7dce5290121d4a4df6def]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 150](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/150); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

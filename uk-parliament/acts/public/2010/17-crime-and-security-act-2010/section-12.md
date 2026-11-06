@@ -71,7 +71,7 @@ summary: ''
 >
 > **Persons subject to a control order**
 >
-> **4.**[^key-63801e51f8f94c35bf902c60ef173433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-63801e51f8f94c35bf902c60ef173433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Persons convicted etc of an offence outside Northern Ireland**
 >
@@ -138,7 +138,7 @@ summary: ''
 >
 > **Persons subject to a control order**
 >
-> **12.**[^key-63801e51f8f94c35bf902c60ef173433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-63801e51f8f94c35bf902c60ef173433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Persons convicted etc of an offence outside Northern Ireland**
 >
@@ -197,4 +197,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63801e51f8f94c35bf902c60ef173433]: Textual amendment: Words in s. 12(2) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/3) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-63801e51f8f94c35bf902c60ef173433]: Textual amendment: Words in s. 12(2) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/3) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

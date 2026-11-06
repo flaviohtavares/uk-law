@@ -37,17 +37,17 @@ of 29 October 2012
 
 on the rules of application of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council on the financial rules applicable to the general budget of the Union (repealed) (revoked)
 
-[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART ONE — COMMON PROVISIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+### PART ONE — COMMON PROVISIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — SUBJECT MATTER[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE I — SUBJECT MATTER[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,13 +55,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 1 — Subject matter](section-article-1.md)
 
-#### TITLE II — BUDGETARY PRINCIPLES[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE II — BUDGETARY PRINCIPLES[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Principles of unity and budgetary accuracy[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 1 — Principles of unity and budgetary accuracy[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 2 — Accounting for interest yielded on pre-financing(Article 8(4) of the Financial Regulation)](section-article-2.md)
 
-##### CHAPTER 2 — Principle of annuality[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 2 — Principle of annuality[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 3 — Appropriations for the financial year(Article 11(3) of the Financial Regulation)](section-article-3.md)
 - [Section Article 4 — Cancellation and carryover of appropriations(Article 13(2) of the Financial Regulation)](section-article-4.md)
 
-##### CHAPTER 3 — Principle of unit of account[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 3 — Principle of unit of account[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 5 — Rate of conversion between the euro and other currencies(Article 19 of the Financial Regulation)](section-article-5.md)
 - [Section Article 6 — Rate to be used for conversion between the euro and other currencies(Article 19 of the Financial Regulation)](section-article-6.md)
 
-##### CHAPTER 4 — Principle of universality[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 4 — Principle of universality[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,7 +100,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 11 — Charges entailed by acceptance of donations to the Union(Article 22 of the Financial Regulation)](section-article-11.md)
 - [Section Article 12 — Accounts for recoverable taxes(Article 23(3) of the Financial Regulation)](section-article-12.md)
 
-##### CHAPTER 5 — Principle of specification[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 5 — Principle of specification[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,7 +112,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 16 — Grounds for requests for transfers of appropriations(Articles 25 and 26 of the Financial Regulation)](section-article-16.md)
 - [Section Article 17 — Grounds for requests for transfers from the emergency aid reserve(Article 29 of the Financial Regulation)](section-article-17.md)
 
-##### CHAPTER 6 — Principle of sound financial management[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 6 — Principle of sound financial management[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,7 +121,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 18 — Evaluation(Article 30 of the Financial Regulation)](section-article-18.md)
 - [Section Article 19 — Financial statement(Article 31 of the Financial Regulation)](section-article-19.md)
 
-##### CHAPTER 7 — Principle of transparency[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 7 — Principle of transparency[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,7 +131,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 21 — Publication of information on value and recipients of Union funds(Article 35 of the Financial Regulation)](section-article-21.md)
 - [Section Article 22 — Link to the publication of information on recipients of Union funds awarded under indirect management(Article 35 of the Financial Regulation)](section-article-22.md)
 
-#### TITLE III — ESTABLISHMENT AND STRUCTURE OF THE BUDGET[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE III — ESTABLISHMENT AND STRUCTURE OF THE BUDGET[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,13 +144,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 27 — Budget remarks(Article 49(1)(a)(vi) of the Financial Regulation)](section-article-27.md)
 - [Section Article 28 — Establishment plan(Article 49(1)(c)(i) of the Financial Regulation)](section-article-28.md)
 
-#### TITLE IV — IMPLEMENTATION OF THE BUDGET[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE IV — IMPLEMENTATION OF THE BUDGET[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — General provisions[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 1 — General provisions[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -161,13 +161,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 31 — Specific powers of the Commission under the Treaties(Article 54(2)(d) of the Financial Regulation)](section-article-31.md)
 - [Section Article 32 — Acts likely to constitute a conflict of interests and procedure(Article 57 of the Financial Regulation)](section-article-32.md)
 
-##### CHAPTER 2 — Methods of implementation[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 2 — Methods of implementation[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — General provisions[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — General provisions[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -175,7 +175,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 33 — Management mode(Article 58 of the Financial Regulation)](section-article-33.md)
 
-###### Section 2 — Direct Management[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Direct Management[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,7 +185,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 35 — Exercise of powers delegated to executive agencies(Articles 58(1)(a) and 62 of the Financial Regulation)](section-article-35.md)
 - [Section Article 36 — Compliance with the procurement rules(Article 63 of the Financial Regulation)](section-article-36.md)
 
-###### Section 3 — Shared management with Member States[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Shared management with Member States[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -193,7 +193,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 37 — Specific provisions for shared management with Member States measures to promote best practices(Article 59 of the Financial Regulation)](section-article-37.md)
 
-###### Section 4 — Indirect management[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Indirect management[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -207,13 +207,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 43 — Specific provisions for indirect management with international organisations(Article 58(1)(c)(ii) and Article 188 of the Financial Regulation)](section-article-43.md)
 - [Section Article 44 — Designation of public law bodies or bodies governed by private law with a public-service mission(Article 58(1)(c)(v) and (vi) of the Financial Regulation)](section-article-44.md)
 
-##### CHAPTER 3 — Financial actors[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 3 — Financial actors[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Rights and obligations of the financial actors[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — Rights and obligations of the financial actors[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -221,7 +221,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 45 — Rights and obligations of the financial actors(Article 64 of the Financial Regulation)](section-article-45.md)
 
-###### Section 2 — Authorising officer[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Authorising officer[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -236,7 +236,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 52 — Transmission of financial and management information to the accounting officer(Article 66 of the Financial Regulation)](section-article-52.md)
 - [Section Article 53 — Report on negotiated procedures(Article 66 of the Financial Regulation)](section-article-53.md)
 
-###### Section 3 — Accounting officer[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Accounting officer[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 64 — Keeping of supporting documents by the accounting officer(Article 68 of the Financial Regulation)](section-article-64.md)
 - [Section Article 65 — Persons empowered to administer accounts(Article 69 of the Financial Regulation)](section-article-65.md)
 
-###### Section 4 — Imprest administrator[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Imprest administrator[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -270,13 +270,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 72 — Creation of imprest accounts(Article 70 of the Financial Regulation)](section-article-72.md)
 - [Section Article 73 — Imprest administrators and persons empowered to administer accounts in the Union delegations(Article 70 of the Financial Regulation)](section-article-73.md)
 
-##### CHAPTER 4 — Liability of the financial actors[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 4 — Liability of the financial actors[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — General rules[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — General rules[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,7 +284,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 74 — Bodies responsible in matters of fraud(Articles 66(8) and 72(2) of the Financial Regulation)](section-article-74.md)
 
-###### Section 2 — Rules applicable to authorising officers by delegation and subdelegation[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Rules applicable to authorising officers by delegation and subdelegation[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -294,13 +294,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 76 — Financial Irregularities Panel(Articles 66(7) and 73(6) of the Financial Regulation)](section-article-76.md)
 - [Section Article 77 — Confirmation of instructions(Article 73(3) of the Financial Regulation)](section-article-77.md)
 
-##### CHAPTER 5 — Revenue operations[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 5 — Revenue operations[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Own resources[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — Own resources[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -308,7 +308,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 78 — Rules applying to own resources(Article 76 of the Financial Regulation)](section-article-78.md)
 
-###### Section 2 — Estimate of amounts receivable[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Estimate of amounts receivable[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -316,7 +316,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 79 — Estimate of amounts receivable(Article 77 of the Financial Regulation)](section-article-79.md)
 
-###### Section 3 — Establishment of amounts receivable[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Establishment of amounts receivable[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -327,7 +327,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 82 — Supporting documents for the establishment of amounts receivable(Article 78 of the Financial Regulation)](section-article-82.md)
 - [Section Article 83 — Default interest(Article 78 of the Financial Regulation)](section-article-83.md)
 
-###### Section 4 — Authorisation of recovery[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Authorisation of recovery[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -336,7 +336,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 84 — Establishment of the recovery order(Article 79 of the Financial Regulation)](section-article-84.md)
 - [Section Article 85 — Enforceable decision for the benefit of other institutions(Article 79(2) of the Financial Regulation)](section-article-85.md)
 
-###### Section 5 — Recovery[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 5 — Recovery[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -351,7 +351,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 92 — Cancellation of an established amount receivable(Article 80 of the Financial Regulation)](section-article-92.md)
 - [Section Article 93 — Rules for limitation periods(Article 81 of the Financial Regulation)](section-article-93.md)
 
-##### CHAPTER 6 — Expenditure operations[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 6 — Expenditure operations[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -359,7 +359,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 94 — Financing decision(Article 84 of the Financial Regulation)](section-article-94.md)
 
-###### Section 1 — Commitment of expenditure[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — Commitment of expenditure[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -371,7 +371,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 98 — Administrative expenditure covered by provisional commitments(Article 85 of the Financial Regulation)](section-article-98.md)
 - [Section Article 99 — Registration of individual legal commitments(Article 86 of the Financial Regulation)](section-article-99.md)
 
-###### Section 2 — Validation of expenditure[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Validation of expenditure[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -385,7 +385,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 105 — Material form of ‘passed for payment’(Article 88 of the Financial Regulation)](section-article-105.md)
 - [Section Article 106 — Material form of ‘certified correct’(Article 88 of the Financial Regulation)](section-article-106.md)
 
-###### Section 3 — Authorisation of payments[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Authorisation of payments[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -394,7 +394,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 107 — Checks on payments by the authorising officer(Article 89 of the Financial Regulation)](section-article-107.md)
 - [Section Article 108 — Mandatory details on payment orders and transmission to the accounting officer(Article 89 of the Financial Regulation)](section-article-108.md)
 
-###### Section 4 — Payment of expenditure[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Payment of expenditure[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -403,7 +403,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 109 — Types of payment(Article 90 of the Financial Regulation)](section-article-109.md)
 - [Section Article 110 — Supporting documents(Article 90 of the Financial Regulation)](section-article-110.md)
 
-###### Section 5 — Time limits for expenditure operations[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 5 — Time limits for expenditure operations[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -411,7 +411,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 111 — Payment time limits and default interest(Article 92 of the Financial Regulation)](section-article-111.md)
 
-##### CHAPTER 7 — IT systems[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 7 — IT systems[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -420,7 +420,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 112 — Description of IT systems(Article 93 of the Financial Regulation)](section-article-112.md)
 - [Section Article 113 — Periodical save(Article 93 of the Financial Regulation)](section-article-113.md)
 
-##### CHAPTER 8 — Internal auditor[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 8 — Internal auditor[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -434,19 +434,19 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 119 — Liability of the internal auditor(Article 100 of the Financial Regulation)](section-article-119.md)
 - [Section Article 120 — Action before the Court of Justice of the European Union(Article 100 of the Financial Regulation)](section-article-120.md)
 
-#### TITLE V — PUBLIC PROCUREMENT AND CONCESSIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE V — PUBLIC PROCUREMENT AND CONCESSIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — General provisions[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 1 — General provisions[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Scope and award principles[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — Scope and award principles[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -455,7 +455,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 121 — Scope and definitions(Article 101(2) of the Financial Regulation)](section-article-121.md)
 - [Section Article 122 — Framework contracts and specific contracts(Article 101(2) of the Financial Regulation)](section-article-122.md)
 
-###### Section 2 — Publicity[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Publicity[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -466,7 +466,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 125 — Publication of notices(Article 103(1) of the Financial Regulation)](section-article-125.md)
 - [Section Article 126 — Other forms of advertising(Article 103(2) of the Financial Regulation)](section-article-126.md)
 
-###### Section 3 — Procurement procedures[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Procurement procedures[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -508,7 +508,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 160 — Contacts between contracting authorities and candidates or tenderers(Article 112 of the Financial Regulation)](section-article-160.md)
 - [Section Article 161 — Information for candidates and tenderers(Article 113(2) and (3) of the Financial Regulation)](section-article-161.md)
 
-###### Section 4 — Performance of the contract, guarantees and corrective actions[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Performance of the contract, guarantees and corrective actions[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -520,7 +520,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 165a — Retention money guarantee(Article 115 of the Financial Regulation)](section-article-165a.md)
 - [Section Article 166 — Suspension in the event of substantial errors or irregularities(Article 116(3) of the Financial Regulation)](section-article-166.md)
 
-##### CHAPTER 2 — Provisions applicable to contracts awarded by the Union institutions on their own account[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 2 — Provisions applicable to contracts awarded by the Union institutions on their own account[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -533,13 +533,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 171 — Standstill period before signature of the contract(Articles 118(2) and (3) of the Financial Regulation)](section-article-171.md)
 - [Section Article 172 — Evidence of access to procurement(Article 119 of the Financial Regulation)](section-article-172.md)
 
-#### TITLE VI — GRANTS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE VI — GRANTS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Scope and form of grants[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 1 — Scope and form of grants[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -556,7 +556,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 181 — Forms of grants(Article 123 of the Financial Regulation)](section-article-181.md)
 - [Section Article 182 — Lump sums, unit costs and flat-rate financing(Article 124 of the Financial Regulation)](section-article-182.md)
 
-##### CHAPTER 2 — Principles[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 2 — Principles[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -576,7 +576,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 194 — Retroactive effect of funding in cases of extreme urgency and conflict prevention(Article 130 of the Financial Regulation)](section-article-194.md)
 - [Section Article 195 — Submission of grant applications(Article 131 of the Financial Regulation)](section-article-195.md)
 
-##### CHAPTER 3 — Award procedure[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 3 — Award procedure[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -593,7 +593,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 204 — Evaluation of applications and award(Article 133 of the Financial Regulation)](section-article-204.md)
 - [Section Article 205 — Information for applicants(Article 133 of the Financial Regulation)](section-article-205.md)
 
-##### CHAPTER 4 — Payment and control[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 4 — Payment and control[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -603,7 +603,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 207 — Supporting documents for payment requests(Article 135 of the Financial Regulation)](section-article-207.md)
 - [Section Article 208 — Suspension and reduction of grants(Article 135 of the Financial Regulation)](section-article-208.md)
 
-##### CHAPTER 5 — Implementation[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 5 — Implementation[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -612,7 +612,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 209 — Implementation contracts(Article 137 of the Financial Regulation)](section-article-209.md)
 - [Section Article 210 — Financial support to third parties(Article 137 of the Financial Regulation)](section-article-210.md)
 
-#### TITLE VII — PRIZES[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE VII — PRIZES[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -624,7 +624,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 214 — Evaluation(Article 138(3) of the Financial Regulation)](section-article-214.md)
 - [Section Article 215 — Information and notification(Article 138(3) of the Financial Regulation)](section-article-215.md)
 
-#### TITLE VIII — FINANCIAL INSTRUMENTS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE VIII — FINANCIAL INSTRUMENTS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -642,13 +642,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 225 — Monitoring of financial instruments(Article 140 of the Financial Regulation)](section-article-225.md)
 - [Section Article 226 — Treatment of contributions from the CSF Funds(Article 140 of the Financial Regulation)](section-article-226.md)
 
-#### TITLE IX — PRESENTATION OF THE ACCOUNTS AND ACCOUNTING[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE IX — PRESENTATION OF THE ACCOUNTS AND ACCOUNTING[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Presentation of the accounts[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 1 — Presentation of the accounts[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -663,13 +663,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 233 — Budgetary outturn accounts(Article 146 of the Financial Regulation)](section-article-233.md)
 - [Section Article 234 — Modalities of transmission of accounts(Article 148 of the Financial Regulation)](section-article-234.md)
 
-##### CHAPTER 2 — Accounting[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 2 — Accounting[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Organisation of the accounts[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 1 — Organisation of the accounts[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -678,7 +678,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 235 — Organisation of the accounts(Article 151 of the Financial Regulation)](section-article-235.md)
 - [Section Article 236 — Computerised systems(Article 151 of the Financial Regulation)](section-article-236.md)
 
-###### Section 2 — Accounting ledgers[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 2 — Accounting ledgers[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -688,7 +688,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 238 — Trial balance(Article 154 of the Financial Regulation)](section-article-238.md)
 - [Section Article 239 — Accounting reconciliations(Article 154 of the Financial Regulation)](section-article-239.md)
 
-###### Section 3 — Registration[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 3 — Registration[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -699,7 +699,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 242 — Recording in the journal(Article 154 of the Financial Regulation)](section-article-242.md)
 - [Section Article 243 — Validation of entries(Article 154 of the Financial Regulation)](section-article-243.md)
 
-###### Section 4 — Reconciliation and verification[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 4 — Reconciliation and verification[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -707,7 +707,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 244 — Reconciliation of accounts(Article 154 of the Financial Regulation)](section-article-244.md)
 
-###### Section 5 — Budget accounts[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+###### Section 5 — Budget accounts[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -715,7 +715,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 245 — Content and keeping of budget accounts(Article 156 of the Financial Regulation)](section-article-245.md)
 
-##### CHAPTER 3 — Property inventories[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER 3 — Property inventories[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -731,13 +731,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 253 — Procedure for disposing of tangible assets(Article 157 of the Financial Regulation)](section-article-253.md)
 - [Section Article 254 — Inventory and advertising of sales in Union delegations(Article 157 of the Financial Regulation)](section-article-254.md)
 
-### PART TWO — SPECIAL PROVISIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+### PART TWO — SPECIAL PROVISIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — RESEARCH[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE I — RESEARCH[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -746,13 +746,13 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 255 — Types of operations(Article 181 of the Financial Regulation)](section-article-255.md)
 - [Section Article 256 — Additional rules applicable to the JRC(Article 183 of the Financial Regulation)](section-article-256.md)
 
-#### TITLE II — EXTERNAL ACTIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE II — EXTERNAL ACTIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER I — General provisions[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER I — General provisions[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -760,7 +760,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 257 — Actions which may be financed(Article 184 of the Financial Regulation)](section-article-257.md)
 
-##### CHAPTER II — Budget support and multi-donor trust funds[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER II — Budget support and multi-donor trust funds[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -769,7 +769,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 258 — Use of budget support(Article 186 of the Financial Regulation)](section-article-258.md)
 - [Section Article 259 — Union trust funds for external actions(Article 187 of the Financial Regulation)](section-article-259.md)
 
-##### CHAPTER III — Procurement[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER III — Procurement[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -789,7 +789,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 275 — Time limits for procedures(Article 190 of the Financial Regulation)](section-article-275.md)
 - [Section Article 276 — Evaluation committee(Article 190 of the Financial Regulation)](section-article-276.md)
 
-##### CHAPTER IV — Grants[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+##### CHAPTER IV — Grants[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -797,7 +797,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 277 — Financing in full(Article 192 of the Financial Regulation)](section-article-277.md)
 
-#### TITLE III — EUROPEAN OFFICES[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE III — EUROPEAN OFFICES[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -809,7 +809,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 281 — Delegation of certain tasks by the accounting officer(Article 196 of the Financial Regulation)](section-article-281.md)
 - [Section Article 282 — Treasury — bank accounts(Article 196 of the Financial Regulation)](section-article-282.md)
 
-#### TITLE IV — ADMINISTRATIVE APPROPRIATIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE IV — ADMINISTRATIVE APPROPRIATIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -820,7 +820,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 - [Section Article 285 — Advances to staff and members of the institutions(Article 201 of the Financial Regulation)](section-article-285.md)
 - [Section Article 286 — Buildings(Article 203 of the Financial Regulation)](section-article-286.md)
 
-#### TITLE V — EXPERTS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+#### TITLE V — EXPERTS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -828,7 +828,7 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 - [Section Article 287 — Remunerated external experts(Article 204 of the Financial Regulation)](section-article-287.md)
 
-### PART THREE — FINAL AND TRANSITIONAL PROVISIONS[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+### PART THREE — FINAL AND TRANSITIONAL PROVISIONS[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -844,8 +844,8 @@ on the rules of application of Regulation (EU, Euratom) No 966/2012 of the Euro
 
 **No longer in force.**
 
-[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

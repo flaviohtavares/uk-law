@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Obstruction[^key-c1770b33467b8d3e805d67a9f938e1fc]
+## 38. Obstruction[^c-c1770b33467b8d3e805d67a9f938e1fc]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ A person must not—
 
 ## Annotations
 
-[^key-c1770b33467b8d3e805d67a9f938e1fc]: Commencement: Reg. 38 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-c1770b33467b8d3e805d67a9f938e1fc]: Commencement: Reg. 38 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

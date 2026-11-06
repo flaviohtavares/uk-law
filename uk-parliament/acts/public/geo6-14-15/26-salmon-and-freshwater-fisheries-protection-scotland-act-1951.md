@@ -31,7 +31,7 @@ Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951
 
 1951 c.26
 
-[^key-15a0d83efa0e46e42fe556a8033f5d6a]An Act to amend the law in regard to the protection of salmon and freshwater fish in Scotland, including the whole of the River Tweed, and for purposes connected therewith.
+[^c-15a0d83efa0e46e42fe556a8033f5d6a]An Act to amend the law in regard to the protection of salmon and freshwater fish in Scotland, including the whole of the River Tweed, and for purposes connected therewith.
 
 \[10th May 1951\][^c601137][^c601138][^c601139][^c601140]
 
@@ -225,7 +225,7 @@ adjoining such water or such land, the said water bailiff may search that vehicl
 
 (1) If any person shall be found committing any offence against the provisions of Part I of this Act, the provisions of section twenty-nine of the [^c601189]Salmon Fisheries (Scotland) Act 1868 (which relate to the apprehension of offenders), or, where the offence relates to the River Tweed, the provisions of section thirty-eight of the [^c601190]Tweed Fisheries Act 1857, shall apply in respect of that person as if he had been found committing any of the offences referred to in the said section twenty-nine or in the said section thirty-eight.
 
-(2)[^c601191] No person other than a water bailiff [^key-3a5c88a3849f61e8d0515e6aab14c25c]... or person appointed by the Secretary of State in pursuance of section ten of this Act shall have power by virtue of the said section twenty-nine to seize and detain any person who shall be found committing an offence against the said Act of 1868; and accordingly the said section twenty-nine shall have effect as if for the reference to person where that word first occurs there were substituted a reference to a water bailiff [^key-3a5c88a3849f61e8d0515e6aab14c25c]... or person appointed by the Secretary of State as aforesaid.
+(2)[^c601191] No person other than a water bailiff [^c-3a5c88a3849f61e8d0515e6aab14c25c]... or person appointed by the Secretary of State in pursuance of section ten of this Act shall have power by virtue of the said section twenty-nine to seize and detain any person who shall be found committing an offence against the said Act of 1868; and accordingly the said section twenty-nine shall have effect as if for the reference to person where that word first occurs there were substituted a reference to a water bailiff [^c-3a5c88a3849f61e8d0515e6aab14c25c]... or person appointed by the Secretary of State as aforesaid.
 
 (3) No person other than a water bailiff, constable or person appointed as aforesaid shall have power by virtue of section thirty-eight of the [^c601192]Tweed Fisheries Act 1857, to seize and detain any person who shall be found committing an offence against that Act, or the [^c601193]Tweed Fisheries Amendment Act 1859; and accordingly the said section thirty-eight shall have effect as if for the reference to other person there were substituted a reference to a constable or such person as aforesaid.
 
@@ -404,7 +404,7 @@ Section 25.
 
 ## Annotations
 
-[^key-15a0d83efa0e46e42fe556a8033f5d6a]: Textual amendment: Act repealed (except in relation to the River Tweed and the Upper Esk) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2); and (only in relation to the Tweed district) (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/3))
+[^c-15a0d83efa0e46e42fe556a8033f5d6a]: Textual amendment: Act repealed (except in relation to the River Tweed and the Upper Esk) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2); and (only in relation to the Tweed district) (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/3))
 
 [^c601137]: Modification: Provisions of this Act relating to penalties for offences against ss. 1, 2, 3, 4, 6, 10(6), 13, 15(2) and 16 amended by [Freshwater and Salmon Fisheries (Scotland) Act 1976 (c. 22)](https://www.legislation.gov.uk/ukpga/1976/22), [s. 6](https://www.legislation.gov.uk/ukpga/1976/22/section/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/22/schedule/2)
 
@@ -516,7 +516,7 @@ Section 25.
 
 [^c601191]: Modification: S. 12(2) modified (30.6.1999) by [S.I. 1999/1746](https://www.legislation.gov.uk/uksi/1999/1746), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/1/1), [12(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/12/1)
 
-[^key-3a5c88a3849f61e8d0515e6aab14c25c]: Textual amendment: Words in s. 12(2) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/5)
+[^c-3a5c88a3849f61e8d0515e6aab14c25c]: Textual amendment: Words in s. 12(2) omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/5)
 
 [^c601192]: Marginal citation: 1857 c. cxlviii.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Aspects of improvement: amendment[^key-489565a584236685ad2531b8b126905e]
+## 7. Aspects of improvement: amendment[^c-489565a584236685ad2531b8b126905e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-489565a584236685ad2531b8b126905e]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/2/section/7) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(f)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/f)
+[^c-489565a584236685ad2531b8b126905e]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2009/2/section/7) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(f)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/f)

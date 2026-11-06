@@ -27,8 +27,8 @@ summary: ''
 
 (2) The information is the information listed in—
 
-- (a) Part 1 and paragraphs 8 to 10 of Schedule 7 where the person referred to in paragraph (1)(b) has an opportunity to select an annuity, [^key-82e41258193060ea9a0464209da91c6e]...
-- (b) Part 2 of that Schedule in any other case; and[^key-b42fc20bf3813cb9ff0526697a3a632d]
+- (a) Part 1 and paragraphs 8 to 10 of Schedule 7 where the person referred to in paragraph (1)(b) has an opportunity to select an annuity, [^c-82e41258193060ea9a0464209da91c6e]...
+- (b) Part 2 of that Schedule in any other case; and[^c-b42fc20bf3813cb9ff0526697a3a632d]
 - (c) Part 1 of Schedule 10 where the person has an opportunity to—
   - (i) transfer accrued rights to flexible benefits out of the scheme under the scheme rules;
   - (ii) apply sums or assets held for the purpose of providing flexible benefits for purchasing an annuity;
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82e41258193060ea9a0464209da91c6e]: Textual amendment: Word in reg. 21(2)(a) omitted (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/482/regulation/10/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
+[^c-82e41258193060ea9a0464209da91c6e]: Textual amendment: Word in reg. 21(2)(a) omitted (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2015/482/regulation/10/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
 
-[^key-b42fc20bf3813cb9ff0526697a3a632d]: Textual amendment: Reg. 21(2)(c) and word inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/482/regulation/10/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))
+[^c-b42fc20bf3813cb9ff0526697a3a632d]: Textual amendment: Reg. 21(2)(c) and word inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/482/regulation/10/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2015/482/regulation/15))

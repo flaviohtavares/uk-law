@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Interpretation in relation to Part[^key-d8f4d228f0e8ff670692503591e1fe4f]
+## 141. Interpretation in relation to Part[^c-d8f4d228f0e8ff670692503591e1fe4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8f4d228f0e8ff670692503591e1fe4f]: Commencement: [Reg. 141](https://www.legislation.gov.uk/uksi/2014/1964/regulation/141) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-d8f4d228f0e8ff670692503591e1fe4f]: Commencement: [Reg. 141](https://www.legislation.gov.uk/uksi/2014/1964/regulation/141) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00075]: Footnote: Section 97 was amended by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) Schedule 6 paragraph 4 and the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) Schedule 5 paragraph 8.

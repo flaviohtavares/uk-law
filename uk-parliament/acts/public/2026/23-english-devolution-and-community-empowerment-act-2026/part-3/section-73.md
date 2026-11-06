@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Standards relating to the renewal of a regulated licence[^key-0ee0b4a21f00836476f207c27b116e36]
+## 73. Standards relating to the renewal of a regulated licence[^c-0ee0b4a21f00836476f207c27b116e36]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ if the licensing authority is not satisfied that the standard is met.
 
 ## Annotations
 
-[^key-0ee0b4a21f00836476f207c27b116e36]: Commencement: S. 73 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-0ee0b4a21f00836476f207c27b116e36]: Commencement: S. 73 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

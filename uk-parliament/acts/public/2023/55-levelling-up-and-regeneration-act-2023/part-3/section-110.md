@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Material variations in planning permission[^key-a1f48c746c6b3ab8a0b8155e5c462edb]
+## 110. Material variations in planning permission[^c-a1f48c746c6b3ab8a0b8155e5c462edb]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,4 +114,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f48c746c6b3ab8a0b8155e5c462edb]: Commencement: S. 110 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-a1f48c746c6b3ab8a0b8155e5c462edb]: Commencement: S. 110 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

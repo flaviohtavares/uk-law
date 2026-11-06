@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Alternative options for final affirmative determination[^key-1ae440d6e311c59d4118ef69a99b4233]
+## 28A. Alternative options for final affirmative determination[^c-1ae440d6e311c59d4118ef69a99b4233]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The TRA must consider giving two or more options as part of its recommendation t
 
 ## Annotations
 
-[^key-1ae440d6e311c59d4118ef69a99b4233]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2019/449/regulation/28A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/954/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-1ae440d6e311c59d4118ef69a99b4233]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2019/449/regulation/28A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/954/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))

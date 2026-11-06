@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Attendance at panel meetings: offender and parent or guardian[^key-da7d3f9537e295af700641fb9f9c3ee4]
+## 92. Attendance at panel meetings: offender and parent or guardian[^c-da7d3f9537e295af700641fb9f9c3ee4]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ of the time and place at which the person is required to attend the meeting.
 
 ## Annotations
 
-[^key-da7d3f9537e295af700641fb9f9c3ee4]: Commencement: S. 92 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-da7d3f9537e295af700641fb9f9c3ee4]: Commencement: S. 92 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

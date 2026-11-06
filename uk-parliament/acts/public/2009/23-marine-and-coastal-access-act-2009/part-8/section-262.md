@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Interpretation of this Chapter[^key-6a25a5f6b59ad1d47367d746d5d539a7]
+## 262. Interpretation of this Chapter[^c-6a25a5f6b59ad1d47367d746d5d539a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ but does not include a reference to anything that permanently rests on, or is pe
 
 ## Annotations
 
-[^key-6a25a5f6b59ad1d47367d746d5d539a7]: Commencement: S. 262 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-6a25a5f6b59ad1d47367d746d5d539a7]: Commencement: S. 262 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

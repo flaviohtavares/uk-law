@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An application for inclusion in a pharmaceutical list by a person (P) who is not already included may be granted subject to a condition of a type mentioned in paragraph (3), which is determined by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] and which NHS England decides to impose with regard to P.
+(1) An application for inclusion in a pharmaceutical list by a person (P) who is not already included may be granted subject to a condition of a type mentioned in paragraph (3), which is determined by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] and which NHS England decides to impose with regard to P.
 
 (2) NHS England may vary the terms of service of an NHS chemist for the purpose of or in connection with the imposition of the condition.
 
@@ -54,6 +54,6 @@ P must, within 30 days of P being notified of the First-tier Tribunal's decision
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21646861]: Marginal citation: [S.I. 2008/2699](https://www.legislation.gov.uk/uksi/2008/2699) (L 16); *see* rule 19 of those Rules.

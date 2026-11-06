@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Determination of the winning assignment stage bids for numbered 2.6 GHz individual frequency lots[^key-4d2c8d199eb80de093cbd4cf6739dd67]
+## 105. Determination of the winning assignment stage bids for numbered 2.6 GHz individual frequency lots[^c-4d2c8d199eb80de093cbd4cf6739dd67]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d2c8d199eb80de093cbd4cf6739dd67]: Commencement: Reg. 105 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4d2c8d199eb80de093cbd4cf6739dd67]: Commencement: Reg. 105 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

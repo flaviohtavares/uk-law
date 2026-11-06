@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97G. Appeals[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+## 97G. Appeals[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The grounds of appeal are any of the following—
 
-- (a) that the relevant PAYE debt (or part of the relevant PAYE debt) or the relevant apprenticeship levy debt (or part of the relevant apprenticeship levy debt)[^key-2d5ca8d19b02e84d0d280673c9aed5da] is not due from the managed service company to HM Revenue and Customs;
+- (a) that the relevant PAYE debt (or part of the relevant PAYE debt) or the relevant apprenticeship levy debt (or part of the relevant apprenticeship levy debt)[^c-2d5ca8d19b02e84d0d280673c9aed5da] is not due from the managed service company to HM Revenue and Customs;
 - (b) that the specified amount does not relate to a company which is a managed service company;
 - (c) that the specified amount is not irrecoverable from the managed service company within a reasonable period;
 - (d) that the transferee is not a person mentioned in section 688A(2);
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-2d5ca8d19b02e84d0d280673c9aed5da]: Textual amendment: Words in [reg. 97G(3)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97G/3/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/10)
+[^c-2d5ca8d19b02e84d0d280673c9aed5da]: Textual amendment: Words in [reg. 97G(3)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97G/3/a) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/10)

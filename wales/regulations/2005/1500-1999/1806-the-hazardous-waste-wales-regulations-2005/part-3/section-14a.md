@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14A. Hazardous waste produced at shop premises[^key-61c6c807ded40b2d1d75a403600033f5]
+## 14A. Hazardous waste produced at shop premises[^c-61c6c807ded40b2d1d75a403600033f5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61c6c807ded40b2d1d75a403600033f5]: Textual amendment: Reg. 14A inserted (18.11.2009) by [The Hazardous Waste (Wales) (Amendment) Regulations 2009 (S.I. 2009/2861)](https://www.legislation.gov.uk/uksi/2009/2861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2861/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/2861/regulation/7)
+[^c-61c6c807ded40b2d1d75a403600033f5]: Textual amendment: Reg. 14A inserted (18.11.2009) by [The Hazardous Waste (Wales) (Amendment) Regulations 2009 (S.I. 2009/2861)](https://www.legislation.gov.uk/uksi/2009/2861), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2861/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/2861/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.8. Right to introduce evidence[^key-6e2b20bcd7b17209e30f8c4e4f75fcbe]
+## 40.8. Right to introduce evidence[^c-6e2b20bcd7b17209e30f8c4e4f75fcbe]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ No person may introduce evidence without the court’s permission.
 
 ## Annotations
 
-[^key-6e2b20bcd7b17209e30f8c4e4f75fcbe]: Commencement: [Rule 40.8](https://www.legislation.gov.uk/uksi/2025/909/rule/40.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6e2b20bcd7b17209e30f8c4e4f75fcbe]: Commencement: [Rule 40.8](https://www.legislation.gov.uk/uksi/2025/909/rule/40.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

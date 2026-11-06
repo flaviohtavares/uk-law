@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.5.2. Orders for delivery up, forfeiture, destruction or other disposal[^key-8fa3e25d96399c84272d3ded659b945c]
+## 3.5.2. Orders for delivery up, forfeiture, destruction or other disposal[^c-8fa3e25d96399c84272d3ded659b945c]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ An application to the sheriff made under sections 99, 114, 195, 204, 230, 231 or
 
 ## Annotations
 
-[^key-8fa3e25d96399c84272d3ded659b945c]: Commencement: Rule 3.5.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-8fa3e25d96399c84272d3ded659b945c]: Commencement: Rule 3.5.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00034]: Footnote: Section 195 was amended by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967). Sections 114, 204 and 231 were amended by the [Trade Marks Act 1994, (c.26)](https://www.legislation.gov.uk/ukpga/1994/26), Schedule 4, paragraph 8(2).

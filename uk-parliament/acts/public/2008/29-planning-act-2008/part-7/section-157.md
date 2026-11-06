@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Use of buildings in respect of which development consent granted[^key-a57103a0088d7f7915d5a04948a56b67]
+## 157. Use of buildings in respect of which development consent granted[^c-a57103a0088d7f7915d5a04948a56b67]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a57103a0088d7f7915d5a04948a56b67]: Commencement: S. 157 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(i)](https://www.legislation.gov.uk/uksi/2010/101/article/3/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-a57103a0088d7f7915d5a04948a56b67]: Commencement: S. 157 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(i)](https://www.legislation.gov.uk/uksi/2010/101/article/3/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

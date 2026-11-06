@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Vacancy (contributory members)[^key-fbbd1150bce18b12ab4daee370b518d1]
+## 71. Vacancy (contributory members)[^c-fbbd1150bce18b12ab4daee370b518d1]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbbd1150bce18b12ab4daee370b518d1]: Commencement: Rule 71 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-fbbd1150bce18b12ab4daee370b518d1]: Commencement: Rule 71 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00033]: Footnote: Rule 4.53 was amended by paragraph 27 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

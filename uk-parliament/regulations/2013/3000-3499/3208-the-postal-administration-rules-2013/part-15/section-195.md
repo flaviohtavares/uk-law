@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195. Confidentiality of documents—grounds for refusing inspection[^key-50a31b566a0fbd48770c7b7680a67ded]
+## 195. Confidentiality of documents—grounds for refusing inspection[^c-50a31b566a0fbd48770c7b7680a67ded]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the postal administrator may decline to allow it to be inspected by a person who
 
 ## Annotations
 
-[^key-50a31b566a0fbd48770c7b7680a67ded]: Commencement: [Rule 195](https://www.legislation.gov.uk/uksi/2013/3208/rule/195) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-50a31b566a0fbd48770c7b7680a67ded]: Commencement: [Rule 195](https://www.legislation.gov.uk/uksi/2013/3208/rule/195) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

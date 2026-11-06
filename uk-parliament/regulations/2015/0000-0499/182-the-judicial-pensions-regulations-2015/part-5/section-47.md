@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Establishment of full retirement account[^key-49e94d0e918d525b08e44108a74cf78e]
+## 47. Establishment of full retirement account[^c-49e94d0e918d525b08e44108a74cf78e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49e94d0e918d525b08e44108a74cf78e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2015/182/regulation/47) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-49e94d0e918d525b08e44108a74cf78e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2015/182/regulation/47) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

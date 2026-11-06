@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 223(C). Notification of Changes[^key-b0b4b31d0791043ca7f65e59f0c52b51]
+## 223(C). Notification of Changes[^c-b0b4b31d0791043ca7f65e59f0c52b51]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b4b31d0791043ca7f65e59f0c52b51]: Textual amendment: Pt. 6 Ch. 22A revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/50)
+[^c-b0b4b31d0791043ca7f65e59f0c52b51]: Textual amendment: Pt. 6 Ch. 22A revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/50)

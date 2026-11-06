@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Declaration of acceptance of office of police and crime commissioner[^key-001f0026122b19668003e665a2d3005a][^key-dcdc6662548c99981e3038ad17933190][^key-a7f5131e970c6c7e69809210a12eb4b3]
+## 70. Declaration of acceptance of office of police and crime commissioner[^c-001f0026122b19668003e665a2d3005a][^c-dcdc6662548c99981e3038ad17933190][^c-a7f5131e970c6c7e69809210a12eb4b3]
 
 *Extent: E+W*
 
 (1) A person elected to the office of police and crime commissioner for any police area may not act in that office unless the person has—
 
-- (a)[^key-38d0b3e1cb3b8a250a703cfb83fd80f5] made a declaration of acceptance of the office in a form specified in an order made by the Secretary of State [^key-b8a35028b261710fc83ae77bd8d02a98]..., and
+- (a)[^c-38d0b3e1cb3b8a250a703cfb83fd80f5] made a declaration of acceptance of the office in a form specified in an order made by the Secretary of State [^c-b8a35028b261710fc83ae77bd8d02a98]..., and
 - (b) delivered the declaration to the appropriate officer,
 
 in each case, when not ineligible by virtue of subsection (5).
@@ -51,12 +51,12 @@ in each case, when not ineligible by virtue of subsection (5).
 
 ## Annotations
 
-[^key-001f0026122b19668003e665a2d3005a]: Commencement: S. 70 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-001f0026122b19668003e665a2d3005a]: Commencement: S. 70 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-dcdc6662548c99981e3038ad17933190]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2011/13/section/70) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/31)
+[^c-dcdc6662548c99981e3038ad17933190]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2011/13/section/70) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/31)
 
-[^key-a7f5131e970c6c7e69809210a12eb4b3]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2011/13/section/70) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/31)
+[^c-a7f5131e970c6c7e69809210a12eb4b3]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/2011/13/section/70) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/31)
 
-[^key-38d0b3e1cb3b8a250a703cfb83fd80f5]: Modification: S. 70(1)(a) functions to be exercisable concurrently with the Chancellor of the Duchy of Lancaster (12.8.2015) by [The Transfer of Functions (Police and Crime Commissioner Elections) Order 2015 (S.I. 2015/1526)](https://www.legislation.gov.uk/uksi/2015/1526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1526/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/2/f) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/3), [4](https://www.legislation.gov.uk/uksi/2015/1526/article/4))
+[^c-38d0b3e1cb3b8a250a703cfb83fd80f5]: Modification: S. 70(1)(a) functions to be exercisable concurrently with the Chancellor of the Duchy of Lancaster (12.8.2015) by [The Transfer of Functions (Police and Crime Commissioner Elections) Order 2015 (S.I. 2015/1526)](https://www.legislation.gov.uk/uksi/2015/1526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1526/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/2/f) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2015/1526/article/3/3), [4](https://www.legislation.gov.uk/uksi/2015/1526/article/4))
 
-[^key-b8a35028b261710fc83ae77bd8d02a98]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/70/1/a) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 22(4)(d)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/22/4/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-b8a35028b261710fc83ae77bd8d02a98]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/70/1/a) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 22(4)(d)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/22/4/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))

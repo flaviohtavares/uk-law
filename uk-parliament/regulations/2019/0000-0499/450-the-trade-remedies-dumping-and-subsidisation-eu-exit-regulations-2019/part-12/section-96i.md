@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96I. Treatment of public notices made under regulations 96F to 96H[^key-ad66f9e7a5729ec4019d9f8bdf1b1365][^key-dc68a8dc60108bd892ea7da55f232855]
+## 96I. Treatment of public notices made under regulations 96F to 96H[^c-ad66f9e7a5729ec4019d9f8bdf1b1365][^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
-A public notice made under regulation 96F(3), 96G(5) or 96H(3)(a), (4) , (5), (7)(a) or (8)(b)[^key-ecb430aa44d88eee082f2d3d003993dd] is to be treated as if it were a public notice made under section 13(4) of the Act.
+A public notice made under regulation 96F(3), 96G(5) or 96H(3)(a), (4) , (5), (7)(a) or (8)(b)[^c-ecb430aa44d88eee082f2d3d003993dd] is to be treated as if it were a public notice made under section 13(4) of the Act.
 
 ## Annotations
 
-[^key-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
+[^c-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-ecb430aa44d88eee082f2d3d003993dd]: Textual amendment: Words in [reg. 96I](https://www.legislation.gov.uk/uksi/2019/450/regulation/96I) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/955/regulation/6)
+[^c-ecb430aa44d88eee082f2d3d003993dd]: Textual amendment: Words in [reg. 96I](https://www.legislation.gov.uk/uksi/2019/450/regulation/96I) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/955/regulation/6)

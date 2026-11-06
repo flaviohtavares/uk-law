@@ -37,7 +37,7 @@ summary: ''
 - (a) make different provision for different purposes,
 - (b) make provision having retrospective effect.
 
-(4)[^key-e47d4bf007e880127813ecee59fe5e26] The Clerk of the Parliament must send a copy of a resolution to the Queen’s Printer for Scotland (“the Queen’s Printer”) immediately after it is passed.
+(4)[^c-e47d4bf007e880127813ecee59fe5e26] The Clerk of the Parliament must send a copy of a resolution to the Queen’s Printer for Scotland (“the Queen’s Printer”) immediately after it is passed.
 
 (5) Section 41(2) to (5) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and the Scottish Statutory Instruments Regulations 2011 ([S.S.I. 2011/195](https://www.legislation.gov.uk/ssi/2011/195)) apply to the resolution—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e47d4bf007e880127813ecee59fe5e26]: Textual amendment: [S. 3(4)-(7)](https://www.legislation.gov.uk/asp/2009/1/section/3/4) substituted for [s. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4) (6.4.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential Provisions) Order 2011 (S.S.I. 2011/196)](https://www.legislation.gov.uk/ssi/2011/196), [arts. 1](https://www.legislation.gov.uk/ssi/2011/196/article/1), [3](https://www.legislation.gov.uk/ssi/2011/196/article/3)
+[^c-e47d4bf007e880127813ecee59fe5e26]: Textual amendment: [S. 3(4)-(7)](https://www.legislation.gov.uk/asp/2009/1/section/3/4) substituted for [s. 3(4)](https://www.legislation.gov.uk/asp/2009/1/section/3/4) (6.4.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential Provisions) Order 2011 (S.S.I. 2011/196)](https://www.legislation.gov.uk/ssi/2011/196), [arts. 1](https://www.legislation.gov.uk/ssi/2011/196/article/1), [3](https://www.legislation.gov.uk/ssi/2011/196/article/3)

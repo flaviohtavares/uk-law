@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Value of tainted gifts[^key-d2e550736eecd37bf2369dd4cf260e9f]
+## 139. Value of tainted gifts[^c-d2e550736eecd37bf2369dd4cf260e9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e550736eecd37bf2369dd4cf260e9f]: Commencement: [Art. 139](https://www.legislation.gov.uk/uksi/2005/3181/article/139) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d2e550736eecd37bf2369dd4cf260e9f]: Commencement: [Art. 139](https://www.legislation.gov.uk/uksi/2005/3181/article/139) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

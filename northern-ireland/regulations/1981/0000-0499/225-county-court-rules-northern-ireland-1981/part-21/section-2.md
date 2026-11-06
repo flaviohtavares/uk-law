@@ -27,7 +27,7 @@ summary: ''
 (2) Lodgment in court under paragraph (1) may, \[[^f00190] subject to paragraph 4\], be made—
 
 - (a) in a remitted action within eight days of the date of the order of remittal \[[^f00191]) . . .\]
-- (b)[^key-3a2326edc634e733fd4634dfc69ec425] in any other action—
+- (b)[^c-3a2326edc634e733fd4634dfc69ec425] in any other action—
   - (i) within twenty-eight days of service of the plaintiff’s medical evidence served in accordance with Rule 39 of Order 24;
   - (ii) where medical evidence is served in accordance with Rules 40, 41, 47 or 48 of Order 24, within fourteen days of service of such evidence and in any case before the first day of hearing; or
   - (iii) in any other case, within twenty-eight days of service of the notice of intention to defend.
@@ -56,7 +56,7 @@ summary: ''
 
 [^f00191]: Footnote: Words deleted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 01.09.95
 
-[^key-3a2326edc634e733fd4634dfc69ec425]: Textual amendment: Order 21 rule 2(2)(b) substituted (13.2.2017) by [The County Court (Amendment) Rules (Northern Ireland) 2017 (S.R. 2017/19)](https://www.legislation.gov.uk/nisr/2017/19), [rules 1](https://www.legislation.gov.uk/nisr/2017/19/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2017/19/article/3/3)
+[^c-3a2326edc634e733fd4634dfc69ec425]: Textual amendment: Order 21 rule 2(2)(b) substituted (13.2.2017) by [The County Court (Amendment) Rules (Northern Ireland) 2017 (S.R. 2017/19)](https://www.legislation.gov.uk/nisr/2017/19), [rules 1](https://www.legislation.gov.uk/nisr/2017/19/rule/1), [3(3)](https://www.legislation.gov.uk/nisr/2017/19/article/3/3)
 
 [^f00193]: Footnote: Paragraph (3) deleted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 01.09.95
 

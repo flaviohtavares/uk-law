@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Redress regulations: exercising and giving effect to the right to acquire[^key-82addc828f60dc692fd20823e6ab564a]
+## 16. Redress regulations: exercising and giving effect to the right to acquire[^c-82addc828f60dc692fd20823e6ab564a]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82addc828f60dc692fd20823e6ab564a]: Commencement: S. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-82addc828f60dc692fd20823e6ab564a]: Commencement: S. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

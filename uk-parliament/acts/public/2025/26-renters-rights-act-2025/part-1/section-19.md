@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Guarantor not liable for rent payable after tenant’s death[^key-9a3ea13dc22487861e53dfb7a98853b1][^key-8292717e19680deb604ed09882a9da27]
+## 19. Guarantor not liable for rent payable after tenant’s death[^c-9a3ea13dc22487861e53dfb7a98853b1][^c-8292717e19680deb604ed09882a9da27]
 
 *Extent: E+W*
 
@@ -129,6 +129,6 @@ In the 1988 Act, after section 16M (inserted by section 17 of this Act) insert�
 
 ## Annotations
 
-[^key-9a3ea13dc22487861e53dfb7a98853b1]: Commencement: S. 19 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-9a3ea13dc22487861e53dfb7a98853b1]: Commencement: S. 19 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-8292717e19680deb604ed09882a9da27]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/26/section/19) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-8292717e19680deb604ed09882a9da27]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/26/section/19) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

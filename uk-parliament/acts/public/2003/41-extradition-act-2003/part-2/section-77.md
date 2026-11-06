@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1811957f09a7f277affdfb1cb0476652] In England and Wales, at the extradition hearing the appropriate judge has the same powers (as nearly as may be) as a magistrates' court would have if the proceedings were the summary trial of an information against the person whose extradition is requested.
+(1)[^c-1811957f09a7f277affdfb1cb0476652] In England and Wales, at the extradition hearing the appropriate judge has the same powers (as nearly as may be) as a magistrates' court would have if the proceedings were the summary trial of an information against the person whose extradition is requested.
 
 (2) In Scotland—
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c2087125]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-1811957f09a7f277affdfb1cb0476652]: Modification: [S. 77(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/77/1) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/990/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
+[^c-1811957f09a7f277affdfb1cb0476652]: Modification: [S. 77(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/77/1) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/990/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
 
 [^c2087423]: Textual amendment: Words in s. 77(5) substituted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/16); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d/e)

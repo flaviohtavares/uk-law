@@ -41,8 +41,8 @@ summary: ''
   - (a) is within paragraph 1 or 3 of Part 2 of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, and
   - (b) is neither an annuity contract nor a contract effected in the course of a company's pension business,
 - “**late payment interest**”, in relation to a contract, means interest on an amount payable under the contract which is paid for a period beginning on or after the date of the occurrence as a result of which the amount is payable, and
-- “**pension business**” has the meaning given by section 58 of FA 2012[^key-6d0bc290b8ff466e5bb5401515a77bb7] (or the corresponding enactment in force when the contract was effected).
+- “**pension business**” has the meaning given by section 58 of FA 2012[^c-6d0bc290b8ff466e5bb5401515a77bb7] (or the corresponding enactment in force when the contract was effected).
 
 ## Annotations
 
-[^key-6d0bc290b8ff466e5bb5401515a77bb7]: Textual amendment: Words in s. 504(7) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 129](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/129)
+[^c-6d0bc290b8ff466e5bb5401515a77bb7]: Textual amendment: Words in s. 504(7) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 129](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/129)

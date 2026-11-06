@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Legal aid for individuals convicted of terrorism offences: data sharing[^key-a318ae1ae8f3c632f5c8590aa5a30d66]
+## 90. Legal aid for individuals convicted of terrorism offences: data sharing[^c-a318ae1ae8f3c632f5c8590aa5a30d66]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ In the Legal Aid, Sentencing and Punishment of Offenders Act 2012, after section
 
 ## Annotations
 
-[^key-a318ae1ae8f3c632f5c8590aa5a30d66]: Commencement: S. 90 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-a318ae1ae8f3c632f5c8590aa5a30d66]: Commencement: S. 90 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

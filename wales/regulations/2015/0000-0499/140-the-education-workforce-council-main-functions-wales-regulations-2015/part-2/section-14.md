@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Public access to the Register[^key-dd4009e90483ac835f667eeee204d200]
+## 14. Public access to the Register[^c-dd4009e90483ac835f667eeee204d200]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4009e90483ac835f667eeee204d200]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/140/regulation/14) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-dd4009e90483ac835f667eeee204d200]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/140/regulation/14) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

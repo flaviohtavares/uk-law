@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Dissolution[^key-3eb71539647c7cd1f6cb61d2fdaa0d6d]
+## 32. Dissolution[^c-3eb71539647c7cd1f6cb61d2fdaa0d6d]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State [^key-ee02aa29aa8626fa75550bbb99262159]... may by order make provision for the dissolution of the Olympic Lottery Distributor.
+(1) The Secretary of State [^c-ee02aa29aa8626fa75550bbb99262159]... may by order make provision for the dissolution of the Olympic Lottery Distributor.
 
 (2) An order under this section may, in particular—
 
@@ -41,23 +41,23 @@ summary: ''
 
 (4) Provision by virtue of subsection (3)(b) may provide for section 23(2) of that Act to apply with specified modifications (which may, in particular, include modifications reducing a distributor’s share to nil).
 
-(5) The Secretary of State may not[^key-5d0b240479b4472e99aa361963017ee2] make an order under this section providing for the transfer of property, rights or liabilities to a person unless the person has consented to the transfer.
+(5) The Secretary of State may not[^c-5d0b240479b4472e99aa361963017ee2] make an order under this section providing for the transfer of property, rights or liabilities to a person unless the person has consented to the transfer.
 
 (6) An order under this section—
 
 - (a) may transfer rights and liabilities relating to employees, but
-- (b) shall not affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-82dcdabde8f6e55eea1c861522b28a23].
+- (b) shall not affect the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-82dcdabde8f6e55eea1c861522b28a23].
 
-(7) The Secretary of State may not[^key-3f4b0a3badca8bd19ac0a29b0cf961bc] make an order by virtue of subsection (6)(a) unless satisfied that sufficient notice has been given to enable compliance with any applicable requirement of those regulations.
+(7) The Secretary of State may not[^c-3f4b0a3badca8bd19ac0a29b0cf961bc] make an order by virtue of subsection (6)(a) unless satisfied that sufficient notice has been given to enable compliance with any applicable requirement of those regulations.
 
 ## Annotations
 
-[^key-3eb71539647c7cd1f6cb61d2fdaa0d6d]: Commencement: S. 32 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-3eb71539647c7cd1f6cb61d2fdaa0d6d]: Commencement: S. 32 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
 
-[^key-ee02aa29aa8626fa75550bbb99262159]: Textual amendment: Words in s. 32(1) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(g)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/g)
+[^c-ee02aa29aa8626fa75550bbb99262159]: Textual amendment: Words in s. 32(1) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(g)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/g)
 
-[^key-5d0b240479b4472e99aa361963017ee2]: Textual amendment: Words in s. 32(5) substituted (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/5)
+[^c-5d0b240479b4472e99aa361963017ee2]: Textual amendment: Words in s. 32(5) substituted (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/5)
 
-[^key-82dcdabde8f6e55eea1c861522b28a23]: Textual amendment: Words in s. 32(6)(b) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)
+[^c-82dcdabde8f6e55eea1c861522b28a23]: Textual amendment: Words in s. 32(6)(b) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(j)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/j)
 
-[^key-3f4b0a3badca8bd19ac0a29b0cf961bc]: Textual amendment: Words in s. 32(7) substituted (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/5)
+[^c-3f4b0a3badca8bd19ac0a29b0cf961bc]: Textual amendment: Words in s. 32(7) substituted (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/5)

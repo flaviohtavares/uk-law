@@ -35,16 +35,16 @@ repealing Decision 2004/200/EC on measures to prevent the introduction into and 
 
 *(notified under document C(2020) 7139)* (revoked)
 
-[^key-a9cfc03d535354eff7da7eeb4dd51e8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9cfc03d535354eff7da7eeb4dd51e8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a9cfc03d535354eff7da7eeb4dd51e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a9cfc03d535354eff7da7eeb4dd51e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a9cfc03d535354eff7da7eeb4dd51e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a9cfc03d535354eff7da7eeb4dd51e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9cfc03d535354eff7da7eeb4dd51e8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9cfc03d535354eff7da7eeb4dd51e8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9cfc03d535354eff7da7eeb4dd51e8d]: Textual amendment: Decision revoked (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/9/b)
+[^c-a9cfc03d535354eff7da7eeb4dd51e8d]: Textual amendment: Decision revoked (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2021/426/regulation/9/b)

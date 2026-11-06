@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Part 2 of CAA 2001 (plant and machinery allowances) is amended as follows[^key-23d6675fde2fd561558ed984fa199a22].
+(1) Part 2 of CAA 2001 (plant and machinery allowances) is amended as follows[^c-23d6675fde2fd561558ed984fa199a22].
 
 (2) Section 39 (first-year allowances available for certain types of qualifying expenditure only) has effect as if after the entry relating to section 45O there were inserted—
 
@@ -36,7 +36,7 @@ summary: ''
 >
 > Expenditure is first-year qualifying expenditure if—
 >
-> - (a) it is incurred on or after 1 April 2023 [^key-8535f32a5dea0318de709b27bf5bd3df]...,
+> - (a) it is incurred on or after 1 April 2023 [^c-8535f32a5dea0318de709b27bf5bd3df]...,
 > - (b) it is incurred by a company within the charge to corporation tax,
 > - (c) it is expenditure on plant or machinery which is unused and not second-hand, and
 > - (d) it is not excluded by section 45T (exclusion of expenditure under disqualifying arrangements) or 46 (general exclusions).
@@ -119,8 +119,8 @@ summary: ''
 
 ## Annotations
 
-[^key-23d6675fde2fd561558ed984fa199a22]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/1) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2/b)
+[^c-23d6675fde2fd561558ed984fa199a22]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/1) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2/b)
 
-[^key-8535f32a5dea0318de709b27bf5bd3df]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/3) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/1)
+[^c-8535f32a5dea0318de709b27bf5bd3df]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/3) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/1)
 
 [^M_F_ac343a37-374c-44b0-ed9d-c64accbd7434]: Textual amendment: Word in [s. 7(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/1) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2/b)

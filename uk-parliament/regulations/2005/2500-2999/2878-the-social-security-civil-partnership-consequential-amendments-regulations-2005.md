@@ -82,11 +82,11 @@ These Regulations may be cited as the Social Security (Civil Partnership) (Conse
 
 (3) In regulation 19(3B) (time for claiming benefit) [^c1232016] after “spouse” insert “ or civil partner ”.
 
-## 6. Amendment of the Housing Benefit (General) Regulations 1987[^key-aefec760054e0a4a525c971ed5dc72d1]
+## 6. Amendment of the Housing Benefit (General) Regulations 1987[^c-aefec760054e0a4a525c971ed5dc72d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-aefec760054e0a4a525c971ed5dc72d1]
+## 7. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-aefec760054e0a4a525c971ed5dc72d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -134,7 +134,7 @@ These Regulations may be cited as the Social Security (Civil Partnership) (Conse
   ; and
 - (b) in the definition of “partner”, in sub-paragraph (a) for “a married couple or an unmarried couple” substitute “ a couple ”.
 
-(3)[^key-69d8f13582659ac86d66f33c9ed6987e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-69d8f13582659ac86d66f33c9ed6987e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations 2005
 
@@ -208,7 +208,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1232016]: Marginal citation: Paragraph (3B) was inserted by [S.I. 2005/777](https://www.legislation.gov.uk/uksi/2005/777).
 
-[^key-aefec760054e0a4a525c971ed5dc72d1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/2878/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-aefec760054e0a4a525c971ed5dc72d1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/2878/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1232021]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -222,6 +222,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1232026]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-69d8f13582659ac86d66f33c9ed6987e]: Textual amendment: Reg. 9(3) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-69d8f13582659ac86d66f33c9ed6987e]: Textual amendment: Reg. 9(3) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c1232029]: Marginal citation: [S.I. 2005/453](https://www.legislation.gov.uk/uksi/2005/453).

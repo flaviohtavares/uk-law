@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Measures on premises where highly pathogenic avian influenza is confirmed[^key-7c3084c56997d8bcb6be9c4828c33889]
+## SCHEDULE 2 — Measures on premises where highly pathogenic avian influenza is confirmed[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Article 13
 
-### 1. Killing and seizure[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 1. Killing and seizure[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Measures to minimise the risk of spread of avian influenza to wild birds[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 2. Measures to minimise the risk of spread of avian influenza to wild birds[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Disposal of carcases and eggs[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 3. Disposal of carcases and eggs[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Tracing[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 4. Tracing[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Cleansing and disinfection[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 5. Cleansing and disinfection[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Restocking[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 6. Restocking[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))
+[^c-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))

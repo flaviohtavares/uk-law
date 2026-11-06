@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Wholesale cash distribution[^key-a96172912ff851dff672dd24b60fa4b3]
+## 55. Wholesale cash distribution[^c-a96172912ff851dff672dd24b60fa4b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 makes provision about persons involved in wholesale cash distribution
 
 ## Annotations
 
-[^key-a96172912ff851dff672dd24b60fa4b3]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/29/section/55) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-a96172912ff851dff672dd24b60fa4b3]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/29/section/55) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)

@@ -44,11 +44,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 These Regulations are made with the approval of the Department of Finance[^f00003] under sections 5 and 6 of the Agriculture Act (Northern Ireland) 1949.
 
-## 1. Citation and commencement[^key-e722638b0a43aa5190381622b2bafd71]
+## 1. Citation and commencement[^c-e722638b0a43aa5190381622b2bafd71]
 
 These Regulations may be cited as the Farming for the Generations Scheme Regulations (Northern Ireland) 2024 and shall come into operation on 1st March 2024.
 
-## 2. Interpretation[^key-4b5052d30c778f7e801b9dd76a461712]
+## 2. Interpretation[^c-4b5052d30c778f7e801b9dd76a461712]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 - “**succession planning consultation grant**” means a grant to enable an applicant to have a consultation with an eligible professional adviser;
 - “**successor development grant**” means a grant where, an applicant can avail of approved funding for reasonable travel expenses, training or a work placement.
 
-## 3. Farming for the Generations scheme[^key-9a413b93777682c05a5b4c499c30276e]
+## 3. Farming for the Generations scheme[^c-9a413b93777682c05a5b4c499c30276e]
 
 (1) Subject to paragraph (2) and to regulation 4, the Department may pay a grant to an eligible applicant.
 
@@ -73,7 +73,7 @@ In these Regulations—
 - (a) a succession planning consultation grant or a succession business restructuring grant, a receipted bill of costs from an eligible professional adviser;
 - (b) a successor development grant, receipted invoices not exceeding the approved amounts in relation to the applicant’s successor development grant proposal.
 
-## 4. Scheme grant: requirements[^key-512ca64b1976563a8011e7d7cd6e7b5d]
+## 4. Scheme grant: requirements[^c-512ca64b1976563a8011e7d7cd6e7b5d]
 
 (1) An applicant must as a condition of eligibility for the payment of a succession planning consultation grant or a succession business restructuring grant attend two approved relevant workshops provided by or on behalf of CAFRE.
 
@@ -81,17 +81,17 @@ In these Regulations—
 
 (3) The Department may by notice in writing exempt an applicant in whole or in part from a requirement mentioned in paragraph (1) or (2).
 
-## 5. Succession planning consultation grant[^key-6322cbdd07c557b6fce6fcbd4c569277]
+## 5. Succession planning consultation grant[^c-6322cbdd07c557b6fce6fcbd4c569277]
 
 (1) Subject to paragraph 2, the Department may pay to an applicant a succession planning consultation grant not exceeding £170 for each consultation with an eligible professional adviser.
 
 (2) The total payments under paragraph (1) during the scheme period shall not exceed £680.
 
-## 6. Succession business restructuring grant[^key-9a915afeb03acb784e00455a378df4a8]
+## 6. Succession business restructuring grant[^c-9a915afeb03acb784e00455a378df4a8]
 
 The Department may pay to an applicant a succession business restructuring grant not exceeding £2500 during the scheme period in relation to expenditure incurred by the applicant on the professional fees of an eligible professional adviser for the purpose of implementing business succession restructuring.
 
-## 7. Successor development grant[^key-433edf2890fe9c77af6268547ed3cd9b]
+## 7. Successor development grant[^c-433edf2890fe9c77af6268547ed3cd9b]
 
 The Department may approve an applicant’s successor development grant proposal and pay to an applicant a successor development grant not exceeding a total of £8,000 during the scheme period in relation to—
 
@@ -100,15 +100,15 @@ The Department may approve an applicant’s successor development grant proposal
   - (i) attending an approved training course under paragraph (a);
   - (ii) attending an approved work placement outside Northern Ireland.
 
-## 8. Scheme period[^key-061d8a20b2cac7fb524b978185aa41ce]
+## 8. Scheme period[^c-061d8a20b2cac7fb524b978185aa41ce]
 
 The scheme period is from 1st March 2024 to 28th February 2027 both dates inclusive.
 
-## 9. Inspection[^key-32f33c96670f2699b626439159583864]
+## 9. Inspection[^c-32f33c96670f2699b626439159583864]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Review of decision[^key-901c27b89217a925eef21148902e7ab5]
+## 10. Review of decision[^c-901c27b89217a925eef21148902e7ab5]
 
 (1) Where the Department rejects an application under these Regulations, in whole or in part, an applicant may apply to the Department for a review of the decision.
 
@@ -133,13 +133,13 @@ The scheme period is from 1st March 2024 to 28th February 2027 both dates inclus
 
 (6) As soon as reasonably practicable after reviewing the decision, the Department must notify the applicant in writing of its decision under paragraph (5) and the reasons for it.
 
-## 11. Withholding and recovery of payment[^key-556998f686f99aa20caa648c430d0d09]
+## 11. Withholding and recovery of payment[^c-556998f686f99aa20caa648c430d0d09]
 
 (1) This regulation applies where, having approved an application for payment it appears to the Department that—
 
 - (a) the applicant was not eligible to make the application;
 - (b) the applicant knowingly or recklessly provided false or misleading information or any document which is false or misleading in a material particular in relation to the application;
-- (c)[^key-50305d3b2dae0958cd179e1a939abdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-50305d3b2dae0958cd179e1a939abdda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraph (3), the Department may—
 
@@ -200,26 +200,26 @@ The Scheme–
 
 [^f00003]: Footnote: The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (NI) [2016 (c.5(N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-e722638b0a43aa5190381622b2bafd71]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-e722638b0a43aa5190381622b2bafd71]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-4b5052d30c778f7e801b9dd76a461712]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/16/regulation/2) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-4b5052d30c778f7e801b9dd76a461712]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/16/regulation/2) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-9a413b93777682c05a5b4c499c30276e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/16/regulation/3) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-9a413b93777682c05a5b4c499c30276e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/16/regulation/3) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-512ca64b1976563a8011e7d7cd6e7b5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/16/regulation/4) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-512ca64b1976563a8011e7d7cd6e7b5d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/16/regulation/4) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-6322cbdd07c557b6fce6fcbd4c569277]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/16/regulation/5) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-6322cbdd07c557b6fce6fcbd4c569277]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/16/regulation/5) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-9a915afeb03acb784e00455a378df4a8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/16/regulation/6) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-9a915afeb03acb784e00455a378df4a8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/16/regulation/6) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-433edf2890fe9c77af6268547ed3cd9b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2024/16/regulation/7) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-433edf2890fe9c77af6268547ed3cd9b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2024/16/regulation/7) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-061d8a20b2cac7fb524b978185aa41ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2024/16/regulation/8) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-061d8a20b2cac7fb524b978185aa41ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2024/16/regulation/8) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-32f33c96670f2699b626439159583864]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2024/16/regulation/9) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/2)
+[^c-32f33c96670f2699b626439159583864]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2024/16/regulation/9) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/2)
 
-[^key-901c27b89217a925eef21148902e7ab5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2024/16/regulation/10) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-901c27b89217a925eef21148902e7ab5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2024/16/regulation/10) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-556998f686f99aa20caa648c430d0d09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2024/16/regulation/11) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
+[^c-556998f686f99aa20caa648c430d0d09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2024/16/regulation/11) in operation at 1.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/16/regulation/1)
 
-[^key-50305d3b2dae0958cd179e1a939abdda]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/nisr/2024/16/regulation/11/1/c) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/3)
+[^c-50305d3b2dae0958cd179e1a939abdda]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/nisr/2024/16/regulation/11/1/c) omitted (6.3.2024) by virtue of [The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/31)](https://www.legislation.gov.uk/nisr/2024/31), [regs. 1](https://www.legislation.gov.uk/nisr/2024/31/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2024/31/regulation/2/3)

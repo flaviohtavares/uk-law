@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Provision of information[^key-bb3b4da2c343e07945b6bbd2a7e6345f]
+## 15. Provision of information[^c-bb3b4da2c343e07945b6bbd2a7e6345f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ A regulator must, in relation to a regulated profession, make information about 
 
 ## Annotations
 
-[^key-bb3b4da2c343e07945b6bbd2a7e6345f]: Commencement: Reg. 15 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-bb3b4da2c343e07945b6bbd2a7e6345f]: Commencement: Reg. 15 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

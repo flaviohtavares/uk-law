@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Fees of Messengers-at-Arms) (Amendment) 2012 (revoked)[^key-37be6be395c27ce28f1b33ffa186a30e]
+Act of Sederunt (Fees of Messengers-at-Arms) (Amendment) 2012 (revoked)[^c-37be6be395c27ce28f1b33ffa186a30e]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 22nd January 2012
 
-[^key-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-37be6be395c27ce28f1b33ffa186a30e]
+## 1. Citation and commencement[^c-37be6be395c27ce28f1b33ffa186a30e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of fees[^key-37be6be395c27ce28f1b33ffa186a30e]
+## 2. Amendment of fees[^c-37be6be395c27ce28f1b33ffa186a30e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37be6be395c27ce28f1b33ffa186a30e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37be6be395c27ce28f1b33ffa186a30e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2012/8) revoked (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) 2026 (S.S.I. 2026/208)](https://www.legislation.gov.uk/ssi/2026/208), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) (with [paras. 5(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5/1), [6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6))
+[^c-37be6be395c27ce28f1b33ffa186a30e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2012/8) revoked (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) 2026 (S.S.I. 2026/208)](https://www.legislation.gov.uk/ssi/2026/208), [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) (with [paras. 5(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5/1), [6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6))

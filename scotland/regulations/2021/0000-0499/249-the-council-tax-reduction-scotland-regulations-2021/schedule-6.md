@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Revocations[^key-3c85a19770e4942f5ced911837cec4bb]
+## SCHEDULE 6 — Revocations[^c-3c85a19770e4942f5ced911837cec4bb]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ Regulation 103
 
 ## Annotations
 
-[^key-3c85a19770e4942f5ced911837cec4bb]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-3c85a19770e4942f5ced911837cec4bb]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E21. Power to compound certain small pensions[^key-90e57d31eca6ccd556f242231a3c0339]
+## E21. Power to compound certain small pensions[^c-90e57d31eca6ccd556f242231a3c0339]
 
 *Extent: E+W+S*
 
@@ -72,6 +72,6 @@ until the date (if any) on which be becomes entitled to receive payments in resp
 
 ## Annotations
 
-[^key-90e57d31eca6ccd556f242231a3c0339]: Commencement: [Reg. E21](https://www.legislation.gov.uk/uksi/1986/24/regulation/E21) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-90e57d31eca6ccd556f242231a3c0339]: Commencement: [Reg. E21](https://www.legislation.gov.uk/uksi/1986/24/regulation/E21) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00041]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Complaints policy and procedure[^key-44c81b06134c30a44b8deb6e937c8068]
+## 34. Complaints policy and procedure[^c-44c81b06134c30a44b8deb6e937c8068]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44c81b06134c30a44b8deb6e937c8068]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/165/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-44c81b06134c30a44b8deb6e937c8068]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/165/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

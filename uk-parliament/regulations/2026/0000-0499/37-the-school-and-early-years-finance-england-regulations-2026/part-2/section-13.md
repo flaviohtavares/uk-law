@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Applications to the schools forum and the Secretary of State[^key-d1400e5723d70f743617ed5b86cb2f56]
+## 13. Applications to the schools forum and the Secretary of State[^c-d1400e5723d70f743617ed5b86cb2f56]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the local authority may apply to the Secretary of State for such authorisation.
 
 ## Annotations
 
-[^key-d1400e5723d70f743617ed5b86cb2f56]: Commencement: Reg. 13 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-d1400e5723d70f743617ed5b86cb2f56]: Commencement: Reg. 13 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

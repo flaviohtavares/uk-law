@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Investigation reports[^key-092db870567a0f3883306951256448ed]
+## 55. Investigation reports[^c-092db870567a0f3883306951256448ed]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-092db870567a0f3883306951256448ed]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2019/3/section/55) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-092db870567a0f3883306951256448ed]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2019/3/section/55) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

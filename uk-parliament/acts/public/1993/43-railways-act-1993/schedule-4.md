@@ -35,7 +35,7 @@ and, subject to that, expressions used in this Schedule and in section 17 of thi
 
 ### Making and withdrawal of application
 
-**2.** (1) Any application for directions must be made in writing to the Office of Rail and Road[^key-67519027903d29a575176f6cc45c8519] and must—
+**2.** (1) Any application for directions must be made in writing to the Office of Rail and Road[^c-67519027903d29a575176f6cc45c8519] and must—
 
 - (a) contain particulars of the required rights;
 - (b) specify the terms which the applicant proposes should be contained in the required access contract; and
@@ -108,7 +108,7 @@ whether or not the interested person had, or has had, an opportunity to make rep
 
 ## Annotations
 
-[^key-67519027903d29a575176f6cc45c8519]: Textual amendment: Words in Sch. 4 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(bbb)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/bbb)
+[^c-67519027903d29a575176f6cc45c8519]: Textual amendment: Words in Sch. 4 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(bbb)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/bbb)
 
 [^c18805921]: Textual amendment: Word in Sch. 4 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(b) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 

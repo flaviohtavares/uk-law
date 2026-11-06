@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25ZA. Reminders to overseas electors who have an anonymous entry[^key-c3883d669d399e30fc7aaed9d8ab3f4f]
+## 25ZA. Reminders to overseas electors who have an anonymous entry[^c-c3883d669d399e30fc7aaed9d8ab3f4f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3883d669d399e30fc7aaed9d8ab3f4f]: Textual amendment: [Reg. 25ZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/25ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/4) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))
+[^c-c3883d669d399e30fc7aaed9d8ab3f4f]: Textual amendment: [Reg. 25ZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/25ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/4) (with [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/3/2))

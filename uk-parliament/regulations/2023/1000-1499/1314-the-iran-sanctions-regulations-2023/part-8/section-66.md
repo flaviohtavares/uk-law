@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Trade: licensing offences[^key-ae607054c5d801aba0c185140cfe0545]
+## 66. Trade: licensing offences[^c-ae607054c5d801aba0c185140cfe0545]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-ae607054c5d801aba0c185140cfe0545]: Commencement: Reg. 66 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-ae607054c5d801aba0c185140cfe0545]: Commencement: Reg. 66 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

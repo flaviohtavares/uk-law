@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 447. Power to require documents and information[^key-af9cfef20b3983515b0f0972c69e4c4e][^c17410061][^c17410071][^c19335051]
+## 447. Power to require documents and information[^c-af9cfef20b3983515b0f0972c69e4c4e][^c17410061][^c17410071][^c19335051]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-af9cfef20b3983515b0f0972c69e4c4e]: Modification: S. 447 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-af9cfef20b3983515b0f0972c69e4c4e]: Modification: S. 447 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17410061]: Modification: S. 447 extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/10)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Supplementary bid selection[^key-3f67244a9009dacf8c1fd30c28c314b7]
+## 42. Supplementary bid selection[^c-3f67244a9009dacf8c1fd30c28c314b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A bid made during the supplementary bids round (“supplementary bid”) shall b
 
 ## Annotations
 
-[^key-3f67244a9009dacf8c1fd30c28c314b7]: Commencement: Reg. 42 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-3f67244a9009dacf8c1fd30c28c314b7]: Commencement: Reg. 42 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

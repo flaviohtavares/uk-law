@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. The NHS Commissioning Board: further provision[^key-9cfaf7387484a77098fbd5412a83413b][^key-51df54a9cd8d57e9f86a5a8dde25b833][^key-513597be8d3d39aca1c866b303cf95af][^c2191278]
+## 23. The NHS Commissioning Board: further provision[^c-9cfaf7387484a77098fbd5412a83413b][^c-51df54a9cd8d57e9f86a5a8dde25b833][^c-513597be8d3d39aca1c866b303cf95af][^c2191278]
 
 *Extent: E+W*
 
@@ -446,10 +446,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9cfaf7387484a77098fbd5412a83413b]: Commencement: S. 23 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4))
+[^c-9cfaf7387484a77098fbd5412a83413b]: Commencement: S. 23 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1831/article/4))
 
-[^key-51df54a9cd8d57e9f86a5a8dde25b833]: Commencement: S. 23 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-51df54a9cd8d57e9f86a5a8dde25b833]: Commencement: S. 23 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-513597be8d3d39aca1c866b303cf95af]: Commencement: S. 23 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-513597be8d3d39aca1c866b303cf95af]: Commencement: S. 23 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191278]: Commencement: S. 23 partly in force; s. 23 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.148B. Liquidator’s remuneration in members' voluntary liquidation where it is not fixed under Rule 4.148A[^key-10088259b657ca8955a21b1b9ec19d79]
+## 4.148B. Liquidator’s remuneration in members' voluntary liquidation where it is not fixed under Rule 4.148A[^c-10088259b657ca8955a21b1b9ec19d79]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10088259b657ca8955a21b1b9ec19d79]: Textual amendment: Rule 4.148B inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [19](https://www.legislation.gov.uk/uksi/2004/584/article/19)
+[^c-10088259b657ca8955a21b1b9ec19d79]: Textual amendment: Rule 4.148B inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [19](https://www.legislation.gov.uk/uksi/2004/584/article/19)

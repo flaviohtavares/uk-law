@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Meaning of “filing date”[^key-193af8ac297e8193d77ce5c5bf759b2e]
+## 82. Meaning of “filing date”[^c-193af8ac297e8193d77ce5c5bf759b2e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act “**the filing date**” in relation to a tax return is the date by
 
 ## Annotations
 
-[^key-193af8ac297e8193d77ce5c5bf759b2e]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/16/section/82) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-193af8ac297e8193d77ce5c5bf759b2e]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/16/section/82) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

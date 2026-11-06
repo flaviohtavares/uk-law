@@ -37,22 +37,22 @@ amending Decision 2007/131/EC on allowing the use of the radio spectrum for equi
 
 (Text with EEA relevance) (revoked)
 
-[^key-2d61f1703933c15618b793104be1b253]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d61f1703933c15618b793104be1b253]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2d61f1703933c15618b793104be1b253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2d61f1703933c15618b793104be1b253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2d61f1703933c15618b793104be1b253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2d61f1703933c15618b793104be1b253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d61f1703933c15618b793104be1b253]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d61f1703933c15618b793104be1b253]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2d61f1703933c15618b793104be1b253]
+## ANNEX[^c-2d61f1703933c15618b793104be1b253]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d61f1703933c15618b793104be1b253]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d61f1703933c15618b793104be1b253]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

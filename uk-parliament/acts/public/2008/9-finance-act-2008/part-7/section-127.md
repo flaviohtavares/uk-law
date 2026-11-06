@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Enforcement by taking control of goods: England and Wales[^key-99e48e789acc270898fb9d7f816367d3]
+## 127. Enforcement by taking control of goods: England and Wales[^c-99e48e789acc270898fb9d7f816367d3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e48e789acc270898fb9d7f816367d3]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/9/section/127) in force at 6.4.2014 by [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [arts. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2), [3](https://www.legislation.gov.uk/uksi/2014/906/article/3)
+[^c-99e48e789acc270898fb9d7f816367d3]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/9/section/127) in force at 6.4.2014 by [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [arts. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2), [3](https://www.legislation.gov.uk/uksi/2014/906/article/3)

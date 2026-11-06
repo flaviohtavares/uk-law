@@ -30,76 +30,76 @@ summary: ''
 
 Cultural Objects
 
-The Return of Cultural Objects (Amendment) Regulations 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+The Return of Cultural Objects (Amendment) Regulations 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-Made *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+Made *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-19th November 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+19th November 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-Laid before Parliament *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+Laid before Parliament *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-23rd November 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+23rd November 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-Coming into force *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+Coming into force *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-18th December 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+18th December 2015 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-The Secretary of State is a Minister designated *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693841] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693851] in relation to the return of cultural objects unlawfully removed from the territory of a member State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+The Secretary of State is a Minister designated *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693841] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693851] in relation to the return of cultural objects unlawfully removed from the territory of a member State. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-The Secretary of State, in exercise of the powers conferred by that section, makes the following Regulations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+The Secretary of State, in exercise of the powers conferred by that section, makes the following Regulations. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-## 1 (Extent: E+W+S) (affected by repeal, see note). Citation and commencement (Extent: E+W+S) (affected by repeal, see note)[^key-ff18a51a43209b119024b4969599db44][^key-ff18a51a43209b119024b4969599db44]
+## 1 (Extent: E+W+S) (affected by repeal, see note). Citation and commencement (Extent: E+W+S) (affected by repeal, see note)[^c-ff18a51a43209b119024b4969599db44][^c-ff18a51a43209b119024b4969599db44]
 
-These Regulations may be cited as the Return of Cultural Objects (Amendment) Regulations 2015 and come into force on 18th December 2015. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+These Regulations may be cited as the Return of Cultural Objects (Amendment) Regulations 2015 and come into force on 18th December 2015. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-## 2 (Extent: E+W+S) (affected by repeal, see note). Amendment of Return of Cultural Objects Regulations 1994 (Extent: E+W+S) (affected by repeal, see note)[^key-ff18a51a43209b119024b4969599db44][^key-ff18a51a43209b119024b4969599db44]
+## 2 (Extent: E+W+S) (affected by repeal, see note). Amendment of Return of Cultural Objects Regulations 1994 (Extent: E+W+S) (affected by repeal, see note)[^c-ff18a51a43209b119024b4969599db44][^c-ff18a51a43209b119024b4969599db44]
 
-(1 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects Regulations 1994 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693861] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(1 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects Regulations 1994 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693861] are amended as follows. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(2 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] For regulation 2(1) (interpretation) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(2 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] For regulation 2(1) (interpretation) substitute— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-> **2 (Extent: E+W+S) (affected by repeal, see note).[^key-ff18a51a43209b119024b4969599db44]**
+> **2 (Extent: E+W+S) (affected by repeal, see note).[^c-ff18a51a43209b119024b4969599db44]**
 >
-> (1 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In these Regulations “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]**the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]**” means Directive 2014/60/EU of the European Parliament and of the Council of 15 May 2014 on the return of cultural objects unlawfully removed from the territory of a Member State and amending Regulation (EU) No 1024/2012 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693871] (Recast) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693881]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+> (1 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In these Regulations “ *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]**the Directive *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]**” means Directive 2014/60/EU of the European Parliament and of the Council of 15 May 2014 on the return of cultural objects unlawfully removed from the territory of a Member State and amending Regulation (EU) No 1024/2012 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693871] (Recast) *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693881]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(3 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 2(2) for “Article 1” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ Article 2 ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(3 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 2(2) for “Article 1” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ Article 2 ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(4 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] Omit regulation 2(3). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(4 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] Omit regulation 2(3). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(5 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 3(5) for “two” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ six ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(5 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 3(5) for “two” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ six ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(6 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 6(6)(a) for “one year after the” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ three years after the competent central authority of the requesting ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(6 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 6(6)(a) for “one year after the” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ three years after the competent central authority of the requesting ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(7 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 6(7)(a) for “Article 1(1)” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ Article 2(8) ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(7 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 6(7)(a) for “Article 1(1)” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ Article 2(8) ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(8 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 6(7)(b) for “ecclesiastical goods” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ objects belonging to inventories of ecclesiastical or other religious institutions ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(8 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 6(7)(b) for “ecclesiastical goods” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ objects belonging to inventories of ecclesiastical or other religious institutions ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(9 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 7(1) for “such compensation as the court deems fair according to the circumstances of the case” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ fair compensation ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(9 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 7(1) for “such compensation as the court deems fair according to the circumstances of the case” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ fair compensation ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(10 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In regulation 7(2) for “it is satisfied that the possessor” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] “ the possessor demonstrates that he ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(10 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In regulation 7(2) for “it is satisfied that the possessor” substitute *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] “ the possessor demonstrates that he ” *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(11 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] After regulation 7(2) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(11 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] After regulation 7(2) insert— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-> (2A (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] In determining whether the possessor exercised due care and attention, the competent court shall consider all the circumstances of the acquisition, in particular— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+> (2A (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] In determining whether the possessor exercised due care and attention, the competent court shall consider all the circumstances of the acquisition, in particular— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 >
-> - (a (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] the documentation on the object's provenance; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] the authorisations for removal required under the law of the requesting member State; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
-> - (c (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] the character of the parties; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
-> - (d (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] the price paid; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
-> - (e (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] whether the possessor consulted any accessible register of stolen cultural objects and any relevant information which he could reasonably have obtained, or took any other step which a reasonable person would have taken in the circumstances. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+> - (a (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] the documentation on the object's provenance; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] the authorisations for removal required under the law of the requesting member State; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
+> - (c (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] the character of the parties; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
+> - (d (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] the price paid; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
+> - (e (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] whether the possessor consulted any accessible register of stolen cultural objects and any relevant information which he could reasonably have obtained, or took any other step which a reasonable person would have taken in the circumstances. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-(12 (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] Omit the Schedule. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+(12 (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] Omit the Schedule. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-## 3 (Extent: E+W+S) (affected by repeal, see note). Revocation (Extent: E+W+S) (affected by repeal, see note)[^key-ff18a51a43209b119024b4969599db44][^key-ff18a51a43209b119024b4969599db44]
+## 3 (Extent: E+W+S) (affected by repeal, see note). Revocation (Extent: E+W+S) (affected by repeal, see note)[^c-ff18a51a43209b119024b4969599db44][^c-ff18a51a43209b119024b4969599db44]
 
-The following regulations are revoked— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+The following regulations are revoked— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects (Amendment) Regulations 1997 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693891]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects (Amendment) Regulations 2001 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44] [^c22693901]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ff18a51a43209b119024b4969599db44]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects (Amendment) Regulations 1997 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693891]; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-ff18a51a43209b119024b4969599db44] The Return of Cultural Objects (Amendment) Regulations 2001 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44] [^c22693901]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ff18a51a43209b119024b4969599db44]
 
 Ed Vaizey
 
@@ -125,7 +125,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 ## Annotations
 
-[^key-ff18a51a43209b119024b4969599db44]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1926) revoked (E.W.S.) (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1086)](https://www.legislation.gov.uk/uksi/2018/1086), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1086/regulation/2/b) (as amended by [S.I. 2020/1458](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff18a51a43209b119024b4969599db44]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1926) revoked (E.W.S.) (31.12.2020) by [The Return of Cultural Objects (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1086)](https://www.legislation.gov.uk/uksi/2018/1086), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1086/regulation/2/b) (as amended by [S.I. 2020/1458](https://www.legislation.gov.uk/uksi/2020/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1458/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22693841]: Marginal citation: [S.I. 1992/1711](https://www.legislation.gov.uk/uksi/1992/1711), to which there are amendments not relevant to these Regulations.
 

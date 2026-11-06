@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Power to accept part payment of arrears in full and final satisfaction[^key-b9daaa1509fde3bbca4db368424c3915][^key-29314d3cdb8ffe878619c853cb85323f]
+## 23. Power to accept part payment of arrears in full and final satisfaction[^c-b9daaa1509fde3bbca4db368424c3915][^c-29314d3cdb8ffe878619c853cb85323f]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ After Article 38C of the Child Support Order (inserted by section 22) insert—
 
 ## Annotations
 
-[^key-b9daaa1509fde3bbca4db368424c3915]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2008/10/section/23) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b)
+[^c-b9daaa1509fde3bbca4db368424c3915]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2008/10/section/23) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b)
 
-[^key-29314d3cdb8ffe878619c853cb85323f]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2008/10/section/23) in operation at 10.12.2012 in so far as not already in operation by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+[^c-29314d3cdb8ffe878619c853cb85323f]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2008/10/section/23) in operation at 10.12.2012 in so far as not already in operation by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))

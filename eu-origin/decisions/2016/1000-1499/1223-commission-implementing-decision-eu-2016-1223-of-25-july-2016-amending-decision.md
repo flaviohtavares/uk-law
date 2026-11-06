@@ -37,18 +37,18 @@ amending Decision 2011/30/EU on the equivalence of certain third country public 
 
 (Text with EEA relevance) (revoked)
 
-[^key-ad7087583a0f6855e318965d034a4bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad7087583a0f6855e318965d034a4bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ad7087583a0f6855e318965d034a4bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ad7087583a0f6855e318965d034a4bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ad7087583a0f6855e318965d034a4bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ad7087583a0f6855e318965d034a4bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad7087583a0f6855e318965d034a4bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad7087583a0f6855e318965d034a4bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ad7087583a0f6855e318965d034a4bab]
+## ANNEX[^c-ad7087583a0f6855e318965d034a4bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad7087583a0f6855e318965d034a4bab]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(j)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad7087583a0f6855e318965d034a4bab]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(j)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

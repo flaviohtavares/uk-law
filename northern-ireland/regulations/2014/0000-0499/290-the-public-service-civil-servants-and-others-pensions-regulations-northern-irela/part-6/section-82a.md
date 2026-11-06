@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82A. Option to partially buy out early payment reduction[^key-f367e23baee7c3636d2d25f0a045e05c]
+## 82A. Option to partially buy out early payment reduction[^c-f367e23baee7c3636d2d25f0a045e05c]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f367e23baee7c3636d2d25f0a045e05c]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2014/290/regulation/82A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2022/67/regulation/27)
+[^c-f367e23baee7c3636d2d25f0a045e05c]: Textual amendment: [Reg. 82A](https://www.legislation.gov.uk/nisr/2014/290/regulation/82A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2022/67/regulation/27)

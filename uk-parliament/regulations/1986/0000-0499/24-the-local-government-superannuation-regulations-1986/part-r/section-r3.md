@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R3. Transmission of documents and information[^key-25a434b93c491bd2bf9fa5a66b3e7ef0]
+## R3. Transmission of documents and information[^c-25a434b93c491bd2bf9fa5a66b3e7ef0]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ are to comply, as soon as is reasonably practicable, with the requirements in pa
 
 ## Annotations
 
-[^key-25a434b93c491bd2bf9fa5a66b3e7ef0]: Commencement: [Reg. R3](https://www.legislation.gov.uk/uksi/1986/24/regulation/R3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-25a434b93c491bd2bf9fa5a66b3e7ef0]: Commencement: [Reg. R3](https://www.legislation.gov.uk/uksi/1986/24/regulation/R3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

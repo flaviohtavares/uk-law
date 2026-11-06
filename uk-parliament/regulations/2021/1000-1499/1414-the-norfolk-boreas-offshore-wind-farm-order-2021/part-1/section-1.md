@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-357155012c4b9f3460334c01afab9eeb]
+## 1. Citation and commencement[^c-357155012c4b9f3460334c01afab9eeb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Norfolk Boreas Offshore Wind Farm Order 2021 and 
 
 ## Annotations
 
-[^key-357155012c4b9f3460334c01afab9eeb]: Commencement: Art. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-357155012c4b9f3460334c01afab9eeb]: Commencement: Art. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

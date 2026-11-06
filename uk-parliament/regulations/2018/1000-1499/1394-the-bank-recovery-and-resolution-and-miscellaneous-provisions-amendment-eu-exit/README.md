@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 [^c23490911]The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-08040c23bb87c5a55d7a518362458348]
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 2A(3)(a) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-08040c23bb87c5a55d7a518362458348]
 
 ## Contents
 
@@ -95,4 +95,4 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23490911]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-08040c23bb87c5a55d7a518362458348]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1394): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-08040c23bb87c5a55d7a518362458348]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1394): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

@@ -36,7 +36,7 @@ An Act to create a power of arrest, without warrant, for the purpose of extradit
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power of arrest for extradition purposes[^key-cb33d9732924c85e9880546f9c753f69]
+## 1. Power of arrest for extradition purposes[^c-cb33d9732924c85e9880546f9c753f69]
 
 The Schedule—
 
@@ -67,9 +67,9 @@ Section 1
 
 ### PART 1 — Main amendments to the Extradition Act 2003
 
-**1.**[^key-266796e37bc4871a3300fd7b6de6f6da] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
+**1.**[^c-266796e37bc4871a3300fd7b6de6f6da] Part 2 of the Extradition Act 2003 (extradition to category 2 territories) is amended as follows.
 
-**2.**[^key-c119dcd5040a7b94e52bed19aff7b820] After section 74 insert—
+**2.**[^c-c119dcd5040a7b94e52bed19aff7b820] After section 74 insert—
 
 > **Provisional arrest without warrant**
 >
@@ -218,7 +218,7 @@ Section 1
 >
 > (4) The judge must order the person's discharge if the documents referred to in section 70(9) are not received by the judge within the required period as defined by section 74(11).
 
-**3.**[^key-21849e8950fccd510b47a886887a786d] Before Schedule 1 insert—
+**3.**[^c-21849e8950fccd510b47a886887a786d] Before Schedule 1 insert—
 
 > **SCHEDULE A1 — Specified category 2 territories**
 >
@@ -229,17 +229,17 @@ Section 1
 > - Switzerland
 > - The United States of America.
 
-**4.**[^key-35a61667fea2ee4a6302112c0b13b4e9] In Schedule A1 (as inserted by paragraph 3), at the appropriate places, insert— [^key-0694e6e18902e76002af6dc2744632a0]... “ Iceland ”; [^key-0694e6e18902e76002af6dc2744632a0]...“ Norway ” [^key-0694e6e18902e76002af6dc2744632a0]... .
+**4.**[^c-35a61667fea2ee4a6302112c0b13b4e9] In Schedule A1 (as inserted by paragraph 3), at the appropriate places, insert— [^c-0694e6e18902e76002af6dc2744632a0]... “ Iceland ”; [^c-0694e6e18902e76002af6dc2744632a0]...“ Norway ” [^c-0694e6e18902e76002af6dc2744632a0]... .
 
-**5.**[^key-241fcd949bd29fc52f7dec10d04e8db7] Paragraph 4 is repealed at the end of 2021 if, or to the extent that, it has not been brought into force before the end of that year.
+**5.**[^c-241fcd949bd29fc52f7dec10d04e8db7] Paragraph 4 is repealed at the end of 2021 if, or to the extent that, it has not been brought into force before the end of that year.
 
-**6.**[^key-9eeaadba79b57d4ada285c9c012221fb] A reference in section 74B of the Extradition Act 2003 (inserted by paragraph 2 of this Schedule) to a request includes a request made before this Act is passed.
+**6.**[^c-9eeaadba79b57d4ada285c9c012221fb] A reference in section 74B of the Extradition Act 2003 (inserted by paragraph 2 of this Schedule) to a request includes a request made before this Act is passed.
 
 ### PART 2 — Consequential amendments
 
 #### Police and Criminal Evidence Act 1984
 
-**7.**[^key-41b7dfd056a78142439b92154ad26bec] In section 65 of the Police and Criminal Evidence Act 1984 (questioning and treatment of persons by police: supplementary), in the definition of “extradition arrest power”, at the end insert—
+**7.**[^c-41b7dfd056a78142439b92154ad26bec] In section 65 of the Police and Criminal Evidence Act 1984 (questioning and treatment of persons by police: supplementary), in the definition of “extradition arrest power”, at the end insert—
 
 > - (e) section 74A of that Act;
 
@@ -247,13 +247,13 @@ Section 1
 
 #### Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
 
-**8.**[^key-55f933537fa385526b7e79e5419ed1ca] In Article 53(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (questioning and treatment of persons by police: interpretation), in the definition of “extradition arrest power”, at the end insert—
+**8.**[^c-55f933537fa385526b7e79e5419ed1ca] In Article 53(1) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (questioning and treatment of persons by police: interpretation), in the definition of “extradition arrest power”, at the end insert—
 
 > - (e) section 74A of that Act.
 
 #### Nationality, Immigration and Asylum Act 2002
 
-**9.**[^key-2eb0c29be43b9b34c149437990a1de36] In section 94 of the Nationality, Immigration and Asylum Act 2002 (appeal from within United Kingdom: unfounded human rights or protection claim), in subsection (6A), after paragraph (c) insert—
+**9.**[^c-2eb0c29be43b9b34c149437990a1de36] In section 94 of the Nationality, Immigration and Asylum Act 2002 (appeal from within United Kingdom: unfounded human rights or protection claim), in subsection (6A), after paragraph (c) insert—
 
 > - (ca) is the subject of a certificate under section 74B of that Act,
 
@@ -261,9 +261,9 @@ Section 1
 
 #### Extradition Act 2003
 
-**10.**[^key-44eaa17b64f4e27590ea89dcce5a01f5] The Extradition Act 2003 is amended as follows.
+**10.**[^c-44eaa17b64f4e27590ea89dcce5a01f5] The Extradition Act 2003 is amended as follows.
 
-**11.**[^key-1e8b8d72587859a9b81c56f4c460a45d] (1) Section 76 (date of extradition hearing: arrest under provisional warrant) is amended as follows.
+**11.**[^c-1e8b8d72587859a9b81c56f4c460a45d] (1) Section 76 (date of extradition hearing: arrest under provisional warrant) is amended as follows.
 
 (2) In the heading, after “provisional warrant” insert “ or under section 74A ”.
 
@@ -272,13 +272,13 @@ Section 1
 - (a) in paragraph (a), after “provisional warrant” insert “ or under section 74A ”;
 - (b) in paragraph (b), after “section 74(10)” insert “ or 74E(4) ”.
 
-**12.**[^key-5928d23f4319ef57cbed1f73d14f2723] In section 76A (person charged with offence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+**12.**[^c-5928d23f4319ef57cbed1f73d14f2723] In section 76A (person charged with offence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
 
-**13.**[^key-2751b73271d2f30829ef87597425d4f7] In section 76B (person serving sentence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
+**13.**[^c-2751b73271d2f30829ef87597425d4f7] In section 76B (person serving sentence in United Kingdom before extradition hearing), in subsection (1)(a), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
 
-**14.**[^key-cde374e85aa11919746d363a5fe41f13] In section 127 (consent to extradition: general), in subsection (2), after “provisional warrant” insert “ or under section 74A ”.
+**14.**[^c-cde374e85aa11919746d363a5fe41f13] In section 127 (consent to extradition: general), in subsection (2), after “provisional warrant” insert “ or under section 74A ”.
 
-**15.**[^key-ecb1dda0720f41cbfd156894a5b98f8c] (1) Section 136 (persons serving sentences outside territory where convicted) is amended as follows.
+**15.**[^c-ecb1dda0720f41cbfd156894a5b98f8c] (1) Section 136 (persons serving sentences outside territory where convicted) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -319,27 +319,27 @@ Section 1
 
   .
 
-**16.**[^key-57ec9691e5800c38fef0113c5f20e01a] In section 162 (entry and search of premises on arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
+**16.**[^c-57ec9691e5800c38fef0113c5f20e01a] In section 162 (entry and search of premises on arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
 
-**17.**[^key-3007101b412e95907fd54ced85e2096e] In section 164 (entry and search of premises after arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
+**17.**[^c-3007101b412e95907fd54ced85e2096e] In section 164 (entry and search of premises after arrest), in subsection (3)(d), after “provisional warrant” insert “ or under section 74A ”.
 
-**18.**[^key-ab0edaf1213469c9ab6f0fa2d26cbcb2] In section 172 (delivery of seized property), in subsection (4)(d), after “provisional warrant” insert “ or section 74A. ”
+**18.**[^c-ab0edaf1213469c9ab6f0fa2d26cbcb2] In section 172 (delivery of seized property), in subsection (4)(d), after “provisional warrant” insert “ or section 74A. ”
 
-**19.**[^key-3e9053c727680158f95d035fa592a9dd] In section 174 (interpretation), in subsection (2), after paragraph (d) insert—
+**19.**[^c-3e9053c727680158f95d035fa592a9dd] In section 174 (interpretation), in subsection (2), after paragraph (d) insert—
 
 > - (e) section 74A.
 
-**20.**[^key-0036db754656eadedcc4caaa4f2c539f] In section 193 (parties to international conventions), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
+**20.**[^c-0036db754656eadedcc4caaa4f2c539f] In section 193 (parties to international conventions), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
 
-**21.**[^key-5a85107c4e286813ebd2fc4268ed3453] In section 194 (special extradition arrangements), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
+**21.**[^c-5a85107c4e286813ebd2fc4268ed3453] In section 194 (special extradition arrangements), in subsection (4)(a), after “74(11)(b)” insert “ , 74A to 74E ”.
 
-**22.**[^key-33c405135e50f1e1813e16761047c1eb] (1) Section 206B (live links: supplementary) is amended as follows.
+**22.**[^c-33c405135e50f1e1813e16761047c1eb] (1) Section 206B (live links: supplementary) is amended as follows.
 
 (2) In subsection (6)(b), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
 
 (3) In subsection (7), for “or 74(3)” substitute “ , 74(3) or 74A(3) ”.
 
-**23.**[^key-225e59fd5b5bbd69efc99655e07e40a6] (1) In section 206C (live links: interpretation), subsection (4) is amended as follows.
+**23.**[^c-225e59fd5b5bbd69efc99655e07e40a6] (1) In section 206C (live links: interpretation), subsection (4) is amended as follows.
 
 (2) In paragraph (c) omit “or” at the end.
 
@@ -349,13 +349,13 @@ Section 1
 >
 > - (e) a certificate is issued under section 74B in respect of the person.
 
-**24.**[^key-0068dedea22a30611ee9f8c8857ea23a] (1) In section 208 (national security), subsection (9) is amended as follows.
+**24.**[^c-0068dedea22a30611ee9f8c8857ea23a] (1) In section 208 (national security), subsection (9) is amended as follows.
 
 (2) In paragraph (b), for “or under a provisional warrant” substitute “ , under a provisional warrant or under section 74A ”.
 
 (3) In paragraph (c), after “74” insert “ , 74D, 74E ”.
 
-**25.**[^key-8633dd07412b1d3e34138716ec3a596f] (1) Section 216 (other interpretive provisions) is amended as follows.
+**25.**[^c-8633dd07412b1d3e34138716ec3a596f] (1) Section 216 (other interpretive provisions) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -363,21 +363,21 @@ Section 1
 
 (3) In subsection (3), at the start insert “ Other ”.
 
-**26.**[^key-b61dec92010ade5c0261eaf6e7cbebd1] In section 223 (orders and regulations), after subsection (6) insert—
+**26.**[^c-b61dec92010ade5c0261eaf6e7cbebd1] In section 223 (orders and regulations), after subsection (6) insert—
 
 > (6A) No regulations under section 74B(8) may be made unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House.
 
 #### UK Borders Act 2007
 
-**27.**[^key-db1d562f6d5249f1aad450034d3817a9] The UK Borders Act 2007 is amended as follows.
+**27.**[^c-db1d562f6d5249f1aad450034d3817a9] The UK Borders Act 2007 is amended as follows.
 
-**28.**[^key-a280ba51ca4b02488969e3d59a54ce67] In section 2 (detention), in subsections (1) and (1A), at the end of paragraph (a) (but before “or”) insert—
+**28.**[^c-a280ba51ca4b02488969e3d59a54ce67] In section 2 (detention), in subsections (1) and (1A), at the end of paragraph (a) (but before “or”) insert—
 
 > - (aa) is the subject of a certificate under section 74B of the Extradition Act 2003,
 
 .
 
-**29.**[^key-d0c904c03047b78f2fda94c275694c9d] In section 33 (exceptions to automatic deportation), in subsection (5), after paragraph (c) insert—
+**29.**[^c-d0c904c03047b78f2fda94c275694c9d] In section 33 (exceptions to automatic deportation), in subsection (5), after paragraph (c) insert—
 
 > - (ca) is the subject of a certificate under section 74B of that Act,
 
@@ -385,11 +385,11 @@ Section 1
 
 #### Criminal Justice (Scotland) Act 2016 (asp 1)
 
-**30.**[^key-8287babf28fc5dbd48eb4136063d35e7] In section 57A of the Criminal Justice (Scotland) Act 2016 (arrest without warrant otherwise than in respect of an offence), in subsection (3)(e), for “section 5” substitute “ sections 5 and 74A ”.
+**30.**[^c-8287babf28fc5dbd48eb4136063d35e7] In section 57A of the Criminal Justice (Scotland) Act 2016 (arrest without warrant otherwise than in respect of an offence), in subsection (3)(e), for “section 5” substitute “ sections 5 and 74A ”.
 
 #### Further consequential provision
 
-**31.**[^key-c464220666f05874da85ed490979bee0] (1) The Secretary of State may by regulations make further provision that is consequential on the amendments made by this Schedule.
+**31.**[^c-c464220666f05874da85ed490979bee0] (1) The Secretary of State may by regulations make further provision that is consequential on the amendments made by this Schedule.
 
 (2) Regulations under this paragraph may amend, repeal or revoke any provision made by primary legislation.
 
@@ -410,68 +410,68 @@ Section 1
 
 ## Annotations
 
-[^key-cb33d9732924c85e9880546f9c753f69]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/18/section/1) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/a)
+[^c-cb33d9732924c85e9880546f9c753f69]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/18/section/1) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/a)
 
-[^key-266796e37bc4871a3300fd7b6de6f6da]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-266796e37bc4871a3300fd7b6de6f6da]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-c119dcd5040a7b94e52bed19aff7b820]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-c119dcd5040a7b94e52bed19aff7b820]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-21849e8950fccd510b47a886887a786d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-21849e8950fccd510b47a886887a786d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-35a61667fea2ee4a6302112c0b13b4e9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/4) in force at 31.12.2020 immediately after IP completion day for specified purposes by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/2)
+[^c-35a61667fea2ee4a6302112c0b13b4e9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/4) in force at 31.12.2020 immediately after IP completion day for specified purposes by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/2)
 
-[^key-0694e6e18902e76002af6dc2744632a0]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/4) repealed (31.12.2021) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/5)
+[^c-0694e6e18902e76002af6dc2744632a0]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/4) repealed (31.12.2021) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/5)
 
-[^key-241fcd949bd29fc52f7dec10d04e8db7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-241fcd949bd29fc52f7dec10d04e8db7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-9eeaadba79b57d4ada285c9c012221fb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-9eeaadba79b57d4ada285c9c012221fb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-41b7dfd056a78142439b92154ad26bec]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-41b7dfd056a78142439b92154ad26bec]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-55f933537fa385526b7e79e5419ed1ca]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-55f933537fa385526b7e79e5419ed1ca]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-2eb0c29be43b9b34c149437990a1de36]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-2eb0c29be43b9b34c149437990a1de36]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-44eaa17b64f4e27590ea89dcce5a01f5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-44eaa17b64f4e27590ea89dcce5a01f5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-1e8b8d72587859a9b81c56f4c460a45d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/11) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-1e8b8d72587859a9b81c56f4c460a45d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/11) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-5928d23f4319ef57cbed1f73d14f2723]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/12) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-5928d23f4319ef57cbed1f73d14f2723]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/12) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-2751b73271d2f30829ef87597425d4f7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/13) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-2751b73271d2f30829ef87597425d4f7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/13) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-cde374e85aa11919746d363a5fe41f13]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/14) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-cde374e85aa11919746d363a5fe41f13]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/14) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-ecb1dda0720f41cbfd156894a5b98f8c]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/15) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-ecb1dda0720f41cbfd156894a5b98f8c]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/15) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-57ec9691e5800c38fef0113c5f20e01a]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/16) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-57ec9691e5800c38fef0113c5f20e01a]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/16) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-3007101b412e95907fd54ced85e2096e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/17) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-3007101b412e95907fd54ced85e2096e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/17) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-ab0edaf1213469c9ab6f0fa2d26cbcb2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/18) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-ab0edaf1213469c9ab6f0fa2d26cbcb2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/18) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-3e9053c727680158f95d035fa592a9dd]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/19) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-3e9053c727680158f95d035fa592a9dd]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/19) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-0036db754656eadedcc4caaa4f2c539f]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/20) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-0036db754656eadedcc4caaa4f2c539f]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/20) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-5a85107c4e286813ebd2fc4268ed3453]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/21) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-5a85107c4e286813ebd2fc4268ed3453]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/21) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-33c405135e50f1e1813e16761047c1eb]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-33c405135e50f1e1813e16761047c1eb]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-225e59fd5b5bbd69efc99655e07e40a6]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/23) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-225e59fd5b5bbd69efc99655e07e40a6]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/23) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-0068dedea22a30611ee9f8c8857ea23a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-0068dedea22a30611ee9f8c8857ea23a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/24) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-8633dd07412b1d3e34138716ec3a596f]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/25) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-8633dd07412b1d3e34138716ec3a596f]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/25) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-b61dec92010ade5c0261eaf6e7cbebd1]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-b61dec92010ade5c0261eaf6e7cbebd1]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-db1d562f6d5249f1aad450034d3817a9]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/27) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-db1d562f6d5249f1aad450034d3817a9]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/27) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-a280ba51ca4b02488969e3d59a54ce67]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/28) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-a280ba51ca4b02488969e3d59a54ce67]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/28) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-d0c904c03047b78f2fda94c275694c9d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/29) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-d0c904c03047b78f2fda94c275694c9d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/29) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-8287babf28fc5dbd48eb4136063d35e7]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-8287babf28fc5dbd48eb4136063d35e7]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-c464220666f05874da85ed490979bee0]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/31) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-c464220666f05874da85ed490979bee0]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/31) in force at 31.12.2020 by [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

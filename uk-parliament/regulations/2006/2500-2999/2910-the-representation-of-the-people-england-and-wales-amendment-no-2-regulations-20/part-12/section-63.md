@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Persons entitled to be present at proceedings on issue and receipt of postal ballot papers: observers[^key-519a81c69d73f8a3fccd61c5b1719ad1]
+## 63. Persons entitled to be present at proceedings on issue and receipt of postal ballot papers: observers[^c-519a81c69d73f8a3fccd61c5b1719ad1]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Regulations 67 and 68 are amended by inserting at the beginning of each regulati
 
 ## Annotations
 
-[^key-519a81c69d73f8a3fccd61c5b1719ad1]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2006/2910/regulation/63) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-519a81c69d73f8a3fccd61c5b1719ad1]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2006/2910/regulation/63) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00085]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41); sections 6A, 6B, 6C, 6D and 6E were inserted by section 29 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Alternative method for submission of supplementary bids form[^key-c3649b2afe5e369fe3a5ea90959edd4d]
+## 62. Alternative method for submission of supplementary bids form[^c-c3649b2afe5e369fe3a5ea90959edd4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3649b2afe5e369fe3a5ea90959edd4d]: Commencement: Reg. 62 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-c3649b2afe5e369fe3a5ea90959edd4d]: Commencement: Reg. 62 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

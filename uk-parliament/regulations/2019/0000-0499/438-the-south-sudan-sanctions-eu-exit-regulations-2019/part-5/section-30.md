@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Defences[^key-aab59464e3f036d741859117fa7da774][^key-64b2306a0b444bb773309604139ca422]
+## 30. Defences[^c-aab59464e3f036d741859117fa7da774][^c-64b2306a0b444bb773309604139ca422]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aab59464e3f036d741859117fa7da774]: Commencement: Reg. 30 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-aab59464e3f036d741859117fa7da774]: Commencement: Reg. 30 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-64b2306a0b444bb773309604139ca422]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/438/regulation/30) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64b2306a0b444bb773309604139ca422]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/438/regulation/30) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

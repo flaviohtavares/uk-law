@@ -112,7 +112,7 @@ may be continued by or in relation to the transferee.
 
 (11) A transfer scheme may include consequential, incidental, supplementary, transitional, transitory and saving provision.
 
-(11A)[^key-4d4956d81ff4d72c727193bfdd02548a] Where an individual—
+(11A)[^c-4d4956d81ff4d72c727193bfdd02548a] Where an individual—
 
 - (a) was a member of a relevant LSC scheme immediately before the transfer day,
 - (b) had been a member of that scheme immediately before 1 April 2012, and
@@ -250,4 +250,4 @@ may be continued by or in relation to the Lord Chancellor.
 
 ## Annotations
 
-[^key-4d4956d81ff4d72c727193bfdd02548a]: Textual amendment: [Sch. 4 para. 4(11A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/4/paragraph/4/11A)[(11B)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/4/paragraph/4/11B) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/31) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(o)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/o)
+[^c-4d4956d81ff4d72c727193bfdd02548a]: Textual amendment: [Sch. 4 para. 4(11A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/4/paragraph/4/11A)[(11B)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/4/paragraph/4/11B) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/31) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(o)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/o)

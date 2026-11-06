@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85.[^key-a30f167fb7c34c0024084a857d216101]
+## 85.[^c-a30f167fb7c34c0024084a857d216101]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 622 (substituted retirement annuity contracts), in subsection (2), af
 
 ## Annotations
 
-[^key-a30f167fb7c34c0024084a857d216101]: Commencement: Reg. 85 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a30f167fb7c34c0024084a857d216101]: Commencement: Reg. 85 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

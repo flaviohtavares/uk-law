@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Appointment of liquidation committee[^key-7ce081714ed82703dbf8d265fcece79e]
+## 33. Appointment of liquidation committee[^c-7ce081714ed82703dbf8d265fcece79e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce081714ed82703dbf8d265fcece79e]: Commencement: S. 33 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7ce081714ed82703dbf8d265fcece79e]: Commencement: S. 33 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

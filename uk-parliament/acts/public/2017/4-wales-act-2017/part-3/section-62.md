@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Cross-deployment of members of the Welsh tribunals[^key-ad1893bac31f5c1d0bd8add4a863444f]
+## 62. Cross-deployment of members of the Welsh tribunals[^c-ad1893bac31f5c1d0bd8add4a863444f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   ;
 - (b) in sub-paragraph (3), after ““sub-paragraph (1)”” insert “ or (1A) ”.
 
-(4)[^key-cde217e2dcd67da52b746385013f7237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cde217e2dcd67da52b746385013f7237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 75 of the Local Government Act 2000 (Adjudication Panel for Wales), at the end insert—
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad1893bac31f5c1d0bd8add4a863444f]: Commencement: S. 62 in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-ad1893bac31f5c1d0bd8add4a863444f]: Commencement: S. 62 in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
 
-[^key-cde217e2dcd67da52b746385013f7237]: Textual amendment: [S. 62(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/62/4) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [10(3)](https://www.legislation.gov.uk/wsi/2021/861/regulation/10/3)
+[^c-cde217e2dcd67da52b746385013f7237]: Textual amendment: [S. 62(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/62/4) omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [10(3)](https://www.legislation.gov.uk/wsi/2021/861/regulation/10/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Local directory of family doctors[^key-d7d5fccd00017ab20fc2e9d8fe02f47e]
+## 16. Local directory of family doctors[^c-d7d5fccd00017ab20fc2e9d8fe02f47e]
 
 *Extent: N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7d5fccd00017ab20fc2e9d8fe02f47e]: Commencement: Reg. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d7d5fccd00017ab20fc2e9d8fe02f47e]: Commencement: Reg. 16 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00019]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Leases and contracts of small value[^key-3ad6fbc9d01f9cc74bd6afdbfe6f158e]
+## 18. Leases and contracts of small value[^c-3ad6fbc9d01f9cc74bd6afdbfe6f158e]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ will not exceed £12,000.
 
 ## Annotations
 
-[^key-3ad6fbc9d01f9cc74bd6afdbfe6f158e]: Commencement: Reg. 18 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3ad6fbc9d01f9cc74bd6afdbfe6f158e]: Commencement: Reg. 18 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00014]: Footnote: *See* section 736 of the Companies Act [1985 (c. 6)](https://www.legislation.gov.uk/ukpga/1985/6) so far as that section is of continuing application, or that section as substituted by section 144(1) of the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).

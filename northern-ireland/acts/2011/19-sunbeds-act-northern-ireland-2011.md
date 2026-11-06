@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Offences
 
-### 1. Prohibition on allowing use of sunbeds by persons under 18[^key-948e373b196fad4bdc2c425e44bb0d05]
+### 1. Prohibition on allowing use of sunbeds by persons under 18[^c-948e373b196fad4bdc2c425e44bb0d05]
 
 (1) An operator of sunbed premises who—
 
@@ -68,7 +68,7 @@ commits an offence.
 
 (8) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 2. Prohibition on sale or hire of sunbeds to persons under 18[^key-bb669c34f95d894a1df4e3aa839b7b4f]
+### 2. Prohibition on sale or hire of sunbeds to persons under 18[^c-bb669c34f95d894a1df4e3aa839b7b4f]
 
 (1) A person (the “seller”) who sells a sunbed to a person who is under 18 commits an offence.
 
@@ -89,7 +89,7 @@ commits an offence.
 
 (6) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 3. Prohibition on allowing unsupervised use of sunbeds[^key-b86101953aa5af119379d2584f41d6d8]
+### 3. Prohibition on allowing unsupervised use of sunbeds[^c-b86101953aa5af119379d2584f41d6d8]
 
 (1) An operator of sunbed premises who allows a person to use a sunbed on those premises without supervision commits an offence.
 
@@ -99,7 +99,7 @@ commits an offence.
 
 (4) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 4. Duty to provide information to sunbed users, or buyers etc.[^key-760e5ba565013146e3ea16f688a22e1f][^key-0c6e058d988d90ea3898c67b028f0573]
+### 4. Duty to provide information to sunbed users, or buyers etc.[^c-760e5ba565013146e3ea16f688a22e1f][^c-0c6e058d988d90ea3898c67b028f0573]
 
 (1) An operator of sunbed premises who fails to comply with a requirement in subsection (2) or (3) commits an offence.
 
@@ -128,7 +128,7 @@ commits an offence.
 
 (12) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 5. Duty to display information notice[^key-80dac4c574dda79e49b67f1fbd6f9808][^key-b4c27265d7fa9f784990b391faf09980]
+### 5. Duty to display information notice[^c-80dac4c574dda79e49b67f1fbd6f9808][^c-b4c27265d7fa9f784990b391faf09980]
 
 (1) An operator of sunbed premises who fails to comply with the requirement in subsection (2) commits an offence.
 
@@ -146,7 +146,7 @@ commits an offence.
 
 (5) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 6. Prohibition on provision or display of other information[^key-418158d3f910679ea24ad96c1d01c7e3]
+### 6. Prohibition on provision or display of other information[^c-418158d3f910679ea24ad96c1d01c7e3]
 
 (1) An operator of sunbed premises who provides or displays any material that contains statements relating to the health effects of sunbed use other than—
 
@@ -159,7 +159,7 @@ commits an offence.
 
 (3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 1 on the standard scale.
 
-### 7. Protective eyewear[^key-a720781e9d05172b22d23ec203c1b454]
+### 7. Protective eyewear[^c-a720781e9d05172b22d23ec203c1b454]
 
 (1) An operator of sunbed premises who fails to comply with a requirement in subsection (2) or (3) commits an offence.
 
@@ -234,7 +234,7 @@ commits an offence.
 
 (10) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 10. Exemption for medical treatment[^key-c87b3f85b1eb3011ce11dc8480884462]
+### 10. Exemption for medical treatment[^c-c87b3f85b1eb3011ce11dc8480884462]
 
 (1) No offence is committed under this Act in respect of any use of a sunbed that falls within subsection (2).
 
@@ -251,7 +251,7 @@ commits an offence.
 
 ## Enforcement
 
-### 11. Enforcement by district councils[^key-e263f9f2eb99ff075c743523bf9666de]
+### 11. Enforcement by district councils[^c-e263f9f2eb99ff075c743523bf9666de]
 
 (1) It is the duty of every district council to enforce within its district the provisions of or made under this Act.
 
@@ -259,7 +259,7 @@ commits an offence.
 
 (3) Schedule 1 makes provision about the powers of authorised officers.
 
-### 12. Fixed penalties for certain offences[^key-830ab2f1bb85b116f4963281555cb332][^key-c39e572434285da9cec253826a90a382]
+### 12. Fixed penalties for certain offences[^c-830ab2f1bb85b116f4963281555cb332][^c-c39e572434285da9cec253826a90a382]
 
 (1) Where an authorised officer of a district council has reason to believe that a person has committed an offence under section 1, 2 or 4 to 9 within the district of that council, the authorised officer may give the person a fixed penalty notice in respect of the offence.
 
@@ -267,7 +267,7 @@ commits an offence.
 
 (3) Schedule 2 makes further provision about fixed penalties.
 
-### 13. Obstruction of officers[^key-a88ff4e78826f918831e0b937b0a027d]
+### 13. Obstruction of officers[^c-a88ff4e78826f918831e0b937b0a027d]
 
 (1) Any person who intentionally obstructs an authorised officer of a district council, acting in the exercise of the officer's functions under or by virtue of this Act, commits an offence.
 
@@ -315,7 +315,7 @@ commits an offence.
 
 ## General
 
-### 15. Offences by bodies corporate etc.[^key-885fcd8d87b5a260a0cae46c54e87d0d]
+### 15. Offences by bodies corporate etc.[^c-885fcd8d87b5a260a0cae46c54e87d0d]
 
 (1) For the purposes of this Act, section 20(2) of the Interpretation Act (Northern Ireland) 1954 (c. 33) applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the functions of management as if that member were a director of the body corporate.
 
@@ -328,7 +328,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 (3) In subsection (2) “**partner**” includes a person purporting to act as a partner.
 
-### 16. Regulations[^key-4244b70d9e0db98ab71e741dd2f7a308][^key-a4dc7b6c981cad28155c0d12b71a126d]
+### 16. Regulations[^c-4244b70d9e0db98ab71e741dd2f7a308][^c-a4dc7b6c981cad28155c0d12b71a126d]
 
 (1) Regulations under this Act may contain such incidental, supplementary, consequential, transitory, transitional or saving provisions as the Department considers appropriate.
 
@@ -383,7 +383,7 @@ SCHEDULES
 
 Section 11(3).
 
-**1.**[^key-b05eea62688c8f5d04af327718b7c37b] An authorised officer has the right to do any of the following, on production (if required) of the officer's authorisation—
+**1.**[^c-b05eea62688c8f5d04af327718b7c37b] An authorised officer has the right to do any of the following, on production (if required) of the officer's authorisation—
 
 - (a) at any reasonable hour, enter any premises within the district of that council to ascertain whether an offence under sections 1 to 9 has been or is being committed there;
 - (b) there carry out such inspections and examinations as the officer considers necessary for the purpose of the proper exercise of the officer's functions under this Act;
@@ -393,16 +393,16 @@ Section 11(3).
 - (d) take possession of any book, document or record which is on the premises (in whatever form it is held) and retain it for as long as the authorised officer considers necessary for that purpose;
 - (e) require any person to give the officer such information, or afford the officer such facilities and assistance, as the officer considers necessary for that purpose.
 
-**2.**[^key-a34e3261cd7c5892057ad74c209a5d80] A person may not be required under paragraph 1 to answer any question or to produce any document which the person would be entitled to refuse to answer or produce in or for the purpose of proceedings in a court in Northern Ireland.
+**2.**[^c-a34e3261cd7c5892057ad74c209a5d80] A person may not be required under paragraph 1 to answer any question or to produce any document which the person would be entitled to refuse to answer or produce in or for the purpose of proceedings in a court in Northern Ireland.
 
-**3.**[^key-c195cafea48e097c5ddabd2f28f972cf] (1) An authorised officer may not under paragraph 1 enter premises which are occupied as a private dwelling unless under the authority of a warrant issued under sub-paragraph (2).
+**3.**[^c-c195cafea48e097c5ddabd2f28f972cf] (1) An authorised officer may not under paragraph 1 enter premises which are occupied as a private dwelling unless under the authority of a warrant issued under sub-paragraph (2).
 
 (2) A lay magistrate may issue a warrant, authorising the authorised officer to enter premises which are occupied as a private dwelling if need be by force, only if satisfied by complaint on oath that there are reasonable grounds for suspecting that—
 
 - (a) an offence mentioned in paragraph 1(a) has been, or is being, committed; and
 - (b) evidence of the commission of that offence may be found in those premises.
 
-**4.**[^key-5b0db7ae32dfd4c2f15e572d71c9ea31] (1) In relation to premises other than premises occupied as a private dwelling, a lay magistrate may exercise the power in sub-paragraph (3) if the magistrate is satisfied by complaint on oath—
+**4.**[^c-5b0db7ae32dfd4c2f15e572d71c9ea31] (1) In relation to premises other than premises occupied as a private dwelling, a lay magistrate may exercise the power in sub-paragraph (3) if the magistrate is satisfied by complaint on oath—
 
 - (a) that for the purpose of the proper exercise of the functions of a district council under this Act there are reasonable grounds for entering into any premises; and
 - (b) of either or both of the matters mentioned in sub-paragraph (2).
@@ -414,24 +414,24 @@ Section 11(3).
 
 (3) A lay magistrate may issue a warrant authorising the authorised officer to enter the premises, if need be by force.
 
-**5.**[^key-22a41d9528dc838b21f4658cf954d482] A warrant under paragraph 3 or 4 continues in force until the end of the period of one month beginning with the date on which the lay magistrate signs it.
+**5.**[^c-22a41d9528dc838b21f4658cf954d482] A warrant under paragraph 3 or 4 continues in force until the end of the period of one month beginning with the date on which the lay magistrate signs it.
 
-**6.**[^key-7300d908c60fb1e5fdedba6e636f4e3f] An authorised officer entering any premises under this Schedule may take with the officer such other persons and such equipment as the officer considers necessary.
+**6.**[^c-7300d908c60fb1e5fdedba6e636f4e3f] An authorised officer entering any premises under this Schedule may take with the officer such other persons and such equipment as the officer considers necessary.
 
-**7.**[^key-854a8fd68b8c8c7a3d561343bada82c1] If premises which an authorised officer is authorised to enter by a warrant are unoccupied, or if the occupier is temporarily absent, then on leaving them that officer must leave the premises as effectively secured against unauthorised entry as the officer found them.
+**7.**[^c-854a8fd68b8c8c7a3d561343bada82c1] If premises which an authorised officer is authorised to enter by a warrant are unoccupied, or if the occupier is temporarily absent, then on leaving them that officer must leave the premises as effectively secured against unauthorised entry as the officer found them.
 
-## SCHEDULE 2 — FIXED PENALTIES[^key-7a50328cfed823016533c0356385db74]
+## SCHEDULE 2 — FIXED PENALTIES[^c-7a50328cfed823016533c0356385db74]
 
 Section 12(3).
 
 ### Contents of fixed penalty notices
 
-**1.**[^M_I_ba7c62bf-2d99-49ed-b860-c4f2191223ae][^key-6ad7263c1e32cd261e8461914e36ff70] A fixed penalty notice must—
+**1.**[^M_I_ba7c62bf-2d99-49ed-b860-c4f2191223ae][^c-6ad7263c1e32cd261e8461914e36ff70] A fixed penalty notice must—
 
 - (a) state the alleged offence; and
 - (b) give such particulars of the circumstances alleged to constitute it as are necessary for giving reasonable information about it.
 
-**2.**[^M_I_4fa4c2b4-be6b-4e7c-b1f9-5225c58cf1b7][^key-54511870e6bc7d6eb64f176efbe59d77] (1) A fixed penalty notice must also state—
+**2.**[^M_I_4fa4c2b4-be6b-4e7c-b1f9-5225c58cf1b7][^c-54511870e6bc7d6eb64f176efbe59d77] (1) A fixed penalty notice must also state—
 
 - (a) the amount of the penalty and the period for its payment;
 - (b) the consequences of not paying the penalty before the end of the period mentioned in head (a);
@@ -441,46 +441,46 @@ Section 12(3).
 
 (2) The person mentioned in sub-paragraph (1)(c) and (e) must be the district council on whose behalf the authorised officer was acting when the officer gave the notice.
 
-**3.**[^M_I_75dde306-70e1-4a29-c9b5-b3ed77433300][^key-e91ffc9423763683b6183766f2749d0a] A fixed penalty notice must also—
+**3.**[^M_I_75dde306-70e1-4a29-c9b5-b3ed77433300][^c-e91ffc9423763683b6183766f2749d0a] A fixed penalty notice must also—
 
 - (a) inform the person to whom it is given of the person's right to be tried for the alleged offence; and
 - (b) explain how that right may be exercised.
 
 ### Amount of fixed penalty and period for payment
 
-**4.**[^M_I_6d8a854b-afe4-4697-ee63-9f519647f3cc][^key-5cc1f45fc713795781a8391674c5dac9] The fixed penalty is such amount as may be prescribed.
+**4.**[^M_I_6d8a854b-afe4-4697-ee63-9f519647f3cc][^c-5cc1f45fc713795781a8391674c5dac9] The fixed penalty is such amount as may be prescribed.
 
-**5.**[^M_I_b3b9034e-cdc3-420c-cc70-cb94fe87a9a6][^key-5faed918410ac389d296e5cf718c45ea] The period for payment of the fixed penalty is the period of 28 days beginning with the day on which the notice is given.
+**5.**[^M_I_b3b9034e-cdc3-420c-cc70-cb94fe87a9a6][^c-5faed918410ac389d296e5cf718c45ea] The period for payment of the fixed penalty is the period of 28 days beginning with the day on which the notice is given.
 
 ### Effect of notice and payment
 
-**6.**[^M_I_7c4b0013-3da4-4f51-da9d-6ed77370cfb3][^key-db10ff2eee072cffcbcc106184572849] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the fixed penalty.
+**6.**[^M_I_7c4b0013-3da4-4f51-da9d-6ed77370cfb3][^c-db10ff2eee072cffcbcc106184572849] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the fixed penalty.
 
 (2) Sub-paragraph (1) does not apply if the person to whom the notice was given has asked in accordance with paragraphs 11 and 12 to be tried for the alleged offence.
 
-**7.**[^M_I_82d44b42-3342-4d49-e4d7-cfa79a43d738][^key-bf2c9a0b26c4de6bd4161b8ba2602c36] If the fixed penalty is paid in accordance with the fixed penalty notice before the end of the period for payment of the fixed penalty, no proceedings for the offence may be brought and paragraph 11 does not apply.
+**7.**[^M_I_82d44b42-3342-4d49-e4d7-cfa79a43d738][^c-bf2c9a0b26c4de6bd4161b8ba2602c36] If the fixed penalty is paid in accordance with the fixed penalty notice before the end of the period for payment of the fixed penalty, no proceedings for the offence may be brought and paragraph 11 does not apply.
 
-**8.**[^M_I_8b900672-75bb-4fe4-90e0-4660e2900a21][^key-6c15db55624bbfc2e95496529e6e6b3d] If proceedings have been brought pursuant to a request under paragraph 11, but then the penalty is paid as mentioned in paragraph 7 those proceedings may not be continued.
+**8.**[^M_I_8b900672-75bb-4fe4-90e0-4660e2900a21][^c-6c15db55624bbfc2e95496529e6e6b3d] If proceedings have been brought pursuant to a request under paragraph 11, but then the penalty is paid as mentioned in paragraph 7 those proceedings may not be continued.
 
-**9.**[^M_I_e653a3f5-cc52-49a3-b945-b0aac6dc9275][^key-7338afc838cac482e351d048e34b32b7] In any proceedings, a certificate is evidence of the facts which it states if it—
+**9.**[^M_I_e653a3f5-cc52-49a3-b945-b0aac6dc9275][^c-7338afc838cac482e351d048e34b32b7] In any proceedings, a certificate is evidence of the facts which it states if it—
 
 - (a) purports to be signed by or on behalf of the person responsible for the financial affairs of the district council on whose behalf the authorised officer who gave a fixed penalty notice was acting; and
 - (b) states that payment of the fixed penalty in pursuance of the notice was or was not received by the expiry of the period within which that fixed penalty may be paid.
 
-**10.**[^M_I_96696b3a-be2d-4e32-a9eb-56ff34bdd98b][^key-932e82fe198c5a3d274da82cfd1ae7fb] Any sum received by a district council under this Schedule accrues to that council.
+**10.**[^M_I_96696b3a-be2d-4e32-a9eb-56ff34bdd98b][^c-932e82fe198c5a3d274da82cfd1ae7fb] Any sum received by a district council under this Schedule accrues to that council.
 
 ### Trial
 
-**11.**[^M_I_b2748d6d-9465-4194-e5f1-b30475ef0a78][^key-6f644ad9fbdfc5d26b251b769d159b40] If the person to whom a fixed penalty notice has been given asks to be tried for the alleged offence, proceedings may be brought against that person.
+**11.**[^M_I_b2748d6d-9465-4194-e5f1-b30475ef0a78][^c-6f644ad9fbdfc5d26b251b769d159b40] If the person to whom a fixed penalty notice has been given asks to be tried for the alleged offence, proceedings may be brought against that person.
 
-**12.**[^M_I_e37055db-fc09-474c-c283-3b805416a91f][^key-3bd451d34d7bc297f4239fecf3241988] Any request to be tried must be made—
+**12.**[^M_I_e37055db-fc09-474c-c283-3b805416a91f][^c-3bd451d34d7bc297f4239fecf3241988] Any request to be tried must be made—
 
 - (a) by notice given to the district council in question before the end of the period for payment of the penalty;
 - (b) in the manner specified in the fixed penalty notice.
 
 ### Withdrawal of fixed penalty notices
 
-**13.**[^M_I_0288986d-8243-4a6a-ed8d-6493dbc19e5c][^key-76117c61cd48de15bf3c691db23bd742] (1) The district council must consider any representations made by or on behalf of the recipient of a fixed penalty notice and decide in all the circumstances whether to withdraw the notice.
+**13.**[^M_I_0288986d-8243-4a6a-ed8d-6493dbc19e5c][^c-76117c61cd48de15bf3c691db23bd742] (1) The district council must consider any representations made by or on behalf of the recipient of a fixed penalty notice and decide in all the circumstances whether to withdraw the notice.
 
 (2) Where a fixed penalty notice is withdrawn in accordance with sub-paragraph (1)—
 
@@ -490,7 +490,7 @@ Section 12(3).
 
 ### Regulations
 
-**14.**[^M_I_05a88c4a-d125-412d-ef24-20c4d07bd931][^key-ce3f462954830af4fb904ac7e8dbab08] The Department may by regulations—
+**14.**[^M_I_05a88c4a-d125-412d-ef24-20c4d07bd931][^c-ce3f462954830af4fb904ac7e8dbab08] The Department may by regulations—
 
 - (a) provide that fixed penalty notices may not be given in such circumstances as may be prescribed;
 - (b) provide for the form of a fixed penalty notice;
@@ -500,108 +500,108 @@ Section 12(3).
 
 ## Annotations
 
-[^key-948e373b196fad4bdc2c425e44bb0d05]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/19/section/1) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-948e373b196fad4bdc2c425e44bb0d05]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/19/section/1) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-bb669c34f95d894a1df4e3aa839b7b4f]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/19/section/2) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-bb669c34f95d894a1df4e3aa839b7b4f]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/19/section/2) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-b86101953aa5af119379d2584f41d6d8]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/19/section/3) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-b86101953aa5af119379d2584f41d6d8]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/19/section/3) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-760e5ba565013146e3ea16f688a22e1f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/19/section/4) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
+[^c-760e5ba565013146e3ea16f688a22e1f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/19/section/4) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-0c6e058d988d90ea3898c67b028f0573]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/19/section/4) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-0c6e058d988d90ea3898c67b028f0573]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/19/section/4) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-80dac4c574dda79e49b67f1fbd6f9808]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/19/section/5) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
+[^c-80dac4c574dda79e49b67f1fbd6f9808]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/19/section/5) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-b4c27265d7fa9f784990b391faf09980]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/19/section/5) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-b4c27265d7fa9f784990b391faf09980]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/19/section/5) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-418158d3f910679ea24ad96c1d01c7e3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/19/section/6) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-418158d3f910679ea24ad96c1d01c7e3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/19/section/6) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-a720781e9d05172b22d23ec203c1b454]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/19/section/7) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-a720781e9d05172b22d23ec203c1b454]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/19/section/7) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-c87b3f85b1eb3011ce11dc8480884462]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/19/section/10) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-c87b3f85b1eb3011ce11dc8480884462]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/19/section/10) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-e263f9f2eb99ff075c743523bf9666de]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/19/section/11) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-e263f9f2eb99ff075c743523bf9666de]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/19/section/11) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-830ab2f1bb85b116f4963281555cb332]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/19/section/12) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
+[^c-830ab2f1bb85b116f4963281555cb332]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/19/section/12) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-c39e572434285da9cec253826a90a382]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/19/section/12) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-c39e572434285da9cec253826a90a382]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/19/section/12) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-a88ff4e78826f918831e0b937b0a027d]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/19/section/13) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-a88ff4e78826f918831e0b937b0a027d]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/19/section/13) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-885fcd8d87b5a260a0cae46c54e87d0d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/19/section/15) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-885fcd8d87b5a260a0cae46c54e87d0d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/19/section/15) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-4244b70d9e0db98ab71e741dd2f7a308]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/19/section/16) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
+[^c-4244b70d9e0db98ab71e741dd2f7a308]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/19/section/16) in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-a4dc7b6c981cad28155c0d12b71a126d]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/19/section/16) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-a4dc7b6c981cad28155c0d12b71a126d]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/19/section/16) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-b05eea62688c8f5d04af327718b7c37b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/1) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-b05eea62688c8f5d04af327718b7c37b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/1) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-a34e3261cd7c5892057ad74c209a5d80]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/2) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-a34e3261cd7c5892057ad74c209a5d80]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/2) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-c195cafea48e097c5ddabd2f28f972cf]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/3) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-c195cafea48e097c5ddabd2f28f972cf]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/3) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-5b0db7ae32dfd4c2f15e572d71c9ea31]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/4) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-5b0db7ae32dfd4c2f15e572d71c9ea31]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/4) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-22a41d9528dc838b21f4658cf954d482]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/5) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-22a41d9528dc838b21f4658cf954d482]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/5) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-7300d908c60fb1e5fdedba6e636f4e3f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/6) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-7300d908c60fb1e5fdedba6e636f4e3f]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/6) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-854a8fd68b8c8c7a3d561343bada82c1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/7) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-854a8fd68b8c8c7a3d561343bada82c1]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/19/schedule/1/paragraph/7) in operation at 1.5.2012 by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
-[^key-7a50328cfed823016533c0356385db74]: Commencement: Sch. 2 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
+[^c-7a50328cfed823016533c0356385db74]: Commencement: Sch. 2 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
 [^M_I_ba7c62bf-2d99-49ed-b860-c4f2191223ae]: Commencement: Sch. 2 para. 1 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-6ad7263c1e32cd261e8461914e36ff70]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/1) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-6ad7263c1e32cd261e8461914e36ff70]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/1) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_4fa4c2b4-be6b-4e7c-b1f9-5225c58cf1b7]: Commencement: Sch. 2 para. 2 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-54511870e6bc7d6eb64f176efbe59d77]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/2) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-54511870e6bc7d6eb64f176efbe59d77]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/2) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_75dde306-70e1-4a29-c9b5-b3ed77433300]: Commencement: Sch. 2 para. 3 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-e91ffc9423763683b6183766f2749d0a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/3) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-e91ffc9423763683b6183766f2749d0a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/3) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_6d8a854b-afe4-4697-ee63-9f519647f3cc]: Commencement: Sch. 2 para. 4 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-5cc1f45fc713795781a8391674c5dac9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/4) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-5cc1f45fc713795781a8391674c5dac9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/4) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_b3b9034e-cdc3-420c-cc70-cb94fe87a9a6]: Commencement: Sch. 2 para. 5 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-5faed918410ac389d296e5cf718c45ea]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/5) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-5faed918410ac389d296e5cf718c45ea]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/5) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_7c4b0013-3da4-4f51-da9d-6ed77370cfb3]: Commencement: Sch. 2 para. 6 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-db10ff2eee072cffcbcc106184572849]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/6) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-db10ff2eee072cffcbcc106184572849]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/6) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_82d44b42-3342-4d49-e4d7-cfa79a43d738]: Commencement: Sch. 2 para. 7 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-bf2c9a0b26c4de6bd4161b8ba2602c36]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/7) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-bf2c9a0b26c4de6bd4161b8ba2602c36]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/7) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_8b900672-75bb-4fe4-90e0-4660e2900a21]: Commencement: Sch. 2 para. 8 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-6c15db55624bbfc2e95496529e6e6b3d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/8) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-6c15db55624bbfc2e95496529e6e6b3d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/8) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_e653a3f5-cc52-49a3-b945-b0aac6dc9275]: Commencement: Sch. 2 para. 9 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-7338afc838cac482e351d048e34b32b7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/9) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-7338afc838cac482e351d048e34b32b7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/9) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_96696b3a-be2d-4e32-a9eb-56ff34bdd98b]: Commencement: Sch. 2 para. 10 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-932e82fe198c5a3d274da82cfd1ae7fb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/10) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-932e82fe198c5a3d274da82cfd1ae7fb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/10) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_b2748d6d-9465-4194-e5f1-b30475ef0a78]: Commencement: Sch. 2 para. 11 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-6f644ad9fbdfc5d26b251b769d159b40]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/11) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-6f644ad9fbdfc5d26b251b769d159b40]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/11) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_e37055db-fc09-474c-c283-3b805416a91f]: Commencement: Sch. 2 para. 12 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-3bd451d34d7bc297f4239fecf3241988]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/12) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-3bd451d34d7bc297f4239fecf3241988]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/12) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_0288986d-8243-4a6a-ed8d-6493dbc19e5c]: Commencement: Sch. 2 para. 13 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-76117c61cd48de15bf3c691db23bd742]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/13) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-76117c61cd48de15bf3c691db23bd742]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/13) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
 
 [^M_I_05a88c4a-d125-412d-ef24-20c4d07bd931]: Commencement: Sch. 2 para. 14 in operation at 13.2.2012 for specified purposes by [S.R. 2012/41](https://www.legislation.gov.uk/nisr/2012/41), [art. 2](https://www.legislation.gov.uk/nisr/2012/41/article/2)
 
-[^key-ce3f462954830af4fb904ac7e8dbab08]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/14) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)
+[^c-ce3f462954830af4fb904ac7e8dbab08]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2011/19/schedule/2/paragraph/14) in operation at 1.5.2012 in so far as not already in operation by [S.R. 2012/90](https://www.legislation.gov.uk/nisr/2012/90), [art. 2](https://www.legislation.gov.uk/nisr/2012/90/article/2)

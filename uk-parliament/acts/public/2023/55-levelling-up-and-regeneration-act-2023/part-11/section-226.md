@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Enforcement of requirements[^key-b4bbe15db610e94f69fc538b1425dcfc]
+## 226. Enforcement of requirements[^c-b4bbe15db610e94f69fc538b1425dcfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4bbe15db610e94f69fc538b1425dcfc]: Commencement: S. 226 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-b4bbe15db610e94f69fc538b1425dcfc]: Commencement: S. 226 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

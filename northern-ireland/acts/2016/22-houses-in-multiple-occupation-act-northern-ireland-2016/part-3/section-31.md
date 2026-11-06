@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Exceeding licensed occupancy or breach of licence conditions[^key-bd1728926876fad8187a63227cf529e2]
+## 31. Exceeding licensed occupancy or breach of licence conditions[^c-bd1728926876fad8187a63227cf529e2]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ the owner or agent (as the case may be) commits an offence.
 
 ## Annotations
 
-[^key-bd1728926876fad8187a63227cf529e2]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/22/section/31) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-bd1728926876fad8187a63227cf529e2]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/22/section/31) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

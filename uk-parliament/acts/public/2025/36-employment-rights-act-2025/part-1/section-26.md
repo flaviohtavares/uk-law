@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Dismissal during pregnancy[^key-764ab42949c569f07cc9ee91ee59dde6][^key-d16171f63c29e81e96634c2d4c4d1002]
+## 26. Dismissal during pregnancy[^c-764ab42949c569f07cc9ee91ee59dde6][^c-d16171f63c29e81e96634c2d4c4d1002]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-764ab42949c569f07cc9ee91ee59dde6]: Commencement: S. 26 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-764ab42949c569f07cc9ee91ee59dde6]: Commencement: S. 26 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d16171f63c29e81e96634c2d4c4d1002]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/36/section/26) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)
+[^c-d16171f63c29e81e96634c2d4c4d1002]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/36/section/26) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)

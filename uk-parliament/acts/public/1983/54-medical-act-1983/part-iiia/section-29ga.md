@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29GA. Information for specified state professionals[^key-4fef754b80e7ef2057b37d6e5ece4a9e]
+## 29GA. Information for specified state professionals[^c-4fef754b80e7ef2057b37d6e5ece4a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fef754b80e7ef2057b37d6e5ece4a9e]: Textual amendment: [S. 29GA](https://www.legislation.gov.uk/ukpga/1983/54/section/29GA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/13)
+[^c-4fef754b80e7ef2057b37d6e5ece4a9e]: Textual amendment: [S. 29GA](https://www.legislation.gov.uk/ukpga/1983/54/section/29GA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/13)

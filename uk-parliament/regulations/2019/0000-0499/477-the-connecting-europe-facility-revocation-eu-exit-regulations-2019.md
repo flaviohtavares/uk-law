@@ -56,17 +56,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-9a61c3de157ba1c01adcc232176249be]
+## 1. Citation and commencement[^c-9a61c3de157ba1c01adcc232176249be]
 
 (1) These Regulations may be cited as the Connecting Europe Facility (Revocation) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on exit day.
 
-## 2. Revocations[^key-cff58e95464fb99ee001897c4812c884]
+## 2. Revocations[^c-cff58e95464fb99ee001897c4812c884]
 
 The retained direct EU legislation listed in the Schedule (Revocations) is revoked.
 
-## 3. Transitional provision and savings[^key-ae4d483f8743066636dc7b5e6d56f7a4]
+## 3. Transitional provision and savings[^c-ae4d483f8743066636dc7b5e6d56f7a4]
 
 (1) The Secretary of State may make a grant to a person to whom paragraph (2) applies.
 
@@ -77,7 +77,7 @@ The retained direct EU legislation listed in the Schedule (Revocations) is revok
   - (i) the person would have been entitled to receive a payment in respect of that award, if the United Kingdom had not withdrawn from the European Union; and
   - (ii) the European Commission [^c23624391] will not make the payment because of the United Kingdom's withdrawal from the European Union.
 
-(3) For the purposes of paragraph (2), a person has been awarded grant funding if, before IP completion day *(Extent: E+W+S)*[^key-07e745a4746b2fa28f11a882969fb2be]—
+(3) For the purposes of paragraph (2), a person has been awarded grant funding if, before IP completion day *(Extent: E+W+S)*[^c-07e745a4746b2fa28f11a882969fb2be]—
 
 - (a) the person has entered into a grant agreement with the European Commission; or
 - (b) the following criteria are met—
@@ -104,11 +104,11 @@ Parliamentary Under Secretary of State
 
 Department for Transport
 
-## SCHEDULE — Revocations[^key-63ebe3a504ea8272bd15c89c1911c6ba]
+## SCHEDULE — Revocations[^c-63ebe3a504ea8272bd15c89c1911c6ba]
 
 Regulation 2
 
-[^key-63ebe3a504ea8272bd15c89c1911c6ba]
+[^c-63ebe3a504ea8272bd15c89c1911c6ba]
 
 The following instruments are revoked—
 
@@ -133,18 +133,18 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23624371]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9a61c3de157ba1c01adcc232176249be]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9a61c3de157ba1c01adcc232176249be]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-cff58e95464fb99ee001897c4812c884]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cff58e95464fb99ee001897c4812c884]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-ae4d483f8743066636dc7b5e6d56f7a4]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ae4d483f8743066636dc7b5e6d56f7a4]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23624381]: Marginal citation: OJ No L348, 20.12.2013, p.129, as amended by Regulation (EU) 2015/1017 (OJ No L169, 1.7.2015, p1), Regulation (EU) 2017/1953 (OJ No L286, 1.11.2017, p1), Regulation (EU) 2017/2396 (OJ No L345, 27.12.2017, p34) and Regulation (EU,Euratom) 2018/1046, L193, 30.7.2018, p1.
 
 [^c23624391]: Marginal citation: The European Commission is an institution of the EU under Article 13 of the Treaty on European Union (OJ N C 326, 26.10.2012, p13.
 
-[^key-07e745a4746b2fa28f11a882969fb2be]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/477/regulation/3/3) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [5](https://www.legislation.gov.uk/uksi/2020/786/regulation/5)
+[^c-07e745a4746b2fa28f11a882969fb2be]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/477/regulation/3/3) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [5](https://www.legislation.gov.uk/uksi/2020/786/regulation/5)
 
 [^c23624401]: Marginal citation: The Innovation and Networks Executive Agency is established under Commission Implementing Decision of 23 December 2013 establishing the Innovation and Networks Executive Agency and repealing Decision 2007/60/EC as amended by Decision 2008/59/EC (OJ No L 352, 24.12.2013, p65). Under Article 3 of the Decision, the Agency is entrusted with, among other things, implementation of parts of the Connecting Europe Facility. The establishment of executive agencies is provided for under Council Regulation (EC) No 58/2003 of 19 December 2002 laying down the statute for executive agencies to be entrusted with certain tasks in the management of Community programmes (OJ No L11, 16.1.2003, p1).
 
-[^key-63ebe3a504ea8272bd15c89c1911c6ba]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-63ebe3a504ea8272bd15c89c1911c6ba]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 129(2) and (4), 132(3) and (4) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(1), (2) and (4) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 4 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-38216e0738dbf406b00dfdd3dee1c555]
+## 1. Citation, commencement and interpretation[^c-38216e0738dbf406b00dfdd3dee1c555]
 
 (1) These Regulations may be cited as the Social Security (Students Amendments) Regulations (Northern Ireland) 1999 and shall come into operation—
 
@@ -55,13 +55,13 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-dadeebacacf08655a1b48d7ae6606002][^key-703d3b78a4f9573487b2a7271ab91ca9]
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^c-dadeebacacf08655a1b48d7ae6606002][^c-703d3b78a4f9573487b2a7271ab91ca9]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00006] shall be amended in accordance with paragraphs (2) to (8).
 
 (2) In regulation 130 (interpretation of Chapter IX of Part VIII)—
 
-- (a)[^key-a15aff04f82047051c416332cd3f5a95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a15aff04f82047051c416332cd3f5a95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the definition of “year” there shall be substituted the following definitions—
 
   > - “student loan” means a loan towards a student’s maintenance pursuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^f00008], section 22 of the Teaching and Higher Education Act 1998[^f00009] or section 73 of the Education (Scotland) Act 1980[^f00010];
@@ -130,13 +130,13 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 3. Amendment of the Income Support Regulations[^key-b1a55facac1ee5c3c31a010590e54df3][^key-4d8aac57b4dc312558760c3cd89d640a]
+## 3. Amendment of the Income Support Regulations[^c-b1a55facac1ee5c3c31a010590e54df3][^c-4d8aac57b4dc312558760c3cd89d640a]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00014] shall be amended in accordance with paragraphs (2) to (8).
 
 (2) In regulation 61 (interpretation of Chapter VIII of Part V)—
 
-- (a)[^key-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the definition of “year”[^f00016] there shall be substituted the following definitions—
 
   > - “student loan” means a loan towards a student’s maintenance persuant to any regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998, section 22 of the Teaching and Higher Education Act 1998 or section 73 of the Education (Scotland) Act 1980;
@@ -205,11 +205,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-fd874c69530f02243fad5e721111fab5]
+## 4. Amendment of the Housing Benefit Regulations[^c-fd874c69530f02243fad5e721111fab5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Family Credit Regulations[^key-2bcef253a04b401992f7250d29e3e217][^key-1eaf34d83f0d7c71fb285b48d3b61ce5]
+## 5. Amendment of the Family Credit Regulations[^c-2bcef253a04b401992f7250d29e3e217][^c-1eaf34d83f0d7c71fb285b48d3b61ce5]
 
 (1) The Family Credit (General) Regulations (Northern Ireland) 1987[^f00039] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -275,7 +275,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (7) In regulation 43A[^f00050] (further disregard of student’s income) after “grant” there shall be inserted “or student loan”.
 
-## 6. Amendment of the Disability Working Allowance Regulations[^key-1c3acd5d66473de9488ed7de9b060bc6][^key-77c6eb66528387bcc2560be3ea4b2206]
+## 6. Amendment of the Disability Working Allowance Regulations[^c-1c3acd5d66473de9488ed7de9b060bc6][^c-77c6eb66528387bcc2560be3ea4b2206]
 
 (1) The Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00051] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -389,17 +389,17 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00004]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-38216e0738dbf406b00dfdd3dee1c555]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/a)
+[^c-38216e0738dbf406b00dfdd3dee1c555]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/a)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-dadeebacacf08655a1b48d7ae6606002]: Commencement: Reg. 2 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
+[^c-dadeebacacf08655a1b48d7ae6606002]: Commencement: Reg. 2 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
 
-[^key-703d3b78a4f9573487b2a7271ab91ca9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/317/regulation/2) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
+[^c-703d3b78a4f9573487b2a7271ab91ca9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/317/regulation/2) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
 
 [^f00006]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1997 No. 222](https://www.legislation.gov.uk/nisr/1997/222) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
 
-[^key-a15aff04f82047051c416332cd3f5a95]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/2/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-a15aff04f82047051c416332cd3f5a95]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/2/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00008]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760); see the Education (Student Support) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 192](https://www.legislation.gov.uk/nisr/1999/192)) for loans to students commencing courses after 1st September 1998 and the Education (Student Loans) Regulations (Northern Ireland) 1998 ([S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58))
 
@@ -413,13 +413,13 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00013]: Footnote: Paragraph 57 was added by regulation 2(3)(b) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
-[^key-b1a55facac1ee5c3c31a010590e54df3]: Commencement: Reg. 3 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
+[^c-b1a55facac1ee5c3c31a010590e54df3]: Commencement: Reg. 3 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b)
 
-[^key-4d8aac57b4dc312558760c3cd89d640a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/317/regulation/3) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
+[^c-4d8aac57b4dc312558760c3cd89d640a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/317/regulation/3) in operation at 30.8.1999 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/b/ii)
 
 [^f00014]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46), [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 Nos. 93](https://www.legislation.gov.uk/nisr/1996/93), [199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
 
-[^key-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/3/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-d8dc97f8dbdc4e7c2b5ae47a8f2bebe7]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/1999/317/regulation/3/2/a) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
 
 [^f00016]: Footnote: The definition of “year” was amended by regulation 5 of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405)
 
@@ -443,11 +443,11 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00026]: Footnote: Paragraph 59 was added by regulation 2(2)(b) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
-[^key-fd874c69530f02243fad5e721111fab5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/317/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-fd874c69530f02243fad5e721111fab5]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/317/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-2bcef253a04b401992f7250d29e3e217]: Commencement: Reg. 5 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
+[^c-2bcef253a04b401992f7250d29e3e217]: Commencement: Reg. 5 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
 
-[^key-1eaf34d83f0d7c71fb285b48d3b61ce5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/317/regulation/5) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
+[^c-1eaf34d83f0d7c71fb285b48d3b61ce5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/317/regulation/5) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
 
 [^f00039]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 No. 326](https://www.legislation.gov.uk/nisr/1991/326), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
 
@@ -473,9 +473,9 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00050]: Footnote: Regulation 43A was inserted by regulation 3(3) and (4)(b) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-1c3acd5d66473de9488ed7de9b060bc6]: Commencement: Reg. 6 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
+[^c-1c3acd5d66473de9488ed7de9b060bc6]: Commencement: Reg. 6 in operation at 1.8.1999 for specified purposes, see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d)
 
-[^key-77c6eb66528387bcc2560be3ea4b2206]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/317/regulation/6) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
+[^c-77c6eb66528387bcc2560be3ea4b2206]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/317/regulation/6) in operation at 31.8.1999 in so far as not already in operation, see [reg. 1(1)(d)(ii)](https://www.legislation.gov.uk/nisr/1999/317/regulation/1/1/d/ii)
 
 [^f00051]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending Regulations are [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93), [S.R. 1998 Nos. 81](https://www.legislation.gov.uk/nisr/1998/81) and [204](https://www.legislation.gov.uk/nisr/1998/204)
 

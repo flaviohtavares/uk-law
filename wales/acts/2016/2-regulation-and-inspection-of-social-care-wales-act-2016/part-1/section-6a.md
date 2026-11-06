@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Registration in respect of a restricted children’s service[^key-d8835257fcc3489a89c3410c466be4c0]
+## 6A. Registration in respect of a restricted children’s service[^c-d8835257fcc3489a89c3410c466be4c0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8835257fcc3489a89c3410c466be4c0]: Textual amendment: Ss. 6A, 6B inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 3(3)](https://www.legislation.gov.uk/asc/2025/1/section/3/3), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
+[^c-d8835257fcc3489a89c3410c466be4c0]: Textual amendment: Ss. 6A, 6B inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 3(3)](https://www.legislation.gov.uk/asc/2025/1/section/3/3), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))

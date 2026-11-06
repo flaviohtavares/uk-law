@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Notice requirements: decisions about whether to designate[^key-ae8ad1c4a6f8787c2ff091fddf251aae][^key-69ec0c95c065c4a4410e9c8305144853]
+## 15. Notice requirements: decisions about whether to designate[^c-ae8ad1c4a6f8787c2ff091fddf251aae][^c-69ec0c95c065c4a4410e9c8305144853]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ provided that the undertaking or digital activity, as the case may be, remains s
 
 ## Annotations
 
-[^key-ae8ad1c4a6f8787c2ff091fddf251aae]: Commencement: S. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ae8ad1c4a6f8787c2ff091fddf251aae]: Commencement: S. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-69ec0c95c065c4a4410e9c8305144853]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2024/13/section/15) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-69ec0c95c065c4a4410e9c8305144853]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2024/13/section/15) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

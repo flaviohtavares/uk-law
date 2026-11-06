@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Supply and delivery of goods of strategic concern[^key-b3a05904d1bb47196f8329970098b010][^key-952c6975a46fe0e86317e3ee387b52cb]
+## 38. Supply and delivery of goods of strategic concern[^c-b3a05904d1bb47196f8329970098b010][^c-952c6975a46fe0e86317e3ee387b52cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a05904d1bb47196f8329970098b010]: Commencement: Reg. 38 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b3a05904d1bb47196f8329970098b010]: Commencement: Reg. 38 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-952c6975a46fe0e86317e3ee387b52cb]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2023/1314/regulation/38) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/b)
+[^c-952c6975a46fe0e86317e3ee387b52cb]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2023/1314/regulation/38) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/3/b)

@@ -24,11 +24,11 @@ Section 4
 
 ### Power to escort detained persons
 
-**1.**[^key-78b0a4e509d0f021b9b6a78b50f0a74f] In Schedule 2 to the Immigration Act 1971, in paragraph 18(3) (power to escort detained persons) for the first “or of” substitute “ an immigration officer, or ”.
+**1.**[^c-78b0a4e509d0f021b9b6a78b50f0a74f] In Schedule 2 to the Immigration Act 1971, in paragraph 18(3) (power to escort detained persons) for the first “or of” substitute “ an immigration officer, or ”.
 
 ### Power to search detained persons
 
-**2.**[^key-948d253f25dd3e56cb23884aa1024fe5] (1) In Schedule 2 to the Immigration Act 1971, after paragraph 18 insert—
+**2.**[^c-948d253f25dd3e56cb23884aa1024fe5] (1) In Schedule 2 to the Immigration Act 1971, after paragraph 18 insert—
 
 > **18A.** (1) An immigration officer or constable may search a person (“P”) who is detained under paragraph 16 for anything which P might use—
 >
@@ -50,17 +50,17 @@ Section 4
 >
 > (7) Nothing seized under sub-paragraph (6) may be retained when P is released from detention under paragraph 16.
 
-(2)[^key-f76572ca93a09a8a0413467718ea1936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f76572ca93a09a8a0413467718ea1936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 10(7) of the Immigration and Asylum Act 1999 (which applies certain provisions of Schedule 2 to the Immigration Act 1971), for “18” substitute “ 18A ”.
 
-(4)[^key-d4d29d2ca79e7468f20d07c66f2682c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d4d29d2ca79e7468f20d07c66f2682c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 22(2) of the Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003) (which applies certain provisions of Schedule 2 to the Immigration Act 1971), for “18” substitute “ 18A ”.
 
 ### Entry and search of premises
 
-**3.**[^key-e23a3a46b4d7fe9e78cba2ac7b65cb12] (1) Paragraph 25A of Schedule 2 to the Immigration Act 1971 (power to enter premises and search for documents following arrest) is amended as follows.
+**3.**[^c-e23a3a46b4d7fe9e78cba2ac7b65cb12] (1) Paragraph 25A of Schedule 2 to the Immigration Act 1971 (power to enter premises and search for documents following arrest) is amended as follows.
 
 (2) In sub-paragraph (1)(b) for “by a constable (other than under this Schedule)” substitute “ other than under this Schedule ”.
 
@@ -95,24 +95,24 @@ Section 4
 > - (a) the arrested person may be liable to removal from the United Kingdom in accordance with a provision of the Immigration Acts, and
 > - (b) retention of the document may facilitate the person's removal.
 
-**4.**[^key-57e22523b3c6a363f9d6482410c2bab0] In sections 28J(11) and 28K(14) of the Immigration Act 1971 (warrants - safeguards and execution) after “paragraph 17(2)” insert “ or 25A(6A) ”.
+**4.**[^c-57e22523b3c6a363f9d6482410c2bab0] In sections 28J(11) and 28K(14) of the Immigration Act 1971 (warrants - safeguards and execution) after “paragraph 17(2)” insert “ or 25A(6A) ”.
 
 ### General power to use reasonable force
 
-**5.**[^key-234730f0ab45409e8f91a974709ec096] In section 146(1) of the Immigration and Asylum Act 1999 (power of immigration officer to use reasonable force when exercising powers under certain enactments) for “the 1971 Act or this Act” substitute “ the Immigration Acts ”.
+**5.**[^c-234730f0ab45409e8f91a974709ec096] In section 146(1) of the Immigration and Asylum Act 1999 (power of immigration officer to use reasonable force when exercising powers under certain enactments) for “the 1971 Act or this Act” substitute “ the Immigration Acts ”.
 
 ## Annotations
 
-[^key-78b0a4e509d0f021b9b6a78b50f0a74f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/1) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
+[^c-78b0a4e509d0f021b9b6a78b50f0a74f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/1) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
 
-[^key-948d253f25dd3e56cb23884aa1024fe5]: Commencement: Sch. 1 para. 2 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
+[^c-948d253f25dd3e56cb23884aa1024fe5]: Commencement: Sch. 1 para. 2 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
 
-[^key-f76572ca93a09a8a0413467718ea1936]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/2/3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-f76572ca93a09a8a0413467718ea1936]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/2/3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
-[^key-d4d29d2ca79e7468f20d07c66f2682c9]: Textual amendment: [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/2/4) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-d4d29d2ca79e7468f20d07c66f2682c9]: Textual amendment: [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/2/4) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
-[^key-e23a3a46b4d7fe9e78cba2ac7b65cb12]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
+[^c-e23a3a46b4d7fe9e78cba2ac7b65cb12]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/3) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
 
-[^key-57e22523b3c6a363f9d6482410c2bab0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/4) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
+[^c-57e22523b3c6a363f9d6482410c2bab0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/4) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
 
-[^key-234730f0ab45409e8f91a974709ec096]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/5) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)
+[^c-234730f0ab45409e8f91a974709ec096]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2014/22/schedule/1/paragraph/5) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(y)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/y)

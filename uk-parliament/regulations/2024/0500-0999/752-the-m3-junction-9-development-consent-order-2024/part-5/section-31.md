@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Application of the 1981 Act[^key-86e3082b5389de45c06d3847d2523871]
+## 31. Application of the 1981 Act[^c-86e3082b5389de45c06d3847d2523871]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-86e3082b5389de45c06d3847d2523871]: Commencement: Art. 31 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-86e3082b5389de45c06d3847d2523871]: Commencement: Art. 31 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00070]: Footnote: Section 5A was inserted by section 182(2) of the Housing and Planning Act 2016.
 

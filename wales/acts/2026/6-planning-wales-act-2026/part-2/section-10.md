@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Meaning of “the development plan” for an area[^key-1e4c3664ed3728992ad9dd21903e9a37]
+## 10. Meaning of “the development plan” for an area[^c-1e4c3664ed3728992ad9dd21903e9a37]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e4c3664ed3728992ad9dd21903e9a37]: Commencement: S. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1e4c3664ed3728992ad9dd21903e9a37]: Commencement: S. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

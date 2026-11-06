@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Conditions about leased lines[^key-3bdbe3fa5fd2895da542b65db714ada5]
+## 92. Conditions about leased lines[^c-3bdbe3fa5fd2895da542b65db714ada5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdbe3fa5fd2895da542b65db714ada5]: Textual amendment: S. 92 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/53) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-3bdbe3fa5fd2895da542b65db714ada5]: Textual amendment: S. 92 omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/53) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

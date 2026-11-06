@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.6. Draft indictment approved with deferred prosecution agreement[^key-cad0ed29c916c9571d82c77a1c69fa07]
+## 10.6. Draft indictment approved with deferred prosecution agreement[^c-cad0ed29c916c9571d82c77a1c69fa07]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cad0ed29c916c9571d82c77a1c69fa07]: Commencement: [Rule 10.6](https://www.legislation.gov.uk/uksi/2025/909/rule/10.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cad0ed29c916c9571d82c77a1c69fa07]: Commencement: [Rule 10.6](https://www.legislation.gov.uk/uksi/2025/909/rule/10.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

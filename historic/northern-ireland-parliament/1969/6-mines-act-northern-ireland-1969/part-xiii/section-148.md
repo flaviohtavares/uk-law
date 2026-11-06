@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Parliamentary control of orders, rules and regulations.[^key-fc554e0ed332b1c3c4b104b4d19ce5b6]
+## 148. Parliamentary control of orders, rules and regulations.[^c-fc554e0ed332b1c3c4b104b4d19ce5b6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc554e0ed332b1c3c4b104b4d19ce5b6]: Textual amendment: [S. 148](https://www.legislation.gov.uk/apni/1969/6/section/148) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-fc554e0ed332b1c3c4b104b4d19ce5b6]: Textual amendment: [S. 148](https://www.legislation.gov.uk/apni/1969/6/section/148) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

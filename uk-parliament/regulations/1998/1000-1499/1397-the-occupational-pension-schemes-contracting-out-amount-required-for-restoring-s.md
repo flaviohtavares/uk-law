@@ -59,28 +59,28 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 “earner" means—
 
 - (a) in the case of a surviving spouse member, the deceased spouse from whose employment that member’s rights under the scheme are derived; and
-- (aa)[^key-8384001d622504cf2ea0a8b26083312a] in the case of a surviving civil partner member, the deceased civil partner from whose employment that member’s rights under the scheme are derived; and
+- (aa)[^c-8384001d622504cf2ea0a8b26083312a] in the case of a surviving civil partner member, the deceased civil partner from whose employment that member’s rights under the scheme are derived; and
 - (b) in any other case, the member;
 
 “effective date" means the date on which the Secretary of State determines, for the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act [^c1656347], the extent to which the resources of the scheme are insufficient to meet the liability for the cash equivalent of the member’s rights under the scheme;
 
 “pensionable age" has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995;
 
-“relevant employment" means any employment of the earner to which any of his section 9(2B) rights, or rights to a guaranteed minimum pension[^key-f7dab713530db21f1853677685f2adce] under the scheme are directly or indirectly attributable;
+“relevant employment" means any employment of the earner to which any of his section 9(2B) rights, or rights to a guaranteed minimum pension[^c-f7dab713530db21f1853677685f2adce] under the scheme are directly or indirectly attributable;
 
 “relevant tax year" means the tax year in which the effective date falls;
 
-“section 9(2B) rights" has the same meaning as in regulation 2(1) of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^key-4c9b3ce208ec6fc36de7d68a212e0b71] [^c1656348];
+“section 9(2B) rights" has the same meaning as in regulation 2(1) of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^c-4c9b3ce208ec6fc36de7d68a212e0b71] [^c1656348];
 
 “the scheme" means an occupational pension scheme referred to in regulation 2 below;
 
-“surviving civil partner member” means a person who has a right to the payment of a surviving civil partner’s pension under the scheme;[^key-ab0b825905647aa1ae41fa49b342006f]
+“surviving civil partner member” means a person who has a right to the payment of a surviving civil partner’s pension under the scheme;[^c-ab0b825905647aa1ae41fa49b342006f]
 
 “surviving spouse member" means a person who has a right to the payment of a widow’s or widower’s pension under the scheme.
 
 ## 2. Determination of the amount required for restoring State scheme rights
 
-For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the amount required for restoring State scheme rights in relation to a member of a scheme which was a contracted-out occupational pension scheme and which started to wind up before the second abolition date[^key-ee4bc0c580a8c84bf439122988b898a7] shall be—
+For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the amount required for restoring State scheme rights in relation to a member of a scheme which was a contracted-out occupational pension scheme and which started to wind up before the second abolition date[^c-ee4bc0c580a8c84bf439122988b898a7] shall be—
 
 - (a) in a case where the prescribed person may elect under section 55(2) of that Act [^c1656349] to pay a contributions equivalent premium, the amount of that premium calculated in accordance with section 58(4) of that Act; and
 - (b) in any other case, the amount calculated in accordance with regulation 3.
@@ -89,7 +89,7 @@ For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the am
 
 (1) In a case to which regulation 2(b) applies, the amount required for restoring a member’s State scheme rights shall be—
 
-- (a) in the case of a man (other than a surviving spouse member or surviving civil partner member[^key-f3501e73a1e0523e637736dc4356c8a2]) who has not attained pensionable age on the effective date—
+- (a) in the case of a man (other than a surviving spouse member or surviving civil partner member[^c-f3501e73a1e0523e637736dc4356c8a2]) who has not attained pensionable age on the effective date—
   - X × Factor A × 52 × market level indicator
   - plus
   - (y<sub>1</sub> × Factor B1 + y<sub>2</sub> × Factor B2) × 52 × market level indicator
@@ -123,7 +123,7 @@ For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the am
   - (y<sub>1</sub> + y<sub>2</sub>) × Factor P × 52 × market level indicator
   - plus
   - (z<sub>1</sub> + z<sub>2</sub>) × Factor Q × 52 × market level indicator;
-- (g)[^key-59c4929715e1ce7cbd9c55b61d80b08b] in the case of a woman who is a surviving civil partner member—
+- (g)[^c-59c4929715e1ce7cbd9c55b61d80b08b] in the case of a woman who is a surviving civil partner member—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/1998/1397)
 
@@ -133,12 +133,12 @@ For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the am
 
 (2) For the purposes of paragraph (1)—
 
-- (a)[^key-b744a14898e9a113ba0cde6fe354206f] the amount of each factor shall be—
+- (a)[^c-b744a14898e9a113ba0cde6fe354206f] the amount of each factor shall be—
 - (i) for Factors A to F2, the amount derived from the relevant Table in Schedule 1, being the amount shown for the factor in the column below the relevant tax year, in relation to the tax year in which the member was born, as specified in the first column of that Table;
 - (ii) for Factors G to Q, the amount shown in the column below the relevant factor, in whichever of Tables 11 and 12 in Schedule 1 is applicable, in relation to the age attained by the member in the relevant tax year as specified in the first column of that Table.
 - (b) “the relevant weekly amount" is the weekly amount, determined by the Secretary of State, representing—
-  - (ia)[^key-b4c2e59836b4a6d939184a9c7b1b7454] as regards any relevant employment after 5th April 2002, the weekly amount as specified in paragraph (3);
-  - (i) as regards any relevant employment after 5th April 1997 and before 6th April 2002[^key-8c388df7320df11cb3b38a73cf97e5cc], the weekly amount of additional pension to which the member would be entitled, or would have become entitled at pensionable age, in respect of that employment, if the scheme had not been a contracted-out scheme (whether by virtue of his own contributions or, in the case of a surviving spouse member, by virtue of the earner’s contributions); and
+  - (ia)[^c-b4c2e59836b4a6d939184a9c7b1b7454] as regards any relevant employment after 5th April 2002, the weekly amount as specified in paragraph (3);
+  - (i) as regards any relevant employment after 5th April 1997 and before 6th April 2002[^c-8c388df7320df11cb3b38a73cf97e5cc], the weekly amount of additional pension to which the member would be entitled, or would have become entitled at pensionable age, in respect of that employment, if the scheme had not been a contracted-out scheme (whether by virtue of his own contributions or, in the case of a surviving spouse member, by virtue of the earner’s contributions); and
   - (ii) as regards any relevant employment before 6th April 1997, the member’s guaranteed minimum pension or any guaranteed minimum pension to which the member is, or would on attaining pensionable age be, treated as entitled by virtue of section 48 of the 1993 Act [^c1656350] (reduced benefits where minimum payments or minimum contributions paid) in respect of that employment,
 
   and, for the purposes of determining those weekly amounts, except where such provision made by the scheme as is mentioned in section 16(2) of the 1993 Act (revaluation of earnings factors: early leavers) applies, the earner’s earnings factors shall be taken to have been increased by reference to the last order under section 148 of the Social Security Administration Act 1992 [^c1656351] to come into force before the end of the tax year preceding the relevant tax year;
@@ -147,19 +147,19 @@ For the purposes of paragraph 5(3A) to (3E) of Schedule 2 to the 1993 Act the am
 - (e) fixed revaluation applies where the relevant weekly amount has been determined in accordance with such provision as is mentioned in that subsection as in force immediately after 5th April 1997; and
 - (f) the market level indicator is the amount calculated in accordance with regulation 4 below.
 
-(3)[^key-5a40bacf0f0f4dc3398223241adc8759] The weekly amount specified in this paragraph is—
+(3)[^c-5a40bacf0f0f4dc3398223241adc8759] The weekly amount specified in this paragraph is—
 
-- (a) the weekly amount of additional pension to which the member would be entitled in respect of the relevant employment after 5th April 2002 (whether by virtue of his own contributions or, in the case of a surviving spouse member or surviving civil partner member, by virtue of the earner’s contributions) if the scheme had not been a contracted-out scheme, less the weekly amount of any such pension to which he is so entitled despite the scheme having been such a scheme[^key-6bad8568e85fc0d0289ec03a92e4191c]; or
-- (b) the weekly amount of additional pension to which the member would have become so entitled on attaining pensionable age if the scheme had not been such a scheme, less the weekly amount of any such pension to which he will be so entitled despite the scheme having been such a scheme[^key-228139815a41662829d50513b4ffdf73].
+- (a) the weekly amount of additional pension to which the member would be entitled in respect of the relevant employment after 5th April 2002 (whether by virtue of his own contributions or, in the case of a surviving spouse member or surviving civil partner member, by virtue of the earner’s contributions) if the scheme had not been a contracted-out scheme, less the weekly amount of any such pension to which he is so entitled despite the scheme having been such a scheme[^c-6bad8568e85fc0d0289ec03a92e4191c]; or
+- (b) the weekly amount of additional pension to which the member would have become so entitled on attaining pensionable age if the scheme had not been such a scheme, less the weekly amount of any such pension to which he will be so entitled despite the scheme having been such a scheme[^c-228139815a41662829d50513b4ffdf73].
 
 ## 4. Market Level Indicator
 
 For the purposes of regulation 3 the market level indicator is—
 
-- (a) in the case of a member who has attained pensionable age or who attains that age in the relevant tax year or who is a surviving spouse member or surviving civil partner member[^key-1c860f53a8face0f4027673f1cfe342a], the index number shown in the second column of the Table in Schedule 2 opposite the range of yields shown in the first column of that Table in which falls the gross redemption yield compiled, on the effective date, by the Financial Times and the Institute and Faculty of Actuaries[^key-073c255f96ba24a29af7b22f36bff5eb] and Institute of Actuaries, applicable;[^key-3fe85287891946517b9a87be887ed691]
+- (a) in the case of a member who has attained pensionable age or who attains that age in the relevant tax year or who is a surviving spouse member or surviving civil partner member[^c-1c860f53a8face0f4027673f1cfe342a], the index number shown in the second column of the Table in Schedule 2 opposite the range of yields shown in the first column of that Table in which falls the gross redemption yield compiled, on the effective date, by the Financial Times and the Institute and Faculty of Actuaries[^c-073c255f96ba24a29af7b22f36bff5eb] and Institute of Actuaries, applicable;[^c-3fe85287891946517b9a87be887ed691]
   - (i) where the effective date fell before 1st June 1999, to 15-year British Government Stocks with medium coupons, and
   - (ii) where the effective date falls on or after that date, to 15-year British Government Stocks;
-- (b) in the case of a member (other than a surviving spouse member or surviving civil partner member) who attains an age in the relevant tax year which is 10 or more years below pensionable age, 3 per cent.[^key-78954a29ab3e79a634e3030ca66a8e89]. divided by x per cent. where—[^key-9a76ec46c7e0d6b3fe6a505ddd3bc55c]
+- (b) in the case of a member (other than a surviving spouse member or surviving civil partner member) who attains an age in the relevant tax year which is 10 or more years below pensionable age, 3 per cent.[^c-78954a29ab3e79a634e3030ca66a8e89]. divided by x per cent. where—[^c-9a76ec46c7e0d6b3fe6a505ddd3bc55c]
   - (i) the effective date fell before 6th April 1999, x per cent. is the net dividend yield, and the effective date fell before 6th April 1999, x per cent. is the net dividend yield, and
   - (ii) if the effective date falls on or after that date, x per cent. is the actual dividend yield,
 
@@ -191,7 +191,7 @@ Department of Social Security
 
 Regulations 2(2) and 3(2)
 
-TABLE 1[^key-468a916cd7f5495b77f9208df4a66c9c]
+TABLE 1[^c-468a916cd7f5495b77f9208df4a66c9c]
 
 TABLES TO BE SUBSTITUTED IN SCHEDULE 1 TO THE 1998 REGULATIONS
 
@@ -610,7 +610,7 @@ FACTOR F2: WOMEN – EMPLOYMENT AFTER 5 APRIL 1988 AND BEFORE 6 APRIL 1997 IN A 
 </tbody>
 </table>
 
-Table 11[^key-56c0a7ba525acca9dbbea69d5e66e71a]
+Table 11[^c-56c0a7ba525acca9dbbea69d5e66e71a]
 
 MEN (EXCLUDING SURVIVING SPOUSE MEMBERSSURVIVING CIVIL PARTNER MEMBERS[^M_F_0df7ec67-c4a4-41ec-de33-e15987d32ab0]) WHO ARE UNDER PENSIONABLE AGE
 
@@ -666,7 +666,7 @@ MEN (EXCLUDING SURVIVING SPOUSE MEMBERSSURVIVING CIVIL PARTNER MEMBERS[^M_F_0df7
 | 63 | 16.24 | 11.71 | 11.74 | 14.72 | 14.76 |
 | 64 | 17.05 | 12.16 | 12.16 | 15.31 | 15.31 |
 
-Table 12[^key-6303c0f1a8bdc726540cb8edbca309bb]
+Table 12[^c-6303c0f1a8bdc726540cb8edbca309bb]
 
 MEN (EXCLUDING SURVIVING SPOUSE MEMBERS SURVIVING CIVIL PARTNER MEMBERS[^M_F_fa2cea93-8e65-40c6-9920-b25fce1171ce]) WHO ARE UNDER PENSIONABLE AGE
 
@@ -735,7 +735,7 @@ TABLE FOR DERIVING THE INDEX NUMBER FROM 15 YEAR GROSS REDEMPTION YIELD
 </tbody>
 </table>
 
-[^key-64463730ca374e705521e7ae6d3030e3]
+[^c-64463730ca374e705521e7ae6d3030e3]
 
 (This note is not part of the Regulations)
 
@@ -761,31 +761,31 @@ An assessment of the compliance cost to business of the measures arising from th
 
 [^c1656346]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4) .
 
-[^key-8384001d622504cf2ea0a8b26083312a]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/a/i)
+[^c-8384001d622504cf2ea0a8b26083312a]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/a/i)
 
 [^c1656347]: Marginal citation: Sub-paragraphs (3A) to (3E) were inserted in paragraph 5 of Schedule 2 by section 141(2) of the Pensions Act 1995.
 
-[^key-f7dab713530db21f1853677685f2adce]: Textual amendment: Words in reg. 1(2) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [18](https://www.legislation.gov.uk/uksi/2011/1246/article/18)
+[^c-f7dab713530db21f1853677685f2adce]: Textual amendment: Words in reg. 1(2) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [18](https://www.legislation.gov.uk/uksi/2011/1246/article/18)
 
-[^key-4c9b3ce208ec6fc36de7d68a212e0b71]: Textual amendment: Words in reg. 1(2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2016/200/article/13/2)
+[^c-4c9b3ce208ec6fc36de7d68a212e0b71]: Textual amendment: Words in reg. 1(2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2016/200/article/13/2)
 
 [^c1656348]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172) ; a relevant amending instrument is [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786).
 
-[^key-ab0b825905647aa1ae41fa49b342006f]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/a/ii)
+[^c-ab0b825905647aa1ae41fa49b342006f]: Textual amendment: Words in reg. 1(2) inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/a/ii)
 
-[^key-ee4bc0c580a8c84bf439122988b898a7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/1397/regulation/2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2016/200/article/13/3)
+[^c-ee4bc0c580a8c84bf439122988b898a7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1998/1397/regulation/2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2016/200/article/13/3)
 
 [^c1656349]: Marginal citation: Section 55(2) was substituted by section 141(1) of the Pensions Act 1995.
 
-[^key-f3501e73a1e0523e637736dc4356c8a2]: Textual amendment: Words in reg. 3 inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/b/i)
+[^c-f3501e73a1e0523e637736dc4356c8a2]: Textual amendment: Words in reg. 3 inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/b/i)
 
-[^key-59c4929715e1ce7cbd9c55b61d80b08b]: Textual amendment: Reg. 3(1)(g) added (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/b/ii)
+[^c-59c4929715e1ce7cbd9c55b61d80b08b]: Textual amendment: Reg. 3(1)(g) added (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/b/ii)
 
-[^key-b744a14898e9a113ba0cde6fe354206f]: Textual amendment: Reg. 3(2)(a) substituted (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/2)
+[^c-b744a14898e9a113ba0cde6fe354206f]: Textual amendment: Reg. 3(2)(a) substituted (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/2)
 
-[^key-b4c2e59836b4a6d939184a9c7b1b7454]: Textual amendment: Reg. 3(2)(b)(ia) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/2)
+[^c-b4c2e59836b4a6d939184a9c7b1b7454]: Textual amendment: Reg. 3(2)(b)(ia) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/2)
 
-[^key-8c388df7320df11cb3b38a73cf97e5cc]: Textual amendment: Words in reg. 3(2)(b)(i) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/3)
+[^c-8c388df7320df11cb3b38a73cf97e5cc]: Textual amendment: Words in reg. 3(2)(b)(i) inserted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/3)
 
 [^c1656350]: Marginal citation: Section 48 was amended by paragraph 58 of Schedule 1 to the Social Security (Incapacity for Work) Act 1994 and section 140(2) and (3) of the Pensions Act 1995.
 
@@ -793,32 +793,32 @@ An assessment of the compliance cost to business of the measures arising from th
 
 [^c1656352]: Marginal citation: Section 16(3) was amended by paragraph 28 of Schedule 5 to the Pensions Act 1995 but is saved for transitional purposes by Article 3 of the [Pensions Act 1995 (Commencement No. 10) Order 1997 (S.I. 1997/664)](https://www.legislation.gov.uk/uksi/1997/664) (c.23).
 
-[^key-5a40bacf0f0f4dc3398223241adc8759]: Textual amendment: Reg. 3(3) added (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/4)
+[^c-5a40bacf0f0f4dc3398223241adc8759]: Textual amendment: Reg. 3(3) added (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/4)
 
-[^key-6bad8568e85fc0d0289ec03a92e4191c]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/1998/1397/regulation/3/3/a) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2016/200/article/13/4)
+[^c-6bad8568e85fc0d0289ec03a92e4191c]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/1998/1397/regulation/3/3/a) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2016/200/article/13/4)
 
-[^key-228139815a41662829d50513b4ffdf73]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1397/regulation/3/3/b) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2016/200/article/13/4)
+[^c-228139815a41662829d50513b4ffdf73]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1397/regulation/3/3/b) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2016/200/article/13/4)
 
-[^key-1c860f53a8face0f4027673f1cfe342a]: Textual amendment: Words in reg. 4 inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1) , [5(c)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/c)
+[^c-1c860f53a8face0f4027673f1cfe342a]: Textual amendment: Words in reg. 4 inserted (5.12.2005) by [Occupational and Personal Pension Schemes (Civil Partnership) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3164)](https://www.legislation.gov.uk/uksi/2005/3164) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/1/1) , [5(c)](https://www.legislation.gov.uk/uksi/2005/3164/regulation/5/c)
 
-[^key-073c255f96ba24a29af7b22f36bff5eb]: Textual amendment: Words in reg. 4 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2012/692/regulation/8)
+[^c-073c255f96ba24a29af7b22f36bff5eb]: Textual amendment: Words in reg. 4 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2012/692/regulation/8)
 
-[^key-3fe85287891946517b9a87be887ed691]: Textual amendment: Words in reg. 4(a) substituted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1) , [2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/1/a)
+[^c-3fe85287891946517b9a87be887ed691]: Textual amendment: Words in reg. 4(a) substituted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1) , [2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/1/a)
 
-[^key-78954a29ab3e79a634e3030ca66a8e89]: Textual amendment: Words in reg. 4(b) substituted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2) , [2(5)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/5)
+[^c-78954a29ab3e79a634e3030ca66a8e89]: Textual amendment: Words in reg. 4(b) substituted (with application in accordance with reg. 1(3) of the commencing S.I.) by [Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2005 (S.I. 2005/891)](https://www.legislation.gov.uk/uksi/2005/891) , [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/891/regulation/1/2) , [2(5)](https://www.legislation.gov.uk/uksi/2005/891/regulation/2/5)
 
-[^key-9a76ec46c7e0d6b3fe6a505ddd3bc55c]: Textual amendment: Words in reg. 4(b) substituted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1) , [2(1)(b)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/1/b)
+[^c-9a76ec46c7e0d6b3fe6a505ddd3bc55c]: Textual amendment: Words in reg. 4(b) substituted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1) , [2(1)(b)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/1/b)
 
 [^c1656353]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
 
-[^key-468a916cd7f5495b77f9208df4a66c9c]: Textual amendment: Sch. 1 substituted for Sch. 1 Tables 1-4 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/3), [Schs.](https://www.legislation.gov.uk/uksi/2010/506/schedule)
+[^c-468a916cd7f5495b77f9208df4a66c9c]: Textual amendment: Sch. 1 substituted for Sch. 1 Tables 1-4 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/3), [Schs.](https://www.legislation.gov.uk/uksi/2010/506/schedule)
 
-[^key-56c0a7ba525acca9dbbea69d5e66e71a]: Textual amendment: Sch. 1: Sch. 1 Table 5 renumbered as Sch. 1 Table 11 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/4)
+[^c-56c0a7ba525acca9dbbea69d5e66e71a]: Textual amendment: Sch. 1: Sch. 1 Table 5 renumbered as Sch. 1 Table 11 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/4)
 
 [^M_F_0df7ec67-c4a4-41ec-de33-e15987d32ab0]: Textual amendment: Words in sch. 1 inserted (5.12.05) by [S.I. 2005/3164](https://www.legislation.gov.uk/uksi/2005/3164), reg. 1, 5(d)
 
-[^key-6303c0f1a8bdc726540cb8edbca309bb]: Textual amendment: Sch. 1: Sch. 1 Table 6 renumbered as Sch. 1 Table 12 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/4)
+[^c-6303c0f1a8bdc726540cb8edbca309bb]: Textual amendment: Sch. 1: Sch. 1 Table 6 renumbered as Sch. 1 Table 12 (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 2010 (S.I. 2010/506)](https://www.legislation.gov.uk/uksi/2010/506), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/506/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/506/regulation/2/4)
 
 [^M_F_fa2cea93-8e65-40c6-9920-b25fce1171ce]: Textual amendment: Words in sch. 1 inserted (5.12.05) by [S.I. 2005/3164](https://www.legislation.gov.uk/uksi/2005/3164), reg. 1, 5(e)(i)
 
-[^key-64463730ca374e705521e7ae6d3030e3]: Textual amendment: Sch. 2 entries inserted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/2)
+[^c-64463730ca374e705521e7ae6d3030e3]: Textual amendment: Sch. 2 entries inserted (10.12.1999) by [The Occupational Pension Schemes (Contracting-out) (Amount Required for Restoring State Scheme Rights) Amendment Regulations 1999 (S.I. 1999/3069)](https://www.legislation.gov.uk/uksi/1999/3069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/3069/regulation/2/2)

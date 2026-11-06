@@ -30,25 +30,25 @@ summary: ''
 
 Financial Services And Markets
 
-The Alternative Investment Fund Managers Regulations 2013 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+The Alternative Investment Fund Managers Regulations 2013 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-Made *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+Made *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-16th July 2013 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+16th July 2013 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-Coming into force *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+Coming into force *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-22nd July 2013 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+22nd July 2013 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-[^c21861861][^c21861871]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services. *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+[^c21861861][^c21861871]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services. *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-[^c21861881][^c21861891][^c21861901]A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraphs 2 and 2A(3)(a) of Schedule 2 to the European Communities Act 1972 , section 429(2) of the Financial Services and Markets Act 2000 and sections 784(3) and 1290 of the Companies Act 2006 . *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+[^c21861881][^c21861891][^c21861901]A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraphs 2 and 2A(3)(a) of Schedule 2 to the European Communities Act 1972 , section 429(2) of the Financial Services and Markets Act 2000 and sections 784(3) and 1290 of the Companies Act 2006 . *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-The Treasury make these Regulations in exercise of the powers conferred on them under section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b] [^c21861911], and (in relation to Part 2 of Schedule 2 to these Regulations) sections 183, 188, 213(10), 214(5), 224(4), 262, 349 and 428(3) of, and paragraphs 13(1)(b), 14(1)(b), 17(b) and 22 of Schedule 3 to, the Financial Services and Markets Act 2000 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b] [^c21861921] and sections 784 and 785 of the Companies Act 2006 *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b] [^c21861931].[^key-f23e20c8ae96c417dd276692e37f0df9]
+The Treasury make these Regulations in exercise of the powers conferred on them under section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b] [^c21861911], and (in relation to Part 2 of Schedule 2 to these Regulations) sections 183, 188, 213(10), 214(5), 224(4), 262, 349 and 428(3) of, and paragraphs 13(1)(b), 14(1)(b), 17(b) and 22 of Schedule 3 to, the Financial Services and Markets Act 2000 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b] [^c21861921] and sections 784 and 785 of the Companies Act 2006 *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b] [^c21861931].[^c-f23e20c8ae96c417dd276692e37f0df9]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — Introductory provisions (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 1 (affected by repeal, see note) — Introductory provisions (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
@@ -56,14 +56,14 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 3A — Arrangements not constituting an AIF: qualifying stablecoin arrangements](part-1/section-3a.md)
 - [Section 4 — Meaning of “AIFM”, “managing an AIF”, “external AIFM” and “internal AIFM”](part-1/section-4.md)
 
-### PART 2 (affected by repeal, see note) — Authorisation of full-scope (affected by repeal, see note) UK (affected by repeal, see note) AIFMs (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 2 (affected by repeal, see note) — Authorisation of full-scope (affected by repeal, see note) UK (affected by repeal, see note) AIFMs (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 5 — Applications for Part 4A permission](part-2/section-5.md)
 - [Section 6 — Supplementary provisions about AIFMs](part-2/section-6.md)
 - [Section 7 — Changes in conditions relevant to authorisation](part-2/section-7.md)
 - [Section 8 — Notification to ESMA](part-2/section-8.md)
 
-### PART 3 (affected by repeal, see note) — Small AIFMs (affected by repeal, see note)[^key-e74e71673b685ae369799da64d776041][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 3 (affected by repeal, see note) — Small AIFMs (affected by repeal, see note)[^c-e74e71673b685ae369799da64d776041][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 9 — Meaning of “small AIFM”](part-3/section-9.md)
 - [Section 10 — Small registered UK AIFMs](part-3/section-10.md)
@@ -81,7 +81,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 22 — Power to direct small registered UK AIFMs and SEF and RVECA Managers to take appropriate measures](part-3/section-22.md)
 - [Section 23 — Application of FCA rules to small authorised UK AIFMs](part-3/section-23.md)
 
-### PART 3A — LTIFs[^key-309c1793828e9d10134266345734637d]
+### PART 3A — LTIFs[^c-309c1793828e9d10134266345734637d]
 
 **No longer in force.**
 
@@ -89,19 +89,19 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 23B — Procedure in relation to the refusal of an application for UK LTIF authorisation](part-3a/section-23b.md)
 - [Section 23C — Procedure in relation to the revocation of UK LTIF authorisation otherwise than by consent](part-3a/section-23c.md)
 
-### PART 3B — Qualifying social entrepreneurship funds and qualifying venture capital funds[^key-def21277b66f66379f31a66be5f7cfa2][^key-bc03cb62968a36126aa3b5042282eb10]
+### PART 3B — Qualifying social entrepreneurship funds and qualifying venture capital funds[^c-def21277b66f66379f31a66be5f7cfa2][^c-bc03cb62968a36126aa3b5042282eb10]
 
 - [Section 23D — Manner of application for registration of a qualifying social entrepreneurship fund or qualifying venture capital fund](part-3b/section-23d.md)
 - [Section 23E — Procedure in relation to the refusal of an application for registration of a qualifying social entrepreneurship fund or qualifying venture capital fund](part-3b/section-23e.md)
 - [Section 23F — Procedure in relation to the revocation of registration of a qualifying social entrepreneurship fund or qualifying venture capital fund otherwise than by consent](part-3b/section-23f.md)
 
-### PART (affected by repeal, see note) 3C — MMFs (affected by repeal, see note)[^key-3b527e917c2ee83def9be4a1b51a0f6d][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART (affected by repeal, see note) 3C — MMFs (affected by repeal, see note)[^c-3b527e917c2ee83def9be4a1b51a0f6d][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 23G — Manner of application for MMF authorisation](part-3c/section-23g.md)
 - [Section 23H — Procedure in relation to the refusal of an application for MMF authorisation](part-3c/section-23h.md)
 - [Section 23I — Procedure in relation to the revocation of MMF authorisation otherwise than by consent](part-3c/section-23i.md)
 
-### PART 4 (affected by repeal, see note) — Operating conditions for external valuers, full-scope AIFMs and depositaries (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 4 (affected by repeal, see note) — Operating conditions for external valuers, full-scope AIFMs and depositaries (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 24 — Valuation](part-4/section-24.md)
 - [Section 25 — Disqualification of external valuer](part-4/section-25.md)
@@ -114,7 +114,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 32 — Depositary liability and third country custodians](part-4/section-32.md)
 - [Section 33 — Management of third country AIFs](part-4/section-33.md)
 
-### PART 5 (affected by repeal, see note) — AIFs which acquire control of non-listed companies and issuers (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 5 (affected by repeal, see note) — AIFs which acquire control of non-listed companies and issuers (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 34 — Introductory provision](part-5/section-34.md)
 - [Section 35 — Ways of acquiring control or shares](part-5/section-35.md)
@@ -128,9 +128,9 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 43 — Asset stripping](part-5/section-43.md)
 - [Section 44 — FCA powers in relation to this Part](part-5/section-44.md)
 
-### PART 6 (affected by repeal, see note) — Marketing of AIFs (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 6 (affected by repeal, see note) — Marketing of AIFs (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
-#### CHAPTER 1 (affected by repeal, see note) — General Provisions (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+#### CHAPTER 1 (affected by repeal, see note) — General Provisions (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 45 — References in this Part to an AIFM or an investment firm marketing an AIF](part-6/section-45.md)
 - [Section 46 — Application of the financial promotion and scheme promotion restrictions](part-6/section-46.md)
@@ -142,13 +142,13 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 52 — Contravention by unauthorised person](part-6/section-52.md)
 - [Section 53 — Contravention by authorised person](part-6/section-53.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — Marketing of AIFs by full-scope AIFMs (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+#### CHAPTER 2 (affected by repeal, see note) — Marketing of AIFs by full-scope AIFMs (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 54 — FCA approval for marketing](part-6/section-54.md)
 - [Section 55 — Change to information provided with application](part-6/section-55.md)
 - [Section 56 — Suspension or revocation of approval granted to a full-scope Gibraltar AIFM](part-6/section-56.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — National Private Placement (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+#### CHAPTER 3 (affected by repeal, see note) — National Private Placement (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 57 — Marketing of third country AIFs managed by full-scope UK AIFMs](part-6/section-57.md)
 - [Section 58 — Marketing of AIFs managed by small third country AIFMs](part-6/section-58.md)
@@ -159,7 +159,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 63 — Suspension of entitlement to market](part-6/section-63.md)
 - [Section 64 — Procedure on suspension](part-6/section-64.md)
 
-### PART 7 (affected by repeal, see note) — Duties and powers of the FCA (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 7 (affected by repeal, see note) — Duties and powers of the FCA (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 65 — Designation as competent authority](part-7/section-65.md)
 - [Section 66 — Requirement to notify ESMA of information required from AIFMs](part-7/section-66.md)
@@ -167,16 +167,16 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 68 — Limits on leverage](part-7/section-68.md)
 - [Section 69 — Exchange of information relating to potential systemic consequences of AIFM activity](part-7/section-69.md)
 
-### PART 7A (affected by repeal, see note) — Transfer of functions (affected by repeal, see note)[^key-67de8f8e285e1fb10c34b91e04706a5f][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 7A (affected by repeal, see note) — Transfer of functions (affected by repeal, see note)[^c-67de8f8e285e1fb10c34b91e04706a5f][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 69A — Transfer of the directive functions](part-7a/section-69a.md)
 
-### PART 8 (affected by repeal, see note) — Application of provisions of the Act (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 8 (affected by repeal, see note) — Application of provisions of the Act (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 70 — Application of procedural provisions of the Act](part-8/section-70.md)
 - [Section 71 — Application of provisions of the Act to unauthorised AIFMs](part-8/section-71.md)
 
-### PART 9 (affected by repeal, see note) — Transitional Provisions (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 9 (affected by repeal, see note) — Transitional Provisions (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 72 — AIFMs managing AIFs immediately before 22nd July 2013](part-9/section-72.md)
 - [Section 73 — AIFs subject to prospectus directive](part-9/section-73.md)
@@ -186,7 +186,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 77 — Depositaries of EEA AIFs until 22nd July 2017](part-9/section-77.md)
 - [Section 78 — Permission for existing managers, depositaries and trustees of UCITS](part-9/section-78.md)
 
-### PART (affected by repeal, see note) 9A — Temporary Marketing Provisions (affected by repeal, see note)[^key-1aeb64d700e16d69c7c3934318daad59][^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART (affected by repeal, see note) 9A — Temporary Marketing Provisions (affected by repeal, see note)[^c-1aeb64d700e16d69c7c3934318daad59][^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -196,7 +196,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 - [Section 78D — FCA powers](part-9a/section-78d.md)
 - [Section 78E — Power to extend the period during which a fund may be marketed](part-9a/section-78e.md)
 
-### PART 10 (affected by repeal, see note) — Final provisions (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+### PART 10 (affected by repeal, see note) — Final provisions (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 - [Section 79 — Review](part-10/section-79.md)
 - [Section 80 — Amendments to primary legislation](part-10/section-80.md)
@@ -208,11 +208,11 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 
 *Extent: E+W+S+N.I.*
 
-Robert Goodwill *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+Robert Goodwill *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-Desmond Swayne *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+Desmond Swayne *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-Two of the Lords Commissioners of Her Majesty's Treasury *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+Two of the Lords Commissioners of Her Majesty's Treasury *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -260,7 +260,7 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 ## Annotations
 
-[^key-399b199dab6c889dc1487936a3b4dd9b]: Textual amendment: Regulations revoked (14.12.2023 for the revocation of reg. 79) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/vi)
+[^c-399b199dab6c889dc1487936a3b4dd9b]: Textual amendment: Regulations revoked (14.12.2023 for the revocation of reg. 79) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/vi)
 
 [^c21861861]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
@@ -278,24 +278,24 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c21861931]: Marginal citation: [Section 785](https://www.legislation.gov.uk/uksi/2013/1773/section/785) was amended by section 112 of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-f23e20c8ae96c417dd276692e37f0df9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/1773): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-f23e20c8ae96c417dd276692e37f0df9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/1773): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-e74e71673b685ae369799da64d776041]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e74e71673b685ae369799da64d776041]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
     [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Social Entrepreneurship Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/343)](https://www.legislation.gov.uk/uksi/2019/343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/343/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/343/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-309c1793828e9d10134266345734637d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2013/1773/part/3A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/9/3)
+[^c-309c1793828e9d10134266345734637d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2013/1773/part/3A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/9/3)
 
-[^key-def21277b66f66379f31a66be5f7cfa2]: Modification: Pt. 3B modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-def21277b66f66379f31a66be5f7cfa2]: Modification: Pt. 3B modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
     [Pt. 3B](https://www.legislation.gov.uk/uksi/2013/1773/part/3B) modified (31.12.2020) by [The Social Entrepreneurship Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/343)](https://www.legislation.gov.uk/uksi/2019/343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/343/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/343/regulation/11/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc03cb62968a36126aa3b5042282eb10]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2013/1773/part/3B) inserted (1.3.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2018/134/regulation/2/9)
+[^c-bc03cb62968a36126aa3b5042282eb10]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/uksi/2013/1773/part/3B) inserted (1.3.2018) by [The Alternative Investment Fund Managers (Amendment) Regulations 2018 (S.I. 2018/134)](https://www.legislation.gov.uk/uksi/2018/134), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/134/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2018/134/regulation/2/9)
 
-[^key-3b527e917c2ee83def9be4a1b51a0f6d]: Textual amendment: [Pt. 3C](https://www.legislation.gov.uk/uksi/2013/1773/part/3C) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/698/regulation/4/3)
+[^c-3b527e917c2ee83def9be4a1b51a0f6d]: Textual amendment: [Pt. 3C](https://www.legislation.gov.uk/uksi/2013/1773/part/3C) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/698/regulation/4/3)
 
-[^key-67de8f8e285e1fb10c34b91e04706a5f]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2013/1773/part/7A) inserted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/328/regulation/12) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67de8f8e285e1fb10c34b91e04706a5f]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2013/1773/part/7A) inserted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/328/regulation/12) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1aeb64d700e16d69c7c3934318daad59]: Textual amendment: Pt. 9A inserted (20.2.2019) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/328/regulation/14) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58))
+[^c-1aeb64d700e16d69c7c3934318daad59]: Textual amendment: Pt. 9A inserted (20.2.2019) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/328/regulation/14) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58))
 
 [^c21863281]: Marginal citation: OJ L 326, 8.12.2011, p.113.

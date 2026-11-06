@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Guidance[^key-0ab7b96093414dc8178a2b4b5e5b50d7]
+## 100. Guidance[^c-0ab7b96093414dc8178a2b4b5e5b50d7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Any guidance under this Part—
 
 ## Annotations
 
-[^key-0ab7b96093414dc8178a2b4b5e5b50d7]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2011/13/section/100) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-0ab7b96093414dc8178a2b4b5e5b50d7]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2011/13/section/100) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Application of Part I of the Compulsory Purchase Act 1965[^key-7fb2d8cbff9b0cd6bbf9d12755df3fe5]
+## 22. Application of Part I of the Compulsory Purchase Act 1965[^c-7fb2d8cbff9b0cd6bbf9d12755df3fe5]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fb2d8cbff9b0cd6bbf9d12755df3fe5]: Commencement: Art. 22 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-7fb2d8cbff9b0cd6bbf9d12755df3fe5]: Commencement: Art. 22 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00019]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

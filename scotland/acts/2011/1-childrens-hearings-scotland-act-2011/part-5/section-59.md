@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Offences[^key-b4a431157b650025ceac58be0c57af4a]
+## 59. Offences[^c-b4a431157b650025ceac58be0c57af4a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-b4a431157b650025ceac58be0c57af4a]: Commencement: S. 59 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b4a431157b650025ceac58be0c57af4a]: Commencement: S. 59 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Amendment of regulation H5[^key-31fbebd81b9195aa3d31374444490a12]
+## 33. Amendment of regulation H5[^c-31fbebd81b9195aa3d31374444490a12]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-31fbebd81b9195aa3d31374444490a12]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-31fbebd81b9195aa3d31374444490a12]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00017]: Footnote: Paragraphs (4) and (5) were amended by [S.I. 2005/3074](https://www.legislation.gov.uk/uksi/2005/3074).
 

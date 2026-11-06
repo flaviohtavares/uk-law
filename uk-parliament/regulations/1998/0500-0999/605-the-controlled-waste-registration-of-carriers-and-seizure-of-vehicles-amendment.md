@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions as respects England, the Secretary of State for Wales as respects Wales and the Secretary of State for Scotland as respects Scotland, in exercise of powers conferred by section 2 of the Control of Pollution (Amendment) Act 1989[^f00001], hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-4a0d42b2fca0878022b5e98ee50e745a]
+## 1. Citation and commencement[^c-4a0d42b2fca0878022b5e98ee50e745a]
 
 These Regulations may be cited as the Controlled Waste (Registration of Carriers and Seizure of Vehicles) (Amendment) Regulations 1998 and shall come into force on 1st April 1998.
 
-## 2. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations[^key-01779bcb9091d2e78d85bb8d2309292a]
+## 2. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations[^c-01779bcb9091d2e78d85bb8d2309292a]
 
 (1) The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^f00002] shall be amended as follows.
 
@@ -102,9 +102,9 @@ These Regulations amend the procedure for applying for registration under the Co
 
 [^f00001]: Footnote: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14); section 2 was amended by paragraph 37(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). *See* the definition of “prescribed” in section 9(1).
 
-[^key-4a0d42b2fca0878022b5e98ee50e745a]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/605/regulation/1)
+[^c-4a0d42b2fca0878022b5e98ee50e745a]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/605/regulation/1)
 
-[^key-01779bcb9091d2e78d85bb8d2309292a]: Commencement: Reg. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/605/regulation/1)
+[^c-01779bcb9091d2e78d85bb8d2309292a]: Commencement: Reg. 2 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/605/regulation/1)
 
 [^f00002]: Footnote: S.I. [1991/1624](https://www.legislation.gov.uk/uksi/1991/1624), amended by S.I. [1992/588](https://www.legislation.gov.uk/uksi/1992/588), [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056).
 

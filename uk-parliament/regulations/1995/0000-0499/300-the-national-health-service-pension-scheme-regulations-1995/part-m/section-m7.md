@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M7. Member’s right to transfer a preserved pension to the 2008 Section[^key-4243f6a8e86380aa94a73ee080a8261d][^M_F_f1c21cbf-dc05-43dd-91de-c878fa8e5638]
+## M7. Member’s right to transfer a preserved pension to the 2008 Section[^c-4243f6a8e86380aa94a73ee080a8261d][^M_F_f1c21cbf-dc05-43dd-91de-c878fa8e5638]
 
 *Extent: E+W+S*
 
@@ -27,8 +27,8 @@ summary: ''
 (3) The conditions referred to in paragraph (1) are that the member—
 
 - (a) is entitled to a deferred benefit under regulation L1,
-- (b) may not join this Section of the scheme in respect of any further NHS employment by virtue of regulation B2(1)(k) or B2(1)(m) or (n)[^key-a2bd08dcc11e9d5314dc3b9ba91dae7e], and
-- (c) becomes an active member of the 2008 Section on or before 31st March 2015 and[^key-f027d4975a75cc59910a67a9d282d01f] before attaining the age of 60.
+- (b) may not join this Section of the scheme in respect of any further NHS employment by virtue of regulation B2(1)(k) or B2(1)(m) or (n)[^c-a2bd08dcc11e9d5314dc3b9ba91dae7e], and
+- (c) becomes an active member of the 2008 Section on or before 31st March 2015 and[^c-f027d4975a75cc59910a67a9d282d01f] before attaining the age of 60.
 
 (4) The Secretary of State shall provide a member to whom this regulation applies with a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations at the guarantee date (“a statement of entitlement”).
 
@@ -72,12 +72,12 @@ summary: ''
 
 ## Annotations
 
-[^key-4243f6a8e86380aa94a73ee080a8261d]: Textual amendment: [Reg. M7](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2008/2263/regulation/13) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-4243f6a8e86380aa94a73ee080a8261d]: Textual amendment: [Reg. M7](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2008/2263/regulation/13) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
 [^M_F_f1c21cbf-dc05-43dd-91de-c878fa8e5638]: Textual amendment: Words in reg. M7 substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/2)
 
 [^M_F_d5d1a43b-c111-4bf3-b97e-2a1e3647c456]: Textual amendment: Words in reg. M7 inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-a2bd08dcc11e9d5314dc3b9ba91dae7e]: Textual amendment: Words in [reg. M7(3)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7/3/b) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2010/492/regulation/12)
+[^c-a2bd08dcc11e9d5314dc3b9ba91dae7e]: Textual amendment: Words in [reg. M7(3)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7/3/b) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2010/492/regulation/12)
 
-[^key-f027d4975a75cc59910a67a9d282d01f]: Textual amendment: Words in [reg. M7(3)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7/3/c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/96/regulation/12)
+[^c-f027d4975a75cc59910a67a9d282d01f]: Textual amendment: Words in [reg. M7(3)(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M7/3/c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/96/regulation/12)

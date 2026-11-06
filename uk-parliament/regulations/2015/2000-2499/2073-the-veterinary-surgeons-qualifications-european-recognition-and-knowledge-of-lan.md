@@ -50,18 +50,18 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Secretary of State makes these Regulations under the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00004].
 
-## 1. Citation and commencement[^key-3c070ab23941b5e484dc34aa8b0d0626]
+## 1. Citation and commencement[^c-3c070ab23941b5e484dc34aa8b0d0626]
 
 These Regulations—
 
 - (a) may be cited as the Veterinary Surgeons’ Qualifications (European Recognition and Knowledge of Language) Regulations 2015; and
 - (b) come into force on 18th January 2016.
 
-## 2. Amendment of the Veterinary Surgeons Act 1966[^key-d19b405da08fb243c6b0d8a061b034cc]
+## 2. Amendment of the Veterinary Surgeons Act 1966[^c-d19b405da08fb243c6b0d8a061b034cc]
 
 The Veterinary Surgeons Act 1966[^f00005] is amended in accordance with regulations 3 to 14.
 
-## 3. Amendment of section 5A[^key-cd39e335e465451c9ffdd7e31a0b8991]
+## 3. Amendment of section 5A[^c-cd39e335e465451c9ffdd7e31a0b8991]
 
 In section 5A (registration of Community rights entitled persons: European qualifications)—
 
@@ -92,7 +92,7 @@ In section 5A (registration of Community rights entitled persons: European quali
 
     .
 
-## 4. Amendment of section 5B[^key-29d12c2951d4361778d2af8f36ec51c3]
+## 4. Amendment of section 5B[^c-29d12c2951d4361778d2af8f36ec51c3]
 
 In section 5B (registration of Community rights entitled persons: knowledge and skill), in subsection (1)—
 
@@ -112,7 +112,7 @@ In section 5B (registration of Community rights entitled persons: knowledge and 
 
   .
 
-## 5. Insertion of section 5ZBA[^key-3af4510c9f067ea48b07c58f93549953]
+## 5. Insertion of section 5ZBA[^c-3af4510c9f067ea48b07c58f93549953]
 
 After section 5B, insert—
 
@@ -130,7 +130,7 @@ After section 5B, insert—
 
 .
 
-## 6. Amendment of section 5CA[^key-9e45ebb29748c1316baef0aecd0c95d4]
+## 6. Amendment of section 5CA[^c-9e45ebb29748c1316baef0aecd0c95d4]
 
 In section 5CA (appeals in connection with registration under section 5B)—
 
@@ -143,7 +143,7 @@ In section 5CA (appeals in connection with registration under section 5B)—
     .
 - (b) in subsection (2), for “regulation 34(2)” substitute “regulation 42(2)”.
 
-## 7. Insertion of section 5CCA[^key-8bfd58fbd17a7f80cdbf1dafeec27500]
+## 7. Insertion of section 5CCA[^c-8bfd58fbd17a7f80cdbf1dafeec27500]
 
 After section 5CC (appeals in connection with removal under section 5BA), insert—
 
@@ -153,7 +153,7 @@ After section 5CC (appeals in connection with removal under section 5BA), insert
 >
 > (2) The deadline for bringing an appeal under subsection (1) is the end of the period of 28 days beginning with the date when the person receives notification of the College’s decision to send an alert.
 
-## 8. Amendment of section 5CD[^key-38bfc2266e3002a8bd8ff9a3f946a263]
+## 8. Amendment of section 5CD[^c-38bfc2266e3002a8bd8ff9a3f946a263]
 
 In section 5CD (appeals under sections 5C, 5CA, 5CB and 5CC)—
 
@@ -171,7 +171,7 @@ In section 5CD (appeals under sections 5C, 5CA, 5CB and 5CC)—
       ;
 - (c) In subsection (2) for “5CB or 5CC” substitute “5CB, 5CC or 5CCA”.
 
-## 9. Amendment of section 5CE[^key-abc3336a0cd3d0d53943432a55af34d0]
+## 9. Amendment of section 5CE[^c-abc3336a0cd3d0d53943432a55af34d0]
 
 In section 5CE (appeals from decisions under sections 5C, 5CA, 5CB and 5CC)—
 
@@ -187,11 +187,11 @@ In section 5CE (appeals from decisions under sections 5C, 5CA, 5CB and 5CC)—
 
     .
 
-## 10. Amendment of section 5D[^key-1564ca338d587f7608fb34cc083499a7]
+## 10. Amendment of section 5D[^c-1564ca338d587f7608fb34cc083499a7]
 
 In section 5D (registration appeals committee), in subsection (1), for “5CB and 5CC” substitute “5CB, 5CC and 5CCA”.
 
-## 11. Amendment of section 6[^key-015881543f7952ef1dabec5e674a9b57]
+## 11. Amendment of section 6[^c-015881543f7952ef1dabec5e674a9b57]
 
 In section 6 (qualification for registration as a Commonwealth or foreign practitioner)—
 
@@ -214,7 +214,7 @@ In section 6 (qualification for registration as a Commonwealth or foreign practi
   ; and
 - (c) in the closing words of subsection (1), after “entitled”, insert “under this section”.
 
-## 12. Amendment of section 27[^key-57e3b422de4362effacc8d4cd73f8697]
+## 12. Amendment of section 27[^c-57e3b422de4362effacc8d4cd73f8697]
 
 In section 27 (interpretation), in subsection (1)—
 
@@ -225,7 +225,7 @@ In section 27 (interpretation), in subsection (1)—
 
   .
 
-## 13. Amendment of Schedule 1A[^key-c9d8d1484ad0282339cb8b4f79bc8064]
+## 13. Amendment of Schedule 1A[^c-c9d8d1484ad0282339cb8b4f79bc8064]
 
 In Schedule 1A (registration of Community rights entitled persons: European qualifications)—
 
@@ -238,7 +238,7 @@ In Schedule 1A (registration of Community rights entitled persons: European qual
 - (c) omit Table A; and
 - (d) in Table B, in the second column of the entry relating to Germany, for “table A” substitute “the Directive table”.
 
-## 14. Amendment of Schedule 1B[^key-036668090beafb475d5a748a05dc25eb]
+## 14. Amendment of Schedule 1B[^c-036668090beafb475d5a748a05dc25eb]
 
 In Schedule 1B (visiting veterinary surgeons from relevant European states)—
 
@@ -257,7 +257,7 @@ In Schedule 1B (visiting veterinary surgeons from relevant European states)—
 
     .
 
-## 15. Review[^key-8909bf2871bdf6be24943417e65522dc]
+## 15. Review[^c-8909bf2871bdf6be24943417e65522dc]
 
 (1) The Secretary of State must from time to time—
 
@@ -305,36 +305,36 @@ An impact assessment has not been produced for this instrument as only a minor i
 
 [^f00004]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
 
-[^key-3c070ab23941b5e484dc34aa8b0d0626]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-3c070ab23941b5e484dc34aa8b0d0626]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-d19b405da08fb243c6b0d8a061b034cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/2073/regulation/2) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-d19b405da08fb243c6b0d8a061b034cc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/2073/regulation/2) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
 [^f00005]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36); section 5A was substituted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and amended by [S.I. 2013/2985](https://www.legislation.gov.uk/uksi/2013/2985); sections 5B, 5CA, 5CD and 5CE were substituted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824); section 5D was inserted by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919) and amended by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824); section 6 was amended by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), [2008/1824](https://www.legislation.gov.uk/uksi/2008/1824); section 27 was amended by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [1980/1951](https://www.legislation.gov.uk/uksi/1980/1951), [2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), [2007/1348](https://www.legislation.gov.uk/uksi/2007/1348), [2008/1824](https://www.legislation.gov.uk/uksi/2008/1824), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2013/2985](https://www.legislation.gov.uk/uksi/2013/2985); Schedule 1A was substituted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and amended by [S.I. 2013/2985](https://www.legislation.gov.uk/uksi/2013/2985); Schedule 1B was inserted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824).
 
-[^key-cd39e335e465451c9ffdd7e31a0b8991]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/2073/regulation/3) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-cd39e335e465451c9ffdd7e31a0b8991]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/2073/regulation/3) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-29d12c2951d4361778d2af8f36ec51c3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/2073/regulation/4) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-29d12c2951d4361778d2af8f36ec51c3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/2073/regulation/4) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
 [^f00006]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
-[^key-3af4510c9f067ea48b07c58f93549953]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/2073/regulation/5) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-3af4510c9f067ea48b07c58f93549953]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/2073/regulation/5) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-9e45ebb29748c1316baef0aecd0c95d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/2073/regulation/6) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-9e45ebb29748c1316baef0aecd0c95d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/2073/regulation/6) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-8bfd58fbd17a7f80cdbf1dafeec27500]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/2073/regulation/7) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-8bfd58fbd17a7f80cdbf1dafeec27500]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/2073/regulation/7) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-38bfc2266e3002a8bd8ff9a3f946a263]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/2073/regulation/8) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-38bfc2266e3002a8bd8ff9a3f946a263]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/2073/regulation/8) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-abc3336a0cd3d0d53943432a55af34d0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/2073/regulation/9) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-abc3336a0cd3d0d53943432a55af34d0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/2073/regulation/9) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-1564ca338d587f7608fb34cc083499a7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/2073/regulation/10) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-1564ca338d587f7608fb34cc083499a7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/2073/regulation/10) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-015881543f7952ef1dabec5e674a9b57]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/2073/regulation/11) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-015881543f7952ef1dabec5e674a9b57]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/2073/regulation/11) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-57e3b422de4362effacc8d4cd73f8697]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/2073/regulation/12) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-57e3b422de4362effacc8d4cd73f8697]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/2073/regulation/12) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-c9d8d1484ad0282339cb8b4f79bc8064]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/2073/regulation/13) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-c9d8d1484ad0282339cb8b4f79bc8064]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/2073/regulation/13) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-036668090beafb475d5a748a05dc25eb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/2073/regulation/14) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-036668090beafb475d5a748a05dc25eb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/2073/regulation/14) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
 
-[^key-8909bf2871bdf6be24943417e65522dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/2073/regulation/15) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)
+[^c-8909bf2871bdf6be24943417e65522dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/2073/regulation/15) in force at 18.1.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/2073/regulation/1/b)

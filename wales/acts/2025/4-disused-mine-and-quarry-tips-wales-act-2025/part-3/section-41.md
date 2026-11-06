@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Penalty for failure to comply with notice[^key-898c4dbd14953383bb917765f95a22af]
+## 41. Penalty for failure to comply with notice[^c-898c4dbd14953383bb917765f95a22af]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-898c4dbd14953383bb917765f95a22af]: Commencement: S. 41 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-898c4dbd14953383bb917765f95a22af]: Commencement: S. 41 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

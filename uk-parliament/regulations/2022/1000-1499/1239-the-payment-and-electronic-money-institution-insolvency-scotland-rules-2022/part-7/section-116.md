@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Submission of claims[^key-555a8b9f880cdb25165b690e39413b67]
+## 116. Submission of claims[^c-555a8b9f880cdb25165b690e39413b67]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ but the administrator may dispense with the requirement of sub-paragraph (b) in 
 
 ## Annotations
 
-[^key-555a8b9f880cdb25165b690e39413b67]: Commencement: Rule 116 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-555a8b9f880cdb25165b690e39413b67]: Commencement: Rule 116 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00017]: Footnote: Amendments have been made to Schedule 6 of the IA 1986 which are not relevant to this instrument.

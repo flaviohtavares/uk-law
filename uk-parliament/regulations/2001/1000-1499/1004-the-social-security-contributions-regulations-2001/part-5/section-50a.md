@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Class 3 contributions: tax years 1996-97 to 2001-02[^key-fccbc1df304993c21bef32bcefd9ab17]
+## 50A. Class 3 contributions: tax years 1996-97 to 2001-02[^c-fccbc1df304993c21bef32bcefd9ab17]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,10 +39,10 @@ he may pay the contribution within the period specified in paragraph (3).
 - (a) in the case of a contributor who has reached or will reach pensionable age before 24th October 2004, on 5th April 2010; and
 - (b) in the case of a contributor who will reach pensionable age on or after 24th October 2004, on 5th April 2009.
 
-(4) Nothing in this regulation limits the application of regulation 50 or 50B[^key-2ec17c3f1c6a4bb92e6a6a438c5199b6].
+(4) Nothing in this regulation limits the application of regulation 50 or 50B[^c-2ec17c3f1c6a4bb92e6a6a438c5199b6].
 
 ## Annotations
 
-[^key-fccbc1df304993c21bef32bcefd9ab17]: Textual amendment: Reg. 50A inserted (17.5.2004) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2004 (S.I. 2004/1362)](https://www.legislation.gov.uk/uksi/2004/1362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1362/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/1362/regulation/4)
+[^c-fccbc1df304993c21bef32bcefd9ab17]: Textual amendment: Reg. 50A inserted (17.5.2004) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2004 (S.I. 2004/1362)](https://www.legislation.gov.uk/uksi/2004/1362), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1362/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/1362/regulation/4)
 
-[^key-2ec17c3f1c6a4bb92e6a6a438c5199b6]: Textual amendment: Words in reg. 50A(4) substituted (1.10.2007) by [The Social Security (Contributions) (Amendment No. 8) Regulations 2007 (S.I. 2007/2520)](https://www.legislation.gov.uk/uksi/2007/2520), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2520/regulation/1), [5](https://www.legislation.gov.uk/uksi/2007/2520/regulation/5)
+[^c-2ec17c3f1c6a4bb92e6a6a438c5199b6]: Textual amendment: Words in reg. 50A(4) substituted (1.10.2007) by [The Social Security (Contributions) (Amendment No. 8) Regulations 2007 (S.I. 2007/2520)](https://www.legislation.gov.uk/uksi/2007/2520), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2520/regulation/1), [5](https://www.legislation.gov.uk/uksi/2007/2520/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Loan relationships: continuity of treatment[^key-edeb3323ea5363442e5bb29b12233680]
+## 94. Loan relationships: continuity of treatment[^c-edeb3323ea5363442e5bb29b12233680]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edeb3323ea5363442e5bb29b12233680]: Commencement: Art. 94 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-edeb3323ea5363442e5bb29b12233680]: Commencement: Art. 94 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

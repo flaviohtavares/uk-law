@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Replacement or modification: recognised Welsh frameworks[^key-a5c5ca38a4d64d82392561f801256a56][^key-86e3546cc5697f54eb7036d249310bac]
+## 30. Replacement or modification: recognised Welsh frameworks[^c-a5c5ca38a4d64d82392561f801256a56][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ to cease to have effect as a recognised Welsh framework.
 
 ## Annotations
 
-[^key-a5c5ca38a4d64d82392561f801256a56]: Commencement: S. 30 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/m)
+[^c-a5c5ca38a4d64d82392561f801256a56]: Commencement: S. 30 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/m)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

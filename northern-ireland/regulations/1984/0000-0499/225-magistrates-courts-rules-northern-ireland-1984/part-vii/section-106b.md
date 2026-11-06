@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-Where a magistrates’ court commits an offender to the Crown Court under paragraph 5(3) of Schedule 3 to the Criminal Justice (Northern Ireland) Order 2008, the clerk of petty sessions shall notify the chief clerk [^key-d7862cf27cb9a4ce6ee0773adae8dc8d]... by sending to him—
+Where a magistrates’ court commits an offender to the Crown Court under paragraph 5(3) of Schedule 3 to the Criminal Justice (Northern Ireland) Order 2008, the clerk of petty sessions shall notify the chief clerk [^c-d7862cf27cb9a4ce6ee0773adae8dc8d]... by sending to him—
 
 - (a) where an offender is released on bail, a copy of any recognizance entered into; and
 - (b) a certificate of the order made by the magistrates’ court.\]
@@ -29,4 +29,4 @@ Where a magistrates’ court commits an offender to the Crown Court under paragr
 
 [^M_F_6d1de3ab-cd51-445d-b4ee-c2226ee050df]: Textual amendment: Rule 105B renumbered as rule 106B (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(7)](https://www.legislation.gov.uk/nisr/2018/103/rule/3/7)
 
-[^key-d7862cf27cb9a4ce6ee0773adae8dc8d]: Textual amendment: Words in [rule 105B](https://www.legislation.gov.uk/nisr/1984/225/rule/105B) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(17)](https://www.legislation.gov.uk/nisr/2016/304/article/3/17); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d7862cf27cb9a4ce6ee0773adae8dc8d]: Textual amendment: Words in [rule 105B](https://www.legislation.gov.uk/nisr/1984/225/rule/105B) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(17)](https://www.legislation.gov.uk/nisr/2016/304/article/3/17); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

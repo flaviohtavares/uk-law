@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Directions[^key-bd2c530fd76336214992967c117ad52c]
+## 5. Directions[^c-bd2c530fd76336214992967c117ad52c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd2c530fd76336214992967c117ad52c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/8/section/5) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-bd2c530fd76336214992967c117ad52c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/8/section/5) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

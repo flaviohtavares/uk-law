@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Qualification of duty to provide services[^key-4a2e1a7811b6f45aa457ef6ceaaccb8f]
+## 24. Qualification of duty to provide services[^c-4a2e1a7811b6f45aa457ef6ceaaccb8f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a2e1a7811b6f45aa457ef6ceaaccb8f]: Commencement: S. 24 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-4a2e1a7811b6f45aa457ef6ceaaccb8f]: Commencement: S. 24 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

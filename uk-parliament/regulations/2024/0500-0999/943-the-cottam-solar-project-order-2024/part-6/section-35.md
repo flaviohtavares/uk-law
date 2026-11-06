@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Consent to transfer the benefit of the Order[^key-6aac302f23aeb44e279c1dff9049d5a3]
+## 35. Consent to transfer the benefit of the Order[^c-6aac302f23aeb44e279c1dff9049d5a3]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 - (d) pursuant to paragraph (8), the restrictions, liabilities and obligations that will apply to the person exercising the powers transferred or granted; and
 - (e) where relevant, a plan showing the works or areas to which the transfer or grant relates.
 
-(6) The date specified under paragraph (5)(b) may not be earlier than the expiry of ten[^key-0d627f653c78d4862eebd4a04bc95b61] working days from the date of the receipt of the notification.
+(6) The date specified under paragraph (5)(b) may not be earlier than the expiry of ten[^c-0d627f653c78d4862eebd4a04bc95b61] working days from the date of the receipt of the notification.
 
 (7) The notification given must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notification.
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aac302f23aeb44e279c1dff9049d5a3]: Commencement: Art. 35 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-6aac302f23aeb44e279c1dff9049d5a3]: Commencement: Art. 35 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-0d627f653c78d4862eebd4a04bc95b61]: Textual amendment: Word in [art. 35(6)](https://www.legislation.gov.uk/uksi/2024/943/article/35/6) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)
+[^c-0d627f653c78d4862eebd4a04bc95b61]: Textual amendment: Word in [art. 35(6)](https://www.legislation.gov.uk/uksi/2024/943/article/35/6) substituted (26.11.2024) by [The Cottam Solar Project (Correction) Order 2024 (S.I. 2024/1222)](https://www.legislation.gov.uk/uksi/2024/1222), [art. 1](https://www.legislation.gov.uk/uksi/2024/1222/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1222/schedule)

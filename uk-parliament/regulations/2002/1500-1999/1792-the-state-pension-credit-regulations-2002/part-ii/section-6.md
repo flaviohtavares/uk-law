@@ -18,8 +18,8 @@ summary: ''
 
 (1) Except as provided in the following provisions of these Regulations, the standard minimum guarantee is—
 
-- (a) £363.25[^key-bcd3e09b41a9e36452f56e535d18c442] per week in the case of a claimant who has a partner;
-- (b) £238.00[^key-a38350b3d5ceb2e0c372e92a8f6a4843] per week in the case of a claimant who has no partner.
+- (a) £363.25[^c-bcd3e09b41a9e36452f56e535d18c442] per week in the case of a claimant who has a partner;
+- (b) £238.00[^c-a38350b3d5ceb2e0c372e92a8f6a4843] per week in the case of a claimant who has no partner.
 
 (2) Paragraph (3) applies in the case of—
 
@@ -35,26 +35,26 @@ summary: ''
 
 (5) The additional amount applicable is—
 
-- (a) except where paragraph (b) applies, £86.05[^key-d1173cf2f9fd187398e49261b958b062] per week if paragraph 1(1)(a), (b) or (c) of Part I of Schedule I is satisfied; or
-- (b) £172.10[^key-271a62d740e62cb875a3df8305d59a77] per week if paragraph 1(1)(b) of Part I of Schedule I is satisfied otherwise than by virtue of paragraph 1(2)(b) of that Part and no one is entitled to and in receipt of an allowance under section 70 of the 1992 Act or carer support payment[^key-f8f874f0eadd7b57a0a6d21d238761b3] , or has an award of universal credit which includes the carer element under regulation 29 of the Universal Credit Regulations 2013,[^key-8049efcfa4a2856ab6dd42030e66ab8e] in respect of caring for either partner.
+- (a) except where paragraph (b) applies, £86.05[^c-d1173cf2f9fd187398e49261b958b062] per week if paragraph 1(1)(a), (b) or (c) of Part I of Schedule I is satisfied; or
+- (b) £172.10[^c-271a62d740e62cb875a3df8305d59a77] per week if paragraph 1(1)(b) of Part I of Schedule I is satisfied otherwise than by virtue of paragraph 1(2)(b) of that Part and no one is entitled to and in receipt of an allowance under section 70 of the 1992 Act or carer support payment[^c-f8f874f0eadd7b57a0a6d21d238761b3] , or has an award of universal credit which includes the carer element under regulation 29 of the Universal Credit Regulations 2013,[^c-8049efcfa4a2856ab6dd42030e66ab8e] in respect of caring for either partner.
 
 (6) Except in a case to which paragraph (3) applies, an amount additional to that prescribed in paragraph (1) shall be applicable—
 
 - (a) if paragraph 4 of Part II of Schedule I is satisfied (amount applicable for carers);
-- (b) in accordance with Part III of Schedule I (amount applicable for former claimants of income support or income-based jobseeker’s allowance); [^key-9514b9d50af913d9102ebf1c1d41c50d]...
-- (c) except where paragraph (7) applies, in accordance with Schedule II (housing costs) ;[^key-d6d6813e57f066cea35becd62a2c106a][^key-0da57ea188563c7237ae931091a3f620]...
-- (d)[^key-9735a51dbe960c699970bab00bc8ff27] except where paragraph (11) applies, or entitlement ceases by virtue of paragraph (14), in accordance with Schedule IIA (additional amount applicable for claimants responsible for a child or qualifying young person) or[^key-533cc2ea63417b1e910495fca724726e]
+- (b) in accordance with Part III of Schedule I (amount applicable for former claimants of income support or income-based jobseeker’s allowance); [^c-9514b9d50af913d9102ebf1c1d41c50d]...
+- (c) except where paragraph (7) applies, in accordance with Schedule II (housing costs) ;[^c-d6d6813e57f066cea35becd62a2c106a][^c-0da57ea188563c7237ae931091a3f620]...
+- (d)[^c-9735a51dbe960c699970bab00bc8ff27] except where paragraph (11) applies, or entitlement ceases by virtue of paragraph (14), in accordance with Schedule IIA (additional amount applicable for claimants responsible for a child or qualifying young person) or[^c-533cc2ea63417b1e910495fca724726e]
 - (e) in accordance with Schedule IIB (transitional protection on closure of tax credits).
 
 (7) This paragraph applies in the case of a person who has been detained in custody for more than 52 weeks pending trial or sentence following conviction by a court.
 
-(8) The amount applicable if paragraph 4 of Part II of Schedule I is satisfied is £48.15[^key-54760f7329ba6e5ac0580dd2e1e60f0b] per week, and in the case of partners, this amount is applicable in respect of each partner who satisfies that paragraph.
+(8) The amount applicable if paragraph 4 of Part II of Schedule I is satisfied is £48.15[^c-54760f7329ba6e5ac0580dd2e1e60f0b] per week, and in the case of partners, this amount is applicable in respect of each partner who satisfies that paragraph.
 
 (9) In the case of a remand prisoner paragraph (6) shall apply as if sub-paragraphs (a) and (b) were omitted.
 
 (10) In this regulation, “remand prisoner” means a person who, for a period not exceeding 52 weeks, has been detained in custody on remand pending trial or, as a condition of bail, required to reside in a hostel approved under section 27(1) of the Probation Service Act 1993[^c262946] or, as the case may be, detained pending sentence upon conviction.
 
-(11)[^key-187d509c94b30774d7800f1636b627bc] This paragraph applies in the case of a person who is awarded, or who is treated as having an award of, a tax credit under the Tax Credits Act.
+(11)[^c-187d509c94b30774d7800f1636b627bc] This paragraph applies in the case of a person who is awarded, or who is treated as having an award of, a tax credit under the Tax Credits Act.
 
 (12) For the purposes of paragraph (11)—
 
@@ -95,30 +95,30 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd3e09b41a9e36452f56e535d18c442]: Textual amendment: Sum in [Reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/1/a) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/a)
+[^c-bcd3e09b41a9e36452f56e535d18c442]: Textual amendment: Sum in [Reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/1/a) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/a)
 
-[^key-a38350b3d5ceb2e0c372e92a8f6a4843]: Textual amendment: Sum in [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/1/b) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/b)
+[^c-a38350b3d5ceb2e0c372e92a8f6a4843]: Textual amendment: Sum in [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/1/b) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/b)
 
-[^key-d1173cf2f9fd187398e49261b958b062]: Textual amendment: Sum in [Reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/5/a) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/c)
+[^c-d1173cf2f9fd187398e49261b958b062]: Textual amendment: Sum in [Reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/5/a) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/c)
 
-[^key-271a62d740e62cb875a3df8305d59a77]: Textual amendment: Sum in [Reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/5/b) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(d)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/d)
+[^c-271a62d740e62cb875a3df8305d59a77]: Textual amendment: Sum in [Reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/5/b) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(d)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/d)
 
-[^key-f8f874f0eadd7b57a0a6d21d238761b3]: Textual amendment: Words in reg. 6(5)(b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/14/3)
+[^c-f8f874f0eadd7b57a0a6d21d238761b3]: Textual amendment: Words in reg. 6(5)(b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/14/3)
 
-[^key-8049efcfa4a2856ab6dd42030e66ab8e]: Textual amendment: Words in reg. 6(5)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/16/2)
+[^c-8049efcfa4a2856ab6dd42030e66ab8e]: Textual amendment: Words in reg. 6(5)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/16/2)
 
-[^key-9514b9d50af913d9102ebf1c1d41c50d]: Textual amendment: Word in reg. 6(6)(b) omitted (1.2.2019) by virtue of [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/a)
+[^c-9514b9d50af913d9102ebf1c1d41c50d]: Textual amendment: Word in reg. 6(6)(b) omitted (1.2.2019) by virtue of [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/a)
 
-[^key-d6d6813e57f066cea35becd62a2c106a]: Textual amendment: Word in reg. 6(6)(c) substituted (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/b)
+[^c-d6d6813e57f066cea35becd62a2c106a]: Textual amendment: Word in reg. 6(6)(c) substituted (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/b)
 
-[^key-0da57ea188563c7237ae931091a3f620]: Textual amendment: Word in [reg. 6(c)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/c) omitted (8.6.2024) by virtue of [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/3)
+[^c-0da57ea188563c7237ae931091a3f620]: Textual amendment: Word in [reg. 6(c)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/c) omitted (8.6.2024) by virtue of [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/3)
 
-[^key-9735a51dbe960c699970bab00bc8ff27]: Textual amendment: Reg. 6(6)(d) added (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/c)
+[^c-9735a51dbe960c699970bab00bc8ff27]: Textual amendment: Reg. 6(6)(d) added (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/2/c)
 
-[^key-533cc2ea63417b1e910495fca724726e]: Textual amendment: [Reg. 6(e)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/e) and word inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/3)
+[^c-533cc2ea63417b1e910495fca724726e]: Textual amendment: [Reg. 6(e)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/e) and word inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/4/3)
 
-[^key-54760f7329ba6e5ac0580dd2e1e60f0b]: Textual amendment: Sum in [Reg. 6(8)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/8) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(e)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/e)
+[^c-54760f7329ba6e5ac0580dd2e1e60f0b]: Textual amendment: Sum in [Reg. 6(8)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/6/8) substituted (coming into force in accordance with art. 1(3)(k) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(k)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/k), [29(2)(e)](https://www.legislation.gov.uk/uksi/2026/148/article/29/2/e)
 
 [^c262946]: Marginal citation: [1993 c. 47](https://www.legislation.gov.uk/ukpga/1993/47).
 
-[^key-187d509c94b30774d7800f1636b627bc]: Textual amendment: Reg. 6(11)-(17) inserted (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/3)
+[^c-187d509c94b30774d7800f1636b627bc]: Textual amendment: Reg. 6(11)-(17) inserted (1.2.2019) by [The State Pension Credit (Additional Amount for Child or Qualifying Young Person) (Amendment) Regulations 2018 (S.I. 2018/676)](https://www.legislation.gov.uk/uksi/2018/676), [regs. 1](https://www.legislation.gov.uk/uksi/2018/676/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/676/regulation/2/3)

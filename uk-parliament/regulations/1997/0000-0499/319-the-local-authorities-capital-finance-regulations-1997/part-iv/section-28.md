@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Leases under certain private finance transactions[^key-6778040654a401a7f510cddd2ed78be9]
+## 28. Leases under certain private finance transactions[^c-6778040654a401a7f510cddd2ed78be9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The initial cost of a lease of land shall be nil where the authority become the 
 
 ## Annotations
 
-[^key-6778040654a401a7f510cddd2ed78be9]: Commencement: Reg. 28 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6778040654a401a7f510cddd2ed78be9]: Commencement: Reg. 28 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

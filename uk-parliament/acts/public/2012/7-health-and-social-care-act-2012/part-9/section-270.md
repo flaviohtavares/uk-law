@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Additional functions[^key-ca379b9f724aa1db8aceac3c88ccabaa]
+## 270. Additional functions[^c-ca379b9f724aa1db8aceac3c88ccabaa]
 
 *Extent: E+W*
 
-(1) NHS England[^key-a197f8161cf2bcc65cff27192bb8932d] may do any of the following—
+(1) NHS England[^c-a197f8161cf2bcc65cff27192bb8932d] may do any of the following—
 
 - (a) acquire, produce, manufacture and supply goods,
 - (b) acquire land by agreement and manage and deal with land,
@@ -39,12 +39,12 @@ summary: ''
 - (a) charge for anything it does in the exercise of a power under subsection (1), and
 - (b) calculate any such charge on the basis that it considers to be the appropriate commercial basis.
 
-(4)[^key-1defb77b9a40ae16530251d7a0eb4353] Nothing in this section is to be read as limiting any power that NHS England has apart from this section to do the things listed in subsection (1).
+(4)[^c-1defb77b9a40ae16530251d7a0eb4353] Nothing in this section is to be read as limiting any power that NHS England has apart from this section to do the things listed in subsection (1).
 
 ## Annotations
 
-[^key-ca379b9f724aa1db8aceac3c88ccabaa]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2012/7/section/270) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ca379b9f724aa1db8aceac3c88ccabaa]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2012/7/section/270) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-a197f8161cf2bcc65cff27192bb8932d]: Textual amendment: Words in [s. 270](https://www.legislation.gov.uk/ukpga/2012/7/section/270) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(23)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/23/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-a197f8161cf2bcc65cff27192bb8932d]: Textual amendment: Words in [s. 270](https://www.legislation.gov.uk/ukpga/2012/7/section/270) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(23)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/23/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-1defb77b9a40ae16530251d7a0eb4353]: Textual amendment: [S. 270(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/270/4) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(23)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/23/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-1defb77b9a40ae16530251d7a0eb4353]: Textual amendment: [S. 270(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/270/4) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(23)(b)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/23/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

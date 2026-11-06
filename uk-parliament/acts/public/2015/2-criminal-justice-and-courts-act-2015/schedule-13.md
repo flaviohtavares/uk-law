@@ -24,7 +24,7 @@ Section 75
 
 ### Jurors and electronic communications devices
 
-**1.**[^key-2ccf7ae3dff80789198cf7a91ddf12a1] After section 9 of the Coroners and Justice Act 2009 insert—
+**1.**[^c-2ccf7ae3dff80789198cf7a91ddf12a1] After section 9 of the Coroners and Justice Act 2009 insert—
 
 > **9A. Surrender of electronic communications devices by jurors**
 >
@@ -84,7 +84,7 @@ Section 75
 > - “**electronic communications device**” has the same meaning as in section 9A;
 > - “**unclaimed device**” means a device retained under this section which has not been returned and whose return has not been requested by a person entitled to it.
 
-**2.**[^key-1272c000727b2ca4a1c4a00fe8102881] (1) Part 4 of the Courts Act 2003 (court security officers) is amended as follows.
+**2.**[^c-1272c000727b2ca4a1c4a00fe8102881] (1) Part 4 of the Courts Act 2003 (court security officers) is amended as follows.
 
 (2) In section 54A (powers in relation to jurors' electronic communications devices) (inserted by section 70 of this Act)—
 
@@ -101,11 +101,11 @@ Section 75
 
 ### Offences relating to research by jurors etc
 
-**3.**[^key-10ee4a0a89d1724e20e29bd1faf2a414] Part 1 of Schedule 6 to the Coroners and Justice Act 2009 (offences relating to jurors at inquests) is amended as follows.
+**3.**[^c-10ee4a0a89d1724e20e29bd1faf2a414] Part 1 of Schedule 6 to the Coroners and Justice Act 2009 (offences relating to jurors at inquests) is amended as follows.
 
-**4.**[^key-4fc6b7e7ff1d7e881c7d0a5b940468eb] Before paragraph 1 insert— “ Serving while disqualified, failure to attend etc ”.
+**4.**[^c-4fc6b7e7ff1d7e881c7d0a5b940468eb] Before paragraph 1 insert— “ Serving while disqualified, failure to attend etc ”.
 
-**5.**[^key-f1f28f6a3ab8d0a231064814e8944553] After paragraph 5 insert—
+**5.**[^c-f1f28f6a3ab8d0a231064814e8944553] After paragraph 5 insert—
 
 > **Research by jurors**
 >
@@ -190,7 +190,7 @@ Section 75
 
 ### Offence relating to jury's deliberations
 
-**6.**[^key-543f31a6a1e19f4b166665d1263d8937] In Schedule 6 to the Coroners and Justice Act 2009 (offences relating to inquests), after Part 1 insert—
+**6.**[^c-543f31a6a1e19f4b166665d1263d8937] In Schedule 6 to the Coroners and Justice Act 2009 (offences relating to inquests), after Part 1 insert—
 
 > **PART 1A — Offence relating to jury's deliberations**
 >
@@ -292,22 +292,22 @@ Section 75
 
 ### Saving for contempt of court
 
-**7.**[^key-630bb5ba475178f8b02e83549b5d25b2] In Part 3 of Schedule 6 to the Coroners and Justice Act 2009 (offences relating to inquests: miscellaneous), at the end insert—
+**7.**[^c-630bb5ba475178f8b02e83549b5d25b2] In Part 3 of Schedule 6 to the Coroners and Justice Act 2009 (offences relating to inquests: miscellaneous), at the end insert—
 
 > **11.** Nothing in paragraph 5A, 5B or 5C affects what constitutes contempt of court at common law.
 
 ## Annotations
 
-[^key-2ccf7ae3dff80789198cf7a91ddf12a1]: Commencement: Sch. 13 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-2ccf7ae3dff80789198cf7a91ddf12a1]: Commencement: Sch. 13 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
 
-[^key-1272c000727b2ca4a1c4a00fe8102881]: Commencement: Sch. 13 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-1272c000727b2ca4a1c4a00fe8102881]: Commencement: Sch. 13 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
 
-[^key-10ee4a0a89d1724e20e29bd1faf2a414]: Commencement: Sch. 13 para. 3 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-10ee4a0a89d1724e20e29bd1faf2a414]: Commencement: Sch. 13 para. 3 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
 
-[^key-4fc6b7e7ff1d7e881c7d0a5b940468eb]: Commencement: Sch. 13 para. 4 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-4fc6b7e7ff1d7e881c7d0a5b940468eb]: Commencement: Sch. 13 para. 4 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
 
-[^key-f1f28f6a3ab8d0a231064814e8944553]: Commencement: Sch. 13 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79) (with [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/b))
+[^c-f1f28f6a3ab8d0a231064814e8944553]: Commencement: Sch. 13 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79) (with [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/b))
 
-[^key-543f31a6a1e19f4b166665d1263d8937]: Commencement: Sch. 13 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79) (with [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/b))
+[^c-543f31a6a1e19f4b166665d1263d8937]: Commencement: Sch. 13 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79) (with [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/b))
 
-[^key-630bb5ba475178f8b02e83549b5d25b2]: Commencement: Sch. 13 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)
+[^c-630bb5ba475178f8b02e83549b5d25b2]: Commencement: Sch. 13 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/79)

@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 136(1C)(d) and 136A(2) and (3) of the Mental Health Act 1983[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-c7d123ce33a9554c8d790de2b15a32ef]
+## 1. Citation, commencement and interpretation[^c-c7d123ce33a9554c8d790de2b15a32ef]
 
 (1) These Regulations may be cited as the Mental Health Act 1983 (Places of Safety) Regulations 2017 and come into force on 11th December 2017.
 
@@ -58,7 +58,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “custody officer” means a person who is appointed as, or who is performing the functions of, a custody officer within the meaning given in section 36 of the Police and Criminal Evidence Act 1984[^f00002];
 - “healthcare professional” means a person who is a member of a profession mentioned in section 60(2) of the Health Act 1999[^f00003].
 
-## 2. Circumstances in which a police station may be used as a place of safety[^key-ca9fd0699f3a5939a6cfd7660b7b3426]
+## 2. Circumstances in which a police station may be used as a place of safety[^c-ca9fd0699f3a5939a6cfd7660b7b3426]
 
 (1) An adult (“A”) may only be removed to, kept at, or taken to, a place of safety that is a police station in the exercise of a power to which section 136A of the Act applies[^f00004] where—
 
@@ -84,35 +84,35 @@ The Secretary of State makes the following Regulations in exercise of the powers
     - (ii) authorises a person to exercise that power,
 - “relevant police area” means the police area in which A is located when a power to which section 136A of the Act applies begins to be exercised in relation to A.
 
-## 3. Requirements when a police station is used as a place of safety[^key-355486597e8358771ff118abfe950b63]
+## 3. Requirements when a police station is used as a place of safety[^c-355486597e8358771ff118abfe950b63]
 
 Regulations 4 to 7 apply when an adult is detained at a police station under section 135 or section 136 of the Act.
 
-**4.**[^key-dfe74cd0ef1e13cadae5c60a29679f21] (1) A custody officer at the police station must ensure that—
+**4.**[^c-dfe74cd0ef1e13cadae5c60a29679f21] (1) A custody officer at the police station must ensure that—
 
 - (a) the welfare of the detained adult (“D”) is checked by a healthcare professional at least once every thirty minutes, and any appropriate action is taken for the treatment and care of D, and
 - (b) so far as is reasonably practicable, a healthcare professional is present and available to D throughout the period in which D is detained at the police station.
 
 (2) Subject to regulation 7, in any case where either or both of the requirements in paragraph (1)(a) and (b) is not met, the custody officer must arrange for D to be taken to another place of safety[^f00006].
 
-**5.**[^key-79be94d8fba5f2952645c076dc5b92a6] (1) A custody officer at the police station must, subject to paragraph (2) and regulations 6 and 7—
+**5.**[^c-79be94d8fba5f2952645c076dc5b92a6] (1) A custody officer at the police station must, subject to paragraph (2) and regulations 6 and 7—
 
 - (a) review the behaviour of D at least once an hour and determine whether the circumstances in regulation 2(1)(a)(i) and (ii) exist, and
 - (b) where those circumstances are determined not to exist, arrange for D to be taken to a place of safety other than a police station.
 
 (2) Before making a determination under paragraph (1)(a), the custody officer must, where reasonably practicable, consult the healthcare professional that carried out the most recent check by virtue of regulation 4(1)(a).
 
-**6.**[^key-b741d55d095aa2e21b48e8254d7c7c48] The frequency of the reviews referred to in regulation 5(1)(a) may be reduced, to no less than once every three hours, where—
+**6.**[^c-b741d55d095aa2e21b48e8254d7c7c48] The frequency of the reviews referred to in regulation 5(1)(a) may be reduced, to no less than once every three hours, where—
 
 - (a) D is sleeping, and
 - (b) a healthcare professional who has checked D’s welfare by virtue of regulation 4(1)(a) has not, in the most recent check, identified any risk that would require D to be woken more frequently.
 
-**7.**[^key-3e2c69a5a09fd1f2af2c077f70e22d8f] The requirements to take D to a place of safety in regulation 4(2) and regulation 5(1)(b) do not apply where—
+**7.**[^c-3e2c69a5a09fd1f2af2c077f70e22d8f] The requirements to take D to a place of safety in regulation 4(2) and regulation 5(1)(b) do not apply where—
 
 - (a) arrangements have been made which would enable an assessment of D for the purpose of section 135 or (as the case may be) section 136 of the Act to be commenced sooner at the police station than at another place of safety, and
 - (b) to postpone the assessment would be likely to cause distress to D.
 
-## 8. Persons to be consulted[^key-e5c78dc616aa25027f95581fe818ab65]
+## 8. Persons to be consulted[^c-e5c78dc616aa25027f95581fe818ab65]
 
 (1) The following persons are specified for the purposes of section 136(1C)(d) of the Act—
 
@@ -121,7 +121,7 @@ Regulations 4 to 7 apply when an adult is detained at a police station under sec
 
 (2) For the purposes of paragraph (1)—
 
-- (a) an occupational therapist is a person registered in the register established and maintained by the Health and Care Professions Council under article 5 of the Health Professions Order 2001[^key-4c6bffe610267906ac67393a5fa7362c], in the part relating to occupational therapists, and
+- (a) an occupational therapist is a person registered in the register established and maintained by the Health and Care Professions Council under article 5 of the Health Professions Order 2001[^c-4c6bffe610267906ac67393a5fa7362c], in the part relating to occupational therapists, and
 - (b) a paramedic is a person registered in that register, in the part relating to paramedics.
 
 Sarah Newton
@@ -160,30 +160,30 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 136(1C)(d) and section 136A were inserted into the Mental Health Act 1983 (“the Act”) by sections 80 and 81 of the Policing and Crime Act [2017 (c.3)](https://www.legislation.gov.uk/ukpga/2017/3). By virtue of section 183(5)(e) of the Policing and Crime Act 2017, sections 80 and 81 came into force on the day on which that Act was passed, so far as is necessary for enabling the exercise of any power to make provision by subordinate legislation. By virtue of [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), these Regulations do not apply in relation to a person where the warrant authorising their removal under section 135 of the Act was issued, or where their removal to a place of safety under section 136 of the Act started, before 11th December 2017.
 
-[^key-c7d123ce33a9554c8d790de2b15a32ef]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-c7d123ce33a9554c8d790de2b15a32ef]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
 [^f00002]: Footnote: [1984 c.60](https://www.legislation.gov.uk/ukpga/1984/60). Section 36 was amended by paragraph 27(3) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c.54)](https://www.legislation.gov.uk/ukpga/1988/54), by paragraph 13 of Schedule 7 to the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), by paragraph 7 of Schedule 1 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), by section 121(5)(a) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), by paragraph 123(3) of Schedule 7 to the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), and by paragraph 162 of Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
 [^f00003]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60(2) was amended by paragraph 1(3) of Schedule 8 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 209(4), (5) and (10) and 213(7)(c)(i) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), and by [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), [2002/254](https://www.legislation.gov.uk/uksi/2002/254) and [2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-ca9fd0699f3a5939a6cfd7660b7b3426]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1036/regulation/2) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-ca9fd0699f3a5939a6cfd7660b7b3426]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1036/regulation/2) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
 [^f00004]: Footnote: By virtue of section 136A(4), the powers to which that section applies are: the power to remove a person to a place of safety under a warrant issued under section 135(1), the power to take a person to a place of safety under section 135(3A), the power to remove a person to, or to keep a person at, a place of safety under section 136(1), and the power to take a person to a place of safety under section 136(3).
 
 [^f00005]: Footnote: Section 135 was amended by paragraph 26 of Part I of Schedule 6, and Part 1 of Schedule 7, to the Police and Criminal Evidence Act [1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), paragraph 1 of Schedule 10 to the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), paragraph 9(9) of Schedule 4 to the Care Standards Act [2002 (c.14)](https://www.legislation.gov.uk/ukpga/2002/14), section 44(2) of, and paragraph 10(a) of Schedule 2 to, the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12), and [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914) and [2016/413](https://www.legislation.gov.uk/uksi/2016/413). There are other amendments but none are relevant. Section 136 was amended by section 44(3) of, and paragraph 10(b) of Schedule 2 to, the Mental Health Act 2007.
 
-[^key-355486597e8358771ff118abfe950b63]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1036/regulation/3) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-355486597e8358771ff118abfe950b63]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1036/regulation/3) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
-[^key-dfe74cd0ef1e13cadae5c60a29679f21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1036/regulation/4) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-dfe74cd0ef1e13cadae5c60a29679f21]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1036/regulation/4) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
 [^f00006]: Footnote: See sections 135(3A) and 136(3) of the Act for the power to transfer a person to another place of safety.
 
-[^key-79be94d8fba5f2952645c076dc5b92a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1036/regulation/5) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-79be94d8fba5f2952645c076dc5b92a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1036/regulation/5) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
-[^key-b741d55d095aa2e21b48e8254d7c7c48]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1036/regulation/6) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-b741d55d095aa2e21b48e8254d7c7c48]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1036/regulation/6) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
-[^key-3e2c69a5a09fd1f2af2c077f70e22d8f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1036/regulation/7) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-3e2c69a5a09fd1f2af2c077f70e22d8f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1036/regulation/7) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
-[^key-e5c78dc616aa25027f95581fe818ab65]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1036/regulation/8) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
+[^c-e5c78dc616aa25027f95581fe818ab65]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1036/regulation/8) in force at 11.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/1/1)
 
-[^key-4c6bffe610267906ac67393a5fa7362c]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/8/2/a) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/37); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-4c6bffe610267906ac67393a5fa7362c]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2017/1036/regulation/8/2/a) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/37); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9 — Small producer alcoholic products: duty discount[^key-284d4bd16378c24d702e4f39dbc35716]
+## Schedule 9 — Small producer alcoholic products: duty discount[^c-284d4bd16378c24d702e4f39dbc35716]
 
 *Extent: E+W+S+N.I.*
 
@@ -220,4 +220,4 @@ Section 59
 
 ## Annotations
 
-[^key-284d4bd16378c24d702e4f39dbc35716]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/9) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/4)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
+[^c-284d4bd16378c24d702e4f39dbc35716]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/9) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/4)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)

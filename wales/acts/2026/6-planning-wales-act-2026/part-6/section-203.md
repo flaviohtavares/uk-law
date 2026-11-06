@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 203. Relationship with other powers[^key-f9379e6668776d67002bc138917fd878]
+## 203. Relationship with other powers[^c-f9379e6668776d67002bc138917fd878]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9379e6668776d67002bc138917fd878]: Commencement: S. 203 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f9379e6668776d67002bc138917fd878]: Commencement: S. 203 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

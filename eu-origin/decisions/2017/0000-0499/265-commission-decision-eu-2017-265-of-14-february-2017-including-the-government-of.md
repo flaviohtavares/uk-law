@@ -35,18 +35,18 @@ including the Government of Northwest Territories of Canada as a recognised body
 
 *(notified under document C(2017) 757)* (revoked)
 
-[^key-15d327675dd93cc1de8e0cffd9616594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15d327675dd93cc1de8e0cffd9616594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-15d327675dd93cc1de8e0cffd9616594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15d327675dd93cc1de8e0cffd9616594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15d327675dd93cc1de8e0cffd9616594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15d327675dd93cc1de8e0cffd9616594]: Textual amendment: Decision revoked (30.7.2022) by [The Seal Products (Amendment) Regulations 2022 (S.I. 2022/771)](https://www.legislation.gov.uk/uksi/2022/771), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/771/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/771/regulation/3/c)
+[^c-15d327675dd93cc1de8e0cffd9616594]: Textual amendment: Decision revoked (30.7.2022) by [The Seal Products (Amendment) Regulations 2022 (S.I. 2022/771)](https://www.legislation.gov.uk/uksi/2022/771), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/771/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/771/regulation/3/c)

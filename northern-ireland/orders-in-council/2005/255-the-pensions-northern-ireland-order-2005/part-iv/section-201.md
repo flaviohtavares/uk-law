@@ -24,12 +24,12 @@ summary: ''
 
 (2) A scheme's “technical provisions” means the amount required, on an actuarial calculation, to make provision for the scheme's liabilities.
 
-(2A)[^key-41212c1b62b2cb31813153bf4578197a] The scheme's technical provisions shall be calculated in a way that is consistent with the scheme's funding and investment strategy, as set out in the scheme's statement of strategy.
+(2A)[^c-41212c1b62b2cb31813153bf4578197a] The scheme's technical provisions shall be calculated in a way that is consistent with the scheme's funding and investment strategy, as set out in the scheme's statement of strategy.
 
 (3) For the purposes of this Part—
 
 - (a) the assets to be taken into account and their value shall be determined, calculated and verified in a prescribed manner, and
-- (b) the liabilities to be taken into account shall be determined in a prescribed manner and , subject to paragraph (2A),[^key-55ebd2403e89ea144d8e617501239755] the scheme's technical provisions shall be calculated in accordance with any prescribed methods and assumptions.
+- (b) the liabilities to be taken into account shall be determined in a prescribed manner and , subject to paragraph (2A),[^c-55ebd2403e89ea144d8e617501239755] the scheme's technical provisions shall be calculated in accordance with any prescribed methods and assumptions.
 
 (4) Regulations may—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41212c1b62b2cb31813153bf4578197a]: Textual amendment: [Art. 201(2A)](https://www.legislation.gov.uk/nisi/2005/255/article/201/2A) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3/2); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))
+[^c-41212c1b62b2cb31813153bf4578197a]: Textual amendment: [Art. 201(2A)](https://www.legislation.gov.uk/nisi/2005/255/article/201/2A) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3/2); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))
 
-[^key-55ebd2403e89ea144d8e617501239755]: Textual amendment: Words in [art. 201(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/201/3/b) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3/3); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))
+[^c-55ebd2403e89ea144d8e617501239755]: Textual amendment: Words in [art. 201(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/201/3/b) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/3/3); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/89/article/3))

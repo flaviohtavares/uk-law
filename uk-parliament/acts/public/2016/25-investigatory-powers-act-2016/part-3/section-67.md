@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Filtering arrangements for obtaining data[^key-4a33b0e5cd4fbd3e2578ea60e392d91f]
+## 67. Filtering arrangements for obtaining data[^c-4a33b0e5cd4fbd3e2578ea60e392d91f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may establish, maintain and operate arrangements for the purposes of—
 
-- (a) assisting a person, who is[^key-388dc0929e06f5cb8c4a9a16aba73f92] considering whether to grant an authorisation, to determine whether the requirements of this Part in relation to granting the authorisation are satisfied, or
+- (a) assisting a person, who is[^c-388dc0929e06f5cb8c4a9a16aba73f92] considering whether to grant an authorisation, to determine whether the requirements of this Part in relation to granting the authorisation are satisfied, or
 - (b) facilitating the lawful, efficient and effective obtaining of communications data from any person by relevant public authorities in pursuance of an authorisation.
 
 (2) Arrangements under subsection (1) (“filtering arrangements”) may, in particular, involve the obtaining of communications data in pursuance of an authorisation (“the target data”) by means of—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a33b0e5cd4fbd3e2578ea60e392d91f]: Commencement: S. 67 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-4a33b0e5cd4fbd3e2578ea60e392d91f]: Commencement: S. 67 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
 
-[^key-388dc0929e06f5cb8c4a9a16aba73f92]: Textual amendment: Words in s. 67(1)(a) substituted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/7) (see S.I. 2019/174, reg. 2(c))
+[^c-388dc0929e06f5cb8c4a9a16aba73f92]: Textual amendment: Words in s. 67(1)(a) substituted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/7) (see S.I. 2019/174, reg. 2(c))

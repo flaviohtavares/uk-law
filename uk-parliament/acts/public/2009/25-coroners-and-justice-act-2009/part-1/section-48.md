@@ -59,7 +59,7 @@ summary: ''
 - “**local authority**” means—
   - (a) in relation to England, a county council, the council of any district comprised in an area for which there is no county council, a London borough council, the Common Council or the Council of the Isles of Scilly;
   - (b) in relation to Wales, a county council or a county borough council;
-- “**medical examiner**” means a person appointed under section[^key-5b07bae688bdb1e312e5d602a102647d] 18A or 18B;
+- “**medical examiner**” means a person appointed under section[^c-5b07bae688bdb1e312e5d602a102647d] 18A or 18B;
 - “**person**”, in relation to an offence of corporate manslaughter, includes an organisation;
 - “**prosecuting authority**” means—
   - (a) the Director of Public Prosecutions, or
@@ -76,16 +76,16 @@ summary: ''
   - (a) the Royal Navy Police,
   - (b) the Royal Military Police, or
   - (c) the Royal Air Force Police;
-- “**state detention**” has the meaning given by subsection (2) (read with subsection (2A))[^key-ec53525f1d59d893ebe60ea97cd98722];
+- “**state detention**” has the meaning given by subsection (2) (read with subsection (2A))[^c-ec53525f1d59d893ebe60ea97cd98722];
 - “**statutory provision**” means provision contained in, or in an instrument made under, any Act (including this Act);
 - “**treasure**” means anything that is treasure for the purposes of the Treasure Act 1996 (c. 24) (and accordingly does not include anything found before 24 September 1997);
 - “**Treasure regulations**” means regulations under section 44;
 - “**treasure trove**” does not include anything found on or after 24 September 1997;
-- “[^key-6e3dc87ae73cdfa07bd36ae817608076]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-6e3dc87ae73cdfa07bd36ae817608076]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
-(2) Subject to subsection (2A),[^key-1d31565a045d97c8bff375a8dcfb1705] a person is in state detention if he or she is compulsorily detained by a public authority within the meaning of section 6 of the Human Rights Act 1998 (c. 42).
+(2) Subject to subsection (2A),[^c-1d31565a045d97c8bff375a8dcfb1705] a person is in state detention if he or she is compulsorily detained by a public authority within the meaning of section 6 of the Human Rights Act 1998 (c. 42).
 
-(2A)[^key-f92a0613de01c6c839860ca7240df0fa] But a person is not in state detention at any time when he or she is deprived of liberty under section 4A(3) or (5) or 4B of the Mental Capacity Act 2005.
+(2A)[^c-f92a0613de01c6c839860ca7240df0fa] But a person is not in state detention at any time when he or she is deprived of liberty under section 4A(3) or (5) or 4B of the Mental Capacity Act 2005.
 
 (3) For the purposes of this Part, the area of the Common Council is to be treated as including the Inner Temple and the Middle Temple.
 
@@ -95,12 +95,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5b07bae688bdb1e312e5d602a102647d]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/48/1) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-5b07bae688bdb1e312e5d602a102647d]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/48/1) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
 
-[^key-ec53525f1d59d893ebe60ea97cd98722]: Textual amendment: Words in s. 48(1) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)
+[^c-ec53525f1d59d893ebe60ea97cd98722]: Textual amendment: Words in s. 48(1) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/2), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)
 
-[^key-6e3dc87ae73cdfa07bd36ae817608076]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/48/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/39); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-6e3dc87ae73cdfa07bd36ae817608076]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/48/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/39); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
 
-[^key-1d31565a045d97c8bff375a8dcfb1705]: Textual amendment: Words in s. 48(2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)
+[^c-1d31565a045d97c8bff375a8dcfb1705]: Textual amendment: Words in s. 48(2) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)
 
-[^key-f92a0613de01c6c839860ca7240df0fa]: Textual amendment: S. 48(2A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)
+[^c-f92a0613de01c6c839860ca7240df0fa]: Textual amendment: S. 48(2A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 178(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/178/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/37)

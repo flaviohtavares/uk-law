@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Prohibition on director acting unless ID verified[^key-dfff8ffa8578339433abd75ffacbaed1][^key-7ab0463b3c112783afb3a8fd71f4da13]
+## 43. Prohibition on director acting unless ID verified[^c-dfff8ffa8578339433abd75ffacbaed1][^c-7ab0463b3c112783afb3a8fd71f4da13]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ After section 167L of the Companies Act 2006 (inserted by Schedule 2 to this Act
 
 ## Annotations
 
-[^key-dfff8ffa8578339433abd75ffacbaed1]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-dfff8ffa8578339433abd75ffacbaed1]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-7ab0463b3c112783afb3a8fd71f4da13]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/56/section/43) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1118/regulation/4))
+[^c-7ab0463b3c112783afb3a8fd71f4da13]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/56/section/43) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1118/regulation/4))

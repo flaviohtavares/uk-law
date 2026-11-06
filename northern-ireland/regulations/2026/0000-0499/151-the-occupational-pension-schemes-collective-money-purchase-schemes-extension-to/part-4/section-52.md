@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Continuity option 1: discharge of liabilities and winding up[^key-37ddfdd82e07b0c4bbff6535dfd0308f]
+## 52. Continuity option 1: discharge of liabilities and winding up[^c-37ddfdd82e07b0c4bbff6535dfd0308f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 applies when the trustees of an unconnected multiple employer scheme 
 
 ## Annotations
 
-[^key-37ddfdd82e07b0c4bbff6535dfd0308f]: Commencement: Reg. 52 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-37ddfdd82e07b0c4bbff6535dfd0308f]: Commencement: Reg. 52 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

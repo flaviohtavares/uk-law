@@ -49,9 +49,9 @@ summary: ''
 > - (a) section 65 and the following provisions of this Act;
 > - (b) section 15 of the Health Services Act 1976;
 > - (c) sections 66, 67, 72 and 73 of the Planning (Listed Buildings and Conservation Areas) Act 1990;
-> - (ca)[^key-2589f25113c19b8d8b1824c74914199b] section 160 of the Historic Environment (Wales) Act 2023;
+> - (ca)[^c-2589f25113c19b8d8b1824c74914199b] section 160 of the Historic Environment (Wales) Act 2023;
 > - (d) regulations under section 5 of the Housing and Planning Act 2016 (starter homes requirements).
 
 ## Annotations
 
-[^key-2589f25113c19b8d8b1824c74914199b]: Textual amendment: Words in s. 5(8) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 194](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/194) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-2589f25113c19b8d8b1824c74914199b]: Textual amendment: Words in s. 5(8) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 194](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/194) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

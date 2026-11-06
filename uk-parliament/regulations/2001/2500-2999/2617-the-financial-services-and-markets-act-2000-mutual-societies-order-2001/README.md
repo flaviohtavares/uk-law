@@ -63,7 +63,7 @@ The Treasury, in exercise of the powers conferred on them by sections 334(1) and
 - [Section 7 — Consequential modification of non-statutory provisions](part-ii/section-7.md)
 - [Section 8 — Anticipatory exercise of powers](part-ii/section-8.md)
 
-### PART III — Dissolutions[^key-8888c2f632e760099049c37a634f2e42]
+### PART III — Dissolutions[^c-8888c2f632e760099049c37a634f2e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ The Treasury, in exercise of the powers conferred on them by sections 334(1) and
 - [Section 11 — The Building Societies Investor Protection Board](part-iii/section-11.md)
 - [Section 12 — The Chief Registrar, assistant registrar for Scotland, and assistant registrars](part-iii/section-12.md)
 
-### PART IV — Amendments, repeals etc.[^key-8888c2f632e760099049c37a634f2e42]
+### PART IV — Amendments, repeals etc.[^c-8888c2f632e760099049c37a634f2e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,4 +118,4 @@ Article 13 gives effect to the amendments and repeals contained in Schedules 3 a
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))
+[^c-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))

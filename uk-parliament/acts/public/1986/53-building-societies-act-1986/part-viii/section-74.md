@@ -26,15 +26,15 @@ summary: ''
 
 (3)[^c15511611] The annual business statement shall contain such information relating to such aspects of the business of the society and shall be in such form as the Treasury prescribe by regulations[^c15511621]; and in this section “**prescribed**” means prescribed by regulations under this subsection.
 
-(4)[^c15511611] Without prejudice to the generality of subsections (1) to (3) above the regulations may require the annual business statements of building societies to include prescribed information about directors and past directors and persons connected with them [^key-1df6cd4207a38226e802a9d89a09cc3d]... and their financial interests.
+(4)[^c15511611] Without prejudice to the generality of subsections (1) to (3) above the regulations may require the annual business statements of building societies to include prescribed information about directors and past directors and persons connected with them [^c-1df6cd4207a38226e802a9d89a09cc3d]... and their financial interests.
 
 (5) The information comprising the annual business statement shall give a true representation of the matters in respect of which it is given.
 
-(6) To such extent as may be prescribed matters contained in the society’s annual business statement shall not be the subject of report by the auditor[^key-bc3d539b35dd1df8b113cf436e26b97e] under section 78.
+(6) To such extent as may be prescribed matters contained in the society’s annual business statement shall not be the subject of report by the auditor[^c-bc3d539b35dd1df8b113cf436e26b97e] under section 78.
 
 (7) The power to make regulations under subsection (3) above is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(8) It is the duty of every director [^key-c6eeb9402c58bd7656a087d4c0e55827]... of a building society to give notice to the society of such matters relating to himself or his financial interests as may be necessary for the purposes of compliance with the preceding provisions of this section.
+(8) It is the duty of every director [^c-c6eeb9402c58bd7656a087d4c0e55827]... of a building society to give notice to the society of such matters relating to himself or his financial interests as may be necessary for the purposes of compliance with the preceding provisions of this section.
 
 (9) Any person who fails to comply with subsection (8) above shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -48,8 +48,8 @@ summary: ''
 
 [^c15511621]: Textual amendment: Words in s. 74(3) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(a)(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/a/b), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 para. 166](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/paragraph/166) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-1df6cd4207a38226e802a9d89a09cc3d]: Textual amendment: Words in s. 74(4) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/5/2)
+[^c-1df6cd4207a38226e802a9d89a09cc3d]: Textual amendment: Words in s. 74(4) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/5/2)
 
-[^key-bc3d539b35dd1df8b113cf436e26b97e]: Textual amendment: Word in s. 74(6) substituted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1519/schedule/2/paragraph/2)
+[^c-bc3d539b35dd1df8b113cf436e26b97e]: Textual amendment: Word in s. 74(6) substituted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1519/schedule/2/paragraph/2)
 
-[^key-c6eeb9402c58bd7656a087d4c0e55827]: Textual amendment: Words in s. 74(8) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/5/3)
+[^c-c6eeb9402c58bd7656a087d4c0e55827]: Textual amendment: Words in s. 74(8) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/5/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Request for other coroner to conduct investigation[^key-d39d088a3971dca1e6ef0008896c0e88]
+## 2. Request for other coroner to conduct investigation[^c-d39d088a3971dca1e6ef0008896c0e88]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d39d088a3971dca1e6ef0008896c0e88]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/25/section/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-d39d088a3971dca1e6ef0008896c0e88]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/25/section/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

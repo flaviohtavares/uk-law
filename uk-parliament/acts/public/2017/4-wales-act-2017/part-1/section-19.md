@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Functions of Welsh Ministers[^key-5afe706f352afe2b52507a6afb272246]
+## 19. Functions of Welsh Ministers[^c-5afe706f352afe2b52507a6afb272246]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5afe706f352afe2b52507a6afb272246]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/4/section/19) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)
+[^c-5afe706f352afe2b52507a6afb272246]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/4/section/19) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)

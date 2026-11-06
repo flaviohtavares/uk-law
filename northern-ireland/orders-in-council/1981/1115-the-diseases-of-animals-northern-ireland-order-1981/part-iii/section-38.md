@@ -27,7 +27,7 @@ In this Part—
 - [^c16922981]“registered pharmaceutical chemist” means a person registered in the register of pharmaceutical chemists in pursuance of Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976;
 - “registered veterinary practitioner” means a person registered in the supplementary veterinary register in pursuance of the Veterinary Surgeons Act 1966
 - [^c16922991]“registered veterinary surgeon” means a person registered in the register of veterinary surgeons in pursuance of the Veterinary Surgeons Act 1966;
-- “retail pharmacy business” has the meaning assigned to it by regulation[^key-ad31625fbf7ac2c5c2371358a8f13b93] 8(1) of the Human Medicines Regulations 2012.
+- “retail pharmacy business” has the meaning assigned to it by regulation[^c-ad31625fbf7ac2c5c2371358a8f13b93] 8(1) of the Human Medicines Regulations 2012.
 
 ## Annotations
 
@@ -35,4 +35,4 @@ In this Part—
 
 [^c16922991]: Textual amendment: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36)
 
-[^key-ad31625fbf7ac2c5c2371358a8f13b93]: Textual amendment: Words in [art. 38](https://www.legislation.gov.uk/nisi/1981/1115/article/38) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 49](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/49) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-ad31625fbf7ac2c5c2371358a8f13b93]: Textual amendment: Words in [art. 38](https://www.legislation.gov.uk/nisi/1981/1115/article/38) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 49](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/49) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

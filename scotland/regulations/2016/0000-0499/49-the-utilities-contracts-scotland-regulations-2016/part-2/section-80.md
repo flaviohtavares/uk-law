@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Contract award criteria[^key-9caadd93205781d8351d871d404c3da0]
+## 80. Contract award criteria[^c-9caadd93205781d8351d871d404c3da0]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ even where such factors do not form part of their material substance.
 
 ## Annotations
 
-[^key-9caadd93205781d8351d871d404c3da0]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2016/49/regulation/80) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-9caadd93205781d8351d871d404c3da0]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2016/49/regulation/80) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

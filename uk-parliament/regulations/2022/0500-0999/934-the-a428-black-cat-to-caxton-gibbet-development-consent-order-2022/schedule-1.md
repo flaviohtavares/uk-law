@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — AUTHORISED DEVELOPMENT[^key-f08b15acf855837fd322ba7bd2dd7ce1]
+### PART 1 — AUTHORISED DEVELOPMENT[^c-f08b15acf855837fd322ba7bd2dd7ce1]
 
 The authorised development is a nationally significant infrastructure project as defined in sections 14 and 22 of the 2008 Act[^f00101] and associated development within the meaning of section 115(2) of the 2008 Act[^f00102], comprising—
 
@@ -323,7 +323,7 @@ In connection with the construction of any of those works, further associated de
 
 ### PART 2 — ANCILLARY WORKS
 
-**1.**[^key-bdaaf4ecfac30176f84828406f535a9f] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
+**1.**[^c-bdaaf4ecfac30176f84828406f535a9f] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development;
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works; and
@@ -331,10 +331,10 @@ In connection with the construction of any of those works, further associated de
 
 ## Annotations
 
-[^key-f08b15acf855837fd322ba7bd2dd7ce1]: Commencement: Sch. 1 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-f08b15acf855837fd322ba7bd2dd7ce1]: Commencement: Sch. 1 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00101]: Footnote: There are amendments to section 14 but none is relevant to this Order. Section 22 was substituted by [S.I 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883) and amended by section 1(6) of, and paragraph 153 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
 [^f00102]: Footnote: Section 115(2) was amended by section 160(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There is another amendment to section 115 which is not relevant to this Order.
 
-[^key-bdaaf4ecfac30176f84828406f535a9f]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/934/schedule/1/part/2/paragraph/1) in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-bdaaf4ecfac30176f84828406f535a9f]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2022/934/schedule/1/part/2/paragraph/1) in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

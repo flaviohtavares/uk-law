@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43AZA. Section 43A: control test[^key-2ac179056b0cbdebf374e6729f4651ad]
+## 43AZA. Section 43A: control test[^c-2ac179056b0cbdebf374e6729f4651ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac179056b0cbdebf374e6729f4651ad]: Textual amendment: S. 43AZA inserted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/2); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)
+[^c-2ac179056b0cbdebf374e6729f4651ad]: Textual amendment: S. 43AZA inserted (1.11.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/53/2), [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/18/paragraph/2); [S.I. 2019/1348](https://www.legislation.gov.uk/uksi/2019/1348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1348/regulation/2)

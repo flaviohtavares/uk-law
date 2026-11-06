@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Franchising and financial assistance in relation to Scotland[^key-0b1034497cd8e3125d4297432fad2e40]
+## 8. Franchising and financial assistance in relation to Scotland[^c-0b1034497cd8e3125d4297432fad2e40]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b1034497cd8e3125d4297432fad2e40]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/14/section/8) in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-0b1034497cd8e3125d4297432fad2e40]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/14/section/8) in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)

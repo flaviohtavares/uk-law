@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Variation or recall of removal order[^key-db6836cf37fcbd276d48a708356a229d]
+## 17. Variation or recall of removal order[^c-db6836cf37fcbd276d48a708356a229d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db6836cf37fcbd276d48a708356a229d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2007/10/section/17) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-db6836cf37fcbd276d48a708356a229d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2007/10/section/17) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

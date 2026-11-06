@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Insurance against payments made in response to terrorist demands[^key-4d5375ae0464c15b0c56e82ef7379c8f]
+## 17A. Insurance against payments made in response to terrorist demands[^c-4d5375ae0464c15b0c56e82ef7379c8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ that person, as well as the partnership, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-4d5375ae0464c15b0c56e82ef7379c8f]: Textual amendment: S. 17A inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/1), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5) (with [s. 42(3)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/3)[(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/4))
+[^c-4d5375ae0464c15b0c56e82ef7379c8f]: Textual amendment: S. 17A inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/1), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5) (with [s. 42(3)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/3)[(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/42/4))

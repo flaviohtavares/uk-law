@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment of article 21[^key-af21d0f0702da6f51ba0f3bcf4070dea]
+## 31. Amendment of article 21[^c-af21d0f0702da6f51ba0f3bcf4070dea]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af21d0f0702da6f51ba0f3bcf4070dea]: Commencement: Reg. 31 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-af21d0f0702da6f51ba0f3bcf4070dea]: Commencement: Reg. 31 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

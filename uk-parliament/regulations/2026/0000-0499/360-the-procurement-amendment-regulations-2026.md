@@ -46,7 +46,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 In accordance with section 122(4)(o), (p), (q) and (x) of the Procurement Act 2023, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-f72d7b6a850a877028f897bc07703d38][^key-f72d7b6a850a877028f897bc07703d38]
+## 1. Citation and commencement[^c-f72d7b6a850a877028f897bc07703d38][^c-f72d7b6a850a877028f897bc07703d38]
 
 (1) These Regulations may be cited as the Procurement (Amendment) Regulations 2026.
 
@@ -54,26 +54,26 @@ In accordance with section 122(4)(o), (p), (q) and (x) of the Procurement Act 20
 
 (3) Regulations 3(2)(a), 3(5), 3(6), 3(7) and 6 come into force on 1st April 2026.
 
-(4) Regulation 5 comes into force on 1st May 2027[^key-ce0726cfe1457622f8db9e176e59e4c1].
+(4) Regulation 5 comes into force on 1st May 2027[^c-ce0726cfe1457622f8db9e176e59e4c1].
 
-## 2. Extent and application[^key-a565893d0cb6dd3b4b0a1cf45fcbcc91][^key-a565893d0cb6dd3b4b0a1cf45fcbcc91]
+## 2. Extent and application[^c-a565893d0cb6dd3b4b0a1cf45fcbcc91][^c-a565893d0cb6dd3b4b0a1cf45fcbcc91]
 
 The amendments made by these Regulations have the same extent and application as the provisions they amend.
 
-## 3. Amendments to the Procurement Regulations 2024[^key-97c16486ee2295a163603013fa582e8e][^key-61cff9f08cd233aec65c90567a217c7f][^key-97c16486ee2295a163603013fa582e8e]
+## 3. Amendments to the Procurement Regulations 2024[^c-97c16486ee2295a163603013fa582e8e][^c-61cff9f08cd233aec65c90567a217c7f][^c-97c16486ee2295a163603013fa582e8e]
 
-(1)[^key-97c16486ee2295a163603013fa582e8e] The Procurement Regulations 2024[^f00002] are amended as follows.
+(1)[^c-97c16486ee2295a163603013fa582e8e] The Procurement Regulations 2024[^f00002] are amended as follows.
 
 (2) In regulation 5 (publication of notices etc on the central digital platform)—
 
-- (a)[^key-61cff9f08cd233aec65c90567a217c7f] after paragraph (3)(p), insert—
+- (a)[^c-61cff9f08cd233aec65c90567a217c7f] after paragraph (3)(p), insert—
 
   > - (pa) section 70(1) (information about payments under public contracts),
 
   ;
-- (b)[^key-97c16486ee2295a163603013fa582e8e] in paragraph (5), for “all of the conditions in paragraph (6) are met” substitute “the central digital platform is unavailable, or all of the conditions in paragraph (6) are met,”.
+- (b)[^c-97c16486ee2295a163603013fa582e8e] in paragraph (5), for “all of the conditions in paragraph (6) are met” substitute “the central digital platform is unavailable, or all of the conditions in paragraph (6) are met,”.
 
-(3)[^key-97c16486ee2295a163603013fa582e8e] In regulation 7 (core supplier information: platform not working, urgency, private utilities), for paragraph (4) substitute—
+(3)[^c-97c16486ee2295a163603013fa582e8e] In regulation 7 (core supplier information: platform not working, urgency, private utilities), for paragraph (4) substitute—
 
 > (4) Paragraph (4A) applies in the case of—
 >
@@ -87,7 +87,7 @@ The amendments made by these Regulations have the same extent and application as
 
 .
 
-(4)[^key-97c16486ee2295a163603013fa582e8e] In regulation 24(2) (below-threshold tender notices)—
+(4)[^c-97c16486ee2295a163603013fa582e8e] In regulation 24(2) (below-threshold tender notices)—
 
 - (a) omit the “and” after sub-paragraph (j);
 - (b) after sub-paragraph (k), insert
@@ -100,9 +100,9 @@ The amendments made by these Regulations have the same extent and application as
 
   .
 
-(5)[^key-61cff9f08cd233aec65c90567a217c7f] In regulation 36 (contract details notices: below-threshold contracts), in paragraph (2)(e)(iii) omit “except where the supplier has not obtained one,”.
+(5)[^c-61cff9f08cd233aec65c90567a217c7f] In regulation 36 (contract details notices: below-threshold contracts), in paragraph (2)(e)(iii) omit “except where the supplier has not obtained one,”.
 
-(6)[^key-61cff9f08cd233aec65c90567a217c7f] After regulation 36, insert—
+(6)[^c-61cff9f08cd233aec65c90567a217c7f] After regulation 36, insert—
 
 > **36A. Supplier registration on central digital platform: below-threshold contracts**
 >
@@ -126,7 +126,7 @@ The amendments made by these Regulations have the same extent and application as
 
 .
 
-(7)[^key-61cff9f08cd233aec65c90567a217c7f] After regulation 38 (payments compliance notices), insert—
+(7)[^c-61cff9f08cd233aec65c90567a217c7f] After regulation 38 (payments compliance notices), insert—
 
 > **38A. Contract payment information**
 >
@@ -159,9 +159,9 @@ The amendments made by these Regulations have the same extent and application as
 
 .
 
-(8)[^key-97c16486ee2295a163603013fa582e8e] In regulation 50 (application of Parts 2 and 3 in relation to devolved Scottish authorities), for “Schedule 9” substitute “Schedule 9A”.
+(8)[^c-97c16486ee2295a163603013fa582e8e] In regulation 50 (application of Parts 2 and 3 in relation to devolved Scottish authorities), for “Schedule 9” substitute “Schedule 9A”.
 
-(9)[^key-97c16486ee2295a163603013fa582e8e] In the table in Schedule 2 (central government authorities)—
+(9)[^c-97c16486ee2295a163603013fa582e8e] In the table in Schedule 2 (central government authorities)—
 
 - (a) in the entry for “Department for Culture, Media and Sport”, for the entries for “Historic Buildings and Monuments” and “Commission for England (known as “**Historic England**”)” substitute—
 
@@ -193,7 +193,7 @@ The amendments made by these Regulations have the same extent and application as
 
   .
 
-## 4. Amendments to the Health Care Services (Provider Selection Regime) Regulations 2023[^key-a99776aa4d1593fee266032e563b0d74][^key-a99776aa4d1593fee266032e563b0d74]
+## 4. Amendments to the Health Care Services (Provider Selection Regime) Regulations 2023[^c-a99776aa4d1593fee266032e563b0d74][^c-a99776aa4d1593fee266032e563b0d74]
 
 In regulation 22 (termination of contracts) of the Health Care Services (Provider Selection Regime) Regulations 2023[^f00003], after paragraph (3), insert—
 
@@ -208,7 +208,7 @@ In regulation 22 (termination of contracts) of the Health Care Services (Provide
 
 .
 
-## 5. Amendments to the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024[^key-669c4ad01a364009bbc9bcbc7662eba1]
+## 5. Amendments to the Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024[^c-669c4ad01a364009bbc9bcbc7662eba1]
 
 **Not yet in force.**
 
@@ -236,7 +236,7 @@ In regulation 5 (saving provisions relating to the 2015 Regulations) of the Proc
 
   .
 
-## 6. Transitional provisions[^key-51f4f510c8926fabc1206b1278facd31]
+## 6. Transitional provisions[^c-51f4f510c8926fabc1206b1278facd31]
 
 (1) The amendments made by regulation 3(2)(a) and (7) do not affect any procurement commenced before the date on which section 70 of the Procurement Act 2023 comes into force.
 
@@ -291,28 +291,28 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00001]: Footnote: [2023 c. 54](https://www.legislation.gov.uk/ukpga/2023/54). See section 123(1) of the Procurement Act 2023 for the definitions of “appropriate authority” and “Minister of the Crown”.
 
-[^key-f72d7b6a850a877028f897bc07703d38]: Commencement: Reg. 1 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+[^c-f72d7b6a850a877028f897bc07703d38]: Commencement: Reg. 1 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
 
-[^key-ce0726cfe1457622f8db9e176e59e4c1]: Textual amendment: Words in reg. 1(4) substituted (1.7.2026) by [The Procurement (Amendment) (No. 2) Regulations 2026 (S.I. 2026/746)](https://www.legislation.gov.uk/uksi/2026/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/746/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/746/regulation/2)
+[^c-ce0726cfe1457622f8db9e176e59e4c1]: Textual amendment: Words in reg. 1(4) substituted (1.7.2026) by [The Procurement (Amendment) (No. 2) Regulations 2026 (S.I. 2026/746)](https://www.legislation.gov.uk/uksi/2026/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/746/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/746/regulation/2)
 
-[^key-a565893d0cb6dd3b4b0a1cf45fcbcc91]: Commencement: Reg. 2 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+[^c-a565893d0cb6dd3b4b0a1cf45fcbcc91]: Commencement: Reg. 2 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
 
-[^key-97c16486ee2295a163603013fa582e8e]: Commencement: Reg. 3(1)(2)(b)(3)(4)(8)(9) in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+[^c-97c16486ee2295a163603013fa582e8e]: Commencement: Reg. 3(1)(2)(b)(3)(4)(8)(9) in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
 
-[^key-61cff9f08cd233aec65c90567a217c7f]: Commencement: Reg. 3(2)(a)(5)(6)(7) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
+[^c-61cff9f08cd233aec65c90567a217c7f]: Commencement: Reg. 3(2)(a)(5)(6)(7) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692), as amended by [S.I. 2025/163](https://www.legislation.gov.uk/uksi/2025/163) and [2026/94](https://www.legislation.gov.uk/uksi/2026/94).
 
-[^key-a99776aa4d1593fee266032e563b0d74]: Commencement: Reg. 4 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
+[^c-a99776aa4d1593fee266032e563b0d74]: Commencement: Reg. 4 in force at 24.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), as amended by [S.I. 2025/163](https://www.legislation.gov.uk/uksi/2025/163).
 
-[^key-669c4ad01a364009bbc9bcbc7662eba1]: Commencement: Reg. 5 in force at 1.10.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/4)
+[^c-669c4ad01a364009bbc9bcbc7662eba1]: Commencement: Reg. 5 in force at 1.10.2026, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/4)
 
 [^f00004]: Footnote: [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [2025/1337](https://www.legislation.gov.uk/uksi/2025/1337) and [2026/297](https://www.legislation.gov.uk/uksi/2026/297).
 
 [^f00005]: Footnote: The reference to sub-paragraphs (d) and (e) was inserted by [S.I. 2025/1337](https://www.legislation.gov.uk/uksi/2025/1337).
 
-[^key-51f4f510c8926fabc1206b1278facd31]: Commencement: Reg. 6 in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
+[^c-51f4f510c8926fabc1206b1278facd31]: Commencement: Reg. 6 in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/360/regulation/1/3)
 
 [^f00006]: Footnote: Section 87 was amended by [S.I. 2024/782](https://www.legislation.gov.uk/uksi/2024/782) and [2024/959](https://www.legislation.gov.uk/uksi/2024/959).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 39a. Contribution of ESI Funds to financial instruments combining such contribution with EIB financial products under the European Fund for Strategic Investments[^key-bc6f25496bcb457e3568d1148d1ff5cc]
+## Article 39a. Contribution of ESI Funds to financial instruments combining such contribution with EIB financial products under the European Fund for Strategic Investments[^c-bc6f25496bcb457e3568d1148d1ff5cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6f25496bcb457e3568d1148d1ff5cc]: Textual amendment: [Art. 39a](https://www.legislation.gov.uk/eur/2013/1303/article/39a) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc6f25496bcb457e3568d1148d1ff5cc]: Textual amendment: [Art. 39a](https://www.legislation.gov.uk/eur/2013/1303/article/39a) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

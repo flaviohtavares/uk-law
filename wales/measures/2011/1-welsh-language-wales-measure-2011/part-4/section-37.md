@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Persons within Schedule 8[^key-0f6247a8e63edfc98349d6a8100effde]
+## 37. Persons within Schedule 8[^c-0f6247a8e63edfc98349d6a8100effde]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f6247a8e63edfc98349d6a8100effde]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2011/1/section/37) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-0f6247a8e63edfc98349d6a8100effde]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2011/1/section/37) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

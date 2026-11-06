@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Meaning of “compulsory supervision order”[^key-ad7880cdc6cf16990d5edd67658821e8]
+## 83. Meaning of “compulsory supervision order”[^c-ad7880cdc6cf16990d5edd67658821e8]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
 - (h) a requirement that the child comply with any other specified condition,
 - (i) a requirement that the implementation authority carry out specified duties in relation to the child.
 
-(3)[^key-19ed9c198a88d7fb869b2652599f0715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-19ed9c198a88d7fb869b2652599f0715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A compulsory supervision order may include a movement restriction condition only if—
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7880cdc6cf16990d5edd67658821e8]: Commencement: S. 83 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ad7880cdc6cf16990d5edd67658821e8]: Commencement: S. 83 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-19ed9c198a88d7fb869b2652599f0715]: Textual amendment: S. 83(3) repealed (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-19ed9c198a88d7fb869b2652599f0715]: Textual amendment: S. 83(3) repealed (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

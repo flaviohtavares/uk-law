@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Applications for variation or cancellation of suspension or restriction[^key-7e92c67e6093b01d2b3054019fbd7a90]
+## 4. Applications for variation or cancellation of suspension or restriction[^c-7e92c67e6093b01d2b3054019fbd7a90]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ it is to be treated as an application made to the Authority under section 200 an
 
 ## Annotations
 
-[^key-7e92c67e6093b01d2b3054019fbd7a90]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-7e92c67e6093b01d2b3054019fbd7a90]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

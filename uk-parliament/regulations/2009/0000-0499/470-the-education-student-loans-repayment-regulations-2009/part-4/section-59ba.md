@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59BA. Employees paid in specified circumstances[^key-1f1db1b3c18edc61eac9457840a2b96f]
+## 59BA. Employees paid in specified circumstances[^c-1f1db1b3c18edc61eac9457840a2b96f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1db1b3c18edc61eac9457840a2b96f]: Textual amendment: [Regs. 59BA](https://www.legislation.gov.uk/uksi/2009/470/regulation/59BA), [59BB](https://www.legislation.gov.uk/uksi/2009/470/regulation/59BB) inserted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2013/607/regulation/15)
+[^c-1f1db1b3c18edc61eac9457840a2b96f]: Textual amendment: [Regs. 59BA](https://www.legislation.gov.uk/uksi/2009/470/regulation/59BA), [59BB](https://www.legislation.gov.uk/uksi/2009/470/regulation/59BB) inserted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2013/607/regulation/15)

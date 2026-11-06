@@ -30,7 +30,7 @@ summary: ''
 
 (5) An amendment, repeal or revocation made by this Act of an enactment has the same extent within the United Kingdom as the enactment amended, repealed or revoked.
 
-(6)[^key-f96017923824ceadb7bf9f2734942450] Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man or any of the British overseas territories.
+(6)[^c-f96017923824ceadb7bf9f2734942450] Her Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man or any of the British overseas territories.
 
 (7) Any power under an Act to extend any provision of that Act by Order in Council to any of the Channel Islands may be exercised so as to extend there (with or without modifications) any amendment or repeal of that provision which is made by or under this Act.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f96017923824ceadb7bf9f2734942450]: Modification: [S. 272(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/6) power extended (23.5.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 63(6)](https://www.legislation.gov.uk/ukpga/2018/13/section/63/6), [64(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/1) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58))
+[^c-f96017923824ceadb7bf9f2734942450]: Modification: [S. 272(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/6) power extended (23.5.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [ss. 63(6)](https://www.legislation.gov.uk/ukpga/2018/13/section/63/6), [64(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/1) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58))

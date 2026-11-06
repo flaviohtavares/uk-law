@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Childhood assistance[^key-0b4a9e24701fec7ec7391e65d8797b46]
+## 1. Childhood assistance[^c-0b4a9e24701fec7ec7391e65d8797b46]
 
 *Extent: S*
 
@@ -147,4 +147,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4a9e24701fec7ec7391e65d8797b46]: Commencement: S. 1 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-0b4a9e24701fec7ec7391e65d8797b46]: Commencement: S. 1 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Meaning of “high hedge”
 
-### 1. Meaning of “high hedge”[^key-5b95ad32615da18e8c38d74241859f4a]
+### 1. Meaning of “high hedge”[^c-5b95ad32615da18e8c38d74241859f4a]
 
 (1) This Act applies in relation to a hedge (referred to in this Act as a “high hedge”) which—
 
@@ -50,19 +50,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## High hedge notices
 
-### 2. Application for high hedge notice[^key-7f626df1a00ae0c37a735c8cf5352a8f]
+### 2. Application for high hedge notice[^c-7f626df1a00ae0c37a735c8cf5352a8f]
 
 (1) Where subsection (2) applies, an owner or occupier of a domestic property (referred to in this Act as the “applicant”) may apply to the relevant local authority for a high hedge notice.
 
 (2) This subsection applies where the applicant considers that the height of a high hedge situated on land owned or occupied by another person adversely affects the enjoyment of the domestic property which an occupant of that property could reasonably expect to have.
 
-### 3. Pre-application requirements[^key-037d26b55d377731c6916cfe765cb975]
+### 3. Pre-application requirements[^c-037d26b55d377731c6916cfe765cb975]
 
 (1) Before making an application under section 2(1), the applicant must take all reasonable steps to resolve the matters in relation to the high hedge which would otherwise be the subject of the application.
 
 (2) In complying with the duty imposed by subsection (1) the applicant must have regard to any guidance issued by the relevant local authority under section 31(2)(a).
 
-### 4. Fee for application[^key-ddc3fa2a8d39506e6b6ea443958e2c8c]
+### 4. Fee for application[^c-ddc3fa2a8d39506e6b6ea443958e2c8c]
 
 (1) An application must be accompanied by a fee of such amount (if any) as the relevant local authority may fix.
 
@@ -76,7 +76,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) When publishing information in accordance with subsection (5), an authority must have regard to any guidance on the refund of application fees issued by the Scottish Ministers under section 31(1).
 
-### 5. Dismissal of application[^key-0cc27d3c70a3596dd3b6c660b64a382a]
+### 5. Dismissal of application[^c-0cc27d3c70a3596dd3b6c660b64a382a]
 
 (1) A relevant local authority must dismiss an application where the authority considers that—
 
@@ -88,7 +88,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) its decision, and
 - (b) the reasons for its decision.
 
-### 6. Consideration of application[^key-4d5449713943fc1a9adf5fee3a612983]
+### 6. Consideration of application[^c-4d5449713943fc1a9adf5fee3a612983]
 
 (1) This section applies where a relevant local authority does not dismiss an application under section 5.
 
@@ -130,7 +130,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) before making a decision under subsection (5)(b), consult the National Park authority for the National Park, and
 - (b) in making its decision under that subsection, take into account any representations made by that National Park authority.
 
-### 7. Notice of decision where no action to be taken[^key-5c688ee136c9c4a05d9af76b7c3f12aa]
+### 7. Notice of decision where no action to be taken[^c-5c688ee136c9c4a05d9af76b7c3f12aa]
 
 (1) This section applies where—
 
@@ -150,7 +150,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Where the high hedge which is the subject of the application is situated on land which has been designated as a National Park and subsection (1)(b) applies, the authority must notify the National Park authority for the National Park of its decision.
 
-### 8. High hedge notice[^key-1ab95bee8d2f621de285f3a4c823839f]
+### 8. High hedge notice[^c-1ab95bee8d2f621de285f3a4c823839f]
 
 (1) Where a relevant local authority decides under section 6(5)(b) that action should be taken, it must issue a high hedge notice as soon as is reasonably practicable after making that decision.
 
@@ -179,11 +179,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Where the high hedge to which a high hedge notice relates is situated on land which has been designated as a National Park, the authority must give the National Park authority for the National Park a copy of the high hedge notice.
 
-### 9. Effect of high hedge notice[^key-429dfc5a7807a61e49d2bb3b0d5ea5f8]
+### 9. Effect of high hedge notice[^c-429dfc5a7807a61e49d2bb3b0d5ea5f8]
 
 A high hedge notice is binding on every person who is for the time being an owner of the neighbouring land specified in the notice.
 
-### 10. High hedge notice: withdrawal and variation[^key-de19e422be8d677d81d0adb449123fd5]
+### 10. High hedge notice: withdrawal and variation[^c-de19e422be8d677d81d0adb449123fd5]
 
 (1) After a relevant local authority issues a high hedge notice, it may—
 
@@ -224,7 +224,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (9) Subsections (1) to (8) apply in relation to a revised high hedge notice issued by the authority under subsection (6)(a) as they apply in relation to a high hedge notice.
 
-### 11. Tree preservation orders[^key-80f224151c483e589f1740ac7f75e82e]
+### 11. Tree preservation orders[^c-80f224151c483e589f1740ac7f75e82e]
 
 (1) Subsection (2) applies where a high hedge notice issued by a relevant local authority, relates to a high hedge which—
 
@@ -235,7 +235,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 ## Appeals
 
-### 12. Appeals[^key-02969c799263aad3a0093032ff71acf4]
+### 12. Appeals[^c-02969c799263aad3a0093032ff71acf4]
 
 (1) The applicant may appeal to the Scottish Ministers against—
 
@@ -258,7 +258,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (b) in the case of an appeal under subsection (2)(a), the date of the notification given by the authority under section 8(4),
 - (c) in the case of an appeal under subsection (2)(b), the date of the notification given by the authority under section 10(3) or (6).
 
-### 13. Effect of appeal[^key-5451c3f8f8f57942ddc8b4a593b05a6e]
+### 13. Effect of appeal[^c-5451c3f8f8f57942ddc8b4a593b05a6e]
 
 (1) This section applies during the period beginning with the making of an appeal and ending with its final determination, withdrawal or abandonment.
 
@@ -269,7 +269,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) the high hedge notice has no effect, and
 - (b) the withdrawal or variation has no effect.
 
-### 14. Determination of appeal[^key-09128d0ddb10d2eb40628159c567c8ea]
+### 14. Determination of appeal[^c-09128d0ddb10d2eb40628159c567c8ea]
 
 (1) Where an appeal is made under section 12(1), the Scottish Ministers may—
 
@@ -284,7 +284,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (3) A high hedge notice issued or varied under this section is to be treated as if issued or varied by the relevant local authority.
 
-### 15. Person appointed to determine appeal[^key-17ed045d96f02def362870f20de6e2d3]
+### 15. Person appointed to determine appeal[^c-17ed045d96f02def362870f20de6e2d3]
 
 (1) An appeal may be determined by a person appointed by the Scottish Ministers for that purpose instead of by the Scottish Ministers.
 
@@ -292,7 +292,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (3) Where an appeal is determined by a person appointed by the Scottish Ministers, the decision is to be treated as if it were a decision of the Scottish Ministers.
 
-### 16. Notice of determination[^key-00d024d0891780781c27ce1523eb7f0b]
+### 16. Notice of determination[^c-00d024d0891780781c27ce1523eb7f0b]
 
 (1) As soon as is reasonably practicable after determining an appeal the Scottish Ministers must—
 
@@ -312,7 +312,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (b) every owner and occupier of the domestic property identified in the high hedge notice or, as the case may be, the revised high hedge notice, and
 - (c) every owner and occupier of the neighbouring land.
 
-### 17. Period for taking initial action following appeal[^key-0ed46dc46b4e00764825acdc80cd0075]
+### 17. Period for taking initial action following appeal[^c-0ed46dc46b4e00764825acdc80cd0075]
 
 (1) This section applies where an appeal under section 12(2) is—
 
@@ -328,7 +328,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 ## Powers of entry
 
-### 18. Power to enter neighbouring land[^key-88e4411e51a1adb3762913ab5eeffd36]
+### 18. Power to enter neighbouring land[^c-88e4411e51a1adb3762913ab5eeffd36]
 
 (1) A person authorised by a relevant local authority may enter the neighbouring land for the purpose of—
 
@@ -343,7 +343,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (3) A person authorised to enter land by virtue of this section may enter a building which is for the time being occupied as a residence only if there is no other reasonably practicable means of access to the high hedge.
 
-### 19. Supplementary powers[^key-300ace44063a1053606d5527ad82922c]
+### 19. Supplementary powers[^c-300ace44063a1053606d5527ad82922c]
 
 (1) A person authorised to enter land by virtue of section 18 (referred to in this section as an “**authorised person**”) may—
 
@@ -363,7 +363,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (5) On leaving neighbouring land which is unoccupied or from which all of the occupiers are temporarily absent, an authorised person must ensure that the land is as effectively secured against unauthorised entry as it was when the person entered it.
 
-### 20. Warrant authorising entry[^key-cf30355c7f3d132a91ceda12cfb7dbfc]
+### 20. Warrant authorising entry[^c-cf30355c7f3d132a91ceda12cfb7dbfc]
 
 (1) The sheriff or a justice of the peace may by warrant authorise any person entitled to enter the neighbouring land under section 18 to enter the land and if necessary to use reasonable force in doing so.
 
@@ -386,7 +386,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) when it is no longer required for the purpose for which it is granted, or
 - (b) on the expiry of such period as may be specified in it.
 
-### 21. Offence[^key-32d2dcea1b31242c5bd7ae3a8c5ca40a]
+### 21. Offence[^c-32d2dcea1b31242c5bd7ae3a8c5ca40a]
 
 (1) It is an offence intentionally to prevent or obstruct a person authorised to enter land under section 18 from doing anything which that person is authorised to do by virtue of this Act.
 
@@ -394,7 +394,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 ## Local authority enforcement action
 
-### 22. Power to take action[^key-96a89ac5221c8adb5fbe605990e3f437]
+### 22. Power to take action[^c-96a89ac5221c8adb5fbe605990e3f437]
 
 (1) A person authorised by a relevant local authority (referred to in this section as an “**authorised person**”) may—
 
@@ -413,7 +413,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (5) On leaving neighbouring land which is unoccupied or from which all of the occupiers are temporarily absent, an authorised person must ensure that the land is as effectively secured against unauthorised entry as it was when the person entered it.
 
-### 23. Warrant authorising entry by local authority[^key-908758fec616cf76a122c3a7bcb0f1e9]
+### 23. Warrant authorising entry by local authority[^c-908758fec616cf76a122c3a7bcb0f1e9]
 
 (1) The sheriff or a justice of the peace may by warrant authorise any person entitled to enter the neighbouring land under section 22 to enter the land and if necessary to use reasonable force in doing so.
 
@@ -436,7 +436,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) when it is no longer required for the purpose for which it is granted, or
 - (b) on the expiry of such period as may be specified in it.
 
-### 24. Local authority action: offence[^key-07ca1807a0411d3b47372de7e713a804]
+### 24. Local authority action: offence[^c-07ca1807a0411d3b47372de7e713a804]
 
 (1) It is an offence intentionally to prevent or obstruct a person authorised by a relevant local authority under section 22 from doing anything which that person is authorised to do by virtue of this Act.
 
@@ -444,7 +444,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 ## Expenses of enforcement action
 
-### 25. Recovery of expenses from owner of land[^key-febf2e40f8eba3d9fd9103d640948a32]
+### 25. Recovery of expenses from owner of land[^c-febf2e40f8eba3d9fd9103d640948a32]
 
 (1) A relevant local authority may recover from any person who is an owner of the neighbouring land—
 
@@ -456,7 +456,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (3) Each owner of the neighbouring land is jointly and severally liable for the expenses and interest mentioned in this section.
 
-### 26. Notice of liability for expense of local authority action[^key-bac960535a1c984f8d9038b040fae533]
+### 26. Notice of liability for expense of local authority action[^c-bac960535a1c984f8d9038b040fae533]
 
 (1) A relevant local authority may apply to register a notice (a “notice of liability for expenses”) specifying the matters mentioned in subsection (2).
 
@@ -474,7 +474,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) in the case of land registered in the Land Register of Scotland, include the title number of the land,
 - (b) in the case where the title to the land (or a larger area containing the land) is derived from a deed recorded in the General Register of Sasines, identify the land by reference to that deed.
 
-### 27. Recovery of expenses from new owner of land[^key-f1262cb9d53d3ac0c52234ddfde50951]
+### 27. Recovery of expenses from new owner of land[^c-f1262cb9d53d3ac0c52234ddfde50951]
 
 (1) Subsection (2) applies where—
 
@@ -483,7 +483,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (2) The new owner is severally liable with any former owner of the neighbouring land for any expenses and interest for which the former owner is liable under section 25(1).
 
-### 28. Continuing liability of former owner[^key-9c6ae3d46163efca7ae3afd67abe5636]
+### 28. Continuing liability of former owner[^c-9c6ae3d46163efca7ae3afd67abe5636]
 
 (1) An owner of the neighbouring land who is liable for expenses and interest under section 25 does not, by virtue only of ceasing to be such an owner, cease to be liable for the expenses and interest.
 
@@ -491,7 +491,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (3) A person who is entitled to recover an amount under subsection (2) does not, by virtue only of ceasing to be the owner of the land, cease to be entitled to recover that amount.
 
-### 29. Notice of discharge[^key-ce71804787abbe54957d6b65da2c84b0]
+### 29. Notice of discharge[^c-ce71804787abbe54957d6b65da2c84b0]
 
 (1) This section applies where liability for expenses and interest to which a registered notice of liability for expenses relates has been discharged.
 
@@ -512,7 +512,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (5) On registration, the notice of discharge discharges the notice of liability for expenses to which it relates.
 
-### 30. Receipt of notices by the Keeper[^key-0bf621aebd886c50c9df0b62375fd20a]
+### 30. Receipt of notices by the Keeper[^c-0bf621aebd886c50c9df0b62375fd20a]
 
 (1) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in a notice of a type mentioned in subsection (2) which is submitted for registration is accurate.
 
@@ -523,7 +523,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 ## General
 
-### 31. Guidance[^key-e2773901678dafbc0b2ce2d18b03848a]
+### 31. Guidance[^c-e2773901678dafbc0b2ce2d18b03848a]
 
 (1) The Scottish Ministers may, after consulting such persons as they consider appropriate, issue guidance about this Act.
 
@@ -537,7 +537,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) issuing guidance under subsection (2),
 - (b) carrying out its functions under this Act.
 
-### 32. Report on operation of Act[^key-91ec4ef3547d31617a1b2d948dab969d]
+### 32. Report on operation of Act[^c-91ec4ef3547d31617a1b2d948dab969d]
 
 (1) The Scottish Parliament must make arrangements for one of its committees or sub-committees to report to the Scottish Parliament on the operation of this Act during the review period.
 
@@ -553,7 +553,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (4) The Scottish Parliament must publish a report made under subsection (1).
 
-### 33. Service of documents[^key-a2443b07fcc1d144ef0622d9d25a8043]
+### 33. Service of documents[^c-a2443b07fcc1d144ef0622d9d25a8043]
 
 (1) If, having made reasonable inquiries, a person is unable to ascertain the name or address of a person to whom a notice relating to land is to be given under this Act, the notice may be given by—
 
@@ -624,7 +624,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 
 (4) Otherwise an order under this section is subject to the negative procedure.
 
-### 37. Crown application[^key-bd913be5e95e096b4f29363726834f0f]
+### 37. Crown application[^c-bd913be5e95e096b4f29363726834f0f]
 
 (1) No contravention by the Crown of any provision made by or under this Act makes the Crown criminally liable.
 
@@ -641,7 +641,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 (5) In subsection (3) “**appropriate authority**” means—
 
 - (a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners,
-- (b) in the case of any other land belonging to Her Majesty in right of the Crown, the office-holder in the Scottish Administration or, as the case may be, Government department having the management of the land or the relevant person[^key-22649e497f53d16065e08856f2345e32],
+- (b) in the case of any other land belonging to Her Majesty in right of the Crown, the office-holder in the Scottish Administration or, as the case may be, Government department having the management of the land or the relevant person[^c-22649e497f53d16065e08856f2345e32],
 - (c) in the case of land belonging to Her Majesty in right of Her private estates, a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
 - (d) in the case of land belonging to an office-holder in the Scottish Administration or to a Government department or held in trust for Her Majesty for the purposes of the Scottish Administration or a Government department, the office-holder or Government department.
 
@@ -652,7 +652,7 @@ A high hedge notice is binding on every person who is for the time being an owne
 - (a) it is for the Scottish Ministers to determine the appropriate authority, and
 - (b) the Scottish Ministers' decision is final.
 
-(8) In this section “**Government department**” means a department of the United Kingdom Government and “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land[^key-2bfe464a0519e58f023e523f70881585].
+(8) In this section “**Government department**” means a department of the United Kingdom Government and “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land[^c-2bfe464a0519e58f023e523f70881585].
 
 ### 38. Commencement
 
@@ -668,76 +668,76 @@ The short title of this Act is the High Hedges (Scotland) Act 2013.
 
 ## Annotations
 
-[^key-5b95ad32615da18e8c38d74241859f4a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/6/section/1) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-5b95ad32615da18e8c38d74241859f4a]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/6/section/1) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-7f626df1a00ae0c37a735c8cf5352a8f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/6/section/2) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-7f626df1a00ae0c37a735c8cf5352a8f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/6/section/2) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-037d26b55d377731c6916cfe765cb975]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/6/section/3) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-037d26b55d377731c6916cfe765cb975]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/6/section/3) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-ddc3fa2a8d39506e6b6ea443958e2c8c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/6/section/4) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-ddc3fa2a8d39506e6b6ea443958e2c8c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/6/section/4) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-0cc27d3c70a3596dd3b6c660b64a382a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/6/section/5) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-0cc27d3c70a3596dd3b6c660b64a382a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/6/section/5) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-4d5449713943fc1a9adf5fee3a612983]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/6/section/6) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-4d5449713943fc1a9adf5fee3a612983]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2013/6/section/6) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-5c688ee136c9c4a05d9af76b7c3f12aa]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/6/section/7) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-5c688ee136c9c4a05d9af76b7c3f12aa]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/6/section/7) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-1ab95bee8d2f621de285f3a4c823839f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2013/6/section/8) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-1ab95bee8d2f621de285f3a4c823839f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2013/6/section/8) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-429dfc5a7807a61e49d2bb3b0d5ea5f8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/6/section/9) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-429dfc5a7807a61e49d2bb3b0d5ea5f8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/6/section/9) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-de19e422be8d677d81d0adb449123fd5]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/6/section/10) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-de19e422be8d677d81d0adb449123fd5]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/6/section/10) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-80f224151c483e589f1740ac7f75e82e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2013/6/section/11) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-80f224151c483e589f1740ac7f75e82e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2013/6/section/11) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-02969c799263aad3a0093032ff71acf4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/6/section/12) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-02969c799263aad3a0093032ff71acf4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/6/section/12) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-5451c3f8f8f57942ddc8b4a593b05a6e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/6/section/13) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-5451c3f8f8f57942ddc8b4a593b05a6e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/6/section/13) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-09128d0ddb10d2eb40628159c567c8ea]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/6/section/14) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-09128d0ddb10d2eb40628159c567c8ea]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/6/section/14) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-17ed045d96f02def362870f20de6e2d3]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/6/section/15) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-17ed045d96f02def362870f20de6e2d3]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/6/section/15) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-00d024d0891780781c27ce1523eb7f0b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/6/section/16) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-00d024d0891780781c27ce1523eb7f0b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/6/section/16) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-0ed46dc46b4e00764825acdc80cd0075]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/6/section/17) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-0ed46dc46b4e00764825acdc80cd0075]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/6/section/17) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-88e4411e51a1adb3762913ab5eeffd36]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/6/section/18) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-88e4411e51a1adb3762913ab5eeffd36]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/6/section/18) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-300ace44063a1053606d5527ad82922c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/6/section/19) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-300ace44063a1053606d5527ad82922c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/6/section/19) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-cf30355c7f3d132a91ceda12cfb7dbfc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/6/section/20) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-cf30355c7f3d132a91ceda12cfb7dbfc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/6/section/20) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-32d2dcea1b31242c5bd7ae3a8c5ca40a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/6/section/21) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-32d2dcea1b31242c5bd7ae3a8c5ca40a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/6/section/21) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-96a89ac5221c8adb5fbe605990e3f437]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/6/section/22) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-96a89ac5221c8adb5fbe605990e3f437]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/6/section/22) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-908758fec616cf76a122c3a7bcb0f1e9]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/6/section/23) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-908758fec616cf76a122c3a7bcb0f1e9]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/6/section/23) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-07ca1807a0411d3b47372de7e713a804]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/6/section/24) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-07ca1807a0411d3b47372de7e713a804]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/6/section/24) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-febf2e40f8eba3d9fd9103d640948a32]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/6/section/25) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-febf2e40f8eba3d9fd9103d640948a32]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2013/6/section/25) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-bac960535a1c984f8d9038b040fae533]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/6/section/26) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-bac960535a1c984f8d9038b040fae533]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/6/section/26) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-f1262cb9d53d3ac0c52234ddfde50951]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2013/6/section/27) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-f1262cb9d53d3ac0c52234ddfde50951]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2013/6/section/27) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-9c6ae3d46163efca7ae3afd67abe5636]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/6/section/28) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-9c6ae3d46163efca7ae3afd67abe5636]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/6/section/28) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-ce71804787abbe54957d6b65da2c84b0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2013/6/section/29) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-ce71804787abbe54957d6b65da2c84b0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2013/6/section/29) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-0bf621aebd886c50c9df0b62375fd20a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/6/section/30) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-0bf621aebd886c50c9df0b62375fd20a]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2013/6/section/30) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-e2773901678dafbc0b2ce2d18b03848a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/6/section/31) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-e2773901678dafbc0b2ce2d18b03848a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2013/6/section/31) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-91ec4ef3547d31617a1b2d948dab969d]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/6/section/32) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-91ec4ef3547d31617a1b2d948dab969d]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2013/6/section/32) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-a2443b07fcc1d144ef0622d9d25a8043]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/6/section/33) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-a2443b07fcc1d144ef0622d9d25a8043]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/6/section/33) in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
 [^M_I_90e3e47f-7a8b-4299-9514-6f4b343d7274]: Commencement: S. 35 in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-bd913be5e95e096b4f29363726834f0f]: Commencement: S. 37 in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
+[^c-bd913be5e95e096b4f29363726834f0f]: Commencement: S. 37 in force at 1.4.2014 by [S.S.I. 2014/54](https://www.legislation.gov.uk/ssi/2014/54), [art. 2](https://www.legislation.gov.uk/ssi/2014/54/article/2)
 
-[^key-22649e497f53d16065e08856f2345e32]: Textual amendment: Words in [s. 37(5)(b)](https://www.legislation.gov.uk/asp/2013/6/section/37/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 45(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/45/a)
+[^c-22649e497f53d16065e08856f2345e32]: Textual amendment: Words in [s. 37(5)(b)](https://www.legislation.gov.uk/asp/2013/6/section/37/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 45(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/45/a)
 
-[^key-2bfe464a0519e58f023e523f70881585]: Textual amendment: Words in [s. 37(8)](https://www.legislation.gov.uk/asp/2013/6/section/37/8) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 45(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/45/b)
+[^c-2bfe464a0519e58f023e523f70881585]: Textual amendment: Words in [s. 37(8)](https://www.legislation.gov.uk/asp/2013/6/section/37/8) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 45(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/45/b)

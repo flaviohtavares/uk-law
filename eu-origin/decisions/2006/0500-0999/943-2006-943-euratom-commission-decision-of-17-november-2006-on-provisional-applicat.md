@@ -31,10 +31,10 @@ summary: ''
 
 of 17 November 2006 on Provisional Application of the Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project and of the Agreement on Privileges and Immunities of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project (notified under document number C(2006) 5557 (revoked)
 
-[^key-5316f833aa74088bae6e23b26755e186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5316f833aa74088bae6e23b26755e186]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5316f833aa74088bae6e23b26755e186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5316f833aa74088bae6e23b26755e186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5316f833aa74088bae6e23b26755e186]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-5316f833aa74088bae6e23b26755e186]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

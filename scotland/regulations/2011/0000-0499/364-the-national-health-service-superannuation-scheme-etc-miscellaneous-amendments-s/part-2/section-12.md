@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Amendment of regulation T3[^key-cf9b7af7f6c7dee5bdcd9d204edb9562]
+## 12. Amendment of regulation T3[^c-cf9b7af7f6c7dee5bdcd9d204edb9562]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ In regulation T3 (deduction of tax: further provisions)—
 
 ## Annotations
 
-[^key-cf9b7af7f6c7dee5bdcd9d204edb9562]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/364/regulation/12) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-cf9b7af7f6c7dee5bdcd9d204edb9562]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/364/regulation/12) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

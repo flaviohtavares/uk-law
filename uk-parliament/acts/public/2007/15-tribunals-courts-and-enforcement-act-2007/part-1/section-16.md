@@ -26,7 +26,7 @@ summary: ''
 
 (3) The tribunal may not grant permission (or leave) to make the application unless it considers that the applicant has a sufficient interest in the matter to which the application relates.
 
-(3C)[^key-2eaed26a73d8b9d1f154dfc4b1394986] In cases arising under the law of England and Wales, when considering whether to grant permission to make the application, the tribunal—
+(3C)[^c-2eaed26a73d8b9d1f154dfc4b1394986] In cases arising under the law of England and Wales, when considering whether to grant permission to make the application, the tribunal—
 
 - (a) may of its own initiative consider whether the outcome for the applicant would have been substantially different if the conduct complained of had not occurred, and
 - (b) must consider that question if the respondent asks it to do so.
@@ -54,7 +54,7 @@ summary: ''
 - (a) the application includes a claim for such an award arising from any matter to which the application relates, and
 - (b) the tribunal is satisfied that such an award would have been made by the High Court if the claim had been made in an action begun in the High Court by the applicant at the time of making the application.
 
-(6A)[^key-0ecd4fb681f495472bc8d3abdb6837b4] In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal as regards the making of an award under subsection (6) as they apply to the High Court as regards the making of an award under section 31(4) of the Senior Courts Act 1981.
+(6A)[^c-0ecd4fb681f495472bc8d3abdb6837b4] In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal as regards the making of an award under subsection (6) as they apply to the High Court as regards the making of an award under section 31(4) of the Senior Courts Act 1981.
 
 (6B) If the tribunal makes an award in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (6A), the tribunal must certify that the condition in section 31(2B) as so applied is satisfied.
 
@@ -72,6 +72,6 @@ the Court of Appeal may go on to decide the application for relief under section
 
 ## Annotations
 
-[^key-2eaed26a73d8b9d1f154dfc4b1394986]: Textual amendment: S. 16(3C)-(3G) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/5), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))
+[^c-2eaed26a73d8b9d1f154dfc4b1394986]: Textual amendment: S. 16(3C)-(3G) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(5)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/5), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))
 
-[^key-0ecd4fb681f495472bc8d3abdb6837b4]: Textual amendment: S. 16(6A)(6B) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/6), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))
+[^c-0ecd4fb681f495472bc8d3abdb6837b4]: Textual amendment: S. 16(6A)(6B) inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 84(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/6), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))

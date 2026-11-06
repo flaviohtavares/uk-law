@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Duty to act in accordance with strategy: decommissioning and alternatives[^key-93be6293a5fa50446b84e863742a3e10]
+## 73. Duty to act in accordance with strategy: decommissioning and alternatives[^c-93be6293a5fa50446b84e863742a3e10]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93be6293a5fa50446b84e863742a3e10]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2016/20/section/73) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-93be6293a5fa50446b84e863742a3e10]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2016/20/section/73) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

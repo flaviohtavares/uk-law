@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Vegetable Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+The Vegetable Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 29th November 2001
 
-[^key-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 1. Title, commencement and application[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Vegetable Seeds Regulations 1993[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 2. Amendment of the Vegetable Seeds Regulations 1993[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 3 (Interpretation)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 3. Regulation 3 (Interpretation)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 4 (Seeds to which the Vegetable Seeds Regulations 1993 apply)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 4. Regulation 4 (Seeds to which the Vegetable Seeds Regulations 1993 apply)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 5 (Marketing of Seeds)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 5. Regulation 5 (Marketing of Seeds)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Regulation 9 (Labelling of Packages)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 6. Regulation 9 (Labelling of Packages)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Schedule 6 (Labelling Requirements)[^key-2ba6599bffcc029d4df75c4a915a39e2]
+## 7. Schedule 6 (Labelling Requirements)[^c-2ba6599bffcc029d4df75c4a915a39e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ba6599bffcc029d4df75c4a915a39e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ba6599bffcc029d4df75c4a915a39e2]: Textual amendment: Regulations revoked (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/uksi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3035/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/3035/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/3035/regulation/5))
+[^c-2ba6599bffcc029d4df75c4a915a39e2]: Textual amendment: Regulations revoked (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/uksi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/3035/regulation/1/2), [32(1)(b)](https://www.legislation.gov.uk/uksi/2005/3035/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2005/3035/regulation/5))

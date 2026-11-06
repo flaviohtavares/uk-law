@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — DEFINITIONS RELATING TO RAILWAY HEREDITAMENTS[^key-5f7ea8f471632cfe870fc77000338b2e]
+## SCHEDULE 3 — DEFINITIONS RELATING TO RAILWAY HEREDITAMENTS[^c-5f7ea8f471632cfe870fc77000338b2e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Article 3.
 
 ## Annotations
 
-[^key-5f7ea8f471632cfe870fc77000338b2e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisi/1977/2157/schedule/3) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(d)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/d), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-5f7ea8f471632cfe870fc77000338b2e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisi/1977/2157/schedule/3) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(d)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/d), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)

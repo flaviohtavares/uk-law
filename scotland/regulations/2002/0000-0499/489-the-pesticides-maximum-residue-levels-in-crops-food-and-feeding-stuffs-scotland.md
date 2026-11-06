@@ -33,7 +33,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Amendment (No. 2) Regulations 2002 (revoked)[^key-c5f0577743441afcdd730fc8f93e8a93]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Amendment (No. 2) Regulations 2002 (revoked)[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 Made
 
@@ -47,46 +47,46 @@ Coming into force
 
 30th November 2002
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c5f0577743441afcdd730fc8f93e8a93]
+## 1. Citation and commencement[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2000[^key-c5f0577743441afcdd730fc8f93e8a93]
+## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2000[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-c5f0577743441afcdd730fc8f93e8a93]
+## 3. Consequential amendments[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-c5f0577743441afcdd730fc8f93e8a93]
+## SCHEDULE 1[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 Regulation 2(6)
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]
+[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-c5f0577743441afcdd730fc8f93e8a93]
+## SCHEDULE 2[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 Regulation 2(7)
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]
+[^c-c5f0577743441afcdd730fc8f93e8a93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5f0577743441afcdd730fc8f93e8a93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5f0577743441afcdd730fc8f93e8a93]: Textual amendment: Regulations revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2005/599/schedule/4)
+[^c-c5f0577743441afcdd730fc8f93e8a93]: Textual amendment: Regulations revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2005/599/schedule/4)

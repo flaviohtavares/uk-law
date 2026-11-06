@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^key-fe32cfd9723b4d4a11d95589e566af08]
+## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulations 2(1), 23(2), (5) and (6) and paragraphs 5(2), 6, 8(1) and (2), 9 and
 
 ## Annotations
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

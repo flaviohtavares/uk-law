@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.94. Debt payable at future time[^key-3002460226b6748bf8b360f8385431ed]
+## 4.94. Debt payable at future time[^c-3002460226b6748bf8b360f8385431ed]
 
 *Extent: E+W*
 
-A creditor may prove for a debt of which payment was not yet due on the date when the company went into liquidation, or, if the liquidation was immediately preceded by an administration, on the date that the company entered administration[^key-a1fb20d5c33d74ecab4706adaf254f53] but subject to Rule 11.13 in Part 11 of the Rules (adjustment of dividend where payment made before time).
+A creditor may prove for a debt of which payment was not yet due on the date when the company went into liquidation, or, if the liquidation was immediately preceded by an administration, on the date that the company entered administration[^c-a1fb20d5c33d74ecab4706adaf254f53] but subject to Rule 11.13 in Part 11 of the Rules (adjustment of dividend where payment made before time).
 
 ## Annotations
 
-[^key-3002460226b6748bf8b360f8385431ed]: Commencement: [Rule 4.94](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.94) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3002460226b6748bf8b360f8385431ed]: Commencement: [Rule 4.94](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.94) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-a1fb20d5c33d74ecab4706adaf254f53]: Textual amendment: Words in rule 4.94 inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [27](https://www.legislation.gov.uk/uksi/2005/527/rule/27) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-a1fb20d5c33d74ecab4706adaf254f53]: Textual amendment: Words in rule 4.94 inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [27](https://www.legislation.gov.uk/uksi/2005/527/rule/27) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

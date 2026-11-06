@@ -35,11 +35,11 @@ An Act to suspend restrictions on Sunday trading hours for the period of the Lon
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Suspension of restriction on Sunday trading hours[^key-b5bed2d2ec7dfc8f5bcb4cbf13ad55b1]
+## 1. Suspension of restriction on Sunday trading hours[^c-b5bed2d2ec7dfc8f5bcb4cbf13ad55b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Opting out of Sunday work[^key-23edda4a2ad4137d5858d18d303dbce8]
+## 2. Opting out of Sunday work[^c-23edda4a2ad4137d5858d18d303dbce8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,6 +60,6 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-b5bed2d2ec7dfc8f5bcb4cbf13ad55b1]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2012/12/section/1) repealed (10.9.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
+[^c-b5bed2d2ec7dfc8f5bcb4cbf13ad55b1]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2012/12/section/1) repealed (10.9.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
 
-[^key-23edda4a2ad4137d5858d18d303dbce8]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2012/12/section/2) repealed (10.9.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)
+[^c-23edda4a2ad4137d5858d18d303dbce8]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2012/12/section/2) repealed (10.9.2012) by [Sunday Trading (London Olympic Games and Paralympic Games) Act 2012 (c. 12)](https://www.legislation.gov.uk/ukpga/2012/12), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2012/12/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2012/12/section/3/1)

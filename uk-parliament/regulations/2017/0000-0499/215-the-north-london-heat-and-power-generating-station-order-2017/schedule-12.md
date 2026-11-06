@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-da3940838036a90f753c0e41757c9d1e]
+## SCHEDULE 12 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-da3940838036a90f753c0e41757c9d1e]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 26
 
 ## Annotations
 
-[^key-da3940838036a90f753c0e41757c9d1e]: Commencement: Sch. 12 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-da3940838036a90f753c0e41757c9d1e]: Commencement: Sch. 12 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

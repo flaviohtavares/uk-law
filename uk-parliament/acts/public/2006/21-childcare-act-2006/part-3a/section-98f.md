@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98F. Power of constable to assist in exercise of power of entry[^key-5d7282497b1b5c4b9f439be03c111e43]
+## 98F. Power of constable to assist in exercise of power of entry[^c-5d7282497b1b5c4b9f439be03c111e43]
 
 *Extent: E+W*
 
@@ -31,14 +31,14 @@ summary: ''
 
 (4) A warrant under this section must be addressed to, and executed by, a constable.
 
-(5)[^key-c092994b75dace4a424d1653ccbcde90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c092994b75dace4a424d1653ccbcde90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-52e31741b841395872c0024033d4dd8e] In this section “ **court** ” means the High Court or the family court.
+(6)[^c-52e31741b841395872c0024033d4dd8e] In this section “ **court** ” means the High Court or the family court.
 
 ## Annotations
 
-[^key-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
 
-[^key-c092994b75dace4a424d1653ccbcde90]: Textual amendment: S. 98F(5) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3) , [Sch. 11 para. 205(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/205/a) ; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) ) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956) , arts. 3-11 )
+[^c-c092994b75dace4a424d1653ccbcde90]: Textual amendment: S. 98F(5) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3) , [Sch. 11 para. 205(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/205/a) ; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) ) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956) , arts. 3-11 )
 
-[^key-52e31741b841395872c0024033d4dd8e]: Textual amendment: S. 98F(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3) , [Sch. 11 para. 205(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/205/b) ; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) ) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956) , arts. 3-11 )
+[^c-52e31741b841395872c0024033d4dd8e]: Textual amendment: S. 98F(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) , [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3) , [Sch. 11 para. 205(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/205/b) ; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954) , [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) ) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956) , arts. 3-11 )

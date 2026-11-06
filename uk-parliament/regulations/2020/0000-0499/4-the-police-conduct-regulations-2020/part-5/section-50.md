@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Remission of case[^key-226ea8b54bf56e6ebed2fea8c6157710]
+## 50. Remission of case[^c-226ea8b54bf56e6ebed2fea8c6157710]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226ea8b54bf56e6ebed2fea8c6157710]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-226ea8b54bf56e6ebed2fea8c6157710]: Commencement: Reg. 50 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

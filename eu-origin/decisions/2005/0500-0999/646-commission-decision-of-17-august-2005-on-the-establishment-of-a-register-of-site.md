@@ -37,39 +37,39 @@ on the establishment of a register of sites to form the intercalibration network
 
 (2005/646/EC) (revoked)
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab3652d618e144b26fc11b281b4d51b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ab3652d618e144b26fc11b281b4d51b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab3652d618e144b26fc11b281b4d51b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ab3652d618e144b26fc11b281b4d51b8]
+## ANNEX[^c-ab3652d618e144b26fc11b281b4d51b8]
 
-### SECTION 1 — Register of sites to form the intercalibration network[^key-ab3652d618e144b26fc11b281b4d51b8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### SECTION 2 — Geographic Intercalibration Groups[^key-ab3652d618e144b26fc11b281b4d51b8]
+### SECTION 1 — Register of sites to form the intercalibration network[^c-ab3652d618e144b26fc11b281b4d51b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]1.
+### SECTION 2 — Geographic Intercalibration Groups[^c-ab3652d618e144b26fc11b281b4d51b8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ab3652d618e144b26fc11b281b4d51b8]1.
 
 RIVERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]2.
+[^c-ab3652d618e144b26fc11b281b4d51b8]2.
 
 LAKES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]3.
+[^c-ab3652d618e144b26fc11b281b4d51b8]3.
 
 TRANSITIONAL AND COASTAL WATERS
 
@@ -77,4 +77,4 @@ TRANSITIONAL AND COASTAL WATERS
 
 ## Annotations
 
-[^key-ab3652d618e144b26fc11b281b4d51b8]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab3652d618e144b26fc11b281b4d51b8]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Deemed marine licences under the 2009 Act[^key-3a5d0942e53e36e2993e517e25afe446]
+## 30. Deemed marine licences under the 2009 Act[^c-3a5d0942e53e36e2993e517e25afe446]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a5d0942e53e36e2993e517e25afe446]: Commencement: Art. 30 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-3a5d0942e53e36e2993e517e25afe446]: Commencement: Art. 30 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Marginal relief[^key-faf7af9127fa3de4fe68c929edf60efc]
+## 19. Marginal relief[^c-faf7af9127fa3de4fe68c929edf60efc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faf7af9127fa3de4fe68c929edf60efc]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2010/4/part/3) omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/4)
+[^c-faf7af9127fa3de4fe68c929edf60efc]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2010/4/part/3) omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/4)

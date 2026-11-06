@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Meaning of “contribution order”, “contributory” and “the specified percentage”[^key-f3a2b7c9b2c1f40e7c52a8174518a36f]
+## 49. Meaning of “contribution order”, “contributory” and “the specified percentage”[^c-f3a2b7c9b2c1f40e7c52a8174518a36f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Act—
 
 ## Annotations
 
-[^key-f3a2b7c9b2c1f40e7c52a8174518a36f]: Commencement: S. 49 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-f3a2b7c9b2c1f40e7c52a8174518a36f]: Commencement: S. 49 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

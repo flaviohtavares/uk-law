@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Publication by providers of details of enforcement action[^key-e0e1b3fcf7fffe376f949bcf34c72d19][^key-0ae878c00ed28573d57ba41fd394e3af]
+## 150. Publication by providers of details of enforcement action[^c-e0e1b3fcf7fffe376f949bcf34c72d19][^c-0ae878c00ed28573d57ba41fd394e3af]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e1b3fcf7fffe376f949bcf34c72d19]: Commencement: S. 150 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e0e1b3fcf7fffe376f949bcf34c72d19]: Commencement: S. 150 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0ae878c00ed28573d57ba41fd394e3af]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2023/50/section/150) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-0ae878c00ed28573d57ba41fd394e3af]: Commencement: [S. 150](https://www.legislation.gov.uk/ukpga/2023/50/section/150) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

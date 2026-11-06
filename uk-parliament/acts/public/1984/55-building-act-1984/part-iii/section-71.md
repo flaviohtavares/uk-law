@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Entrances, exits etc. to be required in certain cases.[^key-a559f2997c3b63f46927f562a9c86d2e]
+## 71. Entrances, exits etc. to be required in certain cases.[^c-a559f2997c3b63f46927f562a9c86d2e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a559f2997c3b63f46927f562a9c86d2e]: Textual amendment: S. 71 repealed (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 33(4)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/33/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-a559f2997c3b63f46927f562a9c86d2e]: Textual amendment: S. 71 repealed (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 33(4)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/33/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))

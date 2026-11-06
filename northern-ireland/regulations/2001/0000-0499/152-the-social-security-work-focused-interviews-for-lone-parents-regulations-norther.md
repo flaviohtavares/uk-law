@@ -45,7 +45,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 2A(1), (3)(*c*) to (*f*), (4), (5)(*a*) and (*b*), (6), (7) and (8) and 2B(2), (6) and (7) and 165(4) to (6) of the Social Security Administration Act 1992[^f00001], and now vested in it, and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6a2c0325db445436f9e426e2bc85f05d]
+## 1. Citation, commencement and interpretation[^c-6a2c0325db445436f9e426e2bc85f05d]
 
 (1) These Regulations may be cited as the Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001 and shall come into operation—
 
@@ -88,7 +88,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Requirement for lone parents claiming or entitled to income support to take part in an interview[^key-2dad931845cd7fa204e141be3cd2571e]
+## 2. Requirement for lone parents claiming or entitled to income support to take part in an interview[^c-2dad931845cd7fa204e141be3cd2571e]
 
 (1) Subject to paragraph (2) and regulations 4 to 6, a lone parent who—
 
@@ -110,7 +110,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) An officer may determine that an interview is to take place in the home of a lone parent where it would in the opinion of the officer be unreasonable to expect that person to attend elsewhere because that person’s personal circumstances are such that attending elsewhere would cause him undue inconvenience or endanger his health.
 
-## 3. Taking part in an interview[^key-097c7e5b9dd6114c0de48b121d5cc7a4]
+## 3. Taking part in an interview[^c-097c7e5b9dd6114c0de48b121d5cc7a4]
 
 (1) An officer shall determine whether a lone parent has taken part in an interview.
 
@@ -126,7 +126,7 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (vi) any medical condition which, in the opinion of that person, puts him at a disadvantage in obtaining employment; and
   - (vii) any caring or childcare responsibilities he has.
 
-## 4. Circumstances where requirement to take part in an interview does not apply[^key-b38f93ad7f943fc174becf46b37d9fc9]
+## 4. Circumstances where requirement to take part in an interview does not apply[^c-b38f93ad7f943fc174becf46b37d9fc9]
 
 Regulation 2 shall not apply where the lone parent—
 
@@ -134,7 +134,7 @@ Regulation 2 shall not apply where the lone parent—
 - (b) has attained the age of 60;
 - (c) has not attained the age of 18.
 
-## 5. Deferment of requirement to take part in an interview[^key-395288dd64dd1dfb7768ee4c042f0c40]
+## 5. Deferment of requirement to take part in an interview[^c-395288dd64dd1dfb7768ee4c042f0c40]
 
 (1) A requirement by virtue of these Regulations to take part in an interview shall not apply to a person until a date determined by an officer where he determines that an interview would not until that time be—
 
@@ -143,7 +143,7 @@ Regulation 2 shall not apply where the lone parent—
 
 (2) Except for the purpose of regulation 2, where an officer has made a decision under paragraph (1), the person to whom that decision relates shall be treated for the purposes of any claim for, or entitlement to, income support as having complied with the requirement to take part in an interview until an officer decides whether that person took part in the interview which had been deferred under paragraph (1).
 
-## 6. Waiver[^key-c4ace71567367ff1174e3c972d97024d]
+## 6. Waiver[^c-c4ace71567367ff1174e3c972d97024d]
 
 (1) A requirement imposed by these Regulations to take part in an interview shall not apply if an officer determines that an interview would not be—
 
@@ -157,7 +157,7 @@ Regulation 2 shall not apply where the lone parent—
 
 as having complied with that requirement.
 
-## 7. Consequence of failure to take part in a work-focused interview[^key-b44cc490ad672391ccf87539c7f3ebf3]
+## 7. Consequence of failure to take part in a work-focused interview[^c-b44cc490ad672391ccf87539c7f3ebf3]
 
 (1) Subject to paragraphs (2) and (5) and regulations 5 and 6, the consequences specified in paragraphs (3) and (4) ensue if a person does not—
 
@@ -192,7 +192,7 @@ paragraph (1)(*b*) shall apply with the modification that for “5 working days 
 
 (6) For the avoidance of doubt, a person who is regarded as not having made a claim for income support because he failed to take part in an interview shall be required to make a new claim for income support in order to establish entitlement to that benefit.
 
-## 8. Reduction of income support[^key-68f1a5ce602c2bf6836f94880a3a9a93]
+## 8. Reduction of income support[^c-68f1a5ce602c2bf6836f94880a3a9a93]
 
 (1) Subject to paragraphs (2) and (3), any payment of income support which falls to be made to a person after the date on which an officer decided under these Regulations that that person had not—
 
@@ -211,7 +211,7 @@ in an interview shall be reduced as from the first day of the next benefit week 
 
 (4) Where the rate of income support payable to a person changes, the rules set out above for a reduction in the benefit payable shall be applied to the new rates and any adjustment to the reduction shall take effect from the beginning of the first benefit week to commence for that person following the change.
 
-## 9. Appeals[^key-cd71f9df4ea6810fa5ead193e6987fc3]
+## 9. Appeals[^c-cd71f9df4ea6810fa5ead193e6987fc3]
 
 (1) This regulation applies to any relevant decision made under these Regulations or any decision under Article 11 of the 1998 Order (decisions superseding earlier decisions) superseding such a decision.
 
@@ -250,7 +250,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); sections 2A and 2B were inserted by Article 54 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147) (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-6a2c0325db445436f9e426e2bc85f05d]: Commencement: Reg. 1 comes into force in accordance with reg. 1(1)
+[^c-6a2c0325db445436f9e426e2bc85f05d]: Commencement: Reg. 1 comes into force in accordance with reg. 1(1)
 
 [^f00002]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
@@ -258,18 +258,18 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2dad931845cd7fa204e141be3cd2571e]: Commencement: Reg. 2 comes into force in accordance with reg. 1(1)
+[^c-2dad931845cd7fa204e141be3cd2571e]: Commencement: Reg. 2 comes into force in accordance with reg. 1(1)
 
-[^key-097c7e5b9dd6114c0de48b121d5cc7a4]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)
+[^c-097c7e5b9dd6114c0de48b121d5cc7a4]: Commencement: Reg. 3 comes into force in accordance with reg. 1(1)
 
-[^key-b38f93ad7f943fc174becf46b37d9fc9]: Commencement: Reg. 4 comes into force in accordance with reg. 1(1)
+[^c-b38f93ad7f943fc174becf46b37d9fc9]: Commencement: Reg. 4 comes into force in accordance with reg. 1(1)
 
-[^key-395288dd64dd1dfb7768ee4c042f0c40]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)
+[^c-395288dd64dd1dfb7768ee4c042f0c40]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)
 
-[^key-c4ace71567367ff1174e3c972d97024d]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)
+[^c-c4ace71567367ff1174e3c972d97024d]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)
 
-[^key-b44cc490ad672391ccf87539c7f3ebf3]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)
+[^c-b44cc490ad672391ccf87539c7f3ebf3]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)
 
-[^key-68f1a5ce602c2bf6836f94880a3a9a93]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)
+[^c-68f1a5ce602c2bf6836f94880a3a9a93]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)
 
-[^key-cd71f9df4ea6810fa5ead193e6987fc3]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)
+[^c-cd71f9df4ea6810fa5ead193e6987fc3]: Commencement: Reg. 9 comes into force in accordance with reg. 1(1)

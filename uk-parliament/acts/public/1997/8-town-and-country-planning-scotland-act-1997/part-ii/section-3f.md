@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3F. Greenhouse gas emissions policies[^key-ac6275bedea60548b81b15315fbd3148]
+## 3F. Greenhouse gas emissions policies[^c-ac6275bedea60548b81b15315fbd3148]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac6275bedea60548b81b15315fbd3148]: Textual amendment: S. 3F repealed (1.11.2025) by [The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283)](https://www.legislation.gov.uk/ssi/2025/283), [arts. 1](https://www.legislation.gov.uk/ssi/2025/283/article/1), [2](https://www.legislation.gov.uk/ssi/2025/283/article/2)
+[^c-ac6275bedea60548b81b15315fbd3148]: Textual amendment: S. 3F repealed (1.11.2025) by [The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283)](https://www.legislation.gov.uk/ssi/2025/283), [arts. 1](https://www.legislation.gov.uk/ssi/2025/283/article/1), [2](https://www.legislation.gov.uk/ssi/2025/283/article/2)

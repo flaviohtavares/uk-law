@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Treatment of student loans[^key-d8aeed99e29d46c1d3c1adb98d4cc9b7]
+## 45. Treatment of student loans[^c-d8aeed99e29d46c1d3c1adb98d4cc9b7]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d8aeed99e29d46c1d3c1adb98d4cc9b7]: Commencement: Reg. 45 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-d8aeed99e29d46c1d3c1adb98d4cc9b7]: Commencement: Reg. 45 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00053]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506); to which there are no relevant amendments
 

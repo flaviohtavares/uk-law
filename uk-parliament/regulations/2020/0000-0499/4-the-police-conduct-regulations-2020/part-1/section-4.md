@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Application[^key-6c44d95fd23bc20ad6c86cff1900238e]
+## 4. Application[^c-6c44d95fd23bc20ad6c86cff1900238e]
 
 *Extent: E+W*
 
 (1) Subject to paragraph (6), these Regulations apply where an allegation comes to the attention of an appropriate authority which indicates that the conduct of a police officer may amount to misconduct, gross misconduct or practice requiring improvement.
 
-(2) Subject to paragraph (6) and except[^key-e1b90d35e0bf56f9598063c82de1da97] as set out in paragraph (8), these Regulations also apply, with the modifications set out in Schedule 1, where—
+(2) Subject to paragraph (6) and except[^c-e1b90d35e0bf56f9598063c82de1da97] as set out in paragraph (8), these Regulations also apply, with the modifications set out in Schedule 1, where—
 
 - (a) an allegation comes to the attention of a relevant body which indicates that the conduct of a person who at the time of the alleged conduct was a police officer (“P”) may amount to gross misconduct [^c23960631], and
 - (b) condition A, B or C is satisfied.
@@ -69,9 +69,9 @@ these Regulations apply regardless of when the complaint or matter came to the a
 
 ## Annotations
 
-[^key-6c44d95fd23bc20ad6c86cff1900238e]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-6c44d95fd23bc20ad6c86cff1900238e]: Commencement: Reg. 4 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-e1b90d35e0bf56f9598063c82de1da97]: Textual amendment: Words in reg. 4(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2025/558/regulation/7) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-e1b90d35e0bf56f9598063c82de1da97]: Textual amendment: Words in reg. 4(2) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2025/558/regulation/7) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
 [^c23960631]: Marginal citation: [Section 29(7)(b)](https://www.legislation.gov.uk/uksi/2020/4/section/29/7/b) of the Policing and Crime Act 2017 provides that regulations made under section 50(1A) and 51(2B) of the 1996 Act, as inserted by section 29(2) and (3) of the Policing and Crime Act 2017, may, in respect of a person who ceased to be a police officer after section 29(2) and (3) of the 2017 Act came into force but whose alleged misconduct, inefficiency or ineffectiveness took place before that date, only make provision if the alleged misconduct, inefficiency or ineffectiveness is such that if proved there could be a finding in disciplinary proceedings that the person would have been dismissed had they still been a police officer. Where there is an indication that the person's conduct amounts to gross misconduct, the person will be at risk of dismissal if the allegation is proved.
 

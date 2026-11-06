@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Temporary stopping up and restriction of use of streets[^key-6d55087608646799790c474e351123dd]
+## 15. Temporary stopping up and restriction of use of streets[^c-6d55087608646799790c474e351123dd]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d55087608646799790c474e351123dd]: Commencement: Art. 15 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-6d55087608646799790c474e351123dd]: Commencement: Art. 15 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

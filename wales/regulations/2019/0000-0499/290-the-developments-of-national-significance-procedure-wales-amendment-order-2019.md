@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Developments of National Significance (Procedure) (Wales) (Amendment) Order 2019 (revoked)[^key-735359b6c4688e2662893f63357120de]
+The Developments of National Significance (Procedure) (Wales) (Amendment) Order 2019 (revoked)[^c-735359b6c4688e2662893f63357120de]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 1 April 2019
 
-[^key-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-735359b6c4688e2662893f63357120de]
+## 1. Title, commencement, application and interpretation[^c-735359b6c4688e2662893f63357120de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Procedure Order[^key-735359b6c4688e2662893f63357120de]
+## 2. Amendments to the Procedure Order[^c-735359b6c4688e2662893f63357120de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Substitution of Schedule 1 to the Procedure Order[^key-735359b6c4688e2662893f63357120de]
+## SCHEDULE 1 — Substitution of Schedule 1 to the Procedure Order[^c-735359b6c4688e2662893f63357120de]
 
 Article 2(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Substitution of Schedule 2 to the Procedure Order[^key-735359b6c4688e2662893f63357120de]
+## SCHEDULE 2 — Substitution of Schedule 2 to the Procedure Order[^c-735359b6c4688e2662893f63357120de]
 
 Article 2(6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Duty to consult before the grant of planning permission[^key-735359b6c4688e2662893f63357120de]
+## SCHEDULE 3 — Duty to consult before the grant of planning permission[^c-735359b6c4688e2662893f63357120de]
 
 Article 2(7)
 
-**1.**[^key-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-735359b6c4688e2662893f63357120de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-735359b6c4688e2662893f63357120de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-735359b6c4688e2662893f63357120de]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2019/290) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/i) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))
+[^c-735359b6c4688e2662893f63357120de]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2019/290) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/i) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))

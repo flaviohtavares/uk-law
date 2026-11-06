@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Justices of the peace[^key-a633c738e1087656fffad4bd4f806b75]
+## 5. Justices of the peace[^c-a633c738e1087656fffad4bd4f806b75]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a633c738e1087656fffad4bd4f806b75]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2015/9/section/5) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/387/article/2/e) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a633c738e1087656fffad4bd4f806b75]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2015/9/section/5) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/387/article/2/e) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

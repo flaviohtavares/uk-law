@@ -51,7 +51,7 @@ Made
 
 The Lord Chancellor and Secretary of State makes this Order in exercise of the powers conferred by the Criminal Justice and Immigration Act 2008[^f00001] on the Lord Chancellor by section 153(4), and the Secretary of State by section 153(7) and (8), of that Act.
 
-## 1. Citation and interpretation[^key-adebaeb54436350e64d4c0b3e2fa8385]
+## 1. Citation and interpretation[^c-adebaeb54436350e64d4c0b3e2fa8385]
 
 (1) This Order may be cited as the Criminal Justice and Immigration Act 2008 (Commencement No. 2 and Transitional and Saving Provisions) Order 2008.
 
@@ -62,7 +62,7 @@ The Lord Chancellor and Secretary of State makes this Order in exercise of the p
 - “the 2003 Act” means the Criminal Justice Act 2003[^f00004];
 - “the 2008 Act” means the Criminal Justice and Immigration Act 2008.
 
-## 2. Appointed dates[^key-73221d44163dda8fd0ffa87283d3e8c9]
+## 2. Appointed dates[^c-73221d44163dda8fd0ffa87283d3e8c9]
 
 (1) The date appointed for the coming into force of the provisions of the 2008 Act specified in Schedule 1, is 14 July 2008.
 
@@ -84,101 +84,101 @@ Ministry of Justice
 
 Article 2(1)
 
-**1.**[^key-a0c70b1d2f2dd16a14cbb0f546ef195b] Section 10 (Effect of restriction on imposing community sentences).
+**1.**[^c-a0c70b1d2f2dd16a14cbb0f546ef195b] Section 10 (Effect of restriction on imposing community sentences).
 
-**2.**[^key-3c4c1052e7b86533f05a0c10e4915ff8] Section 11(1) (Restriction on power to make a community order).
+**2.**[^c-3c4c1052e7b86533f05a0c10e4915ff8] Section 11(1) (Restriction on power to make a community order).
 
-**3.**[^key-3fb77e17c4dacd27f595cb19c180cc41] Section 12 (Pre-sentence reports).
+**3.**[^c-3fb77e17c4dacd27f595cb19c180cc41] Section 12 (Pre-sentence reports).
 
-**4.**[^key-3e17a777f3c4861952586e515252e266] Section 13 (Sentences of imprisonment for public protection) and Schedule 5 (Offences specified for the purposes of sections 225(3A) and 227(2A) of the Criminal Justice Act 2003).
+**4.**[^c-3e17a777f3c4861952586e515252e266] Section 13 (Sentences of imprisonment for public protection) and Schedule 5 (Offences specified for the purposes of sections 225(3A) and 227(2A) of the Criminal Justice Act 2003).
 
-**5.**[^key-f55642bc348ebb3d22e47357d6816b9d] Section 14 (Sentences of detention for public protection).
+**5.**[^c-f55642bc348ebb3d22e47357d6816b9d] Section 14 (Sentences of detention for public protection).
 
-**6.**[^key-97e32b2cf7de674899c5cde621c6b80a] Section 15 (Extended sentences for certain violent or sexual offences: persons 18 or over).
+**6.**[^c-97e32b2cf7de674899c5cde621c6b80a] Section 15 (Extended sentences for certain violent or sexual offences: persons 18 or over).
 
-**7.**[^key-898caa65b79ae9440da388bc4ba6ddb5] Section 16 (Extended sentences for certain violent or sexual offences: persons under 18).
+**7.**[^c-898caa65b79ae9440da388bc4ba6ddb5] Section 16 (Extended sentences for certain violent or sexual offences: persons under 18).
 
-**8.**[^key-e9193e1c412cfd369d08eca00acc7a8d] Section 17 (The assessment of dangerousness).
+**8.**[^c-e9193e1c412cfd369d08eca00acc7a8d] Section 17 (The assessment of dangerousness).
 
-**9.**[^key-8bbc5df3ef915a7c5f9616b3ee3c80bb] Section 18 (Further amendments relating to sentences for public protection).
+**9.**[^c-8bbc5df3ef915a7c5f9616b3ee3c80bb] Section 18 (Further amendments relating to sentences for public protection).
 
-**10.**[^key-36556869feac60841c2f0d61be62b806] Section 20 (Consecutive terms of imprisonment).
+**10.**[^c-36556869feac60841c2f0d61be62b806] Section 20 (Consecutive terms of imprisonment).
 
-**11.**[^key-14b90a844db1af02a926ac07dbd87ce2] Section 24 (Minimum conditions for early release under section 246(1) of the Criminal Justice Act 2003).
+**11.**[^c-14b90a844db1af02a926ac07dbd87ce2] Section 24 (Minimum conditions for early release under section 246(1) of the Criminal Justice Act 2003).
 
-**12.**[^key-86fa30156d5e156561edc001b0fd0386] Section 25 (Release on licence under Criminal Justice Act 2003 of prisoners serving extended sentences).
+**12.**[^c-86fa30156d5e156561edc001b0fd0386] Section 25 (Release on licence under Criminal Justice Act 2003 of prisoners serving extended sentences).
 
-**13.**[^key-41c625cdce8b925f00228e63c57c9907] Section 27 (Application of section 35(1) of the Criminal Justice Act 1991[^f00005] to prisoners liable to removal from the UK).
+**13.**[^c-41c625cdce8b925f00228e63c57c9907] Section 27 (Application of section 35(1) of the Criminal Justice Act 1991[^f00005] to prisoners liable to removal from the UK).
 
-**14.**[^key-d81161a6958e4615b2aee7edd6d0c73e] Section 28 (Release of fine defaulters and contemnors under Criminal Justice Act 1991).
+**14.**[^c-d81161a6958e4615b2aee7edd6d0c73e] Section 28 (Release of fine defaulters and contemnors under Criminal Justice Act 1991).
 
-**15.**[^key-85c7039bd56d8eb3d72949f847f95923] Section 29 (Release of prisoners after recall) save insofar as subsection (2) inserts subsections (9) and (10) of section 255A of the 2003 Act.
+**15.**[^c-85c7039bd56d8eb3d72949f847f95923] Section 29 (Release of prisoners after recall) save insofar as subsection (2) inserts subsections (9) and (10) of section 255A of the 2003 Act.
 
-**16.**[^key-aa47465442999d39be66857115a596db] Section 30 (Further review and release of prisoners after recall).
+**16.**[^c-aa47465442999d39be66857115a596db] Section 30 (Further review and release of prisoners after recall).
 
-**17.**[^key-4d96b3cbd2e82fbb609eab7aeba49dd9] Section 31 (Recall of life prisoners: abolition of requirement for recommendation by Parole Board).
+**17.**[^c-4d96b3cbd2e82fbb609eab7aeba49dd9] Section 31 (Recall of life prisoners: abolition of requirement for recommendation by Parole Board).
 
-**18.**[^key-e0ef67369ac438ab5049b6b4d274269a] Section 32 (Release of prisoners recalled following release under Criminal Justice Act 1991).
+**18.**[^c-e0ef67369ac438ab5049b6b4d274269a] Section 32 (Release of prisoners recalled following release under Criminal Justice Act 1991).
 
-**19.**[^key-5daa8fa4bb3325a6e1b5f8a361a85668] Section 38 (Imposition of unpaid work requirement for breach of community order).
+**19.**[^c-5daa8fa4bb3325a6e1b5f8a361a85668] Section 38 (Imposition of unpaid work requirement for breach of community order).
 
-**20.**[^key-144e295dc257061aac1ab1be07497381] Section 40 (Power to impose attendance centre requirement on fine defaulter).
+**20.**[^c-144e295dc257061aac1ab1be07497381] Section 40 (Power to impose attendance centre requirement on fine defaulter).
 
-**21.**[^key-538c32d1e635f2bcf47b634ebc5da5b9] Section 42 (Power to dismiss certain appeals following references by the CCRC: England and Wales).
+**21.**[^c-538c32d1e635f2bcf47b634ebc5da5b9] Section 42 (Power to dismiss certain appeals following references by the CCRC: England and Wales).
 
-**22.**[^key-60428cf1aa78fa5b3bbd8171ff472a67] Section 43 (Power to dismiss certain appeals following references by the CCRC: Northern Ireland).
+**22.**[^c-60428cf1aa78fa5b3bbd8171ff472a67] Section 43 (Power to dismiss certain appeals following references by the CCRC: Northern Ireland).
 
-**23.**[^key-370e719eaa25d4ec04e5e4d7c5e2deb0] Section 44 (Determination of prosecution appeals: England and Wales).
+**23.**[^c-370e719eaa25d4ec04e5e4d7c5e2deb0] Section 44 (Determination of prosecution appeals: England and Wales).
 
-**24.**[^key-a9846d5537ebe325980d48c06d2e0523] Section 45 (Determination of prosecution appeals: Northern Ireland).
+**24.**[^c-a9846d5537ebe325980d48c06d2e0523] Section 45 (Determination of prosecution appeals: Northern Ireland).
 
-**25.**[^key-b2e25a391e17d6271ff7758ad5f84a39] Section 46(1) and (3) (Review of sentence on reference by Attorney General).
+**25.**[^c-b2e25a391e17d6271ff7758ad5f84a39] Section 46(1) and (3) (Review of sentence on reference by Attorney General).
 
-**26.**[^key-6070a2a234360ca3c91caee8330e77be] Section 47 (Further amendments relating to appeals in criminal cases) and Schedule 8 (Appeals in criminal cases).
+**26.**[^c-6070a2a234360ca3c91caee8330e77be] Section 47 (Further amendments relating to appeals in criminal cases) and Schedule 8 (Appeals in criminal cases).
 
-**27.**[^key-565bcaaf679c3c727b08adca276e0af7] Section 52 (Bail for summary offences and certain other offences to be tried summarily) and Schedule 12 (Bail for summary offences and certain other offences to be tried summarily).
+**27.**[^c-565bcaaf679c3c727b08adca276e0af7] Section 52 (Bail for summary offences and certain other offences to be tried summarily) and Schedule 12 (Bail for summary offences and certain other offences to be tried summarily).
 
-**28.**[^key-7cbbc7e916d9ffc722ea863398c2e846] Section 54 (Trial or sentencing in absence of accused in magistrates’ courts).
+**28.**[^c-7cbbc7e916d9ffc722ea863398c2e846] Section 54 (Trial or sentencing in absence of accused in magistrates’ courts).
 
-**29.**[^key-f520a70054403b35eb2cf4c85bddb3c4] Section 55 (Extension of powers of non-legal staff).
+**29.**[^c-f520a70054403b35eb2cf4c85bddb3c4] Section 55 (Extension of powers of non-legal staff).
 
-**30.**[^key-6d3781d3edaf5947f690ca2046fd5aa6] Section 56 (Provisional grant of right to representation).
+**30.**[^c-6d3781d3edaf5947f690ca2046fd5aa6] Section 56 (Provisional grant of right to representation).
 
-**31.**[^key-4d64ad2dcda59f71e3daeef723390047] Section 57 (Disclosure of information to enable assessment of financial eligibility).
+**31.**[^c-4d64ad2dcda59f71e3daeef723390047] Section 57 (Disclosure of information to enable assessment of financial eligibility).
 
-**32.**[^key-9b5c9270ee0a3df983af624456ed2bfd] Section 58 (Pilot schemes).
+**32.**[^c-9b5c9270ee0a3df983af624456ed2bfd] Section 58 (Pilot schemes).
 
-**33.**[^key-208102f8707a7a4244aba255dd1f054a] Section 59 (SFO’s pre-investigation powers in relation to bribery and corruption: foreign officers etc.).
+**33.**[^c-208102f8707a7a4244aba255dd1f054a] Section 59 (SFO’s pre-investigation powers in relation to bribery and corruption: foreign officers etc.).
 
-**34.**[^key-9b3d7666383148ed60e7c77a81a5d178] Section 72 (Offences committed outside the United Kingdom).
+**34.**[^c-9b3d7666383148ed60e7c77a81a5d178] Section 72 (Offences committed outside the United Kingdom).
 
-**35.**[^key-180936f4ad299a04e645b68ca5d726cf] Section 73 (Grooming and adoption) and Schedule 15 (Sexual offences: grooming and adoption) to the extent not already in force.
+**35.**[^c-180936f4ad299a04e645b68ca5d726cf] Section 73 (Grooming and adoption) and Schedule 15 (Sexual offences: grooming and adoption) to the extent not already in force.
 
-**36.**[^key-c8a41c62aebc7a2998ad33494ca81b3c] Section 76 (Reasonable force for purposes of self-defence etc.).
+**36.**[^c-c8a41c62aebc7a2998ad33494ca81b3c] Section 76 (Reasonable force for purposes of self-defence etc.).
 
-**37.**[^key-7f6dacd148f2b89a3d0955e258af0eb0] Section 93 (Delivery of prisoner to place abroad for purposes of transfer out of the United Kingdom).
+**37.**[^c-7f6dacd148f2b89a3d0955e258af0eb0] Section 93 (Delivery of prisoner to place abroad for purposes of transfer out of the United Kingdom).
 
-**38.**[^key-85584a8fd21baf4c909ad5b14bc90e5c] Section 94 (Issue of warrant transferring responsibility for detention and release of an offender to or from the relevant Minister).
+**38.**[^c-85584a8fd21baf4c909ad5b14bc90e5c] Section 94 (Issue of warrant transferring responsibility for detention and release of an offender to or from the relevant Minister).
 
-**39.**[^key-6065cb581bb5dc51f3f942fe89ac5dfe] Section 95 (Powers to arrest and detain persons believed to fall within section 4A(3) of Repatriation of Prisoners Act 1984[^f00006]).
+**39.**[^c-6065cb581bb5dc51f3f942fe89ac5dfe] Section 95 (Powers to arrest and detain persons believed to fall within section 4A(3) of Repatriation of Prisoners Act 1984[^f00006]).
 
-**40.**[^key-4dea9354f913696fad3295a743d8dd88] Section 96 (Amendments relating to Scotland).
+**40.**[^c-4dea9354f913696fad3295a743d8dd88] Section 96 (Amendments relating to Scotland).
 
-**41.**[^key-070a20b983437705fc80a62856dee377] Section 97 (Power to transfer functions under Crime (International Co-operation) Act 2003[^f00007] in relation to direct taxation).
+**41.**[^c-070a20b983437705fc80a62856dee377] Section 97 (Power to transfer functions under Crime (International Co-operation) Act 2003[^f00007] in relation to direct taxation).
 
-**42.**[^key-0ab387cf8d2be8d4abb7b1b63566dbce] Section 126(1) (Police misconduct and performance procedures) insofar as it relates to the provision specified in paragraph 47.
+**42.**[^c-0ab387cf8d2be8d4abb7b1b63566dbce] Section 126(1) (Police misconduct and performance procedures) insofar as it relates to the provision specified in paragraph 47.
 
-**43.**[^key-91df20bb40851e3a7fea79f53f3949c4] Section 140 (Disclosure of information about convictions etc. of child sex offenders to members of the public) and Schedule 24 (Section 327A of the Criminal Justice Act 2003: meaning of “child sex offence”).
+**43.**[^c-91df20bb40851e3a7fea79f53f3949c4] Section 140 (Disclosure of information about convictions etc. of child sex offenders to members of the public) and Schedule 24 (Section 327A of the Criminal Justice Act 2003: meaning of “child sex offence”).
 
-**44.**[^key-2d68650e32553a7c23f08f94128b0ee1] Section 141 (Sexual offences prevention orders: relevant sexual offences).
+**44.**[^c-2d68650e32553a7c23f08f94128b0ee1] Section 141 (Sexual offences prevention orders: relevant sexual offences).
 
-**45.**[^key-b02879796372f14faed150ff52fa03a9] Section 142 (Notification requirements: prescribed information).
+**45.**[^c-b02879796372f14faed150ff52fa03a9] Section 142 (Notification requirements: prescribed information).
 
-**46.**[^key-9a34b99ac050015fb9ad4829f9b455b7] Sections 148(1) and (2) and 149 insofar as they relate to the provisions specified in paragraphs 48, 49 and 50 respectively.
+**46.**[^c-9a34b99ac050015fb9ad4829f9b455b7] Sections 148(1) and (2) and 149 insofar as they relate to the provisions specified in paragraphs 48, 49 and 50 respectively.
 
-**47.**[^key-c9eae76345828cd0ad0b10fb769f05dc] In Schedule 22 (Police misconduct and performance procedures), paragraph 6 (Police Advisory Board).
+**47.**[^c-c9eae76345828cd0ad0b10fb769f05dc] In Schedule 22 (Police misconduct and performance procedures), paragraph 6 (Police Advisory Board).
 
-**48.**[^key-63f586dc4658c582268bd537864b6551] In Schedule 26 (Minor and consequential amendments)—
+**48.**[^c-63f586dc4658c582268bd537864b6551] In Schedule 26 (Minor and consequential amendments)—
 
 - (a) paragraphs 2(1), (2), (4), (5) and (6), 59, 64, 65, 66, 67, 68, 69, 71, 72, 73, 74, 75 and 76 (2003 Act),
 - (b) paragraph 3 (Prison Act [1952 (c.52)](https://www.legislation.gov.uk/ukpga/1952/52)),
@@ -202,9 +202,9 @@ Article 2(1)
 - (t) paragraph 80 (Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16)),
 - (u) paragraph 81 (Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48)).
 
-**49.**[^key-bde1e87bbdff9f0aa852fde78e81747d] In Schedule 27 (Transitory, transitional and saving provisions), paragraphs 6, 10 to 12, 13(2), 14 to 17, 21, 27, 30 and 38.
+**49.**[^c-bde1e87bbdff9f0aa852fde78e81747d] In Schedule 27 (Transitory, transitional and saving provisions), paragraphs 6, 10 to 12, 13(2), 14 to 17, 21, 27, 30 and 38.
 
-**50.**[^key-8f7275ee5d91f219c18bb669bff61ba8] (1) The following entries in Schedule 28 (repeals).
+**50.**[^c-8f7275ee5d91f219c18bb669bff61ba8] (1) The following entries in Schedule 28 (repeals).
 
 (2) In Part 2 (Sentencing), the entries relating to the—
 
@@ -243,19 +243,19 @@ Article 2(1)
 
 Article 2(3)
 
-### 1. Restrictions on imposing community order[^key-76e35465d90b0459ab49e53055e1d578]
+### 1. Restrictions on imposing community order[^c-76e35465d90b0459ab49e53055e1d578]
 
 The coming into force of section 11(1) of the 2008 Act is of no effect in relation to any person who is sentenced to a community order within the meaning of section 177[^f00008] of the 2003 Act before 14 July 2008.
 
-### 2. Dangerous offenders[^key-4e1fe4e4e758eb0fe61d4937bdefce85]
+### 2. Dangerous offenders[^c-4e1fe4e4e758eb0fe61d4937bdefce85]
 
-The coming into force of sections 13 to 18 [^key-f31d511dad6683dd84f7b6e19db169ca]... of, Schedule 5 and paragraph 71 of Schedule 26 to, the 2008 Act (and the related entries in Schedule 28 (Repeals) to that Act) is of no effect in relation to any person sentenced under any of sections 225[^f00009], 226[^f00010], 227[^f00011] or 228[^f00012] of the 2003 Act before 14 July 2008.
+The coming into force of sections 13 to 18 [^c-f31d511dad6683dd84f7b6e19db169ca]... of, Schedule 5 and paragraph 71 of Schedule 26 to, the 2008 Act (and the related entries in Schedule 28 (Repeals) to that Act) is of no effect in relation to any person sentenced under any of sections 225[^f00009], 226[^f00010], 227[^f00011] or 228[^f00012] of the 2003 Act before 14 July 2008.
 
-### 3. Recall[^key-10d1a18c41cf1acba9f4327ce6f8d9fe]
+### 3. Recall[^c-10d1a18c41cf1acba9f4327ce6f8d9fe]
 
 The coming into force of sections 29 and 30 of the 2008 Act is of no effect in relation to any person who is recalled under section 254(1) of the 2003 Act before 14 July 2008.
 
-### 4. Appeals in criminal cases[^key-02092ab0c7af739757ebe54fae1cd499]
+### 4. Appeals in criminal cases[^c-02092ab0c7af739757ebe54fae1cd499]
 
 (1) The amendments made by paragraph 6 of Schedule 8 to the 2008 Act (Powers of Court to substitute different sentence) and the related entry in Schedule 28 to that Act apply in relation to an appeal under Part 1 of the 1968 Act if the proceedings on appeal begin on or after 14 July 2008.
 
@@ -266,13 +266,13 @@ The coming into force of sections 29 and 30 of the 2008 Act is of no effect in r
 
 (3) In this paragraph, the reference to service on the Crown Court officer is to be read in accordance with the Criminal Procedure Rules 2005[^f00014].
 
-**5.**[^key-62aa1a4276b4b8160b8c3981cd96eea7] The amendments made by paragraphs 7 to 9 of Schedule 8 to the 2008 Act (Interim hospital orders) and the related entries in Schedule 28 to that Act apply in relation to an interim hospital order made by the Court of Appeal under Part 1 of the 1968 Act on or after 14 July 2008.
+**5.**[^c-62aa1a4276b4b8160b8c3981cd96eea7] The amendments made by paragraphs 7 to 9 of Schedule 8 to the 2008 Act (Interim hospital orders) and the related entries in Schedule 28 to that Act apply in relation to an interim hospital order made by the Court of Appeal under Part 1 of the 1968 Act on or after 14 July 2008.
 
-**6.**[^key-992d7e098b8f54de3a737f6a2693b391] The amendment made by paragraph 12 of Schedule 8 to the 2008 Act (Appeals against procedural directions) and the related entry in Schedule 28 to that Act apply in relation to a procedural direction given by a single judge under Part 1 of the 1968 Act on or after 14 July 2008 or, as the case may be, to a refusal by a single judge on or after that date to give such a procedural direction.
+**6.**[^c-992d7e098b8f54de3a737f6a2693b391] The amendment made by paragraph 12 of Schedule 8 to the 2008 Act (Appeals against procedural directions) and the related entry in Schedule 28 to that Act apply in relation to a procedural direction given by a single judge under Part 1 of the 1968 Act on or after 14 July 2008 or, as the case may be, to a refusal by a single judge on or after that date to give such a procedural direction.
 
-**7.**[^key-44efe528088c268d7e2301a4c4c8c184] The amendments made by paragraph 13 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal to Supreme Court) apply where an appeal lies to the Supreme Court under Part 2 of the 1968 Act if the date of the decision of the Court of Appeal from which the appeal lies is on or after 14 July 2008.
+**7.**[^c-44efe528088c268d7e2301a4c4c8c184] The amendments made by paragraph 13 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal to Supreme Court) apply where an appeal lies to the Supreme Court under Part 2 of the 1968 Act if the date of the decision of the Court of Appeal from which the appeal lies is on or after 14 July 2008.
 
-**8.**[^key-b6d321db39930bc98abbc17230089fc4] (1) The amendments made by paragraph 18 of Schedule 8 to the 2008 Act (Powers of court to substitute different sentence) apply in relation to an appeal under Part 1 of the 1980 Act if the proceedings on appeal begin on or after 14 July 2008.
+**8.**[^c-b6d321db39930bc98abbc17230089fc4] (1) The amendments made by paragraph 18 of Schedule 8 to the 2008 Act (Powers of court to substitute different sentence) apply in relation to an appeal under Part 1 of the 1980 Act if the proceedings on appeal begin on or after 14 July 2008.
 
 (2) For the purposes of this paragraph, the proceedings on appeal begin—
 
@@ -285,17 +285,17 @@ The coming into force of sections 29 and 30 of the 2008 Act is of no effect in r
 
 (3) In this paragraph, “proper officer” has the same meaning as in the Criminal Appeal (Northern Ireland) Rules 1968[^f00015].
 
-**9.**[^key-fbac364dc0866ca8738900ace2f6cea6] The amendments made by paragraphs 19 to 21 of Schedule 8 to the 2008 Act (Interim hospital orders) and the related entry in Schedule 28 to that Act apply in relation to an interim hospital order made by the Court of Appeal on or after 14 July 2008.
+**9.**[^c-fbac364dc0866ca8738900ace2f6cea6] The amendments made by paragraphs 19 to 21 of Schedule 8 to the 2008 Act (Interim hospital orders) and the related entry in Schedule 28 to that Act apply in relation to an interim hospital order made by the Court of Appeal on or after 14 July 2008.
 
-**10.**[^key-8e9d894e6ffe22126918676fcc940fa9] The amendments made by paragraph 24 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal to Supreme Court) apply where an appeal lies to the Supreme Court under Part 2 of the 1980 Act if the date of the decision of the Court of Appeal from which the appeal lies is on or after 14 July 2008.
+**10.**[^c-8e9d894e6ffe22126918676fcc940fa9] The amendments made by paragraph 24 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal to Supreme Court) apply where an appeal lies to the Supreme Court under Part 2 of the 1980 Act if the date of the decision of the Court of Appeal from which the appeal lies is on or after 14 July 2008.
 
-**11.**[^key-fe1a00aedd8c25da5f804bea0eec0296] The amendments made by paragraph 26 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal from High Court to Supreme Court) apply where an appeal lies to the Supreme Court under section 1 of the Administration of Justice Act 1960[^f00016] if the date of the decision of the court below from which the appeal lies is on or after 14 July 2008.
+**11.**[^c-fe1a00aedd8c25da5f804bea0eec0296] The amendments made by paragraph 26 of Schedule 8 to the 2008 Act (Detention of defendant pending appeal from High Court to Supreme Court) apply where an appeal lies to the Supreme Court under section 1 of the Administration of Justice Act 1960[^f00016] if the date of the decision of the court below from which the appeal lies is on or after 14 July 2008.
 
-**12.**[^key-914ba0986952df4c8b89ccbf9d568cdb] The amendments made by paragraph 27 of Schedule 8 to the 2008 Act (Variation of sentences by Crown Court) and the related entries in Schedule 28 to that Act apply in relation to a sentence imposed, or other order made, by the Crown Court on or after 14 July 2008.
+**12.**[^c-914ba0986952df4c8b89ccbf9d568cdb] The amendments made by paragraph 27 of Schedule 8 to the 2008 Act (Variation of sentences by Crown Court) and the related entries in Schedule 28 to that Act apply in relation to a sentence imposed, or other order made, by the Crown Court on or after 14 July 2008.
 
-**13.**[^key-caf93569b8b7c60f6e5c5e9115b32c20] The amendments made by paragraph 28 of Schedule 8 to the 2008 Act (Variation of sentences by Crown Court) and the related entry in Schedule 28 to that Act apply in relation to a sentence imposed, or other order made, by the Crown Court on or after 14 July 2008.
+**13.**[^c-caf93569b8b7c60f6e5c5e9115b32c20] The amendments made by paragraph 28 of Schedule 8 to the 2008 Act (Variation of sentences by Crown Court) and the related entry in Schedule 28 to that Act apply in relation to a sentence imposed, or other order made, by the Crown Court on or after 14 July 2008.
 
-**14.**[^key-b394c8582fe25bfb02a56452e37087ff] References to the Supreme Court in paragraphs 7, 10 and 11 of this Schedule are to be read as references to the House of Lords until the coming into force of the following provisions of Schedule 9 to the Constitutional Reform Act 2005[^f00017], namely—
+**14.**[^c-b394c8582fe25bfb02a56452e37087ff] References to the Supreme Court in paragraphs 7, 10 and 11 of this Schedule are to be read as references to the House of Lords until the coming into force of the following provisions of Schedule 9 to the Constitutional Reform Act 2005[^f00017], namely—
 
 - (a) as regards paragraph 7, of paragraph 16(6) of that Schedule,
 - (b) as regards paragraph 10, of paragraph 33(6) of that Schedule, and
@@ -322,7 +322,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4)
 
-[^key-adebaeb54436350e64d4c0b3e2fa8385]: Commencement: Art. 1 in force at made date
+[^c-adebaeb54436350e64d4c0b3e2fa8385]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1968 c.19](https://www.legislation.gov.uk/ukpga/1968/19)
 
@@ -330,121 +330,121 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)
 
-[^key-73221d44163dda8fd0ffa87283d3e8c9]: Commencement: Art. 2 in force at made date
+[^c-73221d44163dda8fd0ffa87283d3e8c9]: Commencement: Art. 2 in force at made date
 
-[^key-a0c70b1d2f2dd16a14cbb0f546ef195b]: Commencement: Sch. 1 para. 1 in force at made date
+[^c-a0c70b1d2f2dd16a14cbb0f546ef195b]: Commencement: Sch. 1 para. 1 in force at made date
 
-[^key-3c4c1052e7b86533f05a0c10e4915ff8]: Commencement: Sch. 1 para. 2 in force at made date
+[^c-3c4c1052e7b86533f05a0c10e4915ff8]: Commencement: Sch. 1 para. 2 in force at made date
 
-[^key-3fb77e17c4dacd27f595cb19c180cc41]: Commencement: Sch. 1 para. 3 in force at made date
+[^c-3fb77e17c4dacd27f595cb19c180cc41]: Commencement: Sch. 1 para. 3 in force at made date
 
-[^key-3e17a777f3c4861952586e515252e266]: Commencement: Sch. 1 para. 4 in force at made date
+[^c-3e17a777f3c4861952586e515252e266]: Commencement: Sch. 1 para. 4 in force at made date
 
-[^key-f55642bc348ebb3d22e47357d6816b9d]: Commencement: Sch. 1 para. 5 in force at made date
+[^c-f55642bc348ebb3d22e47357d6816b9d]: Commencement: Sch. 1 para. 5 in force at made date
 
-[^key-97e32b2cf7de674899c5cde621c6b80a]: Commencement: Sch. 1 para. 6 in force at made date
+[^c-97e32b2cf7de674899c5cde621c6b80a]: Commencement: Sch. 1 para. 6 in force at made date
 
-[^key-898caa65b79ae9440da388bc4ba6ddb5]: Commencement: Sch. 1 para. 7 in force at made date
+[^c-898caa65b79ae9440da388bc4ba6ddb5]: Commencement: Sch. 1 para. 7 in force at made date
 
-[^key-e9193e1c412cfd369d08eca00acc7a8d]: Commencement: Sch. 1 para. 8 in force at made date
+[^c-e9193e1c412cfd369d08eca00acc7a8d]: Commencement: Sch. 1 para. 8 in force at made date
 
-[^key-8bbc5df3ef915a7c5f9616b3ee3c80bb]: Commencement: Sch. 1 para. 9 in force at made date
+[^c-8bbc5df3ef915a7c5f9616b3ee3c80bb]: Commencement: Sch. 1 para. 9 in force at made date
 
-[^key-36556869feac60841c2f0d61be62b806]: Commencement: Sch. 1 para. 10 in force at made date
+[^c-36556869feac60841c2f0d61be62b806]: Commencement: Sch. 1 para. 10 in force at made date
 
-[^key-14b90a844db1af02a926ac07dbd87ce2]: Commencement: Sch. 1 para. 11 in force at made date
+[^c-14b90a844db1af02a926ac07dbd87ce2]: Commencement: Sch. 1 para. 11 in force at made date
 
-[^key-86fa30156d5e156561edc001b0fd0386]: Commencement: Sch. 1 para. 12 in force at made date
+[^c-86fa30156d5e156561edc001b0fd0386]: Commencement: Sch. 1 para. 12 in force at made date
 
-[^key-41c625cdce8b925f00228e63c57c9907]: Commencement: Sch. 1 para. 13 in force at made date
+[^c-41c625cdce8b925f00228e63c57c9907]: Commencement: Sch. 1 para. 13 in force at made date
 
 [^f00005]: Footnote: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53)
 
-[^key-d81161a6958e4615b2aee7edd6d0c73e]: Commencement: Sch. 1 para. 14 in force at made date
+[^c-d81161a6958e4615b2aee7edd6d0c73e]: Commencement: Sch. 1 para. 14 in force at made date
 
-[^key-85c7039bd56d8eb3d72949f847f95923]: Commencement: Sch. 1 para. 15 in force at made date
+[^c-85c7039bd56d8eb3d72949f847f95923]: Commencement: Sch. 1 para. 15 in force at made date
 
-[^key-aa47465442999d39be66857115a596db]: Commencement: Sch. 1 para. 16 in force at made date
+[^c-aa47465442999d39be66857115a596db]: Commencement: Sch. 1 para. 16 in force at made date
 
-[^key-4d96b3cbd2e82fbb609eab7aeba49dd9]: Commencement: Sch. 1 para. 17 in force at made date
+[^c-4d96b3cbd2e82fbb609eab7aeba49dd9]: Commencement: Sch. 1 para. 17 in force at made date
 
-[^key-e0ef67369ac438ab5049b6b4d274269a]: Commencement: Sch. 1 para. 18 in force at made date
+[^c-e0ef67369ac438ab5049b6b4d274269a]: Commencement: Sch. 1 para. 18 in force at made date
 
-[^key-5daa8fa4bb3325a6e1b5f8a361a85668]: Commencement: Sch. 1 para. 19 in force at made date
+[^c-5daa8fa4bb3325a6e1b5f8a361a85668]: Commencement: Sch. 1 para. 19 in force at made date
 
-[^key-144e295dc257061aac1ab1be07497381]: Commencement: Sch. 1 para. 20 in force at made date
+[^c-144e295dc257061aac1ab1be07497381]: Commencement: Sch. 1 para. 20 in force at made date
 
-[^key-538c32d1e635f2bcf47b634ebc5da5b9]: Commencement: Sch. 1 para. 21 in force at made date
+[^c-538c32d1e635f2bcf47b634ebc5da5b9]: Commencement: Sch. 1 para. 21 in force at made date
 
-[^key-60428cf1aa78fa5b3bbd8171ff472a67]: Commencement: Sch. 1 para. 22 in force at made date
+[^c-60428cf1aa78fa5b3bbd8171ff472a67]: Commencement: Sch. 1 para. 22 in force at made date
 
-[^key-370e719eaa25d4ec04e5e4d7c5e2deb0]: Commencement: Sch. 1 para. 23 in force at made date
+[^c-370e719eaa25d4ec04e5e4d7c5e2deb0]: Commencement: Sch. 1 para. 23 in force at made date
 
-[^key-a9846d5537ebe325980d48c06d2e0523]: Commencement: Sch. 1 para. 24 in force at made date
+[^c-a9846d5537ebe325980d48c06d2e0523]: Commencement: Sch. 1 para. 24 in force at made date
 
-[^key-b2e25a391e17d6271ff7758ad5f84a39]: Commencement: Sch. 1 para. 25 in force at made date
+[^c-b2e25a391e17d6271ff7758ad5f84a39]: Commencement: Sch. 1 para. 25 in force at made date
 
-[^key-6070a2a234360ca3c91caee8330e77be]: Commencement: Sch. 1 para. 26 in force at made date
+[^c-6070a2a234360ca3c91caee8330e77be]: Commencement: Sch. 1 para. 26 in force at made date
 
-[^key-565bcaaf679c3c727b08adca276e0af7]: Commencement: Sch. 1 para. 27 in force at made date
+[^c-565bcaaf679c3c727b08adca276e0af7]: Commencement: Sch. 1 para. 27 in force at made date
 
-[^key-7cbbc7e916d9ffc722ea863398c2e846]: Commencement: Sch. 1 para. 28 in force at made date
+[^c-7cbbc7e916d9ffc722ea863398c2e846]: Commencement: Sch. 1 para. 28 in force at made date
 
-[^key-f520a70054403b35eb2cf4c85bddb3c4]: Commencement: Sch. 1 para. 29 in force at made date
+[^c-f520a70054403b35eb2cf4c85bddb3c4]: Commencement: Sch. 1 para. 29 in force at made date
 
-[^key-6d3781d3edaf5947f690ca2046fd5aa6]: Commencement: Sch. 1 para. 30 in force at made date
+[^c-6d3781d3edaf5947f690ca2046fd5aa6]: Commencement: Sch. 1 para. 30 in force at made date
 
-[^key-4d64ad2dcda59f71e3daeef723390047]: Commencement: Sch. 1 para. 31 in force at made date
+[^c-4d64ad2dcda59f71e3daeef723390047]: Commencement: Sch. 1 para. 31 in force at made date
 
-[^key-9b5c9270ee0a3df983af624456ed2bfd]: Commencement: Sch. 1 para. 32 in force at made date
+[^c-9b5c9270ee0a3df983af624456ed2bfd]: Commencement: Sch. 1 para. 32 in force at made date
 
-[^key-208102f8707a7a4244aba255dd1f054a]: Commencement: Sch. 1 para. 33 in force at made date
+[^c-208102f8707a7a4244aba255dd1f054a]: Commencement: Sch. 1 para. 33 in force at made date
 
-[^key-9b3d7666383148ed60e7c77a81a5d178]: Commencement: Sch. 1 para. 34 in force at made date
+[^c-9b3d7666383148ed60e7c77a81a5d178]: Commencement: Sch. 1 para. 34 in force at made date
 
-[^key-180936f4ad299a04e645b68ca5d726cf]: Commencement: Sch. 1 para. 35 in force at made date
+[^c-180936f4ad299a04e645b68ca5d726cf]: Commencement: Sch. 1 para. 35 in force at made date
 
-[^key-c8a41c62aebc7a2998ad33494ca81b3c]: Commencement: Sch. 1 para. 36 in force at made date
+[^c-c8a41c62aebc7a2998ad33494ca81b3c]: Commencement: Sch. 1 para. 36 in force at made date
 
-[^key-7f6dacd148f2b89a3d0955e258af0eb0]: Commencement: Sch. 1 para. 37 in force at made date
+[^c-7f6dacd148f2b89a3d0955e258af0eb0]: Commencement: Sch. 1 para. 37 in force at made date
 
-[^key-85584a8fd21baf4c909ad5b14bc90e5c]: Commencement: Sch. 1 para. 38 in force at made date
+[^c-85584a8fd21baf4c909ad5b14bc90e5c]: Commencement: Sch. 1 para. 38 in force at made date
 
-[^key-6065cb581bb5dc51f3f942fe89ac5dfe]: Commencement: Sch. 1 para. 39 in force at made date
+[^c-6065cb581bb5dc51f3f942fe89ac5dfe]: Commencement: Sch. 1 para. 39 in force at made date
 
 [^f00006]: Footnote: [1984 c.47](https://www.legislation.gov.uk/ukpga/1984/47)
 
-[^key-4dea9354f913696fad3295a743d8dd88]: Commencement: Sch. 1 para. 40 in force at made date
+[^c-4dea9354f913696fad3295a743d8dd88]: Commencement: Sch. 1 para. 40 in force at made date
 
-[^key-070a20b983437705fc80a62856dee377]: Commencement: Sch. 1 para. 41 in force at made date
+[^c-070a20b983437705fc80a62856dee377]: Commencement: Sch. 1 para. 41 in force at made date
 
 [^f00007]: Footnote: [2003 c.32](https://www.legislation.gov.uk/ukpga/2003/32)
 
-[^key-0ab387cf8d2be8d4abb7b1b63566dbce]: Commencement: Sch. 1 para. 42 in force at made date
+[^c-0ab387cf8d2be8d4abb7b1b63566dbce]: Commencement: Sch. 1 para. 42 in force at made date
 
-[^key-91df20bb40851e3a7fea79f53f3949c4]: Commencement: Sch. 1 para. 43 in force at made date
+[^c-91df20bb40851e3a7fea79f53f3949c4]: Commencement: Sch. 1 para. 43 in force at made date
 
-[^key-2d68650e32553a7c23f08f94128b0ee1]: Commencement: Sch. 1 para. 44 in force at made date
+[^c-2d68650e32553a7c23f08f94128b0ee1]: Commencement: Sch. 1 para. 44 in force at made date
 
-[^key-b02879796372f14faed150ff52fa03a9]: Commencement: Sch. 1 para. 45 in force at made date
+[^c-b02879796372f14faed150ff52fa03a9]: Commencement: Sch. 1 para. 45 in force at made date
 
-[^key-9a34b99ac050015fb9ad4829f9b455b7]: Commencement: Sch. 1 para. 46 in force at made date
+[^c-9a34b99ac050015fb9ad4829f9b455b7]: Commencement: Sch. 1 para. 46 in force at made date
 
-[^key-c9eae76345828cd0ad0b10fb769f05dc]: Commencement: Sch. 1 para. 47 in force at made date
+[^c-c9eae76345828cd0ad0b10fb769f05dc]: Commencement: Sch. 1 para. 47 in force at made date
 
-[^key-63f586dc4658c582268bd537864b6551]: Commencement: Sch. 1 para. 48 in force at made date
+[^c-63f586dc4658c582268bd537864b6551]: Commencement: Sch. 1 para. 48 in force at made date
 
-[^key-bde1e87bbdff9f0aa852fde78e81747d]: Commencement: Sch. 1 para. 49 in force at made date
+[^c-bde1e87bbdff9f0aa852fde78e81747d]: Commencement: Sch. 1 para. 49 in force at made date
 
-[^key-8f7275ee5d91f219c18bb669bff61ba8]: Commencement: Sch. 1 para. 50 in force at made date
+[^c-8f7275ee5d91f219c18bb669bff61ba8]: Commencement: Sch. 1 para. 50 in force at made date
 
-[^key-76e35465d90b0459ab49e53055e1d578]: Commencement: Sch. 2 para. 1 in force at made date
+[^c-76e35465d90b0459ab49e53055e1d578]: Commencement: Sch. 2 para. 1 in force at made date
 
 [^f00008]: Footnote: Section 177 was commenced for certain purposes by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950) as amended by [S.I. 2007/391](https://www.legislation.gov.uk/uksi/2007/391).
 
-[^key-4e1fe4e4e758eb0fe61d4937bdefce85]: Commencement: Sch. 2 para. 2 in force at made date
+[^c-4e1fe4e4e758eb0fe61d4937bdefce85]: Commencement: Sch. 2 para. 2 in force at made date
 
-[^key-f31d511dad6683dd84f7b6e19db169ca]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 15(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/15/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-f31d511dad6683dd84f7b6e19db169ca]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 15(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/15/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
 
 [^f00009]: Footnote: Section 225 has been modified by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643) and is amended by section 13 of the 2008 Act.
 
@@ -454,36 +454,36 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00012]: Footnote: Section 228 is amended by section 16 of the 2008 Act.
 
-[^key-10d1a18c41cf1acba9f4327ce6f8d9fe]: Commencement: Sch. 2 para. 3 in force at made date
+[^c-10d1a18c41cf1acba9f4327ce6f8d9fe]: Commencement: Sch. 2 para. 3 in force at made date
 
-[^key-02092ab0c7af739757ebe54fae1cd499]: Commencement: Sch. 2 para. 4 in force at made date
+[^c-02092ab0c7af739757ebe54fae1cd499]: Commencement: Sch. 2 para. 4 in force at made date
 
 [^f00013]: Footnote: [1995 c.35](https://www.legislation.gov.uk/ukpga/1995/35)
 
 [^f00014]: Footnote: [S.I. 2005/384](https://www.legislation.gov.uk/uksi/2005/384); relevant amending instruments are [S.I. 2007/699](https://www.legislation.gov.uk/uksi/2007/699) and [2007/2317](https://www.legislation.gov.uk/uksi/2007/2317).
 
-[^key-62aa1a4276b4b8160b8c3981cd96eea7]: Commencement: Sch. 2 para. 5 in force at made date
+[^c-62aa1a4276b4b8160b8c3981cd96eea7]: Commencement: Sch. 2 para. 5 in force at made date
 
-[^key-992d7e098b8f54de3a737f6a2693b391]: Commencement: Sch. 2 para. 6 in force at made date
+[^c-992d7e098b8f54de3a737f6a2693b391]: Commencement: Sch. 2 para. 6 in force at made date
 
-[^key-44efe528088c268d7e2301a4c4c8c184]: Commencement: Sch. 2 para. 7 in force at made date
+[^c-44efe528088c268d7e2301a4c4c8c184]: Commencement: Sch. 2 para. 7 in force at made date
 
-[^key-b6d321db39930bc98abbc17230089fc4]: Commencement: Sch. 2 para. 8 in force at made date
+[^c-b6d321db39930bc98abbc17230089fc4]: Commencement: Sch. 2 para. 8 in force at made date
 
 [^f00015]: Footnote: [S.R. & O. (N.I.) 1968/218](https://www.legislation.gov.uk/nisro/1968/218)
 
-[^key-fbac364dc0866ca8738900ace2f6cea6]: Commencement: Sch. 2 para. 9 in force at made date
+[^c-fbac364dc0866ca8738900ace2f6cea6]: Commencement: Sch. 2 para. 9 in force at made date
 
-[^key-8e9d894e6ffe22126918676fcc940fa9]: Commencement: Sch. 2 para. 10 in force at made date
+[^c-8e9d894e6ffe22126918676fcc940fa9]: Commencement: Sch. 2 para. 10 in force at made date
 
-[^key-fe1a00aedd8c25da5f804bea0eec0296]: Commencement: Sch. 2 para. 11 in force at made date
+[^c-fe1a00aedd8c25da5f804bea0eec0296]: Commencement: Sch. 2 para. 11 in force at made date
 
 [^f00016]: Footnote: [1960 c.65](https://www.legislation.gov.uk/ukpga/1960/65). Section 1 was repealed as it applies to Northern Ireland by Schedule 7 to the Judicature (Northern Ireland) Act 1978. Section 1 was amended by Schedule 7 to the 1968 Act and by section 63(1) of the Access to Justice Act 1999. Section 1 will be further amended and repealed in part by section 40(4) of, paragraph 13(1) and (2) of Schedule 9 to, and Schedule 18 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), from a date to be appointed.
 
-[^key-914ba0986952df4c8b89ccbf9d568cdb]: Commencement: Sch. 2 para. 12 in force at made date
+[^c-914ba0986952df4c8b89ccbf9d568cdb]: Commencement: Sch. 2 para. 12 in force at made date
 
-[^key-caf93569b8b7c60f6e5c5e9115b32c20]: Commencement: Sch. 2 para. 13 in force at made date
+[^c-caf93569b8b7c60f6e5c5e9115b32c20]: Commencement: Sch. 2 para. 13 in force at made date
 
-[^key-b394c8582fe25bfb02a56452e37087ff]: Commencement: Sch. 2 para. 14 in force at made date
+[^c-b394c8582fe25bfb02a56452e37087ff]: Commencement: Sch. 2 para. 14 in force at made date
 
 [^f00017]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4)

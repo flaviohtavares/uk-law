@@ -35,7 +35,7 @@ Provided that—
 
 (5) Each of the Boards may, with the consent of the Minister given with the approval of the Treasury, make charges to capital account representing interest on expenditure of a capital nature (including expenditure of a capital nature incurred by the Commission before the vesting date), being interest for any period which ends on or before the end of the accounting period in which the project or scheme to which the expenditure relates is in the opinion of the Minister completed.
 
-(5A)[^key-f28b104bfd76b52cd2c74a1b42c2f467] In the application of subsections (4) and (5) to the British Waterways Board—
+(5A)[^c-f28b104bfd76b52cd2c74a1b42c2f467] In the application of subsections (4) and (5) to the British Waterways Board—
 
 - (a) references to the Minister are to be read as references to the Scottish Ministers, and
 - (b) references to the approval of the Treasury are omitted.
@@ -50,4 +50,4 @@ Provided that—
 
 [^c4790661]: Modification: S. 18(4) proviso (a) excluded by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 41(4)](https://www.legislation.gov.uk/ukpga/1968/73/section/41/4)
 
-[^key-f28b104bfd76b52cd2c74a1b42c2f467]: Textual amendment: S. 18(5A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/10) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-f28b104bfd76b52cd2c74a1b42c2f467]: Textual amendment: S. 18(5A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/10) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

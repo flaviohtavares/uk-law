@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 13(1) to (4) and (7) and 113(1) and (2) of, and paragraphs 1(1), 2(2) and (4)(a), (e) and (j) and 4 of Schedule 2 to, the Local Government Finance Act 1992[^f00001]:
 
-## 1. Citation, commencement, interpretation and application[^key-13c37843668cf676b604561d4414c370]
+## 1. Citation, commencement, interpretation and application[^c-13c37843668cf676b604561d4414c370]
 
 (1) These Regulations may be cited as the Council Tax (Reductions for Annexes) (England) Regulations 2013 and come into force on 1st April 2014.
 
@@ -54,11 +54,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) These Regulations apply in relation to England only.
 
-## 2. Prescribed years[^key-2f8e29bd527600fbc3ee41547a6aaebd]
+## 2. Prescribed years[^c-2f8e29bd527600fbc3ee41547a6aaebd]
 
 The financial years commencing with the financial year beginning on 1st April 2014 are prescribed as the years in relation to which these Regulations apply.
 
-## 3. Prescribed conditions[^key-42a049d43cf0f2845a6bdce56f94d78e]
+## 3. Prescribed conditions[^c-42a049d43cf0f2845a6bdce56f94d78e]
 
 (1) The following conditions are prescribed for the purposes of these Regulations.
 
@@ -76,12 +76,12 @@ The financial years commencing with the financial year beginning on 1st April 20
   - (ii) is that person’s parent, child, grandparent, grandchild, brother, sister, uncle or aunt, nephew or niece, great-grandparent, great-grandchild, great-uncle, great-aunt, great-nephew or great-niece, or
   - (iii) is that person’s great-great-grandparent, great-great-grandchild, great-great-uncle, great-great-aunt, great-great-nephew or great-great-niece; and
     - (aa) a relationship by marriage or civil partnership shall be treated as a relationship by blood;
-    - (bb)[^key-8aa329d5fa22a065e6ca5f0c06382c32] a relationship between two persons living together as if they were a married couple or civil partners shall be treated as a relationship by marriage or civil partnership;
+    - (bb)[^c-8aa329d5fa22a065e6ca5f0c06382c32] a relationship between two persons living together as if they were a married couple or civil partners shall be treated as a relationship by marriage or civil partnership;
     - (cc) the stepchild of a person shall be treated as that person’s child;
     - (dd) the child of the civil partner of a person (‘A’) shall be treated as A’s child; and
 - (c) ”the person who is liable to pay council tax” includes a person who would be so liable if the dwelling were not an exempt dwelling within the meaning of the Council Tax (Administration and Enforcement) Regulations 1992[^f00003].
 
-## 4. Calculation of amount payable[^key-5b4f0e4f09fc7a8c7075f7ef7f868b76]
+## 4. Calculation of amount payable[^c-5b4f0e4f09fc7a8c7075f7ef7f868b76]
 
 (1) Subject to paragraph (3) the amount of council tax payable by a person liable to pay an amount to a billing authority in respect of a dwelling which fulfils either of the conditions prescribed in regulation 3 and each day on which that condition is fulfilled shall be calculated in accordance with the formula in paragraph (2).
 
@@ -93,7 +93,7 @@ where A is the amount determined under section 10 of the 1992 Act or under that 
 
 (3) Where, as regards the person liable to pay, the dwelling in question and a day on which either condition referred to in regulation 3 is fulfilled, regulations under section 13 of the 1992 Act (other than these Regulations) apply, the amount payable shall be calculated in accordance with these Regulations as read with those Regulations.
 
-## 5. Amendment of Regulations[^key-3765043e83a6195941b2bf8c86dd020c]
+## 5. Amendment of Regulations[^c-3765043e83a6195941b2bf8c86dd020c]
 
 (1) The Council Tax (Administration and Enforcement) Regulations 1992[^f00005] are amended in accordance with paragraph (2).
 
@@ -152,23 +152,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). See section 116(1) for the definition of “prescribed”.
 
-[^key-13c37843668cf676b604561d4414c370]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
+[^c-13c37843668cf676b604561d4414c370]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
 
-[^key-2f8e29bd527600fbc3ee41547a6aaebd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
+[^c-2f8e29bd527600fbc3ee41547a6aaebd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2977/regulation/2) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
 
-[^key-42a049d43cf0f2845a6bdce56f94d78e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
+[^c-42a049d43cf0f2845a6bdce56f94d78e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1992/549](https://www.legislation.gov.uk/uksi/1992/549). A relevant amendment was made in relation to England by [S.I. 2003/3121](https://www.legislation.gov.uk/uksi/2003/3121).
 
-[^key-8aa329d5fa22a065e6ca5f0c06382c32]: Textual amendment: [Reg. 3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3/3/b/iii)[(bb)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3/3/bb) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 99](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/99)
+[^c-8aa329d5fa22a065e6ca5f0c06382c32]: Textual amendment: [Reg. 3(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3/3/b/iii)[(bb)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/3/3/bb) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 99](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/99)
 
 [^f00003]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558). A new definition of ‘exempt dwelling’ in relation to was inserted in regulation 1 by [S.I. 2012/3086](https://www.legislation.gov.uk/uksi/2012/3086)
 
-[^key-5b4f0e4f09fc7a8c7075f7ef7f868b76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2977/regulation/4) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
+[^c-5b4f0e4f09fc7a8c7075f7ef7f868b76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2977/regulation/4) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
 
 [^f00004]: Footnote: Section 11 was amended by section 12 of the Local Government Finance Act 2012. Section 11A was inserted by section 75 of the Local Government Act 2003 and amended by section 11 of the Local Government Finance Act 2012. Section 11B was inserted by section 12 of the Local Government Finance Act 2012.
 
-[^key-3765043e83a6195941b2bf8c86dd020c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
+[^c-3765043e83a6195941b2bf8c86dd020c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2977/regulation/5) in force at 1.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2977/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613). A new definition of ‘discount’ in relation to was inserted in regulation 1 by [S.I. 2004/927](https://www.legislation.gov.uk/uksi/2004/927) and substituted by [S.I. 2012/3086](https://www.legislation.gov.uk/uksi/2012/3086).
 

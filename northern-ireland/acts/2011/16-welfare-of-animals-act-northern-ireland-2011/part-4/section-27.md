@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Inspection of farm premises[^key-f5387e91e002e58f9dfb78f127766f48]
+## 27. Inspection of farm premises[^c-f5387e91e002e58f9dfb78f127766f48]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5387e91e002e58f9dfb78f127766f48]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/16/section/27) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)
+[^c-f5387e91e002e58f9dfb78f127766f48]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/16/section/27) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300. Interpretation of the 1985 Act[^key-0aaa2ca06a81011bbb845dab2b867775]
+## 300. Interpretation of the 1985 Act[^c-0aaa2ca06a81011bbb845dab2b867775]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0aaa2ca06a81011bbb845dab2b867775]: Commencement: Art. 300 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0aaa2ca06a81011bbb845dab2b867775]: Commencement: Art. 300 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00228]: Footnote: The definition of “bank” was amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), and the definition of “building society” was substituted by the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), section 120(1), Schedule 18, paragraph 18(5).

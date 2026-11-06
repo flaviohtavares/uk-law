@@ -50,10 +50,10 @@ These Regulations may be cited as the Gangmasters Licensing (Exclusions) Regulat
 (1) In these Regulations—
 
 - “**The Act**” means the Gangmasters (Licensing) Act 2004;
-- [^key-09a7b9fb7292d22f940cd980958c28ef]...
+- [^c-09a7b9fb7292d22f940cd980958c28ef]...
 - “**the Department**” means the Department of Agriculture and Rural Development;
 - “the Education Orders” have the same meaning as in Article 2 of the Education and Libraries (Northern Ireland) Order 1986 [^c22010011];
-- “**licence**” means a licence granted by the Secretary of State[^key-2f862cf254b6cc5cac75562a6807eb04] under section 7(1) of the Act authorising a person to act as a gangmaster.
+- “**licence**” means a licence granted by the Secretary of State[^c-2f862cf254b6cc5cac75562a6807eb04] under section 7(1) of the Act authorising a person to act as a gangmaster.
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c22010021] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -262,11 +262,11 @@ A partial Regulatory Impact Assessment has been prepared. Copies can be obtained
 
 [^c22010001]: Marginal citation: [2004 c.11](https://www.legislation.gov.uk/ukpga/2004/11); see modifications to section 6(2) by paragraphs 8, 19(1) and 19(2) of Schedule 2
 
-[^key-09a7b9fb7292d22f940cd980958c28ef]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/23/regulation/2/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/9/a)
+[^c-09a7b9fb7292d22f940cd980958c28ef]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/23/regulation/2/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/9/a)
 
 [^c22010011]: Marginal citation: [S.I](https://www.legislation.gov.uk/nisr/2014/23/section/I).[1986 No. 594](https://www.legislation.gov.uk/ukcm/1986/594) (N.I.3); [Article 2](https://www.legislation.gov.uk/nisr/2014/23/article/2) was amended by [S.I. 1998/1759 (N.I.13)](https://www.legislation.gov.uk/nisi/1998/1759)
 
-[^key-2f862cf254b6cc5cac75562a6807eb04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/23/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/9/b)
+[^c-2f862cf254b6cc5cac75562a6807eb04]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2014/23/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/9/b)
 
 [^c22010021]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 

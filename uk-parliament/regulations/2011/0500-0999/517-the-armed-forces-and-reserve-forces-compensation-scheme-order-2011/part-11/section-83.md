@@ -35,10 +35,10 @@ summary: ''
 
 (4) In the event that there is more than one surviving spouse entitled to the additional grant the amount payable to each surviving spouse is the amount specified in paragraph (2) or (3) divided by the number of surviving spouses so entitled at the death of the member or former member.
 
-(5) In this article a “**reserve forces pension scheme**” means the FTRS 1997[^key-8e6ae76d162946d65b7674e35524403c], the NRPS 2011[^key-4cdce3f7bd53e832feee6cb41266a34e] or the RFPS 2005.
+(5) In this article a “**reserve forces pension scheme**” means the FTRS 1997[^c-8e6ae76d162946d65b7674e35524403c], the NRPS 2011[^c-4cdce3f7bd53e832feee6cb41266a34e] or the RFPS 2005.
 
 ## Annotations
 
-[^key-8e6ae76d162946d65b7674e35524403c]: Textual amendment: Words in [art. 83(5)](https://www.legislation.gov.uk/uksi/2011/517/article/83/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2026/272/article/8/a)
+[^c-8e6ae76d162946d65b7674e35524403c]: Textual amendment: Words in [art. 83(5)](https://www.legislation.gov.uk/uksi/2011/517/article/83/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2026/272/article/8/a)
 
-[^key-4cdce3f7bd53e832feee6cb41266a34e]: Textual amendment: Words in [art. 83(5)](https://www.legislation.gov.uk/uksi/2011/517/article/83/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2026/272/article/8/b)
+[^c-4cdce3f7bd53e832feee6cb41266a34e]: Textual amendment: Words in [art. 83(5)](https://www.legislation.gov.uk/uksi/2011/517/article/83/5) substituted (6.4.2026) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2026 (S.I. 2026/272)](https://www.legislation.gov.uk/uksi/2026/272), [arts. 1](https://www.legislation.gov.uk/uksi/2026/272/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2026/272/article/8/b)

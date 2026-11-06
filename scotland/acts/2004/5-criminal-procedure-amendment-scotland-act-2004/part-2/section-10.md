@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Trial in absence of accused[^key-b9d2cf6eca8f0cf15be353eed1813430]
+## 10. Trial in absence of accused[^c-b9d2cf6eca8f0cf15be353eed1813430]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ summary: ''
 > (2F) Subsections (2B)(b) and (2E) above shall not apply in the case of proceedings—
 >
 > - (a) in respect of a sexual offence to which section 288C of this Act applies; or
-> - (b)[^key-1fa55c236104356ab8569cd9db948f2b] in respect of which section 288E of this Act applies; or
+> - (b)[^c-1fa55c236104356ab8569cd9db948f2b] in respect of which section 288E of this Act applies; or
 > - (c) in which an order has been made under section 288F(2) of this Act.
 
 .
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9d2cf6eca8f0cf15be353eed1813430]: Commencement: S. 10 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-b9d2cf6eca8f0cf15be353eed1813430]: Commencement: S. 10 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-1fa55c236104356ab8569cd9db948f2b]: Textual amendment: Words in s. 10(3) substituted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2005/40/article/3/3)
+[^c-1fa55c236104356ab8569cd9db948f2b]: Textual amendment: Words in s. 10(3) substituted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2005/40/article/3/3)

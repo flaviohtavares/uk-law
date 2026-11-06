@@ -33,11 +33,11 @@ summary: ''
 - (c) for references to transferred matters within the meaning of section 4(1) of the Northern Ireland Act 1998, of references to transferred matters within the meaning of section 43(2) of the [^c1312489]Northern Ireland Constitution Act 1973;
 - (d) for references to paragraph 1(a) of Schedule 2 to the Northern Ireland Act 1998, of references to paragraph 1(a) of Schedule 2 to the Northern Ireland Constitution Act 1973.
 
-(5) This Act extends to Scotland (subject to subsection (6)) *(Extent: S)*[^key-10eb4ac9a554ca37bc64358960c952b5] and Northern Ireland.
+(5) This Act extends to Scotland (subject to subsection (6)) *(Extent: S)*[^c-10eb4ac9a554ca37bc64358960c952b5] and Northern Ireland.
 
 *Extent: S*
 
-(6)[^key-86e35fc384dcde1026e6bbbb14fabbe1] Sections 17, 27 and 30 do not extend to Scotland.
+(6)[^c-86e35fc384dcde1026e6bbbb14fabbe1] Sections 17, 27 and 30 do not extend to Scotland.
 
 ## Annotations
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c1312489]: Marginal citation: [1973 c. 36](https://www.legislation.gov.uk/ukpga/1973/36).
 
-[^key-10eb4ac9a554ca37bc64358960c952b5]: Textual amendment: Words in s. 43(5) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 7(3)(a)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7/3/a) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-10eb4ac9a554ca37bc64358960c952b5]: Textual amendment: Words in s. 43(5) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 7(3)(a)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7/3/a) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-86e35fc384dcde1026e6bbbb14fabbe1]: Textual amendment: S. 43(6) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 7(3)(b)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7/3/b) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-86e35fc384dcde1026e6bbbb14fabbe1]: Textual amendment: S. 43(6) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 7(3)(b)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/7/3/b) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

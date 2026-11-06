@@ -26,7 +26,7 @@ Section 66
 
 #### Abolition of power to support certain categories of migrant
 
-**1.**[^key-a315ca027af2f84fcf4fc8f87ebb7ebd] Section 4 of the Immigration and Asylum Act 1999 (provision of accommodation for failed asylum-seekers, etc) is repealed.
+**1.**[^c-a315ca027af2f84fcf4fc8f87ebb7ebd] Section 4 of the Immigration and Asylum Act 1999 (provision of accommodation for failed asylum-seekers, etc) is repealed.
 
 **Not yet in force.**
 
@@ -357,7 +357,7 @@ Section 66
 
 **24.** (1) Section 166 (regulations and orders) is amended as follows.
 
-(2)[^key-46ad75dc6481ec242d6d09d96487a345][^key-6a33fb7cc8353a0200958be3859f617c] In subsection (5) (regulations subject to the affirmative procedure) for the “or” at the end of paragraph (c) substitute—
+(2)[^c-46ad75dc6481ec242d6d09d96487a345][^c-6a33fb7cc8353a0200958be3859f617c] In subsection (5) (regulations subject to the affirmative procedure) for the “or” at the end of paragraph (c) substitute—
 
 > - (ca) section 95A, or
 
@@ -514,7 +514,7 @@ Section 66
 
 ### PART 2 — Transitional and saving provision
 
-**46.**[^key-61108a5a0eeec44afca2b0c3feb2c72a] (1) The repeals made by paragraphs 1 and 2 do not apply in relation to—
+**46.**[^c-61108a5a0eeec44afca2b0c3feb2c72a] (1) The repeals made by paragraphs 1 and 2 do not apply in relation to—
 
 - (a) any person for whom accommodation is being provided under section 4 of the Immigration and Asylum Act 1999 immediately before the day on which those paragraphs come into force,
 - (b) any person who has made an application before that day for accommodation to be provided under that section and whose application has not been determined or withdrawn before that day,
@@ -575,12 +575,12 @@ This is subject to sub-paragraph (2).
 
 ## Annotations
 
-[^key-a315ca027af2f84fcf4fc8f87ebb7ebd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/1) in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-a315ca027af2f84fcf4fc8f87ebb7ebd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/1) in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
 
 [^M_F_556161e1-e930-4e55-d1f0-5a3c18be4cca]: Textual amendment: Sch. 11 para. 2(n) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment) Regulations 2022 (S.I. 2022/803)](https://www.legislation.gov.uk/uksi/2022/803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/803/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2022/803/regulation/8) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [15](https://www.legislation.gov.uk/uksi/2022/906/article/15))
 
-[^key-46ad75dc6481ec242d6d09d96487a345]: Modification: [Sch. 11 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/24/2) modified (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/10/2)
+[^c-46ad75dc6481ec242d6d09d96487a345]: Modification: [Sch. 11 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/24/2) modified (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/10/2)
 
-[^key-6a33fb7cc8353a0200958be3859f617c]: Modification: [Sch. 11 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/24/2) modified (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/15/3)
+[^c-6a33fb7cc8353a0200958be3859f617c]: Modification: [Sch. 11 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/24/2) modified (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/15/3)
 
-[^key-61108a5a0eeec44afca2b0c3feb2c72a]: Commencement: [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/46) in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/d/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-61108a5a0eeec44afca2b0c3feb2c72a]: Commencement: [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2016/19/schedule/11/paragraph/46) in force at 15.1.2018 for specified purposes by [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/d/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)

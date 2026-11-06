@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Requesting the assistance of EBA[^key-223b7ab97d921f8771d02c8c842155be]
+## 115. Requesting the assistance of EBA[^c-223b7ab97d921f8771d02c8c842155be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-223b7ab97d921f8771d02c8c842155be]: Textual amendment: [Art. 115](https://www.legislation.gov.uk/uksi/2014/3348/article/115) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-223b7ab97d921f8771d02c8c842155be]: Textual amendment: [Art. 115](https://www.legislation.gov.uk/uksi/2014/3348/article/115) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

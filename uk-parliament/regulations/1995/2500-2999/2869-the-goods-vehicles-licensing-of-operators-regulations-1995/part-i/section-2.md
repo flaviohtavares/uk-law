@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Revocation[^key-719c7b80dbad206b17459425fe0314f3]
+## 2. Revocation[^c-719c7b80dbad206b17459425fe0314f3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Regulations set out in Schedule 5 are hereby revoked.
 
 ## Annotations
 
-[^key-719c7b80dbad206b17459425fe0314f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2869/regulation/2) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-719c7b80dbad206b17459425fe0314f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2869/regulation/2) in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

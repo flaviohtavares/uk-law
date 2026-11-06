@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 14 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-1ab30bec8b7c40c4efef07e4995624d7]
+## SCHEDULE 14 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-1ab30bec8b7c40c4efef07e4995624d7]
 
 *Extent: E+W+S*
 
 Article 38
 
-Table 11[^key-2eddf05dba261f15d85da0891bace55a]
+Table 11[^c-2eddf05dba261f15d85da0891bace55a]
 
 | *(1)**Document name* | *(2)**Document reference* | *(3)**Revision number* | *(4)**Date* |
 | --- | --- | --- | --- |
@@ -63,6 +63,6 @@ Table 11[^key-2eddf05dba261f15d85da0891bace55a]
 
 ## Annotations
 
-[^key-1ab30bec8b7c40c4efef07e4995624d7]: Commencement: Sch. 14 in force at 3.4.2019, see art. 1
+[^c-1ab30bec8b7c40c4efef07e4995624d7]: Commencement: Sch. 14 in force at 3.4.2019, see art. 1
 
-[^key-2eddf05dba261f15d85da0891bace55a]: Textual amendment: Sch. 14 Table 11 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [9](https://www.legislation.gov.uk/uksi/2020/413/article/9), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/413/schedule/6)
+[^c-2eddf05dba261f15d85da0891bace55a]: Textual amendment: Sch. 14 Table 11 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [9](https://www.legislation.gov.uk/uksi/2020/413/article/9), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/413/schedule/6)

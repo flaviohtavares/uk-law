@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Deciding whether to investigate[^key-f4280e6465d6a07c3cb0b21c61bfa583]
+## 114. Deciding whether to investigate[^c-f4280e6465d6a07c3cb0b21c61bfa583]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4280e6465d6a07c3cb0b21c61bfa583]: Commencement: [S. 114](https://www.legislation.gov.uk/mwa/2011/1/section/114) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-f4280e6465d6a07c3cb0b21c61bfa583]: Commencement: [S. 114](https://www.legislation.gov.uk/mwa/2011/1/section/114) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

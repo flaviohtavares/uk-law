@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 532C. Pilot schemes: local authorities and duration[^key-267baf253ff698b33af7bdfc33646400]
+## 532C. Pilot schemes: local authorities and duration[^c-267baf253ff698b33af7bdfc33646400]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267baf253ff698b33af7bdfc33646400]: Textual amendment: [Ss. 532A-532C](https://www.legislation.gov.uk/ukpga/1996/56/section/532A) repealed (15.11.2015) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/75/3)
+[^c-267baf253ff698b33af7bdfc33646400]: Textual amendment: [Ss. 532A-532C](https://www.legislation.gov.uk/ukpga/1996/56/section/532A) repealed (15.11.2015) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/75/3)

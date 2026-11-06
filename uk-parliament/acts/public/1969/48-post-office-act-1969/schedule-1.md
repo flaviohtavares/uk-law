@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Incidental Provisions with respect to the Post Office and the Members thereof[^key-71211f14dae2a22464a31c8541541eb5]
+## SCHEDULE 1 — Incidental Provisions with respect to the Post Office and the Members thereof[^c-71211f14dae2a22464a31c8541541eb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Sections 6, 43, 88.
 
-### Status[^key-71211f14dae2a22464a31c8541541eb5]
+### Status[^c-71211f14dae2a22464a31c8541541eb5]
 
-**1.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Members[^key-71211f14dae2a22464a31c8541541eb5]
+### Members[^c-71211f14dae2a22464a31c8541541eb5]
 
-**2.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-71211f14dae2a22464a31c8541541eb5]
+### Proceedings[^c-71211f14dae2a22464a31c8541541eb5]
 
-**7.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-71211f14dae2a22464a31c8541541eb5]
+### Staff[^c-71211f14dae2a22464a31c8541541eb5]
 
-**10.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Fixing of Seal and Proof of Instruments[^key-71211f14dae2a22464a31c8541541eb5]
+### Fixing of Seal and Proof of Instruments[^c-71211f14dae2a22464a31c8541541eb5]
 
-**13.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-71211f14dae2a22464a31c8541541eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71211f14dae2a22464a31c8541541eb5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/48/schedule/1) repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)
+[^c-71211f14dae2a22464a31c8541541eb5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/48/schedule/1) repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)

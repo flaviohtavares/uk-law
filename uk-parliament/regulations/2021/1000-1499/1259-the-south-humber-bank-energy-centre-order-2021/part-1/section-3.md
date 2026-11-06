@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Electronic Communications[^key-b590e4e71e6bee0aad7f5b2ca133a4b6]
+## 3. Electronic Communications[^c-b590e4e71e6bee0aad7f5b2ca133a4b6]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b590e4e71e6bee0aad7f5b2ca133a4b6]: Commencement: Art. 3 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-b590e4e71e6bee0aad7f5b2ca133a4b6]: Commencement: Art. 3 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
 [^f00012]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). As amended by section 406(1) of, and paragraph 158 of Schedule 17 to, the Communications Act [2003 c. 7](https://www.legislation.gov.uk/ukpga/2003/7).

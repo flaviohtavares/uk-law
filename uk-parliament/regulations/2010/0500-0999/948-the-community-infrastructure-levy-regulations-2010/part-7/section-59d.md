@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59D. Payment periods[^key-18583621e456728158ca284fee829570]
+## 59D. Payment periods[^c-18583621e456728158ca284fee829570]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18583621e456728158ca284fee829570]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/982/regulation/8/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2013/982/regulation/12))
+[^c-18583621e456728158ca284fee829570]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/982/regulation/8/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2013/982/regulation/12))

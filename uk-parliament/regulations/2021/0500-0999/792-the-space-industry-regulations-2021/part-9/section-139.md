@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Monitoring of exposure to cosmic radiation: crew other than classified crew[^key-34c515648bcf5ea94d6f82e76f2a4714]
+## 139. Monitoring of exposure to cosmic radiation: crew other than classified crew[^c-34c515648bcf5ea94d6f82e76f2a4714]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c515648bcf5ea94d6f82e76f2a4714]: Commencement: Reg. 139 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-34c515648bcf5ea94d6f82e76f2a4714]: Commencement: Reg. 139 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

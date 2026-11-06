@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Restrictions on voluntary winding-up etc.[^key-7717208e7052b7da12ab6d93eba6b135]
+## 223. Restrictions on voluntary winding-up etc.[^c-7717208e7052b7da12ab6d93eba6b135]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7717208e7052b7da12ab6d93eba6b135]: Commencement: S. 223 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-7717208e7052b7da12ab6d93eba6b135]: Commencement: S. 223 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
 [^c12803911]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

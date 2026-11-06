@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Gazetting and advertisement of meetings[^key-9f987e1fcabeeb61971afa76c7ac811d]
+## 39. Gazetting and advertisement of meetings[^c-9f987e1fcabeeb61971afa76c7ac811d]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ is to take place,
 
 ## Annotations
 
-[^key-9f987e1fcabeeb61971afa76c7ac811d]: Commencement: Rule 39 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-9f987e1fcabeeb61971afa76c7ac811d]: Commencement: Rule 39 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

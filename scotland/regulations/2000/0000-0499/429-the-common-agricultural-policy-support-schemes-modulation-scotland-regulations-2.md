@@ -50,7 +50,7 @@ These Regulations may be cited as the Common Agricultural Policy Support Schemes
 
 ## 2. Application
 
-These Regulations shall apply to payments made by [^key-42343dd0747e1b52c048a723b07a6ddc]... the Scottish Ministers pursuant to a support scheme in relation to a farmer’s holding for which the Scottish Ministers are the relevant competent authority in accordance with the Integrated Administration and Control System Regulations 1993 [^c16200241].
+These Regulations shall apply to payments made by [^c-42343dd0747e1b52c048a723b07a6ddc]... the Scottish Ministers pursuant to a support scheme in relation to a farmer’s holding for which the Scottish Ministers are the relevant competent authority in accordance with the Integrated Administration and Control System Regulations 1993 [^c16200241].
 
 ## 3. Interpretation
 
@@ -60,7 +60,7 @@ In these Regulations–
 - “the Council Regulation" means Council Regulation [(EC) No. 1259/1999](https://www.legislation.gov.uk/european/regulation/1999/1259) [^c16200261] establishing common rules for direct support schemes under the common agricultural policy of the European Community;
 - “farmer" has the meaning given to it by Article 10(a) of the Council Regulation;
 - “holding" has the meaning given to it by Article 10(b) of the Council Regulation;
-- [^key-f6c652a6cf34a81159cad32af16816b4]...
+- [^c-f6c652a6cf34a81159cad32af16816b4]...
 - “the Rural Development Regulation" means Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) [^c16200281] on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations;
 - “scheme year" means the twelve months in respect of which payments are made pursuant to the support scheme in question; and
 - “support scheme" means any support scheme listed in the Annex to the Council Regulation.
@@ -71,7 +71,7 @@ In these Regulations–
 
 ## 4. Modulation of support scheme payments
 
-(1) For the purposes of calculating the amount of any payment to which a farmer is entitled pursuant to a support scheme, the Scottish Ministers [^key-94fb599c5952917b76e2e14ceacf2d37]... shall deduct the following specified proportion from the amount to which the farmer would be entitled under the support scheme if this regulation did not apply:–
+(1) For the purposes of calculating the amount of any payment to which a farmer is entitled pursuant to a support scheme, the Scottish Ministers [^c-94fb599c5952917b76e2e14ceacf2d37]... shall deduct the following specified proportion from the amount to which the farmer would be entitled under the support scheme if this regulation did not apply:–
 
 - (a) in respect of the scheme year which begins in 2001, 2.5%;
 - (b) in respect of the scheme year which begins in 2002, 3.0%;
@@ -113,7 +113,7 @@ The amounts thus deducted are to be applied to rural development measures implem
 
 [^c16200231]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-42343dd0747e1b52c048a723b07a6ddc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/429/regulation/2) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(a)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))
+[^c-42343dd0747e1b52c048a723b07a6ddc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/429/regulation/2) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(a)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))
 
 [^c16200241]: Marginal citation: [S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317), amended by [S.I. 1994/1134](https://www.legislation.gov.uk/uksi/1994/1134), 1997/1148, 1999/1820 and 2000/2573.
 
@@ -121,8 +121,8 @@ The amounts thus deducted are to be applied to rural development measures implem
 
 [^c16200261]: Marginal citation: O.J. No. L 160, 26.6.1999, p.113.
 
-[^key-f6c652a6cf34a81159cad32af16816b4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/429/regulation/3/1) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(b)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))
+[^c-f6c652a6cf34a81159cad32af16816b4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/429/regulation/3/1) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(b)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))
 
 [^c16200281]: Marginal citation: O.J. No. L 160, 26.6.1999, p.80.
 
-[^key-94fb599c5952917b76e2e14ceacf2d37]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/429/regulation/4/1) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(c)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))
+[^c-94fb599c5952917b76e2e14ceacf2d37]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/429/regulation/4/1) omitted (15.11.2001) by virtue of [The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 (S.S.I. 2001/390)](https://www.legislation.gov.uk/ssi/2001/390), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/390/regulation/1/1), [3(13)(c)](https://www.legislation.gov.uk/ssi/2001/390/regulation/3/13/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2001/390/regulation/4))

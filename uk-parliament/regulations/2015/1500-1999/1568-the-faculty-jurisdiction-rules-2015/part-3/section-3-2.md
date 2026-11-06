@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3.2. Undertaking matters in List A without a faculty[^key-44c8109a6257b9aa373f704bf6e0a1ac]
+## 3.2. Undertaking matters in List A without a faculty[^c-44c8109a6257b9aa373f704bf6e0a1ac]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ An authorised person may undertake any matter prescribed in the first column of 
 
 ## Annotations
 
-[^key-44c8109a6257b9aa373f704bf6e0a1ac]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/2015/1568/article/3.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-44c8109a6257b9aa373f704bf6e0a1ac]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/2015/1568/article/3.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

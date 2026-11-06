@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Beet Seeds (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-2122ff614d0f213ad46c703dfaa74399]
+Beet Seeds (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-2122ff614d0f213ad46c703dfaa74399]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 2nd November 2001
 
-[^key-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2122ff614d0f213ad46c703dfaa74399]
+## 1. Citation and commencement[^c-2122ff614d0f213ad46c703dfaa74399]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beet Seeds Regulations (Northern Ireland) 1994[^key-2122ff614d0f213ad46c703dfaa74399]
+## 2. Amendment of the Beet Seeds Regulations (Northern Ireland) 1994[^c-2122ff614d0f213ad46c703dfaa74399]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2122ff614d0f213ad46c703dfaa74399]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2122ff614d0f213ad46c703dfaa74399]: Textual amendment: Regulations revoked (31.12.2009) by [The Beet Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/384)](https://www.legislation.gov.uk/nisr/2009/384), [regs. 1](https://www.legislation.gov.uk/nisr/2009/384/regulation/1), [29(1)(c)](https://www.legislation.gov.uk/nisr/2009/384/regulation/29) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2009/384/regulation/4), [29(3)](https://www.legislation.gov.uk/nisr/2009/384/regulation/29))
+[^c-2122ff614d0f213ad46c703dfaa74399]: Textual amendment: Regulations revoked (31.12.2009) by [The Beet Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/384)](https://www.legislation.gov.uk/nisr/2009/384), [regs. 1](https://www.legislation.gov.uk/nisr/2009/384/regulation/1), [29(1)(c)](https://www.legislation.gov.uk/nisr/2009/384/regulation/29) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2009/384/regulation/4), [29(3)](https://www.legislation.gov.uk/nisr/2009/384/regulation/29))

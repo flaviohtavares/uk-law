@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Guidance for scheme administrator and local housing authority[^key-e5552a301b1d7085d3bd5875105e2577]
+## 70. Guidance for scheme administrator and local housing authority[^c-e5552a301b1d7085d3bd5875105e2577]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5552a301b1d7085d3bd5875105e2577]: Commencement: S. 70 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e5552a301b1d7085d3bd5875105e2577]: Commencement: S. 70 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Complaints about care services[^key-49e654975d14e5d3e6dfc51f0a97c6c6][^key-8974619b49c1f2c6b6614a6e5aec5037]
+## 79. Complaints about care services[^c-49e654975d14e5d3e6dfc51f0a97c6c6][^c-8974619b49c1f2c6b6614a6e5aec5037]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49e654975d14e5d3e6dfc51f0a97c6c6]: Commencement: S. 79 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-49e654975d14e5d3e6dfc51f0a97c6c6]: Commencement: S. 79 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-8974619b49c1f2c6b6614a6e5aec5037]: Commencement: S. 79 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-8974619b49c1f2c6b6614a6e5aec5037]: Commencement: S. 79 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

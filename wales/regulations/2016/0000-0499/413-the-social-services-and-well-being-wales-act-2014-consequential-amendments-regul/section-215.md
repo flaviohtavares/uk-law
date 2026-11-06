@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**215.**[^key-ff1f7ee0768d068633c83bb4bd099f98] The Children Act 2004 is amended as follows.
+**215.**[^c-ff1f7ee0768d068633c83bb4bd099f98] The Children Act 2004 is amended as follows.
 
 ## Annotations
 
-[^key-ff1f7ee0768d068633c83bb4bd099f98]: Commencement: Reg. 215 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ff1f7ee0768d068633c83bb4bd099f98]: Commencement: Reg. 215 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

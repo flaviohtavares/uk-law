@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 72. Restoration order[^key-9d69caf561a9b0829c7c7e3d73aa18ee]
+## 72. Restoration order[^c-9d69caf561a9b0829c7c7e3d73aa18ee]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d69caf561a9b0829c7c7e3d73aa18ee]: Commencement: [S. 72](https://www.legislation.gov.uk/ukcm/2018/3/section/72) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9d69caf561a9b0829c7c7e3d73aa18ee]: Commencement: [S. 72](https://www.legislation.gov.uk/ukcm/2018/3/section/72) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

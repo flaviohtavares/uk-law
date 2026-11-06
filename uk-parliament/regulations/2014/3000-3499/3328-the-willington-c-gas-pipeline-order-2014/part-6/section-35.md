@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Protection of interests[^key-0a8d742710446bb72f231f72f5207f57]
+## 35. Protection of interests[^c-0a8d742710446bb72f231f72f5207f57]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-0a8d742710446bb72f231f72f5207f57]: Commencement: Art. 35 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-0a8d742710446bb72f231f72f5207f57]: Commencement: Art. 35 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

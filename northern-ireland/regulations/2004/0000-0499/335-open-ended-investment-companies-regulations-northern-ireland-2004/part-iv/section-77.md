@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Public notice by the Authority of receipt and issue of certain documents[^key-76bcab9eb3232cbb0c5c38a0a82558b2]
+## 77. Public notice by the Authority of receipt and issue of certain documents[^c-76bcab9eb3232cbb0c5c38a0a82558b2]
 
 *Extent: N.I.*
 
@@ -26,13 +26,13 @@ The Authority must cause to be published in the Belfast Gazette notice of the is
 - (b) any notice of a change in the address of a company’s head office;
 - (c) any notice of a change in the directors of a company;
 - (d) any notice of a change in the depositary of a company;
-- (e) any annual report of a company delivered to the Authority as required by FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f];
+- (e) any annual report of a company delivered to the Authority as required by FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f];
 - (f) any copy of an order made under Schedule 6;
 - (g) any copy of a winding-up order in respect of a company; and
 - (h) any copy of an instrument providing for the dissolution of a company on a winding up.
 
 ## Annotations
 
-[^key-76bcab9eb3232cbb0c5c38a0a82558b2]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2004/335/regulation/77) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-76bcab9eb3232cbb0c5c38a0a82558b2]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2004/335/regulation/77) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

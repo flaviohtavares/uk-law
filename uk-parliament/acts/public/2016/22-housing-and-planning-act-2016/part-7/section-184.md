@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Earliest vesting date under general vesting declaration[^key-e34acb71a6b8ca9c12c792e58b076fb7]
+## 184. Earliest vesting date under general vesting declaration[^c-e34acb71a6b8ca9c12c792e58b076fb7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 4 of the Compulsory Purchase (Vesting Declarations) Act 1981 (executi
 
 ## Annotations
 
-[^key-e34acb71a6b8ca9c12c792e58b076fb7]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2016/22/section/184) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-e34acb71a6b8ca9c12c792e58b076fb7]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2016/22/section/184) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

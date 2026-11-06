@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.28. Further contents of notice to creditors owed small debts etc.[^key-7f122c3d342208997b2cc35f6b05b8ea]
+## 5.28. Further contents of notice to creditors owed small debts etc.[^c-7f122c3d342208997b2cc35f6b05b8ea]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f122c3d342208997b2cc35f6b05b8ea]: Commencement: Rule 5.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7f122c3d342208997b2cc35f6b05b8ea]: Commencement: Rule 5.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

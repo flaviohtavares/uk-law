@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144D. Explanation to accompany consultation on CRR rules[^key-d4f8978919ce41c2176841a094d305fe][^key-3d523eb1cd8769a15bc0725b46374d99]
+## 144D. Explanation to accompany consultation on CRR rules[^c-d4f8978919ce41c2176841a094d305fe][^c-3d523eb1cd8769a15bc0725b46374d99]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4f8978919ce41c2176841a094d305fe]: Modification: [S. 144D](https://www.legislation.gov.uk/ukpga/2000/8/section/144D) restricted (13.3.2023 at 8.00 a.m.) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) Order 2023 (S.I. 2023/319)](https://www.legislation.gov.uk/uksi/2023/319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/319/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/319/article/4/1)
+[^c-d4f8978919ce41c2176841a094d305fe]: Modification: [S. 144D](https://www.legislation.gov.uk/ukpga/2000/8/section/144D) restricted (13.3.2023 at 8.00 a.m.) by [The Amendments of the Law (Resolution of Silicon Valley Bank UK Limited) Order 2023 (S.I. 2023/319)](https://www.legislation.gov.uk/uksi/2023/319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/319/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2023/319/article/4/1)
 
-[^key-3d523eb1cd8769a15bc0725b46374d99]: Modification: [S. 144D](https://www.legislation.gov.uk/ukpga/2000/8/section/144D) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)
+[^c-3d523eb1cd8769a15bc0725b46374d99]: Modification: [S. 144D](https://www.legislation.gov.uk/ukpga/2000/8/section/144D) modified (temp.) (22.8.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 5](https://www.legislation.gov.uk/uksi/2023/936/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26H. DWP investigators[^key-cb3314af838768789338b5796b7c8a61]
+## 26H. DWP investigators[^c-cb3314af838768789338b5796b7c8a61]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb3314af838768789338b5796b7c8a61]: Textual amendment: [S. 26H](https://www.legislation.gov.uk/ukpga/2002/30/section/26H) inserted (2.12.2025 but only for the purposes of making regulations) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/86/3), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105))
+[^c-cb3314af838768789338b5796b7c8a61]: Textual amendment: [S. 26H](https://www.legislation.gov.uk/ukpga/2002/30/section/26H) inserted (2.12.2025 but only for the purposes of making regulations) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2025/28/section/86/3), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105))

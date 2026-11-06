@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Amendment of the Social Workers Regulations 2018[^key-d0ed748da40b94d491f8f9171f7f56d1]
+## 99. Amendment of the Social Workers Regulations 2018[^c-d0ed748da40b94d491f8f9171f7f56d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0ed748da40b94d491f8f9171f7f56d1]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2023/1071/regulation/99) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-d0ed748da40b94d491f8f9171f7f56d1]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2023/1071/regulation/99) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00080]: Footnote: [S.I. 2018/893](https://www.legislation.gov.uk/uksi/2018/893), to which there are amendments not relevant to these Regulations.

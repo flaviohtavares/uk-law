@@ -34,7 +34,7 @@ Environmental Protection
 
 Road Traffic
 
-The Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) and Tractor etc (EC Type-Approval) (Amendment) Regulations 2015 (revoked)[^key-349ed31959cc1b8baf0cae3283ca26c1]
+The Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) and Tractor etc (EC Type-Approval) (Amendment) Regulations 2015 (revoked)[^c-349ed31959cc1b8baf0cae3283ca26c1]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 30th June 2015
 
-[^key-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-349ed31959cc1b8baf0cae3283ca26c1]
+## 1. Citation and commencement[^c-349ed31959cc1b8baf0cae3283ca26c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) Regulations 2002[^key-349ed31959cc1b8baf0cae3283ca26c1]
+## 2. Amendment of the Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) Regulations 2002[^c-349ed31959cc1b8baf0cae3283ca26c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Tractor etc (EC Type-Approval) Regulations 2005[^key-349ed31959cc1b8baf0cae3283ca26c1]
+## 3. Amendment of the Tractor etc (EC Type-Approval) Regulations 2005[^c-349ed31959cc1b8baf0cae3283ca26c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349ed31959cc1b8baf0cae3283ca26c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-349ed31959cc1b8baf0cae3283ca26c1]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), [Sch. 2 para. 4(g)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/g) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))
+[^c-349ed31959cc1b8baf0cae3283ca26c1]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), [Sch. 2 para. 4(g)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/g) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))

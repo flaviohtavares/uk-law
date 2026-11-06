@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Territorial application of Part[^key-f21228783cf69559af8b55aab1dffdf4]
+## 120A. Territorial application of Part[^c-f21228783cf69559af8b55aab1dffdf4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The functions of the Secretary of State under this Part, other than the function
 
 ## Annotations
 
-[^key-f21228783cf69559af8b55aab1dffdf4]: Textual amendment: S. 120A inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/26)
+[^c-f21228783cf69559af8b55aab1dffdf4]: Textual amendment: S. 120A inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/26)

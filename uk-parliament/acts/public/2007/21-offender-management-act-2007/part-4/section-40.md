@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Extent[^key-c74c85dadbd470bef8e8489f621b5072]
+## 40. Extent[^c-c74c85dadbd470bef8e8489f621b5072]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c74c85dadbd470bef8e8489f621b5072]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/21/section/40) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/q)
+[^c-c74c85dadbd470bef8e8489f621b5072]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/21/section/40) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/q)

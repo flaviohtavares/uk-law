@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 487. Investment of additional voluntary contributions[^key-74dd3abb010d4afe8569f71f8626942b]
+## 487. Investment of additional voluntary contributions[^c-74dd3abb010d4afe8569f71f8626942b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74dd3abb010d4afe8569f71f8626942b]: Commencement: Art. 487 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-74dd3abb010d4afe8569f71f8626942b]: Commencement: Art. 487 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

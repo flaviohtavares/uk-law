@@ -24,7 +24,7 @@ Regulation 140
 
 ### PART 1 — REPRESENTATION OF THE PEOPLE ACT 1983, PART 3
 
-**1.**[^key-6fcc1169b6e5eda537fca470019444cc] (1) Part 3 of the 1983 Act (legal proceedings) applies for the purposes of a petition and has effect—
+**1.**[^c-6fcc1169b6e5eda537fca470019444cc] (1) Part 3 of the 1983 Act (legal proceedings) applies for the purposes of a petition and has effect—
 
 - (a) with the modifications made by this Part of this Schedule, and
 - (b) with any other necessary modifications.
@@ -39,7 +39,7 @@ Regulation 140
 - (a) a reference to a provision that is applied by this Part has effect as a reference to that provision as so applied;
 - (b) expressions are to be construed in accordance with regulation 3 (interpretation) of these Regulations.
 
-#### 2. General modifications[^key-f69a8fcbd505d1c6b2e62030a8ce6148]
+#### 2. General modifications[^c-f69a8fcbd505d1c6b2e62030a8ce6148]
 
 A reference, however expressed, in a provision applied by this Schedule or in the heading to such a provision—
 
@@ -50,13 +50,13 @@ A reference, however expressed, in a provision applied by this Schedule or in th
   | --- | --- |
   | Candidate at an election<br>A corrupt or illegal practice<br>Election<br>Petitioner | The MP to whom a recall petition relates<br>A corrupt or illegal practice under the Recall of MPs Act 2015 or the Recall of MPs (Recall Petition) Regulations 2016<br>Petition<br>Complainant |
 
-#### 3. Questioning of a recall petition[^key-54c98ce55962c815401c783dae0b6ae3]
+#### 3. Questioning of a recall petition[^c-54c98ce55962c815401c783dae0b6ae3]
 
 For section 120 (method of questioning recall petition), substitute—
 
 > A recall petition may not be questioned except by a complaint that there was an undue outcome to the petition (“a recall petition complaint”) presented in accordance with this Part of this Act.
 
-**4.**[^key-0f6b20b07572f27bcecdd4d1515b5d7b] In section 121 (presentation and service of a recall petition complaint)—
+**4.**[^c-0f6b20b07572f27bcecdd4d1515b5d7b] In section 121 (presentation and service of a recall petition complaint)—
 
 - (a) for subsections (1), (1A) and (2) substitute—
 
@@ -75,7 +75,7 @@ For section 120 (method of questioning recall petition), substitute—
 - (b) in subsection (3), for “to which it relates” substitute “of the MP to whom the recall petition related”;
 - (c) in subsection (4), for “returning officer of the constituency to which the petition related” substitute “petition officer”.
 
-**5.**[^key-e4d7e788a503d70cba3ea98cc0001327] In section 122 (time for presentation or amendment of a recall petition complaint)—
+**5.**[^c-e4d7e788a503d70cba3ea98cc0001327] In section 122 (time for presentation or amendment of a recall petition complaint)—
 
 - (a) for subsection (1), substitute—
 
@@ -100,18 +100,18 @@ For section 120 (method of questioning recall petition), substitute—
 - (f) in subsection (6), omit “; and” and paragraph (b);
 - (g) in subsection (7), for “an election” substitute “the outcome of a petition”.
 
-**6.**[^key-f5ac2492b80832effc3a80c4636deb20] In section 123 (constitution of the election court and place of trial), in subsection (3), for “for which the election was held” substitute “of the MP in relation to whom the recall petition was held”.
+**6.**[^c-f5ac2492b80832effc3a80c4636deb20] In section 123 (constitution of the election court and place of trial), in subsection (3), for “for which the election was held” substitute “of the MP in relation to whom the recall petition was held”.
 
-**7.**[^key-8b32513ed7be085ea503c3da4e90dea0] Omit sections 127 to 135A (questioning of a local election).
+**7.**[^c-8b32513ed7be085ea503c3da4e90dea0] Omit sections 127 to 135A (questioning of a local election).
 
-#### 8. Procedure on recall petition complaints[^key-dedd8303414cb3bf8749c5c15f35e736]
+#### 8. Procedure on recall petition complaints[^c-dedd8303414cb3bf8749c5c15f35e736]
 
 In section 136(2) (security for costs)—
 
 - (a) omit paragraph (b) and “and” following it;
 - (b) in paragraph (i), omit “and the amount” to “the sheriff directs”.
 
-**9.**[^key-5f2526a5ac592129b5a2ecf20843d746] In section 138 (list of petitions)—
+**9.**[^c-5f2526a5ac592129b5a2ecf20843d746] In section 138 (list of petitions)—
 
 - (a) in subsection (1), omit the words after paragraph (b);
 - (b) for subsection (2), substitute—
@@ -121,7 +121,7 @@ In section 136(2) (security for costs)—
   ;
 - (c) omit subsections (3) to (5).
 
-**10.**[^key-b65aace09105117ce35b7182985e74dc] In section 139 (trial of petition)—
+**10.**[^c-b65aace09105117ce35b7182985e74dc] In section 139 (trial of petition)—
 
 - (a) in subsection (1), for “, in the case of” to the end substitute “14 days before the day of trial”;
 - (b) in subsection (3)—
@@ -135,11 +135,11 @@ In section 136(2) (security for costs)—
   ;
 - (e) omit subsection (6).
 
-**11.**[^key-eb293f777cca65f6fab488270a408fce] In section 140 (witnesses), in subsection (1), omit the words after “the High Court”.
+**11.**[^c-eb293f777cca65f6fab488270a408fce] In section 140 (witnesses), in subsection (1), omit the words after “the High Court”.
 
-**12.**[^key-0c0fd2d4218b3e5f8f1f72cfacb8b025] In section 143 (expenses of witnesses), in subsection (2), omit the second paragraph.
+**12.**[^c-0c0fd2d4218b3e5f8f1f72cfacb8b025] In section 143 (expenses of witnesses), in subsection (2), omit the second paragraph.
 
-**13.**[^key-e6696a3543b377a3c39bfe16915b4344] In section 144 (conclusion of trial of recall petition complaint)—
+**13.**[^c-e6696a3543b377a3c39bfe16915b4344] In section 144 (conclusion of trial of recall petition complaint)—
 
 - (a) for subsection (1), substitute—
 
@@ -168,21 +168,21 @@ In section 136(2) (security for costs)—
 
   .
 
-**14.**[^key-8658ef3fef6571300605fbe9ed66301f] Omit sections 145 (conclusion of trial of local election petition) and 145A (determination in respect of election of Mayor of London or constituency member of London Assembly).
+**14.**[^c-8658ef3fef6571300605fbe9ed66301f] Omit sections 145 (conclusion of trial of local election petition) and 145A (determination in respect of election of Mayor of London or constituency member of London Assembly).
 
-**15.**[^key-e7d2977ed6d4f6e764e2138add843cbb] In section 146 (special case for determination of High Court)—
+**15.**[^c-e7d2977ed6d4f6e764e2138add843cbb] In section 146 (special case for determination of High Court)—
 
 - (a) omit subsection (3),
 - (b) in subsection (5), omit the words after “shall be final” to the end.
 
-**16.**[^key-e9457b76d8c408d7c9d575cf25a739d8] In section 147 (withdrawal of complaint)—
+**16.**[^c-e9457b76d8c408d7c9d575cf25a739d8] In section 147 (withdrawal of complaint)—
 
 - (a) in subsection (1), omit the second paragraph;
 - (b) in subsection (2), omit “or local government area”.
 
-**17.**[^key-afd480d0c88f467e983eb2a12cf7a3c4] In section 155 (neglect or refusal to pay costs), in subsection (1)(a), omit “, and” to the end of paragraph (b).
+**17.**[^c-afd480d0c88f467e983eb2a12cf7a3c4] In section 155 (neglect or refusal to pay costs), in subsection (1)(a), omit “, and” to the end of paragraph (b).
 
-**18.**[^key-782f9fc17900cd887b23910ec2dff25a] In section 157 (appeals and jurisdiction)—
+**18.**[^c-782f9fc17900cd887b23910ec2dff25a] In section 157 (appeals and jurisdiction)—
 
 - (a) in subsection (1), after “this Act” insert “or the Recall of MPs Act 2015”;
 - (b) in subsection (2)—
@@ -195,7 +195,7 @@ In section 136(2) (security for costs)—
 - (e) in subsection (7), omit “to (6) above and, in relation to elections of councillors, subsection (3),”;
 - (f) in subsection (8), omit the reference to subsection (5).
 
-#### 19. Consequences of finding by petition court of corrupt or illegal practice[^key-0e1e7033c04a31281cefb009ac35e9d2]
+#### 19. Consequences of finding by petition court of corrupt or illegal practice[^c-0e1e7033c04a31281cefb009ac35e9d2]
 
 In section 158 (report as to whether MP guilty of a corrupt or illegal practice)—
 
@@ -209,7 +209,7 @@ In section 158 (report as to whether MP guilty of a corrupt or illegal practice)
     ;
   - (ii) omit the second paragraph.
 
-**20.**[^key-99b4bcbd23e5e0ba9ac62307c6763382] In section 159 (MP reported guilty of corrupt or illegal practice)—
+**20.**[^c-99b4bcbd23e5e0ba9ac62307c6763382] In section 159 (MP reported guilty of corrupt or illegal practice)—
 
 - (a) for subsections (1) and (3) substitute—
 
@@ -218,20 +218,20 @@ In section 158 (report as to whether MP guilty of a corrupt or illegal practice)
   ;
 - (b) in subsection (4), after “this Act” insert “and the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-**21.**[^key-8855259f3364577af656f8265ef39ad7] In section 160 (persons reported personally guilty of corrupt or illegal practices)—
+**21.**[^c-8855259f3364577af656f8265ef39ad7] In section 160 (persons reported personally guilty of corrupt or illegal practices)—
 
 - (a) in subsection (1), omit “or section 145”, “, or” and paragraph (b);
 - (b) in subsection (4A), for the words after “reported” to the end substitute—
 
   > personally guilty of—
   >
-  > - (a) a corrupt practice under regulation 118 (personation) , 120 (offences relating to applications for postal and proxy signing) or 122A (handling of postal petition documents by political campaigners)[^key-85fae733dc00a2cab5c3925c4f7bfcd6] of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016, or
+  > - (a) a corrupt practice under regulation 118 (personation) , 120 (offences relating to applications for postal and proxy signing) or 122A (handling of postal petition documents by political campaigners)[^c-85fae733dc00a2cab5c3925c4f7bfcd6] of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016, or
   > - (b) an illegal practice under regulation 119 of those Regulations (other signing offences).
 
   ;
 - (c) omit subsection (7), after “this Act” insert “and the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-#### 22. Further provision as to avoidance of recall petitions and striking off signatures[^key-4ab2a130dd15e22a72c215c004c650d0]
+#### 22. Further provision as to avoidance of recall petitions and striking off signatures[^c-4ab2a130dd15e22a72c215c004c650d0]
 
 In section 164 (avoidance of election for general corruption etc)—
 
@@ -242,9 +242,9 @@ In section 164 (avoidance of election for general corruption etc)—
   ;
 - (b) omit subsection (3).
 
-**23.**[^key-c3443f9bbccdf97b7759b58473541f23] Omit section 165 (avoidance of election for employing corrupt agent).
+**23.**[^c-c3443f9bbccdf97b7759b58473541f23] Omit section 165 (avoidance of election for employing corrupt agent).
 
-**24.**[^key-4e3b2460c224356d620cfcb88ce76fa6] In section 166 (signatures to be struck off for corrupt or illegal practices)—
+**24.**[^c-4e3b2460c224356d620cfcb88ce76fa6] In section 166 (signatures to be struck off for corrupt or illegal practices)—
 
 - (a) for subsection (1) substitute—
 
@@ -254,23 +254,23 @@ In section 164 (avoidance of election for general corruption etc)—
 - (b) in subsection (2), for the words after “hiring at” substitute “a recall petition signs that petition, that signature is void”;
 - (c) in subsection (3), for the words after “Parliamentary election” to the end substitute “and, by reason of that incapacity, is not entitled to sign a recall petition signs that petition, that signature is void.”.
 
-#### 25. Power to except innocent act from being illegal practice, payment, employment or hiring[^key-e61f2052d87c59c4e48afaf43cd64fb0]
+#### 25. Power to except innocent act from being illegal practice, payment, employment or hiring[^c-e61f2052d87c59c4e48afaf43cd64fb0]
 
 Omit section 167 (application for relief).
 
-#### 26. Prosecutions for corrupt or illegal practices[^key-d745cb2b0f0a0d110658333f7abe0e7f]
+#### 26. Prosecutions for corrupt or illegal practices[^c-d745cb2b0f0a0d110658333f7abe0e7f]
 
 In section 168 (prosecutions for corrupt practices), in subsection (1)—
 
-- (a)[^key-813a258dd8d0f7f50e96faa9e0715fce] in paragraph (a)(i), for the words from “section 60” to “above” substitute “regulation 118 (personation), regulation 120 (offences relating to applications for postal or proxy signing) or regulation 122A (handling of postal petition documents by political campaigners) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
+- (a)[^c-813a258dd8d0f7f50e96faa9e0715fce] in paragraph (a)(i), for the words from “section 60” to “above” substitute “regulation 118 (personation), regulation 120 (offences relating to applications for postal or proxy signing) or regulation 122A (handling of postal petition documents by political campaigners) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (b) in paragraph (b), omit “not exceeding the statutory maximum”.
 
-**27.**[^key-3c91216afd20286264639196e7c8e89f] In section 169 (prosecutions for illegal practices), for England and Wales omit “not exceeding level 5 on the standard scale”.
+**27.**[^c-3c91216afd20286264639196e7c8e89f] In section 169 (prosecutions for illegal practices), for England and Wales omit “not exceeding level 5 on the standard scale”.
 
-**28.**[^key-3e37af21593871d8716d1a49bcee4723] In section 173 (incapacities on conviction of corrupt or illegal practice)—
+**28.**[^c-3e37af21593871d8716d1a49bcee4723] In section 173 (incapacities on conviction of corrupt or illegal practice)—
 
 - (a) in subsection (1), after “subsection (2)” insert “and (2A)”;
-- (b)[^key-ef598592f1ca467bbe99bc43fd3901eb] in subsection (2), for the words from “section 60” to the end, substitute “regulation 118 (personation), regulation 120 (offences relating to applications for postal or proxy signing) or regulation 122A (handling of postal petition documents by political campaigners) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016, or an illegal practice under regulation 119 of those Regulations (other signing offences).”;
+- (b)[^c-ef598592f1ca467bbe99bc43fd3901eb] in subsection (2), for the words from “section 60” to the end, substitute “regulation 118 (personation), regulation 120 (offences relating to applications for postal or proxy signing) or regulation 122A (handling of postal petition documents by political campaigners) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016, or an illegal practice under regulation 119 of those Regulations (other signing offences).”;
 - (c) after subsection (2), insert—
 
   > (2A) A court before which a person is convicted of an offence referred to in subsection (2B) may, if they think it just in the special circumstances of the case, mitigate or entirely remit any incapacity imposed by virtue of this section.
@@ -283,11 +283,11 @@ In section 168 (prosecutions for corrupt practices), in subsection (1)—
 
   .
 
-#### 29. Illegal payments, employments or hirings[^key-82884b37b5445e234d43c4c5b69cbf69]
+#### 29. Illegal payments, employments or hirings[^c-82884b37b5445e234d43c4c5b69cbf69]
 
 Omit section 175 (illegal payments, etc).
 
-#### 30. General provisions as to prosecutions[^key-64eb2aba809a0a37aa84c4de1583b25e]
+#### 30. General provisions as to prosecutions[^c-64eb2aba809a0a37aa84c4de1583b25e]
 
 In section 176 (time limit for prosecutions)—
 
@@ -295,16 +295,16 @@ In section 176 (time limit for prosecutions)—
 - (b) in subsection (2C), for “rule 57 of the parliamentary elections rules” substitute “regulations 46 and 47 (retention of documents) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (c) in subsection (2D), for “rule 57” substitute “regulations 46 and 47 of those Regulations”.
 
-**31.**[^key-3a7af20cba28072a950588732292857a] Omit section 177 (local election offences punishable summarily).
+**31.**[^c-3a7af20cba28072a950588732292857a] Omit section 177 (local election offences punishable summarily).
 
-**32.**[^key-dea4ed2e475fa36d76acfa418d41f4f4] In section 178 (prosecution of offences committed outside the United Kingdom), for “this Act” substitute “this Part of this Act or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
+**32.**[^c-dea4ed2e475fa36d76acfa418d41f4f4] In section 178 (prosecution of offences committed outside the United Kingdom), for “this Act” substitute “this Part of this Act or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-**33.**[^key-8643260ce359509860581ad10c031ffd] In section 179 (offences by associations)—
+**33.**[^c-8643260ce359509860581ad10c031ffd] In section 179 (offences by associations)—
 
 - (a) for “section 100 or 110A above” substitute “regulation 131 (details to appear on recall petition publications) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (b) after “this Act” insert “or those Regulations”.
 
-**34.**[^key-517d4722e5e41dd0ab798faf14a3fbdb] In section 180 (evidence by certificate of holding of recall petition)—
+**34.**[^c-517d4722e5e41dd0ab798faf14a3fbdb] In section 180 (evidence by certificate of holding of recall petition)—
 
 - (a) in paragraph (a), omit “, and”;
 - (b) omit paragraph (b);
@@ -317,20 +317,20 @@ In section 176 (time limit for prosecutions)—
 
   .
 
-**35.**[^key-28d09f950f3ef557c59a2655f52dd172] In section 181 (Director of Public Prosecutions), in subsection (1), after “this Act” insert “or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
+**35.**[^c-28d09f950f3ef557c59a2655f52dd172] In section 181 (Director of Public Prosecutions), in subsection (1), after “this Act” insert “or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-#### 36. Supplemental[^key-d2d249d09872ee8d556d110b77978ec1]
+#### 36. Supplemental[^c-d2d249d09872ee8d556d110b77978ec1]
 
 In section 182 (rules of procedure), in subsection (1) and in subsection (3), at the end insert “as it has effect for the purposes of the Recall of MPs Act 2015 and the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-**37.**[^key-bb665a50a4aa35657514edcf7f7d9712] In section 183 (costs), for “Part 2 or this Part of this Act” substitute “this Part of this Act or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
+**37.**[^c-bb665a50a4aa35657514edcf7f7d9712] In section 183 (costs), for “Part 2 or this Part of this Act” substitute “this Part of this Act or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-**38.**[^key-9a747cd5ec7ab05b451ca2b6b019e816] In section 184 (service of notices)—
+**38.**[^c-9a747cd5ec7ab05b451ca2b6b019e816] In section 184 (service of notices)—
 
 - (a) in subsection (1), after “this Act” insert “or the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (b) in paragraph (a), omit “or, as the case may be, the area of the authority for which the election was held”.
 
-**39.**[^key-fa23cb030c9a00265c7f633967581562] In section 185 (interpretation of Part 3)—
+**39.**[^c-fa23cb030c9a00265c7f633967581562] In section 185 (interpretation of Part 3)—
 
 - (a) omit the definitions of “appropriate officer”, “candidate”, “date of the allowance of an authorised excuse”, “declaration as to election expenses” and “return as to election expenses”;
 - (b) in the definition of “Licensing Acts”, for “means” to the end substitute “means the Licensing Act 2003 and the Acts amending that Act, or the corresponding enactments forming part of the law of Scotland or Northern Ireland;”.
@@ -339,7 +339,7 @@ In section 182 (rules of procedure), in subsection (1) and in subsection (3), at
 
 *Extent: E+W*
 
-**40.**[^key-573ec2fe579167b8d88e0162ad8f803a] (1) The Election Petition Rules 1960 apply for the purposes of a recall petition and have effect—
+**40.**[^c-573ec2fe579167b8d88e0162ad8f803a] (1) The Election Petition Rules 1960 apply for the purposes of a recall petition and have effect—
 
 - (a) with the modifications made by this Part of this Schedule, and
 - (b) with any other necessary modifications.
@@ -355,24 +355,24 @@ In section 182 (rules of procedure), in subsection (1) and in subsection (3), at
 - (b) to a returning officer has effect as if it were a reference to the petition officer (within the meaning of section 6 of the Act) for the recall petition to which a petition complaint relates;
 - (c) to a petitioner, has effect as if it were a reference to a complainant.
 
-**41.**[^key-dc3684ae2bf29bad12edf8e88be88904] In rule 2 (definitions)—
+**41.**[^c-dc3684ae2bf29bad12edf8e88be88904] In rule 2 (definitions)—
 
 - (a) omit the definitions of “local election petition” and “constituency”;
 - (b) for the definition of “petition” substitute ““complaint” means a recall petition complaint within the meaning of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (c) omit paragraph (3);
 - (d) in paragraph (4), for “and these Rules” substitute “these Rules and the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”.
 
-**42.**[^key-e6e8b7651cf4fcbdfb19f3d237a8a45c] In rule 4 (form of petition), in paragraph (1)—
+**42.**[^c-e6e8b7651cf4fcbdfb19f3d237a8a45c] In rule 4 (form of petition), in paragraph (1)—
 
 - (a) in subparagraph (a), omit “or section 128(1)”;
 - (b) in subparagraph (b), for the words after “showing” to the end substitute “the date on which public notice of the outcome of the petition was given in accordance with section 14(2)(c) of the Recall of MPs Act 2015 (determination of whether recall petition was successful)”;
 - (c) in subparagraph (c), omit “or subsection (2), (3) or (4) of section 129”.
 
-**43.**[^key-dcfd5b5958f029e3e852eb12126f1d8f] In rule 6 (notice to be given to respondent and DPP), in paragraph (1), omit “or section 128(2)”.
+**43.**[^c-dcfd5b5958f029e3e852eb12126f1d8f] In rule 6 (notice to be given to respondent and DPP), in paragraph (1), omit “or section 128(2)”.
 
-**44.**[^key-59e1c10e6cd5b069e43cf6669ccc37ca] In rule 9 (display etc of notice of time and place of trial), in paragraph (3), for the words from the beginning to “seven days” substitute “Not less than fourteen days”.
+**44.**[^c-59e1c10e6cd5b069e43cf6669ccc37ca] In rule 9 (display etc of notice of time and place of trial), in paragraph (3), for the words from the beginning to “seven days” substitute “Not less than fourteen days”.
 
-**45.**[^key-16c919a9f13d85a01c38c736eed3c6fa] In rule 10 (duty to specify matters in issue in certain complaints)—
+**45.**[^c-16c919a9f13d85a01c38c736eed3c6fa] In rule 10 (duty to specify matters in issue in certain complaints)—
 
 - (a) for paragraphs (1) and (2), substitute—
 
@@ -385,14 +385,14 @@ In section 182 (rules of procedure), in subsection (1) and in subsection (3), at
   - (i) in subparagraph (a), for “vote” substitute “signature”;
   - (ii) in subparagraph (b), for “objection to a person’s election which is not specified in a list” substitute “ground of contention not included in a statement”.
 
-**46.**[^key-3ace69ba4628ca13075fdd98c6704dfc] Omit rules 14 (petition abated in the event of a complainant’s death), and 16 (withdrawal and replacement of respondents before trial) and 18 (appointments in connection with trials of local election petitions).
+**46.**[^c-3ace69ba4628ca13075fdd98c6704dfc] Omit rules 14 (petition abated in the event of a complainant’s death), and 16 (withdrawal and replacement of respondents before trial) and 18 (appointments in connection with trials of local election petitions).
 
-**47.**[^key-5d6dff29d389a66419f9877c310556d6] In rule 19 (computation of time)—
+**47.**[^c-5d6dff29d389a66419f9877c310556d6] In rule 19 (computation of time)—
 
 - (a) in paragraph (1), for “section 119 of the Act” substitute “section 22(1) of the Act (definition of working day) and regulation 145 (time) of the Recall of MPs Act 2015 (Recall Petition) Regulations 2016”;
 - (b) in paragraph (2), omit “(not being a day mentioned in section 119(2) of the Act)”.
 
-**48.**[^key-529bfee42d888b4a554149c5b7195b92] In the Schedule (form of recall petition complaint), for the form of petition, up to the end of paragraph (1) substitute—
+**48.**[^c-529bfee42d888b4a554149c5b7195b92] In the Schedule (form of recall petition complaint), for the form of petition, up to the end of paragraph (1) substitute—
 
 > IN THE HIGH COURT OF JUSTICE
 >
@@ -426,104 +426,104 @@ In section 182 (rules of procedure), in subsection (1) and in subsection (3), at
 
 ## Annotations
 
-[^key-6fcc1169b6e5eda537fca470019444cc]: Commencement: Sch. 4 para. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6fcc1169b6e5eda537fca470019444cc]: Commencement: Sch. 4 para. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-f69a8fcbd505d1c6b2e62030a8ce6148]: Commencement: Sch. 4 para. 2 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f69a8fcbd505d1c6b2e62030a8ce6148]: Commencement: Sch. 4 para. 2 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-54c98ce55962c815401c783dae0b6ae3]: Commencement: Sch. 4 para. 3 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-54c98ce55962c815401c783dae0b6ae3]: Commencement: Sch. 4 para. 3 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-0f6b20b07572f27bcecdd4d1515b5d7b]: Commencement: Sch. 4 para. 4 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0f6b20b07572f27bcecdd4d1515b5d7b]: Commencement: Sch. 4 para. 4 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e4d7e788a503d70cba3ea98cc0001327]: Commencement: Sch. 4 para. 5 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e4d7e788a503d70cba3ea98cc0001327]: Commencement: Sch. 4 para. 5 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-f5ac2492b80832effc3a80c4636deb20]: Commencement: Sch. 4 para. 6 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f5ac2492b80832effc3a80c4636deb20]: Commencement: Sch. 4 para. 6 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-8b32513ed7be085ea503c3da4e90dea0]: Commencement: Sch. 4 para. 7 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8b32513ed7be085ea503c3da4e90dea0]: Commencement: Sch. 4 para. 7 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-dedd8303414cb3bf8749c5c15f35e736]: Commencement: Sch. 4 para. 8 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-dedd8303414cb3bf8749c5c15f35e736]: Commencement: Sch. 4 para. 8 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-5f2526a5ac592129b5a2ecf20843d746]: Commencement: Sch. 4 para. 9 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-5f2526a5ac592129b5a2ecf20843d746]: Commencement: Sch. 4 para. 9 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-b65aace09105117ce35b7182985e74dc]: Commencement: Sch. 4 para. 10 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b65aace09105117ce35b7182985e74dc]: Commencement: Sch. 4 para. 10 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-eb293f777cca65f6fab488270a408fce]: Commencement: Sch. 4 para. 11 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-eb293f777cca65f6fab488270a408fce]: Commencement: Sch. 4 para. 11 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-0c0fd2d4218b3e5f8f1f72cfacb8b025]: Commencement: Sch. 4 para. 12 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0c0fd2d4218b3e5f8f1f72cfacb8b025]: Commencement: Sch. 4 para. 12 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e6696a3543b377a3c39bfe16915b4344]: Commencement: Sch. 4 para. 13 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e6696a3543b377a3c39bfe16915b4344]: Commencement: Sch. 4 para. 13 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-8658ef3fef6571300605fbe9ed66301f]: Commencement: Sch. 4 para. 14 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8658ef3fef6571300605fbe9ed66301f]: Commencement: Sch. 4 para. 14 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e7d2977ed6d4f6e764e2138add843cbb]: Commencement: Sch. 4 para. 15 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e7d2977ed6d4f6e764e2138add843cbb]: Commencement: Sch. 4 para. 15 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e9457b76d8c408d7c9d575cf25a739d8]: Commencement: Sch. 4 para. 16 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e9457b76d8c408d7c9d575cf25a739d8]: Commencement: Sch. 4 para. 16 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-afd480d0c88f467e983eb2a12cf7a3c4]: Commencement: Sch. 4 para. 17 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-afd480d0c88f467e983eb2a12cf7a3c4]: Commencement: Sch. 4 para. 17 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-782f9fc17900cd887b23910ec2dff25a]: Commencement: Sch. 4 para. 18 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-782f9fc17900cd887b23910ec2dff25a]: Commencement: Sch. 4 para. 18 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-0e1e7033c04a31281cefb009ac35e9d2]: Commencement: Sch. 4 para. 19 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0e1e7033c04a31281cefb009ac35e9d2]: Commencement: Sch. 4 para. 19 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-99b4bcbd23e5e0ba9ac62307c6763382]: Commencement: Sch. 4 para. 20 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-99b4bcbd23e5e0ba9ac62307c6763382]: Commencement: Sch. 4 para. 20 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-8855259f3364577af656f8265ef39ad7]: Commencement: Sch. 4 para. 21 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8855259f3364577af656f8265ef39ad7]: Commencement: Sch. 4 para. 21 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-85fae733dc00a2cab5c3925c4f7bfcd6]: Textual amendment: Words in Sch. 4 para. 21(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/a)
+[^c-85fae733dc00a2cab5c3925c4f7bfcd6]: Textual amendment: Words in Sch. 4 para. 21(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/a)
 
-[^key-4ab2a130dd15e22a72c215c004c650d0]: Commencement: Sch. 4 para. 22 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-4ab2a130dd15e22a72c215c004c650d0]: Commencement: Sch. 4 para. 22 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-c3443f9bbccdf97b7759b58473541f23]: Commencement: Sch. 4 para. 23 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c3443f9bbccdf97b7759b58473541f23]: Commencement: Sch. 4 para. 23 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-4e3b2460c224356d620cfcb88ce76fa6]: Commencement: Sch. 4 para. 24 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-4e3b2460c224356d620cfcb88ce76fa6]: Commencement: Sch. 4 para. 24 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e61f2052d87c59c4e48afaf43cd64fb0]: Commencement: Sch. 4 para. 25 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e61f2052d87c59c4e48afaf43cd64fb0]: Commencement: Sch. 4 para. 25 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-d745cb2b0f0a0d110658333f7abe0e7f]: Commencement: Sch. 4 para. 26 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d745cb2b0f0a0d110658333f7abe0e7f]: Commencement: Sch. 4 para. 26 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-813a258dd8d0f7f50e96faa9e0715fce]: Textual amendment: Sch. 4 para. 26(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/b)
+[^c-813a258dd8d0f7f50e96faa9e0715fce]: Textual amendment: Sch. 4 para. 26(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/b)
 
-[^key-3c91216afd20286264639196e7c8e89f]: Commencement: Sch. 4 para. 27 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3c91216afd20286264639196e7c8e89f]: Commencement: Sch. 4 para. 27 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-3e37af21593871d8716d1a49bcee4723]: Commencement: Sch. 4 para. 28 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3e37af21593871d8716d1a49bcee4723]: Commencement: Sch. 4 para. 28 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-ef598592f1ca467bbe99bc43fd3901eb]: Textual amendment: Sch. 4 para. 28(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(c)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/c)
+[^c-ef598592f1ca467bbe99bc43fd3901eb]: Textual amendment: Sch. 4 para. 28(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(23)(c)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/23/c)
 
-[^key-82884b37b5445e234d43c4c5b69cbf69]: Commencement: Sch. 4 para. 29 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-82884b37b5445e234d43c4c5b69cbf69]: Commencement: Sch. 4 para. 29 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-64eb2aba809a0a37aa84c4de1583b25e]: Commencement: Sch. 4 para. 30 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-64eb2aba809a0a37aa84c4de1583b25e]: Commencement: Sch. 4 para. 30 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-3a7af20cba28072a950588732292857a]: Commencement: Sch. 4 para. 31 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3a7af20cba28072a950588732292857a]: Commencement: Sch. 4 para. 31 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-dea4ed2e475fa36d76acfa418d41f4f4]: Commencement: Sch. 4 para. 32 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-dea4ed2e475fa36d76acfa418d41f4f4]: Commencement: Sch. 4 para. 32 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-8643260ce359509860581ad10c031ffd]: Commencement: Sch. 4 para. 33 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8643260ce359509860581ad10c031ffd]: Commencement: Sch. 4 para. 33 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-517d4722e5e41dd0ab798faf14a3fbdb]: Commencement: Sch. 4 para. 34 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-517d4722e5e41dd0ab798faf14a3fbdb]: Commencement: Sch. 4 para. 34 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-28d09f950f3ef557c59a2655f52dd172]: Commencement: Sch. 4 para. 35 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-28d09f950f3ef557c59a2655f52dd172]: Commencement: Sch. 4 para. 35 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-d2d249d09872ee8d556d110b77978ec1]: Commencement: Sch. 4 para. 36 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d2d249d09872ee8d556d110b77978ec1]: Commencement: Sch. 4 para. 36 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-bb665a50a4aa35657514edcf7f7d9712]: Commencement: Sch. 4 para. 37 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-bb665a50a4aa35657514edcf7f7d9712]: Commencement: Sch. 4 para. 37 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-9a747cd5ec7ab05b451ca2b6b019e816]: Commencement: Sch. 4 para. 38 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-9a747cd5ec7ab05b451ca2b6b019e816]: Commencement: Sch. 4 para. 38 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-fa23cb030c9a00265c7f633967581562]: Commencement: Sch. 4 para. 39 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-fa23cb030c9a00265c7f633967581562]: Commencement: Sch. 4 para. 39 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-573ec2fe579167b8d88e0162ad8f803a]: Commencement: Sch. 4 para. 40 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-573ec2fe579167b8d88e0162ad8f803a]: Commencement: Sch. 4 para. 40 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-dc3684ae2bf29bad12edf8e88be88904]: Commencement: Sch. 4 para. 41 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-dc3684ae2bf29bad12edf8e88be88904]: Commencement: Sch. 4 para. 41 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-e6e8b7651cf4fcbdfb19f3d237a8a45c]: Commencement: Sch. 4 para. 42 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e6e8b7651cf4fcbdfb19f3d237a8a45c]: Commencement: Sch. 4 para. 42 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-dcfd5b5958f029e3e852eb12126f1d8f]: Commencement: Sch. 4 para. 43 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-dcfd5b5958f029e3e852eb12126f1d8f]: Commencement: Sch. 4 para. 43 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-59e1c10e6cd5b069e43cf6669ccc37ca]: Commencement: Sch. 4 para. 44 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-59e1c10e6cd5b069e43cf6669ccc37ca]: Commencement: Sch. 4 para. 44 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-16c919a9f13d85a01c38c736eed3c6fa]: Commencement: Sch. 4 para. 45 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-16c919a9f13d85a01c38c736eed3c6fa]: Commencement: Sch. 4 para. 45 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-3ace69ba4628ca13075fdd98c6704dfc]: Commencement: Sch. 4 para. 46 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3ace69ba4628ca13075fdd98c6704dfc]: Commencement: Sch. 4 para. 46 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-5d6dff29d389a66419f9877c310556d6]: Commencement: Sch. 4 para. 47 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-5d6dff29d389a66419f9877c310556d6]: Commencement: Sch. 4 para. 47 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-529bfee42d888b4a554149c5b7195b92]: Commencement: Sch. 4 para. 48 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-529bfee42d888b4a554149c5b7195b92]: Commencement: Sch. 4 para. 48 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

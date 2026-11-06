@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446S. Notional loan[^key-50a0c1b5a35931f04337ef6a4d73c721]
+## 446S. Notional loan[^c-50a0c1b5a35931f04337ef6a4d73c721]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 - section 185 (apportionment of cash equivalent in case of joint loan etc), and
 - section 187 (aggregation of loans by close company to director).
 
-(4)[^key-a52bda11aec37e177fc8e913aea7722f] This section is not affected by section 554Z2(2).
+(4)[^c-a52bda11aec37e177fc8e913aea7722f] This section is not affected by section 554Z2(2).
 
 ## Annotations
 
-[^key-50a0c1b5a35931f04337ef6a4d73c721]: Textual amendment: Pt. 7 Ch. 3C inserted (with effect in accordance with Sch. 22 para. 7(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/7/1)
+[^c-50a0c1b5a35931f04337ef6a4d73c721]: Textual amendment: Pt. 7 Ch. 3C inserted (with effect in accordance with Sch. 22 para. 7(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/7/1)
 
-[^key-a52bda11aec37e177fc8e913aea7722f]: Textual amendment: [S. 446S(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/446S/4) inserted (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/21)
+[^c-a52bda11aec37e177fc8e913aea7722f]: Textual amendment: [S. 446S(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/446S/4) inserted (with effect in accordance with Sch . 2 para. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/21)

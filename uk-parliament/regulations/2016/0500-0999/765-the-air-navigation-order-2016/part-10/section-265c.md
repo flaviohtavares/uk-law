@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265C. Offence: registration of certified unmanned aircraft[^key-b17bb607d7c52c215c43f55b4775b767]
+## 265C. Offence: registration of certified unmanned aircraft[^c-b17bb607d7c52c215c43f55b4775b767]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17bb607d7c52c215c43f55b4775b767]: Textual amendment: [Art. 265C](https://www.legislation.gov.uk/uksi/2016/765/article/265C) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/3/c)
+[^c-b17bb607d7c52c215c43f55b4775b767]: Textual amendment: [Art. 265C](https://www.legislation.gov.uk/uksi/2016/765/article/265C) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/3/c)

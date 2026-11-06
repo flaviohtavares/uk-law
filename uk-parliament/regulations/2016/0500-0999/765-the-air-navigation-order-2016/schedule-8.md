@@ -50,7 +50,7 @@ Articles 152 to 159
 
 (1) In this Part, a reference to the “**excepted flights condition**” in the privileges for aeroplane, helicopter, gyroplane and balloon and airship private pilot's licences is to the condition set out in this paragraph.
 
-(2) The condition is that the holder of a private pilot's licence may only fly on a public transport or commercial operations flight if it is a flight of the type mentioned in article 6(4a) of the [^key-6adeccffb0760ce958389d8e56bff8d9]... Air Operations Regulation.
+(2) The condition is that the holder of a private pilot's licence may only fly on a public transport or commercial operations flight if it is a flight of the type mentioned in article 6(4a) of the [^c-6adeccffb0760ce958389d8e56bff8d9]... Air Operations Regulation.
 
 ##### 4. Remuneration condition
 
@@ -311,9 +311,9 @@ The holder of an Airline Transport Pilot's Licence (Helicopters and Gyroplanes) 
 (1) The holder of a Private Pilot's Licence (Balloons and Airships) is entitled—
 
 - (a) in accordance with the remainder of this paragraph, to fly as pilot in command or co-pilot of any type of balloon or airship on which the holder is so qualified and which is specified in an aircraft rating in the licence, unless prohibited by paragraph (2);
-- (b)[^key-55bf5568301f1ee8ff198a8bf7489228] to fly as pilot in command of such a balloon or airship at night if the licence includes a night rating (balloons and airships).
+- (b)[^c-55bf5568301f1ee8ff198a8bf7489228] to fly as pilot in command of such a balloon or airship at night if the licence includes a night rating (balloons and airships).
 
-(2)[^key-fe109172a884990b24e0053b074e955e] The holder of a Private Pilot’s Licence (Balloons and Airships) may not fly a balloon or airship mentioned in paragraph (1)(a)—
+(2)[^c-fe109172a884990b24e0053b074e955e] The holder of a Private Pilot’s Licence (Balloons and Airships) may not fly a balloon or airship mentioned in paragraph (1)(a)—
 
 - (a) for the purpose of public transport or commercial operation;
 - (b) for remuneration or other valuable consideration;
@@ -358,7 +358,7 @@ The holder of a Commercial Pilot's Licence (Airships) is entitled to fly as pilo
 
 *Privileges:*
 
-The holder of a Flight Navigator's Licence is entitled to act as flight navigator in any non-Part-21[^key-a95a3efc1604ecb7d47280d58cb63073] aircraft.
+The holder of a Flight Navigator's Licence is entitled to act as flight navigator in any non-Part-21[^c-a95a3efc1604ecb7d47280d58cb63073] aircraft.
 
 **Flight Engineer's Licence**
 
@@ -390,7 +390,7 @@ The holder of a Flight Radiotelephony Operator's Licence is entitled to operate 
 
 *Privileges and conditions:*
 
-(1)[^key-a14cb5bd649068749c0e349843a454f6] The holder of a National Private Pilot’s Licence (Aeroplanes) is entitled—
+(1)[^c-a14cb5bd649068749c0e349843a454f6] The holder of a National Private Pilot’s Licence (Aeroplanes) is entitled—
 
 - (a) in accordance with the remainder of this paragraph, to fly for the purposes of non-commercial operations as pilot in command of any aeroplane for which a class rating is included in the licence provided that the total number of persons carried (including the pilot) does not exceed four, and the maximum certified take-off mass of the aeroplane does not exceed 2,000 kg;
 - (b) with the permission of the competent authority for the airspace in which the aircraft is being flown, to fly such an aeroplane outside the United Kingdom;
@@ -415,7 +415,7 @@ The holder of a Flight Radiotelephony Operator's Licence is entitled to operate 
 
 unless authorised to do so by the CAA.
 
-**Light Aircraft[^key-98581c0cd945526bf2e01eb1d1e3e609] Pilot's Licence (Helicopters)**
+**Light Aircraft[^c-98581c0cd945526bf2e01eb1d1e3e609] Pilot's Licence (Helicopters)**
 
 *Minimum age:*
 
@@ -425,7 +425,7 @@ unless authorised to do so by the CAA.
 
 (1) The holder of a Light Aircraft Pilot's Licence (Helicopters) is entitled—
 
-- (a) in accordance with the remainder of this paragraph, to fly for the purposes of non-commercial operations as pilot in command of a single-engine helicopter with a maximum take-off mass of 2,000 kg or less for which a class or type[^key-7921db729447603ba24a015fc07d0c9a] rating is included in the licence provided that the total number of persons carried (including the pilot) does not exceed four, unless prohibited by paragraph (2);
+- (a) in accordance with the remainder of this paragraph, to fly for the purposes of non-commercial operations as pilot in command of a single-engine helicopter with a maximum take-off mass of 2,000 kg or less for which a class or type[^c-7921db729447603ba24a015fc07d0c9a] rating is included in the licence provided that the total number of persons carried (including the pilot) does not exceed four, unless prohibited by paragraph (2);
 - (b) with the permission of the competent authority for the airspace in which the aircraft is being flown, to fly such a helicopter outside the United Kingdom;
 - (c) to fly such a helicopter for the purpose of commercial operation where the excepted flights condition is met;
 - (d) to fly as pilot in command of such a helicopter carrying passengers if—
@@ -442,7 +442,7 @@ unless authorised to do so by the CAA.
 
 unless authorised to do so by the CAA.
 
-(3)[^key-d3f7cb5051965fa234a6b48ff1f0c3ff] A National Private Pilot’s Licence (Helicopters) granted before 1st October 2025 is deemed to be a Light Aircraft Pilot’s Licence (Helicopters).
+(3)[^c-d3f7cb5051965fa234a6b48ff1f0c3ff] A National Private Pilot’s Licence (Helicopters) granted before 1st October 2025 is deemed to be a Light Aircraft Pilot’s Licence (Helicopters).
 
 ### PART 2 — Ratings, certificates and qualifications
 
@@ -454,7 +454,7 @@ unless authorised to do so by the CAA.
 
 **2.** When included in a Flight Engineer's Licence an aircraft rating entitles the holder of the licence to act as flight engineer only of aircraft of a type specified in the aircraft rating.
 
-###### Single Engine (Gyroplanes)[^key-ecdfac2bd2058e2623023f2d001a28d4]
+###### Single Engine (Gyroplanes)[^c-ecdfac2bd2058e2623023f2d001a28d4]
 
 A Single Engine (Gyroplanes) rating entitles the holder to fly as pilot in command of the type of gyroplane for which the holder passed the licence skill test for the rating, except where the holder has—
 
@@ -471,7 +471,7 @@ An instrument rating (aeroplane) entitles the holder of the licence to act as pi
 
 An instrument rating (helicopter) entitles the holder of the licence to act as pilot in command or co-pilot of a helicopter flying under the Instrument Flight Rules.
 
-[^key-d9c2d21109e76d8fb342777c19f6cc0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9c2d21109e76d8fb342777c19f6cc0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ###### Night rating (helicopters)
 
@@ -495,7 +495,7 @@ A flight instructor certificate (aeroplane) entitles the holder of the licence t
 
 (1) Until the holder of a flight instructor certificate (aeroplane) has completed at least 100 hours flight instruction and, in addition, has supervised at least 25 solo flights by students, the privileges of the certificate are restricted.
 
-(2) The restrictions will be removed from the certificate when the requirements specified in paragraph (1) have been met [^key-189e1f2a0910070f213643ffbdd12b8e]... .
+(2) The restrictions will be removed from the certificate when the requirements specified in paragraph (1) have been met [^c-189e1f2a0910070f213643ffbdd12b8e]... .
 
 *Restrictions – restricted privileges*
 
@@ -514,16 +514,16 @@ A flight instructor certificate (helicopter) entitles the holder of the licence 
 
 *Restrictions – restricted period*
 
-(1) Until the holder of a flight instructor certificate (helicopter) has completed at least 100 hours flight instruction and, in addition, has supervised at least 25 student pilot solo flight exercises[^key-ca00160b7e1617f07bf8e1e6088365bc], the privileges of the certificate are restricted.
+(1) Until the holder of a flight instructor certificate (helicopter) has completed at least 100 hours flight instruction and, in addition, has supervised at least 25 student pilot solo flight exercises[^c-ca00160b7e1617f07bf8e1e6088365bc], the privileges of the certificate are restricted.
 
-(2) The restrictions will be removed from the certificate when the requirements specified in paragraph (1) have been met [^key-f41c8a1306b9ba48acda6462e70edfb8]... .
+(2) The restrictions will be removed from the certificate when the requirements specified in paragraph (1) have been met [^c-f41c8a1306b9ba48acda6462e70edfb8]... .
 
 *Restrictions – restricted privileges*
 
 (1) The privileges are restricted to carrying out under the supervision of the holder of a flight instructor certificate (helicopter) approved for this purpose—
 
 - (a) flight instruction for—
-  - (i) the issue of a Light Aircraft Pilot’s Licence (Helicopters)[^key-b2bb854d4fb6a1674f90efdcb7531dce] and a United Kingdom Private Pilot's Licence (Helicopters); and
+  - (i) the issue of a Light Aircraft Pilot’s Licence (Helicopters)[^c-b2bb854d4fb6a1674f90efdcb7531dce] and a United Kingdom Private Pilot's Licence (Helicopters); and
   - (ii) type ratings for single-engine helicopters,
 
   other than for the approval of first solo flights by day or by night and first solo cross country flights by day or by night; and
@@ -537,7 +537,7 @@ A flight instructor certificate (gyroplanes) entitles the holder of the licence 
 
 A flight instructor certificate (restricted) (gyroplanes) entitles the holder of the licence to give instruction in flying gyroplanes of such types as may be specified in the rating for that purpose, but—
 
-- (a)[^key-a41667dc84f911506ab2b292d958abfb] such instruction must only be given under the supervision of a person who—
+- (a)[^c-a41667dc84f911506ab2b292d958abfb] such instruction must only be given under the supervision of a person who—
   - (i) is present—
     - (aa) during the take-off and landing at the aerodrome at which instruction is to begin and end;
     - (bb) in flight within the circuit pattern of the same aerodrome; or
@@ -575,7 +575,7 @@ An instrument rating instructor certificate (helicopter) entitles the holder to 
 
 A night rating (aeroplanes) entitles the holder of a United Kingdom Private Pilot's Licence (Aeroplanes) or a National Private Pilot's Licence (Aeroplanes) to act as pilot in command of an aeroplane at night.
 
-##### Instrument meteorological conditions rating (aeroplanes)[^key-b8fec4813394ef4ccaa6719b5169f53f]
+##### Instrument meteorological conditions rating (aeroplanes)[^c-b8fec4813394ef4ccaa6719b5169f53f]
 
 An instrument meteorological conditions rating (aeroplanes) entitles the holder of the licence to act as pilot in command or co-pilot of an aeroplane flying under the Instrument Flight Rules except—
 
@@ -592,12 +592,12 @@ An aerobatic rating (aeroplanes) entitles the holder of the licence to act as pi
 
 (2) If the current certificate of revalidation for the rating is endorsed “single seat only” the holder is only entitled to act as pilot in command of any single seat microlight aeroplane.
 
-(3) If the aeroplane [^key-82bc0c5ce6f57bc676c210c8d19d83f2]...—
+(3) If the aeroplane [^c-82bc0c5ce6f57bc676c210c8d19d83f2]...—
 
-- (a) has[^key-4f81f74e823ffe7c9f89488dc0df2fb1] three axis controls and the holder's previous training and experience has only been in an aeroplane with flexwing or weightshift controls;
-- (b) has[^key-d9612f414764be6753885f9538cf0ce4] flexwing or weightshift controls and the holder's previous training and experience has only been in an aeroplane with three axis controls; [^key-f57593b20d115675f5421532ab5fa842]...
-- (c)[^key-d0666ad60e9d460fd44c62b0296ff9a7] has a maximum take-off mass of more than 475kg (or more than 495kg if the aeroplane is an amphibian or floatplane) and the holder’s previous training and experience has only been in a microlight aeroplane with a maximum take-off mass of 475kg or less (or 495kg or less if the aeroplane is an amphibian or floatplane);
-- (d)[^key-82549c7a6573fae09250ed98dd7b5441] has a maximum take-off mass of 600kg or less (or 650kg or less if the aeroplane is an amphibian or floatplane) and the holder’s previous training and experience has only been in aeroplanes with a maximum take-off mass of more than 600kg (or more than 650kg if the aeroplane is an amphibian or floatplane);
+- (a) has[^c-4f81f74e823ffe7c9f89488dc0df2fb1] three axis controls and the holder's previous training and experience has only been in an aeroplane with flexwing or weightshift controls;
+- (b) has[^c-d9612f414764be6753885f9538cf0ce4] flexwing or weightshift controls and the holder's previous training and experience has only been in an aeroplane with three axis controls; [^c-f57593b20d115675f5421532ab5fa842]...
+- (c)[^c-d0666ad60e9d460fd44c62b0296ff9a7] has a maximum take-off mass of more than 475kg (or more than 495kg if the aeroplane is an amphibian or floatplane) and the holder’s previous training and experience has only been in a microlight aeroplane with a maximum take-off mass of 475kg or less (or 495kg or less if the aeroplane is an amphibian or floatplane);
+- (d)[^c-82549c7a6573fae09250ed98dd7b5441] has a maximum take-off mass of 600kg or less (or 650kg or less if the aeroplane is an amphibian or floatplane) and the holder’s previous training and experience has only been in aeroplanes with a maximum take-off mass of more than 600kg (or more than 650kg if the aeroplane is an amphibian or floatplane);
 - (e) is fitted with—
   - (i) a tricycle undercarriage;
   - (ii) a tailwheel;
@@ -623,7 +623,7 @@ before exercising the privileges of the rating the holder must complete appropri
 
 (6) The differences training mentioned in paragraph (5) must be given by a flight instructor entitled to instruct on the aeroplane on which the training is being given, recorded in the holder's personal flying logbook and endorsed and signed by the instructor conducting the training.
 
-**Single Engine Piston (SEP) class rating[^key-e20bae56d7ebf77c8b9e788fcd743092]**
+**Single Engine Piston (SEP) class rating[^c-e20bae56d7ebf77c8b9e788fcd743092]**
 
 (1) Subject to paragraphs (3) to (6), a Single Engine Piston (SEP) class rating entitles the holder to act as pilot in command of any single engine piston aeroplane.
 
@@ -659,13 +659,13 @@ before exercising the privileges of the rating the holder must complete appropri
 - (a) had, prior to 1st October 2025, completed appropriate differences training relating to take off and landing on water; and
 - (b) has passed the Private or Professional Seamanship examination.
 
-**TMG[^key-adb3b081fe5b54c59294ff4e94acb1ab] class rating**
+**TMG[^c-adb3b081fe5b54c59294ff4e94acb1ab] class rating**
 
 (1) Subject to paragraph (2) and to the conditions of the licence in which it is included, a TMG class rating entitles the holder to act as pilot in command of any TMG.
 
 (2) If the current certificate of revalidation for the rating is endorsed “single seat only” the holder is only entitled to act as pilot in command of a single seat TMG.
 
-(3)[^key-fd5a2536c2bc05cc23cb81677c56cbe0] An aircraft rating endorsed on a licence as “SLMG” prior to 1st October 2025 is deemed to be a TMG class rating.
+(3)[^c-fd5a2536c2bc05cc23cb81677c56cbe0] An aircraft rating endorsed on a licence as “SLMG” prior to 1st October 2025 is deemed to be a TMG class rating.
 
 ##### Flight instructor's certificate (microlight)
 
@@ -679,13 +679,13 @@ A flight instructor's certificate (microlight) entitles the holder of the licenc
 
 (3) A flight instructor's certificate (restricted) (microlight) does not entitle the holder of the licence to authorise the person undergoing instruction to perform a first solo flight or first solo cross-country flight.
 
-**Flight instructor’s certificate (TMG)[^key-7ecc43ab9a3415c1b66508ddd7ba1998]**
+**Flight instructor’s certificate (TMG)[^c-7ecc43ab9a3415c1b66508ddd7ba1998]**
 
 (1) A flight instructor’s certificate (TMG) entitles the holder of the licence to give instruction in flying TMGs.
 
 (2) A flight instructor’s certificate endorsed on a licence as “FI (SLMG)” prior to 1st October 2025 is deemed to be a flight instructor’s certificate (TMG).
 
-#### CHAPTER 3 — Ratings which may be included in Light Aircraft Pilot’s Licences (Helicopters)[^key-8dd987361aaaf30fc4c1759e186e7416]
+#### CHAPTER 3 — Ratings which may be included in Light Aircraft Pilot’s Licences (Helicopters)[^c-8dd987361aaaf30fc4c1759e186e7416]
 
 ##### Helicopter type rating
 
@@ -706,12 +706,12 @@ A helicopter type rating for a single engine helicopter with a maximum total wei
 (2) For the purposes of paragraph 1(1)(a)—
 
 - (a) ratings and certificates are valid from the date of issue until the end of the period specified in column 2 after the end of the month in which the rating or certificate was issued;
-- (b)[^key-9e84363d01eb32f413bb6c8d25608fdf] as regards revalidation the rating and certificate are valid from the end of the period in paragraph (a) for the period specified in column 2—
+- (b)[^c-9e84363d01eb32f413bb6c8d25608fdf] as regards revalidation the rating and certificate are valid from the end of the period in paragraph (a) for the period specified in column 2—
   - (i) in relation to any rating or certificate that may be revalidated by meeting flight or instruction experience requirements, provided those experience requirements have been met; or
   - (ii) subject to sub-paragraph (2A), in relation to any other rating or certificate, provided that the rating or certificate is revalidated within the period of three months preceding the end of the period in paragraph (a); and
 - (c) as regards renewal, the new rating or certificate is valid from the date of issue until the end of the period specified in column 2 after the end of the month in which the rating or certificate was renewed.
 
-(2A)[^key-99e53f6d5e187ddd6b34e4df66caa65f] Where a rating or certificate is revalidated by a proficiency check prior to the last 3 months of the period specified in column 2, the period specified in column 2 commences from the end of the month in which the revalidation occurred.
+(2A)[^c-99e53f6d5e187ddd6b34e4df66caa65f] Where a rating or certificate is revalidated by a proficiency check prior to the last 3 months of the period specified in column 2, the period specified in column 2 commences from the end of the month in which the revalidation occurred.
 
 (3) For the purposes of paragraphs 1(1)(b) and (c), a reference in the following tables to—
 
@@ -746,7 +746,7 @@ A helicopter type rating for a single engine helicopter with a maximum total wei
   | --- | --- | --- | --- |
   | Any single engine class rating | 24 months | (a) 12 hours flight time in the relevant class within the 12 months preceding the expiry of the rating, including—<br>(i) 6 hours as pilot in command;<br>(ii) 12 take-offs and landings; and<br>(iii) a one-hour flight with the holder of a Flight Instructor certificate (Gyroplanes); or<br>(b) complete such proficiency check as the CAA may require. | Complete such training and pass such proficiency check as the CAA may require. |
 
-  [^key-655bcd6d2c84772e902e991817af669f]Table 4
+  [^c-655bcd6d2c84772e902e991817af669f]Table 4
 
   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -818,7 +818,7 @@ A certificate of revalidation must be signed by a person authorised by the CAA t
 
 #### CHAPTER 2 — Requirement for a Certificate of Revalidation to maintain the validity of, or renew, a rating specified in Chapter 2 or 3 of Part 2
 
-**4.** (1) A certificate of revalidation required by article 157 for an SEP class rating[^key-1c1bb9ab8f7eec06bc748ae9caa4ceef], a microlight class rating or a TMG class rating[^key-52e9414c9ee4cfd32a6e1e0ea634ac67] must be signed by a person authorised by the CAA to sign certificates of this kind and certify—
+**4.** (1) A certificate of revalidation required by article 157 for an SEP class rating[^c-1c1bb9ab8f7eec06bc748ae9caa4ceef], a microlight class rating or a TMG class rating[^c-52e9414c9ee4cfd32a6e1e0ea634ac67] must be signed by a person authorised by the CAA to sign certificates of this kind and certify—
 
 - (a) the rating to which the certificate relates;
 - (b) that on a specified date the holder has satisfied the relevant requirements for issue in accordance with Table A and Table B;
@@ -830,15 +830,15 @@ A certificate of revalidation must be signed by a person authorised by the CAA t
   |  | *Circumstances* | *Requirements* |
   | --- | --- | --- |
   | 1 | On initial issue by the CAA | The holder of the licence has passed a NPPL General Skill Test with the authorised examiner signing the licence application form in an aeroplane of the class for which the certificate of revalidation is sought |
-  | 2 | There is a current valid certificate of revalidation for the rating | The holder of the licence has—<br>(a) passed a NPPL General Skill Test with the authorised examiner signing the certificate in an aeroplane of the class for which the certificate of revalidation is sought; or<br>(b) produced their personal flying log book to the authorised person signing the certificate and satisfied the authorised person that the holder satisfied the experience requirements specified in paragraph (2)[^key-b77a5838ea76e9726711af0c0afa0b02] |
+  | 2 | There is a current valid certificate of revalidation for the rating | The holder of the licence has—<br>(a) passed a NPPL General Skill Test with the authorised examiner signing the certificate in an aeroplane of the class for which the certificate of revalidation is sought; or<br>(b) produced their personal flying log book to the authorised person signing the certificate and satisfied the authorised person that the holder satisfied the experience requirements specified in paragraph (2)[^c-b77a5838ea76e9726711af0c0afa0b02] |
   | 3 | The last previous certificate of revalidation for the rating expired less than five years before the date on which the new certificate is to be signed | The holder of the licence has passed a NPPL General Skill Test with the authorised examiner signing the certificate in an aeroplane of the class for which the certificate of revalidation is sought |
   | 4 | The last previous certificate of revalidation for the rating expired five years or more before the date on which the new certificate is to be signed | The holder of the licence has passed—<br>(a) a NPPL General Skill Test with the authorised examiner signing the certificate in an aeroplane of the class for which the certificate of revalidation is sought; and<br>(b) an oral theoretical knowledge examination conducted by the authorised examiner as part of the NPPL General Skill Test |
 
-  [^key-e5fe33760b4b1021c2fc68a5f908f601]Table B
+  [^c-e5fe33760b4b1021c2fc68a5f908f601]Table B
 
   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-62bd7b100bc986303fbbb9d2503beeee] The experience requirements for the issue of a certificate of revalidation for a class rating in accordance with paragraph 2(b) of Table A are that the holder has, as a pilot in aeroplanes for which there is a class rating included in the licence and within the period of validity of the current certificate of revalidation for the rating—
+(2)[^c-62bd7b100bc986303fbbb9d2503beeee] The experience requirements for the issue of a certificate of revalidation for a class rating in accordance with paragraph 2(b) of Table A are that the holder has, as a pilot in aeroplanes for which there is a class rating included in the licence and within the period of validity of the current certificate of revalidation for the rating—
 
 - (a) flown at least 12 hours which includes at least 6 hours as pilot in command;
 - (b) completed at least 12 take-offs and at least 12 landings;
@@ -849,7 +849,7 @@ A certificate of revalidation must be signed by a person authorised by the CAA t
 
 (3) If the rating—
 
-- (a)[^key-31cbf83e7ee5b6e8241569e245118cb1] has not expired, the new certificate is valid for 24 months from the end of the month which includes the expiry date of the existing certificate, except where the certificate is validated by a NPPL General Skill Test more than 3 months before the expiry date of the existing certificate, in which case the new certificate is valid for 24 months from the end of the month in which the test was taken;
+- (a)[^c-31cbf83e7ee5b6e8241569e245118cb1] has not expired, the new certificate is valid for 24 months from the end of the month which includes the expiry date of the existing certificate, except where the certificate is validated by a NPPL General Skill Test more than 3 months before the expiry date of the existing certificate, in which case the new certificate is valid for 24 months from the end of the month in which the test was taken;
 - (b) has expired, the new certificate is valid for 24 months in addition to the remainder of the month in which the date of test falls.
 
 **5.** (1) A certificate of revalidation required by article 157 for a flight instructor's certificate (SLMG), a flight instructor's certificate (microlight), or an flight instructor's certificate (restricted) (microlight) must be signed by a person authorised by the CAA to sign certificates of this kind and certify—
@@ -861,85 +861,85 @@ A certificate of revalidation must be signed by a person authorised by the CAA t
 
 (2) If the rating—
 
-- (a)[^key-0317ac6fa869b932e7e56e5556c7f727] has not expired, the new certificate is valid for 36 months from the end of the month which includes the expiry date of the existing certificate, except where the test is taken more than 3 months before the expiry date of the existing certificate, in which case the new certificate is valid for 36 months from the end of the month in which the test was taken;
+- (a)[^c-0317ac6fa869b932e7e56e5556c7f727] has not expired, the new certificate is valid for 36 months from the end of the month which includes the expiry date of the existing certificate, except where the test is taken more than 3 months before the expiry date of the existing certificate, in which case the new certificate is valid for 36 months from the end of the month in which the test was taken;
 - (b) has expired, the new certificate is valid for 36 months in addition to the remainder of the month in which the date of test falls.
 
-**6.**[^key-02a136ba2c018163515eec5d4a8158c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-02a136ba2c018163515eec5d4a8158c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6adeccffb0760ce958389d8e56bff8d9]: Textual amendment: Word in [Sch. 8 Pt. 1 Ch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/1/paragraph/3/2) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/83/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6adeccffb0760ce958389d8e56bff8d9]: Textual amendment: Word in [Sch. 8 Pt. 1 Ch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/1/paragraph/3/2) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/83/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55bf5568301f1ee8ff198a8bf7489228]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 2 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/a/i)
+[^c-55bf5568301f1ee8ff198a8bf7489228]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 2 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/a/i)
 
-[^key-fe109172a884990b24e0053b074e955e]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 2 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/a/ii)
+[^c-fe109172a884990b24e0053b074e955e]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 2 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/a/ii)
 
-[^key-a95a3efc1604ecb7d47280d58cb63073]: Textual amendment: Word in [Sch. 8 Pt. 1 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 83(3)](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/83/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a95a3efc1604ecb7d47280d58cb63073]: Textual amendment: Word in [Sch. 8 Pt. 1 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/2) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 83(3)](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/83/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a14cb5bd649068749c0e349843a454f6]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/i)
+[^c-a14cb5bd649068749c0e349843a454f6]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/i)
 
-[^key-98581c0cd945526bf2e01eb1d1e3e609]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/aa)
+[^c-98581c0cd945526bf2e01eb1d1e3e609]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/aa)
 
-[^key-7921db729447603ba24a015fc07d0c9a]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/bb)
+[^c-7921db729447603ba24a015fc07d0c9a]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/bb)
 
-[^key-d3f7cb5051965fa234a6b48ff1f0c3ff]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/cc)
+[^c-d3f7cb5051965fa234a6b48ff1f0c3ff]: Textual amendment: Words in [Sch. 8 Pt. 1 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/1/chapter/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(2)(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2025/850/article/16/2/b/ii/cc)
 
-[^key-ecdfac2bd2058e2623023f2d001a28d4]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/1) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/i)
+[^c-ecdfac2bd2058e2623023f2d001a28d4]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/1) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/i)
 
-[^key-d9c2d21109e76d8fb342777c19f6cc0d]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/2) omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/ii)
+[^c-d9c2d21109e76d8fb342777c19f6cc0d]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/2) omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/ii)
 
-[^key-189e1f2a0910070f213643ffbdd12b8e]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/a)
+[^c-189e1f2a0910070f213643ffbdd12b8e]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/a)
 
-[^key-ca00160b7e1617f07bf8e1e6088365bc]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(b)(i)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/b/i)
+[^c-ca00160b7e1617f07bf8e1e6088365bc]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(b)(i)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/b/i)
 
-[^key-f41c8a1306b9ba48acda6462e70edfb8]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/b/ii)
+[^c-f41c8a1306b9ba48acda6462e70edfb8]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [45(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1112/article/45/b/ii)
 
-[^key-b2bb854d4fb6a1674f90efdcb7531dce]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/iii/aa)
+[^c-b2bb854d4fb6a1674f90efdcb7531dce]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/iii/aa)
 
-[^key-a41667dc84f911506ab2b292d958abfb]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/iii/bb)
+[^c-a41667dc84f911506ab2b292d958abfb]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 1 s. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/1/section/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/a/iii/bb)
 
-[^key-b8fec4813394ef4ccaa6719b5169f53f]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/i)
+[^c-b8fec4813394ef4ccaa6719b5169f53f]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/i)
 
-[^key-82bc0c5ce6f57bc676c210c8d19d83f2]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) omitted (19.8.2021) by virtue of [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/879/article/11/2)
+[^c-82bc0c5ce6f57bc676c210c8d19d83f2]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) omitted (19.8.2021) by virtue of [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2021/879/article/11/2)
 
-[^key-4f81f74e823ffe7c9f89488dc0df2fb1]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/879/article/11/3)
+[^c-4f81f74e823ffe7c9f89488dc0df2fb1]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/879/article/11/3)
 
-[^key-d9612f414764be6753885f9538cf0ce4]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2021/879/article/11/4)
+[^c-d9612f414764be6753885f9538cf0ce4]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2021/879/article/11/4)
 
-[^key-f57593b20d115675f5421532ab5fa842]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) omitted (19.8.2021) by virtue of [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2021/879/article/11/5)
+[^c-f57593b20d115675f5421532ab5fa842]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) omitted (19.8.2021) by virtue of [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2021/879/article/11/5)
 
-[^key-d0666ad60e9d460fd44c62b0296ff9a7]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2021/879/article/11/6)
+[^c-d0666ad60e9d460fd44c62b0296ff9a7]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2021/879/article/11/6)
 
-[^key-82549c7a6573fae09250ed98dd7b5441]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2021/879/article/11/7)
+[^c-82549c7a6573fae09250ed98dd7b5441]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (19.8.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/879/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2021/879/article/11/7)
 
-[^key-e20bae56d7ebf77c8b9e788fcd743092]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/ii)
+[^c-e20bae56d7ebf77c8b9e788fcd743092]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/ii)
 
-[^key-adb3b081fe5b54c59294ff4e94acb1ab]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iii/aa)
+[^c-adb3b081fe5b54c59294ff4e94acb1ab]: Textual amendment: Word in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iii/aa)
 
-[^key-fd5a2536c2bc05cc23cb81677c56cbe0]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iii/bb)
+[^c-fd5a2536c2bc05cc23cb81677c56cbe0]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iii/bb)
 
-[^key-7ecc43ab9a3415c1b66508ddd7ba1998]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iv)
+[^c-7ecc43ab9a3415c1b66508ddd7ba1998]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 2](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/b/iv)
 
-[^key-8dd987361aaaf30fc4c1759e186e7416]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(c)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/c)
+[^c-8dd987361aaaf30fc4c1759e186e7416]: Textual amendment: Words in [Sch. 8 Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/2/chapter/3) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(3)(c)](https://www.legislation.gov.uk/uksi/2025/850/article/16/3/c)
 
-[^key-9e84363d01eb32f413bb6c8d25608fdf]: Textual amendment: Sch. 8 Pt. 3 para. 1(2)(b) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(1)(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/1/a)
+[^c-9e84363d01eb32f413bb6c8d25608fdf]: Textual amendment: Sch. 8 Pt. 3 para. 1(2)(b) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(1)(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/1/a)
 
-[^key-99e53f6d5e187ddd6b34e4df66caa65f]: Textual amendment: Sch. 8 Pt. 3 para. 1(2A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(1)(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/1/b)
+[^c-99e53f6d5e187ddd6b34e4df66caa65f]: Textual amendment: Sch. 8 Pt. 3 para. 1(2A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(1)(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/1/b)
 
-[^key-655bcd6d2c84772e902e991817af669f]: Textual amendment: [Sch. 8 Pt. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/1/paragraph/1/3) Table 4 omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/a)
+[^c-655bcd6d2c84772e902e991817af669f]: Textual amendment: [Sch. 8 Pt. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/1/paragraph/1/3) Table 4 omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/a)
 
-[^key-1c1bb9ab8f7eec06bc748ae9caa4ceef]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/aa)
+[^c-1c1bb9ab8f7eec06bc748ae9caa4ceef]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/aa)
 
-[^key-52e9414c9ee4cfd32a6e1e0ea634ac67]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/bb)
+[^c-52e9414c9ee4cfd32a6e1e0ea634ac67]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/bb)
 
-[^key-b77a5838ea76e9726711af0c0afa0b02]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) Table A substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/cc)
+[^c-b77a5838ea76e9726711af0c0afa0b02]: Textual amendment: Words in [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) Table A substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/cc)
 
-[^key-e5fe33760b4b1021c2fc68a5f908f601]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) Table B omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(dd)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/dd)
+[^c-e5fe33760b4b1021c2fc68a5f908f601]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/1) Table B omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(i)(dd)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/i/dd)
 
-[^key-62bd7b100bc986303fbbb9d2503beeee]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 paras. 4(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/2), (2A) substituted for Sch. 8 Pt. 3 Ch. 2 para. 4(2) (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/ii)
+[^c-62bd7b100bc986303fbbb9d2503beeee]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 paras. 4(2)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/2), (2A) substituted for Sch. 8 Pt. 3 Ch. 2 para. 4(2) (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/ii)
 
-[^key-31cbf83e7ee5b6e8241569e245118cb1]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/3/a) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/2/a)
+[^c-31cbf83e7ee5b6e8241569e245118cb1]: Textual amendment: [Sch. 8 Pt. 3 Ch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/4/3/a) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/2/a)
 
-[^key-0317ac6fa869b932e7e56e5556c7f727]: Textual amendment: Sch. 8 Pt. 3 para. 5(2)(a) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/2/b)
+[^c-0317ac6fa869b932e7e56e5556c7f727]: Textual amendment: Sch. 8 Pt. 3 para. 5(2)(a) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/46/2/b)
 
-[^key-02a136ba2c018163515eec5d4a8158c0]: Textual amendment: [Sch. 8 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/6) omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/iii)
+[^c-02a136ba2c018163515eec5d4a8158c0]: Textual amendment: [Sch. 8 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/765/schedule/8/part/3/chapter/2/paragraph/6) omitted (1.10.2025) by virtue of [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [16(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/850/article/16/4/b/iii)

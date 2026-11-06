@@ -24,15 +24,15 @@ Section 68
 
 ### Domestic service providers: extension of liability
 
-**1.**[^key-ebe5fe8b5dc0d4eb5833d2759d4a020b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ebe5fe8b5dc0d4eb5833d2759d4a020b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-UK service providers: restriction on institution of proceedings
 
-**2.**[^key-10bffb559e7561c1b1565c93d14bd3fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-10bffb559e7561c1b1565c93d14bd3fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exceptions for mere conduits
 
-**3.**[^key-6e9ec395cd1ac7031c3c748bb7051a2b] (1) A service provider is not capable of being guilty of an offence under section 62(1) in respect of anything done in the course of providing so much of an information society service as consists in—
+**3.**[^c-6e9ec395cd1ac7031c3c748bb7051a2b] (1) A service provider is not capable of being guilty of an offence under section 62(1) in respect of anything done in the course of providing so much of an information society service as consists in—
 
 - (a) the provision of access to a communication network, or
 - (b) the transmission in a communication network of information provided by a recipient of the service,
@@ -56,7 +56,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for caching
 
-**4.**[^key-b46ce7726becc8bd14a2994492c9e9aa] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
+**4.**[^c-b46ce7726becc8bd14a2994492c9e9aa] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
 (2) The service provider is not capable of being guilty of an offence under section 62(1) in respect of the automatic, intermediate and temporary storage of information so provided, if—
 
@@ -77,7 +77,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for hosting
 
-**5.**[^key-f563f424c42cbba1b57ba05bfc7fdfbc] (1) A service provider is not capable of being guilty of an offence under section 62(1) in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
+**5.**[^c-f563f424c42cbba1b57ba05bfc7fdfbc] (1) A service provider is not capable of being guilty of an offence under section 62(1) in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
 
 - (a) the service provider had no actual knowledge when the information was provided that it contained offending material, or
 - (b) on obtaining actual knowledge that the information contained offending material, the service provider expeditiously removed the information or disabled access to it.
@@ -88,7 +88,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Interpretation
 
-**6.**[^key-31b20e1fc9c028225c3129efe28791e8] (1) This paragraph applies for the purposes of this Schedule.
+**6.**[^c-31b20e1fc9c028225c3129efe28791e8] (1) This paragraph applies for the purposes of this Schedule.
 
 (2) “**Prohibited image of a child**” has the same meaning as in section 62.
 
@@ -103,20 +103,20 @@ and “**the E-Commerce Directive**” means Directive [2000/31/EC](https://www.
 
 (5) “**Service provider**” means a person providing an information society service.
 
-(6)[^key-51d5508fec24cd0cecd99f3144d15594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-51d5508fec24cd0cecd99f3144d15594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ebe5fe8b5dc0d4eb5833d2759d4a020b]: Textual amendment: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/1) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/a)
+[^c-ebe5fe8b5dc0d4eb5833d2759d4a020b]: Textual amendment: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/1) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/a)
 
-[^key-10bffb559e7561c1b1565c93d14bd3fc]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/b)
+[^c-10bffb559e7561c1b1565c93d14bd3fc]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/b)
 
-[^key-6e9ec395cd1ac7031c3c748bb7051a2b]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/3) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
+[^c-6e9ec395cd1ac7031c3c748bb7051a2b]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/3) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
 
-[^key-b46ce7726becc8bd14a2994492c9e9aa]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/4) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
+[^c-b46ce7726becc8bd14a2994492c9e9aa]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/4) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
 
-[^key-f563f424c42cbba1b57ba05bfc7fdfbc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/5) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
+[^c-f563f424c42cbba1b57ba05bfc7fdfbc]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/5) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
 
-[^key-31b20e1fc9c028225c3129efe28791e8]: Commencement: Sch. 13 para. 6 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
+[^c-31b20e1fc9c028225c3129efe28791e8]: Commencement: Sch. 13 para. 6 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/16)
 
-[^key-51d5508fec24cd0cecd99f3144d15594]: Textual amendment: [Sch. 13 para. 6(6)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/6/6) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/c)
+[^c-51d5508fec24cd0cecd99f3144d15594]: Textual amendment: [Sch. 13 para. 6(6)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/13/paragraph/6/6) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/2/c)

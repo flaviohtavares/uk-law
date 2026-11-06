@@ -64,7 +64,7 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 In these Regulations—
 
-- [^key-cb640ef6c1d807a5206b5864bf356851]...
+- [^c-cb640ef6c1d807a5206b5864bf356851]...
 - “**the Act**” means the Tribunals, Courts and Enforcement Act 2007;
 - “**child**” means a person under the age of 16;
 - “**clear days**” means that in computing the number of days—
@@ -76,16 +76,16 @@ In these Regulations—
 - “**co-owner**” has the meaning given in paragraph 3(1) of Schedule 12 (general interpretation);
 - “**CRAR**” has the meaning given in section 72 of the Act (commercial rent arrears recovery (CRAR));
 - “**creditor**” has the meaning given in paragraph 1(6) of Schedule 12 (the procedure);
-- “[^key-6b1d520296593852349081cf9f28f176]**debt advice provider**” has the meaning given in regulation 3 of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020;
+- “[^c-6b1d520296593852349081cf9f28f176]**debt advice provider**” has the meaning given in regulation 3 of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020;
 - “**debtor**” has the meaning given in paragraph 1(5) of Schedule 12 (the procedure);
 - “**disabled person**” means a person—
   - (a) whose sight, hearing or speech is substantially impaired;
   - (b) who has a mental disorder; or
   - (c) who is physically substantially disabled by any illness, any impairment present since birth, or otherwise;
-- “[^key-4db4b5692c3c92221577d37e0e0350e8]**emergency period**” means the period beginning with 26th March 2020 and ending on 23rd August 2020.
+- “[^c-4db4b5692c3c92221577d37e0e0350e8]**emergency period**” means the period beginning with 26th March 2020 and ending on 23rd August 2020.
 - “**enforcement agent**” has the meaning given in paragraph 2(1) of Schedule 12 (enforcement agents);
 - “**net unpaid rent**” has the meaning given in section 77(5) of the Act (the rent recoverable);
-- “[^key-8b0af101c6b76886e57cb3cdbfa9e82e]**non-eligible business debt**” has the meaning given in regulation 5(6)(d) of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020;
+- “[^c-8b0af101c6b76886e57cb3cdbfa9e82e]**non-eligible business debt**” has the meaning given in regulation 5(6)(d) of the Debt Respite Scheme (Breathing Space Moratorium and Mental Health Crisis Moratorium) (England and Wales) Regulations 2020;
 - “**notice of enforcement**” means the notice of enforcement required by paragraph 7(1) of Schedule 12;
 - “**notice of the enforcement agent's intention to re-enter premises**” means the notice of the enforcement agent's intention to re-enter premises required by paragraph 19A(1)(d) of Schedule 12;
 - “**older person**” means a person aged 65 or over;
@@ -151,15 +151,15 @@ Where any goods of the debtor are also premises and are occupied by the debtor o
 
 #### 6. Minimum period of notice
 
-(1) Subject to paragraphs (1A) and (3)[^key-ad11e63eb6248842f4b08a813d7416ae], notice of enforcement must be given to the debtor not less than 14 clear days[^key-b87af1844dbb4fa2f8b52b954a144a4d] before the enforcement agent takes control of the debtor's goods.
+(1) Subject to paragraphs (1A) and (3)[^c-ad11e63eb6248842f4b08a813d7416ae], notice of enforcement must be given to the debtor not less than 14 clear days[^c-b87af1844dbb4fa2f8b52b954a144a4d] before the enforcement agent takes control of the debtor's goods.
 
-(1A)[^key-6d4220f76fa0943602d769766a7153cc] Where, before the expiration of the period of notice indicated in the notice of enforcement, a request is submitted by a debt advice provider on behalf of the debtor, the minimum period of notice referred to in paragraph (1) must be extended to a minimum of 28 clear days before the enforcement agent takes control of the goods.
+(1A)[^c-6d4220f76fa0943602d769766a7153cc] Where, before the expiration of the period of notice indicated in the notice of enforcement, a request is submitted by a debt advice provider on behalf of the debtor, the minimum period of notice referred to in paragraph (1) must be extended to a minimum of 28 clear days before the enforcement agent takes control of the goods.
 
 (1B) The extension under paragraph (1A) does not apply where the debt is non‑eligible business debt.
 
-(2) Where the period referred to in paragraph (1) or (1A)[^key-40d6facb7be770dd25ed7b525f8ef9ab] includes a Sunday, bank holiday, Good Friday or Christmas Day that day does not count in calculating the period.
+(2) Where the period referred to in paragraph (1) or (1A)[^c-40d6facb7be770dd25ed7b525f8ef9ab] includes a Sunday, bank holiday, Good Friday or Christmas Day that day does not count in calculating the period.
 
-(3) The court may order that a specified shorter period of notice than those set out in paragraphs (1) and (1A)[^key-6f89d0f4554afeca1c1cb20f14de1ec7] may be given to the debtor.
+(3) The court may order that a specified shorter period of notice than those set out in paragraphs (1) and (1A)[^c-6f89d0f4554afeca1c1cb20f14de1ec7] may be given to the debtor.
 
 (4) The court may only make an order under paragraph (3) where it is satisfied that, if the order is not made, it is likely that goods of the debtor will be moved to premises other than relevant premises, or otherwise disposed of, in order to avoid the goods being taken control of by the enforcement agent.
 
@@ -177,9 +177,9 @@ Notice of enforcement must be given in writing, and must contain the following i
   - (iii) the amount of any enforcement costs incurred up to the date of notice; and
   - (iv) the possible additional costs of enforcement if the sum outstanding should remain unpaid as at the date mentioned in paragraph (h);
 - (f) how and between which hours and on which days payment of the sum outstanding may be made;
-- (g) a contact telephone number and address at which, and the days on which and the hours between which, the enforcement agent or the enforcement agent's office may be contacted; [^key-0eab4313e4df4e1038d98ccf4d6553d6]...
+- (g) a contact telephone number and address at which, and the days on which and the hours between which, the enforcement agent or the enforcement agent's office may be contacted; [^c-0eab4313e4df4e1038d98ccf4d6553d6]...
 - (h) the date and time by which the sum outstanding must be paid to prevent goods of the debtor being taken control of and sold and the debtor incurring additional costs;
-- (i)[^key-89e14f38578d002de2d6d9b1d53ad027] the availability of free advice from a debt advice provider and the contact details for such providers; and
+- (i)[^c-89e14f38578d002de2d6d9b1d53ad027] the availability of free advice from a debt advice provider and the contact details for such providers; and
 - (j) the possibility of obtaining an extension of the minimum notice period under regulation 6(1A).
 
 #### 8. Method of giving notice and who must give it
@@ -201,7 +201,7 @@ Notice of enforcement must be given in writing, and must contain the following i
 
 #### 9. Time limit for taking control of goods
 
-(1) Subject to paragraphs (2) , (3) and (5)[^key-a05fa07b83994c66f721337b06c4ca43], the enforcement agent may not take control of goods of the debtor after the expiry of a period of 12 months beginning with the date of notice of enforcement.
+(1) Subject to paragraphs (2) , (3) and (5)[^c-a05fa07b83994c66f721337b06c4ca43], the enforcement agent may not take control of goods of the debtor after the expiry of a period of 12 months beginning with the date of notice of enforcement.
 
 (2) Where—
 
@@ -218,14 +218,14 @@ the period in paragraph (1) begins with the date of the debtor's breach of the r
 - (b) on one occasion; and
 - (c) if the court is satisfied that the applicant has reasonable grounds for not taking control of goods of the debtor during the period referred to under paragraph (1).
 
-(5)[^key-1e2906bd26f26683cd613832e0844c38] Where the relevant day falls—
+(5)[^c-1e2906bd26f26683cd613832e0844c38] Where the relevant day falls—
 
 - (a) during the emergency period; or
 - (b) on or after 26th February 2020 but before the beginning of the emergency period,
 
 the period referred to in paragraph (1) begins on the day that is one month after the relevant day.
 
-(6) For the purposes of paragraph (5) the relevant day is the day one [^key-d65b0c1c27e48a073ce80e3b1c4aebd9]...month before the expiry of either —
+(6) For the purposes of paragraph (5) the relevant day is the day one [^c-d65b0c1c27e48a073ce80e3b1c4aebd9]...month before the expiry of either —
 
 - (a) the period referred to in paragraph (1); or
 - (b) the period referred to in paragraph (1) as extended in accordance with paragraph (3).
@@ -235,9 +235,9 @@ the period referred to in paragraph (1) begins on the day that is one month afte
 (1) The enforcement agent may not take control of goods of the debtor where—
 
 - (a) the debtor is a child;
-- (b) a child or vulnerable person (whether more than one or a combination of both) is the only person present in the relevant or specified premises in which the goods are located; [^key-cd63e1db511e5e8c52cf37e35e54bb6c]...
+- (b) a child or vulnerable person (whether more than one or a combination of both) is the only person present in the relevant or specified premises in which the goods are located; [^c-cd63e1db511e5e8c52cf37e35e54bb6c]...
 - (c) the goods are also premises in which a child or vulnerable person (whether more than one or a combination of both) is the only person present;
-- (d)[^key-5c27a9f00b27fa5a06e5a646312a2ff7] during the emergency period, the goods are located at premises which include a dwelling-house; or
+- (d)[^c-5c27a9f00b27fa5a06e5a646312a2ff7] during the emergency period, the goods are located at premises which include a dwelling-house; or
 - (e) during the emergency period, the goods are located on a highway.
 
 (2) Where an item which belongs to the debtor is in use by any person at the time at which the enforcement agent seeks to take control of it, the enforcement agent may not do so if such action is in all the circumstances likely to result in a breach of the peace.
@@ -423,8 +423,8 @@ The enforcement agent may enter relevant or specified premises under paragraph 1
 
 (2) The enforcement agent may enter, re-enter or remain on the premises only if—
 
-- (a) the debtor is not a child; [^key-46559a661d56d960e08c8d56f95b3137]...
-- (b) a child or vulnerable person (whether more than one or a combination of both) is not the only person present in the premises which the enforcement agent proposes to enter or re-enter ; or[^key-8eb3055cd883f9f4557394f483a8fe3a]
+- (a) the debtor is not a child; [^c-46559a661d56d960e08c8d56f95b3137]...
+- (b) a child or vulnerable person (whether more than one or a combination of both) is not the only person present in the premises which the enforcement agent proposes to enter or re-enter ; or[^c-8eb3055cd883f9f4557394f483a8fe3a]
 - (c) during the emergency period, the premises do not include a dwelling-house.
 
 #### 24. Restrictions on repeated entry (with or without warrant) to premises
@@ -853,19 +853,19 @@ Where a landlord gives authorisation under section 73(8) of the Act to a person 
 
 #### 52. Minimum amount of net unpaid rent for CRAR to become exercisable
 
-(1)[^key-374438e125c683fae7baae7d15b970e7] Subject to paragraphs (2) and (2A)[^key-41afe8f15e5016b412e3613baaf43304], the minimum amount of net unpaid rent for the purposes of section 77(3) of the Act is an amount equal to 7 days' rent.
+(1)[^c-374438e125c683fae7baae7d15b970e7] Subject to paragraphs (2) and (2A)[^c-41afe8f15e5016b412e3613baaf43304], the minimum amount of net unpaid rent for the purposes of section 77(3) of the Act is an amount equal to 7 days' rent.
 
-(2)[^key-12193c23b9ae37359e0f37162fd6c164][^key-c6e22aaf813ea2d74a14341d5431d0bb] During the relevant period, the minimum amount of net unpaid rent for the purpose of section 77(3)(a) of the Act is an amount equal to—
+(2)[^c-12193c23b9ae37359e0f37162fd6c164][^c-c6e22aaf813ea2d74a14341d5431d0bb] During the relevant period, the minimum amount of net unpaid rent for the purpose of section 77(3)(a) of the Act is an amount equal to—
 
-- (a)[^key-5b8cbf3940cedd97df514876a5408fbe] 457 days’ rent where the notice of enforcement is given on or before 23rd June 2021; and
+- (a)[^c-5b8cbf3940cedd97df514876a5408fbe] 457 days’ rent where the notice of enforcement is given on or before 23rd June 2021; and
 - (b) 554 days’ rent where the notice of enforcement is given on or after 24th June 2021.
 
 (2A) During the relevant period, the minimum amount of net unpaid rent for the purpose of section 77(3)(b) of the Act is an amount equal to—
 
-- (a)[^key-6084428bbd9a6948b1c2312475a71265] 457 days’ rent where the goods are taken control of for the first time on or before 23rd June 2021; and
+- (a)[^c-6084428bbd9a6948b1c2312475a71265] 457 days’ rent where the goods are taken control of for the first time on or before 23rd June 2021; and
 - (b) 554 days’ rent where the goods are taken control of for the first time on or after 24th June 2021.
 
-(3) In this regulation[^key-772d116b2cc4817e35fac13e0eb4404f], “relevant period” has the same meaning as in section 82 of the Coronavirus Act 2020.
+(3) In this regulation[^c-772d116b2cc4817e35fac13e0eb4404f], “relevant period” has the same meaning as in section 82 of the Coronavirus Act 2020.
 
 ### Right to rent from sub-tenant
 
@@ -928,13 +928,13 @@ Part 7 (regulations 50 to 55) addresses commercial rent arrears recovery procedu
 
 [^c21872911]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). Section 90 and Schedule 12 are prospectively amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 25(8).
 
-[^key-cb640ef6c1d807a5206b5864bf356851]: Textual amendment: Words in reg. 2 omitted (29.9.2020) by virtue of [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
+[^c-cb640ef6c1d807a5206b5864bf356851]: Textual amendment: Words in reg. 2 omitted (29.9.2020) by virtue of [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
 
-[^key-6b1d520296593852349081cf9f28f176]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1894/regulation/2) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-6b1d520296593852349081cf9f28f176]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1894/regulation/2) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-4db4b5692c3c92221577d37e0e0350e8]: Textual amendment: Words in reg. 2 substituted (24.6.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+[^c-4db4b5692c3c92221577d37e0e0350e8]: Textual amendment: Words in reg. 2 substituted (24.6.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
 
-[^key-8b0af101c6b76886e57cb3cdbfa9e82e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1894/regulation/2) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-8b0af101c6b76886e57cb3cdbfa9e82e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1894/regulation/2) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
 [^c21872921]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -944,33 +944,33 @@ Part 7 (regulations 50 to 55) addresses commercial rent arrears recovery procedu
 
 [^c21872951]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-ad11e63eb6248842f4b08a813d7416ae]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-ad11e63eb6248842f4b08a813d7416ae]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/a/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-b87af1844dbb4fa2f8b52b954a144a4d]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-b87af1844dbb4fa2f8b52b954a144a4d]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/a/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-6d4220f76fa0943602d769766a7153cc]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1B) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-6d4220f76fa0943602d769766a7153cc]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/1B) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-40d6facb7be770dd25ed7b525f8ef9ab]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/2) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-40d6facb7be770dd25ed7b525f8ef9ab]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/2) substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-6f89d0f4554afeca1c1cb20f14de1ec7]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/3) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-6f89d0f4554afeca1c1cb20f14de1ec7]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/6/3) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/3/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-0eab4313e4df4e1038d98ccf4d6553d6]: Textual amendment: Word in [reg. 7(g)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/7/g) omitted (1.5.2026) by virtue of [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-0eab4313e4df4e1038d98ccf4d6553d6]: Textual amendment: Word in [reg. 7(g)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/7/g) omitted (1.5.2026) by virtue of [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-89e14f38578d002de2d6d9b1d53ad027]: Textual amendment: [Reg. 7(i)(j)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/7/i/j) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-89e14f38578d002de2d6d9b1d53ad027]: Textual amendment: [Reg. 7(i)(j)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/7/i/j) inserted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/366/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
 
-[^key-a05fa07b83994c66f721337b06c4ca43]: Textual amendment: Words in reg. 9(1) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-a05fa07b83994c66f721337b06c4ca43]: Textual amendment: Words in reg. 9(1) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-1e2906bd26f26683cd613832e0844c38]: Textual amendment: Reg. 9(5)(6) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-1e2906bd26f26683cd613832e0844c38]: Textual amendment: Reg. 9(5)(6) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-d65b0c1c27e48a073ce80e3b1c4aebd9]: Textual amendment: Word in reg. 9(6) omitted (24.6.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/614/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+[^c-d65b0c1c27e48a073ce80e3b1c4aebd9]: Textual amendment: Word in reg. 9(6) omitted (24.6.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/614/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
 
-[^key-cd63e1db511e5e8c52cf37e35e54bb6c]: Textual amendment: Word in reg. 10(1)(b) omitted (25.4.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-cd63e1db511e5e8c52cf37e35e54bb6c]: Textual amendment: Word in reg. 10(1)(b) omitted (25.4.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-5c27a9f00b27fa5a06e5a646312a2ff7]: Textual amendment: Reg. 10(1)(d)(e) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-5c27a9f00b27fa5a06e5a646312a2ff7]: Textual amendment: Reg. 10(1)(d)(e) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-46559a661d56d960e08c8d56f95b3137]: Textual amendment: Word in reg. 23(2)(a) omitted (25.4.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-46559a661d56d960e08c8d56f95b3137]: Textual amendment: Word in reg. 23(2)(a) omitted (25.4.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/5/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-8eb3055cd883f9f4557394f483a8fe3a]: Textual amendment: Reg. 23(2)(c) and preceding word inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-8eb3055cd883f9f4557394f483a8fe3a]: Textual amendment: Reg. 23(2)(c) and preceding word inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/5/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
 [^c21872961]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
@@ -980,16 +980,16 @@ Part 7 (regulations 50 to 55) addresses commercial rent arrears recovery procedu
 
 [^c21872991]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 76 was amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 78 and Schedule 16 and is prospectively amended by the Tribunals, Courts and Enforcement Act 2007, section 62(3) and Schedule 13, paragraphs 45 and 46.
 
-[^key-374438e125c683fae7baae7d15b970e7]: Textual amendment: Words in reg. 52 inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-374438e125c683fae7baae7d15b970e7]: Textual amendment: Words in reg. 52 inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-41afe8f15e5016b412e3613baaf43304]: Textual amendment: Words in reg. 52(1) substituted (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
+[^c-41afe8f15e5016b412e3613baaf43304]: Textual amendment: Words in reg. 52(1) substituted (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
 
-[^key-12193c23b9ae37359e0f37162fd6c164]: Textual amendment: Reg. 52(2)(2A) substituted for reg. 52(2) (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
+[^c-12193c23b9ae37359e0f37162fd6c164]: Textual amendment: Reg. 52(2)(2A) substituted for reg. 52(2) (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
 
-[^key-c6e22aaf813ea2d74a14341d5431d0bb]: Textual amendment: Reg. 52(2)(3) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-c6e22aaf813ea2d74a14341d5431d0bb]: Textual amendment: Reg. 52(2)(3) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/2/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-5b8cbf3940cedd97df514876a5408fbe]: Textual amendment: [Reg. 52(2)(a)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2/b) substituted (25.3.2021) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/300)](https://www.legislation.gov.uk/uksi/2021/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/300/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/3))
+[^c-5b8cbf3940cedd97df514876a5408fbe]: Textual amendment: [Reg. 52(2)(a)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2/b) substituted (25.3.2021) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/300)](https://www.legislation.gov.uk/uksi/2021/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/300/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/3))
 
-[^key-6084428bbd9a6948b1c2312475a71265]: Textual amendment: [Reg. 52(2A)(a)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2A/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2A/b) substituted (25.3.2021) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/300)](https://www.legislation.gov.uk/uksi/2021/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/3))
+[^c-6084428bbd9a6948b1c2312475a71265]: Textual amendment: [Reg. 52(2A)(a)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2A/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1894/regulation/52/2A/b) substituted (25.3.2021) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/300)](https://www.legislation.gov.uk/uksi/2021/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/300/regulation/1/3))
 
-[^key-772d116b2cc4817e35fac13e0eb4404f]: Textual amendment: Words in reg. 52(3) substituted (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))
+[^c-772d116b2cc4817e35fac13e0eb4404f]: Textual amendment: Words in reg. 52(3) substituted (29.9.2020) by [The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1002)](https://www.legislation.gov.uk/uksi/2020/1002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1002/regulation/1/2))

@@ -36,7 +36,7 @@ An Act to make provision to incentivise research and investment into the treatme
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Review of law on marketing authorisations[^key-6eb130dbf2d5622def5fdd51fec65752]
+## 1. Review of law on marketing authorisations[^c-6eb130dbf2d5622def5fdd51fec65752]
 
 (1) The Secretary of State must—
 
@@ -56,7 +56,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**medicinal product**” has the meaning given by regulation 2 of the Human Medicines Regulations;
 - “**orphan medicinal product**” means a medicinal product in relation to which the orphan criteria set out in regulation 50G(2) of the Human Medicines Regulations are met.
 
-## 2. Secretary of State’s duties as to research[^key-91034c5dd5f5a456ad46cca97d29c76b]
+## 2. Secretary of State’s duties as to research[^c-91034c5dd5f5a456ad46cca97d29c76b]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ In [section 1E](https://www.legislation.gov.uk/ukpga/2006/41/section/1E) of the 
   >
   > (4) In this section “**rare cancer**” means a cancer that affects not more than 1 in 2000 people in the United Kingdom.
 
-## 3. Disclosure of information for research purposes[^key-397ee4035d9a4fa5381efc7f1dc8bd27]
+## 3. Disclosure of information for research purposes[^c-397ee4035d9a4fa5381efc7f1dc8bd27]
 
 *Extent: E+W*
 
@@ -101,30 +101,30 @@ In [section 1E](https://www.legislation.gov.uk/ukpga/2006/41/section/1E) of the 
 >
 > (6B) In subsection (6A) “**the data protection legislation**” and “**processing**” have the same meanings as in the [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents) (see section 3 of that Act).
 
-## 4. Extent[^key-e360770c5902c1a57be3a4bd69e3bc23]
+## 4. Extent[^c-e360770c5902c1a57be3a4bd69e3bc23]
 
 (1) Sections 2 and 3 extend to England and Wales only.
 
 (2) The remainder of this Act extends to England and Wales, Scotland and Northern Ireland.
 
-## 5. Commencement[^key-fc13c29b794eb89d23e43b64d8583c56]
+## 5. Commencement[^c-fc13c29b794eb89d23e43b64d8583c56]
 
 This Act comes into force at the end of the period of two months beginning with the day on which it is passed.
 
-## 6. Short title[^key-8b82bad08b17b0e40748af506a64da73]
+## 6. Short title[^c-8b82bad08b17b0e40748af506a64da73]
 
 This Act may be cited as the Rare Cancers Act 2026.
 
 ## Annotations
 
-[^key-6eb130dbf2d5622def5fdd51fec65752]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/8/section/1) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-6eb130dbf2d5622def5fdd51fec65752]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/8/section/1) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-91034c5dd5f5a456ad46cca97d29c76b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/8/section/2) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-91034c5dd5f5a456ad46cca97d29c76b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/8/section/2) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-397ee4035d9a4fa5381efc7f1dc8bd27]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/8/section/3) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-397ee4035d9a4fa5381efc7f1dc8bd27]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/8/section/3) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-e360770c5902c1a57be3a4bd69e3bc23]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/8/section/4) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-e360770c5902c1a57be3a4bd69e3bc23]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/8/section/4) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-fc13c29b794eb89d23e43b64d8583c56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-fc13c29b794eb89d23e43b64d8583c56]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-8b82bad08b17b0e40748af506a64da73]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/8/section/6) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-8b82bad08b17b0e40748af506a64da73]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/8/section/6) in force at 5.5.2026, see [s. 5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)

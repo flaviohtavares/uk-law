@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303I. Directions under sections 303G and 303H[^key-b81ae65c02fc438a2b0095d20954010b]
+## 303I. Directions under sections 303G and 303H[^c-b81ae65c02fc438a2b0095d20954010b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ before dealing with any other matter at the hearing, other than a decision to ad
 
 ## Annotations
 
-[^key-b81ae65c02fc438a2b0095d20954010b]: Textual amendment: Ss. 303G-303M and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/14/section/2/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/b)
+[^c-b81ae65c02fc438a2b0095d20954010b]: Textual amendment: Ss. 303G-303M and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/14/section/2/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/b)

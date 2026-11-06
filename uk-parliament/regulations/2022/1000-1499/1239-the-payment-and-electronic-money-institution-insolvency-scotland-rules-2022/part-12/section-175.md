@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Delivery of statements of claim and documentary evidence of debt[^key-6b3fe5f22bfd6494d5069b9fd5eeb201]
+## 175. Delivery of statements of claim and documentary evidence of debt[^c-6b3fe5f22bfd6494d5069b9fd5eeb201]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3fe5f22bfd6494d5069b9fd5eeb201]: Commencement: Rule 175 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-6b3fe5f22bfd6494d5069b9fd5eeb201]: Commencement: Rule 175 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

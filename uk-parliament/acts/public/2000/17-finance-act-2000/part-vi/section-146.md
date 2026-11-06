@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. International exchange of information: general.[^key-6f26147120a2ebca00504b13f5a411e4]
+## 146. International exchange of information: general.[^c-6f26147120a2ebca00504b13f5a411e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f26147120a2ebca00504b13f5a411e4]: Textual amendment: [S. 146](https://www.legislation.gov.uk/ukpga/2000/17/section/146) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)
+[^c-6f26147120a2ebca00504b13f5a411e4]: Textual amendment: [S. 146](https://www.legislation.gov.uk/ukpga/2000/17/section/146) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)

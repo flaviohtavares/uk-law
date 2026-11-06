@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Objectives[^key-2b961da06be1ca82d147289d022bb1bd]
+## 128. Objectives[^c-2b961da06be1ca82d147289d022bb1bd]
 
 *Extent: E+W+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) the awareness objective, and
 - (e) the efficiency objective.
 
-(2)[^key-73ceacf7fbeb4fe88172eb4227dd5f4f] The qualifications standards objective is to secure that—
+(2)[^c-73ceacf7fbeb4fe88172eb4227dd5f4f] The qualifications standards objective is to secure that—
 
 - (a) regulated qualifications give a reliable indication of knowledge, skills and understanding, and
 - (b) regulated qualifications indicate —
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b961da06be1ca82d147289d022bb1bd]: Commencement: S. 128 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-2b961da06be1ca82d147289d022bb1bd]: Commencement: S. 128 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-73ceacf7fbeb4fe88172eb4227dd5f4f]: Textual amendment: S. 128(2) substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 22](https://www.legislation.gov.uk/ukpga/2011/21/section/22), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-73ceacf7fbeb4fe88172eb4227dd5f4f]: Textual amendment: S. 128(2) substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 22](https://www.legislation.gov.uk/ukpga/2011/21/section/22), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

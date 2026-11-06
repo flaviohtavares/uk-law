@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section and section 279 apply for the purposes of the 15% holding limit condition, the 80%[^key-259b9be1bb52a6658130c471f71da50c] qualifying holdings condition and the 70%[^key-f41513a47ceddb6c074cd1f2b7b71f72] eligible shares condition (“the relevant conditions”).
+(1) This section and section 279 apply for the purposes of the 15% holding limit condition, the 80%[^c-259b9be1bb52a6658130c471f71da50c] qualifying holdings condition and the 70%[^c-f41513a47ceddb6c074cd1f2b7b71f72] eligible shares condition (“the relevant conditions”).
 
 (2) The value of a holding of investments of any description is to be taken, unless subsection (3) applies, to be its value when acquired.
 
@@ -53,6 +53,6 @@ are to be regarded as the same holding.
 
 ## Annotations
 
-[^key-259b9be1bb52a6658130c471f71da50c]: Textual amendment: Word in [s. 278(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/278/1) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/c), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-259b9be1bb52a6658130c471f71da50c]: Textual amendment: Word in [s. 278(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/278/1) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/c), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-f41513a47ceddb6c074cd1f2b7b71f72]: Textual amendment: Word in s. 278(1) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/4); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-f41513a47ceddb6c074cd1f2b7b71f72]: Textual amendment: Word in s. 278(1) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 6, 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/4); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

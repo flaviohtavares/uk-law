@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Prescribed role or capacity[^key-6c2c20cc451b9285196d236a37b2beb9]
+## 204. Prescribed role or capacity[^c-6c2c20cc451b9285196d236a37b2beb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of section 17(1)—
 
 ## Annotations
 
-[^key-6c2c20cc451b9285196d236a37b2beb9]: Commencement: Reg. 204 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6c2c20cc451b9285196d236a37b2beb9]: Commencement: Reg. 204 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

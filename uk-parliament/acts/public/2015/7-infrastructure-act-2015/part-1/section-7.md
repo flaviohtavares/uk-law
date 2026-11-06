@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Delegation of functions[^c22510471][^key-1e750cb298198ef910e8dee1ad49a8cf]
+## 7. Delegation of functions[^c22510471][^c-1e750cb298198ef910e8dee1ad49a8cf]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^c22510471]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/7/section/7) partly in force; [s. 7](https://www.legislation.gov.uk/ukpga/2015/7/section/7) in force for specified purposes at Royal Assent, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1/a)
 
-[^key-1e750cb298198ef910e8dee1ad49a8cf]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/7/section/7) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-1e750cb298198ef910e8dee1ad49a8cf]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/7/section/7) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

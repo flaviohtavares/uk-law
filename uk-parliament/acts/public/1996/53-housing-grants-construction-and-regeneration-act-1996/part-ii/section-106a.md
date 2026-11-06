@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Power to disapply provisions of this Part[^key-b3383c424f4700e5ab4c5cb9d6ed2bd0]
+## 106A. Power to disapply provisions of this Part[^c-b3383c424f4700e5ab4c5cb9d6ed2bd0]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3383c424f4700e5ab4c5cb9d6ed2bd0]: Textual amendment: S. 106A inserted (18.6.2011 for E.W. for specified purposes, 24.6.2011 for E.W. for specified purposes, 24.6.2011 for S., 1.10.2011 for E.W. in so far as not already in force) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 138(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/138/3), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1514](https://www.legislation.gov.uk/uksi/2011/1514), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1514/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1514/article/3), S.I. 2011/1569, art. 2, S.S.I. 2011/269, art. 2, S.I. 2011/1582, art. 2, S.I. 2011/1597. arts. 2, 3
+[^c-b3383c424f4700e5ab4c5cb9d6ed2bd0]: Textual amendment: S. 106A inserted (18.6.2011 for E.W. for specified purposes, 24.6.2011 for E.W. for specified purposes, 24.6.2011 for S., 1.10.2011 for E.W. in so far as not already in force) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 138(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/138/3), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1514](https://www.legislation.gov.uk/uksi/2011/1514), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1514/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1514/article/3), S.I. 2011/1569, art. 2, S.S.I. 2011/269, art. 2, S.I. 2011/1582, art. 2, S.I. 2011/1597. arts. 2, 3

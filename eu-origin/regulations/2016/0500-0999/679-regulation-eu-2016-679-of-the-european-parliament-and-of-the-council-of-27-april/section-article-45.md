@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45. Transfers on the basis of an adequacy decision[^key-26d1a5369b2c83b2db9d937fc121ffa6]
+## Article 45. Transfers on the basis of an adequacy decision[^c-26d1a5369b2c83b2db9d937fc121ffa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d1a5369b2c83b2db9d937fc121ffa6]: Textual amendment: Art. 45 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-26d1a5369b2c83b2db9d937fc121ffa6]: Textual amendment: Art. 45 omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)

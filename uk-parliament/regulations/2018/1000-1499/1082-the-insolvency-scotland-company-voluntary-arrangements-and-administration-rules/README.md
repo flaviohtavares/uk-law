@@ -87,70 +87,70 @@ The Scottish Ministers have consented to these Rules in accordance with Article 
 
 #### CHAPTER 11 — Formal defects
 
-### PART 1A — MORATORIUM[^key-d58e60afb0a7d7ff3160780727f1b3be]
+### PART 1A — MORATORIUM[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
-#### CHAPTER 1 — Preliminary[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 1 — Preliminary[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.1 — Application of Part 1A](part-1a/section-1a-1.md)
 
-#### CHAPTER 2 — Obtaining moratorium by lodging notice at court[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 2 — Obtaining moratorium by lodging notice at court[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.2 — Application of Chapter](part-1a/section-1a-2.md)
 - [Section 1A.3 — Obtaining a moratorium by lodging document at court (section A3)](part-1a/section-1a-3.md)
 - [Section 1A.4 — The relevant documents: standard contents and requirements (section A6)](part-1a/section-1a-4.md)
 - [Section 1A.5 — The relevant documents: further requirements relating to the proposed monitor’s statement and consent to act (section A6(1)(b))](part-1a/section-1a-5.md)
 
-#### CHAPTER 3 — Obtaining a moratorium by application to the court[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 3 — Obtaining a moratorium by application to the court[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.6 — Application of Chapter](part-1a/section-1a-6.md)
 - [Section 1A.7 — Moratorium application (sections A4 and A5)](part-1a/section-1a-7.md)
 - [Section 1A.8 — The relevant documents: standard contents and requirements (section A6)](part-1a/section-1a-8.md)
 - [Section 1A.9 — The relevant documents: further requirements relating to the monitor’s statement and consent to act (section A6(1)(b))](part-1a/section-1a-9.md)
 
-#### CHAPTER 4 — Obligations to notify where moratorium comes into force[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 4 — Obligations to notify where moratorium comes into force[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.10 — Notice given by monitor where moratorium comes into force: standard contents and requirements](part-1a/section-1a-10.md)
 
-#### CHAPTER 5 — Extending moratorium by lodging notice at court[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 5 — Extending moratorium by lodging notice at court[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.11 — Application of Chapter](part-1a/section-1a-11.md)
 - [Section 1A.12 — Extending a moratorium by lodging a notice at court (sections A10 and A11): notice of extension](part-1a/section-1a-12.md)
 - [Section 1A.13 — Documents lodged with the court under sections A10(1) or A11(1) of the Act: standard contents and requirements](part-1a/section-1a-13.md)
 
-#### CHAPTER 6 — Extending moratorium by application to the court[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 6 — Extending moratorium by application to the court[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.14 — Application of Chapter](part-1a/section-1a-14.md)
 - [Section 1A.15 — Extending a moratorium by application to the court (section A13)](part-1a/section-1a-15.md)
 - [Section 1A.16 — Documents lodged with the court under section A13(2): standard contents and requirements](part-1a/section-1a-16.md)
 
-#### CHAPTER 7 — Notices about change in the end of moratorium[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 7 — Notices about change in the end of moratorium[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.17 — Notification by directors to the monitor under section A17(1) of the Act: standard contents and requirements](part-1a/section-1a-17.md)
 - [Section 1A.18 — Notification by the monitor to the relevant persons under section A17(2) or (3) of the Act: standard contents and requirements](part-1a/section-1a-18.md)
 
-#### CHAPTER 8 — Notification by directors of insolvency proceedings[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 8 — Notification by directors of insolvency proceedings[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.19 — Notification by directors to the monitor of insolvency proceedings (section A24)](part-1a/section-1a-19.md)
 
-#### CHAPTER 9 — Termination of moratorium by monitor[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 9 — Termination of moratorium by monitor[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.20 — Notice bringing the moratorium to an end (section A38)](part-1a/section-1a-20.md)
 - [Section 1A.21 — Debts that are to be disregarded for the purpose of section A38(1)(d) of the Act](part-1a/section-1a-21.md)
 
-#### CHAPTER 10 — Replacement of monitor or appointment of additional monitor[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 10 — Replacement of monitor or appointment of additional monitor[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.22 — Replacement or additional monitor’s statement and consent to act: standard contents and requirements (section A39(4))](part-1a/section-1a-22.md)
 - [Section 1A.23 — Notice to be given by monitor of replacement of monitor or appointment of additional monitor (section A39(8))](part-1a/section-1a-23.md)
 
-#### CHAPTER 11 — Challenges to monitor remuneration[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 11 — Challenges to monitor remuneration[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.24 — Challenges to monitor’s remuneration in subsequent insolvency proceedings](part-1a/section-1a-24.md)
 
-#### CHAPTER 12 — Disposal of property[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 12 — Disposal of property[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.25 — Notice where the court grants permission under section A31 or A32](part-1a/section-1a-25.md)
 
-#### CHAPTER 13 — Claims by creditors[^key-d58e60afb0a7d7ff3160780727f1b3be]
+#### CHAPTER 13 — Claims by creditors[^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 - [Section 1A.26 — Application and interpretation of Chapter](part-1a/section-1a-26.md)
 - [Section 1A.27 — Submission of claims](part-1a/section-1a-27.md)
@@ -169,7 +169,7 @@ The Scottish Ministers have consented to these Rules in accordance with Article 
 
 #### CHAPTER 2 — The proposal for a CVA (section 1)
 
-#### CHAPTER 3 — Procedure for a CVA ...[^key-28fc86bfcfb06f4e18a31a0bc269a11e]
+#### CHAPTER 3 — Procedure for a CVA ...[^c-28fc86bfcfb06f4e18a31a0bc269a11e]
 
 #### CHAPTER 4 — Procedure for a CVA with a Moratorium
 
@@ -223,41 +223,41 @@ The Scottish Ministers have consented to these Rules in accordance with Article 
 
 - [Section 4 — Power to make a block transfer order](part-4/section-4.md)
 
-### PART 5 — DECISION MAKING[^key-7427cfa1960732ef34e9a002eed88977][^key-c0c0ec5ac8976b1a52b0750f7d8d5ae5][^key-a5b2ea463b24dff1fff8fb987bf78af8]
+### PART 5 — DECISION MAKING[^c-7427cfa1960732ef34e9a002eed88977][^c-c0c0ec5ac8976b1a52b0750f7d8d5ae5][^c-a5b2ea463b24dff1fff8fb987bf78af8]
 
 *Extent: S*
 
-#### CHAPTER 1 — Application of Part[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 1 — Application of Part[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
 - [Section 5 — Application of Part](part-5/section-5.md)
 
-#### CHAPTER 2 — Decision procedures[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 2 — Decision procedures[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 3 — Notices, voting and venues for decisions[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 3 — Notices, voting and venues for decisions[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 4 — Requisitioned decisions[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 4 — Requisitioned decisions[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 5 — Constitution of Meetings[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 5 — Constitution of Meetings[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 6 — Adjournment and suspension of meetings[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 6 — Adjournment and suspension of meetings[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
 - [Section 5.22A — Adjournment of meeting in, or for the purpose of, a moratorium under Part A1 of the Act](part-5/section-5-22a.md)
 
-#### CHAPTER 7 — Creditors' voting rights and majorities[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 7 — Creditors' voting rights and majorities[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 8 — Exclusions from meetings[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 8 — Exclusions from meetings[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
-#### CHAPTER 9 — Records[^key-dbbe7ace091abff00edec8ad9cc36f08]
+#### CHAPTER 9 — Records[^c-dbbe7ace091abff00edec8ad9cc36f08]
 
 #### CHAPTER 10 — Company meetings
 
-### PART 6 — PROXIES AND CORPORATE REPRESENTATION[^key-8397969bcad9d9a27ed18d5dab89cc0c][^key-df97e54b183f3b45651bc7cfc701b622][^key-ab5dd0698eea5f5e1d41e2dc9b8a4f0e]
+### PART 6 — PROXIES AND CORPORATE REPRESENTATION[^c-8397969bcad9d9a27ed18d5dab89cc0c][^c-df97e54b183f3b45651bc7cfc701b622][^c-ab5dd0698eea5f5e1d41e2dc9b8a4f0e]
 
 *Extent: S*
 
 - [Section 6 — Application and interpretation](part-6/section-6.md)
 
-### PART 7 — THE EU REGULATION[^key-94f16ec1a0f699b5adba5842003a7a93]
+### PART 7 — THE EU REGULATION[^c-94f16ec1a0f699b5adba5842003a7a93]
 
 **No longer in force.**
 
@@ -302,7 +302,7 @@ The Scottish Ministers have consented to these Rules in accordance with Article 
 
 *Extent: S*
 
-\[Note: a document required by the Act or these Rules must also contain the standard contents set out in Part 1.\][^key-d58e60afb0a7d7ff3160780727f1b3be]
+\[Note: a document required by the Act or these Rules must also contain the standard contents set out in Part 1.\][^c-d58e60afb0a7d7ff3160780727f1b3be]
 
 *Extent: S*
 
@@ -545,25 +545,25 @@ These Rules are structured as follows:
 
 [^c23413431]: Marginal citation: Section 246C was inserted by section 124(3) of the 2015 Act and section 248A was inserted by section 124(4) of the 2015 Act.
 
-[^key-d58e60afb0a7d7ff3160780727f1b3be]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2018/1082/part/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1026/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-d58e60afb0a7d7ff3160780727f1b3be]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2018/1082/part/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1026/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-28fc86bfcfb06f4e18a31a0bc269a11e]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2018/1082/part/2/chapter/3) heading omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-28fc86bfcfb06f4e18a31a0bc269a11e]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2018/1082/part/2/chapter/3) heading omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3 Table](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-7427cfa1960732ef34e9a002eed88977]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1082/part/5) applied in part (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 paras. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/63/1/a), [64-68](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/64) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
+[^c-7427cfa1960732ef34e9a002eed88977]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1082/part/5) applied in part (with modifications) (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 paras. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/63/1/a), [64-68](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/64) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
 
-[^key-c0c0ec5ac8976b1a52b0750f7d8d5ae5]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1082/part/5) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 81(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/81/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
+[^c-c0c0ec5ac8976b1a52b0750f7d8d5ae5]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2018/1082/part/5) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 81(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/81/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
 
-[^key-a5b2ea463b24dff1fff8fb987bf78af8]: Modification: Pt. 5 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1/4/5), [48-53](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/48), [66(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/66/a), [74](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/74) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-a5b2ea463b24dff1fff8fb987bf78af8]: Modification: Pt. 5 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1/4/5), [48-53](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/48), [66(a)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/66/a), [74](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/74) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-dbbe7ace091abff00edec8ad9cc36f08]: Modification: Pt. 5 Chs. 1-9 applied in part (with modifications) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rules 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [11.10(3)](https://www.legislation.gov.uk/ssi/2018/347/rule/11.10/3)
+[^c-dbbe7ace091abff00edec8ad9cc36f08]: Modification: Pt. 5 Chs. 1-9 applied in part (with modifications) (6.4.2019) by [The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (S.S.I. 2018/347)](https://www.legislation.gov.uk/ssi/2018/347), [rules 1](https://www.legislation.gov.uk/ssi/2018/347/rule/1), [11.10(3)](https://www.legislation.gov.uk/ssi/2018/347/rule/11.10/3)
 
-[^key-8397969bcad9d9a27ed18d5dab89cc0c]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2018/1082/part/6) applied in part (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/63/1/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
+[^c-8397969bcad9d9a27ed18d5dab89cc0c]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2018/1082/part/6) applied in part (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/63/1/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
 
-[^key-df97e54b183f3b45651bc7cfc701b622]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2018/1082/part/6) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 81(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/81/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
+[^c-df97e54b183f3b45651bc7cfc701b622]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2018/1082/part/6) applied (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 81(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/81/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/52))
 
-[^key-ab5dd0698eea5f5e1d41e2dc9b8a4f0e]: Modification: Pt. 6 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1/4/5), [48(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/48/b), [66(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/66/b), [74](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/74) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
+[^c-ab5dd0698eea5f5e1d41e2dc9b8a4f0e]: Modification: Pt. 6 applied in part (with modifications) (30.9.2021) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2A)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2A), [Sch. 1A paras. 1(4)(5)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/1/4/5), [48(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/48/b), [66(b)](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/66/b), [74](https://www.legislation.gov.uk/uksi/2014/229/schedule/1A/paragraph/74) (as inserted by [The Co-operative and Community Benefit Societies (Administration) (Amendment) Order 2021 (S.I. 2021/1048)](https://www.legislation.gov.uk/uksi/2021/1048), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1048/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1048/article/2))
 
-[^key-94f16ec1a0f699b5adba5842003a7a93]: Textual amendment: Pt. 7 omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZP](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZP) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-94f16ec1a0f699b5adba5842003a7a93]: Textual amendment: Pt. 7 omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZP](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZP) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23413421]: Marginal citation: Section 246B was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).
 

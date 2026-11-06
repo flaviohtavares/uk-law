@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Failure to comply with updating duty[^key-c06f15cdc1fdccd233fa1c86720aabac][^key-bb1a1ba4ca921bafedab4ab928927db3]
+## 8. Failure to comply with updating duty[^c-c06f15cdc1fdccd233fa1c86720aabac][^c-bb1a1ba4ca921bafedab4ab928927db3]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c06f15cdc1fdccd233fa1c86720aabac]: Commencement: S. 8 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-c06f15cdc1fdccd233fa1c86720aabac]: Commencement: S. 8 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-bb1a1ba4ca921bafedab4ab928927db3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/10/section/8) in force at 16.1.2023 by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/3/b)
+[^c-bb1a1ba4ca921bafedab4ab928927db3]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/10/section/8) in force at 16.1.2023 by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/3/b)

@@ -63,8 +63,8 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 - “the Act” means the Merchant Shipping Act 1995;
 - “contract of employment” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
 - “dangerous goods” means goods classified as such in the IMDG Code, in Chapter 19 of the IGC Code or in Chapter 17 of the IBC Code;
-- [^key-05849446372a68af27ae1c2c6261998d]...
-- [^key-05849446372a68af27ae1c2c6261998d]...
+- [^c-05849446372a68af27ae1c2c6261998d]...
+- [^c-05849446372a68af27ae1c2c6261998d]...
 - “employer” means a person by whom a worker is employed under a contract of employment;
 - “fire safety sign” means a sign (including an illuminated sign or an acoustic signal) which—
   - (a) provides information on escape routes and emergency exits in case of fire;
@@ -85,9 +85,9 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 - “prohibition sign” means a sign prohibiting behaviour likely to cause a risk to health or safety;
 - “public service vessel” means any vessel operated by and on behalf of a public body while it is carrying out the authorised functions of that body;
 - “relevant inspector” means a person mentioned in paragraphs (a), (b) or (c) of section 258(1) of the Act;
-- “[^key-21c895f188e1e205ca8ba7dcf88d45ee]**safety colour**” means a colour to which a specific meaning is assigned in Part 1 of Schedule 1 to the Safety Signs Regulations;
+- “[^c-21c895f188e1e205ca8ba7dcf88d45ee]**safety colour**” means a colour to which a specific meaning is assigned in Part 1 of Schedule 1 to the Safety Signs Regulations;
 - “safety sign” means a sign referring to a specific object, activity or situation and providing information or instructions about health or safety at work by means of a signboard, a safety colour, an illuminated sign or acoustic signal, a verbal communication or a hand signal, as the case may be;
-- “[^key-332dedaea1e2d3543d816f44406c3fae]**Safety Signs Regulations**” means the Health and Safety (Safety Signs and Signals) Regulations 1996;
+- “[^c-332dedaea1e2d3543d816f44406c3fae]**Safety Signs Regulations**” means the Health and Safety (Safety Signs and Signals) Regulations 1996;
 - “sail training vessel” means a sailing vessel which is being used either:
   - (a) to provide instruction in the principles of responsibility, resourcefulness, loyalty and team endeavour and to advance education in the art of seamanship; or
   - (b) to provide instruction in navigation and seamanship for yachtsmen,
@@ -102,8 +102,8 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 - “symbol or pictogram” means a figure which describes a situation or prescribes specific behaviour and which is used on a signboard or illuminated surface;
 - “trainees and apprentices” does not include persons who are training in a sail training vessel;
 - “United Kingdom ship” means a ship which—
-  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or[^key-36a9097e2f6a6f5fafd5107dfe69074e]
-  - (b) [^key-4ffa488bb38dd89d11302b37f0805b91]...
+  - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or[^c-36a9097e2f6a6f5fafd5107dfe69074e]
+  - (b) [^c-4ffa488bb38dd89d11302b37f0805b91]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968 [^c15688641];
 - “verbal communication” means a predetermined spoken message communicated by a human or artificial voice;
 - “warning sign” means a sign giving warning of a hazard or danger;
@@ -126,7 +126,7 @@ and in such a case there shall be a duty on the employer so far as is reasonably
 
 (3) These Regulations shall not apply—
 
-- (a) to signs used in connection with the supply of any hazardous[^key-f4bd1d1256d11af3d8b5920a78e37053] substance, mixture[^key-38c0161a54f3bcbd02da9296137c48d6], product or equipment except to the extent that any enactment (whether in an Act or instrument) which requires such signs makes reference to these Regulations;
+- (a) to signs used in connection with the supply of any hazardous[^c-f4bd1d1256d11af3d8b5920a78e37053] substance, mixture[^c-38c0161a54f3bcbd02da9296137c48d6], product or equipment except to the extent that any enactment (whether in an Act or instrument) which requires such signs makes reference to these Regulations;
 - (b) to dangerous goods during the course of their transport by sea, including loading and unloading of such goods from the ship; or
 - (c) subject to regulation 5(6), to signs used for regulating road, rail, inland waterway, sea or air traffic.
 
@@ -140,15 +140,15 @@ Where a person on whom a duty is imposed by any provision of these Regulations d
 
 (2) Where this regulation applies, the employer shall—
 
-- (a) ensure that there is in place an appropriate safety sign in accordance with the requirements set out in Parts I to VII of Schedule 1 to the Safety Signs Regulations[^key-689c9b1a4ccb05a6be14e2404b9f403e];
-- (b) subject to paragraph (5), in accordance with the requirements of Parts I, VIII and IX of Schedule 1 to the Safety Signs Regulations[^key-069c8aabc93df8a98a6f182ba32f1d59], ensure, so far as is reasonably practicable, that any appropriate hand signal or verbal communication described in those Parts is used; and
+- (a) ensure that there is in place an appropriate safety sign in accordance with the requirements set out in Parts I to VII of Schedule 1 to the Safety Signs Regulations[^c-689c9b1a4ccb05a6be14e2404b9f403e];
+- (b) subject to paragraph (5), in accordance with the requirements of Parts I, VIII and IX of Schedule 1 to the Safety Signs Regulations[^c-069c8aabc93df8a98a6f182ba32f1d59], ensure, so far as is reasonably practicable, that any appropriate hand signal or verbal communication described in those Parts is used; and
 - (c) maintain any appropriate safety sign (other than a hand signal or verbal communication) which he is required to ensure is in place.
 
 (3) For the purposes of paragraph (1), risks shall only be treated as having been adequately reduced if, having adopted the appropriate techniques, measures, methods or procedures referred to in that paragraph, there is no longer a significant risk of harm having regard to the magnitude and nature of the risks arising from the work concerned.
 
 (4) Without prejudice to paragraph (1), sub-paragraphs (a) and (b) of paragraph (2) shall also apply in relation to fire safety signs where they are required to comply with the provisions of any enactment (whether in an Act or instrument).
 
-(5) For the purposes of sub-paragraph (b) of paragraph (2), the appropriate hand signal described in the documents specified in the Schedule to these Regulations shall be an alternative to the corresponding hand signal described in paragraph 3 of Part IX of Schedule 1 to the Safety Signs Regulations[^key-096014ceddd8047a80f95022f48b8311].
+(5) For the purposes of sub-paragraph (b) of paragraph (2), the appropriate hand signal described in the documents specified in the Schedule to these Regulations shall be an alternative to the corresponding hand signal described in paragraph 3 of Part IX of Schedule 1 to the Safety Signs Regulations[^c-096014ceddd8047a80f95022f48b8311].
 
 (6) Where it is appropriate to provide safety signs in accordance with paragraph (1) because at a place of work there is a risk to the health and safety of any worker in connection with the presence or movement of traffic, the appropriate safety sign required under paragraph (2) shall be in accordance with the requirements prescribed in the Traffic Signs Regulations and General Directions 1994 [^c15688651], whether or not that instrument applies to the place of work.
 
@@ -253,13 +253,13 @@ Copies of the document referred to at paragraph 1 of the Schedule can be obtaine
 
 [^c15688571]: Marginal citation: [S.I. 1988/1641](https://www.legislation.gov.uk/uksi/1988/1641).
 
-[^key-05849446372a68af27ae1c2c6261998d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05849446372a68af27ae1c2c6261998d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15688591]: Marginal citation: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), as amended by [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54).
 
-[^key-21c895f188e1e205ca8ba7dcf88d45ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21c895f188e1e205ca8ba7dcf88d45ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-332dedaea1e2d3543d816f44406c3fae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-332dedaea1e2d3543d816f44406c3fae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15688601]: Marginal citation: Published by The Stationery Office in 1993 (ISBN 0-11-551184-9).
 
@@ -269,21 +269,21 @@ Copies of the document referred to at paragraph 1 of the Schedule can be obtaine
 
 [^c15688631]: Marginal citation: Published by The Stationery Office in 2000 (ISBN 0-11-551812-6).
 
-[^key-36a9097e2f6a6f5fafd5107dfe69074e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-36a9097e2f6a6f5fafd5107dfe69074e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-4ffa488bb38dd89d11302b37f0805b91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-4ffa488bb38dd89d11302b37f0805b91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c15688641]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-f4bd1d1256d11af3d8b5920a78e37053]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/a)
+[^c-f4bd1d1256d11af3d8b5920a78e37053]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/a)
 
-[^key-38c0161a54f3bcbd02da9296137c48d6]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/b)
+[^c-38c0161a54f3bcbd02da9296137c48d6]: Textual amendment: Word in reg. 3(3)(a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/9/3/b)
 
-[^key-689c9b1a4ccb05a6be14e2404b9f403e]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-689c9b1a4ccb05a6be14e2404b9f403e]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-069c8aabc93df8a98a6f182ba32f1d59]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-069c8aabc93df8a98a6f182ba32f1d59]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/2/b) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-096014ceddd8047a80f95022f48b8311]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/5) substituted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-096014ceddd8047a80f95022f48b8311]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/3444/regulation/5/5) substituted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/6/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15688651]: Marginal citation: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 

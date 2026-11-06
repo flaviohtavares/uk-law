@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-46cf47e7e2eb79d2d70659cd5e6e8636]
+## 1. Citation and commencement[^c-46cf47e7e2eb79d2d70659cd5e6e8636]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Bank Insolvency (England and Wales) Rules 2009 a
 
 ## Annotations
 
-[^key-46cf47e7e2eb79d2d70659cd5e6e8636]: Commencement: Rule 1 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-46cf47e7e2eb79d2d70659cd5e6e8636]: Commencement: Rule 1 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196B. Excluded activities: producing coal[^key-2de0758091f1692e446bb92923eb054a]
+## 196B. Excluded activities: producing coal[^c-2de0758091f1692e446bb92923eb054a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2de0758091f1692e446bb92923eb054a]: Textual amendment: Ss. 196A-196C inserted (retrospective to 6.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 11 paras. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/10) (with [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/11))
+[^c-2de0758091f1692e446bb92923eb054a]: Textual amendment: Ss. 196A-196C inserted (retrospective to 6.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 11 paras. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/10) (with [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/11))

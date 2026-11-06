@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Exceptions to minimum requirements[^key-d9a808697906e61172d269134b05a869]
+## 33. Exceptions to minimum requirements[^c-d9a808697906e61172d269134b05a869]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9a808697906e61172d269134b05a869]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2011/5/section/33) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d9a808697906e61172d269134b05a869]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2011/5/section/33) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

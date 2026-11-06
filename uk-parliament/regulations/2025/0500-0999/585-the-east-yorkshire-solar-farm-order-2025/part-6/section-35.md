@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Consent to transfer the benefit of the Order[^key-d4e2be49e0e346a4929c005a3b7b122c]
+## 35. Consent to transfer the benefit of the Order[^c-d4e2be49e0e346a4929c005a3b7b122c]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e2be49e0e346a4929c005a3b7b122c]: Commencement: Art. 35 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-d4e2be49e0e346a4929c005a3b7b122c]: Commencement: Art. 35 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

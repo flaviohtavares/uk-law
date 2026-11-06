@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Enforcement[^key-976720ca0aa8065505cd4aa3da476440]
+## 34. Enforcement[^c-976720ca0aa8065505cd4aa3da476440]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A failure in respect of a performance of a duty imposed by or under this Chapter
 
 ## Annotations
 
-[^key-976720ca0aa8065505cd4aa3da476440]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2015/6/section/34) in force at 1.7.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/f)
+[^c-976720ca0aa8065505cd4aa3da476440]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2015/6/section/34) in force at 1.7.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/f)

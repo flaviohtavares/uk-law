@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.32. Arraigning the defendant[^key-46ca0c58417038c2eac3903c3608ee32]
+## 3.32. Arraigning the defendant[^c-46ca0c58417038c2eac3903c3608ee32]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46ca0c58417038c2eac3903c3608ee32]: Commencement: [Rule 3.32](https://www.legislation.gov.uk/uksi/2025/909/rule/3.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-46ca0c58417038c2eac3903c3608ee32]: Commencement: [Rule 3.32](https://www.legislation.gov.uk/uksi/2025/909/rule/3.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00137]: Footnote: [1967 c. 58](https://www.legislation.gov.uk/ukpga/1967/58); section 6 was amended by paragraph 41 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 11 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 

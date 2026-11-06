@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## .... Restriction of relief to films genuinely intended for theatrical release[^key-610089e03bd14919273ec6fa243dd011][^key-610089e03bd14919273ec6fa243dd011]
+## .... Restriction of relief to films genuinely intended for theatrical release[^c-610089e03bd14919273ec6fa243dd011][^c-610089e03bd14919273ec6fa243dd011]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610089e03bd14919273ec6fa243dd011]: Textual amendment: Ss. 99-101 repealed (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)
+[^c-610089e03bd14919273ec6fa243dd011]: Textual amendment: Ss. 99-101 repealed (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)

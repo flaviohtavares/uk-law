@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Making infrastructure-related goods available[^key-cc3668eeb028b47a0f54f2baa6a75447]
+## 50. Making infrastructure-related goods available[^c-cc3668eeb028b47a0f54f2baa6a75447]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person must not—
 
-- (a) directly or indirectly make infrastructure-related goods available to a person connected with non-government controlled Ukrainian territory[^key-f7ae5062c55b6cee7602b911be772b5b];
+- (a) directly or indirectly make infrastructure-related goods available to a person connected with non-government controlled Ukrainian territory[^c-f7ae5062c55b6cee7602b911be772b5b];
 - (b) directly or indirectly make infrastructure-related goods available for use in non-government controlled Ukrainian territory.
 
 (2) Paragraph (1) is subject to Part 7 (Exceptions and licences).
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc3668eeb028b47a0f54f2baa6a75447]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-cc3668eeb028b47a0f54f2baa6a75447]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-f7ae5062c55b6cee7602b911be772b5b]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/2019/855/regulation/50) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(iv)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/iv)
+[^c-f7ae5062c55b6cee7602b911be772b5b]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/2019/855/regulation/50) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(iv)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/iv)

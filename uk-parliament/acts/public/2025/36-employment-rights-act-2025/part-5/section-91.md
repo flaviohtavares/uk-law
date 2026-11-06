@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Enforcement functions of Secretary of State[^key-6da4437dba4562426f0d0a771dda245e][^key-824390b995876e5961349d5b953c7880][^key-11eaf186a91d4351b9aa011cdae0604a]
+## 91. Enforcement functions of Secretary of State[^c-6da4437dba4562426f0d0a771dda245e][^c-824390b995876e5961349d5b953c7880][^c-11eaf186a91d4351b9aa011cdae0604a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6da4437dba4562426f0d0a771dda245e]: Commencement: S. 91 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6da4437dba4562426f0d0a771dda245e]: Commencement: S. 91 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-824390b995876e5961349d5b953c7880]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/36/section/91) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(26)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/26)
+[^c-824390b995876e5961349d5b953c7880]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/36/section/91) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(26)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/26)
 
-[^key-11eaf186a91d4351b9aa011cdae0604a]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/36/section/91) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/3/b)
+[^c-11eaf186a91d4351b9aa011cdae0604a]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2025/36/section/91) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/3/b)

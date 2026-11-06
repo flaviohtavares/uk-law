@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 321. Right to copy documents[^key-3e09549c7dff7e6bc2eef0ac4475ac65]
+## 321. Right to copy documents[^c-3e09549c7dff7e6bc2eef0ac4475ac65]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e09549c7dff7e6bc2eef0ac4475ac65]: Commencement: [Rule 321](https://www.legislation.gov.uk/uksi/2011/1301/rule/321) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3e09549c7dff7e6bc2eef0ac4475ac65]: Commencement: [Rule 321](https://www.legislation.gov.uk/uksi/2011/1301/rule/321) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00024]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39): section 92 was amended by the Constitutional Reform Act 2005, section 15(1), Schedule 4, Part 1 paras 308, 345 and section 59(5) Schedule 11, Part 2, para 4(1)(3).

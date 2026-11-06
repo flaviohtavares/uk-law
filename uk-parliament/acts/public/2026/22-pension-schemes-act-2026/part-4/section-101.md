@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Sections 101 to 104: interpretation and scope[^key-e68655368cacf7f41186b7b701c1e18c]
+## 101. Sections 101 to 104: interpretation and scope[^c-e68655368cacf7f41186b7b701c1e18c]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e68655368cacf7f41186b7b701c1e18c]: Commencement: S. 101 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-e68655368cacf7f41186b7b701c1e18c]: Commencement: S. 101 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

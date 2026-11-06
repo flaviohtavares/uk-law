@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of regulation 11A (additional information and publicity)[^key-0ad9a666b2c5848c16a7957b8eeda8a9]
+## 36. Amendment of regulation 11A (additional information and publicity)[^c-0ad9a666b2c5848c16a7957b8eeda8a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 11A—
 
 ## Annotations
 
-[^key-0ad9a666b2c5848c16a7957b8eeda8a9]: Commencement: Reg. 36 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-0ad9a666b2c5848c16a7957b8eeda8a9]: Commencement: Reg. 36 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

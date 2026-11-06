@@ -22,7 +22,7 @@ summary: ''
 
 (1) A qualifying disclosure is made in accordance with this section if the worker—
 
-- (a) makes the disclosure [^key-5904afdc13bbb85770ae036e275f1175] ... to a person prescribed by an order made by the Secretary of State for the purposes of this section, and
+- (a) makes the disclosure [^c-5904afdc13bbb85770ae036e275f1175] ... to a person prescribed by an order made by the Secretary of State for the purposes of this section, and
 - (b) reasonably believes—
   - (i) that the relevant failure falls within any description of matters in respect of which that person is so prescribed, and
   - (ii) that the information disclosed, and any allegation contained in it, are substantially true.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-5904afdc13bbb85770ae036e275f1175]: Textual amendment: Words in s. 43F(1)(a) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(1)(c)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/1/c), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-5904afdc13bbb85770ae036e275f1175]: Textual amendment: Words in s. 43F(1)(a) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(1)(c)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/1/c), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))

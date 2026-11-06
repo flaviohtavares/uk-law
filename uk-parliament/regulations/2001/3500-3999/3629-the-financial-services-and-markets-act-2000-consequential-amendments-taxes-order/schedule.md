@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — REPEALS IN CONSEQUENCE OF THE AMENDMENTS MADE BY PART 2 OF THIS ORDER[^key-ae118c9b21b3085c9d0908f978967d36]
+## SCHEDULE — REPEALS IN CONSEQUENCE OF THE AMENDMENTS MADE BY PART 2 OF THIS ORDER[^c-ae118c9b21b3085c9d0908f978967d36]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Article 109
 
 ## Annotations
 
-[^key-ae118c9b21b3085c9d0908f978967d36]: Commencement: Sch. in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3629/article/1)
+[^c-ae118c9b21b3085c9d0908f978967d36]: Commencement: Sch. in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3629/article/1)

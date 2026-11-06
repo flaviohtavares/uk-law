@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244ZC. Proceedings following reference under section 244ZB[^key-8bace4ba4d01343abe3e47d90e386b3d]
+## 244ZC. Proceedings following reference under section 244ZB[^c-8bace4ba4d01343abe3e47d90e386b3d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bace4ba4d01343abe3e47d90e386b3d]: Textual amendment: [Ss. 244ZB](https://www.legislation.gov.uk/ukpga/2003/44/section/244ZB), [244ZC](https://www.legislation.gov.uk/ukpga/2003/44/section/244ZC) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 132(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/4), [208(4)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/p)
+[^c-8bace4ba4d01343abe3e47d90e386b3d]: Textual amendment: [Ss. 244ZB](https://www.legislation.gov.uk/ukpga/2003/44/section/244ZB), [244ZC](https://www.legislation.gov.uk/ukpga/2003/44/section/244ZC) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 132(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/4), [208(4)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/p)

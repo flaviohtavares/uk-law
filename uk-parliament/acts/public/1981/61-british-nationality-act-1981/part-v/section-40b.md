@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40B. Review of power under section 40(4A)[^key-4d542175700425fdf7665da243ae042c]
+## 40B. Review of power under section 40(4A)[^c-4d542175700425fdf7665da243ae042c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d542175700425fdf7665da243ae042c]: Textual amendment: [S. 40B](https://www.legislation.gov.uk/ukpga/1981/61/section/40B) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/66/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t) as amended by SI 2014/2771 art 14
+[^c-4d542175700425fdf7665da243ae042c]: Textual amendment: [S. 40B](https://www.legislation.gov.uk/ukpga/1981/61/section/40B) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 66(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/66/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t) as amended by SI 2014/2771 art 14

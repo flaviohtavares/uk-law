@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund (Applications and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-f0b6995f42a6ccbee3a4364f146b7f5a]
+The Social Fund (Applications and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-f0b6995f42a6ccbee3a4364f146b7f5a]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 21st December 2009
 
-[^key-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f0b6995f42a6ccbee3a4364f146b7f5a]
+## 1. Citation, commencement and interpretation[^c-f0b6995f42a6ccbee3a4364f146b7f5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Fund (Applications and Miscellaneous Provisions) Regulations[^key-f0b6995f42a6ccbee3a4364f146b7f5a]
+## 2. Amendment of the Social Fund (Applications and Miscellaneous Provisions) Regulations[^c-f0b6995f42a6ccbee3a4364f146b7f5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b6995f42a6ccbee3a4364f146b7f5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0b6995f42a6ccbee3a4364f146b7f5a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/392) revoked (12.10.2022) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2022 (S.R. 2022/222)](https://www.legislation.gov.uk/nisr/2022/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2022/222/regulation/8/b)
+[^c-f0b6995f42a6ccbee3a4364f146b7f5a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/392) revoked (12.10.2022) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2022 (S.R. 2022/222)](https://www.legislation.gov.uk/nisr/2022/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2022/222/regulation/8/b)

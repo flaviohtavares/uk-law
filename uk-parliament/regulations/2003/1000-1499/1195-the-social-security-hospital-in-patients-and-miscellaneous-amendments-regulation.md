@@ -48,27 +48,27 @@ These Regulations may be cited as the Social Security (Hospital In-Patients and 
   - (i) in so far as it relates to a particular beneficiary other than a beneficiary in receipt of incapacity benefit or severe disablement allowance, on 21st May 2003 if it is his appropriate pay day or, if not, on his appropriate pay day next following 21st May 2003, and for the purposes of this sub-paragraph “**appropriate pay day**” shall be construed in accordance with regulation 22(3) of, and Schedule 6 to, the Social Security (Claims and Payments) Regulations 1987 [^c503313]; and
   - (ii) in so far as it relates to a particular beneficiary in receipt of incapacity benefit or severe disablement allowance, on 21st May 2003;
 - (c) regulation 3, in so far as it relates to a beneficiary paid in advance, on the first day of the first benefit week to commence for that beneficiary on or after 21st May 2003, but otherwise on the first day of the benefit week which includes that date, and for the purpose of this paragraph “**benefit week**” has the same meaning as in the Income Support (General) Regulations 1987 [^c503314];
-- (d)[^key-5b7d8214554922a66c27b1186a27d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-5b7d8214554922a66c27b1186a27d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5b7d8214554922a66c27b1186a27d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5b7d8214554922a66c27b1186a27d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) regulation 6, in so far as it relates to a beneficiary paid in advance, on the first day of the first benefit week to commence for that beneficiary on or after 21st May 2003, but otherwise on the first day of the benefit week which includes that date, and for the purpose of this paragraph “**benefit week**” has the same meaning as in the Jobseeker’s Allowance Regulations 1996 [^c503315]
 
-## 2. Amendment of the Social Security (Hospital In-Patients) Regulations 1975[^key-1825f92d87658977ba900505876759ec]
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations 1975[^c-1825f92d87658977ba900505876759ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Income Support (General) Regulations 1987[^key-1825f92d87658977ba900505876759ec]
+## 3. Amendment of the Income Support (General) Regulations 1987[^c-1825f92d87658977ba900505876759ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-1825f92d87658977ba900505876759ec][^key-719bc4b6492843a53d936314ccc3b52a]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-1825f92d87658977ba900505876759ec][^c-719bc4b6492843a53d936314ccc3b52a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Council Tax Benefit (General) Regulations 1992[^key-1825f92d87658977ba900505876759ec][^key-8907e73c32328c51c0fd79d595219e45]
+## 5. Amendment of Council Tax Benefit (General) Regulations 1992[^c-1825f92d87658977ba900505876759ec][^c-8907e73c32328c51c0fd79d595219e45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-1825f92d87658977ba900505876759ec][^key-1825f92d87658977ba900505876759ec]
+## 6. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-1825f92d87658977ba900505876759ec][^c-1825f92d87658977ba900505876759ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,15 +84,15 @@ In the Child Support (Maintenance Calculations and Special Cases) Regulations 20
   - (ii) for “at least 13 but not exceeding” substitute “ more than ”; and
 - (c) in paragraph (h) for “4(d)” substitute “ 4 ”.
 
-## 8. Amendment of the State Pension Credit Regulations 2002[^key-84d10f333cc0cff41b8377f17c9981f2]
+## 8. Amendment of the State Pension Credit Regulations 2002[^c-84d10f333cc0cff41b8377f17c9981f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002[^key-84d10f333cc0cff41b8377f17c9981f2]
+## 9. Amendment of the State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002[^c-84d10f333cc0cff41b8377f17c9981f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003[^key-84d10f333cc0cff41b8377f17c9981f2][^key-3fb5ce4e0a1664997b82a4fa7d215854]
+## 10. Amendment of the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003[^c-84d10f333cc0cff41b8377f17c9981f2][^c-3fb5ce4e0a1664997b82a4fa7d215854]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -142,20 +142,20 @@ These Regulations do not impose a charge on business.
 
 [^c503314]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-5b7d8214554922a66c27b1186a27d637]: Textual amendment: Reg. 1(d)(e) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-5b7d8214554922a66c27b1186a27d637]: Textual amendment: Reg. 1(d)(e) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c503315]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-1825f92d87658977ba900505876759ec]: Textual amendment: Regs. 2-6 revoked (10.4.2006) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-1825f92d87658977ba900505876759ec]: Textual amendment: Regs. 2-6 revoked (10.4.2006) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-719bc4b6492843a53d936314ccc3b52a]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-719bc4b6492843a53d936314ccc3b52a]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-8907e73c32328c51c0fd79d595219e45]: Textual amendment: Reg. 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8907e73c32328c51c0fd79d595219e45]: Textual amendment: Reg. 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c503344]: Marginal citation: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155); these regulations come into force in relation to a particular case on the day on which Part I of Schedule 1 to the Child Support Act 1991 as amended by the Child Support, Pensions and Social Security Act 2000 comes into force in relation to that type of case.
 
 [^c503345]: Marginal citation: Paragraph (gg) was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019).
 
-[^key-84d10f333cc0cff41b8377f17c9981f2]: Textual amendment: Regs. 8-10 revoked (10.4.2006) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-84d10f333cc0cff41b8377f17c9981f2]: Textual amendment: Regs. 8-10 revoked (10.4.2006) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-3fb5ce4e0a1664997b82a4fa7d215854]: Textual amendment: Reg. 10 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-3fb5ce4e0a1664997b82a4fa7d215854]: Textual amendment: Reg. 10 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

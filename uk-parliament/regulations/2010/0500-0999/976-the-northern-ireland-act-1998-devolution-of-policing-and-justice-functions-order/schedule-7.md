@@ -22,9 +22,9 @@ summary: ''
 
 Article 6(4)
 
-**1.**[^key-fdb1d15f74c09421c09de6e323ae2136] Amend the Criminal Justice and Public Order Act 1994[^f00229] as follows.
+**1.**[^c-fdb1d15f74c09421c09de6e323ae2136] Amend the Criminal Justice and Public Order Act 1994[^f00229] as follows.
 
-**2.**[^key-9b4f5b2bd3ec8c689e5a6679595d02f3] At the beginning of Chapter 3 of Part 8 insert—
+**2.**[^c-9b4f5b2bd3ec8c689e5a6679595d02f3] At the beginning of Chapter 3 of Part 8 insert—
 
 > **117A. Exercise of functions by the Department of Justice**
 >
@@ -38,14 +38,14 @@ Article 6(4)
 >
 > (5) Rules made by the Department of Justice under section 120, and regulations made by the Department of Justice under paragraph 3 of Schedule 7, shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954[^f00231]).
 
-**3.**[^key-276d091fc7ba42a5a422d68f98ff7f11] In section 127[^f00232] (prison service: inducements to withhold services or to indiscipline)—
+**3.**[^c-276d091fc7ba42a5a422d68f98ff7f11] In section 127[^f00232] (prison service: inducements to withhold services or to indiscipline)—
 
 - (a) in subsection (2) after “Scottish Ministers” insert “or, in Northern Ireland, to the Department of Justice”;
 - (b) in subsection (3) after “Scottish Ministers” (in the first place where those words appear) insert “or, in Northern Ireland, of the Department of Justice”;
 - (c) in subsection (3) after “Scottish Ministers” (in the second place where those words appear) insert “or, in Northern Ireland, the Department of Justice”; and
 - (d) in subsection (8) after “Scottish Ministers” insert “or, in Northern Ireland, the Department of Justice”.
 
-**4.**[^key-446be17695a7b0c56be4e7d3a2f6fd46] (1) Amend section 127A[^f00233] (power to suspend operation of section 127) as follows.
+**4.**[^c-446be17695a7b0c56be4e7d3a2f6fd46] (1) Amend section 127A[^f00233] (power to suspend operation of section 127) as follows.
 
 (2) After subsection (1) insert—
 
@@ -61,9 +61,9 @@ Article 6(4)
 >
 > (7) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (6) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
-**5.**[^key-107bffa199034196fa0c6eb8f5308c07] Omit section 128(5)(aa)[^f00234] (definition of prison service in Northern Ireland).
+**5.**[^c-107bffa199034196fa0c6eb8f5308c07] Omit section 128(5)(aa)[^f00234] (definition of prison service in Northern Ireland).
 
-**6.**[^key-c8c8baf7b58e6bb16133a3d07410bee6] After section 128 insert—
+**6.**[^c-c8c8baf7b58e6bb16133a3d07410bee6] After section 128 insert—
 
 > **128A. Pay and related conditions: Northern Ireland**
 >
@@ -87,7 +87,7 @@ Article 6(4)
 >
 > (6) For the purposes of this section, the prison service comprises all the individuals who hold any post, other than as chaplain or assistant chaplain, to which they have been appointed for the purposes of section 2(2) of the Prison Act (Northern Ireland) 1953[^f00235].
 
-**7.**[^key-48ef5b66bd74cc0a4cc5fea1c3b2cc14] (1) Amend section 172 (extent) as follows.
+**7.**[^c-48ef5b66bd74cc0a4cc5fea1c3b2cc14] (1) Amend section 172 (extent) as follows.
 
 (2) After subsection (13) insert—
 
@@ -101,30 +101,30 @@ Article 6(4)
 
 ## Annotations
 
-[^key-fdb1d15f74c09421c09de6e323ae2136]: Commencement: Sch. 7 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-fdb1d15f74c09421c09de6e323ae2136]: Commencement: Sch. 7 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00229]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-9b4f5b2bd3ec8c689e5a6679595d02f3]: Commencement: Sch. 7 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9b4f5b2bd3ec8c689e5a6679595d02f3]: Commencement: Sch. 7 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00230]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
 [^f00231]: Footnote: Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-276d091fc7ba42a5a422d68f98ff7f11]: Commencement: Sch. 7 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-276d091fc7ba42a5a422d68f98ff7f11]: Commencement: Sch. 7 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00232]: Footnote: Section 127 was amended by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Other amendments have been made to section 127 but none are relevant.
 
-[^key-446be17695a7b0c56be4e7d3a2f6fd46]: Commencement: Sch. 7 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-446be17695a7b0c56be4e7d3a2f6fd46]: Commencement: Sch. 7 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00233]: Footnote: Section 127A was inserted by section 139 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-107bffa199034196fa0c6eb8f5308c07]: Commencement: Sch. 7 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-107bffa199034196fa0c6eb8f5308c07]: Commencement: Sch. 7 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00234]: Footnote: Section 128(5)(aa) was inserted by section 25 of the Offender Management Act [2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21) and amended by [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216).
 
-[^key-c8c8baf7b58e6bb16133a3d07410bee6]: Commencement: Sch. 7 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c8c8baf7b58e6bb16133a3d07410bee6]: Commencement: Sch. 7 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00235]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18).
 
-[^key-48ef5b66bd74cc0a4cc5fea1c3b2cc14]: Commencement: Sch. 7 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-48ef5b66bd74cc0a4cc5fea1c3b2cc14]: Commencement: Sch. 7 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

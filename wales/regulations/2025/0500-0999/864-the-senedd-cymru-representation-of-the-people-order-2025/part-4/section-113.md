@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Incapacities of being reported personally guilty of corrupt or illegal practice[^key-101752d1b5f34481bdfc1eeb240bb2cb]
+## 113. Incapacities of being reported personally guilty of corrupt or illegal practice[^c-101752d1b5f34481bdfc1eeb240bb2cb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-101752d1b5f34481bdfc1eeb240bb2cb]: Commencement: Art. 113 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-101752d1b5f34481bdfc1eeb240bb2cb]: Commencement: Art. 113 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

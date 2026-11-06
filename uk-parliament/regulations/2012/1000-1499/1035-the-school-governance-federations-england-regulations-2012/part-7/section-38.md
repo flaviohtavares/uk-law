@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Incorporation of governing body of a school leaving a federation[^key-1c73d51c3306eb3fffc39aecc8fd99d0]
+## 38. Incorporation of governing body of a school leaving a federation[^c-1c73d51c3306eb3fffc39aecc8fd99d0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On the date of dissolution the temporary governing body of each school are incor
 
 ## Annotations
 
-[^key-1c73d51c3306eb3fffc39aecc8fd99d0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/1035/regulation/38) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-1c73d51c3306eb3fffc39aecc8fd99d0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/1035/regulation/38) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

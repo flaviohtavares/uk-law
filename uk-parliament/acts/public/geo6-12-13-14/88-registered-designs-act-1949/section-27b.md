@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Persons appointed to hear and determine appeals[^key-a52fbf57b7ffee852a4804a067ccc037]
+## 27B. Persons appointed to hear and determine appeals[^c-a52fbf57b7ffee852a4804a067ccc037]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52fbf57b7ffee852a4804a067ccc037]: Textual amendment: Ss. 27A, 27B inserted (15.7.2014 for specified purposes, 6.4.2015 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/1715](https://www.legislation.gov.uk/uksi/2014/1715), [art. 3](https://www.legislation.gov.uk/uksi/2014/1715/article/3); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-a52fbf57b7ffee852a4804a067ccc037]: Textual amendment: Ss. 27A, 27B inserted (15.7.2014 for specified purposes, 6.4.2015 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/2), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/1715](https://www.legislation.gov.uk/uksi/2014/1715), [art. 3](https://www.legislation.gov.uk/uksi/2014/1715/article/3); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)

@@ -29,7 +29,7 @@ summary: ''
 
 (3) An application under paragraph (1) shall be made within 14 days from the date of the service of notice of appeal from a decision of a magistrates’ court.
 
-(4) The notice under paragraph (1) shall be served on the chief clerk [^key-52311efc0ae05051f2760d0d0180e53e]..., and at the same time a copy thereof shall be served by the applicant on every other party to the appeal.
+(4) The notice under paragraph (1) shall be served on the chief clerk [^c-52311efc0ae05051f2760d0d0180e53e]..., and at the same time a copy thereof shall be served by the applicant on every other party to the appeal.
 
 (5) Any party on whom a copy of a notice under paragraph (1) is served may oppose the application for a special measures direction in respect of any measure available in relation to the witness, whether or not the question whether the witness is eligible for assistance by virtue of \[[^f00297] Article 4 or 5) of the 1999 Order is in issue.
 
@@ -60,7 +60,7 @@ summary: ''
 
 [^f00296]: Footnote: Rules 6B and 6C substituted by [S.R. 2003 No. 295](https://www.legislation.gov.uk/nisr/2003/295) with effect from 30.06.03
 
-[^key-52311efc0ae05051f2760d0d0180e53e]: Textual amendment: Words in Order 32 rule 6B(4) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-52311efc0ae05051f2760d0d0180e53e]: Textual amendment: Words in Order 32 rule 6B(4) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00297]: Footnote: Words inserted by [S.R. 2004 No. 463](https://www.legislation.gov.uk/nisr/2004/463) with effect from 29.11.04
 

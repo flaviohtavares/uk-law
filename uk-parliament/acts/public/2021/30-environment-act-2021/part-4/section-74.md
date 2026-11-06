@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Environmental recall of motor vehicles etc[^key-96c44fe9e2a7473e5e7a82b55fdb4c50][^key-7c31e85e3266ae747b137b7d98aeb0c5]
+## 74. Environmental recall of motor vehicles etc[^c-96c44fe9e2a7473e5e7a82b55fdb4c50][^c-7c31e85e3266ae747b137b7d98aeb0c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ and the regulations may provide that a reference in the regulations to a standar
 
 ## Annotations
 
-[^key-96c44fe9e2a7473e5e7a82b55fdb4c50]: Commencement: S. 74 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-96c44fe9e2a7473e5e7a82b55fdb4c50]: Commencement: S. 74 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7c31e85e3266ae747b137b7d98aeb0c5]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2021/30/section/74) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)
+[^c-7c31e85e3266ae747b137b7d98aeb0c5]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2021/30/section/74) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)

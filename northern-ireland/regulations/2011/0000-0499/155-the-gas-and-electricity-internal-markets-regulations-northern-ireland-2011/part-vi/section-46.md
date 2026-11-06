@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Amendment to the Energy Order[^key-b9c9d2f3c84f5fd41c5c8764e04ccea9]
+## 46. Amendment to the Energy Order[^c-b9c9d2f3c84f5fd41c5c8764e04ccea9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 6(3) of the Energy Order, for the words “general directions” ther
 
 ## Annotations
 
-[^key-b9c9d2f3c84f5fd41c5c8764e04ccea9]: Commencement: Reg. 46 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-b9c9d2f3c84f5fd41c5c8764e04ccea9]: Commencement: Reg. 46 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

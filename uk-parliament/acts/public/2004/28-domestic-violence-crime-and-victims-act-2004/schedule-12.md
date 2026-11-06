@@ -24,7 +24,7 @@ Section 59
 
 **1.** (1) Section 1 and paragraphs 37 to 39 of Schedule 10 apply only in relation to conduct occurring on or after the commencement of that section.
 
-(2) In relation to an offence committed before 2 May 2022[^key-2994a6d66efa033d1b298d9fb61789c3], the reference to the general limit in a magistrates’ court[^key-074d353fc762a9bb3aed4ebbb3bccb0a] in subsection (5)(b) of section 42A of the Family Law Act 1996 (inserted by section 1 of this Act) is to be read as a reference to six months.
+(2) In relation to an offence committed before 2 May 2022[^c-2994a6d66efa033d1b298d9fb61789c3], the reference to the general limit in a magistrates’ court[^c-074d353fc762a9bb3aed4ebbb3bccb0a] in subsection (5)(b) of section 42A of the Family Law Act 1996 (inserted by section 1 of this Act) is to be read as a reference to six months.
 
 **2.** In section 5, the reference in subsection (1)(a) to an unlawful act does not include an act that (or so much of an act as) occurs before the commencement of that section.
 
@@ -51,7 +51,7 @@ Section 59
 
 (3) Section 13(4) and paragraph 47(2) of Schedule 10 do not apply where the acquittal (or, where paragraph (5) of the inserted Article 7A applies, the allowing of the appeal) occurs before the commencement of those provisions.
 
-**7.**[^key-8a5793baa6d5cdb5423424e792151cb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8a5793baa6d5cdb5423424e792151cb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) The provisions mentioned in sub-paragraph (2) do not apply—
 
@@ -76,10 +76,10 @@ Section 59
 
 ## Annotations
 
-[^key-2994a6d66efa033d1b298d9fb61789c3]: Textual amendment: Words in [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/1/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-2994a6d66efa033d1b298d9fb61789c3]: Textual amendment: Words in [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/1/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-074d353fc762a9bb3aed4ebbb3bccb0a]: Textual amendment: Words in [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/1/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-074d353fc762a9bb3aed4ebbb3bccb0a]: Textual amendment: Words in [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/1/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
 [^c21075291]: Commencement: Sch. 12 para. 4 partly in force; para. 4 not in force at Royal Assent see s. 60; para. 4 in force for certain purposes at 1.7.2005 by [S.I. 2005/1705](https://www.legislation.gov.uk/uksi/2005/1705), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1705/article/2/h)
 
-[^key-8a5793baa6d5cdb5423424e792151cb5]: Textual amendment: Sch. 12 para. 7 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3))
+[^c-8a5793baa6d5cdb5423424e792151cb5]: Textual amendment: Sch. 12 para. 7 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3))

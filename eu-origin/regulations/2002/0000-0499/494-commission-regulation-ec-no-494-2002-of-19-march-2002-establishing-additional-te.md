@@ -74,7 +74,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** This Regulation shall apply to United Kingdom fishing vessels[^key-72d87eccc383e00bbf475b7ae7b37f19] operating within ICES sub-areas V and VI and ICES divisions VII b, c, f, g, h, j, k and ICES divisions VIII a, b, d, e.
+**Article 1.** This Regulation shall apply to United Kingdom fishing vessels[^c-72d87eccc383e00bbf475b7ae7b37f19] operating within ICES sub-areas V and VI and ICES divisions VII b, c, f, g, h, j, k and ICES divisions VIII a, b, d, e.
 
 **Article 1a.**[^c000001] For the purposes of this Regulation, ‘unintended catches’ means incidental catches of marine organisms that, under Article 15 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council [^f00004] , must be landed and counted against quotas either because they are below the minimum conservation reference size or because they exceed the quantities permitted under the catch composition and by-catch rules.
 
@@ -131,13 +131,13 @@ The panel of netting shall extend towards the posterior of the net for at least 
 
 - it is prohibited to conduct any fishing activity using any towed net other than beam trawls of mesh size range 55 to 99 mm,
 - it is prohibited to immerse, partially or wholly, or otherwise deploy for any purpose any towed net other than beam trawls which is of mesh size range 55 to 99 mm,
-- all towed nets other than beam trawls of mesh size range 55 to 99 mm shall be lashed and stowed in accordance with the provisions laid down in Article 47 of Council Regulation[^key-1a1f42b33f0d58e82a77afcc1a6c77ce] [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224).
+- all towed nets other than beam trawls of mesh size range 55 to 99 mm shall be lashed and stowed in accordance with the provisions laid down in Article 47 of Council Regulation[^c-1a1f42b33f0d58e82a77afcc1a6c77ce] [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224).
 
 Within the area defined in paragraph 1(a):
 
 - it is prohibited to conduct any fishing activity using any fixed gear of mesh size less than 120 mm,
 - it is prohibited to immerse, partially or wholly or otherwise deploy for any purpose, any fixed gear of mesh size less than 120 mm,
-- all fixed gears of mesh size less than 120 mm shall be lashed and stowed in accordance with the provisions laid down in Article 47 of Council Regulation[^key-5d23ffd9e16765ac6852f68f66e8ec26] [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224).
+- all fixed gears of mesh size less than 120 mm shall be lashed and stowed in accordance with the provisions laid down in Article 47 of Council Regulation[^c-5d23ffd9e16765ac6852f68f66e8ec26] [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224).
 
 Within the area defined in paragraph 1(b):
 
@@ -151,7 +151,7 @@ Within the area defined in paragraph 1(b):
 
 3. Within those parts of the areas defined in Article 5(1)(a) or 5(1)(b) which lie outside the areas referred to in paragraphs 1 and 2, all beam trawls of mesh size range 55 to 99 mm shall be lashed and stowed in accordance with the provisions laid down in Article 20(1) of Regulation (EEC) No 2847/93.
 
-**Article 7.** [^key-add77922eb60d6d83b7a810cef1187fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.** [^c-add77922eb60d6d83b7a810cef1187fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^M_F_463b28f1-c894-4a8c-ff38-ae6fc3f1a0c8]...
 
@@ -163,16 +163,16 @@ Within the area defined in paragraph 1(b):
 
 [^f00003]: Footnote: [OJ L 159, 14.6.2001, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.159.01.0004.01.ENG).
 
-[^key-72d87eccc383e00bbf475b7ae7b37f19]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2002/494/article/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72d87eccc383e00bbf475b7ae7b37f19]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2002/494/article/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2015/1867 of 19 October 2015 amending Regulation (EC) No 494/2002 as regards the landing obligation](https://www.legislation.gov.uk/eur/2015/1867).
 
 [^f00004]: Footnote: Regulation (EU) No 1380/2013 of the European Parliament and of the Council of[^c000001] 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC ( [OJ L 354, 28.12.2013, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.354.01.0022.01.ENG) ).
 
-[^key-1a1f42b33f0d58e82a77afcc1a6c77ce]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/494/article/5/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a1f42b33f0d58e82a77afcc1a6c77ce]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/494/article/5/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d23ffd9e16765ac6852f68f66e8ec26]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/494/article/5/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d23ffd9e16765ac6852f68f66e8ec26]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2002/494/article/5/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-add77922eb60d6d83b7a810cef1187fe]: Textual amendment: Art. 7 omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-add77922eb60d6d83b7a810cef1187fe]: Textual amendment: Art. 7 omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_463b28f1-c894-4a8c-ff38-ae6fc3f1a0c8]: Textual amendment: Art. 7 (including binding words) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [17(4)](https://www.legislation.gov.uk/uksi/2019/753/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

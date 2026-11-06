@@ -46,18 +46,18 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 143(2) of, and paragraph 2A(2)(a) of Schedule 6 to, the Local Government Finance Act 1988[^f00001], makes the following Order:
 
-## 1. Citation, application and commencement[^key-4883e7780fbfb6b95308d1d3037bdc54]
+## 1. Citation, application and commencement[^c-4883e7780fbfb6b95308d1d3037bdc54]
 
 This Order, which applies to England only, may be cited as the Non-Domestic Rating (Stud Farms) (England) Order 2009, and shall come into force on 1st April 2010.
 
-## 2. Specified amount – deduction in rateable value[^key-4dbf638a58ab2033a324c609505bdf84][^key-cc9342a0329dcaa8a62291a8fdd2d0a0]
+## 2. Specified amount – deduction in rateable value[^c-4dbf638a58ab2033a324c609505bdf84][^c-cc9342a0329dcaa8a62291a8fdd2d0a0]
 
 The amount specified for the purposes of paragraph 2A of Schedule 6 to the Local Government Finance Act 1988 (deductions from valuation of hereditaments used for breeding horses, etc) is—
 
 - (a) in respect of the rateable value of any hereditament shown in a non-domestic rating list compiled on 1st April 2010, £4,200;
 - (b) in respect of the rateable value of any hereditament shown in a non-domestic rating list compiled on or after 1st April 2017, £4,700.
 
-## 3. Revocation and saving[^key-87df91384581228c4e36020155e3f6a5]
+## 3. Revocation and saving[^c-87df91384581228c4e36020155e3f6a5]
 
 (1) Subject to paragraph (2) the Non-Domestic Rating (Stud Farms) (England) Order 2004[^f00002] is revoked.
 
@@ -87,12 +87,12 @@ Article 3 revokes the 2004 Order with effect from 1st April 2010 subject to a sa
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Paragraph 2A was inserted by sections 79(3) and 139 of and paragraph 38(11) of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); see the entry in Schedule 1 for the Local Government Finance Act 1988. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-4883e7780fbfb6b95308d1d3037bdc54]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
+[^c-4883e7780fbfb6b95308d1d3037bdc54]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
 
-[^key-4dbf638a58ab2033a324c609505bdf84]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3177/article/2) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
+[^c-4dbf638a58ab2033a324c609505bdf84]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3177/article/2) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
 
-[^key-cc9342a0329dcaa8a62291a8fdd2d0a0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3177/article/2) substituted (3.3.2017) by [The Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102)](https://www.legislation.gov.uk/uksi/2017/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/102/article/5/2)
+[^c-cc9342a0329dcaa8a62291a8fdd2d0a0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3177/article/2) substituted (3.3.2017) by [The Non-Domestic Rating (Reliefs, Thresholds and Amendment) (England) Order 2017 (S.I. 2017/102)](https://www.legislation.gov.uk/uksi/2017/102), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/102/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/102/article/5/2)
 
-[^key-87df91384581228c4e36020155e3f6a5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/3177/article/3) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
+[^c-87df91384581228c4e36020155e3f6a5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/3177/article/3) in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3177/article/1)
 
 [^f00002]: Footnote: [S.I. 2004/3151](https://www.legislation.gov.uk/uksi/2004/3151).

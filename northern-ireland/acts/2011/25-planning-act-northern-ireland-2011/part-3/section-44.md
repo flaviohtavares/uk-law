@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Appeal against notice under section 43[^key-8b9d44a761678f321a76d74b65c2c4b9][^key-4daee8291e510aa788c772bd6e1fe3a2][^key-2f5f0ed73ae267031cc18d32f95f44b5][^key-cf5b823bd55dbd518898572e53771ec4][^key-2f5f0ed73ae267031cc18d32f95f44b5]
+## 44. Appeal against notice under section 43[^c-8b9d44a761678f321a76d74b65c2c4b9][^c-4daee8291e510aa788c772bd6e1fe3a2][^c-2f5f0ed73ae267031cc18d32f95f44b5][^c-cf5b823bd55dbd518898572e53771ec4][^c-2f5f0ed73ae267031cc18d32f95f44b5]
 
 *Extent: N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8b9d44a761678f321a76d74b65c2c4b9]: Commencement: S. 44 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
+[^c-8b9d44a761678f321a76d74b65c2c4b9]: Commencement: S. 44 in operation at 1.2.2015 for specified purposes by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 2](https://www.legislation.gov.uk/nisr/2015/25/article/2)
 
-[^key-4daee8291e510aa788c772bd6e1fe3a2]: Commencement: S. 44 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
+[^c-4daee8291e510aa788c772bd6e1fe3a2]: Commencement: S. 44 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/25](https://www.legislation.gov.uk/nisr/2015/25), [art. 3](https://www.legislation.gov.uk/nisr/2015/25/article/3)
 
-[^key-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-2f5f0ed73ae267031cc18d32f95f44b5]: Modification: Pt. 3 applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-cf5b823bd55dbd518898572e53771ec4]: Modification: S. 44 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/66/regulation/14), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)
+[^c-cf5b823bd55dbd518898572e53771ec4]: Modification: S. 44 applied (with modifications) (1.4.2015) by [The Planning (Control of Advertisements) Regulations (Northern Ireland) 2015 (S.R. 2015/66)](https://www.legislation.gov.uk/nisr/2015/66), [regs. 1](https://www.legislation.gov.uk/nisr/2015/66/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/66/regulation/14), [Sch. 4 Pts. 1](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/1), [2](https://www.legislation.gov.uk/nisr/2015/66/schedule/4/part/2)

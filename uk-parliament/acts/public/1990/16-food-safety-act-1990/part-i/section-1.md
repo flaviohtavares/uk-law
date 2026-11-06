@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Meaning of “food” and other basic expressions.[^c10202471][^key-59598063147d1cba2f334d881514b274]
+## 1. Meaning of “food” and other basic expressions.[^c10202471][^c-59598063147d1cba2f334d881514b274]
 
 *Extent: E+W+S*
 
-(1)[^key-b7896a03eb3a3087f40999e6fccb4701] In this Act “food” has the same meaning as it has in Regulation [( EC ) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) .
+(1)[^c-b7896a03eb3a3087f40999e6fccb4701] In this Act “food” has the same meaning as it has in Regulation [( EC ) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) .
 
 (2) In this Act “Regulation [( EC ) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) ” means Regulation [( EC ) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
@@ -48,8 +48,8 @@ and, in relation to any food source, means deriving food from it for the purpose
 
 [^c10202471]: Modification: S. 1 applied (with modifications)(1.1.1995) by [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144), [reg. 9(14)](https://www.legislation.gov.uk/uksi/1994/3144/regulation/9/14)
 
-[^key-59598063147d1cba2f334d881514b274]: Modification: S. 1 amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
+[^c-59598063147d1cba2f334d881514b274]: Modification: S. 1 amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
 
-[^key-b7896a03eb3a3087f40999e6fccb4701]: Textual amendment: S. 1(1)(2) substituted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2990/regulation/3)
+[^c-b7896a03eb3a3087f40999e6fccb4701]: Textual amendment: S. 1(1)(2) substituted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/2990/regulation/3)
 
 [^c10202491]: Textual amendment: Words in s. 1(2)(3) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)

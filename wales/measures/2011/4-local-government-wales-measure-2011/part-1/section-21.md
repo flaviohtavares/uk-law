@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Head of democratic services to be a politically restricted post[^key-8f613ef6fea82477252489ba4bc79f0f]
+## 21. Head of democratic services to be a politically restricted post[^c-8f613ef6fea82477252489ba4bc79f0f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f613ef6fea82477252489ba4bc79f0f]: Commencement: S. 21 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-8f613ef6fea82477252489ba4bc79f0f]: Commencement: S. 21 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

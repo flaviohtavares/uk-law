@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Assisting unlawful immigration[^key-8ce5a545bda5c5bc96e9d32ad2445ad2]
+## 1. Assisting unlawful immigration[^c-8ce5a545bda5c5bc96e9d32ad2445ad2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 >
 > (8) An order under subsection (7)(a)—
 >
-> - (a) may be made only if the Secretary of State thinks it necessary for the purpose of complying with the United Kingdom’s obligations under the EU[^key-443f5a558523d9899b44dfe0624f831e] Treaties,
+> - (a) may be made only if the Secretary of State thinks it necessary for the purpose of complying with the United Kingdom’s obligations under the EU[^c-443f5a558523d9899b44dfe0624f831e] Treaties,
 > - (b) may include transitional, consequential or incidental provision,
 > - (c) shall be made by statutory instrument, and
 > - (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce5a545bda5c5bc96e9d32ad2445ad2]: Commencement: S. 1 in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-8ce5a545bda5c5bc96e9d32ad2445ad2]: Commencement: S. 1 in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
 
-[^key-443f5a558523d9899b44dfe0624f831e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-443f5a558523d9899b44dfe0624f831e]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

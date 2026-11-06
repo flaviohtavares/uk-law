@@ -27,7 +27,7 @@ summary: ''
 - (c) the appropriate person in the case of land in the counties of Devon and Cornwall and in the Isles of Scilly and in the case of land within the jurisdiction of the Port of London Authority, and
 - (d) the Port of London Authority in the case of land within its jurisdiction.
 
-(2) A notice under paragraph (1) must provide a period ending at 12 noon on the twentieth working[^key-a7fe7f62ec690c2b3a2842c968670298] day after the date of issue of the notice in which to object to the application.
+(2) A notice under paragraph (1) must provide a period ending at 12 noon on the twentieth working[^c-a7fe7f62ec690c2b3a2842c968670298] day after the date of issue of the notice in which to object to the application.
 
 (3) A notice need not be served under paragraph (1) where, if it was served, it would result in it being served on the applicant for first registration.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7fe7f62ec690c2b3a2842c968670298]: Textual amendment: Word in [rule 31(2)](https://www.legislation.gov.uk/uksi/2003/1417/rule/31/2) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-a7fe7f62ec690c2b3a2842c968670298]: Textual amendment: Word in [rule 31(2)](https://www.legislation.gov.uk/uksi/2003/1417/rule/31/2) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

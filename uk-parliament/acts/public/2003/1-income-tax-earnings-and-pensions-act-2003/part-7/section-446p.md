@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446P. Definitions[^key-06868e59dcbada837872488b6e7fb1cd]
+## 446P. Definitions[^c-06868e59dcbada837872488b6e7fb1cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)
+[^c-06868e59dcbada837872488b6e7fb1cd]: Textual amendment: Pt. 7 Ch. 3B inserted (16.4.2003 with effect in accordance with Sch. 22 para. 6(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 6(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/6/1)

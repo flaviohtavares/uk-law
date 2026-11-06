@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION, ENGLAND
 
-The School Teachers' Pay and Conditions (England) Order 2024 (revoked)[^key-af9b9a598f931ad729a37df7d06ae610]
+The School Teachers' Pay and Conditions (England) Order 2024 (revoked)[^c-af9b9a598f931ad729a37df7d06ae610]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 8th November 2024
 
-[^key-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-af9b9a598f931ad729a37df7d06ae610]
+## 1. Citation, commencement, extent and application[^c-af9b9a598f931ad729a37df7d06ae610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-af9b9a598f931ad729a37df7d06ae610]
+## 2. The Document[^c-af9b9a598f931ad729a37df7d06ae610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-af9b9a598f931ad729a37df7d06ae610]
+## 3. Revocation[^c-af9b9a598f931ad729a37df7d06ae610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af9b9a598f931ad729a37df7d06ae610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af9b9a598f931ad729a37df7d06ae610]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1037) revoked (1.9.2025) by [The School Teachers’ Pay and Conditions (England) Order 2025 (S.I. 2025/892)](https://www.legislation.gov.uk/uksi/2025/892), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/892/article/3)
+[^c-af9b9a598f931ad729a37df7d06ae610]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1037) revoked (1.9.2025) by [The School Teachers’ Pay and Conditions (England) Order 2025 (S.I. 2025/892)](https://www.legislation.gov.uk/uksi/2025/892), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/892/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/892/article/3)

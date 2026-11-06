@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0d8d8687526bfaa2fa7a3f23fc01e326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0d8d8687526bfaa2fa7a3f23fc01e326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c11856381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d8d8687526bfaa2fa7a3f23fc01e326]: Textual amendment: [S. 75(1)](https://www.legislation.gov.uk/ukpga/1969/48/section/75/1) repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)
+[^c-0d8d8687526bfaa2fa7a3f23fc01e326]: Textual amendment: [S. 75(1)](https://www.legislation.gov.uk/ukpga/1969/48/section/75/1) repealed (1.5.2007) by [Postal Services Act 2000 (c. 26)](https://www.legislation.gov.uk/ukpga/2000/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2000/26/section/130/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)
 
 [^c11856381]: Textual amendment: S. 75(2) repealed (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to arts. 3-42 of the said S.I.)

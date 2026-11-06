@@ -45,7 +45,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 74(
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-3396cf252d745a485de0b00a92611687]
+### 1. Title and commencement[^c-3396cf252d745a485de0b00a92611687]
 
 (1) The title of these Regulations is the Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022.
 
@@ -53,14 +53,14 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 74(
 
 (3) Part 2 comes into force as set out in the individual regulations.
 
-### 2. Interpretation[^key-03c8cfceda5dd650660a3bdfede7f455]
+### 2. Interpretation[^c-03c8cfceda5dd650660a3bdfede7f455]
 
 In these Regulations—
 
 - “**the 1996 Act**” (“***Deddf 1996***”) means the Education Act 1996[^f00002];
-- “**the 2021 Act**” (“***Deddf 2021[^key-0208a89e5dca5cdebe53a0ab995d3267]***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “**the 2021 Act**” (“***Deddf 2021[^c-0208a89e5dca5cdebe53a0ab995d3267]***”) means the Curriculum and Assessment (Wales) Act 2021;
 - “**funded non-maintained nursery education**” (“***addysg feithrin a gyllidir ond nas cynhelir***”) has the meaning given to it in section 80(1)(a) of the 2021 Act;
-- “**head teacher**” (“[^key-78cb91cd94eebd66e8f655d18179dad5]***pennaeth***”) has the meaning given to it in section 579(1) of the 1996 Act;
+- “**head teacher**” (“[^c-78cb91cd94eebd66e8f655d18179dad5]***pennaeth***”) has the meaning given to it in section 579(1) of the 1996 Act;
 - “**maintained nursery school**” (*“ysgol feithrin a gynhelir”*) has the meaning given to it in section 79(1)(b) of the 2021 Act;
 - “**maintained school**” (*“ysgol a gynhelir”)* has the meaning given to it in section 79(1)(a) of the 2021 Act;
 - “**nursery education**” (“***addysg feithrin***”) means education provided to children or pupils below compulsory school age—
@@ -87,15 +87,15 @@ In these Regulations—
 
 ## PART 2 — Consequential Amendments
 
-### 3. The Education (Disapplication of the National Curriculum at Key Stage 1) (Wales) Regulations 2005[^key-fcf003684a987718f1ab26be511fbf83]
+### 3. The Education (Disapplication of the National Curriculum at Key Stage 1) (Wales) Regulations 2005[^c-fcf003684a987718f1ab26be511fbf83]
 
 The Education (Disapplication of the National Curriculum at Key Stage 1) (Wales) Regulations 2005[^f00004] are revoked on 1 September 2022.
 
-### 4. The Education (National Curriculum for Wales) (Disapplication of Science at Key Stage 4) Regulations 2006[^key-f5e7dfbb341805682d963048ded4e114]
+### 4. The Education (National Curriculum for Wales) (Disapplication of Science at Key Stage 4) Regulations 2006[^c-f5e7dfbb341805682d963048ded4e114]
 
 The Education (National Curriculum for Wales) Disapplication of Science at Key Stage 4) Regulations 2006[^f00005] are revoked on 1 September 2022.
 
-### 5. The Education (National Curriculum) (Modern Foreign Languages) (Wales) Order 2008[^key-0806c83a0ef735e6437c99ce37cf35e5]
+### 5. The Education (National Curriculum) (Modern Foreign Languages) (Wales) Order 2008[^c-0806c83a0ef735e6437c99ce37cf35e5]
 
 (1) The Education (National Curriculum) (Modern Foreign Languages) (Wales) Order 2008[^f00006] (“**the 2008 Order**”) applies as follows.
 
@@ -105,7 +105,7 @@ The Education (National Curriculum for Wales) Disapplication of Science at Key S
 
 (4) The 2008 Order is revoked on 1 September 2024.
 
-### 6. The Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) Order 2008[^key-40e3f9bf7c90d6bd4f1aeaaad089f729]
+### 6. The Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) Order 2008[^c-40e3f9bf7c90d6bd4f1aeaaad089f729]
 
 (1) The Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) Order 2008[^f00007] (“**the 2008 Order**”) applies as follows.
 
@@ -124,11 +124,11 @@ The Education (National Curriculum for Wales) Disapplication of Science at Key S
 - (a) the 2008 Order; and
 - (b) the Education (National Curriculum) (Attainment Targets and Programmes of Study) (Wales) (Amendment) Order 2015[^f00008].
 
-### 7. The Education (Disapplication of the National Curriculum for Wales at Key Stage 1) (Wales) Regulations 2008[^key-7a6c76303468e2c7721b56ea62665541]
+### 7. The Education (Disapplication of the National Curriculum for Wales at Key Stage 1) (Wales) Regulations 2008[^c-7a6c76303468e2c7721b56ea62665541]
 
 The Education (Disapplication of the National Curriculum for Wales at Key Stage 1) (Wales) Regulations 2008[^f00009] are revoked on 1 September 2022.
 
-### 8. The Education (Local Curriculum for Pupils in Key Stage 4) (Wales) Regulations 2009[^key-b5f017b314c90d0463d56297f97651a1]
+### 8. The Education (Local Curriculum for Pupils in Key Stage 4) (Wales) Regulations 2009[^c-b5f017b314c90d0463d56297f97651a1]
 
 (1) The Education (Local Curriculum for Pupils in Key Stage 4) (Wales) Regulations 2009[^f00010] (“**the 2009 Regulations**”) apply as follows.
 
@@ -141,7 +141,7 @@ The Education (Disapplication of the National Curriculum for Wales at Key Stage 
 - (c) the Education (Local Curriculum for Pupils in Key Stage 4) (Wales) (Amendment) Regulations 2014[^f00012], and
 - (d) regulation 10 of the Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016[^f00013].
 
-### 9. The School Governors’ Annual Reports (Wales) Regulations 2011[^key-a72c61bf34b6a7e8774c3c6b4f38fc8f]
+### 9. The School Governors’ Annual Reports (Wales) Regulations 2011[^c-a72c61bf34b6a7e8774c3c6b4f38fc8f]
 
 (1) The School Governors’ Annual Report (Wales) Regulations 2011[^f00014] are amended as follows.
 
@@ -167,7 +167,7 @@ The Education (Disapplication of the National Curriculum for Wales at Key Stage 
 
     .
 
-### 10. The School Teachers’ Qualifications (Wales) Regulations 2012[^key-184e62bf5f84ce350f05172d4b673168]
+### 10. The School Teachers’ Qualifications (Wales) Regulations 2012[^c-184e62bf5f84ce350f05172d4b673168]
 
 (1) The School Teachers’ Qualifications (Wales) Regulations 2012[^f00016] are amended as follows.
 
@@ -200,7 +200,7 @@ The Education (Disapplication of the National Curriculum for Wales at Key Stage 
 
   .
 
-### 11. The National Curriculum (Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Order 2013[^key-2212f6d0d23588b0581cbe68edc36811]
+### 11. The National Curriculum (Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Order 2013[^c-2212f6d0d23588b0581cbe68edc36811]
 
 (1) The National Curriculum (Educational Programmes or the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Order 2013[^f00018] (“**the 2013 Order**”) applies as follows.
 
@@ -218,17 +218,17 @@ The Education (Disapplication of the National Curriculum for Wales at Key Stage 
 
 (5) The 2013 Order is revoked on 1 September 2024.
 
-### 12. National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages (Wales) Regulations 2013[^key-922392f12f1a10ba40890a31ee18c31f]
+### 12. National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages (Wales) Regulations 2013[^c-922392f12f1a10ba40890a31ee18c31f]
 
 (1) The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013[^f00019] are amended as follows.
 
 (2) Regulation 2 is revoked on 1 September 2022.
 
-### 13. The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^key-b0830e0384fab448b7963a9ec73e3963]
+### 13. The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^c-b0830e0384fab448b7963a9ec73e3963]
 
 The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^f00020] is revoked on 1 September 2022.
 
-### 14. The Education (School Development Plans) (Wales) Regulations 2014[^key-a81ee6942fff5449d2a54f7d06dc0bcd]
+### 14. The Education (School Development Plans) (Wales) Regulations 2014[^c-a81ee6942fff5449d2a54f7d06dc0bcd]
 
 (1) The Education (School Development Plans) (Wales) Regulations 2014[^f00021] are amended as follows.
 
@@ -246,7 +246,7 @@ The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014[^f0002
   - (iii) omit the definition of “school comparative information”; and
 - (b) omit regulation 8.
 
-### 15. The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018[^key-aaa39979760172f6cb3433e770a0ab34]
+### 15. The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018[^c-aaa39979760172f6cb3433e770a0ab34]
 
 (1) The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018[^f00022] are amended as follows.
 
@@ -296,41 +296,41 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4).
 
-[^key-3396cf252d745a485de0b00a92611687]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/679/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/2)
+[^c-3396cf252d745a485de0b00a92611687]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/679/regulation/1) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/2)
 
-[^key-03c8cfceda5dd650660a3bdfede7f455]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/2)
+[^c-03c8cfceda5dd650660a3bdfede7f455]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) in force at 1.9.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/2)
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-0208a89e5dca5cdebe53a0ab995d3267]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/21/2/a)
+[^c-0208a89e5dca5cdebe53a0ab995d3267]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/21/2/a)
 
-[^key-78cb91cd94eebd66e8f655d18179dad5]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/21/2/b)
+[^c-78cb91cd94eebd66e8f655d18179dad5]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2022/679/regulation/2) inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/21/2/b)
 
 [^f00003]: Footnote: Subsection (1) was amended by section 71(1), and paragraph 9 of Schedule 6 to, the Education Act 1997 and subsection (1) and (1A) were further amended by section 215(1) and paragraph 34 of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-fcf003684a987718f1ab26be511fbf83]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/679/regulation/3) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2022/679/regulation/3)
+[^c-fcf003684a987718f1ab26be511fbf83]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/679/regulation/3) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2022/679/regulation/3)
 
 [^f00004]: Footnote: [S.I. 2005/1511 (W. 115)](https://www.legislation.gov.uk/wsi/2005/1511).
 
-[^key-f5e7dfbb341805682d963048ded4e114]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/679/regulation/4) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2022/679/regulation/4)
+[^c-f5e7dfbb341805682d963048ded4e114]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/679/regulation/4) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2022/679/regulation/4)
 
 [^f00005]: Footnote: [S.I. 2006/1335 (W. 128)](https://www.legislation.gov.uk/wsi/2006/1335).
 
-[^key-0806c83a0ef735e6437c99ce37cf35e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/679/regulation/5) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2022/679/regulation/5)
+[^c-0806c83a0ef735e6437c99ce37cf35e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/679/regulation/5) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2022/679/regulation/5)
 
 [^f00006]: Footnote: [S.I. 2008/1408 (W. 145)](https://www.legislation.gov.uk/wsi/2008/1408).
 
-[^key-40e3f9bf7c90d6bd4f1aeaaad089f729]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/679/regulation/6) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2022/679/regulation/6)
+[^c-40e3f9bf7c90d6bd4f1aeaaad089f729]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/679/regulation/6) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2022/679/regulation/6)
 
 [^f00007]: Footnote: [S.I. 2008/1409 (W. 146)](https://www.legislation.gov.uk/wsi/2008/1409). There are amendments which are not relevant to these Regulations.
 
 [^f00008]: Footnote: [S.I. 2015/1601 (W. 200)](https://www.legislation.gov.uk/wsi/2015/1601).
 
-[^key-7a6c76303468e2c7721b56ea62665541]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/679/regulation/7) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2022/679/regulation/7)
+[^c-7a6c76303468e2c7721b56ea62665541]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/679/regulation/7) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2022/679/regulation/7)
 
 [^f00009]: Footnote: [S.I. 2008/1736 (W. 170)](https://www.legislation.gov.uk/wsi/2008/1736).
 
-[^key-b5f017b314c90d0463d56297f97651a1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/679/regulation/8) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2022/679/regulation/8)
+[^c-b5f017b314c90d0463d56297f97651a1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/679/regulation/8) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2022/679/regulation/8)
 
 [^f00010]: Footnote: [S.I. 2009/3256 (W. 284)](https://www.legislation.gov.uk/wsi/2009/3256) amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2010/2431 (W. 209)](https://www.legislation.gov.uk/wsi/2010/2431), [S.I. 2014/42 (W. 4)](https://www.legislation.gov.uk/wsi/2014/42) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 
@@ -340,34 +340,34 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 
-[^key-a72c61bf34b6a7e8774c3c6b4f38fc8f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/679/regulation/9) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2022/679/regulation/9)
+[^c-a72c61bf34b6a7e8774c3c6b4f38fc8f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/679/regulation/9) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2022/679/regulation/9)
 
 [^f00014]: Footnote: [S.I. 2011/1939 (W. 207)](https://www.legislation.gov.uk/wsi/2011/1939) amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437). There are other amendments which are not relevant to this instrument.
 
 [^f00015]: Footnote: ISBN number: 978-1-80391-326-1.
 
-[^key-184e62bf5f84ce350f05172d4b673168]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/679/regulation/10) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2022/679/regulation/10)
+[^c-184e62bf5f84ce350f05172d4b673168]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/679/regulation/10) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2022/679/regulation/10)
 
 [^f00016]: Footnote: [S.I. 2012/724 (W. 96)](https://www.legislation.gov.uk/wsi/2012/724). There are amendments to paragraph 1 of Schedule 2 which are not relevant to this instrument.
 
 [^f00017]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4).
 
-[^key-2212f6d0d23588b0581cbe68edc36811]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/679/regulation/11) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2022/679/regulation/11)
+[^c-2212f6d0d23588b0581cbe68edc36811]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/679/regulation/11) comes into force in accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2022/679/regulation/11)
 
 [^f00018]: Footnote: [S.I. 2013/434 (W. 52)](https://www.legislation.gov.uk/wsi/2013/434).
 
-[^key-922392f12f1a10ba40890a31ee18c31f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/679/regulation/12) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2022/679/regulation/12)
+[^c-922392f12f1a10ba40890a31ee18c31f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/679/regulation/12) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2022/679/regulation/12)
 
 [^f00019]: Footnote: [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437).
 
-[^key-b0830e0384fab448b7963a9ec73e3963]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13)
+[^c-b0830e0384fab448b7963a9ec73e3963]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13)
 
 [^f00020]: Footnote: [S.I. 2014/1996 (W. 198)](https://www.legislation.gov.uk/wsi/2014/1996) amended by [S.1. 2015/1596 (W. 195)](https://www.legislation.gov.uk/wsi/2015/1596) .
 
-[^key-a81ee6942fff5449d2a54f7d06dc0bcd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/679/regulation/1) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2022/679/regulation/14)
+[^c-a81ee6942fff5449d2a54f7d06dc0bcd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2022/679/regulation/1) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [14](https://www.legislation.gov.uk/wsi/2022/679/regulation/14)
 
 [^f00021]: Footnote: [S.I. 2014/2677 (W. 265)](https://www.legislation.gov.uk/wsi/2014/2677) amended by [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236) and [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766).
 
-[^key-aaa39979760172f6cb3433e770a0ab34]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/679/regulation/15) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [15](https://www.legislation.gov.uk/wsi/2022/679/regulation/15)
+[^c-aaa39979760172f6cb3433e770a0ab34]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2022/679/regulation/15) comes into force into accordance with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [15](https://www.legislation.gov.uk/wsi/2022/679/regulation/15)
 
 [^f00022]: Footnote: [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766). There is an amendment which is not relevant to this instrument.

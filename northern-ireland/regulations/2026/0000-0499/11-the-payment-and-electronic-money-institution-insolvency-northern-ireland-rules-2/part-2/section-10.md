@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Proof of service[^key-c43abc2c1506c4356bf0487da2e7e85f]
+## 10. Proof of service[^c-c43abc2c1506c4356bf0487da2e7e85f]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c43abc2c1506c4356bf0487da2e7e85f]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/2026/11/rule/10) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c43abc2c1506c4356bf0487da2e7e85f]: Commencement: [Rule 10](https://www.legislation.gov.uk/nisr/2026/11/rule/10) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

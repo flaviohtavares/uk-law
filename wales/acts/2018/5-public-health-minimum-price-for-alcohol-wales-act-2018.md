@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision about the minimum pr
 
 ## Minimum price for alcohol
 
-### 1. Minimum price for alcohol[^key-7230866965659aaaf389d69de871e86a][^key-4fd31731bd5b4c6cd7f2c6264bd67d59]
+### 1. Minimum price for alcohol[^c-7230866965659aaaf389d69de871e86a][^c-4fd31731bd5b4c6cd7f2c6264bd67d59]
 
 (1) The applicable minimum price for alcohol is to be calculated, for the purposes of section 2 of this Act, by applying the formula M × S × V, where—
 
@@ -59,7 +59,7 @@ An Act of the National Assembly for Wales to make provision about the minimum pr
 
 ## Offences
 
-### 2. Offences[^key-00c6b1e478ddde0d1a84dc7fc3122abc]
+### 2. Offences[^c-00c6b1e478ddde0d1a84dc7fc3122abc]
 
 (1) It is an offence for a person who is an alcohol retailer—
 
@@ -84,7 +84,7 @@ at a selling price below the applicable minimum price for the alcohol.
 
 ## Interpretation of core terms
 
-### 3. Meaning of “supply of alcohol” and “qualifying premises”[^key-e5707fea972bef9669284c71ad8a2b23]
+### 3. Meaning of “supply of alcohol” and “qualifying premises”[^c-e5707fea972bef9669284c71ad8a2b23]
 
 (1) In this Act, the supply of alcohol means—
 
@@ -99,7 +99,7 @@ and related expressions are to be construed accordingly.
 - (b) a club premises certificate granted under Part 4 of the 2003 Act certifies that the premises may be used for the supply of alcohol, or
 - (c) the supply of alcohol on or from the premises is a permitted temporary activity for the purposes of Part 5 of the 2003 Act.
 
-### 4. Meaning of “alcohol retailer”[^key-b0a208145ae510fffb2e7f85885a7cf8]
+### 4. Meaning of “alcohol retailer”[^c-b0a208145ae510fffb2e7f85885a7cf8]
 
 (1) In relation to the supply of alcohol from premises that are qualifying premises by virtue of section 3(2)(a), each of the following is to be treated as an alcohol retailer for the purposes of this Act—
 
@@ -112,7 +112,7 @@ and related expressions are to be construed accordingly.
 
 ## Special offers
 
-### 5. Special offers: multi-buys of alcohol[^key-86061c884a8cc73fb1b0d58a1c00ed0b]
+### 5. Special offers: multi-buys of alcohol[^c-86061c884a8cc73fb1b0d58a1c00ed0b]
 
 (1) Where alcohol is supplied in a multi-buy alcohol transaction, the applicable minimum price is to be calculated by reference to all of the alcohol included in the transaction.
 
@@ -141,7 +141,7 @@ and, in either case, both the fixed price alcohol and the alcohol by reference t
   - £0.50 × 4 × 1.76 = £3.52 (the minimum price of the lager), and
   - £0.50 × 6 × 1.76 = £5.28 (the minimum price of the cider).
 
-### 6. Special offers: supply of alcohol with goods and services[^key-5f1613c789c968eb545f08c2c7ec15fe]
+### 6. Special offers: supply of alcohol with goods and services[^c-5f1613c789c968eb545f08c2c7ec15fe]
 
 (1) Where alcohol is supplied together with goods other than alcohol, or with services, for a single price, subsection (2) applies.
 
@@ -161,7 +161,7 @@ and, in either case, both the fixed price alcohol and the alcohol by reference t
 - (a) in a special offer, the cans of lager and cider mentioned in the example given in section 5(6) are supplied for a special price if a pizza is purchased for £5.00;
 - (b) taking M (specified minimum unit price) to be £0.50, the selling price of the alcohol is to be treated for the purposes of this Act as being the aggregate of the price of the pizza and the special price, and that special price must not be lower than £3.80, being the applicable minimum price for the cans of lager and cider (which is £8.80) less the price for the pizza (which is £5.00).
 
-### 7. Special offers: supplementary[^key-ef6670bffc50343afbf1fe1ef251a7d5]
+### 7. Special offers: supplementary[^c-ef6670bffc50343afbf1fe1ef251a7d5]
 
 (1) Subsection (2) applies where some of the alcohol supplied in a multi-buy alcohol transaction, or for a single price or special price, is of a different strength from other alcohol supplied in the transaction or for that price.
 
@@ -174,11 +174,11 @@ and, in either case, both the fixed price alcohol and the alcohol by reference t
 
 ## Penalties
 
-### 8. Penalties[^key-7146a489c4bf49a071498bdd27c0cdec]
+### 8. Penalties[^c-7146a489c4bf49a071498bdd27c0cdec]
 
 A person guilty of an offence under section 2 is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 9. Fixed penalties[^key-7772b1c4177be6939980509b18d3bb3a]
+### 9. Fixed penalties[^c-7772b1c4177be6939980509b18d3bb3a]
 
 (1) Where an authorised officer of a local authority has reason to believe that a person has committed an offence under section 2 in the local authority's area, the officer may give that person a fixed penalty notice in respect of that offence.
 
@@ -194,7 +194,7 @@ A person guilty of an offence under section 2 is liable on summary conviction to
 
 ## Enforcement
 
-### 10. Enforcement action by local authorities[^key-7907fd9172dfbbdc6ce7596b60ceeed8]
+### 10. Enforcement action by local authorities[^c-7907fd9172dfbbdc6ce7596b60ceeed8]
 
 (1) A local authority may—
 
@@ -214,15 +214,15 @@ A person guilty of an offence under section 2 is liable on summary conviction to
 
 (4) For the purposes of subsection (2), a programme of enforcement action in relation to this Act is a programme involving the taking of all or any of the steps referred to in subsection (1).
 
-### 11. Authorised officers[^key-6081912b26869b5952745f92d6c154a4]
+### 11. Authorised officers[^c-6081912b26869b5952745f92d6c154a4]
 
 References in this Act to an authorised officer of a local authority are to any person authorised by the authority for the purposes of this Act.
 
-### 12. Power to make test purchases[^key-97a533b54f0ccce8956a22d9a5077b71]
+### 12. Power to make test purchases[^c-97a533b54f0ccce8956a22d9a5077b71]
 
 An authorised officer of a local authority may make such purchases and arrangements, and secure the provision of such services, as the officer considers necessary for the purpose of the exercise of the local authority's functions under or by virtue of this Act.
 
-### 13. Powers of entry[^key-df1ece5385a95f2d20f6227fee9697e7]
+### 13. Powers of entry[^c-df1ece5385a95f2d20f6227fee9697e7]
 
 (1) An authorised officer of a local authority may enter premises in Wales at any reasonable time if the officer—
 
@@ -235,7 +235,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (4) An authorised officer must, if asked to do so, before entering premises under this section show evidence of the authorisation referred to in section 11.
 
-### 14. Warrant to enter a dwelling[^key-934e7acac9544cfd003e91319eb2fefb]
+### 14. Warrant to enter a dwelling[^c-934e7acac9544cfd003e91319eb2fefb]
 
 (1) A justice of the peace may exercise the power in subsection (2) in relation to premises in Wales used wholly or mainly as a dwelling if satisfied on sworn information in writing—
 
@@ -246,7 +246,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (3) The warrant continues in force until the end of the period of 28 days beginning with the date it was issued.
 
-### 15. Warrant to enter other premises[^key-a6eeb3f3913e884ca9f6cc9d242f414e]
+### 15. Warrant to enter other premises[^c-a6eeb3f3913e884ca9f6cc9d242f414e]
 
 (1) A justice of the peace may exercise the power in subsection (2) in relation to premises in Wales other than premises used wholly or mainly as a dwelling if satisfied on sworn information in writing—
 
@@ -265,7 +265,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (5) The warrant continues in force until the end of the period of 28 days beginning with the date on which it was issued.
 
-### 16. Supplementary provision about powers of entry[^key-74682c62757f384c93a1b52ee1f74c9c]
+### 16. Supplementary provision about powers of entry[^c-74682c62757f384c93a1b52ee1f74c9c]
 
 (1) An authorised officer of a local authority entering premises under section 13, or by virtue of a warrant issued under section 14 or 15, may take such other persons and such equipment as the officer considers appropriate.
 
@@ -277,7 +277,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (3) If premises that an authorised officer is authorised to enter by a warrant under section 14 or 15 are unoccupied, or if the occupier is temporarily absent, then on leaving the premises the officer must leave them as effectively secured against unauthorised entry as when the officer found them.
 
-### 17. Powers of inspection, etc.[^key-6ca6bf8f46d3a49668c19f4342e799e4]
+### 17. Powers of inspection, etc.[^c-6ca6bf8f46d3a49668c19f4342e799e4]
 
 (1) An authorised officer of a local authority entering premises under section 13, or by virtue of a warrant issued under section 14 or 15, may do any of the following if the officer considers it necessary for the purpose of ascertaining whether an offence under section 2 has been committed—
 
@@ -305,7 +305,7 @@ An authorised officer of a local authority may make such purchases and arrangeme
 
 (6) A person is not required by this section to answer any question or produce any document which the person would be entitled to refuse to answer or produce in or for the purposes of proceedings in a court in England and Wales.
 
-### 18. Obstruction etc. of officers[^key-3de3ab130f0a9996addfbb82ffe98332]
+### 18. Obstruction etc. of officers[^c-3de3ab130f0a9996addfbb82ffe98332]
 
 (1) A person who intentionally obstructs an authorised officer of a local authority exercising functions under sections 13 to 17 commits an offence.
 
@@ -320,7 +320,7 @@ commits an offence.
 
 (4) This section is subject to section 17(6).
 
-### 19. Retained property: appeals[^key-f3b81c81003a0a3879a15b4dd8fb55e1]
+### 19. Retained property: appeals[^c-f3b81c81003a0a3879a15b4dd8fb55e1]
 
 (1) A person (“P”) with an interest in anything taken away under section 17(1)(c) (“retained property”) may apply by way of complaint to any magistrates' court for an order requiring the retained property to be released, either to P or to another person.
 
@@ -332,7 +332,7 @@ commits an offence.
 
 (5) Nothing in this section affects any other power of the court to make an order in respect of the retained property, including any power to make an order under section 1 of the Police (Property) Act 1897 (c. 30) (power to make order with respect to property in possession of police).
 
-### 20. Appropriated property: compensation[^key-479cbfdcd24256260dc5b577f1ab9251]
+### 20. Appropriated property: compensation[^c-479cbfdcd24256260dc5b577f1ab9251]
 
 (1) A person (“P”) with an interest in anything of which an authorised officer of a local authority has taken possession under section 17(1)(c) (“appropriated property”) may apply by way of complaint to any magistrates' court for compensation.
 
@@ -345,7 +345,7 @@ commits an offence.
 
 ## Report and sunset provision
 
-### 21. Report on operation and effect of this Act[^key-2db1afd466015334a9e76ea3146cf925]
+### 21. Report on operation and effect of this Act[^c-2db1afd466015334a9e76ea3146cf925]
 
 (1) The Welsh Ministers must, as soon as practicable after the end of the 5 year period, lay before the National Assembly for Wales a report on the operation and effect of this Act during that period.
 
@@ -355,11 +355,11 @@ commits an offence.
 
 (4) In subsection (1), “**the 5 year period**” has the meaning given in section 22(4).
 
-### 22. Duration of minimum pricing provisions[^key-58cbada891d4205e4b115b03a4240467]
+### 22. Duration of minimum pricing provisions[^c-58cbada891d4205e4b115b03a4240467]
 
 (1) The minimum pricing provisions are repealed with effect from the expiry of the 6 year period, unless regulations providing otherwise are made under subsection (2).
 
-(2)[^key-120781cf5b137b5ae384cb50b795f4c3] Regulations may, after the end of the 5 year period but before the end of the 6 year period, provide that the minimum pricing provisions are not repealed, despite subsection (1).
+(2)[^c-120781cf5b137b5ae384cb50b795f4c3] Regulations may, after the end of the 5 year period but before the end of the 6 year period, provide that the minimum pricing provisions are not repealed, despite subsection (1).
 
 (3) Regulations may make such provision (including provision modifying any enactment) as may be necessary or expedient in consequence of the repeal, by virtue of subsection (1), of the minimum pricing provisions.
 
@@ -374,13 +374,13 @@ commits an offence.
 
 ## Crown application
 
-### 23. Crown application[^key-0a1a8251fb1b98079538ba8388632827]
+### 23. Crown application[^c-0a1a8251fb1b98079538ba8388632827]
 
 Section 195 of the 2003 Act (Crown application) applies in relation to provision made by or under this Act as if that section were included in this Act (and for this purpose, references to the 2003 Act in that section are to be treated as references to this Act).
 
 ## General
 
-### 24. Offences committed by partnerships and other unincorporated associations[^key-cda5a876d70891e7a7cff1d280085a7b]
+### 24. Offences committed by partnerships and other unincorporated associations[^c-cda5a876d70891e7a7cff1d280085a7b]
 
 (1) Proceedings for an offence under this Act alleged to have been committed by a partnership are to be brought in the name of the partnership (and not in that of any of the partners).
 
@@ -394,7 +394,7 @@ Section 195 of the 2003 Act (Crown application) applies in relation to provision
 
 (6) A fine imposed on an unincorporated association other than a partnership on its conviction for an offence under this Act is to be paid out of the funds of the association.
 
-### 25. Liability of senior officers etc.[^key-7edc7bafa43624c55c4b27fb31699a09]
+### 25. Liability of senior officers etc.[^c-7edc7bafa43624c55c4b27fb31699a09]
 
 (1) This section applies where an offence under this Act is committed by—
 
@@ -510,12 +510,12 @@ The short title of this Act is the Public Health (Minimum Price for Alcohol) (Wa
 
 ### Contents of fixed penalty notice
 
-**1.**[^key-10c551d28e37277af32037f20fd08d2b] A fixed penalty notice must—
+**1.**[^c-10c551d28e37277af32037f20fd08d2b] A fixed penalty notice must—
 
 - (a) state the alleged offence, and
 - (b) give particulars of the circumstances alleged to constitute it.
 
-**2.**[^key-78f297ade66f8ada33fe3396dd563194] A fixed penalty notice must also state—
+**2.**[^c-78f297ade66f8ada33fe3396dd563194] A fixed penalty notice must also state—
 
 - (a) the name and address of the local authority on whose behalf the notice is given;
 - (b) the amount of the penalty and the period for its payment;
@@ -526,24 +526,24 @@ The short title of this Act is the Public Health (Minimum Price for Alcohol) (Wa
 - (g) the method by which payment may be made;
 - (h) the person to whom and the address at which any representations relating to the notice may be made.
 
-**3.**[^key-55a58edba13150a0ea491d1988ce409d] A fixed penalty notice must also—
+**3.**[^c-55a58edba13150a0ea491d1988ce409d] A fixed penalty notice must also—
 
 - (a) inform the person to whom it is given of that person's right to ask to be tried for the alleged offence, and
 - (b) explain how that right may be exercised.
 
-**4.**[^key-82132b9001995c68861c96a1d3a5031d] Regulations may make further provision as to the content and form of a fixed penalty notice.
+**4.**[^c-82132b9001995c68861c96a1d3a5031d] Regulations may make further provision as to the content and form of a fixed penalty notice.
 
 ### Amount of penalty and period for payment
 
-**5.**[^key-d3a766ee325afeaa759a3bb04cc54a4b] (1) The amount of the penalty is £200.
+**5.**[^c-d3a766ee325afeaa759a3bb04cc54a4b] (1) The amount of the penalty is £200.
 
 (2) Regulations may amend the amount of the penalty.
 
-**6.**[^key-17a21354fdb91537a455cfcfbff6bff5] The period for payment of the penalty is the period of 29 days beginning with the day on which the notice is given.
+**6.**[^c-17a21354fdb91537a455cfcfbff6bff5] The period for payment of the penalty is the period of 29 days beginning with the day on which the notice is given.
 
 ### Discounted amount and period for payment
 
-**7.**[^key-8477b493d1235186e6f078c216ff6eb7] (1) The discounted amount is payable, instead of the amount of the penalty, if payment is made before the end of the period for payment of the discounted amount.
+**7.**[^c-8477b493d1235186e6f078c216ff6eb7] (1) The discounted amount is payable, instead of the amount of the penalty, if payment is made before the end of the period for payment of the discounted amount.
 
 (2) That period is the period of 15 days beginning with the day on which the notice is given, unless the 15th day is not a working day.
 
@@ -551,39 +551,39 @@ The short title of this Act is the Public Health (Minimum Price for Alcohol) (Wa
 
 (4) In this paragraph, “**working day**” means any day which is not Saturday, Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971 (c. 80).
 
-**8.**[^key-243d8629914b414ba1ef40fd8a180446] The discounted amount is £150.
+**8.**[^c-243d8629914b414ba1ef40fd8a180446] The discounted amount is £150.
 
-**9.**[^key-7c76ac5f9a3334beeaec0272b2061b86] Regulations may amend the discounted amount.
+**9.**[^c-7c76ac5f9a3334beeaec0272b2061b86] Regulations may amend the discounted amount.
 
 ### Effect of notice and payment
 
-**10.**[^key-61c855c72efea8c865f1cc7a08589cf7] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the penalty.
+**10.**[^c-61c855c72efea8c865f1cc7a08589cf7] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the penalty.
 
 (2) Sub-paragraph (1) does not apply if the person to whom the notice was given has asked in accordance with paragraphs 15 and 16 to be tried for the alleged offence.
 
-**11.**[^key-358d47990818cdd526728a447c80a38a] If the penalty is paid in accordance with the penalty notice before the end of the period mentioned in paragraph 10(1), no proceedings for the offence may be brought, and paragraph 15 does not apply.
+**11.**[^c-358d47990818cdd526728a447c80a38a] If the penalty is paid in accordance with the penalty notice before the end of the period mentioned in paragraph 10(1), no proceedings for the offence may be brought, and paragraph 15 does not apply.
 
-**12.**[^key-826a7c5f4357f86f14eb0c58b6a147c5] If the discounted amount is paid in accordance with the penalty notice before the end of the period for payment of the discounted amount, no proceedings for the offence may be brought, and paragraph 15 does not apply.
+**12.**[^c-826a7c5f4357f86f14eb0c58b6a147c5] If the discounted amount is paid in accordance with the penalty notice before the end of the period for payment of the discounted amount, no proceedings for the offence may be brought, and paragraph 15 does not apply.
 
-**13.**[^key-46607be6d107f4c2b28e030e233f6941] If proceedings have been brought pursuant to a request under paragraph 15, but then the penalty or discounted amount is paid as mentioned in paragraph 11 or 12, those proceedings must not be continued.
+**13.**[^c-46607be6d107f4c2b28e030e233f6941] If proceedings have been brought pursuant to a request under paragraph 15, but then the penalty or discounted amount is paid as mentioned in paragraph 11 or 12, those proceedings must not be continued.
 
-**14.**[^key-ec5688cff4c571e988cfdf3ee5b5bfe0] In any proceedings, a certificate documenting payment of a penalty or discounted amount is evidence of the facts which it states if it—
+**14.**[^c-ec5688cff4c571e988cfdf3ee5b5bfe0] In any proceedings, a certificate documenting payment of a penalty or discounted amount is evidence of the facts which it states if it—
 
 - (a) purports to be signed by or on behalf of the person responsible for the financial affairs of the local authority on behalf of which the authorised officer who gave a penalty notice was acting, and
 - (b) states that payment of the fixed penalty or discounted amount in pursuance of the notice was or was not received by a date specified in the certificate.
 
 ### Trial
 
-**15.**[^key-a0d63dbe37ef4106d741ce3ea4980e9b] If the person to whom a penalty notice has been given asks to be tried for the alleged offence, proceedings may be brought against the person.
+**15.**[^c-a0d63dbe37ef4106d741ce3ea4980e9b] If the person to whom a penalty notice has been given asks to be tried for the alleged offence, proceedings may be brought against the person.
 
-**16.**[^key-f10993bbceabccd81250c687735bb751] Any request to be tried must be made—
+**16.**[^c-f10993bbceabccd81250c687735bb751] Any request to be tried must be made—
 
 - (a) by notice given to the local authority in question before the end of the period for payment of the penalty;
 - (b) in the manner specified in the fixed penalty notice.
 
 ### Withdrawal of notices
 
-**17.**[^key-ee9075580abbded3c35f49b44f375b77] (1) This paragraph applies if a local authority considers that a fixed penalty notice which an authorised officer acting on its behalf has given to a person (“P”) ought not to have been given.
+**17.**[^c-ee9075580abbded3c35f49b44f375b77] (1) This paragraph applies if a local authority considers that a fixed penalty notice which an authorised officer acting on its behalf has given to a person (“P”) ought not to have been given.
 
 (2) The local authority may give notice to P withdrawing the fixed penalty notice.
 
@@ -594,96 +594,96 @@ The short title of this Act is the Public Health (Minimum Price for Alcohol) (Wa
 
 ### Fixed penalty receipts
 
-**18.**[^key-519a3a652363dbf491dfd9b4ddc267a9] A local authority may use amounts received by it in pursuance of notices under section 9 only for the purpose of its functions relating to the enforcement of provisions of this Act and regulations made under it.
+**18.**[^c-519a3a652363dbf491dfd9b4ddc267a9] A local authority may use amounts received by it in pursuance of notices under section 9 only for the purpose of its functions relating to the enforcement of provisions of this Act and regulations made under it.
 
 ## Annotations
 
-[^key-7230866965659aaaf389d69de871e86a]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/5/section/1) in force at 14.10.2019 for specified purposes by [S.I. 2019/1336](https://www.legislation.gov.uk/wsi/2019/1336), [art. 2](https://www.legislation.gov.uk/wsi/2019/1336/article/2)
+[^c-7230866965659aaaf389d69de871e86a]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/5/section/1) in force at 14.10.2019 for specified purposes by [S.I. 2019/1336](https://www.legislation.gov.uk/wsi/2019/1336), [art. 2](https://www.legislation.gov.uk/wsi/2019/1336/article/2)
 
-[^key-4fd31731bd5b4c6cd7f2c6264bd67d59]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/5/section/1) in force at 2.3.2020 in so far as not already in force by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/a)
+[^c-4fd31731bd5b4c6cd7f2c6264bd67d59]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2018/5/section/1) in force at 2.3.2020 in so far as not already in force by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/a)
 
-[^key-00c6b1e478ddde0d1a84dc7fc3122abc]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2018/5/section/2) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-00c6b1e478ddde0d1a84dc7fc3122abc]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2018/5/section/2) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-e5707fea972bef9669284c71ad8a2b23]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2018/5/section/3) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-e5707fea972bef9669284c71ad8a2b23]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2018/5/section/3) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-b0a208145ae510fffb2e7f85885a7cf8]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2018/5/section/4) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-b0a208145ae510fffb2e7f85885a7cf8]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2018/5/section/4) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-86061c884a8cc73fb1b0d58a1c00ed0b]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2018/5/section/5) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-86061c884a8cc73fb1b0d58a1c00ed0b]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2018/5/section/5) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-5f1613c789c968eb545f08c2c7ec15fe]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/5/section/6) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-5f1613c789c968eb545f08c2c7ec15fe]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/5/section/6) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-ef6670bffc50343afbf1fe1ef251a7d5]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/5/section/7) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-ef6670bffc50343afbf1fe1ef251a7d5]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/5/section/7) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-7146a489c4bf49a071498bdd27c0cdec]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2018/5/section/8) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-7146a489c4bf49a071498bdd27c0cdec]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2018/5/section/8) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-7772b1c4177be6939980509b18d3bb3a]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2018/5/section/9) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-7772b1c4177be6939980509b18d3bb3a]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2018/5/section/9) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-7907fd9172dfbbdc6ce7596b60ceeed8]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2018/5/section/10) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-7907fd9172dfbbdc6ce7596b60ceeed8]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2018/5/section/10) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-6081912b26869b5952745f92d6c154a4]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2018/5/section/11) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-6081912b26869b5952745f92d6c154a4]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2018/5/section/11) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-97a533b54f0ccce8956a22d9a5077b71]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2018/5/section/12) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-97a533b54f0ccce8956a22d9a5077b71]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2018/5/section/12) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-df1ece5385a95f2d20f6227fee9697e7]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2018/5/section/13) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-df1ece5385a95f2d20f6227fee9697e7]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2018/5/section/13) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-934e7acac9544cfd003e91319eb2fefb]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2018/5/section/14) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-934e7acac9544cfd003e91319eb2fefb]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2018/5/section/14) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-a6eeb3f3913e884ca9f6cc9d242f414e]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2018/5/section/15) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-a6eeb3f3913e884ca9f6cc9d242f414e]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2018/5/section/15) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-74682c62757f384c93a1b52ee1f74c9c]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2018/5/section/16) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-74682c62757f384c93a1b52ee1f74c9c]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2018/5/section/16) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-6ca6bf8f46d3a49668c19f4342e799e4]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2018/5/section/17) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-6ca6bf8f46d3a49668c19f4342e799e4]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2018/5/section/17) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-3de3ab130f0a9996addfbb82ffe98332]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2018/5/section/18) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-3de3ab130f0a9996addfbb82ffe98332]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2018/5/section/18) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-f3b81c81003a0a3879a15b4dd8fb55e1]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2018/5/section/19) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-f3b81c81003a0a3879a15b4dd8fb55e1]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2018/5/section/19) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-479cbfdcd24256260dc5b577f1ab9251]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2018/5/section/20) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-479cbfdcd24256260dc5b577f1ab9251]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2018/5/section/20) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-2db1afd466015334a9e76ea3146cf925]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2018/5/section/21) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-2db1afd466015334a9e76ea3146cf925]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2018/5/section/21) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-58cbada891d4205e4b115b03a4240467]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2018/5/section/22) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-58cbada891d4205e4b115b03a4240467]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2018/5/section/22) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-120781cf5b137b5ae384cb50b795f4c3]: Subordinate legislation: S. 22(2): minimum pricing provisions continued despite s. 22(1) (9.2.2026) by [The Public Health (Minimum Price for Alcohol) (Wales) Act 2018 (Continuation) Regulations 2026 (W.S.I. 2026/30)](https://www.legislation.gov.uk/wsi/2026/30), [regs. 1](https://www.legislation.gov.uk/wsi/2026/30/regulation/1), [3](https://www.legislation.gov.uk/wsi/2026/30/regulation/3)
+[^c-120781cf5b137b5ae384cb50b795f4c3]: Subordinate legislation: S. 22(2): minimum pricing provisions continued despite s. 22(1) (9.2.2026) by [The Public Health (Minimum Price for Alcohol) (Wales) Act 2018 (Continuation) Regulations 2026 (W.S.I. 2026/30)](https://www.legislation.gov.uk/wsi/2026/30), [regs. 1](https://www.legislation.gov.uk/wsi/2026/30/regulation/1), [3](https://www.legislation.gov.uk/wsi/2026/30/regulation/3)
 
-[^key-0a1a8251fb1b98079538ba8388632827]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-0a1a8251fb1b98079538ba8388632827]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2018/5/section/23) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-cda5a876d70891e7a7cff1d280085a7b]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2018/5/section/24) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-cda5a876d70891e7a7cff1d280085a7b]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2018/5/section/24) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-7edc7bafa43624c55c4b27fb31699a09]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2018/5/section/25) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
+[^c-7edc7bafa43624c55c4b27fb31699a09]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2018/5/section/25) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/b)
 
-[^key-10c551d28e37277af32037f20fd08d2b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/1) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-10c551d28e37277af32037f20fd08d2b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/1) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-78f297ade66f8ada33fe3396dd563194]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/2) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-78f297ade66f8ada33fe3396dd563194]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/2) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-55a58edba13150a0ea491d1988ce409d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/3) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-55a58edba13150a0ea491d1988ce409d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/3) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-82132b9001995c68861c96a1d3a5031d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/4) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-82132b9001995c68861c96a1d3a5031d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/4) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-d3a766ee325afeaa759a3bb04cc54a4b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/5) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-d3a766ee325afeaa759a3bb04cc54a4b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/5) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-17a21354fdb91537a455cfcfbff6bff5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/6) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-17a21354fdb91537a455cfcfbff6bff5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/6) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-8477b493d1235186e6f078c216ff6eb7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/7) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-8477b493d1235186e6f078c216ff6eb7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/7) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-243d8629914b414ba1ef40fd8a180446]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/8) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-243d8629914b414ba1ef40fd8a180446]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/8) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-7c76ac5f9a3334beeaec0272b2061b86]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/9) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-7c76ac5f9a3334beeaec0272b2061b86]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/9) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-61c855c72efea8c865f1cc7a08589cf7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/10) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-61c855c72efea8c865f1cc7a08589cf7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/10) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-358d47990818cdd526728a447c80a38a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/11) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-358d47990818cdd526728a447c80a38a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/11) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-826a7c5f4357f86f14eb0c58b6a147c5]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/12) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-826a7c5f4357f86f14eb0c58b6a147c5]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/12) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-46607be6d107f4c2b28e030e233f6941]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/13) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-46607be6d107f4c2b28e030e233f6941]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/13) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-ec5688cff4c571e988cfdf3ee5b5bfe0]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/14) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-ec5688cff4c571e988cfdf3ee5b5bfe0]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/14) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-a0d63dbe37ef4106d741ce3ea4980e9b]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/15) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-a0d63dbe37ef4106d741ce3ea4980e9b]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/15) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-f10993bbceabccd81250c687735bb751]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/16) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-f10993bbceabccd81250c687735bb751]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/16) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-ee9075580abbded3c35f49b44f375b77]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/17) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-ee9075580abbded3c35f49b44f375b77]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/17) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
 
-[^key-519a3a652363dbf491dfd9b4ddc267a9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/18) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)
+[^c-519a3a652363dbf491dfd9b4ddc267a9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2018/5/schedule/1/paragraph/18) in force at 2.3.2020 by [S.I. 2020/175](https://www.legislation.gov.uk/wsi/2020/175), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2020/175/regulation/2/c)

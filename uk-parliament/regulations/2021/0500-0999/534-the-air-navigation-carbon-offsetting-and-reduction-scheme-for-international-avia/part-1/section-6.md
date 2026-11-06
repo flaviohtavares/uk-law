@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Units[^key-516784b7e5b26dba276fe4c0eb670124]
+## 6. Units[^c-516784b7e5b26dba276fe4c0eb670124]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ Non-SI units for use with SI units
 
 ## Annotations
 
-[^key-516784b7e5b26dba276fe4c0eb670124]: Commencement: Art. 6 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-516784b7e5b26dba276fe4c0eb670124]: Commencement: Art. 6 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00015]: Footnote: The International System of Units (SI), commonly known as the metric system, is the international standard for measurement.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Application to stop compulsory acquisition[^key-89e41d9238d1ae17ecaca7727f38d0ee][^key-3b43258f388c890f9842690c597c9494]
+## 139. Application to stop compulsory acquisition[^c-89e41d9238d1ae17ecaca7727f38d0ee][^c-3b43258f388c890f9842690c597c9494]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89e41d9238d1ae17ecaca7727f38d0ee]: Commencement: S. 139 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-89e41d9238d1ae17ecaca7727f38d0ee]: Commencement: S. 139 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3b43258f388c890f9842690c597c9494]: Commencement: [S. 139](https://www.legislation.gov.uk/asc/2023/3/section/139) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-3b43258f388c890f9842690c597c9494]: Commencement: [S. 139](https://www.legislation.gov.uk/asc/2023/3/section/139) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

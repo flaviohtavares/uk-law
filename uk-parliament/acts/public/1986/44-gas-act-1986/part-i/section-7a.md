@@ -27,7 +27,7 @@ summary: ''
 
 (2)[^c14412621][^c14412611] Subject to subsection (3) below, the Director may grant a licence authorising any person to arrange with any gas transporter[^c14412641] for gas to be introduced into, conveyed by means of or taken out of a pipe-line system operated by that transporter, either generally or for purposes connected with the supply of gas to any premises specified in the licence.
 
-(3) A licence shall not be granted under this section to a person who is the holder of a licence under section 7 or 7ZA[^key-4c9ba2fbec379eebf1e945db69fca957] above.
+(3) A licence shall not be granted under this section to a person who is the holder of a licence under section 7 or 7ZA[^c-4c9ba2fbec379eebf1e945db69fca957] above.
 
 (4) The Director may, with the consent of the licence holder, direct that any licence under this section shall have effect—
 
@@ -81,4 +81,4 @@ and in that subsection “**contract**” does not include any contract which, b
 
 [^c14412641]: Textual amendment: Words in S. 7A(2)(5) substituted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 108](https://www.legislation.gov.uk/ukpga/2000/27/section/108), [Sch. 6 Pt. I para. 2(1)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/6/part/I/paragraph/2/1); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-4c9ba2fbec379eebf1e945db69fca957]: Textual amendment: Words in s. 7A(3) inserted (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/7), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
+[^c-4c9ba2fbec379eebf1e945db69fca957]: Textual amendment: Words in s. 7A(3) inserted (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/7), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)

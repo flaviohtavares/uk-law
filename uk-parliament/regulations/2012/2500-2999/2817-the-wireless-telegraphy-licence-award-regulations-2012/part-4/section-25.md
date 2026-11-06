@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Primary bids[^key-6af32998ad4a4c87f6421630eb76fa54]
+## 25. Primary bids[^c-6af32998ad4a4c87f6421630eb76fa54]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6af32998ad4a4c87f6421630eb76fa54]: Commencement: Reg. 25 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-6af32998ad4a4c87f6421630eb76fa54]: Commencement: Reg. 25 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

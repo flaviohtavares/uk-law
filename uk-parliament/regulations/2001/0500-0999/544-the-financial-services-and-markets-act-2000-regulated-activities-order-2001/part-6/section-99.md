@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Application of section 137B of the Act to safeguarding of qualifying cryptoassets[^key-c7f11e8d4f68df3ceb0a15b1c63e806b]
+## 99. Application of section 137B of the Act to safeguarding of qualifying cryptoassets[^c-c7f11e8d4f68df3ceb0a15b1c63e806b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of the FCA making rules in relation to an activity specified by
 
 ## Annotations
 
-[^key-c7f11e8d4f68df3ceb0a15b1c63e806b]: Textual amendment: [Arts. 98](https://www.legislation.gov.uk/uksi/2001/544/article/98), [99](https://www.legislation.gov.uk/uksi/2001/544/article/99) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(12)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/12) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-c7f11e8d4f68df3ceb0a15b1c63e806b]: Textual amendment: [Arts. 98](https://www.legislation.gov.uk/uksi/2001/544/article/98), [99](https://www.legislation.gov.uk/uksi/2001/544/article/99) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(12)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/12) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

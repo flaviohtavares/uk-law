@@ -85,11 +85,11 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.**[^c000001] Sampling for the official control of feed, in particular as regards the determination of constituents, including material which contains or consists of or is produced from genetically modified organisms (GMOs), feed additives as defined by Regulation (EC) No 1831/2003 of the European Parliament and of the Council[^f00020], undesirable substances as defined by the CMU Regulations[^key-23bb2aababb652dbb4007b9b32c897db] shall be carried out in accordance with the methods set out in Annex I.
+**Article 1.**[^c000001] Sampling for the official control of feed, in particular as regards the determination of constituents, including material which contains or consists of or is produced from genetically modified organisms (GMOs), feed additives as defined by Regulation (EC) No 1831/2003 of the European Parliament and of the Council[^f00020], undesirable substances as defined by the CMU Regulations[^c-23bb2aababb652dbb4007b9b32c897db] shall be carried out in accordance with the methods set out in Annex I.
 
 The method of sampling set out in Annex I is applicable for the control of feed as regards the determination of pesticide residues as defined in Regulation (EC) No 396/2005 of the European Parliament and of the Council[^f00022] and control of compliance with Regulation (EU) No 619/2011.
 
-In this Regulation—[^key-bc30bc49a14d77f33502149bba9ecf47]
+In this Regulation—[^c-bc30bc49a14d77f33502149bba9ecf47]
 
 ‘CMU Regulations’ means—
 
@@ -115,7 +115,7 @@ References to the repealed Directives shall be construed as references to this R
 
 It shall apply from 26 August 2009.
 
-[^key-f2212225069628e16166b83791c567c0]...
+[^c-f2212225069628e16166b83791c567c0]...
 
 ## ANNEX I — METHODS OF SAMPLING
 
@@ -129,7 +129,7 @@ The purpose of representative sampling is to obtain a small fraction from a lot 
 
 If by a visual inspection, portions of the feed to be sampled show a difference in quality from the rest of the feed from the same lot, such portions shall be separated from the rest of the feed and treated as a separate sublot. If it is not possible to divide the feed into separate sublots, the feed shall be sampled as one lot. In such cases, mention shall be made of this fact in the sampling report.
 
-Where a feed sampled in accordance with the provisions of this Regulation is identified as not satisfying assimilated[^key-9183443332e1d82b141023290ebebe27][^key-64e79f36155321ffea6ed437a23db387] law, is part of a lot of feed of the same class or description, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-3a232f7fbd400c0869308e0ee0c70db7] law.
+Where a feed sampled in accordance with the provisions of this Regulation is identified as not satisfying assimilated[^c-9183443332e1d82b141023290ebebe27][^c-64e79f36155321ffea6ed437a23db387] law, is part of a lot of feed of the same class or description, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-3a232f7fbd400c0869308e0ee0c70db7] law.
 
 2\.
 
@@ -174,7 +174,7 @@ GENERAL PROVISIONS
 - Sampling personnel: the samples shall be taken by persons authorised for that purpose by the competent authority.
 - The sample has to be sealed in such a manner as to prevent any access to the sample without breaking or removing the seal. The seal’s mark should be clearly identifiable and clearly visible. Alternatively, the sample can be put in a recipient which can be closed in such a manner that it cannot be opened without irreversibly damaging the receptacle or container, avoiding the re-use of the receptacle or container.
 - Identification of the sample: the sample has to be indelibly marked and must be identified in such a way that there is an unambiguous link to the sampling report.
-- From each aggregate sample at least two final samples are taken: at least one for control (enforcement) and one for the feed business operator (defence). Eventually, one final sample may be taken for reference. In case the complete aggregate sample is homogenized, the final samples are taken from the homogenized aggregate sample, unless such procedure conflicts with the right of the feed business operator to challenge the method of sampling[^key-c637b3d82a1f20d566097cd5b6a4e47c].
+- From each aggregate sample at least two final samples are taken: at least one for control (enforcement) and one for the feed business operator (defence). Eventually, one final sample may be taken for reference. In case the complete aggregate sample is homogenized, the final samples are taken from the homogenized aggregate sample, unless such procedure conflicts with the right of the feed business operator to challenge the method of sampling[^c-c637b3d82a1f20d566097cd5b6a4e47c].
 
 4\.
 
@@ -381,7 +381,7 @@ Analysis of at least one final sample is required. The amount in the final sampl
 </tbody>
 </table>
 
-[^key-2fd7dae0d0fc83f2813d38a42d4a7a8a][^f00034][^f00035][^f00036][^f00034]
+[^c-2fd7dae0d0fc83f2813d38a42d4a7a8a][^f00034][^f00035][^f00036][^f00034]
 
 8\.
 
@@ -411,7 +411,7 @@ The sampling is to be done per hold (entity that can physically be separated). H
 
 The unloading of a ship can last for several days. Normally, sampling has to be performed at regular intervals during the whole duration of unloading. It is however not always feasible or appropriate for an official inspector to be present for sampling during the whole operation of unloading. Therefore sampling is allowed to be undertaken of part (sampled portion) of the whole lot. The number of incremental samples is determined by taking into account the size of the sampled portion.
 
-In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^key-d284eb9a3dec18bfad8564f4186575f1][^key-b9f3fda20f8a3cb5e9b43faaa87d70bd] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-e3b5ac52274cccd5aef8fa9b0cc15b49] law.
+In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^c-d284eb9a3dec18bfad8564f4186575f1][^c-b9f3fda20f8a3cb5e9b43faaa87d70bd] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-e3b5ac52274cccd5aef8fa9b0cc15b49] law.
 
 Even if the official sample is taken automatically, the presence of an inspector is necessary. However in case the automatic sampling is done with preset parameters which cannot be changed during the sampling and the incremental samples are collected in a sealed receptacle, preventing any possible fraud, then the presence of an inspector is only required at the beginning of the sampling, every time the receptacle of the samples needs to be changed and at the end of the sampling.
 
@@ -421,13 +421,13 @@ Even if the official sample is taken automatically, the presence of an inspector
 
 In case the sampling is done in a static way the same procedure as foreseen for storage facilities (silos) accessible from above has to be applied (see point 8.4.1).
 
-The sampling has to be performed on the accessible part (from above) of the lot/hold. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^key-536bc67d008777d827259569f04ea526][^key-984bccadfc65d7112fb27d3be31f9da1] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-8d8c69b6dae51f7ea0986286eb514b3c] law.
+The sampling has to be performed on the accessible part (from above) of the lot/hold. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^c-536bc67d008777d827259569f04ea526][^c-984bccadfc65d7112fb27d3be31f9da1] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-8d8c69b6dae51f7ea0986286eb514b3c] law.
 
 8.3.
 
 **Sampling of large lots stored in warehouses**
 
-The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^key-ad88dbf97d4e7f3847324f513700bf79][^key-c2f22d8796c48f6bec31ad7626e8e4fb] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-0d677b470aee5f432baef9c16e27d1fc] law.
+The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^c-ad88dbf97d4e7f3847324f513700bf79][^c-c2f22d8796c48f6bec31ad7626e8e4fb] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-0d677b470aee5f432baef9c16e27d1fc] law.
 
 8.4.
 
@@ -437,7 +437,7 @@ The sampling has to be performed on the accessible part of the lot. The number o
 
 *Sampling of silos (easily) accessible from above*
 
-The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^key-23e7402b3bca5502caa49048f2d41ea6][^key-a45f187d7207113ba2332287609083e7] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-3cacebb926dcf409305af4655976e25e] law.
+The sampling has to be performed on the accessible part of the lot. The number of incremental samples is determined by taking into account the size of the sampled portion. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^c-23e7402b3bca5502caa49048f2d41ea6][^c-a45f187d7207113ba2332287609083e7] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-3cacebb926dcf409305af4655976e25e] law.
 
 8.4.2.
 
@@ -453,7 +453,7 @@ Feed stored in such silos cannot be sampled in a static way. Therefore in case t
 
 Silos not accessible from above (closed silos) with size \< 100 tonnes
 
-Sampling procedure involves the release into a receptacle of a quantity of 50 to 100 kg and taking the sample from it. The size of the aggregate sample corresponds to the whole lot and the number of incremental samples relate to the quantity of the silo released in a receptacle for sampling. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^key-cf9529c4288d1c744ac7a7bd949255ea][^key-4c5aaf146949d2062856d9f4db1fba3b] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^key-2ab13bd27ec03e69c74e906508cf7862] law.
+Sampling procedure involves the release into a receptacle of a quantity of 50 to 100 kg and taking the sample from it. The size of the aggregate sample corresponds to the whole lot and the number of incremental samples relate to the quantity of the silo released in a receptacle for sampling. In the case of sampling a part of a lot of feed of the same class or description and that part of the lot has been identified as not satisfying assimilated[^c-cf9529c4288d1c744ac7a7bd949255ea][^c-4c5aaf146949d2062856d9f4db1fba3b] law, it shall be presumed that all of the feed in that lot is so affected, unless following a detailed assessment there is no evidence that the rest of the lot fails to satisfy assimilated[^c-2ab13bd27ec03e69c74e906508cf7862] law.
 
 8.5.
 
@@ -538,7 +538,7 @@ The material in the aggregate sample shall be carefully mixed[^f00037].
 - Each sample shall be put into an appropriate container/receptacle. All necessary precautions shall be taken to avoid any change of composition of the sample, contamination or adulteration which might arise during transportation or storage.
 - In case of the control of constituents or substances uniformly distributed throughout the feed, the aggregate sample can be representatively reduced to at least 2,0 kg or 2,0 litres (reduced sample)[^f00038] preferably either by using a mechanical or automatic divider. For the control of the presence of pesticide residues in pulses, cereal grains and tree nuts, the minimum size of the reduced sample shall be 3 kg. In case the nature of the feed does not allow using a divider or the divider is not available, then the sample can be reduced by the quartering method. From the reduced samples the final samples (for control, defence and reference) shall then be prepared of approximately the same amount and conforming to the quantitative requirements of chapter 7. In case of the control of constituents, including genetically modified material, or substances likely to be distributed non-uniformly in feed materials, the aggregate sample shall be:
   - completely homogenized and divided afterwards into final samples or
-  - reduced to at least 2 kg or 2 litres[^f00039] by using a mechanical or automatic divider. Only in the case that the nature of the feed does not allow for using a divider, the sample can, if necessary, be reduced by quartering method. For the control of the presence of genetically modified material in the frame of Regulation (EU) No 619/2011, the reduced sample must contain at least 35 000 seeds/grains to enable to obtain the final samples for enforcement, defence and reference of at least 10 000 seeds grain (see footnote (b) to the table in point 6 of this Annex and footnote (a) to the table in point 7 of this Annex[^key-54656b413366f04a4c1120898b62a93e]).
+  - reduced to at least 2 kg or 2 litres[^f00039] by using a mechanical or automatic divider. Only in the case that the nature of the feed does not allow for using a divider, the sample can, if necessary, be reduced by quartering method. For the control of the presence of genetically modified material in the frame of Regulation (EU) No 619/2011, the reduced sample must contain at least 35 000 seeds/grains to enable to obtain the final samples for enforcement, defence and reference of at least 10 000 seeds grain (see footnote (b) to the table in point 6 of this Annex and footnote (a) to the table in point 7 of this Annex[^c-54656b413366f04a4c1120898b62a93e]).
 
 9.5.
 
@@ -696,7 +696,7 @@ The analytical result shall be expressed in the manner laid down in the method o
 
 **Measurement uncertainty and recovery rate in case of analysis of undesirable substances**
 
-As regards undesirable substances within the meaning of the CMU Regulations[^key-23a8ff575af8146c7700c906fcffb495], a product intended for animal feed shall be considered as non-compliant with the established maximum content, if the analytical result, relative to a feed with a moisture content of 12 %, is deemed to exceed the maximum content taking into account expanded measurement uncertainty and correction for recovery. In order to assess compliance, the analysed concentration is used after being corrected for recovery and after deduction of the expanded measurement uncertainty. This procedure is only applicable in cases where the method of analysis enables the estimation of measurement uncertainty and correction for recovery (e.g. not possible in case of microscopic analysis).
+As regards undesirable substances within the meaning of the CMU Regulations[^c-23a8ff575af8146c7700c906fcffb495], a product intended for animal feed shall be considered as non-compliant with the established maximum content, if the analytical result, relative to a feed with a moisture content of 12 %, is deemed to exceed the maximum content taking into account expanded measurement uncertainty and correction for recovery. In order to assess compliance, the analysed concentration is used after being corrected for recovery and after deduction of the expanded measurement uncertainty. This procedure is only applicable in cases where the method of analysis enables the estimation of measurement uncertainty and correction for recovery (e.g. not possible in case of microscopic analysis).
 
 The analytical result shall be reported as follows (in so far the used method of analysis enables to estimate the measurement uncertainty and recovery rate):
 
@@ -3249,7 +3249,7 @@ POLARIMETRIC METHOD
 
 Purpose and scope
 
-This method makes it possible to determine the levels of starch and of high molecular weight starch degradation products in feed for the purpose of checking compliance with the declared energy value (provisions in Annex VII) and Regulation[^key-572fce556c0da307cef40f01a6fda474] [(EC) No 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767).
+This method makes it possible to determine the levels of starch and of high molecular weight starch degradation products in feed for the purpose of checking compliance with the declared energy value (provisions in Annex VII) and Regulation[^c-572fce556c0da307cef40f01a6fda474] [(EC) No 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767).
 
 2\.
 
@@ -6623,7 +6623,7 @@ DETERMINATION OF THE LEVELS OF DIOXINS (PCDD/PCDF) AND PCBs
 
 **Scope and definitions**
 
-The samples intended for the official control of the levels of polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), dioxin-like polychlorinated biphenyls (PCBs)[^f00066] and non dioxin-like PCBs in feed shall be taken in accordance with the provisions of Annex I. The quantitative requirements in relation to the control of substances or products uniformly distributed throughout the feed as provided for in point 5.1. of Annex I shall be applied. Aggregate samples thus obtained shall be considered representative for the lots or sublots from which they are taken. Compliance with maximum levels laid down by the CMU Regulations[^key-b556fe696ec49a58211a434eda383349] shall be established on the basis of the levels determined in the laboratory samples.
+The samples intended for the official control of the levels of polychlorinated dibenzo-p-dioxins (PCDDs), polychlorinated dibenzofurans (PCDFs), dioxin-like polychlorinated biphenyls (PCBs)[^f00066] and non dioxin-like PCBs in feed shall be taken in accordance with the provisions of Annex I. The quantitative requirements in relation to the control of substances or products uniformly distributed throughout the feed as provided for in point 5.1. of Annex I shall be applied. Aggregate samples thus obtained shall be considered representative for the lots or sublots from which they are taken. Compliance with maximum levels laid down by the CMU Regulations[^c-b556fe696ec49a58211a434eda383349] shall be established on the basis of the levels determined in the laboratory samples.
 
 For the purposes of this Part B, the definitions laid down in Annex I to Commission Decision 2002/657/EC[^f00067] shall apply.
 
@@ -6640,11 +6640,11 @@ In addition to those definitions, the following definitions shall apply for the 
 
 *As regards non-dioxin-like PCBs*
 
-The lot or sublot complies with the maximum level if the analytical result for the sum of PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 and PCB 180 (hereafter referred to as non-dioxin-like PCBs) does not exceed the maximum level laid down by the CMU Regulations[^key-6bb3fc2a55e2de8e7b4f00cff85b8b82], taking into account the expanded measurement uncertainty[^f00068]. The lot or sublot does not comply with the maximum level as laid down by the CMU Regulations, if the mean of two upper-bound[^f00069] analytical results obtained from duplicate analysis[^f00070], taking into account the expanded measurement uncertainty, exceeds the maximum level beyond reasonable doubt, i.e. the analysed concentration after deduction of the expanded measurement uncertainty is used to assess compliance.
+The lot or sublot complies with the maximum level if the analytical result for the sum of PCB 28, PCB 52, PCB 101, PCB 138, PCB 153 and PCB 180 (hereafter referred to as non-dioxin-like PCBs) does not exceed the maximum level laid down by the CMU Regulations[^c-6bb3fc2a55e2de8e7b4f00cff85b8b82], taking into account the expanded measurement uncertainty[^f00068]. The lot or sublot does not comply with the maximum level as laid down by the CMU Regulations, if the mean of two upper-bound[^f00069] analytical results obtained from duplicate analysis[^f00070], taking into account the expanded measurement uncertainty, exceeds the maximum level beyond reasonable doubt, i.e. the analysed concentration after deduction of the expanded measurement uncertainty is used to assess compliance.
 
 The expanded measurement uncertainty is calculated using a coverage factor of 2 which gives a level of confidence of approximately 95 %. A lot or sublot is non-compliant if the mean of the measured values minus the expanded uncertainty of the mean is above the maximum level.
 
-The rules, mentioned in the paragraphs above under this point, shall apply for the analytical result obtained on the sample for official control. In case of analysis for defence or reference purposes, enactments other than EU-derived domestic legislation apply[^key-cfc2c76f7a9fe1b30477c4d26aba7cfd].
+The rules, mentioned in the paragraphs above under this point, shall apply for the analytical result obtained on the sample for official control. In case of analysis for defence or reference purposes, enactments other than EU-derived domestic legislation apply[^c-cfc2c76f7a9fe1b30477c4d26aba7cfd].
 
 2.2.
 
@@ -6652,7 +6652,7 @@ The rules, mentioned in the paragraphs above under this point, shall apply for t
 
 The lot or sublot complies with the maximum level if the result of a single analysis
 
-- performed by a screening method with a false-compliant rate below 5 %, indicates that the level does not exceed the respective maximum level of PCDD/Fs and the sum of PCDD/Fs and dioxin-like PCBs laid down by the CMU Regulations[^key-263c0e4edd861b6c34fc492769eb7c3b],
+- performed by a screening method with a false-compliant rate below 5 %, indicates that the level does not exceed the respective maximum level of PCDD/Fs and the sum of PCDD/Fs and dioxin-like PCBs laid down by the CMU Regulations[^c-263c0e4edd861b6c34fc492769eb7c3b],
 - performed by a confirmatory method, does not exceed the respective maximum level of PCDD/Fs and the sum of PCDD/Fs and dioxin-like PCBs laid down by the CMU Regulations, taking into account the expanded measurement uncertainty.
 
 For screening assays a cut-off value shall be established for decisions on sample compliance with the respective maximum levels set for either PCDD/Fs, or for the sum of PCDD/Fs and dioxin-like PCBs.
@@ -6663,11 +6663,11 @@ The expanded measurement uncertainty is calculated using a coverage factor of 2 
 
 The sum of the estimated expanded uncertainties of the separate analytical results of PCDD/Fs and dioxin-like PCBs shall be used for the sum of PCDD/Fs and dioxin-like PCBs.
 
-The rules, mentioned in the paragraphs above under this point, shall apply for the analytical result obtained on the sample for official control. In case of analysis for defence or reference purposes, enactments other than EU-derived domestic legislation apply[^key-75ae6d471fca4975bb5fb15fd90a7a46].
+The rules, mentioned in the paragraphs above under this point, shall apply for the analytical result obtained on the sample for official control. In case of analysis for defence or reference purposes, enactments other than EU-derived domestic legislation apply[^c-75ae6d471fca4975bb5fb15fd90a7a46].
 
 3\.
 
-**Results exceeding action thresholds as laid down in the CMU Regulations[^key-718b1474fa10ab355d214eef3403ee32]**
+**Results exceeding action thresholds as laid down in the CMU Regulations[^c-718b1474fa10ab355d214eef3403ee32]**
 
 Action thresholds serve as a tool for the selection of samples in those cases where it is necessary to identify a source of contamination and to take measures for its reduction or elimination. Screening methods shall establish the appropriate cut-off values for selection of those samples. Where significant efforts are necessary to identify a source and to reduce or eliminate the contamination, it is appropriate to confirm exceedance of the action thresholds by duplicate analysis using a confirmatory method and taking into account the expanded measurement uncertainty[^f00073].
 
@@ -6757,7 +6757,7 @@ The specific sample preparation procedures used for the products under considera
 
 4.1.
 
-In accordance with the provisions of Regulation (EU) 2017/625[^key-8fb45b62367ef7232d17cccd9e4d51be], laboratories shall be accredited by a recognised body operating in accordance with ISO Guide 58 to ensure that they are applying analytical quality assurance. Laboratories shall be accredited following the EN ISO/IEC 17025 standard. The principles as described in the Technical Guidelines for the estimation of measurement uncertainty and limits of quantification for PCDD/F and PCB analysis shall be followed when applicable[^f00076]
+In accordance with the provisions of Regulation (EU) 2017/625[^c-8fb45b62367ef7232d17cccd9e4d51be], laboratories shall be accredited by a recognised body operating in accordance with ISO Guide 58 to ensure that they are applying analytical quality assurance. Laboratories shall be accredited following the EN ISO/IEC 17025 standard. The principles as described in the Technical Guidelines for the estimation of measurement uncertainty and limits of quantification for PCDD/F and PCB analysis shall be followed when applicable[^f00076]
 
 4.2.
 
@@ -7001,7 +7001,7 @@ Extracts may be split into fractions containing PCDD/Fs and dioxin-like PCBs, al
 
 Bioassay apparent recoveries
 
-The ‘bioassay apparent recovery’ shall be calculated from suitable reference samples with representative congener patterns around the maximum level or action threshold and expressed as percentage of the BEQ level in comparison to the TEQ level. Depending on the type of assay and TEFs[^f00078] used, the differences between TEF and REP factors for dioxin-like PCBs can cause low apparent recoveries for dioxin-like PCBs in comparison to PCDD/Fs. Therefore, if a separate determination of PCDD/Fs and dioxin-like PCBs is performed, bioassay apparent recoveries shall be: for dioxin-like PCBs 20 % to 60 %, for PCDD/Fs 50 % to 130 % (ranges apply for the TCDD calibration curve). As the contribution of dioxin-like PCBs to the sum of PCDD/Fs and dioxin-like PCBs can vary between different matrices and samples, bioassay apparent recoveries for the sum of PCDD/Fs and dioxin-like PCBs reflect these ranges and shall be between 30 % and 130 %. Any implication of substantially revised TEF values for assimilated[^key-2508efed832c518a4026cceae9ef9b79][^key-9ee0273e88e603d73c1ef84fb7616fa4] law for PCDD/Fs and dioxin-like PCBs requires the revision of these ranges.
+The ‘bioassay apparent recovery’ shall be calculated from suitable reference samples with representative congener patterns around the maximum level or action threshold and expressed as percentage of the BEQ level in comparison to the TEQ level. Depending on the type of assay and TEFs[^f00078] used, the differences between TEF and REP factors for dioxin-like PCBs can cause low apparent recoveries for dioxin-like PCBs in comparison to PCDD/Fs. Therefore, if a separate determination of PCDD/Fs and dioxin-like PCBs is performed, bioassay apparent recoveries shall be: for dioxin-like PCBs 20 % to 60 %, for PCDD/Fs 50 % to 130 % (ranges apply for the TCDD calibration curve). As the contribution of dioxin-like PCBs to the sum of PCDD/Fs and dioxin-like PCBs can vary between different matrices and samples, bioassay apparent recoveries for the sum of PCDD/Fs and dioxin-like PCBs reflect these ranges and shall be between 30 % and 130 %. Any implication of substantially revised TEF values for assimilated[^c-2508efed832c518a4026cceae9ef9b79][^c-9ee0273e88e603d73c1ef84fb7616fa4] law for PCDD/Fs and dioxin-like PCBs requires the revision of these ranges.
 
 7.1.5.
 
@@ -7180,7 +7180,7 @@ As the expanded measurement uncertainty is to be taken into account when decidin
 
 8.1.5.
 
-The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^key-d1d4c87935e185fae46b16f47a7d79be]
+The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^c-d1d4c87935e185fae46b16f47a7d79be]
 
 8.2.
 
@@ -7232,7 +7232,7 @@ For each type of sample matrix, the report shall mention the maximum level or ac
 
 8.3.3.
 
-In addition, levels for individual PCDD/F and/or dioxin-like PCB congeners and TEQ-values reported as lower-bound, upper-bound and medium-bound may be given. The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^key-7837968691582508ccfe8cca1b9a1b4a].
+In addition, levels for individual PCDD/F and/or dioxin-like PCB congeners and TEQ-values reported as lower-bound, upper-bound and medium-bound may be given. The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^c-7837968691582508ccfe8cca1b9a1b4a].
 
 8.3.4.
 
@@ -7358,7 +7358,7 @@ The recoveries of unlabelled congeners shall be checked by spiked samples or qua
 
 **Requirements for laboratories**
 
-In accordance with the provisions of Regulation (EU) 2017/625[^key-88fbe3b7f0659b91279b7d6b93b9db20], laboratories shall be accredited by a recognised body operating in accordance with ISO Guide 58 to ensure that they are applying analytical quality assurance. Laboratories shall be accredited following the EN ISO/IEC 17025 standard. In addition, the principles as described in Technical Guidelines for the estimation of measurement uncertainty and limits of quantification for PCB analysis shall be followed when applicable[^f00082].
+In accordance with the provisions of Regulation (EU) 2017/625[^c-88fbe3b7f0659b91279b7d6b93b9db20], laboratories shall be accredited by a recognised body operating in accordance with ISO Guide 58 to ensure that they are applying analytical quality assurance. Laboratories shall be accredited following the EN ISO/IEC 17025 standard. In addition, the principles as described in Technical Guidelines for the estimation of measurement uncertainty and limits of quantification for PCB analysis shall be followed when applicable[^f00082].
 
 9\.
 
@@ -7400,7 +7400,7 @@ As the expanded measurement uncertainty is to be taken into account when decidin
 
 10.5.
 
-The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^key-5558080c4c79cba641fc8ee13086e16c].
+The results shall be expressed in the same units and with at least the same number of significant figures as the maximum levels laid down by the CMU Regulations[^c-5558080c4c79cba641fc8ee13086e16c].
 
 ## ANNEX VI — METHODS OF ANALYSIS FOR THE DETERMINATION OF CONSTITUENTS OF ANIMAL ORIGIN FOR THE OFFICIAL CONTROL OF FEED[^c000003]
 
@@ -7918,7 +7918,7 @@ After application of the above formula, the result obtained must be given to one
 
 Sampling and analysis methods
 
-Sampling of the compound feed and determination of the content of analytical components indicated in the method of calculation must be performed in accordance with the [^key-5f3ce06115eb219539eea7f86166a06b]... sampling methods and analysis methods for the official control of feed respectively.
+Sampling of the compound feed and determination of the content of analytical components indicated in the method of calculation must be performed in accordance with the [^c-5f3ce06115eb219539eea7f86166a06b]... sampling methods and analysis methods for the official control of feed respectively.
 
 The following are to be applied:
 
@@ -9501,21 +9501,21 @@ Directive 2003/126/EC
 
 [^f00020]: Footnote: [OJ L 268, 18.10.2003, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0029.01.ENG)[^c000001] .
 
-[^key-23bb2aababb652dbb4007b9b32c897db]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/152/article/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/2/a)
+[^c-23bb2aababb652dbb4007b9b32c897db]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/152/article/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/2/a)
 
 [^f00022]: Footnote: [OJ L 70, 16.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.070.01.0001.01.ENG) .
 
-[^key-bc30bc49a14d77f33502149bba9ecf47]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/152/article/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/2/b)
+[^c-bc30bc49a14d77f33502149bba9ecf47]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2009/152/article/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/2/b)
 
-[^key-f2212225069628e16166b83791c567c0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/152/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [87](https://www.legislation.gov.uk/uksi/2019/654/regulation/87); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2212225069628e16166b83791c567c0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/152/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [87](https://www.legislation.gov.uk/uksi/2019/654/regulation/87); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9183443332e1d82b141023290ebebe27]: Textual amendment: Word in Annex 1 point 1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/i)
+[^c-9183443332e1d82b141023290ebebe27]: Textual amendment: Word in Annex 1 point 1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/i)
 
-[^key-64e79f36155321ffea6ed437a23db387]: Textual amendment: Words in Annex 1 point 1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(a)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64e79f36155321ffea6ed437a23db387]: Textual amendment: Words in Annex 1 point 1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(a)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a232f7fbd400c0869308e0ee0c70db7]: Textual amendment: Words in Annex 1 point 1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(a)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a232f7fbd400c0869308e0ee0c70db7]: Textual amendment: Words in Annex 1 point 1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(a)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c637b3d82a1f20d566097cd5b6a4e47c]: Textual amendment: Words in Annex 1 point 3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c637b3d82a1f20d566097cd5b6a4e47c]: Textual amendment: Words in Annex 1 point 3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00023]: Footnote: Where the number obtained is a fraction, it shall be rounded up to the next whole number.
 
@@ -9539,43 +9539,43 @@ Directive 2003/126/EC
 
 [^f00033]: Footnote: In case it concerns roughage or forage with a low specific gravity (e.g. hay, straw), the aggregate sample should have a minimum size of 1 kg.
 
-[^key-2fd7dae0d0fc83f2813d38a42d4a7a8a]: Textual amendment: Words in Annex 1 point 7 table footnote omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/3/a)
+[^c-2fd7dae0d0fc83f2813d38a42d4a7a8a]: Textual amendment: Words in Annex 1 point 7 table footnote omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/3/a)
 
 [^f00034]: Footnote: In accordance with the provisions of Regulation (EU) No 619/2011, the final sample for the control of the presence of genetically modified material must contain at least 10 000 seeds/grains. This means that for maize the size of the final sample must be at least 3 000 g and for soybean 2 000 g. For other seeds and grains such as barley, millet, oat, rice, rye, wheat and rapeseed, the final sample size of 500 g corresponds to more for 10 000.
 
 [^f00035]: Footnote: In case the size of the aggregate sample is significantly less than 4 kg or litre (see footnotes point (6), also a smaller quantity of final sample can be taken on the condition this is described and documented in the sampling report.
 
-[^f00036]: Footnote: In case of sampling pulses, cereal grains and tree nuts for the determination of pesticide residues, the minimum size of the final sample shall be 1 kg [^key-2fd7dae0d0fc83f2813d38a42d4a7a8a]....
+[^f00036]: Footnote: In case of sampling pulses, cereal grains and tree nuts for the determination of pesticide residues, the minimum size of the final sample shall be 1 kg [^c-2fd7dae0d0fc83f2813d38a42d4a7a8a]....
 
-[^key-d284eb9a3dec18bfad8564f4186575f1]: Textual amendment: Word in Annex 1 point 8.2.1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/ii)
+[^c-d284eb9a3dec18bfad8564f4186575f1]: Textual amendment: Word in Annex 1 point 8.2.1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/ii)
 
-[^key-b9f3fda20f8a3cb5e9b43faaa87d70bd]: Textual amendment: Words in Annex 1 point 8.2.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(c)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9f3fda20f8a3cb5e9b43faaa87d70bd]: Textual amendment: Words in Annex 1 point 8.2.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(c)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3b5ac52274cccd5aef8fa9b0cc15b49]: Textual amendment: Words in Annex 1 point 8.2.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(c)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3b5ac52274cccd5aef8fa9b0cc15b49]: Textual amendment: Words in Annex 1 point 8.2.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(c)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-536bc67d008777d827259569f04ea526]: Textual amendment: Words in Annex 1 point 8.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(d)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-536bc67d008777d827259569f04ea526]: Textual amendment: Words in Annex 1 point 8.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(d)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-984bccadfc65d7112fb27d3be31f9da1]: Textual amendment: Word in Annex 1 point 8.2.2 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/iii)
+[^c-984bccadfc65d7112fb27d3be31f9da1]: Textual amendment: Word in Annex 1 point 8.2.2 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/iii)
 
-[^key-8d8c69b6dae51f7ea0986286eb514b3c]: Textual amendment: Words in Annex 1 point 8.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(d)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d8c69b6dae51f7ea0986286eb514b3c]: Textual amendment: Words in Annex 1 point 8.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(d)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad88dbf97d4e7f3847324f513700bf79]: Textual amendment: Word in Annex 1 point 8.3 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/iv)
+[^c-ad88dbf97d4e7f3847324f513700bf79]: Textual amendment: Word in Annex 1 point 8.3 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/iv)
 
-[^key-c2f22d8796c48f6bec31ad7626e8e4fb]: Textual amendment: Words in Annex 1 point 8.3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(e)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2f22d8796c48f6bec31ad7626e8e4fb]: Textual amendment: Words in Annex 1 point 8.3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(e)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d677b470aee5f432baef9c16e27d1fc]: Textual amendment: Words in Annex 1 point 8.3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(e)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d677b470aee5f432baef9c16e27d1fc]: Textual amendment: Words in Annex 1 point 8.3 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(e)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23e7402b3bca5502caa49048f2d41ea6]: Textual amendment: Words in Annex 1 point 8.4.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(f)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23e7402b3bca5502caa49048f2d41ea6]: Textual amendment: Words in Annex 1 point 8.4.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(f)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a45f187d7207113ba2332287609083e7]: Textual amendment: Word in Annex 1 point 8.4.1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/v)
+[^c-a45f187d7207113ba2332287609083e7]: Textual amendment: Word in Annex 1 point 8.4.1 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/v)
 
-[^key-3cacebb926dcf409305af4655976e25e]: Textual amendment: Words in Annex 1 point 8.4.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(f)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cacebb926dcf409305af4655976e25e]: Textual amendment: Words in Annex 1 point 8.4.1 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(f)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf9529c4288d1c744ac7a7bd949255ea]: Textual amendment: Word in Annex 1 point 8.4.2.2 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/vi)
+[^c-cf9529c4288d1c744ac7a7bd949255ea]: Textual amendment: Word in Annex 1 point 8.4.2.2 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(a)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/a/vi)
 
-[^key-4c5aaf146949d2062856d9f4db1fba3b]: Textual amendment: Words in Annex 1 point 8.4.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(g)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c5aaf146949d2062856d9f4db1fba3b]: Textual amendment: Words in Annex 1 point 8.4.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(g)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/g/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ab13bd27ec03e69c74e906508cf7862]: Textual amendment: Words in Annex 1 point 8.4.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(g)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ab13bd27ec03e69c74e906508cf7862]: Textual amendment: Words in Annex 1 point 8.4.2.2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [88(g)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/88/g/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00037]: Footnote: Any lumps shall be broken up (if necessary by separating them out and returning them to the sample).
 
@@ -9583,17 +9583,17 @@ Directive 2003/126/EC
 
 [^f00039]: Footnote: Except in the case of roughage or forage with low specific gravity.
 
-[^key-54656b413366f04a4c1120898b62a93e]: Textual amendment: Words in Annex 1 point 9.4 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/3/b)
+[^c-54656b413366f04a4c1120898b62a93e]: Textual amendment: Words in Annex 1 point 9.4 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/3/b)
 
 [^f00040]: Footnote: [OJ L 229, 1.9.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.229.01.0001.01.ENG) .
 
-[^key-23a8ff575af8146c7700c906fcffb495]: Textual amendment: Words in [Annex 2 Pt. C point 6](https://www.legislation.gov.uk/eur/2009/152/annex/II/part/C) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/4)
+[^c-23a8ff575af8146c7700c906fcffb495]: Textual amendment: Words in [Annex 2 Pt. C point 6](https://www.legislation.gov.uk/eur/2009/152/annex/II/part/C) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/4)
 
 [^f00041]: Footnote: For the drying of cereals, flour, groats and meal, the oven must have a thermal capacity such that, when pre-set at 131 <sup>o</sup>C, it will return to that temperature in less than 45 minutes after the maximum number of test samples have been placed inside to dry simultaneously. Ventilation must be such that, when as many samples of common wheat as it can contain are dried for two hours, the results differ from those obtained after four hours of drying by less than 0,15 %.
 
 [^f00052]: Footnote: Where the oil or fat has to undergo subsequent quality tests, replace the fragments of pumice stone by glass beads.
 
-[^key-572fce556c0da307cef40f01a6fda474]: Textual amendment: Words in [Annex 3 Pt. L point 1](https://www.legislation.gov.uk/eur/2009/152/annex/III/part/L) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/5)
+[^c-572fce556c0da307cef40f01a6fda474]: Textual amendment: Words in [Annex 3 Pt. L point 1](https://www.legislation.gov.uk/eur/2009/152/annex/III/part/L) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/5)
 
 [^f00055]: Footnote: Conducted by the Feed Working Group of Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA).
 
@@ -9641,11 +9641,11 @@ Directive 2003/126/EC
 
     Abbreviations used: ‘ T ’ = tetra; ‘ Pe ’ = penta; ‘ Hx ’ = hexa; ‘ Hp ’ = hepta; ‘ O ’ = octa; ‘ CDD ’ = chlorodibenzodioxin; ‘ CDF ’ = chlorodibenzofuran; ‘ CB ’ = chlorobiphenyl.
 
-[^key-b556fe696ec49a58211a434eda383349]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/i)
+[^c-b556fe696ec49a58211a434eda383349]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/i)
 
 [^f00067]: Footnote: Commission Decision 2002/657/EC of 14 August 2002 implementing Council Directive 96/23/EC concerning the performance of analytical methods and interpretation of results ( [OJ L 221, 17.8.2002, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.221.01.0008.01.ENG) ).
 
-[^key-6bb3fc2a55e2de8e7b4f00cff85b8b82]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/ii)
+[^c-6bb3fc2a55e2de8e7b4f00cff85b8b82]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/ii)
 
 [^f00068]: Footnote: The principles described in the ‘ Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry ’ (http://ec.europa.eu/food/safety/animal-feed\_en) shall be followed when applicable.
 
@@ -9653,17 +9653,17 @@ Directive 2003/126/EC
 
 [^f00070]: Footnote: Duplicate analysis: Separate analysis of the analytes of interest using a second aliquot of the same homogenized sample. In general, the requirements for duplicate analysis as provided for in Annex II, Chapter C, point 3 apply. However, for methods with the use of <sup> 13 </sup> C-labelled internal standard for the relevant analytes, the duplicate analysis is only necessary if the result of the first determination is not compliant. The duplicate analysis is necessary to exclude the possibility of internal cross-contamination or an accidental mix-up of samples. In case the analysis is performed in the course of a contamination incident, confirmation by duplicate analysis may be omitted in case the samples selected for analysis are through traceability linked to the contamination incident and the level found is significantly above the maximum level.
 
-[^key-cfc2c76f7a9fe1b30477c4d26aba7cfd]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(a)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfc2c76f7a9fe1b30477c4d26aba7cfd]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.1](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(a)(i)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-263c0e4edd861b6c34fc492769eb7c3b]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.2](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/iii)
+[^c-263c0e4edd861b6c34fc492769eb7c3b]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.2](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/iii)
 
 [^f00071]: Footnote: The concept of ‘ upper-bound ’ requires using the limit of quantification for the contribution of each non-quantified congener to the Toxic Equivalent (TEQ). The concept of ‘ lower-bound ’ requires using zero for the contribution of each non-quantified congener to the TEQ. The concept of ‘ medium-bound ’ requires using half of the limit of quantification calculating the contribution of each non-quantified congener to the TEQ.
 
 [^f00072]: Footnote: In general, the requirements for duplicate analysis as provided for in Annex II, Chapter C, point 2 apply. However, for confirmatory methods with the use of <sup> 13 </sup> C-labelled internal standard for the relevant analytes, the duplicate analysis is only necessary if the result of the first determination is not compliant. The duplicate analysis is necessary to exclude the possibility of internal cross-contamination or an accidental mix-up of samples. In case the analysis is performed in the course of a contamination incident, confirmation by duplicate analysis may be omitted in case the samples selected for analysis are through traceability linked to the contamination incident and the level found is significantly above the maximum level.
 
-[^key-75ae6d471fca4975bb5fb15fd90a7a46]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.2](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(a)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75ae6d471fca4975bb5fb15fd90a7a46]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 2.2](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(a)(ii)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-718b1474fa10ab355d214eef3403ee32]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 3 heading](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/iv)
+[^c-718b1474fa10ab355d214eef3403ee32]: Textual amendment: Words in [Annex 5 Pt. B Ch. 1 point 3 heading](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/a/iv)
 
 [^f00073]: Footnote: Identical explanation and requirements for duplicate analysis for control of action thresholds as in footnote 2 above for maximum levels.
 
@@ -9671,7 +9671,7 @@ Directive 2003/126/EC
 
 [^f00075]: Footnote: Bioanalytical methods are not specific to those congeners included in the TEF-scheme. Other structurally related AhR-active compounds may be present in the sample extract which contribute to the overall response. Therefore, bioanalytical results cannot be an estimate but rather an indication of the TEQ level in the sample.
 
-[^key-8fb45b62367ef7232d17cccd9e4d51be]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 4.1 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/i)
+[^c-8fb45b62367ef7232d17cccd9e4d51be]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 4.1 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/i)
 
 [^f00076]: Footnote: ‘ Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry ’ (http://ec.europa.eu/food/safety/animal-feed\_en), ‘ Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food ’ (http://ec.europa.eu/food/safety/animal-feed\_en).
 
@@ -9679,13 +9679,13 @@ Directive 2003/126/EC
 
 [^f00078]: Footnote: Current requirements are based on the TEFs published in: M. Van den Berg et al, Toxicol Sci 93 (2), 223–241 (2006).
 
-[^key-2508efed832c518a4026cceae9ef9b79]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 7.1.4 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2508efed832c518a4026cceae9ef9b79]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 7.1.4 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [89(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/89/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ee0273e88e603d73c1ef84fb7616fa4]: Textual amendment: Word in Annex 5 Pt. B Ch. 2 point 7.1.4 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/b)
+[^c-9ee0273e88e603d73c1ef84fb7616fa4]: Textual amendment: Word in Annex 5 Pt. B Ch. 2 point 7.1.4 substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 16(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/16/b)
 
-[^key-d1d4c87935e185fae46b16f47a7d79be]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 8.1.5 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/ii)
+[^c-d1d4c87935e185fae46b16f47a7d79be]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 8.1.5 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/ii)
 
-[^key-7837968691582508ccfe8cca1b9a1b4a]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 8.3.3 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/iii)
+[^c-7837968691582508ccfe8cca1b9a1b4a]: Textual amendment: Words in Annex 5 Pt. B Ch. 2 point 8.3.3 substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/b/iii)
 
 [^f00079]: Footnote: Congeners often found to co-elute are for example PCB 28/31, PCB 52/69 and PCB 138/163/164. For GC-MS also possible interferences from fragments of higher chlorinated congeners shall be considered.
 
@@ -9693,13 +9693,13 @@ Directive 2003/126/EC
 
 [^f00081]: Footnote: It is highly recommendable to have a lower contribution of the reagent blank level to the level of a contaminant in a sample. It is in the responsibility of the laboratory to control the variation of blank levels, in particular, if the blank levels are subtracted.
 
-[^key-88fbe3b7f0659b91279b7d6b93b9db20]: Textual amendment: Words in [Annex 5 Pt. B Ch. 3 point 8](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/c/i)
+[^c-88fbe3b7f0659b91279b7d6b93b9db20]: Textual amendment: Words in [Annex 5 Pt. B Ch. 3 point 8](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/c/i)
 
 [^f00082]: Footnote: Current requirements are based on the TEFs published in: M. Van den Berg et al, Toxicol Sci 93(2), 223–241 (2006).
 
 [^f00083]: Footnote: Use of all six <sup> 13 </sup>C-labelled analogues as internal standards required.
 
-[^key-5558080c4c79cba641fc8ee13086e16c]: Textual amendment: Words in [Annex 5 Pt. B Ch. 3 point 10.5](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/c/ii)
+[^c-5558080c4c79cba641fc8ee13086e16c]: Textual amendment: Words in [Annex 5 Pt. B Ch. 3 point 10.5](https://www.legislation.gov.uk/eur/2009/152/annex/V/part/B/chapter/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [16(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/16/6/c/ii)
 
 [^c000003]: Textual amendment: Substituted by [Commission Regulation (EU) No 51/2013 of 16 January 2013 amending Regulation (EC) No 152/2009 as regards the methods of analysis for the determination of constituents of animal origin for the official control of feed (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/51).
 
@@ -9715,4 +9715,4 @@ Directive 2003/126/EC
 
 [^f00089]: Footnote: Examples of Master Mixes that are functional are available on the EURL-AP website.
 
-[^key-5f3ce06115eb219539eea7f86166a06b]: Textual amendment: Word in [Annex 7 point 4](https://www.legislation.gov.uk/eur/2009/152/annex/VII) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [91](https://www.legislation.gov.uk/uksi/2019/654/regulation/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f3ce06115eb219539eea7f86166a06b]: Textual amendment: Word in [Annex 7 point 4](https://www.legislation.gov.uk/eur/2009/152/annex/VII) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [91](https://www.legislation.gov.uk/uksi/2019/654/regulation/91); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

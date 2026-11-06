@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Town and Country Planning (Referrals and Appeals) (Written Representations Procedure) (Wales) Regulations 2015 (revoked)[^key-0d7f4411b80fbb7191625d8460bd25fd]
+The Town and Country Planning (Referrals and Appeals) (Written Representations Procedure) (Wales) Regulations 2015 (revoked)[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 Made
 
@@ -45,128 +45,128 @@ Coming into force
 
 22 June 2015
 
-[^key-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## 1. Title and commencement[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## 2. Interpretation[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of the Regulations[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## 3. Application of the Regulations[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — Procedure for Householder, Advertisement Consent and Minor Commercial Appeals[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## PART 1 — Procedure for Householder, Advertisement Consent and Minor Commercial Appeals[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
-### 4. Notification of receipt of appeal[^key-0d7f4411b80fbb7191625d8460bd25fd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Questionnaire[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 4. Notification of receipt of appeal[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notice to interested parties[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 5. Questionnaire[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Representations[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 6. Notice to interested parties[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Further information[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 7. Representations[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Transfer of appeal from Part 1[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 8. Further information[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Decision on householder, advertisement consent and minor commercial appeals under Part 1[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 9. Transfer of appeal from Part 1[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Notification of decision on householder, advertisement consent and minor commercial appeals under Part 1[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 10. Decision on householder, advertisement consent and minor commercial appeals under Part 1[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Procedure for Other Appeals[^key-0d7f4411b80fbb7191625d8460bd25fd]
-
-### 12. Notification of receipt of appeal[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 11. Notification of decision on householder, advertisement consent and minor commercial appeals under Part 1[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Questionnaire[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## PART 2 — Procedure for Other Appeals[^c-0d7f4411b80fbb7191625d8460bd25fd]
+
+### 12. Notification of receipt of appeal[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Notice to interested persons[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 13. Questionnaire[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Representations[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 14. Notice to interested persons[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Interested persons’ representations[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 15. Representations[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Decision on appeal[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 16. Interested persons’ representations[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Notification of decision[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 17. Decision on appeal[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Miscellaneous[^key-0d7f4411b80fbb7191625d8460bd25fd]
-
-### 19. Allowing further time[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 18. Notification of decision[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Transmission of documents[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## PART 3 — Miscellaneous[^c-0d7f4411b80fbb7191625d8460bd25fd]
+
+### 19. Allowing further time[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Withdrawal of consent to use electronic communications[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 20. Transmission of documents[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Revocation, transitional and saving provisions[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 21. Withdrawal of consent to use electronic communications[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 22. Revocation, transitional and saving provisions[^c-0d7f4411b80fbb7191625d8460bd25fd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Minor Commercial Development Uses[^key-0d7f4411b80fbb7191625d8460bd25fd]
+## SCHEDULE — Minor Commercial Development Uses[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 Regulation 2(1)
 
-### 1. Shops[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 1. Shops[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Financial and professional services[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 2. Financial and professional services[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Food and drink[^key-0d7f4411b80fbb7191625d8460bd25fd]
+### 3. Food and drink[^c-0d7f4411b80fbb7191625d8460bd25fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d7f4411b80fbb7191625d8460bd25fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d7f4411b80fbb7191625d8460bd25fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/1331) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))
+[^c-0d7f4411b80fbb7191625d8460bd25fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/1331) revoked (5.5.2017) by [The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 (S.I. 2017/544)](https://www.legislation.gov.uk/wsi/2017/544), [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/544/regulation/2/1), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) (with [regs. 52](https://www.legislation.gov.uk/wsi/2017/544/regulation/52), [53(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/2)[(3)](https://www.legislation.gov.uk/wsi/2017/544/regulation/53/3))

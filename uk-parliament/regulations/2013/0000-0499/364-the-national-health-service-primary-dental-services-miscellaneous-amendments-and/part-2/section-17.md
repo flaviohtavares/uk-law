@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Insertion of regulation 24B[^key-c05db0dbd14f91c6e12b69b6d9d3f1ee]
+## 17. Insertion of regulation 24B[^c-c05db0dbd14f91c6e12b69b6d9d3f1ee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c05db0dbd14f91c6e12b69b6d9d3f1ee]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/364/regulation/17) revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2016/298/regulation/26)
+[^c-c05db0dbd14f91c6e12b69b6d9d3f1ee]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/364/regulation/17) revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2016/298/regulation/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Terms of service[^key-7a493a6c517fc43237bfa0b0c450558e]
+## 12. Terms of service[^c-7a493a6c517fc43237bfa0b0c450558e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a493a6c517fc43237bfa0b0c450558e]: Commencement: Reg. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-7a493a6c517fc43237bfa0b0c450558e]: Commencement: Reg. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

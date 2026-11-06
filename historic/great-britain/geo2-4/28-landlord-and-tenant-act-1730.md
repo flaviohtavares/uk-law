@@ -40,7 +40,7 @@ In case any Tenant or Tenants for any Term of Life, Lives or Years, or other Per
 
 ## II—IV. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c918354]
 
-## V. Method of recovering Seck Rents,[^key-0f24b945f1fe83df1e3110f1c8cf7faa]
+## V. Method of recovering Seck Rents,[^c-0f24b945f1fe83df1e3110f1c8cf7faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,6 +62,6 @@ Provided always, That nothing in this Act contained shall extend to *Scotland.*
 
 [^c918354]: Textual amendment: [Ss. 2-4](https://www.legislation.gov.uk/apgb/Geo2/4/28/section/2) repealed by [Statute Law Revision Act 1867 (c. 59)](https://www.legislation.gov.uk/ukpga/1867/59)
 
-[^key-0f24b945f1fe83df1e3110f1c8cf7faa]: Textual amendment: S. 5 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/3), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-0f24b945f1fe83df1e3110f1c8cf7faa]: Textual amendment: S. 5 repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/3), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c918355]: Textual amendment: [S. 6](https://www.legislation.gov.uk/apgb/Geo2/4/28/section/6) repealed by [Law of Property Act 1925 (c. 20)](https://www.legislation.gov.uk/ukpga/1925/20), [s. 207](https://www.legislation.gov.uk/ukpga/1925/20/section/207), [Sch. 7](https://www.legislation.gov.uk/ukpga/1925/20/schedule/7)

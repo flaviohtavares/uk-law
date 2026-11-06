@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64C. Information accompanying an inter-cryptoasset business transfer[^key-925bf4af81ae826d96e80339ef17e366]
+## 64C. Information accompanying an inter-cryptoasset business transfer[^c-925bf4af81ae826d96e80339ef17e366]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) This paragraph applies where each of the cryptoasset businesses executing the inter-cryptoasset business transfer (including any intermediary cryptoasset business) is carrying on business in the United Kingdom in respect of the transaction.
 
-(4) Where paragraph (3) does not apply and the transfer is equal to or exceeds the equivalent in cryptoassets of £800[^key-1422f8e3bf0319c7b72d13a9eaaf0c61] in value (taken together with any other cryptoasset transfer which appears to be linked), the cryptoasset business of the originator must ensure that the inter-cryptoasset business transfer is also accompanied by the information specified in paragraph (6).
+(4) Where paragraph (3) does not apply and the transfer is equal to or exceeds the equivalent in cryptoassets of £800[^c-1422f8e3bf0319c7b72d13a9eaaf0c61] in value (taken together with any other cryptoasset transfer which appears to be linked), the cryptoasset business of the originator must ensure that the inter-cryptoasset business transfer is also accompanied by the information specified in paragraph (6).
 
 (5) The information specified in this paragraph is—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
+[^c-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
 
-[^key-1422f8e3bf0319c7b72d13a9eaaf0c61]: Textual amendment: Sum in [reg. 64C(4)](https://www.legislation.gov.uk/uksi/2017/692/regulation/64C/4) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2026/621/regulation/32)
+[^c-1422f8e3bf0319c7b72d13a9eaaf0c61]: Textual amendment: Sum in [reg. 64C(4)](https://www.legislation.gov.uk/uksi/2017/692/regulation/64C/4) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2026/621/regulation/32)

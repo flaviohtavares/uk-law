@@ -37,13 +37,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Absent vote applications
 
-### 1. Local government elections (Scotland and Wales)[^key-78fe8d31e14143c2c7cc1cbf0de0bd06]
+### 1. Local government elections (Scotland and Wales)[^c-78fe8d31e14143c2c7cc1cbf0de0bd06]
 
-(1)[^key-78fe8d31e14143c2c7cc1cbf0de0bd06] Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended in accordance with subsections (2) and (3).
+(1)[^c-78fe8d31e14143c2c7cc1cbf0de0bd06] Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended in accordance with subsections (2) and (3).
 
-(2)[^key-78fe8d31e14143c2c7cc1cbf0de0bd06] In paragraph 1(5A)(a)(ii), omit the words from “, other” to the end.
+(2)[^c-78fe8d31e14143c2c7cc1cbf0de0bd06] In paragraph 1(5A)(a)(ii), omit the words from “, other” to the end.
 
-(3)[^key-78fe8d31e14143c2c7cc1cbf0de0bd06] After paragraph 5ZA, insert—
+(3)[^c-78fe8d31e14143c2c7cc1cbf0de0bd06] After paragraph 5ZA, insert—
 
 > **5ZB.** (1) Provision about the use of the UK digital service in relation to relevant devolved absent voting applications.
 >
@@ -73,9 +73,9 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 > - “**relevant devolved absent voting application**” means an application (including a partially completed application) under paragraph 3, 4 or 6 of Schedule 4 to the Representation of the People Act 2000 in relation to a local government election, or local government elections, in Scotland or Wales;
 > - “**the UK digital service**” has the meaning given by paragraph 3ZA(7), and a reference to a relevant devolved absent voting application submitted through the UK digital service is a reference to such an application submitted using that service as an intermediary.
 
-(4)[^M_I_4b1082b0-4e9d-4790-fbc9-9a5d0f44b4d2][^key-cbdd93f8b7552b411e3e0a512761489a] Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain) is amended in accordance with subsections (5) and (6).
+(4)[^M_I_4b1082b0-4e9d-4790-fbc9-9a5d0f44b4d2][^c-cbdd93f8b7552b411e3e0a512761489a] Schedule 4 to the Representation of the People Act 2000 (absent voting in Great Britain) is amended in accordance with subsections (5) and (6).
 
-(5)[^key-cbdd93f8b7552b411e3e0a512761489a] In paragraph 3 (absent vote at elections for a period)—
+(5)[^c-cbdd93f8b7552b411e3e0a512761489a] In paragraph 3 (absent vote at elections for a period)—
 
 - (a) in sub-paragraph (1)(b), omit the words from “and, in the” to the end;
 - (b) in sub-paragraph (1A), omit “in England”;
@@ -88,7 +88,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (g) in sub-paragraph (7), omit the words from “and, in the” to “the period”;
 - (h) in sub-paragraph (7A), omit “in England”.
 
-(6)[^key-cbdd93f8b7552b411e3e0a512761489a] In paragraph 7 (voting as proxy)—
+(6)[^c-cbdd93f8b7552b411e3e0a512761489a] In paragraph 7 (voting as proxy)—
 
 - (a) in sub-paragraph (5)(c), omit the words from “and, in the” to the end;
 - (b) in sub-paragraph (5A), omit “in England”;
@@ -100,7 +100,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (ii) in paragraph (ca), omit “in England”;
   - (iii) omit paragraph (d) and the “or” before it.
 
-### 2. Elections to the Scottish Parliament[^key-2b79bf6d5bbed79fc02c7e4f8b50a148]
+### 2. Elections to the Scottish Parliament[^c-2b79bf6d5bbed79fc02c7e4f8b50a148]
 
 (1) The Scotland Act 1998 is amended as follows.
 
@@ -151,7 +151,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-### 3. Elections to Senedd Cymru[^key-4212d76f0fe8cef3c8c20d3c46ee9b05]
+### 3. Elections to Senedd Cymru[^c-4212d76f0fe8cef3c8c20d3c46ee9b05]
 
 After section 13A of the Government of Wales Act 2006 insert—
 
@@ -191,7 +191,7 @@ After section 13A of the Government of Wales Act 2006 insert—
 
 ## General
 
-### 4. Commencement and transitional provision[^key-d54328087fff4edff75ba72f159acfe7]
+### 4. Commencement and transitional provision[^c-d54328087fff4edff75ba72f159acfe7]
 
 (1) This Act comes into force on the day on which it is passed, subject to subsection (2).
 
@@ -203,7 +203,7 @@ After section 13A of the Government of Wales Act 2006 insert—
 
 (5) Regulations under subsection (3) that make provision for, or in connection with, the expiry of the devolved election postal vote entitlement of a person who also has a parliamentary election postal vote entitlement may make provision for the purpose of aligning the expiry of those entitlements (including provision specifying or changing the date on which either or both of those entitlements expire).
 
-(6)[^key-be7a450b9b3e575d927837f9ad121932] In this section—
+(6)[^c-be7a450b9b3e575d927837f9ad121932] In this section—
 
 - “**devolved election postal vote entitlement**” means an entitlement to vote by post (whether as elector or proxy) at local government elections in Wales or Scotland, where the entitlement was granted before the specified date on an application under paragraph 3(1) or 7(4)(a) of Schedule 4 to the Representation of the People Act 2000;
 - “**parliamentary election postal vote entitlement**” means an entitlement to vote by post (whether as elector or proxy) at parliamentary elections in England and Wales or Scotland, where the entitlement was granted before the specified date on an application under paragraph 3(1) or 7(4)(a) of Schedule 4 to the Representation of the People Act 2000;
@@ -211,7 +211,7 @@ After section 13A of the Government of Wales Act 2006 insert—
 
 (7) Regulations under this section may make different provision for different purposes or areas.
 
-### 5. Extent and short title[^key-34ce4be26cdbf29121b3558d0bb65513]
+### 5. Extent and short title[^c-34ce4be26cdbf29121b3558d0bb65513]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -219,18 +219,18 @@ After section 13A of the Government of Wales Act 2006 insert—
 
 ## Annotations
 
-[^key-78fe8d31e14143c2c7cc1cbf0de0bd06]: Commencement: S. 1(1)-(3) in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-78fe8d31e14143c2c7cc1cbf0de0bd06]: Commencement: S. 1(1)-(3) in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
 [^M_I_4b1082b0-4e9d-4790-fbc9-9a5d0f44b4d2]: Commencement: S. 1(4)-(6) not in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
-[^key-cbdd93f8b7552b411e3e0a512761489a]: Commencement: [S. 1(4)-(6)](https://www.legislation.gov.uk/ukpga/2025/27/section/1/4) in force at 3.11.2026 by [S.I. 2026/1031](https://www.legislation.gov.uk/uksi/2026/1031), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1031/regulation/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/1031/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/1031/regulation/5))
+[^c-cbdd93f8b7552b411e3e0a512761489a]: Commencement: [S. 1(4)-(6)](https://www.legislation.gov.uk/ukpga/2025/27/section/1/4) in force at 3.11.2026 by [S.I. 2026/1031](https://www.legislation.gov.uk/uksi/2026/1031), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1031/regulation/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/1031/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/1031/regulation/5))
 
-[^key-2b79bf6d5bbed79fc02c7e4f8b50a148]: Commencement: S. 2 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-2b79bf6d5bbed79fc02c7e4f8b50a148]: Commencement: S. 2 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
-[^key-4212d76f0fe8cef3c8c20d3c46ee9b05]: Commencement: S. 3 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-4212d76f0fe8cef3c8c20d3c46ee9b05]: Commencement: S. 3 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
-[^key-d54328087fff4edff75ba72f159acfe7]: Commencement: S. 4 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-d54328087fff4edff75ba72f159acfe7]: Commencement: S. 4 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
 
-[^key-be7a450b9b3e575d927837f9ad121932]: Subordinate legislation: S. 4(6): 3.11.2026 specified as the “specified date” for the purposes of the definitions of “devolved election postal vote entitlement” and “parliamentary election postal vote entitlement”
+[^c-be7a450b9b3e575d927837f9ad121932]: Subordinate legislation: S. 4(6): 3.11.2026 specified as the “specified date” for the purposes of the definitions of “devolved election postal vote entitlement” and “parliamentary election postal vote entitlement”
 
-[^key-34ce4be26cdbf29121b3558d0bb65513]: Commencement: S. 5 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-34ce4be26cdbf29121b3558d0bb65513]: Commencement: S. 5 in force at Royal Assent, see [s. 4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)

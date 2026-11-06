@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Additional special case[^key-a1fc520a8d1f6aea93ece6aa5d9d79e9]
+## 28. Additional special case[^c-a1fc520a8d1f6aea93ece6aa5d9d79e9]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 39(2) of the Child Support Order (examples of cases in relation to wh
 
 ## Annotations
 
-[^key-a1fc520a8d1f6aea93ece6aa5d9d79e9]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/10/section/28) in operation at 3.12.2012 by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/a)
+[^c-a1fc520a8d1f6aea93ece6aa5d9d79e9]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2008/10/section/28) in operation at 3.12.2012 by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/a)

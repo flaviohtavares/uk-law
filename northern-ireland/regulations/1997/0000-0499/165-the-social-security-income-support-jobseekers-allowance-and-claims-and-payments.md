@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Articles 6(5), 22(4) and (6) and 36(1) of the Jobseekers (Northern Ireland) Order 1995[^f00001], sections 122(1)(*a*), 123(1)(*e*), 131(1) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and sections 5(1)(*q*), 13A(2)(*a*) and 165 of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-541c756f6c6c3f1a2703c1a7a0114911]
+## 1. Citation, commencement and interpretation[^c-541c756f6c6c3f1a2703c1a7a0114911]
 
 (1) These Regulations may be cited as the Social Security (Income Support, Jobseeker’s Allowance and Claims and Payments) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation on 7th April 1997.
 
@@ -51,15 +51,15 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## ...[^key-792c451b4b9e8b7e647daa3e73688907][^key-db9d62f95b993d31a0f7fa19f2b8641b][^key-792c451b4b9e8b7e647daa3e73688907]
+## ...[^c-792c451b4b9e8b7e647daa3e73688907][^c-db9d62f95b993d31a0f7fa19f2b8641b][^c-792c451b4b9e8b7e647daa3e73688907]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 3 to the Income Support Regulations[^key-aaa7e5dac32f6f58b8e721c6cfbd25d1]
+## 3. Amendment of Schedule 3 to the Income Support Regulations[^c-aaa7e5dac32f6f58b8e721c6cfbd25d1]
 
 In Schedule 3 to the Income Support Regulations[^f00008] (housing costs), in paragraph 18(7)(*d*) (non-dependant deductions) after “income support” there shall be inserted “or an income-based jobseeker’s allowance”.
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-2785cfe3f37e5aff46ca9b6c8333d55f][^key-888f238f9c0b72a683ced0ecc21d88a2]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-2785cfe3f37e5aff46ca9b6c8333d55f][^c-888f238f9c0b72a683ced0ecc21d88a2]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00009] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -77,7 +77,7 @@ In Schedule 3 to the Income Support Regulations[^f00008] (housing costs), in par
 - (b) in paragraph 3 (specified part of relevant benefit) sub-paragraphs (5) and (6) (arrears of mortgage interest) shall be omitted;
 - (c) in paragraph 4 (more than one loan) “plus” at the end of sub-paragraph (1)(*b*) and sub-paragraph (1)(*c*) shall be omitted.
 
-## 5. Amendment of regulation 63 of the Jobseeker’s Allowance Regulations[^key-0501ca848ac32a5aadf094d6c1ef3e91]
+## 5. Amendment of regulation 63 of the Jobseeker’s Allowance Regulations[^c-0501ca848ac32a5aadf094d6c1ef3e91]
 
 (1) Regulation 63 of the Jobseeker’s Allowance Regulations (reduced payments under Article 19 of the Order) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -85,7 +85,7 @@ In Schedule 3 to the Income Support Regulations[^f00008] (housing costs), in par
 
 (3) In paragraph (3) after “shall be” there shall be inserted “if he is a single person or a lone parent” and at the end there shall be inserted “determined in accordance with paragraph 1(1) or (2) of Schedule 1 (as the case may be) or, if he is a member of a couple, 20 per cent. of the amount which would have been applicable in his case if he had been a single person determined in accordance with paragraph 1(1) of Schedule 1”.
 
-## 6. Amendment of regulation 68 of the Jobseeker’s Allowance Regulations[^key-471e3ff51c1687c60465651f64843611]
+## 6. Amendment of regulation 68 of the Jobseeker’s Allowance Regulations[^c-471e3ff51c1687c60465651f64843611]
 
 (1) Regulation 68 of the Jobseeker’s Allowance Regulations (reduced amount of allowance) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -93,7 +93,7 @@ In Schedule 3 to the Income Support Regulations[^f00008] (housing costs), in par
 
 (3) In paragraph (2) after “reduced by” there shall be inserted “, if he is a single person or a lone parent,” and for “in accordance with paragraph 1 of Schedule 1” there shall be substituted “in accordance with paragraph 1(1) or (2) of Schedule 1 (as the case may be) or, if he is a member of a couple, a sum equal to 20 per cent. of the amount which would have been applicable in his case if he had been a single person determined in accordance with paragraph 1(1) of Schedule 1”.
 
-## 7. Amendment of Schedule 2 to the Jobseeker’s Allowance Regulations[^key-eb3af2df3cc3c9ad29e7108a00e3ab63]
+## 7. Amendment of Schedule 2 to the Jobseeker’s Allowance Regulations[^c-eb3af2df3cc3c9ad29e7108a00e3ab63]
 
 (1) Schedule 2 to the Jobseeker’s Allowance Regulations (housing costs) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -105,7 +105,7 @@ In Schedule 3 to the Income Support Regulations[^f00008] (housing costs), in par
 
 (3) In paragraph 17(7)(*d*) (non-dependant deductions) for “a jobseeker’s allowance” there shall be substituted “an income-based jobseeker’s allowance”.
 
-## 8. Revocations[^key-f12e5bf5c6ee8e1012b877be11932bef]
+## 8. Revocations[^c-f12e5bf5c6ee8e1012b877be11932bef]
 
 Regulation 4(3) and (4) of the Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1992[^f00014], paragraph 3(3)(*c*) of Schedule 2 to the Social Security (Income Support and Claims and Payments) (Amendment) Regulations (Northern Ireland) 1995[^f00015] and regulation 2(27)(*a*)(i) of the Social Security (Claims and Payments) (Jobseeker’s Allowance Consequential Amendments) Regulations (Northern Ireland) 1996[^f00016] are hereby revoked.
 
@@ -140,7 +140,7 @@ In particular, these Regulations—
 
 [^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 13A(2) was inserted by the Social Security (Mortgage Interest Payments) (Northern Ireland) Order 1992 (S.I. [1992/1309 (N.I. 9)](https://www.legislation.gov.uk/nisi/1992/1309))
 
-[^key-541c756f6c6c3f1a2703c1a7a0114911]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-541c756f6c6c3f1a2703c1a7a0114911]: Commencement: Reg. 1 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
@@ -148,17 +148,17 @@ In particular, these Regulations—
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-792c451b4b9e8b7e647daa3e73688907]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/165/regulation/2) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
+[^c-792c451b4b9e8b7e647daa3e73688907]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/165/regulation/2) revoked (9.10.2006) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2006 (S.R. 2006/359)](https://www.legislation.gov.uk/nisr/2006/359), [regs. 1(5)](https://www.legislation.gov.uk/nisr/2006/359/regulation/1/5), [15](https://www.legislation.gov.uk/nisr/2006/359/regulation/15), [Sch.](https://www.legislation.gov.uk/nisr/2006/359/schedule)
 
-[^key-db9d62f95b993d31a0f7fa19f2b8641b]: Commencement.
+[^c-db9d62f95b993d31a0f7fa19f2b8641b]: Commencement.
 
-[^key-aaa7e5dac32f6f58b8e721c6cfbd25d1]: Commencement: Reg. 3 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-aaa7e5dac32f6f58b8e721c6cfbd25d1]: Commencement: Reg. 3 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
 [^f00008]: Footnote: Schedule 3 was substituted by [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
-[^key-2785cfe3f37e5aff46ca9b6c8333d55f]: Commencement: Reg. 4 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-2785cfe3f37e5aff46ca9b6c8333d55f]: Commencement: Reg. 4 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
-[^key-888f238f9c0b72a683ced0ecc21d88a2]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/165/regulation/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-888f238f9c0b72a683ced0ecc21d88a2]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/165/regulation/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00009]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1989 No. 40](https://www.legislation.gov.uk/nisr/1989/40), [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271), [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354) and [432](https://www.legislation.gov.uk/nisr/1996/432)
 
@@ -166,17 +166,17 @@ In particular, these Regulations—
 
 [^f00011]: Footnote: Schedule 8B was inserted by [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271); relevant amending Regulations are [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-0501ca848ac32a5aadf094d6c1ef3e91]: Commencement: Reg. 5 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-0501ca848ac32a5aadf094d6c1ef3e91]: Commencement: Reg. 5 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
-[^key-471e3ff51c1687c60465651f64843611]: Commencement: Reg. 6 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-471e3ff51c1687c60465651f64843611]: Commencement: Reg. 6 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
-[^key-eb3af2df3cc3c9ad29e7108a00e3ab63]: Commencement: Reg. 7 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-eb3af2df3cc3c9ad29e7108a00e3ab63]: Commencement: Reg. 7 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
 [^f00012]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 (S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 
 [^f00013]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 (S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
 
-[^key-f12e5bf5c6ee8e1012b877be11932bef]: Commencement: Reg. 8 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
+[^c-f12e5bf5c6ee8e1012b877be11932bef]: Commencement: Reg. 8 in operation at 7.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/165/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271)
 

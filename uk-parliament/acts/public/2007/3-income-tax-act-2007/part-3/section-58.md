@@ -37,14 +37,14 @@ summary: ''
 
   The result is the individual's adjusted net income for the tax year.
 
-(2) The grossed up amount of a gift is the amount of the gift grossed up by reference to the basic rate for the tax year [^key-cb3d5ff5a6dd565033741956b57e6d20]....
+(2) The grossed up amount of a gift is the amount of the gift grossed up by reference to the basic rate for the tax year [^c-cb3d5ff5a6dd565033741956b57e6d20]....
 
 (3) The gross amount of a contribution is the amount of the contribution before deduction of tax under section 192(1) of FA 2004.
 
-(4)[^key-48e70853aae97ec76cca60f50869c0f8] This section is subject to section 809ZM(6) and section 809ZMB(3) (which prevent tainted donations and associated donations from being deducted at Step 2 in subsection (1)).
+(4)[^c-48e70853aae97ec76cca60f50869c0f8] This section is subject to section 809ZM(6) and section 809ZMB(3) (which prevent tainted donations and associated donations from being deducted at Step 2 in subsection (1)).
 
 ## Annotations
 
-[^key-cb3d5ff5a6dd565033741956b57e6d20]: Textual amendment: Words in s. 58(2) omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/459/article/6/3)
+[^c-cb3d5ff5a6dd565033741956b57e6d20]: Textual amendment: Words in s. 58(2) omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2018/459/article/6/3)
 
-[^key-48e70853aae97ec76cca60f50869c0f8]: Textual amendment: S. 58(4) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/3)
+[^c-48e70853aae97ec76cca60f50869c0f8]: Textual amendment: S. 58(4) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/3)

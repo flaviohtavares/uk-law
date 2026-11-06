@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Order for elections by thirds: councillors to be elected at ordinary elections[^key-b1c7559a87fdd45939bd6501ca1d416f]
+## 48. Order for elections by thirds: councillors to be elected at ordinary elections[^c-b1c7559a87fdd45939bd6501ca1d416f]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1c7559a87fdd45939bd6501ca1d416f]: Commencement: S. 48 in force at 30.12.2007, see s. 245(2)
+[^c-b1c7559a87fdd45939bd6501ca1d416f]: Commencement: S. 48 in force at 30.12.2007, see s. 245(2)

@@ -22,11 +22,11 @@ summary: ''
 
 Section 101
 
-**1.**[^c19631601][^key-ebefdd7700f53595d78d363885d0e9f2] In this Schedule “**the 1998 Act**” means the School Standards and Framework Act 1998 (c. 31).
+**1.**[^c19631601][^c-ebefdd7700f53595d78d363885d0e9f2] In this Schedule “**the 1998 Act**” means the School Standards and Framework Act 1998 (c. 31).
 
 ### Power to provide for budgets to relate to period other than financial year
 
-**2.**[^c19631611][^key-2ae0c55737ce2cabe2616b5721821a34] (1) Section 45 of the 1998 Act (maintained schools to have budget shares) is amended as follows.
+**2.**[^c19631611][^c-2ae0c55737ce2cabe2616b5721821a34] (1) Section 45 of the 1998 Act (maintained schools to have budget shares) is amended as follows.
 
 (2) In subsection (1) for “financial year” substitute “ funding period ”.
 
@@ -41,7 +41,7 @@ Section 101
 
 ### Determination of budgets
 
-**3.**[^c19631621][^key-72ef28af68f586f45b45748e680337b0] (1) Section 45A of the 1998 Act (determination of specified budgets of local authority[^key-94ed0295e29907765ea29be5dd3e5cb4]) is amended as follows.
+**3.**[^c19631621][^c-72ef28af68f586f45b45748e680337b0] (1) Section 45A of the 1998 Act (determination of specified budgets of local authority[^c-94ed0295e29907765ea29be5dd3e5cb4]) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -78,9 +78,9 @@ Section 101
 
 (8) Omit subsections (5) and (6).
 
-**4.**[^c19237841][^key-a31e7e2178620856ccfe60427ad1ef21] After section 45A insert—
+**4.**[^c19237841][^c-a31e7e2178620856ccfe60427ad1ef21] After section 45A insert—
 
-> **45AA. Power to require local authorities in England to determine schools budget[^key-a2173b6f678e4942b640e80d5cd628b4]**
+> **45AA. Power to require local authorities in England to determine schools budget[^c-a2173b6f678e4942b640e80d5cd628b4]**
 >
 > (1) Regulations may require a local authority in England, not later than the prescribed date, to make an initial determination of their schools budget for a funding period.
 >
@@ -113,7 +113,7 @@ Section 101
 >
 > (4) Regulations under subsection (1) are not to have effect in relation to an authority's schools budget for any funding period if section 45AB is in force in relation to that funding period.
 
-**5.**[^c19631661][^key-4a454e34c93b70c6c7b4d7ef0e07a36c] For sections 45B and 45C of the 1998 Act substitute—
+**5.**[^c19631661][^c-4a454e34c93b70c6c7b4d7ef0e07a36c] For sections 45B and 45C of the 1998 Act substitute—
 
 > **45B. Power of Assembly to set minimum schools budget for local authority in Wales**
 >
@@ -173,7 +173,7 @@ Section 101
 
 ### Determination of schools' budget shares
 
-**6.**[^c19631641][^key-852ad4286d70174261194a4435c7bf8d] (1) Section 47 of the 1998 Act (determination of school's budget share) is amended as follows.
+**6.**[^c19631641][^c-852ad4286d70174261194a4435c7bf8d] (1) Section 47 of the 1998 Act (determination of school's budget share) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -205,7 +205,7 @@ Section 101
 
 ### Functions of schools forum
 
-**7.**[^c19631651][^key-3d968ce8403672efe0f8fcfc4c882a53] In section 47A of the 1998 Act (schools forums) for subsection (3) substitute—
+**7.**[^c19631651][^c-3d968ce8403672efe0f8fcfc4c882a53] In section 47A of the 1998 Act (schools forums) for subsection (3) substitute—
 
 > (3) The purpose of a schools forum is—
 >
@@ -227,32 +227,32 @@ Section 101
 
 [^c19631601]: Commencement: Sch. 16 para. 1 partly in force; Sch. 16 para. 1 not in force at Royal Assent see s. 125; Sch. 16 para. 1 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-ebefdd7700f53595d78d363885d0e9f2]: Commencement: Sch. 16 para. 1 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-ebefdd7700f53595d78d363885d0e9f2]: Commencement: Sch. 16 para. 1 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
 [^c19631611]: Commencement: Sch. 16 para. 2 partly in force; Sch. 16 para. 2 not in force at Royal Assent see s. 125; Sch. 16 para. 2 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-2ae0c55737ce2cabe2616b5721821a34]: Commencement: Sch. 16 para. 2 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-2ae0c55737ce2cabe2616b5721821a34]: Commencement: Sch. 16 para. 2 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
 [^c19631621]: Commencement: Sch. 16 para. 3 partly in force; Sch. 16 para. 3 not in force at Royal Assent see s. 125; Sch. 16 para. 3 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-72ef28af68f586f45b45748e680337b0]: Commencement: Sch. 16 para. 3 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-72ef28af68f586f45b45748e680337b0]: Commencement: Sch. 16 para. 3 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19237841]: Commencement: Sch. 16 para. 4 partly in force; Sch. 16 para. 4 not in force at Royal Assent see s. 125; Sch. 16 para. 4 in force for E. for certain purposes at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-a31e7e2178620856ccfe60427ad1ef21]: Commencement: Sch. 16 para. 4 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-a31e7e2178620856ccfe60427ad1ef21]: Commencement: Sch. 16 para. 4 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
 
 [^c19631661]: Commencement: Sch. 16 para. 5 partly in force; Sch. 16 para. 5 not in force at Royal Assent see s. 125; Sch. 16 para. 5 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-4a454e34c93b70c6c7b4d7ef0e07a36c]: Commencement: Sch. 16 para. 5 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-4a454e34c93b70c6c7b4d7ef0e07a36c]: Commencement: Sch. 16 para. 5 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
 [^c19631641]: Commencement: Sch. 16 para. 6 partly in force; Sch. 16 para. 6 not in force at Royal Assent see s. 125; Sch. 16 para. 6 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2005/2034/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2005/2034/schedule/paragraph/4))
 
-[^key-852ad4286d70174261194a4435c7bf8d]: Commencement: Sch. 16 para. 6 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-852ad4286d70174261194a4435c7bf8d]: Commencement: Sch. 16 para. 6 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
 
 [^c19631651]: Commencement: Sch. 16 para. 7 partly in force; Sch. 16 para. 7 not in force at Royal Assent see s. 125; Sch. 16 para. 7 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-3d968ce8403672efe0f8fcfc4c882a53]: Commencement: Sch. 16 para. 7 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)
+[^c-3d968ce8403672efe0f8fcfc4c882a53]: Commencement: Sch. 16 para. 7 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/735/article/2/d)

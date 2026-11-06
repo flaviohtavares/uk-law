@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Interpretation[^key-944cf06c9f516e462ed4ef5774271111]
+## 4. Interpretation[^c-944cf06c9f516e462ed4ef5774271111]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ be to the paragraph so numbered in Schedule B1 to the 1986 Act[^f00010], as appl
 
 ## Annotations
 
-[^key-944cf06c9f516e462ed4ef5774271111]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2011/1301/rule/4) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-944cf06c9f516e462ed4ef5774271111]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2011/1301/rule/4) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Health in pregnancy grant: Civil penalty for fraud, etc.[^key-dd18c3bb28018bad557258c423b27b94]
+## SCHEDULE 3A — Health in pregnancy grant: Civil penalty for fraud, etc.[^c-dd18c3bb28018bad557258c423b27b94]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ### Appeal
 
-**2.** (1) A person on whom a penalty is imposed under paragraph 1 may appeal to the First-tier Tribunal[^key-46a849ee1d1dcb01be8ea508072b84aa] against the determination imposing it.
+**2.** (1) A person on whom a penalty is imposed under paragraph 1 may appeal to the First-tier Tribunal[^c-46a849ee1d1dcb01be8ea508072b84aa] against the determination imposing it.
 
 (2) On an appeal under sub-paragraph (1), the First-tier Tribunal may—
 
@@ -55,17 +55,17 @@ summary: ''
 - (c) reduce the amount of the penalty, or
 - (d) increase the amount of it (but not so as to exceed the amount of the grant).
 
-(3)[^key-235480b169e450345c33a204102b89ba] An appeal lies to the Upper Tribunal otherwise than on a point of law from a decision of the First-tier Tribunal under sub-paragraph (2) (unless the decision is set aside under section 9 of the Tribunals, Courts and Enforcement Act 2007).
+(3)[^c-235480b169e450345c33a204102b89ba] An appeal lies to the Upper Tribunal otherwise than on a point of law from a decision of the First-tier Tribunal under sub-paragraph (2) (unless the decision is set aside under section 9 of the Tribunals, Courts and Enforcement Act 2007).
 
 (3A) For an appeal on a point of law, see section 11 of that Act.
 
 (3B) An appeal may be brought under sub-paragraph (3) only if, on an application made by the person concerned, the First-tier Tribunal or the Upper Tribunal has given its permission for the appeal to be brought.
 
-(4) On an appeal under sub-paragraph (3), the Upper Tribunal[^key-51a3a5f6a33ab7eab337ab362aa85d59] has a similar jurisdiction to that conferred on the First-tier Tribunal[^key-07d5107ed5823d89334f0744c483151d] by sub-paragraph (2).
+(4) On an appeal under sub-paragraph (3), the Upper Tribunal[^c-51a3a5f6a33ab7eab337ab362aa85d59] has a similar jurisdiction to that conferred on the First-tier Tribunal[^c-07d5107ed5823d89334f0744c483151d] by sub-paragraph (2).
 
-(5)[^key-727b631ebc36703790adee4f7b4988c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-727b631ebc36703790adee4f7b4988c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) The Commissioners for Her Majesty's Revenue and Customs may by regulations apply provision contained in the Social Security Act 1998[^key-6fa40465e77129abdde8de5b13149300] in relation to an appeal under this paragraph (with such modifications as are prescribed).
+(6) The Commissioners for Her Majesty's Revenue and Customs may by regulations apply provision contained in the Social Security Act 1998[^c-6fa40465e77129abdde8de5b13149300] in relation to an appeal under this paragraph (with such modifications as are prescribed).
 
 ### Mitigation
 
@@ -83,16 +83,16 @@ summary: ''
 
 ## Annotations
 
-[^key-dd18c3bb28018bad557258c423b27b94]: Textual amendment: Sch. 3A inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2008/14/section/133/2), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-dd18c3bb28018bad557258c423b27b94]: Textual amendment: Sch. 3A inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 133(2)](https://www.legislation.gov.uk/ukpga/2008/14/section/133/2), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
 
-[^key-46a849ee1d1dcb01be8ea508072b84aa]: Textual amendment: Words in [Sch. 3A para. 2(1)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/1)[(2)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/2)
+[^c-46a849ee1d1dcb01be8ea508072b84aa]: Textual amendment: Words in [Sch. 3A para. 2(1)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/1)[(2)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/2)
 
-[^key-235480b169e450345c33a204102b89ba]: Textual amendment: [Sch. 3A para. 2(3)-(3B)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/3) substituted for [Sch. 3A](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A) [para. 2(3)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/3) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/3)
+[^c-235480b169e450345c33a204102b89ba]: Textual amendment: [Sch. 3A para. 2(3)-(3B)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/3) substituted for [Sch. 3A](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A) [para. 2(3)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/3) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/3)
 
-[^key-51a3a5f6a33ab7eab337ab362aa85d59]: Textual amendment: Words in [Sch. 3A para. 2(4)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/4/a)
+[^c-51a3a5f6a33ab7eab337ab362aa85d59]: Textual amendment: Words in [Sch. 3A para. 2(4)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/4/a)
 
-[^key-07d5107ed5823d89334f0744c483151d]: Textual amendment: Words in [Sch. 3A para. 2(4)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/4/b)
+[^c-07d5107ed5823d89334f0744c483151d]: Textual amendment: Words in [Sch. 3A para. 2(4)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/4/b)
 
-[^key-727b631ebc36703790adee4f7b4988c9]: Textual amendment: [Sch. 3A para. 2(5)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/5)
+[^c-727b631ebc36703790adee4f7b4988c9]: Textual amendment: [Sch. 3A para. 2(5)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/5)
 
-[^key-6fa40465e77129abdde8de5b13149300]: Textual amendment: Words in [Sch. 3A para. 2(6)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(6)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/6)
+[^c-6fa40465e77129abdde8de5b13149300]: Textual amendment: Words in [Sch. 3A para. 2(6)](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3A/paragraph/2/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 172(6)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/172/6)

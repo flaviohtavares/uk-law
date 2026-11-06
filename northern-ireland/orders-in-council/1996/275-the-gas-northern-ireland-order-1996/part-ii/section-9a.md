@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9A.[^key-9229f17083e7b6f0537cbf78dc96a8ee]
+## 9A.[^c-9229f17083e7b6f0537cbf78dc96a8ee]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The prohibition in Article 9(3) does not apply to the grant by the Department or
 
 ## Annotations
 
-[^key-9229f17083e7b6f0537cbf78dc96a8ee]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/nisi/1996/275/article/9A) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [117](https://www.legislation.gov.uk/uksi/2019/530/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9229f17083e7b6f0537cbf78dc96a8ee]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/nisi/1996/275/article/9A) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [117](https://www.legislation.gov.uk/uksi/2019/530/regulation/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

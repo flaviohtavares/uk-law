@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Provision of evidence from certain criminal cases[^key-478c1936c310ed212e272e6dd1cfc88f]
+## 63. Provision of evidence from certain criminal cases[^c-478c1936c310ed212e272e6dd1cfc88f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478c1936c310ed212e272e6dd1cfc88f]: Commencement: S. 63 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-478c1936c310ed212e272e6dd1cfc88f]: Commencement: S. 63 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

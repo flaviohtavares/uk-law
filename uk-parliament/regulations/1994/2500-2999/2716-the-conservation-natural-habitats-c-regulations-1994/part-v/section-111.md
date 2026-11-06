@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 111. Research[^key-3aeff74908ee0ab61d87f36142bc754e]
+## 111. Research[^c-3aeff74908ee0ab61d87f36142bc754e]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) having regard to the objectives in Article 2, and the obligation in Article 11, of the Habitats Directive; and
 - (b) for the purpose of the protection or management, and in relation to the use, of any population of wild bird.
 
-(2)[^key-ff6e5738e05e2d1daaa12f5f7fdafe6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ff6e5738e05e2d1daaa12f5f7fdafe6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In deciding what steps to take under paragraph (1), the Scottish Ministers must have particular regard to the need for research and scientific work—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3aeff74908ee0ab61d87f36142bc754e]: Textual amendment: [Reg. 111](https://www.legislation.gov.uk/uksi/1994/2716/regulation/111) inserted (S.) (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2012/228/regulation/6)
+[^c-3aeff74908ee0ab61d87f36142bc754e]: Textual amendment: [Reg. 111](https://www.legislation.gov.uk/uksi/1994/2716/regulation/111) inserted (S.) (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2012/228/regulation/6)
 
-[^key-ff6e5738e05e2d1daaa12f5f7fdafe6d]: Textual amendment: [Reg. 111(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/111/2) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [24](https://www.legislation.gov.uk/ssi/2019/113/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff6e5738e05e2d1daaa12f5f7fdafe6d]: Textual amendment: [Reg. 111(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/111/2) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [24](https://www.legislation.gov.uk/ssi/2019/113/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

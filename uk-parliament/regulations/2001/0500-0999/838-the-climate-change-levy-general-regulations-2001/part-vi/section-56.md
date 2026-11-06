@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Insolvency[^key-58bf3f3e0e157b7084f7a21216a1942f]
+## 56. Insolvency[^c-58bf3f3e0e157b7084f7a21216a1942f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58bf3f3e0e157b7084f7a21216a1942f]: Commencement: Reg. 56 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-58bf3f3e0e157b7084f7a21216a1942f]: Commencement: Reg. 56 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

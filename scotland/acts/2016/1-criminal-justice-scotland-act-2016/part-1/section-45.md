@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Use of reasonable force[^key-373479df0f8c63d07d3f2976f2a484c9]
+## 45. Use of reasonable force[^c-373479df0f8c63d07d3f2976f2a484c9]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A constable may use reasonable force—
 
 ## Annotations
 
-[^key-373479df0f8c63d07d3f2976f2a484c9]: Commencement: S. 45 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-373479df0f8c63d07d3f2976f2a484c9]: Commencement: S. 45 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

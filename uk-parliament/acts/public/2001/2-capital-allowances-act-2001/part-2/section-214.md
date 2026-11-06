@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Allowances under this Part are restricted under sections 217 and 218 (or, as the case may be, 218ZA(3))[^key-e2afee7dc6f3f75c0e3f6f28cf867d20] if—
+Allowances under this Part are restricted under sections 217 and 218 (or, as the case may be, 218ZA(3))[^c-e2afee7dc6f3f75c0e3f6f28cf867d20] if—
 
 - (a) B enters into a relevant transaction with S, and
 - (b) B and S are connected with each other.
 
 ## Annotations
 
-[^key-e2afee7dc6f3f75c0e3f6f28cf867d20]: Textual amendment: Words in s. 214 inserted (with effect in accordance with Sch. 9 para. 9(1)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/3)
+[^c-e2afee7dc6f3f75c0e3f6f28cf867d20]: Textual amendment: Words in s. 214 inserted (with effect in accordance with Sch. 9 para. 9(1)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/3)

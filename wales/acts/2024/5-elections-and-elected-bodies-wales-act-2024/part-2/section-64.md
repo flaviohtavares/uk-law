@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Undue influence[^key-d56eb7ac086229590b8bdfaf330076aa][^key-e40779a62924e88086d77390ea4c2343]
+## 64. Undue influence[^c-d56eb7ac086229590b8bdfaf330076aa][^c-e40779a62924e88086d77390ea4c2343]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d56eb7ac086229590b8bdfaf330076aa]: Commencement: S. 64 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-d56eb7ac086229590b8bdfaf330076aa]: Commencement: S. 64 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-e40779a62924e88086d77390ea4c2343]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2024/5/section/64) in force at 18.7.2025 by [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)
+[^c-e40779a62924e88086d77390ea4c2343]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2024/5/section/64) in force at 18.7.2025 by [S.I. 2025/846](https://www.legislation.gov.uk/wsi/2025/846), [art. 2](https://www.legislation.gov.uk/wsi/2025/846/article/2)

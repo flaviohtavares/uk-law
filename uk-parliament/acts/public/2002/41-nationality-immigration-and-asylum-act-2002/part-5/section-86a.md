@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Timeframe for determination of appeal under section 82(1)(a) where appellant is receiving accommodation support[^key-585f089d8580c92c385bdf8ac7e89218]
+## 86A. Timeframe for determination of appeal under section 82(1)(a) where appellant is receiving accommodation support[^c-585f089d8580c92c385bdf8ac7e89218]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585f089d8580c92c385bdf8ac7e89218]: Textual amendment: S. 86A inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 49](https://www.legislation.gov.uk/ukpga/2025/31/section/49), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-585f089d8580c92c385bdf8ac7e89218]: Textual amendment: S. 86A inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 49](https://www.legislation.gov.uk/ukpga/2025/31/section/49), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)

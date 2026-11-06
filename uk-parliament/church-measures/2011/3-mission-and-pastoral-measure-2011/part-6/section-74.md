@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 74. Removal of legal effects of consecration of buildings and land[^key-c1e312e409159a4c2c4b120a0aa056aa]
+## 74. Removal of legal effects of consecration of buildings and land[^c-c1e312e409159a4c2c4b120a0aa056aa]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1e312e409159a4c2c4b120a0aa056aa]: Commencement: S. 74 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-c1e312e409159a4c2c4b120a0aa056aa]: Commencement: S. 74 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

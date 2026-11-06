@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3 — Cooperation and information sharing[^key-d9d27108852fdc9d99a389015cba0f73][^key-7598d334627f30da03d441211588b615]
+## Schedule 3 — Cooperation and information sharing[^c-d9d27108852fdc9d99a389015cba0f73][^c-7598d334627f30da03d441211588b615]
 
 *Extent: E+W*
 
 Section 27
 
-### 1. Interpretation[^key-41cfbd3d550bd502d18b1a644da14d2b][^key-a7e0a90554be92ed637e011c7e164f7e][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 1. Interpretation[^c-41cfbd3d550bd502d18b1a644da14d2b][^c-a7e0a90554be92ed637e011c7e164f7e][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 In this Schedule any reference to a function under an enactment includes a function under an instrument made under the enactment.
 
-### 2. Local authorities, fire and rescue authorities etc[^key-5e6776efa30a6b6df2bb36dc1b7c53b0][^key-7d2fcfb0b9e9bf8168f2b3e4b1243ae7][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 2. Local authorities, fire and rescue authorities etc[^c-5e6776efa30a6b6df2bb36dc1b7c53b0][^c-7d2fcfb0b9e9bf8168f2b3e4b1243ae7][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 (1) The regulator and a local authority must cooperate with each other in the exercise of their relevant functions.
 
@@ -77,9 +77,9 @@ In this Schedule any reference to a function under an enactment includes a funct
   - (c) a fire and rescue authority;
   - (d) an FSO authorised person.
 
-### 3. Ombudsmen[^key-b5b6e59b59b098564a129c73db8bbcf8][^key-54b4525eaf3e67c8b99d85a62ec03a18][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 3. Ombudsmen[^c-b5b6e59b59b098564a129c73db8bbcf8][^c-54b4525eaf3e67c8b99d85a62ec03a18][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 (1) The regulator and a person mentioned in sub-paragraph (4) must cooperate with each other in the exercise of—
 
@@ -107,9 +107,9 @@ In this Schedule any reference to a function under an enactment includes a funct
 - (a) in relation to the Regulator of Social Housing, any of its functions;
 - (b) in relation to a person who administers a relevant scheme, any function relating to that scheme.
 
-### 4. Secretary of State[^key-9d60c8bbc0f1141cf73393e6daab6d39][^key-de42a5f83b81f444191908e7d123519c][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 4. Secretary of State[^c-9d60c8bbc0f1141cf73393e6daab6d39][^c-de42a5f83b81f444191908e7d123519c][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 (1) The regulator may disclose to the Secretary of State information held in connection with any of its building functions, for the purpose of any of those functions or any relevant function of the Secretary of State.
 
@@ -117,9 +117,9 @@ In this Schedule any reference to a function under an enactment includes a funct
 
 (3) In this paragraph “**relevant function**” means any function of the Secretary of State (whether or not under an enactment) that relates to buildings.
 
-### 5. Police[^key-482ae94dd9957b7ab522bef8ccd3a9b6][^key-4b4d5ad8889e748598378c0b1cc6d823][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 5. Police[^c-482ae94dd9957b7ab522bef8ccd3a9b6][^c-4b4d5ad8889e748598378c0b1cc6d823][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 (1) The regulator may disclose to a constable information held by it in connection with any of its building functions.
 
@@ -129,9 +129,9 @@ In this Schedule any reference to a function under an enactment includes a funct
 - (b) a purpose of the police relating to public health or public safety;
 - (c) a purpose relating to national security.
 
-### 6. Public authorities[^key-4775faafa85ace242e272333cd16cab2][^key-5e676acac2e18e83b7d34072dd14889a][^key-d9d27108852fdc9d99a389015cba0f73][^key-d9d27108852fdc9d99a389015cba0f73]
+### 6. Public authorities[^c-4775faafa85ace242e272333cd16cab2][^c-5e676acac2e18e83b7d34072dd14889a][^c-d9d27108852fdc9d99a389015cba0f73][^c-d9d27108852fdc9d99a389015cba0f73]
 
-[^key-7598d334627f30da03d441211588b615]
+[^c-7598d334627f30da03d441211588b615]
 
 (1) The Secretary of State may by regulations make provision requiring the regulator and any prescribed public authority to cooperate with each other in the exercise of—
 
@@ -147,30 +147,30 @@ In this Schedule any reference to a function under an enactment includes a funct
 
 ## Annotations
 
-[^key-d9d27108852fdc9d99a389015cba0f73]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3) applied (with modifications) (5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force) by [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55), [s. 58Y](https://www.legislation.gov.uk/ukpga/1984/55/section/58Y) (as inserted by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42), [170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 2(b)(viii)(cc)](https://www.legislation.gov.uk/uksi/2023/914/regulation/2/b/viii); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/k))
+[^c-d9d27108852fdc9d99a389015cba0f73]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3) applied (with modifications) (5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force) by [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55), [s. 58Y](https://www.legislation.gov.uk/ukpga/1984/55/section/58Y) (as inserted by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42), [170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 2(b)(viii)(cc)](https://www.legislation.gov.uk/uksi/2023/914/regulation/2/b/viii); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/k))
 
-[^key-7598d334627f30da03d441211588b615]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3) applied (with modifications) (5.9.2023 for W., 6.4.2024 for E.) by [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55), [s. 58Y(6)](https://www.legislation.gov.uk/ukpga/1984/55/section/58Y/6) (as inserted by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42), [170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 2(b)(viii)(cc)](https://www.legislation.gov.uk/uksi/2023/914/regulation/2/b/viii/cc); [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3)))
+[^c-7598d334627f30da03d441211588b615]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3) applied (with modifications) (5.9.2023 for W., 6.4.2024 for E.) by [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55), [s. 58Y(6)](https://www.legislation.gov.uk/ukpga/1984/55/section/58Y/6) (as inserted by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42), [170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 2(b)(viii)(cc)](https://www.legislation.gov.uk/uksi/2023/914/regulation/2/b/viii/cc); [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3)))
 
-[^key-41cfbd3d550bd502d18b1a644da14d2b]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-41cfbd3d550bd502d18b1a644da14d2b]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-a7e0a90554be92ed637e011c7e164f7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/1) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-a7e0a90554be92ed637e011c7e164f7e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/1) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
 
-[^key-5e6776efa30a6b6df2bb36dc1b7c53b0]: Commencement: Sch. 3 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-5e6776efa30a6b6df2bb36dc1b7c53b0]: Commencement: Sch. 3 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-7d2fcfb0b9e9bf8168f2b3e4b1243ae7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/2) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-7d2fcfb0b9e9bf8168f2b3e4b1243ae7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/2) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
 
-[^key-b5b6e59b59b098564a129c73db8bbcf8]: Commencement: Sch. 3 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b5b6e59b59b098564a129c73db8bbcf8]: Commencement: Sch. 3 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-54b4525eaf3e67c8b99d85a62ec03a18]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/3) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-54b4525eaf3e67c8b99d85a62ec03a18]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/3) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
 
-[^key-9d60c8bbc0f1141cf73393e6daab6d39]: Commencement: Sch. 3 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-9d60c8bbc0f1141cf73393e6daab6d39]: Commencement: Sch. 3 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-de42a5f83b81f444191908e7d123519c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/4) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-de42a5f83b81f444191908e7d123519c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/4) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
 
-[^key-482ae94dd9957b7ab522bef8ccd3a9b6]: Commencement: Sch. 3 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-482ae94dd9957b7ab522bef8ccd3a9b6]: Commencement: Sch. 3 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-4b4d5ad8889e748598378c0b1cc6d823]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-4b4d5ad8889e748598378c0b1cc6d823]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
 
-[^key-4775faafa85ace242e272333cd16cab2]: Commencement: Sch. 3 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-4775faafa85ace242e272333cd16cab2]: Commencement: Sch. 3 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-5e676acac2e18e83b7d34072dd14889a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/6) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-5e676acac2e18e83b7d34072dd14889a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/3/paragraph/6) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)

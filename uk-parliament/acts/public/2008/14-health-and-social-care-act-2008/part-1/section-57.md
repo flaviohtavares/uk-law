@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Reviews of data, studies and research[^key-19694858398df685a56a241cb1992fe8]
+## 57. Reviews of data, studies and research[^c-19694858398df685a56a241cb1992fe8]
 
 *Extent: E+W*
 
-(1) The Commission may [^key-4a419c888a571a92614c211fd4bee293]... review—
+(1) The Commission may [^c-4a419c888a571a92614c211fd4bee293]... review—
 
 - (a) studies and research undertaken by others, or the quality of data obtained by others, in relation to the provision of NHS care or adult social services or the carrying on of regulated activities,
 - (b) the methods used in undertaking such studies and research or in collecting and analysing such data, and
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19694858398df685a56a241cb1992fe8]: Commencement: S. 57 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)
+[^c-19694858398df685a56a241cb1992fe8]: Commencement: S. 57 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)
 
-[^key-4a419c888a571a92614c211fd4bee293]: Textual amendment: Words in s. 57(1) omitted (1.10.2014) by virtue of [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 90(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/90/6), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)
+[^c-4a419c888a571a92614c211fd4bee293]: Textual amendment: Words in s. 57(1) omitted (1.10.2014) by virtue of [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 90(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/90/6), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/e)

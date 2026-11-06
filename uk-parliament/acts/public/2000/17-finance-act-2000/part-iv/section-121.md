@@ -43,7 +43,7 @@ summary: ''
 - “**company**” means any body corporate;
 - “**shares**” includes stock and the reference to shares in a company includes a reference to securities issued by a company.
 
-(8) For the purposes of this section, the question whether any person is connected with another shall be determined in accordance with the provisions of section 1122 of the Corporation Tax Act 2010[^key-970cd64524b688a338372cf9d3df37cf].
+(8) For the purposes of this section, the question whether any person is connected with another shall be determined in accordance with the provisions of section 1122 of the Corporation Tax Act 2010[^c-970cd64524b688a338372cf9d3df37cf].
 
 (9) This section shall be construed as one with the [^c14054671]Stamp Act 1891.
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^c14054661]: Marginal citation: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-970cd64524b688a338372cf9d3df37cf]: Textual amendment: Words in s. 121(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 313](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/313) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-970cd64524b688a338372cf9d3df37cf]: Textual amendment: Words in s. 121(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 313](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/313) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14054671]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).

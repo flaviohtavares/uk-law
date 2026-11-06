@@ -54,7 +54,7 @@ Provided that no such report shall be required in any case of retirement of a sh
 
 (5) It is hereby declared that, for the purposes of subsection (3) above, a transfer under subsection (4) above is not a removal from office.
 
-(6)[^key-0ae299d308865ad2836fee36096c5fc4] For the purposes of subsection (3) above, the appointment of a sheriff clerk as Clerk of the Sheriff Appeal Court under section 59 of the Courts Reform (Scotland) Act 2014 is not a removal from office.
+(6)[^c-0ae299d308865ad2836fee36096c5fc4] For the purposes of subsection (3) above, the appointment of a sheriff clerk as Clerk of the Sheriff Appeal Court under section 59 of the Courts Reform (Scotland) Act 2014 is not a removal from office.
 
 ### 2. Appointment of sheriff clerk and procurator fiscal deputes.
 
@@ -82,9 +82,9 @@ In the case of a vacancy in the office of sheriff clerk, sheriff clerk depute, p
 
 ### 8. Secretary of State may issue instructions, &c.
 
-(1)[^c585658] The Scottish Court Service[^c2083048] may from time to time issue to sheriff clerks[^key-af8c0154627553d86a70b68407722e96] such instructions as may be deemed necessary for the purpose of giving effect to the provisions of this Act.
+(1)[^c585658] The Scottish Court Service[^c2083048] may from time to time issue to sheriff clerks[^c-af8c0154627553d86a70b68407722e96] such instructions as may be deemed necessary for the purpose of giving effect to the provisions of this Act.
 
-(1A)[^key-03ebf47abad3fd9ef083a6a61a94cb0a] The Lord Advocate may from time to time issue to procurators fiscal such instructions as may be deemed necessary for the purpose of—
+(1A)[^c-03ebf47abad3fd9ef083a6a61a94cb0a] The Lord Advocate may from time to time issue to procurators fiscal such instructions as may be deemed necessary for the purpose of—
 
 - (a) giving effect to the provisions of this Act, or
 - (b) the efficient disposal of business in the sheriff courts.
@@ -167,7 +167,7 @@ Rule 85 of the First Schedule to the Sheriff Courts (Scotland) Act, 1907, shall 
 
 [^c2083032]: Textual amendment: Words in s. 1(4) substituted (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 63(4)](https://www.legislation.gov.uk/asp/2008/6/section/63/4), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/asp/2008/6/schedule/4/paragraph/2/2/b); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-0ae299d308865ad2836fee36096c5fc4]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/35/section/1/6) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/10); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-0ae299d308865ad2836fee36096c5fc4]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/35/section/1/6) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/10); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c585651]: Textual amendment: Word substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1971/58/schedule/1/paragraph/1)
 
@@ -203,9 +203,9 @@ Rule 85 of the First Schedule to the Sheriff Courts (Scotland) Act, 1907, shall 
 
 [^c2083048]: Textual amendment: Words in s. 8(1) substituted (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 63(4)](https://www.legislation.gov.uk/asp/2008/6/section/63/4), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [Sch. 4 para. 2(7)(a)](https://www.legislation.gov.uk/asp/2008/6/schedule/4/paragraph/2/7/a); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-af8c0154627553d86a70b68407722e96]: Textual amendment: Words in s. 8(1) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-af8c0154627553d86a70b68407722e96]: Textual amendment: Words in s. 8(1) substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-03ebf47abad3fd9ef083a6a61a94cb0a]: Textual amendment: S. 8(1A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-03ebf47abad3fd9ef083a6a61a94cb0a]: Textual amendment: S. 8(1A) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c2083050]: Textual amendment: Words in s. 8(2) substituted (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 63(4)](https://www.legislation.gov.uk/asp/2008/6/section/63/4), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [Sch. 4 para. 2(7)(b)(i)](https://www.legislation.gov.uk/asp/2008/6/schedule/4/paragraph/2/7/b/i); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 

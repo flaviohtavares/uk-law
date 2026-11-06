@@ -33,7 +33,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2003/1
 
 SOCIAL SECURITY
 
-The Social Fund Winter Fuel Payment (Amendment) (No.2) Regulations 2003 (revoked)[^key-5a2be234f8c317122983019bab77f573]
+The Social Fund Winter Fuel Payment (Amendment) (No.2) Regulations 2003 (revoked)[^c-5a2be234f8c317122983019bab77f573]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 3rd September 2003
 
-[^key-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5a2be234f8c317122983019bab77f573]
+## 1. Citation and commencement[^c-5a2be234f8c317122983019bab77f573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the Social Fund Winter Fuel Payment Regulations 2000[^key-5a2be234f8c317122983019bab77f573]
+## 2. Amendment of regulation 2 of the Social Fund Winter Fuel Payment Regulations 2000[^c-5a2be234f8c317122983019bab77f573]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a2be234f8c317122983019bab77f573]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a2be234f8c317122983019bab77f573]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2192) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-5a2be234f8c317122983019bab77f573]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2192) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. Supplementary provisions with respect to reorganisation schemes[^key-49f6cf569bcb5955c21686d0a202a251]
+## 9. Supplementary provisions with respect to reorganisation schemes[^c-49f6cf569bcb5955c21686d0a202a251]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49f6cf569bcb5955c21686d0a202a251]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2007/1/section/9) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-49f6cf569bcb5955c21686d0a202a251]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2007/1/section/9) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

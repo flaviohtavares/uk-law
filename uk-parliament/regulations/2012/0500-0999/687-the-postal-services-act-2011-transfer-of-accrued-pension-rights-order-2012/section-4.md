@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**4.**[^key-53b08865b4cad000f0a7d1a6165efdad][^key-7a137f04399af45d2d91fffb46d86652] Amendments to the RMSPS are subject to the restrictions set out in Schedule 2.
+**4.**[^c-53b08865b4cad000f0a7d1a6165efdad][^c-7a137f04399af45d2d91fffb46d86652] Amendments to the RMSPS are subject to the restrictions set out in Schedule 2.
 
 ## Annotations
 
-[^key-53b08865b4cad000f0a7d1a6165efdad]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-53b08865b4cad000f0a7d1a6165efdad]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-7a137f04399af45d2d91fffb46d86652]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/687/article/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-7a137f04399af45d2d91fffb46d86652]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/687/article/4) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

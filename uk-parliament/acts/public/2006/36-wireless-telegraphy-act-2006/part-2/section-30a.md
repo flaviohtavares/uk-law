@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. General duty of OFCOM to allow leasing or transfer[^key-3444ae69bb0387443d2909f99c9ad260]
+## 30A. General duty of OFCOM to allow leasing or transfer[^c-3444ae69bb0387443d2909f99c9ad260]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3444ae69bb0387443d2909f99c9ad260]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2006/36/section/30A) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/86)
+[^c-3444ae69bb0387443d2909f99c9ad260]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2006/36/section/30A) inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/86)

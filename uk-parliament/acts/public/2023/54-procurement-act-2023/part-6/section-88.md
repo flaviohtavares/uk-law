@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Regulated below-threshold contracts: implied payment terms[^key-e52300f190fa5a1f6881e15ae9f337a1][^key-aa70511e26e834b821e651af53466649]
+## 88. Regulated below-threshold contracts: implied payment terms[^c-e52300f190fa5a1f6881e15ae9f337a1][^c-aa70511e26e834b821e651af53466649]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e52300f190fa5a1f6881e15ae9f337a1]: Commencement: S. 88 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e52300f190fa5a1f6881e15ae9f337a1]: Commencement: S. 88 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-aa70511e26e834b821e651af53466649]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/54/section/88) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-aa70511e26e834b821e651af53466649]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/54/section/88) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

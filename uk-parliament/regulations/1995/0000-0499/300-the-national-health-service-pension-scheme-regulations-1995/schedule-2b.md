@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 2B — Independent Providers[^key-311b7bb0721be22e2064c0ed089df133][^key-10ec4a6f117540ed14db1e6e995638b4]
+## Schedule 2B — Independent Providers[^c-311b7bb0721be22e2064c0ed089df133][^c-10ec4a6f117540ed14db1e6e995638b4]
 
 *Extent: E+W+S*
 
@@ -120,7 +120,7 @@ An Independent Provider may only make an approval application in respect of a qu
   - (vi) the total number of employees who would satisfy the wholly or mainly condition and who are engaged in performing services pursuant to each such qualifying contract but who are otherwise not eligible to be members of this Section of the scheme;
   - (vii) the total estimated pay of those employees referred to in paragraph (vi).
 
-**16.**[^key-4b59d69ab50204d12d481560ac0fcf45] An approval application may nominate a date (“the nominated date”) from which approval by the Secretary of State (if granted) is to have effect.
+**16.**[^c-4b59d69ab50204d12d481560ac0fcf45] An approval application may nominate a date (“the nominated date”) from which approval by the Secretary of State (if granted) is to have effect.
 
 **17.** Where paragraph 16 applies and—
 
@@ -228,7 +228,7 @@ Where the employer contribution surcharge has been imposed on all or part of the
 
 An Independent Provider must pay an employer contribution surcharge to the Secretary of State within 1 month, beginning with the date of that notice, of being notified by the Secretary of State that it is so payable (“a contribution surcharge notice”): the Secretary of State may, by that notice, exceptionally require a contributions surcharge to be paid within a different period.
 
-### 41.[^key-c089f89721f04f9b4146d95e560abf4a]
+### 41.[^c-c089f89721f04f9b4146d95e560abf4a]
 
 If an Independent Provider fails to pay an employer contribution surcharge, that provider is liable to pay the supplementary charge and interest referred to in regulation T9 and interest is to continue to accrue on the late paid surcharge for so long as it remains unpaid and further supplementary charges may be levied in respect of it.
 
@@ -375,17 +375,17 @@ This is subject to paragraph 71.
 
 ## Annotations
 
-[^key-311b7bb0721be22e2064c0ed089df133]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2014/570/regulation/17) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-311b7bb0721be22e2064c0ed089df133]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2014/570/regulation/17) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-10ec4a6f117540ed14db1e6e995638b4]: Textual amendment: Word in [Sch. 2B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B) heading substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/96/regulation/16)
+[^c-10ec4a6f117540ed14db1e6e995638b4]: Textual amendment: Word in [Sch. 2B](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B) heading substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/96/regulation/16)
 
 [^M_F_67aa3392-6d6f-437d-d96a-d984f75aaeb4]: Textual amendment: [Sch. 2B para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B/paragraph/14/a/ii) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [9(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/9/2)
 
 [^M_F_71bb0f82-859a-4040-a46d-42323b06cb6a]: Textual amendment: Sch. 2B para. 14(a)(iii) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [9(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/9/3)
 
-[^key-4b59d69ab50204d12d481560ac0fcf45]: Textual amendment: [Sch. 2B paras. 16-18](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B/paragraph/16) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/19/2) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-4b59d69ab50204d12d481560ac0fcf45]: Textual amendment: [Sch. 2B paras. 16-18](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B/paragraph/16) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/19/2) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-c089f89721f04f9b4146d95e560abf4a]: Textual amendment: [Sch. 2B para. 41](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B/paragraph/41) substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/418/regulation/41)
+[^c-c089f89721f04f9b4146d95e560abf4a]: Textual amendment: [Sch. 2B para. 41](https://www.legislation.gov.uk/uksi/1995/300/schedule/2B/paragraph/41) substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/418/regulation/41)
 
 [^M_F_3f816996-964e-49fc-d14d-6ed12756695e]: Textual amendment: Words in Sch. 2B para. 42 substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [9(5)](https://www.legislation.gov.uk/uksi/2017/275/regulation/9/5)
 

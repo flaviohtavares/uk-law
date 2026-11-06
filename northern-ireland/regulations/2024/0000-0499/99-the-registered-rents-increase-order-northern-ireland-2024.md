@@ -44,11 +44,11 @@ The Department for Communities makes the following Order in exercise of the powe
 
 The Department has accepted the recommendation of the rent officer made under Article 55(4) of that Order that the rents referred to in Article 55(1) of that Order should be increased.
 
-## 1. Citation and commencement[^key-714609ebf41e1ee8a9ea83f0b0b6b310]
+## 1. Citation and commencement[^c-714609ebf41e1ee8a9ea83f0b0b6b310]
 
 This Order may be cited as the Registered Rents (Increase) Order (Northern Ireland) 2024 and shall come into operation on 3rd June 2024.
 
-## 2. Increase of registered rents[^key-bfaeb7ab7436161dc16dfaf7804961d7]
+## 2. Increase of registered rents[^c-bfaeb7ab7436161dc16dfaf7804961d7]
 
 (1) Subject to paragraph (2) the rents registered under Part IV of the Private Tenancies (Northern Ireland) Order 2006 during the period beginning on 2nd April 2007 and ending on 2nd June 2024 shall be increased by 7.7 percent.
 
@@ -72,6 +72,6 @@ A landlord must give a tenant at least 4 weeks’ notice of the increase in acco
 
 [^f00001]: Footnote: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459)
 
-[^key-714609ebf41e1ee8a9ea83f0b0b6b310]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1) in operation at 3.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1)
+[^c-714609ebf41e1ee8a9ea83f0b0b6b310]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1) in operation at 3.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1)
 
-[^key-bfaeb7ab7436161dc16dfaf7804961d7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/99/article/2) in operation at 3.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1)
+[^c-bfaeb7ab7436161dc16dfaf7804961d7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/99/article/2) in operation at 3.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/99/article/1)

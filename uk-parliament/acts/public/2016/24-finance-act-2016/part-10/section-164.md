@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Offshore tax errors etc: publishing details of deliberate tax defaulters[^key-ddda59e23638853725da8706a1e36f38]
+## 164. Offshore tax errors etc: publishing details of deliberate tax defaulters[^c-ddda59e23638853725da8706a1e36f38]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddda59e23638853725da8706a1e36f38]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2016/24/section/164) in force at 1.4.2017 for the purposes of the amendments made by that section by [S.I. 2017/261](https://www.legislation.gov.uk/uksi/2017/261), [reg. 2](https://www.legislation.gov.uk/uksi/2017/261/regulation/2)
+[^c-ddda59e23638853725da8706a1e36f38]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2016/24/section/164) in force at 1.4.2017 for the purposes of the amendments made by that section by [S.I. 2017/261](https://www.legislation.gov.uk/uksi/2017/261), [reg. 2](https://www.legislation.gov.uk/uksi/2017/261/regulation/2)

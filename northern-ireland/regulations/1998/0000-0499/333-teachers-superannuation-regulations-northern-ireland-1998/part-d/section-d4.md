@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## D4. Current period for which additional contributions have been paid[^key-49c205ca5867367462cffdac05222cd7]
+## D4. Current period for which additional contributions have been paid[^c-49c205ca5867367462cffdac05222cd7]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49c205ca5867367462cffdac05222cd7]: Commencement: Reg. D4 in operation at 2.11.1998, see reg. A1
+[^c-49c205ca5867367462cffdac05222cd7]: Commencement: Reg. D4 in operation at 2.11.1998, see reg. A1

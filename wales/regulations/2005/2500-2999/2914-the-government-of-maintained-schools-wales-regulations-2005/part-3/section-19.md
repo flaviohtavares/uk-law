@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Voluntary aided schools[^key-18c45b8eb59dbbb2d7071bff665d54c2]
+## 19. Voluntary aided schools[^c-18c45b8eb59dbbb2d7071bff665d54c2]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
     | *Category of governor* | *Secondary school-normal basis* | *Secondary school-option if less than 600 registered pupils* | *Primary school-normal basis* | *Primary school-option if less than 100 registered pupils* |
     | --- | --- | --- | --- | --- |
     | Parent Governors | 3 | 2 | 1 or 2 | 1 |
-    | Authority governors[^key-e0ebda2e02a74a879eb776f7bec31004] | 2 | 1 | 1 or 2 | 1 |
+    | Authority governors[^c-e0ebda2e02a74a879eb776f7bec31004] | 2 | 1 | 1 or 2 | 1 |
     | Teacher Governors | 2 | 2 | 1 | 1 |
     | Staff governors | 1 | 1 | 1 | 1 or 0 |
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18c45b8eb59dbbb2d7071bff665d54c2]: Commencement: Reg. 19 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-18c45b8eb59dbbb2d7071bff665d54c2]: Commencement: Reg. 19 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-e0ebda2e02a74a879eb776f7bec31004]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/wsi/2005/2914/regulation/19) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/9)
+[^c-e0ebda2e02a74a879eb776f7bec31004]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/wsi/2005/2914/regulation/19) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/9)

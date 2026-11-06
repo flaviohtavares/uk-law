@@ -22,11 +22,11 @@ summary: ''
 
 Article 3
 
-### 1. Time limits[^key-14efabccb6d308e573093f3a3be7cdac]
+### 1. Time limits[^c-14efabccb6d308e573093f3a3be7cdac]
 
 The authorised development must not commence after the expiry of five years from the date on which this Order comes into force.
 
-### 2. Detailed design approval[^key-33b30f39969b6b29ec86fad574ddd92e]
+### 2. Detailed design approval[^c-33b30f39969b6b29ec86fad574ddd92e]
 
 (1) No part of Work No. 1A(iv), Work No. 1B(iv), Work No. 1C, Work No. 1E, Work No.2, Work No.3, Work No. 4, Work No. 5 and Work No. 6 may commence until details of the layout, scale and external appearance for that Work No. have been submitted to and approved by the relevant planning authority.
 
@@ -38,7 +38,7 @@ The authorised development must not commence after the expiry of five years from
 
 (5) The authorised development must be carried out in accordance with the approved details.
 
-### 3. Parameters of authorised development[^key-1b3377b929f69178c297c627618d5776]
+### 3. Parameters of authorised development[^c-1b3377b929f69178c297c627618d5776]
 
 (1) The elements of the authorised development listed in column (1) of the table below (design parameters) must not exceed the maximum dimensions and levels and, where applicable, the minimum dimensions, set out in relation to that element in columns (3) to (7) of that table.
 
@@ -56,7 +56,7 @@ Table 1
 
 (2) The above surrounding ground level in respect of Work No. 1 must comply with the following parameters: a minimum level of one metre AOD and maximum level of three metres AOD.
 
-### 4. Pre–commencement biodiversity mitigation strategy[^key-7d4dd3d3fc3d11aba22fcf6020b46bbd]
+### 4. Pre–commencement biodiversity mitigation strategy[^c-7d4dd3d3fc3d11aba22fcf6020b46bbd]
 
 (1) No part of the pre–commencement works may be carried out until a pre–commencement biodiversity mitigation strategy has been submitted to and approved by the relevant planning authority.
 
@@ -64,7 +64,7 @@ Table 1
 
 (3) The pre–commencement biodiversity mitigation strategy must be implemented as approved under sub–paragraph (1).
 
-### 5. Biodiversity and landscape mitigation strategy[^key-84238d64ddcafaed295e754cc6974243]
+### 5. Biodiversity and landscape mitigation strategy[^c-84238d64ddcafaed295e754cc6974243]
 
 (1) No part of the authorised development may commence until a biodiversity and landscape mitigation strategy for that part has been submitted to and approved by the relevant planning authority. The biodiversity and landscape mitigation strategy must be substantially in accordance with the outline biodiversity and landscape mitigation strategy and include details of—
 
@@ -77,7 +77,7 @@ Table 1
 
 (2) The biodiversity and landscape mitigation strategy must be implemented as approved under sub-paragraph (1).
 
-### 6. Replacement planting for Work No. 9[^key-c83b8b787d741b16bda852ca21e657c3]
+### 6. Replacement planting for Work No. 9[^c-c83b8b787d741b16bda852ca21e657c3]
 
 (1) No part of Work No. 9 may commence until details—
 
@@ -90,7 +90,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) Any tree, shrub or hedgerow planted as part of the approved details that, within the 12 month maintenance period, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-### 7. Archaeology[^key-04e347644aeb97bf20330cdb48d16981]
+### 7. Archaeology[^c-04e347644aeb97bf20330cdb48d16981]
 
 (1) No part of Work Nos. 1, 2, 3, 4, 5 and 9 may commence until a written scheme of archaeological investigation for that part has been submitted to and approved by the relevant planning authority.
 
@@ -105,7 +105,7 @@ have been submitted to and approved by the relevant planning authority.
 - (a) in accordance with the approved scheme; and
 - (b) by a suitably qualified person or organisation.
 
-### 8. Highway access[^key-43c50dee987d94a6afb6d51ea70f0175]
+### 8. Highway access[^c-43c50dee987d94a6afb6d51ea70f0175]
 
 (1) No part of Work Nos. 6, 8, 9 and 10 may commence until written details of the siting, design and layout of any new permanent or temporary means of access to a highway in that part, or any alteration to an existing means of access to a highway in that part has been submitted to and approved by the relevant planning authority (in consultation with the relevant highway authority).
 
@@ -113,13 +113,13 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) The undertaker must not exercise the power in article 14(1) (permanent stopping up of streets) unless and until a plan showing the layout for the termination of the street (as specified in columns (1) and (2) of Schedule 6) has been submitted to and approved by the relevant planning authority, such plan to show the replacement turning head to facilitate a forward side–turn manoeuvre in forward and reverse gears by vehicles.
 
-### 9. Surface and foul water drainage[^key-a4414e2e1df0de3d9faa20e4dd858a82]
+### 9. Surface and foul water drainage[^c-a4414e2e1df0de3d9faa20e4dd858a82]
 
 (1) No part of Work Nos. 1, 2, 3, 4, 5, and 6 may commence until written details of the surface and foul water drainage strategy for that part have been submitted to and approved by the relevant planning authority. The written details submitted for approval must be substantially in accordance with the outline drainage strategy.
 
 (2) The surface and foul water drainage system must be constructed as approved under sub-paragraph (1).
 
-### 10. Ground conditions and ground stability[^key-42b951d8bb5a69a2a0d5a361c83b831e]
+### 10. Ground conditions and ground stability[^c-42b951d8bb5a69a2a0d5a361c83b831e]
 
 (1) No part of Work Nos. 1, 2, 3, 4, 5, 6, 7 and 8 may commence until an investigation and assessment report to identify ground conditions and ground stability has been submitted to and approved by the relevant planning authority.
 
@@ -129,7 +129,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (4) The authorised development must be carried out in accordance with the approved report referred to at sub-paragraph (1) and, where necessary, the approved plan referred to at sub-paragraph (3).
 
-### 11. Code of construction practice[^key-95c83ff8fe9f8891df6e28ad43bd8253]
+### 11. Code of construction practice[^c-95c83ff8fe9f8891df6e28ad43bd8253]
 
 (1) No part of the pre–commencement works may be carried out and no part of the authorised development may commence until a code of construction practice for that part has been submitted to and approved by the relevant planning authority. The code of construction practice submitted for approval must be substantially in accordance with the outline code of construction practice to the extent that it is applicable to that part and must include the following—
 
@@ -151,7 +151,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (2) All construction works must be undertaken in accordance with the approved code of construction practice.
 
-### 12. Construction Hours[^key-dc597ff6bc287d6a1155bbc4b1e4a1ca]
+### 12. Construction Hours[^c-dc597ff6bc287d6a1155bbc4b1e4a1ca]
 
 (1) Construction works relating to Work Nos. 1, 2, 3, 4, 5 and 6 must not take place on Sundays, bank holidays nor otherwise outside the hours of—
 
@@ -167,7 +167,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) In this requirement “**emergency**” means a situation where, if the relevant action is not taken, there will be adverse health, safety, security or environmental consequences that in the reasonable opinion of the undertaker would outweigh the adverse effects to the public (whether individual classes or generally as the case may be) of taking that action.
 
-### 13. Construction traffic management plan(s)[^key-b47b15a90ee1b52a748f46ba0341afe2]
+### 13. Construction traffic management plan(s)[^c-b47b15a90ee1b52a748f46ba0341afe2]
 
 (1) No part of the pre–commencement works may be carried out and no part of the authorised development may commence until a construction traffic management plan for that part has been submitted to and approved by the relevant planning authority (in consultation with the relevant highway authority and Transport for London). A construction traffic management plan(s) must be substantially in accordance with the outline construction traffic management plan and must include the following (as applicable for the part of the authorised development to which the construction traffic management plan relates)—
 
@@ -188,7 +188,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (4) The construction traffic management plan(s) and any updated construction traffic management plan(s) submitted following any review must be implemented as approved by the relevant planning authority.
 
-### 14. Heavy commercial vehicle movements delivering waste[^key-a6c37fd11e7117e963ea0440827ec844]
+### 14. Heavy commercial vehicle movements delivering waste[^c-a6c37fd11e7117e963ea0440827ec844]
 
 (1) Subject to sub-paragraph (4) the number of two-way vehicle movements made by heavy commercial vehicles delivering waste to Work Nos. 1A and 1B during commissioning and the operational period must not exceed a maximum of 75 two–way vehicle movements per day (75 vehicles in and 75 vehicles out).
 
@@ -214,13 +214,13 @@ have been submitted to and approved by the relevant planning authority.
 - “**jetty outage**” means circumstances caused by factors beyond the undertaker's control in which waste has not or could not be received at the jetty or ash containers have not been or could not be despatched from the jetty for a period in excess of four consecutive days; and
 - “**two–way vehicle movements**” means a movement to and a movement from the authorised development.
 
-### 15. Emission limits – Work No. 1B[^key-9f5cf1c2108bfcb4ba5b8fcb6931e699]
+### 15. Emission limits – Work No. 1B[^c-9f5cf1c2108bfcb4ba5b8fcb6931e699]
 
 (1) In the event that gas is utilised in the CHP engine, during the operational period of Work No. 1B, the average emission limit value for oxides of nitrogen (nitric oxide and nitrogen dioxide expressed as nitrogen dioxide) of the combustion emissions discharged through Work No. 1B must not exceed 125mg/Nm3 (expressed at 5% oxygen, dry flue gas, 273.15K).
 
 (2) In the event that gas is utilised in the CHP engine, during the operational period of Work No. 1B, the annual mass emissions for oxides of nitrogen (nitric oxide and nitrogen dioxide expressed as nitrogen dioxide) of the combustion emissions discharged through Work No. 1B must not exceed three tonnes per calendar year.
 
-### 16. Waste hierarchy scheme[^key-d23d16282cfb309ab7b21e1e7f21270f]
+### 16. Waste hierarchy scheme[^c-d23d16282cfb309ab7b21e1e7f21270f]
 
 (1) Prior to commissioning, the undertaker must submit to the relevant planning authority for approval a scheme, which sets out arrangements for maintenance of the waste hierarchy in priority order and which aims to minimise recyclable and reusable waste received at the authorised development during the commissioning and operational period of the authorised development (the “waste hierarchy scheme”).
 
@@ -235,19 +235,19 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) The waste hierarchy scheme must be implemented as approved under sub-paragraph (1).
 
-### 17. Operational worker travel plan[^key-43c6ab78d34fd3da3f167c57d37f8141]
+### 17. Operational worker travel plan[^c-43c6ab78d34fd3da3f167c57d37f8141]
 
 (1) Prior to commissioning of any part of Work Nos. 1, 2, 3, 4 and 5, an operational worker travel plan for those working at the authorised development must be submitted to and approved by the relevant planning authority (in consultation with the relevant highway authority and, for streets within the London Borough of Bexley, Transport for London). The operational worker travel plan must be in substantial accordance with the outline operational worker travel plan and set out measures to encourage staff working at Work Nos. 1, 2, 3, 4 and 5 to use sustainable modes of transport.
 
 (2) The operational worker travel plan must be implemented as approved under sub-paragraph (1).
 
-### 18. Operational lighting strategy[^key-f999e48c5bbc71a389f9eba59a783d1b]
+### 18. Operational lighting strategy[^c-f999e48c5bbc71a389f9eba59a783d1b]
 
 (1) No part of Work Nos. 1, 2, 3, 4, 5 and 6 may commence until a written scheme for the management and mitigation of operational external artificial light emissions for that part has been submitted to and approved by the relevant planning authority. The written scheme must be substantially in accordance with the outline lighting strategy.
 
 (2) The scheme for the management and mitigation of operational external artificial light emissions must be implemented as approved under sub-paragraph (1).
 
-### 19. Control of operational noise[^key-4469d4b77a48536fb932ebe809957023]
+### 19. Control of operational noise[^c-4469d4b77a48536fb932ebe809957023]
 
 (1) Prior to commissioning of any part of Work No. 1, a written noise monitoring scheme must be submitted to and approved by the relevant planning authority, such scheme must specify—
 
@@ -279,7 +279,7 @@ have been submitted to and approved by the relevant planning authority.
   - (i) the reasons for the emergency; and
   - (ii) how long it expects the emergency to last.
 
-### 20. River wall[^key-dc60c32b3916128b785359aa66f8e3e6]
+### 20. River wall[^c-dc60c32b3916128b785359aa66f8e3e6]
 
 (1) No part of Work No. 1 may commence until a river wall condition survey on those parts of the river wall within the order limits has been submitted to and approved by the Environment Agency (in consultation with the relevant planning authority).
 
@@ -287,13 +287,13 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) The remedial works required to bring the defence up to a good standard identified pursuant to sub–paragraph (2) must be carried out within two years of the date that the condition survey is approved under sub–paragraph (1).
 
-### 21. Community benefits[^key-6e9061058c3437fe0682cbbf4f6b6c13]
+### 21. Community benefits[^c-6e9061058c3437fe0682cbbf4f6b6c13]
 
 (1) No part of the authorised development may commence until an employment and skills plan has been submitted to and approved by the relevant planning authority.
 
 (2) The employment and skills plan must be implemented as approved by the relevant planning authority.
 
-### 22. Notice of start of commissioning and notice of date of final commissioning[^key-454bccf6258a2a76e0e929ba81e463c7]
+### 22. Notice of start of commissioning and notice of date of final commissioning[^c-454bccf6258a2a76e0e929ba81e463c7]
 
 (1) Where practicable, notice of the intended start of commissioning of Work No. 1A must be given to the relevant planning authority prior to such start and in any event within seven days from the date that commissioning is started.
 
@@ -301,7 +301,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) Within seven days of completing final commissioning of each of Work Nos. 1A and 1B, the undertaker must provide the relevant planning authority with notice of the date upon which such commissioning was duly completed.
 
-### 23. Phasing of construction and commissioning of Work No. 1[^key-b754edf8dccd099881d1a328e27e8ccf]
+### 23. Phasing of construction and commissioning of Work No. 1[^c-b754edf8dccd099881d1a328e27e8ccf]
 
 (1) Subject to sub–paragraph (2), no part of the authorised development may commence until a phasing programme setting out the commencement of construction and the anticipated start of commissioning and the anticipated date of final commissioning for each of Work Nos. 1A, 1B, 1C, 1D and (if applicable) 2(b) has been submitted to and approved by the relevant planning authority. The phasing programme must provide for the anticipated date of final commissioning of Work No. 1C and Work No. 1D as soon as reasonably practicable. The phasing programme must be implemented as approved by the relevant planning authority.
 
@@ -309,7 +309,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (3) The steam turbine incorporating at least 30 megawatts heat off–take for district heating must be completed at the anticipated date of final commissioning of Work No. 1A if constructed and installed as part of Work No.1 or if applicable, Work No. 2(b).
 
-### 24. Combined heat and power[^key-1f1719b09bb4a5f149452b187985737e]
+### 24. Combined heat and power[^c-1f1719b09bb4a5f149452b187985737e]
 
 (1) Work No. 1A (and, if applicable, Work No. 2(b)) and Work No. 3 must be constructed to produce combined heat and power through the provision of steam pass–outs and the preservation of space for the future provision of water pressurisation, heating and pumping systems. Prior to the date of final commissioning of Work No. 1A the undertaker must submit to the relevant planning authority for its approval a report (“the CHP review”) updating the CHP statement.
 
@@ -340,7 +340,7 @@ have been submitted to and approved by the relevant planning authority.
 
 (8) In the event that the export of heat from the authorised development is provided pursuant to any CHP review, the undertaker is only required to carry out and submit any further CHP reviews every five years.
 
-### 25. Use of compost material and gas from Work No. 1B[^key-31e3f6eb2332948613966fc36f4d7c75]
+### 25. Use of compost material and gas from Work No. 1B[^c-31e3f6eb2332948613966fc36f4d7c75]
 
 (1) Prior to the date of final commissioning, the undertaker must submit to the relevant planning authority for its approval a report (“the Anaerobic Digestion review”) on the potential use of the compost material and gas produced from Work No. 1B.
 
@@ -364,31 +364,31 @@ have been submitted to and approved by the relevant planning authority.
 
 (9) Gas produced from Work No. 1B must be used for electricity generation, heating or as a vehicle fuel (save in the case of emergency) where it meets the necessary quality standards and where a technically and commercially viable market exists.
 
-### 26. Decommissioning[^key-d956f65c95bbfde821252002a7e59e31]
+### 26. Decommissioning[^c-d956f65c95bbfde821252002a7e59e31]
 
 (1) Within 24 months of the permanent cessation of the operation of Work No. 1, details of a scheme for the restoration and aftercare of the land for Work Nos. 1. 2, 3, 4 and 5 must be submitted to and approved by the relevant planning authority. The scheme must include details of structures and buildings to be demolished or retained, details of the means of removal of materials following demolition, phasing of demolition and removal, details of restoration works and phasing thereof.
 
 (2) The scheme as approved under sub-paragraph (1) must be implemented in accordance with the phasing set out therein.
 
-### 27. Amendments to approved details[^key-de3d773de80db5ec7328f550ef9bad42]
+### 27. Amendments to approved details[^c-de3d773de80db5ec7328f550ef9bad42]
 
 (1) With respect to the documents certified under article 40 (certification of plans etc) the parameters specified in the table in requirement 3 and any other plans, details or schemes which require approval by the relevant planning authority pursuant to any requirement (together “Approved Documents, Plans, Parameters, Details or Schemes”), the undertaker may submit to the relevant planning authority for approval any amendments to the Approved Documents, Plans, Parameters, Details or Schemes and following any such approval by the relevant planning authority the Approved Documents, Plans, Parameters, Details or Schemes are to be taken to include the amendments approved by the relevant planning authority pursuant to this paragraph.
 
 (2) Approval under sub-paragraph (1) for the amendments to Approved Documents, Plans, Parameters, Details or Schemes must not be given except where it has been demonstrated to the satisfaction of the relevant planning authority that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### 28. Flood Risk Activity Permit Area[^key-a1dfae69afa6194daac01a71b21a74a5]
+### 28. Flood Risk Activity Permit Area[^c-a1dfae69afa6194daac01a71b21a74a5]
 
 No building will be erected within the area defined by the red dotted line annotated as ‘16m FRAP Line’ on the FRAPA drawings and no material will be stored, within the area defined by the red dotted line annotated as ‘16m FRAP Line’ on the FRAPA drawings, which could create a risk of  damage to the integrity of the flood defence structure within this area.
 
-### 29. Finished Floor Levels[^key-5de1c5c55754950564da549abb69b111]
+### 29. Finished Floor Levels[^c-5de1c5c55754950564da549abb69b111]
 
 The finished floor levels of Work Nos 1, 2, 3, 4, 5 and 6 must be set at a minimum of 2.97 metres AOD.
 
-### 30. Metropolitan Open Land[^key-11e3fe4233953ebbed79ba5eb5313bed]
+### 30. Metropolitan Open Land[^c-11e3fe4233953ebbed79ba5eb5313bed]
 
 No building will be erected on any part of the land hatched orange on the MOL plan.
 
-### 31. Delivery and Servicing Plan[^key-08bfed4753c85ad40a84c0cef727a4cf]
+### 31. Delivery and Servicing Plan[^c-08bfed4753c85ad40a84c0cef727a4cf]
 
 (1) No part of the authorised development may be commissioned until a delivery and servicing plan (relating to all deliveries to the authorised development other than for deliveries within requirement 14 (Heavy commercial vehicle movements delivering waste)) has been submitted to and approved by the relevant planning authority. The delivery and servicing plan must include the following—
 
@@ -397,84 +397,84 @@ No building will be erected on any part of the land hatched orange on the MOL pl
 
 (2) The delivery and servicing plan must be implemented as approved under sub-paragraph (1).
 
-### 32. Tonnage cap[^key-00e1faec3bebb316e6e133840bc0d3a6]
+### 32. Tonnage cap[^c-00e1faec3bebb316e6e133840bc0d3a6]
 
 (1) The total amount of waste to be received at Work No. 1A must not exceed 805,920 tonnes per calendar year.
 
 (2) The total amount of waste to be received at Work No. 1B must not exceed 40,000 tonnes per calendar year.
 
-### 33. Notification from the undertaker[^key-7f50d1dde75908bc5d3ea148b54265ea]
+### 33. Notification from the undertaker[^c-7f50d1dde75908bc5d3ea148b54265ea]
 
-Prior to the pre–commencement works, Cory Environmental Holdings Limited or a person to whom the benefit of this Order has been transferred under article 9 (consent to transfer benefit of the Order) (as applicable) must notify the relevant planning authority that they are the undertaker for the purposes of this Order and, as the undertaker, has the benefit of the provisions of this Order[^key-ee0969d5ebea38cfdf6545d9301509a8] pursuant to article 8 as well as the liabilities and obligations under this Order.
+Prior to the pre–commencement works, Cory Environmental Holdings Limited or a person to whom the benefit of this Order has been transferred under article 9 (consent to transfer benefit of the Order) (as applicable) must notify the relevant planning authority that they are the undertaker for the purposes of this Order and, as the undertaker, has the benefit of the provisions of this Order[^c-ee0969d5ebea38cfdf6545d9301509a8] pursuant to article 8 as well as the liabilities and obligations under this Order.
 
 ## Annotations
 
-[^key-14efabccb6d308e573093f3a3be7cdac]: Commencement: Sch. 2 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-14efabccb6d308e573093f3a3be7cdac]: Commencement: Sch. 2 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-33b30f39969b6b29ec86fad574ddd92e]: Commencement: Sch. 2 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-33b30f39969b6b29ec86fad574ddd92e]: Commencement: Sch. 2 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-1b3377b929f69178c297c627618d5776]: Commencement: Sch. 2 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-1b3377b929f69178c297c627618d5776]: Commencement: Sch. 2 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-7d4dd3d3fc3d11aba22fcf6020b46bbd]: Commencement: Sch. 2 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-7d4dd3d3fc3d11aba22fcf6020b46bbd]: Commencement: Sch. 2 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-84238d64ddcafaed295e754cc6974243]: Commencement: Sch. 2 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-84238d64ddcafaed295e754cc6974243]: Commencement: Sch. 2 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-c83b8b787d741b16bda852ca21e657c3]: Commencement: Sch. 2 para. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-c83b8b787d741b16bda852ca21e657c3]: Commencement: Sch. 2 para. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-04e347644aeb97bf20330cdb48d16981]: Commencement: Sch. 2 para. 7 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-04e347644aeb97bf20330cdb48d16981]: Commencement: Sch. 2 para. 7 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-43c50dee987d94a6afb6d51ea70f0175]: Commencement: Sch. 2 para. 8 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-43c50dee987d94a6afb6d51ea70f0175]: Commencement: Sch. 2 para. 8 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-a4414e2e1df0de3d9faa20e4dd858a82]: Commencement: Sch. 2 para. 9 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-a4414e2e1df0de3d9faa20e4dd858a82]: Commencement: Sch. 2 para. 9 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-42b951d8bb5a69a2a0d5a361c83b831e]: Commencement: Sch. 2 para. 10 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-42b951d8bb5a69a2a0d5a361c83b831e]: Commencement: Sch. 2 para. 10 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-95c83ff8fe9f8891df6e28ad43bd8253]: Commencement: Sch. 2 para. 11 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-95c83ff8fe9f8891df6e28ad43bd8253]: Commencement: Sch. 2 para. 11 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-dc597ff6bc287d6a1155bbc4b1e4a1ca]: Commencement: Sch. 2 para. 12 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-dc597ff6bc287d6a1155bbc4b1e4a1ca]: Commencement: Sch. 2 para. 12 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-b47b15a90ee1b52a748f46ba0341afe2]: Commencement: Sch. 2 para. 13 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-b47b15a90ee1b52a748f46ba0341afe2]: Commencement: Sch. 2 para. 13 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-a6c37fd11e7117e963ea0440827ec844]: Commencement: Sch. 2 para. 14 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-a6c37fd11e7117e963ea0440827ec844]: Commencement: Sch. 2 para. 14 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052741]: Marginal citation: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27), amended by the Road Traffic (Consequential Provisions) act 1988 (c.54), section 4, Schedule 3, paragraph 25(8).
 
-[^key-9f5cf1c2108bfcb4ba5b8fcb6931e699]: Commencement: Sch. 2 para. 15 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-9f5cf1c2108bfcb4ba5b8fcb6931e699]: Commencement: Sch. 2 para. 15 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-d23d16282cfb309ab7b21e1e7f21270f]: Commencement: Sch. 2 para. 16 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-d23d16282cfb309ab7b21e1e7f21270f]: Commencement: Sch. 2 para. 16 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-43c6ab78d34fd3da3f167c57d37f8141]: Commencement: Sch. 2 para. 17 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-43c6ab78d34fd3da3f167c57d37f8141]: Commencement: Sch. 2 para. 17 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-f999e48c5bbc71a389f9eba59a783d1b]: Commencement: Sch. 2 para. 18 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-f999e48c5bbc71a389f9eba59a783d1b]: Commencement: Sch. 2 para. 18 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-4469d4b77a48536fb932ebe809957023]: Commencement: Sch. 2 para. 19 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-4469d4b77a48536fb932ebe809957023]: Commencement: Sch. 2 para. 19 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-dc60c32b3916128b785359aa66f8e3e6]: Commencement: Sch. 2 para. 20 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-dc60c32b3916128b785359aa66f8e3e6]: Commencement: Sch. 2 para. 20 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-6e9061058c3437fe0682cbbf4f6b6c13]: Commencement: Sch. 2 para. 21 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-6e9061058c3437fe0682cbbf4f6b6c13]: Commencement: Sch. 2 para. 21 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-454bccf6258a2a76e0e929ba81e463c7]: Commencement: Sch. 2 para. 22 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-454bccf6258a2a76e0e929ba81e463c7]: Commencement: Sch. 2 para. 22 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-b754edf8dccd099881d1a328e27e8ccf]: Commencement: Sch. 2 para. 23 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-b754edf8dccd099881d1a328e27e8ccf]: Commencement: Sch. 2 para. 23 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-1f1719b09bb4a5f149452b187985737e]: Commencement: Sch. 2 para. 24 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-1f1719b09bb4a5f149452b187985737e]: Commencement: Sch. 2 para. 24 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-31e3f6eb2332948613966fc36f4d7c75]: Commencement: Sch. 2 para. 25 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-31e3f6eb2332948613966fc36f4d7c75]: Commencement: Sch. 2 para. 25 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-d956f65c95bbfde821252002a7e59e31]: Commencement: Sch. 2 para. 26 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-d956f65c95bbfde821252002a7e59e31]: Commencement: Sch. 2 para. 26 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-de3d773de80db5ec7328f550ef9bad42]: Commencement: Sch. 2 para. 27 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-de3d773de80db5ec7328f550ef9bad42]: Commencement: Sch. 2 para. 27 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-a1dfae69afa6194daac01a71b21a74a5]: Commencement: Sch. 2 para. 28 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-a1dfae69afa6194daac01a71b21a74a5]: Commencement: Sch. 2 para. 28 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-5de1c5c55754950564da549abb69b111]: Commencement: Sch. 2 para. 29 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-5de1c5c55754950564da549abb69b111]: Commencement: Sch. 2 para. 29 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-11e3fe4233953ebbed79ba5eb5313bed]: Commencement: Sch. 2 para. 30 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-11e3fe4233953ebbed79ba5eb5313bed]: Commencement: Sch. 2 para. 30 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-08bfed4753c85ad40a84c0cef727a4cf]: Commencement: Sch. 2 para. 31 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-08bfed4753c85ad40a84c0cef727a4cf]: Commencement: Sch. 2 para. 31 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-00e1faec3bebb316e6e133840bc0d3a6]: Commencement: Sch. 2 para. 32 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-00e1faec3bebb316e6e133840bc0d3a6]: Commencement: Sch. 2 para. 32 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-7f50d1dde75908bc5d3ea148b54265ea]: Commencement: Sch. 2 para. 33 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-7f50d1dde75908bc5d3ea148b54265ea]: Commencement: Sch. 2 para. 33 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-ee0969d5ebea38cfdf6545d9301509a8]: Textual amendment: Words in [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/419/schedule/2/paragraph/33) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-ee0969d5ebea38cfdf6545d9301509a8]: Textual amendment: Words in [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/419/schedule/2/paragraph/33) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)

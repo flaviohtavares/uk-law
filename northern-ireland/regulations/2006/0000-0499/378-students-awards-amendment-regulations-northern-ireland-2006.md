@@ -39,42 +39,42 @@ Coming into operation in accordance with regulation 2
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Articles 50(1) and (2) and 134(1)[^f00002] of the Education and Libraries (Northern Ireland) Order 1986[^f00003] and now vested in it[^f00004] makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ac9fc41fc623443b569c84e94f628175][^key-ac9fc41fc623443b569c84e94f628175]
+## 1. Citation, commencement and interpretation[^c-ac9fc41fc623443b569c84e94f628175][^c-ac9fc41fc623443b569c84e94f628175]
 
 These Regulations may be cited as the Students Awards (Amendment) Regulations (Northern Ireland) 2006.
 
-**2.**[^key-13a686f3b5fda7894bd9955b7417355d] (1) Except as provided for by paragraph (2) these Regulations shall come into operation on 30<sup>th</sup> April 2006.
+**2.**[^c-13a686f3b5fda7894bd9955b7417355d] (1) Except as provided for by paragraph (2) these Regulations shall come into operation on 30<sup>th</sup> April 2006.
 
 (2) Regulations 4(b), (e), (g) and (h), 6(8) to (10), 11 and 14 shall come into operation on 1st September 2006.
 
-**3.**[^key-22d7a1f9a2909414ee2a32a05387996d] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00005].
+**3.**[^c-22d7a1f9a2909414ee2a32a05387996d] In these Regulations, “the principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00005].
 
-## 4. Revocations[^key-293bcde161326bbcabcbb1e89d31a22b][^key-2234124e988ef09359a886d7c9b12eda][^key-293bcde161326bbcabcbb1e89d31a22b]
+## 4. Revocations[^c-293bcde161326bbcabcbb1e89d31a22b][^c-2234124e988ef09359a886d7c9b12eda][^c-293bcde161326bbcabcbb1e89d31a22b]
 
 The following provisions of the Students Awards (Amendment) Regulations (Northern Ireland) 2005[^f00006] are revoked—
 
-- (a)[^key-293bcde161326bbcabcbb1e89d31a22b] regulation 5(3) and (5);
-- (b)[^key-2234124e988ef09359a886d7c9b12eda] regulation 5(7) to (9);
-- (c)[^key-293bcde161326bbcabcbb1e89d31a22b] regulation 6;
-- (d)[^key-293bcde161326bbcabcbb1e89d31a22b] regulation 7;
-- (e)[^key-2234124e988ef09359a886d7c9b12eda] regulation 10;
-- (f)[^key-293bcde161326bbcabcbb1e89d31a22b] regulation 12(2)(b);
-- (g)[^key-2234124e988ef09359a886d7c9b12eda] regulation 15; and
-- (h)[^key-2234124e988ef09359a886d7c9b12eda] Schedule 1.
+- (a)[^c-293bcde161326bbcabcbb1e89d31a22b] regulation 5(3) and (5);
+- (b)[^c-2234124e988ef09359a886d7c9b12eda] regulation 5(7) to (9);
+- (c)[^c-293bcde161326bbcabcbb1e89d31a22b] regulation 6;
+- (d)[^c-293bcde161326bbcabcbb1e89d31a22b] regulation 7;
+- (e)[^c-2234124e988ef09359a886d7c9b12eda] regulation 10;
+- (f)[^c-293bcde161326bbcabcbb1e89d31a22b] regulation 12(2)(b);
+- (g)[^c-2234124e988ef09359a886d7c9b12eda] regulation 15; and
+- (h)[^c-2234124e988ef09359a886d7c9b12eda] Schedule 1.
 
-## 5. Amendment of the principal Regulations[^key-f99ef0af17a73e90862b09181c6cdf4f][^key-f99ef0af17a73e90862b09181c6cdf4f]
+## 5. Amendment of the principal Regulations[^c-f99ef0af17a73e90862b09181c6cdf4f][^c-f99ef0af17a73e90862b09181c6cdf4f]
 
 The principal Regulations shall be amended as provided by regulations 6 to 15.
 
-**6.**[^key-1079c8ed9ed21279ce6c37ec63d1076f][^key-e6a162f6136cc3b7ee2fc4aff18b942f] (1)[^key-1079c8ed9ed21279ce6c37ec63d1076f] Regulation 2 (Interpretation) shall be amended as provided by paragraphs (2) to (11).
+**6.**[^c-1079c8ed9ed21279ce6c37ec63d1076f][^c-e6a162f6136cc3b7ee2fc4aff18b942f] (1)[^c-1079c8ed9ed21279ce6c37ec63d1076f] Regulation 2 (Interpretation) shall be amended as provided by paragraphs (2) to (11).
 
-(2)[^key-1079c8ed9ed21279ce6c37ec63d1076f] For the definition of “category 2 European Student” there shall be substituted—
+(2)[^c-1079c8ed9ed21279ce6c37ec63d1076f] For the definition of “category 2 European Student” there shall be substituted—
 
 > - “**category 2 European student**” means a person who falls within paragraph 10 of Part 2 of Schedule 10;
 
 .
 
-(3)[^key-1079c8ed9ed21279ce6c37ec63d1076f] After the definition of “Certificate in Education” there shall be inserted—
+(3)[^c-1079c8ed9ed21279ce6c37ec63d1076f] After the definition of “Certificate in Education” there shall be inserted—
 
 > - “**Community Right student**” means—
 >   - (a) a person who falls within paragraph 6 of Part 2 of Schedule 10 by virtue of being—
@@ -88,7 +88,7 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 .
 
-(4)[^key-1079c8ed9ed21279ce6c37ec63d1076f] After the definition of “dependent” there shall be inserted—
+(4)[^c-1079c8ed9ed21279ce6c37ec63d1076f] After the definition of “dependent” there shall be inserted—
 
 > - “**Directive student**” means—
 >   - (a) a person who falls within paragraph 3 of Part 2 of Schedule 10; or
@@ -96,11 +96,11 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 .
 
-(5)[^key-1079c8ed9ed21279ce6c37ec63d1076f] The definition of “EEA migrant worker” shall be omitted.
+(5)[^c-1079c8ed9ed21279ce6c37ec63d1076f] The definition of “EEA migrant worker” shall be omitted.
 
-(6)[^key-1079c8ed9ed21279ce6c37ec63d1076f] In the definition of “European Economic Area” the words from “provided that any area” to the end of the definition shall be omitted.
+(6)[^c-1079c8ed9ed21279ce6c37ec63d1076f] In the definition of “European Economic Area” the words from “provided that any area” to the end of the definition shall be omitted.
 
-(7)[^key-1079c8ed9ed21279ce6c37ec63d1076f] For the definition of “European student” there shall be substituted—
+(7)[^c-1079c8ed9ed21279ce6c37ec63d1076f] For the definition of “European student” there shall be substituted—
 
 > - “**European student**” means a person who falls within paragraph 9 of Part 2 of Schedule 10 and not within any other paragraph of that Part of Schedule 10;
 
@@ -120,9 +120,9 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 .
 
-(11)[^key-1079c8ed9ed21279ce6c37ec63d1076f] In the definition of “refugee” the words from “and any reference” to the end of the definition shall be omitted.
+(11)[^c-1079c8ed9ed21279ce6c37ec63d1076f] In the definition of “refugee” the words from “and any reference” to the end of the definition shall be omitted.
 
-**7.**[^key-619344763ec5fc1e3c7b954f2d9285f0] (1) Regulation 6 (Ordinarily resident) shall be amended as provided by paragraphs (2) and (3).
+**7.**[^c-619344763ec5fc1e3c7b954f2d9285f0] (1) Regulation 6 (Ordinarily resident) shall be amended as provided by paragraphs (2) and (3).
 
 (2) Paragraph (1) shall be omitted
 
@@ -133,9 +133,9 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 > - (a) that person does not fall within one of the categories in Part 2 of Schedule 10; or
 > - (b) that person has shown himself by his conduct to be unfitted to receive an award.
 
-**8.**[^key-f1bf790e9672f34936b7110b65ab5eeb] In regulation 9 (Terms and Conditions) in paragraph (2)(a) and (b) for “2004” in each place where it occurs, there shall be substituted “2005”.
+**8.**[^c-f1bf790e9672f34936b7110b65ab5eeb] In regulation 9 (Terms and Conditions) in paragraph (2)(a) and (b) for “2004” in each place where it occurs, there shall be substituted “2005”.
 
-**9.**[^key-25bcbe0841a41d988af05104fb0680bd] (1) Regulation 16 (Reduced entitlement to payments) shall be amended as provided by paragraphs (2) and (3).
+**9.**[^c-25bcbe0841a41d988af05104fb0680bd] (1) Regulation 16 (Reduced entitlement to payments) shall be amended as provided by paragraphs (2) and (3).
 
 (2) For paragraph (5) there shall be substituted—
 
@@ -163,7 +163,7 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 .
 
-**10.**[^key-2a8d1e6ba720610c464adeb955a78761] (1) Schedule 1 (Persons) shall be amended as provided by paragraphs (2) and (3).
+**10.**[^c-2a8d1e6ba720610c464adeb955a78761] (1) Schedule 1 (Persons) shall be amended as provided by paragraphs (2) and (3).
 
 (2) For sub-paragraph (b) of paragraph 1 of Part I there shall be substituted—
 
@@ -171,7 +171,7 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 (3) In paragraph 2 of Part II sub-paragraphs (a) and (b) shall be omitted and sub-paragraphs (c) and (d) shall be re-numbered accordingly.
 
-**11.**[^key-d2d2f2e5430bcd33b6c74c2f62de5ec2] (1) In Schedule 3 (Terms and Conditions), after paragraph 2(2)(dd) there shall be inserted—
+**11.**[^c-d2d2f2e5430bcd33b6c74c2f62de5ec2] (1) In Schedule 3 (Terms and Conditions), after paragraph 2(2)(dd) there shall be inserted—
 
 > - (de) in the case of a Directive student who—
 >   - (i) started a designated course on or before 30th April 2006; and
@@ -193,19 +193,19 @@ The principal Regulations shall be amended as provided by regulations 6 to 15.
 
 .
 
-**12.**[^key-25fc55ff747aa3f1196d049e4441323e] In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
+**12.**[^c-25fc55ff747aa3f1196d049e4441323e] In Schedule 5 (Fees), for paragraph (iv) there shall be substituted—
 
 > - (iv) in the case of a course at the University of Buckingham, £2,840 payable in four equal instalments of £710; in the case of a course at the Guildhall School of Music, £4,355 payable in three instalments of £1,452, £1,452 and £1,451; and in the case of a course at Heythrop College, £2,415 payable in three equal instalments of £715;
 
 .
 
-**13.**[^key-2593bd81c3f854847dec6f7ae7a117ac] (1) Schedule 7 (Resources) shall be amended as provided by paragraphs (2) and (3).
+**13.**[^c-2593bd81c3f854847dec6f7ae7a117ac] (1) Schedule 7 (Resources) shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph 1(3) of Part 1 for “or a category 2 European student”, there shall be substituted “, a category 2 European student, a Community right student or a Directive student”.
 
 (3) In paragraph 4(4) of Part II for “the Education (Student Support) Regulations (Northern Ireland) 2005”, there shall be substituted “the Education (Student Support) Regulations (Northern Ireland) 2006[^f00007]”.
 
-**14.**[^key-dc488ecea65ace2e97c1c0040ab50436] After Schedule 9, there shall be added—
+**14.**[^c-dc488ecea65ace2e97c1c0040ab50436] After Schedule 9, there shall be added—
 
 > **SCHEDULE 10 — ELIGIBLE STUDENTS**
 >
@@ -395,7 +395,7 @@ David McAuley
 
 A senior officer of the Department for Employment and Learning
 
-## SCHEDULE — NEW PAYMENT RATES[^key-06893c7f4314339dac89f4005f923e21]
+## SCHEDULE — NEW PAYMENT RATES[^c-06893c7f4314339dac89f4005f923e21]
 
 **No longer in force.**
 
@@ -431,43 +431,43 @@ These Regulations also revoke in part the Students Awards (Amendment) Regulation
 
 [^f00004]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 5(b) and Schedule 3 Part II
 
-[^key-ac9fc41fc623443b569c84e94f628175]: Commencement: Reg. 1 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-ac9fc41fc623443b569c84e94f628175]: Commencement: Reg. 1 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-13a686f3b5fda7894bd9955b7417355d]: Commencement: Reg. 2 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-13a686f3b5fda7894bd9955b7417355d]: Commencement: Reg. 2 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-22d7a1f9a2909414ee2a32a05387996d]: Commencement: Reg. 3 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-22d7a1f9a2909414ee2a32a05387996d]: Commencement: Reg. 3 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
 [^f00005]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459) as amended by [S.R. 2004 No. 395](https://www.legislation.gov.uk/nisr/2004/395) and [S.R. 2005 No. 466](https://www.legislation.gov.uk/nisr/2005/466)
 
-[^key-293bcde161326bbcabcbb1e89d31a22b]: Commencement: Reg. 4(a)(c)(d)(f) in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-293bcde161326bbcabcbb1e89d31a22b]: Commencement: Reg. 4(a)(c)(d)(f) in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-2234124e988ef09359a886d7c9b12eda]: Commencement: Reg. 4(b)(e)(g)(h) in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
+[^c-2234124e988ef09359a886d7c9b12eda]: Commencement: Reg. 4(b)(e)(g)(h) in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
 
 [^f00006]: Footnote: [S.R. 2005 No. 466](https://www.legislation.gov.uk/nisr/2005/466)
 
-[^key-f99ef0af17a73e90862b09181c6cdf4f]: Commencement: Reg. 5 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-f99ef0af17a73e90862b09181c6cdf4f]: Commencement: Reg. 5 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-1079c8ed9ed21279ce6c37ec63d1076f]: Commencement: Reg. 6(1)-(7)(11) in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-1079c8ed9ed21279ce6c37ec63d1076f]: Commencement: Reg. 6(1)-(7)(11) in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-e6a162f6136cc3b7ee2fc4aff18b942f]: Commencement: Reg. 6(8)(9)(10) in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
+[^c-e6a162f6136cc3b7ee2fc4aff18b942f]: Commencement: Reg. 6(8)(9)(10) in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
 
-[^key-619344763ec5fc1e3c7b954f2d9285f0]: Commencement: Reg. 7 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-619344763ec5fc1e3c7b954f2d9285f0]: Commencement: Reg. 7 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-f1bf790e9672f34936b7110b65ab5eeb]: Commencement: Reg. 8 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-f1bf790e9672f34936b7110b65ab5eeb]: Commencement: Reg. 8 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-25bcbe0841a41d988af05104fb0680bd]: Commencement: Reg. 9 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-25bcbe0841a41d988af05104fb0680bd]: Commencement: Reg. 9 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-2a8d1e6ba720610c464adeb955a78761]: Commencement: Reg. 10 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-2a8d1e6ba720610c464adeb955a78761]: Commencement: Reg. 10 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-d2d2f2e5430bcd33b6c74c2f62de5ec2]: Commencement: Reg. 11 in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
+[^c-d2d2f2e5430bcd33b6c74c2f62de5ec2]: Commencement: Reg. 11 in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
 
-[^key-25fc55ff747aa3f1196d049e4441323e]: Commencement: Reg. 12 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-25fc55ff747aa3f1196d049e4441323e]: Commencement: Reg. 12 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
-[^key-2593bd81c3f854847dec6f7ae7a117ac]: Commencement: Reg. 13 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
+[^c-2593bd81c3f854847dec6f7ae7a117ac]: Commencement: Reg. 13 in operation at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1)
 
 [^f00007]: Footnote: S.R. 2006 No.
 
-[^key-dc488ecea65ace2e97c1c0040ab50436]: Commencement: Reg. 14 in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
+[^c-dc488ecea65ace2e97c1c0040ab50436]: Commencement: Reg. 14 in operation at 1.9.2006, see [reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2)
 
 [^f00008]: Footnote: OJ L158, 30.04.2004, p77-123.
 
@@ -477,4 +477,4 @@ These Regulations also revoke in part the Students Awards (Amendment) Regulation
 
 [^M_F_2d4c7161-081c-4091-c511-0d72d64301fd]: Textual amendment: Reg. 15 revoked (1.9.2007) by [Students Awards (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/336)](https://www.legislation.gov.uk/nisr/2007/336), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2), [4(a)](https://www.legislation.gov.uk/nisr/2007/336/regulation/4/a)
 
-[^key-06893c7f4314339dac89f4005f923e21]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2006/378/schedule) revoked (1.9.2007) by [Students Awards (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/336)](https://www.legislation.gov.uk/nisr/2007/336), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2), [4(b)](https://www.legislation.gov.uk/nisr/2007/336/regulation/4/b)
+[^c-06893c7f4314339dac89f4005f923e21]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2006/378/schedule) revoked (1.9.2007) by [Students Awards (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/336)](https://www.legislation.gov.uk/nisr/2007/336), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2007/336/regulation/2/2), [4(b)](https://www.legislation.gov.uk/nisr/2007/336/regulation/4/b)

@@ -34,7 +34,7 @@ Income Tax
 
 Corporation Tax
 
-The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) Order 2016 (revoked)[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]
+The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) Order 2016 (revoked)[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 6th October 2016
 
-[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]
+## 1. Citation and Commencement[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]
+## 2. Amendment of the Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0fe649bb58e9afa1c11d4be4af2f7c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0fe649bb58e9afa1c11d4be4af2f7c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fe649bb58e9afa1c11d4be4af2f7c5a]: Textual amendment: Order revoked (5.10.2016) by [The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) (No. 2) Order 2016 (S.I. 2016/952)](https://www.legislation.gov.uk/uksi/2016/952), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/952/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/952/article/4)
+[^c-0fe649bb58e9afa1c11d4be4af2f7c5a]: Textual amendment: Order revoked (5.10.2016) by [The Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) (No. 2) Order 2016 (S.I. 2016/952)](https://www.legislation.gov.uk/uksi/2016/952), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/952/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/952/article/4)

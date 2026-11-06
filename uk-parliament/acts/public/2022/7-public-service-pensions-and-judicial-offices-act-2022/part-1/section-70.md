@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Meaning of “a judicial scheme” etc[^key-9e4573bd46d6718edfe270ea4b624886][^key-9884e642d279949cff8c1bd2781061f3]
+## 70. Meaning of “a judicial scheme” etc[^c-9e4573bd46d6718edfe270ea4b624886][^c-9884e642d279949cff8c1bd2781061f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e4573bd46d6718edfe270ea4b624886]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-9e4573bd46d6718edfe270ea4b624886]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-9884e642d279949cff8c1bd2781061f3]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/7/section/70) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-9884e642d279949cff8c1bd2781061f3]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/7/section/70) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

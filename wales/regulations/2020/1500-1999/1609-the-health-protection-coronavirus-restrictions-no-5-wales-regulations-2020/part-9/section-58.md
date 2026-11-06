@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Revocation[^key-6d92c154615738907e807ffa28741c0f]
+## 58. Revocation[^c-6d92c154615738907e807ffa28741c0f]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ The following Regulations are revoked—
 
 ## Annotations
 
-[^key-6d92c154615738907e807ffa28741c0f]: Commencement: Reg. 58 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-6d92c154615738907e807ffa28741c0f]: Commencement: Reg. 58 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
 [^c24382931]: Marginal citation: [S.I. 2020/1237](https://www.legislation.gov.uk/uksi/2020/1237) (W. 279) as amended by [S.I. 2020/1288](https://www.legislation.gov.uk/uksi/2020/1288) (W. 286).
 

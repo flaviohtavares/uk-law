@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 427. Form and contents of summary financial statement: unquoted companies[^key-eaf399232cb4eb26f2ffb3eaae544647]
+## 427. Form and contents of summary financial statement: unquoted companies[^c-eaf399232cb4eb26f2ffb3eaae544647]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaf399232cb4eb26f2ffb3eaae544647]: Textual amendment: S. 427 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2013/1970/regulation/11)
+[^c-eaf399232cb4eb26f2ffb3eaae544647]: Textual amendment: S. 427 omitted (with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2013/1970/regulation/11)

@@ -116,7 +116,7 @@ Regulations 2(1), 6, 7(1) and (2)
 
 (1) The design of the equipment may be validated, in all or in part, by an appropriate test programme carried out on a sample representative of the equipment or the category of equipment.
 
-(2) The test programme must be clearly defined prior to testing and accepted by the approved[^key-590d0cad10cb2d58bc604aad8b39175b] body responsible for the design conformity assessment module, where it exists.
+(2) The test programme must be clearly defined prior to testing and accepted by the approved[^c-590d0cad10cb2d58bc604aad8b39175b] body responsible for the design conformity assessment module, where it exists.
 
 (3) The test programme must define test conditions and criteria for acceptance or refusal and the actual values of the essential dimensions and characteristics of the materials which constitute the equipment tested must be measured before the test.
 
@@ -259,7 +259,7 @@ Preparation of the component parts (for example forming and chamfering) must not
 
 (2) The properties of permanent joints must meet the minimum properties specified for the materials to be joined unless other relevant property values are specifically taken into account in the design calculations.
 
-(3)[^key-e54c2236e64a1db7c09c42e58fa700ef] For pressure equipment, permanent joining of components which contribute to the pressure resistance of equipment and components which are directly attached to them must be carried out by suitably qualified personnel according to suitable operating procedures and for pressure equipment in categories II, III and IV, operating procedures and personnel must be approved by a competent third party which, at the manufacturer's discretion, may be—
+(3)[^c-e54c2236e64a1db7c09c42e58fa700ef] For pressure equipment, permanent joining of components which contribute to the pressure resistance of equipment and components which are directly attached to them must be carried out by suitably qualified personnel according to suitable operating procedures and for pressure equipment in categories II, III and IV, operating procedures and personnel must be approved by a competent third party which, at the manufacturer's discretion, may be—
 
 - (a) an approved body;
 - (b) a recognised third party organisation; or
@@ -272,7 +272,7 @@ Preparation of the component parts (for example forming and chamfering) must not
   - (i) within the meaning set out in regulation 52; or
   - (ii) which is a recognised third party organisation for the purposes of the Directive (as provided for in Article 29(5) of the Directive).
 
-(4) In order to carry out the approvals referred to above, the third party must perform examinations and tests as set out in the appropriate designated[^key-047fd8732177b201665dd6152ddd40b3] standards or equivalent examinations and tests or must have them performed.
+(4) In order to carry out the approvals referred to above, the third party must perform examinations and tests as set out in the appropriate designated[^c-047fd8732177b201665dd6152ddd40b3] standards or equivalent examinations and tests or must have them performed.
 
 #### 21. Permanent joining[^M_E_b7c1c88a-31ba-4f15-8d98-2e972d307794]
 
@@ -327,7 +327,7 @@ For assemblies, the final assessment must also include a check of the safety dev
 
 *Extent: E+W+S*
 
-(1) In addition to the UK[^key-562854879d24237ef77cb7fe5cf040d6] marking referred to in regulation 49 and the information to be provided in accordance with regulations 13(1)(b) and 23(1), the following information must be provided—
+(1) In addition to the UK[^c-562854879d24237ef77cb7fe5cf040d6] marking referred to in regulation 49 and the information to be provided in accordance with regulations 13(1)(b) and 23(1), the following information must be provided—
 
 - (a) for all pressure equipment—
   - (i) the year of manufacture;
@@ -420,17 +420,17 @@ For assemblies, the final assessment must also include a check of the safety dev
 
 - (a) define in an appropriate manner the values necessary for the design calculations referred to in paragraph 5 and the essential characteristics of the materials and their treatment referred to in subparagraph (3);
 - (b) provide in the technical documentation elements relating to compliance with the materials specifications relating to materials contained in these Regulations in one of the following forms—
-  - (i) by using materials which comply with designated[^key-f4db61aeaa8c62612382c46ac5a69af7] standards;
-  - (ii)[^key-864981f952e041cf337985519222646f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) by using materials which comply with designated[^c-f4db61aeaa8c62612382c46ac5a69af7] standards;
+  - (ii)[^c-864981f952e041cf337985519222646f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) by a particular material appraisal.
 
-(5) For pressure equipment in categories III and IV, a specific assessment of the particular material appraisal must be performed by an approved body or a notified body[^key-687e7936873b2210204345d9d4efcd5a] .
+(5) For pressure equipment in categories III and IV, a specific assessment of the particular material appraisal must be performed by an approved body or a notified body[^c-687e7936873b2210204345d9d4efcd5a] .
 
 (6) The equipment manufacturer must take appropriate measures to ensure that the material used conforms with the required specification, and in particular, documentation prepared by the material manufacturer affirming compliance with a specification must be obtained for all materials.
 
 (7) For the main pressure-bearing parts of equipment in categories II, III and IV, the documentation referred to in sub-paragraph (6) must take the form of a certificate of specific product control.
 
-(8)[^key-1d27d935cf8b15cd18401ee1ae021426] Where a material manufacturer has an appropriate quality-assurance system, certified by a competent body established in the United Kingdom or in the territory of an EEA state[^key-55471bcdf67f24b532018d9bd39a48f6] and having undergone a specific assessment for materials, certificates issued by the manufacturer are presumed to certify conformity with the relevant requirements of this paragraph.
+(8)[^c-1d27d935cf8b15cd18401ee1ae021426] Where a material manufacturer has an appropriate quality-assurance system, certified by a competent body established in the United Kingdom or in the territory of an EEA state[^c-55471bcdf67f24b532018d9bd39a48f6] and having undergone a specific assessment for materials, certificates issued by the manufacturer are presumed to certify conformity with the relevant requirements of this paragraph.
 
 (8) Certificates issued by a material manufacturer are presumed to certify conformity with the relevant requirements of this paragraph where the manufacturer has an appropriate quality-assurance system that—
 
@@ -472,7 +472,7 @@ For assemblies, the final assessment must also include a check of the safety dev
 
 (7) For the main pressure-bearing parts of equipment in categories II, III and IV, the documentation referred to in sub-paragraph (6) must take the form of a certificate of specific product control.
 
-(8) Where a material manufacturer has an appropriate quality-assurance system, certified by a competent body established in a relevant state[^key-18f30f48b2cab4a29549d61b2dc03980] and having undergone a specific assessment for materials, certificates issued by the manufacturer are presumed to certify conformity with the relevant requirements of this paragraph.
+(8) Where a material manufacturer has an appropriate quality-assurance system, certified by a competent body established in a relevant state[^c-18f30f48b2cab4a29549d61b2dc03980] and having undergone a specific assessment for materials, certificates issued by the manufacturer are presumed to certify conformity with the relevant requirements of this paragraph.
 
 ### PART 5 — SPECIFIC PRESSURE EQUIPMENT REQUIREMENTS
 
@@ -509,7 +509,7 @@ The design and construction of piping referred to in regulation 6(c) must ensure
 
 *Extent: E+W+S*
 
-**35.**[^M_E_82a1e02f-6dfd-4121-fd4b-054809be412c] (1) The following provisions apply as a general rule, but where they are not applied, including in cases where materials are not specifically referred to and no designated[^key-310308f7ff557e9d81fdae01d796ca04] standards are applied, the manufacturer must demonstrate that appropriate measures have been taken to achieve an equivalent overall level of safety.
+**35.**[^M_E_82a1e02f-6dfd-4121-fd4b-054809be412c] (1) The following provisions apply as a general rule, but where they are not applied, including in cases where materials are not specifically referred to and no designated[^c-310308f7ff557e9d81fdae01d796ca04] standards are applied, the manufacturer must demonstrate that appropriate measures have been taken to achieve an equivalent overall level of safety.
 
 (2) The provisions laid down in this Part supplement the essential safety requirements of Parts 1 to 5 in relation to the pressure equipment to which they apply.
 
@@ -569,42 +569,42 @@ Unless other values are required in accordance with other criteria that must be 
 
 [^M_E_77a32c26-fb0f-45a4-ef6d-39d96e38c670]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-590d0cad10cb2d58bc604aad8b39175b]: Textual amendment: Word in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/6/2) substituted (E.W.S.) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/10/a/i)
+[^c-590d0cad10cb2d58bc604aad8b39175b]: Textual amendment: Word in [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/6/2) substituted (E.W.S.) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/10/a/i)
 
 [^M_E_af38b125-7527-4ee0-af8e-5de4d2191eec]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_b24aecea-9fe2-42e8-fafd-199e0a44c76b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e54c2236e64a1db7c09c42e58fa700ef]: Textual amendment: Sch. 2 para. 21(3)(3A) substituted for Sch. 2 para. 21(3) (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/a)
+[^c-e54c2236e64a1db7c09c42e58fa700ef]: Textual amendment: Sch. 2 para. 21(3)(3A) substituted for Sch. 2 para. 21(3) (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/a)
 
-[^key-047fd8732177b201665dd6152ddd40b3]: Textual amendment: Word in Sch. 2 para. 21(4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-047fd8732177b201665dd6152ddd40b3]: Textual amendment: Word in Sch. 2 para. 21(4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_b7c1c88a-31ba-4f15-8d98-2e972d307794]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_f11199bc-1f46-46bc-e1b3-1eea29874cfe]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-562854879d24237ef77cb7fe5cf040d6]: Textual amendment: Word in [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/29/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/b) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-562854879d24237ef77cb7fe5cf040d6]: Textual amendment: Word in [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/29/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/b) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_3f525c30-2f04-48a7-c738-c3aaed0bf998]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_28fe8c72-bbe0-469a-9e05-65f2d0a0fdb4]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-f4db61aeaa8c62612382c46ac5a69af7]: Textual amendment: Word in Sch. 2 para. 31(4)(b)(i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4db61aeaa8c62612382c46ac5a69af7]: Textual amendment: Word in Sch. 2 para. 31(4)(b)(i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-864981f952e041cf337985519222646f]: Textual amendment: Sch. 2 para. 31(4)(b)(ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/c) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-864981f952e041cf337985519222646f]: Textual amendment: Sch. 2 para. 31(4)(b)(ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/c) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-687e7936873b2210204345d9d4efcd5a]: Textual amendment: Words in Sch. 2 para. 31(5) substituted (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/b)
+[^c-687e7936873b2210204345d9d4efcd5a]: Textual amendment: Words in Sch. 2 para. 31(5) substituted (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/b)
 
-[^key-1d27d935cf8b15cd18401ee1ae021426]: Textual amendment: Sch. 2 para. 31(8) substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 10(3)](https://www.legislation.gov.uk/uksi/2024/504/regulation/10/3)
+[^c-1d27d935cf8b15cd18401ee1ae021426]: Textual amendment: Sch. 2 para. 31(8) substituted (E.W.S.) (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 10(3)](https://www.legislation.gov.uk/uksi/2024/504/regulation/10/3)
 
-[^key-55471bcdf67f24b532018d9bd39a48f6]: Textual amendment: Words in Sch. 2 para. 31(8) substituted (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/c)
+[^c-55471bcdf67f24b532018d9bd39a48f6]: Textual amendment: Words in Sch. 2 para. 31(8) substituted (E.W.S.) (22.4.2024) by [The Pressure Equipment (Safety) (Amendment) Regulations 2024 (S.I. 2024/490)](https://www.legislation.gov.uk/uksi/2024/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/490/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/490/regulation/2/4/c)
 
 [^M_E_506901c4-1bc5-454c-9cc7-2c0c8b1c71b8]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-18f30f48b2cab4a29549d61b2dc03980]: Textual amendment: Words in [Sch. 2 para. 31(8)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/31/8) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/8)
+[^c-18f30f48b2cab4a29549d61b2dc03980]: Textual amendment: Words in [Sch. 2 para. 31(8)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/31/8) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/8)
 
 [^M_E_82a1e02f-6dfd-4121-fd4b-054809be412c]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-310308f7ff557e9d81fdae01d796ca04]: Textual amendment: Word in [Sch. 2 para. 35(1)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/35/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-310308f7ff557e9d81fdae01d796ca04]: Textual amendment: Word in [Sch. 2 para. 35(1)](https://www.legislation.gov.uk/uksi/2016/1105/schedule/2/paragraph/35/1) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 45(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/45/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_f6dd1390-7c1e-4003-fa51-6c9e2289cfc7]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

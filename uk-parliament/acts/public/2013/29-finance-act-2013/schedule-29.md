@@ -227,11 +227,11 @@ Section 77
 
 **12.** ITTOIA 2005 is amended as follows.
 
-**13.**[^key-bcc7b7b3208cbcb29dde2d9ab75a0904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bcc7b7b3208cbcb29dde2d9ab75a0904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In section 397A (tax credit for distributions of non-UK resident companies)—
 
-- (a)[^key-c4da93591693ebe345dad964b3c579d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c4da93591693ebe345dad964b3c579d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit subsection (8).
 
 **15.** Omit section 397B (tax credits under section 397A: manufactured overseas dividends).
@@ -419,7 +419,7 @@ Section 77
 
 (2) Omit paragraphs (a) to (c) (and the word “and” at the end of paragraph (c)).
 
-(3)[^key-3eb1148eebbce28b5b7949cfa28d4f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3eb1148eebbce28b5b7949cfa28d4f60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** In Schedule 1 (minor and consequential amendments), omit paragraphs 259, 537, 538, 539(b) and (c), 635, 636 and 689(a) and (b)(i).
 
@@ -463,8 +463,8 @@ Section 77
 
 ## Annotations
 
-[^key-bcc7b7b3208cbcb29dde2d9ab75a0904]: Textual amendment: Sch. 29 para. 13 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)
+[^c-bcc7b7b3208cbcb29dde2d9ab75a0904]: Textual amendment: Sch. 29 para. 13 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)
 
-[^key-c4da93591693ebe345dad964b3c579d7]: Textual amendment: Sch. 29 para. 14(a) omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)
+[^c-c4da93591693ebe345dad964b3c579d7]: Textual amendment: Sch. 29 para. 14(a) omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)
 
-[^key-3eb1148eebbce28b5b7949cfa28d4f60]: Textual amendment: Sch. 29 para. 44(3) omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)
+[^c-3eb1148eebbce28b5b7949cfa28d4f60]: Textual amendment: Sch. 29 para. 44(3) omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/71/b)

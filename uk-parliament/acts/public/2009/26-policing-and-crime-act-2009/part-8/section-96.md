@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Registered persons[^key-285936432740a2b43b3247f0d8b5a18a]
+## 96. Registered persons[^c-285936432740a2b43b3247f0d8b5a18a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-285936432740a2b43b3247f0d8b5a18a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2009/26/section/96) in force at 10.9.2012 for E.W.N.I. by [S.I. 2012/2235](https://www.legislation.gov.uk/uksi/2012/2235), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2235/article/2/a)
+[^c-285936432740a2b43b3247f0d8b5a18a]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2009/26/section/96) in force at 10.9.2012 for E.W.N.I. by [S.I. 2012/2235](https://www.legislation.gov.uk/uksi/2012/2235), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2235/article/2/a)

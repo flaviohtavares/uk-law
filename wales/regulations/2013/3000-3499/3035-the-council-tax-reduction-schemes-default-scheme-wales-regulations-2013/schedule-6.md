@@ -24,7 +24,7 @@ summary: ''
 
 - (a) where—
   - (i) the employment has been terminated because of retirement; and
-  - (ii) on retirement the applicant is entitled to a retirement pension under the SSCBA , or a state pension under Part 1 of the Pensions Act 2014[^key-6c18cd35540619666cc197dba84d4900], or is not so entitled solely because of the applicant’s failure to satisfy the contribution conditions or to have the minimum number of qualifying years[^key-1300227e8f6780a9883705246a50333f],
+  - (ii) on retirement the applicant is entitled to a retirement pension under the SSCBA , or a state pension under Part 1 of the Pensions Act 2014[^c-6c18cd35540619666cc197dba84d4900], or is not so entitled solely because of the applicant’s failure to satisfy the contribution conditions or to have the minimum number of qualifying years[^c-1300227e8f6780a9883705246a50333f],
 
 any earnings paid or due to be paid in respect of that employment, but only for a period commencing on the day immediately after the date on which the employment was terminated;
 
@@ -56,7 +56,7 @@ any earnings paid or due to be paid in respect of that employment except any pay
 
 **4.** (1) In a case to which this paragraph applies and paragraph 5 does not apply, £20; but notwithstanding paragraph 30 of this scheme (calculation of income and capital: applicant’s family and polygamous marriages) if this paragraph applies to an applicant it is not to apply to the applicant’s partner except where, and to the extent that, the earnings of the applicant which are to be disregarded under this paragraph are less than £20.
 
-(2) This paragraph applies where the applicant’s applicable amount includes an amount by way of the disability premium, severe disability premium, work-related activity component or support component under Schedule 3 (applicable amounts: persons who are not pensioners) or where the applicant or the applicant’s partner is a member of the work-related activity group[^key-d0853b489b1455c397c9075693e2d04d].
+(2) This paragraph applies where the applicant’s applicable amount includes an amount by way of the disability premium, severe disability premium, work-related activity component or support component under Schedule 3 (applicable amounts: persons who are not pensioners) or where the applicant or the applicant’s partner is a member of the work-related activity group[^c-d0853b489b1455c397c9075693e2d04d].
 
 (3) This paragraph applies where—
 
@@ -76,7 +76,7 @@ any earnings paid or due to be paid in respect of that employment except any pay
 
 **8.** In a case where paragraphs 4, 6, 7 and 9 of this Schedule do not apply to the applicant and the applicant is one of a couple and a member of that couple is in employment, £10; but, notwithstanding paragraph 30 of this scheme (calculation of income and capital: applicant’s family and polygamous marriages), if this paragraph applies to an applicant it is not to apply to the applicant’s partner except where, and to the extent that, the earnings of the applicant which are to be disregarded under this paragraph are less than £10.
 
-**9.** (1) In a case where paragraphs 4, 5, 6 and 7[^key-a44b3aa17da57454160ca3a03d1ffb6f] of this Schedule do not apply to the applicant, £20 of earnings derived from one or more employments as—
+**9.** (1) In a case where paragraphs 4, 5, 6 and 7[^c-a44b3aa17da57454160ca3a03d1ffb6f] of this Schedule do not apply to the applicant, £20 of earnings derived from one or more employments as—
 
 - (a) a part-time fire-fighter employed by a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004[^f00270] or a scheme to which section 4 of that Act applies;
 - (b) a part-time fire-fighter employed by the Scottish Fire and Rescue Service[^f00271];
@@ -118,7 +118,7 @@ the amount specified in sub-paragraph (7) (“the specified amount”).
 
 (6) “Exempt work” (“*gwaith esempt*”) means work of the kind described in—
 
-- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008[^f00273] or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^key-d3103676b08f8005cf10a194992e8ed9]; or (as the case may be)
+- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008[^f00273] or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^c-d3103676b08f8005cf10a194992e8ed9]; or (as the case may be)
 - (b) regulation 17(2), (3) or (4) of the Social Security (Incapacity for Work) (General) Regulations 1995[^f00274],
 
 and, in determining for the purposes of this paragraph whether an applicant or a member of a couple is undertaking any type of exempt work, it is immaterial whether that person or that person’s partner is also undertaking other work.
@@ -146,7 +146,7 @@ and, in determining for the purposes of this paragraph whether an applicant or a
     - (aa) at least one member of that couple, is engaged in remunerative work for on average not less than 16 hours per week; and
     - (bb) the applicant’s applicable amount includes a family premium under paragraph 4 of Schedule 3; or
   - (iii) is a lone parent who is engaged in remunerative work for on average not less than 16 hours per week; or
-  - (iv)[^key-f924bab8346df533df2f136425897438] not being a member of a couple, is engaged in remunerative work for on average not less than 16 hours per week and—
+  - (iv)[^c-f924bab8346df533df2f136425897438] not being a member of a couple, is engaged in remunerative work for on average not less than 16 hours per week and—
     - (aa) the applicant’s applicable amount includes a disability premium under paragraph 9 of Schedule 3 or the support component under paragraph 22 of Schedule 3; or
     - (bb) the applicant is a member of the work-related activity group; or
   - (v) is a member of a couple and at least one member of that couple is engaged in remunerative work for on average not less than 16 hours per week and that member of the couple—
@@ -165,15 +165,15 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 ## Annotations
 
-[^key-6c18cd35540619666cc197dba84d4900]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 1(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2016/50/regulation/28/a)
+[^c-6c18cd35540619666cc197dba84d4900]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 1(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2016/50/regulation/28/a)
 
-[^key-1300227e8f6780a9883705246a50333f]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 1(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [28(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/28/b)
+[^c-1300227e8f6780a9883705246a50333f]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 1(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [28(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/28/b)
 
 [^f00269]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-d0853b489b1455c397c9075693e2d04d]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 4(2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2018/14/regulation/28/a)
+[^c-d0853b489b1455c397c9075693e2d04d]: Textual amendment: Words in Sch. Scheme Sch. 6 para. 4(2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2018/14/regulation/28/a)
 
-[^key-a44b3aa17da57454160ca3a03d1ffb6f]: Textual amendment: Words in [Sch. Scheme Sch. 6 para. 9(1)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/6/paragraph/9/1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [29](https://www.legislation.gov.uk/wsi/2014/66/regulation/29)
+[^c-a44b3aa17da57454160ca3a03d1ffb6f]: Textual amendment: Words in [Sch. Scheme Sch. 6 para. 9(1)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/6/paragraph/9/1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [29](https://www.legislation.gov.uk/wsi/2014/66/regulation/29)
 
 [^f00270]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
@@ -183,10 +183,10 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 [^f00273]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-d3103676b08f8005cf10a194992e8ed9]: Textual amendment: Words in [Sch. Scheme Sch. 6 para. 12(6)(a)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/6/paragraph/12/6/a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [30](https://www.legislation.gov.uk/wsi/2015/44/regulation/30)
+[^c-d3103676b08f8005cf10a194992e8ed9]: Textual amendment: Words in [Sch. Scheme Sch. 6 para. 12(6)(a)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/6/paragraph/12/6/a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [30](https://www.legislation.gov.uk/wsi/2015/44/regulation/30)
 
 [^f00274]: Footnote: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311).
 
 [^f00275]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-f924bab8346df533df2f136425897438]: Textual amendment: Sch. Scheme Sch. 6 paras. 18(2)(b)(iv)(v) substituted for Sch. Scheme Sch. 6 para. 18(2)(b)(iv) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/uksi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/11/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/11/regulation/16)
+[^c-f924bab8346df533df2f136425897438]: Textual amendment: Sch. Scheme Sch. 6 paras. 18(2)(b)(iv)(v) substituted for Sch. Scheme Sch. 6 para. 18(2)(b)(iv) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/uksi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/11/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/11/regulation/16)

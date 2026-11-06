@@ -25,7 +25,7 @@ summary: ''
 (2) Subject to paragraphs (3) and (6), Parts 2 and 3 (save for regulation 13), regulations 14(9) and (10), 15(1) to (6), 19(4), 33 and Schedule 2 lay down the rules applicable to—
 
 - (a) the management of railway infrastructure; and
-- (b) the rail transport activities of railway undertakings[^key-f7d89d0840cd0e2de7ee01f20b85e689].
+- (b) the rail transport activities of railway undertakings[^c-f7d89d0840cd0e2de7ee01f20b85e689].
 
 (3) The provisions referred to in paragraph (2) do not apply to railway undertakings whose activity is limited to the provision of solely urban, suburban or regional services on local and regional stand-alone networks for transport services on railway infrastructure or on networks intended only for the operation of urban or suburban rail services.
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d89d0840cd0e2de7ee01f20b85e689]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/4/2/b) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [4](https://www.legislation.gov.uk/uksi/2019/518/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7d89d0840cd0e2de7ee01f20b85e689]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/4/2/b) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [4](https://www.legislation.gov.uk/uksi/2019/518/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23154151]: Marginal citation: [S.I. 2015/785](https://www.legislation.gov.uk/uksi/2015/785), amended by [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [Sch](https://www.legislation.gov.uk/uksi/2015/1682/schedule)edule, Part 2, paragraph 10(nn).

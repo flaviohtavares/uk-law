@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112A. Liability of officers of body corporate etc[^key-ff80eefc1f92c8fc60151cee8b2f3b77]
+## 112A. Liability of officers of body corporate etc[^c-ff80eefc1f92c8fc60151cee8b2f3b77]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ that person as well as the body corporate commits the offence and is liable to b
 
 ## Annotations
 
-[^key-ff80eefc1f92c8fc60151cee8b2f3b77]: Textual amendment: [S. 112A](https://www.legislation.gov.uk/ukpga/1984/55/section/112A) inserted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/j); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(i)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/i) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-ff80eefc1f92c8fc60151cee8b2f3b77]: Textual amendment: [S. 112A](https://www.legislation.gov.uk/ukpga/1984/55/section/112A) inserted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 40](https://www.legislation.gov.uk/ukpga/2022/30/section/40), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/j); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(i)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/i) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

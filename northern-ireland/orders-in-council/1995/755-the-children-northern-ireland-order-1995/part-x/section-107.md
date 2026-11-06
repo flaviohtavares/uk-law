@@ -54,7 +54,7 @@ but sub-paragraphs (c) to (g) do not apply where the person caring for the child
 
 (7) A child is not a privately fostered child while—
 
-- (a)[^c22524811][^key-c774bfe2260f44fc6079c2b8dd070eb6] he is placed in the care of a person who proposes to adopt him under arrangements made by an adoption agency within the meaning of—
+- (a)[^c22524811][^c-c774bfe2260f44fc6079c2b8dd070eb6] he is placed in the care of a person who proposes to adopt him under arrangements made by an adoption agency within the meaning of—
   - (i) Article 3 of the Adoption Order; or
   - (ii) section 1 of the Adoption Act 1976[^c17270971]; or
   - (iii)[^c22524991] section 119(1) of the Adoption and Children (Scotland) Act 2007;
@@ -70,7 +70,7 @@ but sub-paragraphs (c) to (g) do not apply where the person caring for the child
 
 [^c22524811]: Modification: [Art. 107(7)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/107/7/a) modified (6.4.2010) by [Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [reg. 5](https://www.legislation.gov.uk/uksi/2010/985/regulation/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/985/schedule/4)
 
-[^key-c774bfe2260f44fc6079c2b8dd070eb6]: Modification: [Art. 107(7)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/107/7/a) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/19)
+[^c-c774bfe2260f44fc6079c2b8dd070eb6]: Modification: [Art. 107(7)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/107/7/a) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/19)
 
 [^c17270971]: Textual amendment: [1976 c. 36](https://www.legislation.gov.uk/ukpga/1976/36)
 

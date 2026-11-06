@@ -26,11 +26,11 @@ summary: ''
 - “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986,
 - “**the 1990 Act**” means the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990,
 - “**the 2007 Act**” means the Legal Profession and Legal Aid (Scotland) Act 2007,
-- “[^key-a851437c7f443b49130bac06ad02da6f] **CMA** ” means Competition and Markets Authority,
+- “[^c-a851437c7f443b49130bac06ad02da6f] **CMA** ” means Competition and Markets Authority,
 - “**Faculty**” means Faculty of Advocates,
 - “**Law Society**” means Law Society of Scotland,
 - “**Lord President**” means Lord President of the Court of Session,
-- [^key-f00af8c9bc175594ba6a21b6765d9246]...
+- [^c-f00af8c9bc175594ba6a21b6765d9246]...
 
 (2) In this Act (unless the context otherwise requires)—
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a851437c7f443b49130bac06ad02da6f]: Textual amendment: Words in s. 149(1) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 204(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/204/1/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a851437c7f443b49130bac06ad02da6f]: Textual amendment: Words in s. 149(1) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 204(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/204/1/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-f00af8c9bc175594ba6a21b6765d9246]: Textual amendment: Words in s. 149(1) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 204(1)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/204/1/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f00af8c9bc175594ba6a21b6765d9246]: Textual amendment: Words in s. 149(1) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 204(1)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/204/1/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

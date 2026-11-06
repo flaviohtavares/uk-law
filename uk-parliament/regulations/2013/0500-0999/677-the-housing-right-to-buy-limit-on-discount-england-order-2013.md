@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Housing (Right to Buy) (Limit on Discount) (England) Order 2013 (revoked)[^key-502e5f8c6189a39f8d346464bb867528]
+The Housing (Right to Buy) (Limit on Discount) (England) Order 2013 (revoked)[^c-502e5f8c6189a39f8d346464bb867528]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 25th March 2013
 
-[^key-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-502e5f8c6189a39f8d346464bb867528]
+## 1. Citation, commencement, application and interpretation[^c-502e5f8c6189a39f8d346464bb867528]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Maximum discount[^key-502e5f8c6189a39f8d346464bb867528]
+## 2. Maximum discount[^c-502e5f8c6189a39f8d346464bb867528]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-502e5f8c6189a39f8d346464bb867528]
+## 3. Application[^c-502e5f8c6189a39f8d346464bb867528]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-502e5f8c6189a39f8d346464bb867528]
+## 4. Revocation[^c-502e5f8c6189a39f8d346464bb867528]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502e5f8c6189a39f8d346464bb867528]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-502e5f8c6189a39f8d346464bb867528]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/677) revoked (21.7.2014) by [The Housing (Right to Buy) (Limit on Discount) (England) Order 2014 (S.I. 2014/1378)](https://www.legislation.gov.uk/uksi/2014/1378), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1378/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1378/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1378/article/3/2))
+[^c-502e5f8c6189a39f8d346464bb867528]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/677) revoked (21.7.2014) by [The Housing (Right to Buy) (Limit on Discount) (England) Order 2014 (S.I. 2014/1378)](https://www.legislation.gov.uk/uksi/2014/1378), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1378/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1378/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1378/article/3/2))

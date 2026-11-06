@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Offspring Slaughter[^key-34dfdee5c06ef0f6690edd54fa454f44]
+## SCHEDULE 7 — Offspring Slaughter[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 *Extent: E+W*
 
@@ -24,256 +24,256 @@ summary: ''
 
 **Regulation 94**
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
-#### 1. Interpretation[^key-34dfdee5c06ef0f6690edd54fa454f44]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Requirements relating to offspring animals[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 1. Interpretation[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Notice of intended slaughter[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 2. Requirements relating to offspring animals[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Compensation for slaughtered offspring animals[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 3. Notice of intended slaughter[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Forms[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 4. Compensation for slaughtered offspring animals[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM OC1 — Notice of requirements relating to an offspring animal[^key-34dfdee5c06ef0f6690edd54fa454f44]
-
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 6. Forms[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### FORM OC1 — Notice of requirements relating to an offspring animal[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM OC1 REQUIREMENTS — Notice of requirements as respects the animal specified overleaf.[^key-34dfdee5c06ef0f6690edd54fa454f44]
-
-#### 1. Requirements:[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### FORM OC1 REQUIREMENTS — Notice of requirements as respects the animal specified overleaf.[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
-**3.**[^key-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+#### 1. Requirements:[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM OC2 — Notice of intended slaughter of an offspring animal[^key-34dfdee5c06ef0f6690edd54fa454f44]
+**2.**[^c-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+**3.**[^c-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### FORM OC2 — Notice of intended slaughter of an offspring animal[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM OC3 — Withdrawal of notice relating to an offspring animal[^key-34dfdee5c06ef0f6690edd54fa454f44]
-
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### FORM OC3 — Withdrawal of notice relating to an offspring animal[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### FORM OC 4 — Certificate that a casualty animal is not unfit for human consumption[^key-34dfdee5c06ef0f6690edd54fa454f44]
-
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+### FORM OC 4 — Certificate that a casualty animal is not unfit for human consumption[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Table of compensation[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CALCULATION OF INDICATIVE MARKET PRICE[^key-34dfdee5c06ef0f6690edd54fa454f44]
+[^c-34dfdee5c06ef0f6690edd54fa454f44]
 
-**8.**[^key-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Table of compensation[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CALCULATION OF INDICATIVE MARKET PRICE[^c-34dfdee5c06ef0f6690edd54fa454f44]
+
+**8.**[^c-34dfdee5c06ef0f6690edd54fa454f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34dfdee5c06ef0f6690edd54fa454f44]: Textual amendment: Regulations revoked (except regs. 8, 9, 84, 93, Sch. 1 Pt. 3, Sch. 6A para. 17, Sch. 7 paras. 4, 8) (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
+[^c-34dfdee5c06ef0f6690edd54fa454f44]: Textual amendment: Regulations revoked (except regs. 8, 9, 84, 93, Sch. 1 Pt. 3, Sch. 6A para. 17, Sch. 7 paras. 4, 8) (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
 
     Regulations revoked in so far as not already revoked (14.6.2006) by [The Sheep and Goats Transmissible Spongiform Encephalopathy (TSE) Compensation (Wales) Regulations 2006 (S.I. 2006/1513)](https://www.legislation.gov.uk/uksi/2006/1513), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1513/regulation/1), [6](https://www.legislation.gov.uk/uksi/2006/1513/regulation/6)

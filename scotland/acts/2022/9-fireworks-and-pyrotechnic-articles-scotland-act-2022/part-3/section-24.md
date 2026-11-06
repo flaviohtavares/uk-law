@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Restriction on days of use of fireworks[^key-41ed0e834b961f029557741bcaf05e15]
+## 24. Restriction on days of use of fireworks[^c-41ed0e834b961f029557741bcaf05e15]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41ed0e834b961f029557741bcaf05e15]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-41ed0e834b961f029557741bcaf05e15]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

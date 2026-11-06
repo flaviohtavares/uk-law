@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Protected data: power to impose conditions[^key-4ecc99d4475e8f87512c2d645676e1c1]
+## 207. Protected data: power to impose conditions[^c-4ecc99d4475e8f87512c2d645676e1c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the Secretary of State decides to issue a specific BPD warrant, the Secret
 
 ## Annotations
 
-[^key-4ecc99d4475e8f87512c2d645676e1c1]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2016/25/section/207) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/p)
+[^c-4ecc99d4475e8f87512c2d645676e1c1]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2016/25/section/207) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/p)

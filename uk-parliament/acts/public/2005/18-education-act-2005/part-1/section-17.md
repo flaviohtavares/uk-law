@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Statement to be prepared by proprietor of school[^key-4f57d54cb2bbbb02e3a117937c1a9f59]
+## 17. Statement to be prepared by proprietor of school[^c-4f57d54cb2bbbb02e3a117937c1a9f59]
 
 *Extent: E+W*
 
@@ -49,9 +49,9 @@ summary: ''
   - (i) of the action the proprietor proposes to take, and the period within which he proposes to take that action, or, if he does not propose to take such action, of his reasons for not doing so, and
   - (ii) of the arrangements the proprietor proposes to make for the purpose mentioned in subsection (1A)(b)”.
 
-(1D) For the purposes of subsections (1B) and (1C) an “interim inspection” is an inspection under section 8 which is not treated as a section 5 inspection by virtue of section 9[^key-ae70418f2540198acf539b18ffd291c0].
+(1D) For the purposes of subsections (1B) and (1C) an “interim inspection” is an inspection under section 8 which is not treated as a section 5 inspection by virtue of section 9[^c-ae70418f2540198acf539b18ffd291c0].
 
-(2)[^key-99c01d83ab1994a67960900722ac41ea] It is the duty of the proprietor of the school to prepare the statement within the period allowed by this subsection, that is—
+(2)[^c-99c01d83ab1994a67960900722ac41ea] It is the duty of the proprietor of the school to prepare the statement within the period allowed by this subsection, that is—
 
 - (a) such period as may be prescribed, or
 - (b) if—
@@ -71,13 +71,13 @@ and
 
 - (b) in such circumstances as may be prescribed, to such other persons (if any) as may be prescribed.
 
-(4) In the case of a special school which is not a community or foundation special school, the proprietor of the school must, before the end of the prescribed period, send a copy of any such statement prepared by him to any local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
+(4) In the case of a special school which is not a community or foundation special school, the proprietor of the school must, before the end of the prescribed period, send a copy of any such statement prepared by him to any local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
 
 (5)[^c19251121] In performing his functions under subsections (1A)(a), (b), (c) and (d) and (1C)(a) and (b), the proprietor must have regard to any guidance given from time to time by the Secretary of State.
 
 ## Annotations
 
-[^key-4f57d54cb2bbbb02e3a117937c1a9f59]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2005/18/section/17): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-4f57d54cb2bbbb02e3a117937c1a9f59]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2005/18/section/17): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
 [^c19250271]: Textual amendment: Words in s. 17(1) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 71](https://www.legislation.gov.uk/ukpga/2006/40/section/71), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/2/2/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/cc)
 
@@ -85,14 +85,14 @@ and
 
 [^c19250891]: Textual amendment: S. 17(1A)-(1D) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 71](https://www.legislation.gov.uk/ukpga/2006/40/section/71), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/2/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/cc)
 
-[^key-ae70418f2540198acf539b18ffd291c0]: Textual amendment: Words in [s. 17(1D)](https://www.legislation.gov.uk/ukpga/2005/18/section/17/1D) substituted (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 40(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/40/8), [82(1)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/b)
+[^c-ae70418f2540198acf539b18ffd291c0]: Textual amendment: Words in [s. 17(1D)](https://www.legislation.gov.uk/ukpga/2005/18/section/17/1D) substituted (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 40(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/40/8), [82(1)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/b)
 
-[^key-99c01d83ab1994a67960900722ac41ea]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/17/2): power to disapply conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-99c01d83ab1994a67960900722ac41ea]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/17/2): power to disapply conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
 [^c19251001]: Textual amendment: Words in s. 17(3) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 71](https://www.legislation.gov.uk/ukpga/2006/40/section/71), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 7 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/2/4/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/cc)
 
 [^c19251081]: Textual amendment: S. 17(3)(aa) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 71](https://www.legislation.gov.uk/ukpga/2006/40/section/71), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 7 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/2/4/b); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/cc)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19251121]: Textual amendment: S. 17(5) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 71](https://www.legislation.gov.uk/ukpga/2006/40/section/71), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/2/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/cc)

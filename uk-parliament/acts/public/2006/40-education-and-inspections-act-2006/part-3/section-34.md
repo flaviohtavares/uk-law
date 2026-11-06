@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Parent councils for certain foundation or foundation special schools[^key-cfcd78140abf7204d036e0fc1959d8d4]
+## 34. Parent councils for certain foundation or foundation special schools[^c-cfcd78140abf7204d036e0fc1959d8d4]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ After section 23 of EA 2002 insert—
 
 ## Annotations
 
-[^key-cfcd78140abf7204d036e0fc1959d8d4]: Commencement: S. 34 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(i)](https://www.legislation.gov.uk/uksi/2007/935/article/7/i)
+[^c-cfcd78140abf7204d036e0fc1959d8d4]: Commencement: S. 34 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(i)](https://www.legislation.gov.uk/uksi/2007/935/article/7/i)

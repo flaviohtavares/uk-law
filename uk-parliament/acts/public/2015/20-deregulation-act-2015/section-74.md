@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Motor racing: road closures[^key-75c1f06e4ce462c72dfde746060614e0]
+## 74. Motor racing: road closures[^c-75c1f06e4ce462c72dfde746060614e0]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c1f06e4ce462c72dfde746060614e0]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/20/section/74) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/273/article/2/b)
+[^c-75c1f06e4ce462c72dfde746060614e0]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/20/section/74) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/273/article/2/b)

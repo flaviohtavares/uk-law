@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-The Medicines (Gonadotrophin-Releasing Hormone Analogues) (Emergency Prohibition) (Extension) (No. 2) Order 2024 (revoked)[^key-9ef7b982dad4ad10144ee3292d91a03a]
+The Medicines (Gonadotrophin-Releasing Hormone Analogues) (Emergency Prohibition) (Extension) (No. 2) Order 2024 (revoked)[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 27th November 2024
 
-[^key-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent, application and expiry[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 1. Citation, commencement, extent, application and expiry[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 2. Interpretation[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the sale or supply of medicinal products consisting of or containing gonadotrophin-releasing hormone analogues[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 3. Prohibition on the sale or supply of medicinal products consisting of or containing gonadotrophin-releasing hormone analogues[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exception for NHS prescriptions[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 4. Exception for NHS prescriptions[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exception for private prescriptions: patients aged 18 or over[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 5. Exception for private prescriptions: patients aged 18 or over[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exception for private prescriptions: patients aged under 18[^key-9ef7b982dad4ad10144ee3292d91a03a]
+## 6. Exception for private prescriptions: patients aged under 18[^c-9ef7b982dad4ad10144ee3292d91a03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ef7b982dad4ad10144ee3292d91a03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ef7b982dad4ad10144ee3292d91a03a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1110) expired (1.1.2025) by [The Medicines (Gonadotrophin-Releasing Hormone Analogues) (Emergency Prohibition) (Extension) (No. 2) Order 2024 (S.I. 2024/1110)](https://www.legislation.gov.uk/uksi/2024/1110), [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1110/article/1/4)
+[^c-9ef7b982dad4ad10144ee3292d91a03a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/1110) expired (1.1.2025) by [The Medicines (Gonadotrophin-Releasing Hormone Analogues) (Emergency Prohibition) (Extension) (No. 2) Order 2024 (S.I. 2024/1110)](https://www.legislation.gov.uk/uksi/2024/1110), [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1110/article/1/4)

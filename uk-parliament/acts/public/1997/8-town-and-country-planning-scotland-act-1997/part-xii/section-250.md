@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 250. Requirement of planning permission for continuance of use instituted by the Crown.[^key-8fdb77eda5f88aa28c124c956fd069d8]
+## 250. Requirement of planning permission for continuance of use instituted by the Crown.[^c-8fdb77eda5f88aa28c124c956fd069d8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fdb77eda5f88aa28c124c956fd069d8]: Textual amendment: S. 250 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 26(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/26/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 5 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/26/2)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)
+[^c-8fdb77eda5f88aa28c124c956fd069d8]: Textual amendment: S. 250 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 26(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/26/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 5 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/26/2)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)

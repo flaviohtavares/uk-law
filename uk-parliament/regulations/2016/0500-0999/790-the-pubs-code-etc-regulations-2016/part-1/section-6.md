@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Significant increase in price: services[^key-703333398fb623f776018e9d54e06dc7]
+## 6. Significant increase in price: services[^c-703333398fb623f776018e9d54e06dc7]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ where—
 - (a) “**service**” means a service which is supplied under a service tie[^f00009];
 - (b) “**comparison period services**” means all services invoiced to the tied pub tenant in the comparison period, in the quantities so invoiced, but excluding any service for which no invoice was issued to the tied pub tenant in the current period;
 - (c) “**current period**” means the period of 4 weeks ending with the day on which the relevant invoice is issued;
-- (d) “**the comparison period**” means the period of 4 weeks beginning[^key-1ae414a78aea868d4a122b55b9885ba9] with the day 12 months before the day on which the relevant invoice is issued;
+- (d) “**the comparison period**” means the period of 4 weeks beginning[^c-1ae414a78aea868d4a122b55b9885ba9] with the day 12 months before the day on which the relevant invoice is issued;
 - (e) “**current period price**”, in relation to a service, means the price of that service on the last invoice for that service issued during the current period;
 - (f) “**invoice for services**” includes an invoice which covers (in addition to services) products; and references to services being invoiced are to be read accordingly;
 - (g) “**the relevant annual percentage change in the consumer price index**” means the annual percentage change in the consumer price index most recently published before the day on which the relevant invoice is issued, in respect of the most recent month covered by that publication.
@@ -60,8 +60,8 @@ where—
 
 ## Annotations
 
-[^key-703333398fb623f776018e9d54e06dc7]: Commencement: Reg. 6 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-703333398fb623f776018e9d54e06dc7]: Commencement: Reg. 6 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00009]: Footnote: Section 72(1) of SBEEA 2015 defines “service tie”.
 
-[^key-1ae414a78aea868d4a122b55b9885ba9]: Textual amendment: Word in [reg. 6(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/6/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-1ae414a78aea868d4a122b55b9885ba9]: Textual amendment: Word in [reg. 6(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/6/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

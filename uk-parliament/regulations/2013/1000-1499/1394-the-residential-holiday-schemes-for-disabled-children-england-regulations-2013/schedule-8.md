@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 37
 
-**1.**[^key-ee7f5c9abf917da41d521a633f9bf96b] In regulation 2 (interpretation)—
+**1.**[^c-ee7f5c9abf917da41d521a633f9bf96b] In regulation 2 (interpretation)—
 
 - (a) after the definition of “existing provider” insert—
 
@@ -31,7 +31,7 @@ Regulation 37
   ;
 - (b) in the definition of “registered provider”, for “or agency”, in each place where the words occur, substitute “, agency or holiday scheme for disabled children”.
 
-**2.**[^key-70932635bf76dc0ad196b701276dfd6d] After regulation 7 (fostering agencies) insert—
+**2.**[^c-70932635bf76dc0ad196b701276dfd6d] After regulation 7 (fostering agencies) insert—
 
 > **7A. Holiday schemes for disabled children**
 >
@@ -41,7 +41,7 @@ Regulation 37
 
 .
 
-**3.**[^key-933ce39ba7c59f6bd4997434cc51336e] After regulation 17 (children’s homes etc) insert—
+**3.**[^c-933ce39ba7c59f6bd4997434cc51336e] After regulation 17 (children’s homes etc) insert—
 
 > **17A. Holiday schemes for disabled children**
 >
@@ -49,7 +49,7 @@ Regulation 37
 
 .
 
-**4.**[^key-b3bdc7c3dcdaa9b008b64d5f84e50fd4] In regulation 19(1)(c) (frequency of inspections), after “period” insert—
+**4.**[^c-b3bdc7c3dcdaa9b008b64d5f84e50fd4] In regulation 19(1)(c) (frequency of inspections), after “period” insert—
 
 > - (d) for the purposes of a holiday scheme for disabled children, at least once in every 12 month period
 
@@ -57,10 +57,10 @@ Regulation 37
 
 ## Annotations
 
-[^key-ee7f5c9abf917da41d521a633f9bf96b]: Commencement: Sch. 8 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-ee7f5c9abf917da41d521a633f9bf96b]: Commencement: Sch. 8 para. 1 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-70932635bf76dc0ad196b701276dfd6d]: Commencement: Sch. 8 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-70932635bf76dc0ad196b701276dfd6d]: Commencement: Sch. 8 para. 2 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-933ce39ba7c59f6bd4997434cc51336e]: Commencement: Sch. 8 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-933ce39ba7c59f6bd4997434cc51336e]: Commencement: Sch. 8 para. 3 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
-[^key-b3bdc7c3dcdaa9b008b64d5f84e50fd4]: Commencement: Sch. 8 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-b3bdc7c3dcdaa9b008b64d5f84e50fd4]: Commencement: Sch. 8 para. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

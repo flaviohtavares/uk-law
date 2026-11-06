@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Consultation on reviews[^key-162284b8980a567695e4e03e4b2d0c1c]
+## 45. Consultation on reviews[^c-162284b8980a567695e4e03e4b2d0c1c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-162284b8980a567695e4e03e4b2d0c1c]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2024/5/section/45) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-162284b8980a567695e4e03e4b2d0c1c]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2024/5/section/45) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Section 207 of the Companies Act 1989: bearer securities.[^key-0d1828cf66ce7c6faf3caafa8ba271a4]
+## 35. Section 207 of the Companies Act 1989: bearer securities.[^c-0d1828cf66ce7c6faf3caafa8ba271a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1828cf66ce7c6faf3caafa8ba271a4]: Textual amendment: S. 35 repealed (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/948/schedule/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-0d1828cf66ce7c6faf3caafa8ba271a4]: Textual amendment: S. 35 repealed (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/948/schedule/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

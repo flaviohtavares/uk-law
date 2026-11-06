@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Children’s Hearings (Scotland) Act 2011 (Rehabilitation of Offenders) (Transitory Provisions) Order 2013 (revoked)[^key-93fe6b6865245e928e130e062453d942]
+The Children’s Hearings (Scotland) Act 2011 (Rehabilitation of Offenders) (Transitory Provisions) Order 2013 (revoked)[^c-93fe6b6865245e928e130e062453d942]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1(1)
 
-[^key-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and cessation of effect[^key-93fe6b6865245e928e130e062453d942]
+## 1. Citation, commencement and cessation of effect[^c-93fe6b6865245e928e130e062453d942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Rehabilitation of Offenders Act 1974[^key-93fe6b6865245e928e130e062453d942]
+## 2. Modification of the Rehabilitation of Offenders Act 1974[^c-93fe6b6865245e928e130e062453d942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93fe6b6865245e928e130e062453d942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93fe6b6865245e928e130e062453d942]: Textual amendment: Order revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/16); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-93fe6b6865245e928e130e062453d942]: Textual amendment: Order revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/16); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

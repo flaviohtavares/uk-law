@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Arrangements to notify schools etc[^key-3964c3d8d9ee0b1865bd0eda6dc8876d]
+## 49A. Arrangements to notify schools etc[^c-3964c3d8d9ee0b1865bd0eda6dc8876d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3964c3d8d9ee0b1865bd0eda6dc8876d]: Textual amendment: Ss. 49A, 49B and cross-heading inserted (7.11.2025 for the insertion of s. 49A, otherwise prosp.) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/20/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)
+[^c-3964c3d8d9ee0b1865bd0eda6dc8876d]: Textual amendment: Ss. 49A, 49B and cross-heading inserted (7.11.2025 for the insertion of s. 49A, otherwise prosp.) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/20/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)

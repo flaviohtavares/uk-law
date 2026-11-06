@@ -29,134 +29,134 @@ Finance Act 1964 (repealed)
 
 1964 c. 49
 
-[^key-879d878167ac43174a273c845e7ee9cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-879d878167ac43174a273c845e7ee9cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART I[^key-879d878167ac43174a273c845e7ee9cc]
-
-**No longer in force.**
-
-### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 10. Stores.[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-## PART II[^key-879d878167ac43174a273c845e7ee9cc]
+## PART I[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
-### 13—21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
+### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
 
-## PART III — MISCELLANEOUS[^key-879d878167ac43174a273c845e7ee9cc]
+### 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 10. Stores.[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+## PART II[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
-### 22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
+### 13—21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
 
-### 23. Exemption of service contracts from stamp duty.[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 24. Transfer et ceteralaetc. of Government stock entered in Dublin register.[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-### 26. Short title, construction, extent and repeal.[^key-879d878167ac43174a273c845e7ee9cc][^key-879d878167ac43174a273c845e7ee9cc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-879d878167ac43174a273c845e7ee9cc] SCHEDULES
-
-## SCHEDULES 1—4 — . . .[^key-879d878167ac43174a273c845e7ee9cc]
+## PART III — MISCELLANEOUS[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
+### 22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 23. Exemption of service contracts from stamp duty.[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — . . .[^key-879d878167ac43174a273c845e7ee9cc]
+### 24. Transfer et ceteralaetc. of Government stock entered in Dublin register.[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+### 26. Short title, construction, extent and repeal.[^c-879d878167ac43174a273c845e7ee9cc][^c-879d878167ac43174a273c845e7ee9cc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-879d878167ac43174a273c845e7ee9cc] SCHEDULES
+
+## SCHEDULES 1—4 — . . .[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — . . .[^key-879d878167ac43174a273c845e7ee9cc]
+## SCHEDULE 5 — . . .[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — . . .[^key-879d878167ac43174a273c845e7ee9cc]
+## SCHEDULE 6 — . . .[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — MODIFICATION OF ENACTMENTS FOR PURPOSES OF SECTION 24[^key-879d878167ac43174a273c845e7ee9cc]
+## SCHEDULE 7 — . . .[^c-879d878167ac43174a273c845e7ee9cc]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8 — MODIFICATION OF ENACTMENTS FOR PURPOSES OF SECTION 24[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
 Section 24.
 
-### THE FINANCE ACT 1942 — (5 & 6 Geo. 6 c. 21)[^key-879d878167ac43174a273c845e7ee9cc]
+### THE FINANCE ACT 1942 — (5 & 6 Geo. 6 c. 21)[^c-879d878167ac43174a273c845e7ee9cc]
 
-**1.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4—7.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4—7.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### THE MISCELLANEOUS FINANCIAL PROVISIONS ACT 1955 — (4 & 5 Eliz. 2 c. 6)[^key-879d878167ac43174a273c845e7ee9cc]
+### THE MISCELLANEOUS FINANCIAL PROVISIONS ACT 1955 — (4 & 5 Eliz. 2 c. 6)[^c-879d878167ac43174a273c845e7ee9cc]
 
-**8.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### THE STOCK TRANSFER ACT 1963 — (1963 c. 18)[^key-879d878167ac43174a273c845e7ee9cc]
+### THE STOCK TRANSFER ACT 1963 — (1963 c. 18)[^c-879d878167ac43174a273c845e7ee9cc]
 
-**10.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — Repeals[^key-879d878167ac43174a273c845e7ee9cc]
+## SCHEDULE 9 — Repeals[^c-879d878167ac43174a273c845e7ee9cc]
 
 **No longer in force.**
 
 Section 26.
 
-[^key-879d878167ac43174a273c845e7ee9cc]
+[^c-879d878167ac43174a273c845e7ee9cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-879d878167ac43174a273c845e7ee9cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-879d878167ac43174a273c845e7ee9cc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-879d878167ac43174a273c845e7ee9cc]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Liability of owner and successors for certain costs[^key-a9b89cd8acc9a2fc0338d75e157e7510]
+## 12. Liability of owner and successors for certain costs[^c-a9b89cd8acc9a2fc0338d75e157e7510]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9b89cd8acc9a2fc0338d75e157e7510]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2004/11/section/12) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-a9b89cd8acc9a2fc0338d75e157e7510]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2004/11/section/12) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

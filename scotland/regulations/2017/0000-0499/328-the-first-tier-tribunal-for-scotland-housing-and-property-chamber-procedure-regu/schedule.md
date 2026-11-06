@@ -22,11 +22,11 @@ summary: ''
 
 ### PART 1 — Rules common to all proceedings before the First-tier Tribunal
 
-#### 1. Application and interpretation[^key-26ea6f8e7adfd9381fc2d57abfd605d2]
+#### 1. Application and interpretation[^c-26ea6f8e7adfd9381fc2d57abfd605d2]
 
-(1) Subject to paragraph (1A),[^key-899fc77c2624afbc77117fa90e534cc7] Part 1 of the Rules applies to all proceedings before the First-tier Tribunal.
+(1) Subject to paragraph (1A),[^c-899fc77c2624afbc77117fa90e534cc7] Part 1 of the Rules applies to all proceedings before the First-tier Tribunal.
 
-(1A)[^key-5f63b2636494aeb9f75fd29c39dfd6dd] Part 1 of the Rules applies to an appeal under section 24G of the 1988 Act or section 33C of the 2016 Act subject to the modifications in rule 114.
+(1A)[^c-5f63b2636494aeb9f75fd29c39dfd6dd] Part 1 of the Rules applies to an appeal under section 24G of the 1988 Act or section 33C of the 2016 Act subject to the modifications in rule 114.
 
 (2) In these Rules—
 
@@ -34,26 +34,26 @@ summary: ''
 - “the 1988 Act” means the Housing (Scotland) Act 1988;
 - “the 2004 Act” means the Antisocial Behaviour etc. (Scotland) Act 2004;
 - “the 2006 Act” means the Housing (Scotland) Act 2006;
-- “the 2007 Act” means the Bankruptcy and Diligence[^key-ccd11fc25fca13fb3412d86283213c44] etc. (Scotland) Act 2007,
+- “the 2007 Act” means the Bankruptcy and Diligence[^c-ccd11fc25fca13fb3412d86283213c44] etc. (Scotland) Act 2007,
 - “the 2011 Act” means the Property Factors (Scotland) Act 2011;
 - “the 2011 Regulations” means the Tenancy Deposit Schemes (Scotland) Regulations 2011;
 - “the 2014 Act” means the Housing (Scotland) Act 2014;
 - “the 2016 Act” means the Private Housing (Tenancies) (Scotland) Act 2016;
-- “[^key-044be304e520dd7cab4059ea99275a4a]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-044be304e520dd7cab4059ea99275a4a]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “adjourn” means, in relation to a hearing, a decision by the First-tier Tribunal to suspend after it has begun and continue on a later date;
 - “appeal” means the exercise of a right of appeal under section 46 of the Tribunals Act;
 - “application” means an application made to the First-tier Tribunal and includes an assured tenancy reference and a regulated tenancy reference and “applicant” is to be construed accordingly;
 - “assured tenancy reference[^M_F_2eb3e92d-e44f-4215-9af7-4709caec7ccb]” means—
   - (a) a reference by a landlord or a tenant under section 17(3) of the 1988 Act of a notice which has been served under section 17(2) of that Act (notice proposing terms of a statutory assured tenancy and, if appropriate, an adjustment of the rent to take account of the proposed terms);
   - (b) a reference by a tenant under section 24(3) of the 1988 Act of a notice which has been served under section 24(1) of that Act (notice proposing an increase in rent under an assured tenancy);
-  - (ba) an appeal by a tenant or landlord under section 24B of the 1988 Act against an order made by the rent officer under section 24A(2) or (3) of that Act (consideration of notice to increase rent by rent officer),[^key-d4e410e021852906004ce297150edf49]
+  - (ba) an appeal by a tenant or landlord under section 24B of the 1988 Act against an order made by the rent officer under section 24A(2) or (3) of that Act (consideration of notice to increase rent by rent officer),[^c-d4e410e021852906004ce297150edf49]
   - (c) a reference by a tenant under section 25A(4)(a) of the 1988 Act of a notice which has been served on the tenant under section 25A(2) of that Act (notice proposing a new rent to take account of any sums payable by the tenant to the landlord in respect of council tax); or
   - (d) an application by a tenant under section 34(1) of the 1988 Act (application for a determination of the rent which the landlord might reasonably be expected to obtain under a short assured tenancy);
 - “case management discussion” includes any resumed discussion;
 - “chairing member” means the chairing member of the First-tier Tribunal and is the legal member where a hearing is heard by two or more members;
 - “Chamber President” means Chamber President of the First-tier Tribunal;
 - “charge for removing” means the charge for removing in the form set out in the schedule of the Removing from Heritable Property (Form of Charge) (Scotland) Regulations 2011,
-- “[^key-ede5e392c99723ea4cf644a63f504d39]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “[^c-ede5e392c99723ea4cf644a63f504d39]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
 - “electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000[^f00016] and “electronic signature” has the same meaning as in section 7 of that Act[^f00017];
 - “First-tier Tribunal” means the First-tier Tribunal for Scotland Housing and Property Chamber;
 - “hearing” includes an oral hearing, any hearing conducted in whole or in part by video link, telephone or other means of instantaneous communication and any resumed hearing;
@@ -64,15 +64,15 @@ summary: ''
 - “postpone” means, in relation to a hearing, a decision by the First-tier Tribunal to defer to a date later than that originally set by the First-tier Tribunal;
 - “proceedings” means the proceedings in relation to the making of a decision under these Rules;
 - “regulated tenancy reference” means a matter which is referred by a rent officer to the First-tier Tribunal under paragraph 7 or 12 of schedule 5 of the 1984 Act or an application for a certificate of fair rent which is referred by a rent officer to the First-tier Tribunal under paragraph 2 or 6 of schedule 6 of the 1984 Act or a Part VII contract;
-- “[^key-5ee4cc293a85d4a4ea25b6a3e53b9b66]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
-- “[^key-1dfa4a3c7d3ce8e41a1093a7cb85e05f]**rent officer**” has the meaning given by section 43 of the Rent (Scotland) Act 1984,
+- “[^c-5ee4cc293a85d4a4ea25b6a3e53b9b66]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “[^c-1dfa4a3c7d3ce8e41a1093a7cb85e05f]**rent officer**” has the meaning given by section 43 of the Rent (Scotland) Act 1984,
 - “representative” means a lay representative or a legal representative of a party;
 - “review” means the internal review provided for by section 43(1) of the Tribunals Act;
 - “service by advertisement” means service in accordance with rule 6A.
 - “the Tribunals Act” means the Tribunals (Scotland) Act 2014; and
 - “writing” includes electronic communication which has been recorded and is consequently capable of being reproduced; and this applies also to “written”.
 
-#### 2. The overriding objective[^key-4e45b7b47279200b5e908b9c4ecb1275]
+#### 2. The overriding objective[^c-4e45b7b47279200b5e908b9c4ecb1275]
 
 (1) The overriding objective of the First-tier Tribunal is to deal with the proceedings justly.
 
@@ -84,7 +84,7 @@ summary: ''
 - (d) using the special expertise of the First-tier Tribunal effectively; and
 - (e) avoiding delay, so far as compatible with the proper consideration of the issues.
 
-#### 3. Effect of the overriding objective[^key-c2d1694932f44eaf6aa60b636df0ba86]
+#### 3. Effect of the overriding objective[^c-c2d1694932f44eaf6aa60b636df0ba86]
 
 (1) The Chamber President and the First-tier Tribunal must seek to give effect to the overriding objective when—
 
@@ -95,7 +95,7 @@ summary: ''
 
 (3) The parties must assist the Chamber President or the First-tier Tribunal to further the overriding objective.
 
-#### 3A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-0f0f5b3e2833c0abb8b32017692faa9f]
+#### 3A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-0f0f5b3e2833c0abb8b32017692faa9f]
 
 (1) This rule applies to—
 
@@ -139,11 +139,11 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the First-tier Tribunal must notify the relevant authority of this as soon as practicable.
 
-#### 4. Application[^key-6e503c968d26762e43129e50234cc169]
+#### 4. Application[^c-6e503c968d26762e43129e50234cc169]
 
 An application to the First-tier Tribunal must be in writing and may be made using a form obtained from the First-tier Tribunal.
 
-#### 5. Requirements for making an application[^key-abc4934265cc4e77186099e8cfd31cb4]
+#### 5. Requirements for making an application[^c-abc4934265cc4e77186099e8cfd31cb4]
 
 (1) An application is held to have been made on the date that it is lodged if, on that date, it is lodged in the manner as set out in rules 43, 47 to 50, 55, 59, 61, 65 to 70, 72, 75 to 91, 93 to 95, 98 to 101, 103 or 105 to 111, as appropriate.
 
@@ -151,7 +151,7 @@ An application to the First-tier Tribunal must be in writing and may be made usi
 
 (3) If it is determined that an application has not been lodged in the prescribed manner, the Chamber President or another member of the First-tier Tribunal, under the delegated powers of the Chamber President, may request further documents and the application is to be held to be made on the date that the First-tier Tribunal receives the last of any outstanding documents necessary to meet the required manner for lodgement.
 
-(4)[^key-9229d4db53e4856b5183fcbc4809176c] Where the address of a party is not known to the person making an application under these Rules, the applicant must state this in the application and complete a request for service by advertisement in accordance with paragraph (5).
+(4)[^c-9229d4db53e4856b5183fcbc4809176c] Where the address of a party is not known to the person making an application under these Rules, the applicant must state this in the application and complete a request for service by advertisement in accordance with paragraph (5).
 
 (5) Any request for service by advertisement must provide details of any steps taken to ascertain the address of the party and be accompanied by a copy of any notice required under these Rules which the applicant attempted to serve on the other party and evidence of any attempted service.
 
@@ -166,13 +166,13 @@ An application to the First-tier Tribunal must be in writing and may be made usi
 
 within such reasonable period from the date of such request or such direction as the Chamber President considers appropriate.
 
-#### 5A. Time limits[^key-c4ea006fd308df2d92336d6ba48ab0dc]
+#### 5A. Time limits[^c-c4ea006fd308df2d92336d6ba48ab0dc]
 
 (1) This rule applies where no time limit for making an application is prescribed by or under another enactment.
 
 (2) Where the application relates to a right of appeal from any decision, the application must be lodged with the First-tier Tribunal, in accordance with rule 5, within 21 days after the date on which notice of the decision to which the application relates was sent to the applicant.
 
-#### 6. Service[^key-d8a098cc40109aa0521560d345be86e4]
+#### 6. Service[^c-d8a098cc40109aa0521560d345be86e4]
 
 (1) Where any formal communication requires to be served on any person, it is deemed to be served if—
 
@@ -192,9 +192,9 @@ within such reasonable period from the date of such request or such direction as
 
 (5) Where a party, a representative or an interested party provides an email address, the First-tier Tribunal is to communicate using that address until the party, representative or interested party requests that another method of communication be used.
 
-(6)[^key-f9f00ba271188e3180a378f982d14842] Where an action for removing is against a tenant or occupier in possession of heritable property and the name of the tenant in possession or occupier is not known and cannot reasonably be ascertained, the requirement for the tenant’s or occupier’s name set out in rule 65(a)(iii), 66(a)(iii), 77(a)(iii), 79(a)(iii) or 109(a)(iii) is waived and any formal communication may be served on “the Occupier”.
+(6)[^c-f9f00ba271188e3180a378f982d14842] Where an action for removing is against a tenant or occupier in possession of heritable property and the name of the tenant in possession or occupier is not known and cannot reasonably be ascertained, the requirement for the tenant’s or occupier’s name set out in rule 65(a)(iii), 66(a)(iii), 77(a)(iii), 79(a)(iii) or 109(a)(iii) is waived and any formal communication may be served on “the Occupier”.
 
-#### 6A. Service by advertisement[^key-dac776b2acd0b8f1d695140505cf78d0]
+#### 6A. Service by advertisement[^c-dac776b2acd0b8f1d695140505cf78d0]
 
 (1) Where any formal communication requires to be served on a party under these Rules, and the party’s address is unknown, the communication is deemed to be served if it has been publicised by advertisement on the website of the First-tier Tribunal for not less than 14 days or, in the event that another enactment provides for a longer period of notice for the communication, for not less than that period.
 
@@ -213,11 +213,11 @@ within such reasonable period from the date of such request or such direction as
 
 (4) Where paragraph (3) applies, the First-tier Tribunal may direct a review of the timescales for further procedure in relation to the application, if it thinks fit in the interests of justice.
 
-#### 7. Signature of document[^key-12bfc342af980d080cadf77fa498796c]
+#### 7. Signature of document[^c-12bfc342af980d080cadf77fa498796c]
 
 A requirement in these Rules for a document to be signed by a person is satisfied, in the case of a document which is transmitted by electronic communication in accordance with these Rules, by electronic signature of the person who is required to sign the document.
 
-#### 8. Rejection of application[^key-428312320845db963893c371184d8b4a]
+#### 8. Rejection of application[^c-428312320845db963893c371184d8b4a]
 
 (1) The Chamber President or another member of the First-tier Tribunal under the delegated powers of the Chamber President, must reject an application if—
 
@@ -229,7 +229,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (2) Where the Chamber President, or another member of the First-tier Tribunal, under the delegated powers of the Chamber President, makes a decision under paragraph (1) to reject an application the First-tier Tribunal must notify the applicant and the notification must state the reason for the decision.
 
-#### 9. Notification of acceptance of application[^key-fe3d5caa530bf72c1612384ae5f9cd21]
+#### 9. Notification of acceptance of application[^c-fe3d5caa530bf72c1612384ae5f9cd21]
 
 (1) Where rule 8 does not apply, the First-tier Tribunal must, as soon as practicable, give notice to each party—
 
@@ -243,7 +243,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (3) The First-tier Tribunal must notify each party of a change mentioned in paragraph (2)(b).
 
-#### 10. Representatives[^key-cb4a9552f6fa19c60cb24ae5e4ae1ed9]
+#### 10. Representatives[^c-cb4a9552f6fa19c60cb24ae5e4ae1ed9]
 
 (1) A party may be represented in any proceedings by a representative whose details must be notified to the First-tier Tribunal prior to any hearing.
 
@@ -251,7 +251,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (3) Where a document or information is disclosed under paragraph (2), the representative is subject to any prohibition or restriction on disclosure in the same way that the party is.
 
-(4) Anything permitted or required to be done by a party under these Rules, a practice direction or an order[^M_F_54996339-2d75-4de6-8bc0-252278c5ecee] may be done by a lay representative or legal representative[^key-1de25574da2f0b7d61d94be7e7a8b762], except the signing of an affidavit or precognition.
+(4) Anything permitted or required to be done by a party under these Rules, a practice direction or an order[^M_F_54996339-2d75-4de6-8bc0-252278c5ecee] may be done by a lay representative or legal representative[^c-1de25574da2f0b7d61d94be7e7a8b762], except the signing of an affidavit or precognition.
 
 (5) The First-tier Tribunal may order that a lay representative is not to represent a party if—
 
@@ -262,7 +262,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (7) Where a representative ceases to act for a party, the representative or the party must immediately notify the First-tier Tribunal and any other party of that fact, and give details of any new representative (if known).
 
-#### 11. Supporters[^key-8f2b7bb02206ed64778e6002896d5cd5]
+#### 11. Supporters[^c-8f2b7bb02206ed64778e6002896d5cd5]
 
 (1) A party who is an individual may be accompanied by another individual to act as a supporter.
 
@@ -286,7 +286,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 - (a) it is of the opinion that the supporter is an unsuitable person to act as a supporter (whether generally or in the proceedings concerned); or
 - (b) it is satisfied that to do so would be in the interests of the efficient administration of justice.
 
-#### 12. Hearing two or more applications together[^key-3697c78b9cf65470b007ba71c42a415f]
+#### 12. Hearing two or more applications together[^c-3697c78b9cf65470b007ba71c42a415f]
 
 (1) The First-tier Tribunal may direct two or more applications to be heard together where they are under consideration by the First-tier Tribunal at the same time and relate to the same—
 
@@ -298,7 +298,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (2) The First-tier Tribunal may require the parties to take any steps necessary to enable two or more applications to be heard together.
 
-#### 13. Amendment to a party’s written representations[^key-399bb0c209c5348fba61c89c54e1ea7d]
+#### 13. Amendment to a party’s written representations[^c-399bb0c209c5348fba61c89c54e1ea7d]
 
 (1) Subject to rule 14, a party may amend their written representations—
 
@@ -314,7 +314,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (4) In this rule “working day” means any day except a Saturday or Sunday or a bank holiday in Scotland under section 1 of the Banking and Financial Dealings Act 1971[^f00019].
 
-#### 14. Amendment raising new issues[^key-d6ec1ff040b77564cf86ff9387df7c5e]
+#### 14. Amendment raising new issues[^c-d6ec1ff040b77564cf86ff9387df7c5e]
 
 (1) Where the effect of any amendment of the written representations under rule 13(1)(a) by the party would be to introduce a new issue, such amendment may only be made with the consent of the First-tier Tribunal and on such conditions, if any, as the First-tier Tribunal thinks fit.
 
@@ -331,13 +331,13 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (6) Where written representations are amended to include a new issue and the other party requests further time to comply with any duty under an enactment, then, the First-tier Tribunal must allow such further time as it considers reasonable.
 
-#### 14A. Request to amend the application in respect of matters other than new issues[^key-63e9498cf13916afea970300352ffc5e]
+#### 14A. Request to amend the application in respect of matters other than new issues[^c-63e9498cf13916afea970300352ffc5e]
 
 (1) Where a new issue is not raised, a party may request to amend the application, including the sum claimed, by intimating the amendment to any other party and the First-tier Tribunal at least 14 days prior to a case management discussion or hearing.
 
 (2) The First-tier Tribunal may consent to the amendment on such conditions, if any, as the First-tier Tribunal thinks fit.
 
-#### 15. Withdrawal of an application[^key-926e966f53a5e36b8810f1adda797d93]
+#### 15. Withdrawal of an application[^c-926e966f53a5e36b8810f1adda797d93]
 
 (1) An application may be withdrawn by an applicant at any time—
 
@@ -346,7 +346,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (2) When notifying under paragraph (1)(b), the notice of withdrawal must be in writing and may be made on a form obtained from the First-tier Tribunal.
 
-#### 16. Directions[^key-41a3e71ab7b59e76354f1b171f550aa0]
+#### 16. Directions[^c-41a3e71ab7b59e76354f1b171f550aa0]
 
 (1) On its own initiative or on the application of a party, the First-tier Tribunal may give directions to the parties relating to the conduct or progress of the application.
 
@@ -370,7 +370,7 @@ A requirement in these Rules for a document to be signed by a person is satisfie
 
 (4) When making directions the First-tier Tribunal must take into account the ability of parties to comply with the directions.
 
-#### 16A. Regulation of procedure[^key-8c4b1ef50d6a60b866c147bed812b134]
+#### 16A. Regulation of procedure[^c-8c4b1ef50d6a60b866c147bed812b134]
 
 Subject to the provisions of housing legislation, the Tribunals Act and these Rules, the First-tier Tribunal may regulate its own procedure, including—
 
@@ -382,7 +382,7 @@ Subject to the provisions of housing legislation, the Tribunals Act and these Ru
 - (c) adjourning or postponing cases which are not the lead case until the common or related issues have been determined in the lead case,
 - (d) ordering a delay in execution of an order by the First-tier Tribunal at any time before it is executed.
 
-#### 17. Case management discussion[^key-c94a00b3197a16fc8905477e41530a6c]
+#### 17. Case management discussion[^c-c94a00b3197a16fc8905477e41530a6c]
 
 (1) The First-tier Tribunal may order a case management discussion to be held—
 
@@ -403,7 +403,7 @@ Subject to the provisions of housing legislation, the Tribunals Act and these Ru
 
 (4) The First-tier Tribunal may do anything at a case management discussion which it may do at a hearing, including making a decision.
 
-#### 18. Power to determine the proceedings without a hearing[^key-519751a8248ad19d1c86d6c75fafbe66]
+#### 18. Power to determine the proceedings without a hearing[^c-519751a8248ad19d1c86d6c75fafbe66]
 
 (1) Subject to paragraph (2), the First-tier Tribunal—
 
@@ -418,7 +418,7 @@ a decision made by the First-tier Tribunal.
 
 (2) Before making a decision under paragraph (1), the First-tier Tribunal must consider any written representations submitted by the parties.
 
-#### 19. Mediation[^key-47d1837a7753aff816103157acd10b86]
+#### 19. Mediation[^c-47d1837a7753aff816103157acd10b86]
 
 In cases identified by the Chamber President as suitable for mediation, the First-tier Tribunal must—
 
@@ -426,7 +426,7 @@ In cases identified by the Chamber President as suitable for mediation, the Firs
 - (b) provide information explaining what mediation involves; and
 - (c) if the parties consent to mediation, adjourn or postpone the hearing in accordance with rule 28 to enable the parties to access mediation.
 
-#### 20. Inquiries[^key-cddf9b945d99a63ce1f6f85bf1cb8145]
+#### 20. Inquiries[^c-cddf9b945d99a63ce1f6f85bf1cb8145]
 
 (1) The First-tier Tribunal may make such inquiries as it thinks fit for the purpose of exercising its functions.
 
@@ -444,7 +444,7 @@ In cases identified by the Chamber President as suitable for mediation, the Firs
 - (b) by the day specified in a notice given under rule 9(2)(b); or
 - (c) later than the day mentioned in paragraph (a) or (b), if the First-tier Tribunal is satisfied that the party has a reasonable excuse.
 
-#### 21. Powers of the First-tier Tribunal to require production of evidence[^key-26852632cfc1d9baa21b862ed1fe2bdb]
+#### 21. Powers of the First-tier Tribunal to require production of evidence[^c-26852632cfc1d9baa21b862ed1fe2bdb]
 
 (1) The First-tier Tribunal may require any person—
 
@@ -457,7 +457,7 @@ In cases identified by the Chamber President as suitable for mediation, the Firs
 
 (4) Where a party seeks to rely upon a copy of a document as evidence, the First-tier Tribunal may require the original document to be produced.
 
-#### 22. Lodging of documents etc.[^key-e66deeac0622b859cd702f89267b43d9]
+#### 22. Lodging of documents etc.[^c-e66deeac0622b859cd702f89267b43d9]
 
 (1) Except as otherwise provided in these Rules, or as otherwise specified by the First-tier Tribunal, a party must send to the First-tier Tribunal no later than 7 days prior to any hearing notified under rule 24(1)—
 
@@ -466,13 +466,13 @@ In cases identified by the Chamber President as suitable for mediation, the Firs
 
 (2) Before allowing a document to be lodged late, the First-tier Tribunal must be satisfied that the party has a reasonable excuse.
 
-#### 23. Documents at hearings[^key-f84d29ce7f2962dea5fbb97b3b34a92f]
+#### 23. Documents at hearings[^c-f84d29ce7f2962dea5fbb97b3b34a92f]
 
 (1) Where the application is to be subject to a hearing, the First-tier Tribunal must take all reasonable steps to ensure that there is sent to each of the parties at least 3 days before the date of the hearing, a copy of, or sufficient extracts from, or particulars of, each document relevant to the application which has been received from a party (other than a document which is in the possession of such party or of which that party has previously been sent a copy).
 
 (2) Paragraph (1) does not apply to assured tenancy references[^f00020].
 
-#### 24. Hearings[^key-faf8226f289fdcdde549bfed560024fb]
+#### 24. Hearings[^c-faf8226f289fdcdde549bfed560024fb]
 
 (1) The First-tier Tribunal must give each party reasonable notice of the date, time and place of a hearing (including any adjourned or postponed hearing) and any changes to the date, time and place of a hearing.
 
@@ -488,7 +488,7 @@ In cases identified by the Chamber President as suitable for mediation, the Firs
 
 (5) The First-tier Tribunal may exclude from the hearing a person who is to appear as a witness until such time as that person gives evidence if it considers it is fair in all the circumstances to do so.
 
-#### 25. Duties of chairing member at a hearing[^key-bac4bd3a5bdd18301d7dc807857e5b72]
+#### 25. Duties of chairing member at a hearing[^c-bac4bd3a5bdd18301d7dc807857e5b72]
 
 The chairing member must take reasonable steps to—
 
@@ -500,7 +500,7 @@ The chairing member must take reasonable steps to—
 
 the proceedings.
 
-#### 26. Decisions of the First-tier Tribunal[^key-f08280ba1fb70b8d5ff9457cf51b9b9c]
+#### 26. Decisions of the First-tier Tribunal[^c-f08280ba1fb70b8d5ff9457cf51b9b9c]
 
 (1) Where there are two or more members, the decision of the First-tier Tribunal, must be made by majority but in the event of a tie, the chairing member has a casting vote.
 
@@ -525,7 +525,7 @@ the proceedings.
 
 (10) A decision of the First-tier Tribunal with a statement of reasons (if prepared) or note given under paragraph (8) must be published.
 
-(11)[^key-19c8cb45e71a1b5253ccd1f731ab452b] Where a decision includes an order for eviction or payment, the First-tier Tribunal may provide a copy of the decision to the Registry Trust.
+(11)[^c-19c8cb45e71a1b5253ccd1f731ab452b] Where a decision includes an order for eviction or payment, the First-tier Tribunal may provide a copy of the decision to the Registry Trust.
 
 (12) Where in the course of proceedings before the First-tier Tribunal it becomes known that—
 
@@ -535,7 +535,7 @@ the proceedings.
 
 the First-tier Tribunal may provide a copy of any decision to the appropriate local authority or the Scottish Ministers.
 
-#### 27. Dismissal of a party’s case[^key-50ae54451f411be9ac058cdda19a50bf]
+#### 27. Dismissal of a party’s case[^c-50ae54451f411be9ac058cdda19a50bf]
 
 (1) The First-tier Tribunal must dismiss the whole or a part of the proceedings if the First-tier Tribunal does not have jurisdiction in relation to the proceedings or that part of them.
 
@@ -544,7 +544,7 @@ the First-tier Tribunal may provide a copy of any decision to the appropriate lo
 - (a) comply with an order which stated that failure by the applicant to comply with the order could lead to the dismissal of the proceedings or part of them; or
 - (b) co-operate with the First-tier Tribunal to such an extent that the First-tier Tribunal cannot deal with the proceedings justly and fairly.
 
-#### 28. Adjournment or postponement of a hearing[^key-58401cee85341ac3d83850bce6709a59]
+#### 28. Adjournment or postponement of a hearing[^c-58401cee85341ac3d83850bce6709a59]
 
 (1) The First-tier Tribunal at its discretion may, on its own initiative or on an application by a party, at any time, adjourn or postpone a hearing.
 
@@ -552,7 +552,7 @@ the First-tier Tribunal may provide a copy of any decision to the appropriate lo
 
 - (a) if practicable, notify all other parties of the application for an adjournment or postponement;
 - (b) show good reason why an adjournment or postponement is necessary; and
-- (c) at the direction of the First-tier Tribunal[^key-0b15d2b3e74b0dd7e9b8d101364e82a2] produce evidence of any fact or matter relied on in support of the application for an adjournment or postponement.
+- (c) at the direction of the First-tier Tribunal[^c-0b15d2b3e74b0dd7e9b8d101364e82a2] produce evidence of any fact or matter relied on in support of the application for an adjournment or postponement.
 
 (3) The First-tier Tribunal may only adjourn or postpone a hearing at the request of a party on cause shown.
 
@@ -562,11 +562,11 @@ the First-tier Tribunal may provide a copy of any decision to the appropriate lo
 - (b) it would be unjust to determine the case without permitting the party to produce the evidence; and
 - (c) where the party has failed to comply with directions for the production of the evidence, the party has provided a satisfactory explanation for that failure.
 
-#### 29. Hearing case in the absence of a party[^key-6486998f3afc0c289e2eb775f4048be5]
+#### 29. Hearing case in the absence of a party[^c-6486998f3afc0c289e2eb775f4048be5]
 
 If a party or party’s representative does not appear at a hearing, the First-tier Tribunal, on being satisfied that the requirements of rule 24(1) regarding the giving of notice of a hearing have been duly complied with, may proceed with the application upon the representations of any party present and all the material before it.
 
-#### 30. Recall[^key-4d842502f55f6e826d552ed0707f2f4f]
+#### 30. Recall[^c-4d842502f55f6e826d552ed0707f2f4f]
 
 (1) In relation to applications mentioned in Chapters 4, 6, 8, 11 and 12 of Part 3 of these Rules, a party may apply to the First-tier Tribunal to have a decision recalled where the First-tier Tribunal made the decision in absence because that party did not take part in the proceedings, or failed to appear or be represented at a hearing following which the decision was made.
 
@@ -595,7 +595,7 @@ at the same time.
 - (b) refuse the application; or
 - (c) order the parties to appear at a case management discussion where the First-tier Tribunal will consider whether to recall the decision.
 
-#### 31. Death, insolvency or incapacity of a party[^key-24b5bc0f078b161f56b6fc639f813942]
+#### 31. Death, insolvency or incapacity of a party[^c-24b5bc0f078b161f56b6fc639f813942]
 
 (1) Where a party dies, becomes insolvent, or becomes subject to a legal incapacity, while an application is under consideration, a person claiming to represent that party or that party’s estate may apply to be a party to the cause under rule 32(3).
 
@@ -608,7 +608,7 @@ at the same time.
 
 (3) The First-tier Tribunal may continue to consider and determine the application despite the death, insolvency or legal incapacity of any party.
 
-#### 32. Addition, substitution and removal of parties[^key-21db45b12b0f7695de52f3d20993405e]
+#### 32. Addition, substitution and removal of parties[^c-21db45b12b0f7695de52f3d20993405e]
 
 (1) The First-tier Tribunal may make an order adding, substituting or removing a party to the proceedings, including where—
 
@@ -619,13 +619,13 @@ at the same time.
 
 (3) A person who is not a party may make a written application to the First-tier Tribunal to be added or substituted as a party under this rule.
 
-(4)[^key-58085b8d6cbf3f65d7533dfc36e8c8ae] Paragraph (3) does not apply to an appeal under section 24B of the 1988 Act or section 28 of the 2016 Act.
+(4)[^c-58085b8d6cbf3f65d7533dfc36e8c8ae] Paragraph (3) does not apply to an appeal under section 24B of the 1988 Act or section 28 of the 2016 Act.
 
-#### 33. Absence of a member of the First-tier Tribunal[^key-e1bff63952bdfff92d97c5bebe65ea6b]
+#### 33. Absence of a member of the First-tier Tribunal[^c-e1bff63952bdfff92d97c5bebe65ea6b]
 
 If, at or after the beginning of a hearing, a member of the First-tier Tribunal other than the chairing member is absent, the hearing may be conducted by the chairing member sitting alone or alongside another member and in that event the hearing will be deemed to be properly constituted.
 
-#### 34. Exclusion of persons disrupting proceedings[^key-63873776bd67863e378eba55cbd9ab3a]
+#### 34. Exclusion of persons disrupting proceedings[^c-63873776bd67863e378eba55cbd9ab3a]
 
 (1) Without prejudice to any other powers it has, the First-tier Tribunal may exclude from any hearing or part of it any person (including a party, a representative or a supporter)—
 
@@ -639,18 +639,18 @@ If, at or after the beginning of a hearing, a member of the First-tier Tribunal 
 
 (3) If the First-tier Tribunal decides to exclude a party it must allow the representative of that party sufficient opportunity to consult the party.
 
-#### 35. Prohibition on recording of proceedings by parties[^key-cb01e5d60d148437897f43858a294ccd]
+#### 35. Prohibition on recording of proceedings by parties[^c-cb01e5d60d148437897f43858a294ccd]
 
 The First-tier Tribunal may prohibit photography, or any audio or visual recording of the proceedings, except in so far as is required to make reasonable adjustments to accommodate the disability of a party or a party’s representative or supporter.
 
-#### 36. Correction of clerical mistakes and accidental slips or omissions[^key-b83a6edecbf799311dd361bb5f7ec527]
+#### 36. Correction of clerical mistakes and accidental slips or omissions[^c-b83a6edecbf799311dd361bb5f7ec527]
 
 The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any document produced by it, by—
 
 - (a) sending notification of the amended decision or order, or a copy of the amended document to all parties; and
 - (b) making any necessary amendment to any information published in relation to the decision, order or document.
 
-#### 37. Application for permission to appeal a decision of the First-tier Tribunal[^key-d2023b5cf8fdbf83008e1b13a26714c4]
+#### 37. Application for permission to appeal a decision of the First-tier Tribunal[^c-d2023b5cf8fdbf83008e1b13a26714c4]
 
 (1) A person must make a written application to the First-tier Tribunal for permission to appeal.
 
@@ -666,7 +666,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (b) rule 58(f);
 - (c) section 7 (apportionment of the rateable value by the sheriff where the dwelling-house forms part of lands and heritages ) of the 1984 Act;
 - (d) section 97 (change of circumstances affecting a tenant who shares accommodation with persons other than landlord which are deemed to be rent increases) of the 1984 Act;
-- (da)[^key-07d51378d539495b5a66f4512bfdc4ff] section 24C (First-tier Tribunal’s power to set rent subject to permitted rate) of the 1988 Act,
+- (da)[^c-07d51378d539495b5a66f4512bfdc4ff] section 24C (First-tier Tribunal’s power to set rent subject to permitted rate) of the 1988 Act,
 - (e) section 85B[^f00021] (application by a local authority for an extension of the time limit for determining an application for landlord registration) of the 2004 Act;
 - (f) section 28A (landlord application to exercise right of entry) of the 2006 Act;
 - (g) section 66A (appeals in relation to the right to adapt rented houses for a disabled person or for energy efficiency under section 52) of the 2006 Act;
@@ -674,9 +674,9 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (i) section 33 (time limit for determining application for registration as a letting agent) of the 2014 Act; or
 - (j) section 29 (First-tier Tribunal’s power to set rent) of the 2016 Act.
 
-(4)[^key-f6c3ba8d0c9f74dda3e812568a3803d8] Paragraph (1) does not apply to an appeal made under section 92 (appeal against refusal to register or removal from register) of the 2004 Act.
+(4)[^c-f6c3ba8d0c9f74dda3e812568a3803d8] Paragraph (1) does not apply to an appeal made under section 92 (appeal against refusal to register or removal from register) of the 2004 Act.
 
-#### 38. First-tier Tribunal’s consideration of application for permission to appeal[^key-fa52f33af8a3be25a8957350367b832b]
+#### 38. First-tier Tribunal’s consideration of application for permission to appeal[^c-fa52f33af8a3be25a8957350367b832b]
 
 (1) The First-tier Tribunal must decide whether to give permission to appeal on any point of law.
 
@@ -687,7 +687,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (a) a statement of its reasons for such a refusal; and
 - (b) notification of the right to make an application to the Upper Tribunal for permission to appeal and the time within which, and the method by which, such an application must be made.
 
-#### 38A. Reference of compatibility question to the Court of Session[^key-cbb7b742cb8dac92150e11fd44fd4e15]
+#### 38A. Reference of compatibility question to the Court of Session[^c-cbb7b742cb8dac92150e11fd44fd4e15]
 
 (1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -701,7 +701,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (4) Where a relevant authority does not take part as a party to proceedings at first instance, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
 
-#### 39. Review of a decision[^key-275964c2db77451e2fa048e51c78b79b]
+#### 39. Review of a decision[^c-275964c2db77451e2fa048e51c78b79b]
 
 (1) The First-tier Tribunal may either at its own instance or at the request of a party review a decision made by it except in relation to applications listed in rule 37(3)(b) to (j)[^f00022], where it is necessary in the interests of justice to do so.
 
@@ -726,9 +726,9 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (8) A review by the First-tier Tribunal in terms of paragraph (1) does not affect the time limit of 30 days in regulation 2(1) of the Scottish Tribunals (Time Limits) Regulations 2016[^f00023] for making an application for permission to appeal.
 
-(9)[^key-b3b1cbece662e9863621ce727e84e3be] Paragraph (1) does not apply to an appeal made under section 92 (appeal against refusal to register or removal from register) of the 2004 Act.
+(9)[^c-b3b1cbece662e9863621ce727e84e3be] Paragraph (1) does not apply to an appeal made under section 92 (appeal against refusal to register or removal from register) of the 2004 Act.
 
-#### 39A. Review of an order made under section 24C(1) of the 1988 Act[^key-8aab25af791c11cc309bc0938aff7d1c]
+#### 39A. Review of an order made under section 24C(1) of the 1988 Act[^c-8aab25af791c11cc309bc0938aff7d1c]
 
 (1) This rule applies to a review—
 
@@ -755,13 +755,13 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (6) Where the First-tier Tribunal proposes to conduct a review at its own instance, it must inform the landlord and the tenant of the reasons why the decision is being reviewed and the decision must be reviewed in accordance with paragraph (4) (as if a request to review had been made and not refused).
 
-#### 40. Expenses[^key-96b4b24d187794dce8c5c9d288bf6598]
+#### 40. Expenses[^c-96b4b24d187794dce8c5c9d288bf6598]
 
 (1) The First-tier Tribunal may award expenses as taxed by the Auditor of the Court of Session against a party but only where that party through unreasonable behaviour in the conduct of a case has put the other party to unnecessary or unreasonable expense.
 
 (2) Where expenses are awarded under paragraph (1) the amount of the expenses awarded under that paragraph must be the amount of expenses required to cover any unnecessary or unreasonable expense incurred by the party in whose favour the order for expenses is made.
 
-#### 41. Enforcement of decisions[^key-62f8a9d65ae73c53394e337662cc81a1]
+#### 41. Enforcement of decisions[^c-62f8a9d65ae73c53394e337662cc81a1]
 
 (1) An order in pursuance of a decision of the First-tier Tribunal, or a copy of such an order certified by the First-tier Tribunal, may be enforced as if it were an extract registered decree bearing a warrant for execution issued by the sheriff court.
 
@@ -770,7 +770,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (a) under regulation 2(1) of the Scottish Tribunals (Time Limits) Regulations 2016, or
 - (b) as determined by the First-tier Tribunal under regulation 2(2) of those Regulations.
 
-#### 41A. Interest on orders for payment[^key-3e4c77c691bb2203f967d36ac65da4b8]
+#### 41A. Interest on orders for payment[^c-3e4c77c691bb2203f967d36ac65da4b8]
 
 (1) The First-tier Tribunal may include interest when making an order for payment.
 
@@ -819,7 +819,7 @@ Where an order for removing from heritable property has been executed, the sheri
 - (b) ensure the certificate of execution is witnessed, and
 - (c) affix a copy of the certificate of execution in a sealed envelope to the main door of the heritable property.
 
-#### 41G. Notice of interest claimed under the Debtors (Scotland) Act 1987[^key-6ad37ec556d676a60b1cc62a85e3a3c8]
+#### 41G. Notice of interest claimed under the Debtors (Scotland) Act 1987[^c-6ad37ec556d676a60b1cc62a85e3a3c8]
 
 (1) A creditor wishing to recover interest under an order of the First-tier Tribunal must serve on the other party the notice referred to in sections 1(7) (time to pay directions) and 5(7) (time to pay orders) of the Debtors (Scotland) Act 1987 (notice claiming and specifying amount of interest) in the case of an order requiring payment by—
 
@@ -845,7 +845,7 @@ Where an order for removing from heritable property has been executed, the sheri
 
 ### PART 2 — Procedure in respect of homeowner applications
 
-#### 42. Application of Part 2 and interpretation[^key-2d87d3b610657c05ca2d252f65ad7427]
+#### 42. Application of Part 2 and interpretation[^c-2d87d3b610657c05ca2d252f65ad7427]
 
 (1) This Part of the Rules applies to proceedings before the First-tier Tribunal when exercising the functions transferred to it by—
 
@@ -854,7 +854,7 @@ Where an order for removing from heritable property has been executed, the sheri
 
 (2) In this Part of the Rules, where terms are used which are defined terms in the 2011 Act, the definitions in that Act in respect of those terms apply to this Part.
 
-#### 43. Application for determination of whether property factor has failed to comply with the 2011 Act[^key-1f4dc809f597b4fe83d2b64c865ace29]
+#### 43. Application for determination of whether property factor has failed to comply with the 2011 Act[^c-1f4dc809f597b4fe83d2b64c865ace29]
 
 (1) In addition to the homeowner’s reasons as required by section 17(2) of the 2011 Act, the application must state—
 
@@ -876,7 +876,7 @@ Where an order for removing from heritable property has been executed, the sheri
 
 (4)[^M_F_7e316eb3-86a1-4f9b-8c62-81d0d0c04330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 44. Inspections[^key-c95d27cbecacd2d360e4defcf91fc4ab]
+#### 44. Inspections[^c-c95d27cbecacd2d360e4defcf91fc4ab]
 
 (1) An inspection of the land to which the application relates may be carried out at any time during the proceedings.
 
@@ -888,7 +888,7 @@ Where an order for removing from heritable property has been executed, the sheri
 
 (5) The parties and the representative of each party are entitled to attend the inspection.
 
-#### 45. Parties to be notified by the First-tier Tribunal[^key-90870727f2fca99b547c6fbb93dbc070]
+#### 45. Parties to be notified by the First-tier Tribunal[^c-90870727f2fca99b547c6fbb93dbc070]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application made under a section of the 2011 Act, the homeowner and the property factor.
 
@@ -896,13 +896,13 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are, in re
 
 #### CHAPTER 1 — Procedure common to proceedings in respect of private rented applications
 
-##### 46. Application and interpretation[^key-846111c2d30d3604f295844d9637d8c2]
+##### 46. Application and interpretation[^c-846111c2d30d3604f295844d9637d8c2]
 
-(1) This Part of the Rules applies to proceedings before the First-tier Tribunal when exercising the functions transferred or[^key-e2967f10373eb37f3ed40d982a6461f3] allocated to it by**—**
+(1) This Part of the Rules applies to proceedings before the First-tier Tribunal when exercising the functions transferred or[^c-e2967f10373eb37f3ed40d982a6461f3] allocated to it by**—**
 
-- (a) regulation 3(1) of the First-tier Tribunal (Transfer of functions of the Private Rented Housing Committees) Regulations 2016[^f00026]; [^key-e22d84d74cae5bdb8c79af0988635bbe]...
+- (a) regulation 3(1) of the First-tier Tribunal (Transfer of functions of the Private Rented Housing Committees) Regulations 2016[^f00026]; [^c-e22d84d74cae5bdb8c79af0988635bbe]...
 - (b) regulation 3(1) of the First-tier Tribunal (Transfer of functions of the Private Rented Housing Panel) Regulations 2016[^f00027].
-- (c)[^key-2615b90c07f127fe60649bf895d13e4d] the 1988 Act,
+- (c)[^c-2615b90c07f127fe60649bf895d13e4d] the 1988 Act,
 - (d) the 2011 Regulations, or
 - (e) the 2016 Act.
 
@@ -918,7 +918,7 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are, in re
 
 #### CHAPTER 2 — Procedure in respect of repairing standard applications
 
-##### 47. Application to contract out of the repairing standard[^key-a85e92cd07d6fcaff3090e1c50111e96]
+##### 47. Application to contract out of the repairing standard[^c-a85e92cd07d6fcaff3090e1c50111e96]
 
 Where a landlord or tenant makes an application under section 18(1) (contracting out with consent of First-tier Tribunal) of the 2006 Act, the application—
 
@@ -932,7 +932,7 @@ Where a landlord or tenant makes an application under section 18(1) (contracting
   - (ii) a copy of the consent given by the other party under the tenancy as required under section 18(2)(a) of the 2006 Act; and
 - (c) must be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 48. Application for determination of whether the landlord has failed to comply with the repairing standard[^key-7054218d0ca699faa32dcf396d8ac360]
+##### 48. Application for determination of whether the landlord has failed to comply with the repairing standard[^c-7054218d0ca699faa32dcf396d8ac360]
 
 (1) Where a tenant makes an application under section 22(1) (application in respect of the repairing standard) of the 2006 Act—
 
@@ -970,7 +970,7 @@ Where a landlord or tenant makes an application under section 18(1) (contracting
 
 (3) Where a property fails to meet the repairing standard in more than one respect, the applicant may raise multiple issues relating to the repairing standard in one application.
 
-##### 49. Application to order a person to cease obstructing a person from complying with the repairing standard[^key-4a83a69b9b33a1c8b5b0069e7b7f95ca]
+##### 49. Application to order a person to cease obstructing a person from complying with the repairing standard[^c-4a83a69b9b33a1c8b5b0069e7b7f95ca]
 
 Where a person who is prevented or obstructed from doing anything which he or she is required, authorised or entitled to do under Part 1 of the 2006 Act (“the obstructed person”) by another person (“the obstructing person”) makes an application under section 57(2) (obstructions etc.) of the 2006 Act, the application must—
 
@@ -982,15 +982,15 @@ Where a person who is prevented or obstructed from doing anything which he or sh
   - (v) the details of actions which the obstructed person is required, authorised or entitled to do; and
 - (b) be signed and dated by the obstructed person or a representative of the obstructed person.
 
-##### 50. Application to appeal against a decision of the landlord[^key-70b1efd26ea99d98890595beee14cb13]
+##### 50. Application to appeal against a decision of the landlord[^c-70b1efd26ea99d98890595beee14cb13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 51. Need for additional work[^key-da538bc3cf068097c2616c063f67afe4]
+##### 51. Need for additional work[^c-da538bc3cf068097c2616c063f67afe4]
 
 Where further relevant issues come to light in the course of investigation by the First-tier Tribunal, the tenant or third party applicant may make a further application in respect of those issues, but may not do so until that person has notified the landlord that further work requires to be done for the purposes of compliance with the landlord’s duty.
 
-##### 52. Procedure for further applications[^key-1fc66de73d763295451929f4d768a2d3]
+##### 52. Procedure for further applications[^c-1fc66de73d763295451929f4d768a2d3]
 
 (1) Any application under rule 51 must provide the information set out in rule 48(1) or, as the case may be, rule 48(2), and must follow the same procedure as the original application, except that any time scales applicable may be shortened with the consent of the parties.
 
@@ -998,7 +998,7 @@ Where further relevant issues come to light in the course of investigation by th
 
 (3) The First-tier Tribunal must give suitable directions to the parties to ensure that the amended application is properly and fairly considered.
 
-##### 53. Inspections[^key-9646d4d9a1ea722aacf77bc1398bc716]
+##### 53. Inspections[^c-9646d4d9a1ea722aacf77bc1398bc716]
 
 (1) An inspection of the property may be carried out before or during the hearing or after an adjournment of the hearing, or at such stage in relation to consideration of the written representations as the First-tier Tribunal determines.
 
@@ -1010,13 +1010,13 @@ Where further relevant issues come to light in the course of investigation by th
 
 (5) The parties and the representative of each party are entitled to attend the inspection.
 
-##### 54. Parties to be notified by the First-tier Tribunal[^key-dba6722138277b557a384b0938caa2d0]
+##### 54. Parties to be notified by the First-tier Tribunal[^c-dba6722138277b557a384b0938caa2d0]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application under the 2006 Act, the tenant, the landlord, third party applicants, the obstructed person and the obstructing person.
 
 #### CHAPTER 3 — Procedure in respect of Landlord applications to the First-tier Tribunal
 
-##### 55. Application for assistance to exercise the landlord’s right of entry[^key-c8d16a9c4e64d27dcb9a44a5c99a526e]
+##### 55. Application for assistance to exercise the landlord’s right of entry[^c-c8d16a9c4e64d27dcb9a44a5c99a526e]
 
 Where a landlord makes an application under section 28A(1) of the 2006 Act, the application must—
 
@@ -1037,11 +1037,11 @@ Where a landlord makes an application under section 28A(1) of the 2006 Act, the 
   - (ii) the notification referred to in paragraph (a)(viii) and any subsequent correspondence relating to that notification; and
 - (c) be signed and dated by the landlord or by any representative appointed by the landlord.
 
-##### 56. Person authorised to enter[^key-8c16db405e5d3a1054386a7e977d3079]
+##### 56. Person authorised to enter[^c-8c16db405e5d3a1054386a7e977d3079]
 
 If the First-tier Tribunal does not consider the person that the landlord intends to authorise to enter the house to be a suitable person, it may allow the landlord to amend the application in this regard.
 
-##### 57. Decision to assist[^key-9b73508938a2bcb5a6f253631ba6dd86]
+##### 57. Decision to assist[^c-9b73508938a2bcb5a6f253631ba6dd86]
 
 Where the First-tier Tribunal decides to assist the landlord under subsection (3) of section 28A of the 2006 Act, the notice sent to the landlord and the tenant under subsection (5) of that section must, in addition to the information required under that subsection, state—
 
@@ -1059,7 +1059,7 @@ Where the First-tier Tribunal decides to assist the landlord under subsection (3
 
   the First-tier Tribunal may fix a date and time (or dates and times) for the landlord to exercise the landlord’s right of entry.
 
-##### 58. Stopping assistance[^key-25a12617d231c57c08093ffd39fa9428]
+##### 58. Stopping assistance[^c-25a12617d231c57c08093ffd39fa9428]
 
 Where the First-tier Tribunal makes a decision to stop assisting the landlord under section 28A(7) or section 28C(9) of the 2006 Act, the First-tier Tribunal must notify the landlord and the tenant and that notice must state—
 
@@ -1072,7 +1072,7 @@ Where the First-tier Tribunal makes a decision to stop assisting the landlord un
 
 #### CHAPTER 4 — Procedure in respect of adaptations of rented houses applications
 
-##### 59. Application to appeal the decision of a landlord in relation to adapting a rented house or carrying out work to improve the energy efficiency of the house[^key-7b25e4aa1888b35ee264631b9bb8041b][^key-893a3c716b5d6c139b98f961f45e5b66]
+##### 59. Application to appeal the decision of a landlord in relation to adapting a rented house or carrying out work to improve the energy efficiency of the house[^c-7b25e4aa1888b35ee264631b9bb8041b][^c-893a3c716b5d6c139b98f961f45e5b66]
 
 Where a tenant makes an application under section 66A(1) (appeals in relation to section 52) of the 2006 Act, the application must—
 
@@ -1084,13 +1084,13 @@ Where a tenant makes an application under section 66A(1) (appeals in relation to
   - (v) details of the landlord’s decision and reasons for that decision; and
 - (b) be signed and dated by the tenant or a representative of the tenant.
 
-##### 60. Parties to be notified by the First-tier Tribunal[^key-6c77ac5e5e1cd20375231d0a09a62b15]
+##### 60. Parties to be notified by the First-tier Tribunal[^c-6c77ac5e5e1cd20375231d0a09a62b15]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application under section 66A(1) of the 2006 Act, the landlord and the tenant.
 
 #### CHAPTER 5 — Procedure in respect of assured tenancy references to the First-tier Tribunal
 
-##### 61. Assured tenancy references to the First-tier Tribunal[^key-c15756d95bbfb53ecbba7d059aad743c]
+##### 61. Assured tenancy references to the First-tier Tribunal[^c-c15756d95bbfb53ecbba7d059aad743c]
 
 Where a landlord or a tenant makes an assured tenancy reference, the reference must—
 
@@ -1101,10 +1101,10 @@ Where a landlord or a tenant makes an assured tenancy reference, the reference m
 - (b) be accompanied by—
   - (i) a copy of the written terms of the tenancy (if available); and
   - (ii) the notice comprising an adjustment of the rent (if available); and
-  - (iii)[^key-a7305cb205f9a3f75a081f629d6cd721] a copy of any order made by the rent officer under section 24A(2) or (3) of the 1988 Act;
+  - (iii)[^c-a7305cb205f9a3f75a081f629d6cd721] a copy of any order made by the rent officer under section 24A(2) or (3) of the 1988 Act;
 - (c) be signed and dated by the tenant or landlord or a representative of the tenant or landlord.
 
-##### 62. Documents at assured tenancy reference hearings[^key-e18e063661c7597582ed1e5cc51c1d8b]
+##### 62. Documents at assured tenancy reference hearings[^c-e18e063661c7597582ed1e5cc51c1d8b]
 
 (1) Where the assured tenancy reference is to be subject to a hearing, the First-tier Tribunal must take all reasonable steps to ensure that there is sent to each of the parties before the date of the hearing—
 
@@ -1125,7 +1125,7 @@ the First-tier Tribunal must not consider that document until after it has adjou
 - (a) send to each of the parties a copy of, or sufficient extracts from, or particulars of, each such document as is mentioned in paragraph (1)(a) (other than a document excepted from that paragraph) and a copy of each such document as is mentioned in paragraph (1)(b); and
 - (b) not reach its decision until it is satisfied that each party has been given a sufficient opportunity of making written representations in respect of each document of which a copy or from which extracts or of which particulars has or have been so sent, and upon the other party’s case.
 
-##### 63. Inspections[^key-7d5d1691e6861e48f71b2c45285a7380]
+##### 63. Inspections[^c-7d5d1691e6861e48f71b2c45285a7380]
 
 (1) The First-tier Tribunal may on its own motion and must at the request of one of the parties (subject in either case to any necessary consent being obtained) inspect the house which is the subject of the assured tenancy reference.
 
@@ -1135,15 +1135,15 @@ the First-tier Tribunal must not consider that document until after it has adjou
 
 (4) Where an inspection is made after the close of a hearing, the First-tier Tribunal may, if it considers that it is expedient to do so on account of a matter arising from the inspection, re-open the hearing; and if the hearing is to be re-opened, rule 24(1) applies as it applied to the original hearing, save in so far as its requirements may be dispensed with or relaxed with the consent of the parties.
 
-##### 64. Parties to be notified by the First-tier Tribunal[^key-58c2e68cd27579e247b8f15e2c34a181]
+##### 64. Parties to be notified by the First-tier Tribunal[^c-58c2e68cd27579e247b8f15e2c34a181]
 
-(1)[^key-392f94a17d97eeb1a0e29f0b1943acc1] The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an assured tenancy reference, the tenant and the landlord.
+(1)[^c-392f94a17d97eeb1a0e29f0b1943acc1] The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an assured tenancy reference, the tenant and the landlord.
 
-(2)[^key-c8f6451204d341aaeacc5de0de9861ab] Additionally, in relation to an appeal under section 24B of the 1988 Act, against the order of a rent officer made under section 24A(2) or (3) of that Act, the rent officer is to be notified by the First-tier Tribunal under rule 9(1).
+(2)[^c-c8f6451204d341aaeacc5de0de9861ab] Additionally, in relation to an appeal under section 24B of the 1988 Act, against the order of a rent officer made under section 24A(2) or (3) of that Act, the rent officer is to be notified by the First-tier Tribunal under rule 9(1).
 
 #### CHAPTER 6 — Procedure in respect of assured tenancy applications
 
-##### 65. Application for order for possession in relation to assured tenancies[^key-eb7cefbe912de7cea962a991ec02ddd8]
+##### 65. Application for order for possession in relation to assured tenancies[^c-eb7cefbe912de7cea962a991ec02ddd8]
 
 Where a landlord makes an application under section 18(1) (orders for possession) of the 1988 Act, the application must—
 
@@ -1154,14 +1154,14 @@ Where a landlord makes an application under section 18(1) (orders for possession
   - (iv) the possession grounds which apply as set out in Schedule 5 of the 1988 Act;
 - (b) be accompanied by—
   - (i) a copy of the tenancy agreement (if available) or, if this is not available, as much information about the tenancy as the landlord can give;
-  - (ii) a copy of the notice served on the tenant by the landlord[^key-1c123e9adfd12caad0c9aaab690d8f49] of intention to raise proceedings for possession of a house let on an assured tenancy;
+  - (ii) a copy of the notice served on the tenant by the landlord[^c-1c123e9adfd12caad0c9aaab690d8f49] of intention to raise proceedings for possession of a house let on an assured tenancy;
   - (iii) a copy of the notice to quit served by the landlord on the tenant (if applicable); and
-  - (iv) evidence as the applicant has that the possession ground or grounds has been met; [^key-fb124b9cd028bdb3c0f1ba17a0634fb4]...
-  - (v)[^key-4ec20cb8a1231311c7f03baff365eda5] a copy of the notice given to the local authority by the landlord under section 11 of the Homelessness (Scotland) Act 2003 (if applicable), and
+  - (iv) evidence as the applicant has that the possession ground or grounds has been met; [^c-fb124b9cd028bdb3c0f1ba17a0634fb4]...
+  - (v)[^c-4ec20cb8a1231311c7f03baff365eda5] a copy of the notice given to the local authority by the landlord under section 11 of the Homelessness (Scotland) Act 2003 (if applicable), and
   - (vi) a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable), and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 66. Application for order for possession upon termination of a short assured tenancy[^key-1e3b588de16cabb6a2de13a4563b978f]
+##### 66. Application for order for possession upon termination of a short assured tenancy[^c-1e3b588de16cabb6a2de13a4563b978f]
 
 Where a landlord makes an application under section 33 (recovery of possession on termination of a short assured tenancy) of the 1988 Act, the application must—
 
@@ -1171,14 +1171,14 @@ Where a landlord makes an application under section 33 (recovery of possession o
   - (iii) the name and address of the tenant;
 - (b) be accompanied by a copy of—
   - (i) the tenancy agreement (if available) or, if this is not available, as much information about the tenancy as the landlord can give;
-  - (ii) the notice by landlord that the tenancy is a short assured tenancy; [^key-32263828562dd02079a3d4ae32e4e263]...
-  - (iii) the notice given to the tenant under section 33(1)(d) of the 1988 Act; [^key-3686a83a7848fae9d18638b33299df6c]...
-  - (iv)[^key-a1a03e58c6881a21f86edacc8fe0b7b1] the notice to quit served by the landlord on the tenant;
+  - (ii) the notice by landlord that the tenancy is a short assured tenancy; [^c-32263828562dd02079a3d4ae32e4e263]...
+  - (iii) the notice given to the tenant under section 33(1)(d) of the 1988 Act; [^c-3686a83a7848fae9d18638b33299df6c]...
+  - (iv)[^c-a1a03e58c6881a21f86edacc8fe0b7b1] the notice to quit served by the landlord on the tenant;
   - (v) a copy of the notice by the landlord given to the local authority under section 11 of the Homelessness (Scotland) Act 2003 (if applicable), and
   - (vi) a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable), and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 66A. Application to modify a tenant’s right to shared accommodation[^key-53bfb48ce740e58479120d950ec23972]
+##### 66A. Application to modify a tenant’s right to shared accommodation[^c-53bfb48ce740e58479120d950ec23972]
 
 Where a landlord makes an application under section 21(3) (special provisions applicable to shared accommodation) of the 1988 Act, the application must—
 
@@ -1190,7 +1190,7 @@ Where a landlord makes an application under section 21(3) (special provisions ap
 - (b) be accompanied by a copy of the tenancy agreement, and
 - (c) be signed and dated by the landlord or the representative of the landlord.
 
-##### 67. Application to determine removal expenses[^key-878e59489433024e6a50d33ba0d64ef7]
+##### 67. Application to determine removal expenses[^c-878e59489433024e6a50d33ba0d64ef7]
 
 Where a landlord and tenant cannot agree the amount payable by the landlord to the tenant under section 22(1) of the 1988 Act, either the landlord or the tenant may make an application under section 22(2) (payment of removal expenses in certain cases) of the 1988 Act and the application must—
 
@@ -1202,7 +1202,7 @@ Where a landlord and tenant cannot agree the amount payable by the landlord to t
   - (v) the details of the tenant’s claim for expenses, reasons for disagreement and proposals for settlement; and
 - (b) be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 68. Application to provide written tenancy agreement and weekly rent book[^key-9da9befe12e49e804d4269cdac37f989]
+##### 68. Application to provide written tenancy agreement and weekly rent book[^c-9da9befe12e49e804d4269cdac37f989]
 
 Where a tenant makes an application under section 30(2) (duty of landlord under assured tenancy to provide written tenancy document and weekly rent book) of the 1988 Act, the application must—
 
@@ -1213,7 +1213,7 @@ Where a tenant makes an application under section 30(2) (duty of landlord under 
 - (b) be accompanied by a copy of the rent book, written tenancy agreement or similar document (if available) or, if this is not available, as much information about the tenancy as the tenant can give; and
 - (c) must be signed and dated by the tenant or a representative of the tenant.
 
-##### 69. Application for damages for unlawful eviction[^key-b7f94f755a973481dfb0eb9beaec01b8]
+##### 69. Application for damages for unlawful eviction[^c-b7f94f755a973481dfb0eb9beaec01b8]
 
 Where a former residential occupier makes an application under section 36(3)[^M_F_4e8123dc-88aa-487e-d7a7-e170eb6617c0] (damages for unlawful eviction) of the 1988 Act, the application must—
 
@@ -1224,7 +1224,7 @@ Where a former residential occupier makes an application under section 36(3)[^M_
   - (iv) the details of the amount of damages sought based on section 37 of the 1988 Act in respect of the loss of the right to occupy the premises; and
 - (b) be signed and dated by the former residential occupier or a representative of the former residential occupier.
 
-##### 70. Application for civil proceedings in relation to an assured tenancy under the 1988 Act[^key-ec35815a5c4215b6f014856d53fcf6ba]
+##### 70. Application for civil proceedings in relation to an assured tenancy under the 1988 Act[^c-ec35815a5c4215b6f014856d53fcf6ba]
 
 Where a person makes any other application to the First-tier Tribunal by virtue of section 16 (First-tier Tribunal’s jurisdiction in relation regulated and assured tenancies etc.) of the 2014 Act, the application must—
 
@@ -1237,16 +1237,16 @@ Where a person makes any other application to the First-tier Tribunal by virtue 
   - (ii) a copy of any relevant document; and
 - (c) be signed and dated by the person.
 
-##### 71. Parties to be notified by the First-tier Tribunal[^key-c5ad1ed59ea16b73cd9659bd329f1858]
+##### 71. Parties to be notified by the First-tier Tribunal[^c-c5ad1ed59ea16b73cd9659bd329f1858]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application—
 
-- (a) under section 18(1), 21(3),[^key-87c85dde82fa05f8cd871d377e5b8fef] 22(2), 30(2) and 33 of the 1988 Act, the landlord and the tenant; and
+- (a) under section 18(1), 21(3),[^c-87c85dde82fa05f8cd871d377e5b8fef] 22(2), 30(2) and 33 of the 1988 Act, the landlord and the tenant; and
 - (b) under section 36(3)[^M_F_df926bdc-7ac8-450a-b08f-c5b43f1fbfc5] of the 1988 Act, the former residential occupier and the landlord.
 
 #### CHAPTER 7 — Procedure in regulated tenancy references
 
-##### 72. Regulated tenancy references to the First-tier Tribunal[^key-726aa06ce8d3baafa40cd4e3755f0f3f]
+##### 72. Regulated tenancy references to the First-tier Tribunal[^c-726aa06ce8d3baafa40cd4e3755f0f3f]
 
 Where the rent officer makes a regulated tenancy reference, it must—
 
@@ -1254,7 +1254,7 @@ Where the rent officer makes a regulated tenancy reference, it must—
 - (b) be accompanied by a copy of the objection made by the tenant or landlord; and
 - (c) be signed and dated by the rent officer.
 
-##### 73. Inspection of dwellinghouse[^key-4d234d6c8245c7997abf13a9e5582761]
+##### 73. Inspection of dwellinghouse[^c-4d234d6c8245c7997abf13a9e5582761]
 
 (1) The First-tier Tribunal may on its own motion and must at the request of one of the parties (subject in either case to any necessary consent being obtained) inspect the dwellinghouse which is the subject of the regulated tenancy reference.
 
@@ -1264,13 +1264,13 @@ Where the rent officer makes a regulated tenancy reference, it must—
 
 (4) Where an inspection is made after the close of a hearing the First-tier Tribunal may, if it considers that it is expedient to do so on account of any matter arising from the inspection, re-open the hearing; and if the hearing is to be re-opened rule 24(1) (hearings) applies as it applied to the original hearing, save in so far as its requirements may be dispensed with or relaxed with the consent of the parties.
 
-##### 74. Parties to be notified by the First-tier Tribunal[^key-70f97a93726ada6660dbf3924c37db65]
+##### 74. Parties to be notified by the First-tier Tribunal[^c-70f97a93726ada6660dbf3924c37db65]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to a regulated tenancy reference, the rent officer, the landlord and the tenant.
 
 #### CHAPTER 8 — Procedure in respect of regulated tenancy and Part VII contract applications
 
-##### 75. Application to determine the statutory tenant after the death of a protected tenant[^key-940c301805484fb06adbbe8ff2eb872d]
+##### 75. Application to determine the statutory tenant after the death of a protected tenant[^c-940c301805484fb06adbbe8ff2eb872d]
 
 Where a person makes an application under section 3(1)(b) and schedule 1, paragraph 3 or 7 (statutory tenants and tenancies), of the 1984 Act, the application must—
 
@@ -1285,7 +1285,7 @@ Where a person makes an application under section 3(1)(b) and schedule 1, paragr
   - (ii) a copy of the notice of termination (if available); and
 - (c) be signed and dated by the person or a representative of the person.
 
-##### 76. Application for the apportionment of the rateable value in relation to a protected tenancy[^key-d0ecea69a261d76ea2c74b00847050a8]
+##### 76. Application for the apportionment of the rateable value in relation to a protected tenancy[^c-d0ecea69a261d76ea2c74b00847050a8]
 
 Where an owner makes an application under section 7(2) (rateable value and the appropriate day) of the 1984 Act, the application must—
 
@@ -1296,7 +1296,7 @@ Where an owner makes an application under section 7(2) (rateable value and the a
 - (b) be accompanied by representations relating to the apportionment of the rateable value; and
 - (c) be signed and dated by the landlord or a representative of the owner.
 
-##### 77. Application for possession[^key-8d9c84a93a8ef4e6f27cd4f001640098]
+##### 77. Application for possession[^c-8d9c84a93a8ef4e6f27cd4f001640098]
 
 Where a landlord makes an application under section 11 (grounds for possession of certain dwelling-houses) of the 1984 Act, the application must—
 
@@ -1306,14 +1306,14 @@ Where a landlord makes an application under section 11 (grounds for possession o
   - (iii) the name and address of the tenant; and
   - (iv) the circumstances which apply as specified in any Case in Part I or II of schedule 2 of the 1984 Act;
 - (b) be accompanied by—
-  - (i) a copy of the notice to quit served by the landlord on the tenant[^key-7ac2a0c77ba6f82377f4e8a5e07f52a9] ;
-  - (ii)[^key-11ab7d9728806f4fa416ee66fb57e77c] a copy of the notice given to the local authority by the landlord under section 11 of the Homelessness (Scotland) Act 2003 (if applicable),
-  - (iii)[^key-eb7788a27fe050303e0e40a05f6a7e87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a copy of the notice to quit served by the landlord on the tenant[^c-7ac2a0c77ba6f82377f4e8a5e07f52a9] ;
+  - (ii)[^c-11ab7d9728806f4fa416ee66fb57e77c] a copy of the notice given to the local authority by the landlord under section 11 of the Homelessness (Scotland) Act 2003 (if applicable),
+  - (iii)[^c-eb7788a27fe050303e0e40a05f6a7e87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) evidence that suitable alternative accommodation is available (if applicable); and
-  - (v)[^key-188491c06a4bd3743ce9284e4d277fa1] a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable); and
+  - (v)[^c-188491c06a4bd3743ce9284e4d277fa1] a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable); and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 78. Application for compensation for misrepresentation or concealment by landlord[^key-8ffa263935b0efeb4babb720f447132a]
+##### 78. Application for compensation for misrepresentation or concealment by landlord[^c-8ffa263935b0efeb4babb720f447132a]
 
 Where a former tenant makes an application under section 21 (compensation for misrepresentation or concealment in Cases 7 and 8) of the 1984 Act, the application must—
 
@@ -1326,14 +1326,14 @@ Where a former tenant makes an application under section 21 (compensation for mi
   - (ii) a copy of the order for possession; and
 - (c) be signed and dated by the former tenant or a representative of the former tenant.
 
-##### 79. Application to evict an occupier upon termination of a tenancy[^key-3231330e094a5f6b0a0ea78cb4f916c5]
+##### 79. Application to evict an occupier upon termination of a tenancy[^c-3231330e094a5f6b0a0ea78cb4f916c5]
 
 Where an owner makes an application under section 23 (prohibition of eviction without due process of law) of the 1984 Act, the application must—
 
 - (a) state—
   - (i) the name, address and registration number (if any) of the owner;
   - (ii) the name, address and profession of any representative of the owner; and
-  - (iii) the name and address of the occupier (if known)[^key-c9b538f8c92b773c543de3be90c7d68f];
+  - (iii) the name and address of the occupier (if known)[^c-c9b538f8c92b773c543de3be90c7d68f];
 - (b) be accompanied by—
   - (i) a copy of the tenancy agreement or, if this is not available, as much information about the tenancy as the owner can give; and
   - (ii) evidence that—
@@ -1341,7 +1341,7 @@ Where an owner makes an application under section 23 (prohibition of eviction wi
     - (bb) the tenant has died; and
 - (c) be signed and dated by the owner or a representative of the owner.
 
-##### 80. Application to adjust recoverable rent[^key-effc5bd7e5da3c954ca52a42a299f2f1]
+##### 80. Application to adjust recoverable rent[^c-effc5bd7e5da3c954ca52a42a299f2f1]
 
 Where a landlord or tenant makes an application under section 31(2) (adjustment, with respect to services and furniture, of recoverable rent for statutory periods before registration) of the 1984 Act, the application must—
 
@@ -1353,7 +1353,7 @@ Where a landlord or tenant makes an application under section 31(2) (adjustment,
 - (b) be accompanied by a copy of the tenancy agreement (if available) or, if this is not available, as much information about the tenancy as the landlord or tenant can give; and
 - (c) be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 81. Application to amend a rent increase notice[^key-940629e8244852c96d72784b7257f9d5]
+##### 81. Application to amend a rent increase notice[^c-940629e8244852c96d72784b7257f9d5]
 
 Where a landlord makes an application under section 32(4) (notices of increase) of the 1984 Act, the application must—
 
@@ -1365,7 +1365,7 @@ Where a landlord makes an application under section 32(4) (notices of increase) 
 - (b) be accompanied by a copy of the rent increase notice; and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 82. Application to rectify a rent book after determination of recoverable rent[^key-e3221dae41394c95360e9d1ac7583a06]
+##### 82. Application to rectify a rent book after determination of recoverable rent[^c-e3221dae41394c95360e9d1ac7583a06]
 
 Where a tenant makes an application under section 39 (rectification of rent books in light of determination of recoverable rent) of the 1984 Act, the application must—
 
@@ -1378,7 +1378,7 @@ Where a tenant makes an application under section 39 (rectification of rent book
   - (ii) a copy of the rent book or similar document; and
 - (c) be signed and dated by the tenant or a representative of the tenant.
 
-##### 83. Application to determine the rent limit[^key-9bf2757cf226fcd13a0866d973b5d36e]
+##### 83. Application to determine the rent limit[^c-9bf2757cf226fcd13a0866d973b5d36e]
 
 Where a landlord or tenant makes an application under section 60 (supplemental to sections 55 to 59) of the 1984 Act, the application must—
 
@@ -1392,7 +1392,7 @@ Where a landlord or tenant makes an application under section 60 (supplemental t
   - (ii) copies of the relevant rent adjustment notices (if available); and
 - (c) be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 84. Application for apportionment of the rateable value in relation to a Part VII contract[^key-0e98b017e571b7938c251b6e672b4d4a]
+##### 84. Application for apportionment of the rateable value in relation to a Part VII contract[^c-0e98b017e571b7938c251b6e672b4d4a]
 
 Where a lessor or lessee makes an application under section 64(6) (dwelling-houses to which Part VII applies) of the 1984 Act, the application must—
 
@@ -1404,7 +1404,7 @@ Where a lessor or lessee makes an application under section 64(6) (dwelling-hous
 - (b) be accompanied by representations relating to the apportionment of the rateable value; and
 - (c) be signed and dated by the lessor or lessee or a representative of the lessor or lessee.
 
-##### 85. Application to reduce the period of a notice to quit[^key-31f7db3c3016fca59fce7a735fb2d6e6]
+##### 85. Application to reduce the period of a notice to quit[^c-31f7db3c3016fca59fce7a735fb2d6e6]
 
 Where a lessor makes an application under section 75 (power of First-tier Tribunal, in action for possession, to reduce period of notice to quit) of the 1984 Act, the application must—
 
@@ -1416,7 +1416,7 @@ Where a lessor makes an application under section 75 (power of First-tier Tribun
 - (b) be accompanied by evidence of the lessee’s default; and
 - (c) be signed and dated by the lessor or a representative of the lessor.
 
-##### 86. Application to postpone the date of possession in relation to Part VII contracts[^key-aaa39a57080593a96119bee5547674e1]
+##### 86. Application to postpone the date of possession in relation to Part VII contracts[^c-aaa39a57080593a96119bee5547674e1]
 
 Where a lessee[^M_F_43bf153b-977b-41d6-9936-187d98c8cf46] makes an application under section 76 (notice to quit relating to later Part VII contracts) of the 1984 Act, the application must—
 
@@ -1427,7 +1427,7 @@ Where a lessee[^M_F_43bf153b-977b-41d6-9936-187d98c8cf46] makes an application u
   - (iv) the reasons for the postponement of the date of possession; and
 - (b) be signed and dated by the lessee or a representative of the lessee.
 
-##### 87. Application to recover unlawful premiums and loans[^key-4a59dbd3e07843f01102bddce397635c]
+##### 87. Application to recover unlawful premiums and loans[^c-4a59dbd3e07843f01102bddce397635c]
 
 Where a person makes an application under section 88 (recovery of premiums and loans unlawfully required or received) of the 1984 Act, the application must—
 
@@ -1440,7 +1440,7 @@ Where a person makes an application under section 88 (recovery of premiums and l
   - (ii) evidence of an unlawful payment to be recovered; and
 - (c) be signed and dated by the person or a representative of the person.
 
-##### 88. Application to modify a tenant’s right to shared accommodation[^key-2a120f97624ded96a55d9d27a84555fc]
+##### 88. Application to modify a tenant’s right to shared accommodation[^c-2a120f97624ded96a55d9d27a84555fc]
 
 Where a landlord makes an application under section 97(8) (provisions where tenant shares accommodation with persons other than landlord) of the 1984 Act, the application must—
 
@@ -1452,7 +1452,7 @@ Where a landlord makes an application under section 97(8) (provisions where tena
 - (b) be accompanied by a copy of the occupancy agreement or, if this is not available, as much information about the occupancy as the landlord can give; and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 89. Application to alter the amount of rent where the right to shared accommodation is modified[^key-8c541dce8950917df65d96ff554d2e14]
+##### 89. Application to alter the amount of rent where the right to shared accommodation is modified[^c-8c541dce8950917df65d96ff554d2e14]
 
 Where a landlord or tenant makes an application under section 97(9) (provisions where tenant shares accommodation with persons other than landlord) of the 1984 Act, the application must—
 
@@ -1464,7 +1464,7 @@ Where a landlord or tenant makes an application under section 97(9) (provisions 
   - (v) the details of the change in circumstances or increase in rent; and
 - (b) be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 90. Application to determine the application of the 1984 Act[^key-9dd9a64507f89e5f449c0c0b51ea01bd]
+##### 90. Application to determine the application of the 1984 Act[^c-9dd9a64507f89e5f449c0c0b51ea01bd]
 
 Where a landlord or tenant makes an application under section 102(A1) (jurisdiction) of the 1984 Act, the application must—
 
@@ -1476,7 +1476,7 @@ Where a landlord or tenant makes an application under section 102(A1) (jurisdict
   - (v) the details of the question regarding the application of the 1984 Act; and
 - (b) be signed and dated by the landlord or tenant or a representative of the landlord or tenant.
 
-##### 91. Application for civil proceedings in relation to a regulated tenancy or Part VII contract under the 1984 Act[^key-1f3641b1e9012042775d49938afaaa32]
+##### 91. Application for civil proceedings in relation to a regulated tenancy or Part VII contract under the 1984 Act[^c-1f3641b1e9012042775d49938afaaa32]
 
 Where a person makes any other application to the First-tier Tribunal by virtue of section 16 (First-tier Tribunal’s jurisdiction in relation regulated and assured tenancies etc.) of the 2014 Act, the application must—
 
@@ -1489,7 +1489,7 @@ Where a person makes any other application to the First-tier Tribunal by virtue 
   - (ii) a copy of any relevant document; and
 - (c) be signed and dated by the person.
 
-##### 92. Parties to be notified by the First-tier Tribunal[^key-b592fd14b7e9aba10ac12594db1a99d6]
+##### 92. Parties to be notified by the First-tier Tribunal[^c-b592fd14b7e9aba10ac12594db1a99d6]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are in relation to an application—
 
@@ -1503,7 +1503,7 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are in rel
 
 #### CHAPTER 9 — Procedure in respect of letting agent applications
 
-##### 93. Application for extension of time limit to determine application for registration as a letting agent[^key-2b3e835aa1597a99e4526a4f21aae179]
+##### 93. Application for extension of time limit to determine application for registration as a letting agent[^c-2b3e835aa1597a99e4526a4f21aae179]
 
 Where the Scottish Ministers make an application under section 33(3) (time limit for determining application) of the 2014 Act, the application must—
 
@@ -1515,7 +1515,7 @@ Where the Scottish Ministers make an application under section 33(3) (time limit
   - (v) the date of receipt by the Scottish Ministers of the application under section 32 of the 2014 Act; and
 - (b) be signed and dated by the Scottish Ministers or a representative of the Scottish Ministers.
 
-##### 94. Application to appeal decision by the Scottish Ministers to refuse to register or removal from register[^key-0524462e6c049a9daf044dcd4298a9fa]
+##### 94. Application to appeal decision by the Scottish Ministers to refuse to register or removal from register[^c-0524462e6c049a9daf044dcd4298a9fa]
 
 Where a person makes an application under section 41(1) (appeals) of the 2014 Act, the application must—
 
@@ -1529,7 +1529,7 @@ Where a person makes an application under section 41(1) (appeals) of the 2014 Ac
 - (b) be made before the end of the period of 21 days beginning with the date of the notification of the decision; and
 - (c) be signed and dated by the person or a representative of the person.
 
-##### 95. Application to enforce letting agent code of practice[^key-39ad57084e96e0f004f42151450f5824]
+##### 95. Application to enforce letting agent code of practice[^c-39ad57084e96e0f004f42151450f5824]
 
 Where a tenant or landlord makes, or the Scottish Ministers make, an application under section 48(1) (applications to First-tier Tribunal to enforce code of practice) of the 2014 Act, the application must—
 
@@ -1542,7 +1542,7 @@ Where a tenant or landlord makes, or the Scottish Ministers make, an application
 - (b) be accompanied by a copy of the notification to the letting agent as required under section 48(4) of the 2014 Act; and
 - (c) be signed and dated by the applicant or a representative of the applicant.
 
-##### 96. Parties to be notified by the First-tier Tribunal[^key-5938e8eb5e8fa16d27fce8b94103200b]
+##### 96. Parties to be notified by the First-tier Tribunal[^c-5938e8eb5e8fa16d27fce8b94103200b]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application—
 
@@ -1554,7 +1554,7 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are, in re
   and the Scottish Ministers; and
 - (c) under section 48(1) of the 2014 Act, the tenant, landlord (if a party to the proceedings) or the Scottish Ministers and the letting agent.
 
-##### 97. Letting agent enforcement orders[^key-c7b9477a351312cc0c3d86a5bf084f55]
+##### 97. Letting agent enforcement orders[^c-c7b9477a351312cc0c3d86a5bf084f55]
 
 (1) Where the First-tier Tribunal varies or revokes a letting agent enforcement order under section 49 of the 2014 Act, it will notify the[^M_F_05acac2e-733f-4384-b045-a22b05ae35a5] parties in writing.
 
@@ -1562,7 +1562,7 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are, in re
 
 #### CHAPTER 10 — Procedure in respect of landlord registration applications
 
-##### 98. Application for an extension of time limit to determine application for registration as a landlord[^key-07ae7acd4ae6ad27d2bfdc31f65adc1c]
+##### 98. Application for an extension of time limit to determine application for registration as a landlord[^c-07ae7acd4ae6ad27d2bfdc31f65adc1c]
 
 Where the local authority makes an application under section 85B(3)[^f00028] (time limit for determining application) of the 2004 Act, the application must—
 
@@ -1573,7 +1573,7 @@ Where the local authority makes an application under section 85B(3)[^f00028] (ti
   - (iv) the date of receipt of the application under section 83 of the 2004 Act; and
 - (b) be signed and dated by the local authority or a representative of the local authority.
 
-##### 99. Application to appeal against refusal to register or removal from register[^key-a37f7dd1214adce6da93864ccc1f7405]
+##### 99. Application to appeal against refusal to register or removal from register[^c-a37f7dd1214adce6da93864ccc1f7405]
 
 Where a person makes an application under section 92(2) (appeal against refusal to register or removal from register) of the 2004 Act, the application must—
 
@@ -1585,7 +1585,7 @@ Where a person makes an application under section 92(2) (appeal against refusal 
   - (v) the reasons why a person is appealing the decision of the local authority; and
 - (b) be signed and dated by the person or a representative of the person.
 
-##### 100. Application to appeal against a decision of the local authority to serve a notice that no rent is payable[^key-20c81154af5e46428fa62cfc9464b785]
+##### 100. Application to appeal against a decision of the local authority to serve a notice that no rent is payable[^c-20c81154af5e46428fa62cfc9464b785]
 
 Where a relevant person on whom a notice under section 94 (circumstances in which no rent to be payable) of the 2004 Act is served makes an application under section 97(1) (appeals) of the 2004 Act, the application must—
 
@@ -1596,7 +1596,7 @@ Where a relevant person on whom a notice under section 94 (circumstances in whic
 - (b) be accompanied by a copy of the notification to the person who has the use as a dwelling of the house to which the notice relates as required under section 97(4) of the 2004 Act; and
 - (c) be signed and dated by the relevant person or a representative of the relevant person.
 
-##### 101. Application to revoke a notice that no rent is payable[^key-97758176c78af667a9132b3fbebc17af]
+##### 101. Application to revoke a notice that no rent is payable[^c-97758176c78af667a9132b3fbebc17af]
 
 Where a local authority makes a decision refusing to revoke a notice under section 95(2) (notices under section 94: revocation) of the 2004 Act and a person having an interest makes an application under section 97(2) (appeals) of the 2004 Act, the application must—
 
@@ -1607,7 +1607,7 @@ Where a local authority makes a decision refusing to revoke a notice under secti
 - (b) be accompanied by a copy of the notification to the person who has the use as a dwelling of the house to which the notice relates as required under section 97(4) of the 2004 Act; and
 - (c) be signed and dated by the relevant person or a representative of the relevant person.
 
-##### 102. Parties to be notified by the First-tier Tribunal[^key-47510ecf1fe34d885738068b02b9be26]
+##### 102. Parties to be notified by the First-tier Tribunal[^c-47510ecf1fe34d885738068b02b9be26]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application—
 
@@ -1618,9 +1618,9 @@ The parties to be notified by the First-tier Tribunal under rule 9(1) are, in re
 
 #### CHAPTER 11 — Procedure in respect of tenancy deposit applications
 
-##### 103. Application for order for payment where landlord has failed to carry out duties in relation to tenancy deposits[^key-14caa04bbe0debefcfc3bbc0d29d1b37][^key-ceabc0e47e566e66d56390e31ae3d238]
+##### 103. Application for order for payment where landlord has failed to carry out duties in relation to tenancy deposits[^c-14caa04bbe0debefcfc3bbc0d29d1b37][^c-ceabc0e47e566e66d56390e31ae3d238]
 
-Where a tenant or former tenant makes an application under regulation 9 (First-tier Tribunal orders[^key-086a07f8045e28db04ae91b5517c12f6]) of the 2011 Regulations, the application must—
+Where a tenant or former tenant makes an application under regulation 9 (First-tier Tribunal orders[^c-086a07f8045e28db04ae91b5517c12f6]) of the 2011 Regulations, the application must—
 
 - (a) state—
   - (i) the name and address of the tenant or former tenant;
@@ -1630,13 +1630,13 @@ Where a tenant or former tenant makes an application under regulation 9 (First-t
 - (c) evidence of the date of the end of the tenancy (if available); and
 - (d) be signed and dated by the tenant or former tenant or a representative of the tenant or former tenant.
 
-##### 104. Parties to be notified by the First-tier Tribunal[^key-5ed4060a363fa2527c7d3c09871d4f39]
+##### 104. Parties to be notified by the First-tier Tribunal[^c-5ed4060a363fa2527c7d3c09871d4f39]
 
 The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application under regulation 9 of the 2011 Regulations, a tenant or former tenant and the landlord.
 
 #### CHAPTER 12 — Procedure in respect of private residential tenancy applications
 
-##### 105. Application to draw up terms of tenancy[^key-ff20a03a4ff11818034c5bc14f8a38a0]
+##### 105. Application to draw up terms of tenancy[^c-ff20a03a4ff11818034c5bc14f8a38a0]
 
 Where the tenant makes an application under section 14(1) (to draw up terms where written terms have not been provided) of the 2016 Act, the application must—
 
@@ -1649,7 +1649,7 @@ Where the tenant makes an application under section 14(1) (to draw up terms wher
   - (ii) a statement of the terms of the tenancy agreed between the landlord and tenant, whether verbally or in writing; and
 - (c) be signed and dated by the tenant or a representative of the tenant.
 
-##### 106. Application to draw up terms of tenancy where statutory term is unlawfully displaced[^key-f9cfb0229217b0b62e3b9217916c1804]
+##### 106. Application to draw up terms of tenancy where statutory term is unlawfully displaced[^c-f9cfb0229217b0b62e3b9217916c1804]
 
 Where a person makes an application under section 14(2) (to draw up terms where statutory term is unlawfully displaced) of the 2016 Act, the application must—
 
@@ -1664,7 +1664,7 @@ Where a person makes an application under section 14(2) (to draw up terms where 
   - (ii) evidence to support that a statutory term has been unlawfully displaced; and
 - (c) be signed and dated by the person[^M_F_05a61846-3961-41fe-9604-260fa27b2384] or a representative of the person.
 
-##### 107. Application for payment order where landlord has failed to provide information[^key-a2ece035ff52ed58cfc457c04ebc5ea5]
+##### 107. Application for payment order where landlord has failed to provide information[^c-a2ece035ff52ed58cfc457c04ebc5ea5]
 
 Where the tenant makes an application under section 16(1) (to sanction failure to provide information) of the 2016 Act, the application must—
 
@@ -1680,7 +1680,7 @@ Where the tenant makes an application under section 16(1) (to sanction failure t
 - (b) be accompanied by a copy of the notice given to the landlord under section 16(3)(c) of the 2016 Act; and
 - (c) be signed and dated by the tenant or a representative of the tenant.
 
-##### 108. Application to appeal rent set by the rent officer[^key-6785b1c7299060cbdda2e75f473c0d65]
+##### 108. Application to appeal rent set by the rent officer[^c-6785b1c7299060cbdda2e75f473c0d65]
 
 Where a tenant or landlord makes an application under section 28(1) (to appeal the rent set by the rent officer) of the 2016 Act, the application must—
 
@@ -1694,23 +1694,23 @@ Where a tenant or landlord makes an application under section 28(1) (to appeal t
   - (ii) a copy of the rent-increase notice upon which the referral to the rent officer was based; and
 - (c) be signed and dated by the tenant or landlord or a representative of the tenant or landlord.
 
-##### 109. Application for an eviction order[^key-1cd135090f1c9048d08bce27cdaae018]
+##### 109. Application for an eviction order[^c-1cd135090f1c9048d08bce27cdaae018]
 
 Where a landlord makes an application under section 51(1) (for an eviction order) of the 2016 Act, the application must—
 
 - (a) state—
   - (i) the name, address and registration number (if any) of the landlord;
   - (ii) the name, address and profession of any representative of the landlord;
-  - (iii) the name and address of the tenant (if known)[^key-1131280c8500df6c00d2fc6f346a30e9]; and
+  - (iii) the name and address of the tenant (if known)[^c-1131280c8500df6c00d2fc6f346a30e9]; and
   - (iv) the ground or grounds for eviction;
 - (b) be accompanied by—
   - (i) evidence showing that the eviction ground or grounds has been met;
   - (ii) a copy of the notice to leave given to the tenant as required under section 52(3) of the 2016 Act; and
   - (iii) a copy of the notice given to the local authority as required under section 56(1) of the 2016 Act; and
-  - (iv)[^key-1651fa837ec84a1d54eef368b99cbbdf] a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable), and
+  - (iv)[^c-1651fa837ec84a1d54eef368b99cbbdf] a copy of Form BB (notice to the occupier) under schedule 6 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (if applicable), and
 - (c) be signed and dated by the landlord or a representative of the landlord.
 
-##### 110. Application for a wrongful termination order[^key-ff5b1a3323a6b68adbe40f22bc7b8892]
+##### 110. Application for a wrongful termination order[^c-ff5b1a3323a6b68adbe40f22bc7b8892]
 
 Where a former tenant makes an application under section 57(2) (wrongful termination by eviction order) or section 58(2) (wrongful termination without eviction order) of the 2016 Act, the application must—
 
@@ -1721,7 +1721,7 @@ Where a former tenant makes an application under section 57(2) (wrongful termina
 - (b) be accompanied by evidence showing that the tenancy was unlawfully terminated; and
 - (c) be signed and dated by the former tenant or a representative of the former tenant.
 
-##### 111. Application for civil proceedings in relation to a private residential tenancy[^key-11dc7a95745f738dad26f4b15c7bc635]
+##### 111. Application for civil proceedings in relation to a private residential tenancy[^c-11dc7a95745f738dad26f4b15c7bc635]
 
 Where a person makes any other application to the First-tier Tribunal by virtue of section 71(1) (First-tier Tribunal’s jurisdiction) of the 2016 Act, the application must—
 
@@ -1734,15 +1734,15 @@ Where a person makes any other application to the First-tier Tribunal by virtue 
   - (ii) a copy of any relevant document; and
 - (c) be signed and dated by the person.
 
-##### 112. Parties to be notified by the First-tier Tribunal[^key-d3ba1ee0e7bb89bf87d249572931ef24]
+##### 112. Parties to be notified by the First-tier Tribunal[^c-d3ba1ee0e7bb89bf87d249572931ef24]
 
-(1)[^key-63b049c24a611536a62fb9ead52affba] The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application made under a section of the 2016 Act, the landlord (or former landlord) and the tenant (or former tenant).
+(1)[^c-63b049c24a611536a62fb9ead52affba] The parties to be notified by the First-tier Tribunal under rule 9(1) are, in relation to an application made under a section of the 2016 Act, the landlord (or former landlord) and the tenant (or former tenant).
 
-(2)[^key-8fdd9fd8257e64cd8cab77d667e893c7] Additionally, in relation to an appeal under section 28 of the 2016 Act, against the order of a rent officer under section 25(1A) or (1B) of that Act, the rent officer is to be notified by the First-tier Tribunal under rule 9(1).
+(2)[^c-8fdd9fd8257e64cd8cab77d667e893c7] Additionally, in relation to an appeal under section 28 of the 2016 Act, against the order of a rent officer under section 25(1A) or (1B) of that Act, the rent officer is to be notified by the First-tier Tribunal under rule 9(1).
 
 (3) This rule does not apply to an appeal under section 33C of the 2016 Act.
 
-### PART 4 — Procedure in respect of prescribed property costs applications[^key-d9f21584fdb5ee308dedcf9bee374ebe]
+### PART 4 — Procedure in respect of prescribed property costs applications[^c-d9f21584fdb5ee308dedcf9bee374ebe]
 
 #### 113. Application and interpretation of Part 4
 
@@ -1899,169 +1899,169 @@ In a prescribed property costs application the First-tier Tribunal may require t
 
 ## Annotations
 
-[^key-26ea6f8e7adfd9381fc2d57abfd605d2]: Commencement: Sch. rule 1 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-26ea6f8e7adfd9381fc2d57abfd605d2]: Commencement: Sch. rule 1 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-899fc77c2624afbc77117fa90e534cc7]: Textual amendment: Words in sch. rule 1(1) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/a)
+[^c-899fc77c2624afbc77117fa90e534cc7]: Textual amendment: Words in sch. rule 1(1) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/a)
 
-[^key-5f63b2636494aeb9f75fd29c39dfd6dd]: Textual amendment: Sch. rule 1(1A) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/b)
+[^c-5f63b2636494aeb9f75fd29c39dfd6dd]: Textual amendment: Sch. rule 1(1A) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/b)
 
-[^key-ccd11fc25fca13fb3412d86283213c44]: Textual amendment: Words in sch. rule 1 inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/3)
+[^c-ccd11fc25fca13fb3412d86283213c44]: Textual amendment: Words in sch. rule 1 inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/3)
 
-[^key-044be304e520dd7cab4059ea99275a4a]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/i)
+[^c-044be304e520dd7cab4059ea99275a4a]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/i)
 
 [^M_F_2eb3e92d-e44f-4215-9af7-4709caec7ccb]: Textual amendment: Words in sch. rule 1(2) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/3)
 
-[^key-d4e410e021852906004ce297150edf49]: Textual amendment: Words in sch. rule 1(2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/c)
+[^c-d4e410e021852906004ce297150edf49]: Textual amendment: Words in sch. rule 1(2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/c)
 
-[^key-ede5e392c99723ea4cf644a63f504d39]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/ii)
+[^c-ede5e392c99723ea4cf644a63f504d39]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/ii)
 
 [^f00016]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) is amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
 [^f00017]: Footnote: Section 7 is amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-5ee4cc293a85d4a4ea25b6a3e53b9b66]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/iii)
+[^c-5ee4cc293a85d4a4ea25b6a3e53b9b66]: Textual amendment: Words in sch. rule 1(2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/a/iii)
 
-[^key-1dfa4a3c7d3ce8e41a1093a7cb85e05f]: Textual amendment: Words in sch. rule 1(2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/d)
+[^c-1dfa4a3c7d3ce8e41a1093a7cb85e05f]: Textual amendment: Words in sch. rule 1(2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/2/d)
 
-[^key-4e45b7b47279200b5e908b9c4ecb1275]: Commencement: Sch. rule 2 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4e45b7b47279200b5e908b9c4ecb1275]: Commencement: Sch. rule 2 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c2d1694932f44eaf6aa60b636df0ba86]: Commencement: Sch. rule 3 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c2d1694932f44eaf6aa60b636df0ba86]: Commencement: Sch. rule 3 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-0f0f5b3e2833c0abb8b32017692faa9f]: Textual amendment: Sch. rule 3A inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/b)
+[^c-0f0f5b3e2833c0abb8b32017692faa9f]: Textual amendment: Sch. rule 3A inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/b)
 
-[^key-6e503c968d26762e43129e50234cc169]: Commencement: Sch. rule 4 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-6e503c968d26762e43129e50234cc169]: Commencement: Sch. rule 4 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-abc4934265cc4e77186099e8cfd31cb4]: Commencement: Sch. rule 5 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-abc4934265cc4e77186099e8cfd31cb4]: Commencement: Sch. rule 5 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9229d4db53e4856b5183fcbc4809176c]: Textual amendment: Sch. rule 5(4)-(8) substituted for [sch.](https://www.legislation.gov.uk/ssi/2017/328/schedule) [rule 5(4)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/5/4) (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/4)
+[^c-9229d4db53e4856b5183fcbc4809176c]: Textual amendment: Sch. rule 5(4)-(8) substituted for [sch.](https://www.legislation.gov.uk/ssi/2017/328/schedule) [rule 5(4)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/5/4) (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/4)
 
-[^key-c4ea006fd308df2d92336d6ba48ab0dc]: Textual amendment: Sch. rule 5A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/5)
+[^c-c4ea006fd308df2d92336d6ba48ab0dc]: Textual amendment: Sch. rule 5A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/5)
 
-[^key-d8a098cc40109aa0521560d345be86e4]: Commencement: Sch. rule 6 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-d8a098cc40109aa0521560d345be86e4]: Commencement: Sch. rule 6 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00018]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
-[^key-f9f00ba271188e3180a378f982d14842]: Textual amendment: Sch. rule 6(6) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/6)
+[^c-f9f00ba271188e3180a378f982d14842]: Textual amendment: Sch. rule 6(6) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/6)
 
-[^key-dac776b2acd0b8f1d695140505cf78d0]: Textual amendment: Sch. rule 6A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/7)
+[^c-dac776b2acd0b8f1d695140505cf78d0]: Textual amendment: Sch. rule 6A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/7)
 
-[^key-12bfc342af980d080cadf77fa498796c]: Commencement: Sch. rule 7 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-12bfc342af980d080cadf77fa498796c]: Commencement: Sch. rule 7 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-428312320845db963893c371184d8b4a]: Commencement: Sch. rule 8 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-428312320845db963893c371184d8b4a]: Commencement: Sch. rule 8 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-fe3d5caa530bf72c1612384ae5f9cd21]: Commencement: Sch. rule 9 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-fe3d5caa530bf72c1612384ae5f9cd21]: Commencement: Sch. rule 9 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-cb4a9552f6fa19c60cb24ae5e4ae1ed9]: Commencement: Sch. rule 10 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-cb4a9552f6fa19c60cb24ae5e4ae1ed9]: Commencement: Sch. rule 10 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_54996339-2d75-4de6-8bc0-252278c5ecee]: Textual amendment: Words in sch. rule 10(4) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/4)
 
-[^key-1de25574da2f0b7d61d94be7e7a8b762]: Textual amendment: Words in sch. rule 10(4) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/8)
+[^c-1de25574da2f0b7d61d94be7e7a8b762]: Textual amendment: Words in sch. rule 10(4) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/8)
 
-[^key-8f2b7bb02206ed64778e6002896d5cd5]: Commencement: Sch. rule 11 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-8f2b7bb02206ed64778e6002896d5cd5]: Commencement: Sch. rule 11 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-3697c78b9cf65470b007ba71c42a415f]: Commencement: Sch. rule 12 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-3697c78b9cf65470b007ba71c42a415f]: Commencement: Sch. rule 12 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-399bb0c209c5348fba61c89c54e1ea7d]: Commencement: Sch. rule 13 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-399bb0c209c5348fba61c89c54e1ea7d]: Commencement: Sch. rule 13 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00019]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-d6ec1ff040b77564cf86ff9387df7c5e]: Commencement: Sch. rule 14 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-d6ec1ff040b77564cf86ff9387df7c5e]: Commencement: Sch. rule 14 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-63e9498cf13916afea970300352ffc5e]: Textual amendment: Sch. rule 14A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(9)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/9)
+[^c-63e9498cf13916afea970300352ffc5e]: Textual amendment: Sch. rule 14A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(9)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/9)
 
-[^key-926e966f53a5e36b8810f1adda797d93]: Commencement: Sch. rule 15 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-926e966f53a5e36b8810f1adda797d93]: Commencement: Sch. rule 15 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-41a3e71ab7b59e76354f1b171f550aa0]: Commencement: Sch. rule 16 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-41a3e71ab7b59e76354f1b171f550aa0]: Commencement: Sch. rule 16 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-8c4b1ef50d6a60b866c147bed812b134]: Textual amendment: Sch. rule 16A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/10)
+[^c-8c4b1ef50d6a60b866c147bed812b134]: Textual amendment: Sch. rule 16A inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/10)
 
-[^key-c94a00b3197a16fc8905477e41530a6c]: Commencement: Sch. rule 17 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c94a00b3197a16fc8905477e41530a6c]: Commencement: Sch. rule 17 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-519751a8248ad19d1c86d6c75fafbe66]: Commencement: Sch. rule 18 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-519751a8248ad19d1c86d6c75fafbe66]: Commencement: Sch. rule 18 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-47d1837a7753aff816103157acd10b86]: Commencement: Sch. rule 19 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-47d1837a7753aff816103157acd10b86]: Commencement: Sch. rule 19 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-cddf9b945d99a63ce1f6f85bf1cb8145]: Commencement: Sch. rule 20 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-cddf9b945d99a63ce1f6f85bf1cb8145]: Commencement: Sch. rule 20 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-26852632cfc1d9baa21b862ed1fe2bdb]: Commencement: Sch. rule 21 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-26852632cfc1d9baa21b862ed1fe2bdb]: Commencement: Sch. rule 21 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-e66deeac0622b859cd702f89267b43d9]: Commencement: Sch. rule 22 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-e66deeac0622b859cd702f89267b43d9]: Commencement: Sch. rule 22 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-f84d29ce7f2962dea5fbb97b3b34a92f]: Commencement: Sch. rule 23 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-f84d29ce7f2962dea5fbb97b3b34a92f]: Commencement: Sch. rule 23 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00020]: Footnote: See rule 62 for documents at hearings in respect of assured tenancy references.
 
-[^key-faf8226f289fdcdde549bfed560024fb]: Commencement: Sch. rule 24 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-faf8226f289fdcdde549bfed560024fb]: Commencement: Sch. rule 24 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-bac4bd3a5bdd18301d7dc807857e5b72]: Commencement: Sch. rule 25 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-bac4bd3a5bdd18301d7dc807857e5b72]: Commencement: Sch. rule 25 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-f08280ba1fb70b8d5ff9457cf51b9b9c]: Commencement: Sch. rule 26 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-f08280ba1fb70b8d5ff9457cf51b9b9c]: Commencement: Sch. rule 26 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-19c8cb45e71a1b5253ccd1f731ab452b]: Textual amendment: Sch. rule 26(11)(12) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/11)
+[^c-19c8cb45e71a1b5253ccd1f731ab452b]: Textual amendment: Sch. rule 26(11)(12) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/11)
 
-[^key-50ae54451f411be9ac058cdda19a50bf]: Commencement: Sch. rule 27 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-50ae54451f411be9ac058cdda19a50bf]: Commencement: Sch. rule 27 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-58401cee85341ac3d83850bce6709a59]: Commencement: Sch. rule 28 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-58401cee85341ac3d83850bce6709a59]: Commencement: Sch. rule 28 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-0b15d2b3e74b0dd7e9b8d101364e82a2]: Textual amendment: Words in sch. rule 28(2)(c) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/12)
+[^c-0b15d2b3e74b0dd7e9b8d101364e82a2]: Textual amendment: Words in sch. rule 28(2)(c) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/12)
 
-[^key-6486998f3afc0c289e2eb775f4048be5]: Commencement: Sch. rule 29 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-6486998f3afc0c289e2eb775f4048be5]: Commencement: Sch. rule 29 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-4d842502f55f6e826d552ed0707f2f4f]: Commencement: Sch. rule 30 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4d842502f55f6e826d552ed0707f2f4f]: Commencement: Sch. rule 30 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-24b5bc0f078b161f56b6fc639f813942]: Commencement: Sch. rule 31 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-24b5bc0f078b161f56b6fc639f813942]: Commencement: Sch. rule 31 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-21db45b12b0f7695de52f3d20993405e]: Commencement: Sch. rule 32 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-21db45b12b0f7695de52f3d20993405e]: Commencement: Sch. rule 32 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-58085b8d6cbf3f65d7533dfc36e8c8ae]: Textual amendment: Sch. rule 32(4) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/3)
+[^c-58085b8d6cbf3f65d7533dfc36e8c8ae]: Textual amendment: Sch. rule 32(4) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/3)
 
-[^key-e1bff63952bdfff92d97c5bebe65ea6b]: Commencement: Sch. rule 33 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-e1bff63952bdfff92d97c5bebe65ea6b]: Commencement: Sch. rule 33 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-63873776bd67863e378eba55cbd9ab3a]: Commencement: Sch. rule 34 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-63873776bd67863e378eba55cbd9ab3a]: Commencement: Sch. rule 34 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-cb01e5d60d148437897f43858a294ccd]: Commencement: Sch. rule 35 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-cb01e5d60d148437897f43858a294ccd]: Commencement: Sch. rule 35 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-b83a6edecbf799311dd361bb5f7ec527]: Commencement: Sch. rule 36 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-b83a6edecbf799311dd361bb5f7ec527]: Commencement: Sch. rule 36 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-d2023b5cf8fdbf83008e1b13a26714c4]: Commencement: Sch. rule 37 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-d2023b5cf8fdbf83008e1b13a26714c4]: Commencement: Sch. rule 37 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_11e26bbf-34a5-4149-b9e3-3966739d311c]: Textual amendment: Sch. rule 37(3)(a) omitted (1.12.2017) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/5)
 
-[^key-07d51378d539495b5a66f4512bfdc4ff]: Textual amendment: Sch. rule 37(3)(da) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/4)
+[^c-07d51378d539495b5a66f4512bfdc4ff]: Textual amendment: Sch. rule 37(3)(da) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/4)
 
 [^f00021]: Footnote: Section 85B is not yet in force.
 
-[^key-f6c3ba8d0c9f74dda3e812568a3803d8]: Textual amendment: Sch. rule 37(4) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/13)
+[^c-f6c3ba8d0c9f74dda3e812568a3803d8]: Textual amendment: Sch. rule 37(4) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/13)
 
-[^key-fa52f33af8a3be25a8957350367b832b]: Commencement: Sch. rule 38 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-fa52f33af8a3be25a8957350367b832b]: Commencement: Sch. rule 38 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-cbb7b742cb8dac92150e11fd44fd4e15]: Textual amendment: Sch. rule 38A inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/c)
+[^c-cbb7b742cb8dac92150e11fd44fd4e15]: Textual amendment: Sch. rule 38A inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/4/2/c)
 
-[^key-275964c2db77451e2fa048e51c78b79b]: Commencement: Sch. rule 39 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-275964c2db77451e2fa048e51c78b79b]: Commencement: Sch. rule 39 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00022]: Footnote: Section 43(4) of the Tribunals (Scotland) Act [2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10) provides that the exercise of discretion whether a decision should be reviewed cannot give rise to a review under section 43.
 
 [^f00023]: Footnote: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-b3b1cbece662e9863621ce727e84e3be]: Textual amendment: Sch. rule 39(9) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(14)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/14)
+[^c-b3b1cbece662e9863621ce727e84e3be]: Textual amendment: Sch. rule 39(9) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(14)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/14)
 
-[^key-8aab25af791c11cc309bc0938aff7d1c]: Textual amendment: Sch. rule 39A inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/5)
+[^c-8aab25af791c11cc309bc0938aff7d1c]: Textual amendment: Sch. rule 39A inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/5)
 
-[^key-96b4b24d187794dce8c5c9d288bf6598]: Commencement: Sch. rule 40 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-96b4b24d187794dce8c5c9d288bf6598]: Commencement: Sch. rule 40 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-62f8a9d65ae73c53394e337662cc81a1]: Textual amendment: Sch. rule 41 substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(15)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/15)
+[^c-62f8a9d65ae73c53394e337662cc81a1]: Textual amendment: Sch. rule 41 substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(15)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/15)
 
-[^key-3e4c77c691bb2203f967d36ac65da4b8]: Textual amendment: Sch. rules 41A-41F inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(16)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/16)
+[^c-3e4c77c691bb2203f967d36ac65da4b8]: Textual amendment: Sch. rules 41A-41F inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(16)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/16)
 
-[^key-6ad37ec556d676a60b1cc62a85e3a3c8]: Textual amendment: Sch. rules 41G, 41H inserted (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/3), [2(17)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/17)
+[^c-6ad37ec556d676a60b1cc62a85e3a3c8]: Textual amendment: Sch. rules 41G, 41H inserted (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/3), [2(17)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/17)
 
-[^key-2d87d3b610657c05ca2d252f65ad7427]: Commencement: Sch. rule 42 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-2d87d3b610657c05ca2d252f65ad7427]: Commencement: Sch. rule 42 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00024]: Footnote: [S.S.I. 2016/335](https://www.legislation.gov.uk/ssi/2016/335).
 
 [^f00025]: Footnote: [S.S.I. 2016/336](https://www.legislation.gov.uk/ssi/2016/336).
 
-[^key-1f4dc809f597b4fe83d2b64c865ace29]: Commencement: Sch. rule 43 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-1f4dc809f597b4fe83d2b64c865ace29]: Commencement: Sch. rule 43 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_b972fe3f-78d9-4fea-a650-17aa3c4c84d7]: Textual amendment: Word in sch. rule 43(1)(d) inserted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(6)(a)(i)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/6/a/i)
 
@@ -2071,157 +2071,157 @@ In a prescribed property costs application the First-tier Tribunal may require t
 
 [^M_F_7e316eb3-86a1-4f9b-8c62-81d0d0c04330]: Textual amendment: Sch. rule 43(4) omitted (1.12.2017) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/6/b)
 
-[^key-c95d27cbecacd2d360e4defcf91fc4ab]: Commencement: Sch. rule 44 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c95d27cbecacd2d360e4defcf91fc4ab]: Commencement: Sch. rule 44 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_232ce7c7-0ded-4294-bd5a-2472a007c1f2]: Textual amendment: Word in sch. rule 44(4) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/7)
 
-[^key-90870727f2fca99b547c6fbb93dbc070]: Commencement: Sch. rule 45 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-90870727f2fca99b547c6fbb93dbc070]: Commencement: Sch. rule 45 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-846111c2d30d3604f295844d9637d8c2]: Commencement: Sch. rule 46 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-846111c2d30d3604f295844d9637d8c2]: Commencement: Sch. rule 46 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-e2967f10373eb37f3ed40d982a6461f3]: Textual amendment: Words in [sch. rule 46(1)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/a)
+[^c-e2967f10373eb37f3ed40d982a6461f3]: Textual amendment: Words in [sch. rule 46(1)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/a)
 
 [^f00026]: Footnote: [S.S.I. 2016/337](https://www.legislation.gov.uk/ssi/2016/337).
 
-[^key-e22d84d74cae5bdb8c79af0988635bbe]: Textual amendment: Word in [sch. rule 46(1)(a)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1/a) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/b)
+[^c-e22d84d74cae5bdb8c79af0988635bbe]: Textual amendment: Word in [sch. rule 46(1)(a)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1/a) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/b)
 
 [^f00027]: Footnote: [S.S.I. 2016/338](https://www.legislation.gov.uk/ssi/2016/338).
 
-[^key-2615b90c07f127fe60649bf895d13e4d]: Textual amendment: [Sch. rule 46(1)(c)-(e)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1/c) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/c)
+[^c-2615b90c07f127fe60649bf895d13e4d]: Textual amendment: [Sch. rule 46(1)(c)-(e)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/46/1/c) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/18/c)
 
-[^key-a85e92cd07d6fcaff3090e1c50111e96]: Commencement: Sch. rule 47 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-a85e92cd07d6fcaff3090e1c50111e96]: Commencement: Sch. rule 47 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-7054218d0ca699faa32dcf396d8ac360]: Commencement: Sch. rule 48 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-7054218d0ca699faa32dcf396d8ac360]: Commencement: Sch. rule 48 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-4a83a69b9b33a1c8b5b0069e7b7f95ca]: Commencement: Sch. rule 49 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4a83a69b9b33a1c8b5b0069e7b7f95ca]: Commencement: Sch. rule 49 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-70b1efd26ea99d98890595beee14cb13]: Textual amendment: [Sch. rule 50](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/50) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(19)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/19)
+[^c-70b1efd26ea99d98890595beee14cb13]: Textual amendment: [Sch. rule 50](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/50) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(19)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/19)
 
-[^key-da538bc3cf068097c2616c063f67afe4]: Commencement: Sch. rule 51 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-da538bc3cf068097c2616c063f67afe4]: Commencement: Sch. rule 51 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-1fc66de73d763295451929f4d768a2d3]: Commencement: Sch. rule 52 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-1fc66de73d763295451929f4d768a2d3]: Commencement: Sch. rule 52 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9646d4d9a1ea722aacf77bc1398bc716]: Commencement: Sch. rule 53 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-9646d4d9a1ea722aacf77bc1398bc716]: Commencement: Sch. rule 53 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_694556d7-5338-4a49-f044-f9359dadae94]: Textual amendment: Word in sch. rule 53(4) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/8)
 
-[^key-dba6722138277b557a384b0938caa2d0]: Commencement: Sch. rule 54 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-dba6722138277b557a384b0938caa2d0]: Commencement: Sch. rule 54 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c8d16a9c4e64d27dcb9a44a5c99a526e]: Commencement: Sch. rule 55 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c8d16a9c4e64d27dcb9a44a5c99a526e]: Commencement: Sch. rule 55 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-8c16db405e5d3a1054386a7e977d3079]: Commencement: Sch. rule 56 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-8c16db405e5d3a1054386a7e977d3079]: Commencement: Sch. rule 56 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9b73508938a2bcb5a6f253631ba6dd86]: Commencement: Sch. rule 57 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-9b73508938a2bcb5a6f253631ba6dd86]: Commencement: Sch. rule 57 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-25a12617d231c57c08093ffd39fa9428]: Commencement: Sch. rule 58 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-25a12617d231c57c08093ffd39fa9428]: Commencement: Sch. rule 58 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-7b25e4aa1888b35ee264631b9bb8041b]: Commencement: Sch. rule 59 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-7b25e4aa1888b35ee264631b9bb8041b]: Commencement: Sch. rule 59 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-893a3c716b5d6c139b98f961f45e5b66]: Textual amendment: Words in [sch. rule 59](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/59) heading substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(20)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/20)
+[^c-893a3c716b5d6c139b98f961f45e5b66]: Textual amendment: Words in [sch. rule 59](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/59) heading substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(20)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/20)
 
-[^key-6c77ac5e5e1cd20375231d0a09a62b15]: Commencement: Sch. rule 60 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-6c77ac5e5e1cd20375231d0a09a62b15]: Commencement: Sch. rule 60 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c15756d95bbfb53ecbba7d059aad743c]: Commencement: Sch. rule 61 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c15756d95bbfb53ecbba7d059aad743c]: Commencement: Sch. rule 61 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-a7305cb205f9a3f75a081f629d6cd721]: Textual amendment: [Sch. rule 61(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/61/b/iii) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/6)
+[^c-a7305cb205f9a3f75a081f629d6cd721]: Textual amendment: [Sch. rule 61(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/61/b/iii) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/6)
 
-[^key-e18e063661c7597582ed1e5cc51c1d8b]: Commencement: Sch. rule 62 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-e18e063661c7597582ed1e5cc51c1d8b]: Commencement: Sch. rule 62 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-7d5d1691e6861e48f71b2c45285a7380]: Commencement: Sch. rule 63 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-7d5d1691e6861e48f71b2c45285a7380]: Commencement: Sch. rule 63 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-58c2e68cd27579e247b8f15e2c34a181]: Commencement: Sch. rule 64 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-58c2e68cd27579e247b8f15e2c34a181]: Commencement: Sch. rule 64 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-392f94a17d97eeb1a0e29f0b1943acc1]: Textual amendment: Sch. rule 64 renumbered as sch. rule 64(1) (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/7/a)
+[^c-392f94a17d97eeb1a0e29f0b1943acc1]: Textual amendment: Sch. rule 64 renumbered as sch. rule 64(1) (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/7/a)
 
-[^key-c8f6451204d341aaeacc5de0de9861ab]: Textual amendment: [Sch. rule 64(2)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/64/2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/7/b)
+[^c-c8f6451204d341aaeacc5de0de9861ab]: Textual amendment: [Sch. rule 64(2)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/64/2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/7/b)
 
-[^key-eb7cefbe912de7cea962a991ec02ddd8]: Commencement: Sch. rule 65 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-eb7cefbe912de7cea962a991ec02ddd8]: Commencement: Sch. rule 65 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-1c123e9adfd12caad0c9aaab690d8f49]: Textual amendment: Words in [sch. rule 65(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/ii) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/a)
+[^c-1c123e9adfd12caad0c9aaab690d8f49]: Textual amendment: Words in [sch. rule 65(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/ii) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/a)
 
-[^key-fb124b9cd028bdb3c0f1ba17a0634fb4]: Textual amendment: Word in [sch. rule 65(b)(iv)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/iv) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/b)
+[^c-fb124b9cd028bdb3c0f1ba17a0634fb4]: Textual amendment: Word in [sch. rule 65(b)(iv)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/iv) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/b)
 
-[^key-4ec20cb8a1231311c7f03baff365eda5]: Textual amendment: [Sch. rule 65(b)(v)(vi)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/v/vi) inserted (20.2.2019) by The First-tier [Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/c)
+[^c-4ec20cb8a1231311c7f03baff365eda5]: Textual amendment: [Sch. rule 65(b)(v)(vi)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/65/b/v/vi) inserted (20.2.2019) by The First-tier [Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(21)(c)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/21/c)
 
-[^key-1e3b588de16cabb6a2de13a4563b978f]: Commencement: Sch. rule 66 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-1e3b588de16cabb6a2de13a4563b978f]: Commencement: Sch. rule 66 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-32263828562dd02079a3d4ae32e4e263]: Textual amendment: Word in [sch. rule 66(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/ii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/a)
+[^c-32263828562dd02079a3d4ae32e4e263]: Textual amendment: Word in [sch. rule 66(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/ii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/a)
 
-[^key-3686a83a7848fae9d18638b33299df6c]: Textual amendment: Word in [sch. rule 66(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/iii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/a)
+[^c-3686a83a7848fae9d18638b33299df6c]: Textual amendment: Word in [sch. rule 66(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/iii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/a)
 
-[^key-a1a03e58c6881a21f86edacc8fe0b7b1]: Textual amendment: [Sch. rule 66(b)(iv)-(vi)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/iv) inserted (20.2.2019) by The First-tier [Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/b)
+[^c-a1a03e58c6881a21f86edacc8fe0b7b1]: Textual amendment: [Sch. rule 66(b)(iv)-(vi)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66/b/iv) inserted (20.2.2019) by The First-tier [Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(22)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/22/b)
 
-[^key-53bfb48ce740e58479120d950ec23972]: Textual amendment: [Sch. rule 66A](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66A) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/23)
+[^c-53bfb48ce740e58479120d950ec23972]: Textual amendment: [Sch. rule 66A](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/66A) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/23)
 
-[^key-878e59489433024e6a50d33ba0d64ef7]: Commencement: Sch. rule 67 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-878e59489433024e6a50d33ba0d64ef7]: Commencement: Sch. rule 67 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9da9befe12e49e804d4269cdac37f989]: Commencement: Sch. rule 68 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-9da9befe12e49e804d4269cdac37f989]: Commencement: Sch. rule 68 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-b7f94f755a973481dfb0eb9beaec01b8]: Commencement: Sch. rule 69 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-b7f94f755a973481dfb0eb9beaec01b8]: Commencement: Sch. rule 69 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_4e8123dc-88aa-487e-d7a7-e170eb6617c0]: Textual amendment: Word in sch. rule 69 substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/9)
 
-[^key-ec35815a5c4215b6f014856d53fcf6ba]: Commencement: Sch. rule 70 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-ec35815a5c4215b6f014856d53fcf6ba]: Commencement: Sch. rule 70 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c5ad1ed59ea16b73cd9659bd329f1858]: Commencement: Sch. rule 71 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c5ad1ed59ea16b73cd9659bd329f1858]: Commencement: Sch. rule 71 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-87c85dde82fa05f8cd871d377e5b8fef]: Textual amendment: Word in [sch. rule 71](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/71) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(24)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/24)
+[^c-87c85dde82fa05f8cd871d377e5b8fef]: Textual amendment: Word in [sch. rule 71](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/71) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(24)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/24)
 
 [^M_F_df926bdc-7ac8-450a-b08f-c5b43f1fbfc5]: Textual amendment: Word in sch. rule 71(b) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/10)
 
-[^key-726aa06ce8d3baafa40cd4e3755f0f3f]: Commencement: Sch. rule 72 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-726aa06ce8d3baafa40cd4e3755f0f3f]: Commencement: Sch. rule 72 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-4d234d6c8245c7997abf13a9e5582761]: Commencement: Sch. rule 73 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4d234d6c8245c7997abf13a9e5582761]: Commencement: Sch. rule 73 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-70f97a93726ada6660dbf3924c37db65]: Commencement: Sch. rule 74 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-70f97a93726ada6660dbf3924c37db65]: Commencement: Sch. rule 74 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-940c301805484fb06adbbe8ff2eb872d]: Commencement: Sch. rule 75 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-940c301805484fb06adbbe8ff2eb872d]: Commencement: Sch. rule 75 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-d0ecea69a261d76ea2c74b00847050a8]: Commencement: Sch. rule 76 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-d0ecea69a261d76ea2c74b00847050a8]: Commencement: Sch. rule 76 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-8d9c84a93a8ef4e6f27cd4f001640098]: Commencement: Sch. rule 77 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-8d9c84a93a8ef4e6f27cd4f001640098]: Commencement: Sch. rule 77 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-7ac2a0c77ba6f82377f4e8a5e07f52a9]: Textual amendment: Words in [sch. rule 77(b)(i)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/i) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/a)
+[^c-7ac2a0c77ba6f82377f4e8a5e07f52a9]: Textual amendment: Words in [sch. rule 77(b)(i)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/i) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/a)
 
-[^key-11ab7d9728806f4fa416ee66fb57e77c]: Textual amendment: [Sch. rule 77(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/ii) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(i)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/i)
+[^c-11ab7d9728806f4fa416ee66fb57e77c]: Textual amendment: [Sch. rule 77(b)(ii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/ii) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(i)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/i)
 
-[^key-eb7788a27fe050303e0e40a05f6a7e87]: Textual amendment: [Sch. rule 77(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/iii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/ii)
+[^c-eb7788a27fe050303e0e40a05f6a7e87]: Textual amendment: [Sch. rule 77(b)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/iii) omitted (20.2.2019) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/ii)
 
-[^key-188491c06a4bd3743ce9284e4d277fa1]: Textual amendment: [Sch. rule 77(b)(v)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/v) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(iv)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/iv)
+[^c-188491c06a4bd3743ce9284e4d277fa1]: Textual amendment: [Sch. rule 77(b)(v)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/77/b/v) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(25)(b)(iv)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/25/b/iv)
 
-[^key-8ffa263935b0efeb4babb720f447132a]: Commencement: Sch. rule 78 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-8ffa263935b0efeb4babb720f447132a]: Commencement: Sch. rule 78 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-3231330e094a5f6b0a0ea78cb4f916c5]: Commencement: Sch. rule 79 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-3231330e094a5f6b0a0ea78cb4f916c5]: Commencement: Sch. rule 79 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c9b538f8c92b773c543de3be90c7d68f]: Textual amendment: Words in [sch. rule 79(a)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/79/a/iii) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(26)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/26)
+[^c-c9b538f8c92b773c543de3be90c7d68f]: Textual amendment: Words in [sch. rule 79(a)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/79/a/iii) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(26)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/26)
 
-[^key-effc5bd7e5da3c954ca52a42a299f2f1]: Commencement: Sch. rule 80 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-effc5bd7e5da3c954ca52a42a299f2f1]: Commencement: Sch. rule 80 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-940629e8244852c96d72784b7257f9d5]: Commencement: Sch. rule 81 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-940629e8244852c96d72784b7257f9d5]: Commencement: Sch. rule 81 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-e3221dae41394c95360e9d1ac7583a06]: Commencement: Sch. rule 82 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-e3221dae41394c95360e9d1ac7583a06]: Commencement: Sch. rule 82 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9bf2757cf226fcd13a0866d973b5d36e]: Commencement: Sch. rule 83 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-9bf2757cf226fcd13a0866d973b5d36e]: Commencement: Sch. rule 83 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-0e98b017e571b7938c251b6e672b4d4a]: Commencement: Sch. rule 84 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-0e98b017e571b7938c251b6e672b4d4a]: Commencement: Sch. rule 84 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-31f7db3c3016fca59fce7a735fb2d6e6]: Commencement: Sch. rule 85 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-31f7db3c3016fca59fce7a735fb2d6e6]: Commencement: Sch. rule 85 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-aaa39a57080593a96119bee5547674e1]: Commencement: Sch. rule 86 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-aaa39a57080593a96119bee5547674e1]: Commencement: Sch. rule 86 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_43bf153b-977b-41d6-9936-187d98c8cf46]: Textual amendment: Word in sch. rule 86 substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/11)
 
-[^key-4a59dbd3e07843f01102bddce397635c]: Commencement: Sch. rule 87 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4a59dbd3e07843f01102bddce397635c]: Commencement: Sch. rule 87 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-2a120f97624ded96a55d9d27a84555fc]: Commencement: Sch. rule 88 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-2a120f97624ded96a55d9d27a84555fc]: Commencement: Sch. rule 88 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-8c541dce8950917df65d96ff554d2e14]: Commencement: Sch. rule 89 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-8c541dce8950917df65d96ff554d2e14]: Commencement: Sch. rule 89 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-9dd9a64507f89e5f449c0c0b51ea01bd]: Commencement: Sch. rule 90 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-9dd9a64507f89e5f449c0c0b51ea01bd]: Commencement: Sch. rule 90 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-1f3641b1e9012042775d49938afaaa32]: Commencement: Sch. rule 91 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-1f3641b1e9012042775d49938afaaa32]: Commencement: Sch. rule 91 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-b592fd14b7e9aba10ac12594db1a99d6]: Commencement: Sch. rule 92 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-b592fd14b7e9aba10ac12594db1a99d6]: Commencement: Sch. rule 92 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_3599e618-826a-40f9-d783-5202723a56b6]: Textual amendment: Word in sch. rule 92(e) inserted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/12/a)
 
@@ -2229,43 +2229,43 @@ In a prescribed property costs application the First-tier Tribunal may require t
 
 [^M_F_b644b302-fa28-4f77-d1e0-db1280ce8615]: Textual amendment: Sch. rule 92(g) omitted (1.12.2017) by virtue of [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(12)(c)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/12/c)
 
-[^key-2b3e835aa1597a99e4526a4f21aae179]: Commencement: Sch. rule 93 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-2b3e835aa1597a99e4526a4f21aae179]: Commencement: Sch. rule 93 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-0524462e6c049a9daf044dcd4298a9fa]: Commencement: Sch. rule 94 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-0524462e6c049a9daf044dcd4298a9fa]: Commencement: Sch. rule 94 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-39ad57084e96e0f004f42151450f5824]: Commencement: Sch. rule 95 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-39ad57084e96e0f004f42151450f5824]: Commencement: Sch. rule 95 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-5938e8eb5e8fa16d27fce8b94103200b]: Commencement: Sch. rule 96 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-5938e8eb5e8fa16d27fce8b94103200b]: Commencement: Sch. rule 96 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-c7b9477a351312cc0c3d86a5bf084f55]: Commencement: Sch. rule 97 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-c7b9477a351312cc0c3d86a5bf084f55]: Commencement: Sch. rule 97 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_05acac2e-733f-4384-b045-a22b05ae35a5]: Textual amendment: Word in sch. rule 97 substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(13)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/13)
 
-[^key-07ae7acd4ae6ad27d2bfdc31f65adc1c]: Commencement: Sch. rule 98 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-07ae7acd4ae6ad27d2bfdc31f65adc1c]: Commencement: Sch. rule 98 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00028]: Footnote: Section 85B is not yet in force.
 
-[^key-a37f7dd1214adce6da93864ccc1f7405]: Commencement: Sch. rule 99 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-a37f7dd1214adce6da93864ccc1f7405]: Commencement: Sch. rule 99 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-20c81154af5e46428fa62cfc9464b785]: Commencement: Sch. rule 100 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-20c81154af5e46428fa62cfc9464b785]: Commencement: Sch. rule 100 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-97758176c78af667a9132b3fbebc17af]: Commencement: Sch. rule 101 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-97758176c78af667a9132b3fbebc17af]: Commencement: Sch. rule 101 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-47510ecf1fe34d885738068b02b9be26]: Commencement: Sch. rule 102 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-47510ecf1fe34d885738068b02b9be26]: Commencement: Sch. rule 102 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00029]: Footnote: Section 85B is not yet in force.
 
-[^key-14caa04bbe0debefcfc3bbc0d29d1b37]: Commencement: Sch. rule 103 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-14caa04bbe0debefcfc3bbc0d29d1b37]: Commencement: Sch. rule 103 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-ceabc0e47e566e66d56390e31ae3d238]: Textual amendment: [Sch. rule 103](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/103) heading substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(27)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/27/a)
+[^c-ceabc0e47e566e66d56390e31ae3d238]: Textual amendment: [Sch. rule 103](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/103) heading substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(27)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/27/a)
 
-[^key-086a07f8045e28db04ae91b5517c12f6]: Textual amendment: Words in [sch. rule 103](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/103) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(27)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/27/b)
+[^c-086a07f8045e28db04ae91b5517c12f6]: Textual amendment: Words in [sch. rule 103](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/103) substituted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(27)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/27/b)
 
-[^key-5ed4060a363fa2527c7d3c09871d4f39]: Commencement: Sch. rule 104 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-5ed4060a363fa2527c7d3c09871d4f39]: Commencement: Sch. rule 104 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-ff20a03a4ff11818034c5bc14f8a38a0]: Commencement: Sch. rule 105 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-ff20a03a4ff11818034c5bc14f8a38a0]: Commencement: Sch. rule 105 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-f9cfb0229217b0b62e3b9217916c1804]: Commencement: Sch. rule 106 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-f9cfb0229217b0b62e3b9217916c1804]: Commencement: Sch. rule 106 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^M_F_620b61a8-a931-4dae-9413-7d8d52840a8c]: Textual amendment: Word in sch. rule 106(a)(i)(ii) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(14)(a)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/14/a)
 
@@ -2273,26 +2273,26 @@ In a prescribed property costs application the First-tier Tribunal may require t
 
 [^M_F_05a61846-3961-41fe-9604-260fa27b2384]: Textual amendment: Word in sch. rule 106(c) substituted (1.12.2017) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Rules of Procedure) Amendment Regulations 2017 (S.S.I. 2017/369)](https://www.legislation.gov.uk/ssi/2017/369), [regs. 1](https://www.legislation.gov.uk/ssi/2017/369/regulation/1), [2(14)(c)](https://www.legislation.gov.uk/ssi/2017/369/regulation/2/14/c)
 
-[^key-a2ece035ff52ed58cfc457c04ebc5ea5]: Commencement: Sch. rule 107 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-a2ece035ff52ed58cfc457c04ebc5ea5]: Commencement: Sch. rule 107 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00030]: Footnote: An application under rule 107 in relation to the landlord’s failure to provide the terms of the tenancy may only be made as part of an application under rule 105 in accordance with section 16(3)(b) of the Private Housing (Tenancies) (Scotland) Act [2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19).
 
-[^key-6785b1c7299060cbdda2e75f473c0d65]: Commencement: Sch. rule 108 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-6785b1c7299060cbdda2e75f473c0d65]: Commencement: Sch. rule 108 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-1cd135090f1c9048d08bce27cdaae018]: Commencement: Sch. rule 109 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-1cd135090f1c9048d08bce27cdaae018]: Commencement: Sch. rule 109 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-1131280c8500df6c00d2fc6f346a30e9]: Textual amendment: Words in [sch. rule 109(a)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/109/a/iii) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(28)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/28/a)
+[^c-1131280c8500df6c00d2fc6f346a30e9]: Textual amendment: Words in [sch. rule 109(a)(iii)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/109/a/iii) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(28)(a)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/28/a)
 
-[^key-1651fa837ec84a1d54eef368b99cbbdf]: Textual amendment: [Sch. rule 109(b)(iv)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/109/b/iv) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(28)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/28/b)
+[^c-1651fa837ec84a1d54eef368b99cbbdf]: Textual amendment: [Sch. rule 109(b)(iv)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/109/b/iv) inserted (20.2.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Amendment Regulations 2018 (S.S.I. 2018/378)](https://www.legislation.gov.uk/ssi/2018/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/378/regulation/1/2), [2(28)(b)](https://www.legislation.gov.uk/ssi/2018/378/regulation/2/28/b)
 
-[^key-ff5b1a3323a6b68adbe40f22bc7b8892]: Commencement: Sch. rule 110 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-ff5b1a3323a6b68adbe40f22bc7b8892]: Commencement: Sch. rule 110 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-11dc7a95745f738dad26f4b15c7bc635]: Commencement: Sch. rule 111 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-11dc7a95745f738dad26f4b15c7bc635]: Commencement: Sch. rule 111 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-d3ba1ee0e7bb89bf87d249572931ef24]: Commencement: Sch. rule 112 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-d3ba1ee0e7bb89bf87d249572931ef24]: Commencement: Sch. rule 112 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
-[^key-63b049c24a611536a62fb9ead52affba]: Textual amendment: Sch. rule 112 renumbered as sch. rule 112(1) (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/8/a)
+[^c-63b049c24a611536a62fb9ead52affba]: Textual amendment: Sch. rule 112 renumbered as sch. rule 112(1) (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/8/a)
 
-[^key-8fdd9fd8257e64cd8cab77d667e893c7]: Textual amendment: [Sch. rule 112(2)(3)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/112/2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/8/b)
+[^c-8fdd9fd8257e64cd8cab77d667e893c7]: Textual amendment: [Sch. rule 112(2)(3)](https://www.legislation.gov.uk/ssi/2017/328/schedule/rule/112/2) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/8/b)
 
-[^key-d9f21584fdb5ee308dedcf9bee374ebe]: Textual amendment: [Sch. Pt. 4](https://www.legislation.gov.uk/ssi/2017/328/schedule/part/4) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/9)
+[^c-d9f21584fdb5ee308dedcf9bee374ebe]: Textual amendment: [Sch. Pt. 4](https://www.legislation.gov.uk/ssi/2017/328/schedule/part/4) inserted (24.1.2023) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Amendment) Regulations 2023 (S.S.I. 2023/6)](https://www.legislation.gov.uk/ssi/2023/6), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/6/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2023/6/regulation/2/9)

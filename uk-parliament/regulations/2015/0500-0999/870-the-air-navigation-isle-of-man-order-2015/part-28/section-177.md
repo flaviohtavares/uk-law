@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Commercial air transport and aerial work – exceptions – charity flights[^key-6cfe0d4c02f99164dd6e367bd271c779]
+## 177. Commercial air transport and aerial work – exceptions – charity flights[^c-6cfe0d4c02f99164dd6e367bd271c779]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cfe0d4c02f99164dd6e367bd271c779]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2015/870/article/177) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6cfe0d4c02f99164dd6e367bd271c779]: Commencement: [Art. 177](https://www.legislation.gov.uk/uksi/2015/870/article/177) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

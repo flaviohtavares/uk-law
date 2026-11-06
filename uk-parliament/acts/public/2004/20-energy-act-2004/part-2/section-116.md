@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Issue of green certificates in Great Britain[^key-952ac4ab46ce4b8f1c80bee82ef61dde]
+## 116. Issue of green certificates in Great Britain[^c-952ac4ab46ce4b8f1c80bee82ef61dde]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-952ac4ab46ce4b8f1c80bee82ef61dde]: Textual amendment: S. 116 repealed (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/aa)
+[^c-952ac4ab46ce4b8f1c80bee82ef61dde]: Textual amendment: S. 116 repealed (1.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/aa)

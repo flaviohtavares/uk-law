@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75C. Manner of calculating the amount of welfare benefits[^key-3300f6a4af88852333099a324a65cb9a]
+## 75C. Manner of calculating the amount of welfare benefits[^c-3300f6a4af88852333099a324a65cb9a]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the welfare benefit is housing benefit, the relevant authority—
 
-- (a) where the dwelling is accommodation specified in regulation 75H (specified accommodation)[^key-17417d35cc04da74442c6543f874c1b5], must use the amount of nil; and
+- (a) where the dwelling is accommodation specified in regulation 75H (specified accommodation)[^c-17417d35cc04da74442c6543f874c1b5], must use the amount of nil; and
 - (b) in any other case, must not take account of any reduction under regulation 75D and must use the amount to which the claimant would be entitled by virtue of section 130 of the Act.
 
 (3) Where the welfare benefit is an employment and support allowance, the relevant authority must disregard that benefit where a person is disqualified for receiving it by virtue of section 18 of the Welfare Reform Act.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
+[^c-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
 
-[^key-17417d35cc04da74442c6543f874c1b5]: Textual amendment: Words in reg. 75C(2)(a) substituted (10.4.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2014/771/regulation/3/2)
+[^c-17417d35cc04da74442c6543f874c1b5]: Textual amendment: Words in reg. 75C(2)(a) substituted (10.4.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2014/771/regulation/3/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-b8cb1829c7669455701cf3dcf3a907f9][^key-760fbdf0970a40d23e3dfc3e9249c6c5][^key-61b49dff5faa11067414baef4cb1b1ec][^key-092b91cae2b6f099c960ae9138570e5e] After section 23ZA of the 1989 Act (which is inserted by section 15) insert—
+(1)[^c-b8cb1829c7669455701cf3dcf3a907f9][^c-760fbdf0970a40d23e3dfc3e9249c6c5][^c-61b49dff5faa11067414baef4cb1b1ec][^c-092b91cae2b6f099c960ae9138570e5e] After section 23ZA of the 1989 Act (which is inserted by section 15) insert—
 
 > **23ZB. Independent visitors for children looked after by a local authority**
 >
@@ -55,18 +55,18 @@ summary: ''
 >
 > (9) The appropriate national authority may make regulations as to the circumstances in which a person is to be regarded for the purposes of this section as independent of the appointing authority.
 
-(2)[^key-b1eebb8c5eff6775e2d42cabe094f529][^key-d02d126154e502f0117fa7c22419e5a3] Omit paragraph 17 of Schedule 2 to the 1989 Act.
+(2)[^c-b1eebb8c5eff6775e2d42cabe094f529][^c-d02d126154e502f0117fa7c22419e5a3] Omit paragraph 17 of Schedule 2 to the 1989 Act.
 
 ## Annotations
 
-[^key-b8cb1829c7669455701cf3dcf3a907f9]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/e)
+[^c-b8cb1829c7669455701cf3dcf3a907f9]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/e)
 
-[^key-760fbdf0970a40d23e3dfc3e9249c6c5]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/e)
+[^c-760fbdf0970a40d23e3dfc3e9249c6c5]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/e)
 
-[^key-61b49dff5faa11067414baef4cb1b1ec]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e)
+[^c-61b49dff5faa11067414baef4cb1b1ec]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e)
 
-[^key-092b91cae2b6f099c960ae9138570e5e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)
+[^c-092b91cae2b6f099c960ae9138570e5e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)
 
-[^key-b1eebb8c5eff6775e2d42cabe094f529]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e)
+[^c-b1eebb8c5eff6775e2d42cabe094f529]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2) in force at 1.4.2011 for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/e)
 
-[^key-d02d126154e502f0117fa7c22419e5a3]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2) in force at 6.4.2016 for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)
+[^c-d02d126154e502f0117fa7c22419e5a3]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/16/2) in force at 6.4.2016 for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(d)](https://www.legislation.gov.uk/wsi/2016/452/article/2/d)

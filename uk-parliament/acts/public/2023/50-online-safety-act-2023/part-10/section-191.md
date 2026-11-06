@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Consequential amendments[^key-d0dbeeb748f948b649cf4dcff33e3186][^key-af14a094ab7d4abd12c8d62810ce22da]
+## 191. Consequential amendments[^c-d0dbeeb748f948b649cf4dcff33e3186][^c-af14a094ab7d4abd12c8d62810ce22da]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0dbeeb748f948b649cf4dcff33e3186]: Commencement: S. 191 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d0dbeeb748f948b649cf4dcff33e3186]: Commencement: S. 191 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-af14a094ab7d4abd12c8d62810ce22da]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/50/section/191) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-af14a094ab7d4abd12c8d62810ce22da]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/50/section/191) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

@@ -47,28 +47,28 @@ And whereas a draft of this Order has been laid before Parliament and approved b
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred on him by sections 22(1) and (2), 24(1) and 86(1) of that Act and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and revocation[^key-382bea124acec630bfbd3e1df61d803f]
+## 1. Citation, commencement and revocation[^c-382bea124acec630bfbd3e1df61d803f]
 
 (1) This Order may be cited as the Weights and Measures (Miscellaneous Foods) Order 1988 and shall come into force on 1st January 1989.
 
 (2) The Orders specified in Schedule 3 hereto are revoked to the extent specified in the third column of that Schedule.
 
-## 2. Interpretation[^key-9c6a102a68f0a6138bea649b6e823a11]
+## 2. Interpretation[^c-9c6a102a68f0a6138bea649b6e823a11]
 
 In this Order, unless the context otherwise requires—
 
-(1)[^key-981470c2dea1659bd796884114c00516]
+(1)[^c-981470c2dea1659bd796884114c00516]
 
 - “the Act” means the Weights and Measures Act 1985;
 - “biscuits” includes wafers, rusks, crispbreads, extruded flatbread, oatcakes and matzos;
 - “bread” means bread in any form other than breadcrumbs and includes the following, and any part of the following that is to say, fancy loaves and milk loaves, and “loaf” in relation to bread includes a roll and a bap; and for the purposes of this Order any pre-packed sliced bread shall be deemed to be a whole loaf of bread and the pre-packing of sliced bread in any quantity by net weight shall be deemed to be the making for sale of a whole loaf of bread of that net weight;
 - “casein” and “caseinate” have the same meanings as they have in the Caseins and Caseinates Regulations 1985[^f00002];
-- “chicory”, “chicory extract paste”, “coffee extract paste”, “instant chicory”, “instant coffee”, “liquid chicory extract” and “liquid coffee extract”, have the same meanings—[^key-add9d06c75b93eee0628227b78b556f5]
+- “chicory”, “chicory extract paste”, “coffee extract paste”, “instant chicory”, “instant coffee”, “liquid chicory extract” and “liquid coffee extract”, have the same meanings—[^c-add9d06c75b93eee0628227b78b556f5]
   - (a) in relation to the application of this Order to England, as in the Coffee Extracts and Chicory Extracts (England) Regulations 2000;
   - (b) in relation to the application of this Order to Scotland, as in the Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001, and
   - (c) in relation to the application of this Order to Wales, as in the Coffee Extracts and Chicory Extracts (Wales) Regulations 2001;
-- “chocolate confectionery” means any food which is ready for consumption without further preparation, of which a characterising ingredient is chocolate, cocoa or non-fat cocoa solids, and includes food of which a characterising ingredient is carbohydrate sweetening matter and which has a chocolate or chocolate-flavoured coating, but does not include any biscuits, chocolate products, flour confectionery or edible ice;[^key-0a78317f4ecbf677b122e2efbbbfa573]
-- “chocolate product” means—[^key-ca3e8e00d829f3eb8c1a9db81753d8ec]
+- “chocolate confectionery” means any food which is ready for consumption without further preparation, of which a characterising ingredient is chocolate, cocoa or non-fat cocoa solids, and includes food of which a characterising ingredient is carbohydrate sweetening matter and which has a chocolate or chocolate-flavoured coating, but does not include any biscuits, chocolate products, flour confectionery or edible ice;[^c-0a78317f4ecbf677b122e2efbbbfa573]
+- “chocolate product” means—[^c-ca3e8e00d829f3eb8c1a9db81753d8ec]
   - (a) in relation to the application of this Order to England, any chocolate product to which the Cocoa and Chocolate Products (England) Regulations 2003 apply;
   - (b) in relation to the application of this Order to Scotland, any chocolate product to which the Cocoa and Chocolate Products (Scotland) Regulations 2003 apply; and
   - (c) in relation to the application of this Order to Wales, any chocolate product to which the Cocoa and Chocolate Products (Wales) Regulations 2003 apply;
@@ -77,32 +77,32 @@ In this Order, unless the context otherwise requires—
   - (b) in relation to the application of this Order to Scotland, any cocoa product to which the Cocoa and Chocolate Products (Scotland) Regulations 2003 apply; and
   - (c) in relation to the application of this Order to Wales, any cocoa product to which the Cocoa and Chocolate Products (Wales) Regulations 2003 apply;
 - “cocoa product” and “chocolate product” shall include a product specially prepared for diabetics or to which a slimming claim (as defined in the said Regulations) is lawfully applied and which has been specially prepared in connection with that claim by the addition of any ingredient other than an edible substance as so defined;
-- “coffee” means the dried seed of the coffee plant whether such seed has been roasted or ground or both roasted and ground;[^key-57656bdc8090e3e74565c2745b0e0584]
-- “coffee bag” means a permeable sealed bag, which is intended to be immersed in water or to have water percolated through it, containing coffee, or a coffee mixture, or a combination of either coffee or a coffee mixture (or both) with a lesser quantity of instant coffee[^key-4853ea1a7c5cfa5df4c607c8a8ce08c8]
-- “condensed milk” means milk, partly skimmed milk or skimmed milk or any combination thereof, whether with or without the addition of cream, dried milk or sucrose, which has been concentrated by the partial removal of water, but does not include dried milk;[^key-21313df37fc2ac4b0a7d1d71a4d0987f]
-- “container”, in relation to cocoa products, chocolate products and fancy chocolate products, includes any form of packaging of goods for sale as a single item, whether by way of wholly or partly enclosing the food or by way of attaching the food to some other article, and in particular includes a wrapper or confining band, but does not include any crimp case used to support the base or the base and sides of any chocolate product;[^key-e5b04154177687469bf38c6be4650992]
+- “coffee” means the dried seed of the coffee plant whether such seed has been roasted or ground or both roasted and ground;[^c-57656bdc8090e3e74565c2745b0e0584]
+- “coffee bag” means a permeable sealed bag, which is intended to be immersed in water or to have water percolated through it, containing coffee, or a coffee mixture, or a combination of either coffee or a coffee mixture (or both) with a lesser quantity of instant coffee[^c-4853ea1a7c5cfa5df4c607c8a8ce08c8]
+- “condensed milk” means milk, partly skimmed milk or skimmed milk or any combination thereof, whether with or without the addition of cream, dried milk or sucrose, which has been concentrated by the partial removal of water, but does not include dried milk;[^c-21313df37fc2ac4b0a7d1d71a4d0987f]
+- “container”, in relation to cocoa products, chocolate products and fancy chocolate products, includes any form of packaging of goods for sale as a single item, whether by way of wholly or partly enclosing the food or by way of attaching the food to some other article, and in particular includes a wrapper or confining band, but does not include any crimp case used to support the base or the base and sides of any chocolate product;[^c-e5b04154177687469bf38c6be4650992]
 - “dried milk” means milk, partly skimmed milk or skimmed milk or any combination thereof, whether with or without the addition of cream, which has been concentrated to the form of powder, granule or solid by the removal of water;
 - “fancy chocolate product” includes any chocolate product in the form of figurines, cigarettes or eggs or enclosed in a seasonal selection pack;
 - “flour confectionery” means any cooked food which is ready for consumption without further preparation (other than reheating), of which a characterising ingredient is ground cereal, including shortbread, sponges, crumpets, muffins, macaroons, ratafias, pastry and pastry cases, and also includes meringues, petits fours and uncooked pastry and pastry cases, but does not include bread, pizzas, biscuits, crispbread, extruded flat bread or any food containing a filling which has as an ingredient any cheese, meat, offal, fish or shellfish;
 - “liquid coffee and chicory products” means liquid coffee extract and liquid chicory extract, and blends thereof;
-- “mass caterer” means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;[^key-9af17e9962218a3ee4c1b5e3ead824df]
-- “Member State” means a member State as defined in Part II of Schedule 1 to the European Communities Act 1972, Norway, Iceland or Liechtenstein;[^key-7014f9f02f6be86829e525128acd3686]
+- “mass caterer” means any establishment (including a vehicle or a fixed or mobile stall), such as restaurants, canteens, schools, hospitals and catering enterprises in which, in the course of a business, food is prepared to be ready for consumption by the final consumer;[^c-9af17e9962218a3ee4c1b5e3ead824df]
+- “Member State” means a member State as defined in Part II of Schedule 1 to the European Communities Act 1972, Norway, Iceland or Liechtenstein;[^c-7014f9f02f6be86829e525128acd3686]
 - “milk” means cows' milk in any liquid form other than that of condensed milk (including evaporated milk) or of cream;
 - “potatoes” means potatoes in the state in which they were harvested or in that state apart from cleaning;
-- “pre-packed”, in relation to food to which this Order applies, means either or both of—[^key-25b34e4c6032a3392bd6c06465438a5c]
+- “pre-packed”, in relation to food to which this Order applies, means either or both of—[^c-25b34e4c6032a3392bd6c06465438a5c]
   - (a) made up for direct sale (within the meaning of Article 2(2)(e) of the FIC Regulation) by way of retail;
   - (b) made up in advance ready for retail sale in an open container;
 - “preserved milk” means condensed milk (including evaporated milk) or dried milk;
-- “relevant wholesale”, in relation to food to which this Order applies, means a sale by way of wholesale, but does not include any of the following—[^key-b7fb3f42263b569a7d7dd25dc50079ee]
+- “relevant wholesale”, in relation to food to which this Order applies, means a sale by way of wholesale, but does not include any of the following—[^c-b7fb3f42263b569a7d7dd25dc50079ee]
   - (a) a sale to a mass caterer;
   - (b) a supply of food that is prepacked food within the meaning of the FIC Regulation intended for sale to the final consumer or to a mass caterer, or any other supply of food that is made up in advance ready for retail sale in an open container; or
   - (c) a supply to which Article 8(8) of the FIC Regulation applies;
 - “solid and paste coffee and chicory products” means instant coffee, coffee extract paste, instant chicory, chicory extract paste, and blends thereof, and extracts of blends of roasted coffee and roasted chicory.
-- “sugar confectionery” means any food which is ready for consumption without further preparation, of which a characterising ingredient is carbohydrate sweetening matter, and includes sweetened liquorice and chewing gum, but does not include any chocolate confectionery, chocolate products, cocoa products, flour confectionery, edible ice, table jellies, slab marzipan or sugar.[^key-2d4d9b3e66231e8d378634c7dcdf2dc8]
+- “sugar confectionery” means any food which is ready for consumption without further preparation, of which a characterising ingredient is carbohydrate sweetening matter, and includes sweetened liquorice and chewing gum, but does not include any chocolate confectionery, chocolate products, cocoa products, flour confectionery, edible ice, table jellies, slab marzipan or sugar.[^c-2d4d9b3e66231e8d378634c7dcdf2dc8]
 
-(2)[^key-434cc5e0755916217491289129a373b7] References in this Order to items being “loose” include items packed at the request of the customer.
+(2)[^c-434cc5e0755916217491289129a373b7] References in this Order to items being “loose” include items packed at the request of the customer.
 
-## 3. Scope of application[^key-fa0a856f733e75317898f4ddf63e530e]
+## 3. Scope of application[^c-fa0a856f733e75317898f4ddf63e530e]
 
 (1) Subject to the following provisions of this Order, the following must be made up in a container marked with an indication of quantity by net weight—
 
@@ -122,14 +122,14 @@ subject to the exemptions specified in column 2 of Schedule 1.
 - (c) chunk honey; or
 - (d) comb honey.
 
-## 4. Provision for the containers of certain foods not sold by retail to be accompanied by a document indicating quantity[^key-93d4abfac7857d571933ea5b899021ea]
+## 4. Provision for the containers of certain foods not sold by retail to be accompanied by a document indicating quantity[^c-93d4abfac7857d571933ea5b899021ea]
 
-(1) In the case of solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^key-11afdcf913c99fa4ba18dffc309669f1]... made up in a container for relevant wholesale[^key-18058d33eee16711216a03615db84366], the information required by article 3(2) above or, as the case may be, 7, 9(2) or 12 below to be marked on the container may, if:—
+(1) In the case of solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^c-11afdcf913c99fa4ba18dffc309669f1]... made up in a container for relevant wholesale[^c-18058d33eee16711216a03615db84366], the information required by article 3(2) above or, as the case may be, 7, 9(2) or 12 below to be marked on the container may, if:—
 
 - (a) the foods are not sold by retail; and
 - (b) the net weight of the foods is not less than the particular quantities specified in paragraph (2) below in relation to the foods,
 
-be given at the time when they are sold in a document accompanying the container and containing an indication of quantity by net weight [^key-0cfcbbf71b825a428ed0d1e833c37bdb]... .
+be given at the time when they are sold in a document accompanying the container and containing an indication of quantity by net weight [^c-0cfcbbf71b825a428ed0d1e833c37bdb]... .
 
 (2) The quantities referred to in paragraph (1) above are:
 
@@ -141,9 +141,9 @@ be given at the time when they are sold in a document accompanying the container
 | caseins and caseinates | 10 kg |
 | preserved milk for human consumption | 10 kg |
 
-## 5. Special provisions in respect of particular foodsBiscuits and shortbread[^key-db16cb10da7e6a1aebdf18b8a636d46c]
+## 5. Special provisions in respect of particular foodsBiscuits and shortbread[^c-db16cb10da7e6a1aebdf18b8a636d46c]
 
-(1) Article 3(1) [^key-c869c229c7573f44ce7e0d47ae09d1e0]... above shall not apply in relation to biscuits which have been pre-packed on the same premises as those on which they were produced, where either:—
+(1) Article 3(1) [^c-c869c229c7573f44ce7e0d47ae09d1e0]... above shall not apply in relation to biscuits which have been pre-packed on the same premises as those on which they were produced, where either:—
 
 - (a) the biscuits are in the possession of the producer for sale by him by retail on those premises; or
 - (b) if the producer has agreed to sell or has sold the biscuits, he agreed to sell or sold them by retail on those premises.
@@ -160,11 +160,11 @@ Provided that there shall be exempted from the requirements of this paragraph bi
 
 (4) Wafer biscuits which are not cream-filled shall be pre-packed only if the container is marked with an indication of quantity by number or, in the case of a container marked with the EEC mark within the meaning of section 54 of the Act, only if it is marked with an indication of quantity by net weight.
 
-(5) Wafer biscuits which are not cream-filled and which are sold loose must[^key-cec1d843c1077bc397fcd970eca55083] if sold by retail be sold only by number.
+(5) Wafer biscuits which are not cream-filled and which are sold loose must[^c-cec1d843c1077bc397fcd970eca55083] if sold by retail be sold only by number.
 
-(6)[^key-ab6773fc4edc0eb45b8b7b64d031c37e] Shortbread, when sold loose must, if sold by retail, be sold only by net weight, unless sold in a quantity of eight pieces or fewer.
+(6)[^c-ab6773fc4edc0eb45b8b7b64d031c37e] Shortbread, when sold loose must, if sold by retail, be sold only by net weight, unless sold in a quantity of eight pieces or fewer.
 
-## 6. Unwrapped Bread[^key-8a31e3c9424371233cdba12ab049c594]
+## 6. Unwrapped Bread[^c-8a31e3c9424371233cdba12ab049c594]
 
 (1) For the purposes of this article “unwrapped loaf of bread” means a loaf of bread which is not made up in advance ready for retail sale or wholesale in a securely closed container and includes bread offered for sale in a confining band.
 
@@ -181,46 +181,46 @@ Provided that there shall be exempted from the requirements of this paragraph bi
 - (b) any unwrapped loaf of bread weighing 300 g or less; and
 - (c) any sale under a contract for the supply of bread for consumption on the premises of the buyer if the contract provides for each delivery of bread to be of a specified aggregate quantity of not less than 25 kg and for the weighing of the bread on delivery.
 
-## 7. Caseins and caseinates[^key-df56814491b53f2972da5db5e330f863]
+## 7. Caseins and caseinates[^c-df56814491b53f2972da5db5e330f863]
 
 In the case of caseins and caseinates for human consumption, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by net weight.
 
-## 8. Cocoa and chocolate products[^key-6010b1011f2fd6358ac5c38a7c93cc2f]
+## 8. Cocoa and chocolate products[^c-6010b1011f2fd6358ac5c38a7c93cc2f]
 
-(1)[^key-9018628c2f83a00a48810d3b9591c32b] Subject to paragraph (2) below, in the case of cocoa products and chocolate products, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by net weight, unless sold in a quantity by net weight of less than 50 g.
+(1)[^c-9018628c2f83a00a48810d3b9591c32b] Subject to paragraph (2) below, in the case of cocoa products and chocolate products, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by net weight, unless sold in a quantity by net weight of less than 50 g.
 
 (2) Nothing in paragraph (1) above shall require a container to be marked with an indication of quantity by net weight if it is a container in which fancy chocolate products are pre-packed, except that when the products are on sale by retail the exemption provided by this paragraph shall apply only if an indication of quantity by net weight is given on a ticket or notice displayed on or in immediate proximity to the products.
 
-(3) Except in the case of an article the net weight of which is less than 50 g, cocoa products and chocolate products which are sold loose must[^key-99c30384ea0426088d8dc0e0f727a67f], when sold by retail, be sold only by net weight.
+(3) Except in the case of an article the net weight of which is less than 50 g, cocoa products and chocolate products which are sold loose must[^c-99c30384ea0426088d8dc0e0f727a67f], when sold by retail, be sold only by net weight.
 
-## 9. Coffee and chicory products[^key-76d743a4054c6598bd798dc001dc32f0]
+## 9. Coffee and chicory products[^c-76d743a4054c6598bd798dc001dc32f0]
 
-(1)[^key-c7ea43dafb304a31629e05e06c8ce75a] In the case of liquid coffee and chicory products, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by capacity measurement, unless sold in a quantity of less than 5 ml.
+(1)[^c-c7ea43dafb304a31629e05e06c8ce75a] In the case of liquid coffee and chicory products, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by capacity measurement, unless sold in a quantity of less than 5 ml.
 
-(2) Where the contents of a container in which solid and paste coffee and chicory products or liquid coffee and chicory products are pre-packed or [^key-1041f4a1a69256a241bae135091583fc]... made up for relevant wholesale[^key-4040f134bc8349d359dde620a12f178c] consists of packs of such products not intended for individual sale, the container shall, in addition to any marking required by article 3(2) and paragraph (1) above, be marked with the total number of such packs.
+(2) Where the contents of a container in which solid and paste coffee and chicory products or liquid coffee and chicory products are pre-packed or [^c-1041f4a1a69256a241bae135091583fc]... made up for relevant wholesale[^c-4040f134bc8349d359dde620a12f178c] consists of packs of such products not intended for individual sale, the container shall, in addition to any marking required by article 3(2) and paragraph (1) above, be marked with the total number of such packs.
 
-## 10. Liquid edible oil[^key-32fcaf05b62388b195c9d9ace2ff3bb3]
+## 10. Liquid edible oil[^c-32fcaf05b62388b195c9d9ace2ff3bb3]
 
 Liquid edible oil shall be pre-packed only if the container is marked with an indication of quantity by volume:
 
 Provided that there shall be exempted from the requirements of this article liquid edible oil pre-packed in a quantity of less than 5 ml or more than 20 L.
 
-## 11. Milk[^key-281e51033002b2c704fcb6531ac121ba]
+## 11. Milk[^c-281e51033002b2c704fcb6531ac121ba]
 
-(1) Milk which is sold loose or made up in a container for relevant wholesale[^key-80ff7f6358dcc41cc4401da4b3649d9c] shall be sold only by capacity measurement or by net weight.
+(1) Milk which is sold loose or made up in a container for relevant wholesale[^c-80ff7f6358dcc41cc4401da4b3649d9c] shall be sold only by capacity measurement or by net weight.
 
-(2)[^key-3cb00a27f27adb4402a6b2b0595c520f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3cb00a27f27adb4402a6b2b0595c520f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Milk shall be sold by means of, or offered or exposed for sale in, a vending machine only if there is displayed on or in the machine—
 
 - (a) an indication of the quantity by capacity measurement of the milk comprised in each item for sale by means of that machine; and
 - (b) except where the machine is on premises at which the seller carries on business, a statement of the name and address of the seller.
 
-## 12. Preserved milk[^key-13a466e9996dd5a3ddcc4a7163a5bf94]
+## 12. Preserved milk[^c-13a466e9996dd5a3ddcc4a7163a5bf94]
 
 In the case of preserved milk for human consumption, when pre-packed or made up in a container for relevant wholesale, the container must be marked with an indication of quantity by net weight, unless sold in a quantity of less than 5 g.
 
-## 13. Potatoes[^key-560daf27ccd08eecefdb50d8b723cd9f]
+## 13. Potatoes[^c-560daf27ccd08eecefdb50d8b723cd9f]
 
 (1) Where at any premises other than a vehicle or ship any potatoes have been sold by weight when made up in a container, and the sale is otherwise than by retail, the buyer may require all or any of the following weighings to be carried out at those premises, that is to say—
 
@@ -234,12 +234,12 @@ and thereupon the seller shall either carry out or permit the buyer to carry out
 
 (3) Any person guilty of an offence under this article shall be liable on summary conviction to a fine not exceeding £2,000.
 
-**14.**[^key-29edebf284019858264440bc5aab7409] Potatoes which are sold loose must[^M_F_6b395dae-9cee-4518-dd68-7488fe193387], if sold by retail, be sold only—
+**14.**[^c-29edebf284019858264440bc5aab7409] Potatoes which are sold loose must[^M_F_6b395dae-9cee-4518-dd68-7488fe193387], if sold by retail, be sold only—
 
 - (a) by net weight; or
 - (b) if the food is sold in a container which does not exceed the appropriate permitted weight specified in the Table in Schedule 2 to this Order, either by net weight or gross weight.
 
-## 15. Miscellaneous foods to be marked when pre-packed with quantity by number[^key-136f6af7919e6f894610474b90f8cbff]
+## 15. Miscellaneous foods to be marked when pre-packed with quantity by number[^c-136f6af7919e6f894610474b90f8cbff]
 
 (1) Subject to paragraph (2) below, foods of any of the following descriptions, that is to say—
 
@@ -257,7 +257,7 @@ shall be pre-packed only if the container is marked with an indication of quanti
 - (a) flour confectionery, if the number of items in the container is clearly visible and capable of being easily counted through the container; and
 - (b) any foods in a quantity by number of one.
 
-## 16. Other pre-packed foods[^key-3c9681f460bdf2b532d7e136b4bf1223]
+## 16. Other pre-packed foods[^c-3c9681f460bdf2b532d7e136b4bf1223]
 
 (1) This article applies to foods of any description which are not goods—
 
@@ -284,11 +284,11 @@ shall be pre-packed only if the container is marked with an indication of quanti
 - (m) sugar confectionery not included in paragraph (l) above, and chocolate confectionery, in a quantity of less than 50 g;
 - (n) goods of any other description, except saffron, in a quantity of less than 5 g or of less than 5 ml.
 
-## 17. Multipacks[^key-89a931f61609452d2dfc8ac57efdc6c9]
+## 17. Multipacks[^c-89a931f61609452d2dfc8ac57efdc6c9]
 
 (1) Nothing in the previous provisions of this Order shall require any container to be marked with any information or to enclose foods of a particular quantity if all the following provisions are satisfied:—
 
-- (a) the contents of the container in which any foods to which the Order applies are pre-packed or [^key-8bd5fa1c0d0370f64641f5e15a3fdb95]... made up in the container for relevant wholesale[^key-e0c4082c3e8a67544f81c9ad37c6dada] consist of two or more packs of goods;
+- (a) the contents of the container in which any foods to which the Order applies are pre-packed or [^c-8bd5fa1c0d0370f64641f5e15a3fdb95]... made up in the container for relevant wholesale[^c-e0c4082c3e8a67544f81c9ad37c6dada] consist of two or more packs of goods;
 - (b) where the goods in any pack, if sold individually, would be required by the Order to be made up in a specified quantity, the goods in any such pack are so made up;
 - (c) where any pack, if sold individually, would be required by the Order to be marked with an indication as to the quantity of the goods, the pack is so marked;
 - (d)
@@ -298,9 +298,9 @@ shall be pre-packed only if the container is marked with an indication of quanti
 
 (2) Where the provisions of both article 4 and paragraph (1) above apply in a particular case, the information permitted by paragraph (1)(d)(i) above to be marked on the container may be given in a document accompanying the container.
 
-## 18. Application of section 25 of the Act as modified in relation to certain foods[^key-2c43fe5fbd2115c1d1c0ad0d63c7656c]
+## 18. Application of section 25 of the Act as modified in relation to certain foods[^c-2c43fe5fbd2115c1d1c0ad0d63c7656c]
 
-(1) Section 25(2) and (3) of the Act shall apply in the case of any solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^key-f42fb491c8abad1b69e59b7f1e4a1cdc]... made up in a container for relevant wholesale[^key-9f11ca7bc536b92ce64ddab486dab9c1] where the information required by article 3(2), 7, 9(2) or 12, or permitted by article 17 (1)(d)(i), to be marked on the container is given in a document accompanying the container in accordance with article 4 or 17(2) with the following modifications:—
+(1) Section 25(2) and (3) of the Act shall apply in the case of any solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^c-f42fb491c8abad1b69e59b7f1e4a1cdc]... made up in a container for relevant wholesale[^c-9f11ca7bc536b92ce64ddab486dab9c1] where the information required by article 3(2), 7, 9(2) or 12, or permitted by article 17 (1)(d)(i), to be marked on the container is given in a document accompanying the container in accordance with article 4 or 17(2) with the following modifications:—
 
 - (a) in section 25(2) the words “whether the sale is, or is to be, by retail or otherwise” shall be omitted; and
 - (b) in paragraphs (d) and (e) of section 25(3)—
@@ -313,7 +313,7 @@ shall be pre-packed only if the container is marked with an indication of quanti
 - (b) having in his possession for delivery after sale, or
 - (c) causing or suffering any other person to have in his possession for sale or for delivery after sale,
 
-solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^key-75fccf5d4a94b1cb971de83d5f782ac1]... made up in a container for relevant wholesale[^key-68fb0e502ef4064bca2e968326b1a80e] otherwise than in a container so accompanied.
+solid and paste coffee and chicory products, cocoa products and chocolate products, honey, caseins and caseinates or preserved milk for human consumption pre-packed or [^c-75fccf5d4a94b1cb971de83d5f782ac1]... made up in a container for relevant wholesale[^c-68fb0e502ef4064bca2e968326b1a80e] otherwise than in a container so accompanied.
 
 Eric Forth
 
@@ -321,7 +321,7 @@ Parliamentary Under-Secretary of State,Department of Trade and Industry
 
 16th November 1988
 
-## SCHEDULE 1 — FOODS[^key-485305211d47b61867b1017d24497494]
+## SCHEDULE 1 — FOODS[^c-485305211d47b61867b1017d24497494]
 
 Article 3
 
@@ -354,7 +354,7 @@ Article 3
 </tbody>
 </table>
 
-## SCHEDULE 2 — TABLE OF PERMITTED WEIGHTS FOR CONTAINERS[^key-a64274a01622257b578379ae241c0c03]
+## SCHEDULE 2 — TABLE OF PERMITTED WEIGHTS FOR CONTAINERS[^c-a64274a01622257b578379ae241c0c03]
 
 Article 14
 
@@ -363,7 +363,7 @@ Article 14
 | Not exceeding 500 g | 5 g |
 | Exceeding 500 g | a weight at the rate of 10 g per kg of the gross weight |
 
-## SCHEDULE 3[^key-d90606e01dc65494df93818c5a44e6ce]
+## SCHEDULE 3[^c-d90606e01dc65494df93818c5a44e6ce]
 
 Article 1(2)
 
@@ -393,118 +393,118 @@ This Order consolidates and amends the Weights and Measures Act 1963 (Miscellane
 
 [^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-382bea124acec630bfbd3e1df61d803f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-382bea124acec630bfbd3e1df61d803f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-9c6a102a68f0a6138bea649b6e823a11]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-9c6a102a68f0a6138bea649b6e823a11]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-981470c2dea1659bd796884114c00516]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) renumbered as art. 2(1) (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/1)
+[^c-981470c2dea1659bd796884114c00516]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) renumbered as art. 2(1) (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/1)
 
 [^f00002]: Footnote: S.I. [1985/2026](https://www.legislation.gov.uk/uksi/1985/2026).
 
-[^key-add9d06c75b93eee0628227b78b556f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/a)
+[^c-add9d06c75b93eee0628227b78b556f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/a)
 
-[^key-0a78317f4ecbf677b122e2efbbbfa573]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/b)
+[^c-0a78317f4ecbf677b122e2efbbbfa573]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/b)
 
-[^key-ca3e8e00d829f3eb8c1a9db81753d8ec]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/c)
+[^c-ca3e8e00d829f3eb8c1a9db81753d8ec]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/c)
 
-[^key-57656bdc8090e3e74565c2745b0e0584]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(d)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/d)
+[^c-57656bdc8090e3e74565c2745b0e0584]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(d)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/d)
 
-[^key-4853ea1a7c5cfa5df4c607c8a8ce08c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) substituted (27.7.1990) by [The Weights and Measures (Various Foods) (Amendment) Order 1990 (S.I. 1990/1550)](https://www.legislation.gov.uk/uksi/1990/1550), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1990/1550/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1990/1550/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/1990/1550/article/4))
+[^c-4853ea1a7c5cfa5df4c607c8a8ce08c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) substituted (27.7.1990) by [The Weights and Measures (Various Foods) (Amendment) Order 1990 (S.I. 1990/1550)](https://www.legislation.gov.uk/uksi/1990/1550), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1990/1550/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1990/1550/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/1990/1550/article/4))
 
-[^key-21313df37fc2ac4b0a7d1d71a4d0987f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(e)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/e)
+[^c-21313df37fc2ac4b0a7d1d71a4d0987f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(e)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/e)
 
-[^key-e5b04154177687469bf38c6be4650992]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(f)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/f)
+[^c-e5b04154177687469bf38c6be4650992]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(f)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/f)
 
-[^key-9af17e9962218a3ee4c1b5e3ead824df]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(g)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/g)
+[^c-9af17e9962218a3ee4c1b5e3ead824df]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(g)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/g)
 
-[^key-7014f9f02f6be86829e525128acd3686]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) inserted (15.11.2005) by [The Weights and Measures (Miscellaneous Foods) (Amendment) Order 2005 (S.I. 2005/3057)](https://www.legislation.gov.uk/uksi/2005/3057), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3057/article/1), [2](https://www.legislation.gov.uk/uksi/2005/3057/article/2)
+[^c-7014f9f02f6be86829e525128acd3686]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1988/2040/article/2) inserted (15.11.2005) by [The Weights and Measures (Miscellaneous Foods) (Amendment) Order 2005 (S.I. 2005/3057)](https://www.legislation.gov.uk/uksi/2005/3057), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3057/article/1), [2](https://www.legislation.gov.uk/uksi/2005/3057/article/2)
 
-[^key-25b34e4c6032a3392bd6c06465438a5c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(h)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/h)
+[^c-25b34e4c6032a3392bd6c06465438a5c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(h)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/h)
 
-[^key-b7fb3f42263b569a7d7dd25dc50079ee]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/i)
+[^c-b7fb3f42263b569a7d7dd25dc50079ee]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/i)
 
-[^key-2d4d9b3e66231e8d378634c7dcdf2dc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(j)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/j)
+[^c-2d4d9b3e66231e8d378634c7dcdf2dc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/1) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(2)(j)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/2/j)
 
-[^key-434cc5e0755916217491289129a373b7]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/2) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/3)
+[^c-434cc5e0755916217491289129a373b7]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/2/2) inserted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/20/3)
 
-[^key-fa0a856f733e75317898f4ddf63e530e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/1988/2040/article/3) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/2975/regulation/21)
+[^c-fa0a856f733e75317898f4ddf63e530e]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/1988/2040/article/3) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/2975/regulation/21)
 
-[^key-93d4abfac7857d571933ea5b899021ea]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1988/2040/article/4) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-93d4abfac7857d571933ea5b899021ea]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1988/2040/article/4) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-11afdcf913c99fa4ba18dffc309669f1]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/22/a)
+[^c-11afdcf913c99fa4ba18dffc309669f1]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/22/a)
 
-[^key-18058d33eee16711216a03615db84366]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/22/b)
+[^c-18058d33eee16711216a03615db84366]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/22/b)
 
-[^key-0cfcbbf71b825a428ed0d1e833c37bdb]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication) (Miscellaneous Goods) (Amendment) Order 1994 (S.I. 1994/2868)](https://www.legislation.gov.uk/uksi/1994/2868), [art. 2](https://www.legislation.gov.uk/uksi/1994/2868/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/2868/schedule)
+[^c-0cfcbbf71b825a428ed0d1e833c37bdb]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/4/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication) (Miscellaneous Goods) (Amendment) Order 1994 (S.I. 1994/2868)](https://www.legislation.gov.uk/uksi/1994/2868), [art. 2](https://www.legislation.gov.uk/uksi/1994/2868/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/2868/schedule)
 
-[^key-db16cb10da7e6a1aebdf18b8a636d46c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1988/2040/article/5) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-db16cb10da7e6a1aebdf18b8a636d46c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1988/2040/article/5) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-c869c229c7573f44ce7e0d47ae09d1e0]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/a)
+[^c-c869c229c7573f44ce7e0d47ae09d1e0]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/a)
 
-[^key-cec1d843c1077bc397fcd970eca55083]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/5) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/b)
+[^c-cec1d843c1077bc397fcd970eca55083]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/5) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/b)
 
-[^key-ab6773fc4edc0eb45b8b7b64d031c37e]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/6) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/c)
+[^c-ab6773fc4edc0eb45b8b7b64d031c37e]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/uksi/1988/2040/article/5/6) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [23(c)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/23/c)
 
-[^key-8a31e3c9424371233cdba12ab049c594]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/1988/2040/article/6) substituted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/2331/article/3/2)
+[^c-8a31e3c9424371233cdba12ab049c594]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/1988/2040/article/6) substituted (1.10.2011) by [The Weights and Measures (Specified Quantities) (Unwrapped Bread and Intoxicating Liquor) Order 2011 (S.I. 2011/2331)](https://www.legislation.gov.uk/uksi/2011/2331), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2331/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/2331/article/3/2)
 
-[^key-df56814491b53f2972da5db5e330f863]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1988/2040/article/7) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [24](https://www.legislation.gov.uk/uksi/2014/2975/regulation/24)
+[^c-df56814491b53f2972da5db5e330f863]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/1988/2040/article/7) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [24](https://www.legislation.gov.uk/uksi/2014/2975/regulation/24)
 
-[^key-6010b1011f2fd6358ac5c38a7c93cc2f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1988/2040/article/8) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-6010b1011f2fd6358ac5c38a7c93cc2f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1988/2040/article/8) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-9018628c2f83a00a48810d3b9591c32b]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/8/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/25/a)
+[^c-9018628c2f83a00a48810d3b9591c32b]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/8/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [25(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/25/a)
 
-[^key-99c30384ea0426088d8dc0e0f727a67f]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/uksi/1988/2040/article/8/3) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/25/b)
+[^c-99c30384ea0426088d8dc0e0f727a67f]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/uksi/1988/2040/article/8/3) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/25/b)
 
-[^key-76d743a4054c6598bd798dc001dc32f0]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1988/2040/article/9) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-76d743a4054c6598bd798dc001dc32f0]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1988/2040/article/9) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-c7ea43dafb304a31629e05e06c8ce75a]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/a)
+[^c-c7ea43dafb304a31629e05e06c8ce75a]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/a)
 
-[^key-1041f4a1a69256a241bae135091583fc]: Textual amendment: Word in [art. 9(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/2) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(b)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/b/i)
+[^c-1041f4a1a69256a241bae135091583fc]: Textual amendment: Word in [art. 9(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/2) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(b)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/b/i)
 
-[^key-4040f134bc8349d359dde620a12f178c]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/2) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/b/ii)
+[^c-4040f134bc8349d359dde620a12f178c]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/9/2) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/26/b/ii)
 
-[^key-32fcaf05b62388b195c9d9ace2ff3bb3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1988/2040/article/10) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-32fcaf05b62388b195c9d9ace2ff3bb3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1988/2040/article/10) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-281e51033002b2c704fcb6531ac121ba]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1988/2040/article/11) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-281e51033002b2c704fcb6531ac121ba]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1988/2040/article/11) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-80ff7f6358dcc41cc4401da4b3649d9c]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/11/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [27](https://www.legislation.gov.uk/uksi/2014/2975/regulation/27)
+[^c-80ff7f6358dcc41cc4401da4b3649d9c]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/11/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [27](https://www.legislation.gov.uk/uksi/2014/2975/regulation/27)
 
-[^key-3cb00a27f27adb4402a6b2b0595c520f]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/11/2) revoked (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/663/regulation/5/4)
+[^c-3cb00a27f27adb4402a6b2b0595c520f]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/11/2) revoked (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/663/regulation/5/4)
 
-[^key-13a466e9996dd5a3ddcc4a7163a5bf94]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/1988/2040/article/12) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/2975/regulation/28)
+[^c-13a466e9996dd5a3ddcc4a7163a5bf94]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/1988/2040/article/12) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/2975/regulation/28)
 
-[^key-560daf27ccd08eecefdb50d8b723cd9f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1988/2040/article/13) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-560daf27ccd08eecefdb50d8b723cd9f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1988/2040/article/13) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-29edebf284019858264440bc5aab7409]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1988/2040/article/14) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-29edebf284019858264440bc5aab7409]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1988/2040/article/14) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
 [^M_F_6b395dae-9cee-4518-dd68-7488fe193387]: Textual amendment: Words in art. 14 substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [29](https://www.legislation.gov.uk/uksi/2014/2975/regulation/29)
 
-[^key-136f6af7919e6f894610474b90f8cbff]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/1988/2040/article/15) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-136f6af7919e6f894610474b90f8cbff]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/1988/2040/article/15) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-3c9681f460bdf2b532d7e136b4bf1223]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/1988/2040/article/16) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-3c9681f460bdf2b532d7e136b4bf1223]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/1988/2040/article/16) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
 [^f00007]: Footnote: S.I. [1984/1315](https://www.legislation.gov.uk/uksi/1984/1315), as amended by S.I. [1985/988](https://www.legislation.gov.uk/uksi/1985/988), [1980](https://www.legislation.gov.uk/uksi/1985/1980).
 
 [^f00008]: Footnote: S.I. [1988/2039](https://www.legislation.gov.uk/uksi/1988/2039).
 
-[^key-89a931f61609452d2dfc8ac57efdc6c9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1988/2040/article/17) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-89a931f61609452d2dfc8ac57efdc6c9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1988/2040/article/17) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-8bd5fa1c0d0370f64641f5e15a3fdb95]: Textual amendment: Word in [art. 17(1)(a)](https://www.legislation.gov.uk/uksi/1988/2040/article/17/1/a) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/30/a)
+[^c-8bd5fa1c0d0370f64641f5e15a3fdb95]: Textual amendment: Word in [art. 17(1)(a)](https://www.legislation.gov.uk/uksi/1988/2040/article/17/1/a) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/30/a)
 
-[^key-e0c4082c3e8a67544f81c9ad37c6dada]: Textual amendment: Words in [art. 17(1)(a)](https://www.legislation.gov.uk/uksi/1988/2040/article/17/1/a) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/30/b)
+[^c-e0c4082c3e8a67544f81c9ad37c6dada]: Textual amendment: Words in [art. 17(1)(a)](https://www.legislation.gov.uk/uksi/1988/2040/article/17/1/a) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/30/b)
 
-[^key-2c43fe5fbd2115c1d1c0ad0d63c7656c]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/1988/2040/article/18) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-2c43fe5fbd2115c1d1c0ad0d63c7656c]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/1988/2040/article/18) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-f42fb491c8abad1b69e59b7f1e4a1cdc]: Textual amendment: Word in [art. 18(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(a)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/a/i)
+[^c-f42fb491c8abad1b69e59b7f1e4a1cdc]: Textual amendment: Word in [art. 18(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/1) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(a)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/a/i)
 
-[^key-9f11ca7bc536b92ce64ddab486dab9c1]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/a/ii)
+[^c-9f11ca7bc536b92ce64ddab486dab9c1]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/a/ii)
 
-[^key-75fccf5d4a94b1cb971de83d5f782ac1]: Textual amendment: Word in [art. 18(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/2) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(b)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/b/i)
+[^c-75fccf5d4a94b1cb971de83d5f782ac1]: Textual amendment: Word in [art. 18(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/2) omitted (13.12.2014) by virtue of [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(b)(i)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/b/i)
 
-[^key-68fb0e502ef4064bca2e968326b1a80e]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/2) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/b/ii)
+[^c-68fb0e502ef4064bca2e968326b1a80e]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/1988/2040/article/18/2) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2975/regulation/31/b/ii)
 
-[^key-485305211d47b61867b1017d24497494]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1988/2040/schedule/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [32](https://www.legislation.gov.uk/uksi/2014/2975/regulation/32), [Sch.](https://www.legislation.gov.uk/uksi/2014/2975/schedule)
+[^c-485305211d47b61867b1017d24497494]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1988/2040/schedule/1) substituted (13.12.2014) by [The Weights and Measures (Food) (Amendment) Regulations 2014 (S.I. 2014/2975)](https://www.legislation.gov.uk/uksi/2014/2975), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2975/regulation/1), [32](https://www.legislation.gov.uk/uksi/2014/2975/regulation/32), [Sch.](https://www.legislation.gov.uk/uksi/2014/2975/schedule)
 
-[^key-a64274a01622257b578379ae241c0c03]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2040/schedule/2) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-a64274a01622257b578379ae241c0c03]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1988/2040/schedule/2) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
 
-[^key-d90606e01dc65494df93818c5a44e6ce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/2040/schedule/3) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)
+[^c-d90606e01dc65494df93818c5a44e6ce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/2040/schedule/3) in force at 1.1.1989, see [art. 1](https://www.legislation.gov.uk/uksi/1988/2040/article/1)

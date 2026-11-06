@@ -32,12 +32,12 @@ summary: ''
 
 (4) Any self-employed earnings which the person is treated as having by virtue of paragraph (3)(b) are in addition to any employed earnings the person receives as a director or employee of the company.
 
-(5) This regulation does not apply where the person derives income from the company that is employed earnings by virtue of Chapter 8 (workers under arrangements made by intermediaries), Chapter 9 (managed service companies) or Chapter 10 (workers’ services provided to public sector through intermediaries) of Part 2 of[^key-25d5e3ca20a3506b90f95074fd839d29] ITEPA and that income is derived from activities that are the person’s main employment.
+(5) This regulation does not apply where the person derives income from the company that is employed earnings by virtue of Chapter 8 (workers under arrangements made by intermediaries), Chapter 9 (managed service companies) or Chapter 10 (workers’ services provided to public sector through intermediaries) of Part 2 of[^c-25d5e3ca20a3506b90f95074fd839d29] ITEPA and that income is derived from activities that are the person’s main employment.
 
 (6) In paragraph (1) “**property business**” has the meaning in section 204 of the Corporation Tax Act 2009 [^c22824621].
 
 ## Annotations
 
-[^key-25d5e3ca20a3506b90f95074fd839d29]: Textual amendment: Words in [reg. 77(5)](https://www.legislation.gov.uk/nisr/2016/216/regulation/77/5) substituted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(7)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/7)
+[^c-25d5e3ca20a3506b90f95074fd839d29]: Textual amendment: Words in [reg. 77(5)](https://www.legislation.gov.uk/nisr/2016/216/regulation/77/5) substituted (28.11.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/187)](https://www.legislation.gov.uk/nisr/2018/187), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/187/regulation/1/2), [3(7)](https://www.legislation.gov.uk/nisr/2018/187/regulation/3/7)
 
 [^c22824621]: Marginal citation: 2009 c .4.

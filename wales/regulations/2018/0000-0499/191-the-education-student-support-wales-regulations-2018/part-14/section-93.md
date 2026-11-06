@@ -25,7 +25,7 @@ summary: ''
 - (a) to whom a grant (other than disabled student's grant) or maintenance loan is payable in respect of an academic year, and
 - (b) who becomes a prisoner during the academic year.
 
-(2)[^key-bbf1a018d94ff26042ac14d3c0ff92aa] Where this regulation applies, the amount of grant or maintenance loan payable is reduced by the number of days during the academic year that the eligible student is a prisoner.
+(2)[^c-bbf1a018d94ff26042ac14d3c0ff92aa] Where this regulation applies, the amount of grant or maintenance loan payable is reduced by the number of days during the academic year that the eligible student is a prisoner.
 
 (3) But the Welsh Ministers may determine that the reduction is not to be made if they think it appropriate in the circumstances, having regard in particular to—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf1a018d94ff26042ac14d3c0ff92aa]: Textual amendment: [Reg. 93(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/93/2) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2018/813/regulation/8)
+[^c-bbf1a018d94ff26042ac14d3c0ff92aa]: Textual amendment: [Reg. 93(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/93/2) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2018/813/regulation/8)

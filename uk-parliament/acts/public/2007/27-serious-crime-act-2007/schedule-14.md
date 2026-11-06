@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — Repeals and revocations[^key-16f06105870947bc655717d4b7020cec][^key-b8a12a5f4dd6b9970912e04ffa27feef][^key-e05ca6f56195a460aaa372a0b20a973b]
+## SCHEDULE 14 — Repeals and revocations[^c-16f06105870947bc655717d4b7020cec][^c-b8a12a5f4dd6b9970912e04ffa27feef][^c-e05ca6f56195a460aaa372a0b20a973b]
 
 *Extent: E+W+N.I.*
 
@@ -56,8 +56,8 @@ Section 92
 
 ## Annotations
 
-[^key-16f06105870947bc655717d4b7020cec]: Commencement: Sch. 14 in force at 15.2.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/219/article/2/d)
+[^c-16f06105870947bc655717d4b7020cec]: Commencement: Sch. 14 in force at 15.2.2008 for specified purposes by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/219/article/2/d)
 
-[^key-b8a12a5f4dd6b9970912e04ffa27feef]: Commencement: Sch. 14 in force at 1.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-b8a12a5f4dd6b9970912e04ffa27feef]: Commencement: Sch. 14 in force at 1.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-e05ca6f56195a460aaa372a0b20a973b]: Commencement: Sch. 14 in force at 1.10.2008 for specified purposes by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/i)
+[^c-e05ca6f56195a460aaa372a0b20a973b]: Commencement: Sch. 14 in force at 1.10.2008 for specified purposes by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/i)

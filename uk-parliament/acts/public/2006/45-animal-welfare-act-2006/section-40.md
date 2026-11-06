@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Forfeiture of equipment used in offences[^key-bcc824fa3596bf4cb86be9efd7291b6d][^key-1c423daf273fdfb57d23dd333b93f131]
+## 40. Forfeiture of equipment used in offences[^c-bcc824fa3596bf4cb86be9efd7291b6d][^c-1c423daf273fdfb57d23dd333b93f131]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc824fa3596bf4cb86be9efd7291b6d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/45/section/40) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-bcc824fa3596bf4cb86be9efd7291b6d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/45/section/40) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-1c423daf273fdfb57d23dd333b93f131]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/45/section/40) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-1c423daf273fdfb57d23dd333b93f131]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/45/section/40) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

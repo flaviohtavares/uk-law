@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Application of Chapter 5[^key-ccceeb83919b97f51d3d4e3c9a41c31e]
+## 116. Application of Chapter 5[^c-ccceeb83919b97f51d3d4e3c9a41c31e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccceeb83919b97f51d3d4e3c9a41c31e]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2013/3208/rule/116) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-ccceeb83919b97f51d3d4e3c9a41c31e]: Commencement: [Rule 116](https://www.legislation.gov.uk/uksi/2013/3208/rule/116) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

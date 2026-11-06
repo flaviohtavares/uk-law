@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E16. Combined benefits in the case of certain re-employed pensioners[^key-63dd2f3b74ab4eea3099387567dce2c0]
+## E16. Combined benefits in the case of certain re-employed pensioners[^c-63dd2f3b74ab4eea3099387567dce2c0]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ this regulation has effect as if references to the first retirement pension were
 
 ## Annotations
 
-[^key-63dd2f3b74ab4eea3099387567dce2c0]: Commencement: [Reg. E16](https://www.legislation.gov.uk/uksi/1986/24/regulation/E16) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-63dd2f3b74ab4eea3099387567dce2c0]: Commencement: [Reg. E16](https://www.legislation.gov.uk/uksi/1986/24/regulation/E16) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

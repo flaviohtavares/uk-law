@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Pig Industry Restructuring (Non-Capital Grant) Scheme 2001 (revoked)[^key-a1d8a677dbe1b9433e346bb99456bf16]
+The Pig Industry Restructuring (Non-Capital Grant) Scheme 2001 (revoked)[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 1st March 2001
 
-[^key-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 1. Title, extent and commencement[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 2. Interpretation[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment and amounts of grants[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 3. Payment and amounts of grants[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligible persons[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 4. Eligible persons[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Claims for grant[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 5. Claims for grant[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Withholding or recovery of grant[^key-a1d8a677dbe1b9433e346bb99456bf16]
+## 6. Withholding or recovery of grant[^c-a1d8a677dbe1b9433e346bb99456bf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1d8a677dbe1b9433e346bb99456bf16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1d8a677dbe1b9433e346bb99456bf16]: Textual amendment: Scheme revoked (1.7.2015) by [The Brucellosis Incentive and Pig Industry Restructuring (Non-Capital Grant) Revocations (England) Scheme 2015 (S.I. 2015/793)](https://www.legislation.gov.uk/uksi/2015/793), [paras. 1(1)](https://www.legislation.gov.uk/uksi/2015/793/paragraph/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2015/793/paragraph/2/d)
+[^c-a1d8a677dbe1b9433e346bb99456bf16]: Textual amendment: Scheme revoked (1.7.2015) by [The Brucellosis Incentive and Pig Industry Restructuring (Non-Capital Grant) Revocations (England) Scheme 2015 (S.I. 2015/793)](https://www.legislation.gov.uk/uksi/2015/793), [paras. 1(1)](https://www.legislation.gov.uk/uksi/2015/793/paragraph/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2015/793/paragraph/2/d)

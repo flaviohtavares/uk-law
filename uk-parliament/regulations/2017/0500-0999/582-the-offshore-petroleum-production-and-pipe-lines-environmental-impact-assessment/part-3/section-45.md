@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**45.**[^key-b63428ebc2d386f5d77777cb88d26074] In the 2000 Regulations, for “28 days” or “four weeks”, wherever they occur, substitute “30 days”.
+**45.**[^c-b63428ebc2d386f5d77777cb88d26074] In the 2000 Regulations, for “28 days” or “four weeks”, wherever they occur, substitute “30 days”.
 
 ## Annotations
 
-[^key-b63428ebc2d386f5d77777cb88d26074]: Commencement: Reg. 45 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-b63428ebc2d386f5d77777cb88d26074]: Commencement: Reg. 45 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

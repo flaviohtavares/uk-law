@@ -59,8 +59,8 @@ Section 91
 
 ### ICTA
 
-**4.**[^key-38749e4167195e433e8aa1ade05b7351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-38749e4167195e433e8aa1ade05b7351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38749e4167195e433e8aa1ade05b7351]: Textual amendment: Sch. 45 para. 4 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-38749e4167195e433e8aa1ade05b7351]: Textual amendment: Sch. 45 para. 4 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

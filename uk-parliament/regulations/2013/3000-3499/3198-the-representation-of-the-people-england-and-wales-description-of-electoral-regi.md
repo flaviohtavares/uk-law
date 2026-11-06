@@ -44,7 +44,7 @@ The Lord President of the Council has consulted the Electoral Commission and the
 
 In accordance with section 201(2)[^f00004] of the Representation of the People Act 1983, a draft of this instrument has been laid before and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement, interpretation and extent[^key-f75d78018ad8720fee52eab68fe2a3ed]
+## 1. Citation, commencement, interpretation and extent[^c-f75d78018ad8720fee52eab68fe2a3ed]
 
 (1) These Regulations may be cited as the Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013.
 
@@ -73,11 +73,11 @@ In accordance with section 201(2)[^f00004] of the Representation of the People A
 
 (7) These Regulations extend to England and Wales only.
 
-## 2. Revocations[^key-f3e2b1b75740d25acb7f958e0307ce94]
+## 2. Revocations[^c-f3e2b1b75740d25acb7f958e0307ce94]
 
 The instruments listed in column 1 of Schedule 2 to these Regulations (which have the references in column 2) are revoked to the extent indicated in column 3 of that Schedule.
 
-## 3. Amendments in relation to interpretation[^key-cd558a469bc3f81388a6dec1d68740ca]
+## 3. Amendments in relation to interpretation[^c-cd558a469bc3f81388a6dec1d68740ca]
 
 Regulation 3 is amended as follows—
 
@@ -96,11 +96,11 @@ Regulation 3 is amended as follows—
 
   .
 
-## 4. Amendment in relation to supply of forms[^key-3c00b1d86147d2e2061b1b5e3ea18760]
+## 4. Amendment in relation to supply of forms[^c-3c00b1d86147d2e2061b1b5e3ea18760]
 
 In regulation 4(1)(a), for “section 10A(1)(a) and (3) of the 1983 Act”, substitute “applications made under sections 10ZC(1)(a) and 10ZD(1)(a) of the 1983 Act”.
 
-## 5. Amendment in relation to communication of applications, notices etc.[^key-e6e2115afb3b76e36fa9d6db167ff455]
+## 5. Amendment in relation to communication of applications, notices etc.[^c-e6e2115afb3b76e36fa9d6db167ff455]
 
 (1) Regulation 5 is renumbered as paragraph (1) of that regulation.
 
@@ -112,11 +112,11 @@ In regulation 4(1)(a), for “section 10A(1)(a) and (3) of the 1983 Act”, subs
 
 .
 
-## 6. Amendment in relation to electronic signatures and related certificates[^key-dacbc0c8ba79272cc006f3d0b4d20810]
+## 6. Amendment in relation to electronic signatures and related certificates[^c-dacbc0c8ba79272cc006f3d0b4d20810]
 
 In regulation 6(1) for “application, notice, representation or objection” substitute “application, notice or representation”.
 
-## 7. Amendment in relation to power to require information[^key-57a32565ac8e9336f6ba3bf8ef3cf351]
+## 7. Amendment in relation to power to require information[^c-57a32565ac8e9336f6ba3bf8ef3cf351]
 
 In regulation 23, after paragraph (1) insert—
 
@@ -124,15 +124,15 @@ In regulation 23, after paragraph (1) insert—
 
 .
 
-## 8. Amendment in relation to evidence as to age[^key-bb44b1188dd594f40de83cfc654834fa]
+## 8. Amendment in relation to evidence as to age[^c-bb44b1188dd594f40de83cfc654834fa]
 
 In regulation 24(2)(a), omit “or a statutory declaration as to the person’s date of birth”.
 
-## 9. Amendment in relation to reminders to persons who have an anonymous entry[^key-c624ffe3307da831c3b8002b21c6e833]
+## 9. Amendment in relation to reminders to persons who have an anonymous entry[^c-c624ffe3307da831c3b8002b21c6e833]
 
 In regulation 25A(2)(b), for “section 10A(1)(a) of the 1983 Act”, substitute “section 10ZC(1)(b) of the 1983 Act”.
 
-## 10. Amendments in relation to applications for registration[^key-fe1bd6600184ce32ed1cccfe892e8f3b]
+## 10. Amendments in relation to applications for registration[^c-fe1bd6600184ce32ed1cccfe892e8f3b]
 
 For regulation 26, substitute—
 
@@ -196,7 +196,7 @@ For regulation 26, substitute—
 
 .
 
-## 11.[^key-9d91b1f45f420e995866b75ff2873de3]
+## 11.[^c-9d91b1f45f420e995866b75ff2873de3]
 
 After regulation 26 insert—
 
@@ -315,18 +315,18 @@ After regulation 26 insert—
 
 .
 
-## 12. Amendment in relation to objections to registration[^key-9d53a12d4b3c93a66b2d2d5e90e69413]
+## 12. Amendment in relation to objections to registration[^c-9d53a12d4b3c93a66b2d2d5e90e69413]
 
 In regulation 27(3), for “representations made against an application for registration under section 13A(1)(a) of the 1983 Act”, substitute “representations made against an application for registration under section 13A(1)(za) of the 1983 Act”.
 
-## 13. Amendment in relation to inspection of applications and objections[^key-57d22d08993d39cd3ad5b0b6412b5435]
+## 13. Amendment in relation to inspection of applications and objections[^c-57d22d08993d39cd3ad5b0b6412b5435]
 
 In regulation 28(1)—
 
 - (a) for “An application for registration” substitute “An entry on the list of applications for registration kept under regulation 29(2)(a)”; and
 - (b) after “the application” insert “to which the entry relates”.
 
-## 14. Amendments in relation to determination of applications and objections[^key-07b0b7b2988d90d49f2ada3a8bdfd09a]
+## 14. Amendments in relation to determination of applications and objections[^c-07b0b7b2988d90d49f2ada3a8bdfd09a]
 
 (1) Before regulation 29 insert—
 
@@ -399,7 +399,7 @@ is to be treated as having made an application under section 10ZC of the 1983 Ac
 - (b) in paragraph (5), for “has applied” substitute “is entitled (apart from any requirement as to age)”;
 - (c) in paragraph (6), for “the application” substitute “whether the person is entitled (apart from any requirement as to age) to be registered”.
 
-## 15. Amendment in relation to procedure for determining applications for registration and objections without a hearing[^key-947ac967ce88d1cb7cab5b22fb431c34]
+## 15. Amendment in relation to procedure for determining applications for registration and objections without a hearing[^c-947ac967ce88d1cb7cab5b22fb431c34]
 
 In regulation 29—
 
@@ -428,7 +428,7 @@ In regulation 29—
 
   .
 
-## 16. Amendment in relation to other determinations by registration officer of entitlement to registration[^key-26905740f2e42608dac6332bcd009719]
+## 16. Amendment in relation to other determinations by registration officer of entitlement to registration[^c-26905740f2e42608dac6332bcd009719]
 
 In regulation 31B, for paragraph (2) substitute—
 
@@ -444,7 +444,7 @@ In regulation 31B, for paragraph (2) substitute—
 
 .
 
-## 17. Amendment in relation to summary procedure for determining person has ceased to satisfy conditions for registration[^key-1b1bbde31ed6e11b55fedaad744bebc2]
+## 17. Amendment in relation to summary procedure for determining person has ceased to satisfy conditions for registration[^c-1b1bbde31ed6e11b55fedaad744bebc2]
 
 For regulation 31C substitute—
 
@@ -469,7 +469,7 @@ For regulation 31C substitute—
 
 .
 
-## 18. Amendment in relation to procedure for reviewing entitlement to registration[^key-06b73667292583a9cd0862644326926e]
+## 18. Amendment in relation to procedure for reviewing entitlement to registration[^c-06b73667292583a9cd0862644326926e]
 
 (1) Regulation 31D is amended as follows.
 
@@ -489,14 +489,14 @@ For regulation 31C substitute—
 - (a) after “was not entitled to be registered” insert “, that the subject of the review was registered and their entry has been altered as the result of an application made by another person,”; and
 - (b) after “as the case may be,” insert “that the subject of the review”.
 
-## 19. Amendments in relation to hearing of reviews[^key-c0e5a51cfd8ea41b93982fe95224cad8]
+## 19. Amendments in relation to hearing of reviews[^c-c0e5a51cfd8ea41b93982fe95224cad8]
 
 In regulation 31F(6)—
 
 - (a) after “not entitled to be registered” insert “, that the subject of the review was registered and their entry has been altered as the result of an application made by another person,”; and
 - (b) after “as the case may be,” insert “that the subject of the review”.
 
-## 20.[^key-25e135a2f0dc0ea2916a8e2e006e3651]
+## 20.[^c-25e135a2f0dc0ea2916a8e2e006e3651]
 
 After regulation 31F insert—
 
@@ -506,7 +506,7 @@ After regulation 31F insert—
 
 .
 
-## 21. Amendments in relation to anonymous registration[^key-653e7771e03ff6e88f7f9cdd670a696b]
+## 21. Amendments in relation to anonymous registration[^c-653e7771e03ff6e88f7f9cdd670a696b]
 
 (1) In regulation 31I(3)—
 
@@ -532,7 +532,7 @@ After regulation 31F insert—
 
 (2) In regulation 31J(4)(b) for “any police force in Scotland” substitute “the Police Service of Scotland”.
 
-## 22. Amendments in relation to the annual canvass, invitations to apply for registration, requiring a person to make an application for registration and civil penalties[^key-dc6cb21cda902977755ca1ae40eb4d81]
+## 22. Amendments in relation to the annual canvass, invitations to apply for registration, requiring a person to make an application for registration and civil penalties[^c-dc6cb21cda902977755ca1ae40eb4d81]
 
 After regulation 32, insert—
 
@@ -631,7 +631,7 @@ After regulation 32, insert—
 > - (a) the person is not entitled to be registered at the address at which the invitation or invitations to register was or were given; or
 > - (b) the person is registered at a different address.
 >
-> (6)[^key-55924fcad13e75d828afbff78277d7bd] Paragraphs (1) to (3) do not apply in relation to a person whom the registration officer has reason to believe would, if registered, be registered—
+> (6)[^c-55924fcad13e75d828afbff78277d7bd] Paragraphs (1) to (3) do not apply in relation to a person whom the registration officer has reason to believe would, if registered, be registered—
 >
 > - (a) in pursuance of an application made by virtue of section 7(2) or 7A(2) of the 1983 Act;
 > - (b) in pursuance of a declaration of local connection, service declaration or overseas elector’s declaration; or
@@ -753,7 +753,7 @@ After regulation 32, insert—
 
 .
 
-## 23. Amendment in relation to requirements for application for a proxy vote[^key-b0ae340f17065bdda1140d1a5799fdc2]
+## 23. Amendment in relation to requirements for application for a proxy vote[^c-b0ae340f17065bdda1140d1a5799fdc2]
 
 After regulation 55(3) insert—
 
@@ -766,7 +766,7 @@ After regulation 55(3) insert—
 
 .
 
-## 24. Additional requirements for application for an emergency proxy vote in respect of a particular election[^key-ca9ebe23e51222da785bd83972de3121]
+## 24. Additional requirements for application for an emergency proxy vote in respect of a particular election[^c-ca9ebe23e51222da785bd83972de3121]
 
 After regulation 55 insert—
 
@@ -803,7 +803,7 @@ After regulation 55 insert—
 
 .
 
-## 25. Amendments in relation to the closing date for applications[^key-884a248f2fb1bb286fde7605d0bbeebb]
+## 25. Amendments in relation to the closing date for applications[^c-884a248f2fb1bb286fde7605d0bbeebb]
 
 (1) After regulation 56(3A)(a) insert—
 
@@ -817,7 +817,7 @@ After regulation 55 insert—
 
 .
 
-## 26. Requirement to provide fresh signature following rejection of a postal voting statement[^key-060e74ecb0f8ec9daaf0f9de8b421944]
+## 26. Requirement to provide fresh signature following rejection of a postal voting statement[^c-060e74ecb0f8ec9daaf0f9de8b421944]
 
 After regulation 60A insert—
 
@@ -862,7 +862,7 @@ After regulation 60A insert—
 
 .
 
-## 27. Amendments relating to records and lists kept under Schedule 4[^key-ae24f1697b8b13c6d47c116926a9c04f]
+## 27. Amendments relating to records and lists kept under Schedule 4[^c-ae24f1697b8b13c6d47c116926a9c04f]
 
 In regulation 61 after paragraph (6), insert—
 
@@ -870,7 +870,7 @@ In regulation 61 after paragraph (6), insert—
 
 .
 
-## 28. Notification of a rejected postal vote[^key-a150af9b3c4309df14795942ce768f57]
+## 28. Notification of a rejected postal vote[^c-a150af9b3c4309df14795942ce768f57]
 
 After regulation 61B insert—
 
@@ -891,7 +891,7 @@ After regulation 61B insert—
 
 .
 
-## 29. Time when postal ballot papers are to be issued[^key-1699fdfab26ed529207f8f0422ddb2d6]
+## 29. Time when postal ballot papers are to be issued[^c-1699fdfab26ed529207f8f0422ddb2d6]
 
 For regulation 71 substitute—
 
@@ -901,7 +901,7 @@ For regulation 71 substitute—
 
 .
 
-## 30. Cancellation of postal ballot papers[^key-b819c7e6863a51af6e1ca59877a0e553]
+## 30. Cancellation of postal ballot papers[^c-b819c7e6863a51af6e1ca59877a0e553]
 
 After regulation 78 insert—
 
@@ -938,7 +938,7 @@ After regulation 78 insert—
 
 .
 
-## 31. Amendments in relation to opening of covering envelopes[^key-2d008cc4b3f5cf79b7dc7c28baff4544]
+## 31. Amendments in relation to opening of covering envelopes[^c-2d008cc4b3f5cf79b7dc7c28baff4544]
 
 (1) In regulation 84, omit paragraphs (1A) and (5).
 
@@ -954,7 +954,7 @@ After regulation 78 insert—
 
 .
 
-## 32. Amendments to the procedure in relation to postal voting statements[^key-6263dfe0f52c0b01783928ca0f3f296e]
+## 32. Amendments to the procedure in relation to postal voting statements[^c-6263dfe0f52c0b01783928ca0f3f296e]
 
 (1) For regulation 85A(1) substitute—
 
@@ -964,14 +964,14 @@ After regulation 78 insert—
 
 .
 
-## 33. Amendments in relation to retrieval of cancelled postal ballot papers[^key-3bef383480881d25b87cc8feee05acbc]
+## 33. Amendments in relation to retrieval of cancelled postal ballot papers[^c-3bef383480881d25b87cc8feee05acbc]
 
 In regulation 86A(2)—
 
 - (a) in paragraph (c) after “postal voting statements” insert “(verification procedure)”;
 - (b) in paragraph (e) after “77(6)” insert “or 78A(2)”.
 
-## 34. Amendments in relation to lists of rejected postal ballot papers[^key-b8bc022e1ad68d44866ed3f82ef912cc]
+## 34. Amendments in relation to lists of rejected postal ballot papers[^c-b8bc022e1ad68d44866ed3f82ef912cc]
 
 (1) In regulation 87(1), for “two separate lists of” substitute “three separate lists relating to”.
 
@@ -993,13 +993,13 @@ In regulation 86A(2)—
 
 .
 
-## 35. Amendments in relation to sealing of receptacles[^key-95b33aba4475a2f99dc1c832ba6c8f29]
+## 35. Amendments in relation to sealing of receptacles[^c-95b33aba4475a2f99dc1c832ba6c8f29]
 
 (1) In regulation 89(1), omit sub-paragraph (b).
 
 (2) In regulation 89(1)(d), for “spoilt and lost” substitute “spoilt, lost or cancelled”.
 
-## 36. Amendments in relation to forwarding of documents[^key-8979a168b71538ca181ec13096f5a2ba]
+## 36. Amendments in relation to forwarding of documents[^c-8979a168b71538ca181ec13096f5a2ba]
 
 (1) In regulation 91(1)(a) after “78(2C),” insert “78A(2),”.
 
@@ -1012,15 +1012,15 @@ In regulation 86A(2)—
 
 (3) In regulation 91(4), at the end insert “except that in applying those rules to the list compiled under regulation 87(4), the list and any extracts from it are to be treated in the same manner as a counted ballot paper.”.
 
-## 37. Amendments relating to edited version of register[^key-67881eb54604396589327a4a67b391f4]
+## 37. Amendments relating to edited version of register[^c-67881eb54604396589327a4a67b391f4]
 
 In regulation 92(1)(b) for “regulation 93” substitute “regulations 93 and 93A”.
 
-## 38.[^key-5d861b8ef8819334931c338cc790b048]
+## 38.[^c-5d861b8ef8819334931c338cc790b048]
 
 In regulation 93(2) after “if a request has been duly made”, for “in the form referred to in section 10(4) of the 1983 Act or in accordance with regulation 26 above by or on behalf of that elector”, substitute “to the registration officer in accordance with regulation 26 or regulation 93A by that elector”.
 
-## 39.[^key-0cd44bba795b99b4576b6552444b7a91]
+## 39.[^c-0cd44bba795b99b4576b6552444b7a91]
 
 For regulation 93(3) substitute—
 
@@ -1039,7 +1039,7 @@ For regulation 93(3) substitute—
 
 .
 
-## 40. Amendments relating to edited register preference[^key-5cc93781fee29aa78a3857cc3ed45ed9]
+## 40. Amendments relating to edited register preference[^c-5cc93781fee29aa78a3857cc3ed45ed9]
 
 After regulation 93 insert—
 
@@ -1059,15 +1059,15 @@ After regulation 93 insert—
 
 .
 
-## 41. Amendments in consequence of the Fixed-term Parliaments Act 2011[^key-24319aa4d851925f5c729cc45f56c88c]
+## 41. Amendments in consequence of the Fixed-term Parliaments Act 2011[^c-24319aa4d851925f5c729cc45f56c88c]
 
 In regulation 98(5)(a)(i) for “the announcement of Her Majesty’s intention to dissolve Parliament” substitute “the dissolution of Parliament in accordance with section 3(1) of the Fixed-term Parliaments Act 2011[^f00026]”.
 
-## 42. Amendments in relation to alterations to the register[^key-5d5a83d512ff7f1e06eccb01b3a0fefa]
+## 42. Amendments in relation to alterations to the register[^c-5d5a83d512ff7f1e06eccb01b3a0fefa]
 
 In each place where it occurs in regulations 7(5)(b), 31A(1)(c), 36(2), 92(1)(b), 98(1)(b), 98(4)(b), 99(1)(b), 100(1)(b), 101(3)(b), 102(1)(b), 109A(1)(b), 111(1)(b), 111(7), 112(1), 112(6)(b) and 112(7), after “13A(2)” insert “,13AB(2)”.
 
-## 43.[^key-f6879834ba3c1f0cc98bec75884e85aa]
+## 43.[^c-f6879834ba3c1f0cc98bec75884e85aa]
 
 In regulation 100, after paragraph (2) insert—
 
@@ -1077,7 +1077,7 @@ In regulation 100, after paragraph (2) insert—
 
 .
 
-## 44. Amendments in relation to documents open to public inspection[^key-c03cf1e3c56629aad911426e43c84412]
+## 44. Amendments in relation to documents open to public inspection[^c-c03cf1e3c56629aad911426e43c84412]
 
 After regulation 118(1)(b)(iii) insert—
 
@@ -1085,25 +1085,25 @@ After regulation 118(1)(b)(iii) insert—
 
 .
 
-## 45. Prescribed form of words about the two versions of the register[^key-3ba280bb37235f6e5a236090b155148c]
+## 45. Prescribed form of words about the two versions of the register[^c-3ba280bb37235f6e5a236090b155148c]
 
 (1) Schedule 3 to these Regulations is to have effect and the forms of words set out in that Schedule are prescribed as the wording to be used by electoral registration officers for the purpose specified in paragraph 10(2) of Schedule 2 to the 1983 Act.
 
 (2) The long form of words set out in Schedule 3 to these Regulations is prescribed to be used except as provided for in regulations 26(3)(h), 26(8) and 32ZA(6)(a) of the Representation of the People (England and Wales) Regulations 2001.
 
-## 46. Amendment of form of official poll cards[^key-1cc234e8b397765ffcc16043526fa207]
+## 46. Amendment of form of official poll cards[^c-1cc234e8b397765ffcc16043526fa207]
 
 In Schedule 3, for Forms A, A1, B and B1 substitute Forms A, A1, B and B1 set out in Schedule 4 to these Regulations.
 
-## 47. Amendment of form of certificate of employment[^key-adea62cf8675629a8db4df757d219cdf]
+## 47. Amendment of form of certificate of employment[^c-adea62cf8675629a8db4df757d219cdf]
 
 In Schedule 3, for Form F substitute Form F set out in Schedule 4 to these Regulations.
 
-## 48. Amendment of form of postal voting statements[^key-5c20b1ee7027cbe91859d02ed411f029]
+## 48. Amendment of form of postal voting statements[^c-5c20b1ee7027cbe91859d02ed411f029]
 
 In Schedule 3, for Forms G, H and J substitute Forms G, H and J set out in Schedule 4 to these Regulations.
 
-## 49. Amendment of form of statement as to postal ballot papers[^key-5aacd5cb3a48da2aefdea8332803e81d]
+## 49. Amendment of form of statement as to postal ballot papers[^c-5aacd5cb3a48da2aefdea8332803e81d]
 
 (1) In Schedule 3, in Form K in the first column—
 
@@ -1121,7 +1121,7 @@ In Schedule 3, for Forms G, H and J substitute Forms G, H and J set out in Sched
 - (b) in entry 14 (as renumbered) for “5 to 12” substitute “6 to 13”;
 - (c) in entry 19 (number of cases in which a covering envelope or its contents were marked “Rejected”) after “78” insert “, 78A”, and for “2, 3, 7, 8 and 9” substitute “2, 3, 5, 8, 9 and 10”.
 
-## 50. Amendments relating to modification of provisions for registration of European Parliamentary overseas electors[^key-d298e1309f9b49d3823c9d7dc80ef181]
+## 50. Amendments relating to modification of provisions for registration of European Parliamentary overseas electors[^c-d298e1309f9b49d3823c9d7dc80ef181]
 
 (1) In Schedule 4, in the table, after the entry for section 13B (alteration of registers: pending elections), in column 1 (provision applied) insert—
 
@@ -1147,11 +1147,11 @@ Cabinet Office
 
 18th December 2013
 
-## SCHEDULE 1[^key-091d5504f64587e1bb95000cec75b8bc]
+## SCHEDULE 1[^c-091d5504f64587e1bb95000cec75b8bc]
 
 Preamble
 
-[^key-091d5504f64587e1bb95000cec75b8bc]
+[^c-091d5504f64587e1bb95000cec75b8bc]
 
 These Regulations are made under the following powers:
 
@@ -1162,7 +1162,7 @@ These Regulations are made under the following powers:
 - (e) having regard to the definition of “prescribed” in section 202(1) of the 1983 Act and paragraph 1(2) of Schedule 4 to the Representation of the People Act 2000[^f00052], paragraphs 4(2) and 6(8) of that Schedule; and
 - (f) paragraphs 7B[^f00053] and 7E[^f00054] of Schedule 4 to the Representation of the People Act 2000.
 
-## SCHEDULE 2 — REVOCATIONS[^key-51336bf889f88e88c216f3415de90a51]
+## SCHEDULE 2 — REVOCATIONS[^c-51336bf889f88e88c216f3415de90a51]
 
 Regulation 2
 
@@ -1175,23 +1175,23 @@ Regulation 2
 | 5\. The Representation of the People (Form of Canvass) (England and Wales) Regulations 2006 | [S.I. 2006/1694](https://www.legislation.gov.uk/uksi/2006/1694) | The whole of the regulations. |
 | 6\. The Representation of the People (England and Wales) and the Representation of the People (Combination of Polls) (England and Wales) (Amendment) Regulations 2007 | [S.I. 2007/1025](https://www.legislation.gov.uk/uksi/2007/1025) | In regulation 2(4)(a) the words “A, B,” in both places.<br>In the Schedule, Forms A and B. |
 
-## SCHEDULE 3 — Form of words about the two versions of the register[^key-16052776f3ba89e4e03d05a9c66d00dc]
+## SCHEDULE 3 — Form of words about the two versions of the register[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Regulation 45
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 ***Short version of the Form of Words***
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 *There are two registers. Why?*
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Using information received from the public, registration officers keep two registers – the electoral register and the open register (also known as the edited register).
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **The electoral register** lists the names and addresses of everyone who is registered to vote in public elections. The register is used for electoral purposes, such as making sure only eligible people can vote. It is also used for other limited purposes specified in law, such as:
 
@@ -1199,35 +1199,35 @@ Using information received from the public, registration officers keep two regis
 - calling people for jury service
 - checking credit applications.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **The open register** is an extract of the electoral register, but is not used for elections. It can be bought by any person, company or organisation. For example, it is used by businesses and charities to confirm name and address details.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Your name and address will be included in the open register unless you ask for them to be removed. Removing your details from the open register does not affect your right to vote.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 ***Long Version of the Form of Words***
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 *There are two registers. Why?*
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Using information received from the public, registration officers keep two registers – the electoral register and the open register (also known as the edited register).
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **The electoral register** lists the names and addresses of everyone who is registered to vote in public elections.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 The register is used for electoral purposes – such as making sure only eligible people can vote – and for other limited purposes specified in law. The personal data in the register must always be processed in line with data-protection legislation.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **Who uses the electoral register?**
 
@@ -1238,23 +1238,23 @@ The register is used for electoral purposes – such as making sure only eligibl
 - Government departments may buy the register from local registration officers and use it to help prevent and detect crime. They can also use it to safeguard national security by checking the background of job applicants and employees.
 - Credit reference agencies can buy the register. They help other organisations to check the names and addresses of people applying for credit. They also use it to carry out identity checks when trying to prevent and detect money laundering.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 It is a criminal offence for anyone to supply or use the register for anything else.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **The open register** is an extract of the electoral register, but is not used for elections. It can be bought by any person, company or organisation. For example, it is used by businesses and charities to confirm name and address details. The personal data in the register must always be processed in line with data-protection legislation.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Your name and address will be included in the open register unless you ask for them to be removed. Removing your details from the open register would not affect your right to vote.
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 **Who uses the open register?**
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]
+[^c-16052776f3ba89e4e03d05a9c66d00dc]
 
 Users of the open register include:
 
@@ -1270,43 +1270,43 @@ Users of the open register include:
 - organisations tracing and identifying beneficiaries of wills, pensions and insurance policies
 - private-sector firms to verify details of job applicants.
 
-## SCHEDULE 4 — FORMS[^key-540d0d802526588478a449651ea744b9]
+## SCHEDULE 4 — FORMS[^c-540d0d802526588478a449651ea744b9]
 
 Regulations 46, 47 & 48
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Arrangement of forms
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form A: Official poll card (to be sent to an elector voting in person)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form A1: Official postal poll card (to be sent to an elector voting by post)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form B: Official proxy poll card (to be sent to an appointed proxy voting in person)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form B1: Official proxy postal poll card (to be sent to an appointed proxy voting by post)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form F: Certificate of employment
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form G: Postal voting statement (for use at a parliamentary election taken alone)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form H: Postal voting statement (for use when postal ballots are combined)
 
-[^key-540d0d802526588478a449651ea744b9]
+[^c-540d0d802526588478a449651ea744b9]
 
 Form J: Postal voting statement (for use when a parliamentary poll is combined with another poll but the postal ballots are not combined)
 
@@ -1402,33 +1402,33 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00004]: Footnote: Section 201(2) was substituted by paragraph 69 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and amended by paragraph 6 of Schedule 21 to the Political Parties, Elections and Referendums Act (c. 41) and article 5(b) of [S. I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728).
 
-[^key-f75d78018ad8720fee52eab68fe2a3ed]: Commencement: Reg. 1 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
+[^c-f75d78018ad8720fee52eab68fe2a3ed]: Commencement: Reg. 1 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341): relevant amending enactments are the Counter-Terrorism Act [2008 (c.28)](https://www.legislation.gov.uk/ukpga/2008/28) (Schedules 1 and 9), [SI 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2006/752](https://www.legislation.gov.uk/uksi/2006/752), [2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) and [2009/725](https://www.legislation.gov.uk/uksi/2009/725).
 
-[^key-f3e2b1b75740d25acb7f958e0307ce94]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3198/regulation/2) in force at 6.4.2014 for specified purposes and 10.6.2014 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)[(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-f3e2b1b75740d25acb7f958e0307ce94]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3198/regulation/2) in force at 6.4.2014 for specified purposes and 10.6.2014 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)[(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-cd558a469bc3f81388a6dec1d68740ca]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/3198/regulation/3) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-cd558a469bc3f81388a6dec1d68740ca]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/3198/regulation/3) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
 [^f00006]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 10ZC was inserted by section 1 of and section 10ZD by paragraph 1 of Schedule 1 to the Electoral Registration and Administration Act [2013 c. 6](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-3c00b1d86147d2e2061b1b5e3ea18760]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/3198/regulation/4) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-3c00b1d86147d2e2061b1b5e3ea18760]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/3198/regulation/4) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-e6e2115afb3b76e36fa9d6db167ff455]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/3198/regulation/5) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-e6e2115afb3b76e36fa9d6db167ff455]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/3198/regulation/5) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-dacbc0c8ba79272cc006f3d0b4d20810]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3198/regulation/6) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-dacbc0c8ba79272cc006f3d0b4d20810]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/3198/regulation/6) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-57a32565ac8e9336f6ba3bf8ef3cf351]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/3198/regulation/7) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-57a32565ac8e9336f6ba3bf8ef3cf351]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/3198/regulation/7) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-bb44b1188dd594f40de83cfc654834fa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/3198/regulation/8) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-bb44b1188dd594f40de83cfc654834fa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/3198/regulation/8) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-c624ffe3307da831c3b8002b21c6e833]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3198/regulation/9) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-c624ffe3307da831c3b8002b21c6e833]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/3198/regulation/9) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-fe1bd6600184ce32ed1cccfe892e8f3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/3198/regulation/10) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-fe1bd6600184ce32ed1cccfe892e8f3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/3198/regulation/10) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
 [^f00007]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-9d91b1f45f420e995866b75ff2873de3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/3198/regulation/11) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-9d91b1f45f420e995866b75ff2873de3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/3198/regulation/11) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
 [^f00008]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
@@ -1442,29 +1442,29 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00013]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 13(1) was substituted by section 5(1) of the Northern Ireland (Miscellaneous Provisions) Act [2006 c. 33](https://www.legislation.gov.uk/ukpga/2006/33).
 
-[^key-9d53a12d4b3c93a66b2d2d5e90e69413]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/3198/regulation/12) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-9d53a12d4b3c93a66b2d2d5e90e69413]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/3198/regulation/12) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-57d22d08993d39cd3ad5b0b6412b5435]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/3198/regulation/13) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-57d22d08993d39cd3ad5b0b6412b5435]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2013/3198/regulation/13) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-07b0b7b2988d90d49f2ada3a8bdfd09a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/3198/regulation/14) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-07b0b7b2988d90d49f2ada3a8bdfd09a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2013/3198/regulation/14) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
 [^f00014]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12); paragraph 1 has been amended but no amendments are relevant to these Regulations.
 
 [^f00015]: Footnote: [S. I. 2013/794](https://www.legislation.gov.uk/uksi/2013/794)
 
-[^key-947ac967ce88d1cb7cab5b22fb431c34]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/3198/regulation/15) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-947ac967ce88d1cb7cab5b22fb431c34]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2013/3198/regulation/15) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-26905740f2e42608dac6332bcd009719]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/3198/regulation/16) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-26905740f2e42608dac6332bcd009719]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2013/3198/regulation/16) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-1b1bbde31ed6e11b55fedaad744bebc2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/3198/regulation/17) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-1b1bbde31ed6e11b55fedaad744bebc2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/3198/regulation/17) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-06b73667292583a9cd0862644326926e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/3198/regulation/18) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-06b73667292583a9cd0862644326926e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2013/3198/regulation/18) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-c0e5a51cfd8ea41b93982fe95224cad8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/3198/regulation/19) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-c0e5a51cfd8ea41b93982fe95224cad8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2013/3198/regulation/19) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-25e135a2f0dc0ea2916a8e2e006e3651]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/3198/regulation/20) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-25e135a2f0dc0ea2916a8e2e006e3651]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/3198/regulation/20) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-653e7771e03ff6e88f7f9cdd670a696b]: Commencement: Reg. 21 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
+[^c-653e7771e03ff6e88f7f9cdd670a696b]: Commencement: Reg. 21 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
 
 [^f00016]: Footnote: [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40); section 8 was amended by section 1(1) of the Domestic Abuse (Scotland) Act [2011 asp 13](https://www.legislation.gov.uk/asp/2011/13) and section 16 of, and Schedule 2 to, the Damages (Scotland) Act [2011 asp 7](https://www.legislation.gov.uk/asp/2011/7). Section 8A was inserted by section 1(2) of the Domestic Abuse (Scotland) Act 2011.
 
@@ -1484,71 +1484,71 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00024]: Footnote: [2011 asp 15](https://www.legislation.gov.uk/asp/2011/15).
 
-[^key-dc6cb21cda902977755ca1ae40eb4d81]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-dc6cb21cda902977755ca1ae40eb4d81]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-55924fcad13e75d828afbff78277d7bd]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) inserted (14.5.2014) by [The Representation of the People (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1234)](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4)
+[^c-55924fcad13e75d828afbff78277d7bd]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) inserted (14.5.2014) by [The Representation of the People (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1234)](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4)
 
-[^key-b0ae340f17065bdda1140d1a5799fdc2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/3198/regulation/23) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-b0ae340f17065bdda1140d1a5799fdc2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2013/3198/regulation/23) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-ca9ebe23e51222da785bd83972de3121]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/3198/regulation/24) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-ca9ebe23e51222da785bd83972de3121]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2013/3198/regulation/24) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-884a248f2fb1bb286fde7605d0bbeebb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/3198/regulation/25) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-884a248f2fb1bb286fde7605d0bbeebb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2013/3198/regulation/25) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-060e74ecb0f8ec9daaf0f9de8b421944]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/3198/regulation/26) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-060e74ecb0f8ec9daaf0f9de8b421944]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2013/3198/regulation/26) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-ae24f1697b8b13c6d47c116926a9c04f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/3198/regulation/27) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-ae24f1697b8b13c6d47c116926a9c04f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2013/3198/regulation/27) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-a150af9b3c4309df14795942ce768f57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/3198/regulation/28) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-a150af9b3c4309df14795942ce768f57]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/3198/regulation/28) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-1699fdfab26ed529207f8f0422ddb2d6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/3198/regulation/29) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-1699fdfab26ed529207f8f0422ddb2d6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/3198/regulation/29) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-b819c7e6863a51af6e1ca59877a0e553]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/3198/regulation/30) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-b819c7e6863a51af6e1ca59877a0e553]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2013/3198/regulation/30) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
 [^f00025]: Footnote: “the 1983 Act” is defined by regulation 3(1) of [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) to mean the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2); section 13B was inserted by Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2).
 
-[^key-2d008cc4b3f5cf79b7dc7c28baff4544]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/3198/regulation/31) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-2d008cc4b3f5cf79b7dc7c28baff4544]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/3198/regulation/31) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-6263dfe0f52c0b01783928ca0f3f296e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/3198/regulation/32) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-6263dfe0f52c0b01783928ca0f3f296e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2013/3198/regulation/32) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-3bef383480881d25b87cc8feee05acbc]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/3198/regulation/33) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-3bef383480881d25b87cc8feee05acbc]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/3198/regulation/33) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-b8bc022e1ad68d44866ed3f82ef912cc]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/3198/regulation/34) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-b8bc022e1ad68d44866ed3f82ef912cc]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/3198/regulation/34) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-95b33aba4475a2f99dc1c832ba6c8f29]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/3198/regulation/35) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-95b33aba4475a2f99dc1c832ba6c8f29]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2013/3198/regulation/35) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-8979a168b71538ca181ec13096f5a2ba]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/3198/regulation/36) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-8979a168b71538ca181ec13096f5a2ba]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/3198/regulation/36) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-67881eb54604396589327a4a67b391f4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/3198/regulation/37) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-67881eb54604396589327a4a67b391f4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2013/3198/regulation/37) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-5d861b8ef8819334931c338cc790b048]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/3198/regulation/38) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-5d861b8ef8819334931c338cc790b048]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/3198/regulation/38) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-0cd44bba795b99b4576b6552444b7a91]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2013/3198/regulation/39) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-0cd44bba795b99b4576b6552444b7a91]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2013/3198/regulation/39) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-5cc93781fee29aa78a3857cc3ed45ed9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2013/3198/regulation/40) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-5cc93781fee29aa78a3857cc3ed45ed9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2013/3198/regulation/40) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-24319aa4d851925f5c729cc45f56c88c]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/3198/regulation/41) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
+[^c-24319aa4d851925f5c729cc45f56c88c]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/3198/regulation/41) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
 
 [^f00026]: Footnote: [2011 c.14](https://www.legislation.gov.uk/ukpga/2011/14).
 
-[^key-5d5a83d512ff7f1e06eccb01b3a0fefa]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2013/3198/regulation/42) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
+[^c-5d5a83d512ff7f1e06eccb01b3a0fefa]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2013/3198/regulation/42) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
 
-[^key-f6879834ba3c1f0cc98bec75884e85aa]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2013/3198/regulation/43) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
+[^c-f6879834ba3c1f0cc98bec75884e85aa]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2013/3198/regulation/43) in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4)
 
-[^key-c03cf1e3c56629aad911426e43c84412]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2013/3198/regulation/44) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-c03cf1e3c56629aad911426e43c84412]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2013/3198/regulation/44) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-3ba280bb37235f6e5a236090b155148c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/3198/regulation/45) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-3ba280bb37235f6e5a236090b155148c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/3198/regulation/45) in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-1cc234e8b397765ffcc16043526fa207]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2013/3198/regulation/46) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-1cc234e8b397765ffcc16043526fa207]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2013/3198/regulation/46) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-adea62cf8675629a8db4df757d219cdf]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2013/3198/regulation/47) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-adea62cf8675629a8db4df757d219cdf]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2013/3198/regulation/47) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-5c20b1ee7027cbe91859d02ed411f029]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2013/3198/regulation/48) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-5c20b1ee7027cbe91859d02ed411f029]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2013/3198/regulation/48) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-5aacd5cb3a48da2aefdea8332803e81d]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2013/3198/regulation/49) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-5aacd5cb3a48da2aefdea8332803e81d]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2013/3198/regulation/49) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-d298e1309f9b49d3823c9d7dc80ef181]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/3198/regulation/50) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-d298e1309f9b49d3823c9d7dc80ef181]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/3198/regulation/50) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
 
-[^key-091d5504f64587e1bb95000cec75b8bc]: Commencement: Sch. 1 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
+[^c-091d5504f64587e1bb95000cec75b8bc]: Commencement: Sch. 1 in force at 19.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/2)
 
 [^f00027]: Footnote: Section 9B(1)(c) was inserted by section 10(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
@@ -1606,8 +1606,8 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00054]: Footnote: Paragraph 7E was inserted by section 22 of the [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-51336bf889f88e88c216f3415de90a51]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2) in force at 6.4.2014 for specified purposes and 10.6.2014 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)[(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-51336bf889f88e88c216f3415de90a51]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/3198/schedule/2) in force at 6.4.2014 for specified purposes and 10.6.2014 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)[(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-16052776f3ba89e4e03d05a9c66d00dc]: Commencement: Sch. 3 in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
+[^c-16052776f3ba89e4e03d05a9c66d00dc]: Commencement: Sch. 3 in force at 10.6.2014, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5)
 
-[^key-540d0d802526588478a449651ea744b9]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/3198/schedule/4) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)
+[^c-540d0d802526588478a449651ea744b9]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/3198/schedule/4) in force at 6.4.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/3)

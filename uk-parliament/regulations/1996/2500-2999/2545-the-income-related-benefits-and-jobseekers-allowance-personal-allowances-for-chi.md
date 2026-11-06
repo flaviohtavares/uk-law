@@ -49,24 +49,24 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) In so far as these Regulations amend provisions relating to income support and jobseeker’s allowance, they shall come into force on 7th April 1997.
 
-(3)[^key-03616818d260d79cf26169d016ca29f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-03616818d260d79cf26169d016ca29f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-03616818d260d79cf26169d016ca29f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-03616818d260d79cf26169d016ca29f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In so far as these Regulations amend provisions relating to family credit or disability working allowance, they shall come into force on 7th October 1997 and, in relation to any particular claimant for either of those benefits, these Regulations shall have effect where a claimant has an award of family credit or disability working allowance—[^key-eb4a71064177fe3af56bcdbc3d24ab4c]
+(5) In so far as these Regulations amend provisions relating to family credit or disability working allowance, they shall come into force on 7th October 1997 and, in relation to any particular claimant for either of those benefits, these Regulations shall have effect where a claimant has an award of family credit or disability working allowance—[^c-eb4a71064177fe3af56bcdbc3d24ab4c]
 
 - (a) which expires on 6th October 1997, on 7th October 1997;
 - (b) which expires after 6th October 1997, on the day following the expiration of that award.
 
 (6) In these Regulations—
 
-[^key-6eaaabf1fe577ca4615748959091da2b]...
+[^c-6eaaabf1fe577ca4615748959091da2b]...
 
 “the Disability Working Allowance Regulations" means the Disability Working Allowance (General) Regulations 1991 [^c17687661];
 
 “the Family Credit Regulations" means the Family Credit (General) Regulations 1987 [^c17687671];
 
-[^key-6eaaabf1fe577ca4615748959091da2b]...
+[^c-6eaaabf1fe577ca4615748959091da2b]...
 
 “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c17687691];
 
@@ -98,10 +98,10 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - (a) paragraph 2 of Schedule 2 to the Income Support Regulations [^c17687711];
 - (b) paragraph 2 of Schedule 1 to the Jobseeker’s Allowance Regulations;
-- (c)[^key-4d9f93269a7695fc4d98389e9fb49424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-4d9f93269a7695fc4d98389e9fb49424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4d9f93269a7695fc4d98389e9fb49424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4d9f93269a7695fc4d98389e9fb49424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Housing benefit and council tax benefit: treatment of child care charges[^key-7b2ab00af4d678d36f85f1026aba5941]
+## 3. Housing benefit and council tax benefit: treatment of child care charges[^c-7b2ab00af4d678d36f85f1026aba5941]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,14 +193,14 @@ For paragraphs 3 and 4 in column (1) in Schedule 5 to the Disability Working All
 
 ## 10. Transitional provisions
 
-(1) Where, in relation to a claim for income support, jobseeker’s allowance, [^key-366f9b0561cfd59c95921f7c2770c86b]... a claimant’s weekly applicable amount includes a personal allowance in respect of one or more children or young persons who are, as at the day before the appropriate date these Regulations come into force for the purpose of those benefits in accordance with regulation 1 of these Regulations (referred to in this regulation as “the appropriate date"), aged 11, 16 or 18, the provisions specified in regulation 2(7) of these Regulations shall have effect, for the period specified in paragraph (2) below, as if regulation 2 of these Regulations had not been made.
+(1) Where, in relation to a claim for income support, jobseeker’s allowance, [^c-366f9b0561cfd59c95921f7c2770c86b]... a claimant’s weekly applicable amount includes a personal allowance in respect of one or more children or young persons who are, as at the day before the appropriate date these Regulations come into force for the purpose of those benefits in accordance with regulation 1 of these Regulations (referred to in this regulation as “the appropriate date"), aged 11, 16 or 18, the provisions specified in regulation 2(7) of these Regulations shall have effect, for the period specified in paragraph (2) below, as if regulation 2 of these Regulations had not been made.
 
 (2) The period specified for the purposes of paragraph (1) above shall be, in relation to each particular child or young person referred to in that paragraph, the period beginning on the appropriate date and ending—
 
 - (a) where that child or young person is aged 11 or 16 as at the day before the appropriate date, on 31st August 1997;
 - (b) where that young person is aged 18 as at the day before the appropriate date, on the day preceding the day that young person ceases to be a person of a prescribed description for the purposes of regulation 14 of the Income Support Regulations [^c17687821], regulation 76 of the Jobseeker’s Allowance Regulations, regulation 13 of the Housing Benefit Regulations [^c17687831] or regulation 5 of the Council Tax Benefit Regulations.
 
-(3) Where, in any particular case, the appropriate maximum family credit or, as the case may be, the appropriate maximum disability working allowance includes a credit or allowance in respect of one or more children or young persons who are, as at 6th October 1997, aged 11, 16 or 18, the Family Credit Regulations or, as the case may be, the Disability Working Allowance Regulations shall have effect, for the period specified in paragraph (4) below, as if regulations 5 and 6 or, as the case may be, 8 and 9 of these Regulations or regulation 3 or 4 of the Family Credit and Disability Working Allowance (General) Amendment Regulations 1997[^key-53866b9b1408eb4fdd50b9b7b9516c3f] had not been made.
+(3) Where, in any particular case, the appropriate maximum family credit or, as the case may be, the appropriate maximum disability working allowance includes a credit or allowance in respect of one or more children or young persons who are, as at 6th October 1997, aged 11, 16 or 18, the Family Credit Regulations or, as the case may be, the Disability Working Allowance Regulations shall have effect, for the period specified in paragraph (4) below, as if regulations 5 and 6 or, as the case may be, 8 and 9 of these Regulations or regulation 3 or 4 of the Family Credit and Disability Working Allowance (General) Amendment Regulations 1997[^c-53866b9b1408eb4fdd50b9b7b9516c3f] had not been made.
 
 (4) The period specified for the purposes of paragraph (3) above shall be, in relation to each particular child or young person referred to in that paragraph, the period beginning on 7th October 1997 and ending—
 
@@ -239,11 +239,11 @@ These Regulations do not impose a charge on business.
 
 [^c17687641]: Marginal citation: See section 172(1) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-03616818d260d79cf26169d016ca29f5]: Textual amendment: Reg. 1(3)(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-03616818d260d79cf26169d016ca29f5]: Textual amendment: Reg. 1(3)(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-eb4a71064177fe3af56bcdbc3d24ab4c]: Textual amendment: Words in reg. 1(5) substituted (7.10.1997) by [The Family Credit and Disability Working Allowance (General) Amendment Regulations 1997 (S.I. 1997/806)](https://www.legislation.gov.uk/uksi/1997/806), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/806/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1997/806/regulation/5/2)
+[^c-eb4a71064177fe3af56bcdbc3d24ab4c]: Textual amendment: Words in reg. 1(5) substituted (7.10.1997) by [The Family Credit and Disability Working Allowance (General) Amendment Regulations 1997 (S.I. 1997/806)](https://www.legislation.gov.uk/uksi/1997/806), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/806/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/1997/806/regulation/5/2)
 
-[^key-6eaaabf1fe577ca4615748959091da2b]: Textual amendment: Words in reg. 1(6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-6eaaabf1fe577ca4615748959091da2b]: Textual amendment: Words in reg. 1(6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c17687661]: Marginal citation: [S.I.1991/2887](https://www.legislation.gov.uk/uksi/1991/2887).
 
@@ -255,9 +255,9 @@ These Regulations do not impose a charge on business.
 
 [^c17687711]: Marginal citation: The relevant amending instrument is [S.I.1995/559](https://www.legislation.gov.uk/uksi/1995/559).
 
-[^key-4d9f93269a7695fc4d98389e9fb49424]: Textual amendment: [Reg. 2(7)(c)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/2/7/c)[(d)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/2/7/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-4d9f93269a7695fc4d98389e9fb49424]: Textual amendment: [Reg. 2(7)(c)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/2/7/c)[(d)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/2/7/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-7b2ab00af4d678d36f85f1026aba5941]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/2545/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7b2ab00af4d678d36f85f1026aba5941]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/2545/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c17687761]: Marginal citation: [Regulation 13A](https://www.legislation.gov.uk/uksi/1996/2545/regulation/13A) is inserted by [S.I.1994/1924](https://www.legislation.gov.uk/uksi/1994/1924) and amended by [S.I.1995/516](https://www.legislation.gov.uk/uksi/1995/516).
 
@@ -271,10 +271,10 @@ These Regulations do not impose a charge on business.
 
 [^c17687811]: Marginal citation: The relevant amending instruments are [S.I.1995/482](https://www.legislation.gov.uk/uksi/1995/482), 559 and 1339.
 
-[^key-366f9b0561cfd59c95921f7c2770c86b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/10/1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-366f9b0561cfd59c95921f7c2770c86b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1996/2545/regulation/10/1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c17687821]: Marginal citation: Regulation 14 is amended by [S.I.1988/1445](https://www.legislation.gov.uk/uksi/1988/1445) and 1990/547.
 
 [^c17687831]: Marginal citation: Regulation 13 is amended by [S.I.1990/546](https://www.legislation.gov.uk/uksi/1990/546).
 
-[^key-53866b9b1408eb4fdd50b9b7b9516c3f]: Textual amendment: Words in reg. 10(3) inserted (7.10.1997) by [The Family Credit and Disability Working Allowance (General) Amendment Regulations 1997 (S.I. 1997/806)](https://www.legislation.gov.uk/uksi/1997/806), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/806/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/1997/806/regulation/5/3)
+[^c-53866b9b1408eb4fdd50b9b7b9516c3f]: Textual amendment: Words in reg. 10(3) inserted (7.10.1997) by [The Family Credit and Disability Working Allowance (General) Amendment Regulations 1997 (S.I. 1997/806)](https://www.legislation.gov.uk/uksi/1997/806), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/806/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/1997/806/regulation/5/3)

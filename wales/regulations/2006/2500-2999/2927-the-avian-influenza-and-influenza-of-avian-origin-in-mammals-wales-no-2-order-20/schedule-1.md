@@ -28,8 +28,8 @@ The occupier must make and update daily a record of poultry, other captive birds
 
 - (a) alive;
 - (b) which have died;
-- (c) which show clinical signs of avian influenza or influenza of avian origin[^key-9a82f9a391b3cdd345687b481c13b967];
-- (d) he or she thinks are likely to be infected with avian influenza or influenza of avian origin[^key-c03c881e0227225317633aeba334fe4b];
+- (c) which show clinical signs of avian influenza or influenza of avian origin[^c-9a82f9a391b3cdd345687b481c13b967];
+- (d) he or she thinks are likely to be infected with avian influenza or influenza of avian origin[^c-c03c881e0227225317633aeba334fe4b];
 - (e) born or hatched.
 
 ### 2. Housing or isolation of poultry and other captive birds
@@ -47,7 +47,7 @@ No person is to move any poultry or other captive birds to or from the premises 
 
 ### 4. Prohibition on the removal of other things liable to transmit avian influenza
 
-No person may remove from the premises any carcase, poultry meat, poultry feed, utensils, material, waste, droppings, poultry or other captive bird manure, slurry, used litter or anything else liable to transmit avian influenza virus[^key-6e87759c051fc3a651c379bd7da87c6f] unless he or she is licensed by a veterinary inspector , and observes appropriate biosecurity measures in order to minimise the risk of spread of disease[^key-d3e44ee9ffc99f62e0cd4aa25c664673].
+No person may remove from the premises any carcase, poultry meat, poultry feed, utensils, material, waste, droppings, poultry or other captive bird manure, slurry, used litter or anything else liable to transmit avian influenza virus[^c-6e87759c051fc3a651c379bd7da87c6f] unless he or she is licensed by a veterinary inspector , and observes appropriate biosecurity measures in order to minimise the risk of spread of disease[^c-d3e44ee9ffc99f62e0cd4aa25c664673].
 
 ### 5. Prohibition on the movement of people, animals and vehicles to and from the premises
 
@@ -79,18 +79,18 @@ No person is to tamper with a seal attached under paragraph 7 or remove it befor
 
 ### 9. Disinfection at entrances and exits
 
-The occupier must, in accordance with an inspector's instructions, provide and maintain means of cleansing and[^key-4dab81c0acced9482ee104e934e1a525] disinfection at the entrances and exits of the premises and of buildings housing poultry or other captive birds [^c17275761].
+The occupier must, in accordance with an inspector's instructions, provide and maintain means of cleansing and[^c-4dab81c0acced9482ee104e934e1a525] disinfection at the entrances and exits of the premises and of buildings housing poultry or other captive birds [^c17275761].
 
 ## Annotations
 
-[^key-9a82f9a391b3cdd345687b481c13b967]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/1/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/a/i)
+[^c-9a82f9a391b3cdd345687b481c13b967]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/1/c) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(a)(i)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/a/i)
 
-[^key-c03c881e0227225317633aeba334fe4b]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/1/d) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/a/ii)
+[^c-c03c881e0227225317633aeba334fe4b]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/1/d) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(a)(ii)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/a/ii)
 
-[^key-6e87759c051fc3a651c379bd7da87c6f]: Textual amendment: Word in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/4) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/b)
+[^c-6e87759c051fc3a651c379bd7da87c6f]: Textual amendment: Word in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/4) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/b)
 
-[^key-d3e44ee9ffc99f62e0cd4aa25c664673]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/4) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [18](https://www.legislation.gov.uk/wsi/2022/280/article/18)
+[^c-d3e44ee9ffc99f62e0cd4aa25c664673]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/4) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [18](https://www.legislation.gov.uk/wsi/2022/280/article/18)
 
-[^key-4dab81c0acced9482ee104e934e1a525]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/9) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(c)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/c)
+[^c-4dab81c0acced9482ee104e934e1a525]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2006/2927/schedule/1/paragraph/9) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [43(c)](https://www.legislation.gov.uk/wsi/2025/1357/article/43/c)
 
 [^c17275761]: Marginal citation: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 ([S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by [S.I. 1999/919](https://www.legislation.gov.uk/uksi/1999/919) and [S.I. 2005/583](https://www.legislation.gov.uk/uksi/2005/583); there are other amending instruments but these do not relate to avian influenza.).

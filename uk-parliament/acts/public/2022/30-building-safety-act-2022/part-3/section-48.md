@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Insurance: removal of requirements[^key-17cac59675091d45a04bdaef50899ad1][^key-bc2d6ffc101f7cba9b79945ee087159e][^key-3524da371f59c786232a1dff44c14e93]
+## 48. Insurance: removal of requirements[^c-17cac59675091d45a04bdaef50899ad1][^c-bc2d6ffc101f7cba9b79945ee087159e][^c-3524da371f59c786232a1dff44c14e93]
 
 *Extent: E+W*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-17cac59675091d45a04bdaef50899ad1]: Commencement: S. 48 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
+[^c-17cac59675091d45a04bdaef50899ad1]: Commencement: S. 48 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
 
-[^key-bc2d6ffc101f7cba9b79945ee087159e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/30/section/48) in force at 28.7.2022 for W. by [S.I. 2022/774](https://www.legislation.gov.uk/wsi/2022/774), [reg. 2](https://www.legislation.gov.uk/wsi/2022/774/regulation/2)
+[^c-bc2d6ffc101f7cba9b79945ee087159e]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/30/section/48) in force at 28.7.2022 for W. by [S.I. 2022/774](https://www.legislation.gov.uk/wsi/2022/774), [reg. 2](https://www.legislation.gov.uk/wsi/2022/774/regulation/2)
 
-[^key-3524da371f59c786232a1dff44c14e93]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/30/section/48) in force at 28.7.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/561/regulation/4)
+[^c-3524da371f59c786232a1dff44c14e93]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/30/section/48) in force at 28.7.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/561/regulation/4)

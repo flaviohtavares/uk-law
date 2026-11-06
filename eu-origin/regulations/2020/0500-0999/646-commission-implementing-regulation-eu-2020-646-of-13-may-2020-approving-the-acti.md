@@ -35,34 +35,34 @@ approving the active substance Lavandulyl senecioate as a low-risk substance in 
 
 (Text with EEA relevance) (revoked)
 
-[^key-3e324a68fbdb263f7ae266511335aa91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e324a68fbdb263f7ae266511335aa91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Approval of the active substance[^key-3e324a68fbdb263f7ae266511335aa91]
+## Article 1. Approval of the active substance[^c-3e324a68fbdb263f7ae266511335aa91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-3e324a68fbdb263f7ae266511335aa91]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-3e324a68fbdb263f7ae266511335aa91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-3e324a68fbdb263f7ae266511335aa91]
+## Article 3. Entry into force[^c-3e324a68fbdb263f7ae266511335aa91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e324a68fbdb263f7ae266511335aa91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e324a68fbdb263f7ae266511335aa91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-3e324a68fbdb263f7ae266511335aa91]
+## ANNEX I[^c-3e324a68fbdb263f7ae266511335aa91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-3e324a68fbdb263f7ae266511335aa91]
+## ANNEX II[^c-3e324a68fbdb263f7ae266511335aa91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e324a68fbdb263f7ae266511335aa91]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-3e324a68fbdb263f7ae266511335aa91]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

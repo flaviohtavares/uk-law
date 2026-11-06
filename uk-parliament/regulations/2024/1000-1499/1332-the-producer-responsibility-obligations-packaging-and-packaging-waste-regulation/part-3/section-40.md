@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Recycling obligations[^key-603f61bedd500211705e1f5dc1a00d4d]
+## 40. Recycling obligations[^c-603f61bedd500211705e1f5dc1a00d4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-603f61bedd500211705e1f5dc1a00d4d]: Commencement: Reg. 40 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-603f61bedd500211705e1f5dc1a00d4d]: Commencement: Reg. 40 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

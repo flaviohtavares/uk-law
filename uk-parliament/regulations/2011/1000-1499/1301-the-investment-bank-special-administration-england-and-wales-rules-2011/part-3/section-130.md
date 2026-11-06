@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Company representation[^key-fd57066e2f42f25f0aae1a743ccd5f8f]
+## 130. Company representation[^c-fd57066e2f42f25f0aae1a743ccd5f8f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd57066e2f42f25f0aae1a743ccd5f8f]: Commencement: [Rule 130](https://www.legislation.gov.uk/uksi/2011/1301/rule/130) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fd57066e2f42f25f0aae1a743ccd5f8f]: Commencement: [Rule 130](https://www.legislation.gov.uk/uksi/2011/1301/rule/130) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

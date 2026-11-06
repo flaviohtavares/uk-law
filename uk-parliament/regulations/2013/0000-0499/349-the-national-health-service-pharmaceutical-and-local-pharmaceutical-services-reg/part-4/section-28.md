@@ -38,7 +38,7 @@ in the circumstances set out in paragraph (2).
 - (b) the applicant is seeking to exercise that right after ceasing to provide local pharmaceutical services under the LPS scheme as a consequence of entering into which, or of the variation of which, the applicant was given the right of return; and
 - (c) the granting of the right of return arose out of the provision of the local pharmaceutical services which the applicant is ceasing to provide.
 
-(3) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must refuse an application to which paragraph (1) applies, unless—
+(3) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must refuse an application to which paragraph (1) applies, unless—
 
 - (a) the change from providing local pharmaceutical services to providing pharmaceutical services will not give rise to any interruption in the receipt and dispensing of prescriptions by the applicant (except for such period as NHS England may for good cause allow); and
 - (b) any conditions in the relevant determination of the right of return are satisfied.
@@ -51,4 +51,4 @@ in the circumstances set out in paragraph (2).
 
 [^c21646831]: Marginal citation: [S.I. 2006/552](https://www.legislation.gov.uk/uksi/2006/552). These Regulations are revoked by Schedule 10.
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

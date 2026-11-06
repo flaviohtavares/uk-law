@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Frameworks: competitive selection process[^key-9789dbe7cc71758866d885326b534f5e][^key-509e630a6775beb9d0d433ccbd49a3b4][^key-883aac52d60436d2b2d251dad0679f60]
+## 46. Frameworks: competitive selection process[^c-9789dbe7cc71758866d885326b534f5e][^c-509e630a6775beb9d0d433ccbd49a3b4][^c-883aac52d60436d2b2d251dad0679f60]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9789dbe7cc71758866d885326b534f5e]: Commencement: S. 46 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-9789dbe7cc71758866d885326b534f5e]: Commencement: S. 46 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-509e630a6775beb9d0d433ccbd49a3b4]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/54/section/46) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-509e630a6775beb9d0d433ccbd49a3b4]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/54/section/46) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-883aac52d60436d2b2d251dad0679f60]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/2023/54/section/46) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-883aac52d60436d2b2d251dad0679f60]: Modification: [S. 46](https://www.legislation.gov.uk/ukpga/2023/54/section/46) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

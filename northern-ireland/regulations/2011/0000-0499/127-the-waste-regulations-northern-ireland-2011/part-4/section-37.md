@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Amendment of regulation 2: Offences[^key-8f36f0ddd21da39c438d66147ddd014f]
+## 37. Amendment of regulation 2: Offences[^c-8f36f0ddd21da39c438d66147ddd014f]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f36f0ddd21da39c438d66147ddd014f]: Commencement: Reg. 37 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-8f36f0ddd21da39c438d66147ddd014f]: Commencement: Reg. 37 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00027]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23)

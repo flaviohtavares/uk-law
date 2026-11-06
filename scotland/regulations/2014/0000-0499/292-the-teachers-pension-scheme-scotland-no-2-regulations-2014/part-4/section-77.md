@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Pension accounts for pension credit members[^key-88a661fc67d0b5901997e0216a5f2cae]
+## 77. Pension accounts for pension credit members[^c-88a661fc67d0b5901997e0216a5f2cae]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88a661fc67d0b5901997e0216a5f2cae]: Commencement: [Reg. 77](https://www.legislation.gov.uk/ssi/2014/292/regulation/77) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-88a661fc67d0b5901997e0216a5f2cae]: Commencement: [Reg. 77](https://www.legislation.gov.uk/ssi/2014/292/regulation/77) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

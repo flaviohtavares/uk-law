@@ -46,7 +46,7 @@ Coming into operation
 
 The Department of Economic Development[^f00001], in exercise of the powers conferred on it by Article 58A(1), (5), (6), (7) and (8)[^f00002], 59(1), (2)[^f00003], (2A)[^f00004], (2B), (2D)[^f00005], (3), (4)[^f00006], (6A)[^f00007], (6B), (7) and (8)[^f00008] and 80(3) of the Industrial Relations (Northern Ireland) Order 1976[^f00009], Article 26(1) of the Health and Safety at Work (Northern Ireland) Order 1978[^f00010], Article 30(1) of the Industrial Training (Northern Ireland) Order 1984[^f00011] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and revocations[^key-1a0af7f71ceab5dfb5e803c679d22193]
+## 1. Citation, commencement and revocations[^c-1a0af7f71ceab5dfb5e803c679d22193]
 
 (1) These Regulations may be cited as the Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 1996 and the Rules of Procedure contained in Schedules 1, 2, 3, 4 and 5 may be referred to, respectively, as—
 
@@ -69,7 +69,7 @@ The Department of Economic Development[^f00001], in exercise of the powers confe
 - (g) the Industrial Tribunals (Rules of Procedure) (Equal Value Amendment) Regulations (Northern Ireland) 1984[^f00018]; and
 - (h) the Industrial Tribunals (Miscellaneous Amendments) Regulations (Northern Ireland) 1989[^f00019].
 
-## 2. Interpretation[^key-d81c553f87af0f71c19a421b4e85be25]
+## 2. Interpretation[^c-d81c553f87af0f71c19a421b4e85be25]
 
 (1) In these Regulations—
 
@@ -125,13 +125,13 @@ The Department of Economic Development[^f00001], in exercise of the powers confe
 - “decision” in relation to a tribunal includes a direction under Article 68(3) of the Order of 1976 and any other order which is not an interlocutory order; and
 - “non-discrimination notice” means a notice under Article 67 of the Order of 1976.
 
-## 3. Industrial tribunals[^key-b6a1c880132edca37b160568e867100d]
+## 3. Industrial tribunals[^c-b6a1c880132edca37b160568e867100d]
 
 (1) There shall continue to be tribunals established for the purposes of exercising the jurisdiction conferred on them by or under the Order of 1984 or any other statutory provision.
 
 (2) The President or Vice-President shall determine at what time and in what place the tribunals shall sit.
 
-## 4. Panels of chairmen and members of tribunals[^key-a532805a711e40da09e10ec48a5790ee]
+## 4. Panels of chairmen and members of tribunals[^c-a532805a711e40da09e10ec48a5790ee]
 
 (1) There shall be—
 
@@ -142,7 +142,7 @@ The Department of Economic Development[^f00001], in exercise of the powers confe
 
 (2) Members of the panels constituted under these Regulations shall hold and vacate office under the terms of the instrument under which they are appointed but may resign their office by notice in writing to the Department; and any such member who ceases to hold office shall be eligible for reappointment.
 
-## 5. Composition of tribunals[^key-b29291c97fb9d37d9a230612b5947cc5]
+## 5. Composition of tribunals[^c-b29291c97fb9d37d9a230612b5947cc5]
 
 (1) For each hearing of any matter before a tribunal the President or Vice-President shall, subject to paragraph (5), select a chairman from the panel of chairmen appointed under regulation 4(1)(*a*) and the President and Vice-President may select themselves.
 
@@ -154,7 +154,7 @@ The Department of Economic Development[^f00001], in exercise of the powers confe
 
 (5) Paragraph (1) does not apply where the Secretary of State has issued a direction in accordance with Article 58A(7) of the No. 1 Order[^f00028] (direction on the grounds of national security) that proceedings be heard and determined by the President alone.
 
-## 6. Proceedings of tribunals[^key-8ccff4dd983e39cd8d0987a200a7dd1c]
+## 6. Proceedings of tribunals[^c-8ccff4dd983e39cd8d0987a200a7dd1c]
 
 (1) Subject to the following paragraphs, the rules in Schedule 1 shall apply in relation to all proceedings before a tribunal except where separate rules of procedure made under any other statutory provision are applicable.
 
@@ -172,15 +172,15 @@ The Department of Economic Development[^f00001], in exercise of the powers confe
 
 (6) The rules in Schedule 5 shall apply in relation to an appeal against a non-discrimination notice under Article 68 of the Order of 1976[^f00031].
 
-## 7. Register[^key-6e32771aa6575293e629a2de30eb3e00]
+## 7. Register[^c-6e32771aa6575293e629a2de30eb3e00]
 
 The Secretary shall maintain a Register of applications, appeals and decisions which shall be open to the inspection of any person without charge at all reasonable hours.
 
-## 8. Proof of decisions of tribunals[^key-e6c6a3733a42ae7acc569f32c1e89c63]
+## 8. Proof of decisions of tribunals[^c-e6c6a3733a42ae7acc569f32c1e89c63]
 
 The production in any proceedings in any court of a document purporting to be certified by the Secretary to be a true copy of an entry of a decision in the Register shall, unless the contrary is proved, be sufficient evidence of the document and the facts stated therein.
 
-## 9. Transitional provisions relating to Rules of Procedure[^key-51a7ac816c5b7eb6cbfe343569d4eb50]
+## 9. Transitional provisions relating to Rules of Procedure[^c-51a7ac816c5b7eb6cbfe343569d4eb50]
 
 (1) The rules in Schedules 1, 2, 3, 4 and 5 (in this Regulation referred to as “the new rules”) shall apply in all proceedings to which they relate, irrespective of when those proceedings were commenced, as from 1st June 1996, and the Rules of Procedure in—
 
@@ -210,7 +210,7 @@ Assistant Secretary
 
 Regulations 2(2), 6(1), (2) and (3) and 9(1)
 
-### 1. Originating application[^key-210bd6f1a31446cf4446df2cee3567b0]
+### 1. Originating application[^c-210bd6f1a31446cf4446df2cee3567b0]
 
 (1) Where proceedings are brought by an applicant, they shall be instituted by the applicant presenting to the Secretary an originating application, which shall be in writing and shall set out—
 
@@ -229,7 +229,7 @@ provided that such an organisation or association shall not be treated as a resp
 
 (4) Where proceedings are referred to a tribunal by a court, these rules shall be applied to them, except where the rules are inappropriate, as if the proceedings had been instituted by the presentation of an originating application.
 
-### 2. Action upon receipt of originating application[^key-675178909693e4fde39568c7b6078cf1]
+### 2. Action upon receipt of originating application[^c-675178909693e4fde39568c7b6078cf1]
 
 (1) Upon receiving an originating application the Secretary shall—
 
@@ -241,7 +241,7 @@ provided that such an organisation or association shall not be treated as a resp
 
 (3) The Secretary shall notify the parties that in every case where a statutory provision provides for conciliation, the conciliation services of the Agency are available to them.
 
-### 3. Appearance by respondent[^key-8754fe92f27a260d3aabcc90468afa92]
+### 3. Appearance by respondent[^c-8754fe92f27a260d3aabcc90468afa92]
 
 (1) A respondent shall, within 14 days of receiving the copy of the originating application, enter an appearance to the proceedings by presenting to the Secretary a written notice of appearance—
 
@@ -267,7 +267,7 @@ and in the rules which follow, the word “party” only includes such a respond
 
 (5) A chairman shall not refuse such an application unless he has sent notice to the person wishing to enter an appearance giving that person an opportunity to show cause why an extension should be granted.
 
-### 4. Power to require further particulars and attendance of witnesses and to grant discovery[^key-18b6e466887d652ca4a19f332f231b66]
+### 4. Power to require further particulars and attendance of witnesses and to grant discovery[^c-18b6e466887d652ca4a19f332f231b66]
 
 (1) A tribunal may, on the application of a party made either by notice to the Secretary or at the hearing of the originating application, or of its own motion, make an order, as may be granted by a county court, to—
 
@@ -305,7 +305,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (7) If a requirement imposed under paragraph (1) or (3) is not complied with, a tribunal, before or at the hearing, may strike out the whole or part of the originating application, or, as the case may be, of the notice of appearance, and, where appropriate, direct that a respondent shall be debarred from defending altogether; but a tribunal shall not so strike out or direct unless it has sent notice to the party who has not complied with the requirement giving him an opportunity to show cause why the tribunal should not do so.
 
-### 5. Time and place of hearing[^key-aed850735b831f0e2b001373bb92ac67]
+### 5. Time and place of hearing[^c-aed850735b831f0e2b001373bb92ac67]
 
 (1) The President or Vice-President shall fix the date, time and place of the hearing of the originating application and the Secretary shall send to each party a notice of hearing together with information and guidance as to attendance at the hearing, witnesses and the bringing of documents, representation by another person and the making of written representations.
 
@@ -314,13 +314,13 @@ that party or person may make an application to the tribunal to vary or set asid
 - (a) where the Secretary has agreed a shorter time with the parties; or
 - (b) on an application for interim relief made under Article 39 of the No. 1 Order[^f00041].
 
-### 6. Entitlement to bring or contest the proceedings[^key-700858b13e8202b7c1c200ba03a03a2a]
+### 6. Entitlement to bring or contest the proceedings[^c-700858b13e8202b7c1c200ba03a03a2a]
 
 (1) A tribunal may at any time before the hearing of an originating application, on the application of a party made by notice to the Secretary or of its own motion, hear and determine any issue relating to the entitlement of any party to bring or contest the proceedings to which the originating application relates.
 
 (2) A tribunal shall not determine such an issue unless the Secretary has sent notice to each of the parties giving them an opportunity to submit representations in writing and to advance oral argument before the tribunal.
 
-### 7. Pre-hearing review[^key-c3c0020008cfe4c56ffa91ed99a1cd80]
+### 7. Pre-hearing review[^c-c3c0020008cfe4c56ffa91ed99a1cd80]
 
 (1) A tribunal may at any time before the hearing of an originating application, on the application of a party made by notice to the Secretary or of its own motion, conduct a pre-hearing review, consisting of a consideration of—
 
@@ -354,7 +354,7 @@ the tribunal shall strike out the originating application or notice of appearanc
 
 (10) Paragraph (9) shall not apply where, acting pursuant to a direction issued by the Secretary of State in accordance with Article 58A(7) of the No. 1 Order the President has conducted a pre-hearing review alone.
 
-### 8. The hearing[^key-f195d54095d189f3c31403c7fb4e0398]
+### 8. The hearing[^c-f195d54095d189f3c31403c7fb4e0398]
 
 (1) Any hearing of an originating application shall be heard by a tribunal composed in accordance with Article 58A(1), (2), (3) or (7) of the No. 1 Order[^f00043].
 
@@ -372,7 +372,7 @@ the tribunal shall strike out the originating application or notice of appearanc
 
 (5) The Department if it so elects shall be entitled to appear as if it were a party and be heard at any hearing of or in connection with an originating application in proceedings which may involve a payment out of the Northern Ireland National Insurance Fund and in that event it shall be treated for the purposes of these Rules as if it were a party.
 
-### 9. Procedure at hearing[^key-cf15dbb1617220f2e21e2add12233c23]
+### 9. Procedure at hearing[^c-cf15dbb1617220f2e21e2add12233c23]
 
 (1) The tribunal shall, so far as it appears to it appropriate, seek to avoid formality in its proceedings and shall not be bound by any statutory provision or rule of law relating to the admissibility of evidence in proceedings before the courts of law. The tribunal shall make such enquiries of persons appearing before it and witnesses as it considers appropriate and shall otherwise conduct the hearing in such manner as it considers most appropriate for the clarification of the issues before it and generally to the just handling of the proceedings.
 
@@ -382,7 +382,7 @@ the tribunal shall strike out the originating application or notice of appearanc
 
 (4) A tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-### 10. Decision of tribunal[^key-e4e02a22e24efba71402803e570eddde]
+### 10. Decision of tribunal[^c-e4e02a22e24efba71402803e570eddde]
 
 (1) Where a tribunal is composed of three members its decision may be taken by a majority; and if a tribunal is composed of two members only, the chairman shall have a second or casting vote.
 
@@ -430,7 +430,7 @@ the Secretary shall alter any entry in the Register which is affected to conform
 
 (11) Where this rule requires a document to be signed by the chairman of a tribunal composed of three or two persons, but by reason of death or incapacity the chairman is unable to sign it, the document shall be signed by the other members or member of the tribunal, who shall certify that the chairman is unable to sign.
 
-### 11. Review of tribunal’s decision[^key-ec8c8779fc5d2610e36d7599da86e0fb]
+### 11. Review of tribunal’s decision[^c-ec8c8779fc5d2610e36d7599da86e0fb]
 
 (1) Subject to the provisions of this rule, a tribunal may, on the application of a party or of its own motion, review any decision on the grounds that—
 
@@ -460,7 +460,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (7) On reviewing its decision a tribunal may confirm the decision, or vary or revoke the decision under the chairman’s hand; and if it revokes the decision, the tribunal shall order a re-hearing before either the same or a differently constituted tribunal.
 
-### 12. Costs[^key-52e1e9ea5311d12129d66f557680d2a3]
+### 12. Costs[^c-52e1e9ea5311d12129d66f557680d2a3]
 
 (1) Where, in the opinion of the tribunal, a party has in bringing or conducting the proceedings acted scandalously, frivolously, vexatiously, abusively, disruptively or otherwise unreasonably, the tribunal may make—
 
@@ -501,7 +501,7 @@ the tribunal shall consider whether to award costs against that party on the gro
 
 and if the amount of the deposit exceeds the amount of the award of costs, the balance shall be refunded to the party who paid that deposit.
 
-### 13. Miscellaneous powers[^key-b8d56e868ff19f722fa54edb0102cb13]
+### 13. Miscellaneous powers[^c-b8d56e868ff19f722fa54edb0102cb13]
 
 (1) Subject to the provisions of these Rules, a tribunal may regulate its own procedure.
 
@@ -533,7 +533,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (9) Any act required or authorised by rule 3(4) and (5), 13(7) or 15(1) to be done by a chairman may be done by a tribunal or on the direction of the President, Vice-President or a chairman.
 
-### 14. Restricted reporting orders[^key-0d10976b3b1a4219c8b6512a2125c14a]
+### 14. Restricted reporting orders[^c-0d10976b3b1a4219c8b6512a2125c14a]
 
 (1) In any case which involves allegation of sexual misconduct the tribunal may at any time before promulgation of its decision in respect of an originating application, either on the application of a party made by notice to the Secretary or of its own motion, make a restricted reporting order.
 
@@ -549,7 +549,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (5) For the purposes of this rule “promulgation” occurs on the date recorded as being the date on which the document recording the determination of the originating application was sent to the parties.
 
-### 15. Extension of time[^key-eb4e2dc81f9eb3d2f18ea8a7ba838352]
+### 15. Extension of time[^c-eb4e2dc81f9eb3d2f18ea8a7ba838352]
 
 (1) A chairman may on the application of a party or of his own motion extend the time for doing any act appointed by or under these Rules and may do so whether or not the time so appointed has expired.
 
@@ -557,7 +557,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (3) The Secretary shall give notice to each of the parties of any extension of time granted under this rule.
 
-### 16. Directions[^key-e9073fae835fb3b10a7959ea7babb63f]
+### 16. Directions[^c-e9073fae835fb3b10a7959ea7babb63f]
 
 (1) A tribunal may at any time, on the application of a party or of its own motion, give directions on any matter arising in connection with the proceedings.
 
@@ -565,7 +565,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (3) A tribunal shall not grant an application under paragraph (1) without giving each party the opportunity to make oral or written representations in relation to the directions.
 
-### 17. Joinder and representative respondents[^key-6cee8ef5b06da45257996488c8090f2c]
+### 17. Joinder and representative respondents[^c-6cee8ef5b06da45257996488c8090f2c]
 
 (1) A tribunal may at any time, on the application of any person made by notice to the Secretary or of its own motion, direct any person against whom any relief is sought to be joined as a party, and give such consequential directions as it considers necessary.
 
@@ -573,7 +573,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (3) Where there are a number of persons having the same interest in an originating application, one or more of them may be cited as the person or persons against whom relief is sought, or may be authorised by the tribunal, before or at the hearing, to defend on behalf of all the persons so interested.
 
-### 18. Combined proceedings[^key-84ff79cc01ecb31529cbdeb9b3ad6094]
+### 18. Combined proceedings[^c-84ff79cc01ecb31529cbdeb9b3ad6094]
 
 (1) Where there are two or more originating applications pending before the tribunals, and on the application of a party made by notice to the Secretary or of its own motion, it appears to a tribunal, that—
 
@@ -590,7 +590,7 @@ the tribunal may order that such of the originating applications as may be speci
 
 (3) The tribunal may, on the application of a party made by notice to the Secretary or of its own motion, vary or set aside an order made under this rule but shall not do so unless it has given each party an opportunity to make either oral or written representations before the order is varied or set aside.
 
-### 19. Notices, etc.[^key-47397c35985d29ab119ed5005031c101]
+### 19. Notices, etc.[^c-47397c35985d29ab119ed5005031c101]
 
 (1) Any notice given under these Rules shall be in writing.
 
@@ -633,7 +633,7 @@ and a notice or document sent or given to the representative of a party authoris
 
 Regulations 2(2), 6(3) and 9(1)
 
-### 4. Power to require further particulars and attendance of witnesses and to grant discovery[^key-28855ba8311cac2083415a52424e92a4]
+### 4. Power to require further particulars and attendance of witnesses and to grant discovery[^c-28855ba8311cac2083415a52424e92a4]
 
 (1) A tribunal may, on the application of a party made either by notice to the Secretary or at the hearing of the originating application, or of its own motion, make an order, as may be granted by a county court to—
 
@@ -683,7 +683,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (7) If a requirement imposed under paragraph (1) or (3) is not complied with, a tribunal, before or at the hearing, may strike out the whole or part of the originating application, or, as the case may be, of the notice of appearance, and, where appropriate, direct that a respondent shall be debarred from defending altogether: but a tribunal shall not so strike out or direct unless it has sent notice to the party who has not complied with the requirement giving him an opportunity to show cause why the tribunal should not do so.
 
-### 8A. Procedure relating to expert’s report[^key-40d33b3748694654436d61e451812dff]
+### 8A. Procedure relating to expert’s report[^c-40d33b3748694654436d61e451812dff]
 
 (1) In any case involving an equal value claim where a question arises as to whether any work is of equal value to other work in terms of the demands made on the person employed on the work (for instance under such headings as effort, skill and decision) (in this rule hereinafter referred to as “the question”), a tribunal shall, before considering the question, except in cases to which section 2A(1)(*a*) of the Act of 1970 applies, require an expert to prepare a report with respect to the question and the requirement shall be made in accordance with paragraphs (2) and (3).
 
@@ -758,7 +758,7 @@ the tribunal, may if it thinks fit, determine not to admit the report, and in su
 
 (18) Where a tribunal has determined under paragraph (13) not to admit a report, that report shall be treated for all purposes (other than the award of costs or allowances under rule 12) connected with the proceedings as if it had not been received by the tribunal and no further account shall be taken of it, and the requirement on the expert to prepare a report shall lapse.
 
-### 9. Procedure at hearing[^key-f42e451ea945b880431914bb3af051d6]
+### 9. Procedure at hearing[^c-f42e451ea945b880431914bb3af051d6]
 
 (1) The tribunal shall, so far as it appears to it appropriate, seek to avoid formality in its proceedings and shall not be bound by any statutory provision or rule of law relating to the admissibility of evidence in proceedings before the courts of law. The tribunal shall make such enquiries of persons appearing before it and witnesses as it considers appropriate and, subject to paragraphs (2A), (2B), (2C), (2D) and (2E), shall otherwise conduct the hearing in such manner as it considers most appropriate for the clarification of the issues before it and generally to the just handling of the proceedings.
 
@@ -781,7 +781,7 @@ the tribunal, may if it thinks fit, determine not to admit the report, and in su
 
 (4) A tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-### 10. Decision of tribunal[^key-5a44618f99ba5fdd4500573b0f0ea853]
+### 10. Decision of tribunal[^c-5a44618f99ba5fdd4500573b0f0ea853]
 
 (1) Where a tribunal is composed of three members its decision may be taken by a majority; and if a tribunal is composed of two members only, the chairman shall have a second or casting vote.
 
@@ -820,7 +820,7 @@ the Secretary shall alter any entry in the Register which is affected to conform
 
 (11) Where this rule requires a document to be signed by the chairman of a tribunal composed of three or two persons, but by reason of death or incapacity the chairman is unable to sign it, the document shall be signed by the other members or member of the tribunal, who shall certify that the chairman is unable to sign.
 
-### 12. Costs[^key-166c08658588b3c8dd3dad2a3e61e63f]
+### 12. Costs[^c-166c08658588b3c8dd3dad2a3e61e63f]
 
 (1) Where, in the opinion of the tribunal, a party has in bringing or conducting the proceedings acted scandalously, frivolously, vexatiously, abusively, disruptively or otherwise unreasonably, the tribunal may make—
 
@@ -863,7 +863,7 @@ the tribunal shall consider whether to award costs against that party on the gro
 
 and if the amount of the deposit exceeds the amount of the award of costs, the balance shall be refunded to the party who paid that deposit.
 
-### 13. Miscellaneous powers[^key-908591c43cfeda99108edcbad6c1b632]
+### 13. Miscellaneous powers[^c-908591c43cfeda99108edcbad6c1b632]
 
 (1) Subject to the provisions of these Rules, a tribunal may regulate its own procedure.
 
@@ -901,7 +901,7 @@ and if the amount of the deposit exceeds the amount of the award of costs, the b
 
 (9) Any act required or authorised by rule 3(4) and (5) in Schedule 1, rule 13(7) or rule 15(1) in Schedule 1 to be done by a chairman may be done by a tribunal or on the direction of the President, Vice-President or a chairman.
 
-### 19. Notices, etc.[^key-77a8ad52dd98a64aceebdfd127e7af05]
+### 19. Notices, etc.[^c-77a8ad52dd98a64aceebdfd127e7af05]
 
 (1) Any notice given under these Rules shall be in writing.
 
@@ -944,11 +944,11 @@ and a notice or document sent or given to the representative of a party authoris
 
 Regulations 2(3), 6(4) and 9(1)
 
-### 1. Notice of appeal[^key-7e7447c9bfb93ba40884041a4fce3c61]
+### 1. Notice of appeal[^c-7e7447c9bfb93ba40884041a4fce3c61]
 
 An appeal against an assessment to a levy shall be instituted by the appellant sending to the Board a notice of appeal in Form 1, setting out the grounds of the appeal.
 
-### 2. Action by the Board upon receipt of appeal[^key-80a89b7c7fd3cd6c18426686cf8d8751]
+### 2. Action by the Board upon receipt of appeal[^c-80a89b7c7fd3cd6c18426686cf8d8751]
 
 (1) Subject to the provisions of rules 3 and 4, the Board upon receiving the notice of appeal shall send within 21 days to the Secretary—
 
@@ -959,7 +959,7 @@ An appeal against an assessment to a levy shall be instituted by the appellant s
 
 (2) Failure to comply with any provision of this rule or rule 3 shall not render the appeal or anything done in pursuance thereof invalid.
 
-### 3. Further particulars of appeal[^key-88a57f886af1b10e456b1e91d8ca4c69]
+### 3. Further particulars of appeal[^c-88a57f886af1b10e456b1e91d8ca4c69]
 
 (1) Subject to rule 4, this rule applies in a case where the Board upon receiving the notice of appeal requires further particulars of the grounds on which the appellant intends to rely and of any facts and contentions relevant thereto.
 
@@ -978,13 +978,13 @@ An appeal against an assessment to a levy shall be instituted by the appellant s
 - (a) the fiftieth day after the receipt of the notice of appeal by the Board; or
 - (b) if the Board has allowed a further period for the sending of further particulars under paragraph (3), the seventh day after the expiration of that period.
 
-### 4. Withdrawal of appeal or assessment[^key-326d1653bdedc8fccba23ec3c1789fa3]
+### 4. Withdrawal of appeal or assessment[^c-326d1653bdedc8fccba23ec3c1789fa3]
 
 (1) The appellant may withdraw the notice of appeal by notice given to the Board at any time before the entry of particulars of the appeal in the Register under rule 5(*a*) and in that event no further action shall be taken in relation to the appeal.
 
 (2) Where an assessment to a levy is withdrawn by the Board, no further action shall be taken in relation to the appeal.
 
-### 5. Action by Secretary upon receipt of appeal[^key-2803dfa400683f615d4bf2e48b8ea589]
+### 5. Action by Secretary upon receipt of appeal[^c-2803dfa400683f615d4bf2e48b8ea589]
 
 Upon receiving from the Board the relevant documents in accordance with rules 2(1), 3(4) and (5) the Secretary shall as soon as practicable—
 
@@ -993,7 +993,7 @@ Upon receiving from the Board the relevant documents in accordance with rules 2(
 - (c) give notice to the appellant of the Board’s address for service under these Rules where that address is different from the address specified in the assessment notice; and
 - (d) send to the appellant a copy of any representations in writing by the Board under rule 2(1)(*d*) or 3(4)(*c*).
 
-### 6. Directions for further particulars[^key-614b65904eb11b1ecaf473adc98c84e6]
+### 6. Directions for further particulars[^c-614b65904eb11b1ecaf473adc98c84e6]
 
 (1) In any case in which an appellant has not sent to the Board further particulars in accordance with a notice sent by the Board under rule 3 the tribunal may, on the application of the Board, by notice direct the appellant to supply such further particulars of the grounds on which he intends to rely and of any facts and contentions relevant thereto as may be specified in the notice, and the appellant shall send such particulars to the Secretary within such time as the tribunal shall direct.
 
@@ -1003,7 +1003,7 @@ Upon receiving from the Board the relevant documents in accordance with rules 2(
 
 (4) A tribunal may at any time by notice direct the Board to furnish any particulars relating to the assessment to a levy which appear to be requisite for the decision of the appeal, and thereupon the Board shall send those particulars to the Secretary and to the appellant.
 
-### 7. Attendance of witnesses and discovery[^key-2602787983befdd14486d771e5c60545]
+### 7. Attendance of witnesses and discovery[^c-2602787983befdd14486d771e5c60545]
 
 (1) A tribunal may on the application of the appellant or the Board made either by notice to the Secretary or at the hearing of the appeal or of its own motion make an order as may be granted by the county court to—
 
@@ -1021,11 +1021,11 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (3) Every document containing a requirement imposed under paragraph (1) shall contain a reference to the fact, that, under Article 59(11) of the No. 1 Order any person who without reasonable excuse fails to comply with any such requirement shall be liable on summary conviction to a fine and the document shall state the amount of the current maximum fine.
 
-### 8. Time and place of hearing of appeal[^key-856fb6723efbf1cffe67c42db5481428]
+### 8. Time and place of hearing of appeal[^c-856fb6723efbf1cffe67c42db5481428]
 
 The President or Vice-President shall fix the date, time and place of the hearing of an appeal, and the Secretary shall, not less than 14 days before the date so fixed, send to the appellant and to the Board a notice of hearing in Form 2.
 
-### 9. The hearing[^key-fbfe6fc075427519dda2e23d1704e3a7]
+### 9. The hearing[^c-fbfe6fc075427519dda2e23d1704e3a7]
 
 (1) Any hearing of an appeal shall be heard by a tribunal composed in accordance with Article 58A(1), (2), (3) or (7) of the No. 1 Order[^f00048].
 
@@ -1041,7 +1041,7 @@ The President or Vice-President shall fix the date, time and place of the hearin
 
 (4) If the appellant or the Board wishes to submit written representations for consideration by a tribunal at the hearing of the originating application they shall send the representations to the Secretary not less than 7 days before the hearing and shall at the same time send a copy to the other party.
 
-### 10. Procedure at hearing[^key-9acc34cbe95aeb47740a0183e09bbbd5]
+### 10. Procedure at hearing[^c-9acc34cbe95aeb47740a0183e09bbbd5]
 
 (1) The tribunal shall, so far as it appears to it appropriate, seek to avoid formality in its proceedings and shall not be bound by any statutory provision or rule of law relating to the admissibility of evidence in proceedings before the courts of law. The tribunal shall make such enquiries of persons appearing before it and witnesses as it considers appropriate and shall otherwise conduct the hearing in such manner as it considers most appropriate for the clarification of the issues before it and generally to the just handling of the proceedings.
 
@@ -1051,7 +1051,7 @@ The President or Vice-President shall fix the date, time and place of the hearin
 
 (4) A tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-### 11. Decision of tribunal[^key-c16d8e084f0c69534d058994ba49d6cf]
+### 11. Decision of tribunal[^c-c16d8e084f0c69534d058994ba49d6cf]
 
 (1) Where a tribunal is composed of three members its decision may be taken by a majority; and if a tribunal is composed of two members only, the chairman shall have a second or casting vote.
 
@@ -1073,7 +1073,7 @@ and in that event a specification of the reasons shall be sent to the appellant 
 
 (7) Where this rule requires a document to be signed by the chairman of a tribunal composed of three or two persons, but by reason of death or incapacity the chairman is unable to sign it, the document shall be signed by the other members or member of the tribunal, who shall certify that the chairman is unable to sign.
 
-### 12. Costs[^key-21fb24c88fa19e5a30fa9812c6291054]
+### 12. Costs[^c-21fb24c88fa19e5a30fa9812c6291054]
 
 (1) The decision of the tribunal may include—
 
@@ -1082,7 +1082,7 @@ and in that event a specification of the reasons shall be sent to the appellant 
 
 (2) Any costs required by an order under paragraph (1) to be taxed may be taxed in the county court according to such of the scales prescribed by county court rules for proceedings in the county court as shall be directed by the order.
 
-### 13. Miscellaneous powers[^key-9056d81e47ac45f43ec4cd45222a7ad2]
+### 13. Miscellaneous powers[^c-9056d81e47ac45f43ec4cd45222a7ad2]
 
 (1) Subject to the provisions of these Rules, a tribunal may regulate its own procedure.
 
@@ -1104,7 +1104,7 @@ and in that event a specification of the reasons shall be sent to the appellant 
 
 (5) Rule 12 shall apply to an order under paragraph (2)(*d*) dismissing an appeal.
 
-### 14. Applications[^key-6b9415add7400376640af75465e540ee]
+### 14. Applications[^c-6b9415add7400376640af75465e540ee]
 
 (1) An application to the tribunal for an extension of the time appointed by these Rules for doing any act may be made by the appellant or the Board either before or (subject to rule 7(2)) after the expiration of the time so appointed.
 
@@ -1114,7 +1114,7 @@ and in that event a specification of the reasons shall be sent to the appellant 
 
 (4) The Secretary shall give notice to the appellant and to the Board of any extension of time granted by the tribunal or of any directions given by the tribunal in pursuance of these Rules.
 
-### 15. Notices, etc.[^key-9f5f973784b2fc60c83ca98f93ffefe1]
+### 15. Notices, etc.[^c-9f5f973784b2fc60c83ca98f93ffefe1]
 
 (1) Any notice given under these Rules shall be in writing.
 
@@ -1159,7 +1159,7 @@ NOTICE OF HEARING
 
 Regulations 2(4), 6(5) and 9(1)
 
-### 1. Notice of appeal[^key-7c8d9676b45b37c881dfcdf916723cf1]
+### 1. Notice of appeal[^c-7c8d9676b45b37c881dfcdf916723cf1]
 
 An appeal against an improvement notice or prohibition notice shall be commenced by the appellant sending to the Secretary a notice of appeal which shall be in writing and shall set out—
 
@@ -1169,13 +1169,13 @@ An appeal against an improvement notice or prohibition notice shall be commenced
 - (d) particulars of the requirements or directions appealed against; and
 - (e) the grounds of the appeal.
 
-### 2. Time limit for bringing appeal[^key-70c595ae33e19b6025aab19ac1b87beb]
+### 2. Time limit for bringing appeal[^c-70c595ae33e19b6025aab19ac1b87beb]
 
 (1) Subject to paragraph (2), the notice of appeal shall be sent to the Secretary within 21 days from the date of the service on the appellant of the improvement notice or prohibition notice appealed against.
 
 (2) A tribunal may extend the time mentioned in paragraph (1) where it is satisfied, on an application made in writing to the Secretary either before or after the expiration of that time, that it is not or was not reasonably practicable for an appeal to be brought within that time.
 
-### 3. Action upon receipt of notice of appeal[^key-cc6e8de51eab6f2a420685b83c3f26fc]
+### 3. Action upon receipt of notice of appeal[^c-cc6e8de51eab6f2a420685b83c3f26fc]
 
 Upon receiving a notice of appeal the Secretary shall—
 
@@ -1183,7 +1183,7 @@ Upon receiving a notice of appeal the Secretary shall—
 - (b) send a copy of it to the respondent; and
 - (c) give every party notice of the case number of the appeal entered in the Register (which shall thereafter constitute the title of the proceedings) and of the address to which notices and other communications to the Secretary shall be sent.
 
-### 4. Application for direction suspending the operation of a prohibition notice[^key-5aa814414b7588cdc741562948beca59]
+### 4. Application for direction suspending the operation of a prohibition notice[^c-5aa814414b7588cdc741562948beca59]
 
 (1) Where an appeal has been brought against a prohibition notice and an application is made to the tribunal by the appellant in pursuance of Article 26(2)(*b*) of the Order of 1978 for a direction suspending the operation of the notice until the appeal is finally disposed of or withdrawn, the application shall be sent in writing to the Secretary and shall set out—
 
@@ -1192,7 +1192,7 @@ Upon receiving a notice of appeal the Secretary shall—
 
 (2) Upon receiving the application referred to in paragraph (1) the Secretary shall enter particulars of it against the entry in the Register relating to the appeals and shall send a copy of it to the respondent.
 
-### 5. Power to require further particulars and attendance of witnesses and to grant discovery[^key-81fb029e4c7e211151b1175e4a884816]
+### 5. Power to require further particulars and attendance of witnesses and to grant discovery[^c-81fb029e4c7e211151b1175e4a884816]
 
 (1) A tribunal may on the application of a party made either by notice to the Secretary or at the hearing of the appeal or of its own motion make an order as may be granted by a county court to—
 
@@ -1230,7 +1230,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (7) If a requirement imposed under paragraph (1) or (3) is not complied with, a tribunal, before or at the hearing, may strike out the whole or part of the notice of appeal, and, where appropriate, direct that a respondent shall be debarred from defending altogether; but a tribunal shall not so strike out or direct unless it has sent notice to the party who has not complied with the requirement giving him an opportunity to show cause why the tribunal should not do so.
 
-### 6. Time and place of hearing and appointment of assessor[^key-fbc3ec9b66d2fbc7312453ef164c9f1b]
+### 6. Time and place of hearing and appointment of assessor[^c-fbc3ec9b66d2fbc7312453ef164c9f1b]
 
 (1) The President or Vice-President shall fix the date, time and place of the hearing of the appeal and of any application under rule 4, and the Secretary shall not less than 14 days (or such shorter time as may be agreed by him with the parties) before the date so fixed send to each party a notice of hearing together with information and guidance as to attendance at the hearing, witnesses and the bringing of documents (if any), representation by another person and the making of written representations.
 
@@ -1238,7 +1238,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (3) The President or Vice-President may, if he thinks fit, appoint in pursuance of Article 26(3) of the Order of 1978 a person or persons having special knowledge or experience in relation to the subject matter of the appeal to sit with the tribunal as assessor or assessors.
 
-### 7. The hearing[^key-63f6ee77ebd0118469013148e4f78edf]
+### 7. The hearing[^c-63f6ee77ebd0118469013148e4f78edf]
 
 (1) Any hearing of an appeal shall be heard by a tribunal composed in accordance with Article 58A(1), (2), (3) or (7) of the No. 1 Order[^f00051].
 
@@ -1254,7 +1254,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (4) If a party wishes to submit written representations for consideration by a tribunal at the hearing of the appeal, that party shall send such representations to the Secretary not less than 7 days before the hearing and shall at the same time send a copy to the other party.
 
-### 8. Procedure at hearing[^key-98e33f12e939479074a32d744dfabba7]
+### 8. Procedure at hearing[^c-98e33f12e939479074a32d744dfabba7]
 
 (1) The tribunal shall, so far as it appears to it appropriate, seek to avoid formality in its proceedings and shall not be bound by any statutory provision or rule of law relating to the admissibility of evidence in proceedings before the courts of law. The tribunal shall make such enquiries of persons appearing before it and witnesses as it considers appropriate and shall otherwise conduct the hearing in such manner as it considers most appropriate for the clarification of the issues before it and generally to the just handling of the proceedings.
 
@@ -1264,7 +1264,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (4) A tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-### 9. Decision of tribunal[^key-5a99376c469216904a88c19acbc438c8]
+### 9. Decision of tribunal[^c-5a99376c469216904a88c19acbc438c8]
 
 (1) Where a tribunal is composed of three members its decision may be taken by a majority; and if a tribunal is composed of two members only, the chairman shall have a second or casting vote.
 
@@ -1293,7 +1293,7 @@ the Secretary shall alter the entry in the Register to conform with any such cer
 
 (8) Where this rule requires a document to be signed by the chairman of a tribunal composed of three or two persons, but by reason of death or incapacity the chairman is unable to sign it, the document shall be signed by the other members or member of the tribunal, who shall certify that the chairman is unable to sign.
 
-### 10. Review of tribunal’s decision[^key-2f421418bab5eec575cad4163167a350]
+### 10. Review of tribunal’s decision[^c-2f421418bab5eec575cad4163167a350]
 
 (1) Subject to the provisions of this rule a tribunal may on the application of a party or of its own motion review any decision on the grounds that—
 
@@ -1323,7 +1323,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (7) On reviewing its decision a tribunal may confirm the decision, or vary or revoke the decision under the chairman’s hand; and if it revokes the decision, the tribunal shall order a re-hearing before either the same or a differently constituted tribunal.
 
-### 11. Costs[^key-d000d44502e7822962c1b63077263f26]
+### 11. Costs[^c-d000d44502e7822962c1b63077263f26]
 
 (1) Where, in the opinion of the tribunal, an appellant has in bringing or conducting the proceedings acted scandalously, frivolously, vexatiously, abusively, disruptively or otherwise unreasonably, the tribunal may make—
 
@@ -1340,7 +1340,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (4) Any costs required by an order under this rule to be taxed may be taxed in the county court according to such of the scales prescribed by the county court rules for proceedings in the county court as shall be directed by the order.
 
-### 12. Miscellaneous powers[^key-aff720d277c0298ddff2ddd13ba01e1b]
+### 12. Miscellaneous powers[^c-aff720d277c0298ddff2ddd13ba01e1b]
 
 (1) Subject to the provisions of these Rules, a tribunal may regulate is own procedure.
 
@@ -1367,7 +1367,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (5) Rule 11 shall apply to an order under paragraph (2)(*e*) dismissing an appeal or to an order under paragraph (2)(*g*), (*h*) or (*i*).
 
-### 13. Notices, etc.[^key-303d4c9b26200bbcbb0fe32690b2edf2]
+### 13. Notices, etc.[^c-303d4c9b26200bbcbb0fe32690b2edf2]
 
 (1) Any notice given under these Rules shall be in writing.
 
@@ -1401,7 +1401,7 @@ and a notice or document sent or given to the representative of a party authoris
 
 Regulations 2(5), 6(6) and 9(1)
 
-### 1. Notice of appeal and time limit[^key-a12e7da107f2df658fdcf061f28e6798]
+### 1. Notice of appeal and time limit[^c-a12e7da107f2df658fdcf061f28e6798]
 
 An appeal against a non-discrimination notice shall be commenced by the appellant sending to the Secretary a notice of appeal which shall be in writing and shall set out—
 
@@ -1411,7 +1411,7 @@ An appeal against a non-discrimination notice shall be commenced by the appellan
 - (d) particulars of the requirements appealed against; and
 - (e) the grounds of appeal.
 
-### 2. Action upon receipt of notice of appeal[^key-89ebf2fcc8984506828cfebcca8a201e]
+### 2. Action upon receipt of notice of appeal[^c-89ebf2fcc8984506828cfebcca8a201e]
 
 Upon receiving a notice of appeal the Secretary shall—
 
@@ -1419,7 +1419,7 @@ Upon receiving a notice of appeal the Secretary shall—
 - (b) send a copy of it to the Commission; and
 - (c) give every party notice of the case number of the appeal entered in the Register (which shall thereafter constitute the title of the proceedings) and of the address to which notices and other communications to the Secretary shall be sent.
 
-### 3. Power to require further particulars and attendance of witnesses and to grant discovery[^key-8ed6f859a7b067a826433a03bb3eb86a]
+### 3. Power to require further particulars and attendance of witnesses and to grant discovery[^c-8ed6f859a7b067a826433a03bb3eb86a]
 
 (1) A tribunal may, on the application of a party made either by notice to the Secretary or at the hearing of the appeal, or of its own motion, make an order, as may be granted by a county court, to—
 
@@ -1455,13 +1455,13 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (7) If a requirement imposed under paragraph (1) or (3) is not complied with, a tribunal, before or at the hearing, may strike out the whole or part of the notice of appeal, and, where appropriate, direct that a respondent shall be debarred from defending altogether; but a tribunal shall not so strike out or direct unless it has sent notice to the party who has not complied with the requirement giving him an opportunity to show cause why the tribunal should not do so.
 
-### 4. Time and place of hearing[^key-163030b827599d69352febf9b29bfce4]
+### 4. Time and place of hearing[^c-163030b827599d69352febf9b29bfce4]
 
 (1) The President or Vice-President shall fix the date, time and place of the hearing of the appeal and the Secretary shall not less than 14 days (or such shorter time as may be agreed by him with the parties) before the date so fixed send to each party a notice of hearing together with information and guidance as to attendance at the hearing, witnesses and the bringing of documents (if any), representations by another person and the making of written representations.
 
 (2) The Secretary shall also send notice of the hearing to such persons as the President or Vice-President may direct, but the requirement as to the period of 14 days referred to in paragraph (1) shall not apply to any such notice.
 
-### 5. The hearing[^key-6ab3d86cf44551ad3b7c70c2a9402040]
+### 5. The hearing[^c-6ab3d86cf44551ad3b7c70c2a9402040]
 
 (1) Any hearing of an appeal shall be heard by a tribunal composed in accordance with Article 58A(1), (2), (3) or (7) of the No. 1 Order[^f00053].
 
@@ -1477,7 +1477,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (4) If a party wishes to submit written representations for consideration by a tribunal at the hearing of the appeal, that party shall send such representations to the Secretary not less than 7 days before the hearing and shall at the same time send a copy to the other party.
 
-### 6. Procedure at hearing[^key-159f145ea2f491185297335db8216a19]
+### 6. Procedure at hearing[^c-159f145ea2f491185297335db8216a19]
 
 (1) The tribunal shall, so far as it appears to it appropriate, seek to avoid formality in its proceedings and shall not be bound by any statutory provisions or rule of law relating to the admissibility of evidence in proceedings before the courts of law. The tribunal shall make such enquiries of persons appearing before it and witnesses as it considers appropriate and shall otherwise conduct the hearing in such manner as it considers most appropriate for the clarification of the issues before it and generally to the just handling of the proceedings.
 
@@ -1487,7 +1487,7 @@ that party or person may make an application to the tribunal to vary or set asid
 
 (4) A tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-### 7. Decision of tribunal[^key-e55f90114e96f4f65d2e0dee5bea9bdb]
+### 7. Decision of tribunal[^c-e55f90114e96f4f65d2e0dee5bea9bdb]
 
 (1) Where a tribunal is composed of three members its decision may be taken by a majority; and if a tribunal is composed of two members only, the chairman shall have a second or casting vote.
 
@@ -1517,7 +1517,7 @@ the Secretary shall alter the entry in the Register to conform with any such cer
 
 (9) Where this rule requires a document to be signed by the chairman of a tribunal composed of three or two persons, but by reason of death or incapacity the chairman is unable to sign it, the document shall be signed by the other members or member of the tribunal, who shall certify that the chairman is unable to sign.
 
-### 8. Review of tribunal’s decision[^key-21fb162f4ab6bdc519c4ff968950b99a]
+### 8. Review of tribunal’s decision[^c-21fb162f4ab6bdc519c4ff968950b99a]
 
 (1) Subject to the provisions of this rule a tribunal may on the application of a party or of its own motion review any decision on the grounds that—
 
@@ -1547,7 +1547,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (7) On reviewing its decision a tribunal may confirm the decision, or vary or revoke the decision under the chairman’s hand; and if it revokes the decision, the tribunal shall order a re-hearing before either the same or a differently constituted tribunal.
 
-### 9. Costs[^key-4a46a0fdb10da6b8d85d2b989c7edbdc]
+### 9. Costs[^c-4a46a0fdb10da6b8d85d2b989c7edbdc]
 
 (1) Where, in the opinion of the tribunal, an appellant has in bringing or conducting the proceedings acted scandalously, frivolously, vexatiously, abusively, disruptively or otherwise unreasonably, the tribunal may make—
 
@@ -1564,7 +1564,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (4) Any costs required by an order under this rule to be taxed may be taxed in the county court according to such of the scales prescribed by the county court rules for proceedings in the county court as shall be directed by the order.
 
-### 10. Miscellaneous powers[^key-ba9bb617e8828b8d9ec2575a5153e5f9]
+### 10. Miscellaneous powers[^c-ba9bb617e8828b8d9ec2575a5153e5f9]
 
 (1) Subject to the provisions of these Rules, a tribunal may regulate its own procedure.
 
@@ -1592,7 +1592,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (6) Rule 9 shall apply to an order under paragraph (2)(*e*) dismissing an appeal or to an order under paragraph (2)(*g*), (*h*) or (*i*).
 
-### 11. Restricted reporting orders[^key-4953614bddcd8d8b1e05fe9f7dcf94c9]
+### 11. Restricted reporting orders[^c-4953614bddcd8d8b1e05fe9f7dcf94c9]
 
 (1) In any appeal which involves allegations of sexual misconduct the tribunal may at any time before promulgation of its decision, either on the application of a party made by notice to the Secretary or of its own motion, make a restricted reporting order.
 
@@ -1608,7 +1608,7 @@ by a tribunal appointed by either the President or Vice-President.
 
 (5) For the purposes of this rule “promulgation” occurs on the date recorded as being the date on which the document recording the determination of the appeal was sent to the parties.
 
-### 12. Notices, etc.[^key-3368e7c4d2e9b32d9b75e904a5c33e82]
+### 12. Notices, etc.[^c-3368e7c4d2e9b32d9b75e904a5c33e82]
 
 (1) Any notice given under these Rules shall be in writing.
 
@@ -1680,7 +1680,7 @@ The Regulations make the following principal changes—
 
 [^f00011]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159)
 
-[^key-1a0af7f71ceab5dfb5e803c679d22193]: Commencement: Reg. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-1a0af7f71ceab5dfb5e803c679d22193]: Commencement: Reg. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00012]: Footnote: [S.R. & O. (N.I.) 1965 No. 112](https://www.legislation.gov.uk/nisro/1965/112)
 
@@ -1698,7 +1698,7 @@ The Regulations make the following principal changes—
 
 [^f00019]: Footnote: [S.R. 1989 No. 446](https://www.legislation.gov.uk/nisr/1989/446)
 
-[^key-d81c553f87af0f71c19a421b4e85be25]: Commencement: Reg. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-d81c553f87af0f71c19a421b4e85be25]: Commencement: Reg. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00020]: Footnote: [1970 c. 32 (N.I.)](https://www.legislation.gov.uk/apni/1970/32) as amended by [S.R. 1984 No. 16](https://www.legislation.gov.uk/nisr/1984/16)
 
@@ -1716,15 +1716,15 @@ The Regulations make the following principal changes—
 
 [^f00027]: Footnote: [S.I. 1988/1303 (N.I. 13)](https://www.legislation.gov.uk/nisi/1988/1303)
 
-[^key-b6a1c880132edca37b160568e867100d]: Commencement: Reg. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-b6a1c880132edca37b160568e867100d]: Commencement: Reg. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-a532805a711e40da09e10ec48a5790ee]: Commencement: Reg. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-a532805a711e40da09e10ec48a5790ee]: Commencement: Reg. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-b29291c97fb9d37d9a230612b5947cc5]: Commencement: Reg. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-b29291c97fb9d37d9a230612b5947cc5]: Commencement: Reg. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00028]: Footnote: Article 58A(7) was inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 14
 
-[^key-8ccff4dd983e39cd8d0987a200a7dd1c]: Commencement: Reg. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-8ccff4dd983e39cd8d0987a200a7dd1c]: Commencement: Reg. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159)
 
@@ -1732,11 +1732,11 @@ The Regulations make the following principal changes—
 
 [^f00031]: Footnote: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042)
 
-[^key-6e32771aa6575293e629a2de30eb3e00]: Commencement: Reg. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-6e32771aa6575293e629a2de30eb3e00]: Commencement: Reg. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-e6c6a3733a42ae7acc569f32c1e89c63]: Commencement: Reg. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-e6c6a3733a42ae7acc569f32c1e89c63]: Commencement: Reg. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-51a7ac816c5b7eb6cbfe343569d4eb50]: Commencement: Reg. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-51a7ac816c5b7eb6cbfe343569d4eb50]: Commencement: Reg. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00032]: Footnote: [S.R. & O. (N.I.) 1965 No. 112](https://www.legislation.gov.uk/nisro/1965/112) as amended by [S.R. & O. (N.I.) 1966 No. 261](https://www.legislation.gov.uk/nisro/1966/261), [S.R. & O. (N.I.) 1967 No. 109](https://www.legislation.gov.uk/nisro/1967/109) and [S.R. 1989 No. 441](https://www.legislation.gov.uk/nisr/1989/441)
 
@@ -1750,168 +1750,168 @@ The Regulations make the following principal changes—
 
 [^f00037]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-210bd6f1a31446cf4446df2cee3567b0]: Commencement: Sch. 1 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-210bd6f1a31446cf4446df2cee3567b0]: Commencement: Sch. 1 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00038]: Footnote: Article 77A(4A) was inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 11
 
 [^f00039]: Footnote: [S.I. 1981/839 (N.I. 20)](https://www.legislation.gov.uk/nisi/1981/839) as amended by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40) section 35 and Schedule 10, paragraph 2
 
-[^key-675178909693e4fde39568c7b6078cf1]: Commencement: Sch. 1 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-675178909693e4fde39568c7b6078cf1]: Commencement: Sch. 1 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-8754fe92f27a260d3aabcc90468afa92]: Commencement: Sch. 1 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-8754fe92f27a260d3aabcc90468afa92]: Commencement: Sch. 1 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-18b6e466887d652ca4a19f332f231b66]: Commencement: Sch. 1 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-18b6e466887d652ca4a19f332f231b66]: Commencement: Sch. 1 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00040]: Footnote: As amended by [S.R. 1984 No. 16](https://www.legislation.gov.uk/nisr/1984/16) regulation 3(3)
 
-[^key-aed850735b831f0e2b001373bb92ac67]: Commencement: Sch. 1 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-aed850735b831f0e2b001373bb92ac67]: Commencement: Sch. 1 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00041]: Footnote: As substituted by [S.I. 1993/2668 (N.I. 11](https://www.legislation.gov.uk/nisi/1993/2668)) Article 6(4) and Schedule 3 Part IV
 
-[^key-700858b13e8202b7c1c200ba03a03a2a]: Commencement: Sch. 1 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-700858b13e8202b7c1c200ba03a03a2a]: Commencement: Sch. 1 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-c3c0020008cfe4c56ffa91ed99a1cd80]: Commencement: Sch. 1 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-c3c0020008cfe4c56ffa91ed99a1cd80]: Commencement: Sch. 1 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00042]: Footnote: *See* [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8) section 141(1)
 
-[^key-f195d54095d189f3c31403c7fb4e0398]: Commencement: Sch. 1 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-f195d54095d189f3c31403c7fb4e0398]: Commencement: Sch. 1 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00043]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 14
 
 [^f00044]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Schedule 5 paragraph 1
 
-[^key-cf15dbb1617220f2e21e2add12233c23]: Commencement: Sch. 1 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-cf15dbb1617220f2e21e2add12233c23]: Commencement: Sch. 1 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-e4e02a22e24efba71402803e570eddde]: Commencement: Sch. 1 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-e4e02a22e24efba71402803e570eddde]: Commencement: Sch. 1 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-ec8c8779fc5d2610e36d7599da86e0fb]: Commencement: Sch. 1 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-ec8c8779fc5d2610e36d7599da86e0fb]: Commencement: Sch. 1 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-52e1e9ea5311d12129d66f557680d2a3]: Commencement: Sch. 1 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-52e1e9ea5311d12129d66f557680d2a3]: Commencement: Sch. 1 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159)
 
-[^key-b8d56e868ff19f722fa54edb0102cb13]: Commencement: Sch. 1 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-b8d56e868ff19f722fa54edb0102cb13]: Commencement: Sch. 1 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-0d10976b3b1a4219c8b6512a2125c14a]: Commencement: Sch. 1 para. 14 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-0d10976b3b1a4219c8b6512a2125c14a]: Commencement: Sch. 1 para. 14 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-eb4e2dc81f9eb3d2f18ea8a7ba838352]: Commencement: Sch. 1 para. 15 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-eb4e2dc81f9eb3d2f18ea8a7ba838352]: Commencement: Sch. 1 para. 15 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-e9073fae835fb3b10a7959ea7babb63f]: Commencement: Sch. 1 para. 16 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-e9073fae835fb3b10a7959ea7babb63f]: Commencement: Sch. 1 para. 16 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-6cee8ef5b06da45257996488c8090f2c]: Commencement: Sch. 1 para. 17 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-6cee8ef5b06da45257996488c8090f2c]: Commencement: Sch. 1 para. 17 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-84ff79cc01ecb31529cbdeb9b3ad6094]: Commencement: Sch. 1 para. 18 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-84ff79cc01ecb31529cbdeb9b3ad6094]: Commencement: Sch. 1 para. 18 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-47397c35985d29ab119ed5005031c101]: Commencement: Sch. 1 para. 19 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-47397c35985d29ab119ed5005031c101]: Commencement: Sch. 1 para. 19 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-28855ba8311cac2083415a52424e92a4]: Commencement: Sch. 2 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-28855ba8311cac2083415a52424e92a4]: Commencement: Sch. 2 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00046]: Footnote: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042)
 
-[^key-40d33b3748694654436d61e451812dff]: Commencement: Sch. 2 para. 8A in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-40d33b3748694654436d61e451812dff]: Commencement: Sch. 2 para. 8A in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-f42e451ea945b880431914bb3af051d6]: Commencement: Sch. 2 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-f42e451ea945b880431914bb3af051d6]: Commencement: Sch. 2 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-5a44618f99ba5fdd4500573b0f0ea853]: Commencement: Sch. 2 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-5a44618f99ba5fdd4500573b0f0ea853]: Commencement: Sch. 2 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00047]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Schedule 5, paragraph 1
 
-[^key-166c08658588b3c8dd3dad2a3e61e63f]: Commencement: Sch. 2 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-166c08658588b3c8dd3dad2a3e61e63f]: Commencement: Sch. 2 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-908591c43cfeda99108edcbad6c1b632]: Commencement: Sch. 2 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-908591c43cfeda99108edcbad6c1b632]: Commencement: Sch. 2 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-77a8ad52dd98a64aceebdfd127e7af05]: Commencement: Sch. 2 para. 19 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-77a8ad52dd98a64aceebdfd127e7af05]: Commencement: Sch. 2 para. 19 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-7e7447c9bfb93ba40884041a4fce3c61]: Commencement: Sch. 3 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-7e7447c9bfb93ba40884041a4fce3c61]: Commencement: Sch. 3 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-80a89b7c7fd3cd6c18426686cf8d8751]: Commencement: Sch. 3 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-80a89b7c7fd3cd6c18426686cf8d8751]: Commencement: Sch. 3 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-88a57f886af1b10e456b1e91d8ca4c69]: Commencement: Sch. 3 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-88a57f886af1b10e456b1e91d8ca4c69]: Commencement: Sch. 3 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-326d1653bdedc8fccba23ec3c1789fa3]: Commencement: Sch. 3 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-326d1653bdedc8fccba23ec3c1789fa3]: Commencement: Sch. 3 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-2803dfa400683f615d4bf2e48b8ea589]: Commencement: Sch. 3 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-2803dfa400683f615d4bf2e48b8ea589]: Commencement: Sch. 3 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-614b65904eb11b1ecaf473adc98c84e6]: Commencement: Sch. 3 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-614b65904eb11b1ecaf473adc98c84e6]: Commencement: Sch. 3 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-2602787983befdd14486d771e5c60545]: Commencement: Sch. 3 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-2602787983befdd14486d771e5c60545]: Commencement: Sch. 3 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-856fb6723efbf1cffe67c42db5481428]: Commencement: Sch. 3 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-856fb6723efbf1cffe67c42db5481428]: Commencement: Sch. 3 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-fbfe6fc075427519dda2e23d1704e3a7]: Commencement: Sch. 3 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-fbfe6fc075427519dda2e23d1704e3a7]: Commencement: Sch. 3 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00048]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 14
 
 [^f00049]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Schedule 5 paragraph 1
 
-[^key-9acc34cbe95aeb47740a0183e09bbbd5]: Commencement: Sch. 3 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-9acc34cbe95aeb47740a0183e09bbbd5]: Commencement: Sch. 3 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-c16d8e084f0c69534d058994ba49d6cf]: Commencement: Sch. 3 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-c16d8e084f0c69534d058994ba49d6cf]: Commencement: Sch. 3 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-21fb24c88fa19e5a30fa9812c6291054]: Commencement: Sch. 3 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-21fb24c88fa19e5a30fa9812c6291054]: Commencement: Sch. 3 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159)
 
-[^key-9056d81e47ac45f43ec4cd45222a7ad2]: Commencement: Sch. 3 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-9056d81e47ac45f43ec4cd45222a7ad2]: Commencement: Sch. 3 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-6b9415add7400376640af75465e540ee]: Commencement: Sch. 3 para. 14 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-6b9415add7400376640af75465e540ee]: Commencement: Sch. 3 para. 14 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-9f5f973784b2fc60c83ca98f93ffefe1]: Commencement: Sch. 3 para. 15 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-9f5f973784b2fc60c83ca98f93ffefe1]: Commencement: Sch. 3 para. 15 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-7c8d9676b45b37c881dfcdf916723cf1]: Commencement: Sch. 4 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-7c8d9676b45b37c881dfcdf916723cf1]: Commencement: Sch. 4 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-70c595ae33e19b6025aab19ac1b87beb]: Commencement: Sch. 4 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-70c595ae33e19b6025aab19ac1b87beb]: Commencement: Sch. 4 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-cc6e8de51eab6f2a420685b83c3f26fc]: Commencement: Sch. 4 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-cc6e8de51eab6f2a420685b83c3f26fc]: Commencement: Sch. 4 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-5aa814414b7588cdc741562948beca59]: Commencement: Sch. 4 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-5aa814414b7588cdc741562948beca59]: Commencement: Sch. 4 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-81fb029e4c7e211151b1175e4a884816]: Commencement: Sch. 4 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-81fb029e4c7e211151b1175e4a884816]: Commencement: Sch. 4 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-fbc3ec9b66d2fbc7312453ef164c9f1b]: Commencement: Sch. 4 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-fbc3ec9b66d2fbc7312453ef164c9f1b]: Commencement: Sch. 4 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-63f6ee77ebd0118469013148e4f78edf]: Commencement: Sch. 4 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-63f6ee77ebd0118469013148e4f78edf]: Commencement: Sch. 4 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00051]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 14
 
 [^f00052]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Schedule 5 paragraph 1
 
-[^key-98e33f12e939479074a32d744dfabba7]: Commencement: Sch. 4 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-98e33f12e939479074a32d744dfabba7]: Commencement: Sch. 4 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-5a99376c469216904a88c19acbc438c8]: Commencement: Sch. 4 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-5a99376c469216904a88c19acbc438c8]: Commencement: Sch. 4 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-2f421418bab5eec575cad4163167a350]: Commencement: Sch. 4 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-2f421418bab5eec575cad4163167a350]: Commencement: Sch. 4 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-d000d44502e7822962c1b63077263f26]: Commencement: Sch. 4 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-d000d44502e7822962c1b63077263f26]: Commencement: Sch. 4 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-aff720d277c0298ddff2ddd13ba01e1b]: Commencement: Sch. 4 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-aff720d277c0298ddff2ddd13ba01e1b]: Commencement: Sch. 4 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-303d4c9b26200bbcbb0fe32690b2edf2]: Commencement: Sch. 4 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-303d4c9b26200bbcbb0fe32690b2edf2]: Commencement: Sch. 4 para. 13 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-a12e7da107f2df658fdcf061f28e6798]: Commencement: Sch. 5 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-a12e7da107f2df658fdcf061f28e6798]: Commencement: Sch. 5 para. 1 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-89ebf2fcc8984506828cfebcca8a201e]: Commencement: Sch. 5 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-89ebf2fcc8984506828cfebcca8a201e]: Commencement: Sch. 5 para. 2 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-8ed6f859a7b067a826433a03bb3eb86a]: Commencement: Sch. 5 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-8ed6f859a7b067a826433a03bb3eb86a]: Commencement: Sch. 5 para. 3 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-163030b827599d69352febf9b29bfce4]: Commencement: Sch. 5 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-163030b827599d69352febf9b29bfce4]: Commencement: Sch. 5 para. 4 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-6ab3d86cf44551ad3b7c70c2a9402040]: Commencement: Sch. 5 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-6ab3d86cf44551ad3b7c70c2a9402040]: Commencement: Sch. 5 para. 5 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
 [^f00053]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Article 14
 
 [^f00054]: Footnote: As inserted by [S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668) Schedule 5 paragraph 1
 
-[^key-159f145ea2f491185297335db8216a19]: Commencement: Sch. 5 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-159f145ea2f491185297335db8216a19]: Commencement: Sch. 5 para. 6 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-e55f90114e96f4f65d2e0dee5bea9bdb]: Commencement: Sch. 5 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-e55f90114e96f4f65d2e0dee5bea9bdb]: Commencement: Sch. 5 para. 7 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-21fb162f4ab6bdc519c4ff968950b99a]: Commencement: Sch. 5 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-21fb162f4ab6bdc519c4ff968950b99a]: Commencement: Sch. 5 para. 8 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-4a46a0fdb10da6b8d85d2b989c7edbdc]: Commencement: Sch. 5 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-4a46a0fdb10da6b8d85d2b989c7edbdc]: Commencement: Sch. 5 para. 9 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-ba9bb617e8828b8d9ec2575a5153e5f9]: Commencement: Sch. 5 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-ba9bb617e8828b8d9ec2575a5153e5f9]: Commencement: Sch. 5 para. 10 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-4953614bddcd8d8b1e05fe9f7dcf94c9]: Commencement: Sch. 5 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-4953614bddcd8d8b1e05fe9f7dcf94c9]: Commencement: Sch. 5 para. 11 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
 
-[^key-3368e7c4d2e9b32d9b75e904a5c33e82]: Commencement: Sch. 5 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)
+[^c-3368e7c4d2e9b32d9b75e904a5c33e82]: Commencement: Sch. 5 para. 12 in operation at 1.6.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/173/regulation/1/2)

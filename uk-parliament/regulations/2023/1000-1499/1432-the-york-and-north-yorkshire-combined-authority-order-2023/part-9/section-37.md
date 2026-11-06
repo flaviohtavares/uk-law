@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Foreign property etc, perfection of vesting[^key-4cd8366ac5486b452d09f2cb97b3d948]
+## 37. Foreign property etc, perfection of vesting[^c-4cd8366ac5486b452d09f2cb97b3d948]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cd8366ac5486b452d09f2cb97b3d948]: Commencement: Art. 37 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-4cd8366ac5486b452d09f2cb97b3d948]: Commencement: Art. 37 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00098]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

@@ -23,10 +23,10 @@ summary: ''
 In this Part of this Act, except where the context otherwise requires—
 
 - (a) “**mortgagee**” and “**mortgagor**” include any person from time to time deriving title under the original mortgagee or mortgagor; and
-- (b) “**legal mortgage**” in relation to regulated mortgages, includes[^c16041351] any registered charge (within the meaning of the Land Registration Act 2002)[^key-08bd4731a4cd96ab17d2e51e581254ab].
+- (b) “**legal mortgage**” in relation to regulated mortgages, includes[^c16041351] any registered charge (within the meaning of the Land Registration Act 2002)[^c-08bd4731a4cd96ab17d2e51e581254ab].
 
 ## Annotations
 
 [^c16041351]: Textual amendment: Words substituted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 25 Pt. I para. 50](https://www.legislation.gov.uk/ukpga/1980/51/schedule/25/part/I/paragraph/50)
 
-[^key-08bd4731a4cd96ab17d2e51e581254ab]: Textual amendment: Words in [s. 136(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/136/b) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/14) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-08bd4731a4cd96ab17d2e51e581254ab]: Textual amendment: Words in [s. 136(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/136/b) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/14) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

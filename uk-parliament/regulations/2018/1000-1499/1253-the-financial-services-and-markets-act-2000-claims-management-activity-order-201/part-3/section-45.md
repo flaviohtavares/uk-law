@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Proposal by the Regulator to cancel authorisation: determination by the FCA[^key-4bc69c5efcd1be95509a42752673f6b4][^key-a63029b5e2008568033fdf50c42e0068]
+## 45. Proposal by the Regulator to cancel authorisation: determination by the FCA[^c-4bc69c5efcd1be95509a42752673f6b4][^c-a63029b5e2008568033fdf50c42e0068]
 
 *Extent: E+W+S*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc69c5efcd1be95509a42752673f6b4]: Commencement: Art. 45 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-4bc69c5efcd1be95509a42752673f6b4]: Commencement: Art. 45 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-a63029b5e2008568033fdf50c42e0068]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2018/1253/article/45) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-a63029b5e2008568033fdf50c42e0068]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2018/1253/article/45) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00078]: Footnote: Section 55Z was inserted by the Financial Services Act 2012, section 11(2).

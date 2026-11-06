@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15.7. Modification of Chapter 5[^key-8aa18ed2cc69ba54e2092bc4cb231afd]
+## 15.7. Modification of Chapter 5[^c-8aa18ed2cc69ba54e2092bc4cb231afd]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purposes of this Chapter, the following provisions in Chapter 5 do not a
 
 ## Annotations
 
-[^key-8aa18ed2cc69ba54e2092bc4cb231afd]: Commencement: Para. 15.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-8aa18ed2cc69ba54e2092bc4cb231afd]: Commencement: Para. 15.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

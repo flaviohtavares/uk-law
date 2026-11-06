@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Limits on expenses orders in relation to unexplained wealth orders: Scotland[^key-8b42e14c532b77001a832522116041c7][^key-a5229066e85996ea85c28e9fe695150f]
+## 53. Limits on expenses orders in relation to unexplained wealth orders: Scotland[^c-8b42e14c532b77001a832522116041c7][^c-a5229066e85996ea85c28e9fe695150f]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ After section 396U of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-8b42e14c532b77001a832522116041c7]: Commencement: S. 53 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-8b42e14c532b77001a832522116041c7]: Commencement: S. 53 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-a5229066e85996ea85c28e9fe695150f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/10/section/53) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))
+[^c-a5229066e85996ea85c28e9fe695150f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/10/section/53) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))

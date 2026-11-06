@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Trees in conservation areas[^key-ed7dd9405ccd9f2d8008cc9754f12ad0]
+## 27. Trees in conservation areas[^c-ed7dd9405ccd9f2d8008cc9754f12ad0]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed7dd9405ccd9f2d8008cc9754f12ad0]: Commencement: Art. 27 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-ed7dd9405ccd9f2d8008cc9754f12ad0]: Commencement: Art. 27 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Non-UK extradition: transit through the United Kingdom[^key-a370cb10de285e36b91cb3dda2d9e51a]
+## 168. Non-UK extradition: transit through the United Kingdom[^c-a370cb10de285e36b91cb3dda2d9e51a]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,4 +144,4 @@ After section 189 of the Extradition Act 2003 there is inserted—
 
 ## Annotations
 
-[^key-a370cb10de285e36b91cb3dda2d9e51a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168) in force at 1.5.2021 by [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)
+[^c-a370cb10de285e36b91cb3dda2d9e51a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168) in force at 1.5.2021 by [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)

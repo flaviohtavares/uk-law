@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Ill-health award ceases to be payable[^key-8853e614be1256dd6c6ec1556baa94c3]
+## 45. Ill-health award ceases to be payable[^c-8853e614be1256dd6c6ec1556baa94c3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8853e614be1256dd6c6ec1556baa94c3]: Commencement: Reg. 45 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8853e614be1256dd6c6ec1556baa94c3]: Commencement: Reg. 45 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

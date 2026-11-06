@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Lists of performers of pharmaceutical services and assistants etc.[^key-af6c86bdf7f0b4bf8ed77edbd4018ae6][^c2191343]
+## 208. Lists of performers of pharmaceutical services and assistants etc.[^c-af6c86bdf7f0b4bf8ed77edbd4018ae6][^c2191343]
 
 *Extent: E+W*
 
@@ -129,6 +129,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af6c86bdf7f0b4bf8ed77edbd4018ae6]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2012/7/section/208) in force at 1.10.2026 in so far as not already in force by [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-af6c86bdf7f0b4bf8ed77edbd4018ae6]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2012/7/section/208) in force at 1.10.2026 in so far as not already in force by [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
 
 [^c2191343]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2012/7/section/208) partly in force; [s. 208](https://www.legislation.gov.uk/ukpga/2012/7/section/208) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

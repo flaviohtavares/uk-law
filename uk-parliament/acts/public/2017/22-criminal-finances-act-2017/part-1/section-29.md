@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Recovery orders relating to heritable property[^key-5dfa7ae23e31b9952e68479da604de4c][^c22725321]
+## 29. Recovery orders relating to heritable property[^c-5dfa7ae23e31b9952e68479da604de4c][^c22725321]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dfa7ae23e31b9952e68479da604de4c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/22/section/29) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
+[^c-5dfa7ae23e31b9952e68479da604de4c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/22/section/29) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
 
 [^c22725321]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/22/section/29) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

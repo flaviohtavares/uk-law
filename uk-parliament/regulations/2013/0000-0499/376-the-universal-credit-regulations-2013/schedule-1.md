@@ -30,11 +30,11 @@ In this Schedule—
 
 - “**approved premises**” means premises approved by the Secretary of State under section 13 of the Offender Management Act 2007 [^c2165975] (which contains provision for the approval etc. of premises providing accommodation for persons granted bail in criminal proceedings or for or in connection with the supervision or rehabilitation of persons convicted of offences);
 - “care home”—
-  - (a) in England [^key-00c3f4a51f4fa7ca6046300374304470]..., means a care home within the meaning of section 3 of the Care Standards Act 2000 [^c2165976];
-  - (aa) in Wales, means a place at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 is provided wholly or mainly to persons aged 18 or over;[^key-a9ce708b27d9d0f8495689c75fe590d3]
+  - (a) in England [^c-00c3f4a51f4fa7ca6046300374304470]..., means a care home within the meaning of section 3 of the Care Standards Act 2000 [^c2165976];
+  - (aa) in Wales, means a place at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 is provided wholly or mainly to persons aged 18 or over;[^c-a9ce708b27d9d0f8495689c75fe590d3]
   - (b) in Scotland, means a care home service within the meaning of paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c2165977]; and
-  - (c) in any of the above cases[^key-a03e1cee9f8e127d7474589ca6bb37a5], includes an independent hospital;
-- “exempt accommodation” has the meaning given in paragraph 4(10) of Schedule 3 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006;[^key-fee37c568e93f5e4af05980b67df4dd0]
+  - (c) in any of the above cases[^c-a03e1cee9f8e127d7474589ca6bb37a5], includes an independent hospital;
+- “exempt accommodation” has the meaning given in paragraph 4(10) of Schedule 3 to the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006;[^c-fee37c568e93f5e4af05980b67df4dd0]
 - “**housing association**” has the meaning given by section 1(1) of the Housing Associations Act 1985 [^c2165979];
 - “independent hospital”—
   - (a) in England, means a hospital as defined by section 275 of the National Health Service Act 2006 [^c2165980] that is not a health service hospital as defined by that section;
@@ -43,7 +43,7 @@ In this Schedule—
 - “**registered charity**” means a charity entered in the register of charities maintained under Part 4 of the Charities Act 2011 [^c2165983] or a body entered on the register of charities maintained under the Charities and Trustee Investment (Scotland) Act 2005 [^c2165984];
 - “**shared ownership tenancy**” has the meaning given in regulation 26(6);
 - “**tent**” means a moveable structure that is designed or adapted (solely or mainly) for the purpose of sleeping in a place for any period and that is not a caravan, a mobile home or a houseboat;
-- [^key-8770a78cdd8771f9a0c885049863b5a4]...
+- [^c-8770a78cdd8771f9a0c885049863b5a4]...
 - “**voluntary organisation**” means a body (other than a public or local authority) whose activities are carried on otherwise than for profit.
 
 ### Rent payments
@@ -68,13 +68,13 @@ The following are excluded from being “rent payments”—
 - (b) payments in respect of a tent or the site on which a tent stands;
 - (c) payments in respect of approved premises;
 - (d) payments in respect of a care home;
-- (e)[^key-716bf7e17b97aa446301281030e3d1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f) payments which are owner-occupier payments within the meaning of Schedule 1 of the Loans for Mortgage Regulations 2017[^key-e0ea8f476b3813b60a8a23fb5bb4578b];
+- (e)[^c-716bf7e17b97aa446301281030e3d1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) payments which are owner-occupier payments within the meaning of Schedule 1 of the Loans for Mortgage Regulations 2017[^c-e0ea8f476b3813b60a8a23fb5bb4578b];
 - (g) payments which are service charge payments within the meaning of paragraph 7;
-- (h)[^key-808e19757f85f266221eee4429e65e95] payments in respect of accommodation specified in paragraph 3A;
-- (i)[^key-add8def90250e4d516803ee3abfb2a88] payments in respect of accommodation specified in paragraph 3B.
+- (h)[^c-808e19757f85f266221eee4429e65e95] payments in respect of accommodation specified in paragraph 3A;
+- (i)[^c-add8def90250e4d516803ee3abfb2a88] payments in respect of accommodation specified in paragraph 3B.
 
-#### 3A. Specified accommodation[^key-383bbaa6e7d9405dd65e5a12879a461e]
+#### 3A. Specified accommodation[^c-383bbaa6e7d9405dd65e5a12879a461e]
 
 (1) The accommodation referred to in paragraph 3(h) is accommodation to which one or more of the following sub-paragraphs applies.
 
@@ -105,7 +105,7 @@ The following are excluded from being “rent payments”—
   - (c) registered charity; or
   - (d) voluntary organisation.
 
-#### 3B. Temporary Accommodation[^key-b4b3a6b94463ff24a2847550fec2ff3a]
+#### 3B. Temporary Accommodation[^c-b4b3a6b94463ff24a2847550fec2ff3a]
 
 (1) The accommodation referred to in paragraph (3)(i) is accommodation which falls within Case 1 or Case 2.
 
@@ -131,15 +131,15 @@ The following are excluded from being “rent payments”—
 
 ### Owner-occupier payments
 
-#### 4. Owner-occupier payments[^key-1846027a389186f6ee377a814d4455e9]
+#### 4. Owner-occupier payments[^c-1846027a389186f6ee377a814d4455e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Meaning of “loan interest payments”[^key-1846027a389186f6ee377a814d4455e9]
+#### 5. Meaning of “loan interest payments”[^c-1846027a389186f6ee377a814d4455e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Meaning of “alternative finance payments”[^key-1846027a389186f6ee377a814d4455e9]
+#### 6. Meaning of “alternative finance payments”[^c-1846027a389186f6ee377a814d4455e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -160,7 +160,7 @@ The following are excluded from being “rent payments”—
 
 (3) Payments are excluded by this sub-paragraph where—
 
-- (a) a qualifying loan within the meaning of regulation 2 of the Loans for Mortgage Interest Regulations 2017[^key-0efce00c5983310433ed686ce0c63b90] was taken out for the purposes of making the payments; or
+- (a) a qualifying loan within the meaning of regulation 2 of the Loans for Mortgage Interest Regulations 2017[^c-0efce00c5983310433ed686ce0c63b90] was taken out for the purposes of making the payments; or
 - (b) the services or facilities to which the payments relate are provided for the use or benefit of any person occupying—
   - (i) a tent,
   - (ii) approved premises,
@@ -177,7 +177,7 @@ The following are excluded from being “rent payments”—
 
 (1) This paragraph applies for the purposes of calculating the amount of housing costs element to be included in a claimant's award of universal credit but only as regards calculations made under—
 
-- (a) Part 5 of Schedule 4 (social rented sector[^key-84a80ce09d06a804e9cf520e458b7812]...); or
+- (a) Part 5 of Schedule 4 (social rented sector[^c-84a80ce09d06a804e9cf520e458b7812]...); or
 - (b) Schedule 5 (housing costs element for owner-occupiers).
 
 (2) The following are the conditions referred to in paragraph 7(1)(c).
@@ -221,17 +221,17 @@ Payments within this category are specific to the particular accommodation occup
 
 [^c2165975]: Marginal citation: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 
-[^key-00c3f4a51f4fa7ca6046300374304470]: Textual amendment: Words in Sch. 1 para. 1 omitted (2.4.2018) by virtue of [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/a)
+[^c-00c3f4a51f4fa7ca6046300374304470]: Textual amendment: Words in Sch. 1 para. 1 omitted (2.4.2018) by virtue of [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/a)
 
 [^c2165976]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by section 95 of, and paragraph 4 of Schedule 5 to, the [Care Standards Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-a9ce708b27d9d0f8495689c75fe590d3]: Textual amendment: Words in Sch. 1 para. 1 inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/b)
+[^c-a9ce708b27d9d0f8495689c75fe590d3]: Textual amendment: Words in Sch. 1 para. 1 inserted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/b)
 
 [^c2165977]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-a03e1cee9f8e127d7474589ca6bb37a5]: Textual amendment: Words in Sch. 1 para. 1 substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(c)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/c)
+[^c-a03e1cee9f8e127d7474589ca6bb37a5]: Textual amendment: Words in Sch. 1 para. 1 substituted (2.4.2018) by [The Social Security and Child Support (Regulation and Inspection of Social Care (Wales) Act 2016) (Consequential Provision) Regulations 2018 (S.I. 2018/228)](https://www.legislation.gov.uk/uksi/2018/228), [regs. 1](https://www.legislation.gov.uk/uksi/2018/228/regulation/1), [14(3)(c)](https://www.legislation.gov.uk/uksi/2018/228/regulation/14/3/c)
 
-[^key-fee37c568e93f5e4af05980b67df4dd0]: Textual amendment: Words in Sch. 1 para. 1 substituted (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/a/i)
+[^c-fee37c568e93f5e4af05980b67df4dd0]: Textual amendment: Words in Sch. 1 para. 1 substituted (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/a/i)
 
 [^c2165979]: Marginal citation: [1985 c.69](https://www.legislation.gov.uk/ukpga/1985/69). An amendment to section 1(1) which was inserted by section 3 of, and paragraph 6 of Schedule 2 to, the [Housing (Scotland) Act 1988 (c.43)](https://www.legislation.gov.uk/ukpga/1988/43) was repealed by section 112 of, and paragraph 11 of Schedule 10 to, the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10).
 
@@ -245,22 +245,22 @@ Payments within this category are specific to the particular accommodation occup
 
 [^c2165984]: Marginal citation: 2005 asp10.
 
-[^key-8770a78cdd8771f9a0c885049863b5a4]: Textual amendment: Words in Sch. 1 para. 1 omitted (3.11.2014) by virtue of [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/a/ii)
+[^c-8770a78cdd8771f9a0c885049863b5a4]: Textual amendment: Words in Sch. 1 para. 1 omitted (3.11.2014) by virtue of [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/a/ii)
 
-[^key-716bf7e17b97aa446301281030e3d1da]: Textual amendment: Sch. 1 para. 3(e) omitted (3.11.2014) by virtue of [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/b/i)
+[^c-716bf7e17b97aa446301281030e3d1da]: Textual amendment: Sch. 1 para. 3(e) omitted (3.11.2014) by virtue of [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/b/i)
 
-[^key-e0ea8f476b3813b60a8a23fb5bb4578b]: Textual amendment: Words in Sch. 1 para. 3(f) substituted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/i)
+[^c-e0ea8f476b3813b60a8a23fb5bb4578b]: Textual amendment: Words in Sch. 1 para. 3(f) substituted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(i)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/i)
 
-[^key-808e19757f85f266221eee4429e65e95]: Textual amendment: Sch. 1 para. 3(h) added (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/b/ii)
+[^c-808e19757f85f266221eee4429e65e95]: Textual amendment: Sch. 1 para. 3(h) added (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/b/ii)
 
-[^key-add8def90250e4d516803ee3abfb2a88]: Textual amendment: Sch. 1 para. 3(i) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/a) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
+[^c-add8def90250e4d516803ee3abfb2a88]: Textual amendment: Sch. 1 para. 3(i) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/a) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
 
-[^key-383bbaa6e7d9405dd65e5a12879a461e]: Textual amendment: Sch. 1 para. 3A inserted (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/c)
+[^c-383bbaa6e7d9405dd65e5a12879a461e]: Textual amendment: Sch. 1 para. 3A inserted (3.11.2014) by [The Housing Benefit and Universal Credit (Supported Accommodation) (Amendment) Regulations 2014 (S.I. 2014/771)](https://www.legislation.gov.uk/uksi/2014/771), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/771/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/771/regulation/2/2/c)
 
-[^key-b4b3a6b94463ff24a2847550fec2ff3a]: Textual amendment: Sch. 1 para. 3B inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/b) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
+[^c-b4b3a6b94463ff24a2847550fec2ff3a]: Textual amendment: Sch. 1 para. 3B inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/b) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
 
-[^key-1846027a389186f6ee377a814d4455e9]: Textual amendment: Sch. 1 paras. 4-6 omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/ii)
+[^c-1846027a389186f6ee377a814d4455e9]: Textual amendment: Sch. 1 paras. 4-6 omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/ii)
 
-[^key-0efce00c5983310433ed686ce0c63b90]: Textual amendment: Words in Sch. 1 para. 7(3)(a) substituted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/iii)
+[^c-0efce00c5983310433ed686ce0c63b90]: Textual amendment: Words in Sch. 1 para. 7(3)(a) substituted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/e/iii)
 
-[^key-84a80ce09d06a804e9cf520e458b7812]: Textual amendment: Words in Sch. 1 para. 8(1)(a) omitted (11.4.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/c) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))
+[^c-84a80ce09d06a804e9cf520e458b7812]: Textual amendment: Words in Sch. 1 para. 8(1)(a) omitted (11.4.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(12)(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/12/c) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/2)[(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Principle of trauma-informed practice[^key-1fd731ce0ff8ce7bf0ec71ff63cecc69][^key-ff247d7c2e7f5b0d7dbd40ac3db13859]
+## 26. Principle of trauma-informed practice[^c-1fd731ce0ff8ce7bf0ec71ff63cecc69][^c-ff247d7c2e7f5b0d7dbd40ac3db13859]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd731ce0ff8ce7bf0ec71ff63cecc69]: Commencement: S. 26 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-1fd731ce0ff8ce7bf0ec71ff63cecc69]: Commencement: S. 26 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-ff247d7c2e7f5b0d7dbd40ac3db13859]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/12/section/26) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-ff247d7c2e7f5b0d7dbd40ac3db13859]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/12/section/26) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

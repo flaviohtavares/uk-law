@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Restricted premises orders[^key-7d9d3d87da2bbda9a1271e7c715596c8]
+## 23. Restricted premises orders[^c-7d9d3d87da2bbda9a1271e7c715596c8]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9d3d87da2bbda9a1271e7c715596c8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2026/18/section/23) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-7d9d3d87da2bbda9a1271e7c715596c8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2026/18/section/23) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

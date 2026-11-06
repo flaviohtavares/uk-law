@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Provision of evidence in support of protection or human rights claim[^key-cadc3416f61abdcf40a2e3bb4dc90838]
+## 18. Provision of evidence in support of protection or human rights claim[^c-cadc3416f61abdcf40a2e3bb4dc90838]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cadc3416f61abdcf40a2e3bb4dc90838]: Commencement: S. 18 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-cadc3416f61abdcf40a2e3bb4dc90838]: Commencement: S. 18 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

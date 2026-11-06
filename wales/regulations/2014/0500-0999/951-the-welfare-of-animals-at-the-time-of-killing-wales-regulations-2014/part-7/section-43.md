@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Consequential and supplementary amendments[^key-221361d48b085d8d0781164622d0eb80]
+## 43. Consequential and supplementary amendments[^c-221361d48b085d8d0781164622d0eb80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 (consequential and supplementary amendments) has effect.
 
 ## Annotations
 
-[^key-221361d48b085d8d0781164622d0eb80]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2014/951/regulation/43) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-221361d48b085d8d0781164622d0eb80]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2014/951/regulation/43) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

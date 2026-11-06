@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2A — Procedures for Article 4 directions[^key-463f78d000039d91ecb54a91ff14a894]
+## SCHEDULE 2A — Procedures for Article 4 directions[^c-463f78d000039d91ecb54a91ff14a894]
 
 *Extent: E+W*
 
@@ -134,4 +134,4 @@ Article 4
 
 ## Annotations
 
-[^key-463f78d000039d91ecb54a91ff14a894]: Textual amendment: Sch. 2A inserted (W.) (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [2(4)](https://www.legislation.gov.uk/wsi/2022/997/article/2/4)
+[^c-463f78d000039d91ecb54a91ff14a894]: Textual amendment: Sch. 2A inserted (W.) (20.10.2022) by [The Town and Country Planning (General Permitted Development etc.) (Amendment) (Wales) Order 2022 (S.I. 2022/997)](https://www.legislation.gov.uk/wsi/2022/997), [arts. 1](https://www.legislation.gov.uk/wsi/2022/997/article/1), [2(4)](https://www.legislation.gov.uk/wsi/2022/997/article/2/4)

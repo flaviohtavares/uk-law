@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment to regulation 184[^key-4d5a707102b5e5162a3f9695d29f0374]
+## 77. Amendment to regulation 184[^c-4d5a707102b5e5162a3f9695d29f0374]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 184(3) (obligation on holder to audit pharmacovigilance system)[^f
 
 ## Annotations
 
-[^key-4d5a707102b5e5162a3f9695d29f0374]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2024/832/regulation/77) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-4d5a707102b5e5162a3f9695d29f0374]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2024/832/regulation/77) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00087]: Footnote: Paragraph (3) was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

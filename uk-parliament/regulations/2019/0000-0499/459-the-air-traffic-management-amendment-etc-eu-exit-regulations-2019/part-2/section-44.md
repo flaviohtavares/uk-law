@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Annex 2 to Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-9d068dce6e47d8450e7c5c52b1826c11]
+## 44. Annex 2 to Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-9d068dce6e47d8450e7c5c52b1826c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex 2 (conditions to be attached to certificates) omit point 1(a).
 
 ## Annotations
 
-[^key-9d068dce6e47d8450e7c5c52b1826c11]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9d068dce6e47d8450e7c5c52b1826c11]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

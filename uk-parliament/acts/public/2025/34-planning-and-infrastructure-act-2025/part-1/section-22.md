@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Applications for necessary wayleaves: fees[^key-8bd81e166f4b62601f86b97165e2806d]
+## 22. Applications for necessary wayleaves: fees[^c-8bd81e166f4b62601f86b97165e2806d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Schedule 4 to the Electricity Act 1989 (other powers etc of licence holders),
 
 ## Annotations
 
-[^key-8bd81e166f4b62601f86b97165e2806d]: Commencement: S. 22 in force at Royal Assent, see [s. 118(1)(j)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/j)
+[^c-8bd81e166f4b62601f86b97165e2806d]: Commencement: S. 22 in force at Royal Assent, see [s. 118(1)(j)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Review of subsidy decisions[^key-2f811fe8037a703200e4e0637a5edd54][^key-98eb4c1c9bad45f5c51b9a97bb9c0e59]
+## 70. Review of subsidy decisions[^c-2f811fe8037a703200e4e0637a5edd54][^c-98eb4c1c9bad45f5c51b9a97bb9c0e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f811fe8037a703200e4e0637a5edd54]: Commencement: S. 70 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-2f811fe8037a703200e4e0637a5edd54]: Commencement: S. 70 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-98eb4c1c9bad45f5c51b9a97bb9c0e59]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/23/section/70) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-98eb4c1c9bad45f5c51b9a97bb9c0e59]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/23/section/70) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

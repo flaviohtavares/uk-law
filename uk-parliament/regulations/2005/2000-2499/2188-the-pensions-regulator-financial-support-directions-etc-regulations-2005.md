@@ -95,7 +95,7 @@ An event prescribed for the purposes of section 43(3)(c) (financial support dire
 - (b) any insolvency event, as defined in section 121(2) to (5) (insolvency events) as the case may be, in relation to any person named in a financial support direction;
 - (c) any failure to abide by, or any alteration to, an arrangement falling within section 45(2) (meaning of “financial support” – arrangements) and approved by the Regulator in a notice issued under section 45(1).
 
-## 5. Prescribed period[^key-f31eefb74595772b3446cb5b8f2c8246]
+## 5. Prescribed period[^c-f31eefb74595772b3446cb5b8f2c8246]
 
 (1) Subject to paragraph (2), the period prescribed for the purposes of section 43(9) (financial support directions – prescription of relevant time) is 24 months.
 
@@ -231,10 +231,10 @@ An arrangement is prescribed for the purposes of section 45(2)(d) if —
 
 which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it.
 
-(2) In sections 38 to 56 and these Regulations, “**employer**”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, AA, AB, B, C,[^key-a9d9a78ec5001ac286684a57613c7fb3] D, E or F[^key-f3bfc60aea710f9b04deab1fe9c413e4] is satisfied where—
+(2) In sections 38 to 56 and these Regulations, “**employer**”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, AA, AB, B, C,[^c-a9d9a78ec5001ac286684a57613c7fb3] D, E or F[^c-f3bfc60aea710f9b04deab1fe9c413e4] is satisfied where—
 
 - (a) condition A is that a section 75 debt became due from that employer and the full amount of the debt has been paid;
-- (aa)[^key-cf658d48c870b4aea65bdb1dfe8cf3a5] condition AA is that—
+- (aa)[^c-cf658d48c870b4aea65bdb1dfe8cf3a5] condition AA is that—
   - (i) such a debt became due;
   - (ii) under regulation 7 of the Occupational Pension Schemes (Employer Debt) Regulations 2005 an approved withdrawal arrangement came into force and the debt treated as due, as a result of that arrangement, is the approved withdrawal arrangement share and the cessation expenses attributable to the employer within the meaning of those Regulations; and
   - (iii) that debt has been paid;
@@ -248,10 +248,10 @@ which has no active members, includes the person who was the employer of persons
   - (iii) the reduced amount has been paid in full;
 - (c) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
 - (d) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due;
-- (e)[^key-98db5964307faa12eca1007b61927590] condition E is that—
+- (e)[^c-98db5964307faa12eca1007b61927590] condition E is that—
   - (i) as a result of a restructuring occurring within regulation 6ZB or 6ZC of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (employment-cessation events: exemptions), no section 75 debt became due; and
   - (ii) regulation 6ZA(3) or (4) of those Regulations (employment-cessation events: general) does not apply in relation to that restructuring;
-- (f)[^key-1c45fac0830d5fd07a3a30d32fbbf7dc] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (flexible apportionment arrangements) where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
+- (f)[^c-1c45fac0830d5fd07a3a30d32fbbf7dc] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (flexible apportionment arrangements) where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
 
 (3) In this regulation—
 
@@ -326,20 +326,20 @@ An assessment of the impact of these Regulations on business, charities and the 
 
 [^c1228945]: Marginal citation: [S.I. 2005/900](https://www.legislation.gov.uk/uksi/2005/900).
 
-[^key-f31eefb74595772b3446cb5b8f2c8246]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2188/regulation/5) substituted (6.4.2009) by [Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/617/regulation/2/2)
+[^c-f31eefb74595772b3446cb5b8f2c8246]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2188/regulation/5) substituted (6.4.2009) by [Pensions Regulator (Miscellaneous Amendment) Regulations 2009 (S.I. 2009/617)](https://www.legislation.gov.uk/uksi/2009/617), [regs. 1](https://www.legislation.gov.uk/uksi/2009/617/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/617/regulation/2/2)
 
 [^c1228946]: Marginal citation: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
 [^c1228947]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-a9d9a78ec5001ac286684a57613c7fb3]: Textual amendment: Words in reg. 15(2) substituted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/a)
+[^c-a9d9a78ec5001ac286684a57613c7fb3]: Textual amendment: Words in reg. 15(2) substituted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/a)
 
-[^key-f3bfc60aea710f9b04deab1fe9c413e4]: Textual amendment: Words in reg. 15(2) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/a)
+[^c-f3bfc60aea710f9b04deab1fe9c413e4]: Textual amendment: Words in reg. 15(2) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/a)
 
-[^key-cf658d48c870b4aea65bdb1dfe8cf3a5]: Textual amendment: Reg. 15(2)(aa)-(ab) substituted by virtue of (6.4.2008) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/731)](https://www.legislation.gov.uk/uksi/2008/731) , [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/1) , [19(b)](https://www.legislation.gov.uk/uksi/2008/731/regulation/19/b) (with [regs. 2(3)-(8)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/3) )
+[^c-cf658d48c870b4aea65bdb1dfe8cf3a5]: Textual amendment: Reg. 15(2)(aa)-(ab) substituted by virtue of (6.4.2008) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/731)](https://www.legislation.gov.uk/uksi/2008/731) , [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/1) , [19(b)](https://www.legislation.gov.uk/uksi/2008/731/regulation/19/b) (with [regs. 2(3)-(8)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/3) )
 
-[^key-98db5964307faa12eca1007b61927590]: Textual amendment: Reg. 15(2)(e) inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/b)
+[^c-98db5964307faa12eca1007b61927590]: Textual amendment: Reg. 15(2)(e) inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2010/725/regulation/20/b)
 
-[^key-1c45fac0830d5fd07a3a30d32fbbf7dc]: Textual amendment: Reg. 15(2)(f) inserted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/b)
+[^c-1c45fac0830d5fd07a3a30d32fbbf7dc]: Textual amendment: Reg. 15(2)(f) inserted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/14/b)
 
 [^c1228948]: Marginal citation: [Section 75A](https://www.legislation.gov.uk/uksi/2005/2188/section/75A) is inserted by section 272 of the Act.

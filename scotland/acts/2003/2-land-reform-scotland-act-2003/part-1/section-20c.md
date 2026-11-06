@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20C. Single amendment of core paths plan: procedure[^key-b07e9294ab76820374d148d3d99f8b31]
+## 20C. Single amendment of core paths plan: procedure[^c-b07e9294ab76820374d148d3d99f8b31]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If the local authority consider that it would be appropriate to make a single am
 
 ## Annotations
 
-[^key-b07e9294ab76820374d148d3d99f8b31]: Textual amendment: Ss. 20A-20D inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 83(4)](https://www.legislation.gov.uk/asp/2016/18/section/83/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/372/regulation/3))
+[^c-b07e9294ab76820374d148d3d99f8b31]: Textual amendment: Ss. 20A-20D inserted (31.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 83(4)](https://www.legislation.gov.uk/asp/2016/18/section/83/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/372](https://www.legislation.gov.uk/ssi/2016/372), [reg. 2](https://www.legislation.gov.uk/ssi/2016/372/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/372/regulation/3))

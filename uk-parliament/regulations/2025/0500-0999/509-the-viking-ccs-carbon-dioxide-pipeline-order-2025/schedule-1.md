@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — Authorised development[^key-4c7b0078dea0345e39515d8648ab99b9]
+### PART 1 — Authorised development[^c-4c7b0078dea0345e39515d8648ab99b9]
 
 A nationally significant infrastructure project as defined in sections 14 and 21 of the 2008 Act, comprising—
 
@@ -906,7 +906,7 @@ Associated development within the meaning of section 115(2) of the 2008 Act comp
 - (b) road surfacing and provision of new hard surfacing; and
 - (c) installation of utilities.
 
-*Work No.48c* – The creation and use of a temporary working area for use during the construction of the authorised development, within the location shown on the Works Plan, including construction of a temporary construction access[^key-5c29f29339a1ad2d709de10059b7aeb9] and laydown area.
+*Work No.48c* – The creation and use of a temporary working area for use during the construction of the authorised development, within the location shown on the Works Plan, including construction of a temporary construction access[^c-5c29f29339a1ad2d709de10059b7aeb9] and laydown area.
 
 #### Further Associated Development
 
@@ -931,12 +931,12 @@ In connection with any of those works, within the Order limits, development comp
 
 ### PART 2 — Ancillary works
 
-**1.**[^key-af6532e4e45e00008baca1087661d485] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising works for the benefit or protection of land affected by the authorised development.
+**1.**[^c-af6532e4e45e00008baca1087661d485] Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising works for the benefit or protection of land affected by the authorised development.
 
 ## Annotations
 
-[^key-4c7b0078dea0345e39515d8648ab99b9]: Commencement: Sch. 1 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-4c7b0078dea0345e39515d8648ab99b9]: Commencement: Sch. 1 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-5c29f29339a1ad2d709de10059b7aeb9]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2025/509/schedule/1/part/1) substituted (20.8.2025) by [The Viking CCS Carbon Dioxide Pipeline (Correction) Order 2025 (S.I. 2025/968)](https://www.legislation.gov.uk/uksi/2025/968), [art. 1](https://www.legislation.gov.uk/uksi/2025/968/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/968/schedule)
+[^c-5c29f29339a1ad2d709de10059b7aeb9]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2025/509/schedule/1/part/1) substituted (20.8.2025) by [The Viking CCS Carbon Dioxide Pipeline (Correction) Order 2025 (S.I. 2025/968)](https://www.legislation.gov.uk/uksi/2025/968), [art. 1](https://www.legislation.gov.uk/uksi/2025/968/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/968/schedule)
 
-[^key-af6532e4e45e00008baca1087661d485]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-af6532e4e45e00008baca1087661d485]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

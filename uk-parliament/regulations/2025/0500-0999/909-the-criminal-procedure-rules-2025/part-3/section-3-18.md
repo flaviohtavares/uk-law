@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.18. Use of Welsh language at magistrates’ court trial[^key-312c4223e0140c9492a157aa85b3f7e0]
+## 3.18. Use of Welsh language at magistrates’ court trial[^c-312c4223e0140c9492a157aa85b3f7e0]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ Where a magistrates’ court trial takes place in Wales—
 
 ## Annotations
 
-[^key-312c4223e0140c9492a157aa85b3f7e0]: Commencement: [Rule 3.18](https://www.legislation.gov.uk/uksi/2025/909/rule/3.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-312c4223e0140c9492a157aa85b3f7e0]: Commencement: [Rule 3.18](https://www.legislation.gov.uk/uksi/2025/909/rule/3.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00122]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 

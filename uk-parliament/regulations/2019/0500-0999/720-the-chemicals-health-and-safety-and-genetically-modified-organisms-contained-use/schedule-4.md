@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Savings, transitional and consequential provision[^key-1125443a23db0e7890d2c5551eb4aead]
+## SCHEDULE 4 — Savings, transitional and consequential provision[^c-1125443a23db0e7890d2c5551eb4aead]
 
 *Extent: E+W+S+N.I.*
 
@@ -403,11 +403,11 @@ In relation to Great Britain, a classification which, immediately before IP comp
 
 ### 6. EU implementing Regulations[^M_I_2a846d49-a45f-43f6-e469-cae972c64e0b]
 
-Where, as a result of these Regulations, any provision of assimilated direct[^key-6c978e18d9d32c559b2ef3b853b4aadb] legislation imposes an obligation on the Secretary of State to make regulations, that obligation is to be treated as having been met in a case where, before IP completion day, the European Commission adopted a delegated act under that provision.
+Where, as a result of these Regulations, any provision of assimilated direct[^c-6c978e18d9d32c559b2ef3b853b4aadb] legislation imposes an obligation on the Secretary of State to make regulations, that obligation is to be treated as having been met in a case where, before IP completion day, the European Commission adopted a delegated act under that provision.
 
 ## Annotations
 
-[^key-1125443a23db0e7890d2c5551eb4aead]: Textual amendment: Sch. 4 inserted (31.12.2020 immediately before IP completion day) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4)
+[^c-1125443a23db0e7890d2c5551eb4aead]: Textual amendment: Sch. 4 inserted (31.12.2020 immediately before IP completion day) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4)
 
 [^M_I_bd3ba2de-a3ce-4a46-8fd0-b9659f453e5b]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -421,4 +421,4 @@ Where, as a result of these Regulations, any provision of assimilated direct[^ke
 
 [^M_I_2a846d49-a45f-43f6-e469-cae972c64e0b]: Commencement: Sch. 4 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-6c978e18d9d32c559b2ef3b853b4aadb]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/12/paragraph/1)
+[^c-6c978e18d9d32c559b2ef3b853b4aadb]: Textual amendment: Words in [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/12/paragraph/1)

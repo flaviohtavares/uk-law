@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Building warrants: reference to Ministers[^key-0fdb0fae6ef4d891fcb0b2e2187981ca]
+## 12. Building warrants: reference to Ministers[^c-0fdb0fae6ef4d891fcb0b2e2187981ca]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the verifier or, as the case may be, the applicant may refer the matter to the S
 
 ## Annotations
 
-[^key-0fdb0fae6ef4d891fcb0b2e2187981ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2003/8/section/12) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-0fdb0fae6ef4d891fcb0b2e2187981ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2003/8/section/12) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

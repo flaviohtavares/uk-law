@@ -22,7 +22,7 @@ summary: ''
 
 (1) A contracting authority may authorise or require tenderers to submit variants.
 
-(2) A contracting authority must indicate in the contract notice [^key-0e408a358f599e048c2eb7461915aa78]... whether or not it authorises or requires variants.
+(2) A contracting authority must indicate in the contract notice [^c-0e408a358f599e048c2eb7461915aa78]... whether or not it authorises or requires variants.
 
 (3) A contracting authority authorising or requiring variants must state in the procurement documents the minimum requirements to be met by the variants and any specific requirements for their presentation, in particular whether variants may be submitted only where the economic operator also submits a tender which is not a variant.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e408a358f599e048c2eb7461915aa78]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/46/2) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(11)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/11) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-0e408a358f599e048c2eb7461915aa78]: Textual amendment: Words in [reg. 46(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/46/2) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(11)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/11) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

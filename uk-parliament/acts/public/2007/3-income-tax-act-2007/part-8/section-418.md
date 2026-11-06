@@ -24,7 +24,7 @@ summary: ''
 
 (2) Condition A is that the total value of the benefits associated with the gift exceeds the variable limit, which is—
 
-- (a)[^key-6dbe8c4ebf4597d09a6a076208dfc61e] in a case where the amount of the gift is £100 or less, 25% of that amount, and
+- (a)[^c-6dbe8c4ebf4597d09a6a076208dfc61e] in a case where the amount of the gift is £100 or less, 25% of that amount, and
 - (b) in a case where the amount of the gift exceeds £100, the sum of £25 and 5% of the amount of the excess.
 
 (3) Condition B is that the sum of—
@@ -32,7 +32,7 @@ summary: ''
 - (a) the total value of the benefits associated with the gift, and
 - (b) the total value of the benefits (if any) associated with each relevant prior gift,
 
-is more than £2,500[^key-50c9cd2a7f7144d5523098feab98d35a].
+is more than £2,500[^c-50c9cd2a7f7144d5523098feab98d35a].
 
 (4) “**Relevant prior gift**” means a gift—
 
@@ -43,6 +43,6 @@ is more than £2,500[^key-50c9cd2a7f7144d5523098feab98d35a].
 
 ## Annotations
 
-[^key-6dbe8c4ebf4597d09a6a076208dfc61e]: Textual amendment: S. 418(2)(a)(b) substituted for s. 418(2)(a)-(c) (with effect in accordance with s. 40(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/40/1)
+[^c-6dbe8c4ebf4597d09a6a076208dfc61e]: Textual amendment: S. 418(2)(a)(b) substituted for s. 418(2)(a)-(c) (with effect in accordance with s. 40(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/40/1)
 
-[^key-50c9cd2a7f7144d5523098feab98d35a]: Textual amendment: Sum in s. 418(3) substituted (19.7.2011) (with effect in accordance with s. 41(4) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/41/1)
+[^c-50c9cd2a7f7144d5523098feab98d35a]: Textual amendment: Sum in s. 418(3) substituted (19.7.2011) (with effect in accordance with s. 41(4) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/41/1)

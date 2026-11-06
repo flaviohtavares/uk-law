@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Funding to increase democratic engagement[^key-05617fd8680d46ef3fb03b9d107e1a0b][^key-dc113a30e62ad438397812614921770f]
+## 44. Funding to increase democratic engagement[^c-05617fd8680d46ef3fb03b9d107e1a0b][^c-dc113a30e62ad438397812614921770f]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05617fd8680d46ef3fb03b9d107e1a0b]: Commencement: S. 44 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-05617fd8680d46ef3fb03b9d107e1a0b]: Commencement: S. 44 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-dc113a30e62ad438397812614921770f]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/4/section/44) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-dc113a30e62ad438397812614921770f]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/4/section/44) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

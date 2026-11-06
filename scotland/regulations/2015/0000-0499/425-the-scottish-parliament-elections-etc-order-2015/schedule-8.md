@@ -22,7 +22,7 @@ summary: ''
 
 Article 6(5)
 
-### 1. Interpretation of this Schedule[^key-82699c8245b854251f409212ae79c111]
+### 1. Interpretation of this Schedule[^c-82699c8245b854251f409212ae79c111]
 
 (1) In this Schedule references to the “marked register or lists” means any part of the marked copies of—
 
@@ -37,13 +37,13 @@ retained by the CRO under paragraph 29 of Schedule 4 (retention of postal ballot
 
 - (a) “full register” and “edited register” have the same meaning as in the 2001 Regulations[^f00104];
 - (b) “processor” means a person who provides a service which consists of putting information into data form and any reference to a processor includes a reference to the processor’s employees;
-- (c)[^key-209e05441820c921268ebce1e53cc701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-209e05441820c921268ebce1e53cc701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-209e05441820c921268ebce1e53cc701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-209e05441820c921268ebce1e53cc701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any reference to an employee of any person who has access to a copy of the full register shall be deemed to include any person working or providing services for the purposes of that person or employed by or on behalf of, or working for, any person who is so working or who is supplying such a service.
 
 (3) Any duty of a CRO to supply records or lists or make them available for inspection under this Schedule imposes only a duty to provide that information in the form in which the CRO holds it.
 
-### 2. Supply of marked registers and lists after an election[^key-550a850ef168aa6ff881f20a5fe61114]
+### 2. Supply of marked registers and lists after an election[^c-550a850ef168aa6ff881f20a5fe61114]
 
 (1) Any person entitled to be supplied, in accordance with any of the provisions specified in sub-paragraph (2), with copies of the full register at the time of a Scottish parliamentary election is also a person entitled, subject to this paragraph and to paragraphs 4 and 5 (restrictions on supply, disclosure and use, etc.), to request that a CRO supply copies of the relevant part (within the meaning of those provisions) of the marked register or lists the CRO is required to keep.
 
@@ -104,7 +104,7 @@ for use in respect of the purposes for which that person is entitled to obtain s
 
 (11) A processor may not disclose the marked register or lists or the information contained in them except to the person who supplied it to the processor or any other person who is entitled to obtain a copy of the marked register or lists under this Schedule, or an employee of such a person.
 
-### 3. Inspection of documents open to public inspection[^key-a49b0436bbabdb79c3017346d5fee2cf]
+### 3. Inspection of documents open to public inspection[^c-a49b0436bbabdb79c3017346d5fee2cf]
 
 (1) Any person is entitled to request that the CRO make available for inspection a copy of any of the following documents (referred to in this Schedule as “the documents open to public inspection”)—
 
@@ -158,7 +158,7 @@ except that a person who inspects a copy of the marked register or lists may mak
 - (a) to the Security Service, the Government Communications Headquarters, or the Secret Intelligence Service;
 - (b) to a person who has inspected those documents and who is entitled to be supplied with a copy of the marked register or lists by virtue of being a person to whom regulation 108 of the 2001 Regulations applies.
 
-### 4. Restrictions on supply and disclosure of documents open to public inspection[^key-329ff68f5b1da8eedd7e42e5653ff7c3]
+### 4. Restrictions on supply and disclosure of documents open to public inspection[^c-329ff68f5b1da8eedd7e42e5653ff7c3]
 
 (1) This paragraph applies to—
 
@@ -172,7 +172,7 @@ except that a person who inspects a copy of the marked register or lists may mak
 
 otherwise than in accordance with this Schedule, or for the purposes of an election.
 
-### 5. Restriction on use of documents open to public inspection, or of information contained in them[^key-0d27059871c2847b212076f14afbe0ca]
+### 5. Restriction on use of documents open to public inspection, or of information contained in them[^c-0d27059871c2847b212076f14afbe0ca]
 
 (1) This paragraph applies to any person who has obtained access to a copy of the documents open to public inspection or information contained in them by any means.
 
@@ -186,7 +186,7 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 (3) Where a person obtains copies of the information in the marked register or lists in accordance with paragraph 2(1) or inspects information in accordance with paragraph 3(1), the “permitted purpose” means either—
 
-- (a)[^key-82890e134c55d575c3a163f5a30ee603] purposes mentioned in Article 84A(1)[^key-4e300060cc495ed4e97a08b2044d8fe0] of the UK GDPR[^key-7c1bd1d5fe95f7dec28140a0568bfab0] (archiving in the public interest, scientific or historical research and statistics); or
+- (a)[^c-82890e134c55d575c3a163f5a30ee603] purposes mentioned in Article 84A(1)[^c-4e300060cc495ed4e97a08b2044d8fe0] of the UK GDPR[^c-7c1bd1d5fe95f7dec28140a0568bfab0] (archiving in the public interest, scientific or historical research and statistics); or
 - (b) electoral purposes.
 
 (4) Where a copy of any information was supplied in the circumstances to which paragraph 3(9)(b) applies, the “permitted purpose” means either—
@@ -194,9 +194,9 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 - (a) the prevention and detection of crime and the enforcement of the criminal law (whether in Scotland or elsewhere); or
 - (b) the vetting of a relevant person for the purpose of safeguarding national security.
 
-(5)[^key-04731d24d0e3c362ace8f1637b117395] In this paragraph, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+(5)[^c-04731d24d0e3c362ace8f1637b117395] In this paragraph, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
 
-### 6. Calculating the fee for supply of marked registers or lists[^key-ae0b2b7bc3a53e3845130316d431f1e1]
+### 6. Calculating the fee for supply of marked registers or lists[^c-ae0b2b7bc3a53e3845130316d431f1e1]
 
 (1) The fee to be paid in accordance with paragraph 2(5)(b) by a person making a request for a copy of the whole or of any part of the marked register or lists is set out in sub-paragraph (2).
 
@@ -207,7 +207,7 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 (3) For the purposes of this paragraph, a request for a copy of the whole or the same part of the marked register or lists in both a printed and data form may be treated as two separate requests.
 
-### 7. Failure to comply with conditions relating to supply etc. of certain documents[^key-5da2dc36a1cacb8978d1f918b05bda3a]
+### 7. Failure to comply with conditions relating to supply etc. of certain documents[^c-5da2dc36a1cacb8978d1f918b05bda3a]
 
 (1) A person (“P”) is guilty of an offence—
 
@@ -232,13 +232,13 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 ## Annotations
 
-[^key-82699c8245b854251f409212ae79c111]: Commencement: Sch. 8 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-82699c8245b854251f409212ae79c111]: Commencement: Sch. 8 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00104]: Footnote: See regulation 93(1) inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872).
 
-[^key-209e05441820c921268ebce1e53cc701]: Textual amendment: [Sch. 8 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/1/2/c)[(d)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/1/2/d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 397(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/397/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-209e05441820c921268ebce1e53cc701]: Textual amendment: [Sch. 8 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/1/2/c)[(d)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/1/2/d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 397(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/397/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-550a850ef168aa6ff881f20a5fe61114]: Commencement: Sch. 8 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-550a850ef168aa6ff881f20a5fe61114]: Commencement: Sch. 8 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00106]: Footnote: Regulation 99 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872) and amended by [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
@@ -250,22 +250,22 @@ other than for a permitted purpose construed in accordance with sub-paragraphs (
 
 [^f00110]: Footnote: Regulation 43 was amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), regulation 9.
 
-[^key-a49b0436bbabdb79c3017346d5fee2cf]: Commencement: Sch. 8 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a49b0436bbabdb79c3017346d5fee2cf]: Commencement: Sch. 8 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00111]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-329ff68f5b1da8eedd7e42e5653ff7c3]: Commencement: Sch. 8 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-329ff68f5b1da8eedd7e42e5653ff7c3]: Commencement: Sch. 8 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-0d27059871c2847b212076f14afbe0ca]: Commencement: Sch. 8 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-0d27059871c2847b212076f14afbe0ca]: Commencement: Sch. 8 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-82890e134c55d575c3a163f5a30ee603]: Textual amendment: [Sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 397(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/397/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-82890e134c55d575c3a163f5a30ee603]: Textual amendment: [Sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 397(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/397/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-4e300060cc495ed4e97a08b2044d8fe0]: Textual amendment: Words in [sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [15(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/15/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-4e300060cc495ed4e97a08b2044d8fe0]: Textual amendment: Words in [sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [15(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/15/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-7c1bd1d5fe95f7dec28140a0568bfab0]: Textual amendment: Words in [sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 100(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/100/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c1bd1d5fe95f7dec28140a0568bfab0]: Textual amendment: Words in [sch. 8 para. 5(3)(a)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/3/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 100(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/100/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-04731d24d0e3c362ace8f1637b117395]: Textual amendment: [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 100(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/100/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04731d24d0e3c362ace8f1637b117395]: Textual amendment: [Sch. 8 para. 5(5)](https://www.legislation.gov.uk/ssi/2015/425/schedule/8/paragraph/5/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 100(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/100/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae0b2b7bc3a53e3845130316d431f1e1]: Commencement: Sch. 8 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-ae0b2b7bc3a53e3845130316d431f1e1]: Commencement: Sch. 8 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5da2dc36a1cacb8978d1f918b05bda3a]: Commencement: Sch. 8 para. 7 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5da2dc36a1cacb8978d1f918b05bda3a]: Commencement: Sch. 8 para. 7 in force at 16.12.2015 in accordance with art. 1(1)

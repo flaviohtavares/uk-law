@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Direction that a function be performed by the Welsh Ministers or their nominee[^key-ad565629ff5291b352891f53c0b95a05]
+## 107. Direction that a function be performed by the Welsh Ministers or their nominee[^c-ad565629ff5291b352891f53c0b95a05]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad565629ff5291b352891f53c0b95a05]: Commencement: S. 107 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-ad565629ff5291b352891f53c0b95a05]: Commencement: S. 107 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

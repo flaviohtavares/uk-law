@@ -34,7 +34,7 @@ summary: ''
 - (a) that any code of practice for the time being issued under paragraph 3 of Schedule 8 was complied with in determining the items and amounts of campaign expenditure to be entered in the relevant return under section 80, and
 - (b) that the limit would not have been exceeded on the basis of the items and amounts entered in that return.
 
-(3A)[^key-199d79fa830ed71e4bb755988e2b296a] See section 94F (expenditure by or on behalf of recognised third party targeted at a registered party) for—
+(3A)[^c-199d79fa830ed71e4bb755988e2b296a] See section 94F (expenditure by or on behalf of recognised third party targeted at a registered party) for—
 
 - (a) provision under which expenditure incurred by or on behalf of a third party may count towards the limit mentioned in subsection (2), and
 - (b) provision modifying subsection (2)(a)(i) in its application to such expenditure.
@@ -52,4 +52,4 @@ the appropriate proportion of the expenses mentioned in paragraph (a) shall be t
 
 [^c10574481]: Commencement: S. 79 wholly in force at 16.2.2001; s. 79 not in force at Royal Assent, see s. 163(2); s. 79 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-199d79fa830ed71e4bb755988e2b296a]: Textual amendment: S. 79(3A) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-199d79fa830ed71e4bb755988e2b296a]: Textual amendment: S. 79(3A) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

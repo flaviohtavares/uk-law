@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2016 (revoked)[^key-b31cafab9ccde1f24ad044f62cf819ee]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations 2016 (revoked)[^c-b31cafab9ccde1f24ad044f62cf819ee]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th December 2016
 
-[^key-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b31cafab9ccde1f24ad044f62cf819ee]
+## 1. Citation and commencement[^c-b31cafab9ccde1f24ad044f62cf819ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of 2007 Regulations[^key-b31cafab9ccde1f24ad044f62cf819ee]
+## 2. Amendment of 2007 Regulations[^c-b31cafab9ccde1f24ad044f62cf819ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of 2014 Regulations[^key-b31cafab9ccde1f24ad044f62cf819ee]
+## 3. Revocation of 2014 Regulations[^c-b31cafab9ccde1f24ad044f62cf819ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b31cafab9ccde1f24ad044f62cf819ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b31cafab9ccde1f24ad044f62cf819ee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1146) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(m)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/m) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-b31cafab9ccde1f24ad044f62cf819ee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1146) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(m)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/m) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

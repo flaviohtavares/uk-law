@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Service of warning or decision notice[^key-6267605bfe4cca6837e3ef983470bbab]
+## 65. Service of warning or decision notice[^c-6267605bfe4cca6837e3ef983470bbab]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Authority must not give a notice by virtue of which proceedings before an in
 
 ## Annotations
 
-[^key-6267605bfe4cca6837e3ef983470bbab]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-6267605bfe4cca6837e3ef983470bbab]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

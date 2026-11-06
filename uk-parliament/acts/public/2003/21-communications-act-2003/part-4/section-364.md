@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 364. TV licences[^key-71d0b6bdb3d9263293bede783d6f2e08]
+## 364. TV licences[^c-71d0b6bdb3d9263293bede783d6f2e08]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (c) the places where the installation and use of the television receiver is authorised by the licence;
 - (d) the circumstances in which the installation and use of such a receiver is so authorised;
 - (e) the purposes for which the installation and use of such a receiver is so authorised;
-- (f) the use of such receiver in a manner that causes, or may cause, interference (within the meaning of the Wireless Telegraphy Act 2006[^key-69ab7dfb141915734d42e9c33934c47b] ) with wireless telegraphy.
+- (f) the use of such receiver in a manner that causes, or may cause, interference (within the meaning of the Wireless Telegraphy Act 2006[^c-69ab7dfb141915734d42e9c33934c47b] ) with wireless telegraphy.
 
 (3) The restrictions and conditions subject to which a TV licence may be issued do not include—
 
@@ -64,6 +64,6 @@ a person’s proper address is any address where he is authorised by a TV licenc
 
 ## Annotations
 
-[^key-71d0b6bdb3d9263293bede783d6f2e08]: Commencement: S. 364 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))
+[^c-71d0b6bdb3d9263293bede783d6f2e08]: Commencement: S. 364 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))
 
-[^key-69ab7dfb141915734d42e9c33934c47b]: Textual amendment: Words in s. 364(2)(f) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/29)
+[^c-69ab7dfb141915734d42e9c33934c47b]: Textual amendment: Words in s. 364(2)(f) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/29)

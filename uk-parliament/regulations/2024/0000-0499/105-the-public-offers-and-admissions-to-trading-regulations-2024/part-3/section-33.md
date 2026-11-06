@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. FCA’s power to require information[^key-2f5ca0553ea004f039fc7169c072fc22]
+## 33. FCA’s power to require information[^c-2f5ca0553ea004f039fc7169c072fc22]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ in such manner as it may reasonably require.
 
 ## Annotations
 
-[^key-2f5ca0553ea004f039fc7169c072fc22]: Commencement: Reg. 33 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-2f5ca0553ea004f039fc7169c072fc22]: Commencement: Reg. 33 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

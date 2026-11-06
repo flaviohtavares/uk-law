@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Authority to survey and investigate the land[^key-85fe03c3d2bb5465dd02d8c52ccf273d]
+## 16. Authority to survey and investigate the land[^c-85fe03c3d2bb5465dd02d8c52ccf273d]
 
 *Extent: E+W+S*
 
@@ -51,8 +51,8 @@ but such consent must not be unreasonably withheld.
 
 (7) If either a highway authority or a street authority which receives an application for consent for trial holes fails to notify the undertaker of its decision within 28 days of receiving the application for consent—
 
-- (a) under sub-paragraph (4)(a)[^key-9bd92a4ae3f6338f5d0ce3c046290072] in the case of a highway authority; or
-- (b) under sub-paragraph (4)(b)[^key-e0ec6061f3ca66173105a833354fc89a] in the case of a street authority,
+- (a) under sub-paragraph (4)(a)[^c-9bd92a4ae3f6338f5d0ce3c046290072] in the case of a highway authority; or
+- (b) under sub-paragraph (4)(b)[^c-e0ec6061f3ca66173105a833354fc89a] in the case of a street authority,
 
 that authority is deemed to have granted consent.
 
@@ -60,8 +60,8 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-85fe03c3d2bb5465dd02d8c52ccf273d]: Commencement: Art. 16 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-85fe03c3d2bb5465dd02d8c52ccf273d]: Commencement: Art. 16 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-9bd92a4ae3f6338f5d0ce3c046290072]: Textual amendment: Words in [art. 16(7)(a)](https://www.legislation.gov.uk/uksi/2025/85/article/16/7/a) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-9bd92a4ae3f6338f5d0ce3c046290072]: Textual amendment: Words in [art. 16(7)(a)](https://www.legislation.gov.uk/uksi/2025/85/article/16/7/a) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
 
-[^key-e0ec6061f3ca66173105a833354fc89a]: Textual amendment: Words in [art. 16(7)(b)](https://www.legislation.gov.uk/uksi/2025/85/article/16/7/b) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-e0ec6061f3ca66173105a833354fc89a]: Textual amendment: Words in [art. 16(7)(b)](https://www.legislation.gov.uk/uksi/2025/85/article/16/7/b) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

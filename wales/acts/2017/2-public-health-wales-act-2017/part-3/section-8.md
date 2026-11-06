@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Premises that are open to the public[^key-b435266c0d3a873255514f6c5da25432]
+## 8. Premises that are open to the public[^c-b435266c0d3a873255514f6c5da25432]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b435266c0d3a873255514f6c5da25432]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2017/2/section/8) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-b435266c0d3a873255514f6c5da25432]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2017/2/section/8) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Application of Act in relation to territorial waters.[^key-97ac69f039ba5729b7fa55a23115d8a9]
+## 172. Application of Act in relation to territorial waters.[^c-97ac69f039ba5729b7fa55a23115d8a9]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-97ac69f039ba5729b7fa55a23115d8a9]: Modification: S. 172 applied (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/3/a), [22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+[^c-97ac69f039ba5729b7fa55a23115d8a9]: Modification: S. 172 applied (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/3/a), [22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 858. Declarations of non-UK residence: individuals[^key-7e58adeb993193404eeb9d856ece7b50]
+## 858. Declarations of non-UK residence: individuals[^c-7e58adeb993193404eeb9d856ece7b50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e58adeb993193404eeb9d856ece7b50]: Textual amendment: Ss. 858-861 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/12/a)
+[^c-7e58adeb993193404eeb9d856ece7b50]: Textual amendment: Ss. 858-861 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/12/a)

@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by Articles 14(1), (2) and (4)(*b*) and (*d*), 21(10)(*c*) and 36(1) and (2) of, and paragraphs 4 and 10 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00001], sections 122(1), 131(1), 132(3) and (4)(*b*), and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and sections 5(1)(*j*), 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as regulation 5(1), (2)(*a*), (3), (4)(*b*), (5), (6)(*a*), (7), (8)(*b*), (9), (10)(*b*), (11) and (12)(*b*) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that Regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ce35496c0780470beb88d90c3c29056c]
+## 1. Citation, commencement and interpretation[^c-ce35496c0780470beb88d90c3c29056c]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 1998 and shall come into operation on 1st June 1998.
 
@@ -54,11 +54,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Revocation[^key-26ac43b96317f849757bfdd9dd4ac6c0]
+## 2. Revocation[^c-26ac43b96317f849757bfdd9dd4ac6c0]
 
 The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1998[^f00012] (which increase the number of waiting days for a jobseeker’s allowance from 3 to 7) are hereby revoked.
 
-## 3. Amendment of the Income Support Regulations[^key-652bddf045094c7c2d5a63c2b3cc33cc]
+## 3. Amendment of the Income Support Regulations[^c-652bddf045094c7c2d5a63c2b3cc33cc]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (5).
 
@@ -130,7 +130,7 @@ The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1998[^f00
 
 (5) In Schedule 3 in paragraph 14(1)(*ee*)[^f00019] (linking rule) for “the Jobseeker’s Allowance (Northern Ireland) Regulations 1996” there shall be substituted “the Jobseeker’s Allowance Regulations (Northern Ireland) 1996”.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-d193315f87e8c2bc466a21d1ee4e59da]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-d193315f87e8c2bc466a21d1ee4e59da]
 
 (1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (6).
 
@@ -245,7 +245,7 @@ The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1998[^f00
 
   .
 
-## 5. Common amendments[^key-08c13254a92c2f7a73c8ce02ddb237d3]
+## 5. Common amendments[^c-08c13254a92c2f7a73c8ce02ddb237d3]
 
 (1) At the end of each of the regulations specified in paragraph (2) (which relate to income to be treated as capital) there shall be added the following paragraph—
 
@@ -342,7 +342,7 @@ The Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1998[^f00
 - (c) paragraph 52 of Schedule 3 to the Family Credit Regulations[^f00045];
 - (d) paragraph 51 of Schedule 4 to the Disability Working Allowance Regulations[^f00046].
 
-## 6. Consequential amendments[^key-d4b52f3f3febcfdf762c76f537a72b6e]
+## 6. Consequential amendments[^c-d4b52f3f3febcfdf762c76f537a72b6e]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00047] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -402,7 +402,7 @@ In so far as these Regulations are required, for the purposes of regulation 5(1)
 
 [^f00005]: Footnote: *See* section 150(1)(*b)*of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-ce35496c0780470beb88d90c3c29056c]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-ce35496c0780470beb88d90c3c29056c]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139) and [395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1990 Nos. 297](https://www.legislation.gov.uk/nisr/1990/297) and [346](https://www.legislation.gov.uk/nisr/1990/346), [S.R. 1993 Nos. 120](https://www.legislation.gov.uk/nisr/1993/120), [149](https://www.legislation.gov.uk/nisr/1993/149) and [167](https://www.legislation.gov.uk/nisr/1993/167), [S.R. 1996 Nos. 288](https://www.legislation.gov.uk/nisr/1996/288) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
@@ -416,11 +416,11 @@ In so far as these Regulations are required, for the purposes of regulation 5(1)
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-26ac43b96317f849757bfdd9dd4ac6c0]: Commencement: Reg. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-26ac43b96317f849757bfdd9dd4ac6c0]: Commencement: Reg. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1998 No. 10](https://www.legislation.gov.uk/nisr/1998/10)
 
-[^key-652bddf045094c7c2d5a63c2b3cc33cc]: Commencement: Reg. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-652bddf045094c7c2d5a63c2b3cc33cc]: Commencement: Reg. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00013]: Footnote: Chapter VIIA was inserted by regulation 4 of [S.R. 1993 No. 167](https://www.legislation.gov.uk/nisr/1993/167)
 
@@ -436,7 +436,7 @@ In so far as these Regulations are required, for the purposes of regulation 5(1)
 
 [^f00019]: Footnote: Head (*ee*) was inserted by regulation 16(3)(*a*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-d193315f87e8c2bc466a21d1ee4e59da]: Commencement: Reg. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-d193315f87e8c2bc466a21d1ee4e59da]: Commencement: Reg. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 75 was substituted by regulation 8 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
@@ -454,7 +454,7 @@ In so far as these Regulations are required, for the purposes of regulation 5(1)
 
 [^f00027]: Footnote: Paragraph 44 was added by regulation 15 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-08c13254a92c2f7a73c8ce02ddb237d3]: Commencement: Reg. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-08c13254a92c2f7a73c8ce02ddb237d3]: Commencement: Reg. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00028]: Footnote: Paragraph 60 was added by regulation 17(9) and (10)(*a*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
@@ -494,7 +494,7 @@ In so far as these Regulations are required, for the purposes of regulation 5(1)
 
 [^f00046]: Footnote: Paragraph 50 was added by regulation 17(11) and (12)(*d*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-d4b52f3f3febcfdf762c76f537a72b6e]: Commencement: Reg. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
+[^c-d4b52f3f3febcfdf762c76f537a72b6e]: Commencement: Reg. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/182/regulation/1/1)
 
 [^f00047]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398) and [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 

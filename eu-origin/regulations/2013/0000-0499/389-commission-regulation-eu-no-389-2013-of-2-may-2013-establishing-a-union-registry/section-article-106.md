@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 106. Change and release management[^key-e43b1ca1032e061dfff9f88632b2afc5]
+## Article 106. Change and release management[^c-e43b1ca1032e061dfff9f88632b2afc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e43b1ca1032e061dfff9f88632b2afc5]: Textual amendment: [Title 5 Ch. 1 s. 4](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(13)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/13)
+[^c-e43b1ca1032e061dfff9f88632b2afc5]: Textual amendment: [Title 5 Ch. 1 s. 4](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(13)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/13)

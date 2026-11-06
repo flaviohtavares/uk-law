@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. The Authority’s exercise of its functions[^key-1841b65d2e688dfbbbff1af26e2d2633]
+## 2. The Authority’s exercise of its functions[^c-1841b65d2e688dfbbbff1af26e2d2633]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1841b65d2e688dfbbbff1af26e2d2633]: Commencement: S. 2 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-1841b65d2e688dfbbbff1af26e2d2633]: Commencement: S. 2 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)

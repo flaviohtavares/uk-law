@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Commission Implementing Regulation (EU) 2018/274[^key-32c16f3663c64b18b3bd910e9f1d9e89]
+## 25. Commission Implementing Regulation (EU) 2018/274[^c-32c16f3663c64b18b3bd910e9f1d9e89]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32c16f3663c64b18b3bd910e9f1d9e89]: Commencement: Reg. 25 in force at 31.12.2020, see reg. 1(7)
+[^c-32c16f3663c64b18b3bd910e9f1d9e89]: Commencement: Reg. 25 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414531]: Marginal citation: EUR 2018/274. Prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. They are omitted by regulation 6 of this instrument and replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 25 of this instrument.

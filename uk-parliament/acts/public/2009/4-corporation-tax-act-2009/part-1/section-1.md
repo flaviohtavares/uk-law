@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the imposition of the charge to corporation tax on the income and chargeable gains of companies (referred to collectively as “**profits**”), (see section 2),
 - (b) the exclusion of income and chargeable gains subject to corporation tax from income tax and capital gains tax (see sections 3 and 4),
-- (c) provision about the territorial scope of the charge to corporation tax (see section 5 and Chapters 3A and 4[^key-0d40d6f404468dfeef6047d9d2a795f8]),
+- (c) provision about the territorial scope of the charge to corporation tax (see section 5 and Chapters 3A and 4[^c-0d40d6f404468dfeef6047d9d2a795f8]),
 - (d) provision about how corporation tax is charged and assessed, in particular its charging and assessment by reference to accounting periods (see section 8),
 - (e) provision about accounting periods (see Chapter 2), and
 - (f) rules for determining the residence of companies (see Chapter 3).
@@ -37,7 +37,7 @@ summary: ''
 - (d) Part 7 (profits arising from derivative contracts),
 - (e) Part 8 (gains in respect of intangible fixed assets),
 - (f) Part 9 (profits arising from disposals of know-how and sales of patent rights),
-- (fa)[^key-05f1f372010928bcdb534648d40881e2] Part 9A (company distributions), and
+- (fa)[^c-05f1f372010928bcdb534648d40881e2] Part 9A (company distributions), and
 - (g) Part 10 (miscellaneous income).
 
 (3) Part 7 also applies the charge to corporation tax on chargeable gains to certain profits arising from derivative contracts.
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d40d6f404468dfeef6047d9d2a795f8]: Textual amendment: Words in s. 1(1)(c) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/2), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-0d40d6f404468dfeef6047d9d2a795f8]: Textual amendment: Words in s. 1(1)(c) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/2), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
 
-[^key-05f1f372010928bcdb534648d40881e2]: Textual amendment: S. 1(2)(fa) inserted (with effect in accordance with Sch. 14 para. 31 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/21)
+[^c-05f1f372010928bcdb534648d40881e2]: Textual amendment: S. 1(2)(fa) inserted (with effect in accordance with Sch. 14 para. 31 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/21)

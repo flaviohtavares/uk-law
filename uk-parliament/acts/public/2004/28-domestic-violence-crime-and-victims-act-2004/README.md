@@ -51,7 +51,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3 — “Cohabitants” in Part 4 of 1996 Act to include same-sex couples](part-1/section-3.md)
 - [Section 4 — Extension of Part 4 of 1996 Act to non-cohabiting couples](part-1/section-4.md)
 
-#### Causing or allowing a child or vulnerable adult to die or suffer serious physical harm (Extent: N.I.)[^key-8699cdd9887f9912c73c322a163a3655]
+#### Causing or allowing a child or vulnerable adult to die or suffer serious physical harm (Extent: N.I.)[^c-8699cdd9887f9912c73c322a163a3655]
 
 *Extent: E+W+N.I.*
 
@@ -62,7 +62,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 7A — Evidence and procedure in cases of serious physical harm: Northern Ireland](part-1/section-7a.md)
 - [Section 8 — Evidence and procedure: the Court Martial](part-1/section-8.md)
 
-#### Domestic abuse related death reviews[^key-6cd2e425b0306e5b95974ffc354294e1]
+#### Domestic abuse related death reviews[^c-6cd2e425b0306e5b95974ffc354294e1]
 
 *Extent: E+W*
 
@@ -129,9 +129,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 33 — Procedure](part-3/section-33.md)
 - [Section 34 — Effect of non-compliance](part-3/section-34.md)
 
-### Part 3A — Victims’ rights to make representations and receive information etc[^M_F_1ef0ade1-6afb-4acf-c756-c5e30a4d767f][^key-372f76874b27839761c5febabbe11f87]
+### Part 3A — Victims’ rights to make representations and receive information etc[^M_F_1ef0ade1-6afb-4acf-c756-c5e30a4d767f][^c-372f76874b27839761c5febabbe11f87]
 
-#### Chapter 1 — Representations and information[^key-38dbe830a6cf4c64ad5d49190bae1296]
+#### Chapter 1 — Representations and information[^c-38dbe830a6cf4c64ad5d49190bae1296]
 
 ##### Imprisonment or detention
 
@@ -173,39 +173,39 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 44A — Information where restriction direction not given](part-3a/section-44a.md)
 - [Section 44B — Removal of restriction](part-3a/section-44b.md)
 
-#### Chapter 2 — Information: victims’ rights[^key-fcb3a6dbc397e67c5555c05af4711143]
+#### Chapter 2 — Information: victims’ rights[^c-fcb3a6dbc397e67c5555c05af4711143]
 
-##### Imprisonment or detention[^key-fcb3a6dbc397e67c5555c05af4711143]
+##### Imprisonment or detention[^c-fcb3a6dbc397e67c5555c05af4711143]
 
 - [Section 44C — Victims’ rights to receive information](part-3a/section-44c.md)
 
-##### Hospital orders[^key-fcb3a6dbc397e67c5555c05af4711143]
+##### Hospital orders[^c-fcb3a6dbc397e67c5555c05af4711143]
 
 - [Section 44D — Information where restriction order made](part-3a/section-44d.md)
 - [Section 44E — Victim impact statements where restriction order made](part-3a/section-44e.md)
 - [Section 44F — Information where restriction order not made](part-3a/section-44f.md)
 - [Section 44G — Removal of restriction](part-3a/section-44g.md)
 
-##### Hospital directions[^key-fcb3a6dbc397e67c5555c05af4711143]
+##### Hospital directions[^c-fcb3a6dbc397e67c5555c05af4711143]
 
 - [Section 44H — Information](part-3a/section-44h.md)
 - [Section 44I — Removal of restriction](part-3a/section-44i.md)
 
-##### Transfer directions[^key-fcb3a6dbc397e67c5555c05af4711143]
+##### Transfer directions[^c-fcb3a6dbc397e67c5555c05af4711143]
 
 - [Section 44J — Information where restriction direction given](part-3a/section-44j.md)
 - [Section 44K — Information where restriction direction not given](part-3a/section-44k.md)
 - [Section 44L — Removal of restriction](part-3a/section-44l.md)
 
-#### Chapter 3 — Information: powers etc[^key-35af8bea3a03241cab5e2ca2c1651804]
+#### Chapter 3 — Information: powers etc[^c-35af8bea3a03241cab5e2ca2c1651804]
 
 - [Section 44M — Power to disclose information to victims](part-3a/section-44m.md)
 - [Section 44N — Victim impact statements where hospital order made with restriction order](part-3a/section-44n.md)
 - [Section 44O — Saving for other powers of provider of probation services](part-3a/section-44o.md)
 
-#### Chapter 4 — Interpretation etc[^M_F_60bf757f-310b-4b9e-eda7-633f8b5c709c][^key-25e63d98a69b0d72dce0db84789a6ccd]
+#### Chapter 4 — Interpretation etc[^M_F_60bf757f-310b-4b9e-eda7-633f8b5c709c][^c-25e63d98a69b0d72dce0db84789a6ccd]
 
-##### ...[^key-c193b572a1b8f746206e3a2f81e75644]
+##### ...[^c-c193b572a1b8f746206e3a2f81e75644]
 
 *Extent: E+W*
 
@@ -217,7 +217,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 46 — Victims of mentally disordered persons](part-3a/section-46.md)
 
-### Part 3B — Other matters relating to victims etc[^key-edbf288f88ca51196334ed0635cd0927][^key-83aeeec481e413fbf4f6189d62e4d0d5]
+### Part 3B — Other matters relating to victims etc[^c-edbf288f88ca51196334ed0635cd0927][^c-83aeeec481e413fbf4f6189d62e4d0d5]
 
 #### Parliamentary Commissioner
 
@@ -244,7 +244,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 54 — Disclosure of information](part-3b/section-54.md)
 
-#### ...[^key-ddef2f41555409cab7fa03b1246630ed]
+#### ...[^c-ddef2f41555409cab7fa03b1246630ed]
 
 *Extent: E+W*
 
@@ -286,42 +286,42 @@ SCHEDULES
 - [SCHEDULE 11](schedule-11.md)
 - [SCHEDULE 12](schedule-12.md)
 
-## Chapter 2 — Representations and information[^key-38dbe830a6cf4c64ad5d49190bae1296]
+## Chapter 2 — Representations and information[^c-38dbe830a6cf4c64ad5d49190bae1296]
 
 *Extent: E+W+N.I.*
 
-[^key-38dbe830a6cf4c64ad5d49190bae1296] . . . . . . . . . . . . . . .
+[^c-38dbe830a6cf4c64ad5d49190bae1296] . . . . . . . . . . . . . . .
 
-## Chapter 3 — Other matters relating to victims etc[^key-edbf288f88ca51196334ed0635cd0927]
+## Chapter 3 — Other matters relating to victims etc[^c-edbf288f88ca51196334ed0635cd0927]
 
 *Extent: E+W+S+N.I.*
 
-[^key-edbf288f88ca51196334ed0635cd0927]. . . . . . . . . . . . . . .
+[^c-edbf288f88ca51196334ed0635cd0927]. . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8699cdd9887f9912c73c322a163a3655]: Textual amendment: S. 5 cross-heading substituted (E.W.) (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), ss. 1(7), 4(2) (with s. 1(8)); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), art. 2 and s. 5 cross-heading substituted (N.I.) (29.1.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 96(7)](https://www.legislation.gov.uk/nia/2015/9/section/96/7), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/418/article/2/b)
+[^c-8699cdd9887f9912c73c322a163a3655]: Textual amendment: S. 5 cross-heading substituted (E.W.) (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), ss. 1(7), 4(2) (with s. 1(8)); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), art. 2 and s. 5 cross-heading substituted (N.I.) (29.1.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 96(7)](https://www.legislation.gov.uk/nia/2015/9/section/96/7), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/418/article/2/b)
 
-[^key-6cd2e425b0306e5b95974ffc354294e1]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/28/section/8A) and cross-heading inserted (E.W.) (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
+[^c-6cd2e425b0306e5b95974ffc354294e1]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/28/section/8A) and cross-heading inserted (E.W.) (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
 
 [^M_F_1ef0ade1-6afb-4acf-c756-c5e30a4d767f]: Textual amendment: Pt. 3A heading inserted (13.8.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/1); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-372f76874b27839761c5febabbe11f87]: Textual amendment: Pt. 3A heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/2); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-372f76874b27839761c5febabbe11f87]: Textual amendment: Pt. 3A heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/2); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-38dbe830a6cf4c64ad5d49190bae1296]: Textual amendment: Pt. 3 Ch. 2 renumbered as Pt. 3A Ch. 1 (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/1); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-38dbe830a6cf4c64ad5d49190bae1296]: Textual amendment: Pt. 3 Ch. 2 renumbered as Pt. 3A Ch. 1 (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/1); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-fcb3a6dbc397e67c5555c05af4711143]: Textual amendment: Pt. 3A Ch. 2 inserted (13.8.2026 for specified purposes) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)
+[^c-fcb3a6dbc397e67c5555c05af4711143]: Textual amendment: Pt. 3A Ch. 2 inserted (13.8.2026 for specified purposes) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)
 
-[^key-35af8bea3a03241cab5e2ca2c1651804]: Textual amendment: Pt. 3A Ch. 3 inserted (13.8.2026 for the insertion of ss. 44M and 44O and otherwise prosp.) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/25); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iv)
+[^c-35af8bea3a03241cab5e2ca2c1651804]: Textual amendment: Pt. 3A Ch. 3 inserted (13.8.2026 for the insertion of ss. 44M and 44O and otherwise prosp.) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/25); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iv)
 
 [^M_F_60bf757f-310b-4b9e-eda7-633f8b5c709c]: Textual amendment: [Ss. 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45), [46](https://www.legislation.gov.uk/ukpga/2004/28/section/46) become Pt. 3A Ch. 4 (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/28); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-25e63d98a69b0d72dce0db84789a6ccd]: Textual amendment: Pt. 3A Ch. 4 heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/28); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-25e63d98a69b0d72dce0db84789a6ccd]: Textual amendment: Pt. 3A Ch. 4 heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/28); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-c193b572a1b8f746206e3a2f81e75644]: Textual amendment: S. 45 cross-heading omitted (13.8.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/29); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-c193b572a1b8f746206e3a2f81e75644]: Textual amendment: S. 45 cross-heading omitted (13.8.2026) by virtue of [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/29); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-edbf288f88ca51196334ed0635cd0927]: Textual amendment: Pt. 3 Ch. 3 renumbered as Pt. 3B (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/3); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-edbf288f88ca51196334ed0635cd0927]: Textual amendment: Pt. 3 Ch. 3 renumbered as Pt. 3B (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/3); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-83aeeec481e413fbf4f6189d62e4d0d5]: Textual amendment: Pt. 3B heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/3); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-83aeeec481e413fbf4f6189d62e4d0d5]: Textual amendment: Pt. 3B heading inserted (13.8.2026) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2/3); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-ddef2f41555409cab7fa03b1246630ed]: Textual amendment: S. 55 and cross-heading repealed (5.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/b)
+[^c-ddef2f41555409cab7fa03b1246630ed]: Textual amendment: S. 55 and cross-heading repealed (5.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/b)

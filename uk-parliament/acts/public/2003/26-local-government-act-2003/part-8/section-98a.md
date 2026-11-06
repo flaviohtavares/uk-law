@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Procedure for orders under section 97: Wales[^key-932e8d109fdb422ae98f3ace364377d4]
+## 98A. Procedure for orders under section 97: Wales[^c-932e8d109fdb422ae98f3ace364377d4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-932e8d109fdb422ae98f3ace364377d4]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2003/26/section/98A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [40(4)](https://www.legislation.gov.uk/uksi/2018/644/article/40/4)
+[^c-932e8d109fdb422ae98f3ace364377d4]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2003/26/section/98A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [40(4)](https://www.legislation.gov.uk/uksi/2018/644/article/40/4)

@@ -25,7 +25,7 @@ summary: ''
 - (a) a person (P) is in pensionable service in relation to more than one employment; and
 - (b) at least one employment is an irregular employment.
 
-(2)[^key-46ece07f5733fe352b0580cba67fb5fe] P’s full-time equivalent annual rate of pensionable earnings is the higher of—
+(2)[^c-46ece07f5733fe352b0580cba67fb5fe] P’s full-time equivalent annual rate of pensionable earnings is the higher of—
 
 - (a) Figure 1; and
 - (b) either--
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46ece07f5733fe352b0580cba67fb5fe]: Textual amendment: Reg. 41(2) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2652/regulation/9)
+[^c-46ece07f5733fe352b0580cba67fb5fe]: Textual amendment: Reg. 41(2) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2652/regulation/9)

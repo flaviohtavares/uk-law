@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Breaches of terms of service: breach notices[^key-2f0c0485e0ec7ec8e3f5c3b7ce0846e9]
+## 51. Breaches of terms of service: breach notices[^c-2f0c0485e0ec7ec8e3f5c3b7ce0846e9]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0c0485e0ec7ec8e3f5c3b7ce0846e9]: Commencement: Reg. 51 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-2f0c0485e0ec7ec8e3f5c3b7ce0846e9]: Commencement: Reg. 51 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

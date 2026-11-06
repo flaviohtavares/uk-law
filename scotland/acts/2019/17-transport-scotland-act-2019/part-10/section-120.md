@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Health boards: duty to have regard to community benefit in non-emergency patient transport contracts[^key-7dc12a738f8d006e0209d3ff4527485a]
+## 120. Health boards: duty to have regard to community benefit in non-emergency patient transport contracts[^c-7dc12a738f8d006e0209d3ff4527485a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Before entering into a contract for the provision of non-emergency patient trans
 
 ## Annotations
 
-[^key-7dc12a738f8d006e0209d3ff4527485a]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2019/17/section/120) in force at 1.10.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-7dc12a738f8d006e0209d3ff4527485a]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2019/17/section/120) in force at 1.10.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46II. Supply and delivery of metals[^key-cfa6031e6b5670717c2014baf5643812]
+## 46II. Supply and delivery of metals[^c-cfa6031e6b5670717c2014baf5643812]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa6031e6b5670717c2014baf5643812]: Textual amendment: Pt. 5 Ch. 4CB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2023/1364/regulation/7)
+[^c-cfa6031e6b5670717c2014baf5643812]: Textual amendment: Pt. 5 Ch. 4CB inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2023/1364/regulation/7)

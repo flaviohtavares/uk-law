@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Financial relief: provision corresponding to provision made by Part 2 of the Matrimonial Causes Act 1973[^key-99883e5870e7f4ec5fc9ef5b1d314aaa]
+## SCHEDULE 5 — Financial relief: provision corresponding to provision made by Part 2 of the Matrimonial Causes Act 1973[^c-99883e5870e7f4ec5fc9ef5b1d314aaa]
 
 *Extent: E+W*
 
@@ -158,9 +158,9 @@ it may provide for the deferred amount or the instalments to carry interest at s
 **10.** (1) The court may make a sale of property order—
 
 - (a) on making —
-  - (i) under Part 1, a secured periodical payments order or an order for the payment of a lump sum, [^key-7f68b133a8067e029b81d51bf392a584]...
+  - (i) under Part 1, a secured periodical payments order or an order for the payment of a lump sum, [^c-7f68b133a8067e029b81d51bf392a584]...
   - (ii) a property adjustment order, or
-  - (iii)[^key-f61cdec0c037191acd17b3281bbe2418] an order under paragraph 38A for a payment in respect of legal services, or
+  - (iii)[^c-f61cdec0c037191acd17b3281bbe2418] an order under paragraph 38A for a payment in respect of legal services, or
 - (b) at any time afterwards.
 
 (2) In this Schedule “**sale of property order**” means a sale of property order under this Part.
@@ -396,7 +396,7 @@ must have regard to all the circumstances of the case, giving first consideratio
 - (d) Part 4 (pension sharing orders) , or[^c20630461]
 - (e)[^c20630481] Part 4A (pension compensation sharing orders).
 
-(2)[^key-0f33b96d50c784e3d32c6df6ab736916] The court must in particular have regard to—
+(2)[^c-0f33b96d50c784e3d32c6df6ab736916] The court must in particular have regard to—
 
 - (a) the income, earning capacity, property and other financial resources which each civil partner—
   - (i) has, or
@@ -687,22 +687,22 @@ prescribed” means prescribed by regulations;[^c20861421]
 - (a) Chapter 3 of Part 2 of the 2004 Act (pension protection), or
 - (b) corresponding Northern Ireland legislation.
 
-### Part 8 — Maintenance and other payments pending outcome of dissolution, nullity or separation proceedings[^key-dbf7b0256d81f3ffe83e237d637b63c5]
+### Part 8 — Maintenance and other payments pending outcome of dissolution, nullity or separation proceedings[^c-dbf7b0256d81f3ffe83e237d637b63c5]
 
-#### Maintenance orders[^key-3f38aa32d1315a21b8ac76f61d227629]
+#### Maintenance orders[^c-3f38aa32d1315a21b8ac76f61d227629]
 
-**38.** (1)[^key-dfbb65c4b8a0fff5086edabb6268fbc2] On an application for a dissolution, nullity or separation order, the court may make an order requiring either civil partner to make to the other for the other’s maintenance such periodical payments for such term—
+**38.** (1)[^c-dfbb65c4b8a0fff5086edabb6268fbc2] On an application for a dissolution, nullity or separation order, the court may make an order requiring either civil partner to make to the other for the other’s maintenance such periodical payments for such term—
 
 - (a) beginning no earlier than the date on which the application was made, and
 - (b) ending with the date on which the proceedings are determined,
 
 as the court thinks reasonable.
 
-(2)[^key-fae753c0937326b3e75745b391bc5d7f] An order under this paragraph may not require one civil partner to pay to the other any amount in respect of legal services for the purposes of the proceedings.
+(2)[^c-fae753c0937326b3e75745b391bc5d7f] An order under this paragraph may not require one civil partner to pay to the other any amount in respect of legal services for the purposes of the proceedings.
 
 (3) In sub-paragraph (2) “**legal services**” has the same meaning as in paragraph 38A.
 
-#### Orders in respect of legal services[^key-92f594549d0a661218ed5ee794ce8c53]
+#### Orders in respect of legal services[^c-92f594549d0a661218ed5ee794ce8c53]
 
 **38A.** (1) In proceedings for a dissolution, nullity or separation order, the court may make an order or orders requiring one civil partner to pay to the other (“**the applicant**”) an amount for the purpose of enabling the applicant to obtain legal services for the purposes of the proceedings.
 
@@ -739,7 +739,7 @@ and they include, in particular, advice and assistance in the form of representa
 
 (11) In sub-paragraphs (5) and (6) “**specified**” means specified in the order concerned.
 
-**38B.**[^key-fd4de143ef72606c1a5ec0d88d5d4a8c] (1) When considering whether to make or vary an order under paragraph 38A, the court must have regard to—
+**38B.**[^c-fd4de143ef72606c1a5ec0d88d5d4a8c] (1) When considering whether to make or vary an order under paragraph 38A, the court must have regard to—
 
 - (a) the income, earning capacity, property and other financial resources which each of the applicant and the paying party has or is likely to have in the foreseeable future,
 - (b) the financial needs, obligations and responsibilities which each of the applicant and the paying party has or is likely to have in the foreseeable future,
@@ -774,13 +774,13 @@ and they include, in particular, advice and assistance in the form of representa
 - (a) has failed to provide reasonable maintenance for the applicant, or
 - (b) has failed to provide, or to make a proper contribution towards, reasonable maintenance for any child of the family.
 
-(2)[^key-ee4d5eb5c8771a65d4ad34555aa5a211] The court must not entertain an application under this paragraph unless–
+(2)[^c-ee4d5eb5c8771a65d4ad34555aa5a211] The court must not entertain an application under this paragraph unless–
 
 - (a) the applicant or the respondent is domiciled in England and Wales on the date of the application,
 - (b) the applicant has been habitually resident there throughout the period of 1 year ending with that date, or
 - (c) the respondent is resident there on that date.
 
-(2A)[^key-dda579f1403de728ae67e8176b54ff65] If the application or part of it relates to a matter to which Article 18 of the 2007 Hague Convention applies, the court must not entertain the application or that part of it except where permitted by Article 18.
+(2A)[^c-dda579f1403de728ae67e8176b54ff65] If the application or part of it relates to a matter to which Article 18 of the 2007 Hague Convention applies, the court must not entertain the application or that part of it except where permitted by Article 18.
 
 (3) If, on an application under this paragraph, it appears to the court that—
 
@@ -791,7 +791,7 @@ the court may make an interim order.
 
 (4) If, on an application under this paragraph, the applicant satisfies the court of a ground mentioned in sub-paragraph (1), the court may make one or more of the orders set out in paragraph 41.
 
-(5)[^c21546611] In this paragraph, “the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^key-4c3912e0111572558fc4dc3f29c6af78].
+(5)[^c21546611] In this paragraph, “the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^c-4c3912e0111572558fc4dc3f29c6af78].
 
 #### Interim orders
 
@@ -1156,7 +1156,7 @@ only for such further period as will in the opinion of the court be sufficient t
 
 (5) Sub-paragraph (4) does not affect any power to recover any part of the estate so distributed arising by virtue of the making of an order in pursuance of this paragraph.
 
-(6)[^key-02bc641798673e315dbd9abc0def14c9] The following are to be left out of account when considering for the purposes of sub-paragraph (3) when representation was first taken out—
+(6)[^c-02bc641798673e315dbd9abc0def14c9] The following are to be left out of account when considering for the purposes of sub-paragraph (3) when representation was first taken out—
 
 - (a) a grant limited to settled land or to trust property,
 - (b) any other grant that does not permit any of the estate to be distributed,
@@ -1213,7 +1213,7 @@ the court may, in exercise of its powers under this Part to vary or discharge th
 
 and the arrears became due more than 12 months before proceedings to enforce the payment of them are begun.
 
-(2) A person is not entitled to enforce through the High Court or the family court[^key-274bd781476d41c850c4801d6622bd89] the payment of the arrears without the leave of that court.
+(2) A person is not entitled to enforce through the High Court or the family court[^c-274bd781476d41c850c4801d6622bd89] the payment of the arrears without the leave of that court.
 
 (3) The court hearing an application for the grant of leave under this paragraph may—
 
@@ -1247,14 +1247,14 @@ and the arrears became due more than 12 months before proceedings to enforce the
 
 (7) An application under this paragraph—
 
-- (a) may be made in proceedings in the High Court or the family court[^key-90e4f7314cab7307b0e53e1c908745cb] for—
+- (a) may be made in proceedings in the High Court or the family court[^c-90e4f7314cab7307b0e53e1c908745cb] for—
   - (i) the variation or discharge of the order listed in sub-paragraph (2), or
   - (ii) leave to enforce, or the enforcement of, the payment of arrears under that order, but
 - (b) if not made in such proceedings, must be made to the family court ;
 
 and accordingly references in this paragraph to the court are references to the High Court or the family court, as the circumstances require.
 
-(8)[^key-5847ed35f8319a7bb61ff41831462a8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5847ed35f8319a7bb61ff41831462a8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Orders for repayment after cessation of order because of subsequent civil partnership etc.
 
@@ -1278,16 +1278,16 @@ and accordingly references in this paragraph to the court are references to the 
 
 (6) An application under this paragraph—
 
-- (a) may be made in proceedings in the High Court or the family court[^key-7c9ab95028bacf0099011d0f2ea15361] for leave to enforce, or the enforcement of, payment of arrears under the order in question, but
+- (a) may be made in proceedings in the High Court or the family court[^c-7c9ab95028bacf0099011d0f2ea15361] for leave to enforce, or the enforcement of, payment of arrears under the order in question, but
 - (b) if not made in such proceedings, must be made to the family court;
 
 and accordingly references in this paragraph to the court are references to the High Court or the family court, as the circumstances require.
 
-(7)[^key-28b73051fac65df2120bbdb9e3b5e0d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-28b73051fac65df2120bbdb9e3b5e0d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Subject to sub-paragraph (9)—
 
-- (a) an officer of the family court[^key-6a445e434f119dc823d7953c468918de] is not liable for any act done by him, in pursuance of a payments order requiring payments to be made to the court or an officer of the court, after the date on which that order ceased to have effect because of the formation of a subsequent civil partnership or marriage by the person entitled to payments under it, and
+- (a) an officer of the family court[^c-6a445e434f119dc823d7953c468918de] is not liable for any act done by him, in pursuance of a payments order requiring payments to be made to the court or an officer of the court, after the date on which that order ceased to have effect because of the formation of a subsequent civil partnership or marriage by the person entitled to payments under it, and
 - (b) the collecting officer under an attachment of earnings order made to secure payments under a payments order is not liable for any act done by him after that date in accordance with any enactment or rule of court specifying how payments made to him in compliance with the attachment of earnings order are to be dealt with.
 
 (9) Sub-paragraph (8) applies if (and only if) the act—
@@ -1300,7 +1300,7 @@ and accordingly references in this paragraph to the court are references to the 
 
 (10) In sub-paragraphs (8) and (9) “**payments order**” means a periodical payments order or secured periodical payments order and “**collecting officer**”, in relation to an attachment of earnings order, means—
 
-- (a) the officer of the High Court, or[^key-26d8ff42797ea698a85409b77ef31db0]
+- (a) the officer of the High Court, or[^c-26d8ff42797ea698a85409b77ef31db0]
 - (aa) the officer of the family court,
 
 to whom a person makes payments in compliance with the order.
@@ -1345,12 +1345,12 @@ including such rights and liabilities with respect to the maintenance or educati
 
 #### Alteration of agreements by court during lives of parties
 
-**69.** (1) [^key-07560011148db1a9ec69e7c7ae45df90]... Either party to a maintenance agreement may apply to the court [^key-e8706368b81a266ae41838de65834979]... for an order under this paragraph if—
+**69.** (1) [^c-07560011148db1a9ec69e7c7ae45df90]... Either party to a maintenance agreement may apply to the court [^c-e8706368b81a266ae41838de65834979]... for an order under this paragraph if—
 
 - (a) the maintenance agreement is for the time being subsisting, and
 - (b) each of the parties to the agreement is for the time being domiciled or resident in England and Wales.
 
-(1A)[^key-1a0814cafca5510f97b0b44a87b9216f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-1a0814cafca5510f97b0b44a87b9216f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The court may make an order under this paragraph if it is satisfied that—
 
@@ -1372,13 +1372,13 @@ as appear to the court to be just having regard to all the circumstances, includ
 
 (5) The effect of the order is that the agreement is to be treated as if any alteration made by the order had been made by agreement between the partners and for valuable consideration.
 
-(6) The power to make an order under this paragraph is subject to paragraph[^key-457016ab1e9934afbcb89b32af14ebf1] 71.
+(6) The power to make an order under this paragraph is subject to paragraph[^c-457016ab1e9934afbcb89b32af14ebf1] 71.
 
-(7)[^key-abf459c138493d5cc086b6fc6d64fb1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-abf459c138493d5cc086b6fc6d64fb1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Restrictions on applications to and orders by magistrates' courts under paragraph 69
 
-**70.**[^key-91415610996d14e1bca3816ebe7d323d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-91415610996d14e1bca3816ebe7d323d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Provisions relating to periodical and secured periodical payments: duration
 
@@ -1425,11 +1425,11 @@ must apply paragraph 49(2) to (5) (age limits) as if the order in question were 
 - (a) a maintenance agreement provides for the continuation of payments under the agreement after the death of one of the parties, and
 - (b) that party (“A”) dies domiciled in England and Wales.
 
-(2) Subject to sub-paragraph (4), the surviving party or A’s personal representatives may apply to the [^key-2cc3f63584c9e50833aa80bc987336d4]... court for an order under paragraph 69.
+(2) Subject to sub-paragraph (4), the surviving party or A’s personal representatives may apply to the [^c-2cc3f63584c9e50833aa80bc987336d4]... court for an order under paragraph 69.
 
 (3) If a maintenance agreement is altered by a court on an application made under sub-paragraph (2), the same consequences follow as if the alteration had been made immediately before the death by agreement between the parties and for valuable consideration.
 
-(4) An application under this paragraph may not, without the leave of the [^key-1293272016f14d4ba6e7f94e493efe29]... court, be made after the end of 6 months from the date on which representation in regard to A’s estate is first taken out.
+(4) An application under this paragraph may not, without the leave of the [^c-1293272016f14d4ba6e7f94e493efe29]... court, be made after the end of 6 months from the date on which representation in regard to A’s estate is first taken out.
 
 (5) A’s personal representatives are not liable for having distributed any part of A’s estate after the end of the 6 month period on the ground that they ought to have taken into account the possibility that a court might allow an application by virtue of this paragraph to be made by the surviving party after that period.
 
@@ -1568,7 +1568,7 @@ are references to such of the orders that may be made under Parts 1 and 9 (other
 (3) In this Schedule “**the court**” (except where the context otherwise requires) means—
 
 - (a) the High Court, or
-- (b)[^key-bc15b4b651bc80bf3e54c2f8ec5dcda0] the family court.
+- (b)[^c-bc15b4b651bc80bf3e54c2f8ec5dcda0] the family court.
 
 (4) References in this Schedule to a subsequent civil partnership include a civil partnership which is by law void or voidable.
 
@@ -1576,11 +1576,11 @@ are references to such of the orders that may be made under Parts 1 and 9 (other
 
 ## Annotations
 
-[^key-99883e5870e7f4ec5fc9ef5b1d314aaa]: Textual amendment: Sch. 5 title substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 177](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/177); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-99883e5870e7f4ec5fc9ef5b1d314aaa]: Textual amendment: Sch. 5 title substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 177](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/177); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7f68b133a8067e029b81d51bf392a584]: Textual amendment: Word in Sch. 5 para. 10(1)(a)(i) omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/54/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-7f68b133a8067e029b81d51bf392a584]: Textual amendment: Word in Sch. 5 para. 10(1)(a)(i) omitted (1.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/54/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-f61cdec0c037191acd17b3281bbe2418]: Textual amendment: Sch. 5 para. 10(1)(a)(iii) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/54/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-f61cdec0c037191acd17b3281bbe2418]: Textual amendment: Sch. 5 para. 10(1)(a)(iii) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/54/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
 [^c20875031]: Commencement: Sch. 5 para. 15 wholly in force at 5.12.2005; Sch. 5 para. 15 not in force at Royal Assent see s. 263; Sch. 5 para. 15(2) in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 5 para. 15 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
@@ -1602,7 +1602,7 @@ are references to such of the orders that may be made under Parts 1 and 9 (other
 
 [^c20630481]: Textual amendment: Sch. 5 para. 21(1)(e) inserted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 120](https://www.legislation.gov.uk/ukpga/2008/30/section/120), [149](https://www.legislation.gov.uk/ukpga/2008/30/section/149), [Sch. 6 para. 16(4)(c)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/16/4/c); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
 
-[^key-0f33b96d50c784e3d32c6df6ab736916]: Modification: [Sch. 5 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/5/paragraph/21/2) applied (with modifications) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/2/paragraph/4/3)
+[^c-0f33b96d50c784e3d32c6df6ab736916]: Modification: [Sch. 5 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/5/paragraph/21/2) applied (with modifications) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/2/paragraph/4/3)
 
 [^c20590251]: Modification: Sch. 5 para. 21(2)(d) applied (with modifications) (5.12.2005) by [The Civil Partnership (Treatment of Overseas Relationships) Order 2005 (S.I. 2005/3042)](https://www.legislation.gov.uk/uksi/2005/3042), [art. 3(3)](https://www.legislation.gov.uk/uksi/2005/3042/article/3/3)
 
@@ -1628,25 +1628,25 @@ are references to such of the orders that may be made under Parts 1 and 9 (other
 
 [^c20861421]: Textual amendment: Sch. 5 para. 37(1): definition of "prescribed" inserted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 120](https://www.legislation.gov.uk/ukpga/2008/30/section/120), [149](https://www.legislation.gov.uk/ukpga/2008/30/section/149), [Sch. 6 para. 17(5)(b)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/17/5/b); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
 
-[^key-dbf7b0256d81f3ffe83e237d637b63c5]: Textual amendment: Words in Sch. 5 Pt. 8 heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-dbf7b0256d81f3ffe83e237d637b63c5]: Textual amendment: Words in Sch. 5 Pt. 8 heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-3f38aa32d1315a21b8ac76f61d227629]: Textual amendment: Sch. 5 para. 38 cross-heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-3f38aa32d1315a21b8ac76f61d227629]: Textual amendment: Sch. 5 para. 38 cross-heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-dfbb65c4b8a0fff5086edabb6268fbc2]: Textual amendment: Sch. 5 para. 38 renumbered as Sch. 5 para. 38(1) (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/4/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-dfbb65c4b8a0fff5086edabb6268fbc2]: Textual amendment: Sch. 5 para. 38 renumbered as Sch. 5 para. 38(1) (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(4)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/4/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-fae753c0937326b3e75745b391bc5d7f]: Textual amendment: Sch. 5 para. 38(2)(3) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(4)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/4/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-fae753c0937326b3e75745b391bc5d7f]: Textual amendment: Sch. 5 para. 38(2)(3) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(4)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/4/b), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-92f594549d0a661218ed5ee794ce8c53]: Textual amendment: Sch. 5 para. 38A and cross-heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(5)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/5), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-92f594549d0a661218ed5ee794ce8c53]: Textual amendment: Sch. 5 para. 38A and cross-heading inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 52(5)](https://www.legislation.gov.uk/ukpga/2012/10/section/52/5), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-fd4de143ef72606c1a5ec0d88d5d4a8c]: Textual amendment: Sch. 5 para. 38B inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/10/section/53), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-fd4de143ef72606c1a5ec0d88d5d4a8c]: Textual amendment: Sch. 5 para. 38B inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 53](https://www.legislation.gov.uk/ukpga/2012/10/section/53), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
 
-[^key-ee4d5eb5c8771a65d4ad34555aa5a211]: Textual amendment: Sch. 5 para. 39(2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee4d5eb5c8771a65d4ad34555aa5a211]: Textual amendment: Sch. 5 para. 39(2) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dda579f1403de728ae67e8176b54ff65]: Textual amendment: Sch. 5 para. 39(2A) inserted (31.12.2020) by S.I. 2019/519, [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii))
+[^c-dda579f1403de728ae67e8176b54ff65]: Textual amendment: Sch. 5 para. 39(2A) inserted (31.12.2020) by S.I. 2019/519, [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii))
 
 [^c21546611]: Textual amendment: Sch. 5 para. 39(5) inserted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 9](https://www.legislation.gov.uk/uksi/2011/1484/regulation/9), [Sch. 7 para. 16(3)(b)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/3/b)
 
-[^key-4c3912e0111572558fc4dc3f29c6af78]: Textual amendment: Words in Sch. 5 para. 39(5) substituted (31.12.2020) by S.I. 2019/519, [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii))
+[^c-4c3912e0111572558fc4dc3f29c6af78]: Textual amendment: Words in Sch. 5 para. 39(5) substituted (31.12.2020) by S.I. 2019/519, [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(3)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/3/c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii))
 
 [^c20875291]: Commencement: Sch. 5 para. 46 wholly in force at 5.12.2005; Sch. 5 para. 46 not in force at Royal Assent see s. 263; Sch. 5 para. 46(2) in force for certain purposes and Sch. 5 para. 46(3) in force at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 5 para. 46 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
@@ -1682,42 +1682,42 @@ are references to such of the orders that may be made under Parts 1 and 9 (other
 
 [^c20861601]: Textual amendment: Words in Sch. 5 para. 58(2) substituted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 120](https://www.legislation.gov.uk/ukpga/2008/30/section/120), [149](https://www.legislation.gov.uk/ukpga/2008/30/section/149), [Sch. 6 para. 18(8)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/18/8); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
 
-[^key-02bc641798673e315dbd9abc0def14c9]: Textual amendment: Sch. 5 para. 60(6)(7) substituted for Sch. 5 para. 60(6) (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/5) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-02bc641798673e315dbd9abc0def14c9]: Textual amendment: Sch. 5 para. 60(6)(7) substituted for Sch. 5 para. 60(6) (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/5) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c20590481]: Modification: Sch. 5 para. 62(1)-(5) applied (with modifications) (5.12.2005) (temp.) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2877/article/2/5), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/5/paragraph/2/3)
 
-[^key-274bd781476d41c850c4801d6622bd89]: Textual amendment: Words in Sch. 5 para. 63(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 170](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/170); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-274bd781476d41c850c4801d6622bd89]: Textual amendment: Words in Sch. 5 para. 63(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 170](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/170); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-90e4f7314cab7307b0e53e1c908745cb]: Textual amendment: Words in Sch. 5 para. 64(7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 171(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/171/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-90e4f7314cab7307b0e53e1c908745cb]: Textual amendment: Words in Sch. 5 para. 64(7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 171(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/171/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-5847ed35f8319a7bb61ff41831462a8c]: Textual amendment: Sch. 5 para. 64(8) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 171(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/171/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5847ed35f8319a7bb61ff41831462a8c]: Textual amendment: Sch. 5 para. 64(8) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 171(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/171/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-7c9ab95028bacf0099011d0f2ea15361]: Textual amendment: Words in Sch. 5 para. 65(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-7c9ab95028bacf0099011d0f2ea15361]: Textual amendment: Words in Sch. 5 para. 65(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-28b73051fac65df2120bbdb9e3b5e0d6]: Textual amendment: Sch. 5 para. 65(7) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-28b73051fac65df2120bbdb9e3b5e0d6]: Textual amendment: Sch. 5 para. 65(7) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-6a445e434f119dc823d7953c468918de]: Textual amendment: Words in Sch. 5 para. 65(8)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(4)(a)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/4/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6a445e434f119dc823d7953c468918de]: Textual amendment: Words in Sch. 5 para. 65(8)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(4)(a)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/4/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-26d8ff42797ea698a85409b77ef31db0]: Textual amendment: Sch. 5 para. 65(10)(aa) and word substituted for Sch. 5 para. 65(10)(b)(c) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-26d8ff42797ea698a85409b77ef31db0]: Textual amendment: Sch. 5 para. 65(10)(aa) and word substituted for Sch. 5 para. 65(10)(b)(c) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 172(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/172/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-07560011148db1a9ec69e7c7ae45df90]: Textual amendment: Words in Sch. 5 para. 69(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07560011148db1a9ec69e7c7ae45df90]: Textual amendment: Words in Sch. 5 para. 69(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8706368b81a266ae41838de65834979]: Textual amendment: Words in Sch. 5 para. 69(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 173(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/173/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e8706368b81a266ae41838de65834979]: Textual amendment: Words in Sch. 5 para. 69(1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 173(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/173/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-1a0814cafca5510f97b0b44a87b9216f]: Textual amendment: Sch. 5 para. 69(1A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a0814cafca5510f97b0b44a87b9216f]: Textual amendment: Sch. 5 para. 69(1A) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-457016ab1e9934afbcb89b32af14ebf1]: Textual amendment: Word in Sch. 5 para. 69(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 173(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/173/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-457016ab1e9934afbcb89b32af14ebf1]: Textual amendment: Word in Sch. 5 para. 69(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 173(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/173/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-abf459c138493d5cc086b6fc6d64fb1a]: Textual amendment: Sch. 5 para. 69(7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-abf459c138493d5cc086b6fc6d64fb1a]: Textual amendment: Sch. 5 para. 69(7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 25(4)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/25/4/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91415610996d14e1bca3816ebe7d323d]: Textual amendment: Sch. 5 para. 70 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 174](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/174); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-91415610996d14e1bca3816ebe7d323d]: Textual amendment: Sch. 5 para. 70 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 174](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/174); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-2cc3f63584c9e50833aa80bc987336d4]: Textual amendment: Words in Sch. 5 para. 73(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 175(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/175/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-2cc3f63584c9e50833aa80bc987336d4]: Textual amendment: Words in Sch. 5 para. 73(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 175(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/175/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-1293272016f14d4ba6e7f94e493efe29]: Textual amendment: Words in Sch. 5 para. 73(4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 175(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/175/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1293272016f14d4ba6e7f94e493efe29]: Textual amendment: Words in Sch. 5 para. 73(4) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 175(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/175/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20634461]: Textual amendment: Sch. 5 para. 79A and cross-heading inserted (6.4.2011) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 120](https://www.legislation.gov.uk/ukpga/2008/30/section/120), [149](https://www.legislation.gov.uk/ukpga/2008/30/section/149), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2008/30/schedule/6/paragraph/19); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/2)
 
 [^c20875351]: Commencement: Sch. 5 para. 80 wholly in force at 5.12.2005; Sch. 5 para. 80 not in force at Royal Assent see s. 263; Sch. 5 para. 80(3) in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 5 para. 80 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-bc15b4b651bc80bf3e54c2f8ec5dcda0]: Textual amendment: Sch. 5 para. 80(3)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 176](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/176); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-bc15b4b651bc80bf3e54c2f8ec5dcda0]: Textual amendment: Sch. 5 para. 80(3)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 176](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/176); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

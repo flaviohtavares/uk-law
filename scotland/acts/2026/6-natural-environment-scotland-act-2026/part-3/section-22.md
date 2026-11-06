@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Action to prevent or stop harm to persons[^key-bca860a8ff5312b112765335267b3a6e][^key-d2ed18de87dfbc5c5aa5b67ae32b587f]
+## 22. Action to prevent or stop harm to persons[^c-bca860a8ff5312b112765335267b3a6e][^c-d2ed18de87dfbc5c5aa5b67ae32b587f]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bca860a8ff5312b112765335267b3a6e]: Commencement: S. 22 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-bca860a8ff5312b112765335267b3a6e]: Commencement: S. 22 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-d2ed18de87dfbc5c5aa5b67ae32b587f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2026/6/section/22) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)
+[^c-d2ed18de87dfbc5c5aa5b67ae32b587f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2026/6/section/22) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/m)

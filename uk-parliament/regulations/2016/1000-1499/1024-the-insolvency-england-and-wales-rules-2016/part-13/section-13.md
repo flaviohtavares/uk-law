@@ -33,7 +33,7 @@ summary: ''
 - (a) in any examination under section 133, 236, 251N, 290 or 366; and
 - (b) in relation to any application to the court.
 
-(2) In case of emergency, where there is no official receiver capable of acting, anything to be done by, to or before the official receiver may be done by, to or before a judge.[^key-94d8bf36665468e1d3825fc38cbaa638]
+(2) In case of emergency, where there is no official receiver capable of acting, anything to be done by, to or before the official receiver may be done by, to or before a judge.[^c-94d8bf36665468e1d3825fc38cbaa638]
 
 ## 13.3. Application for directions
 
@@ -57,4 +57,4 @@ The official receiver may not be appointed as liquidator or trustee by any decis
 
 ## Annotations
 
-[^key-94d8bf36665468e1d3825fc38cbaa638]: Textual amendment: Words in [rule 13.2(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/13.2/2) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [22](https://www.legislation.gov.uk/uksi/2026/561/rule/22)
+[^c-94d8bf36665468e1d3825fc38cbaa638]: Textual amendment: Words in [rule 13.2(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/13.2/2) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [22](https://www.legislation.gov.uk/uksi/2026/561/rule/22)

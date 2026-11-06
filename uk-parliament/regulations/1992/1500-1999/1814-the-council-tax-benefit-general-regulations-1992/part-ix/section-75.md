@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Setting aside of determinations and decisions on certain grounds[^key-c5f85728d280433295f573037eabac7f]
+## 75. Setting aside of determinations and decisions on certain grounds[^c-c5f85728d280433295f573037eabac7f]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f85728d280433295f573037eabac7f]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1992/1814/regulation/75) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-c5f85728d280433295f573037eabac7f]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1992/1814/regulation/75) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

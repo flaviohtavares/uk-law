@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-b33d9150979c191f168ff7c7fda2ca82]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-b33d9150979c191f168ff7c7fda2ca82]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 21
 
-**1.**[^key-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b33d9150979c191f168ff7c7fda2ca82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b33d9150979c191f168ff7c7fda2ca82]: Textual amendment: Regulations revoked (1.4.2020) by [The School and Early Years Finance (England) Regulations 2020 (S.I. 2020/83)](https://www.legislation.gov.uk/uksi/2020/83), [reg. 2](https://www.legislation.gov.uk/uksi/2020/83/regulation/2)
+[^c-b33d9150979c191f168ff7c7fda2ca82]: Textual amendment: Regulations revoked (1.4.2020) by [The School and Early Years Finance (England) Regulations 2020 (S.I. 2020/83)](https://www.legislation.gov.uk/uksi/2020/83), [reg. 2](https://www.legislation.gov.uk/uksi/2020/83/regulation/2)

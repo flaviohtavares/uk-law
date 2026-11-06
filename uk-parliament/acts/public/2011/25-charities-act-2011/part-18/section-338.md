@@ -25,7 +25,7 @@ summary: ''
 - (a) may be varied or revoked by a further direction given under that provision, and
 - (b) must be given in writing.
 
-(2) Sections 336 (enforcement of orders) and 337(1) to (3) and (5) (other provisions as to orders) apply to a direction of the Commission under any provision of this Act[^key-ace0d103ecca518aa506a393b5c1d1b4] as they apply to an order of the Commission.
+(2) Sections 336 (enforcement of orders) and 337(1) to (3) and (5) (other provisions as to orders) apply to a direction of the Commission under any provision of this Act[^c-ace0d103ecca518aa506a393b5c1d1b4] as they apply to an order of the Commission.
 
 (3) In subsection (1) the reference to the Commission includes, in relation to a direction under section 47(2) (obtaining evidence etc. for the purposes of an inquiry), a reference to any person conducting an inquiry under section 46.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ace0d103ecca518aa506a393b5c1d1b4]: Textual amendment: Words in [s. 338(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/338/2) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/37/3), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 9(d)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/9/d)
+[^c-ace0d103ecca518aa506a393b5c1d1b4]: Textual amendment: Words in [s. 338(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/338/2) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 37(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/37/3), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 9(d)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/9/d)

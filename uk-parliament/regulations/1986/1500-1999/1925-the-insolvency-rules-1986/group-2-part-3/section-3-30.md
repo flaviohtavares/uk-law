@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.30. Members' dealings with the company[^key-ce58cca1bfcd8845f59f47d53f23e7ec]
+## 3.30. Members' dealings with the company[^c-ce58cca1bfcd8845f59f47d53f23e7ec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce58cca1bfcd8845f59f47d53f23e7ec]: Commencement: [Rule 3.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ce58cca1bfcd8845f59f47d53f23e7ec]: Commencement: [Rule 3.30](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.30) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

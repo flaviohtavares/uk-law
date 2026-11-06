@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^key-01d00802d7adaf1cc80522ba8a41491f]
+## 32. The Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^c-01d00802d7adaf1cc80522ba8a41491f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulation 2 of, and the Schedule to, the Aquatic Animal Health and Alien Specie
 
 ## Annotations
 
-[^key-01d00802d7adaf1cc80522ba8a41491f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2020/1388/regulation/32) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-01d00802d7adaf1cc80522ba8a41491f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2020/1388/regulation/32) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00067]: Footnote: [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452).

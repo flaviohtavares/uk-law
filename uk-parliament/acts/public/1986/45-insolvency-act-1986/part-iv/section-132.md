@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Investigation by official receiver.[^key-e9072731b39eb0c8c9796427ab3e5ed5]
+## 132. Investigation by official receiver.[^c-e9072731b39eb0c8c9796427ab3e5ed5]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ and to make such report (if any) to the court as he thinks fit.
 
 ## Annotations
 
-[^key-e9072731b39eb0c8c9796427ab3e5ed5]: Modification: S. 132 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-e9072731b39eb0c8c9796427ab3e5ed5]: Modification: S. 132 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

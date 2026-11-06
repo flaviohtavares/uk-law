@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.6. Appendix to appeal print considered unnecessary[^key-7731da21f934b7574b584f175802e7af]
+## 7.6. Appendix to appeal print considered unnecessary[^c-7731da21f934b7574b584f175802e7af]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7731da21f934b7574b584f175802e7af]: Commencement: Para. 7.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7731da21f934b7574b584f175802e7af]: Commencement: Para. 7.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

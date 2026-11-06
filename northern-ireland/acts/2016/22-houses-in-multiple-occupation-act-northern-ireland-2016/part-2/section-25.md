@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Restriction on applications[^key-5d6e47224067143b10be089402b6192d]
+## 25. Restriction on applications[^c-5d6e47224067143b10be089402b6192d]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d6e47224067143b10be089402b6192d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/22/section/25) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-5d6e47224067143b10be089402b6192d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/22/section/25) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Regulation of building control profession[^key-728ac3d08e78b0d2b8869b97559e787c][^key-6b0866c7fdc844f5965e634644b5a9cc][^key-964e31d74f70087c4e88306e136b26af][^key-287d07dd655df569c471a30c2eb89944][^key-6e8eda4b17c7f8796184d6f3b3e77ea0][^key-889d435708a97b02043ae51886910436][^key-99bce5feaab3a183e61cd4d39f0d29bb][^key-a9554b4a6d94c16a1f7bcc4b07410716][^key-fdbe8da7ecb5c3ab1dddb57c2d0c3197]
+## 42. Regulation of building control profession[^c-728ac3d08e78b0d2b8869b97559e787c][^c-6b0866c7fdc844f5965e634644b5a9cc][^c-964e31d74f70087c4e88306e136b26af][^c-287d07dd655df569c471a30c2eb89944][^c-6e8eda4b17c7f8796184d6f3b3e77ea0][^c-889d435708a97b02043ae51886910436][^c-99bce5feaab3a183e61cd4d39f0d29bb][^c-a9554b4a6d94c16a1f7bcc4b07410716][^c-fdbe8da7ecb5c3ab1dddb57c2d0c3197]
 
 *Extent: E+W*
 
@@ -601,20 +601,20 @@ In the Building Act 1984, after Part 2 insert—
 
 ## Annotations
 
-[^key-728ac3d08e78b0d2b8869b97559e787c]: Commencement: S. 42 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(iii)(b)(iv)
+[^c-728ac3d08e78b0d2b8869b97559e787c]: Commencement: S. 42 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(iii)(b)(iv)
 
-[^key-6b0866c7fdc844f5965e634644b5a9cc]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(s)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/s)
+[^c-6b0866c7fdc844f5965e634644b5a9cc]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(s)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/s)
 
-[^key-964e31d74f70087c4e88306e136b26af]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(viii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/viii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2023/914/regulation/7))
+[^c-964e31d74f70087c4e88306e136b26af]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(viii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/viii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2023/914/regulation/7))
 
-[^key-287d07dd655df569c471a30c2eb89944]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.10.2023 for specified purposes except in relation to W by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/k)
+[^c-287d07dd655df569c471a30c2eb89944]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.10.2023 for specified purposes except in relation to W by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/k)
 
-[^key-6e8eda4b17c7f8796184d6f3b3e77ea0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.1.2024 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 4(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/4/a)
+[^c-6e8eda4b17c7f8796184d6f3b3e77ea0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.1.2024 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 4(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/4/a)
 
-[^key-889d435708a97b02043ae51886910436]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.1.2024 for specified purposes by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 4(b)](https://www.legislation.gov.uk/wsi/2023/914/regulation/4/b)
+[^c-889d435708a97b02043ae51886910436]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 1.1.2024 for specified purposes by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 4(b)](https://www.legislation.gov.uk/wsi/2023/914/regulation/4/b)
 
-[^key-99bce5feaab3a183e61cd4d39f0d29bb]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 for specified purposes by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-99bce5feaab3a183e61cd4d39f0d29bb]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 for specified purposes by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
 
-[^key-a9554b4a6d94c16a1f7bcc4b07410716]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-a9554b4a6d94c16a1f7bcc4b07410716]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 in force in so far as not already in force except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
 
-[^key-fdbe8da7ecb5c3ab1dddb57c2d0c3197]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 for specified purposes for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(ii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/ii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-fdbe8da7ecb5c3ab1dddb57c2d0c3197]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/30/section/42) in force at 6.4.2024 for specified purposes for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(ii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/ii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

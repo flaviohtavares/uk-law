@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124L. Enforcement of obligations[^key-cd6a9fa77ce3ccb3df26328d2431c533]
+## 124L. Enforcement of obligations[^c-cd6a9fa77ce3ccb3df26328d2431c533]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd6a9fa77ce3ccb3df26328d2431c533]: Textual amendment: S. 124L inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 14](https://www.legislation.gov.uk/ukpga/2010/24/section/14), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-cd6a9fa77ce3ccb3df26328d2431c533]: Textual amendment: S. 124L inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 14](https://www.legislation.gov.uk/ukpga/2010/24/section/14), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

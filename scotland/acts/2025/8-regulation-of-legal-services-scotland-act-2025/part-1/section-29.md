@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Exercise of rights to provide legal services[^key-fd3f0447301499ab593477701574040c][^key-1897fabfeee1471b90a3ca2898e048a3]
+## 29. Exercise of rights to provide legal services[^c-fd3f0447301499ab593477701574040c][^c-1897fabfeee1471b90a3ca2898e048a3]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd3f0447301499ab593477701574040c]: Commencement: S. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-fd3f0447301499ab593477701574040c]: Commencement: S. 29 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-1897fabfeee1471b90a3ca2898e048a3]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/8/section/29) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-1897fabfeee1471b90a3ca2898e048a3]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/8/section/29) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

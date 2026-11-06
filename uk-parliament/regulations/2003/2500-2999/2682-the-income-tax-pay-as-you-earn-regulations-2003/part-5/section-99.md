@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Multiple PAYE schemes: election made for improper purpose ineffective[^key-b925e2dcf9653dca1a4c7eb972ee159b]
+## 99. Multiple PAYE schemes: election made for improper purpose ineffective[^c-b925e2dcf9653dca1a4c7eb972ee159b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 (2) An election is made for an “improper purpose” if it is made for the purpose of—
 
 - (a) avoiding the requirement imposed by regulation 199 (large employers required to make specified payments electronically),
-- (b)[^key-39b2c2b71faa35de54fdad0f6514ed20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f6e4735fcead863d4ec4b9a7c0da9639] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-39b2c2b71faa35de54fdad0f6514ed20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f6e4735fcead863d4ec4b9a7c0da9639] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An employer may appeal against an improper purpose notice by giving notice to the Inland Revenue within 30 days of the issue of the improper purpose notice.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b925e2dcf9653dca1a4c7eb972ee159b]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2003/2682/regulation/99) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-b925e2dcf9653dca1a4c7eb972ee159b]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2003/2682/regulation/99) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-39b2c2b71faa35de54fdad0f6514ed20]: Textual amendment: [Reg. 99(2)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/99/2/b) omitted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [16(c)](https://www.legislation.gov.uk/uksi/2010/668/regulation/16/c)
+[^c-39b2c2b71faa35de54fdad0f6514ed20]: Textual amendment: [Reg. 99(2)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/99/2/b) omitted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [16(c)](https://www.legislation.gov.uk/uksi/2010/668/regulation/16/c)
 
-[^key-f6e4735fcead863d4ec4b9a7c0da9639]: Textual amendment: Reg. 99(2)(c) omitted (6.4.2010) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2010/668/regulation/16/b)
+[^c-f6e4735fcead863d4ec4b9a7c0da9639]: Textual amendment: Reg. 99(2)(c) omitted (6.4.2010) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2010/668/regulation/16/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143A. Full PI references: publication etc of reports of CMA[^key-fde4196df9ae9326ba79c0975d784f0e]
+## 143A. Full PI references: publication etc of reports of CMA[^c-fde4196df9ae9326ba79c0975d784f0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fde4196df9ae9326ba79c0975d784f0e]: Textual amendment: S. 143A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/10/paragraph/10); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-fde4196df9ae9326ba79c0975d784f0e]: Textual amendment: S. 143A inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/10/paragraph/10); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

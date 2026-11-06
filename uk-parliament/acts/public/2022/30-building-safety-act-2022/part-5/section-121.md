@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Associated persons[^key-a9a4022b770e50e5ec45b955cc68f917][^M_C_8924f3b6-172e-48b4-ccd7-0244deb74eb5]
+## 121. Associated persons[^c-a9a4022b770e50e5ec45b955cc68f917][^M_C_8924f3b6-172e-48b4-ccd7-0244deb74eb5]
 
 *Extent: E+W*
 
-(1) For the purposes of sections 122 to 124[^key-2a1fcccf1a1743f16b454eb1c062eceb] and Schedule 8, a partnership or body corporate is associated with another person in the circumstances mentioned in subsections (2) to (5).
+(1) For the purposes of sections 122 to 124[^c-2a1fcccf1a1743f16b454eb1c062eceb] and Schedule 8, a partnership or body corporate is associated with another person in the circumstances mentioned in subsections (2) to (5).
 
 (2) Where a person’s interest in a relevant building was held on trust at the qualifying time, any partnership or body corporate which was a beneficiary of the trust at that time is to be regarded, for the purposes of the provisions mentioned in subsection (1) as they apply in relation to the relevant building, as associated with the person.
 
@@ -68,8 +68,8 @@ or a firm or entity of a similar character formed under the law of a country or 
 
 ## Annotations
 
-[^key-a9a4022b770e50e5ec45b955cc68f917]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2022/30/section/121) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-a9a4022b770e50e5ec45b955cc68f917]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2022/30/section/121) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
 
 [^M_C_8924f3b6-172e-48b4-ccd7-0244deb74eb5]: Modification: [S. 121(2)-(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/121/2) modified (20.7.2022) by [The Building Safety (Leaseholder Protections) (England) Regulations 2022 (S.I. 2022/711)](https://www.legislation.gov.uk/uksi/2022/711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/711/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/711/regulation/3) (as amended (9.2.2023) by [The Building Safety (Leaseholder Protections) (England) (Amendment) Regulations 2023 (S.I. 2023/126)](https://www.legislation.gov.uk/uksi/2023/126), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2023/126/regulation/2/2))
 
-[^key-2a1fcccf1a1743f16b454eb1c062eceb]: Textual amendment: Word in [s. 121(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/121/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/g), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-2a1fcccf1a1743f16b454eb1c062eceb]: Textual amendment: Word in [s. 121(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/121/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(g)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/g), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

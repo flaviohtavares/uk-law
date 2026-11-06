@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Interpretation of Chapter 1[^key-a63b1acb3f1e3bd7e54d0add75c5c88b]
+## 152. Interpretation of Chapter 1[^c-a63b1acb3f1e3bd7e54d0add75c5c88b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-a63b1acb3f1e3bd7e54d0add75c5c88b]: Commencement: S. 152 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-a63b1acb3f1e3bd7e54d0add75c5c88b]: Commencement: S. 152 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

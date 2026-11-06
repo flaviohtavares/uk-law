@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Transitional Provisions[^key-6d663718b36497050ac99c018296729b]
+## 7. Transitional Provisions[^c-6d663718b36497050ac99c018296729b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d663718b36497050ac99c018296729b]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2005/3238/article/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-6d663718b36497050ac99c018296729b]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2005/3238/article/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

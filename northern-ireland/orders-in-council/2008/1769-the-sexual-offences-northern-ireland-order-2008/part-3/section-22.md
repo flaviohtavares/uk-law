@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person aged 18 or over (A) commits an offence if—
 
-- (a) A has met or communicated with another person (B) on one or more occasions[^key-a30fc28ede3f9a3b271b65c0dbec04ab], and subsequently—
+- (a) A has met or communicated with another person (B) on one or more occasions[^c-a30fc28ede3f9a3b271b65c0dbec04ab], and subsequently—
   - (i) A intentionally meets B, or
   - (ii) A travels with the intention of meeting B in any part of the world or arranges to meet B in any part of the world, or
   - (iii) B travels with the intention of meeting A in any part of the world,
@@ -35,7 +35,7 @@ summary: ''
 - (a) the reference to A having met or communicated with B is a reference to A having met B in any part of the world or having communicated with B by any means from, to or in any part of the world;
 - (b) “**relevant offence**” means—
   - (i) an offence under this Order, or
-  - (ii)[^key-801d06d81768782e6abff153896cbc65] an offence under section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation), or
+  - (ii)[^c-801d06d81768782e6abff153896cbc65] an offence under section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation), or
   - (iii) anything done outside Northern Ireland which is not an offence under paragraph (i) or (ii) but would be an offence within paragraph (i) or (ii) if done in Northern Ireland.
 
 (3) A person guilty of an offence under this Article is liable—
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a30fc28ede3f9a3b271b65c0dbec04ab]: Textual amendment: Words in [art. 22(1)(a)](https://www.legislation.gov.uk/nisi/2008/1769/article/22/1/a) substituted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 89](https://www.legislation.gov.uk/nia/2015/9/section/89), [106(1)(b)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/b) (with [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/9))
+[^c-a30fc28ede3f9a3b271b65c0dbec04ab]: Textual amendment: Words in [art. 22(1)(a)](https://www.legislation.gov.uk/nisi/2008/1769/article/22/1/a) substituted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 89](https://www.legislation.gov.uk/nia/2015/9/section/89), [106(1)(b)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/b) (with [Sch. 8 para. 9](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/9))
 
-[^key-801d06d81768782e6abff153896cbc65]: Textual amendment: Art. 22(2)(b)(ii) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/8/1)
+[^c-801d06d81768782e6abff153896cbc65]: Textual amendment: Art. 22(2)(b)(ii) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/8/1)

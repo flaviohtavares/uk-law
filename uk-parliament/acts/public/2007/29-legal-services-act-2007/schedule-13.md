@@ -26,13 +26,13 @@ Section 89
 
 #### Restricted interests subject to approval
 
-**1.**[^key-9444f9be688e446974c73aefb55a5485] (1) The holding by a non-authorised person of a restricted interest in a licensed body is subject to the approval of the relevant licensing authority in accordance with the provisions of this Schedule.
+**1.**[^c-9444f9be688e446974c73aefb55a5485] (1) The holding by a non-authorised person of a restricted interest in a licensed body is subject to the approval of the relevant licensing authority in accordance with the provisions of this Schedule.
 
 (2) In relation to a licensed body which is a partnership, for the purposes of section 34 of the Partnership Act 1890 (c. 39) (dissolution by illegality) the holding by a non-authorised person of a restricted interest in the body without the approval of the relevant licensing authority does not make it unlawful for the business of the partnership to be carried on, or for the partners to carry it on in partnership.
 
 #### Restricted interest
 
-**2.**[^key-0278cb1eaaf8566ff8bd0b9655582213] (1) “**Restricted interest**” means each of the following—
+**2.**[^c-0278cb1eaaf8566ff8bd0b9655582213] (1) “**Restricted interest**” means each of the following—
 
 - (a) a material interest;
 - (b) if licensing rules are made by the relevant licensing authority under sub-paragraph (2), a controlled interest.
@@ -41,7 +41,7 @@ Section 89
 
 #### Material interest
 
-**3.**[^key-5c8c84163efc52785194428812683af3] (1) For the purposes of this Part of this Act, a person holds a material interest in a body (“B”) if the person—
+**3.**[^c-5c8c84163efc52785194428812683af3] (1) For the purposes of this Part of this Act, a person holds a material interest in a body (“B”) if the person—
 
 - (a) holds at least 10% of the shares in B,
 - (b) is able to exercise significant influence over the management of B by virtue of the person's shareholding in B,
@@ -67,7 +67,7 @@ Section 89
 
 #### Controlled interest
 
-**4.**[^key-6a3fc69b17e917001e3cfe9cd8703c59] (1) For the purposes of this Schedule, a person holds a controlled interest in a body (“B”) if the person—
+**4.**[^c-6a3fc69b17e917001e3cfe9cd8703c59] (1) For the purposes of this Schedule, a person holds a controlled interest in a body (“B”) if the person—
 
 - (a) holds at least x% of the shares in B,
 - (b) holds at least x% of the shares in a parent undertaking (“P”) of B,
@@ -96,7 +96,7 @@ Section 89
 
 #### Associates, parent undertakings and voting power
 
-**5.**[^key-02f1b1afbb6d7f75950af3f7c3ad0c25] (1) For the purposes of this Schedule “**associate**”, in relation to a person (“A”) and—
+**5.**[^c-02f1b1afbb6d7f75950af3f7c3ad0c25] (1) For the purposes of this Schedule “**associate**”, in relation to a person (“A”) and—
 
 - (a) a shareholding in a body (“S”), or
 - (b) an entitlement to exercise or control the exercise of voting power in a body (“V”),
@@ -127,7 +127,7 @@ means a person listed in sub-paragraph (2).
 
 #### The approval requirements
 
-**6.**[^key-99ddd3de587006d758ff97c0831afdcb] (1) For the purposes of this Schedule, the approval requirements are met in relation to a person's holding of a restricted interest if—
+**6.**[^c-99ddd3de587006d758ff97c0831afdcb] (1) For the purposes of this Schedule, the approval requirements are met in relation to a person's holding of a restricted interest if—
 
 - (a) the person's holding of that interest does not compromise the regulatory objectives,
 - (b) the person's holding of that interest does not compromise compliance with the duties imposed by section 176 by the licensed body or persons to whom sub-paragraph (2) applies, and
@@ -146,7 +146,7 @@ means a person listed in sub-paragraph (2).
 
 #### Approval of multiple restricted interests
 
-**7.**[^key-80415974c39544164e1aff381de37c43] (1) This paragraph applies if a person (“P”) holds a kind of restricted interest in a body (“B”) by virtue of—
+**7.**[^c-80415974c39544164e1aff381de37c43] (1) This paragraph applies if a person (“P”) holds a kind of restricted interest in a body (“B”) by virtue of—
 
 - (a) holding a particular percentage of the shares in B or a parent undertaking of B, or
 - (b) an entitlement to exercise, or control the exercise of, a particular percentage of the voting rights in B or a parent undertaking of B.
@@ -164,7 +164,7 @@ means a person listed in sub-paragraph (2).
 
 #### Lord Chancellor's power to modify
 
-**9.**[^key-8a1f6ee6a8a8dcd664d59fd0178935da] The Lord Chancellor may, on the recommendation of the Board, by order modify—
+**9.**[^c-8a1f6ee6a8a8dcd664d59fd0178935da] The Lord Chancellor may, on the recommendation of the Board, by order modify—
 
 - (a) paragraph 3 (material interest);
 - (b) paragraphs 4(2), 5, 6(3)(c), 38(3), 41(3) and 42(3) (associates).
@@ -173,7 +173,7 @@ means a person listed in sub-paragraph (2).
 
 #### Requirement to identify non-authorised persons
 
-**10.**[^key-e36c67e69958abaa1b141def3419a609] (1) Where a body applies to a licensing authority for a licence, it must identify in its application—
+**10.**[^c-e36c67e69958abaa1b141def3419a609] (1) Where a body applies to a licensing authority for a licence, it must identify in its application—
 
 - (a) any non-authorised person who holds a restricted interest in the body, or whom the body expects to hold such an interest when the licence is issued, and
 - (b) the kind of restricted interest held, or expected to be held, by that person.
@@ -185,13 +185,13 @@ means a person listed in sub-paragraph (2).
 
 the applicant must inform the relevant licensing authority within such period as may be specified by order made by the Lord Chancellor on the recommendation of the Board.
 
-**11.**[^key-35c56d5a0c7f60b394e9014738558247] (1) It is an offence for a person to fail to comply with a requirement imposed on the person by paragraph 10.
+**11.**[^c-35c56d5a0c7f60b394e9014738558247] (1) It is an offence for a person to fail to comply with a requirement imposed on the person by paragraph 10.
 
 (2) A person who is guilty of an offence under sub-paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (3) It is a defence for a person charged with an offence under sub-paragraph (1) to show that at the time of the alleged offence the person had no knowledge of the facts by virtue of which the duty to notify arose.
 
-**12.**[^key-cee5100ecefa641d4e3bfeebb1df844e] (1) This paragraph applies if a person under a duty to notify imposed by paragraph 10—
+**12.**[^c-cee5100ecefa641d4e3bfeebb1df844e] (1) This paragraph applies if a person under a duty to notify imposed by paragraph 10—
 
 - (a) had no knowledge of the facts by virtue of which that duty arose, but
 - (b) subsequently becomes aware of those facts.
@@ -204,7 +204,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 #### Requirement to notify non-authorised persons
 
-**13.**[^key-e6d2c987fd162eae56a29c5d0bb9f687] (1) Where an applicant for a licence identifies a non-authorised person to a licensing authority in accordance with paragraph 10 or 12, it must give that person a notice—
+**13.**[^c-e6d2c987fd162eae56a29c5d0bb9f687] (1) Where an applicant for a licence identifies a non-authorised person to a licensing authority in accordance with paragraph 10 or 12, it must give that person a notice—
 
 - (a) stating that it has applied for a licence and identified the person to the licensing authority in accordance with paragraph 10 or 12, and
 - (b) explaining the effect of paragraph 14.
@@ -215,7 +215,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 #### Licensing authority's power to require information
 
-**14.**[^key-fcf845351adb98f06a571ef9125c4e17] (1) A licensing authority may require a non-authorised person identified to it in accordance with paragraph 10 or 12 to provide it with such documents and information as it may require.
+**14.**[^c-fcf845351adb98f06a571ef9125c4e17] (1) A licensing authority may require a non-authorised person identified to it in accordance with paragraph 10 or 12 to provide it with such documents and information as it may require.
 
 (2) It is an offence for a person who is required to provide information or documents under sub-paragraph (1) knowingly to provide false or misleading information or documents.
 
@@ -226,7 +226,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 #### Licence may not be granted unless non-authorised persons approved
 
-**15.**[^key-011c231debcdb99bf2c811a5d04d06a3] (1) This paragraph applies where an applicant for a licence (“**the applicant**”) gives the licensing authority notification under paragraph 10 or 12 in relation to one or more non-authorised persons.
+**15.**[^c-011c231debcdb99bf2c811a5d04d06a3] (1) This paragraph applies where an applicant for a licence (“**the applicant**”) gives the licensing authority notification under paragraph 10 or 12 in relation to one or more non-authorised persons.
 
 (2) The licensing authority may not grant the application for a licence unless, in relation to each non-authorised person in respect of which notification is given (“**the investor**”), it approves the investor's holding of the restricted interest to which the notification relates (“**the notified interest**”).
 
@@ -236,77 +236,77 @@ the applicant must inform the relevant licensing authority within such period as
 
 #### Unconditional approval of notified interest
 
-**16.**[^key-295f24718f66379d9b11b742085e34e5] (1) If the licensing authority is satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it must approve the investor's holding of that interest without conditions.
+**16.**[^c-295f24718f66379d9b11b742085e34e5] (1) If the licensing authority is satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it must approve the investor's holding of that interest without conditions.
 
 (2) If the licensing authority approves the investor's holding of the notified interest without conditions, it must notify the investor and the applicant of its approval as soon as reasonably practicable.
 
 #### Conditional approval of notified interest
 
-**17.**[^c20329071] (1)[^key-33422f77b93b68cb23341af10765c16d] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it may approve the investor's holding of the notified interest subject to conditions.
+**17.**[^c20329071] (1)[^c-33422f77b93b68cb23341af10765c16d] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it may approve the investor's holding of the notified interest subject to conditions.
 
-(2)[^key-33422f77b93b68cb23341af10765c16d] It may do so only if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the notified interest without the approval requirements being met.
+(2)[^c-33422f77b93b68cb23341af10765c16d] It may do so only if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the notified interest without the approval requirements being met.
 
-(3)[^key-33422f77b93b68cb23341af10765c16d] If the licensing authority proposes to approve the investor's holding of the notified interest subject to conditions it must give the investor and the applicant a warning notice.
+(3)[^c-33422f77b93b68cb23341af10765c16d] If the licensing authority proposes to approve the investor's holding of the notified interest subject to conditions it must give the investor and the applicant a warning notice.
 
 (4) The warning notice must—
 
-- (a)[^key-33422f77b93b68cb23341af10765c16d] specify the nature of the conditions proposed and the reasons for their imposition, and
-- (b)[^key-248b059ea60dd99fa5df860476965aba] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-33422f77b93b68cb23341af10765c16d] specify the nature of the conditions proposed and the reasons for their imposition, and
+- (b)[^c-248b059ea60dd99fa5df860476965aba] state that representations may be made to the licensing authority within the prescribed period.
 
-(5)[^key-248b059ea60dd99fa5df860476965aba] The licensing authority must consider any representations made within the prescribed period.
+(5)[^c-248b059ea60dd99fa5df860476965aba] The licensing authority must consider any representations made within the prescribed period.
 
-(6)[^key-33422f77b93b68cb23341af10765c16d] If the licensing authority approves the investor's holding of the notified interest subject to conditions, it must notify the investor and the applicant of its approval as soon as reasonably practicable.
+(6)[^c-33422f77b93b68cb23341af10765c16d] If the licensing authority approves the investor's holding of the notified interest subject to conditions, it must notify the investor and the applicant of its approval as soon as reasonably practicable.
 
-(7)[^key-33422f77b93b68cb23341af10765c16d] The notice must—
+(7)[^c-33422f77b93b68cb23341af10765c16d] The notice must—
 
 - (a) specify the reasons for the imposition of the conditions, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**18.**[^c20329101][^key-593e68023e9b8f69f57c5f8b3da93273][^key-ec9a53eebc8aafbb48e5c7de2734fbf0][^key-c8841543aec1bc2323faa7f0fc269ee4][^key-9c40571f33b8f8352f090778a2a2bbd5][^key-7c95ba452824d3920b81617e898b9515] (1)[^key-e65c8a25fe7a3e0edfd1de6cff0c5a0f] The investor and the applicant may before the end of the prescribed period appeal to the relevant appellate body against the imposition of any or all of the conditions.
+**18.**[^c20329101][^c-593e68023e9b8f69f57c5f8b3da93273][^c-ec9a53eebc8aafbb48e5c7de2734fbf0][^c-c8841543aec1bc2323faa7f0fc269ee4][^c-9c40571f33b8f8352f090778a2a2bbd5][^c-7c95ba452824d3920b81617e898b9515] (1)[^c-e65c8a25fe7a3e0edfd1de6cff0c5a0f] The investor and the applicant may before the end of the prescribed period appeal to the relevant appellate body against the imposition of any or all of the conditions.
 
-(2)[^key-8d3a80183a4aa372166b70bda959c714] The relevant appellate body may dismiss the appeal, or allow the appeal and—
+(2)[^c-8d3a80183a4aa372166b70bda959c714] The relevant appellate body may dismiss the appeal, or allow the appeal and—
 
 - (a) order the licensing authority to approve the investor's holding of the notified interest without conditions, or subject to such conditions as may be specified in the order, or
 - (b) remit the matter to the licensing authority.
 
-(3)[^key-e65c8a25fe7a3e0edfd1de6cff0c5a0f] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
+(3)[^c-e65c8a25fe7a3e0edfd1de6cff0c5a0f] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
 
-(4)[^key-8d3a80183a4aa372166b70bda959c714] The High Court may make such order as it thinks fit.
+(4)[^c-8d3a80183a4aa372166b70bda959c714] The High Court may make such order as it thinks fit.
 
-(5)[^key-8d3a80183a4aa372166b70bda959c714] If the investor's holding of the notified interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 17.
+(5)[^c-8d3a80183a4aa372166b70bda959c714] If the investor's holding of the notified interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 17.
 
 #### Objection to notified interest
 
-**19.**[^c20329131] (1)[^key-719948d0948c16428e353905a7c0b230] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it may object to the investor's holding of that interest.
+**19.**[^c20329131] (1)[^c-719948d0948c16428e353905a7c0b230] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notified interest, it may object to the investor's holding of that interest.
 
-(2)[^key-719948d0948c16428e353905a7c0b230] If the licensing authority proposes to object to the investor's holding of the notified interest, it must give the investor and the applicant a warning notice.
+(2)[^c-719948d0948c16428e353905a7c0b230] If the licensing authority proposes to object to the investor's holding of the notified interest, it must give the investor and the applicant a warning notice.
 
 (3) The warning notice must—
 
-- (a)[^key-719948d0948c16428e353905a7c0b230] specify the reasons for the proposed objection, and
-- (b)[^key-e544550a7658d61b435d9c89e764ab8c] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-719948d0948c16428e353905a7c0b230] specify the reasons for the proposed objection, and
+- (b)[^c-e544550a7658d61b435d9c89e764ab8c] state that representations may be made to the licensing authority within the prescribed period.
 
-(4)[^key-e544550a7658d61b435d9c89e764ab8c] The licensing authority must consider any representations made within the prescribed period.
+(4)[^c-e544550a7658d61b435d9c89e764ab8c] The licensing authority must consider any representations made within the prescribed period.
 
-(5)[^key-719948d0948c16428e353905a7c0b230] If the licensing authority objects to the investor's holding of the notified interest, it must notify the investor and the applicant of its objection as soon as reasonably practicable.
+(5)[^c-719948d0948c16428e353905a7c0b230] If the licensing authority objects to the investor's holding of the notified interest, it must notify the investor and the applicant of its objection as soon as reasonably practicable.
 
-(6)[^key-719948d0948c16428e353905a7c0b230] The notice must—
+(6)[^c-719948d0948c16428e353905a7c0b230] The notice must—
 
 - (a) specify the reasons for the objection, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**20.**[^c20329141][^key-3d4d3c8b02072702bf1890dbe9698a5b][^key-7aafabed912bff5695cd4ab200c5fa74][^key-3405175ca66c953594d247dfae8d56d0][^key-83352482eb77bbe6bf04569abf8c8263] (1)[^key-c63e505bfb0ea24405985b2a0edb8e98] The investor and the applicant may before the end of the prescribed period appeal to the relevant appellate body against the objection.
+**20.**[^c20329141][^c-3d4d3c8b02072702bf1890dbe9698a5b][^c-7aafabed912bff5695cd4ab200c5fa74][^c-3405175ca66c953594d247dfae8d56d0][^c-83352482eb77bbe6bf04569abf8c8263] (1)[^c-c63e505bfb0ea24405985b2a0edb8e98] The investor and the applicant may before the end of the prescribed period appeal to the relevant appellate body against the objection.
 
-(2)[^key-9b65070e0956eeabd1f68ddef1c5aeb9] The relevant appellate body may dismiss the appeal, or allow the appeal and—
+(2)[^c-9b65070e0956eeabd1f68ddef1c5aeb9] The relevant appellate body may dismiss the appeal, or allow the appeal and—
 
 - (a) order the licensing authority to approve the investor's holding of the notified interest without conditions, or subject to such conditions as may be specified in the order, or
 - (b) remit the matter to the licensing authority.
 
-(3)[^key-c63e505bfb0ea24405985b2a0edb8e98][^key-d0bd1f073c33f7318a69a513829da88f] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
+(3)[^c-c63e505bfb0ea24405985b2a0edb8e98][^c-d0bd1f073c33f7318a69a513829da88f] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
 
-(4)[^key-9b65070e0956eeabd1f68ddef1c5aeb9] The High Court may make such order as it thinks fit.
+(4)[^c-9b65070e0956eeabd1f68ddef1c5aeb9] The High Court may make such order as it thinks fit.
 
-(5)[^key-9b65070e0956eeabd1f68ddef1c5aeb9] If the investor's holding of the notified interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 17.
+(5)[^c-9b65070e0956eeabd1f68ddef1c5aeb9] If the investor's holding of the notified interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 17.
 
 ### Part 3 — Approval of restricted interests after licence is issued
 
@@ -314,7 +314,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 ##### Continuing notification requirements
 
-**21.**[^key-e5972bdc39044b7a0e0651096887ea02] (1) This paragraph applies where a non-authorised person (“**the investor**”)—
+**21.**[^c-e5972bdc39044b7a0e0651096887ea02] (1) This paragraph applies where a non-authorised person (“**the investor**”)—
 
 - (a) proposes to take a step which would result in the investor acquiring a restricted interest in a licensed body (or, if the investor already has one or more kinds of restricted interest, acquiring an additional kind of restricted interest), or
 - (b) acquires such an interest in a licensed body without taking such a step.
@@ -330,7 +330,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 ##### Offences in connection with paragraph 21
 
-**22.**[^key-d28db016bed062888b49958b4cd5c99e] (1) It is an offence for a person to fail to comply with a requirement imposed by—
+**22.**[^c-d28db016bed062888b49958b4cd5c99e] (1) It is an offence for a person to fail to comply with a requirement imposed by—
 
 - (a) paragraph 21(2), or
 - (b) paragraph 21(3).
@@ -339,7 +339,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 (3) It is a defence for a person charged with an offence under sub-paragraph (1)(a) to show that at the time of the alleged offence the person had no knowledge of the facts by virtue of which the duty to notify arose.
 
-**23.**[^key-71908eb93f0c756898e8cda4f7fcd5be] (1) This paragraph applies if a person under the duty to notify imposed by paragraph 21(2)—
+**23.**[^c-71908eb93f0c756898e8cda4f7fcd5be] (1) This paragraph applies if a person under the duty to notify imposed by paragraph 21(2)—
 
 - (a) had no knowledge of the facts by virtue of which that duty arose, but
 - (b) subsequently becomes aware of those facts.
@@ -350,7 +350,7 @@ the applicant must inform the relevant licensing authority within such period as
 
 (4) A person who is guilty of an offence under sub-paragraph (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-**24.**[^key-e1a524acb4912906fd686de8b011503b] (1) It is an offence for a non-authorised person, who under paragraph 21(2) is required to notify the licensed body and the relevant licensing authority of a proposal to take a step, to take the step, unless the relevant licensing authority has approved the investor's holding of the notifiable interest under paragraph 27 or 28.
+**24.**[^c-e1a524acb4912906fd686de8b011503b] (1) It is an offence for a non-authorised person, who under paragraph 21(2) is required to notify the licensed body and the relevant licensing authority of a proposal to take a step, to take the step, unless the relevant licensing authority has approved the investor's holding of the notifiable interest under paragraph 27 or 28.
 
 (2) If paragraph 22(3) applies, the reference in sub-paragraph (1) to paragraph 21(2) is to be read as a reference to paragraph 23(2).
 
@@ -361,16 +361,16 @@ the applicant must inform the relevant licensing authority within such period as
 
 ##### Duty of licensing authority following notification etc.
 
-**25.**[^c20329351] (1)[^key-96e2304c4c36364dfd5441fdb327e3f1] The relevant licensing authority must—
+**25.**[^c20329351] (1)[^c-96e2304c4c36364dfd5441fdb327e3f1] The relevant licensing authority must—
 
 - (a) following receipt of a notification under paragraph 21(2) or (3) or 23(2), or
 - (b) if the licensing authority becomes aware that an investor has failed to comply with a notification requirement imposed by paragraph 21(2) or (3) or 23(2),
 
 determine which of the steps in sub-paragraph (3) to take.
 
-(2)[^key-b6071adcd06bd1e446a7481f69228a64] The licensing authority must make the determination within such period as may be prescribed.
+(2)[^c-b6071adcd06bd1e446a7481f69228a64] The licensing authority must make the determination within such period as may be prescribed.
 
-(3)[^key-96e2304c4c36364dfd5441fdb327e3f1] The steps are—
+(3)[^c-96e2304c4c36364dfd5441fdb327e3f1] The steps are—
 
 - (a) to approve the investor's holding of the notifiable interest unconditionally under paragraph 27,
 - (b) to warn the investor under paragraph 28(3) that it proposes to approve the investor's holding of the notifiable interest subject to conditions,
@@ -380,7 +380,7 @@ determine which of the steps in sub-paragraph (3) to take.
 
 ##### Licensing authority's power to require information
 
-**26.**[^key-b6efc515eb03c2419f793952e17a3f3f] (1) A licensing authority may require the investor to provide it with such documents and information as it may require.
+**26.**[^c-b6efc515eb03c2419f793952e17a3f3f] (1) A licensing authority may require the investor to provide it with such documents and information as it may require.
 
 (2) It is an offence for a person who is required to provide information or documents under sub-paragraph (1) knowingly to provide false or misleading information or documents.
 
@@ -391,137 +391,137 @@ determine which of the steps in sub-paragraph (3) to take.
 
 ##### Unconditional approval of notifiable interest
 
-**27.**[^key-5600d9e831313dfa44eff75471e6a5e1] (1) If the licensing authority is satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it must approve the investor's holding of that interest without conditions.
+**27.**[^c-5600d9e831313dfa44eff75471e6a5e1] (1) If the licensing authority is satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it must approve the investor's holding of that interest without conditions.
 
 (2) If the licensing authority approves the investor's holding of the notifiable interest without conditions, it must notify the investor and the licensed body of its approval as soon as reasonably practicable.
 
 ##### Conditional approval of notifiable interest
 
-**28.**[^c20329531] (1)[^key-47177002a8c8352eba8b314cf31a6777] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it may approve the investor's holding of that interest subject to conditions.
+**28.**[^c20329531] (1)[^c-47177002a8c8352eba8b314cf31a6777] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it may approve the investor's holding of that interest subject to conditions.
 
-(2)[^key-47177002a8c8352eba8b314cf31a6777] It may do so only if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the notifiable interest without the approval requirements being met.
+(2)[^c-47177002a8c8352eba8b314cf31a6777] It may do so only if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the notifiable interest without the approval requirements being met.
 
-(3)[^key-47177002a8c8352eba8b314cf31a6777] If the licensing authority proposes to approve the investor's holding of the notifiable interest subject to conditions it must give the investor and the licensed body a warning notice.
+(3)[^c-47177002a8c8352eba8b314cf31a6777] If the licensing authority proposes to approve the investor's holding of the notifiable interest subject to conditions it must give the investor and the licensed body a warning notice.
 
-(4)[^key-47177002a8c8352eba8b314cf31a6777] But the licensing authority may approve the investor's holding of the notifiable interest subject to conditions without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
+(4)[^c-47177002a8c8352eba8b314cf31a6777] But the licensing authority may approve the investor's holding of the notifiable interest subject to conditions without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
 
 (5) The warning notice must—
 
-- (a)[^key-47177002a8c8352eba8b314cf31a6777] specify the nature of the conditions proposed and the reasons for their imposition, and
-- (b)[^key-a3da5d8a948185e0b2a7a0469dcd2b74] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-47177002a8c8352eba8b314cf31a6777] specify the nature of the conditions proposed and the reasons for their imposition, and
+- (b)[^c-a3da5d8a948185e0b2a7a0469dcd2b74] state that representations may be made to the licensing authority within the prescribed period.
 
-(6)[^key-a3da5d8a948185e0b2a7a0469dcd2b74] The licensing authority must consider any representations made within the prescribed period.
+(6)[^c-a3da5d8a948185e0b2a7a0469dcd2b74] The licensing authority must consider any representations made within the prescribed period.
 
-(7)[^key-47177002a8c8352eba8b314cf31a6777] If the licensing authority approves the investor's holding of the notifiable interest subject to conditions, it must notify the investor and the licensed body of its approval as soon as reasonably practicable.
+(7)[^c-47177002a8c8352eba8b314cf31a6777] If the licensing authority approves the investor's holding of the notifiable interest subject to conditions, it must notify the investor and the licensed body of its approval as soon as reasonably practicable.
 
-(8)[^key-47177002a8c8352eba8b314cf31a6777] The notice must—
+(8)[^c-47177002a8c8352eba8b314cf31a6777] The notice must—
 
 - (a) specify the reasons for the imposition of the conditions and (if the investor already holds the notifiable interest) the time from which they have effect, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**29.**[^c20329541][^key-2f7632e67e954a0927043e85589e4fb9][^key-ed46e7dc42f2cfa0949e57a5f6179f23][^key-a146e587af077fce0bb66cb52ab1260a][^key-8e876fcc6f941df37ead16e3d28d3bb4][^key-a0969e4946285707fa69d7f22bc40bdf] (1)[^key-aee42cc92d1735912bf369749e09bd03] The investor and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the imposition of any or all the conditions.
+**29.**[^c20329541][^c-2f7632e67e954a0927043e85589e4fb9][^c-ed46e7dc42f2cfa0949e57a5f6179f23][^c-a146e587af077fce0bb66cb52ab1260a][^c-8e876fcc6f941df37ead16e3d28d3bb4][^c-a0969e4946285707fa69d7f22bc40bdf] (1)[^c-aee42cc92d1735912bf369749e09bd03] The investor and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the imposition of any or all the conditions.
 
-(2)[^key-fcea32a0e1aa8cdbffb5bd653f87e8f3] The relevant appellate body may dismiss the appeal, or allow the appeal and—
+(2)[^c-fcea32a0e1aa8cdbffb5bd653f87e8f3] The relevant appellate body may dismiss the appeal, or allow the appeal and—
 
 - (a) order the licensing authority to approve the investor's holding of the notifiable interest without conditions, or subject to such conditions as may be specified in the order, or
 - (b) remit the matter to the licensing authority.
 
-(3)[^key-aee42cc92d1735912bf369749e09bd03] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
+(3)[^c-aee42cc92d1735912bf369749e09bd03] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
 
-(4)[^key-fcea32a0e1aa8cdbffb5bd653f87e8f3] The High Court may make such order as it thinks fit.
+(4)[^c-fcea32a0e1aa8cdbffb5bd653f87e8f3] The High Court may make such order as it thinks fit.
 
-(5)[^key-fcea32a0e1aa8cdbffb5bd653f87e8f3] If the investor's holding of the notifiable interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 28.
+(5)[^c-fcea32a0e1aa8cdbffb5bd653f87e8f3] If the investor's holding of the notifiable interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 28.
 
 ##### Duration of unconditional or conditional approval
 
-**30.**[^key-0164fe649f37d8f35ad6375c4b3f91dd] In a case within paragraph 21(1)(a), the licensing authority's approval under paragraph 27 or 28 remains effective only if the investor acquires the notifiable interest—
+**30.**[^c-0164fe649f37d8f35ad6375c4b3f91dd] In a case within paragraph 21(1)(a), the licensing authority's approval under paragraph 27 or 28 remains effective only if the investor acquires the notifiable interest—
 
 - (a) before the end of such period as may be specified in the notice under paragraph 27(2) or 28(7), or
 - (b) if no such period is specified, before the end of the period of one year beginning with the date of that notice.
 
 ##### Objection to acquisition of notifiable interest
 
-**31.**[^c20329561] (1)[^key-8abe310d2555044d06b9863e5c759bb3] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it may object to the investor's holding of that interest.
+**31.**[^c20329561] (1)[^c-8abe310d2555044d06b9863e5c759bb3] If the licensing authority is not satisfied that the approval requirements are met in relation to the investor's holding of the notifiable interest, it may object to the investor's holding of that interest.
 
-(2)[^key-8abe310d2555044d06b9863e5c759bb3] If the licensing authority proposes to object to the investor's holding of the notifiable interest, it must give the investor and the licensed body a warning notice.
+(2)[^c-8abe310d2555044d06b9863e5c759bb3] If the licensing authority proposes to object to the investor's holding of the notifiable interest, it must give the investor and the licensed body a warning notice.
 
-(3)[^key-8abe310d2555044d06b9863e5c759bb3] But the licensing authority may object to the investor's holding of the notifiable interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
+(3)[^c-8abe310d2555044d06b9863e5c759bb3] But the licensing authority may object to the investor's holding of the notifiable interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
 
 (4) The warning notice must—
 
-- (a)[^key-8abe310d2555044d06b9863e5c759bb3] specify the reasons for the proposed objection, and
-- (b)[^key-4348205c3db1535f8fe0a679ca627a66] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-8abe310d2555044d06b9863e5c759bb3] specify the reasons for the proposed objection, and
+- (b)[^c-4348205c3db1535f8fe0a679ca627a66] state that representations may be made to the licensing authority within the prescribed period.
 
-(5)[^key-4348205c3db1535f8fe0a679ca627a66] The licensing authority must consider any representations made within the prescribed period.
+(5)[^c-4348205c3db1535f8fe0a679ca627a66] The licensing authority must consider any representations made within the prescribed period.
 
-(6)[^key-8abe310d2555044d06b9863e5c759bb3] If the licensing authority objects to the investor's holding of the notifiable interest, it must notify the investor and the licensed body of its objection as soon as reasonably practicable.
+(6)[^c-8abe310d2555044d06b9863e5c759bb3] If the licensing authority objects to the investor's holding of the notifiable interest, it must notify the investor and the licensed body of its objection as soon as reasonably practicable.
 
-(7)[^key-8abe310d2555044d06b9863e5c759bb3] The notice must—
+(7)[^c-8abe310d2555044d06b9863e5c759bb3] The notice must—
 
 - (a) specify the reasons for the objection, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**32.**[^c20329581][^key-864cfababf0b5e8f81dc2db29709e970][^key-2abb665ce369d9c81f875ad68b1b549c][^key-0e6b24862e6e618fbe6f8d7c2d727d99][^key-5709251541d102a30179a9ab7a0e46a3][^key-411b0c1205f290bdae68d96e4f89a6c8] (1)[^key-0a31f811487b8eedc9dc55b4149cfbc8] The investor and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the objection.
+**32.**[^c20329581][^c-864cfababf0b5e8f81dc2db29709e970][^c-2abb665ce369d9c81f875ad68b1b549c][^c-0e6b24862e6e618fbe6f8d7c2d727d99][^c-5709251541d102a30179a9ab7a0e46a3][^c-411b0c1205f290bdae68d96e4f89a6c8] (1)[^c-0a31f811487b8eedc9dc55b4149cfbc8] The investor and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the objection.
 
-(2)[^key-2e359fddf5837ec236c4cfba6d6d8c9b] The relevant appellate body may dismiss the appeal, or allow the appeal and—
+(2)[^c-2e359fddf5837ec236c4cfba6d6d8c9b] The relevant appellate body may dismiss the appeal, or allow the appeal and—
 
 - (a) order the licensing authority to approve the investor's holding of the notifiable interest without conditions, or subject to such conditions as may be specified in the order, or
 - (b) remit the matter to the licensing authority.
 
-(3)[^key-0a31f811487b8eedc9dc55b4149cfbc8] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
+(3)[^c-0a31f811487b8eedc9dc55b4149cfbc8] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
 
-(4)[^key-2e359fddf5837ec236c4cfba6d6d8c9b] The High Court may make such order as it thinks fit.
+(4)[^c-2e359fddf5837ec236c4cfba6d6d8c9b] The High Court may make such order as it thinks fit.
 
-(5)[^key-2e359fddf5837ec236c4cfba6d6d8c9b] If the investor's holding of the notifiable interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 28.
+(5)[^c-2e359fddf5837ec236c4cfba6d6d8c9b] If the investor's holding of the notifiable interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 28.
 
 #### Powers of licensing authority where no change of interests
 
 ##### Imposition of conditions (or further conditions) on existing restricted interest
 
-**33.**[^c20329591] (1)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] The relevant licensing authority may impose conditions (or further conditions) on a person's holding of a restricted interest in a licensed body (or a restricted interest of a particular kind) if—
+**33.**[^c20329591] (1)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] The relevant licensing authority may impose conditions (or further conditions) on a person's holding of a restricted interest in a licensed body (or a restricted interest of a particular kind) if—
 
 - (a) it is not satisfied that the approval requirements are met in relation to the person's holding of that interest, or
 - (b) it is satisfied that a condition imposed under paragraph 17 or 28 or this paragraph on the person's holding of that interest has not been, or is not being, complied with.
 
 (2) The licensing authority may act under sub-paragraph (1) only—
 
-- (a)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the restricted interest without the approval requirements being met, and
-- (b)[^key-56b6bc9ad91256e0d2ac395d60256089] before the end of such period (beginning with the time when the licensing authority becomes aware of the matters in question) as may be prescribed.
+- (a)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] if it considers that, if the conditions are complied with, it will be appropriate for the investor to hold the restricted interest without the approval requirements being met, and
+- (b)[^c-56b6bc9ad91256e0d2ac395d60256089] before the end of such period (beginning with the time when the licensing authority becomes aware of the matters in question) as may be prescribed.
 
-(3)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] If the licensing authority proposes to impose conditions (or further conditions) on the person's holding of the restricted interest, it must give the person and the licensed body a warning notice.
+(3)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] If the licensing authority proposes to impose conditions (or further conditions) on the person's holding of the restricted interest, it must give the person and the licensed body a warning notice.
 
-(4)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] But the licensing authority may impose conditions (or further conditions) on the person's holding of the restricted interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
+(4)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] But the licensing authority may impose conditions (or further conditions) on the person's holding of the restricted interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
 
 (5) The warning notice must—
 
-- (a)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] specify the nature of the conditions proposed and the reasons for their imposition, and
-- (b)[^key-56b6bc9ad91256e0d2ac395d60256089] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] specify the nature of the conditions proposed and the reasons for their imposition, and
+- (b)[^c-56b6bc9ad91256e0d2ac395d60256089] state that representations may be made to the licensing authority within the prescribed period.
 
-(6)[^key-56b6bc9ad91256e0d2ac395d60256089] The licensing authority must consider any representations made within the prescribed period.
+(6)[^c-56b6bc9ad91256e0d2ac395d60256089] The licensing authority must consider any representations made within the prescribed period.
 
-(7)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] If the licensing authority imposes conditions (or further conditions) on the person's holding of the restricted interest, it must notify the person and the licensed body as soon as reasonably practicable.
+(7)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] If the licensing authority imposes conditions (or further conditions) on the person's holding of the restricted interest, it must notify the person and the licensed body as soon as reasonably practicable.
 
-(8)[^key-1f38f49fe2cc8ee8b3ea50c07af8456f] The notice must—
+(8)[^c-1f38f49fe2cc8ee8b3ea50c07af8456f] The notice must—
 
 - (a) specify the reasons for the imposition of the conditions, and the time from which they are to take effect, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**34.**[^c20329551][^key-79459fc8be0c3e8b8a4cf1afc22a522c][^key-3f4fb35787653c1d31f6c59b45662f3f][^key-e498cfe94b10ff3e3a4ec72ad8510258][^key-7051ab2b87566aa76c19a64f76e70bb2][^key-390ce4b0788974bdc1f33d68b39d1ae5] (1)[^key-7863f5bb759d545b91aa3b6f285e7fcd] The person and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against any or all of the conditions (or further conditions).
+**34.**[^c20329551][^c-79459fc8be0c3e8b8a4cf1afc22a522c][^c-3f4fb35787653c1d31f6c59b45662f3f][^c-e498cfe94b10ff3e3a4ec72ad8510258][^c-7051ab2b87566aa76c19a64f76e70bb2][^c-390ce4b0788974bdc1f33d68b39d1ae5] (1)[^c-7863f5bb759d545b91aa3b6f285e7fcd] The person and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against any or all of the conditions (or further conditions).
 
-(2)[^key-32abe644a3c116a6d0d6ee34e71eadcd] The relevant appellate body may dismiss the appeal, or allow the appeal and—
+(2)[^c-32abe644a3c116a6d0d6ee34e71eadcd] The relevant appellate body may dismiss the appeal, or allow the appeal and—
 
 - (a) modify or quash the conditions imposed by the licensing authority under paragraph 33, or
 - (b) remit the matter to the licensing authority.
 
-(3)[^key-7863f5bb759d545b91aa3b6f285e7fcd] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
+(3)[^c-7863f5bb759d545b91aa3b6f285e7fcd] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellate body, but only with the permission of the High Court.
 
-(4)[^key-32abe644a3c116a6d0d6ee34e71eadcd] The High Court may make such order as it thinks fit.
+(4)[^c-32abe644a3c116a6d0d6ee34e71eadcd] The High Court may make such order as it thinks fit.
 
-(5)[^key-32abe644a3c116a6d0d6ee34e71eadcd] If the person's holding of the restricted interest is subject to any conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule those conditions are to be treated as having been imposed under paragraph 33.
+(5)[^c-32abe644a3c116a6d0d6ee34e71eadcd] If the person's holding of the restricted interest is subject to any conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule those conditions are to be treated as having been imposed under paragraph 33.
 
 ##### Variation and cancellation of conditions
 
-**35.**[^key-91efa86377f34da5473c6848e31d186e] (1) A person whose holding of a restricted interest in a licensed body is subject to a condition imposed under paragraph 17, 28 or 33 may apply to the relevant licensing authority—
+**35.**[^c-91efa86377f34da5473c6848e31d186e] (1) A person whose holding of a restricted interest in a licensed body is subject to a condition imposed under paragraph 17, 28 or 33 may apply to the relevant licensing authority—
 
 - (a) for the condition to be varied, or
 - (b) for the condition to be cancelled.
@@ -532,51 +532,51 @@ determine which of the steps in sub-paragraph (3) to take.
 
 ##### Objection to existing restricted interest
 
-**36.**[^c20329671] (1)[^key-eee319a64d3b0f597309337c41cfe619] The relevant licensing authority may object to a person's holding of a restricted interest in a licensed body (or a restricted interest of a particular kind) if—
+**36.**[^c20329671] (1)[^c-eee319a64d3b0f597309337c41cfe619] The relevant licensing authority may object to a person's holding of a restricted interest in a licensed body (or a restricted interest of a particular kind) if—
 
 - (a) it is not satisfied that the approval requirements are met in relation to the person's holding of that interest, or
 - (b) it is satisfied that a condition imposed under paragraph 17, 28 or 33 on the person's holding of the interest has not been, or is not being, complied with.
 
-(2)[^key-cf2aa9a9ef1dda39d03e2243d9578061] The licensing authority may act under sub-paragraph (1) only before the end of such period (beginning with the time when the licensing authority becomes aware of the matters in question) as may be prescribed.
+(2)[^c-cf2aa9a9ef1dda39d03e2243d9578061] The licensing authority may act under sub-paragraph (1) only before the end of such period (beginning with the time when the licensing authority becomes aware of the matters in question) as may be prescribed.
 
-(3)[^key-eee319a64d3b0f597309337c41cfe619] If the licensing authority proposes to object to a person's holding of the restricted interest, it must give the person and the licensed body a warning notice.
+(3)[^c-eee319a64d3b0f597309337c41cfe619] If the licensing authority proposes to object to a person's holding of the restricted interest, it must give the person and the licensed body a warning notice.
 
-(4)[^key-eee319a64d3b0f597309337c41cfe619] But the licensing authority may object to the person's holding of the restricted interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
+(4)[^c-eee319a64d3b0f597309337c41cfe619] But the licensing authority may object to the person's holding of the restricted interest without giving a warning notice if it considers it necessary or desirable to do so for the purpose of protecting any of the regulatory objectives.
 
 (5) The warning notice must—
 
-- (a)[^key-eee319a64d3b0f597309337c41cfe619] specify the reasons for the proposed objection, and
-- (b)[^key-cf2aa9a9ef1dda39d03e2243d9578061] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-eee319a64d3b0f597309337c41cfe619] specify the reasons for the proposed objection, and
+- (b)[^c-cf2aa9a9ef1dda39d03e2243d9578061] state that representations may be made to the licensing authority within the prescribed period.
 
-(6)[^key-cf2aa9a9ef1dda39d03e2243d9578061] The licensing authority must consider any representations made within the prescribed period.
+(6)[^c-cf2aa9a9ef1dda39d03e2243d9578061] The licensing authority must consider any representations made within the prescribed period.
 
-(7)[^key-eee319a64d3b0f597309337c41cfe619] If the licensing authority objects to the person's holding of the restricted interest, it must notify the person and the licensed body of its objection as soon as reasonably practicable.
+(7)[^c-eee319a64d3b0f597309337c41cfe619] If the licensing authority objects to the person's holding of the restricted interest, it must notify the person and the licensed body of its objection as soon as reasonably practicable.
 
-(8)[^key-eee319a64d3b0f597309337c41cfe619] The notice must—
+(8)[^c-eee319a64d3b0f597309337c41cfe619] The notice must—
 
 - (a) specify the reasons for the objection, and
 - (b) explain the effect of Part 5 of this Schedule.
 
-**37.**[^c20329841][^key-3076a67a1adca8503a08de8452a7b858][^key-8135e807a03dfc97784128ebdd6bbff1][^key-8aff42dd9332f4ec37696c7a48370eaa][^key-acb303a8c6be04d1498887fca60876be][^key-707799036d5332f052abfcc3fcdb9431] (1)[^key-d7f15ad18b7068cd2a745bdc0d6683b4] The person and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the objection.
+**37.**[^c20329841][^c-3076a67a1adca8503a08de8452a7b858][^c-8135e807a03dfc97784128ebdd6bbff1][^c-8aff42dd9332f4ec37696c7a48370eaa][^c-acb303a8c6be04d1498887fca60876be][^c-707799036d5332f052abfcc3fcdb9431] (1)[^c-d7f15ad18b7068cd2a745bdc0d6683b4] The person and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the objection.
 
-(2)[^key-b9715b3b441698147b2bfa448b0efcc9] The relevant appellate body may dismiss or allow the appeal.
+(2)[^c-b9715b3b441698147b2bfa448b0efcc9] The relevant appellate body may dismiss or allow the appeal.
 
-(3)[^key-b9715b3b441698147b2bfa448b0efcc9] If the relevant appellate body allows the appeal it may also—
+(3)[^c-b9715b3b441698147b2bfa448b0efcc9] If the relevant appellate body allows the appeal it may also—
 
 - (a) order the licensing authority to impose under paragraph 33 such conditions on the person's holding of the restricted interest as may be specified in the order, or
 - (b) remit the matter to the licensing authority.
 
-(4)[^key-d7f15ad18b7068cd2a745bdc0d6683b4] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
+(4)[^c-d7f15ad18b7068cd2a745bdc0d6683b4] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
 
-(5)[^key-b9715b3b441698147b2bfa448b0efcc9] The High Court may make such order as it thinks fit.
+(5)[^c-b9715b3b441698147b2bfa448b0efcc9] The High Court may make such order as it thinks fit.
 
-(6)[^key-b9715b3b441698147b2bfa448b0efcc9] If the person's holding of the restricted interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 33.
+(6)[^c-b9715b3b441698147b2bfa448b0efcc9] If the person's holding of the restricted interest is subject to conditions as a result of an order made on an appeal under this paragraph, for the purposes of this Schedule the conditions are to be treated as having been imposed under paragraph 33.
 
 ### Part 4 — Additional restrictions
 
 #### Power to impose share limit, voting limit etc
 
-**38.**[^key-0a66f682daf704376bb8aa1c04679eed] (1) Licensing rules may provide that—
+**38.**[^c-0a66f682daf704376bb8aa1c04679eed] (1) Licensing rules may provide that—
 
 - (a) a non-authorised person may not have a shareholding in a licensed body, or in a parent undertaking of a licensed body, which exceeds a limit specified in the rules (“**the share limit**”);
 - (b) a non-authorised person may not have an entitlement to exercise, or control the exercise of, voting rights in a licensable body, or a parent undertaking of a licensable body, which exceeds a limit specified in the rules (“**the voting limit**”);
@@ -595,7 +595,7 @@ determine which of the steps in sub-paragraph (3) to take.
 
 #### Obligation to notify where share limit or voting limit exceeded
 
-**39.**[^key-ae461edaf28a2689b53f8aaf0022694d] (1) This paragraph applies in relation to a licensed body, or a parent undertaking of a licensed body, if licensing rules made by the relevant licensing authority make the provision mentioned in paragraph 38(1)(a) or (b) in relation to the body.
+**39.**[^c-ae461edaf28a2689b53f8aaf0022694d] (1) This paragraph applies in relation to a licensed body, or a parent undertaking of a licensed body, if licensing rules made by the relevant licensing authority make the provision mentioned in paragraph 38(1)(a) or (b) in relation to the body.
 
 (2) Any non-authorised person who acquires—
 
@@ -610,7 +610,7 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 (5) It is a defence for a person charged with an offence under sub-paragraph (3) to show that at the time of the alleged offence the person had no knowledge of the facts by virtue of which the duty to notify arose.
 
-**40.**[^key-861fe3ca3a8f2aaa66c4b7deb91bc832] (1) This paragraph applies if a person under the duty to notify imposed by paragraph 39(2)—
+**40.**[^c-861fe3ca3a8f2aaa66c4b7deb91bc832] (1) This paragraph applies if a person under the duty to notify imposed by paragraph 39(2)—
 
 - (a) had no knowledge of the facts by virtue of which that duty arose, but
 - (b) subsequently becomes aware of those facts.
@@ -627,7 +627,7 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### The divestiture condition
 
-**41.**[^key-eeb8f6ad1cf24f697b63ae36b25a3e07] (1) The divestiture condition is satisfied in relation to a non-authorised person and a licensed body if—
+**41.**[^c-eeb8f6ad1cf24f697b63ae36b25a3e07] (1) The divestiture condition is satisfied in relation to a non-authorised person and a licensed body if—
 
 - (a) the person holds a restricted interest in the licensed body in the circumstances mentioned in sub-paragraph (2), and
 - (b) the person holds that interest, in whole or in part, by virtue of the person's shareholding in a body corporate with a share capital (in this Part of this Schedule referred to as “**the relevant shares**”).
@@ -640,7 +640,7 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 (3) In sub-paragraph (1)(b), references to a person's shareholding are to be read in accordance with paragraph 3(3) or 4(2) (as the case may be).
 
-**42.**[^key-23f82fa6b51cb50e2e356e0ab9261fab] (1) If the relevant licensing rules make the provision mentioned in paragraph 38(1)(a) or (b), the divestiture condition is also satisfied in relation to a non-authorised person and a licensed body if—
+**42.**[^c-23f82fa6b51cb50e2e356e0ab9261fab] (1) If the relevant licensing rules make the provision mentioned in paragraph 38(1)(a) or (b), the divestiture condition is also satisfied in relation to a non-authorised person and a licensed body if—
 
 - (a) the person's shareholding in the body, or a parent undertaking of the body, exceeds the share limit, and the body or parent undertaking (as the case may be) is a body corporate with a share capital, or
 - (b) the person's entitlement to exercise or control the exercise of voting rights in the body, or a parent undertaking of the body, exceeds the voting limit by virtue of the person holding shares in a body corporate with a share capital.
@@ -654,37 +654,37 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### Application for divestiture
 
-**43.**[^c20329881] (1)[^key-e9c95a0f83ebdec0fb252286a7d669d5] If the divestiture condition is satisfied in relation to a non-authorised person and a licensed body, the licensing authority may give the person a restriction notice under paragraph 44 and apply to the High Court for an order under paragraph 45.
+**43.**[^c20329881] (1)[^c-e9c95a0f83ebdec0fb252286a7d669d5] If the divestiture condition is satisfied in relation to a non-authorised person and a licensed body, the licensing authority may give the person a restriction notice under paragraph 44 and apply to the High Court for an order under paragraph 45.
 
-(2)[^key-e9c95a0f83ebdec0fb252286a7d669d5] The licensing authority may not make an application to the High Court for an order under paragraph 45 unless—
+(2)[^c-e9c95a0f83ebdec0fb252286a7d669d5] The licensing authority may not make an application to the High Court for an order under paragraph 45 unless—
 
 - (a) it has notified the person that it intends to do so if the divestiture condition is satisfied in relation to the person and the body at the end of the relevant period, and
 - (b) the relevant period has expired.
 
-(3)[^key-791976e535c4547e3872dc836ea188b7] The relevant period is such period (not less than the prescribed period) as may be specified in the notice.
+(3)[^c-791976e535c4547e3872dc836ea188b7] The relevant period is such period (not less than the prescribed period) as may be specified in the notice.
 
 ##### Restriction notice
 
-**44.**[^c20329901] (1)[^key-49226952b857677eeedde9734d6c0793] A restriction notice is a notice directing that such of the relevant shares or excess shares (as the case may be) as are specified in the notice are, until further notice, subject to one or more of the following restrictions.
+**44.**[^c20329901] (1)[^c-49226952b857677eeedde9734d6c0793] A restriction notice is a notice directing that such of the relevant shares or excess shares (as the case may be) as are specified in the notice are, until further notice, subject to one or more of the following restrictions.
 
-(2)[^key-49226952b857677eeedde9734d6c0793] The restrictions are—
+(2)[^c-49226952b857677eeedde9734d6c0793] The restrictions are—
 
 - (a) a transfer of (or agreement to transfer) those shares, or in the case of unissued shares a transfer of (or agreement to transfer) the right to be issued with them, is void;
 - (b) no voting rights are to be exercisable in respect of the shares;
 - (c) no further shares are to be issued in right of them or in pursuance of any offer made to their holder;
 - (d) except in a liquidation, no payment is to be made of any sums due from the company on the shares, whether in respect of capital or otherwise.
 
-(3)[^key-49226952b857677eeedde9734d6c0793] A copy of the restriction notice must be given to the body to whose shares it relates.
+(3)[^c-49226952b857677eeedde9734d6c0793] A copy of the restriction notice must be given to the body to whose shares it relates.
 
 (4) A restriction notice ceases to have effect—
 
-- (a)[^key-49226952b857677eeedde9734d6c0793] in accordance with an order of the High Court under paragraph 45(4);
-- (b)[^key-6e4a0fb03a44dc855dc2c9c0720bc987] if no application has been made to the High Court for an order under paragraph 45 before the end of such period as may be prescribed, at the end of that period;
-- (c)[^key-49226952b857677eeedde9734d6c0793] if the licensed body ceases to be licensed by the licensing authority.
+- (a)[^c-49226952b857677eeedde9734d6c0793] in accordance with an order of the High Court under paragraph 45(4);
+- (b)[^c-6e4a0fb03a44dc855dc2c9c0720bc987] if no application has been made to the High Court for an order under paragraph 45 before the end of such period as may be prescribed, at the end of that period;
+- (c)[^c-49226952b857677eeedde9734d6c0793] if the licensed body ceases to be licensed by the licensing authority.
 
 ##### Divestiture by High Court
 
-**45.**[^key-5292658dee3164ffb0a2fe335b6e41c6] (1) If the divestiture condition is satisfied by virtue of paragraph 41 the High Court may, on the application of the licensing authority, order the sale of the appropriate number of the relevant shares.
+**45.**[^c-5292658dee3164ffb0a2fe335b6e41c6] (1) If the divestiture condition is satisfied by virtue of paragraph 41 the High Court may, on the application of the licensing authority, order the sale of the appropriate number of the relevant shares.
 
 (2) The appropriate number of the relevant shares is the number of those shares, the sale of which will result in the non-authorised person no longer holding—
 
@@ -710,18 +710,18 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### Enforcement of conditions
 
-**46.**[^c20329941] (1)[^key-ed74922e615d17c86fa854541ed22041] If a person holds a restricted interest in a licensed body in breach of conditions imposed under paragraph 17, 28 or 33, the licensing authority may make an application to the High Court for an order under this paragraph.
+**46.**[^c20329941] (1)[^c-ed74922e615d17c86fa854541ed22041] If a person holds a restricted interest in a licensed body in breach of conditions imposed under paragraph 17, 28 or 33, the licensing authority may make an application to the High Court for an order under this paragraph.
 
-(2)[^key-ed74922e615d17c86fa854541ed22041] The licensing authority may not make such an application unless—
+(2)[^c-ed74922e615d17c86fa854541ed22041] The licensing authority may not make such an application unless—
 
 - (a) it has notified the person that it intends to do so if the conditions are not complied with before the end of the relevant period, and
 - (b) the relevant period has expired.
 
-(3)[^key-5ab2671ba53c57ca6fa79d60ea7b6a5a] The relevant period is such period (not less than the prescribed period) as may be specified in the notice.
+(3)[^c-5ab2671ba53c57ca6fa79d60ea7b6a5a] The relevant period is such period (not less than the prescribed period) as may be specified in the notice.
 
-(4)[^key-ed74922e615d17c86fa854541ed22041] The High Court may, on the application of the licensing authority, make such order as the court thinks fit to secure compliance with the conditions to which the person's holding of the restricted interest is subject.
+(4)[^c-ed74922e615d17c86fa854541ed22041] The High Court may, on the application of the licensing authority, make such order as the court thinks fit to secure compliance with the conditions to which the person's holding of the restricted interest is subject.
 
-(5)[^key-ed74922e615d17c86fa854541ed22041] No order may be made under this paragraph—
+(5)[^c-ed74922e615d17c86fa854541ed22041] No order may be made under this paragraph—
 
 - (a) until the end of the period within which an appeal may be made against the imposition of the conditions, or
 - (b) if an appeal is made, until the appeal has been determined or withdrawn.
@@ -730,7 +730,7 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### Duty to notify Board of decisions under this Schedule
 
-**47.**[^key-022877496c067e75b71f3babced06421][^key-17faede6363ec11a45bb9492f0246224][^key-5969fe26eed00267b34d31eeeaf9b6e0][^key-b2db128b0134dfe095d25ff066f6e5fc][^key-f71a2e041968763c8817a7ce4caf98fd] (1) The relevant licensing authority must notify the Board where—
+**47.**[^c-022877496c067e75b71f3babced06421][^c-17faede6363ec11a45bb9492f0246224][^c-5969fe26eed00267b34d31eeeaf9b6e0][^c-b2db128b0134dfe095d25ff066f6e5fc][^c-f71a2e041968763c8817a7ce4caf98fd] (1) The relevant licensing authority must notify the Board where—
 
 - (a) it has objected under paragraph 19, 31, or 36 to a person's holding of a restricted interest, or
 - (b) it has imposed conditions under paragraph 17, 28, or 33 on a person's holding of a restricted interest.
@@ -742,20 +742,20 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 (3) If the licensing authority takes any action under paragraph 43 in relation to a person notified to the Board under sub-paragraph (1), it must notify the Board of that fact.
 
-(4)[^key-2b4b15095ae4eac2cc7f096cf21e8ab5] If there is an appeal to the relevant appellate body against the objection or imposition of conditions, the licensing authority must notify the Board of the outcome of that appeal (and any subsequent appeal to the High Court).
+(4)[^c-2b4b15095ae4eac2cc7f096cf21e8ab5] If there is an appeal to the relevant appellate body against the objection or imposition of conditions, the licensing authority must notify the Board of the outcome of that appeal (and any subsequent appeal to the High Court).
 
 (5) If the licensing authority has imposed conditions on a person's holding of a restricted interest, it must notify the Board of any decision taken by it under paragraph 35 (variation and cancellation of conditions).
 
 (6) The licensing authority must give the person and the licensed body concerned a copy of any notification it gives the Board under this paragraph.
 
-**48.**[^key-5862c4fab076ed8abd116d24ba24da8c][^key-f10518dc6b910e8cf3b7f09a81753d1e][^key-ccc265716170e80932dc4d2ef29b7938][^key-7a53fc8e49759f4282458a95cb853ca3][^key-bed84f4da9bed40cb5a39a4f1fbab96e] (1) A licensing authority must notify the Board where under paragraph 16, 17, 27 or 28 it approves the holding of a restricted interest in a licensed body by a person included in the list kept by the Board under paragraph 51.
+**48.**[^c-5862c4fab076ed8abd116d24ba24da8c][^c-f10518dc6b910e8cf3b7f09a81753d1e][^c-ccc265716170e80932dc4d2ef29b7938][^c-7a53fc8e49759f4282458a95cb853ca3][^c-bed84f4da9bed40cb5a39a4f1fbab96e] (1) A licensing authority must notify the Board where under paragraph 16, 17, 27 or 28 it approves the holding of a restricted interest in a licensed body by a person included in the list kept by the Board under paragraph 51.
 
 (2) The notification must state—
 
 - (a) if the approval was under paragraph 17 or 28, the conditions to which the approval was subject, and
 - (b) the reasons for the licensing authority's decision to approve the person's holding of the interest.
 
-(3)[^key-ce09ee4b76699d622ba98f68f6e62fa2] If the approval was under paragraph 17 or 28 and there is an appeal to the relevant appellate body against the imposition of conditions, the licensing authority must notify the Board of the outcome of that appeal (and any subsequent appeal to the High Court).
+(3)[^c-ce09ee4b76699d622ba98f68f6e62fa2] If the approval was under paragraph 17 or 28 and there is an appeal to the relevant appellate body against the imposition of conditions, the licensing authority must notify the Board of the outcome of that appeal (and any subsequent appeal to the High Court).
 
 (4) If the approval was under paragraph 17 or 28, the licensing authority must notify the Board of any decision taken by it under paragraph 35 (variation and cancellation of conditions).
 
@@ -763,36 +763,36 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### Power to notify Board where share limit or voting limit breached
 
-**49.**[^c20329961] (1)[^key-7aa3ee16f28a088d09d9e4e07f41412d] This paragraph applies if the relevant licensing rules make the provision mentioned in paragraph 38(1)(a) or (b).
+**49.**[^c20329961] (1)[^c-7aa3ee16f28a088d09d9e4e07f41412d] This paragraph applies if the relevant licensing rules make the provision mentioned in paragraph 38(1)(a) or (b).
 
-(2)[^key-7aa3ee16f28a088d09d9e4e07f41412d] The licensing authority may, if it considers it appropriate to do so in all the circumstances of the case, notify the Board where a non-authorised person acquires—
+(2)[^c-7aa3ee16f28a088d09d9e4e07f41412d] The licensing authority may, if it considers it appropriate to do so in all the circumstances of the case, notify the Board where a non-authorised person acquires—
 
 - (a) a shareholding in a licensed body or parent undertaking of a licensed body which exceeds the share limit, or
 - (b) an entitlement to exercise, or control the exercise of, voting rights in a licensed body or parent undertaking of a licensed body which exceeds the voting limit.
 
-(3)[^key-7aa3ee16f28a088d09d9e4e07f41412d] If the licensing authority proposes to make a notification under sub-paragraph (2), it must give the person and the licensed body a warning notice.
+(3)[^c-7aa3ee16f28a088d09d9e4e07f41412d] If the licensing authority proposes to make a notification under sub-paragraph (2), it must give the person and the licensed body a warning notice.
 
 (4) The warning notice must—
 
-- (a)[^key-7aa3ee16f28a088d09d9e4e07f41412d] specify the reasons for the proposed notification, and
-- (b)[^key-3f8adde8eaf11339d1eb409ef3bc8194] state that representations may be made to the licensing authority within the prescribed period.
+- (a)[^c-7aa3ee16f28a088d09d9e4e07f41412d] specify the reasons for the proposed notification, and
+- (b)[^c-3f8adde8eaf11339d1eb409ef3bc8194] state that representations may be made to the licensing authority within the prescribed period.
 
-(5)[^key-3f8adde8eaf11339d1eb409ef3bc8194] The licensing authority must consider any representations made within the prescribed period.
+(5)[^c-3f8adde8eaf11339d1eb409ef3bc8194] The licensing authority must consider any representations made within the prescribed period.
 
-(6)[^key-7aa3ee16f28a088d09d9e4e07f41412d] If the licensing authority notifies the Board under sub-paragraph (2), it must give the person concerned and the licensed body a copy of the notification and a notice stating the reasons for the notification.
+(6)[^c-7aa3ee16f28a088d09d9e4e07f41412d] If the licensing authority notifies the Board under sub-paragraph (2), it must give the person concerned and the licensed body a copy of the notification and a notice stating the reasons for the notification.
 
-(7)[^key-7aa3ee16f28a088d09d9e4e07f41412d] If the share limit or voting limit is breached in relation to a parent undertaking of a licensed body, references in sub-paragraphs (3) and (6) to the licensed body include the parent undertaking.
+(7)[^c-7aa3ee16f28a088d09d9e4e07f41412d] If the share limit or voting limit is breached in relation to a parent undertaking of a licensed body, references in sub-paragraphs (3) and (6) to the licensed body include the parent undertaking.
 
-**50.**[^c20329971][^key-05363188780cf93d7b973dc6588fb2e1][^key-e8e5bbbdb8c1fa45fbbfab9e81bf2807][^key-8e5e9004a27a08ace2713b00f3e5b215][^key-e042a5b851e44668cf04206bb040b7d9][^key-b9f30f38a843a3dfcc94672301b06397] (1)[^key-6e29d99b8229889677fe059d106a931e] The person concerned and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the notification.
+**50.**[^c20329971][^c-05363188780cf93d7b973dc6588fb2e1][^c-e8e5bbbdb8c1fa45fbbfab9e81bf2807][^c-8e5e9004a27a08ace2713b00f3e5b215][^c-e042a5b851e44668cf04206bb040b7d9][^c-b9f30f38a843a3dfcc94672301b06397] (1)[^c-6e29d99b8229889677fe059d106a931e] The person concerned and the licensed body may before the end of the prescribed period appeal to the relevant appellate body against the notification.
 
-(2)[^key-503e5aa571d0f6cc83e452fa37d6b1c5] The relevant appellate body may—
+(2)[^c-503e5aa571d0f6cc83e452fa37d6b1c5] The relevant appellate body may—
 
 - (a) dismiss the appeal, or
 - (b) allow the appeal and order the person's name to be removed from the list kept by the Board under paragraph 51.
 
-(3)[^key-6e29d99b8229889677fe059d106a931e] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
+(3)[^c-6e29d99b8229889677fe059d106a931e] A party to the appeal may before the end of the prescribed period appeal to the High Court on a point of law arising from the decision of the relevant appellant body, but only with the permission of the High Court.
 
-(4)[^key-503e5aa571d0f6cc83e452fa37d6b1c5] The High Court may make such order as it thinks fit.
+(4)[^c-503e5aa571d0f6cc83e452fa37d6b1c5] The High Court may make such order as it thinks fit.
 
 (5) The licensing authority must notify the Board of the outcome of any appeal under this paragraph, and give the person concerned and the licensed body a copy of the notification.
 
@@ -800,7 +800,7 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ##### Board's list of persons subject to objections and conditions
 
-**51.**[^key-6085c676b0f7127633d02e9b334b57e9] (1) The Board must keep a list of the persons in respect of which it receives a notification under paragraph 47(1) or 49(2).
+**51.**[^c-6085c676b0f7127633d02e9b334b57e9] (1) The Board must keep a list of the persons in respect of which it receives a notification under paragraph 47(1) or 49(2).
 
 (2) The list must record—
 
@@ -813,264 +813,264 @@ must notify the body (and, if the body is a parent undertaking of a licensed bod
 
 ## Annotations
 
-[^key-9444f9be688e446974c73aefb55a5485]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-9444f9be688e446974c73aefb55a5485]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-0278cb1eaaf8566ff8bd0b9655582213]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-0278cb1eaaf8566ff8bd0b9655582213]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-5c8c84163efc52785194428812683af3]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-5c8c84163efc52785194428812683af3]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-6a3fc69b17e917001e3cfe9cd8703c59]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-6a3fc69b17e917001e3cfe9cd8703c59]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-02f1b1afbb6d7f75950af3f7c3ad0c25]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-02f1b1afbb6d7f75950af3f7c3ad0c25]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-99ddd3de587006d758ff97c0831afdcb]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-99ddd3de587006d758ff97c0831afdcb]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-80415974c39544164e1aff381de37c43]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-80415974c39544164e1aff381de37c43]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-8a1f6ee6a8a8dcd664d59fd0178935da]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-8a1f6ee6a8a8dcd664d59fd0178935da]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/9) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-e36c67e69958abaa1b141def3419a609]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e36c67e69958abaa1b141def3419a609]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/10) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-35c56d5a0c7f60b394e9014738558247]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-35c56d5a0c7f60b394e9014738558247]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/11) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-cee5100ecefa641d4e3bfeebb1df844e]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-cee5100ecefa641d4e3bfeebb1df844e]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/12) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-e6d2c987fd162eae56a29c5d0bb9f687]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e6d2c987fd162eae56a29c5d0bb9f687]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/13) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-fcf845351adb98f06a571ef9125c4e17]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-fcf845351adb98f06a571ef9125c4e17]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/14) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-011c231debcdb99bf2c811a5d04d06a3]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-011c231debcdb99bf2c811a5d04d06a3]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/15) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-295f24718f66379d9b11b742085e34e5]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-295f24718f66379d9b11b742085e34e5]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/16) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329071]: Commencement: Sch. 13 para. 17 partly in force; Sch. 13 para. 17 not in force at Royal Assent see s. 211; Sch. 13 para. 17(4)(b)(5) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-33422f77b93b68cb23341af10765c16d]: Commencement: Sch. 13 para. 17(1)-(3)(4)(a)(6)(7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-33422f77b93b68cb23341af10765c16d]: Commencement: Sch. 13 para. 17(1)-(3)(4)(a)(6)(7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-248b059ea60dd99fa5df860476965aba]: Commencement: Sch. 13 para. 17(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-248b059ea60dd99fa5df860476965aba]: Commencement: Sch. 13 para. 17(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329101]: Commencement: Sch. 13 para. 18 partly in force; Sch. 13 para. 18 not in force at Royal Assent see s. 211; Sch. 13 para. 18(1)(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-593e68023e9b8f69f57c5f8b3da93273]: Modification: Sch. 13 para. 18 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/2)
+[^c-593e68023e9b8f69f57c5f8b3da93273]: Modification: Sch. 13 para. 18 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/2)
 
-[^key-ec9a53eebc8aafbb48e5c7de2734fbf0]: Modification: Sch. 13 para. 18 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-ec9a53eebc8aafbb48e5c7de2734fbf0]: Modification: Sch. 13 para. 18 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-c8841543aec1bc2323faa7f0fc269ee4]: Modification: Sch. 13 para. 18 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/2)
+[^c-c8841543aec1bc2323faa7f0fc269ee4]: Modification: Sch. 13 para. 18 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/2)
 
-[^key-9c40571f33b8f8352f090778a2a2bbd5]: Modification: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/18) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/2)
+[^c-9c40571f33b8f8352f090778a2a2bbd5]: Modification: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/18) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/2)
 
-[^key-7c95ba452824d3920b81617e898b9515]: Modification: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/18) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/2)
+[^c-7c95ba452824d3920b81617e898b9515]: Modification: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/18) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/2)
 
-[^key-e65c8a25fe7a3e0edfd1de6cff0c5a0f]: Commencement: Sch. 13 para. 18(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e65c8a25fe7a3e0edfd1de6cff0c5a0f]: Commencement: Sch. 13 para. 18(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-8d3a80183a4aa372166b70bda959c714]: Commencement: Sch. 13 para. 18(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-8d3a80183a4aa372166b70bda959c714]: Commencement: Sch. 13 para. 18(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329131]: Commencement: Sch. 13 para. 19 partly in force; Sch. 13 para. 19 not in force at Royal Assent see s. 211; Sch. 13 para. 19(3)(b)(4) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-719948d0948c16428e353905a7c0b230]: Commencement: Sch. 13 para. 19(1)(2)(3)(a)(5)(6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-719948d0948c16428e353905a7c0b230]: Commencement: Sch. 13 para. 19(1)(2)(3)(a)(5)(6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-e544550a7658d61b435d9c89e764ab8c]: Commencement: Sch. 13 para. 19(3)(b)(4) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e544550a7658d61b435d9c89e764ab8c]: Commencement: Sch. 13 para. 19(3)(b)(4) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329141]: Commencement: Sch. 13 para. 20 partly in force; Sch. 13 para. 20 not in force at Royal Assent see s. 211; Sch. 13 para. 20(1)(3) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-3d4d3c8b02072702bf1890dbe9698a5b]: Modification: Sch. 13 para. 20 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/3)
+[^c-3d4d3c8b02072702bf1890dbe9698a5b]: Modification: Sch. 13 para. 20 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/3)
 
-[^key-7aafabed912bff5695cd4ab200c5fa74]: Modification: Sch. 13 para. 20 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-7aafabed912bff5695cd4ab200c5fa74]: Modification: Sch. 13 para. 20 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/3) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-3405175ca66c953594d247dfae8d56d0]: Modification: Sch. 13 para. 20 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/3)
+[^c-3405175ca66c953594d247dfae8d56d0]: Modification: Sch. 13 para. 20 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/3)
 
-[^key-83352482eb77bbe6bf04569abf8c8263]: Modification: [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/20) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/3)
+[^c-83352482eb77bbe6bf04569abf8c8263]: Modification: [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/20) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/3)
 
-[^key-c63e505bfb0ea24405985b2a0edb8e98]: Commencement: Sch. 13 para. 20(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-c63e505bfb0ea24405985b2a0edb8e98]: Commencement: Sch. 13 para. 20(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-9b65070e0956eeabd1f68ddef1c5aeb9]: Commencement: Sch. 13 para. 20(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-9b65070e0956eeabd1f68ddef1c5aeb9]: Commencement: Sch. 13 para. 20(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-d0bd1f073c33f7318a69a513829da88f]: Modification: [Sch. 13 para. 20(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/20/3) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/3)
+[^c-d0bd1f073c33f7318a69a513829da88f]: Modification: [Sch. 13 para. 20(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/20/3) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/3)
 
-[^key-e5972bdc39044b7a0e0651096887ea02]: Commencement: [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/21) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e5972bdc39044b7a0e0651096887ea02]: Commencement: [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/21) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-d28db016bed062888b49958b4cd5c99e]: Commencement: [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/22) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-d28db016bed062888b49958b4cd5c99e]: Commencement: [Sch. 13 para. 22](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/22) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-71908eb93f0c756898e8cda4f7fcd5be]: Commencement: [Sch. 13 para. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/23) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-71908eb93f0c756898e8cda4f7fcd5be]: Commencement: [Sch. 13 para. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/23) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-e1a524acb4912906fd686de8b011503b]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/24) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e1a524acb4912906fd686de8b011503b]: Commencement: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/24) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329351]: Commencement: [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25) partly in force; [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25) not in force at Royal Assent see [s. 211](https://www.legislation.gov.uk/ukpga/2007/29/section/211); [Sch. 13 para. 25(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/2) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-96e2304c4c36364dfd5441fdb327e3f1]: Commencement: [Sch. 13 para. 25(1)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/1) [(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-96e2304c4c36364dfd5441fdb327e3f1]: Commencement: [Sch. 13 para. 25(1)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/1) [(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/3) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-b6071adcd06bd1e446a7481f69228a64]: Commencement: [Sch. 13 para. 25(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/2) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-b6071adcd06bd1e446a7481f69228a64]: Commencement: [Sch. 13 para. 25(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/25/2) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-b6efc515eb03c2419f793952e17a3f3f]: Commencement: [Sch. 13 para. 26](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/26) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-b6efc515eb03c2419f793952e17a3f3f]: Commencement: [Sch. 13 para. 26](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/26) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-5600d9e831313dfa44eff75471e6a5e1]: Commencement: [Sch. 13 para. 27](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/27) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-5600d9e831313dfa44eff75471e6a5e1]: Commencement: [Sch. 13 para. 27](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/27) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329531]: Commencement: Sch. 13 para. 28 partly in force; Sch. 13 para. 28 not in force at Royal Assent see s. 211; Sch. 13 para. 28(5)(b)(6) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-47177002a8c8352eba8b314cf31a6777]: Commencement: Sch. 13 para. 28(1)-(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-47177002a8c8352eba8b314cf31a6777]: Commencement: Sch. 13 para. 28(1)-(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-a3da5d8a948185e0b2a7a0469dcd2b74]: Commencement: Sch. 13 para. 28(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-a3da5d8a948185e0b2a7a0469dcd2b74]: Commencement: Sch. 13 para. 28(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329541]: Commencement: Sch. 13 para. 29 partly in force; Sch. 13 para. 29 not in force at Royal Assent see s. 211; Sch. 13 para. 29(1)(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-2f7632e67e954a0927043e85589e4fb9]: Modification: Sch. 13 para. 29 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/4)
+[^c-2f7632e67e954a0927043e85589e4fb9]: Modification: Sch. 13 para. 29 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/4)
 
-[^key-ed46e7dc42f2cfa0949e57a5f6179f23]: Modification: Sch. 13 para. 29 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(4)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/4)
+[^c-ed46e7dc42f2cfa0949e57a5f6179f23]: Modification: Sch. 13 para. 29 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(4)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/4)
 
-[^key-a146e587af077fce0bb66cb52ab1260a]: Modification: Sch. 13 para. 29 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(4)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/4) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-a146e587af077fce0bb66cb52ab1260a]: Modification: Sch. 13 para. 29 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(4)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/4) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-8e876fcc6f941df37ead16e3d28d3bb4]: Modification: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/29) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/4)
+[^c-8e876fcc6f941df37ead16e3d28d3bb4]: Modification: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/29) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/4)
 
-[^key-a0969e4946285707fa69d7f22bc40bdf]: Modification: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/29) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/4)
+[^c-a0969e4946285707fa69d7f22bc40bdf]: Modification: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/29) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/4)
 
-[^key-aee42cc92d1735912bf369749e09bd03]: Commencement: Sch. 13 para. 29(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-aee42cc92d1735912bf369749e09bd03]: Commencement: Sch. 13 para. 29(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-fcea32a0e1aa8cdbffb5bd653f87e8f3]: Commencement: Sch. 13 para. 29(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-fcea32a0e1aa8cdbffb5bd653f87e8f3]: Commencement: Sch. 13 para. 29(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-0164fe649f37d8f35ad6375c4b3f91dd]: Commencement: [Sch. 13 para. 30](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/30) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-0164fe649f37d8f35ad6375c4b3f91dd]: Commencement: [Sch. 13 para. 30](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/30) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329561]: Commencement: Sch. 13 para. 31 partly in force; Sch. 13 para. 31 not in force at Royal Assent see s. 211; Sch. 13 para. 31(4)(b)(5) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-8abe310d2555044d06b9863e5c759bb3]: Commencement: Sch. 13 para. 31(1)-(3)(4)(a)(6)(7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-8abe310d2555044d06b9863e5c759bb3]: Commencement: Sch. 13 para. 31(1)-(3)(4)(a)(6)(7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-4348205c3db1535f8fe0a679ca627a66]: Commencement: Sch. 13 para. 31(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-4348205c3db1535f8fe0a679ca627a66]: Commencement: Sch. 13 para. 31(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329581]: Commencement: Sch. 13 para. 32 partly in force; Sch. 13 para. 32 not in force at Royal Assent see s. 211; Sch. 13 para. 32(1)(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-864cfababf0b5e8f81dc2db29709e970]: Modification: Sch. 13 para. 32 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/5)
+[^c-864cfababf0b5e8f81dc2db29709e970]: Modification: Sch. 13 para. 32 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/5)
 
-[^key-2abb665ce369d9c81f875ad68b1b549c]: Modification: Sch. 13 para. 32 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(5)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/5) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-2abb665ce369d9c81f875ad68b1b549c]: Modification: Sch. 13 para. 32 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(5)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/5) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-0e6b24862e6e618fbe6f8d7c2d727d99]: Modification: Sch. 13 para. 32 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(5)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/5)
+[^c-0e6b24862e6e618fbe6f8d7c2d727d99]: Modification: Sch. 13 para. 32 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(5)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/5)
 
-[^key-5709251541d102a30179a9ab7a0e46a3]: Modification: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/32) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/5)
+[^c-5709251541d102a30179a9ab7a0e46a3]: Modification: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/32) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/5)
 
-[^key-411b0c1205f290bdae68d96e4f89a6c8]: Modification: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/32) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/5)
+[^c-411b0c1205f290bdae68d96e4f89a6c8]: Modification: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/32) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/5)
 
-[^key-0a31f811487b8eedc9dc55b4149cfbc8]: Commencement: Sch. 13 para. 32(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-0a31f811487b8eedc9dc55b4149cfbc8]: Commencement: Sch. 13 para. 32(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-2e359fddf5837ec236c4cfba6d6d8c9b]: Commencement: Sch. 13 para. 32(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-2e359fddf5837ec236c4cfba6d6d8c9b]: Commencement: Sch. 13 para. 32(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329591]: Commencement: Sch. 13 para. 33 partly in force; Sch. 13 para. 33 not in force at Royal Assent see s. 211; Sch. 13 para. 33(2)(b)(5)(b)(6) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-1f38f49fe2cc8ee8b3ea50c07af8456f]: Commencement: Sch. 13 para. 33(1)(2)(a)(3)(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-1f38f49fe2cc8ee8b3ea50c07af8456f]: Commencement: Sch. 13 para. 33(1)(2)(a)(3)(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-56b6bc9ad91256e0d2ac395d60256089]: Commencement: Sch. 13 para. 33(2)(b)(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-56b6bc9ad91256e0d2ac395d60256089]: Commencement: Sch. 13 para. 33(2)(b)(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329551]: Commencement: Sch. 13 para. 34 partly in force; Sch. 13 para. 34 not in force at Royal Assent see s. 211; Sch. 13 para. 34(1)(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-79459fc8be0c3e8b8a4cf1afc22a522c]: Modification: Sch. 13 para. 34 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/6)
+[^c-79459fc8be0c3e8b8a4cf1afc22a522c]: Modification: Sch. 13 para. 34 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/6)
 
-[^key-3f4fb35787653c1d31f6c59b45662f3f]: Modification: Sch. 13 para. 34 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(6)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/6) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-3f4fb35787653c1d31f6c59b45662f3f]: Modification: Sch. 13 para. 34 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(6)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/6) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-e498cfe94b10ff3e3a4ec72ad8510258]: Modification: Sch. 13 para. 34 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(6)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/6)
+[^c-e498cfe94b10ff3e3a4ec72ad8510258]: Modification: Sch. 13 para. 34 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(6)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/6)
 
-[^key-7051ab2b87566aa76c19a64f76e70bb2]: Modification: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/34) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/6)
+[^c-7051ab2b87566aa76c19a64f76e70bb2]: Modification: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/34) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/6)
 
-[^key-390ce4b0788974bdc1f33d68b39d1ae5]: Modification: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/34) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/6)
+[^c-390ce4b0788974bdc1f33d68b39d1ae5]: Modification: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/34) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/6)
 
-[^key-7863f5bb759d545b91aa3b6f285e7fcd]: Commencement: Sch. 13 para. 34(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-7863f5bb759d545b91aa3b6f285e7fcd]: Commencement: Sch. 13 para. 34(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-32abe644a3c116a6d0d6ee34e71eadcd]: Commencement: Sch. 13 para. 34(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-32abe644a3c116a6d0d6ee34e71eadcd]: Commencement: Sch. 13 para. 34(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-91efa86377f34da5473c6848e31d186e]: Commencement: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/35) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-91efa86377f34da5473c6848e31d186e]: Commencement: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/35) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329671]: Commencement: Sch. 13 para. 36 partly in force; Sch. 13 para. 36 not in force at Royal Assent see s. 211; Sch. 13 para. 36(2)(5)(b)(6) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-eee319a64d3b0f597309337c41cfe619]: Commencement: Sch. 13 para. 36(1)(3)(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-eee319a64d3b0f597309337c41cfe619]: Commencement: Sch. 13 para. 36(1)(3)(4)(5)(a)(7)(8) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-cf2aa9a9ef1dda39d03e2243d9578061]: Commencement: Sch. 13 para. 36(2)(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-cf2aa9a9ef1dda39d03e2243d9578061]: Commencement: Sch. 13 para. 36(2)(5)(b)(6) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329841]: Commencement: Sch. 13 para. 37 partly in force; Sch. 13 para. 37 not in force at Royal Assent see s. 211; Sch. 13 para. 37(1)(4) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-3076a67a1adca8503a08de8452a7b858]: Modification: Sch. 13 para. 37 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/7)
+[^c-3076a67a1adca8503a08de8452a7b858]: Modification: Sch. 13 para. 37 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/7)
 
-[^key-8135e807a03dfc97784128ebdd6bbff1]: Modification: Sch. 13 para. 37 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(7)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/7) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-8135e807a03dfc97784128ebdd6bbff1]: Modification: Sch. 13 para. 37 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(7)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/7) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-8aff42dd9332f4ec37696c7a48370eaa]: Modification: Sch. 13 para. 37 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(7)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/7)
+[^c-8aff42dd9332f4ec37696c7a48370eaa]: Modification: Sch. 13 para. 37 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(7)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/7)
 
-[^key-acb303a8c6be04d1498887fca60876be]: Modification: [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/37) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/7)
+[^c-acb303a8c6be04d1498887fca60876be]: Modification: [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/37) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/7)
 
-[^key-707799036d5332f052abfcc3fcdb9431]: Modification: [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/37) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/7)
+[^c-707799036d5332f052abfcc3fcdb9431]: Modification: [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/37) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(7)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/7)
 
-[^key-d7f15ad18b7068cd2a745bdc0d6683b4]: Commencement: Sch. 13 para. 37(1)(4) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-d7f15ad18b7068cd2a745bdc0d6683b4]: Commencement: Sch. 13 para. 37(1)(4) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-b9715b3b441698147b2bfa448b0efcc9]: Commencement: Sch. 13 para. 37(2)(3)(5)(6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-b9715b3b441698147b2bfa448b0efcc9]: Commencement: Sch. 13 para. 37(2)(3)(5)(6) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-0a66f682daf704376bb8aa1c04679eed]: Commencement: [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/38) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-0a66f682daf704376bb8aa1c04679eed]: Commencement: [Sch. 13 para. 38](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/38) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-ae461edaf28a2689b53f8aaf0022694d]: Commencement: [Sch. 13 para. 39](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/39) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-ae461edaf28a2689b53f8aaf0022694d]: Commencement: [Sch. 13 para. 39](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/39) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-861fe3ca3a8f2aaa66c4b7deb91bc832]: Commencement: [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/40) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-861fe3ca3a8f2aaa66c4b7deb91bc832]: Commencement: [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/40) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-eeb8f6ad1cf24f697b63ae36b25a3e07]: Commencement: [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/41) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-eeb8f6ad1cf24f697b63ae36b25a3e07]: Commencement: [Sch. 13 para. 41](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/41) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-23f82fa6b51cb50e2e356e0ab9261fab]: Commencement: [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/42) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-23f82fa6b51cb50e2e356e0ab9261fab]: Commencement: [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/42) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329881]: Commencement: Sch. 13 para. 43 partly in force; Sch. 13 para. 43 not in force at Royal Assent see s. 211; Sch. 13 para. 43(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-e9c95a0f83ebdec0fb252286a7d669d5]: Commencement: Sch. 13 para. 43(1)(2) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-e9c95a0f83ebdec0fb252286a7d669d5]: Commencement: Sch. 13 para. 43(1)(2) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-791976e535c4547e3872dc836ea188b7]: Commencement: Sch. 13 para. 43(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-791976e535c4547e3872dc836ea188b7]: Commencement: Sch. 13 para. 43(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329901]: Commencement: Sch. 13 para. 44 partly in force; Sch. 13 para. 44 not in force at Royal Assent see s. 211; Sch. 13 para. 44(4)(b) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-49226952b857677eeedde9734d6c0793]: Commencement: Sch. 13 para. 44(1)-(3)(4)(a)(c) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-49226952b857677eeedde9734d6c0793]: Commencement: Sch. 13 para. 44(1)-(3)(4)(a)(c) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-6e4a0fb03a44dc855dc2c9c0720bc987]: Commencement: Sch. 13 para. 44(4)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-6e4a0fb03a44dc855dc2c9c0720bc987]: Commencement: Sch. 13 para. 44(4)(b) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-5292658dee3164ffb0a2fe335b6e41c6]: Commencement: [Sch. 13 para. 45](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/45) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-5292658dee3164ffb0a2fe335b6e41c6]: Commencement: [Sch. 13 para. 45](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/45) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329941]: Commencement: Sch. 13 para. 46 partly in force; Sch. 13 para. 46 not in force at Royal Assent see s. 211; Sch. 13 para. 46(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-ed74922e615d17c86fa854541ed22041]: Commencement: Sch. 13 para. 46(1)(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-ed74922e615d17c86fa854541ed22041]: Commencement: Sch. 13 para. 46(1)(2)(4)(5) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-5ab2671ba53c57ca6fa79d60ea7b6a5a]: Commencement: Sch. 13 para. 46(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-5ab2671ba53c57ca6fa79d60ea7b6a5a]: Commencement: Sch. 13 para. 46(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-022877496c067e75b71f3babced06421]: Modification: Sch. 13 para. 47 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/8)
+[^c-022877496c067e75b71f3babced06421]: Modification: Sch. 13 para. 47 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/8)
 
-[^key-17faede6363ec11a45bb9492f0246224]: Commencement: Sch. 13 para. 47 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-17faede6363ec11a45bb9492f0246224]: Commencement: Sch. 13 para. 47 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-5969fe26eed00267b34d31eeeaf9b6e0]: Modification: Sch. 13 para. 47 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(8)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/8) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-5969fe26eed00267b34d31eeeaf9b6e0]: Modification: Sch. 13 para. 47 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(8)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/8) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-b2db128b0134dfe095d25ff066f6e5fc]: Modification: Sch. 13 para. 47 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(8)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/8)
+[^c-b2db128b0134dfe095d25ff066f6e5fc]: Modification: Sch. 13 para. 47 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(8)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/8)
 
-[^key-f71a2e041968763c8817a7ce4caf98fd]: Modification: [Sch. 13 para. 47](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/47) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/8)
+[^c-f71a2e041968763c8817a7ce4caf98fd]: Modification: [Sch. 13 para. 47](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/47) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/8)
 
-[^key-2b4b15095ae4eac2cc7f096cf21e8ab5]: Modification: [Sch. 13 para. 47(4)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/47/4) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/8)
+[^c-2b4b15095ae4eac2cc7f096cf21e8ab5]: Modification: [Sch. 13 para. 47(4)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/47/4) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(8)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/8)
 
-[^key-5862c4fab076ed8abd116d24ba24da8c]: Modification: Sch. 13 para. 48 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/9)
+[^c-5862c4fab076ed8abd116d24ba24da8c]: Modification: Sch. 13 para. 48 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/9)
 
-[^key-f10518dc6b910e8cf3b7f09a81753d1e]: Commencement: Sch. 13 para. 48 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-f10518dc6b910e8cf3b7f09a81753d1e]: Commencement: Sch. 13 para. 48 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-ccc265716170e80932dc4d2ef29b7938]: Modification: Sch. 13 para. 48 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(9)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/9)
+[^c-ccc265716170e80932dc4d2ef29b7938]: Modification: Sch. 13 para. 48 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(9)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/9)
 
-[^key-7a53fc8e49759f4282458a95cb853ca3]: Modification: Sch. 13 para. 48 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(9)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/9) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-7a53fc8e49759f4282458a95cb853ca3]: Modification: Sch. 13 para. 48 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(9)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/9) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-bed84f4da9bed40cb5a39a4f1fbab96e]: Modification: [Sch. 13 para. 48](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/48) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/9)
+[^c-bed84f4da9bed40cb5a39a4f1fbab96e]: Modification: [Sch. 13 para. 48](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/48) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/9)
 
-[^key-ce09ee4b76699d622ba98f68f6e62fa2]: Modification: [Sch. 13 para. 48(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/48/3) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/9)
+[^c-ce09ee4b76699d622ba98f68f6e62fa2]: Modification: [Sch. 13 para. 48(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/48/3) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(9)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/9)
 
 [^c20329961]: Commencement: Sch. 13 para. 49 partly in force; Sch. 13 para. 49 not in force at Royal Assent see s. 211; Sch. 13 para. 49(4)(b)(5) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-7aa3ee16f28a088d09d9e4e07f41412d]: Commencement: Sch. 13 para. 49(1)-(3)(4)(a) (6) (7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-7aa3ee16f28a088d09d9e4e07f41412d]: Commencement: Sch. 13 para. 49(1)-(3)(4)(a) (6) (7) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-3f8adde8eaf11339d1eb409ef3bc8194]: Commencement: Sch. 13 para. 49(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-3f8adde8eaf11339d1eb409ef3bc8194]: Commencement: Sch. 13 para. 49(4)(b)(5) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
 [^c20329971]: Commencement: Sch. 13 para. 50 partly in force; Sch. 13 para. 50 not in force at Royal Assent see s. 211; Sch. 13 para. 50(1)(3) in force for certain purposes at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/iv)
 
-[^key-05363188780cf93d7b973dc6588fb2e1]: Modification: Sch. 13 para. 50 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/10)
+[^c-05363188780cf93d7b973dc6588fb2e1]: Modification: Sch. 13 para. 50 modified (with effect in accordance with art. 2 of the amending S.I.) by [Legal Services Act 2007 (Appeals from Licensing Authority Decisions) Order 2011 (S.I. 2011/1712)](https://www.legislation.gov.uk/uksi/2011/1712), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2011/1712/article/2/1), [5](https://www.legislation.gov.uk/uksi/2011/1712/article/5), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2011/1712/schedule/paragraph/2/10)
 
-[^key-e8e5bbbdb8c1fa45fbbfab9e81bf2807]: Modification: Sch. 13 para. 50 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(10)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/10) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
+[^c-e8e5bbbdb8c1fa45fbbfab9e81bf2807]: Modification: Sch. 13 para. 50 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Chartered Institute of Patent Attorneys and Institute of Trade Mark Attorneys) Order 2014 (S.I. 2014/1897)](https://www.legislation.gov.uk/uksi/2014/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/1)[(10)](https://www.legislation.gov.uk/uksi/2014/1897/schedule/paragraph/2/10) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1897/article/2/2))
 
-[^key-8e5e9004a27a08ace2713b00f3e5b215]: Modification: Sch. 13 para. 50 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(10)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/10)
+[^c-8e5e9004a27a08ace2713b00f3e5b215]: Modification: Sch. 13 para. 50 modified (18.7.2014) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (Institute of Chartered Accountants in England and Wales) Order 2014 (S.I. 2014/1898)](https://www.legislation.gov.uk/uksi/2014/1898), [art. 2](https://www.legislation.gov.uk/uksi/2014/1898/article/2), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/1)[(10)](https://www.legislation.gov.uk/uksi/2014/1898/schedule/paragraph/2/10)
 
-[^key-e042a5b851e44668cf04206bb040b7d9]: Modification: [Sch. 13 para. 50](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/50) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/10)
+[^c-e042a5b851e44668cf04206bb040b7d9]: Modification: [Sch. 13 para. 50](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/50) modified (1.10.2018) by [The Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (General Council of the Bar) Order 2018 (S.I. 2018/457)](https://www.legislation.gov.uk/uksi/2018/457), [art. 1](https://www.legislation.gov.uk/uksi/2018/457/article/1), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2018/457/schedule/paragraph/2/10)
 
-[^key-b9f30f38a843a3dfcc94672301b06397]: Modification: [Sch. 13 para. 50](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/50) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/10)
+[^c-b9f30f38a843a3dfcc94672301b06397]: Modification: [Sch. 13 para. 50](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/50) modified (6.4.2020) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Appeals from Licensing Authority Decisions) Order 2020 (S.I. 2020/301)](https://www.legislation.gov.uk/uksi/2020/301), [art. 1](https://www.legislation.gov.uk/uksi/2020/301/article/1), [Sch. para. 2(10)](https://www.legislation.gov.uk/uksi/2020/301/schedule/paragraph/2/10)
 
-[^key-6e29d99b8229889677fe059d106a931e]: Commencement: Sch. 13 para. 50(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-6e29d99b8229889677fe059d106a931e]: Commencement: Sch. 13 para. 50(1)(3) in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-503e5aa571d0f6cc83e452fa37d6b1c5]: Commencement: Sch. 13 para. 50(2)(4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-503e5aa571d0f6cc83e452fa37d6b1c5]: Commencement: Sch. 13 para. 50(2)(4) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
 
-[^key-6085c676b0f7127633d02e9b334b57e9]: Commencement: [Sch. 13 para. 51](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/51) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)
+[^c-6085c676b0f7127633d02e9b334b57e9]: Commencement: [Sch. 13 para. 51](https://www.legislation.gov.uk/ukpga/2007/29/schedule/13/paragraph/51) in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/d)

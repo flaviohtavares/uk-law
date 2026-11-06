@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — NITRATE SENSITIVE AREA ORDERS[^key-f6383492330171aef0705542e8ff5eec]
+## SCHEDULE 12 — NITRATE SENSITIVE AREA ORDERS[^c-f6383492330171aef0705542e8ff5eec]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ Section 94.
 
 ## Annotations
 
-[^key-f6383492330171aef0705542e8ff5eec]: Textual amendment: Sch. 12 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))
+[^c-f6383492330171aef0705542e8ff5eec]: Textual amendment: Sch. 12 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))

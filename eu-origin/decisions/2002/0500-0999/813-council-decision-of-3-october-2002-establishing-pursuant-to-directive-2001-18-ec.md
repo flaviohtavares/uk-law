@@ -37,30 +37,30 @@ establishing, pursuant to Directive 2001/18/EC of the European Parliament and of
 
 (2002/813/EC) (revoked)
 
-[^key-6c92c06426c5eab306effb929782ea0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c92c06426c5eab306effb929782ea0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6c92c06426c5eab306effb929782ea0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6c92c06426c5eab306effb929782ea0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6c92c06426c5eab306effb929782ea0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6c92c06426c5eab306effb929782ea0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — SUMMARY NOTIFICATION INFORMATION FORMAT FOR THE DELIBERATE RELEASE OF A GMO OR A COMBINATION OF GMOs FOR PURPOSES OTHER THAN FOR PLACING ON THE MARKET[^key-6c92c06426c5eab306effb929782ea0a]
+## ANNEX — SUMMARY NOTIFICATION INFORMATION FORMAT FOR THE DELIBERATE RELEASE OF A GMO OR A COMBINATION OF GMOs FOR PURPOSES OTHER THAN FOR PLACING ON THE MARKET[^c-6c92c06426c5eab306effb929782ea0a]
 
-[^key-6c92c06426c5eab306effb929782ea0a]INTRODUCTION
+[^c-6c92c06426c5eab306effb929782ea0a]INTRODUCTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1[^key-6c92c06426c5eab306effb929782ea0a]
+### PART 1[^c-6c92c06426c5eab306effb929782ea0a]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_001)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_002)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_003)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_004)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_005)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_006)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_007)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_008)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_009)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_010)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_011)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_012)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_013)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_014)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_015)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_016)
 
-### PART 2[^key-6c92c06426c5eab306effb929782ea0a]
+### PART 2[^c-6c92c06426c5eab306effb929782ea0a]
 
 [image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_017)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_018)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_019)[image: see source](https://www.legislation.gov.uk/eudn/2002/813/images/eudn_20020813_2007-01-01_en_020)
 
 ## Annotations
 
-[^key-6c92c06426c5eab306effb929782ea0a]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6c92c06426c5eab306effb929782ea0a]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

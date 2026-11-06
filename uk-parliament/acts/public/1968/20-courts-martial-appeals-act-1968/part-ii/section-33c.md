@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Regulations[^key-0d6f43230b73c30fa329600c3619da93]
+## 33C. Regulations[^c-0d6f43230b73c30fa329600c3619da93]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d6f43230b73c30fa329600c3619da93]: Textual amendment: S. 33C inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/7) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
+[^c-0d6f43230b73c30fa329600c3619da93]: Textual amendment: S. 33C inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/7) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)

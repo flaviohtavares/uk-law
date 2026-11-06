@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Disqualification and re-qualification marks[^key-a795f763407d99347e3f91262808adad]
+## SCHEDULE A1 — Disqualification and re-qualification marks[^c-a795f763407d99347e3f91262808adad]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ A re-qualification mark must have the following form—
 
 ## Annotations
 
-[^key-a795f763407d99347e3f91262808adad]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2016/1152/schedule/A1) inserted (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/5/4)
+[^c-a795f763407d99347e3f91262808adad]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2016/1152/schedule/A1) inserted (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/5/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.140. Appointment by the court[^key-85cfe4669cf7dc3295f3bd279efc9b68]
+## 4.140. Appointment by the court[^c-85cfe4669cf7dc3295f3bd279efc9b68]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85cfe4669cf7dc3295f3bd279efc9b68]: Commencement: [Rule 4.140](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.140) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-85cfe4669cf7dc3295f3bd279efc9b68]: Commencement: [Rule 4.140](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.140) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00085]: Marginal citation: \[FORM 4.29\] \[FORM 4.30\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Policing at airports[^key-2fa2ae69a38ae5887fdc0c9595a063e5][^key-ce415e224794d0e5cc9913d3ae0fdbbd]
+## 80. Policing at airports[^c-2fa2ae69a38ae5887fdc0c9595a063e5][^c-ce415e224794d0e5cc9913d3ae0fdbbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 6 (which amends Part 3 of the Aviation Security Act 1982 (c. 36) and ma
 
 ## Annotations
 
-[^key-2fa2ae69a38ae5887fdc0c9595a063e5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2009/26/section/80) in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(l)](https://www.legislation.gov.uk/uksi/2010/125/article/2/l)
+[^c-2fa2ae69a38ae5887fdc0c9595a063e5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2009/26/section/80) in force at 29.1.2010 for E.W.S. by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(l)](https://www.legislation.gov.uk/uksi/2010/125/article/2/l)
 
-[^key-ce415e224794d0e5cc9913d3ae0fdbbd]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2009/26/section/80) in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(n)](https://www.legislation.gov.uk/uksi/2010/507/article/5/n)
+[^c-ce415e224794d0e5cc9913d3ae0fdbbd]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2009/26/section/80) in force at 1.4.2010 for N.I. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(n)](https://www.legislation.gov.uk/uksi/2010/507/article/5/n)

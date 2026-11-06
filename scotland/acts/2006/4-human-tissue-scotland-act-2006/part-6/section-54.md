@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Arrangements by the Scottish Ministers for assistance with functions under section 1, 2, 17(3), (4) or (5), 18, 19(2) or 20(3)[^key-8f10d145a26c2b21b1a94dcc5892c35a]
+## 54. Arrangements by the Scottish Ministers for assistance with functions under section 1, 2, 17(3), (4) or (5), 18, 19(2) or 20(3)[^c-8f10d145a26c2b21b1a94dcc5892c35a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f10d145a26c2b21b1a94dcc5892c35a]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2006/4/section/54) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-8f10d145a26c2b21b1a94dcc5892c35a]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2006/4/section/54) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

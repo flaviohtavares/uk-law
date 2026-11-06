@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Exercise of maritime enforcement powers[^key-52f646597817dfdbc0b5d4003886f4d1][^key-013402868927bc5e63e00416794e68af]
+## 58. Exercise of maritime enforcement powers[^c-52f646597817dfdbc0b5d4003886f4d1][^c-013402868927bc5e63e00416794e68af]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-52f646597817dfdbc0b5d4003886f4d1]: Commencement: Reg. 58 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-52f646597817dfdbc0b5d4003886f4d1]: Commencement: Reg. 58 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-013402868927bc5e63e00416794e68af]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2020/1278/regulation/58) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-013402868927bc5e63e00416794e68af]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2020/1278/regulation/58) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

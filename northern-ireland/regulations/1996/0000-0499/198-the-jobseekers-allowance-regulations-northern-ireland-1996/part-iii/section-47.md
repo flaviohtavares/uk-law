@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Jobseeking period[^key-2961d51c3a6adf8f44d47cc782039738]
+## 47. Jobseeking period[^c-2961d51c3a6adf8f44d47cc782039738]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ shall be treated as if it was a day in respect of which he was entitled to a con
 
 ## Annotations
 
-[^key-2961d51c3a6adf8f44d47cc782039738]: Commencement: Reg. 47 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2961d51c3a6adf8f44d47cc782039738]: Commencement: Reg. 47 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19 — Further provision about standing advisory committees[^key-2b912dddbb1bd726a38f08d1c156b609]
+## SCHEDULE 19 — Further provision about standing advisory committees[^c-2b912dddbb1bd726a38f08d1c156b609]
 
 *Extent: E+W*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Section 250
 
-**1.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2b912dddbb1bd726a38f08d1c156b609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b912dddbb1bd726a38f08d1c156b609]: Textual amendment: Sch. 19 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 283(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/283/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 283(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/283/3)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-2b912dddbb1bd726a38f08d1c156b609]: Textual amendment: Sch. 19 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 283(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/283/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 283(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/283/3)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

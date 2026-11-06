@@ -34,38 +34,38 @@ of 18 December 1995
 
 on the protection of the European Communities financial interests (revoked)
 
-[^key-62415c5c6c7dbaddfb4266581a3ff3d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62415c5c6c7dbaddfb4266581a3ff3d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE I — General principles[^key-62415c5c6c7dbaddfb4266581a3ff3d9]
+## TITLE I — General principles[^c-62415c5c6c7dbaddfb4266581a3ff3d9]
 
-**Article 1.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE II — Administrative measures and penalties[^key-62415c5c6c7dbaddfb4266581a3ff3d9]
+## TITLE II — Administrative measures and penalties[^c-62415c5c6c7dbaddfb4266581a3ff3d9]
 
-**Article 4.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE III — Checks[^key-62415c5c6c7dbaddfb4266581a3ff3d9]
+## TITLE III — Checks[^c-62415c5c6c7dbaddfb4266581a3ff3d9]
 
-**Article 8.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-62415c5c6c7dbaddfb4266581a3ff3d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-62415c5c6c7dbaddfb4266581a3ff3d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62415c5c6c7dbaddfb4266581a3ff3d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62415c5c6c7dbaddfb4266581a3ff3d9]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62415c5c6c7dbaddfb4266581a3ff3d9]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

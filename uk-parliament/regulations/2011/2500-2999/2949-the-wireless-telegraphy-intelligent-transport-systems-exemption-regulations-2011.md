@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Intelligent Transport Systems) (Exemption) Regulations 2011 (revoked)[^key-f05659d752adbc8faf5a3200144922e2]
+The Wireless Telegraphy (Intelligent Transport Systems) (Exemption) Regulations 2011 (revoked)[^c-f05659d752adbc8faf5a3200144922e2]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into force
 
 31st December 2011
 
-[^key-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f05659d752adbc8faf5a3200144922e2]
+## 1. Citation and commencement[^c-f05659d752adbc8faf5a3200144922e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-f05659d752adbc8faf5a3200144922e2]
+## 2. Revocation[^c-f05659d752adbc8faf5a3200144922e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-f05659d752adbc8faf5a3200144922e2]
+## 3. Interpretation[^c-f05659d752adbc8faf5a3200144922e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption[^key-f05659d752adbc8faf5a3200144922e2]
+## 4. Exemption[^c-f05659d752adbc8faf5a3200144922e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Terms, provisions and limitations[^key-f05659d752adbc8faf5a3200144922e2]
+## 5. Terms, provisions and limitations[^c-f05659d752adbc8faf5a3200144922e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f05659d752adbc8faf5a3200144922e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f05659d752adbc8faf5a3200144922e2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2949) revoked (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/243/regulation/2)
+[^c-f05659d752adbc8faf5a3200144922e2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2949) revoked (23.3.2023) by [The Wireless Telegraphy (Exemption) (Amendment) Regulations 2023 (S.I. 2023/243)](https://www.legislation.gov.uk/uksi/2023/243), [regs. 1](https://www.legislation.gov.uk/uksi/2023/243/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/243/regulation/2)

@@ -65,11 +65,11 @@ The National Assembly for Wales, being designated [^c1673253] for the purposes o
 - “**agglomeration**” (“**crynodref**”) means an area identified as an agglomeration pursuant to regulation 3;
 - “**airport operator**” (“**gweithredydd maes awyr**”) means the person for the time being having, in relation to a particular airport, the management of that airport;
 - “**calendar year**” (“**blwyddyn galendr**”) means a period of a year beginning on 1 January;
-- “consolidated noise map” (“[^key-461059216dfc72c187c79d30ea1b458b]*map swn cyfynol*”) means a noise map compiled pursuant to regulation 15(4);
+- “consolidated noise map” (“[^c-461059216dfc72c187c79d30ea1b458b]*map swn cyfynol*”) means a noise map compiled pursuant to regulation 15(4);
 - “**dB(A)**” (“**dB(A)**”) is a measure of sound pressure level (“A” weighted) in decibels as specified in British Standard BS EN 61672-2: 2003 [^c1673255];
 - “**DEFRA**” means the Department for Environment Food and Rural Affairs;
 - “**designated**” (“**wedi'i ddynodi**”) when used in relation to any airport means designated under section 80 for the purposes of section 78 of the Civil Aviation Act 1982 [^c1673256];
-- “**Directive**” (“**Cyfarwyddeb**”) means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise [^c1673257] , as it had effect immediately before exit day[^key-e29750cce4e9f68637462d598df0f61a];
+- “**Directive**” (“**Cyfarwyddeb**”) means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise [^c1673257] , as it had effect immediately before exit day[^c-e29750cce4e9f68637462d598df0f61a];
 - “**first round agglomeration**” (“**crynodref cylch cyntaf**”) means an area identified as a first round agglomeration pursuant to regulation 3;
 - “**first round major railway**” (“**prif reilffordd cylch cyntaf**”) means a railway which is identified as a first round major railway pursuant to regulation 3;
 - “**first round major road**” (“**prif ffordd cylch cyntaf**”) means a road which is identified as a first round major road pursuant to regulation 3;
@@ -78,7 +78,7 @@ The National Assembly for Wales, being designated [^c1673253] for the purposes o
 - “Levening” covers the period 19:00 – 23:00 hours in any 24 hour period;
 - “Lnight” covers the period 23:00 – 07:00 hours in any 24 hour period;
 
-- “major airport”(“[^key-fe65f986c52606037ceee0d2f01df1a6]*prif faes awyr*”) pursuant to regulation 3;
+- “major airport”(“[^c-fe65f986c52606037ceee0d2f01df1a6]*prif faes awyr*”) pursuant to regulation 3;
 - “**major railway**” (“**prif reilffordd**”) means a railway which is identified as a major railway pursuant to regulation 3;
 - “**major road**” (“**prif ffordd**”) means a road which is identified as a major road pursuant to regulation 3;
 - “**motorway**” (“**traffordd**”) means a special road which (save as otherwise provided by or under regulations made under section 17 of the Road Traffic Regulation Act 1984 [^c1673258]) can be used by traffic only of Class I or II as specified in Schedule 4 to the Highways Act 1980 [^c1673259];
@@ -94,7 +94,7 @@ The National Assembly for Wales, being designated [^c1673253] for the purposes o
 - “**supplementary noise indicator**” (“**dangosydd sŵ n atodol**”) has the meaning given in regulation 4(6); and
 - “**trunk road**” (“**cefnffordd**”) means any highway for which the Assembly is the relevant highway authority.
 
-(3)[^key-2d984b4b3f98ab404a976e3ebe5504f9] For the purposes of these Regulations, the Directive is to be read as if a reference to one or more member States were a reference to the Welsh Ministers.
+(3)[^c-2d984b4b3f98ab404a976e3ebe5504f9] For the purposes of these Regulations, the Directive is to be read as if a reference to one or more member States were a reference to the Welsh Ministers.
 
 ### 3. Identification of noise sources
 
@@ -105,16 +105,16 @@ The National Assembly for Wales, being designated [^c1673253] for the purposes o
 - (c) first round major railways; and
 - (d) major airports.
 
-(2) No later than 31 December 2011 the Assembly must publish maps identifying all[^key-4e8f5ea4b25a3238007250b50270bb9c]—
+(2) No later than 31 December 2011 the Assembly must publish maps identifying all[^c-4e8f5ea4b25a3238007250b50270bb9c]—
 
 - (a) agglomerations;
 - (b) major roads;
 - (c) major railways; and
 - (d) major airports.
 
-(3) Paragraph (4) applies if the Assembly considers that the most recent maps published[^key-a2d30f439322047e2714f36940e6205f] pursuant to this regulation are no longer appropriate.
+(3) Paragraph (4) applies if the Assembly considers that the most recent maps published[^c-a2d30f439322047e2714f36940e6205f] pursuant to this regulation are no longer appropriate.
 
-(4) In any relevant year the Assembly must publish maps identifying all[^key-5e1aff3755a881ede670477dfce9cb06]—
+(4) In any relevant year the Assembly must publish maps identifying all[^c-5e1aff3755a881ede670477dfce9cb06]—
 
 - (a) agglomerations;
 - (b) major roads;
@@ -174,17 +174,17 @@ as necessary.
 
 when making or revising strategic noise maps under this Part.
 
-(3) The values of Lden, Lnight and the supplementary noise indicators must be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex[^key-fbcd846304bff551b9f64a4a8587f3c1] II to the Directive.
+(3) The values of Lden, Lnight and the supplementary noise indicators must be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex[^c-fbcd846304bff551b9f64a4a8587f3c1] II to the Directive.
 
-(3A)[^key-e8b47cdb8f9d3ad0052479f4fa8a3746] In paragraph (3), “assessment position” means the assessment height in paragraph 7 of Annex IV to the Directive.
+(3A)[^c-e8b47cdb8f9d3ad0052479f4fa8a3746] In paragraph (3), “assessment position” means the assessment height in paragraph 7 of Annex IV to the Directive.
 
-(4)[^key-d56b5fcd660e4c73085c61f4b32d129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d56b5fcd660e4c73085c61f4b32d129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d56b5fcd660e4c73085c61f4b32d129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d56b5fcd660e4c73085c61f4b32d129a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Supplementary noise indicator**” means a noise indicator as defined in Schedule 3.
 
-(7)[^key-f05f5fdc3e85f687f43e0027234483a8] For the purposes of paragraph (2)(a), a reference to Annex I to the Directive is to be read as if, in paragraph 1, in the fourth indent that begins “the day is 12 hours”, the words from “The Member States” to the end were omitted.
+(7)[^c-f05f5fdc3e85f687f43e0027234483a8] For the purposes of paragraph (2)(a), a reference to Annex I to the Directive is to be read as if, in paragraph 1, in the fourth indent that begins “the day is 12 hours”, the words from “The Member States” to the end were omitted.
 
 ### CHAPTER 2 — STRATEGIC NOISE MAPS – NOISE SOURCES OTHER THAN NON-DESIGNATED AIRPORTS
 
@@ -196,7 +196,7 @@ This Chapter does not apply to noise from non-designated airports.
 
 The competent authority for this Chapter is the Assembly.
 
-#### 7. Duty to make, review and revise strategic noise maps[^key-7a4bf1d354ab6ffdd2c3e3a3e2c82dd2]
+#### 7. Duty to make, review and revise strategic noise maps[^c-7a4bf1d354ab6ffdd2c3e3a3e2c82dd2]
 
 (1) No later than 30 June 2007 the competent authority must make and, in accordance with regulation 23, adopt strategic noise maps showing the situation in the preceding calendar year for all—
 
@@ -298,7 +298,7 @@ any strategic noise map made pursuant to paragraphs (1) or (2) and adopted pursu
 
 ## PART 3 — QUIET AREAS
 
-### 13. Identification of quiet areas[^key-2493f65ea79673b8c556733c3f6ae526]
+### 13. Identification of quiet areas[^c-2493f65ea79673b8c556733c3f6ae526]
 
 (1) Quiet areas in first round agglomerations must be identified in the action plans drawn up under regulation 17(1)(c).
 
@@ -308,7 +308,7 @@ any strategic noise map made pursuant to paragraphs (1) or (2) and adopted pursu
 
 ### CHAPTER 1 — GENERAL
 
-#### 14. Duty to publish criteria or limit values[^key-84558ba763aaf7bdb53c1c731cc54a79]
+#### 14. Duty to publish criteria or limit values[^c-84558ba763aaf7bdb53c1c731cc54a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -316,11 +316,11 @@ any strategic noise map made pursuant to paragraphs (1) or (2) and adopted pursu
 
 (1) Any action plan drawn up or revised under this Part must—
 
-- (a)[^key-649823c93436a9b433eec0eedcc9c264] aim to prevent and reduce environmental noise where necessary and particularly where exposure levels can induce harmful effects on human health;
+- (a)[^c-649823c93436a9b433eec0eedcc9c264] aim to prevent and reduce environmental noise where necessary and particularly where exposure levels can induce harmful effects on human health;
 - (aa) aim to preserve environmental noise quality where it is good;
 - (b) be designed to manage noise issues and effects, including noise reduction if necessary;
 - (c) aim to protect quiet areas in agglomerations against an increase in noise;
-- (d)[^key-792a4e99848869e43cd1cc0a1786f128] identify and address priorities having regard to guidance issued by the Welsh Ministers under regulation 30(1);
+- (d)[^c-792a4e99848869e43cd1cc0a1786f128] identify and address priorities having regard to guidance issued by the Welsh Ministers under regulation 30(1);
 - (e) apply in particular to the most important areas as established by strategic noise maps adopted pursuant to regulation 23; and
 - (f) meet the requirements in Schedule 4.
 
@@ -338,7 +338,7 @@ drawn up under this Part for an agglomeration.
   - (ii) concern any part of the area addressed by the action plan; and
 - (b) a consolidated noise map.
 
-(4)[^key-98b80b809be3e59161bf7bebc114e7af] The Welsh Ministers may compile consolidated noise maps in respect of any area from any strategic noise maps that—
+(4)[^c-98b80b809be3e59161bf7bebc114e7af] The Welsh Ministers may compile consolidated noise maps in respect of any area from any strategic noise maps that—
 
 - (a) are made or revised pursuant to regulation 7,11 or 12 and adopted pursuant to regulation 23, and
 - (b) concern any part of the area addressed by the action plan.
@@ -349,7 +349,7 @@ drawn up under this Part for an agglomeration.
 
 The competent authority for this Chapter is the Assembly.
 
-#### 17. Duty to draw up, review and revise action plans[^key-3011abb5454ff1017913c773d0eb221b]
+#### 17. Duty to draw up, review and revise action plans[^c-3011abb5454ff1017913c773d0eb221b]
 
 (1) No later than 18 July 2008 the competent authority must draw up action plans for—
 
@@ -457,11 +457,11 @@ with written reasons for departing from that policy; and
 (2) A competent authority—
 
 - (a) when requested to do so by an external competent authority; and
-- (b) if necessary to meet that external competent authority's obligations arising under relevant retained[^key-66d27c97852ff1b265bb2974dee435e6] EU law,
+- (b) if necessary to meet that external competent authority's obligations arising under relevant retained[^c-66d27c97852ff1b265bb2974dee435e6] EU law,
 
 must cooperate with that external competent authority.
 
-(3) In this Part “**external competent authority**” (“**awdurdod cymwys allanol**”) means a competent authority in Northern Ireland, Scotland or England designated for the purposes of the relevant retained[^key-191fb09d246eaebe0d2b7440f61c27e3] EU law.
+(3) In this Part “**external competent authority**” (“**awdurdod cymwys allanol**”) means a competent authority in Northern Ireland, Scotland or England designated for the purposes of the relevant retained[^c-191fb09d246eaebe0d2b7440f61c27e3] EU law.
 
 ## PART 6 — ADOPTION OF STRATEGIC NOISE MAPS AND ACTION PLANS
 
@@ -557,8 +557,8 @@ This Part does not apply to any functions under these Regulations for which the 
 
 - (a) the Assembly has consulted the competent authority; and
 - (b) it considers that by reason of any act or omission, or any likely act or omission, by the competent authority—
-  - (i) a requirement of these Regulations; [^key-1ab2e0af88ef99ba82ca4e4518352f92]...
-  - (ii)[^key-0de5a678bc834d8d15a9db3dcd0f98f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a requirement of these Regulations; [^c-1ab2e0af88ef99ba82ca4e4518352f92]...
+  - (ii)[^c-0de5a678bc834d8d15a9db3dcd0f98f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   is unlikely to be met.
 
@@ -611,7 +611,7 @@ must be published by the competent authority in accordance with the requirements
 
 ## PART 9 — GUIDANCE
 
-### 30.[^key-9129cb6da776c0b9cedc5c8b641688a5]
+### 30.[^c-9129cb6da776c0b9cedc5c8b641688a5]
 
 (1) The Welsh Ministers may issue guidance to a competent authority with respect to the exercise of its functions under these Regulations.
 
@@ -629,7 +629,7 @@ regulations 4 and 9
 
 ### 1. Interpretation
 
-(1)[^key-1abf1cb84cd38471e56330c7d09e352a] In this Schedule—
+(1)[^c-1abf1cb84cd38471e56330c7d09e352a] In this Schedule—
 
 - “**editable**” (“**y gellir eu golygu**”) means in a format that allows (without the need for manipulation) the electronic production of—
   - (a) numerical data in tables, and
@@ -641,7 +641,7 @@ regulations 4 and 9
   - (b) spatially referenced to the British National Grid reference system used by the Ordnance Survey as a pair of integers to show Eastings then Northings in metres from the origin, and
   - (c) aligned with the 10 metre vertices of the British National Grid reference system used by the Ordnance Survey so that references finish with the number zero.
 
-(2)[^key-640474a89b3dfdb8569a4657c48d4bdf] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex VI of the Directive is to be read with the following modifications—
+(2)[^c-640474a89b3dfdb8569a4657c48d4bdf] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex VI of the Directive is to be read with the following modifications—
 
 - (a) in paragraph 1.5, as if the reference in that paragraph to “major roads”, “major railways” and “major airports” as defined in Article 3 of the Directive was to “major road” (“prif ffordd”), “major railway” (“prif reilffordd”) and “major airport” (“prif faes awyr”) as defined in regulation 2(2) of these Regulations; and
 - (b) in paragraphs 1.6 and 2.6, as if the words from “These data” to the end were omitted.
@@ -658,7 +658,7 @@ regulations 4 and 9
 - (a) Article 8 of the Directive is to be taken to be a reference to regulations 15, 17 and 19 of these Regulations;
 - (b) Article 9 of the Directive is to be taken to be a reference to regulation 29 of these Regulations.
 
-(3)[^key-053afb812f7d1cc6c530564a9468619e] For the purposes of sub-paragraph (1)(a), a reference to Annex IV of the Directive is to be read as if the following were omitted—
+(3)[^c-053afb812f7d1cc6c530564a9468619e] For the purposes of sub-paragraph (1)(a), a reference to Annex IV of the Directive is to be read as if the following were omitted—
 
 - (a) in paragraph 4, the first indent;
 - (b) in paragraph 5, the words from “concerning” to “Commission”; and
@@ -691,29 +691,29 @@ regulations 4 and 9
 - (a) include the information (in electronic format) described in paragraphs 2.1 to 2.4 inclusive of Annex VI of the Directive; and
 - (b) include editable numerical data in electronic form containing the values of Lden, Lnight and the supplementary noise indicators on a grid.
 
-## SCHEDULE 2 — ASSESSMENT METHODS FOR THE NOISE INDICATORS[^key-2932e6b437c65712120e2c8a9ed28b42]
+## SCHEDULE 2 — ASSESSMENT METHODS FOR THE NOISE INDICATORS[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 **No longer in force.**
 
 regulation 4
 
-### 1. Introduction[^key-2932e6b437c65712120e2c8a9ed28b42]
+### 1. Introduction[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Assessment method for road traffic noise indicators[^key-2932e6b437c65712120e2c8a9ed28b42]
+### 2. Assessment method for road traffic noise indicators[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Assessment method for railway noise indicators[^key-2932e6b437c65712120e2c8a9ed28b42]
+### 3. Assessment method for railway noise indicators[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Assessment methods for aircraft noise indicators[^key-2932e6b437c65712120e2c8a9ed28b42]
+### 4. Assessment methods for aircraft noise indicators[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Assessment methods for industrial noise indicators and port noise indicators[^key-2932e6b437c65712120e2c8a9ed28b42]
+### 5. Assessment methods for industrial noise indicators and port noise indicators[^c-2932e6b437c65712120e2c8a9ed28b42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -725,7 +725,7 @@ regulation 4
 
 In this Schedule—
 
-- [^key-9a776a4e7690838669816e3618aad78f]...
+- [^c-9a776a4e7690838669816e3618aad78f]...
 - “LAeq,16h” is the equivalent continuous sound level in dB(A) that, over the period 07:00 – 23:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “LAeq,18h” is the equivalent continuous sound level in dB(A) that, over the period 06:00 – 24:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “LAeq,6h” is the equivalent continuous sound level in dB(A) that, over the period 24:00 – 06:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period.
@@ -734,7 +734,7 @@ In this Schedule—
 
 The supplementary noise indicators in relation to road traffic noise are—
 
-- (a)[^key-e14ef5da4ec3efefcfb7e46eae634529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e14ef5da4ec3efefcfb7e46eae634529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) LAeq,16h;
 - (c) Lday; and
 - (d) Levening.
@@ -861,7 +861,7 @@ Availability of documents referred to in the Regulations
 
 [^c1673254]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-461059216dfc72c187c79d30ea1b458b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) inserted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/3/2)
+[^c-461059216dfc72c187c79d30ea1b458b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) inserted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/3/2)
 
 [^c1673255]: Marginal citation: ISBN 0-580-42224-0.
 
@@ -869,66 +869,66 @@ Availability of documents referred to in the Regulations
 
 [^c1673257]: Marginal citation: O.J. No. L 189, 18.07.2002, p. 12.
 
-[^key-e29750cce4e9f68637462d598df0f61a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e29750cce4e9f68637462d598df0f61a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe65f986c52606037ceee0d2f01df1a6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [3(4)](https://www.legislation.gov.uk/wsi/2009/47/regulation/3/4)
+[^c-fe65f986c52606037ceee0d2f01df1a6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/2) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [3(4)](https://www.legislation.gov.uk/wsi/2009/47/regulation/3/4)
 
 [^c1673258]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27); [section 17](https://www.legislation.gov.uk/wsi/2006/2629/section/17) was amended by the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), [Schedule 8](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8), [paragraph 28](https://www.legislation.gov.uk/ukpga/1991/22/paragraph/28) and Schedule 9, and by the [Road Traffic Act 1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), [Schedule 7](https://www.legislation.gov.uk/ukpga/1991/40/schedule/7), [paragraph 3](https://www.legislation.gov.uk/ukpga/1991/40/paragraph/3) and Schedule 8.
 
 [^c1673259]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Schedule 4 has been amended by the [Road Traffic (Consequential Provisions) Act 1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54), [Schedule 3](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3), [paragraph 21(3)](https://www.legislation.gov.uk/ukpga/1988/54/paragraph/21/3).
 
-[^key-2d984b4b3f98ab404a976e3ebe5504f9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/3) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d984b4b3f98ab404a976e3ebe5504f9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/2/3) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e8f5ea4b25a3238007250b50270bb9c]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/2) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/4/2)
+[^c-4e8f5ea4b25a3238007250b50270bb9c]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/2) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/4/2)
 
-[^key-a2d30f439322047e2714f36940e6205f]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/3) substituted (9.2.2009) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/uksi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/47/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2009/47/regulation/4/3)
+[^c-a2d30f439322047e2714f36940e6205f]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/3) substituted (9.2.2009) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/uksi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/47/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2009/47/regulation/4/3)
 
-[^key-5e1aff3755a881ede670477dfce9cb06]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/4) substituted (9.2.2009) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/4/2)
+[^c-5e1aff3755a881ede670477dfce9cb06]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/3/4) substituted (9.2.2009) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/4/2)
 
-[^key-fbcd846304bff551b9f64a4a8587f3c1]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/3) substituted (31.12.2018) by [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/a)
+[^c-fbcd846304bff551b9f64a4a8587f3c1]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/3) substituted (31.12.2018) by [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/a)
 
-[^key-e8b47cdb8f9d3ad0052479f4fa8a3746]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/3A) inserted (31.12.2018) by [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/b)
+[^c-e8b47cdb8f9d3ad0052479f4fa8a3746]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/3A) inserted (31.12.2018) by [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/b)
 
-[^key-d56b5fcd660e4c73085c61f4b32d129a]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/4)[(5)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/5) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/c)
+[^c-d56b5fcd660e4c73085c61f4b32d129a]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/4)[(5)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/5) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/3/c)
 
-[^key-f05f5fdc3e85f687f43e0027234483a8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/7) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f05f5fdc3e85f687f43e0027234483a8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/4/7) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a4bf1d354ab6ffdd2c3e3a3e2c82dd2]: Modification: [Reg. 7](https://www.legislation.gov.uk/wsi/2006/2629/regulation/7): power to amend conferred (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 27(1)](https://www.legislation.gov.uk/asc/2024/2/section/27/1), [30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
+[^c-7a4bf1d354ab6ffdd2c3e3a3e2c82dd2]: Modification: [Reg. 7](https://www.legislation.gov.uk/wsi/2006/2629/regulation/7): power to amend conferred (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 27(1)](https://www.legislation.gov.uk/asc/2024/2/section/27/1), [30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
 
 [^c1673260]: Marginal citation: SPIRE Programme, Product Reference: SIP – DP – 011.
 
-[^key-2493f65ea79673b8c556733c3f6ae526]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2006/2629/regulation/13) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [5](https://www.legislation.gov.uk/wsi/2009/47/regulation/5)
+[^c-2493f65ea79673b8c556733c3f6ae526]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2006/2629/regulation/13) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [5](https://www.legislation.gov.uk/wsi/2009/47/regulation/5)
 
-[^key-84558ba763aaf7bdb53c1c731cc54a79]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2006/2629/regulation/14) revoked (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [8](https://www.legislation.gov.uk/wsi/2009/47/regulation/8)
+[^c-84558ba763aaf7bdb53c1c731cc54a79]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2006/2629/regulation/14) revoked (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [8](https://www.legislation.gov.uk/wsi/2009/47/regulation/8)
 
-[^key-649823c93436a9b433eec0eedcc9c264]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/a)[(aa)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/aa) substituted for [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/a) (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-649823c93436a9b433eec0eedcc9c264]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/a)[(aa)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/aa) substituted for [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/a) (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-792a4e99848869e43cd1cc0a1786f128]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/d) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/6/2)
+[^c-792a4e99848869e43cd1cc0a1786f128]: Textual amendment: [Reg. 15(1)(d)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/1/d) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/wsi/2009/47/regulation/6/2)
 
-[^key-98b80b809be3e59161bf7bebc114e7af]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/4) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [6(3)](https://www.legislation.gov.uk/wsi/2009/47/regulation/6/3)
+[^c-98b80b809be3e59161bf7bebc114e7af]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/15/4) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [6(3)](https://www.legislation.gov.uk/wsi/2009/47/regulation/6/3)
 
-[^key-3011abb5454ff1017913c773d0eb221b]: Modification: [Reg. 17](https://www.legislation.gov.uk/wsi/2006/2629/regulation/17): power to amend conferred (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 27(2)](https://www.legislation.gov.uk/asc/2024/2/section/27/2), [30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
+[^c-3011abb5454ff1017913c773d0eb221b]: Modification: [Reg. 17](https://www.legislation.gov.uk/wsi/2006/2629/regulation/17): power to amend conferred (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 27(2)](https://www.legislation.gov.uk/asc/2024/2/section/27/2), [30(2)(i)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/i)
 
-[^key-66d27c97852ff1b265bb2974dee435e6]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/22/2/b) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66d27c97852ff1b265bb2974dee435e6]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/22/2/b) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-191fb09d246eaebe0d2b7440f61c27e3]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/22/3) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-191fb09d246eaebe0d2b7440f61c27e3]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/22/3) substituted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ab2e0af88ef99ba82ca4e4518352f92]: Textual amendment: Word in [reg. 26(4)(b)(i)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/26/4/b/i) omitted (31.12.2020) by virtue of [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ab2e0af88ef99ba82ca4e4518352f92]: Textual amendment: Word in [reg. 26(4)(b)(i)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/26/4/b/i) omitted (31.12.2020) by virtue of [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0de5a678bc834d8d15a9db3dcd0f98f4]: Textual amendment: [Reg. 26(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/26/4/b/ii) omitted (31.12.2020) by virtue of [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0de5a678bc834d8d15a9db3dcd0f98f4]: Textual amendment: [Reg. 26(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2006/2629/regulation/26/4/b/ii) omitted (31.12.2020) by virtue of [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9129cb6da776c0b9cedc5c8b641688a5]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/wsi/2006/2629/regulation/30) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [7](https://www.legislation.gov.uk/wsi/2009/47/regulation/7)
+[^c-9129cb6da776c0b9cedc5c8b641688a5]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/wsi/2006/2629/regulation/30) substituted (9.2.2009) by [The Environmental Noise (Wales) (Amendment) Regulations 2009 (S.I. 2009/47)](https://www.legislation.gov.uk/wsi/2009/47), [regs. 1(1)(b)](https://www.legislation.gov.uk/wsi/2009/47/regulation/1/1/b), [7](https://www.legislation.gov.uk/wsi/2009/47/regulation/7)
 
 [^c1673261]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-1abf1cb84cd38471e56330c7d09e352a]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(a)(i)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1abf1cb84cd38471e56330c7d09e352a]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(a)(i)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-640474a89b3dfdb8569a4657c48d4bdf]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/1/paragraph/1/2) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-640474a89b3dfdb8569a4657c48d4bdf]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/1/paragraph/1/2) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-053afb812f7d1cc6c530564a9468619e]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/1/paragraph/2/3) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-053afb812f7d1cc6c530564a9468619e]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/1/paragraph/2/3) inserted (31.12.2020) by [The Environmental Noise (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/247)](https://www.legislation.gov.uk/wsi/2019/247), [regs. 1](https://www.legislation.gov.uk/wsi/2019/247/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/wsi/2019/247/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2932e6b437c65712120e2c8a9ed28b42]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2006/2629/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/4)
+[^c-2932e6b437c65712120e2c8a9ed28b42]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2006/2629/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/4)
 
-[^key-9a776a4e7690838669816e3618aad78f]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2006/2629/schedule/3/paragraph/1) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/5/a)
+[^c-9a776a4e7690838669816e3618aad78f]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2006/2629/schedule/3/paragraph/1) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/5/a)
 
-[^key-e14ef5da4ec3efefcfb7e46eae634529]: Textual amendment: [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/3/paragraph/2/a) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/5/b)
+[^c-e14ef5da4ec3efefcfb7e46eae634529]: Textual amendment: [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2006/2629/schedule/3/paragraph/2/a) omitted (31.12.2018) by virtue of [The Environmental Noise (Wales) (Amendment) Regulations 2018 (S.I. 2018/1208)](https://www.legislation.gov.uk/wsi/2018/1208), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2018/1208/regulation/2/5/b)

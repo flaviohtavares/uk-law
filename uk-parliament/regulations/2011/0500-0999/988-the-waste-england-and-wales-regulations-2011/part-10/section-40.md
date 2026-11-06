@@ -22,7 +22,7 @@ summary: ''
 
 (1) A “restoration notice” is a notice requiring a person to take specified steps within a specified period to secure that the position is, so far as possible, restored to what it would have been if a contravention had not occurred.
 
-(2) If the appropriate body[^key-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person has contravened regulation 14(1) it may serve a restoration notice on that person.
+(2) If the appropriate body[^c-66c136c6cebd91280b7a4ea96e1a0c99] considers that a person has contravened regulation 14(1) it may serve a restoration notice on that person.
 
 (3) A restoration notice must—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

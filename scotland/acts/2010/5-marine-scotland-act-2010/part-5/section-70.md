@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Nature Conservation MPAs: assessment of achievement of stated objectives[^key-4e979d5226d36d7346c0bc9e59b986e7]
+## 70. Nature Conservation MPAs: assessment of achievement of stated objectives[^c-4e979d5226d36d7346c0bc9e59b986e7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must assess from time to time the extent to which in thei
 
 ## Annotations
 
-[^key-4e979d5226d36d7346c0bc9e59b986e7]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2010/5/section/70) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-4e979d5226d36d7346c0bc9e59b986e7]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2010/5/section/70) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

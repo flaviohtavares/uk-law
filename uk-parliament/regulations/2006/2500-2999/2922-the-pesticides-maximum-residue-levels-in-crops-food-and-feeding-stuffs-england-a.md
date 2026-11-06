@@ -34,7 +34,7 @@ Agriculture, england and wales
 
 Pesticides, england and wales
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2006 (revoked)[^key-67d8826cdf9dc41871793bc83b1cd247]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) (No. 3) Regulations 2006 (revoked)[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 Made
 
@@ -46,53 +46,53 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(3) to (7)
 
-[^key-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, interpretation and commencement[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 1. Citation, interpretation and commencement[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Regulations[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 2. Amendments to the principal Regulations[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments coming into force on 9th December 2006[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 3. Amendments coming into force on 9th December 2006[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments coming into force on 30th December 2006[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 4. Amendments coming into force on 30th December 2006[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment coming into force on 21st January 2007[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 5. Amendment coming into force on 21st January 2007[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment coming into force on 21st April 2007[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 6. Amendment coming into force on 21st April 2007[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment coming into force on 30th December 2007[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 7. Amendment coming into force on 30th December 2007[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to and revocation of part of regulation 6 of the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2006[^key-67d8826cdf9dc41871793bc83b1cd247]
+## 8. Amendment to and revocation of part of regulation 6 of the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2006[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-67d8826cdf9dc41871793bc83b1cd247]
+## SCHEDULE 1 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 Regulations 3 to 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-67d8826cdf9dc41871793bc83b1cd247]
+## SCHEDULE 2 — ENTRIES SUBSTITUTED OR INSERTED IN SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-67d8826cdf9dc41871793bc83b1cd247]
 
 Regulations 5 to 8
 
@@ -100,8 +100,8 @@ Regulations 5 to 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d8826cdf9dc41871793bc83b1cd247]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67d8826cdf9dc41871793bc83b1cd247]: Textual amendment: Regulations revoked (1.11.2008) by [The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008 (S.I. 2008/2570)](https://www.legislation.gov.uk/uksi/2008/2570), [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/2570/regulation/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2570/schedule/2)
+[^c-67d8826cdf9dc41871793bc83b1cd247]: Textual amendment: Regulations revoked (1.11.2008) by [The Pesticides (Maximum Residue Levels) (England and Wales) Regulations 2008 (S.I. 2008/2570)](https://www.legislation.gov.uk/uksi/2008/2570), [reg. 1(c)](https://www.legislation.gov.uk/uksi/2008/2570/regulation/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2570/schedule/2)

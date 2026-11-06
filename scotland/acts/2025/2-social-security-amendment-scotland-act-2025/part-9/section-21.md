@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Removal of Commission’s status as body corporate[^key-723ea542066eeca2739fef6d6a3a5a68][^key-fb3e90e687499cabcaafb8981372363e]
+## 21. Removal of Commission’s status as body corporate[^c-723ea542066eeca2739fef6d6a3a5a68][^c-fb3e90e687499cabcaafb8981372363e]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-723ea542066eeca2739fef6d6a3a5a68]: Commencement: S. 21 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-723ea542066eeca2739fef6d6a3a5a68]: Commencement: S. 21 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-fb3e90e687499cabcaafb8981372363e]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/2/section/21) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-fb3e90e687499cabcaafb8981372363e]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/2/section/21) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

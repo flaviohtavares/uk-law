@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Capital value of a lease[^key-b8ff8a437fec8ac0b03c8e5620691641]
+## 80. Capital value of a lease[^c-b8ff8a437fec8ac0b03c8e5620691641]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ that consideration shall be regarded as neither given nor received until the und
 
 ## Annotations
 
-[^key-b8ff8a437fec8ac0b03c8e5620691641]: Commencement: Reg. 80 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b8ff8a437fec8ac0b03c8e5620691641]: Commencement: Reg. 80 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

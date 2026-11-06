@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Receipts, record and payments: duties of pension trustees and others[^key-f146582dcd8dbb8275d4d52d1c4e4b10]
+## 143. Receipts, record and payments: duties of pension trustees and others[^c-f146582dcd8dbb8275d4d52d1c4e4b10]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f146582dcd8dbb8275d4d52d1c4e4b10]: Commencement: Art. 143 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f146582dcd8dbb8275d4d52d1c4e4b10]: Commencement: Art. 143 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00111]: Footnote: The words being substituted were substituted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) Sch 2 paragraph 12(1), (2).
 

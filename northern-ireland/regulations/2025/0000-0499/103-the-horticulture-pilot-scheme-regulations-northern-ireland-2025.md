@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], with the approval of the Department of Finance[^f00002], makes these Regulations in exercise of the powers conferred by sections 5(2B) and 6(1)(f) of the Agriculture Act (Northern Ireland) 1949[^f00003].
 
-## 1. Citation and commencement[^key-fe3d89854db07723d9cd96f87fea0411]
+## 1. Citation and commencement[^c-fe3d89854db07723d9cd96f87fea0411]
 
  These Regulations may be cited as the Horticulture Pilot Scheme Regulations (Northern Ireland) 2025 and shall come into operation on 26th June 2025.
 
-## 2. Interpretation[^key-18dd6ec66f3c04e4a09bfa12435b1f6b]
+## 2. Interpretation[^c-18dd6ec66f3c04e4a09bfa12435b1f6b]
 
 (1) In these Regulations—
 
 - “**applicant**” means an eligible farm business which has applied to a scheme;
 - “**approved agent**” means an agent appointed by the Department to act on behalf of the applicant;
-- “[^key-b4ac4d8c5308b24941f14f50d9b5cea1]**authorised person**” means any person authorised by the Department to act under section 40(1) of the Agriculture Act (Northern Ireland) 1949 in matters relating to these Regulations;
+- “[^c-b4ac4d8c5308b24941f14f50d9b5cea1]**authorised person**” means any person authorised by the Department to act under section 40(1) of the Agriculture Act (Northern Ireland) 1949 in matters relating to these Regulations;
 - “**CAFRE**” means the Department’s College of Agriculture, Food and Rural Enterprise;
 - “**commercial horticulture business**” means an eligible farm business linked to a unique taxpayer reference (UTR) number issued by HMRC which produces and sells one or more commercial horticulture products listed in Schedule 1;
 - “**the Department**” means the Department of Agriculture, Environment and Rural Affairs;
@@ -72,11 +72,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], with the 
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an act of the Assembly.
 
-## 3. Scheme grants[^key-de701255c3c1e5d2808957cc2ac3c82c]
+## 3. Scheme grants[^c-de701255c3c1e5d2808957cc2ac3c82c]
 
 The Department may make support grants under the scheme to an applicant in accordance with these Regulations.
 
-## 4. Sustainable sector growth group pilot scheme grant; Eligibility requirements and scheme payment[^key-0dfd3ec9a326fb9fd961cc78dc0fc7f7]
+## 4. Sustainable sector growth group pilot scheme grant; Eligibility requirements and scheme payment[^c-0dfd3ec9a326fb9fd961cc78dc0fc7f7]
 
 (1) The sustainable sector growth group pilot scheme shall start on the date beginning with the commencement of these Regulations and end on 31st March 2030.
 
@@ -89,7 +89,7 @@ The Department may make support grants under the scheme to an applicant in accor
 
 (3) Subject to paragraphs (1) and (2), the Department shall pay to an applicant which holds a hosting event in a scheme year or the approved agent of that applicant a hosting payment of £786 for each hosting event.
 
-## 5. Innovation driver and support pilot scheme grant; Eligibility requirements[^key-01d3cea58c58730239908f55677d3fbd]
+## 5. Innovation driver and support pilot scheme grant; Eligibility requirements[^c-01d3cea58c58730239908f55677d3fbd]
 
 (1) The innovation driver and support pilot scheme shall start on the date beginning with the commencement of these Regulations and end on 31st March 2030.
 
@@ -111,7 +111,7 @@ The Department may make support grants under the scheme to an applicant in accor
   - (a) the improved efficiency of the commercial horticulture business premises; or
   - (b) new methods of horticultural cultivation.
 
-## 6. Growers training and support pilot scheme grant; Eligibility requirements and scheme payment[^key-2e1be37c84a7866e2435ffba6f629d4e]
+## 6. Growers training and support pilot scheme grant; Eligibility requirements and scheme payment[^c-2e1be37c84a7866e2435ffba6f629d4e]
 
 (1) The growers training and support pilot scheme grant shall start on the date beginning with the commencement of these Regulations and end on 31st March 2030.
 
@@ -138,7 +138,7 @@ in either case for approved travelling expenses for attendance at an approved co
 - “**eligible person**” means a person who is operating a commercial horticultural business or is an employee of that person; and
 - “**employee**” in relation to an eligible person means a person employed for at least 16 hours per week.
 
-## 7. Withholding and recovery of overpayments[^key-42be7e7f4152dae1f0a439f8ec981edb]
+## 7. Withholding and recovery of overpayments[^c-42be7e7f4152dae1f0a439f8ec981edb]
 
 This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant—
 
@@ -160,7 +160,7 @@ This regulation applies where an application for payment has been approved by th
 - (b) afford the applicant the opportunity to make written representations within 14 days beginning with the date of the issue of the notice; and
 - (c) consider any representations made by or on behalf of the applicant.
 
-## 8. Powers of authorised persons[^key-df70231ccee5d6cc662e0489f345e40c]
+## 8. Powers of authorised persons[^c-df70231ccee5d6cc662e0489f345e40c]
 
 (1) An authorised person may exercise any of the powers specified in paragraphs (2) to (4) for the purposes of these Regulations.
 
@@ -180,11 +180,11 @@ This regulation applies where an application for payment has been approved by th
 
 (5) For the purposes of this regulation a computer includes any electronic device.
 
-## 9. Assistance to authorised persons[^key-0fd2309b6f5bd8623ae683047da05a5a]
+## 9. Assistance to authorised persons[^c-0fd2309b6f5bd8623ae683047da05a5a]
 
 An applicant or any employee, agent, contractor or tenant of an applicant shall give an authorised person such assistance as may be reasonably required to enable the authorised person to exercise the powers conferred by regulation 9.
 
-## 10. Offences and penalties[^key-04622f2c791e052847134c9630820c49]
+## 10. Offences and penalties[^c-04622f2c791e052847134c9630820c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -206,7 +206,7 @@ A senior officer of the Department of Finance
 
 Regulation 2(1)
 
-### 11. Commercial horticulture products[^key-a444863d94db1fc7749d79acfaa1acab]
+### 11. Commercial horticulture products[^c-a444863d94db1fc7749d79acfaa1acab]
 
 Commercial horticulture products for the purposes of the scheme are;
 
@@ -218,7 +218,7 @@ Commercial horticulture products for the purposes of the scheme are;
 - (f) protected crops; and
 - (g) ornamental plants.
 
-## SCHEDULE 2[^key-763c6a64cdcac5eb302ad4ae2cf82d1d]
+## SCHEDULE 2[^c-763c6a64cdcac5eb302ad4ae2cf82d1d]
 
 Regulation 6(2)(b)
 
@@ -280,32 +280,32 @@ specifies equivalent or higher educational qualifications (Schedule 2).
 
 [^f00003]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-fe3d89854db07723d9cd96f87fea0411]: Commencement: Reg. 1 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-fe3d89854db07723d9cd96f87fea0411]: Commencement: Reg. 1 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-18dd6ec66f3c04e4a09bfa12435b1f6b]: Commencement: Reg. 2 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-18dd6ec66f3c04e4a09bfa12435b1f6b]: Commencement: Reg. 2 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-b4ac4d8c5308b24941f14f50d9b5cea1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/103/regulation/2/1) substituted (23.10.2025) by [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/161/regulation/4/2)
+[^c-b4ac4d8c5308b24941f14f50d9b5cea1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/103/regulation/2/1) substituted (23.10.2025) by [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/161/regulation/4/2)
 
 [^f00004]: Footnote: EUR 1306/2013
 
 [^f00005]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-de701255c3c1e5d2808957cc2ac3c82c]: Commencement: Reg. 3 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-de701255c3c1e5d2808957cc2ac3c82c]: Commencement: Reg. 3 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-0dfd3ec9a326fb9fd961cc78dc0fc7f7]: Commencement: Reg. 4 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-0dfd3ec9a326fb9fd961cc78dc0fc7f7]: Commencement: Reg. 4 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-01d3cea58c58730239908f55677d3fbd]: Commencement: Reg. 5 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-01d3cea58c58730239908f55677d3fbd]: Commencement: Reg. 5 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-2e1be37c84a7866e2435ffba6f629d4e]: Commencement: Reg. 6 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-2e1be37c84a7866e2435ffba6f629d4e]: Commencement: Reg. 6 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-42be7e7f4152dae1f0a439f8ec981edb]: Commencement: Reg. 7 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-42be7e7f4152dae1f0a439f8ec981edb]: Commencement: Reg. 7 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-df70231ccee5d6cc662e0489f345e40c]: Commencement: Reg. 8 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-df70231ccee5d6cc662e0489f345e40c]: Commencement: Reg. 8 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-0fd2309b6f5bd8623ae683047da05a5a]: Commencement: Reg. 9 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-0fd2309b6f5bd8623ae683047da05a5a]: Commencement: Reg. 9 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-04622f2c791e052847134c9630820c49]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/103/regulation/10) omitted (23.10.2025) by virtue of [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2025/161/regulation/4/3)
+[^c-04622f2c791e052847134c9630820c49]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/103/regulation/10) omitted (23.10.2025) by virtue of [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2025/161/regulation/4/3)
 
-[^key-a444863d94db1fc7749d79acfaa1acab]: Commencement: Sch. 1 para. 11 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-a444863d94db1fc7749d79acfaa1acab]: Commencement: Sch. 1 para. 11 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
 
-[^key-763c6a64cdcac5eb302ad4ae2cf82d1d]: Commencement: Sch. 2 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)
+[^c-763c6a64cdcac5eb302ad4ae2cf82d1d]: Commencement: Sch. 2 in operation at 26.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/103/regulation/1)

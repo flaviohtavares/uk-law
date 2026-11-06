@@ -39,15 +39,15 @@ Coming into force
 
 6th April 2003
 
-[^key-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-a5f22a3efaa01524622ae994960bff6e][^key-a5f22a3efaa01524622ae994960bff6e]
+## 1. Citation and commencement[^c-a5f22a3efaa01524622ae994960bff6e][^c-a5f22a3efaa01524622ae994960bff6e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002[^key-a5f22a3efaa01524622ae994960bff6e][^key-a5f22a3efaa01524622ae994960bff6e]
+## 2. Amendment of the Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002[^c-a5f22a3efaa01524622ae994960bff6e][^c-a5f22a3efaa01524622ae994960bff6e]
 
 **No longer in force.**
 
@@ -55,10 +55,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f22a3efaa01524622ae994960bff6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5f22a3efaa01524622ae994960bff6e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/770) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a5f22a3efaa01524622ae994960bff6e]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/770) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

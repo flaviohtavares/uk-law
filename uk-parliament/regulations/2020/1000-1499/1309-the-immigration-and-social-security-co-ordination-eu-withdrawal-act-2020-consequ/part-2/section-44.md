@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015[^key-7158ec909d212294315e18d51e8b2e55]
+## 44. Amendment of the Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015[^c-7158ec909d212294315e18d51e8b2e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7158ec909d212294315e18d51e8b2e55]: Commencement: Reg. 44 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-7158ec909d212294315e18d51e8b2e55]: Commencement: Reg. 44 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24399031]: Marginal citation: [S.I. 2015/404](https://www.legislation.gov.uk/uksi/2015/404). Relevant amendments are made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).

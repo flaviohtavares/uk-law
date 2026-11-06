@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1138. “Subsidised expenditure”[^key-a35bddc4329a0a53ba62b99869338d1f]
+## 1138. “Subsidised expenditure”[^c-a35bddc4329a0a53ba62b99869338d1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a35bddc4329a0a53ba62b99869338d1f]: Textual amendment: [S. 1138](https://www.legislation.gov.uk/ukpga/2009/4/section/1138) omitted (with effect in relation to accounting periods beginning on or after 1.4.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(11)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/11), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-a35bddc4329a0a53ba62b99869338d1f]: Textual amendment: [S. 1138](https://www.legislation.gov.uk/ukpga/2009/4/section/1138) omitted (with effect in relation to accounting periods beginning on or after 1.4.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(11)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/11), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

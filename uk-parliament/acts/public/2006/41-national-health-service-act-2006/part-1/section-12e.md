@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12E. Secretary of State's duty as respects variation in provision of health services[^key-eaff8908bd83bf3704326f926e3ba9ea][^key-e8a263d827f1e306f985b06a04ef3783]
+## 12E. Secretary of State's duty as respects variation in provision of health services[^c-eaff8908bd83bf3704326f926e3ba9ea][^c-e8a263d827f1e306f985b06a04ef3783]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) whether the persons in question are in the public or (as the case may be) private sector, or
 - (b) some other aspect of their status.
 
-(2)[^key-4276719212d625a75f13bc41a1e1b12f] The functions mentioned in this subsection are the functions of the Secretary of State under—
+(2)[^c-4276719212d625a75f13bc41a1e1b12f] The functions mentioned in this subsection are the functions of the Secretary of State under—
 
 - (a) section 6E;
 - (b) section 12ZB;
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-eaff8908bd83bf3704326f926e3ba9ea]: Textual amendment: S. 12E and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-eaff8908bd83bf3704326f926e3ba9ea]: Textual amendment: S. 12E and cross-heading inserted (1.10.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 147](https://www.legislation.gov.uk/ukpga/2012/7/section/147), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
+[^c-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
 
-[^key-4276719212d625a75f13bc41a1e1b12f]: Textual amendment: [S. 12E(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/12E/2) substituted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(1)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/1/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c)
+[^c-4276719212d625a75f13bc41a1e1b12f]: Textual amendment: [S. 12E(2)](https://www.legislation.gov.uk/ukpga/2006/41/section/12E/2) substituted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(1)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/1/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c)

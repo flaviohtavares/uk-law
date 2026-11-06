@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Meaning of “eligible child’s pension”[^key-ffca5bacbfaa9f6254f064922c307048]
+## 112. Meaning of “eligible child’s pension”[^c-ffca5bacbfaa9f6254f064922c307048]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In these Regulations, “eligible child’s pension” means any of the followin
 
 ## Annotations
 
-[^key-ffca5bacbfaa9f6254f064922c307048]: Commencement: [Reg. 112](https://www.legislation.gov.uk/nisr/2014/290/regulation/112) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ffca5bacbfaa9f6254f064922c307048]: Commencement: [Reg. 112](https://www.legislation.gov.uk/nisr/2014/290/regulation/112) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

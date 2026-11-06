@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Action plans[^c17519001][^key-e1a669f9df3a013de7ca8441caf15c9e]
+## 127. Action plans[^c17519001][^c-e1a669f9df3a013de7ca8441caf15c9e]
 
 *Extent: E+W*
 
-(1) This section applies where the Chief Inspector publishes a report of an inspection conducted under section 124 or 125 or section 126(1) or (1A)[^key-d19959db48a5ed6a8a6f09f579906609].
+(1) This section applies where the Chief Inspector publishes a report of an inspection conducted under section 124 or 125 or section 126(1) or (1A)[^c-d19959db48a5ed6a8a6f09f579906609].
 
 (2) The provider of the education or training which is the subject of the report must prepare a written statement of—
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c17519001]: Commencement: S. 127 partly in force; s. 127 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)
 
-[^key-e1a669f9df3a013de7ca8441caf15c9e]: Commencement: S. 127 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-e1a669f9df3a013de7ca8441caf15c9e]: Commencement: S. 127 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-d19959db48a5ed6a8a6f09f579906609]: Textual amendment: Words in s. 127(1) inserted (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 42(10)](https://www.legislation.gov.uk/ukpga/2011/21/section/42/10), [82(1)(d)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/d)
+[^c-d19959db48a5ed6a8a6f09f579906609]: Textual amendment: Words in s. 127(1) inserted (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 42(10)](https://www.legislation.gov.uk/ukpga/2011/21/section/42/10), [82(1)(d)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/d)

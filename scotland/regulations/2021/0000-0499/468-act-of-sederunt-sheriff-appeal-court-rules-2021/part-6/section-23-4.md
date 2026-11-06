@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.4. Transmission of reference to European Court[^key-f42bc7b6ffe5f4ae394049e7dcb28323]
+## 23.4. Transmission of reference to European Court[^c-f42bc7b6ffe5f4ae394049e7dcb28323]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A copy of the reference is to be certified by the Clerk and sent to the Registra
 
 ## Annotations
 
-[^key-f42bc7b6ffe5f4ae394049e7dcb28323]: Commencement: Para. 23.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-f42bc7b6ffe5f4ae394049e7dcb28323]: Commencement: Para. 23.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

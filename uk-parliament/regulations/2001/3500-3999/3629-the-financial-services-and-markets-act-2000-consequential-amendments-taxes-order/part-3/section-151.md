@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Miscellaneous amendments[^key-13fff8cf94ca262d3f8027fe07a8e975]
+## 151. Miscellaneous amendments[^c-13fff8cf94ca262d3f8027fe07a8e975]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13fff8cf94ca262d3f8027fe07a8e975]: Commencement: Art. 151 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-13fff8cf94ca262d3f8027fe07a8e975]: Commencement: Art. 151 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00143]: Footnote: Regulation 8A was inserted by regulation 7(3) of S.I. [1999/1408](https://www.legislation.gov.uk/uksi/1999/1408).

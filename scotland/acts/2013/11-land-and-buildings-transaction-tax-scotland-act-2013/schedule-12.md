@@ -24,11 +24,11 @@ summary: ''
 
 ### The relief
 
-**1.**[^key-bdd4985b074b57a06a5b7f199c2f6015] A land transaction by which a chargeable interest is transferred by a person (“**the transferor**”) to a limited liability partnership in connection with its incorporation is exempt from charge if the qualifying conditions are met.
+**1.**[^c-bdd4985b074b57a06a5b7f199c2f6015] A land transaction by which a chargeable interest is transferred by a person (“**the transferor**”) to a limited liability partnership in connection with its incorporation is exempt from charge if the qualifying conditions are met.
 
 ### The qualifying conditions
 
-**2.**[^key-9ad2ee9c655688a2670bbc3ecb75221f] The qualifying conditions are—
+**2.**[^c-9ad2ee9c655688a2670bbc3ecb75221f] The qualifying conditions are—
 
 - (a) that the effective date of the transaction is not more than 1 year after the date of incorporation of the limited liability partnership,
 - (b) that at the relevant time the transferor—
@@ -41,7 +41,7 @@ summary: ''
 
 ### Interpretation
 
-**3.**[^key-91b3223efb6118b3ca1ce66d45130526] In this schedule—
+**3.**[^c-91b3223efb6118b3ca1ce66d45130526] In this schedule—
 
 - “**limited liability partnership**” means a limited liability partnership formed under the Limited Liability Partnerships Act 2000 (c.12) or the Limited Liability Partnerships Act (Northern Ireland) 2002 (c.12 (N.I.)),
 - “**the relevant time**” means—
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd4985b074b57a06a5b7f199c2f6015]: Commencement: Sch. 12 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-bdd4985b074b57a06a5b7f199c2f6015]: Commencement: Sch. 12 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-9ad2ee9c655688a2670bbc3ecb75221f]: Commencement: Sch. 12 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9ad2ee9c655688a2670bbc3ecb75221f]: Commencement: Sch. 12 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-91b3223efb6118b3ca1ce66d45130526]: Commencement: Sch. 12 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-91b3223efb6118b3ca1ce66d45130526]: Commencement: Sch. 12 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

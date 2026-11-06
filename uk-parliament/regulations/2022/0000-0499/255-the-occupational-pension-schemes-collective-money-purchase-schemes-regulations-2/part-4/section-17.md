@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Calculation of benefits[^key-0141b46fbc35c622578c75ccc26cb7eb]
+## 17. Calculation of benefits[^c-0141b46fbc35c622578c75ccc26cb7eb]
 
 *Extent: E+W+S*
 
@@ -37,13 +37,13 @@ summary: ''
 - (b) that any such adjustment must be based on the actuarial valuation calculated by reference to the most recent effective date;
 - (c) that any such adjustment must be applied to all the members of the scheme without variation;
 - (d) that any such adjustment must be applied on the benefit adjustment date;
-- (e)[^key-dcbf1154f2de0eb218cb54747e8b7ba9] that, except where there is a multi-annual reduction in effect, the amount of any adjustment required or made to the rate or amount of benefits provided under the scheme that is an increase must be determined on the assumptions that—
+- (e)[^c-dcbf1154f2de0eb218cb54747e8b7ba9] that, except where there is a multi-annual reduction in effect, the amount of any adjustment required or made to the rate or amount of benefits provided under the scheme that is an increase must be determined on the assumptions that—
   - (i) that increase will be made in each year for the remaining lives of—
     - (aa) the beneficiaries of the scheme on the effective date;
     - (bb) the expected survivors in relation to the members of the scheme on the effective date, and
   - (ii) that increase will include the projected change in inflation.
 
-(5)[^key-eb772af6dd96b299478614fef1e894fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eb772af6dd96b299478614fef1e894fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subject to paragraphs (3) and (4), it is for the trustees of a collective money purchase scheme to determine, having obtained advice from the scheme actuary, which assumptions are to be used for the purposes of determining the required amount on which the adjustment to the rate or amount of benefits provided under the scheme is based.
 
@@ -54,15 +54,15 @@ summary: ''
 - (a) the multi-annual reduction is to be applied in full on or before the third benefit adjustment date beginning with the benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied;
 - (b) the reduction applied in any year of the multi-annual reduction must not be greater than the reduction applied in the previous year of the multi-annual reduction.
 
-(9) Except as provided by paragraph (10), the trustees[^key-5a9f17b5bf03183343efe613b90bca60] of a collective money purchase scheme must not vary any planned adjustments under a multi-annual reduction after the first benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied.
+(9) Except as provided by paragraph (10), the trustees[^c-5a9f17b5bf03183343efe613b90bca60] of a collective money purchase scheme must not vary any planned adjustments under a multi-annual reduction after the first benefit adjustment date which relates to the actuarial valuation as a result of which the multi-annual reduction is to be applied.
 
-(10)[^key-7a90748a3a9658d0ca90e34f7476c03f] Where there is one or more multi-annual reduction or reductions in effect and a subsequent actuarial valuation results in an increase in the rate or amount of benefits provided under the scheme, the trustees, having obtained the advice of the scheme actuary, must vary one or more multi-annual reduction or reductions then in effect, by applying that increase to offset the planned reduction or reductions under the multi-annual reduction or reductions, which take effect on or after the benefit adjustment date following that valuation.
+(10)[^c-7a90748a3a9658d0ca90e34f7476c03f] Where there is one or more multi-annual reduction or reductions in effect and a subsequent actuarial valuation results in an increase in the rate or amount of benefits provided under the scheme, the trustees, having obtained the advice of the scheme actuary, must vary one or more multi-annual reduction or reductions then in effect, by applying that increase to offset the planned reduction or reductions under the multi-annual reduction or reductions, which take effect on or after the benefit adjustment date following that valuation.
 
-(10A)[^key-1a0c9dbc1e1d81773af5a538560a9666] Paragraph (8)(b) does not apply to a multi-annual reduction that has been varied in accordance with paragraph (10).
+(10A)[^c-1a0c9dbc1e1d81773af5a538560a9666] Paragraph (8)(b) does not apply to a multi-annual reduction that has been varied in accordance with paragraph (10).
 
 (10B) Any offsetting increase pursuant to paragraph (10) must be applied to the remaining years of the multi-annual reduction or reductions so that the total reduction applied in any year of the multi-annual reduction or reductions must not be greater than the total reduction applied in the previous year of the multi-annual reduction or reductions.
 
-(10C) If an offsetting increase has been applied pursuant to paragraphs (10) and (10B) so that a multi-annual reduction has been offset in full, such multi-annual reduction will cease to have effect and, if all multi-annual reductions cease to have effect, any remaining increase must be applied in accordance with the scheme rules made pursuant to paragraph (4)(e) and (f)[^key-377eba18153c5f8840e59c37d4fca55f].
+(10C) If an offsetting increase has been applied pursuant to paragraphs (10) and (10B) so that a multi-annual reduction has been offset in full, such multi-annual reduction will cease to have effect and, if all multi-annual reductions cease to have effect, any remaining increase must be applied in accordance with the scheme rules made pursuant to paragraph (4)(e) and (f)[^c-377eba18153c5f8840e59c37d4fca55f].
 
 (11) Where there is a multi-annual reduction in effect and a subsequent actuarial valuation results in a further reduction in the rate or amount of benefits provided under the scheme, that further reduction is to be applied by the trustees, having obtained the advice of the scheme actuary, in addition to the multi-annual reduction which is in effect.
 
@@ -84,16 +84,16 @@ summary: ''
 
 ## Annotations
 
-[^key-0141b46fbc35c622578c75ccc26cb7eb]: Commencement: Reg. 17 in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-0141b46fbc35c622578c75ccc26cb7eb]: Commencement: Reg. 17 in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-dcbf1154f2de0eb218cb54747e8b7ba9]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/4/e) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/a)
+[^c-dcbf1154f2de0eb218cb54747e8b7ba9]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/4/e) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/a)
 
-[^key-eb772af6dd96b299478614fef1e894fe]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/5) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/b)
+[^c-eb772af6dd96b299478614fef1e894fe]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/5) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/b)
 
-[^key-5a9f17b5bf03183343efe613b90bca60]: Textual amendment: Words in reg. 17(9) substituted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/3)
+[^c-5a9f17b5bf03183343efe613b90bca60]: Textual amendment: Words in reg. 17(9) substituted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/3)
 
-[^key-7a90748a3a9658d0ca90e34f7476c03f]: Textual amendment: Reg. 17(10) substituted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/4)
+[^c-7a90748a3a9658d0ca90e34f7476c03f]: Textual amendment: Reg. 17(10) substituted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/4)
 
-[^key-1a0c9dbc1e1d81773af5a538560a9666]: Textual amendment: Reg. 17(10A)-(10C) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/5)
+[^c-1a0c9dbc1e1d81773af5a538560a9666]: Textual amendment: Reg. 17(10A)-(10C) inserted (8.3.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations 2024 (S.I. 2024/334)](https://www.legislation.gov.uk/uksi/2024/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/334/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2024/334/regulation/3/5)
 
-[^key-377eba18153c5f8840e59c37d4fca55f]: Textual amendment: Words in [reg. 17(10C)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/10C) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/c)
+[^c-377eba18153c5f8840e59c37d4fca55f]: Textual amendment: Words in [reg. 17(10C)](https://www.legislation.gov.uk/uksi/2022/255/regulation/17/10C) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [68(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/68/c)

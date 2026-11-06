@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.9. Scope of each track[^key-62406252147bc7fc9cba2c32481e196d]
+## 26.9. Scope of each track[^c-62406252147bc7fc9cba2c32481e196d]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 (5) Subject to paragraphs (6) and (10), the fast track is the normal track for any claim—
 
 - (a) for which the small claims track is not the normal track; and
-- (b) which—[^key-8813561cf498c1d6f3c2f3e0bc4c9c0f]
+- (b) which—[^c-8813561cf498c1d6f3c2f3e0bc4c9c0f]
   - (i) is a claim for monetary relief, the value of which is not more than £25,000; or
   - (ii) is or includes a claim for non-monetary relief and—
     - (aa) if the claim includes a claim for monetary relief, the value of the claim for monetary relief is not more than £25,000;
@@ -84,16 +84,16 @@ summary: ''
 - (a) a mesothelioma claim or asbestos lung disease claim;
 - (b) one which includes a claim for clinical negligence, unless—
   - (i) the claim is one which would normally be allocated to the intermediate track ;[^M_F_0ceca1df-e250-44d5-9f59-d1ea7b512306]
-  - (ii)[^key-89d8aec75a3e794fe3cec8a08d75652e] there has been an admission of liability in full, which means that the defendant accepts that the claimant has suffered loss, including the injury set out in the letter of claim under the Pre-Action Protocol for the Resolution of Clinical Disputes, caused by the defendant’s breach of duty of care; and
+  - (ii)[^c-89d8aec75a3e794fe3cec8a08d75652e] there has been an admission of liability in full, which means that the defendant accepts that the claimant has suffered loss, including the injury set out in the letter of claim under the Pre-Action Protocol for the Resolution of Clinical Disputes, caused by the defendant’s breach of duty of care; and
   - (iii) the admission in paragraph (ii) is made in the defendant’s letter of response provided in accordance with the Pre-Action Protocol for the Resolution of Clinical Disputes,
 
   provided that the defendant has not raised a defence to the claim under the Limitation Act 1980;
 - (c) a claim for damages in relation to harm, abuse or neglect of or by children or vulnerable adults;
-- (d) a claim is one the court could order to be tried by jury if satisfied that there is in issue a matter set out in section 66(3) of the County Courts Act 1984 or section 69(1) of the Senior Courts Act 1981; [^key-6e83eeaf1201c3c0c0713376bca8799d]...
+- (d) a claim is one the court could order to be tried by jury if satisfied that there is in issue a matter set out in section 66(3) of the County Courts Act 1984 or section 69(1) of the Senior Courts Act 1981; [^c-6e83eeaf1201c3c0c0713376bca8799d]...
 - (e) a claim against the police which includes a claim for—
   - (i) an intentional or reckless tort; or
-  - (ii) relief or a remedy in relation to a breach of the Human Rights Act 1998 ; or[^key-07c71f9513286bc70450f15df62f54d9]
-- (f)[^key-a40fc28b1a0c44c0db950eca32f1bd5e] a claim against a public authority for trespass to the person, unless, having regard to the matters mentioned in rule 26.13(1), the court considers that it would not be in the interests of justice to do so.
+  - (ii) relief or a remedy in relation to a breach of the Human Rights Act 1998 ; or[^c-07c71f9513286bc70450f15df62f54d9]
+- (f)[^c-a40fc28b1a0c44c0db950eca32f1bd5e] a claim against a public authority for trespass to the person, unless, having regard to the matters mentioned in rule 26.13(1), the court considers that it would not be in the interests of justice to do so.
 
 (11) Paragraph (10)(e) does not apply to—
 
@@ -105,16 +105,16 @@ summary: ''
 
 ## Annotations
 
-[^key-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-8813561cf498c1d6f3c2f3e0bc4c9c0f]: Textual amendment: Word in rule 26.9(5)(b) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/5)
+[^c-8813561cf498c1d6f3c2f3e0bc4c9c0f]: Textual amendment: Word in rule 26.9(5)(b) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/5)
 
 [^M_F_0ceca1df-e250-44d5-9f59-d1ea7b512306]: Textual amendment: Rule 26.9(10)(b)(i): semicolon substituted for word (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/a/i)
 
-[^key-89d8aec75a3e794fe3cec8a08d75652e]: Textual amendment: Rule 26.9(10)(b)(ii)[(iii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.9/10/b/iii) substituted for [rule 26.9(10)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.9/10/b/ii) (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/a/ii)
+[^c-89d8aec75a3e794fe3cec8a08d75652e]: Textual amendment: Rule 26.9(10)(b)(ii)[(iii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.9/10/b/iii) substituted for [rule 26.9(10)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/26.9/10/b/ii) (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/a/ii)
 
-[^key-6e83eeaf1201c3c0c0713376bca8799d]: Textual amendment: Word in rule 26.9(10)(d) omitted (6.4.2024) by virtue of [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/b)
+[^c-6e83eeaf1201c3c0c0713376bca8799d]: Textual amendment: Word in rule 26.9(10)(d) omitted (6.4.2024) by virtue of [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/b)
 
-[^key-07c71f9513286bc70450f15df62f54d9]: Textual amendment: Word in rule 26.9(10)(e)(ii) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/c)
+[^c-07c71f9513286bc70450f15df62f54d9]: Textual amendment: Word in rule 26.9(10)(e)(ii) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/c)
 
-[^key-a40fc28b1a0c44c0db950eca32f1bd5e]: Textual amendment: Rule 26.9(10)(f) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/d)
+[^c-a40fc28b1a0c44c0db950eca32f1bd5e]: Textual amendment: Rule 26.9(10)(f) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2024/106/rule/6/2/d)

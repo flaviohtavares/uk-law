@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Safeguard[^key-2e8444e9d0c05921eedc0689df41855d]
+## 32. Safeguard[^c-2e8444e9d0c05921eedc0689df41855d]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8444e9d0c05921eedc0689df41855d]: Commencement: Reg. 32 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-2e8444e9d0c05921eedc0689df41855d]: Commencement: Reg. 32 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00021]: Footnote: *See* section 1 of the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28)

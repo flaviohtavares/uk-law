@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 412E. Subsequent recovery of peer-to-peer loans[^key-60a4c6052bc4044e0953b17c65a529c3]
+## 412E. Subsequent recovery of peer-to-peer loans[^c-60a4c6052bc4044e0953b17c65a529c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ and where a person assigns such a right otherwise than by way of a bargain made 
 
 ## Annotations
 
-[^key-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)
+[^c-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)

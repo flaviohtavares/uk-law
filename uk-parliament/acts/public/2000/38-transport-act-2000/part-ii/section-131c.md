@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131C. Continuation of schemes for areas in England: procedure[^key-997cd1b09ce852cd26102b65fe4208e3]
+## 131C. Continuation of schemes for areas in England: procedure[^c-997cd1b09ce852cd26102b65fe4208e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-997cd1b09ce852cd26102b65fe4208e3]: Textual amendment: S. 131C omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/14)
+[^c-997cd1b09ce852cd26102b65fe4208e3]: Textual amendment: S. 131C omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/14)

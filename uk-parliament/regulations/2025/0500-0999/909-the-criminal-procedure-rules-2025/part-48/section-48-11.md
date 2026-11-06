@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.11. Introduction of written witness statement or other hearsay[^key-4d4876ee9d3daf1957ef53848b1320d9]
+## 48.11. Introduction of written witness statement or other hearsay[^c-4d4876ee9d3daf1957ef53848b1320d9]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4d4876ee9d3daf1957ef53848b1320d9]: Commencement: [Rule 48.11](https://www.legislation.gov.uk/uksi/2025/909/rule/48.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4d4876ee9d3daf1957ef53848b1320d9]: Commencement: [Rule 48.11](https://www.legislation.gov.uk/uksi/2025/909/rule/48.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01304]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).
 

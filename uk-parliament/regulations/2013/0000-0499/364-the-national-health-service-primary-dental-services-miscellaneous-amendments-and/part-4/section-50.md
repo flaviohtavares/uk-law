@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Amendment of regulation 12[^key-b3850879ea6ca62bb8b4f9dffeac8b94]
+## 50. Amendment of regulation 12[^c-b3850879ea6ca62bb8b4f9dffeac8b94]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ For regulation 12 (reduction of remuneration and accounting for charges in relat
 
 ## Annotations
 
-[^key-b3850879ea6ca62bb8b4f9dffeac8b94]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/364/regulation/50) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-b3850879ea6ca62bb8b4f9dffeac8b94]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/364/regulation/50) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

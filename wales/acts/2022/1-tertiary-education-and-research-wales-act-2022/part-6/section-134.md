@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Use of application-to-acceptance information for research purposes[^key-ee936fd62a6dd127ab5c23b9bfa7b81f][^key-eab3e427f16e7dc44904138a01ea6a06]
+## 134. Use of application-to-acceptance information for research purposes[^c-ee936fd62a6dd127ab5c23b9bfa7b81f][^c-eab3e427f16e7dc44904138a01ea6a06]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee936fd62a6dd127ab5c23b9bfa7b81f]: Commencement: S. 134 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ee936fd62a6dd127ab5c23b9bfa7b81f]: Commencement: S. 134 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-eab3e427f16e7dc44904138a01ea6a06]: Commencement: [S. 134](https://www.legislation.gov.uk/asc/2022/1/section/134) in force at 1.8.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 22(b)](https://www.legislation.gov.uk/wsi/2026/62/article/22/b)
+[^c-eab3e427f16e7dc44904138a01ea6a06]: Commencement: [S. 134](https://www.legislation.gov.uk/asc/2022/1/section/134) in force at 1.8.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 22(b)](https://www.legislation.gov.uk/wsi/2026/62/article/22/b)

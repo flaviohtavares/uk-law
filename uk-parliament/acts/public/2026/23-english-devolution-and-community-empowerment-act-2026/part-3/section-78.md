@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Suspension notice given to person who is not licence holder[^key-22e6cdc7cc5e2e2b5c01774faec0cfc6]
+## 78. Suspension notice given to person who is not licence holder[^c-22e6cdc7cc5e2e2b5c01774faec0cfc6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e6cdc7cc5e2e2b5c01774faec0cfc6]: Commencement: S. 78 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-22e6cdc7cc5e2e2b5c01774faec0cfc6]: Commencement: S. 78 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

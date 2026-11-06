@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-3e9690860d208de99524bc14ba78cbb3]
+## 2. Interpretation[^c-3e9690860d208de99524bc14ba78cbb3]
 
 *Extent: E+W*
 
@@ -78,7 +78,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-3e9690860d208de99524bc14ba78cbb3]: Commencement: Reg. 2 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-3e9690860d208de99524bc14ba78cbb3]: Commencement: Reg. 2 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
 [^f00003]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 

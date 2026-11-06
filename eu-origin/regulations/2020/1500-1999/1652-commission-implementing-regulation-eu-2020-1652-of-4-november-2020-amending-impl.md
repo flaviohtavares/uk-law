@@ -33,26 +33,26 @@ of 4 November 2020
 
 amending Implementing Regulation (EU) 2015/220 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union (revoked)
 
-[^key-82b233803e4eb4125a07ada98101eb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82b233803e4eb4125a07ada98101eb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-82b233803e4eb4125a07ada98101eb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-82b233803e4eb4125a07ada98101eb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-82b233803e4eb4125a07ada98101eb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-82b233803e4eb4125a07ada98101eb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82b233803e4eb4125a07ada98101eb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82b233803e4eb4125a07ada98101eb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-82b233803e4eb4125a07ada98101eb75]
+## ANNEX I[^c-82b233803e4eb4125a07ada98101eb75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-82b233803e4eb4125a07ada98101eb75]
+## ANNEX II[^c-82b233803e4eb4125a07ada98101eb75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82b233803e4eb4125a07ada98101eb75]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 135](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/135)
+[^c-82b233803e4eb4125a07ada98101eb75]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 135](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/135)

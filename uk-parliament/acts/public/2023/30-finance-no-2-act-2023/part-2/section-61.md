@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Mergers: general provisions[^M_I_fdc2c883-cbbb-4981-bc8b-d3c7c4e797b9][^key-fe6ff50d428f897ee6a83ba6aa24682c]
+## 61. Mergers: general provisions[^M_I_fdc2c883-cbbb-4981-bc8b-d3c7c4e797b9][^c-fe6ff50d428f897ee6a83ba6aa24682c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and references to “post-merger production group premises” are to premises wi
 
 [^M_I_fdc2c883-cbbb-4981-bc8b-d3c7c4e797b9]: Commencement: S. 61 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-fe6ff50d428f897ee6a83ba6aa24682c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/30/section/61) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-fe6ff50d428f897ee6a83ba6aa24682c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/30/section/61) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

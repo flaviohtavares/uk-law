@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1132. External workers: attributable expenditure[^key-d49d7a190e7bbcca6808b5013beab75c]
+## 1132. External workers: attributable expenditure[^c-d49d7a190e7bbcca6808b5013beab75c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d49d7a190e7bbcca6808b5013beab75c]: Modification: S. 1132 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(f)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/f) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-d49d7a190e7bbcca6808b5013beab75c]: Modification: S. 1132 applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(f)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/f) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))

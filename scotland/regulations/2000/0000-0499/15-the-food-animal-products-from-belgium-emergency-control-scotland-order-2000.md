@@ -44,7 +44,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred on them by sections 6(4), 13(1) and 48(1) of the Food Safety Act 1990[^f00001],and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement, extent and interpretation[^key-4f6175bdc9e9dd273a5aa233b5ad5257]
+## 1. Citation, commencement, extent and interpretation[^c-4f6175bdc9e9dd273a5aa233b5ad5257]
 
 (1) This Order may be cited as the Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000 and shall come into force on 17th February 2000.
 
@@ -64,7 +64,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 (4) Other expressions used both in this Order and in the Commission Decision have, in so far as the context admits, the same meaning in this Order as they bear in that Decision.
 
-## 2. Exemptions[^key-3127dee61b55ad020ab91d685eb82580]
+## 2. Exemptions[^c-3127dee61b55ad020ab91d685eb82580]
 
 (1) Article 3 below does not apply to–
 
@@ -76,13 +76,13 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 (3) The certification to which paragraphs (1)(a) and (b) and (2) above apply is an official certificate signed by the Belgian competent authority in the form called for by Article 2 of that Decision.
 
-## 3. Prohibitions[^key-f7a37be8236d341cbb1320a0de3afbe4]
+## 3. Prohibitions[^c-f7a37be8236d341cbb1320a0de3afbe4]
 
 (1) Subject to paragraph (2) below, no person may carry out commercial operations with respect to any relevant animal product.
 
 (2) Paragraph (1) above does not prohibit the bringing into Scotland, from a member State, of any relevant animal product in free circulation in that member State.
 
-## 4. Enforcement[^key-138e94cb5c011859081e08f3984f2adf]
+## 4. Enforcement[^c-138e94cb5c011859081e08f3984f2adf]
 
 (1) This Order is to be enforced and executed by the Scottish Ministers and by each food authority within its area or district as appropriate.
 
@@ -90,7 +90,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 (3) Each food authority shall give such assistance and information to the Scottish Ministers as they may request for the purpose of their duties under section 13 of the Act in connection with the implementation of the Commission Decision in relation to food.
 
-## 5. Application and modification of various provisions of the Act[^key-7451daf9cf3f68f995ab0c93fba7884c]
+## 5. Application and modification of various provisions of the Act[^c-7451daf9cf3f68f995ab0c93fba7884c]
 
 (1) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of this Order, subject to the following modifications–
 
@@ -108,7 +108,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 - (b) section 35(1) (punishment of offences) in so far as it relates to offences under section 33 as applied by sub-paragraph (a) above; and
 - (c) section 44 (protection of officers acting in good faith).
 
-## 6. Revocation[^key-e6b207e46d26780ec874800ed08d1b30]
+## 6. Revocation[^c-e6b207e46d26780ec874800ed08d1b30]
 
 The Food (Animals and Animal Products for Belgium) (Emergency Control) (No. 2) (Scotland) Order 1999[^f00003] is hereby revoked.
 
@@ -139,18 +139,18 @@ In addition to making minor changes to the revoked Order, this Order, by referri
 
 [^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); section 6(4) of the Act was amended by paragraph 6 of Schedule 9 to the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40). The functions of the Secretary of State so far as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-4f6175bdc9e9dd273a5aa233b5ad5257]: Commencement: Art. 1 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-4f6175bdc9e9dd273a5aa233b5ad5257]: Commencement: Art. 1 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
 [^f00002]: Footnote: O.J. No. L310, 4.12.1999, p.62.
 
-[^key-3127dee61b55ad020ab91d685eb82580]: Commencement: Art. 2 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-3127dee61b55ad020ab91d685eb82580]: Commencement: Art. 2 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
-[^key-f7a37be8236d341cbb1320a0de3afbe4]: Commencement: Art. 3 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-f7a37be8236d341cbb1320a0de3afbe4]: Commencement: Art. 3 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
-[^key-138e94cb5c011859081e08f3984f2adf]: Commencement: Art. 4 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-138e94cb5c011859081e08f3984f2adf]: Commencement: Art. 4 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
-[^key-7451daf9cf3f68f995ab0c93fba7884c]: Commencement: Art. 5 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-7451daf9cf3f68f995ab0c93fba7884c]: Commencement: Art. 5 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
-[^key-e6b207e46d26780ec874800ed08d1b30]: Commencement: Art. 6 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+[^c-e6b207e46d26780ec874800ed08d1b30]: Commencement: Art. 6 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
 
 [^f00003]: Footnote: [S.S.I. 1999/32](https://www.legislation.gov.uk/ssi/1999/32)

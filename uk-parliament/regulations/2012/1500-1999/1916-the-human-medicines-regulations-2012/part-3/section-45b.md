@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Application for brokering registration[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+## 45B. Application for brokering registration[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 *Extent: E+W+S+N.I.*
 
-(1) The licensing authority may not register a person as a broker unless paragraphs (2)[^key-ca04367593f77b4f6efc5a3d49823ee3] to (7) are complied with.
+(1) The licensing authority may not register a person as a broker unless paragraphs (2)[^c-ca04367593f77b4f6efc5a3d49823ee3] to (7) are complied with.
 
 (2) An application for registration must be made containing—
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
 
-[^key-ca04367593f77b4f6efc5a3d49823ee3]: Textual amendment: Word in reg. 45B(1) inserted (1.10.2017) by [The Human Medicines (Amendment) Regulations 2017 (S.I. 2017/715)](https://www.legislation.gov.uk/uksi/2017/715), [regs. 1](https://www.legislation.gov.uk/uksi/2017/715/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/715/regulation/4) and word in reg. 45B(1) inserted (N.I.) (1.10.2017) by [The Human Medicines (Amendment) Regulations 2017 (S.R. 2017/241)](https://www.legislation.gov.uk/nisr/2017/241), [regs. 1](https://www.legislation.gov.uk/nisr/2017/241/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/241/regulation/4)
+[^c-ca04367593f77b4f6efc5a3d49823ee3]: Textual amendment: Word in reg. 45B(1) inserted (1.10.2017) by [The Human Medicines (Amendment) Regulations 2017 (S.I. 2017/715)](https://www.legislation.gov.uk/uksi/2017/715), [regs. 1](https://www.legislation.gov.uk/uksi/2017/715/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/715/regulation/4) and word in reg. 45B(1) inserted (N.I.) (1.10.2017) by [The Human Medicines (Amendment) Regulations 2017 (S.R. 2017/241)](https://www.legislation.gov.uk/nisr/2017/241), [regs. 1](https://www.legislation.gov.uk/nisr/2017/241/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/241/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Phased retirement pension ceases to be payable[^key-a504f3167de35a11d47f3b562100e5ca]
+## 59. Phased retirement pension ceases to be payable[^c-a504f3167de35a11d47f3b562100e5ca]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a504f3167de35a11d47f3b562100e5ca]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2014/292/regulation/59) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a504f3167de35a11d47f3b562100e5ca]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2014/292/regulation/59) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

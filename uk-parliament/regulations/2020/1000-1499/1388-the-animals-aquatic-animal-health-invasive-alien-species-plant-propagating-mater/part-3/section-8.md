@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Commission [Decision 2008/946/EC](https://www.legislation.gov.uk/european/decision/2008/0946)[^key-b4d7fdee3853d8fd73e8602c55938861]
+## 8. Commission [Decision 2008/946/EC](https://www.legislation.gov.uk/european/decision/2008/0946)[^c-b4d7fdee3853d8fd73e8602c55938861]
 
 *Extent: E+W+S*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4d7fdee3853d8fd73e8602c55938861]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1388/regulation/8) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-b4d7fdee3853d8fd73e8602c55938861]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1388/regulation/8) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

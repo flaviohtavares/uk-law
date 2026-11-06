@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. General functions of the Board[^key-2af16911c68a94b699a40dda68f34385]
+## 5. General functions of the Board[^c-2af16911c68a94b699a40dda68f34385]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2af16911c68a94b699a40dda68f34385]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2002/22/section/5) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 93](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/93), [5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-2af16911c68a94b699a40dda68f34385]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2002/22/section/5) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 93](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/93), [5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

@@ -41,22 +41,22 @@ recognising parts of the Union as free from varroosis in bees and establishing a
 
 (2013/503/EU) (revoked)
 
-[^key-9fba1a6b15c250ea96cf2ed13ab76a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fba1a6b15c250ea96cf2ed13ab76a9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-9fba1a6b15c250ea96cf2ed13ab76a9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Member States or territories thereof which are recognised as free from varroosis[^key-9fba1a6b15c250ea96cf2ed13ab76a9e]
+## ANNEX — Member States or territories thereof which are recognised as free from varroosis[^c-9fba1a6b15c250ea96cf2ed13ab76a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9fba1a6b15c250ea96cf2ed13ab76a9e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/8)
+[^c-9fba1a6b15c250ea96cf2ed13ab76a9e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/8)

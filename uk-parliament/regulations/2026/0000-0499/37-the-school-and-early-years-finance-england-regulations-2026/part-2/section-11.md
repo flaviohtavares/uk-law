@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^key-3455fec65123ae7587cd21f6128a4b14]
+## 11. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^c-3455fec65123ae7587cd21f6128a4b14]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ in respect of which a determination will be made in accordance with regulation 1
 
 ## Annotations
 
-[^key-3455fec65123ae7587cd21f6128a4b14]: Commencement: Reg. 11 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-3455fec65123ae7587cd21f6128a4b14]: Commencement: Reg. 11 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

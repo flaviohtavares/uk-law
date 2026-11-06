@@ -29,93 +29,93 @@ Pastoral (Amendment) Measure 1994 (repealed)
 
 1994 No. 1
 
-[^key-170be7dfa5aac92f649c66359a0b35ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-170be7dfa5aac92f649c66359a0b35ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Annual report of the Advisory Board for Redundant Churches.[^key-170be7dfa5aac92f649c66359a0b35ca]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Redundant Churches Fund.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 1. Annual report of the Advisory Board for Redundant Churches.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Pastoral schemes.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 2. Redundant Churches Fund.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Redundancy schemes.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 3. Pastoral schemes.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Proceeds of sales, etc.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 4. Redundancy schemes.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Funding periods.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 5. Proceeds of sales, etc.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Legal effects of consecration.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 6. Funding periods.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Covenants.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 7. Legal effects of consecration.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Diocesan pastoral accounts.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 8. Covenants.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Temporary maintenance account.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 9. Diocesan pastoral accounts.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Interpretation of 1983 Measure.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 10. Temporary maintenance account.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Crediting of moneys to temporary maintenance account.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 11. Interpretation of 1983 Measure.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Re-naming of Redundant Churches Fund.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 12. Crediting of moneys to temporary maintenance account.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Transitional provisions as to the funding period.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 13. Re-naming of Redundant Churches Fund.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Citation, commencement, extent and interpretation.[^key-170be7dfa5aac92f649c66359a0b35ca]
+## 14. Transitional provisions as to the funding period.[^c-170be7dfa5aac92f649c66359a0b35ca]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Citation, commencement, extent and interpretation.[^c-170be7dfa5aac92f649c66359a0b35ca]
 
 **No longer in force.**
 
@@ -123,4 +123,4 @@ Pastoral (Amendment) Measure 1994 (repealed)
 
 ## Annotations
 
-[^key-170be7dfa5aac92f649c66359a0b35ca]: Textual amendment: Measure repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-170be7dfa5aac92f649c66359a0b35ca]: Textual amendment: Measure repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

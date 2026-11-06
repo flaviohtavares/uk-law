@@ -26,7 +26,7 @@ Article 50
 
 In column (1) of each of the tables below, the number before the forward slash refers to the relevant sheet number of the traffic regulation and rights of way plans, and the number after the forward slash refers to the relevant traffic regulation reference number shown on that sheet. In the event of there being any discrepancy between a provision in this Schedule and the illustration of that provision shown on the traffic regulation and rights of way plans, this Schedule prevails.
 
-### PART 1 — STOPPING, WAITING, LOADING OR UNLOADING[^key-7748c3f48487c16f0a44ddea0223d245]
+### PART 1 — STOPPING, WAITING, LOADING OR UNLOADING[^c-7748c3f48487c16f0a44ddea0223d245]
 
 (1) No waiting and no loading at any time
 
@@ -313,7 +313,7 @@ In column (1) of each of the tables below, the number before the forward slash r
 </tbody>
 </table>
 
-### PART 2 — PARKING PLACES[^key-5d0f9c7ca97490129c460e807d5c99db]
+### PART 2 — PARKING PLACES[^c-5d0f9c7ca97490129c460e807d5c99db]
 
 (4) Designated parking
 
@@ -431,7 +431,7 @@ In column (1) of each of the tables below, the number before the forward slash r
 </tbody>
 </table>
 
-### PART 3 — DIRECTION OF TRAFFIC[^key-427a851ff127e4edca9b05e34f26ae3f]
+### PART 3 — DIRECTION OF TRAFFIC[^c-427a851ff127e4edca9b05e34f26ae3f]
 
 (8) One way traffic
 
@@ -486,7 +486,7 @@ In column (1) of each of the tables below, the number before the forward slash r
 </tbody>
 </table>
 
-### PART 4 — VEHICULAR ACCESS[^key-af4009d7ca488b6b1377d131a99500ca]
+### PART 4 — VEHICULAR ACCESS[^c-af4009d7ca488b6b1377d131a99500ca]
 
 (11) Prohibition of driving
 
@@ -538,10 +538,10 @@ In column (1) of each of the tables below, the number before the forward slash r
 
 ## Annotations
 
-[^key-7748c3f48487c16f0a44ddea0223d245]: Commencement: Sch. 10 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-7748c3f48487c16f0a44ddea0223d245]: Commencement: Sch. 10 Pt. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-5d0f9c7ca97490129c460e807d5c99db]: Commencement: Sch. 10 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-5d0f9c7ca97490129c460e807d5c99db]: Commencement: Sch. 10 Pt. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-427a851ff127e4edca9b05e34f26ae3f]: Commencement: Sch. 10 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-427a851ff127e4edca9b05e34f26ae3f]: Commencement: Sch. 10 Pt. 3 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
-[^key-af4009d7ca488b6b1377d131a99500ca]: Commencement: Sch. 10 Pt. 4 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-af4009d7ca488b6b1377d131a99500ca]: Commencement: Sch. 10 Pt. 4 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

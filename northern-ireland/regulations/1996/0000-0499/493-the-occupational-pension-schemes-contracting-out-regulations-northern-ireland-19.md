@@ -44,7 +44,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part I — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-4b9ae4884d947e108b2be4c4a6d818ac]
+### 1. Citation, commencement and interpretation[^c-4b9ae4884d947e108b2be4c4a6d818ac]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
@@ -93,7 +93,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part II — Certification of Employments
 
-### 2. Making of elections for the issue of contracting-out certificates[^key-c4aa2282cdd5685a3028a004cc30d396]
+### 2. Making of elections for the issue of contracting-out certificates[^c-c4aa2282cdd5685a3028a004cc30d396]
 
 (1) Subject to regulation 10, an election with a view to the issue of a contracting-out certificate—
 
@@ -107,7 +107,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) where an earner in an employment to which the scheme relates opts in writing not to join or, as the case may be, not to remain as a member of any contracted-out employment to which the scheme relates, any earner who so opts, and
 - (b) in a case where it is possible for one or more earners to be unable to complete 5 years' service in that employment as members of that scheme before reaching the normal pension age of that scheme, the earner or earners whose length of service (consisting of service in that employment as a member of that scheme, or linked qualifying service in relation to such service, or both) falls short of a minimum length of service (not exceeding 5 years) specified in the rules of the scheme and who cannot (so far as is known when the contracting-out certificate is issued, or if later in the case of a particular earner, when he enters the employment) complete such a minimum length of service before reaching the normal pension age of the scheme.
 
-### 3. Notices by employers of intended election[^key-f54459c864aa38f3c4a71c2c230cd539]
+### 3. Notices by employers of intended election[^c-f54459c864aa38f3c4a71c2c230cd539]
 
 (1) A notice of intention to make an election with a view to the issue of a contracting-out certificate shall be given by the employer, in the manner specified in paragraph (3), to—
 
@@ -143,7 +143,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (5) If any independent trade union recognised in relation to the earners concerned does not assent to the period of notice specified in accordance with paragraph (4), a notice must specify a date of expiry which is not earlier than the date 3 months after that on which the notice is given.
 
-### 4. Consultation with trade unions[^key-c7127637ffd88511dc57ceb23ede921e]
+### 4. Consultation with trade unions[^c-c7127637ffd88511dc57ceb23ede921e]
 
 (1) An employer who has given a notice under regulation 3 shall undertake consultations, if he has not already done so, about the matters covered by the notice with all independent trade unions recognised in relation to the earners concerned.
 
@@ -151,11 +151,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) Any question whether an employer has complied with the requirements as to consultations specified in paragraph (1) may be referred by the employer, or by an independent trade union recognised in relation to the earners concerned, to an industrial tribunal.
 
-### 5. Time for making an election[^key-1d76a0797b748fc62a08ab59d8229a0c]
+### 5. Time for making an election[^c-1d76a0797b748fc62a08ab59d8229a0c]
 
 An election may be made only after the date of expiry of the notice given under regulation 3 and within 3 months of that date (or such longer period as the Department may in its discretion allow), but nothing in this regulation shall prevent an election from being made after the giving of further notices which comply with the requirements of that regulation.
 
-### 6. Information to be included in an election[^key-78bb6648e9d03b3b414b7c9031c0f1b6]
+### 6. Information to be included in an election[^c-78bb6648e9d03b3b414b7c9031c0f1b6]
 
 (1) An election shall include the following particulars—
 
@@ -188,11 +188,11 @@ An election may be made only after the date of expiry of the notice given under 
 - (a) that he will comply with obligations concerning minimum payments in accordance with section 4(1)(*a*)(ii) of the Act[^f00015] and regulations made under sections 4(3) and 5(3) of the Act, and
 - (b) that the requirements of regulation 30(1)(*b*) and (*c*) are satisfied.
 
-### 7. Amendment of an election[^key-aa847446a4ad6b7dd8253e5469108558]
+### 7. Amendment of an election[^c-aa847446a4ad6b7dd8253e5469108558]
 
 An employer may amend his election at any time before the issue of a contracting-out certificate if the amendment does not alter the categories or descriptions of the earners to which the election relates.
 
-### 8. Issue of contracting-out certificates[^key-4b105cc661ab548b402995c33d3cbfee]
+### 8. Issue of contracting-out certificates[^c-4b105cc661ab548b402995c33d3cbfee]
 
 (1) Subject to paragraph (2) when the Department has determined that an employment should be treated, either in relation to all earners in it or in relation to any specified category or description of earners, as contracted-out employment, it shall issue and send to the employer concerned a contracting-out certificate.
 
@@ -203,7 +203,7 @@ An employer may amend his election at any time before the issue of a contracting
 - (c) the employments to which the certificate relates or, if the contracting-out certificate does not relate to all earners in those employments, the categories or descriptions of the earners to whom it relates, and
 - (d) the date from which the certificate is to have effect, which may, where the Department considers it appropriate, be earlier than the date on which the certificate is issued, provided that the scheme satisfied any contracting-out conditions or requirements which apply to the scheme from the date from which the certificate is to have effect.
 
-### 9. Making of elections by employers for the variation or surrender of contracting-out certificates[^key-92a2437c87f84d965a9752561605d486]
+### 9. Making of elections by employers for the variation or surrender of contracting-out certificates[^c-92a2437c87f84d965a9752561605d486]
 
 (1) Subject to the provisions of paragraphs (2) and (3) and regulation 10, an election with a view to the variation or surrender of a contracting-out certificate may only be made—
 
@@ -249,7 +249,7 @@ an election with a view to the variation of a certificate shall be made in writi
 
 (8) An employer may amend his election under this regulation at any time before the variation or surrender of the certificate if the amendment does not alter the categories or descriptions of the earners affected by the certificate.
 
-### 10. Special provision with regard to elections for the issue, variation or surrender of certificates where the employment remains contracted out[^key-5e3281702003bf0998c0211bfd54b6af]
+### 10. Special provision with regard to elections for the issue, variation or surrender of certificates where the employment remains contracted out[^c-5e3281702003bf0998c0211bfd54b6af]
 
 (1) Subject to regulation 71 (elections for replacement certificates by salary related schemes during transitional period) and to paragraphs (2) and (3), where in the case of an election with a view to the issue, variation or as the case may be, surrender of a contracting-out certificate the Department is satisfied, that—
 
@@ -271,7 +271,7 @@ then that election shall be made in writing to the Department and may be made wi
 - (c) the date from which the change is to have effect, and
 - (d) the reasons why the election is being made without compliance with regulations 2(1), 4, 5 and 9(1) and (4) to (7).
 
-### 11. Special circumstances in which the Department may determine earners to have been in contracted-out employment[^key-67cdb837c89ba0c4f2645b993d9dfe44]
+### 11. Special circumstances in which the Department may determine earners to have been in contracted-out employment[^c-67cdb837c89ba0c4f2645b993d9dfe44]
 
 Where an earner has been employed in an employment during a period in which employment of that description was contracted-out but such employment was not (apart from this regulation) contracted out in relation to him, and the Department is satisfied—
 
@@ -280,7 +280,7 @@ Where an earner has been employed in an employment during a period in which empl
 
 it may determine that that earner was in contracted-out employment by reference to that scheme during that period.
 
-### 12. Special provision for holding companies and subsidiaries[^key-0d9b11fd85b3a6398dacaccdcfcf950e]
+### 12. Special provision for holding companies and subsidiaries[^c-0d9b11fd85b3a6398dacaccdcfcf950e]
 
 (1) This regulation applies to cases where—
 
@@ -308,21 +308,21 @@ it may determine that that earner was in contracted-out employment by reference 
 
 (5) The Department may refuse to give effect to an election made by a holding company if it is not satisfied either that each subsidiary has undertaken those consultations in respect of the earners employed by the holding company, or that the holding company has undertaken them with the agreement of those trade unions.
 
-### 13. Special provision for public service pension schemes[^key-49d00276d52e0270135c5e6cf3f998a2]
+### 13. Special provision for public service pension schemes[^c-49d00276d52e0270135c5e6cf3f998a2]
 
 (1) This regulation applies to cases where earners in employments under different employers qualify by virtue of their respective service in those employments for the benefits of the same public service pension scheme.
 
 (2) In a case to which this regulation applies, any notice which is required or authorised to be given under these Regulations shall be treated as properly given if given either by a government department or by the Minister of the Crown having responsibility for the scheme and where this is done the government department or that Minister, as the case may be, shall be treated as the employer of the earners for the purposes of sections 3(1)(*a*), (2) and (7), 7 and 30(1)(*a*), (2) and (8) of the Act and of any regulations made thereunder.
 
-### 14. Special provision for holders of pensionable judicial office[^key-9560a0779bd67b7b9adb40eada26c8db]
+### 14. Special provision for holders of pensionable judicial office[^c-9560a0779bd67b7b9adb40eada26c8db]
 
 In respect of earners who are holders of pensionable judicial office, any notice which is required or authorised to be given under these Regulations shall be treated as properly given if given either by the Lord Chancellor or by a government department and where this is done the Lord Chancellor or that government department, as the case may be, shall be treated as the employer of the earners for the purposes of sections 3(1)(*a*), (2) and (7), 7 and 30(1)(*a*), (2) and (8) of the Act and of any regulations made thereunder.
 
-### 15. Further information and change of circumstances[^key-bcc1ec11109e34fc68c7ce04c83e33e8]
+### 15. Further information and change of circumstances[^c-bcc1ec11109e34fc68c7ce04c83e33e8]
 
 An employer who makes an election with a view to the issue of a contracting-out certificate or an employer whom such a certificate has been issued, shall furnish to the Department such reports, accounts and other documents and information relating to the scheme as the Department requires, and, in particular, shall notify the Department of any such change of circumstances affecting the scheme as it may have required the employer to notify as soon as practicable after its occurrence.
 
-### 16. Requirement to confirm relevant requirements are satisfied[^key-e77d1a1c34e9d4e3f80a83cd032fdc4a]
+### 16. Requirement to confirm relevant requirements are satisfied[^c-e77d1a1c34e9d4e3f80a83cd032fdc4a]
 
 (1) An employer to whom a contracting-out certificate has been issued (including any certificate which has been surrendered or cancelled) shall, on such occasions and at such times as the Department may require, provide written confirmation and such other evidence as the Department may require—
 
@@ -339,24 +339,24 @@ An employer who makes an election with a view to the issue of a contracting-out 
 
 ## Part III — Salary Related Contracted-out Schemes
 
-### 17. Further contracting-out conditions for salary related contracted-out schemes[^key-ab9d811f920270edffcb95557819821b]
+### 17. Further contracting-out conditions for salary related contracted-out schemes[^c-ab9d811f920270edffcb95557819821b]
 
 A scheme may be contracted out in relation to the employment of an earner under section 5(2) of the Act (requirements for certification of a salary related contracted-out scheme) only if, in relation to an earner’s service on or after the principal appointed day, in addition to satisfying the conditions required by section 5(2B)(*a*) and (*b*) of the Act[^f00021], it also satisfies the requirements of regulations 18 to 22.
 
-### 18. Requirement as to resources of the scheme[^key-1682d16fde35023c3675214d95e8f92e]
+### 18. Requirement as to resources of the scheme[^c-1682d16fde35023c3675214d95e8f92e]
 
 (1) Subject to paragraph (2) and regulations 72 and 73 (transitional arrangements concerning requirements as to resources) for the purposes of section 5(2B)(*c*)(i) of the Act (requirements as to amount of the resources of the scheme), the amount of the resources of the scheme must be sufficient either to enable the scheme to meet the minimum funding requirement provided for in Article 56(1) of the Order, or the actuary to the scheme must have certified under Article 58(6)(*b*) of the Order that in his opinion the rates of contributions are adequate for the purpose of securing that the minimum funding requirement will be met by the end of the period prescribed in relation to that Article.
 
 (2) Paragraph (1) does not apply to a public service pension scheme to which Article 56 of the Order does not apply.
 
-### 19. Lump sum benefits and salary related contracted-out schemes[^key-670fca1920e263e69e17579a9ff5c6fb]
+### 19. Lump sum benefits and salary related contracted-out schemes[^c-670fca1920e263e69e17579a9ff5c6fb]
 
 A salary related contracted-out scheme may not provide for the payment of a lump sum instead of a pension except in accordance with regulation 20 (trivial commutation of section 5(2B) rights) and, as the case may be, regulation 60 (trivial commutation of guaranteed minimum pensions) or—
 
 - (a) in the case of a scheme which is exempt approved within the meaning of section 592(1) of the Taxes Act or a scheme which has applied for such approval which has not yet been determined, to the extent permitted under the rules of that scheme in accordance with that approval, or
 - (b) in the case of a relevant statutory scheme within the meaning of section 611A of the Taxes Act[^f00022], to the extent permitted under the regulations or rules governing the scheme as a relevant statutory scheme.
 
-### 20. Trivial commutation of benefits derived from section 5(2B) rights[^key-580099b6898354e56ea89c3d5c5d04ec]
+### 20. Trivial commutation of benefits derived from section 5(2B) rights[^c-580099b6898354e56ea89c3d5c5d04ec]
 
 For the purposes of section 8C(1)(*c*) of the Act[^f00023] (regulations may prohibit or restrict the payment of a lump sum instead of a pension under a relevant scheme except in prescribed circumstances or on prescribed conditions), any benefits which have accrued in respect of an earner’s section 5(2B) rights under a scheme may not be paid as a lump sum instead of a pension unless—
 
@@ -364,20 +364,20 @@ For the purposes of section 8C(1)(*c*) of the Act[^f00023] (regulations may proh
 - (b) the aggregate of all benefits including benefits in respect of section 5(2B) rights payable to the earner (or his widow or widower) does not exceed £260 per annum, and
 - (c) the Department is satisfied that the scheme provides a reasonable basis for ascertaining the sum to be paid on commutation.
 
-### 21. Payable age in salary related contracted-out schemes[^key-4706ef9de4bfd73fa832aeb657ff6569]
+### 21. Payable age in salary related contracted-out schemes[^c-4706ef9de4bfd73fa832aeb657ff6569]
 
 For the purposes of section 8D of the Act[^f00024] (regulations may provide for the ages for payment of benefits in salary related contracted-out schemes) in respect of an earner’s service on or after the principle appointed day, schemes must provide for benefits to be paid by reference to an age which is equal for men and women and which—
 
 - (a) in the case of a scheme which is exempt approved within the meaning of section 592(1) of the Taxes Act or a scheme which has applied for such approval which has not yet been determined, is permitted under the rules of that scheme in accordance with that approval, or
 - (b) in the case of a relevant statutory scheme within the meaning of section 611A of the Taxes Act, is permitted under the regulations or rules governing the scheme as a relevant statutory scheme.
 
-### 22. Each part of scheme to comply with section 8A of the Act[^key-d5462101e86cf8280a63f666c913ad2f]
+### 22. Each part of scheme to comply with section 8A of the Act[^c-d5462101e86cf8280a63f666c913ad2f]
 
 (1) Where a scheme makes provision in relation to earners in one category of employment which differs from provision made in the case of earners in another such category, the Department must be satisfied that the scheme satisfies section 8A of the Act in relation to each of the categories of employment which is to be contracted out.
 
 (2) Where a scheme makes provision in relation to one description of earners within a category of employment which differs from provision made in the case of another description of earners within that category, the Department must be satisfied that the scheme satisfies section 8A of the Act in relation to each such description of earners which is to be contracted out.
 
-### 23. Requirements for meeting the statutory standard[^key-7a71731c35b4c7f7b8da488246664679]
+### 23. Requirements for meeting the statutory standard[^c-7a71731c35b4c7f7b8da488246664679]
 
 For the purposes of section 8A(4) of the Act (regulations may provide for the manner of, and criteria for, determining whether pensions are broadly equivalent to those under a reference scheme) in determining whether the pensions provided under the scheme are broadly equivalent to or better than those which would be provided under a reference scheme, the actuary—
 
@@ -388,15 +388,15 @@ For the purposes of section 8A(4) of the Act (regulations may provide for the ma
 - (e) must not have regard to any money purchase benefits, and
 - (f) may have regard to the payment of a lump sum.
 
-### 24. Circumstances when actuary other than actuary appointed under Article 47 of the Order may certify broad equivalence[^key-9057eaa8b106d4c5fb7d58a9386de509]
+### 24. Circumstances when actuary other than actuary appointed under Article 47 of the Order may certify broad equivalence[^c-9057eaa8b106d4c5fb7d58a9386de509]
 
 For the purposes of section 8A(6) of the Act (actuary other than scheme actuary appointed under Article 47 of the Order to certify whether pensions are broadly equivalent to, or better than, those in a reference scheme in prescribed circumstances) the prescribed circumstances are where a scheme is not required to appoint an actuary for the scheme under Article 47 of the Order.
 
-### 25. Requirements for a reference scheme[^key-f2502a5339e8333dacbfff0417696b63]
+### 25. Requirements for a reference scheme[^c-f2502a5339e8333dacbfff0417696b63]
 
 A reference scheme is a scheme which, in addition to complying with the requirements of section 8B(3) and (4) of the Act, complies with the requirements of Chapter II of Part IV of the Act (revaluation of benefits in the case of scheme members who leave pensionable service before attaining normal pension age) and Article 51 of the Order (indexation of pensions).
 
-### 26. Reference scheme: circumstances in which widows' or widowers' pensions need not be payable[^key-ccc3738b450f0bd257517ff7a345fb75]
+### 26. Reference scheme: circumstances in which widows' or widowers' pensions need not be payable[^c-ccc3738b450f0bd257517ff7a345fb75]
 
 For the purposes of section 8B(4)(*a*) of the Act (reference scheme to provide widows' and widowers' pensions except in prescribed circumstances) the prescribed circumstances are where—
 
@@ -404,11 +404,11 @@ For the purposes of section 8B(4)(*a*) of the Act (reference scheme to provide w
 - (b) the widow or widower of the scheme member remarries or lives together as husband and wife with another person to whom he or she is not married after having received benefits under the scheme, or
 - (c) the widow or widower of the scheme member is living together as husband and wife with another person to whom he or she is not married at the time of the member’s death.
 
-### 27. Modification applying to public service pension schemes[^key-2c702870571ffda411a49b85e03172d7]
+### 27. Modification applying to public service pension schemes[^c-2c702870571ffda411a49b85e03172d7]
 
 In the case of schemes which are public service pension schemes, section 5(2B) of the Act (requirements for salary related contracted-out schemes in relation to service on or after the principal appointed day) is modified by omitting paragraph (*b*) (a requirement that the restrictions on employer-related investments apply to the scheme and the scheme complies with those restrictions).
 
-### 28. Service in a salary related contracted-out scheme that does not qualify for further benefits[^key-0e6c7e29d8ca0ad7a6d3b158478b5dd0]
+### 28. Service in a salary related contracted-out scheme that does not qualify for further benefits[^c-0e6c7e29d8ca0ad7a6d3b158478b5dd0]
 
 (1) This regulation applies in cases in which any description of benefit under a salary related contracted-out scheme is subject to a limit (however imposed) operating so as to prevent service beyond a particular length from qualifying for further benefits.
 
@@ -420,7 +420,7 @@ In the case of schemes which are public service pension schemes, section 5(2B) o
 
 (3) For the purposes of paragraph (2)(*c*) “total benefits” includes benefits which have accrued to the earner in respect of service in employment whether or not contracted-out employment and whether with the same or another employer, except any part of such benefits which consists of equivalent pension benefits for the purposes of Part III of the National Insurance Act (Northern Ireland) 1966[^f00026].
 
-### 29. Schemes which cannot be certified under section 5(2B) of the Act[^key-9f312796b377f8e2327eecb9f15ba6c9]
+### 29. Schemes which cannot be certified under section 5(2B) of the Act[^c-9f312796b377f8e2327eecb9f15ba6c9]
 
 For the purposes of section 5(2B)(*d*) of the Act (prescribed class or description of schemes which may not be salary related contracted-out schemes) the prescribed schemes are—
 
@@ -429,7 +429,7 @@ For the purposes of section 5(2B)(*d*) of the Act (prescribed class or descripti
 
 ## Part IV — Money Purchase Contracted-out Schemes
 
-### 30. Further contracting-out requirements for money purchase contracted-out schemes[^key-420421313ca3beba4d810b497be3637d]
+### 30. Further contracting-out requirements for money purchase contracted-out schemes[^c-420421313ca3beba4d810b497be3637d]
 
 (1) For the purpose of section 5(3) of the Act[^f00027] (money purchase schemes) the prescribed requirements are—
 
@@ -441,7 +441,7 @@ For the purposes of section 5(2B)(*d*) of the Act (prescribed class or descripti
 
 (2) The requirement referred to in paragraph (1)(*b*) shall not apply in a case where the rules of the scheme provide that the additional payments made shall entitle the member to benefits which are not money purchase benefits and such benefits are paid in addition to the benefits derived from minimum payments.
 
-### 31. Deduction of minimum payments from earnings[^key-885f5fdbccccd45eb4a21173e002e9c7]
+### 31. Deduction of minimum payments from earnings[^c-885f5fdbccccd45eb4a21173e002e9c7]
 
 (1) Every employer, on making during any tax year to any earner any payment of emoluments in respect of which minimum payments are payable may deduct minimum payments in accordance with this regulation.
 
@@ -463,7 +463,7 @@ For the purposes of section 5(2B)(*d*) of the Act (prescribed class or descripti
 - (c) the underdeduction occurred as a result of the variation of the contracting-out certificate issued in respect of the employment in respect of which the payment of emoluments is made, or
 - (d) the emoluments in respect of which the underdeduction occurred are, under regulation 17B of the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00029], not paid through the secondary contributor in relation to the employment.
 
-### 32. Minimum payments to be made by employers to trustees[^key-ee21ea8c6bd57ee5cb7988a6500cba2d]
+### 32. Minimum payments to be made by employers to trustees[^c-ee21ea8c6bd57ee5cb7988a6500cba2d]
 
 (1) For the purposes of section 4(1) of the Act[^f00030], the employer of an earner whose employment is contracted out by reference to a money purchase contracted-out scheme shall, subject to paragraph (2), make to the trustees of that scheme any minimum payments which fall to be made by him, other than amounts deductible by virtue of regulation 31(4) which he did not deduct, within 14 days of the end of the income tax month in which there arose the liability for Class 1 contributions in respect of the earnings to which those minimum payments relate.
 
@@ -473,7 +473,7 @@ For the purposes of section 5(2B)(*d*) of the Act (prescribed class or descripti
 
 (4) Paragraph (3) applies only where the overdeduction occurred by reason of an error made by the employer in good faith.
 
-### 33. Calculation of minimum payments[^key-18c09bf9766f4d40c0669755e9e0c879]
+### 33. Calculation of minimum payments[^c-18c09bf9766f4d40c0669755e9e0c879]
 
 (1) Subject to paragraphs (3) and (4), minimum payments shall be calculated in accordance with section 4(2) of the Act, so however that each such calculation shall be to the nearest penny and any amount of half a penny or less shall be disregarded.
 
@@ -485,27 +485,27 @@ For the purposes of section 5(2B)(*d*) of the Act (prescribed class or descripti
 
 (5) Unless the Department agrees to the contrary, all the minimum payments to be made in a tax year in respect of the earnings paid to or for the benefit of an earner in respect of his employed earner’s employment or, where he has more than one such employment and the earnings therefrom are aggregated under paragraph 1(1) of Schedule 1 to the Contributions and Benefits Act, in respect of those employments, shall be calculated either in accordance with paragraph (1) or in accordance with paragraph (2) but not partly in accordance with one and partly in accordance with the other of those paragraphs.
 
-### 34. Manner of calculation or estimation of earnings[^key-2a8dd95cac13b9f4cac6168d780b9e0c]
+### 34. Manner of calculation or estimation of earnings[^c-2a8dd95cac13b9f4cac6168d780b9e0c]
 
 Where the Department cannot readily ascertain the amount of earnings in any tax week or is satisfied that records of earnings in any tax week have not been maintained or retained or are otherwise unobtainable, it may—
 
 - (a) compute, in such manner, as it thinks fit, an amount which shall be regarded as the amount of earnings, or
 - (b) take their amount to be such as it may specify in the particular case.
 
-### 35. Manner of payment of the age-related payment[^key-6d3a875475a8e1234af485be4ea09594]
+### 35. Manner of payment of the age-related payment[^c-6d3a875475a8e1234af485be4ea09594]
 
 The Department shall make the age-related payment—
 
 - (a) by automated credit transfer into a bank or building society account relating to the relevant scheme and which accepts payments made by automated credit transfer, or
 - (b) in such other manner as the Department may in its discretion approve.
 
-### 36. Verification of age[^key-880ffd60cd1fde63b57a96098233b6ef]
+### 36. Verification of age[^c-880ffd60cd1fde63b57a96098233b6ef]
 
 (1) For the purposes of determining the appropriate age-related percentage in respect of an earner for the purposes of section 38A of the Act[^f00031], the Department may require that earner to send documentary evidence of his date of birth.
 
 (2) For the purposes of section 41B of the Act[^f00032] (information held as to the age to be disclosed by the Department to trustees or managers of a money purchase scheme and such other persons as may be prescribed) the prescribed person shall be the person who is responsible for administering the scheme.
 
-### 37. Circumstances in which the age-related payments are not to be paid[^key-c8b803637fe11b16bd9d16c957a2615d]
+### 37. Circumstances in which the age-related payments are not to be paid[^c-c8b803637fe11b16bd9d16c957a2615d]
 
 (1) An age-related payment shall not be paid in respect of an earner for the tax year or part of the tax year in which that earner—
 
@@ -524,15 +524,15 @@ The Department shall make the age-related payment—
 
 (7) Where effect has been given to the earner’s protected rights by means of an appropriate policy of insurance by virtue of section 28A of the Act[^f00034] (discharge of protected rights on winding up: insurance policies), the age-related payment in respect of the tax year or part of the tax year before the tax year in which either the earner reaches pensionable age, or dies and in which he would reach pensionable age, shall be payable to the insurance company with which that policy of insurance is or was taken out or entered into.
 
-### 38. Adjustment of the amount of age-related payment[^key-c31c9d87b9b539eb3088cd2cf8274bcb]
+### 38. Adjustment of the amount of age-related payment[^c-c31c9d87b9b539eb3088cd2cf8274bcb]
 
 Where the amount of the age-related payment payable in respect of an earner would otherwise not be a whole number of pence, it shall be adjusted to the nearest whole number of pence, and any amount of half a penny or less shall be disregarded.
 
-### 39. Circumstances in which schemes may change mode of contracting out[^key-1bf64f63248337977852b3e9e97b5769]
+### 39. Circumstances in which schemes may change mode of contracting out[^c-1bf64f63248337977852b3e9e97b5769]
 
 Subject to any regulations made under Article 146 of the Order, a scheme which has been contracted out by virtue of section 5(3) of the Act may become contracted out under section 5(2) of the Act only if its trustees have been discharged of all liability to give effect to protected rights.
 
-### 40. Schemes which may not be contracted out under section 5(3) of the Act[^key-73f2493a5269bdd3a09f4ccb4bcdd2ee]
+### 40. Schemes which may not be contracted out under section 5(3) of the Act[^c-73f2493a5269bdd3a09f4ccb4bcdd2ee]
 
 For the purposes of section 5(3)(*aa*) of the Act[^f00035] (prescribed class or description of scheme which may not be a money purchase contracted-out scheme) the prescribed class or description is a scheme which is not exempt approved within the meaning of section 592(1) of the Taxes Act, unless it either—
 
@@ -541,11 +541,11 @@ For the purposes of section 5(3)(*aa*) of the Act[^f00035] (prescribed class or 
 
 ## Part V — Further Requirements (all Schemes) and Overseas Schemes
 
-### 41. Provision of information as to resources[^key-61a6ad242a7dfe208c1ea7e821e47d9f]
+### 41. Provision of information as to resources[^c-61a6ad242a7dfe208c1ea7e821e47d9f]
 
 The employer in relation to a scheme and the trustees of a scheme must provide the Department, in such manner and at such times as the Department may reasonably require, with such reports, accounts, and with such other documents and information relating to the resources of the scheme as the Department may reasonably require for the purposes of Part III of the Act and these Regulations.
 
-### 42. Alteration of rules of contracted-out schemes[^key-2c1de8a36ef70eec052217109a2bebc5]
+### 42. Alteration of rules of contracted-out schemes[^c-2c1de8a36ef70eec052217109a2bebc5]
 
 (1) For the purposes of section 33(1) of the Act[^f00036] (prohibition on alteration of rules of contracted-out scheme unless the alteration is of a prescribed description) the rules of a salary related contracted-out scheme cannot be altered—
 
@@ -559,7 +559,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 
 (3) Where section 33 of the Act continues to apply after a scheme has ceased to be contracted out, this regulation shall continue to apply so long as the circumstances provided for in subsections (3) or (4) of that section continue to apply.
 
-### 43. Termination of periods of contracted-out employment[^key-05027d368f582523e73e40e8c8476fde]
+### 43. Termination of periods of contracted-out employment[^c-05027d368f582523e73e40e8c8476fde]
 
 (1) Subject to paragraphs (2) and (7), an earner’s employment shall be treated as having ceased to be contracted-out employment when any of the following circumstances applies—
 
@@ -603,7 +603,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 - “holding company” has the same meaning as in regulation 12(2);
 - “state scheme premium” means a premium paid or payable under Chapter III of Part III of the Act before the principal appointed day, or under those provisions as continued in force by an order made under Article 1 of the Order.
 
-### 44. Notifications to the Department[^key-c9709d9f562c34f32b97ba4177b64895]
+### 44. Notifications to the Department[^c-c9709d9f562c34f32b97ba4177b64895]
 
 (1) Whenever an earner’s service in contracted-out employment is treated as terminated under regulation 43, the employer of that earner in that service shall, except where the termination is due to the death of the earner or occurs on a date later than the end of the tax year preceding that in which he attains pensionable age, or where the amount of a contributions equivalent premium in respect of that service would not exceed £17, notify the Department of that termination.
 
@@ -625,7 +625,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 
 (7) An employer to whom a contracting-out certificate has been issued or the trustees of the scheme to which the certificate relates shall, if required to do so by the Department, in such manner and at such times as the Department may reasonably require, furnish to the Department such information relating to members of that scheme to which the contracting-out certificate relates as it may reasonably require for the purpose of calculating guaranteed minimum pensions (including those to which persons are treated as entitled under section 44(2) of the Act), any entitlement arising in respect of section 5(2B) rights and in order to know for what, if any, protected rights the scheme is responsible, and from what minimum contributions, minimum payments or transfer payments they derive, and for related purposes.
 
-### 45. Approval of arrangements for schemes ceasing to be contracted out[^key-1ffb2e3f35191b8c85d7188403452052]
+### 45. Approval of arrangements for schemes ceasing to be contracted out[^c-1ffb2e3f35191b8c85d7188403452052]
 
 (1) Subject to regulation 74 (transitional arrangements relating to schemes ceasing to contract out before the principal appointed day), for the purposes of section 46(1B) of the Act[^f00041] (prescribed conditions to be met in order for arrangements to be approved on the cessation of contracting-out) arrangements shall not be approved by the Department unless the conditions specified in paragraphs (2) or (3) are satisfied.
 
@@ -642,7 +642,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 
 (4) For the purposes of paragraph (3)(*b*), in determining whether a scheme complies with the requirements concerning the calculation of protected rights in accordance with section 23(2) of the Act, regard shall be had only to any rights of the member to money purchase benefits which have accrued under the scheme up to the date it ceased to be contracted out.
 
-### 46. Supervision of schemes that have ceased to contract out[^key-bc0322a4b560617f37e704fd075a67eb]
+### 46. Supervision of schemes that have ceased to contract out[^c-bc0322a4b560617f37e704fd075a67eb]
 
 (1) Subject to such directions as the Department may give under section 49(1) of the Act[^f00045] (supervision of formerly contracted-out schemes) for the purposes of section 49(3) of the Act[^f00046] (requirement to discharge liabilities following issue of certificate of non-approval), the liabilities in respect of such entitlement or rights as are referred to in section 48(2A)(*a*) or (*b*) of the Act[^f00047] must, subject to paragraphs (2) to (4), be transferred or discharged in the manner permitted by regulation 45(2) within 6 months of the date a certificate of non-approval under section 46(2) of the Act[^f00048] is issued, unless the certificate has been cancelled.
 
@@ -652,7 +652,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 
 (4) Every active and deferred member with any entitlement to protected rights, guaranteed minimum pensions or section 5(2B) rights under the scheme must be notified of the issue of the certificate of non-approval and the reasons for it and allowed a period of 3 months from the date of such notification in which he may elect to transfer any such rights before they are discharged.
 
-### 47. Circumstances in which the Department may vary or cancel a contracting-out certificate[^key-1b7aa8f7086149688fde1abed586c9d0]
+### 47. Circumstances in which the Department may vary or cancel a contracting-out certificate[^c-1b7aa8f7086149688fde1abed586c9d0]
 
 (1) Where the Department has reason to suppose that any employment to which a contracting-out certificate applies should not continue to be contracted-out employment and the employer has not shown to the satisfaction of the Department that it should so continue, the Department may determine that the employment should not continue to be treated as contracted-out employment and where it so determines, it shall cancel or vary the certificate with effect, subject to paragraph (2), from such date as it may specify and the Department shall notify the employer in writing of its determination, the reasons for it and of the Department’s powers to review its determination.
 
@@ -671,7 +671,7 @@ The employer in relation to a scheme and the trustees of a scheme must provide t
 
 and the Department may require any such notice to include such particulars (including particulars of the consequences of the cancellation or variation) as it considers appropriate.
 
-### 48. Special provision for overseas schemes[^key-56b8315159fe4857b9b72fa3176b1e6f]
+### 48. Special provision for overseas schemes[^c-56b8315159fe4857b9b72fa3176b1e6f]
 
 (1) In the case of an overseas scheme the modification and, as the case may be, the additional requirements specified in this regulation apply.
 
@@ -705,7 +705,7 @@ and the Department may require any such notice to include such particulars (incl
 
 ## Part VI — Restoration of State Scheme Rights
 
-### 49. Insolvent schemes[^key-6fc417ebfa424c2f451cf83bd1de6f92]
+### 49. Insolvent schemes[^c-6fc417ebfa424c2f451cf83bd1de6f92]
 
 (1) Where paragraph 5(3B) of Schedule 1 to the Act[^f00053] applies in relation to a member of a contracted-out scheme which is being wound up and the conditions set out in paragraph (3) are satisfied, the member shall be treated as if sections 42 to 44[^f00054] or, as the case may be, 44A(1) of the Act[^f00055]—
 
@@ -735,14 +735,14 @@ and the Department may require any such notice to include such particulars (incl
 
 (5) In this regulation “Compensation Board” and “compensation provisions” have the same meaning as in Article 121(1) of the Order.
 
-### 50. Member to be informed of the option to restore state scheme rights[^key-c6706026a13e8f348d54fac1d8322a38]
+### 50. Member to be informed of the option to restore state scheme rights[^c-c6706026a13e8f348d54fac1d8322a38]
 
 Where the Department has advised the trustees of a scheme that it is of the opinion that the conditions referred to in paragraph 5(3A) of Schedule 1 to the Act are satisfied in respect of any member, the trustees must inform the member in writing of that fact—
 
 - (a) when they give notice of any proposal to discharge a liability of the scheme in respect of the member in accordance with regulations under Article 74 of the Order (discharge of liabilities by insurance, etc.) or under section 28A of the Act[^f00057] (discharge of protected rights on winding up: insurance policies);
 - (b) if no notice is given by the trustees in accordance with paragraph (*a*), when the member is advised of any other option available to discharge a liability of the scheme in respect of him.
 
-### 51. Election to pay contributions equivalent premium[^key-595b18572d8ef1deeff3341466341453]
+### 51. Election to pay contributions equivalent premium[^c-595b18572d8ef1deeff3341466341453]
 
 (1) For the purposes of section 51(2) of the Act[^f00058] (which provides for the prescribed person to elect to pay a contributions equivalent premium on termination of certified status) the prescribed person is the trustees of the scheme.
 
@@ -763,7 +763,7 @@ but in respect of any of the classes of case mentioned in this paragraph an empl
 
 (4) The Department may, in any particular case or class of case, extend the periods mentioned in paragraph (3) for the making of an election to pay a contributions equivalent premium if it appears to the Department that the circumstances are such that an election could not reasonably be made within the specified period.
 
-### 52. Payment of a contributions equivalent premium[^key-a2059ae1247133199bd00652a2b0a6dc]
+### 52. Payment of a contributions equivalent premium[^c-a2059ae1247133199bd00652a2b0a6dc]
 
 (1) A contributions equivalent premium which the trustees have elected to pay shall be paid on or before whichever is the later of the following days—
 
@@ -774,7 +774,7 @@ but in respect of any of the classes of case mentioned in this paragraph an empl
 
 (3) Any liability for a contributions equivalent premium shall be a liability to make payment out of the resources of the scheme.
 
-### 53. Payment in lieu of benefit and delay in refund for the purposes of employer’s right of recovery[^key-0b8d5655c530cfe22d3ba9eff96dac7d]
+### 53. Payment in lieu of benefit and delay in refund for the purposes of employer’s right of recovery[^c-0b8d5655c530cfe22d3ba9eff96dac7d]
 
 (1) For the purposes of section 57(10) of the Act (payments in lieu of benefit) a payment in lieu of benefit shall include a payment made or to be made out of the resources of the scheme towards the provision of deferred benefits for the earner.
 
@@ -792,7 +792,7 @@ but in respect of any of the classes of case mentioned in this paragraph an empl
 
 (6) Where the trustees of a scheme have given notice of delay they shall from time to time inform any person to whom they have given notice of the ending of the period of delay in relation to any refund affected by the notice.
 
-### 54. Refund of a contributions equivalent premium[^key-3ba97a8710e6cf8499453611818d5ba7]
+### 54. Refund of a contributions equivalent premium[^c-3ba97a8710e6cf8499453611818d5ba7]
 
 (1) The Department shall refund a contributions equivalent premium if—
 
@@ -825,7 +825,7 @@ there shall be paid out of the National Insurance Fund to the earner (or his est
 
 ## Part VII — Guaranteed Minimum Pensions
 
-### 55. Scheme rules about guaranteed minimum pensions[^key-d4dff109bf34afd6aa30622bbaad2d77]
+### 55. Scheme rules about guaranteed minimum pensions[^c-d4dff109bf34afd6aa30622bbaad2d77]
 
 (1) For a scheme to be contracted out in relation to an earner’s employment it must include a rule to the effect that if the earner has a guaranteed minimum under section 10 of the Act (earner’s guaranteed minimum)[^f00061]—
 
@@ -837,11 +837,11 @@ that rule to be expressed to override all other provisions of the scheme, except
 
 (2) In paragraph (1) “weekly rate” means, in cases where the pension is paid otherwise than at weekly intervals, a rate which is equivalent to the earner’s guaranteed minimum having regard to the period in respect of which the pension is paid.
 
-### 56. Special provision for revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^key-d6639882e5c63b731011ef2af7fca418]
+### 56. Special provision for revaluation of guaranteed minimum pensions secured by insurance policies or annuity contracts[^c-d6639882e5c63b731011ef2af7fca418]
 
 A scheme may make provision under section 12(2) of the Act (revaluation of guaranteed minimum pensions under section 130 of the Administration Act by reference to last service year[^f00062]) for the case of those of its members whose guaranteed minimum pensions are, or are to be, appropriately secured within the meaning of section 15(3) of the Act, notwithstanding that it makes no such provision for any other case.
 
-### 57. Circumstances in which widower’s guaranteed minimum pension is to be payable[^key-2ce2fac35baabae3b64edaa0d984b546]
+### 57. Circumstances in which widower’s guaranteed minimum pension is to be payable[^c-2ce2fac35baabae3b64edaa0d984b546]
 
 For the purposes of section 13(6) of the Act (for a scheme to be contracted out it must provide for a widower’s guaranteed minimum pension to be payable in prescribed circumstances and for a prescribed period) the prescribed circumstances are that—
 
@@ -854,7 +854,7 @@ For the purposes of section 13(6) of the Act (for a scheme to be contracted out 
   - (i) when the earner died, or
   - (ii) during a period when the circumstances mentioned in paragraph (*b*) existed.
 
-### 58. Period for which widower’s guaranteed minimum pension is to be payable[^key-8f7183e36f9df1606c90fd67e42e0f78]
+### 58. Period for which widower’s guaranteed minimum pension is to be payable[^c-8f7183e36f9df1606c90fd67e42e0f78]
 
 (1) For the purposes of section 13(6) of the Act the prescribed period is—
 
@@ -868,11 +868,11 @@ For the purposes of section 13(6) of the Act (for a scheme to be contracted out 
 - (b) during which he is under pensionable age and he and a woman to whom he is not married are living together as husband and wife, or
 - (c) after the widower has attained pensionable age if immediately before he attained that age he and a woman to whom he was not married were living together as husband and wife.
 
-### 59. Statutory references to persons entitled to guaranteed minimum pensions — application to widowers[^key-02b75e2d105069d3f5c9331127abbe44]
+### 59. Statutory references to persons entitled to guaranteed minimum pensions — application to widowers[^c-02b75e2d105069d3f5c9331127abbe44]
 
 Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be construed as if the reference to a person entitled to receive a guaranteed minimum pension included a reference to a person so entitled by virtue of being the widower of an earner only in the case where the earner and the widower were both over pensionable age when the earner died.
 
-### 60. Trivial commutation of guaranteed minimum pensions[^key-5b49e65801a662f5b2e980afcc70e8dc]
+### 60. Trivial commutation of guaranteed minimum pensions[^c-5b49e65801a662f5b2e980afcc70e8dc]
 
 (1) For the purposes of section 17(1) of the Act (provisions of a scheme relating to commutation), the prescribed circumstances are—
 
@@ -890,7 +890,7 @@ Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be
 - (b) in the case of an earner who retires before normal pension age, commutation is not permitted before the date on which benefits become payable to the earner under the scheme’s early retirement provisions;
 - (c) in cases where the earner is a member of more that one scheme relating to the same employment, all those schemes are being wound up or, as the case may be, he is treated by all those schemes as having retired and, in each case, all those schemes have paid a contributions equivalent premium.
 
-### 61. Suspension and forfeiture of guaranteed minimum pensions[^key-5d9ee4b9e9641e6566d8706da9e36409]
+### 61. Suspension and forfeiture of guaranteed minimum pensions[^c-5d9ee4b9e9641e6566d8706da9e36409]
 
 (1) For the purposes of section 17(2) of the Act (suspension and forfeiture of guaranteed minimum pension) the circumstances in which a scheme may provide for an earner’s or an earner’s widow’s or widower’s guaranteed minimum pension to be suspended are—
 
@@ -906,7 +906,7 @@ Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be
 - (b) in the case of a widow’s or widower’s guaranteed minimum pension, that the earner by reference to whose contracted-out employment that pension is payable has been convicted of an offence of treason, or has been convicted of offences and has been sentenced to terms of imprisonment as set out in sub-paragraph (*a*)(ii);
 - (c) in the case of any payment of guaranteed minimum pension for which a claim has not been made, that a period of at least 6 years has elapsed from the date on which that payment became due.
 
-### 62. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^key-5acdd5fed3329fb43595a054aa60bf03]
+### 62. Fixed rate revaluation of guaranteed minimum pensions for early leavers[^c-5acdd5fed3329fb43595a054aa60bf03]
 
 (1) This regulation applies to a case where a scheme provides, under section 12(2) of the Act (revaluation of earnings factors), for the earnings factors of an earner whose service in contracted-out employment by reference to the scheme is terminated before he attains pensionable age to be determined by reference to the last order that comes into force under section 130 of the Administration Act before the end of the tax year in which his service is terminated.
 
@@ -919,7 +919,7 @@ Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be
 
 (3) Paragraph (2) only applies so as to permit the same provision to be made for all members of the scheme, so however that separate provision may be made for members as regards their rights to guaranteed minimum pensions under the scheme arising in respect of a transfer or transfer payment made in accordance with section 16(1) (transfer of accrued rights) or section 24 (ways of giving effect to protected rights) of the Act[^f00067] or regulations made under those provisions or for members whose guaranteed minimum pensions are, or are to be, appropriately secured within the meaning of section 15(3) of the Act.
 
-### 63. Provision of information about guaranteed minimum pensions[^key-bc7a0cf4c53c58f0ca4bf53de5f6b8e6]
+### 63. Provision of information about guaranteed minimum pensions[^c-bc7a0cf4c53c58f0ca4bf53de5f6b8e6]
 
 (1) The prescribed persons to whom, under section 152 of the Act, the Department may furnish information as to the amount of guaranteed minimum pension to which it appears to the Department a person is immediately or prospectively entitled under a scheme or as to any other matter required for calculating that amount, are (in addition to the persons mentioned in that section)—
 
@@ -933,7 +933,7 @@ Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be
 - (a) as to the total amount of the guaranteed minimum pensions to which it appears to the Department that all persons immediately or prospectively entitled under the scheme are so entitled, or
 - (b) to be furnished with the written consent of the earner or widow or widower to whom the information relates.
 
-### 64. Meaning of “connected employer”[^key-ca6e842e5d90412492e6bc521a26fb3a]
+### 64. Meaning of “connected employer”[^c-ca6e842e5d90412492e6bc521a26fb3a]
 
 (1) The cases in which employers are to be treated as connected for the purposes of section 31 of the Act (surrender and cancellation: issue of further certificates) are those specified in paragraph (2).
 
@@ -945,7 +945,7 @@ Sections 46(1)(*a*)(ii)[^f00063] and 48(2A)(*a*)(i) of the Act[^f00064] shall be
 
 (3) In this regulation an employer is to be regarded as an employer at the relevant time where, as the case may require, he is the employer at the time of the surrender or cancellation of the first certificate or the employer at the time of the making of an election with a view to the issue of a further contracting-out certificate.
 
-### 65. Modification of section 12 of the Act[^key-b30cd889bb33f3c53b35187555f7a1ae]
+### 65. Modification of section 12 of the Act[^c-b30cd889bb33f3c53b35187555f7a1ae]
 
 In such a case as is specified in regulation 66—
 
@@ -956,7 +956,7 @@ In such a case as is specified in regulation 66—
 
   and as if section 12(3) of the Act had effect accordingly, save, in a case to which sub-paragraph (ii) applies, for treating the reference to the amount of the increase in section 12(3) of the Act as a reference to the amount by which the earnings factors relevant to the weekly equivalent would be increased.
 
-### 66. Circumstances in which the modifications to the Act set out in regulation 65 apply[^key-a3ca6e95207ba8b185059f5993c78597]
+### 66. Circumstances in which the modifications to the Act set out in regulation 65 apply[^c-a3ca6e95207ba8b185059f5993c78597]
 
 The case referred to in regulation 65 is where, following the termination of an earner’s service in contracted-out employment by reference to a scheme the following conditions are satisfied—
 
@@ -969,14 +969,14 @@ The case referred to in regulation 65 is where, following the termination of an 
   - (iii) if the transferring scheme provided for those earnings factors or the weekly equivalent derived therefrom to be increased in accordance with either section 12(2) and (3) of the Act or of regulations made under section 12(3) of the Act, the receiving scheme includes provision for those earnings factors to be increased by reference to orders under section 130 of the Administration Act from the date of termination of the earner’s service in the period of contracted-out employment from which those earnings factors arose, or
   - (iv) if a transfer of the earner’s accrued rights to the receiving scheme is not one to which sub-paragraph (*d*)(iii) applies and those rights were previously being increased at a rate calculated by reference to orders under section 130 of the Administration Act, the receiving scheme includes provision for those earnings factors or the weekly equivalent derived therefrom to be increased at a rate calculated otherwise than by reference to orders under section 130 of the Administration Act.
 
-### 67. Modification of section 47(1) of the Act in relation to revaluation and schemes which have ceased to be contracted out[^key-127b7ae12136fca49fe18023a68168ff]
+### 67. Modification of section 47(1) of the Act in relation to revaluation and schemes which have ceased to be contracted out[^c-127b7ae12136fca49fe18023a68168ff]
 
 Subject to regulation 68, in relation to a scheme which has ceased to be contracted out and, immediately before it so ceased, contained provision authorised by section 12(2) and (3) of the Act, section 47(1) to (3) of the Act[^f00068] shall be modified so as to provide that, in the case of an earner whose service in contracted-out employment by reference to the scheme is terminated before he attains pensionable age—
 
 - (a) if it is so terminated before the period of 5 years ending with the tax year in which the scheme ceases to be contracted out, the provision for taking his earnings factor for any relevant year to be that factor as increased by 12 per cent. for some or all of those tax years shall not apply, and
 - (b) if it is so terminated within that period of 5 years, the provision for taking his earnings factor for any relevant year to be that factor as increased by 12 per cent. for some or all of those tax years shall apply, but his weekly equivalent shall not be increased pursuant to any provision required by section 12(2) and (3) of the Act for the years for which that factor is taken to be that factor as increased by 12 per cent.
 
-### 68. Additional modifications relating to transfers and increases of earnings factors by 12 per cent.[^key-646656cec15923cdce1fe1b62fb26809]
+### 68. Additional modifications relating to transfers and increases of earnings factors by 12 per cent.[^c-646656cec15923cdce1fe1b62fb26809]
 
 (1) Subject to the provisions of paragraphs (2) and (3), in any case where an earner’s accrued rights to guaranteed minimum pensions are or have been transferred under section 16 of the Act or regulations made under that section to another contracted-out scheme, or have arisen in such a scheme by reason of a transfer payment giving effect to his protected rights in accordance with regulations made under section 24(2)(*b*) of the Act, references in regulation 67(*b*) to an increase of 12 per cent. of an earner’s earnings factor for any year shall be construed as references only to the increase of earnings factors arising from the earner’s service in employment by reference to which the scheme ceasing to contract out was contracted out.
 
@@ -987,7 +987,7 @@ Subject to regulation 68, in relation to a scheme which has ceased to be contrac
 - (a) that pension shall be treated as if it had arisen as a result of his service in the employment by reference to which the scheme ceasing to be contracted out was contracted out, and
 - (b) the reference to earnings factors, to the extent that they relate to that pension, shall be construed so as to include only those which do not fall to be revalued in accordance with section 12(2) and (3) of the Act as modified by those regulations.
 
-### 69. Miscellaneous provisions affecting section 47 of the Act[^key-adc1a8d0aff639ffa8b2f6d42858ce2b]
+### 69. Miscellaneous provisions affecting section 47 of the Act[^c-adc1a8d0aff639ffa8b2f6d42858ce2b]
 
 (1) Section 47(1) to (3) of the Act shall not apply where an earner’s accrued rights to guaranteed minimum pensions under the scheme which is ceasing to be contracted out are transferred to another contracted-out scheme in accordance with arrangements approved by the Department, and the same employer is the earner’s employer in relation to both the first and second schemes or the employers in relation to those schemes are connected employers.
 
@@ -995,7 +995,7 @@ Subject to regulation 68, in relation to a scheme which has ceased to be contrac
 
 ## Part VIII — Transitional Arrangements and Savings
 
-### 70. Transitional arrangements for certification of schemes[^key-8abce2bbd8e15a48f0130b5ce1378a52]
+### 70. Transitional arrangements for certification of schemes[^c-8abce2bbd8e15a48f0130b5ce1378a52]
 
 (1) In the case of a scheme contracted out under section 5(2) of the Act[^f00069], a contracting-out certificate issued before the principal appointed day shall continue to have effect during the period beginning with that day and ending on either—
 
@@ -1010,11 +1010,11 @@ provided that it is not otherwise cancelled or surrendered and the scheme satisf
 
 (3) A contracting-out certificate having effect on or after the principal appointed day by virtue of this regulation, shall have effect in relation to any earner’s service on and after that day as if the certificate were issued by the Department on or after that day.
 
-### 71. Elections for replacement certificates by salary related schemes during transitional period[^key-9ea4ee83479b7c1b884478a549f5e5b0]
+### 71. Elections for replacement certificates by salary related schemes during transitional period[^c-9ea4ee83479b7c1b884478a549f5e5b0]
 
 During the period beginning with the principal appointed day and ending on 31st January 1998 or such later date as the Department may allow in relation to a particular case or class of case, an election made with a view to the issue of a contracting-out certificate in relation to an employment which is to remain contracted out under section 5(2) of the Act on or after the principal appointed day must be made in compliance with regulation 2 and regulation 10 shall not apply.
 
-### 72. Transitional requirements as to sufficiency of resources of salary related schemes[^key-62585cc4ffc8f056c6364a4c44e013a4]
+### 72. Transitional requirements as to sufficiency of resources of salary related schemes[^c-62585cc4ffc8f056c6364a4c44e013a4]
 
 (1) Except in cases to which regulation 73 applies (schemes which have begun winding up before the principal appointed day), for the purposes of section 5(2B)(*c*)(i) of the Act[^f00071] (requirement as to the amount of the resources of the scheme) and section 21(2) of the Act[^f00072] (scheme to comply with prescribed requirements in relation to securing that the resources of the scheme are brought to and maintained at satisfactory level in respect of any earner’s service before the principal appointed day) at any time during the period of 10 years beginning with the principal appointed day or such longer period as the Department may specify in a particular case or class of case, the amount of resources of the scheme must be sufficient to meet the liabilities specified in paragraph (2).
 
@@ -1039,18 +1039,18 @@ and at any later time, there shall be excluded from the amount of resources of a
 
 (6) This regulation does not apply to a public service pension scheme to which Article 56 of the Order does not apply.
 
-### 73. Transitional arrangements and savings for salary related schemes which have begun winding up before the principal appointed day[^key-16e27c2dc9ee3163f57a93554acea10a]
+### 73. Transitional arrangements and savings for salary related schemes which have begun winding up before the principal appointed day[^c-16e27c2dc9ee3163f57a93554acea10a]
 
 Notwithstanding the revocations in Schedule 2, in the case of a scheme to which section 19(2) and (3) of the Act[^f00073] applies (securing of benefits on winding up)—
 
 - (a) regulation 37 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1985[^f00074] (priorities on the winding-up of a scheme) shall continue to have effect, and
 - (b) the resources of the scheme must be sufficient to meet the liabilities specified in section 20(1)(*c*) of the Act, such resources and liabilities being calculated, determined and verified in a manner approved by the Department.
 
-### 74. Transitional arrangements in relation to the powers of the Department to approve arrangements for schemes ceasing to contract out before the principal appointed day[^key-dd284a43f5a83037124b729ae084a93c]
+### 74. Transitional arrangements in relation to the powers of the Department to approve arrangements for schemes ceasing to contract out before the principal appointed day[^c-dd284a43f5a83037124b729ae084a93c]
 
 In the case of a scheme which ceased to be certified as contracted out before the principal appointed day, the Department may approve arrangements under section 46(1) or (1A) of the Act[^f00075], notwithstanding that the conditions prescribed under section 46(1B) of the Act are not met.
 
-### 75. Transitional modifications to sections 31 and 32 of the Act[^key-ec56aac9a4426e637ee98b3c0fdcf124]
+### 75. Transitional modifications to sections 31 and 32 of the Act[^c-ec56aac9a4426e637ee98b3c0fdcf124]
 
 Sections 31 and 32 of the Act (surrender and cancellation of contracting-out certificates: issue and cancellation of further certificates) shall be modified for transitional purposes until the coming into operation of an order under Article 1 of the Order repealing those provisions as follows—
 
@@ -1060,7 +1060,7 @@ Sections 31 and 32 of the Act (surrender and cancellation of contracting-out cer
 - (d) in section 32(1)(*c*) of the Act, for “have formed” there shall be substituted “has formed”, for “had they been aware” there shall be substituted “had it been aware” and for “they would have been prevented” there shall be substituted “it would have been prevented”, and
 - (e) in section 32(6) of the Act, for “have cancelled” there shall be substituted “has cancelled”.
 
-### 76. Prevention of recovery by employers of Class 1 contributions where certificate cancelled under section 32(3) of the Act[^key-626d3f5937c076ef903b0002d80a3c34]
+### 76. Prevention of recovery by employers of Class 1 contributions where certificate cancelled under section 32(3) of the Act[^c-626d3f5937c076ef903b0002d80a3c34]
 
 (1) This regulation shall apply in any case where the Occupational Pensions Board or the Department has cancelled a contracting-out certificate under section 32(3) of the Act.
 
@@ -1068,7 +1068,7 @@ Sections 31 and 32 of the Act (surrender and cancellation of contracting-out cer
 
 (3) This regulation shall apply notwithstanding the terms of any contract to the contrary.
 
-### 77. Transitional arrangements for schemes contracted out under section 5(2) of the Act to become contracted out under section 5(3) of the Act[^key-4af727b8b54200490eabe4546cd68ca7]
+### 77. Transitional arrangements for schemes contracted out under section 5(2) of the Act to become contracted out under section 5(3) of the Act[^c-4af727b8b54200490eabe4546cd68ca7]
 
 (1) This regulation applies where a scheme, which is a salary related contracted-out scheme immediately before the principal appointed day, satisfies the requirements of section 5(3) of the Act in respect of all earners' service on or immediately after that day.
 
@@ -1085,7 +1085,7 @@ Sections 31 and 32 of the Act (surrender and cancellation of contracting-out cer
 
 but shall continue to have effect during that period if it is not otherwise cancelled or surrendered and the scheme satisfies the conditions of section 5(3) of the Act.
 
-### 78. Savings in respect of State Scheme Premiums[^key-b65343cd3dc5fab51bd3ab0201800d3c]
+### 78. Savings in respect of State Scheme Premiums[^c-b65343cd3dc5fab51bd3ab0201800d3c]
 
 Notwithstanding the revocations in Schedule 2, the following regulations shall continue to have effect in relation to any state scheme premium which has been paid before the principal appointed day or is payable immediately before that day—
 
@@ -1094,7 +1094,7 @@ Notwithstanding the revocations in Schedule 2, the following regulations shall c
 
 ## Part IX — Revocations
 
-### 79. Revocations[^key-2284fe1915b0510a54918139196eee17]
+### 79. Revocations[^c-2284fe1915b0510a54918139196eee17]
 
 Subject to the savings provided for in regulations 73, 77 and 78 the Regulations listed in column 2 of Schedule 2 are revoked to the extent specified in column 3 of that Schedule.
 
@@ -1106,7 +1106,7 @@ Assistant Secretary
 
 16th October 1996.
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-502130136d9769f9241c167245a82cfc]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-502130136d9769f9241c167245a82cfc]
 
 | *Column (1)* | *Column (2)* |
 | --- | --- |
@@ -1147,7 +1147,7 @@ Assistant Secretary
 | Pensions (Northern Ireland) Order 1995[^f00096] | Article 1(5)(*a*) |
 |  | Article 166(4) |
 
-## SCHEDULE 2 — REVOCATIONS[^key-b2b198348ac8b2a03d862f5bb5efbc72]
+## SCHEDULE 2 — REVOCATIONS[^c-b2b198348ac8b2a03d862f5bb5efbc72]
 
 Regulation 79
 
@@ -1216,7 +1216,7 @@ Revocations are made in regulation 79 and Schedule 2.
 
 ## Annotations
 
-[^key-4b9ae4884d947e108b2be4c4a6d818ac]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-4b9ae4884d947e108b2be4c4a6d818ac]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -1242,15 +1242,15 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c4aa2282cdd5685a3028a004cc30d396]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c4aa2282cdd5685a3028a004cc30d396]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-f54459c864aa38f3c4a71c2c230cd539]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-f54459c864aa38f3c4a71c2c230cd539]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-c7127637ffd88511dc57ceb23ede921e]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c7127637ffd88511dc57ceb23ede921e]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-1d76a0797b748fc62a08ab59d8229a0c]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-1d76a0797b748fc62a08ab59d8229a0c]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-78bb6648e9d03b3b414b7c9031c0f1b6]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-78bb6648e9d03b3b414b7c9031c0f1b6]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00013]: Footnote: Section 5(2) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
@@ -1258,17 +1258,17 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00015]: Footnote: Section 4(1)(*a*) was amended by Article 133(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-aa847446a4ad6b7dd8253e5469108558]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-aa847446a4ad6b7dd8253e5469108558]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-4b105cc661ab548b402995c33d3cbfee]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-4b105cc661ab548b402995c33d3cbfee]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-92a2437c87f84d965a9752561605d486]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-92a2437c87f84d965a9752561605d486]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-5e3281702003bf0998c0211bfd54b6af]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-5e3281702003bf0998c0211bfd54b6af]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-67cdb837c89ba0c4f2645b993d9dfe44]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-67cdb837c89ba0c4f2645b993d9dfe44]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-0d9b11fd85b3a6398dacaccdcfcf950e]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-0d9b11fd85b3a6398dacaccdcfcf950e]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00016]: Footnote: Section 590A was inserted by paragraph 4 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26). *See also* paragraph 18(2) of Schedule 6 to that Act
 
@@ -1276,115 +1276,115 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00018]: Footnote: Section 3(1) was amended by paragraph 15(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 and section 30(1)(*a*) and (2) was amended by paragraphs 14 and 30 of that Schedule
 
-[^key-49d00276d52e0270135c5e6cf3f998a2]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-49d00276d52e0270135c5e6cf3f998a2]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-9560a0779bd67b7b9adb40eada26c8db]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-9560a0779bd67b7b9adb40eada26c8db]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-bcc1ec11109e34fc68c7ce04c83e33e8]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-bcc1ec11109e34fc68c7ce04c83e33e8]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-e77d1a1c34e9d4e3f80a83cd032fdc4a]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-e77d1a1c34e9d4e3f80a83cd032fdc4a]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00019]: Footnote: Section 46 is amended by paragraphs 14 and 37 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
 [^f00020]: Footnote: Section 8A was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
-[^key-ab9d811f920270edffcb95557819821b]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-ab9d811f920270edffcb95557819821b]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00021]: Footnote: Section 5(2B) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
-[^key-1682d16fde35023c3675214d95e8f92e]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-1682d16fde35023c3675214d95e8f92e]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-670fca1920e263e69e17579a9ff5c6fb]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-670fca1920e263e69e17579a9ff5c6fb]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00022]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-580099b6898354e56ea89c3d5c5d04ec]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-580099b6898354e56ea89c3d5c5d04ec]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00023]: Footnote: Sections 8C and 8D were inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
-[^key-4706ef9de4bfd73fa832aeb657ff6569]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-4706ef9de4bfd73fa832aeb657ff6569]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00024]: Footnote: Sections 8C and 8D were inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
-[^key-d5462101e86cf8280a63f666c913ad2f]: Commencement: Reg. 22 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-d5462101e86cf8280a63f666c913ad2f]: Commencement: Reg. 22 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-7a71731c35b4c7f7b8da488246664679]: Commencement: Reg. 23 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-7a71731c35b4c7f7b8da488246664679]: Commencement: Reg. 23 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00025]: Footnote: The Institute of Actuaries is at Staple Inn Hall, High Holborn, London WC1V 7QJ. The Faculty of Actuaries is at 40-44 Thistle Street, Edinburgh EH2 1EN
 
-[^key-9057eaa8b106d4c5fb7d58a9386de509]: Commencement: Reg. 24 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-9057eaa8b106d4c5fb7d58a9386de509]: Commencement: Reg. 24 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-f2502a5339e8333dacbfff0417696b63]: Commencement: Reg. 25 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-f2502a5339e8333dacbfff0417696b63]: Commencement: Reg. 25 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-ccc3738b450f0bd257517ff7a345fb75]: Commencement: Reg. 26 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-ccc3738b450f0bd257517ff7a345fb75]: Commencement: Reg. 26 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-2c702870571ffda411a49b85e03172d7]: Commencement: Reg. 27 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-2c702870571ffda411a49b85e03172d7]: Commencement: Reg. 27 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-0e6c7e29d8ca0ad7a6d3b158478b5dd0]: Commencement: Reg. 28 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-0e6c7e29d8ca0ad7a6d3b158478b5dd0]: Commencement: Reg. 28 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00026]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6); the relevant provisions were repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38) but continued in force by [S.R. 1975 No. 48](https://www.legislation.gov.uk/nisr/1975/48)
 
-[^key-9f312796b377f8e2327eecb9f15ba6c9]: Commencement: Reg. 29 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-9f312796b377f8e2327eecb9f15ba6c9]: Commencement: Reg. 29 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-420421313ca3beba4d810b497be3637d]: Commencement: Reg. 30 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-420421313ca3beba4d810b497be3637d]: Commencement: Reg. 30 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00027]: Footnote: Section 5(3) was amended by Article 133(4) of the Pensions (Northern Ireland) Order 1995 and is amended by paragraph 17 of Schedule 3 to that Order
 
-[^key-885f5fdbccccd45eb4a21173e002e9c7]: Commencement: Reg. 31 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-885f5fdbccccd45eb4a21173e002e9c7]: Commencement: Reg. 31 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00028]: Footnote: Section 38B was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
 
 [^f00029]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); regulation 17B was inserted by regulation 2 of [S.R. 1983 No. 64](https://www.legislation.gov.uk/nisr/1983/64)
 
-[^key-ee21ea8c6bd57ee5cb7988a6500cba2d]: Commencement: Reg. 32 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-ee21ea8c6bd57ee5cb7988a6500cba2d]: Commencement: Reg. 32 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00030]: Footnote: Section 4(1) was amended by Article 133(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-18c09bf9766f4d40c0669755e9e0c879]: Commencement: Reg. 33 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-18c09bf9766f4d40c0669755e9e0c879]: Commencement: Reg. 33 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-2a8dd95cac13b9f4cac6168d780b9e0c]: Commencement: Reg. 34 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-2a8dd95cac13b9f4cac6168d780b9e0c]: Commencement: Reg. 34 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-6d3a875475a8e1234af485be4ea09594]: Commencement: Reg. 35 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-6d3a875475a8e1234af485be4ea09594]: Commencement: Reg. 35 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-880ffd60cd1fde63b57a96098233b6ef]: Commencement: Reg. 36 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-880ffd60cd1fde63b57a96098233b6ef]: Commencement: Reg. 36 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00031]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
 
 [^f00032]: Footnote: Section 41B was inserted by Article 136 of the Pensions (Northern Ireland) Order 1995
 
-[^key-c8b803637fe11b16bd9d16c957a2615d]: Commencement: Reg. 37 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c8b803637fe11b16bd9d16c957a2615d]: Commencement: Reg. 37 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00033]: Footnote: Section 24(1) was amended by Articles 139 and 143(2) of the Pensions (Northern Ireland) Order 1995
 
 [^f00034]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-c31c9d87b9b539eb3088cd2cf8274bcb]: Commencement: Reg. 38 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c31c9d87b9b539eb3088cd2cf8274bcb]: Commencement: Reg. 38 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-1bf64f63248337977852b3e9e97b5769]: Commencement: Reg. 39 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-1bf64f63248337977852b3e9e97b5769]: Commencement: Reg. 39 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-73f2493a5269bdd3a09f4ccb4bcdd2ee]: Commencement: Reg. 40 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-73f2493a5269bdd3a09f4ccb4bcdd2ee]: Commencement: Reg. 40 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00035]: Footnote: Section 5(3)(*aa*) was inserted by Article 133(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-61a6ad242a7dfe208c1ea7e821e47d9f]: Commencement: Reg. 41 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-61a6ad242a7dfe208c1ea7e821e47d9f]: Commencement: Reg. 41 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-2c1de8a36ef70eec052217109a2bebc5]: Commencement: Reg. 42 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-2c1de8a36ef70eec052217109a2bebc5]: Commencement: Reg. 42 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00036]: Footnote: Section 33 was substituted by paragraph 32 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
 [^f00037]: Footnote: Section 5(2A) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
-[^key-05027d368f582523e73e40e8c8476fde]: Commencement: Reg. 43 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-05027d368f582523e73e40e8c8476fde]: Commencement: Reg. 43 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00038]: Footnote: Section 12(3) was amended by paragraph 21(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
 [^f00039]: Footnote: [S.I. 1976/2147 (N.I. 28)](https://www.legislation.gov.uk/nisi/1976/2147); Article 20 was substituted by Schedule 1 to the Industrial Relations (Northern Ireland) Order 1993 ([S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668))
 
-[^key-c9709d9f562c34f32b97ba4177b64895]: Commencement: Reg. 44 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c9709d9f562c34f32b97ba4177b64895]: Commencement: Reg. 44 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00040]: Footnote: Section 44(2) was amended by paragraph 56 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12))](https://www.legislation.gov.uk/nisi/1994/1898) and Article 137(2) of the Pensions (Northern Ireland) Order 1995; *see also* Article 137(3) of that Order
 
-[^key-1ffb2e3f35191b8c85d7188403452052]: Commencement: Reg. 45 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-1ffb2e3f35191b8c85d7188403452052]: Commencement: Reg. 45 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00041]: Footnote: Section 46(1B) was inserted by paragraph 37(*b*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
@@ -1394,7 +1394,7 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00044]: Footnote: Subsections (2) to (2C) were substituted for section 5(2) by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
-[^key-bc0322a4b560617f37e704fd075a67eb]: Commencement: Reg. 46 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-bc0322a4b560617f37e704fd075a67eb]: Commencement: Reg. 46 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00045]: Footnote: Section 49(1) was substituted by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
@@ -1406,9 +1406,9 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00049]: Footnote: [S.R. 1985 No. 356](https://www.legislation.gov.uk/nisr/1985/356); regulation 5 was substituted by paragraph 1 of Schedule 1 to [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37) and was amended by paragraph 4(9) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-1b7aa8f7086149688fde1abed586c9d0]: Commencement: Reg. 47 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-1b7aa8f7086149688fde1abed586c9d0]: Commencement: Reg. 47 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-56b8315159fe4857b9b72fa3176b1e6f]: Commencement: Reg. 48 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-56b8315159fe4857b9b72fa3176b1e6f]: Commencement: Reg. 48 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00050]: Footnote: Section 8A was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
@@ -1416,7 +1416,7 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00052]: Footnote: Section 80(5) is amended by paragraph 52 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-6fc417ebfa424c2f451cf83bd1de6f92]: Commencement: Reg. 49 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-6fc417ebfa424c2f451cf83bd1de6f92]: Commencement: Reg. 49 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00053]: Footnote: Paragraph 5(3B) of Schedule 1 was inserted by Article 138(2) of the Pensions (Northern Ireland) Order 1995
 
@@ -1426,109 +1426,109 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00056]: Footnote: Paragraph 5(3A) to (3D) of Schedule 1 was inserted by Article 138(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-c6706026a13e8f348d54fac1d8322a38]: Commencement: Reg. 50 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-c6706026a13e8f348d54fac1d8322a38]: Commencement: Reg. 50 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00057]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-595b18572d8ef1deeff3341466341453]: Commencement: Reg. 51 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-595b18572d8ef1deeff3341466341453]: Commencement: Reg. 51 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00058]: Footnote: Section 51(2) was substituted by Article 138(1) of the Pensions (Northern Ireland) Order 1995
 
 [^f00059]: Footnote: Section 51(2A) was substituted by Article 138(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-a2059ae1247133199bd00652a2b0a6dc]: Commencement: Reg. 52 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-a2059ae1247133199bd00652a2b0a6dc]: Commencement: Reg. 52 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-0b8d5655c530cfe22d3ba9eff96dac7d]: Commencement: Reg. 53 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-0b8d5655c530cfe22d3ba9eff96dac7d]: Commencement: Reg. 53 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-3ba97a8710e6cf8499453611818d5ba7]: Commencement: Reg. 54 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-3ba97a8710e6cf8499453611818d5ba7]: Commencement: Reg. 54 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00060]: Footnote: Section 37(1A) was substituted by Article 134(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-d4dff109bf34afd6aa30622bbaad2d77]: Commencement: Reg. 55 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-d4dff109bf34afd6aa30622bbaad2d77]: Commencement: Reg. 55 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00061]: Footnote: Section 10 is amended by paragraph 20 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-d6639882e5c63b731011ef2af7fca418]: Commencement: Reg. 56 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-d6639882e5c63b731011ef2af7fca418]: Commencement: Reg. 56 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00062]: Footnote: Section 130 was amended by paragraph 40 of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993. *See also* Article 125(3) and (4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-2ce2fac35baabae3b64edaa0d984b546]: Commencement: Reg. 57 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-2ce2fac35baabae3b64edaa0d984b546]: Commencement: Reg. 57 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-8f7183e36f9df1606c90fd67e42e0f78]: Commencement: Reg. 58 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-8f7183e36f9df1606c90fd67e42e0f78]: Commencement: Reg. 58 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-02b75e2d105069d3f5c9331127abbe44]: Commencement: Reg. 59 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-02b75e2d105069d3f5c9331127abbe44]: Commencement: Reg. 59 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00063]: Footnote: Section 46(1)(*a*)(ii) is amended by paragraph 37 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
 [^f00064]: Footnote: Section 48(2A) is substituted by paragraph 39 of the Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-5b49e65801a662f5b2e980afcc70e8dc]: Commencement: Reg. 60 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-5b49e65801a662f5b2e980afcc70e8dc]: Commencement: Reg. 60 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00065]: Footnote: Section 12(3) was amended by paragraph 21(*a*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-5d9ee4b9e9641e6566d8706da9e36409]: Commencement: Reg. 61 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-5d9ee4b9e9641e6566d8706da9e36409]: Commencement: Reg. 61 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00066]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28); [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75); [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121); [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6)
 
-[^key-5acdd5fed3329fb43595a054aa60bf03]: Commencement: Reg. 62 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-5acdd5fed3329fb43595a054aa60bf03]: Commencement: Reg. 62 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00067]: Footnote: Section 24 was amended by Article 139 of, and paragraph 27(*b*) of Schedule 3 to, the Pensions (Northern Ireland) Order 1995 and is amended by Article 143(2) of that Order
 
-[^key-bc7a0cf4c53c58f0ca4bf53de5f6b8e6]: Commencement: Reg. 63 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-bc7a0cf4c53c58f0ca4bf53de5f6b8e6]: Commencement: Reg. 63 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-ca6e842e5d90412492e6bc521a26fb3a]: Commencement: Reg. 64 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-ca6e842e5d90412492e6bc521a26fb3a]: Commencement: Reg. 64 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-b30cd889bb33f3c53b35187555f7a1ae]: Commencement: Reg. 65 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-b30cd889bb33f3c53b35187555f7a1ae]: Commencement: Reg. 65 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-a3ca6e95207ba8b185059f5993c78597]: Commencement: Reg. 66 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-a3ca6e95207ba8b185059f5993c78597]: Commencement: Reg. 66 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-127b7ae12136fca49fe18023a68168ff]: Commencement: Reg. 67 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-127b7ae12136fca49fe18023a68168ff]: Commencement: Reg. 67 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00068]: Footnote: Section 47(1) was amended by paragraph 38 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-646656cec15923cdce1fe1b62fb26809]: Commencement: Reg. 68 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-646656cec15923cdce1fe1b62fb26809]: Commencement: Reg. 68 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-adc1a8d0aff639ffa8b2f6d42858ce2b]: Commencement: Reg. 69 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-adc1a8d0aff639ffa8b2f6d42858ce2b]: Commencement: Reg. 69 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-8abce2bbd8e15a48f0130b5ce1378a52]: Commencement: Reg. 70 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-8abce2bbd8e15a48f0130b5ce1378a52]: Commencement: Reg. 70 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00069]: Footnote: Section 5(2) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
 [^f00070]: Footnote: Section 5(3) was amended by Article 133(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-9ea4ee83479b7c1b884478a549f5e5b0]: Commencement: Reg. 71 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-9ea4ee83479b7c1b884478a549f5e5b0]: Commencement: Reg. 71 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-62585cc4ffc8f056c6364a4c44e013a4]: Commencement: Reg. 72 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-62585cc4ffc8f056c6364a4c44e013a4]: Commencement: Reg. 72 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00071]: Footnote: Section 5(2B) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995
 
 [^f00072]: Footnote: Section 21(2) was substituted by paragraph 26(*b*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-16e27c2dc9ee3163f57a93554acea10a]: Commencement: Reg. 73 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-16e27c2dc9ee3163f57a93554acea10a]: Commencement: Reg. 73 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00073]: Footnote: *See* paragraph 24 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
 [^f00074]: Footnote: [S.R. 1985 No. 259](https://www.legislation.gov.uk/nisr/1985/259); regulation 37 was amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-dd284a43f5a83037124b729ae084a93c]: Commencement: Reg. 74 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-dd284a43f5a83037124b729ae084a93c]: Commencement: Reg. 74 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00075]: Footnote: Section 46(1A) and (1B) was inserted by paragraph 37(*b*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-ec56aac9a4426e637ee98b3c0fdcf124]: Commencement: Reg. 75 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-ec56aac9a4426e637ee98b3c0fdcf124]: Commencement: Reg. 75 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-626d3f5937c076ef903b0002d80a3c34]: Commencement: Reg. 76 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-626d3f5937c076ef903b0002d80a3c34]: Commencement: Reg. 76 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-4af727b8b54200490eabe4546cd68ca7]: Commencement: Reg. 77 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-4af727b8b54200490eabe4546cd68ca7]: Commencement: Reg. 77 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-b65343cd3dc5fab51bd3ab0201800d3c]: Commencement: Reg. 78 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-b65343cd3dc5fab51bd3ab0201800d3c]: Commencement: Reg. 78 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00076]: Footnote: [S.R. 1985 No. 259](https://www.legislation.gov.uk/nisr/1985/259); relevant amending regulations are [S.R. 1985 No. 355](https://www.legislation.gov.uk/nisr/1985/355), [S.R. 1986 Nos. 57](https://www.legislation.gov.uk/nisr/1986/57) and [342](https://www.legislation.gov.uk/nisr/1986/342), [S.R. 1987 Nos. 281](https://www.legislation.gov.uk/nisr/1987/281), [284](https://www.legislation.gov.uk/nisr/1987/284) and [292](https://www.legislation.gov.uk/nisr/1987/292), [S.R. 1988 No. 108](https://www.legislation.gov.uk/nisr/1988/108), [S.R. 1989 No. 105](https://www.legislation.gov.uk/nisr/1989/105), [S.R. 1990 No. 203](https://www.legislation.gov.uk/nisr/1990/203), [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1993 No. 126](https://www.legislation.gov.uk/nisr/1993/126) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00077]: Footnote: [S.R. 1987 No. 281](https://www.legislation.gov.uk/nisr/1987/281) as amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-2284fe1915b0510a54918139196eee17]: Commencement: Reg. 79 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-2284fe1915b0510a54918139196eee17]: Commencement: Reg. 79 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
-[^key-502130136d9769f9241c167245a82cfc]: Commencement: Sch. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-502130136d9769f9241c167245a82cfc]: Commencement: Sch. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
 
 [^f00078]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -1568,4 +1568,4 @@ Revocations are made in regulation 79 and Schedule 2.
 
 [^f00096]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-b2b198348ac8b2a03d862f5bb5efbc72]: Commencement: Sch. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)
+[^c-b2b198348ac8b2a03d862f5bb5efbc72]: Commencement: Sch. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/493/regulation/1/1)

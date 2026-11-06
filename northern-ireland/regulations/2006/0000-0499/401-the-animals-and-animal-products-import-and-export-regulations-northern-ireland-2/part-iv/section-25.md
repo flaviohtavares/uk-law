@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Imports[^key-fbaf0ef7444009df336e61727d842905]
+## 25. Imports[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)
+[^c-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)

@@ -35,11 +35,11 @@ An Act to establish public ownership and control of the coal-mining industry and
 
 ## The National Coal Board
 
-### 1. Establishment of National Coal Board and functions thereof.[^key-7a10b2ebd0d16eaaf57ac6e336095ba6]
+### 1. Establishment of National Coal Board and functions thereof.[^c-7a10b2ebd0d16eaaf57ac6e336095ba6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Constitution of the Board.[^key-50a31fa56435dd039e37a993a8dd5d8a]
+### 2. Constitution of the Board.[^c-50a31fa56435dd039e37a993a8dd5d8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,7 +51,7 @@ An Act to establish public ownership and control of the coal-mining industry and
 
 (3)[^c6409801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8c658bd546f0a94c8a8ac44e73a34812][^c6409831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8c658bd546f0a94c8a8ac44e73a34812][^c6409831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Consumers’ councils.[^c6410051]
 
@@ -65,7 +65,7 @@ An Act to establish public ownership and control of the coal-mining industry and
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6410101]
 
-(6)[^key-fa4c37823df8c9a69aaa0ae3164cde24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fa4c37823df8c9a69aaa0ae3164cde24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,39 +93,39 @@ An Act to establish public ownership and control of the coal-mining industry and
 
 ### 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6410291]
 
-### 27. Temporary borrowing powers of the Board.[^key-331540689f8b2f6c7b6d6f46ff13413e]
+### 27. Temporary borrowing powers of the Board.[^c-331540689f8b2f6c7b6d6f46ff13413e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Payments to the Minister by the Corporation.[^key-ad9d66844bcf70297a09baafb66a9489]
+### 28. Payments to the Minister by the Corporation.[^c-ad9d66844bcf70297a09baafb66a9489]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Reserve fund of the Board.[^key-865c8a17d95882fc0e112469d6fc62b2]
+### 29. Reserve fund of the Board.[^c-865c8a17d95882fc0e112469d6fc62b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6410881]
 
-### 31. Board’s accounts and audit thereof.[^key-c6f81bfdcbf02585a9b247e88168c0b5]
+### 31. Board’s accounts and audit thereof.[^c-c6f81bfdcbf02585a9b247e88168c0b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Issue of stock in exchange for Coal Commission Stock.[^key-c6f81bfdcbf02585a9b247e88168c0b5]
+### 32. Issue of stock in exchange for Coal Commission Stock.[^c-c6f81bfdcbf02585a9b247e88168c0b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. General provisions as to stock.[^key-c6f81bfdcbf02585a9b247e88168c0b5]
+### 33. General provisions as to stock.[^c-c6f81bfdcbf02585a9b247e88168c0b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 34. Issues out of the Consolidated Fund for money payments and for advances to the Board.
 
-(1)[^key-5c876ae6578e6975e482e9aa70f6e7b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5c876ae6578e6975e482e9aa70f6e7b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c6411431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Account of Minister’s receipts.[^key-6df8af06d045783f8906f79eeefe5f1a]
+### 35. Account of Minister’s receipts.[^c-6df8af06d045783f8906f79eeefe5f1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,11 +202,11 @@ In reckoning any such period of forty days as aforesaid, no account shall be tak
 
 ## Miscellaneous provisions as to the Corporation
 
-### 46. Duty of the Corporation as to establishment of machinery for settlement of terms and conditions of employment, etc.[^key-70f8d4313be29dacefb72a8eee3d8bb0]
+### 46. Duty of the Corporation as to establishment of machinery for settlement of terms and conditions of employment, etc.[^c-70f8d4313be29dacefb72a8eee3d8bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Corporation not to be exempt from taxation, etc.[^key-cbbacae7001e69f2da2d39e7efe7d9f4]
+### 47. Corporation not to be exempt from taxation, etc.[^c-cbbacae7001e69f2da2d39e7efe7d9f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -218,9 +218,9 @@ In reckoning any such period of forty days as aforesaid, no account shall be tak
 
 (2)[^c6412531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c1b7fc75c21a4d77352920aaa4e6fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c1b7fc75c21a4d77352920aaa4e6fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c1b7fc75c21a4d77352920aaa4e6fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c1b7fc75c21a4d77352920aaa4e6fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 50. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6412631]
 
@@ -230,23 +230,23 @@ In reckoning any such period of forty days as aforesaid, no account shall be tak
 
 ### 53. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6412711]
 
-### 54. Annual report of the Corporation.[^key-928105d9d013253ef31457f509b57053]
+### 54. Annual report of the Corporation.[^c-928105d9d013253ef31457f509b57053]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## General
 
-### 55. Payment of certain expenses of the Minister out of moneys provided by Parliament.[^key-e1d496e51416e327f1d12eac50389096]
+### 55. Payment of certain expenses of the Minister out of moneys provided by Parliament.[^c-e1d496e51416e327f1d12eac50389096]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 56. Restriction on disclosure of information.
 
-(1) No information relating to any individual business, being information which has been obtained by, or on behalf of, any person for the purposes of functions of his under this Act, shall, without the previous consent in writing of the owner for the time being of that business, be published or disclosed otherwise than in connection with the execution, or for the purposes of, this Act *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] or the Coal Industry Act 1994[^c6412991] *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]or of any regulation having effect by virtue of *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] those Acts[^c6413001] *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096].
+(1) No information relating to any individual business, being information which has been obtained by, or on behalf of, any person for the purposes of functions of his under this Act, shall, without the previous consent in writing of the owner for the time being of that business, be published or disclosed otherwise than in connection with the execution, or for the purposes of, this Act *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] or the Coal Industry Act 1994[^c6412991] *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]or of any regulation having effect by virtue of *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] those Acts[^c6413001] *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096].
 
-(2) Nothing in the preceding subsection shall apply to any publication or disclosure of any information made for the purposes of any legal proceedings (including arbitrations) pursuant to this Act *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] or the Coal Industry Act 1994 *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096], or of any criminal proceedings which may be taken whether pursuant to *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] those Acts *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] or otherwise, or for the purposes of any report of any such proceedings as aforesaid. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(2) Nothing in the preceding subsection shall apply to any publication or disclosure of any information made for the purposes of any legal proceedings (including arbitrations) pursuant to this Act *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] or the Coal Industry Act 1994 *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096], or of any criminal proceedings which may be taken whether pursuant to *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] those Acts *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] or otherwise, or for the purposes of any report of any such proceedings as aforesaid. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(3) If any person publishes or discloses any information in contravention of this section, he shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding fifty pounds or to both such imprisonment and such fine, or, on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine not exceeding one hundred pounds or to both such imprisonment and such fine. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(3) If any person publishes or discloses any information in contravention of this section, he shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding fifty pounds or to both such imprisonment and such fine, or, on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine not exceeding one hundred pounds or to both such imprisonment and such fine. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 ### 57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6413091]
 
@@ -254,107 +254,107 @@ In reckoning any such period of forty days as aforesaid, no account shall be tak
 
 ### 59. Provisions as to prosecutions, and as to offences by corporations.
 
-(1) Proceedings for an offence against this Act or regulations made thereunder shall not, in England, be instituted except by or with the consent of the Minister or by the Director of Public Prosecutions. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(1) Proceedings for an offence against this Act or regulations made thereunder shall not, in England, be instituted except by or with the consent of the Minister or by the Director of Public Prosecutions. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(2) Where an offence against this Act or regulations made thereunder has been committed by a body corporate, every person who at the time of the commission of the offence was a director or officer of the body corporate, or was purporting to act in any such capacity, shall be deemed to be guilty of that offence, unless he proves that the contravention was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(2) Where an offence against this Act or regulations made thereunder has been committed by a body corporate, every person who at the time of the commission of the offence was a director or officer of the body corporate, or was purporting to act in any such capacity, shall be deemed to be guilty of that offence, unless he proves that the contravention was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 ### 60. Service of notices, etc.
 
-Any notice or other document required or authorised to be given, made, delivered or served under this Act or regulations made thereunder may be given, made, delivered or served either— *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+Any notice or other document required or authorised to be given, made, delivered or served under this Act or regulations made thereunder may be given, made, delivered or served either— *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-- (a) by delivering it to the person to whom it is to be given, made or delivered, or on whom it is to be served; or *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (b) by leaving it at the usual or last known place of abode of that person; or *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (c)[^c6413121] by sending it in a prepaid registered letter addressed to that person at his usual or last known place of abode; or *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (d) in the case of an incorporated company or body, the Central Valuation Board or a District Valuation Board, by delivering it to the secretary or clerk of the company, body or Board at their registered or principal office or sending it in a prepaid registered letter addressed to the secretary or clerk of the company, body or Board at that office; or *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (e) if it is not practicable after reasonable inquiry to ascertain the name or address of a person to whom it should be given, made or delivered, or on whom it should be served, as being a person having any interest in land, by addressing it to him by the description of the person having that interest in the premises (naming them) to which it relates, and delivering it to some person on the premises or, if there is no person on the premises to whom it can be delivered, affixing it, or a copy of it, to some conspicuous part of the premises. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+- (a) by delivering it to the person to whom it is to be given, made or delivered, or on whom it is to be served; or *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (b) by leaving it at the usual or last known place of abode of that person; or *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (c)[^c6413121] by sending it in a prepaid registered letter addressed to that person at his usual or last known place of abode; or *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (d) in the case of an incorporated company or body, the Central Valuation Board or a District Valuation Board, by delivering it to the secretary or clerk of the company, body or Board at their registered or principal office or sending it in a prepaid registered letter addressed to the secretary or clerk of the company, body or Board at that office; or *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (e) if it is not practicable after reasonable inquiry to ascertain the name or address of a person to whom it should be given, made or delivered, or on whom it should be served, as being a person having any interest in land, by addressing it to him by the description of the person having that interest in the premises (naming them) to which it relates, and delivering it to some person on the premises or, if there is no person on the premises to whom it can be delivered, affixing it, or a copy of it, to some conspicuous part of the premises. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 ### 61. Arbitration under this Act.
 
-(1) For the purposes of the determination of any question as to which this Act or any regulation made thereunder provides that it is to be determined by arbitration under this Act, a panel of persons to act as arbitrators shall be appointed by the Lord Chancellor, and the Lord Chancellor shall nominate two members of the panel as chairman thereof and as deputy chairman respectively. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(1) For the purposes of the determination of any question as to which this Act or any regulation made thereunder provides that it is to be determined by arbitration under this Act, a panel of persons to act as arbitrators shall be appointed by the Lord Chancellor, and the Lord Chancellor shall nominate two members of the panel as chairman thereof and as deputy chairman respectively. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(2) Any such question as aforesaid shall be determined by the arbitration of such member of the panel as the chairman, or, in the event of the chairman’s being temporarily absent or unable to act, the deputy chairman, may select. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(2) Any such question as aforesaid shall be determined by the arbitration of such member of the panel as the chairman, or, in the event of the chairman’s being temporarily absent or unable to act, the deputy chairman, may select. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 ### 62. Provisions as to regulations.
 
-(1) Regulations made (whether by the Minister or by the Treasury) for the purposes of any provision of this Act (in this section referred to, in relation to the regulations in question, as “ *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**the authorising enactment *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**”) may, in addition to providing for any matters specified in the authorising enactment, provide— *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(1) Regulations made (whether by the Minister or by the Treasury) for the purposes of any provision of this Act (in this section referred to, in relation to the regulations in question, as “ *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**the authorising enactment *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**”) may, in addition to providing for any matters specified in the authorising enactment, provide— *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-- (a) for imposing limits of time within which things to be done for the purposes of the regulations must be done, with or without power to any authority therein specified to extend limits imposed; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (b) for punishing persons offending against provisions of the regulations; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (c) for the determination of questions of fact or of law which may arise in giving effect to the regulations, and as to evidence for that purpose, and for regulating (otherwise than in relation to any court proceedings) any matters relating to the practice and procedure to be followed in connection with the determination of such questions, including provision as to parties and their representation and provision for the right to appear and be heard (as well in court proceedings as otherwise) of the Minister, District Valuation Boards, referees, or other authorities, and as to awarding costs of proceedings for the determination of such questions, determining the amount thereof and the enforcement of awards thereof; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (d) for amending or repealing enactments inconsistent with the provision to be made for the purposes of the authorising enactment, and for applying enactments with or without modification; and *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- (e) for any incidental or supplementary matters for which it appears to the Minister to be necessary or expedient for the purposes of the authorising enactment to provide. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+- (a) for imposing limits of time within which things to be done for the purposes of the regulations must be done, with or without power to any authority therein specified to extend limits imposed; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (b) for punishing persons offending against provisions of the regulations; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (c) for the determination of questions of fact or of law which may arise in giving effect to the regulations, and as to evidence for that purpose, and for regulating (otherwise than in relation to any court proceedings) any matters relating to the practice and procedure to be followed in connection with the determination of such questions, including provision as to parties and their representation and provision for the right to appear and be heard (as well in court proceedings as otherwise) of the Minister, District Valuation Boards, referees, or other authorities, and as to awarding costs of proceedings for the determination of such questions, determining the amount thereof and the enforcement of awards thereof; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (d) for amending or repealing enactments inconsistent with the provision to be made for the purposes of the authorising enactment, and for applying enactments with or without modification; and *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- (e) for any incidental or supplementary matters for which it appears to the Minister to be necessary or expedient for the purposes of the authorising enactment to provide. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-Provided that any punishment imposed by virtue of paragraph ( *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]*b*) of this subsection shall not exceed that provided for by section fifty-eight of this Act or, in the case of a fine imposed in respect of each day on which a person is in default, five pounds. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+Provided that any punishment imposed by virtue of paragraph ( *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]*b*) of this subsection shall not exceed that provided for by section fifty-eight of this Act or, in the case of a fine imposed in respect of each day on which a person is in default, five pounds. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(2) Regulations made (whether by the Minister or by the Treasury) under this Act shall be laid before Parliament as soon as may be after they are made, and if either House of Parliament within the period of forty days beginning with the day on which any such regulations are laid before it resolves that the regulations be annulled, the regulations shall thereupon become void, without prejudice, however, to the validity of anything previously done thereunder or to the making of new regulations. . . . *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] [^c6413161]
+(2) Regulations made (whether by the Minister or by the Treasury) under this Act shall be laid before Parliament as soon as may be after they are made, and if either House of Parliament within the period of forty days beginning with the day on which any such regulations are laid before it resolves that the regulations be annulled, the regulations shall thereupon become void, without prejudice, however, to the validity of anything previously done thereunder or to the making of new regulations. . . . *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] [^c6413161]
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6413171]
 
 ### 63. Interpretation.
 
-(1) In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say,— *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(1) In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say,— *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-- “**coal *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means bituminous coal, cannel coal and anthracite; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**coal industry activities *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means colliery production, electricity, transport, sales and welfare activities, as defined in Part I of the First Schedule to this Act, and the activities incidental thereto mentioned in paragraph 7 of that Schedule: *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**coal industry value *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by paragraph ( *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]*a*) of subsection (2) of section ten of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**colliery activities *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means searching or boring for, winning, working or getting, coal, bringing it to the surface, treating it and rendering it saleable, and includes depositing spoil arising from working coal or from any other of the activities mentioned in this definition; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**colliery concern *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means a company whose business includes, or at any time on or after the first day of January, nineteen hundred and forty-six, included, the working of coal (excluding working undertaken for the purpose of digging or carrying away coal in the course of activities other than colliery activities, and working undertaken only as ancillary to the working of minerals other than coal), and any other person whose business includes, or at any such time included, such working of coal as aforesaid; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**Consolidated Fund *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means the Consolidated Fund of the United Kingdom, . . . *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] [^c6413271];
-- “**district wages ascertainments *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means the periodical ascertainments of the results of the coal industry in accordance with which the wages of mineworkers have been regulated under agreements in that behalf entered into between colliery owners and mineworkers; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**documents *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” includes plans, sections, records of survey and similar things; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+- “**coal *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means bituminous coal, cannel coal and anthracite; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**coal industry activities *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means colliery production, electricity, transport, sales and welfare activities, as defined in Part I of the First Schedule to this Act, and the activities incidental thereto mentioned in paragraph 7 of that Schedule: *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**coal industry value *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by paragraph ( *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]*a*) of subsection (2) of section ten of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**colliery activities *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means searching or boring for, winning, working or getting, coal, bringing it to the surface, treating it and rendering it saleable, and includes depositing spoil arising from working coal or from any other of the activities mentioned in this definition; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**colliery concern *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means a company whose business includes, or at any time on or after the first day of January, nineteen hundred and forty-six, included, the working of coal (excluding working undertaken for the purpose of digging or carrying away coal in the course of activities other than colliery activities, and working undertaken only as ancillary to the working of minerals other than coal), and any other person whose business includes, or at any such time included, such working of coal as aforesaid; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**Consolidated Fund *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means the Consolidated Fund of the United Kingdom, . . . *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] [^c6413271];
+- “**district wages ascertainments *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means the periodical ascertainments of the results of the coal industry in accordance with which the wages of mineworkers have been regulated under agreements in that behalf entered into between colliery owners and mineworkers; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**documents *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” includes plans, sections, records of survey and similar things; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 - . . . [^c6413281]
-- “**former freeholder’s lease *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (8) of section eleven of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**functions *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” includes both duties and powers; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**mine of coal *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means a space occupied by unworked coal or excavated underground for the purposes of colliery activities, and includes a shaft or adit made for those purposes, a coal quarry and opencast workings of coal; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**the Miner’s Welfare Fund *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means the fund constituted by subsection (1) of section twenty of the *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] [^c6413291]Mining Industry Act 1920: *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**the Minister *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] the Secretary of State[^c6413301] *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096];
-- “**money payment *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (3) of section eighteen of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**prescribed *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means prescribed by regulations; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**primary vesting date *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (1) of section five of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**regulations *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means regulations made by the Minister; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**stock issued for compensation *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (5) of section twenty-one of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**transferred allied activities *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means such activities as are— *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-  - (a) of a kind referred to in Part II or *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] III *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] of the First Schedule to this Act in relation to the vesting in the Board by option of interests as being interests in things used, available for use or required for certain activities, or as being owned for certain activities, and *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-  - (b) of a kind for which interests that in fact so vest were owned at the date of the vesting or for which things wherein those interests then subsisted were then used, *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+- “**former freeholder’s lease *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (8) of section eleven of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**functions *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” includes both duties and powers; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**mine of coal *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means a space occupied by unworked coal or excavated underground for the purposes of colliery activities, and includes a shaft or adit made for those purposes, a coal quarry and opencast workings of coal; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**the Miner’s Welfare Fund *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means the fund constituted by subsection (1) of section twenty of the *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] [^c6413291]Mining Industry Act 1920: *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**the Minister *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] the Secretary of State[^c6413301] *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096];
+- “**money payment *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (3) of section eighteen of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**prescribed *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means prescribed by regulations; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**primary vesting date *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (1) of section five of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**regulations *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means regulations made by the Minister; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**stock issued for compensation *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by subsection (5) of section twenty-one of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**transferred allied activities *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means such activities as are— *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+  - (a) of a kind referred to in Part II or *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] III *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] of the First Schedule to this Act in relation to the vesting in the Board by option of interests as being interests in things used, available for use or required for certain activities, or as being owned for certain activities, and *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+  - (b) of a kind for which interests that in fact so vest were owned at the date of the vesting or for which things wherein those interests then subsisted were then used, *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-  and that expression includes also activities in connection with farms interests in which in fact so vest, and such activities as are mentioned in sub-paragraph (2) of paragraph 21 of that Schedule; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**transferred interests *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by section nine of this Act; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**utilities *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” means electricity, gas, water, steam, compressed air and hydraulic power; *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
-- “**value for subsidiary purposes *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by paragraph ( *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]*b*) of subsection (2) of section ten of this Act. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+  and that expression includes also activities in connection with farms interests in which in fact so vest, and such activities as are mentioned in sub-paragraph (2) of paragraph 21 of that Schedule; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**transferred interests *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by section nine of this Act; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**utilities *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” means electricity, gas, water, steam, compressed air and hydraulic power; *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
+- “**value for subsidiary purposes *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]**” has the meaning assigned to it by paragraph ( *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]*b*) of subsection (2) of section ten of this Act. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 (2)[^c6413311] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c6413321] Except as otherwise expressly provided[^c6413331] *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096] references in this Act to activities of any kind (whether or not described by that word) shall be construed as limited to activities of that kind carried on in Great Britain, but not so as to exclude, in the case of selling or supplying, selling or supplying for export or selling or supplying imported goods in Great Britain. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(3)[^c6413321] Except as otherwise expressly provided[^c6413331] *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096] references in this Act to activities of any kind (whether or not described by that word) shall be construed as limited to activities of that kind carried on in Great Britain, but not so as to exclude, in the case of selling or supplying, selling or supplying for export or selling or supplying imported goods in Great Britain. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(4) References in this Act to any enactment shall, unless the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment, including this Act. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(4) References in this Act to any enactment shall, unless the context otherwise requires, be construed as references to that enactment as amended by or under any other enactment, including this Act. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 ### 64. Application to Scotland.
 
 (1) The provisions of this section shall have effect for the purpose of the application of this Act to Scotland.
 
-(2)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e90ab7211883cba49eae18adb81bf686] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e90ab7211883cba49eae18adb81bf686] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6413451]
 
-(6)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-e1d496e51416e327f1d12eac50389096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Section sixty-one shall have effect with the substitution for any reference to the Lord Chancellor of a reference to the Secretary of State.
 
 ### 65. †Short title, extent and repeal.[^c6413691]
 
-(1) This Act may be cited as the Coal Industry Nationalisation Act 1946. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(1) This Act may be cited as the Coal Industry Nationalisation Act 1946. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
-(2) This Act shall not extend to Northern Ireland. *(affected by repeal, see note)*[^key-e1d496e51416e327f1d12eac50389096]
+(2) This Act shall not extend to Northern Ireland. *(affected by repeal, see note)*[^c-e1d496e51416e327f1d12eac50389096]
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6413701]
 
@@ -726,13 +726,13 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6408441]: Commencement: Act wholly in force at Royal Assent
 
-[^key-7a10b2ebd0d16eaaf57ac6e336095ba6]: Textual amendment: S. 1 repealed: s. 1(1) repealed (31.10.1994) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), ss. 23, 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), art. 2 and words in s. 1(2)(a) repealed (31.10.1994) by ss. 23, 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), art. 2 and s. 1 repealed in so far as not already in force (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV) (with [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/1994/21/schedule/10/paragraph/6)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-7a10b2ebd0d16eaaf57ac6e336095ba6]: Textual amendment: S. 1 repealed: s. 1(1) repealed (31.10.1994) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), ss. 23, 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), art. 2 and words in s. 1(2)(a) repealed (31.10.1994) by ss. 23, 67(8), Sch. 11 Pt. II (with ss. 40(7), 66); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), art. 2 and s. 1 repealed in so far as not already in force (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV) (with [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/1994/21/schedule/10/paragraph/6)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-50a31fa56435dd039e37a993a8dd5d8a]: Textual amendment: S. 2 repealed: words in s. 2(2) repealed (30.6.1995) by Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), s. 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and words in s. 2(3) repealed (30.6.1995) by ss. 23(1)(b), 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and s. 2(5) repealed (30.6.1995) by s. 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and s. 2 repealed in so far as not yet in force (27.3.2004) by s. 68(3)(b), Sch. 11 Pt. IV; [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-50a31fa56435dd039e37a993a8dd5d8a]: Textual amendment: S. 2 repealed: words in s. 2(2) repealed (30.6.1995) by Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), s. 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and words in s. 2(3) repealed (30.6.1995) by ss. 23(1)(b), 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and s. 2(5) repealed (30.6.1995) by s. 67(8), Sch. 11 Pt. III (with ss. 40(7), 66); [S.I. 1995/1507](https://www.legislation.gov.uk/uksi/1995/1507), art. 2, Sch. and s. 2 repealed in so far as not yet in force (27.3.2004) by s. 68(3)(b), Sch. 11 Pt. IV; [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c6409801]: Textual amendment: S. 3(1)-(3) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-8c658bd546f0a94c8a8ac44e73a34812]: Textual amendment: S. 3(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-8c658bd546f0a94c8a8ac44e73a34812]: Textual amendment: S. 3(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c6409831]: Modification: S. 3(4) extended by [Coal Industry Act 1971 (c. 16)](https://www.legislation.gov.uk/ukpga/1971/16), [s. 7(7)](https://www.legislation.gov.uk/ukpga/1971/16/section/7/7)
 
@@ -742,7 +742,7 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6410101]: Textual amendment: S. 4(5)(9)–(11) repealed by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [Sch. 3 Pt. IV](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/IV) and expressed to be repealed (1.3.1995) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule)
 
-[^key-fa4c37823df8c9a69aaa0ae3164cde24]: Textual amendment: S. 4(6) repealed as to Industrial Coal Consumers' Council by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [Sch. 3 Pt. IV](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/IV). and repealed except for the purposes therein relating to the time before 1st March 1995 (1.3.1995) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule) and repealed (27.3.2004 in so far as not already in force) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-fa4c37823df8c9a69aaa0ae3164cde24]: Textual amendment: S. 4(6) repealed as to Industrial Coal Consumers' Council by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [Sch. 3 Pt. IV](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/IV). and repealed except for the purposes therein relating to the time before 1st March 1995 (1.3.1995) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule) and repealed (27.3.2004 in so far as not already in force) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6410191]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/5) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -758,21 +758,21 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6410291]: Textual amendment: Ss. 26, 27(1)–(3), (9) repealed by [Coal Industry Act 1965 (c. 82)](https://www.legislation.gov.uk/ukpga/1965/82), [Sch. 2](https://www.legislation.gov.uk/ukpga/1965/82/schedule/2)
 
-[^key-331540689f8b2f6c7b6d6f46ff13413e]: Textual amendment: S. 27 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-331540689f8b2f6c7b6d6f46ff13413e]: Textual amendment: S. 27 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-ad9d66844bcf70297a09baafb66a9489]: Textual amendment: S. 28 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-ad9d66844bcf70297a09baafb66a9489]: Textual amendment: S. 28 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-865c8a17d95882fc0e112469d6fc62b2]: Textual amendment: S. 29 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-865c8a17d95882fc0e112469d6fc62b2]: Textual amendment: S. 29 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c6410881]: Textual amendment: S. 30 repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-c6f81bfdcbf02585a9b247e88168c0b5]: Textual amendment: Ss. 31-33 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-c6f81bfdcbf02585a9b247e88168c0b5]: Textual amendment: Ss. 31-33 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-5c876ae6578e6975e482e9aa70f6e7b7]: Textual amendment: S. 34(1) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-5c876ae6578e6975e482e9aa70f6e7b7]: Textual amendment: S. 34(1) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6411431]: Textual amendment: S. 34(2) repealed by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/I)
 
-[^key-6df8af06d045783f8906f79eeefe5f1a]: Textual amendment: S. 35 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-6df8af06d045783f8906f79eeefe5f1a]: Textual amendment: S. 35 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6411731]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/36) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -818,15 +818,15 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6412251]: Marginal citation: [1933 c. x](https://www.legislation.gov.uk/ukla/1933/10).
 
-[^key-70f8d4313be29dacefb72a8eee3d8bb0]: Textual amendment: S. 46 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-70f8d4313be29dacefb72a8eee3d8bb0]: Textual amendment: S. 46 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-cbbacae7001e69f2da2d39e7efe7d9f4]: Textual amendment: S. 47 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-cbbacae7001e69f2da2d39e7efe7d9f4]: Textual amendment: S. 47 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c6412521]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/48) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
 [^c6412531]: Textual amendment: S. 49(1)(2) repealed by [Law Reform (Limitation of Actions, &c.) Act 1954 (c. 36)](https://www.legislation.gov.uk/ukpga/1954/36), [s. 1](https://www.legislation.gov.uk/ukpga/1954/36/section/1), [Sch.](https://www.legislation.gov.uk/ukpga/1954/36/schedule)
 
-[^key-c1b7fc75c21a4d77352920aaa4e6fa04]: Textual amendment: S. 49(3)(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-c1b7fc75c21a4d77352920aaa4e6fa04]: Textual amendment: S. 49(3)(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c6412631]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/51) repealed by [Public Records Act 1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51), [Sch. 4](https://www.legislation.gov.uk/ukpga/1958/51/schedule/4)
 
@@ -836,9 +836,9 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6412711]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/53) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-928105d9d013253ef31457f509b57053]: Textual amendment: S. 54 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-928105d9d013253ef31457f509b57053]: Textual amendment: S. 54 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-e1d496e51416e327f1d12eac50389096]: Textual amendment: Ss. 55-65 repealed (27.3.2004 for the repeal of ss. 55, 64(2)(4)(6)-(9)) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-e1d496e51416e327f1d12eac50389096]: Textual amendment: Ss. 55-65 repealed (27.3.2004 for the repeal of ss. 55, 64(2)(4)(6)-(9)) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6412991]: Textual amendment: Words in s. 56(1)(2) inserted (31.10.1994)(*temp.*) by 1994/2552, art. 4(1)(2)(a)
 
@@ -868,7 +868,7 @@ Compensation shall not be made in respect of the transfer to the Board of intere
 
 [^c6413331]: Textual amendment: Words inserted by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/ukpga/1977/39/schedule/4/paragraph/1/7)
 
-[^key-e90ab7211883cba49eae18adb81bf686]: Textual amendment: [S. 64(3)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/64/3) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-e90ab7211883cba49eae18adb81bf686]: Textual amendment: [S. 64(3)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/section/64/3) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c6413451]: Textual amendment: S. 64(5) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/X)
 

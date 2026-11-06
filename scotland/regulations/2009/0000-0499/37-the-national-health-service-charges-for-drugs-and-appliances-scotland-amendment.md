@@ -32,7 +32,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE
 
-The National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2009 (revoked)[^key-96e999881c3bce71a8f5d95bf26edb34]
+The National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2009 (revoked)[^c-96e999881c3bce71a8f5d95bf26edb34]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2009
 
-[^key-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-96e999881c3bce71a8f5d95bf26edb34]
+## 1. Citation, commencement and interpretation[^c-96e999881c3bce71a8f5d95bf26edb34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-96e999881c3bce71a8f5d95bf26edb34]
+## 2. Amendment of the principal Regulations[^c-96e999881c3bce71a8f5d95bf26edb34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-96e999881c3bce71a8f5d95bf26edb34]
+## 3. Transitional provisions[^c-96e999881c3bce71a8f5d95bf26edb34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e999881c3bce71a8f5d95bf26edb34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96e999881c3bce71a8f5d95bf26edb34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/37) revoked (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [regs. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2011/55/regulation/7/c)
+[^c-96e999881c3bce71a8f5d95bf26edb34]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/37) revoked (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [regs. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2011/55/regulation/7/c)

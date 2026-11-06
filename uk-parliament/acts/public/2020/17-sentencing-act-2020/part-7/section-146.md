@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Compensation etc under other Acts[^key-f3d0f856127f451ea89190c7aaa02c10]
+## 146. Compensation etc under other Acts[^c-f3d0f856127f451ea89190c7aaa02c10]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For provision about other orders requiring payment of compensation etc that are 
 
 ## Annotations
 
-[^key-f3d0f856127f451ea89190c7aaa02c10]: Commencement: S. 146 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f3d0f856127f451ea89190c7aaa02c10]: Commencement: S. 146 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

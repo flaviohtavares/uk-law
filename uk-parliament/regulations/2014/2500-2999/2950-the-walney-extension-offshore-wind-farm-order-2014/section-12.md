@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Temporary stopping up of public rights of way[^key-32ac29542e50e6f558b5ac689038b32a]
+## 12. Temporary stopping up of public rights of way[^c-32ac29542e50e6f558b5ac689038b32a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, in connection with the carrying out of the authorised projec
 
 ## Annotations
 
-[^key-32ac29542e50e6f558b5ac689038b32a]: Commencement: Art. 12 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-32ac29542e50e6f558b5ac689038b32a]: Commencement: Art. 12 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

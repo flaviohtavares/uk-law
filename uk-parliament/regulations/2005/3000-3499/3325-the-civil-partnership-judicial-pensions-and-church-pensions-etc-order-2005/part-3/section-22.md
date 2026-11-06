@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**22.**[^key-9516c0f3b0773d2e9784d32a3cf23e8c] (1) Section 122A (widowers' pensions) is amended as follows.
+**22.**[^c-9516c0f3b0773d2e9784d32a3cf23e8c] (1) Section 122A (widowers' pensions) is amended as follows.
 
 (2) In the heading, after “Widowers'” insert “and surviving civil partners'”.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9516c0f3b0773d2e9784d32a3cf23e8c]: Commencement: Art. 22 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-9516c0f3b0773d2e9784d32a3cf23e8c]: Commencement: Art. 22 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

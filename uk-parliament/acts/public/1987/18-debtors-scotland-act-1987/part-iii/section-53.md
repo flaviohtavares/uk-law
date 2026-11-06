@@ -27,7 +27,7 @@ summary: ''
 - (a) subject to subsections (3) and (5) below, a sum arrived at by multiplying the daily rate of maintenance (as specified in the current maintenance arrestment schedule) by the number of days—
   - (i) since the last pay-day when a deduction was made in respect of the arrestment; or
   - (ii) if there was no such pay-day, since the date of execution of the arrestment; or
-- (b) any net earnings in so far as they exceed the sum of £24.66[^key-c5262f2a38ca11f81e321cad1e5c15ea] per day for the number of days mentioned in paragraph (a) above.
+- (b) any net earnings in so far as they exceed the sum of £24.66[^c-c5262f2a38ca11f81e321cad1e5c15ea] per day for the number of days mentioned in paragraph (a) above.
 
 (3) The sum specified in subsection (2)(b) above may be varied by regulations made by the Lord Advocate and such regulations may make different provision for different cases.
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5262f2a38ca11f81e321cad1e5c15ea]: Textual amendment: Sum in [s. 53(2)(b)](https://www.legislation.gov.uk/ukpga/1987/18/section/53/2/b) substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [regs. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2024/293/regulation/2/a)
+[^c-c5262f2a38ca11f81e321cad1e5c15ea]: Textual amendment: Sum in [s. 53(2)(b)](https://www.legislation.gov.uk/ukpga/1987/18/section/53/2/b) substituted (6.4.2025) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293)](https://www.legislation.gov.uk/ssi/2024/293), [regs. 1](https://www.legislation.gov.uk/ssi/2024/293/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2024/293/regulation/2/a)
 
 [^c9361281]: Textual amendment: Words substituted by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 29](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29)
 

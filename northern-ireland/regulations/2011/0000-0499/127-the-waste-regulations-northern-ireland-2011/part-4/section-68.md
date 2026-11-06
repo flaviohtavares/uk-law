@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Amendment of the Renewables Obligation Order (Northern Ireland) 2009[^key-3ba4e1a03018a8ae86b36f905a3a4acf]
+## 68. Amendment of the Renewables Obligation Order (Northern Ireland) 2009[^c-3ba4e1a03018a8ae86b36f905a3a4acf]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba4e1a03018a8ae86b36f905a3a4acf]: Commencement: Reg. 68 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-3ba4e1a03018a8ae86b36f905a3a4acf]: Commencement: Reg. 68 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00061]: Footnote: [S.R.2009 No.154](https://www.legislation.gov.uk/nisr/2009/154)

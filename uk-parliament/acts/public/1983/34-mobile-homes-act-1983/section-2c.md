@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2C. Site rules[^key-976454936034c8257da4d2f66569887e]
+## 2C. Site rules[^c-976454936034c8257da4d2f66569887e]
 
 *Extent: E+W+S*
 
-(1) In the case of a protected site , other than a gypsy and traveller site,[^key-7f02bcaea03cf79f627516264c28212e] for which there are site rules, each of the rules is to be an express term of each agreement to which this Act applies that relates to a pitch on the site (including an agreement made before commencement or one made before the making of the rules).
+(1) In the case of a protected site , other than a gypsy and traveller site,[^c-7f02bcaea03cf79f627516264c28212e] for which there are site rules, each of the rules is to be an express term of each agreement to which this Act applies that relates to a pitch on the site (including an agreement made before commencement or one made before the making of the rules).
 
 (2) The “site rules” for a protected site are rules made by the owner in accordance with such procedure as may be prescribed which relate to—
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-976454936034c8257da4d2f66569887e]: Textual amendment: Ss. 2C, 2D inserted (E.W.) (27.5.2013) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/9/1), [15(3)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/3)
+[^c-976454936034c8257da4d2f66569887e]: Textual amendment: Ss. 2C, 2D inserted (E.W.) (27.5.2013) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/9/1), [15(3)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/3)
 
-[^key-7f02bcaea03cf79f627516264c28212e]: Textual amendment: Words in s. 2C(1) substituted (W.) (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/4/5) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/11/article/3/2)
+[^c-7f02bcaea03cf79f627516264c28212e]: Textual amendment: Words in s. 2C(1) substituted (W.) (1.10.2014) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 4(5)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/4/5) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)); [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/11/article/3/2)

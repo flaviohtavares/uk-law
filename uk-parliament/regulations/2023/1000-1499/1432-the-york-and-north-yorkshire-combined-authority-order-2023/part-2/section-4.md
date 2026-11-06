@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Mayor[^key-718331e830fcab1a704b42d88877499a]
+## 4. Mayor[^c-718331e830fcab1a704b42d88877499a]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-718331e830fcab1a704b42d88877499a]: Commencement: Art. 4 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-718331e830fcab1a704b42d88877499a]: Commencement: Art. 4 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00029]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 was amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), section 18, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 17 and Schedule 3, paragraphs 1 and 5 and the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), section 6. There are other amendments not relevant to this instrument.

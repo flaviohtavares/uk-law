@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Killing animals other than those to which the EU Regulation applies[^key-394135a528f5507633055afee869152d]
+## 28. Killing animals other than those to which the EU Regulation applies[^c-394135a528f5507633055afee869152d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 has effect.
 
 ## Annotations
 
-[^key-394135a528f5507633055afee869152d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2014/951/regulation/28) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-394135a528f5507633055afee869152d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2014/951/regulation/28) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

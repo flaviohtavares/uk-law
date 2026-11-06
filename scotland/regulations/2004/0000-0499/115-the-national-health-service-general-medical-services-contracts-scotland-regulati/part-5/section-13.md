@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Contracts with a partnership[^key-507eced7bdbb63ed94b1e164825587d5]
+## 13. Contracts with a partnership[^c-507eced7bdbb63ed94b1e164825587d5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-507eced7bdbb63ed94b1e164825587d5]: Commencement: Reg. 13 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-507eced7bdbb63ed94b1e164825587d5]: Commencement: Reg. 13 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Community councils that cease to be eligible: exercise of general power of competence[^key-6a3e7620328b9ac0d66e6139605fecf8]
+## 33. Community councils that cease to be eligible: exercise of general power of competence[^c-6a3e7620328b9ac0d66e6139605fecf8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A community council that ceases to be an eligible community council may continue
 
 ## Annotations
 
-[^key-6a3e7620328b9ac0d66e6139605fecf8]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/1/section/33) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)
+[^c-6a3e7620328b9ac0d66e6139605fecf8]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/1/section/33) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(b)](https://www.legislation.gov.uk/wsi/2021/231/article/6/b)

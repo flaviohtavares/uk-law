@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Transfer to Service of property, rights and liabilities[^key-0a436f3210e8f0e52f74fc29e2cee812]
+## 106. Transfer to Service of property, rights and liabilities[^c-0a436f3210e8f0e52f74fc29e2cee812]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ as appear to him to be appropriate to be transferred for the performance of the 
 
 ## Annotations
 
-[^key-0a436f3210e8f0e52f74fc29e2cee812]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/26/section/106) in force at 18.11.2003 by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-0a436f3210e8f0e52f74fc29e2cee812]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/26/section/106) in force at 18.11.2003 by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

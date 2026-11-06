@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Invitation to nominated beneficiary to take over application[^key-b8725bbec6a17482003d43f5208725df]
+## 71. Invitation to nominated beneficiary to take over application[^c-b8725bbec6a17482003d43f5208725df]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8725bbec6a17482003d43f5208725df]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2021/15/section/71) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b8725bbec6a17482003d43f5208725df]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2021/15/section/71) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Treasury licences[^key-47ae50b809bf540c9df9172b6fbfdf04]
+## 44. Treasury licences[^c-47ae50b809bf540c9df9172b6fbfdf04]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47ae50b809bf540c9df9172b6fbfdf04]: Commencement: Reg. 44 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-47ae50b809bf540c9df9172b6fbfdf04]: Commencement: Reg. 44 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

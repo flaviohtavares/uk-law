@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. Benefit adjustment information: collective money purchase schemes[^key-477697b4a32dc931edb801baeee0a751]
+## 22A. Benefit adjustment information: collective money purchase schemes[^c-477697b4a32dc931edb801baeee0a751]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-477697b4a32dc931edb801baeee0a751]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/22A), [22B](https://www.legislation.gov.uk/uksi/2013/2734/regulation/22B) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(9)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/9)
+[^c-477697b4a32dc931edb801baeee0a751]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/22A), [22B](https://www.legislation.gov.uk/uksi/2013/2734/regulation/22B) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(9)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/9)

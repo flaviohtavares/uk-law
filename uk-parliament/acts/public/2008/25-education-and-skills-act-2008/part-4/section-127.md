@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Relevant restriction imposed by Tribunal: supplementary[^key-cff2fdbac310defab8fb6f1143522091]
+## 127. Relevant restriction imposed by Tribunal: supplementary[^c-cff2fdbac310defab8fb6f1143522091]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cff2fdbac310defab8fb6f1143522091]: Commencement: S. 127 in force at 12.10.2009 by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-cff2fdbac310defab8fb6f1143522091]: Commencement: S. 127 in force at 12.10.2009 by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

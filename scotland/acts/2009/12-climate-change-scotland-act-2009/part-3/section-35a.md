@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35A. Climate change plan: further procedure[^key-0c5b09b3459f04a18cc69ccc38e8c864]
+## 35A. Climate change plan: further procedure[^c-0c5b09b3459f04a18cc69ccc38e8c864]
 
 *Extent: S*
 
 (1) The Scottish Ministers must, before laying a climate change plan under section 35 before the Scottish Parliament—
 
-- (a) lay a draft of the plan before the Parliament for a period of 120 days, of which no fewer than 60 must be days on which the Parliament is not dissolved or in recess, [^key-4e2d48867b39a467a6afab5d283b9882]...
-- (aa)[^key-3cb20e5b913df61f04fb14d9a46ad080] request the views of such persons as they consider appropriate with—
+- (a) lay a draft of the plan before the Parliament for a period of 120 days, of which no fewer than 60 must be days on which the Parliament is not dissolved or in recess, [^c-4e2d48867b39a467a6afab5d283b9882]...
+- (aa)[^c-3cb20e5b913df61f04fb14d9a46ad080] request the views of such persons as they consider appropriate with—
   - (i) knowledge of international law or policy relating to climate change,
   - (ii) scientific knowledge about climate change,
   - (iii) technical knowledge of climate change, and
 - (b) have regard to—
   - (i) any representations on the draft plan made to them,
   - (ii) any views on the draft plan set out by the relevant body in a report under section 9(1)(d),
-  - (iia)[^key-50968e51870a702c3fb0f6ffb128b964] any views on the draft plan set out by a person whose views were requested in accordance with paragraph (aa),
+  - (iia)[^c-50968e51870a702c3fb0f6ffb128b964] any views on the draft plan set out by a person whose views were requested in accordance with paragraph (aa),
   - (iii) any resolution relating to the draft plan passed by the Parliament, and
   - (iv) any report relating to the draft plan published by any committee of the Parliament for the time being appointed by virtue of standing orders.
 
-(1A)[^key-ef46ef5b55698bf60dc3a300c16a6156] The Scottish Ministers must publish a response to any—
+(1A)[^c-ef46ef5b55698bf60dc3a300c16a6156] The Scottish Ministers must publish a response to any—
 
 - (a) resolution of a kind mentioned in sub-paragraph (iii) of subsection (1)(b), or
 - (b) report of a kind mentioned in sub-paragraph (iv) of that provision,
@@ -50,12 +50,12 @@ within 3 months of the resolution being passed or (as the case may be) the repor
 
 ## Annotations
 
-[^key-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0c5b09b3459f04a18cc69ccc38e8c864]: Textual amendment: Ss. 35-35C and cross-heading substituted for s. 35 (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 24(1)](https://www.legislation.gov.uk/asp/2019/15/section/24/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-4e2d48867b39a467a6afab5d283b9882]: Textual amendment: Word in [s. 35A(1)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/a), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-4e2d48867b39a467a6afab5d283b9882]: Textual amendment: Word in [s. 35A(1)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/a), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-3cb20e5b913df61f04fb14d9a46ad080]: Textual amendment: [S. 35A(1)(aa)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1/aa) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/b), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-3cb20e5b913df61f04fb14d9a46ad080]: Textual amendment: [S. 35A(1)(aa)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1/aa) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/b), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-50968e51870a702c3fb0f6ffb128b964]: Textual amendment: [S. 35A(1)(b)(iia)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1/b) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(c)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/c), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-50968e51870a702c3fb0f6ffb128b964]: Textual amendment: [S. 35A(1)(b)(iia)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1/b) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 7(2)(c)](https://www.legislation.gov.uk/asp/2024/15/section/7/2/c), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
 
-[^key-ef46ef5b55698bf60dc3a300c16a6156]: Textual amendment: [S. 35A(1A)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1A)[(1B)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1B) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 8(2)](https://www.legislation.gov.uk/asp/2024/15/section/8/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-ef46ef5b55698bf60dc3a300c16a6156]: Textual amendment: [S. 35A(1A)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1A)[(1B)](https://www.legislation.gov.uk/asp/2009/12/section/35A/1B) inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 8(2)](https://www.legislation.gov.uk/asp/2024/15/section/8/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

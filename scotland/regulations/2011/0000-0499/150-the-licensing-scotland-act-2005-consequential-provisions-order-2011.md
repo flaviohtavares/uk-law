@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 145 and 146(3) of the Licensing (Scotland) Act 2005[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-60221f6d45e96291c277cb720ad97b20]
+## 1. Citation and commencement[^c-60221f6d45e96291c277cb720ad97b20]
 
 This Order may be cited as the Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2011 and comes into force on 28th March 2011.
 
-## 2. Consequential modifications to enactments[^key-45242877040be5fae3e7498f3cedb1a6]
+## 2. Consequential modifications to enactments[^c-45242877040be5fae3e7498f3cedb1a6]
 
 The modifications in the Schedule have effect.
 
@@ -70,7 +70,7 @@ Article 2
 
 ### The Gambling Act 2005 (Licensing Authority Policy Statement) (Scotland) Regulations 2006
 
-**1.**[^key-f356b507357d9d2298d1bf80849ae7d8] (1) Regulation 2 (interpretation) of the Gambling Act 2005 (Licensing Authority Policy Statement) (Scotland) Regulations 2006[^f00002] is amended in accordance with this paragraph.
+**1.**[^c-f356b507357d9d2298d1bf80849ae7d8] (1) Regulation 2 (interpretation) of the Gambling Act 2005 (Licensing Authority Policy Statement) (Scotland) Regulations 2006[^f00002] is amended in accordance with this paragraph.
 
 (2) In the definition of “authority” for “constituted” to the end, substitute “continued in existence or established under section 5 of the Licensing (Scotland) Act 2005”.
 
@@ -78,7 +78,7 @@ Article 2
 
 ### The Gambling Act 2005 (Fees No. 2) (Scotland) Regulations 2007
 
-**2.**[^key-c6916cafbd6b3953ca0d81bf655bb0ce] (1) The Gambling Act 2005 (Fees No. 2) (Scotland) Regulations 2007[^f00003] are amended in accordance with this paragraph.
+**2.**[^c-c6916cafbd6b3953ca0d81bf655bb0ce] (1) The Gambling Act 2005 (Fees No. 2) (Scotland) Regulations 2007[^f00003] are amended in accordance with this paragraph.
 
 (2) In regulation 2 (interpretation)—
 
@@ -90,7 +90,7 @@ Article 2
 
 ### The Club Gaming and Club Machine Permits (Scotland) Regulations 2007
 
-**3.**[^key-7a94b90b0c48396b369e072ebff857e4] (1) The Club Gaming and Club Machine Permits (Scotland) Regulations 2007[^f00004] are amended in accordance with this paragraph.
+**3.**[^c-7a94b90b0c48396b369e072ebff857e4] (1) The Club Gaming and Club Machine Permits (Scotland) Regulations 2007[^f00004] are amended in accordance with this paragraph.
 
 (2) In regulation 2 (interpretation)—
 
@@ -104,7 +104,7 @@ Article 2
 
 .
 
-(4)[^key-29d9c154503ed051ed1966aeb5754038] In paragraph (b) of regulation 12 (application of regulations) for “which now holds” to the end, substitute “which operates from premises in respect of which there is a premises licence in terms of the Licensing (Scotland) Act 2005”.
+(4)[^c-29d9c154503ed051ed1966aeb5754038] In paragraph (b) of regulation 12 (application of regulations) for “which now holds” to the end, substitute “which operates from premises in respect of which there is a premises licence in terms of the Licensing (Scotland) Act 2005”.
 
 (5) For Schedule 2 substitute—
 
@@ -124,11 +124,11 @@ Article 2
 
 ### The Licensed Premises Gaming Machine Permits (Scotland) Regulations 2007
 
-**4.**[^key-5853fd53dad86255bf64bc16f3b82f0b] (1) The Licensed Premises Gaming Machine Permits (Scotland) Regulations 2007[^f00005] are amended in accordance with this paragraph.
+**4.**[^c-5853fd53dad86255bf64bc16f3b82f0b] (1) The Licensed Premises Gaming Machine Permits (Scotland) Regulations 2007[^f00005] are amended in accordance with this paragraph.
 
 (2) In regulation 2 (interpretation)—
 
-- (a)[^key-94887ea1eafddd2f84b39000b73b9e13] after the definition of “the Act” insert ““the 2005 Act” means the Licensing (Scotland) Act 2005”;
+- (a)[^c-94887ea1eafddd2f84b39000b73b9e13] after the definition of “the Act” insert ““the 2005 Act” means the Licensing (Scotland) Act 2005”;
 - (b) for the definition of “relevant alcohol licence” substitute ““relevant alcohol licence” means a premises licence granted under the 2005 Act, except where such a licence only applies to the sale of alcohol for consumption off the premises.”;
 - (c) omit the definition of “the 1976 Act”.
 
@@ -158,26 +158,26 @@ This Order makes amendments to, and repeals provisions in secondary legislation 
 
 [^f00001]: Footnote: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16).
 
-[^key-60221f6d45e96291c277cb720ad97b20]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-60221f6d45e96291c277cb720ad97b20]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
-[^key-45242877040be5fae3e7498f3cedb1a6]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/150/article/2) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-45242877040be5fae3e7498f3cedb1a6]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/150/article/2) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
-[^key-f356b507357d9d2298d1bf80849ae7d8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/1) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-f356b507357d9d2298d1bf80849ae7d8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/1) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2006/154](https://www.legislation.gov.uk/ssi/2006/154).
 
-[^key-c6916cafbd6b3953ca0d81bf655bb0ce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/2) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-c6916cafbd6b3953ca0d81bf655bb0ce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/2) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2007/311](https://www.legislation.gov.uk/ssi/2007/311).
 
-[^key-7a94b90b0c48396b369e072ebff857e4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/3) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-7a94b90b0c48396b369e072ebff857e4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/3) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
 [^f00004]: Footnote: [S.S.I. 2007/504](https://www.legislation.gov.uk/ssi/2007/504).
 
-[^key-29d9c154503ed051ed1966aeb5754038]: Textual amendment: [Sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/3/4) substituted (28.3.2011) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/187)](https://www.legislation.gov.uk/ssi/2011/187), [arts. 1](https://www.legislation.gov.uk/ssi/2011/187/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/187/article/2/2)
+[^c-29d9c154503ed051ed1966aeb5754038]: Textual amendment: [Sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/3/4) substituted (28.3.2011) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/187)](https://www.legislation.gov.uk/ssi/2011/187), [arts. 1](https://www.legislation.gov.uk/ssi/2011/187/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/187/article/2/2)
 
-[^key-5853fd53dad86255bf64bc16f3b82f0b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/4) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
+[^c-5853fd53dad86255bf64bc16f3b82f0b]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/4) in force at 28.3.2011, see [art. 1](https://www.legislation.gov.uk/ssi/2011/150/article/1)
 
 [^f00005]: Footnote: [S.S.I. 2007/505](https://www.legislation.gov.uk/ssi/2007/505).
 
-[^key-94887ea1eafddd2f84b39000b73b9e13]: Textual amendment: [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/4/2/a) substituted (28.3.2011) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/187)](https://www.legislation.gov.uk/ssi/2011/187), [arts. 1](https://www.legislation.gov.uk/ssi/2011/187/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/187/article/2/3)
+[^c-94887ea1eafddd2f84b39000b73b9e13]: Textual amendment: [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2011/150/schedule/paragraph/4/2/a) substituted (28.3.2011) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Amendment Order 2011 (S.S.I. 2011/187)](https://www.legislation.gov.uk/ssi/2011/187), [arts. 1](https://www.legislation.gov.uk/ssi/2011/187/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/187/article/2/3)

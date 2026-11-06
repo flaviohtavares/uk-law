@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Power to inspect and copy documents and records[^key-5ddaaf877229020e8f5d357592e2e48f]
+## 89. Power to inspect and copy documents and records[^c-5ddaaf877229020e8f5d357592e2e48f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An authorised person may inspect and copy any certificate, licence, log book, do
 
 ## Annotations
 
-[^key-5ddaaf877229020e8f5d357592e2e48f]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2015/870/article/89) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-5ddaaf877229020e8f5d357592e2e48f]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2015/870/article/89) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

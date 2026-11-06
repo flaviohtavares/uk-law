@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Heritable security redemption right[^key-db8f7605f625e319e674522cfea83aa8]
+## 139. Heritable security redemption right[^c-db8f7605f625e319e674522cfea83aa8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 11 of the Land Tenure Reform (Scotland) Act 1974, after subsection (3
 
 ## Annotations
 
-[^key-db8f7605f625e319e674522cfea83aa8]: Commencement: S. 139 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-db8f7605f625e319e674522cfea83aa8]: Commencement: S. 139 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

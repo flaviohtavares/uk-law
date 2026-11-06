@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Power to override easements and other rights[^key-8d69638e64f3c0dd6a4d943d6c09303d]
+## 24. Power to override easements and other rights[^c-8d69638e64f3c0dd6a4d943d6c09303d]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-8d69638e64f3c0dd6a4d943d6c09303d]: Commencement: Art. 24 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-8d69638e64f3c0dd6a4d943d6c09303d]: Commencement: Art. 24 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

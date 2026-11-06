@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Extent[^key-b538c172d471f9532de8954c63c7ce30]
+## 3. Extent[^c-b538c172d471f9532de8954c63c7ce30]
 
 *Extent: E+W+S+N.I.*
 
 (1) Articles 1 to 3, 7, 29, paragraph 15(7) and paragraph 16 of Schedule 5 extend to England and Wales, Scotland and Northern Ireland.
 
-(2) Articles 12 to 28, paragraph 2(7) of Schedule 4 and paragraphs 15(1), (2), (3), (4) and 19 of Schedule 5 extend to England and Wales and Scotland only (but see regulation[^key-8ac8b967a39074afcf1f9bbb05de0340] 43(1) of the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019).
+(2) Articles 12 to 28, paragraph 2(7) of Schedule 4 and paragraphs 15(1), (2), (3), (4) and 19 of Schedule 5 extend to England and Wales and Scotland only (but see regulation[^c-8ac8b967a39074afcf1f9bbb05de0340] 43(1) of the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019).
 
 (3) Paragraph 15(6) of Schedule 5 extends to England and Wales only.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b538c172d471f9532de8954c63c7ce30]: Commencement: Art. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b538c172d471f9532de8954c63c7ce30]: Commencement: Art. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-8ac8b967a39074afcf1f9bbb05de0340]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/3/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2019/1514/regulation/52) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-8ac8b967a39074afcf1f9bbb05de0340]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/3/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2019/1514/regulation/52) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

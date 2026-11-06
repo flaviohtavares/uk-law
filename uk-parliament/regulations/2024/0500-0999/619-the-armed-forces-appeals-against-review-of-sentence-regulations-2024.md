@@ -42,11 +42,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 304D(10) and (11), 304E(9) and (10), 373(5) and 380 of the Armed Forces Act 2006[^f00001].[^key-c6691bb93e73aadc186c73b9260145f5]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 304D(10) and (11), 304E(9) and (10), 373(5) and 380 of the Armed Forces Act 2006[^f00001].[^c-c6691bb93e73aadc186c73b9260145f5]
 
 ## Part 1 — Citation, commencement, extent and interpretation
 
-### 1. Citation, commencement and extent[^key-9bc4251e1196dc617e6cc050f51f51a4]
+### 1. Citation, commencement and extent[^c-9bc4251e1196dc617e6cc050f51f51a4]
 
 (1) These Regulations may be cited as the Armed Forces (Appeals Against Review of Sentence) Regulations 2024.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the British overseas territories (except Gibraltar).
 
-### 2. Interpretation[^key-204f982a6edc3dfabf145e08b895322a]
+### 2. Interpretation[^c-204f982a6edc3dfabf145e08b895322a]
 
 In these Regulations—
 
@@ -76,11 +76,11 @@ In these Regulations—
 
 ### Chapter 1 — Initiating appeals
 
-#### 3. Application of these Regulations[^key-6951e5c13cdf7b11bc305ebca55cfd7a]
+#### 3. Application of these Regulations[^c-6951e5c13cdf7b11bc305ebca55cfd7a]
 
 These Regulations apply to appeals against review of sentence, brought under sections 304D(8) or (9) (review of sentence following offer of assistance) or 304E(7) or (8) (review of sentence following failure to assist) of the 2006 Act.
 
-#### 4. Application for leave to appeal[^key-400aa566642e012389f591692234eb69]
+#### 4. Application for leave to appeal[^c-400aa566642e012389f591692234eb69]
 
 (1) Leave to appeal to the Appeal Court must not be given except on an application made by or on behalf of the appellant and lodged, within the period specified in the Rules, with the registrar.
 
@@ -100,11 +100,11 @@ These Regulations apply to appeals against review of sentence, brought under sec
 - (a) forward the application to the registrar with as much expedition as practicable, and
 - (b) if it appears to the person practicable to do so, and in all the circumstances expedient, forward the particulars of the application to the registrar before the registrar receives the application, as will enable the registrar to prepare a copy of it.
 
-#### 5. Consideration of application by Appeal Court[^key-329e3aa7abca56e7e29cf5520f454694]
+#### 5. Consideration of application by Appeal Court[^c-329e3aa7abca56e7e29cf5520f454694]
 
 In considering whether or not to give leave to appeal, the Appeal Court must have regard to any opinion expressed by the Judge Advocate General that the case is a fit one for appeal, and if any such expression is so made they may, without more, give leave to appeal.
 
-#### 6. Detention of offender on appeal to Appeal Court[^key-9e0269a9426c9c5d10656df15b229da7]
+#### 6. Detention of offender on appeal to Appeal Court[^c-9e0269a9426c9c5d10656df15b229da7]
 
 (1) This regulation applies where all of the following criteria apply—
 
@@ -139,7 +139,7 @@ In considering whether or not to give leave to appeal, the Appeal Court must hav
 
 ### Chapter 2 — Disposal of appeal
 
-#### 7. Appeals against review of sentence[^key-d99d72ef6dbbb8b77cf54ff3d0b420d7]
+#### 7. Appeals against review of sentence[^c-d99d72ef6dbbb8b77cf54ff3d0b420d7]
 
 (1) Where, on a single occasion, the Court Martial passes two or more sentences on an offender, an appeal or application for leave to appeal against a review of any of those sentences is to be treated as an appeal or application in respect of both or all of them.
 
@@ -153,13 +153,13 @@ In considering whether or not to give leave to appeal, the Appeal Court must hav
 - (a) if the appeal is made under section 304D(8) or (9) (review of sentence following offer of assistance) of the 2006 Act in relation to a referral under section 304D(4) of that Act, the sentence to which the referral relates, or
 - (b) if the appeal is made under section 304E(7) or (8) (review of sentence following failure to assist) of the 2006 Act in relation to a referral under section 304E(2) of that Act, the sentence that the Court Martial would have passed but for the agreement to give assistance.
 
-#### 8. Terms of sentence passed under regulation 7[^key-a5184bac4978c01a18c392d32b1fc28c]
+#### 8. Terms of sentence passed under regulation 7[^c-a5184bac4978c01a18c392d32b1fc28c]
 
 Unless the Appeal Court otherwise directs, a sentence passed by it under regulation 7 takes effect from the beginning of the day on which the Court Martial passed sentence.
 
 ### Chapter 3 — General procedural provisions
 
-#### 9. Right of offender to be present[^key-59d9b1e340002775aa22ec07a7b64380]
+#### 9. Right of offender to be present[^c-59d9b1e340002775aa22ec07a7b64380]
 
 (1) An offender (whether or not in custody) is entitled to be present at the hearing of the appeal.
 
@@ -171,7 +171,7 @@ Unless the Appeal Court otherwise directs, a sentence passed by it under regulat
 
 unless the Appeal Court gives the offender leave to be present.
 
-#### 10. Evidence[^key-0cc5bda674888efba45764a67a033d03]
+#### 10. Evidence[^c-0cc5bda674888efba45764a67a033d03]
 
 (1) This regulation applies in relation to an appeal or an application for leave to appeal.
 
@@ -203,11 +203,11 @@ unless the Appeal Court gives the offender leave to be present.
 
 and allow the admission of any depositions so taken as evidence before the Appeal Court.
 
-#### 11. Power to call for report by member of the Court Martial[^key-aef37b4483b03c7bb9c02e136ba76f50]
+#### 11. Power to call for report by member of the Court Martial[^c-aef37b4483b03c7bb9c02e136ba76f50]
 
 The Appeal Court may order the taking of such steps as are required to obtain from any member of the Court Martial in the proceedings from which the appeal lies, a report giving that member’s opinion on the case or on any point arising in it, or containing a statement as to any facts of which the ascertainment appears to the Appeal Court to be material for the purpose of determining the case.
 
-#### 12. Other powers for facilitating the disposal of appeal[^key-085005650c652c8cc3f13ea3e55bf609]
+#### 12. Other powers for facilitating the disposal of appeal[^c-085005650c652c8cc3f13ea3e55bf609]
 
 (1) Where any question arising on an appeal involves prolonged examination of documents or accounts, or any scientific or local investigation, which cannot in the opinion of the Appeal Court conveniently be conducted before it, the Appeal Court may order the reference of the question, in the manner prescribed by the Rules, for inquiry and report to a special commissioner appointed by it, and act upon the report of the commissioner so far as the Appeal Court thinks fit to adopt it.
 
@@ -220,7 +220,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 ### Chapter 4 — Costs
 
-#### 13. Costs against the Secretary of State[^key-fcd45e8e2aefb22b9148907bc6739b98]
+#### 13. Costs against the Secretary of State[^c-fcd45e8e2aefb22b9148907bc6739b98]
 
 (1) This regulation applies when the Appeal Court—
 
@@ -243,7 +243,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 - (a) it must describe in the direction any reduction required under paragraph (4), and
 - (b) the sums must be fixed by means of a determination made by or on behalf of the Appeal Court in accordance with procedures specified in regulations made by the Lord Chancellor under regulation 18.
 
-#### 14. Legal costs[^key-9929ee1ac254ca8e5f11e436c9c74573]
+#### 14. Legal costs[^c-9929ee1ac254ca8e5f11e436c9c74573]
 
 (1) The costs which the Appeal Court may direct the Secretary of State to pay under regulation 13 do not include legal costs, except where regulations made by the Lord Chancellor provide otherwise.
 
@@ -253,7 +253,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 - (b) provision requiring the Appeal Court, when they direct the payment of a sum that includes a sum in respect of legal costs, to include a statement to that effect in the direction, and
 - (c) provision that the Appeal Court may not direct the payment of a sum in respect of legal costs exceeding an amount specified in the regulations.
 
-#### 15. Costs against offender[^key-a18daa3da7b587a04dc987572c220d30]
+#### 15. Costs against offender[^c-a18daa3da7b587a04dc987572c220d30]
 
 (1) Where the Appeal Court dismisses an appeal or an application for leave to appeal by the offender it may, if it thinks fit, order the offender to pay to the Secretary of State the whole or any part of the costs of the appeal, including the costs of copying or transcribing any documents for the use of the Appeal Court.
 
@@ -266,7 +266,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 (4) Any sums which by virtue of paragraph (2)(a) above are recovered from a person by the Secretary of State are to be paid into the Exchequer.
 
-#### 16. Witnesses’ expenses[^key-2c57fdb91afb26764ceb4dfa04664730]
+#### 16. Witnesses’ expenses[^c-2c57fdb91afb26764ceb4dfa04664730]
 
 (1) The Appeal Court may, whether or not it exercises powers under either regulation 13 or 15, order the payment out of moneys provided by Parliament of such sums as appear to the Appeal Court reasonably sufficient to compensate any person properly attending to give evidence on appeal under these Regulations or any proceedings preliminary or incidental to the appeal (whether or not that person gives evidence) for the expense, trouble or loss of time properly incurred in or incidental to the person’s attendance, subject to paragraph (3) and regulations made under regulation 18(1)(d).
 
@@ -274,7 +274,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 (3) Sums ordered to be paid out of money provided by Parliament under paragraph (1) may not include sums in respect of expert witness costs unless regulations made by the Lord Chancellor provide otherwise.
 
-#### 17. Offender’s expenses[^key-96289e73c6e4b1a4bab71be1c6609b2d]
+#### 17. Offender’s expenses[^c-96289e73c6e4b1a4bab71be1c6609b2d]
 
 (1) Where an offender who is not in custody appears before the Appeal Court either on the hearing of the appeal or in any preliminary or incidental proceedings, the Appeal Court may direct the Secretary of State to pay the offender the expenses of that appearance.
 
@@ -286,7 +286,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 - (b) provision requiring the Appeal Court, when they direct the payment of a sum that includes a sum in respect of legal costs, to include a statement to that effect in the direction, and
 - (c) provision that the Appeal Court may not direct the payment of a sum in respect of legal costs exceeding an amount specified in the regulations.
 
-#### 18. Further provision about costs[^key-c773bfa38dc36831976f757661d2d5fc]
+#### 18. Further provision about costs[^c-c773bfa38dc36831976f757661d2d5fc]
 
 (1) The Lord Chancellor may by regulations make provision—
 
@@ -298,7 +298,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 (2) Regulations under this regulation may provide that provision as to the calculation of sums (whether in the form of rates or scales or other provision) may be determined by the Lord Chancellor with the consent of the Treasury.
 
-#### 19. Regulations under this Chapter[^key-8e47b35230d5e9051a71522c8b6d10a0]
+#### 19. Regulations under this Chapter[^c-8e47b35230d5e9051a71522c8b6d10a0]
 
 (1) Regulations made under regulations 13 to 18 may, in particular—
 
@@ -313,7 +313,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 ### Chapter 5 — Supplementary
 
-#### 20. Powers under Part 2 that are exercisable by a single judge[^key-2b819bba90ff4637051918cef11ecb26]
+#### 20. Powers under Part 2 that are exercisable by a single judge[^c-2b819bba90ff4637051918cef11ecb26]
 
 (1) The powers specified in paragraph (2) may be exercised by any judge of the Appeal Court in the same manner as they may be exercised by the Appeal Court and subject to the same provisions.
 
@@ -328,7 +328,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 (3) If a judge refuses an application on the part of a party to the proceedings to exercise in that party’s favour any of the powers mentioned in paragraph (2) other than that under paragraph 2(e) (power to make an order for payment of costs), that party, upon making a requisition in that behalf within the prescribed period and in the prescribed form and manner is to be entitled to have the application determined by the Appeal Court as duly constituted for the purpose in accordance with section 5 of the 1968 Act.
 
-#### 21. Power which may be exercised by the registrar[^key-88b9b8167dc6bfb45813b92df382cc2e]
+#### 21. Power which may be exercised by the registrar[^c-88b9b8167dc6bfb45813b92df382cc2e]
 
 (1) The powers specified in paragraph (2) may be exercised by the registrar in the same manner as they may be exercised by the Appeal Court and subject to the same restrictions.
 
@@ -340,7 +340,7 @@ The Appeal Court may order the taking of such steps as are required to obtain fr
 
 (3) If the registrar refuses an application on the part of a party to exercise in that party’s favour any power specified in paragraph (2), that party is to be entitled to have the application determined by any judge of the Appeal Court.
 
-#### 22. Procedural directions: powers of single judge and registrar[^key-95d611b4e5be9491d43f0b878f9b85dd]
+#### 22. Procedural directions: powers of single judge and registrar[^c-95d611b4e5be9491d43f0b878f9b85dd]
 
 (1) The power of the Appeal Court to determine an application for procedural directions may be exercised by—
 
@@ -365,7 +365,7 @@ under section 304D or 304E of the 2006 Act.
 - (a) when acting under paragraph (1);
 - (b) on the registrar’s own motion.
 
-#### 23. Appeals against procedural directions[^key-8da8bcff50f052ac60485e7d43614160]
+#### 23. Appeals against procedural directions[^c-8da8bcff50f052ac60485e7d43614160]
 
 (1) Paragraph (2) applies if the registrar gives, or refuses to give, procedural directions within the meaning of regulation 22.
 
@@ -379,23 +379,23 @@ under section 304D or 304E of the 2006 Act.
 - (a) an offender, or
 - (b) the Director of Service Prosecutions.
 
-#### 24. Provision of record of proceedings of the Court Martial[^key-e7b436a39941853ec857fbcf23ecd9d2]
+#### 24. Provision of record of proceedings of the Court Martial[^c-e7b436a39941853ec857fbcf23ecd9d2]
 
 In the case of every appeal or application for leave to appeal to the Appeal Court against review of sentence, the Judge Advocate General must provide the registrar, in accordance with the Rules, with a record of the proceedings of the Court Martial.
 
-#### 25. Defence of appeals[^key-1275abefaaa40865b2ec42ec2dff64b3]
+#### 25. Defence of appeals[^c-1275abefaaa40865b2ec42ec2dff64b3]
 
 It is the duty of the Director of Service Prosecutions to conduct the defence of any appeal brought by an offender under section 304D (review of sentence following offer of assistance) or 304E (review of sentence following failure to assist) of the 2006 Act.
 
 ## Part 3 — Appeal from Court Martial Appeal Court to Supreme Court
 
-### 26. Right of appeal[^key-3f703dddacc68cd285dbc22b8ee3327d]
+### 26. Right of appeal[^c-3f703dddacc68cd285dbc22b8ee3327d]
 
 (1) An appeal lies to the Supreme Court, at the instance of the offender or the Director of Service Prosecutions, from any decision of the Appeal Court on an appeal to it under these Regulations, whether given by it when sitting within or outside the United Kingdom.
 
 (2) The appeal lies only with the leave of the Appeal Court or the Supreme Court and such leave is not to be granted unless it is certified by the Appeal Court that a point of law of general public importance is involved in the decision and it appears to the Appeal Court or the Supreme Court, as the case may be, that the point is one that ought to be considered by the Supreme Court.
 
-### 27. Application for leave to appeal[^key-83edf6de6e17fefb687d57f6d45a01c4]
+### 27. Application for leave to appeal[^c-83edf6de6e17fefb687d57f6d45a01c4]
 
 (1) An application to the Appeal Court for leave to appeal to the Supreme Court is to be made within the period of 28 days beginning with the relevant date.
 
@@ -415,14 +415,14 @@ It is the duty of the Director of Service Prosecutions to conduct the defence of
   - (ii) if leave to appeal is granted, until the appeal is disposed of;
 - (b) an application for leave to appeal must be treated as disposed of at the expiration of the time within which it may be made, if it is not made within that time.
 
-### 28. Hearing and disposal of appeal[^key-c8098f29b7781df91e3c82f56ca19323]
+### 28. Hearing and disposal of appeal[^c-c8098f29b7781df91e3c82f56ca19323]
 
 For the purpose of disposing of an appeal under this Part, the Supreme Court may—
 
 - (a) exercise any powers of the Appeal Court, or
 - (b) remit the case to the Appeal Court.
 
-### 29. Detention of offender on appeal to the Supreme Court[^key-48f9a1536efe08ba8f4b58e7a2644dc1]
+### 29. Detention of offender on appeal to the Supreme Court[^c-48f9a1536efe08ba8f4b58e7a2644dc1]
 
 (1) The Appeal Court must make one of the orders specified in paragraph (2) where—
 
@@ -459,17 +459,17 @@ For the purpose of disposing of an appeal under this Part, the Supreme Court may
 - (a) the Appeal Court has made an order within paragraph (2)(c), or
 - (b) the Appeal Court has made an order within paragraph (2)(a) or (b) but the order has ceased to have effect by virtue of paragraph (5) or the offender has been released or discharged by virtue of paragraph (6).
 
-### 30. Presence of offender at hearing[^key-0b60aead335eb784305530ce816aa4c5]
+### 30. Presence of offender at hearing[^c-0b60aead335eb784305530ce816aa4c5]
 
 Where the offender is detained pending an appeal from the Appeal Court to the Supreme Court, the offender is not to be entitled to be present on the hearing of the appeal or of any proceedings preliminary or incidental to the hearing unless Supreme Court rules authorise the offender to be present, or the Supreme Court or Appeal Court gives the offender leave to be present.
 
-### 31. Effect of appeal on sentence[^key-493cee65094c264c43e0773c9dc2b0a0]
+### 31. Effect of appeal on sentence[^c-493cee65094c264c43e0773c9dc2b0a0]
 
 (1) Any sentence passed on an appeal from the Appeal Court to the Supreme Court in substitution for another sentence, unless the Supreme Court or the Appeal Court otherwise direct, is to begin to run from the time when that other sentence began to run.
 
 (2) Where under these Regulations a person subject to a sentence is granted bail pending an appeal, the time during which that person is released on bail is to be disregarded in computing the term of that person’s sentence.
 
-### 32. Costs: application to Appeal Court by Director of Service Prosecutions[^key-fb7b6cac6c0f0c7885c4cbf778a08893]
+### 32. Costs: application to Appeal Court by Director of Service Prosecutions[^c-fb7b6cac6c0f0c7885c4cbf778a08893]
 
 (1) Where the Appeal Court dismisses an application for leave to appeal to the Supreme Court made by the Director of Service Prosecutions, the Appeal Court may direct the payment by the Secretary of State of such sums as appear to them to be reasonably sufficient to compensate the offender for any expenses properly incurred by the offender in resisting the application, subject to—
 
@@ -484,7 +484,7 @@ Where the offender is detained pending an appeal from the Appeal Court to the Su
 - (b) provision requiring the Appeal Court, when it directs the payment of a sum that includes a sum in respect of legal costs, to include a statement to that effect in the direction;
 - (c) provision that the Appeal Court may not direct the payment of a sum in respect of legal costs exceeding an amount specified in the regulations.
 
-### 33. Costs: application to Appeal Court by offender[^key-f11aa2cf64f13928fef511a5cc4b5756]
+### 33. Costs: application to Appeal Court by offender[^c-f11aa2cf64f13928fef511a5cc4b5756]
 
 Where the Appeal Court dismisses an application for leave to appeal to the Supreme Court made by the offender—
 
@@ -492,7 +492,7 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 - (b) an order made under this regulation may be enforced in the manner described in regulation 15(2) of these Regulations, and
 - (c) regulation 15(3) of these Regulations applies in relation to any sum recovered by virtue of regulation 15(2)(a) (as applied by this regulation).
 
-### 34. Costs: application to Supreme Court[^key-c2279e04b666927ed019ad284d2dae1c]
+### 34. Costs: application to Supreme Court[^c-c2279e04b666927ed019ad284d2dae1c]
 
 (1) Where the Supreme Court dismisses an application for leave to appeal to the Supreme Court and the application was made by the Director of Service Prosecutions, the Supreme Court may direct the payment by the Secretary of State of such sums as appear to the Supreme Court to be reasonably sufficient to compensate the offender for any expenses properly incurred by the offender in resisting the application.
 
@@ -515,7 +515,7 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 
 (7) Except as provided by regulations 32, 33 and this regulation, no costs are to be allowed on the hearing or determination of an appeal from the Appeal Court to the Supreme Court or of any proceedings preliminary or incidental to such an appeal.
 
-### 35. Further provision about costs[^key-c6b085af64e3c380890ae05b2708651f]
+### 35. Further provision about costs[^c-c6b085af64e3c380890ae05b2708651f]
 
 (1) The Lord Chancellor may by regulations make provision—
 
@@ -528,7 +528,7 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 
 (3) Regulations made under this regulation may provide that provision as to the calculation of sums (whether in the form of rates or scales or other provision) may be determined by the Lord Chancellor with consent of the Treasury.
 
-### 36. Regulations under this Part[^key-46cc45baf80b73535e0eb2b482e63324]
+### 36. Regulations under this Part[^c-46cc45baf80b73535e0eb2b482e63324]
 
 (1) Regulations made under regulations 32, 34 and 35 may, in particular, make different provision in relation to different cases and different classes of case, including different provision in relation to different expenses, trouble and loss, different directions and orders and different areas.
 
@@ -538,7 +538,7 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 
 (4) Regulations made under regulations 32 or 34 (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-### 37. Powers under this Part which are exercisable by a single judge[^key-d7cd9814608aef0ee09550e03a296e5d]
+### 37. Powers under this Part which are exercisable by a single judge[^c-d7cd9814608aef0ee09550e03a296e5d]
 
 (1) The following powers of the Appeal Court under this Part may be exercised by any judge of the Appeal Court—
 
@@ -550,7 +550,7 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 
 ## Part 4 — Miscellaneous, general and amendments
 
-### 38. Appeals on behalf of deceased persons[^key-94e1c6a4dbd45a6405719ed3ba4de916]
+### 38. Appeals on behalf of deceased persons[^c-94e1c6a4dbd45a6405719ed3ba4de916]
 
 (1) This regulation applies where a person (“**P**”) has died.
 
@@ -581,13 +581,13 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 - (b) for Scotland, an executor confirmed to the estate of P, or
 - (c) for Northern Ireland, a person who is one of the personal representatives within the meaning of the Administration of Estates Act (Northern Ireland) 1955[^f00009].
 
-### 39. Rules of Court[^key-c37c8e9d58420aae3d7e123463feac36]
+### 39. Rules of Court[^c-c37c8e9d58420aae3d7e123463feac36]
 
 (1) Rules of Court made in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005[^f00010] may provide for regulating the procedure and practice to be followed in the Appeal Court in connection with these Regulations and for any other matters by which these Regulations are expressed to be subjects for rules of court.
 
 (2) Rules of Court made for the purposes of any provision of these Regulations may make different provision in relation to different classes of cases and may provide for any incidental or supplementary matters for which it appears to the person making the rules of court to be necessary or expedient for the purposes of that provision to provide.
 
-### 40. Duties of registrar with respect to appeals etc.[^key-241a61f09fdbc2885cab3712d0a439f5]
+### 40. Duties of registrar with respect to appeals etc.[^c-241a61f09fdbc2885cab3712d0a439f5]
 
 (1) The registrar is to take all necessary steps for obtaining the determination of an appeal or application under these Regulations and must obtain and lay before the Appeal Court in proper form all documents, exhibits and other things relating to the proceedings in the Court Martial which appear necessary for the proper determination of the appeal or application.
 
@@ -595,15 +595,15 @@ Where the Appeal Court dismisses an application for leave to appeal to the Supre
 
 (3) Every person in charge of such place as is referred to in paragraph (2) above is to ensure the mentioned forms and instructions are placed at the disposal of persons confined in that place who wish to apply for leave to appeal to the Appeal Court or from the Appeal Court to the Supreme Court.
 
-### 41. Removal of prisoners[^key-7e9f22cc6e9656f2f50425f928545ed7]
+### 41. Removal of prisoners[^c-7e9f22cc6e9656f2f50425f928545ed7]
 
 Section 52 of the 1968 Act applies in respect of appeals under these Regulations as it applies in respect of appeals under Parts 2 and Part 3 of the 1968 Act. 
 
-### 42. Modification for protected prisoners of war[^key-e019a1355b4ca9b7132927c27098b6cd]
+### 42. Modification for protected prisoners of war[^c-e019a1355b4ca9b7132927c27098b6cd]
 
 As respects a protected prisoner of war (as defined by section 7(1) of the Geneva Conventions Act 1957[^f00011]), these Regulations apply in relation to a prisoner of war court-martial constituted under a Royal Warrant as it applies in relation to the Court Martial, subject to such modifications as may be contained in the Royal Warrant.
 
-### 43. Amendment of the Court Martial Appeal Court (Bail) Order 2009[^key-de086619d664a5227682dca2b385bc34]
+### 43. Amendment of the Court Martial Appeal Court (Bail) Order 2009[^c-de086619d664a5227682dca2b385bc34]
 
 In the Court Martial Appeal Court (Bail) Order 2009[^f00012], in Article 2, for the definition of “appeal” substitute—
 
@@ -615,7 +615,7 @@ In the Court Martial Appeal Court (Bail) Order 2009[^f00012], in Article 2, for 
 
 .
 
-### 44. Amendment of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^key-78012f38b590415967698005fe551517]
+### 44. Amendment of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^c-78012f38b590415967698005fe551517]
 
 (1) The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009[^f00013] is amended as follows.
 
@@ -689,25 +689,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), sections 304D and 304E were inserted by sections 10 and 11 of the Armed Forces Act [2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21).
 
-[^key-c6691bb93e73aadc186c73b9260145f5]: Modification: Regulations applied (with modifications) by [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059), [art. 130A(2)](https://www.legislation.gov.uk/uksi/2009/1059/article/130A/2) (as inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2))
+[^c-c6691bb93e73aadc186c73b9260145f5]: Modification: Regulations applied (with modifications) by [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059), [art. 130A(2)](https://www.legislation.gov.uk/uksi/2009/1059/article/130A/2) (as inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2))
 
-[^key-9bc4251e1196dc617e6cc050f51f51a4]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
+[^c-9bc4251e1196dc617e6cc050f51f51a4]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
 
 [^f00002]: Footnote: [2016 c. 21](https://www.legislation.gov.uk/ukpga/2016/21)
 
-[^key-204f982a6edc3dfabf145e08b895322a]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
+[^c-204f982a6edc3dfabf145e08b895322a]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
 
 [^f00003]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20), section 272 of, and paragraph 53 of Schedule 8 to, the 2006 Act amends section 61(1) of the 1968 Act to provide for that Act to be cited as the Court Martial Appeals Act 1968.
 
 [^f00004]: Footnote: The Court Martial Appeal Court is established by section 1 of the Court Martial Appeals Act [1968 (c. 20)](https://www.legislation.gov.uk/ukpga/1968/20)
 
-[^key-6951e5c13cdf7b11bc305ebca55cfd7a]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
+[^c-6951e5c13cdf7b11bc305ebca55cfd7a]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
 
-[^key-400aa566642e012389f591692234eb69]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
+[^c-400aa566642e012389f591692234eb69]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
 
-[^key-329e3aa7abca56e7e29cf5520f454694]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)
+[^c-329e3aa7abca56e7e29cf5520f454694]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)
 
-[^key-9e0269a9426c9c5d10656df15b229da7]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
+[^c-9e0269a9426c9c5d10656df15b229da7]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
 
 [^f00005]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
@@ -715,90 +715,90 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-d99d72ef6dbbb8b77cf54ff3d0b420d7]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)
+[^c-d99d72ef6dbbb8b77cf54ff3d0b420d7]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)
 
-[^key-a5184bac4978c01a18c392d32b1fc28c]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)
+[^c-a5184bac4978c01a18c392d32b1fc28c]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)
 
-[^key-59d9b1e340002775aa22ec07a7b64380]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
+[^c-59d9b1e340002775aa22ec07a7b64380]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
 
-[^key-0cc5bda674888efba45764a67a033d03]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
+[^c-0cc5bda674888efba45764a67a033d03]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
 
-[^key-aef37b4483b03c7bb9c02e136ba76f50]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
+[^c-aef37b4483b03c7bb9c02e136ba76f50]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
 
-[^key-085005650c652c8cc3f13ea3e55bf609]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
+[^c-085005650c652c8cc3f13ea3e55bf609]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
 
-[^key-fcd45e8e2aefb22b9148907bc6739b98]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
+[^c-fcd45e8e2aefb22b9148907bc6739b98]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
 
-[^key-9929ee1ac254ca8e5f11e436c9c74573]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
+[^c-9929ee1ac254ca8e5f11e436c9c74573]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
 
-[^key-a18daa3da7b587a04dc987572c220d30]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)
+[^c-a18daa3da7b587a04dc987572c220d30]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)
 
-[^key-2c57fdb91afb26764ceb4dfa04664730]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
+[^c-2c57fdb91afb26764ceb4dfa04664730]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
 
-[^key-96289e73c6e4b1a4bab71be1c6609b2d]: Commencement: Reg. 17 comes into force in accordance with reg. 1(2)
+[^c-96289e73c6e4b1a4bab71be1c6609b2d]: Commencement: Reg. 17 comes into force in accordance with reg. 1(2)
 
-[^key-c773bfa38dc36831976f757661d2d5fc]: Commencement: Reg. 18 comes into force in accordance with reg. 1(2)
+[^c-c773bfa38dc36831976f757661d2d5fc]: Commencement: Reg. 18 comes into force in accordance with reg. 1(2)
 
-[^key-8e47b35230d5e9051a71522c8b6d10a0]: Commencement: Reg. 19 comes into force in accordance with reg. 1(2)
+[^c-8e47b35230d5e9051a71522c8b6d10a0]: Commencement: Reg. 19 comes into force in accordance with reg. 1(2)
 
-[^key-2b819bba90ff4637051918cef11ecb26]: Commencement: Reg. 20 comes into force in accordance with reg. 1(2)
+[^c-2b819bba90ff4637051918cef11ecb26]: Commencement: Reg. 20 comes into force in accordance with reg. 1(2)
 
-[^key-88b9b8167dc6bfb45813b92df382cc2e]: Commencement: Reg. 21 comes into force in accordance with reg. 1(2)
+[^c-88b9b8167dc6bfb45813b92df382cc2e]: Commencement: Reg. 21 comes into force in accordance with reg. 1(2)
 
-[^key-95d611b4e5be9491d43f0b878f9b85dd]: Commencement: Reg. 22 comes into force in accordance with reg. 1(2)
+[^c-95d611b4e5be9491d43f0b878f9b85dd]: Commencement: Reg. 22 comes into force in accordance with reg. 1(2)
 
-[^key-8da8bcff50f052ac60485e7d43614160]: Commencement: Reg. 23 comes into force in accordance with reg. 1(2)
+[^c-8da8bcff50f052ac60485e7d43614160]: Commencement: Reg. 23 comes into force in accordance with reg. 1(2)
 
-[^key-e7b436a39941853ec857fbcf23ecd9d2]: Commencement: Reg. 24 comes into force in accordance with reg. 1(2)
+[^c-e7b436a39941853ec857fbcf23ecd9d2]: Commencement: Reg. 24 comes into force in accordance with reg. 1(2)
 
-[^key-1275abefaaa40865b2ec42ec2dff64b3]: Commencement: Reg. 25 comes into force in accordance with reg. 1(2)
+[^c-1275abefaaa40865b2ec42ec2dff64b3]: Commencement: Reg. 25 comes into force in accordance with reg. 1(2)
 
-[^key-3f703dddacc68cd285dbc22b8ee3327d]: Commencement: Reg. 26 comes into force in accordance with reg. 1(2)
+[^c-3f703dddacc68cd285dbc22b8ee3327d]: Commencement: Reg. 26 comes into force in accordance with reg. 1(2)
 
-[^key-83edf6de6e17fefb687d57f6d45a01c4]: Commencement: Reg. 27 comes into force in accordance with reg. 1(2)
+[^c-83edf6de6e17fefb687d57f6d45a01c4]: Commencement: Reg. 27 comes into force in accordance with reg. 1(2)
 
-[^key-c8098f29b7781df91e3c82f56ca19323]: Commencement: Reg. 28 comes into force in accordance with reg. 1(2)
+[^c-c8098f29b7781df91e3c82f56ca19323]: Commencement: Reg. 28 comes into force in accordance with reg. 1(2)
 
-[^key-48f9a1536efe08ba8f4b58e7a2644dc1]: Commencement: Reg. 29 comes into force in accordance with reg. 1(2)
+[^c-48f9a1536efe08ba8f4b58e7a2644dc1]: Commencement: Reg. 29 comes into force in accordance with reg. 1(2)
 
-[^key-0b60aead335eb784305530ce816aa4c5]: Commencement: Reg. 30 comes into force in accordance with reg. 1(2)
+[^c-0b60aead335eb784305530ce816aa4c5]: Commencement: Reg. 30 comes into force in accordance with reg. 1(2)
 
-[^key-493cee65094c264c43e0773c9dc2b0a0]: Commencement: Reg. 31 comes into force in accordance with reg. 1(2)
+[^c-493cee65094c264c43e0773c9dc2b0a0]: Commencement: Reg. 31 comes into force in accordance with reg. 1(2)
 
-[^key-fb7b6cac6c0f0c7885c4cbf778a08893]: Commencement: Reg. 32 comes into force in accordance with reg. 1(2)
+[^c-fb7b6cac6c0f0c7885c4cbf778a08893]: Commencement: Reg. 32 comes into force in accordance with reg. 1(2)
 
-[^key-f11aa2cf64f13928fef511a5cc4b5756]: Commencement: Reg. 33 comes into force in accordance with reg. 1(2)
+[^c-f11aa2cf64f13928fef511a5cc4b5756]: Commencement: Reg. 33 comes into force in accordance with reg. 1(2)
 
-[^key-c2279e04b666927ed019ad284d2dae1c]: Commencement: Reg. 34 comes into force in accordance with reg. 1(2)
+[^c-c2279e04b666927ed019ad284d2dae1c]: Commencement: Reg. 34 comes into force in accordance with reg. 1(2)
 
-[^key-c6b085af64e3c380890ae05b2708651f]: Commencement: Reg. 35 comes into force in accordance with reg. 1(2)
+[^c-c6b085af64e3c380890ae05b2708651f]: Commencement: Reg. 35 comes into force in accordance with reg. 1(2)
 
-[^key-46cc45baf80b73535e0eb2b482e63324]: Commencement: Reg. 36 comes into force in accordance with reg. 1(2)
+[^c-46cc45baf80b73535e0eb2b482e63324]: Commencement: Reg. 36 comes into force in accordance with reg. 1(2)
 
-[^key-d7cd9814608aef0ee09550e03a296e5d]: Commencement: Reg. 37 comes into force in accordance with reg. 1(2)
+[^c-d7cd9814608aef0ee09550e03a296e5d]: Commencement: Reg. 37 comes into force in accordance with reg. 1(2)
 
-[^key-94e1c6a4dbd45a6405719ed3ba4de916]: Commencement: Reg. 38 comes into force in accordance with reg. 1(2)
+[^c-94e1c6a4dbd45a6405719ed3ba4de916]: Commencement: Reg. 38 comes into force in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [1925 c. 23](https://www.legislation.gov.uk/ukpga/1925/23) (15 & 16 Geo. 5).
 
 [^f00009]: Footnote: [1955 c. 24](https://www.legislation.gov.uk/ukpga/1955/24).
 
-[^key-c37c8e9d58420aae3d7e123463feac36]: Commencement: Reg. 39 comes into force in accordance with reg. 1(2)
+[^c-c37c8e9d58420aae3d7e123463feac36]: Commencement: Reg. 39 comes into force in accordance with reg. 1(2)
 
 [^f00010]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4); the Constitutional Reform Act was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), there are other amendments not relevant to these Regulations.
 
-[^key-241a61f09fdbc2885cab3712d0a439f5]: Commencement: Reg. 40 comes into force in accordance with reg. 1(2)
+[^c-241a61f09fdbc2885cab3712d0a439f5]: Commencement: Reg. 40 comes into force in accordance with reg. 1(2)
 
-[^key-7e9f22cc6e9656f2f50425f928545ed7]: Commencement: Reg. 41 comes into force in accordance with reg. 1(2)
+[^c-7e9f22cc6e9656f2f50425f928545ed7]: Commencement: Reg. 41 comes into force in accordance with reg. 1(2)
 
-[^key-e019a1355b4ca9b7132927c27098b6cd]: Commencement: Reg. 42 comes into force in accordance with reg. 1(2)
+[^c-e019a1355b4ca9b7132927c27098b6cd]: Commencement: Reg. 42 comes into force in accordance with reg. 1(2)
 
 [^f00011]: Footnote: [1957 c. 52](https://www.legislation.gov.uk/ukpga/1957/52) (5 & 6 Eliz 2), as amended by section 4(3) Geneva Conventions (Amendment) Act [1995 (c. 27)](https://www.legislation.gov.uk/ukpga/1995/27), section 1(7) of the Geneva Conventions and United National Personnel (Protocols) Act [2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6) and paragraph 1 of Schedule 10 to the International Criminal Court Act [2001 (c. 17)](https://www.legislation.gov.uk/ukpga/2001/17). There are other amendments to the Act which are not relevant.
 
-[^key-de086619d664a5227682dca2b385bc34]: Commencement: Reg. 43 comes into force in accordance with reg. 1(2)
+[^c-de086619d664a5227682dca2b385bc34]: Commencement: Reg. 43 comes into force in accordance with reg. 1(2)
 
 [^f00012]: Footnote: [S.I. 2009/992](https://www.legislation.gov.uk/uksi/2009/992).
 
-[^key-78012f38b590415967698005fe551517]: Commencement: Reg. 44 comes into force in accordance with reg. 1(2)
+[^c-78012f38b590415967698005fe551517]: Commencement: Reg. 44 comes into force in accordance with reg. 1(2)
 
 [^f00013]: Footnote: [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)

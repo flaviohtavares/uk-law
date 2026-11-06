@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 151. Overpayments[^key-cf975f62c343ceea8f1e88ceb513857d]
+## 151. Overpayments[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))
+[^c-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))

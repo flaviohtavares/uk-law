@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Power to inspect and seize[^key-aef974a11d0dcc080a6e110818dada7a]
+## 37. Power to inspect and seize[^c-aef974a11d0dcc080a6e110818dada7a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ an inspector must return the items as soon as is reasonably practicable.
 
 ## Annotations
 
-[^key-aef974a11d0dcc080a6e110818dada7a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2014/951/regulation/37) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-aef974a11d0dcc080a6e110818dada7a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2014/951/regulation/37) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

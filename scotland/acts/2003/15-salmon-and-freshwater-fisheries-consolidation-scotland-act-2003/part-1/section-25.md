@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Fixed engines in the Solway[^key-56fd90a7b49480220cfe56d6f99f1285]
+## 25. Fixed engines in the Solway[^c-56fd90a7b49480220cfe56d6f99f1285]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56fd90a7b49480220cfe56d6f99f1285]: Commencement: S. 25 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-56fd90a7b49480220cfe56d6f99f1285]: Commencement: S. 25 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

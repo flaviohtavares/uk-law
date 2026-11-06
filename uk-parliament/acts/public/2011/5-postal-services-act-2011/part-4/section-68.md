@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Postal administration orders[^key-2b727d47bc7dfdaaa99bcf4fa18bb772]
+## 68. Postal administration orders[^c-2b727d47bc7dfdaaa99bcf4fa18bb772]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ so as to achieve the objective set out in section 69.
 
 ## Annotations
 
-[^key-2b727d47bc7dfdaaa99bcf4fa18bb772]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/5/section/68) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2b727d47bc7dfdaaa99bcf4fa18bb772]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2011/5/section/68) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Manual of air traffic services[^key-59212a5ccca7e66aa7b0afb9803b69ce]
+## 102. Manual of air traffic services[^c-59212a5ccca7e66aa7b0afb9803b69ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59212a5ccca7e66aa7b0afb9803b69ce]: Textual amendment: [Arts. 100-106](https://www.legislation.gov.uk/uksi/2015/870/article/100) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [7](https://www.legislation.gov.uk/uksi/2020/1280/article/7)
+[^c-59212a5ccca7e66aa7b0afb9803b69ce]: Textual amendment: [Arts. 100-106](https://www.legislation.gov.uk/uksi/2015/870/article/100) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [7](https://www.legislation.gov.uk/uksi/2020/1280/article/7)

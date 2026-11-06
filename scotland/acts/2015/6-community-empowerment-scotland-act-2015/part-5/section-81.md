@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Asset transfer requests: regulations[^key-8470c3ca7df654aa1d221714acb80a30]
+## 81. Asset transfer requests: regulations[^c-8470c3ca7df654aa1d221714acb80a30]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8470c3ca7df654aa1d221714acb80a30]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2015/6/section/81) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-8470c3ca7df654aa1d221714acb80a30]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2015/6/section/81) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

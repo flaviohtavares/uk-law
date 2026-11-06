@@ -48,7 +48,7 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
   - (v) Joule-Thomson boiler(s); and
   - (vi) control and instrumentation kiosks,
 
-***Work No. 1C*** development comprising a generating station and electrical infrastructure including a transformer compound, generator step up transformer, unit and other transformers, [^key-44cf80de5edaf0a34b3bc5728dd85468]... overhead conductors and other plant and structures required to manage the transmission of electricity,
+***Work No. 1C*** development comprising a generating station and electrical infrastructure including a transformer compound, generator step up transformer, unit and other transformers, [^c-44cf80de5edaf0a34b3bc5728dd85468]... overhead conductors and other plant and structures required to manage the transmission of electricity,
 
 ***Work No. 1D*** development comprising a generating station including—
 
@@ -90,13 +90,13 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 
 ***Work No. 4B*** development comprising a construction laydown area including areas of hardstanding and site and welfare offices and workshop;
 
-***Work No. 5*** development comprising electrical infrastructure between Work No. 1 and Work No. 6 including—[^key-0d7636710101cc70434d84291c158de4]
+***Work No. 5*** development comprising electrical infrastructure between Work No. 1 and Work No. 6 including—[^c-0d7636710101cc70434d84291c158de4]
 
 - (a) underground high voltage electrical cables and associated telemetry and electrical protection auxiliary cabling;
 - (b) landscaping including tree planting, temporary fencing and other boundary treatments and ecological mitigation; and
 - (c) site drainage,
 
-***Work No. 6*** development comprising an electrical substation at transmission tower ZA378 and works to construct a 400kV electrical connection between transmission tower ZA378 and Work No. 5 and mitigation works for Works Nos. 1, 3, 6, and 7—[^key-7959fa4c3186adb5caf96c9c2543923d]
+***Work No. 6*** development comprising an electrical substation at transmission tower ZA378 and works to construct a 400kV electrical connection between transmission tower ZA378 and Work No. 5 and mitigation works for Works Nos. 1, 3, 6, and 7—[^c-7959fa4c3186adb5caf96c9c2543923d]
 
 - (a) 400kV electricity substation including site office and welfare accommodation, emergency auxiliary supplies and downleads to connect to existing tower ZA378;
 - (b) underground or ducted high voltage electrical cables and associated telemetry and electrical protection auxiliary cabling and below ground drainage works;
@@ -109,7 +109,7 @@ A nationally significant infrastructure project as defined in sections 14(1)(a) 
 - (i) internal roadways, car parking, pedestrian network and hardstanding for planning maintenance; and
 - (j) construction laydown area(s) including areas of hardstanding and site and welfare offices and workshops,
 
-***Work No 7*** development comprising works to transmission towers and mitigation works for Works Nos. 1, 3, 6 and 7 including—[^key-52a76c059829bb6c8978e7da48abb22a]
+***Work No 7*** development comprising works to transmission towers and mitigation works for Works Nos. 1, 3, 6 and 7 including—[^c-52a76c059829bb6c8978e7da48abb22a]
 
 - (a) alterations of cross-arms on tower ZA378 to accommodate downleads to new substation;
 - (b) erection and later removal of scaffolding, re-stringing of conductors in the alignment of the existing 400kV transmission line;
@@ -125,10 +125,10 @@ and such other buildings, structures, works or operations as may be necessary or
 
 [^M_I_e2bce3bf-4be9-4997-86f9-d6560a125e6e]: Commencement: Sch. 1 in force at 3.4.2019, see art. 1
 
-[^key-44cf80de5edaf0a34b3bc5728dd85468]: Textual amendment: Words in Sch. 1 omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/413/article/3/2)
+[^c-44cf80de5edaf0a34b3bc5728dd85468]: Textual amendment: Words in Sch. 1 omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/413/article/3/2)
 
-[^key-0d7636710101cc70434d84291c158de4]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/413/article/3/3)
+[^c-0d7636710101cc70434d84291c158de4]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/413/article/3/3)
 
-[^key-7959fa4c3186adb5caf96c9c2543923d]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/413/article/3/4)
+[^c-7959fa4c3186adb5caf96c9c2543923d]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/413/article/3/4)
 
-[^key-52a76c059829bb6c8978e7da48abb22a]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2020/413/article/3/5)
+[^c-52a76c059829bb6c8978e7da48abb22a]: Textual amendment: Words in Sch. 1 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2020/413/article/3/5)

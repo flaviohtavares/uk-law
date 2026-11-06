@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Duty to offer to contract following allocation[^key-68136b5ee10147105a53962f2a539f42]
+## 77. Duty to offer to contract following allocation[^c-68136b5ee10147105a53962f2a539f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68136b5ee10147105a53962f2a539f42]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/52/section/77) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-68136b5ee10147105a53962f2a539f42]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/52/section/77) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

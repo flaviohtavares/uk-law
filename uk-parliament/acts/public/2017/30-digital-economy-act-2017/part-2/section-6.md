@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Power to make consequential provision etc in connection with the code[^key-67323dbc480c8eba22068dcf3521f48c]
+## 6. Power to make consequential provision etc in connection with the code[^c-67323dbc480c8eba22068dcf3521f48c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67323dbc480c8eba22068dcf3521f48c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/30/section/6) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/b)
+[^c-67323dbc480c8eba22068dcf3521f48c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/30/section/6) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/b)

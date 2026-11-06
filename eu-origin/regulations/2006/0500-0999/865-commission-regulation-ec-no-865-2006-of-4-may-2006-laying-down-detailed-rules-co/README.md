@@ -218,12 +218,12 @@ HAS ADOPTED THIS REGULATION:
 
 - [Section Article 45 — Forwarding of documents presented to customs offices](section-article-45.md)
 
-### CHAPTER 9A — NON-DESIGNATED CUSTOMS OFFICES[^key-c236a242b02561ccfa691d44a0f0e9d2]
+### CHAPTER 9A — NON-DESIGNATED CUSTOMS OFFICES[^c-c236a242b02561ccfa691d44a0f0e9d2]
 
 - [Section Article 45a — Introduction, export or re-export through a non-designated customs office](section-article-45a.md)
 - [Section Article 45b — Treatment of references to customs offices](section-article-45b.md)
 
-### CHAPTER X — CERTIFICATES PROVIDED FOR IN ARTICLES ... 5(3), 5(4), 8(3) AND 9(2)(b) OF REGULATION (EC) No 338/97[^key-3ebc46c1a9a17ea9b516382b7931a28a]
+### CHAPTER X — CERTIFICATES PROVIDED FOR IN ARTICLES ... 5(3), 5(4), 8(3) AND 9(2)(b) OF REGULATION (EC) No 338/97[^c-3ebc46c1a9a17ea9b516382b7931a28a]
 
 *Extent: E+W+S+N.I.*
 
@@ -331,6 +331,6 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^c000008]: Textual amendment: Inserted by [Commission Regulation (EU) 2015/870 of 5 June 2015 amending, as regards the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2015/870).
 
-[^key-c236a242b02561ccfa691d44a0f0e9d2]: Textual amendment: [Ch. 9A](https://www.legislation.gov.uk/eur/2006/865/chapter/9A) inserted (31.12.2020 at 11.30 p.m.) by [The Trade in Endangered Species of Wild Fauna and Flora (Commission Regulation (EC) No 865/2006) (Amendment) Regulations 2020 (S.I. 2020/1668)](https://www.legislation.gov.uk/uksi/2020/1668), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1668/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1668/regulation/2)
+[^c-c236a242b02561ccfa691d44a0f0e9d2]: Textual amendment: [Ch. 9A](https://www.legislation.gov.uk/eur/2006/865/chapter/9A) inserted (31.12.2020 at 11.30 p.m.) by [The Trade in Endangered Species of Wild Fauna and Flora (Commission Regulation (EC) No 865/2006) (Amendment) Regulations 2020 (S.I. 2020/1668)](https://www.legislation.gov.uk/uksi/2020/1668), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1668/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1668/regulation/2)
 
-[^key-3ebc46c1a9a17ea9b516382b7931a28a]: Textual amendment: Word in [Ch. 10](https://www.legislation.gov.uk/eur/2006/865/chapter/10) heading omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(47)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/47)
+[^c-3ebc46c1a9a17ea9b516382b7931a28a]: Textual amendment: Word in [Ch. 10](https://www.legislation.gov.uk/eur/2006/865/chapter/10) heading omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(47)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/47)

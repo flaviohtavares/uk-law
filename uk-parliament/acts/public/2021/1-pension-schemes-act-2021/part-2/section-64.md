@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Viability report[^c24459431][^key-fb1f9477a4338032df5ce58cd35627e2]
+## 64. Viability report[^c24459431][^c-fb1f9477a4338032df5ce58cd35627e2]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 - (b) the most recent viability certificate;
 - (c) any additional information or documents specified or described in regulations under subsection (3)(e).
 
-(7A)[^key-d309a8611588d47fe53ef7a10451f8ee] Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 65B).
+(7A)[^c-d309a8611588d47fe53ef7a10451f8ee] Before providing a viability report to the Pensions Regulator in accordance with subsection (6)(a) the trustees of an unconnected multiple employer scheme must obtain the approval of the report by the scheme proprietor (see section 65B).
 
 (7B) The trustees of an unconnected multiple employer scheme must provide the scheme proprietor with any revised viability report—
 
@@ -71,6 +71,6 @@ summary: ''
 
 [^c24459431]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/1/section/64) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-fb1f9477a4338032df5ce58cd35627e2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/1/section/64) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-fb1f9477a4338032df5ce58cd35627e2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2021/1/section/64) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-d309a8611588d47fe53ef7a10451f8ee]: Textual amendment: [S. 64(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/64/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2021/1/section/64/7B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2026/151/regulation/8)
+[^c-d309a8611588d47fe53ef7a10451f8ee]: Textual amendment: [S. 64(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/64/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2021/1/section/64/7B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2026/151/regulation/8)

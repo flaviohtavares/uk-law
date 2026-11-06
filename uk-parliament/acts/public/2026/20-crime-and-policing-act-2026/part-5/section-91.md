@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Exception for persons providing specified services[^key-79380cc84c1810f4663e156b4c9b0136]
+## 91. Exception for persons providing specified services[^c-79380cc84c1810f4663e156b4c9b0136]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79380cc84c1810f4663e156b4c9b0136]: Commencement: S. 91 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-79380cc84c1810f4663e156b4c9b0136]: Commencement: S. 91 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

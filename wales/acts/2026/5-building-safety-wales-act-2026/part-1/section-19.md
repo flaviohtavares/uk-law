@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Requirement to register category 1 buildings and category 2 buildings[^key-8202fd67048571ba1a8251b9f1043e53]
+## 19. Requirement to register category 1 buildings and category 2 buildings[^c-8202fd67048571ba1a8251b9f1043e53]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8202fd67048571ba1a8251b9f1043e53]: Commencement: S. 19 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-8202fd67048571ba1a8251b9f1043e53]: Commencement: S. 19 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

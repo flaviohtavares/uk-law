@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment to regulation 173[^key-e7b86a927850f8466c2de5da111bc063]
+## 73. Amendment to regulation 173[^c-e7b86a927850f8466c2de5da111bc063]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 173(c) (exemption for certain radiopharmaceuticals)[^f00083], omit
 
 ## Annotations
 
-[^key-e7b86a927850f8466c2de5da111bc063]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2024/832/regulation/73) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-e7b86a927850f8466c2de5da111bc063]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2024/832/regulation/73) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00083]: Footnote: Paragraph (c) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

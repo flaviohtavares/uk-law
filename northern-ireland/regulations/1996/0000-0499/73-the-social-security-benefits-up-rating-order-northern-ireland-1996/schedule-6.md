@@ -28,7 +28,7 @@ Article 18(8) and (9)
 
 #### Provisions in Schedule 4 to the Income Support Regulations as amended by this Order
 
-##### 6. Homes for persons in need[^key-f2b12aeb811d951d272d724fc9f16777]
+##### 6. Homes for persons in need[^c-f2b12aeb811d951d272d724fc9f16777]
 
 (1) Subject to sub-paragraph (2) and paragraphs 8 to 10, where the accommodation provided for the claimant is a home for persons in need, for persons in need of personal care by virtue of—
 
@@ -40,7 +40,7 @@ Article 18(8) and (9)
   - (i) in the case of a person to whom paragraph 8 applies, £276·00 per week, or
   - (ii) in any other case, £203·00 per week.
 
-##### 7. Nursing homes[^key-cb9c39841f848ca688b897f6e22e90cc]
+##### 7. Nursing homes[^c-cb9c39841f848ca688b897f6e22e90cc]
 
 Subject to paragraphs 8 to 10, where the accommodation provided for the claimant is a nursing home for persons in need of personal care by virtue of—
 
@@ -53,7 +53,7 @@ Subject to paragraphs 8 to 10, where the accommodation provided for the claimant
 - (e) terminal illness, the appropriate amount shall be £303·00 per week; or
 - (f) any condition not falling within sub-paragraphs (a) to (e), the appropriate amount shall be £303·00 per week.
 
-##### 12. Personal allowances[^key-51ebb15bbfecf2f4829a7e3ba1603faa]
+##### 12. Personal allowances[^c-51ebb15bbfecf2f4829a7e3ba1603faa]
 
 The allowance for personal expenses for the claimant and each member of his family referred to in paragraph 1(1)(b) shall be—
 
@@ -63,7 +63,7 @@ The allowance for personal expenses for the claimant and each member of his fami
 - (d) for a child aged under 16 but over 11, £8·25;
 - (e) for a child aged under 11, £5·65.
 
-### Part II — Other sums specified in Schedule 4 to the Income Support Regulations[^key-b6157e661d077cc4963b10ea7e857417]
+### Part II — Other sums specified in Schedule 4 to the Income Support Regulations[^c-b6157e661d077cc4963b10ea7e857417]
 
 | Paragraph in Schedule 4 | Specified Sum |  |
 | --- | --- | --- |
@@ -71,10 +71,10 @@ The allowance for personal expenses for the claimant and each member of his fami
 
 ## Annotations
 
-[^key-f2b12aeb811d951d272d724fc9f16777]: Commencement: Sch. 6 para. 6 comes into force in accordance with art. 1(1)(h)
+[^c-f2b12aeb811d951d272d724fc9f16777]: Commencement: Sch. 6 para. 6 comes into force in accordance with art. 1(1)(h)
 
-[^key-cb9c39841f848ca688b897f6e22e90cc]: Commencement: Sch. 6 para. 7 comes into force in accordance with art. 1(1)(h)
+[^c-cb9c39841f848ca688b897f6e22e90cc]: Commencement: Sch. 6 para. 7 comes into force in accordance with art. 1(1)(h)
 
-[^key-51ebb15bbfecf2f4829a7e3ba1603faa]: Commencement: Sch. 6 para. 12 comes into force in accordance with art. 1(1)(h)
+[^c-51ebb15bbfecf2f4829a7e3ba1603faa]: Commencement: Sch. 6 para. 12 comes into force in accordance with art. 1(1)(h)
 
-[^key-b6157e661d077cc4963b10ea7e857417]: Commencement: Sch. 6 Pt. II comes into force in accordance with art. 1(1)(h)
+[^c-b6157e661d077cc4963b10ea7e857417]: Commencement: Sch. 6 Pt. II comes into force in accordance with art. 1(1)(h)

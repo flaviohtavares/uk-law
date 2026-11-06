@@ -40,7 +40,7 @@ summary: ''
 - (f) when required by the Executive, to provide it with copies of any dose records;
 - (g) where a dose is estimated pursuant to regulation 23, to make an entry in a dose record and retain the summary of the information used to estimate that dose;
 - (h) where the employer employs a classified outside worker, to provide, where appropriate, a current radiation passbook in respect of that classified outside worker; and
-- (i) where the employer employs a classified outside worker who works in Great Britain or a member State[^key-ab24d40ea2ea73e9ee54b4e87c817d83], to maintain a continuing record of the assessment of the dose received by that classified outside worker when working in such place.
+- (i) where the employer employs a classified outside worker who works in Great Britain or a member State[^c-ab24d40ea2ea73e9ee54b4e87c817d83], to maintain a continuing record of the assessment of the dose received by that classified outside worker when working in such place.
 
 (4) The employer shall provide the approved dosimetry service with such information concerning its employees as is necessary for the approved dosimetry service to comply with the arrangements made for the purposes of paragraph (2).
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab24d40ea2ea73e9ee54b4e87c817d83]: Textual amendment: Words in [reg. 22(3)(i)](https://www.legislation.gov.uk/nisr/2017/229/regulation/22/3/i) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [12(2)(3)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/12/3/c)
+[^c-ab24d40ea2ea73e9ee54b4e87c817d83]: Textual amendment: Words in [reg. 22(3)(i)](https://www.legislation.gov.uk/nisr/2017/229/regulation/22/3/i) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [12(2)(3)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/12/3/c)

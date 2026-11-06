@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Disclosure of information to the IFR etc[^key-8deac5afb01a73473a6f8619299826fe][^key-3eb07086ca810e7ee08138ff16e82d77]
+## 87. Disclosure of information to the IFR etc[^c-8deac5afb01a73473a6f8619299826fe][^c-3eb07086ca810e7ee08138ff16e82d77]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8deac5afb01a73473a6f8619299826fe]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-8deac5afb01a73473a6f8619299826fe]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3eb07086ca810e7ee08138ff16e82d77]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/21/section/87) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/ii)
+[^c-3eb07086ca810e7ee08138ff16e82d77]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2025/21/section/87) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/ii)

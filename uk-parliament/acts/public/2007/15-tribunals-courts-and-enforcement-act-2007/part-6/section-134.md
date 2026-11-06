@@ -37,7 +37,7 @@ summary: ''
 - (a) only so long as the object is in the United Kingdom for any of the purposes in subsection (7), and
 - (b) unless subsection (5) applies, for not more than 12 months beginning with the day when the object enters the United Kingdom.
 
-(4A)[^key-edda117850d67f93b36a654262731962] The relevant authority may extend the maximum protection period for a further period of up to 3 months in relation to an object that is in—
+(4A)[^c-edda117850d67f93b36a654262731962] The relevant authority may extend the maximum protection period for a further period of up to 3 months in relation to an object that is in—
 
 - (a) the United Kingdom for the purpose of public display in a temporary exhibition at a museum or gallery in England or Scotland, or
 - (b) England or Scotland for any of the purposes listed in subsection (7)(b) to (e).
@@ -64,7 +64,7 @@ summary: ''
 
 (4E) In relation to an object the maximum protection period for which is the period mentioned in subsection (4D)(c), references to the United Kingdom in subsections (4)(a), (5) and (8) are to be read as references to England or Scotland.
 
-(5) The protection continues after the end of the period specified in subsection (4)(b) , as extended under subsection (4A) if relevant,[^key-de7f0b3e8801c0d7c2010ceb5402c0b2] if the object has suffered damage while protected, and—
+(5) The protection continues after the end of the period specified in subsection (4)(b) , as extended under subsection (4A) if relevant,[^c-de7f0b3e8801c0d7c2010ceb5402c0b2] if the object has suffered damage while protected, and—
 
 - (a) it is undergoing repair, conservation or restoration in the United Kingdom because of the damage, or
 - (b) it is leaving the United Kingdom following repair, conservation or restoration because of the damage.
@@ -97,6 +97,6 @@ summary: ''
 
 [^c20865601]: Commencement: [Pt. 6](https://www.legislation.gov.uk/ukpga/2007/15/part/6) wholly in force at 22.4.2008; [Pt. 6](https://www.legislation.gov.uk/ukpga/2007/15/part/6) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [Pt. 6](https://www.legislation.gov.uk/ukpga/2007/15/part/6) in force for E. at 31.12.2007 by [S.I. 2007/3613](https://www.legislation.gov.uk/uksi/2007/3613), [art. 2](https://www.legislation.gov.uk/uksi/2007/3613/article/2); [Pt. 6](https://www.legislation.gov.uk/ukpga/2007/15/part/6) in force for S. at 21.4.2008 by [S.S.I. 2008/150](https://www.legislation.gov.uk/ssi/2008/150), [art. 2](https://www.legislation.gov.uk/ssi/2008/150/article/2); [Pt. 6](https://www.legislation.gov.uk/ukpga/2007/15/part/6) in force for N.I. and in application to W. at 22.4.2008 by [S.I. 2008/1158](https://www.legislation.gov.uk/uksi/2008/1158), [art. 2](https://www.legislation.gov.uk/uksi/2008/1158/article/2)
 
-[^key-edda117850d67f93b36a654262731962]: Textual amendment: [S. 134(4A)-(4E)](https://www.legislation.gov.uk/ukpga/2007/15/section/134/4A) inserted (28.6.2022) by [Cultural Objects (Protection from Seizure) Act 2022 (c. 24)](https://www.legislation.gov.uk/ukpga/2022/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
+[^c-edda117850d67f93b36a654262731962]: Textual amendment: [S. 134(4A)-(4E)](https://www.legislation.gov.uk/ukpga/2007/15/section/134/4A) inserted (28.6.2022) by [Cultural Objects (Protection from Seizure) Act 2022 (c. 24)](https://www.legislation.gov.uk/ukpga/2022/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
 
-[^key-de7f0b3e8801c0d7c2010ceb5402c0b2]: Textual amendment: Words in [s. 134(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/134/5) inserted (28.6.2022) by [Cultural Objects (Protection from Seizure) Act 2022 (c. 24)](https://www.legislation.gov.uk/ukpga/2022/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2022/24/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
+[^c-de7f0b3e8801c0d7c2010ceb5402c0b2]: Textual amendment: Words in [s. 134(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/134/5) inserted (28.6.2022) by [Cultural Objects (Protection from Seizure) Act 2022 (c. 24)](https://www.legislation.gov.uk/ukpga/2022/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2022/24/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)

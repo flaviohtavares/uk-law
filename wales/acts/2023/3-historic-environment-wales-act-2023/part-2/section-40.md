@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Powers to enter land and take steps required by enforcement notice[^key-a5376aec046d23a0197436bbf428a38b][^key-be7ba667114871017f79050fa7238aae]
+## 40. Powers to enter land and take steps required by enforcement notice[^c-a5376aec046d23a0197436bbf428a38b][^c-be7ba667114871017f79050fa7238aae]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5376aec046d23a0197436bbf428a38b]: Commencement: S. 40 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a5376aec046d23a0197436bbf428a38b]: Commencement: S. 40 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-be7ba667114871017f79050fa7238aae]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/3/section/40) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-be7ba667114871017f79050fa7238aae]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/3/section/40) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A qualifying disclosure is made in accordance with this section if the worker makes the disclosure [^key-f6ba2bb5d5ef42c48b4c7c13127c772a] ...—
+(1) A qualifying disclosure is made in accordance with this section if the worker makes the disclosure [^c-f6ba2bb5d5ef42c48b4c7c13127c772a] ...—
 
 - (a) to his employer, or
 - (b) where the worker reasonably believes that the relevant failure relates solely or mainly to—
@@ -35,4 +35,4 @@ summary: ''
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-f6ba2bb5d5ef42c48b4c7c13127c772a]: Textual amendment: Words in s. 43C(1) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/1/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-f6ba2bb5d5ef42c48b4c7c13127c772a]: Textual amendment: Words in s. 43C(1) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/1/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))

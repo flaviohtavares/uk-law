@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19C — Civil sanctions[^key-1ecc26f2b006c4b0b2a708c89780c37f][^key-94d7d4aaad0af92f29ac9e4fe5bc7d63][^key-ebafa717ddf1baae24a04e71d83d4432][^key-18a9ebfff423adfe787cf02f98856ea7][^key-22c4007252a2ae94a29cd8e2bf20ea74][^key-6e0a2ac9673b2cd06b4f05fba26a865e]
+## SCHEDULE 19C — Civil sanctions[^c-1ecc26f2b006c4b0b2a708c89780c37f][^c-94d7d4aaad0af92f29ac9e4fe5bc7d63][^c-ebafa717ddf1baae24a04e71d83d4432][^c-18a9ebfff423adfe787cf02f98856ea7][^c-22c4007252a2ae94a29cd8e2bf20ea74][^c-6e0a2ac9673b2cd06b4f05fba26a865e]
 
 *Extent: E+W+S+N.I.*
 
 Section 147
 
-### Part 1 — Fixed monetary penalties[^key-57a41129985dab104fb051cb1f064cea][^key-24c1e49f44ac11c25ce911913befd851]
+### Part 1 — Fixed monetary penalties[^c-57a41129985dab104fb051cb1f064cea][^c-24c1e49f44ac11c25ce911913befd851]
 
 #### Imposition of fixed monetary penalties
 
@@ -53,7 +53,7 @@ Section 147
 - (a) triable summarily (whether or not it is also triable on indictment), and
 - (b) punishable on summary conviction by a fine (whether or not it is also punishable by a term of imprisonment),
 
-the amount of the penalty may not exceed the maximum amount (if any) *(Extent: E+W)*[^key-7f93fdf378fae168499b354823996c94] of that fine.
+the amount of the penalty may not exceed the maximum amount (if any) *(Extent: E+W)*[^c-7f93fdf378fae168499b354823996c94] of that fine.
 
 #### Representations and appeals etc
 
@@ -82,7 +82,7 @@ If they decide to do so they shall serve on the person a notice imposing the pen
 
 or on such other grounds as may be prescribed.
 
-(7) An appeal under sub-paragraph (6) is to (in England and Wales) the county court or (in Northern Ireland)[^key-ccf9b7899d6c79e2cf2703abcbe7d7cd] a county court or (in Scotland) the sheriff.
+(7) An appeal under sub-paragraph (6) is to (in England and Wales) the county court or (in Northern Ireland)[^c-ccf9b7899d6c79e2cf2703abcbe7d7cd] a county court or (in Scotland) the sheriff.
 
 #### Information to be included in notices under paragraph 2
 
@@ -118,7 +118,7 @@ Neither period may be more than 28 days beginning with the day on which the noti
 
 (2) A person on whom a fixed monetary penalty is imposed may not at any time be convicted of an offence under this Act in respect of the act or omission giving rise to the penalty.
 
-### Part 2 — Discretionary requirements[^key-57a41129985dab104fb051cb1f064cea][^key-24c1e49f44ac11c25ce911913befd851]
+### Part 2 — Discretionary requirements[^c-57a41129985dab104fb051cb1f064cea][^c-24c1e49f44ac11c25ce911913befd851]
 
 #### Imposition of discretionary requirements
 
@@ -190,7 +190,7 @@ the amount of the penalty may not exceed the maximum amount of that fine.
 
 or on such other grounds as may be prescribed.
 
-(7) An appeal under sub-paragraph (6) is to (in England and Wales) the county court or (in Northern Ireland)[^key-5eb30829c7c9baa875df51bd2047dcfb] a county court or (in Scotland) the sheriff.
+(7) An appeal under sub-paragraph (6) is to (in England and Wales) the county court or (in Northern Ireland)[^c-5eb30829c7c9baa875df51bd2047dcfb] a county court or (in Scotland) the sheriff.
 
 #### Information to be included in notices under paragraph 6
 
@@ -238,9 +238,9 @@ That period may not be less than 28 days beginning with the day on which the not
 
 or on such other grounds as may be prescribed.
 
-(4) An appeal under sub-paragraph (3) is to (in England and Wales) the county court or (in Northern Ireland)[^key-462c7bb6720f2f4008c573e7dee39ef9] a county court or (in Scotland) the sheriff.
+(4) An appeal under sub-paragraph (3) is to (in England and Wales) the county court or (in Northern Ireland)[^c-462c7bb6720f2f4008c573e7dee39ef9] a county court or (in Scotland) the sheriff.
 
-### Part 3 — Stop notices[^key-57a41129985dab104fb051cb1f064cea][^key-24c1e49f44ac11c25ce911913befd851]
+### Part 3 — Stop notices[^c-57a41129985dab104fb051cb1f064cea][^c-24c1e49f44ac11c25ce911913befd851]
 
 #### Imposition of stop notices
 
@@ -306,13 +306,13 @@ or on such other grounds as may be prescribed.
 
 or an such other grounds as may be prescribed.
 
-(3) An appeal under sub-paragraph (1) or (2) is to (in England and Wales) the county court or (in Northern Ireland)[^key-22777ee3b39569aa088f3af62b561678] a county court or (in Scotland) the sheriff.
+(3) An appeal under sub-paragraph (1) or (2) is to (in England and Wales) the county court or (in Northern Ireland)[^c-22777ee3b39569aa088f3af62b561678] a county court or (in Scotland) the sheriff.
 
 #### Failure to comply with stop notice
 
 **14.** A person served with a stop notice who does not comply with it is guilty of an offence.
 
-### Part 4 — Enforcement undertakings[^key-57a41129985dab104fb051cb1f064cea][^key-24c1e49f44ac11c25ce911913befd851]
+### Part 4 — Enforcement undertakings[^c-57a41129985dab104fb051cb1f064cea][^c-24c1e49f44ac11c25ce911913befd851]
 
 **15.** (1) This paragraph applies where—
 
@@ -415,7 +415,7 @@ a supplementary order may make provision extending any period within which such 
 - (d) power to remit the decision whether to confirm the requirement or notice, or any matter relating to that decision, to the Commission;
 - (e) power to award costs or (in the case of a court in Scotland) expenses.
 
-### Part 6 — General and supplemental[^key-96de07f6c88959f31f37bbcb088974b5][^key-18128e58cd4c323a28d0107b439d76c7]
+### Part 6 — General and supplemental[^c-96de07f6c88959f31f37bbcb088974b5][^c-18128e58cd4c323a28d0107b439d76c7]
 
 #### Combination of sanctions
 
@@ -511,7 +511,7 @@ they shall pay it into the Consolidated Fund.
 - (a) the Crown Prosecution Service,
 - (b) a member of a police force in England and Wales,
 - (c) a Procurator Fiscal,
-- (d) a constable of the Police Service of Scotland[^key-5a820e4e4a5dac35825ce6a0195e970f],
+- (d) a constable of the Police Service of Scotland[^c-5a820e4e4a5dac35825ce6a0195e970f],
 - (e) the Public Prosecution Service for Northern Ireland, or
 - (f) a member of the Police Service of Northern Ireland,
 
@@ -523,12 +523,12 @@ may be disclosed to the Commission for the purpose of the exercise by the Commis
 
 (4) Nothing in this paragraph authorises the making of a disclosure in contravention of—
 
-- (a) the the data protection legislation[^key-caf89f3967f6f264d6f28d4fec098bf3], or
-- (b)[^key-be9b2f6965a6a7193cf11a5871865fec] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+- (a) the the data protection legislation[^c-caf89f3967f6f264d6f28d4fec098bf3], or
+- (b)[^c-be9b2f6965a6a7193cf11a5871865fec] any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (5) This paragraph does not affect a power to disclose that exists apart from this paragraph.
 
-(6)[^key-c2a52cdb3f5073a9634e04377c4b1dfa] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(6)[^c-c2a52cdb3f5073a9634e04377c4b1dfa] In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ### Part 7 — Interpretation
 
@@ -554,40 +554,40 @@ may be disclosed to the Commission for the purpose of the exercise by the Commis
 
 ## Annotations
 
-[^key-1ecc26f2b006c4b0b2a708c89780c37f]: Modification: Sch. 19C modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/6)[(7)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/7), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/1/schedule/9)
+[^c-1ecc26f2b006c4b0b2a708c89780c37f]: Modification: Sch. 19C modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/6)[(7)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/7), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/1/schedule/9)
 
-[^key-94d7d4aaad0af92f29ac9e4fe5bc7d63]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/7) (with [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/8)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-94d7d4aaad0af92f29ac9e4fe5bc7d63]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/7) (with [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/8)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ebafa717ddf1baae24a04e71d83d4432]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/4) (with [Sch. 1 para. 44(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ebafa717ddf1baae24a04e71d83d4432]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/4) (with [Sch. 1 para. 44(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-18a9ebfff423adfe787cf02f98856ea7]: Modification: Sch. 19C modified by 2000 c. 41, Pt. 7 Ch. 2 (as modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 37(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/1) (with [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/2)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2))
+[^c-18a9ebfff423adfe787cf02f98856ea7]: Modification: Sch. 19C modified by 2000 c. 41, Pt. 7 Ch. 2 (as modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 37(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/1) (with [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/2)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2))
 
-[^key-22c4007252a2ae94a29cd8e2bf20ea74]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/5) (with [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/9/paragraph/9/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-22c4007252a2ae94a29cd8e2bf20ea74]: Modification: Sch. 19C modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(5)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/5) (with [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/9/paragraph/9/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-6e0a2ac9673b2cd06b4f05fba26a865e]: Textual amendment: Sch. 19C inserted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2009/12/section/3/2), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/12/schedule/2); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/c/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))
+[^c-6e0a2ac9673b2cd06b4f05fba26a865e]: Textual amendment: Sch. 19C inserted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2009/12/section/3/2), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/12/schedule/2); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/c/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))
 
-[^key-57a41129985dab104fb051cb1f064cea]: Modification: [Sch. 19C Pts. 1-4](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/1) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-57a41129985dab104fb051cb1f064cea]: Modification: [Sch. 19C Pts. 1-4](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/1) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-24c1e49f44ac11c25ce911913befd851]: Modification: [Sch. 19C Pts. 1-4](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/1) applied (with modifications) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-24c1e49f44ac11c25ce911913befd851]: Modification: [Sch. 19C Pts. 1-4](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/1) applied (with modifications) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
 
-[^key-7f93fdf378fae168499b354823996c94]: Textual amendment: Words in Sch. 19C para. 1(6) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/9) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-7f93fdf378fae168499b354823996c94]: Textual amendment: Words in Sch. 19C para. 1(6) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/9) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-ccf9b7899d6c79e2cf2703abcbe7d7cd]: Textual amendment: Words in Sch. 19C para. 2(7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ccf9b7899d6c79e2cf2703abcbe7d7cd]: Textual amendment: Words in Sch. 19C para. 2(7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-5eb30829c7c9baa875df51bd2047dcfb]: Textual amendment: Words in Sch. 19C para. 6(7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5eb30829c7c9baa875df51bd2047dcfb]: Textual amendment: Words in Sch. 19C para. 6(7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-462c7bb6720f2f4008c573e7dee39ef9]: Textual amendment: Words in Sch. 19C para. 9(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-462c7bb6720f2f4008c573e7dee39ef9]: Textual amendment: Words in Sch. 19C para. 9(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-22777ee3b39569aa088f3af62b561678]: Textual amendment: Words in Sch. 19C para. 13(3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-22777ee3b39569aa088f3af62b561678]: Textual amendment: Words in Sch. 19C para. 13(3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(d)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/d); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-96de07f6c88959f31f37bbcb088974b5]: Modification: [Sch. 19C Pt. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/6) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-96de07f6c88959f31f37bbcb088974b5]: Modification: [Sch. 19C Pt. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/6) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-18128e58cd4c323a28d0107b439d76c7]: Modification: [Sch. 19C Pt. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/6) applied (with modifications) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-18128e58cd4c323a28d0107b439d76c7]: Modification: [Sch. 19C Pt. 6](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/part/6) applied (with modifications) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
 
-[^key-5a820e4e4a5dac35825ce6a0195e970f]: Textual amendment: Words in Sch. 19C para. 28(1)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/34)
+[^c-5a820e4e4a5dac35825ce6a0195e970f]: Textual amendment: Words in Sch. 19C para. 28(1)(d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/34)
 
-[^key-caf89f3967f6f264d6f28d4fec098bf3]: Textual amendment: Words in Sch. 19C para. 28(4)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 65(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/65/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-caf89f3967f6f264d6f28d4fec098bf3]: Textual amendment: Words in Sch. 19C para. 28(4)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 65(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/65/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-be9b2f6965a6a7193cf11a5871865fec]: Textual amendment: [Sch. 19C para. 28(4)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/paragraph/28/4/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/7) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-be9b2f6965a6a7193cf11a5871865fec]: Textual amendment: [Sch. 19C para. 28(4)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19C/paragraph/28/4/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/7) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-c2a52cdb3f5073a9634e04377c4b1dfa]: Textual amendment: Words in Sch. 19C para. 28(6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 65(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/65/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c2a52cdb3f5073a9634e04377c4b1dfa]: Textual amendment: Words in Sch. 19C para. 28(6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 65(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/65/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Reports on promotion of public awareness about elections[^key-7d0ae64d75ff23b03256dcf5e1254001][^key-b8e0ac3ac4b197c2a695f77104e7c608]
+## 67. Reports on promotion of public awareness about elections[^c-7d0ae64d75ff23b03256dcf5e1254001][^c-b8e0ac3ac4b197c2a695f77104e7c608]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d0ae64d75ff23b03256dcf5e1254001]: Commencement: S. 67 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-7d0ae64d75ff23b03256dcf5e1254001]: Commencement: S. 67 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-b8e0ac3ac4b197c2a695f77104e7c608]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2025/4/section/67) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-b8e0ac3ac4b197c2a695f77104e7c608]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2025/4/section/67) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

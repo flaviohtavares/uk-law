@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (2017 Benefits Up-rating) Regulations (Northern Ireland) 2018 (revoked)[^key-97201ff68ed8ae751dd4ac473873f22d]
+The Social Security (2017 Benefits Up-rating) Regulations (Northern Ireland) 2018 (revoked)[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into operation
 
 24th March 2018
 
-[^key-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-97201ff68ed8ae751dd4ac473873f22d]
+## 1. Citation, commencement and interpretation[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-97201ff68ed8ae751dd4ac473873f22d]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-97201ff68ed8ae751dd4ac473873f22d]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-97201ff68ed8ae751dd4ac473873f22d]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-97201ff68ed8ae751dd4ac473873f22d]
+## 5. Revocation[^c-97201ff68ed8ae751dd4ac473873f22d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97201ff68ed8ae751dd4ac473873f22d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97201ff68ed8ae751dd4ac473873f22d]: Textual amendment: Regulations revoked (9.4.2018) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2018 (S.R. 2018/60)](https://www.legislation.gov.uk/nisr/2018/60), [regs. 1](https://www.legislation.gov.uk/nisr/2018/60/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2018/60/regulation/6/b)
+[^c-97201ff68ed8ae751dd4ac473873f22d]: Textual amendment: Regulations revoked (9.4.2018) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2018 (S.R. 2018/60)](https://www.legislation.gov.uk/nisr/2018/60), [regs. 1](https://www.legislation.gov.uk/nisr/2018/60/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2018/60/regulation/6/b)

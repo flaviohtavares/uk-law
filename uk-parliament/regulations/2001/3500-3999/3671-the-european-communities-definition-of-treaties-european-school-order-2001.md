@@ -31,7 +31,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The European Communities (Definition of Treaties) (European School) Order 2001 (revoked)[^key-c484e21a3031ecfe83001237db4ea891]
+The European Communities (Definition of Treaties) (European School) Order 2001 (revoked)[^c-c484e21a3031ecfe83001237db4ea891]
 
 Made
 
@@ -47,30 +47,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-c484e21a3031ecfe83001237db4ea891]
+## 1.[^c-c484e21a3031ecfe83001237db4ea891]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-c484e21a3031ecfe83001237db4ea891]
+## 2.[^c-c484e21a3031ecfe83001237db4ea891]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c484e21a3031ecfe83001237db4ea891]
+## SCHEDULE[^c-c484e21a3031ecfe83001237db4ea891]
 
-[^key-c484e21a3031ecfe83001237db4ea891]
+[^c-c484e21a3031ecfe83001237db4ea891]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c484e21a3031ecfe83001237db4ea891]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c484e21a3031ecfe83001237db4ea891]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3671) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c484e21a3031ecfe83001237db4ea891]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3671) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

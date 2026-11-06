@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Injunctions to prevent gang-related violence and drug-dealing activity[^key-17859b886227a5cfbe8346399203ac68][^key-011dbe5122fa4af74177b8c212dc123f]
+## 34. Injunctions to prevent gang-related violence and drug-dealing activity[^c-17859b886227a5cfbe8346399203ac68][^c-011dbe5122fa4af74177b8c212dc123f]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 (6) In this section “ **violence** ” includes a threat of violence.
 
-(7)[^key-693bbd03f189f46220b52403d19837f5] In this Part “ **drug-dealing activity** ” means—
+(7)[^c-693bbd03f189f46220b52403d19837f5] In this Part “ **drug-dealing activity** ” means—
 
 - (a) the unlawful production, supply, importation or exportation of a controlled drug, or
 - (b) the unlawful production, supply, importation or exportation of a psychoactive substance.
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-17859b886227a5cfbe8346399203ac68]: Commencement: S. 34 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988) , [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-17859b886227a5cfbe8346399203ac68]: Commencement: S. 34 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988) , [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
 
-[^key-011dbe5122fa4af74177b8c212dc123f]: Textual amendment: S. 34 substituted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9) , [ss. 51](https://www.legislation.gov.uk/ukpga/2015/9/section/51) , [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) ; [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820) , [reg. 3(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/n)
+[^c-011dbe5122fa4af74177b8c212dc123f]: Textual amendment: S. 34 substituted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9) , [ss. 51](https://www.legislation.gov.uk/ukpga/2015/9/section/51) , [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) ; [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820) , [reg. 3(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/n)
 
-[^key-693bbd03f189f46220b52403d19837f5]: Textual amendment: S. 34(7) (8) substituted for s. 34(7) (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2) , [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2) , [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/10) ; [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553) , [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-693bbd03f189f46220b52403d19837f5]: Textual amendment: S. 34(7) (8) substituted for s. 34(7) (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2) , [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2) , [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/10) ; [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553) , [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

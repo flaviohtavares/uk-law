@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — CLASSIFICATION OF AIRCRAFT[^key-a651911b3fde32b886603add1e87fefc]
+## SCHEDULE 2 — CLASSIFICATION OF AIRCRAFT[^c-a651911b3fde32b886603add1e87fefc]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ Table of general classification of aircraft
 
 ## Annotations
 
-[^key-a651911b3fde32b886603add1e87fefc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2870/schedule/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-a651911b3fde32b886603add1e87fefc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2870/schedule/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 245. Record of examination[^key-c1fc8097ae8d079955f64a92d7dbab66]
+## 245. Record of examination[^c-c1fc8097ae8d079955f64a92d7dbab66]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 9.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c1fc8097ae8d079955f64a92d7dbab66]: Commencement: Rule 245 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c1fc8097ae8d079955f64a92d7dbab66]: Commencement: Rule 245 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

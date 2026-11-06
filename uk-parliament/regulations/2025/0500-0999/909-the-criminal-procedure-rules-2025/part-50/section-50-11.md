@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.11. Preliminary hearing after provisional arrest[^key-77c8772459a9b4c886b026b394990df1]
+## 50.11. Preliminary hearing after provisional arrest[^c-77c8772459a9b4c886b026b394990df1]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-77c8772459a9b4c886b026b394990df1]: Commencement: [Rule 50.11](https://www.legislation.gov.uk/uksi/2025/909/rule/50.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-77c8772459a9b4c886b026b394990df1]: Commencement: [Rule 50.11](https://www.legislation.gov.uk/uksi/2025/909/rule/50.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01341]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 74A was inserted by paragraphs 1 and 2 of the Schedule to the Extradition (Provisional Arrest) Act [2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18).
 

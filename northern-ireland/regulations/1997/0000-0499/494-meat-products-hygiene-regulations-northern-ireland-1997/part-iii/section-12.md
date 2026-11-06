@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Storage and transportation conditions[^key-4935294f04fc98949117ae8d4f341bc8]
+## 12. Storage and transportation conditions[^c-4935294f04fc98949117ae8d4f341bc8]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4935294f04fc98949117ae8d4f341bc8]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-4935294f04fc98949117ae8d4f341bc8]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1981 No. 1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)

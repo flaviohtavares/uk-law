@@ -29,7 +29,7 @@ summary: ''
 
 (3) A person who makes off while subject to such a requirement is guilty of an offence and liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
 
-(4)[^key-909671e6207cf4b3838b01d648d208b2][^c19841011] In subsection (2), a reference to an offence under a particular provision includes a reference to any offence consisting of an attempt to commit, incitement or conspiracy to commit, or aiding, abetting, counselling or procuring the commission of, an offence under that provision.
+(4)[^c-909671e6207cf4b3838b01d648d208b2][^c19841011] In subsection (2), a reference to an offence under a particular provision includes a reference to any offence consisting of an attempt to commit, incitement or conspiracy to commit, or aiding, abetting, counselling or procuring the commission of, an offence under that provision.
 
 ## Annotations
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c19830791]: Modification: [S. 9A(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/9A/2) modified (temp.) (10.10.2007) by [The Offender Management Act 2007 (Commencement No.1 and Transitional Provisions) Order 2007 (S.I. 2007/3001)](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/2)
 
-[^key-909671e6207cf4b3838b01d648d208b2]: Modification: [S. 9A(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/9A/4) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/24) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-909671e6207cf4b3838b01d648d208b2]: Modification: [S. 9A(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/9A/4) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/24) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c19841011]: Modification: [S. 9A(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/9A/4) modified (prosp.) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(1)(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/24) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5))

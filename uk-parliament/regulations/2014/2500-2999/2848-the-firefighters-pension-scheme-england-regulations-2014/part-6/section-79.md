@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Surviving partner’s pension payable on death of deferred member[^key-10dda0994d1104d24e4a97335bb8e3e2]
+## 79. Surviving partner’s pension payable on death of deferred member[^c-10dda0994d1104d24e4a97335bb8e3e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10dda0994d1104d24e4a97335bb8e3e2]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2014/2848/regulation/79) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-10dda0994d1104d24e4a97335bb8e3e2]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2014/2848/regulation/79) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Meaning of “residential institution”: further provision[^key-bafc4f3ee4e542be378631a3232bba13]
+## 21. Meaning of “residential institution”: further provision[^c-bafc4f3ee4e542be378631a3232bba13]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bafc4f3ee4e542be378631a3232bba13]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/15/section/21) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-bafc4f3ee4e542be378631a3232bba13]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/15/section/21) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

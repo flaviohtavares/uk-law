@@ -34,7 +34,7 @@ This Statutory Instrument has been printed to correct errors in [SI 2010/333](ht
 
 Health And Safety
 
-The Notification of Conventional Tower Cranes (Amendment) Regulations 2010 (revoked)[^key-985f582af00f48628daa968774227027]
+The Notification of Conventional Tower Cranes (Amendment) Regulations 2010 (revoked)[^c-985f582af00f48628daa968774227027]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 6th April 2010
 
-[^key-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-985f582af00f48628daa968774227027]
+## 1. Citation and commencement[^c-985f582af00f48628daa968774227027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Notification of Conventional Tower Cranes Regulations 2010[^key-985f582af00f48628daa968774227027]
+## 2. Amendment of the Notification of Conventional Tower Cranes Regulations 2010[^c-985f582af00f48628daa968774227027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-985f582af00f48628daa968774227027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-985f582af00f48628daa968774227027]: Textual amendment: Regulations revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2013/448/schedule)
+[^c-985f582af00f48628daa968774227027]: Textual amendment: Regulations revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2013/448/schedule)

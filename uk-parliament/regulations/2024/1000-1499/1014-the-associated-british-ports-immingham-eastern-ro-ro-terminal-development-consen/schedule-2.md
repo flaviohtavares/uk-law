@@ -24,7 +24,7 @@ Articles 3 and 5
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-9e8de510386d6d2294a51b10172a7340]
+#### 1. Interpretation[^c-9e8de510386d6d2294a51b10172a7340]
 
 In this Part of this Schedule—
 
@@ -36,21 +36,21 @@ In this Part of this Schedule—
   - (b) part (b) of Work No. 3 as defined in Schedule 1 to this Order; or
   - (c) both parts (a) and (b) of Work No. 3 as defined in Schedule 1 to this Order;
 - “**IOT**” means the Immingham Oil Terminal;
-- “[^key-7a6b8c2da73b06503665cf5bc627b746]**IOT Operators**” means Associated Petroleum Terminals (Immingham) Ltd and Humber Oil Terminal Trustees Ltd, with “Associated Petroleum Terminals (Immingham) Ltd” meaning Associated Petroleum Terminals (Immingham) Limited, company number (00564394) registered at Queens Road, Immingham, Grimsby, N E Lincolnshire, DN40 2PN, and any successor in title and “Humber Oil Terminal Trustees Ltd” meaning Humber Oil Terminal Trustees Limited, company number (00874993) registered at Queens Road, Immingham, Grimsby, N E Lincolnshire, DN40 2PN, and any successor in title
+- “[^c-7a6b8c2da73b06503665cf5bc627b746]**IOT Operators**” means Associated Petroleum Terminals (Immingham) Ltd and Humber Oil Terminal Trustees Ltd, with “Associated Petroleum Terminals (Immingham) Ltd” meaning Associated Petroleum Terminals (Immingham) Limited, company number (00564394) registered at Queens Road, Immingham, Grimsby, N E Lincolnshire, DN40 2PN, and any successor in title and “Humber Oil Terminal Trustees Ltd” meaning Humber Oil Terminal Trustees Limited, company number (00874993) registered at Queens Road, Immingham, Grimsby, N E Lincolnshire, DN40 2PN, and any successor in title
 - “**National Highways**” means National Highways Limited (company number 09346363) whose registered office is Bridge House, 1 Walnut Tree Close, Guildford, Surrey GU1 4LZ or any such successor or replacement body that may from time to time be primarily responsible for the functions, duties and responsibilities currently exercised by that statutory body;
 - “**operational freight management plan**” means the document of that description listed in Schedule 7 (plans and documents to be certified) and certified by the Secretary of State as the ‘operational freight management plan’ for the purposes of this Order;
 - “**outline onshore construction environmental management plan**” means the document of that description in Schedule 7 (plans and documents to be certified) and certified by the Secretary of State as the outline onshore construction environmental management plan for the purposes of this Order; and
 - “**travel plan**” means the document of that description listed in Schedule 7 (plans and documents to be certified) and certified by the Secretary of State as the ‘travel plan’ for the purposes of this Order.
 
-#### 2. Time limit for commencement of the authorised development[^key-34e9f6fc709ab8ef73122877719a394c]
+#### 2. Time limit for commencement of the authorised development[^c-34e9f6fc709ab8ef73122877719a394c]
 
 The authorised development must commence within 5 years of the date on which this Order comes into force.
 
-#### 3. Amendments to approved details[^key-36055a17d20634681826b161fba41590]
+#### 3. Amendments to approved details[^c-36055a17d20634681826b161fba41590]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details of schemes or plans approved under this Schedule the approved details or schemes or plans are taken to include any amendments that may subsequently be approved in writing by the approving body.
 
-#### 4. Construction hours – onshore works[^key-29e94f33c66e7c7110b7c5492615ec47]
+#### 4. Construction hours – onshore works[^c-29e94f33c66e7c7110b7c5492615ec47]
 
 (1) Subject to sub-paragraph (2), no construction work for Work Nos. 4 to 13 or any ancillary works associated with them may take place on bank holidays or outside the hours of 07:00 to 19:00 Mondays to Fridays and 07:00 to 13:00 on Saturdays.
 
@@ -67,13 +67,13 @@ With respect to any requirement which requires the authorised development to be 
 
 (4) In this requirement, “**bank holiday**” means a bank holiday in England and Wales under section 1 of the Banking and Financial Dealings Act 1971[^f00062].
 
-#### 5. Travel plan[^key-28b21c3eea85b0d786353ffcb49cd92e]
+#### 5. Travel plan[^c-28b21c3eea85b0d786353ffcb49cd92e]
 
 (1) The operation of the authorised development must not be commenced until a final version of the travel plan has been submitted to and approved in writing by the Council.
 
 (2) The authorised development must be carried out in accordance with the travel plan approved pursuant to sub-paragraph (1).
 
-#### 6. Piling and marine construction works restrictions[^key-743caa2d0ecb3f1b64801f51d264f6ea]
+#### 6. Piling and marine construction works restrictions[^c-743caa2d0ecb3f1b64801f51d264f6ea]
 
 (1) Piling and marine construction works may be undertaken 24 hours a day on Mondays to Sundays provided that such works are undertaken in accordance with paragraph 12 of Part 2 of Schedule 3 (deemed marine licence).
 
@@ -81,7 +81,7 @@ With respect to any requirement which requires the authorised development to be 
 
 (3) Works for the capital dredge, which has the same meaning as in paragraph 1(1)(b) of Part 1 of Schedule 3, may be undertaken without restriction as to time or day.
 
-#### 7. External appearance and height of the authorised development[^key-391b832cfcd871f572eae16516bbddfb]
+#### 7. External appearance and height of the authorised development[^c-391b832cfcd871f572eae16516bbddfb]
 
 (1) Construction of—
 
@@ -97,7 +97,7 @@ must not be commenced until the details of the location, heights relative to the
 
 (4) The authorised development will not be in accordance with the general arrangement plans if any departure from the general arrangement plans would give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement.
 
-#### 8. Onshore construction environmental management plan[^key-060840964f2fe478b4f87414f2ba0072]
+#### 8. Onshore construction environmental management plan[^c-060840964f2fe478b4f87414f2ba0072]
 
 (1) No part of the authorised development may be commenced until an onshore construction environmental management plan has been submitted to and approved in writing by the Council and National Highways (on matters related to its functions), following consultation with the MMO, Natural England, the Environment Agency, Network Rail, Royal Mail and the Board on matters related to their respective functions.
 
@@ -105,7 +105,7 @@ must not be commenced until the details of the location, heights relative to the
 
 (3) The construction of the authorised development must be undertaken in accordance with the approved onshore construction environmental management plan.
 
-#### 9. Surface water drainage[^key-2b71d54c8e563860b596a69a3916cddf]
+#### 9. Surface water drainage[^c-2b71d54c8e563860b596a69a3916cddf]
 
 (1) The authorised development, save for the permitted preliminary works, must not be commenced until a final version of the drainage strategy has been submitted to and approved in writing by the Board. The onshore parts of the authorised development shall be implemented in accordance with the approved drainage strategy.
 
@@ -116,7 +116,7 @@ must not be commenced until the details of the location, heights relative to the
 - (a) works consisting of the removal of existing structures and site clearance works; and
 - (b) works consisting of any part of the off-site mitigation works, the installation of wheel cleaning facilities, the installation and diversion of utility services, surveys and the provision of temporary contractors’ facilities.
 
-#### 10. Noise insulation[^key-229138a292beb6e34c0f68acd6ecde2a]
+#### 10. Noise insulation[^c-229138a292beb6e34c0f68acd6ecde2a]
 
 (1) Prior to the commencement of the authorised development the undertaker must offer the owner and occupier of each of the residential buildings along Queens Road, Immingham a package of noise insulation mitigation to reduce internal noise levels in sensitive rooms. The noise insulation must be designed to reduce the noise level by at least the maximum predicted increase in road traffic noise (7.4 decibels) due to the operation of the authorised development, taking into consideration the performance of the existing glazing and ventilation.
 
@@ -124,24 +124,24 @@ must not be commenced until the details of the location, heights relative to the
 
 (3) Any dispute arising between the undertaker and the owner and occupier of a residential building along Queens Road, Immingham under this requirement is to be determined by arbitration as provided in article 35 (arbitration).
 
-#### 11. Woodland management[^key-4d0b27aee92c2427be1513a6e0948042]
+#### 11. Woodland management[^c-4d0b27aee92c2427be1513a6e0948042]
 
 The operation of the authorised development must not be commenced until a final version of the WEMP has been submitted to and approved in writing by the Council. The authorised development must be implemented in accordance with the approved WEMP.
 
-#### 12. East Gate Improvements (Work No. 12)[^key-1d5deeedd3b94e63bedafb1c8d65825c]
+#### 12. East Gate Improvements (Work No. 12)[^c-1d5deeedd3b94e63bedafb1c8d65825c]
 
 The operation of the authorised development must not be commenced until—
 
 - (a) the undertaker has entered into such agreements with the Council as may be necessary in connection with Work No. 12 ; and
 - (b) the agreed works constituting Work No. 12 have been completed and are available for use.
 
-#### 13. Operational freight management plan[^key-b9b19820a06267b854e175b0784a5c4b]
+#### 13. Operational freight management plan[^c-b9b19820a06267b854e175b0784a5c4b]
 
 (1) The operation of the authorised development must not be commenced until a final version of the operational freight management plan has been submitted to and approved in writing by the Council and National Highways (on matters related to its functions).
 
 (2) The authorised development must be carried out in accordance with the operational freight management plan approved pursuant to sub-paragraph (1).
 
-#### 14. Lighting plan[^key-79fc4237a7e7551a24f429b69e1f57d9]
+#### 14. Lighting plan[^c-79fc4237a7e7551a24f429b69e1f57d9]
 
 (1) No part of the authorised development may be brought into operation until a written scheme of the proposed operational lighting to be provided for that part of the authorised development has been submitted to and approved in writing by the Council and Network Rail.
 
@@ -149,11 +149,11 @@ The operation of the authorised development must not be commenced until—
 
 (3) The authorised development must be operated in accordance with the scheme approved under sub-paragraph (1).
 
-#### 15. Flood risk assessment[^key-1425a0ccf315796681c48323271479a2]
+#### 15. Flood risk assessment[^c-1425a0ccf315796681c48323271479a2]
 
 The authorised development must be constructed and operated in accordance with the flood risk assessment.
 
-#### 16. Contaminated land[^key-fb7e2de28d71eb5ccbd89893314adb29]
+#### 16. Contaminated land[^c-fb7e2de28d71eb5ccbd89893314adb29]
 
 (1) No part of Work Nos. 4 to 13 inclusive and any ancillary works associated with those onshore works numbers shall be commenced until a written remediation strategy applicable to the relevant part of Work Nos. 4 to 13 inclusive and any ancillary works associated with those onshore works numbers, dealing with any contamination of that land, including groundwater and ground gas, within the Order limits which is likely to cause significant harm to persons or pollution of controlled waters or the environment has, after consultation with the Environment Agency, been submitted to and approved in writing by the Council.
 
@@ -161,7 +161,7 @@ The authorised development must be constructed and operated in accordance with t
 
 (3) Any remediation must be carried out in accordance with the approved remediation strategy.
 
-#### 17. Materials Management Plan[^key-48fc08fb2717f3074c25144c2cdfb232]
+#### 17. Materials Management Plan[^c-48fc08fb2717f3074c25144c2cdfb232]
 
 (1) A written materials management plan in compliance with the provisions of the CL:AIRE DoW CoP must be produced and submitted to a Qualified Person for approval and issue of a declaration (made under the CL:AIRE DoW CoP), such declaration to be approved by CL:AIRE and submitted to the Environment Agency and the Council for its records, before any works to which the materials management plan relates commence.
 
@@ -173,9 +173,9 @@ The authorised development must be constructed and operated in accordance with t
 - (b) “**the DoW CoP**” means the CL:AIRE Definition of Waste: Development Industry Code of Practice; and
 - (c) “**Qualified Person**” means a person appearing on the register of Qualified Persons for the CL:AIRE Definition of Waste: Development Industry Code of Practice.
 
-#### 18. Impact Protection Measures for the IOT trunkway[^key-2b786d6a1a32342695a30a53dc2dfdd5]
+#### 18. Impact Protection Measures for the IOT trunkway[^c-2b786d6a1a32342695a30a53dc2dfdd5]
 
-(1) In the event that the Statutory Conservancy and Navigation Authority or the dock master determine that the impact protection measures comprising Work No. 3(a) are required, upon receiving notification of that determination[^key-c53fca4a8e39f93e4e41285b2b444e7f] from the Statutory Conservancy and Navigation Authority or the dock master, the undertaker must construct the impact protection measures.
+(1) In the event that the Statutory Conservancy and Navigation Authority or the dock master determine that the impact protection measures comprising Work No. 3(a) are required, upon receiving notification of that determination[^c-c53fca4a8e39f93e4e41285b2b444e7f] from the Statutory Conservancy and Navigation Authority or the dock master, the undertaker must construct the impact protection measures.
 
 (2) Upon receiving notification of the Statutory Conservancy and Navigation Authority’s or dock master’s determination referred to in sub-paragraph (1):
 
@@ -192,7 +192,7 @@ The authorised development must be constructed and operated in accordance with t
 - (b) in general accordance with the detail shown on the relevant engineering, sections, drawings and plans; and
 - (c) in general accordance with the detail shown on the relevant general arrangement plans.
 
-#### 19. Impact Protection Measures for the IOT finger pier[^key-b2ce457040890cf4ef169d62f35eee52]
+#### 19. Impact Protection Measures for the IOT finger pier[^c-b2ce457040890cf4ef169d62f35eee52]
 
 (1) Prior to the commencement of the commercial operation of Berth 1, using the berth numbering adopted on General Arrangements Plan B2429400-JAC-00-ZZ-DR-ZZ-0202 Revision P05, the undertaker must—
 
@@ -200,11 +200,11 @@ The authorised development must be constructed and operated in accordance with t
 - (b) agree a programme of works with the parties identified in sub-paragraph (a) above; and
 - (c) install the impact protection measures detailed as Work No. 3(b).
 
-#### 20. Amending the Port of Immingham Marine Operations Manual[^key-b220cfbb7cdef6f7f7f3360c8c77005c]
+#### 20. Amending the Port of Immingham Marine Operations Manual[^c-b220cfbb7cdef6f7f7f3360c8c77005c]
 
 (1) The undertaker must not commence marine commercial operations until the dock master has amended the Port of Immingham Marine Operations Manual (the “Manual”) to incorporate the Enhanced Operational Controls prescribing operating procedures for arrival at and departure from the authorised development.
 
-(2) As soon as reasonably practicable after the amendment mentioned in sub-paragraph (1),[^key-7eda14203fe6984236318ea568e7ae67] the dock master must—
+(2) As soon as reasonably practicable after the amendment mentioned in sub-paragraph (1),[^c-7eda14203fe6984236318ea568e7ae67] the dock master must—
 
 - (a) notify the IOT Operators of its amendments to the Manual insofar as they relate to the operation of the authorised development; and
 - (b) publish the amended navigational controls on the Port of Immingham webpage.
@@ -213,11 +213,11 @@ The authorised development must be constructed and operated in accordance with t
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 21. Interpretation[^key-c05eb486bd7ecbe2368b98bc54a66b26]
+#### 21. Interpretation[^c-c05eb486bd7ecbe2368b98bc54a66b26]
 
 In this Part of this Schedule, “**discharging authority**” means any body responsible for giving any consent, agreement or approval required by a requirement included in Part 1 of this Schedule, or for giving any consent, agreement or approval further to any document referred to in any such requirement.
 
-#### 22. Applications made under requirements[^key-c8a7d13e470dcbced89a9285cb4aaf64]
+#### 22. Applications made under requirements[^c-c8a7d13e470dcbced89a9285cb4aaf64]
 
 (1) Subject to sub-paragraph (3), where an application has been made to the discharging authority for any consent, agreement or approval required by a requirement included in this Order, or for any consent, agreement or approval further to any document referred to in any such requirement, the discharging authority must give notice to the undertaker of its decision on the application within a period of 8 weeks beginning with—
 
@@ -240,7 +240,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 - (a) of the period mentioned in paragraph (1); and
 - (b) that if they do not respond before the end of that period, consent will be deemed to have been granted.
 
-#### 23. Further information regarding requirements[^key-08e3d0c57545be66dbea11b278783134]
+#### 23. Further information regarding requirements[^c-08e3d0c57545be66dbea11b278783134]
 
 (1) In relation to any application referred to in paragraph 22, the discharging authority may request such further information from the undertaker as it considers necessary to enable it to consider the application.
 
@@ -248,7 +248,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (3) If the discharging authority does not give the notification within the period specified in subparagraph (2) it is deemed to have sufficient information to consider the application and is not entitled to request further information without the prior agreement of the undertaker.
 
-#### 24. Appeals[^key-3eccecf468cc11d4dfaa8717bfb9e171]
+#### 24. Appeals[^c-3eccecf468cc11d4dfaa8717bfb9e171]
 
 (1) The undertaker may appeal to the Secretary of State in the event that—
 
@@ -295,66 +295,66 @@ and may deal with the application as if it had been made to the adjudicator in t
 
 (12) On application by the discharging authority or the undertaker, the adjudicator may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the adjudicator must have regard to relevant guidance on the Planning Practice Guidance website or any official circular or guidance which may replace it.
 
-#### 25. Anticipatory steps towards compliance with any requirement[^key-d3baf735a0ff3d30a848a08b387fc8ba]
+#### 25. Anticipatory steps towards compliance with any requirement[^c-d3baf735a0ff3d30a848a08b387fc8ba]
 
 If before this Order came into force the undertaker or any other person took any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-9e8de510386d6d2294a51b10172a7340]: Commencement: Sch. 2 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-9e8de510386d6d2294a51b10172a7340]: Commencement: Sch. 2 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-7a6b8c2da73b06503665cf5bc627b746]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-7a6b8c2da73b06503665cf5bc627b746]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-34e9f6fc709ab8ef73122877719a394c]: Commencement: Sch. 2 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-34e9f6fc709ab8ef73122877719a394c]: Commencement: Sch. 2 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-36055a17d20634681826b161fba41590]: Commencement: Sch. 2 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-36055a17d20634681826b161fba41590]: Commencement: Sch. 2 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-29e94f33c66e7c7110b7c5492615ec47]: Commencement: Sch. 2 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-29e94f33c66e7c7110b7c5492615ec47]: Commencement: Sch. 2 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00062]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-28b21c3eea85b0d786353ffcb49cd92e]: Commencement: Sch. 2 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-28b21c3eea85b0d786353ffcb49cd92e]: Commencement: Sch. 2 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-743caa2d0ecb3f1b64801f51d264f6ea]: Commencement: Sch. 2 para. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-743caa2d0ecb3f1b64801f51d264f6ea]: Commencement: Sch. 2 para. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-391b832cfcd871f572eae16516bbddfb]: Commencement: Sch. 2 para. 7 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-391b832cfcd871f572eae16516bbddfb]: Commencement: Sch. 2 para. 7 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-060840964f2fe478b4f87414f2ba0072]: Commencement: Sch. 2 para. 8 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-060840964f2fe478b4f87414f2ba0072]: Commencement: Sch. 2 para. 8 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-2b71d54c8e563860b596a69a3916cddf]: Commencement: Sch. 2 para. 9 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-2b71d54c8e563860b596a69a3916cddf]: Commencement: Sch. 2 para. 9 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-229138a292beb6e34c0f68acd6ecde2a]: Commencement: Sch. 2 para. 10 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-229138a292beb6e34c0f68acd6ecde2a]: Commencement: Sch. 2 para. 10 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-4d0b27aee92c2427be1513a6e0948042]: Commencement: Sch. 2 para. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-4d0b27aee92c2427be1513a6e0948042]: Commencement: Sch. 2 para. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-1d5deeedd3b94e63bedafb1c8d65825c]: Commencement: Sch. 2 para. 12 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-1d5deeedd3b94e63bedafb1c8d65825c]: Commencement: Sch. 2 para. 12 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-b9b19820a06267b854e175b0784a5c4b]: Commencement: Sch. 2 para. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-b9b19820a06267b854e175b0784a5c4b]: Commencement: Sch. 2 para. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-79fc4237a7e7551a24f429b69e1f57d9]: Commencement: Sch. 2 para. 14 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-79fc4237a7e7551a24f429b69e1f57d9]: Commencement: Sch. 2 para. 14 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-1425a0ccf315796681c48323271479a2]: Commencement: Sch. 2 para. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-1425a0ccf315796681c48323271479a2]: Commencement: Sch. 2 para. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-fb7e2de28d71eb5ccbd89893314adb29]: Commencement: Sch. 2 para. 16 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-fb7e2de28d71eb5ccbd89893314adb29]: Commencement: Sch. 2 para. 16 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-48fc08fb2717f3074c25144c2cdfb232]: Commencement: Sch. 2 para. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-48fc08fb2717f3074c25144c2cdfb232]: Commencement: Sch. 2 para. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-2b786d6a1a32342695a30a53dc2dfdd5]: Commencement: Sch. 2 para. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-2b786d6a1a32342695a30a53dc2dfdd5]: Commencement: Sch. 2 para. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-c53fca4a8e39f93e4e41285b2b444e7f]: Textual amendment: Words in [Sch. 2 para. 18(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/18/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-c53fca4a8e39f93e4e41285b2b444e7f]: Textual amendment: Words in [Sch. 2 para. 18(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/18/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-b2ce457040890cf4ef169d62f35eee52]: Commencement: Sch. 2 para. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-b2ce457040890cf4ef169d62f35eee52]: Commencement: Sch. 2 para. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-b220cfbb7cdef6f7f7f3360c8c77005c]: Commencement: Sch. 2 para. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-b220cfbb7cdef6f7f7f3360c8c77005c]: Commencement: Sch. 2 para. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-7eda14203fe6984236318ea568e7ae67]: Textual amendment: Words in [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/20/2) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-7eda14203fe6984236318ea568e7ae67]: Textual amendment: Words in [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/2/paragraph/20/2) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-c05eb486bd7ecbe2368b98bc54a66b26]: Commencement: Sch. 2 para. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-c05eb486bd7ecbe2368b98bc54a66b26]: Commencement: Sch. 2 para. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-c8a7d13e470dcbced89a9285cb4aaf64]: Commencement: Sch. 2 para. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-c8a7d13e470dcbced89a9285cb4aaf64]: Commencement: Sch. 2 para. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-08e3d0c57545be66dbea11b278783134]: Commencement: Sch. 2 para. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-08e3d0c57545be66dbea11b278783134]: Commencement: Sch. 2 para. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-3eccecf468cc11d4dfaa8717bfb9e171]: Commencement: Sch. 2 para. 24 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-3eccecf468cc11d4dfaa8717bfb9e171]: Commencement: Sch. 2 para. 24 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-d3baf735a0ff3d30a848a08b387fc8ba]: Commencement: Sch. 2 para. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-d3baf735a0ff3d30a848a08b387fc8ba]: Commencement: Sch. 2 para. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

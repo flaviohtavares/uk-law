@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. General transfer of functions to the Chief Inspector[^key-d66fd40e4c493553cbe0eaa6288be589]
+## 122. General transfer of functions to the Chief Inspector[^c-d66fd40e4c493553cbe0eaa6288be589]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d66fd40e4c493553cbe0eaa6288be589]: Commencement: S. 122 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-d66fd40e4c493553cbe0eaa6288be589]: Commencement: S. 122 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

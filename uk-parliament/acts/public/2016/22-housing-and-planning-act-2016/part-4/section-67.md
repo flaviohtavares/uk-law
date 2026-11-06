@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Consequential changes to HCA's duty to give grants[^key-2829eb40147c06f521efb3bb98c986e9]
+## 67. Consequential changes to HCA's duty to give grants[^c-2829eb40147c06f521efb3bb98c986e9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2829eb40147c06f521efb3bb98c986e9]: Commencement: S. 67 in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)
+[^c-2829eb40147c06f521efb3bb98c986e9]: Commencement: S. 67 in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)

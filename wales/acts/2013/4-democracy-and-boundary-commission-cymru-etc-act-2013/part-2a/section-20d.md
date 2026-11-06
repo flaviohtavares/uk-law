@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20D. Consultation with the Electoral Commission[^key-8fcfc78a56a254c2758114e5f2aa083a]
+## 20D. Consultation with the Electoral Commission[^c-8fcfc78a56a254c2758114e5f2aa083a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fcfc78a56a254c2758114e5f2aa083a]: Textual amendment: Pt. 2A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 1(2)](https://www.legislation.gov.uk/asc/2024/5/section/1/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)
+[^c-8fcfc78a56a254c2758114e5f2aa083a]: Textual amendment: Pt. 2A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 1(2)](https://www.legislation.gov.uk/asc/2024/5/section/1/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/a)

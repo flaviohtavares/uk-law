@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Continuation of restraint order after conviction quashed or verdict set aside[^key-d0cd0b45564143e5b2fb31a3cf205484]
+## 21. Continuation of restraint order after conviction quashed or verdict set aside[^c-d0cd0b45564143e5b2fb31a3cf205484]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ In section 121 of the Proceeds of Crime Act 2002 (application, recall and variat
 
 ## Annotations
 
-[^key-d0cd0b45564143e5b2fb31a3cf205484]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2015/9/section/21) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/f)
+[^c-d0cd0b45564143e5b2fb31a3cf205484]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2015/9/section/21) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/f)

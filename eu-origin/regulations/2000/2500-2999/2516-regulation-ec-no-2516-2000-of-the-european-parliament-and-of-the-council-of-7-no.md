@@ -31,10 +31,10 @@ Regulation (EC) No 2516/2000 of the European Parliament and of the Council
 
 of 7 November 2000 modifying the common principles of the European system of national and regional accounts in the Community (ESA) 95 as concerns taxes and social contributions and amending Council Regulation (EC) No 2223/96 (revoked)
 
-[^key-be1543b928d0ad8b5fb11dc0a8753d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be1543b928d0ad8b5fb11dc0a8753d7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-be1543b928d0ad8b5fb11dc0a8753d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-be1543b928d0ad8b5fb11dc0a8753d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be1543b928d0ad8b5fb11dc0a8753d7d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/29)
+[^c-be1543b928d0ad8b5fb11dc0a8753d7d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/29)

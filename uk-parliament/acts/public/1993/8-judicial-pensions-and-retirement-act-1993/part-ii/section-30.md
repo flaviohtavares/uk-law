@@ -52,7 +52,7 @@ summary: ''
 
 *Extent: S*
 
-(1A)[^key-e744db7f365a09d25a6b82806d535c7e] For the purposes of section 26(12)(f), (16) and (17), and the related entry in Schedule 5, “Scottish Tribunals” or “**President of Tribunals**” is to be construed in accordance with the Tribunals (Scotland) Act 2014.
+(1A)[^c-e744db7f365a09d25a6b82806d535c7e] For the purposes of section 26(12)(f), (16) and (17), and the related entry in Schedule 5, “Scottish Tribunals” or “**President of Tribunals**” is to be construed in accordance with the Tribunals (Scotland) Act 2014.
 
 (2) In the case of a person who has retired from qualifying judicial office on more than one occasion, references in this Act to his retirement from such office are references to the last of those occasions.
 
@@ -82,4 +82,4 @@ summary: ''
 
 [^c20875481]: Textual amendment: S. 30(1): definition of "surviving civil partner's pension" inserted (5.12.2005) by [The Civil Partnership (Judicial Pensions and Church Pensions, etc.) Order 2005 (S.I. 2005/3325)](https://www.legislation.gov.uk/uksi/2005/3325), [art. 76(2)(c)](https://www.legislation.gov.uk/uksi/2005/3325/article/76/2/c)
 
-[^key-e744db7f365a09d25a6b82806d535c7e]: Textual amendment: [S. 30(1A)](https://www.legislation.gov.uk/ukpga/1993/8/section/30/1A) inserted (S.) (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [sch. 9 para. 11(3)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/11/3) (with [sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e744db7f365a09d25a6b82806d535c7e]: Textual amendment: [S. 30(1A)](https://www.legislation.gov.uk/ukpga/1993/8/section/30/1A) inserted (S.) (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [sch. 9 para. 11(3)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/11/3) (with [sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -30,7 +30,7 @@ summary: ''
 - (f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253031]
 - (g) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253041]
 - (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253051]
-- (j) the provisions of Part X with respect to [^key-3f2a3e14c7826e3e1530dda285c5d673]..., preservation of registers and records, . . . [^c14253061]
+- (j) the provisions of Part X with respect to [^c-3f2a3e14c7826e3e1530dda285c5d673]..., preservation of registers and records, . . . [^c14253061]
 - (k) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253071]
 - (l) Part XII;
 - (m) Part XIV.
@@ -49,7 +49,7 @@ summary: ''
 
 [^c14253051]: Textual amendment: S. 126(2)(h) repealed by [S.I. 1975/1012](https://www.legislation.gov.uk/uksi/1975/1012), [Sch.](https://www.legislation.gov.uk/uksi/1975/1012/schedule)
 
-[^key-3f2a3e14c7826e3e1530dda285c5d673]: Textual amendment: Words in [s. 126(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/126/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
+[^c-3f2a3e14c7826e3e1530dda285c5d673]: Textual amendment: Words in [s. 126(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/126/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
 
 [^c14253061]: Textual amendment: Words repealed by [S.I. 1975/1012](https://www.legislation.gov.uk/uksi/1975/1012), [Sch.](https://www.legislation.gov.uk/uksi/1975/1012/schedule)
 

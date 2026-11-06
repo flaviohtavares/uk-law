@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 243. Registers of information relating to tree preservation orders and woodland preservation orders[^key-3efda3a4e2fb85a21be79f5a65173f7f]
+## 243. Registers of information relating to tree preservation orders and woodland preservation orders[^c-3efda3a4e2fb85a21be79f5a65173f7f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Tree preservation regulations may make provision for the keeping of, and public 
 
 ## Annotations
 
-[^key-3efda3a4e2fb85a21be79f5a65173f7f]: Commencement: S. 243 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3efda3a4e2fb85a21be79f5a65173f7f]: Commencement: S. 243 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

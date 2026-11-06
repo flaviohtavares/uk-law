@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Power of Secretary of State to require information and samples[^key-9f4e17ede09d881a06fe44f7205925cb]
+## 114. Power of Secretary of State to require information and samples[^c-9f4e17ede09d881a06fe44f7205925cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ except in accordance with this section.
 
 ## Annotations
 
-[^key-9f4e17ede09d881a06fe44f7205925cb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2023/52/section/114) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-9f4e17ede09d881a06fe44f7205925cb]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2023/52/section/114) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Making a request for advance payment of compensation[^key-b6f1bbda597832cb072cd0d641204e3a]
+## 194. Making a request for advance payment of compensation[^c-b6f1bbda597832cb072cd0d641204e3a]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f1bbda597832cb072cd0d641204e3a]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2016/22/section/194) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-b6f1bbda597832cb072cd0d641204e3a]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2016/22/section/194) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

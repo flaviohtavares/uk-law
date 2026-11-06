@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Amendments of the Intelligence Services Act 1994[^key-b780293d681fc7d8cf6334da7ab5687f]
+## 251. Amendments of the Intelligence Services Act 1994[^c-b780293d681fc7d8cf6334da7ab5687f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b780293d681fc7d8cf6334da7ab5687f]: Commencement: S. 251 in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-b780293d681fc7d8cf6334da7ab5687f]: Commencement: S. 251 in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)

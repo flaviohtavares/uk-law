@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66ZB. Effect of youth cautions[^key-f7d828cae8a98711a1348f2121f849d2]
+## 66ZB. Effect of youth cautions[^c-f7d828cae8a98711a1348f2121f849d2]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (6) The court by or before which the person is convicted—
 
-- (a) must not make an order under section 80 of the Sentencing Code[^key-7d73ded8d1500008002f7789625df22a] (conditional discharge) in respect of the offence unless it is of the opinion that there are exceptional circumstances relating to the offence or the person that justify it doing so, and
+- (a) must not make an order under section 80 of the Sentencing Code[^c-7d73ded8d1500008002f7789625df22a] (conditional discharge) in respect of the offence unless it is of the opinion that there are exceptional circumstances relating to the offence or the person that justify it doing so, and
 - (b) where it does so, must state in open court that it is of that opinion and its reasons for that opinion.
 
 (7) There may be cited in criminal proceedings—
@@ -59,6 +59,6 @@ in the same circumstances as a conviction of the person may be cited.
 
 ## Annotations
 
-[^key-f7d828cae8a98711a1348f2121f849d2]: Textual amendment: Ss. 66ZA, 66ZB and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)
+[^c-f7d828cae8a98711a1348f2121f849d2]: Textual amendment: Ss. 66ZA, 66ZB and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)
 
-[^key-7d73ded8d1500008002f7789625df22a]: Textual amendment: Words in s. 66ZB(6)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 157](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/157) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7d73ded8d1500008002f7789625df22a]: Textual amendment: Words in s. 66ZB(6)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 157](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/157) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

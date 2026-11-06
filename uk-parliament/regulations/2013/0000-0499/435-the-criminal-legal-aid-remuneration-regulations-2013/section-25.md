@@ -33,11 +33,11 @@ and where sub-paragraph (a) applies the representative must repay the excess amo
 
 (4) Paragraph (2) applies notwithstanding that the representative to whom the excess amount was paid is exercising, or may exercise, a right under regulations 28 to 30.
 
-(5)[^key-0a0fe331fa4955d6e56df628f009e903] In this regulation, where the main hearing is a trial, “trial advocate” means, for the purposes of the meaning of “representative”, the advocate who—
+(5)[^c-0a0fe331fa4955d6e56df628f009e903] In this regulation, where the main hearing is a trial, “trial advocate” means, for the purposes of the meaning of “representative”, the advocate who—
 
 - (a) is instructed pursuant to a section 16 determination to represent the assisted person at the trial, and
 - (b) attends the first day of the trial.
 
 ## Annotations
 
-[^key-0a0fe331fa4955d6e56df628f009e903]: Textual amendment: Reg. 25(5) inserted (5.5.2015) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(13)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))
+[^c-0a0fe331fa4955d6e56df628f009e903]: Textual amendment: Reg. 25(5) inserted (5.5.2015) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(13)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))

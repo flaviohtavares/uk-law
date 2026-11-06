@@ -46,7 +46,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under se
 
 Accordingly, the Department for Communities makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-fe6b07637f204942a8db434687b46a76]
+## 1. Citation, commencement and interpretation[^c-fe6b07637f204942a8db434687b46a76]
 
 (1) This Order may be cited as the Guaranteed Minimum Pensions Increase Order (Northern Ireland) 2026 and shall come into operation on 6th April 2026.
 
@@ -54,7 +54,7 @@ Accordingly, the Department for Communities makes the following Order.
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to this Order as it applies to an Act of the Assembly.
 
-## 2. Increase of guaranteed minimum pensions[^key-36e70f71d471910d7d55a9051af4618b]
+## 2. Increase of guaranteed minimum pensions[^c-36e70f71d471910d7d55a9051af4618b]
 
 For the purposes of section 105(1) of the Pension Schemes (Northern Ireland) Act 1993, the percentage by which there is to be an increase of the rate of that part of guaranteed minimum pensions which is attributable to earnings factors for the tax years in the relevant period is 3 per cent.
 
@@ -82,10 +82,10 @@ This Order, which corresponds to an Order ([S.I. 2026/133](https://www.legislati
 
 [^f00004]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48)
 
-[^key-fe6b07637f204942a8db434687b46a76]: Commencement: Art. 1 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/51/article/1/1)
+[^c-fe6b07637f204942a8db434687b46a76]: Commencement: Art. 1 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/51/article/1/1)
 
 [^f00005]: Footnote: Section 109(3A) was inserted by section 55(b) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and amended by paragraph 40 of Schedule 13 to the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-36e70f71d471910d7d55a9051af4618b]: Commencement: Art. 2 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/51/article/1/1)
+[^c-36e70f71d471910d7d55a9051af4618b]: Commencement: Art. 2 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/51/article/1/1)

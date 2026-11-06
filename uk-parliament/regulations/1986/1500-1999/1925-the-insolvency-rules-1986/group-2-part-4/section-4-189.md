@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.189. Additional notices[^key-bf42bca86f54f491b843fa70dd0963ec]
+## 4.189. Additional notices[^c-bf42bca86f54f491b843fa70dd0963ec]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf42bca86f54f491b843fa70dd0963ec]: Commencement: [Rule 4.189](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.189) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bf42bca86f54f491b843fa70dd0963ec]: Commencement: [Rule 4.189](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.189) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00104]: Marginal citation: \[FORM 4.53\]

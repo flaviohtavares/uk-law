@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Urban development corporations[^key-56fe1f2c2a5e9d194de516a677b73b62]
+## 39. Urban development corporations[^c-56fe1f2c2a5e9d194de516a677b73b62]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Welsh Ministers may direct that Chapters 3 and 4 do not apply to the area of
 
 ## Annotations
 
-[^key-56fe1f2c2a5e9d194de516a677b73b62]: Commencement: S. 39 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-56fe1f2c2a5e9d194de516a677b73b62]: Commencement: S. 39 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-5cab3484e7688548d004938e19f169e0] In section 132 of the Social Security Administration (Northern Ireland) Act 1992 (annual up-rating of benefits)—
+(1)[^c-5cab3484e7688548d004938e19f169e0] In section 132 of the Social Security Administration (Northern Ireland) Act 1992 (annual up-rating of benefits)—
 
 - (a) in subsection (3)(a) for “person who is also entitled to a Category A or Category B retirement pension” substitute “ relevant person ”;
 - (b) after subsection (3) insert—
@@ -37,7 +37,7 @@ summary: ''
 
   .
 
-(2)[^key-5cab3484e7688548d004938e19f169e0] In that section after subsection (3A) insert—
+(2)[^c-5cab3484e7688548d004938e19f169e0] In that section after subsection (3A) insert—
 
 > (3B) Subsection (3A) does not have effect unless—
 >
@@ -51,30 +51,30 @@ summary: ''
 
 .
 
-(3)[^key-5cab3484e7688548d004938e19f169e0] In that section omit subsection (5).
+(3)[^c-5cab3484e7688548d004938e19f169e0] In that section omit subsection (5).
 
-(4)[^key-5cab3484e7688548d004938e19f169e0] The repeal made by subsection (3) does not affect the application of section 132(5) of that Act in relation to a person who became entitled to a Category A or Category B retirement pension before the day on which subsection (3) comes into operation.
+(4)[^c-5cab3484e7688548d004938e19f169e0] The repeal made by subsection (3) does not affect the application of section 132(5) of that Act in relation to a person who became entitled to a Category A or Category B retirement pension before the day on which subsection (3) comes into operation.
 
-(5)[^key-228fa6590840eed045015b2b5cdd6f79][^key-b0af3b633f200547cffda3737575ab6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-228fa6590840eed045015b2b5cdd6f79][^c-b0af3b633f200547cffda3737575ab6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-228fa6590840eed045015b2b5cdd6f79][^key-c09a107996f99e22f26ba3692a67e695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-228fa6590840eed045015b2b5cdd6f79][^c-c09a107996f99e22f26ba3692a67e695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-228fa6590840eed045015b2b5cdd6f79][^key-11e76caf5007b468de497a5cfffdbd49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-228fa6590840eed045015b2b5cdd6f79][^c-11e76caf5007b468de497a5cfffdbd49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-228fa6590840eed045015b2b5cdd6f79][^key-c09a107996f99e22f26ba3692a67e695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-228fa6590840eed045015b2b5cdd6f79][^c-c09a107996f99e22f26ba3692a67e695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-228fa6590840eed045015b2b5cdd6f79][^key-5cab3484e7688548d004938e19f169e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-228fa6590840eed045015b2b5cdd6f79][^c-5cab3484e7688548d004938e19f169e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-5cab3484e7688548d004938e19f169e0] In this section a reference to becoming entitled to a pension before a day includes a reference to becoming entitled on or after that day to the payment of a pension in respect of a period before that day.
+(10)[^c-5cab3484e7688548d004938e19f169e0] In this section a reference to becoming entitled to a pension before a day includes a reference to becoming entitled on or after that day to the payment of a pension in respect of a period before that day.
 
 ## Annotations
 
-[^key-5cab3484e7688548d004938e19f169e0]: Commencement: S. 3(1)-(4) (9) (10) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/b)
+[^c-5cab3484e7688548d004938e19f169e0]: Commencement: S. 3(1)-(4) (9) (10) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/b)
 
-[^key-228fa6590840eed045015b2b5cdd6f79]: Textual amendment: [S. 3(5)-(9)](https://www.legislation.gov.uk/nia/2012/3/section/3/5) repealed (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 82(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/82/a)
+[^c-228fa6590840eed045015b2b5cdd6f79]: Textual amendment: [S. 3(5)-(9)](https://www.legislation.gov.uk/nia/2012/3/section/3/5) repealed (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 82(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/82/a)
 
-[^key-b0af3b633f200547cffda3737575ab6d]: Commencement: S. 3(5) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/c)
+[^c-b0af3b633f200547cffda3737575ab6d]: Commencement: S. 3(5) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/c)
 
-[^key-c09a107996f99e22f26ba3692a67e695]: Commencement: S. 3(6)(8) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(j)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/j)
+[^c-c09a107996f99e22f26ba3692a67e695]: Commencement: S. 3(6)(8) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(j)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/j)
 
-[^key-11e76caf5007b468de497a5cfffdbd49]: Commencement: S. 3(7) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/c)
+[^c-11e76caf5007b468de497a5cfffdbd49]: Commencement: S. 3(7) in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/c)

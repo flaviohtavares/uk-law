@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Staff officers[^key-57c1ebc5c78d793f467fa0fe660e7131]
+## 73. Staff officers[^c-57c1ebc5c78d793f467fa0fe660e7131]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c1ebc5c78d793f467fa0fe660e7131]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/8/section/73) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-57c1ebc5c78d793f467fa0fe660e7131]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/8/section/73) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

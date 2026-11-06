@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. ICRIR officers[^key-9dd53da11d3130c7b2a27696d348913a][^key-6863cc18ce5040bf6b191fcd9b8244f5]
+## 3. ICRIR officers[^c-9dd53da11d3130c7b2a27696d348913a][^c-6863cc18ce5040bf6b191fcd9b8244f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9dd53da11d3130c7b2a27696d348913a]: Commencement: S. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9dd53da11d3130c7b2a27696d348913a]: Commencement: S. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-6863cc18ce5040bf6b191fcd9b8244f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/41/section/3) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/b)
+[^c-6863cc18ce5040bf6b191fcd9b8244f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/41/section/3) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/b)

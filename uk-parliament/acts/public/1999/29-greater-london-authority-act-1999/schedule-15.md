@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Transfer of relevant activities in connection with PPP administration orders[^key-242a7df29788ecbf8cb23d2db650b7a1]
+## SCHEDULE 15 — Transfer of relevant activities in connection with PPP administration orders[^c-242a7df29788ecbf8cb23d2db650b7a1]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Section 220.
 
 ### Application of Schedule
 
-**1.**[^key-75bbd05cc8a67643dcd3839164c1a402] (1) This Schedule shall apply in any case where—
+**1.**[^c-75bbd05cc8a67643dcd3839164c1a402] (1) This Schedule shall apply in any case where—
 
 - (a) the court has made a PPP administration order in relation to a PPP company (“**the existing appointee**”); and
 - (b) it is proposed that, on and after a date appointed by the court, another company (“**the new appointee**”) should carry on the relevant activities of the existing appointee, in place of the existing appointee.
@@ -38,7 +38,7 @@ Section 220.
 
 ### Making and modification of transfer schemes
 
-**2.**[^key-71044a7b41a781c9044c74f2852c469e] (1) The existing appointee, acting with the consent of the new appointee and, in relation to the matters affecting them, of any other appointees, may make a scheme under this Schedule for the transfer of property, rights and liabilities from the existing appointee to the new appointee.
+**2.**[^c-71044a7b41a781c9044c74f2852c469e] (1) The existing appointee, acting with the consent of the new appointee and, in relation to the matters affecting them, of any other appointees, may make a scheme under this Schedule for the transfer of property, rights and liabilities from the existing appointee to the new appointee.
 
 (2) A scheme under this Schedule shall not take effect unless it is approved by the Mayor.
 
@@ -56,7 +56,7 @@ Section 220.
 
 ### Transfers by scheme
 
-**3.**[^key-d8943a69791cb8c6b1c9f9278cc53b17] (1) A scheme under this Schedule for the transfer of the existing appointee’s property, rights and liabilities shall come into force on the relevant date and, on coming into force, shall have effect, in accordance with its provisions and without further assurance, so as to transfer the property, rights and liabilities to which the scheme relates to the new appointee.
+**3.**[^c-d8943a69791cb8c6b1c9f9278cc53b17] (1) A scheme under this Schedule for the transfer of the existing appointee’s property, rights and liabilities shall come into force on the relevant date and, on coming into force, shall have effect, in accordance with its provisions and without further assurance, so as to transfer the property, rights and liabilities to which the scheme relates to the new appointee.
 
 (2) For the purpose of making any division of property, rights or liabilities which it is considered appropriate to make in connection with the transfer of property, rights and liabilities in accordance with a scheme under this Schedule, the provisions of that scheme may—
 
@@ -80,7 +80,7 @@ Section 220.
 
 ### Transfer of licences
 
-**4.**[^key-1215a3d0025bbe2019fec0627dbb2521] (1) A scheme under this Schedule may provide for a licence held by the existing appointee to have effect as if it had been granted to the new appointee.
+**4.**[^c-1215a3d0025bbe2019fec0627dbb2521] (1) A scheme under this Schedule may provide for a licence held by the existing appointee to have effect as if it had been granted to the new appointee.
 
 (2) Different schemes under this Schedule may provide for a licence held by the same existing appointee to have effect as if it had been granted as a separate licence to each of the new appointees under those schemes.
 
@@ -88,7 +88,7 @@ Section 220.
 
 ### Supplemental provisions of schemes
 
-**5.**[^key-ea86a343bda57c0d3c5c03a21953af0a] (1) A scheme under this Schedule may contain supplemental, consequential and transitional provision for the purposes of, or in connection with, the provision for the transfers or any other provision made by the scheme.
+**5.**[^c-ea86a343bda57c0d3c5c03a21953af0a] (1) A scheme under this Schedule may contain supplemental, consequential and transitional provision for the purposes of, or in connection with, the provision for the transfers or any other provision made by the scheme.
 
 (2) Without prejudice to the generality of sub-paragraph (1) above, a scheme under this Schedule may provide—
 
@@ -102,7 +102,7 @@ Section 220.
 
 ### Duties of existing appointee after the scheme comes into force
 
-**6.**[^key-1a323c0489e7b265bbe51193a4bd33dc] (1) A scheme under this Schedule may provide for the imposition of duties on the existing appointee and on the new appointee to take all such steps as may be requisite to secure that the vesting in the new appointee, by virtue of the scheme, of any foreign property, right or liability is effective under the relevant foreign law.
+**6.**[^c-1a323c0489e7b265bbe51193a4bd33dc] (1) A scheme under this Schedule may provide for the imposition of duties on the existing appointee and on the new appointee to take all such steps as may be requisite to secure that the vesting in the new appointee, by virtue of the scheme, of any foreign property, right or liability is effective under the relevant foreign law.
 
 (2) The provisions of a scheme under this Schedule may require the existing appointee to comply with any directions of the new appointee in performing any duty imposed on the existing appointee by virtue of a provision included in the scheme under sub-paragraph (1) above.
 
@@ -120,7 +120,7 @@ Section 220.
 
 ### Functions exercisable by virtue of PPP agreements
 
-**7.**[^key-e143bf2a55c9f88d369be969be57172b] (1) A scheme under this Schedule may provide that any functions exercisable by the existing appointee by virtue of a PPP agreement shall instead be—
+**7.**[^c-e143bf2a55c9f88d369be969be57172b] (1) A scheme under this Schedule may provide that any functions exercisable by the existing appointee by virtue of a PPP agreement shall instead be—
 
 - (a) exercisable by the new appointee or any of the other appointees;
 - (b) concurrently exercisable by two or more companies falling within paragraph (a) above; or
@@ -145,22 +145,22 @@ and different schemes under this Schedule may provide for any such functions exe
 
 ## Annotations
 
-[^key-242a7df29788ecbf8cb23d2db650b7a1]: Modification: Sch. 15 modified (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(5)(d)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/5/d)
+[^c-242a7df29788ecbf8cb23d2db650b7a1]: Modification: Sch. 15 modified (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(5)(d)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/5/d)
 
-[^key-75bbd05cc8a67643dcd3839164c1a402]: Commencement: Sch. 15 para. 1 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-75bbd05cc8a67643dcd3839164c1a402]: Commencement: Sch. 15 para. 1 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
-[^key-71044a7b41a781c9044c74f2852c469e]: Commencement: Sch. 15 para. 2 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-71044a7b41a781c9044c74f2852c469e]: Commencement: Sch. 15 para. 2 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
-[^key-d8943a69791cb8c6b1c9f9278cc53b17]: Commencement: Sch. 15 para. 3 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-d8943a69791cb8c6b1c9f9278cc53b17]: Commencement: Sch. 15 para. 3 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
 [^c12810221]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-1215a3d0025bbe2019fec0627dbb2521]: Commencement: Sch. 15 para. 4 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-1215a3d0025bbe2019fec0627dbb2521]: Commencement: Sch. 15 para. 4 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
 [^c12810231]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-ea86a343bda57c0d3c5c03a21953af0a]: Commencement: Sch. 15 para. 5 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-ea86a343bda57c0d3c5c03a21953af0a]: Commencement: Sch. 15 para. 5 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
-[^key-1a323c0489e7b265bbe51193a4bd33dc]: Commencement: Sch. 15 para. 6 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-1a323c0489e7b265bbe51193a4bd33dc]: Commencement: Sch. 15 para. 6 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
 
-[^key-e143bf2a55c9f88d369be969be57172b]: Commencement: Sch. 15 para. 7 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)
+[^c-e143bf2a55c9f88d369be969be57172b]: Commencement: Sch. 15 para. 7 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/b)

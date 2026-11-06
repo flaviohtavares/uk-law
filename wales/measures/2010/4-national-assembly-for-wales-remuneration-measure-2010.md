@@ -38,9 +38,9 @@ A Measure of the National Assembly for Wales to establish a National Assembly fo
 
 **This Measure, passed by the National Assembly for Wales on 26 May 2010 and approved by Her Majesty in Council on 21 July 2010, enacts the following provisions:—**
 
-## 1. Independent Remuneration Board of the Senedd[^key-3b5132374d922798fee714e65420a4e7]
+## 1. Independent Remuneration Board of the Senedd[^c-3b5132374d922798fee714e65420a4e7]
 
-(1) There is to be a board to be known as the Independent Remuneration Board of the Senedd[^key-aa81f7845421d7ed18b5405a2e99e52c] (“**the Board**”).
+(1) There is to be a board to be known as the Independent Remuneration Board of the Senedd[^c-aa81f7845421d7ed18b5405a2e99e52c] (“**the Board**”).
 
 (2) The members of the Board are the Chair and four other members.
 
@@ -59,19 +59,19 @@ A Measure of the National Assembly for Wales to establish a National Assembly fo
 
 ## 2. Independence, openness and inclusiveness
 
-(1) The Board is not, in the exercise of its functions, to be subject to the direction or control of the Senedd[^key-21d0045088c017a8f44654aca984ffc5] or of the Senedd Commission.
+(1) The Board is not, in the exercise of its functions, to be subject to the direction or control of the Senedd[^c-21d0045088c017a8f44654aca984ffc5] or of the Senedd Commission.
 
 (2) The Board must—
 
 - (a) generally act in an open and transparent manner, and
-- (b) publish on the Senedd's[^key-27a03ed0f46cbbdb3628a209bb7b30e3] website such information as will enable the public to be kept informed as to its activities.
+- (b) publish on the Senedd's[^c-27a03ed0f46cbbdb3628a209bb7b30e3] website such information as will enable the public to be kept informed as to its activities.
 
 (3) Subsection (2) does not prevent the Board from considering a matter in private and from maintaining the privacy of its consideration of that matter, if, in the opinion of the Board, the nature of that matter makes it appropriate to do so.
 
 (4) The Board must, before exercising any of its functions, consult those of the following who are likely to be affected, unless the Board considers that there are circumstances that make it inappropriate to do so—
 
-- (a) Members of the Senedd[^key-bd0febf3583f9a7a7c6bb409a8535b1e],
-- (b) staff employed by Members of the Senedd (or by groups of Members[^key-51d946ad025f0ea502098aa9a119e4dc]),
+- (a) Members of the Senedd[^c-bd0febf3583f9a7a7c6bb409a8535b1e],
+- (b) staff employed by Members of the Senedd (or by groups of Members[^c-51d946ad025f0ea502098aa9a119e4dc]),
 - (c) relevant trade unions, and
 - (d) such other persons as it considers appropriate.
 
@@ -236,7 +236,7 @@ which is to have effect during each term of the Senedd.
 
 The Act is amended in accordance with Schedule 3.
 
-## 17. Amendment to the Freedom of Information Act 2000[^key-c885a27f762a87b8aa7c409da9e74b7d]
+## 17. Amendment to the Freedom of Information Act 2000[^c-c885a27f762a87b8aa7c409da9e74b7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -276,29 +276,29 @@ In this Measure—
 
 **1.** The following persons are disqualified from being members of the Board—
 
-- (a) a Member of the Senedd[^key-2013cf379a59da641371ed622e281a26],
+- (a) a Member of the Senedd[^c-2013cf379a59da641371ed622e281a26],
 - (b) the Counsel General (if not a Member of the Senedd),
 - (c) a candidate for election as a Member of the Senedd,
-- (d) a person whose name could, if the seat of a [^key-d1dc8523f322b40aa0a538073bdd3c5d]...[^key-f5eb20817fbac6a026fd205b96ade784] Member of the Senedd became vacant, be required to be notified to the Presiding Officer under section 11 of the Act (vacant seats[^key-f85989146dd27114bcb29df70df4f3d6]),
-- (e) a member of the European Parliament, House of Commons, [^key-44ced9c63bf0b17495f4ebfc0cc1c3c7]... Scottish Parliament or Northern Ireland Assembly,
+- (d) a person whose name could, if the seat of a [^c-d1dc8523f322b40aa0a538073bdd3c5d]...[^c-f5eb20817fbac6a026fd205b96ade784] Member of the Senedd became vacant, be required to be notified to the Presiding Officer under section 11 of the Act (vacant seats[^c-f85989146dd27114bcb29df70df4f3d6]),
+- (e) a member of the European Parliament, House of Commons, [^c-44ced9c63bf0b17495f4ebfc0cc1c3c7]... Scottish Parliament or Northern Ireland Assembly,
 - (f) a member of the staff of the Senedd,
-- (g) a member of the staff of the Welsh [^key-d4b3a56688b6179914bfa72a1679cd4a]... Government,
-- (h) a person employed by a Member of the Senedd or by a group of Members[^key-1832c733eb872aba8595ec46675a0e0b] for the purpose of assisting that member or the members of that group to perform the functions of a Member of the Senedd,
+- (g) a member of the staff of the Welsh [^c-d4b3a56688b6179914bfa72a1679cd4a]... Government,
+- (h) a person employed by a Member of the Senedd or by a group of Members[^c-1832c733eb872aba8595ec46675a0e0b] for the purpose of assisting that member or the members of that group to perform the functions of a Member of the Senedd,
 - (i) the Auditor General for Wales,
-- (j) the Senedd[^key-ca65f6fe28ed483523cce9de50c36f4c] Commissioner for Standards,
+- (j) the Senedd[^c-ca65f6fe28ed483523cce9de50c36f4c] Commissioner for Standards,
 - (k) a member of the Senedd Commission Corporate Governance Committee,
 - (l) a person holding the appointment of Independent Adviser to the Senedd Commission,
-- (m)[^key-6f40af890fe8529d51d70c75807ebffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n) a person holding the appointment of Non-Executive Director of the Welsh [^key-a51d6062cca852d4d975137d93706269]... Government.
+- (m)[^c-6f40af890fe8529d51d70c75807ebffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n) a person holding the appointment of Non-Executive Director of the Welsh [^c-a51d6062cca852d4d975137d93706269]... Government.
 
 **2.** For the purposes of paragraph 1(c) a person becomes a candidate for election as a Member of the Senedd—
 
 - (a) on the day on which that person is declared to be a candidate (whether by the person in question or by others), or
-- (b) on the day on which that person is nominated as a candidate at a Senedd[^key-a9eb7b1aec7473962a19616b92e970ad] election,
+- (b) on the day on which that person is nominated as a candidate at a Senedd[^c-a9eb7b1aec7473962a19616b92e970ad] election,
 
 whichever is the earlier.
 
-**3.** When determining, for the purposes of paragraph 1(d), whether the name of a person could be required to be notified to the Presiding Officer under section 11 of the Act, the requirements of paragraphs (b) and (c) of subsection (4)[^key-ff90c4d070613f3146234a975a090e62] of that section are to be disregarded.
+**3.** When determining, for the purposes of paragraph 1(d), whether the name of a person could be required to be notified to the Presiding Officer under section 11 of the Act, the requirements of paragraphs (b) and (c) of subsection (4)[^c-ff90c4d070613f3146234a975a090e62] of that section are to be disregarded.
 
 ## SCHEDULE 2 — APPOINTMENT OF MEMBERS OF THE BOARD
 
@@ -316,7 +316,7 @@ whichever is the earlier.
 - (a) do not involve participation by any person who appears to the Clerk to be likely to be affected by the exercise by the Board of any of its functions, or any person connected with such a person, and
 - (b) subject to sub-paragraph (a), have due regard to the principle that there should be equality of opportunity for all people.
 
-**4.** The Clerk must not give effect to the arrangements in relation to a particular appointment unless they have first been published on the Senedd's[^key-e319653e15d9f562c9b8dd2bd9f4fb40] website and continue to be so published whilst the process of selecting a person for that appointment is taking place.
+**4.** The Clerk must not give effect to the arrangements in relation to a particular appointment unless they have first been published on the Senedd's[^c-e319653e15d9f562c9b8dd2bd9f4fb40] website and continue to be so published whilst the process of selecting a person for that appointment is taking place.
 
 **5.** The Senedd Commission must appoint as Chair, or as a member of the Board, as the case may be, any person selected, in accordance with such arrangements, for appointment to that office.
 
@@ -408,17 +408,17 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-3b5132374d922798fee714e65420a4e7]: Textual amendment: S. 1 heading substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/2)
+[^c-3b5132374d922798fee714e65420a4e7]: Textual amendment: S. 1 heading substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/2)
 
-[^key-aa81f7845421d7ed18b5405a2e99e52c]: Textual amendment: Words in s. 1(1) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 8](https://www.legislation.gov.uk/anaw/2020/1/section/8), [42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2)
+[^c-aa81f7845421d7ed18b5405a2e99e52c]: Textual amendment: Words in s. 1(1) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 8](https://www.legislation.gov.uk/anaw/2020/1/section/8), [42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2)
 
-[^key-21d0045088c017a8f44654aca984ffc5]: Textual amendment: Word in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/12) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8)
+[^c-21d0045088c017a8f44654aca984ffc5]: Textual amendment: Word in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/12) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8)
 
-[^key-27a03ed0f46cbbdb3628a209bb7b30e3]: Textual amendment: Word in s. 2(2)(b) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/3)
+[^c-27a03ed0f46cbbdb3628a209bb7b30e3]: Textual amendment: Word in s. 2(2)(b) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/3)
 
-[^key-bd0febf3583f9a7a7c6bb409a8535b1e]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/10) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
+[^c-bd0febf3583f9a7a7c6bb409a8535b1e]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/10) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
 
-[^key-51d946ad025f0ea502098aa9a119e4dc]: Textual amendment: Words in s. 2(4)(b) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/4)
+[^c-51d946ad025f0ea502098aa9a119e4dc]: Textual amendment: Words in s. 2(4)(b) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/4)
 
 [^M_F_34b8f12a-9d73-43f3-9e9c-d39e508bc18c]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/10) (with [Sch. 1 para. 4(7)(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7/8))
 
@@ -438,32 +438,32 @@ whichever is the earlier.
 
 [^M_F_bd626249-8454-4cb1-c933-866b1737e9e0]: Textual amendment: Word in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/12) (with Sch. 1 para. 4(7)(8)
 
-[^key-c885a27f762a87b8aa7c409da9e74b7d]: Textual amendment: S. 17 omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/5)
+[^c-c885a27f762a87b8aa7c409da9e74b7d]: Textual amendment: S. 17 omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/5)
 
 [^M_I_8e1f3adb-01c5-4db6-ce0c-f7d7128ec6b8]: Commencement: Ss. 2, 3, 10, 11, 13-16, 19 (and Sch. 3) come into force at 24.9.2010 in accordance with s. 20(3)(4) and as stated in the required notice, see https://senedd.wales/media/xkxcrlny/gen-ld8227-e-english.pdf
 
-[^key-2013cf379a59da641371ed622e281a26]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/9) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
+[^c-2013cf379a59da641371ed622e281a26]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/9) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
 
-[^key-d1dc8523f322b40aa0a538073bdd3c5d]: Textual amendment: Word in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/1/d) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(a)(i)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/a/i), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-d1dc8523f322b40aa0a538073bdd3c5d]: Textual amendment: Word in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/1/d) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(a)(i)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/a/i), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-f5eb20817fbac6a026fd205b96ade784]: Textual amendment: Words in Sch. 1 para. 1(d) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/a)
+[^c-f5eb20817fbac6a026fd205b96ade784]: Textual amendment: Words in Sch. 1 para. 1(d) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/a)
 
-[^key-f85989146dd27114bcb29df70df4f3d6]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/1/d) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(a)(ii)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/a/ii), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-f85989146dd27114bcb29df70df4f3d6]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/1/d) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(a)(ii)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/a/ii), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-44ced9c63bf0b17495f4ebfc0cc1c3c7]: Textual amendment: Words in Sch. 1 para. 1(e) omitted (12.4.2014) by virtue of [The National Assembly for Wales (Remuneration) Measure 2010 (Disqualification from Remuneration Board) Order 2014 (No. 1004)](https://www.legislation.gov.uk/wsi/2014/1004), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/1004/article/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2014/1004/article/2/a)
+[^c-44ced9c63bf0b17495f4ebfc0cc1c3c7]: Textual amendment: Words in Sch. 1 para. 1(e) omitted (12.4.2014) by virtue of [The National Assembly for Wales (Remuneration) Measure 2010 (Disqualification from Remuneration Board) Order 2014 (No. 1004)](https://www.legislation.gov.uk/wsi/2014/1004), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/1004/article/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2014/1004/article/2/a)
 
-[^key-d4b3a56688b6179914bfa72a1679cd4a]: Textual amendment: Word in Sch. 1 para. 1(g) omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/b)
+[^c-d4b3a56688b6179914bfa72a1679cd4a]: Textual amendment: Word in Sch. 1 para. 1(g) omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/b)
 
-[^key-1832c733eb872aba8595ec46675a0e0b]: Textual amendment: Words in Sch. 1 para. 1(h) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/c)
+[^c-1832c733eb872aba8595ec46675a0e0b]: Textual amendment: Words in Sch. 1 para. 1(h) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/c)
 
-[^key-ca65f6fe28ed483523cce9de50c36f4c]: Textual amendment: Word in Sch. 1 para. 1(j) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(d)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/d)
+[^c-ca65f6fe28ed483523cce9de50c36f4c]: Textual amendment: Word in Sch. 1 para. 1(j) substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(d)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/d)
 
-[^key-6f40af890fe8529d51d70c75807ebffd]: Textual amendment: Sch. 1 para. 1(m) omitted (12.4.2014) by virtue of [The National Assembly for Wales (Remuneration) Measure 2010 (Disqualification from Remuneration Board) Order 2014 (No. 1004)](https://www.legislation.gov.uk/wsi/2014/1004), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/1004/article/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2014/1004/article/2/b)
+[^c-6f40af890fe8529d51d70c75807ebffd]: Textual amendment: Sch. 1 para. 1(m) omitted (12.4.2014) by virtue of [The National Assembly for Wales (Remuneration) Measure 2010 (Disqualification from Remuneration Board) Order 2014 (No. 1004)](https://www.legislation.gov.uk/wsi/2014/1004), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/1004/article/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2014/1004/article/2/b)
 
-[^key-a51d6062cca852d4d975137d93706269]: Textual amendment: Word in Sch. 1 para. 1(n) omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(e)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/e)
+[^c-a51d6062cca852d4d975137d93706269]: Textual amendment: Word in Sch. 1 para. 1(n) omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(6)(e)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/6/e)
 
-[^key-a9eb7b1aec7473962a19616b92e970ad]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/11) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
+[^c-a9eb7b1aec7473962a19616b92e970ad]: Textual amendment: Words in Measure substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/11) (with [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/8))
 
-[^key-ff90c4d070613f3146234a975a090e62]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/3) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(b)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/b), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-ff90c4d070613f3146234a975a090e62]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/mwa/2010/4/schedule/1/paragraph/3) substituted (24.8.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(13)(b)](https://www.legislation.gov.uk/asc/2024/4/section/10/13/b), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-e319653e15d9f562c9b8dd2bd9f4fb40]: Textual amendment: Word in Sch. 2 para. 4 substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/3)
+[^c-e319653e15d9f562c9b8dd2bd9f4fb40]: Textual amendment: Word in Sch. 2 para. 4 substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/4/3)

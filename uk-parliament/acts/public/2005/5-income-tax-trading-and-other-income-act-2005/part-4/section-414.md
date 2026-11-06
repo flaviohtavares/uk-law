@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414. Income tax treated as paid[^key-f93cf5487177c96b7e4d5dddb17c1bdd]
+## 414. Income tax treated as paid[^c-f93cf5487177c96b7e4d5dddb17c1bdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f93cf5487177c96b7e4d5dddb17c1bdd]: Textual amendment: [S. 414](https://www.legislation.gov.uk/ukpga/2005/5/section/414) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/1)
+[^c-f93cf5487177c96b7e4d5dddb17c1bdd]: Textual amendment: [S. 414](https://www.legislation.gov.uk/ukpga/2005/5/section/414) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Restriction on new claims for industrial death benefit[^key-c0069437b01f676f865231de4dac08de]
+## 73. Restriction on new claims for industrial death benefit[^c-c0069437b01f676f865231de4dac08de]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Part 6 of Schedule 7 to the Contributions and Benefits Act (industrial death 
 
 ## Annotations
 
-[^key-c0069437b01f676f865231de4dac08de]: Commencement: [Art. 73](https://www.legislation.gov.uk/nisi/2015/2006/article/73) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)
+[^c-c0069437b01f676f865231de4dac08de]: Commencement: [Art. 73](https://www.legislation.gov.uk/nisi/2015/2006/article/73) in operation at 31.10.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)

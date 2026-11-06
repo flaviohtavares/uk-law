@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. General interpretation.[^c11332611][^c19079891][^key-dd45cfd81b8779526c10279107da157d][^key-3d348f3e232afe45d7562bd2e3d3bd78][^key-9da0eb391d847a324a7070f4c92b7132][^c11332601]
+## 118. General interpretation.[^c11332611][^c19079891][^c-dd45cfd81b8779526c10279107da157d][^c-3d348f3e232afe45d7562bd2e3d3bd78][^c-9da0eb391d847a324a7070f4c92b7132][^c11332601]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 
 (2) Subject to subsection (2A)[^c17045441] a person is in police detention for the purposes of this Act if—
 
-- (a)[^c11332671] he has been taken to a police station after being arrested for an offence or after being arrested under section 41 or 43B[^key-b58429679b8800478a5413a81064ea27] of the Terrorism Act 2000 or section 27 of the National Security Act 2023[^key-56b935c3e249e631fc56fa973ef9e425], or
+- (a)[^c11332671] he has been taken to a police station after being arrested for an offence or after being arrested under section 41 or 43B[^c-b58429679b8800478a5413a81064ea27] of the Terrorism Act 2000 or section 27 of the National Security Act 2023[^c-56b935c3e249e631fc56fa973ef9e425], or
 - (b) he is arrested at a police station after attending voluntarily at the station or accompanying a constable to it,
 
 and is detained there or is detained elsewhere in the charge of a constable, except that a person who is at a court after being charged is not in police detention for those purposes.
 
-(2A)[^c17045411] Where a person is in another’s lawful custody by virtue of paragraph [^key-666c952742fbbcd681ddd98d88ad8f7a]... 34(1) or 35(3) of Schedule 4 to the Police Reform Act 2002, he shall be treated as in police detention.
+(2A)[^c17045411] Where a person is in another’s lawful custody by virtue of paragraph [^c-666c952742fbbcd681ddd98d88ad8f7a]... 34(1) or 35(3) of Schedule 4 to the Police Reform Act 2002, he shall be treated as in police detention.
 
 ## Annotations
 
@@ -50,11 +50,11 @@ and is detained there or is detained elsewhere in the charge of a constable, exc
 
 [^c19079891]: Modification: S. 118 amended (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 73](https://www.legislation.gov.uk/ukpga/2003/20/section/73), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 5 para. 4(1)(a)(2)](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/4/1/a/2) (with [s. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72)); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ddd)(jjj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ddd/jjj)
 
-[^key-dd45cfd81b8779526c10279107da157d]: Modification: S. 118 applied (with modifications) (30.4.2017) by [The Police and Criminal Evidence Act 1984 (Application to Labour Abuse Prevention Officers) Regulations 2017 (S.I. 2017/520)](https://www.legislation.gov.uk/uksi/2017/520), [regs. 1](https://www.legislation.gov.uk/uksi/2017/520/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/520/regulation/2), [3(w)](https://www.legislation.gov.uk/uksi/2017/520/regulation/3/w), [Sch.](https://www.legislation.gov.uk/uksi/2017/520/schedule)
+[^c-dd45cfd81b8779526c10279107da157d]: Modification: S. 118 applied (with modifications) (30.4.2017) by [The Police and Criminal Evidence Act 1984 (Application to Labour Abuse Prevention Officers) Regulations 2017 (S.I. 2017/520)](https://www.legislation.gov.uk/uksi/2017/520), [regs. 1](https://www.legislation.gov.uk/uksi/2017/520/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/520/regulation/2), [3(w)](https://www.legislation.gov.uk/uksi/2017/520/regulation/3/w), [Sch.](https://www.legislation.gov.uk/uksi/2017/520/schedule)
 
-[^key-3d348f3e232afe45d7562bd2e3d3bd78]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1984/60/section/118) applied in part (with modifications) (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/28/section/7), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1) (with [ss. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72), [105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-3d348f3e232afe45d7562bd2e3d3bd78]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1984/60/section/118) applied in part (with modifications) (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/28/section/7), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1) (with [ss. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72), [105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
 
-[^key-9da0eb391d847a324a7070f4c92b7132]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1984/60/section/118) applied in part (with modifications) (7.4.2026) by [The Police and Criminal Evidence Act 1984 (Application to Enforcement Officers) Regulations 2026 (S.I. 2026/303)](https://www.legislation.gov.uk/uksi/2026/303), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/303/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/303/regulation/3), [4(w)](https://www.legislation.gov.uk/uksi/2026/303/regulation/4/w), [Sch. paras. 1-10](https://www.legislation.gov.uk/uksi/2026/303/schedule/paragraph/1)
+[^c-9da0eb391d847a324a7070f4c92b7132]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1984/60/section/118) applied in part (with modifications) (7.4.2026) by [The Police and Criminal Evidence Act 1984 (Application to Enforcement Officers) Regulations 2026 (S.I. 2026/303)](https://www.legislation.gov.uk/uksi/2026/303), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/303/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/303/regulation/3), [4(w)](https://www.legislation.gov.uk/uksi/2026/303/regulation/4/w), [Sch. paras. 1-10](https://www.legislation.gov.uk/uksi/2026/303/schedule/paragraph/1)
 
 [^c11332601]: Modification: S. 118 applied with modifications by [S.I. 1985/1882](https://www.legislation.gov.uk/uksi/1985/1882), [arts. 3](https://www.legislation.gov.uk/uksi/1985/1882/article/3), [10](https://www.legislation.gov.uk/uksi/1985/1882/article/10)
 
@@ -74,10 +74,10 @@ and is detained there or is detained elsewhere in the charge of a constable, exc
 
 [^c11332671]: Textual amendment: S. 118(2)(a) substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125(1)](https://www.legislation.gov.uk/ukpga/2000/11/section/125/1), [Sch. 15 para. 5(12)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/5/12); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
-[^key-b58429679b8800478a5413a81064ea27]: Textual amendment: Words in s. 118(2)(a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/1/4)
+[^c-b58429679b8800478a5413a81064ea27]: Textual amendment: Words in s. 118(2)(a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/1/4)
 
-[^key-56b935c3e249e631fc56fa973ef9e425]: Textual amendment: Words in s. 118(2)(a) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 7(7)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/7/7)
+[^c-56b935c3e249e631fc56fa973ef9e425]: Textual amendment: Words in s. 118(2)(a) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 7(7)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/7/7)
 
 [^c17045411]: Textual amendment: S. 118(2A) inserted (2.12.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 7 para. 9(9)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/9/9); [S.I. 2002/2750](https://www.legislation.gov.uk/uksi/2002/2750), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2750/article/2/b/ii)
 
-[^key-666c952742fbbcd681ddd98d88ad8f7a]: Textual amendment: Word in s. 118(2A) omitted (22.2.2018) by virtue of [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/5/2)
+[^c-666c952742fbbcd681ddd98d88ad8f7a]: Textual amendment: Word in s. 118(2A) omitted (22.2.2018) by virtue of [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/5/2)

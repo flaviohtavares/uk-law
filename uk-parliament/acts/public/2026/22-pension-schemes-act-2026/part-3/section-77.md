@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Key functions[^key-f8c7c5339e6ea962544f6a52d65127d5]
+## 77. Key functions[^c-f8c7c5339e6ea962544f6a52d65127d5]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c7c5339e6ea962544f6a52d65127d5]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-f8c7c5339e6ea962544f6a52d65127d5]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

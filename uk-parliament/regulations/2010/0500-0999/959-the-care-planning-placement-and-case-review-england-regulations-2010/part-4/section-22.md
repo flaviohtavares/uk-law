@@ -28,7 +28,7 @@ summary: ''
   - (i) the responsible authority, or
   - (ii) provided that the conditions specified in paragraph (3) are also satisfied, another fostering service provider,
 - (b) the terms of F's approval are consistent with the proposed placement, and
-- (c) F has entered into a foster care agreement either with the responsible authority or with another fostering service provider in accordance with regulation 27(5)(b) of the Fostering Services Regulations[^key-1803aaaba061e9544b441150963996ff].
+- (c) F has entered into a foster care agreement either with the responsible authority or with another fostering service provider in accordance with regulation 27(5)(b) of the Fostering Services Regulations[^c-1803aaaba061e9544b441150963996ff].
 
 (3) The conditions referred to in paragraph (2)(a)(ii) are that—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1803aaaba061e9544b441150963996ff]: Textual amendment: Words in reg. 22(2)(c) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(4)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/4) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))
+[^c-1803aaaba061e9544b441150963996ff]: Textual amendment: Words in reg. 22(2)(c) substituted (1.4.2011) by [The Fostering Services (England) Regulations 2011 (S.I. 2011/581)](https://www.legislation.gov.uk/uksi/2011/581), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/581/regulation/1/1), [43(4)](https://www.legislation.gov.uk/uksi/2011/581/regulation/43/4) (with [reg. 45](https://www.legislation.gov.uk/uksi/2011/581/regulation/45))

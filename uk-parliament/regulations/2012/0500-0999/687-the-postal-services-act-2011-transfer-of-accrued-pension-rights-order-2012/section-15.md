@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. References to Minister for the Civil Service[^key-92935dd5abe4fc3146b21b3e968dee43]
+## 15. References to Minister for the Civil Service[^c-92935dd5abe4fc3146b21b3e968dee43]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ References in this Order to the Minister for the Civil Service shall be construe
 
 ## Annotations
 
-[^key-92935dd5abe4fc3146b21b3e968dee43]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2012/687/article/15) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2014/500/article/6/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-92935dd5abe4fc3146b21b3e968dee43]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2012/687/article/15) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2014/500/article/6/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

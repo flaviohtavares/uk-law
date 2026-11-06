@@ -35,26 +35,26 @@ amending Regulations (EC) No 184/2007 and (EU) No 104/2010, as regards the name 
 
 (Text with EEA relevance) (revoked)
 
-[^key-7af7ce089306650d54d2d07034c2b9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7af7ce089306650d54d2d07034c2b9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Regulation (EC) No 184/2007[^key-7af7ce089306650d54d2d07034c2b9d6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EU) No 104/2010[^key-7af7ce089306650d54d2d07034c2b9d6]
+## Article 1. Amendment to Regulation (EC) No 184/2007[^c-7af7ce089306650d54d2d07034c2b9d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-7af7ce089306650d54d2d07034c2b9d6]
+## Article 2. Amendment to Regulation (EU) No 104/2010[^c-7af7ce089306650d54d2d07034c2b9d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-7af7ce089306650d54d2d07034c2b9d6]
+## Article 3. Transitional measures[^c-7af7ce089306650d54d2d07034c2b9d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7af7ce089306650d54d2d07034c2b9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-7af7ce089306650d54d2d07034c2b9d6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7af7ce089306650d54d2d07034c2b9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7af7ce089306650d54d2d07034c2b9d6]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 32](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/32)
+[^c-7af7ce089306650d54d2d07034c2b9d6]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 32](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/32)

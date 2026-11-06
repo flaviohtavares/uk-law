@@ -77,7 +77,7 @@ Section 2.
 
 #### Armed forces
 
-**5.**[^key-88499e538c0ea9ec004c59a1d6c026b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-88499e538c0ea9ec004c59a1d6c026b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In the [^c667341]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) shall apply in relation to forces raised in Botswana as it applies in relation to forces raised in Dominions within the meaning of the [^c667342]Statute of Westminster 1931.
 
@@ -95,7 +95,7 @@ Section 2.
 
 ### Part II — Exceptions from s. 2(1) of Act
 
-**10.**[^key-d2c809d73644a5ed6eb92f87875dd7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d2c809d73644a5ed6eb92f87875dd7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c667356]
 
@@ -117,7 +117,7 @@ Section 2.
 
 [^c667336]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
 
-[^key-88499e538c0ea9ec004c59a1d6c026b3]: Textual amendment: Sch. para. 5 repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-88499e538c0ea9ec004c59a1d6c026b3]: Textual amendment: Sch. para. 5 repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
 [^c667341]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
 
@@ -135,6 +135,6 @@ Section 2.
 
 [^c667352]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/1966/23/schedule/paragraph/9) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [s. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)
 
-[^key-d2c809d73644a5ed6eb92f87875dd7f4]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/1966/23/schedule/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d2c809d73644a5ed6eb92f87875dd7f4]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/1966/23/schedule/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c667356]: Textual amendment: [Sch. Pt. 11 para. 11](https://www.legislation.gov.uk/ukpga/1966/23/schedule/part/11/paragraph/11) repealed by [Civil Aviation Act 1971 (c. 75)](https://www.legislation.gov.uk/ukpga/1971/75), [Sch. 11](https://www.legislation.gov.uk/ukpga/1971/75/schedule/11) and [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/XIII)

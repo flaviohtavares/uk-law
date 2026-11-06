@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Financial assistance which confers an economic advantage[^key-a6ebe61d0bbf0d03ee1d8f3b3546caca]
+## 3. Financial assistance which confers an economic advantage[^c-a6ebe61d0bbf0d03ee1d8f3b3546caca]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6ebe61d0bbf0d03ee1d8f3b3546caca]: Commencement: S. 3 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-a6ebe61d0bbf0d03ee1d8f3b3546caca]: Commencement: S. 3 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

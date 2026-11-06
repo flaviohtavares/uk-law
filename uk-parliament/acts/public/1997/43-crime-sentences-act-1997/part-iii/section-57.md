@@ -47,7 +47,7 @@ summary: ''
 - (b) paragraphs 2, 3, 7 and 8 of Schedule 3 and section 48 so far as relating to those paragraphs; and
 - (c) paragraphs 10 and 12 of Schedule 5 and section 56(1) so far as relating to those paragraphs.
 
-(8)[^key-e9a7cb139ac813b36dee0a8a4c37d7ce] Nothing in subsection (4) above affects the extent of section 47 of this Act so far as it confers a power on the Court Martial or the Court Martial Appeal Court.
+(8)[^c-e9a7cb139ac813b36dee0a8a4c37d7ce] Nothing in subsection (4) above affects the extent of section 47 of this Act so far as it confers a power on the Court Martial or the Court Martial Appeal Court.
 
 ## Annotations
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c11468061]: Marginal citation: [1961 c.39](https://www.legislation.gov.uk/ukpga/1961/39).
 
-[^key-e9a7cb139ac813b36dee0a8a4c37d7ce]: Textual amendment: S. 57(8) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 144](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/144); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-e9a7cb139ac813b36dee0a8a4c37d7ce]: Textual amendment: S. 57(8) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 144](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/144); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4

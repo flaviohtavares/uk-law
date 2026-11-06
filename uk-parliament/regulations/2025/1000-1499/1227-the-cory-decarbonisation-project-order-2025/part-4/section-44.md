@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Defence to proceedings in respect of statutory nuisance[^key-b893e672c530bd21b571085e8c405f27]
+## 44. Defence to proceedings in respect of statutory nuisance[^c-b893e672c530bd21b571085e8c405f27]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b893e672c530bd21b571085e8c405f27]: Commencement: Art. 44 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-b893e672c530bd21b571085e8c405f27]: Commencement: Art. 44 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00059]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82 was amended by section 103 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16); section 79 was amended by sections 101 and 102 of the same Act. There are other amendments not relevant to this Order.
 

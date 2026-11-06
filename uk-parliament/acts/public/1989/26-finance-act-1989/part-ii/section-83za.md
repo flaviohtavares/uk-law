@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83ZA. Contingent loans[^key-caaf2a0425def4de08160261061cfca1]
+## 83ZA. Contingent loans[^c-caaf2a0425def4de08160261061cfca1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caaf2a0425def4de08160261061cfca1]: Textual amendment: S. 83ZA omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 1(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/1/4) (with [Sch. 17 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/4/4))
+[^c-caaf2a0425def4de08160261061cfca1]: Textual amendment: S. 83ZA omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 1(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/1/4) (with [Sch. 17 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/4/4))

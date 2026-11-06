@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Reconciling different rules[^key-4638e1870145d636dddbbd15263d2b94]
+## 13. Reconciling different rules[^c-4638e1870145d636dddbbd15263d2b94]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4638e1870145d636dddbbd15263d2b94]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/16/section/13) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4638e1870145d636dddbbd15263d2b94]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/16/section/13) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

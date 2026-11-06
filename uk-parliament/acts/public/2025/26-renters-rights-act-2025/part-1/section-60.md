@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Remedying of hazards occurring in dwelling-houses in England[^key-e4cc7574434b3ac2a85436d04ed05fce]
+## 60. Remedying of hazards occurring in dwelling-houses in England[^c-e4cc7574434b3ac2a85436d04ed05fce]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4cc7574434b3ac2a85436d04ed05fce]: Commencement: S. 60 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e4cc7574434b3ac2a85436d04ed05fce]: Commencement: S. 60 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

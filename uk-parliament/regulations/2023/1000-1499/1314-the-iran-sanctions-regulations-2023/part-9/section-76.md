@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Disclosure of information[^key-27802cd459cedfaf70928ff8422e30f9]
+## 76. Disclosure of information[^c-27802cd459cedfaf70928ff8422e30f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27802cd459cedfaf70928ff8422e30f9]: Commencement: Reg. 76 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-27802cd459cedfaf70928ff8422e30f9]: Commencement: Reg. 76 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00023]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).
 

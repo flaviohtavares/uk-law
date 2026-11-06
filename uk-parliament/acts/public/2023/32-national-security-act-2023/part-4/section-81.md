@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Offences: supplementary provision[^key-243e4fc1585cfdb2ab372fd13e696880][^key-1b39a23c7af8706743a2156727a49d8c]
+## 81. Offences: supplementary provision[^c-243e4fc1585cfdb2ab372fd13e696880][^c-1b39a23c7af8706743a2156727a49d8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-243e4fc1585cfdb2ab372fd13e696880]: Commencement: S. 81 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-243e4fc1585cfdb2ab372fd13e696880]: Commencement: S. 81 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-1b39a23c7af8706743a2156727a49d8c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/32/section/81) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-1b39a23c7af8706743a2156727a49d8c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/32/section/81) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15CA. Provision of financial services relating to foreign exchange reserve and asset management[^key-603639a0c7eac85b1b98dd17c1b0e503][^key-259b078ee073881bbd9447845e718ca6]
+## 15CA. Provision of financial services relating to foreign exchange reserve and asset management[^c-603639a0c7eac85b1b98dd17c1b0e503][^c-259b078ee073881bbd9447845e718ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-603639a0c7eac85b1b98dd17c1b0e503]: Textual amendment: [Reg. 15CA](https://www.legislation.gov.uk/uksi/2019/600/regulation/15CA) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/748/regulation/13)
+[^c-603639a0c7eac85b1b98dd17c1b0e503]: Textual amendment: [Reg. 15CA](https://www.legislation.gov.uk/uksi/2019/600/regulation/15CA) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/748/regulation/13)
 
-[^key-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)

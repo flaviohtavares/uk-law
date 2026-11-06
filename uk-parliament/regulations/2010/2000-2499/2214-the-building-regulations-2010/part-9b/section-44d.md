@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44D (Extent: E). Application of paragraph S1 of Schedule 1 (the erection of new residential buildings) (Extent: E)[^key-a7aee3d2dff622cef3a5c06fa3d93d82]
+## 44D (Extent: E). Application of paragraph S1 of Schedule 1 (the erection of new residential buildings) (Extent: E)[^c-a7aee3d2dff622cef3a5c06fa3d93d82]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7aee3d2dff622cef3a5c06fa3d93d82]: Textual amendment: [Pt. 9B](https://www.legislation.gov.uk/uksi/2010/2214/part/9B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/3) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))
+[^c-a7aee3d2dff622cef3a5c06fa3d93d82]: Textual amendment: [Pt. 9B](https://www.legislation.gov.uk/uksi/2010/2214/part/9B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/3) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))

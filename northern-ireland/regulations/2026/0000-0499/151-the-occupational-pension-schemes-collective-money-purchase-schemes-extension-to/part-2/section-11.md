@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Continuity strategy requirement - scheme proprietor: unconnected multiple employer schemes[^key-4689f5e5b8255e8c60892d6d1c9a66d9]
+## 11. Continuity strategy requirement - scheme proprietor: unconnected multiple employer schemes[^c-4689f5e5b8255e8c60892d6d1c9a66d9]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ In section 68 (continuity strategy requirement)—
 
 ## Annotations
 
-[^key-4689f5e5b8255e8c60892d6d1c9a66d9]: Commencement: Reg. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-4689f5e5b8255e8c60892d6d1c9a66d9]: Commencement: Reg. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

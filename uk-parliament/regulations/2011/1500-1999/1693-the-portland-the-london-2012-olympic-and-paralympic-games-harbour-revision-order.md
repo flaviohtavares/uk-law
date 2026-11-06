@@ -32,7 +32,7 @@ summary: ''
 
 Harbours, Docks, Piers And Ferries
 
-The Portland (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (revoked)[^key-49984f97f2f9f188403f878c85f151dd]
+The Portland (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (revoked)[^c-49984f97f2f9f188403f878c85f151dd]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 5th August 2011
 
-[^key-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARY[^key-49984f97f2f9f188403f878c85f151dd]
+## PART 1 — PRELIMINARY[^c-49984f97f2f9f188403f878c85f151dd]
 
-### 1. Citation, commencement and duration[^key-49984f97f2f9f188403f878c85f151dd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-49984f97f2f9f188403f878c85f151dd]
+### 1. Citation, commencement and duration[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Incorporation of the 1997 Order[^key-49984f97f2f9f188403f878c85f151dd]
+### 2. Interpretation[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — HARBOUR REGULATION[^key-49984f97f2f9f188403f878c85f151dd]
-
-### 4. Jurisdiction[^key-49984f97f2f9f188403f878c85f151dd]
+### 3. Incorporation of the 1997 Order[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General functions of the Company[^key-49984f97f2f9f188403f878c85f151dd]
+## PART 2 — HARBOUR REGULATION[^c-49984f97f2f9f188403f878c85f151dd]
+
+### 4. Jurisdiction[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Environmental Consultative Committee[^key-49984f97f2f9f188403f878c85f151dd]
+### 5. General functions of the Company[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — MISCELLANEOUS AND GENERAL[^key-49984f97f2f9f188403f878c85f151dd]
-
-### 7. Limitations on the powers under this Order[^key-49984f97f2f9f188403f878c85f151dd]
+### 6. Environmental Consultative Committee[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Saving[^key-49984f97f2f9f188403f878c85f151dd]
+## PART 3 — MISCELLANEOUS AND GENERAL[^c-49984f97f2f9f188403f878c85f151dd]
+
+### 7. Limitations on the powers under this Order[^c-49984f97f2f9f188403f878c85f151dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Saving[^c-49984f97f2f9f188403f878c85f151dd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49984f97f2f9f188403f878c85f151dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49984f97f2f9f188403f878c85f151dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1693) ceases to have effect (9.9.2012) by virtue of [The Portland (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (S.I. 2011/1693)](https://www.legislation.gov.uk/uksi/2011/1693), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1693/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1693/article/2/1)
+[^c-49984f97f2f9f188403f878c85f151dd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1693) ceases to have effect (9.9.2012) by virtue of [The Portland (The London 2012 Olympic and Paralympic Games) Harbour Revision Order 2011 (S.I. 2011/1693)](https://www.legislation.gov.uk/uksi/2011/1693), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1693/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2011/1693/article/2/1)

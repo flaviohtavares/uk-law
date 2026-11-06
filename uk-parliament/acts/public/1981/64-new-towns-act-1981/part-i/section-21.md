@@ -29,8 +29,8 @@ notwithstanding anything in any enactment relating to land of that kind, or in a
 
 (2) Nothing in this section shall be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than contravention of any such enactment as is mentioned in subsection (1) above.
 
-(3)[^key-4d6ce4a2ae8efe71e2e76053eecd2ffc] Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
+(3)[^c-4d6ce4a2ae8efe71e2e76053eecd2ffc] Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.
 
 ## Annotations
 
-[^key-4d6ce4a2ae8efe71e2e76053eecd2ffc]: Textual amendment: S. 21(3) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/6); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-4d6ce4a2ae8efe71e2e76053eecd2ffc]: Textual amendment: S. 21(3) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/6); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-72cdf52f5a38224ee701edd932376ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-72cdf52f5a38224ee701edd932376ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Scottish Ministers may by order provide that, on a date specified in the order, section 203(1) (duty to keep housing revenue account) of that Act ceases to apply in relation to a local authority so specified.
 
@@ -41,4 +41,4 @@ and the authority must comply with the direction.
 
 [^c286671]: Commencement: S. 94 wholly in force at 1.11.2001, see s. 113 and [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/ssi/2001/336/article/3)) (as amended by [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 7(b)](https://www.legislation.gov.uk/ssi/2001/397/article/7/b))
 
-[^key-72cdf52f5a38224ee701edd932376ffa]: Textual amendment: S. 94(1) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(c)](https://www.legislation.gov.uk/asp/2012/11/section/4/c), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)
+[^c-72cdf52f5a38224ee701edd932376ffa]: Textual amendment: S. 94(1) repealed (1.4.2013) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 4(c)](https://www.legislation.gov.uk/asp/2012/11/section/4/c), [5(2)](https://www.legislation.gov.uk/asp/2012/11/section/5/2)

@@ -123,7 +123,7 @@ that person is to be taken to have committed an offence under section 241(1).
 
 (4) The liability of the relevant person is limited to the total amount of the money which he has, or has had, in his hands as mentioned in sub-paragraph (3)(b).
 
-(5) Expenses are not recoverable under this paragraph so far as they are, by any direction given by the appropriate tribunal[^key-3c12b76d90e16a0f97f80a520f0278f5] on an appeal to the tribunal under paragraph 11, recoverable under an order of the tribunal.
+(5) Expenses are not recoverable under this paragraph so far as they are, by any direction given by the appropriate tribunal[^c-3c12b76d90e16a0f97f80a520f0278f5] on an appeal to the tribunal under paragraph 11, recoverable under an order of the tribunal.
 
 #### Service of demand
 
@@ -141,11 +141,11 @@ that person is to be taken to have committed an offence under section 241(1).
 
 #### Appeals
 
-**11.**[^c2051758] (1) A person on whom a demand for the recovery of expenses has been served may appeal to the appropriate tribunal[^key-9ceae88e4232e9ab9319b798f0896fe5] against the demand.
+**11.**[^c2051758] (1) A person on whom a demand for the recovery of expenses has been served may appeal to the appropriate tribunal[^c-9ceae88e4232e9ab9319b798f0896fe5] against the demand.
 
 (2) An appeal must be made within the period of 21 days beginning with the date of service of the demand or copy of it under paragraph 9.
 
-(3) The appropriate tribunal[^key-d68fb5d1f09e1226ba4e7bed1d14b374] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-d68fb5d1f09e1226ba4e7bed1d14b374] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
 (4) Where the demand relates to action taken by virtue of paragraph 3(3), an appeal may be brought on the ground that reasonable progress was being made towards compliance with the improvement notice when the local housing authority gave notice under paragraph 4 of their intention to enter and take the action.
 
@@ -197,7 +197,7 @@ This does not affect the generality of sub-paragraph (1).
 
 #### Recovery of expenses and interest from other persons profiting from taking of action
 
-**14.**[^c2051761] (1) Sub-paragraph (2) applies if, on an application to the appropriate tribunal[^key-3232cd83d9206fbf5febd43d61ae5e6c], the local housing authority satisfy the tribunal that—
+**14.**[^c2051761] (1) Sub-paragraph (2) applies if, on an application to the appropriate tribunal[^c-3232cd83d9206fbf5febd43d61ae5e6c], the local housing authority satisfy the tribunal that—
 
 - (a) the expenses and interest have not been and are unlikely to be recovered; and
 - (b) a person is profiting by the taking of the action under paragraph 3 in respect of which the expenses were incurred in that he is obtaining rents or other payments which would not have been obtainable if the number of persons living in the premises was limited to that appropriate for the premises in their state before the action was taken.
@@ -222,7 +222,7 @@ This does not affect the generality of sub-paragraph (1).
 
 [^c2051755]: Commencement: Sch. 3 wholly in force at 16.6.2006; Sch. 3 not in force at Royal Assent see s. 270(4)(5); Sch. 3 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 3 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-3c12b76d90e16a0f97f80a520f0278f5]: Textual amendment: Words in Sch. 3 para. 8(5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3c12b76d90e16a0f97f80a520f0278f5]: Textual amendment: Words in Sch. 3 para. 8(5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051756]: Commencement: Sch. 3 wholly in force at 16.6.2006; Sch. 3 not in force at Royal Assent see s. 270(4)(5); Sch. 3 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 3 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -230,9 +230,9 @@ This does not affect the generality of sub-paragraph (1).
 
 [^c2051758]: Commencement: Sch. 3 wholly in force at 16.6.2006; Sch. 3 not in force at Royal Assent see s. 270(4)(5); Sch. 3 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 3 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-9ceae88e4232e9ab9319b798f0896fe5]: Textual amendment: Words in Sch. 3 para. 11(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-9ceae88e4232e9ab9319b798f0896fe5]: Textual amendment: Words in Sch. 3 para. 11(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-d68fb5d1f09e1226ba4e7bed1d14b374]: Textual amendment: Words in Sch. 3 para. 11(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d68fb5d1f09e1226ba4e7bed1d14b374]: Textual amendment: Words in Sch. 3 para. 11(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2057381]: Textual amendment: Words in Sch. 3 para. 11(6)(a)(b) substituted (1.6.2009) by [Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307) , [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2) , [Sch. 1 para. 280](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/280) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5) )
 
@@ -242,4 +242,4 @@ This does not affect the generality of sub-paragraph (1).
 
 [^c2051761]: Commencement: Sch. 3 wholly in force at 16.6.2006; Sch. 3 not in force at Royal Assent see s. 270(4)(5); Sch. 3 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 3 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-3232cd83d9206fbf5febd43d61ae5e6c]: Textual amendment: Words in Sch. 3 para. 14(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3232cd83d9206fbf5febd43d61ae5e6c]: Textual amendment: Words in Sch. 3 para. 14(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 183(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/183/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

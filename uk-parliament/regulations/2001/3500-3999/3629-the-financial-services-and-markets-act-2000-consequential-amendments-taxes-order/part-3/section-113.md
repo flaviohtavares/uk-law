@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Interpretation[^key-facd0de91f15ff8f4b65d3f5ac809c1a]
+## 113. Interpretation[^c-facd0de91f15ff8f4b65d3f5ac809c1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-facd0de91f15ff8f4b65d3f5ac809c1a]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-facd0de91f15ff8f4b65d3f5ac809c1a]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00107]: Footnote: Regulation 2 was relevantly amended by regulation 2(a) and (b) of S.I. [1992/3287](https://www.legislation.gov.uk/uksi/1992/3287) and regulation 3(a), (c), (f) and (g) of S.I. [1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).
 

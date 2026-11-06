@@ -100,7 +100,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Scope[^key-4c0297ec0e1413a17166e0197adffc62]
+## Article 1. Scope[^c-4c0297ec0e1413a17166e0197adffc62]
 
 (1.) This Regulation lays down the procedure for the determination of the existing renewal application by the relevant competent authority as assessing competent authority.
 
@@ -126,16 +126,16 @@ is taken to have been done by the relevant competent authority as the assessing 
 For the purposes of this Regulation the following definitions shall apply:
 
 - ((a)) ‘producer’ means the person who manufactures the active substance on his own or who contracts out the manufacturing to another party or a person designated by the manufacturer as his sole representative for the purpose of compliance with this Regulation;
-- ((b)) ‘applicant’ means the producer who made the existing renewal application;[^key-4547e052937a14d27a54dec8ed8165b3]
-- ((c)) [^key-698f4551b334dbf3468d4b5f14449b4d]...
-- ((d)) [^key-698f4551b334dbf3468d4b5f14449b4d]...
-- ((e)) [^key-698f4551b334dbf3468d4b5f14449b4d]...
-- ((f)) [^key-698f4551b334dbf3468d4b5f14449b4d]...
-- ((g)) ‘Regulation[^key-4cbf37c01acd4a7e278a987c65756d81] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107)’ means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market;
+- ((b)) ‘applicant’ means the producer who made the existing renewal application;[^c-4547e052937a14d27a54dec8ed8165b3]
+- ((c)) [^c-698f4551b334dbf3468d4b5f14449b4d]...
+- ((d)) [^c-698f4551b334dbf3468d4b5f14449b4d]...
+- ((e)) [^c-698f4551b334dbf3468d4b5f14449b4d]...
+- ((f)) [^c-698f4551b334dbf3468d4b5f14449b4d]...
+- ((g)) ‘Regulation[^c-4cbf37c01acd4a7e278a987c65756d81] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107)’ means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market;
 - ((h)) ‘assessing competent authority’ has the meaning given by Article 15(1A) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107);
 - ((i)) ‘existing renewal application’ has the meaning given by Article 1(2).
 
-## Article 2a. Determination of existing renewal application[^key-423536dc576151ef58a1018fda14195b]
+## Article 2a. Determination of existing renewal application[^c-423536dc576151ef58a1018fda14195b]
 
 (1.) Where the assessing competent authority considers that additional data from the applicant is necessary to finalise the relevant conclusion, the assessing competent authority may set a period of up to one month for the applicant to supply that data.
 
@@ -154,107 +154,107 @@ For the purposes of this Regulation the following definitions shall apply:
 
 (7.) In this Article, “competent authority” and “constituent territory” have the meanings given in Article 3A of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107).
 
-## Article 3. Coordinating authority of the Member State[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 3. Coordinating authority of the Member State[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Submission of application[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 4. Submission of application[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Format and content of application[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 5. Format and content of application[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Checking of application[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 6. Checking of application[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Pre-submission contacts[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 7. Pre-submission contacts[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Access to the application[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 8. Access to the application[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Submission of supplementary dossiers[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 9. Submission of supplementary dossiers[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Contents of supplementary dossiers[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 10. Contents of supplementary dossiers[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Checking of supplementary dossiers[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 11. Checking of supplementary dossiers[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Withdrawal and replacement of the applicant[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 12. Withdrawal and replacement of the applicant[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Submission of information by third parties[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 13. Submission of information by third parties[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Assessment by the rapporteur Member State and the co-rapporteur Member State[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 14. Assessment by the rapporteur Member State and the co-rapporteur Member State[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Comments upon the renewal assessment report and access to that report and to the supplementary summary dossiers[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 15. Comments upon the renewal assessment report and access to that report and to the supplementary summary dossiers[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Evaluation of the renewal assessment report[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 16. Evaluation of the renewal assessment report[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Review report and presentation of draft acts[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 17. Review report and presentation of draft acts[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Access to review report[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 18. Access to review report[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Fees and charges[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 19. Fees and charges[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Other charges, levies or fees[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 20. Other charges, levies or fees[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Entry into force[^key-9d9de621843756a22dcb6ea8a0d912b6]
+## Article 21. Entry into force[^c-9d9de621843756a22dcb6ea8a0d912b6]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fa7cc380fdfcd28890b535ae9d10dbc]...
+[^c-7fa7cc380fdfcd28890b535ae9d10dbc]...
 
-## ANNEX I[^key-ddaa44d050b78891785aa881ee602ab1]
+## ANNEX I[^c-ddaa44d050b78891785aa881ee602ab1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Format for application, as provided for in Article 5(1)[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+## ANNEX II — Format for application, as provided for in Article 5(1)[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 **No longer in force.**
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 The application shall be in writing, signed by the applicant, and sent by registered mail to the rapporteur Member State listed in column B of Annex I and to the co-rapporteur Member State listed in column C of Annex I.
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 A copy of the application without the updating statement shall be sent to the European Commission, DG Health and Consumers, unit E3, 1049 Brussels, Belgium and to the Authority, European Food Safety Authority, Largo N. Palli 5/A, 43121 Parma, Italy.
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 The application shall be submitted in accordance with the following model.
 
@@ -298,15 +298,15 @@ Name and address of the applicant including the name of the natural person respo
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 An updating statement, as provided for in Article 5(2), shall be attached as an Annex to the application.
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 The applicant confirms that the above information submitted on … (date) is correct.
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]
 
 Signature (of the person competent to act for the applicant referred to under 1.1)
 
@@ -316,20 +316,20 @@ Signature (of the person competent to act for the applicant referred to under 1.
 
 [^f00002]: Footnote: [OJ L 309, 24.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.309.01.0001.01.ENG).
 
-[^key-4c0297ec0e1413a17166e0197adffc62]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2010/1141/article/1) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/2) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(12)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/12/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c0297ec0e1413a17166e0197adffc62]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2010/1141/article/1) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/2) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(12)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/12/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4547e052937a14d27a54dec8ed8165b3]: Textual amendment: Art. 2(b) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4547e052937a14d27a54dec8ed8165b3]: Textual amendment: Art. 2(b) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-698f4551b334dbf3468d4b5f14449b4d]: Textual amendment: Arts. 2(c)-(f) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-698f4551b334dbf3468d4b5f14449b4d]: Textual amendment: Arts. 2(c)-(f) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4cbf37c01acd4a7e278a987c65756d81]: Textual amendment: Art. 2(g)-(i) inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/c) (as amended by [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cbf37c01acd4a7e278a987c65756d81]: Textual amendment: Art. 2(g)-(i) inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(3)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/3/c) (as amended by [S.I. 2019/559](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-423536dc576151ef58a1018fda14195b]: Textual amendment: Art. 2A inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/4) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(12)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/12/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-423536dc576151ef58a1018fda14195b]: Textual amendment: Art. 2A inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/4) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(12)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/12/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d9de621843756a22dcb6ea8a0d912b6]: Textual amendment: Arts. 3-21 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d9de621843756a22dcb6ea8a0d912b6]: Textual amendment: Arts. 3-21 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fa7cc380fdfcd28890b535ae9d10dbc]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fa7cc380fdfcd28890b535ae9d10dbc]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddaa44d050b78891785aa881ee602ab1]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2010/1141/annex/I) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddaa44d050b78891785aa881ee602ab1]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2010/1141/annex/I) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a7db5b752f6f545b52a5ecfd9e62513]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2010/1141/annex/II) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a7db5b752f6f545b52a5ecfd9e62513]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eur/2010/1141/annex/II) omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2019/556/regulation/15/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

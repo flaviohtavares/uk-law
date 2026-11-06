@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^key-277542b630599bfb812497106e69b6cf]
+## SCHEDULE 5 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^c-277542b630599bfb812497106e69b6cf]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ Article 11
 | London Borough of Wandsworth | Cringle Street | Works to provide site access<br>Works to undertake carriageway crossing for services<br>Works associated with environmental enhancement including footway surfacing and street furniture | Kirtling Street |
 | London Borough of Wandsworth | Nine Elms Lane | Works to provide site access<br>Works associated with environmental enhancement including footway surfacing, tree planting, and street furniture | Heathwall Pumping Station |
 | London Borough of Lambeth | Albert Embankment | Works to provide site access | Albert Embankment Foreshore |
-| City of Westminster | Victoria Embankment | Works to provide site access.<br>Works to facilitate the provision of traffic management, modification to waiting restrictions, removal of central carriageway reserve, provision of site hoarding, removal of cycle parking station<br>Works to facilitate the provision of access to boat moorings[^key-5005a40f34d693760d2070a1d5252d55]<br>Works associated with environmental enhancement including footway surfacing and street furniture<br>Works to construct a ramp and stairs on the footway | Victoria Embankment Foreshore |
+| City of Westminster | Victoria Embankment | Works to provide site access.<br>Works to facilitate the provision of traffic management, modification to waiting restrictions, removal of central carriageway reserve, provision of site hoarding, removal of cycle parking station<br>Works to facilitate the provision of access to boat moorings[^c-5005a40f34d693760d2070a1d5252d55]<br>Works associated with environmental enhancement including footway surfacing and street furniture<br>Works to construct a ramp and stairs on the footway | Victoria Embankment Foreshore |
 | City of London | Victoria Embankment / Blackfriars Underpass / Blackfriars Bridge head / Blackfriars Bridge | Works to provide site access.<br>Provision of traffic management including modification to waiting restrictions/loading bays, provision of site hoarding<br>Works to facilitate the temporary and permanent provision of access to boat moorings<br>Works associated with environmental enhancement including footway surfacing, step access from Blackfriars Bridge, lift access from Blackfriars Bridge, and street furniture<br>Works to construct a ramp and stairs on the footway | Blackfriars Bridge Foreshore |
 | City of London | New Bridge Street / Blackfriars Bridge / Blackfriars Bridge head | Provision of Temporary traffic management<br>Provision of pedestrian lift | Blackfriars Bridge Foreshore |
 | City of London | White Lion Hill | Modification of kerb, boundary wall, railing and provision of loading bay | Blackfriars Bridge Foreshore |
@@ -79,6 +79,6 @@ Article 11
 
 ## Annotations
 
-[^key-277542b630599bfb812497106e69b6cf]: Commencement: Sch. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-277542b630599bfb812497106e69b6cf]: Commencement: Sch. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-5005a40f34d693760d2070a1d5252d55]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2384/schedule/5) Table substituted (24.11.2022) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2022 (S.I. 2022/1242)](https://www.legislation.gov.uk/uksi/2022/1242), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/1242/article/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1242/schedule/4) Table
+[^c-5005a40f34d693760d2070a1d5252d55]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2384/schedule/5) Table substituted (24.11.2022) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2022 (S.I. 2022/1242)](https://www.legislation.gov.uk/uksi/2022/1242), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/1242/article/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1242/schedule/4) Table

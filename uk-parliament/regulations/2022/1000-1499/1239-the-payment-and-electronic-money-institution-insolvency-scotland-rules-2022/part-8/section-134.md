@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Notice of resignation[^key-29adfff1c7899a21e9a6592532bf86d4]
+## 134. Notice of resignation[^c-29adfff1c7899a21e9a6592532bf86d4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29adfff1c7899a21e9a6592532bf86d4]: Commencement: Rule 134 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-29adfff1c7899a21e9a6592532bf86d4]: Commencement: Rule 134 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

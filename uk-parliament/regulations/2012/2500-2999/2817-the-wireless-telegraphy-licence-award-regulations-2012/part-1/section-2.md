@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-5f912f8a23af78a1864b2ea977060c4b]
+## 2. Interpretation[^c-5f912f8a23af78a1864b2ea977060c4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,6 +117,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f912f8a23af78a1864b2ea977060c4b]: Commencement: Reg. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-5f912f8a23af78a1864b2ea977060c4b]: Commencement: Reg. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).

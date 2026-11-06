@@ -31,7 +31,7 @@ summary: ''
 
 Road Traffic
 
-The HGV Road User Levy (Rate for Prescribed Vehicles) Regulations 2018 (revoked)[^key-466839421f9ca5b769f1722c855278e5]
+The HGV Road User Levy (Rate for Prescribed Vehicles) Regulations 2018 (revoked)[^c-466839421f9ca5b769f1722c855278e5]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st February 2019
 
-[^key-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-466839421f9ca5b769f1722c855278e5]
+## 1. Citation and commencement[^c-466839421f9ca5b769f1722c855278e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rate of Levy for Prescribed Heavy Goods Vehicles[^key-466839421f9ca5b769f1722c855278e5]
+## 2. Rate of Levy for Prescribed Heavy Goods Vehicles[^c-466839421f9ca5b769f1722c855278e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-466839421f9ca5b769f1722c855278e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-466839421f9ca5b769f1722c855278e5]: Textual amendment: Regulations revoked (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/7)
+[^c-466839421f9ca5b769f1722c855278e5]: Textual amendment: Regulations revoked (with effect in accordance with s. 60(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 60(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/60/7)

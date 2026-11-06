@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Monitoring and reporting on subsidy control[^key-c33cf613f67ee9df8af9fb185e5b76e3][^key-fc27a067b7ce42541f8e4c1c909eb934]
+## 65. Monitoring and reporting on subsidy control[^c-c33cf613f67ee9df8af9fb185e5b76e3][^c-fc27a067b7ce42541f8e4c1c909eb934]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c33cf613f67ee9df8af9fb185e5b76e3]: Commencement: S. 65 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-c33cf613f67ee9df8af9fb185e5b76e3]: Commencement: S. 65 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-fc27a067b7ce42541f8e4c1c909eb934]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/23/section/65) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-fc27a067b7ce42541f8e4c1c909eb934]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/23/section/65) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

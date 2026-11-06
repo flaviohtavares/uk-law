@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Service of summons[^key-4361ac00e0c21cd3e912b9d91808fc07]
+## 99. Service of summons[^c-4361ac00e0c21cd3e912b9d91808fc07]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ unless something different is shown.
 
 (6) A witness summons may only be served in accordance with paragraph (1)(a), (d) or (f).
 
-(7)[^key-b8b567cfe5f1818853af71bb6a9c45ac] Unless the court otherwise directs or other legislation otherwise requires, a summons shall be prepared and served by the applicant or by another person on the applicant’s behalf.
+(7)[^c-b8b567cfe5f1818853af71bb6a9c45ac] Unless the court otherwise directs or other legislation otherwise requires, a summons shall be prepared and served by the applicant or by another person on the applicant’s behalf.
 
 (8) This rule does not apply in relation to—
 
@@ -63,6 +63,6 @@ unless something different is shown.
 
 ## Annotations
 
-[^key-4361ac00e0c21cd3e912b9d91808fc07]: Textual amendment: [Rule 99](https://www.legislation.gov.uk/uksi/1981/552/rule/99) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2019/1367/rule/8) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))
+[^c-4361ac00e0c21cd3e912b9d91808fc07]: Textual amendment: [Rule 99](https://www.legislation.gov.uk/uksi/1981/552/rule/99) substituted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2019/1367/rule/8) (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))
 
-[^key-b8b567cfe5f1818853af71bb6a9c45ac]: Textual amendment: [Rule 99(7)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/7)[(8)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/8) substituted for [rule 99(7)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/7) (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/13)
+[^c-b8b567cfe5f1818853af71bb6a9c45ac]: Textual amendment: [Rule 99(7)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/7)[(8)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/8) substituted for [rule 99(7)](https://www.legislation.gov.uk/uksi/1981/552/rule/99/7) (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/13)

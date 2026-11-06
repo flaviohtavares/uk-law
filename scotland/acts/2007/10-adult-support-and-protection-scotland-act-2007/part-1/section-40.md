@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Urgent cases[^key-330aac007ebbf11eb91b679d2ea00044]
+## 40. Urgent cases[^c-330aac007ebbf11eb91b679d2ea00044]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-330aac007ebbf11eb91b679d2ea00044]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2007/10/section/40) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-330aac007ebbf11eb91b679d2ea00044]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2007/10/section/40) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Prohibition on driving: immobilisation, removal and disposal of vehicles[^key-a95889b889253dee0fe195a69b33a261]
+## 13. Prohibition on driving: immobilisation, removal and disposal of vehicles[^c-a95889b889253dee0fe195a69b33a261]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Schedule 1 makes provision about–
 
 ## Annotations
 
-[^key-a95889b889253dee0fe195a69b33a261]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisi/2007/916/article/13) in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
+[^c-a95889b889253dee0fe195a69b33a261]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisi/2007/916/article/13) in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)

@@ -42,19 +42,19 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987 [^c24288001]; and
 - (b) for the purpose of giving effect to proposals submitted to her by the Health and Safety Executive under section 24(2A) [^c24288011] of that Act.
 
-## 1. Citation and commencement[^key-1d81a0372718455075b17ee7414bdc9a]
+## 1. Citation and commencement[^c-1d81a0372718455075b17ee7414bdc9a]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2019.
 
 (2) This Order comes into force on 6th March 2019 except for article 2(2) which comes into force as provided in article 2(3).
 
-## 2. Establishment of safety zones[^key-3c76891632cfd0c675b5cf8410862d2d][^key-4046be7ed78b69ead2f55fd6dad7cc21]
+## 2. Establishment of safety zones[^c-3c76891632cfd0c675b5cf8410862d2d][^c-4046be7ed78b69ead2f55fd6dad7cc21]
 
-(1)[^key-3c76891632cfd0c675b5cf8410862d2d] A safety zone is established around each installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 [^c24288021] specified in columns 2 and 3 of Part 1 of the Schedule.
+(1)[^c-3c76891632cfd0c675b5cf8410862d2d] A safety zone is established around each installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 [^c24288021] specified in columns 2 and 3 of Part 1 of the Schedule.
 
-(2)[^key-4046be7ed78b69ead2f55fd6dad7cc21] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
+(2)[^c-4046be7ed78b69ead2f55fd6dad7cc21] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
 
-(3)[^key-3c76891632cfd0c675b5cf8410862d2d] Paragraph (2) comes into force, as respects each installation—
+(3)[^c-3c76891632cfd0c675b5cf8410862d2d] Paragraph (2) comes into force, as respects each installation—
 
 - (a) on 6th March 2019, where the installation arrives at its station before that date; and
 - (b) when the installation arrives at its station, in any other case.
@@ -71,19 +71,19 @@ Department for Work and Pensions
 
 Article 2
 
-### PART 1 — Installations stationed at the time the Order is made[^key-bd9a146e89f8df926439b35b3a649510]
+### PART 1 — Installations stationed at the time the Order is made[^c-bd9a146e89f8df926439b35b3a649510]
 
 | ****(1) Name or other designation**** | ****(2) Latitude**** | ****(3) Longitude**** |
 | --- | --- | --- |
 | Tyne, Block 44/18a, Tyne Field | 54<sup>°</sup>26.913'N | 02<sup>°</sup>28.779'E |
 | Guinevere, Block 48/17b, Guinevere Field | 53<sup>°</sup>24.850'N | 01<sup>°</sup>16.337'E |
 
-### PART 2 — Installations not stationed at the time this Order is made[^key-039e4570d69dbd9a01d3a60956320619]
+### PART 2 — Installations not stationed at the time this Order is made[^c-039e4570d69dbd9a01d3a60956320619]
 
 | ****(1) Name or other designation**** | ****(2) Latitude**** | ****(3) Longitude**** |
 | --- | --- | --- |
 | Alligin Well AP01, Block 204/20a, Alligin Field | 60<sup>°</sup>22.333'N | 04<sup>°</sup>11.631'W |
-| Cook water injection well, Block 21/20a, Cook Field | 57[^key-a363e8e3b6ef88b908d8e6c1462d07cf]<sup>°</sup>21.54'N | 00<sup>°</sup>49.98'E |
+| Cook water injection well, Block 21/20a, Cook Field | 57[^c-a363e8e3b6ef88b908d8e6c1462d07cf]<sup>°</sup>21.54'N | 00<sup>°</sup>49.98'E |
 | DC6 Manifold Structure, Block 211/13a, Penguins Field | 61<sup>°</sup>37.77'N | 01<sup>°</sup>29.59'E |
 | DC7 Manifold Structure, Block 211/13a, Penguins Field | 61<sup>°</sup>36.72'N | 01<sup>°</sup>32.66'E |
 | DC8 Manifold Structure, Block 211/13a, Penguins Field | 61<sup>°</sup>38.98'N | 01<sup>°</sup>29.32'E |
@@ -113,16 +113,16 @@ Maritime safety information, which includes information on safety zones, is issu
 
 [^c24288011]: Marginal citation: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-1d81a0372718455075b17ee7414bdc9a]: Commencement: Art. 1 in force at 6.3.2019, see art. 1(2)
+[^c-1d81a0372718455075b17ee7414bdc9a]: Commencement: Art. 1 in force at 6.3.2019, see art. 1(2)
 
-[^key-3c76891632cfd0c675b5cf8410862d2d]: Commencement: Art. 2(1)(3) in force at 6.3.2019, see art. 1(2)
+[^c-3c76891632cfd0c675b5cf8410862d2d]: Commencement: Art. 2(1)(3) in force at 6.3.2019, see art. 1(2)
 
-[^key-4046be7ed78b69ead2f55fd6dad7cc21]: Commencement: Art. 2(2) comes into force in accordance with art. 2(3)
+[^c-4046be7ed78b69ead2f55fd6dad7cc21]: Commencement: Art. 2(2) comes into force in accordance with art. 2(3)
 
 [^c24288021]: Marginal citation: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States' National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States' National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-bd9a146e89f8df926439b35b3a649510]: Commencement: Sch. Pt. 1 in force at 6.3.2019, see art. 1(2)
+[^c-bd9a146e89f8df926439b35b3a649510]: Commencement: Sch. Pt. 1 in force at 6.3.2019, see art. 1(2)
 
-[^key-039e4570d69dbd9a01d3a60956320619]: Commencement: Sch. Pt. 2 in force at 6.3.2019, see art. 1(2)
+[^c-039e4570d69dbd9a01d3a60956320619]: Commencement: Sch. Pt. 2 in force at 6.3.2019, see art. 1(2)
 
-[^key-a363e8e3b6ef88b908d8e6c1462d07cf]: Textual amendment: Entries in Sch. Pt. 2 substituted (17.4.2020) by [The Offshore Installations (Safety Zones) Order 2020 (S.I. 2020/390)](https://www.legislation.gov.uk/uksi/2020/390), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/390/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/390/article/3)
+[^c-a363e8e3b6ef88b908d8e6c1462d07cf]: Textual amendment: Entries in Sch. Pt. 2 substituted (17.4.2020) by [The Offshore Installations (Safety Zones) Order 2020 (S.I. 2020/390)](https://www.legislation.gov.uk/uksi/2020/390), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/390/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/390/article/3)

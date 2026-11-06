@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — CONDITIONS FOR TREATMENT OF NATURAL MINERAL WATER AND SPRING WATER WITH ACTIVATED ALUMINA TO REMOVE FLUORIDE[^key-247cf000b8c78794225b2c71bd19f6cf]
+## SCHEDULE 1A — CONDITIONS FOR TREATMENT OF NATURAL MINERAL WATER AND SPRING WATER WITH ACTIVATED ALUMINA TO REMOVE FLUORIDE[^c-247cf000b8c78794225b2c71bd19f6cf]
 
 *Extent: E+W+S*
 
@@ -44,9 +44,9 @@ Regulations 2(1) and 16(3)
 
 **6.** If the relevant authority is satisfied that the conditions specified in paragraph 2 are no longer fulfilled, it may withdraw authorisation of a treatment by giving the person carrying out the treatment a written notice stating the grounds for withdrawal.
 
-**7.** Where the relevant authority has informed an applicant under paragraph 4 of its refusal to authorise a treatment under paragraph 2 or withdraws authorisation of a treatment under paragraph 6, the person who wishes to carry out the treatment may apply to the Secretary of State[^key-0c592a3336de0cf7bbb36080d1036361] for a review of that decision.
+**7.** Where the relevant authority has informed an applicant under paragraph 4 of its refusal to authorise a treatment under paragraph 2 or withdraws authorisation of a treatment under paragraph 6, the person who wishes to carry out the treatment may apply to the Secretary of State[^c-0c592a3336de0cf7bbb36080d1036361] for a review of that decision.
 
-**8.** Upon receiving the application for review, the Secretary of State[^key-89af6a7316c68c79b7d45152e50607b1] shall —
+**8.** Upon receiving the application for review, the Secretary of State[^c-89af6a7316c68c79b7d45152e50607b1] shall —
 
 - (a) make such enquiry into the matter as may seem to the Secretary of State to be appropriate; and
 - (b) having considered the results of that enquiry and any relevant facts elicited by it, either confirm the decision or direct the relevant authority to grant or restore, as appropriate, authorisation of the treatment in respect of which the application was made.
@@ -55,8 +55,8 @@ Regulations 2(1) and 16(3)
 
 ## Annotations
 
-[^key-247cf000b8c78794225b2c71bd19f6cf]: Textual amendment: Sch. 1A inserted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010 (S.I. 2010/433)](https://www.legislation.gov.uk/uksi/2010/433), [regs. 1](https://www.legislation.gov.uk/uksi/2010/433/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/433/regulation/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/433/schedule/1)
+[^c-247cf000b8c78794225b2c71bd19f6cf]: Textual amendment: Sch. 1A inserted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010 (S.I. 2010/433)](https://www.legislation.gov.uk/uksi/2010/433), [regs. 1](https://www.legislation.gov.uk/uksi/2010/433/regulation/1), [8](https://www.legislation.gov.uk/uksi/2010/433/regulation/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/433/schedule/1)
 
-[^key-0c592a3336de0cf7bbb36080d1036361]: Textual amendment: Words in Sch. 1A para. 7 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/5/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
+[^c-0c592a3336de0cf7bbb36080d1036361]: Textual amendment: Words in Sch. 1A para. 7 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/5/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
 
-[^key-89af6a7316c68c79b7d45152e50607b1]: Textual amendment: Words in Sch. 1A para. 8 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/5/e) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
+[^c-89af6a7316c68c79b7d45152e50607b1]: Textual amendment: Words in Sch. 1A para. 8 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/5/e) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Savings and modifications to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-e719060929487644d8d5f9d796442ccc]
+## 2. Savings and modifications to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^c-e719060929487644d8d5f9d796442ccc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^f00004] as
 
 ## Annotations
 
-[^key-e719060929487644d8d5f9d796442ccc]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-e719060929487644d8d5f9d796442ccc]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593) amended by [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225), [S.I. 2015/368](https://www.legislation.gov.uk/uksi/2015/368) and [S.I. 2019/975](https://www.legislation.gov.uk/uksi/2019/975).

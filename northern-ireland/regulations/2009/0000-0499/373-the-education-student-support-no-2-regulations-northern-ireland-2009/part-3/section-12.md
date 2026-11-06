@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Requirement to enter into a contract for a loan[^key-b60ba2ed23a163396542865ef4d70f00]
+## 12. Requirement to enter into a contract for a loan[^c-b60ba2ed23a163396542865ef4d70f00]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b60ba2ed23a163396542865ef4d70f00]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/373/regulation/12) substituted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2016/21/regulation/4)
+[^c-b60ba2ed23a163396542865ef4d70f00]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/373/regulation/12) substituted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2016/21/regulation/4)

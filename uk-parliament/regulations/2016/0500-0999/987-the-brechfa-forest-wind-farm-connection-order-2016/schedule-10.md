@@ -22,14 +22,14 @@ summary: ''
 
 Article 36
 
-### 1. Applications made under Requirement[^key-ccf5de7c6ce9f5578cc0d36bf40213f4]
+### 1. Applications made under Requirement[^c-ccf5de7c6ce9f5578cc0d36bf40213f4]
 
 Where an application has been made to the relevant planning authority for any agreement or approval required pursuant to a Requirement included in this Order, the relevant planning authority must give notice to the undertaker of their decision including the reasons on the application, within a period of 8 weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the authority; or
 - (b) such longer period as may be agreed by the undertaker and the relevant planning authority.
 
-### 2. Further information[^key-664108c10c4fc7b0f6ee340a888396fe]
+### 2. Further information[^c-664108c10c4fc7b0f6ee340a888396fe]
 
 (1) Where an application has been made under paragraph (1) the relevant planning authority shall have the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -39,7 +39,7 @@ Where an application has been made to the relevant planning authority for any ag
 
 (4) In the event that the relevant planning authority does not give such notification as specified in sub-paragraph (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Appeals[^key-2926bc197be727ac9532525d34451823]
+### 3. Appeals[^c-2926bc197be727ac9532525d34451823]
 
 (1) The undertaker may appeal in the event that—
 
@@ -53,7 +53,7 @@ and any appeal must be made within 42 business days following the occurrence of 
 - “appeal parties” means the relevant planning authority, the Requirement consultee and the undertaker; and
 - “Requirement consultee” means any body named in a Requirement which is the subject of an appeal as a body to be consulted by the relevant planning authority in discharging that Requirement.
 
-### 4. Appeal process[^key-b2ca9ea251f640e9b8a2a0676095df59]
+### 4. Appeal process[^c-b2ca9ea251f640e9b8a2a0676095df59]
 
 (1) Any appeal under this Schedule shall take place by written representations only. The appeal process shall be as follows—
 
@@ -88,7 +88,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person is to have regard to Communities and Local Government Circular 03/2009 or any circular or guidance which may from time to time replaces it.
 
-### 5. Fees[^key-82ad1f9e9ee575cf2aa8c4e4598b3e5b]
+### 5. Fees[^c-82ad1f9e9ee575cf2aa8c4e4598b3e5b]
 
 (1) Where an application is made to the relevant planning authority for agreement or approval in respect of a Requirement a fee equivalent to the fee for the discharge of a planning condition, if applicable at the time of the application, is to be paid to it.
 
@@ -99,12 +99,12 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-ccf5de7c6ce9f5578cc0d36bf40213f4]: Commencement: Sch. 10 para. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-ccf5de7c6ce9f5578cc0d36bf40213f4]: Commencement: Sch. 10 para. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-664108c10c4fc7b0f6ee340a888396fe]: Commencement: Sch. 10 para. 2 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-664108c10c4fc7b0f6ee340a888396fe]: Commencement: Sch. 10 para. 2 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-2926bc197be727ac9532525d34451823]: Commencement: Sch. 10 para. 3 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-2926bc197be727ac9532525d34451823]: Commencement: Sch. 10 para. 3 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-b2ca9ea251f640e9b8a2a0676095df59]: Commencement: Sch. 10 para. 4 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-b2ca9ea251f640e9b8a2a0676095df59]: Commencement: Sch. 10 para. 4 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-82ad1f9e9ee575cf2aa8c4e4598b3e5b]: Commencement: Sch. 10 para. 5 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-82ad1f9e9ee575cf2aa8c4e4598b3e5b]: Commencement: Sch. 10 para. 5 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

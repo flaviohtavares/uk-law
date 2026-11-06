@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Appeals Tribunals Regulations[^key-3afb19cc96d7bdb43b171c1cc8b963ed]
+## 5. Appeals Tribunals Regulations[^c-3afb19cc96d7bdb43b171c1cc8b963ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 sets out the Appeals Tribunals Regulations.
 
 ## Annotations
 
-[^key-3afb19cc96d7bdb43b171c1cc8b963ed]: Commencement: Reg. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-3afb19cc96d7bdb43b171c1cc8b963ed]: Commencement: Reg. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Extension of definition of qualifying schemes[^key-10979750b4c0e2318dbf7bc4515a68e5]
+## 3. Extension of definition of qualifying schemes[^c-10979750b4c0e2318dbf7bc4515a68e5]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10979750b4c0e2318dbf7bc4515a68e5]: Commencement: Reg. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-10979750b4c0e2318dbf7bc4515a68e5]: Commencement: Reg. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00003]: Footnote: “Employer” is defined in section 100(1) of the Pension Schemes Act 2021

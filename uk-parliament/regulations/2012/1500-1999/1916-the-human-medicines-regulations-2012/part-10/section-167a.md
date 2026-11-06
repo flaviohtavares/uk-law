@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167A. NIMAR supply to Northern Ireland[^key-7a60cf0d71262aec6b61c945ad8a8f02]
+## 167A. NIMAR supply to Northern Ireland[^c-7a60cf0d71262aec6b61c945ad8a8f02]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a60cf0d71262aec6b61c945ad8a8f02]: Textual amendment: [Regs. 167A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167A), [167B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167B) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/1452/regulation/14)
+[^c-7a60cf0d71262aec6b61c945ad8a8f02]: Textual amendment: [Regs. 167A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167A), [167B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167B) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/1452/regulation/14)

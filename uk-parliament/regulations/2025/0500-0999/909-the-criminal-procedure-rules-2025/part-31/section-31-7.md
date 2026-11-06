@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.7. Cross-examination of maker of hearsay statement[^key-98edd17cab9ba4c0a7547f730765d06f]
+## 31.7. Cross-examination of maker of hearsay statement[^c-98edd17cab9ba4c0a7547f730765d06f]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98edd17cab9ba4c0a7547f730765d06f]: Commencement: [Rule 31.7](https://www.legislation.gov.uk/uksi/2025/909/rule/31.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-98edd17cab9ba4c0a7547f730765d06f]: Commencement: [Rule 31.7](https://www.legislation.gov.uk/uksi/2025/909/rule/31.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

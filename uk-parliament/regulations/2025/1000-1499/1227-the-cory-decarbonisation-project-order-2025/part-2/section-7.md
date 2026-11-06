@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Disapplication of legislative provisions[^key-a3c90dec0ca401519b1b90d2ab7d13c5]
+## 7. Disapplication of legislative provisions[^c-a3c90dec0ca401519b1b90d2ab7d13c5]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c90dec0ca401519b1b90d2ab7d13c5]: Commencement: Art. 7 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-a3c90dec0ca401519b1b90d2ab7d13c5]: Commencement: Art. 7 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00030]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

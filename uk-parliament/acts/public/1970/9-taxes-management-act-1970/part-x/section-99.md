@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Assisting in preparation of incorrect return, etc.[^key-65ee339c7cc51542f9852499f1b283c6]
+## 99. Assisting in preparation of incorrect return, etc.[^c-65ee339c7cc51542f9852499f1b283c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65ee339c7cc51542f9852499f1b283c6]: Textual amendment: S. 99 omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 45(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/45/c) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/279/article/3))
+[^c-65ee339c7cc51542f9852499f1b283c6]: Textual amendment: S. 99 omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 45(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/45/c) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/279/article/3))

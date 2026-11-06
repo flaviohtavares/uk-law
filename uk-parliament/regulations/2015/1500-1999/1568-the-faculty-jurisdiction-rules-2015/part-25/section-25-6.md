@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25.6. Determination of appeals[^key-a310c25692273879721f9b024cc4f3a2]
+## 25.6. Determination of appeals[^c-a310c25692273879721f9b024cc4f3a2]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a310c25692273879721f9b024cc4f3a2]: Commencement: [Rule 25.6](https://www.legislation.gov.uk/uksi/2015/1568/article/25.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-a310c25692273879721f9b024cc4f3a2]: Commencement: [Rule 25.6](https://www.legislation.gov.uk/uksi/2015/1568/article/25.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Appeals[^key-6968a420ed948187183a02eb1bf58993]
+## 58. Appeals[^c-6968a420ed948187183a02eb1bf58993]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (5) Where a CCE prevention order is made on appeal, for the purposes of this Chapter (other than this section) the order is to be treated as made by the court from which the appeal was made.
 
-(6)[^key-56e55795036297edce10fec9a5f310a3] Rules of court may provide that an appeal from a decision—
+(6)[^c-56e55795036297edce10fec9a5f310a3] Rules of court may provide that an appeal from a decision—
 
 - (a) to dismiss an application for a CCE prevention order made without notice being given to the defendant, or
 - (b) to refuse to make an interim CCE prevention order when adjourning proceedings following such an application,
@@ -55,6 +55,6 @@ may be made without notice being given to the defendant.
 
 ## Annotations
 
-[^key-6968a420ed948187183a02eb1bf58993]: Commencement: S. 58 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6968a420ed948187183a02eb1bf58993]: Commencement: S. 58 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-56e55795036297edce10fec9a5f310a3]: Commencement: [S. 58(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/58/6) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/b)
+[^c-56e55795036297edce10fec9a5f310a3]: Commencement: [S. 58(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/58/6) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/b)

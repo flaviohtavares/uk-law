@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Exit regulations: general[^key-1ac8ac164896cbca3ec946fae9255227]
+## 51. Exit regulations: general[^c-1ac8ac164896cbca3ec946fae9255227]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac8ac164896cbca3ec946fae9255227]: Commencement: S. 51 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(viii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/viii) (with art. 5)
+[^c-1ac8ac164896cbca3ec946fae9255227]: Commencement: S. 51 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(viii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/viii) (with art. 5)

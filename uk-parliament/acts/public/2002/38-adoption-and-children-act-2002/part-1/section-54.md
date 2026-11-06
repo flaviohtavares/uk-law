@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Disclosing information during adoption process[^key-52b5e955fcb8317fc3eb7e63f5a5352a][^key-1dcdf1ac5e8c76215673424cb2afcd5e]
+## 54. Disclosing information during adoption process[^c-52b5e955fcb8317fc3eb7e63f5a5352a][^c-1dcdf1ac5e8c76215673424cb2afcd5e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Regulations under section 9 may require adoption agencies in prescribed circumst
 
 ## Annotations
 
-[^key-52b5e955fcb8317fc3eb7e63f5a5352a]: Commencement: S. 54 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-52b5e955fcb8317fc3eb7e63f5a5352a]: Commencement: S. 54 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-1dcdf1ac5e8c76215673424cb2afcd5e]: Commencement: S. 54 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/i)
+[^c-1dcdf1ac5e8c76215673424cb2afcd5e]: Commencement: S. 54 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/i)

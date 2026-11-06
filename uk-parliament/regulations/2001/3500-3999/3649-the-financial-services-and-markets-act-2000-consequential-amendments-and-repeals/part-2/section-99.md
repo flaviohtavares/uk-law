@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Indemnity for certain acts[^key-96da5d572b475518d640620a1cedab11]
+## 99. Indemnity for certain acts[^c-96da5d572b475518d640620a1cedab11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 105(5) of the Companies (No. 2) (Northern Ireland) Order 1990 (indemn
 
 ## Annotations
 
-[^key-96da5d572b475518d640620a1cedab11]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-96da5d572b475518d640620a1cedab11]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

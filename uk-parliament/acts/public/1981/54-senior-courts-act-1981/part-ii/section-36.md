@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Subpoena issued by High Court to run throughout United Kingdom.[^c12332681][^c12332691][^c12332701][^c12332711][^key-977e60daa4e170418db0de7a718838dd][^key-522dc8c1630a559e8eb9296aeb2899a2]
+## 36. Subpoena issued by High Court to run throughout United Kingdom.[^c12332681][^c12332691][^c12332701][^c12332711][^c-977e60daa4e170418db0de7a718838dd][^c-522dc8c1630a559e8eb9296aeb2899a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,9 +59,9 @@ was tendered to him at the time when the writ was served upon him.
 
     [S. 36](https://www.legislation.gov.uk/ukpga/1981/54/section/36) applied by [Medical Act 1983 (c. 54)](https://www.legislation.gov.uk/ukpga/1983/54), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/4/paragraph/2/2) (as inserted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2), [14](https://www.legislation.gov.uk/uksi/2002/3135/article/14) (with transitional provisions in [art. 16(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/16/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-977e60daa4e170418db0de7a718838dd]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1981/54/section/36) applied (E.W.S.) (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [62(3)](https://www.legislation.gov.uk/uksi/2010/231/article/62/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-977e60daa4e170418db0de7a718838dd]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1981/54/section/36) applied (E.W.S.) (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [62(3)](https://www.legislation.gov.uk/uksi/2010/231/article/62/3); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-522dc8c1630a559e8eb9296aeb2899a2]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1981/54/section/36) applied (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9/3)
+[^c-522dc8c1630a559e8eb9296aeb2899a2]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1981/54/section/36) applied (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9/3)
 
 [^c12332721]: Modification: [S. 36(1)-(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/36/1) modified by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [s. 104(4)](https://www.legislation.gov.uk/ukpga/1983/20/section/104/4), [Sch. 5 para. 43(2)](https://www.legislation.gov.uk/ukpga/1983/20/schedule/5/paragraph/43/2)
 

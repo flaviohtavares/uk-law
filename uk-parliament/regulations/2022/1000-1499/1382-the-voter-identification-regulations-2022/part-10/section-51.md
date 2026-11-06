@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^key-635491bbb6a5f6968a50baa74f0419fe]
+## 51. Amendment of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^c-635491bbb6a5f6968a50baa74f0419fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England)
 
 ## Annotations
 
-[^key-635491bbb6a5f6968a50baa74f0419fe]: Commencement: Reg. 51 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-635491bbb6a5f6968a50baa74f0419fe]: Commencement: Reg. 51 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

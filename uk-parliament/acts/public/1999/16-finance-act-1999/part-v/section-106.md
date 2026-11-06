@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Power to call for documents etc.[^key-737c734ebc7c5f41bbd7b86a25f1fa3c]
+## 106. Power to call for documents etc.[^c-737c734ebc7c5f41bbd7b86a25f1fa3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-737c734ebc7c5f41bbd7b86a25f1fa3c]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/1999/16/section/106) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(d)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/d)
+[^c-737c734ebc7c5f41bbd7b86a25f1fa3c]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/1999/16/section/106) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(d)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/d)

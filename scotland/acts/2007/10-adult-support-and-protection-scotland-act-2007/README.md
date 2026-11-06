@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — Protection of adults at risk of harm[^key-e1e1e82a210d4bbe3f1a78201b79dc73]
+### Part 1 — Protection of adults at risk of harm[^c-e1e1e82a210d4bbe3f1a78201b79dc73]
 
 #### Introductory
 
@@ -164,4 +164,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-e1e1e82a210d4bbe3f1a78201b79dc73]: Modification: [Pt. 1](https://www.legislation.gov.uk/asp/2007/10/part/1) modified (31.3.2012) by [The Community Care and Health (Scotland) Act 2002 (Incidental Provision) (Adult Support and Protection) Order 2012 (S.S.I. 2012/66)](https://www.legislation.gov.uk/ssi/2012/66), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/66/article/1/1), [2](https://www.legislation.gov.uk/ssi/2012/66/article/2)
+[^c-e1e1e82a210d4bbe3f1a78201b79dc73]: Modification: [Pt. 1](https://www.legislation.gov.uk/asp/2007/10/part/1) modified (31.3.2012) by [The Community Care and Health (Scotland) Act 2002 (Incidental Provision) (Adult Support and Protection) Order 2012 (S.S.I. 2012/66)](https://www.legislation.gov.uk/ssi/2012/66), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/66/article/1/1), [2](https://www.legislation.gov.uk/ssi/2012/66/article/2)

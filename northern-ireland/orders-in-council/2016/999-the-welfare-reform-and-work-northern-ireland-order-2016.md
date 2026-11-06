@@ -93,7 +93,7 @@ In this Order—
 
 ## Benefit cap
 
-### 5. Benefit cap[^c22579251][^key-4c7c0ef76374979061fb34b6b154bbd2]
+### 5. Benefit cap[^c22579251][^c-4c7c0ef76374979061fb34b6b154bbd2]
 
 (1) Article 101 of the 2015 Order (benefit cap) is amended as set out in paragraphs (2) to (5).
 
@@ -219,44 +219,44 @@ In this Order—
 
 ### 9. Employment and support allowance: work related activity component
 
-(1)[^key-c4ccddea061f783a081899f7e746d58f] Part 1 of the 2007 Act (employment and support allowance) is amended as follows.
+(1)[^c-c4ccddea061f783a081899f7e746d58f] Part 1 of the 2007 Act (employment and support allowance) is amended as follows.
 
-(2)[^key-c4ccddea061f783a081899f7e746d58f] In section 2 (amount of contributory allowance)—
+(2)[^c-c4ccddea061f783a081899f7e746d58f] In section 2 (amount of contributory allowance)—
 
 - (a) in subsection (1)(b), omit “or the work-related activity component”;
 - (b) omit subsection (3);
 - (c) in subsection (4), in each of paragraphs (a), (b) and (c), omit “or (3)”.
 
-(3)[^key-c4ccddea061f783a081899f7e746d58f] Section 4 (amount of income-related allowance)—
+(3)[^c-c4ccddea061f783a081899f7e746d58f] Section 4 (amount of income-related allowance)—
 
 - (a) in subsection (2)(b), omit “or the work-related activity component”;
 - (b) omit subsection (5);
 - (c) in subsection (6), in each of paragraphs (a), (b) and (c), omit “or (5)”.
 
-(4)[^key-c8355665f7730e6572a55c1bc8bff06c] The Department may by regulations make such transitional or transitory provision or savings as the Department considers necessary or expedient in connection with the coming into force of paragraphs (1) to (3).
+(4)[^c-c8355665f7730e6572a55c1bc8bff06c] The Department may by regulations make such transitional or transitory provision or savings as the Department considers necessary or expedient in connection with the coming into force of paragraphs (1) to (3).
 
-(5)[^key-c8355665f7730e6572a55c1bc8bff06c] Regulations under paragraph (4) may in particular make provision about including a work-related activity component in an award of employment and support allowance that is converted under paragraph 7 of Schedule 4 to the 2007 Act from an award of incapacity benefit, severe disablement allowance or income support after the coming into force of paragraphs (1) to (3).
+(5)[^c-c8355665f7730e6572a55c1bc8bff06c] Regulations under paragraph (4) may in particular make provision about including a work-related activity component in an award of employment and support allowance that is converted under paragraph 7 of Schedule 4 to the 2007 Act from an award of incapacity benefit, severe disablement allowance or income support after the coming into force of paragraphs (1) to (3).
 
-(6)[^key-c8355665f7730e6572a55c1bc8bff06c] Regulations under this Article are subject to negative resolution.
+(6)[^c-c8355665f7730e6572a55c1bc8bff06c] Regulations under this Article are subject to negative resolution.
 
 ## Universal credit
 
-### 10. Changes to child element of universal credit[^key-afe1bb52fec26f9dd9299da0af81c08d]
+### 10. Changes to child element of universal credit[^c-afe1bb52fec26f9dd9299da0af81c08d]
 
 (1) Article 15 of the 2015 Order (responsibility for children and young persons) is amended as follows.
 
-(2)[^key-32c3debed1b7f3595c570405206cd78e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-32c3debed1b7f3595c570405206cd78e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (2)—
 
 - (a) for “if such a” substitute “ for each ”;
 - (b) after “person” insert “ for whom a claimant is responsible who ”.
 
-(4)[^key-bb30eb05e81be2ba2a906386b0c91ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bb30eb05e81be2ba2a906386b0c91ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the Universal Credit Regulations (Northern Ireland) 2016—
 
-- (a)[^key-9fffe669c67c5ca8c6ec98afda91ad6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9fffe669c67c5ca8c6ec98afda91ad6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in regulation 38 (table showing amount of elements), in the table—
   - (i) omit the row under “Child element” showing the amount for first child or qualifying young person;
   - (ii) in the row under “Child element” showing the amount for second and each subsequent child or qualifying young person, for “second and each subsequent” substitute “ each ”.
@@ -265,11 +265,11 @@ In this Order—
 
 (7) Regulations under this Article are subject to negative resolution.
 
-### 11. Universal credit: limited capability for work[^key-308e1dd26ae3e4ed1b0b72dc6555ead5]
+### 11. Universal credit: limited capability for work[^c-308e1dd26ae3e4ed1b0b72dc6555ead5]
 
 In Article 17(2) of the 2015 Order (universal credit: particular needs or circumstances), omit sub-paragraph (a).
 
-### 12. Universal credit: work-related requirements[^key-584a9e509c2f20ce1eb37fa0a5c879ce]
+### 12. Universal credit: work-related requirements[^c-584a9e509c2f20ce1eb37fa0a5c879ce]
 
 (1) In Chapter 2 of Part 2 of the 2015 Order (claimant responsibilities)—
 
@@ -285,7 +285,7 @@ In Article 17(2) of the 2015 Order (universal credit: particular needs or circum
 
 ## Loans for mortgage interest, etc.
 
-### 13. Loans for mortgage interest, etc.[^key-e66f60a8c1b8403fd5de2722d21bb15c]
+### 13. Loans for mortgage interest, etc.[^c-e66f60a8c1b8403fd5de2722d21bb15c]
 
 (1) The Department may by regulations provide for loans to be made in respect of a person's liability to make owner-occupier payments in respect of accommodation occupied by the person as the person's home.
 
@@ -309,13 +309,13 @@ In Article 17(2) of the 2015 Order (universal credit: particular needs or circum
 
 - (a) make provision about determining or calculating the amount that may be paid by way of loan under the regulations;
 - (b) require that a loan under the regulations be secured by a mortgage of or charge over a legal or beneficial interest in land.
-- (c)[^key-569c630a5520600a337c9389892e38ec] charge a legal, or equitable, estate or other interest in land with either or both of the following—
+- (c)[^c-569c630a5520600a337c9389892e38ec] charge a legal, or equitable, estate or other interest in land with either or both of the following—
   - (i) repayment of a loan under the regulations;
   - (ii) interest charged in respect of such a loan.
 
 (8) The regulations may define “owner-occupier payment”.
 
-(8A)[^key-598ba9c39547993d92389496747e5c02] A charge created under paragraph (7)(c) is enforceable in all respects as if it were a valid mortgage by deed created in favour of the Department by the person on whose estate the charge has been created (with, where necessary, any authorisation or consent required by law) and the Department may exercise the powers conferred by sections 19, 21 and 22 of the Conveyancing Act 1881 on mortgagees by deed accordingly.
+(8A)[^c-598ba9c39547993d92389496747e5c02] A charge created under paragraph (7)(c) is enforceable in all respects as if it were a valid mortgage by deed created in favour of the Department by the person on whose estate the charge has been created (with, where necessary, any authorisation or consent required by law) and the Department may exercise the powers conferred by sections 19, 21 and 22 of the Conveyancing Act 1881 on mortgagees by deed accordingly.
 
 (8B) A charge created under paragraph (7)(c) may be in respect of—
 
@@ -326,7 +326,7 @@ at the time when, or at times after or before, the charge is created (including 
 
 (9) Regulations under this Article are subject to negative resolution.
 
-### 14. Article 13: further provision[^key-12f3730a53be5dbd2aea7f8392eb4d67]
+### 14. Article 13: further provision[^c-12f3730a53be5dbd2aea7f8392eb4d67]
 
 (1) This Article makes further provision about regulations under Article 13.
 
@@ -390,21 +390,21 @@ at the time when, or at times after or before, the charge is created (including 
 
 ### 15. Consequential amendments
 
-(1)[^key-db28751120b188d9e2f3432755620a85] Section 13A of the Administration Act (payment out of benefit of sums in respect of mortgage interest) is repealed.
+(1)[^c-db28751120b188d9e2f3432755620a85] Section 13A of the Administration Act (payment out of benefit of sums in respect of mortgage interest) is repealed.
 
-(2)[^key-a6f12adc13f8f3382e4f559e97d9b137] In section 170 of the Social Security Administration Act 1992 (Social Security Advisory Committee), in subsection (5) in the definition of “the relevant Northern Ireland enactments”, after paragraph (an) insert—
+(2)[^c-a6f12adc13f8f3382e4f559e97d9b137] In section 170 of the Social Security Administration Act 1992 (Social Security Advisory Committee), in subsection (5) in the definition of “the relevant Northern Ireland enactments”, after paragraph (an) insert—
 
 > - (ao) any provisions in Northern Ireland which corresponds to sections 18, 19 and 21 of the Welfare Reform and Work Act 2016;
 
 .
 
-(3)[^key-a6f12adc13f8f3382e4f559e97d9b137] In section 149 of the Administration Act (functions of Social Security Advisory Committee) in subsection (5) after paragraph (am) insert—
+(3)[^c-a6f12adc13f8f3382e4f559e97d9b137] In section 149 of the Administration Act (functions of Social Security Advisory Committee) in subsection (5) after paragraph (am) insert—
 
 > - (an) Articles 13, 14 and 16 of the Welfare Reform and Work (Northern Ireland) Order 2016;
 
 .
 
-(4)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 4 of the Social Security (Northern Ireland) Order 1998 (use of computers), in paragraph (2)—
+(4)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 4 of the Social Security (Northern Ireland) Order 1998 (use of computers), in paragraph (2)—
 
 - (a) omit the “or” after sub-paragraph (k);
 - (b) after sub-paragraph (n) insert—
@@ -413,7 +413,7 @@ at the time when, or at times after or before, the charge is created (including 
   >
   > - (o) Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016.
 
-(5)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 9 of the Social Security (Northern Ireland) Order 1998 (decisions by Department)—
+(5)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 9 of the Social Security (Northern Ireland) Order 1998 (decisions by Department)—
 
 - (a) in paragraph (3) (meaning of “relevant benefit”), after sub-paragraph (bb) insert—
 
@@ -422,9 +422,9 @@ at the time when, or at times after or before, the charge is created (including 
   ;
 - (b) in paragraph (4) (meaning of “relevant enactment”), for “or section 29 of that Act” substitute “ , section 29 of that Act or Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016 ”.
 
-(6)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 12 of the Social Security (Northern Ireland) Order 1998 (regulations with respect to decisions), in paragraph (3), in the definition of “the current legislation”, for “and section 29 of that Act” substitute “ , section 29 of that Act and Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016 ”.
+(6)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 12 of the Social Security (Northern Ireland) Order 1998 (regulations with respect to decisions), in paragraph (3), in the definition of “the current legislation”, for “and section 29 of that Act” substitute “ , section 29 of that Act and Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016 ”.
 
-(7)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 28 of the Social Security (Northern Ireland) Order 1998 (correction of errors and setting aside of decisions), in paragraph (3)—
+(7)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 28 of the Social Security (Northern Ireland) Order 1998 (correction of errors and setting aside of decisions), in paragraph (3)—
 
 - (a) omit the “or” after sub-paragraph (i);
 - (b) after sub-paragraph (j) insert—
@@ -433,7 +433,7 @@ at the time when, or at times after or before, the charge is created (including 
   >
   > - (k) Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016.
 
-(8)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 39 of the Social Security (Northern Ireland) Order 1998 (interpretation, etc. of Chapter 2 of Part 2), after paragraph (1) insert—
+(8)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 39 of the Social Security (Northern Ireland) Order 1998 (interpretation, etc. of Chapter 2 of Part 2), after paragraph (1) insert—
 
 > (1A) In this Chapter—
 >
@@ -443,11 +443,11 @@ at the time when, or at times after or before, the charge is created (including 
 > - (d) a reference to an award of a benefit to a person includes a reference to a decision that a person is eligible for a loan under Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016;
 > - (e) a reference to entitlement to a benefit includes a reference to eligibility for a loan under Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016.
 
-(9)[^key-db28751120b188d9e2f3432755620a85] In section 3A of the State Pension Credit Act (Northern Ireland) 2002 (housing credit), in subsection (5)(a), omit the words from “(and,” to “payments)”.
+(9)[^c-db28751120b188d9e2f3432755620a85] In section 3A of the State Pension Credit Act (Northern Ireland) 2002 (housing credit), in subsection (5)(a), omit the words from “(and,” to “payments)”.
 
-(10)[^key-db28751120b188d9e2f3432755620a85] In Article 16 of the 2015 Order (universal credit: amount in respect of housing costs), in paragraph (3)(a), omit the words from “(and,” to “payments)”.
+(10)[^c-db28751120b188d9e2f3432755620a85] In Article 16 of the 2015 Order (universal credit: amount in respect of housing costs), in paragraph (3)(a), omit the words from “(and,” to “payments)”.
 
-(11)[^key-a6f12adc13f8f3382e4f559e97d9b137] In Article 121 of the 2015 Order (information-sharing in relation to welfare services etc.), in paragraph (8), in the definition of “relevant social security benefit” for the words from “has” to the end substitute—
+(11)[^c-a6f12adc13f8f3382e4f559e97d9b137] In Article 121 of the 2015 Order (information-sharing in relation to welfare services etc.), in paragraph (8), in the definition of “relevant social security benefit” for the words from “has” to the end substitute—
 
 > means—
 >
@@ -456,7 +456,7 @@ at the time when, or at times after or before, the charge is created (including 
 
 .
 
-(12)[^key-db28751120b188d9e2f3432755620a85] The following provisions are repealed—
+(12)[^c-db28751120b188d9e2f3432755620a85] The following provisions are repealed—
 
 - (a) in the Social Security (Mortgage Interest Payments) (Northern Ireland) Order 1992—
   - (i) Article 3;
@@ -469,7 +469,7 @@ at the time when, or at times after or before, the charge is created (including 
   - (i) in Schedule 2, paragraph 6;
   - (ii) in Schedule 4, paragraph 11.
 
-### 16. Transitional provisions[^key-1aaba1b4f1b45f1e07b68654919ec866]
+### 16. Transitional provisions[^c-1aaba1b4f1b45f1e07b68654919ec866]
 
 (1) Regulations may make such transitional or transitory provision or savings as the Department considers necessary or expedient in connection with the coming into force of Articles 13 to 15.
 
@@ -737,34 +737,34 @@ This Order makes provision in connection with social security in Northern Irelan
 
 [^c22579251]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisi/2016/999/article/5) partly in operation; [art.5](https://www.legislation.gov.uk/nisi/2016/999/article/5) in operation for specified purposes at 13.10.2016 see [art. 2(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/b)
 
-[^key-4c7c0ef76374979061fb34b6b154bbd2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisi/2016/999/article/5) in operation at 7.11.2016 in so far as not already in operation by [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
+[^c-4c7c0ef76374979061fb34b6b154bbd2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisi/2016/999/article/5) in operation at 7.11.2016 in so far as not already in operation by [S.R. 2016/374](https://www.legislation.gov.uk/nisr/2016/374), [art. 2](https://www.legislation.gov.uk/nisr/2016/374/article/2)
 
-[^key-c4ccddea061f783a081899f7e746d58f]: Commencement: [Art. 9(1)-(3)](https://www.legislation.gov.uk/nisi/2016/999/article/9/1) in operation at 3.4.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 3](https://www.legislation.gov.uk/nisr/2017/46/article/3)
+[^c-c4ccddea061f783a081899f7e746d58f]: Commencement: [Art. 9(1)-(3)](https://www.legislation.gov.uk/nisi/2016/999/article/9/1) in operation at 3.4.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 3](https://www.legislation.gov.uk/nisr/2017/46/article/3)
 
-[^key-c8355665f7730e6572a55c1bc8bff06c]: Commencement: [Art. 9(4)-(6)](https://www.legislation.gov.uk/nisi/2016/999/article/9/4) in operation at 11.3.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/46/article/2/a)
+[^c-c8355665f7730e6572a55c1bc8bff06c]: Commencement: [Art. 9(4)-(6)](https://www.legislation.gov.uk/nisi/2016/999/article/9/4) in operation at 11.3.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/46/article/2/a)
 
-[^key-afe1bb52fec26f9dd9299da0af81c08d]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisi/2016/999/article/10) in operation at 11.3.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/46/article/2/b)
+[^c-afe1bb52fec26f9dd9299da0af81c08d]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisi/2016/999/article/10) in operation at 11.3.2017 by [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/46/article/2/b)
 
-[^key-32c3debed1b7f3595c570405206cd78e]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/nisi/2016/999/article/10/2) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
+[^c-32c3debed1b7f3595c570405206cd78e]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/nisi/2016/999/article/10/2) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
 
-[^key-bb30eb05e81be2ba2a906386b0c91ff0]: Textual amendment: [Art. 10(4)](https://www.legislation.gov.uk/nisi/2016/999/article/10/4) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
+[^c-bb30eb05e81be2ba2a906386b0c91ff0]: Textual amendment: [Art. 10(4)](https://www.legislation.gov.uk/nisi/2016/999/article/10/4) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
 
-[^key-9fffe669c67c5ca8c6ec98afda91ad6e]: Textual amendment: [Art. 10(5)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/10/5/a) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
+[^c-9fffe669c67c5ca8c6ec98afda91ad6e]: Textual amendment: [Art. 10(5)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/10/5/a) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
 
-[^key-308e1dd26ae3e4ed1b0b72dc6555ead5]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisi/2016/999/article/11) in operation at 27.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(a)](https://www.legislation.gov.uk/nisr/2017/166/article/3/a)
+[^c-308e1dd26ae3e4ed1b0b72dc6555ead5]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisi/2016/999/article/11) in operation at 27.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(a)](https://www.legislation.gov.uk/nisr/2017/166/article/3/a)
 
-[^key-584a9e509c2f20ce1eb37fa0a5c879ce]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2016/999/article/12) in operation at 27.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(b)](https://www.legislation.gov.uk/nisr/2017/166/article/3/b)
+[^c-584a9e509c2f20ce1eb37fa0a5c879ce]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2016/999/article/12) in operation at 27.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 3(b)](https://www.legislation.gov.uk/nisr/2017/166/article/3/b)
 
-[^key-e66f60a8c1b8403fd5de2722d21bb15c]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisi/2016/999/article/13) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/166/article/2/a)
+[^c-e66f60a8c1b8403fd5de2722d21bb15c]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisi/2016/999/article/13) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/166/article/2/a)
 
-[^key-569c630a5520600a337c9389892e38ec]: Textual amendment: [Art. 13(7)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/13/7/c) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(1)(a)](https://www.legislation.gov.uk/nia/2022/28/section/1/1/a), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
+[^c-569c630a5520600a337c9389892e38ec]: Textual amendment: [Art. 13(7)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/13/7/c) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(1)(a)](https://www.legislation.gov.uk/nia/2022/28/section/1/1/a), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
 
-[^key-598ba9c39547993d92389496747e5c02]: Textual amendment: [Art. 13(8A)](https://www.legislation.gov.uk/nisi/2016/999/article/13/8A)[(8B)](https://www.legislation.gov.uk/nisi/2016/999/article/13/8B) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(1)(b)](https://www.legislation.gov.uk/nia/2022/28/section/1/1/b), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
+[^c-598ba9c39547993d92389496747e5c02]: Textual amendment: [Art. 13(8A)](https://www.legislation.gov.uk/nisi/2016/999/article/13/8A)[(8B)](https://www.legislation.gov.uk/nisi/2016/999/article/13/8B) inserted (7.6.2022) by [Support for Mortgage Interest etc (Security for Loans) Act (Northern Ireland) 2022 (c. 28)](https://www.legislation.gov.uk/nia/2022/28), [ss. 1(1)(b)](https://www.legislation.gov.uk/nia/2022/28/section/1/1/b), [2(1)](https://www.legislation.gov.uk/nia/2022/28/section/2/1)
 
-[^key-12f3730a53be5dbd2aea7f8392eb4d67]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisi/2016/999/article/14) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/166/article/2/b)
+[^c-12f3730a53be5dbd2aea7f8392eb4d67]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisi/2016/999/article/14) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/166/article/2/b)
 
-[^key-db28751120b188d9e2f3432755620a85]: Commencement: Art. 15(1)(9)(10)(12) in force at 6.4.2018 by [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
+[^c-db28751120b188d9e2f3432755620a85]: Commencement: Art. 15(1)(9)(10)(12) in force at 6.4.2018 by [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
 
-[^key-a6f12adc13f8f3382e4f559e97d9b137]: Commencement: Art. 15(2)-(8) (11) in force at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
+[^c-a6f12adc13f8f3382e4f559e97d9b137]: Commencement: Art. 15(2)-(8) (11) in force at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
 
-[^key-1aaba1b4f1b45f1e07b68654919ec866]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/2016/999/article/16) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/166/article/2/d)
+[^c-1aaba1b4f1b45f1e07b68654919ec866]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisi/2016/999/article/16) in operation at 4.9.2017 by [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/166/article/2/d)

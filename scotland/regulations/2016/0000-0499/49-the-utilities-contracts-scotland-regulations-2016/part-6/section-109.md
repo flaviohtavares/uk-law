@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Interpretation of Part 6[^key-72b0fff7021a89e1a8d73991f02e8415]
+## 109. Interpretation of Part 6[^c-72b0fff7021a89e1a8d73991f02e8415]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ In this Part “the 2012 Regulations” means the Utilities Contracts (Scotland)
 
 ## Annotations
 
-[^key-72b0fff7021a89e1a8d73991f02e8415]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2016/49/regulation/109) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-72b0fff7021a89e1a8d73991f02e8415]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2016/49/regulation/109) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00048]: Footnote: [S.S.I. 2012/89](https://www.legislation.gov.uk/ssi/2012/89).

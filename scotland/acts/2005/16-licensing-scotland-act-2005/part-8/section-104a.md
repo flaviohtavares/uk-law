@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104A. Supply of alcohol to a child[^key-903866318cc2c0e219c8468909c72c6f]
+## 104A. Supply of alcohol to a child[^c-903866318cc2c0e219c8468909c72c6f]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-903866318cc2c0e219c8468909c72c6f]: Textual amendment: Ss. 104A, 104B inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 53(1)](https://www.legislation.gov.uk/asp/2015/10/section/53/1), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-903866318cc2c0e219c8468909c72c6f]: Textual amendment: Ss. 104A, 104B inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 53(1)](https://www.legislation.gov.uk/asp/2015/10/section/53/1), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

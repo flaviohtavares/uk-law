@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Exceptions to and modifications of the Trade Marks Act 1994 in its application to the Isle of Man[^key-40f9005788724b366e03d06625befb7e]
+## 2. Exceptions to and modifications of the Trade Marks Act 1994 in its application to the Isle of Man[^c-40f9005788724b366e03d06625befb7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Trade Marks Act 1994 shall, in its application to the Isle of Man, have effe
 
 ## Annotations
 
-[^key-40f9005788724b366e03d06625befb7e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2601/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-40f9005788724b366e03d06625befb7e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2601/article/2) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)

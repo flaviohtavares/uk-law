@@ -42,13 +42,13 @@ Coming into operation in accordance with Article 1
 
 The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred by Articles 77(4), 106(3) and 108(16) of The Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-810f5ea35df5d58268cb21e824c0c739]
+## 1. Citation, commencement and interpretation[^c-810f5ea35df5d58268cb21e824c0c739]
 
 This Order may be cited as The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-**2.**[^key-0d4b83dbaf7ecb95da0adc55d77ceb97][^key-810f5ea35df5d58268cb21e824c0c739] In this Order “**the 1985 Order**” means The Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00004].
+**2.**[^c-0d4b83dbaf7ecb95da0adc55d77ceb97][^c-810f5ea35df5d58268cb21e824c0c739] In this Order “**the 1985 Order**” means The Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00004].
 
-## 3. Conditions governing gaming for prizes on bingo club premises[^key-9ff8abee8ff5c8251b7c5b98e358495d]
+## 3. Conditions governing gaming for prizes on bingo club premises[^c-9ff8abee8ff5c8251b7c5b98e358495d]
 
 In Article 77(1) (gaming for prizes on bingo club premises) of the 1985 Order–
 
@@ -57,11 +57,11 @@ In Article 77(1) (gaming for prizes on bingo club premises) of the 1985 Order–
 - (c) in sub-paragraph (c) for “£25” [^f00007] substitute “£100”; and
 - (d) in sub-paragraph (e) for “£120” [^f00008] substitute “£500”.
 
-## 4. Maximum charge for playing a game once by means of a gaming machine in a registered club[^key-d0e2737e1f4bd3ea4109fe26eb3b7b60]
+## 4. Maximum charge for playing a game once by means of a gaming machine in a registered club[^c-d0e2737e1f4bd3ea4109fe26eb3b7b60]
 
 In Article 106(3) (use of gaming machines in registered clubs) of the 1985 Order for “£0.50” [^f00009] substitute “£2.00”.
 
-## 5. Use of gaming machines on other premises[^key-d498d8955fed70f0e33d0947cc11740c]
+## 5. Use of gaming machines on other premises[^c-d498d8955fed70f0e33d0947cc11740c]
 
 In Article 108 (use of gaming machines on other premises) of the 1985 Order–
 
@@ -74,7 +74,7 @@ In Article 108 (use of gaming machines on other premises) of the 1985 Order–
 - (g) in paragraph (8)(c) for “£25” [^f00016] substitute “£500”; and
 - (h) in paragraph (8)(d) for “£25” [^f00017] substitute “£500”.
 
-## 6. Revocations[^key-e7ac78549d4ca9f5bcc9f2ad82daa17c]
+## 6. Revocations[^c-e7ac78549d4ca9f5bcc9f2ad82daa17c]
 
 The following are revoked:–
 
@@ -121,13 +121,13 @@ An Equality Impact Assessment has been prepared and can be viewed at www.communi
 
 [^f00003]: Footnote: See [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 8(b) of and Part 2 of Schedule 6 to the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 transferred functions to the Department for Social Development which were previously exercisable by the Department of Health and Social Services; *see* the Departments Act (Northern Ireland) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5). Under section 1 the Department for Social Development was renamed the Department for Communities.
 
-[^key-810f5ea35df5d58268cb21e824c0c739]: Commencement: Art. 1 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-810f5ea35df5d58268cb21e824c0c739]: Commencement: Art. 1 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
-[^key-0d4b83dbaf7ecb95da0adc55d77ceb97]: Commencement: Art. 2 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-0d4b83dbaf7ecb95da0adc55d77ceb97]: Commencement: Art. 2 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
 [^f00004]: Footnote: The Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 has been amended by the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022
 
-[^key-9ff8abee8ff5c8251b7c5b98e358495d]: Commencement: Art. 3 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-9ff8abee8ff5c8251b7c5b98e358495d]: Commencement: Art. 3 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
 [^f00005]: Footnote: Substituted by [S.R. 2001 No. 414](https://www.legislation.gov.uk/nisr/2001/414) Article 4(a)
 
@@ -137,11 +137,11 @@ An Equality Impact Assessment has been prepared and can be viewed at www.communi
 
 [^f00008]: Footnote: Substituted by [S.R. 2001 No. 414](https://www.legislation.gov.uk/nisr/2001/414) Article 4(b)
 
-[^key-d0e2737e1f4bd3ea4109fe26eb3b7b60]: Commencement: Art. 4 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-d0e2737e1f4bd3ea4109fe26eb3b7b60]: Commencement: Art. 4 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
 [^f00009]: Footnote: [S.R. 1999 No. 4](https://www.legislation.gov.uk/nisr/1999/4)
 
-[^key-d498d8955fed70f0e33d0947cc11740c]: Commencement: Art. 5 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-d498d8955fed70f0e33d0947cc11740c]: Commencement: Art. 5 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
 [^f00010]: Footnote: Substituted by [S.R. 2004 No. 310 (N.I.1)](https://www.legislation.gov.uk/nisi/2004/310) Article 10(1)(b)
 
@@ -159,7 +159,7 @@ An Equality Impact Assessment has been prepared and can be viewed at www.communi
 
 [^f00017]: Footnote: Substituted by [S.R. 2003 No. 15](https://www.legislation.gov.uk/nisr/2003/15) Article 3
 
-[^key-e7ac78549d4ca9f5bcc9f2ad82daa17c]: Commencement: Art. 6 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
+[^c-e7ac78549d4ca9f5bcc9f2ad82daa17c]: Commencement: Art. 6 in operation at 29.1.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1)
 
 [^f00018]: Footnote: [S.R. 1998 No. 56](https://www.legislation.gov.uk/nisr/1998/56)
 

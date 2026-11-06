@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (Wales) Regulations 2020 (revoked)[^key-19c1a0699d9c1a6492390556e41c47db]
+The Health Protection (Coronavirus, International Travel and Restrictions) (Amendment) (Wales) Regulations 2020 (revoked)[^c-19c1a0699d9c1a6492390556e41c47db]
 
 Approved by Senedd Cymru
 
@@ -47,38 +47,38 @@ Coming into force
 
 at 4.00 a.m. on 7 November 2020
 
-[^key-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-19c1a0699d9c1a6492390556e41c47db]
+## PART 1 — General[^c-19c1a0699d9c1a6492390556e41c47db]
 
-### 1. Title, coming into force and interpretation[^key-19c1a0699d9c1a6492390556e41c47db]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment to Part 3 of the International Travel Regulations[^key-19c1a0699d9c1a6492390556e41c47db]
-
-### 2. Insertion of new provisions relating to Denmark[^key-19c1a0699d9c1a6492390556e41c47db]
+### 1. Title, coming into force and interpretation[^c-19c1a0699d9c1a6492390556e41c47db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of the No. 3 and No. 4 Regulations[^key-19c1a0699d9c1a6492390556e41c47db]
+## PART 2 — Amendment to Part 3 of the International Travel Regulations[^c-19c1a0699d9c1a6492390556e41c47db]
 
-### 3. Amendment of the No. 3 Regulations relating to persons who have recently been in Denmark[^key-19c1a0699d9c1a6492390556e41c47db]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Amendment of the No. 4 Regulations relating to persons who have recently been in Denmark[^key-19c1a0699d9c1a6492390556e41c47db]
+### 2. Insertion of new provisions relating to Denmark[^c-19c1a0699d9c1a6492390556e41c47db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendment of the No. 3 and No. 4 Regulations[^c-19c1a0699d9c1a6492390556e41c47db]
+
+### 3. Amendment of the No. 3 Regulations relating to persons who have recently been in Denmark[^c-19c1a0699d9c1a6492390556e41c47db]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amendment of the No. 4 Regulations relating to persons who have recently been in Denmark[^c-19c1a0699d9c1a6492390556e41c47db]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c1a0699d9c1a6492390556e41c47db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19c1a0699d9c1a6492390556e41c47db]: Textual amendment: Regulations revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1), [4(a)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/a)
+[^c-19c1a0699d9c1a6492390556e41c47db]: Textual amendment: Regulations revoked (20.1.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) Regulations 2021 (S.I. 2021/57)](https://www.legislation.gov.uk/wsi/2021/57), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/57/regulation/1), [4(a)](https://www.legislation.gov.uk/wsi/2021/57/regulation/4/a)

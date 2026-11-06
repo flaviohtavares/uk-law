@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Abolition of the GTCE: transitional provision[^key-9b1927c84fd87ce6b5a1d784a5a29789]
+## 10. Abolition of the GTCE: transitional provision[^c-9b1927c84fd87ce6b5a1d784a5a29789]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b1927c84fd87ce6b5a1d784a5a29789]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/21/section/10) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-9b1927c84fd87ce6b5a1d784a5a29789]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/21/section/10) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

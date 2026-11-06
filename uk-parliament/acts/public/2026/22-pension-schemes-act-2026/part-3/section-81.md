@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Events to be notified to the Regulator[^key-ecf010da86feff49761ef92b215092ec]
+## 81. Events to be notified to the Regulator[^c-ecf010da86feff49761ef92b215092ec]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecf010da86feff49761ef92b215092ec]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-ecf010da86feff49761ef92b215092ec]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

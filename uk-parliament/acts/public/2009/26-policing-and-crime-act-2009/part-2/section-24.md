@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Foreign travel orders: duration[^key-f67ee9c3004afb3d5dd360d9b9616d56]
+## 24. Foreign travel orders: duration[^c-f67ee9c3004afb3d5dd360d9b9616d56]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f67ee9c3004afb3d5dd360d9b9616d56]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/26/section/24) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(k)](https://www.legislation.gov.uk/uksi/2010/507/article/5/k)
+[^c-f67ee9c3004afb3d5dd360d9b9616d56]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2009/26/section/24) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(k)](https://www.legislation.gov.uk/uksi/2010/507/article/5/k)

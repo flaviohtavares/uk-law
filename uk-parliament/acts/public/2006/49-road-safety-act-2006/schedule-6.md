@@ -24,7 +24,7 @@ Section 42
 
 ### Road Traffic Act 1988 (c. 52)
 
-**1.**[^key-85d11eabac968ff04f9e387f0c974d31] The Road Traffic Act 1988 is amended as follows.
+**1.**[^c-85d11eabac968ff04f9e387f0c974d31] The Road Traffic Act 1988 is amended as follows.
 
 **Not yet in force.**
 
@@ -151,11 +151,11 @@ Section 42
 
 **Not yet in force.**
 
-**6.**[^key-dc1f20928fd0c6d7b328b60d1d07bb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-dc1f20928fd0c6d7b328b60d1d07bb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**7.**[^key-e9eb779bb7d7429d20ae686aa719e1b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e9eb779bb7d7429d20ae686aa719e1b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -261,7 +261,7 @@ Section 42
 
 **13.** (1) Section 131 (appeals) is amended as follows.
 
-(1A)[^key-b49ed8d9ef1b20e97f23eb73ec203731] Before subsection (1), insert—
+(1A)[^c-b49ed8d9ef1b20e97f23eb73ec203731] Before subsection (1), insert—
 
 > (A1) A relevant person who is aggrieved by a failure of the Registrar to notify the person of a decision in relation to the person’s application for registration before the end of the period of four months beginning with the day after the day on which the complete application was submitted, may appeal to the First-tier Tribunal.
 >
@@ -279,7 +279,7 @@ Section 42
 
 (3) Omit subsection (2).
 
-(3A)[^key-b1f6d45ea253d6176f871665cd1f5ee1] In subsection (3), for “the appeal” substitute “an appeal under subsection (1).”
+(3A)[^c-b1f6d45ea253d6176f871665cd1f5ee1] In subsection (3), for “the appeal” substitute “an appeal under subsection (1).”
 
 (4) In subsection (3), for paragraph (b) and the word “or” before it substitute—
 
@@ -513,13 +513,13 @@ Section 42
 
 > (1) Regulations may make provision for the payment of such fees (if any) as may be prescribed in connection with registration or extension of registration.
 >
-> (1A)[^key-ada19f44d163b03b221b076fe90fd8d0] The power to make regulations under subsection (1) is, in the case of fees payable by persons entitled to give paid instruction in the driving of a motor car by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, subject to regulation 13 of those Regulations.
+> (1A)[^c-ada19f44d163b03b221b076fe90fd8d0] The power to make regulations under subsection (1) is, in the case of fees payable by persons entitled to give paid instruction in the driving of a motor car by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023, subject to regulation 13 of those Regulations.
 >
 > (2) Regulations may make provision for the repayment (in whole or in part) of any fee payable by virtue of any provision of this Part of this Act in such circumstances as may be prescribed.
 
 (3) For the heading substitute “ Fees ”.
 
-**24.**[^key-46711ca1b65a635971f43214cbd523eb] (1) Section 141 (regulations) is to be renumbered as subsection (1) of that section.
+**24.**[^c-46711ca1b65a635971f43214cbd523eb] (1) Section 141 (regulations) is to be renumbered as subsection (1) of that section.
 
 (2) In that subsection, after “by regulations” insert “ and for prescribing anything which may be prescribed under this Part of this Act ”.
 
@@ -655,16 +655,16 @@ Section 42
 
 ## Annotations
 
-[^key-85d11eabac968ff04f9e387f0c974d31]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/1) in force at 21.5.2012 for specified purposes by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/b)
+[^c-85d11eabac968ff04f9e387f0c974d31]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/1) in force at 21.5.2012 for specified purposes by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/b)
 
-[^key-dc1f20928fd0c6d7b328b60d1d07bb1b]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/6) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-dc1f20928fd0c6d7b328b60d1d07bb1b]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/6) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
-[^key-e9eb779bb7d7429d20ae686aa719e1b3]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/7) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-e9eb779bb7d7429d20ae686aa719e1b3]: Textual amendment: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/7) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
-[^key-b49ed8d9ef1b20e97f23eb73ec203731]: Textual amendment: [Sch. 6 para. 13(1A)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/13/1A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/a/i)
+[^c-b49ed8d9ef1b20e97f23eb73ec203731]: Textual amendment: [Sch. 6 para. 13(1A)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/13/1A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/a/i)
 
-[^key-b1f6d45ea253d6176f871665cd1f5ee1]: Textual amendment: [Sch. 6 para. 13(3A)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/13/3A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/a/ii)
+[^c-b1f6d45ea253d6176f871665cd1f5ee1]: Textual amendment: [Sch. 6 para. 13(3A)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/13/3A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/a/ii)
 
-[^key-ada19f44d163b03b221b076fe90fd8d0]: Textual amendment: Words in [Sch. 6 para. 23(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/23/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/b)
+[^c-ada19f44d163b03b221b076fe90fd8d0]: Textual amendment: Words in [Sch. 6 para. 23(2)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/23/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 92(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/92/2/b)
 
-[^key-46711ca1b65a635971f43214cbd523eb]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/24) in force at 21.5.2012 by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/c)
+[^c-46711ca1b65a635971f43214cbd523eb]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6/paragraph/24) in force at 21.5.2012 by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/c)

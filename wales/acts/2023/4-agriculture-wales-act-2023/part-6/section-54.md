@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Other interpretation[^key-7e975a4b2494c70956302b1ef1096f2c]
+## 54. Other interpretation[^c-7e975a4b2494c70956302b1ef1096f2c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ In this Act—
 
 ## Annotations
 
-[^key-7e975a4b2494c70956302b1ef1096f2c]: Commencement: S. 54 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-7e975a4b2494c70956302b1ef1096f2c]: Commencement: S. 54 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

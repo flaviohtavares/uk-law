@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Welfare of the child: parental involvement[^key-51514e48d9f06884f427a4efc92d6be3][^key-70002cb2aab35bc3372ba1fc202607bb]
+## 11. Welfare of the child: parental involvement[^c-51514e48d9f06884f427a4efc92d6be3][^c-70002cb2aab35bc3372ba1fc202607bb]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51514e48d9f06884f427a4efc92d6be3]: Modification: S. 11 applied (N.I.) (10.7.2014) by [The Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014 (S.R. 2014/163)](https://www.legislation.gov.uk/nisr/2014/163), [regs. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2014/163/regulation/7/1)
+[^c-51514e48d9f06884f427a4efc92d6be3]: Modification: S. 11 applied (N.I.) (10.7.2014) by [The Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014 (S.R. 2014/163)](https://www.legislation.gov.uk/nisr/2014/163), [regs. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2014/163/regulation/7/1)
 
-[^key-70002cb2aab35bc3372ba1fc202607bb]: Commencement: S. 11 in force at 22.10.2014 by [S.I. 2014/2749](https://www.legislation.gov.uk/uksi/2014/2749), [art. 3](https://www.legislation.gov.uk/uksi/2014/2749/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2749/article/4))
+[^c-70002cb2aab35bc3372ba1fc202607bb]: Commencement: S. 11 in force at 22.10.2014 by [S.I. 2014/2749](https://www.legislation.gov.uk/uksi/2014/2749), [art. 3](https://www.legislation.gov.uk/uksi/2014/2749/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2749/article/4))

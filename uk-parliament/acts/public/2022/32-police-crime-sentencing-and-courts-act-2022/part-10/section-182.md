@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Orders superseding, or superseded by, Scottish orders[^key-9b69f30434f169a91e4b2d15ee222d99][^key-c2e89b08a09a84ec96cd06a39c97708a]
+## 182. Orders superseding, or superseded by, Scottish orders[^c-9b69f30434f169a91e4b2d15ee222d99][^c-c2e89b08a09a84ec96cd06a39c97708a]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b69f30434f169a91e4b2d15ee222d99]: Commencement: S. 182 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-9b69f30434f169a91e4b2d15ee222d99]: Commencement: S. 182 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-c2e89b08a09a84ec96cd06a39c97708a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2022/32/section/182) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/387/regulation/4))
+[^c-c2e89b08a09a84ec96cd06a39c97708a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2022/32/section/182) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/387/regulation/4))

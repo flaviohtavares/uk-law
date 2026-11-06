@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9C. Compliance notice under section 9A: power to demand expenses[^key-b0c188e6466cfa9e69646e4c45806079]
+## 9C. Compliance notice under section 9A: power to demand expenses[^c-b0c188e6466cfa9e69646e4c45806079]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c188e6466cfa9e69646e4c45806079]: Textual amendment: Ss. 9A-9C inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/4/2), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)
+[^c-b0c188e6466cfa9e69646e4c45806079]: Textual amendment: Ss. 9A-9C inserted (E.W.) (1.4.2014) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/4/2), [15(1)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Fitness of animals to travel[^key-2fc98b716601a36203de3a86048bc236]
+## 6. Fitness of animals to travel[^c-2fc98b716601a36203de3a86048bc236]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fc98b716601a36203de3a86048bc236]: Commencement: Art. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-2fc98b716601a36203de3a86048bc236]: Commencement: Art. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00007]: Footnote: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14)

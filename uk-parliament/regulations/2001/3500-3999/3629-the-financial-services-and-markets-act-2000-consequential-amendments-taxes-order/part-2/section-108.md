@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Transfer of insurance company business[^key-9f8c666b186d9a3bfe998a41d354b13d]
+## 108. Transfer of insurance company business[^c-9f8c666b186d9a3bfe998a41d354b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f8c666b186d9a3bfe998a41d354b13d]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-9f8c666b186d9a3bfe998a41d354b13d]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

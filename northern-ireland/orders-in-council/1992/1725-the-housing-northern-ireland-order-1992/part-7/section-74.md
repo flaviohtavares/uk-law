@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to the following provisions of this Article, repairs grants shall be payable by the Executive towards the costs of works specified—
 
 - (a)[^c20137851] in a notice of disrepair served in respect of a dwelling-house which is let under a protected tenancy or a statutory tenancy; or
-- (b)[^key-be8e43b3b7abcddd1315067c3238b7bb] in a notice served in respect of a dwelling-house under Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011.
+- (b)[^c-be8e43b3b7abcddd1315067c3238b7bb] in a notice served in respect of a dwelling-house under Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011.
 
 (1A)[^c20137931] In paragraph (1)–
 
@@ -48,7 +48,7 @@ summary: ''
 
 [^c20137851]: Textual amendment: Art. 74(1)(a) substituted (1.4.2007) by [Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006/1459 (N.I. 10))](https://www.legislation.gov.uk/nisi/2006/1459), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/1/3), [29(2)](https://www.legislation.gov.uk/nisi/2006/1459/article/29/2) (with (6)); [S.R. 2006/428](https://www.legislation.gov.uk/nisr/2006/428), [art. 3(a)](https://www.legislation.gov.uk/nisr/2006/428/article/3/a)
 
-[^key-be8e43b3b7abcddd1315067c3238b7bb]: Textual amendment: [Art. 74(1)(b)](https://www.legislation.gov.uk/nisi/1992/1725/article/74/1/b) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-be8e43b3b7abcddd1315067c3238b7bb]: Textual amendment: [Art. 74(1)(b)](https://www.legislation.gov.uk/nisi/1992/1725/article/74/1/b) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/12/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c20137931]: Textual amendment: Art. 74(1A) inserted (1.4.2007) by [Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006/1459 (N.I. 10))](https://www.legislation.gov.uk/nisi/2006/1459), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/1/3), [29(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/29/3) (with (6)); [S.R. 2006/428](https://www.legislation.gov.uk/nisr/2006/428), [art. 3(a)](https://www.legislation.gov.uk/nisr/2006/428/article/3/a)
 

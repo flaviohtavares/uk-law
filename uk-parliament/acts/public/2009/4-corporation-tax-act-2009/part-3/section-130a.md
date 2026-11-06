@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Insurers in financial difficulties: write-down orders[^key-94feb353417f2591bd91d21bc173db0d]
+## 130A. Insurers in financial difficulties: write-down orders[^c-94feb353417f2591bd91d21bc173db0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94feb353417f2591bd91d21bc173db0d]: Textual amendment: [S. 130A](https://www.legislation.gov.uk/ukpga/2009/4/section/130A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/32/1)
+[^c-94feb353417f2591bd91d21bc173db0d]: Textual amendment: [S. 130A](https://www.legislation.gov.uk/ukpga/2009/4/section/130A) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/32/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26.2. Appointment of Registrar of Commission of Review etc.[^key-7c3446ba730af8f6c88d3c296fa979cb]
+## 26.2. Appointment of Registrar of Commission of Review etc.[^c-7c3446ba730af8f6c88d3c296fa979cb]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c3446ba730af8f6c88d3c296fa979cb]: Commencement: [Rule 26.2](https://www.legislation.gov.uk/uksi/2015/1568/article/26.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-7c3446ba730af8f6c88d3c296fa979cb]: Commencement: [Rule 26.2](https://www.legislation.gov.uk/uksi/2015/1568/article/26.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Fire hydrants[^key-79d4f995ba020694f820142be97aa5b6]
+## 84. Fire hydrants[^c-79d4f995ba020694f820142be97aa5b6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d4f995ba020694f820142be97aa5b6]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2003/37/section/84) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/641/article/3/v) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-79d4f995ba020694f820142be97aa5b6]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2003/37/section/84) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/641/article/3/v) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

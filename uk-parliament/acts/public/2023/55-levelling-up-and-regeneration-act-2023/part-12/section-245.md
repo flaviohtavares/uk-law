@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Protected landscapes[^key-f8963e40f29ec64a53686ac65ff62feb]
+## 245. Protected landscapes[^c-f8963e40f29ec64a53686ac65ff62feb]
 
 *Extent: E+W*
 
@@ -195,4 +195,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8963e40f29ec64a53686ac65ff62feb]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2023/55/section/245) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-f8963e40f29ec64a53686ac65ff62feb]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2023/55/section/245) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

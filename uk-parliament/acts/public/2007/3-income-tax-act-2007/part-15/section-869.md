@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 869. Sale and repurchase of securities[^key-484aa1c8c56edb1cb044b1589eca5884]
+## 869. Sale and repurchase of securities[^c-484aa1c8c56edb1cb044b1589eca5884]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-484aa1c8c56edb1cb044b1589eca5884]: Textual amendment: S. 869 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)
+[^c-484aa1c8c56edb1cb044b1589eca5884]: Textual amendment: S. 869 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/15)

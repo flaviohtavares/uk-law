@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Application of Act in relation to territorial waters.[^key-e3c6bdbfd6f218ac634fef158d13fb35]
+## 168. Application of Act in relation to territorial waters.[^c-e3c6bdbfd6f218ac634fef158d13fb35]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-e3c6bdbfd6f218ac634fef158d13fb35]: Modification: S. 168 applied (2.12.2002 for certain purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [ss. 17(3)(a)](https://www.legislation.gov.uk/nia/2002/14/section/17/3/a), [21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2); [S.R. 2002/366](https://www.legislation.gov.uk/nisr/2002/366), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2002/366/article/2/1/o); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)
+[^c-e3c6bdbfd6f218ac634fef158d13fb35]: Modification: S. 168 applied (2.12.2002 for certain purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [ss. 17(3)(a)](https://www.legislation.gov.uk/nia/2002/14/section/17/3/a), [21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2); [S.R. 2002/366](https://www.legislation.gov.uk/nisr/2002/366), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2002/366/article/2/1/o); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)

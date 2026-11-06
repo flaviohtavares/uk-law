@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Mutual recognition of judgments and probation decisions[^key-c9d2bd3e81dcff0902e55df4d4cadd6a]
+## 27. Mutual recognition of judgments and probation decisions[^c-c9d2bd3e81dcff0902e55df4d4cadd6a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d2bd3e81dcff0902e55df4d4cadd6a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/13/section/27) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-c9d2bd3e81dcff0902e55df4d4cadd6a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2010/13/section/27) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

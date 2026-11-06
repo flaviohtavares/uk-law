@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Duty of licence holder to allow site licence to be altered[^key-17a0f0de6ffdd36bb4f82a7cd9df688d]
+## 27. Duty of licence holder to allow site licence to be altered[^c-17a0f0de6ffdd36bb4f82a7cd9df688d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a0f0de6ffdd36bb4f82a7cd9df688d]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2013/6/section/27) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-17a0f0de6ffdd36bb4f82a7cd9df688d]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2013/6/section/27) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

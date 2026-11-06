@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1152. Investment managers: disregard of certain chargeable profits[^key-4c3dc2cc86aeb520c909979ace7daa26]
+## 1152. Investment managers: disregard of certain chargeable profits[^c-4c3dc2cc86aeb520c909979ace7daa26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c3dc2cc86aeb520c909979ace7daa26]: Textual amendment: [S. 1152](https://www.legislation.gov.uk/ukpga/2010/4/section/1152) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/18/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-4c3dc2cc86aeb520c909979ace7daa26]: Textual amendment: [S. 1152](https://www.legislation.gov.uk/ukpga/2010/4/section/1152) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/18/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

@@ -42,13 +42,13 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## Part I — General
 
-### 1. Citation, commencement, revocation and saving[^key-40fc2b4025752c9e66976f2d018c3cf5]
+### 1. Citation, commencement, revocation and saving[^c-40fc2b4025752c9e66976f2d018c3cf5]
 
 (1) These Regulations may be cited as the Measuring Equipment (Capacity Measures) Regulations (Northern Ireland) 1998 and shall come into operation on 1st April 1998.
 
 (2) The Regulations specified in the first column of Schedule 1 are hereby revoked to the extent specified in the third column of that Schedule save in relation to capacity measures passed as fit for use for trade and stamped before these Regulations come into operation.
 
-### 2. Interpretation[^key-825e17d877b7a740feeace217b19ee25]
+### 2. Interpretation[^c-825e17d877b7a740feeace217b19ee25]
 
 (1) In these Regulations—
 
@@ -89,12 +89,12 @@ TABLE
 </tbody>
 </table>
 
-### 3. Application of Regulations[^key-3256e98cd714cb1b2d05d994d11d48b0]
+### 3. Application of Regulations[^c-3256e98cd714cb1b2d05d994d11d48b0]
 
 (1) These Regulations apply to liquid capacity measures and dry capacity measures for use for trade, other than—
 
 - (a) liquid capacity measures to which the Capacity Serving Measures (Intoxicating Liquor) Regulations (Northern Ireland) 1993[^f00011] apply;
-- (b)[^key-b055ec97c4d5f18ab7868f620167fb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b055ec97c4d5f18ab7868f620167fb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) liquid capacity measures for use for measuring liquid lubricants;
 - (d) liquid capacity measures for use for measuring milk;
 - (e) dry capacity measures for use for measuring peas and beans;
@@ -116,7 +116,7 @@ TABLE
 
 ## Part II — Materials, Principles of Construction and Use
 
-### 4. Categories of capacity measures[^key-26f62869fbebf6b8009a9ff430d924a5]
+### 4. Categories of capacity measures[^c-26f62869fbebf6b8009a9ff430d924a5]
 
 For the purposes of these Regulations any capacity measure is either—
 
@@ -125,7 +125,7 @@ For the purposes of these Regulations any capacity measure is either—
   - (ii) are marked on the outside surface of a measure which is made of transparent or translucent material and on the inside surface of a measure which is made of opaque material; or
 - (b) a brim measure having a brim in a horizontal plane when the measure is on a flat, horizontal surface.
 
-### 5. Materials and principles of construction of capacity measures[^key-80c2cead10eba702bf2aad0a4d6dbf86]
+### 5. Materials and principles of construction of capacity measures[^c-80c2cead10eba702bf2aad0a4d6dbf86]
 
 Capacity measures shall be made of any of the following materials—
 
@@ -137,7 +137,7 @@ Capacity measures shall be made of any of the following materials—
 - (f) silver or silver alloy; or
 - (g) any other material which is rigid, stable and sufficiently durable for normal use for trade.
 
-### 6. Construction of capacity measures[^key-4b4ae1e6821b9ab293106643845a8879]
+### 6. Construction of capacity measures[^c-4b4ae1e6821b9ab293106643845a8879]
 
 (1) Every capacity measure shall be so constructed that—
 
@@ -169,7 +169,7 @@ being requirements which, in any case, afford in use at least equivalent standar
 - (a) to any person who is a user or potential user of the capacity measures in question; and
 - (b) to an inspector for the purposes of the performance by him of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a capacity measure.
 
-### 7. Purpose and manner of use of capacity measures[^key-ce8488e0c050a0336469a601ebd10796]
+### 7. Purpose and manner of use of capacity measures[^c-ce8488e0c050a0336469a601ebd10796]
 
 A person shall not use a capacity measure—
 
@@ -179,11 +179,11 @@ A person shall not use a capacity measure—
 
 ## Part III — Testing
 
-### 8. Capacity measures for testing to be clean[^key-2dcc0189b57a1ab3d73d7e85824f7998]
+### 8. Capacity measures for testing to be clean[^c-2dcc0189b57a1ab3d73d7e85824f7998]
 
 Every capacity measure submitted for testing shall be in a clean condition.
 
-### 9. Method of testing of capacity measures[^key-8c018682161fb50df92c01ea3684996f]
+### 9. Method of testing of capacity measures[^c-8c018682161fb50df92c01ea3684996f]
 
 Subject to regulation 12, the inspector shall test every capacity measure—
 
@@ -195,7 +195,7 @@ Subject to regulation 12, the inspector shall test every capacity measure—
   - (i) volumetrically, by comparison with one or more Northern Ireland local standards or Northern Ireland working standards, or by means of appropriate testing equipment; or
   - (ii) gravimetrically, by determining the weight of water of known density using a suitable weighing machine.
 
-### 10. Testing of nominal capacity and scale marks of capacity measures[^key-11f25ad8c0b4b312e505c830a073e066]
+### 10. Testing of nominal capacity and scale marks of capacity measures[^c-11f25ad8c0b4b312e505c830a073e066]
 
 (1) The inspector shall test the nominal capacity and all the scale marks or, in the case of a graduated measure, such of them as he considers necessary.
 
@@ -204,7 +204,7 @@ Subject to regulation 12, the inspector shall test every capacity measure—
 - (a) in the case of a line measure, the bottom part of the meniscus coincides with the top of the line; or
 - (b) in the case of a brim measure, the surface of the liquid is in the same plane as the brim.
 
-### 11. Testing of dispensing measures for pharmaceutical purposes[^key-6bf599824ded86c905ec9bb09b4b6af0]
+### 11. Testing of dispensing measures for pharmaceutical purposes[^c-6bf599824ded86c905ec9bb09b4b6af0]
 
 (1) The inspector shall test every dispensing measure for pharmaceutical purposes either—
 
@@ -214,7 +214,7 @@ Subject to regulation 12, the inspector shall test every capacity measure—
 
 (2) In this regulation “peristaltic pump dispenser” means a device, operating on the peristaltic principle, designed to deliver a known quantity of water for the testing of dispensing measures for pharmaceutical purposes.
 
-### 12. Testing of groups of capacity measures[^key-40363f243b5be4748f60ae003f277109]
+### 12. Testing of groups of capacity measures[^c-40363f243b5be4748f60ae003f277109]
 
 (1) Where—
 
@@ -242,7 +242,7 @@ the inspector may, at the request of the person submitting them (“the submitte
 
 (7) If the sample selected as specified in paragraph (3) satisfies the test specified in paragraph (4) or both the tests specified in paragraph (5), the other measures in the group shall be treated as having satisfied the test or tests as the case may be.
 
-### 13. Capacity measures imported from another member State or EEA State[^key-e05d243dc68b493660e06d39885b5b0f]
+### 13. Capacity measures imported from another member State or EEA State[^c-e05d243dc68b493660e06d39885b5b0f]
 
 (1) In relation to capacity measures imported into Northern Ireland from another member State or from an EEA State, subject to paragraph (4), an inspector shall not carry out any test in accordance with the provisions of regulations 8 to 12 if, together with the capacity measures being so imported, he is presented with the requisite documentation.
 
@@ -251,20 +251,20 @@ the inspector may, at the request of the person submitting them (“the submitte
 - (a) the test report of an approved body that the capacity measures which are the subject of that report have been tested on the same basis as those set out in regulations 8 to 12 and stating which tests have been applied to them; and
 - (b) the test results relating to those tests.
 
-(3)[^key-c07f8e0fc143ece500630295ef06b320] A body is an “approved body” for the purposes of this re gulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of capacity measures or is a laboratory which has been accredited for the purposes of testing capacity measures in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-c07f8e0fc143ece500630295ef06b320] A body is an “approved body” for the purposes of this re gulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of capacity measures or is a laboratory which has been accredited for the purposes of testing capacity measures in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with regulations 8 to 12 where he is not satisfied—
 
 - (a) as to the authenticity of the test report or the results presented to him; or
 - (b) that the test results presented to him are results which in fact relate to the capacity measures being imported.
 
-### 14. Provision of material for inspector’s use[^key-d454d5f89fc82ff65f271a662272c1f6]
+### 14. Provision of material for inspector’s use[^c-d454d5f89fc82ff65f271a662272c1f6]
 
 For the purposes of the performance by an inspector of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any capacity measure, a person submitting such a measure to an inspector or who an inspector has reasonable cause to believe has possession of such a measure for use for trade shall, if requested, make available for the inspector’s use such material as the inspector may reasonably require, and any material so made available shall be returned to the person in question.
 
 ## Part IV — Supplementary Provisions
 
-### 15. Prescribed limits of error[^key-22d1917ab286e455a1c66b5b6632d8ca]
+### 15. Prescribed limits of error[^c-22d1917ab286e455a1c66b5b6632d8ca]
 
 The prescribed limits of error—
 
@@ -273,7 +273,7 @@ The prescribed limits of error—
   - (i) in the case of line measures, be the amounts set out in column 3 of Schedule 2 in excess and in deficiency; and
   - (ii) in the case of brim measures, be the amounts set out in column 4 of that Schedule in excess only.
 
-### 16. Passing as fit for use for trade and stamping[^key-dbdd88d0da62222f4c861d2a05198f57]
+### 16. Passing as fit for use for trade and stamping[^c-dbdd88d0da62222f4c861d2a05198f57]
 
 (1) Save in a case of capacity measures imported into Northern Ireland from another member State or from an EEA State, a capacity measure shall not be passed as fit for use in trade unless—
 
@@ -315,9 +315,9 @@ The prescribed limits of error—
 (7) For the purposes of paragraph (5)(*a*), the capacity of a measure—
 
 - (a) shall be marked in full in pints, litres, centilitres or millilitres, or by the appropriate abbreviation or symbol in accordance with regulation 2(3); and
-- (b) may be accompanied by a supplementary indication [^key-c1be1851bbea438ebe542688069713a0]... of quantity expressed in full in gallons, quarts, pints, gills, fluid ounces or by the appropriate abbreviation or symbol in accordance with regulation 2(3).
+- (b) may be accompanied by a supplementary indication [^c-c1be1851bbea438ebe542688069713a0]... of quantity expressed in full in gallons, quarts, pints, gills, fluid ounces or by the appropriate abbreviation or symbol in accordance with regulation 2(3).
 
-### 17. Marking of scale marks on graduated or subdivided measures[^key-250a8866146177538aaf4e62708eeaeb]
+### 17. Marking of scale marks on graduated or subdivided measures[^c-250a8866146177538aaf4e62708eeaeb]
 
 (1) The scale marks of a graduated or subdivided measure shall be marked with their purported values—
 
@@ -330,7 +330,7 @@ The prescribed limits of error—
 - “scale mark” does not include the mark of the nominal capacity; and
 - “metric measure”, “imperial measure” and “metric and imperial measure” mean, respectively, a measure the nominal capacity of which is given in metric units only, in imperial units only or in both metric and imperial units.
 
-### 18. Obliteration of stamps[^key-f62f339147e156ff4c27f3c3814f0350]
+### 18. Obliteration of stamps[^c-f62f339147e156ff4c27f3c3814f0350]
 
 (1) Subject to paragraphs (2) to (4), an inspector shall obliterate the stamp on any capacity measure which—
 
@@ -351,7 +351,7 @@ Assistant Secretary
 
 24th February 1998.
 
-## SCHEDULE 1 — Revocations[^key-3be69a227e1d1a44d96d113ec2f9188c]
+## SCHEDULE 1 — Revocations[^c-3be69a227e1d1a44d96d113ec2f9188c]
 
 regulation 1(2)
 
@@ -369,7 +369,7 @@ regulation 1(2)
 </tbody>
 </table>
 
-## SCHEDULE 2 — Prescribed limits of error for capacity measures other than dispensing measures for pharmaceutical purposes[^key-d025b8df89a25983e839bd8d70e15613]
+## SCHEDULE 2 — Prescribed limits of error for capacity measures other than dispensing measures for pharmaceutical purposes[^c-d025b8df89a25983e839bd8d70e15613]
 
 regulation 15
 
@@ -406,7 +406,7 @@ regulation 15
 </tbody>
 </table>
 
-[^key-e90824d948bde19e33388a367bb973eb][^f01000][^f01000][^f01000][^key-6e1b5a97764954a20df0618ab9d8a1f5][^f01000]
+[^c-e90824d948bde19e33388a367bb973eb][^f01000][^f01000][^f01000][^c-6e1b5a97764954a20df0618ab9d8a1f5][^f01000]
 
 (This note is not part of the Regulations.)
 
@@ -449,9 +449,9 @@ These Regulations have been notified to the European Commission pursuant to Coun
 
 [^f00002]: Footnote: By S.I. [1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-40fc2b4025752c9e66976f2d018c3cf5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/48/regulation/1) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-40fc2b4025752c9e66976f2d018c3cf5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/48/regulation/1) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-825e17d877b7a740feeace217b19ee25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/48/regulation/2) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-825e17d877b7a740feeace217b19ee25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/48/regulation/2) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
 [^f00003]: Footnote: ISBN No. 0 580 12515 7, published by the British Standards Institution in April 1952, as amended in February 1982
 
@@ -469,52 +469,52 @@ These Regulations have been notified to the European Commission pursuant to Coun
 
 [^f00010]: Footnote: [S. R. & O. (N.I.) 1969 No. 11](https://www.legislation.gov.uk/nisr/1969/11)
 
-[^key-3256e98cd714cb1b2d05d994d11d48b0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/48/regulation/3) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-3256e98cd714cb1b2d05d994d11d48b0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/48/regulation/3) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1993 No. 441](https://www.legislation.gov.uk/nisr/1993/441) as amended by [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228)
 
-[^key-b055ec97c4d5f18ab7868f620167fb73]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/1998/48/regulation/3/1/b) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 13](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/part/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
+[^c-b055ec97c4d5f18ab7868f620167fb73]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/1998/48/regulation/3/1/b) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 13](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/part/2) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
 
-[^key-26f62869fbebf6b8009a9ff430d924a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/48/regulation/4) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-26f62869fbebf6b8009a9ff430d924a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/48/regulation/4) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-80c2cead10eba702bf2aad0a4d6dbf86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/48/regulation/5) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-80c2cead10eba702bf2aad0a4d6dbf86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/48/regulation/5) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-4b4ae1e6821b9ab293106643845a8879]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/48/regulation/6) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-4b4ae1e6821b9ab293106643845a8879]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/48/regulation/6) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-ce8488e0c050a0336469a601ebd10796]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/48/regulation/7) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-ce8488e0c050a0336469a601ebd10796]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/48/regulation/7) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-2dcc0189b57a1ab3d73d7e85824f7998]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/48/regulation/8) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-2dcc0189b57a1ab3d73d7e85824f7998]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/48/regulation/8) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-8c018682161fb50df92c01ea3684996f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/48/regulation/9) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-8c018682161fb50df92c01ea3684996f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/48/regulation/9) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-11f25ad8c0b4b312e505c830a073e066]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/48/regulation/10) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-11f25ad8c0b4b312e505c830a073e066]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/48/regulation/10) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-6bf599824ded86c905ec9bb09b4b6af0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/48/regulation/11) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-6bf599824ded86c905ec9bb09b4b6af0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/48/regulation/11) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-40363f243b5be4748f60ae003f277109]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/48/regulation/12) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-40363f243b5be4748f60ae003f277109]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/48/regulation/12) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-e05d243dc68b493660e06d39885b5b0f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1998/48/regulation/13) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-e05d243dc68b493660e06d39885b5b0f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1998/48/regulation/13) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-c07f8e0fc143ece500630295ef06b320]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/1998/48/regulation/13/3) substituted (1.3.2005) by [The Weights and Measures (Standards Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/26)](https://www.legislation.gov.uk/nisr/2005/26), [reg. 1](https://www.legislation.gov.uk/nisr/2005/26/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/26/schedule/paragraph/5)
+[^c-c07f8e0fc143ece500630295ef06b320]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/nisr/1998/48/regulation/13/3) substituted (1.3.2005) by [The Weights and Measures (Standards Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/26)](https://www.legislation.gov.uk/nisr/2005/26), [reg. 1](https://www.legislation.gov.uk/nisr/2005/26/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/26/schedule/paragraph/5)
 
-[^key-d454d5f89fc82ff65f271a662272c1f6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1998/48/regulation/14) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-d454d5f89fc82ff65f271a662272c1f6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1998/48/regulation/14) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-22d1917ab286e455a1c66b5b6632d8ca]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1998/48/regulation/15) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-22d1917ab286e455a1c66b5b6632d8ca]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1998/48/regulation/15) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-dbdd88d0da62222f4c861d2a05198f57]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1998/48/regulation/16) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-dbdd88d0da62222f4c861d2a05198f57]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1998/48/regulation/16) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-c1be1851bbea438ebe542688069713a0]: Textual amendment: Words in [reg. 16(7)(b)](https://www.legislation.gov.uk/nisr/1998/48/regulation/16/7/b) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/2/f)
+[^c-c1be1851bbea438ebe542688069713a0]: Textual amendment: Words in [reg. 16(7)(b)](https://www.legislation.gov.uk/nisr/1998/48/regulation/16/7/b) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/2/f)
 
-[^key-250a8866146177538aaf4e62708eeaeb]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1998/48/regulation/17) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-250a8866146177538aaf4e62708eeaeb]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1998/48/regulation/17) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-f62f339147e156ff4c27f3c3814f0350]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/1998/48/regulation/18) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-f62f339147e156ff4c27f3c3814f0350]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/1998/48/regulation/18) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-3be69a227e1d1a44d96d113ec2f9188c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/48/schedule/1) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-3be69a227e1d1a44d96d113ec2f9188c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/48/schedule/1) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-d025b8df89a25983e839bd8d70e15613]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
+[^c-d025b8df89a25983e839bd8d70e15613]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/48/regulation/1/1)
 
-[^key-e90824d948bde19e33388a367bb973eb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) Table deleted (1.10.2004) by [Measuring Equipment (Capacity Measures) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/371)](https://www.legislation.gov.uk/nisr/2004/371), [regs. 1](https://www.legislation.gov.uk/nisr/2004/371/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/371/regulation/2/b)
+[^c-e90824d948bde19e33388a367bb973eb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) Table deleted (1.10.2004) by [Measuring Equipment (Capacity Measures) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/371)](https://www.legislation.gov.uk/nisr/2004/371), [regs. 1](https://www.legislation.gov.uk/nisr/2004/371/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/371/regulation/2/b)
 
 [^f01000]: Footnote: for measuring intoxicating liquor only.
 
-[^key-6e1b5a97764954a20df0618ab9d8a1f5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) Table substituted (1.10.2004) by [Measuring Equipment (Capacity Measures) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/371)](https://www.legislation.gov.uk/nisr/2004/371), [regs. 1](https://www.legislation.gov.uk/nisr/2004/371/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2004/371/regulation/2/a)
+[^c-6e1b5a97764954a20df0618ab9d8a1f5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1998/48/schedule/2) Table substituted (1.10.2004) by [Measuring Equipment (Capacity Measures) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/371)](https://www.legislation.gov.uk/nisr/2004/371), [regs. 1](https://www.legislation.gov.uk/nisr/2004/371/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2004/371/regulation/2/a)

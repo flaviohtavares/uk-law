@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-### Part I — Certain cases in which First-tier Tribunal may order possession[^key-50d76120435c6b4f716d4ab7fd091525]
+### Part I — Certain cases in which First-tier Tribunal may order possession[^c-50d76120435c6b4f716d4ab7fd091525]
 
 #### Case 1
 
@@ -39,15 +39,15 @@ Where the tenant or any person residing or lodging with him or any sub-tenant of
 
 #### Case 3
 
-Where the condition of the dwelling-house has, in the opinion of the First-tier Tribunal[^key-aef64745243ba7afc1c79bb19dadce74], deteriorated owing to acts of waste by, or the neglect or default of, the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any act of waste by, or the neglect or default of, a person lodging with the tenant or a sub-tenant of his, where the First-tier Tribunal is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
+Where the condition of the dwelling-house has, in the opinion of the First-tier Tribunal[^c-aef64745243ba7afc1c79bb19dadce74], deteriorated owing to acts of waste by, or the neglect or default of, the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any act of waste by, or the neglect or default of, a person lodging with the tenant or a sub-tenant of his, where the First-tier Tribunal is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
 
 #### Case 4
 
-Where the condition of any furniture provided for use under the tenancy has, in the opinion of the First-tier Tribunal[^key-9d2cead016f147aba19d8217c5180e0f], deteriorated owing to ill-treatment by the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any ill-treatment by a person lodging with the tenant or a sub-tenant of his, where the First-tier Tribunal is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
+Where the condition of any furniture provided for use under the tenancy has, in the opinion of the First-tier Tribunal[^c-9d2cead016f147aba19d8217c5180e0f], deteriorated owing to ill-treatment by the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any ill-treatment by a person lodging with the tenant or a sub-tenant of his, where the First-tier Tribunal is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
 
 #### Case 5
 
-Where the tenant has given notice to quit and, in consequence of that notice, the landlord has contracted to sell or let the dwelling-house or has taken any other steps as the result of which he would, in the opinion of the First-tier Tribunal[^key-b05bdb1a278d88d9c01619af0c8e1871], be seriously prejudiced if he could not obtain possession.
+Where the tenant has given notice to quit and, in consequence of that notice, the landlord has contracted to sell or let the dwelling-house or has taken any other steps as the result of which he would, in the opinion of the First-tier Tribunal[^c-b05bdb1a278d88d9c01619af0c8e1871], be seriously prejudiced if he could not obtain possession.
 
 #### Case 6
 
@@ -55,7 +55,7 @@ Where, without the consent of the landlord, the tenant has, at any time after 8t
 
 #### Case 7
 
-Where the dwelling-house is reasonably required by the landlord for occupation as a residence for some person engaged in his whole-time employment, or in the whole-time employment of some tenant from him or with whom, conditional on housing accommodation being provided, a contract for such employment has been entered into, and [^key-c0c5656122a4b45c03c133d0579477a5]...
+Where the dwelling-house is reasonably required by the landlord for occupation as a residence for some person engaged in his whole-time employment, or in the whole-time employment of some tenant from him or with whom, conditional on housing accommodation being provided, a contract for such employment has been entered into, and [^c-c0c5656122a4b45c03c133d0579477a5]...
 
 (a) the tenant was in the employment of the landlord or a former landlord, and the dwelling-house was let to him in consequence of that employment and he has ceased to be in that employment; [^M_F_b35ad47a-4e60-4483-cf30-af3dc96b3bad]...
 
@@ -77,7 +77,7 @@ and the landlord did not become landlord by purchasing the dwelling-house or any
 
 #### Case 9
 
-Where the First-tier Tribunal[^key-f8fae9515ccae13186d14ae6590de82b] is satisfied that the rent charged by the tenant—
+Where the First-tier Tribunal[^c-f8fae9515ccae13186d14ae6590de82b] is satisfied that the rent charged by the tenant—
 
 (a) for any sub-let part of the dwelling-house which is a dwelling-house let on a protected tenancy or subject to a statutory tenancy is or was in excess of the maximum rent for the time being recoverable for that part, having regard to the provisions of Part IV of this Act, or
 
@@ -85,9 +85,9 @@ Where the First-tier Tribunal[^key-f8fae9515ccae13186d14ae6590de82b] is satisfie
 
 #### Case 10
 
-Where the dwelling-house is so overcrowded as to be dangerous or injurious to the health of the inmates, and the First-tier Tribunal[^key-37846fc4035dafd5ee3643ea39bd10a2] is satisfied that the overcrowding could have been abated by the removal of any lodger or sub-tenant (not being a parent or child of the tenant) whom it would, having regard to all the circumstances of the case, including the question whether other accommodation is available for him, have been reasonable to remove, and that the tenant has not taken such steps as he ought reasonably to have taken for his removal.
+Where the dwelling-house is so overcrowded as to be dangerous or injurious to the health of the inmates, and the First-tier Tribunal[^c-37846fc4035dafd5ee3643ea39bd10a2] is satisfied that the overcrowding could have been abated by the removal of any lodger or sub-tenant (not being a parent or child of the tenant) whom it would, having regard to all the circumstances of the case, including the question whether other accommodation is available for him, have been reasonable to remove, and that the tenant has not taken such steps as he ought reasonably to have taken for his removal.
 
-### Part II — Further cases in which First-tier Tribunal may order possession[^key-46e2376b8fc6efd18ab991a0dc5ab415]
+### Part II — Further cases in which First-tier Tribunal may order possession[^c-46e2376b8fc6efd18ab991a0dc5ab415]
 
 #### Case 11
 
@@ -251,7 +251,7 @@ and in the opinion of the Tribunal, the accommodation fulfils the relevant condi
 
 **3.** (1) For the purposes of paragraph 2 above, the relevant conditions are that the accommodation is reasonably suitable to the needs of the tenant and his family as regards proximity to place of work, and either—
 
-- (a) similar as regards rental and extent to the accommodation afforded by dwelling-houses provided in the neighbourhood by any housing authority for persons whose needs as regards extent are, in the opinion of the First-tier Tribunal[^key-381983a3ab3a4cf8095e4590bcc30619], similar to those of the tenant and his family; or
+- (a) similar as regards rental and extent to the accommodation afforded by dwelling-houses provided in the neighbourhood by any housing authority for persons whose needs as regards extent are, in the opinion of the First-tier Tribunal[^c-381983a3ab3a4cf8095e4590bcc30619], similar to those of the tenant and his family; or
 - (b) reasonably suitable to the means of the tenant and to the needs of the tenant and his family as regards extent and character;
 
 and that if any furniture was provided for use under the protected or statutory tenancy in question, furniture is provided for use in the accommodation which is either similar to that so provided or is reasonably suitable to the needs of the tenant and his family.
@@ -271,23 +271,23 @@ shall be conclusive evidence of the facts so stated.
 
 ## Annotations
 
-[^key-50d76120435c6b4f716d4ab7fd091525]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/1984/58/schedule/2/part/1) heading substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 45(5)(a)](https://www.legislation.gov.uk/asp/2022/8/section/45/5/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-50d76120435c6b4f716d4ab7fd091525]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/1984/58/schedule/2/part/1) heading substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 45(5)(a)](https://www.legislation.gov.uk/asp/2022/8/section/45/5/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-aef64745243ba7afc1c79bb19dadce74]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-aef64745243ba7afc1c79bb19dadce74]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-9d2cead016f147aba19d8217c5180e0f]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-9d2cead016f147aba19d8217c5180e0f]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-b05bdb1a278d88d9c01619af0c8e1871]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-b05bdb1a278d88d9c01619af0c8e1871]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-c0c5656122a4b45c03c133d0579477a5]: Textual amendment: Word in sch. 2 Pt. I Case 7 repealed (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 3(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/3/a); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/264/article/6))
+[^c-c0c5656122a4b45c03c133d0579477a5]: Textual amendment: Word in sch. 2 Pt. I Case 7 repealed (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 3(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/3/a); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/264/article/6))
 
 [^M_F_b35ad47a-4e60-4483-cf30-af3dc96b3bad]: Textual amendment: Words in sch. 2 Pt. I Case 7 repealed (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 3(b)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/3/a); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/264/article/6))
 
-[^key-f8fae9515ccae13186d14ae6590de82b]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-f8fae9515ccae13186d14ae6590de82b]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-37846fc4035dafd5ee3643ea39bd10a2]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-37846fc4035dafd5ee3643ea39bd10a2]: Textual amendment: Words in sch. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(a)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/a); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-46e2376b8fc6efd18ab991a0dc5ab415]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/1984/58/schedule/2/part/2) heading substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 45(5)(b)](https://www.legislation.gov.uk/asp/2022/8/section/45/5/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-46e2376b8fc6efd18ab991a0dc5ab415]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/1984/58/schedule/2/part/2) heading substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 45(5)(b)](https://www.legislation.gov.uk/asp/2022/8/section/45/5/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
 [^c983291]: Textual amendment: Words substituted by [Rent (Amendment) Act 1985 (c. 24, SIF 75:3, 4)](https://www.legislation.gov.uk/ukpga/1985/24), [s. 1(1)(4)](https://www.legislation.gov.uk/ukpga/1985/24/section/1/1/4)
 
@@ -313,7 +313,7 @@ shall be conclusive evidence of the facts so stated.
 
 [^M_F_ffff1b6f-8fa3-47e2-e485-5d21924051ca]: Textual amendment: Words in sch. 2 Pt. IV para. 2 substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(c)(i)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/c/i); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
-[^key-381983a3ab3a4cf8095e4590bcc30619]: Textual amendment: Words in sch. 2 Pt. IV para. 3(1)(a) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(c)(ii)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/c/ii); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-381983a3ab3a4cf8095e4590bcc30619]: Textual amendment: Words in sch. 2 Pt. IV para. 3(1)(a) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 31(c)(ii)](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/31/c/ii); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
 [^c983381]: Textual amendment: Words substituted by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339](https://www.legislation.gov.uk/ukpga/1987/26/section/339), [Sch. 23 para. 29(8)(a)](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/29/8/a)
 

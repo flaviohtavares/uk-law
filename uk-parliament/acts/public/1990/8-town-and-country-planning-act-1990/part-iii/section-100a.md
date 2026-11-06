@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100A. Wales: consultation etc in respect of certain applications relating to planning permission[^key-78ed59e565f58ebbdec0f7982b8fb6c3]
+## 100A. Wales: consultation etc in respect of certain applications relating to planning permission[^c-78ed59e565f58ebbdec0f7982b8fb6c3]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78ed59e565f58ebbdec0f7982b8fb6c3]: Textual amendment: S. 100A and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-78ed59e565f58ebbdec0f7982b8fb6c3]: Textual amendment: S. 100A and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)

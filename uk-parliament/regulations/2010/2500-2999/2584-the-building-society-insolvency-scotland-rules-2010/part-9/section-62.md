@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Obligations of liquidator to committee[^key-a348c480c2a38c9992253debebaa95d5]
+## 62. Obligations of liquidator to committee[^c-a348c480c2a38c9992253debebaa95d5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.44 of the 1986 Rules.
 
 ## Annotations
 
-[^key-a348c480c2a38c9992253debebaa95d5]: Commencement: Rule 62 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-a348c480c2a38c9992253debebaa95d5]: Commencement: Rule 62 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

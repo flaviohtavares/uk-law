@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Extended notice period for taking possession following vesting declaration[^key-0c5cd57a0c8a73085daf09788b0060eb]
+## 191. Extended notice period for taking possession following vesting declaration[^c-0c5cd57a0c8a73085daf09788b0060eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 9 of the Compulsory Purchase (Vesting Declarations) Act 1981 (minor t
 
 ## Annotations
 
-[^key-0c5cd57a0c8a73085daf09788b0060eb]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2016/22/section/191) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-0c5cd57a0c8a73085daf09788b0060eb]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2016/22/section/191) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

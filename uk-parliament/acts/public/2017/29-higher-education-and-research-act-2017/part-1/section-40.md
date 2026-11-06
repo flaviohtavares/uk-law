@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Financial support for certain institutions[^key-174931514814c63d723726d33fdf23aa]
+## 40. Financial support for certain institutions[^c-174931514814c63d723726d33fdf23aa]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-174931514814c63d723726d33fdf23aa]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/29/section/40) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)
+[^c-174931514814c63d723726d33fdf23aa]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/29/section/40) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)

@@ -338,7 +338,7 @@ Regulation 69 of the Health and Personal Social Services (Superannuation) Regula
 
 shall be deemed to be validly made if they could have been validly made had this Article been in operation.
 
-(4)[^c2109468] This Article applies also in relation to additional pharmaceutical services provided in accordance with arrangements made[^key-dd597476378f1e01aeafe0df1610fcbb] under Article 63A of the principal order.
+(4)[^c2109468] This Article applies also in relation to additional pharmaceutical services provided in accordance with arrangements made[^c-dd597476378f1e01aeafe0df1610fcbb] under Article 63A of the principal order.
 
 ## 11. Transfer of staff from civil service to Health and Social Services Boards, etc.
 
@@ -411,7 +411,7 @@ shall be guilty of an offence.
 
 [^c2109468]: Textual amendment: [1997 NI 7](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-dd597476378f1e01aeafe0df1610fcbb]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/nisi/1988/2249/article/10/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 125](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/125); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-dd597476378f1e01aeafe0df1610fcbb]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/nisi/1988/2249/article/10/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 125](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/125); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c2138634]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/nisi/1988/2249/article/11) inserted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/11/2); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

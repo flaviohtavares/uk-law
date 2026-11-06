@@ -127,7 +127,7 @@ HAS ADOPTED THIS REGULATION:
   ;
 - 2.. Paragraphs 5b to 5e are deleted.
 
-**Article 2.**[^key-4ccd9cbe83fa84cbeca01b6dd3836847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4ccd9cbe83fa84cbeca01b6dd3836847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 3.** The dates announced publicly by third countries in relation to a changeover to IFRS shall serve as reference dates for the abolition of equivalence recognition for those third countries
 
@@ -155,4 +155,4 @@ Charlie McCreevy
 
 [^f00004]: Footnote: [OJ L 340, 22.12.2007, p. 66](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.340.01.0066.01.ENG).
 
-[^key-4ccd9cbe83fa84cbeca01b6dd3836847]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2008/1289/article/2) omitted (31.12.2020) by virtue of [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ccd9cbe83fa84cbeca01b6dd3836847]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2008/1289/article/2) omitted (31.12.2020) by virtue of [The Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/541)](https://www.legislation.gov.uk/uksi/2019/541), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/541/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/541/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

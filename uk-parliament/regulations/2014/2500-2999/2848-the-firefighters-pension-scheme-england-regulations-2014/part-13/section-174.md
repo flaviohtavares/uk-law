@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-2485461c046551914ec0e6ea3903ee8e]
+## 174. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-2485461c046551914ec0e6ea3903ee8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2485461c046551914ec0e6ea3903ee8e]: Commencement: [Reg. 174](https://www.legislation.gov.uk/uksi/2014/2848/regulation/174) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2485461c046551914ec0e6ea3903ee8e]: Commencement: [Reg. 174](https://www.legislation.gov.uk/uksi/2014/2848/regulation/174) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

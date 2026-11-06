@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 305. Meaning of “operational land”: Civil Aviation Authority and air traffic licensees[^key-8ce72148f5a2dad3b6eb3e80c0ca335a]
+## 305. Meaning of “operational land”: Civil Aviation Authority and air traffic licensees[^c-8ce72148f5a2dad3b6eb3e80c0ca335a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce72148f5a2dad3b6eb3e80c0ca335a]: Commencement: S. 305 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8ce72148f5a2dad3b6eb3e80c0ca335a]: Commencement: S. 305 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) In relation to a charitable company, any reference in section 42 or 43 to the charity trustees of a charity is to be read as a reference to the directors of the company.
 
-(2) Subsections (3) to (5) apply if a direction is given under section 42 with respect to the name of[^key-0fe3d3534f30198d7c9a21a4d00d3cc2] a charitable company.
+(2) Subsections (3) to (5) apply if a direction is given under section 42 with respect to the name of[^c-0fe3d3534f30198d7c9a21a4d00d3cc2] a charitable company.
 
 (3) The direction is to be treated as requiring the name of the company to be changed by resolution of the directors of the company.
 
@@ -37,4 +37,4 @@ and the change of name has effect from the date on which the altered certificate
 
 ## Annotations
 
-[^key-0fe3d3534f30198d7c9a21a4d00d3cc2]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/45/2) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/32); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(o)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/o)
+[^c-0fe3d3534f30198d7c9a21a4d00d3cc2]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/45/2) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/32); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(o)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/o)

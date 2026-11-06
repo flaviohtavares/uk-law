@@ -38,9 +38,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 1. Proceedings under Children (Scotland) Act 1995
 
-(1)[^key-1b5c5920b230739cedc90bdbdb7ca3ca] The Children (Scotland) Act 1995 is modified as follows.
+(1)[^c-1b5c5920b230739cedc90bdbdb7ca3ca] The Children (Scotland) Act 1995 is modified as follows.
 
-(2)[^key-1b5c5920b230739cedc90bdbdb7ca3ca] In section 6 (views of children)—
+(2)[^c-1b5c5920b230739cedc90bdbdb7ca3ca] In section 6 (views of children)—
 
 - (a) in subsection (1)—
   - (i) after “shall” insert “ comply with subsections (1A) and (1D) ”,
@@ -519,12 +519,12 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
   - (i) confer the duty of maintaining the register on a person, and
   - (ii) make such modifications to other enactments as the Scottish Ministers consider appropriate for the purposes of, or in connection with, or for giving full effect to provision made by virtue of sub-paragraph (i).
 
-(3)[^key-d0d7d5c3bfd514e5b532997905192a52] Before making regulations under subsection (2), the Scottish Ministers must consult—
+(3)[^c-d0d7d5c3bfd514e5b532997905192a52] Before making regulations under subsection (2), the Scottish Ministers must consult—
 
 - (a) the Faculty of Advocates, and
 - (b) the Law Society of Scotland.
 
-(4)[^key-d0d7d5c3bfd514e5b532997905192a52] Regulations under subsection (2)—
+(4)[^c-d0d7d5c3bfd514e5b532997905192a52] Regulations under subsection (2)—
 
 - (a) are subject to the affirmative procedure if, by virtue of paragraph (c)(ii) of that subsection, they add to, replace or omit any part of the text of an Act, but
 - (b) otherwise are subject to the negative procedure.
@@ -633,7 +633,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ## Register for child welfare reporters
 
-### 9. Establishment of register[^key-a2389d09bdd41284d6b02c9c94267d4d]
+### 9. Establishment of register[^c-a2389d09bdd41284d6b02c9c94267d4d]
 
 (1) The Children (Scotland) Act 1995 is modified as follows.
 
@@ -666,7 +666,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ### 10. Regulation of provision of contact services
 
-(1)[^key-a332c207ba072f4ca825cb2fa497b2a4] The Children (Scotland) Act 1995 is modified as follows.
+(1)[^c-a332c207ba072f4ca825cb2fa497b2a4] The Children (Scotland) Act 1995 is modified as follows.
 
 (2) In section 11 (court orders relating to parental responsibilities etc.)—
 
@@ -677,7 +677,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
   .
 
-(3)[^key-a332c207ba072f4ca825cb2fa497b2a4] After section 101B (which is inserted by section 17(3) of this Act) insert—
+(3)[^c-a332c207ba072f4ca825cb2fa497b2a4] After section 101B (which is inserted by section 17(3) of this Act) insert—
 
 > **101C. Contact services: regulation**
 >
@@ -756,7 +756,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 .
 
-### 13. Promotion of contact between looked after children and siblings[^key-2fdad698656fc07ebc2e52b4e9a28b1c]
+### 13. Promotion of contact between looked after children and siblings[^c-2fdad698656fc07ebc2e52b4e9a28b1c]
 
 (1) The Children (Scotland) Act 1995 is modified as follows.
 
@@ -789,7 +789,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
     .
 
-### 14. Duty to consider contact when making etc. compulsory supervision order[^key-dca5f1ec408a8160e2bf28527dd17c28]
+### 14. Duty to consider contact when making etc. compulsory supervision order[^c-dca5f1ec408a8160e2bf28527dd17c28]
 
 (1) The Children's Hearings (Scotland) Act 2011 is modified as follows.
 
@@ -809,7 +809,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ## Further provision about orders under section 11(1) of the Children (Scotland) Act 1995
 
-### 15. Clarification of order-making power[^key-9eb6ab3933449e4a8aa64741b2c5027a]
+### 15. Clarification of order-making power[^c-9eb6ab3933449e4a8aa64741b2c5027a]
 
 (1) The Children (Scotland) Act 1995 is modified as follows.
 
@@ -835,7 +835,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ### 17. Curators ad litem
 
-(1)[^key-a97028a32cec1d43ea2a07692d98115b] The Children (Scotland) Act 1995 is modified as follows.
+(1)[^c-a97028a32cec1d43ea2a07692d98115b] The Children (Scotland) Act 1995 is modified as follows.
 
 (2) After section 11C (which is inserted by section 8(2) of this Act) insert—
 
@@ -856,7 +856,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 .
 
-(3)[^key-a97028a32cec1d43ea2a07692d98115b] After section 101A (which is inserted by section 9(2) of this Act) insert—
+(3)[^c-a97028a32cec1d43ea2a07692d98115b] After section 101A (which is inserted by section 9(2) of this Act) insert—
 
 > **101B. Register of curators ad litem for the purposes of section 11D**
 >
@@ -1039,7 +1039,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ## Alternative dispute resolution
 
-### 23. Funding for alternative dispute resolution[^key-18b203c3f7f63926db6ca402a707b603]
+### 23. Funding for alternative dispute resolution[^c-18b203c3f7f63926db6ca402a707b603]
 
 (1) The Scottish Ministers must—
 
@@ -1079,7 +1079,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 (11) Regulations under subsection (9) are subject to the affirmative procedure.
 
-### 24. Pilot scheme for mandatory alternative dispute resolution meetings[^key-09beab21679b9c539fd6bbd958c294eb]
+### 24. Pilot scheme for mandatory alternative dispute resolution meetings[^c-09beab21679b9c539fd6bbd958c294eb]
 
 (1) The Scottish Ministers must arrange a pilot scheme under which a court, in proceedings to which the scheme applies, may only make an order under section 11(1) of the Children (Scotland) Act 1995—
 
@@ -1128,7 +1128,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ## Children's hearings
 
-### 25. Opportunity to participate in hearing[^key-bc820e6b5d420f93457979ca50a0d78b]
+### 25. Opportunity to participate in hearing[^c-bc820e6b5d420f93457979ca50a0d78b]
 
 (1) The Children's Hearings (Scotland) Act 2011 is modified as follows.
 
@@ -1235,7 +1235,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 .
 
-### 26. Appeal against relevant person decision[^key-2f36f7222b63a8ded83ae244b0328acc]
+### 26. Appeal against relevant person decision[^c-2f36f7222b63a8ded83ae244b0328acc]
 
 (1) The Children's Hearings (Scotland) Act 2011 is modified by subsections (2) and (3).
 
@@ -1419,7 +1419,7 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 ### 30. Delay in proceedings likely to prejudice child's welfare
 
-(1)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] The Children (Scotland) Act 1995 is modified by subsections (2) and (3).
+(1)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] The Children (Scotland) Act 1995 is modified by subsections (2) and (3).
 
 (2) In section 11ZA (paramountcy of child's welfare, and the non-intervention presumption) (which is inserted by section 1(4) of this Act), after subsection (2) insert—
 
@@ -1427,23 +1427,23 @@ a register of solicitors who may be appointed by a court under section 22B(6) of
 
 .
 
-(3)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] In section 16 (welfare of child and consideration of his views), after subsection (1) insert—
+(3)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] In section 16 (welfare of child and consideration of his views), after subsection (1) insert—
 
 > (1A) When considering the child's welfare, the court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.
 
 .
 
-(4)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] The Adoption and Children (Scotland) Act 2007 is modified by subsection (5).
+(4)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] The Adoption and Children (Scotland) Act 2007 is modified by subsection (5).
 
-(5)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] In section 14 (considerations applying to the exercise of powers), after subsection (3) insert—
+(5)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] In section 14 (considerations applying to the exercise of powers), after subsection (3) insert—
 
 > (3A) When considering the child's welfare, the court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.
 
 .
 
-(6)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] The Children's Hearings (Scotland) Act 2011 is modified by subsection (7).
+(6)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] The Children's Hearings (Scotland) Act 2011 is modified by subsection (7).
 
-(7)[^key-f27f1b6f31de8fb01003a8e3fc48eb60] In section 25 (welfare of the child), after subsection (2) insert—
+(7)[^c-f27f1b6f31de8fb01003a8e3fc48eb60] In section 25 (welfare of the child), after subsection (2) insert—
 
 > (3) The children's hearing, pre-hearing panel or court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.
 
@@ -1523,28 +1523,28 @@ The short title of this Act is the Children (Scotland) Act 2020.
 
 ## Annotations
 
-[^key-1b5c5920b230739cedc90bdbdb7ca3ca]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2020/16/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2020/16/section/1/2) in force at 21.9.2025 by [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
+[^c-1b5c5920b230739cedc90bdbdb7ca3ca]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/asp/2020/16/section/1/1)[(2)](https://www.legislation.gov.uk/asp/2020/16/section/1/2) in force at 21.9.2025 by [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
 
-[^key-d0d7d5c3bfd514e5b532997905192a52]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/asp/2020/16/section/7/3)[(4)](https://www.legislation.gov.uk/asp/2020/16/section/7/4) in force at 25.10.2021 by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/a)
+[^c-d0d7d5c3bfd514e5b532997905192a52]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/asp/2020/16/section/7/3)[(4)](https://www.legislation.gov.uk/asp/2020/16/section/7/4) in force at 25.10.2021 by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/a)
 
-[^key-a2389d09bdd41284d6b02c9c94267d4d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/16/section/9) in force at 25.10.2021 for specified purposes by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/b)
+[^c-a2389d09bdd41284d6b02c9c94267d4d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/16/section/9) in force at 25.10.2021 for specified purposes by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/b)
 
-[^key-a332c207ba072f4ca825cb2fa497b2a4]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2020/16/section/10/1)[(3)](https://www.legislation.gov.uk/asp/2020/16/section/10/3) in force at 25.10.2021 by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/c)
+[^c-a332c207ba072f4ca825cb2fa497b2a4]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2020/16/section/10/1)[(3)](https://www.legislation.gov.uk/asp/2020/16/section/10/3) in force at 25.10.2021 by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/c)
 
-[^key-2fdad698656fc07ebc2e52b4e9a28b1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/16/section/13) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/a)
+[^c-2fdad698656fc07ebc2e52b4e9a28b1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/16/section/13) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/a)
 
-[^key-dca5f1ec408a8160e2bf28527dd17c28]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/16/section/14) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/b)
+[^c-dca5f1ec408a8160e2bf28527dd17c28]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/16/section/14) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/b)
 
-[^key-9eb6ab3933449e4a8aa64741b2c5027a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/16/section/15) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/412/regulation/3))
+[^c-9eb6ab3933449e4a8aa64741b2c5027a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/16/section/15) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/412/regulation/3))
 
-[^key-a97028a32cec1d43ea2a07692d98115b]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/asp/2020/16/section/17/1)[(3)](https://www.legislation.gov.uk/asp/2020/16/section/17/3) in force at 25.10.2021 for specified purposes by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/d)
+[^c-a97028a32cec1d43ea2a07692d98115b]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/asp/2020/16/section/17/1)[(3)](https://www.legislation.gov.uk/asp/2020/16/section/17/3) in force at 25.10.2021 for specified purposes by [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/d)
 
-[^key-18b203c3f7f63926db6ca402a707b603]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/16/section/23) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/b)
+[^c-18b203c3f7f63926db6ca402a707b603]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/16/section/23) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/b)
 
-[^key-09beab21679b9c539fd6bbd958c294eb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/16/section/24) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/c)
+[^c-09beab21679b9c539fd6bbd958c294eb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/16/section/24) in force at 17.1.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/1/c)
 
-[^key-bc820e6b5d420f93457979ca50a0d78b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/16/section/25) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-bc820e6b5d420f93457979ca50a0d78b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/16/section/25) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
 
-[^key-2f36f7222b63a8ded83ae244b0328acc]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/16/section/26) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/d)
+[^c-2f36f7222b63a8ded83ae244b0328acc]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/16/section/26) in force at 26.7.2021 by [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/d)
 
-[^key-f27f1b6f31de8fb01003a8e3fc48eb60]: Commencement: S. 30(1)(3)-(7) in force at 22.6.2025 by [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 2](https://www.legislation.gov.uk/ssi/2025/157/regulation/2)
+[^c-f27f1b6f31de8fb01003a8e3fc48eb60]: Commencement: S. 30(1)(3)-(7) in force at 22.6.2025 by [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 2](https://www.legislation.gov.uk/ssi/2025/157/regulation/2)

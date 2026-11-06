@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45.[^key-7f3090b1518a1ee4b5d026693da01d65]
+## 45.[^c-7f3090b1518a1ee4b5d026693da01d65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 102A (gifts with reservation: interest in land), in the opening words
 
 ## Annotations
 
-[^key-7f3090b1518a1ee4b5d026693da01d65]: Commencement: Reg. 45 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7f3090b1518a1ee4b5d026693da01d65]: Commencement: Reg. 45 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

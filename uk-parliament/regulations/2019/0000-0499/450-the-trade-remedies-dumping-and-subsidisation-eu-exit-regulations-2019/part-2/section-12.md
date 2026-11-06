@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. The amounts for administrative, selling and general costs and for profits[^key-2bcabda6fd1f5b3823208f8588e5854b]
+## 12. The amounts for administrative, selling and general costs and for profits[^c-2bcabda6fd1f5b3823208f8588e5854b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bcabda6fd1f5b3823208f8588e5854b]: Commencement: Reg. 12 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-2bcabda6fd1f5b3823208f8588e5854b]: Commencement: Reg. 12 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

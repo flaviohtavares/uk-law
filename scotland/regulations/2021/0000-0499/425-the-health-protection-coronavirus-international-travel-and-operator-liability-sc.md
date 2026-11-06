@@ -34,7 +34,7 @@ Regulations made by the Scottish Ministers and laid before the Scottish Parliame
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 7) Regulations 2021 (revoked)[^key-7844e972b2b5a72c4657493e79ec9e25]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 7) Regulations 2021 (revoked)[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 Made
 
@@ -48,67 +48,67 @@ Coming into force
 
 at 4.00 a.m. on 22nd November 2021
 
-[^key-7844e972b2b5a72c4657493e79ec9e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7844e972b2b5a72c4657493e79ec9e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 1. Citation and Commencement[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 3. Amendment of regulation 2[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 4. Amendment of regulation 3[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 6[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 5. Amendment of regulation 6[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 7[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 6. Amendment of regulation 7[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 14[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 7. Amendment of regulation 14[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 18[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 8. Amendment of regulation 18[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 27[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 9. Amendment of regulation 27[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of schedule 1A[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 10. Amendment of schedule 1A[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of schedule 3[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 11. Amendment of schedule 3[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of schedule 6[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 12. Amendment of schedule 6[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Saving[^key-7844e972b2b5a72c4657493e79ec9e25]
+## 13. Saving[^c-7844e972b2b5a72c4657493e79ec9e25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7844e972b2b5a72c4657493e79ec9e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7844e972b2b5a72c4657493e79ec9e25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-7844e972b2b5a72c4657493e79ec9e25]EXPLANATORY NOTE
+[^c-7844e972b2b5a72c4657493e79ec9e25]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -145,4 +145,4 @@ An impact assessment is being prepared and will be published online at www.legis
 
 ## Annotations
 
-[^key-7844e972b2b5a72c4657493e79ec9e25]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-7844e972b2b5a72c4657493e79ec9e25]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

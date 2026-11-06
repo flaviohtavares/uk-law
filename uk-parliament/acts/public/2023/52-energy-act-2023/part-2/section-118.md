@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Revocation notices[^key-90ba627dc0bba8fc0e6930406789c452]
+## 118. Revocation notices[^c-90ba627dc0bba8fc0e6930406789c452]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ba627dc0bba8fc0e6930406789c452]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2023/52/section/118) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-90ba627dc0bba8fc0e6930406789c452]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2023/52/section/118) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Procurement principles[^key-63ec85daf9590c914f7af491e6698c85]
+## 4. Procurement principles[^c-63ec85daf9590c914f7af491e6698c85]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ec85daf9590c914f7af491e6698c85]: Commencement: Reg. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-63ec85daf9590c914f7af491e6698c85]: Commencement: Reg. 4 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

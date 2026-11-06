@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsection (2) below, no person shall be a qualified auditor for the purposes of this Act unless he is eligible for appointment as a[^c1073133] statutory auditor under Part 42 of the Companies Act 2006[^key-4b4980b2884034205235f463560e2510].
+(1) Subject to subsection (2) below, no person shall be a qualified auditor for the purposes of this Act unless he is eligible for appointment as a[^c1073133] statutory auditor under Part 42 of the Companies Act 2006[^c-4b4980b2884034205235f463560e2510].
 
 (2)[^c1073134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -32,6 +32,6 @@ summary: ''
 
 [^c1073133]: Textual amendment: Words in s. 36(1) substituted (E.W.S) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/24/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)).
 
-[^key-4b4980b2884034205235f463560e2510]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/1974/46/section/36/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-4b4980b2884034205235f463560e2510]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/ukpga/1974/46/section/36/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(n)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c1073134]: Textual amendment: S. 36(2)(3) repealed (17.8.2001 for certain purposes, otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1/2), [Sch. 3 Pt. I para. 15](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/15), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)

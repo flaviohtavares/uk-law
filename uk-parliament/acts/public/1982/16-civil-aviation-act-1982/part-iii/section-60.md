@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to give effect to Chicago Convention and to regulate air navigation, etc.[^c19378811][^key-36466e1f6f5b3fa85968d2fde4b69e3e][^key-78211b6422e782f63855e0610917c3ee][^c2541311]
+## 60. Power to give effect to Chicago Convention and to regulate air navigation, etc.[^c19378811][^c-36466e1f6f5b3fa85968d2fde4b69e3e][^c-78211b6422e782f63855e0610917c3ee][^c2541311]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,9 +61,9 @@ summary: ''
 
 [^c19378811]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) extended (with modifications) (1.4.2007) by [The Civil Aviation (Isle of Man) Order 2007 (S.I. 2007/614)](https://www.legislation.gov.uk/uksi/2007/614), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/614/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2007/614/schedule)
 
-[^key-36466e1f6f5b3fa85968d2fde4b69e3e]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
+[^c-36466e1f6f5b3fa85968d2fde4b69e3e]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
 
-[^key-78211b6422e782f63855e0610917c3ee]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
+[^c-78211b6422e782f63855e0610917c3ee]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
 
 [^c2541311]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) amended by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 35](https://www.legislation.gov.uk/ukpga/1986/31/section/35)
 

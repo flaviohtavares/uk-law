@@ -31,7 +31,7 @@ Section 95(13).
 
 who appear to be destitute or to be likely to become destitute within such period as may be prescribed.
 
-(3) For the purposes of sub-paragraph (1), in Northern Ireland, a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 ([^key-a56adb60fce6455be9a4f7ef86607f27][S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) is to be treated as a local authority.
+(3) For the purposes of sub-paragraph (1), in Northern Ireland, a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 ([^c-a56adb60fce6455be9a4f7ef86607f27][S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) is to be treated as a local authority.
 
 **2.** (1) The regulations must provide for the question whether a person is an eligible person to be determined by the local authority concerned.
 
@@ -119,6 +119,6 @@ who appear to be destitute or to be likely to become destitute within such perio
 
 ## Annotations
 
-[^key-a56adb60fce6455be9a4f7ef86607f27]: Textual amendment: Words in [Sch. 9 para. 1(3)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/9/paragraph/1/3) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/3)
+[^c-a56adb60fce6455be9a4f7ef86607f27]: Textual amendment: Words in [Sch. 9 para. 1(3)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/9/paragraph/1/3) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/3)
 
 [^c17633191]: Textual amendment: Sch. 9 para. 6A inserted (7.11.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 50(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/50/2) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))

@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Switzerland) (Citizens' Rights Agreement) Order (Northern Ireland) 2019 (revoked)[^key-014a9741caff0ab72c42e0eb663151e0]
+The Social Security (Switzerland) (Citizens' Rights Agreement) Order (Northern Ireland) 2019 (revoked)[^c-014a9741caff0ab72c42e0eb663151e0]
 
 Made
 
@@ -39,15 +39,15 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-014a9741caff0ab72c42e0eb663151e0]
+## 1. Citation and commencement[^c-014a9741caff0ab72c42e0eb663151e0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of legislation[^key-014a9741caff0ab72c42e0eb663151e0]
+## 2. Modification of legislation[^c-014a9741caff0ab72c42e0eb663151e0]
 
 **Not yet in force.**
 
@@ -55,12 +55,12 @@ Coming into operation in accordance with Article 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-014a9741caff0ab72c42e0eb663151e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-014a9741caff0ab72c42e0eb663151e0]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2019/212) revoked (19.12.2020) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/348)](https://www.legislation.gov.uk/nisr/2020/348), [art. 2](https://www.legislation.gov.uk/nisr/2020/348/article/2)
+[^c-014a9741caff0ab72c42e0eb663151e0]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2019/212) revoked (19.12.2020) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) (Revocation) Order (Northern Ireland) 2020 (S.R. 2020/348)](https://www.legislation.gov.uk/nisr/2020/348), [art. 2](https://www.legislation.gov.uk/nisr/2020/348/article/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 3(1), 30,33(1) and 34(1)
 
-### 1. Power to serve remediation notice[^key-e6963021f7de367fa41563ca687ac1c9]
+### 1. Power to serve remediation notice[^c-e6963021f7de367fa41563ca687ac1c9]
 
 (1) Where the enforcing authority reasonably believes that a supply of water to a point of compliance in its area—
 
@@ -59,7 +59,7 @@ the enforcing authority may serve a remediation notice on a person who is, in re
 - (a) send a copy of the remediation notice to the Drinking Water Quality Regulator for Scotland and to any local authority or Health Board consulted by the enforcing authority under sub-paragraph (2); and
 - (b) arrange for the notice to be published in such manner as the enforcing authority thinks appropriate for bringing it to the attention of persons affected, or who may be affected, by the supply of water.
 
-### 2. Right of appeal against remediation notice[^key-750bd0a77b781412cd35befbe185c812]
+### 2. Right of appeal against remediation notice[^c-750bd0a77b781412cd35befbe185c812]
 
 (1) A person on whom a remediation notice has been served may, within a period of 14 days beginning with the date of service, appeal to the sheriff against the notice.
 
@@ -71,7 +71,7 @@ the enforcing authority may serve a remediation notice on a person who is, in re
 
 (5) Where a person has taken the steps required by a remediation notice, the enforcing authority must publish (or arrange for the publication of) information to this effect, in such a manner as the enforcing authority thinks appropriate for bringing it to the attention of persons affected, or who may have been affected, by the supply of water.
 
-### 3. Failure to comply with remediation notice[^key-5613e6321a7fdbb854fdce571a656b70]
+### 3. Failure to comply with remediation notice[^c-5613e6321a7fdbb854fdce571a656b70]
 
 (1) This paragraph applies where, in relation to a remediation notice, a person fails to complete a step specified under paragraph 1(3)(c) by a date specified in relation to that step under paragraph 1(4) (or by such later date as the enforcing authority may have substituted under regulation 33(1)(b)).
 
@@ -82,7 +82,7 @@ the enforcing authority may serve a remediation notice on a person who is, in re
 
 (3) The expenses which may be recovered under sub-paragraph (2)(b) include such proportion of the enforcing authority’s administrative expenses (including expenses incurred in establishing any of the matters referred to in paragraph 1(1)(a) to (c) and in connection with the remediation notice) as the enforcing authority considers appropriate.
 
-### 4. Offences in relation to remediation notice[^key-0957d503781c573ab9d5c8d688ac2bec]
+### 4. Offences in relation to remediation notice[^c-0957d503781c573ab9d5c8d688ac2bec]
 
 (1) A person commits an offence if the person fails to do anything which a remediation notice requires the person to do (including a failure to complete a step required by a specified date).
 
@@ -95,10 +95,10 @@ the enforcing authority may serve a remediation notice on a person who is, in re
 
 ## Annotations
 
-[^key-e6963021f7de367fa41563ca687ac1c9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-e6963021f7de367fa41563ca687ac1c9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-750bd0a77b781412cd35befbe185c812]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-750bd0a77b781412cd35befbe185c812]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-5613e6321a7fdbb854fdce571a656b70]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-5613e6321a7fdbb854fdce571a656b70]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-0957d503781c573ab9d5c8d688ac2bec]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-0957d503781c573ab9d5c8d688ac2bec]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/6/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

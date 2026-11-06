@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Meaning of “land”[^key-ea0dd4aa4caa571fcd748ce943983e1a][^key-be0c14674ffb52d467ba7bb208a21162]
+## 102. Meaning of “land”[^c-ea0dd4aa4caa571fcd748ce943983e1a][^c-be0c14674ffb52d467ba7bb208a21162]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In this Part, “**land**” includes any interest in or right over land.
 
 ## Annotations
 
-[^key-ea0dd4aa4caa571fcd748ce943983e1a]: Commencement: S. 102 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-ea0dd4aa4caa571fcd748ce943983e1a]: Commencement: S. 102 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-be0c14674ffb52d467ba7bb208a21162]: Commencement: [S. 102](https://www.legislation.gov.uk/asc/2024/3/section/102) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-be0c14674ffb52d467ba7bb208a21162]: Commencement: [S. 102](https://www.legislation.gov.uk/asc/2024/3/section/102) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

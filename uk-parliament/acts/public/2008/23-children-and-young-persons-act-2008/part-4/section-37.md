@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Duration of residence orders[^key-8d2136e5079a847514a56dcda42dcc4f][^key-6aef5f74dd9dac9b95e1e2b553e70f2f]
+## 37. Duration of residence orders[^c-8d2136e5079a847514a56dcda42dcc4f][^c-6aef5f74dd9dac9b95e1e2b553e70f2f]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d2136e5079a847514a56dcda42dcc4f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2008/23/section/37) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/b)
+[^c-8d2136e5079a847514a56dcda42dcc4f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2008/23/section/37) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(b)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/b)
 
-[^key-6aef5f74dd9dac9b95e1e2b553e70f2f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2008/23/section/37) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/k)
+[^c-6aef5f74dd9dac9b95e1e2b553e70f2f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2008/23/section/37) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/k)

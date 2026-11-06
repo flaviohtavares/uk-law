@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Annual etc reports on delivery of levelling-up missions[^key-cfc14aa6752e90932cbaca66d73a2cc2]
+## 3. Annual etc reports on delivery of levelling-up missions[^c-cfc14aa6752e90932cbaca66d73a2cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc14aa6752e90932cbaca66d73a2cc2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/55/section/3) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)
+[^c-cfc14aa6752e90932cbaca66d73a2cc2]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/55/section/3) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)

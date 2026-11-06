@@ -47,7 +47,7 @@ In accordance with section 86(11) of the Ecclesiastical Jurisdiction and Care of
 
 The Fees Advisory Commission, in exercise of the powers conferred by section 86(3) to (4B) of that Measure[^f00002], makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-95568a5966225b94a749161af3ac3c88]
+## 1. Citation, commencement and interpretation[^c-95568a5966225b94a749161af3ac3c88]
 
 (1) This Order may be cited as the Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2025.
 
@@ -60,11 +60,11 @@ The Fees Advisory Commission, in exercise of the powers conferred by section 86(
 
 (4) In this Order, “**the 2018 Measure**” means the Ecclesiastical Jurisdiction and Care of Churches Measure 2018.
 
-## 2. Direction as to fee[^key-8015cad3611d09f9d1d81f36187c3561]
+## 2. Direction as to fee[^c-8015cad3611d09f9d1d81f36187c3561]
 
 Where in this Order there is a reference in any article to a specified amount of any fee payable to the chancellor or registrar, the chancellor or the registrar (as the case may be) may determine that a fee should be paid up to the amount specified in any case.
 
-## 3. Faculty fees payable to diocesan boards of finance[^key-a6a7a042e8f03279da00c29d4d80d13f]
+## 3. Faculty fees payable to diocesan boards of finance[^c-a6a7a042e8f03279da00c29d4d80d13f]
 
 (1) This article applies in relation to a petition for a faculty in respect of a building or part of a building, a curtilage of a building or an object or structure fixed to a building or part of a building or within its curtilage, which is subject to the faculty jurisdiction by virtue of section 43(1) of the 2018 Measure.
 
@@ -82,7 +82,7 @@ Where in this Order there is a reference in any article to a specified amount of
 
 (5) In this article, “**diocesan board of finance**”, in relation to a diocese, means the board of that name constituted under the Diocesan Boards of Finance Measure 1925[^f00003].
 
-## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^key-d8d19144ae611bf0649d5a4fee075304]
+## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^c-d8d19144ae611bf0649d5a4fee075304]
 
 (1) This article applies in relation to work done by a diocesan registrar in connection with—
 
@@ -94,7 +94,7 @@ Where in this Order there is a reference in any article to a specified amount of
 
 (3) The fee is payable by the person making the search or extract or requesting the copy.
 
-## 5. Proceedings before the consistory court[^key-049fb1ed854f3419e452864866d39c2c]
+## 5. Proceedings before the consistory court[^c-049fb1ed854f3419e452864866d39c2c]
 
 (1) This article applies in relation to proceedings in a consistory court.
 
@@ -140,7 +140,7 @@ Table 1
 - (a) a reference in this article to the chancellor is to be read as a reference to the Vicar-General, and
 - (b) a reference in this article to the registrar is to be read as a reference to the registrar of the province of Canterbury acting as registrar of the Vicar-General’s court.
 
-## 6. Appeals from consistory court and intervention by provincial court[^key-1cadb61144b94f1c06632a103850b686]
+## 6. Appeals from consistory court and intervention by provincial court[^c-1cadb61144b94f1c06632a103850b686]
 
 (1) This article applies in relation to proceedings on an appeal from a consistory court and where a provincial court gives any directions for the further conduct of proceedings which are pending in a consistory court.
 
@@ -179,7 +179,7 @@ Table 2
 
 (6) In this article, “**judge**” means the person presiding over the court concerned.
 
-## 7. Proceedings on review by Commission of Review[^key-7e27a119729024ea921db812b5e23bcc]
+## 7. Proceedings on review by Commission of Review[^c-7e27a119729024ea921db812b5e23bcc]
 
 (1) This article applies in relation to proceedings on a review under section 11 or 14 of the Care of Cathedrals Measure 2011[^f00008] (“**the 2011 Measure**”) by a Commission of Review constituted under section 11 of that Measure.
 
@@ -204,7 +204,7 @@ Table 3
 
 (4) In this article, “**judge**” means the person who is a member of the Commission of Review by virtue of section 11(3)(a) of the 2011 Measure.
 
-## 8. Proceedings in Vicar-General’s court[^key-1a453661a8881fd316368f06cdaf0ca2]
+## 8. Proceedings in Vicar-General’s court[^c-1a453661a8881fd316368f06cdaf0ca2]
 
 (1) This article applies in relation to proceedings before the Vicar-General’s court of either province under the Care of Cathedrals Measure 2011 (“**the 2011 Measure**”).
 
@@ -230,7 +230,7 @@ Table 4
 
 (4) In the case of a matter which comes within item 4, 5 or 7, the Vicar-General or the registrar (as the case may be) must certify the number of hours spent.
 
-## 9. Proceedings on certain ecclesiastical offences[^key-d10577208831c60fc515bef786ba48d2]
+## 9. Proceedings on certain ecclesiastical offences[^c-d10577208831c60fc515bef786ba48d2]
 
 (1) This article applies in relation to proceedings before the Court of Ecclesiastical Causes Reserved under section 10(1)(a) of the Ecclesiastical Jurisdiction Measure 1963 (offences against the laws ecclesiastical involving matter of doctrine, ritual or ceremonial).
 
@@ -254,7 +254,7 @@ Table 5
 
 (4) In the case of a matter which comes within item 3, 4 or 5, the registrar must certify the number of hours spent.
 
-## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^key-ed8cbfe588e6930c587666478d804fd3]
+## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^c-ed8cbfe588e6930c587666478d804fd3]
 
 (1) This article applies in relation to proceedings on a review by a Commission of Review under section 11 of the Ecclesiastical Jurisdiction Measure 1963 (“**the 1963 Measure**”) or section 19 of the 2018 Measure (review of a finding of the Court of Ecclesiastical Causes Reserved) where the provincial registrar is appointed as registrar of the Commission of Review.
 
@@ -280,7 +280,7 @@ Table 6
 
 (4) In the case of a matter which comes within item 3 or 4, the registrar must certify the number of hours spent.
 
-## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^key-8e6c87b29f0bf15c50e2e6593b7a72d9]
+## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^c-8e6c87b29f0bf15c50e2e6593b7a72d9]
 
 (1) This article applies in relation to proceedings instituted under section 10 of the Clergy Discipline Measure 2003[^f00010].
 
@@ -307,7 +307,7 @@ Table 7
 
 (5) In this article, “**judge**” means the person presiding over the tribunal or court concerned.
 
-## 12. Appeals under the Clergy Discipline Measure 2003[^key-39d8fde2b2facc552ec528b94c8259c5]
+## 12. Appeals under the Clergy Discipline Measure 2003[^c-39d8fde2b2facc552ec528b94c8259c5]
 
 (1) This article applies in relation to proceedings under section 20 of the Clergy Discipline Measure 2003 (right of appeal).
 
@@ -332,7 +332,7 @@ Table 8
 
 (4) In the case of a matter which comes within item 4 or 6, the Dean of the Arches and Auditor or the registrar (as the case may be) must certify the number of hours spent.
 
-## 13. Fees payable to person appointed under section 4(4) of the Clergy Discipline Measure 2003[^key-180c2123f73d5fe8c9661f973a06e0c0]
+## 13. Fees payable to person appointed under section 4(4) of the Clergy Discipline Measure 2003[^c-180c2123f73d5fe8c9661f973a06e0c0]
 
 (1) This article applies in the case of an appointment of a person by the President of Tribunals under section 4(4) of the Clergy Discipline Measure 2003 (“**the 2003 Measure**”) (appointment of person as chair of disciplinary tribunals to act when President unable or unwilling to act).
 
@@ -357,7 +357,7 @@ Table 8
 
 (4) A fee under this article is, by virtue of section 35 of the 2003 Measure, payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
 
-## 14. Summary election appeals[^key-e04f3c81fea58062c29bf82eb61caf07]
+## 14. Summary election appeals[^c-e04f3c81fea58062c29bf82eb61caf07]
 
 (1) This article applies in the case of a summary election appeal brought under—
 
@@ -371,7 +371,7 @@ Table 8
 
 (4) The judge determining the appeal must certify the number of hours spent determining it.
 
-## 15. Miscellaneous annual fees etc.[^key-6b827e9f1abe3b6165382718383d4e23]
+## 15. Miscellaneous annual fees etc.[^c-6b827e9f1abe3b6165382718383d4e23]
 
 (1) In the case of each matter specified in the first column of Table 9, the fee specified in the second column is payable to the person concerned.
 
@@ -390,7 +390,7 @@ Table 9
 
 (3) In the case of a matter which comes within item 5 or 6, a fee under this article is, by virtue of section 35 of the Clergy Discipline Measure 2003, payable by the Archbishops’ Council under section 62 of the Ecclesiastical Jurisdiction Measure 1963.
 
-## 16. Exemption, reduction or remission[^key-7be5ae267af83c9dd5c149dea19d10db]
+## 16. Exemption, reduction or remission[^c-7be5ae267af83c9dd5c149dea19d10db]
 
 (1) A person who would be entitled to an exemption from or reduction in, or a remission or part remission of, a fee prescribed by the Order for the time being in force under section 92 of the Courts Act 2003[^f00022] (“**the Civil Proceedings Fees Order**”) is entitled to an equivalent exemption from or reduction in, or remission or part remission of, a fee provided for by this Order; and the Civil Proceedings Fees Order applies accordingly for the purposes of this Order.
 
@@ -406,15 +406,15 @@ Table 9
 
 (7) In this article, “**diocesan board of finance**”, in relation to a diocese, means the board of that name constituted under the Diocesan Boards of Finance Measure 1925[^f00023]
 
-## 17. Travel, subsistence, accommodation and court hearings[^key-c982a7f31066836138a5e506d0ddf762]
+## 17. Travel, subsistence, accommodation and court hearings[^c-c982a7f31066836138a5e506d0ddf762]
 
 A fee provided for by this Order (other than the fee provided for under article 3) is to be increased by a sum for reasonable expenses of travel, subsistence, accommodation and the holding of court hearings.
 
-## 18. Value Added Tax[^key-96d39e1b222dfb1f3d852513d1bd8ecb]
+## 18. Value Added Tax[^c-96d39e1b222dfb1f3d852513d1bd8ecb]
 
 Where Value Added Tax is chargeable in respect of the provision of a service for which a fee is provided for by this Order, the amount of the Value Added Tax chargeable is payable in addition to that fee.
 
-## 19. Revocation[^key-a84c088a9d3939553ceef7632b15d2ab]
+## 19. Revocation[^c-a84c088a9d3939553ceef7632b15d2ab]
 
 The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2024[^f00024] is revoked.
 
@@ -494,47 +494,47 @@ The revised fees under this Order come into effect on 1st January 2026.
 
 [^f00002]: Footnote: Subsections (3A) and (4A) were inserted by section 4(1) of the Church of England (Miscellaneous Provisions) Measure [2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1) (“**the 2020 Measure**”). The provision which was subsection (4A), and which had been inserted by section 8(5) of the Church of England (Miscellaneous Provisions) Measure [2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), was renumbered as subsection (4B) by section 4(2) of the 2020 Measure.
 
-[^key-95568a5966225b94a749161af3ac3c88]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/1005/article/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-95568a5966225b94a749161af3ac3c88]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/1005/article/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-8015cad3611d09f9d1d81f36187c3561]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/1005/article/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-8015cad3611d09f9d1d81f36187c3561]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/1005/article/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-a6a7a042e8f03279da00c29d4d80d13f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/1005/article/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-a6a7a042e8f03279da00c29d4d80d13f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/1005/article/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00003]: Footnote: 15 & 16 Geo. 5 No. 3. Relevant amendments have been made by the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-d8d19144ae611bf0649d5a4fee075304]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/1005/article/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-d8d19144ae611bf0649d5a4fee075304]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/1005/article/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00004]: Footnote: [1986 No. 3](https://www.legislation.gov.uk/ukcm/1986/3).
 
 [^f00005]: Footnote: [S.I. 2009/1931](https://www.legislation.gov.uk/uksi/2009/1931).
 
-[^key-049fb1ed854f3419e452864866d39c2c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/1005/article/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-049fb1ed854f3419e452864866d39c2c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/1005/article/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00006]: Footnote: [2011 No. 3](https://www.legislation.gov.uk/ukcm/2011/3).
 
 [^f00007]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Relevant amendments have been made by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-1cadb61144b94f1c06632a103850b686]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/1005/article/6) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-1cadb61144b94f1c06632a103850b686]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/1005/article/6) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-7e27a119729024ea921db812b5e23bcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/1005/article/7) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-7e27a119729024ea921db812b5e23bcc]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/1005/article/7) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00008]: Footnote: [2011 No. 1](https://www.legislation.gov.uk/ukcm/2011/1).
 
-[^key-1a453661a8881fd316368f06cdaf0ca2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/1005/article/8) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-1a453661a8881fd316368f06cdaf0ca2]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/1005/article/8) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00009]: Footnote: Section 20B was inserted by paragraph 30 of Schedule 1 to the 2018 Measure.
 
-[^key-d10577208831c60fc515bef786ba48d2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2025/1005/article/9) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-d10577208831c60fc515bef786ba48d2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2025/1005/article/9) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-ed8cbfe588e6930c587666478d804fd3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2025/1005/article/10) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-ed8cbfe588e6930c587666478d804fd3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2025/1005/article/10) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-8e6c87b29f0bf15c50e2e6593b7a72d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2025/1005/article/11) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-8e6c87b29f0bf15c50e2e6593b7a72d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2025/1005/article/11) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00010]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-39d8fde2b2facc552ec528b94c8259c5]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2025/1005/article/12) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-39d8fde2b2facc552ec528b94c8259c5]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2025/1005/article/12) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-180c2123f73d5fe8c9661f973a06e0c0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2025/1005/article/13) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-180c2123f73d5fe8c9661f973a06e0c0]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2025/1005/article/13) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00011]: Footnote: Subsection (3A) was inserted by section 5(4) of the Clergy Discipline (Amendment) Measure [2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2).
 
@@ -548,7 +548,7 @@ The revised fees under this Order come into effect on 1st January 2026.
 
 [^f00016]: Footnote: Rule 14A was inserted by rule 2 of [S.I. 2016/848](https://www.legislation.gov.uk/uksi/2016/848).
 
-[^key-e04f3c81fea58062c29bf82eb61caf07]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2025/1005/article/14) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-e04f3c81fea58062c29bf82eb61caf07]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2025/1005/article/14) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00017]: Footnote: The rules currently in force are the Convocations (Election to Upper House) Rules 2020.
 
@@ -558,20 +558,20 @@ The revised fees under this Order come into effect on 1st January 2026.
 
 [^f00020]: Footnote: The applicable rules currently in force are rule 38(4) and (5) of the Convocations (Election to Upper House) Rules 2020, rule 64(4) and (5) of the Clergy Election Rules 2020 and rule 45(4) and (5) of the House of Laity Election Rules 2020.
 
-[^key-6b827e9f1abe3b6165382718383d4e23]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2025/1005/article/15) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-6b827e9f1abe3b6165382718383d4e23]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2025/1005/article/15) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00021]: Footnote: [1967 No. 3](https://www.legislation.gov.uk/ukcm/1967/3).
 
-[^key-7be5ae267af83c9dd5c149dea19d10db]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2025/1005/article/16) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-7be5ae267af83c9dd5c149dea19d10db]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2025/1005/article/16) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00022]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Relevant amendments have been made by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). The Order currently in force under section 92 is the Civil Proceedings Fees Order 2008 ([S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053)) and the relevant provision of that Order is Schedule 2, as substituted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302) and amended by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590), [S.I. 2014/1834](https://www.legislation.gov.uk/uksi/2014/1834), [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211), [S.I. 2016/1191](https://www.legislation.gov.uk/uksi/2016/1191) and [S.I. 2017/422](https://www.legislation.gov.uk/uksi/2017/422).
 
 [^f00023]: Footnote: 15 & 16 Geo. 5 No. 3. Relevant amendments have been made by the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-c982a7f31066836138a5e506d0ddf762]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2025/1005/article/17) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-c982a7f31066836138a5e506d0ddf762]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2025/1005/article/17) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-96d39e1b222dfb1f3d852513d1bd8ecb]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2025/1005/article/18) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-96d39e1b222dfb1f3d852513d1bd8ecb]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2025/1005/article/18) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
-[^key-a84c088a9d3939553ceef7632b15d2ab]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2025/1005/article/19) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
+[^c-a84c088a9d3939553ceef7632b15d2ab]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2025/1005/article/19) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1005/article/1/2)
 
 [^f00024]: Footnote: [S.I. 2024/814](https://www.legislation.gov.uk/uksi/2024/814).

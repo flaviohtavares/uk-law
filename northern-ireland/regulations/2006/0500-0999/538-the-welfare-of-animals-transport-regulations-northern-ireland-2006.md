@@ -45,18 +45,18 @@ The Department of Agriculture and Rural Development[^f00001], being designated f
 
 ## PART I — INTRODUCTION
 
-### 1. Title and commencement[^key-d690aa120fde52b00d1966c1524c93fb]
+### 1. Title and commencement[^c-d690aa120fde52b00d1966c1524c93fb]
 
 These Regulations may be cited as the Welfare of Animals (Transport) Regulations (Northern Ireland) 2006 and shall come into operation on 5th January 2007.
 
-### 2. Interpretation[^key-6339cc5c563cd67bb0632834de9f7c61]
+### 2. Interpretation[^c-6339cc5c563cd67bb0632834de9f7c61]
 
 (1) In these Regulations—
 
-- “animal” means all vertebrate and cold-blooded invertebrate animals;[^key-ebddb6f4861a4ce0924636e5690b0f3f]
-- “Council Regulation 1/2005” means Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and [93/119/EC](https://www.legislation.gov.uk/european/directive/1993/0119) and Regulation[^key-67da0bfa09cf3e3a0ba8f486baec16af] [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) [^f00003];
-- “Council Regulation 1255/97” means Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628) , as last amended by Council Regulation[^key-5617a8de9cafc4f9a9a550ea0cdcb1af] [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) [^f00004];
-- “inspector” means a person appointed to be an inspector for the purposes of these Regulations by the Department;[^key-a90968ac3674f2968f8dea67da76b23e]
+- “animal” means all vertebrate and cold-blooded invertebrate animals;[^c-ebddb6f4861a4ce0924636e5690b0f3f]
+- “Council Regulation 1/2005” means Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and [93/119/EC](https://www.legislation.gov.uk/european/directive/1993/0119) and Regulation[^c-67da0bfa09cf3e3a0ba8f486baec16af] [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) [^f00003];
+- “Council Regulation 1255/97” means Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628) , as last amended by Council Regulation[^c-5617a8de9cafc4f9a9a550ea0cdcb1af] [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) [^f00004];
+- “inspector” means a person appointed to be an inspector for the purposes of these Regulations by the Department;[^c-a90968ac3674f2968f8dea67da76b23e]
 - “the Council Regulations” mean both Council Regulation 1/2005 and Council Regulation 1255/97;
 - “the Department” means the Department of Agriculture and Rural Development for Northern Ireland;
 - “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981.
@@ -65,13 +65,13 @@ These Regulations may be cited as the Welfare of Animals (Transport) Regulations
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 3. Extension of the definition of “animals”[^key-bb08e4ae6bc3ba65d4f342086b626666]
+### 3. Extension of the definition of “animals”[^c-bb08e4ae6bc3ba65d4f342086b626666]
 
-For the purposes of the Diseases of Animals (Northern Ireland) Order 1981, in its application to these Regulations, the definitions of animals and poultry in Part I and Part II[^key-2596f3d5ad37c327c3fbc5885b09ff0c] of Schedule 1 to that Order are extended to cover all vertebrates and cold-blooded invertebrate animals.
+For the purposes of the Diseases of Animals (Northern Ireland) Order 1981, in its application to these Regulations, the definitions of animals and poultry in Part I and Part II[^c-2596f3d5ad37c327c3fbc5885b09ff0c] of Schedule 1 to that Order are extended to cover all vertebrates and cold-blooded invertebrate animals.
 
 ## PART II — TRANSPORT OF ANIMALS
 
-### 4. General provision on the protection of animals in transport[^key-f6a7e7d13e0ff4a6221ded0c34fc609b]
+### 4. General provision on the protection of animals in transport[^c-f6a7e7d13e0ff4a6221ded0c34fc609b]
 
 (1) It is an offence to transport any animal in a way which causes, or is likely to cause, injury or unnecessary suffering to that animal.
 
@@ -81,7 +81,7 @@ For the purposes of the Diseases of Animals (Northern Ireland) Order 1981, in it
 
 (4) This regulation applies to the transport of vertebrate animals except those to which Council Regulation 1/2005 applies.
 
-### 5. Transport[^key-4ad3ca24be9b9fb5f00ddabb83b32bde]
+### 5. Transport[^c-4ad3ca24be9b9fb5f00ddabb83b32bde]
 
 (1) A person who fails to comply with the any of the following provisions of Council Regulation 1/2005 is guilty of an offence—
 
@@ -99,7 +99,7 @@ For the purposes of the Diseases of Animals (Northern Ireland) Order 1981, in it
 
 (4) A person who fails to comply with paragraphs (2) or (3) is guilty of an offence.
 
-### 6. Transporters[^key-fc3f2e873660a9b1ffcb6c5589e6db00]
+### 6. Transporters[^c-fc3f2e873660a9b1ffcb6c5589e6db00]
 
 A transporter who fails to comply with the following provisions of Council Regulation 1/2005 is guilty of an offence—
 
@@ -111,7 +111,7 @@ A transporter who fails to comply with the following provisions of Council Regul
   - (ii) for all means of transport by road as from 1 January 2009;
 - (e) Article 12 (limitation on applications for authorisation).
 
-### 7. Roll-on-roll-off vessels[^key-8c729f768a6067460a5e7da1264e1414]
+### 7. Roll-on-roll-off vessels[^c-8c729f768a6067460a5e7da1264e1414]
 
 (1) A master of a roll-on-roll-off vessel who fails to comply with point 3.1 of Chapter II of Annex I to Council Regulation 1/2005 (Chapter II relates to additional provisions for transport on roll-on-roll-off vessels) is guilty of an offence.
 
@@ -119,19 +119,19 @@ A transporter who fails to comply with the following provisions of Council Regul
 
 (3) A person who fails to comply with paragraph (2) is guilty of an offence.
 
-### 8. Organisers[^key-4fb317d667f6751694a0fb7da1fca6d5]
+### 8. Organisers[^c-4fb317d667f6751694a0fb7da1fca6d5]
 
 An organiser who fails to comply with Article 5(3) and (4) of Council Regulation 1/2005 (Article 5 relates to planning obligations for the transport of animals) is guilty of an offence.
 
-### 9. Keepers[^key-e6d60b10ab269b410f81a8580c9fa83e]
+### 9. Keepers[^c-e6d60b10ab269b410f81a8580c9fa83e]
 
 A keeper who fails to comply with Article 8 of Council Regulation 1/2005 (keepers at places of departure, transfer or destination) is guilty of an offence.
 
-### 10. Assembly centres[^key-b3f2c908f408138c3797dbaca0e1db2e]
+### 10. Assembly centres[^c-b3f2c908f408138c3797dbaca0e1db2e]
 
 An operator of an assembly centre who fails to comply with Article 9 of Council Regulation 1/2005 (assembly centres) is guilty of an offence.
 
-### 11. Control posts[^key-d79d23d5fd9cb3e60b43d3b2c5b5b91a]
+### 11. Control posts[^c-d79d23d5fd9cb3e60b43d3b2c5b5b91a]
 
 (1) It is an offence for a person to operate a control post unless he is approved by the Department for that purpose.
 
@@ -145,26 +145,26 @@ An operator of an assembly centre who fails to comply with Article 9 of Council 
 
 ## PART III — DEROGATIONS FOR MEANS OF TRANSPORT BY ROAD ON JOURNEYS UNDER 12 HOURS
 
-### 12. Application[^key-a7d68a460bf670fa6a3cc6dbdc89e6c5]
+### 12. Application[^c-a7d68a460bf670fa6a3cc6dbdc89e6c5]
 
 In accordance with Article 18(4) of Council Regulation 1/2005, the derogations in this Part apply in respect of a means of transport by road used for a journey that does not exceed 12 hours in order to reach the final place of destination (“means of transport by road”).
 
-### 13. Derogation from inspection and approval[^key-b555ad2774f54ced885e15de087ff1f6]
+### 13. Derogation from inspection and approval[^c-b555ad2774f54ced885e15de087ff1f6]
 
 For the purposes of Article 18(1) of Council Regulation 1/2005, a means of transport by road used to transport animals other than domestic equidae or domestic animals of bovine, ovine, caprine or porcine species does not require a certificate of approval.
 
-### 14. Derogation from requirement for continuous access to water[^key-112a3d813eca975134b7109c3499539f]
+### 14. Derogation from requirement for continuous access to water[^c-112a3d813eca975134b7109c3499539f]
 
 For the purposes of point 1.4(b) of Chapter V of Annex I to Council Regulation 1/2005, during a journey pigs—
 
 - (a) do not require continuous access to water on a means of transport by road;
 - (b) shall be offered water at appropriate intervals and afforded an adequate opportunity to drink.
 
-### 15. Derogation from insulated roof requirements[^key-a0505f1c3694ea139db495b19dd10d54]
+### 15. Derogation from insulated roof requirements[^c-a0505f1c3694ea139db495b19dd10d54]
 
 For the purposes of point 1.1 of Chapter VI to Annex I of Council Regulation 1/2005, the roof on a means of transport by road does not require insulation.
 
-### 16. Derogation from temperature requirements[^key-486146c48fa5cc506bda286c094c463a]
+### 16. Derogation from temperature requirements[^c-486146c48fa5cc506bda286c094c463a]
 
 (1) For the purposes of point 3.1 of Chapter VI of Annex I to Council Regulation 1/2005, the temperature on a means of transport by road may fall below 0ºC during a journey—
 
@@ -175,24 +175,24 @@ For the purposes of point 1.1 of Chapter VI to Annex I of Council Regulation 1/2
 
 (3) A person who fails to comply with paragraph (2) shall be guilty of an offence.
 
-### 17. Derogation from ventilation system requirement[^key-874850ebd16e850dca2f0da015318fcc]
+### 17. Derogation from ventilation system requirement[^c-874850ebd16e850dca2f0da015318fcc]
 
 The ventilation system on a means of transport by road—
 
 - (a) does not require the capabilities described in point 3.2 of Chapter VI of Annex I to Council Regulation 1/2005;
 - (b) shall be capable of adjustment so as to ensure the requirements for temperatures set out in that point and in regulation 16(1) are maintained during the journey.
 
-### 18. Derogation from temperature monitoring requirements[^key-890cae15c66da570cb33c9f207e39111]
+### 18. Derogation from temperature monitoring requirements[^c-890cae15c66da570cb33c9f207e39111]
 
 The temperature monitoring, data recording and warning systems referred to in points 3.3 and 3.4 of Chapter VI of Annex I to Council Regulation 1/2005 are not required on a means of transport by road.
 
-### 19. Derogation from navigation system requirement[^key-c0df70f998d95a8ee6f33b25657db44f]
+### 19. Derogation from navigation system requirement[^c-c0df70f998d95a8ee6f33b25657db44f]
 
 The navigation system referred to in part 4.1 of Chapter VI of Annex I to Council Regulation 1/2005 is not required in a means of transport by road.
 
 ## PART IV — APPROVALS, AUTHORISATIONS, CERTIFICATES AND NOTICES
 
-### 20. The competent authority[^key-b6ae0ccd12bda504e9db7429f6e19a16]
+### 20. The competent authority[^c-b6ae0ccd12bda504e9db7429f6e19a16]
 
 The Department is the competent authority for the purposes of granting or issuing—
 
@@ -212,7 +212,7 @@ The Department is the competent authority for the purposes of granting or issuin
 - (g) requiring action in the event of non-compliance by transporters in accordance with Article 23;
 - (h) receiving notification from other competent authorities of non-compliance in accordance with Article 26(2) and (3);
 - (i) taking action in the event of infringements in accordance with Article 26;
-- (j)[^key-86aa7be22681562e442280b65dcce6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-86aa7be22681562e442280b65dcce6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) approving classification societies in accordance with point 1 of Chapter IV of Annex I.
 
 (3) The Department is the competent authority for the purposes of—
@@ -227,7 +227,7 @@ The Department is the competent authority for the purposes of granting or issuin
 
 and for designating bodies in accordance with Articles 17(2), 18(1) and 19(1) of Council Regulation 1/2005.
 
-### 21. Approvals, authorisations, certificates and notices[^key-df0e32faf6813edd2ace60fbeef788eb]
+### 21. Approvals, authorisations, certificates and notices[^c-df0e32faf6813edd2ace60fbeef788eb]
 
 Any approval, authorisation, certificate or notice issued under these Regulations or the Council Regulations as the case may be—
 
@@ -235,7 +235,7 @@ Any approval, authorisation, certificate or notice issued under these Regulation
 - (b) may be made subject to conditions; and
 - (c) may be amended, suspended or revoked at any time.
 
-### 22. Suspension, amendment or revocation of approvals etc[^key-35dfdd71060e1b3340733725e7ab63df]
+### 22. Suspension, amendment or revocation of approvals etc[^c-35dfdd71060e1b3340733725e7ab63df]
 
 (1) The Department, may, by notice, suspend or amend an approval, authorisation, certificate of approval or certificate of competence if it is satisfied that any of the conditions under which it was granted or of any provision of these Regulations or the Council Regulations have been breached.
 
@@ -255,7 +255,7 @@ Any approval, authorisation, certificate or notice issued under these Regulation
 
 (7) A person who fails to comply with the conditions of an approval, authorisation, certificate of approval, certificate of competence or notice is guilty of an offence.
 
-### 23. Representations to an appointed person[^key-8ee445e76f78aa5359efcb41f760a536]
+### 23. Representations to an appointed person[^c-8ee445e76f78aa5359efcb41f760a536]
 
 (1) A person may make written representations against a refusal, condition, suspension, amendment or revocation of an approval, authorisation or certificate to a person appointed for the purpose by the Department.
 
@@ -269,17 +269,17 @@ Any approval, authorisation, certificate or notice issued under these Regulation
 
 ## PART V — MISCELLANEOUS
 
-### 24. Powers of inspectors[^key-a3accf693ed95eb33e12ef67f0bb0e53]
+### 24. Powers of inspectors[^c-a3accf693ed95eb33e12ef67f0bb0e53]
 
 (1) The following provisions of the 1981 Order shall apply as if these Regulations were an order made under the 1981 Order—
 
 - (a) Article 46 (general powers of inspectors);
-- (b) Article 46A (powers of inspectors relating to assimilated[^key-cd2dd74a1e6fe01460abdda5b97b0328][^key-2d664934d6a093940c67066b3626aa2a] law or Protocol obligations); and
+- (b) Article 46A (powers of inspectors relating to assimilated[^c-cd2dd74a1e6fe01460abdda5b97b0328][^c-2d664934d6a093940c67066b3626aa2a] law or Protocol obligations); and
 - (c) Article 48 (powers to detain vessels and aircraft).
 
 (2) An inspector may, if he considers animals are being transported, or are about to be transported, in a way which contravenes any provision of these Regulations or the Council Regulations, serve a notice on the person appearing to him to be in charge of the animals requiring that person to take any action necessary to ensure compliance with these Regulations or the Council Regulations, giving reasons for the requirements.
 
-(3) [^key-c4d4960405e537b4dbc360b355e3d91d]... A notice under paragraph (2)[^key-7dd308f34b1bcc8117314640909202ab] may in particular—
+(3) [^c-c4d4960405e537b4dbc360b355e3d91d]... A notice under paragraph (2)[^c-7dd308f34b1bcc8117314640909202ab] may in particular—
 
 - (a) prohibit the transport of the animals, either indefinitely or for a period specified in the notice;
 - (b) specify conditions under which the animals may be transported;
@@ -295,26 +295,26 @@ Any approval, authorisation, certificate or notice issued under these Regulation
 
 (6) An inspector may serve on the owner, or any person appearing to him to be in charge of a control post, a notice requiring him to take any action the inspector reasonably considers necessary to ensure compliance with, or remedy any infringement of, Council Regulation 1255/97.
 
-(7) In particular, a notice under paragraph (6)[^key-4d3d0206780f848df568f9516b696a6b] [^key-1fc0beac5f480a797ff41e168e3c4cf8]...may—
+(7) In particular, a notice under paragraph (6)[^c-4d3d0206780f848df568f9516b696a6b] [^c-1fc0beac5f480a797ff41e168e3c4cf8]...may—
 
 - (a) require one or more animals at a control post to be removed from the control post;
 - (b) specify conditions under which animals may remain there.
 
 (8) In deciding whether to serve a notice under this regulation, an inspector may take into account any previous failure to comply with any provision of these Regulations or of any other order made under Articles 21, 22, 23 or 23A of the 1981 Order or point 8 of Annex II to Council Regulation 1/2005 (return of documents after completion of journey).
 
-(9)[^key-26bc51a251e6d1edbc3ae98c6aea8537] A person who fails to comply with a notice served under paragraph (2) or (6) is guilty of an offence.
+(9)[^c-26bc51a251e6d1edbc3ae98c6aea8537] A person who fails to comply with a notice served under paragraph (2) or (6) is guilty of an offence.
 
-### 25. Powers of inspectors in case of default[^key-f5b4f561ef42e2e63c1abdcb1cd19aa8]
+### 25. Powers of inspectors in case of default[^c-f5b4f561ef42e2e63c1abdcb1cd19aa8]
 
 (1) Where a person fails to comply with a requirement of these Regulations, the Council Regulations or an approval, authorisation certificate or notice, an inspector may take any steps he considers necessary to ensure the requirement is met.
 
 (2) The person in default shall reimburse any reasonable expenses incurred by the Department in taking such steps and any such debt is recoverable summarily.
 
-### 26. Compliance with notices[^key-88fd34220197b1d229eaf8060ba42e98]
+### 26. Compliance with notices[^c-88fd34220197b1d229eaf8060ba42e98]
 
 A notice served under these Regulations shall be complied with at the expense of the person on whom it is served, except where otherwise provided in that notice.
 
-### 27. Production of plans[^key-924991c93e021b743aca405e31778cf0]
+### 27. Production of plans[^c-924991c93e021b743aca405e31778cf0]
 
 (1) The owner or charterer of any vessel to be used for the transport of animals shall—
 
@@ -323,9 +323,9 @@ A notice served under these Regulations shall be complied with at the expense of
 
 (2) A person is not obliged by virtue of paragraph (1) to provide any information which he cannot, with the exercise of reasonable diligence, obtain.
 
-(3)[^key-36f722d03835f68ec1e13849f463c6e3] Subject to paragraph (2), a person who fails to comply with paragraph (1) is guilty of an offence.
+(3)[^c-36f722d03835f68ec1e13849f463c6e3] Subject to paragraph (2), a person who fails to comply with paragraph (1) is guilty of an offence.
 
-### 28. Obstruction[^key-9497e2cf9b7d2c305c53929052db820a]
+### 28. Obstruction[^c-9497e2cf9b7d2c305c53929052db820a]
 
 (1) Any person who—
 
@@ -340,15 +340,15 @@ shall be guilty of an offence.
 
 (2) Nothing in paragraph (1) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-### 29. Offences[^key-f8583f72b874ae0e6034a6d13a0f3fdc]
+### 29. Offences[^c-f8583f72b874ae0e6034a6d13a0f3fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Penalties[^key-f45febb6fd68889fa72428f1682823a1]
+### 30. Penalties[^c-f45febb6fd68889fa72428f1682823a1]
 
 A person guilty of an offence under these Regulations shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment not exceeding 3 months or to both.
 
-### 31. Revocations[^key-a40465a2fe459f7f2e9c728ea6521c24]
+### 31. Revocations[^c-a40465a2fe459f7f2e9c728ea6521c24]
 
 The following Orders are hereby revoked—
 
@@ -388,101 +388,101 @@ Owners or charterers of vessels used to transport animals are required to produc
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-d690aa120fde52b00d1966c1524c93fb]: Commencement: Reg. 1 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-d690aa120fde52b00d1966c1524c93fb]: Commencement: Reg. 1 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-6339cc5c563cd67bb0632834de9f7c61]: Commencement: Reg. 2 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-6339cc5c563cd67bb0632834de9f7c61]: Commencement: Reg. 2 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-ebddb6f4861a4ce0924636e5690b0f3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/32/regulation/4/a)
+[^c-ebddb6f4861a4ce0924636e5690b0f3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2007/32/regulation/4/a)
 
-[^key-67da0bfa09cf3e3a0ba8f486baec16af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/1/a)
+[^c-67da0bfa09cf3e3a0ba8f486baec16af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/1/a)
 
 [^f00003]: Footnote: O.J. No. L 3, 5.1.2005, p.1
 
-[^key-5617a8de9cafc4f9a9a550ea0cdcb1af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/1/b)
+[^c-5617a8de9cafc4f9a9a550ea0cdcb1af]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/1/b)
 
 [^f00004]: Footnote: O.J. No. L 174, 2.7.97, p.1
 
-[^key-a90968ac3674f2968f8dea67da76b23e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/32/regulation/4/b)
+[^c-a90968ac3674f2968f8dea67da76b23e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/538/regulation/2/1) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2007/32/regulation/4/b)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bb08e4ae6bc3ba65d4f342086b626666]: Commencement: Reg. 3 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-bb08e4ae6bc3ba65d4f342086b626666]: Commencement: Reg. 3 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-2596f3d5ad37c327c3fbc5885b09ff0c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2006/538/regulation/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [5](https://www.legislation.gov.uk/nisr/2007/32/regulation/5)
+[^c-2596f3d5ad37c327c3fbc5885b09ff0c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2006/538/regulation/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [5](https://www.legislation.gov.uk/nisr/2007/32/regulation/5)
 
-[^key-f6a7e7d13e0ff4a6221ded0c34fc609b]: Commencement: Reg. 4 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-f6a7e7d13e0ff4a6221ded0c34fc609b]: Commencement: Reg. 4 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-4ad3ca24be9b9fb5f00ddabb83b32bde]: Commencement: Reg. 5 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-4ad3ca24be9b9fb5f00ddabb83b32bde]: Commencement: Reg. 5 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-fc3f2e873660a9b1ffcb6c5589e6db00]: Commencement: Reg. 6 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-fc3f2e873660a9b1ffcb6c5589e6db00]: Commencement: Reg. 6 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-8c729f768a6067460a5e7da1264e1414]: Commencement: Reg. 7 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-8c729f768a6067460a5e7da1264e1414]: Commencement: Reg. 7 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-4fb317d667f6751694a0fb7da1fca6d5]: Commencement: Reg. 8 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-4fb317d667f6751694a0fb7da1fca6d5]: Commencement: Reg. 8 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-e6d60b10ab269b410f81a8580c9fa83e]: Commencement: Reg. 9 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-e6d60b10ab269b410f81a8580c9fa83e]: Commencement: Reg. 9 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-b3f2c908f408138c3797dbaca0e1db2e]: Commencement: Reg. 10 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-b3f2c908f408138c3797dbaca0e1db2e]: Commencement: Reg. 10 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-d79d23d5fd9cb3e60b43d3b2c5b5b91a]: Commencement: Reg. 11 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-d79d23d5fd9cb3e60b43d3b2c5b5b91a]: Commencement: Reg. 11 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-a7d68a460bf670fa6a3cc6dbdc89e6c5]: Commencement: Reg. 12 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-a7d68a460bf670fa6a3cc6dbdc89e6c5]: Commencement: Reg. 12 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-b555ad2774f54ced885e15de087ff1f6]: Commencement: Reg. 13 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-b555ad2774f54ced885e15de087ff1f6]: Commencement: Reg. 13 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-112a3d813eca975134b7109c3499539f]: Commencement: Reg. 14 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-112a3d813eca975134b7109c3499539f]: Commencement: Reg. 14 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-a0505f1c3694ea139db495b19dd10d54]: Commencement: Reg. 15 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-a0505f1c3694ea139db495b19dd10d54]: Commencement: Reg. 15 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-486146c48fa5cc506bda286c094c463a]: Commencement: Reg. 16 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-486146c48fa5cc506bda286c094c463a]: Commencement: Reg. 16 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-874850ebd16e850dca2f0da015318fcc]: Commencement: Reg. 17 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-874850ebd16e850dca2f0da015318fcc]: Commencement: Reg. 17 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-890cae15c66da570cb33c9f207e39111]: Commencement: Reg. 18 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-890cae15c66da570cb33c9f207e39111]: Commencement: Reg. 18 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-c0df70f998d95a8ee6f33b25657db44f]: Commencement: Reg. 19 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-c0df70f998d95a8ee6f33b25657db44f]: Commencement: Reg. 19 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-b6ae0ccd12bda504e9db7429f6e19a16]: Commencement: Reg. 20 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-b6ae0ccd12bda504e9db7429f6e19a16]: Commencement: Reg. 20 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-86aa7be22681562e442280b65dcce6d8]: Textual amendment: [Reg. 20(2)(j)](https://www.legislation.gov.uk/nisr/2006/538/regulation/20/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/227/regulation/15)
+[^c-86aa7be22681562e442280b65dcce6d8]: Textual amendment: [Reg. 20(2)(j)](https://www.legislation.gov.uk/nisr/2006/538/regulation/20/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/227/regulation/15)
 
-[^key-df0e32faf6813edd2ace60fbeef788eb]: Commencement: Reg. 21 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-df0e32faf6813edd2ace60fbeef788eb]: Commencement: Reg. 21 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-35dfdd71060e1b3340733725e7ab63df]: Commencement: Reg. 22 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-35dfdd71060e1b3340733725e7ab63df]: Commencement: Reg. 22 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-8ee445e76f78aa5359efcb41f760a536]: Commencement: Reg. 23 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-8ee445e76f78aa5359efcb41f760a536]: Commencement: Reg. 23 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-a3accf693ed95eb33e12ef67f0bb0e53]: Commencement: Reg. 24 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-a3accf693ed95eb33e12ef67f0bb0e53]: Commencement: Reg. 24 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-cd2dd74a1e6fe01460abdda5b97b0328]: Textual amendment: Word in [reg. 24(1)(b)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 8](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/8)
+[^c-cd2dd74a1e6fe01460abdda5b97b0328]: Textual amendment: Word in [reg. 24(1)(b)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 8](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/8)
 
-[^key-2d664934d6a093940c67066b3626aa2a]: Textual amendment: Words in [reg. 24(1)(b)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [18](https://www.legislation.gov.uk/nisr/2020/324/regulation/18)
+[^c-2d664934d6a093940c67066b3626aa2a]: Textual amendment: Words in [reg. 24(1)(b)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [18](https://www.legislation.gov.uk/nisr/2020/324/regulation/18)
 
-[^key-c4d4960405e537b4dbc360b355e3d91d]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/3) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/a/i)
+[^c-c4d4960405e537b4dbc360b355e3d91d]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/3) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/a/i)
 
-[^key-7dd308f34b1bcc8117314640909202ab]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/a/ii)
+[^c-7dd308f34b1bcc8117314640909202ab]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/a/ii)
 
-[^key-4d3d0206780f848df568f9516b696a6b]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/7) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(b)(ii)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/b/ii)
+[^c-4d3d0206780f848df568f9516b696a6b]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/7) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(b)(ii)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/b/ii)
 
-[^key-1fc0beac5f480a797ff41e168e3c4cf8]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/7) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(b)(i)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/b/i)
+[^c-1fc0beac5f480a797ff41e168e3c4cf8]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/7) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(b)(i)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/b/i)
 
-[^key-26bc51a251e6d1edbc3ae98c6aea8537]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/9) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/c)
+[^c-26bc51a251e6d1edbc3ae98c6aea8537]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/nisr/2006/538/regulation/24/9) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2007/32/regulation/6/c)
 
-[^key-f5b4f561ef42e2e63c1abdcb1cd19aa8]: Commencement: Reg. 25 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-f5b4f561ef42e2e63c1abdcb1cd19aa8]: Commencement: Reg. 25 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-88fd34220197b1d229eaf8060ba42e98]: Commencement: Reg. 26 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-88fd34220197b1d229eaf8060ba42e98]: Commencement: Reg. 26 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-924991c93e021b743aca405e31778cf0]: Commencement: Reg. 27 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-924991c93e021b743aca405e31778cf0]: Commencement: Reg. 27 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-36f722d03835f68ec1e13849f463c6e3]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/27/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [7](https://www.legislation.gov.uk/nisr/2007/32/regulation/7)
+[^c-36f722d03835f68ec1e13849f463c6e3]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/nisr/2006/538/regulation/27/3) inserted (12.2.2007) by [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [7](https://www.legislation.gov.uk/nisr/2007/32/regulation/7)
 
-[^key-9497e2cf9b7d2c305c53929052db820a]: Commencement: Reg. 28 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-9497e2cf9b7d2c305c53929052db820a]: Commencement: Reg. 28 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-f8583f72b874ae0e6034a6d13a0f3fdc]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/538/regulation/29) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [8](https://www.legislation.gov.uk/nisr/2007/32/regulation/8)
+[^c-f8583f72b874ae0e6034a6d13a0f3fdc]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/538/regulation/29) omitted (12.2.2007) by virtue of [The Welfare of Animals (Transport) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/32)](https://www.legislation.gov.uk/nisr/2007/32), [regs. 1](https://www.legislation.gov.uk/nisr/2007/32/regulation/1), [8](https://www.legislation.gov.uk/nisr/2007/32/regulation/8)
 
-[^key-f45febb6fd68889fa72428f1682823a1]: Commencement: Reg. 30 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-f45febb6fd68889fa72428f1682823a1]: Commencement: Reg. 30 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
-[^key-a40465a2fe459f7f2e9c728ea6521c24]: Commencement: Reg. 31 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
+[^c-a40465a2fe459f7f2e9c728ea6521c24]: Commencement: Reg. 31 in operation at 5.1.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/538/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1997No. 346](https://www.legislation.gov.uk/nisr/1997/346)
 

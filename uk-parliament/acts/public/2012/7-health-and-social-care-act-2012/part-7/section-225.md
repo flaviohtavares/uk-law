@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Power to advise regulatory bodies, investigate complaints, etc.[^key-c69d844e1a27fd42f960ad8d0c22594b]
+## 225. Power to advise regulatory bodies, investigate complaints, etc.[^c-c69d844e1a27fd42f960ad8d0c22594b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c69d844e1a27fd42f960ad8d0c22594b]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2012/7/section/225) in force at 16.3.2015 by [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)
+[^c-c69d844e1a27fd42f960ad8d0c22594b]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2012/7/section/225) in force at 16.3.2015 by [S.I. 2015/409](https://www.legislation.gov.uk/uksi/2015/409), [art. 2](https://www.legislation.gov.uk/uksi/2015/409/article/2)

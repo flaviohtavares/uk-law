@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### 1. Interpretation[^key-dadeb364d1d50d100774831ae1c2d1d4]
+### 1. Interpretation[^c-dadeb364d1d50d100774831ae1c2d1d4]
 
 In this Schedule—
 
@@ -44,7 +44,7 @@ In this Schedule—
 - “**switch gear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure serving to transform electricity to a higher voltage.
 
-### 2. Authorised development[^key-56257a9ba476e779e19af0d2d351996e]
+### 2. Authorised development[^c-56257a9ba476e779e19af0d2d351996e]
 
 In the Districts of Braintree and Chelmsford City and in the County of Essex a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
@@ -91,7 +91,7 @@ and associated development within the meaning of section 115(2) (development for
 **Work No. 4—** works to lay high voltage electrical cables, access and temporary construction laydown areas for the electrical cables including—
 
 - (a) **Work No. 4A**—
-  - (i) works to lay electrical cables including up to two 400 kilovolt cable circuits[^key-fc0f0203b6c2abd738519d6f919d927a] connecting Work No. 3 to Work No. 5; and
+  - (i) works to lay electrical cables including up to two 400 kilovolt cable circuits[^c-fc0f0203b6c2abd738519d6f919d927a] connecting Work No. 3 to Work No. 5; and
   - (ii) laying down of internal access tracks, ramps, means of access, footpaths, roads, including the laying and construction of drainage infrastructure, signage and information boards; and
 - (b) **Work No. 4B—** temporary construction laydown areas.
 
@@ -182,8 +182,8 @@ In connection with and in addition to Work Nos. 1 to 10, further associated deve
 
 ## Annotations
 
-[^key-dadeb364d1d50d100774831ae1c2d1d4]: Commencement: Sch. 1 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-dadeb364d1d50d100774831ae1c2d1d4]: Commencement: Sch. 1 para. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-56257a9ba476e779e19af0d2d351996e]: Commencement: Sch. 1 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-56257a9ba476e779e19af0d2d351996e]: Commencement: Sch. 1 para. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-fc0f0203b6c2abd738519d6f919d927a]: Textual amendment: Words in Sch. 1 para. 2 substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [7](https://www.legislation.gov.uk/uksi/2026/397/article/7)
+[^c-fc0f0203b6c2abd738519d6f919d927a]: Textual amendment: Words in Sch. 1 para. 2 substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [7](https://www.legislation.gov.uk/uksi/2026/397/article/7)

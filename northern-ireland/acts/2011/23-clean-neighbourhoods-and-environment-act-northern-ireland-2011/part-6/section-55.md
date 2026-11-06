@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Fixed penalty notices: power to require name and address[^key-940bdcb649d6698e77d323b8f217de29]
+## 55. Fixed penalty notices: power to require name and address[^c-940bdcb649d6698e77d323b8f217de29]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-940bdcb649d6698e77d323b8f217de29]: Commencement: [S. 55](https://www.legislation.gov.uk/nia/2011/23/section/55) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-940bdcb649d6698e77d323b8f217de29]: Commencement: [S. 55](https://www.legislation.gov.uk/nia/2011/23/section/55) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

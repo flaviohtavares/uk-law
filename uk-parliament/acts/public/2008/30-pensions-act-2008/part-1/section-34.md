@@ -24,8 +24,8 @@ summary: ''
 
 (2) But nothing in the employer duty provisions or this Chapter affects any right of action arising apart from those provisions.
 
-(3) In this Chapter, references to the employer duty provisions are references to any provision of sections 2 to 11A[^key-ea49adefbf07298e799a3ad0ec20f6c9] or of regulations under those sections.
+(3) In this Chapter, references to the employer duty provisions are references to any provision of sections 2 to 11A[^c-ea49adefbf07298e799a3ad0ec20f6c9] or of regulations under those sections.
 
 ## Annotations
 
-[^key-ea49adefbf07298e799a3ad0ec20f6c9]: Textual amendment: Word in [s. 34(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/34/3) substituted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 125(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/125/3), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-ea49adefbf07298e799a3ad0ec20f6c9]: Textual amendment: Word in [s. 34(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/34/3) substituted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 125(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/125/3), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

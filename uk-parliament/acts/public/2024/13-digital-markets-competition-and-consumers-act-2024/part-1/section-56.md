@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Commitments[^key-2f37245c03ab161c1c291ad3b8a8d259][^key-55977e116f2476725d17fbe764d911ec]
+## 56. Commitments[^c-2f37245c03ab161c1c291ad3b8a8d259][^c-55977e116f2476725d17fbe764d911ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f37245c03ab161c1c291ad3b8a8d259]: Commencement: S. 56 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2f37245c03ab161c1c291ad3b8a8d259]: Commencement: S. 56 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-55977e116f2476725d17fbe764d911ec]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2024/13/section/56) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-55977e116f2476725d17fbe764d911ec]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2024/13/section/56) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

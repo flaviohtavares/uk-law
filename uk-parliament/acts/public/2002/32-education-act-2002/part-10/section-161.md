@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Determination of applications for registration[^key-a92b2037e8cb2a76ed126cdc86700626][^key-8d630bc41d1059ae711d5cb68938f551]
+## 161. Determination of applications for registration[^c-a92b2037e8cb2a76ed126cdc86700626][^c-8d630bc41d1059ae711d5cb68938f551]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ determine whether those standards are met, and are likely to continue to be met,
 
 ## Annotations
 
-[^key-a92b2037e8cb2a76ed126cdc86700626]: Commencement: S. 161 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-a92b2037e8cb2a76ed126cdc86700626]: Commencement: S. 161 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-8d630bc41d1059ae711d5cb68938f551]: Commencement: S. 161 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-8d630bc41d1059ae711d5cb68938f551]: Commencement: S. 161 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)

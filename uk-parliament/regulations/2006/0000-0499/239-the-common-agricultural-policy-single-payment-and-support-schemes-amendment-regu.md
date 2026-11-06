@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2006 (revoked)[^key-670d10e3134c3c9cd8b64d02687b30b9]
+The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2006 (revoked)[^c-670d10e3134c3c9cd8b64d02687b30b9]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 2nd March 2006
 
-[^key-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-670d10e3134c3c9cd8b64d02687b30b9]
+## 1. Title, commencement and interpretation[^c-670d10e3134c3c9cd8b64d02687b30b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-670d10e3134c3c9cd8b64d02687b30b9]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-670d10e3134c3c9cd8b64d02687b30b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Substitution of regulation 6 of the principal Regulations[^key-670d10e3134c3c9cd8b64d02687b30b9]
+## 3. Substitution of regulation 6 of the principal Regulations[^c-670d10e3134c3c9cd8b64d02687b30b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-670d10e3134c3c9cd8b64d02687b30b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-670d10e3134c3c9cd8b64d02687b30b9]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/c)
+[^c-670d10e3134c3c9cd8b64d02687b30b9]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/c)

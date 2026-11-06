@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Duty to consider whether to review local development plan[^c22542641][^key-3addfe6eb1ad893f00ce362e9c8e3ec9]
+## 8. Duty to consider whether to review local development plan[^c22542641][^c-3addfe6eb1ad893f00ce362e9c8e3ec9]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c22542641]: Commencement: S. 8 partly in force; s. 8 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-3addfe6eb1ad893f00ce362e9c8e3ec9]: Commencement: S. 8 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-3addfe6eb1ad893f00ce362e9c8e3ec9]: Commencement: S. 8 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

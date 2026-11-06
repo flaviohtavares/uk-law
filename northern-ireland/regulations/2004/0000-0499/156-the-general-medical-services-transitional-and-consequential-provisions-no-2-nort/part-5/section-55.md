@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Interpretation of this Part[^key-098ae9103a0f7dbbe5ed55647d0e0f3d]
+## 55. Interpretation of this Part[^c-098ae9103a0f7dbbe5ed55647d0e0f3d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ and terms used shall bear the same meaning in this Part that they have in the Re
 
 ## Annotations
 
-[^key-098ae9103a0f7dbbe5ed55647d0e0f3d]: Commencement: Art. 55 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-098ae9103a0f7dbbe5ed55647d0e0f3d]: Commencement: Art. 55 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

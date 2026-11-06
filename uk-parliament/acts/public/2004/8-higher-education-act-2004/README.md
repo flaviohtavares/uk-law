@@ -34,7 +34,7 @@ An Act to make provision about research in the arts and humanities and about com
 
 \[1st July 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3acff0b96799687e495289f45969d209][^key-f5650b7ab9eeb68a0ff35ac822ce3ce0][^key-cb4671259dc3ac5e777cec3bab66fae0]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3acff0b96799687e495289f45969d209][^c-f5650b7ab9eeb68a0ff35ac822ce3ce0][^c-cb4671259dc3ac5e777cec3bab66fae0]
 
 ## Contents
 
@@ -145,8 +145,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3acff0b96799687e495289f45969d209]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-3acff0b96799687e495289f45969d209]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [reg. 1](https://www.legislation.gov.uk/uksi/2005/397/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-f5650b7ab9eeb68a0ff35ac822ce3ce0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
+[^c-f5650b7ab9eeb68a0ff35ac822ce3ce0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2), [125(1)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/1/b)
 
-[^key-cb4671259dc3ac5e777cec3bab66fae0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-cb4671259dc3ac5e777cec3bab66fae0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/8) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)

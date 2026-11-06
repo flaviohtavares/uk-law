@@ -45,15 +45,15 @@ Coming into force
 
 Whereas the Secretary of State has consulted pursuant to section 7(1) of the Mineral Workings (Offshore Installations) Act 1971[^f00001] (hereinafter referred to as “the 1971 Act”) with organisations in the United Kingdom appearing to him to be representative of those persons who will be affected by the following Regulations;
 
-Now, therefore, the Secretary of State, in exercise of his powers under sections 6 and 7 of, and paragraphs 1 and 6 of the Schedule to, the 1971 Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-0677798c6f28c995e5f8b3bf55c62809]
+Now, therefore, the Secretary of State, in exercise of his powers under sections 6 and 7 of, and paragraphs 1 and 6 of the Schedule to, the 1971 Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-0677798c6f28c995e5f8b3bf55c62809]
 
 ## PRELIMINARY
 
-### 1. Citation and commencement[^key-8c83123e386775f6637eaa12855309ff]
+### 1. Citation and commencement[^c-8c83123e386775f6637eaa12855309ff]
 
 These Regulations may be cited as the Offshore Installations (Safety Representatives and Safety Committees) Regulations 1989 and shall come into force on 18th September 1989.
 
-### 2. Interpretation[^key-ea39d3c2664da9fcfe2d51213e5273d1]
+### 2. Interpretation[^c-ea39d3c2664da9fcfe2d51213e5273d1]
 
 In these Regulations–
 
@@ -68,7 +68,7 @@ In these Regulations–
 - “a week” means any period of seven days;
 - “workforce” includes every person who is for the time being working on or from an offshore installation under a contract of service or a contract for services, other than the installation manager, a body corporate or an unincorporated body of persons.
 
-### 3. Application[^key-dbb8deef39e5f664ad4c844e4af08893]
+### 3. Application[^c-dbb8deef39e5f664ad4c844e4af08893]
 
 These Regulations shall apply to an offshore installation, not being a dredging installation registered in the United Kingdom or elsewhere, which–
 
@@ -77,11 +77,11 @@ These Regulations shall apply to an offshore installation, not being a dredging 
 
 ## ELECTION OF SAFETY REPRESENTATIVES ETC.
 
-### 4. Safety representatives[^key-0de5e4e6b1cddebe26d707578b7a3b25]
+### 4. Safety representatives[^c-0de5e4e6b1cddebe26d707578b7a3b25]
 
 The workforce shall be entitled to nominate and elect safety representatives in accordance with the following provisions of these Regulations.
 
-### 5. Constituencies[^key-0751413d734629d628f6fda7a8e39655]
+### 5. Constituencies[^c-0751413d734629d628f6fda7a8e39655]
 
 (1) The installation manager shall establish and thereafter, in consultation with any safety committee established in accordance with regulation 19 below, maintain for the purposes of these Regulations a system of constituencies, which shall be established by reference to one or more of the following factors–
 
@@ -109,7 +109,7 @@ The workforce shall be entitled to nominate and elect safety representatives in 
 
 (7) Where an installation manager proposes to establish a constituency and there is in existence on the installation a safety committee established under regulation 19 below, paragraphs (4)(b), (5) and (6) above shall not apply but the installation manager shall consult the safety committee and if the constituency is intended to be comprised exclusively of persons employed by the same employer, that employer.
 
-### 6. Membership of constituency[^key-28a27e543962c88cec7daf44e4b2a1b5]
+### 6. Membership of constituency[^c-28a27e543962c88cec7daf44e4b2a1b5]
 
 (1) The installation manager shall as soon as practicable ensure that every member of the workforce is assigned to a constituency established under regulation 5 above.
 
@@ -117,11 +117,11 @@ The workforce shall be entitled to nominate and elect safety representatives in 
 
 (3) Paragraphs (1) and (2) above shall not apply to any member of the workforce who at no time while on the offshore installation is expected to remain thereon for any period longer than forty-eight hours.
 
-### 7. Elections[^key-a3e23515555be0315f66f1ba8e2bea5e]
+### 7. Elections[^c-a3e23515555be0315f66f1ba8e2bea5e]
 
 Subject to regulation 15 below, the members of the workforce assigned to a constituency may elect one safety representative in accordance with the provisions of regulations 8 to 13 below.
 
-### 8. Nominations[^key-541b62ed3a24f9ea1f9cf6f78b9a9308]
+### 8. Nominations[^c-541b62ed3a24f9ea1f9cf6f78b9a9308]
 
 As soon as practicable after–
 
@@ -131,20 +131,20 @@ As soon as practicable after–
 
 the installation manager shall ensure that a notice in appropriate languages is posted at suitable places as prescribed in regulation 5(4) above and that an election is to take place in relation to the constituency in question, with details of the members of that constituency; and he shall invite the nomination of candidates for election to be made to him during the prescribed period commencing with the date of posting of the notice.
 
-### 9. Candidates[^key-5c93550ac08c890b752e35678fdd9421]
+### 9. Candidates[^c-5c93550ac08c890b752e35678fdd9421]
 
 (1) A person shall be eligible to be a candidate for election as the safety representative for a constituency if the installation manager is satisfied that he is a member of that constituency, that he is willing to stand as a candidate for the constituency, that he has been nominated by a second member of the constituency, and that his nomination has been seconded by a third member.
 
 (2) The installation manager shall provide every person who is eligible to be a candidate with reasonable facilities to enable him to promote his election campaign.
 
-### 10. List of candidates[^key-8dcbffd8f1304efa451bfd1f1d1a273d]
+### 10. List of candidates[^c-8dcbffd8f1304efa451bfd1f1d1a273d]
 
 After the expiry of the period allowed for nominations under regulation 8 above and within one week from that date, the installation manager shall ensure that there is displayed in appropriate languages at suitable places as prescribed in regulation 5(4) above–
 
 - (a) a list of duly nominated candidates; or
 - (b) if no candidate has been duly nominated, notice of the existence of a vacancy.
 
-### 11. Secret ballot[^key-b2e9d599ced6d7a9bbce184f1b2bf32d]
+### 11. Secret ballot[^c-b2e9d599ced6d7a9bbce184f1b2bf32d]
 
 (1) If in any constituency more than one candidate is duly nominated, the installation manager shall, throughout the prescribed period commencing with the expiry of the one week period specified in regulation 10 above, conduct a secret ballot in which each member of that constituency shall be entitled to vote for one candidate in the constituency.
 
@@ -152,21 +152,21 @@ After the expiry of the period allowed for nominations under regulation 8 above 
 
 (3) The installation manager or the installation owner shall comply with any directions given by the Secretary of State under paragraph (2) above.
 
-### 12. Results[^key-341eeb57bbd8162c689cf84cdb6961ee]
+### 12. Results[^c-341eeb57bbd8162c689cf84cdb6961ee]
 
 The installation manager shall–
 
 - (a) ensure that within one week from the expiry of the election period prescribed in regulation 11(1) above or specified under regulation 11(2) above a notice in appropriate languages is posted at suitable places as prescribed in regulation 5(4) above certifying the result of the ballot or, in the case of a constituency for which only one candidate has been duly nominated, declaring that candidate to be the safety representative for that constituency; and
 - (b) as soon as is practicable thereafter issue to every person elected to be a safety representative a document signed and dated by him which certifies the date on which the person was elected, the name of the person’s employer (if any), the name or other designation of the offshore installation and a description which is sufficient to identify the constituency he represents.
 
-### 13. No candidate[^key-763fad18e45855473f924b31f42543a6]
+### 13. No candidate[^c-763fad18e45855473f924b31f42543a6]
 
 If in any constituency no candidate has been nominated in accordance with regulation 9 above and no safety representative holds that position by virtue of regulation 15 below–
 
 - (a) the installation manager shall, until a candidate has been so nominated or a safety representative holds that position under the said regulation 15, keep and update at monthly intervals a list of members for the time being of the constituency and the latest copy of the list shall be posted at suitable places as prescribed in regulation 5(4) above on the installation; and
 - (b) the installation manager shall record those facts in the installation logbook, and if an eligible candidate is subsequently nominated in accordance with regulation 9 above the installation manager shall arrange for an election to be held for the constituency, in accordance with the foregoing provisions of these Regulations concerning elections.
 
-### 14. Cessation of representation[^key-3c6dc3381cc68a0d126494fdcc764791]
+### 14. Cessation of representation[^c-3c6dc3381cc68a0d126494fdcc764791]
 
 A person shall cease to be a safety representative for the purposes of these Regulations–
 
@@ -175,7 +175,7 @@ A person shall cease to be a safety representative for the purposes of these Reg
 - (c) if his employment is terminated, or
 - (d) if he has been absent from the installation for which he is a safety representative for a continuous period of twelve weeks.
 
-### 15. Safety representatives for single employer constituencies[^key-0171a7eb3519c3f0ddb29bba15f32a35]
+### 15. Safety representatives for single employer constituencies[^c-0171a7eb3519c3f0ddb29bba15f32a35]
 
 (1) Where a person has not more than two years previously been elected in accordance with the foregoing provisions of these Regulations as a safety representative on an offshore installation for a constituency, the members of which were exclusively the employees of his present employer, he may, subject to paragraphs (2) and (3) below, continue to hold that position without re-election as a safety representative for a constituency, the members of which are exclusively employees of his present employer, on any other offshore installation on which he is subsequently a member of the workforce.
 
@@ -183,7 +183,7 @@ A person shall cease to be a safety representative for the purposes of these Reg
 
 (3) No person shall hold a position as a safety representative under paragraph (1) above on more than one offshore installation at any time unless the installations are for the time being normally linked by a bridge.
 
-### 16. Functions of safety representatives[^key-289b6b1491a52c2a78a1a86b46e6ea4b]
+### 16. Functions of safety representatives[^c-289b6b1491a52c2a78a1a86b46e6ea4b]
 
 Each safety representative shall have the following functions–
 
@@ -197,7 +197,7 @@ Each safety representative shall have the following functions–
 
 but no function conferred on a safety representative by this regulation shall be construed as imposing a duty on him.
 
-### 17. Powers of safety representatives[^key-d43f3daecb85dcd6e2bf162de16950d4]
+### 17. Powers of safety representatives[^c-d43f3daecb85dcd6e2bf162de16950d4]
 
 (1) To enable him to fulfil his functions under regulation 16 above, a safety representative may exercise the powers set out in paragraphs (2), (3), (4)(b) and (5) of this regulation and he may seek advice and guidance whether from persons on the offshore installation or elsewhere on any matters arising out of regulation 16 above and regulation 22 below, as appropriate.
 
@@ -228,11 +228,11 @@ a safety representative may inspect the part of the installation or the equipmen
 
 (6) In this regulation, “notifiable incident” means any casualty, accident, injury or disease which is required to be notified by the installation owner or the installation manager under regulation 9 or 12 of the Offshore Installations (Inspectors and Casualties) Regulations 1973[^f00004].
 
-### 18. Documents[^key-f69381f1c86c8e64de55b724d1441220]
+### 18. Documents[^c-f69381f1c86c8e64de55b724d1441220]
 
-A safety representative shall subject to regulation 18A(2)(a) below[^key-7cf268eb94d22577cb1c2ff1726490ce] be entitled to see and be supplied, by or on behalf of the installation manager, with copies of any document relating to the occupational health and safety at work of the workforce which is required by any statutory provision to be kept on the offshore installation, except a document consisting of or relating to any health record of an identifiable individual or a safety case or revision to which regulation 18A below applies.
+A safety representative shall subject to regulation 18A(2)(a) below[^c-7cf268eb94d22577cb1c2ff1726490ce] be entitled to see and be supplied, by or on behalf of the installation manager, with copies of any document relating to the occupational health and safety at work of the workforce which is required by any statutory provision to be kept on the offshore installation, except a document consisting of or relating to any health record of an identifiable individual or a safety case or revision to which regulation 18A below applies.
 
-**18A.**[^key-7fb556748630779e4feb4ded2ebb6154] (1) A safety representative shall be entitled—
+**18A.**[^c-7fb556748630779e4feb4ded2ebb6154] (1) A safety representative shall be entitled—
 
 - (a) to be supplied, by or on behalf of the installation manager, with a written summary of the main features of a safety case or revision thereof relating to the offshore installation and prepared pursuant to the Offshore Installations (Safety Case) Regulations 1992, such summary to include any particulars concerning remedial work and the time by which it will be done;
 - (b) to see a copy of that safety case or revision;
@@ -247,17 +247,17 @@ are references to having appropriate facilities to enable him to read that infor
 
 ## SAFETY COMMITTEES
 
-### 19. Safety committee—establishment[^key-02677bbf3a7dc7ccaf9762a0d5da7d96]
+### 19. Safety committee—establishment[^c-02677bbf3a7dc7ccaf9762a0d5da7d96]
 
 The owner of an offshore installation for which one or more safety representatives have been elected or hold that position by virtue of regulation 15 above shall establish a safety committee.
 
-### 20. Membership of safety committee[^key-26292cfdfb0264b6d03b162364f6fb29]
+### 20. Membership of safety committee[^c-26292cfdfb0264b6d03b162364f6fb29]
 
 (1) The safety committee shall include the installation manager as chairman, one further person who may be appointed by the installation owner or the installation manager, all the safety representatives, and such other persons as the safety committee may co-opt by the unanimous vote of the members of the committee present and voting on the co-option.
 
 (2) A person co-opted to the safety committee under paragraph (1) above shall not be entitled to vote on the co-option of another person to the committee.
 
-### 21. Safety committee—meetings[^key-2fcde1ff7bcda7adb16914052cab8ff3]
+### 21. Safety committee—meetings[^c-2fcde1ff7bcda7adb16914052cab8ff3]
 
 (1) The first meeting of a safety committee shall be called by the chairman within six weeks of the date of its establishment, and thereafter the chairman shall call a meeting at least once in every three months.
 
@@ -267,7 +267,7 @@ The owner of an offshore installation for which one or more safety representativ
 
 (4) The quorum for a meeting of a safety committee shall be the chairman and such number of safety representatives or persons nominated under paragraph (3) above as represent a third (rounded up to a whole number) of the number of safety representatives holding office at the date the meeting is called.
 
-### 22. Safety committee—functions[^key-1500cba07a604441e301f22819500730]
+### 22. Safety committee—functions[^c-1500cba07a604441e301f22819500730]
 
 (1) A safety committee shall have the following functions in relation to the offshore installation which it serves–
 
@@ -286,15 +286,15 @@ but no function given to a safety committee by this regulation shall be construe
 
 ## INSTALLATION OWNERS, INSTALLATION MANAGERS AND EMPLOYERS
 
-### 23. Duties of installation owners and installation managers[^key-95b753bdb90056be52ad31240623fda6]
+### 23. Duties of installation owners and installation managers[^c-95b753bdb90056be52ad31240623fda6]
 
 In respect of every offshore installation served by a safety committee it shall be the duty of the installation owner and of the installation manager–
 
 - (a) to facilitate the exercise by the committee of its functions and by the safety representatives of their functions and powers in respect of the installation under these Regulations, and for that purpose to make available the necessary accommodation, facilities for communication and office equipment supplies; and
 - (b) to consult safety representatives with a view to the making and maintenance of arrangements which will enable them and the workforce to co-operate effectively in promoting and developing measures to ensure the health and safety of persons working on or from the installation, and in checking the effectiveness of such arrangements;
-- (c)[^key-78b72a6684d9f50d109a19212b192682] without prejudice to paragraph (b) above, to consult safety representatives on the preparation of a safety case relating to the installation under the Offshore Installations (Safety Case) Regulations 1992.
+- (c)[^c-78b72a6684d9f50d109a19212b192682] without prejudice to paragraph (b) above, to consult safety representatives on the preparation of a safety case relating to the installation under the Offshore Installations (Safety Case) Regulations 1992.
 
-### 24. Information[^key-70c9b75fe5b2a78d64f2357d6d57e839]
+### 24. Information[^c-70c9b75fe5b2a78d64f2357d6d57e839]
 
 It shall be the duty of the installation owner, the installation manager and any employer of members of the workforce each to make available to safety representatives the information relating to occupational health and safety within his knowledge as may be necessary to enable the safety representatives to fulfil their functions except–
 
@@ -304,13 +304,13 @@ It shall be the duty of the installation owner, the installation manager and any
 - (d) any information the disclosure of which would, for reasons other than its effect on occupational health and safety, cause substantial injury to the undertaking of any of the parties on whom the duty is imposed or, where the information has been supplied to any of the parties by some other person, to the undertaking of that other person, or
 - (e) any information obtained by the employer for the purpose of bringing, prosecuting or defending any legal proceedings.
 
-### 25. Documents etc.[^key-b055bad5adba2dad9d7736b800bf5c3c]
+### 25. Documents etc.[^c-b055bad5adba2dad9d7736b800bf5c3c]
 
-(1) It shall be the duty of the installation owner, installation manager, and any employer of members of the workforce on the offshore installation, to make available to safety representatives and safety committees any documents which safety representatives and safety committees are entitled to see under regulation 18 or 18A and to provide the facilities to which a safety representative is entitled under those regulations.[^key-c528af61624a7b42dfc372478990310f]
+(1) It shall be the duty of the installation owner, installation manager, and any employer of members of the workforce on the offshore installation, to make available to safety representatives and safety committees any documents which safety representatives and safety committees are entitled to see under regulation 18 or 18A and to provide the facilities to which a safety representative is entitled under those regulations.[^c-c528af61624a7b42dfc372478990310f]
 
 (2) It shall be the duty of the installation owner to ensure that at least one copy of these Regulations is readily available on the installation for inspection by the workforce.
 
-### 26. Time off[^key-5cb01a6b6a1cdce700636b90677bb7fe]
+### 26. Time off[^c-5cb01a6b6a1cdce700636b90677bb7fe]
 
 (1) It shall be the duty of the employer of a safety representative to permit him to take such time off from his work on the offshore installation without loss of pay during his working hours as is necessary–
 
@@ -329,13 +329,13 @@ It shall be the duty of the installation owner, the installation manager and any
 - (a) if it is a payment under any contractual obligation, shall go towards discharging the employer’s liability in respect of the same period under paragraph (2) above;
 - (b) if it is a payment under paragraph (2) above, shall go towards discharging any liability of the employer to pay contractual remuneration in respect of the same period.
 
-### 27. Training[^key-2c9bda1e5cb768b33ac5ca6a084f9dc5]
+### 27. Training[^c-2c9bda1e5cb768b33ac5ca6a084f9dc5]
 
 It shall be the duty of the employer of a safety representative to ensure that he is provided with such training in aspects of the functions of a safety representative as may be reasonable in all the circumstances and the employer shall meet any reasonable costs associated with such training including travel and subsistence costs.
 
 ## MISCELLANEOUS
 
-### 28. Offences[^key-9b706cac578883217286ca95912c3dbe]
+### 28. Offences[^c-9b706cac578883217286ca95912c3dbe]
 
 (1) If an installation owner, installation manager or employer fails to comply with an obligation imposed upon him by these Regulations he shall be guilty of an offence.
 
@@ -344,7 +344,7 @@ It shall be the duty of the employer of a safety representative to ensure that h
 - (a) that he exercised all due diligence to prevent the commission of the offence; and
 - (b) that the relevant failure to comply was committed without his consent connivance or wilful default.
 
-### 29. Exercise of functions[^key-e87510e2e4939dc075a22472d9fd06ec]
+### 29. Exercise of functions[^c-e87510e2e4939dc075a22472d9fd06ec]
 
 No requirement imposed or power conferred upon any person by these Regulations shall be construed as requiring or empowering that person to disregard any requirement imposed upon him by or under any enactment.
 
@@ -368,76 +368,76 @@ The Regulations impose duties on installation owners, installation managers and 
 
 [^f00001]: Footnote: [1971 c. 61](https://www.legislation.gov.uk/ukpga/1971/61); section 6 was amended by section 37 of, and Schedule 3 to, the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23).
 
-[^key-0677798c6f28c995e5f8b3bf55c62809]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1989/971) modified (23.8.1993) by [The Offshore Safety (Repeals and Modifications) Regulations 1993 (S.I. 1993/1823)](https://www.legislation.gov.uk/uksi/1993/1823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/4/5), [Sch.](https://www.legislation.gov.uk/uksi/1993/1823/schedule) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/6/2))
+[^c-0677798c6f28c995e5f8b3bf55c62809]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1989/971) modified (23.8.1993) by [The Offshore Safety (Repeals and Modifications) Regulations 1993 (S.I. 1993/1823)](https://www.legislation.gov.uk/uksi/1993/1823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/4/5), [Sch.](https://www.legislation.gov.uk/uksi/1993/1823/schedule) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/1993/1823/regulation/6/2))
 
-[^key-8c83123e386775f6637eaa12855309ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-8c83123e386775f6637eaa12855309ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-ea39d3c2664da9fcfe2d51213e5273d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/971/regulation/2) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-ea39d3c2664da9fcfe2d51213e5273d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/971/regulation/2) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
 [^f00002]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
 [^f00003]: Footnote: S.I. [1972/1542](https://www.legislation.gov.uk/uksi/1972/1542).
 
-[^key-dbb8deef39e5f664ad4c844e4af08893]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/971/regulation/3) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-dbb8deef39e5f664ad4c844e4af08893]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/971/regulation/3) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-0de5e4e6b1cddebe26d707578b7a3b25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/971/regulation/4) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-0de5e4e6b1cddebe26d707578b7a3b25]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/971/regulation/4) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-0751413d734629d628f6fda7a8e39655]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/971/regulation/5) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-0751413d734629d628f6fda7a8e39655]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/971/regulation/5) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-28a27e543962c88cec7daf44e4b2a1b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/971/regulation/6) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-28a27e543962c88cec7daf44e4b2a1b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/971/regulation/6) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-a3e23515555be0315f66f1ba8e2bea5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/971/regulation/7) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-a3e23515555be0315f66f1ba8e2bea5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/971/regulation/7) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-541b62ed3a24f9ea1f9cf6f78b9a9308]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/971/regulation/8) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-541b62ed3a24f9ea1f9cf6f78b9a9308]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/971/regulation/8) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-5c93550ac08c890b752e35678fdd9421]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/971/regulation/9) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-5c93550ac08c890b752e35678fdd9421]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/971/regulation/9) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-8dcbffd8f1304efa451bfd1f1d1a273d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/971/regulation/10) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-8dcbffd8f1304efa451bfd1f1d1a273d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/971/regulation/10) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-b2e9d599ced6d7a9bbce184f1b2bf32d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/971/regulation/11) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-b2e9d599ced6d7a9bbce184f1b2bf32d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/971/regulation/11) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-341eeb57bbd8162c689cf84cdb6961ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/971/regulation/12) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-341eeb57bbd8162c689cf84cdb6961ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/971/regulation/12) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-763fad18e45855473f924b31f42543a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/971/regulation/13) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-763fad18e45855473f924b31f42543a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/971/regulation/13) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-3c6dc3381cc68a0d126494fdcc764791]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/971/regulation/14) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-3c6dc3381cc68a0d126494fdcc764791]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/971/regulation/14) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-0171a7eb3519c3f0ddb29bba15f32a35]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/971/regulation/15) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-0171a7eb3519c3f0ddb29bba15f32a35]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/971/regulation/15) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-289b6b1491a52c2a78a1a86b46e6ea4b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/971/regulation/16) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-289b6b1491a52c2a78a1a86b46e6ea4b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/971/regulation/16) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-d43f3daecb85dcd6e2bf162de16950d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/971/regulation/17) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-d43f3daecb85dcd6e2bf162de16950d4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/971/regulation/17) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
 [^f00004]: Footnote: S.I. [1973/1842](https://www.legislation.gov.uk/uksi/1973/1842).
 
-[^key-f69381f1c86c8e64de55b724d1441220]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1989/971/regulation/18) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-f69381f1c86c8e64de55b724d1441220]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1989/971/regulation/18) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-7cf268eb94d22577cb1c2ff1726490ce]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/1989/971/regulation/18) added (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
+[^c-7cf268eb94d22577cb1c2ff1726490ce]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/1989/971/regulation/18) added (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
 
-[^key-7fb556748630779e4feb4ded2ebb6154]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1989/971/regulation/18A) added (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
+[^c-7fb556748630779e4feb4ded2ebb6154]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1989/971/regulation/18A) added (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
 
-[^key-02677bbf3a7dc7ccaf9762a0d5da7d96]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1989/971/regulation/19) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-02677bbf3a7dc7ccaf9762a0d5da7d96]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1989/971/regulation/19) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-26292cfdfb0264b6d03b162364f6fb29]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1989/971/regulation/20) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-26292cfdfb0264b6d03b162364f6fb29]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1989/971/regulation/20) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-2fcde1ff7bcda7adb16914052cab8ff3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/971/regulation/21) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-2fcde1ff7bcda7adb16914052cab8ff3]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/971/regulation/21) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-1500cba07a604441e301f22819500730]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/971/regulation/22) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-1500cba07a604441e301f22819500730]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/971/regulation/22) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-95b753bdb90056be52ad31240623fda6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1989/971/regulation/23) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-95b753bdb90056be52ad31240623fda6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1989/971/regulation/23) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-78b72a6684d9f50d109a19212b192682]: Textual amendment: [Reg. 23(c)](https://www.legislation.gov.uk/uksi/1989/971/regulation/23/c) inserted (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
+[^c-78b72a6684d9f50d109a19212b192682]: Textual amendment: [Reg. 23(c)](https://www.legislation.gov.uk/uksi/1989/971/regulation/23/c) inserted (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
 
-[^key-70c9b75fe5b2a78d64f2357d6d57e839]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/971/regulation/24) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-70c9b75fe5b2a78d64f2357d6d57e839]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1989/971/regulation/24) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-b055bad5adba2dad9d7736b800bf5c3c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1989/971/regulation/25) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-b055bad5adba2dad9d7736b800bf5c3c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1989/971/regulation/25) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-c528af61624a7b42dfc372478990310f]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/1989/971/regulation/25/1) substituted (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
+[^c-c528af61624a7b42dfc372478990310f]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/1989/971/regulation/25/1) substituted (31.5.1993) by [The Offshore Installations (Safety Case) Regulations 1992 (S.I. 1992/2885)](https://www.legislation.gov.uk/uksi/1992/2885), [reg. 1](https://www.legislation.gov.uk/uksi/1992/2885/regulation/1), [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/1992/2885/schedule/8/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/1992/2885/regulation/3))
 
-[^key-5cb01a6b6a1cdce700636b90677bb7fe]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1989/971/regulation/26) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-5cb01a6b6a1cdce700636b90677bb7fe]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1989/971/regulation/26) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-2c9bda1e5cb768b33ac5ca6a084f9dc5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/971/regulation/27) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-2c9bda1e5cb768b33ac5ca6a084f9dc5]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/971/regulation/27) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-9b706cac578883217286ca95912c3dbe]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/971/regulation/28) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-9b706cac578883217286ca95912c3dbe]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/971/regulation/28) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
 
-[^key-e87510e2e4939dc075a22472d9fd06ec]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1989/971/regulation/29) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)
+[^c-e87510e2e4939dc075a22472d9fd06ec]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1989/971/regulation/29) in force at 18.9.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/971/regulation/1)

@@ -65,7 +65,7 @@ In relation to a teacher or proposed teacher in an independent school, the class
 
 ## 3. Transitory provision – teacher at an independent school who is not a registered teacher
 
-Where a person is employed by an independent school as a teacher on or before 1st October 2017, but is not a registered teacher, then that person is to be treated as not being in the class of persons prescribed by regulation 2 until 1 June 2021[^key-892d57f718c61495b722db21fdafa5d3].
+Where a person is employed by an independent school as a teacher on or before 1st October 2017, but is not a registered teacher, then that person is to be treated as not being in the class of persons prescribed by regulation 2 until 1 June 2021[^c-892d57f718c61495b722db21fdafa5d3].
 
 ## 4. Transitory provision – application for registration of independent school made but not yet determined
 
@@ -105,4 +105,4 @@ Regulation 4 of these Regulations makes transitory provision where an applicatio
 
 [^c23234891]: Marginal citation: [S.S.I. 2011/215](https://www.legislation.gov.uk/ssi/2011/215).
 
-[^key-892d57f718c61495b722db21fdafa5d3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2017/259/regulation/3) substituted (4.7.2020) by [The Registration of Independent Schools (Prescribed Person) (Coronavirus) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/205)](https://www.legislation.gov.uk/ssi/2020/205), [regs. 1](https://www.legislation.gov.uk/ssi/2020/205/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/205/regulation/2)
+[^c-892d57f718c61495b722db21fdafa5d3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2017/259/regulation/3) substituted (4.7.2020) by [The Registration of Independent Schools (Prescribed Person) (Coronavirus) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/205)](https://www.legislation.gov.uk/ssi/2020/205), [regs. 1](https://www.legislation.gov.uk/ssi/2020/205/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/205/regulation/2)

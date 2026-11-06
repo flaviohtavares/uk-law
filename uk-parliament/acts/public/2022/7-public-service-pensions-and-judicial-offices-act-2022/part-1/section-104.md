@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. HMRC information-sharing and other functions relating to compensation etc[^key-de0bdeca371fb2e058c6e6dfc3bfe5e4][^key-5eeef4f1656209198728ac43457a985c]
+## 104. HMRC information-sharing and other functions relating to compensation etc[^c-de0bdeca371fb2e058c6e6dfc3bfe5e4][^c-5eeef4f1656209198728ac43457a985c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 ## Annotations
 
-[^key-de0bdeca371fb2e058c6e6dfc3bfe5e4]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-de0bdeca371fb2e058c6e6dfc3bfe5e4]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-5eeef4f1656209198728ac43457a985c]: Commencement: S. 104 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-5eeef4f1656209198728ac43457a985c]: Commencement: S. 104 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

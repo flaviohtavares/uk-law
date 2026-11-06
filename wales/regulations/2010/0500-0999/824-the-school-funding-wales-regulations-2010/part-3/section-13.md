@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Pupil numbers[^key-e4cf19c73f94deabf3daeb7d22daf629]
+## 13. Pupil numbers[^c-e4cf19c73f94deabf3daeb7d22daf629]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purpose of paragraph (1), the number of registered pupils does not include—
 
-- (a) pupils in respect of whom grant is payable to the authority by the Welsh Ministers under section 101 of the 2022 Act[^key-c32c534e47c4d3e05270b60621ff587d];
+- (a) pupils in respect of whom grant is payable to the authority by the Welsh Ministers under section 101 of the 2022 Act[^c-c32c534e47c4d3e05270b60621ff587d];
 - (b) pupils in places which the authority recognise as reserved for children with special educational needs or (except where the local authority chooses not to exercise their discretion under regulation 15 in respect of children in nursery classes) for children in nursery classes.
 
 (3) Where the authority determine only one date for the purposes of paragraph (1) it must be a date which falls—
@@ -50,7 +50,7 @@ on the date or dates determined for the purpose of paragraph (1) (weighted if th
 
 (7) A local authority may weight pupil numbers according to any or all of the following factors–
 
-- (a) age, including weighting according to [^key-a4fe878b9a5add9e3bb0b6df4089f1df]... year group;
+- (a) age, including weighting according to [^c-a4fe878b9a5add9e3bb0b6df4089f1df]... year group;
 - (b) whether a pupil is provided with nursery education by a school;
 - (c) in the case of pupils aged under five, their exact age when admitted to the school;
 - (d) in the case of pupils aged under five, hours of attendance;
@@ -74,8 +74,8 @@ a local authority may determine a number representing the number of pupils who w
 
 ## Annotations
 
-[^key-e4cf19c73f94deabf3daeb7d22daf629]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2010/824/regulation/13) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-e4cf19c73f94deabf3daeb7d22daf629]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2010/824/regulation/13) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
 
-[^key-c32c534e47c4d3e05270b60621ff587d]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/13/2) substituted (1.4.2026) by [The School Funding, Budget Statements and Outturn Statements (Wales) Regulations 2026 (W.S.I. 2026/66)](https://www.legislation.gov.uk/wsi/2026/66), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/66/regulation/2/2/b)
+[^c-c32c534e47c4d3e05270b60621ff587d]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/13/2) substituted (1.4.2026) by [The School Funding, Budget Statements and Outturn Statements (Wales) Regulations 2026 (W.S.I. 2026/66)](https://www.legislation.gov.uk/wsi/2026/66), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/66/regulation/2/2/b)
 
-[^key-a4fe878b9a5add9e3bb0b6df4089f1df]: Textual amendment: Words in [reg. 13(7)(a)](https://www.legislation.gov.uk/wsi/2010/824/regulation/13/7/a) omitted (with effect in accordance with reg. 7(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2022/666/regulation/7/3)
+[^c-a4fe878b9a5add9e3bb0b6df4089f1df]: Textual amendment: Words in [reg. 13(7)(a)](https://www.legislation.gov.uk/wsi/2010/824/regulation/13/7/a) omitted (with effect in accordance with reg. 7(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2022/666/regulation/7/3)

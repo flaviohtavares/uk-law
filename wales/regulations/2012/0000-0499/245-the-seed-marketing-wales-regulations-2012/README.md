@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make these Regulations in exercise of the powers in sections 16(1), (1A), (2), (3), (4), (5) and (5A) and 36 of the Plant Varieties and Seeds Act 1964 [^c21191101], after consultation in accordance with section 16(1) of that Act with representatives of such interests as appear to be concerned, and in exercise of the powers in paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c21191111].
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for the references in these Regulations to the Directives specified in regulation 3(2) to be construed as references to those Directives as amended from time to time.[^key-b34e8eb3a587f7a974b4e6b44bd1093d]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for the references in these Regulations to the Directives specified in regulation 3(2) to be construed as references to those Directives as amended from time to time.[^c-b34e8eb3a587f7a974b4e6b44bd1093d]
 
 ## Contents
 
@@ -168,4 +168,4 @@ These Regulations which apply in relation to Wales, implement—
 
 [^c21191111]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-b34e8eb3a587f7a974b4e6b44bd1093d]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2012/245) applied (with modifications) (temp.) (7.10.2024) by [The Seed Marketing (CMS Wheat Hybrids) (Temporary Experiment) (Wales) Regulations 2024 (S.I. 2024/953)](https://www.legislation.gov.uk/wsi/2024/953), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2024/953/regulation/6), [Sch.](https://www.legislation.gov.uk/wsi/2024/953/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/3))
+[^c-b34e8eb3a587f7a974b4e6b44bd1093d]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2012/245) applied (with modifications) (temp.) (7.10.2024) by [The Seed Marketing (CMS Wheat Hybrids) (Temporary Experiment) (Wales) Regulations 2024 (S.I. 2024/953)](https://www.legislation.gov.uk/wsi/2024/953), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2024/953/regulation/6), [Sch.](https://www.legislation.gov.uk/wsi/2024/953/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/3))

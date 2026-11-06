@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Authority to survey and investigate the land[^key-8cc4fd430db46952ce299d3b23f2d24f]
+## 21. Authority to survey and investigate the land[^c-8cc4fd430db46952ce299d3b23f2d24f]
 
 *Extent: E+W*
 
@@ -63,12 +63,12 @@ that authority is deemed to have granted consent.
 
 (9) Any application for consent under either sub-paragraph (5)(a) or sub-paragraph (5)(b) must include a statement that the provisions of paragraph (8) apply to that application.
 
-(10) If an application for consent under either paragraph (5)(a) or paragraph (5)(b)[^key-327c6fa0d7a5e7d0579fcb5ef392d964] does not include the statement required under paragraph (9), then the provisions of paragraph (8) will not apply to that application.
+(10) If an application for consent under either paragraph (5)(a) or paragraph (5)(b)[^c-327c6fa0d7a5e7d0579fcb5ef392d964] does not include the statement required under paragraph (9), then the provisions of paragraph (8) will not apply to that application.
 
 (11) Section 13 of the 1965 Act (refusal to give possession to acquiring authority) applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 of the 2008 Act (application of compulsory acquisition provisions).
 
 ## Annotations
 
-[^key-8cc4fd430db46952ce299d3b23f2d24f]: Commencement: Art. 21 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8cc4fd430db46952ce299d3b23f2d24f]: Commencement: Art. 21 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-327c6fa0d7a5e7d0579fcb5ef392d964]: Textual amendment: Words in [art. 21(10)](https://www.legislation.gov.uk/uksi/2024/958/article/21/10) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-327c6fa0d7a5e7d0579fcb5ef392d964]: Textual amendment: Words in [art. 21(10)](https://www.legislation.gov.uk/uksi/2024/958/article/21/10) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

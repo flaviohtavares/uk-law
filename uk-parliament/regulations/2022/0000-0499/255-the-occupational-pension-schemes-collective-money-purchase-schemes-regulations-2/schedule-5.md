@@ -24,11 +24,11 @@ Regulations 6 and 14
 
 ### Preliminary
 
-**1.**[^key-d87214b2814455a732a7c71e422fa49f] The matters that the Regulator must take into account in deciding, for the purposes of section 16 of the Act (systems and processes requirements), whether it is satisfied that the systems and processes used in running a collective money purchase scheme are sufficient to ensure that the scheme is run effectively are set out in paragraphs 2 to 14.
+**1.**[^c-d87214b2814455a732a7c71e422fa49f] The matters that the Regulator must take into account in deciding, for the purposes of section 16 of the Act (systems and processes requirements), whether it is satisfied that the systems and processes used in running a collective money purchase scheme are sufficient to ensure that the scheme is run effectively are set out in paragraphs 2 to 14.
 
 ### Features and functionality of IT systems
 
-**2.**[^key-5e081ee226ccb6cbf66a0629b5759ed1] Whether the IT systems have the capacity and capability—
+**2.**[^c-5e081ee226ccb6cbf66a0629b5759ed1] Whether the IT systems have the capacity and capability—
 
 - (a) to process financial transactions securely, accurately and by automated means, including the core transactions described in regulation 24(2) of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^f00048] (requirements for processing financial transactions);
 - (b) to make and receive electronic payments;
@@ -37,11 +37,11 @@ Regulations 6 and 14
 - (e) to process information securely, accurately and by automated means for the purposes of calculating the rate or amount of benefits to be provided under the scheme, in accordance with the scheme rules;
 - (f) to reconcile data on transactions and produce reports so that those activities can be monitored and transaction errors rectified promptly;
 - (g) to identify and categorise transactions and payments for authorisation and countersigning at an appropriate level of authority;
-- (h) to be updated to reflect changes in the legal requirements affecting transactions, payments and records, including changes in tax thresholds and the annual allowance[^key-f95e55eeb46df8e6ba55e211def13ba9].
+- (h) to be updated to reflect changes in the legal requirements affecting transactions, payments and records, including changes in tax thresholds and the annual allowance[^c-f95e55eeb46df8e6ba55e211def13ba9].
 
 ### Standards required of IT systems
 
-**3.**[^key-d3ef194abd754e6fd9fb92e19f37c3f1] Whether the IT systems—
+**3.**[^c-d3ef194abd754e6fd9fb92e19f37c3f1] Whether the IT systems—
 
 - (a) are capable of being upgraded to reflect changes in required transactions and capacity;
 - (b) have restricted physical and electronic access, with firewalls and other appropriate protection against viruses and other threats;
@@ -49,7 +49,7 @@ Regulations 6 and 14
 
 ### Maintenance of IT systems
 
-**4.**[^key-9d49f37f6f5b929cc19c0e1ab2815914] Whether the IT systems—
+**4.**[^c-9d49f37f6f5b929cc19c0e1ab2815914] Whether the IT systems—
 
 - (a) are maintained at regular intervals, either automatically or by a person with the appropriate skills and experience;
 - (b) are backed up and updated regularly, including the maintenance of firewalls and other preventative systems;
@@ -57,7 +57,7 @@ Regulations 6 and 14
 
 ### Member records
 
-**5.**[^key-2a6eaa6473a4e08ab19f9803ecdee4de] Whether the scheme’s systems and processes ensure that—
+**5.**[^c-2a6eaa6473a4e08ab19f9803ecdee4de] Whether the scheme’s systems and processes ensure that—
 
 - (a) there is an accurate record on the relevant IT system of each member’s details, including the member’s pensionable service and pensionable salary and, on an annual basis, the amount that represents the member’s share of the available assets of the scheme;
 - (b) any unpaid contributions by or in respect of active members can be explained to the Regulator and remedied;
@@ -70,7 +70,7 @@ Regulations 6 and 14
 
 ### Trustees and others
 
-**6.**[^key-317017ed15e06d8764d75bbace11966e] Whether there are systems and processes—
+**6.**[^c-317017ed15e06d8764d75bbace11966e] Whether there are systems and processes—
 
 - (a) for the fair and transparent recruitment, appointment, resignation and removal of trustees;
 - (b) for the fair and transparent recruitment, appointment, resignation and removal of the scheme actuary;
@@ -85,7 +85,7 @@ Regulations 6 and 14
 
 ### Contracts and service providers
 
-**7.**[^key-bfc8b6e6af68d08a91acafb8b13b6276] Whether there are systems and processes—
+**7.**[^c-bfc8b6e6af68d08a91acafb8b13b6276] Whether there are systems and processes—
 
 - (a) for establishing that service providers have the necessary qualifications, experience or approval, as applicable;
 - (b) for establishing that service providers have the capability to provide their services in respect of the scheme—
@@ -99,7 +99,7 @@ Regulations 6 and 14
 
 ### Governance
 
-**8.**[^key-a264913e462dadce6c2209a0ad3d64ab] Whether there are systems and processes—
+**8.**[^c-a264913e462dadce6c2209a0ad3d64ab] Whether there are systems and processes—
 
 - (a) for the identification of roles and responsibilities in respect of the governance of the scheme;
 - (b) for the appointment of persons with sufficient skills, knowledge and experience to carry out those roles and responsibilities;
@@ -109,7 +109,7 @@ Regulations 6 and 14
 
 ### Risk management
 
-**9.**[^key-2a4bb6bf1d5f35319c4c8575aa6b34ed] Whether there are systems and processes—
+**9.**[^c-2a4bb6bf1d5f35319c4c8575aa6b34ed] Whether there are systems and processes—
 
 - (a) for identifying, managing and monitoring operational, financial, regulatory and compliance risks;
 - (b) for identifying, managing and monitoring risks in respect of the soundness of the design of the scheme;
@@ -119,7 +119,7 @@ Regulations 6 and 14
 
 ### Security
 
-**10.**[^key-756aad06e504d21b546e547e0a889784] Whether there are systems and processes—
+**10.**[^c-756aad06e504d21b546e547e0a889784] Whether there are systems and processes—
 
 - (a) for preventing unauthorised access to sensitive records and infrastructure, including those containing member information, financial details or investment information;
 - (b) for monitoring and recording electronic and physical access to sensitive records and infrastructure;
@@ -127,7 +127,7 @@ Regulations 6 and 14
 
 ### Resource planning
 
-**11.**[^key-2799cdf2de5f2f8ded956a567235d788] Whether there are systems and processes for ensuring that there are sufficient human resources with the skills, qualifications and capacity necessary to comply with the requirements of Part 1 of the Act (collective money purchase benefits) and, in particular—
+**11.**[^c-2799cdf2de5f2f8ded956a567235d788] Whether there are systems and processes for ensuring that there are sufficient human resources with the skills, qualifications and capacity necessary to comply with the requirements of Part 1 of the Act (collective money purchase benefits) and, in particular—
 
 - (a) to run and maintain the scheme’s systems and processes;
 - (b) to provide for the effective running of the scheme; and
@@ -135,9 +135,9 @@ Regulations 6 and 14
 
 ### Investments
 
-**12.**[^key-bb4b240223643dbe819fd2368cbcb1b4] Whether there are systems and processes—
+**12.**[^c-bb4b240223643dbe819fd2368cbcb1b4] Whether there are systems and processes—
 
-- (a) for investing contributions in a timely manner in accordance with the scheme’s investment strategy[^key-6bb038d54181971a6f5b2f81328a73e1];
+- (a) for investing contributions in a timely manner in accordance with the scheme’s investment strategy[^c-6bb038d54181971a6f5b2f81328a73e1];
 - (b) for recording investment decisions;
 - (c) for managing the scheme’s interaction with investment managers, and recording key decisions;
 - (d) for recording, managing and reviewing the risks associated with investment decisions; and
@@ -145,7 +145,7 @@ Regulations 6 and 14
 
 ### Valuation and benefit adjustment
 
-**13.**[^key-5964175b461a00e335022faa5599af39] Whether there are systems and processes—
+**13.**[^c-5964175b461a00e335022faa5599af39] Whether there are systems and processes—
 
 - (a) for ensuring that the rules of the scheme meet the requirements of section 18 of the Act (calculation of benefits) and regulation 17;
 - (b) for ensuring that the trustees comply with section 19(1) of the Act (advice of scheme actuary);
@@ -157,7 +157,7 @@ Regulations 6 and 14
 
 ### Member engagement
 
-**14.**[^key-50fa35c1efe0fce3c0f59bab5b05045f] Whether there are systems and processes—
+**14.**[^c-50fa35c1efe0fce3c0f59bab5b05045f] Whether there are systems and processes—
 
 - (a) for facilitating members’ engagement with the scheme;
 - (b) for bringing members’ views to the attention of the trustees;
@@ -165,36 +165,36 @@ Regulations 6 and 14
 
 ## Annotations
 
-[^key-d87214b2814455a732a7c71e422fa49f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-d87214b2814455a732a7c71e422fa49f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-5e081ee226ccb6cbf66a0629b5759ed1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-5e081ee226ccb6cbf66a0629b5759ed1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00048]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715). Regulation 24 was inserted by [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879).
 
-[^key-f95e55eeb46df8e6ba55e211def13ba9]: Textual amendment: Words in [Sch. 5 para. 2(h)](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/2/h) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [76(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/76/a)
+[^c-f95e55eeb46df8e6ba55e211def13ba9]: Textual amendment: Words in [Sch. 5 para. 2(h)](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/2/h) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [76(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/76/a)
 
-[^key-d3ef194abd754e6fd9fb92e19f37c3f1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-d3ef194abd754e6fd9fb92e19f37c3f1]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-9d49f37f6f5b929cc19c0e1ab2815914]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-9d49f37f6f5b929cc19c0e1ab2815914]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-2a6eaa6473a4e08ab19f9803ecdee4de]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/5) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-2a6eaa6473a4e08ab19f9803ecdee4de]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/5) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-317017ed15e06d8764d75bbace11966e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-317017ed15e06d8764d75bbace11966e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-bfc8b6e6af68d08a91acafb8b13b6276]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/7) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-bfc8b6e6af68d08a91acafb8b13b6276]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/7) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-a264913e462dadce6c2209a0ad3d64ab]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/8) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-a264913e462dadce6c2209a0ad3d64ab]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/8) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-2a4bb6bf1d5f35319c4c8575aa6b34ed]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-2a4bb6bf1d5f35319c4c8575aa6b34ed]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-756aad06e504d21b546e547e0a889784]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-756aad06e504d21b546e547e0a889784]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-2799cdf2de5f2f8ded956a567235d788]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/11) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-2799cdf2de5f2f8ded956a567235d788]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/11) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-bb4b240223643dbe819fd2368cbcb1b4]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-bb4b240223643dbe819fd2368cbcb1b4]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-6bb038d54181971a6f5b2f81328a73e1]: Textual amendment: Word in [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/12/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [76(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/76/b)
+[^c-6bb038d54181971a6f5b2f81328a73e1]: Textual amendment: Word in [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/12/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [76(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/76/b)
 
-[^key-5964175b461a00e335022faa5599af39]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-5964175b461a00e335022faa5599af39]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-50fa35c1efe0fce3c0f59bab5b05045f]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-50fa35c1efe0fce3c0f59bab5b05045f]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2022/255/schedule/5/paragraph/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Employment agencies, careers guidance etc.[^key-a069d2b7f7bb1fc98a53a622a8d22b5f]
+## 22. Employment agencies, careers guidance etc.[^c-a069d2b7f7bb1fc98a53a622a8d22b5f]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a069d2b7f7bb1fc98a53a622a8d22b5f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/261/regulation/22) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-a069d2b7f7bb1fc98a53a622a8d22b5f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/261/regulation/22) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

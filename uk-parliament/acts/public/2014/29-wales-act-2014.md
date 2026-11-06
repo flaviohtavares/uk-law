@@ -40,11 +40,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### National Assembly for Wales
 
-#### 1. Frequency of Assembly ordinary general elections[^key-53e6d13e888fb7471af63d62302011a6]
+#### 1. Frequency of Assembly ordinary general elections[^c-53e6d13e888fb7471af63d62302011a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Removal of restriction on standing for election for both constituency and electoral region[^key-996b6772ea5121120d2774300f16657b]
+#### 2. Removal of restriction on standing for election for both constituency and electoral region[^c-996b6772ea5121120d2774300f16657b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,7 +200,7 @@ In section 46 of GOWA 2006 (the First Minister), at the end of subsection (5)(c)
 > - (a) the validity of an Act of the Assembly passed before the amendment comes into force, or
 > - (b) the previous or continuing operation of such an Act of the Assembly.
 
-(3)[^key-7ca07e6b2258ab38ab34f3c33f9725b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7ca07e6b2258ab38ab34f3c33f9725b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 111 (proceedings on Bills), in subsection (8), for “and 116(3)” substitute “ , 116(3) and 116C (4) ”.
 
@@ -212,11 +212,11 @@ In section 46 of GOWA 2006 (the First Minister), at the end of subsection (5)(c)
 > | --- | --- |
 > | devolved tax | section 116A(4) |
 
-(7)[^key-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-96215de3eb9b620ebddd870d2d000786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 7. Amendments relating to the Commissioners for Revenue and Customs
 
@@ -280,11 +280,11 @@ In section 46 of GOWA 2006 (the First Minister), at the end of subsection (5)(c)
 > - (a) is conferred on the Commissioners or on officers of Revenue and Customs by or by virtue of an Act of the National Assembly for Wales or an instrument made under such an Act, and
 > - (b) relates to a devolved tax within the meaning of the Government of Wales Act 2006.
 
-(14)[^key-2d425adc19e1b27991cdebf89b33331f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-2d425adc19e1b27991cdebf89b33331f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Welsh rates of income tax
 
-#### 8. Welsh rates of income tax[^key-10c557d93e10ec837bbbfd515df797c9]
+#### 8. Welsh rates of income tax[^c-10c557d93e10ec837bbbfd515df797c9]
 
 (1) Part 4A of GOWA 2006 (as inserted by section 6) is amended as follows.
 
@@ -472,7 +472,7 @@ In section 46 of GOWA 2006 (the First Minister), at the end of subsection (5)(c)
 >
 > (8) In this section “**HMRC**” means Her Majesty's Revenue and Customs.
 
-#### 9. Welsh basic, higher and additional rates of income tax[^key-8139d5b63b5854feec60362b8e769a27]
+#### 9. Welsh basic, higher and additional rates of income tax[^c-8139d5b63b5854feec60362b8e769a27]
 
 (1) The Income Tax Act 2007 is amended in accordance with subsections (2) to (11).
 
@@ -639,13 +639,13 @@ After section 155 of GOWA 2006 insert—
 
 (4) In subsection (3)(a), for “any part of the UK other than Scotland” substitute “ England, Wales or Northern Ireland ”.
 
-(5)[^key-32a71fbbb89cdde69830a09fb91e4628] After subsection (4), insert—
+(5)[^c-32a71fbbb89cdde69830a09fb91e4628] After subsection (4), insert—
 
 > (4A) Subsection (1) does not apply if T is a Welsh parliamentarian for the whole or any part of the year (see section 80DA).
 >
 > (4B) For the purposes of subsection (4A) and section 80DA, T is a Welsh parliamentarian if T is a member as described in any of paragraphs (a) to (c) of section 116E(4) of the Government of Wales Act 2006 (definition of a Welsh taxpayer).
 
-(6)[^key-32a71fbbb89cdde69830a09fb91e4628] After section 80D insert—
+(6)[^c-32a71fbbb89cdde69830a09fb91e4628] After section 80D insert—
 
 > **80DA. Scottish taxpayers: Welsh parliamentarians**
 >
@@ -667,12 +667,12 @@ After section 155 of GOWA 2006 insert—
 
 (7) In section 80E (close connection with Scotland or another part of the UK), in subsection (3)(c)—
 
-- (a)[^key-32a71fbbb89cdde69830a09fb91e4628] for “at least as much of the year as” substitute “ more of the year than ”;
+- (a)[^c-32a71fbbb89cdde69830a09fb91e4628] for “at least as much of the year as” substitute “ more of the year than ”;
 - (b) for “any one other part of the UK” substitute “ each other part of the UK (considered separately) ”.
 
 (8) In section 80F (days spent in Scotland or another part of the UK)—
 
-- (a)[^key-32a71fbbb89cdde69830a09fb91e4628] in subsection (1), for the words from “if)—” to the end substitute
+- (a)[^c-32a71fbbb89cdde69830a09fb91e4628] in subsection (1), for the words from “if)—” to the end substitute
 
   > if) the number of days in the year on which T is in Scotland at the end of the day exceeds each of the following—
   >
@@ -683,19 +683,19 @@ After section 155 of GOWA 2006 insert—
   ;
 - (b) in subsection (2), for “But T is not to be treated as” substitute “ T is treated as not ”.
 
-### ...[^key-94ba0f42a0da8fba5d09a8b15ebc43bd]
+### ...[^c-94ba0f42a0da8fba5d09a8b15ebc43bd]
 
-#### 12. Referendum about commencement of income tax provisions[^key-181631374053b87a4e01e3bab123f805]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13. Proposal for referendum by Assembly[^key-5a6a416f8f900dceaee4f489f33f9d0b]
+#### 12. Referendum about commencement of income tax provisions[^c-181631374053b87a4e01e3bab123f805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Commencement of income tax provisions ...[^key-5082c2f0d1ea36822de8dbe0d8fdaa2e]
+#### 13. Proposal for referendum by Assembly[^c-5a6a416f8f900dceaee4f489f33f9d0b]
 
-(1)[^key-e80e748952e74e0319b3eaabb8e71574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Commencement of income tax provisions ...[^c-5082c2f0d1ea36822de8dbe0d8fdaa2e]
+
+(1)[^c-e80e748952e74e0319b3eaabb8e71574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Treasury may bring sections 8 and 9 into force by order.
 
@@ -775,7 +775,7 @@ After section 155 of GOWA 2006 insert—
 
 (3) Schedule 2 to this Act contains further amendments relating to the disapplication of stamp duty land tax in relation to Wales.
 
-(4)[^key-17c1456455cfa82c90c144383c03bcfb] The amendments made by this section and Schedule 2 have effect in relation to land transactions with an effective date on or after such date as is appointed by the Treasury by order under this subsection.
+(4)[^c-17c1456455cfa82c90c144383c03bcfb] The amendments made by this section and Schedule 2 have effect in relation to land transactions with an effective date on or after such date as is appointed by the Treasury by order under this subsection.
 
 (5) But those amendments do not have effect in relation to any transaction—
 
@@ -841,11 +841,11 @@ After section 155 of GOWA 2006 insert—
 
 (2) In section 40(1) (charge on taxable disposal), omit “and Wales”.
 
-(3)[^key-450cfc5a029eab804b0c32c5a294fd6b] This section has effect in relation to disposals made on or after such date as is appointed by the Treasury by order under this subsection.
+(3)[^c-450cfc5a029eab804b0c32c5a294fd6b] This section has effect in relation to disposals made on or after such date as is appointed by the Treasury by order under this subsection.
 
 ### Borrowing
 
-#### 20. Borrowing by the Welsh Ministers[^key-fba11f436cc5748730bf9b540d155c12]
+#### 20. Borrowing by the Welsh Ministers[^c-fba11f436cc5748730bf9b540d155c12]
 
 (1) GOWA 2006 is amended as follows.
 
@@ -924,7 +924,7 @@ After section 155 of GOWA 2006 insert—
 
 ### Budgetary procedures
 
-#### 22. Budgetary procedures[^key-bdbd963117db9d495615eaf9a9ddd3ae]
+#### 22. Budgetary procedures[^c-bdbd963117db9d495615eaf9a9ddd3ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -968,7 +968,7 @@ After section 155 of GOWA 2006 insert—
 - (e) a statement of the effect of this Part on the amount of any payments made by the Secretary of State under section 118 of GOWA 2006 (payments into the Welsh Consolidated Fund), and
 - (f) any other matters concerning the sources of revenue for the Welsh Government that the maker of the report considers should be brought to the attention of Parliament or the Assembly.
 
-(8)[^key-b588392702c24062b1b6cbe3bfd2656e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-b588392702c24062b1b6cbe3bfd2656e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section, references to “this Part” do not include—
 
@@ -1156,7 +1156,7 @@ In this Act—
 (2) The following provisions come into force at the end of the period of 2 months beginning with the day on which this Act is passed—
 
 - (a) Part 1;
-- (b) Part 2, except the income tax[^key-8139d1f1bb8c41c7995ead2730391553] provisions and sections 20 and 21;
+- (b) Part 2, except the income tax[^c-8139d1f1bb8c41c7995ead2730391553] provisions and sections 20 and 21;
 - (c) section 25.
 
 (3) Subsection (2)(b) is subject to the provision made in the following sections as to how those sections have effect—
@@ -1164,7 +1164,7 @@ In this Act—
 - (a) sections 15, 16 and 17;
 - (b) sections 18 and 19.
 
-(4) The “income tax[^key-167d5d4072b343a43787d09d000c7d3b] provisions” are sections 8, 9, 10 and 11(5), (6), (7)(a) and (8)(a); they come into force in accordance with section 14 [^key-f0fef16298534af8c32769fa9cf8b3ec]....
+(4) The “income tax[^c-167d5d4072b343a43787d09d000c7d3b] provisions” are sections 8, 9, 10 and 11(5), (6), (7)(a) and (8)(a); they come into force in accordance with section 14 [^c-f0fef16298534af8c32769fa9cf8b3ec]....
 
 (5) The following provisions come into force on such day as the Treasury may by order appoint—
 
@@ -1185,67 +1185,67 @@ In this Act—
 
 SCHEDULES
 
-## SCHEDULE 1 — Referendum about commencement of income tax provisions[^key-e9f0a17e024986662ffbfda69b5f613d]
+## SCHEDULE 1 — Referendum about commencement of income tax provisions[^c-e9f0a17e024986662ffbfda69b5f613d]
 
 **No longer in force.**
 
 Section 12
 
-### Entitlement to vote[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Entitlement to vote[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**1.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Conduct etc of referendum[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Conduct etc of referendum[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**3.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Referendum question and statement[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Referendum question and statement[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**4.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Date of referendum[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Date of referendum[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**5.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Referendum period[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Referendum period[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**6.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Combination of polls[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Combination of polls[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**7.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Assistance for designated organisations[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Assistance for designated organisations[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**8.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Information and encouraging participation[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Information and encouraging participation[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**9.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Referendum material[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Referendum material[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**10.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Funding and accounts[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Funding and accounts[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**11.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### No legal challenge to referendum result[^key-e9f0a17e024986662ffbfda69b5f613d]
+### No legal challenge to referendum result[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**13.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Supplementary[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**14.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-e9f0a17e024986662ffbfda69b5f613d]
+### Interpretation[^c-e9f0a17e024986662ffbfda69b5f613d]
 
-**15.**[^key-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e9f0a17e024986662ffbfda69b5f613d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Welsh tax on land transactions: consequential amendments
 
@@ -1253,7 +1253,7 @@ Section 16
 
 ### Finance Act 1931
 
-**1.**[^key-0d18329abc617ac1af8cd715e3258db4] (1) Section 28 of the Finance Act 1931 (production to Commissioners of instruments transferring land) is amended as follows.
+**1.**[^c-0d18329abc617ac1af8cd715e3258db4] (1) Section 28 of the Finance Act 1931 (production to Commissioners of instruments transferring land) is amended as follows.
 
 (2) In subsection (3), at the end of paragraph (c) add “ or a Welsh transaction ”.
 
@@ -1268,7 +1268,7 @@ Section 16
 
 **2.** The Finance Act 2003 is amended as follows.
 
-**3.**[^key-f216b5e72abefa3798b73f61551c9def] (1) Section 48 (power to prescribe other chargeable interests) is amended as follows.
+**3.**[^c-f216b5e72abefa3798b73f61551c9def] (1) Section 48 (power to prescribe other chargeable interests) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1276,7 +1276,7 @@ Section 16
 
 (3) In subsection (5), omit “and Wales”.
 
-**4.**[^key-02f709095890d5f455b70e80241e5db8] After section 48 insert—
+**4.**[^c-02f709095890d5f455b70e80241e5db8] After section 48 insert—
 
 > **48A. Interests, transactions and consideration where land in England and Wales**
 >
@@ -1295,22 +1295,22 @@ Section 16
 >
 > (5) But subsection (4) does not apply in the case of an exempt interest.
 
-**5.**[^key-7442f005cd8d9fee25fccf7a94353578] In section 60 (compulsory purchase facilitating development), in subsections (2)(a) and (5)(a), omit “and Wales”.
+**5.**[^c-7442f005cd8d9fee25fccf7a94353578] In section 60 (compulsory purchase facilitating development), in subsections (2)(a) and (5)(a), omit “and Wales”.
 
-**6.**[^key-e30f6f2870d5e276c85ef8f6f43869ef] In section 73(5) (definition of mortgage for land acquired under alternative property finance arrangements), in subsection (b)(i), omit “or Wales”.
+**6.**[^c-e30f6f2870d5e276c85ef8f6f43869ef] In section 73(5) (definition of mortgage for land acquired under alternative property finance arrangements), in subsection (b)(i), omit “or Wales”.
 
-**7.**[^key-b415d602b628aec928430a39b325675f] In section 108(1A) (linked transactions), for “the land to which it relates is in Scotland” substitute
+**7.**[^c-b415d602b628aec928430a39b325675f] In section 108(1A) (linked transactions), for “the land to which it relates is in Scotland” substitute
 
 > —
 >
 > - (a) the transaction relates to land in Scotland, or
 > - (b) the transaction relates to land in Wales (whether by virtue of section 48A(2) or otherwise).
 
-**8.**[^key-f8924bf013790febeb7257a8b97aedc8] In section 117(2) (meaning of “major interest” in England or Wales), omit “or Wales”.
+**8.**[^c-f8924bf013790febeb7257a8b97aedc8] In section 117(2) (meaning of “major interest” in England or Wales), omit “or Wales”.
 
-**9.**[^key-bf4f8702a4704047bbc4cdc6c9ec79be] In section 121 (minor definitions), in the definition of “jointly entitled”, omit “and Wales”.
+**9.**[^c-bf4f8702a4704047bbc4cdc6c9ec79be] In section 121 (minor definitions), in the definition of “jointly entitled”, omit “and Wales”.
 
-**9A.**[^key-1745943e7ee9e2f57b1cc2eb8b1fd685] (1) Paragraph 6 of Schedule 6ZA (relief for first-time buyers: definition of “first-time buyer”) is amended as follows.
+**9A.**[^c-1745943e7ee9e2f57b1cc2eb8b1fd685] (1) Paragraph 6 of Schedule 6ZA (relief for first-time buyers: definition of “first-time buyer”) is amended as follows.
 
 (2) In sub-paragraph (1)(b)—
 
@@ -1331,17 +1331,17 @@ Section 16
 
 (3) In sub-paragraph (2) after “lease” insert “or, in the case of a dwelling situated in Wales, a term of years absolute”.
 
-**10.**[^key-3d05f8c9bb45c09231e8fdaeaadcbd54] In Schedule 7 (group relief), in paragraph 2B(4) (certain mortgage arrangements not eligible for relief), omit “and Wales”.
+**10.**[^c-3d05f8c9bb45c09231e8fdaeaadcbd54] In Schedule 7 (group relief), in paragraph 2B(4) (certain mortgage arrangements not eligible for relief), omit “and Wales”.
 
-**11.**[^key-d694a6fa73fae540345da371e3ef3f23] In Schedule 9 (right to buy, shared ownership leases, etc), in paragraph 7(2)(b) (shared ownership trusts), omit “or Wales”.
+**11.**[^c-d694a6fa73fae540345da371e3ef3f23] In Schedule 9 (right to buy, shared ownership leases, etc), in paragraph 7(2)(b) (shared ownership trusts), omit “or Wales”.
 
-**12.**[^key-fab48f060c06adcbdcd758cbdf5011b4] In Schedule 10 (returns, enquiries, assessments and appeals), in paragraph 45(2)(a) (definition of “the relevant tribunal”), omit “and Wales”.
+**12.**[^c-fab48f060c06adcbdcd758cbdf5011b4] In Schedule 10 (returns, enquiries, assessments and appeals), in paragraph 45(2)(a) (definition of “the relevant tribunal”), omit “and Wales”.
 
 ### Finance Act 2009
 
 **13.** Schedule 61 to the Finance Act 2009 (alternative finance investment bonds) is amended in accordance with paragraphs 14 and 15.
 
-**14.**[^key-e8ef9c9869daef6f547868702a847047] (1) Paragraph 1 is amended as follows.
+**14.**[^c-e8ef9c9869daef6f547868702a847047] (1) Paragraph 1 is amended as follows.
 
 (2) In the definition of “effective date” in sub-paragraph (1), after “Scotland” (in both places) insert “ or Wales ”.
 
@@ -1365,7 +1365,7 @@ Section 16
 >
 > except that it does not include a lease for a term of years, or (in Scotland) for a period, of 21 years or less.
 
-**15.**[^key-e939b357fcf568a4b938384a0ad3d9c5] In the following provisions omit “and Wales”—
+**15.**[^c-e939b357fcf568a4b938384a0ad3d9c5] In the following provisions omit “and Wales”—
 
 - (a) paragraph 5(6) (in both places);
 - (b) paragraph 6(1)(a);
@@ -1376,84 +1376,84 @@ Section 16
 
 ### Scotland Act 2012
 
-**16.**[^key-0f81538690a25b7b61ec37bba3cf4980] In Schedule 3 to the Scotland Act 2012, omit paragraph 31(4) (which inserts paragraph 1(1A) of Schedule 61 to the Finance Act 2009).
+**16.**[^c-0f81538690a25b7b61ec37bba3cf4980] In Schedule 3 to the Scotland Act 2012, omit paragraph 31(4) (which inserts paragraph 1(1A) of Schedule 61 to the Finance Act 2009).
 
 ## Annotations
 
-[^key-53e6d13e888fb7471af63d62302011a6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2014/29/section/1) omitted (coming into force in accordance with s. 25(3) of the amending Act) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/4/section/3/2), [25(3)](https://www.legislation.gov.uk/asc/2024/4/section/25/3) (with [s. 24(3)](https://www.legislation.gov.uk/asc/2024/4/section/24/3))
+[^c-53e6d13e888fb7471af63d62302011a6]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2014/29/section/1) omitted (coming into force in accordance with s. 25(3) of the amending Act) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/4/section/3/2), [25(3)](https://www.legislation.gov.uk/asc/2024/4/section/25/3) (with [s. 24(3)](https://www.legislation.gov.uk/asc/2024/4/section/24/3))
 
-[^key-996b6772ea5121120d2774300f16657b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2014/29/section/2) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(14)](https://www.legislation.gov.uk/asc/2024/4/section/10/14), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-996b6772ea5121120d2774300f16657b]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2014/29/section/2) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(14)](https://www.legislation.gov.uk/asc/2024/4/section/10/14), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-7ca07e6b2258ab38ab34f3c33f9725b4]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/3) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 99](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/99) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-7ca07e6b2258ab38ab34f3c33f9725b4]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/3) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 99](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/99) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-96215de3eb9b620ebddd870d2d000786]: Textual amendment: [S. 6(7)-(9)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/7) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 99](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/99) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-96215de3eb9b620ebddd870d2d000786]: Textual amendment: [S. 6(7)-(9)](https://www.legislation.gov.uk/ukpga/2014/29/section/6/7) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 99](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/99) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-2d425adc19e1b27991cdebf89b33331f]: Textual amendment: [S. 7(14)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/14) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 100](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/100) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-2d425adc19e1b27991cdebf89b33331f]: Textual amendment: [S. 7(14)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/14) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 100](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/100) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-10c557d93e10ec837bbbfd515df797c9]: Commencement: S. 8 in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
+[^c-10c557d93e10ec837bbbfd515df797c9]: Commencement: S. 8 in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
 
-[^key-8139d5b63b5854feec60362b8e769a27]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/29/section/9) in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
+[^c-8139d5b63b5854feec60362b8e769a27]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/29/section/9) in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
 
 [^c2233311]: Commencement: S. 11 partly in force; s. 11 not in force at Royal Assent; s. 11(1)-(4)(7)(b)(8)(b) in force 17.2.2015, see [s. 29(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b/4)
 
-[^key-32a71fbbb89cdde69830a09fb91e4628]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/6)[(7)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/7/a)[(8)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/8/a) in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 4](https://www.legislation.gov.uk/uksi/2018/892/article/4) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/892/article/7))
+[^c-32a71fbbb89cdde69830a09fb91e4628]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/6)[(7)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/7/a)[(8)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/11/8/a) in force at 24.7.2018 by [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 4](https://www.legislation.gov.uk/uksi/2018/892/article/4) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/892/article/7))
 
-[^key-94ba0f42a0da8fba5d09a8b15ebc43bd]: Textual amendment: S. 12 cross-heading omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/c), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-94ba0f42a0da8fba5d09a8b15ebc43bd]: Textual amendment: S. 12 cross-heading omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/c), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-181631374053b87a4e01e3bab123f805]: Textual amendment: S. 12 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-181631374053b87a4e01e3bab123f805]: Textual amendment: S. 12 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-5a6a416f8f900dceaee4f489f33f9d0b]: Textual amendment: S. 13 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/b), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-5a6a416f8f900dceaee4f489f33f9d0b]: Textual amendment: S. 13 omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/b), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-5082c2f0d1ea36822de8dbe0d8fdaa2e]: Textual amendment: Words in s. 14 heading omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/3/b), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-5082c2f0d1ea36822de8dbe0d8fdaa2e]: Textual amendment: Words in s. 14 heading omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/3/b), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-e80e748952e74e0319b3eaabb8e71574]: Textual amendment: S. 14(1) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/3/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-e80e748952e74e0319b3eaabb8e71574]: Textual amendment: S. 14(1) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/3/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-17c1456455cfa82c90c144383c03bcfb]: Commencement: [S. 16(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/16/4) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-17c1456455cfa82c90c144383c03bcfb]: Commencement: [S. 16(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/16/4) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-450cfc5a029eab804b0c32c5a294fd6b]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/19/3) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/214/article/2/b)
+[^c-450cfc5a029eab804b0c32c5a294fd6b]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/19/3) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/214/article/2/b)
 
-[^key-fba11f436cc5748730bf9b540d155c12]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/29/section/20) in force at 1.1.2017 by [S.I. 2016/1264](https://www.legislation.gov.uk/uksi/2016/1264), [art. 2](https://www.legislation.gov.uk/uksi/2016/1264/article/2)
+[^c-fba11f436cc5748730bf9b540d155c12]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/29/section/20) in force at 1.1.2017 by [S.I. 2016/1264](https://www.legislation.gov.uk/uksi/2016/1264), [art. 2](https://www.legislation.gov.uk/uksi/2016/1264/article/2)
 
 [^M_I_b054d6ad-6c1a-4259-dc36-d42a767e3d04]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/29/section/21) in force at 1.1.2017, see [s. 29(7)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/7) and [S.I. 2016/1264](https://www.legislation.gov.uk/uksi/2016/1264), [art. 2](https://www.legislation.gov.uk/uksi/2016/1264/article/2)
 
-[^key-bdbd963117db9d495615eaf9a9ddd3ae]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2014/29/section/22) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 101](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/101) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-bdbd963117db9d495615eaf9a9ddd3ae]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2014/29/section/22) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 101](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/101) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-b588392702c24062b1b6cbe3bfd2656e]: Textual amendment: [S. 23(8)](https://www.legislation.gov.uk/ukpga/2014/29/section/23/8) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/4), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-b588392702c24062b1b6cbe3bfd2656e]: Textual amendment: [S. 23(8)](https://www.legislation.gov.uk/ukpga/2014/29/section/23/8) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/4), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-8139d1f1bb8c41c7995ead2730391553]: Textual amendment: Words in s. 29(2)(b) substituted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-8139d1f1bb8c41c7995ead2730391553]: Textual amendment: Words in s. 29(2)(b) substituted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-167d5d4072b343a43787d09d000c7d3b]: Textual amendment: Words in s. 29(4) substituted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/b/i), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-167d5d4072b343a43787d09d000c7d3b]: Textual amendment: Words in s. 29(4) substituted (31.3.2017) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/b/i), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-f0fef16298534af8c32769fa9cf8b3ec]: Textual amendment: Words in s. 29(4) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/b/ii), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-f0fef16298534af8c32769fa9cf8b3ec]: Textual amendment: Words in s. 29(4) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/5/b/ii), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-e9f0a17e024986662ffbfda69b5f613d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/29/schedule/1) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
+[^c-e9f0a17e024986662ffbfda69b5f613d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/29/schedule/1) omitted (31.3.2017) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/17/2/a), [71(2)(d)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/d) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6))
 
-[^key-0d18329abc617ac1af8cd715e3258db4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/1) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-0d18329abc617ac1af8cd715e3258db4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/1) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-f216b5e72abefa3798b73f61551c9def]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/3) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-f216b5e72abefa3798b73f61551c9def]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/3) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-02f709095890d5f455b70e80241e5db8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/4) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-02f709095890d5f455b70e80241e5db8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/4) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-7442f005cd8d9fee25fccf7a94353578]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/5) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-7442f005cd8d9fee25fccf7a94353578]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/5) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-e30f6f2870d5e276c85ef8f6f43869ef]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/6) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-e30f6f2870d5e276c85ef8f6f43869ef]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/6) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-b415d602b628aec928430a39b325675f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/7) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-b415d602b628aec928430a39b325675f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/7) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-f8924bf013790febeb7257a8b97aedc8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/8) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-f8924bf013790febeb7257a8b97aedc8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/8) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-bf4f8702a4704047bbc4cdc6c9ec79be]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-bf4f8702a4704047bbc4cdc6c9ec79be]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-1745943e7ee9e2f57b1cc2eb8b1fd685]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9A) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(7)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/7)
+[^c-1745943e7ee9e2f57b1cc2eb8b1fd685]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9A) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(7)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/7)
 
-[^key-3d05f8c9bb45c09231e8fdaeaadcbd54]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/10) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-3d05f8c9bb45c09231e8fdaeaadcbd54]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/10) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-d694a6fa73fae540345da371e3ef3f23]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/11) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-d694a6fa73fae540345da371e3ef3f23]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/11) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-fab48f060c06adcbdcd758cbdf5011b4]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/12) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-fab48f060c06adcbdcd758cbdf5011b4]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/12) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-e8ef9c9869daef6f547868702a847047]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/14) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-e8ef9c9869daef6f547868702a847047]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/14) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-e939b357fcf568a4b938384a0ad3d9c5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/15) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-e939b357fcf568a4b938384a0ad3d9c5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/15) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-0f81538690a25b7b61ec37bba3cf4980]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/16) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
+[^c-0f81538690a25b7b61ec37bba3cf4980]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/16) has effect as specified by [The Wales Act 2014, Sections 16 and 19 (Disapplication of UK Stamp Duty Land Tax and UK Landfill Tax) (Appointed Date) Order 2018 (S.I. 2018/214)](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)

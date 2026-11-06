@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Interim measures: pre-emptive action: mergers[^key-e9fff7e92cc2ee8329b5c7a6a65fa03c]
+## 30. Interim measures: pre-emptive action: mergers[^c-e9fff7e92cc2ee8329b5c7a6a65fa03c]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9fff7e92cc2ee8329b5c7a6a65fa03c]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2013/24/section/30) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e9fff7e92cc2ee8329b5c7a6a65fa03c]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2013/24/section/30) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Mandatory reviews: further steps to be taken where order not revoked[^key-3b9fbd0e21829b835041fd132b5a5d79]
+## 83. Mandatory reviews: further steps to be taken where order not revoked[^c-3b9fbd0e21829b835041fd132b5a5d79]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the responsible medical officer shall comply with the requirements in subsection
 
 ## Annotations
 
-[^key-3b9fbd0e21829b835041fd132b5a5d79]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2003/13/section/83) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3b9fbd0e21829b835041fd132b5a5d79]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2003/13/section/83) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

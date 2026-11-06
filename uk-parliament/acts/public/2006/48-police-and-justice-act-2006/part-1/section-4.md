@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Police authorities as best value authorities[^key-9dbf8beda302fded38141f38dbf8d47a]
+## 4. Police authorities as best value authorities[^c-9dbf8beda302fded38141f38dbf8d47a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dbf8beda302fded38141f38dbf8d47a]: Textual amendment: S. 4 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 18 Pt. 8](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/8); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/i)
+[^c-9dbf8beda302fded38141f38dbf8d47a]: Textual amendment: S. 4 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 18 Pt. 8](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/8); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/i)

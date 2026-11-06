@@ -44,11 +44,11 @@ Coming into operation in accordance with Rule 1
 
 The Magistrates’ Courts Rules Committee makes and the Department of Justice, after consultation with the Lady Chief Justice, allows the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001].
 
-## 1. Citation, commencement and transitional provisions[^key-39761f5652896be274819d5cba10f819]
+## 1. Citation, commencement and transitional provisions[^c-39761f5652896be274819d5cba10f819]
 
 These Rules may be cited as the Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 and shall come into operation on the same day as section 1 of the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022[^f00002].
 
-**2.**[^key-31b669ef78ab7c8b34b745f041dc0a66] (1) These Rules do not apply to proceedings instituted before the coming into operation of section 1 of the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022.
+**2.**[^c-31b669ef78ab7c8b34b745f041dc0a66] (1) These Rules do not apply to proceedings instituted before the coming into operation of section 1 of the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022.
 
 (2) For the purposes of this Rule, proceedings are taken to be instituted—
 
@@ -62,7 +62,7 @@ These Rules may be cited as the Magistrates’ Courts (Amendment) Rules (Norther
 
 and where the application of this paragraph would result in there being more than one time for the institution of the proceedings, they shall be taken to have been instituted at the earliest of those times.
 
-## 3. Amendment to the Magistrates’ Courts Rules (Northern Ireland) 1984[^key-003aa78f8c6e5d4fccc8c4a5bfbeda26]
+## 3. Amendment to the Magistrates’ Courts Rules (Northern Ireland) 1984[^c-003aa78f8c6e5d4fccc8c4a5bfbeda26]
 
 The Magistrates’ Courts Rules (Northern Ireland) 1984[^f00004] are amended as follows—
 
@@ -182,11 +182,11 @@ Naomi Long
 
 Minister of Justice
 
-## SCHEDULE 1[^key-e7d7430af743a2398a720b269ceec905]
+## SCHEDULE 1[^c-e7d7430af743a2398a720b269ceec905]
 
 Rule 3(15)(d)
 
-## SCHEDULE 2[^key-3ba914774f53d2c6f99ab84c4f984657]
+## SCHEDULE 2[^c-3ba914774f53d2c6f99ab84c4f984657]
 
 Rule 3(15)(f)
 
@@ -200,18 +200,18 @@ These Rules amend the Magistrates’ Courts Rules (Northern Ireland) 1984 ([S.R.
 
 [^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 133 of Schedule 18 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) and paragraph 4 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
 
-[^key-39761f5652896be274819d5cba10f819]: Commencement: Rule 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
+[^c-39761f5652896be274819d5cba10f819]: Commencement: Rule 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
 
 [^f00002]: Footnote: [2022 c.4](https://www.legislation.gov.uk/nia/2022/4).
 
-[^key-31b669ef78ab7c8b34b745f041dc0a66]: Commencement: Rule 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
+[^c-31b669ef78ab7c8b34b745f041dc0a66]: Commencement: Rule 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
 
 [^f00003]: Footnote: [1969 c.15](https://www.legislation.gov.uk/apni/1969/15).
 
-[^key-003aa78f8c6e5d4fccc8c4a5bfbeda26]: Commencement: Rule 3 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
+[^c-003aa78f8c6e5d4fccc8c4a5bfbeda26]: Commencement: Rule 3 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
 
 [^f00004]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225) to which the most recent relevant amendments were made by [S.R. 2016 No. 304](https://www.legislation.gov.uk/nisr/2016/304).
 
-[^key-e7d7430af743a2398a720b269ceec905]: Commencement: Sch. 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
+[^c-e7d7430af743a2398a720b269ceec905]: Commencement: Sch. 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
 
-[^key-3ba914774f53d2c6f99ab84c4f984657]: Commencement: Sch. 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)
+[^c-3ba914774f53d2c6f99ab84c4f984657]: Commencement: Sch. 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1)

@@ -33,16 +33,16 @@ of 6 February 2017
 
 determining, for the General Secretariat of the Council, the appointing authority and the authority empowered to conclude contracts of employment, and repealing Decision 2013/811/EU (revoked)
 
-[^key-b282d55b5bad6b4f00d65848a7bbd3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b282d55b5bad6b4f00d65848a7bbd3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b282d55b5bad6b4f00d65848a7bbd3ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b282d55b5bad6b4f00d65848a7bbd3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b282d55b5bad6b4f00d65848a7bbd3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b282d55b5bad6b4f00d65848a7bbd3ed]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b282d55b5bad6b4f00d65848a7bbd3ed]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

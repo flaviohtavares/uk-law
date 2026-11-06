@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115B. Guidance[^key-127a9763de0e2153c8dc3b82e3ed60fb]
+## 115B. Guidance[^c-127a9763de0e2153c8dc3b82e3ed60fb]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127a9763de0e2153c8dc3b82e3ed60fb]: Textual amendment: Ss. 115A, 115B inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(5)](https://www.legislation.gov.uk/asp/2018/13/section/4/5), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-127a9763de0e2153c8dc3b82e3ed60fb]: Textual amendment: Ss. 115A, 115B inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(5)](https://www.legislation.gov.uk/asp/2018/13/section/4/5), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

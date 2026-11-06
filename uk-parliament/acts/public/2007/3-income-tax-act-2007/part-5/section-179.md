@@ -27,25 +27,25 @@ summary: ''
 
 if it is carried on by the company or a qualifying 90% subsidiary of the company.
 
-[^key-c7150e5ab8bc938f239c6ffa64c9effd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7150e5ab8bc938f239c6ffa64c9effd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Activity A is—
 
 - (a) the carrying on of a qualifying trade which, on the date the relevant shares are issued, the company or a qualifying 90% subsidiary of the company is carrying on, or
 - (b) the activity of preparing to carry on (or preparing to carry on and then carrying on) a qualifying trade—
-  - (i) which, on that date, is intended to be carried on [^key-3c9fe2d250ec20edc0f55257fb43b3ed]... by the company or such a subsidiary, and
+  - (i) which, on that date, is intended to be carried on [^c-3c9fe2d250ec20edc0f55257fb43b3ed]... by the company or such a subsidiary, and
   - (ii) which is begun to be carried on by the company or such a subsidiary within two years after that date.
 
-(3)[^key-0a9f2919eab2674285af78c36748a76f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0a9f2919eab2674285af78c36748a76f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Activity B is the carrying on of research and development—
 
 - (a) which, on the date the relevant shares are issued, the company or a qualifying 90% subsidiary of the company is carrying on, or which the company or such a subsidiary begins to carry on immediately afterwards, and
 - (b) from which, on that date, it is intended—
-  - (i) that a qualifying trade which the company or such a subsidiary will carry on [^key-895caeef6d0c595b3a9b7de402583e09]... will be derived, or
-  - (ii) that a qualifying trade which the company or such a subsidiary is carrying on, or will carry on, [^key-6f0a367de52d7f949478d0b8941349d2]... will benefit.
+  - (i) that a qualifying trade which the company or such a subsidiary will carry on [^c-895caeef6d0c595b3a9b7de402583e09]... will be derived, or
+  - (ii) that a qualifying trade which the company or such a subsidiary is carrying on, or will carry on, [^c-6f0a367de52d7f949478d0b8941349d2]... will benefit.
 
-(5)[^key-cea258a17f438420d4e72dca45970786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cea258a17f438420d4e72dca45970786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In determining—
 
@@ -58,14 +58,14 @@ any carrying on of the trade or, as the case may be, the research and developmen
 
 ## Annotations
 
-[^key-c7150e5ab8bc938f239c6ffa64c9effd]: Textual amendment: Words in s. 179(1) omitted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/10)
+[^c-c7150e5ab8bc938f239c6ffa64c9effd]: Textual amendment: Words in s. 179(1) omitted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/10)
 
-[^key-3c9fe2d250ec20edc0f55257fb43b3ed]: Textual amendment: Words in s. 179(2)(b)(i) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/a); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-3c9fe2d250ec20edc0f55257fb43b3ed]: Textual amendment: Words in s. 179(2)(b)(i) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/a); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-0a9f2919eab2674285af78c36748a76f]: Textual amendment: S. 179(3) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/b); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-0a9f2919eab2674285af78c36748a76f]: Textual amendment: S. 179(3) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/b); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-895caeef6d0c595b3a9b7de402583e09]: Textual amendment: Words in s. 179(4)(b)(i) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-895caeef6d0c595b3a9b7de402583e09]: Textual amendment: Words in s. 179(4)(b)(i) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-6f0a367de52d7f949478d0b8941349d2]: Textual amendment: Words in s. 179(4)(b)(ii) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-6f0a367de52d7f949478d0b8941349d2]: Textual amendment: Words in s. 179(4)(b)(ii) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/c); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
 
-[^key-cea258a17f438420d4e72dca45970786]: Textual amendment: S. 179(5) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/d); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-cea258a17f438420d4e72dca45970786]: Textual amendment: S. 179(5) omitted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/2/d); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

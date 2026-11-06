@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Assistance for persons making representations[^key-8a321bfffe6c2e8af57e91331ca7f73d]
+## 178. Assistance for persons making representations[^c-8a321bfffe6c2e8af57e91331ca7f73d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a321bfffe6c2e8af57e91331ca7f73d]: Commencement: S. 178 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-8a321bfffe6c2e8af57e91331ca7f73d]: Commencement: S. 178 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

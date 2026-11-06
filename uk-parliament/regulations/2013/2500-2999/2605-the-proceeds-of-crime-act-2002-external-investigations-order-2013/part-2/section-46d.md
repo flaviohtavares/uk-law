@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46D. Compliance or purported compliance with an unexplained wealth order[^key-792d3d207261ae0143b4fac7ae821867]
+## 46D. Compliance or purported compliance with an unexplained wealth order[^c-792d3d207261ae0143b4fac7ae821867]
 
 *Extent: S*
 
 (1) This article applies if—
 
-- (a) before the end of the response period, the respondent and the specified responsible officer (if any) between them comply, or purport to comply, with all of the[^key-17ba430d9ec6188bf16c600c69610813] requirements imposed by an unexplained wealth order in respect of any property in relation to which the order was made; and
+- (a) before the end of the response period, the respondent and the specified responsible officer (if any) between them comply, or purport to comply, with all of the[^c-17ba430d9ec6188bf16c600c69610813] requirements imposed by an unexplained wealth order in respect of any property in relation to which the order was made; and
 - (b) an interim freezing order has effect in relation to the property (see article 46I (unexplained wealth order: application for interim freezing order)).
 
 (2) In this article “compliance material” means—
@@ -44,6 +44,6 @@ and compliance material is “provided” when it is given or produced as requir
 
 ## Annotations
 
-[^key-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)
+[^c-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)
 
-[^key-17ba430d9ec6188bf16c600c69610813]: Textual amendment: Words in [art. 46D(1)(a)](https://www.legislation.gov.uk/uksi/2013/2605/article/46D/1/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2024/1127/article/18/4)
+[^c-17ba430d9ec6188bf16c600c69610813]: Textual amendment: Words in [art. 46D(1)(a)](https://www.legislation.gov.uk/uksi/2013/2605/article/46D/1/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [18(4)](https://www.legislation.gov.uk/uksi/2024/1127/article/18/4)

@@ -52,57 +52,57 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2018 and come into force on 1st April 2018.
 
-## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-33c9ac18173a5a1c4a66b85a044ec880]
+## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
-### 2.[^key-33c9ac18173a5a1c4a66b85a044ec880]
-
-**May not be in force at this date. Check the source.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Calculation of income for persons who have an award of universal credit[^key-33c9ac18173a5a1c4a66b85a044ec880]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Payments made by the Thalidomide Trust[^key-33c9ac18173a5a1c4a66b85a044ec880]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5.[^key-33c9ac18173a5a1c4a66b85a044ec880]
+### 2.[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-33c9ac18173a5a1c4a66b85a044ec880]
-
-**May not be in force at this date. Check the source.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Backdating of claims[^key-33c9ac18173a5a1c4a66b85a044ec880]
+### 3. Calculation of income for persons who have an award of universal credit[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Uprating[^key-33c9ac18173a5a1c4a66b85a044ec880]
+### 4. Payments made by the Thalidomide Trust[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-33c9ac18173a5a1c4a66b85a044ec880]
+### 5.[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-33c9ac18173a5a1c4a66b85a044ec880]
+### 6.[^c-33c9ac18173a5a1c4a66b85a044ec880]
+
+**May not be in force at this date. Check the source.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Backdating of claims[^c-33c9ac18173a5a1c4a66b85a044ec880]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Uprating[^c-33c9ac18173a5a1c4a66b85a044ec880]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9.[^c-33c9ac18173a5a1c4a66b85a044ec880]
+
+**May not be in force at this date. Check the source.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10.[^c-33c9ac18173a5a1c4a66b85a044ec880]
 
 **May not be in force at this date. Check the source.**
 
@@ -222,7 +222,7 @@ Regulations 15 to 17 uprate figures used to calculate the amount of council tax 
 
 [^c22967971]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14); [section 80](https://www.legislation.gov.uk/ssi/2018/69/section/80) was amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-33c9ac18173a5a1c4a66b85a044ec880]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2018/69/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-33c9ac18173a5a1c4a66b85a044ec880]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2018/69/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^c22968041]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319); relevant amending instruments are [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81) and [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41).
 

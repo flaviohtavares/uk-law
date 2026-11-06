@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Syria (Asset-Freezing) (Amendment) Regulations 2011 (revoked)[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+The Syria (Asset-Freezing) (Amendment) Regulations 2011 (revoked)[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 at 6.00 p.m. on 17th October 2011
 
-[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+## 1. Citation and commencement[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Syria (Asset-Freezing) Regulations 2011[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+## 2. Amendments to the Syria (Asset-Freezing) Regulations 2011[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+## 3.[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+## 4.[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]
+## 5.[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5048f3b70a7f8979a7ab1d40c8ac0ea4]: Textual amendment: Regulations revoked (19.1.2012) by [The Syria (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/129)](https://www.legislation.gov.uk/uksi/2012/129), regs. 1(1), [24(b)](https://www.legislation.gov.uk/uksi/2012/129/regulation/24/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2012/129/regulation/23))
+[^c-5048f3b70a7f8979a7ab1d40c8ac0ea4]: Textual amendment: Regulations revoked (19.1.2012) by [The Syria (European Union Financial Sanctions) Regulations 2012 (S.I. 2012/129)](https://www.legislation.gov.uk/uksi/2012/129), regs. 1(1), [24(b)](https://www.legislation.gov.uk/uksi/2012/129/regulation/24/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2012/129/regulation/23))

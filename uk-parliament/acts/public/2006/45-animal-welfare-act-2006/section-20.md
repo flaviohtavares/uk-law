@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Orders in relation to animals taken under section 18(5)[^key-3d2dd2001a33201c560954695addbc0e][^key-a8cb749ed7004cadbdf610971d3112b2]
+## 20. Orders in relation to animals taken under section 18(5)[^c-3d2dd2001a33201c560954695addbc0e][^c-a8cb749ed7004cadbdf610971d3112b2]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2dd2001a33201c560954695addbc0e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/45/section/20) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-3d2dd2001a33201c560954695addbc0e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/45/section/20) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-a8cb749ed7004cadbdf610971d3112b2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/45/section/20) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-a8cb749ed7004cadbdf610971d3112b2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/45/section/20) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

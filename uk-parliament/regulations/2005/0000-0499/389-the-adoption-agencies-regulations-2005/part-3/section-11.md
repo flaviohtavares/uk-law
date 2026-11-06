@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Regulations 12[^key-a0542a76d9b4796f7b7613adddb33060] to 17 apply where the adoption agency is considering adoption for a child.
+Regulations 12[^c-a0542a76d9b4796f7b7613adddb33060] to 17 apply where the adoption agency is considering adoption for a child.
 
 ## Annotations
 
-[^key-a0542a76d9b4796f7b7613adddb33060]: Textual amendment: Word in reg. 11 substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/e)
+[^c-a0542a76d9b4796f7b7613adddb33060]: Textual amendment: Word in reg. 11 substituted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/e)

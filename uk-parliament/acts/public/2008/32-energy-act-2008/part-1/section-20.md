@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Terms and conditions[^key-70f88fe8d0a57382b59c495140f1837e]
+## 20. Terms and conditions[^c-70f88fe8d0a57382b59c495140f1837e]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f88fe8d0a57382b59c495140f1837e]: Commencement: S. 20 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-70f88fe8d0a57382b59c495140f1837e]: Commencement: S. 20 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)

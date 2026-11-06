@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Amendment of Regulation 2015/786[^key-1832c13eb6b6163d559c92f745d7b88b]
+## 136. Amendment of Regulation 2015/786[^c-1832c13eb6b6163d559c92f745d7b88b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 2015/786 is amended as follows.
 
 ## Annotations
 
-[^key-1832c13eb6b6163d559c92f745d7b88b]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1832c13eb6b6163d559c92f745d7b88b]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

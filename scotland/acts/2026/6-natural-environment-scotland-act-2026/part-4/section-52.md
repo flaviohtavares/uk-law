@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Sustainable forest management[^key-c6559ad6218534fb586dbcadb2938c40]
+## 52. Sustainable forest management[^c-c6559ad6218534fb586dbcadb2938c40]
 
 *Extent: S*
 
-(1)[^key-25995bd4c47501c9616acbbca2f469f3] The Forestry and Land Management (Scotland) Act 2018 is modified as follows.
+(1)[^c-25995bd4c47501c9616acbbca2f469f3] The Forestry and Land Management (Scotland) Act 2018 is modified as follows.
 
-(2)[^key-25995bd4c47501c9616acbbca2f469f3] After section 8, insert—
+(2)[^c-25995bd4c47501c9616acbbca2f469f3] After section 8, insert—
 
 > **Power to make further provision in relation to sustainable forest management**
 >
@@ -93,7 +93,7 @@ summary: ''
     ,
 - (b) in subsection (3), for “or (as the case may be) registered notice to comply” substitute “, registered notice to comply or (as the case may be) UKFS requirement”.
 
-(6)[^key-25995bd4c47501c9616acbbca2f469f3] In section 76 (regulations), in subsection (2), before paragraph (a) insert—
+(6)[^c-25995bd4c47501c9616acbbca2f469f3] In section 76 (regulations), in subsection (2), before paragraph (a) insert—
 
 > - (za) section 8A(1),
 
@@ -109,6 +109,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6559ad6218534fb586dbcadb2938c40]: Commencement: S. 52 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-c6559ad6218534fb586dbcadb2938c40]: Commencement: S. 52 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-25995bd4c47501c9616acbbca2f469f3]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2026/6/section/52/1)[(2)](https://www.legislation.gov.uk/asp/2026/6/section/52/2)[(6)](https://www.legislation.gov.uk/asp/2026/6/section/52/6) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)
+[^c-25995bd4c47501c9616acbbca2f469f3]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2026/6/section/52/1)[(2)](https://www.legislation.gov.uk/asp/2026/6/section/52/2)[(6)](https://www.legislation.gov.uk/asp/2026/6/section/52/6) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)

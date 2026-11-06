@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Continuity of obligations[^key-0a403c24f6e5501998135029b29f1ddf]
+## 64. Continuity of obligations[^c-0a403c24f6e5501998135029b29f1ddf]
 
 *Extent: E+W+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a403c24f6e5501998135029b29f1ddf]: Commencement: S. 64 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-0a403c24f6e5501998135029b29f1ddf]: Commencement: S. 64 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

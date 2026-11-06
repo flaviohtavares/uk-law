@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Supplemental and transitional provision[^key-fd1dfcbb6ed22f69b401aa8c19d92027]
+## 116. Supplemental and transitional provision[^c-fd1dfcbb6ed22f69b401aa8c19d92027]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 19(4) of the 1995 Order, after “under” insert “section 367 of t
 
 ## Annotations
 
-[^key-fd1dfcbb6ed22f69b401aa8c19d92027]: Commencement: S. 116 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-fd1dfcbb6ed22f69b401aa8c19d92027]: Commencement: S. 116 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

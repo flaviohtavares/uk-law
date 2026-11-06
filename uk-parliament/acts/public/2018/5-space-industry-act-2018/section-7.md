@@ -20,27 +20,27 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-52cad52d7c298ffcb6e8e88b55b1019f] Range control services may be provided only by—
+(1)[^c-52cad52d7c298ffcb6e8e88b55b1019f] Range control services may be provided only by—
 
 - (a) the Secretary of State, or
 - (b) a person authorised to provide them by a range control licence.
 
-(2)[^key-391201a1499f6d54f8ee95933551cbae] In this Act—
+(2)[^c-391201a1499f6d54f8ee95933551cbae] In this Act—
 
 - “**range control licence**” means a licence under this section;
 - “**range control service provider**” means a person providing range control services.
 
-(3)[^key-f1a17338bb7117060354d10a3b206578] A person does not require a range control licence to provide, as employee or agent of another person, range control services the provision of which is authorised by a range control licence granted to that other person.
+(3)[^c-f1a17338bb7117060354d10a3b206578] A person does not require a range control licence to provide, as employee or agent of another person, range control services the provision of which is authorised by a range control licence granted to that other person.
 
-(4)[^key-c003489e9b47548aa60730948ad80d56] Regulations may make provision for persons or services to be exempted, either by the regulations themselves or by the regulator, from the prohibition in subsection (1) on unlicensed persons providing range control services, but only if the Secretary of State is satisfied that the prohibition—
+(4)[^c-c003489e9b47548aa60730948ad80d56] Regulations may make provision for persons or services to be exempted, either by the regulations themselves or by the regulator, from the prohibition in subsection (1) on unlicensed persons providing range control services, but only if the Secretary of State is satisfied that the prohibition—
 
 - (a) is not necessary to secure public safety,
 - (b) is not necessary to secure the health and safety of individuals taking part in spaceflight activities in a role or capacity prescribed under section 17(1), and
 - (c) is not necessary to secure compliance with the international obligations of the United Kingdom.
 
-(5)[^key-c003489e9b47548aa60730948ad80d56] An exemption granted by or under regulations made under subsection (4) may be for a limited period.
+(5)[^c-c003489e9b47548aa60730948ad80d56] An exemption granted by or under regulations made under subsection (4) may be for a limited period.
 
-(6)[^key-c003489e9b47548aa60730948ad80d56] Regulations may make further provision for the purposes of this section, including in particular—
+(6)[^c-c003489e9b47548aa60730948ad80d56] Regulations may make further provision for the purposes of this section, including in particular—
 
 - (a) provision prescribing eligibility criteria to be the holder of a range control licence;
 - (b) provision about the circumstances in which, and the conditions subject to which, a person may be authorised to provide range control services for spaceflight activities carried out by that person;
@@ -53,11 +53,11 @@ summary: ''
 - (i) provision about the revocation or renewal of an exemption;
 - (j) provision for the enforcement of terms or conditions of an exemption.
 
-(7)[^key-c003489e9b47548aa60730948ad80d56] The regulator may issue guidance about how the holder of a range control licence may comply with any safety requirements imposed by regulations under subsection (6).
+(7)[^c-c003489e9b47548aa60730948ad80d56] The regulator may issue guidance about how the holder of a range control licence may comply with any safety requirements imposed by regulations under subsection (6).
 
-(8)[^key-23efba92f4c78d4132e74604b0cd60bb] A person who acts in contravention of subsection (1) commits an offence.
+(8)[^c-23efba92f4c78d4132e74604b0cd60bb] A person who acts in contravention of subsection (1) commits an offence.
 
-(9)[^key-23efba92f4c78d4132e74604b0cd60bb] It is an offence for a person—
+(9)[^c-23efba92f4c78d4132e74604b0cd60bb] It is an offence for a person—
 
 - (a) to make a statement that the person knows to be false in a material particular, or
 - (b) recklessly to make a statement that is false in a material particular,
@@ -66,12 +66,12 @@ for the purpose of obtaining a range control licence (whether for the person mak
 
 ## Annotations
 
-[^key-52cad52d7c298ffcb6e8e88b55b1019f]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-52cad52d7c298ffcb6e8e88b55b1019f]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-391201a1499f6d54f8ee95933551cbae]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/k)
+[^c-391201a1499f6d54f8ee95933551cbae]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/k)
 
-[^key-f1a17338bb7117060354d10a3b206578]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-f1a17338bb7117060354d10a3b206578]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-c003489e9b47548aa60730948ad80d56]: Commencement: [S. 7(4)-(7)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/4) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/l)
+[^c-c003489e9b47548aa60730948ad80d56]: Commencement: [S. 7(4)-(7)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/4) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/l)
 
-[^key-23efba92f4c78d4132e74604b0cd60bb]: Commencement: [S. 7(8)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/9) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-23efba92f4c78d4132e74604b0cd60bb]: Commencement: [S. 7(8)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/8)[(9)](https://www.legislation.gov.uk/ukpga/2018/5/section/7/9) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

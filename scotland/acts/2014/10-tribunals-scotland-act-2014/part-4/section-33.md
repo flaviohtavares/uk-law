@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Assignment policy[^key-c3ba1dbdbe1e2464da586d382db0eb97]
+## 33. Assignment policy[^c-c3ba1dbdbe1e2464da586d382db0eb97]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3ba1dbdbe1e2464da586d382db0eb97]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/10/section/33) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-c3ba1dbdbe1e2464da586d382db0eb97]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/10/section/33) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

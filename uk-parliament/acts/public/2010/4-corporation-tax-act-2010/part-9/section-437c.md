@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 437C. Present value of a lease[^key-f00c7943a9320fe25246bdc11be71f80]
+## 437C. Present value of a lease[^c-f00c7943a9320fe25246bdc11be71f80]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
 (5) The interest rate implicit in the lease is the interest rate that would apply in accordance with normal commercial criteria, including, in particular, generally accepted accounting practice (where applicable).
 
-(6) But if a rate cannot be determined in accordance with subsection (5), the interest rate implicit in the lease is taken to be the incremental borrowing rate[^key-61ed95c364129285bff0f05ccbe24a23].
+(6) But if a rate cannot be determined in accordance with subsection (5), the interest rate implicit in the lease is taken to be the incremental borrowing rate[^c-61ed95c364129285bff0f05ccbe24a23].
 
-(7)[^key-cad2302f48909d56443588c82b40b40d] For this purpose, the incremental borrowing rate has the same meaning as it has for accounting purposes.
+(7)[^c-cad2302f48909d56443588c82b40b40d] For this purpose, the incremental borrowing rate has the same meaning as it has for accounting purposes.
 
 (7A) The Treasury may by regulations amend this section for the purpose of replacing references to the incremental borrowing rate with references to another rate.
 
@@ -55,8 +55,8 @@ references in this section to amounts payable under the lease include amounts pa
 
 ## Annotations
 
-[^key-f00c7943a9320fe25246bdc11be71f80]: Textual amendment: Ss. 437A-437C inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/22)
+[^c-f00c7943a9320fe25246bdc11be71f80]: Textual amendment: Ss. 437A-437C inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/22)
 
-[^key-61ed95c364129285bff0f05ccbe24a23]: Textual amendment: Words in s. 437C(6) substituted (with effect in accordance with s. 132(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 132(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/132/3/a)
+[^c-61ed95c364129285bff0f05ccbe24a23]: Textual amendment: Words in s. 437C(6) substituted (with effect in accordance with s. 132(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 132(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/132/3/a)
 
-[^key-cad2302f48909d56443588c82b40b40d]: Textual amendment: S. 437C(7)(7A) substituted for s. 437C(7) (with effect in accordance with s. 132(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 132(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/132/3/b)
+[^c-cad2302f48909d56443588c82b40b40d]: Textual amendment: S. 437C(7)(7A) substituted for s. 437C(7) (with effect in accordance with s. 132(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 132(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/132/3/b)

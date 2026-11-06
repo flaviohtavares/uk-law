@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Exercise of maritime enforcement powers[^key-7fe931e7e70f48bcfca017ab618446d9]
+## 75. Exercise of maritime enforcement powers[^c-7fe931e7e70f48bcfca017ab618446d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-7fe931e7e70f48bcfca017ab618446d9]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-7fe931e7e70f48bcfca017ab618446d9]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

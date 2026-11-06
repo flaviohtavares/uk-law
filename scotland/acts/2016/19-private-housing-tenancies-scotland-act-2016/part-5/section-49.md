@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Requirements for notice to be given by tenant[^key-dfde5b57f082dcb8af45f4f3208aa320]
+## 49. Requirements for notice to be given by tenant[^c-dfde5b57f082dcb8af45f4f3208aa320]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfde5b57f082dcb8af45f4f3208aa320]: Commencement: S. 49 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-dfde5b57f082dcb8af45f4f3208aa320]: Commencement: S. 49 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

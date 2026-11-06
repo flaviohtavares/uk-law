@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45D. Grant or refusal of broker’s registration[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+## 45D. Grant or refusal of broker’s registration[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) register the applicant as a broker; or
 - (b) refuse registration as a broker, having regard to—
-  - (i) the provisions of these Regulations, [^key-aad7b12647f099770443cf2ab3c25e0e]...
-  - (ii)[^key-aad7b12647f099770443cf2ab3c25e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the provisions of these Regulations, [^c-aad7b12647f099770443cf2ab3c25e0e]...
+  - (ii)[^c-aad7b12647f099770443cf2ab3c25e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The licensing authority must give the applicant a notice stating the reasons for its decision in any case where the licensing authority—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
 
-[^key-aad7b12647f099770443cf2ab3c25e0e]: Textual amendment: [Reg. 45D(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45D/1/b/ii) and word omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/775/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aad7b12647f099770443cf2ab3c25e0e]: Textual amendment: [Reg. 45D(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45D/1/b/ii) and word omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [39](https://www.legislation.gov.uk/uksi/2019/775/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

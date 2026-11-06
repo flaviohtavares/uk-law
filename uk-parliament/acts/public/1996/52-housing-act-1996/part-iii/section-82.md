@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Notice under s.146 of the Law of Property Act 1925.[^key-071d962ec9ab27fd213197baa9d0d745]
+## 82. Notice under s.146 of the Law of Property Act 1925.[^c-071d962ec9ab27fd213197baa9d0d745]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-071d962ec9ab27fd213197baa9d0d745]: Textual amendment: S. 82 repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
+[^c-071d962ec9ab27fd213197baa9d0d745]: Textual amendment: S. 82 repealed (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/j); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)

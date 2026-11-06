@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Fines or maximum fines expressed as proportions[^key-a198d042be6833556cbaf9a4762cec7c]
+## 3. Fines or maximum fines expressed as proportions[^c-a198d042be6833556cbaf9a4762cec7c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a198d042be6833556cbaf9a4762cec7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/664/regulation/3) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-a198d042be6833556cbaf9a4762cec7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/664/regulation/3) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)

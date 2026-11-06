@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.7. Notice of application to consider bail[^key-d4cdf74a1bb31b42a40e090706279455]
+## 14.7. Notice of application to consider bail[^c-d4cdf74a1bb31b42a40e090706279455]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d4cdf74a1bb31b42a40e090706279455]: Commencement: [Rule 14.7](https://www.legislation.gov.uk/uksi/2025/909/rule/14.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d4cdf74a1bb31b42a40e090706279455]: Commencement: [Rule 14.7](https://www.legislation.gov.uk/uksi/2025/909/rule/14.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00359]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 88 was amended by section 148 of, and paragraphs 59 and 63 of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Section 89 was amended by section 59 of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 148 of, and paragraphs 59 and 63 of Schedule 26 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

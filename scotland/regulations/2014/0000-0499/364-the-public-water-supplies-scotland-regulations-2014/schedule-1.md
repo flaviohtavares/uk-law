@@ -45,7 +45,7 @@ MICROBIOLOGICAL PARAMETERS
 </tbody>
 </table>
 
-TABLE B[^key-f5f5641892bb6fa0944bd8e50f4a359c]
+TABLE B[^c-f5f5641892bb6fa0944bd8e50f4a359c]
 
 CHEMICAL PARAMETERS
 
@@ -120,7 +120,7 @@ CHEMICAL PARAMETERS
 </tbody>
 </table>
 
-TABLE C[^key-08721e3fe48874d940d934b86dcb0c9e]
+TABLE C[^c-08721e3fe48874d940d934b86dcb0c9e]
 
 Indicator Parameters
 
@@ -168,13 +168,13 @@ Indicator Parameters
 
 In this Schedule—
 
-- [^key-758e846b04df042f4c3cf4a4c18a8c9c]...
-- “[^key-bad73a5d954d4e49185897cbff469bc4]**HAAs**” means the sum of the following haloacetic acides: monochloro-, dichloro-, and trichloro-acetic acid, and mono- and dibromo-acetic acid,
+- [^c-758e846b04df042f4c3cf4a4c18a8c9c]...
+- “[^c-bad73a5d954d4e49185897cbff469bc4]**HAAs**” means the sum of the following haloacetic acides: monochloro-, dichloro-, and trichloro-acetic acid, and mono- and dibromo-acetic acid,
 - “**NTU**” means Nephelometric Turbidity Unit;
 - “**PAH: Total**” means the sum of the concentrations of the following polyaromatic hydrocarbons: benzo(b)fluoranthene, benzo(k)fluoranthene, benzo(ghi)perylene and indeno(1,2,3-cd)pyrene;
-- “**Pesticide**” means an organic insecticide, herbicide, fungicide, nematocide, acaricide, algicide, rodenticide, slimicide, [^key-ac26907583a4bb9494ce3d9e522153be]... or related product (including a growth regulator), and includes their metabolites as defined in point (32) of Article 3 of Regulation[^key-cc3a1bd307dbe1d5b103729d3fbd8258] [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council that are relevant metabolites;
+- “**Pesticide**” means an organic insecticide, herbicide, fungicide, nematocide, acaricide, algicide, rodenticide, slimicide, [^c-ac26907583a4bb9494ce3d9e522153be]... or related product (including a growth regulator), and includes their metabolites as defined in point (32) of Article 3 of Regulation[^c-cc3a1bd307dbe1d5b103729d3fbd8258] [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council that are relevant metabolites;
 - “**Pesticides: Total**” refers to the sum of the concentrations of each pesticide detected and quantified in the monitoring procedure;
-- “[^key-d3b6b2aec62aee332fbb9b8adcf85064]**relevant metabolite**” means a pesticide metabolite that has intrinsic properties comparable to those of the parent substance in terms of its pesticide target activity or that either itself or its transformation products generate a health risk for consumers,
+- “[^c-d3b6b2aec62aee332fbb9b8adcf85064]**relevant metabolite**” means a pesticide metabolite that has intrinsic properties comparable to those of the parent substance in terms of its pesticide target activity or that either itself or its transformation products generate a health risk for consumers,
 - Sum of PFAS” means the sum of the following perfluoroalkyl substances considered a concern as regards water intended for human consumption—
   - Perfluorobutanoic acid,
   - Perfluoropentanoic acid,
@@ -201,16 +201,16 @@ In this Schedule—
 
 ## Annotations
 
-[^key-f5f5641892bb6fa0944bd8e50f4a359c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) Table B and notes substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2022/387/schedule/1)
+[^c-f5f5641892bb6fa0944bd8e50f4a359c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) Table B and notes substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2022/387/schedule/1)
 
-[^key-08721e3fe48874d940d934b86dcb0c9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) Table C and notes substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/387/schedule/2)
+[^c-08721e3fe48874d940d934b86dcb0c9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) Table C and notes substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/387/schedule/2)
 
-[^key-758e846b04df042f4c3cf4a4c18a8c9c]: Textual amendment: Words in sch. 1 omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [16(c)](https://www.legislation.gov.uk/ssi/2015/346/regulation/16/c)
+[^c-758e846b04df042f4c3cf4a4c18a8c9c]: Textual amendment: Words in sch. 1 omitted (28.11.2015) by virtue of [The Private and Public Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/346)](https://www.legislation.gov.uk/ssi/2015/346), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/346/regulation/1/1), [16(c)](https://www.legislation.gov.uk/ssi/2015/346/regulation/16/c)
 
-[^key-bad73a5d954d4e49185897cbff469bc4]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/i)
+[^c-bad73a5d954d4e49185897cbff469bc4]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/i)
 
-[^key-ac26907583a4bb9494ce3d9e522153be]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/ii/aa)
+[^c-ac26907583a4bb9494ce3d9e522153be]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/ii/aa)
 
-[^key-cc3a1bd307dbe1d5b103729d3fbd8258]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/ii/bb)
+[^c-cc3a1bd307dbe1d5b103729d3fbd8258]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/ii/bb)
 
-[^key-d3b6b2aec62aee332fbb9b8adcf85064]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/iii)
+[^c-d3b6b2aec62aee332fbb9b8adcf85064]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/364/schedule/1) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [16(c)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/16/c/iii)

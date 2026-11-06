@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80A. Local authority's power to reduce amount of tax payable[^key-5028c0e77880718590072da62150e3f2][^key-83101f05e799d7c952e96a9119b86102]
+## 80A. Local authority's power to reduce amount of tax payable[^c-5028c0e77880718590072da62150e3f2][^c-83101f05e799d7c952e96a9119b86102]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5028c0e77880718590072da62150e3f2]: Modification: [S. 80A](https://www.legislation.gov.uk/ukpga/1992/14/section/80A): power to amend conferred (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 66(2)](https://www.legislation.gov.uk/asp/2009/12/section/66/2), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-5028c0e77880718590072da62150e3f2]: Modification: [S. 80A](https://www.legislation.gov.uk/ukpga/1992/14/section/80A): power to amend conferred (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 66(2)](https://www.legislation.gov.uk/asp/2009/12/section/66/2), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
 
-[^key-83101f05e799d7c952e96a9119b86102]: Textual amendment: S. 80A inserted (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 65(2)](https://www.legislation.gov.uk/asp/2009/12/section/65/2), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-83101f05e799d7c952e96a9119b86102]: Textual amendment: S. 80A inserted (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 65(2)](https://www.legislation.gov.uk/asp/2009/12/section/65/2), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

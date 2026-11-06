@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Forfeiture of pensions: offences committed by other persons[^key-b8c7c9fdcd3181cdd934786266803721]
+## 162. Forfeiture of pensions: offences committed by other persons[^c-b8c7c9fdcd3181cdd934786266803721]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c7c9fdcd3181cdd934786266803721]: Commencement: [Reg. 162](https://www.legislation.gov.uk/ssi/2015/19/regulation/162) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b8c7c9fdcd3181cdd934786266803721]: Commencement: [Reg. 162](https://www.legislation.gov.uk/ssi/2015/19/regulation/162) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

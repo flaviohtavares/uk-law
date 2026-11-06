@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Test of security’s value[^key-2c098f974125e4bae518b3c5caad8b73]
+## 140. Test of security’s value[^c-2c098f974125e4bae518b3c5caad8b73]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c098f974125e4bae518b3c5caad8b73]: Commencement: Rule 140 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-2c098f974125e4bae518b3c5caad8b73]: Commencement: Rule 140 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Approval by the creditors’ committee[^key-e1ea74985c72ff8816040c9481f22b85]
+## 110. Approval by the creditors’ committee[^c-e1ea74985c72ff8816040c9481f22b85]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ea74985c72ff8816040c9481f22b85]: Commencement: Rule 110 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-e1ea74985c72ff8816040c9481f22b85]: Commencement: Rule 110 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

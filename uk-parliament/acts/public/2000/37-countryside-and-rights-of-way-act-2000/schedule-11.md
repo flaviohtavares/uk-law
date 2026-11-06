@@ -58,7 +58,7 @@ containing a statement of the Council’s views about the matters referred to in
 
 (3) Within the period of two months beginning immediately after the date referred to in sub-paragraph (2), the Council shall give a notice to every owner and occupier of the land confirming the statement referred to in sub-paragraph (1) or containing a revised statement.
 
-### Modification of operation of sections 28A to 28C[^key-3524a4309c0a06fa4ebdaf732eec4743]
+### Modification of operation of sections 28A to 28C[^c-3524a4309c0a06fa4ebdaf732eec4743]
 
 **7.** (1) This paragraph applies to a notification under old section 28(1) given—
 
@@ -72,7 +72,7 @@ containing a statement of the Council’s views about the matters referred to in
 
 shall be construed as a reference to the notification under old section 28(1).
 
-(3)[^key-393265d271d3f26c3997ac704492ad36] In relation to a site of special scientific interest which is the subject of a notification to which this paragraph applies—
+(3)[^c-393265d271d3f26c3997ac704492ad36] In relation to a site of special scientific interest which is the subject of a notification to which this paragraph applies—
 
 - (a) section 28B (notification of additional land) shall have effect as if subsection (3) were omitted; and
 - (b) section 28C (enlargement of SSSI) shall have effect as if subsection (4) were omitted.
@@ -239,11 +239,11 @@ and as if, in subsection (2)(a), after “paragraphs (a) to (k)” there were in
 
 [^c1057209]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-3524a4309c0a06fa4ebdaf732eec4743]: Textual amendment: Words in Sch. 11 para. 7 heading substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 170(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/170/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3524a4309c0a06fa4ebdaf732eec4743]: Textual amendment: Words in Sch. 11 para. 7 heading substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 170(2)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/170/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c1057210]: Marginal citation: [1985 c. 31](https://www.legislation.gov.uk/ukpga/1985/31).
 
-[^key-393265d271d3f26c3997ac704492ad36]: Textual amendment: Sch. 11 para. 7(3) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 170(1)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/170/1); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-393265d271d3f26c3997ac704492ad36]: Textual amendment: Sch. 11 para. 7(3) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 170(1)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/170/1); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c1057211]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).
 

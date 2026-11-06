@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In section 563 “**BLAGAB contract**” means a contract forming part of basic life assurance and general annuity business of an insurance company but not part of business which is exempt from corporation tax under section 158 of FA 2012[^key-054f7a76d44756710635576a170942da] (friendly society business and former friendly society business).
+(1) In section 563 “**BLAGAB contract**” means a contract forming part of basic life assurance and general annuity business of an insurance company but not part of business which is exempt from corporation tax under section 158 of FA 2012[^c-054f7a76d44756710635576a170942da] (friendly society business and former friendly society business).
 
 (2) For the purposes of section 563 a contract is subject to a relevant comparable EEA tax charge if the contract forms part of the business of a company (other than the relevant company) to which a relevant comparable EEA tax charge has applied.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-054f7a76d44756710635576a170942da]: Textual amendment: Words in s. 564(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/21)
+[^c-054f7a76d44756710635576a170942da]: Textual amendment: Words in s. 564(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/21)

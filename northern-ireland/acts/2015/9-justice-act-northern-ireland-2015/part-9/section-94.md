@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Defence access to premises[^key-3fd4a95f8e96bc9c6cd877ad5b388c6f]
+## 94. Defence access to premises[^c-3fd4a95f8e96bc9c6cd877ad5b388c6f]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fd4a95f8e96bc9c6cd877ad5b388c6f]: Commencement: [S. 94](https://www.legislation.gov.uk/nia/2015/9/section/94) in operation at 29.1.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/418/article/2/a)
+[^c-3fd4a95f8e96bc9c6cd877ad5b388c6f]: Commencement: [S. 94](https://www.legislation.gov.uk/nia/2015/9/section/94) in operation at 29.1.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/418/article/2/a)

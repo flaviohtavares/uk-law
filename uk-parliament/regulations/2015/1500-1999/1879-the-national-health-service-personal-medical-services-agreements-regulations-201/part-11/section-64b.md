@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64B. Patient access: other availability of directly bookable appointments[^key-c33257c8acb8840f94f4b77627efc671]
+## 64B. Patient access: other availability of directly bookable appointments[^c-c33257c8acb8840f94f4b77627efc671]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contractor must ensure that all of its directly bookable appointments are made
 
 ## Annotations
 
-[^key-c33257c8acb8840f94f4b77627efc671]: Textual amendment: [Reg. 64B](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64B) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/15)
+[^c-c33257c8acb8840f94f4b77627efc671]: Textual amendment: [Reg. 64B](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64B) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/15)

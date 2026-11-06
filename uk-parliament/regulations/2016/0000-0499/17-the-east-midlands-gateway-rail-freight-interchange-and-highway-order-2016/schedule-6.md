@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — PRIVATE MEANS OF ACCESS TO BE REPLACED[^key-df541d1d7e16262f29684d06c488d786]
+### PART 1 — PRIVATE MEANS OF ACCESS TO BE REPLACED[^c-df541d1d7e16262f29684d06c488d786]
 
 <table>
 <thead>
@@ -43,7 +43,7 @@ Article 14
 </tbody>
 </table>
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-31b7ddf202e14820f1d8d2824598b1b1]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-31b7ddf202e14820f1d8d2824598b1b1]
 
 <table>
 <thead>
@@ -62,7 +62,7 @@ Article 14
 </tbody>
 </table>
 
-### PART 3 — NEW PRIVATE MEANS OF ACCESS CREATED[^key-e079e87709508f98b7f019d98c0ecf38]
+### PART 3 — NEW PRIVATE MEANS OF ACCESS CREATED[^c-e079e87709508f98b7f019d98c0ecf38]
 
 <table>
 <thead>
@@ -88,8 +88,8 @@ Article 14
 
 ## Annotations
 
-[^key-df541d1d7e16262f29684d06c488d786]: Commencement: Sch. 6 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-df541d1d7e16262f29684d06c488d786]: Commencement: Sch. 6 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-31b7ddf202e14820f1d8d2824598b1b1]: Commencement: Sch. 6 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-31b7ddf202e14820f1d8d2824598b1b1]: Commencement: Sch. 6 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-e079e87709508f98b7f019d98c0ecf38]: Commencement: Sch. 6 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-e079e87709508f98b7f019d98c0ecf38]: Commencement: Sch. 6 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

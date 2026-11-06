@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. General principles[^key-9f330163edf79af94f1c879ddaafbb46]
+## 74. General principles[^c-9f330163edf79af94f1c879ddaafbb46]
 
 *Extent: S*
 
@@ -44,9 +44,9 @@ summary: ''
 
 (5) A utility must verify that the tenders submitted by the selected tenderers comply with the rules and requirements applicable to tenders and award the contract on the basis of the criteria laid down in regulations 80 (contract award criteria) and 82 (abnormally low tenders), taking into account regulation 62 (variants).
 
-(6) A utility may decide not to award a contract to, or conclude a framework agreement with, the tenderer submitting the most economically advantageous tender where the utility has established that the tender does not comply with applicable obligations in the fields of environmental, social and employment law established by [^key-ed04e37c5e1c252fe06735f25b327bd9]... national law, collective agreements or , subject to paragraphs (6A) and (6B),[^key-9d5788db3eed7b1578f56e3c2794812b] by the international environmental, social and employment law provisions listed in Annex XIV to the Utilities Contracts Directive as amended from time to time.
+(6) A utility may decide not to award a contract to, or conclude a framework agreement with, the tenderer submitting the most economically advantageous tender where the utility has established that the tender does not comply with applicable obligations in the fields of environmental, social and employment law established by [^c-ed04e37c5e1c252fe06735f25b327bd9]... national law, collective agreements or , subject to paragraphs (6A) and (6B),[^c-9d5788db3eed7b1578f56e3c2794812b] by the international environmental, social and employment law provisions listed in Annex XIV to the Utilities Contracts Directive as amended from time to time.
 
-(6A)[^key-77abc41882843c7fdd4aeb425273059f] Where—
+(6A)[^c-77abc41882843c7fdd4aeb425273059f] Where—
 
 - (a) the United Kingdom has ratified an international agreement establishing obligations in any of the fields mentioned in paragraph (6), and
 - (b) the agreement is not already listed,
@@ -64,10 +64,10 @@ the Scottish Ministers may make regulations providing that paragraph (6) is to h
 
 ## Annotations
 
-[^key-9f330163edf79af94f1c879ddaafbb46]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2016/49/regulation/74) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-9f330163edf79af94f1c879ddaafbb46]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2016/49/regulation/74) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-ed04e37c5e1c252fe06735f25b327bd9]: Textual amendment: Words in [reg. 74(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-ed04e37c5e1c252fe06735f25b327bd9]: Textual amendment: Words in [reg. 74(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-9d5788db3eed7b1578f56e3c2794812b]: Textual amendment: Words in [reg. 74(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-9d5788db3eed7b1578f56e3c2794812b]: Textual amendment: Words in [reg. 74(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-77abc41882843c7fdd4aeb425273059f]: Textual amendment: [Reg. 74(6A)-(6C)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-77abc41882843c7fdd4aeb425273059f]: Textual amendment: [Reg. 74(6A)-(6C)](https://www.legislation.gov.uk/ssi/2016/49/regulation/74/6A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(43)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/43/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

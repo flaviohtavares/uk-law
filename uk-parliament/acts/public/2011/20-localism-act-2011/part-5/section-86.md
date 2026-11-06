@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Provision of advice and assistance[^key-e188daa4a883149d7448a4907ed50968]
+## 86. Provision of advice and assistance[^c-e188daa4a883149d7448a4907ed50968]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
+[^c-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))

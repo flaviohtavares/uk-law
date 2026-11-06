@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where any question as to the value of any sheep stock has been submitted for determination to the Land Court or, by virtue of section 61(1) of this Act,[^key-5b1e387e6382bbf3a8f4e1113a07338b] to an arbiter, the outgoing tenant shall, not less than 28 days before the determination of the question, submit to the Court or to the arbiter, as the case may be—
+(1) Where any question as to the value of any sheep stock has been submitted for determination to the Land Court or, by virtue of section 61(1) of this Act,[^c-5b1e387e6382bbf3a8f4e1113a07338b] to an arbiter, the outgoing tenant shall, not less than 28 days before the determination of the question, submit to the Court or to the arbiter, as the case may be—
 
 - (a) a statement of the sales of sheep from such stock—
   - (i) in the case of a valuation made in respect of a tenancy terminating at Whitsunday during the preceding three years; or
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b1e387e6382bbf3a8f4e1113a07338b]: Textual amendment: Words in s. 71 inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 39](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/39) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-5b1e387e6382bbf3a8f4e1113a07338b]: Textual amendment: Words in s. 71 inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 39](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/39) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

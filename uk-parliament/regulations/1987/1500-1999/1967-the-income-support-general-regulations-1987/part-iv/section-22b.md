@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22B. Period for which applicable amount is to be calculated where person not excluded from income support under section 115 of the Immigration and Asylum Act 1999[^key-6959d44c039c660a9aa87b592d0933f0]
+## 22B. Period for which applicable amount is to be calculated where person not excluded from income support under section 115 of the Immigration and Asylum Act 1999[^c-6959d44c039c660a9aa87b592d0933f0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6959d44c039c660a9aa87b592d0933f0]: Textual amendment: [Reg. 22B](https://www.legislation.gov.uk/uksi/1987/1967/regulation/22B) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/4/6)
+[^c-6959d44c039c660a9aa87b592d0933f0]: Textual amendment: [Reg. 22B](https://www.legislation.gov.uk/uksi/1987/1967/regulation/22B) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/4/6)

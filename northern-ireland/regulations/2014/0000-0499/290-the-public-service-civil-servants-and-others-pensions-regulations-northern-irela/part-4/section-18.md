@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Interpretation of Chapter[^key-65290c320bf72bca7bcfc3109062791e]
+## 18. Interpretation of Chapter[^c-65290c320bf72bca7bcfc3109062791e]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-65290c320bf72bca7bcfc3109062791e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/290/regulation/18) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-65290c320bf72bca7bcfc3109062791e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/290/regulation/18) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00047]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122); regulation 12 was amended by regulation 2(7) of the Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 ([S.R. 2012 No. 232](https://www.legislation.gov.uk/nisr/2012/232))

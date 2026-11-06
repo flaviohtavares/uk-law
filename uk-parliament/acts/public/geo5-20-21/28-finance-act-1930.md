@@ -65,12 +65,12 @@ An Act to grant certain duties of Customs and Inland Revenue (including Excise),
 
 Provided that no such instrument shall be deemed to be duly stamped unless either it is stamped with the duty to which it would but for this section be liable, or it has in accordance with the provisions of section twelve of the said Act been stamped with a particular stamp denoting either that it is not chargeable with any duty or that it is duly stamped.
 
-(2)[^c5865511][^key-74bc1f2e903a78f23bc08f7a2af306de][^c5865501] This section applies to any instrument as respects which it is shown to the satisfaction of the Commissioners that—.[^c5865521]
+(2)[^c5865511][^c-74bc1f2e903a78f23bc08f7a2af306de][^c5865501] This section applies to any instrument as respects which it is shown to the satisfaction of the Commissioners that—.[^c5865521]
 
 - (a) the effect of the instrument is to convey or transfer a beneficial interest in property from one body corporate (“[^c5865531]**the transferor**”) to another (“**the transferee**”), and
 - (b) the bodies in question are associated at the time the instrument is executed
 
-unless at the time the instrument is executed arrangements are in existence by virtue of which at that or some later time any person has or could obtain, or any persons together have or could obtain, control of the transferee but not of the transferor[^c5865541] (but see sections 42A and 42B)[^key-69bcf6a7d00217d1988aa4b63e6e9e48] .
+unless at the time the instrument is executed arrangements are in existence by virtue of which at that or some later time any person has or could obtain, or any persons together have or could obtain, control of the transferee but not of the transferor[^c5865541] (but see sections 42A and 42B)[^c-69bcf6a7d00217d1988aa4b63e6e9e48] .
 
 (2A)[^c5865551] For the purposes of this section bodies corporate are associated at a particular time if at that time one is the parent of the other or another body corporate is the parent of each.
 
@@ -84,13 +84,13 @@ unless at the time the instrument is executed arrangements are in existence by v
 
 (4)[^c5865631] In this section “**ordinary share capital**”, in relation to a body corporate, means all the issued share capital (by whatever name called) of the body corporate, other than capital the holders of which have a right to a dividend at a fixed rate but have no other right to share in the profits of the body corporate.
 
-(5)[^c5865641] Chapter 6 of Part 5 of the Corporation Tax Act 2010[^key-455590b30edad79c54934f5002f48fc1] shall apply for the purposes of paragraphs (b) and (c) of subsection (2B) as it applies for the purposes of section 151(4)(a) and (b)[^key-a553b68cfc1b63308d2e7ddb8ceb0455] of that Act; but this is subject to subsection (6).
+(5)[^c5865641] Chapter 6 of Part 5 of the Corporation Tax Act 2010[^c-455590b30edad79c54934f5002f48fc1] shall apply for the purposes of paragraphs (b) and (c) of subsection (2B) as it applies for the purposes of section 151(4)(a) and (b)[^c-a553b68cfc1b63308d2e7ddb8ceb0455] of that Act; but this is subject to subsection (6).
 
-(6) In determining for the purposes of this section whether a body corporate is the parent of the transferor, sections 171(1)(b) and (3), 173, 174 and 176 to 178 of the Corporation Tax Act 2010[^key-52e24b29c4ca2524b8fb666ef732b370] shall not apply for the purposes of paragraph (b) or (c) of subsection (2B).
+(6) In determining for the purposes of this section whether a body corporate is the parent of the transferor, sections 171(1)(b) and (3), 173, 174 and 176 to 178 of the Corporation Tax Act 2010[^c-52e24b29c4ca2524b8fb666ef732b370] shall not apply for the purposes of paragraph (b) or (c) of subsection (2B).
 
-(7) In this section, “**control**” shall be construed in accordance with section 1124 of the Corporation Tax Act 2010[^key-40afbe7873b36d4866d12bf70d908713] .
+(7) In this section, “**control**” shall be construed in accordance with section 1124 of the Corporation Tax Act 2010[^c-40afbe7873b36d4866d12bf70d908713] .
 
-### 42A. Certain arrangements not within section 42[^key-f3745168045630b48dbbda2e63192e58]
+### 42A. Certain arrangements not within section 42[^c-f3745168045630b48dbbda2e63192e58]
 
 (1) Arrangements entered into by a joint venture company which, apart from this section, would be arrangements of the kind mentioned in section 42(2) are not to be treated as such arrangements if and so long as—
 
@@ -254,7 +254,7 @@ The Bank for International Settlements shall not be liable to any taxation, pres
 
 [^c5865511]: Modification: S. 42 “the Commissioners” means the Commissioners of Inland Revenue
 
-[^key-74bc1f2e903a78f23bc08f7a2af306de]: Modification: S. 42(2) modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2004/25/section/4/3/a), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-74bc1f2e903a78f23bc08f7a2af306de]: Modification: S. 42(2) modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2004/25/section/4/3/a), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
 [^c5865501]: Textual amendment: S. 42(2)(3) substituted for s. 42(2) by [Finance Act 1967 (c. 54)](https://www.legislation.gov.uk/ukpga/1967/54), [s. 27(2)](https://www.legislation.gov.uk/ukpga/1967/54/section/27/2)
 
@@ -264,7 +264,7 @@ The Bank for International Settlements shall not be liable to any taxation, pres
 
 [^c5865541]: Textual amendment: Words in s. 42(2) inserted (28.7.2000 with effect as mentioned in [s. 123(7)](https://www.legislation.gov.uk/ukpga/2000/17/section/123/7) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 123(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/123/3)
 
-[^key-69bcf6a7d00217d1988aa4b63e6e9e48]: Textual amendment: Words in s. 42(2) inserted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [5](https://www.legislation.gov.uk/uksi/2013/234/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/234/article/6))
+[^c-69bcf6a7d00217d1988aa4b63e6e9e48]: Textual amendment: Words in s. 42(2) inserted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [5](https://www.legislation.gov.uk/uksi/2013/234/article/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/234/article/6))
 
 [^c5865551]: Textual amendment: S. 42(2A)(2B) inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 149(3)(7)](https://www.legislation.gov.uk/ukpga/1995/4/section/149/3/7) (with [Sch. 8 paras. 55(2)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/8/paragraph/55/2), [57(1)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/8/paragraph/57/1))
 
@@ -284,15 +284,15 @@ The Bank for International Settlements shall not be liable to any taxation, pres
 
 [^c5865641]: Textual amendment: S. 42(5)-(7) inserted (28.7.2000 with effect as mentioned in [s. 123(7)](https://www.legislation.gov.uk/ukpga/2000/17/section/123/7) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 123(6)](https://www.legislation.gov.uk/ukpga/2000/17/section/123/6)
 
-[^key-455590b30edad79c54934f5002f48fc1]: Textual amendment: Words in s. 42(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-455590b30edad79c54934f5002f48fc1]: Textual amendment: Words in s. 42(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-a553b68cfc1b63308d2e7ddb8ceb0455]: Textual amendment: Words in s. 42(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a553b68cfc1b63308d2e7ddb8ceb0455]: Textual amendment: Words in s. 42(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-52e24b29c4ca2524b8fb666ef732b370]: Textual amendment: Words in s. 42(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-52e24b29c4ca2524b8fb666ef732b370]: Textual amendment: Words in s. 42(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-40afbe7873b36d4866d12bf70d908713]: Textual amendment: Words in s. 42(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-40afbe7873b36d4866d12bf70d908713]: Textual amendment: Words in s. 42(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 150(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/150/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f3745168045630b48dbbda2e63192e58]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/Geo5/20-21/28/section/42A) - [S. 42B](https://www.legislation.gov.uk/ukpga/Geo5/20-21/28/section/42B) inserted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/234/article/4/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/234/article/6))
+[^c-f3745168045630b48dbbda2e63192e58]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/ukpga/Geo5/20-21/28/section/42A) - [S. 42B](https://www.legislation.gov.uk/ukpga/Geo5/20-21/28/section/42B) inserted (1.3.2013) by [The Enactment of Extra-Statutory Concessions Order 2013 (S.I. 2013/234)](https://www.legislation.gov.uk/uksi/2013/234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/234/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/234/article/4/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/234/article/6))
 
 [^c5865671]: Textual amendment: S. 43 repealed by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [s. 52(9)(10)](https://www.legislation.gov.uk/ukpga/1949/47/section/52/9/10), [Sch. 11 Pt. V](https://www.legislation.gov.uk/ukpga/1949/47/schedule/11/part/V)
 

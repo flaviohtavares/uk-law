@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Limitation of powers[^key-7c44ca469c7995860433b5fd3b390ab4]
+## 31. Limitation of powers[^c-7c44ca469c7995860433b5fd3b390ab4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c44ca469c7995860433b5fd3b390ab4]: Commencement: Art. 31 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-7c44ca469c7995860433b5fd3b390ab4]: Commencement: Art. 31 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

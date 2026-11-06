@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Procedure for refusing or withdrawing approval[^key-50e942c9000582a40afe27a0b247314f]
+## 51. Procedure for refusing or withdrawing approval[^c-50e942c9000582a40afe27a0b247314f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50e942c9000582a40afe27a0b247314f]: Commencement: S. 51 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-50e942c9000582a40afe27a0b247314f]: Commencement: S. 51 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

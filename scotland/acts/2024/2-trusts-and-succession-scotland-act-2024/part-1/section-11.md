@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Saving as respects liability of trustees[^key-c92e3d37734ff58b48a0f887db58e6b8]
+## 11. Saving as respects liability of trustees[^c-c92e3d37734ff58b48a0f887db58e6b8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ The appointment, or as the case may be the assumption, resignation or removal, o
 
 ## Annotations
 
-[^key-c92e3d37734ff58b48a0f887db58e6b8]: Commencement: S. 11 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-c92e3d37734ff58b48a0f887db58e6b8]: Commencement: S. 11 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

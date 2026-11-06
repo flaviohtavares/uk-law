@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Candidates etc[^key-764de3519fc086d74bcaad88cfe279af][^key-26edc703fe7a4a51a48a86bd378928c8]
+## 32. Candidates etc[^c-764de3519fc086d74bcaad88cfe279af][^c-26edc703fe7a4a51a48a86bd378928c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-764de3519fc086d74bcaad88cfe279af]: Commencement: S. 32 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-764de3519fc086d74bcaad88cfe279af]: Commencement: S. 32 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-26edc703fe7a4a51a48a86bd378928c8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/37/section/32) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-26edc703fe7a4a51a48a86bd378928c8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/37/section/32) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)

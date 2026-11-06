@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Derogations to the requirement to give prior notification in accordance with Article 1(1) of Commission Implementing Regulation (EU) 2019/1013[^key-5030fceaf084f71b4aafc4b29f9cefd3]
+## 7. Derogations to the requirement to give prior notification in accordance with Article 1(1) of Commission Implementing Regulation (EU) 2019/1013[^c-5030fceaf084f71b4aafc4b29f9cefd3]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5030fceaf084f71b4aafc4b29f9cefd3]: Commencement: Reg. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-5030fceaf084f71b4aafc4b29f9cefd3]: Commencement: Reg. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00027]: Footnote: O.J. No. L 165, 21.6.2019, p. 4.
 

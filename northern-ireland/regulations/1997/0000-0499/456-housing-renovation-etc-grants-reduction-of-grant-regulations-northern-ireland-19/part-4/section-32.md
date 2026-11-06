@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Determination of capital[^key-57b50f1dee7c677ebb7f4ca949dd2b60]
+## 32. Determination of capital[^c-57b50f1dee7c677ebb7f4ca949dd2b60]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57b50f1dee7c677ebb7f4ca949dd2b60]: Commencement: Reg. 32 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-57b50f1dee7c677ebb7f4ca949dd2b60]: Commencement: Reg. 32 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

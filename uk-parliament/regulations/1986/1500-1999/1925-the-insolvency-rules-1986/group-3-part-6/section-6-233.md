@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.233. Meetings under the Rules[^key-b2b3764a03af01104d5f36569ad313d5]
+## 6.233. Meetings under the Rules[^c-b2b3764a03af01104d5f36569ad313d5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b3764a03af01104d5f36569ad313d5]: Commencement: [Rule 6.233](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.233) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b2b3764a03af01104d5f36569ad313d5]: Commencement: [Rule 6.233](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.233) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

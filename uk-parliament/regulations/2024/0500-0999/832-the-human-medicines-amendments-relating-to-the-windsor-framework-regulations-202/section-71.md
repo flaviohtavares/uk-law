@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendment to regulation 169[^key-aa64220f8cbe808e4ad5383d1f44aa33]
+## 71. Amendment to regulation 169[^c-aa64220f8cbe808e4ad5383d1f44aa33]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 169(9)(a) (mixing of general sale medicinal products)[^f00081], om
 
 ## Annotations
 
-[^key-aa64220f8cbe808e4ad5383d1f44aa33]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2024/832/regulation/71) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-aa64220f8cbe808e4ad5383d1f44aa33]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2024/832/regulation/71) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00081]: Footnote: Paragraph (9)(a) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

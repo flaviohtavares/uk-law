@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. General eligibility for membership[^key-192b182b1e60cf995b21f49f4b163c62]
+## 4. General eligibility for membership[^c-192b182b1e60cf995b21f49f4b163c62]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ enables him to be one and he is not prevented by regulation 12.
 
 ## Annotations
 
-[^key-192b182b1e60cf995b21f49f4b163c62]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-192b182b1e60cf995b21f49f4b163c62]: Commencement: Reg. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2007/1166](https://www.legislation.gov.uk/uksi/2007/1166).

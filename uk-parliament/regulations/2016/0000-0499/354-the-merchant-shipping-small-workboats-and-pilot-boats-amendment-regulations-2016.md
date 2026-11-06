@@ -48,27 +48,27 @@ Coming into force
 
 6th April 2016
 
-[^key-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7750ea38cbf3a21a792a6196b519cd24]
+## 1. Citation, commencement and interpretation[^c-7750ea38cbf3a21a792a6196b519cd24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1998 Regulations[^key-7750ea38cbf3a21a792a6196b519cd24]
+## 2. Amendment of the 1998 Regulations[^c-7750ea38cbf3a21a792a6196b519cd24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7750ea38cbf3a21a792a6196b519cd24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7750ea38cbf3a21a792a6196b519cd24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7750ea38cbf3a21a792a6196b519cd24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7750ea38cbf3a21a792a6196b519cd24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Table to be substituted for the table in the Schedule to the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^key-7750ea38cbf3a21a792a6196b519cd24]
+## SCHEDULE — Table to be substituted for the table in the Schedule to the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^c-7750ea38cbf3a21a792a6196b519cd24]
 
 Regulation 4
 
@@ -76,8 +76,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7750ea38cbf3a21a792a6196b519cd24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7750ea38cbf3a21a792a6196b519cd24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/354) revoked (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-7750ea38cbf3a21a792a6196b519cd24]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/354) revoked (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))

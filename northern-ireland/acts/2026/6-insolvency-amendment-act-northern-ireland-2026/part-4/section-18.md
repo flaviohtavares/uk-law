@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Effect of approval[^key-b31d6581e5371cbe9e6e023b04118d98]
+## 18. Effect of approval[^c-b31d6581e5371cbe9e6e023b04118d98]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b31d6581e5371cbe9e6e023b04118d98]: Commencement: S. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b31d6581e5371cbe9e6e023b04118d98]: Commencement: S. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

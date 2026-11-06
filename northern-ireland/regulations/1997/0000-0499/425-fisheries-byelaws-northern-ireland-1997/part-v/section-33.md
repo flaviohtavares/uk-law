@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**33.**[^key-b45f1381ace7c044d6134ed6af56cf23] Subject to the provisions of the Act, these Byelaws and to conditions on any fishing licences, single wall set nets, trammel nets, draft nets and bait nets may be used for the taking of freshwater fish other than trout or rainbow trout—
+**33.**[^c-b45f1381ace7c044d6134ed6af56cf23] Subject to the provisions of the Act, these Byelaws and to conditions on any fishing licences, single wall set nets, trammel nets, draft nets and bait nets may be used for the taking of freshwater fish other than trout or rainbow trout—
 
 - (a) on Upper and Lower Lough Erne other than those areas mentioned in Byelaw 47; and
 - (b) on Lough Neagh.
 
 ## Annotations
 
-[^key-b45f1381ace7c044d6134ed6af56cf23]: Commencement: S. 33 in operation at 1.11.1997, see byelaw 1
+[^c-b45f1381ace7c044d6134ed6af56cf23]: Commencement: S. 33 in operation at 1.11.1997, see byelaw 1

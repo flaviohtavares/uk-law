@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Companies (Trading Disclosures) (Amendment) Regulations 2009 (revoked)[^key-6bef47329f763f06435084a780c01754]
+The Companies (Trading Disclosures) (Amendment) Regulations 2009 (revoked)[^c-6bef47329f763f06435084a780c01754]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st October 2009
 
-[^key-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6bef47329f763f06435084a780c01754]
+## 1. Citation, commencement and interpretation[^c-6bef47329f763f06435084a780c01754]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirement to display registered name at registered office and inspection place[^key-6bef47329f763f06435084a780c01754]
+## 2. Requirement to display registered name at registered office and inspection place[^c-6bef47329f763f06435084a780c01754]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to display registered name at other business locations[^key-6bef47329f763f06435084a780c01754]
+## 3. Requirement to display registered name at other business locations[^c-6bef47329f763f06435084a780c01754]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Minor amendment to regulation 7 of the Regulations[^key-6bef47329f763f06435084a780c01754]
+## 4. Minor amendment to regulation 7 of the Regulations[^c-6bef47329f763f06435084a780c01754]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bef47329f763f06435084a780c01754]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6bef47329f763f06435084a780c01754]: Textual amendment: Regulations revoked (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 1(e)](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/1/e)
+[^c-6bef47329f763f06435084a780c01754]: Textual amendment: Regulations revoked (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 1(e)](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/1/e)

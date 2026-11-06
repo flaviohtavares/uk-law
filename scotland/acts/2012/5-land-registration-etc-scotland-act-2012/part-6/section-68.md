@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Duration of caveat[^key-d37dab16d69295cc0a67697d987631f2]
+## 68. Duration of caveat[^c-d37dab16d69295cc0a67697d987631f2]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d37dab16d69295cc0a67697d987631f2]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2012/5/section/68) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-d37dab16d69295cc0a67697d987631f2]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2012/5/section/68) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

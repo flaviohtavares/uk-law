@@ -32,7 +32,7 @@ summary: ''
 
 Local Government, England
 
-The Tees Valley Combined Authority (Functions) Order 2017 (revoked)[^key-aa60ddebb71c18b08e81011caa7b81ca]
+The Tees Valley Combined Authority (Functions) Order 2017 (revoked)[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 Made
 
@@ -40,60 +40,60 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 1. Citation and commencement[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 2. Interpretation[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Conferral of functions on the Combined Authority[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 3. Conferral of functions on the Combined Authority[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of provisions in the 2011 Act[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 4. Application of provisions in the 2011 Act[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Functions exercisable only by the Mayor[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 5. Functions exercisable only by the Mayor[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Incidental provisions[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 6. Incidental provisions[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provisions[^key-aa60ddebb71c18b08e81011caa7b81ca]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Funding[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## 9. Transitional provisions[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Funding[^c-aa60ddebb71c18b08e81011caa7b81ca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Modification of the 2011 Act[^key-aa60ddebb71c18b08e81011caa7b81ca]
+## SCHEDULE — Modification of the 2011 Act[^c-aa60ddebb71c18b08e81011caa7b81ca]
 
 Article 4(1) and (2)
 
-**1.**[^key-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aa60ddebb71c18b08e81011caa7b81ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa60ddebb71c18b08e81011caa7b81ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa60ddebb71c18b08e81011caa7b81ca]: Textual amendment: Order revoked (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/519/regulation/23)
+[^c-aa60ddebb71c18b08e81011caa7b81ca]: Textual amendment: Order revoked (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/519/regulation/23)

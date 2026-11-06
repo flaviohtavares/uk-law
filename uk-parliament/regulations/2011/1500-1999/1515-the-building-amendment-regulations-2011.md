@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 1(1) and paragraphs 1, 4, 4A, 7, 8 and 10 of Schedule 1 to the Building Act 1984[^f00001], having consulted, in accordance with section 14(3) of that Act, the Building Regulations Advisory Committee and such other bodies as appear to the Secretary of State to be representative of the interests concerned.
 
-## 1. Citation, commencement and interpretation[^key-9e4891cc01dc6c096a4e992fbb5f128a]
+## 1. Citation, commencement and interpretation[^c-9e4891cc01dc6c096a4e992fbb5f128a]
 
 (1) These Regulations may be cited as the Building (Amendment) Regulations 2011.
 
@@ -59,11 +59,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the 2007 Regulations” means the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007[^f00002];
 - “the 2010 Regulations” means the Building Regulations 2010[^f00003].
 
-## 2. Amendments to the 2007 and 2010 Regulations[^key-1d144c0115715ecac66c007cf77fc8aa]
+## 2. Amendments to the 2007 and 2010 Regulations[^c-1d144c0115715ecac66c007cf77fc8aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0972a9c1d38e8f76111760d3fc1019ea] (1) The 2010 Regulations are amended as follows.
+**3.**[^c-0972a9c1d38e8f76111760d3fc1019ea] (1) The 2010 Regulations are amended as follows.
 
 (2) In regulation 2 (1) (interpretation)–
 
@@ -121,12 +121,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55)
 
-[^key-9e4891cc01dc6c096a4e992fbb5f128a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)
+[^c-9e4891cc01dc6c096a4e992fbb5f128a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2007/991](https://www.legislation.gov.uk/uksi/2007/991); regulation 9(1) was amended by [S.I 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), regulation 54(2), Schedule 6, paragraph 2(b).
 
 [^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 
-[^key-1d144c0115715ecac66c007cf77fc8aa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1515/regulation/2) revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
+[^c-1d144c0115715ecac66c007cf77fc8aa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1515/regulation/2) revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
 
-[^key-0972a9c1d38e8f76111760d3fc1019ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1515/regulation/3) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)
+[^c-0972a9c1d38e8f76111760d3fc1019ea]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1515/regulation/3) in force at 15.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1515/regulation/1/2)

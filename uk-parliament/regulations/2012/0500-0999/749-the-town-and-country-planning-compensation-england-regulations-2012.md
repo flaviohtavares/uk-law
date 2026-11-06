@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Compensation) (England) Regulations 2012 (revoked)[^key-30f181bf3636cdfe097df94072095899]
+The Town and Country Planning (Compensation) (England) Regulations 2012 (revoked)[^c-30f181bf3636cdfe097df94072095899]
 
 Made
 
@@ -44,44 +44,44 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-30f181bf3636cdfe097df94072095899]
+## 1. Citation, commencement, application and interpretation[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed development[^key-30f181bf3636cdfe097df94072095899]
+## 2. Prescribed development[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed manner in which planning permission to be withdrawn[^key-30f181bf3636cdfe097df94072095899]
+## 3. Prescribed manner in which planning permission to be withdrawn[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of withdrawal – prescribed manner and period[^key-30f181bf3636cdfe097df94072095899]
+## 4. Notice of withdrawal – prescribed manner and period[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notice of withdrawal, revocation, amendment or directions – prescribed manner and period[^key-30f181bf3636cdfe097df94072095899]
+## 5. Notice of withdrawal, revocation, amendment or directions – prescribed manner and period[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision[^key-30f181bf3636cdfe097df94072095899]
+## 6. Transitional provision[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-30f181bf3636cdfe097df94072095899]
+## 7. Revocation[^c-30f181bf3636cdfe097df94072095899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f181bf3636cdfe097df94072095899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30f181bf3636cdfe097df94072095899]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/749) revoked (30.5.2013) by [The Town and Country Planning (Compensation) (England) Regulations 2013 (S.I. 2013/1102)](https://www.legislation.gov.uk/uksi/2013/1102), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1102/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1102/regulation/8)
+[^c-30f181bf3636cdfe097df94072095899]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/749) revoked (30.5.2013) by [The Town and Country Planning (Compensation) (England) Regulations 2013 (S.I. 2013/1102)](https://www.legislation.gov.uk/uksi/2013/1102), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1102/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1102/regulation/8)

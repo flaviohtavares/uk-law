@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Scheme valuation and employer cost cap[^key-7651138584ca84c740cf899486168b2f]
+## SCHEDULE 4 — Scheme valuation and employer cost cap[^c-7651138584ca84c740cf899486168b2f]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ Any changes to the scheme made as a result of paragraph 5 are to take effect wit
 
 ## Annotations
 
-[^key-7651138584ca84c740cf899486168b2f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2014/292/schedule/4) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [44](https://www.legislation.gov.uk/ssi/2015/97/regulation/44)
+[^c-7651138584ca84c740cf899486168b2f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2014/292/schedule/4) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [44](https://www.legislation.gov.uk/ssi/2015/97/regulation/44)

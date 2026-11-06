@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Restriction on use of the new crossing by certain classes of vehicle or person[^key-cc76793ba97f8fbe93558e6f53b6d95e]
+## 36. Restriction on use of the new crossing by certain classes of vehicle or person[^c-cc76793ba97f8fbe93558e6f53b6d95e]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ if at any time it considers it necessary or expedient to do so.
 
 ## Annotations
 
-[^key-cc76793ba97f8fbe93558e6f53b6d95e]: Commencement: Art. 36 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-cc76793ba97f8fbe93558e6f53b6d95e]: Commencement: Art. 36 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00021]: Footnote: [S.I. 2001/2793](https://www.legislation.gov.uk/uksi/2001/2793).

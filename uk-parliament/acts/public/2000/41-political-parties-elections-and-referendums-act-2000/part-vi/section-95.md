@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Schedule 11 has effect for controlling donations to recognised third parties [^key-10bed701af5d241926d09086e0eb0552]....
+Schedule 11 has effect for controlling donations to recognised third parties [^c-10bed701af5d241926d09086e0eb0552]....
 
 ## Annotations
 
 [^c10574661]: Commencement: S. 95 wholly in force at 16.2.2001; s. 95 not in force at Royal Assent, see s. 163(2); s. 95 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-10bed701af5d241926d09086e0eb0552]: Textual amendment: Words in [s. 95](https://www.legislation.gov.uk/ukpga/2000/41/section/95) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/6), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-10bed701af5d241926d09086e0eb0552]: Textual amendment: Words in [s. 95](https://www.legislation.gov.uk/ukpga/2000/41/section/95) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/6), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

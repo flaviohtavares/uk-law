@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7A — Reserved matters[^key-1a514146a17f647a7e6f659d4d3ed990]
+## SCHEDULE 7A — Reserved matters[^c-1a514146a17f647a7e6f659d4d3ed990]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,7 +80,7 @@ Section 108A
 
 but this is subject to paragraph 7.
 
-**7.** Paragraph 6 does not reserve making payments to any political party for the purpose of assisting members of the Senedd[^key-60edd79c70d763519861630d1afb7962] who are connected with the party to perform their Senedd duties.
+**7.** Paragraph 6 does not reserve making payments to any political party for the purpose of assisting members of the Senedd[^c-60edd79c70d763519861630d1afb7962] who are connected with the party to perform their Senedd duties.
 
 #### Single legal jurisdiction of England and Wales
 
@@ -134,7 +134,7 @@ but it does reserve the tribunal's procedure in relation to that function.
 - (a) is exercisable otherwise than in relation to Wales, and
 - (b) could (apart from paragraph 8 of Schedule 7B) be conferred or imposed by provision falling within the Senedd's legislative competence (by virtue of section 108A(3)).
 
-(4A)[^key-b15b0907f27c05bf479113f5673b3add] References in this paragraph to Wales include, in relation to a relevant function of a tribunal, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+(4A)[^c-b15b0907f27c05bf479113f5673b3add] References in this paragraph to Wales include, in relation to a relevant function of a tribunal, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
 A function of a tribunal is “relevant” if it relates to fishing, fisheries or fish health.
 
@@ -152,7 +152,7 @@ A function of a tribunal is “relevant” if it relates to fishing, fisheries o
 
 (3) But sub-paragraph (1) does not reserve—
 
-- (a) observing and implementing international obligations and[^key-157feb5e547c521df9314a1abd0f93fa] obligations under the Human Rights Convention [^key-012a5ba1672905473efe447423020cf6]..., or
+- (a) observing and implementing international obligations and[^c-157feb5e547c521df9314a1abd0f93fa] obligations under the Human Rights Convention [^c-012a5ba1672905473efe447423020cf6]..., or
 - (b) assisting Ministers of the Crown in relation to any matter to which that sub-paragraph applies.
 
 (4) In this paragraph “**"the Human Rights Convention”**” means—
@@ -215,9 +215,9 @@ The matters to which any of the Sections in this Part apply are reserved matters
 
 ###### Section B1 — B1 Elections
 
-###### 20. (A) Elections for membership of the House of Commons ...[^key-4640a9fdde043fa89cdcf64ba2e7b0b3]
+###### 20. (A) Elections for membership of the House of Commons ...[^c-4640a9fdde043fa89cdcf64ba2e7b0b3]
 
-Elections for membership of the House of Commons [^key-5d1009b8c146accc355c82cb8d463db5]..., including the subject-matter of existing elections Acts so far as they apply, or may be applied, in respect of such membership.
+Elections for membership of the House of Commons [^c-5d1009b8c146accc355c82cb8d463db5]..., including the subject-matter of existing elections Acts so far as they apply, or may be applied, in respect of such membership.
 
 ###### 21. (B) Elections for membership of the Senedd and local government elections in Wales
 
@@ -228,7 +228,7 @@ The subject-matter of sections 3(1A) and 13A of this Act (coincidence of Senedd 
 **23.** The combination of—
 
 - (a) polls at elections or referendums that are outside the legislative competence of the Senedd with polls at—
-  - (i) elections of Members of the Senedd[^key-959ca092134c70e47fe7789224d88f33],
+  - (i) elections of Members of the Senedd[^c-959ca092134c70e47fe7789224d88f33],
   - (ii) local government elections in Wales, or
   - (iii) referendums held under Part 2 of the Local Government Act 2000 (arrangements in respect of executives etc), and
 - (b) polls at ordinary general elections of Members of the Senedd with polls at ordinary local government elections in Wales.
@@ -259,7 +259,7 @@ in Part 10 (miscellaneous and general)—
 **26.** The subject-matter of Parts 5 and 6 of the Political Parties, Elections and Referendums Act 2000 (expenditure in connection with elections) where a limit applies to expenditure in relation to a period determined by reference to both—
 
 - (a) the date of the poll for an election of Members of the Senedd or a local government election in Wales, and
-- (b) the date of the poll at an election for membership of the House of Commons [^key-27e457199a8d5785ad7c7bd90e480963]....
+- (b) the date of the poll at an election for membership of the House of Commons [^c-27e457199a8d5785ad7c7bd90e480963]....
 
 **27.** The subject-matter of sections 145 to 148 and 150 to 154 of the Political Parties, Elections and Referendums Act 2000 (enforcement and offences) as they apply for the purposes of any provision, so far as the subject-matter of the provision is reserved by paragraph 25 or 26.
 
@@ -271,7 +271,7 @@ in Part 10 (miscellaneous and general)—
   - (c) the Parliamentary Constituencies Act 1986,
   - (d) the Representation of the People Act 2000,
   - (e) the Political Parties, Elections and Referendums Act 2000,
-  - (f) [^key-1fb104aafc221b0d031648782a7f9291]...
+  - (f) [^c-1fb104aafc221b0d031648782a7f9291]...
   - (g) the Electoral Administration Act 2006, and
   - (h) the Electoral Registration and Administration Act 2013.
 - “**"Local government elections in Wales”**” includes mayoral elections in Wales.
@@ -282,7 +282,7 @@ in Part 10 (miscellaneous and general)—
 
 **29.** Immigration, including asylum and the status and capacity of persons in the United Kingdom who are not British citizens.
 
-**30.**[^key-a7ed8f4e5d25e1afdbcdd07a4a6d0bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-a7ed8f4e5d25e1afdbcdd07a4a6d0bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** Travel documents.
 
@@ -374,7 +374,7 @@ Powers of entry, search and seizure relating to the detection or investigation o
 
 *Interpretation*
 
-“**"Psychoactive substances”**” has the meaning given in section 2 of the Psychoactive Substances Act 2016[^key-f7cdc5e312ba01867bb898e0388f9019].
+“**"Psychoactive substances”**” has the meaning given in section 2 of the Psychoactive Substances Act 2016[^c-f7cdc5e312ba01867bb898e0388f9019].
 
 ###### Section B15 — B15 Private security
 
@@ -498,7 +498,7 @@ Plant varieties and seeds.
 
 - (a) estate agents,
 - (b) timeshares, and
-- (c) linked travel arrangements within the meaning of the Package Travel and Linked Travel Arrangements Regulations 2018 ([^key-d5dc7d0231e737a1c7b374449b22a2fe][S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634)) and package holidays.
+- (c) linked travel arrangements within the meaning of the Package Travel and Linked Travel Arrangements Regulations 2018 ([^c-d5dc7d0231e737a1c7b374449b22a2fe][S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634)) and package holidays.
 
 **75.** The regulation of—
 
@@ -520,7 +520,7 @@ Plant varieties and seeds.
 
 ###### Section C7 — C7 Product standards, safety and liability
 
-**77.**[^key-5838205e8812c064f75b7112e6179fd0] The subject matter of all technical standards and requirements in relation to products that had effect immediately before IP completion day[^key-af422d8b799f422e31ce662db99cedd8] in pursuance of an obligation under EU law.
+**77.**[^c-5838205e8812c064f75b7112e6179fd0] The subject matter of all technical standards and requirements in relation to products that had effect immediately before IP completion day[^c-af422d8b799f422e31ce662db99cedd8] in pursuance of an obligation under EU law.
 
 **78.** The national accreditation body and the accreditation of bodies that certify or assess conformity to technical standards in relation to products or environmental management systems.
 
@@ -565,11 +565,11 @@ Financial assistance for the provision of services (other than postal services a
 
 “**"The original holding company”**” and “**"Post Office company”**” have the same meaning as in Part 1 of the Postal Services Act 2011.
 
-###### Section C11 — C11 United Kingdom Research and Innovation and Research Councils[^key-e41909872d9a0c5d283c57e67bf9791f]
+###### Section C11 — C11 United Kingdom Research and Innovation and Research Councils[^c-e41909872d9a0c5d283c57e67bf9791f]
 
-**87.** United Kingdom Research and Innovation (“UKRI”), and[^key-6b17561e4a0dc14b07db09523f35c91b] Research Councils within the meaning of the Science and Technology Act 1965, and the subject-matter of section 5 of that Act (funding of scientific research) so far as relating to UKRI and[^key-859e4ce45d29b7a1af94d086814bd9d1] those Councils.
+**87.** United Kingdom Research and Innovation (“UKRI”), and[^c-6b17561e4a0dc14b07db09523f35c91b] Research Councils within the meaning of the Science and Technology Act 1965, and the subject-matter of section 5 of that Act (funding of scientific research) so far as relating to UKRI and[^c-859e4ce45d29b7a1af94d086814bd9d1] those Councils.
 
-**88.** The [^key-46c87e980b6ba51e771fd6dee6b1a30f]... subject-matter of section 10 of the Higher Education Act 2004[^key-cbab4f0c467cc06690be5fed973383fa] (research in arts and humanities) so far as relating to UKRI[^key-f785be0954c4105ad0f00e987e2be45d].
+**88.** The [^c-46c87e980b6ba51e771fd6dee6b1a30f]... subject-matter of section 10 of the Higher Education Act 2004[^c-cbab4f0c467cc06690be5fed973383fa] (research in arts and humanities) so far as relating to UKRI[^c-f785be0954c4105ad0f00e987e2be45d].
 
 ###### Section C12 — C12 Industrial development
 
@@ -617,7 +617,7 @@ and the Industrial Development Advisory Board.
 
 **95.** Sunday trading.
 
-###### C18 Distortive or harmful subsidies[^key-973ad14b60c51ab28ae93de1e9b8b9aa]
+###### C18 Distortive or harmful subsidies[^c-973ad14b60c51ab28ae93de1e9b8b9aa]
 
 Regulation of the provision of subsidies which are or may be distortive or harmful by a public authority to persons supplying goods or services in the course of a business.
 
@@ -755,7 +755,7 @@ Financial assistance so far as relating to railway services; but this exception 
 
 - (a) financial assistance relating to the carriage of goods,
 - (b) financial assistance made in connection with a railway administration order, or
-- (c) financial assistance made in connection with the Public Service Obligations in Transport Regulations 2023[^key-4c26d33dbcde2cc558e9f495d6e64d51].
+- (c) financial assistance made in connection with the Public Service Obligations in Transport Regulations 2023[^c-4c26d33dbcde2cc558e9f495d6e64d51].
 
 *Interpretation*
 
@@ -1371,7 +1371,7 @@ and it has no reserved functions.
 - (a) is exercisable otherwise than in relation to Wales, and
 - (b) could (apart from paragraph 8 of Schedule 7B) be conferred or imposed by provision falling within the Senedd's legislative competence (by virtue of section 108A(3)).
 
-(3A)[^key-946ca69d09b67fccea18332f57c80011] References in this paragraph to Wales include, in relation to a relevant function of an authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+(3A)[^c-946ca69d09b67fccea18332f57c80011] References in this paragraph to Wales include, in relation to a relevant function of an authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
 A function of an authority is “relevant” if it relates to fishing, fisheries or fish health.
 
@@ -1421,50 +1421,50 @@ A function of an authority is “relevant” if it relates to fishing, fisheries
 
 ## Annotations
 
-[^key-1a514146a17f647a7e6f659d4d3ed990]: Textual amendment: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
+[^c-1a514146a17f647a7e6f659d4d3ed990]: Textual amendment: Schs. 7A, 7B substituted for Sch. 7 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-b15b0907f27c05bf479113f5673b3add]: Textual amendment: Sch. 7A para. 9(4A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/5/a), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b15b0907f27c05bf479113f5673b3add]: Textual amendment: Sch. 7A para. 9(4A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(5)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/5/a), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-157feb5e547c521df9314a1abd0f93fa]: Textual amendment: Word in Sch. 7A para. 10(3)(a) substituted for comma (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/290/article/2/2/a)
+[^c-157feb5e547c521df9314a1abd0f93fa]: Textual amendment: Word in Sch. 7A para. 10(3)(a) substituted for comma (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/290/article/2/2/a)
 
-[^key-012a5ba1672905473efe447423020cf6]: Textual amendment: Words in Sch. 7A para. 10(3)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/290/article/2/2/b)
+[^c-012a5ba1672905473efe447423020cf6]: Textual amendment: Words in Sch. 7A para. 10(3)(a) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/290/article/2/2/b)
 
-[^key-4640a9fdde043fa89cdcf64ba2e7b0b3]: Textual amendment: Words in Sch. 7A para. 20 heading omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/290/article/2/3)
+[^c-4640a9fdde043fa89cdcf64ba2e7b0b3]: Textual amendment: Words in Sch. 7A para. 20 heading omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/290/article/2/3)
 
-[^key-5d1009b8c146accc355c82cb8d463db5]: Textual amendment: Words in [Sch. 7A para. 20](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/20) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/290/article/2/4)
+[^c-5d1009b8c146accc355c82cb8d463db5]: Textual amendment: Words in [Sch. 7A para. 20](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/20) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/290/article/2/4)
 
-[^key-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
-[^key-27e457199a8d5785ad7c7bd90e480963]: Textual amendment: Words in [Sch. 7A para. 26(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/26/b) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/290/article/2/5)
+[^c-27e457199a8d5785ad7c7bd90e480963]: Textual amendment: Words in [Sch. 7A para. 26(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/26/b) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/290/article/2/5)
 
-[^key-1fb104aafc221b0d031648782a7f9291]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/290/article/2/6)
+[^c-1fb104aafc221b0d031648782a7f9291]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/290/article/2/6)
 
-[^key-a7ed8f4e5d25e1afdbcdd07a4a6d0bed]: Textual amendment: [Sch. 7A para. 30](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/30) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/290/article/2/7)
+[^c-a7ed8f4e5d25e1afdbcdd07a4a6d0bed]: Textual amendment: [Sch. 7A para. 30](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A/paragraph/30) omitted (11.3.2021) by virtue of [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2021/290/article/2/7)
 
-[^key-f7cdc5e312ba01867bb898e0388f9019]: Textual amendment: Word in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) substituted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2021/290/article/2/8)
+[^c-f7cdc5e312ba01867bb898e0388f9019]: Textual amendment: Word in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) substituted (11.3.2021) by [The Government of Wales Act 2006 (Amendment) Order 2021 (S.I. 2021/290)](https://www.legislation.gov.uk/uksi/2021/290), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/290/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2021/290/article/2/8)
 
-[^key-d5dc7d0231e737a1c7b374449b22a2fe]: Textual amendment: Words in Sch. 7A para. 74(c) substituted (1.7.2018) by [The Package Travel and Linked Travel Arrangements Regulations 2018 (S.I. 2018/634)](https://www.legislation.gov.uk/uksi/2018/634), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/634/regulation/1/3), [38(4)](https://www.legislation.gov.uk/uksi/2018/634/regulation/38/4) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/634/regulation/3), [38(15)](https://www.legislation.gov.uk/uksi/2018/634/regulation/38/15))
+[^c-d5dc7d0231e737a1c7b374449b22a2fe]: Textual amendment: Words in Sch. 7A para. 74(c) substituted (1.7.2018) by [The Package Travel and Linked Travel Arrangements Regulations 2018 (S.I. 2018/634)](https://www.legislation.gov.uk/uksi/2018/634), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/634/regulation/1/3), [38(4)](https://www.legislation.gov.uk/uksi/2018/634/regulation/38/4) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/634/regulation/3), [38(15)](https://www.legislation.gov.uk/uksi/2018/634/regulation/38/15))
 
-[^key-5838205e8812c064f75b7112e6179fd0]: Textual amendment: Sch. 7A Section C7 para. 77 substituted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/47) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-5838205e8812c064f75b7112e6179fd0]: Textual amendment: Sch. 7A Section C7 para. 77 substituted (31.12.2020) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/47) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-af422d8b799f422e31ce662db99cedd8]: Textual amendment: Words in Sch. 7A Section C7 para. 77 substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/30) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-af422d8b799f422e31ce662db99cedd8]: Textual amendment: Words in Sch. 7A Section C7 para. 77 substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/30) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-e41909872d9a0c5d283c57e67bf9791f]: Textual amendment: Words in Sch. 7A Section C11 heading inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-e41909872d9a0c5d283c57e67bf9791f]: Textual amendment: Words in Sch. 7A Section C11 heading inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
-[^key-6b17561e4a0dc14b07db09523f35c91b]: Textual amendment: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-6b17561e4a0dc14b07db09523f35c91b]: Textual amendment: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
-[^key-859e4ce45d29b7a1af94d086814bd9d1]: Textual amendment: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-859e4ce45d29b7a1af94d086814bd9d1]: Textual amendment: Words in Sch. 7A Section C11 para. 87 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
-[^key-46c87e980b6ba51e771fd6dee6b1a30f]: Textual amendment: Words in Sch. 7A Section C11 para. 88 omitted (31.10.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/a); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/ix)
+[^c-46c87e980b6ba51e771fd6dee6b1a30f]: Textual amendment: Words in Sch. 7A Section C11 para. 88 omitted (31.10.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/a); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(ix)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/ix)
 
-[^key-cbab4f0c467cc06690be5fed973383fa]: Textual amendment: Words in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-cbab4f0c467cc06690be5fed973383fa]: Textual amendment: Words in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
-[^key-f785be0954c4105ad0f00e987e2be45d]: Textual amendment: Word in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-f785be0954c4105ad0f00e987e2be45d]: Textual amendment: Word in Sch. 7A Section C11 para. 88 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/24/4/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
-[^key-973ad14b60c51ab28ae93de1e9b8b9aa]: Textual amendment: Sch. 7A Pt. 2 Section C18 inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/52/3), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/2)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/i)
+[^c-973ad14b60c51ab28ae93de1e9b8b9aa]: Textual amendment: Sch. 7A Pt. 2 Section C18 inserted (31.12.2020) by [United Kingdom Internal Market Act 2020 (c. 27)](https://www.legislation.gov.uk/ukpga/2020/27), [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/52/3), [59(3)](https://www.legislation.gov.uk/ukpga/2020/27/section/59/3) (with [s. 55(2)](https://www.legislation.gov.uk/ukpga/2020/27/section/55/2)); [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/i)
 
-[^key-4c26d33dbcde2cc558e9f495d6e64d51]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/2/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+[^c-4c26d33dbcde2cc558e9f495d6e64d51]: Textual amendment: Words in [Sch. 7A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/2/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
 
-[^key-946ca69d09b67fccea18332f57c80011]: Textual amendment: Sch. 7A para. 195(3A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(5)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/5/b), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-946ca69d09b67fccea18332f57c80011]: Textual amendment: Sch. 7A para. 195(3A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(5)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/5/b), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

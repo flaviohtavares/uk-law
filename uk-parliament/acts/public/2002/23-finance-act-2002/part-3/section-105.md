@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2a59a93ec9ff63afc41fe702e76a70bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2a59a93ec9ff63afc41fe702e76a70bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 12 to the Finance Act 1988 (c. 39) (building societies: change of status)—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a59a93ec9ff63afc41fe702e76a70bd]: Textual amendment: [S. 105(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/105/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2a59a93ec9ff63afc41fe702e76a70bd]: Textual amendment: [S. 105(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/105/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

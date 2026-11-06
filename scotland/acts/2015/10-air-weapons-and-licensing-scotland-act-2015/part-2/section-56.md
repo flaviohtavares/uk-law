@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Duties of Licensing Boards to produce annual reports[^key-c96bd8bd7c40f954c73b811e080a6188][^key-865a0a21d287fd4b49c9eec9d2a96185][^key-47b2c2d01f01c0bbc1d7a83362c20816]
+## 56. Duties of Licensing Boards to produce annual reports[^c-c96bd8bd7c40f954c73b811e080a6188][^c-865a0a21d287fd4b49c9eec9d2a96185][^c-47b2c2d01f01c0bbc1d7a83362c20816]
 
 *Extent: S*
 
@@ -102,8 +102,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c96bd8bd7c40f954c73b811e080a6188]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-c96bd8bd7c40f954c73b811e080a6188]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 1.12.2015 for specified purposes by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
 
-[^key-865a0a21d287fd4b49c9eec9d2a96185]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 15.5.2017 for specified purposes by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-865a0a21d287fd4b49c9eec9d2a96185]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 15.5.2017 for specified purposes by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
 
-[^key-47b2c2d01f01c0bbc1d7a83362c20816]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 20.12.2017 in so far as not already in force by [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(a)](https://www.legislation.gov.uk/ssi/2017/424/article/2/a)
+[^c-47b2c2d01f01c0bbc1d7a83362c20816]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/10/section/56) in force at 20.12.2017 in so far as not already in force by [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(a)](https://www.legislation.gov.uk/ssi/2017/424/article/2/a)

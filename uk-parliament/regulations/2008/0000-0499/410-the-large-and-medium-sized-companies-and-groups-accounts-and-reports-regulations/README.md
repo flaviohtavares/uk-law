@@ -74,7 +74,7 @@ In accordance with sections 473(3) and 1290 of the Companies Act 2006 a draft of
 - [Section 12 — Definition of “provisions”](part-5/section-12.md)
 - [Section 13 — General interpretation](part-5/section-13.md)
 
-### PART 6 — REVIEW[^key-a5e40af26d912190983d2eeba08cbfe1]
+### PART 6 — REVIEW[^c-a5e40af26d912190983d2eeba08cbfe1]
 
 - [Section 14 — Review](part-6/section-14.md)
 
@@ -144,4 +144,4 @@ A transposition note has been prepared which sets out how Directive 2006/46 is t
 
 [^M_C_6970c502-583b-4675-bbbf-a831de450376]: Modification: Regulations applied in part (with modifications) (1.10.2008 with application in accordance with reg. 2(2)-(4) of the modifying S.I.) by [The Large and Medium-sized Limited Liability Partnerships (Accounts) Regulations 2008 (S.I. 2008/1913)](https://www.legislation.gov.uk/uksi/2008/1913), [regs. 2-7](https://www.legislation.gov.uk/uksi/2008/1913/regulation/2), [Schs. 1-4](https://www.legislation.gov.uk/uksi/2008/1913/schedule/1) (as amended (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [S.I. 2016/575](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [49-61](https://www.legislation.gov.uk/uksi/2016/575/regulation/49))
 
-[^key-a5e40af26d912190983d2eeba08cbfe1]: Textual amendment: Pt. 6 inserted (17.5.2016) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [67](https://www.legislation.gov.uk/uksi/2016/575/regulation/67)
+[^c-a5e40af26d912190983d2eeba08cbfe1]: Textual amendment: Pt. 6 inserted (17.5.2016) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [67](https://www.legislation.gov.uk/uksi/2016/575/regulation/67)

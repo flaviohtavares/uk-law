@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Calculation of income and capital[^key-03a43e9a62b1651e17693fd56fc013a1]
+## 23. Calculation of income and capital[^c-03a43e9a62b1651e17693fd56fc013a1]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ shall be calculated in accordance with the rules set out in this Part and any re
 
 ## Annotations
 
-[^key-03a43e9a62b1651e17693fd56fc013a1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/406/regulation/23) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-03a43e9a62b1651e17693fd56fc013a1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/406/regulation/23) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

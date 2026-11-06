@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2014 (revoked)[^key-0c48fd7c02adac71256f2042a2a9f610]
+The Agricultural Holdings (Units of Production) (England) Order 2014 (revoked)[^c-0c48fd7c02adac71256f2042a2a9f610]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 7th November 2014
 
-[^key-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application, and interpretation[^key-0c48fd7c02adac71256f2042a2a9f610]
+## 1. Citation, commencement, application, and interpretation[^c-0c48fd7c02adac71256f2042a2a9f610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-0c48fd7c02adac71256f2042a2a9f610]
+## 2. Assessment of productive capacity of land[^c-0c48fd7c02adac71256f2042a2a9f610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0c48fd7c02adac71256f2042a2a9f610]
+## 3. Revocation[^c-0c48fd7c02adac71256f2042a2a9f610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^key-0c48fd7c02adac71256f2042a2a9f610]
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^c-0c48fd7c02adac71256f2042a2a9f610]
 
 Article 2
 
@@ -74,8 +74,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c48fd7c02adac71256f2042a2a9f610]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c48fd7c02adac71256f2042a2a9f610]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2712) revoked (7.11.2015) by [The Agricultural Holdings (Units of Production) (England) Order 2015 (S.I. 2015/1745)](https://www.legislation.gov.uk/uksi/2015/1745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1745/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/1745/article/3)
+[^c-0c48fd7c02adac71256f2042a2a9f610]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2712) revoked (7.11.2015) by [The Agricultural Holdings (Units of Production) (England) Order 2015 (S.I. 2015/1745)](https://www.legislation.gov.uk/uksi/2015/1745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1745/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/1745/article/3)

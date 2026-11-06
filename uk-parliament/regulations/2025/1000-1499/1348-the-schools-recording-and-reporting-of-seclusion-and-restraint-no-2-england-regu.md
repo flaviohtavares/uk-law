@@ -54,7 +54,7 @@ All other regulations
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 342(4) and 563(1) of the Education Act 1996[^f00001] and section 94(1) of the Education and Skills Act 2008[^f00002].
 
-## 1. Citation, commencement, extent and application[^key-08628d0dcc79c3c95e44d5859d39c5e3]
+## 1. Citation, commencement, extent and application[^c-08628d0dcc79c3c95e44d5859d39c5e3]
 
 (1) These Regulations may be cited as the Schools (Recording and Reporting of Seclusion and Restraint) (No. 2) (England) Regulations 2025.
 
@@ -67,14 +67,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) These Regulations apply in relation to schools in England.
 
-## 2. Interpretation[^key-97c5b4746b11aadc948d6293d61dbeaa]
+## 2. Interpretation[^c-97c5b4746b11aadc948d6293d61dbeaa]
 
 In these Regulations—
 
 - “**parent**”, in relation to a pupil, has the meaning given by [section 576](https://www.legislation.gov.uk/ukpga/1996/56/section/576) of the [Education Act 1996](https://www.legislation.gov.uk/ukpga/1996/56/contents)[^f00003] in relation to a child or young person, but includes a local authority who provide accommodation for the pupil under [section 20](https://www.legislation.gov.uk/ukpga/1989/41/section/20) of the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41/contents)[^f00004] or [section 76](https://www.legislation.gov.uk/anaw/2014/4/section/76) of the [Social Services and Well-being (Wales) Act 2014](https://www.legislation.gov.uk/anaw/2014/4/contents)[^f00005];
 - “**seclusion or restraint incident**” has the meaning given in regulation 4(1)(a).
 
-## 3. Meaning of seclusion etc.[^key-ca644d4f1c847c1cc395f1065be25451]
+## 3. Meaning of seclusion etc.[^c-ca644d4f1c847c1cc395f1065be25451]
 
 (1) For the purposes of these Regulations one or more members of school staff seclude a pupil if they detain that one pupil in a place apart from any other person (except the member or members of staff) otherwise than as a disciplinary penalty, including by—
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 (3) In this regulation “**disciplinary penalty**” has the same meaning as in [Chapter 1](https://www.legislation.gov.uk/ukpga/2006/40/part/7/chapter/1) of [Part 7](https://www.legislation.gov.uk/ukpga/2006/40/part/7) of the [Education and Inspections Act 2006](https://www.legislation.gov.uk/ukpga/2006/40/contents)[^f00006].
 
-## 4. Recording and reporting seclusion etc. by members of school staff[^key-04b39e4ea657dc98c79d7c81731c68a3]
+## 4. Recording and reporting seclusion etc. by members of school staff[^c-04b39e4ea657dc98c79d7c81731c68a3]
 
 (1) The governing body of a school maintained by a local authority must ensure that a procedure is in place for—
 
@@ -101,18 +101,18 @@ In these Regulations—
 
 (3) The procedure must require that the record is made as soon as practicable after the incident.
 
-## 5. Provision for safeguarding of pupils[^key-fe373793758be0f1ab4e9d0a6bc7463b]
+## 5. Provision for safeguarding of pupils[^c-fe373793758be0f1ab4e9d0a6bc7463b]
 
 A procedure under regulation 4(1) must include provision to the effect—
 
 - (a) that a person (“**R**”) who would otherwise be required by the procedure to supply a copy of a record of a seclusion or restraint incident to a parent must not supply it to that parent if it appears to R that doing so would be likely to result in significant harm to the pupil, and
 - (b) that if it appears to R that there is no parent of the pupil to whom R could supply a copy of the record without that being likely to result in significant harm to the pupil, R must supply it to the local authority (within the meaning of the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41/contents)) within whose area the pupil is ordinarily resident.
 
-## 6. Use of force incidents[^key-33d1d5f126ae5c50f51dc1f5259e1cc6]
+## 6. Use of force incidents[^c-33d1d5f126ae5c50f51dc1f5259e1cc6]
 
 A procedure under regulation 4(1) need not provide for any action to be taken in relation to a seclusion or restraint incident that also constitutes a use of force incident within the meaning of [section 93A](https://www.legislation.gov.uk/ukpga/2006/40/section/93A) of the [Education and Inspections Act 2006](https://www.legislation.gov.uk/ukpga/2006/40/contents)[^f00007] and therefore falls to be recorded under the procedure that is in place at the school in accordance with [that section](https://www.legislation.gov.uk/ukpga/2006/40/section/93A).
 
-## 7. Amendment of the Education (Independent School Standards) Regulations 2014[^key-68bc73798f7a81c615078caa8cafb801]
+## 7. Amendment of the Education (Independent School Standards) Regulations 2014[^c-68bc73798f7a81c615078caa8cafb801]
 
 (1) The Education (Independent School Standards) Regulations 2014[^f00008] are amended as follows.
 
@@ -171,7 +171,7 @@ A procedure under regulation 4(1) need not provide for any action to be taken in
 
     .
 
-## 8. Amendment of the Non-Maintained Special Schools (England) Regulations 2015[^key-0cbb6ae30e8297c909e89b8ee6f6cbb4]
+## 8. Amendment of the Non-Maintained Special Schools (England) Regulations 2015[^c-0cbb6ae30e8297c909e89b8ee6f6cbb4]
 
 (1) The Non-Maintained Special Schools (England) Regulations 2015[^f00009] are amended as follows.
 
@@ -218,7 +218,7 @@ A procedure under regulation 4(1) need not provide for any action to be taken in
 
 .
 
-## 9. Revocation of the Schools (Recording and Reporting of Seclusion and Restraint) (England) Regulations 2025[^key-f6c25637baae1e588d0eed0202c163a0]
+## 9. Revocation of the Schools (Recording and Reporting of Seclusion and Restraint) (England) Regulations 2025[^c-f6c25637baae1e588d0eed0202c163a0]
 
 The Schools (Recording and Reporting of Seclusion and Restraint) (England) Regulations 2025[^f00010] are revoked.
 
@@ -260,9 +260,9 @@ A low regulatory impact assessment of the effect that this instrument will have 
 
 [^f00002]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25). There is an amendment to section 94 that is not relevant to these Regulations. See the definition of “regulations” in section 168(1).
 
-[^key-08628d0dcc79c3c95e44d5859d39c5e3]: Commencement: Reg. 1 in force at 9.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/a)
+[^c-08628d0dcc79c3c95e44d5859d39c5e3]: Commencement: Reg. 1 in force at 9.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/a)
 
-[^key-97c5b4746b11aadc948d6293d61dbeaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1348/regulation/2) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-97c5b4746b11aadc948d6293d61dbeaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1348/regulation/2) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
 [^f00003]: Footnote: There is an amendment to section 576 that is not relevant to these Regulations.
 
@@ -270,26 +270,26 @@ A low regulatory impact assessment of the effect that this instrument will have 
 
 [^f00005]: Footnote: 2014 anaw/dccc 4. Section 76 was amended by [S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413/contents) and the Health and Social Care (Wales) Act [2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), section 21.
 
-[^key-ca644d4f1c847c1cc395f1065be25451]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1348/regulation/3) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-ca644d4f1c847c1cc395f1065be25451]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1348/regulation/3) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
 [^f00006]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). “Disciplinary penalty” is defined in section 90 of that Act.
 
-[^key-04b39e4ea657dc98c79d7c81731c68a3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1348/regulation/4) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-04b39e4ea657dc98c79d7c81731c68a3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1348/regulation/4) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
-[^key-fe373793758be0f1ab4e9d0a6bc7463b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1348/regulation/5) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-fe373793758be0f1ab4e9d0a6bc7463b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1348/regulation/5) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
-[^key-33d1d5f126ae5c50f51dc1f5259e1cc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1348/regulation/6) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-33d1d5f126ae5c50f51dc1f5259e1cc6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1348/regulation/6) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
 [^f00007]: Footnote: Section 93A was inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 246, and amended by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413).
 
-[^key-68bc73798f7a81c615078caa8cafb801]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1348/regulation/7) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-68bc73798f7a81c615078caa8cafb801]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1348/regulation/7) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
 [^f00008]: Footnote: [S.I. 2014/3283](https://www.legislation.gov.uk/uksi/2014/3283).
 
-[^key-0cbb6ae30e8297c909e89b8ee6f6cbb4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1348/regulation/8) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
+[^c-0cbb6ae30e8297c909e89b8ee6f6cbb4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1348/regulation/8) in force at 1.4.2026, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/b)
 
 [^f00009]: Footnote: [S.I. 2015/728](https://www.legislation.gov.uk/uksi/2015/728).
 
-[^key-f6c25637baae1e588d0eed0202c163a0]: Commencement: Reg. 9 in force at 9.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/a)
+[^c-f6c25637baae1e588d0eed0202c163a0]: Commencement: Reg. 9 in force at 9.1.2026, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1348/regulation/1/2/a)
 
 [^f00010]: Footnote: [S.I. 2025/1340](https://www.legislation.gov.uk/uksi/2025/1340).

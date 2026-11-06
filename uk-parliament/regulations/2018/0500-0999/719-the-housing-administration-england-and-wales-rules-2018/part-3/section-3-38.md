@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.38. Application to extend a housing administration and extension by consent[^key-c64cda0b4247d82fed87ac12e1e0b780]
+## 3.38. Application to extend a housing administration and extension by consent[^c-c64cda0b4247d82fed87ac12e1e0b780]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c64cda0b4247d82fed87ac12e1e0b780]: Commencement: Rule 3.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c64cda0b4247d82fed87ac12e1e0b780]: Commencement: Rule 3.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00018]: Footnote: Paragraph 76 was amended by section 127 of the Small Business, Enterprise and Employment Act 2015.

@@ -24,12 +24,12 @@ summary: ''
 
 (2) A contract may be a contract to which section 28(3) or (4) applies only if it is neither—
 
-- (a) made within the framework of an international cooperative defence programme , except where the parties to the contract agree that it is a contract which should be a qualifying sub-contract[^key-4ec3cb62974219ab8244786416b71fe2]; nor
+- (a) made within the framework of an international cooperative defence programme , except where the parties to the contract agree that it is a contract which should be a qualifying sub-contract[^c-4ec3cb62974219ab8244786416b71fe2]; nor
 - (b) made wholly for the purposes of one or more of the following—
   - (i) the acquisition of land (including existing buildings or other structures, and land covered with water), and any estate, interest, easement, servitude or right in or over such land;
-  - (ii) the management or maintenance of any land or buildings or other structures; nor[^key-5e13b8e805945ad1a12962f230c090e9]
-  - (iii)[^key-eb3b761438e2c5ef2fcb83cd7b0ca526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ba0c03496de9b9f52a8fb66fe9e0f57a] a contract in relation to which compliance with Part 4, 5 or 6 of the Regulations (records and reports), or section 26 of the Act (duty to report relevant events, circumstances and information), would require disclosure of information which the Secretary of State considers would create a risk to national security; nor
+  - (ii) the management or maintenance of any land or buildings or other structures; nor[^c-5e13b8e805945ad1a12962f230c090e9]
+  - (iii)[^c-eb3b761438e2c5ef2fcb83cd7b0ca526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ba0c03496de9b9f52a8fb66fe9e0f57a] a contract in relation to which compliance with Part 4, 5 or 6 of the Regulations (records and reports), or section 26 of the Act (duty to report relevant events, circumstances and information), would require disclosure of information which the Secretary of State considers would create a risk to national security; nor
 - (d) a contract falling within sub-paragraph (e) below;
 - (e) a contract (B) falls within this sub-paragraph if—
   - (i) B replaced a contract (A),
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4ec3cb62974219ab8244786416b71fe2]: Textual amendment: Words in reg. 58(2)(a) inserted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/1)
+[^c-4ec3cb62974219ab8244786416b71fe2]: Textual amendment: Words in reg. 58(2)(a) inserted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/1)
 
-[^key-5e13b8e805945ad1a12962f230c090e9]: Textual amendment: Word in reg. 58(2)(b)(ii) substituted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/2)
+[^c-5e13b8e805945ad1a12962f230c090e9]: Textual amendment: Word in reg. 58(2)(b)(ii) substituted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/2)
 
-[^key-eb3b761438e2c5ef2fcb83cd7b0ca526]: Textual amendment: Reg. 58(2)(b)(iii) omitted (1.8.2018) by virtue of [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/3)
+[^c-eb3b761438e2c5ef2fcb83cd7b0ca526]: Textual amendment: Reg. 58(2)(b)(iii) omitted (1.8.2018) by virtue of [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/3)
 
-[^key-ba0c03496de9b9f52a8fb66fe9e0f57a]: Textual amendment: Reg. 58(2)(c)-(e) inserted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/4)
+[^c-ba0c03496de9b9f52a8fb66fe9e0f57a]: Textual amendment: Reg. 58(2)(c)-(e) inserted (1.8.2018) by [The Single Source Contract (Amendment) Regulations 2018 (S.I. 2018/917)](https://www.legislation.gov.uk/uksi/2018/917), [regs. 1](https://www.legislation.gov.uk/uksi/2018/917/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/917/regulation/6/4)

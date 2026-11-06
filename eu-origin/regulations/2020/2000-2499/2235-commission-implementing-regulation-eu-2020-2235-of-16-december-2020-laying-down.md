@@ -33,7 +33,7 @@ laying down rules for the application of Regulations (EU) 2016/429 and (EU) 2017
 
 (Text with EEA relevance)
 
-[^key-daf20a915d4c3ee7c2d8d9f76ae5323f]
+[^c-daf20a915d4c3ee7c2d8d9f76ae5323f]
 
 THE EUROPEAN COMMISSION,
 
@@ -1556,7 +1556,7 @@ Implementing Regulation (EU) 2019/628
 
 ## Annotations
 
-[^key-daf20a915d4c3ee7c2d8d9f76ae5323f]: Modification: Regulation incorporated (with modifications) (E.W.S.) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9), [10(3)](https://www.legislation.gov.uk/uksi/2024/853/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
+[^c-daf20a915d4c3ee7c2d8d9f76ae5323f]: Modification: Regulation incorporated (with modifications) (E.W.S.) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9), [10(3)](https://www.legislation.gov.uk/uksi/2024/853/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
 
 [^f00001]: Footnote: [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG).
 

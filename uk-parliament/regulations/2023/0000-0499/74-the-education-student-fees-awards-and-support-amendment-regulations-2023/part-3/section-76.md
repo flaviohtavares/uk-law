@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Amendments relating to students becoming eligible for loans after their course has started[^key-cb4a1e358ae41f4f3fcee7c035933415]
+## 76. Amendments relating to students becoming eligible for loans after their course has started[^c-cb4a1e358ae41f4f3fcee7c035933415]
 
 *Extent: E+W*
 
@@ -49,14 +49,14 @@ For regulation 6 (including the heading) substitute—
 
 .
 
-**77.**[^key-dfeee3adfeba4db8cc8edb60d613c331] Omit regulation 7 (events).
+**77.**[^c-dfeee3adfeba4db8cc8edb60d613c331] Omit regulation 7 (events).
 
-**78.**[^key-b5818e377ff70d66edcfc4801f96abe7] In Part 1 of Schedule 1 (eligible students: interpretation), in paragraph 1(3) after “place”, in the second place it occurs, insert “(but see regulation 6(3) and (4))”.
+**78.**[^c-b5818e377ff70d66edcfc4801f96abe7] In Part 1 of Schedule 1 (eligible students: interpretation), in paragraph 1(3) after “place”, in the second place it occurs, insert “(but see regulation 6(3) and (4))”.
 
 ## Annotations
 
-[^key-cb4a1e358ae41f4f3fcee7c035933415]: Commencement: Reg. 76 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-cb4a1e358ae41f4f3fcee7c035933415]: Commencement: Reg. 76 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-dfeee3adfeba4db8cc8edb60d613c331]: Commencement: Reg. 77 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-dfeee3adfeba4db8cc8edb60d613c331]: Commencement: Reg. 77 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-b5818e377ff70d66edcfc4801f96abe7]: Commencement: Reg. 78 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-b5818e377ff70d66edcfc4801f96abe7]: Commencement: Reg. 78 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Research, training etc[^key-ef9b84d050e083090de5fc8fde8b1075]
+## 88. Research, training etc[^c-ef9b84d050e083090de5fc8fde8b1075]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9b84d050e083090de5fc8fde8b1075]: Commencement: S. 88 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-ef9b84d050e083090de5fc8fde8b1075]: Commencement: S. 88 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

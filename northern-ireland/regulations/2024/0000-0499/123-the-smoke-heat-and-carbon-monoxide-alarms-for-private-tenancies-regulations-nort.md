@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(2)
 
 The Department for Communities makes the following Regulations in exercise of the power conferred by Article 11B(2) and Article 72(1)(d) of the Private Tenancies (Northern Ireland) Order 2006[^f00001].
 
-## 1. Citation and commencement[^key-c76b8f9417e92b80e017a07374bb58e2][^key-cb8f5e2e1d30f124d88d27c9bd3a0a84]
+## 1. Citation and commencement[^c-c76b8f9417e92b80e017a07374bb58e2][^c-cb8f5e2e1d30f124d88d27c9bd3a0a84]
 
 (1) These Regulations may be cited as the Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024.
 
@@ -49,7 +49,7 @@ The Department for Communities makes the following Regulations in exercise of th
 - (a) new private tenancies from 1st September 2024; and
 - (b) other private tenancies from 1st December 2024.
 
-## 2. Interpretation[^key-bd55c99f579b0e561aab6fb4613bab49][^key-178efb5d27484e510c70ebb04f28b241]
+## 2. Interpretation[^c-bd55c99f579b0e561aab6fb4613bab49][^c-178efb5d27484e510c70ebb04f28b241]
 
 In these Regulations—
 
@@ -65,7 +65,7 @@ In these Regulations—
 - “**open plan living area**” means an area where there are no walls dividing a kitchen and a space used by the occupants for general day time living purposes;
 - “**room**” includes an integral garage.
 
-## 3. Minimum number of smoke, heat and carbon monoxide alarms[^key-e4cc4477017553febd0f7f541820b38b][^key-11384f1eb71e5b32dc3b2baf4b18ac90]
+## 3. Minimum number of smoke, heat and carbon monoxide alarms[^c-e4cc4477017553febd0f7f541820b38b][^c-11384f1eb71e5b32dc3b2baf4b18ac90]
 
 (1) Subject to paragraph (2), a landlord in respect of a private tenancy must ensure that each dwelling-house has—
 
@@ -85,7 +85,7 @@ In these Regulations—
 - (b) replaced when notified the alarm is faulty;
 - (c) replaced before the manufacturer’s specified date of expiry.
 
-## 4. Requirements for alarms[^key-05f6e1c1fd9a5d3e84f68941389b3a58][^key-8ae9966b25db52f4d08664ea4ba92148]
+## 4. Requirements for alarms[^c-05f6e1c1fd9a5d3e84f68941389b3a58][^c-8ae9966b25db52f4d08664ea4ba92148]
 
 (1) Alarms specified at regulation 3(1) to (3) must be—
 
@@ -124,18 +124,18 @@ Guidance on the implementation of the Smoke, Heat and Carbon Monoxide Alarms for
 
 [^f00001]: Footnote: [S.I. 2006 No. 1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459); Article 11B was inserted by section 8 of the Private Tenancies Act (Northern Ireland) [2022 c. 20 (N.I.)](https://www.legislation.gov.uk/nia/2022/20).
 
-[^key-c76b8f9417e92b80e017a07374bb58e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/123/regulation/1) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
+[^c-c76b8f9417e92b80e017a07374bb58e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/123/regulation/1) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
 
-[^key-cb8f5e2e1d30f124d88d27c9bd3a0a84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/123/regulation/1) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
+[^c-cb8f5e2e1d30f124d88d27c9bd3a0a84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/123/regulation/1) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
 
-[^key-bd55c99f579b0e561aab6fb4613bab49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/123/regulation/2) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
+[^c-bd55c99f579b0e561aab6fb4613bab49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/123/regulation/2) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
 
-[^key-178efb5d27484e510c70ebb04f28b241]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/123/regulation/2) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
+[^c-178efb5d27484e510c70ebb04f28b241]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/123/regulation/2) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
 
-[^key-e4cc4477017553febd0f7f541820b38b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/123/regulation/3) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
+[^c-e4cc4477017553febd0f7f541820b38b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/123/regulation/3) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
 
-[^key-11384f1eb71e5b32dc3b2baf4b18ac90]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/123/regulation/3) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
+[^c-11384f1eb71e5b32dc3b2baf4b18ac90]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/123/regulation/3) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
 
-[^key-05f6e1c1fd9a5d3e84f68941389b3a58]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/123/regulation/4) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
+[^c-05f6e1c1fd9a5d3e84f68941389b3a58]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/123/regulation/4) in operation at 1.9.2024 coming into force in accordance with , see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/a)
 
-[^key-8ae9966b25db52f4d08664ea4ba92148]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/123/regulation/4) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)
+[^c-8ae9966b25db52f4d08664ea4ba92148]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/123/regulation/4) in operation at 1.12.2024 coming into force in accordance with , see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2024/123/regulation/1/2/b)

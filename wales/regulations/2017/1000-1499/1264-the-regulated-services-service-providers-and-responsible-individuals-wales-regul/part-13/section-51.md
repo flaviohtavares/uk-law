@@ -22,7 +22,7 @@ summary: ''
 
 (1) All bedrooms used for the provision of the service must have a minimum of 12 square metres of useable floor space unless paragraph (2) or (3) applies.
 
-(2) This paragraph applies where the person living in the room has to use a wheelchair on a permanent and constant basis .[^key-1b515e8c62444725166aba78bdc7f1e1] [^key-6c8a9646a22988fc770b4cd4b905b0d5]...
+(2) This paragraph applies where the person living in the room has to use a wheelchair on a permanent and constant basis .[^c-1b515e8c62444725166aba78bdc7f1e1] [^c-6c8a9646a22988fc770b4cd4b905b0d5]...
 
 (3) This paragraph applies where a bedroom is shared.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b515e8c62444725166aba78bdc7f1e1]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/51/2) full stop inserted (31.3.2024) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/407/regulation/8)
+[^c-1b515e8c62444725166aba78bdc7f1e1]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/51/2) full stop inserted (31.3.2024) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/407/regulation/8)
 
-[^key-6c8a9646a22988fc770b4cd4b905b0d5]: Textual amendment: Words in [reg. 51(2)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/51/2) omitted (31.3.2024) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/407/regulation/8)
+[^c-6c8a9646a22988fc770b4cd4b905b0d5]: Textual amendment: Words in [reg. 51(2)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/51/2) omitted (31.3.2024) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2024/407/regulation/8)

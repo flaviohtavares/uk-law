@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Meaning of “relevant person”[^key-9c8b9e17aceadc629e3e330597214004][^key-2c45f567309edc72a2dd16c958ee9174]
+## 40. Meaning of “relevant person”[^c-9c8b9e17aceadc629e3e330597214004][^c-2c45f567309edc72a2dd16c958ee9174]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c8b9e17aceadc629e3e330597214004]: Commencement: Art. 40 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-9c8b9e17aceadc629e3e330597214004]: Commencement: Art. 40 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-2c45f567309edc72a2dd16c958ee9174]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2018/1253/article/40) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-2c45f567309edc72a2dd16c958ee9174]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2018/1253/article/40) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

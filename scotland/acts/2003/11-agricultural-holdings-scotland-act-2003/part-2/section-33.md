@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Appointment of valuer[^key-d8a3e567940b9723b633d04491c23982]
+## 33. Appointment of valuer[^c-d8a3e567940b9723b633d04491c23982]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ or by a person nominated by them.
 
 ## Annotations
 
-[^key-d8a3e567940b9723b633d04491c23982]: Commencement: S. 33 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-d8a3e567940b9723b633d04491c23982]: Commencement: S. 33 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

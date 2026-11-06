@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Relief for certain acquisitions of residential property[^key-c23cc5106d77580b362e9516d23b4031]
+## SCHEDULE 6A — Relief for certain acquisitions of residential property[^c-c23cc5106d77580b362e9516d23b4031]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,6 +292,6 @@ Paragraph (b) does not apply to the grant of lease or licence to the individual 
 
 ## Annotations
 
-[^key-c23cc5106d77580b362e9516d23b4031]: Textual amendment: Sch. 6A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/17/2) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14)
+[^c-c23cc5106d77580b362e9516d23b4031]: Textual amendment: Sch. 6A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 17(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/17/2) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14)
 
 [^M_F_19110515-e963-4c66-a026-6fbff3c75b96]: Textual amendment: Words in Sch. 6A para. 10 substituted (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 415](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/415) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

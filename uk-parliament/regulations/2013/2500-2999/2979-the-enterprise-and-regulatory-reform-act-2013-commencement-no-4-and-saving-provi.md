@@ -41,11 +41,11 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 100 and 103(3) and (4) of the Enterprise and Regulatory Reform Act 2013[^f00001].
 
-## 1. Citation[^key-54d364546bdc5b18954f1a64f980dc61]
+## 1. Citation[^c-54d364546bdc5b18954f1a64f980dc61]
 
 This Order may be cited as the Enterprise and Regulatory Reform Act 2013 (Commencement No. 4 and Saving Provision) Order 2013.
 
-## 2. Provisions coming into force on 16th December 2013[^key-422dbbf5ebafb20821b525bca4ab9292]
+## 2. Provisions coming into force on 16th December 2013[^c-422dbbf5ebafb20821b525bca4ab9292]
 
 The following provisions of the Enterprise and Regulatory Reform Act 2013 come into force on 16th December 2013—
 
@@ -54,15 +54,15 @@ The following provisions of the Enterprise and Regulatory Reform Act 2013 come i
 - (c) in relation to England, section 72(4) and paragraph 2 of Schedule 20 (consequential provision) so far as relating to the enactments referred to in Part 1 of the Schedule to this Order; and
 - (d) section 72(4) and paragraph 2 of Schedule 20 so far as relating to the enactments referred to in Part 2 of the Schedule to this Order.
 
-## 3. Provisions coming into force on 31st March 2014[^key-30b3fda7a57bb71272db3dbd87f97a60]
+## 3. Provisions coming into force on 31st March 2014[^c-30b3fda7a57bb71272db3dbd87f97a60]
 
-Section 72(4) of, and paragraph 2 of Schedule 20 to, the Enterprise and Regulatory Reform Act 2013 so far as relating to [^key-f89682e1d65b6f15dc0dbb90cc98bbea]... paragraph 8 of Schedule 1 to [^key-3b0d872ea499fe41ffddf2c4e3cafd07]... the Agricultural Wages Act 1948[^f00002] come into force in relation to England on 31st March 2014.
+Section 72(4) of, and paragraph 2 of Schedule 20 to, the Enterprise and Regulatory Reform Act 2013 so far as relating to [^c-f89682e1d65b6f15dc0dbb90cc98bbea]... paragraph 8 of Schedule 1 to [^c-3b0d872ea499fe41ffddf2c4e3cafd07]... the Agricultural Wages Act 1948[^f00002] come into force in relation to England on 31st March 2014.
 
-## 3A. Provisions coming into force on 31st December 2014[^key-02adaa1a5698f1353ee2b80065c3b27b]
+## 3A. Provisions coming into force on 31st December 2014[^c-02adaa1a5698f1353ee2b80065c3b27b]
 
 Section 72(4) of, and paragraph 2 of Schedule 20 to, the Enterprise and Regulatory Reform Act 2013 so far as relating to sections 13 and 14 of the Agricultural Wages Act 1948 come into force in relation to England on 31st December 2014.
 
-## 4. Saving provision[^key-153ab91bd6d7dff06399143f2a5c727a]
+## 4. Saving provision[^c-153ab91bd6d7dff06399143f2a5c727a]
 
 Notwithstanding article 2(c), section 15 of the Agricultural Wages Act 1948 continues in force in relation to England on and after 16th December 2013 but only in relation to the employment of a worker employed in agriculture before 1st October 2013 which continues after 15th December 2013.
 
@@ -80,25 +80,25 @@ Article 2(c) and (d)
 
 ### PART 1 — England
 
-**1.**[^key-f6f8fce1e704a6fdf9c9e1b80c0c5982] The Agricultural Wages Act 1948, sections 2(1)(a), 9(2) and 15.
+**1.**[^c-f6f8fce1e704a6fdf9c9e1b80c0c5982] The Agricultural Wages Act 1948, sections 2(1)(a), 9(2) and 15.
 
-**2.**[^key-bb68d0fb4750574d5a33e18c95471030] The Agricultural Wages Committees Regulations 1949, regulation 16[^f00003].
+**2.**[^c-bb68d0fb4750574d5a33e18c95471030] The Agricultural Wages Committees Regulations 1949, regulation 16[^f00003].
 
-**3.**[^key-b1062d853e8c3c22659b9e8fe88eb530] The Agricultural Wages Committees (Wages Structure) Regulations 1971[^f00004].
+**3.**[^c-b1062d853e8c3c22659b9e8fe88eb530] The Agricultural Wages Committees (Wages Structure) Regulations 1971[^f00004].
 
 ### PART 2 — England and Wales
 
-**4.**[^key-d3fd2a07e670678475675e1ac66c4e2d] The Agricultural Wages Act 1948, in section 2(1) the words “England and”, sections 18 and 19 and Schedule 2 so far as it relates to counties in England.
+**4.**[^c-d3fd2a07e670678475675e1ac66c4e2d] The Agricultural Wages Act 1948, in section 2(1) the words “England and”, sections 18 and 19 and Schedule 2 so far as it relates to counties in England.
 
-**5.**[^key-1bc42f1c6155ecc6051f5ec60db26a85] The Agricultural Wages Committees Regulations 1949, regulation 3(2)(a) and the word “and” after it[^f00005].
+**5.**[^c-1bc42f1c6155ecc6051f5ec60db26a85] The Agricultural Wages Committees Regulations 1949, regulation 3(2)(a) and the word “and” after it[^f00005].
 
-**6.**[^key-9ad889a2161a0592e503e05cd2d7f509] The Agricultural Wages Committees (Areas) Order 1974[^f00006].
+**6.**[^c-9ad889a2161a0592e503e05cd2d7f509] The Agricultural Wages Committees (Areas) Order 1974[^f00006].
 
-**7.**[^key-e19dc7be5f1423950ea19ad2eb694ec4] The Agricultural Wages Committees (New Combinations of Counties) Order 1981[^f00007].
+**7.**[^c-e19dc7be5f1423950ea19ad2eb694ec4] The Agricultural Wages Committees (New Combinations of Counties) Order 1981[^f00007].
 
-**8.**[^key-71007a4086eadd10dfcbebed6b569470] The Agricultural Wages Committee (Cleveland, Durham, Northumberland and Tyne and Wear) Order 1989[^f00008].
+**8.**[^c-71007a4086eadd10dfcbebed6b569470] The Agricultural Wages Committee (Cleveland, Durham, Northumberland and Tyne and Wear) Order 1989[^f00008].
 
-**9.**[^key-015668c7610d0b732bf0793c9945da2b] The Agricultural Wages Committees (Areas) (England) Order 1995[^f00009].
+**9.**[^c-015668c7610d0b732bf0793c9945da2b] The Agricultural Wages Committees (Areas) (England) Order 1995[^f00009].
 
 EXPLANATORY NOTE
 
@@ -156,51 +156,51 @@ The following provisions of the Enterprise and Regulatory Reform Act 2013 were b
 
 [^f00001]: Footnote: [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-54d364546bdc5b18954f1a64f980dc61]: Commencement: Art. 1 in force at made date
+[^c-54d364546bdc5b18954f1a64f980dc61]: Commencement: Art. 1 in force at made date
 
-[^key-422dbbf5ebafb20821b525bca4ab9292]: Commencement: Art. 2 in force at made date
+[^c-422dbbf5ebafb20821b525bca4ab9292]: Commencement: Art. 2 in force at made date
 
-[^key-30b3fda7a57bb71272db3dbd87f97a60]: Commencement: Art. 3 in force at made date
+[^c-30b3fda7a57bb71272db3dbd87f97a60]: Commencement: Art. 3 in force at made date
 
-[^key-f89682e1d65b6f15dc0dbb90cc98bbea]: Textual amendment: Words in art. 3 omitted (26.3.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 4 and Saving Provision) (Amendment) Order 2014 (S.I. 2014/824)](https://www.legislation.gov.uk/uksi/2014/824), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2014/824/article/2/a/i)
+[^c-f89682e1d65b6f15dc0dbb90cc98bbea]: Textual amendment: Words in art. 3 omitted (26.3.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 4 and Saving Provision) (Amendment) Order 2014 (S.I. 2014/824)](https://www.legislation.gov.uk/uksi/2014/824), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2014/824/article/2/a/i)
 
-[^key-3b0d872ea499fe41ffddf2c4e3cafd07]: Textual amendment: Art. 3: comma omitted (26.3.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 4 and Saving Provision) (Amendment) Order 2014 (S.I. 2014/824)](https://www.legislation.gov.uk/uksi/2014/824), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2014/824/article/2/a/ii)
+[^c-3b0d872ea499fe41ffddf2c4e3cafd07]: Textual amendment: Art. 3: comma omitted (26.3.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 4 and Saving Provision) (Amendment) Order 2014 (S.I. 2014/824)](https://www.legislation.gov.uk/uksi/2014/824), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2014/824/article/2/a/ii)
 
 [^f00002]: Footnote: [1948 c. 47](https://www.legislation.gov.uk/ukpga/1948/47).
 
-[^key-02adaa1a5698f1353ee2b80065c3b27b]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2013/2979/article/3A) substituted (14.9.2014) by [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 7 and Amendment) Order 2014 (S.I. 2014/2481)](https://www.legislation.gov.uk/uksi/2014/2481), [art. 4](https://www.legislation.gov.uk/uksi/2014/2481/article/4)
+[^c-02adaa1a5698f1353ee2b80065c3b27b]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2013/2979/article/3A) substituted (14.9.2014) by [The Enterprise and Regulatory Reform Act 2013 (Commencement No. 7 and Amendment) Order 2014 (S.I. 2014/2481)](https://www.legislation.gov.uk/uksi/2014/2481), [art. 4](https://www.legislation.gov.uk/uksi/2014/2481/article/4)
 
-[^key-153ab91bd6d7dff06399143f2a5c727a]: Commencement: Art. 4 in force at made date
+[^c-153ab91bd6d7dff06399143f2a5c727a]: Commencement: Art. 4 in force at made date
 
-[^key-f6f8fce1e704a6fdf9c9e1b80c0c5982]: Commencement: Sch. para. 1 in force at made date
+[^c-f6f8fce1e704a6fdf9c9e1b80c0c5982]: Commencement: Sch. para. 1 in force at made date
 
-[^key-bb68d0fb4750574d5a33e18c95471030]: Commencement: Sch. para. 2 in force at made date
+[^c-bb68d0fb4750574d5a33e18c95471030]: Commencement: Sch. para. 2 in force at made date
 
 [^f00003]: Footnote: [S.I. 1949/1885](https://www.legislation.gov.uk/uksi/1949/1885); regulation 16 is amended by [S.I. 2004/2178](https://www.legislation.gov.uk/uksi/2004/2178).
 
-[^key-b1062d853e8c3c22659b9e8fe88eb530]: Commencement: Sch. para. 3 in force at made date
+[^c-b1062d853e8c3c22659b9e8fe88eb530]: Commencement: Sch. para. 3 in force at made date
 
 [^f00004]: Footnote: [S.I. 1971/844](https://www.legislation.gov.uk/uksi/1971/844).
 
-[^key-d3fd2a07e670678475675e1ac66c4e2d]: Commencement: Sch. para. 4 in force at made date
+[^c-d3fd2a07e670678475675e1ac66c4e2d]: Commencement: Sch. para. 4 in force at made date
 
-[^key-1bc42f1c6155ecc6051f5ec60db26a85]: Commencement: Sch. para. 5 in force at made date
+[^c-1bc42f1c6155ecc6051f5ec60db26a85]: Commencement: Sch. para. 5 in force at made date
 
 [^f00005]: Footnote: Regulation 3 was substituted by [S.I. 1980/1005](https://www.legislation.gov.uk/uksi/1980/1005); there are other amending instruments but none is relevant.
 
-[^key-9ad889a2161a0592e503e05cd2d7f509]: Commencement: Sch. para. 6 in force at made date
+[^c-9ad889a2161a0592e503e05cd2d7f509]: Commencement: Sch. para. 6 in force at made date
 
 [^f00006]: Footnote: [S.I. 1974/515](https://www.legislation.gov.uk/uksi/1974/515); article 3 is amended by [S.I. 1981/179](https://www.legislation.gov.uk/uksi/1981/179) and [2007/395 (W.41)](https://www.legislation.gov.uk/wsi/2007/395). The Schedule is amended by [S.I. 1989/1173](https://www.legislation.gov.uk/uksi/1989/1173) and [2007/395 (W.41)](https://www.legislation.gov.uk/wsi/2007/395).
 
-[^key-e19dc7be5f1423950ea19ad2eb694ec4]: Commencement: Sch. para. 7 in force at made date
+[^c-e19dc7be5f1423950ea19ad2eb694ec4]: Commencement: Sch. para. 7 in force at made date
 
 [^f00007]: Footnote: [S.I. 1981/179](https://www.legislation.gov.uk/uksi/1981/179).
 
-[^key-71007a4086eadd10dfcbebed6b569470]: Commencement: Sch. para. 8 in force at made date
+[^c-71007a4086eadd10dfcbebed6b569470]: Commencement: Sch. para. 8 in force at made date
 
 [^f00008]: Footnote: [S.I. 1989/1173](https://www.legislation.gov.uk/uksi/1989/1173).
 
-[^key-015668c7610d0b732bf0793c9945da2b]: Commencement: Sch. para. 9 in force at made date
+[^c-015668c7610d0b732bf0793c9945da2b]: Commencement: Sch. para. 9 in force at made date
 
 [^f00009]: Footnote: [S.I. 1995/3186](https://www.legislation.gov.uk/uksi/1995/3186).
 

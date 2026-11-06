@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Obstruction of construction of authorised works[^key-211913a71f10a631f55850c154e8bf0c]
+## 27. Obstruction of construction of authorised works[^c-211913a71f10a631f55850c154e8bf0c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-211913a71f10a631f55850c154e8bf0c]: Commencement: Art. 27 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-211913a71f10a631f55850c154e8bf0c]: Commencement: Art. 27 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

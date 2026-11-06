@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 40(1) of the Registration of Clubs (Northern Ireland) Order 1996[^f00001] and all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-907b72ea063ef0322e3067a3c645ad31]
+## 1. Citation, commencement and interpretation[^c-907b72ea063ef0322e3067a3c645ad31]
 
 (1) These Regulations may be cited as the Registration of Clubs (Accounts) Regulations (Northern Ireland) 1997 and shall come into operation on 1st September 1997.
 
@@ -68,7 +68,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “subscription” includes all sums payable for admission to, or renewal of, membership of a club;
 - “system failure” shall be construed in accordance with paragraph 26 of Schedule 2.
 
-## 2. Vouchers[^key-3372e4d0ea2ef3369809acc391b700c3]
+## 2. Vouchers[^c-3372e4d0ea2ef3369809acc391b700c3]
 
 (1) The club shall keep, or cause to be kept, with respect to its transactions and its assets and liabilities, the vouchers specified in Schedule 1 and, unless the committee decides that it is impracticable to do so, such vouchers shall be kept on the premises of the club.
 
@@ -78,18 +78,18 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) Every voucher in the possession of the club, other than a voucher falling within paragraph 5 of Schedule 1, shall be marked with a unique identification number.
 
-## 3. System of control[^key-b8c7a4efd64dc8f9a1d5d7d92154082b]
+## 3. System of control[^c-b8c7a4efd64dc8f9a1d5d7d92154082b]
 
 The system of control of accounts, cash holdings, and all receipts and remittances to be maintained by the club is specified in Schedule 2.
 
-## 4. Annual statement of accounts[^key-bed2aacd64982139f9680c3aeaf43bb3]
+## 4. Annual statement of accounts[^c-bed2aacd64982139f9680c3aeaf43bb3]
 
 The annual statement of accounts prepared by a club shall—
 
 - (a) comply with the requirements of Schedule 3 with regard to its form and content and any additional information to be provided by way of notes to the accounts; and
 - (b) be audited by a person falling within regulation 5.
 
-## 5. Auditors[^key-5a4239fb7ecccf027954d820a93abeed]
+## 5. Auditors[^c-5a4239fb7ecccf027954d820a93abeed]
 
 (1) Subject to regulation 6, a person to whom regulation 4(*b*) refers is a person who—
 
@@ -109,11 +109,11 @@ The annual statement of accounts prepared by a club shall—
 - (d) the Association of Chartered Certified Accountants; and
 - (e) the Association of Authorised Public Accountants.
 
-## 6. Transitional provision[^key-1506e50f94013a1d7035d6752a21ae30]
+## 6. Transitional provision[^c-1506e50f94013a1d7035d6752a21ae30]
 
 Until 30th November 1998 it shall be sufficient compliance with regulation 4(*b*) if the annual statement of accounts prepared by a club has been audited by a person who holds the required qualification in accordance with regulation 5(2).
 
-## 7. Conduct of audit[^key-70295afcb3fb3aaf0b61fb48229fc8a5]
+## 7. Conduct of audit[^c-70295afcb3fb3aaf0b61fb48229fc8a5]
 
 The audit shall be conducted in accordance with Auditing Standards issued by the Auditing Practices Board.
 
@@ -129,25 +129,25 @@ Under Secretary
 
 Regulation 2(1) and (4)
 
-**1.**[^key-60b1887362bf8c357b933916e2e0bcd4] All order forms, invoices, credit notes, goods returned notes, receipts, contracts, correspondence and other records relating to goods and services supplied to or by the club or to monies received by the club.
+**1.**[^c-60b1887362bf8c357b933916e2e0bcd4] All order forms, invoices, credit notes, goods returned notes, receipts, contracts, correspondence and other records relating to goods and services supplied to or by the club or to monies received by the club.
 
-**2.**[^key-24cebb2abd75cf1ba8cb915847d7c57f] All banking records including all pay-in slip counterfoils, cheque counterfoils, cheques (if returned to the club) and statements and correspondence passing between any bank and the club or anyone on its behalf.
+**2.**[^c-24cebb2abd75cf1ba8cb915847d7c57f] All banking records including all pay-in slip counterfoils, cheque counterfoils, cheques (if returned to the club) and statements and correspondence passing between any bank and the club or anyone on its behalf.
 
-**3.**[^key-38cb5c38ad261b0c7dcade561d0eea43] All lists of members and of subscriptions paid or unpaid.
+**3.**[^c-38cb5c38ad261b0c7dcade561d0eea43] All lists of members and of subscriptions paid or unpaid.
 
-**4.**[^key-324d6a6baffea8f784b5170d7069e7ae] All till rolls, sales sheets, stock record sheets and other records relating to the quantities of stock held or supplied by the club.
+**4.**[^c-324d6a6baffea8f784b5170d7069e7ae] All till rolls, sales sheets, stock record sheets and other records relating to the quantities of stock held or supplied by the club.
 
-**5.**[^key-623ed8cc7f460bc99b4d22eb04056bc2] All leases, mortgages and title deeds relating to land or buildings owned or leased by or on behalf of the club.
+**5.**[^c-623ed8cc7f460bc99b4d22eb04056bc2] All leases, mortgages and title deeds relating to land or buildings owned or leased by or on behalf of the club.
 
-**6.**[^key-a70259f3f1d88d6a26cf701719d34865] All annual statements of accounts and minutes made in accordance with the provisions of the Order or of these Regulations.
+**6.**[^c-a70259f3f1d88d6a26cf701719d34865] All annual statements of accounts and minutes made in accordance with the provisions of the Order or of these Regulations.
 
-**7.**[^key-fd4f8e178786fa93cb05a6296e28c106] All assessments, notices and demands in respect of rates, income tax, corporation tax, value added tax and National Insurance and all correspondence between the Department of the Environment for Northern Ireland, the Inland Revenue, HM Customs and Excise, the Department of Health and Social Services on the one hand and the club on the other.
+**7.**[^c-fd4f8e178786fa93cb05a6296e28c106] All assessments, notices and demands in respect of rates, income tax, corporation tax, value added tax and National Insurance and all correspondence between the Department of the Environment for Northern Ireland, the Inland Revenue, HM Customs and Excise, the Department of Health and Social Services on the one hand and the club on the other.
 
 ## SCHEDULE 2 — Systems of Control
 
 Regulation 3
 
-### 1. Record of supplies[^key-8c0c45b1c5302fbe16f96f1640230953]
+### 1. Record of supplies[^c-8c0c45b1c5302fbe16f96f1640230953]
 
 A till roll or other record shall be maintained showing in respect of all bar stock supplied by the club—
 
@@ -156,7 +156,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 - (c) the quantity of and unit price of each item supplied; and
 - (d) the amount received by the club in respect of each transaction.
 
-### 2. Reconciliation of supplies and money[^key-4ed01fa1acc26f235e7b379b9f405425]
+### 2. Reconciliation of supplies and money[^c-4ed01fa1acc26f235e7b379b9f405425]
 
 (1) Before a till is first opened on any day a record shall be made showing—
 
@@ -167,7 +167,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (2) Any discrepancy between the figures referred to in sub-paragraph (1)(*c*) and (*d*) in excess of £20, or such lesser sum as may be decided in advance by the committee, shall be treated as a system failure to which paragraph 26 shall apply.
 
-### 3. Machines[^key-b22df34dd3e9bb02bf6a09dc104d3c6e]
+### 3. Machines[^c-b22df34dd3e9bb02bf6a09dc104d3c6e]
 
 (1) Money shall be removed from or placed in a machine only in the presence of two persons, one of whom shall be a member of the committee and the other either a member of the committee or a person authorised by the committee, either generally or for a specific period, to perform that duty.
 
@@ -195,7 +195,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 - “removed” in relation to money, does not include money won as a prize or received as change; and
 - “placed in” in relation to money, does not include money inserted to play or use a machine.
 
-### 4. Receipts[^key-a09ff84730803b46d077402189d92bcc]
+### 4. Receipts[^c-a09ff84730803b46d077402189d92bcc]
 
 (1) All monies received by the club shall be lodged in a bank as soon as practicable without deduction.
 
@@ -218,7 +218,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (5) A receipt counterfoil, duplicate receipt or other document setting out the information referred to in sub-paragraph (4) shall be kept by the club.
 
-### 5. Membership records[^key-531cce8513874083af912fe6adf5b07c]
+### 5. Membership records[^c-531cce8513874083af912fe6adf5b07c]
 
 (1) A record shall be maintained which shows, where appropriate by class or category, in respect of each member of the club—
 
@@ -234,7 +234,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (3) The names of members whose membership is suspended or terminated on account of arrears of subscription shall be recorded in the minutes.
 
-### 6. Ordering of bar stock[^key-952da307d8e6a55e30994341342bf3cc]
+### 6. Ordering of bar stock[^c-952da307d8e6a55e30994341342bf3cc]
 
 (1) Except in exceptional circumstances bar stock shall be ordered or obtained only from suppliers whose name appears on a list approved by the committee.
 
@@ -242,7 +242,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (3) Where bar stock is ordered or obtained from a supplier whose name does not appear on a list approved by the committee a report shall forthwith be prepared stating the circumstances.
 
-### 7. Payments[^key-6a77db9bdd59f416102d04b0fbe07abe]
+### 7. Payments[^c-6a77db9bdd59f416102d04b0fbe07abe]
 
 (1) Goods or services supplied to the club shall not be paid for in kind.
 
@@ -250,7 +250,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (3) Notwithstanding sub-paragraph (2) all payments of whatever amount in respect of pay shall be made either by cheque or by electronic transfer through a bank.
 
-### 8. Payments by cheque[^key-b49981c13ff18189a49e1544faff990c]
+### 8. Payments by cheque[^c-b49981c13ff18189a49e1544faff990c]
 
 (1) All cheques shall be signed by two persons, one of whom shall be a member of the committee, and the other either a member of the committee or a person authorised by the committee, either generally or for a specific period, to perform that duty.
 
@@ -277,7 +277,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 - (c) the amount of the cheque; and
 - (d) the unique identification number of the voucher in respect of which the payment is made.
 
-### 9. Petty cash float[^key-36d25cb200d30a7c31afc6397a2f8b18]
+### 9. Petty cash float[^c-36d25cb200d30a7c31afc6397a2f8b18]
 
 (1) Any cash payments shall be made from a petty cash float.
 
@@ -315,7 +315,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (10) Any discrepancy in excess of £5 (or such lesser sum as may be decided in advance by the committee) between the amount of money found at any check mentioned in sub-paragraph (8) and the amount shown in the record prepared in accordance with sub-paragraph (7) or any occasion on which the amount of money in the float exceeds the maximum amount fixed in accordance with sub-paragraph (3) by £5 (or such lesser sum as may be decided in advance by the committee) shall be treated as a system failure to which paragraph 26 shall apply.
 
-### 10. Till floats[^key-a5acc03b6fb5cbc98e3b78b847c8ed46]
+### 10. Till floats[^c-a5acc03b6fb5cbc98e3b78b847c8ed46]
 
 (1) The committee may decide to maintain a float at each till.
 
@@ -337,7 +337,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (7) Any discrepancy between the amount found at any check mentioned in sub-paragraph (6) and the amount fixed by the committee in accordance with sub-paragraph (2) shall be treated as a system failure to which paragraph 26 shall apply.
 
-### 11. Bank lodgments[^key-f957e0a6a326f8efd127544f9bd2e296]
+### 11. Bank lodgments[^c-f957e0a6a326f8efd127544f9bd2e296]
 
 (1) Before monies are lodged in a bank, a pay-in slip counterfoil shall be completed showing—
 
@@ -359,7 +359,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 - (i) grants; and
 - (j) other income not falling within heads (*a*) to (*i).*
 
-### 12. Summary of receipts[^key-71eb9c543bef79f01a6da0c44eccd72d]
+### 12. Summary of receipts[^c-71eb9c543bef79f01a6da0c44eccd72d]
 
 (1) A record shall be kept showing from day to day in respect of all monies received by the club—
 
@@ -369,7 +369,7 @@ A till roll or other record shall be maintained showing in respect of all bar st
 
 (2) For the purposes of this paragraph the total amount received each day from any till or point of supply shall be regarded as one receipt.
 
-### 13. Summary of payments[^key-9d749e1827077d6ea82038db8d6868bb]
+### 13. Summary of payments[^c-9d749e1827077d6ea82038db8d6868bb]
 
 At least once each week a record shall be prepared showing from day to day in respect of all monies paid by the club—
 
@@ -378,7 +378,7 @@ At least once each week a record shall be prepared showing from day to day in re
 - (c) the amount paid; and
 - (d) the unique identification number of the relevant voucher.
 
-### 14. Summary of creditors[^key-2656ee81919d515008e954af1c89ca22]
+### 14. Summary of creditors[^c-2656ee81919d515008e954af1c89ca22]
 
 A record shall be maintained showing from day to day in respect of all sums due by the club—
 
@@ -387,7 +387,7 @@ A record shall be maintained showing from day to day in respect of all sums due 
 - (c) the unique identification number of the relevant voucher; and
 - (d) the date on which payment was made.
 
-### 15. Summary of debtors[^key-5767e78fdbe85cd1a7b9ccb5fae3d8f1]
+### 15. Summary of debtors[^c-5767e78fdbe85cd1a7b9ccb5fae3d8f1]
 
 At least once each week a record shall be prepared showing from day to day in respect of all sums due to the club, other than sums due in respect of subscriptions—
 
@@ -396,7 +396,7 @@ At least once each week a record shall be prepared showing from day to day in re
 - (c) the unique identification number of the relevant voucher; and
 - (d) the date on which payment was received.
 
-### 16. Functions[^key-39b50e4fdd76ea846f110a247e2dacb8]
+### 16. Functions[^c-39b50e4fdd76ea846f110a247e2dacb8]
 
 (1) Any amount charged for entry to or attendance at any function shall be fixed in advance by the committee or a person approved by the committee in that behalf.
 
@@ -406,7 +406,7 @@ At least once each week a record shall be prepared showing from day to day in re
 - (b) the amount and nature of any expenditure wholly attributable to that function; and
 - (c) the amount of the surplus of receipts over expenditure or expenditure over receipts.
 
-### 17. Record of pay, etc[^key-48be109a3d54a5735acf0e2a915984d4]
+### 17. Record of pay, etc[^c-48be109a3d54a5735acf0e2a915984d4]
 
 Each week a record shall be prepared from day to day showing in respect of every payment to any person in respect of pay, fees, honoraria or emoluments—
 
@@ -419,13 +419,13 @@ Each week a record shall be prepared from day to day showing in respect of every
 - (g) the service for which payment was made; and
 - (h) the period of that service.
 
-### 18. Bar staff[^key-a7b2de1ff809efca945b32fc886e5b13]
+### 18. Bar staff[^c-a7b2de1ff809efca945b32fc886e5b13]
 
 (1) A record shall be kept, in addition to that required by paragraph 17, showing from day to day the names and addresses of all persons engaged, whether or not for payment, in the supply of intoxicating liquor.
 
 (2) A record kept in accordance with this paragraph shall show the period during which, and the bar or point of supply at which, each person was so engaged.
 
-### 19. Role of committee[^key-113e7d5336f73a5c5f027124b422703d]
+### 19. Role of committee[^c-113e7d5336f73a5c5f027124b422703d]
 
 (1) The committee shall—
 
@@ -436,13 +436,13 @@ Each week a record shall be prepared from day to day showing in respect of every
 
 (3) A person who acts in accordance with sub-paragraph (2) shall forthwith submit a report to the committee setting out the exceptional circumstances and the action taken.
 
-### 20. Prices[^key-268bded38d0f79e308db1f429c1ec3d3]
+### 20. Prices[^c-268bded38d0f79e308db1f429c1ec3d3]
 
 (1) The price of all goods or services supplied by the club shall be fixed in advance by the committee.
 
 (2) A notice specifying the price of all intoxicating liquor supplied by the club shall be displayed in every part of the premises in which intoxicating liquor is supplied in such manner that it can readily be read by members.
 
-### 21. Measures[^key-b81fe8c56c4d3544e7a04c8a20b8dfb1]
+### 21. Measures[^c-b81fe8c56c4d3544e7a04c8a20b8dfb1]
 
 (1) The committee shall fix the measures in which intoxicating liquor is supplied.
 
@@ -450,7 +450,7 @@ Each week a record shall be prepared from day to day showing in respect of every
 
 (3) A notice, specifying the measures so fixed, shall be displayed in every part of the premises in which intoxicating liquor is supplied in such manner that it can readily be read by members.
 
-### 22. Stock reports[^key-0cea712f76f53c12d71e28f4e060f05e]
+### 22. Stock reports[^c-0cea712f76f53c12d71e28f4e060f05e]
 
 (1) At least once each quarter a report shall be prepared in respect of bar stock supplied since the relevant date.
 
@@ -475,13 +475,13 @@ Each week a record shall be prepared from day to day showing in respect of every
 
 (6) In this paragraph “the relevant date” in relation to a report in respect of bar stock is the date of the last such report or where no such report has been prepared, the date of commencement of these Regulations.
 
-### 23. Bank reconciliation[^key-dc089e6e2ae0471425a41f360d06371e]
+### 23. Bank reconciliation[^c-dc089e6e2ae0471425a41f360d06371e]
 
 (1) At least once each month a report shall be prepared setting out in respect of each bank account held by the club a reconciliation of the cash and bank balances due to or by the club as shown on a statement or certificate of balance supplied by the bank with the balance as shown by the vouchers and records kept by the club.
 
 (2) The working papers shall be attached to any report prepared in accordance with sub-paragraph (1).
 
-### 24. Monthly reports[^key-8b705fd8d8c65ee56fe200cf4f1ae1e3]
+### 24. Monthly reports[^c-8b705fd8d8c65ee56fe200cf4f1ae1e3]
 
 Each month a report shall be prepared setting out for the period since the date of the last report or the commencement of these Regulations whichever is the later—
 
@@ -492,20 +492,20 @@ Each month a report shall be prepared setting out for the period since the date 
   - (iii) the due date of payment; and
   - (iv) the nature of the debt.
 
-### 25. Contents of reports, records and receipts[^key-83ed18d7c388cffd885130173d10fad3]
+### 25. Contents of reports, records and receipts[^c-83ed18d7c388cffd885130173d10fad3]
 
 Any report, summary, record or receipt required to be prepared in accordance with any provision of this Schedule shall, without prejudice to any other provision, bear—
 
 - (a) a unique identification number; and
 - (b) the name in capitals and address of the person who created it, and shall be dated and signed by that person.
 
-### 26. System failures[^key-91a60886af1f5f260262da5c4c9fd42a]
+### 26. System failures[^c-91a60886af1f5f260262da5c4c9fd42a]
 
 (1) Any failure in a system of control established and maintained by the club (“a system failure”) shall be investigated by a member of the committee assisted by such other persons as may be necessary.
 
 (2) Where a member of the committee conducts an investigation under sub-paragraph (1) he shall report his findings to the committee.
 
-### 27. Security of records[^key-ada89ebbcf95bb3fc6ea6813c2bea790]
+### 27. Security of records[^c-ada89ebbcf95bb3fc6ea6813c2bea790]
 
 (1) The committee shall take reasonable care to reduce the risk of loss of or damage to all records, reports or vouchers which the club is required to keep.
 
@@ -519,7 +519,7 @@ Regulation 4
 
 ### Section A — General Rules
 
-**1.**[^key-44eeb4c93e4f1ac7f1f532cdb73ea41e] (1) The annual statement of accounts shall include a statement of the accounting policies adopted in the preparation of the accounts; shall be comprised of a supplies account, an income and expenditure account and a balance sheet; and shall show the items listed in the format specified in Section B in the order and under the headings given in that format. Where items other than bar supplies are supplied a separate supplies account, in that format, shall be prepared in respect of each category of such supplies.
+**1.**[^c-44eeb4c93e4f1ac7f1f532cdb73ea41e] (1) The annual statement of accounts shall include a statement of the accounting policies adopted in the preparation of the accounts; shall be comprised of a supplies account, an income and expenditure account and a balance sheet; and shall show the items listed in the format specified in Section B in the order and under the headings given in that format. Where items other than bar supplies are supplied a separate supplies account, in that format, shall be prepared in respect of each category of such supplies.
 
 (2) The annual statement of accounts shall include a statement of the responsibilities of the officers and members of the committee for preparation of the accounts so as to give a true and fair view of the state of affairs of the club and of the income and expenditure of the club for the financial year. The description of these responsibilities shall include the requirement that the officers and members of the committee:
 
@@ -531,17 +531,17 @@ The description of the responsibilities of the officers and members of the commi
 
 (3) Any item required in accordance with this paragraph to be shown in the annual statement of accounts may be shown in greater detail than required by the format.
 
-**2.**[^key-f59a28775a380c67b7630fe32c169b5f] (1) In respect of every item shown in the annual statement of accounts the corresponding entry for the immediately preceding financial year of the club shall also be shown.
+**2.**[^c-f59a28775a380c67b7630fe32c169b5f] (1) In respect of every item shown in the annual statement of accounts the corresponding entry for the immediately preceding financial year of the club shall also be shown.
 
 (2) Where an amount in the corresponding entry mentioned in sub-paragraph (1) is not comparable with the amount to be shown for the item in question in respect of the financial year of the club in the annual statement of accounts for its current financial year, the former amount shall be shown as it was shown in the annual statement of accounts for its preceding financial year. The reason why the two amounts are not comparable shall be disclosed in a note to the annual statement of accounts and that note shall show an adjusted figure for the amount and the basis of the adjustment.
 
-**3.**[^key-d13c6be27c10a7f80d455598d3f28022] Entries in the statement of accounts for the current financial year in respect of items representing assets or income shall not be set off against amounts in respect of items representing liabilities or expenditure (as the case may be) or vice versa.
+**3.**[^c-d13c6be27c10a7f80d455598d3f28022] Entries in the statement of accounts for the current financial year in respect of items representing assets or income shall not be set off against amounts in respect of items representing liabilities or expenditure (as the case may be) or vice versa.
 
-**4.**[^key-17a872367b18713ab6c264f0861ad445] Entries in the statement of accounts in respect of any item shall, where the club is registered for Value Added Tax, be shown net of that tax but otherwise shall be shown gross.
+**4.**[^c-17a872367b18713ab6c264f0861ad445] Entries in the statement of accounts in respect of any item shall, where the club is registered for Value Added Tax, be shown net of that tax but otherwise shall be shown gross.
 
 ### Section B — Required Formats
 
-**5.**[^key-d415fd87448200f88f2ec52804dcae0c] (1) References in paragraph 1 to items listed in a format are references to those items read together with any notes following that format.
+**5.**[^c-d415fd87448200f88f2ec52804dcae0c] (1) References in paragraph 1 to items listed in a format are references to those items read together with any notes following that format.
 
 (2) A number in a bracket following any item in a format is a reference to the note of that number in the notes following that format.
 
@@ -911,98 +911,98 @@ These requirements relate to:
 
 [^f00001]: Footnote: S.I. [1996/3159 (N.I. 23)](https://www.legislation.gov.uk/nisi/1996/3159)
 
-[^key-907b72ea063ef0322e3067a3c645ad31]: Commencement: Reg. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-907b72ea063ef0322e3067a3c645ad31]: Commencement: Reg. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
 [^f00002]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
-[^key-3372e4d0ea2ef3369809acc391b700c3]: Commencement: Reg. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-3372e4d0ea2ef3369809acc391b700c3]: Commencement: Reg. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-b8c7a4efd64dc8f9a1d5d7d92154082b]: Commencement: Reg. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-b8c7a4efd64dc8f9a1d5d7d92154082b]: Commencement: Reg. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-bed2aacd64982139f9680c3aeaf43bb3]: Commencement: Reg. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-bed2aacd64982139f9680c3aeaf43bb3]: Commencement: Reg. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-5a4239fb7ecccf027954d820a93abeed]: Commencement: Reg. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-5a4239fb7ecccf027954d820a93abeed]: Commencement: Reg. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-1506e50f94013a1d7035d6752a21ae30]: Commencement: Reg. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-1506e50f94013a1d7035d6752a21ae30]: Commencement: Reg. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-70295afcb3fb3aaf0b61fb48229fc8a5]: Commencement: Reg. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-70295afcb3fb3aaf0b61fb48229fc8a5]: Commencement: Reg. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-60b1887362bf8c357b933916e2e0bcd4]: Commencement: Sch. 1 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-60b1887362bf8c357b933916e2e0bcd4]: Commencement: Sch. 1 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-24cebb2abd75cf1ba8cb915847d7c57f]: Commencement: Sch. 1 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-24cebb2abd75cf1ba8cb915847d7c57f]: Commencement: Sch. 1 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-38cb5c38ad261b0c7dcade561d0eea43]: Commencement: Sch. 1 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-38cb5c38ad261b0c7dcade561d0eea43]: Commencement: Sch. 1 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-324d6a6baffea8f784b5170d7069e7ae]: Commencement: Sch. 1 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-324d6a6baffea8f784b5170d7069e7ae]: Commencement: Sch. 1 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-623ed8cc7f460bc99b4d22eb04056bc2]: Commencement: Sch. 1 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-623ed8cc7f460bc99b4d22eb04056bc2]: Commencement: Sch. 1 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-a70259f3f1d88d6a26cf701719d34865]: Commencement: Sch. 1 para. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-a70259f3f1d88d6a26cf701719d34865]: Commencement: Sch. 1 para. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-fd4f8e178786fa93cb05a6296e28c106]: Commencement: Sch. 1 para. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-fd4f8e178786fa93cb05a6296e28c106]: Commencement: Sch. 1 para. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-8c0c45b1c5302fbe16f96f1640230953]: Commencement: Sch. 2 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-8c0c45b1c5302fbe16f96f1640230953]: Commencement: Sch. 2 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-4ed01fa1acc26f235e7b379b9f405425]: Commencement: Sch. 2 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-4ed01fa1acc26f235e7b379b9f405425]: Commencement: Sch. 2 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-b22df34dd3e9bb02bf6a09dc104d3c6e]: Commencement: Sch. 2 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-b22df34dd3e9bb02bf6a09dc104d3c6e]: Commencement: Sch. 2 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-a09ff84730803b46d077402189d92bcc]: Commencement: Sch. 2 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-a09ff84730803b46d077402189d92bcc]: Commencement: Sch. 2 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-531cce8513874083af912fe6adf5b07c]: Commencement: Sch. 2 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-531cce8513874083af912fe6adf5b07c]: Commencement: Sch. 2 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-952da307d8e6a55e30994341342bf3cc]: Commencement: Sch. 2 para. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-952da307d8e6a55e30994341342bf3cc]: Commencement: Sch. 2 para. 6 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-6a77db9bdd59f416102d04b0fbe07abe]: Commencement: Sch. 2 para. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-6a77db9bdd59f416102d04b0fbe07abe]: Commencement: Sch. 2 para. 7 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-b49981c13ff18189a49e1544faff990c]: Commencement: Sch. 2 para. 8 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-b49981c13ff18189a49e1544faff990c]: Commencement: Sch. 2 para. 8 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-36d25cb200d30a7c31afc6397a2f8b18]: Commencement: Sch. 2 para. 9 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-36d25cb200d30a7c31afc6397a2f8b18]: Commencement: Sch. 2 para. 9 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-a5acc03b6fb5cbc98e3b78b847c8ed46]: Commencement: Sch. 2 para. 10 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-a5acc03b6fb5cbc98e3b78b847c8ed46]: Commencement: Sch. 2 para. 10 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-f957e0a6a326f8efd127544f9bd2e296]: Commencement: Sch. 2 para. 11 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-f957e0a6a326f8efd127544f9bd2e296]: Commencement: Sch. 2 para. 11 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-71eb9c543bef79f01a6da0c44eccd72d]: Commencement: Sch. 2 para. 12 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-71eb9c543bef79f01a6da0c44eccd72d]: Commencement: Sch. 2 para. 12 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-9d749e1827077d6ea82038db8d6868bb]: Commencement: Sch. 2 para. 13 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-9d749e1827077d6ea82038db8d6868bb]: Commencement: Sch. 2 para. 13 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-2656ee81919d515008e954af1c89ca22]: Commencement: Sch. 2 para. 14 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-2656ee81919d515008e954af1c89ca22]: Commencement: Sch. 2 para. 14 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-5767e78fdbe85cd1a7b9ccb5fae3d8f1]: Commencement: Sch. 2 para. 15 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-5767e78fdbe85cd1a7b9ccb5fae3d8f1]: Commencement: Sch. 2 para. 15 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-39b50e4fdd76ea846f110a247e2dacb8]: Commencement: Sch. 2 para. 16 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-39b50e4fdd76ea846f110a247e2dacb8]: Commencement: Sch. 2 para. 16 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-48be109a3d54a5735acf0e2a915984d4]: Commencement: Sch. 2 para. 17 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-48be109a3d54a5735acf0e2a915984d4]: Commencement: Sch. 2 para. 17 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-a7b2de1ff809efca945b32fc886e5b13]: Commencement: Sch. 2 para. 18 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-a7b2de1ff809efca945b32fc886e5b13]: Commencement: Sch. 2 para. 18 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-113e7d5336f73a5c5f027124b422703d]: Commencement: Sch. 2 para. 19 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-113e7d5336f73a5c5f027124b422703d]: Commencement: Sch. 2 para. 19 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-268bded38d0f79e308db1f429c1ec3d3]: Commencement: Sch. 2 para. 20 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-268bded38d0f79e308db1f429c1ec3d3]: Commencement: Sch. 2 para. 20 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-b81fe8c56c4d3544e7a04c8a20b8dfb1]: Commencement: Sch. 2 para. 21 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-b81fe8c56c4d3544e7a04c8a20b8dfb1]: Commencement: Sch. 2 para. 21 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-0cea712f76f53c12d71e28f4e060f05e]: Commencement: Sch. 2 para. 22 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-0cea712f76f53c12d71e28f4e060f05e]: Commencement: Sch. 2 para. 22 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-dc089e6e2ae0471425a41f360d06371e]: Commencement: Sch. 2 para. 23 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-dc089e6e2ae0471425a41f360d06371e]: Commencement: Sch. 2 para. 23 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-8b705fd8d8c65ee56fe200cf4f1ae1e3]: Commencement: Sch. 2 para. 24 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-8b705fd8d8c65ee56fe200cf4f1ae1e3]: Commencement: Sch. 2 para. 24 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-83ed18d7c388cffd885130173d10fad3]: Commencement: Sch. 2 para. 25 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-83ed18d7c388cffd885130173d10fad3]: Commencement: Sch. 2 para. 25 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-91a60886af1f5f260262da5c4c9fd42a]: Commencement: Sch. 2 para. 26 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-91a60886af1f5f260262da5c4c9fd42a]: Commencement: Sch. 2 para. 26 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-ada89ebbcf95bb3fc6ea6813c2bea790]: Commencement: Sch. 2 para. 27 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-ada89ebbcf95bb3fc6ea6813c2bea790]: Commencement: Sch. 2 para. 27 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-44eeb4c93e4f1ac7f1f532cdb73ea41e]: Commencement: Sch. 3 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-44eeb4c93e4f1ac7f1f532cdb73ea41e]: Commencement: Sch. 3 para. 1 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-f59a28775a380c67b7630fe32c169b5f]: Commencement: Sch. 3 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-f59a28775a380c67b7630fe32c169b5f]: Commencement: Sch. 3 para. 2 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-d13c6be27c10a7f80d455598d3f28022]: Commencement: Sch. 3 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-d13c6be27c10a7f80d455598d3f28022]: Commencement: Sch. 3 para. 3 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-17a872367b18713ab6c264f0861ad445]: Commencement: Sch. 3 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-17a872367b18713ab6c264f0861ad445]: Commencement: Sch. 3 para. 4 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
 
-[^key-d415fd87448200f88f2ec52804dcae0c]: Commencement: Sch. 3 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)
+[^c-d415fd87448200f88f2ec52804dcae0c]: Commencement: Sch. 3 para. 5 in operation at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/333/regulation/1/1)

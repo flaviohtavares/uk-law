@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-22d65dd1ae2c0864ac3a9d1ee90d687d]
+## 2. Interpretation[^c-22d65dd1ae2c0864ac3a9d1ee90d687d]
 
 *Extent: E+W*
 
@@ -71,11 +71,11 @@ summary: ''
 - “**the outline surface water drainage strategy**” means the outline surface water drainage strategy in section 6.0 of the flood risk assessment;
 - “**owner**”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981 [^c23895781];
 - “**permitted preliminary works**” means, subject to article 7(2), all or any of—
-  - (a) [^key-b534497a6e4d508ce7b7e8adef5f7be8]environmental surveys, geotechnical surveys, intrusive archaeological surveys and other investigations for the purpose of assessing ground conditions, demolition of buildings and removal of plant and machinery;
-  - (b) [^key-b534497a6e4d508ce7b7e8adef5f7be8]above ground site preparation for temporary facilities for the use of contractors;
-  - (c) [^key-b534497a6e4d508ce7b7e8adef5f7be8]the provision of temporary means of enclosure and site security for construction;
-  - (e) [^key-b534497a6e4d508ce7b7e8adef5f7be8]the temporary display of site notices or advertisements; or
-  - (f) [^key-b534497a6e4d508ce7b7e8adef5f7be8]site clearance (including vegetation removal, demolition of existing buildings and structures);
+  - (a) [^c-b534497a6e4d508ce7b7e8adef5f7be8]environmental surveys, geotechnical surveys, intrusive archaeological surveys and other investigations for the purpose of assessing ground conditions, demolition of buildings and removal of plant and machinery;
+  - (b) [^c-b534497a6e4d508ce7b7e8adef5f7be8]above ground site preparation for temporary facilities for the use of contractors;
+  - (c) [^c-b534497a6e4d508ce7b7e8adef5f7be8]the provision of temporary means of enclosure and site security for construction;
+  - (e) [^c-b534497a6e4d508ce7b7e8adef5f7be8]the temporary display of site notices or advertisements; or
+  - (f) [^c-b534497a6e4d508ce7b7e8adef5f7be8]site clearance (including vegetation removal, demolition of existing buildings and structures);
 - “**Planning Acts**” means the Town and Country Planning Act 1947 [^c23895791], the Town and Country Planning Act 1962 [^c23895801], the Town and Country Planning Act 1971 [^c23895811], and the 1990 Act;
 - “**plot**” means the plots listed in the book of reference and shown on the land plans;
 - “**relevant planning authority**” means the district planning authority for the area in which the land to which the provisions of this Order apply is situated;
@@ -87,7 +87,7 @@ summary: ''
 - “**street authority**”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
 - “**street works**” means the works listed in article 9(1);
 - “**Upper Tribunal**” means the Lands Chamber of the Upper Tribunal;
-- “**undertaker**” means [^key-d6f6463965fcd4138cface56248ec38b]... the person who has the benefit of this Order in accordance with article 6;
+- “**undertaker**” means [^c-d6f6463965fcd4138cface56248ec38b]... the person who has the benefit of this Order in accordance with article 6;
 - “**watercourse**” includes every river, stream, creek, ditch, drain, canal, cut, culvert, dyke, sluice, sewer and passage through which water flows except a public sewer or drain;
 - “**the works plans**” means the plans of that name identified in the table in Schedule 14 and which are certified by the Secretary of State as the works plans for the purposes of this Order.
 
@@ -105,7 +105,7 @@ summary: ''
 
 ## Annotations
 
-[^key-22d65dd1ae2c0864ac3a9d1ee90d687d]: Commencement: Art. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-22d65dd1ae2c0864ac3a9d1ee90d687d]: Commencement: Art. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23895671]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -131,7 +131,7 @@ summary: ''
 
 [^c23895781]: Marginal citation: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-b534497a6e4d508ce7b7e8adef5f7be8]: Textual amendment: Words in art. 2 renumbered (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)
+[^c-b534497a6e4d508ce7b7e8adef5f7be8]: Textual amendment: Words in art. 2 renumbered (19.8.2020) by [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)
 
 [^c23895791]: Marginal citation: [1947 c.51](https://www.legislation.gov.uk/ukpga/1947/51). This Act was repealed by the [Planning (Consequential Provisions) Act 1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11).
 
@@ -141,4 +141,4 @@ summary: ''
 
 [^c23895821]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-d6f6463965fcd4138cface56248ec38b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1315/article/2) omitted (19.8.2020) by virtue of [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)
+[^c-d6f6463965fcd4138cface56248ec38b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1315/article/2) omitted (19.8.2020) by virtue of [The Drax Power (Generating Stations) (Correction) Order 2020 (S.I. 2020/879)](https://www.legislation.gov.uk/uksi/2020/879), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/879/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/879/schedule)

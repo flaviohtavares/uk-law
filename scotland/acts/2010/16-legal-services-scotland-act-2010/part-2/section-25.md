@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Compensation rules: general[^key-3902f2bc1aa9bc8f09a1386c74402dc6]
+## 25. Compensation rules: general[^c-3902f2bc1aa9bc8f09a1386c74402dc6]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3902f2bc1aa9bc8f09a1386c74402dc6]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/16/section/25) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-3902f2bc1aa9bc8f09a1386c74402dc6]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2010/16/section/25) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

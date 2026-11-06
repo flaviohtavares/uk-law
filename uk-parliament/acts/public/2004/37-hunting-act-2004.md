@@ -81,7 +81,7 @@ It is a defence for a person charged with an offence under section 1 in respect 
 
 A person guilty of an offence under this Act shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 7. Arrest[^key-76a3a26bc54fc4c1000189a885f82f15]
+### 7. Arrest[^c-76a3a26bc54fc4c1000189a885f82f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -410,4 +410,4 @@ Section 13
 
 ## Annotations
 
-[^key-76a3a26bc54fc4c1000189a885f82f15]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2004/37/section/7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/37), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-76a3a26bc54fc4c1000189a885f82f15]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2004/37/section/7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/37), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)

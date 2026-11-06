@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for maintaining the authorised development[^key-a8ac039e40bedb439df11a3cded89756]
+## 33. Temporary use of land for maintaining the authorised development[^c-a8ac039e40bedb439df11a3cded89756]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-a8ac039e40bedb439df11a3cded89756]: Commencement: Art. 33 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-a8ac039e40bedb439df11a3cded89756]: Commencement: Art. 33 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

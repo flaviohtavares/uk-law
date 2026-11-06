@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — Repeals[^key-39c224067ee528364820fd0c2fcd9e04][^key-229e6ef195380f9799c19d08f0cd0a2d][^key-c2fb7ca1e8dc6ab9a65fb620582aceb1][^key-b57618a879d1c9f4f0b08490ddd92b33]
+## SCHEDULE 7 — Repeals[^c-39c224067ee528364820fd0c2fcd9e04][^c-229e6ef195380f9799c19d08f0cd0a2d][^c-c2fb7ca1e8dc6ab9a65fb620582aceb1][^c-b57618a879d1c9f4f0b08490ddd92b33]
 
 *Extent: S*
 
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-39c224067ee528364820fd0c2fcd9e04]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.6.2006 for specified purposes by [S.S.I. 2006/286](https://www.legislation.gov.uk/ssi/2006/286), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/286/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2006/286/article/3)) (as amended (1.5.2007) by S.S.I. 2007/128, art. 6)
+[^c-39c224067ee528364820fd0c2fcd9e04]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.6.2006 for specified purposes by [S.S.I. 2006/286](https://www.legislation.gov.uk/ssi/2006/286), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/286/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2006/286/article/3)) (as amended (1.5.2007) by S.S.I. 2007/128, art. 6)
 
-[^key-229e6ef195380f9799c19d08f0cd0a2d]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.5.2007 for specified purposes by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-229e6ef195380f9799c19d08f0cd0a2d]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.5.2007 for specified purposes by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
 
-[^key-c2fb7ca1e8dc6ab9a65fb620582aceb1]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.2.2008 for specified purposes by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1), [2](https://www.legislation.gov.uk/ssi/2007/472/schedule/2)
+[^c-c2fb7ca1e8dc6ab9a65fb620582aceb1]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.2.2008 for specified purposes by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1), [2](https://www.legislation.gov.uk/ssi/2007/472/schedule/2)
 
-[^key-b57618a879d1c9f4f0b08490ddd92b33]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.9.2009 at 5.00 a.m. in so far as not already in force by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-b57618a879d1c9f4f0b08490ddd92b33]: Commencement: [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) in force at 1.9.2009 at 5.00 a.m. in so far as not already in force by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-24ff08f2bcd4416ac55be70ff0e98679]
+## 7. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-24ff08f2bcd4416ac55be70ff0e98679]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ff08f2bcd4416ac55be70ff0e98679]: Commencement: Reg. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-24ff08f2bcd4416ac55be70ff0e98679]: Commencement: Reg. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

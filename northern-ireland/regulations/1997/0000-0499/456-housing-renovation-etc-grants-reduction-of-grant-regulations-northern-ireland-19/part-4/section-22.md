@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Determination of weekly income[^key-bef86bbe2050ce37283a872178067501]
+## 22. Determination of weekly income[^c-bef86bbe2050ce37283a872178067501]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bef86bbe2050ce37283a872178067501]: Commencement: Reg. 22 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-bef86bbe2050ce37283a872178067501]: Commencement: Reg. 22 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**21.**[^key-6799abc9ad89f3fbf11e52b9f17d21a6] In section 6 (director of social services)—
+**21.**[^c-6799abc9ad89f3fbf11e52b9f17d21a6] In section 6 (director of social services)—
 
 - (a) in subsection (A1)[^f00016] omit “in England”;
 - (b) omit subsection (1);
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6799abc9ad89f3fbf11e52b9f17d21a6]: Commencement: Reg. 21 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-6799abc9ad89f3fbf11e52b9f17d21a6]: Commencement: Reg. 21 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00016]: Footnote: Subsection (A1) was inserted by the Children Act 2004, section 18(9), (10), Schedule 2, paragraph 2(1), (2)(a).
 

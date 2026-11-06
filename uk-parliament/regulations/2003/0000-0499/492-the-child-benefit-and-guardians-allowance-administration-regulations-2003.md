@@ -47,7 +47,7 @@ The Commissioners of Inland Revenue, in exercise of the powers conferred upon th
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and effect[^key-2fa1a2deeedb31064c9dabf2f6c3691b]
+### 1. Citation, commencement and effect[^c-2fa1a2deeedb31064c9dabf2f6c3691b]
 
 (1) These Regulations may be cited as the Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 and shall come into force on 7th April 2003 immediately after the commencement of section 50 of the Tax Credits Act 2002[^f00001] for the purposes of entitlement to payment of child benefit and guardian’s allowance.
 
@@ -56,44 +56,44 @@ The Commissioners of Inland Revenue, in exercise of the powers conferred upon th
 - (a) child benefit and guardian’s allowance under the Contributions and Benefits Act; and
 - (b) child benefit and guardian’s allowance under the Contributions and Benefits (NI) Act.
 
-### 2. Interpretation[^key-2958ee0bd91c5d00e2e545e29ccb85da]
+### 2. Interpretation[^c-2958ee0bd91c5d00e2e545e29ccb85da]
 
 In these Regulations—
 
 - “the adjudicating authority” means—
   - (a) the Board;
-  - (b) an appeal tribunal constituted under [^key-226730ccf210e0e3cc06a1e6832ab81e]... Chapter 1 of Part 2 of the Social Security (Northern Ireland) Order 1998[^f00003]; or
-  - (c) a Commissioner [^key-5d10ed74014e18b9cb3b73459f521e95]... to whom an appeal lies under Article 15 of that Order[^f00005];
-  - (d) the First-tier Tribunal or the Upper Tribunal;[^key-47d32e29faa9c53759b08e5e46dce806]
+  - (b) an appeal tribunal constituted under [^c-226730ccf210e0e3cc06a1e6832ab81e]... Chapter 1 of Part 2 of the Social Security (Northern Ireland) Order 1998[^f00003]; or
+  - (c) a Commissioner [^c-5d10ed74014e18b9cb3b73459f521e95]... to whom an appeal lies under Article 15 of that Order[^f00005];
+  - (d) the First-tier Tribunal or the Upper Tribunal;[^c-47d32e29faa9c53759b08e5e46dce806]
 - “the Administration Act” means the Social Security Administration Act 1992[^f00006];
 - “the Administration (NI) Act” means the Social Security Administration (Northern Ireland) Act 1992[^f00007];
-- “appropriate office” means—[^key-7ac0dfb8efbec615da9aad878fb3ac9b]
+- “appropriate office” means—[^c-7ac0dfb8efbec615da9aad878fb3ac9b]
   - (a) Waterview Park, Washington, Tyne and Wear; or
   - (b) any other office specified in writing by the Board.
 - “the approved form” has the meaning given by regulation 5(1)(a);
-- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^key-b594415924eac8553bc27ebf7ee7c56a];
--  “civil partnership” means two people[^key-674d6ecd52fe9f0bd92cd72a127549ac] [^key-122e03f32422567d569abc9e4d95c2a2]... who are civil partners of each other and are neither—
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^c-b594415924eac8553bc27ebf7ee7c56a];
+-  “civil partnership” means two people[^c-674d6ecd52fe9f0bd92cd72a127549ac] [^c-122e03f32422567d569abc9e4d95c2a2]... who are civil partners of each other and are neither—
   - (a) separated under a court order, nor
   - (b) separated in circumstances in which the separation is likely to be permanent;
-- “cohabiting couple” means two people who are not a married couple or in a civil partnership but are living together as if they were married or civil partners;[^key-404bb03bcffabedc76fd4b420b4b629b]
+- “cohabiting couple” means two people who are not a married couple or in a civil partnership but are living together as if they were married or civil partners;[^c-404bb03bcffabedc76fd4b420b4b629b]
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992[^f00008];
 - “the Contributions and Benefits (NI) Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00009];
 - “interim payment” has the meaning given by regulation 22(1);
 - “married couple” means a man and a woman who are married to each other and are neither—
   - (a) separated under a court order, nor
   - (b) separated in circumstances in which the separation is likely to be permanent;
--  “partner” means a member of a married couple,[^key-02eb711dd693d4e5f7568e13dadb1668] a civil partnership or a cohabiting couple[^key-2d7ea1691e378f08267faebd3a5bb1cf];
+-  “partner” means a member of a married couple,[^c-02eb711dd693d4e5f7568e13dadb1668] a civil partnership or a cohabiting couple[^c-2d7ea1691e378f08267faebd3a5bb1cf];
 - “relevant authority” means—
   - (a) in relation to child benefit or guardian’s allowance under the Contributions and Benefits Act, the Secretary of State or a person providing services to the Secretary of State;
   - (b) in relation to child benefit or guardian’s allowance under the Contributions and Benefits (NI) Act, the Department for Social Development in Northern Ireland or a person providing services to that Department;
-- [^key-e443e087dfa281f68c584f410ed20604]...
+- [^c-e443e087dfa281f68c584f410ed20604]...
 - “writing” includes writing produced by electronic communications used in accordance with Schedule 2.
 
-### 3. Use of electronic communications[^key-5fda02507c9e1b7da88c95600a404741]
+### 3. Use of electronic communications[^c-5fda02507c9e1b7da88c95600a404741]
 
 Schedule 2 (the use of electronic communications) has effect.
 
-### 4. Notification for purposes of sections 111A and 112 of the Administration Act and sections 105A and 106 of the Administration (NI) Act[^key-bd5546e22d28310c7b85a31c5ca7be29]
+### 4. Notification for purposes of sections 111A and 112 of the Administration Act and sections 105A and 106 of the Administration (NI) Act[^c-bd5546e22d28310c7b85a31c5ca7be29]
 
 (1) This regulation prescribes the person to whom, and manner in which, a change of circumstances must be notified for the purposes of sections 111A(1A) to (1G) and 112(1A) to (1F) of the Administration Act[^f00010] and sections 105A(1A) to (1G) and 106(1A) to (1F) of the Administration (NI) Act (offences relating to failure to notify a change of circumstances)[^f00011].
 
@@ -101,9 +101,9 @@ Schedule 2 (the use of electronic communications) has effect.
 
 ## PART 2 — CLAIMS AND AWARDS
 
-### 5. Making a claim[^key-6e33e7df25718065c18ac2087e2c39ac]
+### 5. Making a claim[^c-6e33e7df25718065c18ac2087e2c39ac]
 
-(1)[^key-2d768097ff50b87e4418b333bafef59e] A claim, or an extension of a claim, for child benefit or guardian’s allowance must be made—
+(1)[^c-2d768097ff50b87e4418b333bafef59e] A claim, or an extension of a claim, for child benefit or guardian’s allowance must be made—
 
 - (a) to the Board, in writing and completed on a form approved or authorised by the Board for the purpose of the claim; or
 - (b) in such other manner as the Board may decide having regard to all the circumstances.
@@ -112,36 +112,36 @@ Schedule 2 (the use of electronic communications) has effect.
 
 (3) Subject to regulation 10, the claim is made on the date on which it is received by the appropriate office.
 
-### 6. Time within which claims to be made[^key-c77bfa32558d7160f6bfca5a6eefe6a7]
+### 6. Time within which claims to be made[^c-c77bfa32558d7160f6bfca5a6eefe6a7]
 
-(1)[^key-4717261467b24ac136b0f475058ff8a0] The time within which a claim for child benefit or guardian’s allowance is to be made is 3 months beginning with any day on which, apart from satisfying the conditions for making the claim, the person making the claim is entitled to the benefit or allowance.
+(1)[^c-4717261467b24ac136b0f475058ff8a0] The time within which a claim for child benefit or guardian’s allowance is to be made is 3 months beginning with any day on which, apart from satisfying the conditions for making the claim, the person making the claim is entitled to the benefit or allowance.
 
-(2)[^key-df81df869d314d7c1e5bbf7f3edfe60f] Paragraph (1) shall not apply where—
+(2)[^c-df81df869d314d7c1e5bbf7f3edfe60f] Paragraph (1) shall not apply where—
 
 - (a) a person has been awarded child benefit or guardian’s allowance while he was present and residing in Great Britain, or Northern Ireland;
 - (b) at a time when payment of the award has not been suspended or terminated (under regulations 18 to 20 of the Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003 or otherwise), he takes up residence in Northern Ireland, or Great Britain as the case may be (“the new country of residence”); and
 - (c) a new claim for that benefit or allowance is made in the new country of residence, for a period commencing on the later of—
   - (i) the date of the change of residence referred to in sub-paragraph (b), or
   - (ii) the date on which, apart from satisfying the conditions for making the claim, the person became entitled to the benefit or allowance under the legislation of the new country of residence.
-- (d)[^key-8b7c6aa6122611296d152d687ad01240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-3d1673804d4293fe1963f34811c517c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8b7c6aa6122611296d152d687ad01240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-3d1673804d4293fe1963f34811c517c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4844d373f69bbb66821ca6eeee130f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4844d373f69bbb66821ca6eeee130f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3c252db725d61276c08a8f522a311e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3c252db725d61276c08a8f522a311e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Evidence and information[^key-efd775cecced07afa6cc588f0dcee0c5]
+### 7. Evidence and information[^c-efd775cecced07afa6cc588f0dcee0c5]
 
-(1)[^key-7be2032d701fd5df21b8150d9ffa4e22] The Board may require the person making the claim for child benefit or guardian’s allowance to supply such information or evidence in connection with the claim, or any questions arising out of it, as the Board considers reasonable.
+(1)[^c-7be2032d701fd5df21b8150d9ffa4e22] The Board may require the person making the claim for child benefit or guardian’s allowance to supply such information or evidence in connection with the claim, or any questions arising out of it, as the Board considers reasonable.
 
-(2) A person required under paragraph (1) to furnish [^key-94e5fdeb742c33565709c86821cf09e1]... information and evidence must do so—
+(2) A person required under paragraph (1) to furnish [^c-94e5fdeb742c33565709c86821cf09e1]... information and evidence must do so—
 
 - (a) within one month of being required by the Board to do so; or
 - (b) within such longer period as the Board may consider reasonable.
 
-(3)[^key-b8c9b4af3df5c46a942fcaee95229c99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b8c9b4af3df5c46a942fcaee95229c99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amending claims[^key-f4f636e4fc797b226af6992ab4fd99a3]
+### 8. Amending claims[^c-f4f636e4fc797b226af6992ab4fd99a3]
 
 (1) A person who has made a claim for child benefit or guardian’s allowance may amend it by giving to the Board or a relevant authority notice in writing in accordance with paragraph (2).
 
@@ -149,17 +149,17 @@ Schedule 2 (the use of electronic communications) has effect.
 
 (3) The Board may treat a claim amended in accordance with this regulation as if it had been so amended when first made.
 
-### 9. Withdrawing claims[^key-0ce1766dedcadf4e484353d0fe30e79e]
+### 9. Withdrawing claims[^c-0ce1766dedcadf4e484353d0fe30e79e]
 
-(1)[^key-0389fa878568b8bc78919f3a26b19641] A person who has made a claim for child benefit or guardian’s allowance may withdraw it by giving notice—
+(1)[^c-0389fa878568b8bc78919f3a26b19641] A person who has made a claim for child benefit or guardian’s allowance may withdraw it by giving notice—
 
 - (a) in writing to the Board,
 - (b) by telephone to the Board, or
 - (c) in such other manner as the Board may accept as sufficient in the circumstances of the particular case.
 
-(2) A notice of withdrawal given in accordance with paragraph (1)(a)[^key-021f70b069f05cebee97967920a07b0a] has effect when it is received by an appropriate office.
+(2) A notice of withdrawal given in accordance with paragraph (1)(a)[^c-021f70b069f05cebee97967920a07b0a] has effect when it is received by an appropriate office.
 
-### 10. Defective applications[^key-96f101bf47886ce9e491218fa2c6c56f]
+### 10. Defective applications[^c-96f101bf47886ce9e491218fa2c6c56f]
 
 (1) If an appropriate office receives a defective application, the Board or the relevant authority may refer it back to the person making it or supply him with the approved form for completion.
 
@@ -177,13 +177,13 @@ Schedule 2 (the use of electronic communications) has effect.
 - (a) is made on an approved form which has not been completed in accordance with the instructions on it; or
 - (b) is in writing but is not made on the approved form.
 
-### 11. Claims for child benefit treated as claims for guardian’s allowance and vice versa[^key-08682ab46af35e9c43e87309d3635051]
+### 11. Claims for child benefit treated as claims for guardian’s allowance and vice versa[^c-08682ab46af35e9c43e87309d3635051]
 
-(1) Where it appears to the Board that a person who has made a claim for child benefit in respect of a child or qualifying young person[^key-7477c813f212499dbca2117c7b9c0b11] may be entitled to guardian’s allowance in respect of the same child or qualifying young person[^key-da183e059eeb7a1266bbd0f62eb043f8], the Board may treat, either in the alternative or in addition, the claim as being a claim for guardian’s allowance by that person.
+(1) Where it appears to the Board that a person who has made a claim for child benefit in respect of a child or qualifying young person[^c-7477c813f212499dbca2117c7b9c0b11] may be entitled to guardian’s allowance in respect of the same child or qualifying young person[^c-da183e059eeb7a1266bbd0f62eb043f8], the Board may treat, either in the alternative or in addition, the claim as being a claim for guardian’s allowance by that person.
 
 (2) Where it appears to the Board that a person who has made a claim for guardian’s allowance in respect of a child or qualifying young person may be entitled to child benefit in respect of the same child or qualifying young person, the Board may treat, either in the alternative or in addition, the claim as being a claim for child benefit by that person.
 
-### 12. Advance claims and awards[^key-3ce18f4020356509636c841bd38547f8]
+### 12. Advance claims and awards[^c-3ce18f4020356509636c841bd38547f8]
 
 (1) This regulation applies where a person who has made a claim for child benefit or guardian’s allowance does not satisfy the requirements for entitlement on the date on which the claim is made.
 
@@ -197,17 +197,17 @@ Schedule 2 (the use of electronic communications) has effect.
 - (a) in relation to child benefit and guardian’s allowance under the Contributions and Benefits Act, section 9 of the Social Security Act 1998[^f00012];
 - (b) in relation to child benefit and guardian’s allowance under the Contributions and Benefits (NI) Act, Article 10 the Social Security (Northern Ireland) Order 1998[^f00013].
 
-### 13. Date of entitlement under an award for the purposes of payability[^key-04e25789f63af2687796dafaea54d287]
+### 13. Date of entitlement under an award for the purposes of payability[^c-04e25789f63af2687796dafaea54d287]
 
 (1) This regulation applies where child benefit or guardian’s allowance is awarded for a period of a week or weeks and the earliest date on which entitlement would commence is not a Monday.
 
 (2) For the purposes of determining the day from which the benefit or allowance is to become payable, entitlement shall be treated as beginning on the Monday next following the earliest date referred to in paragraph (1).
 
-### 14. Effective date of change of rate[^key-c4082f5ec564e396d7eb0f060a0f20b2]
+### 14. Effective date of change of rate[^c-c4082f5ec564e396d7eb0f060a0f20b2]
 
 Where a change in the rate of child benefit or guardian’s allowance would take effect, but for this regulation, on a day which would not be the appropriate pay day for the benefit or allowance, the change shall take effect from the appropriate pay day next following.
 
-### 15. Duration of claims and awards[^key-957ba4ab655eb24e7178863696cf7dec]
+### 15. Duration of claims and awards[^c-957ba4ab655eb24e7178863696cf7dec]
 
 (1) Subject to paragraphs (2) and (3), a claim for child benefit or guardian’s allowance shall be treated as made for an indefinite period and any award shall be made for an indefinite period.
 
@@ -217,11 +217,11 @@ Where a change in the rate of child benefit or guardian’s allowance would take
 
 ## PART 3 — PAYMENTS
 
-### 16. Payment by direct credit transfer[^key-3b2f61617233e7ec2445566038bf9734][^key-620f1adaf53f937bdccfa056891457be]
+### 16. Payment by direct credit transfer[^c-3b2f61617233e7ec2445566038bf9734][^c-620f1adaf53f937bdccfa056891457be]
 
 (1) Child benefit or guardian’s allowance shall be paid in accordance with paragraphs (2) to (6) unless paid in accordance with regulation 17.
 
-(2) Payment of child benefit or guardian’s allowance [^key-7c6861491e4e45059d8c156aeadf70b0]... shall be made by direct credit transfer into a bank or other account that the person entitled to the benefit or allowance has[^key-d5027bfcb9b49a4b6c8ec2ca60252d6b] notified to the Board for the purpose of payment of—
+(2) Payment of child benefit or guardian’s allowance [^c-7c6861491e4e45059d8c156aeadf70b0]... shall be made by direct credit transfer into a bank or other account that the person entitled to the benefit or allowance has[^c-d5027bfcb9b49a4b6c8ec2ca60252d6b] notified to the Board for the purpose of payment of—
 
 - (a) a benefit described in section 5(2) of the Social Security Administration Act 1992;
 - (b) a benefit described in section 5(2) of the Social Security Administration (Northern Ireland Act) 1992; or
@@ -231,7 +231,7 @@ to which that person is entitled.
 
 (3) If a person entitled to child benefit is also entitled to guardian’s allowance, the allowance shall be paid into the same bank or other account as that into which the child benefit is paid under this regulation.
 
-(4)[^key-35ac1bde3934c730733816e4b89165e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-35ac1bde3934c730733816e4b89165e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to paragraph (6), the benefit or allowance shall be paid within seven days of the last day of each successive period of entitlement.
 
@@ -240,7 +240,7 @@ to which that person is entitled.
 - (a) paying any arrears of benefit or allowance, or
 - (b) making a payment in respect of a terminal period of an award for any similar purpose.
 
-### 17. Payment by other means[^key-26669bfb919d5d55abd1bc7f48d35410][^key-1d604e7079b17e2a583b9f6c220821a5]
+### 17. Payment by other means[^c-26669bfb919d5d55abd1bc7f48d35410][^c-1d604e7079b17e2a583b9f6c220821a5]
 
 (1) Child benefit or guardian’s allowance may be paid by a means other than by direct credit transfer where it appears to the Board to be appropriate to do so in the circumstances of a particular case.
 
@@ -253,7 +253,7 @@ to which that person is entitled.
   - (i) is required to do so by the Board; or
   - (ii) ceases to be entitled to any part of the benefit or allowance to which the instrument relates.
 
-### 18. Time of payment[^key-ff5a3328e286cd2f63c1edbeb0cb8d0e]
+### 18. Time of payment[^c-ff5a3328e286cd2f63c1edbeb0cb8d0e]
 
 (1) Subject to paragraphs (2) to (4), child benefit and guardian’s allowance shall be paid in accordance with an award as soon as reasonably practicable after the award has been made.
 
@@ -268,19 +268,19 @@ to which that person is entitled.
 
 (5) The Board must take steps to notify persons to whom child benefit or guardian’s allowance is payable of the arrangements they have made for payment in so far as those arrangements affect those persons.
 
-### 19. Persons who may elect to have child benefit paid weekly[^key-9aa878a4e2bcc2914a6c898fd91dc555]
+### 19. Persons who may elect to have child benefit paid weekly[^c-9aa878a4e2bcc2914a6c898fd91dc555]
 
 (1) A person may make an election under this regulation to have child benefit paid weekly if—
 
 - (a) he is a lone parent; or
 - (b) he or his partner is receiving—
-  - (i) income support; [^key-486f4600f2f53e7263932d4cce499f00]...
-  - (ii) an income-based allowance payable under Part 1 of the Jobseekers Act 1995[^f00014] or Part 2 of the Jobseekers (Northern Ireland) Order 1995[^f00015];[^key-42f48b902efc09506557886363e8458d]
-  - (iii) an income-related employment and support allowance within the meaning in Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007; [^key-c628904ff16f24899d6a2bd290f82e0c]...
-  - (iv) a state pension credit within the meaning in the State Pension Credit Act 2002 or the State Pension Credit Act (Northern Ireland) 2002; or[^key-868755d57c3616b49aa5eecddc7d2b95]
-  - (v) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015. *(Extent: N.I.)*[^key-44233f6ca831469ad1dd431517dd436f]
+  - (i) income support; [^c-486f4600f2f53e7263932d4cce499f00]...
+  - (ii) an income-based allowance payable under Part 1 of the Jobseekers Act 1995[^f00014] or Part 2 of the Jobseekers (Northern Ireland) Order 1995[^f00015];[^c-42f48b902efc09506557886363e8458d]
+  - (iii) an income-related employment and support allowance within the meaning in Part 1 of the Welfare Reform Act 2007 or Part 1 of the Welfare Reform Act (Northern Ireland) 2007; [^c-c628904ff16f24899d6a2bd290f82e0c]...
+  - (iv) a state pension credit within the meaning in the State Pension Credit Act 2002 or the State Pension Credit Act (Northern Ireland) 2002; or[^c-868755d57c3616b49aa5eecddc7d2b95]
+  - (v) universal credit under Part 1 of the Welfare Reform Act 2012 or Part 2 of the Welfare Reform (Northern Ireland) Order 2015. *(Extent: N.I.)*[^c-44233f6ca831469ad1dd431517dd436f]
 
-(2) “Lone parent” means a person who has no partner and is entitled to child benefit in respect of a child or qualifying young person[^key-42afff06d509a53a8a13215be2dda8f2] for whom he is responsible.
+(2) “Lone parent” means a person who has no partner and is entitled to child benefit in respect of a child or qualifying young person[^c-42afff06d509a53a8a13215be2dda8f2] for whom he is responsible.
 
 (3) A person making an election under this regulation—
 
@@ -289,7 +289,7 @@ to which that person is entitled.
 
 (4) A notification under paragraph (3)(b) must be delivered or sent to an appropriate office as regards the Board.
 
-### 20. Elections for weekly payment by persons to whom child benefit was payable for a period beginning before and ending after 15th March 1982[^key-5e087a1fd67b7152ece029196534438c]
+### 20. Elections for weekly payment by persons to whom child benefit was payable for a period beginning before and ending after 15th March 1982[^c-5e087a1fd67b7152ece029196534438c]
 
 (1) This regulation applies to a person to whom child benefit is payable for an uninterrupted period beginning before and ending after 15th March 1982.
 
@@ -307,7 +307,7 @@ to which that person is entitled.
 
 (4) “Serving member of the forces” means a person, other than one mentioned in Part 2 of Schedule 6 to the Social Security (Contributions) Regulations 2001[^f00016], who, being over the age of 16 years, is a member of any establishment or organisation specified in Part 1 of that Schedule (being a member who gives full pay service) but does not include any such person while absent on desertion.
 
-### 21. Manner of making elections under regulations 19 and 20[^key-5f4b4f82c1b7b4b440be70db63f9e05a]
+### 21. Manner of making elections under regulations 19 and 20[^c-5f4b4f82c1b7b4b440be70db63f9e05a]
 
 (1) This regulation applies to elections under regulations 19 and 20.
 
@@ -327,9 +327,9 @@ to which that person is entitled.
 
 (6) The Board must give effect to a notice given in accordance with paragraph (5) as soon as reasonably practicable after receiving it.
 
-### 22. Interim payments[^key-603ea67debf303b1b2d89966fa199f0b]
+### 22. Interim payments[^c-603ea67debf303b1b2d89966fa199f0b]
 
-(1)[^key-07be8de82b9dd852d3b5732b66378998] If the condition in any sub-paragraph of paragraph (1A) is satisfied, the Board may make a payment on account (“an interim payment”) of any child benefit or guardian’s allowance to which it appears to them that a person—
+(1)[^c-07be8de82b9dd852d3b5732b66378998] If the condition in any sub-paragraph of paragraph (1A) is satisfied, the Board may make a payment on account (“an interim payment”) of any child benefit or guardian’s allowance to which it appears to them that a person—
 
 - (a) is or may be entitled,
 - (b) where sub-paragraph (a) of paragraph (1A) applies, would or might be entitled, were a claim made,
@@ -342,16 +342,16 @@ to which that person is entitled.
 - (c) a claim for the benefit or allowance has been so made but it is impracticable for it, or an application or appeal relating to it, to be determined immediately;
 - (d) an award of the benefit or allowance has been made but it is impracticable for the person entitled to it to be paid immediately other than by means of an interim payment.
 
-(2) Paragraph (1) does not apply pending the determination of an appeal [^key-9b29624952b1c1d6a3b3ac5bb283ea8d]....
+(2) Paragraph (1) does not apply pending the determination of an appeal [^c-9b29624952b1c1d6a3b3ac5bb283ea8d]....
 
 (3) On or before the making of an interim payment, the Board must give the person to whom payment is to be made notice in writing of his liability under regulations 41 and 42 to have it brought into account and to repay any overpayment.
 
-(4)[^key-86c17eeb0e1333793004ad895d4076ba] In this regulation “the national insurance number condition” means the condition imposed—
+(4)[^c-86c17eeb0e1333793004ad895d4076ba] In this regulation “the national insurance number condition” means the condition imposed—
 
 - (a) in Great Britain, by section 13(1A) and (1B), of the Administration Act (requirement for claim to be accompanied by details of national insurance number);
 - (b) in Northern Ireland, by section 11(1A) and (1B) of the Administration (NI) Act.
 
-### 23. Information to be given and changes to be notified[^key-3ba98b917b7c6b91086f9b519c28772f]
+### 23. Information to be given and changes to be notified[^c-3ba98b917b7c6b91086f9b519c28772f]
 
 (1) This regulation applies to any person entitled to child benefit or guardian’s allowance and any person by whom, or on whose behalf, payments of such benefit or allowance are receivable.
 
@@ -362,7 +362,7 @@ to which that person is entitled.
 
 (3) A person to whom this regulation applies must furnish in such manner and at such times as the Board may determine such information and evidence as the Board may require in connection with the payment of the benefit or allowance.
 
-(3A)[^key-fea8eaaea30dfb30fc4abe386dcb68a9] Where a person is in receipt of a benefit or allowance by means other than a direct credit transfer, in accordance with regulation 17, that person must, if required, within such time as the Board may determine, provide details of a bank or other account to which payment can be made.
+(3A)[^c-fea8eaaea30dfb30fc4abe386dcb68a9] Where a person is in receipt of a benefit or allowance by means other than a direct credit transfer, in accordance with regulation 17, that person must, if required, within such time as the Board may determine, provide details of a bank or other account to which payment can be made.
 
 (4) A person to whom this regulation applies must notify the Board or a relevant authority of any change of circumstances which he might reasonably be expected to know might affect—
 
@@ -376,51 +376,51 @@ as soon as reasonably practicable after the change occurs.
 - (a) must be given by notice in writing or orally; and
 - (b) must be sent, delivered or given to the appropriate office.
 
-### 24. Fractional amounts of benefit or allowance[^key-9377a7212aea05b4b33c604ff521408e]
+### 24. Fractional amounts of benefit or allowance[^c-9377a7212aea05b4b33c604ff521408e]
 
 Where the amount of any child benefit or guardian’s allowance payable includes a fraction of a penny, that fraction—
 
 - (a) if it is less than a half, shall be disregarded;
 - (b) if it is a half or more, shall be treated as a whole penny.
 
-### 25. Payments to persons under the age of 18 years[^key-52595b824fbb5922db4a34ecaa0cc6ae]
+### 25. Payments to persons under the age of 18 years[^c-52595b824fbb5922db4a34ecaa0cc6ae]
 
 Where a sum of child benefit or guardian’s allowance is paid to a person under the age of 18 years (whether on his own behalf or on behalf of another), either of the following is a sufficient discharge to the Board for the sum paid—
 
-- (a) a direct credit transfer under regulation 16[^key-1505915341f9956313325cf36eadb1e2] into the person’s account;
+- (a) a direct credit transfer under regulation 16[^c-1505915341f9956313325cf36eadb1e2] into the person’s account;
 - (b) the receipt by the person of a payment made by some other means.
 
-### 26. Extinguishment of right to payment if payment is not obtained within the prescribed period[^key-dae32a662f81ed7fb2ab0abcca79651f]
+### 26. Extinguishment of right to payment if payment is not obtained within the prescribed period[^c-dae32a662f81ed7fb2ab0abcca79651f]
 
-(1)[^key-39114f88d36ab846adedfea57be4171c] A person’s right to payment of any sum of child benefit or guardian’s allowance shall be extinguished if payment of that sum has not been obtained within 12 months of the issue by the Board of a cheque or other instrument of payment to that person.
+(1)[^c-39114f88d36ab846adedfea57be4171c] A person’s right to payment of any sum of child benefit or guardian’s allowance shall be extinguished if payment of that sum has not been obtained within 12 months of the issue by the Board of a cheque or other instrument of payment to that person.
 
-(2)[^key-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7a0c5252bb20e2d01e7d502606315b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This regulation has effect in relation to a person authorised or appointed to act on behalf of a person entitled to child benefit or guardian’s allowance in the same manner as it has effect in relation to such a person.
 
 ## PART 4 — THIRD PARTIES
 
-### 27. Persons who may act on behalf of those unable to act[^key-98fe9d1282d10c640bef608ddaf20e56]
+### 27. Persons who may act on behalf of those unable to act[^c-98fe9d1282d10c640bef608ddaf20e56]
 
 (1) Anything required by these regulations to be done by or to any person who is for the time being unable to act may be done by or to—
 
 - (a) in England and Wales, a receiver appointed by the Court of Protection with power to claim, or, as the case may be, receive, the benefit or allowance on behalf of the person;
-- (b) in Scotland, a guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000[^key-4ca0f6c9420726b0a99a9a8143e11229] who is administering the estate of the person;
+- (b) in Scotland, a guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000[^c-4ca0f6c9420726b0a99a9a8143e11229] who is administering the estate of the person;
 - (c) in Northern Ireland, a controller appointed by the High Court, with power to claim, or, as the case may be, receive, the benefit or allowance on behalf of the person; or
 - (d) a person appointed under regulation 28(2) to act on behalf of the person.
 
 (2) Where a sum of child benefit or guardian’s allowance is paid to a receiver or other person mentioned in paragraph (1)(a), (b), (c) or (d), either of the following is a sufficient discharge to the Board for the sum paid—
 
-- (a) a direct credit transfer under regulation 16[^key-72d850b60928faf763c5ff72a59cc2c6] into the person’s account;
+- (a) a direct credit transfer under regulation 16[^c-72d850b60928faf763c5ff72a59cc2c6] into the person’s account;
 - (b) the receipt by the person of a payment made by some other means.
 
-### 28. Appointment of persons to act on behalf of those unable to act[^key-fac6f51899955a86f1cdec4fa0331800]
+### 28. Appointment of persons to act on behalf of those unable to act[^c-fac6f51899955a86f1cdec4fa0331800]
 
 (1) This regulation applies where—
 
@@ -442,9 +442,9 @@ to exercise, on behalf of the person who is unable to act, any right relating to
 
 (4) An appointment made under paragraph (2) shall terminate when the Board are notified that a receiver or other person mentioned in regulation 27(1)(a), (b) or (c) has been appointed.
 
-### 29. Persons who may proceed with a claim made by a person who has died[^key-889305f35277b50512b7031c9263e7b6]
+### 29. Persons who may proceed with a claim made by a person who has died[^c-889305f35277b50512b7031c9263e7b6]
 
-(1) The Board may appoint such person as they think fit to proceed with a claim for child benefit or guardian’s allowance , and to deal with any issue related to the revision of, supersession of, or appeal in connection with a decision on, that claim[^key-60a449aafe58425f229aeea721b22176] which has been made by a person who has died.
+(1) The Board may appoint such person as they think fit to proceed with a claim for child benefit or guardian’s allowance , and to deal with any issue related to the revision of, supersession of, or appeal in connection with a decision on, that claim[^c-60a449aafe58425f229aeea721b22176] which has been made by a person who has died.
 
 (2) Subject to regulation 32(2), the Board may pay or distribute any sum payable under an award on a claim proceeded with under paragraph (1) to or among—
 
@@ -458,14 +458,14 @@ to exercise, on behalf of the person who is unable to act, any right relating to
 
 (4) Where a sum is paid under paragraph (2) to a person, either of the following is a sufficient discharge to the Board for the sum paid—
 
-- (a) a direct credit transfer under regulation 16[^key-9beb7e031e2aee846023395e97db4fea] into the person’s account;
+- (a) a direct credit transfer under regulation 16[^c-9beb7e031e2aee846023395e97db4fea] into the person’s account;
 - (b) the receipt by the person of a payment made by some other means.
 
 (5) If the Board consider that a sum or part of a sum which may be paid or distributed under paragraph (2) is needed for the benefit of a person under the age of 16 years, they may obtain a good discharge for that sum by paying it to a person over that age whom they are satisfied will apply the sum for the benefit of the person under that age.
 
 (6) Regulation 26 (extinguishment of right) applies to a payment or distribution made under paragraph (2).
 
-### 30. Persons who may receive payments which a person who has died had not obtained[^key-8f6366d732d43d0f407b0ea9d072705a]
+### 30. Persons who may receive payments which a person who has died had not obtained[^c-8f6366d732d43d0f407b0ea9d072705a]
 
 (1) This regulation applies where a person who has died had not obtained at the date of his death a sum of child benefit or guardian’s allowance which was payable to him.
 
@@ -473,7 +473,7 @@ to exercise, on behalf of the person who is unable to act, any right relating to
 
 (3) Regulation 26 (extinguishment of right) applies to a payment or distribution made under paragraph (2), except that, for the purposes of paragraph (1) of that regulation, the period of 12 months shall be calculated from the date on which the right to payment is treated as having arisen to the person to whom the payment or distribution is made (and not from the date on which that right is treated as having arisen in relation to the person who has died).
 
-### 31. Person who may make a claim on behalf of a person who has died[^key-1cc6d019f55c59633f98742dc8fc3af3]
+### 31. Person who may make a claim on behalf of a person who has died[^c-1cc6d019f55c59633f98742dc8fc3af3]
 
 (1) If the conditions specified in paragraph (2) are satisfied, a claim may be made in the name of a person who has died for any child benefit or guardian’s allowance to which he would have been entitled if he had claimed it in accordance with these Regulations.
 
@@ -493,34 +493,34 @@ to exercise, on behalf of the person who is unable to act, any right relating to
 
 (6) A claim made in accordance with this regulation shall be treated for the purposes of these Regulations as if it had been made on the date of his death by the person who has died.
 
-### 32. Regulations 29, 30 and 31: supplementary[^key-8db90f6598792ff5e4555beab36f6be7]
+### 32. Regulations 29, 30 and 31: supplementary[^c-8db90f6598792ff5e4555beab36f6be7]
 
 (1) The Board may dispense with strict proof of the title of a person claiming in accordance with regulation 29, 30 or 31.
 
 (2) Neither paragraph (2) of regulation 29 nor paragraph (2) of regulation 30 applies unless written application for payment of the sum under that paragraph is made to the Board within 12 months from the date of death or such longer period as the Board may allow.
 
-### 33. Payment to one person on behalf of another[^key-72afddb4b2a31104792b1cb385f7d45d]
+### 33. Payment to one person on behalf of another[^c-72afddb4b2a31104792b1cb385f7d45d]
 
 (1) Subject to paragraph (2), the Board may direct that child benefit or guardian’s allowance shall be paid, wholly or in part, to another natural person on behalf of the person entitled to it.
 
 (2) The Board may not make a direction under paragraph (1) unless they are satisfied that it is necessary for protecting the interests of—
 
 - (a) the person entitled to the benefit or allowance; or
-- (b) any child or qualifying young person[^key-1831de5664f4c0ab7e7f3f73fbd902d8] in respect of whom the benefit or allowance is payable.
+- (b) any child or qualifying young person[^c-1831de5664f4c0ab7e7f3f73fbd902d8] in respect of whom the benefit or allowance is payable.
 
-### 34. Payment to partner as alternative payee[^key-88d84d3a17d12b88f320d0363de32282]
+### 34. Payment to partner as alternative payee[^c-88d84d3a17d12b88f320d0363de32282]
 
-(1) Subject to paragraph (2), where a person with a partner[^key-2fa7a577be8ec7584cca3c2a6a95da77] is entitled to child benefit or guardian’s allowance, the Board may make arrangements whereby that benefit or allowance, as well as being payable to the person entitled to it, may, in the alternative, be paid to that person’s partner on behalf of that person.
+(1) Subject to paragraph (2), where a person with a partner[^c-2fa7a577be8ec7584cca3c2a6a95da77] is entitled to child benefit or guardian’s allowance, the Board may make arrangements whereby that benefit or allowance, as well as being payable to the person entitled to it, may, in the alternative, be paid to that person’s partner on behalf of that person.
 
-(2) Paragraph (1) does not apply to guardian’s allowance where a woman[^key-c4af1efb7302f556153dbe5bc1538abc] has elected that the allowance is not to be paid to her husband or male civil partner[^key-0e20f88a52e6047a0a8c4fe1a45f0517] in accordance with regulation 10 of the Guardian’s Allowance (General) Regulations 2003 (prescribed manner of making an election under section 77(9) of the Contributions and Benefits Act and section 77(9) of the Contributions and Benefits (NI) Act)[^f00019].
+(2) Paragraph (1) does not apply to guardian’s allowance where a woman[^c-c4af1efb7302f556153dbe5bc1538abc] has elected that the allowance is not to be paid to her husband or male civil partner[^c-0e20f88a52e6047a0a8c4fe1a45f0517] in accordance with regulation 10 of the Guardian’s Allowance (General) Regulations 2003 (prescribed manner of making an election under section 77(9) of the Contributions and Benefits Act and section 77(9) of the Contributions and Benefits (NI) Act)[^f00019].
 
 ## PART 5 — OVERPAYMENTS AND RECOVERY
 
-### 35. Recovery of overpayments by direct credit transfer[^key-8d7fedf184c78ef5f3c1644fe9616f7a]
+### 35. Recovery of overpayments by direct credit transfer[^c-8d7fedf184c78ef5f3c1644fe9616f7a]
 
 (1) If the adjudicating authority determines that—
 
-- (a) a payment of child benefit or guardian’s allowance in excess of entitlement has been credited to a bank account or other account under an arrangement for direct credit transfer made in accordance with regulation 16[^key-1f1de11ae5820644b4ec5a6d2d105f28]; and
+- (a) a payment of child benefit or guardian’s allowance in excess of entitlement has been credited to a bank account or other account under an arrangement for direct credit transfer made in accordance with regulation 16[^c-1f1de11ae5820644b4ec5a6d2d105f28]; and
 - (b) the conditions specified in paragraph (2) are satisfied,
 
 the excess, or the specified part of it to which the certificate referred to in sub-paragraph (a) of that paragraph relates, shall be recoverable.
@@ -528,7 +528,7 @@ the excess, or the specified part of it to which the certificate referred to in 
 (2) The following conditions are specified in this paragraph—
 
 - (a) the Board must have certified that the payment in excess of entitlement, or a specified part of it, is materially due to the arrangement for payments to be made by direct credit transfer; and
-- (b) subject to paragraph (3), notice of the effect which this regulation would have, in the event of an overpayment, must have been given in writing to the person entitled to the benefit or allowance, or to a person acting in his behalf, before the Board made the arrangement for the payment of child benefit or guardian’s allowance into that account[^key-e09e78bcdacb588172accc1124d201a8].
+- (b) subject to paragraph (3), notice of the effect which this regulation would have, in the event of an overpayment, must have been given in writing to the person entitled to the benefit or allowance, or to a person acting in his behalf, before the Board made the arrangement for the payment of child benefit or guardian’s allowance into that account[^c-e09e78bcdacb588172accc1124d201a8].
 
 (3) In the case of an arrangement relating to child benefit which was agreed to before 6th April 1987, the condition specified in paragraph (2)(b) need not be satisfied in any case where the application for the benefit to be paid by direct credit transfer contained a statement, or was accompanied by a written statement made by the applicant, which complied with the provisions specified in paragraph (4).
 
@@ -537,7 +537,7 @@ the excess, or the specified part of it to which the certificate referred to in 
 - (a) in relation to child benefit under the Contributions and Benefits Act, regulation 7(2)(b) and (6) of the Child Benefit (Claims and Payments) Regulations 1984[^f00020];
 - (b) in relation to child benefit under the Contributions and Benefits (NI) Act, regulation 7(2)(b) and (6) of the Child Benefit (Claims and Payments) Regulations (Northern Ireland) 1985[^f00021].
 
-### 36. Circumstances in which determination need not be reversed, varied, revised or superseded[^key-ac9e930d76f9f2311d00d896381c071f]
+### 36. Circumstances in which determination need not be reversed, varied, revised or superseded[^c-ac9e930d76f9f2311d00d896381c071f]
 
 (1) This regulation applies where, whether fraudulently or otherwise, a person has misrepresented, or failed to disclose, material facts which do not provide a basis for the determination in pursuance of which an amount of child benefit or guardian’s allowance was paid—
 
@@ -549,11 +549,11 @@ the excess, or the specified part of it to which the certificate referred to in 
 - (a) in relation to an amount mentioned in paragraph (1) relating to child benefit or guardian’s allowance under the Contributions and Benefits Act, neither subsection (5) nor (5A) of section 71 of the Administration Act (recoverability dependent on reversal, variation, revision or supersession of determination)[^f00022] applies;
 - (b) in relation to an amount mentioned in paragraph (1) relating to child benefit or guardian’s allowance under the Contributions and Benefits (NI) Act, neither subsection (5) nor (5A) of section 69 of the Administration (NI) Act (recoverability dependent on reversal, variation, revision or supersession of determination)[^f00023] applies.
 
-### 37. Calculating recoverable amounts[^key-c2645565219c1952733c4c6a103d1098]
+### 37. Calculating recoverable amounts[^c-c2645565219c1952733c4c6a103d1098]
 
 Where there has been an overpayment of child benefit or guardian’s allowance, in calculating the amounts recoverable under section 71(1) of the Administration Act, section 69(1) of the Administration (NI) Act or regulation 35, the adjudicating authority must deduct any amount which is offset under regulation 38.
 
-### 38. Offsetting prior payments of child benefit and guardian’s allowance against arrears payable by virtue of a subsequent determination[^key-a54c8dce1dbe4c2743bb122107337f14]
+### 38. Offsetting prior payments of child benefit and guardian’s allowance against arrears payable by virtue of a subsequent determination[^c-a54c8dce1dbe4c2743bb122107337f14]
 
 (1) Subject to regulation 40, in either of the cases specified in paragraphs (2) and (3)—
 
@@ -575,12 +575,12 @@ and, except to the extent that it exceeds them, the sum so paid shall be treated
 
 (4) Where child benefit which has been paid under an award in favour of a person (“the first claimant”) is subsequently awarded to another (“the second claimant”) for any week, the benefit shall nevertheless be treated as properly paid if it was received by someone (other than the first claimant) who—
 
-- (a) had the child or qualifying young person[^key-2f69f39d431f285fab641e7a16f3acbb] living with him or was contributing towards the cost of providing for the child or qualifying young person at a weekly rate which was not less than the weekly rate under the original award; and
-- (b) could have been entitled to child benefit in respect of that child or qualifying young person[^key-62086ebde9924d8c772a50dd6c76ddb7] for that week had a claim been made in time.
+- (a) had the child or qualifying young person[^c-2f69f39d431f285fab641e7a16f3acbb] living with him or was contributing towards the cost of providing for the child or qualifying young person at a weekly rate which was not less than the weekly rate under the original award; and
+- (b) could have been entitled to child benefit in respect of that child or qualifying young person[^c-62086ebde9924d8c772a50dd6c76ddb7] for that week had a claim been made in time.
 
 (5) Any amount which is treated under paragraph (4) as properly paid shall be deducted from the amount payable to the second claimant under the subsequent award.
 
-### 39. Offsetting prior payments of income support or jobseeker’s allowance against arrears of child benefit or guardian’s allowance payable by virtue of a subsequent determination[^key-73ec7e6166ba3be779dd984b7a490e2d]
+### 39. Offsetting prior payments of income support or jobseeker’s allowance against arrears of child benefit or guardian’s allowance payable by virtue of a subsequent determination[^c-73ec7e6166ba3be779dd984b7a490e2d]
 
 (1) This regulation applies where—
 
@@ -594,11 +594,11 @@ and, except to the extent that it exceeds them, the sum so paid shall be treated
 - (a) shall be offset against any arrears of entitlement to the child benefit or guardian’s allowance payable for that period by virtue of that determination; and
 - (b) except to the extent that it exceeds them, the sum so paid shall be treated as properly paid on account of the arrears.
 
-### 40. Exception from offset of recoverable overpayment[^key-02f053529a703cc5ee9dd10359297fd2]
+### 40. Exception from offset of recoverable overpayment[^c-02f053529a703cc5ee9dd10359297fd2]
 
 No amount may be offset under regulation 38(1) or 39(2) which has been determined to be a recoverable overpayment for the purposes of section 71(1) of the Administration Act or section 69(1) of the Administration (NI) Act.
 
-### 41. Bringing interim payments into account[^key-e756f8ff9607525518d9dfd6aec54c0c]
+### 41. Bringing interim payments into account[^c-e756f8ff9607525518d9dfd6aec54c0c]
 
 (1) Subject to paragraph (2), if it is practicable to do so—
 
@@ -609,7 +609,7 @@ No amount may be offset under regulation 38(1) or 39(2) which has been determine
 
 (2) Paragraph (1) does not apply unless the Board have given the notice required by regulation 22(3).
 
-### 42. Recovery of overpaid interim payments[^key-c71f3e9d4b0400692e240c8e29f4e9d8]
+### 42. Recovery of overpaid interim payments[^c-c71f3e9d4b0400692e240c8e29f4e9d8]
 
 (1) Subject to paragraph (2), if the adjudicating authority, in the circumstances specified in either of paragraphs (3) and (4), has determined that an interim payment has been overpaid, it shall determine the amount of the overpayment.
 
@@ -632,7 +632,7 @@ No amount may be offset under regulation 38(1) or 39(2) which has been determine
 - (a) in relation to child benefit or guardian’s allowance under the Contributions and Benefits Act, section 71(1) of the Administration Act;
 - (b) in relation to child benefit or guardian’s allowance under the Contributions and Benefits (NI) Act, section 69(1) of the Administration (NI) Act.
 
-### 42A. Recovery of overpayments from awards of child benefit and guardian’s allowance[^key-29c85b132e3d95d51cdf270e96d692a0]
+### 42A. Recovery of overpayments from awards of child benefit and guardian’s allowance[^c-29c85b132e3d95d51cdf270e96d692a0]
 
 (1) Where any amount of child benefit or guardian’s allowance is recoverable from a person under—
 
@@ -646,11 +646,11 @@ that amount may be recovered by the adjudicating authority from any child benefi
 
 ## PART 6 — REVOCATIONS AND TRANSITIONAL PROVISIONS
 
-### 43. Revocations[^key-3507de42ab381e8068d4df35c279f861]
+### 43. Revocations[^c-3507de42ab381e8068d4df35c279f861]
 
 The subordinate legislation specified in column (1) of Parts 1 and 2 of Schedule 3, in so far as it relates to child benefit or guardian’s allowance, is revoked to the extent mentioned in column (3) of that Schedule.
 
-### 44. Transitional provisions[^key-112be8c1eb37533e27da7f1e57fbe98a]
+### 44. Transitional provisions[^c-112be8c1eb37533e27da7f1e57fbe98a]
 
 (1) Anything done or commenced under any provision of the instruments revoked by regulation 43, so far as relating to child benefit or guardian’s allowance, is to be treated as having been done or as being continued under the corresponding provision of these Regulations.
 
@@ -670,7 +670,7 @@ Two of the Commissioners of Inland Revenue
 
 Preamble
 
-**1.**[^key-f1859f1ec2147070e2c9c544a038a4d2] The following provisions of the Administration Act—
+**1.**[^c-f1859f1ec2147070e2c9c544a038a4d2] The following provisions of the Administration Act—
 
 - (a) section 5(1)(a), (b), (c), (d), (g), (h), (hh), (i), (j), (k), (l), (m), (p), (q) and (r) and (2)(a) and (g)[^f00024];
 - (b) section 7(1), (2) and (3)(a);
@@ -680,7 +680,7 @@ Preamble
 - (f) section 189(1), (4), (5) and (6)[^f00025];
 - (g) section 191[^f00026].
 
-**2.**[^key-aa67b38df29304a2da6cf6cfda01aa97] The following provisions of the Administration (NI) Act—
+**2.**[^c-aa67b38df29304a2da6cf6cfda01aa97] The following provisions of the Administration (NI) Act—
 
 - (a) section 5(1)(a), (b), (c), (d), (g), (h), (hh), (i), (j), (k), (l), (m), (n), (q), (r), (s) and (t) and (2)(a) and (g)[^f00027];
 - (b) section 69(4), (5), (5A), (6), (7) and (11)(a) and (f);
@@ -689,49 +689,49 @@ Preamble
 - (e) section 165(1), (4), (5), (6) and (11A)[^f00028];
 - (f) section 167(1)[^f00029].
 
-**3.**[^key-ce0e101d33e557ef6ad5db6834d83569] Sections 9(1) and 84 of the Social Security Act 1998[^f00030].
+**3.**[^c-ce0e101d33e557ef6ad5db6834d83569] Sections 9(1) and 84 of the Social Security Act 1998[^f00030].
 
-**4.**[^key-ea6020081c6a7a590d3c93b52ded9751] Articles 2(2) and 10(1) of the Social Security (Northern Ireland) Order 1998[^f00031].
+**4.**[^c-ea6020081c6a7a590d3c93b52ded9751] Articles 2(2) and 10(1) of the Social Security (Northern Ireland) Order 1998[^f00031].
 
-**5.**[^key-4f5b88693e628b6c8f74845a6a3bc6e8] Sections 132 and 133(1) and (2) of the Finance Act 1999[^f00032].
+**5.**[^c-4f5b88693e628b6c8f74845a6a3bc6e8] Sections 132 and 133(1) and (2) of the Finance Act 1999[^f00032].
 
-**6.**[^key-5ac2301cd5e2cd0c2f4c49ac30eecc64] Sections 50(1) and (2)(b) and (d) and 54(2) of the Tax Credits Act 2002.
+**6.**[^c-5ac2301cd5e2cd0c2f4c49ac30eecc64] Sections 50(1) and (2)(b) and (d) and 54(2) of the Tax Credits Act 2002.
 
-## SCHEDULE 2 — ELECTRONIC COMMUNICATIONS[^key-933e0ac9ab6d269d0d72c0703c4fc778]
+## SCHEDULE 2 — ELECTRONIC COMMUNICATIONS[^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 Regulation 3
 
-### PART 1 — GENERAL[^key-933e0ac9ab6d269d0d72c0703c4fc778]
+### PART 1 — GENERAL[^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
-#### 1. Introduction[^key-567fee47cf12306b97bd96e3a880226c][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 1. Introduction[^c-567fee47cf12306b97bd96e3a880226c][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 This Schedule supersedes the Social Security (Electronic Communications) (Child Benefit) Order 2002[^f00033] which was made under section 8 of the Electronic Communications Act 2000[^f00034].
 
-#### 2. Interpretation[^key-9354f447c4f1961032a15fa28e318daa][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 2. Interpretation[^c-9354f447c4f1961032a15fa28e318daa][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) In this Schedule—
 
-- “electronic communications” includes any communications conveyed by means of an electronic communications network.[^key-a5eca20c49957b0ac508ee34bdb5fb70]
+- “electronic communications” includes any communications conveyed by means of an electronic communications network.[^c-a5eca20c49957b0ac508ee34bdb5fb70]
 - “official computer system” means a computer system maintained by or on behalf of the Board—
   - (a) to send or receive information; or
   - (b) to process or store information.
 
 (2) References in this Schedule to the delivery of information and to information shall be construed in accordance with section 132(8) of the Finance Act 1999.
 
-#### 3. Scope of this Schedule[^key-58ee89bd3128d571634b7f9d432cc767][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 3. Scope of this Schedule[^c-58ee89bd3128d571634b7f9d432cc767][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 This Schedule applies to the delivery of information to or by the Board, the delivery of which is authorised or required by these Regulations.
 
-### PART 2 — GENERAL[^key-933e0ac9ab6d269d0d72c0703c4fc778]
+### PART 2 — GENERAL[^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
-#### 4. Use of electronic communications by the Board[^key-434ac8da3da986517de91680b5be79fa][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 4. Use of electronic communications by the Board[^c-434ac8da3da986517de91680b5be79fa][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 The Board may only use electronic communications in connection with the matters referred to in paragraph 3 if—
 
 - (a) the recipient has indicated that he consents to the Board using electronic communications in connection with those matters; and
 - (b) the Board have not been informed that that consent has been withdrawn.
 
-#### 5. Restrictions on the use of electronic communications by persons other than the Board[^key-14b0ddec8cd29f8251a5803ebdf7f5aa][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 5. Restrictions on the use of electronic communications by persons other than the Board[^c-14b0ddec8cd29f8251a5803ebdf7f5aa][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) A person other than the Board may only use electronic communications in connection with the matters referred to in paragraph 3 if the conditions specified in sub-paragraphs (2) to (5) are satisfied.
 
@@ -749,7 +749,7 @@ The Board may only use electronic communications in connection with the matters 
 
 (6) “Approved” means approved for the purposes of this Schedule, and for the time being, by means of a specific or general direction given by the Board.
 
-#### 6. Use of intermediaries[^key-bfbae184d75c59bfc9f95ae0128ceefb][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 6. Use of intermediaries[^c-bfbae184d75c59bfc9f95ae0128ceefb][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 The Board may use intermediaries in connection with—
 
@@ -758,9 +758,9 @@ The Board may use intermediaries in connection with—
 
 and may require other persons to use intermediaries in connection with those matters.
 
-### PART 3 — EVIDENTIAL PROVISIONS[^key-933e0ac9ab6d269d0d72c0703c4fc778]
+### PART 3 — EVIDENTIAL PROVISIONS[^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
-#### 7. Effect of delivering information by means of electronic communications[^key-9244c1caeda873a28699e3862444459d][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 7. Effect of delivering information by means of electronic communications[^c-9244c1caeda873a28699e3862444459d][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) Information which is delivered by means of electronic communications shall be treated as having been delivered in the manner or form required by any provision of these Regulations if, but only if, all the conditions imposed by—
 
@@ -778,7 +778,7 @@ are satisfied.
 
 (4) Information shall not be taken to have been delivered to an official computer system by means of electronic communications unless it is accepted by the system to which it is delivered.
 
-#### 8. Proof of content[^key-d7409bb650062e3c9551d9bd2c5d951b][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 8. Proof of content[^c-d7409bb650062e3c9551d9bd2c5d951b][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) A document certified by an officer of the Board to be a printed-out version of any information delivered by means of electronic communications under this Schedule on any occasion shall be evidence, unless the contrary is proved, that that information—
 
@@ -787,7 +787,7 @@ are satisfied.
 
 (2) A document purporting to be a certificate given in accordance with sub-paragraph (1) shall be presumed to be such a certificate unless the contrary is proved.
 
-#### 9. Proof of identity of sender or recipient[^key-3e134425fe9ec45b7ea7cb9e7a6d8184][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 9. Proof of identity of sender or recipient[^c-3e134425fe9ec45b7ea7cb9e7a6d8184][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 The identity of—
 
@@ -796,11 +796,11 @@ The identity of—
 
 shall be presumed, unless the contrary is proved, to be the person recorded as such on an official computer system.
 
-#### 10. Information delivered electronically on another’s behalf[^key-882f3d484185d22aadee4d6ef1e68427][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 10. Information delivered electronically on another’s behalf[^c-882f3d484185d22aadee4d6ef1e68427][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 Any information delivered by an approved method of electronic communications on behalf of any person shall be deemed to have been delivered by him unless he proves that it was delivered without his knowledge or connivance.
 
-#### 11. Proof of delivery of information[^key-3e87ef78725d255e7ce80be40c2fa6e1][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 11. Proof of delivery of information[^c-3e87ef78725d255e7ce80be40c2fa6e1][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) The use of an authorised method of electronic communications shall be presumed, unless the contrary is proved, to have resulted in the delivery of information—
 
@@ -814,7 +814,7 @@ Any information delivered by an approved method of electronic communications on 
 
 (3) The time of receipt of any information sent by an authorised means of electronic communications shall be presumed, unless the contrary is proved, to be that recorded on an official computer system.
 
-#### 12. Use of unauthorised means of electronic communications[^key-f583cc66bce56b4f0a42fd0922115aac][^key-933e0ac9ab6d269d0d72c0703c4fc778][^key-933e0ac9ab6d269d0d72c0703c4fc778]
+#### 12. Use of unauthorised means of electronic communications[^c-f583cc66bce56b4f0a42fd0922115aac][^c-933e0ac9ab6d269d0d72c0703c4fc778][^c-933e0ac9ab6d269d0d72c0703c4fc778]
 
 (1) Sub-paragraph (2) applies to information which is required to be delivered to the Board in connection with the matters mentioned in paragraph 3.
 
@@ -827,7 +827,7 @@ Any information delivered by an approved method of electronic communications on 
 
 Regulation 43
 
-### PART 1 — REVOCATIONS APPLICABLE TO GREAT BRITAIN[^key-0266b63f5e63b065ffb49cdad568a127]
+### PART 1 — REVOCATIONS APPLICABLE TO GREAT BRITAIN[^c-0266b63f5e63b065ffb49cdad568a127]
 
 <table>
 <thead>
@@ -924,7 +924,7 @@ Regulation 43
 </tbody>
 </table>
 
-### PART 2 — REVOCATIONS APPLICABLE TO NORTHERN IRELAND[^key-93c153e34fa064ecdd8c64b1ec525173]
+### PART 2 — REVOCATIONS APPLICABLE TO NORTHERN IRELAND[^c-93c153e34fa064ecdd8c64b1ec525173]
 
 <table>
 <thead>
@@ -1035,249 +1035,249 @@ Part 6 (regulations 43 and 44), together with Schedule 3, contains revocations a
 
 ## Annotations
 
-[^key-2fa1a2deeedb31064c9dabf2f6c3691b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-2fa1a2deeedb31064c9dabf2f6c3691b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00001]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-2958ee0bd91c5d00e2e545e29ccb85da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-2958ee0bd91c5d00e2e545e29ccb85da]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-226730ccf210e0e3cc06a1e6832ab81e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/a)
+[^c-226730ccf210e0e3cc06a1e6832ab81e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/a)
 
 [^f00003]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
 
-[^key-5d10ed74014e18b9cb3b73459f521e95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omited (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/b)
+[^c-5d10ed74014e18b9cb3b73459f521e95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omited (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/b)
 
 [^f00005]: Footnote: Article 15 was amended by Schedule 9 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671)).
 
-[^key-47d32e29faa9c53759b08e5e46dce806]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(c)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/c)
+[^c-47d32e29faa9c53759b08e5e46dce806]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) inserted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 211(c)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/211/c)
 
 [^f00006]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
 [^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 
-[^key-7ac0dfb8efbec615da9aad878fb3ac9b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/2)
+[^c-7ac0dfb8efbec615da9aad878fb3ac9b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/2)
 
-[^key-b594415924eac8553bc27ebf7ee7c56a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/2/b)
+[^c-b594415924eac8553bc27ebf7ee7c56a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/2/b)
 
-[^key-674d6ecd52fe9f0bd92cd72a127549ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/12/2/a)
+[^c-674d6ecd52fe9f0bd92cd72a127549ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/12/2/a)
 
-[^key-122e03f32422567d569abc9e4d95c2a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/a)
+[^c-122e03f32422567d569abc9e4d95c2a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/a)
 
-[^key-404bb03bcffabedc76fd4b420b4b629b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/b)
+[^c-404bb03bcffabedc76fd4b420b4b629b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/b)
 
 [^f00008]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
 [^f00009]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-02eb711dd693d4e5f7568e13dadb1668]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/12/2/b)
+[^c-02eb711dd693d4e5f7568e13dadb1668]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/12/2/b)
 
-[^key-2d7ea1691e378f08267faebd3a5bb1cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/c)
+[^c-2d7ea1691e378f08267faebd3a5bb1cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/c)
 
-[^key-e443e087dfa281f68c584f410ed20604]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(d)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/d)
+[^c-e443e087dfa281f68c584f410ed20604]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/492/regulation/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(2)(d)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/2/d)
 
-[^key-5fda02507c9e1b7da88c95600a404741]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/492/regulation/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-5fda02507c9e1b7da88c95600a404741]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/492/regulation/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-bd5546e22d28310c7b85a31c5ca7be29]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/492/regulation/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-bd5546e22d28310c7b85a31c5ca7be29]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/492/regulation/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00010]: Footnote: Section 111A was inserted by section 13 of the Social Security Administration Fraud Act [1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47) and subsections (1A) to (1G) of that section, and subsections (1A) to (1F) of section 112, were substituted by section 16 of the Social Security Fraud Act [2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11).
 
 [^f00011]: Footnote: Section 105A was inserted by Article 12 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997 (S.I. [1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182) and subsections (1A) to (1G) of that section, and subsections (1A) to (1F) of section 106, were substituted by section 15 of the Social Security Fraud Act (Northern Ireland) [2001 (c. 17)](https://www.legislation.gov.uk/nia/2001/17).
 
-[^key-6e33e7df25718065c18ac2087e2c39ac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/492/regulation/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-6e33e7df25718065c18ac2087e2c39ac]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/492/regulation/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-2d768097ff50b87e4418b333bafef59e]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/5/1) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/3)
+[^c-2d768097ff50b87e4418b333bafef59e]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/5/1) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/3)
 
-[^key-c77bfa32558d7160f6bfca5a6eefe6a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/492/regulation/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-c77bfa32558d7160f6bfca5a6eefe6a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/492/regulation/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-4717261467b24ac136b0f475058ff8a0]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (3.9.2003) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment No. 3) Regulations 2003 (S.I. 2003/2107)](https://www.legislation.gov.uk/uksi/2003/2107), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2107/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/2107/regulation/3/1)
+[^c-4717261467b24ac136b0f475058ff8a0]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (3.9.2003) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment No. 3) Regulations 2003 (S.I. 2003/2107)](https://www.legislation.gov.uk/uksi/2003/2107), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2107/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/2107/regulation/3/1)
 
-[^key-df81df869d314d7c1e5bbf7f3edfe60f]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2) added (3.9.2003) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment No. 3) Regulations 2003 (S.I. 2003/2107)](https://www.legislation.gov.uk/uksi/2003/2107), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2107/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/2107/regulation/3/2)
+[^c-df81df869d314d7c1e5bbf7f3edfe60f]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2) added (3.9.2003) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment No. 3) Regulations 2003 (S.I. 2003/2107)](https://www.legislation.gov.uk/uksi/2003/2107), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2107/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/2107/regulation/3/2)
 
-[^key-8b7c6aa6122611296d152d687ad01240]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2/d) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
+[^c-8b7c6aa6122611296d152d687ad01240]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2/d) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
 
-[^key-3d1673804d4293fe1963f34811c517c7]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2/e) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
+[^c-3d1673804d4293fe1963f34811c517c7]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/2/e) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
 
-[^key-4844d373f69bbb66821ca6eeee130f92]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/3) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
+[^c-4844d373f69bbb66821ca6eeee130f92]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/3) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
 
-[^key-3c252db725d61276c08a8f522a311e83]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/4) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
+[^c-3c252db725d61276c08a8f522a311e83]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/6/4) omitted (7.4.2025) by virtue of [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/2/2))
 
-[^key-efd775cecced07afa6cc588f0dcee0c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/492/regulation/7) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-efd775cecced07afa6cc588f0dcee0c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/492/regulation/7) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-7be2032d701fd5df21b8150d9ffa4e22]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/1) substituted (15.3.2023) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/a)
+[^c-7be2032d701fd5df21b8150d9ffa4e22]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/1) substituted (15.3.2023) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/a)
 
-[^key-94e5fdeb742c33565709c86821cf09e1]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/2) omitted (15.3.2023) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/b)
+[^c-94e5fdeb742c33565709c86821cf09e1]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/2) omitted (15.3.2023) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/b)
 
-[^key-b8c9b4af3df5c46a942fcaee95229c99]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/3) omitted (15.3.2023) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/c)
+[^c-b8c9b4af3df5c46a942fcaee95229c99]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/492/regulation/7/3) omitted (15.3.2023) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/179)](https://www.legislation.gov.uk/uksi/2023/179), [regs. 1](https://www.legislation.gov.uk/uksi/2023/179/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2023/179/regulation/4/2/c)
 
-[^key-f4f636e4fc797b226af6992ab4fd99a3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/492/regulation/8) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-f4f636e4fc797b226af6992ab4fd99a3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/492/regulation/8) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-0ce1766dedcadf4e484353d0fe30e79e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/492/regulation/9) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-0ce1766dedcadf4e484353d0fe30e79e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/492/regulation/9) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-0389fa878568b8bc78919f3a26b19641]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/9/1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/10/2/a)
+[^c-0389fa878568b8bc78919f3a26b19641]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/9/1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/10/2/a)
 
-[^key-021f70b069f05cebee97967920a07b0a]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/9/2) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/10/2/b)
+[^c-021f70b069f05cebee97967920a07b0a]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/9/2) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/10/2/b)
 
-[^key-96f101bf47886ce9e491218fa2c6c56f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/492/regulation/10) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-96f101bf47886ce9e491218fa2c6c56f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/492/regulation/10) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-08682ab46af35e9c43e87309d3635051]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/492/regulation/11) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-08682ab46af35e9c43e87309d3635051]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/492/regulation/11) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-7477c813f212499dbca2117c7b9c0b11]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/4/a)
+[^c-7477c813f212499dbca2117c7b9c0b11]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/4/a)
 
-[^key-da183e059eeb7a1266bbd0f62eb043f8]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/4/b)
+[^c-da183e059eeb7a1266bbd0f62eb043f8]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/1)[(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/11/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/4/b)
 
-[^key-3ce18f4020356509636c841bd38547f8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/492/regulation/12) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3ce18f4020356509636c841bd38547f8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/492/regulation/12) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00012]: Footnote: Section 9 is contained in Chapter 2 of Part 1 of the Social Security Act 1998 (social security decisions and appeals: Great Britain) and the functions of the Secretary of State under that Chapter, so far as relating to child benefit and guardian’s allowance, are transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(e) of the Tax Credits Act 2002.
 
 [^f00013]: Footnote: Article 10 is contained in Chapter 2 of Part 2 of the Social Security (Northern Ireland) Order 1998 (social security decisions and appeals: Northern Ireland) and the functions of the Department for Social Development in Northern Ireland under that Chapter, so far as relating to child benefit and guardian’s allowance, are transferred to the Commissioners of Inland Revenue by section 50(1) and (2)(f) of the Tax Credits Act 2002.
 
-[^key-04e25789f63af2687796dafaea54d287]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/492/regulation/13) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-04e25789f63af2687796dafaea54d287]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/492/regulation/13) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-c4082f5ec564e396d7eb0f060a0f20b2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/492/regulation/14) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-c4082f5ec564e396d7eb0f060a0f20b2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/492/regulation/14) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-957ba4ab655eb24e7178863696cf7dec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/492/regulation/15) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-957ba4ab655eb24e7178863696cf7dec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/492/regulation/15) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-3b2f61617233e7ec2445566038bf9734]: Commencement: Reg. 16 in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3b2f61617233e7ec2445566038bf9734]: Commencement: Reg. 16 in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-620f1adaf53f937bdccfa056891457be]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/492/regulation/16) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/a)
+[^c-620f1adaf53f937bdccfa056891457be]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/492/regulation/16) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/a)
 
-[^key-7c6861491e4e45059d8c156aeadf70b0]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/2) omitted (21.7.2016) by virtue of [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/2/a)
+[^c-7c6861491e4e45059d8c156aeadf70b0]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/2) omitted (21.7.2016) by virtue of [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/2/a)
 
-[^key-d5027bfcb9b49a4b6c8ec2ca60252d6b]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/2) substituted (21.7.2016) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/2/b)
+[^c-d5027bfcb9b49a4b6c8ec2ca60252d6b]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/2) substituted (21.7.2016) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/2/b)
 
-[^key-35ac1bde3934c730733816e4b89165e7]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/4) omitted (21.7.2016) by virtue of [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/3)
+[^c-35ac1bde3934c730733816e4b89165e7]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/16/4) omitted (21.7.2016) by virtue of [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2016 (S.I. 2016/681)](https://www.legislation.gov.uk/uksi/2016/681), [regs. 1](https://www.legislation.gov.uk/uksi/2016/681/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/681/regulation/2/3)
 
-[^key-26669bfb919d5d55abd1bc7f48d35410]: Commencement: Reg. 17 in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-26669bfb919d5d55abd1bc7f48d35410]: Commencement: Reg. 17 in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-1d604e7079b17e2a583b9f6c220821a5]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/492/regulation/17) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/a)
+[^c-1d604e7079b17e2a583b9f6c220821a5]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/492/regulation/17) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/a)
 
-[^key-ff5a3328e286cd2f63c1edbeb0cb8d0e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/492/regulation/18) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-ff5a3328e286cd2f63c1edbeb0cb8d0e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/492/regulation/18) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-9aa878a4e2bcc2914a6c898fd91dc555]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/492/regulation/19) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-9aa878a4e2bcc2914a6c898fd91dc555]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/492/regulation/19) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-486f4600f2f53e7263932d4cce499f00]: Textual amendment: Word in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b) omitted (1.1.2010) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/4/a)
+[^c-486f4600f2f53e7263932d4cce499f00]: Textual amendment: Word in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b) omitted (1.1.2010) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/4/a)
 
 [^f00014]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00015]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-42f48b902efc09506557886363e8458d]: Textual amendment: [Reg. 19(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iv) and semi-colon added (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/4/b)
+[^c-42f48b902efc09506557886363e8458d]: Textual amendment: [Reg. 19(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iv) and semi-colon added (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/4/b)
 
-[^key-c628904ff16f24899d6a2bd290f82e0c]: Textual amendment: Word in [reg. 19(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iii) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2013/630/regulation/81)
+[^c-c628904ff16f24899d6a2bd290f82e0c]: Textual amendment: Word in [reg. 19(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/iii) omitted (29.4.2013) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2013/630/regulation/81)
 
-[^key-868755d57c3616b49aa5eecddc7d2b95]: Textual amendment: [Reg. 19(1)(b)(v)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/v) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2013/630/regulation/81)
+[^c-868755d57c3616b49aa5eecddc7d2b95]: Textual amendment: [Reg. 19(1)(b)(v)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/v) and word inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [81](https://www.legislation.gov.uk/uksi/2013/630/regulation/81)
 
-[^key-44233f6ca831469ad1dd431517dd436f]: Textual amendment: Words in [reg. 19(1)(b)(v)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/v) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [57](https://www.legislation.gov.uk/nisr/2016/236/regulation/57)
+[^c-44233f6ca831469ad1dd431517dd436f]: Textual amendment: Words in [reg. 19(1)(b)(v)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/1/b/v) inserted (N.I.) (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [57](https://www.legislation.gov.uk/nisr/2016/236/regulation/57)
 
-[^key-42afff06d509a53a8a13215be2dda8f2]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/5)
+[^c-42afff06d509a53a8a13215be2dda8f2]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/19/2) inserted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/5)
 
-[^key-5e087a1fd67b7152ece029196534438c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/492/regulation/20) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-5e087a1fd67b7152ece029196534438c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/492/regulation/20) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00016]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-5f4b4f82c1b7b4b440be70db63f9e05a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/492/regulation/21) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-5f4b4f82c1b7b4b440be70db63f9e05a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/492/regulation/21) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-603ea67debf303b1b2d89966fa199f0b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/492/regulation/22) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-603ea67debf303b1b2d89966fa199f0b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/492/regulation/22) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-07be8de82b9dd852d3b5732b66378998]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/1)(1A) substituted for [reg. 22(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/1) (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/2)
+[^c-07be8de82b9dd852d3b5732b66378998]: Textual amendment: [Reg. 22(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/1)(1A) substituted for [reg. 22(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/1) (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/2)
 
-[^key-9b29624952b1c1d6a3b3ac5bb283ea8d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/2) omitted (18.3.2005) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/3)
+[^c-9b29624952b1c1d6a3b3ac5bb283ea8d]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/2) omitted (18.3.2005) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/3)
 
-[^key-86c17eeb0e1333793004ad895d4076ba]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/4) added (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/4)
+[^c-86c17eeb0e1333793004ad895d4076ba]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2003/492/regulation/22/4) added (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2005/343/regulation/8/4)
 
-[^key-3ba98b917b7c6b91086f9b519c28772f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/492/regulation/23) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3ba98b917b7c6b91086f9b519c28772f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/492/regulation/23) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00017]: Footnote: Section 10 was amended by paragraph 23 of Schedule 7, and Part 1 of Schedule 10, to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
 
 [^f00018]: Footnote: Article 11 was amended by paragraph 17(a) of Schedule 6, and Schedule 9, to S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-fea8eaaea30dfb30fc4abe386dcb68a9]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2003/492/regulation/23/3A) inserted (9.6.2022) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/555/regulation/3/2)
+[^c-fea8eaaea30dfb30fc4abe386dcb68a9]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2003/492/regulation/23/3A) inserted (9.6.2022) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/555)](https://www.legislation.gov.uk/uksi/2022/555), [regs. 1](https://www.legislation.gov.uk/uksi/2022/555/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/555/regulation/3/2)
 
-[^key-9377a7212aea05b4b33c604ff521408e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/492/regulation/24) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-9377a7212aea05b4b33c604ff521408e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/492/regulation/24) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-52595b824fbb5922db4a34ecaa0cc6ae]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/492/regulation/25) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-52595b824fbb5922db4a34ecaa0cc6ae]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/492/regulation/25) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-1505915341f9956313325cf36eadb1e2]: Textual amendment: Words in [reg. 25(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/25/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
+[^c-1505915341f9956313325cf36eadb1e2]: Textual amendment: Words in [reg. 25(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/25/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
 
-[^key-dae32a662f81ed7fb2ab0abcca79651f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2003/492/regulation/26) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-dae32a662f81ed7fb2ab0abcca79651f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2003/492/regulation/26) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-39114f88d36ab846adedfea57be4171c]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/26/1) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/5/a)
+[^c-39114f88d36ab846adedfea57be4171c]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/26/1) substituted (1.1.2010) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/5/a)
 
-[^key-7a0c5252bb20e2d01e7d502606315b06]: Textual amendment: [Reg. 26(2)-(5)](https://www.legislation.gov.uk/uksi/2003/492/regulation/26/2) omitted (1.1.2010) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/5/b)
+[^c-7a0c5252bb20e2d01e7d502606315b06]: Textual amendment: [Reg. 26(2)-(5)](https://www.legislation.gov.uk/uksi/2003/492/regulation/26/2) omitted (1.1.2010) by virtue of [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/3268)](https://www.legislation.gov.uk/uksi/2009/3268), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3268/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2009/3268/regulation/3/5/b)
 
-[^key-98fe9d1282d10c640bef608ddaf20e56]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2003/492/regulation/27) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-98fe9d1282d10c640bef608ddaf20e56]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2003/492/regulation/27) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-4ca0f6c9420726b0a99a9a8143e11229]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/27/1/b) substituted (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [10](https://www.legislation.gov.uk/uksi/2005/343/regulation/10)
+[^c-4ca0f6c9420726b0a99a9a8143e11229]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/27/1/b) substituted (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [10](https://www.legislation.gov.uk/uksi/2005/343/regulation/10)
 
-[^key-72d850b60928faf763c5ff72a59cc2c6]: Textual amendment: Words in [reg. 27(2)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/27/2/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
+[^c-72d850b60928faf763c5ff72a59cc2c6]: Textual amendment: Words in [reg. 27(2)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/27/2/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
 
-[^key-fac6f51899955a86f1cdec4fa0331800]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2003/492/regulation/28) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-fac6f51899955a86f1cdec4fa0331800]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2003/492/regulation/28) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-889305f35277b50512b7031c9263e7b6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/492/regulation/29) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-889305f35277b50512b7031c9263e7b6]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/492/regulation/29) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-60a449aafe58425f229aeea721b22176]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/29/1) added (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/343/regulation/11/2)
+[^c-60a449aafe58425f229aeea721b22176]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/29/1) added (18.3.2005) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/343)](https://www.legislation.gov.uk/uksi/2005/343), [regs. 1](https://www.legislation.gov.uk/uksi/2005/343/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/343/regulation/11/2)
 
-[^key-9beb7e031e2aee846023395e97db4fea]: Textual amendment: Words in [reg. 29(4)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/29/4/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
+[^c-9beb7e031e2aee846023395e97db4fea]: Textual amendment: Words in [reg. 29(4)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/29/4/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
 
-[^key-8f6366d732d43d0f407b0ea9d072705a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/492/regulation/30) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-8f6366d732d43d0f407b0ea9d072705a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/492/regulation/30) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-1cc6d019f55c59633f98742dc8fc3af3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2003/492/regulation/31) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-1cc6d019f55c59633f98742dc8fc3af3]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2003/492/regulation/31) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-8db90f6598792ff5e4555beab36f6be7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2003/492/regulation/32) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-8db90f6598792ff5e4555beab36f6be7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2003/492/regulation/32) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-72afddb4b2a31104792b1cb385f7d45d]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2003/492/regulation/33) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-72afddb4b2a31104792b1cb385f7d45d]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2003/492/regulation/33) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-1831de5664f4c0ab7e7f3f73fbd902d8]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/33/2/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/6)
+[^c-1831de5664f4c0ab7e7f3f73fbd902d8]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/33/2/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/6)
 
-[^key-88d84d3a17d12b88f320d0363de32282]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2003/492/regulation/34) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-88d84d3a17d12b88f320d0363de32282]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2003/492/regulation/34) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-2fa7a577be8ec7584cca3c2a6a95da77]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/a)
+[^c-2fa7a577be8ec7584cca3c2a6a95da77]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/a)
 
-[^key-c4af1efb7302f556153dbe5bc1538abc]: Textual amendment: Word in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/b/i)
+[^c-c4af1efb7302f556153dbe5bc1538abc]: Textual amendment: Word in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/b/i)
 
-[^key-0e20f88a52e6047a0a8c4fe1a45f0517]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/b/ii)
+[^c-0e20f88a52e6047a0a8c4fe1a45f0517]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/34/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 64(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/64/3/b/ii)
 
 [^f00019]: Footnote: S.I. [2003/495](https://www.legislation.gov.uk/uksi/2003/495).
 
-[^key-8d7fedf184c78ef5f3c1644fe9616f7a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2003/492/regulation/35) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-8d7fedf184c78ef5f3c1644fe9616f7a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2003/492/regulation/35) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-1f1de11ae5820644b4ec5a6d2d105f28]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/35/1/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
+[^c-1f1de11ae5820644b4ec5a6d2d105f28]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/35/1/a) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/b)
 
-[^key-e09e78bcdacb588172accc1124d201a8]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/35/2/b) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/c)
+[^c-e09e78bcdacb588172accc1124d201a8]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/35/2/b) substituted (1.11.2010) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2010 (S.I. 2010/2459)](https://www.legislation.gov.uk/uksi/2010/2459), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2459/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2010/2459/regulation/2/c)
 
 [^f00020]: Footnote: S.I. [1984/1960](https://www.legislation.gov.uk/uksi/1984/1960). Regulation 7 was revoked, together with other parts of the instrument, by the Schedule to S.I. [1987/491](https://www.legislation.gov.uk/uksi/1987/491) and Schedule 10 to S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
 [^f00021]: Footnote: [S.R. 1985 No. 124](https://www.legislation.gov.uk/nisr/1985/124). Regulation 7 was revoked, together with other parts of the instrument, by the Schedule to [S.R. 1987 No. 122](https://www.legislation.gov.uk/nisr/1987/122) and Schedule 9 to [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465).
 
-[^key-ac9e930d76f9f2311d00d896381c071f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2003/492/regulation/36) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-ac9e930d76f9f2311d00d896381c071f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2003/492/regulation/36) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00022]: Footnote: Subsection (5) of section 71 was amended, and subsection (5A) of that section inserted, by section 1(3) and (4) of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51) and both those subsections were amended by paragraph 81(2) and (3) of the Social Security Act 1998.
 
 [^f00023]: Footnote: Subsection (5) of section 69 was amended, and subsection (5A) of that section inserted, by section 2(3) and (4) of the Social Security (Overpayments) Act 1996 and both those subsections were amended by paragraph 62(2) and (3) of Schedule 6 to S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
 
-[^key-c2645565219c1952733c4c6a103d1098]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2003/492/regulation/37) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-c2645565219c1952733c4c6a103d1098]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2003/492/regulation/37) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-a54c8dce1dbe4c2743bb122107337f14]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2003/492/regulation/38) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-a54c8dce1dbe4c2743bb122107337f14]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2003/492/regulation/38) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-2f69f39d431f285fab641e7a16f3acbb]: Textual amendment: Words in [reg. 38(4)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/38/4/a) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/7/a)
+[^c-2f69f39d431f285fab641e7a16f3acbb]: Textual amendment: Words in [reg. 38(4)(a)](https://www.legislation.gov.uk/uksi/2003/492/regulation/38/4/a) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/7/a)
 
-[^key-62086ebde9924d8c772a50dd6c76ddb7]: Textual amendment: Words in [reg. 38(4)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/38/4/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/7/b)
+[^c-62086ebde9924d8c772a50dd6c76ddb7]: Textual amendment: Words in [reg. 38(4)(b)](https://www.legislation.gov.uk/uksi/2003/492/regulation/38/4/b) substituted (10.4.2006) by [The Child Benefit and Guardian’s Allowance (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/203)](https://www.legislation.gov.uk/uksi/2006/203), [regs. 1](https://www.legislation.gov.uk/uksi/2006/203/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2006/203/regulation/2/7/b)
 
-[^key-73ec7e6166ba3be779dd984b7a490e2d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2003/492/regulation/39) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-73ec7e6166ba3be779dd984b7a490e2d]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2003/492/regulation/39) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-02f053529a703cc5ee9dd10359297fd2]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2003/492/regulation/40) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-02f053529a703cc5ee9dd10359297fd2]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2003/492/regulation/40) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-e756f8ff9607525518d9dfd6aec54c0c]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2003/492/regulation/41) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-e756f8ff9607525518d9dfd6aec54c0c]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2003/492/regulation/41) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-c71f3e9d4b0400692e240c8e29f4e9d8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2003/492/regulation/42) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-c71f3e9d4b0400692e240c8e29f4e9d8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2003/492/regulation/42) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-29c85b132e3d95d51cdf270e96d692a0]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2003/492/regulation/42A) inserted (8.5.2012) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2012 (S.I. 2012/1074)](https://www.legislation.gov.uk/uksi/2012/1074), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1074/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1074/regulation/3)
+[^c-29c85b132e3d95d51cdf270e96d692a0]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2003/492/regulation/42A) inserted (8.5.2012) by [The Child Benefit and Guardian’s Allowance (Administration) (Amendment) Regulations 2012 (S.I. 2012/1074)](https://www.legislation.gov.uk/uksi/2012/1074), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1074/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1074/regulation/3)
 
-[^key-3507de42ab381e8068d4df35c279f861]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3507de42ab381e8068d4df35c279f861]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-112be8c1eb37533e27da7f1e57fbe98a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-112be8c1eb37533e27da7f1e57fbe98a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-f1859f1ec2147070e2c9c544a038a4d2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-f1859f1ec2147070e2c9c544a038a4d2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00024]: Footnote: Paragraph (hh) was inserted in section 5(1) by section 74 of the Social Security Act 1998.
 
@@ -1285,7 +1285,7 @@ Part 6 (regulations 43 and 44), together with Schedule 3, contains revocations a
 
 [^f00026]: Footnote: Section 191 is cited because of the definition of “prescribe”.
 
-[^key-aa67b38df29304a2da6cf6cfda01aa97]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-aa67b38df29304a2da6cf6cfda01aa97]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00027]: Footnote: Paragraph (hh) was inserted in subsection (1) of section 5 by Article 70 of S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506) and paragraph (t) was added in that subsection by Article 3(1) of S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579).
 
@@ -1293,52 +1293,52 @@ Part 6 (regulations 43 and 44), together with Schedule 3, contains revocations a
 
 [^f00029]: Footnote: Section 167(1) is cited because of the definition of “prescribe”.
 
-[^key-ce0e101d33e557ef6ad5db6834d83569]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-ce0e101d33e557ef6ad5db6834d83569]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00030]: Footnote: Section 84 is cited because of the definition of “prescribe”.
 
-[^key-ea6020081c6a7a590d3c93b52ded9751]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-ea6020081c6a7a590d3c93b52ded9751]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00031]: Footnote: Article 2(2) is cited because of the definition of “prescribe”.
 
-[^key-4f5b88693e628b6c8f74845a6a3bc6e8]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-4f5b88693e628b6c8f74845a6a3bc6e8]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00032]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-5ac2301cd5e2cd0c2f4c49ac30eecc64]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-5ac2301cd5e2cd0c2f4c49ac30eecc64]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2003/492/schedule/1/paragraph/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-933e0ac9ab6d269d0d72c0703c4fc778]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2) applied (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003 (S.I. 2003/916)](https://www.legislation.gov.uk/uksi/2003/916), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/4/1)
+[^c-933e0ac9ab6d269d0d72c0703c4fc778]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2) applied (for specified purposes and with effect in accordance with reg. 1(2) of the amending S.I.) by [The Child Benefit and Guardian’s Allowance (Decisions and Appeals) Regulations 2003 (S.I. 2003/916)](https://www.legislation.gov.uk/uksi/2003/916), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/4/1)
 
-[^key-567fee47cf12306b97bd96e3a880226c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-567fee47cf12306b97bd96e3a880226c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
 [^f00033]: Footnote: S.I. [2002/1789](https://www.legislation.gov.uk/uksi/2002/1789).
 
 [^f00034]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). See generally section 54(10) of the Tax Credits Act 2002.
 
-[^key-9354f447c4f1961032a15fa28e318daa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-9354f447c4f1961032a15fa28e318daa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-a5eca20c49957b0ac508ee34bdb5fb70]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/2) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 23(1)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/23/1/e)[(2)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/23/2)
+[^c-a5eca20c49957b0ac508ee34bdb5fb70]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/2) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 23(1)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/23/1/e)[(2)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/23/2)
 
-[^key-58ee89bd3128d571634b7f9d432cc767]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-58ee89bd3128d571634b7f9d432cc767]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/3) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-434ac8da3da986517de91680b5be79fa]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-434ac8da3da986517de91680b5be79fa]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/4) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-14b0ddec8cd29f8251a5803ebdf7f5aa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-14b0ddec8cd29f8251a5803ebdf7f5aa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/5) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-bfbae184d75c59bfc9f95ae0128ceefb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-bfbae184d75c59bfc9f95ae0128ceefb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/6) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-9244c1caeda873a28699e3862444459d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/7) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-9244c1caeda873a28699e3862444459d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/7) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-d7409bb650062e3c9551d9bd2c5d951b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/8) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-d7409bb650062e3c9551d9bd2c5d951b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/8) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-3e134425fe9ec45b7ea7cb9e7a6d8184]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/9) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3e134425fe9ec45b7ea7cb9e7a6d8184]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/9) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-882f3d484185d22aadee4d6ef1e68427]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/10) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-882f3d484185d22aadee4d6ef1e68427]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/10) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-3e87ef78725d255e7ce80be40c2fa6e1]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/11) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-3e87ef78725d255e7ce80be40c2fa6e1]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/11) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-f583cc66bce56b4f0a42fd0922115aac]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/12) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-f583cc66bce56b4f0a42fd0922115aac]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2003/492/schedule/2/paragraph/12) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-0266b63f5e63b065ffb49cdad568a127]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-0266b63f5e63b065ffb49cdad568a127]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
 
-[^key-93c153e34fa064ecdd8c64b1ec525173]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)
+[^c-93c153e34fa064ecdd8c64b1ec525173]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) in force at 7.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1)

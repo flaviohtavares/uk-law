@@ -40,13 +40,13 @@ summary: ''
 - (c) the address to which the document is to be sent;
 - (d) in the case of a document to be delivered by electronic means, the hardware and software to be used, and technical specifications (for example, matters relating to protocol, security, anti-virus protection or encryption).
 
-(4A)[^key-1aceca2ce99e0c07d328956f04369817] Any requirements under subsection (4)(b) to (d) must be imposed by means of registrar’s rules.
+(4A)[^c-1aceca2ce99e0c07d328956f04369817] Any requirements under subsection (4)(b) to (d) must be imposed by means of registrar’s rules.
 
-(5)[^key-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-6c0ff93f8284155ec71cc5b77caac0f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Requirements imposed under this section must not be inconsistent with requirements imposed by any enactment with respect to the form, authentication or manner of delivery of the document concerned.
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^c20613891]: Textual amendment: S. 1068(3)(c) substituted (1.10.2009) by [The Companies Act 2006 (Part 35) (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1802)](https://www.legislation.gov.uk/uksi/2009/1802), [art. 6](https://www.legislation.gov.uk/uksi/2009/1802/article/6)
 
-[^key-1aceca2ce99e0c07d328956f04369817]: Textual amendment: [S. 1068(4A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1068/4A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 75(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/75/2/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z17)
+[^c-1aceca2ce99e0c07d328956f04369817]: Textual amendment: [S. 1068(4A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1068/4A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 75(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/75/2/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z17)
 
-[^key-6c0ff93f8284155ec71cc5b77caac0f2]: Textual amendment: [S. 1068(5)-(6A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1068/5) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 75(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/75/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z17)
+[^c-6c0ff93f8284155ec71cc5b77caac0f2]: Textual amendment: [S. 1068(5)-(6A)](https://www.legislation.gov.uk/ukpga/2006/46/section/1068/5) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 75(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/75/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z17)

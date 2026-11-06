@@ -45,51 +45,51 @@ The Department for Regional Development[^f00001] being a Department designated[^
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-6f54b206bbae287712df07ac290da644]
+### 1. Citation and commencement[^c-6f54b206bbae287712df07ac290da644]
 
 (1) These Regulations may be cited as the Train Driving Licences and Certificates Regulations (Northern Ireland) 2010.
 
 (2) These Regulations come into operation on 10th May 2010 but will have effect in accordance with the transitional provisions in regulation 41.
 
-### 2. Interpretation[^key-30a67517bd4e9f1857a6cfc60cc1f603]
+### 2. Interpretation[^c-30a67517bd4e9f1857a6cfc60cc1f603]
 
 (1) In these Regulations—
 
 - “the 1978 Order” means the Health and Safety at Work (Northern Ireland) Order 1978[^f00004];
-- [^key-008797f4f09ca7ff79053bdfa0fd53e6]...
-- “the Department” means the Department for Infrastructure renamed as such by the Departments Act (Northern Ireland) 2016 and originally established as the Department for Regional Development by article 3(1) of the Departments (Northern Ireland) Order 1999;[^key-418d74157fe2d59c4296764dbc89fb95]
-- “the Directive” means Directive 2007/59/EC of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community, as amended from time to time, before and after exit day;[^key-57fe19b70530bb1fdc73beb00d6303ec]
+- [^c-008797f4f09ca7ff79053bdfa0fd53e6]...
+- “the Department” means the Department for Infrastructure renamed as such by the Departments Act (Northern Ireland) 2016 and originally established as the Department for Regional Development by article 3(1) of the Departments (Northern Ireland) Order 1999;[^c-418d74157fe2d59c4296764dbc89fb95]
+- “the Directive” means Directive 2007/59/EC of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community, as amended from time to time, before and after exit day;[^c-57fe19b70530bb1fdc73beb00d6303ec]
 - “employed” means employed whether under a contract of employment or as an independent contractor, and related expressions must be construed accordingly;
-- “European train driving licence” means a licence issued by a safety authority in accordance with article 14 of the Directive indicating that the holder satisfies medical, educational and professional skills for train driving;[^key-b1d19dde58aaef044708a15d7983f9c3]
+- “European train driving licence” means a licence issued by a safety authority in accordance with article 14 of the Directive indicating that the holder satisfies medical, educational and professional skills for train driving;[^c-b1d19dde58aaef044708a15d7983f9c3]
 - “GB train driving licence” means a licence issued by or on behalf of the Office of Rail and Road under the Train Driving Licences and Certificates Regulations 2010 indicating that the holder satisfies medical, educational and professional skills requirements for train driving;
-- “in code form” is a reference to a code representing additional information or a medical restriction, as provided for in Commission Regulation 2010/36, as amended from time to time;[^key-fdd0916966cd96355e98e2a10c2f1831]
+- “in code form” is a reference to a code representing additional information or a medical restriction, as provided for in Commission Regulation 2010/36, as amended from time to time;[^c-fdd0916966cd96355e98e2a10c2f1831]
 - “infrastructure manager” means a person who is required, by regulation 3 of the Railways (Safety Management) Regulations (Northern Ireland) 2006[^f00007], to be the holder of a safety authorisation;
-- “the Office of Rail and Road” means the body established by section 15 of the Railways and Transport Safety Act 2003;[^key-4754a6afac7ac3be1d5a9a862b7a06d7]
-- “railway undertaking” means the holder of a safety certificate issued by the Department in accordance with regulation 5 or 7 of the Railways (Safety Management) Regulations (Northern Ireland) 2006;[^key-1e1b36b6057782eac4133fa224903c1b]
-- “Recast Safety Directive” means Directive (EU) 2016/798 of the European Parliament and of the Council on railway safety (recast);[^key-63e7c61e1ca10840c341d61a7d624b0d]
+- “the Office of Rail and Road” means the body established by section 15 of the Railways and Transport Safety Act 2003;[^c-4754a6afac7ac3be1d5a9a862b7a06d7]
+- “railway undertaking” means the holder of a safety certificate issued by the Department in accordance with regulation 5 or 7 of the Railways (Safety Management) Regulations (Northern Ireland) 2006;[^c-1e1b36b6057782eac4133fa224903c1b]
+- “Recast Safety Directive” means Directive (EU) 2016/798 of the European Parliament and of the Council on railway safety (recast);[^c-63e7c61e1ca10840c341d61a7d624b0d]
 - “recognised doctor” means a registered medical practitioner whose name appears in a register of doctors that the Department has published, or caused to be published, under regulation 21(1)(a);
 - “recognised examiner” means a person whose name appears in a register of examiners that the Department has published, or caused to be published, under regulation 21(1)(d);
 - “recognised psychologist” means a person who holds the qualification of the British Psychological Society Certificate in Occupational Testing (Level A) and whose name appears in a register of psychologists that the Department has published, or caused to be published, under regulation 21(1)(b);
 - “recognised trainer” means a person whose name appears in a register of trainers that the Department has published, or caused to be published, under regulation 21(1)(c);
-- “safety authority” means an authority established in an EEA state in accordance with article 16(1) of Directive 2004/49/EC of the European Parliament and of the Council on safety on the Community’s railways and amending Directive 95/18 EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification or article 16(1) of the Recast Safety Directive;[^key-8d0a582e2ff8a7566c4fca5b37cf431e]
+- “safety authority” means an authority established in an EEA state in accordance with article 16(1) of Directive 2004/49/EC of the European Parliament and of the Council on safety on the Community’s railways and amending Directive 95/18 EC on the licensing of railway undertakings and Directive 2001/14/EC on the allocation of infrastructure capacity and the levying of charges for the use of railway infrastructure and safety certification or article 16(1) of the Recast Safety Directive;[^c-8d0a582e2ff8a7566c4fca5b37cf431e]
 - “safety management system”, in relation to a railway undertaking or an infrastructure manager, means the organisation and arrangements established by it, under regulation 4 of the Railway (Safety Management) Regulations (Northern Ireland) 2006, to ensure the safe management of its operation;
 - “train” includes a locomotive, a shunting locomotive, a work train and a maintenance railway vehicle;
-- “train driving certificate” means a certificate issued by a railway undertaking or infrastructure manager under these Regulations indicating the infrastructure on which the holder is authorised to drive and the types of train which the holder is authorised to drive;[^key-29de86da99e3adb83dc968de90c5cdcd]
-- “train driving licence” means a licence issued by or on behalf of the Department under these Regulations indicating that the holder satisfies medical, educational and professional skills requirements for train driving;[^key-47acac482b6d6544be32d1b533e37235]
+- “train driving certificate” means a certificate issued by a railway undertaking or infrastructure manager under these Regulations indicating the infrastructure on which the holder is authorised to drive and the types of train which the holder is authorised to drive;[^c-29de86da99e3adb83dc968de90c5cdcd]
+- “train driving licence” means a licence issued by or on behalf of the Department under these Regulations indicating that the holder satisfies medical, educational and professional skills requirements for train driving;[^c-47acac482b6d6544be32d1b533e37235]
 
-(2)[^key-d260f71700248d303c12a328206c2beb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d260f71700248d303c12a328206c2beb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Application and extent[^key-0bc976d3cd94b9b18bae6f1cba3ea789]
+### 3. Application and extent[^c-0bc976d3cd94b9b18bae6f1cba3ea789]
 
 These Regulations apply in relation to the driving of trains on the Northern Ireland railway network.
 
 ## PART 2 — LICENSING AND CERTIFICATION OF TRAIN DRIVERS
 
-### 4. Requirement for licences and certificates[^key-e6bba57d2c5316279259ae326eb22dac]
+### 4. Requirement for licences and certificates[^c-e6bba57d2c5316279259ae326eb22dac]
 
-(1)[^key-fe5cb387892d8867c8d1f3ed806200f5] Subject to paragraph (10) a railway undertaking must not cause or permit a person to drive a train unless that person is authorised to do so by—
+(1)[^c-fe5cb387892d8867c8d1f3ed806200f5] Subject to paragraph (10) a railway undertaking must not cause or permit a person to drive a train unless that person is authorised to do so by—
 
 - (a) a train driving licence;
 - (b) a European train driving licence; or
@@ -99,12 +99,12 @@ These Regulations apply in relation to the driving of trains on the Northern Ire
 
 (3) Subject to paragraphs (6) and (10), a person may not drive a train unless that person is authorised to do so by—
 
-- (a)[^key-c5eed50be2fcd591a5ef6c92a26450ba] a train driving licence or a European train driving licence or a GB train driving licence;
+- (a)[^c-c5eed50be2fcd591a5ef6c92a26450ba] a train driving licence or a European train driving licence or a GB train driving licence;
 - (b) a train driving certificate for the category of train driven and the infrastructure used.
 
-(4)[^key-d1c0f23cab5ea068d05b95fedb822680] Subject to paragraph (10), a person who drives a train must have their train driving licence and their train driving certificate with them whilst driving it or otherwise be able on board the train to satisfy the Department or their inspector duly appointed under regulation 40, that they are so authorised to drive the train by the required train driving licence and train driving certificate.
+(4)[^c-d1c0f23cab5ea068d05b95fedb822680] Subject to paragraph (10), a person who drives a train must have their train driving licence and their train driving certificate with them whilst driving it or otherwise be able on board the train to satisfy the Department or their inspector duly appointed under regulation 40, that they are so authorised to drive the train by the required train driving licence and train driving certificate.
 
-(5)[^key-07204532d47c2ec89bdc4a0cc2fab739] Subject to paragraph (10), a railway undertaking must take reasonable steps to ensure that a person they cause or permit to drive a train has their train driving licence and their train driving certificate with them whilst driving it, or are otherwise able to satisfy the requirements of paragraph (4)
+(5)[^c-07204532d47c2ec89bdc4a0cc2fab739] Subject to paragraph (10), a railway undertaking must take reasonable steps to ensure that a person they cause or permit to drive a train has their train driving licence and their train driving certificate with them whilst driving it, or are otherwise able to satisfy the requirements of paragraph (4)
 
 (6) Subject to paragraph (7) and if a railway undertaking so decides a train driver it causes or permits to drive a train on specific infrastructure need not be authorised by their train driving certificate to drive it on that infrastructure in the following cases—
 
@@ -114,37 +114,37 @@ These Regulations apply in relation to the driving of trains on the Northern Ire
 - (d) the delivery of, or demonstration of, a new train; or
 - (e) to enable the training or the examination of the train driver.
 
-(7)[^key-d2812c061042d0a2e3f7f78a368efd50] Paragraph (6) does not apply unless—
+(7)[^c-d2812c061042d0a2e3f7f78a368efd50] Paragraph (6) does not apply unless—
 
 - (a) subject to regulation 41(9), another train driver, who holds a train driving licence and a train driving certificate relating to the specific infrastructure, accompanies and supervises the driver in the cab whilst the train is driven on that infrastructure; and
 - (b) the infrastructure manager of the specific infrastructure is given prior notice.
 
 (8) An infrastructure manager may not oblige a railway undertaking to make a decision under paragraph (6).
 
-(9) A European train driving licence or a GB train driving licence issued[^key-c683894de28db652b3fa5c835f7ab4e0] on the basis of an exemption from the medical requirements set out in Schedule 1 is not valid in Northern Ireland.
+(9) A European train driving licence or a GB train driving licence issued[^c-c683894de28db652b3fa5c835f7ab4e0] on the basis of an exemption from the medical requirements set out in Schedule 1 is not valid in Northern Ireland.
 
-(10)[^key-df66462d36b80f49436d9c66969bc1af] Subject to regulation 41(10), a person who is training to be a train driver may drive a train without being authorised to do so by a train driving licence or a train driving certificate provided that a train driver, who is authorised by a train driving certificate relating to the category of train driven and the infrastructure used, accompanies and supervises that person in the cab whilst that person drives the train.
+(10)[^c-df66462d36b80f49436d9c66969bc1af] Subject to regulation 41(10), a person who is training to be a train driver may drive a train without being authorised to do so by a train driving licence or a train driving certificate provided that a train driver, who is authorised by a train driving certificate relating to the category of train driven and the infrastructure used, accompanies and supervises that person in the cab whilst that person drives the train.
 
-### 5. Licence and certificate characteristics[^key-84709e3471745f42b29235ab4dc6c328]
+### 5. Licence and certificate characteristics[^c-84709e3471745f42b29235ab4dc6c328]
 
-(1) The form of a train driving licence [^key-02fdeb90f15d3482fefe18b803f5ac0f]... and a train driving certificate, issued [^key-02fdeb90f15d3482fefe18b803f5ac0f]... under these Regulations must comply with the requirements set out in Schedule 2.
+(1) The form of a train driving licence [^c-02fdeb90f15d3482fefe18b803f5ac0f]... and a train driving certificate, issued [^c-02fdeb90f15d3482fefe18b803f5ac0f]... under these Regulations must comply with the requirements set out in Schedule 2.
 
 (2) In particular, a train driving certificate must show the categories within which the train driver may drive comprising either or both of—
 
 - (a) Category A — shunting locomotives, work trains, maintenance railway vehicles and all other locomotives when they are used for shunting; and
 - (b) Category B — carriage of passengers or goods or both.
 
-### 6. Ownership of train driving licence[^key-df44f9839f0c487f6d61cdb66770c5f1]
+### 6. Ownership of train driving licence[^c-df44f9839f0c487f6d61cdb66770c5f1]
 
 A train driving licence is owned by the person named in it as the holder.
 
-### 7. Ownership of the train driving certificate[^key-7e9eb6330fa389682918acb6f2353c95]
+### 7. Ownership of the train driving certificate[^c-7e9eb6330fa389682918acb6f2353c95]
 
 A train driving certificate is owned by the railway undertaking which issued it to the holder.
 
 ## PART 3 — CONDITIONS FOR OBTAINING LICENCES AND CERTIFICATES
 
-### 8. Conditions for obtaining a train driving licence[^key-b7eb0390256ad09222d59dd4325b0518]
+### 8. Conditions for obtaining a train driving licence[^c-b7eb0390256ad09222d59dd4325b0518]
 
 (1) The Department must issue a train driving licence to an applicant if it is satisfied the applicant has—
 
@@ -161,7 +161,7 @@ A train driving certificate is owned by the railway undertaking which issued it 
 
 (4) For the purpose of paragraph (1)(f) the required general professional competence examination means an examination that covers the objectives and requirements set out in Schedule 3.
 
-### 9. Conditions for obtaining a train driving certificate[^key-e40b7d011523cbc831cced16a7cd3e02]
+### 9. Conditions for obtaining a train driving certificate[^c-e40b7d011523cbc831cced16a7cd3e02]
 
 (1) A railway undertaking must issue a train driving certificate to an applicant if it is satisfied the applicant—
 
@@ -186,7 +186,7 @@ A train driving certificate is owned by the railway undertaking which issued it 
 
 ## PART 4 — PROCEDURE FOR OBTAINING LICENCES AND CERTIFICATES
 
-### 10. Procedure for obtaining a train driving licence[^key-59fecb74f9df99ba9774e225b38d1c58]
+### 10. Procedure for obtaining a train driving licence[^c-59fecb74f9df99ba9774e225b38d1c58]
 
 (1) The Department must publish on its website the application procedures for obtaining a new train driving licence, for the updating of the particulars of such a licence, for the renewal of such a licence and for the issue of a duplicate licence.
 
@@ -198,11 +198,11 @@ A train driving certificate is owned by the railway undertaking which issued it 
 
 (5) The Department may issue a duplicate train driving licence.
 
-(6)[^key-cde1e59c59ce5d198f718718f0a4003b] A person who is aggrieved by a decision not to issue a train driving licence may appeal to a tribunal established for the purposes of hearing an appeal under these Regulations
+(6)[^c-cde1e59c59ce5d198f718718f0a4003b] A person who is aggrieved by a decision not to issue a train driving licence may appeal to a tribunal established for the purposes of hearing an appeal under these Regulations
 
 (7) The model provisions with respect to appeals which are set out in The Deregulation (Model Appeals Provisions) Order (Northern Ireland) 1997 shall apply to an appeal under paragraph (6)
 
-### 11. Procedure for obtaining a train driving certificate[^key-690f86b4dd8ef333932870df19c5320e]
+### 11. Procedure for obtaining a train driving certificate[^c-690f86b4dd8ef333932870df19c5320e]
 
 (1) A railway undertaking must set up—
 
@@ -213,7 +213,7 @@ A train driving certificate is owned by the railway undertaking which issued it 
 
 (3) A person who has requested a review of a decision under paragraph (1)(b) may appeal to the Department if dissatisfied with the outcome.
 
-(3A)[^key-56e542cd2d652057b51464db2798555c] The model provisions with respect to appeals which are set out in the Deregulation (Model Appeals Provisions) Order (Northern Ireland) 1997 shall apply to an appeal under paragraph (3)
+(3A)[^c-56e542cd2d652057b51464db2798555c] The model provisions with respect to appeals which are set out in the Deregulation (Model Appeals Provisions) Order (Northern Ireland) 1997 shall apply to an appeal under paragraph (3)
 
 (4) A railway undertaking must publish on its website—
 
@@ -222,18 +222,18 @@ A train driving certificate is owned by the railway undertaking which issued it 
 
 and applications or requests made to them under paragraph (1) must be made in accordance with the procedures referred to in that paragraph.
 
-(5)[^key-54c20011ecf7a4eab472de0048ce384c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-54c20011ecf7a4eab472de0048ce384c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-54c20011ecf7a4eab472de0048ce384c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-54c20011ecf7a4eab472de0048ce384c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1c6406f7c7614d3de7bce0e508c3a2fa] Without prejudice to the right of any person to make an application for judicial review—
+(5)[^c-1c6406f7c7614d3de7bce0e508c3a2fa] Without prejudice to the right of any person to make an application for judicial review—
 
 - (a) a determination by the Department on an appeal brought under paragraph (3) is binding; and
 - (b) it is the duty of a railway undertaking to whom a direction is given under paragraph (6)(b) to comply with and give effect to that direction.
 
 ## PART 5 — VALIDITY OF LICENCES AND CERTIFICATES
 
-### 12. Validity and renewal of train driving licences[^key-52cad9765a95a944af0e63a9e6ff2bc3]
+### 12. Validity and renewal of train driving licences[^c-52cad9765a95a944af0e63a9e6ff2bc3]
 
 (1) Subject to regulation 34 and 37 and paragraph (3), a train driving licence is valid for 10 years.
 
@@ -241,17 +241,17 @@ and applications or requests made to them under paragraph (1) must be made in ac
 
 (3) A train driving licence ceases to be valid once it is suspended or withdrawn.
 
-### 13. Periodic checks to maintain validity of licence[^key-2c18e4b3e2d887222d9561a59070747b]
+### 13. Periodic checks to maintain validity of licence[^c-2c18e4b3e2d887222d9561a59070747b]
 
-(1) The holder of a train driving licence a GB train driving licence or a European train driving licence[^key-7917b9087aad4ad007a76ee1e89e9027] must pass periodic medical and psychological examinations relating to the requirements described in regulation 8(3) and (4).
+(1) The holder of a train driving licence a GB train driving licence or a European train driving licence[^c-7917b9087aad4ad007a76ee1e89e9027] must pass periodic medical and psychological examinations relating to the requirements described in regulation 8(3) and (4).
 
 (2) For the purpose of paragraph (1) periodic examinations with regard to medical requirements means examinations conducted at the minimum frequency and at other times set out in paragraph 3 of Schedule 1.
 
-### 14. Validity of certificate[^key-f385b630d87e826723533e1d68c4d299]
+### 14. Validity of certificate[^c-f385b630d87e826723533e1d68c4d299]
 
 A train driving certificate ceases to be valid once it is suspended or withdrawn or regulation 16(2) applies
 
-### 15. Periodic checks to maintain validity of certificate[^key-d233e0a37adaadf72c8fc3b5e16b8671]
+### 15. Periodic checks to maintain validity of certificate[^c-d233e0a37adaadf72c8fc3b5e16b8671]
 
 (1) The holder of a train driving certificate must undergo periodic examinations relating to the requirements described in regulation 9(1)(b) to (d).
 
@@ -259,7 +259,7 @@ A train driving certificate ceases to be valid once it is suspended or withdrawn
 
 (3) When the holder of a train driving certificate passes the examinations required by paragraph (1) the certificate must be endorsed with a statement to that effect by the railway undertaking that issued it.
 
-### 16. Cessation of employment[^key-e9a108e82685ba5e6eafe55091f01647]
+### 16. Cessation of employment[^c-e9a108e82685ba5e6eafe55091f01647]
 
 (1) A railway undertaking must give written notice to the Department when a train driver ceases to be employed by it as a train driver.
 
@@ -270,7 +270,7 @@ A train driving certificate ceases to be valid once it is suspended or withdrawn
 - (a) a certified copy of it endorsed to indicate when it ceased to be valid; and
 - (b) a copy of all documents providing evidence of the driver’s training, qualifications, experience and professional competence relevant to train driving undergone, obtained or achieved by the driver whilst employed as a train driver by that body.
 
-### 17. Monitoring[^key-8042e30c02b3a4705febe8a3c7321fca]
+### 17. Monitoring[^c-8042e30c02b3a4705febe8a3c7321fca]
 
 (1) A railway undertaking must establish a system for monitoring train drivers employed by it.
 
@@ -278,35 +278,35 @@ A train driving certificate ceases to be valid once it is suspended or withdrawn
 
 - (a) informing the Department of matters relevant to the continuing validity of the licence;
 - (b) requiring that driver to undergo the relevant examinations and training referred to in regulations 8(1)(d) to (f) and 9(1)(b) to (d); and
-- (c) suspending or withdrawing the driver’s train driving certificate[^key-650b57818f2eb0aca45ae87a61259655].
+- (c) suspending or withdrawing the driver’s train driving certificate[^c-650b57818f2eb0aca45ae87a61259655].
 
-(3) A train driver who considers that their[^M_F_07711486-0e5a-4e9d-9f57-c37684b02538] state of health calls into question their fitness to drive trains must immediately inform the railway undertaking by whom they are[^key-065b67bb85290290ce02139a586b629c] employed.
+(3) A train driver who considers that their[^M_F_07711486-0e5a-4e9d-9f57-c37684b02538] state of health calls into question their fitness to drive trains must immediately inform the railway undertaking by whom they are[^c-065b67bb85290290ce02139a586b629c] employed.
 
-(4) A railway undertaking that becomes aware that a train driver employed by it has failed to comply with regulation 13 or 15, or has failed an examination required by those regulations, or that the health of a train driver has deteriorated to a point where the driver’s[^key-68652a51912f601a1a32769826337fec] fitness for the job is called into question, must immediately take any necessary action which may include—
+(4) A railway undertaking that becomes aware that a train driver employed by it has failed to comply with regulation 13 or 15, or has failed an examination required by those regulations, or that the health of a train driver has deteriorated to a point where the driver’s[^c-68652a51912f601a1a32769826337fec] fitness for the job is called into question, must immediately take any necessary action which may include—
 
-- (a) informing the Department of matters relevant to the continuing validity of the driver’s train driving[^key-f2a601de33826be0848babec84bc6b7e] licence;
+- (a) informing the Department of matters relevant to the continuing validity of the driver’s train driving[^c-f2a601de33826be0848babec84bc6b7e] licence;
 - (b) requiring that driver to undergo the relevant periodic examinations referred to in regulations 13 or 15; or
-- (c) suspending[^M_F_9e7ca369-181d-4e75-dc8a-dddc991dce59] or withdrawing of the driver’s[^key-c9cebfc7e9610e13662daa656cc4d35b] train driving certificate.
+- (c) suspending[^M_F_9e7ca369-181d-4e75-dc8a-dddc991dce59] or withdrawing of the driver’s[^c-c9cebfc7e9610e13662daa656cc4d35b] train driving certificate.
 
 (2) A railway undertaking must inform the Department when a train driver employed by it has suffered work incapacity for a period of more than three months.
 
-(6)[^key-d220e188d1b68d09793896467543fca4] For the purposes of paragraphs (2) and (4) a train driving licence includes a European train driving licence and a GB train driving licence.
+(6)[^c-d220e188d1b68d09793896467543fca4] For the purposes of paragraphs (2) and (4) a train driving licence includes a European train driving licence and a GB train driving licence.
 
-## PART 6 — DECISIONS OF THE DEPARTMENT[^key-a420b798dd1dab78107d2b355801a5c1]
+## PART 6 — DECISIONS OF THE DEPARTMENT[^c-a420b798dd1dab78107d2b355801a5c1]
 
-### 18. Review of decisions of the Department[^key-59bf1e9b25039d2fef2a821258520fea][^key-cf0ed63ffd7c2dfbf87546bdd2e3c997]
+### 18. Review of decisions of the Department[^c-59bf1e9b25039d2fef2a821258520fea][^c-cf0ed63ffd7c2dfbf87546bdd2e3c997]
 
 The Department must state in writing the reasons for any decision made by it under these Regulations.
 
-(2)[^key-950c0cc06b99fdae7a67dafe1d0da9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-950c0cc06b99fdae7a67dafe1d0da9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Review process[^key-cbcad0433fc00cfbdbddc5370249f241]
+### 19. Review process[^c-cbcad0433fc00cfbdbddc5370249f241]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — DELEGATION OF FUNCTIONS BY THE DEPARTMENT
 
-### 20. Delegation of functions by the Department[^key-ee453df77b4e20335856ada7bcd23c59]
+### 20. Delegation of functions by the Department[^c-ee453df77b4e20335856ada7bcd23c59]
 
 (1) Subject to paragraphs (2) and (3), the Department may delegate to any person the exercise of the following functions—
 
@@ -325,7 +325,7 @@ The Department must state in writing the reasons for any decision made by it und
 
 ## PART 8 — REGISTERS AND INFORMATION
 
-### 21. Registers of recognised persons[^key-8da76aff69a3e198b05300967d14c758]
+### 21. Registers of recognised persons[^c-8da76aff69a3e198b05300967d14c758]
 
 (1) The Department must establish, keep up to date and publish registers of—
 
@@ -338,43 +338,43 @@ recognised by the Department as competent to carry out functions under, or refer
 
 (2) Trainers and Examiners may be individuals or bodies of persons corporate or unincorporated.
 
-(3) Subject to paragraph (5)[^key-aec330807db1ec3a64a794987e6fe640], the inclusion of a person in a register referred to in paragraph (1) must be based on the criteria of independence, competence and impartiality.
+(3) Subject to paragraph (5)[^c-aec330807db1ec3a64a794987e6fe640], the inclusion of a person in a register referred to in paragraph (1) must be based on the criteria of independence, competence and impartiality.
 
-(4)[^key-7d6f3fa9e293c44ea8dae3241f180a92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d6f3fa9e293c44ea8dae3241f180a92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The criterion of independence referred to in paragraph (3) does not apply in respect of the training referred to in regulation 29.
 
-### 22. Registers of train driving licences[^key-f19af9fcf0d6dd9ed534d52676da9231]
+### 22. Registers of train driving licences[^c-f19af9fcf0d6dd9ed534d52676da9231]
 
 (1) The Department must establish and keep up to date a register of train driving licences issued, updated, renewed, amended, expired, suspended or withdrawn by it, and any such licences reported lost, stolen or destroyed.
 
 (2) The register must contain the data required for licences by paragraph 4 of Schedule 2 and must be accessible by the use of a national number allotted to each train driver.
 
-### 23. Registers of train driving certificates[^key-63d42366b74337e9696c81895b13f73d]
+### 23. Registers of train driving certificates[^c-63d42366b74337e9696c81895b13f73d]
 
 (1) Each railway undertaking must establish and keep up to date, a register of all train driving certificates issued, updated, suspended or withdrawn by it, and any such certificates reported lost, stolen or destroyed.
 
 (2) The register must contain the data required for certificates by paragraph 4 of Schedule 2.
 
-### 24. Information for the register of train driving licences[^key-749a56e512db99cb109bacbac96efa9c]
+### 24. Information for the register of train driving licences[^c-749a56e512db99cb109bacbac96efa9c]
 
 If the Department delegates its functions under regulations 20(1)(a) to a railway undertaking, that undertaking must provide the Department with any information it obtains which is required by the Department to keep the register of train driving licences required by regulation 22 up to date.
 
-### 25. Information relating to the status of train driving licences[^key-ee0fffbe3e8de4d30d8558bdd570f757]
+### 25. Information relating to the status of train driving licences[^c-ee0fffbe3e8de4d30d8558bdd570f757]
 
 The Department must, upon request, provide information on the status of train driving licences to any employer of train drivers and may provide it to safety authorities.
 
-### 26. Information relating to train driving certificates etc.[^key-28f7d33afb41a41912c6b03f98991210]
+### 26. Information relating to train driving certificates etc.[^c-28f7d33afb41a41912c6b03f98991210]
 
 Railway undertakings must provide to the Department any information reasonably requested relating to train driver’s certificates issued by them or any other functions carried out by them under these Regulations.
 
-### 27. Information in relation to international train services[^key-2f37fa950be2ed520d619c2cc2054ab6]
+### 27. Information in relation to international train services[^c-2f37fa950be2ed520d619c2cc2054ab6]
 
 Railway undertakings must, upon request, provide to the Department information on the content of train driving certificates issued by them in relation to train drivers engaged on international train services and may provide it to safety authorities.
 
 ## PART 9 — TRAINING AND EXAMINATION
 
-### 28. Training content[^key-3629e1a08a6da4235e331c8d03a57e24]
+### 28. Training content[^c-3629e1a08a6da4235e331c8d03a57e24]
 
 (1) A railway undertaking that employs train drivers must ensure that their training—
 
@@ -385,9 +385,9 @@ Railway undertakings must, upon request, provide to the Department information o
   - (i) are set up to ensure that staff competencies are maintained; and
   - (ii) form part of the safety management system of the railway undertaking.
 
-(2) The training objectives referred to in paragraphs (1)(b) and (c) may be supplemented by any relevant technical specifications for interoperability adopted from time to time by the European Union[^key-559805e7432c107b1a4ecd0e33d8249c] under Council Directive [96/48/EC](https://www.legislation.gov.uk/european/directive/1996/0048) on the interoperability of the trans — European high-speed rail system[^f00011], Directive [2001/16/EC](https://www.legislation.gov.uk/european/directive/2001/0016) of the European Parliament and of the Council on the interoperability of the conventional rail system[^f00012] or Directive [2008/57/EC](https://www.legislation.gov.uk/european/directive/2008/0057) of the European Parliament and of the Council on the interoperability of the rail system within the Community[^f00013] and published in the Official Journal.
+(2) The training objectives referred to in paragraphs (1)(b) and (c) may be supplemented by any relevant technical specifications for interoperability adopted from time to time by the European Union[^c-559805e7432c107b1a4ecd0e33d8249c] under Council Directive [96/48/EC](https://www.legislation.gov.uk/european/directive/1996/0048) on the interoperability of the trans — European high-speed rail system[^f00011], Directive [2001/16/EC](https://www.legislation.gov.uk/european/directive/2001/0016) of the European Parliament and of the Council on the interoperability of the conventional rail system[^f00012] or Directive [2008/57/EC](https://www.legislation.gov.uk/european/directive/2008/0057) of the European Parliament and of the Council on the interoperability of the rail system within the Community[^f00013] and published in the Official Journal.
 
-### 29. Trainers[^key-b5b2c37211603340490514a4833169a9]
+### 29. Trainers[^c-b5b2c37211603340490514a4833169a9]
 
 (1) Subject to paragraph (2), a person may only provide training intended to enable satisfaction of the following—
 
@@ -395,19 +395,19 @@ Railway undertakings must, upon request, provide to the Department information o
 - (b) the condition in regulation 9(1)(b) relating to language skills required for obtaining a train driving certificate; or
 - (c) the condition in regulation 9(1)(c) relating to specific professional knowledge required for obtaining a train driving certificate;
 
-if that person is a recognised trainer[^key-b6c2254181fe1356a47d904798172e08].
+if that person is a recognised trainer[^c-b6c2254181fe1356a47d904798172e08].
 
-(1A)[^key-f7ef54806b8f270b6bfbeb6e289871b6] For the purposes of paragraph (1), a recognised trainer includes a trainer accredited or recognised to act as a trainer in a member State in accordance with the requirements of article 20 of the Directive.
+(1A)[^c-f7ef54806b8f270b6bfbeb6e289871b6] For the purposes of paragraph (1), a recognised trainer includes a trainer accredited or recognised to act as a trainer in a member State in accordance with the requirements of article 20 of the Directive.
 
 (2) Training relating to infrastructure knowledge, including route knowledge and operating rules and procedures may only be provided by a trainer recognised by the Department under regulation 21(1).
 
-### 30. Cost of training[^key-11a579a691abfe50c723bd32cb71de3e]
+### 30. Cost of training[^c-11a579a691abfe50c723bd32cb71de3e]
 
 (1) If a train driver voluntarily leaves the employment of one railway undertaking for another in circumstances where because of the cost the first employer has incurred in the training of that driver an undue benefit accrues to the second employer, the first employer is entitled to a reasonable contribution to those costs from the second employer.
 
 (2) In determining what is a reasonable contribution for the purpose of paragraph (1), railway undertakings must have regard to such guidance as may be published by the Department.
 
-### 31. Examinations[^key-b09d92c12232a421222cc12685316acb]
+### 31. Examinations[^c-b09d92c12232a421222cc12685316acb]
 
 (1) The Department must—
 
@@ -424,7 +424,7 @@ if that person is a recognised trainer[^key-b6c2254181fe1356a47d904798172e08].
 (3) Subject to paragraph (4), a person may only be designated as an examiner under paragraphs (1)(b) or (2)(b) if that person is—
 
 - (a) a recognised examiner; or
-- (b) recognised or accredited as competent for the purpose by a member State[^key-4007a620e23e6f9b33ce0d2555d352f9] in accordance with article 20 of the Directive.
+- (b) recognised or accredited as competent for the purpose by a member State[^c-4007a620e23e6f9b33ce0d2555d352f9] in accordance with article 20 of the Directive.
 
 (4) In so far as an examination set or approved under paragraph (2)(a) is for infrastructure knowledge evaluation, including evaluation of route knowledge and operating rules and procedures, the examiner must be a recognised examiner.
 
@@ -434,13 +434,13 @@ if that person is a recognised trainer[^key-b6c2254181fe1356a47d904798172e08].
 
 ## PART 10 — REVIEWING STANDARDS
 
-### 32. Quality standards[^key-909a93c8527cf5dfd33c95a27101c192]
+### 32. Quality standards[^c-909a93c8527cf5dfd33c95a27101c192]
 
 (1) Subject to paragraph (2), the Department must establish and implement a system to monitor and keep under continuous review the training, skills assessment and examination of train drivers under these Regulations with a view to ensuring appropriate standards are achieved and maintained.
 
 (2) Paragraph (1) does not require the duplication of monitoring and review activities already required by and carried out under the safety management system of a railway undertaking.
 
-### 33. Independent assessment[^key-d95ade02258db5248eda09fa3afb0e70]
+### 33. Independent assessment[^c-d95ade02258db5248eda09fa3afb0e70]
 
 (1) Subject to paragraph (2), five years after these Regulations come into force, and thereafter every five years, the Department must cause to be carried out, by an appropriately qualified and independent person, an assessment of—
 
@@ -457,9 +457,9 @@ under these Regulations.
 
 ## PART 11 — SUSPENSION AND WITHDRAWAL OF LICENCES AND CERTIFICATES
 
-### 34. Suspension or withdrawal of train driving licences issued by the Department[^key-93abcb2e94b7a7057677190e10283705]
+### 34. Suspension or withdrawal of train driving licences issued by the Department[^c-93abcb2e94b7a7057677190e10283705]
 
-(1) Without prejudice to regulation 37, if the Department considers that the holder of a train driving licence [^key-5548be8fc0e5ce212a33a8c3cb15dc1b]... no longer satisfies a condition required for the holding of it the Department must—
+(1) Without prejudice to regulation 37, if the Department considers that the holder of a train driving licence [^c-5548be8fc0e5ce212a33a8c3cb15dc1b]... no longer satisfies a condition required for the holding of it the Department must—
 
 - (a) suspend or withdraw the licence; and
 - (b) inform the holder concerned and his employer of—
@@ -470,14 +470,14 @@ under these Regulations.
 
 (2) If the Department suspends or withdraws a train driving licence the holder must surrender it to the Department.
 
-(3) If a safety authority or the Office of Rail and Road[^key-e13f41aeddaa16bf1e3ae63af34f5fde] —
+(3) If a safety authority or the Office of Rail and Road[^c-e13f41aeddaa16bf1e3ae63af34f5fde] —
 
 - (a) informs the Department that it considers the holder of a train driving licence issued by the Department no longer satisfies a condition required for the holding of it; and
 - (b) gives the Department a reasoned request for a review of the holder’s eligibility to hold the licence, or for the licence to be suspended or withdrawn;
 
 the Department must consider that request and, within four weeks, notify the safety authority or the Office of Rail and Road, as the case may be, of its decision whether to suspend or withdraw the licence or take any other action.
 
-### 35. Suspension or withdrawal of other train driving licences and driver prohibition[^key-471f462477cfa5c49ea4b856985c8748]
+### 35. Suspension or withdrawal of other train driving licences and driver prohibition[^c-471f462477cfa5c49ea4b856985c8748]
 
 (1) Without prejudice to regulation 37, if the Department considers that the holder of a European train driving licence no longer satisfies a condition required for the holding of it the Department may—
 
@@ -492,7 +492,7 @@ the Department must consider that request and, within four weeks, notify the saf
 
 (3) Pending any suspension or withdrawal of the licence, or other conclusion on the request under paragraph (1)(b) or (2)(b), the Department may prohibit the train driver from driving a train in Northern Ireland.
 
-### 36. Suspension or withdrawal of train driving certificates and driver prohibition[^key-e09421c576ce94e9dddf10380e35bf86]
+### 36. Suspension or withdrawal of train driving certificates and driver prohibition[^c-e09421c576ce94e9dddf10380e35bf86]
 
 (1) Without prejudice to regulation 37, if the Department considers that the holder of a train driving certificate no longer satisfies a condition required for the holding of it the Department must—
 
@@ -508,9 +508,9 @@ the Department must consider that request and, within four weeks, notify the saf
 
 (4) Pending any suspension or withdrawal of the driving certificate or other conclusion on the request referred to in paragraph (1)(b), the Department may prohibit the holder from driving a train in Northern Ireland.
 
-(5)[^key-6da58711712e16ee2932fcbc0dd59301] If the Department exercises the power in paragraph (4) it may inform the safety authorities.
+(5)[^c-6da58711712e16ee2932fcbc0dd59301] If the Department exercises the power in paragraph (4) it may inform the safety authorities.
 
-### 37. Serious threat to the safety of the railway[^key-18886a13c373137068add133562470a5]
+### 37. Serious threat to the safety of the railway[^c-18886a13c373137068add133562470a5]
 
 (1) If the Department considers that a train driver is a serious threat to the safety of the railways it must immediately take any necessary action.
 
@@ -520,35 +520,35 @@ the Department must consider that request and, within four weeks, notify the saf
 - (b) suspending or withdrawing that train driving licence, if issued by the Department; or
 - (c) prohibiting the train driver from driving a train in Northern Ireland.
 
-(3)[^key-5525ff9a2f8a5482ae06a607bd6d2b7d] If the Department takes any action under this regulation it may inform the safety authorities.
+(3)[^c-5525ff9a2f8a5482ae06a607bd6d2b7d] If the Department takes any action under this regulation it may inform the safety authorities.
 
-(4)[^key-acc8656fe287357ec5e817ad7bac33a7] A person who is aggrieved by a decision to withdraw or suspend a train driving licence may appeal to a tribunal established for the purposes of hearing an appeal under these Regulations
+(4)[^c-acc8656fe287357ec5e817ad7bac33a7] A person who is aggrieved by a decision to withdraw or suspend a train driving licence may appeal to a tribunal established for the purposes of hearing an appeal under these Regulations
 
 (5) The model provisions with respect to appeals which are set out in the Deregulation (Model Appeals Provisions) Order (Northern Ireland) 1997 shall apply to an appeal under paragraph (4)
 
-### 38. Appeal to the Commission[^key-f29c08504f5a027a754a3144deae7718]
+### 38. Appeal to the Commission[^c-f29c08504f5a027a754a3144deae7718]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 12 — ENFORCEMENT
 
-### 39. Anti-fraud measures[^key-df0d5a52b26f03ff617ec8ceb6a15bef]
+### 39. Anti-fraud measures[^c-df0d5a52b26f03ff617ec8ceb6a15bef]
 
 The Department and railway undertakings must take such steps as are reasonably necessary to avoid—
 
 - (a) the falsification of train driving licences and train driving certificates; and
 - (b) the tampering with the registers required by regulations 22 and 23.
 
-### 40. Enforcement[^key-11c68e360aa8f1451daadaa9c5d6009c]
+### 40. Enforcement[^c-11c68e360aa8f1451daadaa9c5d6009c]
 
 (1) It is the duty of the Department to make adequate arrangements for the enforcement of these Regulations.
 
-(2) Subject to paragraph 5[^key-6b19929e017b674fe9b4bbba044cfc0b], the provisions of the 1978 Order specified in paragraph (3) (“the specified provisions”) apply for the purpose of the enforcement of these Regulations as if in the specified provisions—
+(2) Subject to paragraph 5[^c-6b19929e017b674fe9b4bbba044cfc0b], the provisions of the 1978 Order specified in paragraph (3) (“the specified provisions”) apply for the purpose of the enforcement of these Regulations as if in the specified provisions—
 
 - (a) a reference to the “enforcing authority” was a reference to the Department;
 - (b) a reference to the “relevant statutory provisions” was a reference to these Regulations;
 - (c) a reference to “health and safety regulations” was a reference to these Regulations;
-- (d) in article 31(2) the reference to “Schedule 3A” was a reference to Regulation 40(4) of[^key-5ca2eec91c037240602b112104bb50cb] these Regulations[^f00014].
+- (d) in article 31(2) the reference to “Schedule 3A” was a reference to Regulation 40(4) of[^c-5ca2eec91c037240602b112104bb50cb] these Regulations[^f00014].
 
 (3) The provisions of the 1978 Order referred to in paragraph (2) are as follows—
 
@@ -558,9 +558,9 @@ The Department and railway undertakings must take such steps as are reasonably n
 - (d) article 26 (appeal against improvement and prohibition notices);
 - (e) article 28 (power to indemnify inspectors);
 - (f) article 30 (restrictions on disclosure of information)[^f00018];
-- (g) articles 31(1)(c), (e) to (h), (j) to (o) and (2), 32(1)(c) and (d) and (2), 33, 34(1) and (2), 35 to 38[^key-d8950861056763203b5814b539b975ce] and 39(1) to (3) (provision as to offences[^f00019]; [^key-a2aac8d4acc076478329393120313dd8]...
+- (g) articles 31(1)(c), (e) to (h), (j) to (o) and (2), 32(1)(c) and (d) and (2), 33, 34(1) and (2), 35 to 38[^c-d8950861056763203b5814b539b975ce] and 39(1) to (3) (provision as to offences[^f00019]; [^c-a2aac8d4acc076478329393120313dd8]...
 
-(4)[^key-f4d990fdde1986d84b0d7b2b8c39effb] The mode of trial and maximum penalty applicable to each offence under Article 31 of the 1978 Order so applied and listed in the first column of the following table are set out opposite that offence in the subsequent columns of the table
+(4)[^c-f4d990fdde1986d84b0d7b2b8c39effb] The mode of trial and maximum penalty applicable to each offence under Article 31 of the 1978 Order so applied and listed in the first column of the following table are set out opposite that offence in the subsequent columns of the table
 
 | *Offence* | *Mode of trial* | *Penalty on summary conviction* | *Penalty on conviction on indictment* |
 | --- | --- | --- | --- |
@@ -568,15 +568,15 @@ The Department and railway undertakings must take such steps as are reasonably n
 | An offence under article 33(l)(h). | Summarily only. | Imprisonment for a term not exceeding 3 months, or a fine not exceeding level 5 on the standard scale or both. |  |
 | An offence under article 33(l)(n) | Summarily only. | A fine not exceeding level 5 on the standard scale. |  |
 
-(5)[^key-f7068790c7eaf1fbf972200b798fa808] A failure to discharge a duty placed on the Department by these Regulations shall not be an offence under section 31(1) of the 1978 Order.
+(5)[^c-f7068790c7eaf1fbf972200b798fa808] A failure to discharge a duty placed on the Department by these Regulations shall not be an offence under section 31(1) of the 1978 Order.
 
 ## PART 13 — TRANSITIONAL PROVISIONS
 
-### 41. Transitional provisions[^key-7eeda62773585300d50ad96b9980ce4f]
+### 41. Transitional provisions[^c-7eeda62773585300d50ad96b9980ce4f]
 
 (1) The registers referred to in regulations 22 and 23 must be established before 29th October 2011.
 
-(2) These Regulations have effect on and from 29th October 2011 in relation to the driving of trains where a driver drives trains both in Northern Ireland and the Republic of Ireland[^key-50be63f38c118c49f588e7ddc9d069bb].
+(2) These Regulations have effect on and from 29th October 2011 in relation to the driving of trains where a driver drives trains both in Northern Ireland and the Republic of Ireland[^c-50be63f38c118c49f588e7ddc9d069bb].
 
 (3) These Regulations have effect on 29th October 2013 in relation to the driving of trains where a train driver did not drive trains in Northern Ireland before that date.
 
@@ -619,7 +619,7 @@ Regulations 4, 8, and 13
 
 ### (This Schedule substantially reproduces the provisions of Annex II to the Directive)
 
-#### 1. GENERAL REQUIREMENTS[^key-1eccc7860139dba5def3e07260eeb64b]
+#### 1. GENERAL REQUIREMENTS[^c-1eccc7860139dba5def3e07260eeb64b]
 
 (1) General
 
@@ -638,7 +638,7 @@ Regulations 4, 8, and 13
   - (d) contact lenses and glasses are authorised when periodically checked by a specialist,
   - (e) normal colour vision: use of a recognised test, such as Ishihara, as well as another recognised test if required,
   - (f) field of vision: full,
-  - (g) vision for both eyes: effective[^key-f3eae976cb3798109b5dcadc66a5b1b5]...
+  - (g) vision for both eyes: effective[^c-f3eae976cb3798109b5dcadc66a5b1b5]...
   - (h) binocular vision: effective,
   - (i) recognition of colour signals: the test must be based on recognition of single colours and not on relative differences,
   - (j) sensitivity to contrasts: good
@@ -662,7 +662,7 @@ Regulations 4, 8, and 13
 
 - In the event of poor tolerance or a pathological condition, pregnancy must be considered to be a reason for the temporary exclusion of drivers. Legal provisions protecting pregnant drivers must be applied.
 
-#### 2. MINIMUM CONTENT OF THE EXAMINATION BEFORE APPOINTMENT[^key-7191d856b84d5bcf7fb41fd6b851533d]
+#### 2. MINIMUM CONTENT OF THE EXAMINATION BEFORE APPOINTMENT[^c-7191d856b84d5bcf7fb41fd6b851533d]
 
 (1) Medical examinations—
 
@@ -679,7 +679,7 @@ Regulations 4, 8, and 13
 
 - The purpose of the occupational psychological examinations is to assist in the appointment and management of staff. In determining the content of the psychological evaluation, the examination must asses that the applicant driver has no established occupational psychological deficiencies, particularly in operational aptitudes or any relevant personality factor, which are likely to interfere with the safe exercise of the duties.
 
-#### 3. PERIODIC EXAMINATIONS AFTER APPOINTMENT[^key-58f2cb0c5a61a636b629191013d0287b]
+#### 3. PERIODIC EXAMINATIONS AFTER APPOINTMENT[^c-58f2cb0c5a61a636b629191013d0287b]
 
 (1) Frequency
 
@@ -697,13 +697,13 @@ Regulations 4, 8, and 13
   - (d) tests for drugs where clinically indicated.
 - In addition, an ECG at rest is also required for train drivers over 40 years of age.
 
-## SCHEDULE 2 — ... MODEL TRAIN DRIVING LICENCE AND ... COMPLEMENTARY TRAIN DRIVING CERTIFICATE[^key-eb286b291bda78e1045fd225d14bc34f][^key-eb286b291bda78e1045fd225d14bc34f]
+## SCHEDULE 2 — ... MODEL TRAIN DRIVING LICENCE AND ... COMPLEMENTARY TRAIN DRIVING CERTIFICATE[^c-eb286b291bda78e1045fd225d14bc34f][^c-eb286b291bda78e1045fd225d14bc34f]
 
 Regulations 5, 22 and 23
 
 ### (This Schedule substantially reproduces the provisions of Annex I to the Directive)
 
-#### 1. CHARACTERISTICS OF THE LICENCE[^key-9917c68f2574ac6a89027f24d2540950]
+#### 1. CHARACTERISTICS OF THE LICENCE[^c-9917c68f2574ac6a89027f24d2540950]
 
 The physical characteristics of the train driving licence must be in conformity with ISO standards 7810:2003 and 7816-1:1998[^f00020].
 
@@ -711,13 +711,13 @@ The card must be made of polycarbonate.
 
 The methods for verifying the characteristics of train driving licences to ensure that they are consistent with international standards must comply with ISO standard 10373-1:2006[^f00021].
 
-#### 2. CONTENTS OF THE LICENCE[^key-9856676e865363fba4a14aa61760b922]
+#### 2. CONTENTS OF THE LICENCE[^c-9856676e865363fba4a14aa61760b922]
 
 The front of the licence must contain—
 
-- (a) the words “Train driving licence” printed in large type [^key-60d91c788e71c30ae9eb3ceebff33d23]...,
+- (a) the words “Train driving licence” printed in large type [^c-60d91c788e71c30ae9eb3ceebff33d23]...,
 - (b) the words “United Kingdom”,
-- (c)[^key-138c390e364bc13559f5d568f5bc7d1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-138c390e364bc13559f5d568f5bc7d1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) information specific to the licence issued, numbered as follows—
   - (i) the surname of the holder,
   - (ii) other name(s) of the holder,
@@ -731,13 +731,13 @@ The front of the licence must contain—
   - (vi) a photograph of the holder,
   - (vii) the signature of the holder,
   - (viii) the permanent place of residence or postal address of the holder (optional)
-- (e)[^key-5aded67b8097b382152b238652fb3020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-be911d755c913d8f6c39d7b3719799e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5aded67b8097b382152b238652fb3020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-be911d755c913d8f6c39d7b3719799e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) additional information, or medical restrictions for use imposed by the Department in accordance with Schedule 1, in code form.
 
-[^key-035531d5997480c9627df08cb10166c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-035531d5997480c9627df08cb10166c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. CERTIFICATE[^key-121a3f32091c43d2a9fadca28ff55d4a]
+#### 3. CERTIFICATE[^c-121a3f32091c43d2a9fadca28ff55d4a]
 
 The certificate must contain—
 
@@ -759,14 +759,14 @@ The certificate must contain—
 - (p) any additional information or restrictions,
 - (q) language skills.
 
-#### 4. MINIMUM DATA CONTAINED IN REGISTERS OF TRAIN DRIVING LICENCES AND TRAIN DRIVING CERTIFICATES[^key-8f405aae72386f0d8115857fbdcd13e3]
+#### 4. MINIMUM DATA CONTAINED IN REGISTERS OF TRAIN DRIVING LICENCES AND TRAIN DRIVING CERTIFICATES[^c-8f405aae72386f0d8115857fbdcd13e3]
 
 - (a) Data relating to the licence—
   - All data appearing on the licence plus data relating to the checking requirements set out in regulations 8 and 13.
 - (b) Data relating to the certificate—
   - All data appearing on the certificate plus data relating to the checking requirements set out in regulations 9 and 15.
 
-## SCHEDULE 3 — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE[^key-34b7c6014c19ffc285b634a4b934b68e]
+## SCHEDULE 3 — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE[^c-34b7c6014c19ffc285b634a4b934b68e]
 
 Regulations 8 and 28
 
@@ -840,18 +840,18 @@ Regulation 9 and 28
 
 ### (This Schedule substantially reproduces the provisions of Annex VI to the Directive)
 
-#### 1. TESTING THE BRAKES[^key-26f2ea8733c1eefd90d665f6f7289f76]
+#### 1. TESTING THE BRAKES[^c-26f2ea8733c1eefd90d665f6f7289f76]
 
 Drivers must be able to check and calculate, before departure, that the train’s braking power corresponds to the braking power required for the line, as specified in the vehicle documents.
 
-#### 2. TYPE OF OPERATION AND MAXIMUM TRAIN SPEED ACCORDING TO THE LINE CHARACTERISTICS[^key-04cf79e553d14896e74610cf9a8756bd]
+#### 2. TYPE OF OPERATION AND MAXIMUM TRAIN SPEED ACCORDING TO THE LINE CHARACTERISTICS[^c-04cf79e553d14896e74610cf9a8756bd]
 
 Drivers must be able to—
 
 - (a) take note of information given to them, such as the speed limits or any signalling changes,
 - (b) determine the type of running and the limit speed of the train on the basis of the characteristics of the line.
 
-#### 3. KNOWLEDGE OF THE LINE[^key-a6941b0b639b82688dcc257b94b16133]
+#### 3. KNOWLEDGE OF THE LINE[^c-a6941b0b639b82688dcc257b94b16133]
 
 Drivers must be able to anticipate problems and react appropriately in terms of safety and other performances, such as punctuality and economic aspects. They must therefore have a thorough knowledge of the railway lines and installations on their route and of any alternative routes agreed on.
 
@@ -870,7 +870,7 @@ The following aspects are important—
 - (k) particular braking conditions, for example on lines with a steep downward gradient,
 - (l) particular operating features: special signals, signs, departure conditions, etc.
 
-#### 4. SAFETY REGULATION[^key-f92cccd89a5bef0e7ff03e1848d6f541]
+#### 4. SAFETY REGULATION[^c-f92cccd89a5bef0e7ff03e1848d6f541]
 
 Drivers must be able to—
 
@@ -879,7 +879,7 @@ Drivers must be able to—
 - (c) run the train safely according to the specific modes of operation: apply special modes if instructed, temporary speed restrictions, running in opposite direction, permission to pass signals at danger, switching operations, turns, running through construction sites, etc.,
 - (d) respect scheduled or supplementary stops, and if necessary perform supplementary operations for passengers during these stops, notably opening and closing the doors.
 
-#### 5. DRIVING THE TRAIN[^key-622a7cb0ae383cbd2f4c884fa4e6bce7]
+#### 5. DRIVING THE TRAIN[^c-622a7cb0ae383cbd2f4c884fa4e6bce7]
 
 Drivers must be able to—
 
@@ -887,7 +887,7 @@ Drivers must be able to—
 - (b) apply the brakes for decelerations and stops, taking account of the rolling stock and installations,
 - (c) adjust the running of the train in accordance with the timetable and any orders given on saving energy, taking account of the characteristics of the traction unit, the train, the line and the environment.
 
-#### 6. ANOMALIES[^key-fabc43f60a8ab0c41db2a2a3712fcf7e]
+#### 6. ANOMALIES[^c-fabc43f60a8ab0c41db2a2a3712fcf7e]
 
 Drivers must be able to—
 
@@ -896,7 +896,7 @@ Drivers must be able to—
 - (c) inform the infrastructure manager as soon as possible of the place and nature of anomalies observed, making sure that the information has been understood,
 - (d) taking into account the infrastructure, ensure or take measures to ensure the safety of traffic and persons, whenever necessary.
 
-#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS[^key-2237265e835430af5b0477b70d81dcca]
+#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS[^c-2237265e835430af5b0477b70d81dcca]
 
 Drivers must be able to—
 
@@ -906,7 +906,7 @@ Drivers must be able to—
 - (d) inform the infrastructure of these conditions as soon as possible,
 - (e) assess whether the infrastructure allows the vehicle to continue to run and under which conditions.
 
-#### 8. LANGUAGE TESTS[^key-9f066cbde0194b4d4fdec33e4c47131c]
+#### 8. LANGUAGE TESTS[^c-9f066cbde0194b4d4fdec33e4c47131c]
 
 The language requirements are as follows—
 
@@ -924,7 +924,7 @@ Regulation 9 and 28
 
 After completing specific training in relation to rolling stock, drivers must be able to carry out the following tasks—
 
-#### 1. TESTS AND CHECKS PRIOR TO DEPARTURE[^key-586955fd3befc85d3539fe2e0a38c806]
+#### 1. TESTS AND CHECKS PRIOR TO DEPARTURE[^c-586955fd3befc85d3539fe2e0a38c806]
 
 Drivers must be able to—
 
@@ -935,7 +935,7 @@ Drivers must be able to—
 - (e) checking the availability and functionality of the prescribed protection and safety equipments at the handover of a locomotive or at the start of a trip,
 - (f) perform any routine preventative maintenance operations.
 
-#### 2. KNOWLEDGE OF ROLLING STOCK[^key-3a4e75c69990e66a881d7e10906b3f90]
+#### 2. KNOWLEDGE OF ROLLING STOCK[^c-3a4e75c69990e66a881d7e10906b3f90]
 
 To operate a locomotive, drivers must be familiar with all the controls and indicators placed at their disposal, in particular those concerning—
 
@@ -961,21 +961,21 @@ In order to detect and locate anomalies in the rolling stock, report them and de
 - (n) the parts specific to traction units,
 - (o) traction chain, motors and transmission.
 
-#### 3. TESTING THE BRAKES[^key-391d7c819e0e0f0f6717413b280b9604]
+#### 3. TESTING THE BRAKES[^c-391d7c819e0e0f0f6717413b280b9604]
 
 Drivers must be able to—
 
 - (a) check and calculate, before departure, that the train’s braking power corresponds to the braking power required for the line, as specified in the vehicle documents,
 - (b) check the functioning of the various components of the braking system of the traction unit and of the train, as appropriate, before departure, at start-up and during running.
 
-#### 4. OPERATING MODE AND MAXIMUM SPEED OF THE TRAIN IN RELATION TO THE LINE CHARACTERISTICS[^key-59b1602789ae225dd758f52503c7fe6b]
+#### 4. OPERATING MODE AND MAXIMUM SPEED OF THE TRAIN IN RELATION TO THE LINE CHARACTERISTICS[^c-59b1602789ae225dd758f52503c7fe6b]
 
 Drivers must be able to—
 
 - (a) take note of information given to them before departure,
 - (b) determine the type of running and the limit speed of the train on the basis of variables such as speed limits, weather conditions or any signalling changes.
 
-#### 5. DRIVING THE TRAIN IN A WAY WHICH DOES NOT DAMAGE INSTALLATIONS OR VEHICLES[^key-4ac9b87652851835a09c820bbac8b1a0]
+#### 5. DRIVING THE TRAIN IN A WAY WHICH DOES NOT DAMAGE INSTALLATIONS OR VEHICLES[^c-4ac9b87652851835a09c820bbac8b1a0]
 
 Drivers must be able to—
 
@@ -983,7 +983,7 @@ Drivers must be able to—
 - (b) start the train taking account of adhesion and power constraints,
 - (c) apply the brakes for decelerations and stops, taking account of the rolling stock and installations.
 
-#### 6. ANOMALIES[^key-5a4103235658f8fdfa5a40991870177d]
+#### 6. ANOMALIES[^c-5a4103235658f8fdfa5a40991870177d]
 
 Drivers must—
 
@@ -991,7 +991,7 @@ Drivers must—
 - (b) be able to inspect the train and identify signs of anomalies, distinguish between them, react according to their relative importance and try to remedy them, always giving priority to the safety of rail traffic and persons,
 - (c) know the available means of protection and communication.
 
-#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS[^key-d395753ae423ca71a515834a9fa56761]
+#### 7. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS[^c-d395753ae423ca71a515834a9fa56761]
 
 Drivers must—
 
@@ -999,19 +999,19 @@ Drivers must—
 - (b) be able to determine whether the train is transporting dangerous goods and identify them on the basis of train documents and wagon lists,
 - (c) know the procedures relating to the evacuation of a train in case of emergency.
 
-#### 8. CONDITIONS FOR CONTINUING RUNNING AFTER AN INCIDENT INVOLVING ROLLING STOCK[^key-df9007cf23971c67378873c18c55d1f9]
+#### 8. CONDITIONS FOR CONTINUING RUNNING AFTER AN INCIDENT INVOLVING ROLLING STOCK[^c-df9007cf23971c67378873c18c55d1f9]
 
 After an incident, drivers must be able to assess whether the vehicle can continue to run and under what conditions, so as to inform the infrastructure manager of those conditions as soon as possible,
 
 Drivers must be able to determine if an expert evaluation is necessary before the train can continue.
 
-#### 9. IMMOBILISATION OF THE TRAIN[^key-9de9110ed3f1d63021ab24b5892b44c7]
+#### 9. IMMOBILISATION OF THE TRAIN[^c-9de9110ed3f1d63021ab24b5892b44c7]
 
 Drivers must be able to take measures to ensure that the train, or parts thereof, does not start up or move unexpectedly, even in the most difficult conditions.
 
 Furthermore, drivers must have knowledge about measures which can stop a train or parts thereof in case it has started to move unexpectedly.
 
-## SCHEDULE 6 — FREQUENCY OF EXAMINATIONS[^key-fbf5c6375197e2ea3fac4d4c1657fd2b]
+## SCHEDULE 6 — FREQUENCY OF EXAMINATIONS[^c-fbf5c6375197e2ea3fac4d4c1657fd2b]
 
 Regulation 15
 
@@ -1023,7 +1023,7 @@ The frequency of the periodic checks shall be as follows—
 - (b) infrastructure knowledge (including route and operation rules knowledge): every three years or after any absence of more than one year on the relevant route,
 - (c) knowledge of rolling stock: every three years.
 
-## SCHEDULE 7 — TRAINING METHOD[^key-b076cdf0c571b113473367b38d3b3587]
+## SCHEDULE 7 — TRAINING METHOD[^c-b076cdf0c571b113473367b38d3b3587]
 
 Regulation 28
 
@@ -1037,7 +1037,7 @@ The use of simulators, although not obligatory, may be useful for the effective 
 
 Concerning the acquisition of route knowledge, the approach to be favoured must be where the train driver accompanies another driver for an appropriate number of journeys along the route, in daylight as well as at night. Videos of the routes as seen from the driver’s cab may be used, among other methods, as an alternative training method.
 
-## SCHEDULE 8[^key-424d57b6dcd85fab289320b69165b190]
+## SCHEDULE 8[^c-424d57b6dcd85fab289320b69165b190]
 
 **No longer in force.**
 
@@ -1065,147 +1065,147 @@ After they come into operation the Regulations take effect gradually in phases i
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-6f54b206bbae287712df07ac290da644]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/132/regulation/1) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-6f54b206bbae287712df07ac290da644]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/132/regulation/1) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-30a67517bd4e9f1857a6cfc60cc1f603]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/132/regulation/2) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-30a67517bd4e9f1857a6cfc60cc1f603]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/132/regulation/2) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
 [^f00004]: Footnote: [SI 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039).
 
-[^key-008797f4f09ca7ff79053bdfa0fd53e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-008797f4f09ca7ff79053bdfa0fd53e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-418d74157fe2d59c4296764dbc89fb95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-418d74157fe2d59c4296764dbc89fb95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57fe19b70530bb1fdc73beb00d6303ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57fe19b70530bb1fdc73beb00d6303ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b1d19dde58aaef044708a15d7983f9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1d19dde58aaef044708a15d7983f9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fdd0916966cd96355e98e2a10c2f1831]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2010/132/regulation/2) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/2)
+[^c-fdd0916966cd96355e98e2a10c2f1831]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2010/132/regulation/2) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/2)
 
 [^f00007]: Footnote: [SR 2006/237](https://www.legislation.gov.uk/nisr/2006/237).
 
-[^key-4754a6afac7ac3be1d5a9a862b7a06d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(e)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4754a6afac7ac3be1d5a9a862b7a06d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(e)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e1b36b6057782eac4133fa224903c1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(f)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e1b36b6057782eac4133fa224903c1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(f)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63e7c61e1ca10840c341d61a7d624b0d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(g)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63e7c61e1ca10840c341d61a7d624b0d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(g)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d0a582e2ff8a7566c4fca5b37cf431e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(h)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d0a582e2ff8a7566c4fca5b37cf431e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(h)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29de86da99e3adb83dc968de90c5cdcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(i)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29de86da99e3adb83dc968de90c5cdcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(i)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47acac482b6d6544be32d1b533e37235]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(j)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47acac482b6d6544be32d1b533e37235]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(2)(j)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d260f71700248d303c12a328206c2beb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d260f71700248d303c12a328206c2beb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/2/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/30/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-0bc976d3cd94b9b18bae6f1cba3ea789]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/132/regulation/3) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-0bc976d3cd94b9b18bae6f1cba3ea789]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/132/regulation/3) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-e6bba57d2c5316279259ae326eb22dac]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/132/regulation/4) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-e6bba57d2c5316279259ae326eb22dac]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/132/regulation/4) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-fe5cb387892d8867c8d1f3ed806200f5]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe5cb387892d8867c8d1f3ed806200f5]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5eed50be2fcd591a5ef6c92a26450ba]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/3/a) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5eed50be2fcd591a5ef6c92a26450ba]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/3/a) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d1c0f23cab5ea068d05b95fedb822680]: Modification: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/4) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1c0f23cab5ea068d05b95fedb822680]: Modification: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/4) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07204532d47c2ec89bdc4a0cc2fab739]: Modification: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/5) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07204532d47c2ec89bdc4a0cc2fab739]: Modification: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/5) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d2812c061042d0a2e3f7f78a368efd50]: Modification: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/7) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2812c061042d0a2e3f7f78a368efd50]: Modification: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/7) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c683894de28db652b3fa5c835f7ab4e0]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/9) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(5)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c683894de28db652b3fa5c835f7ab4e0]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/9) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(5)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df66462d36b80f49436d9c66969bc1af]: Modification: [Reg. 4(10)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/10) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df66462d36b80f49436d9c66969bc1af]: Modification: [Reg. 4(10)](https://www.legislation.gov.uk/nisr/2010/132/regulation/4/10) modified (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/31/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84709e3471745f42b29235ab4dc6c328]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/132/regulation/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-84709e3471745f42b29235ab4dc6c328]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/132/regulation/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-02fdeb90f15d3482fefe18b803f5ac0f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/5/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/826/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02fdeb90f15d3482fefe18b803f5ac0f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/5/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/826/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df44f9839f0c487f6d61cdb66770c5f1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/132/regulation/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-df44f9839f0c487f6d61cdb66770c5f1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/132/regulation/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-7e9eb6330fa389682918acb6f2353c95]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/132/regulation/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-7e9eb6330fa389682918acb6f2353c95]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/132/regulation/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-b7eb0390256ad09222d59dd4325b0518]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/132/regulation/8) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-b7eb0390256ad09222d59dd4325b0518]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/132/regulation/8) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
 [^f00010]: Footnote: O.J. No. L199, 31.7.1985, p. 56.
 
-[^key-e40b7d011523cbc831cced16a7cd3e02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/132/regulation/9) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-e40b7d011523cbc831cced16a7cd3e02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/132/regulation/9) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-59fecb74f9df99ba9774e225b38d1c58]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/132/regulation/10) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-59fecb74f9df99ba9774e225b38d1c58]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/132/regulation/10) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-cde1e59c59ce5d198f718718f0a4003b]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/10/6)[(7)](https://www.legislation.gov.uk/nisr/2010/132/regulation/10/7) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/3)
+[^c-cde1e59c59ce5d198f718718f0a4003b]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/10/6)[(7)](https://www.legislation.gov.uk/nisr/2010/132/regulation/10/7) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/3)
 
-[^key-690f86b4dd8ef333932870df19c5320e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/132/regulation/11) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-690f86b4dd8ef333932870df19c5320e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/132/regulation/11) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-56e542cd2d652057b51464db2798555c]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/3A) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/a)
+[^c-56e542cd2d652057b51464db2798555c]: Textual amendment: [Reg. 11(3A)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/3A) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/a)
 
-[^key-54c20011ecf7a4eab472de0048ce384c]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/5)[(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/6) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/b)
+[^c-54c20011ecf7a4eab472de0048ce384c]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/5)[(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/6) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/b)
 
-[^key-1c6406f7c7614d3de7bce0e508c3a2fa]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/5): reg. 11(7) renumbered as reg. 11(5) (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/c)
+[^c-1c6406f7c7614d3de7bce0e508c3a2fa]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/11/5): reg. 11(7) renumbered as reg. 11(5) (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/4/c)
 
-[^key-52cad9765a95a944af0e63a9e6ff2bc3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/132/regulation/12) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-52cad9765a95a944af0e63a9e6ff2bc3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/132/regulation/12) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-2c18e4b3e2d887222d9561a59070747b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/132/regulation/13) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-2c18e4b3e2d887222d9561a59070747b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/132/regulation/13) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-7917b9087aad4ad007a76ee1e89e9027]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/13/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2019/826/regulation/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7917b9087aad4ad007a76ee1e89e9027]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/13/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2019/826/regulation/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f385b630d87e826723533e1d68c4d299]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/132/regulation/14) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-f385b630d87e826723533e1d68c4d299]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/132/regulation/14) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-d233e0a37adaadf72c8fc3b5e16b8671]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/132/regulation/15) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-d233e0a37adaadf72c8fc3b5e16b8671]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/132/regulation/15) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-e9a108e82685ba5e6eafe55091f01647]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/132/regulation/16) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-e9a108e82685ba5e6eafe55091f01647]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/132/regulation/16) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-8042e30c02b3a4705febe8a3c7321fca]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/132/regulation/17) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-8042e30c02b3a4705febe8a3c7321fca]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/132/regulation/17) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-650b57818f2eb0aca45ae87a61259655]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/2/c) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/a)
+[^c-650b57818f2eb0aca45ae87a61259655]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/2/c) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/a)
 
 [^M_F_07711486-0e5a-4e9d-9f57-c37684b02538]: Textual amendment: Word in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/3) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/b)
 
-[^key-065b67bb85290290ce02139a586b629c]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/3) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/b)
+[^c-065b67bb85290290ce02139a586b629c]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/3) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/b)
 
-[^key-68652a51912f601a1a32769826337fec]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/c)
+[^c-68652a51912f601a1a32769826337fec]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/c)
 
-[^key-f2a601de33826be0848babec84bc6b7e]: Textual amendment: Words in [reg. 17(4)(a)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4/a) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/d)
+[^c-f2a601de33826be0848babec84bc6b7e]: Textual amendment: Words in [reg. 17(4)(a)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4/a) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/d)
 
 [^M_F_9e7ca369-181d-4e75-dc8a-dddc991dce59]: Textual amendment: Word in [reg. 17(4)(c)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4/c) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/e)
 
-[^key-c9cebfc7e9610e13662daa656cc4d35b]: Textual amendment: Words in [reg. 17(4)(c)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4/c) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/e)
+[^c-c9cebfc7e9610e13662daa656cc4d35b]: Textual amendment: Words in [reg. 17(4)(c)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/4/c) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/5/e)
 
-[^key-d220e188d1b68d09793896467543fca4]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/6) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2019/826/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d220e188d1b68d09793896467543fca4]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/nisr/2010/132/regulation/17/6) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2019/826/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a420b798dd1dab78107d2b355801a5c1]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/nisr/2010/132/part/6) heading substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/a)
+[^c-a420b798dd1dab78107d2b355801a5c1]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/nisr/2010/132/part/6) heading substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/a)
 
-[^key-59bf1e9b25039d2fef2a821258520fea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/132/regulation/18) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-59bf1e9b25039d2fef2a821258520fea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/132/regulation/18) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-cf0ed63ffd7c2dfbf87546bdd2e3c997]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/132/regulation/18): reg. 18(1) renumbered as reg. 18 (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/c)
+[^c-cf0ed63ffd7c2dfbf87546bdd2e3c997]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/132/regulation/18): reg. 18(1) renumbered as reg. 18 (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/c)
 
-[^key-950c0cc06b99fdae7a67dafe1d0da9e6]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/18/2) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/b)
+[^c-950c0cc06b99fdae7a67dafe1d0da9e6]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/18/2) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/6/b)
 
-[^key-cbcad0433fc00cfbdbddc5370249f241]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/132/regulation/19) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/7)
+[^c-cbcad0433fc00cfbdbddc5370249f241]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/132/regulation/19) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/7)
 
-[^key-ee453df77b4e20335856ada7bcd23c59]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/132/regulation/20) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-ee453df77b4e20335856ada7bcd23c59]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/132/regulation/20) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-8da76aff69a3e198b05300967d14c758]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/132/regulation/21) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-8da76aff69a3e198b05300967d14c758]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/132/regulation/21) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-aec330807db1ec3a64a794987e6fe640]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/21/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aec330807db1ec3a64a794987e6fe640]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/21/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/35/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d6f3fa9e293c44ea8dae3241f180a92]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/21/4) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/35/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d6f3fa9e293c44ea8dae3241f180a92]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/21/4) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/35/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f19af9fcf0d6dd9ed534d52676da9231]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/132/regulation/22) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-f19af9fcf0d6dd9ed534d52676da9231]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/132/regulation/22) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-63d42366b74337e9696c81895b13f73d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/132/regulation/23) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-63d42366b74337e9696c81895b13f73d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/132/regulation/23) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-749a56e512db99cb109bacbac96efa9c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/132/regulation/24) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-749a56e512db99cb109bacbac96efa9c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/132/regulation/24) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-ee0fffbe3e8de4d30d8558bdd570f757]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/132/regulation/25) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2019/826/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee0fffbe3e8de4d30d8558bdd570f757]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/132/regulation/25) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2019/826/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28f7d33afb41a41912c6b03f98991210]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/132/regulation/26) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-28f7d33afb41a41912c6b03f98991210]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/132/regulation/26) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-2f37fa950be2ed520d619c2cc2054ab6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/132/regulation/27) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2019/826/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f37fa950be2ed520d619c2cc2054ab6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/nisr/2010/132/regulation/27) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2019/826/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3629e1a08a6da4235e331c8d03a57e24]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/132/regulation/28) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-3629e1a08a6da4235e331c8d03a57e24]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2010/132/regulation/28) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-559805e7432c107b1a4ecd0e33d8249c]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-559805e7432c107b1a4ecd0e33d8249c]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^f00011]: Footnote: O.J. No. L235, 17.9.1996, p. 6 as last amended by Commission Directive [2007/32/EC](https://www.legislation.gov.uk/european/directive/2007/0032) (O.J. No. L141, 2.6.2007, p. 63.
 
@@ -1213,49 +1213,49 @@ After they come into operation the Regulations take effect gradually in phases i
 
 [^f00013]: Footnote: O.J. No. L191, 18.7.2008, p. 1.
 
-[^key-b5b2c37211603340490514a4833169a9]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2010/132/regulation/29) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-b5b2c37211603340490514a4833169a9]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2010/132/regulation/29) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-b6c2254181fe1356a47d904798172e08]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/29/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/38/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6c2254181fe1356a47d904798172e08]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/29/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/38/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7ef54806b8f270b6bfbeb6e289871b6]: Textual amendment: [Reg. 29(1A)](https://www.legislation.gov.uk/nisr/2010/132/regulation/29/1A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [38(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/38/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7ef54806b8f270b6bfbeb6e289871b6]: Textual amendment: [Reg. 29(1A)](https://www.legislation.gov.uk/nisr/2010/132/regulation/29/1A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [38(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/38/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11a579a691abfe50c723bd32cb71de3e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2010/132/regulation/30) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-11a579a691abfe50c723bd32cb71de3e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2010/132/regulation/30) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-b09d92c12232a421222cc12685316acb]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/132/regulation/31) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-b09d92c12232a421222cc12685316acb]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/132/regulation/31) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-4007a620e23e6f9b33ce0d2555d352f9]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/nisr/2010/132/regulation/31/3/b) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/826/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4007a620e23e6f9b33ce0d2555d352f9]: Textual amendment: Words in [reg. 31(3)(b)](https://www.legislation.gov.uk/nisr/2010/132/regulation/31/3/b) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/826/regulation/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-909a93c8527cf5dfd33c95a27101c192]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/132/regulation/32) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-909a93c8527cf5dfd33c95a27101c192]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2010/132/regulation/32) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-d95ade02258db5248eda09fa3afb0e70]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2010/132/regulation/33) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-d95ade02258db5248eda09fa3afb0e70]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2010/132/regulation/33) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-93abcb2e94b7a7057677190e10283705]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2010/132/regulation/34) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-93abcb2e94b7a7057677190e10283705]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2010/132/regulation/34) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-5548be8fc0e5ce212a33a8c3cb15dc1b]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/34/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [40(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/40/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5548be8fc0e5ce212a33a8c3cb15dc1b]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2010/132/regulation/34/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [40(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/40/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e13f41aeddaa16bf1e3ae63af34f5fde]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/34/3) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [40(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/40/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e13f41aeddaa16bf1e3ae63af34f5fde]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/34/3) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [40(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/40/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-471f462477cfa5c49ea4b856985c8748]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/nisr/2010/132/regulation/35) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/826/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-471f462477cfa5c49ea4b856985c8748]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/nisr/2010/132/regulation/35) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/826/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e09421c576ce94e9dddf10380e35bf86]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2010/132/regulation/36) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-e09421c576ce94e9dddf10380e35bf86]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2010/132/regulation/36) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-6da58711712e16ee2932fcbc0dd59301]: Textual amendment: [Reg. 36(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/36/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2019/826/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6da58711712e16ee2932fcbc0dd59301]: Textual amendment: [Reg. 36(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/36/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2019/826/regulation/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-18886a13c373137068add133562470a5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2010/132/regulation/37) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-18886a13c373137068add133562470a5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2010/132/regulation/37) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-5525ff9a2f8a5482ae06a607bd6d2b7d]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2019/826/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5525ff9a2f8a5482ae06a607bd6d2b7d]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2019/826/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-acc8656fe287357ec5e817ad7bac33a7]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/4)[(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/5) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/8)
+[^c-acc8656fe287357ec5e817ad7bac33a7]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/4)[(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/37/5) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/8)
 
-[^key-f29c08504f5a027a754a3144deae7718]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2010/132/regulation/38) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2019/826/regulation/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f29c08504f5a027a754a3144deae7718]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2010/132/regulation/38) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2019/826/regulation/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df0d5a52b26f03ff617ec8ceb6a15bef]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2010/132/regulation/39) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-df0d5a52b26f03ff617ec8ceb6a15bef]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2010/132/regulation/39) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-11c68e360aa8f1451daadaa9c5d6009c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2010/132/regulation/40) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-11c68e360aa8f1451daadaa9c5d6009c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2010/132/regulation/40) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-6b19929e017b674fe9b4bbba044cfc0b]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/2) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/a)
+[^c-6b19929e017b674fe9b4bbba044cfc0b]: Textual amendment: Words in [reg. 40(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/2) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/a)
 
-[^key-5ca2eec91c037240602b112104bb50cb]: Textual amendment: Words in [reg. 40(2)(d)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/2/d) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/b)
+[^c-5ca2eec91c037240602b112104bb50cb]: Textual amendment: Words in [reg. 40(2)(d)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/2/d) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/b)
 
 [^f00014]: Footnote: Article 31(2) was substituted by the Health and Safety Offences Act [2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), Section 1(3).
 
@@ -1267,90 +1267,90 @@ After they come into operation the Regulations take effect gradually in phases i
 
 [^f00018]: Footnote: Article 30(1)(a) was amended by S.I. [1987/2049 (N.I. 20)](https://www.legislation.gov.uk/nisi/1987/2049), Article 28 and Schedule 2, paragraph 6. Article 30(3)(a), 30(4) and 30(5)(a) were amended by the [Health and Safety at Work (Amendment) (Northern Ireland) Order 1998 No. 2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6 and Schedule 1, paragraph 8.
 
-[^key-d8950861056763203b5814b539b975ce]: Textual amendment: Words in [reg. 40(3)(g)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/3/g) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/c)
+[^c-d8950861056763203b5814b539b975ce]: Textual amendment: Words in [reg. 40(3)(g)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/3/g) substituted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/c)
 
 [^f00019]: Footnote: Article 31(1)(h) was amended by the Consumer Protection (Northern Ireland) Order 1987 S.I. [1987/2049 (N.I. 20)](https://www.legislation.gov.uk/nisi/1987/2049), Article 28 and Schedule 2, paragraph 7. Article 31(1)(m) was amended by the [Criminal Justice (Northern Ireland) Order 1986 No. 1883 (N.I. 15)](https://www.legislation.gov.uk/nisi/1986/1883), Article 9.
 
-[^key-a2aac8d4acc076478329393120313dd8]: Textual amendment: Word in [reg. 40(3)(g)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/3/g) omitted (11.11.2013) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/c)
+[^c-a2aac8d4acc076478329393120313dd8]: Textual amendment: Word in [reg. 40(3)(g)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/3/g) omitted (11.11.2013) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/c)
 
-[^key-f4d990fdde1986d84b0d7b2b8c39effb]: Textual amendment: [Reg. 40(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/4) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/d)
+[^c-f4d990fdde1986d84b0d7b2b8c39effb]: Textual amendment: [Reg. 40(4)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/4) inserted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(d)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/d)
 
-[^key-f7068790c7eaf1fbf972200b798fa808]: Textual amendment: [Reg. 40(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/5): reg. 40(4) renumbered as reg. 40(5) (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(e)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/e)
+[^c-f7068790c7eaf1fbf972200b798fa808]: Textual amendment: [Reg. 40(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/40/5): reg. 40(4) renumbered as reg. 40(5) (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(9)(e)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/9/e)
 
-[^key-7eeda62773585300d50ad96b9980ce4f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2010/132/regulation/41) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
+[^c-7eeda62773585300d50ad96b9980ce4f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2010/132/regulation/41) in operation at 10.5.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/1/2)
 
-[^key-50be63f38c118c49f588e7ddc9d069bb]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2019/826/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50be63f38c118c49f588e7ddc9d069bb]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2019/826/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1eccc7860139dba5def3e07260eeb64b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-1eccc7860139dba5def3e07260eeb64b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-f3eae976cb3798109b5dcadc66a5b1b5]: Textual amendment: Words in [Sch. 1 para. 1(2)(g)](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/1/2/g) omitted (21.3.2016) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
+[^c-f3eae976cb3798109b5dcadc66a5b1b5]: Textual amendment: Words in [Sch. 1 para. 1(2)(g)](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/1/2/g) omitted (21.3.2016) by virtue of [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
 
-[^key-7191d856b84d5bcf7fb41fd6b851533d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-7191d856b84d5bcf7fb41fd6b851533d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-58f2cb0c5a61a636b629191013d0287b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-58f2cb0c5a61a636b629191013d0287b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/1/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-eb286b291bda78e1045fd225d14bc34f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2) heading omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb286b291bda78e1045fd225d14bc34f]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2) heading omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9917c68f2574ac6a89027f24d2540950]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-9917c68f2574ac6a89027f24d2540950]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
 [^f00020]: Footnote: ISO standards are published in Geneva by the International Organisation for Standardisation. ISO standard 7810:2003 — identification cards — physical characteristics — edition 3 was published on 31 October 2003 and 7816-1:1998 — identification cards — integrated circuit(s) cards with contacts — Part 1 — physical characteristics — edition 1 was published on 8 October 1998.
 
 [^f00021]: Footnote: ISO standard 10373-1:2006 — identification cards — test methods — Part 1 — General Characteristics — edition 2 was published on 26 April 2006.
 
-[^key-9856676e865363fba4a14aa61760b922]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-9856676e865363fba4a14aa61760b922]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-60d91c788e71c30ae9eb3ceebff33d23]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/a) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60d91c788e71c30ae9eb3ceebff33d23]: Textual amendment: Words in [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/a) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-138c390e364bc13559f5d568f5bc7d1b]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/c) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-138c390e364bc13559f5d568f5bc7d1b]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/c) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5aded67b8097b382152b238652fb3020]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/e) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5aded67b8097b382152b238652fb3020]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/e) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be911d755c913d8f6c39d7b3719799e7]: Textual amendment: [Sch. 2 para. 2(f)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/f) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be911d755c913d8f6c39d7b3719799e7]: Textual amendment: [Sch. 2 para. 2(f)](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2/f) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-035531d5997480c9627df08cb10166c5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-035531d5997480c9627df08cb10166c5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [46(3)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/46/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-121a3f32091c43d2a9fadca28ff55d4a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-121a3f32091c43d2a9fadca28ff55d4a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-8f405aae72386f0d8115857fbdcd13e3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-8f405aae72386f0d8115857fbdcd13e3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/2/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-34b7c6014c19ffc285b634a4b934b68e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/3) substituted (21.3.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/5), [Sch.](https://www.legislation.gov.uk/nisr/2016/73/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
+[^c-34b7c6014c19ffc285b634a4b934b68e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/3) substituted (21.3.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/5), [Sch.](https://www.legislation.gov.uk/nisr/2016/73/schedule) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
 
-[^key-26f2ea8733c1eefd90d665f6f7289f76]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-26f2ea8733c1eefd90d665f6f7289f76]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-04cf79e553d14896e74610cf9a8756bd]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-04cf79e553d14896e74610cf9a8756bd]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-a6941b0b639b82688dcc257b94b16133]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-a6941b0b639b82688dcc257b94b16133]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-f92cccd89a5bef0e7ff03e1848d6f541]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-f92cccd89a5bef0e7ff03e1848d6f541]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-622a7cb0ae383cbd2f4c884fa4e6bce7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-622a7cb0ae383cbd2f4c884fa4e6bce7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-fabc43f60a8ab0c41db2a2a3712fcf7e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-fabc43f60a8ab0c41db2a2a3712fcf7e]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-2237265e835430af5b0477b70d81dcca]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-2237265e835430af5b0477b70d81dcca]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-9f066cbde0194b4d4fdec33e4c47131c]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/8) substituted (21.3.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
+[^c-9f066cbde0194b4d4fdec33e4c47131c]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/4/paragraph/8) substituted (21.3.2016) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/73)](https://www.legislation.gov.uk/nisr/2016/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/73/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2016/73/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/73/regulation/3))
 
-[^key-586955fd3befc85d3539fe2e0a38c806]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-586955fd3befc85d3539fe2e0a38c806]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/1) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-3a4e75c69990e66a881d7e10906b3f90]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-3a4e75c69990e66a881d7e10906b3f90]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/2) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-391d7c819e0e0f0f6717413b280b9604]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-391d7c819e0e0f0f6717413b280b9604]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/3) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-59b1602789ae225dd758f52503c7fe6b]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-59b1602789ae225dd758f52503c7fe6b]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/4) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-4ac9b87652851835a09c820bbac8b1a0]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-4ac9b87652851835a09c820bbac8b1a0]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/5) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-5a4103235658f8fdfa5a40991870177d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-5a4103235658f8fdfa5a40991870177d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-d395753ae423ca71a515834a9fa56761]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-d395753ae423ca71a515834a9fa56761]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-df9007cf23971c67378873c18c55d1f9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/8) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-df9007cf23971c67378873c18c55d1f9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/8) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-9de9110ed3f1d63021ab24b5892b44c7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/9) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-9de9110ed3f1d63021ab24b5892b44c7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2010/132/schedule/5/paragraph/9) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-fbf5c6375197e2ea3fac4d4c1657fd2b]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-fbf5c6375197e2ea3fac4d4c1657fd2b]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2010/132/schedule/6) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-b076cdf0c571b113473367b38d3b3587]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
+[^c-b076cdf0c571b113473367b38d3b3587]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2010/132/schedule/7) in force at 31.12.2010, see [reg. 41(5)](https://www.legislation.gov.uk/nisr/2010/132/regulation/41/5)
 
-[^key-424d57b6dcd85fab289320b69165b190]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/8) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/10)
+[^c-424d57b6dcd85fab289320b69165b190]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2010/132/schedule/8) deleted (11.11.2013) by [The Train Driving Licences and Certificates (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/236)](https://www.legislation.gov.uk/nisr/2013/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/236/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2013/236/regulation/2/10)

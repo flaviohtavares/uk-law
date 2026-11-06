@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Obscenity etc offences: technology testing defence[^key-2b12b5c5197a1f0a73e6b5ddeeccf0a9]
+## 111. Obscenity etc offences: technology testing defence[^c-2b12b5c5197a1f0a73e6b5ddeeccf0a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b12b5c5197a1f0a73e6b5ddeeccf0a9]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2026/20/section/111) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-2b12b5c5197a1f0a73e6b5ddeeccf0a9]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2026/20/section/111) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

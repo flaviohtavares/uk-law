@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Functions of advocates appointed in respect of major incidents[^key-0f7d106d21aa953455a8a3ce8c902ae8][^key-3c5e651e6a75df258d6955a69d233af5]
+## 39. Functions of advocates appointed in respect of major incidents[^c-0f7d106d21aa953455a8a3ce8c902ae8][^c-3c5e651e6a75df258d6955a69d233af5]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f7d106d21aa953455a8a3ce8c902ae8]: Commencement: S. 39 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-0f7d106d21aa953455a8a3ce8c902ae8]: Commencement: S. 39 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-3c5e651e6a75df258d6955a69d233af5]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/21/section/39) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/e)
+[^c-3c5e651e6a75df258d6955a69d233af5]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/21/section/39) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/e)

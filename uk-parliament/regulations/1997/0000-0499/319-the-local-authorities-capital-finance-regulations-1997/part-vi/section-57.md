@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Transfer of property under the Local Government Act 1972[^key-a56ed2b84f21517ba25d9b08aa64da3a]
+## 57. Transfer of property under the Local Government Act 1972[^c-a56ed2b84f21517ba25d9b08aa64da3a]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ the sum received by the authority shall be a capital receipt.
 
 ## Annotations
 
-[^key-a56ed2b84f21517ba25d9b08aa64da3a]: Commencement: Reg. 57 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a56ed2b84f21517ba25d9b08aa64da3a]: Commencement: Reg. 57 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00048]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 51 was repealed, with a saving for orders, by section 29(2) and (3) of, and Part II of Schedule 4 to, the Local Government Act [1992 (c. 19)](https://www.legislation.gov.uk/ukpga/1992/19).
 

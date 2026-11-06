@@ -24,7 +24,7 @@ Regulations 5, 108 and 125
 
 ### PART 1 — Interpretation
 
-**1.**[^key-1aea9bade6ed4deab9ea7cfb981674c2] (1) For the purposes of this Schedule—
+**1.**[^c-1aea9bade6ed4deab9ea7cfb981674c2] (1) For the purposes of this Schedule—
 
 - “**EEA Agreement**” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00067] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00068];
 - “**EEA frontier self-employed person**” means an EEA national who—
@@ -86,7 +86,7 @@ Regulations 5, 108 and 125
 
 is to be considered to be ordinarily resident in the place from which he moved.
 
-(4)[^key-09963511ba7697e722d2b2e98c06a866] For the purposes of this Schedule, a person is to be treated as ordinarily resident in Northern Ireland, the United Kingdom and Islands, the territory comprising the European Economic Area and Switzerland or the territory comprising the European Economic Area, Switzerland and Turkey if he would have been so resident but for the fact that—
+(4)[^c-09963511ba7697e722d2b2e98c06a866] For the purposes of this Schedule, a person is to be treated as ordinarily resident in Northern Ireland, the United Kingdom and Islands, the territory comprising the European Economic Area and Switzerland or the territory comprising the European Economic Area, Switzerland and Turkey if he would have been so resident but for the fact that—
 
 - (a) he;
 - (b) his spouse or civil partner
@@ -95,7 +95,7 @@ is to be considered to be ordinarily resident in the place from which he moved.
 
 is or was temporarily employed outside the area in question.
 
-(5)[^key-27309be0da38290c6ba287dffe51dc4a] For the purposes of sub-paragraph (4), temporary employment outside of Northern Ireland, the United Kingdom and Islands, the territory comprising the European Economic Area and Switzerland or the territory comprising the European Economic Area, Switzerland and Turkey includes—
+(5)[^c-27309be0da38290c6ba287dffe51dc4a] For the purposes of sub-paragraph (4), temporary employment outside of Northern Ireland, the United Kingdom and Islands, the territory comprising the European Economic Area and Switzerland or the territory comprising the European Economic Area, Switzerland and Turkey includes—
 
 - (a) in the case of members of the regular naval, military or air forces of the Crown, any period which they serve outside the United Kingdom as members of such forces;
 - (b) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside of the territory comprising the European Economic Area and Switzerland as members of such forces; and
@@ -110,7 +110,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 ### PART 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom[^key-0dda24fcf6b13063f9c4a9cdc4e0afa4]
+#### 2. Persons who are settled in the United Kingdom[^c-0dda24fcf6b13063f9c4a9cdc4e0afa4]
 
 (1) A person who on the first day of the first academic year of the course—
 
@@ -121,7 +121,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(4).
 
-#### 3.[^key-0c39a674e70a54d061d479d589e8eb06]
+#### 3.[^c-0c39a674e70a54d061d479d589e8eb06]
 
 (1) A person who—
 
@@ -130,7 +130,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 4. Refugees and their family members[^key-1c6cc080bd9966648306767cae65b928]
+#### 4. Refugees and their family members[^c-1c6cc080bd9966648306767cae65b928]
 
 (1) A person—
 
@@ -141,7 +141,7 @@ is to be considered to have always been a part of the European Economic Area.
 (2) A person—
 
 - (a) who is the spouse or civil partner of a refugee;
-- (b) who was the spouse or[^key-93e1330edbca48ac682829ed43328df8] civil partner of the refugee on the date on which the refugee made his application for asylum;
+- (b) who was the spouse or[^c-93e1330edbca48ac682829ed43328df8] civil partner of the refugee on the date on which the refugee made his application for asylum;
 - (c) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he was given leave to enter or remain in the United Kingdom; and
 - (d) who is ordinarily resident in Northern Ireland on the first day of the first academic year of the course.
 
@@ -153,7 +153,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (d) who is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since he was given leave to enter or remain in the United Kingdom; and
 - (e) who is ordinarily resident in Northern Ireland on the first day of the first academic year of the course.
 
-#### 5. Persons with leave to enter or remain and their family members[^key-cebbf05144b68e7adbd7ffdc257a12ee]
+#### 5. Persons with leave to enter or remain and their family members[^c-cebbf05144b68e7adbd7ffdc257a12ee]
 
 (1) A person—
 
@@ -176,7 +176,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (d) who is ordinarily resident in Northern Ireland on the first day of the first academic year of the course; and
 - (e) who has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course.
 
-#### 6. Workers, employed persons, self-employed persons and their family members[^key-9e36925d05efc8994af3fb8db03d869b]
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-9e36925d05efc8994af3fb8db03d869b]
 
 (1) A person who—
 
@@ -192,7 +192,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
 
-#### 7.[^key-1bcdf7f400b59c3fb45f7696b26565ea]
+#### 7.[^c-1bcdf7f400b59c3fb45f7696b26565ea]
 
 A person who—
 
@@ -200,7 +200,7 @@ A person who—
 - (b) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (c) is entitled to support by virtue of Article 12 of [Council Regulation (EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00071], as extended by the EEA Agreement.
 
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-8a9a6a05c75aabbe5923b0f3a5f345e4]
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-8a9a6a05c75aabbe5923b0f3a5f345e4]
 
 (1) A person who—
 
@@ -212,7 +212,7 @@ A person who—
 
 (2) For the purposes of this paragraph, a person has exercised a right of residence if he is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has a right of permanent residence who in each case has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom or, in the case of a person who is settled in the United Kingdom and has a right of permanent residence, if he goes to the state within the territory comprising the European Economic Area and Switzerland of which he is a national or of which the person in relation to whom he is a family member is a national.
 
-#### 9. EC nationals[^key-726220606a0c4949336b12adcd4e7029]
+#### 9. EC nationals[^c-726220606a0c4949336b12adcd4e7029]
 
 (1) A person who—
 
@@ -229,7 +229,7 @@ A person who—
 
 (3) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state or the family member of a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national on the first day of the first academic year of the course is treated as being satisfied.
 
-#### 10.[^key-61c15e862f5352a9ebd35ddafacbc0bb]
+#### 10.[^c-61c15e862f5352a9ebd35ddafacbc0bb]
 
 (1) A person who—
 
@@ -240,7 +240,7 @@ A person who—
 
 (2) Where a state accedes to the European Community after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national other than a United Kingdom national on the first day of the first academic year of the course is treated as being satisfied.
 
-#### 11. Children of Swiss nationals[^key-807c1d7a3fb5816b035cd75430c59334]
+#### 11. Children of Swiss nationals[^c-807c1d7a3fb5816b035cd75430c59334]
 
 A person who—
 
@@ -249,7 +249,7 @@ A person who—
 - (c) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 12. Children of Turkish workers[^key-c3a6178ebfecf82d89fc569a7248d031]
+#### 12. Children of Turkish workers[^c-c3a6178ebfecf82d89fc569a7248d031]
 
 A person who—
 
@@ -259,7 +259,7 @@ A person who—
 
 ## Annotations
 
-[^key-1aea9bade6ed4deab9ea7cfb981674c2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1aea9bade6ed4deab9ea7cfb981674c2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00067]: Footnote: Cm. 2073.
 
@@ -269,32 +269,32 @@ A person who—
 
 [^f00070]: Footnote: Cm. 4904.
 
-[^key-09963511ba7697e722d2b2e98c06a866]: Textual amendment: [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1/4) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(a)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/a)
+[^c-09963511ba7697e722d2b2e98c06a866]: Textual amendment: [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1/4) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(a)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/a)
 
-[^key-27309be0da38290c6ba287dffe51dc4a]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1/5) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/b)
+[^c-27309be0da38290c6ba287dffe51dc4a]: Textual amendment: [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/1/5) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(b)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/b)
 
-[^key-0dda24fcf6b13063f9c4a9cdc4e0afa4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-0dda24fcf6b13063f9c4a9cdc4e0afa4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/2) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-0c39a674e70a54d061d479d589e8eb06]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-0c39a674e70a54d061d479d589e8eb06]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-1c6cc080bd9966648306767cae65b928]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1c6cc080bd9966648306767cae65b928]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/4) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-93e1330edbca48ac682829ed43328df8]: Textual amendment: Word in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/4/2/b) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [23](https://www.legislation.gov.uk/nisr/2007/363/regulation/23)
+[^c-93e1330edbca48ac682829ed43328df8]: Textual amendment: Word in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/4/2/b) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [23](https://www.legislation.gov.uk/nisr/2007/363/regulation/23)
 
-[^key-cebbf05144b68e7adbd7ffdc257a12ee]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-cebbf05144b68e7adbd7ffdc257a12ee]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/5) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-9e36925d05efc8994af3fb8db03d869b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-9e36925d05efc8994af3fb8db03d869b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/6) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-1bcdf7f400b59c3fb45f7696b26565ea]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1bcdf7f400b59c3fb45f7696b26565ea]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/7) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00071]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) p475).
 
-[^key-8a9a6a05c75aabbe5923b0f3a5f345e4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8a9a6a05c75aabbe5923b0f3a5f345e4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-726220606a0c4949336b12adcd4e7029]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-726220606a0c4949336b12adcd4e7029]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/9) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-61c15e862f5352a9ebd35ddafacbc0bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-61c15e862f5352a9ebd35ddafacbc0bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/10) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-807c1d7a3fb5816b035cd75430c59334]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-807c1d7a3fb5816b035cd75430c59334]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/11) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-c3a6178ebfecf82d89fc569a7248d031]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/12) added (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(c)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/c)
+[^c-c3a6178ebfecf82d89fc569a7248d031]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2007/195/schedule/2/paragraph/12) added (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [27(c)](https://www.legislation.gov.uk/nisr/2007/293/regulation/27/c)

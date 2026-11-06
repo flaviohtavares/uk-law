@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**222.**[^key-266853e316101c50ce4c24923068bc37] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
+**222.**[^c-266853e316101c50ce4c24923068bc37] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
 
 ## Annotations
 
-[^key-266853e316101c50ce4c24923068bc37]: Commencement: Reg. 222 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-266853e316101c50ce4c24923068bc37]: Commencement: Reg. 222 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

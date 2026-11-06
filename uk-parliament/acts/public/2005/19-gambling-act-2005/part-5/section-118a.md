@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Reinstatement[^key-60912a067471c36077d9cb89f24299a2]
+## 118A. Reinstatement[^c-60912a067471c36077d9cb89f24299a2]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60912a067471c36077d9cb89f24299a2]: Textual amendment: [S. 118A](https://www.legislation.gov.uk/ukpga/2005/19/section/118A) inserted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 25](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/25) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-60912a067471c36077d9cb89f24299a2]: Textual amendment: [S. 118A](https://www.legislation.gov.uk/ukpga/2005/19/section/118A) inserted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 25](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/25) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))

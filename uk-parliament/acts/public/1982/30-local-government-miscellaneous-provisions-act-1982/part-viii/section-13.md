@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Application of Part VIII.[^c2548871][^key-7a33f6e3b68481d8bbece84e46cc7a2f]
+## 13. Application of Part VIII.[^c2548871][^c-7a33f6e3b68481d8bbece84e46cc7a2f]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 (11) In this Part of this Act “**local authority**” means—
 
-- (a) the council of a district in England[^key-bd6a8c88360aad520b2004815f60697a];
+- (a) the council of a district in England[^c-bd6a8c88360aad520b2004815f60697a];
 - (b) the council of a London borough; and
 - (c) the Common Council of the City of London.
 
@@ -57,6 +57,6 @@ summary: ''
 
 [^c2548871]: Modification: Ss. 13-17: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-7a33f6e3b68481d8bbece84e46cc7a2f]: Modification: S. 13 extended (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/6/paragraph/3/2); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II)
+[^c-7a33f6e3b68481d8bbece84e46cc7a2f]: Modification: S. 13 extended (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/6/paragraph/3/2); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II)
 
-[^key-bd6a8c88360aad520b2004815f60697a]: Textual amendment: Words in [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/1982/30/section/13/11/a) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/22/2); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-bd6a8c88360aad520b2004815f60697a]: Textual amendment: Words in [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/1982/30/section/13/11/a) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/22/2); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

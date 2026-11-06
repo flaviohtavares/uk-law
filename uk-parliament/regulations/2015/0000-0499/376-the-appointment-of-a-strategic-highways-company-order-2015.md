@@ -43,13 +43,13 @@ Coming into force
 
 The Secretary of State for Transport makes the following Order in exercise of the powers conferred by sections 1(1) and (2) and 2(1) to (3) of the Infrastructure Act 2015[^f00001].
 
-## 1. Citation and commencement[^key-423362199f42b767a4b80ae07da0ef19]
+## 1. Citation and commencement[^c-423362199f42b767a4b80ae07da0ef19]
 
 This Order may be cited as the Appointment of a Strategic Highways Company Order 2015 and comes into force on 1st April 2015.
 
-## 2. Appointment of a Strategic Highways Company[^key-8c09bbded83b97119a7ef81c03cd3e67]
+## 2. Appointment of a Strategic Highways Company[^c-8c09bbded83b97119a7ef81c03cd3e67]
 
-(1) National Highways[^key-c90a833c600834033960977df6c73c8f] Limited, incorporated in England and Wales under company number 9346363, (“the company”) is appointed as a highway authority.
+(1) National Highways[^c-c90a833c600834033960977df6c73c8f] Limited, incorporated in England and Wales under company number 9346363, (“the company”) is appointed as a highway authority.
 
 (2) The company is appointed in respect of an area consisting of the whole of England.
 
@@ -83,8 +83,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2015 c.7](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-423362199f42b767a4b80ae07da0ef19]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/376/article/1)
+[^c-423362199f42b767a4b80ae07da0ef19]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/376/article/1)
 
-[^key-8c09bbded83b97119a7ef81c03cd3e67]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/376/article/1)
+[^c-8c09bbded83b97119a7ef81c03cd3e67]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/376/article/1)
 
-[^key-c90a833c600834033960977df6c73c8f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/376/article/2/1) substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/677/regulation/2/2)
+[^c-c90a833c600834033960977df6c73c8f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/376/article/2/1) substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/677/regulation/2/2)

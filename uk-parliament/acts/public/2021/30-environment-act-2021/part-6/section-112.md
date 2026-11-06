@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Habitats Regulations: power to amend general duties[^key-0ca8c6c9039b64a9e83942d891ffcd06][^key-a3f4e80f208dbdf28e63848a0e7e911d]
+## 112. Habitats Regulations: power to amend general duties[^c-0ca8c6c9039b64a9e83942d891ffcd06][^c-a3f4e80f208dbdf28e63848a0e7e911d]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca8c6c9039b64a9e83942d891ffcd06]: Commencement: S. 112 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-0ca8c6c9039b64a9e83942d891ffcd06]: Commencement: S. 112 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a3f4e80f208dbdf28e63848a0e7e911d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/30/section/112) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
+[^c-a3f4e80f208dbdf28e63848a0e7e911d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/30/section/112) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)

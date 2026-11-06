@@ -44,9 +44,9 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred on them by section 3(3) of the Value Added Tax Act 1983[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-**1.**[^key-536caf6926184a7dbaa7dfb6d35253ae] This Order may be cited as the Value Added Tax (Treatment of Transactions) Order 1992 and shall come into force on 1st April 1992.
+**1.**[^c-536caf6926184a7dbaa7dfb6d35253ae] This Order may be cited as the Value Added Tax (Treatment of Transactions) Order 1992 and shall come into force on 1st April 1992.
 
-**2.**[^key-a5a11dc0764e80405b85ef5febb806a3] Where an employer gives an employee a choice between—
+**2.**[^c-a5a11dc0764e80405b85ef5febb806a3] Where an employer gives an employee a choice between—
 
 - (a) a particular rate of wages, salary or emoluments, or
 - (b) in the alternative a lower rate of wages, salary or emoluments and, in addition, the right to the private use of a motor car provided by the employer,
@@ -71,6 +71,6 @@ This Order has no effect in relation to supplies for which the consideration is 
 
 [^f00001]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
 
-[^key-536caf6926184a7dbaa7dfb6d35253ae]: Commencement: Art. 1 in force at 1.4.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/630/article/1)
+[^c-536caf6926184a7dbaa7dfb6d35253ae]: Commencement: Art. 1 in force at 1.4.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/630/article/1)
 
-[^key-a5a11dc0764e80405b85ef5febb806a3]: Commencement: Art. 2 in force at 1.4.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/630/article/1)
+[^c-a5a11dc0764e80405b85ef5febb806a3]: Commencement: Art. 2 in force at 1.4.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/630/article/1)

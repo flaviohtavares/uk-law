@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Settlements with foreign element: information.[^key-84a6a7023846124085f3a78105ab69dc]
+## 98A. Settlements with foreign element: information.[^c-84a6a7023846124085f3a78105ab69dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5A to this Act (which contains general provisions about information rel
 
 ## Annotations
 
-[^key-84a6a7023846124085f3a78105ab69dc]: Textual amendment: S. 98A inserted (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 97(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/97/2)
+[^c-84a6a7023846124085f3a78105ab69dc]: Textual amendment: S. 98A inserted (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 97(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/97/2)

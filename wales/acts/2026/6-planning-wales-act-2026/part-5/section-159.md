@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Further provision about certificates of lawfulness[^key-04bdf444b2a470392a091f2774f37b82]
+## 159. Further provision about certificates of lawfulness[^c-04bdf444b2a470392a091f2774f37b82]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04bdf444b2a470392a091f2774f37b82]: Commencement: S. 159 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-04bdf444b2a470392a091f2774f37b82]: Commencement: S. 159 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

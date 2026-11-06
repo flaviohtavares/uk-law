@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to issue interview notice[^key-3d2b0452ed560b41eaa85f10f5a64f22]
+## 18. Power to issue interview notice[^c-3d2b0452ed560b41eaa85f10f5a64f22]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2b0452ed560b41eaa85f10f5a64f22]: Commencement: S. 18 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-3d2b0452ed560b41eaa85f10f5a64f22]: Commencement: S. 18 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

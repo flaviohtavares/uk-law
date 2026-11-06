@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Access to works[^key-788c4ef47e8dd3112ba7200d00091c7d]
+## SCHEDULE 9 — Access to works[^c-788c4ef47e8dd3112ba7200d00091c7d]
 
 *Extent: E+W+S*
 
@@ -89,10 +89,10 @@ Article 18
 </tbody>
 </table>
 
-[^key-9933aeb558638e88f69b29e3decef8b1][^key-9933aeb558638e88f69b29e3decef8b1]
+[^c-9933aeb558638e88f69b29e3decef8b1][^c-9933aeb558638e88f69b29e3decef8b1]
 
 ## Annotations
 
-[^key-788c4ef47e8dd3112ba7200d00091c7d]: Commencement: Sch. 9 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-788c4ef47e8dd3112ba7200d00091c7d]: Commencement: Sch. 9 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-9933aeb558638e88f69b29e3decef8b1]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2013/648/schedule/9) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [10](https://www.legislation.gov.uk/uksi/2017/843/article/10)
+[^c-9933aeb558638e88f69b29e3decef8b1]: Textual amendment: Words in [Sch. 9](https://www.legislation.gov.uk/uksi/2013/648/schedule/9) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [10](https://www.legislation.gov.uk/uksi/2017/843/article/10)

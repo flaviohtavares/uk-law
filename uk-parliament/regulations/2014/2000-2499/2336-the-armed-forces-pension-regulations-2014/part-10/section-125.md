@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Re-employment after ill health awards[^key-032d6afa55fda11ec1e926750e7cf3c4]
+## 125. Re-employment after ill health awards[^c-032d6afa55fda11ec1e926750e7cf3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-032d6afa55fda11ec1e926750e7cf3c4]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2014/2336/regulation/125) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-032d6afa55fda11ec1e926750e7cf3c4]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2014/2336/regulation/125) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

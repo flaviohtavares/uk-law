@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Notification and publicity where power to designate by name is used[^key-9bc2f8a78cc145421ac401df7809a77e]
+## 10. Notification and publicity where power to designate by name is used[^c-9bc2f8a78cc145421ac401df7809a77e]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc2f8a78cc145421ac401df7809a77e]: Commencement: Reg. 10 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-9bc2f8a78cc145421ac401df7809a77e]: Commencement: Reg. 10 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

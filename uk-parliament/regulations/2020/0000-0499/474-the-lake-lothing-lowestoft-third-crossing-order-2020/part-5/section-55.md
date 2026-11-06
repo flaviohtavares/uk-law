@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Deemed marine licence[^key-d90441617a59d8adb9a8496420bbbd0d]
+## 55. Deemed marine licence[^c-d90441617a59d8adb9a8496420bbbd0d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker is granted a deemed marine licence under Part 4 (marine licensing
 
 ## Annotations
 
-[^key-d90441617a59d8adb9a8496420bbbd0d]: Commencement: Art. 55 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d90441617a59d8adb9a8496420bbbd0d]: Commencement: Art. 55 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Consideration of representations by examiner[^key-434032d21947449a91b01b5b620588e6]
+## 20. Consideration of representations by examiner[^c-434032d21947449a91b01b5b620588e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The examiner must consider any representations made in accordance with regulatio
 
 ## Annotations
 
-[^key-434032d21947449a91b01b5b620588e6]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-434032d21947449a91b01b5b620588e6]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

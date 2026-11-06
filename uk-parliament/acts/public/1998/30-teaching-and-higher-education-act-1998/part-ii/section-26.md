@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Imposition of conditions as to fees at further or higher education institutions.[^key-1cfe60a7c3be8492a385b0f19085be7b]
+## 26. Imposition of conditions as to fees at further or higher education institutions.[^c-1cfe60a7c3be8492a385b0f19085be7b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cfe60a7c3be8492a385b0f19085be7b]: Textual amendment: S. 26 repealed (7.7.2005 for W. for the repeal only of s. 26(5), 14.1.2006 for E., 31.3.2011 in so far as not already in force) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/6/paragraph/7), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2005/1833](https://www.legislation.gov.uk/uksi/2005/1833), [art. 4(e)](https://www.legislation.gov.uk/uksi/2005/1833/article/4/e); [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2); [S.I. 2011/297](https://www.legislation.gov.uk/uksi/2011/297), [art. 4(g)](https://www.legislation.gov.uk/uksi/2011/297/article/4/g)
+[^c-1cfe60a7c3be8492a385b0f19085be7b]: Textual amendment: S. 26 repealed (7.7.2005 for W. for the repeal only of s. 26(5), 14.1.2006 for E., 31.3.2011 in so far as not already in force) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [s. 52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/6/paragraph/7), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2005/1833](https://www.legislation.gov.uk/uksi/2005/1833), [art. 4(e)](https://www.legislation.gov.uk/uksi/2005/1833/article/4/e); [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2); [S.I. 2011/297](https://www.legislation.gov.uk/uksi/2011/297), [art. 4(g)](https://www.legislation.gov.uk/uksi/2011/297/article/4/g)

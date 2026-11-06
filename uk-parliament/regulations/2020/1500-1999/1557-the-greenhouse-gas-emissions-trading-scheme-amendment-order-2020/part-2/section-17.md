@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Article 33 amended (reporting aviation emissions)[^key-95d4aa3f8ef559ef7176c51187551c3d]
+## 17. Article 33 amended (reporting aviation emissions)[^c-95d4aa3f8ef559ef7176c51187551c3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d4aa3f8ef559ef7176c51187551c3d]: Commencement: Art. 17 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-95d4aa3f8ef559ef7176c51187551c3d]: Commencement: Art. 17 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

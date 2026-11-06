@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.7. Admission and rejection of proofs for dividend[^key-6f15435f6055f0c5d5ceeba1cddad81d]
+## 5.7. Admission and rejection of proofs for dividend[^c-6f15435f6055f0c5d5ceeba1cddad81d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f15435f6055f0c5d5ceeba1cddad81d]: Commencement: Rule 5.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6f15435f6055f0c5d5ceeba1cddad81d]: Commencement: Rule 5.7 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

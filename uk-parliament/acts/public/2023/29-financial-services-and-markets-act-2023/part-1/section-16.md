@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Regulations[^key-bc8e3147ebdf8dd48c980f3afe5d75c8][^key-de0dc6c883ec1c7a86073b57ae38d96f]
+## 16. Regulations[^c-bc8e3147ebdf8dd48c980f3afe5d75c8][^c-de0dc6c883ec1c7a86073b57ae38d96f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc8e3147ebdf8dd48c980f3afe5d75c8]: Commencement: S. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bc8e3147ebdf8dd48c980f3afe5d75c8]: Commencement: S. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-de0dc6c883ec1c7a86073b57ae38d96f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/29/section/16) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/k)
+[^c-de0dc6c883ec1c7a86073b57ae38d96f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/29/section/16) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Publication of codes of practice[^key-138480485fb1440c67f234676ae363b0]
+## 46. Publication of codes of practice[^c-138480485fb1440c67f234676ae363b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-138480485fb1440c67f234676ae363b0]: Commencement: S. 46 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-138480485fb1440c67f234676ae363b0]: Commencement: S. 46 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

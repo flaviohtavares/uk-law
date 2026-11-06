@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Operational land for the purposes of the 1990 Act[^key-d7dd179721c303ffd170bda738dd0d19]
+## 46. Operational land for the purposes of the 1990 Act[^c-d7dd179721c303ffd170bda738dd0d19]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order for development on Order land is to be
 
 ## Annotations
 
-[^key-d7dd179721c303ffd170bda738dd0d19]: Commencement: Art. 46 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-d7dd179721c303ffd170bda738dd0d19]: Commencement: Art. 46 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

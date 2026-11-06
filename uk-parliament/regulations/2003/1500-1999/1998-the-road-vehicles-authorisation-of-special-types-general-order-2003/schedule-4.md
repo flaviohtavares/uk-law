@@ -24,7 +24,7 @@ Article 10(4) and 11(1)(a)
 
 ### PART 1 — DEFINED TERMS
 
-**1.**[^key-6e162617bdea82f7472776e7bb9f8794] (1) In this Order “road recovery vehicle” means a vehicle that is—
+**1.**[^c-6e162617bdea82f7472776e7bb9f8794] (1) In this Order “road recovery vehicle” means a vehicle that is—
 
 - (a) a locomotive;
 - (b) a motor vehicle of category N3; or
@@ -40,31 +40,31 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 ### PART 2 — CONSTRUCTION
 
-**2.**[^key-46a645338466674f6e5d70a59f8039c6] (1) A road recovery vehicle must be a wheeled vehicle.
+**2.**[^c-46a645338466674f6e5d70a59f8039c6] (1) A road recovery vehicle must be a wheeled vehicle.
 
 (2) Every wheel must be fitted with a pneumatic tyre.
 
-**3.**[^key-764c82e4d54c08b3188a92ec0ae3dc33] A warning beacon emitting an amber light must be fitted to a road recovery vehicle.
+**3.**[^c-764c82e4d54c08b3188a92ec0ae3dc33] A warning beacon emitting an amber light must be fitted to a road recovery vehicle.
 
 ### PART 3 — PLATES
 
-**4.**[^key-c758ab6592d11fb43681df6f9322fc87] A road recovery vehicle must be equipped with a plate that specifies the maximum weight that may be lifted by any crane, winch or other lifting system with which the vehicle is fitted.
+**4.**[^c-c758ab6592d11fb43681df6f9322fc87] A road recovery vehicle must be equipped with a plate that specifies the maximum weight that may be lifted by any crane, winch or other lifting system with which the vehicle is fitted.
 
 ### PART 4 — CONDITIONS RELATING TO USE
 
 #### Restriction on carriage of loads and towing of vehicles
 
-**5.**[^key-720795ae58f563bdc4202b6d4521bbc1] (1) A road recovery vehicle must not carry or tow any load or transport any goods or burden.
+**5.**[^c-720795ae58f563bdc4202b6d4521bbc1] (1) A road recovery vehicle must not carry or tow any load or transport any goods or burden.
 
 (2) But that is subject to paragraphs 6 and 7.
 
-**6.**[^key-537788b182825145b18a514cd992e303] A road recovery vehicle may carry its own necessary gear and equipment.
+**6.**[^c-537788b182825145b18a514cd992e303] A road recovery vehicle may carry its own necessary gear and equipment.
 
-**7.**[^key-e55fada7db9ad8ce0909c7637b33cda7] (1) Except as stated in sub-paragraph (2), a road recovery vehicle may carry or tow a disabled vehicle or vehicle-combination when conveying it to a destination in accordance with the instructions of the owner or driver of the vehicle or when conveying it to an appropriate destination for repair.
+**7.**[^c-e55fada7db9ad8ce0909c7637b33cda7] (1) Except as stated in sub-paragraph (2), a road recovery vehicle may carry or tow a disabled vehicle or vehicle-combination when conveying it to a destination in accordance with the instructions of the owner or driver of the vehicle or when conveying it to an appropriate destination for repair.
 
 (2) Where a recovery of a disabled vehicle or vehicle-combination is effected by using a drawbar or lift-and-tow method, the road recovery vehicle must not carry or tow the disabled vehicle or vehicle-combination any further than is reasonably necessary in order to clear any road obstructed by it and to facilitate the use of roads by other persons.
 
-**8.**[^key-6f23d8df9254c434fade068c472df6d9] (1) At any time when a disabled vehicle or vehicle-combination is being towed by a road recovery vehicle, the braking system of the disabled vehicle or vehicle-combination must not be operated by any device other than an approved brake connection point that is fitted to both the road recovery vehicle and the disabled vehicle or vehicle-combination.
+**8.**[^c-6f23d8df9254c434fade068c472df6d9] (1) At any time when a disabled vehicle or vehicle-combination is being towed by a road recovery vehicle, the braking system of the disabled vehicle or vehicle-combination must not be operated by any device other than an approved brake connection point that is fitted to both the road recovery vehicle and the disabled vehicle or vehicle-combination.
 
 (2) In sub-paragraph (1), “approved brake connection point”, in relation to a road recovery vehicle, means a device which is—
 
@@ -72,11 +72,11 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 - (b) fitted to the vehicle in the course of its construction or adaptation; and
 - (c) specially designed for use in the course of recovering disabled vehicles or vehicle-combinations in order to provide a means by which the braking system of the disabled vehicle or vehicle-combination can be safely and effectively controlled from the road recovery vehicle.
 
-**9.**[^key-916f14505ae08137a4ad52161ab86d55] A road recovery vehicle must not tow a disabled vehicle or vehicle-combination if the weight of the road recovery vehicle, together with the weight of the vehicle or vehicles being towed, would exceed the maximum train weight shown on the plate required to be fitted to the road recovery vehicle by regulation 66 of the Construction and Use Regulations (plates for goods vehicles and buses).
+**9.**[^c-916f14505ae08137a4ad52161ab86d55] A road recovery vehicle must not tow a disabled vehicle or vehicle-combination if the weight of the road recovery vehicle, together with the weight of the vehicle or vehicles being towed, would exceed the maximum train weight shown on the plate required to be fitted to the road recovery vehicle by regulation 66 of the Construction and Use Regulations (plates for goods vehicles and buses).
 
 #### Beacons
 
-**10.**[^key-ad9759fca7c1921f9458b299e6e82549] (1) When a road recovery vehicle is used on roads, the beacon fitted to it under paragraph 3 must be kept lit—
+**10.**[^c-ad9759fca7c1921f9458b299e6e82549] (1) When a road recovery vehicle is used on roads, the beacon fitted to it under paragraph 3 must be kept lit—
 
 - (a) when the road recovery vehicle is stationary at the scene of the breakdown; or
 - (b) when the road recovery vehicle is unable, on account of any vehicle or vehicles it is towing, the weather conditions or otherwise, to maintain speeds appropriate to the road.
@@ -88,7 +88,7 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 #### Maximum width
 
-**11.**[^key-e22feb9345409b729064b10cb600cde7] (1) The overall width of a road recovery vehicle must not exceed the limits imposed by regulation 8 of the Construction and Use Regulations (restrictions as to width).
+**11.**[^c-e22feb9345409b729064b10cb600cde7] (1) The overall width of a road recovery vehicle must not exceed the limits imposed by regulation 8 of the Construction and Use Regulations (restrictions as to width).
 
 (2) But sub-paragraph (1) does not apply to a road recovery vehicle that satisfies the width conditions.
 
@@ -100,13 +100,13 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 #### Maximum length
 
-**12.**[^key-e6406c1235881574e9cb61b1e4c24769] (1) The overall length of a road recovery vehicle must not exceed 18.75 metres.
+**12.**[^c-e6406c1235881574e9cb61b1e4c24769] (1) The overall length of a road recovery vehicle must not exceed 18.75 metres.
 
 (2) But sub-paragraph (1) does not apply to restrict the combined length of a road recovery vehicle together with any disabled vehicle or vehicle-combination carried or towed by it in the course of a recovery.
 
 #### Maximum vehicle weight
 
-**13.**[^key-4ef68a396e0453b18d307e47381aa55b] The gross weight of a road recovery vehicle must not exceed—
+**13.**[^c-4ef68a396e0453b18d307e47381aa55b] The gross weight of a road recovery vehicle must not exceed—
 
 - (a) 36,000 kilograms in the case of a locomotive, the weight of which is transmitted to the road surface through 3 axles;
 - (b) 50,000 kilograms in the case of a locomotive, the weight of which is transmitted to the road surface through 4 or more axles;
@@ -115,7 +115,7 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 #### Maximum axle and wheel weights
 
-**14.**[^key-7e93b382b8b546bee580a0f78a8cfd58] (1) The distance between any two adjacent axles of a road recovery vehicle must not be less than 1.3 metres.
+**14.**[^c-7e93b382b8b546bee580a0f78a8cfd58] (1) The distance between any two adjacent axles of a road recovery vehicle must not be less than 1.3 metres.
 
 (2) The axle weight of a road recovery vehicle must not exceed 12,500 kilograms.
 
@@ -128,13 +128,13 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 (5) But sub-paragraph (4)(b) does not apply to a road recovery vehicle falling within paragraph 13(c).
 
-**15.**[^key-ebf95786f91d2f103c854b5e1aa1c193] (1) If a road recovery vehicle has only one front steer axle, that axle must carry at least 40 per cent of the maximum axle weight shown on the plate required by regulation 66 of the Construction and Use Regulations (plates for goods vehicles and buses).
+**15.**[^c-ebf95786f91d2f103c854b5e1aa1c193] (1) If a road recovery vehicle has only one front steer axle, that axle must carry at least 40 per cent of the maximum axle weight shown on the plate required by regulation 66 of the Construction and Use Regulations (plates for goods vehicles and buses).
 
 (2) If the vehicle has two or more front steer axles, all those axles taken together must carry at least 40 per cent of such weight.
 
 #### Speed restrictions
 
-**16.**[^key-69f7471fac00ede2a4277c244137690f] (1) A road recovery vehicle must not, at any time when it is carrying or towing a disabled vehicle or vehicle-combination, travel at speeds exceeding—
+**16.**[^c-69f7471fac00ede2a4277c244137690f] (1) A road recovery vehicle must not, at any time when it is carrying or towing a disabled vehicle or vehicle-combination, travel at speeds exceeding—
 
 - (a) 40 miles per hour on a motorway;
 - (b) 30 miles per hour on a dual carriageway; or
@@ -144,7 +144,7 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 ### PART 5 — APPLICATION OF REGULATIONS MADE UNDER SECTION 41 OF THE ROAD TRAFFIC ACT 1988
 
-**17.**[^key-42f5165f79255a72e2ece3decd7a35bf] A road recovery vehicle must comply with—
+**17.**[^c-42f5165f79255a72e2ece3decd7a35bf] A road recovery vehicle must comply with—
 
 - (a) the Construction and Use Regulations, apart from the provisions of those Regulations specified in Table 12;
 - (b) the Authorised Weight Regulations, but only to the extent specified in paragraph 13 of this Schedule; and
@@ -173,38 +173,38 @@ and that satisfies the three conditions in sub-paragraphs (2) to (4).
 
 ## Annotations
 
-[^key-6e162617bdea82f7472776e7bb9f8794]: Commencement: Sch. 4 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6e162617bdea82f7472776e7bb9f8794]: Commencement: Sch. 4 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00031]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-46a645338466674f6e5d70a59f8039c6]: Commencement: Sch. 4 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-46a645338466674f6e5d70a59f8039c6]: Commencement: Sch. 4 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-764c82e4d54c08b3188a92ec0ae3dc33]: Commencement: Sch. 4 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-764c82e4d54c08b3188a92ec0ae3dc33]: Commencement: Sch. 4 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-c758ab6592d11fb43681df6f9322fc87]: Commencement: Sch. 4 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-c758ab6592d11fb43681df6f9322fc87]: Commencement: Sch. 4 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-720795ae58f563bdc4202b6d4521bbc1]: Commencement: Sch. 4 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-720795ae58f563bdc4202b6d4521bbc1]: Commencement: Sch. 4 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-537788b182825145b18a514cd992e303]: Commencement: Sch. 4 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-537788b182825145b18a514cd992e303]: Commencement: Sch. 4 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-e55fada7db9ad8ce0909c7637b33cda7]: Commencement: Sch. 4 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e55fada7db9ad8ce0909c7637b33cda7]: Commencement: Sch. 4 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-6f23d8df9254c434fade068c472df6d9]: Commencement: Sch. 4 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6f23d8df9254c434fade068c472df6d9]: Commencement: Sch. 4 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-916f14505ae08137a4ad52161ab86d55]: Commencement: Sch. 4 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-916f14505ae08137a4ad52161ab86d55]: Commencement: Sch. 4 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-ad9759fca7c1921f9458b299e6e82549]: Commencement: Sch. 4 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-ad9759fca7c1921f9458b299e6e82549]: Commencement: Sch. 4 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-e22feb9345409b729064b10cb600cde7]: Commencement: Sch. 4 para. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e22feb9345409b729064b10cb600cde7]: Commencement: Sch. 4 para. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-e6406c1235881574e9cb61b1e4c24769]: Commencement: Sch. 4 para. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-e6406c1235881574e9cb61b1e4c24769]: Commencement: Sch. 4 para. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-4ef68a396e0453b18d307e47381aa55b]: Commencement: Sch. 4 para. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-4ef68a396e0453b18d307e47381aa55b]: Commencement: Sch. 4 para. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-7e93b382b8b546bee580a0f78a8cfd58]: Commencement: Sch. 4 para. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-7e93b382b8b546bee580a0f78a8cfd58]: Commencement: Sch. 4 para. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-ebf95786f91d2f103c854b5e1aa1c193]: Commencement: Sch. 4 para. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-ebf95786f91d2f103c854b5e1aa1c193]: Commencement: Sch. 4 para. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-69f7471fac00ede2a4277c244137690f]: Commencement: Sch. 4 para. 16 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-69f7471fac00ede2a4277c244137690f]: Commencement: Sch. 4 para. 16 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-42f5165f79255a72e2ece3decd7a35bf]: Commencement: Sch. 4 para. 17 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-42f5165f79255a72e2ece3decd7a35bf]: Commencement: Sch. 4 para. 17 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

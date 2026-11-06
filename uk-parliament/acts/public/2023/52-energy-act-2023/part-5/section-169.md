@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Modification of licences etc[^key-a919f0c1dd76a2c3244308c9a0042569]
+## 169. Modification of licences etc[^c-a919f0c1dd76a2c3244308c9a0042569]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a919f0c1dd76a2c3244308c9a0042569]: Commencement: S. 169 in force at Royal Assent, see [s. 334(2)(h)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-a919f0c1dd76a2c3244308c9a0042569]: Commencement: S. 169 in force at Royal Assent, see [s. 334(2)(h)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

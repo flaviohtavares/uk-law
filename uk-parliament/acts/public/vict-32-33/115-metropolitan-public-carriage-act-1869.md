@@ -93,8 +93,8 @@ as may be prescribed.
 
 (9) Provision shall be made by London cab order—
 
-- (a) for the transfer of a licence under this section to the surviving spouse or surviving civil partner[^key-0184215d9707f1b8e11a9b229f343b5b] or to any child of full age of any person to whom such a licence has been granted who may die during the continuance of the licence leaving a surviving spouse or surviving civil partner or child of full age; [^key-01ec60d5baa3f935c733065f14ff1ffb] ...
-- (b)[^key-81e611009e3371114fbc34ba926fc098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for the transfer of a licence under this section to the surviving spouse or surviving civil partner[^c-0184215d9707f1b8e11a9b229f343b5b] or to any child of full age of any person to whom such a licence has been granted who may die during the continuance of the licence leaving a surviving spouse or surviving civil partner or child of full age; [^c-01ec60d5baa3f935c733065f14ff1ffb] ...
+- (b)[^c-81e611009e3371114fbc34ba926fc098] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Penalty on use of unlicensed carriages.[^c567428]
 
@@ -137,7 +137,7 @@ as may be prescribed.
 
 (6) Subsection (5) of this section is subject to the following provisions of this section.
 
-(7) Subject to section 8A, a[^key-f6d51c72119c294d6a53fb58be80f2ba] licence under this section shall, if not revoked or suspended, be in force for three years.
+(7) Subject to section 8A, a[^c-f6d51c72119c294d6a53fb58be80f2ba] licence under this section shall, if not revoked or suspended, be in force for three years.
 
 (8) A fee of such amount (if any) as Transport for London may determine shall be paid to Transport for London—
 
@@ -154,7 +154,7 @@ as may be prescribed.
 
 (11) Transport for London may remit or refund the whole or part of a fee under subsection (8) of this section.
 
-### 8A. Drivers' licences for persons subject to immigration control[^key-6773772687d3ccac0d2f223d464c2353]
+### 8A. Drivers' licences for persons subject to immigration control[^c-6773772687d3ccac0d2f223d464c2353]
 
 (1) Subsection (2) applies if—
 
@@ -291,11 +291,11 @@ All the provisions of the Acts relating to hackney carriages . . . [^c567502] in
 
 [^c567424]: Textual amendment: S. 6 substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20 Pt. I para. 5(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20/part/I/paragraph/5/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-0184215d9707f1b8e11a9b229f343b5b]: Textual amendment: Words in s. 6(9)(a) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/a/i)
+[^c-0184215d9707f1b8e11a9b229f343b5b]: Textual amendment: Words in s. 6(9)(a) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/a/i)
 
-[^key-01ec60d5baa3f935c733065f14ff1ffb]: Textual amendment: Word in s. 6(9)(a) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/a/ii)
+[^c-01ec60d5baa3f935c733065f14ff1ffb]: Textual amendment: Word in s. 6(9)(a) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/a/ii)
 
-[^key-81e611009e3371114fbc34ba926fc098]: Textual amendment: S. 6(9)(b) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/b)
+[^c-81e611009e3371114fbc34ba926fc098]: Textual amendment: S. 6(9)(b) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/1/b)
 
 [^c567428]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/7): by [Criminal Justice Act 1967 (c. 80, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1967/80), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1967/80/schedule/3/part/I) it was provided that s. 7 should have effect as if the maximum fine which might be imposed on summary conviction for any offence specified in s. 7 were a fine not exceeding £20 for a first offence and £50 for a second or subsequent offence and, as regards s. 7 as so amended, [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 39(2) (and Sch. 3) (increase of fines) and 46 (substitution of references to levels on the standard scale) apply
 
@@ -305,9 +305,9 @@ All the provisions of the Acts relating to hackney carriages . . . [^c567502] in
 
 [^c567456]: Textual amendment: S. 8 substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20 Pt. I para. 5(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20/part/I/paragraph/5/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-f6d51c72119c294d6a53fb58be80f2ba]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/8/7) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i)
+[^c-f6d51c72119c294d6a53fb58be80f2ba]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/8/7) substituted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/3) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i)
 
-[^key-6773772687d3ccac0d2f223d464c2353]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/8A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-6773772687d3ccac0d2f223d464c2353]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/8A) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/4) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
 
 [^c567478]: Subordinate legislation: [S. 9](https://www.legislation.gov.uk/ukpga/Vict/32-33/115/section/9): power exercised by [S.I. 1991/1301](https://www.legislation.gov.uk/uksi/1991/1301). For previous execise of power see the Index to Government Orders
 

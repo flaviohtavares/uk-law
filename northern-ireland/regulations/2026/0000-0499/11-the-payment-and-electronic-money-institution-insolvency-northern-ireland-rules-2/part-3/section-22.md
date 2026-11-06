@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Release from duty to submit statement of affairs[^key-b7bbfd3b54054bd46fc4bea689d7ddd4]
+## 22. Release from duty to submit statement of affairs[^c-b7bbfd3b54054bd46fc4bea689d7ddd4]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7bbfd3b54054bd46fc4bea689d7ddd4]: Commencement: [Rule 22](https://www.legislation.gov.uk/nisr/2026/11/rule/22) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b7bbfd3b54054bd46fc4bea689d7ddd4]: Commencement: [Rule 22](https://www.legislation.gov.uk/nisr/2026/11/rule/22) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.39. Power to make child protection order in an application for an exclusion order[^key-265e4e5141aee5f1975d87136a881662]
+## 3.39. Power to make child protection order in an application for an exclusion order[^c-265e4e5141aee5f1975d87136a881662]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the sheriff, in terms of section 76(8) of the 1995 Act, has decided to ma
 
 ## Annotations
 
-[^key-265e4e5141aee5f1975d87136a881662]: Textual amendment: Rule 3.39 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(28)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/28) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-265e4e5141aee5f1975d87136a881662]: Textual amendment: Rule 3.39 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(28)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/28) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

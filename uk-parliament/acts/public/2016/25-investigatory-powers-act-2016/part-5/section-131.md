@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Additional safeguards for items subject to legal privilege[^key-9e3872a6772d8a4da11e5dec4a62ab17]
+## 131. Additional safeguards for items subject to legal privilege[^c-9e3872a6772d8a4da11e5dec4a62ab17]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e3872a6772d8a4da11e5dec4a62ab17]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2016/25/section/131) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/q) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))
+[^c-9e3872a6772d8a4da11e5dec4a62ab17]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2016/25/section/131) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/q) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3 — Information to be included in ESOS report, to be notified to scheme administrator and to be published by scheme administrator[^key-337ecd95725a70eacbe8faac28221244]
+## Schedule 3 — Information to be included in ESOS report, to be notified to scheme administrator and to be published by scheme administrator[^c-337ecd95725a70eacbe8faac28221244]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ Information in relation to responsible undertaking
 | trading or other name by which the responsible undertaking is commonly known (where applicable) | no | yes | yes |
 | name, postal address, email address and telephone number of at least two individuals who will act as contacts for the responsible undertaking, one of whom is the responsible officer | no | yes | no |
 | where the responsible undertaking has a parent undertaking to which these Regulations do not extend (the “global parent”), the name of the global parent, and the trading or other name of the group of undertakings of which the global parent is the parent | no | yes | yes |
-| standard industrial classification code [^key-45c30ba0358da0f7505c76a3f658be20]... of the responsible undertaking and (where different) of other relevant undertakings where complying as one participant | no | yes | yes |
+| standard industrial classification code [^c-45c30ba0358da0f7505c76a3f658be20]... of the responsible undertaking and (where different) of other relevant undertakings where complying as one participant | no | yes | yes |
 | reasons for classification of the responsible undertaking as a large undertaking, or small or medium undertaking as determined in accordance with Schedule 1 | no | yes | yes |
-| where applicable, the name and company registration number of the highest parent (insofar as those details are different to those of the responsible undertaking)[^key-45cf89abcb6611fd334a7ada16368be8] | yes | yes | yes |
+| where applicable, the name and company registration number of the highest parent (insofar as those details are different to those of the responsible undertaking)[^c-45cf89abcb6611fd334a7ada16368be8] | yes | yes | yes |
 
 Table B
 
@@ -50,8 +50,8 @@ Information in relation to the participant where the responsible undertaking is 
 | the names and companies house registration numbers (where applicable) of the relevant undertakings comprising the participant | no | yes | \>yes |
 | where paragraph 1 of Schedule 2 applies, the fact that an agreement under paragraph 2 of Schedule 2 has been made, and the names of the relevant highest parents | no | yes | yes |
 | the name of any relevant undertaking that has ceased to be part of the participant since the qualification date by virtue of paragraph 3 or 7 of Schedule 2 | no | yes | yes |
-| [^key-5401dc32b3a23c5d225ae0f785981d0d]... information setting out the relationship between the relevant undertakings complying with the Scheme as one participant, including the responsible undertaking, any franchisees, any relevant undertaking that has ceased to be part of the participant since the qualification date by virtue of paragraph 3 or 7 of Schedule 2 and any parent undertaking of the responsible undertaking to which these Regulations do not extend | yes | yes | yes |
-| where applicable, confirmation of whether the responsible undertaking’s highest parent is one of the relevant undertakings comprising the participant, where the responsible undertaking is not the highest parent.[^key-24687dc39c67b28bca3aa66e0da0ba2c] | yes | yes | no |
+| [^c-5401dc32b3a23c5d225ae0f785981d0d]... information setting out the relationship between the relevant undertakings complying with the Scheme as one participant, including the responsible undertaking, any franchisees, any relevant undertaking that has ceased to be part of the participant since the qualification date by virtue of paragraph 3 or 7 of Schedule 2 and any parent undertaking of the responsible undertaking to which these Regulations do not extend | yes | yes | yes |
+| where applicable, confirmation of whether the responsible undertaking’s highest parent is one of the relevant undertakings comprising the participant, where the responsible undertaking is not the highest parent.[^c-24687dc39c67b28bca3aa66e0da0ba2c] | yes | yes | no |
 
 Table C
 
@@ -91,7 +91,7 @@ Information in relation to the ESOS assessment
 | --- | --- | --- | --- |
 | whether, and if so to what extent, the participant has relied on Part 6 in complying with the Scheme | \- | yes | yes |
 | details of estimates produced in accordance with Part 4 and required to be notified under regulation 21A | \- | yes | yes |
-| details of site visits required to be recorded under regulation 26(9)(d), (e)[^key-cf93ce75b9359130a37fecbfcb295177] and (f). | \- | yes | yes |
+| details of site visits required to be recorded under regulation 26(9)(d), (e)[^c-cf93ce75b9359130a37fecbfcb295177] and (f). | \- | yes | yes |
 | where applicable, that the energy audit does not include an analysis based on energy consumption profiles (as defined in accordance with regulation 27(3)) | \- | yes | no |
 | where applicable, information relating to non-disclosure of information to a group undertaking as specified in regulation 27C(3)(b) | \- | yes | no |
 | where applicable, details of the extent to which and the reasons why 12 months’ verifiable data was not used as required to be recorded under regulation 26(9)(g) | \- | yes | no |
@@ -103,9 +103,9 @@ Information related to the participant’s energy consumption
 | Information related to the participant’s energy consumption | Column 1 - intentionally left blank | Column 2 - to be notified to the scheme administrator under regulation 29 | Column 3 - to be published by the scheme administrator under regulation 10 |
 | --- | --- | --- | --- |
 | the participant’s total energy consumption in kWh calculated in accordance with Chapter 2 of Part 4 | \- | yes | yes |
-| the amount of the participant’s total energy consumption that is attributable to each organisational purpose as calculated in accordance with regulation 25B(1)(b) | \- | yes | yes[^key-91765aebb4d978d51aaa112eb3ff3bce] |
+| the amount of the participant’s total energy consumption that is attributable to each organisational purpose as calculated in accordance with regulation 25B(1)(b) | \- | yes | yes[^c-91765aebb4d978d51aaa112eb3ff3bce] |
 | where applicable, the participant’s significant energy consumption in kWh | \- | yes | yes |
-| where applicable, the amount of the participant’s significant energy consumption in kWh that is attributable to each organisational purpose as calculated in accordance with regulation 25B(1)(a) | \- | yes | yes[^key-4c67556b2a708a7974d8202dfc573b35] |
+| where applicable, the amount of the participant’s significant energy consumption in kWh that is attributable to each organisational purpose as calculated in accordance with regulation 25B(1)(a) | \- | yes | yes[^c-4c67556b2a708a7974d8202dfc573b35] |
 | where applicable, the percentage of the participant’s total energy consumption that is accounted for by the participant’s areas of significant energy consumption | \- | yes | yes |
 | the energy intensity ratios calculated in accordance with regulation 25C | \- | yes | yes |
 
@@ -118,25 +118,25 @@ Information related to energy saving opportunities identified through an energy 
 | the sum of all the estimates made in accordance with regulation 27(1)(d)(vi) (annual reductions in energy spend and energy consumption). | \- | yes | yes |
 | for each organisational purpose, the sum of the estimates made in accordance with regulation 27(1)(d)(vi) in respect of any energy saving opportunities that are identified in accordance with regulation 27(1)(d)(i) as most closely relating to that organisational purpose | \- | yes | no |
 | for each energy saving category, the sum of the estimates made in accordance with regulation 27(1)(d)(vi) in respect of any energy saving opportunities that are identified in accordance with regulation 27(1)(d)(ii) as most closely relating to that energy saving category | \- | yes | no |
-| [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . |
-| [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^key-d3f0bbeeba61eaab8d09d9fae5b66157]. . . |
+| [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . |
+| [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . | [^c-d3f0bbeeba61eaab8d09d9fae5b66157]. . . |
 
 Table I
 
-Information relating to compliance with the Scheme under regulation 33(2)[^key-43a351af195fe7cfa49c119c77dfaf64]
+Information relating to compliance with the Scheme under regulation 33(2)[^c-43a351af195fe7cfa49c119c77dfaf64]
 
 | Information | Column 1 - intentionally left blank | Column 2 - to be notified to the scheme administrator under regulation 29(ab) | Column 3 - to be published by the scheme administrator under regulation 10 |
 | --- | --- | --- | --- |
-| [^key-0a5efde4b2679c0cb44a6a82a74063ff]... the details specified in regulation 27A(7)(a) and (c) | \- | yes | yes |
-| [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
-| [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
-| [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^key-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
+| [^c-0a5efde4b2679c0cb44a6a82a74063ff]... the details specified in regulation 27A(7)(a) and (c) | \- | yes | yes |
+| [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
+| [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
+| [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . | [^c-e2c9d64e327a2c265f7a6757972cbb2a]. . . |
 | for each organisational purpose the sum of the estimates made in accordance with regulation 27A(7)(e)(ii) in respect of any energy saving measures that are identified in accordance with regulation 27A(7)(e)(i) as most closely relating to that organisational purpose | \- | yes | no |
 | the sum of the estimates made in accordance with regulation 27A(7)(e)(ii) in respect of all the energy saving measures identified in accordance with regulation 27A(7)(d) | \- | yes | yes |
 | for each energy saving category, the sum of the estimates made in accordance with regulation 27A(7)(e)(ii) in respect of any energy saving measures that are identified in accordance with regulation 27A(7)(e)(i) as most closely relating to that energy saving category | \- | yes | no |
-| the certificate number and validity dates of the participant’s ISO 50001 certificate.[^key-f478f9db228ca8dfb3b021c4452b4479] | \- | yes | no |
+| the certificate number and validity dates of the participant’s ISO 50001 certificate.[^c-f478f9db228ca8dfb3b021c4452b4479] | \- | yes | no |
 
-Table J[^key-994b41dad4ae5057dbe66bac52f6bee2]
+Table J[^c-994b41dad4ae5057dbe66bac52f6bee2]
 
 Information in relation to energy savings since the previous compliance date
 
@@ -151,7 +151,7 @@ Information in relation to energy savings since the previous compliance date
 | where applicable, the explanation of why any measures recorded in the current ESOS action plan have not been implemented, in accordance with regulation 27E(2)(b). | \- | yes | no |
 | where applicable, confirmation that none of the relevant undertakings comprising the participant which were required to produce a current ESOS action plan did so, in accordance with regulation 27E(2)(c). | \- | yes | no |
 
-Table K[^key-3ebb32ca572a3fa5948f6a0cf71729f5]
+Table K[^c-3ebb32ca572a3fa5948f6a0cf71729f5]
 
 Information relating to compliance with the Scheme under regulation 33(3)
 
@@ -167,32 +167,32 @@ Information relating to compliance with the Scheme under regulation 33(3)
 
 ## Annotations
 
-[^key-337ecd95725a70eacbe8faac28221244]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2023/1182/regulation/28)
+[^c-337ecd95725a70eacbe8faac28221244]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) substituted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2023/1182/regulation/28)
 
-[^key-45c30ba0358da0f7505c76a3f658be20]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table A omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(2)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/2/a)
+[^c-45c30ba0358da0f7505c76a3f658be20]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table A omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(2)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/2/a)
 
-[^key-45cf89abcb6611fd334a7ada16368be8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table A inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(2)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/2/b)
+[^c-45cf89abcb6611fd334a7ada16368be8]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table A inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(2)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/2/b)
 
-[^key-5401dc32b3a23c5d225ae0f785981d0d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table B omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(3)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/3/a)
+[^c-5401dc32b3a23c5d225ae0f785981d0d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table B omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(3)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/3/a)
 
-[^key-24687dc39c67b28bca3aa66e0da0ba2c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table B inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(3)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/3/b)
+[^c-24687dc39c67b28bca3aa66e0da0ba2c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table B inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(3)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/3/b)
 
-[^key-cf93ce75b9359130a37fecbfcb295177]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table F substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/4)
+[^c-cf93ce75b9359130a37fecbfcb295177]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table F substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/4)
 
-[^key-91765aebb4d978d51aaa112eb3ff3bce]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table G substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(5)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/5/a)
+[^c-91765aebb4d978d51aaa112eb3ff3bce]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table G substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(5)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/5/a)
 
-[^key-4c67556b2a708a7974d8202dfc573b35]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table G substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(5)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/5/b)
+[^c-4c67556b2a708a7974d8202dfc573b35]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table G substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(5)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/5/b)
 
-[^key-d3f0bbeeba61eaab8d09d9fae5b66157]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table H omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(6)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/6)
+[^c-d3f0bbeeba61eaab8d09d9fae5b66157]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table H omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(6)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/6)
 
-[^key-43a351af195fe7cfa49c119c77dfaf64]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I heading substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/a)
+[^c-43a351af195fe7cfa49c119c77dfaf64]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I heading substituted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/a)
 
-[^key-0a5efde4b2679c0cb44a6a82a74063ff]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/b)
+[^c-0a5efde4b2679c0cb44a6a82a74063ff]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/b)
 
-[^key-e2c9d64e327a2c265f7a6757972cbb2a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(c)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/c)
+[^c-e2c9d64e327a2c265f7a6757972cbb2a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(c)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/c)
 
-[^key-f478f9db228ca8dfb3b021c4452b4479]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(d)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/d)
+[^c-f478f9db228ca8dfb3b021c4452b4479]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table I inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(7)(d)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/7/d)
 
-[^key-994b41dad4ae5057dbe66bac52f6bee2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table J inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(8)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/8)
+[^c-994b41dad4ae5057dbe66bac52f6bee2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table J inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(8)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/8)
 
-[^key-3ebb32ca572a3fa5948f6a0cf71729f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table K inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(8)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/8)
+[^c-3ebb32ca572a3fa5948f6a0cf71729f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1643/schedule/3) Table K inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [31(8)](https://www.legislation.gov.uk/uksi/2026/701/regulation/31/8)

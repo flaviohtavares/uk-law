@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Closure of jetty[^key-be6870c21136259caadaab19372e101b]
+## 82. Closure of jetty[^c-be6870c21136259caadaab19372e101b]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6870c21136259caadaab19372e101b]: Commencement: Art. 82 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-be6870c21136259caadaab19372e101b]: Commencement: Art. 82 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

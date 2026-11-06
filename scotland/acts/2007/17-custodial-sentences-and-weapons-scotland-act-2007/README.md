@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — The Parole Board for Scotland[^key-e1d45827775269153f93a3b41be3d3a7]
+### Part 1 — The Parole Board for Scotland[^c-e1d45827775269153f93a3b41be3d3a7]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 1 — The Parole Board for Scotland](part-1/section-1.md)
 - [Section 2 — Parole Board rules](part-1/section-2.md)
 
-### Part 2 — Confinement and release of prisoners[^key-0379800ecd70b5af7761dc6bac34b985]
+### Part 2 — Confinement and release of prisoners[^c-0379800ecd70b5af7761dc6bac34b985]
 
 *Extent: S*
 
@@ -250,6 +250,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-e1d45827775269153f93a3b41be3d3a7]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/asp/2007/17/part/1) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/14/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)
+[^c-e1d45827775269153f93a3b41be3d3a7]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/asp/2007/17/part/1) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/14/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)
 
-[^key-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-0379800ecd70b5af7761dc6bac34b985]: Modification: Pt. 2 power to modify conferred (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 2(2)](https://www.legislation.gov.uk/asp/2012/7/section/2/2), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)

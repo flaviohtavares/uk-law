@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Increases in maximum amount[^key-c01821280df9acf973fcee484c9fae59]
+## 75. Increases in maximum amount[^c-c01821280df9acf973fcee484c9fae59]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c01821280df9acf973fcee484c9fae59]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2007/195/regulation/75) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-c01821280df9acf973fcee484c9fae59]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2007/195/regulation/75) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

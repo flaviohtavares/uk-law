@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Application of regulations 28 to 31[^key-4a41e704e0cce439bd153fd2bc93f230]
+## 27. Application of regulations 28 to 31[^c-4a41e704e0cce439bd153fd2bc93f230]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Regulations 28 to 31 apply to mines at which explosives are transported, stored,
 
 ## Annotations
 
-[^key-4a41e704e0cce439bd153fd2bc93f230]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/427/regulation/27) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-4a41e704e0cce439bd153fd2bc93f230]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/427/regulation/27) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

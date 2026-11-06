@@ -81,7 +81,7 @@ to which sections 56 to 58 of that Act (compensation) apply.
 
 ### Disabled and over the age for state pension credit
 
-**6.** The claimant has reached the qualifying age for state pension credit and is entitled to disability living allowance , Scottish adult disability living allowance[^key-b39bb95539abe2b6d380538c0b3bdf37] , personal independence payment or adult disability payment[^key-e0011b40873e63d693b6372c6c728ee4].
+**6.** The claimant has reached the qualifying age for state pension credit and is entitled to disability living allowance , Scottish adult disability living allowance[^c-b39bb95539abe2b6d380538c0b3bdf37] , personal independence payment or adult disability payment[^c-e0011b40873e63d693b6372c6c728ee4].
 
 ## Annotations
 
@@ -97,6 +97,6 @@ to which sections 56 to 58 of that Act (compensation) apply.
 
 [^c2166011]: Marginal citation: [2008 asp 5](https://www.legislation.gov.uk/asp/2008/5).
 
-[^key-b39bb95539abe2b6d380538c0b3bdf37]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2013/376/schedule/8/paragraph/6) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [15(9)](https://www.legislation.gov.uk/uksi/2025/227/article/15/9)
+[^c-b39bb95539abe2b6d380538c0b3bdf37]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2013/376/schedule/8/paragraph/6) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [15(9)](https://www.legislation.gov.uk/uksi/2025/227/article/15/9)
 
-[^key-e0011b40873e63d693b6372c6c728ee4]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2013/376/schedule/8/paragraph/6) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [13(9)](https://www.legislation.gov.uk/uksi/2022/177/article/13/9)
+[^c-e0011b40873e63d693b6372c6c728ee4]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/2013/376/schedule/8/paragraph/6) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [13(9)](https://www.legislation.gov.uk/uksi/2022/177/article/13/9)

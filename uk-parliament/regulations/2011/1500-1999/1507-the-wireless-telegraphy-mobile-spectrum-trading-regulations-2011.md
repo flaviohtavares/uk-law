@@ -64,15 +64,15 @@ In these Regulations “**concurrent holders**” means persons who concurrently
 - (a) that the rights and obligations of the person making the transfer become rights and obligations of the transferee to the exclusion of the person making the transfer;
 - (b) that the transferred rights and obligations become rights and obligations of the transferee while continuing, concurrently, to be rights and obligations of the person making the transfer.
 
-(3) Paragraph (1) shall apply to wireless telegraphy licences which are within one of the licence classes listed in Column 1 of the Schedule and which authorise the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule.[^key-e20433a31fa97c40bc71df05db57bf2d]
+(3) Paragraph (1) shall apply to wireless telegraphy licences which are within one of the licence classes listed in Column 1 of the Schedule and which authorise the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule.[^c-e20433a31fa97c40bc71df05db57bf2d]
 
 ## 5. Partial transfer of rights and obligations arising by virtue of a wireless telegraphy licence
 
 Subject to regulation 6, transfers satisfying one of the two conditions set out in regulation 4(2) are also authorised where the transfer is of —
 
 - (a) all of the rights arising by virtue of a wireless telegraphy licence which relate to—
-  - (i) a part of the range of frequencies under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule;[^key-96d90c86a611285c125f70a9b368eee5]
-  - (ii) a geographical area being part of the total geographical area in which the holder is authorised to establish, install and use radio transmitting and receiving stations or apparatus under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule; or[^key-4f28ee641eba3a85fa686f6b506c0805]
+  - (i) a part of the range of frequencies under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule;[^c-96d90c86a611285c125f70a9b368eee5]
+  - (ii) a geographical area being part of the total geographical area in which the holder is authorised to establish, install and use radio transmitting and receiving stations or apparatus under a wireless telegraphy licence which is within one of the licence classes listed in Column 1 of the Schedule and which authorises the operation of a wireless telegraphy station or wireless telegraphy apparatus on frequencies in any of the frequency bands listed in Column 2 of the Schedule; or[^c-4f28ee641eba3a85fa686f6b506c0805]
   - (iii) both of the situations set out in sub-paragraphs (i) and (ii); and
 - (b) the corresponding part of each of the obligations under the licence.
 
@@ -81,12 +81,12 @@ Subject to regulation 6, transfers satisfying one of the two conditions set out 
 A transfer of rights and obligations arising under a wireless telegraphy licence is not authorised where —
 
 - (a) any of the licence holder, or all of the concurrent holders, and the transferee have not consented to the transfer;
-- (b)[^key-9fe65c4323342f4e1a08776add538d2e] any sum payable in respect of that licence under—
+- (b)[^c-9fe65c4323342f4e1a08776add538d2e] any sum payable in respect of that licence under—
   - (i) the Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2025; or
   - (ii) the Wireless Telegraphy (Licence Charges for the 2100 MHz Frequency Band) Regulations 2025;
 
   is owing to OFCOM because it has not been paid by the time it became due;
-- (c)[^key-b49b3a35fd233a92b4f4b3466844d366] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b49b3a35fd233a92b4f4b3466844d366] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) OFCOM has served notice under paragraph 7(1) of Schedule 1 of the Wireless Telegraphy Act 2006 on the holder, or the concurrent holders, of that licence of a proposal to revoke or vary that licence but that revocation or variation has not yet been made;
 - (e) the holder has, or all of the concurrent holders have, requested OFCOM to revoke or vary the licence or have consented to a revocation or variation proposed by OFCOM but that revocation or variation has not yet been made; or
 - (f) OFCOM have not given their consent, under regulation 7(3)(a), to the transfer being made.
@@ -150,7 +150,7 @@ Chief Executive of the Office of Communications
 
 For and by authority of the Office of Communications
 
-## SCHEDULE — Licence Classes and Frequency Bands[^key-53501b9cb7df869c3666d10edf60db56]
+## SCHEDULE — Licence Classes and Frequency Bands[^c-53501b9cb7df869c3666d10edf60db56]
 
 Regulations 4 and 5
 
@@ -171,7 +171,7 @@ Regulations 4 and 5
 |  | 2350–2390 MHz |
 |  | 2500–2690 MHz |
 |  | 3410–3800 MHz |
-| Spectrum Access High Density[^key-8cdde8a38716cf026e2ab1d9b425a979] | 25100–27500 MHz[^key-e0b0d657c3d225fc16ebe6762bf6a95b]<br>40500–43500 MHz |
+| Spectrum Access High Density[^c-8cdde8a38716cf026e2ab1d9b425a979] | 25100–27500 MHz[^c-e0b0d657c3d225fc16ebe6762bf6a95b]<br>40500–43500 MHz |
 
 *(This note is not part of the Regulations)*
 
@@ -191,20 +191,20 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20900171]: Marginal citation: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).
 
-[^key-e20433a31fa97c40bc71df05db57bf2d]: Textual amendment: Words in reg. 4(3) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/2)
+[^c-e20433a31fa97c40bc71df05db57bf2d]: Textual amendment: Words in reg. 4(3) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/2)
 
-[^key-96d90c86a611285c125f70a9b368eee5]: Textual amendment: Words in reg. 5(a)(i) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/a)
+[^c-96d90c86a611285c125f70a9b368eee5]: Textual amendment: Words in reg. 5(a)(i) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/a)
 
-[^key-4f28ee641eba3a85fa686f6b506c0805]: Textual amendment: Words in reg. 5(a)(ii) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/b)
+[^c-4f28ee641eba3a85fa686f6b506c0805]: Textual amendment: Words in reg. 5(a)(ii) substituted (5.4.2013) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2013 (S.I. 2013/646)](https://www.legislation.gov.uk/uksi/2013/646), [regs. 1](https://www.legislation.gov.uk/uksi/2013/646/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/646/regulation/2/3/b)
 
-[^key-9fe65c4323342f4e1a08776add538d2e]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/b) substituted (24.11.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/a)
+[^c-9fe65c4323342f4e1a08776add538d2e]: Textual amendment: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/b) substituted (24.11.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/a)
 
-[^key-b49b3a35fd233a92b4f4b3466844d366]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/c) omitted (24.11.2025) by virtue of [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/b)
+[^c-b49b3a35fd233a92b4f4b3466844d366]: Textual amendment: [Reg. 6(c)](https://www.legislation.gov.uk/uksi/2011/1507/regulation/6/c) omitted (24.11.2025) by virtue of [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/1149)](https://www.legislation.gov.uk/uksi/2025/1149), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/1149/regulation/2/b)
 
 [^c20900191]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-53501b9cb7df869c3666d10edf60db56]: Textual amendment: Sch. substituted (10.6.2019) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/951)](https://www.legislation.gov.uk/uksi/2019/951), [regs. 1](https://www.legislation.gov.uk/uksi/2019/951/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/951/regulation/4)
+[^c-53501b9cb7df869c3666d10edf60db56]: Textual amendment: Sch. substituted (10.6.2019) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2019 (S.I. 2019/951)](https://www.legislation.gov.uk/uksi/2019/951), [regs. 1](https://www.legislation.gov.uk/uksi/2019/951/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/951/regulation/4)
 
-[^key-8cdde8a38716cf026e2ab1d9b425a979]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/2)
+[^c-8cdde8a38716cf026e2ab1d9b425a979]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/2)
 
-[^key-e0b0d657c3d225fc16ebe6762bf6a95b]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/3)
+[^c-e0b0d657c3d225fc16ebe6762bf6a95b]: Textual amendment: Words in Sch. inserted (7.7.2025) by [The Wireless Telegraphy (Mobile Spectrum Trading) (Amendment) Regulations 2025 (S.I. 2025/700)](https://www.legislation.gov.uk/uksi/2025/700), [regs. 1](https://www.legislation.gov.uk/uksi/2025/700/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/700/regulation/2/3)

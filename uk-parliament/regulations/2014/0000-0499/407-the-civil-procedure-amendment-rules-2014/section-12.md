@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**12.**[^key-09822e09190b4f88db33ad050cd7584a] In rule 21.1—
+**12.**[^c-09822e09190b4f88db33ad050cd7584a] In rule 21.1—
 
 - (a) for paragraph (1)(c) substitute—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09822e09190b4f88db33ad050cd7584a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2014/407/rule/12) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-09822e09190b4f88db33ad050cd7584a]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2014/407/rule/12) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
 
 [^f00004]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). Schedule 12 is amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, paragraph 52(1)(b) and (2).

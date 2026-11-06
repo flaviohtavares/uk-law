@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Exceptions to duties to keep the complainant and interested person informed[^key-661516a94c489a4cd6fe1baf705490e4]
+## 80. Exceptions to duties to keep the complainant and interested person informed[^c-661516a94c489a4cd6fe1baf705490e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-661516a94c489a4cd6fe1baf705490e4]: Commencement: Reg. 80 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-661516a94c489a4cd6fe1baf705490e4]: Commencement: Reg. 80 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

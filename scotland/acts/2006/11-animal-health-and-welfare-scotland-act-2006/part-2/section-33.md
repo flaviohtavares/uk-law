@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Release orders where animals taken[^key-bdb96cfef4acf82d2f133d4da86e08f2]
+## 33. Release orders where animals taken[^c-bdb96cfef4acf82d2f133d4da86e08f2]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb96cfef4acf82d2f133d4da86e08f2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2006/11/section/33) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-bdb96cfef4acf82d2f133d4da86e08f2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2006/11/section/33) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

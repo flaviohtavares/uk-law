@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60C. Review and revision of Framework[^key-d78ab1fd52b9e750056ca7f770e4c070]
+## 60C. Review and revision of Framework[^c-d78ab1fd52b9e750056ca7f770e4c070]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d78ab1fd52b9e750056ca7f770e4c070]: Textual amendment: Ss. 60-60C and crossheading substituted for s. 60 and crossheading (W.) (6.9.2015 for specified purposes, 4.1.2016 for the substitution of ss. 60, 60A, 60B so far as not already in force, 4.12.2020 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 3](https://www.legislation.gov.uk/anaw/2015/4/section/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7)); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-d78ab1fd52b9e750056ca7f770e4c070]: Textual amendment: Ss. 60-60C and crossheading substituted for s. 60 and crossheading (W.) (6.9.2015 for specified purposes, 4.1.2016 for the substitution of ss. 60, 60A, 60B so far as not already in force, 4.12.2020 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 3](https://www.legislation.gov.uk/anaw/2015/4/section/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7)); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

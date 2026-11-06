@@ -25,7 +25,7 @@ summary: ''
 - (a) must review each waste prevention programme and national waste management plan at least every sixth year;
 - (b) may from time to time modify a programme or plan.
 
-(2) The appropriate authority must ensure that the appropriate body[^key-4f7f3e3b4e1b3cd45d1359a86d3076e9] and the bodies or persons mentioned in paragraph (3) are consulted during the preparation of—
+(2) The appropriate authority must ensure that the appropriate body[^c-4f7f3e3b4e1b3cd45d1359a86d3076e9] and the bodies or persons mentioned in paragraph (3) are consulted during the preparation of—
 
 - (a) proposals for a waste prevention programme or national waste management plan; or
 - (b) proposals to modify such a programme or plan.
@@ -43,4 +43,4 @@ as the authority considers appropriate.
 
 ## Annotations
 
-[^key-4f7f3e3b4e1b3cd45d1359a86d3076e9]: Textual amendment: Words in reg. 10(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4f7f3e3b4e1b3cd45d1359a86d3076e9]: Textual amendment: Words in reg. 10(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Nomination of candidate in local government elections: home address form[^key-1d1f4fe3f933da83a6b1519e46283b77][^key-278683bf87551d7b70c2fbbfb75590be]
+## 36. Nomination of candidate in local government elections: home address form[^c-1d1f4fe3f933da83a6b1519e46283b77][^c-278683bf87551d7b70c2fbbfb75590be]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d1f4fe3f933da83a6b1519e46283b77]: Commencement: S. 36 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-1d1f4fe3f933da83a6b1519e46283b77]: Commencement: S. 36 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-278683bf87551d7b70c2fbbfb75590be]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/4/section/36) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-278683bf87551d7b70c2fbbfb75590be]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/4/section/36) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

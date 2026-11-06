@@ -35,38 +35,38 @@ concerning the authorisation of L-valine produced by *Escherichia coli* as a fee
 
 (Text with EEA relevance) (revoked)
 
-[^key-db40641ff311a9fd6033590973a9d8a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db40641ff311a9fd6033590973a9d8a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-db40641ff311a9fd6033590973a9d8a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Regulation (EC) No 403/2009[^key-db40641ff311a9fd6033590973a9d8a2]
+## Article 1. Authorisation[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Implementing Regulation (EU) No 848/2014[^key-db40641ff311a9fd6033590973a9d8a2]
+## Article 2. Amendments to Regulation (EC) No 403/2009[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Implementing Regulation (EU) No 1236/2014[^key-db40641ff311a9fd6033590973a9d8a2]
+## Article 3. Amendment to Implementing Regulation (EU) No 848/2014[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Transitional measures[^key-db40641ff311a9fd6033590973a9d8a2]
+## Article 4. Amendments to Implementing Regulation (EU) No 1236/2014[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-db40641ff311a9fd6033590973a9d8a2]
+## Article 5. Transitional measures[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db40641ff311a9fd6033590973a9d8a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Entry into force[^c-db40641ff311a9fd6033590973a9d8a2]
 
-## ANNEX[^key-db40641ff311a9fd6033590973a9d8a2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-db40641ff311a9fd6033590973a9d8a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-db40641ff311a9fd6033590973a9d8a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db40641ff311a9fd6033590973a9d8a2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 179](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/179) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-db40641ff311a9fd6033590973a9d8a2]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 179](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/179) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

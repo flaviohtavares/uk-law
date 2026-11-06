@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Article 2 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^key-82c87bb5a9b0ff6df877ceda16bfaa91]
+## 4. Article 2 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^c-82c87bb5a9b0ff6df877ceda16bfaa91]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c87bb5a9b0ff6df877ceda16bfaa91]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-82c87bb5a9b0ff6df877ceda16bfaa91]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

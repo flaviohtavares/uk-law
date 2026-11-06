@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Discipline and removal from office[^key-2220d0ca09970160dd909f218f62deec][^key-381b9af325d458c328a5b01f4a2372e1]
+## 126. Discipline and removal from office[^c-2220d0ca09970160dd909f218f62deec][^c-381b9af325d458c328a5b01f4a2372e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2220d0ca09970160dd909f218f62deec]: Commencement: S. 126 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-2220d0ca09970160dd909f218f62deec]: Commencement: S. 126 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-381b9af325d458c328a5b01f4a2372e1]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/7/section/126) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)
+[^c-381b9af325d458c328a5b01f4a2372e1]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/7/section/126) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/a)

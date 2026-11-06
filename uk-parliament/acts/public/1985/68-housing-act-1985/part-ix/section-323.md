@@ -24,7 +24,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 |  |  |
 | --- | --- |
-| appropriate tribunal[^key-1501d8053d28d7156d77a19a90a63766] | section 322 |
+| appropriate tribunal[^c-1501d8053d28d7156d77a19a90a63766] | section 322 |
 | assured agricultural occupancy[^c15073211] | section 622 |
 | assured tenancy | section 622 |
 | building containing one or more flats[^c19127411] | section 322 |
@@ -68,7 +68,7 @@ The following Table shows provisions defining or otherwise explaining expression
 
 ## Annotations
 
-[^key-1501d8053d28d7156d77a19a90a63766]: Textual amendment: S. 323: entry in table inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/47) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-1501d8053d28d7156d77a19a90a63766]: Textual amendment: S. 323: entry in table inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/47) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c15073211]: Textual amendment: Entries inserted by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/1), [Sch. 17 Pt. I para. 49](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/part/I/paragraph/49)
 

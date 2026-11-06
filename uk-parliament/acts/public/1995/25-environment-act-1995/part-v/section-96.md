@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Mineral planning permissions[^c14539971][^key-360e500d6255ce002f401fa2c588bbb7][^c14539961]
+## 96. Mineral planning permissions[^c14539971][^c-360e500d6255ce002f401fa2c588bbb7][^c14539961]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c14539971]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96) wholly in force at 1.1.1997; [s. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96) not in force at Royal Assent see [s. 125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3); [s. 96(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/96/2) wholly in force and s. 96(1)(5)(6) in force for E.W. and s. 96(4) in force for specified purposes at 1.11.1995 by [S.I. 1995/2765](https://www.legislation.gov.uk/uksi/1995/2765), [art. 2](https://www.legislation.gov.uk/uksi/1995/2765/article/2); [s. 96(1)(5)(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/96/1/5/6) in force for S. and s. 96(3) wholly in force and s. 96(4) in force for further specified purposes at 1.1.1997 by [S.I. 1996/2857](https://www.legislation.gov.uk/uksi/1996/2857), [art. 2](https://www.legislation.gov.uk/uksi/1996/2857/article/2)
 
-[^key-360e500d6255ce002f401fa2c588bbb7]: Modification: S. 96: power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-360e500d6255ce002f401fa2c588bbb7]: Modification: S. 96: power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14539961]: Textual amendment: [S. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96) repealed (S.) (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/II) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 

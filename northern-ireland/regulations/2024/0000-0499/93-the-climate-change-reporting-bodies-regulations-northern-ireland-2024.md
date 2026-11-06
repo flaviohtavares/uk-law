@@ -145,13 +145,13 @@ Jane Corderoy
 
 A senior officer of the Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE — REPORTING BODIES[^key-3dcd4b0dae83cfb831c2d5a5b3fbea40]
+## SCHEDULE — REPORTING BODIES[^c-3dcd4b0dae83cfb831c2d5a5b3fbea40]
 
 Regulations 2, 3(1)
 
 ### Education
 
-[^key-3dcd4b0dae83cfb831c2d5a5b3fbea40]
+[^c-3dcd4b0dae83cfb831c2d5a5b3fbea40]
 
 Education Authority
 
@@ -165,7 +165,7 @@ Northern Ireland Council for the Curriculum, Examinations and Assessment
 
 ### Health and social care
 
-[^key-3dcd4b0dae83cfb831c2d5a5b3fbea40]
+[^c-3dcd4b0dae83cfb831c2d5a5b3fbea40]
 
 A Health and Social Care Trust
 
@@ -175,7 +175,7 @@ Regional Business Services Organisation
 
 ### Miscellaneous
 
-[^key-3dcd4b0dae83cfb831c2d5a5b3fbea40]
+[^c-3dcd4b0dae83cfb831c2d5a5b3fbea40]
 
 Agri-Food and Biosciences Institute
 
@@ -227,6 +227,6 @@ Regulation 11 requires any report sent by a reporting body to the Department of 
 
 [^f00003]: Footnote: [2008 c.27](https://www.legislation.gov.uk/ukpga/2008/27)
 
-[^key-3dcd4b0dae83cfb831c2d5a5b3fbea40]: Commencement: Sch. in operation at 3.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/93/regulation/1/2)
+[^c-3dcd4b0dae83cfb831c2d5a5b3fbea40]: Commencement: Sch. in operation at 3.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/93/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)

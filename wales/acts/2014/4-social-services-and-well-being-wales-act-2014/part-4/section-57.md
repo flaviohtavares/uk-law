@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Cases where a person expresses preference for particular accommodation[^key-b06c616f148867779114a49c66a8d5b7]
+## 57. Cases where a person expresses preference for particular accommodation[^c-b06c616f148867779114a49c66a8d5b7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the local authority must provide or arrange for the provision of the preferred a
 
 ## Annotations
 
-[^key-b06c616f148867779114a49c66a8d5b7]: Commencement: S. 57 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-b06c616f148867779114a49c66a8d5b7]: Commencement: S. 57 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

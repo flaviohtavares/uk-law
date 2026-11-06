@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Disposal of objects seized under section 264[^key-0ad4a8dcf45d8d246dffe603726bc6e8]
+## 267. Disposal of objects seized under section 264[^c-0ad4a8dcf45d8d246dffe603726bc6e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad4a8dcf45d8d246dffe603726bc6e8]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2009/23/section/267) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-0ad4a8dcf45d8d246dffe603726bc6e8]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2009/23/section/267) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

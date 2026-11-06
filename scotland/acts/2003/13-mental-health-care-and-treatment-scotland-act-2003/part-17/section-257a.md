@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 257A. Ability to act if no named person[^key-60e87d6bf43ae757bc2db4b7bd1eb468]
+## 257A. Ability to act if no named person[^c-60e87d6bf43ae757bc2db4b7bd1eb468]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) In subsection (1)(c) above, “**incapable**” has the same meaning as in section 250 of this Act.
 
-(3) Each of the persons listed in subsection (9)(a) to (d) below has authority to initiate an application or appeal that may be made by the patient under section 50(1), 99(1), 100(2), 120(2), 125(2), 126(2), 163(1), 164(2), 164A,[^key-2d2ac270942ff40550e92711da91af79] 192(2), 201(1), 204(1), 214(2), 219(2), 220(2), 264(2), 268(2), 320(2), 321(1) or 322(2) of this Act.
+(3) Each of the persons listed in subsection (9)(a) to (d) below has authority to initiate an application or appeal that may be made by the patient under section 50(1), 99(1), 100(2), 120(2), 125(2), 126(2), 163(1), 164(2), 164A,[^c-2d2ac270942ff40550e92711da91af79] 192(2), 201(1), 204(1), 214(2), 219(2), 220(2), 264(2), 268(2), 320(2), 321(1) or 322(2) of this Act.
 
 (4) Each of the persons listed in subsection (9)(a) and (b) below has authority to obtain any notice or information that is to be provided under section 54(3), 60(1), 87(2)(c), 124(4) or (6), 127(7), 128(3), 129(3) or (4), 153(2)(c), 200(3), 218(4), (6) or (10)(b), 224(8), 225(3) or 226(3) of this Act.
 
@@ -52,9 +52,9 @@ summary: ''
 
 ## Annotations
 
-[^key-60e87d6bf43ae757bc2db4b7bd1eb468]: Textual amendment: S. 257A and cross-heading inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2015/9/section/25/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-60e87d6bf43ae757bc2db4b7bd1eb468]: Textual amendment: S. 257A and cross-heading inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 25(2)](https://www.legislation.gov.uk/asp/2015/9/section/25/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-2d2ac270942ff40550e92711da91af79]: Textual amendment: Word in [s. 257A(3)](https://www.legislation.gov.uk/asp/2003/13/section/257A/3) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(6)](https://www.legislation.gov.uk/asp/2019/14/section/26/6), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-2d2ac270942ff40550e92711da91af79]: Textual amendment: Word in [s. 257A(3)](https://www.legislation.gov.uk/asp/2003/13/section/257A/3) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(6)](https://www.legislation.gov.uk/asp/2019/14/section/26/6), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
 
 [^M_C_46a9dae8-6ff7-47a4-a542-9b1918ff9ee4]: Modification: S. 257A(5) excluded by [S.S.I. 2005/467](https://www.legislation.gov.uk/ssi/2005/467) regs. 14(4), 15(3) (as inserted (30.6.2017) by [The Mental Health (Cross-border transfer patients subject to detention requirement or otherwise in hospital) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/229)](https://www.legislation.gov.uk/ssi/2017/229), [regs. 2](https://www.legislation.gov.uk/ssi/2017/229/regulation/2), [18(4)](https://www.legislation.gov.uk/ssi/2017/229/regulation/18/4), [19(3)](https://www.legislation.gov.uk/ssi/2017/229/regulation/19/3) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2017/229/regulation/4/1)))
 

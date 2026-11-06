@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Public functions: duty to provide information on exercise of functions[^key-91dc0dd9eea27857a5a3901d105e7816]
+## 32. Public functions: duty to provide information on exercise of functions[^c-91dc0dd9eea27857a5a3901d105e7816]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91dc0dd9eea27857a5a3901d105e7816]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/8/section/32) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-91dc0dd9eea27857a5a3901d105e7816]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/8/section/32) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

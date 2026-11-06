@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Communications in electronic form[^key-60c194211172e17c3769909ae0198d78]
+## 75A. Communications in electronic form[^c-60c194211172e17c3769909ae0198d78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 1141(1) (service addresses) of and paragraph 4A of Schedule 4 (documents
 
 ## Annotations
 
-[^key-60c194211172e17c3769909ae0198d78]: Textual amendment: [Reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-60c194211172e17c3769909ae0198d78]: Textual amendment: [Reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

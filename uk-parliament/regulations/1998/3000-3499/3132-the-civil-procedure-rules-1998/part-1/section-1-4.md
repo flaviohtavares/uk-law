@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.4. Court’s duty to manage cases[^key-36588b0ef4df7201bbafa5acc648f824]
+## 1.4. Court’s duty to manage cases[^c-36588b0ef4df7201bbafa5acc648f824]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) identifying the issues at an early stage;
 - (c) deciding promptly which issues need full investigation and trial and accordingly disposing summarily of the others;
 - (d) deciding the order in which issues are to be resolved;
-- (e) ordering or encouraging the parties to use, and facilitating the use of, alternative dispute resolution[^key-4e82859feffc4067e28e846273aea4ef];
+- (e) ordering or encouraging the parties to use, and facilitating the use of, alternative dispute resolution[^c-4e82859feffc4067e28e846273aea4ef];
 - (f) helping the parties to settle the whole or part of the case;
 - (g) fixing timetables or otherwise controlling the progress of the case;
 - (h) considering whether the likely benefits of taking a particular step justify the cost of taking it;
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36588b0ef4df7201bbafa5acc648f824]: Commencement: Rule 1.4 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-36588b0ef4df7201bbafa5acc648f824]: Commencement: Rule 1.4 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-4e82859feffc4067e28e846273aea4ef]: Textual amendment: Words in rule 1.4(2)(e) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/839/rule/3/2)
+[^c-4e82859feffc4067e28e846273aea4ef]: Textual amendment: Words in rule 1.4(2)(e) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/839/rule/3/2)

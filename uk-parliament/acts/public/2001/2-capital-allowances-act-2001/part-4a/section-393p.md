@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393P. Calculation of balancing adjustments[^key-3570326454f20bc9a51331d6818710a8]
+## 393P. Calculation of balancing adjustments[^c-3570326454f20bc9a51331d6818710a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3570326454f20bc9a51331d6818710a8]: Textual amendment: Pt. 4A repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/37) (with [Sch. 39 paras. 36, 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
+[^c-3570326454f20bc9a51331d6818710a8]: Textual amendment: Pt. 4A repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/37) (with [Sch. 39 paras. 36, 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))

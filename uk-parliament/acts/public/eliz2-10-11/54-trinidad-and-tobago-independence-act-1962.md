@@ -45,7 +45,7 @@ An Act to make provision for, and in connection with, the attainment by Trinidad
 
 (1) . . . [^c627720]
 
-(2)[^key-bf8f24ce569e8f81937026854bb80ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bf8f24ce569e8f81937026854bb80ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of the making, on or after the appointed day, of Orders in Council under the [^c627726]West Indies Act 1962 and for the purposes of the making on or after that day of grants under section eight of that Act, Trinidad and Tobago shall be treated as not being a colony within the meaning of that Act.
 
@@ -140,7 +140,7 @@ and, until express provision with respect to Trinidad and Tobago is made by an O
 
 [^c627720]: Textual amendment: S. 3(1) repealed by [Interpretation Act 1978 (c. 30, SIF 115:1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
 
-[^key-bf8f24ce569e8f81937026854bb80ddf]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/54/section/3/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-bf8f24ce569e8f81937026854bb80ddf]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/54/section/3/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c627726]: Marginal citation: [1962 c. 19](https://www.legislation.gov.uk/ukpga/1962/19).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 176. Application to replace[^key-38721a6d1bac559e5a81f828cd0d0ee6]
+## 176. Application to replace[^c-38721a6d1bac559e5a81f828cd0d0ee6]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38721a6d1bac559e5a81f828cd0d0ee6]: Commencement: [Rule 176](https://www.legislation.gov.uk/nisr/2026/11/rule/176) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-38721a6d1bac559e5a81f828cd0d0ee6]: Commencement: [Rule 176](https://www.legislation.gov.uk/nisr/2026/11/rule/176) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

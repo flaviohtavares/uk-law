@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Power to amend sections 65 and 66[^key-dbc426cea37fa03d9d23230664451eca][^key-f9e4d03bad044eea062a3b1c4cb41a1e]
+## 83. Power to amend sections 65 and 66[^c-dbc426cea37fa03d9d23230664451eca][^c-f9e4d03bad044eea062a3b1c4cb41a1e]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dbc426cea37fa03d9d23230664451eca]: Commencement: S. 83 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-dbc426cea37fa03d9d23230664451eca]: Commencement: S. 83 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-f9e4d03bad044eea062a3b1c4cb41a1e]: Commencement: S. 83 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-f9e4d03bad044eea062a3b1c4cb41a1e]: Commencement: S. 83 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

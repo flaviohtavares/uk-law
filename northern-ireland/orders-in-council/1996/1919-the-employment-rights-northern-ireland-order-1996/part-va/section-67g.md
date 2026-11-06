@@ -22,8 +22,8 @@ summary: ''
 
 (1) A qualifying disclosure is made in accordance with this Article if—
 
-- (a)[^key-b627ab5877e063910253e410a1bd5aef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the worker[^key-dee49eac58fa651f8ac0a0dbe1d064e0] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+- (a)[^c-b627ab5877e063910253e410a1bd5aef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the worker[^c-dee49eac58fa651f8ac0a0dbe1d064e0] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
 - (c) he does not make the disclosure for purposes of personal gain,
 - (d) any of the conditions in paragraph (2) is met, and
 - (e) in all the circumstances of the case, it is reasonable for him to make the disclosure.
@@ -51,6 +51,6 @@ summary: ''
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-b627ab5877e063910253e410a1bd5aef]: Textual amendment: [Art. 67G(1)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/67G/1/a) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/14/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-b627ab5877e063910253e410a1bd5aef]: Textual amendment: [Art. 67G(1)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/67G/1/a) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/15/section/14/2/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
 
-[^key-dee49eac58fa651f8ac0a0dbe1d064e0]: Textual amendment: Words in [art. 67G(1)(b)](https://www.legislation.gov.uk/nisi/1996/1919/article/67G/1/b) substituted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(2)(b)](https://www.legislation.gov.uk/nia/2016/15/section/14/2/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-dee49eac58fa651f8ac0a0dbe1d064e0]: Textual amendment: Words in [art. 67G(1)(b)](https://www.legislation.gov.uk/nisi/1996/1919/article/67G/1/b) substituted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(2)(b)](https://www.legislation.gov.uk/nia/2016/15/section/14/2/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)

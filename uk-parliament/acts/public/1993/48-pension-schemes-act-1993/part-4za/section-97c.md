@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97C. Reduction of cash equivalents in case of designated schemes[^key-5493a1fae389bd4889c88b4ec4d91c35]
+## 97C. Reduction of cash equivalents in case of designated schemes[^c-5493a1fae389bd4889c88b4ec4d91c35]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5493a1fae389bd4889c88b4ec4d91c35]: Textual amendment: [S. 97C](https://www.legislation.gov.uk/ukpga/1993/48/section/97C) inserted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2015/8/section/69/4), [89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-5493a1fae389bd4889c88b4ec4d91c35]: Textual amendment: [S. 97C](https://www.legislation.gov.uk/ukpga/1993/48/section/97C) inserted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 69(4)](https://www.legislation.gov.uk/ukpga/2015/8/section/69/4), [89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

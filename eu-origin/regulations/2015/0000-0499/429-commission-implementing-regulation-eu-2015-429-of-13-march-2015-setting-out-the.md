@@ -35,60 +35,60 @@ setting out the modalities to be followed for the application of the charging fo
 
 (Text with EEA relevance) (revoked)
 
-[^key-90c3fffdce3fb16e3c6a754f86c615eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90c3fffdce3fb16e3c6a754f86c615eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 1. Scope[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 2. Definitions[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scheme[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 3. Scheme[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Bonus for retrofitted wagons[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 4. Bonus for retrofitted wagons[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Train bonus[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 5. Train bonus[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Bonus for very quiet wagons and locomotives[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 6. Bonus for very quiet wagons and locomotives[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Malus[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 7. Malus[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Administrative arrangements[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 8. Administrative arrangements[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Notification[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 9. Notification[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Review[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 10. Review[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Existing schemes[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 11. Existing schemes[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-90c3fffdce3fb16e3c6a754f86c615eb]
+## Article 12. Entry into force[^c-90c3fffdce3fb16e3c6a754f86c615eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90c3fffdce3fb16e3c6a754f86c615eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90c3fffdce3fb16e3c6a754f86c615eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90c3fffdce3fb16e3c6a754f86c615eb]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-90c3fffdce3fb16e3c6a754f86c615eb]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

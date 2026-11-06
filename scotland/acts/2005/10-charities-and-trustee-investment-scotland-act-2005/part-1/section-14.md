@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Exception for certain bodies not in Register[^key-80d58fc5d57d9717b62d011343257423]
+## 14. Exception for certain bodies not in Register[^c-80d58fc5d57d9717b62d011343257423]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ A body which is not entered in the Register may, despite section 13, refer to it
 
 ## Annotations
 
-[^key-80d58fc5d57d9717b62d011343257423]: Commencement: S. 14 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-80d58fc5d57d9717b62d011343257423]: Commencement: S. 14 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

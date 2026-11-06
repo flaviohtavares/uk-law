@@ -32,7 +32,7 @@ Section 106(1).
 | --- | --- |
 | [^c1130524]Industrial Organisation and Development Act 1947 | Schedule 1, paragraph 7 |
 | [^c1130525]Crown Proceedings Act 1947 | section 3(1)(b) |
-| [^key-0ac41524ce984c47a0913d2b146b3683]. . . | [^key-0ac41524ce984c47a0913d2b146b3683]. . . |
+| [^c-0ac41524ce984c47a0913d2b146b3683]. . . | [^c-0ac41524ce984c47a0913d2b146b3683]. . . |
 | [^c1130527]Printer’s Imprint Act 1961 | section 1(1)(b) |
 | [^c1130528]. . . | [^c1130528]. . . |
 | [^c1130530]. . . | [^c1130530]. . . |
@@ -40,13 +40,13 @@ Section 106(1).
 | [^c1130533]Unfair Contract Terms Act 1977 | Schedule 1, paragraph 1(c) |
 | [^c1130534]Judicature (Northern Ireland) Act 1978 | section 94A(5) |
 | [^c1130535]State Immunity Act 1978 | section 7(a) and (b) |
-| Senior Courts Act 1981[^key-eaff549e050208955162181660e380fb] | section 72(5)Schedule 1, paragraph 1(i) |
+| Senior Courts Act 1981[^c-eaff549e050208955162181660e380fb] | section 72(5)Schedule 1, paragraph 1(i) |
 | [^c1130537]Civil Jurisdiction and Judgments Act 1982 | Schedule 5, paragraph 2Schedule 8, paragraph 2(14) and 4(2) |
 | [^c1130538]Value Added Tax Act 1983 | Schedule 3, paragraph 1 |
-| [^key-faf3109cde8ca32d59cc75791021c0c5]. . . | [^key-faf3109cde8ca32d59cc75791021c0c5]. . . |
+| [^c-faf3109cde8ca32d59cc75791021c0c5]. . . | [^c-faf3109cde8ca32d59cc75791021c0c5]. . . |
 | [^c1130541]Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 | section 15(5) |
 | [^c1130542]Atomic Energy Authority Act 1986 | section 8(2) |
-| [^key-dcd857ba274a2caccfc2e99b122a1eb4]. . . | [^key-dcd857ba274a2caccfc2e99b122a1eb4]. . . |
+| [^c-dcd857ba274a2caccfc2e99b122a1eb4]. . . | [^c-dcd857ba274a2caccfc2e99b122a1eb4]. . . |
 | [^c1130545]Consumer Protection Act 1987 | section 2(2)(b) |
 | [^c1130546]Consumer Protection (Northern Ireland) Order 1987 | article 5(2)(b) |
 | [^c1130547]Income and Corporation Taxes Act 1988 | section 83(a) |
@@ -115,7 +115,7 @@ for “the Trade Marks Act 1938” substitute “ the Trade Marks Act 1994 ”.
 
 ### Solicitors Act 1974 (c.47)
 
-**5.**[^key-fbdb94d4f397f93b0963bb41546c5123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fbdb94d4f397f93b0963bb41546c5123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### House of Commons Disqualification Act 1975 (c.24)
 
@@ -158,7 +158,7 @@ for “the Trade Marks Act 1938” substitute “ the Trade Marks Act 1994 ”.
 
 [^c1130525]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 
-[^key-0ac41524ce984c47a0913d2b146b3683]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-0ac41524ce984c47a0913d2b146b3683]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c1130527]: Marginal citation: [1961 c. 31](https://www.legislation.gov.uk/ukpga/1961/31).
 
@@ -174,19 +174,19 @@ for “the Trade Marks Act 1938” substitute “ the Trade Marks Act 1994 ”.
 
 [^c1130535]: Marginal citation: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33).
 
-[^key-eaff549e050208955162181660e380fb]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-eaff549e050208955162181660e380fb]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c1130537]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).
 
 [^c1130538]: Marginal citation: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
 
-[^key-faf3109cde8ca32d59cc75791021c0c5]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (6.4.2008 for specified purposes, 1.10.2009 for specified purposes) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-faf3109cde8ca32d59cc75791021c0c5]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (6.4.2008 for specified purposes, 1.10.2009 for specified purposes) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8,](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c1130541]: Marginal citation: [1985 c. 73](https://www.legislation.gov.uk/ukpga/1985/73).
 
 [^c1130542]: Marginal citation: [1986 c. 3](https://www.legislation.gov.uk/ukpga/1986/3).
 
-[^key-dcd857ba274a2caccfc2e99b122a1eb4]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-dcd857ba274a2caccfc2e99b122a1eb4]: Textual amendment: Words in Sch. 4 para. 1(2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1130545]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
@@ -202,4 +202,4 @@ for “the Trade Marks Act 1938” substitute “ the Trade Marks Act 1994 ”.
 
 [^c1130551]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88).
 
-[^key-fbdb94d4f397f93b0963bb41546c5123]: Textual amendment: Sch. 4 para. 5 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)
+[^c-fbdb94d4f397f93b0963bb41546c5123]: Textual amendment: Sch. 4 para. 5 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/ix)

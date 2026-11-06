@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135F. Blacklists[^key-be58443f8d361315702320ebd172606e]
+## 135F. Blacklists[^c-be58443f8d361315702320ebd172606e]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ the tribunal must find that such a contravention or reliance on information occu
 
 ## Annotations
 
-[^key-be58443f8d361315702320ebd172606e]: Textual amendment: [Art. 135F](https://www.legislation.gov.uk/nisi/1996/1919/article/135F) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/2)
+[^c-be58443f8d361315702320ebd172606e]: Textual amendment: [Art. 135F](https://www.legislation.gov.uk/nisi/1996/1919/article/135F) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/2)

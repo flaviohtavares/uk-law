@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Approval of major modifications made in urgent cases[^key-50b2cc656ca0f301e4a8c474609c7b68]
+## 38. Approval of major modifications made in urgent cases[^c-50b2cc656ca0f301e4a8c474609c7b68]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ and, in a case falling within subsection (2) above, section 23(5) does not apply
 
 ## Annotations
 
-[^key-50b2cc656ca0f301e4a8c474609c7b68]: Commencement: S. 38 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/j)
+[^c-50b2cc656ca0f301e4a8c474609c7b68]: Commencement: S. 38 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/j)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to the provisions of regulation 4, Parts A to M[^key-537c848f0e80b0edd63164a40c1471ed] and Parts R and V shall apply to—
+(1) Subject to the provisions of regulation 4, Parts A to M[^c-537c848f0e80b0edd63164a40c1471ed] and Parts R and V shall apply to—
 
 - (a) a structural alteration or extension of an existing building; and
 - (b) the existing building as affected by that alteration or extension to the extent (subject to the provisions of regulation 8) of prohibiting any alteration or extension which would cause a new or greater contravention of any regulation.
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-537c848f0e80b0edd63164a40c1471ed]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2012/192/regulation/7/1) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-537c848f0e80b0edd63164a40c1471ed]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2012/192/regulation/7/1) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

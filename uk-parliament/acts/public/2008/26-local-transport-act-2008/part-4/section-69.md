@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Subsidy to secure passenger transport services in Wales[^key-be33c1225e28216a5045632c57ae6865][^key-154a4a1c266427bb9ee532fb56a1f349]
+## 69. Subsidy to secure passenger transport services in Wales[^c-be33c1225e28216a5045632c57ae6865][^c-154a4a1c266427bb9ee532fb56a1f349]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be33c1225e28216a5045632c57ae6865]: Commencement: S. 69 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-be33c1225e28216a5045632c57ae6865]: Commencement: S. 69 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-154a4a1c266427bb9ee532fb56a1f349]: Commencement: S. 69 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/579/article/2/h)
+[^c-154a4a1c266427bb9ee532fb56a1f349]: Commencement: S. 69 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/579/article/2/h)

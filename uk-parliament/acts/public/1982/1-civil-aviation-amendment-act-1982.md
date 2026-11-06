@@ -31,36 +31,36 @@ Civil Aviation (Amendment)Act 1982 (repealed)
 
 1982 c. 1
 
-[^key-bf429833581457ec50267529185088c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf429833581457ec50267529185088c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[2nd February 1982\]
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-bf429833581457ec50267529185088c9][^key-bf429833581457ec50267529185088c9]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-bf429833581457ec50267529185088c9][^c-bf429833581457ec50267529185088c9]
 
-## 2. Increase of financial limit of British Airways Board.[^key-bf429833581457ec50267529185088c9][^key-bf429833581457ec50267529185088c9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Application of financial limit of British Airways Board to foreign currency borrowings.[^key-bf429833581457ec50267529185088c9][^key-bf429833581457ec50267529185088c9]
+## 2. Increase of financial limit of British Airways Board.[^c-bf429833581457ec50267529185088c9][^c-bf429833581457ec50267529185088c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-bf429833581457ec50267529185088c9][^key-bf429833581457ec50267529185088c9]
+## 3. Application of financial limit of British Airways Board to foreign currency borrowings.[^c-bf429833581457ec50267529185088c9][^c-bf429833581457ec50267529185088c9]
 
-## 5. Short title and extent.[^key-bf429833581457ec50267529185088c9][^key-bf429833581457ec50267529185088c9]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-bf429833581457ec50267529185088c9][^c-bf429833581457ec50267529185088c9]
+
+## 5. Short title and extent.[^c-bf429833581457ec50267529185088c9][^c-bf429833581457ec50267529185088c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-bf429833581457ec50267529185088c9] SCHEDULES
+[^c-bf429833581457ec50267529185088c9] SCHEDULES
 
-## SCHEDULES 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-bf429833581457ec50267529185088c9]
+## SCHEDULES 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-bf429833581457ec50267529185088c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf429833581457ec50267529185088c9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1982/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-bf429833581457ec50267529185088c9]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1982/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Consent to conferral of police and crime commissioner functions on mayor[^key-7ad072ea1049e959e3c61c8e5f66ac24]
+## 62. Consent to conferral of police and crime commissioner functions on mayor[^c-7ad072ea1049e959e3c61c8e5f66ac24]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ad072ea1049e959e3c61c8e5f66ac24]: Commencement: S. 62 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/g)
+[^c-7ad072ea1049e959e3c61c8e5f66ac24]: Commencement: S. 62 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/g)

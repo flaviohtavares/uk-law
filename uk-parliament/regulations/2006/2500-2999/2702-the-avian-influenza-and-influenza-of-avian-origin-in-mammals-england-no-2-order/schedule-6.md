@@ -30,8 +30,8 @@ The occupier must make and update daily a record of poultry, other captive birds
 
 - (a) alive;
 - (b) which have died;
-- (c) which show clinical signs of avian influenza or influenza of avian origin[^key-22d0c611def86efc79371b313123a2c9];
-- (d) which he thinks are likely to be infected with avian influenza or influenza of avian origin[^key-696a05811ab61dfb10bb99ff8783e9d8];
+- (c) which show clinical signs of avian influenza or influenza of avian origin[^c-22d0c611def86efc79371b313123a2c9];
+- (d) which he thinks are likely to be infected with avian influenza or influenza of avian origin[^c-696a05811ab61dfb10bb99ff8783e9d8];
 - (e) born or hatched.
 
 #### 2. Housing or isolation of poultry and other captive birds
@@ -87,7 +87,7 @@ A veterinary inspector may, by notice to the occupier of special category premis
 
 #### 11. Tracing
 
-The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^key-6d1fe15caded322f805db3fe6800ccdf] from and to the premises.
+The occupier must give all reasonable assistance to a veterinary inspector in the tracing of any thing liable to transmit avian influenza virus[^c-6d1fe15caded322f805db3fe6800ccdf] from and to the premises.
 
 #### 12. Manure, slurry and bedding
 
@@ -128,11 +128,11 @@ The occupier must, in accordance with an inspector's instructions, provide and m
 
 ## Annotations
 
-[^key-22d0c611def86efc79371b313123a2c9]: Textual amendment: Words in [Sch. 6 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/1/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/i/aa)
+[^c-22d0c611def86efc79371b313123a2c9]: Textual amendment: Words in [Sch. 6 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/1/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/i/aa)
 
-[^key-696a05811ab61dfb10bb99ff8783e9d8]: Textual amendment: Words in [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/1/d) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/i/bb)
+[^c-696a05811ab61dfb10bb99ff8783e9d8]: Textual amendment: Words in [Sch. 6 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/1/d) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/i/bb)
 
-[^key-6d1fe15caded322f805db3fe6800ccdf]: Textual amendment: Word in [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/11) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/ii)
+[^c-6d1fe15caded322f805db3fe6800ccdf]: Textual amendment: Word in [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/6/paragraph/11) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(45)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/45/a/ii)
 
 [^c1680360]: Marginal citation: [S.I. 1993/1685](https://www.legislation.gov.uk/uksi/1993/1685).
 

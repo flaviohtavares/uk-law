@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Permission for use of facilities in private practice under Article 5 of the 1972 Order[^key-6296958ebf03ef440395ba021a1ea90c]
+## 38. Permission for use of facilities in private practice under Article 5 of the 1972 Order[^c-6296958ebf03ef440395ba021a1ea90c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where, on 31st March 2004, a relevant medical practitioner had the permission of
 
 ## Annotations
 
-[^key-6296958ebf03ef440395ba021a1ea90c]: Commencement: Art. 38 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-6296958ebf03ef440395ba021a1ea90c]: Commencement: Art. 38 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

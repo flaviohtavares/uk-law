@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Linked transactions[^key-768ab76ffa2a1aefe2611fdf1fa95196]
+## 8. Linked transactions[^c-768ab76ffa2a1aefe2611fdf1fa95196]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-768ab76ffa2a1aefe2611fdf1fa95196]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2017/1/section/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-768ab76ffa2a1aefe2611fdf1fa95196]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2017/1/section/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

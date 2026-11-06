@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Transitional provision in connection with abolition[^key-cb85e407a3c020331d6901bf5cd17c48][^key-88089d0789b5d0ad6d77df19e34336c5]
+## 129. Transitional provision in connection with abolition[^c-cb85e407a3c020331d6901bf5cd17c48][^c-88089d0789b5d0ad6d77df19e34336c5]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb85e407a3c020331d6901bf5cd17c48]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2011/20/section/129) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/57/article/2/b)
+[^c-cb85e407a3c020331d6901bf5cd17c48]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2011/20/section/129) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/57/article/2/b)
 
-[^key-88089d0789b5d0ad6d77df19e34336c5]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2011/20/section/129) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-88089d0789b5d0ad6d77df19e34336c5]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2011/20/section/129) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

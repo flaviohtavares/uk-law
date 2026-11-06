@@ -31,11 +31,11 @@ summary: ''
 
 In this subsection “**allowable expenditure**” means expenditure which, immediately before the part disposal, was attributable to the holding of land under paragraphs (a) and (b) of section 38(1).
 
-(3)[^key-b87178ef6ec395c8d44d3494d97d7720] An election under subsection (2)(b) above shall be made—
+(3)[^c-b87178ef6ec395c8d44d3494d97d7720] An election under subsection (2)(b) above shall be made—
 
 - (a) for the purposes of capital gains tax, on or before the first anniversary of the 31st January next following the year of assessment in which the part disposal is made;
 - (b) for the purposes of corporation tax, within 2 years after the end of the accounting period in which the part disposal is made.
 
 ## Annotations
 
-[^key-b87178ef6ec395c8d44d3494d97d7720]: Textual amendment: S. 244(3) inserted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/39)
+[^c-b87178ef6ec395c8d44d3494d97d7720]: Textual amendment: S. 244(3) inserted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/39)

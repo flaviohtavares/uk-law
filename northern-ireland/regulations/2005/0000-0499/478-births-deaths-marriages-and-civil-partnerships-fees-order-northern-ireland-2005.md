@@ -31,7 +31,7 @@ summary: ''
 
 REGISTRATION OF BIRTHS, DEATHS, MARRIAGES AND CIVIL PARTNERSHIPS
 
-Births, Deaths, Marriages and Civil Partnerships (Fees) Order (Northern Ireland) 2005 (revoked)[^key-957fe26921588793ea1c8b9c35d4eec1]
+Births, Deaths, Marriages and Civil Partnerships (Fees) Order (Northern Ireland) 2005 (revoked)[^c-957fe26921588793ea1c8b9c35d4eec1]
 
 Made
 
@@ -43,27 +43,27 @@ Coming into operation
 
 5th December 2005
 
-[^key-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-957fe26921588793ea1c8b9c35d4eec1]
+## 1. Citation, commencement and interpretation[^c-957fe26921588793ea1c8b9c35d4eec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-957fe26921588793ea1c8b9c35d4eec1]
+## 2. Fees payable[^c-957fe26921588793ea1c8b9c35d4eec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-957fe26921588793ea1c8b9c35d4eec1]
+## 3. Revocation[^c-957fe26921588793ea1c8b9c35d4eec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-957fe26921588793ea1c8b9c35d4eec1]
+## SCHEDULE[^c-957fe26921588793ea1c8b9c35d4eec1]
 
 Article 2
 
@@ -71,8 +71,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-957fe26921588793ea1c8b9c35d4eec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-957fe26921588793ea1c8b9c35d4eec1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/478) revoked (1.6.2008) by [General Register Office (Fees) Order (Northern Ireland) 2008 (S.R. 2008/219)](https://www.legislation.gov.uk/nisr/2008/219), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/219/article/1/1), [3](https://www.legislation.gov.uk/nisr/2008/219/article/3)
+[^c-957fe26921588793ea1c8b9c35d4eec1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/478) revoked (1.6.2008) by [General Register Office (Fees) Order (Northern Ireland) 2008 (S.R. 2008/219)](https://www.legislation.gov.uk/nisr/2008/219), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/219/article/1/1), [3](https://www.legislation.gov.uk/nisr/2008/219/article/3)

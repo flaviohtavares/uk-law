@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Benefit offences: sanctions for repeated benefit fraud[^key-da385bdde7214e72a1db15bbbbbb4dcd]
+## 119. Benefit offences: sanctions for repeated benefit fraud[^c-da385bdde7214e72a1db15bbbbbb4dcd]
 
 *Extent: E+W+S*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da385bdde7214e72a1db15bbbbbb4dcd]: Commencement: S. 119 in force at 1.4.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 6(4)(c)](https://www.legislation.gov.uk/uksi/2013/358/article/6/4/c)
+[^c-da385bdde7214e72a1db15bbbbbb4dcd]: Commencement: S. 119 in force at 1.4.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 6(4)(c)](https://www.legislation.gov.uk/uksi/2013/358/article/6/4/c)

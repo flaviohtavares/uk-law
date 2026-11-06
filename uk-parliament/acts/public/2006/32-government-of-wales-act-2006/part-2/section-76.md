@@ -30,7 +30,7 @@ summary: ''
 (2) For the purposes of this section—
 
 - (a) a regulatory impact assessment is an assessment as to the likely costs and benefits of complying with relevant Welsh subordinate legislation, and
-- (b) subordinate legislation is relevant Welsh subordinate legislation if it is made by the Welsh Ministers, the First Minister or the Counsel General and the statutory instrument (or a draft of the statutory instrument) containing it is required to be laid before the Senedd[^key-60edd79c70d763519861630d1afb7962] .
+- (b) subordinate legislation is relevant Welsh subordinate legislation if it is made by the Welsh Ministers, the First Minister or the Counsel General and the statutory instrument (or a draft of the statutory instrument) containing it is required to be laid before the Senedd[^c-60edd79c70d763519861630d1afb7962] .
 
 (3) The Welsh Ministers—
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c16527121]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

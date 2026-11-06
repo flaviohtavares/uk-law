@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.58. Preliminary[^key-e8fec63c7fc419882a5b8020c524a026]
+## 6.58. Preliminary[^c-e8fec63c7fc419882a5b8020c524a026]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Rules in this Section apply with respect to the statement of affairs require
 
 ## Annotations
 
-[^key-e8fec63c7fc419882a5b8020c524a026]: Commencement: [Rule 6.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e8fec63c7fc419882a5b8020c524a026]: Commencement: [Rule 6.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

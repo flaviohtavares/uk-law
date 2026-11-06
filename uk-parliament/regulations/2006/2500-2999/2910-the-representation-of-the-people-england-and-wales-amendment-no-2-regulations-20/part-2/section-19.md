@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Anonymous registration: amendments to regulation 51B[^key-dabe0c9eca5082e28a8cfdd7980896a6]
+## 19. Anonymous registration: amendments to regulation 51B[^c-dabe0c9eca5082e28a8cfdd7980896a6]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dabe0c9eca5082e28a8cfdd7980896a6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2910/regulation/19) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-dabe0c9eca5082e28a8cfdd7980896a6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2006/2910/regulation/19) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00039]: Footnote: Regulation 51B was inserted by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

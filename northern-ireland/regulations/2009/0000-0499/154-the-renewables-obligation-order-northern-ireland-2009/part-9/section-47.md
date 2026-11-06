@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Provision of information to the Department[^key-3c85c52138817544afa15d9eddc9d847]
+## 47. Provision of information to the Department[^c-3c85c52138817544afa15d9eddc9d847]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any information provided to the Authority under Article 45(5) must be provided t
 
 ## Annotations
 
-[^key-3c85c52138817544afa15d9eddc9d847]: Commencement: Art. 47 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-3c85c52138817544afa15d9eddc9d847]: Commencement: Art. 47 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

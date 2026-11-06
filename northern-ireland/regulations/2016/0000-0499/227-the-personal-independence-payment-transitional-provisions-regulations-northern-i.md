@@ -64,7 +64,7 @@ These Regulations may be cited as the Personal Independence Payment (Transitiona
 - “the Disability Living Allowance Regulations” means the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00007];
 - “DLA entitled person” means a person aged 16 or over who is entitled to either component or both components of disability living allowance;
 - “electronic communication” has the meaning given by section 4(1) of the Electronic Communications Act (Northern Ireland) 2001[^f00008] (interpretation);
-- “exempt person” means a DLA entitled person in respect of whom, by virtue of regulation 8(4) or 12A(4) of the Disability Living Allowance Regulations (person under the age of 18 on the day of entry into hospital), a disability living allowance is payable even though that person is maintained free of charge while undergoing medical or other treatment as an in-patient in a hospital or other similar institution;[^key-2911f6fb1b089e0806ad5a0f8b16fafe]
+- “exempt person” means a DLA entitled person in respect of whom, by virtue of regulation 8(4) or 12A(4) of the Disability Living Allowance Regulations (person under the age of 18 on the day of entry into hospital), a disability living allowance is payable even though that person is maintained free of charge while undergoing medical or other treatment as an in-patient in a hospital or other similar institution;[^c-2911f6fb1b089e0806ad5a0f8b16fafe]
 - “notified person” means a DLA entitled person who has been sent a notification by the Department under regulation 3(1);
 - “pay day”, in relation to disability living allowance, means—
   - (a) in the case of a payment of disability living allowance in respect of a period to which regulation 25(2) of the 1987 Regulations[^f00009] (payment of disability living allowance at a daily rate) applies, the day on which the payment is made in accordance with paragraph (1) of that regulation;
@@ -96,20 +96,20 @@ These Regulations may be cited as the Personal Independence Payment (Transitiona
 
 (2) The Department must not send a notification under paragraph (1) to any person who, on 20th June 2016, was 65 or over.
 
-(3) Subject to paragraphs (4) and (4A),[^key-bcc54c1651fa811a6309e5cf20f4d672] the Department must send a notification under paragraph (1) to a DLA entitled person who reaches 16 as soon as reasonably practicable after the person reaches that age.
+(3) Subject to paragraphs (4) and (4A),[^c-bcc54c1651fa811a6309e5cf20f4d672] the Department must send a notification under paragraph (1) to a DLA entitled person who reaches 16 as soon as reasonably practicable after the person reaches that age.
 
 (4) Paragraph (3) does not apply to a DLA entitled person whose entitlement, on the day that the person reaches 16, is on the basis that the person is terminally ill within the meaning given by section 66(2) of the Contributions and Benefits Act (attendance allowance for the terminally ill).
 
-(4A)[^key-803f0ff2a179824112ab3d6e053ed471] If the DLA entitled person referred to in paragraph (3) is an exempt person, the Department must not send the notification required by paragraph (3) until the DLA entitled person ceases to be an exempt person.
+(4A)[^c-803f0ff2a179824112ab3d6e053ed471] If the DLA entitled person referred to in paragraph (3) is an exempt person, the Department must not send the notification required by paragraph (3) until the DLA entitled person ceases to be an exempt person.
 
-(5) Subject to paragraph (5A),[^key-bdac15f19e38a8cfbeaaec4e62485404] where a DLA entitled person who has neither—
+(5) Subject to paragraph (5A),[^c-bdac15f19e38a8cfbeaaec4e62485404] where a DLA entitled person who has neither—
 
 - (a) been sent a notification under paragraph (1); nor
 - (b) made a claim for personal independence payment under regulation 4,
 
 notifies the Department of a change of circumstances other than a change to which paragraph (6) applies, the Department must, as soon as reasonably practicable, send the person a notification under paragraph (1).
 
-(5A)[^key-081f12b7961c04007a23720edc5587c6] If the DLA entitled person referred to in paragraph (5) is an exempt person, the Department must not send the notification required by paragraph (5) until the DLA entitled person ceases to be an exempt person.
+(5A)[^c-081f12b7961c04007a23720edc5587c6] If the DLA entitled person referred to in paragraph (5) is an exempt person, the Department must not send the notification required by paragraph (5) until the DLA entitled person ceases to be an exempt person.
 
 (6) This paragraph applies to a change of circumstances where the change notified is that the DLA entitled person is to become or has become absent, whether temporarily or permanently, from Northern Ireland.
 
@@ -317,7 +317,7 @@ the fixed term period shall be extended.
 - (a) the award is of—
   - (i) both components and the award in respect of either or both is for a fixed term period, or
   - (ii) one component only and for a fixed term period; and
-- (b) the Department considers that the fixed term period may expire while the DLA entitled person is an exempt person to whom a notification cannot be sent by virtue of regulation 3(4A) or (5A), or[^key-27ce904e5c6088dcec0f9ebb6e3dd4f4] before an assessment determination can be made,
+- (b) the Department considers that the fixed term period may expire while the DLA entitled person is an exempt person to whom a notification cannot be sent by virtue of regulation 3(4A) or (5A), or[^c-27ce904e5c6088dcec0f9ebb6e3dd4f4] before an assessment determination can be made,
 
 the Department may extend the period by such further period as it considers appropriate.
 
@@ -461,7 +461,7 @@ shall be counted towards the 26 weeks of absence referred to in regulation 18 of
 - (b) claims personal independence payment; and
 - (c) is not entitled to disability living allowance on the day the claim is made but was so entitled on the day falling twelve months before that day or at any time between those days.
 
-## 27A. Revision and supersession of an award of personal independence payment in certain circumstances[^key-6ef80704230b273aa012881859947200]
+## 27A. Revision and supersession of an award of personal independence payment in certain circumstances[^c-6ef80704230b273aa012881859947200]
 
 (1) Subject to paragraph (2), Article 88(1) of the 2015 Order[^f00004] (persons of pensionable age) does not apply to a person who—
 
@@ -616,7 +616,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00008]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); section 4(1) was amended by paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-2911f6fb1b089e0806ad5a0f8b16fafe]: Textual amendment: Words in reg. 2(1) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/2)
+[^c-2911f6fb1b089e0806ad5a0f8b16fafe]: Textual amendment: Words in reg. 2(1) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/2)
 
 [^f00009]: Footnote: Regulation 25 was amended by regulation 13 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and regulation 2 of [S.R. 1996 No. 225](https://www.legislation.gov.uk/nisr/1996/225)
 
@@ -628,13 +628,13 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bcc54c1651fa811a6309e5cf20f4d672]: Textual amendment: Words in reg. 3(3) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/a)
+[^c-bcc54c1651fa811a6309e5cf20f4d672]: Textual amendment: Words in reg. 3(3) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/a)
 
-[^key-803f0ff2a179824112ab3d6e053ed471]: Textual amendment: Reg. 3(4A) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/b)
+[^c-803f0ff2a179824112ab3d6e053ed471]: Textual amendment: Reg. 3(4A) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/b)
 
-[^key-bdac15f19e38a8cfbeaaec4e62485404]: Textual amendment: Words in reg. 3(5) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/c)
+[^c-bdac15f19e38a8cfbeaaec4e62485404]: Textual amendment: Words in reg. 3(5) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/c)
 
-[^key-081f12b7961c04007a23720edc5587c6]: Textual amendment: Reg. 3(5A) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/d)
+[^c-081f12b7961c04007a23720edc5587c6]: Textual amendment: Reg. 3(5A) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/3/d)
 
 [^f00014]: Footnote: Article 9 was amended by paragraph 16 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)), paragraph 6 of Schedule 1 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nisr/2002/14)), paragraph 10(3) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007, paragraph 29 of Schedule 12 to the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.)](https://www.legislation.gov.uk/nisr/2015/5)) and is amended by paragraph 36 of Schedule 2 and paragraph 37 of Schedule 9 to the Welfare Reform (Northern Ireland) Order 2015
 
@@ -642,7 +642,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00016]: Footnote: Regulation 22 was amended by regulation 2(3) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432), regulation 2(3) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297), regulation 2(5) of [S.R. 2008 No. 417](https://www.legislation.gov.uk/nisr/2008/417), regulation 2(4) of [S.R. 2009 No. 409](https://www.legislation.gov.uk/nisr/2009/409) and regulation 3(5) of [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81)
 
-[^key-27ce904e5c6088dcec0f9ebb6e3dd4f4]: Textual amendment: Words in reg. 19(1)(b) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/4)
+[^c-27ce904e5c6088dcec0f9ebb6e3dd4f4]: Textual amendment: Words in reg. 19(1)(b) inserted (6.7.2016) by [The Social Security (Disability Living Allowance and Personal Independence Payment) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/235)](https://www.legislation.gov.uk/nisr/2016/235), [regs. 1](https://www.legislation.gov.uk/nisr/2016/235/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2016/235/regulation/4/4)
 
 [^f00017]: Footnote: Article 11 was amended by paragraph 17 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
@@ -658,7 +658,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00023]: Footnote: Paragraph (2B) is inserted by regulation 4(3)(f) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229)
 
-[^key-6ef80704230b273aa012881859947200]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2016/227/regulation/27A) inserted (4.7.2019) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/118)](https://www.legislation.gov.uk/nisr/2019/118), [regs. 1](https://www.legislation.gov.uk/nisr/2019/118/regulation/1), [2](https://www.legislation.gov.uk/nisr/2019/118/regulation/2)
+[^c-6ef80704230b273aa012881859947200]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/nisr/2016/227/regulation/27A) inserted (4.7.2019) by [The Personal Independence Payment (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/118)](https://www.legislation.gov.uk/nisr/2019/118), [regs. 1](https://www.legislation.gov.uk/nisr/2019/118/regulation/1), [2](https://www.legislation.gov.uk/nisr/2019/118/regulation/2)
 
 [^f00024]: Footnote: Paragraph (1A) was inserted by regulation 5(7)(a) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and amended by paragraph 2(3) of Schedule 2 to [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 

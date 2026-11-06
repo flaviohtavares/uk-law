@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.1. Introductory[^key-1f65501acdaa24c98269d155568319a4]
+## 33.1. Introductory[^c-1f65501acdaa24c98269d155568319a4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-1f65501acdaa24c98269d155568319a4]: Commencement: [Rule 33.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-1f65501acdaa24c98269d155568319a4]: Commencement: [Rule 33.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

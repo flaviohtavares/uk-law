@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Supplementary powers[^key-5902ea19fc1652d887e9c4928a20e3b9]
+## 126. Supplementary powers[^c-5902ea19fc1652d887e9c4928a20e3b9]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5902ea19fc1652d887e9c4928a20e3b9]: Commencement: [S. 126](https://www.legislation.gov.uk/mwa/2011/1/section/126) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)
+[^c-5902ea19fc1652d887e9c4928a20e3b9]: Commencement: [S. 126](https://www.legislation.gov.uk/mwa/2011/1/section/126) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Relationship between duties and codes of practice[^key-1e71d1e78ce214bd9a615c7433fadebc][^key-5ecc5df0781b3f27c30fb8457e420d78]
+## 49. Relationship between duties and codes of practice[^c-1e71d1e78ce214bd9a615c7433fadebc][^c-5ecc5df0781b3f27c30fb8457e420d78]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ Interpretation
 
 ## Annotations
 
-[^key-1e71d1e78ce214bd9a615c7433fadebc]: Commencement: S. 49 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1e71d1e78ce214bd9a615c7433fadebc]: Commencement: S. 49 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5ecc5df0781b3f27c30fb8457e420d78]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/50/section/49) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)
+[^c-5ecc5df0781b3f27c30fb8457e420d78]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/50/section/49) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Abolition of Fisheries Committee (Scotland)[^key-e3c32af9af4bb960d3ea72e1376ff636]
+## 46. Abolition of Fisheries Committee (Scotland)[^c-e3c32af9af4bb960d3ea72e1376ff636]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3c32af9af4bb960d3ea72e1376ff636]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2010/29/section/46) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-e3c32af9af4bb960d3ea72e1376ff636]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2010/29/section/46) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

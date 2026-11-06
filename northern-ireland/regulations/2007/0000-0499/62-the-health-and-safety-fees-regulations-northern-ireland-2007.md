@@ -31,7 +31,7 @@ summary: ''
 
 health and safety
 
-The Health and Safety (Fees) Regulations (Northern Ireland) 2007 (revoked)[^key-15ec85d34f75c786b53234c19e187ab1]
+The Health and Safety (Fees) Regulations (Northern Ireland) 2007 (revoked)[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Made
 
@@ -41,121 +41,121 @@ Coming into operation
 
 2nd April 2007
 
-[^key-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-15ec85d34f75c786b53234c19e187ab1]
+## 1. Citation, commencement and interpretation[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^key-15ec85d34f75c786b53234c19e187ab1]
+## 2. Fees payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Date from which fees are payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^key-15ec85d34f75c786b53234c19e187ab1]
+## 3. Date from which fees are payable under the Petroleum (Consolidation) Act (Northern Ireland) 1929 and the Petroleum (Transfer of Licences) Act (Northern Ireland) 1937[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees payable for medical examination or surveillance by an employment medical adviser[^key-15ec85d34f75c786b53234c19e187ab1]
+## 4. Fees payable for medical examination or surveillance by an employment medical adviser[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 2003[^key-15ec85d34f75c786b53234c19e187ab1]
+## 5. Fees payable for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations (Northern Ireland) 2003[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees payable for various applications under the Control of Asbestos Regulations (Northern Ireland) 2007[^key-15ec85d34f75c786b53234c19e187ab1]
+## 6. Fees payable for various applications under the Control of Asbestos Regulations (Northern Ireland) 2007[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^key-15ec85d34f75c786b53234c19e187ab1]
+## 7. Fee payable on application for approval under the Freight Containers (Safety Convention) Regulations (Northern Ireland) 1992[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^key-15ec85d34f75c786b53234c19e187ab1]
+## 8. Fees associated with notifications and applications under the Notification of New Substances Regulations (Northern Ireland) 1994[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Fees associated with notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001[^key-15ec85d34f75c786b53234c19e187ab1]
+## 9. Fees associated with notifications and applications under the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Fees payable in respect of offshore installations[^key-15ec85d34f75c786b53234c19e187ab1]
+## 10. Fees payable in respect of offshore installations[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Fees payable in respect of gas safety functions[^key-15ec85d34f75c786b53234c19e187ab1]
+## 11. Fees payable in respect of gas safety functions[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Provisions supplementary to regulations 10 and 11[^key-15ec85d34f75c786b53234c19e187ab1]
+## 12. Provisions supplementary to regulations 10 and 11[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocations[^key-15ec85d34f75c786b53234c19e187ab1]
+## 13. Revocations[^c-15ec85d34f75c786b53234c19e187ab1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FEES RELATING TO APPLICATIONS FOR PETROLEUM-SPIRIT LICENCES[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 1 — FEES RELATING TO APPLICATIONS FOR PETROLEUM-SPIRIT LICENCES[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FEES PAYABLE FOR MEDICAL EXAMINATION OR SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 2 — FEES PAYABLE FOR MEDICAL EXAMINATION OR SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — FEES PAYABLE FOR MEDICAL SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER UNDER THE CONTROL OF LEAD AT WORK REGULATIONS (NORTHERN IRELAND) 2003[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 3 — FEES PAYABLE FOR MEDICAL SURVEILLANCE BY AN EMPLOYMENT MEDICAL ADVISER UNDER THE CONTROL OF LEAD AT WORK REGULATIONS (NORTHERN IRELAND) 2003[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — FEES PAYABLE FOR VARIOUS APPLICATIONS UNDER THE CONTROL OF ASBESTOS REGULATIONS (NORTHERN IRELAND) 2007[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 4 — FEES PAYABLE FOR VARIOUS APPLICATIONS UNDER THE CONTROL OF ASBESTOS REGULATIONS (NORTHERN IRELAND) 2007[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — FEE PAYABLE ON APPLICATION FOR APPROVAL UNDER THE FREIGHT CONTAINERS (SAFETY CONVENTION) REGULATIONS (NORTHERN IRELAND) 1992[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 5 — FEE PAYABLE ON APPLICATION FOR APPROVAL UNDER THE FREIGHT CONTAINERS (SAFETY CONVENTION) REGULATIONS (NORTHERN IRELAND) 1992[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — FEES ASSOCIATED WITH NOTIFICATIONS AND APPLICATIONS UNDER THE NOTIFICATION OF NEW SUBSTANCES REGULATIONS (NORTHERN IRELAND) 1994[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 6 — FEES ASSOCIATED WITH NOTIFICATIONS AND APPLICATIONS UNDER THE NOTIFICATION OF NEW SUBSTANCES REGULATIONS (NORTHERN IRELAND) 1994[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — FEES ASSOCIATED WITH NOTIFICATIONS AND APPLICATIONS UNDER THE GENETICALLY MODIFIED ORGANISMS (CONTAINED USE) REGULATIONS (NORTHERN IRELAND) 2001[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 7 — FEES ASSOCIATED WITH NOTIFICATIONS AND APPLICATIONS UNDER THE GENETICALLY MODIFIED ORGANISMS (CONTAINED USE) REGULATIONS (NORTHERN IRELAND) 2001[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — FEES PAYABLE IN RESPECT OF OFFSHORE INSTALLATIONS[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 8 — FEES PAYABLE IN RESPECT OF OFFSHORE INSTALLATIONS[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — FEES PAYABLE IN RESPECT OF GAS SAFETY FUNCTIONS[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 9 — FEES PAYABLE IN RESPECT OF GAS SAFETY FUNCTIONS[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — REVOCATIONS[^key-15ec85d34f75c786b53234c19e187ab1]
+## SCHEDULE 10 — REVOCATIONS[^c-15ec85d34f75c786b53234c19e187ab1]
 
 Regulation 13
 
@@ -163,8 +163,8 @@ Regulation 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15ec85d34f75c786b53234c19e187ab1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15ec85d34f75c786b53234c19e187ab1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/62) revoked (10.3.2008) by [The Health and Safety (Fees) Regulations (Northern Ireland) 2008 (S.R. 2008/21)](https://www.legislation.gov.uk/nisr/2008/21), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/21/regulation/1/1), [13(1)](https://www.legislation.gov.uk/nisr/2008/21/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/21/regulation/13/2))
+[^c-15ec85d34f75c786b53234c19e187ab1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/62) revoked (10.3.2008) by [The Health and Safety (Fees) Regulations (Northern Ireland) 2008 (S.R. 2008/21)](https://www.legislation.gov.uk/nisr/2008/21), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/21/regulation/1/1), [13(1)](https://www.legislation.gov.uk/nisr/2008/21/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/nisr/2008/21/regulation/13/2))

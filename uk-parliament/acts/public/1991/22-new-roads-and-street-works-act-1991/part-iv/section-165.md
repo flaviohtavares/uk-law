@@ -30,13 +30,13 @@ The expressions listed below are defined or otherwise fall to be construed for t
 | bridge | section 147(1)(a) |
 | bridge authority | section 147(1)(b) |
 | carriageway | section 164 |
-| the Commissioner[^key-4d1e427a043eeb5b95c10cc5bd476d94] | section 112A(1) |
+| the Commissioner[^c-4d1e427a043eeb5b95c10cc5bd476d94] | section 112A(1) |
 | costs | section 155 |
 | disability | (see section 164(4)) |
 | emergency works | section 111 |
 | enactment | section 164 |
 | expenses | section 155 |
-| fixed penalty offence[^key-1977b0ee5496899029cd2821a02cfa14] | section 154A(1) |
+| fixed penalty offence[^c-1977b0ee5496899029cd2821a02cfa14] | section 154A(1) |
 | footway | section 164 |
 | in (in a context referring to works, apparatus or other property in a road) | section 164 |
 | local roads authority | section 145(1) |
@@ -55,7 +55,7 @@ The expressions listed below are defined or otherwise fall to be construed for t
 | road works authority | section 108(1) |
 | roads authority | section 145(1) |
 | special enactment | section 164(1) |
-| the SRWR[^key-56b0cea15096769cd6250e93c47c70ac] | section 112A(1) |
+| the SRWR[^c-56b0cea15096769cd6250e93c47c70ac] | section 112A(1) |
 | statutory right | section 164(1) |
 | traffic | section 164(1) |
 | traffic authority | section 164(1) |
@@ -69,8 +69,8 @@ The expressions listed below are defined or otherwise fall to be construed for t
 
 ## Annotations
 
-[^key-4d1e427a043eeb5b95c10cc5bd476d94]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (29.2.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(7)(a)](https://www.legislation.gov.uk/asp/2005/12/section/19/7/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-4d1e427a043eeb5b95c10cc5bd476d94]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (29.2.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(7)(a)](https://www.legislation.gov.uk/asp/2005/12/section/19/7/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
 
-[^key-1977b0ee5496899029cd2821a02cfa14]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 34(2)](https://www.legislation.gov.uk/asp/2005/12/section/34/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-1977b0ee5496899029cd2821a02cfa14]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 34(2)](https://www.legislation.gov.uk/asp/2005/12/section/34/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
 
-[^key-56b0cea15096769cd6250e93c47c70ac]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (29.2.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(7)(b)](https://www.legislation.gov.uk/asp/2005/12/section/19/7/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-56b0cea15096769cd6250e93c47c70ac]: Textual amendment: Words in [s. 165](https://www.legislation.gov.uk/ukpga/1991/22/section/165) inserted (29.2.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 19(7)(b)](https://www.legislation.gov.uk/asp/2005/12/section/19/7/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

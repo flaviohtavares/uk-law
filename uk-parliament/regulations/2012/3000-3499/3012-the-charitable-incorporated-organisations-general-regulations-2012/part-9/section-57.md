@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Commission’s power to accept document not properly delivered[^key-5860d8b51da87b5d7b77ff261c385b09]
+## 57. Commission’s power to accept document not properly delivered[^c-5860d8b51da87b5d7b77ff261c385b09]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ a document or information that does not comply with the requirements for proper 
 
 ## Annotations
 
-[^key-5860d8b51da87b5d7b77ff261c385b09]: Commencement: Reg. 57 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-5860d8b51da87b5d7b77ff261c385b09]: Commencement: Reg. 57 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

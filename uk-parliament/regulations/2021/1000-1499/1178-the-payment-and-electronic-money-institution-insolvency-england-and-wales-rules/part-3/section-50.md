@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Suspension[^key-846b9ea69b33af859af0e761d22dcdff]
+## 50. Suspension[^c-846b9ea69b33af859af0e761d22dcdff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Once only in the course of a meeting, the chair may, without an adjournment, dec
 
 ## Annotations
 
-[^key-846b9ea69b33af859af0e761d22dcdff]: Commencement: Rule 50 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-846b9ea69b33af859af0e761d22dcdff]: Commencement: Rule 50 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

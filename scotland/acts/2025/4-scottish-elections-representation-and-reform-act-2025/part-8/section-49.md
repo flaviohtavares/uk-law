@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Further definitions relating to candidates, parties and elections[^key-577546752b24a57e74730e4fab856d71][^key-90f90a16e4d8c00a4dcc39f243ce13e4]
+## 49. Further definitions relating to candidates, parties and elections[^c-577546752b24a57e74730e4fab856d71][^c-90f90a16e4d8c00a4dcc39f243ce13e4]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ The following definitions have effect for the purposes of this Part—
 
 ## Annotations
 
-[^key-577546752b24a57e74730e4fab856d71]: Commencement: S. 49 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-577546752b24a57e74730e4fab856d71]: Commencement: S. 49 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-90f90a16e4d8c00a4dcc39f243ce13e4]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/4/section/49) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-90f90a16e4d8c00a4dcc39f243ce13e4]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/4/section/49) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

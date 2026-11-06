@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Co-ownership authorised contractual schemes[^key-406b517ebf2e435da51a80e1cc135968]
+## 36. Co-ownership authorised contractual schemes[^c-406b517ebf2e435da51a80e1cc135968]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) references to chargeable interests are references to such of the chargeable interests as, under the pooling arrangements, form part of the separate pool to which the sub-scheme relates, and
 - (b) references to the scheme documents are references to such parts of the documents as apply to the sub-scheme.
 
-(6)[^key-49fb6df464ebb45458ec336ccf49fb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-49fb6df464ebb45458ec336ccf49fb72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Subject to any regulations under subsection (8)—
 
@@ -56,18 +56,18 @@ summary: ''
 
 (12) In this section—
 
-- [^key-61f94299c453ecdef59eeb548c45f5aa]...
-- “**"operator”**” (“**"*gweithredwr***”") [^key-d86ff3e135184e2f988b70649bccbe5d]... in relation to a co-ownership authorised contractual scheme constituted under the law of the United Kingdom, has the meaning given by section 237(2) of the Financial Services and Markets Act 2000 (c. 8) [^key-804592eb17f11b826813b56aaf673106]... [^key-d86ff3e135184e2f988b70649bccbe5d]...
+- [^c-61f94299c453ecdef59eeb548c45f5aa]...
+- “**"operator”**” (“**"*gweithredwr***”") [^c-d86ff3e135184e2f988b70649bccbe5d]... in relation to a co-ownership authorised contractual scheme constituted under the law of the United Kingdom, has the meaning given by section 237(2) of the Financial Services and Markets Act 2000 (c. 8) [^c-804592eb17f11b826813b56aaf673106]... [^c-d86ff3e135184e2f988b70649bccbe5d]...
 - “**"participant”**” (“**"*cyfranogwr***”") is to be read in accordance with section 235 of the Financial Services and Markets Act 2000 (c. 8).
 
 ## Annotations
 
-[^key-406b517ebf2e435da51a80e1cc135968]: Commencement: S. 36 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-406b517ebf2e435da51a80e1cc135968]: Commencement: S. 36 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-49fb6df464ebb45458ec336ccf49fb72]: Textual amendment: S. 36(6) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/a) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-49fb6df464ebb45458ec336ccf49fb72]: Textual amendment: S. 36(6) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/a) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-61f94299c453ecdef59eeb548c45f5aa]: Textual amendment: Words in s. 36(12) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/1281/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61f94299c453ecdef59eeb548c45f5aa]: Textual amendment: Words in s. 36(12) omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/1281/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d86ff3e135184e2f988b70649bccbe5d]: Textual amendment: Words in s. 36(12) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/b/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d86ff3e135184e2f988b70649bccbe5d]: Textual amendment: Words in s. 36(12) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/b/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-804592eb17f11b826813b56aaf673106]: Textual amendment: Word in s. 36(12) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/b/i) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-804592eb17f11b826813b56aaf673106]: Textual amendment: Word in s. 36(12) omitted (31.12.2020) by virtue of [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/2/b/i) (with [reg. 6(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

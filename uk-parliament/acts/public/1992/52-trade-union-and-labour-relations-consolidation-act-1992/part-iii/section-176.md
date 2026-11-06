@@ -58,7 +58,7 @@ it shall make a declaration to that effect.
 
 [^c20413341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^c20413231] If on the date on which the application was made the applicant had not been admitted or re-admitted to the union, the award shall not be less than £13,986[^key-551246d3024ca4dcbe69a11637bc0387].
+(6A)[^c20413231] If on the date on which the application was made the applicant had not been admitted or re-admitted to the union, the award shall not be less than £13,986[^c-551246d3024ca4dcbe69a11637bc0387].
 
 (6B) Subsection (6A) does not apply in a case where the tribunal which made the declaration under subsection (1) also made declarations under subsections (1A) and (1B).
 
@@ -98,7 +98,7 @@ it shall make a declaration to that effect.
 
 [^c20413231]: Textual amendment: S. 176(6A)(6B) inserted (31.12.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 33(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/33/6), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [arts. 6-12](https://www.legislation.gov.uk/uksi/2004/3342/article/6))
 
-[^key-551246d3024ca4dcbe69a11637bc0387]: Textual amendment: Sum in s. 176(6A) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-551246d3024ca4dcbe69a11637bc0387]: Textual amendment: Sum in s. 176(6A) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c14518671]: Textual amendment: S. 176(7) repealed (17.12.1999 subject to [s. 36(3)](https://www.legislation.gov.uk/ukpga/1999/26/section/36/3) of the amending Act) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [ss. 36(1)(3)](https://www.legislation.gov.uk/ukpga/1999/26/section/36/1/3), [44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(10)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9); [S.I. 1999/3374](https://www.legislation.gov.uk/uksi/1999/3374), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/3374/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/1999/3374/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/3374/article/3))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. River basin management plans: submission for approval[^key-3a656aa9d20a5dac882c0025cfb116a7]
+## 12. River basin management plans: submission for approval[^c-3a656aa9d20a5dac882c0025cfb116a7]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a656aa9d20a5dac882c0025cfb116a7]: Commencement: S. 12 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/530/article/2/a)
+[^c-3a656aa9d20a5dac882c0025cfb116a7]: Commencement: S. 12 in force at 14.12.2007 by [S.S.I. 2007/530](https://www.legislation.gov.uk/ssi/2007/530), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/530/article/2/a)

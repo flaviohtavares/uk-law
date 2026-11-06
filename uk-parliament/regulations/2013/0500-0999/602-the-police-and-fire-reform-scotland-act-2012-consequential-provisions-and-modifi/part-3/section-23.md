@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Arrangements under articles 15, 16, 19 and 20: terms[^key-bf2b4117f18387a0b63ca700402ecbef]
+## 23. Arrangements under articles 15, 16, 19 and 20: terms[^c-bf2b4117f18387a0b63ca700402ecbef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Arrangements under articles 15, 16, 19 and 20 may include provision as to the te
 
 ## Annotations
 
-[^key-bf2b4117f18387a0b63ca700402ecbef]: Commencement: Art. 23 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-bf2b4117f18387a0b63ca700402ecbef]: Commencement: Art. 23 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

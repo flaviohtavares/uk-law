@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Voluntary winding-up[^key-bba0c66e00b8ff01a8b54d2772a5e33c]
+## 118. Voluntary winding-up[^c-bba0c66e00b8ff01a8b54d2772a5e33c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A resolution for voluntary winding up of a bank under section 84 of the Insolven
 
 ## Annotations
 
-[^key-bba0c66e00b8ff01a8b54d2772a5e33c]: Commencement: S. 118 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-bba0c66e00b8ff01a8b54d2772a5e33c]: Commencement: S. 118 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

@@ -204,7 +204,7 @@ Section 72.
 
 - (a) on or after the appointed day the accused is committed for trial for the offence,
 - (b) proceedings for the trial on the charge concerned are transferred to the Crown Court on or after the appointed day, or
-- (c) a bill of indictment relating to the offence is preferred on or after the appointed day under the authority of section 2(2)(b) or (ba)[^key-9dbcc9ec55496faf2ddad4d5d5f560fd] of the [^c11041031]Administration of Justice (Miscellaneous Provisions) Act 1933 (bill preferred by direction of Court of Appeal, or by direction or with consent of a judge).
+- (c) a bill of indictment relating to the offence is preferred on or after the appointed day under the authority of section 2(2)(b) or (ba)[^c-9dbcc9ec55496faf2ddad4d5d5f560fd] of the [^c11041031]Administration of Justice (Miscellaneous Provisions) Act 1933 (bill preferred by direction of Court of Appeal, or by direction or with consent of a judge).
 
 (2)[^c11041041] References in this paragraph to the appointed day are to such day as is appointed for the purposes of this Schedule by the Secretary of State by order.
 
@@ -220,7 +220,7 @@ Section 72.
 
 [^c11041021]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-9dbcc9ec55496faf2ddad4d5d5f560fd]: Textual amendment: Words in [Sch. 3 para. 8(1)(c)](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/8/1/c) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 37(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/37/5) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-9dbcc9ec55496faf2ddad4d5d5f560fd]: Textual amendment: Words in [Sch. 3 para. 8(1)(c)](https://www.legislation.gov.uk/ukpga/1996/25/schedule/3/paragraph/8/1/c) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 37(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/37/5) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
 [^c11041031]: Marginal citation: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36).
 

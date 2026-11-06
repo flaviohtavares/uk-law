@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Offence of abandoning a vehicle: fixed penalty notices[^key-2c1a703c7d6955547aacc67ed6ab6703][^key-ab2ff44017766f63e8e8ccbf3dd1170b]
+## 7. Offence of abandoning a vehicle: fixed penalty notices[^c-2c1a703c7d6955547aacc67ed6ab6703][^c-ab2ff44017766f63e8e8ccbf3dd1170b]
 
 *Extent: N.I.*
 
@@ -111,6 +111,6 @@ In the Pollution Control and Local Government (Northern Ireland) Order 1978, aft
 
 ## Annotations
 
-[^key-2c1a703c7d6955547aacc67ed6ab6703]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/23/section/7) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-2c1a703c7d6955547aacc67ed6ab6703]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/23/section/7) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-ab2ff44017766f63e8e8ccbf3dd1170b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/23/section/7) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ab2ff44017766f63e8e8ccbf3dd1170b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/23/section/7) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

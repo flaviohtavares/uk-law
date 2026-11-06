@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Power to request assistance etc from TRA[^key-1ccea64aa86281683ab4fbeed6995484]
+## 38A. Power to request assistance etc from TRA[^c-1ccea64aa86281683ab4fbeed6995484]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ccea64aa86281683ab4fbeed6995484]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/449/regulation/38A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/954/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-1ccea64aa86281683ab4fbeed6995484]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/449/regulation/38A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2023/954/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))

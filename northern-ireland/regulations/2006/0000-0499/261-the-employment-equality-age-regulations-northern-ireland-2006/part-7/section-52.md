@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Duty to consider working beyond retirement – transitional provisions[^key-1148205b3a42b51b7d07752f26fbe68b]
+## 52. Duty to consider working beyond retirement – transitional provisions[^c-1148205b3a42b51b7d07752f26fbe68b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6, which sets out transitional provisions in relation to the duty to co
 
 ## Annotations
 
-[^key-1148205b3a42b51b7d07752f26fbe68b]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/261/regulation/52) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-1148205b3a42b51b7d07752f26fbe68b]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/261/regulation/52) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

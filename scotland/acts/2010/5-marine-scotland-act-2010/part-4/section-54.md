@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Register of licensing information[^key-d44ba9639904a52450eeae47a2f21a61]
+## 54. Register of licensing information[^c-d44ba9639904a52450eeae47a2f21a61]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d44ba9639904a52450eeae47a2f21a61]: Commencement: S. 54 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-d44ba9639904a52450eeae47a2f21a61]: Commencement: S. 54 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

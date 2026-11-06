@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Appeals against decisions on eligibility for pension awards payable on the ground of permanent disablement[^key-9d07230b0f1744ee6acc8ec9657f17a7]
+## 66. Appeals against decisions on eligibility for pension awards payable on the ground of permanent disablement[^c-9d07230b0f1744ee6acc8ec9657f17a7]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d07230b0f1744ee6acc8ec9657f17a7]: Commencement: Reg. 66 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-9d07230b0f1744ee6acc8ec9657f17a7]: Commencement: Reg. 66 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

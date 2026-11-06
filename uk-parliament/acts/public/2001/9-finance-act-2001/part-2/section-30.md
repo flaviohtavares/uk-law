@@ -22,8 +22,8 @@ summary: ''
 
 (1) The Commissioners may, in accordance with the following provisions of this section, by regulations make provision in relation to cases where, after a charge to aggregates levy has arisen on any quantity of aggregate—
 
-- (a) any of that aggregate is exported from the United Kingdom , from a place in England, Wales or Northern Ireland,[^key-4d0e37d61c39d70baad30cc8e557d9e7] in the form of aggregate;
-- (aa)[^key-d8e2b4a802ceb92aa9c811027e5f52a5] any of that aggregate is moved to Scotland, or to the sea adjacent to Scotland, in the form of aggregate;
+- (a) any of that aggregate is exported from the United Kingdom , from a place in England, Wales or Northern Ireland,[^c-4d0e37d61c39d70baad30cc8e557d9e7] in the form of aggregate;
+- (aa)[^c-d8e2b4a802ceb92aa9c811027e5f52a5] any of that aggregate is moved to Scotland, or to the sea adjacent to Scotland, in the form of aggregate;
 - (b) an exempt process is applied to any of that aggregate;
 - (c) any of that aggregate is used in a prescribed industrial or agricultural process;
 - (d) any of that aggregate is disposed of (by dumping or otherwise) in such manner not constituting its use for construction purposes as may be prescribed; or
@@ -55,12 +55,12 @@ summary: ''
 
 (5) Regulations made under this section shall have effect subject to the provisions of section 32 below.
 
-(6)[^key-ab939f397a682886fb485582f119fba4] In subsection (1)(aa) the reference to the sea adjacent to Scotland is to so much of the territorial sea adjacent to the United Kingdom as is to be treated as adjacent to Scotland for the purposes of the Scotland Act 1998 (see section 126(2) of that Act).
+(6)[^c-ab939f397a682886fb485582f119fba4] In subsection (1)(aa) the reference to the sea adjacent to Scotland is to so much of the territorial sea adjacent to the United Kingdom as is to be treated as adjacent to Scotland for the purposes of the Scotland Act 1998 (see section 126(2) of that Act).
 
 ## Annotations
 
-[^key-4d0e37d61c39d70baad30cc8e557d9e7]: Textual amendment: Words in s. 30(1)(a) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/2/a); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-4d0e37d61c39d70baad30cc8e557d9e7]: Textual amendment: Words in s. 30(1)(a) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/2/a); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-d8e2b4a802ceb92aa9c811027e5f52a5]: Textual amendment: S. 30(1)(aa) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/2/b); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-d8e2b4a802ceb92aa9c811027e5f52a5]: Textual amendment: S. 30(1)(aa) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/2/b); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-ab939f397a682886fb485582f119fba4]: Textual amendment: S. 30(6) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/3); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-ab939f397a682886fb485582f119fba4]: Textual amendment: S. 30(6) inserted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/7/3); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)

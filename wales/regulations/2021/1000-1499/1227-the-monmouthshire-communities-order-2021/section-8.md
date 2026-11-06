@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Cantref and Llanwenarth Citra — change in community ward boundaries and consequential change to electoral wards[^key-18937dd6e72a73ffe06c868f361632df][^key-9da08d09b3223f237085388e8eeece4b]
+## 8. Cantref and Llanwenarth Citra — change in community ward boundaries and consequential change to electoral wards[^c-18937dd6e72a73ffe06c868f361632df][^c-9da08d09b3223f237085388e8eeece4b]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Cantref ward of the community of Abergavenny shown hatched on Ma
 
 ## Annotations
 
-[^key-18937dd6e72a73ffe06c868f361632df]: Commencement: Art. 8 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-18937dd6e72a73ffe06c868f361632df]: Commencement: Art. 8 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-9da08d09b3223f237085388e8eeece4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2021/1227/article/8) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-9da08d09b3223f237085388e8eeece4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2021/1227/article/8) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

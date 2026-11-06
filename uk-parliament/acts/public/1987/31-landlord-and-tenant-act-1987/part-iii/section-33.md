@@ -27,11 +27,11 @@ summary: ''
 
 (2) The terms as to payment referred to in subsection (1)(a) are terms requiring the payment into court of—
 
-- (a) such amount as a surveyor selected by the Senior President of Tribunals[^key-60208c0602cd481906bef82b9c3690d4] may certify to be in his opinion the amount which the landlord’s interest might be expected to realise if sold as mentioned in section 31(2); and
+- (a) such amount as a surveyor selected by the Senior President of Tribunals[^c-60208c0602cd481906bef82b9c3690d4] may certify to be in his opinion the amount which the landlord’s interest might be expected to realise if sold as mentioned in section 31(2); and
 - (b) any amounts or estimated amounts remaining due to the landlord from any tenants of his of any premises comprised in the premises in respect of which the order is made, being amounts or estimated amounts determined by the court as being due from those persons under the terms of their leases.
 
 (3) Where any amount or amounts required by virtue of subsection (2) to be paid into court are so paid, the landlord’s interest shall, by virtue of this section, vest in the nominated person in accordance with the order.
 
 ## Annotations
 
-[^key-60208c0602cd481906bef82b9c3690d4]: Textual amendment: Words in [s. 33(2)(a)](https://www.legislation.gov.uk/ukpga/1987/31/section/33/2/a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/183) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-60208c0602cd481906bef82b9c3690d4]: Textual amendment: Words in [s. 33(2)(a)](https://www.legislation.gov.uk/ukpga/1987/31/section/33/2/a) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/183) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

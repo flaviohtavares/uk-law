@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Section 169A (support of overseas regulator with respect to financial stability)[^key-bd4bb7ae4ee32d5f9b86efdd4eb0bf4f]
+## 47. Section 169A (support of overseas regulator with respect to financial stability)[^c-bd4bb7ae4ee32d5f9b86efdd4eb0bf4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 169A [^c23657791] (support of overseas regulator with respect to fina
 
 ## Annotations
 
-[^key-bd4bb7ae4ee32d5f9b86efdd4eb0bf4f]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bd4bb7ae4ee32d5f9b86efdd4eb0bf4f]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657791]: Marginal citation: Section 169A was inserted by sections 18(1) and (3) of the Financial Services Act 2010.

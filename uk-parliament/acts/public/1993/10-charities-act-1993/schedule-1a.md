@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — The Charity Commission[^key-c19229d866e13afe36d39b34d22ef788]
+## SCHEDULE 1A — The Charity Commission[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Section 1A
 
-### Membership[^key-c19229d866e13afe36d39b34d22ef788]
+### Membership[^c-c19229d866e13afe36d39b34d22ef788]
 
-**1.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Terms of appointment and remuneration[^key-c19229d866e13afe36d39b34d22ef788]
+### Terms of appointment and remuneration[^c-c19229d866e13afe36d39b34d22ef788]
 
-**2.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-c19229d866e13afe36d39b34d22ef788]
+### Staff[^c-c19229d866e13afe36d39b34d22ef788]
 
-**5.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-c19229d866e13afe36d39b34d22ef788]
+### Committees[^c-c19229d866e13afe36d39b34d22ef788]
 
-**6.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure etc.[^key-c19229d866e13afe36d39b34d22ef788]
+### Procedure etc.[^c-c19229d866e13afe36d39b34d22ef788]
 
-**7.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Performance of functions[^key-c19229d866e13afe36d39b34d22ef788]
+### Performance of functions[^c-c19229d866e13afe36d39b34d22ef788]
 
-**8.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Evidence[^key-c19229d866e13afe36d39b34d22ef788]
+### Evidence[^c-c19229d866e13afe36d39b34d22ef788]
 
-**9.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Execution of documents[^key-c19229d866e13afe36d39b34d22ef788]
+### Execution of documents[^c-c19229d866e13afe36d39b34d22ef788]
 
-**10.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Annual report[^key-c19229d866e13afe36d39b34d22ef788]
+### Annual report[^c-c19229d866e13afe36d39b34d22ef788]
 
-**11.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Annual public meeting[^key-c19229d866e13afe36d39b34d22ef788]
+### Annual public meeting[^c-c19229d866e13afe36d39b34d22ef788]
 
-**12.**[^key-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c19229d866e13afe36d39b34d22ef788] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

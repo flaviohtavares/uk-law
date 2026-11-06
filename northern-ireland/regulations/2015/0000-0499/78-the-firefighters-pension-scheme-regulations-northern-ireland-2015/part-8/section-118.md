@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to regulations 119 to 121 (contributions during absences) an active member of this scheme must pay contributions to the scheme in respect of a scheme employment at the contribution rate applicable to the annual pensionable pay that member is receiving in the pay period in which 1st April falls for that employment (or in the case of an active member whose membership commences after 1st April in any year, on the annual pensionable pay the member receives at the commencement of that membership).
 
-(2) The contribution rate applicable to a scheme employment beginning with 1st April 2015 and ending 30th April 2026[^key-2fbc688d88f7d1650b223ba3c4128acc] is as specified in the following table, with the contribution rate specified in the appropriate column for the year to be considered applicable to the band of pensionable pay specified in the first column into which the active member's annual pensionable pay, rounded down to the nearest whole pound, falls:
+(2) The contribution rate applicable to a scheme employment beginning with 1st April 2015 and ending 30th April 2026[^c-2fbc688d88f7d1650b223ba3c4128acc] is as specified in the following table, with the contribution rate specified in the appropriate column for the year to be considered applicable to the band of pensionable pay specified in the first column into which the active member's annual pensionable pay, rounded down to the nearest whole pound, falls:
 
 | *Pensionable pay range for an employment* | *Contribution rate 1st April 2015-31st March 2016* |
 | --- | --- |
@@ -52,7 +52,7 @@ summary: ''
 | £51,516 to £142,500 | 13.5% |
 | £142,501 or more | 14.5% |
 
-(2A)[^key-0a82434279f2edabb1b408e9ac4cc3d0] The contribution rate applicable to a scheme employment beginning with 1st May 2026 is as specified in the following table, with the contribution rate specified in the second column to be considered applicable to the band of pensionable pay specified in the first column into which the active member’s actual annual pensionable pay falls:
+(2A)[^c-0a82434279f2edabb1b408e9ac4cc3d0] The contribution rate applicable to a scheme employment beginning with 1st May 2026 is as specified in the following table, with the contribution rate specified in the second column to be considered applicable to the band of pensionable pay specified in the first column into which the active member’s actual annual pensionable pay falls:
 
 | Pensionable pay range for an employment | Contribution rate beginning with 1st May 2026 |
 | --- | --- |
@@ -62,17 +62,17 @@ summary: ''
 | £66,909.00 to £190,691.99 | 16.21% |
 | £190,692.00 or more | 17.71% |
 
-(3)[^key-c4788f2f81e7924b9c69409a6be2d5d1] The amount of pensionable pay of a retained or volunteer firefighter—
+(3)[^c-c4788f2f81e7924b9c69409a6be2d5d1] The amount of pensionable pay of a retained or volunteer firefighter—
 
 - (i) for the purpose of the first column of the table in paragraph (2) must be that firefighter’s reference pay for the period beginning with 1st April 2015 to 30th April 2026;
 - (ii) for the purpose of the first column of the table in paragraph (2A) must be that firefighter’s actual annual pensionable pay beginning with 1st May 2026.
 
-(4)[^key-187260f904e0769e51e20e8efd4fff1f] The amount of pensionable pay of a part-time regular firefighter—
+(4)[^c-187260f904e0769e51e20e8efd4fff1f] The amount of pensionable pay of a part-time regular firefighter—
 
 - (i) for the purpose of the first column of the table in paragraph (2) must be the amount of pensionable pay of a whole-time regular firefighter of equivalent role and length of service for the period beginning with 1st April 2015 to 30th April 2026;
 - (ii) for the purpose of the first column of the table in paragraph (2A) must be that firefighter’s actual annual pensionable pay beginning with 1st May 2026.
 
-(4A)[^key-f26d79ecebb7aa88b0e638716df9e60e] The figures in the first column of the table in paragraph (2A) are to be increased at the beginning of each scheme year starting with the scheme year 2027/28, if there is a relevant increase in the consumer prices index or, should the Department decide, any other index of the general level of prices in the United Kingdom, by the appropriate percentage for the scheme year rounded up to the nearest £1.
+(4A)[^c-f26d79ecebb7aa88b0e638716df9e60e] The figures in the first column of the table in paragraph (2A) are to be increased at the beginning of each scheme year starting with the scheme year 2027/28, if there is a relevant increase in the consumer prices index or, should the Department decide, any other index of the general level of prices in the United Kingdom, by the appropriate percentage for the scheme year rounded up to the nearest £1.
 
 (4B) For the purposes of paragraph (4A)—
 
@@ -100,12 +100,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbc688d88f7d1650b223ba3c4128acc]: Textual amendment: Words in [reg. 118(2)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/2) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/a)
+[^c-2fbc688d88f7d1650b223ba3c4128acc]: Textual amendment: Words in [reg. 118(2)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/2) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/a)
 
-[^key-0a82434279f2edabb1b408e9ac4cc3d0]: Textual amendment: [Reg. 118(2A)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/2A) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/b)
+[^c-0a82434279f2edabb1b408e9ac4cc3d0]: Textual amendment: [Reg. 118(2A)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/2A) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/b)
 
-[^key-c4788f2f81e7924b9c69409a6be2d5d1]: Textual amendment: [Reg. 118(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/3) substituted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/c)
+[^c-c4788f2f81e7924b9c69409a6be2d5d1]: Textual amendment: [Reg. 118(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/3) substituted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/c)
 
-[^key-187260f904e0769e51e20e8efd4fff1f]: Textual amendment: [Reg. 118(4)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4) substituted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/d)
+[^c-187260f904e0769e51e20e8efd4fff1f]: Textual amendment: [Reg. 118(4)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4) substituted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/d)
 
-[^key-f26d79ecebb7aa88b0e638716df9e60e]: Textual amendment: [Reg. 118(4A)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4A)[(4B)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4B) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/e)
+[^c-f26d79ecebb7aa88b0e638716df9e60e]: Textual amendment: [Reg. 118(4A)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4A)[(4B)](https://www.legislation.gov.uk/nisr/2015/78/regulation/118/4B) inserted (1.5.2026) by [The Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/73)](https://www.legislation.gov.uk/nisr/2026/73), [regs. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2026/73/regulation/2/2/e)

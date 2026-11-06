@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Further entitlement after time-limiting[^key-58359154d9dd57ee22658ea01cee430a]
+## 52. Further entitlement after time-limiting[^c-58359154d9dd57ee22658ea01cee430a]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58359154d9dd57ee22658ea01cee430a]: Commencement: S. 52 in force at 1.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/b)
+[^c-58359154d9dd57ee22658ea01cee430a]: Commencement: S. 52 in force at 1.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/b)

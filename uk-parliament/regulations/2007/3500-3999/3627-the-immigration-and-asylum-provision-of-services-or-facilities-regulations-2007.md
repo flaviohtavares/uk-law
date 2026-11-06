@@ -46,23 +46,23 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 4(10) and (11) of the Immigration and Asylum Act 1999[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-7af963ad5ccdfa09d04624d127d0085b]
+## 1. Citation and commencement[^c-7af963ad5ccdfa09d04624d127d0085b]
 
 These Regulations may be cited as the Immigration and Asylum (Provision of Services or Facilities) Regulations 2007 and shall come into force on 31<sup>st</sup> January 2008.
 
-## 2. Interpretation[^key-4a48c58775aa79c746ba5dd14452145f]
+## 2. Interpretation[^c-4a48c58775aa79c746ba5dd14452145f]
 
 In these Regulations—
 
 - “**the 1999 Act**” means the Immigration and Asylum Act 1999;
-- “**ante-natal eligible period**” means the period from eleven weeks[^key-6e8df3b8e5a3e07fd82f3229daa30d22] before the expected date of birth to the date of birth;
+- “**ante-natal eligible period**” means the period from eleven weeks[^c-6e8df3b8e5a3e07fd82f3229daa30d22] before the expected date of birth to the date of birth;
 - “**child**” means an individual who is less than 18 years old;
 - “**destitute**” is to be construed in accordance with section 95(3) of the 1999 Act[^f00002];
 - “**full birth certificate**” means a birth certificate issued in the United Kingdom, which specifies the names of the child’s parents;
 - “**immigration officer**” means a person appointed as an immigration officer under paragraph 1(1) of Schedule 2 to the Immigration Act 1971[^f00003];
-- “**maternity payment**” means a payment [^key-2b03caa6a5dca292a2ccf352b47103ac]... made by the Secretary of State to a person supported under section 95[^f00004] or section 98 of the 1999 Act to help with the costs arising from the birth of a child;
+- “**maternity payment**” means a payment [^c-2b03caa6a5dca292a2ccf352b47103ac]... made by the Secretary of State to a person supported under section 95[^f00004] or section 98 of the 1999 Act to help with the costs arising from the birth of a child;
 - “**mother**” means a woman who is a supported person and who has provided evidence to satisfy the Secretary of State that she has given birth to a child;
-- “**post-natal eligible period**” means the period from the date of the birth to six months[^key-7871200aba0b04b55397990a50056e0e] after the birth;
+- “**post-natal eligible period**” means the period from the date of the birth to six months[^c-7871200aba0b04b55397990a50056e0e] after the birth;
 - “**pregnant woman**” means a woman who is a supported person who has provided evidence to satisfy the Secretary of State that she is pregnant;
 - “**provider**” means a person providing facilities for the accommodation of persons by arrangement with the Secretary of State under section 4 of the 1999 Act[^f00005];
 - “**qualified person**” has the same meaning as in section 84(2) of the 1999 Act[^f00006];
@@ -77,7 +77,7 @@ In these Regulations—
 - “**supported person**” means a person who is being provided with accommodation under section 4 of the 1999 Act and who is destitute; and
 - “**voluntary sector partner**” means an organisation funded by the Secretary of State to deliver aspects of asylum support services.
 
-## 3. Travel[^key-ddae55d23be6796e336e9b4b1a12d18b]
+## 3. Travel[^c-ddae55d23be6796e336e9b4b1a12d18b]
 
 (1) The Secretary of State may supply, or arrange for the supply of, facilities for travel for a qualifying journey to a supported person to—
 
@@ -93,11 +93,11 @@ In these Regulations—
 
 (3) The Secretary of State may only supply, or arrange for the supply of, facilities for travel under paragraph (2) to persons who are supported persons.
 
-## 4. Birth certificates[^key-b2744ad2d3e504a925ffea6c06612a47]
+## 4. Birth certificates[^c-b2744ad2d3e504a925ffea6c06612a47]
 
 The Secretary of State may arrange for the provision to a supported person of his child’s full birth certificate.
 
-## 5. Telephone calls and letters[^key-fc2dfcf0609d9c556d26adbf402d3bf0]
+## 5. Telephone calls and letters[^c-fc2dfcf0609d9c556d26adbf402d3bf0]
 
 (1) The Secretary of State may supply, or arrange for the supply of, facilities to make telephone calls—
 
@@ -125,27 +125,27 @@ to a supported person aged 18 or over.
 
 to a supported person aged 18 or over.
 
-## 6. One-off supply of vouchers for pregnant women and new mothers[^key-b0afe79842acd331b2bd3a5afa10543d]
+## 6. One-off supply of vouchers for pregnant women and new mothers[^c-b0afe79842acd331b2bd3a5afa10543d]
 
-(1) During the ante-natal eligible period, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods to the value of £300[^key-ed387a860a5b96b53f652eeb9e4b5540] in respect of each expected child to a pregnant woman.
+(1) During the ante-natal eligible period, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods to the value of £300[^c-ed387a860a5b96b53f652eeb9e4b5540] in respect of each expected child to a pregnant woman.
 
 (2) In a case where such support has not been provided under paragraph (1), during the post-natal eligible period, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods to the value of £300 in respect of each new born child to a mother.
 
 (3) Paragraphs (1) and (2) shall not apply if a maternity payment has been made in respect of the child in question.
 
-## 7. Additional weekly vouchers for pregnant women and children under four[^key-a26ff6bc6248a36682b07d93ddd95ed3][^key-6de5ccf12a467a49cf3ebbcf4a9904b4]
+## 7. Additional weekly vouchers for pregnant women and children under four[^c-a26ff6bc6248a36682b07d93ddd95ed3][^c-6de5ccf12a467a49cf3ebbcf4a9904b4]
 
-(1) For the duration of the pregnancy, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £5.25[^key-8e77c81ab031e25496ada662b24276f5] per week to a pregnant woman.
+(1) For the duration of the pregnancy, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £5.25[^c-8e77c81ab031e25496ada662b24276f5] per week to a pregnant woman.
 
-(2) Until the first birthday of a child who is a supported person, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £9.50[^key-4b11c573cfff48105b25188df08e3bae] per week to him.
+(2) Until the first birthday of a child who is a supported person, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £9.50[^c-4b11c573cfff48105b25188df08e3bae] per week to him.
 
-(3) From the day after the first birthday of a child who is a supported person, until the fourth birthday[^key-a69adb2668ac847cc47cdf0c6761a622], on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £5.25[^key-97c1a10306e3834e5d02f4a8e3d307a7] per week to him.
+(3) From the day after the first birthday of a child who is a supported person, until the fourth birthday[^c-a69adb2668ac847cc47cdf0c6761a622], on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for goods or services to the value of £5.25[^c-97c1a10306e3834e5d02f4a8e3d307a7] per week to him.
 
-## 8. Additional weekly vouchers for clothing for children[^key-1d9d45904b6e447c7d27030c99000103]
+## 8. Additional weekly vouchers for clothing for children[^c-1d9d45904b6e447c7d27030c99000103]
 
 Until the sixteenth birthday of a child who is a supported person, on application, the Secretary of State may supply, or arrange for the supply of, vouchers redeemable for clothing to the value of £5 per week to him.
 
-## 9. Exceptional specific needs[^key-02fecac9480512e22e1399d91e7af200]
+## 9. Exceptional specific needs[^c-02fecac9480512e22e1399d91e7af200]
 
 (1) If the Secretary of State is satisfied that a supported person has an exceptional need for:
 
@@ -190,48 +190,48 @@ Regulation 9 provides that if the Secretary of State is satisfied that a person 
 
 [^f00001]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33). Section 4(10) was inserted by section 43(7) of the Immigration, Asylum and Nationality Act [2006 (c.13)](https://www.legislation.gov.uk/ukpga/2006/13).
 
-[^key-7af963ad5ccdfa09d04624d127d0085b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-7af963ad5ccdfa09d04624d127d0085b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-4a48c58775aa79c746ba5dd14452145f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-4a48c58775aa79c746ba5dd14452145f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-6e8df3b8e5a3e07fd82f3229daa30d22]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/a)
+[^c-6e8df3b8e5a3e07fd82f3229daa30d22]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/a)
 
 [^f00002]: Footnote: Section 95(3) is substituted by section 95(2) and (3) of the 1999 Act, inserted by section 44(6) of the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41) which is not yet in force.
 
 [^f00003]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-2b03caa6a5dca292a2ccf352b47103ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) omitted (15.1.2024) by virtue of [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/b)
+[^c-2b03caa6a5dca292a2ccf352b47103ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) omitted (15.1.2024) by virtue of [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/b)
 
 [^f00004]: Footnote: Section 95(2) to (8) is substituted by section 95(2) to (7) of the 1999 Act, inserted by section 44(6) of the Nationality, Immigration and Asylum Act 2002 which is not yet in force. Section 95(9A) was inserted by section 50(1) of the Nationality, Immigration and Asylum Act 2002.
 
-[^key-7871200aba0b04b55397990a50056e0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/c)
+[^c-7871200aba0b04b55397990a50056e0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3627/regulation/2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/2/c)
 
 [^f00005]: Footnote: Section 4(2) to (4) were added by section 49(1) of the Nationality, Immigration and Asylum Act 2002. Section 4(5) to (9) were added by section 10(1) of the Asylum and Immigration (Treatment of Claimants, etc) Act [2004 (c.19)](https://www.legislation.gov.uk/ukpga/2004/19). Section 4(10) and (11) were added by section 43(7) of the Immigration, Asylum and Nationality Ac t 2006.
 
 [^f00006]: Footnote: Section 84(2) is substituted by section 84(2), inserted by section 37(1) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004.
 
-[^key-ddae55d23be6796e336e9b4b1a12d18b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3627/regulation/3) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-ddae55d23be6796e336e9b4b1a12d18b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3627/regulation/3) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-b2744ad2d3e504a925ffea6c06612a47]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3627/regulation/4) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-b2744ad2d3e504a925ffea6c06612a47]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3627/regulation/4) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-fc2dfcf0609d9c556d26adbf402d3bf0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3627/regulation/5) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-fc2dfcf0609d9c556d26adbf402d3bf0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3627/regulation/5) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-b0afe79842acd331b2bd3a5afa10543d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3627/regulation/6) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-b0afe79842acd331b2bd3a5afa10543d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3627/regulation/6) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-ed387a860a5b96b53f652eeb9e4b5540]: Textual amendment: Sum in reg. 6 substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/3)
+[^c-ed387a860a5b96b53f652eeb9e4b5540]: Textual amendment: Sum in reg. 6 substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/3)
 
-[^key-a26ff6bc6248a36682b07d93ddd95ed3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-a26ff6bc6248a36682b07d93ddd95ed3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-6de5ccf12a467a49cf3ebbcf4a9904b4]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7) heading substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/a)
+[^c-6de5ccf12a467a49cf3ebbcf4a9904b4]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7) heading substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/a)
 
-[^key-8e77c81ab031e25496ada662b24276f5]: Textual amendment: Sum in reg. 7(1) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/b)
+[^c-8e77c81ab031e25496ada662b24276f5]: Textual amendment: Sum in reg. 7(1) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/b)
 
-[^key-4b11c573cfff48105b25188df08e3bae]: Textual amendment: Sum in reg. 7(2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/c)
+[^c-4b11c573cfff48105b25188df08e3bae]: Textual amendment: Sum in reg. 7(2) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/c)
 
-[^key-a69adb2668ac847cc47cdf0c6761a622]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7/3) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/d/i)
+[^c-a69adb2668ac847cc47cdf0c6761a622]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2007/3627/regulation/7/3) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/d/i)
 
-[^key-97c1a10306e3834e5d02f4a8e3d307a7]: Textual amendment: Sum in reg. 7(3) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/d/ii)
+[^c-97c1a10306e3834e5d02f4a8e3d307a7]: Textual amendment: Sum in reg. 7(3) substituted (15.1.2024) by [The Immigration and Asylum (Provision of Services or Facilities) (Amendment) Regulations 2023 (S.I. 2023/1373)](https://www.legislation.gov.uk/uksi/2023/1373), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/1/2), [2(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1373/regulation/2/4/d/ii)
 
-[^key-1d9d45904b6e447c7d27030c99000103]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3627/regulation/8) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-1d9d45904b6e447c7d27030c99000103]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3627/regulation/8) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
 
-[^key-02fecac9480512e22e1399d91e7af200]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3627/regulation/9) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)
+[^c-02fecac9480512e22e1399d91e7af200]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3627/regulation/9) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3627/regulation/1)

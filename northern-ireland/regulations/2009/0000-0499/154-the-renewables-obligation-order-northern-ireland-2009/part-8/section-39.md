@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Interpretation[^key-dd0a5f8a9924f37a07d96ae91fed09a1]
+## 39. Interpretation[^c-dd0a5f8a9924f37a07d96ae91fed09a1]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0a5f8a9924f37a07d96ae91fed09a1]: Commencement: Art. 39 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-dd0a5f8a9924f37a07d96ae91fed09a1]: Commencement: Art. 39 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

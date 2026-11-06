@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Article 4 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^key-7269e57b05754c3798bbee2aed747aba]
+## 142. Article 4 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^c-7269e57b05754c3798bbee2aed747aba]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7269e57b05754c3798bbee2aed747aba]: Commencement: Reg. 142 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7269e57b05754c3798bbee2aed747aba]: Commencement: Reg. 142 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

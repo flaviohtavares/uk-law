@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Decision as to treatment for which fees may be charged by doctors (regulation 17 of the Disciplinary Procedures Regulations)[^key-9aeffe712f6dd6fde90c1c83a0a2b3c5]
+## 83. Decision as to treatment for which fees may be charged by doctors (regulation 17 of the Disciplinary Procedures Regulations)[^c-9aeffe712f6dd6fde90c1c83a0a2b3c5]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ that referral shall be determined in accordance with regulation 17 and Schedule 
 
 ## Annotations
 
-[^key-9aeffe712f6dd6fde90c1c83a0a2b3c5]: Commencement: Art. 83 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-9aeffe712f6dd6fde90c1c83a0a2b3c5]: Commencement: Art. 83 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

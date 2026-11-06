@@ -75,7 +75,7 @@ by reason of it being known or reasonably suspected that the claimant is infecte
 
 ### Disabled and over the age for state pension credit
 
-**6.** The claimant has reached the qualifying age for state pension credit and is entitled to disability living allowance , Scottish adult disability living allowance[^key-e6865a739e781cf36d6e73819c02b1db] , personal independence payment or adult disability payment[^key-490fc2519ccd75d881f6a543344e268a] .
+**6.** The claimant has reached the qualifying age for state pension credit and is entitled to disability living allowance , Scottish adult disability living allowance[^c-e6865a739e781cf36d6e73819c02b1db] , personal independence payment or adult disability payment[^c-490fc2519ccd75d881f6a543344e268a] .
 
 ## Annotations
 
@@ -83,6 +83,6 @@ by reason of it being known or reasonably suspected that the claimant is infecte
 
 [^c22824951]: Marginal citation: Section 2A(1A) was inserted by section 1(3) of the [Public Health (Amendment) Act (Northern Ireland) 2008 (c.5)](https://www.legislation.gov.uk/nia/2008/5)
 
-[^key-e6865a739e781cf36d6e73819c02b1db]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/nisr/2016/216/schedule/8/paragraph/6) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(9)](https://www.legislation.gov.uk/uksi/2025/227/article/32/9)
+[^c-e6865a739e781cf36d6e73819c02b1db]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/nisr/2016/216/schedule/8/paragraph/6) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [32(9)](https://www.legislation.gov.uk/uksi/2025/227/article/32/9)
 
-[^key-490fc2519ccd75d881f6a543344e268a]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/nisr/2016/216/schedule/8/paragraph/6) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(9)](https://www.legislation.gov.uk/uksi/2022/177/article/28/9)
+[^c-490fc2519ccd75d881f6a543344e268a]: Textual amendment: Words in [Sch. 8 para. 6](https://www.legislation.gov.uk/nisr/2016/216/schedule/8/paragraph/6) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [28(9)](https://www.legislation.gov.uk/uksi/2022/177/article/28/9)

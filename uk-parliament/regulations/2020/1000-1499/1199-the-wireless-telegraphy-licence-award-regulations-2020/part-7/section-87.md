@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Valid partial adjacency agreement[^key-7a81acfc71dd1f8730156129c0b0618c]
+## 87. Valid partial adjacency agreement[^c-7a81acfc71dd1f8730156129c0b0618c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ There is a valid partial adjacency agreement if—
 
 ## Annotations
 
-[^key-7a81acfc71dd1f8730156129c0b0618c]: Commencement: Reg. 87 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-7a81acfc71dd1f8730156129c0b0618c]: Commencement: Reg. 87 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

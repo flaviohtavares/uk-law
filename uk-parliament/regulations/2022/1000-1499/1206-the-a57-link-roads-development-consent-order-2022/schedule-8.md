@@ -22,7 +22,7 @@ summary: ''
 
 Articles 36 and 38
 
-### PART 1 — HEDGEROWS[^key-672e182dfc24340246551c08400d439a]
+### PART 1 — HEDGEROWS[^c-672e182dfc24340246551c08400d439a]
 
 | *(1)*<br>*Hedgerow* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* | *(4)*<br>*Important Hedgerow* |
 | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ Articles 36 and 38
 | H47 – Line of Trees – 146 metres | Partial removal | Work No. 56 | No |
 | H48 – Hedgerow Species Poor – 29 metres | Partial removal | Work No. 35 | No |
 
-### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-346b4886b57e75662f72e424b0105b5a]
+### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-346b4886b57e75662f72e424b0105b5a]
 
 | *(1)*<br>*Type of tree* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* | *(4)*<br>*Tree Preservation Order (TPO) reference* |
 | --- | --- | --- | --- |
@@ -65,6 +65,6 @@ Articles 36 and 38
 
 ## Annotations
 
-[^key-672e182dfc24340246551c08400d439a]: Commencement: Sch. 8 Pt. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-672e182dfc24340246551c08400d439a]: Commencement: Sch. 8 Pt. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-346b4886b57e75662f72e424b0105b5a]: Commencement: Sch. 8 Pt. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-346b4886b57e75662f72e424b0105b5a]: Commencement: Sch. 8 Pt. 2 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

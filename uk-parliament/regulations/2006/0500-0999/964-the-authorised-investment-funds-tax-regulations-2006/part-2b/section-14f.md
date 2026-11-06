@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14F. Meaning of “investment transaction”[^key-7a6488db0f068cfcc321df0038f03471][^key-8d979ec81511d10ef646d41c77bb88d0]
+## 14F. Meaning of “investment transaction”[^c-7a6488db0f068cfcc321df0038f03471][^c-8d979ec81511d10ef646d41c77bb88d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a6488db0f068cfcc321df0038f03471]: Textual amendment: Regs. 14F-14N omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2014/685/regulation/7/3)
+[^c-7a6488db0f068cfcc321df0038f03471]: Textual amendment: Regs. 14F-14N omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2014/685/regulation/7/3)
 
-[^key-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)
+[^c-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)

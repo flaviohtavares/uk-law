@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.9. Powers of Court of Appeal judge[^key-9204b8f6a01b15c559a562abcbf97da0]
+## 38.9. Powers of Court of Appeal judge[^c-9204b8f6a01b15c559a562abcbf97da0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ as well as exercising the powers given by other legislation (including these Rul
 
 ## Annotations
 
-[^key-9204b8f6a01b15c559a562abcbf97da0]: Commencement: [Rule 38.9](https://www.legislation.gov.uk/uksi/2025/909/rule/38.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9204b8f6a01b15c559a562abcbf97da0]: Commencement: [Rule 38.9](https://www.legislation.gov.uk/uksi/2025/909/rule/38.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

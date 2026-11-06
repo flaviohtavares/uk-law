@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357YN. Migration of company with claim to restitution interest[^key-9a04ada177c581939694de8061a99242]
+## 357YN. Migration of company with claim to restitution interest[^c-9a04ada177c581939694de8061a99242]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)
+[^c-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)

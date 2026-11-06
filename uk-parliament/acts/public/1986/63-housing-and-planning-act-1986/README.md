@@ -33,7 +33,7 @@ An Act to make further provision with respect to housing, planning and local inq
 
 \[7th November, 1986\]
 
-[^c11871611]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-4f4b6e2e022c6e1f9b1e7c743c77a477]
+[^c11871611]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-4f4b6e2e022c6e1f9b1e7c743c77a477]
 
 ## Contents
 
@@ -183,6 +183,6 @@ SCHEDULES
 
 [^c11871611]: Extent: For extent see [s. 58(1)(2)(3)](https://www.legislation.gov.uk/ukpga/1986/63/section/58/1/2/3).
 
-[^key-4f4b6e2e022c6e1f9b1e7c743c77a477]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/63) modified (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 7](https://www.legislation.gov.uk/uksi/2008/3002/article/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
+[^c-4f4b6e2e022c6e1f9b1e7c743c77a477]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/63) modified (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 7](https://www.legislation.gov.uk/uksi/2008/3002/article/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
 
 [^c11872121]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/ukpga/1986/63/part/III) (ss. 27-29) repealed (24.9.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [ss. 147](https://www.legislation.gov.uk/ukpga/1996/53/section/147), [150(2)](https://www.legislation.gov.uk/ukpga/1996/53/section/150/2), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1996/53/schedule/3/part/III)

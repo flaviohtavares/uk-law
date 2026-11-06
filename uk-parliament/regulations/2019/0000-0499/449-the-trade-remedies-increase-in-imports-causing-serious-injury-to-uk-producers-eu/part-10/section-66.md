@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Further modifications to Part 6[^key-ed4ae739019ea6c69fec38b0a6cfb371]
+## 66. Further modifications to Part 6[^c-ed4ae739019ea6c69fec38b0a6cfb371]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 34 (mid-term review) has effect as if—
 
 ## Annotations
 
-[^key-ed4ae739019ea6c69fec38b0a6cfb371]: Commencement: Reg. 66 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-ed4ae739019ea6c69fec38b0a6cfb371]: Commencement: Reg. 66 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30G. Prohibition of certain discharges by notice or regulations.[^key-c629c5833fc26e35354165601012c938]
+## 30G. Prohibition of certain discharges by notice or regulations.[^c-c629c5833fc26e35354165601012c938]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c629c5833fc26e35354165601012c938]: Textual amendment: Ss. 30F-31A repealed (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-c629c5833fc26e35354165601012c938]: Textual amendment: Ss. 30F-31A repealed (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

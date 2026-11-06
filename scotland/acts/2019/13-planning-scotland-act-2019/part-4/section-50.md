@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Chief planning officers[^key-8b810a08dd12f5c236bdb72454fea9a7]
+## 50. Chief planning officers[^c-8b810a08dd12f5c236bdb72454fea9a7]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b810a08dd12f5c236bdb72454fea9a7]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2019/13/section/50) in force at 1.4.2024 by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/d)
+[^c-8b810a08dd12f5c236bdb72454fea9a7]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2019/13/section/50) in force at 1.4.2024 by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/d)

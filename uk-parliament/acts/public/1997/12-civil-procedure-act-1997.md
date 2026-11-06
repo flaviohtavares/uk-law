@@ -42,14 +42,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (1) There are to be rules of court (to be called “**Civil Procedure Rules**”) governing the practice and procedure to be followed in—
 
 - (a) the civil division of the Court of Appeal,
-- (b) the High Court except in relation to its jurisdiction under the Extradition Act 2003[^key-9cedaf520342cd575d7f90c5e1c30207] , and
-- (c) the county court[^key-28555bfee86f1e66a612864887909c0e] .
+- (b) the High Court except in relation to its jurisdiction under the Extradition Act 2003[^c-9cedaf520342cd575d7f90c5e1c30207] , and
+- (c) the county court[^c-28555bfee86f1e66a612864887909c0e] .
 
 (2) Schedule 1 (which makes further provision about the extent of the power to make Civil Procedure Rules) is to have effect.
 
 (3) The power to make Civil Procedure Rules is to be exercised with a view to securing that the civil justice system is accessible, fair and efficient.
 
-(4)[^key-97d478ac484e7c875dff3accab67eb80] Civil Procedure Rules must be framed so as not to apply to proceedings that are governed by Online Procedure Rules except to such extent as may be provided by—
+(4)[^c-97d478ac484e7c875dff3accab67eb80] Civil Procedure Rules must be framed so as not to apply to proceedings that are governed by Online Procedure Rules except to such extent as may be provided by—
 
 - (a) Online Procedure Rules,
 - (b) directions under paragraph 1 of Schedule 3 to the Judicial Review and Courts Act 2022, or
@@ -72,9 +72,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a)[^c20809451] either two or three judges of the Senior Courts[^c20810971],
 - (b) one Circuit judge,
 - (c)[^c20809461] either one or two district judges
-- (ca)[^key-97954968ac6458c549421f9d02432dd8] one person who is a judge of the Senior Courts, a Circuit judge or a district judge and who has particular experience of the law applicable in Wales,
+- (ca)[^c-97954968ac6458c549421f9d02432dd8] one person who is a judge of the Senior Courts, a Circuit judge or a district judge and who has particular experience of the law applicable in Wales,
 - (d) one person who is a Master referred to in Part II of Schedule 2 to the [^c20809471]Senior Courts Act 1981[^c20810961],
-- (e) three persons who have a Senior Courts qualification (within the meaning of section 71 of the [^c20809481]Courts and Legal Services Act 1990), including at least one with particular experience of practice in the county court[^key-0b4cd3db47e51c92faabf5b5c8a91512] ,
+- (e) three persons who have a Senior Courts qualification (within the meaning of section 71 of the [^c20809481]Courts and Legal Services Act 1990), including at least one with particular experience of practice in the county court[^c-0b4cd3db47e51c92faabf5b5c8a91512] ,
 - (f) three persons who have been authorised by a relevant approved regulator[^c20812481] to conduct litigation in relation to all proceedings in the Senior Courts, including at least one with particular experience of practice in the county court , and[^c20809491]
 - (g) two persons with experience in and knowledge of the lay advice sector or consumer affairs.
 
@@ -129,7 +129,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) come into force on such day as the Lord Chancellor may direct, and
 - (b) be contained in a statutory instrument to which the [^c8630821]Statutory Instruments Act 1946 is to apply as if it contained rules made by a Minister of the Crown.
 
-(2)[^c20794131][^M_C_7dd32213-7191-44a6-e789-0431c9d603af][^c20806781][^M_C_c20a76fc-544a-4a54-96bd-13f92af512d9][^M_C_f2f1a855-7b11-4925-a098-aaca4c22ceed][^M_C_5b6cf364-79c5-4a96-8dba-9086b095688e][^key-89cd3af24ee41a48f92e403163bd6ad1][^key-3990928cf82b6a907782712ff2c73ceb] A statutory instrument containing Civil Procedure Rules shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2)[^c20794131][^M_C_7dd32213-7191-44a6-e789-0431c9d603af][^c20806781][^M_C_c20a76fc-544a-4a54-96bd-13f92af512d9][^M_C_f2f1a855-7b11-4925-a098-aaca4c22ceed][^M_C_5b6cf364-79c5-4a96-8dba-9086b095688e][^c-89cd3af24ee41a48f92e403163bd6ad1][^c-3990928cf82b6a907782712ff2c73ceb] A statutory instrument containing Civil Procedure Rules shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ### 3A. Rules to be made if required by Lord Chancellor[^c20796011]
 
@@ -186,7 +186,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) after consulting the Lord Chancellor, and
 - (b) with the approval of the Lord Chief Justice.
 
-(7)[^key-1fceac792cc75cb44a2fbca6bf4a8ea1] Practice directions under this section do not apply to proceedings that are governed by Online Procedure Rules except—
+(7)[^c-1fceac792cc75cb44a2fbca6bf4a8ea1] Practice directions under this section do not apply to proceedings that are governed by Online Procedure Rules except—
 
 - (a) to such extent as may be provided by—
   - (i) Online Procedure Rules, or
@@ -311,20 +311,20 @@ Section 1.
 
 ### Exercise of jurisdiction
 
-**2.**[^key-9723efca4900dd8486e971ef9c64382d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9723efca4900dd8486e971ef9c64382d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Removal of proceedings
 
 **3.** (1) Civil Procedure Rules may provide for the removal of proceedings at any stage—
 
 - (a) within the High Court (for example, between different divisions or different district registries), or
-- (b) within the county court[^key-bde51a83a1c353532871cd77d4bd45eb] .
+- (b) within the county court[^c-bde51a83a1c353532871cd77d4bd45eb] .
 
 (2) In sub-paragraph (1)—
 
 - (a) “**provide for the removal of proceedings**” means—
   - (i) provide for transfer of proceedings, or
-  - (ii) provide for any jurisdiction in any proceedings to be exercised (whether concurrently or not) elsewhere within the High Court or, as the case may be, elsewhere within the county court[^key-a2f4561379735c80b33c64dab399fde1] without the proceedings being transferred, and
+  - (ii) provide for any jurisdiction in any proceedings to be exercised (whether concurrently or not) elsewhere within the High Court or, as the case may be, elsewhere within the county court[^c-a2f4561379735c80b33c64dab399fde1] without the proceedings being transferred, and
 - (b) “**proceedings**” includes any part of proceedings.
 
 ### Evidence
@@ -434,7 +434,7 @@ Section 10.
 
 (3) For “rule committee”, wherever occurring, there is substituted “ Civil Procedure Rule Committee ”.
 
-(4)[^key-47e9002d3ac8c7cc58fcc8a3235102e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-47e9002d3ac8c7cc58fcc8a3235102e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 3 (places and times of sittings of courts), subsection (3) is omitted.
 
@@ -458,11 +458,11 @@ Section 10.
 
 [^c8630791]: Modification: S. 1: power to make rules of court extended (25.3.2002) by [1979 c. 53](https://www.legislation.gov.uk/ukpga/1979/53), [s. 5(2)](https://www.legislation.gov.uk/ukpga/1979/53/section/5/2) (as substituted 25.3.2002 by [S.I. 2002/439](https://www.legislation.gov.uk/uksi/2002/439), [art. 5(a)](https://www.legislation.gov.uk/uksi/2002/439/article/5/a))
 
-[^key-9cedaf520342cd575d7f90c5e1c30207]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1997/12/section/1/1/b) inserted (6.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 174(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/174/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)
+[^c-9cedaf520342cd575d7f90c5e1c30207]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1997/12/section/1/1/b) inserted (6.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 174(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/174/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)
 
-[^key-28555bfee86f1e66a612864887909c0e]: Textual amendment: Words in s. 1(1)(c) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-28555bfee86f1e66a612864887909c0e]: Textual amendment: Words in s. 1(1)(c) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-97d478ac484e7c875dff3accab67eb80]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1997/12/section/1/4) inserted (7.9.2026) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/4/paragraph/2/2); [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)
+[^c-97d478ac484e7c875dff3accab67eb80]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1997/12/section/1/4) inserted (7.9.2026) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/4/paragraph/2/2); [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)
 
 [^c20809431]: Textual amendment: S. 2(1)(1A)(1B) substituted (3.4.2006) for s. 2(1) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 263(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/263/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
@@ -474,7 +474,7 @@ Section 10.
 
 [^c20809461]: Textual amendment: Words in s. 2(2)(c) substituted (1.9.2006) by [The Civil Procedure Act 1997 (Amendment) Order 2006 (S.I. 2006/1847)](https://www.legislation.gov.uk/uksi/2006/1847), [art. 2](https://www.legislation.gov.uk/uksi/2006/1847/article/2)
 
-[^key-97954968ac6458c549421f9d02432dd8]: Textual amendment: [S. 2(2)(ca)](https://www.legislation.gov.uk/ukpga/1997/12/section/2/2/ca) inserted (19.12.2017) by [The Civil Procedure Act 1997 (Amendment) Order 2017 (S.I. 2017/1148)](https://www.legislation.gov.uk/uksi/2017/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1148/article/1), [2](https://www.legislation.gov.uk/uksi/2017/1148/article/2)
+[^c-97954968ac6458c549421f9d02432dd8]: Textual amendment: [S. 2(2)(ca)](https://www.legislation.gov.uk/ukpga/1997/12/section/2/2/ca) inserted (19.12.2017) by [The Civil Procedure Act 1997 (Amendment) Order 2017 (S.I. 2017/1148)](https://www.legislation.gov.uk/uksi/2017/1148), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1148/article/1), [2](https://www.legislation.gov.uk/uksi/2017/1148/article/2)
 
 [^c20809471]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
@@ -482,7 +482,7 @@ Section 10.
 
 [^c20809481]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-0b4cd3db47e51c92faabf5b5c8a91512]: Textual amendment: Words in s. 2(2)(e)(f) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0b4cd3db47e51c92faabf5b5c8a91512]: Textual amendment: Words in s. 2(2)(e)(f) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20812481]: Textual amendment: Words in s. 2(2)(f) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 208(1)](https://www.legislation.gov.uk/ukpga/2007/29/section/208/1), [211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 122(a)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/122/a) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); S.I. 2009/ 3250, {art. 2(h)} (with arts. 6, 9)
 
@@ -518,9 +518,9 @@ Section 10.
 
 [^M_C_5b6cf364-79c5-4a96-8dba-9086b095688e]: Modification: S. 3(2) excluded until [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 85](https://www.legislation.gov.uk/ukpga/2003/39/section/85) comes into force, whereupon s. 3(6) excluded (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 3 para. 7(8)(a)(9)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/3/paragraph/7/8/a/9) (with [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/6/schedule/3/paragraph/11))
 
-[^key-89cd3af24ee41a48f92e403163bd6ad1]: Modification: S. 3(2) excluded until [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 85](https://www.legislation.gov.uk/ukpga/2003/39/section/85) comes into force, whereupon s. 3(6) excluded (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 40(11)(a)(13)](https://www.legislation.gov.uk/ukpga/2010/38/section/40/11/a/13), [64(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2010/38/section/53), [58](https://www.legislation.gov.uk/ukpga/2010/38/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-89cd3af24ee41a48f92e403163bd6ad1]: Modification: S. 3(2) excluded until [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 85](https://www.legislation.gov.uk/ukpga/2003/39/section/85) comes into force, whereupon s. 3(6) excluded (22.11.2018) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 40(11)(a)(13)](https://www.legislation.gov.uk/ukpga/2010/38/section/40/11/a/13), [64(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/64/2) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2010/38/section/53), [58](https://www.legislation.gov.uk/ukpga/2010/38/section/58)); [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-3990928cf82b6a907782712ff2c73ceb]: Modification: S. 3(2) excluded until [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 85](https://www.legislation.gov.uk/ukpga/2003/39/section/85) comes into force, whereupon s. 3(6) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 10 para. 7(8)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/10/paragraph/7/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/10/paragraph/7/9) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-3990928cf82b6a907782712ff2c73ceb]: Modification: S. 3(2) excluded until [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 85](https://www.legislation.gov.uk/ukpga/2003/39/section/85) comes into force, whereupon s. 3(6) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 10 para. 7(8)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/10/paragraph/7/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/10/paragraph/7/9) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
 [^c20796011]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/1997/12/section/3A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 266](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/266); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
@@ -530,7 +530,7 @@ Section 10.
 
 [^c20802651]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1997/12/section/5) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 13](https://www.legislation.gov.uk/ukpga/2005/4/section/13), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/2/paragraph/6); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/7)
 
-[^key-1fceac792cc75cb44a2fbca6bf4a8ea1]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1997/12/section/5/7) inserted (7.9.2026) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/4/paragraph/2/3); [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)
+[^c-1fceac792cc75cb44a2fbca6bf4a8ea1]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1997/12/section/5/7) inserted (7.9.2026) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/4/paragraph/2/3); [S.I. 2026/716](https://www.legislation.gov.uk/uksi/2026/716), [reg. 2](https://www.legislation.gov.uk/uksi/2026/716/regulation/2)
 
 [^c20802901]: Textual amendment: [S. 6(2A)(2B)](https://www.legislation.gov.uk/ukpga/1997/12/section/6/2A/2B) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 268(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/268/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
@@ -558,11 +558,11 @@ Section 10.
 
 [^c8630911]: Marginal citation: [S.I. 1981/1687](https://www.legislation.gov.uk/uksi/1981/1687).
 
-[^key-9723efca4900dd8486e971ef9c64382d]: Textual amendment: Sch. 1 para. 2 omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/19); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b) (with savings in S.I. 2020/100, regs. 1(2), 3)
+[^c-9723efca4900dd8486e971ef9c64382d]: Textual amendment: Sch. 1 para. 2 omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/19); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b) (with savings in S.I. 2020/100, regs. 1(2), 3)
 
-[^key-bde51a83a1c353532871cd77d4bd45eb]: Textual amendment: Words in [Sch. 1 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/1/paragraph/3/1/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/b/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-bde51a83a1c353532871cd77d4bd45eb]: Textual amendment: Words in [Sch. 1 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/1/paragraph/3/1/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/b/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-a2f4561379735c80b33c64dab399fde1]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/1/paragraph/3/2/a/ii) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/b/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a2f4561379735c80b33c64dab399fde1]: Textual amendment: Words in [Sch. 1 para. 3(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/1/paragraph/3/2/a/ii) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 67(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/67/b/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c8630931]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1) wholly in force at 26.4.1999; [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1) not in force at Royal Assent see [s. 11(2)](https://www.legislation.gov.uk/ukpga/1997/12/section/11/2); [Sch. 2 para. 1(1)(2)(4)(c)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1/1/2/4/c) in force at 27.4.1997 by [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [arts. 3](https://www.legislation.gov.uk/uksi/1997/841/article/3), [4](https://www.legislation.gov.uk/uksi/1997/841/article/4); [Sch. 2 para. 1(3)(4)(a)(b)(d)(5)-(7)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1/3/4/a/b/d/5) in force at 26.4.1999 by [S.I. 1999/1009](https://www.legislation.gov.uk/uksi/1999/1009), [art. 3(a)-(e)](https://www.legislation.gov.uk/uksi/1999/1009/article/3/a)
 
@@ -570,6 +570,6 @@ Section 10.
 
 [^c8630951]: Commencement: Sch. 2 para. 2 wholly in force at 26.4.1999; Sch. 2 para. 2 not in force at Royal Assent see s. 11(2); Sch. 2 para. 2(1)(2)(4)(5) in force at 27.4.1997 by [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [arts. 3](https://www.legislation.gov.uk/uksi/1997/841/article/3), [4](https://www.legislation.gov.uk/uksi/1997/841/article/4); Sch. 2 para. 2(3)(6)-(9) in force at 26.4.1999 by [S.I. 1999/1009](https://www.legislation.gov.uk/uksi/1999/1009), [art. 3(f)-(j)](https://www.legislation.gov.uk/uksi/1999/1009/article/3/f)
 
-[^key-47e9002d3ac8c7cc58fcc8a3235102e9]: Textual amendment: [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/2/4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-47e9002d3ac8c7cc58fcc8a3235102e9]: Textual amendment: [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/2/4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20786821]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/3) repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109](https://www.legislation.gov.uk/ukpga/2003/39/section/109), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I](https://www.legislation.gov.uk/ukpga/1997/12/section/I). 2010/ 2921, {art. 3(c)}

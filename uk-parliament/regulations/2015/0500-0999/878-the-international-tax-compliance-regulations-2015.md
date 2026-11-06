@@ -56,28 +56,28 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) The agreements and arrangements are—
 
-- (a)[^key-d5c064f6ef9d64866d8226b37a3ddbe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-7dfddfed823a4bd8ab43f9ec897a3f9b] the OECD (2014), Standard for Automatic Exchange of Financial Account Information in Tax Matters as amended by the 2023 update to the Common Reporting Standard contained in the OECD (2023), International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, including the commentary (the “CRS”);
-- (b)[^key-fdd72785845957893250e601332bed5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-995a7c9e0c13c888c23b99f28b9cdb6e] the agreement reached between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America to improve international tax compliance and to implement FATCA, signed on 12th September 2012 and amended in June 2013 and February 2019 (“**the FATCA agreement**”).
+- (a)[^c-d5c064f6ef9d64866d8226b37a3ddbe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-7dfddfed823a4bd8ab43f9ec897a3f9b] the OECD (2014), Standard for Automatic Exchange of Financial Account Information in Tax Matters as amended by the 2023 update to the Common Reporting Standard contained in the OECD (2023), International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, including the commentary (the “CRS”);
+- (b)[^c-fdd72785845957893250e601332bed5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-995a7c9e0c13c888c23b99f28b9cdb6e] the agreement reached between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America to improve international tax compliance and to implement FATCA, signed on 12th September 2012 and amended in June 2013 and February 2019 (“**the FATCA agreement**”).
 
-(3A)[^key-70fdf2dc8a63a47a87707fbf9f48023c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-70fdf2dc8a63a47a87707fbf9f48023c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) These Regulations have effect from—
 
-- (a) 1st January 2016 in relation to [^key-3218e4719c6f14de90d17b9e090a1444]... the CRS, and
+- (a) 1st January 2016 in relation to [^c-3218e4719c6f14de90d17b9e090a1444]... the CRS, and
 - (b) 15th April 2015 in relation to the FATCA agreement.
 
 (5) In these Regulations, a reference to “**relevant agreement**” means such agreement or arrangement referred to in paragraph (3) as the context requires, as that agreement or arrangement has effect from time to time.
 
-(5A)[^key-3e6d82c964012522a32dfbc9e0d17784] For the purposes of these Regulations—
+(5A)[^c-3e6d82c964012522a32dfbc9e0d17784] For the purposes of these Regulations—
 
 - (a) “financial institution” has the same meaning in relation to the FATCA agreement as it does in section 1.1471-5(e)(1)(i)-(iv) of the US Treasury Regulations, and
 - (b) “investment entity” has the same meaning in relation to the FATCA agreement as it does in the US Treasury Regulations.
 
-(6) Any expression which is defined in a relevant agreement but not in section [^key-8998beea161f3f9e406422cc038ac9c1]... 235 of FA 2013 or in these Regulations has the same meaning in these Regulations as in the relevant agreement.
+(6) Any expression which is defined in a relevant agreement but not in section [^c-8998beea161f3f9e406422cc038ac9c1]... 235 of FA 2013 or in these Regulations has the same meaning in these Regulations as in the relevant agreement.
 
-(7)[^key-42ed7fb2022853638a9d0c4759fc08f8] In its application for the purpose of these Regulations, the CRS is to be read as if—
+(7)[^c-42ed7fb2022853638a9d0c4759fc08f8] In its application for the purpose of these Regulations, the CRS is to be read as if—
 
 - (a) the optional wording in paragraph 36sexies of the commentary to Section VIII of the CRS adding the term “qualified non-profit entity” were included in the definition of “non-reporting financial institution” at sub-paragraph B(1)(f),
 - (b) the optional wording in paragraph 36sexies of the commentary to Section VIII of the CRS defining the term “qualified non-profit entity” were included at sub-paragraph B(10), and references in that wording to “Jurisdiction” were a reference to the United Kingdom,
@@ -89,20 +89,20 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 (1) In these Regulations, a “**reportable account**” means—
 
 - (a) an account which is a reportable account within the meaning of the relevant agreement,
-- (b) in relation to a reporting financial institution under [^key-3820921e0bac58940eca17f4585a823f]... the CRS, an account that is a pre-existing entity account with an account balance or value that does not exceed US$250,000 as of 31st December 2015, [^key-4faa260a6dd7209681144f3e22e01cf2]...
-- (ba)[^key-3ad6640b19ffcb7917ad9c83cce6df33] in relation to a reporting financial institution under the CRS, an account meeting the description at Section III(A) of the CRS, and
+- (b) in relation to a reporting financial institution under [^c-3820921e0bac58940eca17f4585a823f]... the CRS, an account that is a pre-existing entity account with an account balance or value that does not exceed US$250,000 as of 31st December 2015, [^c-4faa260a6dd7209681144f3e22e01cf2]...
+- (ba)[^c-3ad6640b19ffcb7917ad9c83cce6df33] in relation to a reporting financial institution under the CRS, an account meeting the description at Section III(A) of the CRS, and
 - (c) in relation to a reporting financial institution under the FATCA agreement, an account meeting the description at paragraph II.A, III.A or IV.A of Annex I of the agreement.
 
 (2) But—
 
-- (a) in relation to a reporting financial institution under [^key-716a6c45641d9c3be4fe4f7a0944158b]... the CRS, an account listed as an excluded account in Schedule 2 is not a reportable account,
+- (a) in relation to a reporting financial institution under [^c-716a6c45641d9c3be4fe4f7a0944158b]... the CRS, an account listed as an excluded account in Schedule 2 is not a reportable account,
 - (b) in relation to a reporting financial institution under the FATCA agreement, an account is not a reportable account if—
   - (i) the account holder is deceased or is a personal representative (within the meaning of section 989 of ITA 2007),
   - (ii) the account is held to comply with an order or judgment made or given in legal proceedings, or
   - (iii) the funds held in the account are held solely as security for the performance of a party's obligation under a contract for the disposal of an estate or interest in land or of tangible moveable property, and
-- (c)[^key-3463e0bb842bd358e51b99b7e995c99e] in relation to a reporting financial institution—
-  - (i) for the purposes of [^key-7948e56f160ec2c6ba5f2e25be5dfe69]... the CRS, a dormant account (other than an annuity contract) with a balance that does not exceed US$1,000, or
-  - (ii) an account within paragraph (1)(b), (ba) or (c)[^key-94745cb208db5eeaead9ab0dcb584516],
+- (c)[^c-3463e0bb842bd358e51b99b7e995c99e] in relation to a reporting financial institution—
+  - (i) for the purposes of [^c-7948e56f160ec2c6ba5f2e25be5dfe69]... the CRS, a dormant account (other than an annuity contract) with a balance that does not exceed US$1,000, or
+  - (ii) an account within paragraph (1)(b), (ba) or (c)[^c-94745cb208db5eeaead9ab0dcb584516],
 
   is not a reportable account for a calendar year if there is an election by the institution which has effect for that year to treat all such accounts, or a clearly identified group of such accounts, as not being reportable accounts.
 
@@ -112,7 +112,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (5) The account balance aggregation and currency rules are—
 
-- (a)[^key-d371845b6c83bd71a2e00cef62eb9139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d371845b6c83bd71a2e00cef62eb9139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Section VII.C of the CRS, and
 - (c) in paragraph VI.C of Annex I to the FATCA agreement.
 
@@ -122,7 +122,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (8) For the purposes of a relevant agreement and these Regulations, an account held by an individual as a partner of a partnership is treated as an entity account and is not treated as an individual account.
 
-(9)[^key-048513432a58616cd2ad07a67a081084] An account is a dormant account if—
+(9)[^c-048513432a58616cd2ad07a67a081084] An account is a dormant account if—
 
 - (a) the account holder has not initiated a transaction with regard to the account or any other account held by the account holder with the reporting financial institution in the previous three years,
 - (b) the account holder has not communicated with the reporting financial institution regarding the account or any other account held by the account holder with the reporting financial institution in the previous six years,
@@ -133,7 +133,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ### 3. Due diligence requirements
 
-(1)[^key-04f244043e7c562bd6adf37fc0d6f9b6] A reporting financial institution must establish and maintain arrangements that are designed to identify in respect of a financial account—
+(1)[^c-04f244043e7c562bd6adf37fc0d6f9b6] A reporting financial institution must establish and maintain arrangements that are designed to identify in respect of a financial account—
 
 - (a) the territory in which an account holder or a controlling person is resident for the purposes of—
   - (i) income tax,
@@ -155,26 +155,26 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) The due diligence procedures are—
 
-- (a)[^key-0a0b8a3083e5ee68ff1566ba4d35ee97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-5667a869ef134b02be386ebae052e1f5] in relation to a reporting financial institution under the CRS, set out in Sections II to VII of the CRS and the alternative procedure provided in the optional provision in paragraph 13 of the commentary to Section VII of the CRS[^key-1feb01f09622ec359afcf2707604cb9a],
+- (a)[^c-0a0b8a3083e5ee68ff1566ba4d35ee97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5667a869ef134b02be386ebae052e1f5] in relation to a reporting financial institution under the CRS, set out in Sections II to VII of the CRS and the alternative procedure provided in the optional provision in paragraph 13 of the commentary to Section VII of the CRS[^c-1feb01f09622ec359afcf2707604cb9a],
 - (c) in relation to a reporting financial institution under the FATCA agreement, set out in Annex I to that agreement.
 
-(4)[^key-1f9a1dc52fc27c0370160773b2cddfc4] [^key-0290e592dbb957fe9027e26243757c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1f9a1dc52fc27c0370160773b2cddfc4] [^c-0290e592dbb957fe9027e26243757c4d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-989d5c8a4a7f9ec488adc6472a9c8a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-989d5c8a4a7f9ec488adc6472a9c8a19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B) Where a provision of the CRS does not specify a deadline for the requirements of that provision to be satisfied that deadline is—[^key-9d8f6755a4af5d51f657dac906908dcd]
+(4B) Where a provision of the CRS does not specify a deadline for the requirements of that provision to be satisfied that deadline is—[^c-9d8f6755a4af5d51f657dac906908dcd]
 
-- (a) in [^key-d2ac23dc2cdcc768db8cb8f6ac46882b]... Section VIII(C)(10) (new account) [^key-d2ac23dc2cdcc768db8cb8f6ac46882b]..., 1 January 2016,
-- (b) in Section VIII B(9)(d) (exempt collective investment vehicle), 1 January 2018, [^key-04444fc93883b4b557a41070b7694d8f]...
-- (ba)[^key-f8ee2ff5d1547e7655aee442ef134455] in Section VIII(B)(8)(b) (qualified credit card issuer) and Section VIII(C)(17)(f)(ii) (excluded accounts), 1 January of the year following the calendar year in which the reporting financial institution implemented the policies and procedures required by those provisions, and
+- (a) in [^c-d2ac23dc2cdcc768db8cb8f6ac46882b]... Section VIII(C)(10) (new account) [^c-d2ac23dc2cdcc768db8cb8f6ac46882b]..., 1 January 2016,
+- (b) in Section VIII B(9)(d) (exempt collective investment vehicle), 1 January 2018, [^c-04444fc93883b4b557a41070b7694d8f]...
+- (ba)[^c-f8ee2ff5d1547e7655aee442ef134455] in Section VIII(B)(8)(b) (qualified credit card issuer) and Section VIII(C)(17)(f)(ii) (excluded accounts), 1 January of the year following the calendar year in which the reporting financial institution implemented the policies and procedures required by those provisions, and
 - (c) in all other cases, 31 December 2015.
 
-(5) In applying the due diligence procedures, accounts within regulation 2(1)(b), (ba) and (c)[^key-8ea9dd505b6d87920fa10c6e301566b1] in respect of which no election under regulation 2(2)(c) has been made are treated as new accounts or pre-existing accounts as the case may be.
+(5) In applying the due diligence procedures, accounts within regulation 2(1)(b), (ba) and (c)[^c-8ea9dd505b6d87920fa10c6e301566b1] in respect of which no election under regulation 2(2)(c) has been made are treated as new accounts or pre-existing accounts as the case may be.
 
-### 4. Modification of due diligence requirements: ... the CRS[^key-fcfeecf2d72ccfbb4f7592670e083ece]
+### 4. Modification of due diligence requirements: ... the CRS[^c-fcfeecf2d72ccfbb4f7592670e083ece]
 
-A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f]... the CRS may—
+A reporting financial institution under [^c-e21f8a666291d877d7b0b4489249a27f]... the CRS may—
 
 - (a) apply the due diligence procedures for new accounts to pre-existing accounts, and
 - (b) apply the due diligence procedures for high value accounts to low value accounts.
@@ -199,7 +199,7 @@ A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f].
 
 ### 6. Reporting obligation
 
-(1)[^key-ecae7fc1449217ea4f14b3726c427abf] A reporting financial institution must, in respect of the first reporting year and every following calendar year, make a return setting out the information required to be reported under the relevant agreement in relation to—
+(1)[^c-ecae7fc1449217ea4f14b3726c427abf] A reporting financial institution must, in respect of the first reporting year and every following calendar year, make a return setting out the information required to be reported under the relevant agreement in relation to—
 
 - (a) each reportable account that is maintained by the institution at any time during the calendar year in question, and
 - (b) each pre-existing account identified as a reportable account by the institution at any time during the calendar year in question.
@@ -207,12 +207,12 @@ A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f].
 (2) The first reporting year is—
 
 - (a) the calendar year 2014 in relation to an account identified as a reportable account for the purposes of the FATCA agreement,
-- (b) the calendar year 2016 in relation to an account identified as a reportable account for the purposes of [^key-23a928b4b1ae851202d3d889442a9f3e]... the CRS.
+- (b) the calendar year 2016 in relation to an account identified as a reportable account for the purposes of [^c-23a928b4b1ae851202d3d889442a9f3e]... the CRS.
 
 (3) The information required to be reported is—
 
-- (a)[^key-cfd15a850a6e4eb1e89c664263a1341c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c1f53de5cc90909ae31fd84d237e52b2] in relation to an account identified as a reportable account for the purposes of the CRS, set out in Section I of the CRS (ignoring paragraph F of Section I),
+- (a)[^c-cfd15a850a6e4eb1e89c664263a1341c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c1f53de5cc90909ae31fd84d237e52b2] in relation to an account identified as a reportable account for the purposes of the CRS, set out in Section I of the CRS (ignoring paragraph F of Section I),
 - (c) in relation to an account identified as a reportable account for the purposes of the FATCA agreement, set out in Article 2(2) of that agreement.
 
 (4) The return must be submitted electronically in accordance with regulation 7 on or before 31st<sup></sup>May of the year following the calendar year to which the return relates.
@@ -241,7 +241,7 @@ A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f].
 
 (6) A return made behalf of a reporting financial institution is taken to have been made by that institution, unless the institution proves that the return was made without the institution's authority.
 
-### 7A. Reporting of gross proceeds: CRS[^key-fd08cc088875ad9e65106f37c828f79b]
+### 7A. Reporting of gross proceeds: CRS[^c-fd08cc088875ad9e65106f37c828f79b]
 
 (1) Where a reporting financial institution elects to report the gross proceeds from the sale or redemption of a financial asset which are reported by the reporting financial institution under the OECD Crypto-Asset Reporting Framework in accordance with Section 1G of the CRS, such election must be made by notice to HMRC.
 
@@ -290,7 +290,7 @@ A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f].
 
 (2) The notification must be made by 31st January in the calendar year following the first year in which the account held by the individual is a reportable account maintained by the reporting financial institution.
 
-### 10A. Registration with HMRC[^key-f07ba3ec61ff21d58c18c68688466cc7]
+### 10A. Registration with HMRC[^c-f07ba3ec61ff21d58c18c68688466cc7]
 
 (1) A reporting financial institution and a specified non-reporting financial institution must register with HMRC on or before the later of—
 
@@ -319,35 +319,35 @@ A reporting financial institution under [^key-e21f8a666291d877d7b0b4489249a27f].
 
 A reporting financial institution may use a service provider to undertake the due diligence requirements under regulations 3 to 5 and the reporting obligations under regulations 6 and 9, but in such cases those obligations continue to be the obligations of the institution.
 
-## ...[^key-e6a798d6f492d3b18caeccd2b65a2ab2]
+## ...[^c-e6a798d6f492d3b18caeccd2b65a2ab2]
 
-### 12A. Interpretation of regulations 12A to 12F[^key-8c5eb86f524a311c96e67d78b78d1e8d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12B. Identifying specified clients: specified financial institution[^key-8c5eb86f524a311c96e67d78b78d1e8d]
+### 12A. Interpretation of regulations 12A to 12F[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12C. Identifying specified clients: specified relevant person[^key-8c5eb86f524a311c96e67d78b78d1e8d]
+### 12B. Identifying specified clients: specified financial institution[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12D. Client exchange of tax information notifications[^key-8c5eb86f524a311c96e67d78b78d1e8d]
+### 12C. Identifying specified clients: specified relevant person[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12E. Client exchange of tax information notifications: overseas persons[^key-8c5eb86f524a311c96e67d78b78d1e8d]
+### 12D. Client exchange of tax information notifications[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12F. Making client exchange of tax information client notifications[^key-8c5eb86f524a311c96e67d78b78d1e8d]
+### 12E. Client exchange of tax information notifications: overseas persons[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12G. Provision of information[^key-d862c93b859f8bec8f8842bfe98df8d6]
+### 12F. Making client exchange of tax information client notifications[^c-8c5eb86f524a311c96e67d78b78d1e8d]
 
-(1) In order to determine whether or not the obligations arising under these Regulations have been complied with, an officer of Revenue and Customs may require a financial institution or UK representative[^key-e2f38a7a392fcbbad1b8ec06822056b6] to provide such information as the officer reasonably requires as specified by written notice.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12G. Provision of information[^c-d862c93b859f8bec8f8842bfe98df8d6]
+
+(1) In order to determine whether or not the obligations arising under these Regulations have been complied with, an officer of Revenue and Customs may require a financial institution or UK representative[^c-e2f38a7a392fcbbad1b8ec06822056b6] to provide such information as the officer reasonably requires as specified by written notice.
 
 (2) The information required by notice under paragraph (1) must be provided—
 
@@ -356,7 +356,7 @@ A reporting financial institution may use a service provider to undertake the du
 
 as is reasonably required by the officer of Revenue and Customs.
 
-### 12GA. Provision of a valid self-certification[^key-d37d26d3a9412eb3bec3e523f03e2a2d]
+### 12GA. Provision of a valid self-certification[^c-d37d26d3a9412eb3bec3e523f03e2a2d]
 
 Where a reporting financial institution requests a self-certification from an individual account holder, an entity account holder or a controlling person of an entity account holder (a ‘self-certification provider’), the self-certification provider must provide the self-certification requested—
 
@@ -365,11 +365,11 @@ Where a reporting financial institution requests a self-certification from an in
 
 ## Penalties for breach of obligations
 
-### 12H. Liable persons[^key-8ee7f55c18f902b90e25f069857f9495]
+### 12H. Liable persons[^c-8ee7f55c18f902b90e25f069857f9495]
 
-(1) Where in these regulations[^key-7193d6703f7ddba52a8fa7c215d47f27]—
+(1) Where in these regulations[^c-7193d6703f7ddba52a8fa7c215d47f27]—
 
-- (a) a financial institution or UK representative[^key-0f9d83bf779b7836e845a56e8c92e174] is made liable to a penalty, and
+- (a) a financial institution or UK representative[^c-0f9d83bf779b7836e845a56e8c92e174] is made liable to a penalty, and
 - (b) the institution or representative is a partnership or trust,
 
 the liability to the penalty falls upon a liable person of the institution or representative.
@@ -382,51 +382,51 @@ the liability to the penalty falls upon a liable person of the institution or re
 
 (3) In this regulation “collective investment scheme” means—
 
-- (a)[^key-22e92c3d003ccee40dd89b0c2e470d4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-5899d41e9642edf3a95f13d2ea9dadad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-22e92c3d003ccee40dd89b0c2e470d4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5899d41e9642edf3a95f13d2ea9dadad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any arrangements that are a “collective investment scheme” within the meaning of the Financial Services and Markets Act 2000.
 
-### 13. Penalties for failure to comply with Regulations[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 13. Penalties for failure to comply with Regulations[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Daily default penalty[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 14. Daily default penalty[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Penalties for inaccurate information[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 15. Penalties for inaccurate information[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. FATCA agreement penalty: non-participating financial institutions[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 16. FATCA agreement penalty: non-participating financial institutions[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Matters to be disregarded in relation to liability to penalties[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 17. Matters to be disregarded in relation to liability to penalties[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Assessment of penalties[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 18. Assessment of penalties[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Right to appeal against penalty[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 19. Right to appeal against penalty[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Procedure on appeal against penalty[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 20. Procedure on appeal against penalty[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Increased daily default penalty[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 21. Increased daily default penalty[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Enforcement of penalties[^key-4f925c67a08d7a1447c9a01d47401a7e]
+### 22. Enforcement of penalties[^c-4f925c67a08d7a1447c9a01d47401a7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22A. Penalties for failure to apply due diligence procedures[^key-703906b1729820aa6300ec8634fab07f]
+### 22A. Penalties for failure to apply due diligence procedures[^c-703906b1729820aa6300ec8634fab07f]
 
 (1) Subject to paragraph (2), if a reporting financial institution or UK representative fails to comply with regulation 3 (due diligence requirements), the reporting financial institution or UK representative is liable to a penalty not exceeding £100 for each account holder or controlling person in respect of which the reporting financial institution or UK representative fails to apply the due diligence procedures in regulation 3(3)(b) or 3(3)(c).
 
@@ -557,8 +557,8 @@ An appeal may be brought against a penalty assessment under regulation 22K—
 
 If—
 
-- (a) a[^key-f8256ee199b2e98084d62688ad929f64] [^key-2758f9c62ea90391253772fce22d8671]... person enters into any arrangements, and
-- (b) the main purpose, or one of the main purposes, of [^key-0971855075fc4768f9918e4c495200a6]... entering into the arrangements is to avoid any obligation under these Regulations,
+- (a) a[^c-f8256ee199b2e98084d62688ad929f64] [^c-2758f9c62ea90391253772fce22d8671]... person enters into any arrangements, and
+- (b) the main purpose, or one of the main purposes, of [^c-0971855075fc4768f9918e4c495200a6]... entering into the arrangements is to avoid any obligation under these Regulations,
 
 these Regulations are to have effect as if the arrangements had not been entered into.
 
@@ -567,7 +567,7 @@ these Regulations are to have effect as if the arrangements had not been entered
 (1) In these Regulations—
 
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs,
-- “[^key-26ab6f906adb8885e3d29fefa8872ac1]**specified non-reporting financial institution**” means a non-reporting financial institution which is a trust within the meaning of Section VIII(B)(1)(e) of the CRS or paragraph II(D) of Annex II to the FATCA agreement,
+- “[^c-26ab6f906adb8885e3d29fefa8872ac1]**specified non-reporting financial institution**” means a non-reporting financial institution which is a trust within the meaning of Section VIII(B)(1)(e) of the CRS or paragraph II(D) of Annex II to the FATCA agreement,
 - “**the tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal,
 - “US Treasury Regulations” mean the US Regulations Relating to Information Reporting by Foreign Financial Institutions and Other Foreign Entities [^c22477321].
 
@@ -575,52 +575,52 @@ these Regulations are to have effect as if the arrangements had not been entered
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Expression | Regulations | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | The CRS | The FATCA agreement |
-| account holder |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(E)(1) of the CRS | Article 1(1)(ee) |
-| annuity contract |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(6) of the CRS |  |
-| CRS[^key-194d812bc6eba5bfb03f8adb4539b14f] | regulation 1(3)(aa)[^key-646895384b1129df8793b48cb2d8168e] |  |  |  |
-| cash value insurance contract |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(7) of the CRS |  |
+| Expression | Regulations | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | The CRS | The FATCA agreement |
+| account holder |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(E)(1) of the CRS | Article 1(1)(ee) |
+| annuity contract |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(6) of the CRS |  |
+| CRS[^c-194d812bc6eba5bfb03f8adb4539b14f] | regulation 1(3)(aa)[^c-646895384b1129df8793b48cb2d8168e] |  |  |  |
+| cash value insurance contract |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(7) of the CRS |  |
 | the Commissioners | regulation 24(1) |  |  |  |
-| controlling person |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(6) of the CRS | Article 1(1)(mm) |
-| custodial account |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(3) of the CRS | Article 1(1)(u) |
-| [^key-b0afa573753e912bebcf43d51194b163]. . . | [^key-b0afa573753e912bebcf43d51194b163]. . . |  |  |  |
-| entity |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(E)(3) of the CRS | Article 1(1)(hh) |
-| excluded accounts | Schedule 2 | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(17) of the CRS |  |
+| controlling person |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(6) of the CRS | Article 1(1)(mm) |
+| custodial account |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(3) of the CRS | Article 1(1)(u) |
+| [^c-b0afa573753e912bebcf43d51194b163]. . . | [^c-b0afa573753e912bebcf43d51194b163]. . . |  |  |  |
+| entity |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(E)(3) of the CRS | Article 1(1)(hh) |
+| excluded accounts | Schedule 2 | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(17) of the CRS |  |
 | the FATCA agreement | regulation 1(3)(c) |  |  |  |
-| financial account |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C) of the CRS | Article 1(1)(s) |
-| financial institution | regulation 1(5A)[^key-cfc35d0cda464a7692e4d7269cd3db25] | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(3) of the CRS |  |
-| high value account[^key-ec4dc36511ff959e7afd659714c3fbda] |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(15) of the CRS | Section II(D) of Annex I |
-| NFE |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(7) of the CRS |  |
-| investment entity[^key-5f1d127d0deeaed21bad2f4e366e9867] | regulation 1(5A) | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(6) of the CRS |  |
-| subject to paragraph (3)[^key-d448045fb2f8a35a2e322225d0946048] new account |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(10) of the CRS |  |
+| financial account |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C) of the CRS | Article 1(1)(s) |
+| financial institution | regulation 1(5A)[^c-cfc35d0cda464a7692e4d7269cd3db25] | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(3) of the CRS |  |
+| high value account[^c-ec4dc36511ff959e7afd659714c3fbda] |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(15) of the CRS | Section II(D) of Annex I |
+| NFE |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(7) of the CRS |  |
+| investment entity[^c-5f1d127d0deeaed21bad2f4e366e9867] | regulation 1(5A) | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(6) of the CRS |  |
+| subject to paragraph (3)[^c-d448045fb2f8a35a2e322225d0946048] new account |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(10) of the CRS |  |
 | non-participating financial institution |  |  |  | Article 1(1)(r) |
-| non-reporting financial institution[^key-d5dde5aae21ee911b069f96acdf2979b] |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(B)(1) of the CRS |  |
-| participating jurisdiction | regulation 1(7)(d)[^key-958a7b1a85be3817ecc5cdc2010b3539] | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(5) of the CRS |  |
-| subject to regulation 3(4A)(a) and paragraph (3)[^key-b7e0d5302fba341b97cc627631d38934] pre-existing account[^key-87da8e30a1b82291f1c581292754933c] | [^key-1f592658fa232de6d30048bce2c14dc2]. . . | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | subject to paragraph (3), the replacement for Section VIII(C)(9) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^key-635b845c29d1524aa9a2c4288e7d80e8] | Article 1(1)(aa) |
-| pre-existing entity account |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(13) of the CRS | Section IV of Annex I |
-| qualified non-profit entity[^key-ca1fe04e04e20c0eca51c143b076d2cc] | regulation 1(7)(b) |  | Section VIII(B)(10) of the CRS in paragraph 36sexies of the commentary to Section VIII of the CRS |  |
-| related entity[^key-de007a04711a5f19280c58c69c3cda5b] | [^key-1f592658fa232de6d30048bce2c14dc2]. . . | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | the replacement for Section VIII(E)(4) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^key-ac601a515286b79214b53121fcde65b1] |  |
-| reportable account | regulation 2 | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(1) of the CRS | Article 1(1)(bb) |
-| reportable jurisdiction | regulation 1(7)(c)[^key-42721df2e0ea0e7aeab06212a7ef5920] |  | Section VIII(D)(4) of the CRS |  |
-| reporting financial institution |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(1) of the CRS | Article 1(1)(n) |
-| reportable person |  | [^key-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section[^key-9ea3b4ed22e58883ec2431a6bfefa559] VIII(D)(2) of the CRS |  |
+| non-reporting financial institution[^c-d5dde5aae21ee911b069f96acdf2979b] |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(B)(1) of the CRS |  |
+| participating jurisdiction | regulation 1(7)(d)[^c-958a7b1a85be3817ecc5cdc2010b3539] | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(5) of the CRS |  |
+| subject to regulation 3(4A)(a) and paragraph (3)[^c-b7e0d5302fba341b97cc627631d38934] pre-existing account[^c-87da8e30a1b82291f1c581292754933c] | [^c-1f592658fa232de6d30048bce2c14dc2]. . . | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | subject to paragraph (3), the replacement for Section VIII(C)(9) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^c-635b845c29d1524aa9a2c4288e7d80e8] | Article 1(1)(aa) |
+| pre-existing entity account |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(C)(13) of the CRS | Section IV of Annex I |
+| qualified non-profit entity[^c-ca1fe04e04e20c0eca51c143b076d2cc] | regulation 1(7)(b) |  | Section VIII(B)(10) of the CRS in paragraph 36sexies of the commentary to Section VIII of the CRS |  |
+| related entity[^c-de007a04711a5f19280c58c69c3cda5b] | [^c-1f592658fa232de6d30048bce2c14dc2]. . . | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | the replacement for Section VIII(E)(4) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^c-ac601a515286b79214b53121fcde65b1] |  |
+| reportable account | regulation 2 | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(D)(1) of the CRS | Article 1(1)(bb) |
+| reportable jurisdiction | regulation 1(7)(c)[^c-42721df2e0ea0e7aeab06212a7ef5920] |  | Section VIII(D)(4) of the CRS |  |
+| reporting financial institution |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section VIII(A)(1) of the CRS | Article 1(1)(n) |
+| reportable person |  | [^c-5d77b9f11cfb22699379e637e50f9f0c]. . . | Section[^c-9ea3b4ed22e58883ec2431a6bfefa559] VIII(D)(2) of the CRS |  |
 | relevant agreement | Regulation 1(5) |  |  |  |
-| self-certification provider[^key-e07f1ff062ac613deebed9765b6c8732] | regulation 12GA |  |  |  |
+| self-certification provider[^c-e07f1ff062ac613deebed9765b6c8732] | regulation 12GA |  |  |  |
 | specified non-reporting financial institution | regulation 24(1) |  |  |  |
-| [^key-f931bbb2580c09f48b2604002beeb97c]. . . | [^key-f931bbb2580c09f48b2604002beeb97c]. . . |  |  |  |
-| [^key-f931bbb2580c09f48b2604002beeb97c]. . . | [^key-f931bbb2580c09f48b2604002beeb97c]. . . |  |  |  |
+| [^c-f931bbb2580c09f48b2604002beeb97c]. . . | [^c-f931bbb2580c09f48b2604002beeb97c]. . . |  |  |  |
+| [^c-f931bbb2580c09f48b2604002beeb97c]. . . | [^c-f931bbb2580c09f48b2604002beeb97c]. . . |  |  |  |
 | specified U.S. person |  |  |  | Article 1(1)(gg) |
 | the tribunal | regulation 24(1) |  |  |  |
 | UK representative | regulation 11(2) |  |  |  |
 | U.S. reportable account |  |  |  | Article 1(1)(dd) and paragraph I.B of Annex I |
 | U.S. Treasury Regulations | regulation 24(1) |  |  |  |
 
-(3)[^key-5d39265de56afe079b1ce0df290823c4] In respect of the accounts listed in paragraph (4)—
+(3)[^c-5d39265de56afe079b1ce0df290823c4] In respect of the accounts listed in paragraph (4)—
 
 - (a) “new account” means a financial account maintained by a reporting financial institution opened on or after 13th May 2020;
 - (b) “pre-existing account” means—
   - (i) a financial account maintained by a reporting financial institution as of 12th May 2020, or
-  - (ii) a financial account within the replacement for Section VIII(C)(9) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^key-743402d41831c5781df0bae7337eed17], but in the application of that provision the references to “subparagraph C(9)(a)” are to be read as references to paragraph (i) of this sub-paragraph.
+  - (ii) a financial account within the replacement for Section VIII(C)(9) of the CRS in paragraph 82 of the commentary to Section VIII of the CRS[^c-743402d41831c5781df0bae7337eed17], but in the application of that provision the references to “subparagraph C(9)(a)” are to be read as references to paragraph (i) of this sub-paragraph.
 
 (4) The accounts are—
 
@@ -639,13 +639,13 @@ David Evennett
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE 1 — Participating jurisdictions[^key-bd99a3eee3698add06a856c0ce92990c]
+## SCHEDULE 1 — Participating jurisdictions[^c-bd99a3eee3698add06a856c0ce92990c]
 
 **No longer in force.**
 
 Regulation 1(3)(b)
 
-[^key-bd99a3eee3698add06a856c0ce92990c]
+[^c-bd99a3eee3698add06a856c0ce92990c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -659,7 +659,7 @@ For the purposes of the DAC and the CRS the following are excluded accounts.
 
 Pension schemes registered with HMRC under Part 4 of FA 2004 [^c22477341].
 
-**2.**[^key-c562ce8649aeda751d305a87f9982244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c562ce8649aeda751d305a87f9982244] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Immediate needs annuities within section 725 ITTOIA 2005 [^c22477351].
 
@@ -669,13 +669,13 @@ An account within the meaning of the Individual Savings Account Regulations 1998
 
 **5.** A child trust fund within the meaning of the Child Trust Funds Act 2004 [^c22477371].
 
-**6.**[^key-a18e62b2385d27ef02323ac6774e23c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a18e62b2385d27ef02323ac6774e23c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** Children's Bonds issued by the UK National Savings and Investments.
 
-**8.**[^key-a153d3d32573594279f068237cd734ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a153d3d32573594279f068237cd734ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-927438a6a7a7d7e473807b8890fb37c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-927438a6a7a7d7e473807b8890fb37c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** Tax Exempt Savings Plans issued by a friendly society within the meaning of the Friendly Societies Act 1992 [^c22477381].
 
@@ -685,25 +685,25 @@ An account within the meaning of the Individual Savings Account Regulations 1998
 
 **13.** A CSOP scheme approved by HMRC under Schedule 4 to ITEPA 2003.
 
-**14.**[^key-089c0e34f01c83616d404bbaf8d76d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-089c0e34f01c83616d404bbaf8d76d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-089c0e34f01c83616d404bbaf8d76d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-089c0e34f01c83616d404bbaf8d76d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-308548da30721ee0edd698df1e9c8f73]
+## SCHEDULE 3[^c-308548da30721ee0edd698df1e9c8f73]
 
 **No longer in force.**
 
 Regulation 12F
 
-### PART 1[^key-308548da30721ee0edd698df1e9c8f73]
+### PART 1[^c-308548da30721ee0edd698df1e9c8f73]
 
-**1.**[^key-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-308548da30721ee0edd698df1e9c8f73]
+### PART 2[^c-308548da30721ee0edd698df1e9c8f73]
 
-**2.**[^key-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-308548da30721ee0edd698df1e9c8f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -755,171 +755,171 @@ A Tax Information and Impact Note covering this instrument was published on 18th
 
 [^c22477261]: Marginal citation: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-d5c064f6ef9d64866d8226b37a3ddbe6]: Textual amendment: [Reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/2/a/i)
+[^c-d5c064f6ef9d64866d8226b37a3ddbe6]: Textual amendment: [Reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/2/a/i)
 
-[^key-7dfddfed823a4bd8ab43f9ec897a3f9b]: Textual amendment: [Reg. 1(3)(aa)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/aa) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-7dfddfed823a4bd8ab43f9ec897a3f9b]: Textual amendment: [Reg. 1(3)(aa)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/aa) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-fdd72785845957893250e601332bed5a]: Textual amendment: [Reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-fdd72785845957893250e601332bed5a]: Textual amendment: [Reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-995a7c9e0c13c888c23b99f28b9cdb6e]: Textual amendment: [Reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/c) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-995a7c9e0c13c888c23b99f28b9cdb6e]: Textual amendment: [Reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3/c) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/a/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-70fdf2dc8a63a47a87707fbf9f48023c]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3A) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-70fdf2dc8a63a47a87707fbf9f48023c]: Textual amendment: [Reg. 1(3A)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/3A) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-3218e4719c6f14de90d17b9e090a1444]: Textual amendment: Words in [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/4/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/2/c)
+[^c-3218e4719c6f14de90d17b9e090a1444]: Textual amendment: Words in [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/4/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/2/c)
 
-[^key-3e6d82c964012522a32dfbc9e0d17784]: Textual amendment: Reg. 1(5A) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/2)
+[^c-3e6d82c964012522a32dfbc9e0d17784]: Textual amendment: Reg. 1(5A) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/2)
 
-[^key-8998beea161f3f9e406422cc038ac9c1]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/6) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/c)
+[^c-8998beea161f3f9e406422cc038ac9c1]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/6) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/c)
 
-[^key-42ed7fb2022853638a9d0c4759fc08f8]: Textual amendment: [Reg. 1(7)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/7) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-42ed7fb2022853638a9d0c4759fc08f8]: Textual amendment: [Reg. 1(7)](https://www.legislation.gov.uk/uksi/2015/878/regulation/1/7) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/740/regulation/3/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-3820921e0bac58940eca17f4585a823f]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/1/b) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
+[^c-3820921e0bac58940eca17f4585a823f]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/1/b) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
 
-[^key-4faa260a6dd7209681144f3e22e01cf2]: Textual amendment: Word in reg. 2(1)(b) omitted (17.5.2017) by virtue of [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/1/a)
+[^c-4faa260a6dd7209681144f3e22e01cf2]: Textual amendment: Word in reg. 2(1)(b) omitted (17.5.2017) by virtue of [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/1/a)
 
-[^key-3ad6640b19ffcb7917ad9c83cce6df33]: Textual amendment: Reg. 2(1)(ba) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/1/b)
+[^c-3ad6640b19ffcb7917ad9c83cce6df33]: Textual amendment: Reg. 2(1)(ba) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/1/b)
 
-[^key-716a6c45641d9c3be4fe4f7a0944158b]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/2/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
+[^c-716a6c45641d9c3be4fe4f7a0944158b]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/2/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
 
-[^key-3463e0bb842bd358e51b99b7e995c99e]: Textual amendment: Reg. 2(2)(c) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/3)
+[^c-3463e0bb842bd358e51b99b7e995c99e]: Textual amendment: Reg. 2(2)(c) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/3)
 
-[^key-7948e56f160ec2c6ba5f2e25be5dfe69]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/2/c) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
+[^c-7948e56f160ec2c6ba5f2e25be5dfe69]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/2/c) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/a)
 
-[^key-94745cb208db5eeaead9ab0dcb584516]: Textual amendment: Words in reg. 2(2)(c)(ii) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/2)
+[^c-94745cb208db5eeaead9ab0dcb584516]: Textual amendment: Words in reg. 2(2)(c)(ii) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/4/2)
 
-[^key-d371845b6c83bd71a2e00cef62eb9139]: Textual amendment: [Reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/5/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/b)
+[^c-d371845b6c83bd71a2e00cef62eb9139]: Textual amendment: [Reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/2/5/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/3/b)
 
-[^key-048513432a58616cd2ad07a67a081084]: Textual amendment: Reg. 2(9) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/4)
+[^c-048513432a58616cd2ad07a67a081084]: Textual amendment: Reg. 2(9) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/4)
 
-[^key-04f244043e7c562bd6adf37fc0d6f9b6]: Textual amendment: Reg. 3(1)-(2B) substituted for reg. 3(1)(2) (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/1)
+[^c-04f244043e7c562bd6adf37fc0d6f9b6]: Textual amendment: Reg. 3(1)-(2B) substituted for reg. 3(1)(2) (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/1)
 
-[^key-0a0b8a3083e5ee68ff1566ba4d35ee97]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/a)
+[^c-0a0b8a3083e5ee68ff1566ba4d35ee97]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/a)
 
-[^key-5667a869ef134b02be386ebae052e1f5]: Textual amendment: Reg. 3(3)(b) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/2)
+[^c-5667a869ef134b02be386ebae052e1f5]: Textual amendment: Reg. 3(3)(b) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/2)
 
-[^key-1feb01f09622ec359afcf2707604cb9a]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/3/b) inserted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/b)
+[^c-1feb01f09622ec359afcf2707604cb9a]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/3/b) inserted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/b)
 
-[^key-1f9a1dc52fc27c0370160773b2cddfc4]: Textual amendment: Reg. 3(4)-(4B) substituted for reg. 3(4) (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/3)
+[^c-1f9a1dc52fc27c0370160773b2cddfc4]: Textual amendment: Reg. 3(4)-(4B) substituted for reg. 3(4) (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/3)
 
-[^key-0290e592dbb957fe9027e26243757c4d]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/c)
+[^c-0290e592dbb957fe9027e26243757c4d]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/c)
 
-[^key-989d5c8a4a7f9ec488adc6472a9c8a19]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4A) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/c)
+[^c-989d5c8a4a7f9ec488adc6472a9c8a19]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4A) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/c)
 
-[^key-9d8f6755a4af5d51f657dac906908dcd]: Textual amendment: Words in [reg. 3(4B)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/d)
+[^c-9d8f6755a4af5d51f657dac906908dcd]: Textual amendment: Words in [reg. 3(4B)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/4/d)
 
-[^key-d2ac23dc2cdcc768db8cb8f6ac46882b]: Textual amendment: Words in [reg. 3(4B)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/a)
+[^c-d2ac23dc2cdcc768db8cb8f6ac46882b]: Textual amendment: Words in [reg. 3(4B)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/a)
 
-[^key-04444fc93883b4b557a41070b7694d8f]: Textual amendment: Word in [reg. 3(4B)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/b)
+[^c-04444fc93883b4b557a41070b7694d8f]: Textual amendment: Word in [reg. 3(4B)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/b)
 
-[^key-f8ee2ff5d1547e7655aee442ef134455]: Textual amendment: [Reg. 3(4B)(ba)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B/ba) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/b)
+[^c-f8ee2ff5d1547e7655aee442ef134455]: Textual amendment: [Reg. 3(4B)(ba)](https://www.legislation.gov.uk/uksi/2015/878/regulation/3/4B/ba) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/4/b)
 
-[^key-8ea9dd505b6d87920fa10c6e301566b1]: Textual amendment: Words in reg. 3(5) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/4)
+[^c-8ea9dd505b6d87920fa10c6e301566b1]: Textual amendment: Words in reg. 3(5) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/598/regulation/5/4)
 
-[^key-fcfeecf2d72ccfbb4f7592670e083ece]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/878/regulation/4) heading omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/5)
+[^c-fcfeecf2d72ccfbb4f7592670e083ece]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/878/regulation/4) heading omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/5)
 
-[^key-e21f8a666291d877d7b0b4489249a27f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/878/regulation/4) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/5)
+[^c-e21f8a666291d877d7b0b4489249a27f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/878/regulation/4) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/5)
 
-[^key-ecae7fc1449217ea4f14b3726c427abf]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/6/1)
+[^c-ecae7fc1449217ea4f14b3726c427abf]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/6/1)
 
-[^key-23a928b4b1ae851202d3d889442a9f3e]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/2/b) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/6/a)
+[^c-23a928b4b1ae851202d3d889442a9f3e]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/2/b) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/6/a)
 
-[^key-cfd15a850a6e4eb1e89c664263a1341c]: Textual amendment: [Reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/6/b)
+[^c-cfd15a850a6e4eb1e89c664263a1341c]: Textual amendment: [Reg. 6(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/3/a) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/6/b)
 
-[^key-c1f53de5cc90909ae31fd84d237e52b2]: Textual amendment: [Reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/3/b) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/6/2)
+[^c-c1f53de5cc90909ae31fd84d237e52b2]: Textual amendment: [Reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/6/3/b) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/598/regulation/6/2)
 
 [^c22477301]: Marginal citation: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
-[^key-fd08cc088875ad9e65106f37c828f79b]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2015/878/regulation/7A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2025/740/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-fd08cc088875ad9e65106f37c828f79b]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2015/878/regulation/7A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2025/740/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-f07ba3ec61ff21d58c18c68688466cc7]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2015/878/regulation/10A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/740/regulation/6)
+[^c-f07ba3ec61ff21d58c18c68688466cc7]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2015/878/regulation/10A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/740/regulation/6)
 
-[^key-e6a798d6f492d3b18caeccd2b65a2ab2]: Textual amendment: Reg. 12A cross-heading omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/7/1)
+[^c-e6a798d6f492d3b18caeccd2b65a2ab2]: Textual amendment: Reg. 12A cross-heading omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/7/1)
 
-[^key-8c5eb86f524a311c96e67d78b78d1e8d]: Textual amendment: [Regs. 12A-12F](https://www.legislation.gov.uk/uksi/2015/878/regulation/12A) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/7/2)
+[^c-8c5eb86f524a311c96e67d78b78d1e8d]: Textual amendment: [Regs. 12A-12F](https://www.legislation.gov.uk/uksi/2015/878/regulation/12A) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/7/2)
 
-[^key-d862c93b859f8bec8f8842bfe98df8d6]: Textual amendment: [Reg. 12G](https://www.legislation.gov.uk/uksi/2015/878/regulation/12G) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/598/regulation/8)
+[^c-d862c93b859f8bec8f8842bfe98df8d6]: Textual amendment: [Reg. 12G](https://www.legislation.gov.uk/uksi/2015/878/regulation/12G) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2017/598/regulation/8)
 
-[^key-e2f38a7a392fcbbad1b8ec06822056b6]: Textual amendment: Words in [reg. 12G(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12G/1) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2025/740/regulation/8)
+[^c-e2f38a7a392fcbbad1b8ec06822056b6]: Textual amendment: Words in [reg. 12G(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12G/1) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2025/740/regulation/8)
 
-[^key-d37d26d3a9412eb3bec3e523f03e2a2d]: Textual amendment: [Reg. 12GA](https://www.legislation.gov.uk/uksi/2015/878/regulation/12GA) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2025/740/regulation/9)
+[^c-d37d26d3a9412eb3bec3e523f03e2a2d]: Textual amendment: [Reg. 12GA](https://www.legislation.gov.uk/uksi/2015/878/regulation/12GA) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2025/740/regulation/9)
 
-[^key-8ee7f55c18f902b90e25f069857f9495]: Textual amendment: [Reg. 12H](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/9/1)
+[^c-8ee7f55c18f902b90e25f069857f9495]: Textual amendment: [Reg. 12H](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/9/1)
 
-[^key-7193d6703f7ddba52a8fa7c215d47f27]: Textual amendment: Words in [reg. 12H(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/1) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/a)
+[^c-7193d6703f7ddba52a8fa7c215d47f27]: Textual amendment: Words in [reg. 12H(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/1) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/a)
 
-[^key-0f9d83bf779b7836e845a56e8c92e174]: Textual amendment: Words in [reg. 12H(1)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/1/a) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/b)
+[^c-0f9d83bf779b7836e845a56e8c92e174]: Textual amendment: Words in [reg. 12H(1)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/1/a) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/b)
 
-[^key-22e92c3d003ccee40dd89b0c2e470d4e]: Textual amendment: [Reg. 12H(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/3/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/c)
+[^c-22e92c3d003ccee40dd89b0c2e470d4e]: Textual amendment: [Reg. 12H(3)(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/3/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/c)
 
-[^key-5899d41e9642edf3a95f13d2ea9dadad]: Textual amendment: [Reg. 12H(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/3/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/c)
+[^c-5899d41e9642edf3a95f13d2ea9dadad]: Textual amendment: [Reg. 12H(3)(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/12H/3/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2025/740/regulation/10/c)
 
-[^key-4f925c67a08d7a1447c9a01d47401a7e]: Textual amendment: [Regs. 13-22](https://www.legislation.gov.uk/uksi/2015/878/regulation/13) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2025/740/regulation/11)
+[^c-4f925c67a08d7a1447c9a01d47401a7e]: Textual amendment: [Regs. 13-22](https://www.legislation.gov.uk/uksi/2015/878/regulation/13) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2025/740/regulation/11)
 
-[^key-703906b1729820aa6300ec8634fab07f]: Textual amendment: [Regs. 22A-22N](https://www.legislation.gov.uk/uksi/2015/878/regulation/22A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2025/740/regulation/12)
+[^c-703906b1729820aa6300ec8634fab07f]: Textual amendment: [Regs. 22A-22N](https://www.legislation.gov.uk/uksi/2015/878/regulation/22A) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2025/740/regulation/12)
 
-[^key-f8256ee199b2e98084d62688ad929f64]: Textual amendment: Words in reg. 23 substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/18/a)
+[^c-f8256ee199b2e98084d62688ad929f64]: Textual amendment: Words in reg. 23 substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/18/a)
 
-[^key-2758f9c62ea90391253772fce22d8671]: Textual amendment: Words in [reg. 23(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/23/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/13/a)
+[^c-2758f9c62ea90391253772fce22d8671]: Textual amendment: Words in [reg. 23(a)](https://www.legislation.gov.uk/uksi/2015/878/regulation/23/a) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/13/a)
 
-[^key-0971855075fc4768f9918e4c495200a6]: Textual amendment: Words in [reg. 23(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/23/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/13/b)
+[^c-0971855075fc4768f9918e4c495200a6]: Textual amendment: Words in [reg. 23(b)](https://www.legislation.gov.uk/uksi/2015/878/regulation/23/b) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2025/740/regulation/13/b)
 
-[^key-26ab6f906adb8885e3d29fefa8872ac1]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/1) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/a)
+[^c-26ab6f906adb8885e3d29fefa8872ac1]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/1) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/a)
 
 [^c22477321]: Marginal citation: The Regulations can be found on the US Department of the Treasury website at http://www.treasury.gov/resource-center/tax-policy/treaties/Pages/FATCA.aspx.
 
-[^key-5d77b9f11cfb22699379e637e50f9f0c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/c)
+[^c-5d77b9f11cfb22699379e637e50f9f0c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/c)
 
-[^key-194d812bc6eba5bfb03f8adb4539b14f]: Textual amendment: Words in reg. 24(2) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/a)
+[^c-194d812bc6eba5bfb03f8adb4539b14f]: Textual amendment: Words in reg. 24(2) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/a)
 
-[^key-646895384b1129df8793b48cb2d8168e]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-646895384b1129df8793b48cb2d8168e]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-b0afa573753e912bebcf43d51194b163]: Textual amendment: Words in reg. 24(2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/a)
+[^c-b0afa573753e912bebcf43d51194b163]: Textual amendment: Words in reg. 24(2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/a)
 
-[^key-cfc35d0cda464a7692e4d7269cd3db25]: Textual amendment: Words in reg. 24(2) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/a)
+[^c-cfc35d0cda464a7692e4d7269cd3db25]: Textual amendment: Words in reg. 24(2) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/a)
 
-[^key-ec4dc36511ff959e7afd659714c3fbda]: Textual amendment: Words in reg. 24(2) inserted (30.9.2016) by [The International Tax Compliance (Client Notification) Regulations 2016 (S.I. 2016/899)](https://www.legislation.gov.uk/uksi/2016/899), [regs. 1](https://www.legislation.gov.uk/uksi/2016/899/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/899/regulation/6/a)
+[^c-ec4dc36511ff959e7afd659714c3fbda]: Textual amendment: Words in reg. 24(2) inserted (30.9.2016) by [The International Tax Compliance (Client Notification) Regulations 2016 (S.I. 2016/899)](https://www.legislation.gov.uk/uksi/2016/899), [regs. 1](https://www.legislation.gov.uk/uksi/2016/899/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/899/regulation/6/a)
 
-[^key-5f1d127d0deeaed21bad2f4e366e9867]: Textual amendment: Words in reg. 24(2) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/b)
+[^c-5f1d127d0deeaed21bad2f4e366e9867]: Textual amendment: Words in reg. 24(2) inserted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/b)
 
-[^key-d448045fb2f8a35a2e322225d0946048]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-d448045fb2f8a35a2e322225d0946048]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
-[^key-d5dde5aae21ee911b069f96acdf2979b]: Textual amendment: Words in reg. 24(2) inserted (30.9.2016) by [The International Tax Compliance (Client Notification) Regulations 2016 (S.I. 2016/899)](https://www.legislation.gov.uk/uksi/2016/899), [regs. 1](https://www.legislation.gov.uk/uksi/2016/899/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/899/regulation/6/b)
+[^c-d5dde5aae21ee911b069f96acdf2979b]: Textual amendment: Words in reg. 24(2) inserted (30.9.2016) by [The International Tax Compliance (Client Notification) Regulations 2016 (S.I. 2016/899)](https://www.legislation.gov.uk/uksi/2016/899), [regs. 1](https://www.legislation.gov.uk/uksi/2016/899/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/899/regulation/6/b)
 
-[^key-958a7b1a85be3817ecc5cdc2010b3539]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(iii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-958a7b1a85be3817ecc5cdc2010b3539]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(iii)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-b7e0d5302fba341b97cc627631d38934]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-b7e0d5302fba341b97cc627631d38934]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
-[^key-87da8e30a1b82291f1c581292754933c]: Textual amendment: Words in reg. 24(2) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/c)
+[^c-87da8e30a1b82291f1c581292754933c]: Textual amendment: Words in reg. 24(2) substituted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/c)
 
-[^key-1f592658fa232de6d30048bce2c14dc2]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/b)
+[^c-1f592658fa232de6d30048bce2c14dc2]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (31.12.2020) by virtue of [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/b)
 
-[^key-635b845c29d1524aa9a2c4288e7d80e8]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/d/i)
+[^c-635b845c29d1524aa9a2c4288e7d80e8]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/d/i)
 
-[^key-ca1fe04e04e20c0eca51c143b076d2cc]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(v)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/v) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-ca1fe04e04e20c0eca51c143b076d2cc]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(v)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/v) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-de007a04711a5f19280c58c69c3cda5b]: Textual amendment: Words in reg. 24(2) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/b)
+[^c-de007a04711a5f19280c58c69c3cda5b]: Textual amendment: Words in reg. 24(2) inserted (17.5.2017) by [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2017/598/regulation/19/b)
 
-[^key-ac601a515286b79214b53121fcde65b1]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/d/ii)
+[^c-ac601a515286b79214b53121fcde65b1]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/d/ii)
 
-[^key-42721df2e0ea0e7aeab06212a7ef5920]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(iv)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/iv) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
+[^c-42721df2e0ea0e7aeab06212a7ef5920]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(iv)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/iv) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/2))
 
-[^key-9ea3b4ed22e58883ec2431a6bfefa559]: Textual amendment: Words in reg. 24(2) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/c)
+[^c-9ea3b4ed22e58883ec2431a6bfefa559]: Textual amendment: Words in reg. 24(2) substituted (20.11.2015) by [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/5/c)
 
-[^key-e07f1ff062ac613deebed9765b6c8732]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(vi)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/vi)
+[^c-e07f1ff062ac613deebed9765b6c8732]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) inserted (16.7.2025) by [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(vi)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/vi)
 
-[^key-f931bbb2580c09f48b2604002beeb97c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(i)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/i)
+[^c-f931bbb2580c09f48b2604002beeb97c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/2) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [14(b)(i)](https://www.legislation.gov.uk/uksi/2025/740/regulation/14/b/i)
 
-[^key-5d39265de56afe079b1ce0df290823c4]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/3)[(4)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/4) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-5d39265de56afe079b1ce0df290823c4]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/3)[(4)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/4) inserted (13.5.2020) by [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
-[^key-743402d41831c5781df0bae7337eed17]: Textual amendment: Words in [reg. 24(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/3/b/ii) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/e)
+[^c-743402d41831c5781df0bae7337eed17]: Textual amendment: Words in [reg. 24(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/878/regulation/24/3/b/ii) substituted (31.12.2020) by [The International Tax Compliance (Amendment) (No. 2) (EU Exit) Regulations 2020 (S.I. 2020/1300)](https://www.legislation.gov.uk/uksi/2020/1300), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1300/regulation/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2020/1300/regulation/2/8/e)
 
 [^c22477331]: Marginal citation: [S.I. 2014/1506](https://www.legislation.gov.uk/uksi/2014/1506).
 
-[^key-bd99a3eee3698add06a856c0ce92990c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/878/schedule/1) omitted (17.5.2017) by virtue of [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2017/598/regulation/20)
+[^c-bd99a3eee3698add06a856c0ce92990c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/878/schedule/1) omitted (17.5.2017) by virtue of [The International Tax Compliance (Amendment) Regulations 2017 (S.I. 2017/598)](https://www.legislation.gov.uk/uksi/2017/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/598/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2017/598/regulation/20)
 
 [^c22477341]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-c562ce8649aeda751d305a87f9982244]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/2) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-c562ce8649aeda751d305a87f9982244]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/2) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
 [^c22477351]: Marginal citation: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
@@ -927,16 +927,16 @@ A Tax Information and Impact Note covering this instrument was published on 18th
 
 [^c22477371]: Marginal citation: [2004 c. 6](https://www.legislation.gov.uk/ukpga/2004/6).
 
-[^key-a18e62b2385d27ef02323ac6774e23c7]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/6) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-a18e62b2385d27ef02323ac6774e23c7]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/6) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
-[^key-a153d3d32573594279f068237cd734ec]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/8) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-a153d3d32573594279f068237cd734ec]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/8) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
-[^key-927438a6a7a7d7e473807b8890fb37c6]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/9) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
+[^c-927438a6a7a7d7e473807b8890fb37c6]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2015/878/schedule/2/paragraph/9) omitted (13.5.2020) by virtue of [The International Tax Compliance (Amendment) Regulations 2020 (S.I. 2020/438)](https://www.legislation.gov.uk/uksi/2020/438), [regs. 1](https://www.legislation.gov.uk/uksi/2020/438/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/438/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/438/regulation/3))
 
 [^c22477381]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
 [^c22477391]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-089c0e34f01c83616d404bbaf8d76d5f]: Textual amendment: Sch. 2 paras. 14, 15 omitted (20.11.2015) by virtue of [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/7)
+[^c-089c0e34f01c83616d404bbaf8d76d5f]: Textual amendment: Sch. 2 paras. 14, 15 omitted (20.11.2015) by virtue of [The International Tax Compliance (Amendment) Regulations 2015 (S.I. 2015/1839)](https://www.legislation.gov.uk/uksi/2015/1839), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1839/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/1839/regulation/2/7)
 
-[^key-308548da30721ee0edd698df1e9c8f73]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/878/schedule/3) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2025/740/regulation/15)
+[^c-308548da30721ee0edd698df1e9c8f73]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/878/schedule/3) omitted (16.7.2025) by virtue of [The International Tax Compliance (Amendment) Regulations 2025 (S.I. 2025/740)](https://www.legislation.gov.uk/uksi/2025/740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/740/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2025/740/regulation/15)

@@ -34,7 +34,7 @@ Agriculture, England
 
 Water, England
 
-The Nitrate Pollution Prevention (Designation and Miscellaneous Amendments) Regulations 2013 (revoked)[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+The Nitrate Pollution Prevention (Designation and Miscellaneous Amendments) Regulations 2013 (revoked)[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 Made
 
@@ -48,39 +48,39 @@ Coming into force
 
 18th November 2013
 
-[^key-b9942ceaf607223d5e499ec7b4d94bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9942ceaf607223d5e499ec7b4d94bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+## 1. Citation, application and commencement[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Nitrate Pollution Prevention Regulations 2008[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+## 2. Amendment of the Nitrate Pollution Prevention Regulations 2008[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments in respect of the designation of nitrate vulnerable zones[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+## 3. Amendments in respect of the designation of nitrate vulnerable zones[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments in respect of the action programme measures[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+## 4. Amendments in respect of the action programme measures[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b9942ceaf607223d5e499ec7b4d94bc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b9942ceaf607223d5e499ec7b4d94bc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b9942ceaf607223d5e499ec7b4d94bc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b9942ceaf607223d5e499ec7b4d94bc5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to Schedules[^key-b9942ceaf607223d5e499ec7b4d94bc5]
+## 7. Amendments to Schedules[^c-b9942ceaf607223d5e499ec7b4d94bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9942ceaf607223d5e499ec7b4d94bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9942ceaf607223d5e499ec7b4d94bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b9942ceaf607223d5e499ec7b4d94bc5]EXPLANATORY NOTE
+[^c-b9942ceaf607223d5e499ec7b4d94bc5]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -96,4 +96,4 @@ No impact assessment has been carried out in respect of these Regulations as no 
 
 ## Annotations
 
-[^key-b9942ceaf607223d5e499ec7b4d94bc5]: Textual amendment: Regulations revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), regs. 1(2), [44(f)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/f)
+[^c-b9942ceaf607223d5e499ec7b4d94bc5]: Textual amendment: Regulations revoked (1.5.2015) by [The Nitrate Pollution Prevention Regulations 2015 (S.I. 2015/668)](https://www.legislation.gov.uk/uksi/2015/668), regs. 1(2), [44(f)](https://www.legislation.gov.uk/uksi/2015/668/regulation/44/f)

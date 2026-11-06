@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Powers of trustee exercisable with or without sanction in a bankruptcy[^key-523d7c642d20b1e50df9eeaba81c6c82]
+## 8. Powers of trustee exercisable with or without sanction in a bankruptcy[^c-523d7c642d20b1e50df9eeaba81c6c82]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-523d7c642d20b1e50df9eeaba81c6c82]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/2/section/8) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-523d7c642d20b1e50df9eeaba81c6c82]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/2/section/8) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

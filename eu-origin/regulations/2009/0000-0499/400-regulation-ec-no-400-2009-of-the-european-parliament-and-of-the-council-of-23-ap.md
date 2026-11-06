@@ -33,16 +33,16 @@ of 23 April 2009
 
 amending Council Regulation (EC) No 2223/96 on the European system of national and regional accounts in the Community as regards the implementing powers conferred on the Commission (revoked)
 
-[^key-61c9152c26e352b95a84e49a7c9a87e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61c9152c26e352b95a84e49a7c9a87e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-61c9152c26e352b95a84e49a7c9a87e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-61c9152c26e352b95a84e49a7c9a87e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-61c9152c26e352b95a84e49a7c9a87e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-61c9152c26e352b95a84e49a7c9a87e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61c9152c26e352b95a84e49a7c9a87e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61c9152c26e352b95a84e49a7c9a87e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61c9152c26e352b95a84e49a7c9a87e1]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/59)
+[^c-61c9152c26e352b95a84e49a7c9a87e1]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/59)

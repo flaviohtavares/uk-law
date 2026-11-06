@@ -16,12 +16,12 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Investments in housing.[^key-169a57b36864cf21187c974743d512f6]
+## 160. Investments in housing.[^c-169a57b36864cf21187c974743d512f6]
 
 *Extent: E+W+S+N.I.*
 
-Schedule 30 to this Act (which makes provision conferring relief from corporation tax on companies that invest in housing) shall have effect. *(affected by repeal, see note)*[^key-169a57b36864cf21187c974743d512f6]
+Schedule 30 to this Act (which makes provision conferring relief from corporation tax on companies that invest in housing) shall have effect. *(affected by repeal, see note)*[^c-169a57b36864cf21187c974743d512f6]
 
 ## Annotations
 
-[^key-169a57b36864cf21187c974743d512f6]: Textual amendment: S. 160 ceased to have effect (with effect in accordance with s. 145(2) of the amending Act) by virtue of [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 143](https://www.legislation.gov.uk/ukpga/2006/25/section/143)
+[^c-169a57b36864cf21187c974743d512f6]: Textual amendment: S. 160 ceased to have effect (with effect in accordance with s. 145(2) of the amending Act) by virtue of [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 143](https://www.legislation.gov.uk/ukpga/2006/25/section/143)

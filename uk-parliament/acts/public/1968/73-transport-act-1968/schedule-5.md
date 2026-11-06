@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Passenger Transport Authorities and Executives (affected by repeal, see note) Passenger Transport Executives[^key-992a4b72bec679a28d44065cfb7874f8]
+## SCHEDULE 5 — Passenger Transport Authorities and Executives (affected by repeal, see note) Passenger Transport Executives[^c-992a4b72bec679a28d44065cfb7874f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 9.
 
 ### Part I[^c15339971][^c15423011]
 
-#### The Authority[^key-992a4b72bec679a28d44065cfb7874f81][^key-992a4b72bec679a28d44065cfb7874f82]
+#### The Authority[^c-992a4b72bec679a28d44065cfb7874f81][^c-992a4b72bec679a28d44065cfb7874f82]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ and the chairman of the Authority shall be such one of their number as the membe
 
 *Extent: E+W+N.I.*
 
-**2.**[^c15340101] No person who is for the time being a member of the Authority for the integrated transport area or, as the case may be, *(Extent: E.W.)*[^M_F_82bc2eb3-935c-4a2d-a541-c272ce9dca0d] the combined authority area[^key-30ef2824bee58cd5c4f59a96fdf36bc6] , the combined county authority area *(Extent: E+W)*[^key-90096d3d54c53af3d5c1c5fc39462412] or the passenger transport area shall be appointed as a member of the Executive, and any person appointed to be a member of the Executive who subsequently becomes a member of the Authority for the integrated transport area or, as the case may be, *(Extent: E.W.)* the combined authority area , the combined county authority area *(Extent: E+W)* or the passenger transport area shall forthwith vacate his membership of the Executive.
+**2.**[^c15340101] No person who is for the time being a member of the Authority for the integrated transport area or, as the case may be, *(Extent: E.W.)*[^M_F_82bc2eb3-935c-4a2d-a541-c272ce9dca0d] the combined authority area[^c-30ef2824bee58cd5c4f59a96fdf36bc6] , the combined county authority area *(Extent: E+W)*[^c-90096d3d54c53af3d5c1c5fc39462412] or the passenger transport area shall be appointed as a member of the Executive, and any person appointed to be a member of the Executive who subsequently becomes a member of the Authority for the integrated transport area or, as the case may be, *(Extent: E.W.)* the combined authority area , the combined county authority area *(Extent: E+W)* or the passenger transport area shall forthwith vacate his membership of the Executive.
 
 *Extent: S*
 
@@ -94,7 +94,7 @@ and the chairman of the Authority shall be such one of their number as the membe
 
 **11.** Provision—
 
-- (a) for treating the Authority or[^c15340381] any subsidiary of the Executive for the purposes of pensions to or in respect of persons who are or have been employed by them as if they were the Executive for an integrated transport area *(Extent: E+W)*[^key-c47bbb1ce8af96b5a481c168334a0e42] , a combined authority area[^key-23d3f93d9ad9c8446e1bcafed3d99730] , a combined county authority area *(Extent: E+W)*[^key-c744de1223cedbb752a2bff44ad2d137] or a designated[^c15340391] passenger transport area;
+- (a) for treating the Authority or[^c15340381] any subsidiary of the Executive for the purposes of pensions to or in respect of persons who are or have been employed by them as if they were the Executive for an integrated transport area *(Extent: E+W)*[^c-c47bbb1ce8af96b5a481c168334a0e42] , a combined authority area[^c-23d3f93d9ad9c8446e1bcafed3d99730] , a combined county authority area *(Extent: E+W)*[^c-c744de1223cedbb752a2bff44ad2d137] or a designated[^c15340391] passenger transport area;
 - (b) as to the fund in the benefits of which any persons who are or have been employed by the Authority the Executive or a subsidiary of the Executive are to be entitled to participate;
 - (c)[^c15340421] for the transfer to the authority administering that fund in relation to any such persons, instead of to the Executive, of any other fund in the benefits of which those persons are entitled to participate which would otherwise fall to be transferred to the Executive by an order under section 17 of this Act.
 
@@ -112,15 +112,15 @@ and the chairman of the Authority shall be such one of their number as the membe
 
 ## Annotations
 
-[^key-992a4b72bec679a28d44065cfb7874f8]: Textual amendment: Sch. 5 heading substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 17(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/17/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-992a4b72bec679a28d44065cfb7874f8]: Textual amendment: Sch. 5 heading substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 17(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/17/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c15339971]: Textual amendment: Sch. 5 Pt. I repealed (S.) by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
 [^c15423011]: Textual amendment: Sch. 5 Pt. I repealed (E.W.S.) by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 3 para. 21(1)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/21/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/67/schedule/8)
 
-[^key-992a4b72bec679a28d44065cfb7874f81]: Extent: This version of this provision extends to S+N.I. only. A new version of this provision has been created for E+W
+[^c-992a4b72bec679a28d44065cfb7874f81]: Extent: This version of this provision extends to S+N.I. only. A new version of this provision has been created for E+W
 
-[^key-992a4b72bec679a28d44065cfb7874f82]: Extent: This version of this provision extends to E+W only. The original version of this provision exists for S+N.I.
+[^c-992a4b72bec679a28d44065cfb7874f82]: Extent: This version of this provision extends to E+W only. The original version of this provision exists for S+N.I.
 
 [^c15339981]: Textual amendment: Para 1(b) repealed (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -136,9 +136,9 @@ and the chairman of the Authority shall be such one of their number as the membe
 
 [^M_F_82bc2eb3-935c-4a2d-a541-c272ce9dca0d]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/2/paragraph/2) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 17(2)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/17/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-30ef2824bee58cd5c4f59a96fdf36bc6]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/2/paragraph/2) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9/4/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-30ef2824bee58cd5c4f59a96fdf36bc6]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/2/paragraph/2) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9/4/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
-[^key-90096d3d54c53af3d5c1c5fc39462412]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/2/paragraph/2) inserted (E.W.) (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/19/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-90096d3d54c53af3d5c1c5fc39462412]: Textual amendment: Words in [Sch. 5 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/2/paragraph/2) inserted (E.W.) (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 19(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/19/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c15340111]: Textual amendment: Words substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 18 para. 21(2)](https://www.legislation.gov.uk/ukpga/1973/65/schedule/18/paragraph/21/2)
 
@@ -176,11 +176,11 @@ and the chairman of the Authority shall be such one of their number as the membe
 
 [^c15340381]: Textual amendment: Words repealed (E.W.S.) by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/21/3)(*d*), Sch. 8
 
-[^key-c47bbb1ce8af96b5a481c168334a0e42]: Textual amendment: Words in Sch. 5 para. 11 inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/17/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-c47bbb1ce8af96b5a481c168334a0e42]: Textual amendment: Words in Sch. 5 para. 11 inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 17(3)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/17/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-23d3f93d9ad9c8446e1bcafed3d99730]: Textual amendment: Words in Sch. 5 para. 11(a) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9/4/b); S.I. 2015/994, art. 11(o)
+[^c-23d3f93d9ad9c8446e1bcafed3d99730]: Textual amendment: Words in Sch. 5 para. 11(a) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e), [Sch. 8 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9/4/b); S.I. 2015/994, art. 11(o)
 
-[^key-c744de1223cedbb752a2bff44ad2d137]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 11](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/3/paragraph/11) inserted (E.W.) (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/19/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c744de1223cedbb752a2bff44ad2d137]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 11](https://www.legislation.gov.uk/ukpga/1968/73/schedule/5/part/3/paragraph/11) inserted (E.W.) (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 19(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/19/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c15340391]: Textual amendment: Words “passenger transport" substituted (E.W.S.) for “designated" by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/2)(*b*)
 

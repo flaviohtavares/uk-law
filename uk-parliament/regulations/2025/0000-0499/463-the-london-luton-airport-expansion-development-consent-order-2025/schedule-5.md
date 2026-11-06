@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-3071b3a12652e59ba8c5eb9c9c51a83c]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-3071b3a12652e59ba8c5eb9c9c51a83c]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ Article 27
 </tbody>
 </table>
 
-[^key-a5670a4e241fb83f3dbff588299e35bb][^key-a5670a4e241fb83f3dbff588299e35bb]
+[^c-a5670a4e241fb83f3dbff588299e35bb][^c-a5670a4e241fb83f3dbff588299e35bb]
 
 ## Annotations
 
-[^key-3071b3a12652e59ba8c5eb9c9c51a83c]: Commencement: Sch. 5 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-3071b3a12652e59ba8c5eb9c9c51a83c]: Commencement: Sch. 5 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
-[^key-a5670a4e241fb83f3dbff588299e35bb]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2025/463/schedule/5) omitted (21.3.2026) by virtue of [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-a5670a4e241fb83f3dbff588299e35bb]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2025/463/schedule/5) omitted (21.3.2026) by virtue of [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

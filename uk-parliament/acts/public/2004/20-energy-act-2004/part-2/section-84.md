@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Exploitation of areas outside the territorial sea for energy production[^key-ff6e2060f37ffcbd126aafd6e73dd5c9]
+## 84. Exploitation of areas outside the territorial sea for energy production[^c-ff6e2060f37ffcbd126aafd6e73dd5c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) The other purposes so connected include, in particular, the transmission, distribution and supply of electricity generated in the course of such exploitation.
 
-(4)[^key-008da349a4bdf5d706fc0af20627a5ac] The area within which the rights to which this section applies are exercisable (the “Renewable Energy Zone”)—
+(4)[^c-008da349a4bdf5d706fc0af20627a5ac] The area within which the rights to which this section applies are exercisable (the “Renewable Energy Zone”)—
 
 - (a) is any area for the time being designated under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone), but
 - (b) if Her Majesty by Order in Council declares that the Renewable Energy Zone extends to such other area as may be specified in the Order, is the area resulting from the Order.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff6e2060f37ffcbd126aafd6e73dd5c9]: Commencement: S. 84 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ff6e2060f37ffcbd126aafd6e73dd5c9]: Commencement: S. 84 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-008da349a4bdf5d706fc0af20627a5ac]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/ukpga/2004/20/section/84/4) substituted (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/4/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-008da349a4bdf5d706fc0af20627a5ac]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/ukpga/2004/20/section/84/4) substituted (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/4/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)

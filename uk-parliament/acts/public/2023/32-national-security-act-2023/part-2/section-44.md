@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Directions hearing[^key-cf74630c6d95ef3d39880dca244f2fda][^key-49774418f9f25622bf121a37ec8c254e]
+## 44. Directions hearing[^c-cf74630c6d95ef3d39880dca244f2fda][^c-49774418f9f25622bf121a37ec8c254e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf74630c6d95ef3d39880dca244f2fda]: Commencement: S. 44 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-cf74630c6d95ef3d39880dca244f2fda]: Commencement: S. 44 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-49774418f9f25622bf121a37ec8c254e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/32/section/44) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-49774418f9f25622bf121a37ec8c254e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/32/section/44) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

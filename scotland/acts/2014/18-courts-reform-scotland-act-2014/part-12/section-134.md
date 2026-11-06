@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Act, references to a sheriff include references to any other member of the judiciary of a sheriffdom, so far as that member has the jurisdiction and competence that attaches to the office of sheriff.
 
-(2)[^key-8108208e93b538286f3c759a47ab99a2] So far as necessary for the purposes, or in consequence, of the exercise by a member of the judiciary of a sheriffdom other than a sheriff of the jurisdiction and competence of a sheriff, references in any other enactment to a sheriff are to be read as including references to any of the members of the judiciary of a sheriffdom.
+(2)[^c-8108208e93b538286f3c759a47ab99a2] So far as necessary for the purposes, or in consequence, of the exercise by a member of the judiciary of a sheriffdom other than a sheriff of the jurisdiction and competence of a sheriff, references in any other enactment to a sheriff are to be read as including references to any of the members of the judiciary of a sheriffdom.
 
 (3) Subsections (1) and (2) do not apply—
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c2227696]: Commencement: [S. 134](https://www.legislation.gov.uk/asp/2014/18/section/134) partly in force; [s. 134(1)(3)](https://www.legislation.gov.uk/asp/2014/18/section/134/1/3) in force at 11.11.2014, see [s. 138(1)](https://www.legislation.gov.uk/asp/2014/18/section/138/1)
 
-[^key-8108208e93b538286f3c759a47ab99a2]: Commencement: [S. 134(2)](https://www.legislation.gov.uk/asp/2014/18/section/134/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8108208e93b538286f3c759a47ab99a2]: Commencement: [S. 134(2)](https://www.legislation.gov.uk/asp/2014/18/section/134/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

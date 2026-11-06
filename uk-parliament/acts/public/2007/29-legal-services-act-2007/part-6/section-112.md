@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-0929c70831f38b8dbfe7094c73f4b2ac] The regulatory arrangements of an approved regulator must make provision requiring each relevant authorised person—
+(1)[^c-0929c70831f38b8dbfe7094c73f4b2ac] The regulatory arrangements of an approved regulator must make provision requiring each relevant authorised person—
 
 - (a) to establish and maintain procedures for the resolution of relevant complaints, or
 - (b) to participate in, or make arrangements to be subject to, such procedures established and maintained by another person,
@@ -29,7 +29,7 @@ and provision for the enforcement of that requirement.
 
 (2) The provision made for the purposes of subsection (1) must satisfy such requirements as the Board may, from time to time, specify for the purposes of that subsection.
 
-(3)[^key-0929c70831f38b8dbfe7094c73f4b2ac] In this section—
+(3)[^c-0929c70831f38b8dbfe7094c73f4b2ac] In this section—
 
 - “**relevant authorised person**”, in relation to an approved regulator, means a person in relation to whom the approved regulator is a relevant approved regulator;
 - “**relevant complaint**”, in relation to a relevant authorised person, means a complaint which—
@@ -48,4 +48,4 @@ and provision for the enforcement of that requirement.
 
 [^c20330181]: Commencement: S. 112 partly in force; s. 112 not in force at Royal Assent see s. 211; s. 112(2)(4) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/e/i)
 
-[^key-0929c70831f38b8dbfe7094c73f4b2ac]: Commencement: S. 112(1)(3) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-0929c70831f38b8dbfe7094c73f4b2ac]: Commencement: S. 112(1)(3) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

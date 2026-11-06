@@ -50,11 +50,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 2(4) of that Act, they have consulted the Scottish Environment Protection Agency, such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses respectively as they consider appropriate, and such other bodies or persons as they consider appropriate.
 
-## 1. Citation and commencement[^key-937d3ed1613f77d557365b274775d69b]
+## 1. Citation and commencement[^c-937d3ed1613f77d557365b274775d69b]
 
 These Regulations may be cited as the Pollution Prevention and Control (Scotland) Amendment Regulations 2008 and come into force on 19th January 2009.
 
-## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-61f6347d8909293d12f1ea5cc20770c2]
+## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-61f6347d8909293d12f1ea5cc20770c2]
 
 (1) The Pollution Prevention and Control (Scotland) Regulations 2000[^f00002] are amended as follows.
 
@@ -103,7 +103,7 @@ Edinburgh
 
 10th December 2008
 
-## SCHEDULE — NEW PART 6 OF SCHEDULE 3 TO THE POLLUTION PREVENTION AND CONTROL (SCOTLAND) REGULATIONS 2000[^key-5df9cc00273601553c095a15fa973696]
+## SCHEDULE — NEW PART 6 OF SCHEDULE 3 TO THE POLLUTION PREVENTION AND CONTROL (SCOTLAND) REGULATIONS 2000[^c-5df9cc00273601553c095a15fa973696]
 
 Regulation 2(4)
 
@@ -138,12 +138,12 @@ A regulatory impact assessment was prepared in 2005 and a copy has been placed i
 
 [^f00001]: Footnote: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with section 5(3) of the said Act of 1999.
 
-[^key-937d3ed1613f77d557365b274775d69b]: Commencement: Reg. 1 in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)
+[^c-937d3ed1613f77d557365b274775d69b]: Commencement: Reg. 1 in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)
 
-[^key-61f6347d8909293d12f1ea5cc20770c2]: Commencement: Reg. 2 in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)
+[^c-61f6347d8909293d12f1ea5cc20770c2]: Commencement: Reg. 2 in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), relevantly amended by [S.S.I. 2004/512](https://www.legislation.gov.uk/ssi/2004/512).
 
 [^f00003]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8), to which there are amendments not relevant to these Regulations.
 
-[^key-5df9cc00273601553c095a15fa973696]: Commencement: Sch. in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)
+[^c-5df9cc00273601553c095a15fa973696]: Commencement: Sch. in force at 19.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/410/regulation/1)

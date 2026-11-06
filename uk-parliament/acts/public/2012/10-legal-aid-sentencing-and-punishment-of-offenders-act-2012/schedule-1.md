@@ -22,7 +22,7 @@ summary: ''
 
 Section 9
 
-### Part 1 — Services[^key-2742166d57a2408f29c5d4c240e99ab7]
+### Part 1 — Services[^c-2742166d57a2408f29c5d4c240e99ab7]
 
 #### Care, supervision and protection of children
 
@@ -32,7 +32,7 @@ Section 9
 - (b) orders under Part 4 of the 1989 Act (care and supervision);
 - (c) orders under Part 5 of the 1989 Act (protection of children);
 - (d) approval by a court under paragraph 19 of Schedule 2 to the 1989 Act (arrangements to assist children to live abroad);
-- (e) parenting orders under section 8 of the Crime and Disorder Act 1998 (“**the 1998 Act**”) or section 366 or 369 of the Sentencing Code[^key-ff7fe8363762cfa393673f7acd1a2816];
+- (e) parenting orders under section 8 of the Crime and Disorder Act 1998 (“**the 1998 Act**”) or section 366 or 369 of the Sentencing Code[^c-ff7fe8363762cfa393673f7acd1a2816];
 - (f) child safety orders under section 11 of the 1998 Act;
 - (g) orders for contact under section 26 of the Adoption and Children Act 2002 (“**the 2002 Act**”);
 - (h) applications for leave of the court to remove a child from a person's custody under section 36 of the 2002 Act;
@@ -54,7 +54,7 @@ Section 9
 
 (4) In this paragraph “**children**” means persons under the age of 18.
 
-#### Special Guardianship[^key-ac724d316869fffad09a03b9471bff3a]
+#### Special Guardianship[^c-ac724d316869fffad09a03b9471bff3a]
 
 **1A.** (1) Civil legal services provided in relation to special guardianship orders as defined in section 14A of the Children Act 1989.
 
@@ -66,7 +66,7 @@ Section 9
 
 **2.** (1) Civil legal services provided in relation to—
 
-- (a) matters arising under Part 4 of the Education Act 1996 *(affected by repeal, see note)*[^key-d16101fd654fb62db9f794f8b7c04b77] Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 or Part 3 of the Children and Families Act 2014[^M_F_70bf2646-a9c1-4a8b-b38d-1bdaee97fac6] (special educational needs);
+- (a) matters arising under Part 4 of the Education Act 1996 *(affected by repeal, see note)*[^c-d16101fd654fb62db9f794f8b7c04b77] Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 or Part 3 of the Children and Families Act 2014[^M_F_70bf2646-a9c1-4a8b-b38d-1bdaee97fac6] (special educational needs);
 - (b) assessments relating to learning difficulties under section[^M_F_b9e21e92-c383-43ef-b277-4a489935d0ce] 140 of the Learning and Skills Act 2000.
 
 *Exclusions*
@@ -292,17 +292,17 @@ Section 9
 
 (5) In this paragraph “**child**” means a person under the age of 18.
 
-#### Family homes and domestic abuse[^key-be5562a1a3f213d6a85574a59e738835]
+#### Family homes and domestic abuse[^c-be5562a1a3f213d6a85574a59e738835]
 
 **11.** (1) Civil legal services provided in relation to home rights, occupation orders and non-molestation orders under Part 4 of the Family Law Act 1996.
 
-(1A)[^M_F_608f4de3-9427-4f6d-90ef-2cd8d9cc3a73] Civil legal services provided in relation to the following applications or proceedings under the Domestic Abuse Act 2021[^key-2c0f7ed8e8710414f635d84e4c72f5b9]—
+(1A)[^M_F_608f4de3-9427-4f6d-90ef-2cd8d9cc3a73] Civil legal services provided in relation to the following applications or proceedings under the Domestic Abuse Act 2021[^c-2c0f7ed8e8710414f635d84e4c72f5b9]—
 
-- (a) an application [^key-77e263809fb7445f310f1969bc8e1038]...under section 28 (domestic abuse protection orders on application)[^key-fb31e993a58ffe4884da8a19cb106ab3] [^key-77e263809fb7445f310f1969bc8e1038]...;
-- (b) proceedings under section 31(2) or (7) (domestic abuse protection orders on family or civil court’s own motion)[^key-047fa03e50ae0cc83aceaa1214131476] so far as those proceedings relate to a domestic abuse protection order;
-- (ba)[^key-2a9aaf2552f9398aed9eb3e9f214eec3] proceedings under section 31(3), (5) or (6) (domestic abuse protection orders on criminal court’s own motion) so far as those proceedings relate to a domestic abuse protection order;
+- (a) an application [^c-77e263809fb7445f310f1969bc8e1038]...under section 28 (domestic abuse protection orders on application)[^c-fb31e993a58ffe4884da8a19cb106ab3] [^c-77e263809fb7445f310f1969bc8e1038]...;
+- (b) proceedings under section 31(2) or (7) (domestic abuse protection orders on family or civil court’s own motion)[^c-047fa03e50ae0cc83aceaa1214131476] so far as those proceedings relate to a domestic abuse protection order;
+- (ba)[^c-2a9aaf2552f9398aed9eb3e9f214eec3] proceedings under section 31(3), (5) or (6) (domestic abuse protection orders on criminal court’s own motion) so far as those proceedings relate to a domestic abuse protection order;
 - (bb) proceedings under section 40 (arrest for breach of an order);
-- (bc)[^key-ea2eb173e9b28c836fabd58f8c2eadcc] proceedings under section 44(2)(b) (variation and discharge of orders on court’s own motion) in a case where the court hearing the proceedings could make a domestic abuse protection order under section 31(3), (5) or (6), so far as those proceedings relate to a domestic abuse protection order;
+- (bc)[^c-ea2eb173e9b28c836fabd58f8c2eadcc] proceedings under section 44(2)(b) (variation and discharge of orders on court’s own motion) in a case where the court hearing the proceedings could make a domestic abuse protection order under section 31(3), (5) or (6), so far as those proceedings relate to a domestic abuse protection order;
 - (c) proceedings under section 44 (variation and discharge of orders) not within paragraph (bc);
 - (d) proceedings on an appeal under section 46(1) (appeal of decision on application for domestic abuse protection order under section 28);
 - (e) proceedings on an appeal under section 46(3) or (4) (appeal by person subject to an order against its making or variation on criminal court’s own motion);
@@ -321,7 +321,7 @@ Section 9
 - (a) the exclusions in Part 2 of this Schedule, with the exception of paragraphs 3 and 11 of that Part, and
 - (b) the exclusion in Part 3 of this Schedule.
 
-(3A)[^key-08326feb537959cca0b15f6511cbe59f] Sub-paragraph (1A) is subject to the exclusions in Part 2 of this Schedule.
+(3A)[^c-08326feb537959cca0b15f6511cbe59f] Sub-paragraph (1A) is subject to the exclusions in Part 2 of this Schedule.
 
 (3B) The following services do not include advocacy of any type—
 
@@ -341,12 +341,12 @@ Section 9
 
 (5) For the purposes of this paragraph, the Lord Chancellor may by regulations make provision about when circumstances arise out of a family relationship.
 
-#### Victims of domestic abuse and family matters[^key-b7b85e0f14b3716f20f6a595f99c7feb]
+#### Victims of domestic abuse and family matters[^c-b7b85e0f14b3716f20f6a595f99c7feb]
 
 **12.** (1) Civil legal services provided to an adult (“A”) in relation to a matter arising out of a family relationship between A and another individual (“B”) where—
 
-- (a) there has been, or is a risk of, domestic abuse[^key-057c4ee56c6bb0171a8a8dfb929b1563] between A and B, and
-- (b) A was, or is at risk of being, the victim of that domestic abuse[^key-eed682eda63eb526cfded02e3d5fa69e].
+- (a) there has been, or is a risk of, domestic abuse[^c-057c4ee56c6bb0171a8a8dfb929b1563] between A and B, and
+- (b) A was, or is at risk of being, the victim of that domestic abuse[^c-eed682eda63eb526cfded02e3d5fa69e].
 
 *General exclusions*
 
@@ -363,7 +363,7 @@ Section 9
 
 *Specific exclusion*
 
-(6) The services described in sub-paragraph (1) do not include services provided in relation to a claim in tort in respect of the domestic abuse[^key-80a87218ff19c02cc57e8772ca6b9da6].
+(6) The services described in sub-paragraph (1) do not include services provided in relation to a claim in tort in respect of the domestic abuse[^c-80a87218ff19c02cc57e8772ca6b9da6].
 
 *Definitions*
 
@@ -380,7 +380,7 @@ Section 9
 (9) In this paragraph—
 
 - “**adult**” means a person aged 18 or over;
-- “domestic abuse” means any incident, or pattern of incidents, of controlling, coercive or threatening behaviour, violence or abuse (whether psychological, physical, sexual, economic or emotional) between individuals who are associated with each other; and for these purposes, such behaviour, violence or abuse between individuals may consist of or include behaviour, violence or abuse directed at another individual;[^key-bb6ba15858ee08c22dd9f3edea97bf07]
+- “domestic abuse” means any incident, or pattern of incidents, of controlling, coercive or threatening behaviour, violence or abuse (whether psychological, physical, sexual, economic or emotional) between individuals who are associated with each other; and for these purposes, such behaviour, violence or abuse between individuals may consist of or include behaviour, violence or abuse directed at another individual;[^c-bb6ba15858ee08c22dd9f3edea97bf07]
 - “**family enactment**” means—
   - (a) section 17 of the Married Women's Property Act 1882 (questions between husband and wife as to property);
   - (b) the Maintenance Orders (Facilities for Enforcement) Act 1920;
@@ -492,7 +492,7 @@ Section 9
 - “**child**” means a person under the age of 18;
 - “**family enactment**” has the meaning given in paragraph 12.
 
-#### Female genital mutilation protection orders[^key-92ab2f5dc12874246b9cfc8ada79ab00]
+#### Female genital mutilation protection orders[^c-92ab2f5dc12874246b9cfc8ada79ab00]
 
 **15A.** (1) Civil legal services provided in relation to female genital mutilation protection orders under paragraph 1 of Schedule 2 to the Female Genital Mutilation Act 2003.
 
@@ -508,7 +508,7 @@ Section 9
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Transitional EU arrangements and international agreements concerning children[^key-efd98a90e58adaf3ed25a2c7f075fff1]
+#### Transitional EU arrangements and international agreements concerning children[^c-efd98a90e58adaf3ed25a2c7f075fff1]
 
 **17.** (1) Civil legal services provided in relation to—
 
@@ -530,7 +530,7 @@ Section 9
 
 (4) For the purposes of this paragraph, an application is made to the Lord Chancellor if it is addressed to the Lord Chancellor or transmitted to the Lord Chancellor in accordance with section 3 or 14 of the Child Abduction and Custody Act 1985.
 
-#### Transitional EU arrangements and international agreements concerning maintenance[^key-77bc898c68fef8403b88b4102aa3bfc1]
+#### Transitional EU arrangements and international agreements concerning maintenance[^c-77bc898c68fef8403b88b4102aa3bfc1]
 
 **18.** (1) Civil legal services provided in relation to an application under the following for the recognition or enforcement in England and Wales of a maintenance order—
 
@@ -774,9 +774,9 @@ in respect of an act or omission by a public authority that involves a significa
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Immigration: victims of domestic abuse, leave to enter and indefinite leave to remain[^key-502b4dbf10c80fab983188aec5d57184]
+#### Immigration: victims of domestic abuse, leave to enter and indefinite leave to remain[^c-502b4dbf10c80fab983188aec5d57184]
 
-**28.** (1)[^key-49f567038ad35261819d1b45e02c756e] Civil legal services provided to an individual in relation to an application for leave to enter or indefinite leave to remain in the United Kingdom in reliance on Appendix Victim of Domestic Abuse to the immigration rules.
+**28.** (1)[^c-49f567038ad35261819d1b45e02c756e] Civil legal services provided to an individual in relation to an application for leave to enter or indefinite leave to remain in the United Kingdom in reliance on Appendix Victim of Domestic Abuse to the immigration rules.
 
 *General exclusions*
 
@@ -788,24 +788,24 @@ in respect of an act or omission by a public authority that involves a significa
 
 *Definitions*
 
-(4)[^key-92ba524723f2a9d6302fe38d285b5187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-92ba524723f2a9d6302fe38d285b5187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this paragraph—
 
-- [^key-906d0e0fc971e4893be66c092ff8e87e]...
-- [^key-906d0e0fc971e4893be66c092ff8e87e]...
-- **“immigration rules[^key-e7de13dad806d9de30121bc967ca2e93]**” has the same meaning as in the Immigration Act 1971;
+- [^c-906d0e0fc971e4893be66c092ff8e87e]...
+- [^c-906d0e0fc971e4893be66c092ff8e87e]...
+- **“immigration rules[^c-e7de13dad806d9de30121bc967ca2e93]**” has the same meaning as in the Immigration Act 1971;
 - “**indefinite leave to remain in the United Kingdom**” means leave to remain in the United Kingdom under the Immigration Act 1971 which is not limited as to duration;
-- “leave to enter” is to be construed in accordance with the Immigration Act 1971;[^key-a8bcfadf07769feefd1ca8e68cd43df1]
-- [^key-fcc5ffa10087b7b1f3e60ef704dbf0ee]...
+- “leave to enter” is to be construed in accordance with the Immigration Act 1971;[^c-a8bcfadf07769feefd1ca8e68cd43df1]
+- [^c-fcc5ffa10087b7b1f3e60ef704dbf0ee]...
 
-#### Immigration: victims of domestic abuse and residence cards[^key-a768f47e0b3de3c623c2fe4aa58f6a43]
+#### Immigration: victims of domestic abuse and residence cards[^c-a768f47e0b3de3c623c2fe4aa58f6a43]
 
 **29.** (1) Civil legal services provided to an individual (“V”) in relation to a residence card application where V—
 
 - (a) has ceased to be a family member of a qualified person on the termination of the marriage or civil partnership of the qualified person,
 - (b) is a family member who has retained the right of residence by virtue of satisfying the conditions in regulation 10(5) of the Immigration (European Economic Area) Regulations 2006 (S.I. 2006/1003) (“**the 2006 Regulations**”), and
-- (c) has satisfied the condition in regulation 10(5)(d)(iv) of the 2006 Regulations on the ground that V or a family member of V was the victim of domestic abuse[^key-dd32fe331bb3fdcd68fd671cf24bb9bd] while the marriage or civil partnership of the qualified person was subsisting.
+- (c) has satisfied the condition in regulation 10(5)(d)(iv) of the 2006 Regulations on the ground that V or a family member of V was the victim of domestic abuse[^c-dd32fe331bb3fdcd68fd671cf24bb9bd] while the marriage or civil partnership of the qualified person was subsisting.
 
 *General exclusions*
 
@@ -819,7 +819,7 @@ in respect of an act or omission by a public authority that involves a significa
 
 (4) In this paragraph—
 
-- “domestic abuse” means any incident, or pattern of incidents, of controlling, coercive or threatening behaviour, violence or abuse (whether psychological, physical, sexual, economic or emotional) between individuals who are associated with each other; and for these purposes, such behaviour, violence or abuse between individuals may consist of or include behaviour, violence or abuse directed at another individual;[^key-4abdf060965ac8ba521041dd28d366c0]
+- “domestic abuse” means any incident, or pattern of incidents, of controlling, coercive or threatening behaviour, violence or abuse (whether psychological, physical, sexual, economic or emotional) between individuals who are associated with each other; and for these purposes, such behaviour, violence or abuse between individuals may consist of or include behaviour, violence or abuse directed at another individual;[^c-4abdf060965ac8ba521041dd28d366c0]
 - “**family member**” has the same meaning as in the 2006 Regulations (see regulations 7 and 9);
 - “**family member who has retained the right of residence**” has the same meaning as in the 2006 Regulations (see regulation 10);
 - “**qualified person**” has the same meaning as in the 2006 Regulations (see regulation 6);
@@ -829,14 +829,14 @@ in respect of an act or omission by a public authority that involves a significa
 
 #### Immigration: rights to enter and remain
 
-**30.** (1)[^key-53d438774076888f3b909300944b4473] Civil legal services provided in relation to rights to enter, and to remain in, the United Kingdom which—
+**30.** (1)[^c-53d438774076888f3b909300944b4473] Civil legal services provided in relation to rights to enter, and to remain in, the United Kingdom which—
 
 - (a) arise from—
   - (i) the Refugee Convention; or
   - (ii) Article 2 or 3 of the Human Rights Convention; or
 - (b) are conferred by—
   - (i) immigration rules, insofar as they implemented the Qualification Directive; or
-  - (ii) any other provision of assimilated[^key-b14a2383c083dd066d8cc87d893151c7] law which implemented the Qualification Directive.
+  - (ii) any other provision of assimilated[^c-b14a2383c083dd066d8cc87d893151c7] law which implemented the Qualification Directive.
 
 *General exclusions*
 
@@ -851,10 +851,10 @@ in respect of an act or omission by a public authority that involves a significa
 (4) In this paragraph—
 
 - “**the Human Rights Convention**” means the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4 November 1950 as it has effect for the time being in relation to the United Kingdom;
-- “[^key-fe3674eac830eb0158dc2d41ef2236c2] **immigration rules** ” has the meaning given by section 33(1) of the Immigration Act 1971;
+- “[^c-fe3674eac830eb0158dc2d41ef2236c2] **immigration rules** ” has the meaning given by section 33(1) of the Immigration Act 1971;
 - “**the Qualification Directive**” means Council Directive [2004/83/EC](https://www.legislation.gov.uk/eudr/2004/83) of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted;
 - “**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 and the Protocol to the Convention;
-- [^key-ae90e9f9876a25bff76a0493533e637d]...
+- [^c-ae90e9f9876a25bff76a0493533e637d]...
 
 #### Immigration: accommodation for asylum-seekers etc
 
@@ -867,7 +867,7 @@ in respect of an act or omission by a public authority that involves a significa
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Immigration, citizenship and nationality: separated children[^key-eb343713a7f1602238406c42f0e14e71]
+#### Immigration, citizenship and nationality: separated children[^c-eb343713a7f1602238406c42f0e14e71]
 
 **31A.** (1) Civil legal services provided in relation to a relevant application where the services are provided to an individual who, at the time of applying for those services, is a separated child.
 
@@ -937,14 +937,14 @@ Definitions
 - “**competent authority**” means a person who is a competent authority of the United Kingdom for the purposes of the Trafficking Convention;
 - “**employment**” means employment under a contract of employment or a contract personally to do work and references to “employers” and “employees” are to be interpreted accordingly;
 - “**employment law**” means an enactment or rule of law relating to employment, including in particular an enactment or rule of law conferring powers or imposing duties on employers, conferring rights on employees or otherwise regulating the relations between employers and employees;
-- “**exploitation**” means a form of exploitation described in section 3 of the Modern Slavery Act 2015 (meaning of exploitation for purposes of human trafficking offence in section 2 of that Act);[^key-16426c664e7dbd8ec657197c4632c6c1]
+- “**exploitation**” means a form of exploitation described in section 3 of the Modern Slavery Act 2015 (meaning of exploitation for purposes of human trafficking offence in section 2 of that Act);[^c-16426c664e7dbd8ec657197c4632c6c1]
 - “**personal representative**”, in relation to an individual who has died, means—
   - (a) a person responsible for administering the individual's estate under the law of England and Wales, Scotland or Northern Ireland, or
   - (b) a person who, under the law of another country or territory, has functions equivalent to those of administering the individual's estate;
 - “**the Trafficking Convention**” means the Council of Europe Convention on Action against Trafficking in Human Beings (done at Warsaw on 16 May 2005);
 - “**trafficking in human beings**” has the same meaning as in the Trafficking Convention.
 
-#### Victims of slavery, servitude or forced or compulsory labour[^key-1eeb433d42c17f6858545130cded834a]
+#### Victims of slavery, servitude or forced or compulsory labour[^c-1eeb433d42c17f6858545130cded834a]
 
 **32A.** (1) Civil legal services provided to an individual in relation to an application by the individual for leave to enter, or to remain in, the United Kingdom where—
 
@@ -989,7 +989,7 @@ Definitions
 - (a) court orders for sale or possession of the individual's home, or
 - (b) the eviction from the individual's home of the individual or others.
 
-(1A)[^key-5375c9f638704cd8eea6b1176628cea5] Civil legal services provided to an individual, where the Director has determined the individual qualifies for any services described in sub-paragraph (1) (and has not withdrawn the determination), in relation to –
+(1A)[^c-5375c9f638704cd8eea6b1176628cea5] Civil legal services provided to an individual, where the Director has determined the individual qualifies for any services described in sub-paragraph (1) (and has not withdrawn the determination), in relation to –
 
 - (a) housing matters;
 - (b) debt;
@@ -1021,7 +1021,7 @@ including services provided in relation to a statutory demand under that Part of
 
 (7) Sub-paragraphs (1) and (2) are subject to the exclusion in Part 3 of this Schedule.
 
-(7A)[^key-00c164a01dd93c56c626aae670f7b5c9] Sub-paragraph (1A) is subject to the exclusions in Part 2 of this Schedule, with the exception of paragraphs 14 and 15 of that Part.
+(7A)[^c-00c164a01dd93c56c626aae670f7b5c9] Sub-paragraph (1A) is subject to the exclusions in Part 2 of this Schedule, with the exception of paragraphs 14 and 15 of that Part.
 
 *Specific exclusion*
 
@@ -1030,11 +1030,11 @@ including services provided in relation to a statutory demand under that Part of
 - (a) proceedings under the Matrimonial Causes Act 1973;
 - (b) proceedings under Chapters 2 and 3 of Part 2 of the Civil Partnership Act 2004 (dissolution, nullity and other proceedings and property and financial arrangements).
 
-(8A)[^key-38d305b11434b4708d21dddeae2c94f2] The services described in sub-paragraph (1A) do not include advocacy.
+(8A)[^c-38d305b11434b4708d21dddeae2c94f2] The services described in sub-paragraph (1A) do not include advocacy.
 
 *Definitions*
 
-(9)[^key-c1070bc0b0f24bcd4c7eecd70c0a1d3f] In this paragraph—
+(9)[^c-c1070bc0b0f24bcd4c7eecd70c0a1d3f] In this paragraph—
 
 - “**council tax reduction scheme**” has the meaning given in paragraph 8A(4);
 - “**home**”, in relation to an individual, means the house, caravan, houseboat or other vehicle or structure that is the individual’s only or main residence, subject to sub-paragraph (10);
@@ -1118,7 +1118,7 @@ including services provided in relation to a statutory demand under that Part of
 - “**health**” includes mental health;
 - “**home**”, in relation to an individual, means the house, caravan, houseboat or other vehicle or structure that is the individual's only or main residence, together with any garden or ground usually occupied with it.
 
-#### Respect orders[^key-749f2e96fd6509bfab7fa6fb34dd3cae]
+#### Respect orders[^c-749f2e96fd6509bfab7fa6fb34dd3cae]
 
 **35A.** (1) Civil legal services provided to an individual in relation to an application for, or proceedings in respect of, a respect order against the individual under section A1 of the Anti-Social Behaviour, Crime and Policing Act 2014.
 
@@ -1126,9 +1126,9 @@ Exclusions
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Anti-social behaviour: youth injunctions and housing injunctions[^key-a72fcbc9f508871cbb3a4031761f1d96]
+#### Anti-social behaviour: youth injunctions and housing injunctions[^c-a72fcbc9f508871cbb3a4031761f1d96]
 
-**36.** (1)[^key-cd500a6001d7b7d28e905b42a7142611] Civil legal services provided to an individual in relation to an application for, or proceedings in respect of—
+**36.** (1)[^c-cd500a6001d7b7d28e905b42a7142611] Civil legal services provided to an individual in relation to an application for, or proceedings in respect of—
 
 - (a) an injunction against the individual under section 1 of the Anti-social Behaviour, Crime and Policing Act 2014 (“**the 2014 Act**”) as it had effect before the coming into force of Schedule 1 to the Crime and Policing Act 2026 (“**the 2026 Act**”),
 - (b) a youth injunction against the individual under section 1 of the 2014 Act as it has effect on and after the coming into force of Schedule 1 to the 2026 Act, or
@@ -1149,7 +1149,7 @@ Exclusions
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Gang-related violence and drug-dealing activity[^key-7ec2790e2c94635ffa824564f80b1965]
+#### Gang-related violence and drug-dealing activity[^c-7ec2790e2c94635ffa824564f80b1965]
 
 **38.** (1) Civil legal services provided in relation to injunctions under Part 4 of the Policing and Crime Act 2009 (injunctions to prevent gang-related violence and drug-dealing activity[^M_F_0dc9d505-a0e4-4e12-b8ae-3b2cf639e987]).
 
@@ -1179,8 +1179,8 @@ Exclusions
   - (a) a person responsible for administering the individual's estate under the law of England and Wales, Scotland or Northern Ireland, or
   - (b) a person who, under the law of another country or territory, has functions equivalent to those of administering the individual's estate;
 - “**sexual offence**” means—
-  - (a) an offence under a provision of the Sexual Offences Act 2003 (“**the 2003 Act**”), [^key-ebdc8c19e9d9b295b2e9b9cf7da21668]...
-  - (b) an offence under section 1 of the Protection of Children Act 1978 (“**the 1978 Act**”) (indecent photographs of children), and[^key-062309d9c348f8390518c8507d8d828b]
+  - (a) an offence under a provision of the Sexual Offences Act 2003 (“**the 2003 Act**”), [^c-ebdc8c19e9d9b295b2e9b9cf7da21668]...
+  - (b) an offence under section 1 of the Protection of Children Act 1978 (“**the 1978 Act**”) (indecent photographs of children), and[^c-062309d9c348f8390518c8507d8d828b]
   - (c) an offence under section 2 of the Modern Slavery Act 2015 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
 
 (4) The references in sub-paragraph (1) to a sexual offence include—
@@ -1286,7 +1286,7 @@ that relate to property recovered pursuant to the order.
 
 #### Cross-border disputes
 
-**44.**[^key-242dfc0ce845e3a4fc39f3abc6ff4e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-242dfc0ce845e3a4fc39f3abc6ff4e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Terrorism prevention and investigation measures etc
 
@@ -1303,7 +1303,7 @@ that relate to property recovered pursuant to the order.
 - “**control order proceedings**” means proceedings described in paragraph 3(1)(a) to (e) of Schedule 8 to the Terrorism Prevention and Investigation Measures Act 2011 (“**the 2011 Act**”);
 - “**TPIM notice**” means a notice under section 2(1) of the 2011 Act.
 
-#### Extension of time for retention of travel documents[^key-3194814a012e5217fcce15f6421f8d42]
+#### Extension of time for retention of travel documents[^c-3194814a012e5217fcce15f6421f8d42]
 
 **45A.** (1) Civil legal services provided in relation to proceedings under paragraph 8 of Schedule 1 to the Counter-Terrorism and Security Act 2015.
 
@@ -1311,7 +1311,7 @@ Exclusions
 
 (2) Sub-paragraph (1) is subject to the exclusions in Parts 2 and 3 of this Schedule.
 
-#### Foreign power threat activity prevention and investigation measures[^key-c26f7c4da55b1d2528e177d2126e4cb5]
+#### Foreign power threat activity prevention and investigation measures[^c-c26f7c4da55b1d2528e177d2126e4cb5]
 
 **45B.** (1) Civil legal services provided to an individual in relation to a notice under section 39(1) of the National Security Act 2023 relating to the individual.
 
@@ -1424,24 +1424,24 @@ The services described in Part 1 of this Schedule do not include advocacy, excep
 
 **5.** Advocacy in proceedings in the county court[^M_F_ac9c56a9-923f-42c6-8ff4-ac4acc0e47ad].
 
-**5A.**[^key-42d3713edb8d05ef1d297295af1897fd] Advocacy in proceedings in the family court.
+**5A.**[^c-42d3713edb8d05ef1d297295af1897fd] Advocacy in proceedings in the family court.
 
 **6.** Advocacy in the following proceedings in the Crown Court—
 
-- (a) proceedings for the variation or discharge of an order under section 360 of the Sentencing Code or section[^key-22c88571be476e97918617113ad2689f] 5A of the Protection from Harassment Act 1997, [^M_F_eafb689b-b74b-4d25-bb6a-9e534a727618]...
+- (a) proceedings for the variation or discharge of an order under section 360 of the Sentencing Code or section[^c-22c88571be476e97918617113ad2689f] 5A of the Protection from Harassment Act 1997, [^M_F_eafb689b-b74b-4d25-bb6a-9e534a727618]...
 - (aa)[^M_F_e40853da-9585-4b76-e1a3-d0c3e0809d12] proceedings on an appeal under section 10(1)(b) of the Crime and Disorder Act 1998(1) against the making of a parenting order where an injunction is granted under section 1 of the Anti-social Behaviour, Crime and Policing Act 2014,
 - (b) proceedings under the Proceeds of Crime Act 2002 in relation to matters listed in paragraph 40 of Part 1 of this Schedule.
 - (c)[^M_F_52aba7ed-eecb-4c9c-d4f0-7e09d1e75dc8] proceedings on an appeal under section 46B of the Policing and Crime Act 2009, [^M_F_33a6efb6-7d6e-47c8-92f3-691f98513cef] ...
-- (d) proceedings on an appeal under section 15 of the Anti-social Behaviour, Crime and Policing Act 2014 [^key-325f81a0edbe7e3478a5f08b658298ef]...[^M_F_9c2cdc59-22f6-4229-873f-d0d50f061938]
-- (e) proceedings for the variation or discharge of an order under paragraph 1 of Schedule 2 to the Female Genital Mutilation Act 2003 ,[^key-655c50a48f9ed25b8a6a3fbfdd90c587]
-- (ea)[^key-b1a2f981f72a47f7bd1ca41520a70abe] proceedings in relation to an application for the variation or discharge of a domestic abuse protection order under section 44(2)(a) of the Domestic Abuse Act 2021, and
-- (f) proceedings on an appeal under section 46(1) or (5) of that Act[^key-e5360dda4fba7f1bdb9a6e2ab37fbc1e].
+- (d) proceedings on an appeal under section 15 of the Anti-social Behaviour, Crime and Policing Act 2014 [^c-325f81a0edbe7e3478a5f08b658298ef]...[^M_F_9c2cdc59-22f6-4229-873f-d0d50f061938]
+- (e) proceedings for the variation or discharge of an order under paragraph 1 of Schedule 2 to the Female Genital Mutilation Act 2003 ,[^c-655c50a48f9ed25b8a6a3fbfdd90c587]
+- (ea)[^c-b1a2f981f72a47f7bd1ca41520a70abe] proceedings in relation to an application for the variation or discharge of a domestic abuse protection order under section 44(2)(a) of the Domestic Abuse Act 2021, and
+- (f) proceedings on an appeal under section 46(1) or (5) of that Act[^c-e5360dda4fba7f1bdb9a6e2ab37fbc1e].
 
 **7.** Advocacy in a magistrates' court that falls within the description of civil legal services in any of the following provisions of Part 1 of this Schedule—[^M_F_87b9b6e5-c82a-47f4-8634-a112aa0b32e1]
 
 - (a) paragraph 1(1)(e)
 - (b) paragraph 1(2) so far as relating to paragraph (1)(1)(e),
-- (ba) paragraph 11(1A)(a) and, in so far as the proceedings relate to an application to vary or discharge a domestic abuse protection order, paragraph 11(1A)(c), and[^key-e4714ef783b877f55deea1b3fd2c68cd]
+- (ba) paragraph 11(1A)(a) and, in so far as the proceedings relate to an application to vary or discharge a domestic abuse protection order, paragraph 11(1A)(c), and[^c-e4714ef783b877f55deea1b3fd2c68cd]
 - (c) paragraphs 11(2), 12, 13(1)(e), 15 , 17 (1)(a) and (b), 36 and 38[^M_F_b6a411ea-16c5-4ee9-90b8-cd74a8624a9c].
 
 **8.** Advocacy in the following proceedings in a magistrates' court—
@@ -1450,7 +1450,7 @@ The services described in Part 1 of this Schedule do not include advocacy, excep
 - (b) proceedings in relation to—
   - (i) bail under Schedule 2 to the Immigration Act 1971, or
   - (ii) arrest under Schedule 2 or 3 to that Act,
-- (c) proceedings for the variation or discharge of an order under section 360 of the Sentencing Code or section[^key-ee7b72031a8b3f267c9c2ef5452fd0a3] 5A of the Protection from Harassment Act 1997, [^M_F_106c946a-8949-4060-a674-ed958b77dfef]...
+- (c) proceedings for the variation or discharge of an order under section 360 of the Sentencing Code or section[^c-ee7b72031a8b3f267c9c2ef5452fd0a3] 5A of the Protection from Harassment Act 1997, [^M_F_106c946a-8949-4060-a674-ed958b77dfef]...
 - (d) proceedings under the Proceeds of Crime Act 2002 in relation to matters listed in paragraph 40 of Part 1 of this Schedule ; and[^M_F_1c2c3d91-9307-4bc2-b908-f6a34db8c076]
 - (e) proceedings for the variation or discharge of an order under paragraph 1 of Schedule 2 to the Female Genital Mutilation Act 2003.
 
@@ -1488,9 +1488,9 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 **16.** Advocacy in proceedings in the Upper Tribunal under section 4 of the Safeguarding Vulnerable Groups Act 2006.
 
-**17.** Advocacy in proceedings in the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 (appeals on a point of law) from decisions made by the First-tier Tribunal or the Education[^key-f0b1e6cdc9abc2d948135cbb81a4ddd1] Tribunal for Wales in proceedings under—
+**17.** Advocacy in proceedings in the Upper Tribunal under section 11 of the Tribunals, Courts and Enforcement Act 2007 (appeals on a point of law) from decisions made by the First-tier Tribunal or the Education[^c-f0b1e6cdc9abc2d948135cbb81a4ddd1] Tribunal for Wales in proceedings under—
 
-- (a)[^key-e0c48c1b7525cb7328103656dca4c052] Part 4 of the Education Act 1996 (special educational needs), *(affected by repeal, see note)*[^key-e0c48c1b7525cb7328103656dca4c052]
+- (a)[^c-e0c48c1b7525cb7328103656dca4c052] Part 4 of the Education Act 1996 (special educational needs), *(affected by repeal, see note)*[^c-e0c48c1b7525cb7328103656dca4c052]
 - (a) Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018,
 - (b) the Equality Act 2010 , or[^M_F_b9e7fe61-2b33-4aed-ef4e-4174087ca82f]
 - (c)[^M_F_ad40eed7-7d45-4c82-f627-6a4fe9729710] Part 3 of the Children and Families Act 2014(6) (children and young people in England with special educational needs or disabilities).
@@ -1507,7 +1507,7 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 **22.** Advocacy in proceedings in the Proscribed Organisations Appeal Commission.
 
-**22A.**[^key-d89c455c01275ef421bba71765e60c76] Advocacy in proceedings before a District Judge (Magistrates' Courts) under paragraph 8 of Schedule 1 to the Counter-Terrorism and Security Act 2015.
+**22A.**[^c-d89c455c01275ef421bba71765e60c76] Advocacy in proceedings before a District Judge (Magistrates' Courts) under paragraph 8 of Schedule 1 to the Counter-Terrorism and Security Act 2015.
 
 **23.** Advocacy in legal proceedings before any person to whom a case is referred (in whole or in part) in any proceedings within any other paragraph of this Part of this Schedule.
 
@@ -1553,15 +1553,15 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 ## Annotations
 
-[^key-2742166d57a2408f29c5d4c240e99ab7]: Modification: Sch. 1 Pt. 1 modified (24.3.2022) by [The Early Legal Advice Pilot Scheme Order 2022 (S.I. 2022/397)](https://www.legislation.gov.uk/uksi/2022/397), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/397/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/397/article/3/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/397/schedule/paragraph/1/2) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2022/397/article/3/2), [4](https://www.legislation.gov.uk/uksi/2022/397/article/4))
+[^c-2742166d57a2408f29c5d4c240e99ab7]: Modification: Sch. 1 Pt. 1 modified (24.3.2022) by [The Early Legal Advice Pilot Scheme Order 2022 (S.I. 2022/397)](https://www.legislation.gov.uk/uksi/2022/397), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/397/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/397/article/3/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/397/schedule/paragraph/1/2) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2022/397/article/3/2), [4](https://www.legislation.gov.uk/uksi/2022/397/article/4))
 
-[^key-ff7fe8363762cfa393673f7acd1a2816]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1(1)(e) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ff7fe8363762cfa393673f7acd1a2816]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1(1)(e) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_871be688-96ae-40d6-a6a4-d93bdfbe27b8]: Textual amendment: Sch. 1 Pt. 1 para. 1(1)(k)(j) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/uksi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/413/regulation/2/1), [290(a)](https://www.legislation.gov.uk/uksi/2016/413/regulation/290/a)
 
-[^key-ac724d316869fffad09a03b9471bff3a]: Textual amendment: Sch. 1 Pt. 1 para. 1A and cross-heading inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/a), [4(2)](https://www.legislation.gov.uk/uksi/2023/150/article/4/2)
+[^c-ac724d316869fffad09a03b9471bff3a]: Textual amendment: Sch. 1 Pt. 1 para. 1A and cross-heading inserted (1.5.2023) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(2)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/3/2/a), [4(2)](https://www.legislation.gov.uk/uksi/2023/150/article/4/2)
 
-[^key-d16101fd654fb62db9f794f8b7c04b77]: Textual amendment: Words in Sch. 1 Pt. 1 para. 2(1)(a) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(a)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/a/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-d16101fd654fb62db9f794f8b7c04b77]: Textual amendment: Words in Sch. 1 Pt. 1 para. 2(1)(a) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(a)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/a/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
 [^M_F_70bf2646-a9c1-4a8b-b38d-1bdaee97fac6]: Textual amendment: Words in Sch. 1 Pt.1 para. 2(1)(a) inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [Sch. 3 para. 96(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/96/a); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a)
 
@@ -1581,33 +1581,33 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^c22555501]: Textual amendment: Sch. 1 Pt. 1 para. 8A and cross-heading inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) Order 2013 (S.I. 2013/748)](https://www.legislation.gov.uk/uksi/2013/748), [arts. 1](https://www.legislation.gov.uk/uksi/2013/748/article/1), [3](https://www.legislation.gov.uk/uksi/2013/748/article/3)
 
-[^key-be5562a1a3f213d6a85574a59e738835]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/611/article/3/2)
+[^c-be5562a1a3f213d6a85574a59e738835]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/611/article/3/2)
 
 [^M_F_608f4de3-9427-4f6d-90ef-2cd8d9cc3a73]: Textual amendment: Sch. 1 Pt. 1 para. 11(1A) inserted (27.11.2024) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Family and Domestic Abuse) (Miscellaneous Amendments) Order 2023 (S.I. 2023/150)](https://www.legislation.gov.uk/uksi/2023/150), [arts. 3(3)](https://www.legislation.gov.uk/uksi/2023/150/article/3/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/150/article/4/3/a); [S.I. 2024/1191](https://www.legislation.gov.uk/uksi/2024/1191), [regs. 1(2)(g)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/1/2/g), [2](https://www.legislation.gov.uk/uksi/2024/1191/regulation/2), [3(1)](https://www.legislation.gov.uk/uksi/2024/1191/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1191/regulation/4))
 
-[^key-2c0f7ed8e8710414f635d84e4c72f5b9]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/a)
+[^c-2c0f7ed8e8710414f635d84e4c72f5b9]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/a)
 
-[^key-77e263809fb7445f310f1969bc8e1038]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(a) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/b/i)
+[^c-77e263809fb7445f310f1969bc8e1038]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(a) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/b/i)
 
-[^key-fb31e993a58ffe4884da8a19cb106ab3]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(a) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/b/ii)
+[^c-fb31e993a58ffe4884da8a19cb106ab3]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(a) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/b/ii)
 
-[^key-047fa03e50ae0cc83aceaa1214131476]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(b) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/c)
+[^c-047fa03e50ae0cc83aceaa1214131476]: Textual amendment: Words in Sch. 1 Pt. 1 para. 11(1A)(b) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/c)
 
-[^key-2a9aaf2552f9398aed9eb3e9f214eec3]: Textual amendment: Sch. 1 Pt. 1 para. 11(1A)(ba)(bb) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/d)
+[^c-2a9aaf2552f9398aed9eb3e9f214eec3]: Textual amendment: Sch. 1 Pt. 1 para. 11(1A)(ba)(bb) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/d)
 
-[^key-ea2eb173e9b28c836fabd58f8c2eadcc]: Textual amendment: Sch. 1 Pt. 1 para. 11(1A)(bc)-(g) substituted for [Sch. 1 Pt. 1 para. 11(1A)(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1) (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/e)
+[^c-ea2eb173e9b28c836fabd58f8c2eadcc]: Textual amendment: Sch. 1 Pt. 1 para. 11(1A)(bc)-(g) substituted for [Sch. 1 Pt. 1 para. 11(1A)(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1) (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2025/611/article/4/2/e)
 
-[^key-08326feb537959cca0b15f6511cbe59f]: Textual amendment: Sch. 1 Pt. 1 para. 11(3A)-(3C) substituted for [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1) [para. 11(3A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/11/3A) (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/611/article/4/3)
+[^c-08326feb537959cca0b15f6511cbe59f]: Textual amendment: Sch. 1 Pt. 1 para. 11(3A)-(3C) substituted for [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1) [para. 11(3A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/11/3A) (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/611/article/4/3)
 
-[^key-b7b85e0f14b3716f20f6a595f99c7feb]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
+[^c-b7b85e0f14b3716f20f6a595f99c7feb]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
 
-[^key-057c4ee56c6bb0171a8a8dfb929b1563]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(1)(a) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
+[^c-057c4ee56c6bb0171a8a8dfb929b1563]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(1)(a) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
 
-[^key-eed682eda63eb526cfded02e3d5fa69e]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(1)(b) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
+[^c-eed682eda63eb526cfded02e3d5fa69e]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(1)(b) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
 
-[^key-80a87218ff19c02cc57e8772ca6b9da6]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(6) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
+[^c-80a87218ff19c02cc57e8772ca6b9da6]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(6) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/a)
 
-[^key-bb6ba15858ee08c22dd9f3edea97bf07]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(9) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/b)
+[^c-bb6ba15858ee08c22dd9f3edea97bf07]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12(9) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/3/b)
 
 [^M_F_83a33ded-b84b-4363-90eb-7a7a31a9752f]: Textual amendment: Words in Sch. 1 Pt. 1 para. 12 substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/15)
 
@@ -1617,11 +1617,11 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^M_F_5a1e8e14-968d-4f9a-a3b5-720e346c7ddb]: Textual amendment: Sch. 1 Pt. 1 para. 13(1)(g) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 9(12)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/9/12/b); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a)
 
-[^key-92ab2f5dc12874246b9cfc8ada79ab00]: Textual amendment: Sch. 1 Pt. 1 para. 15A and cross-heading inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 87(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/87/2); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/c/iv)
+[^c-92ab2f5dc12874246b9cfc8ada79ab00]: Textual amendment: Sch. 1 Pt. 1 para. 15A and cross-heading inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 87(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/87/2); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/c/iv)
 
-[^key-efd98a90e58adaf3ed25a2c7f075fff1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 17 heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/28/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efd98a90e58adaf3ed25a2c7f075fff1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 17 heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/28/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77bc898c68fef8403b88b4102aa3bfc1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 18 heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/28/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77bc898c68fef8403b88b4102aa3bfc1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 18 heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/28/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22555591]: Textual amendment: [Sch. 1 Pt. 1 para. 18(3A)(3B)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/18/3A/3B) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) Order 2013 (S.I. 2013/748)](https://www.legislation.gov.uk/uksi/2013/748), [arts. 1](https://www.legislation.gov.uk/uksi/2013/748/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/748/article/5/2)
 
@@ -1633,71 +1633,71 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^M_F_32fdfd27-26d2-4687-b0d0-4d7771ad3f17]: Textual amendment: Words in Sch.1 Pt. 1 para. 19(10) omitted (22.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/6); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e)
 
-[^key-502b4dbf10c80fab983188aec5d57184]: Textual amendment: Sch. 1 Pt. 1 para. 28 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/a)
+[^c-502b4dbf10c80fab983188aec5d57184]: Textual amendment: Sch. 1 Pt. 1 para. 28 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/a)
 
-[^key-49f567038ad35261819d1b45e02c756e]: Textual amendment: Sch. 1 Pt. 1 para. 28(1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/b)
+[^c-49f567038ad35261819d1b45e02c756e]: Textual amendment: Sch. 1 Pt. 1 para. 28(1) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/b)
 
-[^key-92ba524723f2a9d6302fe38d285b5187]: Textual amendment: Sch. 1 Pt. 1 para. 28(4) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/c)
+[^c-92ba524723f2a9d6302fe38d285b5187]: Textual amendment: Sch. 1 Pt. 1 para. 28(4) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/c)
 
-[^key-906d0e0fc971e4893be66c092ff8e87e]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/i)
+[^c-906d0e0fc971e4893be66c092ff8e87e]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/i)
 
-[^key-e7de13dad806d9de30121bc967ca2e93]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/ii)
+[^c-e7de13dad806d9de30121bc967ca2e93]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/ii)
 
-[^key-a8bcfadf07769feefd1ca8e68cd43df1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/iii)
+[^c-a8bcfadf07769feefd1ca8e68cd43df1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/iii)
 
-[^key-fcc5ffa10087b7b1f3e60ef704dbf0ee]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(iv)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/iv)
+[^c-fcc5ffa10087b7b1f3e60ef704dbf0ee]: Textual amendment: Words in Sch. 1 Pt. 1 para. 28(5) omitted (21.5.2025) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(4)(d)(iv)](https://www.legislation.gov.uk/uksi/2025/611/article/3/4/d/iv)
 
-[^key-a768f47e0b3de3c623c2fe4aa58f6a43]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/a)
+[^c-a768f47e0b3de3c623c2fe4aa58f6a43]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29 heading substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/a)
 
-[^key-dd32fe331bb3fdcd68fd671cf24bb9bd]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29(1)(c) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/a)
+[^c-dd32fe331bb3fdcd68fd671cf24bb9bd]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29(1)(c) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/a)
 
-[^key-4abdf060965ac8ba521041dd28d366c0]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29(4) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/b)
+[^c-4abdf060965ac8ba521041dd28d366c0]: Textual amendment: Words in Sch. 1 Pt. 1 para. 29(4) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/3/5/b)
 
-[^key-53d438774076888f3b909300944b4473]: Textual amendment: Sch. 1 Pt. 1 para. 30(1) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53d438774076888f3b909300944b4473]: Textual amendment: Sch. 1 Pt. 1 para. 30(1) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b14a2383c083dd066d8cc87d893151c7]: Textual amendment: Word in Sch. 1 Pt. 1 para. 30(1)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/4)
+[^c-b14a2383c083dd066d8cc87d893151c7]: Textual amendment: Word in Sch. 1 Pt. 1 para. 30(1)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/4)
 
-[^key-fe3674eac830eb0158dc2d41ef2236c2]: Textual amendment: Words in Sch. 1 Pt. 1 para. 30(4) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe3674eac830eb0158dc2d41ef2236c2]: Textual amendment: Words in Sch. 1 Pt. 1 para. 30(4) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae90e9f9876a25bff76a0493533e637d]: Textual amendment: Words in Sch. 1 Pt. 1 para. 30(4) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae90e9f9876a25bff76a0493533e637d]: Textual amendment: Words in Sch. 1 Pt. 1 para. 30(4) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/20/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb343713a7f1602238406c42f0e14e71]: Textual amendment: Sch. 1 Pt. 1 para. 31A inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1396/article/2/2)
+[^c-eb343713a7f1602238406c42f0e14e71]: Textual amendment: Sch. 1 Pt. 1 para. 31A inserted (25.10.2019) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid for Separated Children) (Miscellaneous Amendments) Order 2019 (S.I. 2019/1396)](https://www.legislation.gov.uk/uksi/2019/1396), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1396/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1396/article/2/2)
 
-[^key-16426c664e7dbd8ec657197c4632c6c1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 32(8) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/10); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-16426c664e7dbd8ec657197c4632c6c1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 32(8) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/10); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-1eeb433d42c17f6858545130cded834a]: Textual amendment: Sch. 1 para. 32A and cross-heading inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2015/30/section/47/2), [61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/f)
+[^c-1eeb433d42c17f6858545130cded834a]: Textual amendment: Sch. 1 para. 32A and cross-heading inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2015/30/section/47/2), [61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/f)
 
-[^key-5375c9f638704cd8eea6b1176628cea5]: Textual amendment: Sch. 1 Pt. 1 para. 33(1A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/a)
+[^c-5375c9f638704cd8eea6b1176628cea5]: Textual amendment: Sch. 1 Pt. 1 para. 33(1A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/a)
 
-[^key-00c164a01dd93c56c626aae670f7b5c9]: Textual amendment: [Sch. 1 Pt. 1 para. 33(7A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/33/7A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/b)
+[^c-00c164a01dd93c56c626aae670f7b5c9]: Textual amendment: [Sch. 1 Pt. 1 para. 33(7A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/33/7A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/b)
 
-[^key-38d305b11434b4708d21dddeae2c94f2]: Textual amendment: [Sch. 1 Pt. 1 para. 33(8A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/33/8A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/c)
+[^c-38d305b11434b4708d21dddeae2c94f2]: Textual amendment: [Sch. 1 Pt. 1 para. 33(8A)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/1/paragraph/33/8A) inserted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/c)
 
-[^key-c1070bc0b0f24bcd4c7eecd70c0a1d3f]: Textual amendment: Sch. 1 Pt. 1 para. 33(9) substituted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/d)
+[^c-c1070bc0b0f24bcd4c7eecd70c0a1d3f]: Textual amendment: Sch. 1 Pt. 1 para. 33(9) substituted (1.8.2023) by [The Civil Legal Aid (Housing and Asylum Accommodation) Order 2023 (S.I. 2023/147)](https://www.legislation.gov.uk/uksi/2023/147), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2023/147/article/1/4), [2(3)(d)](https://www.legislation.gov.uk/uksi/2023/147/article/2/3/d)
 
 [^M_F_2ffb034d-10cb-4453-836b-08152456536a]: Textual amendment: Sch. 1 Pt. 1 para. 34(1)(c) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 20(2)(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/20/2/a); [S.I. 2015/1272](https://www.legislation.gov.uk/uksi/2015/1272), [art. 2](https://www.legislation.gov.uk/uksi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2015/1272/schedule/paragraph/53)
 
 [^M_F_21ceeb01-034f-4faa-bf78-8f3079d11224]: Textual amendment: Sch. 1 Pt. 1 para. 34(3)(a)(b) substituted for words (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 20(2)(b)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/20/2/b); [S.I. 2015/1272](https://www.legislation.gov.uk/uksi/2015/1272), [art. 2](https://www.legislation.gov.uk/uksi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2015/1272/schedule/paragraph/53)
 
-[^key-749f2e96fd6509bfab7fa6fb34dd3cae]: Textual amendment: Sch. 1 Pt. 1 para. 35A inserted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/861/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/861/article/2/2); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
+[^c-749f2e96fd6509bfab7fa6fb34dd3cae]: Textual amendment: Sch. 1 Pt. 1 para. 35A inserted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/861/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/861/article/2/2); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
 
-[^key-a72fcbc9f508871cbb3a4031761f1d96]: Textual amendment: Sch. 1 Pt. 1 para. 36 cross-heading substituted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/861/article/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2026/861/article/2/3); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b/g)
+[^c-a72fcbc9f508871cbb3a4031761f1d96]: Textual amendment: Sch. 1 Pt. 1 para. 36 cross-heading substituted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/861/article/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2026/861/article/2/3); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b/g)
 
-[^key-cd500a6001d7b7d28e905b42a7142611]: Textual amendment: Sch. 1 Pt. 1 para. 36(1) substituted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/861/article/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2026/861/article/2/4); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b/g)
+[^c-cd500a6001d7b7d28e905b42a7142611]: Textual amendment: Sch. 1 Pt. 1 para. 36(1) substituted (26.10.2026) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Anti-social Behaviour and Prevention and Investigation Measures) (Miscellaneous Amendments) Order 2026 (S.I. 2026/861)](https://www.legislation.gov.uk/uksi/2026/861), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/861/article/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2026/861/article/2/4); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(b)(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/b/g)
 
-[^key-7ec2790e2c94635ffa824564f80b1965]: Textual amendment: Words in Sch. 1 Pt. 1 para.38 cross-heading inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 87(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/87/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(x)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/x)
+[^c-7ec2790e2c94635ffa824564f80b1965]: Textual amendment: Words in Sch. 1 Pt. 1 para.38 cross-heading inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 87(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/87/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(x)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/x)
 
 [^M_F_0dc9d505-a0e4-4e12-b8ae-3b2cf639e987]: Textual amendment: Words in Sch. 1 Pt. 1 para. 38(1) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 87(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/87/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(x)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/x)
 
-[^key-ebdc8c19e9d9b295b2e9b9cf7da21668]: Textual amendment: Word in Sch. 1 para. 39(3) omitted (17.3.2016) by virtue of [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/244/regulation/20/a)
+[^c-ebdc8c19e9d9b295b2e9b9cf7da21668]: Textual amendment: Word in Sch. 1 para. 39(3) omitted (17.3.2016) by virtue of [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/244/regulation/20/a)
 
-[^key-062309d9c348f8390518c8507d8d828b]: Textual amendment: Words in Sch. 1 para. 39(3) inserted (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/244/regulation/20/b)
+[^c-062309d9c348f8390518c8507d8d828b]: Textual amendment: Words in Sch. 1 para. 39(3) inserted (17.3.2016) by [The Modern Slavery Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/244)](https://www.legislation.gov.uk/uksi/2016/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/244/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/244/regulation/20/b)
 
-[^key-242dfc0ce845e3a4fc39f3abc6ff4e4b]: Textual amendment: Sch. 1 Pt. 1 para. 44 omitted (31.12.2020) by virtue of [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/505/regulation/3/5) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-242dfc0ce845e3a4fc39f3abc6ff4e4b]: Textual amendment: Sch. 1 Pt. 1 para. 44 omitted (31.12.2020) by virtue of [The Civil Legal Aid (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/505)](https://www.legislation.gov.uk/uksi/2019/505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/505/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/505/regulation/3/5) (with [regs. 8](https://www.legislation.gov.uk/uksi/2019/505/regulation/8), [9](https://www.legislation.gov.uk/uksi/2019/505/regulation/9)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [7(2)-(4)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/7/2)): [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3194814a012e5217fcce15f6421f8d42]: Textual amendment: Sch. 1 Pt.1 para 45A and cross-heading inserted (13.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/1/2/a), [52(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/1)
+[^c-3194814a012e5217fcce15f6421f8d42]: Textual amendment: Sch. 1 Pt.1 para 45A and cross-heading inserted (13.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/1/2/a), [52(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/1)
 
-[^key-c26f7c4da55b1d2528e177d2126e4cb5]: Textual amendment: Sch. 1 Pt. 1 para. 45B and cross-heading inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 61](https://www.legislation.gov.uk/ukpga/2023/32/section/61), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-c26f7c4da55b1d2528e177d2126e4cb5]: Textual amendment: Sch. 1 Pt. 1 para. 45B and cross-heading inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 61](https://www.legislation.gov.uk/ukpga/2023/32/section/61), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
 [^c22555691]: Modification: [Sch. 1 Pt. 2 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/2/paragraph/11) restricted (1.4.2013) by [The Civil Legal Aid (Connected Matters) Regulations 2013 (S.I. 2013/451)](https://www.legislation.gov.uk/uksi/2013/451), [regs. 1](https://www.legislation.gov.uk/uksi/2013/451/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/451/regulation/4)
 
@@ -1709,9 +1709,9 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^M_F_ac9c56a9-923f-42c6-8ff4-ac4acc0e47ad]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 5](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c)
 
-[^key-42d3713edb8d05ef1d297295af1897fd]: Textual amendment: Sch. 1 Pt. 3 para. 5A inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/605/article/26/a)
+[^c-42d3713edb8d05ef1d297295af1897fd]: Textual amendment: Sch. 1 Pt. 3 para. 5A inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/605/article/26/a)
 
-[^key-22c88571be476e97918617113ad2689f]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-22c88571be476e97918617113ad2689f]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_eafb689b-b74b-4d25-bb6a-9e534a727618]: Textual amendment: Word in [Sch. 1 Pt. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/a) omitted (16.12.2014) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) (Advocacy Exceptions) Order 2014 (S.I. 2014/3305)](https://www.legislation.gov.uk/uksi/2014/3305), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3305/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3305/article/2/2/a)
 
@@ -1721,25 +1721,25 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^M_F_33a6efb6-7d6e-47c8-92f3-691f98513cef]: Textual amendment: Word in [Sch. 1 Pt. 3 para. 6(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/c) repealed (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [Sch. 4 para. 88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/88/2/a); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art 2(c)(v)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/c/v)
 
-[^key-325f81a0edbe7e3478a5f08b658298ef]: Textual amendment: Word in Sch. 1 Pt. 3 para. 6(d) omitted (25.5.2024) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024 (S.I. 2024/715)](https://www.legislation.gov.uk/uksi/2024/715), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/715/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/715/article/2/2/a)
+[^c-325f81a0edbe7e3478a5f08b658298ef]: Textual amendment: Word in Sch. 1 Pt. 3 para. 6(d) omitted (25.5.2024) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024 (S.I. 2024/715)](https://www.legislation.gov.uk/uksi/2024/715), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/715/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/715/article/2/2/a)
 
 [^M_F_9c2cdc59-22f6-4229-873f-d0d50f061938]: Textual amendment: [Sch. 1 Pt. 3 para. 6(e)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/e) and word inserted (17.7.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [Sch. 4 para. 88(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/88/2/b); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art 2(c)(v)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/c/v)
 
-[^key-655c50a48f9ed25b8a6a3fbfdd90c587]: Textual amendment: Sch. 1 Pt. 3 para. 6(f) and word inserted (25.5.2024) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024 (S.I. 2024/715)](https://www.legislation.gov.uk/uksi/2024/715), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/715/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/715/article/2/2/b)
+[^c-655c50a48f9ed25b8a6a3fbfdd90c587]: Textual amendment: Sch. 1 Pt. 3 para. 6(f) and word inserted (25.5.2024) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Amendment) Order 2024 (S.I. 2024/715)](https://www.legislation.gov.uk/uksi/2024/715), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/715/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/715/article/2/2/b)
 
-[^key-b1a2f981f72a47f7bd1ca41520a70abe]: Textual amendment: [Sch. 1 Pt. 3 para. 6(ea)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/ea) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/a/i)
+[^c-b1a2f981f72a47f7bd1ca41520a70abe]: Textual amendment: [Sch. 1 Pt. 3 para. 6(ea)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/ea) inserted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/a/i)
 
-[^key-e5360dda4fba7f1bdb9a6e2ab37fbc1e]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(f)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/f) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/a/ii)
+[^c-e5360dda4fba7f1bdb9a6e2ab37fbc1e]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 6(f)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/6/f) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/a/ii)
 
 [^M_F_87b9b6e5-c82a-47f4-8634-a112aa0b32e1]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/7) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2014/605/article/26/b)
 
-[^key-e4714ef783b877f55deea1b3fd2c68cd]: Textual amendment: [Sch. 1 Pt. 3 para. 7(ba)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/7/ba) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/b)
+[^c-e4714ef783b877f55deea1b3fd2c68cd]: Textual amendment: [Sch. 1 Pt. 3 para. 7(ba)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/7/ba) substituted (21.5.2025) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Legal Aid: Domestic Abuse) (Miscellaneous Amendments) Order 2025 (S.I. 2025/611)](https://www.legislation.gov.uk/uksi/2025/611), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/611/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/611/article/4/4/b)
 
 [^M_F_b6a411ea-16c5-4ee9-90b8-cd74a8624a9c]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 7(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/7/c) substituted (16.12.2014) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) (Advocacy Exceptions) Order 2014 (S.I. 2014/3305)](https://www.legislation.gov.uk/uksi/2014/3305), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3305/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3305/article/2/3)
 
 [^M_F_e17c1f3f-c328-4ef1-fe8d-2b81351675b2]: Textual amendment: [Sch. 1 Pt. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/8/a) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/uksi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/413/regulation/2/1), [290(c)](https://www.legislation.gov.uk/uksi/2016/413/regulation/290/c)
 
-[^key-ee7b72031a8b3f267c9c2ef5452fd0a3]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 8(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/8/c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ee7b72031a8b3f267c9c2ef5452fd0a3]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 8(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/8/c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 289(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/289/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_106c946a-8949-4060-a674-ed958b77dfef]: Textual amendment: Word in [Sch.1 Pt. 3 para. 8(c)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/8/c) omitted (17.7.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [Sch. 4 para. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/88/3/b); [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art. 2(c)(v)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/c/v)
 
@@ -1749,12 +1749,12 @@ but only to the extent that the proceedings concern contravention of the Equalit
 
 [^M_F_3a2852bd-6715-4c09-e797-fcaf157e6148]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 13](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/13) substituted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 47(3)](https://www.legislation.gov.uk/ukpga/2015/30/section/47/3); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1476/article/2/f)
 
-[^key-f0b1e6cdc9abc2d948135cbb81a4ddd1]: Textual amendment: Word in [Sch. 1 Pt. 3 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/17) substituted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(b)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/b/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxvi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxvi)
+[^c-f0b1e6cdc9abc2d948135cbb81a4ddd1]: Textual amendment: Word in [Sch. 1 Pt. 3 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/1/part/3/paragraph/17) substituted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(b)(i)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/b/i); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxvi)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxvi)
 
-[^key-e0c48c1b7525cb7328103656dca4c052]: Textual amendment: Sch. 1 Pt. 3 para. 17(a) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(b)(ii)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/b/ii); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
+[^c-e0c48c1b7525cb7328103656dca4c052]: Textual amendment: Sch. 1 Pt. 3 para. 17(a) substituted (1.9.2021 for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 21(2)(b)(ii)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/21/2/b/ii); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [arts. 3](https://www.legislation.gov.uk/wsi/2021/373/article/3), [4](https://www.legislation.gov.uk/wsi/2021/373/article/4), [6](https://www.legislation.gov.uk/wsi/2021/373/article/6), [7](https://www.legislation.gov.uk/wsi/2021/373/article/7) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/wsi/2021/1243), [art. 3](https://www.legislation.gov.uk/wsi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/wsi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/wsi/2021/1244), [art. 3](https://www.legislation.gov.uk/wsi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/wsi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/wsi/2021/1245), [arts. 3](https://www.legislation.gov.uk/wsi/2021/1245/article/3), [4](https://www.legislation.gov.uk/wsi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/wsi/2022/891), [art. 3](https://www.legislation.gov.uk/wsi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/wsi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/wsi/2022/892), [arts. 2](https://www.legislation.gov.uk/wsi/2022/892/article/2), [3](https://www.legislation.gov.uk/wsi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/wsi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/wsi/2022/893), [arts. 2](https://www.legislation.gov.uk/wsi/2022/893/article/2), [4](https://www.legislation.gov.uk/wsi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/wsi/2022/894), [art. 3](https://www.legislation.gov.uk/wsi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/wsi/2022/895), [arts. 3](https://www.legislation.gov.uk/wsi/2022/895/article/3), [4](https://www.legislation.gov.uk/wsi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/wsi/2022/896), [art. 3](https://www.legislation.gov.uk/wsi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/wsi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/wsi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/wsi/2022/897), [art. 3](https://www.legislation.gov.uk/wsi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/wsi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/wsi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/wsi/2022/898), [arts. 2](https://www.legislation.gov.uk/wsi/2022/898/article/2), [3](https://www.legislation.gov.uk/wsi/2022/898/article/3)
 
 [^M_F_b9e7fe61-2b33-4aed-ef4e-4174087ca82f]: Textual amendment: Word in Sch. 1 Pt. 3 para.. 17(b) inserted (16.12.2014) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) (Advocacy Exceptions) Order 2014 (S.I. 2014/3305)](https://www.legislation.gov.uk/uksi/2014/3305), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3305/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/3305/article/2/4/b)
 
 [^M_F_ad40eed7-7d45-4c82-f627-6a4fe9729710]: Textual amendment: Sch. 1 Pt. 3 para. 17(c) inserted (16.12.2014) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Amendment of Schedule 1) (Advocacy Exceptions) Order 2014 (S.I. 2014/3305)](https://www.legislation.gov.uk/uksi/2014/3305), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3305/article/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2014/3305/article/2/4/c)
 
-[^key-d89c455c01275ef421bba71765e60c76]: Textual amendment: Sch. 1 Pt. 3 para. 22A inserted (13.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/1/2/b), [52(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/1)
+[^c-d89c455c01275ef421bba71765e60c76]: Textual amendment: Sch. 1 Pt. 3 para. 22A inserted (13.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/1/2/b), [52(1)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/1)

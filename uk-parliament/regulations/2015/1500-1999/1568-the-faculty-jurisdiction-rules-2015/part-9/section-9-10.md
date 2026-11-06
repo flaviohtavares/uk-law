@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9.10. Interim faculties[^key-f34b9c9b23db2da5684893574b63dae7]
+## 9.10. Interim faculties[^c-f34b9c9b23db2da5684893574b63dae7]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ This Part is without prejudice to the court’s power at any time to grant an in
 
 ## Annotations
 
-[^key-f34b9c9b23db2da5684893574b63dae7]: Commencement: [Rule 9.10](https://www.legislation.gov.uk/uksi/2015/1568/article/9.10) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-f34b9c9b23db2da5684893574b63dae7]: Commencement: [Rule 9.10](https://www.legislation.gov.uk/uksi/2015/1568/article/9.10) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

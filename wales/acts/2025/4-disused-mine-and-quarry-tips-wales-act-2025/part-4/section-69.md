@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Penalty for obstructing entry to land[^key-32643072369f69dc88fcf2c03daab183]
+## 69. Penalty for obstructing entry to land[^c-32643072369f69dc88fcf2c03daab183]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32643072369f69dc88fcf2c03daab183]: Commencement: S. 69 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-32643072369f69dc88fcf2c03daab183]: Commencement: S. 69 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

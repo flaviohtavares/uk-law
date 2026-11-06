@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Modification of Part 1 of the 1965 Act[^key-6272bc79e9ee024cb15343e756b864c2]
+## 35. Modification of Part 1 of the 1965 Act[^c-6272bc79e9ee024cb15343e756b864c2]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6272bc79e9ee024cb15343e756b864c2]: Commencement: Art. 35 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-6272bc79e9ee024cb15343e756b864c2]: Commencement: Art. 35 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00054]: Footnote: Inserted by section 202(1) of the Housing and Planning Act 2016.
 

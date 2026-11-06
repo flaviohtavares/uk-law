@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Progress reports on bringing this Act into force[^key-e8d04f5eda9e68d78ae7f3d0f5dcb6e4]
+## 139. Progress reports on bringing this Act into force[^c-e8d04f5eda9e68d78ae7f3d0f5dcb6e4]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d04f5eda9e68d78ae7f3d0f5dcb6e4]: Commencement: S. 139 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e8d04f5eda9e68d78ae7f3d0f5dcb6e4]: Commencement: S. 139 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

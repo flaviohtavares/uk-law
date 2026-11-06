@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Building control authorities[^key-24a00752d70f753fa367297c347f680c][^key-5e52e879f13e5e324c01f027e8886847][^key-00df2855290f863a672effa9667cdf86]
+## 32. Building control authorities[^c-24a00752d70f753fa367297c347f680c][^c-5e52e879f13e5e324c01f027e8886847][^c-00df2855290f863a672effa9667cdf86]
 
 *Extent: E+W*
 
-(1)[^key-ff2e635d8d2fff5aac3fdbf309fa12ea] The Building Act 1984 is amended as follows.
+(1)[^c-ff2e635d8d2fff5aac3fdbf309fa12ea] The Building Act 1984 is amended as follows.
 
-(2)[^key-a31538d4cc14e157cd1361e1fc95592b] In section 91—
+(2)[^c-a31538d4cc14e157cd1361e1fc95592b] In section 91—
 
 - (a) in subsection (1) before paragraph (a) insert—
 
@@ -48,7 +48,7 @@ summary: ''
   ;
 - (d) in the heading at the end insert “and the regulator”.
 
-(3)[^key-fb6bc4a6c5470f5a1a8aa8bd8d3f3c0f][^key-2cb647274e52068561c0654775813185] After that section insert—
+(3)[^c-fb6bc4a6c5470f5a1a8aa8bd8d3f3c0f][^c-2cb647274e52068561c0654775813185] After that section insert—
 
 > **91ZA. The regulator: building control authority for higher-risk buildings in England**
 >
@@ -121,7 +121,7 @@ summary: ''
 > - (a) prescribed functions are functions of the designated local authority (rather than the relevant local authority);
 > - (b) the designated local authority (rather than the relevant local authority) must perform such functions relating to enforcement as may be prescribed.
 
-(4)[^key-ff2e635d8d2fff5aac3fdbf309fa12ea] After section 121 insert—
+(4)[^c-ff2e635d8d2fff5aac3fdbf309fa12ea] After section 121 insert—
 
 > **121A. Meaning of “building control authority”**
 >
@@ -137,16 +137,16 @@ summary: ''
 
 ## Annotations
 
-[^key-24a00752d70f753fa367297c347f680c]: Commencement: S. 32 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(ii)(b)(i)(c)
+[^c-24a00752d70f753fa367297c347f680c]: Commencement: S. 32 not in force at Royal Assent, see [s. 170(4)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/a)(ii)(b)(i)(c)
 
-[^key-5e52e879f13e5e324c01f027e8886847]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/30/section/32) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(m)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/m)
+[^c-5e52e879f13e5e324c01f027e8886847]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/30/section/32) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(m)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/m)
 
-[^key-00df2855290f863a672effa9667cdf86]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/30/section/32) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))
+[^c-00df2855290f863a672effa9667cdf86]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/30/section/32) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))
 
-[^key-ff2e635d8d2fff5aac3fdbf309fa12ea]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/1)[(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/4) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a)
+[^c-ff2e635d8d2fff5aac3fdbf309fa12ea]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/1)[(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/4) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a)
 
-[^key-a31538d4cc14e157cd1361e1fc95592b]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/2) in force at 1.7.2026 for W. by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/a)
+[^c-a31538d4cc14e157cd1361e1fc95592b]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/2) in force at 1.7.2026 for W. by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/a)
 
-[^key-fb6bc4a6c5470f5a1a8aa8bd8d3f3c0f]: Commencement: [S. 32(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/3) in force at 5.9.2023 for specified purposes by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a)
+[^c-fb6bc4a6c5470f5a1a8aa8bd8d3f3c0f]: Commencement: [S. 32(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/3) in force at 5.9.2023 for specified purposes by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a)
 
-[^key-2cb647274e52068561c0654775813185]: Commencement: [S. 32(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/3) in force at 6.4.2024 for specified purposes by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-2cb647274e52068561c0654775813185]: Commencement: [S. 32(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/3) in force at 6.4.2024 for specified purposes by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

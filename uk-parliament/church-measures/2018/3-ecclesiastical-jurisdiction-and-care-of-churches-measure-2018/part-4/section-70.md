@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 70. Special citation to add party to proceedings[^key-92de1e9efc9c8491ac90a09fd6851b97]
+## 70. Special citation to add party to proceedings[^c-92de1e9efc9c8491ac90a09fd6851b97]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92de1e9efc9c8491ac90a09fd6851b97]: Commencement: [S. 70](https://www.legislation.gov.uk/ukcm/2018/3/section/70) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-92de1e9efc9c8491ac90a09fd6851b97]: Commencement: [S. 70](https://www.legislation.gov.uk/ukcm/2018/3/section/70) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

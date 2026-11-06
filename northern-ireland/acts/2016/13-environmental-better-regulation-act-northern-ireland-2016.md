@@ -45,7 +45,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (1) The purpose of this Part is to enable provision to be made for or in connection with protecting and improving the environment, including (but not limited to) the following—
 
 - (a) regulating environmental activities;
-- (b) implementing assimilated[^key-e214f4f0135cf5b78760a1d10898ab61][^key-255e1fc0acf37b955676b760ee19e092] obligations relating to protecting and improving the environment;
+- (b) implementing assimilated[^c-e214f4f0135cf5b78760a1d10898ab61][^c-255e1fc0acf37b955676b760ee19e092] obligations relating to protecting and improving the environment;
 - (c) implementing international obligations of the United Kingdom relating to protecting and improving the environment.
 
 (2) In subsection (1) “**international obligations**” has the same meaning as in the Northern Ireland Act 1998.
@@ -131,14 +131,14 @@ In this Part—
 
 ## PART 2 — POWERS OF ENTRY AND ASSOCIATED POWERS
 
-### 7. Repealing, etc. unnecessary or inappropriate powers of entry, etc.[^key-6129bd93bdc8c0274db00ffda454f558]
+### 7. Repealing, etc. unnecessary or inappropriate powers of entry, etc.[^c-6129bd93bdc8c0274db00ffda454f558]
 
 The Department, by regulations, may amend, repeal or revoke any statutoryprovision under which it has any function to the extent necessary to remove from it any of the following that it considers to be unnecessary or inappropriate—
 
 - (a) a power of entry or associated power;
 - (b) an offence connected with the exercise of such a power of a kind mentioned in section 9(1)(b).
 
-### 8. Adding safeguards to powers of entry[^key-2dcc514759b30aee96c031f9efb9b246]
+### 8. Adding safeguards to powers of entry[^c-2dcc514759b30aee96c031f9efb9b246]
 
 (1) The Department, by regulations, may provide for safeguards in relation to any power of entry or associated power contained in any statutory provision under which it has any function.
 
@@ -156,7 +156,7 @@ The Department, by regulations, may amend, repeal or revoke any statutoryprovisi
 - (j) modifications of existing obligations on the person exercising the power which must be met before, during or after its exercise; and
 - (k) restrictions on any power to use force, or any other power, which may be exercised in connection with the power of entry or associated power.
 
-### 9. Rewriting powers of entry[^key-9026e0e28e1485a85f83616eca50cc71]
+### 9. Rewriting powers of entry[^c-9026e0e28e1485a85f83616eca50cc71]
 
 (1) The Department, by regulations, may rewrite (with or without modifications)—
 
@@ -193,7 +193,7 @@ The Department, by regulations, may amend, repeal or revoke any statutoryprovisi
 
 unless, on or after the changes made by the regulations, the safeguards in relation to the power, taken together, provide a greater level of protection than any safeguards applicable immediately before the changes.
 
-### 10. Review of powers of entry[^key-e30d0296755e99dc7bb42f838cfd222b]
+### 10. Review of powers of entry[^c-e30d0296755e99dc7bb42f838cfd222b]
 
 (1) The Department must, within the period of two years beginning with the day on which this section comes into operation—
 
@@ -203,21 +203,21 @@ unless, on or after the changes made by the regulations, the safeguards in relat
 
 (2) A failure by the Department to comply with a duty under subsection (1) in relation to a power of entry or associated power does not affect the validity of the power.
 
-### 11. Consultation requirements[^key-16f87f166c71851d8482f6254fc525c4]
+### 11. Consultation requirements[^c-16f87f166c71851d8482f6254fc525c4]
 
 Before making any regulations under section7, 8(1) or 9(1) in relation to a power of entry or associated power or an offence connected with the exercise of any such power, the Department must consult—
 
 - (a) such persons appearing to the Department to be representative of the views of persons entitled to exercise the power of entry or associated power as it considers appropriate; and
 - (b) such other persons as the Department considers appropriate.
 
-### 12. Regulations[^key-9fa8ae850452f985a8d09df4b2f20f67]
+### 12. Regulations[^c-9fa8ae850452f985a8d09df4b2f20f67]
 
 Regulations under section7, 8(1) or 9(1) may—
 
 - (a) modify any statutory provision; or
 - (b) contain such consequential, incidental, supplementary, transitional or saving provisions (including provisions modifying statutory provisions) as the Department considers necessary or expedient.
 
-### 13. Code of practice in relation to powers of entry[^key-bf33a3afe91df8ae3b992f2bfdea707e]
+### 13. Code of practice in relation to powers of entry[^c-bf33a3afe91df8ae3b992f2bfdea707e]
 
 (1) The Department must prepare a code of practice in connection with the exercise by the Department, a district council or any other person of a power of entry or associated power contained in any statutory provision under which the Department has any function.
 
@@ -247,7 +247,7 @@ Regulations under section7, 8(1) or 9(1) may—
 
 (12) A court or tribunal may, in particular, take into account a failure by a person to have regard to a code of practice in determining a question in any such proceedings.
 
-### 14. Interpretation[^key-9589bc5a3d8fcc21e9b6a360e9e9b7f2]
+### 14. Interpretation[^c-9589bc5a3d8fcc21e9b6a360e9e9b7f2]
 
 (1) In this Part—
 
@@ -273,7 +273,7 @@ Regulations under section7, 8(1) or 9(1) may—
 
 ## PART 3 — AMENDMENTS TO THE CLEAN AIR (NORTHERN IRELAND) ORDER 1981
 
-### 15. Authorised fuel[^key-18cbe6cacb27ce64c60822756bd332cf]
+### 15. Authorised fuel[^c-18cbe6cacb27ce64c60822756bd332cf]
 
 (1) In Article 2(2) of the Clean Air (Northern Ireland) Order 1981 (interpretation), for the definition of “authorised fuel” substitute—
 
@@ -294,7 +294,7 @@ Regulations under section7, 8(1) or 9(1) may—
 
 .
 
-### 16. Exempt fireplaces[^key-8f06bba561fa77e2ed7a41a7fae35a06]
+### 16. Exempt fireplaces[^c-8f06bba561fa77e2ed7a41a7fae35a06]
 
 For Article 17(7) of the Clean Air (Northern Ireland) Order 1981 (smokecontrol areas) substitute—
 
@@ -487,7 +487,7 @@ In this Act—
 
 (1) The statutory provisions set out in Schedule 2 are repealed to the extent specified in the second column of that Schedule.
 
-(2)[^key-cc42315f287b7aabc4b58126b21d7cee] The statutory provisions set out in Schedule 3 are revoked to the extent specified in the second column of that Schedule.
+(2)[^c-cc42315f287b7aabc4b58126b21d7cee] The statutory provisions set out in Schedule 3 are revoked to the extent specified in the second column of that Schedule.
 
 ### 27. Commencement
 
@@ -541,7 +541,7 @@ Section 2.
 (4) Enabling the Department to give directions (whether general or specific) with which regulators are to comply, or guidance to which regulators are to have regard, in exercising functions under the regulations, including—
 
 - (a) directions providing for any functions exercisable by one regulator to be exercisable instead by another;
-- (b) directions given for the purposes of the implementation of assimilated[^key-c8d2a4a773dc22c6b28e243cce8cad3b][^key-a34df1ea9c771a0102ba61bdfb8c7f36] obligations or under any international agreement to which the United Kingdom is a party;
+- (b) directions given for the purposes of the implementation of assimilated[^c-c8d2a4a773dc22c6b28e243cce8cad3b][^c-a34df1ea9c771a0102ba61bdfb8c7f36] obligations or under any international agreement to which the United Kingdom is a party;
 - (c) directions relating to the exercise of any function in a particular case or class of case; and
 - (d) directions providing for any matter to which the directions relate to be determined, in such manner (if any) as the directions may specify, by a person other than the Department.
 
@@ -872,7 +872,7 @@ Section 26(1).
 </tbody>
 </table>
 
-## SCHEDULE 3 — REVOCATIONS[^key-0c564fd813c0c633061f28763d85b5d1]
+## SCHEDULE 3 — REVOCATIONS[^c-0c564fd813c0c633061f28763d85b5d1]
 
 Section 26(2).
 
@@ -886,36 +886,36 @@ Section 26(2).
 
 ## Annotations
 
-[^key-e214f4f0135cf5b78760a1d10898ab61]: Textual amendment: Word in [s. 1(1)(b)](https://www.legislation.gov.uk/nia/2016/13/section/1/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 86(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/86/2/a)
+[^c-e214f4f0135cf5b78760a1d10898ab61]: Textual amendment: Word in [s. 1(1)(b)](https://www.legislation.gov.uk/nia/2016/13/section/1/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 86(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/86/2/a)
 
-[^key-255e1fc0acf37b955676b760ee19e092]: Textual amendment: Words in s. 1(1)(b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/584/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-255e1fc0acf37b955676b760ee19e092]: Textual amendment: Words in s. 1(1)(b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/584/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6129bd93bdc8c0274db00ffda454f558]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/13/section/7) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-6129bd93bdc8c0274db00ffda454f558]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/13/section/7) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-2dcc514759b30aee96c031f9efb9b246]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/13/section/8) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-2dcc514759b30aee96c031f9efb9b246]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/13/section/8) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-9026e0e28e1485a85f83616eca50cc71]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/13/section/9) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-9026e0e28e1485a85f83616eca50cc71]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/13/section/9) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-e30d0296755e99dc7bb42f838cfd222b]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/13/section/10) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-e30d0296755e99dc7bb42f838cfd222b]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/13/section/10) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-16f87f166c71851d8482f6254fc525c4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/13/section/11) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-16f87f166c71851d8482f6254fc525c4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/13/section/11) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-9fa8ae850452f985a8d09df4b2f20f67]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/13/section/12) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-9fa8ae850452f985a8d09df4b2f20f67]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/13/section/12) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-bf33a3afe91df8ae3b992f2bfdea707e]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/13/section/13) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-bf33a3afe91df8ae3b992f2bfdea707e]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/13/section/13) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-9589bc5a3d8fcc21e9b6a360e9e9b7f2]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/13/section/14) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
+[^c-9589bc5a3d8fcc21e9b6a360e9e9b7f2]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/13/section/14) in operation at 1.5.2016 by [S.R. 2016/212](https://www.legislation.gov.uk/nisr/2016/212), [art. 2](https://www.legislation.gov.uk/nisr/2016/212/article/2)
 
-[^key-18cbe6cacb27ce64c60822756bd332cf]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/13/section/15) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
+[^c-18cbe6cacb27ce64c60822756bd332cf]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/13/section/15) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
 
-[^key-8f06bba561fa77e2ed7a41a7fae35a06]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/13/section/16) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
+[^c-8f06bba561fa77e2ed7a41a7fae35a06]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/13/section/16) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
 
 [^c22562391]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/13/section/26) partly in operation; [s. 26(1)](https://www.legislation.gov.uk/nia/2016/13/section/26/1) in operation at 12.4.2016 see [s. 27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1)
 
-[^key-cc42315f287b7aabc4b58126b21d7cee]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/nia/2016/13/section/26/2) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
+[^c-cc42315f287b7aabc4b58126b21d7cee]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/nia/2016/13/section/26/2) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
 
-[^key-c8d2a4a773dc22c6b28e243cce8cad3b]: Textual amendment: Word in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nia/2016/13/schedule/1/paragraph/3/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 86(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/86/2/b)
+[^c-c8d2a4a773dc22c6b28e243cce8cad3b]: Textual amendment: Word in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nia/2016/13/schedule/1/paragraph/3/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 86(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/86/2/b)
 
-[^key-a34df1ea9c771a0102ba61bdfb8c7f36]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nia/2016/13/schedule/1/paragraph/3/4/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/584/regulation/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a34df1ea9c771a0102ba61bdfb8c7f36]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nia/2016/13/schedule/1/paragraph/3/4/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [28](https://www.legislation.gov.uk/uksi/2019/584/regulation/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c564fd813c0c633061f28763d85b5d1]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/13/schedule/3) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)
+[^c-0c564fd813c0c633061f28763d85b5d1]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2016/13/schedule/3) in operation at 10.10.2016 by [S.R. 2016/332](https://www.legislation.gov.uk/nisr/2016/332), [art. 2](https://www.legislation.gov.uk/nisr/2016/332/article/2)

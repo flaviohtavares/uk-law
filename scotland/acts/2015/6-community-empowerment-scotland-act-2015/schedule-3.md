@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — RELEVANT AUTHORITIES[^key-4655f3e9fb8abf5efdd9e5baf90fd3d8]
+## SCHEDULE 3 — RELEVANT AUTHORITIES[^c-4655f3e9fb8abf5efdd9e5baf90fd3d8]
 
 *Extent: S*
 
 (introduced by section 78(1))
 
-[^key-4655f3e9fb8abf5efdd9e5baf90fd3d8]
+[^c-4655f3e9fb8abf5efdd9e5baf90fd3d8]
 
 - The board of management of a college of further education (those expressions having the same meanings as in section 36(1) of the Further and Higher Education (Scotland) Act 1992)
 - The British Waterways Board
@@ -39,12 +39,12 @@ summary: ''
 - Scottish Natural Heritage
 - The Scottish Police Authority
 - Scottish Water
-- South of Scotland Enterprise[^key-6b7bdf81f2b800907c6dd09447ebdb1a]
+- South of Scotland Enterprise[^c-6b7bdf81f2b800907c6dd09447ebdb1a]
 - A Special Health Board constituted under section 2(1)(b) of the National Health Service (Scotland) Act 1978
 - A regional Transport Partnership established by virtue of section 1(1)(b) of the Transport (Scotland) Act 2005
 
 ## Annotations
 
-[^key-4655f3e9fb8abf5efdd9e5baf90fd3d8]: Commencement: Sch. 3 in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-4655f3e9fb8abf5efdd9e5baf90fd3d8]: Commencement: Sch. 3 in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
 
-[^key-6b7bdf81f2b800907c6dd09447ebdb1a]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/asp/2015/6/schedule/3) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(4)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/4); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-6b7bdf81f2b800907c6dd09447ebdb1a]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/asp/2015/6/schedule/3) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 9(4)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/9/4); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)

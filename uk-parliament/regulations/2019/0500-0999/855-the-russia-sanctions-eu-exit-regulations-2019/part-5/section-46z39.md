@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z39. Detained transport assets[^key-b1e4bba54942a95e0e49b8461badefa7]
+## 46Z39. Detained transport assets[^c-b1e4bba54942a95e0e49b8461badefa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ is void and ineffective for all purposes, including as a matter of contract and 
 
 ## Annotations
 
-[^key-b1e4bba54942a95e0e49b8461badefa7]: Textual amendment: [Pt. 5 Ch. 4O](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4O) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/543/regulation/11)
+[^c-b1e4bba54942a95e0e49b8461badefa7]: Textual amendment: [Pt. 5 Ch. 4O](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4O) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/543/regulation/11)

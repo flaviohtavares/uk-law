@@ -22,8 +22,8 @@ summary: ''
 
 (1) A person may not publish an advertisement that is likely to lead to the use of a prescription only medicine.
 
-(2) This regulation is subject to regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and[^key-43373652600b0c81d8909cbb3bceae8a] regulation 292 (exception for approved vaccination campaigns).
+(2) This regulation is subject to regulation 291A (campaigns relating to the suspected or confirmed spread of pathogenic agents etc.) and[^c-43373652600b0c81d8909cbb3bceae8a] regulation 292 (exception for approved vaccination campaigns).
 
 ## Annotations
 
-[^key-43373652600b0c81d8909cbb3bceae8a]: Textual amendment: Words in reg. 284(2) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1125/regulation/20) and words in reg. 284(2) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [20](https://www.legislation.gov.uk/nisr/2020/349/regulation/20)
+[^c-43373652600b0c81d8909cbb3bceae8a]: Textual amendment: Words in reg. 284(2) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1125/regulation/20) and words in reg. 284(2) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [20](https://www.legislation.gov.uk/nisr/2020/349/regulation/20)

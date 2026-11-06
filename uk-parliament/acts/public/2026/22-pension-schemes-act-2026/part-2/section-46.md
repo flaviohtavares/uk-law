@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendments of the Financial Services and Markets Act 2000[^key-923b76d9648b01c4d273c78cbd1d069b]
+## 46. Amendments of the Financial Services and Markets Act 2000[^c-923b76d9648b01c4d273c78cbd1d069b]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-923b76d9648b01c4d273c78cbd1d069b]: Commencement: S. 46 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)
+[^c-923b76d9648b01c4d273c78cbd1d069b]: Commencement: S. 46 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)

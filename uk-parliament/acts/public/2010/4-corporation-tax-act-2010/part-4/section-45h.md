@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45H. Section 45F: transfers of trade to obtain relief[^key-3dae2ad9d792a6cd0460297a35321a6e]
+## 45H. Section 45F: transfers of trade to obtain relief[^c-3dae2ad9d792a6cd0460297a35321a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Section 45F does not apply by reason of a company ceasing to carry on a trade if
 
 ## Annotations
 
-[^key-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
+[^c-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)

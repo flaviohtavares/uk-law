@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Educational, prison and youth custody authorities[^key-a5fe3043736ab152bae306c3d83af5fd][^key-a6229e2c8f093f637abb66967a74975d]
+## SCHEDULE 2 — Educational, prison and youth custody authorities[^c-a5fe3043736ab152bae306c3d83af5fd][^c-a6229e2c8f093f637abb66967a74975d]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ Youth custody authorities
 
 ## Annotations
 
-[^key-a5fe3043736ab152bae306c3d83af5fd]: Commencement: Sch. 2 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-a5fe3043736ab152bae306c3d83af5fd]: Commencement: Sch. 2 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-a6229e2c8f093f637abb66967a74975d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/2) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/o)
+[^c-a6229e2c8f093f637abb66967a74975d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/2) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/o)

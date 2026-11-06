@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Authorised excuses for failure as to return and declarations[^key-910564dc382347fe89940f5147faded0]
+## 53. Authorised excuses for failure as to return and declarations[^c-910564dc382347fe89940f5147faded0]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ the court shall relieve the candidate from the consequences of the act or omissi
 
 ## Annotations
 
-[^key-910564dc382347fe89940f5147faded0]: Commencement: Art. 53 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-910564dc382347fe89940f5147faded0]: Commencement: Art. 53 in force at 16.12.2015 in accordance with art. 1(1)

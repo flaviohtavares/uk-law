@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Qualifying EU Provisions) (Amendment) Order 2016 (revoked)[^key-53dcb5c12355fad456c41d9a57d2f45c]
+The Financial Services and Markets Act 2000 (Qualifying EU Provisions) (Amendment) Order 2016 (revoked)[^c-53dcb5c12355fad456c41d9a57d2f45c]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 12th October 2016
 
-[^key-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-53dcb5c12355fad456c41d9a57d2f45c]
+## 1. Citation and commencement[^c-53dcb5c12355fad456c41d9a57d2f45c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^key-53dcb5c12355fad456c41d9a57d2f45c]
+## 2. Amendment of the Financial Services and Markets Act 2000 (Qualifying EU Provisions) Order 2013[^c-53dcb5c12355fad456c41d9a57d2f45c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53dcb5c12355fad456c41d9a57d2f45c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53dcb5c12355fad456c41d9a57d2f45c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/936) revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/c), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/2)
+[^c-53dcb5c12355fad456c41d9a57d2f45c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/936) revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/c), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/2)

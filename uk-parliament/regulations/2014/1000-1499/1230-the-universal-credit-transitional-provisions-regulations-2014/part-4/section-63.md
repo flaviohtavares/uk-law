@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Claimants previously entitled to a severe disability premium[^key-90e3de9c82961a5746b71bf6175c0696]
+## 63. Claimants previously entitled to a severe disability premium[^c-90e3de9c82961a5746b71bf6175c0696]
 
 *Extent: E+W+S+N.I.*
 
-Schedules 2 and 3 contain[^key-97404ea10625c2aeef30a55ddfe3a70c] provision in respect of certain claimants who have been entitled to a benefit which included a severe disability premium.
+Schedules 2 and 3 contain[^c-97404ea10625c2aeef30a55ddfe3a70c] provision in respect of certain claimants who have been entitled to a benefit which included a severe disability premium.
 
 ## Annotations
 
-[^key-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
+[^c-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
 
-[^key-97404ea10625c2aeef30a55ddfe3a70c]: Textual amendment: Words in [reg. 63](https://www.legislation.gov.uk/uksi/2014/1230/regulation/63) substituted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2023 (S.I. 2023/1238)](https://www.legislation.gov.uk/uksi/2023/1238), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/2/2)
+[^c-97404ea10625c2aeef30a55ddfe3a70c]: Textual amendment: Words in [reg. 63](https://www.legislation.gov.uk/uksi/2014/1230/regulation/63) substituted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2023 (S.I. 2023/1238)](https://www.legislation.gov.uk/uksi/2023/1238), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/2/2)

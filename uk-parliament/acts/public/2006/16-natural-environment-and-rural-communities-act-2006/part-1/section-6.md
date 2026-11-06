@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Financial and other assistance[^key-5dbf7df86de078bc782dbae5a924c8aa]
+## 6. Financial and other assistance[^c-5dbf7df86de078bc782dbae5a924c8aa]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dbf7df86de078bc782dbae5a924c8aa]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/16/section/6) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-5dbf7df86de078bc782dbae5a924c8aa]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/16/section/6) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

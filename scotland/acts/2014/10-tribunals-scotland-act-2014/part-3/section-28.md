@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Transfer-in of functions[^key-06378a36a166070c8e4ee774edb63267]
+## 28. Transfer-in of functions[^c-06378a36a166070c8e4ee774edb63267]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06378a36a166070c8e4ee774edb63267]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/10/section/28) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-06378a36a166070c8e4ee774edb63267]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/10/section/28) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

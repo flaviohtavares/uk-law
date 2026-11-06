@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Option to commute part of pension[^key-46e0c675025f3ac47005aae6a39d369e]
+## 76. Option to commute part of pension[^c-46e0c675025f3ac47005aae6a39d369e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46e0c675025f3ac47005aae6a39d369e]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2015/182/regulation/76) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-46e0c675025f3ac47005aae6a39d369e]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2015/182/regulation/76) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00034]: Footnote: Section 241 was amended by the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) Schedule 21 paragraphs 2 and 9, the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11) Schedule 19 paragraphs 1 and 15 and the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraphs 62 and 74.
 

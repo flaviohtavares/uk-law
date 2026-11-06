@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Premises licences: procedure in relation to relevant offences or foreign offences[^key-36959e5c4738d041465407f1c79040ab]
+## 50. Premises licences: procedure in relation to relevant offences or foreign offences[^c-36959e5c4738d041465407f1c79040ab]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 44 of the 2005 Act (procedure where Licensing Board receive notice of
 
 ## Annotations
 
-[^key-36959e5c4738d041465407f1c79040ab]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/10/section/50) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/119/article/5))
+[^c-36959e5c4738d041465407f1c79040ab]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/10/section/50) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/119/article/5))

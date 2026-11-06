@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Information sharing: supplementary amendments[^key-cc6f3ab0ca4c8a6c3f13119cdf0ce1d6]
+## 46. Information sharing: supplementary amendments[^c-cc6f3ab0ca4c8a6c3f13119cdf0ce1d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which makes further provision relating to the disclosure of informat
 
 ## Annotations
 
-[^key-cc6f3ab0ca4c8a6c3f13119cdf0ce1d6]: Commencement: S. 46 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-cc6f3ab0ca4c8a6c3f13119cdf0ce1d6]: Commencement: S. 46 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5ZA. Report on activities as designated regulatory authority[^key-b4e5a4f4ea9248cc32c47a94f5708d24]
+## 5ZA. Report on activities as designated regulatory authority[^c-b4e5a4f4ea9248cc32c47a94f5708d24]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4e5a4f4ea9248cc32c47a94f5708d24]: Textual amendment: [S. 5ZA](https://www.legislation.gov.uk/ukpga/2000/27/section/5ZA) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2019/530/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4e5a4f4ea9248cc32c47a94f5708d24]: Textual amendment: [S. 5ZA](https://www.legislation.gov.uk/ukpga/2000/27/section/5ZA) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2019/530/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air, England
 
-The Smoke Control Areas (Exempted Fireplaces) (England) (No 2) Order 2010 (revoked)[^key-623289b0ade99d8d9695712095a8601f]
+The Smoke Control Areas (Exempted Fireplaces) (England) (No 2) Order 2010 (revoked)[^c-623289b0ade99d8d9695712095a8601f]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st October 2010
 
-[^key-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-623289b0ade99d8d9695712095a8601f]
+## 1. Citation, application and commencement[^c-623289b0ade99d8d9695712095a8601f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fireplaces exempted from the provisions of section 20 of the Clean Air Act 1993[^key-623289b0ade99d8d9695712095a8601f]
+## 2. Fireplaces exempted from the provisions of section 20 of the Clean Air Act 1993[^c-623289b0ade99d8d9695712095a8601f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-623289b0ade99d8d9695712095a8601f]
+## 3. Revocation[^c-623289b0ade99d8d9695712095a8601f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Exempted Fireplaces[^key-623289b0ade99d8d9695712095a8601f]
+## SCHEDULE — Exempted Fireplaces[^c-623289b0ade99d8d9695712095a8601f]
 
 Article 2
 
@@ -74,8 +74,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623289b0ade99d8d9695712095a8601f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-623289b0ade99d8d9695712095a8601f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2173) revoked (6.4.2011) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2011 (S.I. 2011/714)](https://www.legislation.gov.uk/uksi/2011/714), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/714/article/1/c), [3](https://www.legislation.gov.uk/uksi/2011/714/article/3)
+[^c-623289b0ade99d8d9695712095a8601f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2173) revoked (6.4.2011) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2011 (S.I. 2011/714)](https://www.legislation.gov.uk/uksi/2011/714), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2011/714/article/1/c), [3](https://www.legislation.gov.uk/uksi/2011/714/article/3)

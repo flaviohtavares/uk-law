@@ -36,7 +36,7 @@ Table
 
 | **Column 1****Salary for the eligible employment for the financial year 2015-16** | **Column 2****Members' contribution rate** |
 | --- | --- |
-| £0 - £25,999 | 7.40%[^key-22e824d4f1e71b7609595b92ce420f43] |
+| £0 - £25,999 | 7.40%[^c-22e824d4f1e71b7609595b92ce420f43] |
 | £26,000 - £34,999 | 8.87% |
 | £35,000 to £41,499 | 9.90% |
 | £41,500 to £54,999 | 10.52% |
@@ -47,4 +47,4 @@ Table
 
 [^c22298881]: Marginal citation: [2007 c.18](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-22e824d4f1e71b7609595b92ce420f43]: Textual amendment: Words in [reg. 185](https://www.legislation.gov.uk/nisr/2014/310/regulation/185) Table substituted (1.4.2025) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/42)](https://www.legislation.gov.uk/nisr/2025/42), [regs. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/42/regulation/2/2)
+[^c-22e824d4f1e71b7609595b92ce420f43]: Textual amendment: Words in [reg. 185](https://www.legislation.gov.uk/nisr/2014/310/regulation/185) Table substituted (1.4.2025) by [The Teachers’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/42)](https://www.legislation.gov.uk/nisr/2025/42), [regs. 1](https://www.legislation.gov.uk/nisr/2025/42/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/42/regulation/2/2)

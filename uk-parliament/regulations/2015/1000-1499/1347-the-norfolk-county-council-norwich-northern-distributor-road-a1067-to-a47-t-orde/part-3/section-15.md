@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Access to site during construction[^key-1901351dbc688bdeeeade8001b41b7ab]
+## 15. Access to site during construction[^c-1901351dbc688bdeeeade8001b41b7ab]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The undertaker may, for the purposes of the construction of the authorised devel
 
 ## Annotations
 
-[^key-1901351dbc688bdeeeade8001b41b7ab]: Commencement: Art. 15 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-1901351dbc688bdeeeade8001b41b7ab]: Commencement: Art. 15 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

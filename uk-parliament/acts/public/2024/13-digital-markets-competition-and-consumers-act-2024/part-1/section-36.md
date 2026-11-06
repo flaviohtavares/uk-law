@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Commitments[^key-ad80e012c816bb77d1d8bdae907f18cc][^key-957ee5040b86db957112ba7b28ccc4e6]
+## 36. Commitments[^c-ad80e012c816bb77d1d8bdae907f18cc][^c-957ee5040b86db957112ba7b28ccc4e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ for the purposes of this Chapter and Chapter 4 (pro-competition orders).
 
 ## Annotations
 
-[^key-ad80e012c816bb77d1d8bdae907f18cc]: Commencement: S. 36 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ad80e012c816bb77d1d8bdae907f18cc]: Commencement: S. 36 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-957ee5040b86db957112ba7b28ccc4e6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2024/13/section/36) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-957ee5040b86db957112ba7b28ccc4e6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2024/13/section/36) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

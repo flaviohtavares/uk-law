@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^key-959cd6df22fc24effaf8a55f126d23ae]
+## 17. Amendment of the National Health Service (General Dental Services Contracts) Regulations 2005[^c-959cd6df22fc24effaf8a55f126d23ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-959cd6df22fc24effaf8a55f126d23ae]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/1071/regulation/17) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-959cd6df22fc24effaf8a55f126d23ae]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/1071/regulation/17) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361), amended by [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364); there are other amending instruments but none is relevant.

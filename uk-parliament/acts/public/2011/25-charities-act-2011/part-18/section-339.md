@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339. Service of orders and directions[^key-9d3ce8892780947ea323a3217b583fc3]
+## 339. Service of orders and directions[^c-9d3ce8892780947ea323a3217b583fc3]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3ce8892780947ea323a3217b583fc3]: Modification: S. 339 applied by 1987 c. 15, s. 4(4) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/48) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-9d3ce8892780947ea323a3217b583fc3]: Modification: S. 339 applied by 1987 c. 15, s. 4(4) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/48) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))

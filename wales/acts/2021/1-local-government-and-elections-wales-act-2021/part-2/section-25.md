@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Boundaries of the general power[^key-59cc7d4eac69a47cdaf884be9c87e47b]
+## 25. Boundaries of the general power[^c-59cc7d4eac69a47cdaf884be9c87e47b]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59cc7d4eac69a47cdaf884be9c87e47b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2021/1/section/25) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)
+[^c-59cc7d4eac69a47cdaf884be9c87e47b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2021/1/section/25) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)

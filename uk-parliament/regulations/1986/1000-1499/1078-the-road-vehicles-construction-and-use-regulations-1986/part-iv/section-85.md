@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Trailers drawn by agricultural motor vehicles[^key-92cab6314cd8783e2d0a857a9a50ea28]
+## 85. Trailers drawn by agricultural motor vehicles[^c-92cab6314cd8783e2d0a857a9a50ea28]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92cab6314cd8783e2d0a857a9a50ea28]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/1986/1078/regulation/85) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-92cab6314cd8783e2d0a857a9a50ea28]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/1986/1078/regulation/85) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

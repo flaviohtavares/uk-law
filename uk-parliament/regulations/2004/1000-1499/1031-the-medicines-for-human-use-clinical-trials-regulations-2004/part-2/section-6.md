@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Establishment and abolition of ethics committees[^key-d007d34640c1148b0fa0b9e177c68211]
+## 6. Establishment and abolition of ethics committees[^c-d007d34640c1148b0fa0b9e177c68211]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Authority may establish an ethics committee[^key-15ebec2dd40d3a9242f3ea4f51c097fa] to act—
+(1) The Authority may establish an ethics committee[^c-15ebec2dd40d3a9242f3ea4f51c097fa] to act—
 
-- (a)[^key-924f32cbd8a3889528dbd3b766c3df89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-924f32cbd8a3889528dbd3b766c3df89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to such descriptions or classes of clinical trials,
 
 as the Authority consider appropriate.
 
-(1A)[^key-914202857e30153228c9ceb02963701d] The Authority must ensure that the arrangements for the membership and operation of that committee—
+(1A)[^c-914202857e30153228c9ceb02963701d] The Authority must ensure that the arrangements for the membership and operation of that committee—
 
 - (a) enable that committee to perform the functions of an ethics committee; and
 - (b) comply with regulation 9.
 
-(2)[^key-e5e276d32c4f798faee1377200e43d88] The Authority may—
+(2)[^c-e5e276d32c4f798faee1377200e43d88] The Authority may—
 
 - (a) specify any conditions or limitations that apply to an ethics committee, including whether that committee may act for the entire United Kingdom or only for a particular area of the United Kingdom;
 - (b) where they consider it necessary or appropriate to do so—
@@ -43,7 +43,7 @@ as the Authority consider appropriate.
   - (ii) the committee is failing to perform its functions under these Regulations adequately or at all, or
   - (iii) it is otherwise necessary or appropriate to do so.
 
-(3)[^key-f708a3b38bd7f0b288e65ef6b13092ca] Where the Authority abolishes an ethics committee or an ethics committee ceases operation—
+(3)[^c-f708a3b38bd7f0b288e65ef6b13092ca] Where the Authority abolishes an ethics committee or an ethics committee ceases operation—
 
 - (a) the Authority may nominate another committee to be responsible for the work of that committee;
 - (b) the committee nominated in accordance with sub-paragraph (a) must—
@@ -52,14 +52,14 @@ as the Authority consider appropriate.
 
 ## Annotations
 
-[^key-d007d34640c1148b0fa0b9e177c68211]: Textual amendment: Words in reg. 6 heading inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/2)
+[^c-d007d34640c1148b0fa0b9e177c68211]: Textual amendment: Words in reg. 6 heading inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/2)
 
-[^key-15ebec2dd40d3a9242f3ea4f51c097fa]: Textual amendment: Words in reg. 6(1) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/3/a)
+[^c-15ebec2dd40d3a9242f3ea4f51c097fa]: Textual amendment: Words in reg. 6(1) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/3/a)
 
-[^key-924f32cbd8a3889528dbd3b766c3df89]: Textual amendment: Reg. 6(1)(a) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/3/b)
+[^c-924f32cbd8a3889528dbd3b766c3df89]: Textual amendment: Reg. 6(1)(a) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/3/b)
 
-[^key-914202857e30153228c9ceb02963701d]: Textual amendment: Reg. 6(1A) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/4)
+[^c-914202857e30153228c9ceb02963701d]: Textual amendment: Reg. 6(1A) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/4)
 
-[^key-e5e276d32c4f798faee1377200e43d88]: Textual amendment: Reg. 6(2) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/5)
+[^c-e5e276d32c4f798faee1377200e43d88]: Textual amendment: Reg. 6(2) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/5)
 
-[^key-f708a3b38bd7f0b288e65ef6b13092ca]: Textual amendment: Reg. 6(3) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/6)
+[^c-f708a3b38bd7f0b288e65ef6b13092ca]: Textual amendment: Reg. 6(3) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2025/538/regulation/7/6)

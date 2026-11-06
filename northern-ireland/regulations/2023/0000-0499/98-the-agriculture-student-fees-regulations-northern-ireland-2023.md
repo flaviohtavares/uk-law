@@ -46,11 +46,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-28424c79ed0831e15bbda55464577722]
+### 1. Citation and commencement[^c-28424c79ed0831e15bbda55464577722]
 
 These Regulations may be cited as the Agriculture (Student Fees) Regulations (Northern Ireland) 2023 and shall come into operation on 1st September 2023.
 
-### 2. Interpretation[^key-a658d3365628886879f942c577ad8a04]
+### 2. Interpretation[^c-a658d3365628886879f942c577ad8a04]
 
 (1) In these Regulations—
 
@@ -107,20 +107,20 @@ These Regulations may be cited as the Agriculture (Student Fees) Regulations (No
 - (c) on or after 1st July and before 1st August; or
 - (d) on or after 1st August and on or before 31st December.
 
-### 3. Revocation[^key-ed64aa8e3c1b5e21baffce3382b63331]
+### 3. Revocation[^c-ed64aa8e3c1b5e21baffce3382b63331]
 
 The Agriculture (Student fees) Regulations (Northern Ireland) 2022[^f00003] are revoked.
 
 ## PART 2 — COURSES
 
-### 4. Higher education courses[^key-b9db97604b8cba7a22b9b0b4b07b4c5f]
+### 4. Higher education courses[^c-b9db97604b8cba7a22b9b0b4b07b4c5f]
 
 A “**higher education course**” means any of the following courses, delivered by CAFRE—
 
 - (a) at undergraduate level—
   - (i) a course for a Higher National Diploma or Higher National Certificate of—
     - (aa) the Business & Technology Education Council; or
-    - (bb) Qualifications Scotland[^key-04eeba6d155e8a8b17a69b5e6b888f78];
+    - (bb) Qualifications Scotland[^c-04eeba6d155e8a8b17a69b5e6b888f78];
   - (ii) a Certificate in Higher Education course;
   - (iii) a Foundation Degree course;
   - (iv) an extended Foundation Degree course; or
@@ -130,7 +130,7 @@ A “**higher education course**” means any of the following courses, delivere
   - (ii) a Postgraduate Diploma course; or
   - (iii) a Master’s Degree course.
 
-### 5. Full-time higher education course[^key-63bf5ceb5e54c7201b3cb49a790e994e]
+### 5. Full-time higher education course[^c-63bf5ceb5e54c7201b3cb49a790e994e]
 
 (1) A “**full-time higher education course**” means a higher education course which meets the conditions for undergraduate level in paragraph (2) or the conditions for postgraduate level in paragraph (3), as the case may be.
 
@@ -156,7 +156,7 @@ A “**higher education course**” means any of the following courses, delivere
   - (i) it is of 45 weeks’ duration, excluding vacations; and
   - (ii) the total credit points to be awarded to a student who successfully completes the course equates to 180.
 
-### 6. Part-time higher education course[^key-a758347cf8128198bbbc674bffaa9bed]
+### 6. Part-time higher education course[^c-a758347cf8128198bbbc674bffaa9bed]
 
 (1) A “**part-time higher education course**” means a higher education course which meets the following conditions—
 
@@ -173,7 +173,7 @@ A “**higher education course**” means any of the following courses, delivere
   - (iii) not to have repeated any part of the full-time equivalent; and
   - (iv) not to be absent from the full-time equivalent other than during vacations.
 
-### 7. Sandwich higher education course[^key-4d84d25cd5e65413b3a7e69447a70cb0]
+### 7. Sandwich higher education course[^c-4d84d25cd5e65413b3a7e69447a70cb0]
 
 (1) A “sandwich higher education course” is a higher education course that meets the following conditions—
 
@@ -188,14 +188,14 @@ A “**higher education course**” means any of the following courses, delivere
 
 ## PART 3 — STUDENT FEE FRAMEWORKS
 
-### 8. Current fee framework[^key-869a780296dbfdfc00cb484fddaf4f4e]
+### 8. Current fee framework[^c-869a780296dbfdfc00cb484fddaf4f4e]
 
 “**Current fee framework**” means the fee framework that is applied to a student undertaking a higher education course—
 
 - (a) where the course start date of their current course is on or after 1st September 2022; and
 - (b) the student does not fall within regulation 9.
 
-### 9. 2022 legacy fee framework[^key-9d23de73e4cb80bccf9a64a600076288]
+### 9. 2022 legacy fee framework[^c-9d23de73e4cb80bccf9a64a600076288]
 
 “**2022 legacy fee framework**” means the fee framework that is applied to a student undertaking a higher education course where—
 
@@ -205,23 +205,23 @@ A “**higher education course**” means any of the following courses, delivere
 
 ## PART 4 — STUDENT CATEGORIES
 
-### 10. Home students[^key-7c18710695d9c97397a5a3cdf9393270]
+### 10. Home students[^c-7c18710695d9c97397a5a3cdf9393270]
 
 A person is to be treated as a “home student” where they are a qualifying person—
 
 - (a) that falls within paragraph 4 or 6 contained within Part 2 (General Categories) of Schedule 2;
 - (b) that falls within Part 3 (Special Categories) of Schedule 2;
-- (c) that falls within Part 4 (EU and Other States Categories) of Schedule 2[^key-07923936486f29818eeb31130d271214] where the course start date is before 1st September 2021; or
+- (c) that falls within Part 4 (EU and Other States Categories) of Schedule 2[^c-07923936486f29818eeb31130d271214] where the course start date is before 1st September 2021; or
 - (d) that falls within Part 5 (EU and Other States Special Categories) of Schedule 2 and who is ordinarily resident in Northern Ireland prior to the course start date.
 
-### 11. Students from Great Britain[^key-3a692f1befa4ff48faa8cc7dc29ae044]
+### 11. Students from Great Britain[^c-3a692f1befa4ff48faa8cc7dc29ae044]
 
 A person is to be treated as a “student from Great Britain” where they are a qualifying person—
 
 - (a) that falls within paragraph 5 or 7 contained within Part 2 (General Categories) of Schedule 2; or
 - (b) that falls within Part 5 (EU and Other States Special Categories) of Schedule 2 and who is ordinarily resident in Great Britain and the Islands prior to the course start date.
 
-### 12. International students[^key-aa0277dd9bf0ddc9ff77437b715c9d84]
+### 12. International students[^c-aa0277dd9bf0ddc9ff77437b715c9d84]
 
 A person is to be treated as an “international student” where—
 
@@ -233,7 +233,7 @@ A person is to be treated as an “international student” where—
 
 ## PART 5 — INTENSITY OF STUDY
 
-### 13. Intensity of study[^key-57f35b019107938cba8dffd984d47296]
+### 13. Intensity of study[^c-57f35b019107938cba8dffd984d47296]
 
 “Intensity of study” is calculated as follows and expressed as a percentage—
 
@@ -248,7 +248,7 @@ Where—
 
 ### CHAPTER 1 — CURRENT FEE FRAMEWORK
 
-#### 14. Student fee codes for home students on the current fee framework[^key-8708fe32119f92601bea4b73900dba98]
+#### 14. Student fee codes for home students on the current fee framework[^c-8708fe32119f92601bea4b73900dba98]
 
 Subject to regulation 17, the fee codes for a home student to whom the current fee framework applies are—
 
@@ -261,7 +261,7 @@ Subject to regulation 17, the fee codes for a home student to whom the current f
 - (g) FC7, in respect of a postgraduate diploma course; and
 - (h) FC8, in respect of a Master’s degree course.
 
-#### 15. Student fee codes for students from Great Britain on the current fee framework[^key-b236d3d6430a0d9310398760f6ae3a5d]
+#### 15. Student fee codes for students from Great Britain on the current fee framework[^c-b236d3d6430a0d9310398760f6ae3a5d]
 
 Subject to regulation 17, the fee codes for a student from Great Britain to whom the current fee framework applies are—
 
@@ -274,13 +274,13 @@ Subject to regulation 17, the fee codes for a student from Great Britain to whom
 - (g) FC16, in respect of a postgraduate diploma course; and
 - (h) FC17, in respect of a Master’s degree course.
 
-#### 16. Student fee codes for international students on the current fee framework[^key-681362d64574f9a2c8975f81b53cd95e]
+#### 16. Student fee codes for international students on the current fee framework[^c-681362d64574f9a2c8975f81b53cd95e]
 
 (1) Subject to paragraph (2), the fee code for an international student enrolled on a higher education course and to whom the current fee framework applies is FC29.
 
 (2) The fee code for an international student enrolled on a certificate in higher education course and to whom the current fee framework applies is FC30.
 
-#### 17. Student fee codes where the reduced higher education student fee applies on the current fee framework[^key-a0ad7a6e51c41a45696db705e2db77cd]
+#### 17. Student fee codes where the reduced higher education student fee applies on the current fee framework[^c-a0ad7a6e51c41a45696db705e2db77cd]
 
 The fee codes for a student to whom regulation 25 and the current fee framework applies are—
 
@@ -290,7 +290,7 @@ The fee codes for a student to whom regulation 25 and the current fee framework 
 
 ### CHAPTER 2 — 2022 LEGACY FEE FRAMEWORK
 
-#### 18. Student fee codes for home students on the 2022 legacy fee framework[^key-837fb0229065aaa5c6e9863bb34cff6b]
+#### 18. Student fee codes for home students on the 2022 legacy fee framework[^c-837fb0229065aaa5c6e9863bb34cff6b]
 
 Subject to regulation 21, the fee codes for a home student to whom the 2022 legacy fee framework applies are—
 
@@ -298,7 +298,7 @@ Subject to regulation 21, the fee codes for a home student to whom the 2022 lega
 - (b) FC20, in respect of Year 1 of an extended foundation degree course; and
 - (c) FC21, in respect of Year 2 and Year 3 of an extended foundation degree course.
 
-#### 19. Student fee codes for students from Great Britain on the 2022 legacy fee framework[^key-b0adee25fdba306c09492664e4861ca9]
+#### 19. Student fee codes for students from Great Britain on the 2022 legacy fee framework[^c-b0adee25fdba306c09492664e4861ca9]
 
 Subject to regulation 21, the fee codes for a student from Great Britain to whom the 2022 legacy fee framework applies are—
 
@@ -309,11 +309,11 @@ Subject to regulation 21, the fee codes for a student from Great Britain to whom
 - (e) FC26, in respect of a postgraduate diploma course; and
 - (f) FC27, in respect of a Master’s degree course.
 
-#### 20. Student fee codes for international students on the 2022 legacy fee framework[^key-4a5e04e41ee6df4a455a5df2ef89a2b2]
+#### 20. Student fee codes for international students on the 2022 legacy fee framework[^c-4a5e04e41ee6df4a455a5df2ef89a2b2]
 
 The fee code for an international student enrolled on a higher education course and to whom the 2022 legacy fee framework applies is FC28.
 
-#### 21. Student fee codes where the reduced higher education student fee applies on the 2022 legacy fee framework[^key-c978025ba07850754784a20de7cab137]
+#### 21. Student fee codes where the reduced higher education student fee applies on the 2022 legacy fee framework[^c-c978025ba07850754784a20de7cab137]
 
 The fee codes for a student to whom regulation 25 and the 2022 legacy fee framework applies are—
 
@@ -323,7 +323,7 @@ The fee codes for a student to whom regulation 25 and the 2022 legacy fee framew
 
 ## PART 7 — IN-YEAR EVENTS
 
-### 22. In-year events[^key-ef43b89f1873a359386b91b49bfbfded]
+### 22. In-year events[^c-ef43b89f1873a359386b91b49bfbfded]
 
 Where an event occurs in the course of an academic year and as a result a person’s student category changes by—
 
@@ -335,7 +335,7 @@ the change of student category in respect of the academic year in which the rele
 
 ## PART 8 — HIGHER EDUCATION STUDENT FEE AMOUNTS
 
-### 23. Full-time higher education student fee amounts[^key-7580e0eba7485cf61765fb4502f97937]
+### 23. Full-time higher education student fee amounts[^c-7580e0eba7485cf61765fb4502f97937]
 
 (1) The fee payable to the Department by a full-time student in the current academic year in respect of a full-time higher education course—
 
@@ -356,7 +356,7 @@ the change of student category in respect of the academic year in which the rele
 - (c) is on the same student fee framework;
 - (d) will complete the credit points as defined at regulation 5 for the same full-time higher education course in question.
 
-### 24. Part-time higher education student fee amounts[^key-06c1c696d83cdb08567f759c8564adeb]
+### 24. Part-time higher education student fee amounts[^c-06c1c696d83cdb08567f759c8564adeb]
 
 The fee payable to the Department by a part-time student in the current academic year in respect of a part-time higher education course is the fee specified in Column 2 of the table in Schedule 1 which is opposite the fee code for that student in Column 1 of the table and applying the following formula rounded to the nearest £5—
 
@@ -367,7 +367,7 @@ Where—
 - CF is the fee payable by a full-time student for the current academic year on a full-time equivalent.
 - CI is the intensity of study calculated using the formula in regulation 13 and expressed as a percentage.
 
-### 25. Reduced higher education fee amounts[^key-ff6f6653365c906bfa6f2ea3adcc51f4]
+### 25. Reduced higher education fee amounts[^c-ff6f6653365c906bfa6f2ea3adcc51f4]
 
 (1) The level of fee payable to the Department by a student shall be reduced in the following cases—
 
@@ -383,13 +383,13 @@ A senior officer of the
 
 Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE 1 — STUDENT FEE AMOUNTS[^key-a1238ec65c2e8f93bbd50c8e9e0d298c]
+## SCHEDULE 1 — STUDENT FEE AMOUNTS[^c-a1238ec65c2e8f93bbd50c8e9e0d298c]
 
 Regulations 23 and 24
 
 | Column 1 | Column 2 (£) |
 | --- | --- |
-| FC1[^key-ba56581bc62bde15577f0514900bfd7a] | 1,285 |
+| FC1[^c-ba56581bc62bde15577f0514900bfd7a] | 1,285 |
 | FC2 | 2,745 |
 | FC3 | 2,745 |
 | FC4 | 1,375 |
@@ -430,7 +430,7 @@ Regulations 10, 11 and 12
 
 ### PART 1 — Interpretation
 
-**1.**[^key-e89b182ad71b9ce6ac386f71781f9d19] (1) For the purposes of this Schedule—
+**1.**[^c-e89b182ad71b9ce6ac386f71781f9d19] (1) For the purposes of this Schedule—
 
 - “**the 2020 Citizens’ Rights Regulations**” means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020[^f00004];
 - “**Directive 2004/38**” means [Directive 2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004[^f00005] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member State;
@@ -453,7 +453,7 @@ Regulations 10, 11 and 12
 - “**EU withdrawal agreement**” means the withdrawal agreement within the meaning of the European Union (Withdrawal Agreement) Act 2020[^f00009] (see section 39(1) and (6) of the Act);
 - “**family member**” has the meaning assigned by paragraph 3;
 - “**immigration rules**” has the meaning given in section 33(1) of the Immigration Act 1971[^f00010];
-- “**overseas territories**” means Anguilla;[^key-1560ab00129c5843904ed3a0fca1e93c]... Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten);[^key-ac156205cae6a1064a192cafa428100e] Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar; Greenland; Mayotte; Montserrat;[^key-096530e74b071674207d291585d64a73]... Pitcairn, Henderson, Ducie & Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy; St Helena, Ascension Island and Tristan de Cunha; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
+- “**overseas territories**” means Anguilla;[^c-1560ab00129c5843904ed3a0fca1e93c]... Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten);[^c-ac156205cae6a1064a192cafa428100e] Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Gibraltar; Greenland; Mayotte; Montserrat;[^c-096530e74b071674207d291585d64a73]... Pitcairn, Henderson, Ducie & Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy; St Helena, Ascension Island and Tristan de Cunha; St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
 - “**person granted humanitarian protection**” means a person—
   - (a) who, on the grounds of humanitarian protection, has been granted leave to remain under the immigration rules;
   - (b) whose leave to remain is extant, or in respect of whose leave to remain an appeal is pending (within section 104 of the Nationality, Immigration and Asylum Act 2002[^f00011]; and
@@ -523,7 +523,7 @@ is to be considered to have always been a part of the European Economic Area.
 - (b) Article 9 (personal scope) of the EEA EFTA separation agreement; or
 - (c) Article 10 (personal scope) of the Swiss citizens’ rights agreement.
 
-#### 2. Ordinarily resident[^key-c286ac80f3da16311146c4d65de9427a]
+#### 2. Ordinarily resident[^c-c286ac80f3da16311146c4d65de9427a]
 
 (1) For the purposes of these Regulations, a person is to be treated as ordinarily resident in the British Islands, the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland, the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories, the territory comprising the United Kingdom, the Islands, Gibraltar and the specified British overseas territories; or the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland, Turkey and the overseas territories if they would have been so resident but for the fact—
 
@@ -541,7 +541,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 - (c) in the case of members of the regular armed forces of an EEA State or Switzerland, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area and Switzerland as members of such forces; and
 - (d) in the case of members of the regular armed forces of Turkey, any period which they serve outside the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and Turkey, as members of such forces.
 
-#### 3. Family member[^key-f6d343d356f59639051caa0d36c9c9e5]
+#### 3. Family member[^c-f6d343d356f59639051caa0d36c9c9e5]
 
 “**Family member**” means—
 
@@ -573,7 +573,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 ### PART 2 — GENERAL CATEGORIES
 
-#### 4. Persons settled in the United Kingdom and ordinarily resident in Northern Ireland[^key-4a2e76dc225999448a4973759de0df7c]
+#### 4. Persons settled in the United Kingdom and ordinarily resident in Northern Ireland[^c-4a2e76dc225999448a4973759de0df7c]
 
 (1) A person—
 
@@ -585,7 +585,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in Northern Ireland in accordance with paragraph 2.
 
-#### 5. Persons settled in the United Kingdom and ordinarily resident in Great Britain and the Islands[^key-6bb99a737f6a776ec12c9e8bbce7efd6]
+#### 5. Persons settled in the United Kingdom and ordinarily resident in Great Britain and the Islands[^c-6bb99a737f6a776ec12c9e8bbce7efd6]
 
 (1) A person—
 
@@ -597,7 +597,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and the Islands in accordance with paragraph 2.
 
-#### 6. Persons from Republic of Ireland[^key-40ef833cf1cb4283090df200ea502a27]
+#### 6. Persons from Republic of Ireland[^c-40ef833cf1cb4283090df200ea502a27]
 
 (1) A person—
 
@@ -609,7 +609,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the Republic of Ireland in accordance with paragraph 2.
 
-#### 7. Persons resident in Gibraltar[^key-d47b42652934bb3c1b0d9a8ec702add5]
+#### 7. Persons resident in Gibraltar[^c-d47b42652934bb3c1b0d9a8ec702add5]
 
 (1) A person—
 
@@ -631,7 +631,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 ### PART 3 — SPECIAL CATEGORIES
 
-#### 8. Refugees and their family members[^key-46f308579dbaf7ce1a3791c71af67298]
+#### 8. Refugees and their family members[^c-46f308579dbaf7ce1a3791c71af67298]
 
 (1) A person who—
 
@@ -654,7 +654,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 - (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since they were given leave to enter or remain in the United Kingdom; and
 - (e) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 9. Persons granted stateless leave and their family members[^key-2da857594cb6796f006e4a2a73409858]
+#### 9. Persons granted stateless leave and their family members[^c-2da857594cb6796f006e4a2a73409858]
 
 (1) A person granted stateless leave, who is ordinarily resident in Northern Ireland on the course start date.
 
@@ -677,7 +677,7 @@ is or was temporarily employed outside the area in question or is or was tempora
 
 (4) In this paragraph, “**leave application date**” means the date on which a person granted stateless leave made an application to remain in the United Kingdom as a stateless person under the immigration rules.
 
-#### 10. Persons granted section 67 leave[^key-fbe583d1f1d8e3a6b2fc0b9105f424ab]
+#### 10. Persons granted section 67 leave[^c-fbe583d1f1d8e3a6b2fc0b9105f424ab]
 
 A person who—
 
@@ -685,7 +685,7 @@ A person who—
 - (b) has been ordinarily resident in the United Kingdom and the Islands throughout the period since the person was granted such leave; and
 - (c) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 11. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^key-d19536f569394814ec857721b2e9086e]
+#### 11. Persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse and their children[^c-d19536f569394814ec857721b2e9086e]
 
 (1) A person who—
 
@@ -710,7 +710,7 @@ A person who—
 
 (3) In sub-paragraph (2), “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse made an application to remain in the United Kingdom on those grounds under the immigration rules.
 
-#### 12. Persons granted Calais leave[^key-3cd008a89662c83692194a5776252556]
+#### 12. Persons granted Calais leave[^c-3cd008a89662c83692194a5776252556]
 
 A person who—
 
@@ -718,7 +718,7 @@ A person who—
 - (b) has been ordinarily resident in the United Kingdom and the Islands since the person was granted such leave to remain; and
 - (c) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 13. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^key-7252ee757b01aec2531b81870b8e2d0f]
+#### 13. Persons granted indefinite leave to enter or remain as a bereaved partner and their children[^c-7252ee757b01aec2531b81870b8e2d0f]
 
 (1) A person who—
 
@@ -746,7 +746,7 @@ A person who—
 
 (3) In sub-paragraph (2), “**leave application date**” means the date on which a person granted indefinite leave to enter or remain as a bereaved partner made an application to enter or remain in the United Kingdom on those grounds under the immigration rules or, in the case of a person referred to in sub-paragraph (1)(a)(iv), outside of the immigration rules.
 
-#### 14. Persons granted humanitarian protection and their family members[^key-178b3bf97fcc62ff40fd624243483acc]
+#### 14. Persons granted humanitarian protection and their family members[^c-178b3bf97fcc62ff40fd624243483acc]
 
 (1) A person granted humanitarian protection who is ordinarily resident in the United Kingdom on the course start date;
 
@@ -765,7 +765,7 @@ A person who—
 - (d) is ordinarily resident in the United Kingdom and the Islands and has not ceased to be so resident since being given leave to enter or remain in the United Kingdom; and
 - (e) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 15. Persons with leave to enter or remain on the grounds of discretionary leave and their family members[^key-fa18b6e6bf3b58f28801de3a075f4c25]
+#### 15. Persons with leave to enter or remain on the grounds of discretionary leave and their family members[^c-fa18b6e6bf3b58f28801de3a075f4c25]
 
 (1) A person granted leave to enter or remain on the grounds of discretionary leave who is ordinarily resident in the United Kingdom on the course start date.
 
@@ -785,7 +785,7 @@ A person who—
 
 (4) In this paragraph, “**leave application date**” means the date on which the person with leave to enter or remain on the grounds of discretionary leave made the application that led to that person being granted leave to enter or remain on the grounds of discretionary leave in the United Kingdom.
 
-#### 16. Persons granted leave to enter or remain under the Afghan Citizens Resettlement Scheme and their family members[^key-2162d2f118f6c066f968e202cc83a4fd]
+#### 16. Persons granted leave to enter or remain under the Afghan Citizens Resettlement Scheme and their family members[^c-2162d2f118f6c066f968e202cc83a4fd]
 
 (1) A person who—
 
@@ -814,7 +814,7 @@ A person who—
 
 (4) In sub-paragraph (2) and sub-paragraph (3) “**leave application date**” means the date on which the person granted leave under the Afghan Citizens Resettlement Scheme made an application for leave to enter or remain in the United Kingdom.
 
-#### 17. Persons granted leave to enter or remain under the Afghan Relocations and Assistance Policy Scheme and their family members[^key-2b8edf6870fc2ce43ed59c9019f7e962]
+#### 17. Persons granted leave to enter or remain under the Afghan Relocations and Assistance Policy Scheme and their family members[^c-2b8edf6870fc2ce43ed59c9019f7e962]
 
 (1) A person who—
 
@@ -847,7 +847,7 @@ A person who—
 
 (4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Afghan Relocations and Assistance Policy Scheme made an application for leave to enter or remain in the United Kingdom.
 
-#### 18. Evacuated or assisted British nationals from Afghanistan[^key-93303b10601e525a46df95f2eb31b99c]
+#### 18. Evacuated or assisted British nationals from Afghanistan[^c-93303b10601e525a46df95f2eb31b99c]
 
 A person who—
 
@@ -858,7 +858,7 @@ A person who—
 - (c) has been ordinarily resident in the United Kingdom and Islands since they were evacuated from or otherwise left Afghanistan; and
 - (d) is ordinarily resident in the United Kingdom on the course start date.
 
-#### 19. Persons granted leave to enter or remain under the Homes for Ukraine Sponsorship Scheme and their family members[^key-4e0a5255d33a7dac1a3f369cbcbc372d]
+#### 19. Persons granted leave to enter or remain under the Homes for Ukraine Sponsorship Scheme and their family members[^c-4e0a5255d33a7dac1a3f369cbcbc372d]
 
 (1) A person who—
 
@@ -891,7 +891,7 @@ A person who—
 
 (4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Homes for Ukraine Scheme made an application for leave to enter or remain in the United Kingdom.
 
-#### 20. Persons granted leave to enter or remain under the Ukraine Extension Scheme and their family members[^key-708b93307b1281fa8ba4889a63485cb3]
+#### 20. Persons granted leave to enter or remain under the Ukraine Extension Scheme and their family members[^c-708b93307b1281fa8ba4889a63485cb3]
 
 (1) A person who—
 
@@ -920,7 +920,7 @@ A person who—
 
 (4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Ukraine Extension Scheme made an application for leave to enter or remain in the United Kingdom.
 
-#### 21. Persons granted leave to enter or remain under the Ukraine Family Scheme and their family members[^key-8f3b4fa8d83422f760ea34ed887354fb]
+#### 21. Persons granted leave to enter or remain under the Ukraine Family Scheme and their family members[^c-8f3b4fa8d83422f760ea34ed887354fb]
 
 (1) A person who—
 
@@ -953,7 +953,7 @@ A person who—
 
 (4) In sub-paragraph (2) and sub-paragraph (3), “**leave application date**” means the date on which the person granted leave under the Ukraine Family Scheme made an application for leave to enter or remain in the United Kingdom.
 
-#### 21A. Persons granted leave to enter or remain under the Ukraine Permission Extension Scheme and their family members[^key-fb392e94b47e0777fc0fc679edaee344]
+#### 21A. Persons granted leave to enter or remain under the Ukraine Permission Extension Scheme and their family members[^c-fb392e94b47e0777fc0fc679edaee344]
 
 (1) A person who—
 
@@ -983,7 +983,7 @@ A person who—
 
 ### PART 4 — EU AND OTHER STATES CATEGORIES
 
-#### 22. EU nationals[^key-0639cb26b4a0316afe86aedc4ab34581]
+#### 22. EU nationals[^c-0639cb26b4a0316afe86aedc4ab34581]
 
 (1) A person who—
 
@@ -1005,7 +1005,7 @@ A person who—
 
 (4) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-#### 23. EU nationals ordinarily resident in the United Kingdom and the Islands[^key-25d20b05947e860d5f4768fd90110959]
+#### 23. EU nationals ordinarily resident in the United Kingdom and the Islands[^c-25d20b05947e860d5f4768fd90110959]
 
 (1) A person who—
 
@@ -1016,7 +1016,7 @@ A person who—
 
 (2) Where a state accedes to the European Union after the course start date and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national on the course start date is treated as being satisfied.
 
-#### 24. Workers, employed persons, self-employed persons and their family members[^key-e793494de0817152fdd527688e034c4b]
+#### 24. Workers, employed persons, self-employed persons and their family members[^c-e793494de0817152fdd527688e034c4b]
 
 (1) A person who—
 
@@ -1032,7 +1032,7 @@ A person who—
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
 
-**25.**[^key-21dd9a9f8941bbe473de21bd19de5e2b] (1) A person who—
+**25.**[^c-21dd9a9f8941bbe473de21bd19de5e2b] (1) A person who—
 
 - (a) is ordinarily resident in the United Kingdom on the course start date;
 - (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
@@ -1040,7 +1040,7 @@ A person who—
 
 (2) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-#### 26. Children of Swiss nationals[^key-4c7ee49753e2bc9682b6bb692ee0f0db]
+#### 26. Children of Swiss nationals[^c-4c7ee49753e2bc9682b6bb692ee0f0db]
 
 (1) A person who—
 
@@ -1051,7 +1051,7 @@ A person who—
 
 (2) Any description of person who would have fallen within this paragraph immediately before IP completion day is to be treated as falling within this paragraph on and after IP completion day.
 
-#### 27. Children of Turkish workers[^key-8b9986abbc417f80c28a732ec1bdadfe]
+#### 27. Children of Turkish workers[^c-8b9986abbc417f80c28a732ec1bdadfe]
 
 A person who—
 
@@ -1059,7 +1059,7 @@ A person who—
 - (b) is ordinarily resident in the United Kingdom on the course start date; and
 - (c) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland, Turkey and the overseas territories throughout the three-year period preceding the course start date.
 
-#### 28. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-ad3db68e7e8f4b29a0a7d69614adbede]
+#### 28. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-ad3db68e7e8f4b29a0a7d69614adbede]
 
 (1) A person who—
 
@@ -1084,7 +1084,7 @@ A person who—
 
 ### PART 5 — EU AND OTHER STATES SPECIAL CATEGORIES
 
-#### 29. Persons with protected rights[^key-cf68bda18aa86586785e672c5c5b63d4]
+#### 29. Persons with protected rights[^c-cf68bda18aa86586785e672c5c5b63d4]
 
 (1) A person who—
 
@@ -1111,7 +1111,7 @@ A person who—
 - (b) Article 17(2) and (3) (issuance of residence documents) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
 - (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
 
-#### 30. EU nationals[^key-fa663e70912f5b16e77937fc1f1084c5]
+#### 30. EU nationals[^c-fa663e70912f5b16e77937fc1f1084c5]
 
 (1) A person with protect rights—
 
@@ -1130,7 +1130,7 @@ A person who—
 
 (3) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories in accordance with paragraph 2.
 
-#### 31. Workers, employed persons, self-employed persons and their family members[^key-68b48c73dd01f88efd3dd7ca45b7c9b5]
+#### 31. Workers, employed persons, self-employed persons and their family members[^c-68b48c73dd01f88efd3dd7ca45b7c9b5]
 
 (1) A person with protected rights, or a frontier worker within the meaning of regulation 3 of the Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020, who—
 
@@ -1148,7 +1148,7 @@ A person who—
 
 (3) In this paragraph, a description of a person in sub-paragraph (1)(a)(i) is to be read as if it includes a relevant person of Northern Ireland who would, if that person were an EEA national or solely an EEA national, be an EEA migrant worker or an EEA self-employed person.
 
-**32.**[^key-f83d3339a5ff207ec847915cf20b938f] (1) A person with protected rights who—
+**32.**[^c-f83d3339a5ff207ec847915cf20b938f] (1) A person with protected rights who—
 
 - (a) is ordinarily resident in the United Kingdom on the course start date;
 - (b) has been ordinarily resident in the territory comprising the United Kingdom, Gibraltar, the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the course start date; and
@@ -1159,7 +1159,7 @@ A person who—
 - (a) the reference to a “national of a Member State” is to be read as including a relevant person from Northern Ireland; and
 - (b) the reference to “another Member State” is to be read as including the United Kingdom, and the references to “that State” construed accordingly.
 
-#### 33. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-c1da38b3e1267fd0cf2fcdc480826f8c]
+#### 33. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-c1da38b3e1267fd0cf2fcdc480826f8c]
 
 (1) A person who—
 
@@ -1210,67 +1210,67 @@ Schedule 2 (Qualifying Persons) sets out the different categories of qualifying 
 
 [^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/nia/1949/2). Section 5A(1) and (2) was inserted by Article 42(1) of the Education (Northern Ireland) Order 2006 ([S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915)
 
-[^key-28424c79ed0831e15bbda55464577722]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-28424c79ed0831e15bbda55464577722]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-a658d3365628886879f942c577ad8a04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/98/regulation/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-a658d3365628886879f942c577ad8a04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/98/regulation/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-ed64aa8e3c1b5e21baffce3382b63331]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/98/regulation/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-ed64aa8e3c1b5e21baffce3382b63331]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/98/regulation/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2022 No. 199](https://www.legislation.gov.uk/nisr/2022/199)
 
-[^key-b9db97604b8cba7a22b9b0b4b07b4c5f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2023/98/regulation/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-b9db97604b8cba7a22b9b0b4b07b4c5f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2023/98/regulation/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-04eeba6d155e8a8b17a69b5e6b888f78]: Textual amendment: Words in [reg. 4(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2023/98/regulation/4/a/i/bb) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/21/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-04eeba6d155e8a8b17a69b5e6b888f78]: Textual amendment: Words in [reg. 4(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2023/98/regulation/4/a/i/bb) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/21/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-63bf5ceb5e54c7201b3cb49a790e994e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2023/98/regulation/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-63bf5ceb5e54c7201b3cb49a790e994e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2023/98/regulation/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-a758347cf8128198bbbc674bffaa9bed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2023/98/regulation/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-a758347cf8128198bbbc674bffaa9bed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2023/98/regulation/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-4d84d25cd5e65413b3a7e69447a70cb0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2023/98/regulation/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-4d84d25cd5e65413b3a7e69447a70cb0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2023/98/regulation/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-869a780296dbfdfc00cb484fddaf4f4e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2023/98/regulation/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-869a780296dbfdfc00cb484fddaf4f4e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2023/98/regulation/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-9d23de73e4cb80bccf9a64a600076288]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2023/98/regulation/9) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [3](https://www.legislation.gov.uk/nisr/2026/135/regulation/3)
+[^c-9d23de73e4cb80bccf9a64a600076288]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2023/98/regulation/9) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [3](https://www.legislation.gov.uk/nisr/2026/135/regulation/3)
 
-[^key-7c18710695d9c97397a5a3cdf9393270]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2023/98/regulation/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-7c18710695d9c97397a5a3cdf9393270]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2023/98/regulation/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-07923936486f29818eeb31130d271214]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2023/98/regulation/10/c) inserted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/a)
+[^c-07923936486f29818eeb31130d271214]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2023/98/regulation/10/c) inserted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/a)
 
-[^key-3a692f1befa4ff48faa8cc7dc29ae044]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2023/98/regulation/11) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-3a692f1befa4ff48faa8cc7dc29ae044]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2023/98/regulation/11) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-aa0277dd9bf0ddc9ff77437b715c9d84]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2023/98/regulation/12) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/b)
+[^c-aa0277dd9bf0ddc9ff77437b715c9d84]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2023/98/regulation/12) substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2026/135/regulation/4/b)
 
-[^key-57f35b019107938cba8dffd984d47296]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2023/98/regulation/13) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-57f35b019107938cba8dffd984d47296]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2023/98/regulation/13) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-8708fe32119f92601bea4b73900dba98]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2023/98/regulation/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-8708fe32119f92601bea4b73900dba98]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2023/98/regulation/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-b236d3d6430a0d9310398760f6ae3a5d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2023/98/regulation/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-b236d3d6430a0d9310398760f6ae3a5d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2023/98/regulation/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-681362d64574f9a2c8975f81b53cd95e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2023/98/regulation/16) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-681362d64574f9a2c8975f81b53cd95e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2023/98/regulation/16) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-a0ad7a6e51c41a45696db705e2db77cd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2023/98/regulation/17) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-a0ad7a6e51c41a45696db705e2db77cd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2023/98/regulation/17) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-837fb0229065aaa5c6e9863bb34cff6b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2023/98/regulation/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-837fb0229065aaa5c6e9863bb34cff6b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2023/98/regulation/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-b0adee25fdba306c09492664e4861ca9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2023/98/regulation/19) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-b0adee25fdba306c09492664e4861ca9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2023/98/regulation/19) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-4a5e04e41ee6df4a455a5df2ef89a2b2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2023/98/regulation/20) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-4a5e04e41ee6df4a455a5df2ef89a2b2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2023/98/regulation/20) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-c978025ba07850754784a20de7cab137]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2023/98/regulation/21) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-c978025ba07850754784a20de7cab137]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2023/98/regulation/21) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-ef43b89f1873a359386b91b49bfbfded]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2023/98/regulation/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-ef43b89f1873a359386b91b49bfbfded]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2023/98/regulation/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-7580e0eba7485cf61765fb4502f97937]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2023/98/regulation/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-7580e0eba7485cf61765fb4502f97937]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2023/98/regulation/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-06c1c696d83cdb08567f759c8564adeb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2023/98/regulation/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-06c1c696d83cdb08567f759c8564adeb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2023/98/regulation/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-ff6f6653365c906bfa6f2ea3adcc51f4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2023/98/regulation/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-ff6f6653365c906bfa6f2ea3adcc51f4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2023/98/regulation/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-a1238ec65c2e8f93bbd50c8e9e0d298c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-a1238ec65c2e8f93bbd50c8e9e0d298c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-ba56581bc62bde15577f0514900bfd7a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) Table substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [5](https://www.legislation.gov.uk/nisr/2026/135/regulation/5)
+[^c-ba56581bc62bde15577f0514900bfd7a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/1) Table substituted (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [5](https://www.legislation.gov.uk/nisr/2026/135/regulation/5)
 
-[^key-e89b182ad71b9ce6ac386f71781f9d19]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-e89b182ad71b9ce6ac386f71781f9d19]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2020 No. 1209](https://www.legislation.gov.uk/nisr/2020/1209)
 
@@ -1286,11 +1286,11 @@ Schedule 2 (Qualifying Persons) sets out the different categories of qualifying 
 
 [^f00010]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-1560ab00129c5843904ed3a0fca1e93c]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/a)
+[^c-1560ab00129c5843904ed3a0fca1e93c]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/a)
 
-[^key-ac156205cae6a1064a192cafa428100e]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/b)
+[^c-ac156205cae6a1064a192cafa428100e]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/b)
 
-[^key-096530e74b071674207d291585d64a73]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/c)
+[^c-096530e74b071674207d291585d64a73]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/1/1) omitted (1.9.2025) by virtue of [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2025/112/regulation/5/c)
 
 [^f00011]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
 
@@ -1304,70 +1304,70 @@ Schedule 2 (Qualifying Persons) sets out the different categories of qualifying 
 
 [^f00016]: Footnote: Cmd. 4904.
 
-[^key-c286ac80f3da16311146c4d65de9427a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-c286ac80f3da16311146c4d65de9427a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/2) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-f6d343d356f59639051caa0d36c9c9e5]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-f6d343d356f59639051caa0d36c9c9e5]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/3) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-4a2e76dc225999448a4973759de0df7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-4a2e76dc225999448a4973759de0df7c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/4) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-6bb99a737f6a776ec12c9e8bbce7efd6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-6bb99a737f6a776ec12c9e8bbce7efd6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/5) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-40ef833cf1cb4283090df200ea502a27]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-40ef833cf1cb4283090df200ea502a27]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/6) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-d47b42652934bb3c1b0d9a8ec702add5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-d47b42652934bb3c1b0d9a8ec702add5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/7) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-46f308579dbaf7ce1a3791c71af67298]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-46f308579dbaf7ce1a3791c71af67298]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/8) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-2da857594cb6796f006e4a2a73409858]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/9) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-2da857594cb6796f006e4a2a73409858]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/9) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-fbe583d1f1d8e3a6b2fc0b9105f424ab]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-fbe583d1f1d8e3a6b2fc0b9105f424ab]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/10) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-d19536f569394814ec857721b2e9086e]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/11) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/112/regulation/6)
+[^c-d19536f569394814ec857721b2e9086e]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/11) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/112/regulation/6)
 
-[^key-3cd008a89662c83692194a5776252556]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/12) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-3cd008a89662c83692194a5776252556]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/12) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-7252ee757b01aec2531b81870b8e2d0f]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/13) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [7](https://www.legislation.gov.uk/nisr/2025/112/regulation/7)
+[^c-7252ee757b01aec2531b81870b8e2d0f]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/13) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [7](https://www.legislation.gov.uk/nisr/2025/112/regulation/7)
 
-[^key-178b3bf97fcc62ff40fd624243483acc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-178b3bf97fcc62ff40fd624243483acc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/14) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-fa18b6e6bf3b58f28801de3a075f4c25]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-fa18b6e6bf3b58f28801de3a075f4c25]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/15) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-2162d2f118f6c066f968e202cc83a4fd]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/16) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [8](https://www.legislation.gov.uk/nisr/2025/112/regulation/8)
+[^c-2162d2f118f6c066f968e202cc83a4fd]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/16) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [8](https://www.legislation.gov.uk/nisr/2025/112/regulation/8)
 
-[^key-2b8edf6870fc2ce43ed59c9019f7e962]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/17) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [9](https://www.legislation.gov.uk/nisr/2025/112/regulation/9)
+[^c-2b8edf6870fc2ce43ed59c9019f7e962]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/17) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [9](https://www.legislation.gov.uk/nisr/2025/112/regulation/9)
 
-[^key-93303b10601e525a46df95f2eb31b99c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-93303b10601e525a46df95f2eb31b99c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/18) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
 [^f00017]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61)
 
-[^key-4e0a5255d33a7dac1a3f369cbcbc372d]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/19) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [10](https://www.legislation.gov.uk/nisr/2025/112/regulation/10)
+[^c-4e0a5255d33a7dac1a3f369cbcbc372d]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/19) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [10](https://www.legislation.gov.uk/nisr/2025/112/regulation/10)
 
-[^key-708b93307b1281fa8ba4889a63485cb3]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/20) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [11](https://www.legislation.gov.uk/nisr/2025/112/regulation/11)
+[^c-708b93307b1281fa8ba4889a63485cb3]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/20) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [11](https://www.legislation.gov.uk/nisr/2025/112/regulation/11)
 
-[^key-8f3b4fa8d83422f760ea34ed887354fb]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [12](https://www.legislation.gov.uk/nisr/2025/112/regulation/12)
+[^c-8f3b4fa8d83422f760ea34ed887354fb]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21) substituted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [12](https://www.legislation.gov.uk/nisr/2025/112/regulation/12)
 
-[^key-fb392e94b47e0777fc0fc679edaee344]: Textual amendment: [Sch. 2 para. 21A](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21A) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [13](https://www.legislation.gov.uk/nisr/2025/112/regulation/13)
+[^c-fb392e94b47e0777fc0fc679edaee344]: Textual amendment: [Sch. 2 para. 21A](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/21A) inserted (1.9.2025) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/112)](https://www.legislation.gov.uk/nisr/2025/112), [regs. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1), [13](https://www.legislation.gov.uk/nisr/2025/112/regulation/13)
 
-[^key-0639cb26b4a0316afe86aedc4ab34581]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-0639cb26b4a0316afe86aedc4ab34581]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/22) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-25d20b05947e860d5f4768fd90110959]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-25d20b05947e860d5f4768fd90110959]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/23) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-e793494de0817152fdd527688e034c4b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-e793494de0817152fdd527688e034c4b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/24) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-21dd9a9f8941bbe473de21bd19de5e2b]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-21dd9a9f8941bbe473de21bd19de5e2b]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/25) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-4c7ee49753e2bc9682b6bb692ee0f0db]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/26) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-4c7ee49753e2bc9682b6bb692ee0f0db]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/26) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-8b9986abbc417f80c28a732ec1bdadfe]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/27) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-8b9986abbc417f80c28a732ec1bdadfe]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/27) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-ad3db68e7e8f4b29a0a7d69614adbede]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/28) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-ad3db68e7e8f4b29a0a7d69614adbede]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/28) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-cf68bda18aa86586785e672c5c5b63d4]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/29) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-cf68bda18aa86586785e672c5c5b63d4]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/29) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-fa663e70912f5b16e77937fc1f1084c5]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/30) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-fa663e70912f5b16e77937fc1f1084c5]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/30) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-68b48c73dd01f88efd3dd7ca45b7c9b5]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/31) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-68b48c73dd01f88efd3dd7ca45b7c9b5]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/31) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-f83d3339a5ff207ec847915cf20b938f]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/32) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-f83d3339a5ff207ec847915cf20b938f]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/32) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
 
-[^key-c1da38b3e1267fd0cf2fcdc480826f8c]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/33) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)
+[^c-c1da38b3e1267fd0cf2fcdc480826f8c]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2023/98/schedule/2/paragraph/33) in operation at 1.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/98/regulation/1)

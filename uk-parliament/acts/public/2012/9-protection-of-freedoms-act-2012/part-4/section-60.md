@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Replacement powers to stop and search persons and vehicles[^key-029e81071ffd92399f02a8d36d239342]
+## 60. Replacement powers to stop and search persons and vehicles[^c-029e81071ffd92399f02a8d36d239342]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-029e81071ffd92399f02a8d36d239342]: Commencement: S. 60 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)
+[^c-029e81071ffd92399f02a8d36d239342]: Commencement: S. 60 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)

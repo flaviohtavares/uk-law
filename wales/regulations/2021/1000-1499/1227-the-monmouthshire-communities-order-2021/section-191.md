@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 191. Mitchel Troy — community electoral arrangements[^key-196b6635ff5c37dca070d7f7d8288ac5][^key-db1fe4f9944585084477ceea6d6010c5]
+## 191. Mitchel Troy — community electoral arrangements[^c-196b6635ff5c37dca070d7f7d8288ac5][^c-db1fe4f9944585084477ceea6d6010c5]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In the community of Mitchel Troy the number of councillors to be elected for the
 
 ## Annotations
 
-[^key-196b6635ff5c37dca070d7f7d8288ac5]: Commencement: Art. 191 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-196b6635ff5c37dca070d7f7d8288ac5]: Commencement: Art. 191 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-db1fe4f9944585084477ceea6d6010c5]: Commencement: [Art. 191](https://www.legislation.gov.uk/wsi/2021/1227/article/191) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-db1fe4f9944585084477ceea6d6010c5]: Commencement: [Art. 191](https://www.legislation.gov.uk/wsi/2021/1227/article/191) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

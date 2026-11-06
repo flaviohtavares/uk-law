@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register[^key-3def4533906dde2819c94ce4e4489713]
+## 2. Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register[^c-3def4533906dde2819c94ce4e4489713]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,7 +109,7 @@ summary: ''
 (6) In Article 5—
 
 - (a) in the heading, after the words “by operators” insert “ and competent authority duties ”;
-- (b)[^key-5498358e3accf4b5ddf73decadfb4e23] in paragraph 1—
+- (b)[^c-5498358e3accf4b5ddf73decadfb4e23] in paragraph 1—
   - (i) in point (c), after the words “Annex II in” insert “urban”;
   - (ii) in the first subparagraph—
     - (aa) for “shall communicate, by electronic means,” substitute “must send”;
@@ -128,7 +128,7 @@ summary: ''
 (8) In Article 7—
 
 - (a) in the heading and in paragraph 1, for “Member States” substitute “ appropriate authorities ”;
-- (b)[^key-da35fb87a74edd48fc050fa5fc35d141] for paragraph 2 substitute—
+- (b)[^c-da35fb87a74edd48fc050fa5fc35d141] for paragraph 2 substitute—
 
   > **2.** Appropriate authorities outside England and the competent authority in England must provide, each year, to the Secretary of State a report containing all the data referred to in Article 5(1) and (2) in the format and by the dates set out in Decision (EU) 2019/1741. The reporting date shall be, in any case, no later than 11 months after the end of the reporting year.
 
@@ -161,7 +161,7 @@ summary: ''
 (12) In Article 11—
 
 - (a) for “a Member State” substitute “ an appropriate authority ”;
-- (b)[^key-ae5b56769dff7d21ffac654733e12ee5] after the words “of the Council,” insert “in so far as that provision has been transposed into domestic law,”.
+- (b)[^c-ae5b56769dff7d21ffac654733e12ee5] after the words “of the Council,” insert “in so far as that provision has been transposed into domestic law,”.
 
 (13) In Article 12—
 
@@ -177,15 +177,15 @@ summary: ''
 - (a) for “Commission and the Member States” substitute “ Secretary of State ”;
 - (b) at each place it occurs for “European” substitute “ United Kingdom ”.
 
-(16) Omit Articles 18a,[^key-381b01ad49547c906416b44fe0b3d108] 20, 21 and 22.
+(16) Omit Articles 18a,[^c-381b01ad49547c906416b44fe0b3d108] 20, 21 and 22.
 
 (17) Before Annex 1, omit the words from “This Regulation” to “Member States”.
 
-(18)[^key-ba8cb39f305fd8091bcb1e9e822e8406] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-ba8cb39f305fd8091bcb1e9e822e8406] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3def4533906dde2819c94ce4e4489713]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3def4533906dde2819c94ce4e4489713]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23497461]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), relevant amending instrument [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110).
 
@@ -205,14 +205,14 @@ summary: ''
 
 [^c23497541]: Marginal citation: S.R. [2003 No. 493](https://www.legislation.gov.uk/ukcm/2003/493); relevant amending instruments are S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R. [2016 No. 95](https://www.legislation.gov.uk/ukcm/2016/95).
 
-[^key-5498358e3accf4b5ddf73decadfb4e23]: Textual amendment: Reg. 2(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/a)
+[^c-5498358e3accf4b5ddf73decadfb4e23]: Textual amendment: Reg. 2(6)(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/a)
 
 [^c23497551]: Marginal citation: OJ No. L 312, 22.11.2008, p. 3-30, as amended by Commission Directive (EU) 2015/1127 (OJ No. L 184, 11.7.2015, p. 13).
 
-[^key-da35fb87a74edd48fc050fa5fc35d141]: Textual amendment: Reg. 2(8)(b)(c) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/b)
+[^c-da35fb87a74edd48fc050fa5fc35d141]: Textual amendment: Reg. 2(8)(b)(c) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/b)
 
-[^key-ae5b56769dff7d21ffac654733e12ee5]: Textual amendment: Reg. 2(12)(b) substituted for reg. 2(12)(b)(c) (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/c)
+[^c-ae5b56769dff7d21ffac654733e12ee5]: Textual amendment: Reg. 2(12)(b) substituted for reg. 2(12)(b)(c) (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/c)
 
-[^key-381b01ad49547c906416b44fe0b3d108]: Textual amendment: Word in reg. 2(16) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/d)
+[^c-381b01ad49547c906416b44fe0b3d108]: Textual amendment: Word in reg. 2(16) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/d)
 
-[^key-ba8cb39f305fd8091bcb1e9e822e8406]: Textual amendment: Reg. 2(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(e)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/e)
+[^c-ba8cb39f305fd8091bcb1e9e822e8406]: Textual amendment: Reg. 2(18) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(2)(e)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/2/e)

@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 14A and 122(1)(a) and (3) of the Planning and Compulsory Purchase Act 2004[^f00001].
 
-## 1. Citation and commencement[^key-b3cdbde8629c169f430e3dea2a84c13d]
+## 1. Citation and commencement[^c-b3cdbde8629c169f430e3dea2a84c13d]
 
 These Regulations may be cited as the Town and Country Planning (Brownfield Land Register) Regulations 2017 and come into force on 16th April 2017.
 
-## 2. Interpretation[^key-dbb230a9b359fd88e95e7a1ce38ce0be]
+## 2. Interpretation[^c-dbb230a9b359fd88e95e7a1ce38ce0be]
 
 In these Regulations—
 
@@ -84,7 +84,7 @@ In these Regulations—
 - “requisite notice” means notice in the form set out in Schedule 1 to these Regulations or in a form substantially to the same effect; and
 - “residential development” means development the main purpose of which is housing development.
 
-## 3. Requirement to keep a register[^key-ff4dc204e25d896d982c56eee7feb22f]
+## 3. Requirement to keep a register[^c-ff4dc204e25d896d982c56eee7feb22f]
 
 (1) Each local planning authority[^f00008] must prepare and maintain a register of previously developed land which —
 
@@ -99,7 +99,7 @@ In these Regulations—
 
 (5) In these Regulations, a reference to “Part 1” or “Part 2” is a reference to Part 1 or Part 2 of the register.
 
-## 4. Criteria[^key-712450106e546eaecbdc090607812a4d]
+## 4. Criteria[^c-712450106e546eaecbdc090607812a4d]
 
 (1) The criteria referred to in paragraph (1)(b) of regulation 3 are, in relation to each parcel of land—
 
@@ -147,7 +147,7 @@ In these Regulations—
       - (aa) ‎as a result of any of the procedures carried out in accordance with paragraph (7) of regulation 5,
       - (bb) by the date, or before the end ‎of the relevant period, specified in accordance with regulation 9 or 13, as the case may be; and
 - “suitable for residential development” in relation to any land means that the land at the entry date—
-  - (a) has been allocated in a local development plan document[^f00013] , local plan or supplementary plan[^key-828e025fcc6f320aea2ea1789ccc075a] for residential development;
+  - (a) has been allocated in a local development plan document[^f00013] , local plan or supplementary plan[^c-828e025fcc6f320aea2ea1789ccc075a] for residential development;
   - (b) has planning permission for residential development;
   - (c) has a grant of permission in principle for residential development; or
   - (d) is, in the opinion of the local planning authority, appropriate for residential development, having regard to—
@@ -157,7 +157,7 @@ In these Regulations—
     - (ii) any adverse impact on the local amenity which such development might cause for intended occupiers of the development or for occupiers of neighbouring properties; and
     - (iii) any relevant representations received.
 
-## 5. Entry of land in the register[^key-8c13cf0c5f46bf6bb4748c9bf850c156]
+## 5. Entry of land in the register[^c-8c13cf0c5f46bf6bb4748c9bf850c156]
 
 (1) The local planning authority must enter land in Part 1 where the land falls within the description in paragraph (1)(a) of regulation 3 and meets the criteria in paragraph (1) of regulation 4.
 
@@ -183,7 +183,7 @@ In these Regulations—
 
 (7) Before the local planning authority enter land in Part 2, they must follow the applicable procedures in regulations 6 to 9 (publicity and notification) and 10 to 13 (consultation). ‎
 
-## 6. Publicity of proposal to enter land in Part 2[^key-237ee2b72d714552bbdda2f24ba44a64]
+## 6. Publicity of proposal to enter land in Part 2[^c-237ee2b72d714552bbdda2f24ba44a64]
 
 (1) A local planning authority must publicise their proposal to enter land in Part 2 by giving requisite notice in at least one place on or near the land for not less than 21 days.
 
@@ -202,7 +202,7 @@ In these Regulations—
 - (e) where and when the information specified in sub-paragraphs (b) and (c) of this paragraph may be inspected; and
 - (f) how representations may be made about the proposed entry of the land in Part 2.
 
-## 7. Land within 10 metres of relevant railway land[^key-28c89eb1200d2b58df7f3f7db64716e1]
+## 7. Land within 10 metres of relevant railway land[^c-28c89eb1200d2b58df7f3f7db64716e1]
 
 (1) Where the land is situated within 10 metres of relevant railway land, the local planning authority must, except where paragraph (2) applies, publicise their proposal to enter it in Part 2 by serving requisite notice on any infrastructure manager of relevant railway land.
 
@@ -210,7 +210,7 @@ In these Regulations—
 
 (3) The infrastructure manager may withdraw the instruction at any time by notifying the local planning authority in writing.
 
-## 8. Notification for parish councils and neighbourhood forums of proposal to enter land in Part 2[^key-d6355951af5ad2e734375416dae720dc]
+## 8. Notification for parish councils and neighbourhood forums of proposal to enter land in Part 2[^c-d6355951af5ad2e734375416dae720dc]
 
 Where the council of any parish, or a neighbourhood forum, (“the relevant body”) in the area of the local planning authority have—
 
@@ -219,7 +219,7 @@ Where the council of any parish, or a neighbourhood forum, (“the relevant body
 
 the local planning authority must notify the relevant body of the proposed entry by serving requisite notice on it.
 
-## 9. Time periods for representations to be made following publicity or notification[^key-68e4111ea063aa2e21ead485d3e45e3f]
+## 9. Time periods for representations to be made following publicity or notification[^c-68e4111ea063aa2e21ead485d3e45e3f]
 
 (1) A local planning authority must, in considering whether to enter land in Part 2, take into account any representations made within the period specified, or the date specified, in paragraphs (2) to (4) as the case may be.
 
@@ -232,7 +232,7 @@ the local planning authority must notify the relevant body of the proposed entry
 - (a) ‎42 days beginning with the date when the notice was served on that person or body, where first ‎publication of Part 2, (in accordance with paragraph (2) of regulation 3), has not yet taken place, or
 - (b) ‎21 days beginning with the date when the notice was served on that person or body, where first ‎publication of Part 2, (in accordance with paragraph (2) of regulation 3), has taken place.
 
-## 10. Consultation with county planning authorities before entering land in Part 2[^key-3cb9c74c93e16bf9e558ec0e6d9401fa]
+## 10. Consultation with county planning authorities before entering land in Part 2[^c-3cb9c74c93e16bf9e558ec0e6d9401fa]
 
 (1) The local planning authority must consult the county planning authority where—
 
@@ -247,7 +247,7 @@ the local planning authority must notify the relevant body of the proposed entry
 
 (3) In this regulation “county planning authority” has the same meaning as in section 1 of the TCPA 1990.
 
-## 11. Consultation with the Mayor of London before entering land in Part 2[^key-0d82295f9f487822a5ee740418f3be26]
+## 11. Consultation with the Mayor of London before entering land in Part 2[^c-0d82295f9f487822a5ee740418f3be26]
 
 (1) Where the council of a London borough (“the local planning authority”) propose to enter land in Part 2 and residential development of the land would, in their opinion, fall within the Schedule to the Town and Country Planning (Mayor of London) Order 2008[^f00015] (potential strategic importance applications and categories of development), the local planning authority must consult the Mayor of London.
 
@@ -256,7 +256,7 @@ the local planning authority must notify the relevant body of the proposed entry
 - (a) the Mayor has advised the local planning authority that the Mayor does not wish to be consulted about proposed entries in Part 2 of land situated within a particular area, and the land in question falls within that area, or
 - (b) the land falls within article 3 of that Order (land excluded from the application of section 2A of the TCPA 1990[^f00016]).
 
-## 12. Consultation with other persons, bodies or authorities before entering land in Part 2[^key-a2ea55f92e91d63279a98f771700cfb4]
+## 12. Consultation with other persons, bodies or authorities before entering land in Part 2[^c-a2ea55f92e91d63279a98f771700cfb4]
 
 (1) Where a local planning authority propose to enter land in Part 2 and residential development of the land would, in the opinion of the local planning authority, fall ‎within a category set out in the Table in Schedule 4 to the Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00017], the local planning authority must consult any person, body or authority mentioned in relation to that category.
 
@@ -270,7 +270,7 @@ the local planning authority must notify the relevant body of the proposed entry
 
 (4) The exception in paragraph (3)(c) does not apply where the standing advice was published before the period of 2 years ending with the date that requisite notice in relation to that land was given in accordance with paragraph (1) of regulation 6.
 
-## 13. Time periods for representations to be made by consultees[^key-3fc758ab8035c56fb016bead24a640ba]
+## 13. Time periods for representations to be made by consultees[^c-3fc758ab8035c56fb016bead24a640ba]
 
 (1) Where a local planning authority is required to consult any person, body or authority (“consultee”) before entering land in Part 2—
 
@@ -286,25 +286,25 @@ the local planning authority must notify the relevant body of the proposed entry
 
 (3) In considering whether to enter land in Part 2, the local planning authority must take into account any representations received from any consultee before the end of the relevant period referred to in paragraph (1)(b).
 
-## 14. Exemptions for certain types of land[^key-654b8b99e5ee42a83a075e012a517c59]
+## 14. Exemptions for certain types of land[^c-654b8b99e5ee42a83a075e012a517c59]
 
 (1) A local planning authority must not enter land in Part 2, where residential development of that land could be Schedule 1 development.
 
 (2) A local planning authority must not enter land in Part 2, where residential development of that land could be Schedule 2 development, unless—
 
 - (a) the local planning authority—
-  - (i) have the information listed in paragraphs (2)(a) to (d) of regulation 6 of the[^key-a8222e7a1cfd06f7852a2e78988912c9] EIA Regulations 2017,
+  - (i) have the information listed in paragraphs (2)(a) to (d) of regulation 6 of the[^c-a8222e7a1cfd06f7852a2e78988912c9] EIA Regulations 2017,
   - (ii) have specified the maximum net number of dwellings which in their opinion the land is capable of supporting,
-  - (iii) are of the view that the information and specified number referred to in paragraphs (i) and (ii) respectively, together with any such other information they may have about residential development of the land, are sufficient for them to adopt a screening opinion under regulation 6 of the[^key-2e323b68203e6f8e8f55218bef33f087] EIA Regulations 2017, and
-  - (iv) adopt a screening opinion under regulation 6 of the[^key-7c327f35e4695e75bb4104938e258feb] EIA Regulations 2017 that potential residential development up to and including the number of dwellings referred to in paragraph (ii) will not be EIA development;
-- (b) the Secretary of State has made a screening direction under paragraph (3) of regulation 5 or paragraph (5) of regulation 7 of the[^key-2ef6271b234944b6e9a0e4cff0d29095] EIA Regulations 2017 that the development is not EIA development; or
-- (c) the Secretary of State has made a direction under regulation 63 of the[^key-cba014e264c226cb1655bd688fe94b62] EIA Regulations 2017 that the development is exempted from the application of those Regulations.
+  - (iii) are of the view that the information and specified number referred to in paragraphs (i) and (ii) respectively, together with any such other information they may have about residential development of the land, are sufficient for them to adopt a screening opinion under regulation 6 of the[^c-2e323b68203e6f8e8f55218bef33f087] EIA Regulations 2017, and
+  - (iv) adopt a screening opinion under regulation 6 of the[^c-7c327f35e4695e75bb4104938e258feb] EIA Regulations 2017 that potential residential development up to and including the number of dwellings referred to in paragraph (ii) will not be EIA development;
+- (b) the Secretary of State has made a screening direction under paragraph (3) of regulation 5 or paragraph (5) of regulation 7 of the[^c-2ef6271b234944b6e9a0e4cff0d29095] EIA Regulations 2017 that the development is not EIA development; or
+- (c) the Secretary of State has made a direction under regulation 63 of the[^c-cba014e264c226cb1655bd688fe94b62] EIA Regulations 2017 that the development is exempted from the application of those Regulations.
 
-(3) For the purposes of paragraph (2)(a), regulation 6 (requests for screening opinions of the relevant planning authority) of the[^key-db2d646746b35b5c9578f42ca6f60a41] EIA Regulations 2017 applies with the following modifications—
+(3) For the purposes of paragraph (2)(a), regulation 6 (requests for screening opinions of the relevant planning authority) of the[^c-db2d646746b35b5c9578f42ca6f60a41] EIA Regulations 2017 applies with the following modifications—
 
 - (a) as if a person had requested the local planning authority to adopt a screening opinion and had provided them with the information referred to in paragraph (2) of that regulation;
 - (b) as if the potential residential development of the land, for the maximum net number of dwellings, were an application for planning permission;
-- (c)[^key-2766962cf633886359a9a428588491ba] as if in paragraph (4) “or (3)” were omitted;
+- (c)[^c-2766962cf633886359a9a428588491ba] as if in paragraph (4) “or (3)” were omitted;
 - (d) as if paragraph (6) were omitted and replaced by—
 
   > (6) An authority may adopt a screening opinion.
@@ -319,29 +319,29 @@ the local planning authority must notify the relevant body of the proposed entry
 
 (5) In this regulation—
 
-- “competent authority” has the meaning given by regulation 7 of the Conservation of Habitats and Species Regulations 2017;[^key-3eda67dfde24935085a09bdce51a920a]
-- “EIA development” has the same meaning as in paragraph (1) of regulation 2 of the EIA Regulations 2017[^key-e7619f57ab8b99cbbcd5f3aad384a766];
-- “the[^key-b499992b2c18673a97694283b92925c9] EIA Regulations 2017” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017;
+- “competent authority” has the meaning given by regulation 7 of the Conservation of Habitats and Species Regulations 2017;[^c-3eda67dfde24935085a09bdce51a920a]
+- “EIA development” has the same meaning as in paragraph (1) of regulation 2 of the EIA Regulations 2017[^c-e7619f57ab8b99cbbcd5f3aad384a766];
+- “the[^c-b499992b2c18673a97694283b92925c9] EIA Regulations 2017” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017;
 - “European offshore marine site” has the meaning given by regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017;
 - “European site” has the meaning given by regulation 8 of the Conservation of Habitats and Species Regulations 2017;
 - “habitats development” means development—
   - (a) which is likely to have a significant effect on a European site or a European offshore marine site (either alone or in combination with other plans or projects) and is not directly connected with or necessary to the management of the site; and
   - (b) for which the competent authority has not given consent, permission, or other authorisation in accordance with regulation 63 of the Conservation of Habitats and Species Regulations 2017 (Assessment of implications for European sites and European offshore marine sites).
-- [^key-f7929b6a1fb282de7da444a262e67af6]...
-- [^key-f7929b6a1fb282de7da444a262e67af6]...
+- [^c-f7929b6a1fb282de7da444a262e67af6]...
+- [^c-f7929b6a1fb282de7da444a262e67af6]...
 - “Schedule 1 development” and “Schedule 2 development” have the same meaning as in paragraph (1) of regulation 2 of the EIA Regulations 2017.
 
-## 15. Information to be included in the register[^key-0fd1ea60d0a6c6c6b977006a7a62db51]
+## 15. Information to be included in the register[^c-0fd1ea60d0a6c6c6b977006a7a62db51]
 
 The register must contain the information specified in Schedule 2.
 
-## 16. Public inspection of the register[^key-68f180d74466cea3b4ca44e4b5d9e231]
+## 16. Public inspection of the register[^c-68f180d74466cea3b4ca44e4b5d9e231]
 
 (1) The register must be kept available for public inspection at the principal office of the local planning authority.
 
 (2) Where the register kept by a local planning authority under this regulation is kept using electronic storage, the authority may make the register available for inspection by the public on a website maintained by the authority for that purpose.
 
-## 17. Revision of the register[^key-bd81f83c893c8e050745ff737b1cf69d]
+## 17. Revision of the register[^c-bd81f83c893c8e050745ff737b1cf69d]
 
 (1) The local planning authority must review the entries in the register at least once within each register year in accordance with this regulation.
 
@@ -391,13 +391,13 @@ the local planning authority must—
   - (b) for subsequent years, the year beginning with the anniversary of the date on which that part of the register was published for the first time; and
 - “review date” in relation to an entry of land in the register means the date on which that entry of land is reviewed under paragraph (1).
 
-## 18. Information to be given to the Secretary of State[^key-0e5d0b13b76830abc9fd6c9a55a36b34]
+## 18. Information to be given to the Secretary of State[^c-0e5d0b13b76830abc9fd6c9a55a36b34]
 
 (1) The Secretary of State may require a local planning authority to bring the register up to date by such date as the Secretary of State may specify.
 
 (2) The Secretary of State may require a local planning authority to provide the Secretary of State with such information in relation to the register, in such form and by such date, as the Secretary of State may specify.
 
-## 19. Consequential amendment to the Functions and Responsibilities Regulations 2000[^key-af6f4ad6ea4ed3d93ef7c8b015d86a7d]
+## 19. Consequential amendment to the Functions and Responsibilities Regulations 2000[^c-af6f4ad6ea4ed3d93ef7c8b015d86a7d]
 
 (1) The Local Authorities (Functions and Responsibilities) Regulations 2000[^f00021] are amended in accordance with paragraph (2).
 
@@ -413,7 +413,7 @@ Department for Communities and Local Government
 
 20th March 2017
 
-## SCHEDULE 1[^key-35ee9fb7cfb7b5054af7085129b8a708]
+## SCHEDULE 1[^c-35ee9fb7cfb7b5054af7085129b8a708]
 
 Regulation 2
 
@@ -423,7 +423,7 @@ Regulation 2
 
 Regulation 15
 
-**1.**[^key-88e773c3af65d57b88f1f77f4f219a43] (1) The register must contain the following information in relation to each entry of land in Part 1—
+**1.**[^c-88e773c3af65d57b88f1f77f4f219a43] (1) The register must contain the following information in relation to each entry of land in Part 1—
 
 - (a) the local authority’s own reference for the land;
 - (b) the name and address of the land;
@@ -470,19 +470,19 @@ Regulation 15
 
 the local planning authority must, within the period of 7 days beginning with the date on which the notice was first displayed, record in Part 1 in relation to that land the statement “proposed for residential development (permission in principle)”.
 
-**2.**[^key-29f0fb2c6d8b7be00ca3db83971fab4d] In relation to each entry of land in Part 2, the register must contain—
+**2.**[^c-29f0fb2c6d8b7be00ca3db83971fab4d] In relation to each entry of land in Part 2, the register must contain—
 
 - (a) the minimum net number of dwellings, and the maximum net number of dwellings, given as a range, which, in the authority’s opinion, the land is capable of supporting; and
 - (b) where the development includes non-housing development, the scale of any such development and the use to which it is to be put.
 
-**3.**[^key-03d7fe72d8d1f5b19f8ca0f5dfc1df11] In relation to each entry of land in Part 2, the register must contain the information required by paragraph (3) of regulation 26 of the Planning (Hazardous Substances) Regulations 2015[^f00022] where—
+**3.**[^c-03d7fe72d8d1f5b19f8ca0f5dfc1df11] In relation to each entry of land in Part 2, the register must contain the information required by paragraph (3) of regulation 26 of the Planning (Hazardous Substances) Regulations 2015[^f00022] where—
 
 - (a) ‎development of that land would, in the opinion of the local planning authority, be a ‎relevant project for the purpose of that regulation; and
 - (b) the local planning authority is the competent authority for the purpose of that regulation.
 
-**4.**[^key-0a39a5e9831caed5c49f45e80522b36e] Where land is entered in Part 2, Part 2 of the register must, in relation to that land, contain the statement “allocated for ‎residential development for the purposes of section 59A of the Town and Country Planning Act 1990 (permission in principle)” and the statement in Part 1, required by paragraph 1(2), if any, must ‎be removed.‎
+**4.**[^c-0a39a5e9831caed5c49f45e80522b36e] Where land is entered in Part 2, Part 2 of the register must, in relation to that land, contain the statement “allocated for ‎residential development for the purposes of section 59A of the Town and Country Planning Act 1990 (permission in principle)” and the statement in Part 1, required by paragraph 1(2), if any, must ‎be removed.‎
 
-**5.**[^key-2812e975a34c644630e5e5021eb8c251] (1) In this Schedule—
+**5.**[^c-2812e975a34c644630e5e5021eb8c251] (1) In this Schedule—
 
 - “co-ordinate reference system” is—
   - (a) the world geodetic system (WGS84), expressed as longitude and latitude;
@@ -543,9 +543,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5); for the definition of “prescribed” see section 122(1). Section 14A was inserted by section 151 of the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-b3cdbde8629c169f430e3dea2a84c13d]: Commencement: Reg. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-b3cdbde8629c169f430e3dea2a84c13d]: Commencement: Reg. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-dbb230a9b359fd88e95e7a1ce38ce0be]: Commencement: Reg. 2 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-dbb230a9b359fd88e95e7a1ce38ce0be]: Commencement: Reg. 2 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00002]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -559,11 +559,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00007]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-ff4dc204e25d896d982c56eee7feb22f]: Commencement: Reg. 3 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-ff4dc204e25d896d982c56eee7feb22f]: Commencement: Reg. 3 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00008]: Footnote: *See* section 37 of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5) for the definition of “local planning authority”.
 
-[^key-712450106e546eaecbdc090607812a4d]: Commencement: Reg. 4 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-712450106e546eaecbdc090607812a4d]: Commencement: Reg. 4 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00009]: Footnote: *See* http:/whc.unesco.org/en/list
 
@@ -575,83 +575,83 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00013]: Footnote: *See* section 37 of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-828e025fcc6f320aea2ea1789ccc075a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/403/regulation/4/2) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/170/regulation/19)
+[^c-828e025fcc6f320aea2ea1789ccc075a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/403/regulation/4/2) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/170/regulation/19)
 
-[^key-8c13cf0c5f46bf6bb4748c9bf850c156]: Commencement: Reg. 5 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-8c13cf0c5f46bf6bb4748c9bf850c156]: Commencement: Reg. 5 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-237ee2b72d714552bbdda2f24ba44a64]: Commencement: Reg. 6 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-237ee2b72d714552bbdda2f24ba44a64]: Commencement: Reg. 6 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627) to which there are amendments not relevant to these Regulations.
 
-[^key-28c89eb1200d2b58df7f3f7db64716e1]: Commencement: Reg. 7 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-28c89eb1200d2b58df7f3f7db64716e1]: Commencement: Reg. 7 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-d6355951af5ad2e734375416dae720dc]: Commencement: Reg. 8 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-d6355951af5ad2e734375416dae720dc]: Commencement: Reg. 8 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-68e4111ea063aa2e21ead485d3e45e3f]: Commencement: Reg. 9 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-68e4111ea063aa2e21ead485d3e45e3f]: Commencement: Reg. 9 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-3cb9c74c93e16bf9e558ec0e6d9401fa]: Commencement: Reg. 10 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-3cb9c74c93e16bf9e558ec0e6d9401fa]: Commencement: Reg. 10 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-0d82295f9f487822a5ee740418f3be26]: Commencement: Reg. 11 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-0d82295f9f487822a5ee740418f3be26]: Commencement: Reg. 11 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2008/580](https://www.legislation.gov.uk/uksi/2008/580).
 
 [^f00016]: Footnote: Section 2A was inserted into the 1990 Act by section 31 of the Greater London Authority Act [2007 (c.8)](https://www.legislation.gov.uk/ukpga/2007/8). It gives the Mayor of London power to direct that applications for planning permission of potential strategic importance must be determined by the Mayor in place of the local planning authority.
 
-[^key-a2ea55f92e91d63279a98f771700cfb4]: Commencement: Reg. 12 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-a2ea55f92e91d63279a98f771700cfb4]: Commencement: Reg. 12 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595); Schedule 4 was amended by [S.I. 2016/873](https://www.legislation.gov.uk/uksi/2016/873).
 
-[^key-3fc758ab8035c56fb016bead24a640ba]: Commencement: Reg. 13 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-3fc758ab8035c56fb016bead24a640ba]: Commencement: Reg. 13 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-654b8b99e5ee42a83a075e012a517c59]: Commencement: Reg. 14 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-654b8b99e5ee42a83a075e012a517c59]: Commencement: Reg. 14 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-a8222e7a1cfd06f7852a2e78988912c9]: Textual amendment: Words in reg. 14(2)(a)(i) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/a)
+[^c-a8222e7a1cfd06f7852a2e78988912c9]: Textual amendment: Words in reg. 14(2)(a)(i) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/a)
 
-[^key-2e323b68203e6f8e8f55218bef33f087]: Textual amendment: Words in reg. 14(2)(a)(iii) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/b)
+[^c-2e323b68203e6f8e8f55218bef33f087]: Textual amendment: Words in reg. 14(2)(a)(iii) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/b)
 
-[^key-7c327f35e4695e75bb4104938e258feb]: Textual amendment: Words in reg. 14(2)(a)(iv) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/b)
+[^c-7c327f35e4695e75bb4104938e258feb]: Textual amendment: Words in reg. 14(2)(a)(iv) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/b)
 
-[^key-2ef6271b234944b6e9a0e4cff0d29095]: Textual amendment: Words in reg. 14(2)(b) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/c)
+[^c-2ef6271b234944b6e9a0e4cff0d29095]: Textual amendment: Words in reg. 14(2)(b) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/c)
 
-[^key-cba014e264c226cb1655bd688fe94b62]: Textual amendment: Words in reg. 14(2)(c) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/d)
+[^c-cba014e264c226cb1655bd688fe94b62]: Textual amendment: Words in reg. 14(2)(c) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/2/d)
 
-[^key-db2d646746b35b5c9578f42ca6f60a41]: Textual amendment: Words in reg. 14(3) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3/a)
+[^c-db2d646746b35b5c9578f42ca6f60a41]: Textual amendment: Words in reg. 14(3) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3/a)
 
-[^key-2766962cf633886359a9a428588491ba]: Textual amendment: Reg. 14(3)(c)-(e) substituted for reg. 14(3)(c)(d) (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3/b)
+[^c-2766962cf633886359a9a428588491ba]: Textual amendment: Reg. 14(3)(c)-(e) substituted for reg. 14(3)(c)(d) (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3/b)
 
-[^key-3eda67dfde24935085a09bdce51a920a]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2017/403/regulation/14/5) inserted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/5/2/b)
+[^c-3eda67dfde24935085a09bdce51a920a]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2017/403/regulation/14/5) inserted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/5/2/b)
 
-[^key-e7619f57ab8b99cbbcd5f3aad384a766]: Textual amendment: Word in reg. 14(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/4/a)
+[^c-e7619f57ab8b99cbbcd5f3aad384a766]: Textual amendment: Word in reg. 14(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/4/a)
 
-[^key-b499992b2c18673a97694283b92925c9]: Textual amendment: Words in reg. 14(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/4/b)
+[^c-b499992b2c18673a97694283b92925c9]: Textual amendment: Words in reg. 14(5) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/4/b)
 
-[^key-f7929b6a1fb282de7da444a262e67af6]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2017/403/regulation/14/5) omitted (28.12.2018) by virtue of [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/5/2/a)
+[^c-f7929b6a1fb282de7da444a262e67af6]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2017/403/regulation/14/5) omitted (28.12.2018) by virtue of [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/5/2/a)
 
-[^key-0fd1ea60d0a6c6c6b977006a7a62db51]: Commencement: Reg. 15 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-0fd1ea60d0a6c6c6b977006a7a62db51]: Commencement: Reg. 15 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-68f180d74466cea3b4ca44e4b5d9e231]: Commencement: Reg. 16 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-68f180d74466cea3b4ca44e4b5d9e231]: Commencement: Reg. 16 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-bd81f83c893c8e050745ff737b1cf69d]: Commencement: Reg. 17 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-bd81f83c893c8e050745ff737b1cf69d]: Commencement: Reg. 17 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-0e5d0b13b76830abc9fd6c9a55a36b34]: Commencement: Reg. 18 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-0e5d0b13b76830abc9fd6c9a55a36b34]: Commencement: Reg. 18 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-af6f4ad6ea4ed3d93ef7c8b015d86a7d]: Commencement: Reg. 19 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-af6f4ad6ea4ed3d93ef7c8b015d86a7d]: Commencement: Reg. 19 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853); Part A of Schedule 1 was amended by [S.I. 2004/2211](https://www.legislation.gov.uk/uksi/2004/2211), [2005/929](https://www.legislation.gov.uk/uksi/2005/929), [2007/2593](https://www.legislation.gov.uk/uksi/2007/2593) and [2013/2146](https://www.legislation.gov.uk/uksi/2013/2146), there are other amendments but none are relevant.
 
-[^key-35ee9fb7cfb7b5054af7085129b8a708]: Commencement: Sch. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-35ee9fb7cfb7b5054af7085129b8a708]: Commencement: Sch. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-88e773c3af65d57b88f1f77f4f219a43]: Commencement: Sch. 2 para. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-88e773c3af65d57b88f1f77f4f219a43]: Commencement: Sch. 2 para. 1 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-29f0fb2c6d8b7be00ca3db83971fab4d]: Commencement: Sch. 2 para. 2 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-29f0fb2c6d8b7be00ca3db83971fab4d]: Commencement: Sch. 2 para. 2 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-03d7fe72d8d1f5b19f8ca0f5dfc1df11]: Commencement: Sch. 2 para. 3 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-03d7fe72d8d1f5b19f8ca0f5dfc1df11]: Commencement: Sch. 2 para. 3 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627) to which there are amendments not relevant to these Regulations.
 
-[^key-0a39a5e9831caed5c49f45e80522b36e]: Commencement: Sch. 2 para. 4 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-0a39a5e9831caed5c49f45e80522b36e]: Commencement: Sch. 2 para. 4 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
-[^key-2812e975a34c644630e5e5021eb8c251]: Commencement: Sch. 2 para. 5 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
+[^c-2812e975a34c644630e5e5021eb8c251]: Commencement: Sch. 2 para. 5 in force at 16.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/403/regulation/1)
 
 [^f00023]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15); Part 1 of Schedule 19 has been amended by section 26(2) of, and paragraph 34 of Part 2 of Schedule 5 to, the Budget Responsibility and National ‎Audit Act [2011 (c.4)](https://www.legislation.gov.uk/ukpga/2011/4);‎ section 99 of, and paragraphs 380 and 383 of Part 3 of Schedule 16 to, the Police Reform and Social ‎Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13);‎ sections 178 and 237 of, and paragraph 62 of Part 2 of Schedule 16 and Parts 26 and 32 of Schedule 25 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 222 of, and paragraph 62 of Schedule 22 to, that Act; section 30(3) of, and Schedule 6 to, the Public Bodies Act [2011 (c.24)](https://www.legislation.gov.uk/ukpga/2011/24); section 55(2) of, and paragraphs 182(a) to (d) of Schedule 5 to, the Health and Social Care Act 2012 ‎‎(c.7), section 150(5) of, and paragraph 19 of Schedule 13 to, and section 277 of, and paragraph 13 of ‎Schedule 19 to, that Act;‎ section 39(1) of, and paragraph 70 of Part 1 of Schedule 5 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c.10)](https://www.legislation.gov.uk/ukpga/2012/10); section 114(1) of, and paragraphs 131(a) and (b) of Part 2 of Schedule 18 to, the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21); section 15(3) of, and paragraphs 180 and 183 of Part 2 of Schedule 8 to, the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22); section 25(4) of, and paragraph 26 of Part 1 of Schedule 4 to, the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24); section 116(1) of, and paragraph 102 of Part 5 of Schedule 12 to, the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32); section 40(5) of, and paragraph 16 of Schedule 4 to, the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33); section 109(2) of, and paragraph 27 of Part 4 of Schedule 7 to, the Care Act [2014 (c.23)](https://www.legislation.gov.uk/ukpga/2014/23) and section 96(2) of, and paragraph 35 of Part 4 of Schedule 5 to, that Act; ‎section 181(1) of, and paragraph 96 of Part 3 of Schedule 11 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12); section 23(1) of, and paragraph 31 of Schedule 5 to, the Cities and Local Government Devolution Act [2016 (c.1)](https://www.legislation.gov.uk/ukpga/2016/1); section 184 of, and paragraph 15 of Schedule 25 to, the Finance Act [2016 (c.24)](https://www.legislation.gov.uk/ukpga/2016/24); and SIs [2011/1060](https://www.legislation.gov.uk/uksi/2011/1060), [2012/2007](https://www.legislation.gov.uk/uksi/2012/2007), [2014/892](https://www.legislation.gov.uk/uksi/2014/892) and [2014/3184](https://www.legislation.gov.uk/uksi/2014/3184).
 

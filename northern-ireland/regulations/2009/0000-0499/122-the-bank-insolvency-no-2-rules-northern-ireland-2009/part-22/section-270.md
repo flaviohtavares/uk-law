@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 270. Confidentiality of documents[^key-b36c112b78521f54096d1284ef6de81a]
+## 270. Confidentiality of documents[^c-b36c112b78521f54096d1284ef6de81a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b36c112b78521f54096d1284ef6de81a]: Commencement: Rule 270 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b36c112b78521f54096d1284ef6de81a]: Commencement: Rule 270 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

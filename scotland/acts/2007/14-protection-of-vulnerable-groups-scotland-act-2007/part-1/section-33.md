@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Duty to notify certain changes[^key-ae59f27894d9b0b316faf37d5443d6b6]
+## 33. Duty to notify certain changes[^c-ae59f27894d9b0b316faf37d5443d6b6]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae59f27894d9b0b316faf37d5443d6b6]: Commencement: S. 33 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-ae59f27894d9b0b316faf37d5443d6b6]: Commencement: S. 33 in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

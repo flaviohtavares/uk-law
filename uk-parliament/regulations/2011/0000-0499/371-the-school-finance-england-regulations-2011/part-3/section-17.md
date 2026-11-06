@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Differential funding[^key-c3022c5dc2612c1560da9956f389bafc]
+## 17. Differential funding[^c-c3022c5dc2612c1560da9956f389bafc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ a local authority may use factors or criteria which differentiate between differ
 
 ## Annotations
 
-[^key-c3022c5dc2612c1560da9956f389bafc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/371/regulation/17) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-c3022c5dc2612c1560da9956f389bafc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/371/regulation/17) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

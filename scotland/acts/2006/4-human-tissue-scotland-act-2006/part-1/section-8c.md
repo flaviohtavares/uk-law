@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8C. Withdrawal of opt-out declaration: child 12 years of age or over[^key-95cb947313f3ac53e9ce0689b405873e]
+## 8C. Withdrawal of opt-out declaration: child 12 years of age or over[^c-95cb947313f3ac53e9ce0689b405873e]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95cb947313f3ac53e9ce0689b405873e]: Textual amendment: Ss. 8B, 8C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 14](https://www.legislation.gov.uk/asp/2019/11/section/14), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-95cb947313f3ac53e9ce0689b405873e]: Textual amendment: Ss. 8B, 8C inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 14](https://www.legislation.gov.uk/asp/2019/11/section/14), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

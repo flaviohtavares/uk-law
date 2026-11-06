@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Financial penalties[^key-5d7615080e6f845a97863945a263719f][^key-dd0acb8848365e9c84deb57fb7773989]
+## 102. Financial penalties[^c-5d7615080e6f845a97863945a263719f][^c-dd0acb8848365e9c84deb57fb7773989]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ Schedule 5 makes provision about—
 
 ## Annotations
 
-[^key-5d7615080e6f845a97863945a263719f]: Commencement: S. 102 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5d7615080e6f845a97863945a263719f]: Commencement: S. 102 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-dd0acb8848365e9c84deb57fb7773989]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/26/section/102) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/i)
+[^c-dd0acb8848365e9c84deb57fb7773989]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/26/section/102) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/i)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**111.**[^key-85999983be29cbcf91d1443ba3257666] Omit section 5(3A).
+**111.**[^c-85999983be29cbcf91d1443ba3257666] Omit section 5(3A).
 
 ## Annotations
 
-[^key-85999983be29cbcf91d1443ba3257666]: Commencement: Art. 111 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-85999983be29cbcf91d1443ba3257666]: Commencement: Art. 111 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

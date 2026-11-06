@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 41. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 60 or 61 of the Council Tax Benefit Regulations[^key-27ec1354a233bc4b48675be5c6b92b4b]
+## 41. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 60 or 61 of the Council Tax Benefit Regulations[^c-27ec1354a233bc4b48675be5c6b92b4b]
 
 (1) This regulation applies where—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27ec1354a233bc4b48675be5c6b92b4b]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2006/216/regulation/41) substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/4)
+[^c-27ec1354a233bc4b48675be5c6b92b4b]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2006/216/regulation/41) substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/4)

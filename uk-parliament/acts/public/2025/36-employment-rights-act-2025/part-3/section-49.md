@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Guidance and codes of practice[^key-99acc3670dc69ecf5e8187431e00fa28][^key-f97492f8a1da1b95af2f0a4b56df625e]
+## 49. Guidance and codes of practice[^c-99acc3670dc69ecf5e8187431e00fa28][^c-f97492f8a1da1b95af2f0a4b56df625e]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99acc3670dc69ecf5e8187431e00fa28]: Commencement: S. 49 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-99acc3670dc69ecf5e8187431e00fa28]: Commencement: S. 49 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f97492f8a1da1b95af2f0a4b56df625e]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2025/36/section/49) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(19)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/19)
+[^c-f97492f8a1da1b95af2f0a4b56df625e]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2025/36/section/49) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(19)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/19)

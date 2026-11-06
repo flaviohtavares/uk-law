@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Sections 1112, 1112A and 1113[^key-9ffb50c0f981f6c5cfd15303bb094759] apply to LLPs, modified so that they read as follows—
+Sections 1112, 1112A and 1113[^c-9ffb50c0f981f6c5cfd15303bb094759] apply to LLPs, modified so that they read as follows—
 
-> **1112. False statements: basic offence[^key-61027cbc459f74a45fd5ea0889df6220]**
+> **1112. False statements: basic offence[^c-61027cbc459f74a45fd5ea0889df6220]**
 >
 > (1) It is an offence for a person knowingly or recklessly—
 >
@@ -38,7 +38,7 @@ Sections 1112, 1112A and 1113[^key-9ffb50c0f981f6c5cfd15303bb094759] apply to LL
 >   - (i) in England and Wales or Scotland, to imprisonment for a term not exceeding twelve months or to a fine not exceeding the statutory maximum (or both);
 >   - (ii) in Northern Ireland, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum (or both).
 >
-> **1112A. False statements: aggravated offence[^key-c50199fdd818e8e3da2b8b9249a3157a]**
+> **1112A. False statements: aggravated offence[^c-c50199fdd818e8e3da2b8b9249a3157a]**
 >
 > (1) It is an offence for a person knowingly to—
 >
@@ -76,8 +76,8 @@ Sections 1112, 1112A and 1113[^key-9ffb50c0f981f6c5cfd15303bb094759] apply to LL
 
 ## Annotations
 
-[^key-9ffb50c0f981f6c5cfd15303bb094759]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-9ffb50c0f981f6c5cfd15303bb094759]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-61027cbc459f74a45fd5ea0889df6220]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-61027cbc459f74a45fd5ea0889df6220]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-c50199fdd818e8e3da2b8b9249a3157a]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-c50199fdd818e8e3da2b8b9249a3157a]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2009/1804/regulation/69) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [42(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/42/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

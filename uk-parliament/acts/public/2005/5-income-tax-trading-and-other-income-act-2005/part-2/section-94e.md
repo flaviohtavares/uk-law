@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94E. Excluded vehicles[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]
+## 94E. Excluded vehicles[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,18 +27,18 @@ summary: ''
 (3) Condition B is that—
 
 - (a) the vehicle is a goods vehicle or a motor cycle, and
-- (b) any of the expenditure incurred on acquiring the vehicle has been deducted in calculating the profits of any relevant trade or business[^key-32f4a1e420073aa1bbaae5f7d3c7ebc6] for a period on the cash basis (see sections[^key-6699328288a37eb3d684f1fc094b248f] 24A[^key-8575519c3b7e8ce4ae8f00e50629bb9d] and 271D).
+- (b) any of the expenditure incurred on acquiring the vehicle has been deducted in calculating the profits of any relevant trade or business[^c-32f4a1e420073aa1bbaae5f7d3c7ebc6] for a period on the cash basis (see sections[^c-6699328288a37eb3d684f1fc094b248f] 24A[^c-8575519c3b7e8ce4ae8f00e50629bb9d] and 271D).
 
-(4)[^key-b73af73e51b1a4269781761eea002e41] In this section “**any relevant trade or business**” means any trade or property business carried on by the person carrying on the trade mentioned in subsection (1).
+(4)[^c-b73af73e51b1a4269781761eea002e41] In this section “**any relevant trade or business**” means any trade or property business carried on by the person carrying on the trade mentioned in subsection (1).
 
 ## Annotations
 
-[^key-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
+[^c-69d7e1ea0086cad3ff3671c5bb07a6a8]: Textual amendment: Pt. 2 Ch. 5A inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/2)
 
-[^key-32f4a1e420073aa1bbaae5f7d3c7ebc6]: Textual amendment: Words in s. 94E(3)(b) substituted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/2/a)
+[^c-32f4a1e420073aa1bbaae5f7d3c7ebc6]: Textual amendment: Words in s. 94E(3)(b) substituted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/2/a)
 
-[^key-6699328288a37eb3d684f1fc094b248f]: Textual amendment: Words in s. 94E(3)(b) substituted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/2/b)
+[^c-6699328288a37eb3d684f1fc094b248f]: Textual amendment: Words in s. 94E(3)(b) substituted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/2/b)
 
-[^key-8575519c3b7e8ce4ae8f00e50629bb9d]: Textual amendment: Word in [s. 94E(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/94E/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 20](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/20), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-8575519c3b7e8ce4ae8f00e50629bb9d]: Textual amendment: Word in [s. 94E(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/94E/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 20](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/20), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-b73af73e51b1a4269781761eea002e41]: Textual amendment: S. 94E(4) inserted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/3)
+[^c-b73af73e51b1a4269781761eea002e41]: Textual amendment: S. 94E(4) inserted (with effect in accordance with s. 36(7)(9) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/36/3)

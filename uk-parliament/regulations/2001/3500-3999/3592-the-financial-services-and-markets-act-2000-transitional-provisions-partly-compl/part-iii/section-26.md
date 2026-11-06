@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Applications for authorisation[^key-824e6c664fcc027aa92220564f675b2e]
+## 26. Applications for authorisation[^c-824e6c664fcc027aa92220564f675b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the requirement has effect after commencement as if it had been imposed by the A
 
 ## Annotations
 
-[^key-824e6c664fcc027aa92220564f675b2e]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-824e6c664fcc027aa92220564f675b2e]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

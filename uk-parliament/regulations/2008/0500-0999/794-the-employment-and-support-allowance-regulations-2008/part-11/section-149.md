@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 149. Linking rules – limited capability for work[^key-f7fc99ff1039c251317cd879c3738057]
+## 149. Linking rules – limited capability for work[^c-f7fc99ff1039c251317cd879c3738057]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7fc99ff1039c251317cd879c3738057]: Textual amendment: Reg. 149 omitted (1.5.2012) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/uksi/2012/919/regulation/5/7/b)
+[^c-f7fc99ff1039c251317cd879c3738057]: Textual amendment: Reg. 149 omitted (1.5.2012) by virtue of [The Employment and Support Allowance (Amendment of Linking Rules) Regulations 2012 (S.I. 2012/919)](https://www.legislation.gov.uk/uksi/2012/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/919/regulation/1/2), [5(7)(b)](https://www.legislation.gov.uk/uksi/2012/919/regulation/5/7/b)

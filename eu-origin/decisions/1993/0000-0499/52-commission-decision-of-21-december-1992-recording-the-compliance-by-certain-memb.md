@@ -79,13 +79,13 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** The Member States and regions referred to respectively in Annexes I and II are recognized as officially free of brucellosis (*B. melitensis*).
 
-**Article 2a.**[^key-f3a57e0e01d837fb3e39bdcf2a2c1558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2a.**[^c-f3a57e0e01d837fb3e39bdcf2a2c1558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2b.[^key-e018f638ab6b16974e185e2c538eb08a]
+## Article 2b.[^c-e018f638ab6b16974e185e2c538eb08a]
 
 The United Kingdom is officially free of brucellosis (*B. melitensis*), as it satisfies the conditions laid down in Directive 91/68/EEC, Annex A, Chapter 1.II (1) (b).
 
-**Article 3.**[^key-fa817ecba4848d0a4d88a16ccf0202d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fa817ecba4848d0a4d88a16ccf0202d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX I — Officially brucellosis ( B. melitensis ) free Member States[^c000003]
 
@@ -110,7 +110,7 @@ The United Kingdom is officially free of brucellosis (*B. melitensis*), as it sa
 | SK | Slovakia |
 | FI | Finland |
 | SE | Sweden |
-| [^key-5f0a910571f6da036a066281d75b8b1a]. . . | [^key-97644623d81d998d6dc966a6a42626a2]. . . |
+| [^c-5f0a910571f6da036a066281d75b8b1a]. . . | [^c-97644623d81d998d6dc966a6a42626a2]. . . |
 
 ## ANNEX II — Officially brucellosis ( B. melitensis ) free regions of Member States[^c000004][^c000005]
 
@@ -163,17 +163,17 @@ The United Kingdom is officially free of brucellosis (*B. melitensis*), as it sa
 
 [^f00001]: Footnote: [OJ No L 46, 19.2.1991, p. 19](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.046.01.0019.01.ENG).
 
-[^key-f3a57e0e01d837fb3e39bdcf2a2c1558]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eudn/1993/52/article/2a) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3a57e0e01d837fb3e39bdcf2a2c1558]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eudn/1993/52/article/2a) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e018f638ab6b16974e185e2c538eb08a]: Textual amendment: [Art. 2b](https://www.legislation.gov.uk/eudn/1993/52/article/2b) inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e018f638ab6b16974e185e2c538eb08a]: Textual amendment: [Art. 2b](https://www.legislation.gov.uk/eudn/1993/52/article/2b) inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fa817ecba4848d0a4d88a16ccf0202d9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1993/52/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa817ecba4848d0a4d88a16ccf0202d9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1993/52/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2015/129 of 26 January 2015 amending Annex I to Decision 93/52/EEC as regards the recognition of Cyprus as officially free of brucellosis (B. melitensis) (notified under document C(2015) 172) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2015/129).
 
-[^key-5f0a910571f6da036a066281d75b8b1a]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eudn/1993/52/annex/I) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f0a910571f6da036a066281d75b8b1a]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eudn/1993/52/annex/I) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97644623d81d998d6dc966a6a42626a2]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eudn/1993/52/annex/I) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97644623d81d998d6dc966a6a42626a2]: Textual amendment: Word in [Annex 1](https://www.legislation.gov.uk/eudn/1993/52/annex/I) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000004]: Textual amendment: Substituted by [Commission Decision of 21 February 2006 amending Decision 93/52/EEC as regards the declaration that Poland and certain provinces or regions of Italy are free of brucellosis (B. melitensis) and Decision 2003/467/EC as regards the declaration that certain provinces or regions of Italy are free of bovine tuberculosis, bovine brucellosis and enzootic bovine leucosis (notified under document number C(2006) 490) (Text with EEA relevance) (2006/169/EC)](https://www.legislation.gov.uk/eudn/2006/169).
 

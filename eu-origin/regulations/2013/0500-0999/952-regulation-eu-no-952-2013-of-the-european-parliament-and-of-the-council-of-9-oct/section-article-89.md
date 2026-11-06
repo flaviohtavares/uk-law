@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 89. General provisions[^key-9306707eac2950b4c0eeb3e4a55a72f3]
+## Article 89. General provisions[^c-9306707eac2950b4c0eeb3e4a55a72f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,12 +50,12 @@ If the guarantee has not been released, it may also be used, within the limits o
 - (c) in specific cases where goods are placed under the temporary admission procedure;
 - (d) goods placed under the Union transit procedure using the simplification referred to in point (e) of Article 233(4) and carried by sea or air between Union ports or between Union airports.
 
-9.[^key-1162aa1122e50f326bce5d4bd5a3d56c] The customs authorities may waive the requirement for provision of a guarantee where the amount of import or export duty to be secured does not exceed the statistical value threshold for declarations laid down in Article 3(4) of Regulation (EC) No 471/2009 of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries[^f00016].
+9.[^c-1162aa1122e50f326bce5d4bd5a3d56c] The customs authorities may waive the requirement for provision of a guarantee where the amount of import or export duty to be secured does not exceed the statistical value threshold for declarations laid down in Article 3(4) of Regulation (EC) No 471/2009 of the European Parliament and of the Council of 6 May 2009 on Community statistics relating to external trade with non-member countries[^f00016].
 
 ## Annotations
 
-[^key-9306707eac2950b4c0eeb3e4a55a72f3]: Modification: Art. 89 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AH(2)(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AH/2/3) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-9306707eac2950b4c0eeb3e4a55a72f3]: Modification: Art. 89 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AH(2)(3)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AH/2/3) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
 
-[^key-1162aa1122e50f326bce5d4bd5a3d56c]: Modification: Art. 89(9) modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AF(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AF/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-1162aa1122e50f326bce5d4bd5a3d56c]: Modification: Art. 89(9) modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AF(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AF/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
 
 [^f00016]: Footnote: [OJ L 152, 16.6.2009, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.152.01.0023.01.ENG)

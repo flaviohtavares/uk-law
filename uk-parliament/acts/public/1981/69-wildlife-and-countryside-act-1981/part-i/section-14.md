@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Introduction of new species etc.[^c19415001][^c19499241][^c20685441][^key-d062292e892dfae4a02460991325ac5a]
+## 14. Introduction of new species etc.[^c19415001][^c19499241][^c20685441][^c-d062292e892dfae4a02460991325ac5a]
 
 *Extent: E+W*
 
 (1) Subject to the provisions of this Part, if any person releases or allows to escape into the wild any animal which—
 
 - (a) is of a kind which is not ordinarily resident in and is not a regular visitor to Great Britain in a wild state; or
-- (b) is included in Part I, IA or IB[^key-41f3be50cb3c955b761ed435060297f9] of Schedule 9,
+- (b) is included in Part I, IA or IB[^c-41f3be50cb3c955b761ed435060297f9] of Schedule 9,
 
 he shall be guilty of an offence.
 
@@ -33,19 +33,19 @@ he shall be guilty of an offence.
 
 (4) Where the defence provided by subsection (3) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on the defence unless, within a period ending seven clear days before the hearing, he has served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in his possession.
 
-(4ZA)[^key-8311255935c8ca0a05b7cafa2865aa4e] Subsection (1)(a) does not apply to species included on the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No. 1143/2014 of the European Parliament and of the Council[^key-0d0070b46a96ba27161d24c0fa76362b], as amended from time to time.
+(4ZA)[^c-8311255935c8ca0a05b7cafa2865aa4e] Subsection (1)(a) does not apply to species included on the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No. 1143/2014 of the European Parliament and of the Council[^c-0d0070b46a96ba27161d24c0fa76362b], as amended from time to time.
 
-(4A)[^key-646dfdc6d6c06e7067b74ecdb1679754] Schedule 9A contains provision about species control agreements and orders and related matters.
+(4A)[^c-646dfdc6d6c06e7067b74ecdb1679754] Schedule 9A contains provision about species control agreements and orders and related matters.
 
 (5)[^c4939751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c4939751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Introduction of new species etc.[^c19414971][^key-d062292e892dfae4a02460991325ac5a]
+## 14. Introduction of new species etc.[^c19414971][^c-d062292e892dfae4a02460991325ac5a]
 
 *Extent: S*
 
-(1)[^key-950201930f7ee73bee79ba9618ff0fbf] Subject to the provisions of this Part, any person who—
+(1)[^c-950201930f7ee73bee79ba9618ff0fbf] Subject to the provisions of this Part, any person who—
 
 - (a) releases, or allows to escape from captivity, any animal—
   - (i) to a place outwith its native range; or
@@ -80,13 +80,13 @@ is guilty of an offence.
 - (d) different times of the year; and
 - (e) different areas or places.
 
-(3) Subject to subsection (4), it shall be a defence to a charge of committing an offence under subsection (1) or (2) to show[^key-bbcca0278890c4d877273c1fa729568d] that the accused took all reasonable steps and exercised all due diligence to avoid committing the offence.
+(3) Subject to subsection (4), it shall be a defence to a charge of committing an offence under subsection (1) or (2) to show[^c-bbcca0278890c4d877273c1fa729568d] that the accused took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
 (4) Where the defence provided by subsection (3) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on the defence unless, within a period ending seven clear days before the hearing, he has served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in his possession.
 
-(5)[^key-25a39b6e33dc9aad11717cb0b49c55be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-25a39b6e33dc9aad11717cb0b49c55be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-25a39b6e33dc9aad11717cb0b49c55be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-25a39b6e33dc9aad11717cb0b49c55be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -96,22 +96,22 @@ is guilty of an offence.
 
 [^c20685441]: Modification: S. 14 excluded (E.W.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [52(8)](https://www.legislation.gov.uk/uksi/2010/490/regulation/52/8)
 
-[^key-d062292e892dfae4a02460991325ac5a]: Modification: S. 14 excluded (E.W.) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [54(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/54/8) (with [reg. 56(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/56/2))
+[^c-d062292e892dfae4a02460991325ac5a]: Modification: S. 14 excluded (E.W.) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [54(8)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/54/8) (with [reg. 56(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/56/2))
 
-[^key-41f3be50cb3c955b761ed435060297f9]: Textual amendment: Words in s. 14(1)(b) inserted (E.W.) (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/2), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
+[^c-41f3be50cb3c955b761ed435060297f9]: Textual amendment: Words in s. 14(1)(b) inserted (E.W.) (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/2), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
 
-[^key-8311255935c8ca0a05b7cafa2865aa4e]: Textual amendment: S. 14(4ZA) inserted (E.W.) (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
+[^c-8311255935c8ca0a05b7cafa2865aa4e]: Textual amendment: S. 14(4ZA) inserted (E.W.) (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/schedule/4/paragraph/1/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
 
-[^key-0d0070b46a96ba27161d24c0fa76362b]: Textual amendment: Words in [s. 14(4ZA)](https://www.legislation.gov.uk/ukpga/1981/69/section/14/4ZA) substituted (E.W.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d0070b46a96ba27161d24c0fa76362b]: Textual amendment: Words in [s. 14(4ZA)](https://www.legislation.gov.uk/ukpga/1981/69/section/14/4ZA) substituted (E.W.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-646dfdc6d6c06e7067b74ecdb1679754]: Textual amendment: S. 14(4A) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/2), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-646dfdc6d6c06e7067b74ecdb1679754]: Textual amendment: S. 14(4A) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/2), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
 
 [^c4939751]: Textual amendment: S. 14(5)(6) repealed (E.W.) (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 102](https://www.legislation.gov.uk/ukpga/2000/37/section/102), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 16 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/IV)
 
 [^c19414971]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-950201930f7ee73bee79ba9618ff0fbf]: Textual amendment: S. 14(1)-(2D) substituted for s. 14(1)(2) (S.) (1.5.2012 for specified purposes, 2.7.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/i); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))
+[^c-950201930f7ee73bee79ba9618ff0fbf]: Textual amendment: S. 14(1)-(2D) substituted for s. 14(1)(2) (S.) (1.5.2012 for specified purposes, 2.7.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/i); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))
 
-[^key-bbcca0278890c4d877273c1fa729568d]: Textual amendment: Word in s. 14(3) substituted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(b)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)
+[^c-bbcca0278890c4d877273c1fa729568d]: Textual amendment: Word in s. 14(3) substituted (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(b)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)
 
-[^key-25a39b6e33dc9aad11717cb0b49c55be]: Textual amendment: S. 14(5)(6) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(c)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)
+[^c-25a39b6e33dc9aad11717cb0b49c55be]: Textual amendment: S. 14(5)(6) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(2)(c)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/c), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)

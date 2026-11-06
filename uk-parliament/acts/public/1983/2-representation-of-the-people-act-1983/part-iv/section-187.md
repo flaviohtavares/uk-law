@@ -31,7 +31,7 @@ so far as they apply to an election in England and Wales of—
 - (i) . . . [^c14503281], parish or community councillors, or
 - (ii) the chairman of a . . . [^c14503281], parish or community council or parish meeting,
 
-have effect subject to such adaptations, modifications and exceptions as may be made by rules under section 36 or section 36A[^key-e261b5e939672a212e8fff646e216872] above, but nothing in this subsection affects the operation of section 96 or section 100 above.
+have effect subject to such adaptations, modifications and exceptions as may be made by rules under section 36 or section 36A[^c-e261b5e939672a212e8fff646e216872] above, but nothing in this subsection affects the operation of section 96 or section 100 above.
 
 (2) Sections 48 (1) and (2) and 63[^c14503301] above have effect as if any reference in them to a local government election included a reference to any other election under the local government Act or the Local Government (Scotland) Act 1973[^c14503311].
 
@@ -66,7 +66,7 @@ have effect subject to such adaptations, modifications and exceptions as may be 
 
 [^c14503281]: Textual amendment: Word repealed by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [ss. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [28](https://www.legislation.gov.uk/ukpga/1985/50/section/28), [Sch. 4 para. 64(a)](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/64/a), [Sch. 5](https://www.legislation.gov.uk/ukpga/1985/50/schedule/5)
 
-[^key-e261b5e939672a212e8fff646e216872]: Textual amendment: Words in s. 187(1) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(16)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/16)
+[^c-e261b5e939672a212e8fff646e216872]: Textual amendment: Words in s. 187(1) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(16)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/16)
 
 [^c14503301]: Textual amendment: "63" substituted for "64" by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [Sch. 4 para. 64(b)](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/64/b)
 

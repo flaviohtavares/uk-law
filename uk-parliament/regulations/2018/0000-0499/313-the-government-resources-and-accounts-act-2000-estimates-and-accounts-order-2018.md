@@ -67,7 +67,7 @@ David Rutley
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE — Designated Bodies[^key-483b1069c5604d4d59358f0d054f8562]
+## SCHEDULE — Designated Bodies[^c-483b1069c5604d4d59358f0d054f8562]
 
 Article 2
 
@@ -584,4 +584,4 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^c22926961]: Marginal citation: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the [Constitutional Reform and Governance Act 2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-483b1069c5604d4d59358f0d054f8562]: Textual amendment: Sch. substituted (31.1.2019) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2018 (S.I. 2018/1335)](https://www.legislation.gov.uk/uksi/2018/1335), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1335/schedule)
+[^c-483b1069c5604d4d59358f0d054f8562]: Textual amendment: Sch. substituted (31.1.2019) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2018 (S.I. 2018/1335)](https://www.legislation.gov.uk/uksi/2018/1335), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1335/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/1335/schedule)

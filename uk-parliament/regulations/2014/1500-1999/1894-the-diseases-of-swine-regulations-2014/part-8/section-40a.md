@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40A. Disapplication of measures in England to those executing these Regulations[^key-54eb4f643f3a3c388a9ea4b7cc5876ea]
+## 40A. Disapplication of measures in England to those executing these Regulations[^c-54eb4f643f3a3c388a9ea4b7cc5876ea]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Any requirement or prohibition under these Regulations restricting the movement 
 
 ## Annotations
 
-[^key-54eb4f643f3a3c388a9ea4b7cc5876ea]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/40A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(33)](https://www.legislation.gov.uk/uksi/2026/475/article/3/33)
+[^c-54eb4f643f3a3c388a9ea4b7cc5876ea]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/40A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(33)](https://www.legislation.gov.uk/uksi/2026/475/article/3/33)

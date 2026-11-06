@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Anti-avoidance[^key-a47848559e94648f93fb5f6f017c45d8]
+## 154A. Anti-avoidance[^c-a47848559e94648f93fb5f6f017c45d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a47848559e94648f93fb5f6f017c45d8]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2007/3/section/154A) inserted (with effect and application in accordance with s. 22(9)-(11) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/5)
+[^c-a47848559e94648f93fb5f6f017c45d8]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2007/3/section/154A) inserted (with effect and application in accordance with s. 22(9)-(11) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/5)

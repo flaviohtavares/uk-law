@@ -31,7 +31,7 @@ Regulation 4(1), (4) and (5)
   - (i) approved by the Commissioners for Her Majesty's Revenue and Customs for the purposes of section 590 or 591 of the Income and Corporation Taxes Act 1988[^c2193094],
   - (ii) a statutory scheme as defined in section 611A of that Act[^c2193095], or
   - (iii) approved by the Commissioners for Her Majesty's Revenue and Customs under Chapter 4 of Part 14 of that Act[^c2193096],
-- (c)[^key-31f2e437ee8b3c208b4e444bf2d2e3bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (c)[^c-31f2e437ee8b3c208b4e444bf2d2e3bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 - (d) is a public service pension scheme[^c2193099].
 
 (3) The second condition is that the scheme—
@@ -56,6 +56,6 @@ Regulation 4(1), (4) and (5)
 
 [^c2193096]: Marginal citation: Chapter IV of Part XIV was repealed by the Finance Act 2004, section 326 and Schedule 42, Part 3.
 
-[^key-31f2e437ee8b3c208b4e444bf2d2e3bf]: Textual amendment: [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/1/paragraph/1/2/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/34/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31f2e437ee8b3c208b4e444bf2d2e3bf]: Textual amendment: [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/1/paragraph/1/2/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/34/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2193099]: Marginal citation: *See* section 1 of the 1993 Act.

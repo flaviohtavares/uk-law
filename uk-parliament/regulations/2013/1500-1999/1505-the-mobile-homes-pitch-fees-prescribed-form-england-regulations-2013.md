@@ -32,7 +32,7 @@ summary: ''
 
 Mobile Homes, England
 
-The Mobile Homes (Pitch Fees) (Prescribed Form) (England) Regulations 2013 (revoked)[^key-28e35bdb616524cb1c1d9ec972b74179]
+The Mobile Homes (Pitch Fees) (Prescribed Form) (England) Regulations 2013 (revoked)[^c-28e35bdb616524cb1c1d9ec972b74179]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 26th July 2013
 
-[^key-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Application, citation and commencement[^key-28e35bdb616524cb1c1d9ec972b74179]
+## 1. Application, citation and commencement[^c-28e35bdb616524cb1c1d9ec972b74179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Pitch fees: Prescribed form[^key-28e35bdb616524cb1c1d9ec972b74179]
+## 2. Pitch fees: Prescribed form[^c-28e35bdb616524cb1c1d9ec972b74179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Pitch fee review form[^key-28e35bdb616524cb1c1d9ec972b74179]
+## SCHEDULE — Pitch fee review form[^c-28e35bdb616524cb1c1d9ec972b74179]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28e35bdb616524cb1c1d9ec972b74179]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28e35bdb616524cb1c1d9ec972b74179]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1505) revoked (2.7.2023) by [The Mobile Homes (Pitch Fees) (Prescribed Form) (England) Regulations 2023 (S.I. 2023/620)](https://www.legislation.gov.uk/uksi/2023/620), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/620/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/620/regulation/3)
+[^c-28e35bdb616524cb1c1d9ec972b74179]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1505) revoked (2.7.2023) by [The Mobile Homes (Pitch Fees) (Prescribed Form) (England) Regulations 2023 (S.I. 2023/620)](https://www.legislation.gov.uk/uksi/2023/620), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/620/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/620/regulation/3)

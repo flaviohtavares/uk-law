@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Health and safety at work: general duty of self-employed persons[^c22547811][^key-5df4dd1b78ee3fd72eb239847725bcf9]
+## 1. Health and safety at work: general duty of self-employed persons[^c22547811][^c-5df4dd1b78ee3fd72eb239847725bcf9]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22547811]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/20/section/1) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-5df4dd1b78ee3fd72eb239847725bcf9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/20/section/1) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
+[^c-5df4dd1b78ee3fd72eb239847725bcf9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/20/section/1) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)

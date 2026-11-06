@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Benefit conferred[^key-a3a4eea75f2c864f499e6bae85bd8887]
+## 21. Benefit conferred[^c-a3a4eea75f2c864f499e6bae85bd8887]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a4eea75f2c864f499e6bae85bd8887]: Commencement: Reg. 21 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a3a4eea75f2c864f499e6bae85bd8887]: Commencement: Reg. 21 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

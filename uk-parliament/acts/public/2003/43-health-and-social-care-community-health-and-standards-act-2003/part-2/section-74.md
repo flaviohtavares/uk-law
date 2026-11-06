@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to require documents and information[^key-2c84b49f30f389bfa758784a58ad6de7]
+## 74. Power to require documents and information[^c-2c84b49f30f389bfa758784a58ad6de7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c84b49f30f389bfa758784a58ad6de7]: Commencement: S. 74 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
+[^c-2c84b49f30f389bfa758784a58ad6de7]: Commencement: S. 74 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Transitional and saving provision[^key-0853a5e8fe1580d4a357fc2945581096]
+## 101. Transitional and saving provision[^c-0853a5e8fe1580d4a357fc2945581096]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0853a5e8fe1580d4a357fc2945581096]: Commencement: S. 101 in force at Royal Assent, see 100(2)
+[^c-0853a5e8fe1580d4a357fc2945581096]: Commencement: S. 101 in force at Royal Assent, see 100(2)

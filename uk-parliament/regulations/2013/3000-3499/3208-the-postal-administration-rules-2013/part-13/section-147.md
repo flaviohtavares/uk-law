@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Procedure for examination[^key-1cedf7103596f5b59e99d7aad38bac00]
+## 147. Procedure for examination[^c-1cedf7103596f5b59e99d7aad38bac00]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cedf7103596f5b59e99d7aad38bac00]: Commencement: [Rule 147](https://www.legislation.gov.uk/uksi/2013/3208/rule/147) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-1cedf7103596f5b59e99d7aad38bac00]: Commencement: [Rule 147](https://www.legislation.gov.uk/uksi/2013/3208/rule/147) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Byelaws[^key-00357b88aa213da2b9268b7c5e09f296]
+## 42. Byelaws[^c-00357b88aa213da2b9268b7c5e09f296]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00357b88aa213da2b9268b7c5e09f296]: Commencement: Art. 42 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-00357b88aa213da2b9268b7c5e09f296]: Commencement: Art. 42 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00022]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

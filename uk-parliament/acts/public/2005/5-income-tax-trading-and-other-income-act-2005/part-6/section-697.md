@@ -24,8 +24,8 @@ summary: ''
 
 (2) In this section “**foreign institution**” means—
 
-- (a)[^key-66197841b33dbccbecca34aa73988cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-1d080235f3684e4c15c4a8da9c7e4a8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-66197841b33dbccbecca34aa73988cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1d080235f3684e4c15c4a8da9c7e4a8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an insurance company which is non-UK resident.
 
 (3) Different duties may be specified under subsection (1) for different institutions or different descriptions of institution.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66197841b33dbccbecca34aa73988cf9]: Textual amendment: [S. 697(2)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/697/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/13/4) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66197841b33dbccbecca34aa73988cf9]: Textual amendment: [S. 697(2)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/697/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/13/4) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d080235f3684e4c15c4a8da9c7e4a8b]: Textual amendment: [S. 697(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/697/2/b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/13/4) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d080235f3684e4c15c4a8da9c7e4a8b]: Textual amendment: [S. 697(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/697/2/b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/13/4) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

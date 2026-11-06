@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-fe32cfd9723b4d4a11d95589e566af08]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulations 3, 5(1) and 22(2) and paragraph 2 of Schedule 3
 
-**1.**[^key-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fe32cfd9723b4d4a11d95589e566af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

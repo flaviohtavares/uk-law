@@ -30,7 +30,7 @@ summary: ''
 
 (5) Where the presentation of tenders in the form of electronic catalogues is accepted or required, a contracting authority must—
 
-- (a) state that to be the case in the contract notice, [^key-ee020295c0017cd42aacb17ae33f0fe3]...; and
+- (a) state that to be the case in the contract notice, [^c-ee020295c0017cd42aacb17ae33f0fe3]...; and
 - (b) indicate in the procurement documents all the necessary information pursuant to regulation 23(16) to (20) (rules applicable to communication) concerning the format, the electronic equipment used and the technical connection arrangements and specifications for the catalogue.
 
 (6) Where a framework agreement has been concluded with more than one economic operator following the submission of tenders in the form of electronic catalogues, a contracting authority may provide that the reopening of competition for a specific contract is to take place on the basis of updated catalogues.
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee020295c0017cd42aacb17ae33f0fe3]: Textual amendment: Words in [reg. 37(5)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/37/5/a) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(10)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/10) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-ee020295c0017cd42aacb17ae33f0fe3]: Textual amendment: Words in [reg. 37(5)(a)](https://www.legislation.gov.uk/ssi/2015/446/regulation/37/5/a) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(10)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/10) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

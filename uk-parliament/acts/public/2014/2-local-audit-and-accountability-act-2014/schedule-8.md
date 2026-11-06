@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Advisory notices[^key-20b514fa3ee177ca5809ddd085ac5363]
+## SCHEDULE 8 — Advisory notices[^c-20b514fa3ee177ca5809ddd085ac5363]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 29
 
 ### Power to issue advisory notice
 
-**1.**[^key-fef80a7948c62e82226c04d391e3580f][^key-20b514fa3ee177ca5809ddd085ac5363] (1) A local auditor of the accounts of a relevant authority, other than a health service body, may issue a notice under this paragraph (an “advisory notice”) if the auditor thinks that the authority or an officer of the authority—
+**1.**[^c-fef80a7948c62e82226c04d391e3580f][^c-20b514fa3ee177ca5809ddd085ac5363] (1) A local auditor of the accounts of a relevant authority, other than a health service body, may issue a notice under this paragraph (an “advisory notice”) if the auditor thinks that the authority or an officer of the authority—
 
 - (a) is about to make or has made a decision which involves or would involve the authority incurring unlawful expenditure,
 - (b) is about to take or has begun to take a course of action which, if followed to its conclusion, would be unlawful and likely to cause a loss or deficiency, or
@@ -51,7 +51,7 @@ Section 29
 
 ### Service and withdrawal of notice
 
-**2.**[^key-083c54b5d73ed5c7e13662bdb1e85aee][^key-20b514fa3ee177ca5809ddd085ac5363] (1) A copy of an advisory notice—
+**2.**[^c-083c54b5d73ed5c7e13662bdb1e85aee][^c-20b514fa3ee177ca5809ddd085ac5363] (1) A copy of an advisory notice—
 
 - (a) in the case of a notice addressed to a relevant authority, must be served on the relevant authority,
 - (b) in the case of a notice addressed to an officer, must be served on the relevant authority concerned and the officer, and
@@ -77,7 +77,7 @@ Section 29
 
 ### Effect of an advisory notice
 
-**3.**[^key-6457922764d3682697072b9b05b5044f][^key-20b514fa3ee177ca5809ddd085ac5363] (1) While an advisory notice has effect, it is not lawful for the relevant authority concerned or any officer of that authority—
+**3.**[^c-6457922764d3682697072b9b05b5044f][^c-20b514fa3ee177ca5809ddd085ac5363] (1) While an advisory notice has effect, it is not lawful for the relevant authority concerned or any officer of that authority—
 
 - (a) if the notice relates to a decision, to make or implement the decision,
 - (b) if the notice relates to a course of action, to take or continue to take the course of action, or
@@ -105,7 +105,7 @@ Section 29
 
 ### Further provisions about advisory notices
 
-**4.**[^key-9c917baf23c809bf69cca1f89964f158][^key-20b514fa3ee177ca5809ddd085ac5363] (1) Sub-paragraph (2) applies if—
+**4.**[^c-9c917baf23c809bf69cca1f89964f158][^c-20b514fa3ee177ca5809ddd085ac5363] (1) Sub-paragraph (2) applies if—
 
 - (a) before an advisory notice is served, a relevant authority enters into a contract to dispose of or acquire an interest in land, and
 - (b) before the disposal or acquisition is completed, an advisory notice takes effect as a result of which it is unlawful for the authority to complete the disposal or acquisition.
@@ -116,12 +116,12 @@ Section 29
 
 ## Annotations
 
-[^key-20b514fa3ee177ca5809ddd085ac5363]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8) excluded by 1999 c. 29, s. 134(5) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-20b514fa3ee177ca5809ddd085ac5363]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8) excluded by 1999 c. 29, s. 134(5) (as amended) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/43/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-fef80a7948c62e82226c04d391e3580f]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/1) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-fef80a7948c62e82226c04d391e3580f]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/1) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-083c54b5d73ed5c7e13662bdb1e85aee]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/2) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-083c54b5d73ed5c7e13662bdb1e85aee]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/2) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-6457922764d3682697072b9b05b5044f]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/3) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-6457922764d3682697072b9b05b5044f]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/3) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-9c917baf23c809bf69cca1f89964f158]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/4) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-9c917baf23c809bf69cca1f89964f158]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/8/paragraph/4) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(r)](https://www.legislation.gov.uk/uksi/2015/841/article/3/r) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

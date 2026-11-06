@@ -43,7 +43,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation, commencement and interpretation[^key-e6c631b03ec15b09c6ee853f7cbf077e]
+### 1. Citation, commencement and interpretation[^c-e6c631b03ec15b09c6ee853f7cbf077e]
 
 (1) These Regulations may be cited as the Care Tribunal Regulations (Northern Ireland) 2005 and shall come into operation on the 1st April 2005.
 
@@ -53,23 +53,23 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “the 2003 Order” means the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00002];
 - “the 1995 Order” means the Children (Northern Ireland) Order 1995[^f00003];
 - “the 1986 Order” means the Education and Libraries (Northern Ireland) Order 1986[^f00004];
-- “the[^key-7def606c5daa921201c011e1093f4c11] 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007;
+- “the[^c-7def606c5daa921201c011e1093f4c11] 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007;
 - “the 2008 Order” means the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008;
 - “the 2001 Act” means the Health and Personal Social Services Act (Northern Ireland) 2001[^f00005];
-- “the adults’ barred list” has the same meaning as in Article 2(2) of the[^key-7594a3faf4e5c50a78aff7710ca6c73d] 2007 Order;
+- “the adults’ barred list” has the same meaning as in Article 2(2) of the[^c-7594a3faf4e5c50a78aff7710ca6c73d] 2007 Order;
 - “the children’s barred list” has the same meaning as in Article 2(2) of the 2007 Order;
 - “case” in Parts IV and VI means –
   - (a) an appeal under Article 22 of the Order;
-  - (b) an appeal under Article 78A or 94A[^key-c816dde25fba475f55860bd2c51cdc8e] of the 1995 Order;
+  - (b) an appeal under Article 78A or 94A[^c-c816dde25fba475f55860bd2c51cdc8e] of the 1995 Order;
   - (c) an appeal under Article 11(1)(a) or (b) of the 2003 Order;
   - (d) a determination under Article 11(2) of the 2003 Order;
   - (e) an appeal under Article 27 of the 2003 Order;
   - (f) appeals, determinations and applications for leave to appeal under Article 42 of the 2003 Order;
   - (g) appeals under section 15 of the 2001 Act;
   - (h) an appeal under Article 70(2) or Article 88A(2) of the 1986 Order;
-  - (i) an appeal pursuant to Articles 3(6) or 5(6) of the[^key-a1be1f2eb6e1f8a22cc6dd3cfc65d57b] 2008 Order, or under Article 8(1)(b) of the 2007 Order, pursuant to Article 4(2) of the 2008 Order;
-  - (j) an appeal under Article 8(1)(a), (b) or (c) of the[^key-6bd571c0235f6bb2e81bbe44033f4e25] 2007 Order.
-- “application for leave” means except in cases to which regulation 4(7) applies,[^key-d66c0fc575d4c841978221ae00240ca0] an application to the Care Tribunal –
+  - (i) an appeal pursuant to Articles 3(6) or 5(6) of the[^c-a1be1f2eb6e1f8a22cc6dd3cfc65d57b] 2008 Order, or under Article 8(1)(b) of the 2007 Order, pursuant to Article 4(2) of the 2008 Order;
+  - (j) an appeal under Article 8(1)(a), (b) or (c) of the[^c-6bd571c0235f6bb2e81bbe44033f4e25] 2007 Order.
+- “application for leave” means except in cases to which regulation 4(7) applies,[^c-d66c0fc575d4c841978221ae00240ca0] an application to the Care Tribunal –
   - (a) for leave to appeal under Article 11(1)(b) or Article 42(1)(b) of the 2003 Order;
   - (b) for leave for a determination by the Care Tribunal under Article 11 (2) or Article 42(2) of the 2003 Order;
 - “costs order” means an order under regulation 25;
@@ -77,7 +77,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “the Department” means the Department of Health Social Services and Public Safety;
 - “document” means information recorded in writing or in any other form;
 - “the Education and Library Board” shall be construed in accordance with Article 3 of the 1986 Order;
-- “ HSS Board” means a Health and Social[^key-276a4b2338460775a5ca94becdfdbb22] Services Board under the Health and Social Services (Northern Ireland) Order 1991[^f00006];
+- “ HSS Board” means a Health and Social[^c-276a4b2338460775a5ca94becdfdbb22] Services Board under the Health and Social Services (Northern Ireland) Order 1991[^f00006];
 - “ HSS Trust” has the same meaning as in the Health and Personal Social Services (Northern Ireland) Order 1991;
 - “an institution of further education” shall be construed in accordance with Article 2(2) of the further Education (Northern Ireland) Order 1997[^f00007];
 - “nurse” means a person registered in the register maintained under Article 5 of the Nursing and Midwifery Order (Northern Ireland) 2001, by virtue of qualification in nursing or midwifery as the case may be;
@@ -88,35 +88,35 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “records” means the records of the Care Tribunal;
 - “relevant programme” means a programme included in a programme service within the meaning of the Broadcasting Act 1996[^f00008];
 - “relevant social work” has the same meaning as in section 2(4) of the 2001 Act;
-- “the respondent” means—[^key-a955ede326ca9eeddf6fb6129340c38a]
+- “the respondent” means—[^c-a955ede326ca9eeddf6fb6129340c38a]
   - (a) in relation to an appeal under Article 22 of the 2003 Order, the RQIA;
   - (b) in relation to an appeal under Article 78A or 94A of the 1995 Order, the RQIA;
   - (c) in relation to an appeal or an application for leave to appeal under Article 11 or 12 of the 2003 Order, the Department;
   - (d) in relation to an appeal, an application for leave or a determination under Article 42 of the 2003 Order, the Department;
   - (e) in relation to an appeal under regulations made in accordance with Article 70(2)(e) or 88A(2)(b) of the 1986 Order, the Department of Education;
   - (f) in relation to an appeal under section 15 of the 2001 Act, the Council;
-  - (g) in relation to an application for leave to appeal in a case to which regulation 4(7) applies, or an appeal under—[^key-19f6b97a351c7caabce0c0d4aba32b16]
+  - (g) in relation to an application for leave to appeal in a case to which regulation 4(7) applies, or an appeal under—[^c-19f6b97a351c7caabce0c0d4aba32b16]
     - (i) Article 3(6) or 5(6) of the 2008 Order; or
     - (ii) Article 8(1)(b) of the 2008 Order, pursuant to Article 4(2) of the 2008 Order,
 
       the Independent Barring Board;
 - “the Secretary means the person for the time being acting as the Secretary to the Care Tribunal;
 - “school” has the same meaning as in Article 2 of the Order;
-- “sensitive witness” means, in relation to Schedule 7 only, an adult witness where the quality of evidence given by the witness is likely to be diminished by reason of fear or distress on the part of the witness in connection with giving evidence in the case;”[^key-8b9e1d31b5f08a1e88bf076ab93b5114]
-- “vulnerable adult” in relation to—[^key-a7708ffa8ea283caf327778ddccc3007]
+- “sensitive witness” means, in relation to Schedule 7 only, an adult witness where the quality of evidence given by the witness is likely to be diminished by reason of fear or distress on the part of the witness in connection with giving evidence in the case;”[^c-8b9e1d31b5f08a1e88bf076ab93b5114]
+- “vulnerable adult” in relation to—[^c-a7708ffa8ea283caf327778ddccc3007]
   - (a) an application for leave to appeal in a case to which regulation 4(7) applies, has the meaning as in Article 3 of that Order,
   - (b) any other case has the meaning as in Article 48(6) of the 2003 Order;
 - “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday within the meaning of the Banking and Financial Dealings Act 1971[^f00009].
 
 ## PART II — CONSTITUTION
 
-### 2. Powers and functions exercisable by the Care Tribunal[^key-0567c256c25cd5bdd8c6249f85798aba]
+### 2. Powers and functions exercisable by the Care Tribunal[^c-0567c256c25cd5bdd8c6249f85798aba]
 
-(1) Anything which must or may be done by the chairman [^key-cc1fcb7fac0766de07e08a2b08976e91]... may be done by a member of the chairmen’s panel authorised by the chairman.
+(1) Anything which must or may be done by the chairman [^c-cc1fcb7fac0766de07e08a2b08976e91]... may be done by a member of the chairmen’s panel authorised by the chairman.
 
-(2)[^key-d17527724009fc8ec665d932b3d23c91] Anything which must or may be done by the Secretary may be done by a member of the Care Tribunal’s staff authorised by the Secretary.
+(2)[^c-d17527724009fc8ec665d932b3d23c91] Anything which must or may be done by the Secretary may be done by a member of the Care Tribunal’s staff authorised by the Secretary.
 
-### 3. Requirements for membership of lay panel[^key-a31e13708df3490039d99b07413df236]
+### 3. Requirements for membership of lay panel[^c-a31e13708df3490039d99b07413df236]
 
 (1) A person may be appointed a member of the lay panel if he satisfies the requirements of –
 
@@ -127,8 +127,8 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 (2) The requirements of this paragraph are –
 
 - (a) experience in the provision of services –
-  - (i) which must or may be provided by HSS Trusts under the 1995 Order or which are similar to such services; or[^key-8555d3b8090dd068fc4a8fc5b6110fe4]
-  - (ii) for vulnerable adults; and[^key-7295a52bb136818014ac089408f2cb9b]
+  - (i) which must or may be provided by HSS Trusts under the 1995 Order or which are similar to such services; or[^c-8555d3b8090dd068fc4a8fc5b6110fe4]
+  - (ii) for vulnerable adults; and[^c-7295a52bb136818014ac089408f2cb9b]
 - (b) experience in relevant social work.
 
 (3) The requirements of this paragraph are –
@@ -151,12 +151,12 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - (c) experience in carrying out inspections under the 1995 Order;
 - (d) experience in managing an establishment or agency under Part III of the 2003 Order;
 - (e) experience in managing a children’s home under the 1995 Order;
-- (f) experience in managing the provision of health and personal social services; or[^key-ead29422c76c56e205cb8d3ece4e2c96]
+- (f) experience in managing the provision of health and personal social services; or[^c-ead29422c76c56e205cb8d3ece4e2c96]
 - (g) that the person is a nurse or medical practitioner who has experience of the provision of health services;
 
 ## PART III — APPEALS, DETERMINATIONS AND APPLICATIONS FOR LEAVE
 
-### 4. Procedure for appeals, determinations and applications for leave[^key-10c3aa211775d71b4f149cba479ba6b5]
+### 4. Procedure for appeals, determinations and applications for leave[^c-10c3aa211775d71b4f149cba479ba6b5]
 
 (1) In the case of an appeal under Article 22 of the Order, the procedure set out in Schedule 1 shall apply.
 
@@ -172,7 +172,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 the procedure set out in Schedule 3 shall apply.
 
-(4)[^key-4538abd8c6a4cdb645b5dd18248cd73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4538abd8c6a4cdb645b5dd18248cd73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the case of –
 
@@ -185,12 +185,12 @@ the procedure set out in Schedule 5 shall apply.
 
 (6) In the case of an appeal under section 15 of the 2001 Act against a decision of the Council in respect of registration under the Part I of that Act, the procedure set out in Schedule 6 shall apply.
 
-(7)[^key-a43e55c3ef07271d147590101abe4fb7] In the case of an application for leave to appeal under Article 8(4) of the 2007 Order against a decision—
+(7)[^c-a43e55c3ef07271d147590101abe4fb7] In the case of an application for leave to appeal under Article 8(4) of the 2007 Order against a decision—
 
 - (a) not to remove the applicant from the children’s barred list, in a case to which Article 3(6) of the 2008 Order applies;
 - (b) not to remove the applicant from the adults’ barred list, in a case to which Article 5 (6) of the 2008 Order applies; or
 - (c) under Article 8(1)(b) of the 2007 Order, to include the applicant in the children’s barred list pursuant to Article 4(2) of the 2008 Order,
-- (d) not to remove the applicant from—[^key-631017472496b761054b93743b851e5b]
+- (d) not to remove the applicant from—[^c-631017472496b761054b93743b851e5b]
   - (i) the children’s barred list, in a case to which paragraph 2 of Schedule 1 to the 2007 Order applies; or
   - (ii) the adults’ barred list, in a case to which paragraph 8 of that Schedule applies;
 - (e) to include the applicant in—
@@ -204,7 +204,7 @@ the procedure set out in Schedule 7 shall apply.
 
 ## PART IV — CASE MANAGEMENT
 
-### 5. Appointment of Care Tribunal[^key-48256aada0b842fd27f1a0146444a805]
+### 5. Appointment of Care Tribunal[^c-48256aada0b842fd27f1a0146444a805]
 
 (1) The Department shall nominate members of the lay panel who appear to have experience and qualifications relevant to the subject matter of the case.
 
@@ -212,9 +212,9 @@ the procedure set out in Schedule 7 shall apply.
 
 (3) The Department shall appoint a person to act as Secretary to the Tribunal for purposes of the appeal.
 
-### 6. Directions[^key-9ac013c81a55cf55f2a1b6c15348320d]
+### 6. Directions[^c-9ac013c81a55cf55f2a1b6c15348320d]
 
-(1) If either party has requested that there shall be a preliminary hearing, or if the Chairman considers that a preliminary hearing is necessary, the Chairman shall fix a date for the preliminary hearing, as soon as possible after leave has been granted under paragraph 4 or 5 of Schedule 7, or[^key-26fcbbab4020a71f9c4d561696b52562] after the expiry of the 5 working days referred to in paragraph 6 of Schedule 1, 2 , 4, or 6 or paragraph 9 of Schedule 3,or 5, as the case may be.
+(1) If either party has requested that there shall be a preliminary hearing, or if the Chairman considers that a preliminary hearing is necessary, the Chairman shall fix a date for the preliminary hearing, as soon as possible after leave has been granted under paragraph 4 or 5 of Schedule 7, or[^c-26fcbbab4020a71f9c4d561696b52562] after the expiry of the 5 working days referred to in paragraph 6 of Schedule 1, 2 , 4, or 6 or paragraph 9 of Schedule 3,or 5, as the case may be.
 
 (2) At the preliminary hearing, or if a preliminary hearing is not to be held, as soon as possible after, and in any event not later than 10 working days after, the expiry of the 5 working days referred to in paragraph (1) the Chairman –
 
@@ -226,15 +226,15 @@ the procedure set out in Schedule 7 shall apply.
 
 (4) The Chairman may direct that exchange of witness statements or other material shall be simultaneous or sequential, as he considers appropriate.
 
-(5) The Secretary shall notify the parties as soon as possible in writing of any directions the Chairman gives in writing under paragraphs (2), (3) and (4)[^key-a375999dde8445e2f53707184b51bd93] .
+(5) The Secretary shall notify the parties as soon as possible in writing of any directions the Chairman gives in writing under paragraphs (2), (3) and (4)[^c-a375999dde8445e2f53707184b51bd93] .
 
 (6) The Secretary shall notify the parties as soon as possible, and in any event not less than 5 working days before the hearing of the date, time and place of any preliminary hearing.
 
 (7) The parties may be represented or assisted at any preliminary hearing by any person.
 
-### 7. Fixing and notification of hearing[^key-c0ea13b4c785b4855384e9dd096ad0b1]
+### 7. Fixing and notification of hearing[^c-c0ea13b4c785b4855384e9dd096ad0b1]
 
-(1) The Secretary in consultation with the Chairman must, fix a date for the hearing of the case unless the applicant has requested in writing that the case be determined without a hearing and the Chairman has not directed that there be a hearing under regulation 6(3).[^key-5394de19cb61677e1b7dc07b36b226a8]
+(1) The Secretary in consultation with the Chairman must, fix a date for the hearing of the case unless the applicant has requested in writing that the case be determined without a hearing and the Chairman has not directed that there be a hearing under regulation 6(3).[^c-5394de19cb61677e1b7dc07b36b226a8]
 
 (2) The date fixed for the hearing shall be the earliest practicable date having regard to any directions which have been made by the Chairman with regard to the preparation of evidence but shall be no sooner than 15 working days after the latest date on which the Chairman has directed that the evidence of the parties (including the statements of any witnesses or experts) shall be filed or exchanged.
 
@@ -248,12 +248,12 @@ the procedure set out in Schedule 7 shall apply.
 
 (7) If the Chairman adjourns the hearing, then the Secretary must, without delay, inform the parties in writing of the date, time and place at which the hearing will be resumed.
 
-### 8. Appeal against secondary listing[^key-53301b53a97797491e12f1e6dadd8061]
+### 8. Appeal against secondary listing[^c-53301b53a97797491e12f1e6dadd8061]
 
 - (i) Where a person (“the applicant”) has been included in the DWC (NI) list under Article 3 of the 2003 Order and by virtue of Article 36(4) to (7) of that Order has also been included in the DWVA (NI) list, and the applicant accepts his inclusion on the DWC (NI) list and wishes only to appeal against his inclusion on the DWVA (NI) list then, the appeal is an appeal against the DWVA (NI) listing only;
 - (ii) Where a person (“the applicant”) has been included in the DWVA (NI) list under Article 35 of the 2003 Order and by virtue of Article 8(1) of that Order has also been included in the DWC (NI) list, and the applicant accepts his inclusion on the DWVA (NI) list and wishes only to appeal against his inclusion on the DWC (NI) list then, the appeal is an appeal against the DWC (NI) list only.
 
-### 9. Multiple appeals[^key-487a39f73cb3418dc4275adad1c6d864]
+### 9. Multiple appeals[^c-487a39f73cb3418dc4275adad1c6d864]
 
 (1) Subject to paragraphs (2) and (3), where two or more cases relate to the same person, establishment or agency, the Chairman may, on the application of either party or on his own initiative, direct that such cases shall be heard together if he considers it appropriate to do so.
 
@@ -282,7 +282,7 @@ the procedure set out in Schedule 7 shall apply.
 
 and shall give a direction that the appeals be heard separately where he is satisfied that it would be unfair in all the circumstances to hear the appeals together.
 
-### 10. Further directions[^key-5a9bd8b882f3d183fafe4acf97d935ba]
+### 10. Further directions[^c-5a9bd8b882f3d183fafe4acf97d935ba]
 
 (1) The Chairman may at any time on the application of either party or on his own initiative, vary any direction which he has given or give any further direction in exercise of any of his powers under this Part as he considers appropriate.
 
@@ -293,7 +293,7 @@ and shall give a direction that the appeals be heard separately where he is sati
   - (ii) is on his own initiative, give both parties the opportunity to make written representations;
 - (b) the Chairman may direct that there shall be a preliminary hearing in relation to any proposed variation or further direction if he considers it appropriate or if a preliminary hearing has been requested by either party.
 
-### 11. Unless orders[^key-d25f847b1e4b08ace6b5b48592dab2c6]
+### 11. Unless orders[^c-d25f847b1e4b08ace6b5b48592dab2c6]
 
 (1) The Chairman may at any time make an order to the effect that, unless the party to whom the order is addressed takes a step specified in the order within the period specified in the order, the case may be determined in favour of the other party.
 
@@ -316,22 +316,22 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (9) Where the determination, or any costs order, is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 12. Copies of documents[^key-869b08a266f83a9548f0d4921d8fe96b]
+### 12. Copies of documents[^c-869b08a266f83a9548f0d4921d8fe96b]
 
 (1) The Chairman may give a direction as to the number of copies of relevant material, which each party must send to the Care Tribunal and relevant material means, all documents, witness statements and other material on which the parties intend to rely or which they have been ordered by the Chairman to send to the Care Tribunal under this Part.
 
 (2) The Chairman may, if he considers it appropriate to do so, direct the form and order in which relevant material shall be supplied to the Care Tribunal.
 
-### 13. Disclosure of information and documents[^key-db1e9a17c6d5de7c8bb8bcb085d28dd2]
+### 13. Disclosure of information and documents[^c-db1e9a17c6d5de7c8bb8bcb085d28dd2]
 
 (1) Subject to paragraphs (3) to (5), the Chairman may give directions –
 
-- (a) requiring a party to send to the Secretary[^key-fb8889bfe3479dc8caf99c85949cfc13] any document or other material which he considers may assist the Care Tribunal in determining the case and which that party is able to send, and the Secretary shall take such steps as the Chairman may direct, to supply copies of any information or document obtained under this paragraph to the other party;
+- (a) requiring a party to send to the Secretary[^c-fb8889bfe3479dc8caf99c85949cfc13] any document or other material which he considers may assist the Care Tribunal in determining the case and which that party is able to send, and the Secretary shall take such steps as the Chairman may direct, to supply copies of any information or document obtained under this paragraph to the other party;
 - (b) granting to a party the right to inspect and take copies of any document or other material which it is in the power of the other party to disclose, and appointing the date, time and place at which any such inspection and copying is to be done.
 
 (2) Subject to paragraphs (3) to (5), the Chairman may give a direction on the application of either party, requiring a person who is not a party to the proceedings to disclose any document or other material to the party making the application, if he is satisfied that –
 
-- (a)[^key-62f914ebc49cd3c2883821baea6ebc84] the documents or other material sought are likely to support or adversely affect the case of either party;
+- (a)[^c-62f914ebc49cd3c2883821baea6ebc84] the documents or other material sought are likely to support or adversely affect the case of either party;
 - (b) it is within the power of the person subject to the direction to disclose any document or other material; and
 - (c) disclosure is necessary for the fair determination of the case.
 
@@ -341,7 +341,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (5) Before making a direction under paragraph (1) or (2), the Chairman shall take into account the need to protect any matter which relates to intimate personal or financial circumstances, is commercially sensitive, or was communicated or obtained in confidence.
 
-### 14. Expert evidence[^key-950843285ef5bcc1ded114d6fc13c943]
+### 14. Expert evidence[^c-950843285ef5bcc1ded114d6fc13c943]
 
 (1) The Chairman may, if he thinks that any question arises in relation to the case on which it would be desirable for the Care Tribunal to have the assistance of an expert, appoint a person having appropriate qualifications to enquire into and report on the matter.
 
@@ -351,7 +351,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (4) The Care Tribunal shall pay such reasonable fees as the Chairman may determine to any person appointed under this regulation.
 
-### 15. Evidence of witnesses[^key-cc032af4ee93d72a888f38eaac66bc37]
+### 15. Evidence of witnesses[^c-cc032af4ee93d72a888f38eaac66bc37]
 
 (1) The Chairman may direct that the parties send to each other by the date specified in the direction a copy of a witness statement in respect of each witness on whose evidence he wishes to rely.
 
@@ -367,7 +367,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (5) The Chairman may direct that a witness (other than the applicant) shall not give oral evidence.
 
-### 16. Withholding medical report from disclosure in exceptional circumstances[^key-fc3eb564d67e13bd892d423432d3f425]
+### 16. Withholding medical report from disclosure in exceptional circumstances[^c-fc3eb564d67e13bd892d423432d3f425]
 
 (1) This regulation applies where the respondent wishes the Care Tribunal, in determining the case, to consider a medical report and the Chairman is satisfied –
 
@@ -384,7 +384,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 - (a) the report may be considered by the Care Tribunal; and
 - (b) all or any part of its contents must not be disclosed to the applicant.
 
-### 17. Summoning of witnesses[^key-9ca15d9e3d91a49be0237866b3dcdb1d]
+### 17. Summoning of witnesses[^c-9ca15d9e3d91a49be0237866b3dcdb1d]
 
 (1) The Chairman may, on the application of either party or on his own initiative, issue a summons requiring any person –
 
@@ -408,7 +408,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (5) No person shall be required under this regulation to give any evidence or produce any document or other material that he could not be required to produce in legal proceedings in a county court.
 
-### 18. Child and vulnerable adult witnesses[^key-e0dd134e1309961a1ef87ad2169154e7]
+### 18. Child and vulnerable adult witnesses[^c-e0dd134e1309961a1ef87ad2169154e7]
 
 (1) A child shall only give evidence in person where –
 
@@ -420,10 +420,10 @@ and shall give a direction that the appeals be heard separately where he is sati
 - (a) secure that any arrangements he considers appropriate (such as the use of a video link) are made to safeguard the welfare of the child; and
 - (b) appoint for the purpose of the hearing a person with appropriate skills or experience in facilitating the giving of evidence by children.
 
-(3) Where the Chairman believes that it might not be in the best interests of a vulnerable adult or sensitive witness[^key-a550b622306349e6c42b6b6b2a934128] for the vulnerable adult or sensitive witness to give oral evidence to the Care Tribunal, the Chairman shall –
+(3) Where the Chairman believes that it might not be in the best interests of a vulnerable adult or sensitive witness[^c-a550b622306349e6c42b6b6b2a934128] for the vulnerable adult or sensitive witness to give oral evidence to the Care Tribunal, the Chairman shall –
 
 - (a) give the parties the opportunity to make written representations before the hearing or representations at the hearing; and
-- (b) having regard to all the available evidence, including any written representations made by the parties consider whether it would prejudice the welfare of a vulnerable adult or sensitive witness[^key-1505956699ee6f527dfe1c6183e7cc8c] to give oral evidence to the Care Tribunal –
+- (b) having regard to all the available evidence, including any written representations made by the parties consider whether it would prejudice the welfare of a vulnerable adult or sensitive witness[^c-1505956699ee6f527dfe1c6183e7cc8c] to give oral evidence to the Care Tribunal –
   - (i) in any circumstances; or
   - (ii) otherwise than in accordance with paragraph (5).
 
@@ -437,9 +437,9 @@ and shall give a direction that the appeals be heard separately where he is sati
 - (a) secure that any arrangements he considers appropriate (such as the use of a video link) are made to safeguard the welfare of the vulnerable adult or sensitive witness; and
 - (b) appoint for the purpose of the hearing a person with appropriate skills or experience in facilitating the giving of evidence by vulnerable adults or sensitive witnesses .
 
-(6) The Chairman shall pay such reasonable[^key-e73a7633060286464773d85ea3311ddd] fees as he may determine to any person appointed under this regulation.
+(6) The Chairman shall pay such reasonable[^c-e73a7633060286464773d85ea3311ddd] fees as he may determine to any person appointed under this regulation.
 
-### 19. Restricted reporting orders[^key-dd657d627706b24069d568dfd4897dae]
+### 19. Restricted reporting orders[^c-dd657d627706b24069d568dfd4897dae]
 
 (1) If it appears appropriate to do so, the Chairman (or, at the hearing, the Care Tribunal) may make a restricted reporting order.
 
@@ -447,7 +447,7 @@ and shall give a direction that the appeals be heard separately where he is sati
 
 (3) An order that may be made under this regulation may be made in respect of a limited period and may be varied or revoked by the Chairman before the hearing (or by the Care Tribunal at the hearing).
 
-### 20. Exclusion of press and public[^key-71f59b483f7473b13efe4f4495119bfb]
+### 20. Exclusion of press and public[^c-71f59b483f7473b13efe4f4495119bfb]
 
 (1) Where paragraph (2) applies, the Chairman (or, at the hearing, the Care Tribunal) may on his (or its) own initiative, or on a written request by either party that the hearing or any part of it should be conducted in private, direct that –
 
@@ -465,7 +465,7 @@ be excluded from all or part of the hearing.
 
 ## PART V — HEARING
 
-### 21. Procedure at the hearing[^key-684d087abcdd429843ae2efee73f566f]
+### 21. Procedure at the hearing[^c-684d087abcdd429843ae2efee73f566f]
 
 (1) The Care Tribunal may regulate its own procedure.
 
@@ -475,7 +475,7 @@ be excluded from all or part of the hearing.
 
 (4) If either party fails to attend or be represented at the hearing, the Care Tribunal may hear and determine the case in that party’s absence.
 
-### 22. Hearing to be in public[^key-7f32f3a6572218edff9696bd690cfc68]
+### 22. Hearing to be in public[^c-7f32f3a6572218edff9696bd690cfc68]
 
 (1) The hearing must be in public except in so far as any person is excluded under regulation 20.
 
@@ -483,7 +483,7 @@ be excluded from all or part of the hearing.
 
 (3) Whether or not the hearing is held in public, any person whom the Chairman permits to be present in order to assist the Care Tribunal may remain present during the Care Tribunal’s deliberations, but must not take part in the deliberations.
 
-### 23. Evidence[^key-592f9c56e04c7790081146ca23f465bd]
+### 23. Evidence[^c-592f9c56e04c7790081146ca23f465bd]
 
 (1) The Care Tribunal may consider any evidence, whether or not such evidence would be admissible in a court of law.
 
@@ -495,11 +495,11 @@ be excluded from all or part of the hearing.
 
 (5) The Care Tribunal may require any witness to give evidence on oath or affirmation which may be administered for the purpose by the Chairman or the Secretary.
 
-(6)[^key-60b491aaef6d907251c036c9c0760d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-60b491aaef6d907251c036c9c0760d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VI — DECISION
 
-### 24. The decision[^key-b23b70526bc1dbda641455965394989f]
+### 24. The decision[^c-b23b70526bc1dbda641455965394989f]
 
 (1) The Care Tribunal’s decision may be taken by a majority and the decision shall record whether it was unanimous or taken by a majority.
 
@@ -518,7 +518,7 @@ be excluded from all or part of the hearing.
 
 (7) The decision shall be entered in the records.
 
-### 25. Costs[^key-3614303458a2e992c4eeb95a09f500e1]
+### 25. Costs[^c-3614303458a2e992c4eeb95a09f500e1]
 
 (1) Subject to regulation 32 and to paragraph (2), if in the opinion of the Care Tribunal a party has acted unreasonably in bringing or conducting the proceedings, it may make an order (a “costs order”) requiring that party (“the paying party”) to make a payment to the other party (“the receiving party”) to cover costs incurred by the receiving party.
 
@@ -537,7 +537,7 @@ be excluded from all or part of the hearing.
 
 (5) A costs order may, by leave of a county court, be enforced in the same manner as a judgment or order of that court to the same effect.
 
-### 26. Review of the Care Tribunal’s decision[^key-c44b5879134ecebcb7e5cea23a25c80a]
+### 26. Review of the Care Tribunal’s decision[^c-c44b5879134ecebcb7e5cea23a25c80a]
 
 (1) A party may apply to the Chairman for the Care Tribunal’s decision to be reviewed on the grounds that –
 
@@ -556,7 +556,7 @@ be excluded from all or part of the hearing.
 
 (5) The Care Tribunal may on its own initiative propose to review its decision on any of the grounds referred to in paragraph (1), in which case –
 
-- (a) the Secretary[^key-25c413639cd1fe9bc71a56a8779c5eb9] shall serve notice on the parties not later than ten working days after the date on which the decision was sent to them; and
+- (a) the Secretary[^c-25c413639cd1fe9bc71a56a8779c5eb9] shall serve notice on the parties not later than ten working days after the date on which the decision was sent to them; and
 - (b) the parties shall have an opportunity to be heard.
 
 (6) If, on the application of a party or on its own initiative, the Care Tribunal is satisfied as to any of the grounds referred to in paragraph (1) –
@@ -566,7 +566,7 @@ be excluded from all or part of the hearing.
 
 (7) The power to give directions under paragraph (6) includes a power to give a direction requiring a party to provide such particulars, evidence or statements as may reasonably be required for the determination of the review.
 
-### 27. Powers of Care Tribunal on review[^key-a26054db83a658f5012ff50c807e47b7]
+### 27. Powers of Care Tribunal on review[^c-a26054db83a658f5012ff50c807e47b7]
 
 (1) The Care Tribunal may, having reviewed all or part of a decision –
 
@@ -577,7 +577,7 @@ be excluded from all or part of the hearing.
 
 (3) Any decision of the Care Tribunal under this regulation may be taken by a majority and the decision shall record whether it was unanimous or taken by a majority.
 
-### 28. Publication[^key-a79c80a0ea98c09d0209918934c25fea]
+### 28. Publication[^c-a79c80a0ea98c09d0209918934c25fea]
 
 (1) The Chairman must make such arrangements as he considers appropriate for the publication of Care Tribunal decisions.
 
@@ -593,9 +593,9 @@ be excluded from all or part of the hearing.
 
 ## PART VII — SUPPLEMENTARY
 
-### 29. Method of sending documents[^key-517a148550519281d31e4f20ce938280]
+### 29. Method of sending documents[^c-517a148550519281d31e4f20ce938280]
 
-(1) Any document may be sent to the Secretary[^key-46009fc9f95aabdef036c00781a34e56] by post, by fax, electronically or through a document exchange, unless the Chairman directs otherwise.
+(1) Any document may be sent to the Secretary[^c-46009fc9f95aabdef036c00781a34e56] by post, by fax, electronically or through a document exchange, unless the Chairman directs otherwise.
 
 (2) Any notice or document which these regulations authorise or require the Care Tribunal to send to a party shall be sent –
 
@@ -612,7 +612,7 @@ be excluded from all or part of the hearing.
 - (c) if left at a document exchange in accordance with paragraph (2), on the second working day after it was left; and
 - (d) if served in accordance with a direction under paragraph (3), on the next working day after it was so served.
 
-### 30. Irregularities[^key-64eb415c274a59a847f4863b1b38e2e7]
+### 30. Irregularities[^c-64eb415c274a59a847f4863b1b38e2e7]
 
 (1) An irregularity resulting from failure to comply with any provision of these Regulations or any direction given in accordance with them before the Care Tribunal has reached its decision shall not of itself render the proceedings void.
 
@@ -622,32 +622,32 @@ be excluded from all or part of the hearing.
 
 (4) The Secretary shall as soon as practicable where a document is corrected in accordance with paragraph (3) send the parties a copy of any corrected document together with reasons for the decision to correct the document.
 
-### 31. Application on behalf of person under a disability[^key-0aa052f2e2fe3523c7ad2ef1aff27679]
+### 31. Application on behalf of person under a disability[^c-0aa052f2e2fe3523c7ad2ef1aff27679]
 
 (1) A person may, by writing to the Secretary, request authorisation by the Chairman to make any application to the Care Tribunal on behalf of any person who is prevented by mental or physical infirmity from acting on his own behalf.
 
 (2) A person acting in accordance with an authorisation under this regulation may on behalf of the other person take any step or do anything which that person is required or permitted to do under these Regulations, subject to any conditions which the Chairman may impose.
 
-### 32. Death of applicant[^key-92217b87ebbfc4681344b9b54cceaa5a]
+### 32. Death of applicant[^c-92217b87ebbfc4681344b9b54cceaa5a]
 
 If the applicant dies, before the case or application for leave is determined, the Chairman may –
 
 - (a) strike out the case or application for leave in so far as it relates to that individual without making a costs order;
 - (b) appoint such person as he thinks fit to proceed with the appeal in the place of the deceased applicant.
 
-### 33. Amendment of appeal, application for leave or response[^key-7f7d6bdd8f0de36aea00a6276d65e652]
+### 33. Amendment of appeal, application for leave or response[^c-7f7d6bdd8f0de36aea00a6276d65e652]
 
 (1) The applicant may amend the reasons he gives in support of the case or application for leave as the case may be, but only with the leave of the Chairman (or at the hearing, with the leave of the Care Tribunal).
 
 (2) The respondent may amend the reasons he gives for opposing the applicant’s case or application for leave, as the case may be, but only with the leave of the Chairman (or at the hearing, with the leave of the Care Tribunal).
 
-(3)[^key-9c0a15d8bb259f8c693fb8418e64d7ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9c0a15d8bb259f8c693fb8418e64d7ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the Chairman or Care Tribunal gives leave to either party to amend the reasons given in support of his case, he may do so on such terms as he thinks fit (including, subject to regulation 25, the making of a costs order).
 
-### 34. Withdrawal of proceedings or opposition to proceedings[^key-b180ac32a7df0952dc2b730c4b41feaf]
+### 34. Withdrawal of proceedings or opposition to proceedings[^c-b180ac32a7df0952dc2b730c4b41feaf]
 
-(1) If the applicant at any time notifies the Secretary[^key-62d2e188599ac0d9a6193cd81eb81e16] in writing, or states at a hearing, that he no longer wishes to pursue the proceedings, the Chairman (or at the hearing, the Care Tribunal) must dismiss the proceedings, and may, subject to regulation 25[^key-19e7286cd135423be2ce444651bb26dc]... make a costs order.
+(1) If the applicant at any time notifies the Secretary[^c-62d2e188599ac0d9a6193cd81eb81e16] in writing, or states at a hearing, that he no longer wishes to pursue the proceedings, the Chairman (or at the hearing, the Care Tribunal) must dismiss the proceedings, and may, subject to regulation 25[^c-19e7286cd135423be2ce444651bb26dc]... make a costs order.
 
 (2) If the respondent notifies the Care Tribunal in writing, or states at a hearing, that he does not oppose or no longer opposes the proceedings, the Chairman (or at the hearing, the Care Tribunal) –
 
@@ -655,9 +655,9 @@ If the applicant dies, before the case or application for leave is determined, t
 - (b) subject to regulation 25 may make a costs order; and
 - (c) must consider making one.
 
-(3)[^key-bacd093191e995ffe7ee3e62f6853e3c] Where the Chairman dismisses the proceedings under paragraph (1) or determines the case, or the application for leave in the applicant’s favour under paragraph (2), the references to the Care Tribunal in regulation 25 shall be read as if they were references to “the Chairman”.
+(3)[^c-bacd093191e995ffe7ee3e62f6853e3c] Where the Chairman dismisses the proceedings under paragraph (1) or determines the case, or the application for leave in the applicant’s favour under paragraph (2), the references to the Care Tribunal in regulation 25 shall be read as if they were references to “the Chairman”.
 
-### 35. Proof of documents and certification of decisions[^key-a569056d643123461d6313ce82fc9a28]
+### 35. Proof of documents and certification of decisions[^c-a569056d643123461d6313ce82fc9a28]
 
 (1) A document purporting to be issued by the Secretary shall be taken to have been so issued, unless the contrary is proved.
 
@@ -668,7 +668,7 @@ If the applicant dies, before the case or application for leave is determined, t
 
 shall be sufficient evidence of the matters contained in it, unless the contrary is proved.
 
-### 36. Time[^key-717e18c37656955edf27c03930b4aa14]
+### 36. Time[^c-717e18c37656955edf27c03930b4aa14]
 
 (1) The Chairman may having consulted the parties in the case extend any time limit mentioned in these Regulations if in the circumstances –
 
@@ -683,7 +683,7 @@ shall be sufficient evidence of the matters contained in it, unless the contrary
 
 ## PART VIII — MISCELLANEOUS
 
-### 37. Revocation[^key-e5e23afbe9519879c5fa6c60d231b04b]
+### 37. Revocation[^c-e5e23afbe9519879c5fa6c60d231b04b]
 
 (1) The Social Care Tribunal Rules (Northern Ireland) 2003[^f00012] are hereby revoked.
 
@@ -704,11 +704,11 @@ A senior officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE 1 — APPEAL UNDER ARTICLE 22 OF THE HEALTH AND PERSONAL SOCIAL SERVICES (QUALITY, IMPROVEMENT AND REGULATION) (NORTHERN IRELAND) ORDER 2003 AGAINST A DECISION OF THE RQIA OR AN ORDER OF A JUSTICE OF THE PEACE[^key-162a00b22f1955239505a80a2da91c53]
+## SCHEDULE 1 — APPEAL UNDER ARTICLE 22 OF THE HEALTH AND PERSONAL SOCIAL SERVICES (QUALITY, IMPROVEMENT AND REGULATION) (NORTHERN IRELAND) ORDER 2003 AGAINST A DECISION OF THE RQIA OR AN ORDER OF A JUSTICE OF THE PEACE[^c-162a00b22f1955239505a80a2da91c53]
 
 Regulation 4(1)
 
-### 1. Initiating an appeal[^key-f6548409cbb4720d725a5c5fbb06da68]
+### 1. Initiating an appeal[^c-f6548409cbb4720d725a5c5fbb06da68]
 
 (1) A person who wishes to appeal to the Care Tribunal under Article 22 of the 2003 Order against a decision of the RQIA under Part III of the 2003 Order, or an order made by a Justice of the Peace under Article 21 of the Order, must do so by application in writing to the Care Tribunal.
 
@@ -729,7 +729,7 @@ Regulation 4(1)
 - (f) give a short statement of the grounds of appeal; and
 - (g) be signed and dated by the applicant.
 
-### 2. Acknowledgement and notification of application[^key-b9ea9caf739d07e2ad895f3190d19bc9]
+### 2. Acknowledgement and notification of application[^c-b9ea9caf739d07e2ad895f3190d19bc9]
 
 (1) On receiving an application, made within the period for bringing an appeal specified in Article 22 of the 2003 Order, the Secretary must –
 
@@ -742,7 +742,7 @@ Regulation 4(1)
 - (b) he must notify the applicant in writing that he has done so; and
 - (c) unless, within five working days of receipt of notification under head (b) the applicant notifies the Secretary in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 3. Response to application[^key-276706b8b6073dc4c128c1ff0ee55a13]
+### 3. Response to application[^c-276706b8b6073dc4c128c1ff0ee55a13]
 
 (1) The Secretary must send the information provided by the applicant under paragraph 1 to the respondent together with a request that it respond to the application within 20 working days of receiving it.
 
@@ -754,12 +754,12 @@ Regulation 4(1)
 - (b) indicate whether or not the respondent opposes it, and if it does, give the reasons why it opposes the application;
 - (c) provide the following information and documents –
   - (i) the name, address and profession of the person (if any) representing the respondent and whether the Secretary should send documents concerning the appeal to the representative rather than to the respondent; and
-  - (ii) in the case of an appeal under Article 22(1)(a) of the Order[^key-2f4827b638b38c190c7af5d3961d4546] , a copy of the written notice of the decision (which is the subject of the appeal) served under Article 20(3) of that Order, and the reasons for the decision; or
+  - (ii) in the case of an appeal under Article 22(1)(a) of the Order[^c-2f4827b638b38c190c7af5d3961d4546] , a copy of the written notice of the decision (which is the subject of the appeal) served under Article 20(3) of that Order, and the reasons for the decision; or
   - (iii) in the case of an appeal under Article 22(1)(b) of the Order, a copy of the order made by the Justice of the Peace.
 
 (4) The Secretary must without delay send to the applicant a copy of the response and the information and documents provided with it.
 
-### 4. Misconceived appeals etc.[^key-d3db8076492866ac73329e4a624bf225]
+### 4. Misconceived appeals etc.[^c-d3db8076492866ac73329e4a624bf225]
 
 (1) The Chairman may at any time strike out the appeal on the grounds that –
 
@@ -788,7 +788,7 @@ Regulation 4(1)
 
 (8) Where the determination is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 5. Further information to be sent by the applicant and respondent[^key-dc1725cc18058e20577c71135b82caad]
+### 5. Further information to be sent by the applicant and respondent[^c-dc1725cc18058e20577c71135b82caad]
 
 (1) As soon as the respondent has provided the information set out in paragraph 3, the Secretary must write to each party requesting that he send to the Secretary within 15 working days after the date on which he receives the Secretary ’s letter the following information –
 
@@ -801,7 +801,7 @@ Regulation 4(1)
 
 (2) Once the Secretary has received the information referred to in sub-paragraph (1) from both parties, he must without delay send a copy of the information supplied by the applicant to the respondent and that supplied by the respondent to the applicant.
 
-### 6. Changes to further information supplied to the Care Tribunal[^key-61df0bb5f85d040ef3cdbde26dbe06e1]
+### 6. Changes to further information supplied to the Care Tribunal[^c-61df0bb5f85d040ef3cdbde26dbe06e1]
 
 (1) Either party, within 5 working days of receiving the further information in respect of the other party from the Secretary, may ask the Secretary in writing to amend or add to any of the information given under paragraph 5(1).
 
@@ -811,7 +811,7 @@ Regulation 4(1)
 
 Regulation 4(2)
 
-### 1. Initiating an appeal[^key-903f065204b64cb0ea1b1ec155f81852]
+### 1. Initiating an appeal[^c-903f065204b64cb0ea1b1ec155f81852]
 
 (1) A person who wishes to appeal to the Care Tribunal under Article 78A or 94A of the 1995 Order against a decision of the RQIA must do so by application in writing to the Care Tribunal.
 
@@ -829,7 +829,7 @@ Regulation 4(2)
 - (f) give a short statement of the grounds of appeal; and
 - (g) be signed and dated by the applicant.
 
-### 2. Acknowledgement and notification of application[^key-0b6a88fe0c65acc42404918f1271b83c]
+### 2. Acknowledgement and notification of application[^c-0b6a88fe0c65acc42404918f1271b83c]
 
 (1) On receiving an application, the Secretary must –
 
@@ -847,7 +847,7 @@ Regulation 4(2)
 - (b) he must notify the applicant accordingly; and
 - (c) unless within five working days of receipt of notification under head (b) the applicant notifies the Secretary in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 3. Response to application[^key-b5ddc60edab5dbf51d3d9f4c7510895f]
+### 3. Response to application[^c-b5ddc60edab5dbf51d3d9f4c7510895f]
 
 (1) The Secretary must send the information provided by the applicant under paragraph 1 to the respondent together with a request that it respond to the application within 20 working days of receiving it.
 
@@ -863,7 +863,7 @@ Regulation 4(2)
 
 (4) The Secretary must without delay send to the applicant a copy of the response and the information and documents provided with it.
 
-### 4. Misconceived appeals etc.[^key-f86ba5766560b951dfbc26161df4bb00]
+### 4. Misconceived appeals etc.[^c-f86ba5766560b951dfbc26161df4bb00]
 
 (1) The Chairman may at any time strike out the appeal on the grounds that –
 
@@ -892,7 +892,7 @@ Regulation 4(2)
 
 (8) Where the determination is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 5. Further information to be sent by the applicant and respondent[^key-e7d2b975e7a7b5bc069fcdff91a20ac8]
+### 5. Further information to be sent by the applicant and respondent[^c-e7d2b975e7a7b5bc069fcdff91a20ac8]
 
 (1) As soon as the respondent has provided the information set out in paragraph 3 the Secretary must write to each party requesting that he send to the Secretary within 15 working days after the date on which he receives the Secretary ’s letter the following information –
 
@@ -905,7 +905,7 @@ Regulation 4(2)
 
 (2) Once the Secretary has received the information referred to in sub-paragraph (1) from both parties, he must without delay send a copy of the information supplied by the applicant to the respondent and that supplied by the respondent to the applicant.
 
-### 6. Changes to further information supplied to the Care Tribunal[^key-464763d8010f161d31048ebc39211c78]
+### 6. Changes to further information supplied to the Care Tribunal[^c-464763d8010f161d31048ebc39211c78]
 
 (1) Either party, within 5 working days of receiving the further information in respect of the other party from the Secretary, may ask the Secretary in writing to amend or add to any of the information given under paragraph 5(1).
 
@@ -915,7 +915,7 @@ Regulation 4(2)
 
 Regulation 4(3)
 
-### 1. Initiating an appeal[^key-c041fa8e77db190518d80301ea53039d]
+### 1. Initiating an appeal[^c-c041fa8e77db190518d80301ea53039d]
 
 (1) A person who wishes to appeal to the Care Tribunal –
 
@@ -938,7 +938,7 @@ must do so by application in writing to the Secretary.
 - (f) give, where these are available, the applicant’s telephone number, fax number and e-mail address and those of the applicant’s representative; and
 - (g) be signed and dated by the applicant.
 
-### 2. Applying for leave[^key-2b979382e8fcab7fa0abe7890d138a67]
+### 2. Applying for leave[^c-2b979382e8fcab7fa0abe7890d138a67]
 
 (1) An application for leave –
 
@@ -964,7 +964,7 @@ must be made in writing to the Secretary.
 - (i) give, where these are available, the applicant’s telephone number, fax number and e-mail address and those of the applicant’s representative; and
 - (j) be signed and dated by the applicant.
 
-### 3. Acknowledgement and notification of application[^key-7ec9e61478b544b5a89522edd469ff3a]
+### 3. Acknowledgement and notification of application[^c-7ec9e61478b544b5a89522edd469ff3a]
 
 (1) On receiving an application, the Secretary shall –
 
@@ -982,7 +982,7 @@ must be made in writing to the Secretary.
 - (b) he shall notify the applicant accordingly; and
 - (c) unless within five working days of receipt of notification under head (b) of this sub-paragraph the applicant notifies the Care Tribunal in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 4. Response to application[^key-e788b400215429090866df85092b52c3]
+### 4. Response to application[^c-e788b400215429090866df85092b52c3]
 
 (1) The Secretary must send information provided by the applicant under paragraph 1 or 2, as the case may be, to the respondent together with a request that he respond to the application within 20 working days of receiving it.
 
@@ -995,12 +995,12 @@ must be made in writing to the Secretary.
 - (c) provide the following information and documents –
   - (i) the name, address and profession of the person (if any) representing the respondent and whether the Care Tribunal should send documents concerning the application to the representative rather than to the respondent;
   - (ii) copies of any letters informing the applicant of the decision which is the subject of the appeal or application for leave, as the case may be;
-  - (iii) copies of any information submitted with a reference under Articles 4, 5, 6 and 9[^key-d1ca6e15056e95dc0b6810862125186a] of the 2003 Order or as a result of being named in a relevant inquiry under Article 7 of that Order and of any observations submitted on it by the applicant;
+  - (iii) copies of any information submitted with a reference under Articles 4, 5, 6 and 9[^c-d1ca6e15056e95dc0b6810862125186a] of the 2003 Order or as a result of being named in a relevant inquiry under Article 7 of that Order and of any observations submitted on it by the applicant;
   - (iv) copies of any evidence and expert evidence relied on by the respondent in making a decision under regulations made under Articles 70(2)(e) or 88A(2)(b) of the Education and Libraries (Northern Ireland) Order 1986
 
 (4) The Secretary must without delay send to the applicant a copy of the response and the information and documents provided with it (subject, in the case of any material provided in accordance with sub-paragraph (3)(c)(iv), to any direction of the Chairman under regulation 16).
 
-### 5. Misconceived appeals, applications etc.[^key-f9fe79768dc61a8b39ce2372d1c6db06]
+### 5. Misconceived appeals, applications etc.[^c-f9fe79768dc61a8b39ce2372d1c6db06]
 
 (1) The Chairman may at any time strike out the appeal or, as the case may be application for leave, on the grounds that –
 
@@ -1029,7 +1029,7 @@ must be made in writing to the Secretary.
 
 (8) Where the determination is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 6. Grant or refusal of leave[^key-62bafe08973c9e23a1f3c6724c0bce80]
+### 6. Grant or refusal of leave[^c-62bafe08973c9e23a1f3c6724c0bce80]
 
 (1) The Chairman shall grant or refuse leave in relation to an application under paragraph 2 without a hearing, as he sees fit.
 
@@ -1040,7 +1040,7 @@ must be made in writing to the Secretary.
 - (a) must notify them of his reasons for doing so; and
 - (b) must inform the applicant of his right to request a reconsideration of the decision under paragraph 7.
 
-### 7. Reconsideration of leave[^key-3a92405dff86a1b19e9e32d84c8f06c1]
+### 7. Reconsideration of leave[^c-3a92405dff86a1b19e9e32d84c8f06c1]
 
 (1) The Chairman must reconsider a decision to refuse leave if within ten working days after receipt of a notice under paragraph 6(3) the Care Tribunal receives a written request to do so from the applicant.
 
@@ -1053,7 +1053,7 @@ must be made in writing to the Secretary.
 - (a) he must give his reasons for doing so in writing; and
 - (b) the Secretary must without delay send to the parties a copy of the Chairman’s decision and if he has refused leave, of his reasons for doing so.
 
-### 8. Further information to be sent by the applicant and respondent[^key-6bf926ae4ff4fd40e67cf5a5727306cf]
+### 8. Further information to be sent by the applicant and respondent[^c-6bf926ae4ff4fd40e67cf5a5727306cf]
 
 (1) As soon as the respondent has provided the information set out in paragraph 4, or as soon as leave has been granted under paragraph 6 or 7, the Secretary must write to each party requesting that he send to the Care Tribunal, within 20 working days after the date on which he receives the Secretary’s letter, the following information –
 
@@ -1066,7 +1066,7 @@ must be made in writing to the Secretary.
 
 (2) Once the Secretary has received the information referred to in sub-paragraph (1) from both parties, he must without delay send a copy of the information supplied by the applicant to the respondent and that supplied by the respondent to the applicant.
 
-### 9. Changes to further information supplied to the Care Tribunal[^key-70d9e63c5ea6ca918d9db46f4ca20594]
+### 9. Changes to further information supplied to the Care Tribunal[^c-70d9e63c5ea6ca918d9db46f4ca20594]
 
 (1) Either party, within 5 working days of receiving the further information in respect of the other party from the Secretary, may ask the Secretary in writing to amend or add to any of the information given under paragraph 8(1).
 
@@ -1076,27 +1076,27 @@ must be made in writing to the Secretary.
 
 Regulation 4(4)
 
-### 1. Initiating an application[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 1. Initiating an application[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Acknowledgement and notification of application[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 2. Acknowledgement and notification of application[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Response to application[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 3. Response to application[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Misconceived applications etc.[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 4. Misconceived applications etc.[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Further information to be sent by the applicant and respondent[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 5. Further information to be sent by the applicant and respondent[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Changes to further information supplied to the Care Tribunal[^key-641580644dcc3cabc84d00c3bddc50ea]
+### 6. Changes to further information supplied to the Care Tribunal[^c-641580644dcc3cabc84d00c3bddc50ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1104,7 +1104,7 @@ Regulation 4(4)
 
 Regulation 4(5)
 
-### 1. Initiating an appeal[^key-0db72e7dec7c334ac0c5626169175133]
+### 1. Initiating an appeal[^c-0db72e7dec7c334ac0c5626169175133]
 
 (1) A person who wishes to appeal to the Care Tribunal under Article 42(1)(a) of the 2003 Order, against a decision to include him in the DWVA (NI) list must do so by application in writing to the Care Tribunal.
 
@@ -1121,7 +1121,7 @@ Regulation 4(5)
 - (e) give, where these are available, the applicant’s telephone number, fax number and e-mail address and those of the applicant’s representative; and
 - (f) be signed and dated by the applicant.
 
-### 2. Applying for leave to appeal[^key-49c88bdfd6ad000620d397c1a8939a95]
+### 2. Applying for leave to appeal[^c-49c88bdfd6ad000620d397c1a8939a95]
 
 (1) An application for leave –
 
@@ -1147,7 +1147,7 @@ must be made in writing to the Secretary.
 - (i) give, where these are available, the applicant’s telephone number, fax number and e-mail address and those of the applicant’s representative; and
 - (j) be signed and dated by the applicant.
 
-### 3. Acknowledgement and notification of application[^key-9cb1772720a70e53e3656d4f87648220]
+### 3. Acknowledgement and notification of application[^c-9cb1772720a70e53e3656d4f87648220]
 
 (1) On receiving an application, the Secretary to the Care Tribunal must –
 
@@ -1165,7 +1165,7 @@ must be made in writing to the Secretary.
 - (b) he shall notify the applicant accordingly; and
 - (c) unless within five working days of receipt of notification under head (b) the applicant notifies the Secretary in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 4. Response to application[^key-e08f85db7ec7d6660f22a47bc54dd302]
+### 4. Response to application[^c-e08f85db7ec7d6660f22a47bc54dd302]
 
 (1) The Secretary must send the information provided by the applicant under paragraph 1 or 2, as the case may be, to the respondent together with a request that he respond to the application within 20 working days of receiving it.
 
@@ -1182,7 +1182,7 @@ must be made in writing to the Secretary.
 
 (4) The Secretary must without delay send to the applicant a copy of the response and the information and documents provided with it.
 
-### 5. Misconceived applications for leave, appeals etc.[^key-01b4901004b6a6dbb6164eb3a6da15f4]
+### 5. Misconceived applications for leave, appeals etc.[^c-01b4901004b6a6dbb6164eb3a6da15f4]
 
 (1) The Chairman may at any time strike out the appeal or, as the case may be, application for leave, on the grounds that –
 
@@ -1211,7 +1211,7 @@ must be made in writing to the Secretary.
 
 (8) Where the determination is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 6. Grant or refusal of leave[^key-189ef4f2b1be6b5069a71e42a2d8ed1c]
+### 6. Grant or refusal of leave[^c-189ef4f2b1be6b5069a71e42a2d8ed1c]
 
 (1) The Chairman shall grant or refuse leave in relation to an application under paragraph 2 without a hearing, as he sees fit.
 
@@ -1222,7 +1222,7 @@ must be made in writing to the Secretary.
 - (a) must notify them of his reasons for doing so; and
 - (b) must inform the applicant of his right to request a reconsideration of the decision under paragraph 7.
 
-### 7. Reconsideration of leave[^key-98a9d25969502a39017a582e9906d9ab]
+### 7. Reconsideration of leave[^c-98a9d25969502a39017a582e9906d9ab]
 
 (1) The Chairman must reconsider a decision to refuse leave if within ten working days after receipt of a notice under paragraph 6(3) the Care Tribunal receives a written request to do so from the applicant.
 
@@ -1235,7 +1235,7 @@ must be made in writing to the Secretary.
 - (a) he must give his reasons for doing so in writing; and
 - (b) the Secretary must without delay send to the parties a copy of the Chairman’s decision and if he has refused leave his reasons for doing so.
 
-### 8. Further information to be sent by the applicant and respondent[^key-91d4e47e248ccc1af15d5c5133e23baf]
+### 8. Further information to be sent by the applicant and respondent[^c-91d4e47e248ccc1af15d5c5133e23baf]
 
 (1) As soon as the respondent has provided the information set out in paragraph 4, or as soon as leave has been granted under paragraph 6 or 7, the Secretary must write to each party requesting that he send to the Care Tribunal, within 20 working days after the date on which he receives the Secretary’s letter, the following information –
 
@@ -1248,7 +1248,7 @@ must be made in writing to the Secretary.
 
 (2) Once the Secretary has received the information referred to in sub-paragraph (1) from both parties, he must without delay send a copy of the information supplied by the applicant to the respondent and that supplied by the respondent to the applicant.
 
-### 9. Changes to further information supplied to the Care Tribunal[^key-a5dfb99aa5d009dd085d1e8a0a37bc3b]
+### 9. Changes to further information supplied to the Care Tribunal[^c-a5dfb99aa5d009dd085d1e8a0a37bc3b]
 
 (1) Either party, within 5 working days of receiving the further information in respect of the other party from the Secretary, may ask the Secretary in writing to amend or add to any of the information given under paragraph 8(1).
 
@@ -1258,9 +1258,9 @@ must be made in writing to the Secretary.
 
 Regulation 4(6)
 
-### 1. Initiating an appeal[^key-34c10c52490e1002077e803bde4cca9a]
+### 1. Initiating an appeal[^c-34c10c52490e1002077e803bde4cca9a]
 
-(1)[^key-3e77a6aea51725446e0f6f208b19c070] A person who wishes to appeal to the Care Tribunal under section 15 of the 2001 Act against a relevant decision of the Council under Part 1 of that Act in respect of registration must do so by application in writing to the Care Tribunal.
+(1)[^c-3e77a6aea51725446e0f6f208b19c070] A person who wishes to appeal to the Care Tribunal under section 15 of the 2001 Act against a relevant decision of the Council under Part 1 of that Act in respect of registration must do so by application in writing to the Care Tribunal.
 
 - “Relevant decision” means—
   - (a) a decision under Part 1 of the 2001 Act in respect of registration, and
@@ -1280,9 +1280,9 @@ Regulation 4(6)
   - (i) the refusal of registration of the applicant as a social worker or, as the case may be, a social care worker in the relevant part of the register;
   - (ii) the removal of the applicant from a part of the register;
   - (iii) the suspension, or the refusal to terminate the suspension, of the applicant from a part of the register;
-  - (iv) the grant of an application for registration subject to conditions; [^key-de6871e35544161fe2c33217bab59db1]...
+  - (iv) the grant of an application for registration subject to conditions; [^c-de6871e35544161fe2c33217bab59db1]...
   - (v) the removal, alteration or restoration of an entry relating to the applicant in a part of the register;
-  - (vi)[^key-3fbab55cdbc08fac17ee27311271599d] the making of the applicant’s registration in a part of the register subject to conditions (whether or not for a specified period);
+  - (vi)[^c-3fbab55cdbc08fac17ee27311271599d] the making of the applicant’s registration in a part of the register subject to conditions (whether or not for a specified period);
   - (vii) the variation or revocation of the conditions to which the applicant’s registration in a part of the register is subject;
   - (viii) the variation of the duration for which the applicant’s registration in a part of the register is subject to conditions;
   - (ix) a warning given to the applicant; or
@@ -1295,7 +1295,7 @@ Regulation 4(6)
 - (a) in relation to a social worker, the part of the register for social workers; and
 - (b) in relation to a social care worker of a specified description, the part of the register for a social care worker of that description.
 
-### 2. Acknowledgement and notification of application[^key-f3911872afe6edcdcedbbe4991fdd8b3]
+### 2. Acknowledgement and notification of application[^c-f3911872afe6edcdcedbbe4991fdd8b3]
 
 (1) On receiving an application, the Secretary must –
 
@@ -1308,7 +1308,7 @@ Regulation 4(6)
 - (b) he shall notify the applicant in writing accordingly; and
 - (c) unless within five working days of receipt of notification under head (b) the applicant notifies him in writing that he objects to the correction, the application shall be amended accordingly.
 
-### 3. Response to application[^key-9ffe56fb4f093dbc5bd3cad0f439b297]
+### 3. Response to application[^c-9ffe56fb4f093dbc5bd3cad0f439b297]
 
 (1) The Secretary must send the information provided by the applicant under paragraph 1 to the respondent together with a request that he respond to the application within 20 working days of receiving it.
 
@@ -1325,7 +1325,7 @@ Regulation 4(6)
 
 (4) The Secretary must without delay send to the applicant a copy of the response and the information and documents provided with it.
 
-### 4. Misconceived appeals etc.[^key-94c6e2431cb7d24b9eaa883b5469292c]
+### 4. Misconceived appeals etc.[^c-94c6e2431cb7d24b9eaa883b5469292c]
 
 (1) The Chairman may at any time strike out the appeal on the grounds that –
 
@@ -1354,7 +1354,7 @@ Regulation 4(6)
 
 (8) Where the determination is set aside, the Secretary shall alter the relevant entry in the records.
 
-### 5. Further information to be sent by the applicant and the respondent[^key-f88c86bb54b5a8c11d2346fc5526482f]
+### 5. Further information to be sent by the applicant and the respondent[^c-f88c86bb54b5a8c11d2346fc5526482f]
 
 (1) As soon as the respondent has provided the information set out in paragraph 3, the Secretary must write to each party requesting that he send to the Care Tribunal, within 15 working days after the date on which he receives the Secretary’s letter, the following information –
 
@@ -1367,13 +1367,13 @@ Regulation 4(6)
 
 (2) Once the Secretary has received the information referred to in sub-paragraph (1) from both parties, he must without delay send a copy of the information supplied by the applicant to the respondent and that supplied by the respondent to the applicant.
 
-### 6. Changes to further information supplied to the Care Tribunal[^key-3d47c7cd09f14dc7a7b5a3b4612fa02e]
+### 6. Changes to further information supplied to the Care Tribunal[^c-3d47c7cd09f14dc7a7b5a3b4612fa02e]
 
 (1) Either party, within 5 working days of receiving the further information in respect of the other party from the Secretary, may ask the Secretary in writing to amend or add to any of the information given under paragraph 5(1).
 
 (2) If the Secretary receives any further information under sub-paragraph (1) from either party he must, without delay, send a copy of it to the other party.
 
-## SCHEDULE 7 — APPLICATIONS FOR LEAVE TO APPEAL UNDER ARTICLE 8(4) OF THE SAFEGUARDING VULNERABLE GROUPS (NORTHERN IRELAND) ORDER 2007[^key-ba14422173a436253163de9e9432992a]
+## SCHEDULE 7 — APPLICATIONS FOR LEAVE TO APPEAL UNDER ARTICLE 8(4) OF THE SAFEGUARDING VULNERABLE GROUPS (NORTHERN IRELAND) ORDER 2007[^c-ba14422173a436253163de9e9432992a]
 
 Regulation 4(7)
 
@@ -1384,7 +1384,7 @@ Regulation 4(7)
 - (a) not to remove the applicant from the children’s barred list in a case to which Article 3(6) of the 2008 Order applies;
 - (b) not to remove the applicant from the adults’ barred list in a case to which Article 5(6) of the 2008 Order applies; or
 - (c) under Article 8(1)(b) of the 2007 Order, to include the applicant in the children’s barred list pursuant to Article 4(2) of the 2008 Order,
-- (d)[^key-80c1e11325796eb134e74aa665bdec43] not to remove the applicant from—
+- (d)[^c-80c1e11325796eb134e74aa665bdec43] not to remove the applicant from—
   - (i) the children’s barred list, in a case to which paragraph 2 of Schedule 1 to the 2007 Order applies; or
   - (ii) the adults’ barred list, in a case to which paragraph 8 of that Schedule applies;
 - (e) to include the applicant in—
@@ -1401,7 +1401,7 @@ must be made in writing to the Secretary and must be received by the Secretary n
 (3) An application under this paragraph must—
 
 - (a) give the applicant’s name, date of birth and full postal address;
-- (b)[^key-a1358e35bd6ef7928267e460ba1cd057] give sufficient information to make it clear whether the application falls within sub-paragraph (1)(a), (b), (c), (d)(i) or (ii), (e)(i) or (ii) or (f)(i) or (ii);
+- (b)[^c-a1358e35bd6ef7928267e460ba1cd057] give sufficient information to make it clear whether the application falls within sub-paragraph (1)(a), (b), (c), (d)(i) or (ii), (e)(i) or (ii) or (f)(i) or (ii);
 - (c) indicate the grounds upon which the applicant wishes to appeal;
 - (d) give details of any new evidence since the decision was made which might lead the Care Tribunal to a different decision;
 - (e) give the name, address and profession of the person (if any) representing the applicant;
@@ -1510,7 +1510,7 @@ Schedule 6 provides for appeals under Section 15 of the Health and Personal Soci
 
 [^f00001]: Footnote: [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-e6c631b03ec15b09c6ee853f7cbf077e]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e6c631b03ec15b09c6ee853f7cbf077e]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
 [^f00002]: Footnote: [2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417)
 
@@ -1518,21 +1518,21 @@ Schedule 6 provides for appeals under Section 15 of the Health and Personal Soci
 
 [^f00004]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-7def606c5daa921201c011e1093f4c11]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/a)
+[^c-7def606c5daa921201c011e1093f4c11]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/a)
 
 [^f00005]: Footnote: [2001 chapter 3](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-7594a3faf4e5c50a78aff7710ca6c73d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/b)
+[^c-7594a3faf4e5c50a78aff7710ca6c73d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/b)
 
-[^key-c816dde25fba475f55860bd2c51cdc8e]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/b) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/2/a)
+[^c-c816dde25fba475f55860bd2c51cdc8e]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/b) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/2/a)
 
-[^key-a1be1f2eb6e1f8a22cc6dd3cfc65d57b]: Textual amendment: [Reg. 1(2)(i)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/i) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/d)
+[^c-a1be1f2eb6e1f8a22cc6dd3cfc65d57b]: Textual amendment: [Reg. 1(2)(i)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/i) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/d)
 
-[^key-6bd571c0235f6bb2e81bbe44033f4e25]: Textual amendment: [Reg. 1(2)(j)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/j) added (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/2)
+[^c-6bd571c0235f6bb2e81bbe44033f4e25]: Textual amendment: [Reg. 1(2)(j)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/j) added (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/2)
 
-[^key-d66c0fc575d4c841978221ae00240ca0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/c)
+[^c-d66c0fc575d4c841978221ae00240ca0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/c)
 
-[^key-276a4b2338460775a5ca94becdfdbb22]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/e)
+[^c-276a4b2338460775a5ca94becdfdbb22]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/e)
 
 [^f00006]: Footnote: [1991 No. 194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
@@ -1540,226 +1540,226 @@ Schedule 6 provides for appeals under Section 15 of the Health and Personal Soci
 
 [^f00008]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55)
 
-[^key-a955ede326ca9eeddf6fb6129340c38a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/2/b)
+[^c-a955ede326ca9eeddf6fb6129340c38a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/2/b)
 
-[^key-19f6b97a351c7caabce0c0d4aba32b16]: Textual amendment: [Reg. 1(2)(g)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/g) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/f)
+[^c-19f6b97a351c7caabce0c0d4aba32b16]: Textual amendment: [Reg. 1(2)(g)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2/g) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(f)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/f)
 
-[^key-8b9e1d31b5f08a1e88bf076ab93b5114]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(g)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/g)
+[^c-8b9e1d31b5f08a1e88bf076ab93b5114]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(g)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/g)
 
-[^key-a7708ffa8ea283caf327778ddccc3007]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/h)
+[^c-a7708ffa8ea283caf327778ddccc3007]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/2/h)
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-0567c256c25cd5bdd8c6249f85798aba]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-0567c256c25cd5bdd8c6249f85798aba]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-cc1fcb7fac0766de07e08a2b08976e91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/2/1) omitted (29.9.2006) by virtue of [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/3/a)
+[^c-cc1fcb7fac0766de07e08a2b08976e91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/2/1) omitted (29.9.2006) by virtue of [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/3/a)
 
-[^key-d17527724009fc8ec665d932b3d23c91]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/2/2) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/3/b)
+[^c-d17527724009fc8ec665d932b3d23c91]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/2/2) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/3/b)
 
-[^key-a31e13708df3490039d99b07413df236]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-a31e13708df3490039d99b07413df236]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-8555d3b8090dd068fc4a8fc5b6110fe4]: Textual amendment: Word in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/2/a/i) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/4/a)
+[^c-8555d3b8090dd068fc4a8fc5b6110fe4]: Textual amendment: Word in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/2/a/i) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/4/a)
 
-[^key-7295a52bb136818014ac089408f2cb9b]: Textual amendment: Word in [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/2/a/ii) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/4/b)
+[^c-7295a52bb136818014ac089408f2cb9b]: Textual amendment: Word in [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/2/a/ii) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/4/b)
 
 [^f00010]: Footnote: [S.I. 1992/3204 (N.I. 20)](https://www.legislation.gov.uk/nisi/1992/3204) (revoked by [S.I. 2003 No. 43 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/43)
 
-[^key-ead29422c76c56e205cb8d3ece4e2c96]: Textual amendment: Word in [reg. 3(5)(f)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/5/f) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/5)
+[^c-ead29422c76c56e205cb8d3ece4e2c96]: Textual amendment: Word in [reg. 3(5)(f)](https://www.legislation.gov.uk/nisr/2005/178/regulation/3/5/f) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/5)
 
-[^key-10c3aa211775d71b4f149cba479ba6b5]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-10c3aa211775d71b4f149cba479ba6b5]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-4538abd8c6a4cdb645b5dd18248cd73d]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/4) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/6)
+[^c-4538abd8c6a4cdb645b5dd18248cd73d]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/4) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/6)
 
-[^key-a43e55c3ef07271d147590101abe4fb7]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/7) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/3)
+[^c-a43e55c3ef07271d147590101abe4fb7]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/7) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/3)
 
-[^key-631017472496b761054b93743b851e5b]: Textual amendment: [Reg. 4(7)(d)-(f)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/7/d) inserted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/3)
+[^c-631017472496b761054b93743b851e5b]: Textual amendment: [Reg. 4(7)(d)-(f)](https://www.legislation.gov.uk/nisr/2005/178/regulation/4/7/d) inserted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/3)
 
-[^key-48256aada0b842fd27f1a0146444a805]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-48256aada0b842fd27f1a0146444a805]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-9ac013c81a55cf55f2a1b6c15348320d]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-9ac013c81a55cf55f2a1b6c15348320d]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-26fcbbab4020a71f9c4d561696b52562]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/6/1) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/4)
+[^c-26fcbbab4020a71f9c4d561696b52562]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/6/1) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/4)
 
-[^key-a375999dde8445e2f53707184b51bd93]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/nisr/2005/178/regulation/6/5) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/7)
+[^c-a375999dde8445e2f53707184b51bd93]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/nisr/2005/178/regulation/6/5) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/7)
 
-[^key-c0ea13b4c785b4855384e9dd096ad0b1]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-c0ea13b4c785b4855384e9dd096ad0b1]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-5394de19cb61677e1b7dc07b36b226a8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/7/1) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/8)
+[^c-5394de19cb61677e1b7dc07b36b226a8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/7/1) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/8)
 
-[^key-53301b53a97797491e12f1e6dadd8061]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-53301b53a97797491e12f1e6dadd8061]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-487a39f73cb3418dc4275adad1c6d864]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-487a39f73cb3418dc4275adad1c6d864]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-5a9bd8b882f3d183fafe4acf97d935ba]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-5a9bd8b882f3d183fafe4acf97d935ba]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-d25f847b1e4b08ace6b5b48592dab2c6]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-d25f847b1e4b08ace6b5b48592dab2c6]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-869b08a266f83a9548f0d4921d8fe96b]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-869b08a266f83a9548f0d4921d8fe96b]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-db1e9a17c6d5de7c8bb8bcb085d28dd2]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-db1e9a17c6d5de7c8bb8bcb085d28dd2]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-fb8889bfe3479dc8caf99c85949cfc13]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/13/1/a) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/9/a)
+[^c-fb8889bfe3479dc8caf99c85949cfc13]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/13/1/a) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/9/a)
 
-[^key-62f914ebc49cd3c2883821baea6ebc84]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/13/2/a) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/9/b)
+[^c-62f914ebc49cd3c2883821baea6ebc84]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/13/2/a) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/9/b)
 
-[^key-950843285ef5bcc1ded114d6fc13c943]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-950843285ef5bcc1ded114d6fc13c943]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-cc032af4ee93d72a888f38eaac66bc37]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-cc032af4ee93d72a888f38eaac66bc37]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-fc3eb564d67e13bd892d423432d3f425]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-fc3eb564d67e13bd892d423432d3f425]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-9ca15d9e3d91a49be0237866b3dcdb1d]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-9ca15d9e3d91a49be0237866b3dcdb1d]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-e0dd134e1309961a1ef87ad2169154e7]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e0dd134e1309961a1ef87ad2169154e7]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-a550b622306349e6c42b6b6b2a934128]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2005/178/regulation/18) added (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/5)
+[^c-a550b622306349e6c42b6b6b2a934128]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2005/178/regulation/18) added (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/5)
 
-[^key-1505956699ee6f527dfe1c6183e7cc8c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2005/178/regulation/18) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/5)
+[^c-1505956699ee6f527dfe1c6183e7cc8c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/nisr/2005/178/regulation/18) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/5)
 
-[^key-e73a7633060286464773d85ea3311ddd]: Textual amendment: Word in [reg. 18(6)](https://www.legislation.gov.uk/nisr/2005/178/regulation/18/6) added (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/6)
+[^c-e73a7633060286464773d85ea3311ddd]: Textual amendment: Word in [reg. 18(6)](https://www.legislation.gov.uk/nisr/2005/178/regulation/18/6) added (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/6)
 
-[^key-dd657d627706b24069d568dfd4897dae]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-dd657d627706b24069d568dfd4897dae]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-71f59b483f7473b13efe4f4495119bfb]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-71f59b483f7473b13efe4f4495119bfb]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-684d087abcdd429843ae2efee73f566f]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-684d087abcdd429843ae2efee73f566f]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-7f32f3a6572218edff9696bd690cfc68]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-7f32f3a6572218edff9696bd690cfc68]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-592f9c56e04c7790081146ca23f465bd]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-592f9c56e04c7790081146ca23f465bd]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-60b491aaef6d907251c036c9c0760d3a]: Textual amendment: [Reg. 23(6)](https://www.legislation.gov.uk/nisr/2005/178/regulation/23/6) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/10)
+[^c-60b491aaef6d907251c036c9c0760d3a]: Textual amendment: [Reg. 23(6)](https://www.legislation.gov.uk/nisr/2005/178/regulation/23/6) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/10)
 
-[^key-b23b70526bc1dbda641455965394989f]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-b23b70526bc1dbda641455965394989f]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-3614303458a2e992c4eeb95a09f500e1]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-3614303458a2e992c4eeb95a09f500e1]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-c44b5879134ecebcb7e5cea23a25c80a]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-c44b5879134ecebcb7e5cea23a25c80a]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-25c413639cd1fe9bc71a56a8779c5eb9]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/26/5/a) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/7)
+[^c-25c413639cd1fe9bc71a56a8779c5eb9]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/nisr/2005/178/regulation/26/5/a) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/7)
 
-[^key-a26054db83a658f5012ff50c807e47b7]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-a26054db83a658f5012ff50c807e47b7]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-a79c80a0ea98c09d0209918934c25fea]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-a79c80a0ea98c09d0209918934c25fea]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-517a148550519281d31e4f20ce938280]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-517a148550519281d31e4f20ce938280]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-46009fc9f95aabdef036c00781a34e56]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/29/1)[(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/29/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/8)
+[^c-46009fc9f95aabdef036c00781a34e56]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/29/1)[(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/29/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/8)
 
-[^key-64eb415c274a59a847f4863b1b38e2e7]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-64eb415c274a59a847f4863b1b38e2e7]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-0aa052f2e2fe3523c7ad2ef1aff27679]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-0aa052f2e2fe3523c7ad2ef1aff27679]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-92217b87ebbfc4681344b9b54cceaa5a]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-92217b87ebbfc4681344b9b54cceaa5a]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-7f7d6bdd8f0de36aea00a6276d65e652]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-7f7d6bdd8f0de36aea00a6276d65e652]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-9c0a15d8bb259f8c693fb8418e64d7ee]: Textual amendment: [Reg. 33(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/33/3) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/11)
+[^c-9c0a15d8bb259f8c693fb8418e64d7ee]: Textual amendment: [Reg. 33(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/33/3) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/11)
 
-[^key-b180ac32a7df0952dc2b730c4b41feaf]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-b180ac32a7df0952dc2b730c4b41feaf]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-62d2e188599ac0d9a6193cd81eb81e16]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/1)[(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/9)
+[^c-62d2e188599ac0d9a6193cd81eb81e16]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/1)[(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/2) substituted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/9)
 
-[^key-19e7286cd135423be2ce444651bb26dc]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/1) deleted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/12/a)
+[^c-19e7286cd135423be2ce444651bb26dc]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/1) deleted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/12/a)
 
-[^key-bacd093191e995ffe7ee3e62f6853e3c]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/3) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/12/b)
+[^c-bacd093191e995ffe7ee3e62f6853e3c]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/34/3) added (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/12/b)
 
-[^key-a569056d643123461d6313ce82fc9a28]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-a569056d643123461d6313ce82fc9a28]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-717e18c37656955edf27c03930b4aa14]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-717e18c37656955edf27c03930b4aa14]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-e5e23afbe9519879c5fa6c60d231b04b]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e5e23afbe9519879c5fa6c60d231b04b]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
 [^f00012]: Footnote: [2003/138](https://www.legislation.gov.uk/nisr/2003/138)
 
-[^key-162a00b22f1955239505a80a2da91c53]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-162a00b22f1955239505a80a2da91c53]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
-[^key-f6548409cbb4720d725a5c5fbb06da68]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-f6548409cbb4720d725a5c5fbb06da68]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-b9ea9caf739d07e2ad895f3190d19bc9]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-b9ea9caf739d07e2ad895f3190d19bc9]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-276706b8b6073dc4c128c1ff0ee55a13]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-276706b8b6073dc4c128c1ff0ee55a13]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-2f4827b638b38c190c7af5d3961d4546]: Textual amendment: Words in [Sch. 1 para. 3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/178/schedule/1/paragraph/3/3/c/ii) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(13)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/13)
+[^c-2f4827b638b38c190c7af5d3961d4546]: Textual amendment: Words in [Sch. 1 para. 3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/178/schedule/1/paragraph/3/3/c/ii) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(13)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/13)
 
-[^key-d3db8076492866ac73329e4a624bf225]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-d3db8076492866ac73329e4a624bf225]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-dc1725cc18058e20577c71135b82caad]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-dc1725cc18058e20577c71135b82caad]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-61df0bb5f85d040ef3cdbde26dbe06e1]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-61df0bb5f85d040ef3cdbde26dbe06e1]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-903f065204b64cb0ea1b1ec155f81852]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-903f065204b64cb0ea1b1ec155f81852]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-0b6a88fe0c65acc42404918f1271b83c]: Commencement: Sch. 2 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-0b6a88fe0c65acc42404918f1271b83c]: Commencement: Sch. 2 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-b5ddc60edab5dbf51d3d9f4c7510895f]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-b5ddc60edab5dbf51d3d9f4c7510895f]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-f86ba5766560b951dfbc26161df4bb00]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-f86ba5766560b951dfbc26161df4bb00]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-e7d2b975e7a7b5bc069fcdff91a20ac8]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e7d2b975e7a7b5bc069fcdff91a20ac8]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-464763d8010f161d31048ebc39211c78]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-464763d8010f161d31048ebc39211c78]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-c041fa8e77db190518d80301ea53039d]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-c041fa8e77db190518d80301ea53039d]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-2b979382e8fcab7fa0abe7890d138a67]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-2b979382e8fcab7fa0abe7890d138a67]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-7ec9e61478b544b5a89522edd469ff3a]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-7ec9e61478b544b5a89522edd469ff3a]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-e788b400215429090866df85092b52c3]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e788b400215429090866df85092b52c3]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-d1ca6e15056e95dc0b6810862125186a]: Textual amendment: Words in [Sch. 3 para. 4(3)(c)(iii)](https://www.legislation.gov.uk/nisr/2005/178/schedule/3/paragraph/4/3/c/iii) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(14)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/14)
+[^c-d1ca6e15056e95dc0b6810862125186a]: Textual amendment: Words in [Sch. 3 para. 4(3)(c)(iii)](https://www.legislation.gov.uk/nisr/2005/178/schedule/3/paragraph/4/3/c/iii) substituted (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(14)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/14)
 
-[^key-f9fe79768dc61a8b39ce2372d1c6db06]: Commencement: Sch. 3 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-f9fe79768dc61a8b39ce2372d1c6db06]: Commencement: Sch. 3 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-62bafe08973c9e23a1f3c6724c0bce80]: Commencement: Sch. 3 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-62bafe08973c9e23a1f3c6724c0bce80]: Commencement: Sch. 3 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-3a92405dff86a1b19e9e32d84c8f06c1]: Commencement: Sch. 3 para. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-3a92405dff86a1b19e9e32d84c8f06c1]: Commencement: Sch. 3 para. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-6bf926ae4ff4fd40e67cf5a5727306cf]: Commencement: Sch. 3 para. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-6bf926ae4ff4fd40e67cf5a5727306cf]: Commencement: Sch. 3 para. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-70d9e63c5ea6ca918d9db46f4ca20594]: Commencement: Sch. 3 para. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-70d9e63c5ea6ca918d9db46f4ca20594]: Commencement: Sch. 3 para. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-641580644dcc3cabc84d00c3bddc50ea]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/178/schedule/4) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(15)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/15)
+[^c-641580644dcc3cabc84d00c3bddc50ea]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/178/schedule/4) repealed (29.9.2006) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/342)](https://www.legislation.gov.uk/nisr/2006/342), [regs. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1), [2(15)](https://www.legislation.gov.uk/nisr/2006/342/regulation/2/15)
 
-[^key-0db72e7dec7c334ac0c5626169175133]: Commencement: Sch. 5 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-0db72e7dec7c334ac0c5626169175133]: Commencement: Sch. 5 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-49c88bdfd6ad000620d397c1a8939a95]: Commencement: Sch. 5 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-49c88bdfd6ad000620d397c1a8939a95]: Commencement: Sch. 5 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-9cb1772720a70e53e3656d4f87648220]: Commencement: Sch. 5 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-9cb1772720a70e53e3656d4f87648220]: Commencement: Sch. 5 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-e08f85db7ec7d6660f22a47bc54dd302]: Commencement: Sch. 5 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-e08f85db7ec7d6660f22a47bc54dd302]: Commencement: Sch. 5 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-01b4901004b6a6dbb6164eb3a6da15f4]: Commencement: Sch. 5 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-01b4901004b6a6dbb6164eb3a6da15f4]: Commencement: Sch. 5 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-189ef4f2b1be6b5069a71e42a2d8ed1c]: Commencement: Sch. 5 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-189ef4f2b1be6b5069a71e42a2d8ed1c]: Commencement: Sch. 5 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-98a9d25969502a39017a582e9906d9ab]: Commencement: Sch. 5 para. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-98a9d25969502a39017a582e9906d9ab]: Commencement: Sch. 5 para. 7 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-91d4e47e248ccc1af15d5c5133e23baf]: Commencement: Sch. 5 para. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-91d4e47e248ccc1af15d5c5133e23baf]: Commencement: Sch. 5 para. 8 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-a5dfb99aa5d009dd085d1e8a0a37bc3b]: Commencement: Sch. 5 para. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-a5dfb99aa5d009dd085d1e8a0a37bc3b]: Commencement: Sch. 5 para. 9 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-34c10c52490e1002077e803bde4cca9a]: Commencement: Sch. 6 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-34c10c52490e1002077e803bde4cca9a]: Commencement: Sch. 6 para. 1 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-3e77a6aea51725446e0f6f208b19c070]: Textual amendment: [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/1) substituted (1.8.2016) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/2)
+[^c-3e77a6aea51725446e0f6f208b19c070]: Textual amendment: [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/1) substituted (1.8.2016) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/2)
 
-[^key-de6871e35544161fe2c33217bab59db1]: Textual amendment: Word in [Sch. 6 para. 1(4)(e)(iv)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/4/e/iv) omitted (1.8.2016) by virtue of [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/3)
+[^c-de6871e35544161fe2c33217bab59db1]: Textual amendment: Word in [Sch. 6 para. 1(4)(e)(iv)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/4/e/iv) omitted (1.8.2016) by virtue of [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/3)
 
-[^key-3fbab55cdbc08fac17ee27311271599d]: Textual amendment: [Sch. 6 para. 1(4)(e)(vi)-(x)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/4/e/vi) inserted (1.8.2016) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/4)
+[^c-3fbab55cdbc08fac17ee27311271599d]: Textual amendment: [Sch. 6 para. 1(4)(e)(vi)-(x)](https://www.legislation.gov.uk/nisr/2005/178/schedule/6/paragraph/1/4/e/vi) inserted (1.8.2016) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/274)](https://www.legislation.gov.uk/nisr/2016/274), [regs. 1](https://www.legislation.gov.uk/nisr/2016/274/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/274/regulation/2/4)
 
-[^key-f3911872afe6edcdcedbbe4991fdd8b3]: Commencement: Sch. 6 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-f3911872afe6edcdcedbbe4991fdd8b3]: Commencement: Sch. 6 para. 2 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-9ffe56fb4f093dbc5bd3cad0f439b297]: Commencement: Sch. 6 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-9ffe56fb4f093dbc5bd3cad0f439b297]: Commencement: Sch. 6 para. 3 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-94c6e2431cb7d24b9eaa883b5469292c]: Commencement: Sch. 6 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-94c6e2431cb7d24b9eaa883b5469292c]: Commencement: Sch. 6 para. 4 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-f88c86bb54b5a8c11d2346fc5526482f]: Commencement: Sch. 6 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-f88c86bb54b5a8c11d2346fc5526482f]: Commencement: Sch. 6 para. 5 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-3d47c7cd09f14dc7a7b5a3b4612fa02e]: Commencement: Sch. 6 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
+[^c-3d47c7cd09f14dc7a7b5a3b4612fa02e]: Commencement: Sch. 6 para. 6 in operation at 1.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1)
 
-[^key-ba14422173a436253163de9e9432992a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2005/178/schedule/7) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/10)
+[^c-ba14422173a436253163de9e9432992a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/nisr/2005/178/schedule/7) inserted (21.7.2008) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/249)](https://www.legislation.gov.uk/nisr/2008/249), [regs. 1](https://www.legislation.gov.uk/nisr/2008/249/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2008/249/regulation/2/10)
 
-[^key-80c1e11325796eb134e74aa665bdec43]: Textual amendment: [Sch. 7 para. 1(1)(d)-(f)](https://www.legislation.gov.uk/nisr/2005/178/schedule/7/paragraph/1/1/d) inserted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/4)
+[^c-80c1e11325796eb134e74aa665bdec43]: Textual amendment: [Sch. 7 para. 1(1)(d)-(f)](https://www.legislation.gov.uk/nisr/2005/178/schedule/7/paragraph/1/1/d) inserted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/4)
 
-[^key-a1358e35bd6ef7928267e460ba1cd057]: Textual amendment: [Sch. 7 para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2005/178/schedule/7/paragraph/1/3/b) substituted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/5)
+[^c-a1358e35bd6ef7928267e460ba1cd057]: Textual amendment: [Sch. 7 para. 1(3)(b)](https://www.legislation.gov.uk/nisr/2005/178/schedule/7/paragraph/1/3/b) substituted (13.3.2009) by [The Care Tribunal (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/42)](https://www.legislation.gov.uk/nisr/2009/42), [regs. 1](https://www.legislation.gov.uk/nisr/2009/42/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2009/42/regulation/2/5)

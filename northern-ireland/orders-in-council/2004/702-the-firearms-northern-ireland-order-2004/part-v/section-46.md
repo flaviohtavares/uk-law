@@ -34,7 +34,7 @@ summary: ''
 - (a) that person; or
 - (b) the person on whose behalf he has possession, or makes the purchase or acquisition,
 
-is recognised, for the purposes of the law of a member State[^key-cc783445023c7539f4af0599ecf43416] relating to firearms, as a collector of firearms or a body concerned in the cultural or historical aspects of weapons.
+is recognised, for the purposes of the law of a member State[^c-cc783445023c7539f4af0599ecf43416] relating to firearms, as a collector of firearms or a body concerned in the cultural or historical aspects of weapons.
 
 (5) The authority of the Secretary of State shall not be required by virtue of Article 45(2) for any person to have in his possession, or to purchase or acquire, any expanding ammunition or the missile for any such ammunition if—
 
@@ -60,4 +60,4 @@ is recognised, for the purposes of the law of a member State[^key-cc783445023c75
 
 ## Annotations
 
-[^key-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)
+[^c-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)

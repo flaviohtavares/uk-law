@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Contracting-out forbidden.[^key-92946b04f8234dcad0621406a38a77eb]
+## 173. Contracting-out forbidden.[^c-92946b04f8234dcad0621406a38a77eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Where a provision specifies the duty or liability of the debtor or hirer or his relative or any surety in certain circumstances, a term is inconsistent with that provision if it purports to impose, directly or indirectly, an additional duty or liability on him in those circumstances.
 
-(3) Notwithstanding subsection (1), a provision of this Act under which a thing may be done in relation to any person on an order of the court or the FCA[^key-5d21fdab7a3124129a8cd580750b85e9] only shall not be taken to prevent its being done at any time with that person’s consent given at that time, but the refusal of such consent shall not give rise to any liability.
+(3) Notwithstanding subsection (1), a provision of this Act under which a thing may be done in relation to any person on an order of the court or the FCA[^c-5d21fdab7a3124129a8cd580750b85e9] only shall not be taken to prevent its being done at any time with that person’s consent given at that time, but the refusal of such consent shall not give rise to any liability.
 
 ## Annotations
 
-[^key-92946b04f8234dcad0621406a38a77eb]: Modification: [S. 173](https://www.legislation.gov.uk/ukpga/1974/39/section/173) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-92946b04f8234dcad0621406a38a77eb]: Modification: [S. 173](https://www.legislation.gov.uk/ukpga/1974/39/section/173) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-5d21fdab7a3124129a8cd580750b85e9]: Textual amendment: Word in s. 173(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(53)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/53)
+[^c-5d21fdab7a3124129a8cd580750b85e9]: Textual amendment: Word in s. 173(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(53)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/53)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Access control to space sites: emergency services[^key-821398ee9ccd29e659347f6d47fdc0d3]
+## 175. Access control to space sites: emergency services[^c-821398ee9ccd29e659347f6d47fdc0d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-821398ee9ccd29e659347f6d47fdc0d3]: Commencement: Reg. 175 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-821398ee9ccd29e659347f6d47fdc0d3]: Commencement: Reg. 175 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

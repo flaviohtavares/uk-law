@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368NA. Fees[^key-bbc64cd6cd7ad7713377e5fa798d0d8a][^key-8b5116708328654f497f918c49a3b13d]
+## 368NA. Fees[^c-bbc64cd6cd7ad7713377e5fa798d0d8a][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the appropriate regulatory authority;
 - (b) (where they are not the appropriate regulatory authority) OFCOM.
 
-(2) The authority may require a provider of an on-demand programme service or a non-UK on-demand programme service that is a Tier 1 service[^key-d563a042c3ce2a410997b4d015b07c01] to pay them a fee.
+(2) The authority may require a provider of an on-demand programme service or a non-UK on-demand programme service that is a Tier 1 service[^c-d563a042c3ce2a410997b4d015b07c01] to pay them a fee.
 
 (3) The authority must be satisfied that the amount of any fee required under subsection (2)—
 
@@ -58,7 +58,7 @@ summary: ''
 - (b) before ceasing to provide that service, that person gave the appropriate regulatory authority a notification under section 368BA(2); and
 - (c) that person did not cease to provide the service following a direction given by the appropriate regulatory authority under section 368K or 368L.
 
-(8A)[^key-ed5a542e8ebc91ebac1f60ff3c5eeb25] The authority may also repay some or all of a fee paid to them by a person under subsection (2) if—
+(8A)[^c-ed5a542e8ebc91ebac1f60ff3c5eeb25] The authority may also repay some or all of a fee paid to them by a person under subsection (2) if—
 
 - (a) the person has ceased to provide a Tier 1 service at some time during the period to which the fee relates,
 - (b) the Tier 1 service in question was a non-UK on-demand programme service,
@@ -87,10 +87,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bbc64cd6cd7ad7713377e5fa798d0d8a]: Textual amendment: S. 368NA and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2010/419/regulation/9) (with [reg. 13](https://www.legislation.gov.uk/uksi/2010/419/regulation/13))
+[^c-bbc64cd6cd7ad7713377e5fa798d0d8a]: Textual amendment: S. 368NA and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2010/419/regulation/9) (with [reg. 13](https://www.legislation.gov.uk/uksi/2010/419/regulation/13))
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-d563a042c3ce2a410997b4d015b07c01]: Textual amendment: Words in [s. 368NA(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/2) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-d563a042c3ce2a410997b4d015b07c01]: Textual amendment: Words in [s. 368NA(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/2) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-ed5a542e8ebc91ebac1f60ff3c5eeb25]: Textual amendment: [S. 368NA(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/8A)[(8B)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/8B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-ed5a542e8ebc91ebac1f60ff3c5eeb25]: Textual amendment: [S. 368NA(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/8A)[(8B)](https://www.legislation.gov.uk/ukpga/2003/21/section/368NA/8B) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10/3); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)

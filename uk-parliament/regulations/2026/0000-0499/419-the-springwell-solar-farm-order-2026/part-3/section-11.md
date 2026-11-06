@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Status of public rights of way constructed or improved[^key-1b8576dce35f513ef437e51cdbb9de09]
+## 11. Status of public rights of way constructed or improved[^c-1b8576dce35f513ef437e51cdbb9de09]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ With effect from the date on which the highway authority has confirmed that the 
 
 ## Annotations
 
-[^key-1b8576dce35f513ef437e51cdbb9de09]: Commencement: Art. 11 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-1b8576dce35f513ef437e51cdbb9de09]: Commencement: Art. 11 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

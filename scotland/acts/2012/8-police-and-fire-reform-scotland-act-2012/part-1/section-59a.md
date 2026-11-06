@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59A. Scottish police advisory list and Scottish police barred list[^key-0f586e592d2a2ebb6c86ce3215ce3ee2]
+## 59A. Scottish police advisory list and Scottish police barred list[^c-0f586e592d2a2ebb6c86ce3215ce3ee2]
 
 *Extent: S*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f586e592d2a2ebb6c86ce3215ce3ee2]: Textual amendment: [Pt. 1 Ch. 9A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/9A) inserted (25.6.2025 for specified purposes) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/5/section/9/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
+[^c-0f586e592d2a2ebb6c86ce3215ce3ee2]: Textual amendment: [Pt. 1 Ch. 9A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/9A) inserted (25.6.2025 for specified purposes) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/5/section/9/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)

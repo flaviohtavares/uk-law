@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — Water and Sewerage Charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+## SCHEDULE 5 — Water and Sewerage Charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
 *Extent: S*
 
@@ -24,134 +24,134 @@ summary: ''
 
 Section 25.
 
-### Part 1 — Charges for Water Services[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Part 1 — Charges for Water Services[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**1.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Estimation and apportionment of expenditure[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Estimation and apportionment of expenditure[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**2.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Direct charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Direct charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**5.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Community water charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Community water charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**6.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Liability to pay community water charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Liability to pay community water charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**7.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Determination of community water charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Determination of community water charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**9.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Non-domestic water rate[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Non-domestic water rate[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**12.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Charges for Sewerage Services[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Part II — Charges for Sewerage Services[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**13.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Estimation and apportionment of expenditure[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Estimation and apportionment of expenditure[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**14.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Non-domestic sewerage rate[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Non-domestic sewerage rate[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**19.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19A.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19A.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Miscellaneous provisions[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Part III — Miscellaneous provisions[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-#### Accounts[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Accounts[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**23.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Tariff of charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+#### Tariff of charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**25.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part IV — Amendments to the Water (Scotland) Act 1980 (c.45)[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Part IV — Amendments to the Water (Scotland) Act 1980 (c.45)[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**27.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-478cbdd5c1010dfdd0f6f4ec80511334]: Textual amendment: Act repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118) and S.I. 1993/1780, [art. 2](https://www.legislation.gov.uk/ukpga/1992/14/article/2)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-478cbdd5c1010dfdd0f6f4ec80511334]: Textual amendment: Act repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118) and S.I. 1993/1780, [art. 2](https://www.legislation.gov.uk/ukpga/1992/14/article/2)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)

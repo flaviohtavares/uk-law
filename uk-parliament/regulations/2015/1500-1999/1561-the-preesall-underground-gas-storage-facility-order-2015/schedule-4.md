@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — STREETS AND RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^key-e719e9d2124fb34599f043b5631cf187]
+## SCHEDULE 4 — STREETS AND RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^c-e719e9d2124fb34599f043b5631cf187]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ Article 12
 
 ## Annotations
 
-[^key-e719e9d2124fb34599f043b5631cf187]: Commencement: Sch. 4 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-e719e9d2124fb34599f043b5631cf187]: Commencement: Sch. 4 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

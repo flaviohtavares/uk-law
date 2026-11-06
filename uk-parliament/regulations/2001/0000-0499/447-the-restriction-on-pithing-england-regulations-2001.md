@@ -35,7 +35,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Restriction on Pithing (England) Regulations 2001 (revoked)[^key-48ada90dab8920731240aa0c52da5bbc]
+The Restriction on Pithing (England) Regulations 2001 (revoked)[^c-48ada90dab8920731240aa0c52da5bbc]
 
 Made
 
@@ -55,48 +55,48 @@ Coming into force
 
 1st July 2001
 
-[^key-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-48ada90dab8920731240aa0c52da5bbc]
+## 1. Title, extent and commencement[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restriction on pithing[^key-48ada90dab8920731240aa0c52da5bbc]
+## 2. Restriction on pithing[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disposal of illegally pithed animals[^key-48ada90dab8920731240aa0c52da5bbc]
+## 3. Disposal of illegally pithed animals[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^key-48ada90dab8920731240aa0c52da5bbc]
+## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of inspectors[^key-48ada90dab8920731240aa0c52da5bbc]
+## 5. Powers of inspectors[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obstruction[^key-48ada90dab8920731240aa0c52da5bbc]
+## 6. Obstruction[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties[^key-48ada90dab8920731240aa0c52da5bbc]
+## 7. Penalties[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-48ada90dab8920731240aa0c52da5bbc]
+## 8. Enforcement[^c-48ada90dab8920731240aa0c52da5bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48ada90dab8920731240aa0c52da5bbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48ada90dab8920731240aa0c52da5bbc]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-48ada90dab8920731240aa0c52da5bbc]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

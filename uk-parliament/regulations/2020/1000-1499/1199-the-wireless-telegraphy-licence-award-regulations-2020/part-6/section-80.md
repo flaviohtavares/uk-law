@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Incomplete or defective assignment stage form[^key-27fa343dd4248bee68075aee5586bdcf]
+## 80. Incomplete or defective assignment stage form[^c-27fa343dd4248bee68075aee5586bdcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27fa343dd4248bee68075aee5586bdcf]: Commencement: Reg. 80 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-27fa343dd4248bee68075aee5586bdcf]: Commencement: Reg. 80 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

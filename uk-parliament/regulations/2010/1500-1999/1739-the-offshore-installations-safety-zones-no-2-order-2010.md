@@ -44,15 +44,15 @@ The Secretary of State makes this Order —
 - (a) in exercise of the powers conferred on him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”); and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A) of the Act.
 
-## 1. Citation and commencement[^key-d4aaf804a84ccb7678f28d162d0919b4]
+## 1. Citation and commencement[^c-d4aaf804a84ccb7678f28d162d0919b4]
 
 This Order may be cited as the Offshore Installations (Safety Zones) (No.2) Order 2010 and comes into force on 30<sup>th</sup> July 2010.
 
-## 2. Establishment of safety zone[^key-d60d5454003978632f45ce328cc03318]
+## 2. Establishment of safety zone[^c-d60d5454003978632f45ce328cc03318]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^key-e7bf0c43e79266e9d26897d7202a20f5]
+## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^c-e7bf0c43e79266e9d26897d7202a20f5]
 
 In the Offshore Installations (Safety Zones) Order 1997[^f00003] omit the installation Morecambe Well 110/2A-7 specified in column 1 of Schedule 1 and its co-ordinates of latitude and longitude specified in columns 2 and 3 of Schedule 1.
 
@@ -68,7 +68,7 @@ Department for Work and Pensions
 
 Article 2
 
-| *[^key-5ceee2d334dbc1631b833faafecfca2c]...* |  |  |
+| *[^c-5ceee2d334dbc1631b833faafecfca2c]...* |  |  |
 | --- | --- | --- |
 
 EXPLANATORY NOTE
@@ -83,12 +83,12 @@ EXPLANATORY NOTE
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and is amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-d4aaf804a84ccb7678f28d162d0919b4]: Commencement: Art. 1 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1739/article/1)
+[^c-d4aaf804a84ccb7678f28d162d0919b4]: Commencement: Art. 1 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1739/article/1)
 
-[^key-d60d5454003978632f45ce328cc03318]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1739/article/2) revoked (12.11.2010) by [The Offshore Installations (Safety Zones) (No.3) Order 2010 (S.I. 2010/2556)](https://www.legislation.gov.uk/uksi/2010/2556), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2556/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2556/article/3)
+[^c-d60d5454003978632f45ce328cc03318]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1739/article/2) revoked (12.11.2010) by [The Offshore Installations (Safety Zones) (No.3) Order 2010 (S.I. 2010/2556)](https://www.legislation.gov.uk/uksi/2010/2556), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2556/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2556/article/3)
 
-[^key-e7bf0c43e79266e9d26897d7202a20f5]: Commencement: Art. 3 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1739/article/1)
+[^c-e7bf0c43e79266e9d26897d7202a20f5]: Commencement: Art. 3 in force at 30.7.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1739/article/1)
 
 [^f00003]: Footnote: [S.I. 1997/735](https://www.legislation.gov.uk/uksi/1997/735).
 
-[^key-5ceee2d334dbc1631b833faafecfca2c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/1739/schedule) revoked (12.11.2010) by [The Offshore Installations (Safety Zones) (No.3) Order 2010 (S.I. 2010/2556)](https://www.legislation.gov.uk/uksi/2010/2556), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2556/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2556/article/3)
+[^c-5ceee2d334dbc1631b833faafecfca2c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/1739/schedule) revoked (12.11.2010) by [The Offshore Installations (Safety Zones) (No.3) Order 2010 (S.I. 2010/2556)](https://www.legislation.gov.uk/uksi/2010/2556), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2556/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2556/article/3)

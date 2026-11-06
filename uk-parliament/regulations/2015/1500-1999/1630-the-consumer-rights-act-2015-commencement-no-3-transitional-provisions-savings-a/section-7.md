@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Transitional provision in respect of premium rate services[^key-1feec12a11e3e032d801c1ef4f913c1a]
+## 7. Transitional provision in respect of premium rate services[^c-1feec12a11e3e032d801c1ef4f913c1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The amendments made by section 80 of the Act do not apply in respect of a contra
 
 ## Annotations
 
-[^key-1feec12a11e3e032d801c1ef4f913c1a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-1feec12a11e3e032d801c1ef4f913c1a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/1630/article/7) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
 
 [^f00009]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

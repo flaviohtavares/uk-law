@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Regulatory burdens[^key-3cd6793672f12e7be126722776b2dccf]
+## 104. Regulatory burdens[^c-3cd6793672f12e7be126722776b2dccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd6793672f12e7be126722776b2dccf]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2012/19/section/104) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2013/589/article/2/4/c)
+[^c-3cd6793672f12e7be126722776b2dccf]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2012/19/section/104) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2013/589/article/2/4/c)

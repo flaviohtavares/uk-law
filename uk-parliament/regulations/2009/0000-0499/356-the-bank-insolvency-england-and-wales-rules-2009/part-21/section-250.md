@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 250. Postponement or cancellation of dividend[^key-51052cdc1120fda92f3df98daf68db93]
+## 250. Postponement or cancellation of dividend[^c-51052cdc1120fda92f3df98daf68db93]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-51052cdc1120fda92f3df98daf68db93]: Commencement: Rule 250 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-51052cdc1120fda92f3df98daf68db93]: Commencement: Rule 250 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

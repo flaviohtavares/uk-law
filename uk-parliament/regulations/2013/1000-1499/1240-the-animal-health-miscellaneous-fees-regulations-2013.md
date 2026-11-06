@@ -64,7 +64,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) These Regulations come into force on 24th June 2013.
 
-## 2. Interpretation[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 2. Interpretation[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Refund of fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 3. Refund of fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -112,7 +112,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (6) For the Schedule substitute the Schedule (fees) set out in Schedule 1 to these Regulations.
 
-## 5. Salmonella national control programmes (zoonoses): fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 5. Salmonella national control programmes (zoonoses): fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Poultry health scheme: fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 6. Poultry health scheme: fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -144,17 +144,9 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) Omit regulation 42.
 
-(4)[^key-6b98037d8023282ced6943aa2dffc9c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6b98037d8023282ced6943aa2dffc9c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Porcine semen: fees[^key-6b98037d8023282ced6943aa2dffc9c7]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Bovine embryo (collection, production and transfer): fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 8. Porcine semen: fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -162,7 +154,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Checking consignments of live animals at border inspection posts: fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 9. Bovine embryo (collection, production and transfer): fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -170,7 +162,15 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-6b98037d8023282ced6943aa2dffc9c7]
+## 10. Checking consignments of live animals at border inspection posts: fees[^c-6b98037d8023282ced6943aa2dffc9c7]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Revocations[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -219,7 +219,7 @@ Regulation 4(6)
 > | Scientific institution certificate issued under Article 60 of the Commission Regulation | 146 | 195 |
 > | CITES registration | 221 | 221 |
 
-## SCHEDULE 2 — Salmonella national control programme (zoonoses): Fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 2 — Salmonella national control programme (zoonoses): Fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -229,7 +229,7 @@ Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Poultry health scheme: Fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 3 — Poultry health scheme: Fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -239,7 +239,7 @@ Regulation 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Bovine semen: Fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 4 — Bovine semen: Fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -249,7 +249,7 @@ Regulation 7(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Porcine semen: Fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 5 — Porcine semen: Fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -259,7 +259,7 @@ Regulation 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Bovine embryo (collection, production and transfer): fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 6 — Bovine embryo (collection, production and transfer): fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -269,7 +269,7 @@ Regulation 9
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Checking consignments of live animals from third countries at border inspection posts: fees[^key-6b98037d8023282ced6943aa2dffc9c7]
+## SCHEDULE 7 — Checking consignments of live animals from third countries at border inspection posts: fees[^c-6b98037d8023282ced6943aa2dffc9c7]
 
 *Extent: E+W*
 
@@ -319,7 +319,7 @@ Full impact assessments of the effect that this instrument will have in relation
 
 [^c21804291]: Marginal citation: OJ No. L 343, 22.12.2009, p.74 as last amended by Commission Implementing Decision 2011/879/EU (OJ No. L 343, 12.12.2011 p. 105).
 
-[^key-6b98037d8023282ced6943aa2dffc9c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1240) revoked (except regs. 1, 4, 7(1)-(3) and Sch. 1) (30.6.2018) by [The Animal Health (Miscellaneous Fees) (England) Regulations 2018 (S.I. 2018/664)](https://www.legislation.gov.uk/uksi/2018/664), regs. 1(3), [10](https://www.legislation.gov.uk/uksi/2018/664/regulation/10)
+[^c-6b98037d8023282ced6943aa2dffc9c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1240) revoked (except regs. 1, 4, 7(1)-(3) and Sch. 1) (30.6.2018) by [The Animal Health (Miscellaneous Fees) (England) Regulations 2018 (S.I. 2018/664)](https://www.legislation.gov.uk/uksi/2018/664), regs. 1(3), [10](https://www.legislation.gov.uk/uksi/2018/664/regulation/10)
 
 [^c21804311]: Marginal citation: [S.I. 2009/496](https://www.legislation.gov.uk/uksi/2009/496).
 

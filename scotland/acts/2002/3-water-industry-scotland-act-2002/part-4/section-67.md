@@ -26,11 +26,11 @@ summary: ''
 
 (3) Despite subsection (2), any provision made by or under this Act applies to persons in the public service of the Crown as it applies to other persons.
 
-(4)[^key-48583c4e8da1a21e2b8fc71ee8f29cff] The powers conferred by section 47 are only exercisable—
+(4)[^c-48583c4e8da1a21e2b8fc71ee8f29cff] The powers conferred by section 47 are only exercisable—
 
 - (a) in relation to land forming part of the Crown Estate, with the consent of the Crown Estate Commissioners, and
 - (b) in relation to land to which section 90B(5) of the Scotland Act 1998 applies, with the consent of the person having the management of the land concerned.
 
 ## Annotations
 
-[^key-48583c4e8da1a21e2b8fc71ee8f29cff]: Textual amendment: [S. 67(4)](https://www.legislation.gov.uk/asp/2002/3/section/67/4) substituted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/31)
+[^c-48583c4e8da1a21e2b8fc71ee8f29cff]: Textual amendment: [S. 67(4)](https://www.legislation.gov.uk/asp/2002/3/section/67/4) substituted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/31)

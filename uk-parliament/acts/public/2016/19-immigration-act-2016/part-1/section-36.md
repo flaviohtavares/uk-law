@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Licensing Act 2003: amendments relating to illegal working[^key-eb0aefe5aaa41f3ce1defc4e9bf5d8c8]
+## 36. Licensing Act 2003: amendments relating to illegal working[^c-eb0aefe5aaa41f3ce1defc4e9bf5d8c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0aefe5aaa41f3ce1defc4e9bf5d8c8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/19/section/36) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/a)
+[^c-eb0aefe5aaa41f3ce1defc4e9bf5d8c8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/19/section/36) in force at 6.4.2017 by [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/a)

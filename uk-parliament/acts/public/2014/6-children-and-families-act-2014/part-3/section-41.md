@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Independent special schools and special post-16 institutions: approval[^key-275da1ebfc78f6ffd7a801139c125d31][^key-a551487db05acabbda3dc420f9c655a7]
+## 41. Independent special schools and special post-16 institutions: approval[^c-275da1ebfc78f6ffd7a801139c125d31][^c-a551487db05acabbda3dc420f9c655a7]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-275da1ebfc78f6ffd7a801139c125d31]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/6/section/41) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/889/article/3/d)
+[^c-275da1ebfc78f6ffd7a801139c125d31]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/6/section/41) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/889/article/3/d)
 
-[^key-a551487db05acabbda3dc420f9c655a7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/6/section/41) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-a551487db05acabbda3dc420f9c655a7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/6/section/41) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

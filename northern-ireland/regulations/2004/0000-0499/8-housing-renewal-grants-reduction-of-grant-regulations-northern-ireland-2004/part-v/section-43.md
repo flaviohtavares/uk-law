@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Treatment of students[^key-1cb4f7f36f427bff67f14ce72bc71cbe]
+## 43. Treatment of students[^c-1cb4f7f36f427bff67f14ce72bc71cbe]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations shall have effect in relation to students subject to the follo
 
 ## Annotations
 
-[^key-1cb4f7f36f427bff67f14ce72bc71cbe]: Commencement: Reg. 43 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-1cb4f7f36f427bff67f14ce72bc71cbe]: Commencement: Reg. 43 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to remove body[^key-815a559b92f5f85657a3010689c8ca1e]
+## 15. Power to remove body[^c-815a559b92f5f85657a3010689c8ca1e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ This does not apply to a place within the coroner's area that is provided by a d
 
 ## Annotations
 
-[^key-815a559b92f5f85657a3010689c8ca1e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2009/25/section/15) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-815a559b92f5f85657a3010689c8ca1e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2009/25/section/15) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

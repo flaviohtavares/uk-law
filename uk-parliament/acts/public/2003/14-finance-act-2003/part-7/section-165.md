@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Extension of first-year allowances for ICT expenditure by small enterprises[^key-f1198c3d34410a9c4efe7e9ead052ee5]
+## 165. Extension of first-year allowances for ICT expenditure by small enterprises[^c-f1198c3d34410a9c4efe7e9ead052ee5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1198c3d34410a9c4efe7e9ead052ee5]: Textual amendment: [S. 165](https://www.legislation.gov.uk/ukpga/2003/14/section/165) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(6)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/6/b) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-f1198c3d34410a9c4efe7e9ead052ee5]: Textual amendment: [S. 165](https://www.legislation.gov.uk/ukpga/2003/14/section/165) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(6)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/6/b) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))

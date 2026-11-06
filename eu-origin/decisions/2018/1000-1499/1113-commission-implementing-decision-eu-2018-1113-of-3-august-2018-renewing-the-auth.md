@@ -40,41 +40,41 @@ renewing the authorisation for the placing on the market of food and feed produc
 
 (Text with EEA relevance) (revoked)
 
-[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Genetically modified organism and unique identifier[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Renewal of authorisation[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 1. Genetically modified organism and unique identifier[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 2. Renewal of authorisation[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Method for detection[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 3. Labelling[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Community register[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 4. Method for detection[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holders[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 5. Community register[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 6. Authorisation holders[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 7. Validity[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+## Article 8. Addressee[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,4 +82,4 @@ renewing the authorisation for the placing on the market of food and feed produc
 
 ## Annotations
 
-[^key-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 6 para. 58](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/58) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b3faf4ee0b72ef8ae2c7c1a2637e9ef5]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 6 para. 58](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/58) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

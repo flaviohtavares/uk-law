@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. For protection of Borough Councils[^key-3cdfed8acc2e5a2df8ced50dbfe0a1e6]
+## 75. For protection of Borough Councils[^c-3cdfed8acc2e5a2df8ced50dbfe0a1e6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cdfed8acc2e5a2df8ced50dbfe0a1e6]: Commencement: Art. 75 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-3cdfed8acc2e5a2df8ced50dbfe0a1e6]: Commencement: Art. 75 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

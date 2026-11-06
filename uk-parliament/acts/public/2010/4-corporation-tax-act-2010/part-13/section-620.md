@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 620. Court investment funds[^key-6247d35419460514b6dfc0deecc2d85d][^key-e25621e551cca895b145a808ff204756]
+## 620. Court investment funds[^c-6247d35419460514b6dfc0deecc2d85d][^c-e25621e551cca895b145a808ff204756]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,12 +41,12 @@ summary: ''
 - (a) the Accountant General of the Senior Courts of England and Wales, or
 - (b) the Accountant General of the Court of Judicature of Northern Ireland.
 
-(5)[^key-95f0deb6029a5c08e88d0be799193e11] In the application of this section to Northern Ireland, any reference to the Lord Chancellor is to be read as a reference to the Department of Justice in Northern Ireland.
+(5)[^c-95f0deb6029a5c08e88d0be799193e11] In the application of this section to Northern Ireland, any reference to the Lord Chancellor is to be read as a reference to the Department of Justice in Northern Ireland.
 
 ## Annotations
 
-[^key-6247d35419460514b6dfc0deecc2d85d]: Modification: S. 620 applied (with modifications) (S.) (1.4.2015) by [Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11)](https://www.legislation.gov.uk/asp/2013/11), [ss. 45(7)](https://www.legislation.gov.uk/asp/2013/11/section/45/7), [70(2)](https://www.legislation.gov.uk/asp/2013/11/section/70/2) (with [s. 69](https://www.legislation.gov.uk/asp/2013/11/section/69)); [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-6247d35419460514b6dfc0deecc2d85d]: Modification: S. 620 applied (with modifications) (S.) (1.4.2015) by [Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11)](https://www.legislation.gov.uk/asp/2013/11), [ss. 45(7)](https://www.legislation.gov.uk/asp/2013/11/section/45/7), [70(2)](https://www.legislation.gov.uk/asp/2013/11/section/70/2) (with [s. 69](https://www.legislation.gov.uk/asp/2013/11/section/69)); [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-e25621e551cca895b145a808ff204756]: Modification: S. 620 applied (with modifications) (E.W.) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 34(7)](https://www.legislation.gov.uk/anaw/2017/1/section/34/7), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e25621e551cca895b145a808ff204756]: Modification: S. 620 applied (with modifications) (E.W.) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 34(7)](https://www.legislation.gov.uk/anaw/2017/1/section/34/7), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-95f0deb6029a5c08e88d0be799193e11]: Textual amendment: S. 620(5) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [21](https://www.legislation.gov.uk/uksi/2012/2595/article/21) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-95f0deb6029a5c08e88d0be799193e11]: Textual amendment: S. 620(5) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [21](https://www.legislation.gov.uk/uksi/2012/2595/article/21) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

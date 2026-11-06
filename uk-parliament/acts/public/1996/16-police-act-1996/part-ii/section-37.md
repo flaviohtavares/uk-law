@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Setting of objectives for police authorities.[^key-9f8aaee439ff139109b6e13bf330f552]
+## 37. Setting of objectives for police authorities.[^c-9f8aaee439ff139109b6e13bf330f552]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f8aaee439ff139109b6e13bf330f552]: Textual amendment: S. 37 repealed (8.11.2006) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/24), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B)
+[^c-9f8aaee439ff139109b6e13bf330f552]: Textual amendment: S. 37 repealed (8.11.2006) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/24), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.[^key-5a13e2f66432b1ff8a9393c069cd18da]
+## 34.[^c-5a13e2f66432b1ff8a9393c069cd18da]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 
 (3) After subsection (2A) insert—
 
-> (2B) For the purposes of subsection (2A)(c), the reference to Article 41(3)(a) is to be read as if the reference in that provision to Article 41 were a reference to Article 41 as implemented in Great Britain immediately before IP completion day[^key-90553b02108915a86b49225c5ad34a9e].
+> (2B) For the purposes of subsection (2A)(c), the reference to Article 41(3)(a) is to be read as if the reference in that provision to Article 41 were a reference to Article 41 as implemented in Great Britain immediately before IP completion day[^c-90553b02108915a86b49225c5ad34a9e].
 
 .
 
 ## Annotations
 
-[^key-5a13e2f66432b1ff8a9393c069cd18da]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5a13e2f66432b1ff8a9393c069cd18da]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-90553b02108915a86b49225c5ad34a9e]: Textual amendment: Words in reg. 34(3) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/13)
+[^c-90553b02108915a86b49225c5ad34a9e]: Textual amendment: Words in reg. 34(3) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/13)

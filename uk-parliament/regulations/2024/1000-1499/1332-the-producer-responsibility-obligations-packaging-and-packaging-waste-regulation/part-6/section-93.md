@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Requirements for accreditation[^key-4ed213e319292003b901f809e7b89847]
+## 93. Requirements for accreditation[^c-4ed213e319292003b901f809e7b89847]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed213e319292003b901f809e7b89847]: Commencement: Reg. 93 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4ed213e319292003b901f809e7b89847]: Commencement: Reg. 93 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42.[^key-e910706206fd818d169a21a4168d804c]
+## 42.[^c-e910706206fd818d169a21a4168d804c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e910706206fd818d169a21a4168d804c]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e910706206fd818d169a21a4168d804c]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883031]: Marginal citation: Section 42 was amended by paragraphs 59 and 82 of Schedule 5, and paragraphs 15 and 21 of Schedule 15, to the Enterprise and Regulatory Reform Act 2013, [S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).

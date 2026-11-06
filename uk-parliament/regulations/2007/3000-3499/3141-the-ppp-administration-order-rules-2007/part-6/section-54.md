@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Inspection of records[^key-563dd71f31451e741683966426849529]
+## 54. Inspection of records[^c-563dd71f31451e741683966426849529]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-563dd71f31451e741683966426849529]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2007/3141/rule/54) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-563dd71f31451e741683966426849529]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2007/3141/rule/54) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

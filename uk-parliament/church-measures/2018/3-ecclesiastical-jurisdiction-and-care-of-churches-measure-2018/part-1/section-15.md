@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15. Proceedings[^key-c557b9355da4c3274873d6ee72bfdf36]
+## 15. Proceedings[^c-c557b9355da4c3274873d6ee72bfdf36]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c557b9355da4c3274873d6ee72bfdf36]: Commencement: S. 15 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c557b9355da4c3274873d6ee72bfdf36]: Commencement: S. 15 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

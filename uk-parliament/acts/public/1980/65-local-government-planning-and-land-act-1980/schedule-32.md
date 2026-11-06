@@ -26,10 +26,10 @@ Section 179.
 
 #### Invitation to prepare scheme
 
-**1.** (1) The bodies which may be invited to prepare a scheme under this Schedule are, in relation to England [^key-f02a10d3ad5f03d8e1f596d08bcf8515]...:—
+**1.** (1) The bodies which may be invited to prepare a scheme under this Schedule are, in relation to England [^c-f02a10d3ad5f03d8e1f596d08bcf8515]...:—
 
 - (a) a district council;
-- (aa)[^key-4581e52ff06b20472ce577a2ce49186b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-4581e52ff06b20472ce577a2ce49186b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a London borough council;
 - (c) a new town corporation;
 - (d) an urban development corporation.
@@ -40,7 +40,7 @@ Section 179.
 - (b) a new town corporation;
 - (c) an urban development corporation.
 
-(3) The Secretary of State may invite any of the bodies to prepare a scheme relating to the development of an area falling within the district [^key-7b819bd7503b155fa91990e45132633c]..., borough, district or general planning authority area, new town area or urban development area (as the case may be) and send the scheme to him in accordance with this Schedule.
+(3) The Secretary of State may invite any of the bodies to prepare a scheme relating to the development of an area falling within the district [^c-7b819bd7503b155fa91990e45132633c]..., borough, district or general planning authority area, new town area or urban development area (as the case may be) and send the scheme to him in accordance with this Schedule.
 
 (4) The invitation shall be made with a view to the designation as an enterprise zone of the area for which the scheme may be prepared.
 
@@ -65,7 +65,7 @@ Section 179.
 - (a) that—
   - (i) if the area for which the scheme is to be prepared is within Greater London, adequate publicity is given to its provisions in Greater London;
   - (ii) if the area for which the scheme is to be prepared is in England [^c13886281]... but outside Greater London, adequate publicity is given to its provisions in the county in which the area is situated;
-  - (iia)[^key-457e76b55b280560f1e4c997d2a95023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+  - (iia)[^c-457e76b55b280560f1e4c997d2a95023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
   - (iii) if the area for which the scheme is to be prepared is in Scotland, adequate publicity is given to its provisions in the region in which the area is situated; and
 - (b) that adequate publicity is also given to the provisions of the scheme in any area specified under paragraph 1(6) above;
 - (c) that persons who may be expected to want to make representations to the body with respect to the provisions are made aware that they are entitled to do so; and
@@ -172,7 +172,7 @@ whichever is the later.
 
 **7.** (1) Any person duly authorised in writing by a body which has been invited to prepare a scheme under this Schedule may at any reasonable time enter any land in the area to which the scheme relates (or could relate) for the purpose of surveying the land in connection with the preparation or adoption of a scheme under this Schedule.
 
-(2) In relation to England [^key-383d2aedfe1def516bee9598257adc7a]..., subsection (8) of section 324 and section 325 of the 1990 Act[^c13886391] (giving of notice, compensation for damage, etc.) shall apply in relation to sub-paragraph (1) above as they apply in relation to section 324.
+(2) In relation to England [^c-383d2aedfe1def516bee9598257adc7a]..., subsection (8) of section 324 and section 325 of the 1990 Act[^c13886391] (giving of notice, compensation for damage, etc.) shall apply in relation to sub-paragraph (1) above as they apply in relation to section 324.
 
 (3) In relation to Scotland, subsection (6) of section 269 and section 270of the 1997 Act[^c13886411] (giving of notice, compensation for damage, etc.) shall apply in relation to sub-paragraph (1) above as they apply in relation to section 269.
 
@@ -357,11 +357,11 @@ Provided that where the lands and heritages are situated only partially within a
 
 ## Annotations
 
-[^key-f02a10d3ad5f03d8e1f596d08bcf8515]: Textual amendment: Words in [Sch. 32 para. 1(1)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/a/i)
+[^c-f02a10d3ad5f03d8e1f596d08bcf8515]: Textual amendment: Words in [Sch. 32 para. 1(1)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(a)(i)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/a/i)
 
-[^key-4581e52ff06b20472ce577a2ce49186b]: Textual amendment: [Sch. 32 para. 1(1)(aa)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/1/aa) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/a/ii)
+[^c-4581e52ff06b20472ce577a2ce49186b]: Textual amendment: [Sch. 32 para. 1(1)(aa)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/1/aa) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(a)(ii)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/a/ii)
 
-[^key-7b819bd7503b155fa91990e45132633c]: Textual amendment: Words in [Sch. 32 para. 1(3)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/b)
+[^c-7b819bd7503b155fa91990e45132633c]: Textual amendment: Words in [Sch. 32 para. 1(3)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/1/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/2/b)
 
 [^c13886261]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64) (**123:3**).
 
@@ -371,7 +371,7 @@ Provided that where the lands and heritages are situated only partially within a
 
 [^c13886281]: Textual amendment: Words in [Sch. 32 para. 2(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/2/2/a/ii) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 59(9)(c)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/59/9/c), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-457e76b55b280560f1e4c997d2a95023]: Textual amendment: [Sch. 32 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/2/2/a)[(iia)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/2/2/iia) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/3)
+[^c-457e76b55b280560f1e4c997d2a95023]: Textual amendment: [Sch. 32 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/2/2/a)[(iia)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/2/2/iia) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/3)
 
 [^c13886331]: Modification: [Sch. 32 para. 5](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/5) amended (E.W.) by the [Town and Country Planning Act 1990 (c. 8, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/8), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1990/8/section/6/1)
 
@@ -383,7 +383,7 @@ Provided that where the lands and heritages are situated only partially within a
 
 [^c13886361]: Textual amendment: [Sch. 32 para. 5(8)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/5/8) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-383d2aedfe1def516bee9598257adc7a]: Textual amendment: Words in [Sch. 32 para. 7(2)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/7/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/4)
+[^c-383d2aedfe1def516bee9598257adc7a]: Textual amendment: Words in [Sch. 32 para. 7(2)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/32/paragraph/7/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/4/4)
 
 [^c13886391]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 44(14)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/14/a)
 

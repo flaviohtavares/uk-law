@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Leases and changes to accounting standards[^key-98d450434a39e2ec289b9ff681489136]
+## 53. Leases and changes to accounting standards[^c-98d450434a39e2ec289b9ff681489136]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98d450434a39e2ec289b9ff681489136]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/2011/11/section/53) omitted (with effect in accordance with Sch. 14 para. 11(2)(3) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 11(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/11/1) (with [Sch. 14 paras. 12-17](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/12))
+[^c-98d450434a39e2ec289b9ff681489136]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/2011/11/section/53) omitted (with effect in accordance with Sch. 14 para. 11(2)(3) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 11(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/11/1) (with [Sch. 14 paras. 12-17](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/12))

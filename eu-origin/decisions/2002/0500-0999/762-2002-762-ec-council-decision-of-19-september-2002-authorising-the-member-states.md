@@ -31,10 +31,10 @@ summary: ''
 
 of 19 September 2002 authorising the Member States, in the interest of the Community, to sign, ratify or accede to the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 (the Bunkers Convention) (revoked)
 
-[^key-de4ac1a7fa8b0eac320683014e263773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de4ac1a7fa8b0eac320683014e263773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-de4ac1a7fa8b0eac320683014e263773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-de4ac1a7fa8b0eac320683014e263773] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de4ac1a7fa8b0eac320683014e263773]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/649/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de4ac1a7fa8b0eac320683014e263773]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/649/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

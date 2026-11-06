@@ -24,18 +24,18 @@ summary: ''
 
 - (a) a decision of the Department under Article 13, 14 or 19 (whether as originally made or as revised under Article 18);
 - (b) a decision of the Department not to make a maintenance calculation under Article 13 or not to supersede a decision under Article 19;
-- (c)[^key-3a43257111531bf134631cafd2524579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3a43257111531bf134631cafd2524579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the imposition (by virtue of Article 38A) of a requirement to make penalty payments, or their amount;
-- (e)[^key-07305ecac31adad24603f09887ebcb98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-07305ecac31adad24603f09887ebcb98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In paragraph (1), qualifying person means—
 
 - (a) in relation to sub-paragraphs (a) and (b), the person with care, or non-resident parent, with respect to whom the Department made the decision;
-- (b)[^key-4aa0c93790132405616a17d9f1b8bde8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4aa0c93790132405616a17d9f1b8bde8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in relation to sub-paragraph (d), the parent who has been required to make penalty payments; and
-- (d)[^key-3bd6779607451914d2abc626a501cdb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3bd6779607451914d2abc626a501cdb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-8e55fe2fd8b077f358ab6313214ab144] Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision mentioned in paragraph (1)(a) or (b) only if the Department has considered whether to revise the decision under Article 18.
+(2A)[^c-8e55fe2fd8b077f358ab6313214ab144] Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision mentioned in paragraph (1)(a) or (b) only if the Department has considered whether to revise the decision under Article 18.
 
 (2B) The regulations may in particular provide that that condition is met only where—
 
@@ -45,12 +45,12 @@ summary: ''
 
 (2C) Regulations may make provision that, where in accordance with regulations under paragraph (2A) there is no right of appeal against a decision, any purported appeal may be treated as an application for revision under Article 18.
 
-(3)[^key-3267e28810b481cdcef3719765a79247] A person with a right of appeal under this Article shall be given such notice as may be prescribed of—
+(3)[^c-3267e28810b481cdcef3719765a79247] A person with a right of appeal under this Article shall be given such notice as may be prescribed of—
 
 - (a) that right; and
 - (b) the relevant decision, or the imposition of the requirement.
 
-(3A)[^key-478c4915cfacfd2a1f4f14428a32141e] Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision only if the Department has considered whether to revise the decision under Article 18.
+(3A)[^c-478c4915cfacfd2a1f4f14428a32141e] Regulations may provide that, in such cases or circumstances as may be prescribed, there is a right of appeal against a decision only if the Department has considered whether to revise the decision under Article 18.
 
 (3B) The regulations may in particular provide that that condition is met only where—
 
@@ -60,21 +60,21 @@ summary: ''
 
 (3C) Regulations may make provision that, where in accordance with regulations under paragraph (3A) there is no right of appeal against a decision, any purported appeal may be treated as an application for revision under Article 18.
 
-(4)[^key-3267e28810b481cdcef3719765a79247] Regulations may make—
+(4)[^c-3267e28810b481cdcef3719765a79247] Regulations may make—
 
 - (a) provision as to the manner in which, and the time within which, appeals are to be brought; and
 - (b) such provision with respect to proceedings before appeal tribunals as the Department considers appropriate.
 
-(5)[^key-3267e28810b481cdcef3719765a79247] The regulations may in particular make any provision of a kind mentioned in Schedule 4 to the Social Security (Northern Ireland) Order 1998.
+(5)[^c-3267e28810b481cdcef3719765a79247] The regulations may in particular make any provision of a kind mentioned in Schedule 4 to the Social Security (Northern Ireland) Order 1998.
 
-(6)[^key-fc6b62500b8159276042b369013bfa28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fc6b62500b8159276042b369013bfa28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3d36c566be06b1e9913b40dfcd86d850] In deciding an appeal under this Article, an appeal tribunal—
+(7)[^c-3d36c566be06b1e9913b40dfcd86d850] In deciding an appeal under this Article, an appeal tribunal—
 
 - (a) need not consider any issue that is not raised by the appeal; and
 - (b) shall not take into account any circumstances not obtaining at the time when the Department made the decision or imposed the requirement.
 
-(8)[^key-3d36c566be06b1e9913b40dfcd86d850] If an appeal under this Article is allowed, the appeal tribunal may—
+(8)[^c-3d36c566be06b1e9913b40dfcd86d850] If an appeal under this Article is allowed, the appeal tribunal may—
 
 - (a) itself make such decision as it considers appropriate; or
 - (b) remit the case to the Department, together with such directions (if any) as it considers appropriate.
@@ -85,20 +85,20 @@ summary: ''
 
 [^c20958061]: Textual amendment: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-3a43257111531bf134631cafd2524579]: Textual amendment: [Art. 22(1)(c)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/1/c) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
+[^c-3a43257111531bf134631cafd2524579]: Textual amendment: [Art. 22(1)(c)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/1/c) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
 
-[^key-07305ecac31adad24603f09887ebcb98]: Textual amendment: [Art. 22(1)(e)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/1/e) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-07305ecac31adad24603f09887ebcb98]: Textual amendment: [Art. 22(1)(e)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/1/e) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
 
-[^key-4aa0c93790132405616a17d9f1b8bde8]: Textual amendment: [Art. 22(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2/b) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
+[^c-4aa0c93790132405616a17d9f1b8bde8]: Textual amendment: [Art. 22(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2/b) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
 
-[^key-3bd6779607451914d2abc626a501cdb8]: Textual amendment: [Art. 22(2)(d)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2/d) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
+[^c-3bd6779607451914d2abc626a501cdb8]: Textual amendment: [Art. 22(2)(d)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2/d) repealed (27.10.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/d/i) (with [art. 3](https://www.legislation.gov.uk/nisr/2008/399/article/3))
 
-[^key-8e55fe2fd8b077f358ab6313214ab144]: Textual amendment: [Art. 22(2A)-(2C)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/2) (with [art. 107(7)-(9)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/7)); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-8e55fe2fd8b077f358ab6313214ab144]: Textual amendment: [Art. 22(2A)-(2C)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/2A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/2) (with [art. 107(7)-(9)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/7)); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-3267e28810b481cdcef3719765a79247]: Modification: [Art. 22(3)-(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/3) applied (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(6)](https://www.legislation.gov.uk/nia/2008/10/section/3/6), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)
+[^c-3267e28810b481cdcef3719765a79247]: Modification: [Art. 22(3)-(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/3) applied (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(6)](https://www.legislation.gov.uk/nia/2008/10/section/3/6), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)
 
-[^key-478c4915cfacfd2a1f4f14428a32141e]: Textual amendment: [Art. 22(3A)-(3C)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/3A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/3) (with [art. 107(7)-(9)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/7)); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-478c4915cfacfd2a1f4f14428a32141e]: Textual amendment: [Art. 22(3A)-(3C)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/3A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/3) (with [art. 107(7)-(9)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/7)); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-fc6b62500b8159276042b369013bfa28]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/6) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
+[^c-fc6b62500b8159276042b369013bfa28]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/6) repealed (14.7.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2008/291/article/2/1/c)
 
-[^key-3d36c566be06b1e9913b40dfcd86d850]: Modification: [Art. 22(7)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/7)[(8)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/8) applied (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(6)](https://www.legislation.gov.uk/nia/2008/10/section/3/6), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)
+[^c-3d36c566be06b1e9913b40dfcd86d850]: Modification: [Art. 22(7)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/7)[(8)](https://www.legislation.gov.uk/nisi/1991/2628/article/22/8) applied (5.12.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 3(6)](https://www.legislation.gov.uk/nia/2008/10/section/3/6), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/489](https://www.legislation.gov.uk/nisr/2008/489), [art. 2](https://www.legislation.gov.uk/nisr/2008/489/article/2)

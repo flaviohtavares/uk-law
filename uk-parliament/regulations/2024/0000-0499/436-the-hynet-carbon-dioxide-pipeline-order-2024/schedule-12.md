@@ -22,7 +22,7 @@ summary: ''
 
 Article 47
 
-### 1. Primary objective[^key-50aa465456377303a3954f40fcb4ed5e]
+### 1. Primary objective[^c-50aa465456377303a3954f40fcb4ed5e]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the Arbitrator is appointed pursuant to article 47 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 47
 
 (3) The Arbitration will be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-7c29953dfa903f9bb3d43f27945b952b]
+### 2. Time periods[^c-7c29953dfa903f9bb3d43f27945b952b]
 
 (1) All time periods in these Arbitration Rules will be measured in business days and this will exclude weekends, bank and public holidays.
 
@@ -39,7 +39,7 @@ Article 47
 - (a) the date the Arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-745a7bcbd5999529f111d07c8d6bcee8]
+### 3. Timetable[^c-745a7bcbd5999529f111d07c8d6bcee8]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 47
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-0e848514b4d94bcb20969053abc0adc0]
+### 4. Procedure[^c-0e848514b4d94bcb20969053abc0adc0]
 
 (1) The Arbitrator must make an award on the substantive difference based solely on the written material submitted by the parties unless the Arbitrator decides that a hearing is necessary to explain or resolve any matters.
 
@@ -88,7 +88,7 @@ Article 47
 
 (10) The Arbitrator’s award must include reasons. The parties will accept that the extent to which reasons are given is to be proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-370d87871adde41425c6b94156d43d6c]
+### 5. Arbitrator’s powers[^c-370d87871adde41425c6b94156d43d6c]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996[^f00049], including the non-mandatory sections, save where modified by these Rules.
 
@@ -101,7 +101,7 @@ Article 47
 
 (4) On the date the award is made, the Arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the Arbitrator’s fees and expenses.
 
-### 6. Costs[^key-2eb5a1dacb4c6dc659826185f0f3a45a]
+### 6. Costs[^c-2eb5a1dacb4c6dc659826185f0f3a45a]
 
 (1) The costs of the Arbitration must include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -109,7 +109,7 @@ Article 47
 
 (3) The Arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as defined within the Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-172ee7a4cab2141cd0ca877cb8e34c54]
+### 7. Confidentiality[^c-172ee7a4cab2141cd0ca877cb8e34c54]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation will be confidential and will only be publicly disclosed where required by law or with the agreement of both parties.
 
@@ -119,18 +119,18 @@ Article 47
 
 ## Annotations
 
-[^key-50aa465456377303a3954f40fcb4ed5e]: Commencement: Sch. 12 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-50aa465456377303a3954f40fcb4ed5e]: Commencement: Sch. 12 para. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-7c29953dfa903f9bb3d43f27945b952b]: Commencement: Sch. 12 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-7c29953dfa903f9bb3d43f27945b952b]: Commencement: Sch. 12 para. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-745a7bcbd5999529f111d07c8d6bcee8]: Commencement: Sch. 12 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-745a7bcbd5999529f111d07c8d6bcee8]: Commencement: Sch. 12 para. 3 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-0e848514b4d94bcb20969053abc0adc0]: Commencement: Sch. 12 para. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-0e848514b4d94bcb20969053abc0adc0]: Commencement: Sch. 12 para. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-370d87871adde41425c6b94156d43d6c]: Commencement: Sch. 12 para. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-370d87871adde41425c6b94156d43d6c]: Commencement: Sch. 12 para. 5 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00049]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-2eb5a1dacb4c6dc659826185f0f3a45a]: Commencement: Sch. 12 para. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-2eb5a1dacb4c6dc659826185f0f3a45a]: Commencement: Sch. 12 para. 6 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-172ee7a4cab2141cd0ca877cb8e34c54]: Commencement: Sch. 12 para. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-172ee7a4cab2141cd0ca877cb8e34c54]: Commencement: Sch. 12 para. 7 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

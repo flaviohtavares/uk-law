@@ -31,10 +31,10 @@ Commission Regulation (EC) No 264/2000
 
 of 3 February 2000 on the implementation of Council Regulation (EC) No 2223/96 with respect to short-term public finance statistics (revoked)
 
-[^key-a67b774c1e0eab030561c429dd106715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a67b774c1e0eab030561c429dd106715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a67b774c1e0eab030561c429dd106715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a67b774c1e0eab030561c429dd106715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a67b774c1e0eab030561c429dd106715]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/26)
+[^c-a67b774c1e0eab030561c429dd106715]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/26)

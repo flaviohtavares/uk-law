@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Warrant for the arrest of persons released under section 315(4)(c) or 316(3)(a)(ii)[^key-75e6d5ed3b9ae1e23f6b0dbbc7c4b6f8][^key-582d3855e57a804391ea53dbc5a1f69a][^key-32e6e9b51307bb8ff7c6a5d30402fe3f]
+## 317. Warrant for the arrest of persons released under section 315(4)(c) or 316(3)(a)(ii)[^c-75e6d5ed3b9ae1e23f6b0dbbc7c4b6f8][^c-582d3855e57a804391ea53dbc5a1f69a][^c-32e6e9b51307bb8ff7c6a5d30402fe3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-75e6d5ed3b9ae1e23f6b0dbbc7c4b6f8]: Commencement: S. 317 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-75e6d5ed3b9ae1e23f6b0dbbc7c4b6f8]: Commencement: S. 317 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-582d3855e57a804391ea53dbc5a1f69a]: Modification: Ss. 314-317 applied (with modifications) by 1952 c. 67, s. 13 (as amended (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/18/2/a) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-582d3855e57a804391ea53dbc5a1f69a]: Modification: Ss. 314-317 applied (with modifications) by 1952 c. 67, s. 13 (as amended (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/18/2/a) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-32e6e9b51307bb8ff7c6a5d30402fe3f]: Commencement: S. 317 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-32e6e9b51307bb8ff7c6a5d30402fe3f]: Commencement: S. 317 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

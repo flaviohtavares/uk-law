@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Article 20 of the Export Control Order 2008[^key-04ed8b543ff6033811a11310d4d2f3e2]
+## 82. Article 20 of the Export Control Order 2008[^c-04ed8b543ff6033811a11310d4d2f3e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 20 of the Export Control Order 2008 (embargoed destinations) is not to b
 
 ## Annotations
 
-[^key-04ed8b543ff6033811a11310d4d2f3e2]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-04ed8b543ff6033811a11310d4d2f3e2]: Commencement: Reg. 82 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

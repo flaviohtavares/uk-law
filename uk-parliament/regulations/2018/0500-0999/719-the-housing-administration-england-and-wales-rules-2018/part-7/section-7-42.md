@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.42. Contents of notices to be gazetted under the Act or Rules[^key-901934387c1b9d96c5fe517d7476c6d1]
+## 7.42. Contents of notices to be gazetted under the Act or Rules[^c-901934387c1b9d96c5fe517d7476c6d1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-901934387c1b9d96c5fe517d7476c6d1]: Commencement: Rule 7.42 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-901934387c1b9d96c5fe517d7476c6d1]: Commencement: Rule 7.42 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-In this Act “**local planning authority**” means a local planning authority for an area in England and[^key-de9c6e112d6808568ff2a158a06ee4bd] shall be construed in accordance with Part I of the principal Act and Schedule 4 to this Act (which makes further provision as to the exercise of functions under this Act).
+In this Act “**local planning authority**” means a local planning authority for an area in England and[^c-de9c6e112d6808568ff2a158a06ee4bd] shall be construed in accordance with Part I of the principal Act and Schedule 4 to this Act (which makes further provision as to the exercise of functions under this Act).
 
 ## Annotations
 
-[^key-de9c6e112d6808568ff2a158a06ee4bd]: Textual amendment: Words in [s. 81](https://www.legislation.gov.uk/ukpga/1990/9/section/81) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 144](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/144) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-de9c6e112d6808568ff2a158a06ee4bd]: Textual amendment: Words in [s. 81](https://www.legislation.gov.uk/ukpga/1990/9/section/81) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 144](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/144) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

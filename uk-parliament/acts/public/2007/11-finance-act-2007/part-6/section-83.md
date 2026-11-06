@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Northern Ireland criminal investigations[^key-6c772139063f5aa065dad1509df9022a]
+## 83. Northern Ireland criminal investigations[^c-6c772139063f5aa065dad1509df9022a]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c772139063f5aa065dad1509df9022a]: Commencement: S. 83 in force at 8.11.2007 by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/b)
+[^c-6c772139063f5aa065dad1509df9022a]: Commencement: S. 83 in force at 8.11.2007 by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/b)

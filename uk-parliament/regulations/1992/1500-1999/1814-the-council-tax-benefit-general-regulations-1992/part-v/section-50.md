@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Disregard of changes occurring during summer vacation[^key-c034328960ebd3669bbad721537a8c8b]
+## 50. Disregard of changes occurring during summer vacation[^c-c034328960ebd3669bbad721537a8c8b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In calculating a student’s income the appropriate authority shall disregard an
 
 ## Annotations
 
-[^key-c034328960ebd3669bbad721537a8c8b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1992/1814/regulation/50) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-c034328960ebd3669bbad721537a8c8b]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1992/1814/regulation/50) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

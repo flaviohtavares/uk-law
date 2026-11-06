@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416B. FCA and PRA rules etc[^key-cd858b6b93a04bc1f33eb387e389a50d]
+## 416B. FCA and PRA rules etc[^c-cd858b6b93a04bc1f33eb387e389a50d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd858b6b93a04bc1f33eb387e389a50d]: Textual amendment: Ss. 416A, 416B and cross-heading inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/21/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)
+[^c-cd858b6b93a04bc1f33eb387e389a50d]: Textual amendment: Ss. 416A, 416B and cross-heading inserted (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/21/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)

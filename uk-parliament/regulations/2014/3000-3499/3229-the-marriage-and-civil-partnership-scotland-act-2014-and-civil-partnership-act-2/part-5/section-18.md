@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Consular change of civil partnership into marriage[^key-266a3db34da3aa9da56852349c95f119]
+## 18. Consular change of civil partnership into marriage[^c-266a3db34da3aa9da56852349c95f119]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-266a3db34da3aa9da56852349c95f119]: Commencement: Art. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-266a3db34da3aa9da56852349c95f119]: Commencement: Art. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

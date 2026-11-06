@@ -24,7 +24,7 @@ summary: ''
 
 - (a) daily by not later than 24.00 and before entering the port;
 - (b) at the time of any inspection at sea;
-- (c) at the time of events defined by a fisheries administration[^key-d9e645b7954096d52dfd128464a7465b].
+- (c) at the time of events defined by a fisheries administration[^c-d9e645b7954096d52dfd128464a7465b].
 
 2. A new line in the paper fishing logbook shall be filled in:
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e645b7954096d52dfd128464a7465b]: Textual amendment: Words in [Art. 33(1)(c)](https://www.legislation.gov.uk/eur/2011/404/article/33/1/c) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(30)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9e645b7954096d52dfd128464a7465b]: Textual amendment: Words in [Art. 33(1)(c)](https://www.legislation.gov.uk/eur/2011/404/article/33/1/c) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(30)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

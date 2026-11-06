@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007[^key-45e7200f1d030ba091aad0e510979ab6]
+## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007[^c-45e7200f1d030ba091aad0e510979ab6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45e7200f1d030ba091aad0e510979ab6]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), regs. 1(a), [38(o)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/o) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-45e7200f1d030ba091aad0e510979ab6]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), regs. 1(a), [38(o)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/o) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

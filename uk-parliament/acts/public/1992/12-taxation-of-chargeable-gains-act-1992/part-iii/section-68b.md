@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68B. Transfer between settlements: identification of settlor[^key-5403a8b7f0a178f4a62eb959e46906c3]
+## 68B. Transfer between settlements: identification of settlor[^c-5403a8b7f0a178f4a62eb959e46906c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and a reference to transferred property is a reference to property acquired by t
 
 ## Annotations
 
-[^key-5403a8b7f0a178f4a62eb959e46906c3]: Textual amendment: Ss. 68A, 68B inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/4)
+[^c-5403a8b7f0a178f4a62eb959e46906c3]: Textual amendment: Ss. 68A, 68B inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/4)

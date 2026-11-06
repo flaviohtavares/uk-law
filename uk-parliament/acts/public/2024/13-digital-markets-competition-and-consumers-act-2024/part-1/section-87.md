@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Penalties for failure to comply with investigative requirements[^key-d57ecb7613524401b5d1c916620ae016][^key-8e2a987083ed03301a30d983bbd06c37]
+## 87. Penalties for failure to comply with investigative requirements[^c-d57ecb7613524401b5d1c916620ae016][^c-8e2a987083ed03301a30d983bbd06c37]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d57ecb7613524401b5d1c916620ae016]: Commencement: S. 87 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d57ecb7613524401b5d1c916620ae016]: Commencement: S. 87 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8e2a987083ed03301a30d983bbd06c37]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2024/13/section/87) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-8e2a987083ed03301a30d983bbd06c37]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2024/13/section/87) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -30,7 +30,7 @@ Fishing Vessels (Grants) Act (Northern Ireland) 1967 [^c5446691]
 
 An Act to make provision for financial aid towards expenditure in relation to fishing vessels and for purposes connected therewith.
 
-\[23rd May 1967\][^key-eb70775c5c5817aca163269c04aa05db]
+\[23rd May 1967\][^c-eb70775c5c5817aca163269c04aa05db]
 
 ## 1. Grants in relation to fishing vessels.
 
@@ -73,7 +73,7 @@ for use for the purposes of that business as may be approved by the Ministry of 
 
 [^c5446691]: Textual amendment: Certain functions transf. by SR 1999/481
 
-[^key-eb70775c5c5817aca163269c04aa05db]: Modification: [Act](https://www.legislation.gov.uk/apni/1967/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-eb70775c5c5817aca163269c04aa05db]: Modification: [Act](https://www.legislation.gov.uk/apni/1967/8): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5446701]: Textual amendment: [1972 c.4 (NI)](https://www.legislation.gov.uk/apni/1972/4)
 

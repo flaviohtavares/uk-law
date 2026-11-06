@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Planning authorities' functions: charges and fees[^key-b6df8b33b5296c3a54d552b38edcaa6e]
+## 55. Planning authorities' functions: charges and fees[^c-b6df8b33b5296c3a54d552b38edcaa6e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ In section 252 of the Town and Country Planning (Scotland) Act 1997 (fees for pl
 
 ## Annotations
 
-[^key-b6df8b33b5296c3a54d552b38edcaa6e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/3/section/55) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b6df8b33b5296c3a54d552b38edcaa6e]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/3/section/55) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

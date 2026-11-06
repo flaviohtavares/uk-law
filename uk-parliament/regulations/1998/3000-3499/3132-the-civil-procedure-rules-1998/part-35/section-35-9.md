@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.9. Power of court to direct a party to provide information[^key-b1b9f6a1a0be6db4d58684a5d034ada9]
+## 35.9. Power of court to direct a party to provide information[^c-b1b9f6a1a0be6db4d58684a5d034ada9]
 
 *Extent: E+W*
 
-Where a party has access to information which is not reasonably available to another party[^key-f22b5fc09b61e73aa1f8bf341054e16b], the court may direct the party who has access to the information to—
+Where a party has access to information which is not reasonably available to another party[^c-f22b5fc09b61e73aa1f8bf341054e16b], the court may direct the party who has access to the information to—
 
 - (a) prepare and file a document recording the information; and
 - (b) serve a copy of that document on the other party.
 
 ## Annotations
 
-[^key-b1b9f6a1a0be6db4d58684a5d034ada9]: Commencement: [Rule 35.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-b1b9f6a1a0be6db4d58684a5d034ada9]: Commencement: [Rule 35.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-f22b5fc09b61e73aa1f8bf341054e16b]: Textual amendment: Words in [rule 35.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.9) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(p)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/p)
+[^c-f22b5fc09b61e73aa1f8bf341054e16b]: Textual amendment: Words in [rule 35.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.9) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(p)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/p)

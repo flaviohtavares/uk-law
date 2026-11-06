@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Appeal proceedings[^key-38d630350ef59632a86eaff69f0c59f3]
+## 61. Appeal proceedings[^c-38d630350ef59632a86eaff69f0c59f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38d630350ef59632a86eaff69f0c59f3]: Textual amendment: S. 61 substituted (23.5.2018 for specified purposes, 25.5.2018 in so far as not already in force) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/60) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/53)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-38d630350ef59632a86eaff69f0c59f3]: Textual amendment: S. 61 substituted (23.5.2018 for specified purposes, 25.5.2018 in so far as not already in force) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f), [Sch. 19 para. 60](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/60) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 53](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/53)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

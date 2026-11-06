@@ -25,18 +25,18 @@ summary: ''
 - (a) that there are or may be reasons for the Secretary of State to consider whether to designate the area as an MCZ, and
 - (b) that there is an urgent need to protect the feature.
 
-(1A)[^key-04e7985e5d9e194a7c10673dbcd152ed] The MMO may make one or more byelaws relating to the exploitation of sea fisheries resources in the English offshore region for the purpose of protecting any feature in an area in that region if the MMO thinks—
+(1A)[^c-04e7985e5d9e194a7c10673dbcd152ed] The MMO may make one or more byelaws relating to the exploitation of sea fisheries resources in the English offshore region for the purpose of protecting any feature in an area in that region if the MMO thinks—
 
 - (a) that there are or may be reasons for the Secretary of State to consider whether to designate the area as an MCZ, and
 - (b) that there is an urgent need to protect the feature.
 
-(2) In this Chapter “**interim byelaw**” means a byelaw made under subsection (1) or (1A)[^key-587f1041879c7c39cdde9e462ac3d0a2].
+(2) In this Chapter “**interim byelaw**” means a byelaw made under subsection (1) or (1A)[^c-587f1041879c7c39cdde9e462ac3d0a2].
 
 (3) An interim byelaw must contain a description of the boundaries of the area to which it applies (which must be no greater than is necessary for the purpose of protecting the feature in question).
 
-(4) Subsections (2) to (9) of section 129 apply to a byelaw made under subsection (1)[^key-5d1500c434a1ff7bbe34c4f50312c9a9] as they apply to a byelaw made under that section, except that any reference to an MCZ is to be read as a reference to the area to which the interim byelaw applies.
+(4) Subsections (2) to (9) of section 129 apply to a byelaw made under subsection (1)[^c-5d1500c434a1ff7bbe34c4f50312c9a9] as they apply to a byelaw made under that section, except that any reference to an MCZ is to be read as a reference to the area to which the interim byelaw applies.
 
-(4A)[^key-3514a3b0e3d4977393f0b48c83152aba] Section 129C applies to a byelaw made under subsection (1A) as it applies to a byelaw made under section 129A or 129B.
+(4A)[^c-3514a3b0e3d4977393f0b48c83152aba] Section 129C applies to a byelaw made under subsection (1A) as it applies to a byelaw made under section 129A or 129B.
 
 (5) An interim byelaw—
 
@@ -70,10 +70,10 @@ summary: ''
 
 [^c2007901]: Commencement: S. 132 partly in force; s. 132 in force for specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-04e7985e5d9e194a7c10673dbcd152ed]: Textual amendment: S. 132(1A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-04e7985e5d9e194a7c10673dbcd152ed]: Textual amendment: S. 132(1A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-587f1041879c7c39cdde9e462ac3d0a2]: Textual amendment: Words in s. 132(2) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-587f1041879c7c39cdde9e462ac3d0a2]: Textual amendment: Words in s. 132(2) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-5d1500c434a1ff7bbe34c4f50312c9a9]: Textual amendment: Words in s. 132(4) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5d1500c434a1ff7bbe34c4f50312c9a9]: Textual amendment: Words in s. 132(4) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-3514a3b0e3d4977393f0b48c83152aba]: Textual amendment: S. 132(4A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-3514a3b0e3d4977393f0b48c83152aba]: Textual amendment: S. 132(4A) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 14(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/14/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

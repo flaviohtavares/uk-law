@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Recovery of possession of properties designed for special needs[^key-279d728cf96d89ea443070638290b24f]
+## 15. Recovery of possession of properties designed for special needs[^c-279d728cf96d89ea443070638290b24f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In schedule 2 to the 2001 Act (grounds for recovery of possession of house)—
 
 ## Annotations
 
-[^key-279d728cf96d89ea443070638290b24f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/14/section/15) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-279d728cf96d89ea443070638290b24f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/14/section/15) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

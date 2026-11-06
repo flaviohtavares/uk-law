@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Publicising an application[^key-d20826694ad91ac2eb9ac86f4a0441c2]
+## 53. Publicising an application[^c-d20826694ad91ac2eb9ac86f4a0441c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d20826694ad91ac2eb9ac86f4a0441c2]: Commencement: Reg. 53 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-d20826694ad91ac2eb9ac86f4a0441c2]: Commencement: Reg. 53 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

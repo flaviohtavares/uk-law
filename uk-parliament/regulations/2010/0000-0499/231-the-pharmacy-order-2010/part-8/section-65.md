@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. General fees[^key-e06cb4b1dde0b7f49552da5bc28c923c][^key-db9a3b4c1c030d01a94132b48a275108]
+## 65. General fees[^c-e06cb4b1dde0b7f49552da5bc28c923c][^c-db9a3b4c1c030d01a94132b48a275108]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e06cb4b1dde0b7f49552da5bc28c923c]: Commencement: Art. 65 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-e06cb4b1dde0b7f49552da5bc28c923c]: Commencement: Art. 65 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-db9a3b4c1c030d01a94132b48a275108]: Commencement: Art. 65 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-db9a3b4c1c030d01a94132b48a275108]: Commencement: Art. 65 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)

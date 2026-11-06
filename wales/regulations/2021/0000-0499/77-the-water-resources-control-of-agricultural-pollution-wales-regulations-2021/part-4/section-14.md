@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Spreading organic manure near surface water, boreholes, springs or wells[^key-d16edead0a3e65426b8210ff8c1c6fb4]
+## 14. Spreading organic manure near surface water, boreholes, springs or wells[^c-d16edead0a3e65426b8210ff8c1c6fb4]
 
 *Extent: E+W*
 
-(1) Except where paragraph 26 of Schedule 1A applies,[^key-eecaca4f73500b3d625134fd573d9df2] No person may spread organic manure within 10 metres of surface water unless using precision spreading equipment in which case no person may spread organic manure within 6 metres of surface water.
+(1) Except where paragraph 26 of Schedule 1A applies,[^c-eecaca4f73500b3d625134fd573d9df2] No person may spread organic manure within 10 metres of surface water unless using precision spreading equipment in which case no person may spread organic manure within 6 metres of surface water.
 
 (2) But livestock manure (other than slurry and poultry manure) may be spread there if—
 
@@ -33,13 +33,13 @@ summary: ''
 
 (3) No person may spread organic manure within 50 metres of a borehole, spring or well.
 
-(4)[^key-512367bd630930545fec30b23c6b89de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-512367bd630930545fec30b23c6b89de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d16edead0a3e65426b8210ff8c1c6fb4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/77/regulation/14) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-d16edead0a3e65426b8210ff8c1c6fb4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/77/regulation/14) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-eecaca4f73500b3d625134fd573d9df2]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/14/1) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [6(a)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/6/a)
+[^c-eecaca4f73500b3d625134fd573d9df2]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/14/1) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [6(a)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/6/a)
 
 [^f00005]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^f00007]: Footnote: EUR 1305/2013, as amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) and 764.
 
-[^key-512367bd630930545fec30b23c6b89de]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/wsi/2021/77/regulation/14/4) omitted (31.12.2023) by virtue of [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [6(b)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/6/b)
+[^c-512367bd630930545fec30b23c6b89de]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/wsi/2021/77/regulation/14/4) omitted (31.12.2023) by virtue of [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [6(b)](https://www.legislation.gov.uk/wsi/2023/1393/regulation/6/b)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 32
 
-### 1. Temporary arrangements for transfer of obligations and liabilities in relation to certain out of hours services[^key-ca5d729283808d4b0990be8a56c7e212]
+### 1. Temporary arrangements for transfer of obligations and liabilities in relation to certain out of hours services[^c-ca5d729283808d4b0990be8a56c7e212]
 
 (1) In this Schedule—
 
@@ -51,7 +51,7 @@ whichever is the earlier.
 
 (8) Nothing in this paragraph prevents a contractor from retaining or resuming its obligations in relation to named patients.
 
-### 2. Application for approval of an out of hours arrangement[^key-7ce9fd20126ed79b8ef24202d4c7868e]
+### 2. Application for approval of an out of hours arrangement[^c-7ce9fd20126ed79b8ef24202d4c7868e]
 
 (1) An application to the Health Board for approval of an out of hours arrangement shall be made in writing and shall state—
 
@@ -79,11 +79,11 @@ and shall not refuse to grant approval without first consulting the area medical
 
 (5) A contractor which wishes to refer the matter in accordance with the NHS dispute resolution procedure must do so before the end of the period of 30 days beginning with the day on which the Health Board’s notification under sub-paragraph (4) was sent.
 
-### 3. Effect of approval of an arrangement with a transferee out of hours service provider[^key-99766d622738db8c8fc3937150ae674f]
+### 3. Effect of approval of an arrangement with a transferee out of hours service provider[^c-99766d622738db8c8fc3937150ae674f]
 
 Where the Health Board has approved an out of hours arrangement with a transferee out of hours service provider, the Health Board and the transferee out of hours service provider shall be deemed to have agreed a variation of their contract which has the effect of including in it, from the date on which the out of hours arrangement commences, and for so long as that arrangement continues, the services covered by that arrangement and paragraph 94(1) of Schedule 5 shall not apply.
 
-### 4. Review of approval[^key-ead05ef788c585c30efdbfdfcea9951d]
+### 4. Review of approval[^c-ead05ef788c585c30efdbfdfcea9951d]
 
 (1) Where it appears to the Health Board that it may no longer be satisfied of any of the matters referred to in paragraph 2(3), it may give notice to the contractor that it proposes to review its approval of the out of hours arrangement.
 
@@ -112,7 +112,7 @@ Where the Health Board has approved an out of hours arrangement with a transfere
 
 (10) Where the Health Board determines to withdraw its approval immediately, the withdrawal shall take effect on the day on which the notice referred to in sub-paragraph (6) is received by the contractor.
 
-### 5. Immediate withdrawal of approval other than following review[^key-2bb56434c2cb097d3299071eb9121426]
+### 5. Immediate withdrawal of approval other than following review[^c-2bb56434c2cb097d3299071eb9121426]
 
 (1) The Health Board shall withdraw its approval of an out of hours arrangement immediately—
 
@@ -127,20 +127,20 @@ Where the Health Board has approved an out of hours arrangement with a transfere
 
 (5) A contractor which wishes to refer a withdrawal of approval under sub-paragraph (1)(b) in accordance with the NHS dispute resolution procedure must do so before the end of the period of 30 days beginning with the day on which the Health Board’s notification under sub paragraph (2) was sent.
 
-### 6. Termination of an out of hours arrangement[^key-9950124bb5c9bfac6632b504e0bd09a0]
+### 6. Termination of an out of hours arrangement[^c-9950124bb5c9bfac6632b504e0bd09a0]
 
 The contractor shall terminate an out of hours arrangement with effect from the date of the taking effect of the withdrawal of the Health Board’s approval of that arrangement under paragraph 4 or 5.
 
 ## Annotations
 
-[^key-ca5d729283808d4b0990be8a56c7e212]: Commencement: Sch. 6 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ca5d729283808d4b0990be8a56c7e212]: Commencement: Sch. 6 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7ce9fd20126ed79b8ef24202d4c7868e]: Commencement: Sch. 6 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7ce9fd20126ed79b8ef24202d4c7868e]: Commencement: Sch. 6 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-99766d622738db8c8fc3937150ae674f]: Commencement: Sch. 6 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-99766d622738db8c8fc3937150ae674f]: Commencement: Sch. 6 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ead05ef788c585c30efdbfdfcea9951d]: Commencement: Sch. 6 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ead05ef788c585c30efdbfdfcea9951d]: Commencement: Sch. 6 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-2bb56434c2cb097d3299071eb9121426]: Commencement: Sch. 6 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-2bb56434c2cb097d3299071eb9121426]: Commencement: Sch. 6 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-9950124bb5c9bfac6632b504e0bd09a0]: Commencement: Sch. 6 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-9950124bb5c9bfac6632b504e0bd09a0]: Commencement: Sch. 6 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

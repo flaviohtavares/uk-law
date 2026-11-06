@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22. Interpretation of Part II[^key-17d06b6e0a30a9e15d33000f73028cb1]
+## 22. Interpretation of Part II[^c-17d06b6e0a30a9e15d33000f73028cb1]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ In this Part of this Measure—
 
 ## Annotations
 
-[^key-17d06b6e0a30a9e15d33000f73028cb1]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2007/1/section/22) in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-17d06b6e0a30a9e15d33000f73028cb1]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2007/1/section/22) in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

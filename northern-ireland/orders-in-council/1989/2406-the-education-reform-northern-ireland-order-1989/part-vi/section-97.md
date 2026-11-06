@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-The Department shall not approve any proposal made under Article 14(1)(d) or (e) or (3)(c) of the principal Order in relation to a controlled integrated school if in the opinion of the Department the implementation of that proposal would render the school less likely to provide integrated education[^key-f062a65326795f8057606737b25d182c].
+The Department shall not approve any proposal made under Article 14(1)(d) or (e) or (3)(c) of the principal Order in relation to a controlled integrated school if in the opinion of the Department the implementation of that proposal would render the school less likely to provide integrated education[^c-f062a65326795f8057606737b25d182c].
 
 ## Annotations
 
-[^key-f062a65326795f8057606737b25d182c]: Textual amendment: Words in [art. 97](https://www.legislation.gov.uk/nisi/1989/2406/article/97) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(8)](https://www.legislation.gov.uk/nia/2022/15/section/13/8), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-f062a65326795f8057606737b25d182c]: Textual amendment: Words in [art. 97](https://www.legislation.gov.uk/nisi/1989/2406/article/97) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(8)](https://www.legislation.gov.uk/nia/2022/15/section/13/8), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)

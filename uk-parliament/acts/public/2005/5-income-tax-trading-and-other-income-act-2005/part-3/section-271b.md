@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271B. Calculation of profits in accordance with GAAP[^key-2424879cc1d30d572133c3bb99ad2f9e]
+## 271B. Calculation of profits in accordance with GAAP[^c-2424879cc1d30d572133c3bb99ad2f9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2424879cc1d30d572133c3bb99ad2f9e]: Textual amendment: Ss. 271A-271D and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/13)
+[^c-2424879cc1d30d572133c3bb99ad2f9e]: Textual amendment: Ss. 271A-271D and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/13)

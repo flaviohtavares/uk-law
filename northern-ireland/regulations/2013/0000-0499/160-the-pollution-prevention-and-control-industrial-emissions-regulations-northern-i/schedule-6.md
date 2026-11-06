@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 13(8)
 
-**1.**[^key-af1f0eeedf706b66fe50f144e4e6035f] (1) This Schedule applies in any case where—
+**1.**[^c-af1f0eeedf706b66fe50f144e4e6035f] (1) This Schedule applies in any case where—
 
 - (a) an operator is required by an off-site condition in his permit to carry out works or do other things in relation to land not forming part of the site of the installation or mobile plant notwithstanding that he is not entitled to carry out the works or do the things;
 - (b) a person whose consent is required has, pursuant to the requirements of regulation 13(7), granted, or joined in granting, to the operator any rights in relation to the land; and
@@ -33,9 +33,9 @@ Regulation 13(8)
 - “grantor” means a person mentioned in sub-paragraph (1)(b);
 - “relevant interest” means an interest in land out of which rights have been granted pursuant to the requirements of regulation 13(7).
 
-**2.**[^key-1759635f120627ed1475cc660a29c196] In a case where this Schedule applies, any person who has granted, or joined in granting, the rights in question shall be entitled to be paid compensation under this Schedule by the operator.
+**2.**[^c-1759635f120627ed1475cc660a29c196] In a case where this Schedule applies, any person who has granted, or joined in granting, the rights in question shall be entitled to be paid compensation under this Schedule by the operator.
 
-**3.**[^key-8f1d7a3b6be3f1a0cf714d48236a93ee] Subject to paragraph 6(3) and (5)(b), compensation shall be payable under this Schedule for loss and damage of the following descriptions—
+**3.**[^c-8f1d7a3b6be3f1a0cf714d48236a93ee] Subject to paragraph 6(3) and (5)(b), compensation shall be payable under this Schedule for loss and damage of the following descriptions—
 
 - (a) depreciation in the value of any relevant interest to which the grantor is entitled which results from the grant of the rights;
 - (b) depreciation in the value of any other interest in land to which the grantor is entitled which results from the exercise of the rights;
@@ -46,11 +46,11 @@ Regulation 13(8)
 - (d) damage to, or injurious affection of, any interest in land to which the grantor is entitled which is not a relevant interest, and which results from the grant of the rights or the exercise of them; and
 - (e) loss in respect of work carried out by or on behalf of the grantor which is rendered abortive by the grant of the rights or the exercise of them.
 
-**4.**[^key-c2e88cf79a8fc6730439960a22ff9955] (1) Subject to sub-paragraph (2), an entitlement to compensation under this Schedule arises on the date of the grant of the rights.
+**4.**[^c-c2e88cf79a8fc6730439960a22ff9955] (1) Subject to sub-paragraph (2), an entitlement to compensation under this Schedule arises on the date of the grant of the rights.
 
 (2) Where, after a grant of rights pursuant to regulation 13(7), the conditions of the permit which rendered the grant of rights necessary are upheld on the final determination of an appeal against those conditions, the entitlement to compensation arises on the date of the final determination of the appeal.
 
-**5.**[^key-75bedffa1a6caeb8b936669e05cd97cd] (1) An application for compensation under this Schedule shall be made by the grantor—
+**5.**[^c-75bedffa1a6caeb8b936669e05cd97cd] (1) An application for compensation under this Schedule shall be made by the grantor—
 
 - (a) within 12 months from the date on which the entitlement to compensation arises in his case, or, as he may decide;
 - (b) within six months from the date on which the rights are first exercised.
@@ -64,7 +64,7 @@ Regulation 13(8)
 - (c) a statement of the amount of compensation applied for, distinguishing the amounts applied for under each of heads (a) to (e) of paragraph 3, and showing how the amount applied for under each head has been calculated; and
 - (d) where the date on which the entitlement to compensation arises is ascertained in accordance with paragraph 4(2), a copy of the notice of the final determination of the appeal.
 
-**6.**[^key-f392b31ce876dbc313096be65e6c8090] (1) The amount to be paid by way of compensation under this Schedule shall be assessed in accordance with the following sub-paragraphs.
+**6.**[^c-f392b31ce876dbc313096be65e6c8090] (1) The amount to be paid by way of compensation under this Schedule shall be assessed in accordance with the following sub-paragraphs.
 
 (2) The rules set out in Article 6 of the Land Compensation (Northern Ireland) Order 1982[^f00054] (rules for assessing compensation) shall, so far as applicable and subject to any necessary modifications, have effect for the purposes of this paragraph as they have effect for the purpose of assessing compensation for the compulsory acquisition of an interest in land.
 
@@ -79,7 +79,7 @@ Regulation 13(8)
 
 (6) Compensation under this Schedule shall include an amount equal to the grantor’s reasonable valuation and legal expenses.
 
-**7.**[^key-46e9a4d1ed6ad56c02fb7ce09bf3c47b] (1) Compensation payable under this Schedule in respect of an interest which is subject to a mortgage shall be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and shall, in either case, be applied by him as if it were proceeds of sale.
+**7.**[^c-46e9a4d1ed6ad56c02fb7ce09bf3c47b] (1) Compensation payable under this Schedule in respect of an interest which is subject to a mortgage shall be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and shall, in either case, be applied by him as if it were proceeds of sale.
 
 (2) Amounts of compensation determined under this Schedule shall be payable—
 
@@ -94,7 +94,7 @@ Regulation 13(8)
 - (a) the reference in Article 4(1) of that Order to Article 3 of that Order were a reference to sub-paragraph (3) of this paragraph; and
 - (b) references in Article 5 of that Order to the acquiring authority were references to the operator.
 
-**8.**[^key-70599c62aea5bc5ba6fb710108aa1674] (1) Compensation payable under this Schedule shall carry interest at the rate determined for the time being under paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972 from the date specified in sub-paragraph (2) until payment.
+**8.**[^c-70599c62aea5bc5ba6fb710108aa1674] (1) Compensation payable under this Schedule shall carry interest at the rate determined for the time being under paragraph 18 of Schedule 6 to the Local Government Act (Northern Ireland) 1972 from the date specified in sub-paragraph (2) until payment.
 
 (2) The date specified in this sub-paragraph is—
 
@@ -113,22 +113,22 @@ the payment or excess shall be recoverable by that person.
 
 ## Annotations
 
-[^key-af1f0eeedf706b66fe50f144e4e6035f]: Commencement: Sch. 6 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-af1f0eeedf706b66fe50f144e4e6035f]: Commencement: Sch. 6 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-1759635f120627ed1475cc660a29c196]: Commencement: Sch. 6 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1759635f120627ed1475cc660a29c196]: Commencement: Sch. 6 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-8f1d7a3b6be3f1a0cf714d48236a93ee]: Commencement: Sch. 6 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-8f1d7a3b6be3f1a0cf714d48236a93ee]: Commencement: Sch. 6 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00053]: Footnote: [1972 c.9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-c2e88cf79a8fc6730439960a22ff9955]: Commencement: Sch. 6 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c2e88cf79a8fc6730439960a22ff9955]: Commencement: Sch. 6 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-75bedffa1a6caeb8b936669e05cd97cd]: Commencement: Sch. 6 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-75bedffa1a6caeb8b936669e05cd97cd]: Commencement: Sch. 6 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-f392b31ce876dbc313096be65e6c8090]: Commencement: Sch. 6 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-f392b31ce876dbc313096be65e6c8090]: Commencement: Sch. 6 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00054]: Footnote: [S.I. 1982/712 (N.I. 9)](https://www.legislation.gov.uk/nisi/1982/712)
 
-[^key-46e9a4d1ed6ad56c02fb7ce09bf3c47b]: Commencement: Sch. 6 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-46e9a4d1ed6ad56c02fb7ce09bf3c47b]: Commencement: Sch. 6 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-70599c62aea5bc5ba6fb710108aa1674]: Commencement: Sch. 6 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-70599c62aea5bc5ba6fb710108aa1674]: Commencement: Sch. 6 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -25,7 +25,7 @@ summary: ''
 (2) The bodies and entities referred to in subsection (1) above are—
 
 - (a) a local authority[^c980771], or a joint board or joint committee as respectively defined by the [^c980781]Local Government (Scotland) Act 1973, or the common good of local authority or any trust under the control of a local authority;
-- (aa)[^key-84b4dee3c3a556b86f1685442fdc730f] Scottish Water;
+- (aa)[^c-84b4dee3c3a556b86f1685442fdc730f] Scottish Water;
 - (b) a development corporation established by an order made, or having effect as if made, under the [^c980821]New Towns (Scotland) Act 1968;
 - (c) the Housing Corporation;
 - (d) the Scottish Special Housing Association, or any housing trust which was in existence on 13th November 1953 . . . [^c980831]; and
@@ -59,7 +59,7 @@ then in ascertaining, in relation to the sub-tenancy, what rent is recoverable f
 
 [^c980781]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-84b4dee3c3a556b86f1685442fdc730f]: Textual amendment: S. 5(2)(aa) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [sch. para. 5(2)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/5/2)
+[^c-84b4dee3c3a556b86f1685442fdc730f]: Textual amendment: S. 5(2)(aa) substituted (25.6.2003) by [The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331)](https://www.legislation.gov.uk/ssi/2003/331), [art. 1](https://www.legislation.gov.uk/ssi/2003/331/article/1), [sch. para. 5(2)](https://www.legislation.gov.uk/ssi/2003/331/schedule/paragraph/5/2)
 
 [^c980821]: Marginal citation: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 

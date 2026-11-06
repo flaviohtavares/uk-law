@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**32.**[^key-e9478f70cd1f1fb5f3027a3155c10437] In the community of Gower North, the number of councillors to be elected for the—
+**32.**[^c-e9478f70cd1f1fb5f3027a3155c10437] In the community of Gower North, the number of councillors to be elected for the—
 
 - (a) Cheriton ward is 1;
 - (b) Llangennith ward is 4;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9478f70cd1f1fb5f3027a3155c10437]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2026/95/article/32) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-e9478f70cd1f1fb5f3027a3155c10437]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2026/95/article/32) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Alteration under a court order—not rectification[^key-5024e5e0f9cc91a2c68ad61bd6a08b6a]
+## 126. Alteration under a court order—not rectification[^c-5024e5e0f9cc91a2c68ad61bd6a08b6a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ it must make an order for alteration of the register under the power given by pa
 
 ## Annotations
 
-[^key-5024e5e0f9cc91a2c68ad61bd6a08b6a]: Modification: Rule 126 excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)
+[^c-5024e5e0f9cc91a2c68ad61bd6a08b6a]: Modification: Rule 126 excluded (27.9.2004) by [THE COMMONHOLD (LAND REGISTRATION) RULES 2004 (S.I. 2004/1830)](https://www.legislation.gov.uk/uksi/2004/1830), [rules 1](https://www.legislation.gov.uk/uksi/2004/1830/rule/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1830/rule/3/2)

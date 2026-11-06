@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Fees[^c1942192][^key-9b47ef156f557ef404000e4bda3dcf79]
+## 85. Fees[^c1942192][^c-9b47ef156f557ef404000e4bda3dcf79]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c1942192]: Commencement: S. 85 partly in force; S. 85 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-9b47ef156f557ef404000e4bda3dcf79]: Commencement: S. 85 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/j)
+[^c-9b47ef156f557ef404000e4bda3dcf79]: Commencement: S. 85 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(j)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/j)

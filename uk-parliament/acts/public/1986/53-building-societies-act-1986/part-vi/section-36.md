@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Power to direct restructuring of business etc.[^key-f9f54f6781743fd7eb4cb8df7c0cb8d3][^c15499061]
+## 36. Power to direct restructuring of business etc.[^c-f9f54f6781743fd7eb4cb8df7c0cb8d3][^c15499061]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9bfa269db778064d56a6bc591e4b8618] The provisions of this section have effect where, by reason of a building society’s failure to comply with—
+(1)[^c-9bfa269db778064d56a6bc591e4b8618] The provisions of this section have effect where, by reason of a building society’s failure to comply with—
 
 - (a) the requirement imposed by section 5(1)(a) or (b) (purpose or principal purpose and principal office);
 - (b) the requirement imposed by section 6(1) (the lending limit); or
 - (c) the requirement imposed by section 7(1) (the funding limit),
 
-the powers conferred by this section become exercisable by the appropriate authority[^key-c9eb84dbaee9c6cc5755c1e7ad1c6c04] in relation to the society (the requirements referred to in paragraphs (a), (b) and (c) above being referred to in this section as “**the relevant statutory requirements**”).
+the powers conferred by this section become exercisable by the appropriate authority[^c-c9eb84dbaee9c6cc5755c1e7ad1c6c04] in relation to the society (the requirements referred to in paragraphs (a), (b) and (c) above being referred to in this section as “**the relevant statutory requirements**”).
 
 (2) The appropriate authority may give the society a direction under subsection (3), (5) or (6) below.
 
@@ -45,14 +45,14 @@ and subsection (4) of section 81 shall apply in the event of a default in comply
 (5) A direction by the appropriate authority under this subsection is a direction requiring the society—
 
 - (a) within a specified period, to submit to its members for their approval at a meeting the requisite transfer resolutions for a transfer of the business of the society to a company under section 97; and
-- (b) to notify the appropriate authority and, if the appropriate authority is the[^key-ff86323fb62aa1a068d76172c85578f7] PRA, the FCA of the result of the meeting.
+- (b) to notify the appropriate authority and, if the appropriate authority is the[^c-ff86323fb62aa1a068d76172c85578f7] PRA, the FCA of the result of the meeting.
 
 (6) A direction by the appropriate authority under this subsection is a direction requiring the society, at its option, either—
 
 - (a) within a specified period, to submit for approval a restructuring plan; or
 - (b) within a specified period, to submit to its members for their approval at a meeting the requisite transfer resolutions for a transfer of the business of the society to a company under section 97;
 
-and, within a specified period, to notify the appropriate authority and, if the appropriate authority is the[^key-0137923bb5ffaaa64526028fb4fedd51] PRA, the FCA of the option it has decided to pursue.
+and, within a specified period, to notify the appropriate authority and, if the appropriate authority is the[^c-0137923bb5ffaaa64526028fb4fedd51] PRA, the FCA of the option it has decided to pursue.
 
 (7) Where the appropriate authority gives a direction under subsection (3), (5) or (6) above, it may also give a direction under this subsection—
 
@@ -100,22 +100,22 @@ or if the appropriate authority rejects a restructuring plan under subsection (8
 
 (16) Nothing in this section implies that it is improper for the appropriate authority to give to a building society or building societies generally an indication of the action it might or might not take in relation to any proposed activity of theirs.
 
-(17)[^key-de4cf0d71df1250d170a55d225a10a8b] The PRA must consult the FCA before issuing a direction under this section.
+(17)[^c-de4cf0d71df1250d170a55d225a10a8b] The PRA must consult the FCA before issuing a direction under this section.
 
 ## Annotations
 
-[^key-f9f54f6781743fd7eb4cb8df7c0cb8d3]: Modification: S. 36 restricted (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/3), [4(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/3)
+[^c-f9f54f6781743fd7eb4cb8df7c0cb8d3]: Modification: S. 36 restricted (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/3), [4(3)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/3)
 
 [^c15499061]: Textual amendment: S. 36 and cross-heading substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/13/1), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(k)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/k)
 
-[^key-9bfa269db778064d56a6bc591e4b8618]: Modification: S. 36(1) modified (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/4)
+[^c-9bfa269db778064d56a6bc591e4b8618]: Modification: S. 36(1) modified (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/4)
 
-[^key-c9eb84dbaee9c6cc5755c1e7ad1c6c04]: Textual amendment: Words in s. 36 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c9eb84dbaee9c6cc5755c1e7ad1c6c04]: Textual amendment: Words in s. 36 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-ff86323fb62aa1a068d76172c85578f7]: Textual amendment: Words in s. 36(5)(b) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-ff86323fb62aa1a068d76172c85578f7]: Textual amendment: Words in s. 36(5)(b) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-0137923bb5ffaaa64526028fb4fedd51]: Textual amendment: Words in s. 36(6) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-0137923bb5ffaaa64526028fb4fedd51]: Textual amendment: Words in s. 36(6) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15499291]: Textual amendment: S. 36(14) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-de4cf0d71df1250d170a55d225a10a8b]: Textual amendment: S. 36(17) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-de4cf0d71df1250d170a55d225a10a8b]: Textual amendment: S. 36(17) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/10/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

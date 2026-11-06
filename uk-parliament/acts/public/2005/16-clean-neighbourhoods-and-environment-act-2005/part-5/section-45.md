@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Failure to furnish documentation: fixed penalty notices[^key-84619a384c046713a9e70dfb60a7ca1b][^key-b3f1043a1755053e53bff2e8e96cc832][^key-69d0099ced3f4ce95a689312d76f751a]
+## 45. Failure to furnish documentation: fixed penalty notices[^c-84619a384c046713a9e70dfb60a7ca1b][^c-b3f1043a1755053e53bff2e8e96cc832][^c-69d0099ced3f4ce95a689312d76f751a]
 
 *Extent: E+W*
 
@@ -69,8 +69,8 @@ In the Environmental Protection Act 1990 (c. 43), after section 34 (duty of care
 
 ## Annotations
 
-[^key-84619a384c046713a9e70dfb60a7ca1b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-84619a384c046713a9e70dfb60a7ca1b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-b3f1043a1755053e53bff2e8e96cc832]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-b3f1043a1755053e53bff2e8e96cc832]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-69d0099ced3f4ce95a689312d76f751a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(r)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/r)
+[^c-69d0099ced3f4ce95a689312d76f751a]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(r)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/r)

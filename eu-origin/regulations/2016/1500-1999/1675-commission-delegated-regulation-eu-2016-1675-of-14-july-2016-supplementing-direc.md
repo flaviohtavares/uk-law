@@ -40,33 +40,33 @@ supplementing Directive (EU) 2015/849 of the European Parliament and of the Coun
 
 (Text with EEA relevance) (revoked)
 
-[^key-205c80f65d3bea393231574b446bede7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-205c80f65d3bea393231574b446bede7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-205c80f65d3bea393231574b446bede7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-205c80f65d3bea393231574b446bede7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-205c80f65d3bea393231574b446bede7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-205c80f65d3bea393231574b446bede7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-205c80f65d3bea393231574b446bede7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-205c80f65d3bea393231574b446bede7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — High-risk third countries[^key-205c80f65d3bea393231574b446bede7]
+## ANNEX — High-risk third countries[^c-205c80f65d3bea393231574b446bede7]
 
-[^key-205c80f65d3bea393231574b446bede7]I.
+[^c-205c80f65d3bea393231574b446bede7]I.
 
 High-risk third countries which have provided a written high-level political commitment to address the identified deficiencies and have developed an action plan with FATF.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-205c80f65d3bea393231574b446bede7]II.
+[^c-205c80f65d3bea393231574b446bede7]II.
 
 High-risk third countries which have provided a high-level political commitment to address the identified deficiencies, and have decided to seek technical assistance in the implementation of the FATF Action Plan, which are identified by FATF Public Statement.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-205c80f65d3bea393231574b446bede7]III.
+[^c-205c80f65d3bea393231574b446bede7]III.
 
 High-risk third countries which present ongoing and substantial money-laundering and terrorist-financing risks, having repeatedly failed to address the identified deficiencies and which are identified by FATF Public Statement.
 
@@ -74,4 +74,4 @@ High-risk third countries which present ongoing and substantial money-laundering
 
 ## Annotations
 
-[^key-205c80f65d3bea393231574b446bede7]: Textual amendment: Regulation revoked (26.3.2021) by [The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021 (S.I. 2021/392)](https://www.legislation.gov.uk/uksi/2021/392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/392/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/392/regulation/3)
+[^c-205c80f65d3bea393231574b446bede7]: Textual amendment: Regulation revoked (26.3.2021) by [The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021 (S.I. 2021/392)](https://www.legislation.gov.uk/uksi/2021/392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/392/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/392/regulation/3)

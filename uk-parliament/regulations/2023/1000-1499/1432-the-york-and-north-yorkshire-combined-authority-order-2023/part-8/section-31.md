@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Adaptation of BRS in consequence of article 30[^key-6f12e44c5c7a94e3e6039ea954190910]
+## 31. Adaptation of BRS in consequence of article 30[^c-6f12e44c5c7a94e3e6039ea954190910]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ For the purposes of article 30, the BRS Act applies to the Combined Authority as
 
 ## Annotations
 
-[^key-6f12e44c5c7a94e3e6039ea954190910]: Commencement: Art. 31 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-6f12e44c5c7a94e3e6039ea954190910]: Commencement: Art. 31 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

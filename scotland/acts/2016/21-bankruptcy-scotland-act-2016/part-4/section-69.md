@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Resignation or death of trustee[^key-77753a310d5bd8429dfa6e827ec9b805]
+## 69. Resignation or death of trustee[^c-77753a310d5bd8429dfa6e827ec9b805]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 (8) If, after the expiry of the days mentioned in subsection (6)(a), AiB determines that no person is to be appointed under subsection (6), AiB is deemed to be the new trustee in the sequestration.
 
-(9) The new trustee (in this subsection and in subsections (11) and (12)[^key-f1b9dd876d980309b8268e9062b49904] referred to as “**NT**”) may require—
+(9) The new trustee (in this subsection and in subsections (11) and (12)[^c-f1b9dd876d980309b8268e9062b49904] referred to as “**NT**”) may require—
 
 - (a) delivery to NT of all documents relating to the sequestration and in the possession of T or T's representatives (except that, in the case of T's accounts, NT is entitled to delivery only of a copy),
 - (b) T or T's representatives to submit T's accounts for audit to the commissioners or, if there are no commissioners, to AiB.
@@ -60,14 +60,14 @@ summary: ''
 - (a) by the commissioners, appeal against it to AiB,
 - (b) by AiB, appeal against it to the sheriff.
 
-(12)[^key-d76c4be7aa411e14fdb71961677b91ce] T or T's representatives, NT, the debtor or any creditor may, within 14 days beginning with the date of any decision of AiB in an appeal under subsection (11)(a), appeal to the sheriff against that decision.
+(12)[^c-d76c4be7aa411e14fdb71961677b91ce] T or T's representatives, NT, the debtor or any creditor may, within 14 days beginning with the date of any decision of AiB in an appeal under subsection (11)(a), appeal to the sheriff against that decision.
 
 (13) The decision of the sheriff on an appeal under subsection (11)(b) or (12) is final.
 
 ## Annotations
 
-[^key-77753a310d5bd8429dfa6e827ec9b805]: Commencement: S. 69 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-77753a310d5bd8429dfa6e827ec9b805]: Commencement: S. 69 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-f1b9dd876d980309b8268e9062b49904]: Textual amendment: Words in s. 69(9) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 9(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/9/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-f1b9dd876d980309b8268e9062b49904]: Textual amendment: Words in s. 69(9) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 9(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/9/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-d76c4be7aa411e14fdb71961677b91ce]: Textual amendment: S. 69(12) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 9(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/9/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-d76c4be7aa411e14fdb71961677b91ce]: Textual amendment: S. 69(12) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 9(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/9/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))

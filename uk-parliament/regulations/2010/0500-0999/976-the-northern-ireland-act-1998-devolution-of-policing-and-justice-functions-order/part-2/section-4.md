@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transfer of certain policing and justice functions[^key-09c370fcc7b880b32c64964d60f33c03]
+## 4. Transfer of certain policing and justice functions[^c-09c370fcc7b880b32c64964d60f33c03]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c370fcc7b880b32c64964d60f33c03]: Commencement: Art. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-09c370fcc7b880b32c64964d60f33c03]: Commencement: Art. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

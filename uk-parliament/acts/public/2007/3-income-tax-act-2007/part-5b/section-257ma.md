@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MA. The amount raised from investments potentially eligible for relief[^key-9c5a94584eb64292b3119b4a334203f3][^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257MA. The amount raised from investments potentially eligible for relief[^c-9c5a94584eb64292b3119b4a334203f3][^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c5a94584eb64292b3119b4a334203f3]: Textual amendment: S. 257MA omitted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/2)
+[^c-9c5a94584eb64292b3119b4a334203f3]: Textual amendment: S. 257MA omitted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/6/2)
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

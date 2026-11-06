@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Strategic priorities and provision of information[^key-775339a985be75c795dcd91ea1be8088]
+## 98. Strategic priorities and provision of information[^c-775339a985be75c795dcd91ea1be8088]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-775339a985be75c795dcd91ea1be8088]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/30/section/98) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)
+[^c-775339a985be75c795dcd91ea1be8088]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/30/section/98) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)

@@ -32,7 +32,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Packaged Retail and Insurance-based Investment Products (Retail Disclosure) (Amendment) Regulations 2024 (revoked)[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]
+The Packaged Retail and Insurance-based Investment Products (Retail Disclosure) (Amendment) Regulations 2024 (revoked)[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 22nd November 2024
 
-[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]
+## 1. Citation, commencement and extent[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the PRIIPs Regulation[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]
+## 2. Amendment of the PRIIPs Regulation[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]
+## 3. Amendment of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e1eee9b74e25119c3a5be0fe9e5d19d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/1204) revoked (6.4.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(e)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/e)
+[^c-4e1eee9b74e25119c3a5be0fe9e5d19d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/1204) revoked (6.4.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(e)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/e)

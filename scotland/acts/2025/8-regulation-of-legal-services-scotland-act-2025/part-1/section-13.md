@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Compensation funds[^key-03afa1602eb71071d5b293c875ec3af5][^key-c4c843b470253a76eb35a2bacab333a0]
+## 13. Compensation funds[^c-03afa1602eb71071d5b293c875ec3af5][^c-c4c843b470253a76eb35a2bacab333a0]
 
 *Extent: S*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03afa1602eb71071d5b293c875ec3af5]: Commencement: S. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-03afa1602eb71071d5b293c875ec3af5]: Commencement: S. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c4c843b470253a76eb35a2bacab333a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/8/section/13) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-c4c843b470253a76eb35a2bacab333a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/8/section/13) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

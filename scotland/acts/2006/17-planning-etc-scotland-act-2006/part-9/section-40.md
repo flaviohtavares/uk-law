@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Approval in ballot[^key-906ecdaf241a11014330db4d4776dcdd][^key-03e53860572d45dc57aa6bd9148911fb]
+## 40. Approval in ballot[^c-906ecdaf241a11014330db4d4776dcdd][^c-03e53860572d45dc57aa6bd9148911fb]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-906ecdaf241a11014330db4d4776dcdd]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/17/section/40) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-906ecdaf241a11014330db4d4776dcdd]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/17/section/40) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-03e53860572d45dc57aa6bd9148911fb]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/17/section/40) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-03e53860572d45dc57aa6bd9148911fb]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/17/section/40) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

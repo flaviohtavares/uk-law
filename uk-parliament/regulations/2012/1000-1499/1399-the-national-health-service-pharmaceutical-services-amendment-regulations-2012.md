@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Pharmaceutical Services) Amendment Regulations 2012 (revoked)[^key-7f238ab73a7d19baa4cbc182d67dc1a1]
+The National Health Service (Pharmaceutical Services) Amendment Regulations 2012 (revoked)[^c-7f238ab73a7d19baa4cbc182d67dc1a1]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2012
 
-[^key-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7f238ab73a7d19baa4cbc182d67dc1a1]
+## 1. Citation and commencement[^c-7f238ab73a7d19baa4cbc182d67dc1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^key-7f238ab73a7d19baa4cbc182d67dc1a1]
+## 2. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^c-7f238ab73a7d19baa4cbc182d67dc1a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f238ab73a7d19baa4cbc182d67dc1a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f238ab73a7d19baa4cbc182d67dc1a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1399) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (revoked) 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(1)(f)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/1/f)
+[^c-7f238ab73a7d19baa4cbc182d67dc1a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1399) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (revoked) 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(1)(f)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/1/f)

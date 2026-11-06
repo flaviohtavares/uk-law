@@ -31,7 +31,7 @@ Transport Act 1981
 
 An Act to make provision with respect to the disposal by the British Railways Board of part of their undertaking, property, rights and liabilities; to provide for the reconstitution of the British Transport Docks Board under the name of Associated British Ports and to confer on a company powers over that body corresponding to the powers of a holding company over a wholly-owned subsidiary; to dissolve the National Ports Council and amend the Harbours Act 1964; to make further provision for promoting road safety; to make provision with respect to road humps; to provide a new basis of vehicle excise duty for goods vehicles; to amend the law as to the payments to be made for cab licences and cab drivers’ licences; to make provision for grants to assist the provision of facilities for freight haulage by inland waterway; to make provision with respect to railway fires; to amend Schedules 7 and 8 to the Public Passenger Vehicles Act 1981; and for connected purposes.
 
-\[31st July 1981\][^key-e70b9872385a94961889c55c42b5824b][^key-88f928f282e39b8c62aeba8d7a7948e5]
+\[31st July 1981\][^c-e70b9872385a94961889c55c42b5824b][^c-88f928f282e39b8c62aeba8d7a7948e5]
 
 ## Contents
 
@@ -108,8 +108,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e70b9872385a94961889c55c42b5824b]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-e70b9872385a94961889c55c42b5824b]: Modification: Act: transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-88f928f282e39b8c62aeba8d7a7948e5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/56) restricted (5.9.2017) by [The London Overground (Barking Riverside Extension) Order 2017 (S.I. 2017/830)](https://www.legislation.gov.uk/uksi/2017/830), [art. 1](https://www.legislation.gov.uk/uksi/2017/830/article/1), [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/uksi/2017/830/schedule/8/paragraph/4/1) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/uksi/2017/830/schedule/8/paragraph/20))
+[^c-88f928f282e39b8c62aeba8d7a7948e5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/56) restricted (5.9.2017) by [The London Overground (Barking Riverside Extension) Order 2017 (S.I. 2017/830)](https://www.legislation.gov.uk/uksi/2017/830), [art. 1](https://www.legislation.gov.uk/uksi/2017/830/article/1), [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/uksi/2017/830/schedule/8/paragraph/4/1) (with [Sch. 8 para. 20](https://www.legislation.gov.uk/uksi/2017/830/schedule/8/paragraph/20))
 
 [^c858791]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1981/56/part/I) (ss. 1-4) repealed (31.3.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 152(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/3), [Sch.14](https://www.legislation.gov.uk/ukpga/1993/43/schedule/14); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 4](https://www.legislation.gov.uk/uksi/1994/571/article/4).

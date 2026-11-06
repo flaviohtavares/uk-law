@@ -31,10 +31,10 @@ Decision (EU) 2018/1384 of the European Parliament
 
 of 18 April 2018 on the closure of the accounts of the European Insurance and Occupational Pensions Authority for the financial year 2016 (revoked)
 
-[^key-ecd6a7233bd2d969d1999bf5068f8ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecd6a7233bd2d969d1999bf5068f8ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ecd6a7233bd2d969d1999bf5068f8ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ecd6a7233bd2d969d1999bf5068f8ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecd6a7233bd2d969d1999bf5068f8ea9]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(n)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecd6a7233bd2d969d1999bf5068f8ea9]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(n)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

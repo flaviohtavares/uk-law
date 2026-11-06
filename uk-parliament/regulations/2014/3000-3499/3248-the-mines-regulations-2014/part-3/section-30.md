@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Storage of explosives[^key-69576473e4c894936733a195d0075f36]
+## 30. Storage of explosives[^c-69576473e4c894936733a195d0075f36]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69576473e4c894936733a195d0075f36]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/3248/regulation/30) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-69576473e4c894936733a195d0075f36]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/3248/regulation/30) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

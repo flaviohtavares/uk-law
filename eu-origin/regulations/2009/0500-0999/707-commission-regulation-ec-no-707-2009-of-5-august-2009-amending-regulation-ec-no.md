@@ -33,18 +33,18 @@ of 5 August 2009
 
 amending Regulation (EC) No 184/2005 of the European Parliament and of the Council on Community statistics concerning balance of payments, international trade in services and foreign direct investment, as regards the update of data requirements (revoked)
 
-[^key-b358a3e4a339cdc8116b5342d8be12d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b358a3e4a339cdc8116b5342d8be12d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b358a3e4a339cdc8116b5342d8be12d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b358a3e4a339cdc8116b5342d8be12d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b358a3e4a339cdc8116b5342d8be12d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b358a3e4a339cdc8116b5342d8be12d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b358a3e4a339cdc8116b5342d8be12d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b358a3e4a339cdc8116b5342d8be12d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b358a3e4a339cdc8116b5342d8be12d5]
+## ANNEX[^c-b358a3e4a339cdc8116b5342d8be12d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b358a3e4a339cdc8116b5342d8be12d5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/157); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b358a3e4a339cdc8116b5342d8be12d5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/157); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

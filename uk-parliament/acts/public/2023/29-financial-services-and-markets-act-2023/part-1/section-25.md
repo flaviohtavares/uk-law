@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Competitiveness and growth objective[^key-604871cb095d684d7b726feb269f7be4][^key-5fdbea1954e43eff784f62ecfcf2a75f]
+## 25. Competitiveness and growth objective[^c-604871cb095d684d7b726feb269f7be4][^c-5fdbea1954e43eff784f62ecfcf2a75f]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-604871cb095d684d7b726feb269f7be4]: Commencement: S. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-604871cb095d684d7b726feb269f7be4]: Commencement: S. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5fdbea1954e43eff784f62ecfcf2a75f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/29/section/25) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/p)
+[^c-5fdbea1954e43eff784f62ecfcf2a75f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/29/section/25) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Extra-territorial effect of the Order[^key-cd0bfdf0e34f141510d211a1fc65a1b7]
+## 160. Extra-territorial effect of the Order[^c-cd0bfdf0e34f141510d211a1fc65a1b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd0bfdf0e34f141510d211a1fc65a1b7]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2015/870/article/160) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-cd0bfdf0e34f141510d211a1fc65a1b7]: Commencement: [Art. 160](https://www.legislation.gov.uk/uksi/2015/870/article/160) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
 [^f00017]: Footnote: [1948 c.56](https://www.legislation.gov.uk/ukpga/1948/56). Section 3(1) was amended by section 314(2) of and paragraph 22 of Schedule 13 to the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21).

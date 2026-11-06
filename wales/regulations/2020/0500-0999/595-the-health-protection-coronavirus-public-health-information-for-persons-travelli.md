@@ -33,7 +33,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020 (revoked)[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+The Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020 (revoked)[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 Made
 
@@ -45,90 +45,90 @@ Laid before Senedd Cymru
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+## PART 1 — General[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
-### 1. Title and coming into force[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 1. Title and coming into force[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Requirements to provide information to passengers[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
-
-### 3. Provision of information prior to departure[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 2. Interpretation[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3A. Provision of information prior to departure[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+## PART 2 — Requirements to provide information to passengers[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+
+### 3. Provision of information prior to departure[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Provision of information during journey[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 3A. Provision of information prior to departure[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Exception from requirements of regulations 3 ... and 4[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 4. Provision of information during journey[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences, penalties and prosecutions[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
-
-### 6. Offences[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 5. Exception from requirements of regulations 3 ... and 4[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Fixed penalty notices[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+## PART 3 — Offences, penalties and prosecutions[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+
+### 6. Offences[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Prosecutions[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 7. Fixed penalty notices[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
-
-### 9. Review of requirements[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 8. Prosecutions[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+## PART 4 — Miscellaneous[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+
+### 9. Review of requirements[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Expiry of these Regulations[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### 10. Amendment of the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Expiry of these Regulations[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+## SCHEDULE[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 Regulations 3 and 4
 
-### PART 1 — Essential Information to enter the UK from overseas[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### PART 1 — Essential Information to enter the UK from overseas[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — On-board announcement[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### PART 2 — On-board announcement[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Relevant Websites[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]
+### PART 3 — Relevant Websites[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33f2f3d77a7d1252b2fd7c77c5cd39ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/595) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/315/regulation/3)
+[^c-33f2f3d77a7d1252b2fd7c77c5cd39ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/595) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/315/regulation/3)

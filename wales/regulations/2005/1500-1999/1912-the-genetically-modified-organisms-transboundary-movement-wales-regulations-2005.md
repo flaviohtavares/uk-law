@@ -54,7 +54,7 @@ The title of these Regulations is the Genetically Modified Organisms (Transbound
 - “**electronic communication**” (“***cyfathrebiad electronig***”) has the same meaning as in the Electronic Communications Act 2000 [^c10792631];
 - “**inspector**” (“***arolygydd***”) means a person appointed as such under regulation 5;
 - “**local authority**” (“***awdurdod lleol***”) means County or County Borough Council;
-- “**specified EU[^key-3197d8270dd06180479e735f10180454] provision**” (“***darpariaeth Gymunedol benodedig***”) means a provision of the Council Regulation specified in the Schedule to these Regulations.
+- “**specified EU[^c-3197d8270dd06180479e735f10180454] provision**” (“***darpariaeth Gymunedol benodedig***”) means a provision of the Council Regulation specified in the Schedule to these Regulations.
 
 (2) Expressions in these Regulations which are not defined in paragraph (1) above and which appear in or are referred to in the Council Regulation have the same meaning in these Regulations as they have for the purposes of the Council Regulation.
 
@@ -203,7 +203,7 @@ The Presiding Officer of the National Assembly
 | Article 5(3) | Proceeding with first intentional transboundary movement of a genetically modified organism intended for deliberate release otherwise than in accordance with the relevant procedures. |
 | Article 10(1) | Failure to respect any decision on the import o genetically modified organisms intended for direct use as food or feed or for processing. |
 | Article 10(2) | Proceeding with first export of genetically modified organisms intended for direct use as food or feed or for processing otherwise than in accordance with the relevant procedure. |
-| Article 10(3) | Exporting genetically modified organisms subject to transboundary movements for direct use as food or feed or for processing which are not permitted to be marketed in the United Kingdom, or without authorisation to the import having been expressly agreed by the competent authority of the importing country.[^key-cc686078fd2ba094d17877d4de6428f1] . |
+| Article 10(3) | Exporting genetically modified organisms subject to transboundary movements for direct use as food or feed or for processing which are not permitted to be marketed in the United Kingdom, or without authorisation to the import having been expressly agreed by the competent authority of the importing country.[^c-cc686078fd2ba094d17877d4de6428f1] . |
 
 ### Part II
 
@@ -213,7 +213,7 @@ The Presiding Officer of the National Assembly
 |  | Failure to provide in the notification the minimum information, as specified in Annex I to the Council Regulation; and |
 |  | Failure to ensure that the information contained in the notification is accurate. |
 | Article 6 | Failure to keep for a minimum of 5 years records of notifications under Article 4 of the Council Regulation; acknowledgments of receipt of notifications; and decisions of the Party or non-Party of import; and |
-|  | Failure to send copies of the of records to the Competent Authority [^key-2aeefcefb9f9af55df7f91e5e6bc0705].... |
+|  | Failure to send copies of the of records to the Competent Authority [^c-2aeefcefb9f9af55df7f91e5e6bc0705].... |
 | Article 7(2) | Failure to copy to the Secretariat any reminder sent to Parties or non-Parties of import. |
 | Article 12(1) | Failure to ensure that specified information is contained in a document accompanying the GMOs; and failure to ensure that this information is transmitted to the importer. |
 | Article 12(2) | Failure to supply the specfied supplemental information in relation to GMOs intended for direct use as food or feed or for processing. |
@@ -261,12 +261,12 @@ A regulatory appraisal has been prepared. Copies can be obtained from the Food a
 
 [^c10792631]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); the definition of electronic communications in section 15(1) was amended by the [Electronic Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 406(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/1) and Schedule 17, paragraph 158.
 
-[^key-3197d8270dd06180479e735f10180454]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/2)
+[^c-3197d8270dd06180479e735f10180454]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/2)
 
 [^c10792641]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^c10792651]: Marginal citation: [1999 c. 38](https://www.legislation.gov.uk/ukpga/1999/38)
 
-[^key-cc686078fd2ba094d17877d4de6428f1]: Textual amendment: Words in [Sch. Pt. I](https://www.legislation.gov.uk/wsi/2005/1912/schedule/part/I) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc686078fd2ba094d17877d4de6428f1]: Textual amendment: Words in [Sch. Pt. I](https://www.legislation.gov.uk/wsi/2005/1912/schedule/part/I) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2aeefcefb9f9af55df7f91e5e6bc0705]: Textual amendment: Words in [Sch. Pt. II](https://www.legislation.gov.uk/wsi/2005/1912/schedule/part/II) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2aeefcefb9f9af55df7f91e5e6bc0705]: Textual amendment: Words in [Sch. Pt. II](https://www.legislation.gov.uk/wsi/2005/1912/schedule/part/II) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

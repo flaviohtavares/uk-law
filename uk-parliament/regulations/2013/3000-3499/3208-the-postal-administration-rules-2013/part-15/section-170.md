@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Application of CPR Part 6 to service of court documents within the jurisdiction[^key-638001aec6512df7a6300987f173cbbe]
+## 170. Application of CPR Part 6 to service of court documents within the jurisdiction[^c-638001aec6512df7a6300987f173cbbe]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-638001aec6512df7a6300987f173cbbe]: Commencement: [Rule 170](https://www.legislation.gov.uk/uksi/2013/3208/rule/170) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-638001aec6512df7a6300987f173cbbe]: Commencement: [Rule 170](https://www.legislation.gov.uk/uksi/2013/3208/rule/170) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

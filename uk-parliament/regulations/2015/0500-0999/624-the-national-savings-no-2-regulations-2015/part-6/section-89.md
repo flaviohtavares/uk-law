@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Payment without a grant of representation[^key-eb420c66d3e901d64bbc63879bac798d]
+## 89. Payment without a grant of representation[^c-eb420c66d3e901d64bbc63879bac798d]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ but where a person to whom an amount may be paid under subparagraph (b) or (c) h
 
 ## Annotations
 
-[^key-eb420c66d3e901d64bbc63879bac798d]: Commencement: Reg. 89 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-eb420c66d3e901d64bbc63879bac798d]: Commencement: Reg. 89 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00030]: Footnote: [1942 c. 21](https://www.legislation.gov.uk/ukpga/1942/21); Section 47 was amended by section 3 of the Stock Transfer Act 1982 (c. 41
 

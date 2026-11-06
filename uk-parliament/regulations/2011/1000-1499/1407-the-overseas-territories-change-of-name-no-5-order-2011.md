@@ -32,7 +32,7 @@ summary: ''
 
 Extradition
 
-The Overseas Territories (Change of Name) (No. 5) Order 2011 (revoked)[^key-5bc9518b33272570a2e906f040b8a2f6]
+The Overseas Territories (Change of Name) (No. 5) Order 2011 (revoked)[^c-5bc9518b33272570a2e906f040b8a2f6]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5bc9518b33272570a2e906f040b8a2f6]
+## 1. Citation and commencement[^c-5bc9518b33272570a2e906f040b8a2f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of an instrument[^key-5bc9518b33272570a2e906f040b8a2f6]
+## 2. Amendment of an instrument[^c-5bc9518b33272570a2e906f040b8a2f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bc9518b33272570a2e906f040b8a2f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bc9518b33272570a2e906f040b8a2f6]: Textual amendment: Order revoked (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/5/part/1) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2016/990/article/9/3))
+[^c-5bc9518b33272570a2e906f040b8a2f6]: Textual amendment: Order revoked (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2016/990/schedule/5/part/1) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2016/990/article/9/3))

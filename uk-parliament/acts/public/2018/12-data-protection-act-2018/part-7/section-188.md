@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Representation of data subjects with their authority: collective proceedings[^c23269171][^key-bc71876f7b085a331fb2523e66d417c1]
+## 188. Representation of data subjects with their authority: collective proceedings[^c23269171][^c-bc71876f7b085a331fb2523e66d417c1]
 
 *Extent: E+W+N.I.*
 
 (1) The Secretary of State may by regulations make provision for representative bodies to bring proceedings before a court or tribunal in England and Wales or Northern Ireland combining two or more relevant claims.
 
-(2) In this section, “**relevant claim**”, in relation to a representative body, means a claim in respect of a right of a data subject which the representative body is authorised to exercise on the data subject's behalf under Article 80(1) of the UK GDPR[^key-7bf8d12b13a9cff5b5baf9f27218e5d6] or section 187.
+(2) In this section, “**relevant claim**”, in relation to a representative body, means a claim in respect of a right of a data subject which the representative body is authorised to exercise on the data subject's behalf under Article 80(1) of the UK GDPR[^c-7bf8d12b13a9cff5b5baf9f27218e5d6] or section 187.
 
 (3) The power under subsection (1) includes power—
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c23269171]: Commencement: S. 188 in force at Royal Assent for specified purposes, see [s. 212(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f)
 
-[^key-bc71876f7b085a331fb2523e66d417c1]: Commencement: S. 188 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/e)
+[^c-bc71876f7b085a331fb2523e66d417c1]: Commencement: S. 188 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/e)
 
-[^key-7bf8d12b13a9cff5b5baf9f27218e5d6]: Textual amendment: Words in s. 188(2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/82) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bf8d12b13a9cff5b5baf9f27218e5d6]: Textual amendment: Words in s. 188(2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/82) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

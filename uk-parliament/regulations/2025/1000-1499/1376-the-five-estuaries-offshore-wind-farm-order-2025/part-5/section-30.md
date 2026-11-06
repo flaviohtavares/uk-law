@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Temporary use of land for carrying out the authorised development[^key-0f06361c9efeab7d843c8dd2792912a7]
+## 30. Temporary use of land for carrying out the authorised development[^c-0f06361c9efeab7d843c8dd2792912a7]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f06361c9efeab7d843c8dd2792912a7]: Commencement: Art. 30 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-0f06361c9efeab7d843c8dd2792912a7]: Commencement: Art. 30 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00046]: Footnote: Section 13 was amended by sections 139 of, and paragraph 28 of Schedule 13 and paragraph 1 of Schedule 23 to, the Tribunals Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

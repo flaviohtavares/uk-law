@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Choice of inquiry, hearing or written procedure[^key-f686b0d1203714c6dcd2dee86503155c][^key-f2db1fdf8f3222670478552ecc5f5aec]
+## 42. Choice of inquiry, hearing or written procedure[^c-f686b0d1203714c6dcd2dee86503155c][^c-f2db1fdf8f3222670478552ecc5f5aec]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f686b0d1203714c6dcd2dee86503155c]: Commencement: S. 42 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-f686b0d1203714c6dcd2dee86503155c]: Commencement: S. 42 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-f2db1fdf8f3222670478552ecc5f5aec]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2024/3/section/42) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-f2db1fdf8f3222670478552ecc5f5aec]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2024/3/section/42) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

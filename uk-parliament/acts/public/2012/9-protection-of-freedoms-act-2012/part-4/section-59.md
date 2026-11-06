@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Repeal of existing stop and search powers[^key-be6006b00fffd42d1428b665943a8991]
+## 59. Repeal of existing stop and search powers[^c-be6006b00fffd42d1428b665943a8991]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit sections 44 to 47 of the Terrorism Act 2000 (power to stop and search).
 
 ## Annotations
 
-[^key-be6006b00fffd42d1428b665943a8991]: Commencement: S. 59 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/c)
+[^c-be6006b00fffd42d1428b665943a8991]: Commencement: S. 59 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/c)

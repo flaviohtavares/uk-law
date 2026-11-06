@@ -85,7 +85,7 @@ is a document or other thing in relation to which an offence has been committed 
 
 (5) In this Article “**certificate of insurance**” and “**certificate of security**” include any document issued under regulations made by the Department under Article 103 which prescribe the evidence which may be produced in lieu of a certificate of insurance or a certificate of security.
 
-(5A)[^key-d4daa20c650209a0a32f09a49deaba6d] In this Article “international road haulage permit” means—
+(5A)[^c-d4daa20c650209a0a32f09a49deaba6d] In this Article “international road haulage permit” means—
 
 - (a) a licence, permit, authorisation or other document issued in pursuance of an EU instrument relating to the carriage of goods by road between member States or an international agreement to which the United Kingdom is a party and which relates to the international carriage of goods by road, or
 - (b) an international road transport permit, within the meaning given by section 1(2) of the Haulage Permits and Trailer Registration Act 2018.
@@ -112,6 +112,6 @@ is a document or other thing in relation to which an offence has been committed 
 
 [^c21045661]: Textual amendment: Art. 174(3A) inserted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [29(6)](https://www.legislation.gov.uk/nisi/2007/916/article/29/6); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
-[^key-d4daa20c650209a0a32f09a49deaba6d]: Textual amendment: [Art. 174(5A)](https://www.legislation.gov.uk/nisi/1981/154/article/174/5A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/2)
+[^c-d4daa20c650209a0a32f09a49deaba6d]: Textual amendment: [Art. 174(5A)](https://www.legislation.gov.uk/nisi/1981/154/article/174/5A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/19/schedule/paragraph/2)
 
 [^c20504051]: Textual amendment: Art. 174(6) repealed (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [86(2)](https://www.legislation.gov.uk/nisi/2007/916/article/86/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisi/2007/916/schedule/8/part/I); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)

@@ -79,13 +79,13 @@ B: authorised under Regulation (EC) No 834/2007
 </tbody>
 </table>
 
-[^key-ddbe0cc21d32d6e9f3a8532063ce9325][^f00042][^f00043]
+[^c-ddbe0cc21d32d6e9f3a8532063ce9325][^f00042][^f00043]
 
 ## Annotations
 
 [^c000026]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2019/2164 of 17 December 2019 amending Regulation (EC) No 889/2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007 on organic production and labelling of organic products with regard to organic production, labelling and control (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/2164).
 
-[^key-ddbe0cc21d32d6e9f3a8532063ce9325]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2008/889/annex/I) Table omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(55)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddbe0cc21d32d6e9f3a8532063ce9325]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2008/889/annex/I) Table omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(55)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00042]: Footnote: Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/ 2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive ([^c000026] [OJ L 54, 26.2.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.054.01.0001.01.ENG) ).
 

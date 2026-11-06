@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Application of the 1981 Act[^key-979f7777b0b87d022a8700d654f48435]
+## 28. Application of the 1981 Act[^c-979f7777b0b87d022a8700d654f48435]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-979f7777b0b87d022a8700d654f48435]: Commencement: Art. 28 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-979f7777b0b87d022a8700d654f48435]: Commencement: Art. 28 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
 [^f00026]: Footnote: Section 5B of the 1981 Act was inserted by section 202(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

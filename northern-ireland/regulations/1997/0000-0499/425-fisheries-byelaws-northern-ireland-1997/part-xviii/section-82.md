@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**82.**[^key-19301ead44da2306a4ac3db599dff3b0] A person shall not in any fisheries to which section 25 of the Act applies, take by any mode other than angling—
+**82.**[^c-19301ead44da2306a4ac3db599dff3b0] A person shall not in any fisheries to which section 25 of the Act applies, take by any mode other than angling—
 
 - (a) pike of a size less than 60 centimetres; or
 - (b) perch of a size less than 16.5 centimetres.
 
 ## Annotations
 
-[^key-19301ead44da2306a4ac3db599dff3b0]: Commencement: S. 82 in operation at 1.11.1997, see byelaw 1
+[^c-19301ead44da2306a4ac3db599dff3b0]: Commencement: S. 82 in operation at 1.11.1997, see byelaw 1

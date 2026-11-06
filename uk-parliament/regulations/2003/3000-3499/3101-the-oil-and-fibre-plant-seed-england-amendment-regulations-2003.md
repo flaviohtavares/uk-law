@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Oil and Fibre Plant Seed (England) (Amendment) Regulations 2003 (revoked)[^key-e97028955a4f135bcbaaab943d95ff5b]
+The Oil and Fibre Plant Seed (England) (Amendment) Regulations 2003 (revoked)[^c-e97028955a4f135bcbaaab943d95ff5b]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31st December 2003
 
-[^key-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e97028955a4f135bcbaaab943d95ff5b]
+## 1. Title and commencement[^c-e97028955a4f135bcbaaab943d95ff5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^key-e97028955a4f135bcbaaab943d95ff5b]
+## 2. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^c-e97028955a4f135bcbaaab943d95ff5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential Amendments[^key-e97028955a4f135bcbaaab943d95ff5b]
+## 3. Consequential Amendments[^c-e97028955a4f135bcbaaab943d95ff5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e97028955a4f135bcbaaab943d95ff5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e97028955a4f135bcbaaab943d95ff5b]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(g)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/g)
+[^c-e97028955a4f135bcbaaab943d95ff5b]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(g)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/g)

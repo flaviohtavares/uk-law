@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33BD. Promotion of reductions in home-heating costs: gas transporters and gas suppliers[^key-15203f7c99741cc7ce60c23c89e27bfa]
+## 33BD. Promotion of reductions in home-heating costs: gas transporters and gas suppliers[^c-15203f7c99741cc7ce60c23c89e27bfa]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ an obligation to achieve, within a specified period and in accordance with the o
 
 ## Annotations
 
-[^key-15203f7c99741cc7ce60c23c89e27bfa]: Textual amendment: S. 33BD inserted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 68](https://www.legislation.gov.uk/ukpga/2011/16/section/68), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
+[^c-15203f7c99741cc7ce60c23c89e27bfa]: Textual amendment: S. 33BD inserted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 68](https://www.legislation.gov.uk/ukpga/2011/16/section/68), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)

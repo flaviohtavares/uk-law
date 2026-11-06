@@ -29,7 +29,7 @@ summary: ''
 (4) This section does not apply to a contract which settles a complaint within section 120 if the contract—
 
 - (a) is made with the assistance of a conciliation officer, or
-- (b) is a qualifying settlement agreement[^key-ad03f7bb9458394bb56ebc24a7c9d9d3] .
+- (b) is a qualifying settlement agreement[^c-ad03f7bb9458394bb56ebc24a7c9d9d3] .
 
 (5) A contract within subsection (4) includes a contract which settles a complaint relating to a breach of an equality clause or rule or of a non-discrimination rule.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad03f7bb9458394bb56ebc24a7c9d9d3]: Textual amendment: Words in [s. 144(4)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/144/4/b) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-ad03f7bb9458394bb56ebc24a7c9d9d3]: Textual amendment: Words in [s. 144(4)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/144/4/b) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/5), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)

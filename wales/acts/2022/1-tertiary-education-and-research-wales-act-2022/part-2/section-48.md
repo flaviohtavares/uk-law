@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Publication of approved fee limit statement[^key-e6442958f973142befc7ebf7ce3756ca][^key-a601ceea0d1e34f28e44c10b047f8bc4]
+## 48. Publication of approved fee limit statement[^c-e6442958f973142befc7ebf7ce3756ca][^c-a601ceea0d1e34f28e44c10b047f8bc4]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6442958f973142befc7ebf7ce3756ca]: Commencement: S. 48 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-e6442958f973142befc7ebf7ce3756ca]: Commencement: S. 48 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-a601ceea0d1e34f28e44c10b047f8bc4]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2022/1/section/48) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(t)](https://www.legislation.gov.uk/wsi/2025/432/article/2/t)
+[^c-a601ceea0d1e34f28e44c10b047f8bc4]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2022/1/section/48) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(t)](https://www.legislation.gov.uk/wsi/2025/432/article/2/t)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**8A.**[^key-4c72c0c18155d48c113e4835c45d46dc] (1) Where a company knows or has cause to believe that the information in a notice given by the company under any provision of the Act mentioned in paragraph (2) is no longer true, the company must give notice to the registrar.
+**8A.**[^c-4c72c0c18155d48c113e4835c45d46dc] (1) Where a company knows or has cause to believe that the information in a notice given by the company under any provision of the Act mentioned in paragraph (2) is no longer true, the company must give notice to the registrar.
 
 (2) The provisions are—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c72c0c18155d48c113e4835c45d46dc]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2016/339/part/3A) inserted (18.11.2025) by [The Register of People with Significant Control (Amendment) Regulations 2025 (S.I. 2025/1036)](https://www.legislation.gov.uk/uksi/2025/1036), [regs. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2), [15(2)](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-4c72c0c18155d48c113e4835c45d46dc]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2016/339/part/3A) inserted (18.11.2025) by [The Register of People with Significant Control (Amendment) Regulations 2025 (S.I. 2025/1036)](https://www.legislation.gov.uk/uksi/2025/1036), [regs. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2), [15(2)](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)

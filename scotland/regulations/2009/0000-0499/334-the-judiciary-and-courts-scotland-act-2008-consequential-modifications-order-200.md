@@ -48,7 +48,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with sections 10(2) of the 1974 Act and 71(4)(b) of the 2008 Act, a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, interpretation and commencement[^key-234c04e58d0b9c5c764c33522b35457b][^key-234c04e58d0b9c5c764c33522b35457b]
+## 1. Citation, interpretation and commencement[^c-234c04e58d0b9c5c764c33522b35457b][^c-234c04e58d0b9c5c764c33522b35457b]
 
 (1) This Order may be cited as the Judiciary and Courts (Scotland) Act 2008 (Consequential Modifications) Order 2009.
 
@@ -62,17 +62,17 @@ In accordance with sections 10(2) of the 1974 Act and 71(4)(b) of the 2008 Act, 
 
 (6) Article 4 comes into force on 1st October 2009.
 
-## 2. Modification of the Promissory Oaths Act 1871[^key-59a2f9f91646a6a37af1ead3593ab93e]
+## 2. Modification of the Promissory Oaths Act 1871[^c-59a2f9f91646a6a37af1ead3593ab93e]
 
 In section 2 of the Promissory Oaths Act 1871[^f00003] (persons before whom oaths to be taken) in the third paragraph (relating to Scotland) after the words “acts as justice” insert “or sheriff, or, for a part-time sheriff, in open court before any sheriff principal”.
 
-## 3. Modification of the Sheriff Courts (Scotland) Act 1971[^key-c17c2566acd60d2036703e4bcc10b062][^key-a5db10f416b13ccec861b952e744b3ae]
+## 3. Modification of the Sheriff Courts (Scotland) Act 1971[^c-c17c2566acd60d2036703e4bcc10b062][^c-a5db10f416b13ccec861b952e744b3ae]
 
-(1)[^key-c17c2566acd60d2036703e4bcc10b062] In section 11B(4) of the Sheriff Courts (Scotland) Act 1971[^f00004] (limitation, termination etc of appointment of part-time sheriffs), for “section 11C” substitute “section 12E”.
+(1)[^c-c17c2566acd60d2036703e4bcc10b062] In section 11B(4) of the Sheriff Courts (Scotland) Act 1971[^f00004] (limitation, termination etc of appointment of part-time sheriffs), for “section 11C” substitute “section 12E”.
 
-(2)[^key-a5db10f416b13ccec861b952e744b3ae] In section 19 for the words from “The Secretary of State” to “Treasury” substitute “The Scottish Court Service may pay to any sheriff principal such allowances as it”.
+(2)[^c-a5db10f416b13ccec861b952e744b3ae] In section 19 for the words from “The Secretary of State” to “Treasury” substitute “The Scottish Court Service may pay to any sheriff principal such allowances as it”.
 
-## 4. Modification of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-fe34b617f6eed4649bfbd4943cc6e57d]
+## 4. Modification of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-fe34b617f6eed4649bfbd4943cc6e57d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,16 +106,16 @@ Article 4 inserts four new entries into part 2 of schedule 4 to the Rehabilitati
 
 [^f00002]: Footnote: [2008 asp 6](https://www.legislation.gov.uk/asp/2008/6).
 
-[^key-234c04e58d0b9c5c764c33522b35457b]: Commencement: Art. 1 in force at made date
+[^c-234c04e58d0b9c5c764c33522b35457b]: Commencement: Art. 1 in force at made date
 
-[^key-59a2f9f91646a6a37af1ead3593ab93e]: Commencement: Art. 2 in force at 1.10.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2009/334/article/1/3)
+[^c-59a2f9f91646a6a37af1ead3593ab93e]: Commencement: Art. 2 in force at 1.10.2009, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2009/334/article/1/3)
 
 [^f00003]: Footnote: [1871 c.48](https://www.legislation.gov.uk/ukpga/1871/48) (34 and 35 Vict.)
 
-[^key-c17c2566acd60d2036703e4bcc10b062]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/ssi/2009/334/article/3/1) in force at 1.4.2010, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2009/334/article/1/4)
+[^c-c17c2566acd60d2036703e4bcc10b062]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/ssi/2009/334/article/3/1) in force at 1.4.2010, see [art. 1(4)](https://www.legislation.gov.uk/ssi/2009/334/article/1/4)
 
-[^key-a5db10f416b13ccec861b952e744b3ae]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/ssi/2009/334/article/3/2) in force at 1.4.2010, see [art. 1(5)](https://www.legislation.gov.uk/ssi/2009/334/article/1/5)
+[^c-a5db10f416b13ccec861b952e744b3ae]: Commencement: [Art. 3(2)](https://www.legislation.gov.uk/ssi/2009/334/article/3/2) in force at 1.4.2010, see [art. 1(5)](https://www.legislation.gov.uk/ssi/2009/334/article/1/5)
 
 [^f00004]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58), section 11B was inserted by section 7 of the Bail, Judicial Appointments etc. (Scotland) Act 2000, asp 9.
 
-[^key-fe34b617f6eed4649bfbd4943cc6e57d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2009/334/article/4) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-fe34b617f6eed4649bfbd4943cc6e57d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2009/334/article/4) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Inspectors and inspections: miscellaneous[^key-5441b6aabb9224a77c449fe5ebef79f5][^c22718701]
+## 37. Inspectors and inspections: miscellaneous[^c-5441b6aabb9224a77c449fe5ebef79f5][^c22718701]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5441b6aabb9224a77c449fe5ebef79f5]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/3/section/37) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a) (with [regs. 7](https://www.legislation.gov.uk/uksi/2017/399/regulation/7), [8](https://www.legislation.gov.uk/uksi/2017/399/regulation/8))
+[^c-5441b6aabb9224a77c449fe5ebef79f5]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/3/section/37) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a) (with [regs. 7](https://www.legislation.gov.uk/uksi/2017/399/regulation/7), [8](https://www.legislation.gov.uk/uksi/2017/399/regulation/8))
 
 [^c22718701]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/3/section/37) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)

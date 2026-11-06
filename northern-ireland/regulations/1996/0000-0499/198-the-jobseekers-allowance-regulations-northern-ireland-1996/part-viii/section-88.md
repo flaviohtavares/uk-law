@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^key-abe9356051a56d1efb05dd847c2c5aaa]
+## 88. Calculation of income and capital of members of claimant’s family and of a polygamous marriage[^c-abe9356051a56d1efb05dd847c2c5aaa]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abe9356051a56d1efb05dd847c2c5aaa]: Commencement: Reg. 88 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-abe9356051a56d1efb05dd847c2c5aaa]: Commencement: Reg. 88 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

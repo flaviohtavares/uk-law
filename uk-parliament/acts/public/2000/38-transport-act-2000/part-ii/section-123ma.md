@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123MA. Variation of scheme: supplementary[^key-4579dc740bc90d5c996685ae19143a56][^key-f6b9d93c45c0837c95e6bd6eb678281d]
+## 123MA. Variation of scheme: supplementary[^c-4579dc740bc90d5c996685ae19143a56][^c-f6b9d93c45c0837c95e6bd6eb678281d]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4579dc740bc90d5c996685ae19143a56]: Textual amendment: [S. 123MA](https://www.legislation.gov.uk/ukpga/2000/38/section/123MA) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/11/3), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
+[^c-4579dc740bc90d5c996685ae19143a56]: Textual amendment: [S. 123MA](https://www.legislation.gov.uk/ukpga/2000/38/section/123MA) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/11/3), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/46/regulation/5))
 
-[^key-f6b9d93c45c0837c95e6bd6eb678281d]: Textual amendment: Ss. 123A-123X and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-f6b9d93c45c0837c95e6bd6eb678281d]: Textual amendment: Ss. 123A-123X and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)

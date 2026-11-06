@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E15. Reduction of retirement pension in the case of certain re-employed pensioners[^key-66560df0290cb138be391c6b83ff4f04]
+## E15. Reduction of retirement pension in the case of certain re-employed pensioners[^c-66560df0290cb138be391c6b83ff4f04]
 
 *Extent: E+W+S*
 
@@ -120,6 +120,6 @@ unless, within 3 months after entering his new employment, he elects by notice i
 
 ## Annotations
 
-[^key-66560df0290cb138be391c6b83ff4f04]: Commencement: [Reg. E15](https://www.legislation.gov.uk/uksi/1986/24/regulation/E15) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-66560df0290cb138be391c6b83ff4f04]: Commencement: [Reg. E15](https://www.legislation.gov.uk/uksi/1986/24/regulation/E15) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00040]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

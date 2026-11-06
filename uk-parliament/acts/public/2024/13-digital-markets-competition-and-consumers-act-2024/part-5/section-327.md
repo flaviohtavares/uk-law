@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 327. Duty of expedition on the CMA and sectoral regulators[^key-865989722577e78ce0b188dee9e7a128]
+## 327. Duty of expedition on the CMA and sectoral regulators[^c-865989722577e78ce0b188dee9e7a128]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9b2bc48e31587e8e9ca1215acd18026a] In section 25 of ERRA 2013 (the Competition and Markets Authority), after subsection (4) insert—
+(1)[^c-9b2bc48e31587e8e9ca1215acd18026a] In section 25 of ERRA 2013 (the Competition and Markets Authority), after subsection (4) insert—
 
 > (5) In making any decision, or otherwise taking action, for the purposes of any of its functions within Schedule 4A the CMA must have regard to the need for making a decision, or taking action, as soon as reasonably practicable.
 
-(2)[^key-642d89f8de598ae94395d6561824e73f][^key-7eb63fc0e1049072a188da90824fed10] After Schedule 4 to ERRA 2013 insert—
+(2)[^c-642d89f8de598ae94395d6561824e73f][^c-7eb63fc0e1049072a188da90824fed10] After Schedule 4 to ERRA 2013 insert—
 
 > **Schedule 4A — Functions to which the CMA’s duty of expedition applies**
 >
@@ -102,21 +102,21 @@ summary: ''
 > - (c) section 91 (statement of policy on penalties);
 > - (d) section 114 (guidance about functions under Part 1).
 
-(3)[^key-9b2bc48e31587e8e9ca1215acd18026a] In consequence of the amendments made by subsections (1) and (2)—
+(3)[^c-9b2bc48e31587e8e9ca1215acd18026a] In consequence of the amendments made by subsections (1) and (2)—
 
 - (a) in section 103 of EA 2002 (duty of expedition in relation to references)—
   - (i) in the heading, at the end insert “under section 45 or 62”;
   - (ii) omit subsection (1);
 - (b) in the Water Mergers (Modification of Enactments) Regulations 2004 ([S.I. 2004/3202](https://www.legislation.gov.uk/uksi/2004/3202)) omit Article 25A (modification of section 103 of EA 2002).
 
-(4)[^key-9b2bc48e31587e8e9ca1215acd18026a] Schedule 29 makes provision imposing a duty of expedition on sectoral regulators in respect of their competition functions that are exercisable concurrently with the CMA.
+(4)[^c-9b2bc48e31587e8e9ca1215acd18026a] Schedule 29 makes provision imposing a duty of expedition on sectoral regulators in respect of their competition functions that are exercisable concurrently with the CMA.
 
 ## Annotations
 
-[^key-865989722577e78ce0b188dee9e7a128]: Commencement: S. 327 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-865989722577e78ce0b188dee9e7a128]: Commencement: S. 327 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9b2bc48e31587e8e9ca1215acd18026a]: Commencement: [S. 327(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/1)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/3)[(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/i)
+[^c-9b2bc48e31587e8e9ca1215acd18026a]: Commencement: [S. 327(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/1)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/3)[(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/4) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/i)
 
-[^key-642d89f8de598ae94395d6561824e73f]: Commencement: [S. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2) in force at 1.1.2025 for specified purposes by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/ii)
+[^c-642d89f8de598ae94395d6561824e73f]: Commencement: [S. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2) in force at 1.1.2025 for specified purposes by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/ii)
 
-[^key-7eb63fc0e1049072a188da90824fed10]: Commencement: [S. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/4)
+[^c-7eb63fc0e1049072a188da90824fed10]: Commencement: [S. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/4)

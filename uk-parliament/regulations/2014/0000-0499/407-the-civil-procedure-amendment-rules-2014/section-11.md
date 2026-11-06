@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**11.**[^key-307ac18bf41597583a7f68b8c0f810ef] In rule 16.3, in paragraph (5)(a), for “£25,000” substitute “£100,000”.
+**11.**[^c-307ac18bf41597583a7f68b8c0f810ef] In rule 16.3, in paragraph (5)(a), for “£25,000” substitute “£100,000”.
 
 ## Annotations
 
-[^key-307ac18bf41597583a7f68b8c0f810ef]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/407/rule/11) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-307ac18bf41597583a7f68b8c0f810ef]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/407/rule/11) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

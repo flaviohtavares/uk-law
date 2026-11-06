@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Meaning of “artificial”[^key-97ccc1201504d61d49b5f635a0be3d56]
+## 64. Meaning of “artificial”[^c-97ccc1201504d61d49b5f635a0be3d56]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ is an example of something that might indicate that the arrangement is not artif
 
 ## Annotations
 
-[^key-97ccc1201504d61d49b5f635a0be3d56]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/16/section/64) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-97ccc1201504d61d49b5f635a0be3d56]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/16/section/64) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

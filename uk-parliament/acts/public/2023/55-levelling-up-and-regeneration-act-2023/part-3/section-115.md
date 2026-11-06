@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Time limits for enforcement[^key-0fa0be5ae272c833f183c11b5804676e][^key-7ab25efc1d6895b349835d22bf67369e]
+## 115. Time limits for enforcement[^c-0fa0be5ae272c833f183c11b5804676e][^c-7ab25efc1d6895b349835d22bf67369e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fa0be5ae272c833f183c11b5804676e]: Commencement: S. 115 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-0fa0be5ae272c833f183c11b5804676e]: Commencement: S. 115 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-7ab25efc1d6895b349835d22bf67369e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/55/section/115) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/452/regulation/5))
+[^c-7ab25efc1d6895b349835d22bf67369e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/55/section/115) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/452/regulation/5))

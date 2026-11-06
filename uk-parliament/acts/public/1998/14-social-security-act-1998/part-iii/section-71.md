@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 71. Budgeting loans: criteria for making awards[^key-e2c1183f2c00745f67861dcb4c5b4b62]
+## 71. Budgeting loans: criteria for making awards[^c-e2c1183f2c00745f67861dcb4c5b4b62]
 
 (1) In subsection (1) of section 140 of the Contributions and Benefits Act (social fund: principles of determination), after the word “award” there shall be inserted the words “of a community care grant or a crisis loan”.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2c1183f2c00745f67861dcb4c5b4b62]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/1998/14/section/71) in force at 5.4.1999 by [S.I. 1999/1055](https://www.legislation.gov.uk/uksi/1999/1055), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1055/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1055/article/3))
+[^c-e2c1183f2c00745f67861dcb4c5b4b62]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/1998/14/section/71) in force at 5.4.1999 by [S.I. 1999/1055](https://www.legislation.gov.uk/uksi/1999/1055), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/1055/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1055/article/3))

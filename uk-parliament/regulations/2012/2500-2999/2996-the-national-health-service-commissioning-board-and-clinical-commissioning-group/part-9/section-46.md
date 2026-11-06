@@ -31,7 +31,7 @@ summary: ''
 (5) The referred person is notified, verbally or in writing, that the calculation of the period of eighteen weeks beginning on the start date no longer applies in their case because—
 
 - (a) it is more appropriate for that person to receive treatment from a primary care service;
-- (b) a clinical decision is made to start a period of monitoring of that person [^key-22fa5f98be3d842f4dce9e229ca424a6]...;
+- (b) a clinical decision is made to start a period of monitoring of that person [^c-22fa5f98be3d842f4dce9e229ca424a6]...;
 - (c) a clinical decision is made that no treatment should be provided to that person;
 - (d) they did not attend the first appointment made as a result of the referral by the health service provider to whom they were referred and they—
   - (i) had been made aware of the consequences of not attending an appointment, and
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22fa5f98be3d842f4dce9e229ca424a6]: Textual amendment: Words in [reg. 46(5)(b)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/46/5/b) omitted (1.1.2024) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(7)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/7)
+[^c-22fa5f98be3d842f4dce9e229ca424a6]: Textual amendment: Words in [reg. 46(5)(b)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/46/5/b) omitted (1.1.2024) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1105)](https://www.legislation.gov.uk/uksi/2023/1105), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/1/b), [2(7)](https://www.legislation.gov.uk/uksi/2023/1105/regulation/2/7)

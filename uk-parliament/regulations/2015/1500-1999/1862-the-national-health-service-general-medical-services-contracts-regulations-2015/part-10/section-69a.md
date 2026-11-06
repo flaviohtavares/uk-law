@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69A. Transfer of patient records between GP practices: time limits[^key-351da267920b3533aa15a23321a5e893]
+## 69A. Transfer of patient records between GP practices: time limits[^c-351da267920b3533aa15a23321a5e893]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The contractor must, before the end of the period of 28 days beginning with the day on which it receives the request from the provider—
 
 - (a) send the complete records (other than any part of the records held only in paper form) to the provider via the GP2GP facility in accordance with regulation 69, and
-- (b) send to NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] in accordance with regulation 67(5A), the complete records, or any part of the records—
+- (b) send to NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] in accordance with regulation 67(5A), the complete records, or any part of the records—
   - (i) for which the contractor does not receive a confirmation, or
   - (ii) held only in paper form.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-351da267920b3533aa15a23321a5e893]: Textual amendment: Reg. 69A inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/27) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-351da267920b3533aa15a23321a5e893]: Textual amendment: Reg. 69A inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/27) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

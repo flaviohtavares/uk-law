@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Possession claim against contract-holder where there is a sub-holder[^key-0d232128f616696f3a24b31d633464b5]
+## 64. Possession claim against contract-holder where there is a sub-holder[^c-0d232128f616696f3a24b31d633464b5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d232128f616696f3a24b31d633464b5]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2016/1/section/64) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-0d232128f616696f3a24b31d633464b5]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2016/1/section/64) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.81. General power to call meetings[^key-7d7260da6b42feb6f9539845bbaab6d0]
+## 6.81. General power to call meetings[^c-7d7260da6b42feb6f9539845bbaab6d0]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ The notice shall be given at least 21 days before the date fixed for the meeting
 
 ## Annotations
 
-[^key-7d7260da6b42feb6f9539845bbaab6d0]: Commencement: [Rule 6.81](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.81) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7d7260da6b42feb6f9539845bbaab6d0]: Commencement: [Rule 6.81](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.81) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00154]: Marginal citation: \[FORM 6.35\]

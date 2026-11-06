@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.8. Form for defence etc. must be served with particulars of claim[^key-5397b2a148d102b2c64407e42b2c4e12]
+## 7.8. Form for defence etc. must be served with particulars of claim[^c-5397b2a148d102b2c64407e42b2c4e12]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5397b2a148d102b2c64407e42b2c4e12]: Commencement: [Rule 7.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-5397b2a148d102b2c64407e42b2c4e12]: Commencement: [Rule 7.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

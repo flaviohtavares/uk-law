@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14.5. Lodging opposed motions by email[^key-e0ded1cfc61f3e6d5c97303668958f98]
+## 14.5. Lodging opposed motions by email[^c-e0ded1cfc61f3e6d5c97303668958f98]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ded1cfc61f3e6d5c97303668958f98]: Commencement: Para. 14.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-e0ded1cfc61f3e6d5c97303668958f98]: Commencement: Para. 14.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

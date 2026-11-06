@@ -56,7 +56,7 @@ Section 86(2).
 - (a) for the local authority members to be appointed by such of the local authorities for areas wholly or partly comprised in the area of outstanding natural beauty as may be specified in or determined under the order (“the relevant councils”), or
 - (b) for the local authority members to be appointed by such of the relevant councils as may be determined in accordance with a scheme contained in the relevant order.
 
-(3) A person shall not be appointed as a local authority member of a conservation board unless he is a member of a local authority the area of which is wholly or partly comprised in the relevant area of outstanding natural beauty; and, in appointing local authority members of a conservation board, a local authority shall have regard to the desirability of appointing members of the authority who represent wards, or (in Wales) electoral wards[^key-446257a8dfc5d80dd9af76902b14a722], situated wholly or partly within the relevant area of outstanding natural beauty.
+(3) A person shall not be appointed as a local authority member of a conservation board unless he is a member of a local authority the area of which is wholly or partly comprised in the relevant area of outstanding natural beauty; and, in appointing local authority members of a conservation board, a local authority shall have regard to the desirability of appointing members of the authority who represent wards, or (in Wales) electoral wards[^c-446257a8dfc5d80dd9af76902b14a722], situated wholly or partly within the relevant area of outstanding natural beauty.
 
 (4) Subject to the following provisions of this Schedule and to the provisions of the relevant order, where a person who qualifies for his appointment by virtue of his membership of any local authority is appointed as a local authority member of a conservation board—
 
@@ -102,9 +102,9 @@ becomes a member of the parish council again as a newly elected councillor or, a
 
 ### Members appointed by the Secretary of State or the National Assembly for Wales
 
-**6.**[^c1057221] (1) Before appointing any person as a member of a conservation board, the Secretary of State shall consult Natural England[^key-a99e96c4152316588665aaa623778675].
+**6.**[^c1057221] (1) Before appointing any person as a member of a conservation board, the Secretary of State shall consult Natural England[^c-a99e96c4152316588665aaa623778675].
 
-(2) Before appointing any person as a member of a conservation board, the National Assembly for Wales shall consult the NRBW[^key-bc621f0039bfbe95fa7d90c11e3054e3].
+(2) Before appointing any person as a member of a conservation board, the National Assembly for Wales shall consult the NRBW[^c-bc621f0039bfbe95fa7d90c11e3054e3].
 
 (3) Subject to the following provisions of this Schedule and to the provisions of the relevant order, a person appointed as a member of a conservation board by the Secretary of State or the National Assembly for Wales—
 
@@ -127,7 +127,7 @@ becomes a member of the parish council again as a newly elected councillor or, a
 
 ### Audit
 
-**8.**[^key-6569b1e3a26c64568e382accb5ea8d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6569b1e3a26c64568e382accb5ea8d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -139,7 +139,7 @@ becomes a member of the parish council again as a newly elected councillor or, a
 
 [^c1057218]: Commencement: Sch. 13 para. 4 wholly in force at 1.5.2001; Sch. 13 para. 4 not in force at Royal Assent see s. 103(3); Sch. 13 para. 4 in force for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); Sch. 13 para. 4 in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-446257a8dfc5d80dd9af76902b14a722]: Textual amendment: Word in [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/4/3) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/10)
+[^c-446257a8dfc5d80dd9af76902b14a722]: Textual amendment: Word in [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/4/3) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/10)
 
 [^c1057219]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -147,10 +147,10 @@ becomes a member of the parish council again as a newly elected councillor or, a
 
 [^c1057221]: Commencement: Sch. 13 para. 6 wholly in force at 1.5.2001; Sch. 13 para. 6 not in force at Royal Assent see s. 103(3); Sch. 13 para. 6 in force for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); Sch. 13 para. 6 in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-a99e96c4152316588665aaa623778675]: Textual amendment: Words in Sch. 13 para. 6(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 164(f)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/164/f); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a99e96c4152316588665aaa623778675]: Textual amendment: Words in Sch. 13 para. 6(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 164(f)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/164/f); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-bc621f0039bfbe95fa7d90c11e3054e3]: Textual amendment: Word in Sch. 13 para. 6(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 412](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/412) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-bc621f0039bfbe95fa7d90c11e3054e3]: Textual amendment: Word in Sch. 13 para. 6(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 412](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/412) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1057222]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/7) wholly in force at 1.5.2001; [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/7) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/7) in force for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2000/37/schedule/13/paragraph/7) in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-6569b1e3a26c64568e382accb5ea8d2e]: Textual amendment: Sch. 13 para. 8 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-6569b1e3a26c64568e382accb5ea8d2e]: Textual amendment: Sch. 13 para. 8 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

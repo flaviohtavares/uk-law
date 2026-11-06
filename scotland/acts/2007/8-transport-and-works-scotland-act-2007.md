@@ -32,13 +32,13 @@ Transport and Works (Scotland) Act 2007
 
 An Act of the Scottish Parliament to provide for the making of orders related to, or to matters connected with, the construction or operation of railways, tramways, other guided transport systems, trolley vehicle systems and inland waterways; to make changes to procedures applicable to orders and schemes under the Roads (Scotland) Act 1984, the Harbours Act 1964 and the Pilotage Act 1987; to make further provision as regards grants for purposes relating to transport; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th February 2007 and received Royal Assent on 14th March 2007[^key-690272486b03628d0faf11d9e313082d]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th February 2007 and received Royal Assent on 14th March 2007[^c-690272486b03628d0faf11d9e313082d]
 
 ## Part 1 — Orders authorising works etc.
 
 ### Power to make orders
 
-#### 1. Orders as to transport systems and inland waterways[^key-e510ffb18f863eb91eded71dfa82fd5f]
+#### 1. Orders as to transport systems and inland waterways[^c-e510ffb18f863eb91eded71dfa82fd5f]
 
 (1) The Scottish Ministers may make an order relating to, or to matters connected with—
 
@@ -51,7 +51,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) The Scottish Ministers shall not make an order under paragraph (b) of subsection (1) if in their opinion the primary object of the order could be achieved by means of an order under the Harbours Act 1964 (c. 40).
 
-#### 2. Subject-matter of orders under section 1[^key-1b60d2ff02de619b684eb1c2bce776d4][^key-e5556f69246572de8283518d3545535a]
+#### 2. Subject-matter of orders under section 1[^c-1b60d2ff02de619b684eb1c2bce776d4][^c-e5556f69246572de8283518d3545535a]
 
 (1) Without prejudice to the generality of section 1, the matters as to which provision may be made by an order under that section include those set out in schedule 1.
 
@@ -85,7 +85,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) that an alternative right of way has been or will be provided, or
 - (b) that the provision of an alternative right of way is not required.
 
-#### 3. Crown land[^key-bf1e2db003e2567a49814b3b74c7422d][^key-6c3840f85d84a8df342d18660b28f951]
+#### 3. Crown land[^c-bf1e2db003e2567a49814b3b74c7422d][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) If the appropriate authority agrees—
 
@@ -105,12 +105,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 (4) In this section, the appropriate authority, in the case of—
 
 - (a) land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners,
-- (b) other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration who, or as the case may be the government department which, has management of the land or the relevant person[^key-49677db35e5fa04ff16dc1d8c6db9014],
+- (b) other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration who, or as the case may be the government department which, has management of the land or the relevant person[^c-49677db35e5fa04ff16dc1d8c6db9014],
 - (c) land belonging to Her Majesty in right of Her private estates, means a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
 - (d) land belonging to, or held in trust for Her Majesty for the purposes of the Scottish Administration by, such an office-holder, means that office-holder,
 - (e) land belonging to, or held in trust for Her Majesty for the purposes of, a government department, means that government department.
 
-(4A)[^key-f057824b87c1ebcf3d634865d9553902] In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(4A)[^c-f057824b87c1ebcf3d634865d9553902] In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (5) The references in subsections (3)(a) and (4)(c) to Her Majesty's private estates are to be construed in accordance with section 1 of the Crown Private Estates Act 1862 (c. 37).
 
@@ -118,7 +118,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Procedure for making orders
 
-#### 4. Applications[^key-c5aa0aa07da60ac92706c3b1eb21a290][^key-6c3840f85d84a8df342d18660b28f951]
+#### 4. Applications[^c-c5aa0aa07da60ac92706c3b1eb21a290][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may make an order under section 1 on an application made to them in accordance with rules made under this section.
 
@@ -153,17 +153,17 @@ in any case where they consider it appropriate to do so.
 
 (6) Rules under this section may provide for fees of such amounts as may be determined by, or in accordance with, the rules to be payable to the Scottish Ministers in connection with applications made under this section.
 
-(7) In subsection (4)(a), “**relevant authority**” means [^key-1cd6d6fc2bdb9127b8ff60ddc5e3daa1]...—
+(7) In subsection (4)(a), “**relevant authority**” means [^c-1cd6d6fc2bdb9127b8ff60ddc5e3daa1]...—
 
 - (a) Scottish Natural Heritage,
 - (b) the Scottish Environment Protection Agency,
 - (c) a local authority, and
 - (d) a National Park authority.
-- (e)[^key-f07e8180fd0b20f34936e1cfa53508da] Historic Environment Scotland.
+- (e)[^c-f07e8180fd0b20f34936e1cfa53508da] Historic Environment Scotland.
 
-#### 5. Cases where ... Member States are affected[^key-68b0c5e92c1d305fa0a340d40a58e7ce][^key-6c3840f85d84a8df342d18660b28f951][^key-71d39ffda89f33ab7054259c464b3e02]
+#### 5. Cases where ... Member States are affected[^c-68b0c5e92c1d305fa0a340d40a58e7ce][^c-6c3840f85d84a8df342d18660b28f951][^c-71d39ffda89f33ab7054259c464b3e02]
 
-(1) The power to make rules under subsection (2) of section 4 includes power to make, for a case where an application has been made under that section and a[^key-f84f06f3657ada6a5df6ccbb4be56779] Member State is affected by the project in question, rules as to—
+(1) The power to make rules under subsection (2) of section 4 includes power to make, for a case where an application has been made under that section and a[^c-f84f06f3657ada6a5df6ccbb4be56779] Member State is affected by the project in question, rules as to—
 
 - (a) the provision by the Scottish Ministers to—
   - (i) the Member State,
@@ -178,14 +178,14 @@ in any case where they consider it appropriate to do so.
 
   on the application.
 
-(2) For the purposes of subsection (1), the cases where a[^key-430f157dc6f1fac41e8dcf98cbec5472] Member State is affected by a project are those cases where—
+(2) For the purposes of subsection (1), the cases where a[^c-430f157dc6f1fac41e8dcf98cbec5472] Member State is affected by a project are those cases where—
 
-- (a) it appears to the Scottish Ministers that the project would be likely to have significant effects on the environment in that[^key-feb78df8083c17201f0f1664f4721865] Member State, or
-- (b) that[^key-f60e733ff3b2f9ab067d25594a9771ef] Member State is likely to be affected significantly by the project and requests information relating to the application.
+- (a) it appears to the Scottish Ministers that the project would be likely to have significant effects on the environment in that[^c-feb78df8083c17201f0f1664f4721865] Member State, or
+- (b) that[^c-f60e733ff3b2f9ab067d25594a9771ef] Member State is likely to be affected significantly by the project and requests information relating to the application.
 
-(3) In this section “**Member State**” includes a state which is a contracting party to the EEA Agreement[^key-c463d0a61001faefd2b83c36f25a6549].
+(3) In this section “**Member State**” includes a state which is a contracting party to the EEA Agreement[^c-c463d0a61001faefd2b83c36f25a6549].
 
-#### 6. Orders made otherwise than on application[^key-2d30b83cbf9b224b80b229accca68e8a][^key-6c3840f85d84a8df342d18660b28f951]
+#### 6. Orders made otherwise than on application[^c-2d30b83cbf9b224b80b229accca68e8a][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may (without any application being made to them)—
 
@@ -212,7 +212,7 @@ in any case where they consider it appropriate to do so.
 
 (5) Without prejudice to the generality of subsection (4), in that subsection “**corresponding provision**” includes provision by rules corresponding to such rules as are mentioned in section 5(1).
 
-#### 7. Model provisions[^key-0161365f43b1af7e742480bf54d22ab0][^key-6c3840f85d84a8df342d18660b28f951]
+#### 7. Model provisions[^c-0161365f43b1af7e742480bf54d22ab0][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may issue (and whenever they do so are to publish) guidance comprising model provisions for incorporation in any draft orders which, in accordance with rules made under section 4, may be required to be submitted with applications under that section.
 
@@ -220,7 +220,7 @@ in any case where they consider it appropriate to do so.
 
 (3) The power to issue guidance under subsection (1) includes power to revoke or amend guidance issued under that subsection.
 
-#### 8. Objections and representations[^key-18ef0aced0e6639a3f6438dcb4e94722][^key-6c3840f85d84a8df342d18660b28f951]
+#### 8. Objections and representations[^c-18ef0aced0e6639a3f6438dcb4e94722][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may make rules as to—
 
@@ -272,7 +272,7 @@ as they apply to the making of objections to such an application or proposal.
 
 (9) In subsection (8) and in section 9, “**representations**” does not include representations submitted by virtue of paragraph (c) or (d) of subsection (1).
 
-#### 9. Inquiries and hearings[^key-281d15ee7c27cd5f8d48e1d12af7a90e][^key-6c3840f85d84a8df342d18660b28f951]
+#### 9. Inquiries and hearings[^c-281d15ee7c27cd5f8d48e1d12af7a90e][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may cause a public local inquiry to be held for the purposes of—
 
@@ -299,7 +299,7 @@ then, unless section 8(3) applies, the Scottish Ministers must either cause an i
 
 (5) In subsection (4)(d), “**navigation authority**” means a person authorised by any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock.
 
-#### 10. Procedure at inquiries and hearings[^key-17705f10fea6c652305106f792dec2ca][^key-6c3840f85d84a8df342d18660b28f951]
+#### 10. Procedure at inquiries and hearings[^c-17705f10fea6c652305106f792dec2ca][^c-6c3840f85d84a8df342d18660b28f951]
 
 (1) The Scottish Ministers may make rules regulating the procedure to be followed in connection with—
 
@@ -317,16 +317,16 @@ then, unless section 8(3) applies, the Scottish Ministers must either cause an i
 
 (5) Before making rules under this section, the Scottish Ministers must consult the Council on Tribunals and that Council must consult its Scottish Committee.
 
-#### 11. Making or refusal of orders under section 1[^key-adf0b5ca694ecd590decfcbfba640317]
+#### 11. Making or refusal of orders under section 1[^c-adf0b5ca694ecd590decfcbfba640317]
 
-(1)[^key-1057092193197afdbd846248d2c81dc1] This section applies where—
+(1)[^c-1057092193197afdbd846248d2c81dc1] This section applies where—
 
 - (a) an application is made to the Scottish Ministers under section 4, or
 - (b) they propose to make an order by virtue of section 6,
 
 and the requirements of the preceding provisions of this Act in relation to any objections have been satisfied.
 
-(2)[^key-1057092193197afdbd846248d2c81dc1] The Scottish Ministers may determine—
+(2)[^c-1057092193197afdbd846248d2c81dc1] The Scottish Ministers may determine—
 
 - (a) to make an order under section 1 which gives effect to the proposals concerned without modification,
 - (b) to make an order under that section which gives effect to those proposals with modifications, or
@@ -339,21 +339,21 @@ and the requirements of the preceding provisions of this Act in relation to any 
 
 where this section applies by virtue of paragraph (a) of subsection (1) but the Scottish Ministers consider that any of the objects of the order applied for could be achieved other than by means of such an order, they may on that ground determine to decline to make an order.
 
-(4)[^key-503474cbd10227ea95b7923a4927096f] The Scottish Ministers' powers under subsection (2) include the power to make a determination in respect of some only of the proposals concerned, while making a separate determination in respect of, or deferring consideration of, others (and accordingly the power to make an order under section 1 includes power to make two or more orders on the same application).
+(4)[^c-503474cbd10227ea95b7923a4927096f] The Scottish Ministers' powers under subsection (2) include the power to make a determination in respect of some only of the proposals concerned, while making a separate determination in respect of, or deferring consideration of, others (and accordingly the power to make an order under section 1 includes power to make two or more orders on the same application).
 
-(5)[^key-503474cbd10227ea95b7923a4927096f] Where the Scottish Ministers propose to make an order giving effect, with modifications, to the proposals concerned being modifications which in their opinion make a substantial change in the proposals, they are—
+(5)[^c-503474cbd10227ea95b7923a4927096f] Where the Scottish Ministers propose to make an order giving effect, with modifications, to the proposals concerned being modifications which in their opinion make a substantial change in the proposals, they are—
 
 - (a) to notify any person who appears to them likely to be affected by the change,
 - (b) to give that person an opportunity to make representations to them about the modifications within such period as they may specify in the notification, and
 - (c) before making the order, to consider any representations timeously made to them by that person.
 
-(6)[^key-503474cbd10227ea95b7923a4927096f] An order under section[^key-2581b27137e2f15f9e8dee8b6e962725] 1 which is not subject to the affirmative procedure by virtue of section 13 comes into force on the date on which the notice required by section 12(1)(c) is first published unless a later date for its coming into force is specified in the order (in which case it comes into force on that later date).
+(6)[^c-503474cbd10227ea95b7923a4927096f] An order under section[^c-2581b27137e2f15f9e8dee8b6e962725] 1 which is not subject to the affirmative procedure by virtue of section 13 comes into force on the date on which the notice required by section 12(1)(c) is first published unless a later date for its coming into force is specified in the order (in which case it comes into force on that later date).
 
-(7)[^key-503474cbd10227ea95b7923a4927096f][^key-8559d804a80531fbc45d804cb3e3298a] In relation to an order which, by virtue of section 13, is subject to the affirmative procedure, references to making an order in subsections (2)(a) and (b) and (5) are to be read as references to laying before the Parliament a draft statutory instrument containing an order.
+(7)[^c-503474cbd10227ea95b7923a4927096f][^c-8559d804a80531fbc45d804cb3e3298a] In relation to an order which, by virtue of section 13, is subject to the affirmative procedure, references to making an order in subsections (2)(a) and (b) and (5) are to be read as references to laying before the Parliament a draft statutory instrument containing an order.
 
-(8)[^key-e12fa67cd07dea4c2e46b481b0a31e7d][^key-bc8b1add9ac8ae852c009d186c2e85d1] If the Scottish Ministers have under consideration an application under section 4, or a proposal to make an order under section 6, they must not make the order if an environmental impact assessment is required by rules made under this Act unless an environmental impact assessment has been carried out in respect of the application or proposal, and in carrying out such an assessment the Scottish Ministers must take the environmental information referred to in section 12(6)(b) into account.
+(8)[^c-e12fa67cd07dea4c2e46b481b0a31e7d][^c-bc8b1add9ac8ae852c009d186c2e85d1] If the Scottish Ministers have under consideration an application under section 4, or a proposal to make an order under section 6, they must not make the order if an environmental impact assessment is required by rules made under this Act unless an environmental impact assessment has been carried out in respect of the application or proposal, and in carrying out such an assessment the Scottish Ministers must take the environmental information referred to in section 12(6)(b) into account.
 
-#### 12. Publicity for making or refusal of order[^key-d518ae772dfc56cab1f8fbed271513ef][^key-a38d93bec482829354f55161053a7c7b]
+#### 12. Publicity for making or refusal of order[^c-d518ae772dfc56cab1f8fbed271513ef][^c-a38d93bec482829354f55161053a7c7b]
 
 (1) As soon as practicable after making a determination under subsection (2) of section 11, the Scottish Ministers are—
 
@@ -361,13 +361,13 @@ where this section applies by virtue of paragraph (a) of subsection (1) but the 
 - (b) to give notice of the determination—
   - (i) to every person who made an objection which, in accordance with section 9(3), was referred to an inquiry or hearing,
   - (ii) to the local authority for any area, to the National Park authority for any National Park and to the Transport Partnership created under section 1(1)(b) of the Transport (Scotland) Act 2005 (asp 12) for any region, in which the proposals contained in the application, or as the case may be in the draft order prepared under section 6(3)(a), are or were intended to have effect,
-  - (iii) if the order relates, or as the case may be would have related, to the construction or operation of a railway, to the Office of Rail and Road[^key-70f3c565fefce518de12e0192e1c372e], and
+  - (iii) if the order relates, or as the case may be would have related, to the construction or operation of a railway, to the Office of Rail and Road[^c-70f3c565fefce518de12e0192e1c372e], and
   - (iv) to such other persons (if any) as may be prescribed, and
 - (c) to publish in the Edinburgh Gazette a notice of the determination.
 
 (2) Any notice—
 
-- (a) under subsection (1) must give such information as to the terms of the order made or contained in the draft statutory instrument laid before the Parliament[^key-37d02fea10061c76a91e36d6a3d88641] (or where the determination was not to make an order, of the order applied for or as the case may be which the Scottish Ministers had proposed to make) as they consider appropriate and in particular must, where the determination is made by virtue of paragraph (a) of section 11(1), state the name and address of the person who applied for the order,
+- (a) under subsection (1) must give such information as to the terms of the order made or contained in the draft statutory instrument laid before the Parliament[^c-37d02fea10061c76a91e36d6a3d88641] (or where the determination was not to make an order, of the order applied for or as the case may be which the Scottish Ministers had proposed to make) as they consider appropriate and in particular must, where the determination is made by virtue of paragraph (a) of section 11(1), state the name and address of the person who applied for the order,
 - (b) under subsection (1)(a) or (b)—
   - (i) must include the terms of the determination,
   - (ii) must state the reasons for the determination and the considerations upon which it is based,
@@ -376,12 +376,12 @@ where this section applies by virtue of paragraph (a) of subsection (1) but the 
 - (c) under subsection (1)(c)—
   - (i) must include the terms of the determination,
   - (ii) must state that notice given under subsection (1)(a) or (b) contains such statement and information as is mentioned in sub-paragraphs (ii) to (iv) of paragraph (b), and
-  - (iii) must give information as to where a copy of that notice may be obtained, and—[^key-a61ccf67f58b0a39e8aa14a176f04537]
+  - (iii) must give information as to where a copy of that notice may be obtained, and—[^c-a61ccf67f58b0a39e8aa14a176f04537]
   - (iv) where subsection (4) applies, must state a website address where the Scottish Ministers have made information referred to in this subsection and subsection (4) available
 
-(3)[^key-1bc9ca2cfe81c788d16ce0c52aa1d773] Where the order is subject to the affirmative procedure by virtue of section 13, any notice giving information under sub-paragraph (iv) of subsection (2)(b) must intimate that the order cannot be made unless the Parliament, by resolution, approves the draft statutory instrument containing the order.
+(3)[^c-1bc9ca2cfe81c788d16ce0c52aa1d773] Where the order is subject to the affirmative procedure by virtue of section 13, any notice giving information under sub-paragraph (iv) of subsection (2)(b) must intimate that the order cannot be made unless the Parliament, by resolution, approves the draft statutory instrument containing the order.
 
-(4)[^key-72a2c92693c2bc414062cfc09190d3dc][^key-457c2dfd530a2081bdd6d26a18dd5213] Where a determination under section 11 relates to an application or proposal to which this subsection applies, in addition to the matters referred to in subsection (2), any notice under subsection (1) must include the following—
+(4)[^c-72a2c92693c2bc414062cfc09190d3dc][^c-457c2dfd530a2081bdd6d26a18dd5213] Where a determination under section 11 relates to an application or proposal to which this subsection applies, in addition to the matters referred to in subsection (2), any notice under subsection (1) must include the following—
 
 - (a) a description of the proposed works which are the subject of the order,
 - (b) a summary of—
@@ -409,26 +409,26 @@ where this section applies by virtue of paragraph (a) of subsection (1) but the 
 - (a) listed in Annex I to the relevant directive, or
 - (b) listed in Annex II to that directive which are, by virtue of their nature, size or location, likely to have significant effects on the environment.
 
-(8) In relation to any challenge to an order under section 1 authorising such works or other projects as are referred to in subsection (7), any non-governmental organisation promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom is deemed to—[^key-b942ef6032e2e48efbe0bca06ff1d714]
+(8) In relation to any challenge to an order under section 1 authorising such works or other projects as are referred to in subsection (7), any non-governmental organisation promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom is deemed to—[^c-b942ef6032e2e48efbe0bca06ff1d714]
 
 - (a) have an interest for the purposes of Article 11(1)(a) of the relevant directive, and
 - (b) rights capable of being impaired for the purposes of Article 11(1)(b) of that directive.
 
-(8A)[^key-3a63b18064accdde8a0b23a2619abea3] For the purpose of subsection (8), Article 11(1) of the relevant directive is to be read as if the reference to—
+(8A)[^c-3a63b18064accdde8a0b23a2619abea3] For the purpose of subsection (8), Article 11(1) of the relevant directive is to be read as if the reference to—
 
 - (a) “Member States” were a reference to “The Scottish Ministers”,
 - (b) “a Member State” were a reference to “Scotland”.
 
-(9) In subsections (7) , (8) and (8A)[^key-f5c4696b2def543e9a3aab0e4396fcb4], references to the relevant directive are to Council[^key-3277a21dbde745db4a3b5dd247e8ad17] [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092) (as amended by Council [Directive 2014/52/EU](https://www.legislation.gov.uk/eudr/2014/0052)) on the assessment of the effects of certain public and private projects on the environment.
+(9) In subsections (7) , (8) and (8A)[^c-f5c4696b2def543e9a3aab0e4396fcb4], references to the relevant directive are to Council[^c-3277a21dbde745db4a3b5dd247e8ad17] [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092) (as amended by Council [Directive 2014/52/EU](https://www.legislation.gov.uk/eudr/2014/0052)) on the assessment of the effects of certain public and private projects on the environment.
 
 (10) The Scottish Ministers are to send a copy of any notice—
 
 - (a) given under subsection (1), and
-- (b) required by subsection (4) to contain a notice[^key-27399cb124b313cd4010988de7d0a668] such as is provided for in that subsection,
+- (b) required by subsection (4) to contain a notice[^c-27399cb124b313cd4010988de7d0a668] such as is provided for in that subsection,
 
-to each person and body[^key-1cf25de4060eee411ca291abbc12e8be] mentioned in subsection (11).
+to each person and body[^c-1cf25de4060eee411ca291abbc12e8be] mentioned in subsection (11).
 
-(11)[^key-dc003de2536ff47dd824abd3cfa17eba] The persons and bodies are those who—
+(11)[^c-dc003de2536ff47dd824abd3cfa17eba] The persons and bodies are those who—
 
 - (a) made an objection in accordance with rules made under section 8 in relation to the environmental information referred to in subsection (4), being an objection which was not referred to an inquiry or hearing in accordance with section 9(3);
 - (b) made representations in accordance with rules made under section 8 in relation to the environmental information referred to in subsection (4);
@@ -442,14 +442,14 @@ to each person and body[^key-1cf25de4060eee411ca291abbc12e8be] mentioned in subs
 
 are or were intended to have effect a notice which includes the terms of the determination and a copy of the statement and information published under subsection (2)(c).
 
-(13) Subject to subsection (14), as soon as practicable after the making of an order under section 1 (or where the order is subject to the affirmative procedure by virtue of section 13, after a draft of the statutory instrument containing the order is laid before the Parliament)[^key-98c31d1a9e052f42b62aba31b6959aaa], the person who applied for the order is (or, where the order is made by virtue of section 6 , or is to be made by virtue of that section if the Parliament approves the draft statutory instrument containing it[^key-9e5cfe9f7bf3ebf957eb99017f0549c8], the Scottish Ministers are)—
+(13) Subject to subsection (14), as soon as practicable after the making of an order under section 1 (or where the order is subject to the affirmative procedure by virtue of section 13, after a draft of the statutory instrument containing the order is laid before the Parliament)[^c-98c31d1a9e052f42b62aba31b6959aaa], the person who applied for the order is (or, where the order is made by virtue of section 6 , or is to be made by virtue of that section if the Parliament approves the draft statutory instrument containing it[^c-9e5cfe9f7bf3ebf957eb99017f0549c8], the Scottish Ministers are)—
 
 - (a) to lay before the Parliament a copy of the order, and of any plan or book of reference prepared in connection with the application (or as the case may be in connection with the proposal to make the order),
 - (b) to deposit with each relevant authority in whose area works authorised by the order are to be carried out—
-  - (i) a copy of the order or where the order is subject to the affirmative procedure a draft of the statutory instrument containing the order[^key-7e86cc4b787c5ebb8d658f8e7f5bf27d], and
+  - (i) a copy of the order or where the order is subject to the affirmative procedure a draft of the statutory instrument containing the order[^c-7e86cc4b787c5ebb8d658f8e7f5bf27d], and
   - (ii) a copy of each of those other documents (or of so much of the documents as is relevant to the carrying out of those works in the area of the authority in question).
 
-(14) Subsection (13)(a) does not apply where the order is subject to the affirmative procedure by virtue of section 13[^key-e81811d65d973aef6b73a4594dd59d47].
+(14) Subsection (13)(a) does not apply where the order is subject to the affirmative procedure by virtue of section 13[^c-e81811d65d973aef6b73a4594dd59d47].
 
 (15) Where a plan or book of reference is revised before the order is made, the reference in subsection (13)(a) is to the later (or as the case may be the latest) version.
 
@@ -462,9 +462,9 @@ are or were intended to have effect a notice which includes the terms of the det
 
 (18) In subsection (1)(b)(iv), “**prescribed**” means prescribed under this subsection by the Scottish Ministers by order.
 
-#### 13. “Developments of national significance” etc.: special procedure[^key-678c7ecfce0ce4b143411714f12ab3a9][^key-a38d93bec482829354f55161053a7c7b]
+#### 13. “Developments of national significance” etc.: special procedure[^c-678c7ecfce0ce4b143411714f12ab3a9][^c-a38d93bec482829354f55161053a7c7b]
 
-(1) Subsections (2A) to (6) apply in relation to[^key-9fad94002dee533c9d8b8260747f6aba] an order under section 1 if—
+(1) Subsections (2A) to (6) apply in relation to[^c-9fad94002dee533c9d8b8260747f6aba] an order under section 1 if—
 
 - (a) the order authorises the carrying out of work which would constitute a national development,
 - (b) the order includes provision adding to, replacing or omitting any part of the text of a private Act of the Parliament, or
@@ -472,28 +472,28 @@ are or were intended to have effect a notice which includes the terms of the det
 
 (2) In subsections (1) and (7), references to a “national development” are to any development (within the meaning of the Town and Country Planning (Scotland) Act 1997 (c. 8)) for the time being designated under section 3A(4)(b) of that Act (which relates to the content of the National Planning Framework) as a national development.
 
-(2A)[^key-ae6ae52bf98c5bfe9d931dd54392c034] The order is subject to the affirmative procedure.
+(2A)[^c-ae6ae52bf98c5bfe9d931dd54392c034] The order is subject to the affirmative procedure.
 
-(3) The draft statutory instrument containing the order[^key-09c448cab74f33a33afd61144261567c]—
+(3) The draft statutory instrument containing the order[^c-09c448cab74f33a33afd61144261567c]—
 
-- (a) is to be laid before the Parliament together with a copy of any plan or book of reference prepared in connection with the application (or as the case may be in connection with the proposal to make the order), [^key-3ca9f475042b470fc3ddd197d3f5855e]...
-- (b)[^key-3ca9f475042b470fc3ddd197d3f5855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is to be laid before the Parliament together with a copy of any plan or book of reference prepared in connection with the application (or as the case may be in connection with the proposal to make the order), [^c-3ca9f475042b470fc3ddd197d3f5855e]...
+- (b)[^c-3ca9f475042b470fc3ddd197d3f5855e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where a plan or book of reference is revised before the draft statutory instrument is laid before the Parliament[^key-7b9b9fc4c3f0bffc03b1bc0d8c0a44af], the reference in subsection (3)(a) is to the later (or as the case may be the latest) version.
+(4) Where a plan or book of reference is revised before the draft statutory instrument is laid before the Parliament[^c-7b9b9fc4c3f0bffc03b1bc0d8c0a44af], the reference in subsection (3)(a) is to the later (or as the case may be the latest) version.
 
-(5) As soon as practicable after the order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument[^key-e575ae991ecaa4cc032c27ec8cea04c3], the Scottish Ministers are to publish a notice in—
+(5) As soon as practicable after the order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument[^c-e575ae991ecaa4cc032c27ec8cea04c3], the Scottish Ministers are to publish a notice in—
 
 - (a) the Edinburgh Gazette, and
 - (b) a local newspaper circulating in the area (or each of the areas) in which the provisions of the order in question will have, or would have had, effect.
 
 (6) A notice under subsection (5)—
 
-- (a) must state that the order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument[^key-1d72fba4aec33c562d5b10a7e7001725]
-- (b) where the order has been made[^key-6463c26cfcd8f8b98e527ac4c8afcf13], must give information regarding—
+- (a) must state that the order has been made or, as the case may be, the Parliament has decided not to approve the draft statutory instrument[^c-1d72fba4aec33c562d5b10a7e7001725]
+- (b) where the order has been made[^c-6463c26cfcd8f8b98e527ac4c8afcf13], must give information regarding—
   - (i) when the order will come into force, and
   - (ii) the right to challenge the validity of the order and the procedures for doing so.
 
-(7)[^key-b95a8d3e9c40c1b0ced5a7adc4b94e70] Subsections (2A) to (6) apply in relation to an order (“the new order”) which revokes, amends or re-enacts another order (“the old order”) in relation to which those subsections applied only if—
+(7)[^c-b95a8d3e9c40c1b0ced5a7adc4b94e70] Subsections (2A) to (6) apply in relation to an order (“the new order”) which revokes, amends or re-enacts another order (“the old order”) in relation to which those subsections applied only if—
 
 - (a) the new order authorises the carrying out of work which would constitute a national development (other than a national development to which the old order relates),
 - (b) the new order includes provision such as is mentioned in subsection (1)(b), or
@@ -501,7 +501,7 @@ are or were intended to have effect a notice which includes the terms of the det
 
 ### Consents etc. under other enactments
 
-#### 14. Consents etc. under other enactments[^key-807942bd92e184cdde403e958c244279][^key-a38d93bec482829354f55161053a7c7b]
+#### 14. Consents etc. under other enactments[^c-807942bd92e184cdde403e958c244279][^c-a38d93bec482829354f55161053a7c7b]
 
 (1) This section applies to relevant proposals which give rise to a requirement for—
 
@@ -534,7 +534,7 @@ are or were intended to have effect a notice which includes the terms of the det
 - (a) excluding or modifying the application of any enactment,
 - (b) authorising the Scottish Ministers to give directions or take such other steps as they consider appropriate for the purpose of the regulations.
 
-#### 15. Town and country planning[^key-315d1a734be75d1d478563e24f29e961]
+#### 15. Town and country planning[^c-315d1a734be75d1d478563e24f29e961]
 
 (1) In section 57 of the Town and Country Planning (Scotland) Act 1997 (c. 8) (power to deem planning permission to be granted in certain cases where development is authorised by a government department), after subsection (2) insert—
 
@@ -556,7 +556,7 @@ are or were intended to have effect a notice which includes the terms of the det
 
 ### Miscellaneous
 
-#### 16. Validity of orders under section 1[^key-bc2027a0b23d738dd0361d85b2890ee3][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 16. Validity of orders under section 1[^c-bc2027a0b23d738dd0361d85b2890ee3][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) If a person aggrieved by an order under section 1 desires to question the validity of it, or of any provision contained in it, on the ground—
 
@@ -577,7 +577,7 @@ that person may, within the period of 42 days beginning with the relevant day, m
 
 (4) Subject to subsections (1) and (3), an order under section 1 shall not, either before or after it has been made, be questioned in any legal proceedings whatever.
 
-#### 17. Powers of certain bodies to apply for, or object to, order under section 1[^key-9f0f1a3c76cad52c64d6e37d0aefcb75][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 17. Powers of certain bodies to apply for, or object to, order under section 1[^c-9f0f1a3c76cad52c64d6e37d0aefcb75][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) A body which has power to promote or power to oppose a Bill (whether a Bill in the Scottish Parliament or in the Parliament of the United Kingdom) also has power to apply for, or as the case may be to object to, an order under section 1.
 
@@ -587,7 +587,7 @@ that person may, within the period of 42 days beginning with the relevant day, m
 
 (4) Subsection (1) is without prejudice to any right of a person other than a body described in that subsection to apply for, or object to, an order under section 1.
 
-#### 18. Access to land[^key-98ca3d3acb96b49834a62155f8f90c5f][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 18. Access to land[^c-98ca3d3acb96b49834a62155f8f90c5f][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) The Scottish Ministers may by order make provision as regards—
 
@@ -619,7 +619,7 @@ that person may, within the period of 42 days beginning with the relevant day, m
   - (viii) an offence of wilfully obstructing a person upon whom a right of entry has been so conferred, and
 - (c) the purposes mentioned in paragraphs (a) and (b) of that subsection may include inspecting or surveying land to be entered or any other land.
 
-#### 19. Acquisition of land by agreement[^key-09bb7c772d9b25f6e859977549d8120d][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 19. Acquisition of land by agreement[^c-09bb7c772d9b25f6e859977549d8120d][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) Subject to subsection (4), a promoter may acquire land by agreement if—
 
@@ -655,7 +655,7 @@ that person may, within the period of 42 days beginning with the relevant day, m
 - (a) at the end of section 24(6) (acquisition of land in connection with public works) add “ or authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007 ”, and
 - (b) at the end of section 25(5) (execution of works in connection with public works) add “ or any works authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007 ”.
 
-#### 20. Service of notices and other documents[^key-1d914e086d64abddf1d094d20a13ee54][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 20. Service of notices and other documents[^c-1d914e086d64abddf1d094d20a13ee54][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Act—
 
@@ -697,14 +697,14 @@ and for the purposes of paragraph (b), “**legible in all material respects**�
 - (a) is not to be taken to exclude the employment of any method of service not expressly provided for by it, and
 - (b) in particular, is without prejudice to any provision made by virtue of section 4(2)(c) or 6(3)(c) in relation to service of notice on such persons as are mentioned in sub-paragraphs (ii) to (iv) of paragraph 3(b) of the First Schedule to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42) (service of notice on holder of personal real burden, on owner of benefited property or on owners' association).
 
-#### 20A. Monitoring measures[^key-6cb164b56e5afcc1663f254948fe7cea]
+#### 20A. Monitoring measures[^c-6cb164b56e5afcc1663f254948fe7cea]
 
 (1) Where a determination is made by the Scottish Ministers under section 11 and that determination relates to an application or proposal of the type referred to in section 11(1), if section 12(4) and (7) apply to that determination the Scottish Ministers must consider whether it is appropriate to require monitoring measures to be carried out.
 
 (2) When considering whether to require monitoring measures to be carried out, and the nature of any such monitoring measures, the Scottish Ministers must consider—
 
 - (a) whether monitoring measures are proportionate to the nature, location and size of the proposed works which are the subject of the determination and the significance of the effects of those works on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring,
-- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under [^key-fb147c6574f022746fb8b1bb6739b298]... other legislation applicable in Scotland are more appropriate, and
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under [^c-fb147c6574f022746fb8b1bb6739b298]... other legislation applicable in Scotland are more appropriate, and
 - (c) if monitoring measures are to be required, whether provision should be made to require appropriate remedial action.
 
 (3) Where the Scottish Ministers consider that it is appropriate to require monitoring measures they must include the terms of those measures in any order made under section 1 that follows on from any determination referred to in subsection (1).
@@ -713,7 +713,7 @@ and for the purposes of paragraph (b), “**legible in all material respects**�
 
 (5) In subsection (2)—
 
-- (a)[^key-ccb08903d107b34eb7c3749ff16bf164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ccb08903d107b34eb7c3749ff16bf164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the reference to the relevant directive is to the directive specified in section 12(9).
 
 (6) In this section and in section 12(4)(c)(v) “monitoring measures” means measures requiring the monitoring of any significant adverse effects on the environment of the proposed works that are the subject of an order under section 1.
@@ -762,18 +762,18 @@ commits an offence.
 - (c) in relation to a Scottish partnership, a partner,
 - (d) in relation to an unincorporated association other than a Scottish partnership, an individual who is concerned in the management or control of the association.
 
-#### 21. Annual report[^key-45bbabaa2703fed54021f9918703830d][^key-3b89951d048b40d0a58b50808ea72d63]
+#### 21. Annual report[^c-45bbabaa2703fed54021f9918703830d][^c-3b89951d048b40d0a58b50808ea72d63]
 
 (1) The Scottish Ministers are, by 1st. October in each year after the year of Royal Assent, to prepare a report on—
 
 - (a) such orders as were, in the relevant period, made (or by virtue of section 11(2)(c) not made) under section 1,
-- (aa)[^key-a46c6a844022d8aa7c673e320fffca08] such draft statutory instruments containing orders under section 1 which were laid before the Parliament in the relevant period but which had not been approved by the Parliament as at the date that period ended,
+- (aa)[^c-a46c6a844022d8aa7c673e320fffca08] such draft statutory instruments containing orders under section 1 which were laid before the Parliament in the relevant period but which had not been approved by the Parliament as at the date that period ended,
 - (b) such applications as were made by virtue of section 4 (whether in the relevant period or before it commenced) and remained current as at the date that period ended, and
 - (c) such proposals as were (whether in the relevant period or before it commenced) the subject of a notice published under section 6(3)(b) and remained current as at that date.
 
 (2) Without prejudice to the generality of subsection (1), the report is to include—
 
-- (a) details of each order and draft statutory instrument[^key-aefbd8e5eb7f626c0e160da5a88e8523], and as the case may be of—
+- (a) details of each order and draft statutory instrument[^c-aefbd8e5eb7f626c0e160da5a88e8523], and as the case may be of—
   - (i) each applicant and application, or
   - (ii) each proposal,
 - (b) where the Scottish Ministers have—
@@ -785,7 +785,7 @@ commits an offence.
 - (c) in relation to each order made during the relevant period (or which the Scottish Ministers have, during that period, determined not to make)—
   - (i) on an application, the length of time which elapsed between the application being made and the date on which the order (or determination) was made, or
   - (ii) other than on an application, the length of time which elapsed between notice of the proposal to make the order being published under section 6(3)(b) and that date.
-- (d)[^key-df47ca7a623cb8f3a0f1d97e81f102ae] in relation to each draft statutory instrument the length of time which elapsed between—
+- (d)[^c-df47ca7a623cb8f3a0f1d97e81f102ae] in relation to each draft statutory instrument the length of time which elapsed between—
   - (i) the application for an order being made under section 4, or
   - (ii) where no application was made, notice of the proposal to make the order being published under section 6(3)(b),
 
@@ -795,11 +795,11 @@ commits an offence.
 
 (4) In this section the “ **relevant period** ” means the period of 12 months which ends on 31st. July in the year in which the report is prepared (except that in the case of the report first prepared under this section, it means the period which begins on the day on which section 1 comes into force and ends on 31st. July in the year in which the report is prepared).
 
-#### 22. Orders under the Light Railways Act 1896[^key-e97e51ae058cc5147198331ed3e59124]
+#### 22. Orders under the Light Railways Act 1896[^c-e97e51ae058cc5147198331ed3e59124]
 
 No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish Ministers on or after the day on which section 1 (of this Act) comes into force.
 
-#### 23. Interpretation[^key-11b374afb83d1ec84ce6fa2329fd9dac][^key-b1864d9ff055833886dbab6995fd9991]
+#### 23. Interpretation[^c-11b374afb83d1ec84ce6fa2329fd9dac][^c-b1864d9ff055833886dbab6995fd9991]
 
 (1) In this Part, except where the context otherwise requires—
 
@@ -823,7 +823,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
 ## Part 2 — Miscellaneous amendments
 
-### 24. Amendment of Roads (Scotland) Act 1984[^key-ee44dfa0c76862eacdce4a67750b5d5d]
+### 24. Amendment of Roads (Scotland) Act 1984[^c-ee44dfa0c76862eacdce4a67750b5d5d]
 
 (1) The Roads (Scotland) Act 1984 (c. 54) is amended as follows.
 
@@ -912,7 +912,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
 ### 25. Amendment of Harbours Act 1964[^c1854447]
 
-(1)[^key-4daeb9b2b0a6387067165f095973e6a1] The Harbours Act 1964 (c. 40) is amended as follows.
+(1)[^c-4daeb9b2b0a6387067165f095973e6a1] The Harbours Act 1964 (c. 40) is amended as follows.
 
 (2) In section 44 (limitation of right to challenge orders in legal proceedings), at the end add—
 
@@ -930,7 +930,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
 .
 
-(3)[^key-4daeb9b2b0a6387067165f095973e6a1] After section 54, insert—
+(3)[^c-4daeb9b2b0a6387067165f095973e6a1] After section 54, insert—
 
 > **54A. “Developments of national significance” etc.: special procedure**
 >
@@ -958,7 +958,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
 .
 
-(4)[^key-4daeb9b2b0a6387067165f095973e6a1] In section 57(1) (interpretation), at the appropriate places insert—
+(4)[^c-4daeb9b2b0a6387067165f095973e6a1] In section 57(1) (interpretation), at the appropriate places insert—
 
 > “**Act**” means an Act of Parliament or an Act of the Scottish Parliament;
 
@@ -1036,7 +1036,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
     ,
 - (g) in sub-paragraph (c) of paragraph 17, after the word “objections” insert “ or representations ”,
-- (h)[^key-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (1D) of paragraph 18, after head (a) insert—
+- (h)[^c-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (1D) of paragraph 18, after head (a) insert—
 
   > - (aa) the harbour authority;
 
@@ -1056,7 +1056,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
     > - (bb) a statement regarding the right to challenge the validity of the decision and the procedures for doing so,
 
     ,
-- (k)[^key-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (2) of paragraph 24, for head (c) and the word “and” which precedes it substitute—
+- (k)[^c-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (2) of paragraph 24, for head (c) and the word “and” which precedes it substitute—
 
   > - (c) if subsection (4) of section 54A of this Act does not apply to the statutory instrument containing the order, give information regarding—
   >   - (i) the date on which the order comes into operation, and
@@ -1064,7 +1064,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
   > - (d) if that subsection does apply to the statutory instrument containing the order, state that the instrument cannot come into force until the Scottish Parliament, by resolution, approves it.
 
   ,
-- (l)[^key-4daeb9b2b0a6387067165f095973e6a1] after that sub-paragraph, add—
+- (l)[^c-4daeb9b2b0a6387067165f095973e6a1] after that sub-paragraph, add—
 
   > (3) As soon as possible after the Scottish Parliament has decided whether or not to approve under section 54A(4)(b) of this Act a statutory instrument containing a harbour revision order, the applicant for that order shall publish by Gazette and local advertisement a notice—
   >
@@ -1075,22 +1075,22 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
   >   - (iii) the right to challenge the validity of the order and the procedure for doing so.
 
   ,
-- (m)[^key-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (4) of paragraph 28—
+- (m)[^c-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (4) of paragraph 28—
   - (i) in head (a), after the word “situated” add “ or by the harbour authority ”, and
   - (ii) in head (b), after the word “council” insert “ or the authority ”,
-- (n)[^key-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (2) of paragraph 31, for the words from “state” to the end substitute “ contain the information specified in paragraph 24(2) ”,
-- (o)[^key-4daeb9b2b0a6387067165f095973e6a1] after that sub-paragraph, add—
+- (n)[^c-4daeb9b2b0a6387067165f095973e6a1] in sub-paragraph (2) of paragraph 31, for the words from “state” to the end substitute “ contain the information specified in paragraph 24(2) ”,
+- (o)[^c-4daeb9b2b0a6387067165f095973e6a1] after that sub-paragraph, add—
 
   > (3) As soon as possible after the Scottish Parliament has decided whether or not to approve under section 54A(4)(b) of this Act a statutory instrument containing a harbour revision order made by the Scottish Ministers of their own motion, those Ministers shall publish by Gazette and local advertisement a notice containing the information specified in head (a) of sub-paragraph (3) of paragraph 24 and, if appropriate, that specified in head (b) of that sub-paragraph.
 
   , and
-- (p)[^key-4daeb9b2b0a6387067165f095973e6a1] in paragraph 32, after sub-paragraph (3) insert—
+- (p)[^c-4daeb9b2b0a6387067165f095973e6a1] in paragraph 32, after sub-paragraph (3) insert—
 
   > (3A) Paragraph 18(1D)(aa) shall be omitted.
 
   .
 
-(6)[^key-4daeb9b2b0a6387067165f095973e6a1] In paragraph 3 of Schedule 4 (procedure on harbour reorganisation schemes: objections)—
+(6)[^c-4daeb9b2b0a6387067165f095973e6a1] In paragraph 3 of Schedule 4 (procedure on harbour reorganisation schemes: objections)—
 
 - (a) in sub-paragraph (5)—
   - (i) after the word “further” insert “ and subject to sub-paragraph (5A) below ”,
@@ -1111,7 +1111,7 @@ No order is to be made under the Light Railways Act 1896 (c. 48) by the Scottish
 
   .
 
-### 26. Amendment of Pilotage Act 1987[^key-2289422224f9d5504a83f38de70aa895]
+### 26. Amendment of Pilotage Act 1987[^c-2289422224f9d5504a83f38de70aa895]
 
 After section 1 of the Pilotage Act 1987 (c. 21), insert—
 
@@ -1200,7 +1200,7 @@ In section 70 of the Transport (Scotland) Act 2001 (asp 2) (grants for transport
 
 ## Part 3 — General
 
-### 28. Further provision as regards rules, regulations and orders[^key-e6e6a468509b76a512fe43c74f0cc7f7]
+### 28. Further provision as regards rules, regulations and orders[^c-e6e6a468509b76a512fe43c74f0cc7f7]
 
 (1) Any power of the Scottish Ministers to make an order, regulations or rules under this Act is exercisable by statutory instrument.
 
@@ -1245,7 +1245,7 @@ provision adding to, replacing or omitting any part of the text of an Act is not
 - (a) a term of imprisonment, or
 - (b) a fine exceeding level 3 on the standard scale.
 
-### 29. Modification and repeal of enactments[^key-a1dd163e94a7c3b3925ed03db35423f5]
+### 29. Modification and repeal of enactments[^c-a1dd163e94a7c3b3925ed03db35423f5]
 
 (1) Schedule 2, which modifies enactments, has effect.
 
@@ -1263,45 +1263,45 @@ provision adding to, replacing or omitting any part of the text of an Act is not
 
 (5) The provisions of section 25 specified in subsection (3) do not apply in relation to an application for an order under section 14 or 16 of the Harbours Act 1964 (c. 40) (harbour revision and empowerment orders) if the application was made before those provisions come into force.
 
-## SCHEDULE 1 — Matters within section 1[^key-93397cd304f78dfa055042833c7287e2]
+## SCHEDULE 1 — Matters within section 1[^c-93397cd304f78dfa055042833c7287e2]
 
 (introduced by section 2(1))
 
-**1.**[^key-40c33991ba02367846cfb9468be3f050] The construction, alteration, repair and maintenance of railways, tramways, trolley vehicle systems and other transport systems within section 1(1)(a), waterways, roads, watercourses, tunnels, bridges, buildings and other structures.
+**1.**[^c-40c33991ba02367846cfb9468be3f050] The construction, alteration, repair and maintenance of railways, tramways, trolley vehicle systems and other transport systems within section 1(1)(a), waterways, roads, watercourses, tunnels, bridges, buildings and other structures.
 
-**2.**[^key-daeb9be239f4d2f7905af90c0ce673a9] The carrying out of demolition or any other civil engineering or other works.
+**2.**[^c-daeb9be239f4d2f7905af90c0ce673a9] The carrying out of demolition or any other civil engineering or other works.
 
-**3.**[^key-13bbf291cba48ecc3be46e3a3a9baa9e] The acquisition of land, whether compulsorily or by agreement.
+**3.**[^c-13bbf291cba48ecc3be46e3a3a9baa9e] The acquisition of land, whether compulsorily or by agreement.
 
-**4.**[^key-3c736158314240b48c16ecbba6c9c96f] The creation and extinguishment of rights over land (including rights of navigation over water and fishing rights), whether compulsorily or by agreement.
+**4.**[^c-3c736158314240b48c16ecbba6c9c96f] The creation and extinguishment of rights over land (including rights of navigation over water and fishing rights), whether compulsorily or by agreement.
 
-**5.**[^key-ddb016c041958ab80ba1d3510f1f3fa0] The abrogation and modification of agreements relating to land.
+**5.**[^c-ddb016c041958ab80ba1d3510f1f3fa0] The abrogation and modification of agreements relating to land.
 
-**6.**[^key-bc58bb60cf96519a67fc05beb53169f0] The conferring on persons providing transport services of rights to use systems belonging to others.
+**6.**[^c-bc58bb60cf96519a67fc05beb53169f0] The conferring on persons providing transport services of rights to use systems belonging to others.
 
-**7.**[^key-94150f97cb2cbe6ef2b401393d35fd6f] The protection of the property or interests of any person.
+**7.**[^c-94150f97cb2cbe6ef2b401393d35fd6f] The protection of the property or interests of any person.
 
-**8.**[^key-c6b5cc57dbcd5c27bcb46f7d9e94ed76] The imposition and exclusion of obligations or of liability in respect of any acts or omissions.
+**8.**[^c-c6b5cc57dbcd5c27bcb46f7d9e94ed76] The imposition and exclusion of obligations or of liability in respect of any acts or omissions.
 
-**9.**[^key-2c229d271fe8340c4bc1598342f2815d] The making of agreements to secure the provision of police services.
+**9.**[^c-2c229d271fe8340c4bc1598342f2815d] The making of agreements to secure the provision of police services.
 
-**10.**[^key-e6bc47293a117f773a2860303a74a6e1] The carrying out of surveys and the taking of soil samples.
+**10.**[^c-e6bc47293a117f773a2860303a74a6e1] The carrying out of surveys and the taking of soil samples.
 
-**11.**[^key-9ca7051a46ed578c8efecd026a18b4ef] The payment of compensation.
+**11.**[^c-9ca7051a46ed578c8efecd026a18b4ef] The payment of compensation.
 
-**12.**[^key-fcde71cd7ac53226ffd4c7f599295a69] The charging of tolls, fares (including penalty fares) and other charges, and the creation of offences in connection with non-payment (or in connection with a person's failure to give a name and address in accordance with provisions relating to penalty fares).
+**12.**[^c-fcde71cd7ac53226ffd4c7f599295a69] The charging of tolls, fares (including penalty fares) and other charges, and the creation of offences in connection with non-payment (or in connection with a person's failure to give a name and address in accordance with provisions relating to penalty fares).
 
-**13.**[^key-cd103469365049f87aba70724420fc45] The making of byelaws by any person and their enforcement, including the creation of offences.
+**13.**[^c-cd103469365049f87aba70724420fc45] The making of byelaws by any person and their enforcement, including the creation of offences.
 
-**14.**[^key-5991c309c24113fdf4310116ac5181a7] The payment of rates.
+**14.**[^c-5991c309c24113fdf4310116ac5181a7] The payment of rates.
 
-**15.**[^key-815c3e60aec395149ab261c0fd074f63] The transfer, leasing, discontinuance and revival of undertakings.
+**15.**[^c-815c3e60aec395149ab261c0fd074f63] The transfer, leasing, discontinuance and revival of undertakings.
 
-**16.**[^key-299ad0a4a772c8928380bc43c0a1eb0f] The transfer of powers to construct or operate a transport system or inland waterway.
+**16.**[^c-299ad0a4a772c8928380bc43c0a1eb0f] The transfer of powers to construct or operate a transport system or inland waterway.
 
-**17.**[^key-d4aa8ec8afea1c06bb4131ace3d7fedc] The submission of disputes to arbitration.
+**17.**[^c-d4aa8ec8afea1c06bb4131ace3d7fedc] The submission of disputes to arbitration.
 
-**18.**[^key-be1c11c486f13c15a4163e3cc4c18419] The imposition of requirements to obtain the consent of the Scottish Ministers or another person.
+**18.**[^c-be1c11c486f13c15a4163e3cc4c18419] The imposition of requirements to obtain the consent of the Scottish Ministers or another person.
 
 ## SCHEDULE 2 — Modification of enactments
 
@@ -1309,23 +1309,23 @@ provision adding to, replacing or omitting any part of the text of an Act is not
 
 ### Roads (Scotland) Act 1984 (c. 54)
 
-**1.**[^key-cc3620d969916b4844112815b69d90c3] The Roads (Scotland) Act 1984 is amended as follows.
+**1.**[^c-cc3620d969916b4844112815b69d90c3] The Roads (Scotland) Act 1984 is amended as follows.
 
-**2.**[^key-3bbc1e5ad30ce1492bf118ff379a7876] In section 7(9) (special roads)—
+**2.**[^c-3bbc1e5ad30ce1492bf118ff379a7876] In section 7(9) (special roads)—
 
 - (a) the words from “Part IV” to “1945; and” are repealed, and
 - (b) for the words “such schemes” substitute “ schemes under this section ”.
 
-**3.**[^key-72485c490f448287890dfa0f245042bd] In Schedule 1 (procedure on orders and schemes)—
+**3.**[^c-72485c490f448287890dfa0f245042bd] In Schedule 1 (procedure on orders and schemes)—
 
 - (a) in paragraph 5, for the words “paragraphs 6 and 19” substitute “ paragraph 6 ”, and
 - (b) in paragraph 11, for the words “paragraphs 12 and 19” substitute “ paragraph 12 ”.
 
 ### New Roads and Street Works Act 1991 (c. 22)
 
-**4.**[^key-97d4180aedf4f244a53dea428a51abdb] In section 27(3) (toll orders) of the New Roads and Street Works Act 1991, for the words “, paragraphs 15 and 18 of Part III, and Part IV” substitute “ and paragraphs 15 and 18 of Part III ”.
+**4.**[^c-97d4180aedf4f244a53dea428a51abdb] In section 27(3) (toll orders) of the New Roads and Street Works Act 1991, for the words “, paragraphs 15 and 18 of Part III, and Part IV” substitute “ and paragraphs 15 and 18 of Part III ”.
 
-## SCHEDULE 3 — Repeals[^key-d58e4bf85697155ea279211b58dfbc6f]
+## SCHEDULE 3 — Repeals[^c-d58e4bf85697155ea279211b58dfbc6f]
 
 (introduced by section 29(2))
 
@@ -1341,216 +1341,216 @@ provision adding to, replacing or omitting any part of the text of an Act is not
 
 ## Annotations
 
-[^key-690272486b03628d0faf11d9e313082d]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/8) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-690272486b03628d0faf11d9e313082d]: Modification: [Act](https://www.legislation.gov.uk/asp/2007/8) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-e510ffb18f863eb91eded71dfa82fd5f]: Commencement: S. 1 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-e510ffb18f863eb91eded71dfa82fd5f]: Commencement: S. 1 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-1b60d2ff02de619b684eb1c2bce776d4]: Commencement: S. 2 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-1b60d2ff02de619b684eb1c2bce776d4]: Commencement: S. 2 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-e5556f69246572de8283518d3545535a]: Modification: S. 2 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)-(4)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-e5556f69246572de8283518d3545535a]: Modification: S. 2 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)-(4)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-bf1e2db003e2567a49814b3b74c7422d]: Commencement: S. 3 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-bf1e2db003e2567a49814b3b74c7422d]: Commencement: S. 3 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-6c3840f85d84a8df342d18660b28f951]: Modification: Ss. 3-10 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-6c3840f85d84a8df342d18660b28f951]: Modification: Ss. 3-10 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-49677db35e5fa04ff16dc1d8c6db9014]: Textual amendment: Words in s. 3(4)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 38(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/38/a)
+[^c-49677db35e5fa04ff16dc1d8c6db9014]: Textual amendment: Words in s. 3(4)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 38(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/38/a)
 
-[^key-f057824b87c1ebcf3d634865d9553902]: Textual amendment: S. 3(4A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 38(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/38/b)
+[^c-f057824b87c1ebcf3d634865d9553902]: Textual amendment: S. 3(4A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 38(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/38/b)
 
-[^key-c5aa0aa07da60ac92706c3b1eb21a290]: Commencement: S. 4 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-c5aa0aa07da60ac92706c3b1eb21a290]: Commencement: S. 4 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-1cd6d6fc2bdb9127b8ff60ddc5e3daa1]: Textual amendment: Words in [s. 4(7)](https://www.legislation.gov.uk/asp/2007/8/section/4/7) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cd6d6fc2bdb9127b8ff60ddc5e3daa1]: Textual amendment: Words in [s. 4(7)](https://www.legislation.gov.uk/asp/2007/8/section/4/7) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f07e8180fd0b20f34936e1cfa53508da]: Textual amendment: S. 4(7)(e) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/138/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-f07e8180fd0b20f34936e1cfa53508da]: Textual amendment: S. 4(7)(e) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [3](https://www.legislation.gov.uk/ssi/2017/138/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-68b0c5e92c1d305fa0a340d40a58e7ce]: Commencement: S. 5 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-68b0c5e92c1d305fa0a340d40a58e7ce]: Commencement: S. 5 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-71d39ffda89f33ab7054259c464b3e02]: Textual amendment: Word in s. 5 heading repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71d39ffda89f33ab7054259c464b3e02]: Textual amendment: Word in s. 5 heading repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f84f06f3657ada6a5df6ccbb4be56779]: Textual amendment: Word in [s. 5(1)](https://www.legislation.gov.uk/asp/2007/8/section/5/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f84f06f3657ada6a5df6ccbb4be56779]: Textual amendment: Word in [s. 5(1)](https://www.legislation.gov.uk/asp/2007/8/section/5/1) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-430f157dc6f1fac41e8dcf98cbec5472]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/asp/2007/8/section/5/2) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-430f157dc6f1fac41e8dcf98cbec5472]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/asp/2007/8/section/5/2) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-feb78df8083c17201f0f1664f4721865]: Textual amendment: Word in [s. 5(2)(a)](https://www.legislation.gov.uk/asp/2007/8/section/5/2/a) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-feb78df8083c17201f0f1664f4721865]: Textual amendment: Word in [s. 5(2)(a)](https://www.legislation.gov.uk/asp/2007/8/section/5/2/a) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f60e733ff3b2f9ab067d25594a9771ef]: Textual amendment: Word in [s. 5(2)(b)](https://www.legislation.gov.uk/asp/2007/8/section/5/2/b) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f60e733ff3b2f9ab067d25594a9771ef]: Textual amendment: Word in [s. 5(2)(b)](https://www.legislation.gov.uk/asp/2007/8/section/5/2/b) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c463d0a61001faefd2b83c36f25a6549]: Textual amendment: Words in s. 5(3) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/322/regulation/3/3)
+[^c-c463d0a61001faefd2b83c36f25a6549]: Textual amendment: Words in s. 5(3) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/322/regulation/3/3)
 
-[^key-2d30b83cbf9b224b80b229accca68e8a]: Commencement: S. 6 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-2d30b83cbf9b224b80b229accca68e8a]: Commencement: S. 6 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-0161365f43b1af7e742480bf54d22ab0]: Commencement: S. 7 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-0161365f43b1af7e742480bf54d22ab0]: Commencement: S. 7 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-18ef0aced0e6639a3f6438dcb4e94722]: Commencement: S. 8 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-18ef0aced0e6639a3f6438dcb4e94722]: Commencement: S. 8 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-281d15ee7c27cd5f8d48e1d12af7a90e]: Commencement: S. 9 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-281d15ee7c27cd5f8d48e1d12af7a90e]: Commencement: S. 9 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-17705f10fea6c652305106f792dec2ca]: Commencement: S. 10 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-17705f10fea6c652305106f792dec2ca]: Commencement: S. 10 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-adf0b5ca694ecd590decfcbfba640317]: Commencement: S. 11 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-adf0b5ca694ecd590decfcbfba640317]: Commencement: S. 11 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-1057092193197afdbd846248d2c81dc1]: Modification: S. 11(1)(2) applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-1057092193197afdbd846248d2c81dc1]: Modification: S. 11(1)(2) applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-503474cbd10227ea95b7923a4927096f]: Modification: S. 11(4)-(7) applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-503474cbd10227ea95b7923a4927096f]: Modification: S. 11(4)-(7) applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-2581b27137e2f15f9e8dee8b6e962725]: Textual amendment: Words in s. 11(6) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [19(a)](https://www.legislation.gov.uk/ssi/2011/396/article/19/a)
+[^c-2581b27137e2f15f9e8dee8b6e962725]: Textual amendment: Words in s. 11(6) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [19(a)](https://www.legislation.gov.uk/ssi/2011/396/article/19/a)
 
-[^key-8559d804a80531fbc45d804cb3e3298a]: Textual amendment: S. 11(7) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [19(b)](https://www.legislation.gov.uk/ssi/2011/396/article/19/b)
+[^c-8559d804a80531fbc45d804cb3e3298a]: Textual amendment: S. 11(7) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [19(b)](https://www.legislation.gov.uk/ssi/2011/396/article/19/b)
 
-[^key-e12fa67cd07dea4c2e46b481b0a31e7d]: Modification: S. 11(8): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/3/1/a)
+[^c-e12fa67cd07dea4c2e46b481b0a31e7d]: Modification: S. 11(8): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/3/1/a)
 
-[^key-bc8b1add9ac8ae852c009d186c2e85d1]: Textual amendment: S. 11(8) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/138/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-bc8b1add9ac8ae852c009d186c2e85d1]: Textual amendment: S. 11(8) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [4](https://www.legislation.gov.uk/ssi/2017/138/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-d518ae772dfc56cab1f8fbed271513ef]: Commencement: S. 12 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-d518ae772dfc56cab1f8fbed271513ef]: Commencement: S. 12 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-a38d93bec482829354f55161053a7c7b]: Modification: Ss. 12-14 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-a38d93bec482829354f55161053a7c7b]: Modification: Ss. 12-14 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-70f3c565fefce518de12e0192e1c372e]: Textual amendment: Words in s. 12(1)(b)(iii) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/11/b)
+[^c-70f3c565fefce518de12e0192e1c372e]: Textual amendment: Words in s. 12(1)(b)(iii) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/11/b)
 
-[^key-37d02fea10061c76a91e36d6a3d88641]: Textual amendment: Words in s. 12(2)(a) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(a)](https://www.legislation.gov.uk/ssi/2011/396/article/20/a)
+[^c-37d02fea10061c76a91e36d6a3d88641]: Textual amendment: Words in s. 12(2)(a) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(a)](https://www.legislation.gov.uk/ssi/2011/396/article/20/a)
 
-[^key-a61ccf67f58b0a39e8aa14a176f04537]: Textual amendment: S. 12(2)(c)(iv) and word inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-a61ccf67f58b0a39e8aa14a176f04537]: Textual amendment: S. 12(2)(c)(iv) and word inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-1bc9ca2cfe81c788d16ce0c52aa1d773]: Textual amendment: S. 12(3) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(b)](https://www.legislation.gov.uk/ssi/2011/396/article/20/b)
+[^c-1bc9ca2cfe81c788d16ce0c52aa1d773]: Textual amendment: S. 12(3) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(b)](https://www.legislation.gov.uk/ssi/2011/396/article/20/b)
 
-[^key-72a2c92693c2bc414062cfc09190d3dc]: Modification: S. 12(4): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/3/1/a)
+[^c-72a2c92693c2bc414062cfc09190d3dc]: Modification: S. 12(4): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/3/1/a)
 
-[^key-457c2dfd530a2081bdd6d26a18dd5213]: Textual amendment: S. 12(4)-(6) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-457c2dfd530a2081bdd6d26a18dd5213]: Textual amendment: S. 12(4)-(6) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-b942ef6032e2e48efbe0bca06ff1d714]: Textual amendment: Words in [s. 12(8)](https://www.legislation.gov.uk/asp/2007/8/section/12/8) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b942ef6032e2e48efbe0bca06ff1d714]: Textual amendment: Words in [s. 12(8)](https://www.legislation.gov.uk/asp/2007/8/section/12/8) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a63b18064accdde8a0b23a2619abea3]: Textual amendment: [S. 12(8A)](https://www.legislation.gov.uk/asp/2007/8/section/12/8A) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a63b18064accdde8a0b23a2619abea3]: Textual amendment: [S. 12(8A)](https://www.legislation.gov.uk/asp/2007/8/section/12/8A) inserted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f5c4696b2def543e9a3aab0e4396fcb4]: Textual amendment: Words in [s. 12(9)](https://www.legislation.gov.uk/asp/2007/8/section/12/9) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5c4696b2def543e9a3aab0e4396fcb4]: Textual amendment: Words in [s. 12(9)](https://www.legislation.gov.uk/asp/2007/8/section/12/9) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3277a21dbde745db4a3b5dd247e8ad17]: Textual amendment: Words in s. 12(9) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/d) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-3277a21dbde745db4a3b5dd247e8ad17]: Textual amendment: Words in s. 12(9) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/d) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-27399cb124b313cd4010988de7d0a668]: Textual amendment: Word in s. 12(10)(b) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(e)(i)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/e/i) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-27399cb124b313cd4010988de7d0a668]: Textual amendment: Word in s. 12(10)(b) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(e)(i)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/e/i) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-1cf25de4060eee411ca291abbc12e8be]: Textual amendment: Words in s. 12(10) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(e)(ii)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/e/ii) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-1cf25de4060eee411ca291abbc12e8be]: Textual amendment: Words in s. 12(10) inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(e)(ii)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/e/ii) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-dc003de2536ff47dd824abd3cfa17eba]: Textual amendment: S. 12(11) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(f)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/f) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
+[^c-dc003de2536ff47dd824abd3cfa17eba]: Textual amendment: S. 12(11) substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [5(f)](https://www.legislation.gov.uk/ssi/2017/138/regulation/5/f) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/138/regulation/7))
 
-[^key-98c31d1a9e052f42b62aba31b6959aaa]: Textual amendment: Words in s. 12(13) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/i)
+[^c-98c31d1a9e052f42b62aba31b6959aaa]: Textual amendment: Words in s. 12(13) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/i)
 
-[^key-9e5cfe9f7bf3ebf957eb99017f0549c8]: Textual amendment: Words in s. 12(13) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/ii)
+[^c-9e5cfe9f7bf3ebf957eb99017f0549c8]: Textual amendment: Words in s. 12(13) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/ii)
 
-[^key-7e86cc4b787c5ebb8d658f8e7f5bf27d]: Textual amendment: Words in s. 12(13)(b)(i) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(iii)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/iii)
+[^c-7e86cc4b787c5ebb8d658f8e7f5bf27d]: Textual amendment: Words in s. 12(13)(b)(i) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(d)(iii)](https://www.legislation.gov.uk/ssi/2011/396/article/20/d/iii)
 
-[^key-e81811d65d973aef6b73a4594dd59d47]: Textual amendment: Words in s. 12(14) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(e)](https://www.legislation.gov.uk/ssi/2011/396/article/20/e)
+[^c-e81811d65d973aef6b73a4594dd59d47]: Textual amendment: Words in s. 12(14) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [20(e)](https://www.legislation.gov.uk/ssi/2011/396/article/20/e)
 
-[^key-678c7ecfce0ce4b143411714f12ab3a9]: Commencement: S. 13 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-678c7ecfce0ce4b143411714f12ab3a9]: Commencement: S. 13 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-9fad94002dee533c9d8b8260747f6aba]: Textual amendment: Words in s. 13(1) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/396/article/21/a)
+[^c-9fad94002dee533c9d8b8260747f6aba]: Textual amendment: Words in s. 13(1) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/396/article/21/a)
 
-[^key-ae6ae52bf98c5bfe9d931dd54392c034]: Textual amendment: S. 13(2A) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(b)](https://www.legislation.gov.uk/ssi/2011/396/article/21/b)
+[^c-ae6ae52bf98c5bfe9d931dd54392c034]: Textual amendment: S. 13(2A) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(b)](https://www.legislation.gov.uk/ssi/2011/396/article/21/b)
 
-[^key-09c448cab74f33a33afd61144261567c]: Textual amendment: Words in s. 13(3) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(c)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/21/c/i)
+[^c-09c448cab74f33a33afd61144261567c]: Textual amendment: Words in s. 13(3) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(c)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/21/c/i)
 
-[^key-3ca9f475042b470fc3ddd197d3f5855e]: Textual amendment: S. 13(3)(b) and word omitted (11.11.2011) by virtue of [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(c)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/21/c/ii)
+[^c-3ca9f475042b470fc3ddd197d3f5855e]: Textual amendment: S. 13(3)(b) and word omitted (11.11.2011) by virtue of [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(c)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/21/c/ii)
 
-[^key-7b9b9fc4c3f0bffc03b1bc0d8c0a44af]: Textual amendment: Words in s. 13(4) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(d)](https://www.legislation.gov.uk/ssi/2011/396/article/21/d)
+[^c-7b9b9fc4c3f0bffc03b1bc0d8c0a44af]: Textual amendment: Words in s. 13(4) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(d)](https://www.legislation.gov.uk/ssi/2011/396/article/21/d)
 
-[^key-e575ae991ecaa4cc032c27ec8cea04c3]: Textual amendment: Words in s. 13(5) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(e)](https://www.legislation.gov.uk/ssi/2011/396/article/21/e)
+[^c-e575ae991ecaa4cc032c27ec8cea04c3]: Textual amendment: Words in s. 13(5) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(e)](https://www.legislation.gov.uk/ssi/2011/396/article/21/e)
 
-[^key-1d72fba4aec33c562d5b10a7e7001725]: Textual amendment: Words in s. 13(6)(a) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(f)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/21/f/i)
+[^c-1d72fba4aec33c562d5b10a7e7001725]: Textual amendment: Words in s. 13(6)(a) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(f)(i)](https://www.legislation.gov.uk/ssi/2011/396/article/21/f/i)
 
-[^key-6463c26cfcd8f8b98e527ac4c8afcf13]: Textual amendment: Words in s. 13(6)(b) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(f)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/21/f/ii)
+[^c-6463c26cfcd8f8b98e527ac4c8afcf13]: Textual amendment: Words in s. 13(6)(b) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(f)(ii)](https://www.legislation.gov.uk/ssi/2011/396/article/21/f/ii)
 
-[^key-b95a8d3e9c40c1b0ced5a7adc4b94e70]: Textual amendment: S. 13(7) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(g)](https://www.legislation.gov.uk/ssi/2011/396/article/21/g)
+[^c-b95a8d3e9c40c1b0ced5a7adc4b94e70]: Textual amendment: S. 13(7) substituted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [21(g)](https://www.legislation.gov.uk/ssi/2011/396/article/21/g)
 
-[^key-807942bd92e184cdde403e958c244279]: Commencement: S. 14 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-807942bd92e184cdde403e958c244279]: Commencement: S. 14 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-315d1a734be75d1d478563e24f29e961]: Commencement: S. 15 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-315d1a734be75d1d478563e24f29e961]: Commencement: S. 15 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-bc2027a0b23d738dd0361d85b2890ee3]: Commencement: S. 16 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-bc2027a0b23d738dd0361d85b2890ee3]: Commencement: S. 16 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-3b89951d048b40d0a58b50808ea72d63]: Modification: Ss. 16-21 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-3b89951d048b40d0a58b50808ea72d63]: Modification: Ss. 16-21 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-9f0f1a3c76cad52c64d6e37d0aefcb75]: Commencement: S. 17 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-9f0f1a3c76cad52c64d6e37d0aefcb75]: Commencement: S. 17 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-98ca3d3acb96b49834a62155f8f90c5f]: Commencement: S. 18 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-98ca3d3acb96b49834a62155f8f90c5f]: Commencement: S. 18 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-09bb7c772d9b25f6e859977549d8120d]: Commencement: S. 19 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-09bb7c772d9b25f6e859977549d8120d]: Commencement: S. 19 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-1d914e086d64abddf1d094d20a13ee54]: Commencement: S. 20 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-1d914e086d64abddf1d094d20a13ee54]: Commencement: S. 20 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-6cb164b56e5afcc1663f254948fe7cea]: Textual amendment: Ss. 20A-20C inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/138/regulation/6)
+[^c-6cb164b56e5afcc1663f254948fe7cea]: Textual amendment: Ss. 20A-20C inserted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/138)](https://www.legislation.gov.uk/ssi/2017/138), [regs. 1](https://www.legislation.gov.uk/ssi/2017/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/138/regulation/6)
 
-[^key-fb147c6574f022746fb8b1bb6739b298]: Textual amendment: Words in [s. 20A(2)(b)](https://www.legislation.gov.uk/asp/2007/8/section/20A/2/b) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb147c6574f022746fb8b1bb6739b298]: Textual amendment: Words in [s. 20A(2)(b)](https://www.legislation.gov.uk/asp/2007/8/section/20A/2/b) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ccb08903d107b34eb7c3749ff16bf164]: Textual amendment: [S. 20A(5)(a)](https://www.legislation.gov.uk/asp/2007/8/section/20A/5/a) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccb08903d107b34eb7c3749ff16bf164]: Textual amendment: [S. 20A(5)(a)](https://www.legislation.gov.uk/asp/2007/8/section/20A/5/a) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45bbabaa2703fed54021f9918703830d]: Commencement: S. 21 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516) , [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-45bbabaa2703fed54021f9918703830d]: Commencement: S. 21 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516) , [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-a46c6a844022d8aa7c673e320fffca08]: Textual amendment: S. 21(1)(aa) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1) , [22(a)](https://www.legislation.gov.uk/ssi/2011/396/article/22/a)
+[^c-a46c6a844022d8aa7c673e320fffca08]: Textual amendment: S. 21(1)(aa) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1) , [22(a)](https://www.legislation.gov.uk/ssi/2011/396/article/22/a)
 
-[^key-aefbd8e5eb7f626c0e160da5a88e8523]: Textual amendment: Words in s. 21(2)(a) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1) , [22(b)](https://www.legislation.gov.uk/ssi/2011/396/article/22/b)
+[^c-aefbd8e5eb7f626c0e160da5a88e8523]: Textual amendment: Words in s. 21(2)(a) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396) , [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1) , [22(b)](https://www.legislation.gov.uk/ssi/2011/396/article/22/b)
 
-[^key-df47ca7a623cb8f3a0f1d97e81f102ae]: Textual amendment: S. 21(2)(d) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [22(c)](https://www.legislation.gov.uk/ssi/2011/396/article/22/c)
+[^c-df47ca7a623cb8f3a0f1d97e81f102ae]: Textual amendment: S. 21(2)(d) inserted (11.11.2011) by [The Interpretation and Legislative Reform (Scotland) Act 2010 (Consequential, Savings and Transitional Provisions) Order 2011 (S.S.I. 2011/396)](https://www.legislation.gov.uk/ssi/2011/396), [arts. 1](https://www.legislation.gov.uk/ssi/2011/396/article/1), [22(c)](https://www.legislation.gov.uk/ssi/2011/396/article/22/c)
 
-[^key-e97e51ae058cc5147198331ed3e59124]: Commencement: S. 22 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-e97e51ae058cc5147198331ed3e59124]: Commencement: S. 22 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-11b374afb83d1ec84ce6fa2329fd9dac]: Commencement: S. 23 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-11b374afb83d1ec84ce6fa2329fd9dac]: Commencement: S. 23 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-b1864d9ff055833886dbab6995fd9991]: Modification: S. 23 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-b1864d9ff055833886dbab6995fd9991]: Modification: S. 23 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-ee44dfa0c76862eacdce4a67750b5d5d]: Commencement: S. 24 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-ee44dfa0c76862eacdce4a67750b5d5d]: Commencement: S. 24 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
 [^c1854447]: Commencement: S. 25 partly in force; s. 25(2)(5)(a)-(g)(i)(j) in force on 14.5.2007, see s. 30(3)-(5)
 
-[^key-4daeb9b2b0a6387067165f095973e6a1]: Commencement: S. 25(1) (3) (4) (5)(h) s. 25(5)(k)-(p) (6) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-4daeb9b2b0a6387067165f095973e6a1]: Commencement: S. 25(1) (3) (4) (5)(h) s. 25(5)(k)-(p) (6) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-2289422224f9d5504a83f38de70aa895]: Commencement: S. 26 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-2289422224f9d5504a83f38de70aa895]: Commencement: S. 26 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-e6e6a468509b76a512fe43c74f0cc7f7]: Modification: S. 28 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-e6e6a468509b76a512fe43c74f0cc7f7]: Modification: S. 28 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-a1dd163e94a7c3b3925ed03db35423f5]: Commencement: S. 29 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-a1dd163e94a7c3b3925ed03db35423f5]: Commencement: S. 29 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-93397cd304f78dfa055042833c7287e2]: Modification: Sch. 1 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-93397cd304f78dfa055042833c7287e2]: Modification: Sch. 1 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-40c33991ba02367846cfb9468be3f050]: Commencement: Sch. 1 para. 1 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-40c33991ba02367846cfb9468be3f050]: Commencement: Sch. 1 para. 1 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-daeb9be239f4d2f7905af90c0ce673a9]: Commencement: Sch. 1 para. 2 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-daeb9be239f4d2f7905af90c0ce673a9]: Commencement: Sch. 1 para. 2 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-13bbf291cba48ecc3be46e3a3a9baa9e]: Commencement: Sch. 1 para. 3 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-13bbf291cba48ecc3be46e3a3a9baa9e]: Commencement: Sch. 1 para. 3 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-3c736158314240b48c16ecbba6c9c96f]: Commencement: Sch. 1 para. 4 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-3c736158314240b48c16ecbba6c9c96f]: Commencement: Sch. 1 para. 4 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-ddb016c041958ab80ba1d3510f1f3fa0]: Commencement: Sch. 1 para. 5 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-ddb016c041958ab80ba1d3510f1f3fa0]: Commencement: Sch. 1 para. 5 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-bc58bb60cf96519a67fc05beb53169f0]: Commencement: Sch. 1 para. 6 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-bc58bb60cf96519a67fc05beb53169f0]: Commencement: Sch. 1 para. 6 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-94150f97cb2cbe6ef2b401393d35fd6f]: Commencement: Sch. 1 para. 7 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-94150f97cb2cbe6ef2b401393d35fd6f]: Commencement: Sch. 1 para. 7 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-c6b5cc57dbcd5c27bcb46f7d9e94ed76]: Commencement: Sch. 1 para. 8 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-c6b5cc57dbcd5c27bcb46f7d9e94ed76]: Commencement: Sch. 1 para. 8 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-2c229d271fe8340c4bc1598342f2815d]: Commencement: Sch. 1 para. 9 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-2c229d271fe8340c4bc1598342f2815d]: Commencement: Sch. 1 para. 9 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-e6bc47293a117f773a2860303a74a6e1]: Commencement: Sch. 1 para. 10 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-e6bc47293a117f773a2860303a74a6e1]: Commencement: Sch. 1 para. 10 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-9ca7051a46ed578c8efecd026a18b4ef]: Commencement: Sch. 1 para. 11 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-9ca7051a46ed578c8efecd026a18b4ef]: Commencement: Sch. 1 para. 11 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-fcde71cd7ac53226ffd4c7f599295a69]: Commencement: Sch. 1 para. 12 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-fcde71cd7ac53226ffd4c7f599295a69]: Commencement: Sch. 1 para. 12 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-cd103469365049f87aba70724420fc45]: Commencement: Sch. 1 para. 13 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-cd103469365049f87aba70724420fc45]: Commencement: Sch. 1 para. 13 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-5991c309c24113fdf4310116ac5181a7]: Commencement: Sch. 1 para. 14 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-5991c309c24113fdf4310116ac5181a7]: Commencement: Sch. 1 para. 14 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-815c3e60aec395149ab261c0fd074f63]: Commencement: Sch. 1 para. 15 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-815c3e60aec395149ab261c0fd074f63]: Commencement: Sch. 1 para. 15 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-299ad0a4a772c8928380bc43c0a1eb0f]: Commencement: Sch. 1 para. 16 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-299ad0a4a772c8928380bc43c0a1eb0f]: Commencement: Sch. 1 para. 16 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-d4aa8ec8afea1c06bb4131ace3d7fedc]: Commencement: Sch. 1 para. 17 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-d4aa8ec8afea1c06bb4131ace3d7fedc]: Commencement: Sch. 1 para. 17 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-be1c11c486f13c15a4163e3cc4c18419]: Commencement: Sch. 1 para. 18 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-be1c11c486f13c15a4163e3cc4c18419]: Commencement: Sch. 1 para. 18 in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-cc3620d969916b4844112815b69d90c3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/1) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-cc3620d969916b4844112815b69d90c3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/1) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-3bbc1e5ad30ce1492bf118ff379a7876]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-3bbc1e5ad30ce1492bf118ff379a7876]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/2) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-72485c490f448287890dfa0f245042bd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/3) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-72485c490f448287890dfa0f245042bd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/3) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-97d4180aedf4f244a53dea428a51abdb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/4) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-97d4180aedf4f244a53dea428a51abdb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/4) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-d58e4bf85697155ea279211b58dfbc6f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-d58e4bf85697155ea279211b58dfbc6f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2007/8/schedule/3) in force at 28.12.2007 by [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)

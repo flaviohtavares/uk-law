@@ -22,16 +22,16 @@ summary: ''
 
 Article 5
 
-**1.**[^key-75fafc93a5999265d6b39e016bf71127] In section 1, (The Office of Communications) omit subsections (2) to (9).
+**1.**[^c-75fafc93a5999265d6b39e016bf71127] In section 1, (The Office of Communications) omit subsections (2) to (9).
 
-**2.**[^key-a49199c2908832ae9b84f0f45a966c74] In section 7, (Short title, commencement and extent)omit subsections (2) to (4).
+**2.**[^c-a49199c2908832ae9b84f0f45a966c74] In section 7, (Short title, commencement and extent)omit subsections (2) to (4).
 
-**3.**[^key-65e3ef2e12be2a8caacca298fae91356] In the Schedule, omit paragraphs 1 to 11 and 21 to 24.
+**3.**[^c-65e3ef2e12be2a8caacca298fae91356] In the Schedule, omit paragraphs 1 to 11 and 21 to 24.
 
 ## Annotations
 
-[^key-75fafc93a5999265d6b39e016bf71127]: Commencement: Sch. 1 para. 1 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-75fafc93a5999265d6b39e016bf71127]: Commencement: Sch. 1 para. 1 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
 
-[^key-a49199c2908832ae9b84f0f45a966c74]: Commencement: Sch. 1 para. 2 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-a49199c2908832ae9b84f0f45a966c74]: Commencement: Sch. 1 para. 2 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
 
-[^key-65e3ef2e12be2a8caacca298fae91356]: Commencement: Sch. 1 para. 3 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-65e3ef2e12be2a8caacca298fae91356]: Commencement: Sch. 1 para. 3 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)

@@ -32,7 +32,7 @@ summary: ''
 - (a) DM is in NHS employment;
 - (b) DM has not attained normal pension age;
 - (c) the scheme manager is satisfied that DM—
-  - (i) is not within paragraph (1)[^key-f01abea7820a2f581e1e89724b289c2d]; but
+  - (i) is not within paragraph (1)[^c-f01abea7820a2f581e1e89724b289c2d]; but
   - (ii) suffers from a physical or mental infirmity as a result of which DM is permanently incapable of discharging the duties of DM's employment efficiently; and
 - (d) DM leaves the employment and claims payment of the pension.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f01abea7820a2f581e1e89724b289c2d]: Textual amendment: Words in [reg. 94(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/94/regulation/94/2/c/i) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [67](https://www.legislation.gov.uk/uksi/2016/245/regulation/67) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-f01abea7820a2f581e1e89724b289c2d]: Textual amendment: Words in [reg. 94(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/94/regulation/94/2/c/i) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [67](https://www.legislation.gov.uk/uksi/2016/245/regulation/67) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

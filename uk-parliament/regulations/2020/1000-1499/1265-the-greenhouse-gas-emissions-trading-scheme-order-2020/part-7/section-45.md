@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Determination of reportable emissions or aviation emissions by regulator[^key-c96c52d692f471f1e2a690482da664c6]
+## 45. Determination of reportable emissions or aviation emissions by regulator[^c-c96c52d692f471f1e2a690482da664c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,12 +35,12 @@ summary: ''
 
 (3) The regulator may make a determination of emissions of an installation or of an aircraft operator in any of the following circumstances—
 
-- (a)[^key-0e34d86bd5b0e23792b3f05e7d5e1713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0e34d86bd5b0e23792b3f05e7d5e1713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) if the operator of the installation fails to submit a report in accordance with paragraph 11(4)(b) of Schedule 6;
 - (c) if the operator of the installation fails to submit a report in accordance with paragraph 12(5)(b) of Schedule 6;
 - (d) if the regulator considers that the determination of emissions is necessary for the purpose of imposing, or considering whether to impose, a civil penalty under article 47.
 
-(4)[^key-7cc96894fe135886e0fd5d50c6e7d87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7cc96894fe135886e0fd5d50c6e7d87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A regulator who makes a determination of emissions must give notice of the determination to the operator, the aircraft operator or the person on whom the civil penalty may be imposed.
 
@@ -58,8 +58,8 @@ and paragraph (6) applies to a notice of the rectified determination as it does 
 
 ## Annotations
 
-[^key-c96c52d692f471f1e2a690482da664c6]: Commencement: Art. 45 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-c96c52d692f471f1e2a690482da664c6]: Commencement: Art. 45 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-0e34d86bd5b0e23792b3f05e7d5e1713]: Textual amendment: Art. 45(3)(a) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/1173/article/8/2)
+[^c-0e34d86bd5b0e23792b3f05e7d5e1713]: Textual amendment: Art. 45(3)(a) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [8(2)](https://www.legislation.gov.uk/uksi/2022/1173/article/8/2)
 
-[^key-7cc96894fe135886e0fd5d50c6e7d87f]: Textual amendment: Art. 45(4) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/8/3)
+[^c-7cc96894fe135886e0fd5d50c6e7d87f]: Textual amendment: Art. 45(4) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/8/3)

@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. Moratorium on debt recovery action: debtors who have a mental illness[^key-ab51886c75ee1b6abd8043585bf0496e]
+### 1. Moratorium on debt recovery action: debtors who have a mental illness[^c-ab51886c75ee1b6abd8043585bf0496e]
 
 (1) The Scottish Ministers must by regulations make provision establishing a moratorium on debt recovery action by creditors against individuals who have a mental illness.
 
@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Regulations under this section are subject to the affirmative procedure.
 
-### 2. Procedure for first regulations under section 1[^key-0170a2bbc0ee0dc2101f86b935b1fb9f]
+### 2. Procedure for first regulations under section 1[^c-0170a2bbc0ee0dc2101f86b935b1fb9f]
 
 (1) The Scottish Ministers must, before laying a draft of a Scottish statutory instrument containing the first regulations under section 1 before the Scottish Parliament—
 
@@ -76,7 +76,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In calculating any period of 60 days for the purposes of subsection (1), no account is to be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
 
-### 3. Review of mental health moratorium[^key-650c849c25af5d4dcd84d0a0530d417a]
+### 3. Review of mental health moratorium[^c-650c849c25af5d4dcd84d0a0530d417a]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the review period—
 
@@ -92,7 +92,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Modification of the Bankruptcy (Scotland) Act 2016
 
-### 4. Process for applying for recall of an award of sequestration[^key-385b7d3ed4108a1a074b6408414079a6][^key-20b541507e0acb9f8fc3648f5df1747a]
+### 4. Process for applying for recall of an award of sequestration[^c-385b7d3ed4108a1a074b6408414079a6][^c-20b541507e0acb9f8fc3648f5df1747a]
 
 (1) Part 2 of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
@@ -204,7 +204,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   ,
 - (f) the heading of the section becomes “**Recall of sequestration where Accountant in Bankruptcy is trustee**”.
 
-### 5. Recall of sequestration: payment of interest[^key-c802b0451528f6c8b641a920047b7ccf][^key-a39d73afa3e20423f2d5659754c4f305]
+### 5. Recall of sequestration: payment of interest[^c-c802b0451528f6c8b641a920047b7ccf][^c-a39d73afa3e20423f2d5659754c4f305]
 
 (1) Part 2 of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
@@ -267,13 +267,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 6. When sequestration is awarded: minimal asset process[^key-1d2c6384564967538385c8d45b4192fb][^key-eb2704efbc64db36ff2c70d27ab413ee]
+### 6. When sequestration is awarded: minimal asset process[^c-1d2c6384564967538385c8d45b4192fb][^c-eb2704efbc64db36ff2c70d27ab413ee]
 
 (1) Section 22 (when sequestration is awarded) of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
 (2) In subsection (1)(b), for “2(8)” substitute “2(2) or (8)”.
 
-### 7. Petition for sequestration: citation of debtor[^key-b4b8a4c6a3258ede0c9ea57f8ada2b0f]
+### 7. Petition for sequestration: citation of debtor[^c-b4b8a4c6a3258ede0c9ea57f8ada2b0f]
 
 **Not yet in force.**
 
@@ -285,13 +285,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 8. Gratuitous alienations: right acquired in good faith and for value[^key-9b441ac24a3c58dfbb3528c54e1c9433][^key-db95834f0e19f0d73deb4ff38e172bdf]
+### 8. Gratuitous alienations: right acquired in good faith and for value[^c-9b441ac24a3c58dfbb3528c54e1c9433][^c-db95834f0e19f0d73deb4ff38e172bdf]
 
 (1) Section 98 (gratuitous alienations) of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
 (2) In subsection (7), for “(6)” substitute “(5)”.
 
-### 9. Time periods for appeals against decisions by AiB[^key-56fb5cc098a50eab8b23d69d56dfe498][^key-e7cb7ddb702a1f05527ed82736fd05ad]
+### 9. Time periods for appeals against decisions by AiB[^c-56fb5cc098a50eab8b23d69d56dfe498][^c-e7cb7ddb702a1f05527ed82736fd05ad]
 
 (1) The Bankruptcy (Scotland) Act 2016 is modified as follows.
 
@@ -318,7 +318,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 10. Protected trust deeds: information and time to be provided to debtor[^key-9dc9e5013cc099dbf29c2a348be90df3][^key-0ca9dbac5f96551f9b40f936f98a78e3]
+### 10. Protected trust deeds: information and time to be provided to debtor[^c-9dc9e5013cc099dbf29c2a348be90df3][^c-0ca9dbac5f96551f9b40f936f98a78e3]
 
 (1) Part 14 of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
@@ -342,13 +342,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 11. Debtor not traced: former trustee’s outlays and remuneration[^key-a6c37c01a5f76c735c181afeaeff0e01][^key-ed2fc1f6427bf65e6b6b6d773b713e8e]
+### 11. Debtor not traced: former trustee’s outlays and remuneration[^c-a6c37c01a5f76c735c181afeaeff0e01][^c-ed2fc1f6427bf65e6b6b6d773b713e8e]
 
 (1) Section 142 (debtor not traced: new trustee) of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
 (2) In subsection (6)(c), after “133” insert “(there being no effect on any outlays and remuneration paid to the former trustee before the issue of the notice)”.
 
-### 12. Failure of debtor to co-operate with trustee in sequestration[^key-98659292b5b6421af2aeb3767accb4d5][^key-004fbb1a535aa1a9964069a77750af69][^key-6a0b3be10071ff57b9afdc3636ec14c9]
+### 12. Failure of debtor to co-operate with trustee in sequestration[^c-98659292b5b6421af2aeb3767accb4d5][^c-004fbb1a535aa1a9964069a77750af69][^c-6a0b3be10071ff57b9afdc3636ec14c9]
 
 (1) The Bankruptcy (Scotland) Act 2016 is modified by subsections (2) and (3).
 
@@ -491,7 +491,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In calculating a period of 5 years for the purposes of section 147A(1)(b) or section 147C(1)(b) of the Bankruptcy (Scotland) Act 2016, any part of that period which is before the commencement of subsection (1) may be included.
 
-### 13. Commissioners: disqualification from office where AiB is trustee[^key-46f025e8ed4cac3c75fc52ee40965099][^key-e598e7e5e14a635962069d0bda12aed9]
+### 13. Commissioners: disqualification from office where AiB is trustee[^c-46f025e8ed4cac3c75fc52ee40965099][^c-e598e7e5e14a635962069d0bda12aed9]
 
 (1) Part 4 of the Bankruptcy (Scotland) Act 2016 is modified as follows.
 
@@ -507,7 +507,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 14. Service of documents and arrestee’s duty of disclosure[^key-a3cf6647d3f403244044fd1bf752d071]
+### 14. Service of documents and arrestee’s duty of disclosure[^c-a3cf6647d3f403244044fd1bf752d071]
 
 (1) Part 3A of the Debtors (Scotland) Act 1987 is modified as follows.
 
@@ -562,7 +562,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 15. Attachment of property or funds: duty to consult and power to make further provision[^key-37396edd4d9bc137aea12c4bc39d4ce1]
+### 15. Attachment of property or funds: duty to consult and power to make further provision[^c-37396edd4d9bc137aea12c4bc39d4ce1]
 
 (1) The Scottish Ministers must, within 1 year of this section coming into force—
 
@@ -615,7 +615,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 16. Service of documents and employers’ etc. duty of disclosure[^key-7af9724702332e9eaadd0fbe333b8d69]
+### 16. Service of documents and employers’ etc. duty of disclosure[^c-7af9724702332e9eaadd0fbe333b8d69]
 
 (1) Part 3 of the Debtors (Scotland) Act 1987 is modified as follows.
 
@@ -747,7 +747,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Diligence on the dependence
 
-### 17. Provision of debt advice and information package[^key-0635ed634f4f85012ca2cf978e3106a2][^key-0eebcdb740d8d3312c53b08f692b5b27]
+### 17. Provision of debt advice and information package[^c-0635ed634f4f85012ca2cf978e3106a2][^c-0eebcdb740d8d3312c53b08f692b5b27]
 
 (1) Part 1A of the Debtors (Scotland) Act 1987 is modified as follows.
 
@@ -791,7 +791,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 18. Notice and redemption periods[^key-f32c34a42c4d9b512c9d0f1f58b2388b]
+### 18. Notice and redemption periods[^c-f32c34a42c4d9b512c9d0f1f58b2388b]
 
 (1) Part 3 of the Debt Arrangement and Attachment (Scotland) Act 2002 is modified as follows.
 
@@ -808,7 +808,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Money attachment
 
-### 19. Money attachment when premises are open[^key-7c40782c6f69102bd0d777d4c02da892][^key-2c546502f25082e59a2ca273133a8c85]
+### 19. Money attachment when premises are open[^c-7c40782c6f69102bd0d777d4c02da892][^c-2c546502f25082e59a2ca273133a8c85]
 
 (1) Section 176 (when money attachment not competent) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 is modified as follows.
 
@@ -823,13 +823,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Arrestment of ships
 
-### 20. Arrestment of ships on a Sunday[^key-f4f5c0cd5896d7de9eda4f54f71bc9d9][^key-e12c51749f703b047d5e014ce392088c]
+### 20. Arrestment of ships on a Sunday[^c-f4f5c0cd5896d7de9eda4f54f71bc9d9][^c-e12c51749f703b047d5e014ce392088c]
 
 Any rule of law that prevents the execution of an arrestment on a Sunday ceases to have effect insofar as it relates to the arrestment of ships.
 
 ## Final provisions
 
-### 21. Ancillary provision[^key-be6503b3e7e76ddcd15349ff07f3c8de]
+### 21. Ancillary provision[^c-be6503b3e7e76ddcd15349ff07f3c8de]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -843,7 +843,7 @@ Any rule of law that prevents the execution of an arrestment on a Sunday ceases 
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) are subject to the negative procedure if they do not.
 
-### 22. Commencement[^key-88187366e3b6b39053087d3ab97a741e]
+### 22. Commencement[^c-88187366e3b6b39053087d3ab97a741e]
 
 (1) This section and sections 21 and 23 come into force on the day after Royal Assent.
 
@@ -854,80 +854,80 @@ Any rule of law that prevents the execution of an arrestment on a Sunday ceases 
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 23. Short title[^key-384ff5bf1e14827fffcc8ef897c0263c]
+### 23. Short title[^c-384ff5bf1e14827fffcc8ef897c0263c]
 
 The short title of this Act is the Bankruptcy and Diligence (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-ab51886c75ee1b6abd8043585bf0496e]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-ab51886c75ee1b6abd8043585bf0496e]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-0170a2bbc0ee0dc2101f86b935b1fb9f]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-0170a2bbc0ee0dc2101f86b935b1fb9f]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-650c849c25af5d4dcd84d0a0530d417a]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-650c849c25af5d4dcd84d0a0530d417a]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-385b7d3ed4108a1a074b6408414079a6]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-385b7d3ed4108a1a074b6408414079a6]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-20b541507e0acb9f8fc3648f5df1747a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/9/section/4) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-20b541507e0acb9f8fc3648f5df1747a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/9/section/4) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-c802b0451528f6c8b641a920047b7ccf]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-c802b0451528f6c8b641a920047b7ccf]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-a39d73afa3e20423f2d5659754c4f305]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/9/section/5) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/107/regulation/3))
+[^c-a39d73afa3e20423f2d5659754c4f305]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/9/section/5) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/107/regulation/3))
 
-[^key-1d2c6384564967538385c8d45b4192fb]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-1d2c6384564967538385c8d45b4192fb]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-eb2704efbc64db36ff2c70d27ab413ee]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/9/section/6) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-eb2704efbc64db36ff2c70d27ab413ee]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/9/section/6) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-b4b8a4c6a3258ede0c9ea57f8ada2b0f]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-b4b8a4c6a3258ede0c9ea57f8ada2b0f]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-9b441ac24a3c58dfbb3528c54e1c9433]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-9b441ac24a3c58dfbb3528c54e1c9433]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-db95834f0e19f0d73deb4ff38e172bdf]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/9/section/8) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-db95834f0e19f0d73deb4ff38e172bdf]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/9/section/8) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-56fb5cc098a50eab8b23d69d56dfe498]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-56fb5cc098a50eab8b23d69d56dfe498]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-e7cb7ddb702a1f05527ed82736fd05ad]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/9/section/9) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-e7cb7ddb702a1f05527ed82736fd05ad]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/9/section/9) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-9dc9e5013cc099dbf29c2a348be90df3]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-9dc9e5013cc099dbf29c2a348be90df3]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-0ca9dbac5f96551f9b40f936f98a78e3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/9/section/10) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))
+[^c-0ca9dbac5f96551f9b40f936f98a78e3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/9/section/10) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))
 
-[^key-a6c37c01a5f76c735c181afeaeff0e01]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-a6c37c01a5f76c735c181afeaeff0e01]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-ed2fc1f6427bf65e6b6b6d773b713e8e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/9/section/11) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/c)
+[^c-ed2fc1f6427bf65e6b6b6d773b713e8e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/9/section/11) in force at 25.6.2025 by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/c)
 
-[^key-98659292b5b6421af2aeb3767accb4d5]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-98659292b5b6421af2aeb3767accb4d5]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-004fbb1a535aa1a9964069a77750af69]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/9/section/12) in force at 17.4.2025 for specified purposes by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)
+[^c-004fbb1a535aa1a9964069a77750af69]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/9/section/12) in force at 17.4.2025 for specified purposes by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)
 
-[^key-6a0b3be10071ff57b9afdc3636ec14c9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/9/section/12) in force at 25.6.2025 in so far as not already in force by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
+[^c-6a0b3be10071ff57b9afdc3636ec14c9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/9/section/12) in force at 25.6.2025 in so far as not already in force by [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
 
-[^key-46f025e8ed4cac3c75fc52ee40965099]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-46f025e8ed4cac3c75fc52ee40965099]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-e598e7e5e14a635962069d0bda12aed9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/9/section/13) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-e598e7e5e14a635962069d0bda12aed9]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/9/section/13) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-a3cf6647d3f403244044fd1bf752d071]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-a3cf6647d3f403244044fd1bf752d071]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-37396edd4d9bc137aea12c4bc39d4ce1]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-37396edd4d9bc137aea12c4bc39d4ce1]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-7af9724702332e9eaadd0fbe333b8d69]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-7af9724702332e9eaadd0fbe333b8d69]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-0635ed634f4f85012ca2cf978e3106a2]: Commencement: S. 17 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-0635ed634f4f85012ca2cf978e3106a2]: Commencement: S. 17 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-0eebcdb740d8d3312c53b08f692b5b27]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/9/section/17) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))
+[^c-0eebcdb740d8d3312c53b08f692b5b27]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/9/section/17) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))
 
-[^key-f32c34a42c4d9b512c9d0f1f58b2388b]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-f32c34a42c4d9b512c9d0f1f58b2388b]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-7c40782c6f69102bd0d777d4c02da892]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-7c40782c6f69102bd0d777d4c02da892]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-2c546502f25082e59a2ca273133a8c85]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/9/section/19) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-2c546502f25082e59a2ca273133a8c85]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/9/section/19) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-f4f5c0cd5896d7de9eda4f54f71bc9d9]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
+[^c-f4f5c0cd5896d7de9eda4f54f71bc9d9]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2)
 
-[^key-e12c51749f703b047d5e014ce392088c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/9/section/20) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-e12c51749f703b047d5e014ce392088c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/9/section/20) in force at 20.1.2025 by [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
 
-[^key-be6503b3e7e76ddcd15349ff07f3c8de]: Commencement: S. 21 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)
+[^c-be6503b3e7e76ddcd15349ff07f3c8de]: Commencement: S. 21 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)
 
-[^key-88187366e3b6b39053087d3ab97a741e]: Commencement: S. 22 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)
+[^c-88187366e3b6b39053087d3ab97a741e]: Commencement: S. 22 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)
 
-[^key-384ff5bf1e14827fffcc8ef897c0263c]: Commencement: S. 23 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)
+[^c-384ff5bf1e14827fffcc8ef897c0263c]: Commencement: S. 23 in force at 16.7.2024, see [s. 22(1)](https://www.legislation.gov.uk/asp/2024/9/section/22/1)

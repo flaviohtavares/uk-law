@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Submission of assignment stage form to OFCOM[^key-7a13710b6025ef86adfb46eb642e4cd8]
+## 78. Submission of assignment stage form to OFCOM[^c-7a13710b6025ef86adfb46eb642e4cd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a13710b6025ef86adfb46eb642e4cd8]: Commencement: Reg. 78 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-7a13710b6025ef86adfb46eb642e4cd8]: Commencement: Reg. 78 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

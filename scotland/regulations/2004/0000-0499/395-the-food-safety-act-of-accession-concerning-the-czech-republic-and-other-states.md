@@ -87,7 +87,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (2) At the end of the definition of “the Directive” in regulation 2 (interpretation) insert– “ as amended by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded ”.
 
-## 7. Amendment of the Condensed Milk and Dried Milk (Scotland) Regulations 2003[^key-9148392a51345576f4d66dcb2e7de3da]
+## 7. Amendment of the Condensed Milk and Dried Milk (Scotland) Regulations 2003[^c-9148392a51345576f4d66dcb2e7de3da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -130,4 +130,4 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^c5349471]: Marginal citation: [S.S.I. 2000/130](https://www.legislation.gov.uk/ssi/2000/130).
 
-[^key-9148392a51345576f4d66dcb2e7de3da]: Textual amendment: Reg. 7 revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
+[^c-9148392a51345576f4d66dcb2e7de3da]: Textual amendment: Reg. 7 revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)

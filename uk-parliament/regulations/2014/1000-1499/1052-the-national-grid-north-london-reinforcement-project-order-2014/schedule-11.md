@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-74fef18ed9d9cb43e99c930b060ef477]
+## SCHEDULE 11 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-74fef18ed9d9cb43e99c930b060ef477]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ Article 31
 
 ## Annotations
 
-[^key-74fef18ed9d9cb43e99c930b060ef477]: Commencement: Sch. 11 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-74fef18ed9d9cb43e99c930b060ef477]: Commencement: Sch. 11 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

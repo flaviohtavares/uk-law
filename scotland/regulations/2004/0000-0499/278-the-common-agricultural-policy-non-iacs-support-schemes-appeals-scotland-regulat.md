@@ -53,17 +53,17 @@ These Regulations may be cited as the Common Agricultural Policy Non-IACS Suppor
 
 (1) In these Regulations–
 
-- “**applicant**” means the person to whom a decision referred to in regulation 3 below is directed; [^key-89d4d8a6fc87ff17a2142229893b6b5b]...
-- “**date of notification of the decision**” means the date of the letter from the Scottish Ministers to the applicant notifying the applicant of the decision which the applicant is seeking to have reviewed [^key-1e4f33c62ae02113a289c3cdcf65754b]... ; and[^key-c2caf245246579e45a596b70bebdf190]
+- “**applicant**” means the person to whom a decision referred to in regulation 3 below is directed; [^c-89d4d8a6fc87ff17a2142229893b6b5b]...
+- “**date of notification of the decision**” means the date of the letter from the Scottish Ministers to the applicant notifying the applicant of the decision which the applicant is seeking to have reviewed [^c-1e4f33c62ae02113a289c3cdcf65754b]... ; and[^c-c2caf245246579e45a596b70bebdf190]
 - “**the SCMO Regulations**” means the Regulations listed in the Schedule, as amended from time to time.
 
 (2) Any reference in these Regulations to a person to whom a decision is directed, an applicant for review or a person appealing to the Scottish Land Court includes a reference to any successor, executor, trustee in bankruptcy, receiver or liquidator of such a person or applicant.
 
-(3)[^key-4479789cb62448c7a32db9cceb9a70f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4479789cb62448c7a32db9cceb9a70f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Application
 
-(1)[^key-a113af6e733fa0c6d78b0bd523716e3a] These Regulations apply in relation to decisions made by or on behalf the Scottish Ministers under any of the SCMO Regulations, and directed to applicants whose principal trading address was in Scotland at the date of the decision to be reviewed.
+(1)[^c-a113af6e733fa0c6d78b0bd523716e3a] These Regulations apply in relation to decisions made by or on behalf the Scottish Ministers under any of the SCMO Regulations, and directed to applicants whose principal trading address was in Scotland at the date of the decision to be reviewed.
 
 (2) Any such decision may be reviewed, and any decision on a review may be appealed, in accordance with the following provisions of these Regulations.
 
@@ -202,7 +202,7 @@ A member of the Scottish Executive
 
 St Andrew’s House, Edinburgh
 
-## SCHEDULE — The SCMO Regulations in respect of which decisions are amenable to review and appeal[^key-2730e15992afac7f330f47fa89183665]
+## SCHEDULE — The SCMO Regulations in respect of which decisions are amenable to review and appeal[^c-2730e15992afac7f330f47fa89183665]
 
 Regulations 2(1) and 3
 
@@ -346,10 +346,10 @@ Regulations 2(1) and 3
 - Regulation (EU) No 510/2014 of the European Parliament and of the Council laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products and repealing Council Regulations [(EC) No 1216/2009](https://www.legislation.gov.uk/eur/2009/1216) and [(EC) No 614/2009](https://www.legislation.gov.uk/eur/2009/0614);
 - Commission Implementing Regulation (EU) No 776/2014 fixing the quantitative limit for exports of out-of-quota sugar and isoglucose until the end of the 2014/2015 marketing year;
 - Commission Implementing Regulation (EU) No 1033/2014 fixing the representative prices and additional import duties applicable to molasses in the sugar sector from 1st October 2014;
-- Commission Delegated Regulation ([^key-8e8b6211953d04cf84979a2823c8e6ed]EU) 2016/1238 supplementing Regulation (EU) 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage, as last amended by Commission Delegated Regulation (EU) 2018/149;
-- Commission Delegated Regulation ([^key-f0526be49960c6034de754d4718c9ddb]EU) 2017/40 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014;
+- Commission Delegated Regulation ([^c-8e8b6211953d04cf84979a2823c8e6ed]EU) 2016/1238 supplementing Regulation (EU) 1308/2013 of the European Parliament and of the Council with regard to public intervention and aid for private storage, as last amended by Commission Delegated Regulation (EU) 2018/149;
+- Commission Delegated Regulation ([^c-f0526be49960c6034de754d4718c9ddb]EU) 2017/40 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014;
 - Commission Implementing Regulation (EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments.
-- Commission Delegated[^key-c686e33595d2799c6cfa87aa60d98e91] [Regulation (EU) 2017/891](https://www.legislation.gov.uk/european/regulation/2017/0891) supplementing [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing [Regulation (EU) No 543/2011](https://www.legislation.gov.uk/european/regulation/2011/0543),
+- Commission Delegated[^c-c686e33595d2799c6cfa87aa60d98e91] [Regulation (EU) 2017/891](https://www.legislation.gov.uk/european/regulation/2017/0891) supplementing [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing [Regulation (EU) No 543/2011](https://www.legislation.gov.uk/european/regulation/2011/0543),
 - Commission Implementing [Regulation (EU) 2017/892](https://www.legislation.gov.uk/european/regulation/2017/0892) laying down rules for the application of [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors.
 
 *(This note is not part of the Regulations)*
@@ -390,22 +390,22 @@ Regulation 11 sets out certain aspects of the internal procedures of the Scottis
 
 [^c5346081]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, so far as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-89d4d8a6fc87ff17a2142229893b6b5b]: Textual amendment: Word in reg. 2(1) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/i)
+[^c-89d4d8a6fc87ff17a2142229893b6b5b]: Textual amendment: Word in reg. 2(1) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/i)
 
-[^key-1e4f33c62ae02113a289c3cdcf65754b]: Textual amendment: Full stop in reg. 2(1) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/ii)
+[^c-1e4f33c62ae02113a289c3cdcf65754b]: Textual amendment: Full stop in reg. 2(1) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/ii)
 
-[^key-c2caf245246579e45a596b70bebdf190]: Textual amendment: Words in reg. 2(1) inserted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/ii)
+[^c-c2caf245246579e45a596b70bebdf190]: Textual amendment: Words in reg. 2(1) inserted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/a/ii)
 
-[^key-4479789cb62448c7a32db9cceb9a70f8]: Textual amendment: Reg. 2(3) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/b)
+[^c-4479789cb62448c7a32db9cceb9a70f8]: Textual amendment: Reg. 2(3) omitted (25.5.2015) by virtue of [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/167/regulation/3/b)
 
-[^key-a113af6e733fa0c6d78b0bd523716e3a]: Textual amendment: Reg. 3(1) substituted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/167/regulation/4)
+[^c-a113af6e733fa0c6d78b0bd523716e3a]: Textual amendment: Reg. 3(1) substituted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/167/regulation/4)
 
 [^c5346091]: Marginal citation: [1993 c. 45](https://www.legislation.gov.uk/ukpga/1993/45).
 
-[^key-2730e15992afac7f330f47fa89183665]: Textual amendment: Sch. substituted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2015/167/regulation/5)
+[^c-2730e15992afac7f330f47fa89183665]: Textual amendment: Sch. substituted (25.5.2015) by [The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/167)](https://www.legislation.gov.uk/ssi/2015/167), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/167/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2015/167/regulation/5)
 
-[^key-8e8b6211953d04cf84979a2823c8e6ed]: Textual amendment: Words in sch. inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [39(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/39/2)
+[^c-8e8b6211953d04cf84979a2823c8e6ed]: Textual amendment: Words in sch. inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [39(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/39/2)
 
-[^key-f0526be49960c6034de754d4718c9ddb]: Textual amendment: Words in sch. inserted (1.8.2017) by [The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 (S.S.I. 2017/178)](https://www.legislation.gov.uk/ssi/2017/178), [regs. 1](https://www.legislation.gov.uk/ssi/2017/178/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2017/178/regulation/6/2)
+[^c-f0526be49960c6034de754d4718c9ddb]: Textual amendment: Words in sch. inserted (1.8.2017) by [The Milk and Other Products (Pupils in Educational Establishments) (Scotland) Regulations 2017 (S.S.I. 2017/178)](https://www.legislation.gov.uk/ssi/2017/178), [regs. 1](https://www.legislation.gov.uk/ssi/2017/178/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2017/178/regulation/6/2)
 
-[^key-c686e33595d2799c6cfa87aa60d98e91]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2004/278/schedule) inserted (30.1.2026) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/41)](https://www.legislation.gov.uk/ssi/2026/41), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/41/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2026/41/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2026/41/regulation/6))
+[^c-c686e33595d2799c6cfa87aa60d98e91]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2004/278/schedule) inserted (30.1.2026) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetables) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/41)](https://www.legislation.gov.uk/ssi/2026/41), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/41/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2026/41/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2026/41/regulation/6))

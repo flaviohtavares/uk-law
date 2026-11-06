@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Exception for authorised conduct in a relevant country[^key-14d0a7b98996649547281bbc914059ef][^key-99e9ef9438325645310aa021e31dff84]
+## 31. Exception for authorised conduct in a relevant country[^c-14d0a7b98996649547281bbc914059ef][^c-99e9ef9438325645310aa021e31dff84]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14d0a7b98996649547281bbc914059ef]: Commencement: Reg. 31 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-14d0a7b98996649547281bbc914059ef]: Commencement: Reg. 31 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-99e9ef9438325645310aa021e31dff84]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2020/1278/regulation/31) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-99e9ef9438325645310aa021e31dff84]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2020/1278/regulation/31) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

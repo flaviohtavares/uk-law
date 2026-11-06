@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Information from administrator[^key-29e59b029fe91cc9def665bacf4e9a49]
+## 81. Information from administrator[^c-29e59b029fe91cc9def665bacf4e9a49]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e59b029fe91cc9def665bacf4e9a49]: Commencement: Rule 81 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-29e59b029fe91cc9def665bacf4e9a49]: Commencement: Rule 81 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

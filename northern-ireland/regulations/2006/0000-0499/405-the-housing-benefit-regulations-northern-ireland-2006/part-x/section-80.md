@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Who may claim[^key-9b27fd9db7125ab5cbf8b95dc6c842fc]
+## 80. Who may claim[^c-9b27fd9db7125ab5cbf8b95dc6c842fc]
 
 *Extent: N.I.*
 
@@ -37,16 +37,16 @@ that controller or attorney, as the case may be, may make a claim on behalf of t
 - (b) the person appointed may resign his office after having given 4 weeks notice in writing to the relevant authority of his intention to do so;
 - (c) any such appointment shall terminate when the relevant authority is notified that a controller or an attorney has been appointed.
 
-(5) Where a person who is liable to make payments in respect of a dwelling is for the time being unable to act and the Department has appointed a person to act on his behalf for the purposes of the Act or under regulation 52 of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2016[^key-5fa18941abfbc8945a1faa87e04f2795] the relevant authority may, if that person agrees, treat him as if he had been appointed by them under paragraph (3).
+(5) Where a person who is liable to make payments in respect of a dwelling is for the time being unable to act and the Department has appointed a person to act on his behalf for the purposes of the Act or under regulation 52 of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2016[^c-5fa18941abfbc8945a1faa87e04f2795] the relevant authority may, if that person agrees, treat him as if he had been appointed by them under paragraph (3).
 
 (6) Anything required by these Regulations to be done by or to any person who is for the time being unable to act may be done by or to the controller or attorney, if any, or by or to the person appointed or treated as appointed under this regulation and the receipt of any such person so appointed shall be a good discharge to the relevant authority for any sum paid.
 
 ## Annotations
 
-[^key-9b27fd9db7125ab5cbf8b95dc6c842fc]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2006/405/regulation/80) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-9b27fd9db7125ab5cbf8b95dc6c842fc]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2006/405/regulation/80) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00139]: Footnote: [1971 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1971/33)
 
 [^f00140]: Footnote: [S.I. 1987/1627 (N.I. 16)](https://www.legislation.gov.uk/nisi/1987/1627)
 
-[^key-5fa18941abfbc8945a1faa87e04f2795]: Textual amendment: Words in [reg. 80(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/80/5) inserted (20.6.2016 for specified purposes, coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 (S.R. 2016/220)](https://www.legislation.gov.uk/nisr/2016/220), [reg. 1(2)(3)](https://www.legislation.gov.uk/nisr/2016/220/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2016/220/schedule/2/paragraph/2)
+[^c-5fa18941abfbc8945a1faa87e04f2795]: Textual amendment: Words in [reg. 80(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/80/5) inserted (20.6.2016 for specified purposes, coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 (S.R. 2016/220)](https://www.legislation.gov.uk/nisr/2016/220), [reg. 1(2)(3)](https://www.legislation.gov.uk/nisr/2016/220/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2016/220/schedule/2/paragraph/2)

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)  The court may, on the application of the appropriate regulator[^key-8b26b5b58175132d7d9cc8696779786a], order the sale of shares or the disposition of voting power in the following circumstances.
+(1)  The court may, on the application of the appropriate regulator[^c-8b26b5b58175132d7d9cc8696779786a], order the sale of shares or the disposition of voting power in the following circumstances.
 
 (2) The circumstances are that—
 
 - (a) a person has control over a UK authorised person by virtue of holding the shares or voting power; and
 - (b) the acquisition or continued holding of the shares or voting power by that person is in contravention of a final notice which confirms a decision notice given under section 189 or section 191A.
 
-(2A)[^key-b84c79fe22c726e184bc4a6d910fc876] Where the appropriate regulator is the PRA, it must consult the FCA before making an application to the court under this section.
+(2A)[^c-b84c79fe22c726e184bc4a6d910fc876] Where the appropriate regulator is the PRA, it must consult the FCA before making an application to the court under this section.
 
 (2B) Where the appropriate regulator is the FCA, it must consult the PRA before making an application to the court under this section if—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (6) The jurisdiction conferred by this section may be exercised by the High Court and the Court of Session.
 
-(7)[^key-24132ed252b53c9316faa4a3cecc44d1] The appropriate regulator must obtain the consent of the Bank of England before making an application under this section in relation to shares if the Bank has the power to direct the sale of those shares under section 190A(4).
+(7)[^c-24132ed252b53c9316faa4a3cecc44d1] The appropriate regulator must obtain the consent of the Bank of England before making an application under this section in relation to shares if the Bank has the power to direct the sale of those shares under section 190A(4).
 
 (8) The appropriate regulator may not make an application under this section in relation to shares if the Bank of England has given a direction for the sale of those shares under section 190A(4).
 
@@ -53,8 +53,8 @@ summary: ''
 
 [^c2081646]: Textual amendment: Ss. 178-191G and cross-headings substituted (21.3.2009) for ss. 178-191 and cross-headings by [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 3](https://www.legislation.gov.uk/uksi/2009/534/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/534/schedule/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
-[^key-8b26b5b58175132d7d9cc8696779786a]: Textual amendment: Words in Pt. 12 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8b26b5b58175132d7d9cc8696779786a]: Textual amendment: Words in Pt. 12 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/2), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-b84c79fe22c726e184bc4a6d910fc876]: Textual amendment: S. 191C(2A)(2B) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/9), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b84c79fe22c726e184bc4a6d910fc876]: Textual amendment: S. 191C(2A)(2B) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 26(9)](https://www.legislation.gov.uk/ukpga/2012/21/section/26/9), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-24132ed252b53c9316faa4a3cecc44d1]: Textual amendment: S. 191C(7)(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2016/1239/article/33/4)
+[^c-24132ed252b53c9316faa4a3cecc44d1]: Textual amendment: S. 191C(7)(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [33(4)](https://www.legislation.gov.uk/uksi/2016/1239/article/33/4)

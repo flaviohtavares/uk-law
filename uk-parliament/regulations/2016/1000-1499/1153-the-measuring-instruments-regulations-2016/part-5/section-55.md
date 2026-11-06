@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Presumption of conformity of approved bodies[^M_E_d4818f0b-f5f2-4380-f6b7-23bfa29fe47a][^key-819bc0dbe42933501fb9b560b0fdcea2]
+## 55. Presumption of conformity of approved bodies[^M_E_d4818f0b-f5f2-4380-f6b7-23bfa29fe47a][^c-819bc0dbe42933501fb9b560b0fdcea2]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Secretary of State may notify to the Commission and the other relevant[^key-558cf1c1d25c96ccd385820f52f20cfd] states only those conformity assessment bodies that qualify for notification.
+(1) The Secretary of State may notify to the Commission and the other relevant[^c-558cf1c1d25c96ccd385820f52f20cfd] states only those conformity assessment bodies that qualify for notification.
 
 (2) A conformity assessment body qualifies for notification if the first and the second conditions below are met.
 
@@ -56,8 +56,8 @@ summary: ''
 
 [^M_E_d4818f0b-f5f2-4380-f6b7-23bfa29fe47a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_7c8f2d44-90a5-4887-8de1-1a9e2254d0c6]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-558cf1c1d25c96ccd385820f52f20cfd]: Textual amendment: Word in [reg. 55](https://www.legislation.gov.uk/uksi/2016/1153/regulation/55) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/2)
+[^c-558cf1c1d25c96ccd385820f52f20cfd]: Textual amendment: Word in [reg. 55](https://www.legislation.gov.uk/uksi/2016/1153/regulation/55) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/5/2)

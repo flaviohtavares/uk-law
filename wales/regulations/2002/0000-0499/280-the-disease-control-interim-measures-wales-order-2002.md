@@ -43,11 +43,11 @@ Coming into force
 
 The National Assembly for Wales and the Minister of Agriculture, Fisheries and Food, in exercise of the powers conferred on them under sections 1, 7, 8(1), 83(2) and 87(2) of the Animal Health Act 1981[^f00001] and of all other powers enabling them in that behalf, make the following Order:
 
-## 1. Title, application, commencement and cessation[^key-a5d7569eaf26091f52296928e2d00384]
+## 1. Title, application, commencement and cessation[^c-a5d7569eaf26091f52296928e2d00384]
 
 This Order may be cited as the Disease Control (Interim Measures) (Wales) Order 2002; it applies to Wales, comes into force on 11th February 2002 and shall cease to have effect on 1st December 2002.
 
-## 2. Interpretation[^key-dc14a655174ef84d385c01e9f25ad8f1]
+## 2. Interpretation[^c-dc14a655174ef84d385c01e9f25ad8f1]
 
 In this Order—
 
@@ -71,7 +71,7 @@ In this Order—
 - “sole occupancy group” means any group of premises in relation to which an authority has been issued by the National Assembly or the Minister permitting movements between each of the premises in the group; and
 - “tack land” means land on to which animals belonging to another have been taken to be fed or pastured for reward by an agister.
 
-## 3. Restrictions on the movement of animals[^key-e33643f0c76891c2d734506c7bf93fd6]
+## 3. Restrictions on the movement of animals[^c-e33643f0c76891c2d734506c7bf93fd6]
 
 (1) Subject to the following provisions of this article, it shall not be lawful to move an animal from any premises (in this article referred to as the “premises of origin”) unless the following requirements are met—
 
@@ -132,14 +132,14 @@ In this Order—
 
 (9) An authority issued under article 8(2)(a)(i) of the Pigs (Records, Identification and Movement) Order 1995 and remaining in force immediately before the coming into force of this Order shall continue to have effect as if it were an authority issued under paragraph (2)(b)(vi) above.
 
-## 4. Restrictions on movements to slaughter houses[^key-bd0dd122850c58ee129dd9be2d786af7]
+## 4. Restrictions on movements to slaughter houses[^c-bd0dd122850c58ee129dd9be2d786af7]
 
 It shall not be lawful for any person—
 
 - (a) to move any animal to a slaughterhouse save for the purpose of slaughter within 48 hours of its arrival there; or
 - (b) to receive any animal from a slaughterhouse unless, in the case of an animal other than a pig, this is under the authority of a licence issued by a veterinary inspector.
 
-## 5. Shearing or dipping of sheep[^key-289161b478299c8f1d77968abd722cbd]
+## 5. Shearing or dipping of sheep[^c-289161b478299c8f1d77968abd722cbd]
 
 (1) Subject to the following provisions of this article, no person may—
 
@@ -157,7 +157,7 @@ except in accordance with the conditions of a licence issued by the Minister or 
 - (a) “shearing” includes clipping and dagging; and
 - (b) “dipping” includes showering and jetting sheep with a sheep dip.
 
-## 6. Ultrasound scanning of sheep[^key-531a931a6a45c80986877cdc1094906d]
+## 6. Ultrasound scanning of sheep[^c-531a931a6a45c80986877cdc1094906d]
 
 (1) Subject to paragraph (2) below, no person shall carry out or cause to be carried out ultrasound scanning of sheep except in accordance with the conditions of a licence issued by the Minister or the National Assembly.
 
@@ -165,7 +165,7 @@ except in accordance with the conditions of a licence issued by the Minister or 
 
 (3) A licence issued under article 37CC(1) of the Foot-and-Mouth Disease Order 1983 in force immediately before the coming into force of this Order shall continue to have effect as if it were a licence issued under paragraph (1) above.
 
-## 7. Hunting[^key-1393ec4b63b96d4b492a279f7d2da3a8]
+## 7. Hunting[^c-1393ec4b63b96d4b492a279f7d2da3a8]
 
 (1) Subject to the following provisions of this article, no person may take part in hunting.
 
@@ -185,7 +185,7 @@ except in accordance with the conditions of a licence issued by the Minister or 
 - (a) the provisions of the Order or of the aforesaid general permit are or have not been complied with by the person on whom the notice is served or by persons taking part in any hunt which he or she has organised; and
 - (b) the service of such a notice is necessary to prevent a possible spread of disease.
 
-## 8. Licences, authorisations, permits and notices[^key-f79bc29b98c05720a695dd2e50f26b26]
+## 8. Licences, authorisations, permits and notices[^c-f79bc29b98c05720a695dd2e50f26b26]
 
 (1) Any licence, authority, permit or notice issued or served under this Order shall be in writing, may be general or specific, shall be subject to such conditions as are specified in it and may be varied, suspended or revoked at any time by notice in writing issued—
 
@@ -217,7 +217,7 @@ except in accordance with the conditions of a licence issued by the Minister or 
 
 (8) A notice issued under paragraph (5)(a) above shall be served on the occupiers of each of the premises specified in the notice and a notice issued under paragraph (5)(b) above shall be served on the person prohibited from moving animals thereunder and on the occupiers of any premises individually named on the notice.
 
-## 9. Change of occupation of premises affected by the provisions of this Order[^key-b11e4ff0d07241e14cd93c40b5f5a371]
+## 9. Change of occupation of premises affected by the provisions of this Order[^c-b11e4ff0d07241e14cd93c40b5f5a371]
 
 (1) Where, on the termination of his or her right of occupation of any premises, the owner of any animal on those premises is unable to remove it therefrom by reason of any restriction imposed by or under the foregoing provisions of this Order, the person entitled to the occupation of those premises on such termination shall—
 
@@ -226,7 +226,7 @@ except in accordance with the conditions of a licence issued by the Minister or 
 
 (2) The provisions of paragraph (1) above shall continue to apply until the expiration of a period of 7 days from the date on which any restriction on the movement of the animal off the premises ceases to apply and the owner of the animal shall be liable to pay to the person who affords any facilities or feeds, tends or otherwise keeps that animal, in accordance with those provisions, such sums by way of remuneration and reimbursement of expenses as may be just and reasonable in all the circumstances.
 
-## 10. General provisions as to licences[^key-b203d097224b074a2cd1f687a8b4d8f6]
+## 10. General provisions as to licences[^c-b203d097224b074a2cd1f687a8b4d8f6]
 
 (1) Subject to paragraph (4) below, every animal which is moved under the authority of a licence granted under this Order shall—
 
@@ -247,26 +247,26 @@ except in accordance with the conditions of a licence issued by the Minister or 
 
 (5) When an inspector of a local authority issues a licence under article 3(1)(a) above, he or she shall retain a copy of the licence for six months.
 
-## 11. Powers of officers of the National Assembly, the Minister and inspectors of local authorities in case of default[^key-5aaeb329797cf077742a268d680fd7b8]
+## 11. Powers of officers of the National Assembly, the Minister and inspectors of local authorities in case of default[^c-5aaeb329797cf077742a268d680fd7b8]
 
 (1) If any person to whom a licence under this Order applies fails to comply with the requirements of that licence or any notice made thereunder an officer of the National Assembly or the Minister or an inspector of a local authority may, without prejudice to any proceedings for an offence arising out of such default, take all steps as may be necessary to ensure that the requirements of the licence or notice are complied with and in default of such compliance the officer or inspector will cause them to be carried out.
 
 (2) The amount of any expenses reasonably incurred by an officer of the National Assembly or the Minister or by an inspector of a local authority in the exercise of any power conferred by paragraph (1) above shall be recoverable on demand as a civil debt by the National Assembly, the Minister or by the local authority, as the case may be, from the person in default.
 
-## 12. Offences[^key-89896874054039c4fab6a99c4fd9ec31]
+## 12. Offences[^c-89896874054039c4fab6a99c4fd9ec31]
 
 It shall be an offence under the Act for any person, without legal authority or excuse, proof of which shall lie on him to—
 
 - (a) contravene any provision of this Order or any provision of a licence, authority, permit or notice issued or served under it; or
 - (b) cause or permit any such contravention or non compliance.
 
-## 13. Local authority to enforce Order[^key-8807d0e922cc83b41193ec8b5de0d1a3]
+## 13. Local authority to enforce Order[^c-8807d0e922cc83b41193ec8b5de0d1a3]
 
 (1) Subject to paragraph (2) below the provisions of this Order shall be executed and enforced by the local authority.
 
 (2) In relation to cases of a particular description, or in relation to a particular case the National Assembly may direct that this Order shall be executed and enforced by it and not by the local authority or that this Order shall be executed and enforced jointly by it and the local authority.
 
-## 14. Extension of definition of “animals”[^key-2c13fadc4a4bebabb4d1a3a54f850f22]
+## 14. Extension of definition of “animals”[^c-2c13fadc4a4bebabb4d1a3a54f850f22]
 
 For the purposes of the Act in its application to this Order, the definition of “animals” in section 87(2) is extended so as to comprise elephants.
 
@@ -313,9 +313,9 @@ A regulatory appraisal has not been prepared for this Order.
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). *See* section 86(1) for the definitions of “the Ministers” and “the Minister”. Functions of “the Ministers”, so far as exercisable by the Secretary of State for Wales in relation to Wales were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); functions of “the Ministers”, so far as exercisable by the Secretary of State for Scotland in relation to Wales, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)).
 
-[^key-a5d7569eaf26091f52296928e2d00384]: Commencement: Art. 1 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-a5d7569eaf26091f52296928e2d00384]: Commencement: Art. 1 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-dc14a655174ef84d385c01e9f25ad8f1]: Commencement: Art. 2 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-dc14a655174ef84d385c01e9f25ad8f1]: Commencement: Art. 2 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
 [^f00002]: Footnote: S.I. [1998/871](https://www.legislation.gov.uk/uksi/1998/871), as amended by S.I. [1998/1796](https://www.legislation.gov.uk/uksi/1998/1796), S.I. [1998/2969](https://www.legislation.gov.uk/uksi/1998/2969) and S.I. [1999/1339](https://www.legislation.gov.uk/uksi/1999/1339) and as regards Wales by S.I. [2001/2360](https://www.legislation.gov.uk/uksi/2001/2360).
 
@@ -327,34 +327,34 @@ A regulatory appraisal has not been prepared for this Order.
 
 [^f00006]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539) as amended by S.I. [1995/3189](https://www.legislation.gov.uk/uksi/1995/3189), and in relation to Wales by S.I. [2000/656](https://www.legislation.gov.uk/uksi/2000/656), S.I. [2000/2257](https://www.legislation.gov.uk/uksi/2000/2257), S.I. [2001/1508](https://www.legislation.gov.uk/uksi/2001/1508), S.I. [2001/1740](https://www.legislation.gov.uk/uksi/2001/1740), S.I. [2001/1802](https://www.legislation.gov.uk/uksi/2001/1802), S.I. [2001/2627](https://www.legislation.gov.uk/uksi/2001/2627) and S.I. [2002/129](https://www.legislation.gov.uk/uksi/2002/129).
 
-[^key-e33643f0c76891c2d734506c7bf93fd6]: Commencement: Art. 3 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-e33643f0c76891c2d734506c7bf93fd6]: Commencement: Art. 3 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
 [^f00007]: Footnote: S.I. [1995/11](https://www.legislation.gov.uk/uksi/1995/11) as amended by S.I. [1995/2922](https://www.legislation.gov.uk/uksi/1995/2922) and in relation to Wales by S.I. [2001/2662](https://www.legislation.gov.uk/uksi/2001/2662) and the Pigs (Records, Identification and Movement) (Interim Measures) (Wales) Order 2002 (S.I. [2002/281](https://www.legislation.gov.uk/uksi/2002/281)).
 
 [^f00008]: Footnote: S.I. [2000/1673](https://www.legislation.gov.uk/uksi/2000/1673) as amended by S.I. [2000/2266](https://www.legislation.gov.uk/uksi/2000/2266), S.I. [2000/2524](https://www.legislation.gov.uk/uksi/2000/2524), S.I. [2000/2900](https://www.legislation.gov.uk/uksi/2000/2900) and S.I. [2000/3128](https://www.legislation.gov.uk/uksi/2000/3128).
 
-[^key-bd0dd122850c58ee129dd9be2d786af7]: Commencement: Art. 4 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-bd0dd122850c58ee129dd9be2d786af7]: Commencement: Art. 4 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-289161b478299c8f1d77968abd722cbd]: Commencement: Art. 5 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-289161b478299c8f1d77968abd722cbd]: Commencement: Art. 5 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-531a931a6a45c80986877cdc1094906d]: Commencement: Art. 6 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-531a931a6a45c80986877cdc1094906d]: Commencement: Art. 6 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-1393ec4b63b96d4b492a279f7d2da3a8]: Commencement: Art. 7 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-1393ec4b63b96d4b492a279f7d2da3a8]: Commencement: Art. 7 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-f79bc29b98c05720a695dd2e50f26b26]: Commencement: Art. 8 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-f79bc29b98c05720a695dd2e50f26b26]: Commencement: Art. 8 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
 [^f00009]: Footnote: S.I. [2001/2662](https://www.legislation.gov.uk/uksi/2001/2662).
 
-[^key-b11e4ff0d07241e14cd93c40b5f5a371]: Commencement: Art. 9 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-b11e4ff0d07241e14cd93c40b5f5a371]: Commencement: Art. 9 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-b203d097224b074a2cd1f687a8b4d8f6]: Commencement: Art. 10 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-b203d097224b074a2cd1f687a8b4d8f6]: Commencement: Art. 10 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-5aaeb329797cf077742a268d680fd7b8]: Commencement: Art. 11 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-5aaeb329797cf077742a268d680fd7b8]: Commencement: Art. 11 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-89896874054039c4fab6a99c4fd9ec31]: Commencement: Art. 12 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-89896874054039c4fab6a99c4fd9ec31]: Commencement: Art. 12 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-8807d0e922cc83b41193ec8b5de0d1a3]: Commencement: Art. 13 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-8807d0e922cc83b41193ec8b5de0d1a3]: Commencement: Art. 13 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
-[^key-2c13fadc4a4bebabb4d1a3a54f850f22]: Commencement: Art. 14 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
+[^c-2c13fadc4a4bebabb4d1a3a54f850f22]: Commencement: Art. 14 in force at 11.2.2002, see [art. 1](https://www.legislation.gov.uk/wsi/2002/280/article/1)
 
 [^f00010]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

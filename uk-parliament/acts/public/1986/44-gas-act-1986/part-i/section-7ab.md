@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7AB. Licensing of a person providing a smart meter communication service[^key-568fc711be68620f1fe9a92f212ba009]
+## 7AB. Licensing of a person providing a smart meter communication service[^c-568fc711be68620f1fe9a92f212ba009]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-568fc711be68620f1fe9a92f212ba009]: Textual amendment: S. 7AB inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [21](https://www.legislation.gov.uk/uksi/2012/2400/article/21)
+[^c-568fc711be68620f1fe9a92f212ba009]: Textual amendment: S. 7AB inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [21](https://www.legislation.gov.uk/uksi/2012/2400/article/21)

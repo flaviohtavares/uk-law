@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218A. Duty to report on public teletext service[^key-7412103cd53e7a7e7ee8cead9cc67775]
+## 218A. Duty to report on public teletext service[^c-7412103cd53e7a7e7ee8cead9cc67775]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7412103cd53e7a7e7ee8cead9cc67775]: Textual amendment: [Ss. 218-223](https://www.legislation.gov.uk/ukpga/2003/21/section/218) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 26](https://www.legislation.gov.uk/ukpga/2024/15/section/26), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/f)
+[^c-7412103cd53e7a7e7ee8cead9cc67775]: Textual amendment: [Ss. 218-223](https://www.legislation.gov.uk/ukpga/2003/21/section/218) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 26](https://www.legislation.gov.uk/ukpga/2024/15/section/26), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Certification of plans etc.[^key-83a1b258c5b3d1bb3f2f361fa8995993]
+## 66. Certification of plans etc.[^c-83a1b258c5b3d1bb3f2f361fa8995993]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Agency must, as soon as practicable after the making of this Order, submit c
 
 ## Annotations
 
-[^key-83a1b258c5b3d1bb3f2f361fa8995993]: Commencement: Art. 66 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-83a1b258c5b3d1bb3f2f361fa8995993]: Commencement: Art. 66 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

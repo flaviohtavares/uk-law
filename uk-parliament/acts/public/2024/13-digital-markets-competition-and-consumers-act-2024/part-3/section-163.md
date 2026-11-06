@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Acceptance of undertakings by enforcers[^key-035fef031304cd951de7797621f08dfa][^key-e90fe6c6f760d4ff9db153aba91bdf04]
+## 163. Acceptance of undertakings by enforcers[^c-035fef031304cd951de7797621f08dfa][^c-e90fe6c6f760d4ff9db153aba91bdf04]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-035fef031304cd951de7797621f08dfa]: Commencement: S. 163 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-035fef031304cd951de7797621f08dfa]: Commencement: S. 163 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e90fe6c6f760d4ff9db153aba91bdf04]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2024/13/section/163) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-e90fe6c6f760d4ff9db153aba91bdf04]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2024/13/section/163) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

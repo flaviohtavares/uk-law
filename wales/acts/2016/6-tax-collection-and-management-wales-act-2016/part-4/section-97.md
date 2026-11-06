@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Information notices: general restrictions[^key-ebbe8e331c2d5fd59218ccf683ab7a95]
+## 97. Information notices: general restrictions[^c-ebbe8e331c2d5fd59218ccf683ab7a95]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) An information notice issued for the purpose of checking the tax position of a person who has died may not be issued more than 4 years after the person's death.
 
-(4) An information notice may not require a person to provide information or produce a document (or any part of a document) that relates to the conduct of a pending review or appeal relating to any tax (whether or not a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax).
+(4) An information notice may not require a person to provide information or produce a document (or any part of a document) that relates to the conduct of a pending review or appeal relating to any tax (whether or not a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax).
 
 ## Annotations
 
-[^key-ebbe8e331c2d5fd59218ccf683ab7a95]: Commencement: S. 97 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-ebbe8e331c2d5fd59218ccf683ab7a95]: Commencement: S. 97 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

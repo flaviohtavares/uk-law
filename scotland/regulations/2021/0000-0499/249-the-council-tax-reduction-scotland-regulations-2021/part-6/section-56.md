@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Minimum income floor[^key-c35c46e464cc171a29876be09aefe9d8]
+## 56. Minimum income floor[^c-c35c46e464cc171a29876be09aefe9d8]
 
 *Extent: S*
 
@@ -43,7 +43,7 @@ a relevant authority may use such parts of that information as is relevant for t
 
 ## Annotations
 
-[^key-c35c46e464cc171a29876be09aefe9d8]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2021/249/regulation/56) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-c35c46e464cc171a29876be09aefe9d8]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2021/249/regulation/56) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00163]: Footnote: Regulation 62 was amended by [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [S.I. 2015/345](https://www.legislation.gov.uk/uksi/2015/345), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754) and [S.I. 2019/1249](https://www.legislation.gov.uk/uksi/2019/1249).
 

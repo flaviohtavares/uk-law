@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Establishment of waste prevention programmes[^key-e2499a9efe2356fbf4c079c0939b5ef6]
+## 10. Establishment of waste prevention programmes[^c-e2499a9efe2356fbf4c079c0939b5ef6]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2499a9efe2356fbf4c079c0939b5ef6]: Commencement: Reg. 10 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-e2499a9efe2356fbf4c079c0939b5ef6]: Commencement: Reg. 10 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^M_F_c89ac3cb-2a51-40db-e211-d7a02007d76a]: Textual amendment: Words in reg. 10(1)(a) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2020/285/regulation/10/3)

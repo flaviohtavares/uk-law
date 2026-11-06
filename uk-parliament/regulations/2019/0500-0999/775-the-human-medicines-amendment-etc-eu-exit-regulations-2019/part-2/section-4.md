@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Definitions in relation to advanced therapy medicinal products[^key-5174bfe08e6de8ac207bdd4e2d914f3a]
+## 4. Definitions in relation to advanced therapy medicinal products[^c-5174bfe08e6de8ac207bdd4e2d914f3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ After regulation 2, insert—
 
 > **2A. Definition of advanced therapy medicinal product etc.**
 >
-> (1) In these Regulations, in their application to products for sale or supply in Great Britain only,[^key-a21493ecddf33b2ff298d04ed5cb951f] “**advanced therapy medicinal product**” means any of the following products—
+> (1) In these Regulations, in their application to products for sale or supply in Great Britain only,[^c-a21493ecddf33b2ff298d04ed5cb951f] “**advanced therapy medicinal product**” means any of the following products—
 >
 > - (a) a gene therapy medicinal product;
 > - (b) a somatic cell therapy medicinal product; or
@@ -106,6 +106,6 @@ After regulation 2, insert—
 
 ## Annotations
 
-[^key-5174bfe08e6de8ac207bdd4e2d914f3a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5174bfe08e6de8ac207bdd4e2d914f3a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a21493ecddf33b2ff298d04ed5cb951f]: Textual amendment: Words in reg. 4 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/1)
+[^c-a21493ecddf33b2ff298d04ed5cb951f]: Textual amendment: Words in reg. 4 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/1)

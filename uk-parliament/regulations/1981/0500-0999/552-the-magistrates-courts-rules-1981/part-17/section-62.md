@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Particulars relating to payment of lump sum under magistrates' court maintenance order, etc. to be entered in register[^key-ca0d61399ff08380d781fa1b62a58c81][^key-1af4a110507ce5210afb2f3b049b59a0]
+## 62. Particulars relating to payment of lump sum under magistrates' court maintenance order, etc. to be entered in register[^c-ca0d61399ff08380d781fa1b62a58c81][^c-1af4a110507ce5210afb2f3b049b59a0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca0d61399ff08380d781fa1b62a58c81]: Textual amendment: [Rule 62](https://www.legislation.gov.uk/uksi/1981/552/rule/62) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)
+[^c-ca0d61399ff08380d781fa1b62a58c81]: Textual amendment: [Rule 62](https://www.legislation.gov.uk/uksi/1981/552/rule/62) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)
 
-[^key-1af4a110507ce5210afb2f3b049b59a0]: Textual amendment: Words in rule 62 substituted (1.4.1989) by [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/17)
+[^c-1af4a110507ce5210afb2f3b049b59a0]: Textual amendment: Words in rule 62 substituted (1.4.1989) by [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/17)

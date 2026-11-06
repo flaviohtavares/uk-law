@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Evidence of entitlement[^key-059760ecc20d59fd1efaa75c0e91bfd0]
+## 178. Evidence of entitlement[^c-059760ecc20d59fd1efaa75c0e91bfd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059760ecc20d59fd1efaa75c0e91bfd0]: Commencement: [Reg. 178](https://www.legislation.gov.uk/uksi/2014/1964/regulation/178) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-059760ecc20d59fd1efaa75c0e91bfd0]: Commencement: [Reg. 178](https://www.legislation.gov.uk/uksi/2014/1964/regulation/178) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

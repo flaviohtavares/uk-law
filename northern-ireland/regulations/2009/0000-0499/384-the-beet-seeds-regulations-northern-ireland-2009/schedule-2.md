@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 *Extent: N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 4(1)
 
-**1.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c3f0050130b836abe8b6f3a6b527f9fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)
+[^c-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)

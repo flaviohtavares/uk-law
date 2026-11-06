@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Additional deposit before the opt-in round and the first primary bid round[^key-b63febe85f42e46fd9d46b918bc6fc0b]
+## 14. Additional deposit before the opt-in round and the first primary bid round[^c-b63febe85f42e46fd9d46b918bc6fc0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b63febe85f42e46fd9d46b918bc6fc0b]: Commencement: Reg. 14 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b63febe85f42e46fd9d46b918bc6fc0b]: Commencement: Reg. 14 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

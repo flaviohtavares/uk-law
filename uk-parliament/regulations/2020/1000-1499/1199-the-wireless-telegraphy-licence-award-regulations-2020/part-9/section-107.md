@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Interpretation[^key-0b30032bb0665601f78e59147ac6ee3b]
+## 107. Interpretation[^c-0b30032bb0665601f78e59147ac6ee3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-0b30032bb0665601f78e59147ac6ee3b]: Commencement: Reg. 107 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-0b30032bb0665601f78e59147ac6ee3b]: Commencement: Reg. 107 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

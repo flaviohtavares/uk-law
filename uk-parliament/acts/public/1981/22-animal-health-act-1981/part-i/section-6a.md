@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Biosecurity guidance[^key-6fed490898c66b023aabe06b8a9c30c2][^key-711dc940d9dbccdbae096e3e49fe87f9]
+## 6A. Biosecurity guidance[^c-6fed490898c66b023aabe06b8a9c30c2][^c-711dc940d9dbccdbae096e3e49fe87f9]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fed490898c66b023aabe06b8a9c30c2]: Modification: S. 6A applied (28.8.2003) by [Avian Influenza and Nescastle Disease (Biosecurity Guidance and Disease Control Slaughter Protocol) (England and Wales) Order 2003 (S.I. 2003/2035)](https://www.legislation.gov.uk/uksi/2003/2035), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2035/article/1), [2](https://www.legislation.gov.uk/uksi/2003/2035/article/2)
+[^c-6fed490898c66b023aabe06b8a9c30c2]: Modification: S. 6A applied (28.8.2003) by [Avian Influenza and Nescastle Disease (Biosecurity Guidance and Disease Control Slaughter Protocol) (England and Wales) Order 2003 (S.I. 2003/2035)](https://www.legislation.gov.uk/uksi/2003/2035), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2035/article/1), [2](https://www.legislation.gov.uk/uksi/2003/2035/article/2)
 
-[^key-711dc940d9dbccdbae096e3e49fe87f9]: Textual amendment: S. 6A - S. 6B inserted (E.W.) (1.7.2003) by [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [ss. 16](https://www.legislation.gov.uk/ukpga/2002/42/section/16), [19(1)](https://www.legislation.gov.uk/ukpga/2002/42/section/19/1); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/3044/article/2/b)
+[^c-711dc940d9dbccdbae096e3e49fe87f9]: Textual amendment: S. 6A - S. 6B inserted (E.W.) (1.7.2003) by [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [ss. 16](https://www.legislation.gov.uk/ukpga/2002/42/section/16), [19(1)](https://www.legislation.gov.uk/ukpga/2002/42/section/19/1); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/3044/article/2/b)

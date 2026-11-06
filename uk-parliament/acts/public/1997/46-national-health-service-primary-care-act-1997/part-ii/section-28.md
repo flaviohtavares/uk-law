@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-86f1acd905ef18e53e95f7d67aa945de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-86f1acd905ef18e53e95f7d67aa945de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 27A, insert—
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-86f1acd905ef18e53e95f7d67aa945de]: Textual amendment: [S. 28(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/28/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-86f1acd905ef18e53e95f7d67aa945de]: Textual amendment: [S. 28(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/28/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c12086861]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 

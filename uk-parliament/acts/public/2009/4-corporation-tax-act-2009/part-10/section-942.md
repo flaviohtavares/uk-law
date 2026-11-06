@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In the case of a foreign estate, the charge to tax under section 934 is a charge[^key-b370350b4b87174b6c20191ae739e10b] on the amount of estate income treated as arising in the accounting period.
+(1) In the case of a foreign estate, the charge to tax under section 934 is a charge[^c-b370350b4b87174b6c20191ae739e10b] on the amount of estate income treated as arising in the accounting period.
 
 (2) That amount depends on whether the estate income arising in the accounting period is paid from sums within section 963(3) or (4) (sums treated as bearing income tax).
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b370350b4b87174b6c20191ae739e10b]: Textual amendment: Words in [s. 942(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/942/1) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/4), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
+[^c-b370350b4b87174b6c20191ae739e10b]: Textual amendment: Words in [s. 942(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/942/1) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/12/4), [14(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/b)
 
 [^M_F_9f7d6f68-74f6-42ba-dc03-cba95f4af299]: Textual amendment: Words in s. 942(3) omitted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/6/3), [14(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/2/b)

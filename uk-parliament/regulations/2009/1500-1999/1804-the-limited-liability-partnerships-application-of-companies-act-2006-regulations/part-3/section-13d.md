@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13D. Exceptions based on national security etc[^key-db77d4f820e8d54ac045ec744f6bdcf4]
+## 13D. Exceptions based on national security etc[^c-db77d4f820e8d54ac045ec744f6bdcf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ Section 76E applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-db77d4f820e8d54ac045ec744f6bdcf4]: Textual amendment: [Reg. 13D](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13D) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/234/regulation/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-db77d4f820e8d54ac045ec744f6bdcf4]: Textual amendment: [Reg. 13D](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13D) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/234/regulation/15); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

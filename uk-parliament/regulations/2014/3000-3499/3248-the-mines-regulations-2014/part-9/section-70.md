@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Exemptions[^key-b13564fb92f0fa5ca7b39887616890fb]
+## 70. Exemptions[^c-b13564fb92f0fa5ca7b39887616890fb]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13564fb92f0fa5ca7b39887616890fb]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/3248/regulation/70) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-b13564fb92f0fa5ca7b39887616890fb]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2014/3248/regulation/70) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

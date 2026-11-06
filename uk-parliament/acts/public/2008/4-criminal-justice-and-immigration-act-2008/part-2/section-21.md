@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a2692b234d2294dcb9bcc4b54df73699] The Criminal Justice Act 2003 (c. 44) is amended as follows.
+(1)[^c-a2692b234d2294dcb9bcc4b54df73699] The Criminal Justice Act 2003 (c. 44) is amended as follows.
 
-(2)[^key-174201e049a95fc0c367481a67cb9b04][^key-ab42bf35abaca64b49e936a2fb99d22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-174201e049a95fc0c367481a67cb9b04][^c-ab42bf35abaca64b49e936a2fb99d22e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a2692b234d2294dcb9bcc4b54df73699] In the italic heading before section 240, after “*custody*” insert “ *or on bail subject to certain types of condition* ”.
+(3)[^c-a2692b234d2294dcb9bcc4b54df73699] In the italic heading before section 240, after “*custody*” insert “ *or on bail subject to certain types of condition* ”.
 
-(4)[^key-a2692b234d2294dcb9bcc4b54df73699] After section 240 insert—
+(4)[^c-a2692b234d2294dcb9bcc4b54df73699] After section 240 insert—
 
 > **240A. Crediting periods of remand on bail: terms of imprisonment and detention**
 >
@@ -88,20 +88,20 @@ summary: ''
 > - “**qualifying curfew condition**” means a condition of bail which requires the person granted bail to remain at one or more specified places for a total of not less than 9 hours in any given day; and
 > - “**related offence**” means an offence, other than the offence for which the sentence is imposed (“offence A”), with which the offender was charged and the charge for which was founded on the same facts or evidence as offence A.
 
-(5)[^key-2736c5c90ae10ca833fe610a8ec269ed][^key-a2692b234d2294dcb9bcc4b54df73699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2736c5c90ae10ca833fe610a8ec269ed][^c-a2692b234d2294dcb9bcc4b54df73699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a2692b234d2294dcb9bcc4b54df73699] In section 242 (interpretation of sections 240 and 241), in the title and in subsection (1), after “sections 240” insert “ , 240A ”.
+(6)[^c-a2692b234d2294dcb9bcc4b54df73699] In section 242 (interpretation of sections 240 and 241), in the title and in subsection (1), after “sections 240” insert “ , 240A ”.
 
-(7)[^key-f5b736f6375540da01f443cfbd7dc5c4][^key-a2692b234d2294dcb9bcc4b54df73699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f5b736f6375540da01f443cfbd7dc5c4][^c-a2692b234d2294dcb9bcc4b54df73699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2692b234d2294dcb9bcc4b54df73699]: Commencement: S. 21(1)(3)-(7) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/1)
+[^c-a2692b234d2294dcb9bcc4b54df73699]: Commencement: S. 21(1)(3)-(7) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/1)
 
-[^key-174201e049a95fc0c367481a67cb9b04]: Textual amendment: S. 21(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-174201e049a95fc0c367481a67cb9b04]: Textual amendment: S. 21(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-ab42bf35abaca64b49e936a2fb99d22e]: Commencement: S. 21(2) in force at 31.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/a)
+[^c-ab42bf35abaca64b49e936a2fb99d22e]: Commencement: S. 21(2) in force at 31.10.2009 by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/a)
 
-[^key-2736c5c90ae10ca833fe610a8ec269ed]: Textual amendment: S. 21(5) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-2736c5c90ae10ca833fe610a8ec269ed]: Textual amendment: S. 21(5) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
 
-[^key-f5b736f6375540da01f443cfbd7dc5c4]: Textual amendment: S. 21(7) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)
+[^c-f5b736f6375540da01f443cfbd7dc5c4]: Textual amendment: S. 21(7) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 110(14)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/110/14/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15)); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d)

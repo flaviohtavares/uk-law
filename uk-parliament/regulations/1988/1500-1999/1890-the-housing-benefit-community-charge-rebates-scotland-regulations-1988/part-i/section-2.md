@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-50f6f6044872abb22effeda3691bba30]
+## 2. Interpretation[^c-50f6f6044872abb22effeda3691bba30]
 
 *Extent: E+W+S*
 
@@ -71,8 +71,8 @@ summary: ''
 - “Social Security Act” means the Social Security Act 1975[^f00018];
 - “student” has the meaning prescribed in regulation 36;
 - “the Independent Living Fund” means the charitable trust established out of funds provided by the Secretary of State for the purpose of providing financial assistance to those persons incapacitated by or otherwise suffering from very severe disablement who are in need of such assistance to enable them to live independently;
-- “the Macfarlane (Special Payments) Trust” means the trust of that name, established on 29th January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;[^key-51da1add858b7af07febe169f977d5d8]
-- “the Macfarlane Trust” means the charitable trust, established partly out of funds provided by the Secretary of State to the Haemophilia Society[^key-6c1bcdd2cc387e8a9a0a12b026cb3ea3], for the relief of poverty or distress among those suffering from haemophilia;
+- “the Macfarlane (Special Payments) Trust” means the trust of that name, established on 29th January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;[^c-51da1add858b7af07febe169f977d5d8]
+- “the Macfarlane Trust” means the charitable trust, established partly out of funds provided by the Secretary of State to the Haemophilia Society[^c-6c1bcdd2cc387e8a9a0a12b026cb3ea3], for the relief of poverty or distress among those suffering from haemophilia;
 - “unmarried couple” has the meaning assigned to it by section 20(11) of the Act;
 - “year of assessment” has the meaning prescribed in section 832(1) of the Income and Corporation Taxes Act 1988[^f00019];
 - “young person” has the meaning prescribed in regulation 4(1).
@@ -88,7 +88,7 @@ summary: ''
 
 ## Annotations
 
-[^key-50f6f6044872abb22effeda3691bba30]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-50f6f6044872abb22effeda3691bba30]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00007]: Footnote: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47).
 
@@ -114,8 +114,8 @@ summary: ''
 
 [^f00018]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-51da1add858b7af07febe169f977d5d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2/1) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/2/b)
+[^c-51da1add858b7af07febe169f977d5d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2/1) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/2/b)
 
-[^key-6c1bcdd2cc387e8a9a0a12b026cb3ea3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2/1) substituted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/2/a)
+[^c-6c1bcdd2cc387e8a9a0a12b026cb3ea3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/2/1) substituted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/2/a)
 
 [^f00019]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).

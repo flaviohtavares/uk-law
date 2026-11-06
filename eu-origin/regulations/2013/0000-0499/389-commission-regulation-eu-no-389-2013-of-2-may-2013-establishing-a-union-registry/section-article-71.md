@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 71. Implementation of linking arrangements[^key-5469e07cfceceff79224adfdc5b6d376]
+## Article 71. Implementation of linking arrangements[^c-5469e07cfceceff79224adfdc5b6d376]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5469e07cfceceff79224adfdc5b6d376]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/eur/2013/389/article/71) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/9)
+[^c-5469e07cfceceff79224adfdc5b6d376]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/eur/2013/389/article/71) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/9)

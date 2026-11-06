@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 256. Application of Chapter 8[^key-5c6fd12b2940c458073d0d348d74d8ad]
+## 256. Application of Chapter 8[^c-5c6fd12b2940c458073d0d348d74d8ad]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c6fd12b2940c458073d0d348d74d8ad]: Commencement: [Rule 256](https://www.legislation.gov.uk/uksi/2011/1301/rule/256) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-5c6fd12b2940c458073d0d348d74d8ad]: Commencement: [Rule 256](https://www.legislation.gov.uk/uksi/2011/1301/rule/256) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00020]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).

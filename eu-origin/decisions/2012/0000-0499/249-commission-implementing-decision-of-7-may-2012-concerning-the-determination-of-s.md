@@ -73,13 +73,13 @@ This Decision lays down rules concerning the determination of the start-up and s
 
 This Decision shall apply to combustion plants covered by Chapter III of Directive 2010/75/EU.
 
-## Article 2. Definitions and interpretation[^key-0c71db447585a5c7a29db650df597a80]
+## Article 2. Definitions and interpretation[^c-0c71db447585a5c7a29db650df597a80]
 
 For the purposes of this Decision the following definitions apply:
 
 - ((1)) ‘minimum start-up load for stable generation’ means the minimum load compatible with the steady operation of the generating combustion plant following start-up initiation after which the plant is able to safely and reliably deliver its output to a network, grid, heat accumulator or industrial site;
 - ((2)) ‘minimum shut-down load for stable generation’ means the minimum load at which point the plant can no longer safely and reliably deliver its output to a network, grid, heat accumulator or industrial site and is considered to be shutting down.
-- ((3)) For the purpose of this Decision a reference to a provision of a Directive is to be read as a reference to that provision in so far as it has been transposed into the law of any part of the United Kingdom.[^key-cb582013efd7784354da809a90480cfb]
+- ((3)) For the purpose of this Decision a reference to a provision of a Directive is to be read as a reference to that provision in so far as it has been transposed into the law of any part of the United Kingdom.[^c-cb582013efd7784354da809a90480cfb]
 
 ## Article 3. General rules for determining start-up and shut-down periods
 
@@ -147,7 +147,7 @@ These criteria shall be chosen from the following:
 - ((1)) discrete processes set out in the Annex or equivalent processes that suit the technical characteristics of the plant;
 - ((2)) thresholds for the operational parameters set out in the Annex, or equivalent operational parameters that suit the technical characteristics of the plant.
 
-**Article 10.**[^key-254fb16b9597be4ddaa9e14874f1af2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-254fb16b9597be4ddaa9e14874f1af2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 7 May 2012.
 
@@ -207,8 +207,8 @@ For steam boiler plants: temperature of steam at the exit of the boiler.
 
 [^f00001]: Footnote: [OJ L 334, 17.12.2010, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.334.01.0017.01.ENG).
 
-[^key-0c71db447585a5c7a29db650df597a80]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2012/249/article/2) heading inserted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c71db447585a5c7a29db650df597a80]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2012/249/article/2) heading inserted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb582013efd7784354da809a90480cfb]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eudn/2012/249/article/2/3) inserted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb582013efd7784354da809a90480cfb]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eudn/2012/249/article/2/3) inserted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-254fb16b9597be4ddaa9e14874f1af2c]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2012/249/article/10) omitted (31.12.2020) by virtue of [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-254fb16b9597be4ddaa9e14874f1af2c]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2012/249/article/10) omitted (31.12.2020) by virtue of [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

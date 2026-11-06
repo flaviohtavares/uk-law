@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — ENACTMENTS WHERE BEFORE “HEALTH AUTHORITY” THERE IS INSERTED “STRATEGIC HEALTH AUTHORITY OR”[^key-e8a5af22270e603e33a1082616aa84fe]
+## SCHEDULE 9 — ENACTMENTS WHERE BEFORE “HEALTH AUTHORITY” THERE IS INSERTED “STRATEGIC HEALTH AUTHORITY OR”[^c-e8a5af22270e603e33a1082616aa84fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Regulation 12
 
 ## Annotations
 
-[^key-e8a5af22270e603e33a1082616aa84fe]: Commencement: Sch. 9 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-e8a5af22270e603e33a1082616aa84fe]: Commencement: Sch. 9 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00257]: Footnote: [S.I. 1996/640](https://www.legislation.gov.uk/uksi/1996/640), amended by [S.I. 2000/657](https://www.legislation.gov.uk/uksi/2000/657).
 

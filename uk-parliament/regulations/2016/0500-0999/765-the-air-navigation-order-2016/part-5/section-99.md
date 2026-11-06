@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to article 100(2), (2A) and (3)[^key-f3a244f3dd5a5e62ea488bacc2e1a547], it is unlawful for a person to carry or have in their possession or take or cause to be taken on board an aircraft, to suspend or cause to be suspended beneath an aircraft or to deliver or cause to be delivered for carriage on an aircraft any sporting weapon or munition of war unless the provisions of paragraph (2) are complied with.
+(1) Subject to article 100(2), (2A) and (3)[^c-f3a244f3dd5a5e62ea488bacc2e1a547], it is unlawful for a person to carry or have in their possession or take or cause to be taken on board an aircraft, to suspend or cause to be suspended beneath an aircraft or to deliver or cause to be delivered for carriage on an aircraft any sporting weapon or munition of war unless the provisions of paragraph (2) are complied with.
 
 (2) The provisions referred to in paragraph (1) are that—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3a244f3dd5a5e62ea488bacc2e1a547]: Textual amendment: Words in [art. 99(1)](https://www.legislation.gov.uk/uksi/2016/765/article/99/1) substituted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [3](https://www.legislation.gov.uk/uksi/2018/1160/article/3)
+[^c-f3a244f3dd5a5e62ea488bacc2e1a547]: Textual amendment: Words in [art. 99(1)](https://www.legislation.gov.uk/uksi/2016/765/article/99/1) substituted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [3](https://www.legislation.gov.uk/uksi/2018/1160/article/3)

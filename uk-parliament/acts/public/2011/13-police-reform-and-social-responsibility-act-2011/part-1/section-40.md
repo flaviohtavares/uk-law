@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Assistant chief constables[^key-d0a9e39ea4a9c68716d7473add4362c2]
+## 40. Assistant chief constables[^c-d0a9e39ea4a9c68716d7473add4362c2]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0a9e39ea4a9c68716d7473add4362c2]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/13/section/40) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-d0a9e39ea4a9c68716d7473add4362c2]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2011/13/section/40) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

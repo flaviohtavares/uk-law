@@ -62,7 +62,7 @@ summary: ''
 
 .
 
-(7)[^key-01921c87947397bb46f8fb8588662557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-01921c87947397bb46f8fb8588662557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 19(1) (removal and auction of attached articles), for “The officer who attached articles” substitute “ An officer ”.
 
@@ -165,4 +165,4 @@ summary: ''
 
 [^c2008605]: Commencement: S. 212 partly in force: s. 212 not in force at Royal Assent see s. 227; s. 212(1) in force for certain purposes and s. 212(2)-(6) in force at 8.3.2007 and s. 212(1) in force for certain purposes and s. 212(8)-(16) in force at 31.3.2007 by [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [arts. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b), [4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
 
-[^key-01921c87947397bb46f8fb8588662557]: Textual amendment: [S. 212(7)](https://www.legislation.gov.uk/asp/2007/3/section/212/7) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-01921c87947397bb46f8fb8588662557]: Textual amendment: [S. 212(7)](https://www.legislation.gov.uk/asp/2007/3/section/212/7) repealed (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/4/part/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

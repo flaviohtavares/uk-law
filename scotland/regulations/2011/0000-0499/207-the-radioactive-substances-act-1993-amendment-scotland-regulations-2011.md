@@ -44,17 +44,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 2 of Schedule 2 to that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and extent[^key-acda527378be1e12d1640136fdb6e472]
+## 1. Citation, commencement and extent[^c-acda527378be1e12d1640136fdb6e472]
 
 (1) These Regulations may be cited as the Radioactive Substances Act 1993 Amendment (Scotland) Regulations 2011 and come into force on 1st October 2011.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-a9785be7124b0860cea0d42db4dde322]
+## 2. Interpretation[^c-a9785be7124b0860cea0d42db4dde322]
 
 In these Regulations, “the Act” means the Radioactive Substances Act 1993[^f00002].
 
-## 3. Insertion of sections 1A to 1J of the Act[^key-d8d860e51c8175a62d6594849b9afa51]
+## 3. Insertion of sections 1A to 1J of the Act[^c-d8d860e51c8175a62d6594849b9afa51]
 
 For sections 1 and 2 of the Act substitute—
 
@@ -159,11 +159,11 @@ For sections 1 and 2 of the Act substitute—
 
 .
 
-## 4. Amendments to section 15 of the Act[^key-97bfffac3a4bf9234c48d9a3345ac40f]
+## 4. Amendments to section 15 of the Act[^c-97bfffac3a4bf9234c48d9a3345ac40f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to section 47 of the Act[^key-e347509662de68d0fc20de921c1fbe21]
+## 5. Amendments to section 47 of the Act[^c-e347509662de68d0fc20de921c1fbe21]
 
 (1) In section 47(1) of the Act insert, at the appropriate place in alphabetical order, the following definitions—
 
@@ -198,19 +198,19 @@ For sections 1 and 2 of the Act substitute—
 
 .
 
-## 6. Amendments to section 48 of the Act[^key-08b87425381c680e7d5ca8a4cff96595]
+## 6. Amendments to section 48 of the Act[^c-08b87425381c680e7d5ca8a4cff96595]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to Schedule 1 to the Act[^key-08b87425381c680e7d5ca8a4cff96595]
+## 7. Amendments to Schedule 1 to the Act[^c-08b87425381c680e7d5ca8a4cff96595]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Repeals[^key-08b87425381c680e7d5ca8a4cff96595]
+## 8. Repeals[^c-08b87425381c680e7d5ca8a4cff96595]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provisions[^key-08b87425381c680e7d5ca8a4cff96595]
+## 9. Transitional provisions[^c-08b87425381c680e7d5ca8a4cff96595]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -224,7 +224,7 @@ Edinburgh
 
 16th March 2011
 
-## SCHEDULE — New Schedule 1A to the Act[^key-72f06d1373454dcc7dde2657eb24e0df]
+## SCHEDULE — New Schedule 1A to the Act[^c-72f06d1373454dcc7dde2657eb24e0df]
 
 **No longer in force.**
 
@@ -250,22 +250,22 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68), as relevantly amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) Schedule 8 paragraph 15(3); the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) Part 3 section 27(1)(a) and the European Union Amendment Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) Schedule 1 Part 1. The functions of the designated Minister so far as exercisable within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act.
 
-[^key-acda527378be1e12d1640136fdb6e472]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/207/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
+[^c-acda527378be1e12d1640136fdb6e472]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/207/regulation/1) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
 
-[^key-a9785be7124b0860cea0d42db4dde322]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/207/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
+[^c-a9785be7124b0860cea0d42db4dde322]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/207/regulation/2) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
 
 [^f00002]: Footnote: [1993 c.12](https://www.legislation.gov.uk/ukpga/1993/12), as relevantly amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) Schedule 22 paragraphs 200 and 203 and [S.S.I. 2000/100](https://www.legislation.gov.uk/ssi/2000/100) regulation 2(1).
 
-[^key-d8d860e51c8175a62d6594849b9afa51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/207/regulation/3) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
+[^c-d8d860e51c8175a62d6594849b9afa51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/207/regulation/3) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
 
-[^key-97bfffac3a4bf9234c48d9a3345ac40f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/207/regulation/4) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
+[^c-97bfffac3a4bf9234c48d9a3345ac40f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/207/regulation/4) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
 
-[^key-e347509662de68d0fc20de921c1fbe21]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/207/regulation/5) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
+[^c-e347509662de68d0fc20de921c1fbe21]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/207/regulation/5) in force at 1.10.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/207/regulation/1/1)
 
 [^f00003]: Footnote: O.J. No. L 353, 31.12.2008, p.1.
 
-[^key-08b87425381c680e7d5ca8a4cff96595]: Textual amendment: [Regs. 6-9](https://www.legislation.gov.uk/ssi/2011/207/regulation/6) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
+[^c-08b87425381c680e7d5ca8a4cff96595]: Textual amendment: [Regs. 6-9](https://www.legislation.gov.uk/ssi/2011/207/regulation/6) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
 
-[^key-72f06d1373454dcc7dde2657eb24e0df]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/207/schedule) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
+[^c-72f06d1373454dcc7dde2657eb24e0df]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/207/schedule) revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
 
 [^f00006]: Footnote: Council Directive 96/29/Euratom laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation. O.J. L 159, 29.6.1996, p. 1.

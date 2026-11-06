@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Calculation of net profit of self-employed earners[^key-b3ffc455352dbe0b2e2ea05eb63189fd]
+## 37. Calculation of net profit of self-employed earners[^c-b3ffc455352dbe0b2e2ea05eb63189fd]
 
 *Extent: S*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ffc455352dbe0b2e2ea05eb63189fd]: Modification: [Regs. 37](https://www.legislation.gov.uk/ssi/2012/303/regulation/37), [38](https://www.legislation.gov.uk/ssi/2012/303/regulation/38) applied (with modifications) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [regs. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [51(9)](https://www.legislation.gov.uk/ssi/2021/249/regulation/51/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-b3ffc455352dbe0b2e2ea05eb63189fd]: Modification: [Regs. 37](https://www.legislation.gov.uk/ssi/2012/303/regulation/37), [38](https://www.legislation.gov.uk/ssi/2012/303/regulation/38) applied (with modifications) (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [regs. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [51(9)](https://www.legislation.gov.uk/ssi/2021/249/regulation/51/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
 [^c21439151]: Marginal citation: [S.I. 1975/529](https://www.legislation.gov.uk/uksi/1975/529).

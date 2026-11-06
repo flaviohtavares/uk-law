@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Retained property: appeals[^key-3ec699b27eb8dd119428057980f34bec]
+## 106. Retained property: appeals[^c-3ec699b27eb8dd119428057980f34bec]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ec699b27eb8dd119428057980f34bec]: Commencement: [S. 106](https://www.legislation.gov.uk/anaw/2017/2/section/106) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-3ec699b27eb8dd119428057980f34bec]: Commencement: [S. 106](https://www.legislation.gov.uk/anaw/2017/2/section/106) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

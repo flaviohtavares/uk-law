@@ -32,7 +32,7 @@ summary: ''
 (4) However, it remains competent for a court to grant a warrant on petition (as referred to in section 34 of this Act) in respect of an offence under—
 
 - (a) subsection (1) above;
-- (b)[^key-661e9d89993cbe9d2e18a520a3351e6e] section 27(7) of this Act,
+- (b)[^c-661e9d89993cbe9d2e18a520a3351e6e] section 27(7) of this Act,
 
 whether or not a warrant has been granted under subsection (2) above in respect of the same failure to appear to which that offence relates.
 
@@ -91,6 +91,6 @@ does not count towards any time limit applying in that case by virtue of section
 
 [^c19877261]: Textual amendment: S. 102A inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 32](https://www.legislation.gov.uk/asp/2007/6/section/32), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-661e9d89993cbe9d2e18a520a3351e6e]: Textual amendment: [S. 102A(4)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/102A/4/b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 50](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/50); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-661e9d89993cbe9d2e18a520a3351e6e]: Textual amendment: [S. 102A(4)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/102A/4/b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 50](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/50); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c20424081]: Textual amendment: Words in s. 102A(5) inserted (10.3.2008) by [The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Supplemental Provisions) Order 2008 (S.S.I. 2008/109)](https://www.legislation.gov.uk/ssi/2008/109), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/109/article/2/b)

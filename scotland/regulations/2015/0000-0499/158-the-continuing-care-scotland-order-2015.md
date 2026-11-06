@@ -46,7 +46,7 @@ In accordance with section 26A(12) of that Act they have consulted with each loc
 
 In accordance with section 26A(11)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-eef1f5c46e339fdb8106963fe7ec5098]
+## 1. Citation, commencement and interpretation[^c-eef1f5c46e339fdb8106963fe7ec5098]
 
 (1) This Order may be cited as the Continuing Care (Scotland) Order 2015 and comes into force on 1st April 2015.
 
@@ -55,35 +55,35 @@ In accordance with section 26A(11)(b) of that Act, a draft of this instrument ha
 - “the 1995 Act” means the Children (Scotland) Act 1995; and
 - “welfare assessment” means an assessment carried out by a local authority in accordance with article 7 of this Order.
 
-## 2. Eligible person: specified age[^key-d04133b8d0589ed65244bca49444e6e6]
+## 2. Eligible person: specified age[^c-d04133b8d0589ed65244bca49444e6e6]
 
-The higher age specified[^f00002] for the purposes of section 26A(2)(b) of the 1995 Act is twenty-one[^key-50cb70d9393aa7784f845a0c50629af1] years of age.
+The higher age specified[^f00002] for the purposes of section 26A(2)(b) of the 1995 Act is twenty-one[^c-50cb70d9393aa7784f845a0c50629af1] years of age.
 
-## 3. Duty to provide continuing care: specified period[^key-ffa86c842bb4bb0f979ebee50acdb03f]
+## 3. Duty to provide continuing care: specified period[^c-ffa86c842bb4bb0f979ebee50acdb03f]
 
 The period specified for the purposes of section 26A(6) of the 1995 Act is the period from the date on which an eligible person ceases to be looked after by a local authority until the date of that person’s twenty-first birthday.
 
-## 4. Assessment of the welfare of an eligible person before ceasing to be looked after[^key-8fed1ba3df22e808e1e964803c4303b6]
+## 4. Assessment of the welfare of an eligible person before ceasing to be looked after[^c-8fed1ba3df22e808e1e964803c4303b6]
 
 For the purposes of section 26A(5)(c) of the 1995 Act, a local authority must consider whether providing an eligible person with continuing care would significantly adversely affect the welfare of that person—
 
 - (a) as soon as reasonably practicable before the person ceases to be looked after by them; and
 - (b) by carrying out a welfare assessment of the person in accordance with article 7.
 
-## 5. Assessment of the welfare of an eligible person receiving continuing care[^key-3648f4b7be4257636e7392d2af0904b2]
+## 5. Assessment of the welfare of an eligible person receiving continuing care[^c-3648f4b7be4257636e7392d2af0904b2]
 
 For the purposes of section 26A(7)(c) of the 1995 Act, a local authority must consider whether continuing to provide an eligible person with continuing care would significantly adversely affect the welfare of that person—
 
 - (a) at intervals not exceeding twelve months (the first interval starting from the date on which the person ceases to be looked after by a local authority); and
 - (b) by carrying out a welfare assessment of the person in accordance with article 7.
 
-## 6. Welfare assessment — general[^key-f8491ce4dd91b3524220713f44393df4]
+## 6. Welfare assessment — general[^c-f8491ce4dd91b3524220713f44393df4]
 
 (1) The local authority must prepare and publish a written statement detailing the manner in which the welfare of eligible persons is to be assessed.
 
 (2) Nothing in this Order prevents the carrying out of any welfare assessment under this Order at the same time as any assessment or other consideration under any other enactment is being carried out.
 
-## 7. Welfare assessment — individual cases[^key-1db2dd674f92e4d73f8d653d4bfc7c72]
+## 7. Welfare assessment — individual cases[^c-1db2dd674f92e4d73f8d653d4bfc7c72]
 
 (1) In carrying out a welfare assessment, the local authority must, unless it is not reasonably practicable to do so—
 
@@ -133,21 +133,21 @@ Edinburgh
 
 Article 7(4)
 
-**1.**[^key-cf18d4de238d16de3d6a0b94def041d9] The eligible person’s emotional state, day to day activities, personal safety, influences on the eligible person and the eligible person’s personal identity.
+**1.**[^c-cf18d4de238d16de3d6a0b94def041d9] The eligible person’s emotional state, day to day activities, personal safety, influences on the eligible person and the eligible person’s personal identity.
 
-**2.**[^key-66a3c2c4e0ec117b5336d41fc9a73452] The eligible person’s family relationships, children, other caring responsibilities, life story, friends and relationships with other significant people in the eligible person’s life, including the eligible person’s carer (if in a care placement).
+**2.**[^c-66a3c2c4e0ec117b5336d41fc9a73452] The eligible person’s family relationships, children, other caring responsibilities, life story, friends and relationships with other significant people in the eligible person’s life, including the eligible person’s carer (if in a care placement).
 
-**3.**[^key-6d82c36ef758193d114253431caa20b0] The eligible person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the eligible person’s health and emotional and mental wellbeing.
+**3.**[^c-6d82c36ef758193d114253431caa20b0] The eligible person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the eligible person’s health and emotional and mental wellbeing.
 
-**4.**[^key-e51235892199a64f81fb8c13993111a1] The eligible person’s schooling, skills and experience, qualifications and certificates, training and work.
+**4.**[^c-e51235892199a64f81fb8c13993111a1] The eligible person’s schooling, skills and experience, qualifications and certificates, training and work.
 
-**5.**[^key-3830734e8c70c75c535d71e5123185b3] The eligible person’s future plans for study, training or work.
+**5.**[^c-3830734e8c70c75c535d71e5123185b3] The eligible person’s future plans for study, training or work.
 
-**6.**[^key-440b6b3a0ec537a49c4a80b735f13500] The eligible person’s current accommodation arrangements, practical living skills, accommodation options for the future and any support required for everyday living.
+**6.**[^c-440b6b3a0ec537a49c4a80b735f13500] The eligible person’s current accommodation arrangements, practical living skills, accommodation options for the future and any support required for everyday living.
 
-**7.**[^key-c0202115957416a931685e829b3bbafb] The eligible person’s sources of income, outgoings, savings and debts, requirement for financial support and budgeting skills.
+**7.**[^c-c0202115957416a931685e829b3bbafb] The eligible person’s sources of income, outgoings, savings and debts, requirement for financial support and budgeting skills.
 
-**8.**[^key-d2be7a1cb9b5e0ab263e7da3ccdc638a] The eligible person’s knowledge of their rights and legal entitlements, any previous or current involvement in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
+**8.**[^c-d2be7a1cb9b5e0ab263e7da3ccdc638a] The eligible person’s knowledge of their rights and legal entitlements, any previous or current involvement in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
 
 EXPLANATORY NOTE
 
@@ -173,36 +173,36 @@ Article 7 sets out the matters to be considered or taken into account by a local
 
 [^f00001]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 26A was inserted by section 67(1) of the Children and Young People (Scotland) Act [2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8). Section 67(1) was partially brought into force on 1st August 2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131) so far as is necessary to enable Scottish Ministers to make orders under section 26A(2)(b), (6), (9) and (11)(a) of the Children (Scotland) Act 1995.
 
-[^key-eef1f5c46e339fdb8106963fe7ec5098]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-eef1f5c46e339fdb8106963fe7ec5098]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-d04133b8d0589ed65244bca49444e6e6]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-d04133b8d0589ed65244bca49444e6e6]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
 [^f00002]: Footnote: Section 26A(13) contains a definition of “specified” for the purposes of section 26A.
 
-[^key-50cb70d9393aa7784f845a0c50629af1]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2015/158/article/2) substituted (1.4.2019) by [The Continuing Care (Scotland) Amendment Order 2019 (S.S.I. 2019/91)](https://www.legislation.gov.uk/ssi/2019/91), [arts. 1](https://www.legislation.gov.uk/ssi/2019/91/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/91/article/2/2)
+[^c-50cb70d9393aa7784f845a0c50629af1]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2015/158/article/2) substituted (1.4.2019) by [The Continuing Care (Scotland) Amendment Order 2019 (S.S.I. 2019/91)](https://www.legislation.gov.uk/ssi/2019/91), [arts. 1](https://www.legislation.gov.uk/ssi/2019/91/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/91/article/2/2)
 
-[^key-ffa86c842bb4bb0f979ebee50acdb03f]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-ffa86c842bb4bb0f979ebee50acdb03f]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-8fed1ba3df22e808e1e964803c4303b6]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-8fed1ba3df22e808e1e964803c4303b6]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-3648f4b7be4257636e7392d2af0904b2]: Commencement: Art. 5 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-3648f4b7be4257636e7392d2af0904b2]: Commencement: Art. 5 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-f8491ce4dd91b3524220713f44393df4]: Commencement: Art. 6 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-f8491ce4dd91b3524220713f44393df4]: Commencement: Art. 6 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-1db2dd674f92e4d73f8d653d4bfc7c72]: Commencement: Art. 7 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-1db2dd674f92e4d73f8d653d4bfc7c72]: Commencement: Art. 7 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-cf18d4de238d16de3d6a0b94def041d9]: Commencement: Sch. para. 1 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-cf18d4de238d16de3d6a0b94def041d9]: Commencement: Sch. para. 1 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-66a3c2c4e0ec117b5336d41fc9a73452]: Commencement: Sch. para. 2 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-66a3c2c4e0ec117b5336d41fc9a73452]: Commencement: Sch. para. 2 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-6d82c36ef758193d114253431caa20b0]: Commencement: Sch. para. 3 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-6d82c36ef758193d114253431caa20b0]: Commencement: Sch. para. 3 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-e51235892199a64f81fb8c13993111a1]: Commencement: Sch. para. 4 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-e51235892199a64f81fb8c13993111a1]: Commencement: Sch. para. 4 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-3830734e8c70c75c535d71e5123185b3]: Commencement: Sch. para. 5 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-3830734e8c70c75c535d71e5123185b3]: Commencement: Sch. para. 5 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-440b6b3a0ec537a49c4a80b735f13500]: Commencement: Sch. para. 6 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-440b6b3a0ec537a49c4a80b735f13500]: Commencement: Sch. para. 6 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-c0202115957416a931685e829b3bbafb]: Commencement: Sch. para. 7 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-c0202115957416a931685e829b3bbafb]: Commencement: Sch. para. 7 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
 
-[^key-d2be7a1cb9b5e0ab263e7da3ccdc638a]: Commencement: Sch. para. 8 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)
+[^c-d2be7a1cb9b5e0ab263e7da3ccdc638a]: Commencement: Sch. para. 8 in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/158/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Appeals from Tribunal[^key-6eb979132600a1cd1eeec51087f92f1e]
+## 59. Appeals from Tribunal[^c-6eb979132600a1cd1eeec51087f92f1e]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eb979132600a1cd1eeec51087f92f1e]: Commencement: [S. 59](https://www.legislation.gov.uk/mwa/2011/1/section/59) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-6eb979132600a1cd1eeec51087f92f1e]: Commencement: [S. 59](https://www.legislation.gov.uk/mwa/2011/1/section/59) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

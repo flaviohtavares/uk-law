@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.30. False representations, etc[^key-0fd74b3e019ef9ffb51661d02474767b]
+## 1.30. False representations, etc[^c-0fd74b3e019ef9ffb51661d02474767b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd74b3e019ef9ffb51661d02474767b]: Textual amendment: Rule 1.30 revoked (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/1/paragraph/20) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-0fd74b3e019ef9ffb51661d02474767b]: Textual amendment: Rule 1.30 revoked (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/1/paragraph/20) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

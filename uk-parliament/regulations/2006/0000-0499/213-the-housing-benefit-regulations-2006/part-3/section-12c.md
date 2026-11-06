@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12C. Eligible rent and maximum rent[^key-5f0fe6118893e66ca6bd6a4b03141f76]
+## 12C. Eligible rent and maximum rent[^c-5f0fe6118893e66ca6bd6a4b03141f76]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

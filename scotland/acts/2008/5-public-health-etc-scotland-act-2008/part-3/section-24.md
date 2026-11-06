@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Power to ask questions[^key-be4834e5acc15095e556c1a4003e3b9d]
+## 24. Power to ask questions[^c-be4834e5acc15095e556c1a4003e3b9d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be4834e5acc15095e556c1a4003e3b9d]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2008/5/section/24) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-be4834e5acc15095e556c1a4003e3b9d]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2008/5/section/24) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

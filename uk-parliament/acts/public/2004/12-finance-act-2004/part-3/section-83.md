@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Giving through the self-assessment return[^key-3d824e72d5ee8cbdc02a344df4980871]
+## 83. Giving through the self-assessment return[^c-3d824e72d5ee8cbdc02a344df4980871]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d824e72d5ee8cbdc02a344df4980871]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/2004/12/section/83) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 427](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/427), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3d824e72d5ee8cbdc02a344df4980871]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/2004/12/section/83) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 427](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/427), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

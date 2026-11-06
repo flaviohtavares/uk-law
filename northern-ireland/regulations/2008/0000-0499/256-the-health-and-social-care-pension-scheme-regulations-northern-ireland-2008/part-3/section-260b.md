@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260B. Options for 1995 Section members to join this Section of the Scheme under Chapter 10 of this Part[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]
+## 260B. Options for 1995 Section members to join this Section of the Scheme under Chapter 10 of this Part[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]
 
 *Extent: N.I.*
 
@@ -60,14 +60,14 @@ may join this Section of the Scheme under the terms of this Chapter.
 
 (8) The Department may extend the time limit in paragraph (3) if the Department considers that the person has not had a reasonable opportunity to consider whether to exercise the option.
 
-(9) The Department may accept an option to join the 2008 Section that is received after the person ceases to be an active member of the 1995 Section if either paragraph (9A) applies to that person or that person satisfies all of the following[^key-8b15e344d34b30b210eed318b7a9ff33] —
+(9) The Department may accept an option to join the 2008 Section that is received after the person ceases to be an active member of the 1995 Section if either paragraph (9A) applies to that person or that person satisfies all of the following[^c-8b15e344d34b30b210eed318b7a9ff33] —
 
 - (a) a comparative statement of benefits under the 1995 Section and the 2008 Section of the Scheme was issued to the person whilst that person was an active member of the 1995 Section;
 - (b) but for the exercise of the option the person would otherwise become entitled to the immediate payment of benefits under Part III of the 1995 Section (as modified by paragraphs 11 and 12 of Schedule 2 to the 1995 Regulations);
 - (c) the person has provided the Department with a notice in writing in such form as the Department may require that benefits are not to be paid from the 1995 Section and has not revoked that notice; and
 - (d) the person exercises the option before the end of the four month period beginning with the comparative statement issue date.
 
-(9A)[^key-b42cd0fe0e94d24193a46fe6f35d893a] This paragraph applies to a person who—
+(9A)[^c-b42cd0fe0e94d24193a46fe6f35d893a] This paragraph applies to a person who—
 
 - (a) has ceased to pay contributions in accordance with paragraph (3) or paragraph (4) of regulation 10 of the 1995 Regulations (Contributions by members);
 - (b) is continuing in HSC employment; and
@@ -82,7 +82,7 @@ may join this Section of the Scheme under the terms of this Chapter.
 
 (12) A person exercising an option under this regulation who is entitled to a pension under regulation 13A of the 1995 Regulations (Ill-health pension on early retirement) may count as qualifying service for the purpose of this Section of the Scheme a period of service measured in years and days equal to the qualifying service that person was entitled to count under regulation 5 of the 1995 Regulations (Meaning of qualifying service) in determining their entitlement to that pension.
 
-(13) For the purposes of paragraphs (4), (9) and (9A)[^key-663c2c7c8c63e8749c3f9f9b2ee3cc23] the comparative statement issue date is the date on which the comparative statement of benefits under the 1995 Section and the 2008 Section of the Scheme is sent (whether by electronic communication or otherwise)—
+(13) For the purposes of paragraphs (4), (9) and (9A)[^c-663c2c7c8c63e8749c3f9f9b2ee3cc23] the comparative statement issue date is the date on which the comparative statement of benefits under the 1995 Section and the 2008 Section of the Scheme is sent (whether by electronic communication or otherwise)—
 
 - (a) to the person; or
 - (b) to the person’s employing authority.
@@ -93,10 +93,10 @@ may join this Section of the Scheme under the terms of this Chapter.
 
 ## Annotations
 
-[^key-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)
+[^c-5e4f8abc3e3ea4715002d1a59e22f2ed]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2008/256/part/3) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [96](https://www.legislation.gov.uk/nisr/2010/22/regulation/96)
 
-[^key-8b15e344d34b30b210eed318b7a9ff33]: Textual amendment: Words in [reg. 260B(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/9) inserted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(2)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/2), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-8b15e344d34b30b210eed318b7a9ff33]: Textual amendment: Words in [reg. 260B(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/9) inserted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(2)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/2), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-b42cd0fe0e94d24193a46fe6f35d893a]: Textual amendment: [Reg. 260B(9A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/9A) inserted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(3)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-b42cd0fe0e94d24193a46fe6f35d893a]: Textual amendment: [Reg. 260B(9A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/9A) inserted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(3)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-663c2c7c8c63e8749c3f9f9b2ee3cc23]: Textual amendment: Words in [reg. 260B(13)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/13) substituted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(4)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/4), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-663c2c7c8c63e8749c3f9f9b2ee3cc23]: Textual amendment: Words in [reg. 260B(13)](https://www.legislation.gov.uk/nisr/2008/256/regulation/260B/13) substituted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 50(4)](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/50/4), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

@@ -16,411 +16,411 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX I — GENERAL SAFETY AND PERFORMANCE REQUIREMENTS[^key-43f3a016c6a6fbb2247738e537d82965]
+## ANNEX I — GENERAL SAFETY AND PERFORMANCE REQUIREMENTS[^c-43f3a016c6a6fbb2247738e537d82965]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-43f3a016c6a6fbb2247738e537d82965]CHAPTER I
+[^c-43f3a016c6a6fbb2247738e537d82965]CHAPTER I
 
 ***GENERAL REQUIREMENTS***
 
-[^key-43f3a016c6a6fbb2247738e537d82965]1.
+[^c-43f3a016c6a6fbb2247738e537d82965]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]2.
+[^c-43f3a016c6a6fbb2247738e537d82965]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]3.
+[^c-43f3a016c6a6fbb2247738e537d82965]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]4.
+[^c-43f3a016c6a6fbb2247738e537d82965]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]5.
+[^c-43f3a016c6a6fbb2247738e537d82965]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]6.
+[^c-43f3a016c6a6fbb2247738e537d82965]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]7.
+[^c-43f3a016c6a6fbb2247738e537d82965]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]8.
+[^c-43f3a016c6a6fbb2247738e537d82965]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]9.
+[^c-43f3a016c6a6fbb2247738e537d82965]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]CHAPTER II
+[^c-43f3a016c6a6fbb2247738e537d82965]CHAPTER II
 
 ***REQUIREMENTS REGARDING DESIGN AND MANUFACTURE***
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.
 
 Chemical, physical and biological properties
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.
 
 Substances
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.1.
 
 Design and manufacture of devices
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.2.
 
 Justification regarding the presence of CMR and/or endocrine-disrupting substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.3.
 
 Guidelines on phthalates
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.4.
 
 Guidelines on other CMR and endocrine-disrupting substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.4.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.4.5.
 
 Labelling
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]10.6.
+[^c-43f3a016c6a6fbb2247738e537d82965]10.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.
 
 Infection and microbial contamination
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.6.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.7.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]11.8.
+[^c-43f3a016c6a6fbb2247738e537d82965]11.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]12.
+[^c-43f3a016c6a6fbb2247738e537d82965]12.
 
 Devices incorporating a substance considered to be a medicinal product and devices that are composed of substances or of combinations of substances that are absorbed by or locally dispersed in the human body.
 
-[^key-43f3a016c6a6fbb2247738e537d82965]12.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]12.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]12.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]12.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]13.
+[^c-43f3a016c6a6fbb2247738e537d82965]13.
 
 Devices incorporating materials of biological origin
 
-[^key-43f3a016c6a6fbb2247738e537d82965]13.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]13.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]13.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]13.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]13.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]13.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.
 
 Construction of devices and interaction with their environment
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.6
+[^c-43f3a016c6a6fbb2247738e537d82965]14.6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]14.7.
+[^c-43f3a016c6a6fbb2247738e537d82965]14.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.
 
 Devices with a diagnostic or measuring function
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]15.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]15.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.
 
 Protection against radiation
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.1.
 
 General
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.2.
 
 Intended radiation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]16.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]16.4.
 
 Ionising radiation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.
 
 Electronic programmable systems — devices that incorporate electronic programmable systems and software that are devices in themselves
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]17.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]17.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.
 
 Active devices and devices connected to them
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.6.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.7.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]18.8.
+[^c-43f3a016c6a6fbb2247738e537d82965]18.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]19.
+[^c-43f3a016c6a6fbb2247738e537d82965]19.
 
 Particular requirements for active implantable devices
 
-[^key-43f3a016c6a6fbb2247738e537d82965]19.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]19.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]19.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]19.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]19.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]19.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]19.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]19.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.
 
 Protection against mechanical and thermal risks
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.5.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]20.6.
+[^c-43f3a016c6a6fbb2247738e537d82965]20.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]21.
+[^c-43f3a016c6a6fbb2247738e537d82965]21.
 
 Protection against the risks posed to the patient or user by devices supplying energy or substances
 
-[^key-43f3a016c6a6fbb2247738e537d82965]21.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]21.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]21.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]21.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]21.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]21.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]22.
+[^c-43f3a016c6a6fbb2247738e537d82965]22.
 
 Protection against the risks posed by medical devices intended by the manufacturer for use by lay persons
 
-[^key-43f3a016c6a6fbb2247738e537d82965]22.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]22.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]22.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]22.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]22.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]22.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]CHAPTER III
+[^c-43f3a016c6a6fbb2247738e537d82965]CHAPTER III
 
 ***REQUIREMENTS REGARDING THE INFORMATION SUPPLIED WITH THE DEVICE***
 
-[^key-43f3a016c6a6fbb2247738e537d82965]23.
+[^c-43f3a016c6a6fbb2247738e537d82965]23.
 
 Label and instructions for use
 
-[^key-43f3a016c6a6fbb2247738e537d82965]23.1.
+[^c-43f3a016c6a6fbb2247738e537d82965]23.1.
 
 General requirements regarding the information supplied by the manufacturer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]23.2.
+[^c-43f3a016c6a6fbb2247738e537d82965]23.2.
 
 Information on the label
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]23.3.
+[^c-43f3a016c6a6fbb2247738e537d82965]23.3.
 
 Information on the packaging which maintains the sterile condition of a device (‘sterile packaging’)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43f3a016c6a6fbb2247738e537d82965]23.4.
+[^c-43f3a016c6a6fbb2247738e537d82965]23.4.
 
 Information in the instructions for use
 
@@ -428,4 +428,4 @@ Information in the instructions for use
 
 ## Annotations
 
-[^key-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-43f3a016c6a6fbb2247738e537d82965]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4O](https://www.legislation.gov.uk/uksi/2002/618/regulation/4O) (with savings and transitional provisions for N.I. in [reg. 3ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/3ZA)) (as amended by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) and by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2); and as amended (27.7.2021) by [The Medical Devices (Northern Ireland Protocol) Regulations 2021 (S.I. 2021/905)](https://www.legislation.gov.uk/uksi/2021/905), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/905/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/905/regulation/4), [32](https://www.legislation.gov.uk/uksi/2021/905/regulation/32)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

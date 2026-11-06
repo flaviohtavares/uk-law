@@ -29,7 +29,7 @@ summary: ''
 
 (3) The reference in subsection (1) to revaluation of an asset includes any case where a provision or allowance is made by the company reducing the carrying value of the asset or of a group of assets including the asset in question.
 
-(3A)[^key-2f7c19b03a01e83a97a7f4f347b5e6d1] Where a company has a hedging relationship between a relevant contract (“the hedging instrument”) and the asset or liability representing the loan relationship, this section does not prevent credits or debits being brought into account in respect of changes in the fair value of the asset or liability which are attributable to any of the risks in respect of which the hedging instrument was intended to act as a hedge.
+(3A)[^c-2f7c19b03a01e83a97a7f4f347b5e6d1] Where a company has a hedging relationship between a relevant contract (“the hedging instrument”) and the asset or liability representing the loan relationship, this section does not prevent credits or debits being brought into account in respect of changes in the fair value of the asset or liability which are attributable to any of the risks in respect of which the hedging instrument was intended to act as a hedge.
 
 (4) This section does not affect the debits to be brought into account in respect of exchange gains or losses.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f7c19b03a01e83a97a7f4f347b5e6d1]: Textual amendment: S. 324(3A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/19)
+[^c-2f7c19b03a01e83a97a7f4f347b5e6d1]: Textual amendment: S. 324(3A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/19)

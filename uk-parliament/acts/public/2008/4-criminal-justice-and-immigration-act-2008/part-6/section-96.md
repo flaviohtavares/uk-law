@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendments relating to Scotland[^key-2ae3e524cf00f78815b8464f33731b49]
+## 96. Amendments relating to Scotland[^c-2ae3e524cf00f78815b8464f33731b49]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ae3e524cf00f78815b8464f33731b49]: Commencement: S. 96 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/40)
+[^c-2ae3e524cf00f78815b8464f33731b49]: Commencement: S. 96 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/40)

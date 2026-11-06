@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Payments to be made from the Firefighters’ Pension Fund[^key-c2b29139a4c9ef59103cca424d6a0ed4]
+## 124. Payments to be made from the Firefighters’ Pension Fund[^c-c2b29139a4c9ef59103cca424d6a0ed4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The scheme manager must make payments out of the FPF in respect of the following
 
 ## Annotations
 
-[^key-c2b29139a4c9ef59103cca424d6a0ed4]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/2848/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c2b29139a4c9ef59103cca424d6a0ed4]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/2848/regulation/124) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Charges for providing a water main etc[^key-63f84379626fb7f36f00dfda5f0f6039]
+## 18. Charges for providing a water main etc[^c-63f84379626fb7f36f00dfda5f0f6039]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63f84379626fb7f36f00dfda5f0f6039]: Commencement: S. 18 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-63f84379626fb7f36f00dfda5f0f6039]: Commencement: S. 18 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))

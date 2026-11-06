@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Absent signing at a particular petition: England and Wales and Scotland[^key-cd64f82df702510eeeb37bb399deef16]
+## 53. Absent signing at a particular petition: England and Wales and Scotland[^c-cd64f82df702510eeeb37bb399deef16]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd64f82df702510eeeb37bb399deef16]: Commencement: Reg. 53 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-cd64f82df702510eeeb37bb399deef16]: Commencement: Reg. 53 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

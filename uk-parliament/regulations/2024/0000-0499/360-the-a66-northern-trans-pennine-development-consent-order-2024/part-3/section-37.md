@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Disregard of certain interests and improvements[^key-2616c07568f2824ef50d8e165aa11490]
+## 37. Disregard of certain interests and improvements[^c-2616c07568f2824ef50d8e165aa11490]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-2616c07568f2824ef50d8e165aa11490]: Commencement: Art. 37 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-2616c07568f2824ef50d8e165aa11490]: Commencement: Art. 37 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

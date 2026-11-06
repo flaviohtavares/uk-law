@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Scottish Ministers’ duty to report[^key-8b089ae8a78d850a35385962c68e7d1d][^key-5fff96bb8a452d1ae69d5d6bd9ea7d04]
+## 8. Scottish Ministers’ duty to report[^c-8b089ae8a78d850a35385962c68e7d1d][^c-5fff96bb8a452d1ae69d5d6bd9ea7d04]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b089ae8a78d850a35385962c68e7d1d]: Commencement: S. 8 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-8b089ae8a78d850a35385962c68e7d1d]: Commencement: S. 8 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-5fff96bb8a452d1ae69d5d6bd9ea7d04]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/13/section/8) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-5fff96bb8a452d1ae69d5d6bd9ea7d04]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/13/section/8) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

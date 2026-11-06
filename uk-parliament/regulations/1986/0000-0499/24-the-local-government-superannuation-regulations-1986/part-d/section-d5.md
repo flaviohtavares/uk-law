@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D5. Increase of reckonable service on making periodical payments[^key-911ab37b659862c5475e96d971d5cfff]
+## D5. Increase of reckonable service on making periodical payments[^c-911ab37b659862c5475e96d971d5cfff]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A pensionable employee is entitled to reckon as reckonable service in relation t
 
 ## Annotations
 
-[^key-911ab37b659862c5475e96d971d5cfff]: Commencement: [Reg. D5](https://www.legislation.gov.uk/uksi/1986/24/regulation/D5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-911ab37b659862c5475e96d971d5cfff]: Commencement: [Reg. D5](https://www.legislation.gov.uk/uksi/1986/24/regulation/D5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

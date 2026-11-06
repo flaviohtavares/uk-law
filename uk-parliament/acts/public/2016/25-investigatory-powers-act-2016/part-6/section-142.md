@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Requirements that must be met by warrants[^key-b58704abf7612e5d976b958403ab7440]
+## 142. Requirements that must be met by warrants[^c-b58704abf7612e5d976b958403ab7440]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b58704abf7612e5d976b958403ab7440]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2016/25/section/142) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/g)
+[^c-b58704abf7612e5d976b958403ab7440]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2016/25/section/142) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Meaning of “qualified” UK resident[^key-765f1aa4a31bced60b92233076db06fe]
+## 25. Meaning of “qualified” UK resident[^c-765f1aa4a31bced60b92233076db06fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ a UK resident is qualified to undertake the corresponding activity if the reside
 
 ## Annotations
 
-[^key-765f1aa4a31bced60b92233076db06fe]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2020/27/section/25) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)
+[^c-765f1aa4a31bced60b92233076db06fe]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2020/27/section/25) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)

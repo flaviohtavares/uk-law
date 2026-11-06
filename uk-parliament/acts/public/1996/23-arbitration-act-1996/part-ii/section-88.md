@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Power to repeal or amend sections 85 to 87.[^key-787a50d4a9e472d944e1a9de5e2c13c6]
+## 88. Power to repeal or amend sections 85 to 87.[^c-787a50d4a9e472d944e1a9de5e2c13c6]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-787a50d4a9e472d944e1a9de5e2c13c6]: Textual amendment: S. 88 omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 15(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/15/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-787a50d4a9e472d944e1a9de5e2c13c6]: Textual amendment: S. 88 omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 15(b)](https://www.legislation.gov.uk/ukpga/2025/4/section/15/b), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

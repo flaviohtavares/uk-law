@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Cessation of employment: Form P45[^key-a779c33e54d63ffd044136514e773fda]
+## 6. Cessation of employment: Form P45[^c-a779c33e54d63ffd044136514e773fda]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In regulation 36 (cessation of employment: Form P45)—
 
 ## Annotations
 
-[^key-a779c33e54d63ffd044136514e773fda]: Commencement: Reg. 6 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-a779c33e54d63ffd044136514e773fda]: Commencement: Reg. 6 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

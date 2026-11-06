@@ -159,9 +159,9 @@ the Secretary of State shall, if the applicant has not then withdrawn his applic
 
 ### 6. Appeal.
 
-(1) Where the applicant or the rent owner or, in a case falling within section 5(2)(b) above, any other person who is the owner of any land affected by the rentcharge, is aggrieved by the terms of an apportionment order, he may appeal to the Upper Tribunal[^key-ddb6c9ad9fb9b4d4cf843a1d9526dada].
+(1) Where the applicant or the rent owner or, in a case falling within section 5(2)(b) above, any other person who is the owner of any land affected by the rentcharge, is aggrieved by the terms of an apportionment order, he may appeal to the Upper Tribunal[^c-ddb6c9ad9fb9b4d4cf843a1d9526dada].
 
-(2) Where an appeal has been duly made to the Upper Tribunal[^key-56f2fe4a038d99174c80f5360884f152] under this section, the Tribunal shall—
+(2) Where an appeal has been duly made to the Upper Tribunal[^c-56f2fe4a038d99174c80f5360884f152] under this section, the Tribunal shall—
 
 - (a) conform the order, or
 - (b) set it aside, and, subject to section 7(2) below, make such other order apportioning the rentcharge as it thinks fit.
@@ -171,7 +171,7 @@ the Secretary of State shall, if the applicant has not then withdrawn his applic
 (1) An apportionment order shall, subject to subsection (2) below, have effect—
 
 - (a) on the expiry of the period of 28 days beginning with the day on which it is made, or
-- (b) where an appeal against the order has been duly made under section 6 above, on such day as the Upper Tribunal[^key-10c3e3fe869c7f97754f38cb0863f4e8] shall specify.
+- (b) where an appeal against the order has been duly made under section 6 above, on such day as the Upper Tribunal[^c-10c3e3fe869c7f97754f38cb0863f4e8] shall specify.
 
 (2) If—
 
@@ -224,7 +224,7 @@ For the purposes of this section a rentcharge shall (at any time) be treated as 
 
 (4) Where the Secretary of State has been duly notified under subsection (2) above, or the period mentioned in that subsection has expired without his being so notified, he shall serve a notice (“instructions for redemption”) on the applicant for the redemption certificate—
 
-- (a) specifying the sum required to redeem the rentcharge (the “redemption price”) calculated in accordance with regulations under[^key-d08069dc9becd6616296e287b9ae8fe1] section 10(1) below, and
+- (a) specifying the sum required to redeem the rentcharge (the “redemption price”) calculated in accordance with regulations under[^c-d08069dc9becd6616296e287b9ae8fe1] section 10(1) below, and
 - (b) naming the person (determined in accordance with section 10(2) below), if any, appearing to the Secretary of State to be the person to whom the redemption price should be paid by the applicant.
 
 (5) After service of instructions for redemption, the Secretary of State shall issue the applicant with a redemption certificate on proof—
@@ -238,7 +238,7 @@ For the purposes of this section a rentcharge shall (at any time) be treated as 
 
 ### 10. Provisions supplemental to section 9.
 
-(1)[^key-ba3796d1dd9a54fc78be960beea2fea6] For the purposes of section 9 above, the redemption price for a rentcharge is to be calculated in accordance with regulations made by the Secretary of State.
+(1)[^c-ba3796d1dd9a54fc78be960beea2fea6] For the purposes of section 9 above, the redemption price for a rentcharge is to be calculated in accordance with regulations made by the Secretary of State.
 
 (2) For the purposes of section 9(4)(b) above, the person to whom the redemption price should be paid is—
 
@@ -283,14 +283,14 @@ the following provisions of this section shall have effect in place of those of 
 
 (1) Regulations under any provision of this Act shall be made by the Secretary of State and shall be contained in a statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2) Regulations under any provision of this Act may contain such transitional,[^key-6ad01fee3f36818abde0955ade820e8f] incidental and supplemental provisions as the Secretary of State considers appropriate, and may make different provision in relation to different cases or classes of case and in relation to different circumstances.
+(2) Regulations under any provision of this Act may contain such transitional,[^c-6ad01fee3f36818abde0955ade820e8f] incidental and supplemental provisions as the Secretary of State considers appropriate, and may make different provision in relation to different cases or classes of case and in relation to different circumstances.
 
 ### 13. Interpretation.
 
 (1) In this Act—
 
 - “**apportionment**”, in relation to a rentcharge, includes an apportionment which provides for the amount apportioned to any part of the land affected by the rentcharge to be nil;
-- “**apportionment order**” means an order made under section 5(10) above or, where appropriate, an order made by the Upper Tribunal[^key-08d0929d84af25511dd9a81c80e3a4e0] under section 6(2)(b) above;
+- “**apportionment order**” means an order made under section 5(10) above or, where appropriate, an order made by the Upper Tribunal[^c-08d0929d84af25511dd9a81c80e3a4e0] under section 6(2)(b) above;
 - “**conveyance**” has the same meaning as in section 205(1) of the [^c726070]Law of Property Act 1925;
 - “**land**” has the same meaning as in section 205(1) of the [^c726071]Law of Property Act 1925;
 - “**legal apportionment**” and “**equitable apportionment**” in relation to a rentcharge mean, respectively—
@@ -343,9 +343,9 @@ the following provisions of this section shall have effect in place of those of 
 
 and notwithstanding the repeal of the said section 24 by Schedule 2 to this Act, the provisions of that section shall (in a case falling within paragraph (b) above) continue to have effect in relation to the creation of any rentcharge by virtue of this subsection.
 
-(4)[^key-d2a30bc9b88d0e078347b64dcda8cbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d2a30bc9b88d0e078347b64dcda8cbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ae78a2a70a76e5927b6c617d2395e19f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ae78a2a70a76e5927b6c617d2395e19f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Nothing in the repeal by this Act of paragraph 8 of Schedule 1 to the [^c726077]Leasehold Reform Act 1967 shall prevent the creation of a rentcharge under that paragraph in a case where written notice has been duly given to the reversioner by the claimant under that paragraph before the coming into force of the repeal; and paragraph 8 shall, notwithstanding the repeal, continue to have effect, subject to the provisions of this Act, in relation to rentcharges created under it.
 
@@ -353,7 +353,7 @@ and notwithstanding the repeal of the said section 24 by Schedule 2 to this Act,
 
 (1) This Act may be cited as the Rentcharges Act 1977.
 
-(2)[^key-b9770caa7200441c40fc2bb6d9456516][^c726078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b9770caa7200441c40fc2bb6d9456516][^c726078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act does not extend to Scotland or Northern Ireland.
 
@@ -403,15 +403,15 @@ Section 17(2).
 
 [^c726056]: Textual amendment: [S. 2(3)(a)(b)](https://www.legislation.gov.uk/ukpga/1977/30/section/2/3/a/b) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/15/2) (with [ss. 24](https://www.legislation.gov.uk/ukpga/1996/47/section/24), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
 
-[^key-ddb6c9ad9fb9b4d4cf843a1d9526dada]: Textual amendment: Words in s. 6(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-ddb6c9ad9fb9b4d4cf843a1d9526dada]: Textual amendment: Words in s. 6(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-56f2fe4a038d99174c80f5360884f152]: Textual amendment: Words in s. 6(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-56f2fe4a038d99174c80f5360884f152]: Textual amendment: Words in s. 6(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/123) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-10c3e3fe869c7f97754f38cb0863f4e8]: Textual amendment: Words in [s. 7(1)(b)](https://www.legislation.gov.uk/ukpga/1977/30/section/7/1/b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/124) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-10c3e3fe869c7f97754f38cb0863f4e8]: Textual amendment: Words in [s. 7(1)(b)](https://www.legislation.gov.uk/ukpga/1977/30/section/7/1/b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/124) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-d08069dc9becd6616296e287b9ae8fe1]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/ukpga/1977/30/section/9/4/a) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/2), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
+[^c-d08069dc9becd6616296e287b9ae8fe1]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/ukpga/1977/30/section/9/4/a) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(2)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/2), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
 
-[^key-ba3796d1dd9a54fc78be960beea2fea6]: Textual amendment: S. 10(1) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/3), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
+[^c-ba3796d1dd9a54fc78be960beea2fea6]: Textual amendment: S. 10(1) substituted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/3), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
 
 [^c726062]: Textual amendment: Words in s. 10(2)(b) substituted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/15/3) (with [ss. 24](https://www.legislation.gov.uk/ukpga/1996/47/section/24), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2).
 
@@ -425,9 +425,9 @@ Section 17(2).
 
 [^c726069]: Textual amendment: Words in [s. 11(2)](https://www.legislation.gov.uk/ukpga/1977/30/section/11/2) substituted (1.7.1995) by [1994 c. 36](https://www.legislation.gov.uk/ukpga/1994/36), [ss. 20](https://www.legislation.gov.uk/ukpga/1994/36/section/20), [21(1)](https://www.legislation.gov.uk/ukpga/1994/36/section/21/1), [Sch. 1 para.7](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/7); SI 1995/1317, art.2.
 
-[^key-6ad01fee3f36818abde0955ade820e8f]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1977/30/section/12/2) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/4), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
+[^c-6ad01fee3f36818abde0955ade820e8f]: Textual amendment: Word in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1977/30/section/12/2) inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 137(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/4), [216(1)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/c) (with [s. 137(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/137/5))
 
-[^key-08d0929d84af25511dd9a81c80e3a4e0]: Textual amendment: Words in s. 13(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/125) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-08d0929d84af25511dd9a81c80e3a4e0]: Textual amendment: Words in s. 13(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/125) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c726070]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -441,13 +441,13 @@ Section 17(2).
 
 [^c726075]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-d2a30bc9b88d0e078347b64dcda8cbeb]: Textual amendment: [S. 17(4)](https://www.legislation.gov.uk/ukpga/1977/30/section/17/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-d2a30bc9b88d0e078347b64dcda8cbeb]: Textual amendment: [S. 17(4)](https://www.legislation.gov.uk/ukpga/1977/30/section/17/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
-[^key-ae78a2a70a76e5927b6c617d2395e19f]: Textual amendment: [S. 17(5)](https://www.legislation.gov.uk/ukpga/1977/30/section/17/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-ae78a2a70a76e5927b6c617d2395e19f]: Textual amendment: [S. 17(5)](https://www.legislation.gov.uk/ukpga/1977/30/section/17/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c726077]: Marginal citation: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).
 
-[^key-b9770caa7200441c40fc2bb6d9456516]: Textual amendment: [S. 18(2)](https://www.legislation.gov.uk/ukpga/1977/30/section/18/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-b9770caa7200441c40fc2bb6d9456516]: Textual amendment: [S. 18(2)](https://www.legislation.gov.uk/ukpga/1977/30/section/18/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c726078]: Modification: 1.2.1978 appointed under s. 18(2) by [S.I. 1978/15](https://www.legislation.gov.uk/uksi/1978/15)
 

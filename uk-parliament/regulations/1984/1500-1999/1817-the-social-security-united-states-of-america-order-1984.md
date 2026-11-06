@@ -62,7 +62,7 @@ And Whereas written notification in accordance with Article 27(1) of the Agreeme
 
 And Whereas by section 143 of the Social Security Act 1975[^f00001] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act in its application to cases affected by agreements with other Governments providing for reciprocity in matters specified in that section:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:—[^key-b52cdd7dc8b98369e6cd62e13af092ad][^key-b73155fefe69bcb4f17ec1963c1baf52][^key-6622ddb859e4f2a0a27b2c4d01385269][^key-d351c9f902a334bf394abce077762a0c][^key-b9e53b5e5796ebba3fdce67ca9f8cb40][^key-7e38fca0612940c45c93b834909a4e6f]
+Now, therefore, Her Majesty, in pursuance of the said section 143 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:—[^c-b52cdd7dc8b98369e6cd62e13af092ad][^c-b73155fefe69bcb4f17ec1963c1baf52][^c-6622ddb859e4f2a0a27b2c4d01385269][^c-d351c9f902a334bf394abce077762a0c][^c-b9e53b5e5796ebba3fdce67ca9f8cb40][^c-7e38fca0612940c45c93b834909a4e6f]
 
 ## 1. Citation and commencement
 
@@ -94,7 +94,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 1.** For the purpose of this Agreement:
 >
-> (1)[^key-5632403b9d88acd98bbf51e42cc57efa] “**Territory**” means,
+> (1)[^c-5632403b9d88acd98bbf51e42cc57efa] “**Territory**” means,
 >
 > as regards the United States, the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands, and and
 >
@@ -102,7 +102,7 @@ Clerk of the Privy Council
 >
 > (2) “**Laws**” means, the laws specified in Article 2 of this Agreement, or regulations or Orders emanating from those laws, which are applicable in the territory of a Party or in any part thereof;
 >
-> (3) “**Competent Authority[^key-bde25b0b2b30cbedcb474fd7c7cd945b]**” means as regards the United States, the Commissioner of Social Security, and
+> (3) “**Competent Authority[^c-bde25b0b2b30cbedcb474fd7c7cd945b]**” means as regards the United States, the Commissioner of Social Security, and
 >
 > as regards the United Kingdom, the Department of Social Security for Great Britain, the Department of Health and Social Services for Northern Ireland, the Department of Health and Social Security of the Isle of Man, the Employment and Social Security Committee of the States of the Island of Jersey or the Guernsey Social Security Authority as the case may require;
 >
@@ -114,7 +114,7 @@ Clerk of the Privy Council
 >
 > (6) “**Benefit**” means, any benefit, pension or allowance provided for in the laws of either Party, including any increase of, or any additional amount payable with a benefit, pension or allowance;
 >
-> (7)[^key-54ee30e8cc4bc824933d741183411290] As regards the United Kingdom:
+> (7)[^c-54ee30e8cc4bc824933d741183411290] As regards the United Kingdom:
 >
 > - (a) “insurance period” means,
 >
@@ -163,8 +163,8 @@ Clerk of the Privy Council
 >
 > - (a) As regards the United States, the laws governing the Federal Old-Age, Survivors and Disability Insurance Program:
 >   - (i) Title II of the Social Security Act and regulations pertaining thereto, except sections 226, 226A and 228 of that title and regulations pertaining to those sections; and
->   - (ii) Chapter 2 and Chapter 21 of the Internal Revenue Code of 1986[^key-fc1a0c6c37b9777e197f4d944ef92782] and regulations pertaining to those chapters;
-> - (b)[^key-f190fe7a4a711cc4d8c4a31721116965] As regards the United Kingdom,
+>   - (ii) Chapter 2 and Chapter 21 of the Internal Revenue Code of 1986[^c-fc1a0c6c37b9777e197f4d944ef92782] and regulations pertaining to those chapters;
+> - (b)[^c-f190fe7a4a711cc4d8c4a31721116965] As regards the United Kingdom,
 >   - (i) the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, the Social Security (Consequential Provisions) Act 1992 and the Social Security (Incapacity for Work) Act 1994;
 >   - (ii) the Social Security Administration (Northern Ireland) Act 1992, the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Social Security (Consequential Provisions) (Northern Ireland) Act 1992 and the Social Security (Incapacity for Work) (Northern Ireland) Order 1994;
 >   - (iii) the Social Security Administration Act 1992, the Social Security Contributions and Benefits Act 1992, the Social Security (Consequential Provisions) Act 1992 and the Social Security (Incapacity for Work) Act 1994 (Acts of Parliament) as those Acts apply to the Isle of Man by virtue of Orders made, or having effect as if made, under the Social Security Act 1982 (an Act of Tynwald);
@@ -188,9 +188,9 @@ Clerk of the Privy Council
 >
 > **ARTICLE 4.** (1) Except as otherwise provided in this Part, a person employed within the territory of one of the Parties shall, with respect to that employment, be subject to the laws on coverage of only that Party. Where a person is subject only to the laws on coverage of the United Kingdom in accordance with this paragraph, those laws shall apply to him as if he were ordinarily resident in the territory of the United Kingdom.
 >
-> (2) Where a person who is covered under the laws on coverage of one Party and is normally[^key-186c9ba37dbf3aa5622e176faf0d2c22] employed by an employer in the territory of that Party is sent by that employer to work in the territory of the other Party, the person shall be subject only to the laws on coverage of the former Party, as if he were employed in the territory of the former Party, provided that the period of work in the territory of the latter Party is not expected to exceed 5 years, or such longer period as may be agreed upon by the Competent Authorities in a particular case. This paragraph does not apply to employment as an officer or member of a crew on a ship or aircraft.
+> (2) Where a person who is covered under the laws on coverage of one Party and is normally[^c-186c9ba37dbf3aa5622e176faf0d2c22] employed by an employer in the territory of that Party is sent by that employer to work in the territory of the other Party, the person shall be subject only to the laws on coverage of the former Party, as if he were employed in the territory of the former Party, provided that the period of work in the territory of the latter Party is not expected to exceed 5 years, or such longer period as may be agreed upon by the Competent Authorities in a particular case. This paragraph does not apply to employment as an officer or member of a crew on a ship or aircraft.
 >
-> (3)[^key-08cfd921f1adf97052377308b5bdb8d9] A person who is covered under the laws on coverage of either Party with respect to self-employment shall be subject only to the laws on coverage of the Party in whose territory he ordinarily resides.
+> (3)[^c-08cfd921f1adf97052377308b5bdb8d9] A person who is covered under the laws on coverage of either Party with respect to self-employment shall be subject only to the laws on coverage of the Party in whose territory he ordinarily resides.
 >
 > (4) Where a person is employed under the laws on coverage of one Party and self-employed under the laws on coverage of the other Party for the same activity, he shall be subject only to the laws on coverage of the Party in whose territory he ordinarily resides.
 >
@@ -208,7 +208,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 7.** (1) Except as otherwise provided in this Agreement, any provision of United States laws which restricts entitlement to or payment of cash benefits for persons who are not nationals of the United States solely because such persons reside outside or are absent from the territory of the United States shall not be applicable to persons who reside in the territory of the United Kingdom.
 >
-> (2)[^key-185c8e503d168a363ee7b830a6c3ed50] Subject to the provisions of paragraph 3 of this Article and the provisions of Article 14, a person who would be entitled to receive an old age pension, a retirement pension, a survivor’s benefit or invalidity benefit under the laws of the United Kingdom if he were in the United Kingdom shall be entitled to receive that pension or benefit while he ordinarily resides in the territory of the United States, as if he were in the United Kingdom.
+> (2)[^c-185c8e503d168a363ee7b830a6c3ed50] Subject to the provisions of paragraph 3 of this Article and the provisions of Article 14, a person who would be entitled to receive an old age pension, a retirement pension, a survivor’s benefit or invalidity benefit under the laws of the United Kingdom if he were in the United Kingdom shall be entitled to receive that pension or benefit while he ordinarily resides in the territory of the United States, as if he were in the United Kingdom.
 >
 > (3) A person who is entitled to receive an old age pension, a retirement pension or a survivor's benefit under the laws of the United Kingdom and who would be entitled to receive an increase in the rate of that pension or benefit if he were in the United Kingdom shall, after the date of entry into force of Part III of this Agreement, be entitled to receive any such increase prescribed after that date by those laws if he ordinarily resides in the territory of the United States; but nothing in this paragraph shall confer entitlement to receive any such increases prescribed before that date by those laws.
 >
@@ -245,7 +245,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 10.** (1) Subject to the provisions of paragraph 2 of this Article, where a person is entitled to an old age pension or a basic retirement pension, as the case may be, under the laws of the United Kingdom, otherwise than by virtue of the provisions of this Agreement, that pension shall be payable and the provisions of Article 11, except for Article 11.3, of this Agreement shall not apply under these laws.
 >
-> (2) For the purpose of paragraph 1 of this Article, a lower-rate Category B retirement pension payable to a married person or civil partner[^key-ebb53e93718c800a423e02bd5fad92a2] by virtue of the contributions of his or her spouse or civil partner shall be treated as if it were not a retirement pension and the words “old age pension or a retirement pension” should be construed as referring only to a contributory pension.
+> (2) For the purpose of paragraph 1 of this Article, a lower-rate Category B retirement pension payable to a married person or civil partner[^c-ebb53e93718c800a423e02bd5fad92a2] by virtue of the contributions of his or her spouse or civil partner shall be treated as if it were not a retirement pension and the words “old age pension or a retirement pension” should be construed as referring only to a contributory pension.
 >
 > **ARTICLE 11.** (1) The provisions of this Article shall apply for the purpose of determining entitlement to old age pension, or basic retirement pension, as the case may be, under the laws of the United Kingdom or under the laws of any one part of the territory of the United Kingdom, under which there is no entitlement in respect of a person in accordance with the provisions of Article 10 of this Agreement.
 >
@@ -256,7 +256,7 @@ Clerk of the Privy Council
 >
 > The proportionate amount thus calculated shall be the pension actually payable to the person by the Agency of the United Kingdom.
 >
-> (3)[^key-1aa6de02e98b547b9ec28ef681c99369] Where the periods of coverage completed by a person under the laws of:
+> (3)[^c-1aa6de02e98b547b9ec28ef681c99369] Where the periods of coverage completed by a person under the laws of:
 >
 > - (i) either Great Britain, Northern Ireland or the Isle of Man amount to less than one reckonable year, or, as the case may be, qualifying year, or relate only to periods before 6 April 1975 and in aggregate amount to less than 50 weeks, or
 > - (ii) Jersey amount to less than an annual contribution factor of 1.00, or
@@ -276,7 +276,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 13.** Where a person in the United Kingdom is entitled to a child's survivor benefit in respect of a child in the United Kingdom, that benefit shall not cease to be payable solely because that person and, or, the child is in the territory of the United States.
 >
-> **ARTICLE 14.**[^key-b0d4343f6d6093db47190696268764b6] (1) The provisions of paragraphs 2 to 5 of this Article shall apply to claims for invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man.
+> **ARTICLE 14.**[^c-b0d4343f6d6093db47190696268764b6] (1) The provisions of paragraphs 2 to 5 of this Article shall apply to claims for invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man.
 >
 > (2) A person who has satisfied the first contribution condition for sickness benefit as defined in Article 1 using contributions under the laws of Great Britain, Northern Ireland or the Isle of Man only, who is in the territory of the United States and is not subject to the laws on coverage of Great Britain, Northern Ireland or the Isle of Man under Articles 4, 5 or 6 of this Agreement, shall be entitled to receive invalidity benefit under the laws of Great Britain, Northern Ireland or the Isle of Man provided that:
 >
@@ -383,7 +383,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 21.** (1) Disagreements between the two Parties regarding the interpretation or application of this Agreement shall, as far as possible, be resolved through agreement of the Competent Authorities.
 >
-> (2)[^key-a0008b46f80677fddef10e067e4a798d] If a disagreement cannot be resolved through negotiation, the Competent Authorities will endeavour to settle the issue through arbitration, mediation, or other mutually agreed procedure.
+> (2)[^c-a0008b46f80677fddef10e067e4a798d] If a disagreement cannot be resolved through negotiation, the Competent Authorities will endeavour to settle the issue through arbitration, mediation, or other mutually agreed procedure.
 >
 > **ARTICLE 22.** This Agreement may be amended in the future by supplementary agreements which, from their entry into force, shall be considered an integral part of this Agreement.
 >
@@ -440,7 +440,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 1.** Terms used in this Administrative Agreement shall have the same meaning as in the Agreement.
 >
-> **ARTICLE 2.** (1)[^key-a32558d8d702a1fe320fc8fcc9f55354] The liaison agencies referred to in Article 15 of the Agreement shall be:
+> **ARTICLE 2.** (1)[^c-a32558d8d702a1fe320fc8fcc9f55354] The liaison agencies referred to in Article 15 of the Agreement shall be:
 >
 > - (a) for the United States,
 >
@@ -482,7 +482,7 @@ Clerk of the Privy Council
 >
 > **ARTICLE 8.** The liaison agencies of the two Parties shall assist each other as far as possible in the compilation and exchange of statistics on the administration of the Agreement.
 >
-> **ARTICLE 9.** (1)[^key-8aad3d523d78fdfdad3922ac4c31c153] However, the Agencies of the two Parties may agree on a different allocation of expenses for medical examinations arranged under this paragraph.
+> **ARTICLE 9.** (1)[^c-8aad3d523d78fdfdad3922ac4c31c153] However, the Agencies of the two Parties may agree on a different allocation of expenses for medical examinations arranged under this paragraph.
 >
 > (2) Upon request, the agency of either Party shall furnish without expense to the Agency of the other Party any medical information and documentation in its possession relevant to the disability of the claimant or beneficiary.
 >
@@ -512,42 +512,42 @@ There is also set out in Schedule 2 to the Order the provisions of an Administra
 
 [^f00001]: Footnote: subsection (1A) of section 143 was inserted by section 6(1) of the Social Security Act 1981 (c. 33).
 
-[^key-b52cdd7dc8b98369e6cd62e13af092ad]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-b52cdd7dc8b98369e6cd62e13af092ad]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-b73155fefe69bcb4f17ec1963c1baf52]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/1995/767/schedule/1)
+[^c-b73155fefe69bcb4f17ec1963c1baf52]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/1995/767/schedule/1)
 
-[^key-6622ddb859e4f2a0a27b2c4d01385269]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-6622ddb859e4f2a0a27b2c4d01385269]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-d351c9f902a334bf394abce077762a0c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (22.2.2012) by [The Social Security (Reciprocal Agreements) Order 2012 (S.I. 2012/360)](https://www.legislation.gov.uk/uksi/2012/360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/360/article/1), [2](https://www.legislation.gov.uk/uksi/2012/360/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/360/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/360/schedule/2)
+[^c-d351c9f902a334bf394abce077762a0c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (22.2.2012) by [The Social Security (Reciprocal Agreements) Order 2012 (S.I. 2012/360)](https://www.legislation.gov.uk/uksi/2012/360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/360/article/1), [2](https://www.legislation.gov.uk/uksi/2012/360/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/360/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/360/schedule/2)
 
-[^key-b9e53b5e5796ebba3fdce67ca9f8cb40]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-b9e53b5e5796ebba3fdce67ca9f8cb40]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-7e38fca0612940c45c93b834909a4e6f]: Modification: [Order](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-7e38fca0612940c45c93b834909a4e6f]: Modification: [Order](https://www.legislation.gov.uk/uksi/1984/1817) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
-[^key-5632403b9d88acd98bbf51e42cc57efa]: Textual amendment: Sch. 1 art. 1(1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/a)
+[^c-5632403b9d88acd98bbf51e42cc57efa]: Textual amendment: Sch. 1 art. 1(1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/a)
 
-[^key-bde25b0b2b30cbedcb474fd7c7cd945b]: Textual amendment: Sch. 1 art. 1(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/b)
+[^c-bde25b0b2b30cbedcb474fd7c7cd945b]: Textual amendment: Sch. 1 art. 1(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/b)
 
-[^key-54ee30e8cc4bc824933d741183411290]: Textual amendment: Sch. 1 art. 1(7) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(c)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/c)
+[^c-54ee30e8cc4bc824933d741183411290]: Textual amendment: Sch. 1 art. 1(7) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(1)(c)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/1/c)
 
-[^key-fc1a0c6c37b9777e197f4d944ef92782]: Textual amendment: Word in Sch. 1 art. 2(1)(a)(ii) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/2)
+[^c-fc1a0c6c37b9777e197f4d944ef92782]: Textual amendment: Word in Sch. 1 art. 2(1)(a)(ii) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/2)
 
-[^key-f190fe7a4a711cc4d8c4a31721116965]: Textual amendment: Sch. 1 art. 2(1)(b) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(3)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/3)
+[^c-f190fe7a4a711cc4d8c4a31721116965]: Textual amendment: Sch. 1 art. 2(1)(b) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(3)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/3)
 
-[^key-186c9ba37dbf3aa5622e176faf0d2c22]: Textual amendment: Word in Sch. 1 art. 4(2) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(4)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/4)
+[^c-186c9ba37dbf3aa5622e176faf0d2c22]: Textual amendment: Word in Sch. 1 art. 4(2) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(4)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/4)
 
-[^key-08cfd921f1adf97052377308b5bdb8d9]: Textual amendment: Sch. 1 art. 4(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(5)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/5)
+[^c-08cfd921f1adf97052377308b5bdb8d9]: Textual amendment: Sch. 1 art. 4(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(5)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/5)
 
-[^key-185c8e503d168a363ee7b830a6c3ed50]: Textual amendment: Sch. 1 art. 7(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(6)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/6)
+[^c-185c8e503d168a363ee7b830a6c3ed50]: Textual amendment: Sch. 1 art. 7(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(6)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/6)
 
-[^key-ebb53e93718c800a423e02bd5fad92a2]: Textual amendment: Words in Schs. 1 substituted (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-ebb53e93718c800a423e02bd5fad92a2]: Textual amendment: Words in Schs. 1 substituted (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
-[^key-1aa6de02e98b547b9ec28ef681c99369]: Textual amendment: Sch. 1 art. 11(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(7)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/7)
+[^c-1aa6de02e98b547b9ec28ef681c99369]: Textual amendment: Sch. 1 art. 11(3) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(7)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/7)
 
-[^key-b0d4343f6d6093db47190696268764b6]: Textual amendment: Sch. 1 art. 14 substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(8)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/8)
+[^c-b0d4343f6d6093db47190696268764b6]: Textual amendment: Sch. 1 art. 14 substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(8)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/8)
 
-[^key-a0008b46f80677fddef10e067e4a798d]: Textual amendment: Sch. 1 art. 21(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(9)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/9)
+[^c-a0008b46f80677fddef10e067e4a798d]: Textual amendment: Sch. 1 art. 21(2) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 1 art. 1(9)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/1/article/1/9)
 
-[^key-a32558d8d702a1fe320fc8fcc9f55354]: Textual amendment: [Sch. 2 art. 2(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/2/1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(1)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/1)
+[^c-a32558d8d702a1fe320fc8fcc9f55354]: Textual amendment: [Sch. 2 art. 2(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/2/1) substituted (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(1)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/1)
 
-[^key-8aad3d523d78fdfdad3922ac4c31c153]: Textual amendment: Words in [Sch. 2 art. 9(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/9/1) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/2)
+[^c-8aad3d523d78fdfdad3922ac4c31c153]: Textual amendment: Words in [Sch. 2 art. 9(1)](https://www.legislation.gov.uk/uksi/1984/1817/schedule/2/article/9/1) added (1.9.1997) by [The Social Security (United States of America) Order 1997 (S.I. 1997/1778)](https://www.legislation.gov.uk/uksi/1997/1778), [art. 1](https://www.legislation.gov.uk/uksi/1997/1778/article/1), [Sch. 2 art. 1(2)](https://www.legislation.gov.uk/uksi/1997/1778/schedule/2/article/1/2)

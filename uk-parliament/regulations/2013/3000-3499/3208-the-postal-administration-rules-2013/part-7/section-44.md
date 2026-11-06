@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Costs of proving[^key-16ac742989e36c8b5d23353527bbad70]
+## 44. Costs of proving[^c-16ac742989e36c8b5d23353527bbad70]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-16ac742989e36c8b5d23353527bbad70]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2013/3208/rule/44) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-16ac742989e36c8b5d23353527bbad70]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2013/3208/rule/44) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

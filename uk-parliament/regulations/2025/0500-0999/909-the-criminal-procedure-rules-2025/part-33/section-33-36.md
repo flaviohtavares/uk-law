@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.36. Witness summons[^key-bff0c163eb2d3909cc9b0364d7cdb914]
+## 33.36. Witness summons[^c-bff0c163eb2d3909cc9b0364d7cdb914]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bff0c163eb2d3909cc9b0364d7cdb914]: Commencement: [Rule 33.36](https://www.legislation.gov.uk/uksi/2025/909/rule/33.36) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bff0c163eb2d3909cc9b0364d7cdb914]: Commencement: [Rule 33.36](https://www.legislation.gov.uk/uksi/2025/909/rule/33.36) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00836]: Footnote: [1965 c. 69](https://www.legislation.gov.uk/ukpga/1965/69); section 2 was substituted, together with sections 2A to 2E, by section 66 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and amended by section 119 of, and paragraph 8 of Schedule 8 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 109 of, and paragraph 126 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), paragraph 42 of Schedule 3 and Part 4 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 169 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and paragraph 33 of Schedule 17 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

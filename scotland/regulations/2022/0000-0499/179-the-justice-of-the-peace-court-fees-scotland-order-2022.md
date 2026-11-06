@@ -32,7 +32,7 @@ summary: ''
 
 Justice Of The Peace Court
 
-The Justice of the Peace Court Fees (Scotland) Order 2022 (revoked)[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+The Justice of the Peace Court Fees (Scotland) Order 2022 (revoked)[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 Made
 
@@ -44,47 +44,47 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## 1. Citation, commencement and effect[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in justice of the peace courts[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## 2. Fees payable in justice of the peace courts[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees: legal aid[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## 3. Exemption of certain persons from fees: legal aid[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## 4. Exemption of certain persons from fees: social security[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## 5. Revocation[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## SCHEDULE 1 — TABLE OF FEES[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 Article 2(1)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## SCHEDULE 2 — TABLE OF FEES[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 Article 2(1)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-bfd6be6c3931ba4658b0205dc6f2556f]
+## SCHEDULE 3 — TABLE OF FEES[^c-bfd6be6c3931ba4658b0205dc6f2556f]
 
 Article 2(1)(c)
 
@@ -92,8 +92,8 @@ Article 2(1)(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfd6be6c3931ba4658b0205dc6f2556f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bfd6be6c3931ba4658b0205dc6f2556f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/179) revoked (1.11.2024) by [The Justice of the Peace Court Fees (Scotland) Order 2024 (S.S.I. 2024/239)](https://www.legislation.gov.uk/ssi/2024/239), [arts. 1](https://www.legislation.gov.uk/ssi/2024/239/article/1), [5](https://www.legislation.gov.uk/ssi/2024/239/article/5)
+[^c-bfd6be6c3931ba4658b0205dc6f2556f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/179) revoked (1.11.2024) by [The Justice of the Peace Court Fees (Scotland) Order 2024 (S.S.I. 2024/239)](https://www.legislation.gov.uk/ssi/2024/239), [arts. 1](https://www.legislation.gov.uk/ssi/2024/239/article/1), [5](https://www.legislation.gov.uk/ssi/2024/239/article/5)

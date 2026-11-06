@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Co-operation with Health Boards and others[^key-8c03d36af80c0869d8aaf9b7ed2bbd48]
+## 30. Co-operation with Health Boards and others[^c-8c03d36af80c0869d8aaf9b7ed2bbd48]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 that appear to the authority to have an interest, power or duty mentioned in subsection (2) below.
 
-(1A)[^key-fa1837d3392e3dba956cab2958b6d5bc] If, in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, a local authority delegates the carrying out any of the functions conferred by sections 25 to 27 of this Act—
+(1A)[^c-fa1837d3392e3dba956cab2958b6d5bc] If, in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, a local authority delegates the carrying out any of the functions conferred by sections 25 to 27 of this Act—
 
 - (a) subsection (1) applies to the person to whom the functions are delegated as it applies to a local authority; and
 - (b) the person to whom the functions are delegated must co-operate with the local authority if it appears to the person that the authority has an interest, power or duty mentioned in subsection (2)(b) below.
@@ -43,6 +43,6 @@ for the person.
 
 ## Annotations
 
-[^key-8c03d36af80c0869d8aaf9b7ed2bbd48]: Commencement: S. 30 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-8c03d36af80c0869d8aaf9b7ed2bbd48]: Commencement: S. 30 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-fa1837d3392e3dba956cab2958b6d5bc]: Textual amendment: [S. 30(1A)](https://www.legislation.gov.uk/asp/2003/13/section/30/1A) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 7(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/7/2)
+[^c-fa1837d3392e3dba956cab2958b6d5bc]: Textual amendment: [S. 30(1A)](https://www.legislation.gov.uk/asp/2003/13/section/30/1A) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 7(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/7/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352A. Exclusion of credits on reversal of disregarded loss[^key-8ad976b385be10628ff184af30272c98]
+## 352A. Exclusion of credits on reversal of disregarded loss[^c-8ad976b385be10628ff184af30272c98]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad976b385be10628ff184af30272c98]: Textual amendment: S. 352A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/31)
+[^c-8ad976b385be10628ff184af30272c98]: Textual amendment: S. 352A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/31)

@@ -54,13 +54,13 @@ So far as the following Regulations are made in exercise of powers under the Foo
 
 There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00009], during the preparation and evaluation of the following Regulations.
 
-## 1. Citation, commencement and application[^key-49ccb8769256e9a444290695b3bdc6f5]
+## 1. Citation, commencement and application[^c-49ccb8769256e9a444290695b3bdc6f5]
 
 (1) These Regulations may be cited as the Country of Origin of Certain Meats (England) Regulations 2015 and come into force on 1st April 2015.
 
 (2) These Regulations apply to England only.
 
-## 2. Interpretation[^key-59265585522f46fd11e2438e271fe3bb]
+## 2. Interpretation[^c-59265585522f46fd11e2438e271fe3bb]
 
 (1) In these Regulations—
 
@@ -84,14 +84,14 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (3) Any reference in these Regulations to the Commission Regulation is a reference to that Regulation as amended from time to time.
 
-## 3. Competent authority[^key-481d3994774c59fb1bd2bafff57ab688]
+## 3. Competent authority[^c-481d3994774c59fb1bd2bafff57ab688]
 
 Each food authority in its area or district is the competent authority for the purposes of—
 
-- (a) the third sub-paragraph of Article 5(1) (labelling of meat where specified rearing period not attained in any single[^key-7d840d9b49dc52f3a16357c52622a54f] country); and
+- (a) the third sub-paragraph of Article 5(1) (labelling of meat where specified rearing period not attained in any single[^c-7d840d9b49dc52f3a16357c52622a54f] country); and
 - (b) Article 5(2) (labelling of meat where “origin” indicated on the label).
 
-## 4. Enforcement authorities[^key-f4784b4a31a618564939af7546014f8a]
+## 4. Enforcement authorities[^c-f4784b4a31a618564939af7546014f8a]
 
 (1) These Regulations are enforced by each food authority within its area and by each port health authority within its district.
 
@@ -100,13 +100,13 @@ Each food authority in its area or district is the competent authority for the p
 - (a) in relation to the London port health district (within the meaning given by section 7(1) of the Public Health (Control of Diseases) Act 1984[^f00011]), the Common Council of the City of London;
 - (b) in relation to any port health district constituted by order under section 2(3) of that Act, the port health authority for that district constituted by order under section 2(4) of that Act.
 
-## 5. Records[^key-ac2615ea0c7d191b8344f0cad38a580d]
+## 5. Records[^c-ac2615ea0c7d191b8344f0cad38a580d]
 
 (1) A food business operator must keep a record of information under the identification and registration system required by Article 3 (traceability).
 
 (2) A food business operator must retain each record for a period of 12 months from the end of the calendar year to which the record relates.
 
-## 6. Application of provisions of the Act[^key-16fb3a251d01ad90ba67f1ddedd5d3f4]
+## 6. Application of provisions of the Act[^c-16fb3a251d01ad90ba67f1ddedd5d3f4]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies with the modification (in the case of section 10(1)) specified in Part 1 of the Schedule for the purposes of—
 
@@ -127,7 +127,7 @@ Each food authority in its area or district is the competent authority for the p
 
 (5) The provisions of the Act specified in the first column of the table in Part 5 of the Schedule apply with the modifications specified in the second column of that table for the purposes of these Regulations.
 
-## 7. Review[^key-9f20b80c55d65bab16bc66419de6b081]
+## 7. Review[^c-9f20b80c55d65bab16bc66419de6b081]
 
 (1) The Secretary of State must from time to time—
 
@@ -147,7 +147,7 @@ Each food authority in its area or district is the competent authority for the p
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-## 8. Transitional provisions: withdrawal from the EU[^key-316aa7ec13a34f85554df8609c2d40c8]
+## 8. Transitional provisions: withdrawal from the EU[^c-316aa7ec13a34f85554df8609c2d40c8]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with the second subparagraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation if—
 
@@ -156,7 +156,7 @@ Each food authority in its area or district is the competent authority for the p
 
 (2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with the second subparagraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation if—
 
-- (a) the improvement notice would relate to a product placed on the market before 1 January 2024[^key-45e4c2122be3722b800b3470ebca59aa];
+- (a) the improvement notice would relate to a product placed on the market before 1 January 2024[^c-45e4c2122be3722b800b3470ebca59aa];
 - (b) the product bears one of the indications provided for in the second subparagraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation as those provisions had effect in EU law immediately before IP completion day; and
 - (c) the use of the indication would not constitute a failure to comply with those provisions of the Commission Regulation as that Regulation had effect in EU law immediately before IP completion day.
 
@@ -174,7 +174,7 @@ Regulation 6
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-a3956cb8033fec60d4d456a782ad19ad] For section 10(1) (improvement notices) substitute—
+**1.**[^c-a3956cb8033fec60d4d456a782ad19ad] For section 10(1) (improvement notices) substitute—
 
 > (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with any of Articles 3 to 6 and 8 of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry, or regulation 5 of the Country of Origin of Certain Meats (England) Regulations 2015, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >
@@ -187,14 +187,14 @@ Regulation 6
 
 ### PART 2 — Modification of section 32(1)
 
-**2.**[^key-18601b183bdf191f00744d2e105a2fe5] In section 32(1) (powers of entry)—
+**2.**[^c-18601b183bdf191f00744d2e105a2fe5] In section 32(1) (powers of entry)—
 
 - (a) in paragraph (a), for “this Act, or of regulations or orders made under it” substitute “any of Articles 3 to 6 or 8 of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry”; and
 - (b) omit paragraph (c).
 
 ### PART 3 — Modification of section 37(1) and (6)
 
-**3.**[^key-5261d9929d552c6901eb10983759344c] (1) For section 37(1) (appeals) substitute—
+**3.**[^c-5261d9929d552c6901eb10983759344c] (1) For section 37(1) (appeals) substitute—
 
 > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1), as applied and modified by regulation 6(1) of, and Part 1 of the Schedule to, the Country of Origin of Certain Meats (England) Regulations 2015, may appeal to the First-tier Tribunal.
 
@@ -207,7 +207,7 @@ Regulation 6
 
 ### PART 4 — Modification of section 39(1) and (3)
 
-**4.**[^key-33e5ff82dced44c6a8d4842630a9fdce] (1) For section 39(1) (appeals against improvement notices) substitute—
+**4.**[^c-33e5ff82dced44c6a8d4842630a9fdce] (1) For section 39(1) (appeals against improvement notices) substitute—
 
 > (1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 6(1) of, and Part 1 of the Schedule to, the Country of Origin of Certain Meats (England) Regulations 2015, the First-tier Tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
 
@@ -215,7 +215,7 @@ Regulation 6
 
 (2) In section 39(3), omit “for want of prosecution”.
 
-### PART 5 — Modification of other provisions of the Act[^key-b73427024e135f2a00c92d507b06393d]
+### PART 5 — Modification of other provisions of the Act[^c-b73427024e135f2a00c92d507b06393d]
 
 | Provision of the Act | Modifications |
 | --- | --- |
@@ -268,41 +268,41 @@ The Explanatory Memorandum is published alongside the Regulations on www.legisla
 
 [^f00009]: Footnote: OJ No L 31, 1.2.02, p 1, last amended by Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ No L 188, 18.7.09, p 14).
 
-[^key-49ccb8769256e9a444290695b3bdc6f5]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-49ccb8769256e9a444290695b3bdc6f5]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-59265585522f46fd11e2438e271fe3bb]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-59265585522f46fd11e2438e271fe3bb]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
 [^f00010]: Footnote: OJ No L 304, 22.11.11, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.14, p 7).
 
-[^key-481d3994774c59fb1bd2bafff57ab688]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-481d3994774c59fb1bd2bafff57ab688]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-7d840d9b49dc52f3a16357c52622a54f]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/518/regulation/3/a) substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/150/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d840d9b49dc52f3a16357c52622a54f]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/518/regulation/3/a) substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/150/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4784b4a31a618564939af7546014f8a]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-f4784b4a31a618564939af7546014f8a]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
 [^f00011]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-ac2615ea0c7d191b8344f0cad38a580d]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-ac2615ea0c7d191b8344f0cad38a580d]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-16fb3a251d01ad90ba67f1ddedd5d3f4]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-16fb3a251d01ad90ba67f1ddedd5d3f4]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
 [^f00012]: Footnote: Section 32(5) and (6) were amended by the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), Schedule 2, paragraph 18.
 
-[^key-9f20b80c55d65bab16bc66419de6b081]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-9f20b80c55d65bab16bc66419de6b081]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-316aa7ec13a34f85554df8609c2d40c8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/518/regulation/8) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/632/regulation/3)
+[^c-316aa7ec13a34f85554df8609c2d40c8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/518/regulation/8) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/632/regulation/3)
 
-[^key-45e4c2122be3722b800b3470ebca59aa]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/518/regulation/8/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2022/938/regulation/8)
+[^c-45e4c2122be3722b800b3470ebca59aa]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2015/518/regulation/8/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2022/938/regulation/8)
 
-[^key-a3956cb8033fec60d4d456a782ad19ad]: Commencement: Sch. para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-a3956cb8033fec60d4d456a782ad19ad]: Commencement: Sch. para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-18601b183bdf191f00744d2e105a2fe5]: Commencement: Sch. para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-18601b183bdf191f00744d2e105a2fe5]: Commencement: Sch. para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-5261d9929d552c6901eb10983759344c]: Commencement: Sch. para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-5261d9929d552c6901eb10983759344c]: Commencement: Sch. para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-33e5ff82dced44c6a8d4842630a9fdce]: Commencement: Sch. para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-33e5ff82dced44c6a8d4842630a9fdce]: Commencement: Sch. para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
-[^key-b73427024e135f2a00c92d507b06393d]: Commencement: Sch. Pt. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
+[^c-b73427024e135f2a00c92d507b06393d]: Commencement: Sch. Pt. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/518/regulation/1/1)
 
 [^f00013]: Footnote: Section 2(1) was amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 8.
 

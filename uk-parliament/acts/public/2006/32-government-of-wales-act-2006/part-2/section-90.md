@@ -45,11 +45,11 @@ is to be received in evidence and, unless the contrary is proved, is to be taken
 (7) The Documentary Evidence Act 1868 (c. 37) (proof of documents) has effect as if—
 
 - (a) in the first column of Schedule 1 there were included a reference to the Welsh Ministers, the First Minister, a Welsh Minister appointed under section 48 and the Counsel General,
-- (b) in the second column of that Schedule there were included in connection with that reference a reference to a member of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, and
+- (b) in the second column of that Schedule there were included in connection with that reference a reference to a member of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, and
 - (c) in section 2 of that Act the reference to regulations issued by or under the authority of an officer mentioned in the first column of the Schedule included a reference to any document issued by or under the authority of a person or persons within paragraph (a).
 
 ## Annotations
 
 [^c16527261]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

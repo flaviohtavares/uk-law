@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Short title[^key-0e51607b4a6a667ed3a16b5768cba864]
+## 10. Short title[^c-0e51607b4a6a667ed3a16b5768cba864]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-0e51607b4a6a667ed3a16b5768cba864]: Commencement: S. 10 in force at 11.7.2025, see [s. 9(1)](https://www.legislation.gov.uk/asc/2025/3/section/9/1)
+[^c-0e51607b4a6a667ed3a16b5768cba864]: Commencement: S. 10 in force at 11.7.2025, see [s. 9(1)](https://www.legislation.gov.uk/asc/2025/3/section/9/1)

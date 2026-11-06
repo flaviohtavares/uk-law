@@ -46,7 +46,7 @@ summary: ''
   > - (c) a scheme established in a territory outside the United Kingdom, and corresponding to that set out in a renewables obligation order under section 32 of the Electricity Act 1989, operates to incentivise the generation of the electricity.
 
   ,
-- (b)[^key-154fbcc704660377053a19e8c76aa1a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-154fbcc704660377053a19e8c76aa1a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (9), at the end insert—
 
   > “**renewables obligation certificate**” means a certificate issued under section 32B of the Electricity Act 1989 or Article 54 of the Energy (Northern Ireland) Order 2003.
@@ -102,7 +102,7 @@ summary: ''
   > - (c) a scheme established in a territory outside the United Kingdom, and corresponding to that set out in a renewables obligation order under section 32 of the Electricity Act 1989, operates to incentivise the generation of the electricity.
 
   ,
-- (b)[^key-a48553df3fafd6b335fa118d72f7b34e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a48553df3fafd6b335fa118d72f7b34e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (9), at the end insert—
 
   > “**renewables obligation certificate**” means a certificate issued under section 32B of the Electricity Act 1989 or Article 54 of the Energy (Northern Ireland) Order 2003.
@@ -140,6 +140,6 @@ summary: ''
 
 ## Annotations
 
-[^key-154fbcc704660377053a19e8c76aa1a7]: Textual amendment: [S. 56(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/56/3/b) omitted (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/a)
+[^c-154fbcc704660377053a19e8c76aa1a7]: Textual amendment: [S. 56(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/56/3/b) omitted (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/a)
 
-[^key-a48553df3fafd6b335fa118d72f7b34e]: Textual amendment: [S. 56(6)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/56/6/b) omitted (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/a)
+[^c-a48553df3fafd6b335fa118d72f7b34e]: Textual amendment: [S. 56(6)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/56/6/b) omitted (with application in accordance with Sch. 6 para. 14 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12/a)

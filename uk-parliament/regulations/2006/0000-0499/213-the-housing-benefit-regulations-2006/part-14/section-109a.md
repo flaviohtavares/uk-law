@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 109A. Verifying information[^key-9d73071090412c6631556cca232cf1a8]
+## 109A. Verifying information[^c-9d73071090412c6631556cca232cf1a8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A relevant authority may verify relevant information supplied to, or obtained by
 
 ## Annotations
 
-[^key-9d73071090412c6631556cca232cf1a8]: Textual amendment: Reg. 109A inserted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/5)
+[^c-9d73071090412c6631556cca232cf1a8]: Textual amendment: Reg. 109A inserted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3ZB — Disqualification from driving[^key-97a3b45073878b2a06b237d3809104ab]
+## Schedule 3ZB — Disqualification from driving[^c-97a3b45073878b2a06b237d3809104ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,4 +184,4 @@ A public authority that holds information about a liable person’s driving lice
 
 ## Annotations
 
-[^key-97a3b45073878b2a06b237d3809104ab]: Textual amendment: [Sch. 3ZB](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3ZB) inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 6](https://www.legislation.gov.uk/ukpga/2025/28/schedule/6) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/h)
+[^c-97a3b45073878b2a06b237d3809104ab]: Textual amendment: [Sch. 3ZB](https://www.legislation.gov.uk/ukpga/1992/5/schedule/3ZB) inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b), [Sch. 6](https://www.legislation.gov.uk/ukpga/2025/28/schedule/6) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/h)

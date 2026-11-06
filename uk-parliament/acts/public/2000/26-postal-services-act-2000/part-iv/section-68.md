@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Loans by the Secretary of State to relevant companies.[^key-cbfd73d92815fa6698e30f030d899371]
+## 68. Loans by the Secretary of State to relevant companies.[^c-cbfd73d92815fa6698e30f030d899371]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may, on or after the appointed day and with the approval of the Treasury, make loans to a relevant company[^key-cf89f1bacf1d1533b95ee9c2563674b6].
+(1) The Secretary of State may, on or after the appointed day and with the approval of the Treasury, make loans to a relevant company[^c-cf89f1bacf1d1533b95ee9c2563674b6].
 
-(1A)[^key-6d0c6acd470bf5fd6ecba81e5298d160] In this Part “**relevant company**” means—
+(1A)[^c-6d0c6acd470bf5fd6ecba81e5298d160] In this Part “**relevant company**” means—
 
 - (a) a Post Office company,
 - (b) a Royal Mail company, or
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cbfd73d92815fa6698e30f030d899371]: Textual amendment: Words in s. 68 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cbfd73d92815fa6698e30f030d899371]: Textual amendment: Words in s. 68 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-cf89f1bacf1d1533b95ee9c2563674b6]: Textual amendment: Words in s. 68(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cf89f1bacf1d1533b95ee9c2563674b6]: Textual amendment: Words in s. 68(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-6d0c6acd470bf5fd6ecba81e5298d160]: Textual amendment: S. 68(1A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-6d0c6acd470bf5fd6ecba81e5298d160]: Textual amendment: S. 68(1A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 9(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/9/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

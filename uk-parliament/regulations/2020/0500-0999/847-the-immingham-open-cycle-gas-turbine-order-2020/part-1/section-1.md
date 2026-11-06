@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-b2da7d9b1e2a18b4417a5a7ac26326dc]
+## 1. Citation and commencement[^c-b2da7d9b1e2a18b4417a5a7ac26326dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Immingham Open Cycle Gas Turbine Order 2020 and c
 
 ## Annotations
 
-[^key-b2da7d9b1e2a18b4417a5a7ac26326dc]: Commencement: Art. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-b2da7d9b1e2a18b4417a5a7ac26326dc]: Commencement: Art. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

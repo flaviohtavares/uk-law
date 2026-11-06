@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Time limits for applications[^key-2df9ad7506a0fefb5f9814a355d07bef]
+## 98A. Time limits for applications[^c-2df9ad7506a0fefb5f9814a355d07bef]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2df9ad7506a0fefb5f9814a355d07bef]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/1648/part/5A) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/71/3), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2) (with [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2022/23/section/76/4), [78(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/78/2), [85](https://www.legislation.gov.uk/ukpga/2022/23/section/85)); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-2df9ad7506a0fefb5f9814a355d07bef]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/1648/part/5A) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/71/3), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2) (with [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2022/23/section/76/4), [78(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/78/2), [85](https://www.legislation.gov.uk/ukpga/2022/23/section/85)); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-c1b604647883a5c67fc686016c50940b]
+## 79. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-c1b604647883a5c67fc686016c50940b]
 
 *Extent: E+W*
 
@@ -30,17 +30,17 @@ In regulation 2(1) (interpretation) (as amended by regulations 73 and 79 of thes
   - (ii) at the end of paragraph (a)(iii), for “or” substitute “and”;
   - (iii) omit paragraph (a)(iv).
 
-**80.**[^key-0befbe66e4053fe1098e21afe60a88d1] In regulation 3 (eligible students)[^f00067]—
+**80.**[^c-0befbe66e4053fe1098e21afe60a88d1] In regulation 3 (eligible students)[^f00067]—
 
 - (a) in paragraph (8A)(a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of a person granted leave under one of the Afghan Schemes”;
 - (b) in paragraph (8B)(a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of a person granted leave under one of the Ukraine Schemes”.
 
-**81.**[^key-29aa74ef634f1b698f7bc18d9783ad8c] In regulation 6 (as substituted by regulation 76 of these Regulations)—
+**81.**[^c-29aa74ef634f1b698f7bc18d9783ad8c] In regulation 6 (as substituted by regulation 76 of these Regulations)—
 
 - (a) in paragraph (j), after “the student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in paragraph (k), after “the student” insert “or the student’s spouse, civil partner or parent”;
 
-**82.**[^key-3d2ac73f748183102fc375539ecb1ff9] In Part 2 of Schedule 1 (eligible students: categories)[^f00068]—
+**82.**[^c-3d2ac73f748183102fc375539ecb1ff9] In Part 2 of Schedule 1 (eligible students: categories)[^f00068]—
 
 - (a) for paragraph 5A (including the heading) substitute—
 
@@ -101,14 +101,14 @@ In regulation 2(1) (interpretation) (as amended by regulations 73 and 79 of thes
 
 ## Annotations
 
-[^key-c1b604647883a5c67fc686016c50940b]: Commencement: Reg. 79 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c1b604647883a5c67fc686016c50940b]: Commencement: Reg. 79 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-0befbe66e4053fe1098e21afe60a88d1]: Commencement: Reg. 80 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-0befbe66e4053fe1098e21afe60a88d1]: Commencement: Reg. 80 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00067]: Footnote: Paragraph (8A) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 8B was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-29aa74ef634f1b698f7bc18d9783ad8c]: Commencement: Reg. 81 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-29aa74ef634f1b698f7bc18d9783ad8c]: Commencement: Reg. 81 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-3d2ac73f748183102fc375539ecb1ff9]: Commencement: Reg. 82 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3d2ac73f748183102fc375539ecb1ff9]: Commencement: Reg. 82 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00068]: Footnote: Paragraph 5A was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 5C was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

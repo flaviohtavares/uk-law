@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. EU law relating to excise duty[^key-91982552fa8715d3521c9d54a89f69e7]
+## 47. EU law relating to excise duty[^c-91982552fa8715d3521c9d54a89f69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91982552fa8715d3521c9d54a89f69e7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2018/22/section/47) in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-91982552fa8715d3521c9d54a89f69e7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2018/22/section/47) in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)

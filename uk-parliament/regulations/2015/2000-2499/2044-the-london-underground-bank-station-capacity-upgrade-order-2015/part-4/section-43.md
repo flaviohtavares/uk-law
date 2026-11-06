@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. For the protection of specified undertakers[^key-99e092fae1c0d5aff7c23cf015f9420a]
+## 43. For the protection of specified undertakers[^c-99e092fae1c0d5aff7c23cf015f9420a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 11 (for the protection of electricity, gas, water and
 
 ## Annotations
 
-[^key-99e092fae1c0d5aff7c23cf015f9420a]: Commencement: Art. 43 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-99e092fae1c0d5aff7c23cf015f9420a]: Commencement: Art. 43 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

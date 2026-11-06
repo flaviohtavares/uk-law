@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Sections 1288 to 1290 apply to LLPs for the purposes of these Regulations[^key-7e3f3b5d8a57d977efadd3e5e683ae42], modified so that they read as follows—
+Sections 1288 to 1290 apply to LLPs for the purposes of these Regulations[^c-7e3f3b5d8a57d977efadd3e5e683ae42], modified so that they read as follows—
 
 > **1288. Regulations: statutory instrument**
 >
@@ -36,4 +36,4 @@ Sections 1288 to 1290 apply to LLPs for the purposes of these Regulations[^key-7
 
 ## Annotations
 
-[^key-7e3f3b5d8a57d977efadd3e5e683ae42]: Textual amendment: Words in regs. 54-57 inserted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(4)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/4)
+[^c-7e3f3b5d8a57d977efadd3e5e683ae42]: Textual amendment: Words in regs. 54-57 inserted (1.10.2009) by virtue of [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2/3), [Sch. 3 para. 15(4)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/15/4)

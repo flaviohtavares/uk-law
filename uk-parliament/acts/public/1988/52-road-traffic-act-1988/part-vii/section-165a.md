@@ -24,7 +24,7 @@ summary: ''
 
 (2) The first condition is that—
 
-- (a) a constable in uniform requires, under section 164, a person to produce his licence [^key-94719be7f08c67baeea038cc4f13f3da]... for examination,
+- (a) a constable in uniform requires, under section 164, a person to produce his licence [^c-94719be7f08c67baeea038cc4f13f3da]... for examination,
 - (b) the person fails to produce them, and
 - (c) the constable has reasonable grounds for believing that a motor vehicle is or was being driven by the person in contravention of section 87(1).
 
@@ -48,7 +48,7 @@ summary: ''
 
 (6) Before seizing the motor vehicle, the constable must warn the person by whom it appears that the vehicle is or was being driven in contravention of section 87(1) or 143 that he will seize it—
 
-- (a) in a section 87(1) case, if the person does not produce his licence [^key-122a64e57d05cf9e306a78a8bcf2e73d]... immediately;
+- (a) in a section 87(1) case, if the person does not produce his licence [^c-122a64e57d05cf9e306a78a8bcf2e73d]... immediately;
 - (b) in a section 143 case, if the person does not provide him immediately with evidence that the vehicle is not or was not being driven in contravention of that section.
 
 But the constable is not required to give such a warning if the circumstances make it impracticable for him to do so.
@@ -61,15 +61,15 @@ But the constable is not required to give such a warning if the circumstances ma
 
 - (a) a reference to a motor vehicle does not include an invalid carriage;
 - (b) a reference to evidence that a motor vehicle is not or was not being driven in contravention of section 143 is a reference to a document or other evidence within section 165(2)(a);
-- (c) “licence” has the same meaning[^key-cdb9f08c89b91845093b77956778dc0d] as in section 164;
+- (c) “licence” has the same meaning[^c-cdb9f08c89b91845093b77956778dc0d] as in section 164;
 - (d) “**private dwelling house**” does not include any garage or other structure occupied with the dwelling house, or any land appurtenant to the dwelling house.
 
 ## Annotations
 
 [^c19256101]: Textual amendment: Ss. 165A, 165B inserted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 152](https://www.legislation.gov.uk/ukpga/2005/15/section/152), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art 3(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1) (subject to [art. 3(4)(5)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/4/5))
 
-[^key-94719be7f08c67baeea038cc4f13f3da]: Textual amendment: Words in s. 165A(2)(a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/i)
+[^c-94719be7f08c67baeea038cc4f13f3da]: Textual amendment: Words in s. 165A(2)(a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/i)
 
-[^key-122a64e57d05cf9e306a78a8bcf2e73d]: Textual amendment: Words in s. 165A(6)(a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/ii)
+[^c-122a64e57d05cf9e306a78a8bcf2e73d]: Textual amendment: Words in s. 165A(6)(a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/ii)
 
-[^key-cdb9f08c89b91845093b77956778dc0d]: Textual amendment: Words in s. 165A(9)(c) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/iii)
+[^c-cdb9f08c89b91845093b77956778dc0d]: Textual amendment: Words in s. 165A(9)(c) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/e/iii)

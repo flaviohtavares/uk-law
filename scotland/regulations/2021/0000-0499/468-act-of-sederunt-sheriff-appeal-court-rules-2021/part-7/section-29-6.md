@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.6. Sist of application for new trial and variation of timetable[^key-7b8f1f08898f2562bbff81cb7e0e2ef1]
+## 29.6. Sist of application for new trial and variation of timetable[^c-7b8f1f08898f2562bbff81cb7e0e2ef1]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b8f1f08898f2562bbff81cb7e0e2ef1]: Commencement: Para. 29.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7b8f1f08898f2562bbff81cb7e0e2ef1]: Commencement: Para. 29.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

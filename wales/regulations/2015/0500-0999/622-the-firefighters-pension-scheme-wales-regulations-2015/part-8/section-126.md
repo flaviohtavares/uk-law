@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Employer contributions[^key-6909d7f8b416e06535f39af27f5552fc]
+## 126. Employer contributions[^c-6909d7f8b416e06535f39af27f5552fc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6909d7f8b416e06535f39af27f5552fc]: Commencement: Reg. 126 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-6909d7f8b416e06535f39af27f5552fc]: Commencement: Reg. 126 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

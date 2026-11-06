@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 313. Information to be contained in all notifications to the registrar[^key-7dff6c54b9bd7d564ed5085b84dc7222]
+## 313. Information to be contained in all notifications to the registrar[^c-7dff6c54b9bd7d564ed5085b84dc7222]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the notification must be authenticated by the person making the notification.
 
 ## Annotations
 
-[^key-7dff6c54b9bd7d564ed5085b84dc7222]: Commencement: [Rule 313](https://www.legislation.gov.uk/uksi/2011/1301/rule/313) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7dff6c54b9bd7d564ed5085b84dc7222]: Commencement: [Rule 313](https://www.legislation.gov.uk/uksi/2011/1301/rule/313) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

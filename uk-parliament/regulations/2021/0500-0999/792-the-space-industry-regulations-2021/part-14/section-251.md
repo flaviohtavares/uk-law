@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Supplementary powers[^key-3d897a5fd79a14b1da7f29081973aa5b]
+## 251. Supplementary powers[^c-3d897a5fd79a14b1da7f29081973aa5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A power conferred by this Section includes power to do anything incidental that 
 
 ## Annotations
 
-[^key-3d897a5fd79a14b1da7f29081973aa5b]: Commencement: Reg. 251 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3d897a5fd79a14b1da7f29081973aa5b]: Commencement: Reg. 251 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

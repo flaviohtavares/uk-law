@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The relevant amount of gross revenue for the purposes of section 43[^key-d12548ad55dcdd93d5af0c11ff38a1bf]..., in relation to a penalty imposed on a person, is—
+(1) The relevant amount of gross revenue for the purposes of section 43[^c-d12548ad55dcdd93d5af0c11ff38a1bf]..., in relation to a penalty imposed on a person, is—
 
 - (a) where the last accounting period of that person which falls before the contravention was a period of 12 months, the relevant part of his gross revenue for that period; and
 - (b) in any other case, the amount which, by making any appropriate apportionments or other adjustments of the relevant part of his gross revenue for the accounting period or periods mentioned in subsection (2), is computed to be the amount representing the annual rate for the relevant part of his gross revenue.
@@ -54,7 +54,7 @@ is to be ascertained in accordance with such principles as may be set out in a s
 
 and the Secretary of State must lay copies of the statement and of every such revision before each House of Parliament.
 
-(10) Sections 32 and 33 are to apply for the purpose of ascertaining the amount of a person's gross revenue for any period for the purposes of section 43[^key-d8faffc63f2350b1ce868d186123c473]... and this section as they apply for the purpose of obtaining information for statistical purposes about matters relating to the establishment, installation or use by that person of a wireless telegraphy station or wireless telegraphy apparatus.
+(10) Sections 32 and 33 are to apply for the purpose of ascertaining the amount of a person's gross revenue for any period for the purposes of section 43[^c-d8faffc63f2350b1ce868d186123c473]... and this section as they apply for the purpose of obtaining information for statistical purposes about matters relating to the establishment, installation or use by that person of a wireless telegraphy station or wireless telegraphy apparatus.
 
 (11) In this section—
 
@@ -63,6 +63,6 @@ and the Secretary of State must lay copies of the statement and of every such re
 
 ## Annotations
 
-[^key-d12548ad55dcdd93d5af0c11ff38a1bf]: Textual amendment: Words in s. 44(1) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/9), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))
+[^c-d12548ad55dcdd93d5af0c11ff38a1bf]: Textual amendment: Words in s. 44(1) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/9), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))
 
-[^key-d8faffc63f2350b1ce868d186123c473]: Textual amendment: Words in s. 44(10) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/9), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))
+[^c-d8faffc63f2350b1ce868d186123c473]: Textual amendment: Words in s. 44(10) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 9(9)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/9), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 9(13)](https://www.legislation.gov.uk/ukpga/2017/30/section/9/13))

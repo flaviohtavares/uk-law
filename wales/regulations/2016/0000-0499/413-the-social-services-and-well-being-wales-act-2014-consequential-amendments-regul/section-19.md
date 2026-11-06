@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**19.**[^key-3b648fca91641ef1913e6853fc4bdc9c] The Local Authority Social Services Act 1970 is amended as follows.
+**19.**[^c-3b648fca91641ef1913e6853fc4bdc9c] The Local Authority Social Services Act 1970 is amended as follows.
 
 ## Annotations
 
-[^key-3b648fca91641ef1913e6853fc4bdc9c]: Commencement: Reg. 19 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3b648fca91641ef1913e6853fc4bdc9c]: Commencement: Reg. 19 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

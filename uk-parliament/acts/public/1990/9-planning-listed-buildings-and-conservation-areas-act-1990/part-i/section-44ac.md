@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44AC. Temporary stop notices ...: compensation[^key-312b31a1a19c6289b032abbdd349e725][^key-620243e262640fc5526570bca958680c]
+## 44AC. Temporary stop notices ...: compensation[^c-312b31a1a19c6289b032abbdd349e725][^c-620243e262640fc5526570bca958680c]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-312b31a1a19c6289b032abbdd349e725]: Textual amendment: [Ss. 44AA-44AC](https://www.legislation.gov.uk/ukpga/1990/9/section/44AA) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 103(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/103/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/a)
+[^c-312b31a1a19c6289b032abbdd349e725]: Textual amendment: [Ss. 44AA-44AC](https://www.legislation.gov.uk/ukpga/1990/9/section/44AA) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 103(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/103/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/a)
 
-[^key-620243e262640fc5526570bca958680c]: Textual amendment: Words in [s. 44AC](https://www.legislation.gov.uk/ukpga/1990/9/section/44AC) heading omitted (4.11.2024) by virtue of [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 122C](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/122C) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/uksi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1061/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/1061/regulation/9); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-620243e262640fc5526570bca958680c]: Textual amendment: Words in [s. 44AC](https://www.legislation.gov.uk/ukpga/1990/9/section/44AC) heading omitted (4.11.2024) by virtue of [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 122C](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/122C) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/uksi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1061/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/1061/regulation/9); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))

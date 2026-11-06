@@ -42,7 +42,7 @@ Coming into force
 
 20th October 1995
 
-The Commissioners of Customs and Excise, in exercise of the powers conferred on them by sections 3(4), 6(14), 7(9), 8(4), 12(3), 14(3), 16(1) and (2), 18(5) and (5A), 24(3), (4) and (6), 25(1), (4) and (6), 26(1), (3) and (4), 28(3), (4) and (5), 30(8), 35(2), 36(5), 37(3) and (4), 38, 39(1), 40(3), 46(2) and (4), 48(3)(b), (4) and (6), 49(2) and (3), 52, 54(1), (2), (3) and (6), 58, 79(3), 80(6), 88(3) and (5), 92(4), 93(1) and (2), 95(5) and 97(1) of, and paragraph 17 of Schedule 1, paragraph 9 of Schedule 2, paragraph 10 of Schedule 3, paragraphs 2(1) and (2) of Schedule 7, and paragraphs 2(1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11) and (12), 5(4) and (9), 6(1) and (2) and 7(1) of Schedule 11 to, the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-903b646e7f1ccc65567970d15f18f44d][^key-34e00a5571c58bf124cd83ded2abc995]
+The Commissioners of Customs and Excise, in exercise of the powers conferred on them by sections 3(4), 6(14), 7(9), 8(4), 12(3), 14(3), 16(1) and (2), 18(5) and (5A), 24(3), (4) and (6), 25(1), (4) and (6), 26(1), (3) and (4), 28(3), (4) and (5), 30(8), 35(2), 36(5), 37(3) and (4), 38, 39(1), 40(3), 46(2) and (4), 48(3)(b), (4) and (6), 49(2) and (3), 52, 54(1), (2), (3) and (6), 58, 79(3), 80(6), 88(3) and (5), 92(4), 93(1) and (2), 95(5) and 97(1) of, and paragraph 17 of Schedule 1, paragraph 9 of Schedule 2, paragraph 10 of Schedule 3, paragraphs 2(1) and (2) of Schedule 7, and paragraphs 2(1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11) and (12), 5(4) and (9), 6(1) and (2) and 7(1) of Schedule 11 to, the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-903b646e7f1ccc65567970d15f18f44d][^c-34e00a5571c58bf124cd83ded2abc995]
 
 ## Contents
 
@@ -104,7 +104,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 22C](part-iv/section-22c.md)
 - [Section 23 — Final statements](part-iv/section-23.md)
 
-### PART 4A — REVERSE CHARGE SALES STATEMENTS[^key-497ba01606b8d609bbd74a70efea9ac8]
+### PART 4A — REVERSE CHARGE SALES STATEMENTS[^c-497ba01606b8d609bbd74a70efea9ac8]
 
 **No longer in force.**
 
@@ -113,14 +113,14 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 23C — Submission of Statements](part-4a/section-23c.md)
 - [Section 23D — Notification of cessation and recommencement of relevant supplies](part-4a/section-23d.md)
 
-### PART 4B — PROVISION OF INFORMATION RELATING TO ARRIVALS AND DISPATCHES[^key-ae43cf4864e1995e237e120cc08488bd]
+### PART 4B — PROVISION OF INFORMATION RELATING TO ARRIVALS AND DISPATCHES[^c-ae43cf4864e1995e237e120cc08488bd]
 
-#### Interpretation of Part 4B[^key-ae43cf4864e1995e237e120cc08488bd]
+#### Interpretation of Part 4B[^c-ae43cf4864e1995e237e120cc08488bd]
 
 - [Section 23E](part-4b/section-23e.md)
 - [Section 23F](part-4b/section-23f.md)
 
-### PART V — ACCOUNTING, PAYMENT AND RECORDS[^key-d330ceeec4f024a3db3033a963629c48][^key-8ced83565c553e6653cecaf0abf892ae]
+### PART V — ACCOUNTING, PAYMENT AND RECORDS[^c-d330ceeec4f024a3db3033a963629c48][^c-8ced83565c553e6653cecaf0abf892ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,7 +160,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 42 — Accounting for VAT on the removal of goods](part-v/section-42.md)
 - [Section 43 — Goods removed from warehousing regime](part-v/section-43.md)
 
-### PART VA — REIMBURSEMENT ARRANGEMENTS[^key-81ddd63c5421647fcec17b64997df8e7]
+### PART VA — REIMBURSEMENT ARRANGEMENTS[^c-81ddd63c5421647fcec17b64997df8e7]
 
 - [Section 43A — Interpretation of Part VA](part-va/section-43a.md)
 - [Section 43B — Reimbursement arrangements—general](part-va/section-43b.md)
@@ -178,13 +178,13 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 44 — Interpretation of Part VI](part-vi/section-44.md)
 - [Section 45 — Payments on Account](part-vi/section-45.md)
 
-### PART VII — ANNUAL ACCOUNTING[^key-e35db4f1c4c6795a8ab2abeeb2415b26]
+### PART VII — ANNUAL ACCOUNTING[^c-e35db4f1c4c6795a8ab2abeeb2415b26]
 
 - [Section 49 — Interpretation of Part VII](part-vii/section-49.md)
 - [Section 50 — Annual accounting scheme](part-vii/section-50.md)
 - [Section 52 — Admission to the scheme](part-vii/section-52.md)
 
-### PART VIIA — FLAT-RATE SCHEME FOR SMALL BUSINESSES[^key-ee82af7d77e229b34afc5529565091a3]
+### PART VIIA — FLAT-RATE SCHEME FOR SMALL BUSINESSES[^c-ee82af7d77e229b34afc5529565091a3]
 
 - [Section 55A — Interpretation of Part VIIA](part-viia/section-55a.md)
 - [Section 55B — Flat-rate scheme for small businesses](part-viia/section-55b.md)
@@ -233,7 +233,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 74 — Supplies under Schedule 8, Group 12](part-ix/section-74.md)
 - [Section 75 — Change in VAT](part-ix/section-75.md)
 
-### PART X — TRADING STAMPS[^key-34de24ab71c30b276ce40f322cbf0716]
+### PART X — TRADING STAMPS[^c-34de24ab71c30b276ce40f322cbf0716]
 
 *Extent: E+W+S+N.I.*
 
@@ -313,7 +313,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 115 — Method of adjustment](part-xv/section-115.md)
 - [Section 116 — Ascertainment of taxable use of a capital item](part-xv/section-116.md)
 
-### PART 15A — GOODS USED FOR NON-BUSINESS PURPOSES DURING THEIR ECONOMIC LIFE[^key-ade96dfc3a1d2c4b745a5e9303bf6432]
+### PART 15A — GOODS USED FOR NON-BUSINESS PURPOSES DURING THEIR ECONOMIC LIFE[^c-ade96dfc3a1d2c4b745a5e9303bf6432]
 
 - [Section 116A — Application](part-15a/section-116a.md)
 - [Section 116B — Interpretation of this Part](part-15a/section-116b.md)
@@ -325,7 +325,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 116J — Transitional provisions](part-15a/section-116j.md)
 - [Section 116O — Application of this Part](part-15a/section-116o.md)
 
-### PART XVI — IMPORTATIONS, EXPORTATIONS AND REMOVALS IN RESPECT OF GREAT BRITAIN[^key-fca6f1b0defdc4202674d8cea3a8077b]
+### PART XVI — IMPORTATIONS, EXPORTATIONS AND REMOVALS IN RESPECT OF GREAT BRITAIN[^c-fca6f1b0defdc4202674d8cea3a8077b]
 
 *Extent: E+W+S+N.I.*
 
@@ -352,7 +352,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 132 — Supplies to persons departing from Great Britain](part-xvi/section-132.md)
 - [Section 133](part-xvi/section-133.md)
 
-### PART 16ZA — Importations, exportations and removals in respect of Northern Ireland[^key-af00d1430eb3e0760145692a10b852cd]
+### PART 16ZA — Importations, exportations and removals in respect of Northern Ireland[^c-af00d1430eb3e0760145692a10b852cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -388,7 +388,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 141 — Use of the internal Union transit procedure](part-16za/section-141.md)
 - [Section 142 — Customs and excise legislation to be applied](part-16za/section-142.md)
 
-### PART XVI(A) — FISCAL AND OTHER WAREHOUSING REGIMES[^key-6f448ec98873fbec9dfeb11664bd92a7]
+### PART XVI(A) — FISCAL AND OTHER WAREHOUSING REGIMES[^c-6f448ec98873fbec9dfeb11664bd92a7]
 
 - [Section 145A — Interpretation of Part XVI(A)](part-17/section-145a.md)
 - [Section 145B — Fiscal warehousing certificates](part-17/section-145b.md)
@@ -401,7 +401,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 145J — Payment on removal of goods from a fiscal warehousing regime](part-17/section-145j.md)
 - [Section 145K — Place of supply of goods subject to warehousing regime](part-17/section-145k.md)
 
-### PART 16B — Northern Ireland fiscal and other Northern Ireland warehousing regimes[^key-b0c2d0f703543376740abee55bf98151]
+### PART 16B — Northern Ireland fiscal and other Northern Ireland warehousing regimes[^c-b0c2d0f703543376740abee55bf98151]
 
 - [Section 145L — Northern Ireland warehouses and fiscal warehouses: application of Part 16A with modifications](part-16b/section-145l.md)
 - [Section 145M — Interpretation](part-16b/section-145m.md)
@@ -414,7 +414,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 145T — Northern Ireland: modification of Schedule 1A](part-16b/section-145t.md)
 - [Section 145U — Modification of the Value Added Tax (Fiscal Warehousing) (Treatment of Transactions) Order 1996](part-16b/section-145u.md)
 
-### PART XVII — MEANS OF TRANSPORT[^key-e434aea50ed55a365767cc56e3cc00a2]
+### PART XVII — MEANS OF TRANSPORT[^c-e434aea50ed55a365767cc56e3cc00a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -430,7 +430,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 154](part-xvii/section-154.md)
 - [Section 155 — Supplies of new means of transport to persons departing Northern Ireland for a member State](part-xvii/section-155.md)
 
-### PART XVIII — BAD DEBT RELIEF (THE OLD SCHEME)[^key-502fdc42dc05b46979d4cb5e159a6332]
+### PART XVIII — BAD DEBT RELIEF (THE OLD SCHEME)[^c-502fdc42dc05b46979d4cb5e159a6332]
 
 *Extent: E+W+S+N.I.*
 
@@ -443,7 +443,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 163 — Repayment of a refund](part-xviii/section-163.md)
 - [Section 164 — Proving in the insolvency in Scotland](part-xviii/section-164.md)
 
-### PART XIX — BAD DEBT RELIEF (THE NEW SCHEME)[^key-6b03a46130f462bb0f7dcb4faa1e82ab][^key-be57a27e8154cb1a0f84d5ddd8881765]
+### PART XIX — BAD DEBT RELIEF (THE NEW SCHEME)[^c-6b03a46130f462bb0f7dcb4faa1e82ab][^c-be57a27e8154cb1a0f84d5ddd8881765]
 
 *Extent: E+W+S+N.I.*
 
@@ -464,14 +464,14 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 172A — Writing off debts—margin schemes](part-xix/section-172a.md)
 - [Section 172B — Writing off debts—tour operators margin scheme](part-xix/section-172b.md)
 
-### PART XIXA — REPAYMENT OF INPUT TAX WHERE CLAIM MADE UNDER PART XIX[^key-30eb849ea500c2377d02d94378419ee4]
+### PART XIXA — REPAYMENT OF INPUT TAX WHERE CLAIM MADE UNDER PART XIX[^c-30eb849ea500c2377d02d94378419ee4]
 
 - [Section 172ZC — Application](part-xixa/section-172zc.md)
 - [Section 172C — Interpretation of Part XIXA](part-xixa/section-172c.md)
 - [Section 172D — Repayment of input tax](part-xixa/section-172d.md)
 - [Section 172E — Restoration of an entitlement to credit for input tax](part-xixa/section-172e.md)
 
-### PART XIXB — REPAYMENT OF INPUT TAX WHERE CONSIDERATION NOT PAID[^key-12b3ddc9e3df0471c0d476f47d2d5398]
+### PART XIXB — REPAYMENT OF INPUT TAX WHERE CONSIDERATION NOT PAID[^c-12b3ddc9e3df0471c0d476f47d2d5398]
 
 - [Section 172F — Application](part-xixb/section-172f.md)
 - [Section 172G — Interpretation](part-xixb/section-172g.md)
@@ -479,13 +479,13 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 172I — Restoration of an entitlement to credit for input tax](part-xixb/section-172i.md)
 - [Section 172J — Attribution of payments](part-xixb/section-172j.md)
 
-### PART 19C — ADJUSTMENT OF OUTPUT TAX IN RESPECT OF SUPPLIES TO WHICH SECTION 55A (6) OF THE ACT APPLIES[^key-607d8bf90c4118f5f8dd88e7c031d326]
+### PART 19C — ADJUSTMENT OF OUTPUT TAX IN RESPECT OF SUPPLIES TO WHICH SECTION 55A (6) OF THE ACT APPLIES[^c-607d8bf90c4118f5f8dd88e7c031d326]
 
 - [Section 172K](part-19c/section-172k.md)
 - [Section 172L — Adjustment of output tax](part-19c/section-172l.md)
 - [Section 172M — Readjustment of output tax](part-19c/section-172m.md)
 
-### PART XX — REPAYMENTS TO COMMUNITY TRADERS[^key-557528d83c63a6f4290136a92bd8c3c6]
+### PART XX — REPAYMENTS TO COMMUNITY TRADERS[^c-557528d83c63a6f4290136a92bd8c3c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -525,7 +525,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 183 — ... Incorrect claims](part-xx/section-183.md)
 - [Section 184](part-xx/section-184.md)
 
-### PART 20A — Repayments to EU traders incurring VAT on goods in Northern Ireland[^key-83f98c4be49b4d8b9c8a00f5e4980abb]
+### PART 20A — Repayments to EU traders incurring VAT on goods in Northern Ireland[^c-83f98c4be49b4d8b9c8a00f5e4980abb]
 
 - [Section 184A — Application of this Part](part-20a/section-184a.md)
 - [Section u376 — Application of this Part](part-20a/section-u376.md)
@@ -541,11 +541,11 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 184KA](part-20a/section-184ka.md)
 - [Section 184KB](part-20a/section-184kb.md)
 
-### PART 20B — Obligation on Commissioners to forward claims to member States[^key-0e2cde0bd0268b865a33a339b46b649e]
+### PART 20B — Obligation on Commissioners to forward claims to member States[^c-0e2cde0bd0268b865a33a339b46b649e]
 
 - [Section 184L](part-20b/section-184l.md)
 
-### PART XXI — REPAYMENTS TO TRADERS OUTSIDE THE UNITED KINGDOM[^key-7ba6cf12e891a0418040908034491348][^key-2825098d5c09f13b47ec7d6dde956548][^key-e4201768c7261d7cea36a39b9e4812da]
+### PART XXI — REPAYMENTS TO TRADERS OUTSIDE THE UNITED KINGDOM[^c-7ba6cf12e891a0418040908034491348][^c-2825098d5c09f13b47ec7d6dde956548][^c-e4201768c7261d7cea36a39b9e4812da]
 
 *Extent: E+W+S+N.I.*
 
@@ -600,7 +600,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 212 — Distress](part-xxv/section-212.md)
 - [Section 213 — Diligence](part-xxv/section-213.md)
 
-### PART 26 — UK Union and Non-Union Special Accounting Schemes: Registration, Notification of Changes, and Returns[^key-ea8560bb5c3c3a878b31953dd42aec03]
+### PART 26 — UK Union and Non-Union Special Accounting Schemes: Registration, Notification of Changes, and Returns[^c-ea8560bb5c3c3a878b31953dd42aec03]
 
 *Extent: E+W+S+N.I.*
 
@@ -610,7 +610,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 217 — Registration requests: declaration](part-26/section-217.md)
 - [Section 218 — Communications with the Commissioners](part-26/section-218.md)
 
-### PART 27 — NON-UK UNION AND NON-UNION SPECIAL ACCOUNTING SCHEMES: ADJUSTMENTS, CLAIMS AND ERROR CORRECTION[^key-5a958ace379aa417bed19c0aab0b7255]
+### PART 27 — NON-UK UNION AND NON-UNION SPECIAL ACCOUNTING SCHEMES: ADJUSTMENTS, CLAIMS AND ERROR CORRECTION[^c-5a958ace379aa417bed19c0aab0b7255]
 
 **No longer in force.**
 
@@ -931,62 +931,62 @@ Schedule 1 contains revised forms 1 (application for registration), 2 (partnersh
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23) ; section 96(1) defines “the Commissioners” as meaning the Commissioners of Customs and Excise and “regulations” as meaning regulations made by the Commissioners under the Act; subsections (5) and (5A) of section 18 were respectively amended and inserted by section 29 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) .
 
-[^key-903b646e7f1ccc65567970d15f18f44d]: Modification: Regulations modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZF para. 16(7)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZF/paragraph/16/7) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-903b646e7f1ccc65567970d15f18f44d]: Modification: Regulations modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZF para. 16(7)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZF/paragraph/16/7) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
 
-[^key-34e00a5571c58bf124cd83ded2abc995]: Modification: Regulations modified (1.7.2021 for specified purposes, 10.6.2021 for specified purposes, 1.3.2024 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZF para. 18](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZF/paragraph/18) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)); [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4))
+[^c-34e00a5571c58bf124cd83ded2abc995]: Modification: Regulations modified (1.7.2021 for specified purposes, 10.6.2021 for specified purposes, 1.3.2024 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZF para. 18](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZF/paragraph/18) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)); [S.I. 2024/130](https://www.legislation.gov.uk/uksi/2024/130), [regs. 3](https://www.legislation.gov.uk/uksi/2024/130/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/130/regulation/4))
 
-[^key-497ba01606b8d609bbd74a70efea9ac8]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1995/2518/part/4A) revoked (1.7.2022) by [The Value Added Tax (Reverse Charge Sales Statements) (Revocation, Saving and Transitional Provision) Regulations 2022 (S.I. 2022/548)](https://www.legislation.gov.uk/uksi/2022/548), [regs. 1](https://www.legislation.gov.uk/uksi/2022/548/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/548/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/548/regulation/4))
+[^c-497ba01606b8d609bbd74a70efea9ac8]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1995/2518/part/4A) revoked (1.7.2022) by [The Value Added Tax (Reverse Charge Sales Statements) (Revocation, Saving and Transitional Provision) Regulations 2022 (S.I. 2022/548)](https://www.legislation.gov.uk/uksi/2022/548), [regs. 1](https://www.legislation.gov.uk/uksi/2022/548/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/548/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/548/regulation/4))
 
-[^key-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
+[^c-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
 
-[^key-d330ceeec4f024a3db3033a963629c48]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1546/regulation/34) (with [reg. 33](https://www.legislation.gov.uk/uksi/2020/1546/regulation/33)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-d330ceeec4f024a3db3033a963629c48]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1546/regulation/34) (with [reg. 33](https://www.legislation.gov.uk/uksi/2020/1546/regulation/33)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-8ced83565c553e6653cecaf0abf892ae]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [16](https://www.legislation.gov.uk/uksi/2020/1546/regulation/16) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1546/regulation/15)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8ced83565c553e6653cecaf0abf892ae]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/1995/2518/part/V) applied (31.12.2020) by [The Value Added Tax (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1546)](https://www.legislation.gov.uk/uksi/2020/1546), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1546/regulation/1), [16](https://www.legislation.gov.uk/uksi/2020/1546/regulation/16) (with [reg. 15](https://www.legislation.gov.uk/uksi/2020/1546/regulation/15)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-81ddd63c5421647fcec17b64997df8e7]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1995/2518/part/5A) inserted (11.2.1998) by [The Value Added Tax (Amendment) Regulations 1998 (S.I. 1998/59)](https://www.legislation.gov.uk/uksi/1998/59), [regs. 1](https://www.legislation.gov.uk/uksi/1998/59/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/59/regulation/2)
+[^c-81ddd63c5421647fcec17b64997df8e7]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1995/2518/part/5A) inserted (11.2.1998) by [The Value Added Tax (Amendment) Regulations 1998 (S.I. 1998/59)](https://www.legislation.gov.uk/uksi/1998/59), [regs. 1](https://www.legislation.gov.uk/uksi/1998/59/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/59/regulation/2)
 
-[^key-e35db4f1c4c6795a8ab2abeeb2415b26]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/1995/2518/part/7) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Value Added Tax (Annual Accounting) Regulations 1996 (S.I. 1996/542)](https://www.legislation.gov.uk/uksi/1996/542), [regs. 1](https://www.legislation.gov.uk/uksi/1996/542/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/542/regulation/3)
+[^c-e35db4f1c4c6795a8ab2abeeb2415b26]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/1995/2518/part/7) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Value Added Tax (Annual Accounting) Regulations 1996 (S.I. 1996/542)](https://www.legislation.gov.uk/uksi/1996/542), [regs. 1](https://www.legislation.gov.uk/uksi/1996/542/regulation/1), [3](https://www.legislation.gov.uk/uksi/1996/542/regulation/3)
 
-[^key-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)
+[^c-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)
 
-[^key-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)
+[^c-34de24ab71c30b276ce40f322cbf0716]: Textual amendment: Pt. 10 revoked (1.6.1996) by [The Value Added Tax (Trading Stamps) Regulations 1995 (S.I. 1995/3043)](https://www.legislation.gov.uk/uksi/1995/3043), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3043/regulation/1), [2](https://www.legislation.gov.uk/uksi/1995/3043/regulation/2)
 
-[^key-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)
+[^c-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)
 
-[^key-fca6f1b0defdc4202674d8cea3a8077b]: Textual amendment: Words in [Pt. 16](https://www.legislation.gov.uk/uksi/1995/2518/part/XVI) heading inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [60](https://www.legislation.gov.uk/uksi/2020/1545/regulation/60) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fca6f1b0defdc4202674d8cea3a8077b]: Textual amendment: Words in [Pt. 16](https://www.legislation.gov.uk/uksi/1995/2518/part/XVI) heading inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [60](https://www.legislation.gov.uk/uksi/2020/1545/regulation/60) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-af00d1430eb3e0760145692a10b852cd]: Textual amendment: [Pt. 16ZA](https://www.legislation.gov.uk/uksi/1995/2518/part/16ZA) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [74](https://www.legislation.gov.uk/uksi/2020/1545/regulation/74) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-af00d1430eb3e0760145692a10b852cd]: Textual amendment: [Pt. 16ZA](https://www.legislation.gov.uk/uksi/1995/2518/part/16ZA) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [74](https://www.legislation.gov.uk/uksi/2020/1545/regulation/74) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)
+[^c-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)
 
-[^key-b0c2d0f703543376740abee55bf98151]: Textual amendment: [Pt. 16B](https://www.legislation.gov.uk/uksi/1995/2518/part/16B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [79](https://www.legislation.gov.uk/uksi/2020/1545/regulation/79) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b0c2d0f703543376740abee55bf98151]: Textual amendment: [Pt. 16B](https://www.legislation.gov.uk/uksi/1995/2518/part/16B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [79](https://www.legislation.gov.uk/uksi/2020/1545/regulation/79) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-e434aea50ed55a365767cc56e3cc00a2]: Textual amendment: [Pt. 17](https://www.legislation.gov.uk/uksi/1995/2518/part/17) heading substituted (15.4.2013) by [The Value Added Tax (Amendment) Regulations 2013 (S.I. 2013/701)](https://www.legislation.gov.uk/uksi/2013/701), [regs. 2](https://www.legislation.gov.uk/uksi/2013/701/regulation/2), [5](https://www.legislation.gov.uk/uksi/2013/701/regulation/5)
+[^c-e434aea50ed55a365767cc56e3cc00a2]: Textual amendment: [Pt. 17](https://www.legislation.gov.uk/uksi/1995/2518/part/17) heading substituted (15.4.2013) by [The Value Added Tax (Amendment) Regulations 2013 (S.I. 2013/701)](https://www.legislation.gov.uk/uksi/2013/701), [regs. 2](https://www.legislation.gov.uk/uksi/2013/701/regulation/2), [5](https://www.legislation.gov.uk/uksi/2013/701/regulation/5)
 
-[^key-502fdc42dc05b46979d4cb5e159a6332]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/1995/2518/part/XVIII) revoked (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1086/regulation/9)
+[^c-502fdc42dc05b46979d4cb5e159a6332]: Textual amendment: [Pt. 18](https://www.legislation.gov.uk/uksi/1995/2518/part/XVIII) revoked (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [9](https://www.legislation.gov.uk/uksi/1997/1086/regulation/9)
 
-[^key-6b03a46130f462bb0f7dcb4faa1e82ab]: Modification: [Pt. 19](https://www.legislation.gov.uk/uksi/1995/2518/part/19) modified (except reg. 171) (temp.) (27.7.1999 until 1.12.1999, see [S.I](https://www.legislation.gov.uk/uksi/1995/2518/section/I). 1999/3029, reg. 5) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 15(4)(5)](https://www.legislation.gov.uk/ukpga/1999/16/section/15/4/5)
+[^c-6b03a46130f462bb0f7dcb4faa1e82ab]: Modification: [Pt. 19](https://www.legislation.gov.uk/uksi/1995/2518/part/19) modified (except reg. 171) (temp.) (27.7.1999 until 1.12.1999, see [S.I](https://www.legislation.gov.uk/uksi/1995/2518/section/I). 1999/3029, reg. 5) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 15(4)(5)](https://www.legislation.gov.uk/ukpga/1999/16/section/15/4/5)
 
-[^key-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
 
-[^key-30eb849ea500c2377d02d94378419ee4]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/1995/2518/part/19A) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [16](https://www.legislation.gov.uk/uksi/1997/1086/regulation/16)
+[^c-30eb849ea500c2377d02d94378419ee4]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/1995/2518/part/19A) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [16](https://www.legislation.gov.uk/uksi/1997/1086/regulation/16)
 
-[^key-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)
+[^c-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)
 
-[^key-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)
+[^c-607d8bf90c4118f5f8dd88e7c031d326]: Textual amendment: [Pt. 19C](https://www.legislation.gov.uk/uksi/1995/2518/part/19C) inserted (1.6.2007) by [The Value Added Tax (Amendment) (No.3) Regulations 2007 (S.I. 2007/1418)](https://www.legislation.gov.uk/uksi/2007/1418), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1418/regulation/7)
 
-[^key-557528d83c63a6f4290136a92bd8c3c6]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/1995/2518/part/20) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/59/regulation/71); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 11](https://www.legislation.gov.uk/uksi/2020/1641/regulation/11) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
+[^c-557528d83c63a6f4290136a92bd8c3c6]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/1995/2518/part/20) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/59/regulation/71); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 11](https://www.legislation.gov.uk/uksi/2020/1641/regulation/11) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
 
-[^key-83f98c4be49b4d8b9c8a00f5e4980abb]: Textual amendment: [Pt. 20A](https://www.legislation.gov.uk/uksi/1995/2518/part/20A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [86](https://www.legislation.gov.uk/uksi/2020/1545/regulation/86) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-83f98c4be49b4d8b9c8a00f5e4980abb]: Textual amendment: [Pt. 20A](https://www.legislation.gov.uk/uksi/1995/2518/part/20A) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [86](https://www.legislation.gov.uk/uksi/2020/1545/regulation/86) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-0e2cde0bd0268b865a33a339b46b649e]: Textual amendment: [Pt. 20B](https://www.legislation.gov.uk/uksi/1995/2518/part/20B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [86](https://www.legislation.gov.uk/uksi/2020/1545/regulation/86) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-0e2cde0bd0268b865a33a339b46b649e]: Textual amendment: [Pt. 20B](https://www.legislation.gov.uk/uksi/1995/2518/part/20B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [86](https://www.legislation.gov.uk/uksi/2020/1545/regulation/86) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-7ba6cf12e891a0418040908034491348]: Modification: [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) applied (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1495/regulation/12); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7ba6cf12e891a0418040908034491348]: Modification: [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) applied (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/1495/regulation/12); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-2825098d5c09f13b47ec7d6dde956548]: Modification: [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZE para. 41](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZE/paragraph/41) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-2825098d5c09f13b47ec7d6dde956548]: Modification: [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZE para. 41](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZE/paragraph/41) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
 
-[^key-e4201768c7261d7cea36a39b9e4812da]: Textual amendment: Words in [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) heading substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/59/regulation/72); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e4201768c7261d7cea36a39b9e4812da]: Textual amendment: Words in [Pt. 21](https://www.legislation.gov.uk/uksi/1995/2518/part/21) heading substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [72](https://www.legislation.gov.uk/uksi/2019/59/regulation/72); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-ea8560bb5c3c3a878b31953dd42aec03]: Textual amendment: [Pt. 26](https://www.legislation.gov.uk/uksi/1995/2518/part/26) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/59/regulation/79); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1641/regulation/17), [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
+[^c-ea8560bb5c3c3a878b31953dd42aec03]: Textual amendment: [Pt. 26](https://www.legislation.gov.uk/uksi/1995/2518/part/26) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/59/regulation/79); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1641/regulation/17), [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
 
-[^key-5a958ace379aa417bed19c0aab0b7255]: Textual amendment: [Pt. 27](https://www.legislation.gov.uk/uksi/1995/2518/part/27) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/59/regulation/80); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 18](https://www.legislation.gov.uk/uksi/2020/1641/regulation/18) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
+[^c-5a958ace379aa417bed19c0aab0b7255]: Textual amendment: [Pt. 27](https://www.legislation.gov.uk/uksi/1995/2518/part/27) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/59/regulation/80); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 18](https://www.legislation.gov.uk/uksi/2020/1641/regulation/18) [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))

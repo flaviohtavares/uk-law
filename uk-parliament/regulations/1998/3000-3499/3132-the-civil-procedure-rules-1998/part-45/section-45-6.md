@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.6. Defendants’ costs[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.6. Defendants’ costs[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the fixed costs set out in Section VI, Section VII or Section VIII;
 - (b) the applicable disbursements set out in Section IX of this Part.
 
-(2) For the purpose of assessing or determining[^key-883ff4c79fa477c8e4d3fa418dc28b8e] the costs payable to a defendant by reference to the fixed costs in Table 12 and Table 14—
+(2) For the purpose of assessing or determining[^c-883ff4c79fa477c8e4d3fa418dc28b8e] the costs payable to a defendant by reference to the fixed costs in Table 12 and Table 14—
 
 - (a) “value of the claim for damages” and “damages” shall be treated as references to the value of the claim, as defined in paragraph (3); and
 - (b) if the claim is discontinued, a reference in Table 12 or Table 14 to the stage at which a case is settled shall be treated as a reference to the stage at which the case is discontinued.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-883ff4c79fa477c8e4d3fa418dc28b8e]: Textual amendment: Words in rule 45.6(2) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/3)
+[^c-883ff4c79fa477c8e4d3fa418dc28b8e]: Textual amendment: Words in rule 45.6(2) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/3)

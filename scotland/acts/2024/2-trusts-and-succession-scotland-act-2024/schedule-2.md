@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 2 — Repeals[^key-74b95f38e1889efc43b77c097a979cdc][^key-332e080bbd5886d6a05c227ddaa19ad9]
+## Schedule 2 — Repeals[^c-74b95f38e1889efc43b77c097a979cdc][^c-332e080bbd5886d6a05c227ddaa19ad9]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74b95f38e1889efc43b77c097a979cdc]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-74b95f38e1889efc43b77c097a979cdc]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-332e080bbd5886d6a05c227ddaa19ad9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2024/2/schedule/2) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-332e080bbd5886d6a05c227ddaa19ad9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2024/2/schedule/2) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

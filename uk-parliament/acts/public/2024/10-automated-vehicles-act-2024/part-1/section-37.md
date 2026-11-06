@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Supplementary provision[^key-93a0ff64e84ca782ed014bb8f8e96013]
+## 37. Supplementary provision[^c-93a0ff64e84ca782ed014bb8f8e96013]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a0ff64e84ca782ed014bb8f8e96013]: Commencement: S. 37 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-93a0ff64e84ca782ed014bb8f8e96013]: Commencement: S. 37 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Insertion of Schedule 4C[^key-f593665b09e7b4afb8e862c005444d18]
+## SCHEDULE 5 — Insertion of Schedule 4C[^c-f593665b09e7b4afb8e862c005444d18]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ After Schedule 4B insert—
 
 ## Annotations
 
-[^key-f593665b09e7b4afb8e862c005444d18]: Commencement: Sch. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-f593665b09e7b4afb8e862c005444d18]: Commencement: Sch. 5 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

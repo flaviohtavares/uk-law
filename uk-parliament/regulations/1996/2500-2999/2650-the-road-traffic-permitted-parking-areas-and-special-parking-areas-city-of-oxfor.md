@@ -48,11 +48,11 @@ Whereas the Oxfordshire County Council has applied to the Secretary of State for
 
 NOW, the Secretary of State for Transport, in exercise of the powers conferred by paragraphs 1(1), 2(1) and 3(3) of Schedule 3 to the Road Traffic Act 1991 and of all other powers enabling him in that behalf, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-e0f3ca516788971d79d806e363997221]
+## 1. Citation and commencement[^c-e0f3ca516788971d79d806e363997221]
 
 This Order may be cited as the Road Traffic (Permitted Parking Areas and Special Parking Areas) (City of Oxford and Parish of North Hinksey) Order 1996 and shall come into force on 3rd February 1997.
 
-## 2. Interpretation[^key-2e432facb8304c34ff522f03b632ada1]
+## 2. Interpretation[^c-2e432facb8304c34ff522f03b632ada1]
 
 In this Order—
 
@@ -61,18 +61,18 @@ In this Order—
 - “the permitted parking areas” means the areas designated as permitted parking areas by article 3(a) of this Order; and
 - “the special parking areas” means the areas designated as special parking areas by article 3(b) of this Order.
 
-## 3. Designation of permitted parking areas and special parking areas[^key-6a42898ce1fbe05a021ca8b6b3134853]
+## 3. Designation of permitted parking areas and special parking areas[^c-6a42898ce1fbe05a021ca8b6b3134853]
 
 The City of Oxford (other than the roads specified in Part I of Schedule 1 to this Order) and the parish of North Hinksey (other than the roads specified in Part II of that Schedule) are each hereby designated as—
 
 - (a) a permitted parking area; and
 - (b) a special parking area.
 
-## 4. Modification and application of Part II of the 1991 Act[^key-1c543161af6c54639d78d9cfcaf72f7f]
+## 4. Modification and application of Part II of the 1991 Act[^c-1c543161af6c54639d78d9cfcaf72f7f]
 
 Sections 66, 69 to 74, 78, 79 and 82 of, and Schedule 6 to, the 1991 Act shall apply in relation to the permitted parking areas and the special parking areas and as so applied shall have effect subject to the modifications specified in Schedule 2 to this Order.
 
-## 5. Modification of the 1984 Act and Schedule 3 to the 1991 Act[^key-dedd1d54f701f4263d9f2b435ea9d448]
+## 5. Modification of the 1984 Act and Schedule 3 to the 1991 Act[^c-dedd1d54f701f4263d9f2b435ea9d448]
 
 (1) The 1984 Act shall be modified in relation to the permitted parking areas and the special parking areas as specified in Part I of Schedule 3 to this Order.
 
@@ -94,23 +94,23 @@ Article 3
 
 ### PART I — ROADS IN THE CITY OF OXFORD
 
-**1.**[^key-2c418b07bfb906880f4a33f53d1dfd6a] Oxford Eastern Bypass (A4142) from its junction with the A423 to its junction with the A40 trunk road at Headington Roundabout, including the full length of all slip roads at its junction with the B480 at Garsington Road, Cowley but not including the Rover Works service road south of Horspath Road.
+**1.**[^c-2c418b07bfb906880f4a33f53d1dfd6a] Oxford Eastern Bypass (A4142) from its junction with the A423 to its junction with the A40 trunk road at Headington Roundabout, including the full length of all slip roads at its junction with the B480 at Garsington Road, Cowley but not including the Rover Works service road south of Horspath Road.
 
-**2.**[^key-cb7bd192473adde331993ec31e3c40dc] A234 trunk road from its junction with the A4074 to its junction with the A34 trunk road at Hinksey Hill Roundabout.
+**2.**[^c-cb7bd192473adde331993ec31e3c40dc] A234 trunk road from its junction with the A4074 to its junction with the A34 trunk road at Hinksey Hill Roundabout.
 
-**3.**[^key-109e15d2a31f4bb780f9348580174beb] A43 trunk road from its junction with the A40 trunk road at Wolvercote roundabout to the City boundary.
+**3.**[^c-109e15d2a31f4bb780f9348580174beb] A43 trunk road from its junction with the A40 trunk road at Wolvercote roundabout to the City boundary.
 
 ### PART II — ROADS IN THE PARISH OF NORTH HINKSEY
 
-**4.**[^key-be8b07f9e787056c92bec5e7d831b2c3] A420 trunk road from its junctions with the A34 trunk road slip roads and the A420 principal link road at Botley interchange to a point 100 metres west of Botley interchange.
+**4.**[^c-be8b07f9e787056c92bec5e7d831b2c3] A420 trunk road from its junctions with the A34 trunk road slip roads and the A420 principal link road at Botley interchange to a point 100 metres west of Botley interchange.
 
-**5.**[^key-6d1e8ce65c16b568ed3d2d8a696f5e75] Oxford Western Bypass (A34 trunk road) from its junction with the A420 trunk road south for a distance of 1300 metres including the full length of all slip roads connecting it with the A34 trunk road.
+**5.**[^c-6d1e8ce65c16b568ed3d2d8a696f5e75] Oxford Western Bypass (A34 trunk road) from its junction with the A420 trunk road south for a distance of 1300 metres including the full length of all slip roads connecting it with the A34 trunk road.
 
 ## SCHEDULE 2 — MODIFICATIONS OF PROVISIONS OF PART II OF THE ROAD TRAFFIC ACT 1991 APPLIED IN RELATION TO THE PERMITTED PARKING AREAS AND THE SPECIAL PARKING AREAS
 
 Article 4
 
-**1.**[^key-d64a1ce706003b608ef72cb2242bf3f2] (1) Section 66 shall be modified as follows.
+**1.**[^c-d64a1ce706003b608ef72cb2242bf3f2] (1) Section 66 shall be modified as follows.
 
 (2) In subsection (1)—
 
@@ -130,7 +130,7 @@ Article 4
 
 > - (b) the parking authority.
 
-**2.**[^key-a114f7660d0a938567bdb91e5c2d446a] (1) Section 69 shall be modified as follows.
+**2.**[^c-a114f7660d0a938567bdb91e5c2d446a] (1) Section 69 shall be modified as follows.
 
 (2) In subsection (1)—
 
@@ -141,7 +141,7 @@ Article 4
 
 > (8) In this section “relevant authority” means the parking authority.
 
-**3.**[^key-72d1b1e1d76d2b9c3a62407616af401f] (1) Section 71 shall be modified as follows.
+**3.**[^c-72d1b1e1d76d2b9c3a62407616af401f] (1) Section 71 shall be modified as follows.
 
 (2) In subsection (1) for the words “a London authority” there shall be substituted “the parking authority”.
 
@@ -166,11 +166,11 @@ Article 4
 > - (d) in a case within subsection (1)(d) above, that, by virtue of an exemption given by section 70 of this Act, section 69 did not apply to the vehicle in question; or
 > - (e) that the penalty or other charge in question exceeded the amount applicable in the circumstances of the case.
 
-**4.**[^key-b90214f2a51733fdd3c06a7960184aa6] (1) Section 72 shall be modified as follows.
+**4.**[^c-b90214f2a51733fdd3c06a7960184aa6] (1) Section 72 shall be modified as follows.
 
 (2) In subsection (2) after the words “section 71(4)” there shall be inserted “or (4A)”.
 
-**5.**[^key-7890d21ba2c394de61e17802e8498175] (1) Section 73 shall be modified as follows.
+**5.**[^c-7890d21ba2c394de61e17802e8498175] (1) Section 73 shall be modified as follows.
 
 (2) In subsection (3) paragraphs (b) and (c) shall be omitted.
 
@@ -192,7 +192,7 @@ Article 4
 
 (5) In subsections (17) and (18) for the words “Joint Committee”, in each place where those words occur, there shall be substituted “parking authority”.
 
-**6.**[^key-559b912fe3bc895714005982f650d9e9] For section 74 there shall be substituted the following section—
+**6.**[^c-559b912fe3bc895714005982f650d9e9] For section 74 there shall be substituted the following section—
 
 > **74.** (1) It shall be the duty of the parking authority to set the levels of additional parking charges to apply in the permitted parking areas and in the special parking areas.
 >
@@ -206,13 +206,13 @@ Article 4
 >
 > (6) In this section “additional parking charges” means penalty charges, charges made by the parking authority for the removal, storage and disposal of vehicles and charges for the release of vehicles from immobilisation devices fixed under section 69 of the Act.
 
-**7.**[^key-3ed17c0ba11f3abe49b2dd19ccf2267b] (1) Section 78 shall be modified as follows.
+**7.**[^c-3ed17c0ba11f3abe49b2dd19ccf2267b] (1) Section 78 shall be modified as follows.
 
 (2) After subsection (7) there shall be inserted the following subsection—
 
 > (8) Any order made under subsection (2), and any regulations made under subsection (4), of this section shall apply with necessary modifications, including in particular the substitution for references to a London authority of references to the parking authority, in relation to the recovery of Part II debts payable in relation to the permitted parking area or the special parking area.
 
-**8.**[^key-b558bf536481e270ec546ae6b47d0a7b] (1) Section 82 shall be modified as follows.
+**8.**[^c-b558bf536481e270ec546ae6b47d0a7b] (1) Section 82 shall be modified as follows.
 
 (2) For subsection (1) there shall be substituted—
 
@@ -238,7 +238,7 @@ Article 4
 
 (4) Subsections (6) and (7) shall be omitted.
 
-**9.**[^key-f4ca4db085d29332201d45da04a93c5f] (1) Schedule 6 shall be modified as follows.
+**9.**[^c-f4ca4db085d29332201d45da04a93c5f] (1) Schedule 6 shall be modified as follows.
 
 (2) In paragraph 1(1) for the words “the London authority concerned” there shall be substituted “the parking authority”.
 
@@ -285,13 +285,13 @@ Article 5
 
 ### PART I — MODIFICATIONS OF THE ROAD TRAFFIC REGULATION ACT 1984
 
-**1.**[^key-08e6adf698bb9f0e8c4f0c186671fca4] (1) Section 46 shall be modified as follows.
+**1.**[^c-08e6adf698bb9f0e8c4f0c186671fca4] (1) Section 46 shall be modified as follows.
 
 (2) Subsection (1) shall be omitted.
 
 (3) In subsection (1A) for “Greater London” there shall be substituted “the permitted parking area”.
 
-**2.**[^key-d00456c21efdd788a0c6504be05265cb] (1) Section 55 shall be amended as follows.
+**2.**[^c-d00456c21efdd788a0c6504be05265cb] (1) Section 55 shall be amended as follows.
 
 (2) For subsection (1) there shall be substituted—
 
@@ -304,9 +304,9 @@ Article 5
 
 (3) Subsections (3A) and (3B) shall be omitted.
 
-**3.**[^key-e528e856436278fe28178f63853342fb] In section 63A, in subsection (4) for the words “Greater London” there shall be substituted “the permitted parking areas and the special parking areas”.
+**3.**[^c-e528e856436278fe28178f63853342fb] In section 63A, in subsection (4) for the words “Greater London” there shall be substituted “the permitted parking areas and the special parking areas”.
 
-**4.**[^key-5b2cfa2a51e0d0a7ac436655945423c2] (1) Section 101 shall be modified as follows.
+**4.**[^c-5b2cfa2a51e0d0a7ac436655945423c2] (1) Section 101 shall be modified as follows.
 
 (2) Subsection (4) shall be omitted.
 
@@ -316,7 +316,7 @@ Article 5
 
 (5) In subsection (5A) for the words “Greater London” there shall be substituted “the permitted parking areas or in the special parking areas”.
 
-**5.**[^key-29faf7cf3cfb955d64e44e024c770857] (1) Section 102 shall be modified as follows.
+**5.**[^c-29faf7cf3cfb955d64e44e024c770857] (1) Section 102 shall be modified as follows.
 
 (2) For subsection (1) there shall be substituted—
 
@@ -326,7 +326,7 @@ Article 5
 
 (4) In subsection (8) in paragraph (b) of the definition of “appropriate authority” for “Greater London” there shall be substituted “the permitted parking areas or in the special parking areas”.
 
-**6.**[^key-5f4beab560b4ec8476bfe947bc6fbc74] In section 142(1)—
+**6.**[^c-5f4beab560b4ec8476bfe947bc6fbc74] In section 142(1)—
 
 - (a) after the definition of “parking meter” there shall be inserted—
 
@@ -341,7 +341,7 @@ Article 5
 
 ### PART II — MODIFICATIONS OF THE ROAD TRAFFIC ACT 1991
 
-**7.**[^key-d86905014b9fba6624d09f55fd9f1814] (1) Schedule 3 shall be amended as follows.
+**7.**[^c-d86905014b9fba6624d09f55fd9f1814] (1) Schedule 3 shall be amended as follows.
 
 (2) In paragraph 1(4) paragraph (ab) shall be omitted.
 
@@ -357,58 +357,58 @@ This Order designates the City of Oxford and the adjoining Parish of North Hinks
 
 [^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-e0f3ca516788971d79d806e363997221]: Commencement: Art. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-e0f3ca516788971d79d806e363997221]: Commencement: Art. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-2e432facb8304c34ff522f03b632ada1]: Commencement: Art. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-2e432facb8304c34ff522f03b632ada1]: Commencement: Art. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
 [^f00003]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 32(4)(a) was amended, and section 45(1) was substituted, by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, paragraphs 29 and 44. Sections 46(1A), 63A and 101(4A) and (5A) were inserted by the Road Traffic Act 1991, sections 64(2), 44(1) and 67(4) and (6). Section 102(8) was amended by the Road Traffic Act 1991, section 68(3).
 
-[^key-6a42898ce1fbe05a021ca8b6b3134853]: Commencement: Art. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-6a42898ce1fbe05a021ca8b6b3134853]: Commencement: Art. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-1c543161af6c54639d78d9cfcaf72f7f]: Commencement: Art. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-1c543161af6c54639d78d9cfcaf72f7f]: Commencement: Art. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-dedd1d54f701f4263d9f2b435ea9d448]: Commencement: Art. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-dedd1d54f701f4263d9f2b435ea9d448]: Commencement: Art. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-2c418b07bfb906880f4a33f53d1dfd6a]: Commencement: Sch. 1 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-2c418b07bfb906880f4a33f53d1dfd6a]: Commencement: Sch. 1 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-cb7bd192473adde331993ec31e3c40dc]: Commencement: Sch. 1 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-cb7bd192473adde331993ec31e3c40dc]: Commencement: Sch. 1 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-109e15d2a31f4bb780f9348580174beb]: Commencement: Sch. 1 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-109e15d2a31f4bb780f9348580174beb]: Commencement: Sch. 1 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-be8b07f9e787056c92bec5e7d831b2c3]: Commencement: Sch. 1 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-be8b07f9e787056c92bec5e7d831b2c3]: Commencement: Sch. 1 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-6d1e8ce65c16b568ed3d2d8a696f5e75]: Commencement: Sch. 1 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-6d1e8ce65c16b568ed3d2d8a696f5e75]: Commencement: Sch. 1 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-d64a1ce706003b608ef72cb2242bf3f2]: Commencement: Sch. 2 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-d64a1ce706003b608ef72cb2242bf3f2]: Commencement: Sch. 2 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-a114f7660d0a938567bdb91e5c2d446a]: Commencement: Sch. 2 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-a114f7660d0a938567bdb91e5c2d446a]: Commencement: Sch. 2 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-72d1b1e1d76d2b9c3a62407616af401f]: Commencement: Sch. 2 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-72d1b1e1d76d2b9c3a62407616af401f]: Commencement: Sch. 2 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-b90214f2a51733fdd3c06a7960184aa6]: Commencement: Sch. 2 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-b90214f2a51733fdd3c06a7960184aa6]: Commencement: Sch. 2 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-7890d21ba2c394de61e17802e8498175]: Commencement: Sch. 2 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-7890d21ba2c394de61e17802e8498175]: Commencement: Sch. 2 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-559b912fe3bc895714005982f650d9e9]: Commencement: Sch. 2 para. 6 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-559b912fe3bc895714005982f650d9e9]: Commencement: Sch. 2 para. 6 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-3ed17c0ba11f3abe49b2dd19ccf2267b]: Commencement: Sch. 2 para. 7 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-3ed17c0ba11f3abe49b2dd19ccf2267b]: Commencement: Sch. 2 para. 7 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-b558bf536481e270ec546ae6b47d0a7b]: Commencement: Sch. 2 para. 8 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-b558bf536481e270ec546ae6b47d0a7b]: Commencement: Sch. 2 para. 8 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
 [^f00004]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-f4ca4db085d29332201d45da04a93c5f]: Commencement: Sch. 2 para. 9 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-f4ca4db085d29332201d45da04a93c5f]: Commencement: Sch. 2 para. 9 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-08e6adf698bb9f0e8c4f0c186671fca4]: Commencement: Sch. 3 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-08e6adf698bb9f0e8c4f0c186671fca4]: Commencement: Sch. 3 para. 1 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-d00456c21efdd788a0c6504be05265cb]: Commencement: Sch. 3 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-d00456c21efdd788a0c6504be05265cb]: Commencement: Sch. 3 para. 2 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-e528e856436278fe28178f63853342fb]: Commencement: Sch. 3 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-e528e856436278fe28178f63853342fb]: Commencement: Sch. 3 para. 3 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-5b2cfa2a51e0d0a7ac436655945423c2]: Commencement: Sch. 3 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-5b2cfa2a51e0d0a7ac436655945423c2]: Commencement: Sch. 3 para. 4 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-29faf7cf3cfb955d64e44e024c770857]: Commencement: Sch. 3 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-29faf7cf3cfb955d64e44e024c770857]: Commencement: Sch. 3 para. 5 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-5f4beab560b4ec8476bfe947bc6fbc74]: Commencement: Sch. 3 para. 6 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-5f4beab560b4ec8476bfe947bc6fbc74]: Commencement: Sch. 3 para. 6 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
 
-[^key-d86905014b9fba6624d09f55fd9f1814]: Commencement: Sch. 3 para. 7 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)
+[^c-d86905014b9fba6624d09f55fd9f1814]: Commencement: Sch. 3 para. 7 in force at 3.2.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/2650/article/1)

@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Transmissible Spongiform Encephalopathies (England) (Amendment) Regulations 2013 (revoked)[^key-e0b2a21368820dca83075990a4910761]
+The Transmissible Spongiform Encephalopathies (England) (Amendment) Regulations 2013 (revoked)[^c-e0b2a21368820dca83075990a4910761]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 6th April 2013
 
-[^key-e0b2a21368820dca83075990a4910761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0b2a21368820dca83075990a4910761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-e0b2a21368820dca83075990a4910761]
+## 1. Title, application and commencement[^c-e0b2a21368820dca83075990a4910761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Transmissible Spongiform Encephalopathies (England) Regulations 2010[^key-e0b2a21368820dca83075990a4910761]
+## 2. Amendments to the Transmissible Spongiform Encephalopathies (England) Regulations 2010[^c-e0b2a21368820dca83075990a4910761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0b2a21368820dca83075990a4910761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0b2a21368820dca83075990a4910761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e0b2a21368820dca83075990a4910761]EXPLANATORY NOTE
+[^c-e0b2a21368820dca83075990a4910761]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -82,4 +82,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-e0b2a21368820dca83075990a4910761]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2013/336) revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9)
+[^c-e0b2a21368820dca83075990a4910761]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2013/336) revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9)

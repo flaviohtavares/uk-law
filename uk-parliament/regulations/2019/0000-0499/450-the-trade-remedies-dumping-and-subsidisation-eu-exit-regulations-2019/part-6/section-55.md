@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Form of questionnaires and deficiency notice[^key-30f8aa0f2b269a16f7c78ab4d53cfbd5]
+## 55. Form of questionnaires and deficiency notice[^c-30f8aa0f2b269a16f7c78ab4d53cfbd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30f8aa0f2b269a16f7c78ab4d53cfbd5]: Commencement: Reg. 55 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-30f8aa0f2b269a16f7c78ab4d53cfbd5]: Commencement: Reg. 55 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

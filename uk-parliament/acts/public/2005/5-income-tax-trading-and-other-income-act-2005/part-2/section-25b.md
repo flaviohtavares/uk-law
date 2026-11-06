@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25B. Excluded trades[^key-94d92d652e6dbe7aaed1108bb7731857]
+## 25B. Excluded trades[^c-94d92d652e6dbe7aaed1108bb7731857]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ In this subsection “**qualifying expenditure**” has the same meaning as in P
 
 ## Annotations
 
-[^key-94d92d652e6dbe7aaed1108bb7731857]: Textual amendment: [S. 25B](https://www.legislation.gov.uk/ukpga/2005/5/section/25B) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/11), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-94d92d652e6dbe7aaed1108bb7731857]: Textual amendment: [S. 25B](https://www.legislation.gov.uk/ukpga/2005/5/section/25B) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/11), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

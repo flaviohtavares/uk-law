@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 7
 
-### 1. Flammable solids[^key-ac63c99b1cedec4f10cae37492402322]
+### 1. Flammable solids[^c-ac63c99b1cedec4f10cae37492402322]
 
 The following goods shall be carried in tanks—
 
@@ -32,12 +32,12 @@ The following goods shall be carried in tanks—
 - UN 3176 FLAMMABLE SOLID, ORGANIC, MOLTEN, N.O.S.
 - UN 2448 SULPHUR, MOLTEN
 
-**2.**[^key-11ee3c645f2405be6b1e53e147e42f10] The following goods shall be shielded from direct sunlight and heat during carriage—
+**2.**[^c-11ee3c645f2405be6b1e53e147e42f10] The following goods shall be shielded from direct sunlight and heat during carriage—
 
 - UN 3242 AZODICARBONAMIDE
 - UN 2956 5-tert-BUTYL-2,4,6-TRINITRO-m-XYLENE (MUSK XYLENE)
 
-### 3. Self-reactive substances[^key-484ae27b25b5a9b0a6a15c577167d2bf]
+### 3. Self-reactive substances[^c-484ae27b25b5a9b0a6a15c577167d2bf]
 
 (1) Appropriate measures shall be taken to ensure that any control temperatures for self-reactive substances are not exceeded.
 
@@ -88,7 +88,7 @@ The following goods shall be carried in tanks—
   - (ii) each system alone is capable of maintaining adequate temperature control; and
   - (iii) flameproof electrical fittings are used within the coolant compartment to prevent ignition of flammable vapours from the self-reactive substances.
 
-**4.**[^key-a57a68f2f981d0de6f7c853807ca2140] For the following goods—
+**4.**[^c-a57a68f2f981d0de6f7c853807ca2140] For the following goods—
 
 - UN 3231 SELF-REACTIVE LIQUID TYPE B, TEMPERATURE CONTROLLED\*
 - UN 3232 SELF-REACTIVE SOLID TYPE B, TEMPERATURE CONTROLLED\*
@@ -98,7 +98,7 @@ the methods of temperature control specified below shall be used—
 - (a) where the maximum ambient temperature to be expected during carriage does not exceed the control temperature by more than 10 degrees centigrade, one of the methods specified in paragraph 3(5)(*c*), (*d*) or (*e*);
 - (b) in all other cases, one of the methods specified in paragraph 3(5)(*d*) or (*e*).
 
-**5.**[^key-ebea3fdd826a67a88947cd63e4c14082] For the following goods—
+**5.**[^c-ebea3fdd826a67a88947cd63e4c14082] For the following goods—
 
 - UN 3233 SELF-REACTIVE LIQUID TYPE C, TEMPERATURE CONTROLLED\*
 - UN 3234 SELF-REACTIVE SOLID TYPE C, TEMPERATURE CONTROLLED\*
@@ -115,15 +115,15 @@ the methods of temperature control specified below shall be used—
 - (b) where the maximum ambient temperature to be expected during carriage does not exceed the control temperature by more than 30 degrees centigrade, one of the methods specified in paragraph 3(5)(*b*) to (*e*);
 - (c) in all other cases, one of the methods specified in paragraph 3(5)(*c*) to (*e*).
 
-### 6. Spontaneously combustible substances[^key-da9c1bf80ff0ad2b0022fbd802974e94]
+### 6. Spontaneously combustible substances[^c-da9c1bf80ff0ad2b0022fbd802974e94]
 
 The goods UN 2447 PHOSPHORUS, WHITE, MOLTEN shall be carried in tanks.
 
-### 7. Oxidizing substances[^key-eac64c1442239afc4e5101a0d327ede4]
+### 7. Oxidizing substances[^c-eac64c1442239afc4e5101a0d327ede4]
 
 The goods UN 2426 AMMONIUM NITRATE, LIQUID (hot concentrated solution) shall be carried in tanks.
 
-### 8. Organic peroxides[^key-31fe242be3af42c6cc7b059b17400132]
+### 8. Organic peroxides[^c-31fe242be3af42c6cc7b059b17400132]
 
 (1) Appropriate measures shall be taken to ensure that any control temperatures for organic peroxides are not exceeded.
 
@@ -174,7 +174,7 @@ The goods UN 2426 AMMONIUM NITRATE, LIQUID (hot concentrated solution) shall be 
   - (ii) each system alone is capable of maintaining adequate temperature control; and
   - (iii) flameproof electrical fittings are used within the coolant compartment to prevent ignition of flammable vapours from the organic peroxides.
 
-**9.**[^key-95cc0fb9132d5062c75ebfdd3cde8256] For the following goods—
+**9.**[^c-95cc0fb9132d5062c75ebfdd3cde8256] For the following goods—
 
 - UN 3111 ORGANIC PEROXIDE TYPE B, LIQUID, TEMPERATURE CONTROLLED\*
 - UN 3112 ORGANIC PEROXIDE TYPE B, SOLID, TEMPERATURE CONTROLLED\*
@@ -184,7 +184,7 @@ the methods of temperature control specified below shall be used—
 - (a) where the maximum ambient temperature to be expected during carriage does not exceed the control temperature by more than 10 degrees centigrade, one of the methods specified in paragraph 8(5)(*c*), (*d*) or (*e*);
 - (b) in all other cases, one of the methods specified in paragraph 8(5)(*d*) or (*e*).
 
-**10.**[^key-614686ec4cd197d05125d6b73e237f40] For the following goods—
+**10.**[^c-614686ec4cd197d05125d6b73e237f40] For the following goods—
 
 - UN 3113 ORGANIC PEROXIDE TYPE C, LIQUID, TEMPERATURE CONTROLLED\*
 - UN 3114 ORGANIC PEROXIDE TYPE C, SOLID, TEMPERATURE CONTROLLED\*
@@ -208,22 +208,22 @@ the methods of temperature control specified below shall be used—
 
 ## Annotations
 
-[^key-ac63c99b1cedec4f10cae37492402322]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-ac63c99b1cedec4f10cae37492402322]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-11ee3c645f2405be6b1e53e147e42f10]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-11ee3c645f2405be6b1e53e147e42f10]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-484ae27b25b5a9b0a6a15c577167d2bf]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-484ae27b25b5a9b0a6a15c577167d2bf]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-a57a68f2f981d0de6f7c853807ca2140]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-a57a68f2f981d0de6f7c853807ca2140]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-ebea3fdd826a67a88947cd63e4c14082]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-ebea3fdd826a67a88947cd63e4c14082]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-da9c1bf80ff0ad2b0022fbd802974e94]: Commencement: Sch. 4 para. 6 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-da9c1bf80ff0ad2b0022fbd802974e94]: Commencement: Sch. 4 para. 6 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-eac64c1442239afc4e5101a0d327ede4]: Commencement: Sch. 4 para. 7 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-eac64c1442239afc4e5101a0d327ede4]: Commencement: Sch. 4 para. 7 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-31fe242be3af42c6cc7b059b17400132]: Commencement: Sch. 4 para. 8 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-31fe242be3af42c6cc7b059b17400132]: Commencement: Sch. 4 para. 8 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-95cc0fb9132d5062c75ebfdd3cde8256]: Commencement: Sch. 4 para. 9 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-95cc0fb9132d5062c75ebfdd3cde8256]: Commencement: Sch. 4 para. 9 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-614686ec4cd197d05125d6b73e237f40]: Commencement: Sch. 4 para. 10 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-614686ec4cd197d05125d6b73e237f40]: Commencement: Sch. 4 para. 10 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

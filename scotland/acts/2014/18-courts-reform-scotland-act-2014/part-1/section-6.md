@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Temporary sheriff principal[^key-4a0d349413a2ddde143a3430a4f11c35]
+## 6. Temporary sheriff principal[^c-4a0d349413a2ddde143a3430a4f11c35]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ to act as sheriff principal of the sheriffdom.
 
 ## Annotations
 
-[^key-4a0d349413a2ddde143a3430a4f11c35]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/18/section/6) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-4a0d349413a2ddde143a3430a4f11c35]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/18/section/6) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

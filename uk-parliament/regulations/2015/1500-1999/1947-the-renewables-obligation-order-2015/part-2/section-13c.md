@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13C. Revision of the obligation level published on 27th September 2023 in respect of the 2024/25 obligation period[^key-fb09199b552848e6c73fccd322cec4bf]
+## 13C. Revision of the obligation level published on 27th September 2023 in respect of the 2024/25 obligation period[^c-fb09199b552848e6c73fccd322cec4bf]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb09199b552848e6c73fccd322cec4bf]: Textual amendment: [Art. 13C](https://www.legislation.gov.uk/uksi/2015/1947/article/13C) inserted (21.3.2024) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024 (S.I. 2024/403)](https://www.legislation.gov.uk/uksi/2024/403), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/403/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/403/article/2/5)
+[^c-fb09199b552848e6c73fccd322cec4bf]: Textual amendment: [Art. 13C](https://www.legislation.gov.uk/uksi/2015/1947/article/13C) inserted (21.3.2024) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024 (S.I. 2024/403)](https://www.legislation.gov.uk/uksi/2024/403), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/403/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/403/article/2/5)

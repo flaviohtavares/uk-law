@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Fish Labelling (England) Regulations 2010 (revoked)[^key-737d3f740272ce500d85a0f9a47f17f0]
+The Fish Labelling (England) Regulations 2010 (revoked)[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 Made
 
@@ -46,72 +46,72 @@ Coming into force
 
 6th April 2010
 
-[^key-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 1. Title, application and commencement[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 2. Interpretation[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences relating to consumer information[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 3. Offences relating to consumer information[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Lists of commercial designations[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 4. Lists of commercial designations[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Omission of reference to the production method[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 5. Omission of reference to the production method[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Small quantities of products[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 6. Small quantities of products[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Additional information relating to the catch area[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 7. Additional information relating to the catch area[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Provisional commercial designations[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 8. Provisional commercial designations[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Enforcement[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 9. Enforcement[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of various provisions of the Food Safety Act 1990[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 10. Application of various provisions of the Food Safety Act 1990[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation[^key-737d3f740272ce500d85a0f9a47f17f0]
+## 11. Revocation[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Commercial Designations[^key-737d3f740272ce500d85a0f9a47f17f0]
+## SCHEDULE — Commercial Designations[^c-737d3f740272ce500d85a0f9a47f17f0]
 
 Regulation 4
 
-**1.**[^key-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-737d3f740272ce500d85a0f9a47f17f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-737d3f740272ce500d85a0f9a47f17f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-737d3f740272ce500d85a0f9a47f17f0]: Textual amendment: Regulations revoked (2.9.2013) by [The Fish Labelling Regulations 2013 (S.I. 2013/1768)](https://www.legislation.gov.uk/uksi/2013/1768), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/1/1/b), [16](https://www.legislation.gov.uk/uksi/2013/1768/regulation/16)
+[^c-737d3f740272ce500d85a0f9a47f17f0]: Textual amendment: Regulations revoked (2.9.2013) by [The Fish Labelling Regulations 2013 (S.I. 2013/1768)](https://www.legislation.gov.uk/uksi/2013/1768), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/1/1/b), [16](https://www.legislation.gov.uk/uksi/2013/1768/regulation/16)

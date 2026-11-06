@@ -32,7 +32,7 @@ summary: ''
 - (h) a small waste incineration plant;
 - (i) a solvent emission activity;
 - (j) a flood risk activity.
-- (k)[^key-2e8e77ba3f1b1ad0f4a4fc612196ea75] a medium combustion plant;
+- (k)[^c-2e8e77ba3f1b1ad0f4a4fc612196ea75] a medium combustion plant;
 - (l) a specified generator
 
 (2) But the following are not regulated facilities—
@@ -53,11 +53,11 @@ summary: ''
 - (e) a small waste incineration plant;
 - (f) a solvent emission activity;
 - (g) a flood risk activity.
-- (h)[^key-31b60ac18d23ad07fc9a24d07cc15a26] a medium combustion plant;
+- (h)[^c-31b60ac18d23ad07fc9a24d07cc15a26] a medium combustion plant;
 - (i) a specified generator
 
 ## Annotations
 
-[^key-2e8e77ba3f1b1ad0f4a4fc612196ea75]: Textual amendment: [Reg. 8(1)(k)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/1/k)[(l)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/1/l) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/6/a)
+[^c-2e8e77ba3f1b1ad0f4a4fc612196ea75]: Textual amendment: [Reg. 8(1)(k)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/1/k)[(l)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/1/l) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/6/a)
 
-[^key-31b60ac18d23ad07fc9a24d07cc15a26]: Textual amendment: [Reg. 8(4)(h)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/4/h/i) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/6/b)
+[^c-31b60ac18d23ad07fc9a24d07cc15a26]: Textual amendment: [Reg. 8(4)(h)(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/8/4/h/i) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/6/b)

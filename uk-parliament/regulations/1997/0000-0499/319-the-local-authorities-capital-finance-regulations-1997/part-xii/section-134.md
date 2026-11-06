@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Outstanding advances from a loans fund[^key-aba0d20bfc8c805e0991422316e6bb2b]
+## 134. Outstanding advances from a loans fund[^c-aba0d20bfc8c805e0991422316e6bb2b]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aba0d20bfc8c805e0991422316e6bb2b]: Commencement: Reg. 134 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-aba0d20bfc8c805e0991422316e6bb2b]: Commencement: Reg. 134 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00113]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70) Part of paragraph 1(b) of Schedule 13 was repealed by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Providing money for illegal purposes[^key-d8bc0a7895a534f6b4dfca29bf167975]
+## 133. Providing money for illegal purposes[^c-d8bc0a7895a534f6b4dfca29bf167975]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ that person is guilty of an illegal payment.
 
 ## Annotations
 
-[^key-d8bc0a7895a534f6b4dfca29bf167975]: Commencement: Reg. 133 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d8bc0a7895a534f6b4dfca29bf167975]: Commencement: Reg. 133 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

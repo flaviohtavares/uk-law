@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Consent to transfer benefit of Order[^key-e4b612b3d6a7a2cdc0701431efce9335]
+## 8. Consent to transfer benefit of Order[^c-e4b612b3d6a7a2cdc0701431efce9335]
 
 *Extent: E+W+S*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (3) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) is subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
-(4) The consent of the Secretary of State is not required for a transfer or grant under paragraph (1) if the transferee or lessee is LondonWaste Limited[^key-68d39b50473f7a9c9d375c0cb5c64da9] provided it is wholly owned by North London Waste Authority.
+(4) The consent of the Secretary of State is not required for a transfer or grant under paragraph (1) if the transferee or lessee is LondonWaste Limited[^c-68d39b50473f7a9c9d375c0cb5c64da9] provided it is wholly owned by North London Waste Authority.
 
 ## Annotations
 
-[^key-e4b612b3d6a7a2cdc0701431efce9335]: Commencement: Art. 8 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-e4b612b3d6a7a2cdc0701431efce9335]: Commencement: Art. 8 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-68d39b50473f7a9c9d375c0cb5c64da9]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/215/article/8/4) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
+[^c-68d39b50473f7a9c9d375c0cb5c64da9]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/215/article/8/4) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)

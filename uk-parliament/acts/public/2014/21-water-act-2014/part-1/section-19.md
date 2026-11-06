@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Charges for providing a public sewer etc[^key-dfe5678dc64e115c1229960b48cdc1af]
+## 19. Charges for providing a public sewer etc[^c-dfe5678dc64e115c1229960b48cdc1af]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe5678dc64e115c1229960b48cdc1af]: Commencement: S. 19 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(b)](https://www.legislation.gov.uk/uksi/2017/462/article/5/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-dfe5678dc64e115c1229960b48cdc1af]: Commencement: S. 19 in force at 1.4.2018 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(b)](https://www.legislation.gov.uk/uksi/2017/462/article/5/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))

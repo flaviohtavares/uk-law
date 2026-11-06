@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Disputed claims[^key-7efdea9d703368243d06b0f560fbc259]
+## 45. Disputed claims[^c-7efdea9d703368243d06b0f560fbc259]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7efdea9d703368243d06b0f560fbc259]: Commencement: Art. 45 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7efdea9d703368243d06b0f560fbc259]: Commencement: Art. 45 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Promoting a global outlook[^key-c0a5b0e0d18785cb81358b90e8a8ff65][^key-7ce52d90394843f1eacff9586432bb8f][^key-fabafd933936d02030bada985a347071]
+## 11. Promoting a global outlook[^c-c0a5b0e0d18785cb81358b90e8a8ff65][^c-7ce52d90394843f1eacff9586432bb8f][^c-fabafd933936d02030bada985a347071]
 
 *Extent: E+W*
 
@@ -30,8 +30,8 @@ The Commission must promote—
 
 ## Annotations
 
-[^key-c0a5b0e0d18785cb81358b90e8a8ff65]: Commencement: S. 11 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-c0a5b0e0d18785cb81358b90e8a8ff65]: Commencement: S. 11 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-7ce52d90394843f1eacff9586432bb8f]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2022/1/section/11) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(j)](https://www.legislation.gov.uk/wsi/2023/919/article/3/j)
+[^c-7ce52d90394843f1eacff9586432bb8f]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2022/1/section/11) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(j)](https://www.legislation.gov.uk/wsi/2023/919/article/3/j)
 
-[^key-fabafd933936d02030bada985a347071]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2022/1/section/11) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-fabafd933936d02030bada985a347071]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2022/1/section/11) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

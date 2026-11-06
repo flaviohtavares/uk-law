@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Service of notices[^key-e8a80527c43a16c69bc26b10cbc64058]
+## 44. Service of notices[^c-e8a80527c43a16c69bc26b10cbc64058]
 
 *Extent: E+W*
 
@@ -56,12 +56,12 @@ summary: ''
 
 (9) This article does not exclude the employment of any method of service not expressly provided for by it.
 
-(10)[^key-b57a8133e3117fe33ddba036b80fd1ab] In this article “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
+(10)[^c-b57a8133e3117fe33ddba036b80fd1ab] In this article “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
 
 ## Annotations
 
-[^key-e8a80527c43a16c69bc26b10cbc64058]: Commencement: Art. 44 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-e8a80527c43a16c69bc26b10cbc64058]: Commencement: Art. 44 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412891]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by paragraph 19 of Schedule 10 to the [Road Traffic Regulation Act 1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). There are other amendments not relevant to this Order.
 
-[^key-b57a8133e3117fe33ddba036b80fd1ab]: Textual amendment: [Art. 44(10)](https://www.legislation.gov.uk/uksi/2020/1656/article/44/10) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-b57a8133e3117fe33ddba036b80fd1ab]: Textual amendment: [Art. 44(10)](https://www.legislation.gov.uk/uksi/2020/1656/article/44/10) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Commissioner for Victims and Witnesses[^key-ac64217fb6490a265f66c4eb1f4ac97a]
+## 142. Commissioner for Victims and Witnesses[^c-ac64217fb6490a265f66c4eb1f4ac97a]
 
 *Extent: E+W*
 
@@ -54,12 +54,12 @@ summary: ''
 
 (4) Omit section 50(2) (advice to authorities within Commissioner's remit).
 
-(5)[^key-55ccc1bdbc48a0721991d9dc568ab3a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-55ccc1bdbc48a0721991d9dc568ab3a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Omit Schedule 8 (supplementary provision about the Commissioner for Victims and Witnesses).
 
 ## Annotations
 
-[^key-ac64217fb6490a265f66c4eb1f4ac97a]: Commencement: S. 142 in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/145/article/2/1/a)
+[^c-ac64217fb6490a265f66c4eb1f4ac97a]: Commencement: S. 142 in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/145/article/2/1/a)
 
-[^key-55ccc1bdbc48a0721991d9dc568ab3a6]: Textual amendment: [S. 142(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/142/5) repealed (5.11.2013) by [The Public Bodies (Abolition of Victims Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/d)
+[^c-55ccc1bdbc48a0721991d9dc568ab3a6]: Textual amendment: [S. 142(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/142/5) repealed (5.11.2013) by [The Public Bodies (Abolition of Victims Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/2/d)

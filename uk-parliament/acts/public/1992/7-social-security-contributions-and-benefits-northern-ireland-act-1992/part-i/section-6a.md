@@ -36,8 +36,8 @@ for any of the purposes mentioned in subsection (3) below.
 
 - (a) the purposes of section 14(1)(a) below;
 - (b) the purposes of the provisions mentioned in section 21(5A)(a) to (c) below;
-- (c) any other purposes relating to contributory benefits; [^key-72749c91d081e52b821f6e7369553290]...
-- (d) any purposes relating to jobseeker’s allowance; and[^key-ce78f0ab93cea94a8b164980e5447643]
+- (c) any other purposes relating to contributory benefits; [^c-72749c91d081e52b821f6e7369553290]...
+- (d) any purposes relating to jobseeker’s allowance; and[^c-ce78f0ab93cea94a8b164980e5447643]
 - (e) any purposes relating to employment and support allowance.
 
 (4) Regulations may provide for any provision of this Act which, in whatever terms, refers—
@@ -59,6 +59,6 @@ to have effect for the purposes of this section with any prescribed modification
 
 [^c16378791]: Modification: [S. 6A(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/6A/2) modified (6.4.2000) by [S.I. 2000/748](https://www.legislation.gov.uk/uksi/2000/748), [regs. 3-6](https://www.legislation.gov.uk/uksi/2000/748/regulation/3)
 
-[^key-72749c91d081e52b821f6e7369553290]: Textual amendment: Word in [s. 6A(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/6A/3/c) repealed (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-72749c91d081e52b821f6e7369553290]: Textual amendment: Word in [s. 6A(3)](https://www.legislation.gov.uk/ukpga/1992/7/section/6A/3/c) repealed (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 8](https://www.legislation.gov.uk/nia/2007/2/schedule/8); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
-[^key-ce78f0ab93cea94a8b164980e5447643]: Textual amendment: [S. 6A(3)(e)](https://www.legislation.gov.uk/ukpga/1992/7/section/6A/3/e) and preceding word added (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/3/2); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-ce78f0ab93cea94a8b164980e5447643]: Textual amendment: [S. 6A(3)(e)](https://www.legislation.gov.uk/ukpga/1992/7/section/6A/3/e) and preceding word added (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/3/2); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)

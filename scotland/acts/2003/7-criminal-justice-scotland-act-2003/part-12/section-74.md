@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Offences aggravated by religious prejudice[^key-059089d09a86619f0edc42b2f9f29b3e]
+## 74. Offences aggravated by religious prejudice[^c-059089d09a86619f0edc42b2f9f29b3e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059089d09a86619f0edc42b2f9f29b3e]: Textual amendment: [S. 74](https://www.legislation.gov.uk/asp/2003/7/section/74) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/4); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))
+[^c-059089d09a86619f0edc42b2f9f29b3e]: Textual amendment: [S. 74](https://www.legislation.gov.uk/asp/2003/7/section/74) repealed (1.4.2024) by [Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](https://www.legislation.gov.uk/asp/2021/14), [s. 21(2)](https://www.legislation.gov.uk/asp/2021/14/section/21/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/14/schedule/2/paragraph/4); [S.S.I. 2024/82](https://www.legislation.gov.uk/ssi/2024/82), [reg. 2](https://www.legislation.gov.uk/ssi/2024/82/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/82/regulation/3))

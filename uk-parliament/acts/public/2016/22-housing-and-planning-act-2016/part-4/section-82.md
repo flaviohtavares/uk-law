@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Information about income[^key-6c027b80912de505ae94f014c1b6283a]
+## 82. Information about income[^c-6c027b80912de505ae94f014c1b6283a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c027b80912de505ae94f014c1b6283a]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2016/22/section/82) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-6c027b80912de505ae94f014c1b6283a]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2016/22/section/82) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

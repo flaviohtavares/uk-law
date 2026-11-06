@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Conditions of permits: Department’s notice in relation to emissions into water[^key-c4f1a611238fb42e342819f287841a19]
+## 15. Conditions of permits: Department’s notice in relation to emissions into water[^c-c4f1a611238fb42e342819f287841a19]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f1a611238fb42e342819f287841a19]: Commencement: Reg. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c4f1a611238fb42e342819f287841a19]: Commencement: Reg. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -330,7 +330,7 @@ Section 9
 
 ### Other amendments
 
-**3.**[^key-3eb670793626708309ae8bfffb6ab535] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3eb670793626708309ae8bfffb6ab535] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In paragraph 1(1)(b) of Schedule 5B (enterprise investment scheme: re-investment), after “164FA,” insert “ section 169N, ”.
 
@@ -361,7 +361,7 @@ Section 9
 
 is to be treated as constituting the amount resulting under section 169N(1).
 
-(5) Accordingly (but subject as follows), the amount of the chargeable gain which is deemed to accrue by virtue of section 116(10)(b) on the relevant disposal is that arrived at under section 169N(1) and (2)[^key-bbe4a6fb678e997e01db6bf4a2f16560] (in accordance with sub-paragraph (4)).
+(5) Accordingly (but subject as follows), the amount of the chargeable gain which is deemed to accrue by virtue of section 116(10)(b) on the relevant disposal is that arrived at under section 169N(1) and (2)[^c-bbe4a6fb678e997e01db6bf4a2f16560] (in accordance with sub-paragraph (4)).
 
 (6) The amount of the chargeable gain which is deemed to accrue by virtue of section 116(10)(b) on the relevant disposal is the amount specified in sub-paragraph (7)—
 
@@ -370,7 +370,7 @@ is to be treated as constituting the amount resulting under section 169N(1).
 
 (7) The amount referred to in sub-paragraph (6) is the appropriate proportion of the amount in sub-paragraph (5); and “**the appropriate proportion**” means the proportion of the new asset, or of so much of the new asset as was not disposed of before 6 April 2008, which is disposed of on the relevant disposal.
 
-(7A)[^key-4d302eac8fdb8b4a8e9929490adcdb3c] Section 169N(3) to (4B) is to apply to the deemed chargeable gain found in accordance with sub-paragraphs (5) to (7).
+(7A)[^c-4d302eac8fdb8b4a8e9929490adcdb3c] Section 169N(3) to (4B) is to apply to the deemed chargeable gain found in accordance with sub-paragraphs (5) to (7).
 
 (8) In this paragraph—
 
@@ -407,7 +407,7 @@ which occurs on or after 6 April 2008 in relation to any of the relevant shares 
 
 (6) In sub-paragraph (5)(a) “**the relevant underlying disposal**” means the disposal (not being a disposal within paragraph 3 of Schedule 5B or 5C) by virtue of which Schedule 5B or 5C has effect.
 
-(7) Subject as follows, the amount treated as accruing on the relevant chargeable event in respect of the original gain event or original gain disposal is the amount which would be arrived at under section section 169N(1) and (2)[^key-339737394858158cea39710f9b44e4d3] if—
+(7) Subject as follows, the amount treated as accruing on the relevant chargeable event in respect of the original gain event or original gain disposal is the amount which would be arrived at under section section 169N(1) and (2)[^c-339737394858158cea39710f9b44e4d3] if—
 
 - (a) the relevant chargeable event were a qualifying business disposal (within the meaning of Chapter 3 of Part 5), and
 - (b) the relevant proportion of the postponed gain constituted the amount resulting under section 169N(1);
@@ -418,7 +418,7 @@ and “**the relevant proportion**” means the proportion of the relevant share
 
 (9) The amount referred to in sub-paragraph (8) is the appropriate proportion of the amount in sub-paragraph (7); and “**the appropriate proportion**” means the proportion of the relevant shares held by the investor immediately before the first relevant chargeable event as respects which the relevant chargeable event is a chargeable event.
 
-(9A)[^key-33d69a84e89beb8cd20d70015c98efee] Section 169N(3) to (4B) is to apply to the amount treated as accruing in accordance with sub-paragraphs (7) to (9).
+(9A)[^c-33d69a84e89beb8cd20d70015c98efee] Section 169N(3) to (4B) is to apply to the amount treated as accruing in accordance with sub-paragraphs (7) to (9).
 
 (10) In this paragraph—
 
@@ -432,12 +432,12 @@ and “**the relevant proportion**” means the proportion of the relevant share
 
 ## Annotations
 
-[^key-3eb670793626708309ae8bfffb6ab535]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/3) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(f)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/f/ii), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-3eb670793626708309ae8bfffb6ab535]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/3) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(f)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/f/ii), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-bbe4a6fb678e997e01db6bf4a2f16560]: Textual amendment: Words in Sch. 3 para. 7(5) substituted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/10/a)
+[^c-bbe4a6fb678e997e01db6bf4a2f16560]: Textual amendment: Words in Sch. 3 para. 7(5) substituted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/10/a)
 
-[^key-4d302eac8fdb8b4a8e9929490adcdb3c]: Textual amendment: Sch. 3 para. 7(7A) inserted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/10/b)
+[^c-4d302eac8fdb8b4a8e9929490adcdb3c]: Textual amendment: Sch. 3 para. 7(7A) inserted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/10/b)
 
-[^key-339737394858158cea39710f9b44e4d3]: Textual amendment: Words in Sch. 3 para. 8(7) substituted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/11/a)
+[^c-339737394858158cea39710f9b44e4d3]: Textual amendment: Words in Sch. 3 para. 8(7) substituted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/11/a)
 
-[^key-33d69a84e89beb8cd20d70015c98efee]: Textual amendment: Sch. 3 para. 8(9A) inserted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/11/b)
+[^c-33d69a84e89beb8cd20d70015c98efee]: Textual amendment: Sch. 3 para. 8(9A) inserted (27.7.2010) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/11/b)

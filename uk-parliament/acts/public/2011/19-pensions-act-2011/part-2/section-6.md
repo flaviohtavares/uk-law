@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Postponement or disapplication of automatic enrolment[^c2114360][^key-3acba1c2db994f5300ef93e68425324e]
+## 6. Postponement or disapplication of automatic enrolment[^c2114360][^c-3acba1c2db994f5300ef93e68425324e]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ summary: ''
 
 [^c2114360]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-3acba1c2db994f5300ef93e68425324e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/19/section/6) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/b)
+[^c-3acba1c2db994f5300ef93e68425324e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/19/section/6) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/b)

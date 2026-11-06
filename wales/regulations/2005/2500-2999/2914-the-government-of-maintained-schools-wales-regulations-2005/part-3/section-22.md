@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Joint appointments[^key-0c50a7c8f98897ee1b26175a773015c9]
+## 22. Joint appointments[^c-0c50a7c8f98897ee1b26175a773015c9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the appointment is to be made by, or in accordance with a direction given by, th
 
 ## Annotations
 
-[^key-0c50a7c8f98897ee1b26175a773015c9]: Commencement: Reg. 22 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-0c50a7c8f98897ee1b26175a773015c9]: Commencement: Reg. 22 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

@@ -30,7 +30,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1999 (revoked)[^key-03b08f3735b54a5ec4458dcad978eabb]
+The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 1999 (revoked)[^c-03b08f3735b54a5ec4458dcad978eabb]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st November 1999
 
-[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-03b08f3735b54a5ec4458dcad978eabb]
+## 1. Citation and commencement[^c-03b08f3735b54a5ec4458dcad978eabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^key-03b08f3735b54a5ec4458dcad978eabb]
+## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^c-03b08f3735b54a5ec4458dcad978eabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03b08f3735b54a5ec4458dcad978eabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03b08f3735b54a5ec4458dcad978eabb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/389) revoked (31.3.2006) by [The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 (S.R. 2006/66)](https://www.legislation.gov.uk/nisr/2006/66), [reg. 1](https://www.legislation.gov.uk/nisr/2006/66/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/66/schedule/14)
+[^c-03b08f3735b54a5ec4458dcad978eabb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/389) revoked (31.3.2006) by [The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 (S.R. 2006/66)](https://www.legislation.gov.uk/nisr/2006/66), [reg. 1](https://www.legislation.gov.uk/nisr/2006/66/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/66/schedule/14)

@@ -34,7 +34,7 @@ ANIMALS
 
 PREVENTION OF HARM
 
-The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2007 (revoked)[^key-118f4a3419202ade5106470244ff3990]
+The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2007 (revoked)[^c-118f4a3419202ade5106470244ff3990]
 
 Made
 
@@ -158,4 +158,4 @@ Regulation 6
 
 ## Annotations
 
-[^key-118f4a3419202ade5106470244ff3990]: Textual amendment: Regulations revoked (5.11.2010) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010 (S.S.I. 2010/387)](https://www.legislation.gov.uk/ssi/2010/387), [regs. 1](https://www.legislation.gov.uk/ssi/2010/387/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2010/387/regulation/4/a)
+[^c-118f4a3419202ade5106470244ff3990]: Textual amendment: Regulations revoked (5.11.2010) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010 (S.S.I. 2010/387)](https://www.legislation.gov.uk/ssi/2010/387), [regs. 1](https://www.legislation.gov.uk/ssi/2010/387/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2010/387/regulation/4/a)

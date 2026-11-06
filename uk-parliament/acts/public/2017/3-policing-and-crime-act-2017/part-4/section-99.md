@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Restriction on exercise of maritime enforcement powers in hot pursuit[^c22719351][^key-a4112664077398a12001a4f61e409896]
+## 99. Restriction on exercise of maritime enforcement powers in hot pursuit[^c22719351][^c-a4112664077398a12001a4f61e409896]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22719351]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/3/section/99) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a4112664077398a12001a4f61e409896]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/3/section/99) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-a4112664077398a12001a4f61e409896]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/3/section/99) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

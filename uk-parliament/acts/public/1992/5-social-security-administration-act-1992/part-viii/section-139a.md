@@ -25,7 +25,7 @@ summary: ''
 (2) The Secretary of State may ask persons authorised under subsection (1) to consider in particular– *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2]
 
 - (a) authorities’ performance in the prevention and detection of fraud relating to housing benefit and council tax benefit; *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2]
-- (b) authorities compliance with the requirements of Part I of the Local Government Act 1999 (best value) *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2] or the performance requirements set out in section 89 of the Local Government and Elections (Wales) Act 2021[^key-970a86048e9fdc379d04719d7561febc] *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2].
+- (b) authorities compliance with the requirements of Part I of the Local Government Act 1999 (best value) *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2] or the performance requirements set out in section 89 of the Local Government and Elections (Wales) Act 2021[^c-970a86048e9fdc379d04719d7561febc] *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2].
 
 (2A) A person may be authorised under subsection (1)– *(affected by repeal, see note)*[^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2]
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^M_F_4ae67605-294c-43f4-e08e-b625595c52d7]: Textual amendment: S. 139A(1)-(2A) substituted for s. 139A(1)(2) (27.7.1999) by [Local Government Act 1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1999/27/section/14/1); [S.I. 1999/2169](https://www.legislation.gov.uk/uksi/1999/2169), [art. 4(1)](https://www.legislation.gov.uk/uksi/1999/2169/article/4/1)
 
-[^key-970a86048e9fdc379d04719d7561febc]: Textual amendment: Words in [s. 139A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/139A/2/b) substituted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2021/296/regulation/3/5))
+[^c-970a86048e9fdc379d04719d7561febc]: Textual amendment: Words in [s. 139A(2)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/139A/2/b) substituted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/wsi/2021/296/regulation/3/5))

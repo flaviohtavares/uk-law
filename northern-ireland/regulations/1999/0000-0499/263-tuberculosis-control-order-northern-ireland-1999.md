@@ -44,11 +44,11 @@ The Department of Agriculture, in exercise of the powers conferred on it by Arti
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-af67cb05f444a3e6791ffd06e30628f4]
+### 1. Citation and commencement[^c-af67cb05f444a3e6791ffd06e30628f4]
 
 This Order may be cited as the Tuberculosis Control Order (Northern Ireland) 1999 and shall come into operation on 26th July 1999.
 
-### 2. Interpretation[^key-09b9cb2061c9724a7cafc8123b830a9a]
+### 2. Interpretation[^c-09b9cb2061c9724a7cafc8123b830a9a]
 
 (1) In this Order—
 
@@ -80,7 +80,7 @@ This Order may be cited as the Tuberculosis Control Order (Northern Ireland) 199
 
 (2) In this Order any reference to a herd being affected or suspected or being affected means a herd in which at least one animal is affected or suspected of being affected.
 
-### 3. Notification[^key-b15c75f16a8bce00851a60b5dd9189eb]
+### 3. Notification[^c-b15c75f16a8bce00851a60b5dd9189eb]
 
 (1) The keeper of an affected animal (other than a reactor) or a suspected animal shall, with all practicable speed, give notice of the fact to the Divisional Veterinary Officer.
 
@@ -88,11 +88,11 @@ This Order may be cited as the Tuberculosis Control Order (Northern Ireland) 199
 
 ## PART II — CONTROL OF DISEASE
 
-### 4. Notification by the Department of diseased or suspected animals[^key-d42bd493dfc2c659e8022463b557ce2a]
+### 4. Notification by the Department of diseased or suspected animals[^c-d42bd493dfc2c659e8022463b557ce2a]
 
 Where the Department knows or suspects that an animal, a herd or a carcase is diseased, it shall serve on the keeper thereof a notice informing him of the fact.
 
-### 5. Restriction on movement of animals[^key-05c619f3e3ddbad373478f032dcf2fe1]
+### 5. Restriction on movement of animals[^c-05c619f3e3ddbad373478f032dcf2fe1]
 
 (1) Subject to paragraph (5), a person on whom a notice is served under Article 4 shall detain the animal, herd or carcase to which it relates on the holding on which it is kept, or such part of the holding as may be specified in the notice.
 
@@ -108,7 +108,7 @@ Where the Department knows or suspects that an animal, a herd or a carcase is di
 
 (7) Where a notice is served in respect of any animal under Article 4 or 5(2), the keeper of that animal shall comply with such requirements for the isolation of that animal, or such other animals kept by him, as may in the opinion of a veterinary inspector be necessary to prevent the spread of disease.
 
-### 6. Further precautions against the spread of infection[^key-4669e3b6585524de8b6739a096340dfa]
+### 6. Further precautions against the spread of infection[^c-4669e3b6585524de8b6739a096340dfa]
 
 (1) A veterinary inspector may by notice served on the keeper of an affected animal or herd require him to take such steps as may be reasonably practicable to prevent any animal kept on the same holding from infecting any animal or non-bovine animal kept on any adjoining premises.
 
@@ -119,7 +119,7 @@ Where the Department knows or suspects that an animal, a herd or a carcase is di
 
 unless such animals are so moved under the authority of and in accordance with the conditions of a licence issued by the Department.
 
-### 7. Cleansing and disinfection generally[^key-bdcbb101720b94d46ab4d1241b9ffedd]
+### 7. Cleansing and disinfection generally[^c-bdcbb101720b94d46ab4d1241b9ffedd]
 
 (1) Where, from the results of any official tests carried out in relation to—
 
@@ -137,7 +137,7 @@ it appears to the Department that the animal, herd or carcase is affected, it ma
 
 at such time and in such manner as may be specified in the notice.
 
-### 8. Control of manure and slurry[^key-a07921337521e8ba2da9c73a8191035b]
+### 8. Control of manure and slurry[^c-a07921337521e8ba2da9c73a8191035b]
 
 (1) The Department may serve a notice in writing on the occupier of a holding on which is kept—
 
@@ -149,7 +149,7 @@ at such time and in such manner as may be specified in the notice.
 - (a) treat and store such manure or slurry on the holding to which it relates as may be specified in the notice in such manner as may be so specified; and
 - (b) prohibit him from using such manure or slurry on the holding as may be specified in the notice except for such purpose and in such manner as may be so specified.
 
-### 9. Compliance with notices[^key-8b34666914d0221bb8bab7fc315e1b58]
+### 9. Compliance with notices[^c-8b34666914d0221bb8bab7fc315e1b58]
 
 (1) A person on whom a notice is served under this Part shall comply with the notice.
 
@@ -157,7 +157,7 @@ at such time and in such manner as may be specified in the notice.
 
 ## PART III — SLAUGHTER AND COMPENSATION
 
-### 10. Power to slaughter[^key-77f74176ccd25de9734cb666877f40d7]
+### 10. Power to slaughter[^c-77f74176ccd25de9734cb666877f40d7]
 
 (1) The Department may slaughter or cause to be slaughtered under the direction of a veterinary inspector any reactor or other animal which in the opinion of a veterinary inspector has been exposed to a significant risk of infection with disease and has not already been slaughtered under paragraph (5).
 
@@ -169,7 +169,7 @@ at such time and in such manner as may be specified in the notice.
 
 (5) The owner of any animal to which a notice under paragraph (2) relates shall not slaughter or cause to be slaughtered that animal except under the authority and in accordance with the conditions of a licence issued by the Department for that purpose and where he does so Article 11 shall not have effect in relation to that animal.
 
-### 11. Valuation and compensation[^key-180adbafde79beef32312a03f5bb66ac]
+### 11. Valuation and compensation[^c-180adbafde79beef32312a03f5bb66ac]
 
 (1) Where the Department slaughters or causes an animal to be slaughtered under Article 10(1), the compensation payable by the Department for the animal shall be the market value of the animal.
 
@@ -197,13 +197,13 @@ at such time and in such manner as may be specified in the notice.
 
 ## PART IV — GENERAL
 
-### 12. Power to seize certain animals[^key-47465c0536be382fa1e34c20ada240b9]
+### 12. Power to seize certain animals[^c-47465c0536be382fa1e34c20ada240b9]
 
 (1) The Department may seize, detain and dispose of an affected or suspected animal exposed for sale, carried, kept or otherwise dealt with in contravention of this Order, any notice served under this Order or the Scheme.
 
 (2) The amount of any expenses reasonably incurred by the Department in seizing, detaining or disposing of an animal under paragraph (1) shall be recoverable by it as a civil debt from the owner of that animal.
 
-### 13. Information to be furnished to inspectors[^key-3798aa8761cca971cd811dddf165acb8]
+### 13. Information to be furnished to inspectors[^c-3798aa8761cca971cd811dddf165acb8]
 
 (1) The owner of an affected animal which has been or is being kept on any holding, shall on demand by an inspector give such information as he possesses as to—
 
@@ -212,7 +212,7 @@ at such time and in such manner as may be specified in the notice.
 
 (2) Any person engaged in the purchase, sale, dispatch, transit or delivery of animals shall on demand by an inspector give such information as he possesses relating to any animal or carcase which is or has been in his possession or under his control.
 
-### 14. Control of non-bovine animals[^key-a5ed14728379a573752666a435bc4eac]
+### 14. Control of non-bovine animals[^c-a5ed14728379a573752666a435bc4eac]
 
 (1) Where an animal is kept on the same holding as a non-bovine animal, a veterinary inspector may, by notice in writing served on the occupier of the holding, require him—
 
@@ -225,7 +225,7 @@ at such time and in such manner as may be specified in the notice.
 
 (4) Article 11(2) to (7) shall apply in relation to any non-bovine animal slaughtered under paragraph (2) as it applies to any animal to which a notice under Article 10(2) relates.
 
-### 15. Draft or dispersal sales[^key-06231877cf960bb5be697162887834f3]
+### 15. Draft or dispersal sales[^c-06231877cf960bb5be697162887834f3]
 
 (1) Except under and in accordance with the conditions of a licence issued by the Department in writing the owner of any animal shall not hold or cause or permit to be held a sale by auction or otherwise of that animal—
 
@@ -234,18 +234,18 @@ at such time and in such manner as may be specified in the notice.
 
 (2) A licence issued under paragraph (1) may, where the Department considers it necessary, be subject to the condition that all of the animals in the sale to which it relates shall have been officially tested during the period of 30 days prior to the holding of the sale with negative results.
 
-### 16. Sterilisation of milk[^key-807fde110e1e0b91f17d8ca75ec7b9ec]
+### 16. Sterilisation of milk[^c-807fde110e1e0b91f17d8ca75ec7b9ec]
 
 A person shall not use milk from an affected or suspected animal or non-bovine animal for feeding to or in the preparation of any feeding stuff for animals or non-bovine animals unless it has been first sterilised.
 
-### 17. Notification of the presence of tuberculosis[^key-af89205b0521d1d659d0a270970448fb]
+### 17. Notification of the presence of tuberculosis[^c-af89205b0521d1d659d0a270970448fb]
 
 Where the Department knows or suspects that any animal is affected, it may, for the purposes of preventing the spread of disease notify—
 
 - (a) any veterinary surgeon treating that animal; and
 - (b) any person who keeps animals which are substantially at risk of becoming infected with disease by that animal or any animal on the holding on which that animal is maintained.
 
-### 18. Revocations[^key-2d5d3244a54d1938d423b1da252096c3]
+### 18. Revocations[^c-2d5d3244a54d1938d423b1da252096c3]
 
 The statutory provisions listed in the Schedule are hereby revoked to the extent that they remain in operation.
 
@@ -257,7 +257,7 @@ Assistant Secretary
 
 9th June 1999.
 
-## SCHEDULE — Revocations[^key-52b211662bd29baecfc321407f574587]
+## SCHEDULE — Revocations[^c-52b211662bd29baecfc321407f574587]
 
 <table>
 <thead>
@@ -309,9 +309,9 @@ Where an animal (including a non-bovine animal) shows any signs or symptoms of t
 
 [^f00001]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20 and 23
 
-[^key-af67cb05f444a3e6791ffd06e30628f4]: Commencement: Art. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-af67cb05f444a3e6791ffd06e30628f4]: Commencement: Art. 1 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-09b9cb2061c9724a7cafc8123b830a9a]: Commencement: Art. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-09b9cb2061c9724a7cafc8123b830a9a]: Commencement: Art. 2 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1972 No. 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69) and [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467)
 
@@ -319,38 +319,38 @@ Where an animal (including a non-bovine animal) shows any signs or symptoms of t
 
 [^f00004]: Footnote: The Tuberculosis (Examination and Testing) Scheme (Northern Ireland) 1999 is set out in the Schedule to the [Tuberculosis (Examination and Testing) Scheme Order (Northern Ireland) 1999, S.R. No. 264](https://www.legislation.gov.uk/nisr/1999/264)
 
-[^key-b15c75f16a8bce00851a60b5dd9189eb]: Commencement: Art. 3 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-b15c75f16a8bce00851a60b5dd9189eb]: Commencement: Art. 3 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-d42bd493dfc2c659e8022463b557ce2a]: Commencement: Art. 4 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-d42bd493dfc2c659e8022463b557ce2a]: Commencement: Art. 4 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-05c619f3e3ddbad373478f032dcf2fe1]: Commencement: Art. 5 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-05c619f3e3ddbad373478f032dcf2fe1]: Commencement: Art. 5 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-4669e3b6585524de8b6739a096340dfa]: Commencement: Art. 6 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-4669e3b6585524de8b6739a096340dfa]: Commencement: Art. 6 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-bdcbb101720b94d46ab4d1241b9ffedd]: Commencement: Art. 7 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-bdcbb101720b94d46ab4d1241b9ffedd]: Commencement: Art. 7 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-a07921337521e8ba2da9c73a8191035b]: Commencement: Art. 8 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-a07921337521e8ba2da9c73a8191035b]: Commencement: Art. 8 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-8b34666914d0221bb8bab7fc315e1b58]: Commencement: Art. 9 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-8b34666914d0221bb8bab7fc315e1b58]: Commencement: Art. 9 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-77f74176ccd25de9734cb666877f40d7]: Commencement: Art. 10 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-77f74176ccd25de9734cb666877f40d7]: Commencement: Art. 10 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-180adbafde79beef32312a03f5bb66ac]: Commencement: Art. 11 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-180adbafde79beef32312a03f5bb66ac]: Commencement: Art. 11 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
 [^f00005]: Footnote: O.J. No. L99, 19.4.96, p. 14
 
-[^key-47465c0536be382fa1e34c20ada240b9]: Commencement: Art. 12 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-47465c0536be382fa1e34c20ada240b9]: Commencement: Art. 12 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-3798aa8761cca971cd811dddf165acb8]: Commencement: Art. 13 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-3798aa8761cca971cd811dddf165acb8]: Commencement: Art. 13 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-a5ed14728379a573752666a435bc4eac]: Commencement: Art. 14 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-a5ed14728379a573752666a435bc4eac]: Commencement: Art. 14 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-06231877cf960bb5be697162887834f3]: Commencement: Art. 15 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-06231877cf960bb5be697162887834f3]: Commencement: Art. 15 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-807fde110e1e0b91f17d8ca75ec7b9ec]: Commencement: Art. 16 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-807fde110e1e0b91f17d8ca75ec7b9ec]: Commencement: Art. 16 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-af89205b0521d1d659d0a270970448fb]: Commencement: Art. 17 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-af89205b0521d1d659d0a270970448fb]: Commencement: Art. 17 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-2d5d3244a54d1938d423b1da252096c3]: Commencement: Art. 18 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-2d5d3244a54d1938d423b1da252096c3]: Commencement: Art. 18 in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
 
-[^key-52b211662bd29baecfc321407f574587]: Commencement: Sch. in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)
+[^c-52b211662bd29baecfc321407f574587]: Commencement: Sch. in operation at 26.7.1999, see [art. 1](https://www.legislation.gov.uk/nisr/1999/263/article/1)

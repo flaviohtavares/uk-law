@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Assurance that person is not at risk of prosecution for offence under section 138[^key-c53fbbd44d230e5160bc3120f60279af]
+## 139. Assurance that person is not at risk of prosecution for offence under section 138[^c-c53fbbd44d230e5160bc3120f60279af]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c53fbbd44d230e5160bc3120f60279af]: Commencement: S. 139 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c53fbbd44d230e5160bc3120f60279af]: Commencement: S. 139 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

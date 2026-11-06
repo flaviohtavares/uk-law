@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298A. Receipts arising from decommissioning[^key-651f7f48f8c13c0101425bec16679b8a]
+## 298A. Receipts arising from decommissioning[^c-651f7f48f8c13c0101425bec16679b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ This is subject to subsections (5) and (6).
 
 ## Annotations
 
-[^key-651f7f48f8c13c0101425bec16679b8a]: Textual amendment: S. 298A and cross-heading inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/21)
+[^c-651f7f48f8c13c0101425bec16679b8a]: Textual amendment: S. 298A and cross-heading inserted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/21)

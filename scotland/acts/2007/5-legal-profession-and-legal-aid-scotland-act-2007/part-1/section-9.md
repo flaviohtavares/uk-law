@@ -29,11 +29,11 @@ summary: ''
 - (c) mediation by virtue of section 8(5) in relation to the complaint—
   - (i) does not take place;
   - (ii) takes place but is discontinued or the outcome of the mediation is not accepted by both the complainer and the practitioner;
-- (d) the Commission determines under section 2(1A)(a)[^key-cebcf74129cf02bf7ee04be4cef2f1e0] that a complaint by or on behalf of any person referred to in sub-paragraphs (ii) to (viii) of section 2(2)(b) is a services complaint,
+- (d) the Commission determines under section 2(1A)(a)[^c-cebcf74129cf02bf7ee04be4cef2f1e0] that a complaint by or on behalf of any person referred to in sub-paragraphs (ii) to (viii) of section 2(2)(b) is a services complaint,
 
-the Commission must, subject to this section and[^key-8b88e75ecceb2007bcaea1fc34469707] section 15(2) and (5), investigate the complaint and after giving the complainer and the practitioner an opportunity to make representations, subject to subsections (2) to (4), determine it by reference to what the Commission considers is fair and reasonable in the circumstances.
+the Commission must, subject to this section and[^c-8b88e75ecceb2007bcaea1fc34469707] section 15(2) and (5), investigate the complaint and after giving the complainer and the practitioner an opportunity to make representations, subject to subsections (2) to (4), determine it by reference to what the Commission considers is fair and reasonable in the circumstances.
 
-(1A)[^key-1a0b9458bbaf3ee3b56ce70bfc00d4e5] The Commission may decide—
+(1A)[^c-1a0b9458bbaf3ee3b56ce70bfc00d4e5] The Commission may decide—
 
 - (a) to discontinue the investigation of a services complaint;
 - (b) to reinstate the investigation of a discontinued services complaint.
@@ -48,8 +48,8 @@ the Commission must, subject to this section and[^key-8b88e75ecceb2007bcaea1fc34
 
 ## Annotations
 
-[^key-cebcf74129cf02bf7ee04be4cef2f1e0]: Textual amendment: Words in s. 9 substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/8) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-cebcf74129cf02bf7ee04be4cef2f1e0]: Textual amendment: Words in s. 9 substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/8) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
 
-[^key-8b88e75ecceb2007bcaea1fc34469707]: Textual amendment: Words in s. 9(1) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/9/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-8b88e75ecceb2007bcaea1fc34469707]: Textual amendment: Words in s. 9(1) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/9/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
 
-[^key-1a0b9458bbaf3ee3b56ce70bfc00d4e5]: Textual amendment: S. 9(1A)(1B) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/9/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-1a0b9458bbaf3ee3b56ce70bfc00d4e5]: Textual amendment: S. 9(1A)(1B) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/9/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

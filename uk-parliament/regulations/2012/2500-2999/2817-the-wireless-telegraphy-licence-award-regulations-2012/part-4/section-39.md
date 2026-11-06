@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Round price for 2.6 GHz concurrent low power 20 MHz lots[^key-8fc99f60e5e6a9b97ee86ecc40e55675]
+## 39. Round price for 2.6 GHz concurrent low power 20 MHz lots[^c-8fc99f60e5e6a9b97ee86ecc40e55675]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ subject to paragraph (7).
 
 ## Annotations
 
-[^key-8fc99f60e5e6a9b97ee86ecc40e55675]: Commencement: Reg. 39 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-8fc99f60e5e6a9b97ee86ecc40e55675]: Commencement: Reg. 39 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

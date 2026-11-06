@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Food information for consumers: power to amend retained EU law[^key-76e40a84247b68fa6975954e5b39b33d][^key-b07bd8d501568269ed0311e6f68fc2b5]
+## 174. Food information for consumers: power to amend retained EU law[^c-76e40a84247b68fa6975954e5b39b33d][^c-b07bd8d501568269ed0311e6f68fc2b5]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76e40a84247b68fa6975954e5b39b33d]: Commencement: S. 174 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-76e40a84247b68fa6975954e5b39b33d]: Commencement: S. 174 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b07bd8d501568269ed0311e6f68fc2b5]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2022/31/section/174) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b07bd8d501568269ed0311e6f68fc2b5]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2022/31/section/174) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

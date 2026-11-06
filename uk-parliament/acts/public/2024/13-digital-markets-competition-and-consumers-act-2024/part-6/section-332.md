@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Notices[^key-a82e92a96a5e5ea76118c8f4190c3916]
+## 332. Notices[^c-a82e92a96a5e5ea76118c8f4190c3916]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ references to its principal office include references to its principal office in
 
 ## Annotations
 
-[^key-a82e92a96a5e5ea76118c8f4190c3916]: Commencement: S. 332 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-a82e92a96a5e5ea76118c8f4190c3916]: Commencement: S. 332 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

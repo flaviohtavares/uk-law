@@ -16,12 +16,12 @@ summary: ''
 
 ## 56. Contributions returns
 
-(1)[^key-48373d99f2bad226e9b79621d6740ae1] In sub-paragraph (3) of paragraph 7 of Schedule 1 to the Contributions and Benefits Act—
+(1)[^c-48373d99f2bad226e9b79621d6740ae1] In sub-paragraph (3) of paragraph 7 of Schedule 1 to the Contributions and Benefits Act—
 
 - (a) for the words “is liable to” there shall be substituted the words “has been required to pay”; and
 - (b) for the words “be liable to” there shall be substituted the words “be required to pay”.
 
-(2)[^key-7585528891463d37efb2aaeba64d8219] After that paragraph there shall be inserted the following paragraph—
+(2)[^c-7585528891463d37efb2aaeba64d8219] After that paragraph there shall be inserted the following paragraph—
 
 > **7A.** (1) This paragraph applies where paragraph 7 above applies; and in this paragraph “contributions return” has the same meaning as in that paragraph.
 >
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48373d99f2bad226e9b79621d6740ae1]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/56/1) in force at 6.4.1999 by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/526/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/4/a)
+[^c-48373d99f2bad226e9b79621d6740ae1]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/1998/14/section/56/1) in force at 6.4.1999 by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/526/article/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/1999/526/article/2/4/a)
 
-[^key-7585528891463d37efb2aaeba64d8219]: Commencement: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/56/2) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/b)
+[^c-7585528891463d37efb2aaeba64d8219]: Commencement: [S. 56(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/56/2) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/b)

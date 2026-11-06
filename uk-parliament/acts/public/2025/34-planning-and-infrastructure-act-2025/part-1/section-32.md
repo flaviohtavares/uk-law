@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Power of strategic highways company in relation to trunk roads[^key-562149272f46db59a1eb312cddfbb8dc]
+## 32. Power of strategic highways company in relation to trunk roads[^c-562149272f46db59a1eb312cddfbb8dc]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-562149272f46db59a1eb312cddfbb8dc]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/34/section/32) in force at 18.2.2026, see [s. 118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r)
+[^c-562149272f46db59a1eb312cddfbb8dc]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/34/section/32) in force at 18.2.2026, see [s. 118(1)(r)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/r)

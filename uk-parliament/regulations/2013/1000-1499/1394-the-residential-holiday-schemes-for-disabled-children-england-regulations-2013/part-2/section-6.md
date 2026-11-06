@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Appointment of manager[^key-b16ca981323246767fcfd563ec034054]
+## 6. Appointment of manager[^c-b16ca981323246767fcfd563ec034054]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b16ca981323246767fcfd563ec034054]: Commencement: Reg. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-b16ca981323246767fcfd563ec034054]: Commencement: Reg. 6 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Cap on number of entrants using safe and legal routes[^key-f8e2860a8f5b81b88ee985399bc5b11f][^key-3b8b3a3aaef8cacb0d8dd4512ebdedfd]
+## 60. Cap on number of entrants using safe and legal routes[^c-f8e2860a8f5b81b88ee985399bc5b11f][^c-3b8b3a3aaef8cacb0d8dd4512ebdedfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (6) The statement must be laid before Parliament before the end of the period of six months beginning with the day after the last day of the year to which the statement relates.
 
-(7)[^key-f8e2860a8f5b81b88ee985399bc5b11f] In this section—
+(7)[^c-f8e2860a8f5b81b88ee985399bc5b11f] In this section—
 
 - “**local authority**” means—
   - (a) in England and Wales, a county council, a county borough council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly, and
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e2860a8f5b81b88ee985399bc5b11f]: Commencement: S. 60(7) in force at Royal Assent for specified purposes, see [s. 68(4)(l)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/4)
+[^c-f8e2860a8f5b81b88ee985399bc5b11f]: Commencement: S. 60(7) in force at Royal Assent for specified purposes, see [s. 68(4)(l)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/4)
 
-[^key-3b8b3a3aaef8cacb0d8dd4512ebdedfd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/37/section/60) in force at 28.9.2023 in so far as not already in force by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/d)
+[^c-3b8b3a3aaef8cacb0d8dd4512ebdedfd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/37/section/60) in force at 28.9.2023 in so far as not already in force by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/d)

@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air
 
-The Smoke Control Areas (Exempted Fireplaces) (Scotland) Order 2014 (revoked)[^key-a1b5eb2127855a473b8a2a21d13c372c]
+The Smoke Control Areas (Exempted Fireplaces) (Scotland) Order 2014 (revoked)[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 19th December 2014
 
-[^key-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-a1b5eb2127855a473b8a2a21d13c372c]
+## 1. Citation, commencement and extent[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a1b5eb2127855a473b8a2a21d13c372c]
+## 2. Interpretation[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fireplaces exempted from section 20 of the Clean Air Act 1993[^key-a1b5eb2127855a473b8a2a21d13c372c]
+## 3. Fireplaces exempted from section 20 of the Clean Air Act 1993[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-a1b5eb2127855a473b8a2a21d13c372c]
+## 4. Revocation[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Exempted fireplaces[^key-a1b5eb2127855a473b8a2a21d13c372c]
+## SCHEDULE — Exempted fireplaces[^c-a1b5eb2127855a473b8a2a21d13c372c]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1b5eb2127855a473b8a2a21d13c372c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1b5eb2127855a473b8a2a21d13c372c]: Textual amendment: Order revoked (31.10.2016) by [The Smoke Control Areas (Exempted Fireplaces) (Scotland) Revocation Order 2016 (S.S.I. 2016/292)](https://www.legislation.gov.uk/ssi/2016/292), [arts. 1](https://www.legislation.gov.uk/ssi/2016/292/article/1), [2](https://www.legislation.gov.uk/ssi/2016/292/article/2)
+[^c-a1b5eb2127855a473b8a2a21d13c372c]: Textual amendment: Order revoked (31.10.2016) by [The Smoke Control Areas (Exempted Fireplaces) (Scotland) Revocation Order 2016 (S.S.I. 2016/292)](https://www.legislation.gov.uk/ssi/2016/292), [arts. 1](https://www.legislation.gov.uk/ssi/2016/292/article/1), [2](https://www.legislation.gov.uk/ssi/2016/292/article/2)

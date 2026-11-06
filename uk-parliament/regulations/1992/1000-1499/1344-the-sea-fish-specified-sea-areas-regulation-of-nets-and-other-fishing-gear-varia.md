@@ -46,15 +46,15 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with the sea fishing industry in Scotland, Wales and Northern Ireland, acting jointly, in exercise of the powers conferred on them by sections 3, 15(3), 20(1) and 22(2)(a) of the Sea Fish (Conservation) Act 1967[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Title and commencement[^key-2240b081bfc628d7e714ede448476743]
+## 1. Title and commencement[^c-2240b081bfc628d7e714ede448476743]
 
 This Order may be cited as the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Variation) Order 1992 and shall come into force on 9th June 1992.
 
-## 2. Variation of the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^key-6a2648f449b0fc54d7888ddc20608b9b]
+## 2. Variation of the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^c-6a2648f449b0fc54d7888ddc20608b9b]
 
 The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^f00002] shall be varied in accordance with articles 3 to 8 below.
 
-**3.**[^key-865ac802986006d6ba0702fee607fd68] In article 2 thereof (interpretation)—
+**3.**[^c-865ac802986006d6ba0702fee607fd68] In article 2 thereof (interpretation)—
 
 - (a) in paragraph (1)—
   - (i) the definition of “codline” shall be omitted;
@@ -66,7 +66,7 @@ The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) O
 
   .
 
-**4.**[^key-e06e995c2fde2d9640a98cedf1b71727] For article 3 thereof (exemptions) there shall be substituted the following article—
+**4.**[^c-e06e995c2fde2d9640a98cedf1b71727] For article 3 thereof (exemptions) there shall be substituted the following article—
 
 > **3. Exemptions**
 >
@@ -80,7 +80,7 @@ The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) O
 
 .
 
-**5.**[^key-099c6a767b073eabe4a82ae1ee73fae5] For article 4 thereof (regulation of carriage and use of nets) there shall be substituted the following article—
+**5.**[^c-099c6a767b073eabe4a82ae1ee73fae5] For article 4 thereof (regulation of carriage and use of nets) there shall be substituted the following article—
 
 > **4. Regulation of carriage and use of nets**
 >
@@ -107,17 +107,17 @@ The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) O
 
 .
 
-**6.**[^key-daa9bad242591e762534bec4de78a0da] In article 6(1) thereof (regulation of codend and extension piece)—
+**6.**[^c-daa9bad242591e762534bec4de78a0da] In article 6(1) thereof (regulation of codend and extension piece)—
 
 - (a) after the words “article 3(1)” there shall be inserted the words “, (3) and (4)”;
 - (b) for the words from “of between 90 millimetres” to the words “(West of Scotland)—” there shall be substituted the words “of 80 millimetres or more is carried in, or used by, any British fishing boat registered in the United Kingdom—”.
 
-**7.**[^key-4d5b287914b60eb9bf799b852fcce69e] In article 7 thereof (regulation of carriage and use of strengthening bags and top-side chafers)—
+**7.**[^c-4d5b287914b60eb9bf799b852fcce69e] In article 7 thereof (regulation of carriage and use of strengthening bags and top-side chafers)—
 
 - (a) paragraph (1) shall be omitted;
 - (b) in paragraph (2) for the words “article 4(2) or (3)” there shall be substituted the words “article 4”.
 
-**8.**[^key-a6fcfa3df74e76aac5afed770ffe7a73] In the Schedule thereto (statistical sub-areas and divisions of the International Council for the Exploration of the Sea) there shall be inserted after the entry relating to ICES Statistical Sub-Area VI (Rockall and West of Scotland) the following entry—
+**8.**[^c-a6fcfa3df74e76aac5afed770ffe7a73] In the Schedule thereto (statistical sub-areas and divisions of the International Council for the Exploration of the Sea) there shall be inserted after the entry relating to ICES Statistical Sub-Area VI (Rockall and West of Scotland) the following entry—
 
 > **ICES Statistical Sub-Area VII (Irish Sea, West of Ireland and Porcupine Bank, South Coast of Ireland, Bristol Channel and English Channel)**
 >
@@ -165,13 +165,13 @@ This Order also makes some consequential and drafting changes.
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 15(3) was substituted by paragraph 38(3) of Schedule 1 to the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77) and amended by paragraph 16(1) of Schedule 2 to the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86); section 22(2)(a) which contains a definition of “the Ministers” for the purposes of sections 3 and 15(3) was amended by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), sections 19(2)(d) and 45(b).
 
-[^key-2240b081bfc628d7e714ede448476743]: Commencement: Art. 1 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-2240b081bfc628d7e714ede448476743]: Commencement: Art. 1 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
-[^key-6a2648f449b0fc54d7888ddc20608b9b]: Commencement: Art. 2 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-6a2648f449b0fc54d7888ddc20608b9b]: Commencement: Art. 2 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
 [^f00002]: Footnote: S.I. [1991/1380](https://www.legislation.gov.uk/uksi/1991/1380).
 
-[^key-865ac802986006d6ba0702fee607fd68]: Commencement: Art. 3 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-865ac802986006d6ba0702fee607fd68]: Commencement: Art. 3 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
 [^f00003]: Footnote: OJ No. L179, 9.7.88, p.1.
 
@@ -179,12 +179,12 @@ This Order also makes some consequential and drafting changes.
 
 [^f00005]: Footnote: OJ No. L42, 18.2.92, p.15.
 
-[^key-e06e995c2fde2d9640a98cedf1b71727]: Commencement: Art. 4 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-e06e995c2fde2d9640a98cedf1b71727]: Commencement: Art. 4 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
-[^key-099c6a767b073eabe4a82ae1ee73fae5]: Commencement: Art. 5 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-099c6a767b073eabe4a82ae1ee73fae5]: Commencement: Art. 5 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
-[^key-daa9bad242591e762534bec4de78a0da]: Commencement: Art. 6 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-daa9bad242591e762534bec4de78a0da]: Commencement: Art. 6 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
-[^key-4d5b287914b60eb9bf799b852fcce69e]: Commencement: Art. 7 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-4d5b287914b60eb9bf799b852fcce69e]: Commencement: Art. 7 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
 
-[^key-a6fcfa3df74e76aac5afed770ffe7a73]: Commencement: Art. 8 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)
+[^c-a6fcfa3df74e76aac5afed770ffe7a73]: Commencement: Art. 8 in force at 9.6.1992, see [art. 1](https://www.legislation.gov.uk/uksi/1992/1344/article/1)

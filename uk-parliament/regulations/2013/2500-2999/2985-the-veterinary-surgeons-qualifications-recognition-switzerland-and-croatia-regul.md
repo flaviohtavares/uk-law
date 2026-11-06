@@ -32,7 +32,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons’ Qualifications (Recognition) (Switzerland and Croatia) Regulations 2013 (revoked)[^key-37e5bb79a4f10201180e4407a089b6d3]
+The Veterinary Surgeons’ Qualifications (Recognition) (Switzerland and Croatia) Regulations 2013 (revoked)[^c-37e5bb79a4f10201180e4407a089b6d3]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 18th December 2013
 
-[^key-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-37e5bb79a4f10201180e4407a089b6d3]
+## 1. Citation and commencement[^c-37e5bb79a4f10201180e4407a089b6d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Veterinary Surgeons Act 1966[^key-37e5bb79a4f10201180e4407a089b6d3]
+## 2. Amendments of the Veterinary Surgeons Act 1966[^c-37e5bb79a4f10201180e4407a089b6d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37e5bb79a4f10201180e4407a089b6d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37e5bb79a4f10201180e4407a089b6d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2985) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-37e5bb79a4f10201180e4407a089b6d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2985) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

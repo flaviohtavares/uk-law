@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Assessment of quality of higher education[^key-da397c1e5f5c5015decca2babf7bbe1b][^key-135cac4ade2bc304bb3139603323f240][^key-1bae4bed48599813addcab9ba6ed8a41][^key-ffdcd3c38a333f3cc677ee4585fb844a]
+## 54. Assessment of quality of higher education[^c-da397c1e5f5c5015decca2babf7bbe1b][^c-135cac4ade2bc304bb3139603323f240][^c-1bae4bed48599813addcab9ba6ed8a41][^c-ffdcd3c38a333f3cc677ee4585fb844a]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ and references to a governing body in relation to an external provider that is n
 
 ## Annotations
 
-[^key-da397c1e5f5c5015decca2babf7bbe1b]: Commencement: S. 54 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-da397c1e5f5c5015decca2babf7bbe1b]: Commencement: S. 54 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-135cac4ade2bc304bb3139603323f240]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(aa)](https://www.legislation.gov.uk/wsi/2023/919/article/3/aa)
+[^c-135cac4ade2bc304bb3139603323f240]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(aa)](https://www.legislation.gov.uk/wsi/2023/919/article/3/aa)
 
-[^key-1bae4bed48599813addcab9ba6ed8a41]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(2)](https://www.legislation.gov.uk/wsi/2025/432/article/8/2) (with [art. 8(4)](https://www.legislation.gov.uk/wsi/2025/432/article/8/4)[(7)](https://www.legislation.gov.uk/wsi/2025/432/article/8/7))
+[^c-1bae4bed48599813addcab9ba6ed8a41]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 5.4.2025 for specified purposes by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 8(2)](https://www.legislation.gov.uk/wsi/2025/432/article/8/2) (with [art. 8(4)](https://www.legislation.gov.uk/wsi/2025/432/article/8/4)[(7)](https://www.legislation.gov.uk/wsi/2025/432/article/8/7))
 
-[^key-ffdcd3c38a333f3cc677ee4585fb844a]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 31.7.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 18(1)](https://www.legislation.gov.uk/wsi/2026/62/article/18/1) (with [art. 18(2)](https://www.legislation.gov.uk/wsi/2026/62/article/18/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/18/3))
+[^c-ffdcd3c38a333f3cc677ee4585fb844a]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2022/1/section/54) in force at 31.7.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 18(1)](https://www.legislation.gov.uk/wsi/2026/62/article/18/1) (with [art. 18(2)](https://www.legislation.gov.uk/wsi/2026/62/article/18/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/18/3))

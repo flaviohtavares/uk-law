@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — SPEED LIMITS[^key-650867c183a107fb3992a2a04509415e]
+## SCHEDULE 9 — SPEED LIMITS[^c-650867c183a107fb3992a2a04509415e]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 20
 
 ## Annotations
 
-[^key-650867c183a107fb3992a2a04509415e]: Commencement: Sch. 9 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-650867c183a107fb3992a2a04509415e]: Commencement: Sch. 9 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

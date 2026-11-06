@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Fees for grant of licences etc.[^key-a298ad0635fe3b1ffddd0453bb338426]
+## 52. Fees for grant of licences etc.[^c-a298ad0635fe3b1ffddd0453bb338426]
 
 *Extent: E+W+S*
 
 (1)[^c2520131] Such fees, payable at such times, and whether in one sum or by instalments, as may be prescribed shall be charged—
 
-- (a) by a traffic commissioner[^key-859a12c043be55022c9946fe740d6118] in respect of—
+- (a) by a traffic commissioner[^c-859a12c043be55022c9946fe740d6118] in respect of—
   - (i) applications for, and the grant of, PSV operators’ licences [^c2520151]... ;
   - (ia)[^c2520161] applications under section 16(6) of this Act and the grant of such applications;
   - (ib) the continuation in force of PSV operators’ licences;
-  - (ii)[^c2520171] applications for certificates of initial fitness under section 6 of this Act which are required by regulations to be made to a traffic commissioner[^key-f00ed687f2125530f343cce689dd5ff6] and the issue of certificates on such applications;
+  - (ii)[^c2520171] applications for certificates of initial fitness under section 6 of this Act which are required by regulations to be made to a traffic commissioner[^c-f00ed687f2125530f343cce689dd5ff6] and the issue of certificates on such applications;
   - (iii) the issue of operators’ discs under section 18 of this Act;
   - (iv) applications for, and the issue of, certificates under section 21 of this Act as to repute, professional competence or financial standing; and
   - (v) applications for, and the issue of, documents required in relation to public service vehicles registered in Great Britain while making journeys to or from places outside Great Britain or in relation to public service vehicles registered outside Great Britain;
@@ -63,9 +63,9 @@ is not duly paid by the prescribed time, the licence terminates at that time.
 
 (2D) If any fee or instalment of a fee in respect of any operators’ discs that have been issued under section 18 of this Act is not duly paid by the prescribed time, the discs cease to have effect at that time.
 
-(2E) A traffic commissioner[^key-3d8465b6d2618d2d0b4f848777cd0550] may, if he considers there to be exceptional circumstances that justify his doing so in any case where subsection (2A), (2B), (2C) or (2D) above has applied, direct that as from the time mentioned in that subsection its effect in that case be disregarded.
+(2E) A traffic commissioner[^c-3d8465b6d2618d2d0b4f848777cd0550] may, if he considers there to be exceptional circumstances that justify his doing so in any case where subsection (2A), (2B), (2C) or (2D) above has applied, direct that as from the time mentioned in that subsection its effect in that case be disregarded.
 
-(2F) Where a traffic commissioner[^key-5d38d43067f68e4b994ad98cc0314d8d] has given a direction under subsection (2E) above in respect of a PSV operator’s licence in a case where subsection (2A) or (2C) above has applied, it shall not for the purposes of section 20(1) or (2) of this Act be regarded as having been practicable for the licence-holder to—
+(2F) Where a traffic commissioner[^c-5d38d43067f68e4b994ad98cc0314d8d] has given a direction under subsection (2E) above in respect of a PSV operator’s licence in a case where subsection (2A) or (2C) above has applied, it shall not for the purposes of section 20(1) or (2) of this Act be regarded as having been practicable for the licence-holder to—
 
 - (a) report any matter to the Secretary of State; or
 - (b) give him notice of any alteration,
@@ -78,11 +78,11 @@ during the period beginning with the time mentioned in subsection (2A) or (2C) a
 
 ## Annotations
 
-[^key-a298ad0635fe3b1ffddd0453bb338426]: Modification: S. 52: power to modify conferred by 1985 c. 67, s. 6J(9) (as inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 21](https://www.legislation.gov.uk/ukpga/2017/21/section/21), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3))
+[^c-a298ad0635fe3b1ffddd0453bb338426]: Modification: S. 52: power to modify conferred by 1985 c. 67, s. 6J(9) (as inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 21](https://www.legislation.gov.uk/ukpga/2017/21/section/21), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3))
 
 [^c2520131]: Modification: S. 52(1) extended by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 126(1)](https://www.legislation.gov.uk/ukpga/1985/67/section/126/1)
 
-[^key-859a12c043be55022c9946fe740d6118]: Textual amendment: Words in s. 52(1)(a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-859a12c043be55022c9946fe740d6118]: Textual amendment: Words in s. 52(1)(a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2520151]: Textual amendment: Words repealed by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/1/3), [139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1985/67/schedule/1/paragraph/7), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/67/schedule/8)
 
@@ -90,7 +90,7 @@ during the period beginning with the time mentioned in subsection (2A) or (2C) a
 
 [^c2520171]: Textual amendment: S. 52(1)(*a*)(ii)substituted (*prosp.*) by [Transport Act 1982 (c. 49, SIF 58, 107:1, 126)](https://www.legislation.gov.uk/ukpga/1982/49), [s. 74(1)](https://www.legislation.gov.uk/ukpga/1982/49/section/74/1), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/1982/49/schedule/5/paragraph/22)
 
-[^key-f00ed687f2125530f343cce689dd5ff6]: Textual amendment: Words in s. 52(1)(a)(ii) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-f00ed687f2125530f343cce689dd5ff6]: Textual amendment: Words in s. 52(1)(a)(ii) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2520181]: Textual amendment: S. 52(1)(b) repealed (1.4.1991) by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 16](https://www.legislation.gov.uk/ukpga/1989/22/section/16), [Sch. 6](https://www.legislation.gov.uk/ukpga/1989/22/schedule/6)
 
@@ -110,9 +110,9 @@ during the period beginning with the time mentioned in subsection (2A) or (2C) a
 
 [^c2520281]: Textual amendment: S. 52(2A)-(2F) inserted (1.1.1996) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 66(4)](https://www.legislation.gov.uk/ukpga/1994/40/section/66/4); [S.I. 1995/2835](https://www.legislation.gov.uk/uksi/1995/2835), [art. 2](https://www.legislation.gov.uk/uksi/1995/2835/article/2)
 
-[^key-3d8465b6d2618d2d0b4f848777cd0550]: Textual amendment: Words in s. 52(2E) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-3d8465b6d2618d2d0b4f848777cd0550]: Textual amendment: Words in s. 52(2E) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-5d38d43067f68e4b994ad98cc0314d8d]: Textual amendment: Words in s. 52(2F) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-5d38d43067f68e4b994ad98cc0314d8d]: Textual amendment: Words in s. 52(2F) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2520291]: Textual amendment: Words substituted by virtue of [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 3](https://www.legislation.gov.uk/ukpga/1985/67/section/3), [Sch. 2 Pt. II para. 4(14)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/2/part/II/paragraph/4/14)(*c*)
 

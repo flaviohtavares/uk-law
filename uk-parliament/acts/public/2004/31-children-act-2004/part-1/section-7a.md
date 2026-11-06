@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Advisory board[^key-9006b317de7649a093bebb9ba216ce98]
+## 7A. Advisory board[^c-9006b317de7649a093bebb9ba216ce98]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9006b317de7649a093bebb9ba216ce98]: Textual amendment: S. 7A inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 111](https://www.legislation.gov.uk/ukpga/2014/6/section/111), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-9006b317de7649a093bebb9ba216ce98]: Textual amendment: S. 7A inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 111](https://www.legislation.gov.uk/ukpga/2014/6/section/111), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

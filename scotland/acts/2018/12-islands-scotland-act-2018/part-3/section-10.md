@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Compliance with section 7 duty[^key-e4b14bc0de63bf26e83f4af6a07407f5]
+## 10. Compliance with section 7 duty[^c-e4b14bc0de63bf26e83f4af6a07407f5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ A relevant authority demonstrates compliance with the duty imposed by section 7â
 
 ## Annotations
 
-[^key-e4b14bc0de63bf26e83f4af6a07407f5]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/12/section/10) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-e4b14bc0de63bf26e83f4af6a07407f5]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/12/section/10) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

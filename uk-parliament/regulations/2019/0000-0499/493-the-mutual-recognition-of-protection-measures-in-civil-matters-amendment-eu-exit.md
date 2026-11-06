@@ -58,7 +58,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-016e6c2e54a73b9c3251744f5fa1a53f]
+### 1. Citation, commencement and extent[^c-016e6c2e54a73b9c3251744f5fa1a53f]
 
 (1) These Regulations may be cited as the Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -66,23 +66,23 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 (3) The amendments made by regulations 2 and 3 have the same extent as the provisions to which they relate.
 
-### 1A. Saving provision: application of Article 67 of the withdrawal agreement[^key-24bada168c6b18afebf385ada322a307][^M_I_badd7540-1781-4a62-9fb2-4bdce5db4eb2]
+### 1A. Saving provision: application of Article 67 of the withdrawal agreement[^c-24bada168c6b18afebf385ada322a307][^M_I_badd7540-1781-4a62-9fb2-4bdce5db4eb2]
 
 Nothing in these Regulations affects the application of paragraph 3(f) of Article 67 of the withdrawal agreement, and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Senior Courts Act 1981[^key-8925954dbcc892a6aa54e20d14a2dcad]
+### 2. Amendment of the Senior Courts Act 1981[^c-8925954dbcc892a6aa54e20d14a2dcad]
 
 In Schedule 1 to the Senior Courts Act 1981 [^c23632291], in paragraph 3(l) (distribution of business in High Court: Family Division), for “Member State other than the United Kingdom” substitute “ participating Member State (within the meaning of that Regulation) ”.
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 3. Amendment of the Family Court (Composition and Distribution of Business) Rules 2014[^key-813562e9717c7a78d727686f8c0a1160]
+### 3. Amendment of the Family Court (Composition and Distribution of Business) Rules 2014[^c-813562e9717c7a78d727686f8c0a1160]
 
 In rule 12A of the Family Court (Composition and Distribution of Business) Rules 2014 [^c23632301] (interpretation), in the definition of “incoming protection measure”, omit “the United Kingdom or”.
 
-### 4. Amendment of the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014[^key-eb72b21ee2e36e216a6d02e49f1a28da]
+### 4. Amendment of the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014[^c-eb72b21ee2e36e216a6d02e49f1a28da]
 
 In the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014 [^c23632311]—
 
@@ -91,7 +91,7 @@ In the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014 [
 
 ## PART 4 — Amendment of retained EU legislation
 
-### 5. Amendment of Regulation (EU) 606/2013[^key-25582fe6496047038d726bc0e0ac7097]
+### 5. Amendment of Regulation (EU) 606/2013[^c-25582fe6496047038d726bc0e0ac7097]
 
 (1) Regulation (EU) 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters is amended as follows.
 
@@ -217,24 +217,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23632281]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-016e6c2e54a73b9c3251744f5fa1a53f]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-016e6c2e54a73b9c3251744f5fa1a53f]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-24bada168c6b18afebf385ada322a307]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)
+[^c-24bada168c6b18afebf385ada322a307]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)
 
 [^M_I_badd7540-1781-4a62-9fb2-4bdce5db4eb2]: Commencement: Reg. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8925954dbcc892a6aa54e20d14a2dcad]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-8925954dbcc892a6aa54e20d14a2dcad]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23632291]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). Paragraph 3(l) was inserted by [S.I. 2014/3298](https://www.legislation.gov.uk/uksi/2014/3298). There are other amendments to Schedule 1, but none is relevant to this instrument.
 
-[^key-813562e9717c7a78d727686f8c0a1160]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-813562e9717c7a78d727686f8c0a1160]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23632301]: Marginal citation: [S.I. 2014/840](https://www.legislation.gov.uk/uksi/2014/840), as amended by [S.I. 2014/3297](https://www.legislation.gov.uk/uksi/2014/3297). There are other amendments, but none is relevant to this instrument.
 
-[^key-eb72b21ee2e36e216a6d02e49f1a28da]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-eb72b21ee2e36e216a6d02e49f1a28da]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23632311]: Marginal citation: [S.I. 2014/3298](https://www.legislation.gov.uk/uksi/2014/3298).
 
-[^key-25582fe6496047038d726bc0e0ac7097]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-25582fe6496047038d726bc0e0ac7097]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23632321]: Marginal citation: OJ No L 181, 29.6.2013, p. 4.

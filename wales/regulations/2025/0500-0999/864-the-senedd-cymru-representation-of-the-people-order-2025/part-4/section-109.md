@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Jurisdiction[^key-f9c7d90ad5db318d20ee6cb23c993252]
+## 109. Jurisdiction[^c-f9c7d90ad5db318d20ee6cb23c993252]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c7d90ad5db318d20ee6cb23c993252]: Commencement: Art. 109 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f9c7d90ad5db318d20ee6cb23c993252]: Commencement: Art. 109 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -39,15 +39,15 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-dd32b16c2b61920f21fc29245a43db82]
+## 1. Citation[^c-dd32b16c2b61920f21fc29245a43db82]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 2) Order 2012.
 
-## 2. Interpretation[^key-ca65a42a9aab9e64a7a3c03ec1dd571d]
+## 2. Interpretation[^c-ca65a42a9aab9e64a7a3c03ec1dd571d]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-1e49f4b259e4113d7a85e2c0a8902493]
+## 3. Designation of schools[^c-1e49f4b259e4113d7a85e2c0a8902493]
 
 (1) The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
@@ -61,7 +61,7 @@ Department for Education
 
 31st August 2012
 
-## SCHEDULE — Schools having a religious character[^key-4916a038492695e5fb34d473bef8f590]
+## SCHEDULE — Schools having a religious character[^c-4916a038492695e5fb34d473bef8f590]
 
 Article 3
 
@@ -96,7 +96,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-072ea4a7f753f954780ef2ed46bfa088][^key-072ea4a7f753f954780ef2ed46bfa088]
+[^c-072ea4a7f753f954780ef2ed46bfa088][^c-072ea4a7f753f954780ef2ed46bfa088]
 
 EXPLANATORY NOTE
 
@@ -116,12 +116,12 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-dd32b16c2b61920f21fc29245a43db82]: Commencement: Art. 1 in force at made date
+[^c-dd32b16c2b61920f21fc29245a43db82]: Commencement: Art. 1 in force at made date
 
-[^key-ca65a42a9aab9e64a7a3c03ec1dd571d]: Commencement: Art. 2 in force at made date
+[^c-ca65a42a9aab9e64a7a3c03ec1dd571d]: Commencement: Art. 2 in force at made date
 
-[^key-1e49f4b259e4113d7a85e2c0a8902493]: Commencement: Art. 3 in force at made date
+[^c-1e49f4b259e4113d7a85e2c0a8902493]: Commencement: Art. 3 in force at made date
 
-[^key-4916a038492695e5fb34d473bef8f590]: Commencement: Sch. in force at made date
+[^c-4916a038492695e5fb34d473bef8f590]: Commencement: Sch. in force at made date
 
-[^key-072ea4a7f753f954780ef2ed46bfa088]: Textual amendment: Words in Sch. revoked (28.8.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2015 (S.I. 2015/1636)](https://www.legislation.gov.uk/uksi/2015/1636), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1636/schedule/2)
+[^c-072ea4a7f753f954780ef2ed46bfa088]: Textual amendment: Words in Sch. revoked (28.8.2015) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2015 (S.I. 2015/1636)](https://www.legislation.gov.uk/uksi/2015/1636), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1636/schedule/2)

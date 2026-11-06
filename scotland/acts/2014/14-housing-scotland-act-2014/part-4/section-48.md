@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Applications to First-tier Tribunal to enforce code of practice[^key-4ec165bdc84b66a7f808a5cfec703a51]
+## 48. Applications to First-tier Tribunal to enforce code of practice[^c-4ec165bdc84b66a7f808a5cfec703a51]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ec165bdc84b66a7f808a5cfec703a51]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/14/section/48) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-4ec165bdc84b66a7f808a5cfec703a51]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/14/section/48) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

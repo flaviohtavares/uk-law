@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Compensation for compulsory acquisition[^key-285fabe43818025234a450882e59c3cc][^key-49809893ead7880a7e8bb126df7dfb5e]
+## 67. Compensation for compulsory acquisition[^c-285fabe43818025234a450882e59c3cc][^c-49809893ead7880a7e8bb126df7dfb5e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-285fabe43818025234a450882e59c3cc]: Commencement: S. 67 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-285fabe43818025234a450882e59c3cc]: Commencement: S. 67 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-49809893ead7880a7e8bb126df7dfb5e]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2024/3/section/67) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-49809893ead7880a7e8bb126df7dfb5e]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2024/3/section/67) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

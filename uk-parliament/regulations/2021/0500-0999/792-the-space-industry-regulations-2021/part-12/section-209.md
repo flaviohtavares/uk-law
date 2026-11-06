@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Information about operator’s spaceflight activities carried out by the spaceflight operator[^key-b8c7157ad865c990ac85b1d6b70f4908]
+## 209. Information about operator’s spaceflight activities carried out by the spaceflight operator[^c-b8c7157ad865c990ac85b1d6b70f4908]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ in return for remuneration or other valuable consideration.
 
 ## Annotations
 
-[^key-b8c7157ad865c990ac85b1d6b70f4908]: Commencement: Reg. 209 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b8c7157ad865c990ac85b1d6b70f4908]: Commencement: Reg. 209 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

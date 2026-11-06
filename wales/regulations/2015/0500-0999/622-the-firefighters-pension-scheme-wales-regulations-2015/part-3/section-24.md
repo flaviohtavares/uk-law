@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Opting out before the end of the first three months[^key-eba216216c92e07019b3fdbf3f73e67b]
+## 24. Opting out before the end of the first three months[^c-eba216216c92e07019b3fdbf3f73e67b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eba216216c92e07019b3fdbf3f73e67b]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-eba216216c92e07019b3fdbf3f73e67b]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

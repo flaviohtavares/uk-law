@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46B. Labelling of certain POC investigational medicinal products[^key-04348250e8a50fb39db69e7d4ef41919]
+## 46B. Labelling of certain POC investigational medicinal products[^c-04348250e8a50fb39db69e7d4ef41919]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 46 does not apply to a POC investigational medicinal product that is 
 
 ## Annotations
 
-[^key-04348250e8a50fb39db69e7d4ef41919]: Textual amendment: Pt. 7 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32)
+[^c-04348250e8a50fb39db69e7d4ef41919]: Textual amendment: Pt. 7 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32)

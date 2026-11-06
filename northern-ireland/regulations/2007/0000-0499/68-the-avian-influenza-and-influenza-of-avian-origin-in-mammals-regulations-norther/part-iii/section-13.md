@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Measures to minimise the risk of the spread of avian influenza from suspect premises[^key-866f5080f62d3a47a760e9f5ca13ba84]
+## 13. Measures to minimise the risk of the spread of avian influenza from suspect premises[^c-866f5080f62d3a47a760e9f5ca13ba84]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ If the Department considers such a measure necessary to minimise the risk of the
 
 ## Annotations
 
-[^key-866f5080f62d3a47a760e9f5ca13ba84]: Commencement: Reg. 13 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-866f5080f62d3a47a760e9f5ca13ba84]: Commencement: Reg. 13 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

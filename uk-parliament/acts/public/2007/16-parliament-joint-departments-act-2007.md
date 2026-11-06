@@ -77,16 +77,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The Corporate Officers must ensure—
 
-- (a) that the pay of staff is kept broadly in line with pay in the statutory home civil service[^key-f21e5fca4106eaa49acbd1f71f6e0fe7] ;
+- (a) that the pay of staff is kept broadly in line with pay in the statutory home civil service[^c-f21e5fca4106eaa49acbd1f71f6e0fe7] ;
 - (b) that, so far as is consistent with the requirements of both Houses of Parliament, the other conditions of service of staff are kept broadly in line with those in the statutory home civil service ;
-- (c) that the pensions and similar benefits of existing and former staff are kept in line with the provisions, or provided under,[^key-320b20d11d0c584dce09cfeca8c79713] of the principal Civil Service Pension Scheme, as it applies for the time being to the statutory home civil service .
+- (c) that the pensions and similar benefits of existing and former staff are kept in line with the provisions, or provided under,[^c-320b20d11d0c584dce09cfeca8c79713] of the principal Civil Service Pension Scheme, as it applies for the time being to the statutory home civil service .
 
 (3) Subsection (2)(c) does not apply to existing or former staff if provision for pensions and similar benefits—
 
 - (a) was made for them under another scheme before they joined the joint department, and
 - (b) continues to be made under that scheme in respect of their service in that department.
 
-(4)[^key-a0e8dd51557d79a9de9283ab66f27f3a] The statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act).
+(4)[^c-a0e8dd51557d79a9de9283ab66f27f3a] The statutory home civil service” means the civil service (excluding Her Majesty's diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010 (see section 1(4) of that Act).
 
 ## 4. Staff transfers
 
@@ -199,8 +199,8 @@ Section 4
 
 ## Annotations
 
-[^key-f21e5fca4106eaa49acbd1f71f6e0fe7]: Textual amendment: Words in s. 3(2) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/17/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-f21e5fca4106eaa49acbd1f71f6e0fe7]: Textual amendment: Words in s. 3(2) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/17/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-320b20d11d0c584dce09cfeca8c79713]: Textual amendment: Words in s. 3(2)(c) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/30) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(f)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/f)
+[^c-320b20d11d0c584dce09cfeca8c79713]: Textual amendment: Words in s. 3(2)(c) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/30) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(f)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/f)
 
-[^key-a0e8dd51557d79a9de9283ab66f27f3a]: Textual amendment: S. 3(4) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/17/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-a0e8dd51557d79a9de9283ab66f27f3a]: Textual amendment: S. 3(4) inserted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/17/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

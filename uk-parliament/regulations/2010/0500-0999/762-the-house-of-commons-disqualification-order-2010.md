@@ -52,9 +52,9 @@ On 10th February 2010 it was resolved by the House of Commons that Schedule 1 to
 
 Accordingly, Her Majesty, in exercise of the power conferred by section 5(1) of that Act and in accordance with the resolution of the House of Commons, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-**1.**[^key-0cd59d5620714c7313f36034d24d978b] This Order may be cited as the House of Commons Disqualification Order 2010.
+**1.**[^c-0cd59d5620714c7313f36034d24d978b] This Order may be cited as the House of Commons Disqualification Order 2010.
 
-**2.**[^key-8f3ff5c27cd507bc2bc6be678e9162ea] Schedule 1 to the House of Commons Disqualification Act 1975 (offices the holders of which are disqualified for membership of the House of Commons) is amended in accordance with the Schedule to this Order.
+**2.**[^c-8f3ff5c27cd507bc2bc6be678e9162ea] Schedule 1 to the House of Commons Disqualification Act 1975 (offices the holders of which are disqualified for membership of the House of Commons) is amended in accordance with the Schedule to this Order.
 
 Judith Simpson
 
@@ -66,29 +66,29 @@ Article 2
 
 ### PART 1 OF SCHEDULE 1 — JUDICIAL OFFICES
 
-#### 1. Additional entry[^key-a4ad6acbfce65756727051a20a6c9bc4]
+#### 1. Additional entry[^c-a4ad6acbfce65756727051a20a6c9bc4]
 
 The following entry is inserted at the appropriate place—
 
 > - District judge (magistrates’ courts), or deputy district judge (magistrates’ courts), in Northern Ireland.
 
-#### 2. Entry repealed[^key-93fb733067b0e058bd5ca304c4833c80]
+#### 2. Entry repealed[^c-93fb733067b0e058bd5ca304c4833c80]
 
 The following entry is omitted—
 
 > - Resident Magistrate or Deputy Resident Magistrate appointed under the Magistrates’ Courts Act (Northern Ireland) 1964.
 
-#### 3. Other amendments[^key-4eece62e217609387d30f68deac40489]
+#### 3. Other amendments[^c-4eece62e217609387d30f68deac40489]
 
 In the entry beginning “Sheriff Principal or Sheriff”, for “Temporary Sheriff” (in the second place those words appear) there is substituted “part-time sheriff”.
 
-**4.**[^key-a03f66b0792f15a94723d3b4eaf980fb] In the entry beginning “Chief or other Child Support Commissioner for Northern Ireland”, for the words from “(excluding” to “1991)” there is substituted “or deputy Child Support Commissioner for Northern Ireland”.
+**4.**[^c-a03f66b0792f15a94723d3b4eaf980fb] In the entry beginning “Chief or other Child Support Commissioner for Northern Ireland”, for the words from “(excluding” to “1991)” there is substituted “or deputy Child Support Commissioner for Northern Ireland”.
 
-**5.**[^key-8c64eb18f80409c4e7b1f6b9291db173] In the entry beginning “Chief or other Social Security Commissioner for Northern Ireland”, for “(not including a deputy Commissioner)” there is substituted “or deputy Social Security Commissioner for Northern Ireland”.
+**5.**[^c-8c64eb18f80409c4e7b1f6b9291db173] In the entry beginning “Chief or other Social Security Commissioner for Northern Ireland”, for “(not including a deputy Commissioner)” there is substituted “or deputy Social Security Commissioner for Northern Ireland”.
 
 ### PART 2 OF SCHEDULE 1 — BODIES ALL OF WHOSE MEMBERS ARE DISQUALIFIED
 
-#### 6. Additional entries[^key-b751725e35218ef6ec082b963d8fa3d5]
+#### 6. Additional entries[^c-b751725e35218ef6ec082b963d8fa3d5]
 
 The following entries are inserted at the appropriate places—
 
@@ -121,7 +121,7 @@ The following entries are inserted at the appropriate places—
 > - The Trustees of the National Heritage Memorial Fund.
 > - The United Kingdom Sports Council.
 
-#### 7. Entries repealed[^key-80243e32a592e57ed397bb0680e4ebb9]
+#### 7. Entries repealed[^c-80243e32a592e57ed397bb0680e4ebb9]
 
 The following entries are omitted—
 
@@ -156,15 +156,15 @@ The following entries are omitted—
 > - The Wales Centre for Health.
 > - The West of Scotland Water Authority.
 
-#### 8. Other amendments[^key-494aea0abc847d6f6b7895258bdd9552]
+#### 8. Other amendments[^c-494aea0abc847d6f6b7895258bdd9552]
 
 In the entry beginning “A Joint Planning Inquiry Commission”, for “1972” there is substituted “1997”.
 
-**9.**[^key-09d38f41f1ed84023ce710bd73a91f3f] For the entry “A Mental Health Review Tribunal constituted or having effect as if constituted under the Mental Health Act 1983” there is substituted “The Mental Health Review Tribunal for Wales”.
+**9.**[^c-09d38f41f1ed84023ce710bd73a91f3f] For the entry “A Mental Health Review Tribunal constituted or having effect as if constituted under the Mental Health Act 1983” there is substituted “The Mental Health Review Tribunal for Wales”.
 
 ### PART 3 OF SCHEDULE 1 — OTHER DISQUALIFYING OFFICES
 
-#### 10. Additional entries[^key-2227b964ff87a905e146993a9de9555d]
+#### 10. Additional entries[^c-2227b964ff87a905e146993a9de9555d]
 
 The following entries are inserted at the appropriate places—
 
@@ -249,7 +249,7 @@ The following entries are inserted at the appropriate places—
 > - Service Complaints Commissioner.
 > - Trustee of the Independent Living Fund (2006).
 
-#### 11. Entries repealed[^key-cbe6ac03857579cc72014b5b6b88ba57]
+#### 11. Entries repealed[^c-cbe6ac03857579cc72014b5b6b88ba57]
 
 The following entries are omitted—
 
@@ -319,33 +319,33 @@ The following entries are omitted—
 > - Traffic Director for London.
 > - The Water Industry Commissioner for Scotland.
 
-#### 12. Other amendments[^key-db0a73a0dcb07d1bc268833556b246d7]
+#### 12. Other amendments[^c-db0a73a0dcb07d1bc268833556b246d7]
 
 For the entry “Adjudicator for the Inland Revenue, Customs and Excise and the Contributions Agency” there is substituted “Adjudicator appointed by the Commissioners for Her Majesty’s Revenue and Customs”.
 
-**13.**[^key-59e39c629feb8a21bd58e2c2bd2c0c9c] In the entry “Chairman or Medical Director of the Advisory Committee on Distinction Awards”, for “Distinction” there is substituted “Clinical Excellence”.
+**13.**[^c-59e39c629feb8a21bd58e2c2bd2c0c9c] In the entry “Chairman or Medical Director of the Advisory Committee on Distinction Awards”, for “Distinction” there is substituted “Clinical Excellence”.
 
-**14.**[^key-ae6673c3025c37031b3516217f370625] For the entry “Chairman, or member in receipt of remuneration, of the Big Lottery Fund” there is substituted “Member of the Big Lottery Fund or of a committee established by the Fund under paragraph 7 of Schedule 4A to the National Lottery Act 1993”.
+**14.**[^c-ae6673c3025c37031b3516217f370625] For the entry “Chairman, or member in receipt of remuneration, of the Big Lottery Fund” there is substituted “Member of the Big Lottery Fund or of a committee established by the Fund under paragraph 7 of Schedule 4A to the National Lottery Act 1993”.
 
-**15.**[^key-f6db447f97360ce50aafe11dfa4b6e4e] In the entry “Chairman of the Distinction and Meritorious Service Awards Committee for Northern Ireland”, for “Distinction and Meritorious Service Awards Committee for Northern Ireland” there is substituted “Northern Ireland Clinical Excellence Awards Committee”.
+**15.**[^c-f6db447f97360ce50aafe11dfa4b6e4e] In the entry “Chairman of the Distinction and Meritorious Service Awards Committee for Northern Ireland”, for “Distinction and Meritorious Service Awards Committee for Northern Ireland” there is substituted “Northern Ireland Clinical Excellence Awards Committee”.
 
-**16.**[^key-20ee7f69b40d87225014c3406acfc6f3] In the entry “Chairman or any member, not also being an employee, of a Health Board constituted under the National Health Service (Scotland) Act 1978”, after “Health Board” there is inserted “or a Special Health Board”.
+**16.**[^c-20ee7f69b40d87225014c3406acfc6f3] In the entry “Chairman or any member, not also being an employee, of a Health Board constituted under the National Health Service (Scotland) Act 1978”, after “Health Board” there is inserted “or a Special Health Board”.
 
-**17.**[^key-5c87ca1e97f7fece7d20cebfc6164d0a] In the entry beginning “Chairman or non-executive director of a Health and Social Services trust”, for “Social Services trust” there is substituted “Social Care trust”.
+**17.**[^c-5c87ca1e97f7fece7d20cebfc6164d0a] In the entry beginning “Chairman or non-executive director of a Health and Social Services trust”, for “Social Services trust” there is substituted “Social Care trust”.
 
-**18.**[^key-542031514f39d3ffc980296bc5e8aa66] In the entry beginning “Chairman or non-executive member of a National Health Service trust”, for the words from “the National Health Service (Wales)” to the end substitute “or the National Health Service (Wales) Act 2006”.
+**18.**[^c-542031514f39d3ffc980296bc5e8aa66] In the entry beginning “Chairman or non-executive member of a National Health Service trust”, for the words from “the National Health Service (Wales)” to the end substitute “or the National Health Service (Wales) Act 2006”.
 
-**19.**[^key-02f5bfdac04589c4a47b35e6d4530ab8] In the entry “Chairman or Vice-Chairman of the Scottish Sports Council”, the words “or Vice-Chairman” are omitted.
+**19.**[^c-02f5bfdac04589c4a47b35e6d4530ab8] In the entry “Chairman or Vice-Chairman of the Scottish Sports Council”, the words “or Vice-Chairman” are omitted.
 
-**20.**[^key-75c3fea3a71909e1d7587bcf26f3d8d7] In the entry beginning “Chairman of a special health and social services agency”, for “services agency” there is substituted “care agency”.
+**20.**[^c-75c3fea3a71909e1d7587bcf26f3d8d7] In the entry beginning “Chairman of a special health and social services agency”, for “services agency” there is substituted “care agency”.
 
-**21.**[^key-b51bbd6563520b8824e1c7874ca494f5] In the entry “Chief executive of the Simpler Trade Procedures Board”, for “the Simpler Trade Procedures Board” there is substituted “SITPRO Limited”.
+**21.**[^c-b51bbd6563520b8824e1c7874ca494f5] In the entry “Chief executive of the Simpler Trade Procedures Board”, for “the Simpler Trade Procedures Board” there is substituted “SITPRO Limited”.
 
-**22.**[^key-26b3887dd358c52e9eb3be08c35a6973] In the entry “Director of British Nuclear Fuels p.l.c.”, for “p.l.c.” there is substituted “Limited”.
+**22.**[^c-26b3887dd358c52e9eb3be08c35a6973] In the entry “Director of British Nuclear Fuels p.l.c.”, for “p.l.c.” there is substituted “Limited”.
 
-**23.**[^key-f50b29c2d32c9e1b8e923c570767c9b5] In the entry beginning “Director of any company in receipt of financial assistance”, the words “the Local Employment Act 1972, Part II of the Industry Act 1972 or” are omitted.
+**23.**[^c-f50b29c2d32c9e1b8e923c570767c9b5] In the entry beginning “Director of any company in receipt of financial assistance”, the words “the Local Employment Act 1972, Part II of the Industry Act 1972 or” are omitted.
 
-**24.**[^key-9dfafd2ba46c6e7fb8f6077e4646944a] In the entry
+**24.**[^c-9dfafd2ba46c6e7fb8f6077e4646944a] In the entry
 
 > Director of a company—
 >
@@ -358,21 +358,21 @@ For the entry “Adjudicator for the Inland Revenue, Customs and Excise and the 
 
 paragraph (b) is omitted (together with the word “or” preceding it).
 
-**25.**[^key-b1ba902b6c5affd47c60dc8ce7ded0b3] In the entry beginning “The Governor or Administrator”, for “dependent” there is substituted “overseas”.
+**25.**[^c-b1ba902b6c5affd47c60dc8ce7ded0b3] In the entry beginning “The Governor or Administrator”, for “dependent” there is substituted “overseas”.
 
-**26.**[^key-9cdb6c5c66c698be07c0c9ae66de1b03] In the entry beginning “Governor, Medical Officer or other officer”, the words “, Medical Officer” are omitted.
+**26.**[^c-9cdb6c5c66c698be07c0c9ae66de1b03] In the entry beginning “Governor, Medical Officer or other officer”, the words “, Medical Officer” are omitted.
 
-**27.**[^key-d49952359c6c5cf24d56e25324d74e05] For the entry “Her Majesty’s Chief Inspector of Schools in Wales” there is substituted “Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru”.
+**27.**[^c-d49952359c6c5cf24d56e25324d74e05] For the entry “Her Majesty’s Chief Inspector of Schools in Wales” there is substituted “Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru”.
 
-**28.**[^key-2481d91544252762e309a48d04ec95e2] In the entry “Member of the Rail Passengers’ Council in receipt of remuneration”, the word “Rail” is omitted.
+**28.**[^c-2481d91544252762e309a48d04ec95e2] In the entry “Member of the Rail Passengers’ Council in receipt of remuneration”, the word “Rail” is omitted.
 
-**29.**[^key-7db86fbe2f902cf0f757d421512763ab] In the entry “Member appointed by the Secretary of State of the Scottish Agricultural Wages Board”, for “Secretary of State” there is substituted “Scottish Ministers”.
+**29.**[^c-7db86fbe2f902cf0f757d421512763ab] In the entry “Member appointed by the Secretary of State of the Scottish Agricultural Wages Board”, for “Secretary of State” there is substituted “Scottish Ministers”.
 
-**30.**[^key-31e88d2a4892f0bcab42768e2f425b89] In the entry beginning “Member of the panel of persons appointed under Schedule 4 to the Rent (Scotland) Act 1984”, for “Member” there is substituted “President or vice-president”.
+**30.**[^c-31e88d2a4892f0bcab42768e2f425b89] In the entry beginning “Member of the panel of persons appointed under Schedule 4 to the Rent (Scotland) Act 1984”, for “Member” there is substituted “President or vice-president”.
 
-**31.**[^key-7ef4798a6a8c68c966b59f172848d5ec] In the entry “Registration Officer appointed under section 8(2) or (3) of the Representation of the People Act 1983”, after “8(2)” there is inserted “, (2A)”.
+**31.**[^c-7ef4798a6a8c68c966b59f172848d5ec] In the entry “Registration Officer appointed under section 8(2) or (3) of the Representation of the People Act 1983”, after “8(2)” there is inserted “, (2A)”.
 
-**32.**[^key-b8fab194d09f8df34e4e23232e951439] Any entry in Part 3 which is amended by this Order shall (if necessary) be moved to the appropriate place.
+**32.**[^c-b8fab194d09f8df34e4e23232e951439] Any entry in Part 3 which is amended by this Order shall (if necessary) be moved to the appropriate place.
 
 EXPLANATORY NOTE
 
@@ -384,70 +384,70 @@ This Order amends the lists of offices which disqualify holders from membership 
 
 [^f00001]: Footnote: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^key-0cd59d5620714c7313f36034d24d978b]: Commencement: Art. 1 in force at made date
+[^c-0cd59d5620714c7313f36034d24d978b]: Commencement: Art. 1 in force at made date
 
-[^key-8f3ff5c27cd507bc2bc6be678e9162ea]: Commencement: Art. 2 in force at made date
+[^c-8f3ff5c27cd507bc2bc6be678e9162ea]: Commencement: Art. 2 in force at made date
 
-[^key-a4ad6acbfce65756727051a20a6c9bc4]: Commencement: Sch. para. 1 in force at made date
+[^c-a4ad6acbfce65756727051a20a6c9bc4]: Commencement: Sch. para. 1 in force at made date
 
-[^key-93fb733067b0e058bd5ca304c4833c80]: Commencement: Sch. para. 2 in force at made date
+[^c-93fb733067b0e058bd5ca304c4833c80]: Commencement: Sch. para. 2 in force at made date
 
-[^key-4eece62e217609387d30f68deac40489]: Commencement: Sch. para. 3 in force at made date
+[^c-4eece62e217609387d30f68deac40489]: Commencement: Sch. para. 3 in force at made date
 
-[^key-a03f66b0792f15a94723d3b4eaf980fb]: Commencement: Sch. para. 4 in force at made date
+[^c-a03f66b0792f15a94723d3b4eaf980fb]: Commencement: Sch. para. 4 in force at made date
 
-[^key-8c64eb18f80409c4e7b1f6b9291db173]: Commencement: Sch. para. 5 in force at made date
+[^c-8c64eb18f80409c4e7b1f6b9291db173]: Commencement: Sch. para. 5 in force at made date
 
-[^key-b751725e35218ef6ec082b963d8fa3d5]: Commencement: Sch. para. 6 in force at made date
+[^c-b751725e35218ef6ec082b963d8fa3d5]: Commencement: Sch. para. 6 in force at made date
 
-[^key-80243e32a592e57ed397bb0680e4ebb9]: Commencement: Sch. para. 7 in force at made date
+[^c-80243e32a592e57ed397bb0680e4ebb9]: Commencement: Sch. para. 7 in force at made date
 
-[^key-494aea0abc847d6f6b7895258bdd9552]: Commencement: Sch. para. 8 in force at made date
+[^c-494aea0abc847d6f6b7895258bdd9552]: Commencement: Sch. para. 8 in force at made date
 
-[^key-09d38f41f1ed84023ce710bd73a91f3f]: Commencement: Sch. para. 9 in force at made date
+[^c-09d38f41f1ed84023ce710bd73a91f3f]: Commencement: Sch. para. 9 in force at made date
 
-[^key-2227b964ff87a905e146993a9de9555d]: Commencement: Sch. para. 10 in force at made date
+[^c-2227b964ff87a905e146993a9de9555d]: Commencement: Sch. para. 10 in force at made date
 
-[^key-cbe6ac03857579cc72014b5b6b88ba57]: Commencement: Sch. para. 11 in force at made date
+[^c-cbe6ac03857579cc72014b5b6b88ba57]: Commencement: Sch. para. 11 in force at made date
 
-[^key-db0a73a0dcb07d1bc268833556b246d7]: Commencement: Sch. para. 12 in force at made date
+[^c-db0a73a0dcb07d1bc268833556b246d7]: Commencement: Sch. para. 12 in force at made date
 
-[^key-59e39c629feb8a21bd58e2c2bd2c0c9c]: Commencement: Sch. para. 13 in force at made date
+[^c-59e39c629feb8a21bd58e2c2bd2c0c9c]: Commencement: Sch. para. 13 in force at made date
 
-[^key-ae6673c3025c37031b3516217f370625]: Commencement: Sch. para. 14 in force at made date
+[^c-ae6673c3025c37031b3516217f370625]: Commencement: Sch. para. 14 in force at made date
 
-[^key-f6db447f97360ce50aafe11dfa4b6e4e]: Commencement: Sch. para. 15 in force at made date
+[^c-f6db447f97360ce50aafe11dfa4b6e4e]: Commencement: Sch. para. 15 in force at made date
 
-[^key-20ee7f69b40d87225014c3406acfc6f3]: Commencement: Sch. para. 16 in force at made date
+[^c-20ee7f69b40d87225014c3406acfc6f3]: Commencement: Sch. para. 16 in force at made date
 
-[^key-5c87ca1e97f7fece7d20cebfc6164d0a]: Commencement: Sch. para. 17 in force at made date
+[^c-5c87ca1e97f7fece7d20cebfc6164d0a]: Commencement: Sch. para. 17 in force at made date
 
-[^key-542031514f39d3ffc980296bc5e8aa66]: Commencement: Sch. para. 18 in force at made date
+[^c-542031514f39d3ffc980296bc5e8aa66]: Commencement: Sch. para. 18 in force at made date
 
-[^key-02f5bfdac04589c4a47b35e6d4530ab8]: Commencement: Sch. para. 19 in force at made date
+[^c-02f5bfdac04589c4a47b35e6d4530ab8]: Commencement: Sch. para. 19 in force at made date
 
-[^key-75c3fea3a71909e1d7587bcf26f3d8d7]: Commencement: Sch. para. 20 in force at made date
+[^c-75c3fea3a71909e1d7587bcf26f3d8d7]: Commencement: Sch. para. 20 in force at made date
 
-[^key-b51bbd6563520b8824e1c7874ca494f5]: Commencement: Sch. para. 21 in force at made date
+[^c-b51bbd6563520b8824e1c7874ca494f5]: Commencement: Sch. para. 21 in force at made date
 
-[^key-26b3887dd358c52e9eb3be08c35a6973]: Commencement: Sch. para. 22 in force at made date
+[^c-26b3887dd358c52e9eb3be08c35a6973]: Commencement: Sch. para. 22 in force at made date
 
-[^key-f50b29c2d32c9e1b8e923c570767c9b5]: Commencement: Sch. para. 23 in force at made date
+[^c-f50b29c2d32c9e1b8e923c570767c9b5]: Commencement: Sch. para. 23 in force at made date
 
-[^key-9dfafd2ba46c6e7fb8f6077e4646944a]: Commencement: Sch. para. 24 in force at made date
+[^c-9dfafd2ba46c6e7fb8f6077e4646944a]: Commencement: Sch. para. 24 in force at made date
 
-[^key-b1ba902b6c5affd47c60dc8ce7ded0b3]: Commencement: Sch. para. 25 in force at made date
+[^c-b1ba902b6c5affd47c60dc8ce7ded0b3]: Commencement: Sch. para. 25 in force at made date
 
-[^key-9cdb6c5c66c698be07c0c9ae66de1b03]: Commencement: Sch. para. 26 in force at made date
+[^c-9cdb6c5c66c698be07c0c9ae66de1b03]: Commencement: Sch. para. 26 in force at made date
 
-[^key-d49952359c6c5cf24d56e25324d74e05]: Commencement: Sch. para. 27 in force at made date
+[^c-d49952359c6c5cf24d56e25324d74e05]: Commencement: Sch. para. 27 in force at made date
 
-[^key-2481d91544252762e309a48d04ec95e2]: Commencement: Sch. para. 28 in force at made date
+[^c-2481d91544252762e309a48d04ec95e2]: Commencement: Sch. para. 28 in force at made date
 
-[^key-7db86fbe2f902cf0f757d421512763ab]: Commencement: Sch. para. 29 in force at made date
+[^c-7db86fbe2f902cf0f757d421512763ab]: Commencement: Sch. para. 29 in force at made date
 
-[^key-31e88d2a4892f0bcab42768e2f425b89]: Commencement: Sch. para. 30 in force at made date
+[^c-31e88d2a4892f0bcab42768e2f425b89]: Commencement: Sch. para. 30 in force at made date
 
-[^key-7ef4798a6a8c68c966b59f172848d5ec]: Commencement: Sch. para. 31 in force at made date
+[^c-7ef4798a6a8c68c966b59f172848d5ec]: Commencement: Sch. para. 31 in force at made date
 
-[^key-b8fab194d09f8df34e4e23232e951439]: Commencement: Sch. para. 32 in force at made date
+[^c-b8fab194d09f8df34e4e23232e951439]: Commencement: Sch. para. 32 in force at made date

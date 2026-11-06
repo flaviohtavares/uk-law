@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.2. Notice of intention to resign[^key-87f50bdb2db3cdbe54f784e583465ce2]
+## 6.2. Notice of intention to resign[^c-87f50bdb2db3cdbe54f784e583465ce2]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87f50bdb2db3cdbe54f784e583465ce2]: Commencement: Rule 6.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-87f50bdb2db3cdbe54f784e583465ce2]: Commencement: Rule 6.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

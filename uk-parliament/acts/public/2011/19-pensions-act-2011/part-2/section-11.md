@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Test scheme standard for schemes that produce sum of money for provision of benefits[^c2114365][^key-c56a62783221d8f19bfe90d95439f7a5]
+## 11. Test scheme standard for schemes that produce sum of money for provision of benefits[^c2114365][^c-c56a62783221d8f19bfe90d95439f7a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c2114365]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-c56a62783221d8f19bfe90d95439f7a5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/19/section/11) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/c)
+[^c-c56a62783221d8f19bfe90d95439f7a5]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/19/section/11) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/c)

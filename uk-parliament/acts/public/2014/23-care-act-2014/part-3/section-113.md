@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Approval of research[^key-25ea9d5ef79f2dd2e912afc4127f1926]
+## 113. Approval of research[^c-25ea9d5ef79f2dd2e912afc4127f1926]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25ea9d5ef79f2dd2e912afc4127f1926]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2014/23/section/113) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/e)
+[^c-25ea9d5ef79f2dd2e912afc4127f1926]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2014/23/section/113) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/e)

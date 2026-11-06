@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-b379948ba1fe2cd540cf2d972e2c57a0]
+## 1. Citation, commencement and extent[^c-b379948ba1fe2cd540cf2d972e2c57a0]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ These Regulations—
 
 ## Annotations
 
-[^key-b379948ba1fe2cd540cf2d972e2c57a0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-b379948ba1fe2cd540cf2d972e2c57a0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

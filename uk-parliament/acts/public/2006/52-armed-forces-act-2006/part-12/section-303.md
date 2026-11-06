@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. Power of service policeman to arrest person unlawfully at large[^key-b7d2e74ed082a0f2a806c1eb56a5ceda][^key-59e24d9f7bfffc35388f47e1b4ef2d74]
+## 303. Power of service policeman to arrest person unlawfully at large[^c-b7d2e74ed082a0f2a806c1eb56a5ceda][^c-59e24d9f7bfffc35388f47e1b4ef2d74]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d2e74ed082a0f2a806c1eb56a5ceda]: Commencement: S. 303 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b7d2e74ed082a0f2a806c1eb56a5ceda]: Commencement: S. 303 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-59e24d9f7bfffc35388f47e1b4ef2d74]: Commencement: S. 303 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-59e24d9f7bfffc35388f47e1b4ef2d74]: Commencement: S. 303 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Requirements in relation to monitoring and improvement[^key-83d7c5453a7639c2a2bab81cfce71542]
+## 5. Requirements in relation to monitoring and improvement[^c-83d7c5453a7639c2a2bab81cfce71542]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ on the quality of the service and how this can be improved.
 
 ## Annotations
 
-[^key-83d7c5453a7639c2a2bab81cfce71542]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/169/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-83d7c5453a7639c2a2bab81cfce71542]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/169/regulation/5) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

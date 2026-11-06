@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Local authority's duty to provide information to Principal Reporter[^key-00700a1e9b7b5bc0b707aab137b1d7db]
+## 60. Local authority's duty to provide information to Principal Reporter[^c-00700a1e9b7b5bc0b707aab137b1d7db]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00700a1e9b7b5bc0b707aab137b1d7db]: Commencement: S. 60 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-00700a1e9b7b5bc0b707aab137b1d7db]: Commencement: S. 60 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

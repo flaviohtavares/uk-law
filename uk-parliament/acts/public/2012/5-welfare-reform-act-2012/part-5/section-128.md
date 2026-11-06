@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Information-sharing between Secretary of State and DPP[^key-d692c2244b4859e8ef82e279bd2ebfc6]
+## 128. Information-sharing between Secretary of State and DPP[^c-d692c2244b4859e8ef82e279bd2ebfc6]
 
 *Extent: E+W*
 
-(1) The Secretary of State may supply social security information or child support information[^key-72ace00d9012cb82634ad495468de4dc] to a person specified in subsection (2) for use for a purpose specified in subsection (3).
+(1) The Secretary of State may supply social security information or child support information[^c-72ace00d9012cb82634ad495468de4dc] to a person specified in subsection (2) for use for a purpose specified in subsection (3).
 
 (2) The persons referred to in subsection (1) are—
 
@@ -29,9 +29,9 @@ summary: ''
 
 (3) The purposes referred to in subsection (1) are—
 
-- (a) the institution or conduct of criminal proceedings which relate wholly or partly to social security matters or child support[^key-76644157d7bc2ea3b434eadcdac7aa84];
+- (a) the institution or conduct of criminal proceedings which relate wholly or partly to social security matters or child support[^c-76644157d7bc2ea3b434eadcdac7aa84];
 - (b) the giving of advice to any person on any matter relating to criminal proceedings, or criminal offences, which relate wholly or partly to social security matters or child support;
-- (c) the exercise in relation to social security matters or child support[^key-0724c9865f4fa37daec0c1d1dc39e724] of functions assigned to the Director of Public Prosecutions under section 3(2)(g) of the Prosecution of Offences Act 1985;
+- (c) the exercise in relation to social security matters or child support[^c-0724c9865f4fa37daec0c1d1dc39e724] of functions assigned to the Director of Public Prosecutions under section 3(2)(g) of the Prosecution of Offences Act 1985;
 - (d) the exercise of functions of the Director of Public Prosecutions under Part 2, 5 or 8 of the Proceeds of Crime Act 2002.
 
 (4) The reference in subsection (1) to the Secretary of State includes a person providing services to the Secretary of State.
@@ -40,7 +40,7 @@ summary: ''
 
 (6) In this section—
 
-- “child support information” means information held for the purposes of any of the Secretary of State’s functions relating to child support;[^key-89be951fc953f150f73f5ac32dd1ad32]
+- “child support information” means information held for the purposes of any of the Secretary of State’s functions relating to child support;[^c-89be951fc953f150f73f5ac32dd1ad32]
 - “**social security information**” means information held for the purposes of any of the Secretary of State's functions relating to social security matters;
 - “**social security matters**” means—
   - (a) social security (including the payments and allowances referred to in section 127(8)),
@@ -49,12 +49,12 @@ summary: ''
 
 ## Annotations
 
-[^key-d692c2244b4859e8ef82e279bd2ebfc6]: Commencement: S. 128 in force at 20.3.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/d)
+[^c-d692c2244b4859e8ef82e279bd2ebfc6]: Commencement: S. 128 in force at 20.3.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2012/863/article/2/1/d)
 
-[^key-72ace00d9012cb82634ad495468de4dc]: Textual amendment: Words in s. 128(1) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/2)
+[^c-72ace00d9012cb82634ad495468de4dc]: Textual amendment: Words in s. 128(1) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/2)
 
-[^key-76644157d7bc2ea3b434eadcdac7aa84]: Textual amendment: Words in s. 128(3)(a)(b) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/3)
+[^c-76644157d7bc2ea3b434eadcdac7aa84]: Textual amendment: Words in s. 128(3)(a)(b) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/3)
 
-[^key-0724c9865f4fa37daec0c1d1dc39e724]: Textual amendment: Words in s. 128(3)(c) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/3)
+[^c-0724c9865f4fa37daec0c1d1dc39e724]: Textual amendment: Words in s. 128(3)(c) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/3)
 
-[^key-89be951fc953f150f73f5ac32dd1ad32]: Textual amendment: Words in s. 128(6) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/4)
+[^c-89be951fc953f150f73f5ac32dd1ad32]: Textual amendment: Words in s. 128(6) inserted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 103(4)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/103/4)

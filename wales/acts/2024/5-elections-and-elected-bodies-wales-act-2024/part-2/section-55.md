@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Transitional provision[^key-7751dcfd0988ccd86ee66b5859ae45f9]
+## 55. Transitional provision[^c-7751dcfd0988ccd86ee66b5859ae45f9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7751dcfd0988ccd86ee66b5859ae45f9]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2024/5/section/55) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-7751dcfd0988ccd86ee66b5859ae45f9]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2024/5/section/55) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

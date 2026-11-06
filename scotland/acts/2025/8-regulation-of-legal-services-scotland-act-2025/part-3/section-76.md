@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Restriction on disclosure of information: relevant professional organisations[^key-1acc24e8e85d4eb4cda4b0db1998de7b]
+## 76. Restriction on disclosure of information: relevant professional organisations[^c-1acc24e8e85d4eb4cda4b0db1998de7b]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1acc24e8e85d4eb4cda4b0db1998de7b]: Commencement: S. 76 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-1acc24e8e85d4eb4cda4b0db1998de7b]: Commencement: S. 76 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

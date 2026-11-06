@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Validation by authorised providers[^key-625d33528de9d213b894b43850816f35]
+## 50. Validation by authorised providers[^c-625d33528de9d213b894b43850816f35]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-625d33528de9d213b894b43850816f35]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2017/29/section/50) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/e)
+[^c-625d33528de9d213b894b43850816f35]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2017/29/section/50) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/e)

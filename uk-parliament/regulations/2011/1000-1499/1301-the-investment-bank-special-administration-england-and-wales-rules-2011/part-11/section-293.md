@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 293. Proof of sending[^key-56bce9097aee234338c700796155d649]
+## 293. Proof of sending[^c-56bce9097aee234338c700796155d649]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56bce9097aee234338c700796155d649]: Commencement: [Rule 293](https://www.legislation.gov.uk/uksi/2011/1301/rule/293) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-56bce9097aee234338c700796155d649]: Commencement: [Rule 293](https://www.legislation.gov.uk/uksi/2011/1301/rule/293) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

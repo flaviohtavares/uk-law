@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Bus service registration and traffic commissioners[^key-57f9fabc8230ffaa9c55fbbc104b5a5d]
+## 27. Bus service registration and traffic commissioners[^c-57f9fabc8230ffaa9c55fbbc104b5a5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57f9fabc8230ffaa9c55fbbc104b5a5d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/4/section/27) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)
+[^c-57f9fabc8230ffaa9c55fbbc104b5a5d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/4/section/27) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/f)

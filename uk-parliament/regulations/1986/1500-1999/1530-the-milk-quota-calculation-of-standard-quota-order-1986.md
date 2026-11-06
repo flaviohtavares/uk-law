@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Milk Quota (Calculation of Standard Quota) Order 1986 (revoked)[^key-8138969df24ba57fe393a6a081f06aa9]
+The Milk Quota (Calculation of Standard Quota) Order 1986 (revoked)[^c-8138969df24ba57fe393a6a081f06aa9]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into Operation
 
 25th September 1986
 
-[^key-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Application, title and commencement[^key-8138969df24ba57fe393a6a081f06aa9]
+## 1. Application, title and commencement[^c-8138969df24ba57fe393a6a081f06aa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8138969df24ba57fe393a6a081f06aa9]
+## 2. Interpretation[^c-8138969df24ba57fe393a6a081f06aa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed quota[^key-8138969df24ba57fe393a6a081f06aa9]
+## 3. Prescribed quota[^c-8138969df24ba57fe393a6a081f06aa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Average yield per hectare[^key-8138969df24ba57fe393a6a081f06aa9]
+## 4. Average yield per hectare[^c-8138969df24ba57fe393a6a081f06aa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8138969df24ba57fe393a6a081f06aa9]
+## SCHEDULE[^c-8138969df24ba57fe393a6a081f06aa9]
 
 Regulations 3 and 4
 
@@ -77,8 +77,8 @@ Regulations 3 and 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8138969df24ba57fe393a6a081f06aa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8138969df24ba57fe393a6a081f06aa9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1986/1530) revoked (11.7.2018) by [The Environment and Rural Affairs (Miscellaneous Revocations) Order 2018 (S.I. 2018/739)](https://www.legislation.gov.uk/uksi/2018/739), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/739/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/739/article/2/a)
+[^c-8138969df24ba57fe393a6a081f06aa9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1986/1530) revoked (11.7.2018) by [The Environment and Rural Affairs (Miscellaneous Revocations) Order 2018 (S.I. 2018/739)](https://www.legislation.gov.uk/uksi/2018/739), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/739/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/739/article/2/a)

@@ -48,7 +48,7 @@ and, as respects all such articles, in compliance with any directions given by t
   - (c) of white gold of a standard of fineness of not less than 585 and not more than 750[^c4448931], may be of a fineness not less than 500;
   - (ii) silver, is silver of a fineness not less than 650;
   - (iii) platinum, is gold, silver, platinum or palladium or a combination of two or more thereof and is of a fineness or (as the case may be) of a combined fineness not less than 950;
-  - (iv)[^key-72f5baf2b7b449b0c8a7a08d80d61b95] palladium, is gold, silver, platinum or palladium or a combination of two or more thereof and is of a fineness or (as the case may be) of a combined fineness not less than the standard of fineness of the article:
+  - (iv)[^c-72f5baf2b7b449b0c8a7a08d80d61b95] palladium, is gold, silver, platinum or palladium or a combination of two or more thereof and is of a fineness or (as the case may be) of a combined fineness not less than the standard of fineness of the article:
 
     Provided that solder used in any article of a standard of fineness of 950 or above may be of a fineness not less than 700; and
 - (c) solder of a fineness less than the standard of fineness of the article or adhesive[^c4448941] is used in a quantity not more than is necessary for joining parts of the article and is not used for strengthening, weighting, filling or otherwise.
@@ -85,7 +85,7 @@ the Council shall consider the case and, if they are of the opinion that the ass
 
 [^c4448931]: Textual amendment: Words substituted by [S.I. 1986/1757](https://www.legislation.gov.uk/uksi/1986/1757), [reg. 2](https://www.legislation.gov.uk/uksi/1986/1757/regulation/2)(*c*)
 
-[^key-72f5baf2b7b449b0c8a7a08d80d61b95]: Textual amendment: S. 4(3)(b)(iv) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/3)
+[^c-72f5baf2b7b449b0c8a7a08d80d61b95]: Textual amendment: S. 4(3)(b)(iv) inserted (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 1](https://www.legislation.gov.uk/uksi/2009/2040/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/2040/schedule/paragraph/3)
 
 [^c4448941]: Textual amendment: Words inserted by [S.I. 1986/1757](https://www.legislation.gov.uk/uksi/1986/1757), [reg. 2](https://www.legislation.gov.uk/uksi/1986/1757/regulation/2) (*d*)
 

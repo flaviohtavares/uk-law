@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**185.**[^key-9d283f67ace8c574d76f084afd729e84] In section 57[^f00183](direct payments)—
+**185.**[^c-9d283f67ace8c574d76f084afd729e84] In section 57[^f00183](direct payments)—
 
 - (a) in subsection (1)—
   - (i) for “subsection (2) or (2A)” substitute “subsection (2A)”;
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d283f67ace8c574d76f084afd729e84]: Commencement: Reg. 185 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9d283f67ace8c574d76f084afd729e84]: Commencement: Reg. 185 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00183]: Footnote: Section 57 was amended by the Schedule to [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914). Section 57(1) was amended by paragraphs 62, 65(1), (2)(a) and (b); subsections (2A) and (2B) were inserted by paragraphs 62, 65(1), (4); subsection (3) was amended by paragraphs 62, 65(1), (6).

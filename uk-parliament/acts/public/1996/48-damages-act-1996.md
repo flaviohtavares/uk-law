@@ -33,9 +33,9 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 \[24th July 1996\]
 
-[^c862681][^c862682]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0e35048590c72fd36af583136297f459]
+[^c862681][^c862682]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-0e35048590c72fd36af583136297f459]
 
-## A1. Assumed rate of return on investment of damages: England and Wales[^key-0185b97b4b1bbfb5eaac52534e86a323]
+## A1. Assumed rate of return on investment of damages: England and Wales[^c-0185b97b4b1bbfb5eaac52534e86a323]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (6) An order under this section is to be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## B1. Assumed rate of return on damages invested: Scotland[^key-074d895e8f728deda0bb8adc28818144]
+## B1. Assumed rate of return on damages invested: Scotland[^c-074d895e8f728deda0bb8adc28818144]
 
 *Extent: S*
 
@@ -82,7 +82,7 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (7) Regulations under subsection (4)(b) are subject to the affirmative procedure.
 
-## C1. Assumed rate of return on damages invested: Northern Ireland[^key-3234a517495b32d68fb47bc75d221bd4]
+## C1. Assumed rate of return on damages invested: Northern Ireland[^c-3234a517495b32d68fb47bc75d221bd4]
 
 *Extent: N.I.*
 
@@ -108,15 +108,15 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (8) Regulations under subsection (4)(b) may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-## 1. Assumed rate of return on investment of damages.[^M_F_6b662725-2222-48e4-a5ff-a7e9de8f8b7c][^M_F_12275fd2-ca2e-46bc-f2b6-8f64ba1d1ea1][^key-3b8a67bafd25954f9e0efc6546dfc591]
+## 1. Assumed rate of return on investment of damages.[^M_F_6b662725-2222-48e4-a5ff-a7e9de8f8b7c][^M_F_12275fd2-ca2e-46bc-f2b6-8f64ba1d1ea1][^c-3b8a67bafd25954f9e0efc6546dfc591]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Periodical payments[^key-11e5363a4e4f9017111fc9d036e03a60][^key-21b59aa6d80661e5925144781ab095c0][^key-4b463797da0f90f578fb9805a44bc029]
+## 2. Periodical payments[^c-11e5363a4e4f9017111fc9d036e03a60][^c-21b59aa6d80661e5925144781ab095c0][^c-4b463797da0f90f578fb9805a44bc029]
 
 *Extent: E+W+N.I.*
 
-(A1 (Extent: E+W+S))[^key-1eae128e4649ed19734f5b136ae1b3e7] In cases where Regulation *(Extent: E+W+S)* [(EC) No. 1371/2007 *(Extent: E+W+S)*](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+S)*
+(A1 (Extent: E+W+S))[^c-1eae128e4649ed19734f5b136ae1b3e7] In cases where Regulation *(Extent: E+W+S)* [(EC) No. 1371/2007 *(Extent: E+W+S)*](https://www.legislation.gov.uk/european/regulation/2007/1371) of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+S)*
 
 (1) A court awarding damages for future pecuniary loss in respect of personal injury—
 
@@ -129,7 +129,7 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (4) For the purpose of subsection (3) the continuity of payment under an order is reasonably secure if—
 
-- (a) it is protected by a guarantee given under section 6 of or Schedule 1[^key-cc99c4117f4768b8cf848cf461063488] to this Act,
+- (a) it is protected by a guarantee given under section 6 of or Schedule 1[^c-cc99c4117f4768b8cf848cf461063488] to this Act,
 - (b) it is protected by a scheme under section 213 of the Financial Services and Markets Act 2000 (compensation) (whether or not as modified by section 4 of this Act), or
 - (c) the source of payment is a government or health service body.
 
@@ -148,7 +148,7 @@ An Act to make new provision in relation to damages for personal injury, includi
 (7) Where an order is made for periodical payments, an alteration of the method by which the payments are made shall be treated as a breach of the order (whether or not the method was specified under subsection (5)(b)) unless—
 
 - (a) the court which made the order declares its satisfaction that the continuity of payment under the new method is reasonably secure,
-- (b) the new method is protected by a guarantee given under section 6 of or Schedule 1[^key-be948965c43012792adc5fc6aa2f8e1c] to this Act,
+- (b) the new method is protected by a guarantee given under section 6 of or Schedule 1[^c-be948965c43012792adc5fc6aa2f8e1c] to this Act,
 - (c) the new method is protected by a scheme under section 213 of the Financial Services and Markets Act 2000 (compensation) (whether or not as modified by section 4 of this Act), or
 - (d) the source of payment under the new method is a government or health service body.
 
@@ -159,19 +159,19 @@ An Act to make new provision in relation to damages for personal injury, includi
 - (a) disapplying subsection (8), or
 - (b) modifying the effect of subsection (8).
 
-## 2 (Extent: E+W+N.I.) (affected by repeal, see note). Consent orders for periodical payments. (Extent: E+W+N.I.) (affected by repeal, see note)[^key-11e5363a4e4f9017111fc9d036e03a60][^key-4b463797da0f90f578fb9805a44bc029][^key-4b463797da0f90f578fb9805a44bc029]
+## 2 (Extent: E+W+N.I.) (affected by repeal, see note). Consent orders for periodical payments. (Extent: E+W+N.I.) (affected by repeal, see note)[^c-11e5363a4e4f9017111fc9d036e03a60][^c-4b463797da0f90f578fb9805a44bc029][^c-4b463797da0f90f578fb9805a44bc029]
 
 *Extent: S*
 
 *Extent: E+W+S*
 
-(A1 (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] In cases where Regulation *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029] [(EC) No. 1371/2007 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2007/1371)[^key-4b463797da0f90f578fb9805a44bc029] of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+(A1 (Extent: E+W+N.I.) (affected by repeal, see note))[^c-4b463797da0f90f578fb9805a44bc029] In cases where Regulation *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029] [(EC) No. 1371/2007 *(Extent: E+W+N.I.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2007/1371)[^c-4b463797da0f90f578fb9805a44bc029] of the European Parliament and of the Council of 23rd October 2007 on rail passengers’ rights and obligations applies, this section needs to be read in the light of Article 30 of the Uniform Rules concerning the contract for the international carriage of passengers and luggage by rail (damages to be awarded as annuity on request), as set out in Annex I to that Regulation. *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]
 
-(1 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] A court awarding damages in an action for personal injury may, with the consent of the parties, make an order under which the damages are wholly or partly to take the form of periodical payments. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+(1 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^c-4b463797da0f90f578fb9805a44bc029] A court awarding damages in an action for personal injury may, with the consent of the parties, make an order under which the damages are wholly or partly to take the form of periodical payments. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]
 
-(2 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] In this section “ *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]**damages *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]**” includes an interim payment which the court, by virtue of rules of court in that behalf, orders the defendant to make to the plaintiff (or, in the application of this section to Scotland, the defender to make to the pursuer). *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+(2 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^c-4b463797da0f90f578fb9805a44bc029] In this section “ *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]**damages *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]**” includes an interim payment which the court, by virtue of rules of court in that behalf, orders the defendant to make to the plaintiff (or, in the application of this section to Scotland, the defender to make to the pursuer). *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]
 
-(3 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^key-4b463797da0f90f578fb9805a44bc029] This section is without prejudice to any powers exerciseable apart from this section. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^key-4b463797da0f90f578fb9805a44bc029]
+(3 (Extent: E+W+S) (Extent: E+W+N.I.) (affected by repeal, see note))[^c-4b463797da0f90f578fb9805a44bc029] This section is without prejudice to any powers exerciseable apart from this section. *(Extent: E+W+S)* *(Extent: E+W+N.I.)* *(affected by repeal, see note)*[^c-4b463797da0f90f578fb9805a44bc029]
 
 ## 2A. Periodical payments: supplementary
 
@@ -194,11 +194,11 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (5) In section 2 “**damages**” includes an interim payment which a court orders a defendant to make to a claimant.
 
-(6) In the application of this section and section 2 *(Extent: N.I.)*[^key-36d4f33eace2170439c35f90aa307469] to Northern Ireland—
+(6) In the application of this section and section 2 *(Extent: N.I.)*[^c-36d4f33eace2170439c35f90aa307469] to Northern Ireland—
 
-- (a) a reference to Civil Procedure Rules shall be taken as a reference to rules of court, [^key-671369947272a1bc723fc3b215450dff]...
+- (a) a reference to Civil Procedure Rules shall be taken as a reference to rules of court, [^c-671369947272a1bc723fc3b215450dff]...
 - (b) a reference to a claimant shall be taken as a reference to a plaintiff.
-- (c)[^key-92fc226ea21842d70bb0f97a588735b1] a reference to the Lord Chancellor shall be taken as a reference to the Department of Justice in Northern Ireland, and
+- (c)[^c-92fc226ea21842d70bb0f97a588735b1] a reference to the Lord Chancellor shall be taken as a reference to the Department of Justice in Northern Ireland, and
 - (d) for subsection (3)(a) and (b) of this section there is substituted “shall be made by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979; and is subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954”.
 
 (7) Section 2 is without prejudice to any power exercisable apart from that section.
@@ -234,14 +234,14 @@ An Act to make new provision in relation to damages for personal injury, includi
 
 (7) In subsection (4)—
 
-(8)[^key-04ee106900b7b8b62e625465166813a9] In the application of this section to Northern Ireland—
+(8)[^c-04ee106900b7b8b62e625465166813a9] In the application of this section to Northern Ireland—
 
 - (a) a reference to the Lord Chancellor shall be taken as a reference to the Department of Justice in Northern Ireland;
 - (b) in subsection (6)(a) for “statutory instrument” substitute “statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979”;
 - (c) in subsection (6)(c) for “each House of Parliament” substitute “the Northern Ireland Assembly”;
 - (d) section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (6)(c) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
-- “**provisional damages**” means damages awarded by virtue of subsection (2)(a) of section 32A of the Senior Courts Act 1981[^key-bc77cb5933881a6f80ed61e2259e0c26] or section 51 of the County Courts Act 1984 (or, in relation to Northern Ireland, paragraph 10(2)(a) of Schedule 6 to the Administration of Justice Act 1982), and
+- “**provisional damages**” means damages awarded by virtue of subsection (2)(a) of section 32A of the Senior Courts Act 1981[^c-bc77cb5933881a6f80ed61e2259e0c26] or section 51 of the County Courts Act 1984 (or, in relation to Northern Ireland, paragraph 10(2)(a) of Schedule 6 to the Administration of Justice Act 1982), and
 - “**further damages**” means damages awarded by virtue of subsection (2)(b) of either of those sections (or, in relation to Northern Ireland, paragraph 10(2)(b) of Schedule 6 to the Administration of Justice Act 1982).
 
 ## 3. Provisional damages and fatal accident claims.
@@ -273,7 +273,7 @@ as was intended to compensate him for pecuniary loss in a period which in the ev
 - (a) for references to the Fatal Accidents Act 1976 there shall be substituted references to the [^c862687]Fatal Accidents (Northern Ireland) Order 1977;
 - (b) for the reference to subsection (2)(a) and (b) of section 32A of the Senior Courts Act 1981 and section 51 of the County Courts Act 1984 there shall be substituted a reference to paragraph 10(2)(a) and (b) of Schedule 6 to the [^c862688]Administration of Justice Act 1982.
 
-## 4. Enhanced protection for periodical payments[^key-60d4500c524323e2ad7dc4b72e887f7f]
+## 4. Enhanced protection for periodical payments[^c-60d4500c524323e2ad7dc4b72e887f7f]
 
 (1) Subsection (2) applies where—
 
@@ -301,7 +301,7 @@ as was intended to compensate him for pecuniary loss in a period which in the ev
 
 (6) In subsection (5)(b) the reference to an agreement in so far as it settles a claim or action for damages in respect of personal injury includes a reference to an undertaking given by the Motor Insurers' Bureau (being the company of that name incorporated on 14th June 1946 under the Companies Act 1929), or an Article 75 insurer under the Bureau’s Articles of Association, in relation to a claim or action in respect of personal injury.
 
-## 5. Meaning of structured settlement.[^key-60d4500c524323e2ad7dc4b72e887f7f]
+## 5. Meaning of structured settlement.[^c-60d4500c524323e2ad7dc4b72e887f7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -309,7 +309,7 @@ as was intended to compensate him for pecuniary loss in a period which in the ev
 
 (1) This section applies where—
 
-- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^key-508718744d6cd27ecc3eb6e12ab82ec4]; or
+- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^c-508718744d6cd27ecc3eb6e12ab82ec4]; or
 - (b) a court awarding damages for personal injury makes an order incorporating such terms.
 
 (2) If it appears to a Minister of the Crown that the payments are to be made by a body in relation to which he has, by virtue of this section, power to do so, he may guarantee the payments to be made under the agreement or order.
@@ -330,13 +330,13 @@ as was intended to compensate him for pecuniary loss in a period which in the ev
 
 (8B)[^c862700] In the application of this section to Scotland, “relevant government department” shall be read as if it was a reference to any part of the Scottish Administration and subsection (8) shall cease to have effect.
 
-(9) Schedule 1[^key-5c7d93f844ae291c514ee12bb4f107f8] to this Act has effect for conferring corresponding powers on Northern Ireland departments.
+(9) Schedule 1[^c-5c7d93f844ae291c514ee12bb4f107f8] to this Act has effect for conferring corresponding powers on Northern Ireland departments.
 
 ## 7. Interpretation.
 
 (1) Subject to subsection (2) below, in this Act “**personal injury**” includes any disease and any impairment of a person’s physical or mental condition and references to a claim or action for personal injury include references to such a claim or action brought by virtue of the [^c862701]Law Reform (Miscellaneous Provisions) Act 1934 and to a claim or action brought by virtue of the [^c862702]Fatal Accidents Act 1976.
 
-(2) In the application of this Act to Scotland “**personal injury**” has the meaning given by section 10(1) of the M3Damages (Scotland) Act 1976 *(Extent: S)* *(affected by repeal, see note)*[^key-897da75517c65614f7f5621d72c551ce] same meaning as in the Damages (Scotland) Act 2011 *(Extent: S)* .
+(2) In the application of this Act to Scotland “**personal injury**” has the meaning given by section 10(1) of the M3Damages (Scotland) Act 1976 *(Extent: S)* *(affected by repeal, see note)*[^c-897da75517c65614f7f5621d72c551ce] same meaning as in the Damages (Scotland) Act 2011 *(Extent: S)* .
 
 (3) In the application of subsection (1) above to Northern Ireland for the references to the Law Reform (Miscellaneous Provisions) Act 1934 and to the Fatal Accidents Act 1976 there shall be substituted respectively references to the [^c862704]Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1937 and the [^c862705]Fatal Accidents (Northern Ireland) Order 1977.
 
@@ -348,7 +348,7 @@ as was intended to compensate him for pecuniary loss in a period which in the ev
 
 (3) This Act comes into force at the end of the period of two months beginning with the day on which it is passed.
 
-## SCHEDULE A1 — ASSUMED RATE OF RETURN ON INVESTMENT OF DAMAGES: ENGLAND AND WALES[^key-52e3408472bd6e0440c9a8a993dc6c69]
+## SCHEDULE A1 — ASSUMED RATE OF RETURN ON INVESTMENT OF DAMAGES: ENGLAND AND WALES[^c-52e3408472bd6e0440c9a8a993dc6c69]
 
 *Extent: E+W*
 
@@ -556,7 +556,7 @@ apply separately in relation to each rate of return.
 - (a) a review of the position that no rate of return is prescribed;
 - (b) a review of the position that no rate of return is prescribed for a particular class of case.
 
-## SCHEDULE B1 — Setting the rate for section B1(1): Scotland[^key-b973d49af062a546461bfbd25be738c2]
+## SCHEDULE B1 — Setting the rate for section B1(1): Scotland[^c-b973d49af062a546461bfbd25be738c2]
 
 *Extent: S.*
 
@@ -573,7 +573,7 @@ apply separately in relation to each rate of return.
 - (a) an original rate of return is—
   - (i) a rate of return to which paragraph 27(1) applies, or
   - (ii) the position of there being no rate of return to which paragraph 27(1) applies,
-- (b) the appointed day is 1 July 2019[^key-bce33ed101f3163ecd5597d554fd0ce2].
+- (b) the appointed day is 1 July 2019[^c-bce33ed101f3163ecd5597d554fd0ce2].
 
 **2.** (1) The rate-assessor must review every subsequent rate of return.
 
@@ -625,7 +625,7 @@ where received by the rate-assessor timeously in connection with the review.
 (2) A rate of return should reflect the return that could reasonably be expected to be achieved by a person who invests—
 
 - (a) in the notional portfolio, and
-- (b) for a period of 43[^key-82f82ef8a6c5a97e352036815c3d5a79] years.
+- (b) for a period of 43[^c-82f82ef8a6c5a97e352036815c3d5a79] years.
 
 (3) This is without prejudice to paragraphs 10 and 20 (with paragraph 10 to be met before paragraph 20 is met).
 
@@ -646,7 +646,7 @@ where received by the rate-assessor timeously in connection with the review.
 
 (2) The standard adjustments are the deduction of—
 
-- (a) 1.25 percentage points[^key-274676ec25e187e1097fb961150924f2], to represent—
+- (a) 1.25 percentage points[^c-274676ec25e187e1097fb961150924f2], to represent—
   - (i) the impact of taxation, and
   - (ii) the costs of investment advice and management, and
 - (b) 0.5 of a percentage point, as the further margin involved in relation to the rate of return.
@@ -811,7 +811,7 @@ the entry is or (as the case may be) examples are to be interpreted by the rate-
 
 (2) A rate of return to which sub-paragraph (1) applies is to be treated from the appointed day as if it were set for the purpose of section B1(1).
 
-(3) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-34812e28749c2152b2979f953e4eb9bf].
+(3) For the purpose of this paragraph, the appointed day is 1 July 2019[^c-34812e28749c2152b2979f953e4eb9bf].
 
 **28.** (1) A review under paragraph 1(1) of the position of there being no rate of return cannot cause the maintaining of that position, so in conducting such a review in relation to that position—
 
@@ -822,11 +822,11 @@ the entry is or (as the case may be) examples are to be interpreted by the rate-
 
 **29.** (1) Paragraph 6 extends to views received, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
 
-(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-e8dbefe0c017fd03c114c6aad2dbb31e].
+(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^c-e8dbefe0c017fd03c114c6aad2dbb31e].
 
 **30.** (1) Paragraph 26 extends to costs incurred, in advance of the appointed day, in anticipation of the starting of a review under paragraph 1(1).
 
-(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^key-d0bdefc7b5089738d46b6b24846fb1a3].
+(2) For the purpose of this paragraph, the appointed day is 1 July 2019[^c-d0bdefc7b5089738d46b6b24846fb1a3].
 
 ### Procedure for regulations
 
@@ -854,7 +854,7 @@ the entry is or (as the case may be) examples are to be interpreted by the rate-
 - (a) different from the rate of return under review, or
 - (b) the same as the rate of return under review.
 
-## SCHEDULE C1 — Setting the rate for section C1(1): Northern Ireland[^key-d609835a4e7675532f3e4b3d25753c18]
+## SCHEDULE C1 — Setting the rate for section C1(1): Northern Ireland[^c-d609835a4e7675532f3e4b3d25753c18]
 
 *Extent: N.I.*
 
@@ -946,7 +946,7 @@ where received by the rate-assessor within a reasonable time in connection with 
 
 (2) The standard adjustments are the deduction of—
 
-- (a) 1.25 percentage points[^key-386a66004577a5becc6e2e21d4906751], to represent—
+- (a) 1.25 percentage points[^c-386a66004577a5becc6e2e21d4906751], to represent—
   - (i) the impact of taxation, and
   - (ii) the costs of investment advice and management, and
 - (b) 0.5 of a percentage point, as the further margin involved in relation to the rate of return.
@@ -1151,13 +1151,13 @@ the entry is or (as the case may be) examples are to be interpreted by the rate-
 - “**the appointed day**” means the day on which the Schedule to the Damages (Return on Investment) Act (Northern Ireland) 2022 comes into operation;
 - “**the Department of Justice**” means the Department of Justice in Northern Ireland.
 
-## SCHEDULE 1 — Guarantees by Northern Ireland departments for public sector settlements[^key-0e86c423093d1467711b1d5f832aecd6][^key-1c52276b68e8fc295febe56e61228fb6]
+## SCHEDULE 1 — Guarantees by Northern Ireland departments for public sector settlements[^c-0e86c423093d1467711b1d5f832aecd6][^c-1c52276b68e8fc295febe56e61228fb6]
 
 Section 6(9).
 
 **1.** This Schedule applies where—
 
-- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^key-c0af6d8bd871028c36d1afcb9bb50198]; or
+- (a) a claim or action for damages for personal injury is settled on terms whereby the damages are to consist wholly or partly of periodical payments[^c-c0af6d8bd871028c36d1afcb9bb50198]; or
 - (b) a court awarding damages for personal injury makes an order incorporating such terms.
 
 **2.** If is appears to a Northern Ireland department that the payments are to be made by a body in relation to which that department has, by virtue of this Schedule, power to do so, that department may guarantee the payments to be made under the agreement or order.
@@ -1176,41 +1176,41 @@ Section 6(9).
 
 [^c862682]: Extent: Act extends to UK except s. 3 which extends to E.W. & N.I. only see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1996/48/section/8/2)
 
-[^key-0e35048590c72fd36af583136297f459]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/48): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 17 para. 15](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/15) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-0e35048590c72fd36af583136297f459]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/48): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 17 para. 15](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/15) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-0185b97b4b1bbfb5eaac52534e86a323]: Textual amendment: S. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/1), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-0185b97b4b1bbfb5eaac52534e86a323]: Textual amendment: S. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/1), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-074d895e8f728deda0bb8adc28818144]: Textual amendment: S. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [ss. 1(1)](https://www.legislation.gov.uk/asp/2019/4/section/1/1), [9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+[^c-074d895e8f728deda0bb8adc28818144]: Textual amendment: S. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [ss. 1(1)](https://www.legislation.gov.uk/asp/2019/4/section/1/1), [9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
 
-[^key-3234a517495b32d68fb47bc75d221bd4]: Textual amendment: S. C1 inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/1/section/1/1), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
+[^c-3234a517495b32d68fb47bc75d221bd4]: Textual amendment: S. C1 inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/1/section/1/1), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
 
 [^M_F_6b662725-2222-48e4-a5ff-a7e9de8f8b7c]: Textual amendment: S. 1 omitted (E.W.) (20.12.2018) by virtue of [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/a), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
 [^M_F_12275fd2-ca2e-46bc-f2b6-8f64ba1d1ea1]: Textual amendment: S. 1 repealed (S.) (1.7.2019) by virtue of [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/4/section/1/2), [9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
 
-[^key-3b8a67bafd25954f9e0efc6546dfc591]: Textual amendment: S. 1 repealed (N.I.) (10.2.2022) by virtue of [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/1/section/1/2), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
+[^c-3b8a67bafd25954f9e0efc6546dfc591]: Textual amendment: S. 1 repealed (N.I.) (10.2.2022) by virtue of [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/1/section/1/2), [5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/30/article/2/a)
 
-[^key-11e5363a4e4f9017111fc9d036e03a60]: Modification: S. 2(3)-(9) applied (with application in accordance with art. 1(5) of the amending S.I.) by [The Damages (Variation of Periodical Payments) Order 2005 (S.I. 2005/841)](https://www.legislation.gov.uk/uksi/2005/841), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/841/article/1/1), [13](https://www.legislation.gov.uk/uksi/2005/841/article/13)
+[^c-11e5363a4e4f9017111fc9d036e03a60]: Modification: S. 2(3)-(9) applied (with application in accordance with art. 1(5) of the amending S.I.) by [The Damages (Variation of Periodical Payments) Order 2005 (S.I. 2005/841)](https://www.legislation.gov.uk/uksi/2005/841), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/841/article/1/1), [13](https://www.legislation.gov.uk/uksi/2005/841/article/13)
 
-[^key-21b59aa6d80661e5925144781ab095c0]: Modification: S. 2 excluded (E.W.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 101(4)(d)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/d)[(e),](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/e) [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1) ; [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
+[^c-21b59aa6d80661e5925144781ab095c0]: Modification: S. 2 excluded (E.W.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 101(4)(d)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/d)[(e),](https://www.legislation.gov.uk/ukpga/2003/39/section/101/4/e) [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1) ; [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
 
-[^key-4b463797da0f90f578fb9805a44bc029]: Textual amendment: Ss. 2-2B substituted for s. 2 (E.W.N.I.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/100/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), arts. 1, 11)
+[^c-4b463797da0f90f578fb9805a44bc029]: Textual amendment: Ss. 2-2B substituted for s. 2 (E.W.N.I.) (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/100/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), arts. 1, 11)
 
-[^key-1eae128e4649ed19734f5b136ae1b3e7]: Textual amendment: S. 2(A1) added (E.W.S.) (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2010/1504/regulation/9)
+[^c-1eae128e4649ed19734f5b136ae1b3e7]: Textual amendment: S. 2(A1) added (E.W.S.) (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2010/1504/regulation/9)
 
-[^key-cc99c4117f4768b8cf848cf461063488]: Textual amendment: Words in s. 2(4)(a) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/b), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-cc99c4117f4768b8cf848cf461063488]: Textual amendment: Words in s. 2(4)(a) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/b), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-be948965c43012792adc5fc6aa2f8e1c]: Textual amendment: Words in s. 2(7)(b) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/c), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-be948965c43012792adc5fc6aa2f8e1c]: Textual amendment: Words in s. 2(7)(b) substituted (E.W.N.I.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(c)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/c), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-36d4f33eace2170439c35f90aa307469]: Textual amendment: Words in s. 2A(6) inserted (N.I.) (7.7.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/4), [23](https://www.legislation.gov.uk/nisi/2005/1452/article/23)
+[^c-36d4f33eace2170439c35f90aa307469]: Textual amendment: Words in s. 2A(6) inserted (N.I.) (7.7.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452)](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/4), [23](https://www.legislation.gov.uk/nisi/2005/1452/article/23)
 
-[^key-671369947272a1bc723fc3b215450dff]: Textual amendment: Word in s. 2A(6)(a) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-671369947272a1bc723fc3b215450dff]: Textual amendment: Word in s. 2A(6)(a) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-92fc226ea21842d70bb0f97a588735b1]: Textual amendment: S. 2A(6)(c)(d) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-92fc226ea21842d70bb0f97a588735b1]: Textual amendment: S. 2A(6)(c)(d) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 56(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/56/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-04ee106900b7b8b62e625465166813a9]: Textual amendment: S. 2B(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 57](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/57) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-04ee106900b7b8b62e625465166813a9]: Textual amendment: S. 2B(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 18 para. 57](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/57) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-bc77cb5933881a6f80ed61e2259e0c26]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-bc77cb5933881a6f80ed61e2259e0c26]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c862684]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
 
@@ -1222,48 +1222,48 @@ Section 6(9).
 
 [^c862688]: Marginal citation: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53)
 
-[^key-60d4500c524323e2ad7dc4b72e887f7f]: Textual amendment: S. 4 substituted for ss. 4, 5 (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), [arts. 1](https://www.legislation.gov.uk/uksi/2005/911/article/1), [13](https://www.legislation.gov.uk/uksi/2005/911/article/13), [14](https://www.legislation.gov.uk/uksi/2005/911/article/14))
+[^c-60d4500c524323e2ad7dc4b72e887f7f]: Textual amendment: S. 4 substituted for ss. 4, 5 (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w) (with savings and transitional provisions in [S.I. 2005/911](https://www.legislation.gov.uk/uksi/2005/911), [arts. 1](https://www.legislation.gov.uk/uksi/2005/911/article/1), [13](https://www.legislation.gov.uk/uksi/2005/911/article/13), [14](https://www.legislation.gov.uk/uksi/2005/911/article/14))
 
-[^key-508718744d6cd27ecc3eb6e12ab82ec4]: Textual amendment: Words in s. 6(1)(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/2), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
+[^c-508718744d6cd27ecc3eb6e12ab82ec4]: Textual amendment: Words in s. 6(1)(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/2), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
 
 [^c862699]: Textual amendment: S. 6(8A) inserted (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [para. 34](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/34) (with s. 126(3)-(11); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1),
 
 [^c862700]: Textual amendment: S. 6(8B) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. 1 para. 126(3)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/1/paragraph/126/3)
 
-[^key-5c7d93f844ae291c514ee12bb4f107f8]: Textual amendment: Words in s. 6(9) substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(d)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/d), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-5c7d93f844ae291c514ee12bb4f107f8]: Textual amendment: Words in s. 6(9) substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(d)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/d), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
 [^c862701]: Marginal citation: [1934 c. 41](https://www.legislation.gov.uk/ukpga/1934/41)
 
 [^c862702]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
 
-[^key-897da75517c65614f7f5621d72c551ce]: Textual amendment: Words in s. 7(2) substituted (S.) (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/7) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-897da75517c65614f7f5621d72c551ce]: Textual amendment: Words in s. 7(2) substituted (S.) (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/7) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
 [^c862704]: Marginal citation: [1937 c. 9](https://www.legislation.gov.uk/ukpga/1937/9)(N.I.)
 
 [^c862705]: Marginal citation: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
 
-[^key-52e3408472bd6e0440c9a8a993dc6c69]: Textual amendment: Sch. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/2), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-52e3408472bd6e0440c9a8a993dc6c69]: Textual amendment: Sch. A1 inserted (E.W.) (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/2), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-b973d49af062a546461bfbd25be738c2]: Textual amendment: Sch. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [s. 9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2), [sch.](https://www.legislation.gov.uk/asp/2019/4/schedule); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+[^c-b973d49af062a546461bfbd25be738c2]: Textual amendment: Sch. B1 inserted (S.) (1.7.2019) by [Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (asp 4)](https://www.legislation.gov.uk/asp/2019/4), [s. 9(2)](https://www.legislation.gov.uk/asp/2019/4/section/9/2), [sch.](https://www.legislation.gov.uk/asp/2019/4/schedule); [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
 
-[^key-bce33ed101f3163ecd5597d554fd0ce2]: Textual amendment: Words in [Sch. B1 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/1/3/b) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+[^c-bce33ed101f3163ecd5597d554fd0ce2]: Textual amendment: Words in [Sch. B1 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/1/3/b) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
 
-[^key-82f82ef8a6c5a97e352036815c3d5a79]: Textual amendment: Word in [Sch. B1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/7/2/b) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/2)
+[^c-82f82ef8a6c5a97e352036815c3d5a79]: Textual amendment: Word in [Sch. B1 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/7/2/b) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/2)
 
-[^key-274676ec25e187e1097fb961150924f2]: Textual amendment: Words in [Sch. B1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/3)
+[^c-274676ec25e187e1097fb961150924f2]: Textual amendment: Words in [Sch. B1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Review of Rate of Return) (Scotland) Regulations 2024 (S.S.I. 2024/163)](https://www.legislation.gov.uk/ssi/2024/163), [regs. 1](https://www.legislation.gov.uk/ssi/2024/163/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/163/regulation/2/3)
 
-[^key-34812e28749c2152b2979f953e4eb9bf]: Textual amendment: Words in [Sch. B1 para. 27(3)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/27/3) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+[^c-34812e28749c2152b2979f953e4eb9bf]: Textual amendment: Words in [Sch. B1 para. 27(3)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/27/3) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
 
-[^key-e8dbefe0c017fd03c114c6aad2dbb31e]: Textual amendment: Words in [Sch. B1 para. 29(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/29/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+[^c-e8dbefe0c017fd03c114c6aad2dbb31e]: Textual amendment: Words in [Sch. B1 para. 29(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/29/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
 
-[^key-d0bdefc7b5089738d46b6b24846fb1a3]: Textual amendment: Words in [Sch. B1 para. 30(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/30/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
+[^c-d0bdefc7b5089738d46b6b24846fb1a3]: Textual amendment: Words in [Sch. B1 para. 30(2)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/B1/paragraph/30/2) substituted (S.) (1.7.2019) by [The Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019 (Commencement No. 1) Regulations 2019 (S.S.I. 2019/197)](https://www.legislation.gov.uk/ssi/2019/197), [reg. 3](https://www.legislation.gov.uk/ssi/2019/197/regulation/3)
 
-[^key-d609835a4e7675532f3e4b3d25753c18]: Textual amendment: [Sch. C1](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1) inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2), [Sch.](https://www.legislation.gov.uk/nia/2022/1/schedule); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/30/article/2/c)
+[^c-d609835a4e7675532f3e4b3d25753c18]: Textual amendment: [Sch. C1](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1) inserted (N.I.) (10.2.2022) by [Damages (Return on Investment) Act (Northern Ireland) 2022 (c. 1)](https://www.legislation.gov.uk/nia/2022/1), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/1/section/5/2), [Sch.](https://www.legislation.gov.uk/nia/2022/1/schedule); [S.R. 2022/30](https://www.legislation.gov.uk/nisr/2022/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/30/article/2/c)
 
-[^key-386a66004577a5becc6e2e21d4906751]: Textual amendment: Words in [Sch. C1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024 (S.R. 2024/137)](https://www.legislation.gov.uk/nisr/2024/137), [regs. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/137/regulation/2)
+[^c-386a66004577a5becc6e2e21d4906751]: Textual amendment: Words in [Sch. C1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/1996/48/schedule/C1/paragraph/10/2/a) substituted (1.7.2024) by [The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024 (S.R. 2024/137)](https://www.legislation.gov.uk/nisr/2024/137), [regs. 1](https://www.legislation.gov.uk/nisr/2024/137/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/137/regulation/2)
 
-[^key-0e86c423093d1467711b1d5f832aecd6]: Textual amendment: Sch. 1 heading substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-0e86c423093d1467711b1d5f832aecd6]: Textual amendment: Sch. 1 heading substituted (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-1c52276b68e8fc295febe56e61228fb6]: Textual amendment: Sch. renumbered as Sch. 1 (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
+[^c-1c52276b68e8fc295febe56e61228fb6]: Textual amendment: Sch. renumbered as Sch. 1 (20.12.2018) by [Civil Liability Act 2018 (c. 29)](https://www.legislation.gov.uk/ukpga/2018/29), [ss. 10(4)(e)](https://www.legislation.gov.uk/ukpga/2018/29/section/10/4/e), [14](https://www.legislation.gov.uk/ukpga/2018/29/section/14)
 
-[^key-c0af6d8bd871028c36d1afcb9bb50198]: Textual amendment: Words in Sch. para. 1(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)
+[^c-c0af6d8bd871028c36d1afcb9bb50198]: Textual amendment: Words in Sch. para. 1(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/101/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(w)](https://www.legislation.gov.uk/uksi/2005/910/article/3/w)

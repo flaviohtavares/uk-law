@@ -56,9 +56,9 @@ summary: ''
 
 (9) In this section, and in section 142, “qualifying interest” in an entity means—
 
-- (a) a direct ownership interest in it, [^key-d4e715792e05f987d1247c89038cd1ec]...
-- (b)[^key-d4e715792e05f987d1247c89038cd1ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a direct ownership interest in it, [^c-d4e715792e05f987d1247c89038cd1ec]...
+- (b)[^c-d4e715792e05f987d1247c89038cd1ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4e715792e05f987d1247c89038cd1ec]: Textual amendment: S. 141(9)(b) and word omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 53](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/53), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-d4e715792e05f987d1247c89038cd1ec]: Textual amendment: S. 141(9)(b) and word omitted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 53](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/53), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

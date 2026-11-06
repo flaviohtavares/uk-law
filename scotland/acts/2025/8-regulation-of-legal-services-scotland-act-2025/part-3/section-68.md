@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Conduct complaints: consideration by relevant professional organisations[^key-f1e1878351d8939e875e6553c27c8059]
+## 68. Conduct complaints: consideration by relevant professional organisations[^c-f1e1878351d8939e875e6553c27c8059]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e1878351d8939e875e6553c27c8059]: Commencement: S. 68 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f1e1878351d8939e875e6553c27c8059]: Commencement: S. 68 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

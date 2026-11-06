@@ -72,7 +72,7 @@ Articles 2, 10, 85.
 
 (2) Where proposals approved under sub-paragraph (3) of paragraph 2 are modified under sub-paragraph (4) thereof, the county court on the application of the housing authority may make a fresh declaration.
 
-(3)[^key-d89c7f6e4dc6d762afebdb927f366ccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d89c7f6e4dc6d762afebdb927f366ccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Duration of declaration
 
@@ -161,4 +161,4 @@ in accordance with the provisions of this Part.
 
 [^m00060]: Marginal citation: 1981 NI 3.
 
-[^key-d89c7f6e4dc6d762afebdb927f366ccc]: Textual amendment: [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/nisi/1996/3158/schedule/3/paragraph/4/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(19)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/19), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d89c7f6e4dc6d762afebdb927f366ccc]: Textual amendment: [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/nisi/1996/3158/schedule/3/paragraph/4/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(19)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/19), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

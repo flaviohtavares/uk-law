@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if, as a result of any shares (“the relevant shares”) ceasing to be subject to a Schedule 2[^key-5a1b13756adf90a32244fb87db284005] SIP—
+(1) This section applies if, as a result of any shares (“the relevant shares”) ceasing to be subject to a Schedule 2[^c-5a1b13756adf90a32244fb87db284005] SIP—
 
 - (a) there is an amount that counts as employment income of a participant by virtue of the SIP code, and
 - (b) an obligation to make a PAYE deduction arises in respect of that amount.
@@ -50,4 +50,4 @@ so long as that company is one to which PAYE regulations apply at that time.
 
 ## Annotations
 
-[^key-5a1b13756adf90a32244fb87db284005]: Textual amendment: Words in [s. 510(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/510/1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/10), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-5a1b13756adf90a32244fb87db284005]: Textual amendment: Words in [s. 510(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/510/1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/10), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

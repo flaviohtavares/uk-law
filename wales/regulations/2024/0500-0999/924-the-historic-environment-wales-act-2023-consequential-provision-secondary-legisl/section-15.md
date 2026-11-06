@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**15.**[^key-3c1557f08af6482be95e48ee25aaacac] In article 1(2)—
+**15.**[^c-3c1557f08af6482be95e48ee25aaacac] In article 1(2)—
 
 - (a) for the definition of “listed building” substitute—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c1557f08af6482be95e48ee25aaacac]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/924/regulation/15) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-3c1557f08af6482be95e48ee25aaacac]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/924/regulation/15) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A16. Company enters into insolvency procedure etc[^key-3e64b7429b654cd89c0abbe0f77d3930][^key-2d593eae2f3cccb39a2961eef842bf2c]
+## A16. Company enters into insolvency procedure etc[^c-3e64b7429b654cd89c0abbe0f77d3930][^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e64b7429b654cd89c0abbe0f77d3930]: Modification: [S. A16](https://www.legislation.gov.uk/ukpga/1986/45/section/A16) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [42](https://www.legislation.gov.uk/uksi/2024/205/regulation/42) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-3e64b7429b654cd89c0abbe0f77d3930]: Modification: [S. A16](https://www.legislation.gov.uk/ukpga/1986/45/section/A16) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [42](https://www.legislation.gov.uk/uksi/2024/205/regulation/42) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

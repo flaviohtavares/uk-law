@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Service of application[^key-64e2c33c2f86649dae0a5b6c5f95e8c8]
+## 8. Service of application[^c-64e2c33c2f86649dae0a5b6c5f95e8c8]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-64e2c33c2f86649dae0a5b6c5f95e8c8]: Commencement: Rule 8 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-64e2c33c2f86649dae0a5b6c5f95e8c8]: Commencement: Rule 8 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00009]: Footnote: Section 10 is repealed on 1 October 2009.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — REVOCATION[^key-5fbdcc384af881c157c3f8bbb6f4421c]
+## SCHEDULE 7 — REVOCATION[^c-5fbdcc384af881c157c3f8bbb6f4421c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Regulations revoked
 
 ## Annotations
 
-[^key-5fbdcc384af881c157c3f8bbb6f4421c]: Commencement: Sch. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-5fbdcc384af881c157c3f8bbb6f4421c]: Commencement: Sch. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

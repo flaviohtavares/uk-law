@@ -70,7 +70,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 
 **Not yet in force.**
 
-### 3. Permit scheme[^key-2f48663c95f78465b8ab4e4d701250cb]
+### 3. Permit scheme[^c-2f48663c95f78465b8ab4e4d701250cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1085,4 +1085,4 @@ The Order also increases the level of fines for certain offences and provides fo
 
 [^c20521431]: Subordinate legislation: [Art. 1(3)](https://www.legislation.gov.uk/nisi/2007/287/article/1/3) power partly exercised: 1.10.2007 appointed for specified provisions by {[S.R. 2007/365](https://www.legislation.gov.uk/nisr/2007/365)}, art. 2, Sch.
 
-[^key-2f48663c95f78465b8ab4e4d701250cb]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/2007/287/article/3) repealed (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(d)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/d), [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-2f48663c95f78465b8ab4e4d701250cb]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/2007/287/article/3) repealed (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(d)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/d), [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)

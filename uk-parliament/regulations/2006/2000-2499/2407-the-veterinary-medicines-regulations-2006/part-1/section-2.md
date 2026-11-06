@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Definition of “veterinary medicinal product”, interpretation and scope[^key-aacaa5985c1244984b5ffda8acba8cfd]
+## 2. Definition of “veterinary medicinal product”, interpretation and scope[^c-aacaa5985c1244984b5ffda8acba8cfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aacaa5985c1244984b5ffda8acba8cfd]: Commencement: Reg. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-aacaa5985c1244984b5ffda8acba8cfd]: Commencement: Reg. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00005]: Footnote: OJ No. L136, 30.4.2004, p. 1.

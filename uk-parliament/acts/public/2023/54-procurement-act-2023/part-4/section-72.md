@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Sub-contracting: directions[^key-96fc5e8f4c106830803f582826e7d95f][^key-4960134e6e7e03141046192f099ad0c0]
+## 72. Sub-contracting: directions[^c-96fc5e8f4c106830803f582826e7d95f][^c-4960134e6e7e03141046192f099ad0c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96fc5e8f4c106830803f582826e7d95f]: Commencement: S. 72 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-96fc5e8f4c106830803f582826e7d95f]: Commencement: S. 72 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4960134e6e7e03141046192f099ad0c0]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/54/section/72) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-4960134e6e7e03141046192f099ad0c0]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/54/section/72) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

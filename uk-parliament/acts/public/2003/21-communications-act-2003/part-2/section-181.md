@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Power of arrest[^key-38845cdde15dc0b1e133ada4645052db][^key-d2195d786faf383a027fef10f4826a1b]
+## 181. Power of arrest[^c-38845cdde15dc0b1e133ada4645052db][^c-d2195d786faf383a027fef10f4826a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38845cdde15dc0b1e133ada4645052db]: Textual amendment: Ss. 152-184 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-38845cdde15dc0b1e133ada4645052db]: Textual amendment: Ss. 152-184 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
-[^key-d2195d786faf383a027fef10f4826a1b]: Commencement: S. 181 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-d2195d786faf383a027fef10f4826a1b]: Commencement: S. 181 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)

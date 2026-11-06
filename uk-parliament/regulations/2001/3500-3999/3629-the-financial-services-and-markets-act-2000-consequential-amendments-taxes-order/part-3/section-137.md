@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Settlement and replacement of debts[^key-27d6f2c7a78dca8f6dddac23fa57e604]
+## 137. Settlement and replacement of debts[^c-27d6f2c7a78dca8f6dddac23fa57e604]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2(4) of the Exchange Gains and Losses (Alternative Method of Calcu
 
 ## Annotations
 
-[^key-27d6f2c7a78dca8f6dddac23fa57e604]: Commencement: Art. 137 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-27d6f2c7a78dca8f6dddac23fa57e604]: Commencement: Art. 137 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

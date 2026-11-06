@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Removal of human remains[^key-87e8e9314d1c16df0af6776fa4912af2]
+## 41. Removal of human remains[^c-87e8e9314d1c16df0af6776fa4912af2]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ then subject to paragraph (10), the undertaker must remove the remains and cause
 
 ## Annotations
 
-[^key-87e8e9314d1c16df0af6776fa4912af2]: Commencement: Art. 41 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-87e8e9314d1c16df0af6776fa4912af2]: Commencement: Art. 41 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00081]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1).

@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**66.**[^key-c8bf6f5e77dd5d4dda3655f0659b129e] In section 18[^f00076] (day care for pre-school and other children)—
+**66.**[^c-c8bf6f5e77dd5d4dda3655f0659b129e] In section 18[^f00076] (day care for pre-school and other children)—
 
 - (a) omit subsection (2);
 - (b) omit subsection (6).
 
 ## Annotations
 
-[^key-c8bf6f5e77dd5d4dda3655f0659b129e]: Commencement: Reg. 66 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c8bf6f5e77dd5d4dda3655f0659b129e]: Commencement: Reg. 66 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00076]: Footnote: Section 18 was amended by the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), Schedule 2, paragraph 4.

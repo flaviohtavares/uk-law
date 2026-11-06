@@ -111,19 +111,19 @@ In accordance with section 2(8) of the 1999 Act, a draft of this instrument has 
   ; and
 - (d) in subsection (6), for “duty imposed by subsection (1)” substitute “ duties imposed by subsections (1) or (2A) ”.
 
-(5)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 75 (meaning of “waste” etc.)
 
@@ -367,13 +367,13 @@ In The Town and Country Planning (Scotland) Act 1997 [^c20785261] section 277(1)
 
 (7) In regulation 15A(1), before “record” insert “ chronological ”.
 
-(8)[^key-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Schedule 2 is omitted.
 
-## 7. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-b1c339928c7768c3ffe3264b54ab0847]
+## 7. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-b1c339928c7768c3ffe3264b54ab0847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -429,33 +429,33 @@ In regulation 2(1) of the Environmental Protection (Disposal of Polychlorinated 
 
 **4.** In the title of Schedule 1 to those Regulations, for “Annex IIA of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste, as amended” substitute “ Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste ”.
 
-#### 5. The Pollution Prevention and Control (Scotland) Regulations 2000[^key-8b02cc4f12ee0babd5d4f3f4b59efd62]
+#### 5. The Pollution Prevention and Control (Scotland) Regulations 2000[^c-8b02cc4f12ee0babd5d4f3f4b59efd62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. The Landfill (Scotland) Regulations 2003[^key-8301fff843ec72157494f9021d7168a1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-ada7d0196854f6255d65c968c1c4ae40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. The Packaging (Essential Requirements) Regulations 2003[^key-f9f5c9482de0806cc3c921daf3927003]
+#### 10. The Landfill (Scotland) Regulations 2003[^c-8301fff843ec72157494f9021d7168a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-cbde0cb4c12eca3c29c5eebc16482a28]
+**11.**[^c-ada7d0196854f6255d65c968c1c4ae40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. The Packaging (Essential Requirements) Regulations 2003[^c-f9f5c9482de0806cc3c921daf3927003]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-0a25e721193f46927e81bde4a66028a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 13. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^c-cbde0cb4c12eca3c29c5eebc16482a28]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-0a25e721193f46927e81bde4a66028a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 15. The End-of-Life Vehicles Regulations 2003
 
@@ -635,7 +635,7 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^c20785241]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43), as relevantly amended by the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40) section 33; the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) Schedule 22 paragraphs 64, 65, 66(2), 70(1) and (3), 72(1) and (2), 73, 74 and 76 and Schedule 24 paragraph 1; by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) Schedule 2 paragraph 102(2)(b) and (c); and by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 3(3) and (4); 2005/22 regulation 3(3) and 2009/247 regulation 3.
 
-[^key-4ba57735912c4dc70a9e30113c3bac8f]: Textual amendment: [Reg. 2(5)-(11)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4ba57735912c4dc70a9e30113c3bac8f]: Textual amendment: [Reg. 2(5)-(11)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c20785251]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), as relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 5(2) to (4); [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925) Schedule 6 paragraph 1(3); [S.S.I. 2006/181](https://www.legislation.gov.uk/ssi/2006/181) Schedule 1 paragraph 8(3) to (5); [S.S.I. 2006/541](https://www.legislation.gov.uk/ssi/2006/541) regulation 10(2); [S.I. 2006/3289](https://www.legislation.gov.uk/uksi/2006/3289) regulation 4(2)(b) and [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247) regulation 5.
 
@@ -663,25 +663,25 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^c20785361]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.I. 1996/2019](https://www.legislation.gov.uk/uksi/1996/2019) Schedule 1 paragraph 2(a) and 7; [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 13(1) and (2) and [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112) regulation 2(2), (4), (9), (10) and (11).
 
-[^key-4940ec8c209b463ef1ee610d401cfe16]: Textual amendment: [Reg. 6(8)(9)](https://www.legislation.gov.uk/ssi/2011/226/regulation/6/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4940ec8c209b463ef1ee610d401cfe16]: Textual amendment: [Reg. 6(8)(9)](https://www.legislation.gov.uk/ssi/2011/226/regulation/6/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b1c339928c7768c3ffe3264b54ab0847]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/226/regulation/7) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-b1c339928c7768c3ffe3264b54ab0847]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/226/regulation/7) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
 [^c20785381]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33).
 
 [^c20785391]: Marginal citation: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95).
 
-[^key-8b02cc4f12ee0babd5d4f3f4b59efd62]: Textual amendment: Sch. paras. 5-9 revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-8b02cc4f12ee0babd5d4f3f4b59efd62]: Textual amendment: Sch. paras. 5-9 revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
-[^key-8301fff843ec72157494f9021d7168a1]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/10) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8301fff843ec72157494f9021d7168a1]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/10) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-ada7d0196854f6255d65c968c1c4ae40]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ada7d0196854f6255d65c968c1c4ae40]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f9f5c9482de0806cc3c921daf3927003]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/12) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-f9f5c9482de0806cc3c921daf3927003]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/12) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
-[^key-cbde0cb4c12eca3c29c5eebc16482a28]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/13) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cbde0cb4c12eca3c29c5eebc16482a28]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/13) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0a25e721193f46927e81bde4a66028a3]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/14) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0a25e721193f46927e81bde4a66028a3]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/14) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c20785431]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), to which there are amendments not relevant to these Regulations.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Notification of matters relating to persons carrying on or managing children's homes etc.[^key-97a34d283efb1395976644f46c3bfe6f][^key-b993806d3690e18226b2a3f794b33268][^key-9f1980512d9aa9e19f4ebcb41f85d134][^key-0711a6413757d1f188076d51f031d5ca]
+## 29. Notification of matters relating to persons carrying on or managing children's homes etc.[^c-97a34d283efb1395976644f46c3bfe6f][^c-b993806d3690e18226b2a3f794b33268][^c-9f1980512d9aa9e19f4ebcb41f85d134][^c-0711a6413757d1f188076d51f031d5ca]
 
 *Extent: E+W*
 
@@ -68,10 +68,10 @@ Before section 31 of the 2000 Act, but after the cross-heading which precedes th
 
 ## Annotations
 
-[^key-97a34d283efb1395976644f46c3bfe6f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/i)
+[^c-97a34d283efb1395976644f46c3bfe6f]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/i)
 
-[^key-b993806d3690e18226b2a3f794b33268]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(m)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/m)
+[^c-b993806d3690e18226b2a3f794b33268]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(m)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/m)
 
-[^key-9f1980512d9aa9e19f4ebcb41f85d134]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 28.3.2011 for W. so far as not already in force by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/c)
+[^c-9f1980512d9aa9e19f4ebcb41f85d134]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 28.3.2011 for W. so far as not already in force by [S.I. 2011/949](https://www.legislation.gov.uk/wsi/2011/949), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2011/949/article/3/1/c)
 
-[^key-0711a6413757d1f188076d51f031d5ca]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(k)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/k)
+[^c-0711a6413757d1f188076d51f031d5ca]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2008/23/section/29) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(k)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/k)

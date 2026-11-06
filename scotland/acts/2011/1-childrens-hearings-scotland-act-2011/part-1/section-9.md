@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Independence of children's hearings[^key-cccef764b42bd970619092808005574b]
+## 9. Independence of children's hearings[^c-cccef764b42bd970619092808005574b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in this Act authorises the National Convener or the Principal Reporter t
 
 ## Annotations
 
-[^key-cccef764b42bd970619092808005574b]: Commencement: S. 9 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-cccef764b42bd970619092808005574b]: Commencement: S. 9 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

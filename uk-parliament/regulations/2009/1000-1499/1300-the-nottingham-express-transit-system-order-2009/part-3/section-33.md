@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Power to acquire subsoil only[^key-dbb14874b2d7b952944a1d64cf10c22c]
+## 33. Power to acquire subsoil only[^c-dbb14874b2d7b952944a1d64cf10c22c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb14874b2d7b952944a1d64cf10c22c]: Commencement: Art. 33 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-dbb14874b2d7b952944a1d64cf10c22c]: Commencement: Art. 33 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Charter of Patient Rights and Responsibilities
 
-### 1. Charter of Patient Rights and Responsibilities[^key-4d3fe14e516a3b5575b3f30eedf3d6cb]
+### 1. Charter of Patient Rights and Responsibilities[^c-4d3fe14e516a3b5575b3f30eedf3d6cb]
 
 (1) The Scottish Ministers must, within 6 months of the coming into force of this section, publish a document to be known as the Charter of Patient Rights and Responsibilities (“the Charter”).
 
@@ -72,7 +72,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (10) In carrying out the duty under subsection (9), a relevant NHS body must take account of the particular needs of the persons to whom the Charter is to be made available as to the form of the Charter (for example by making it available in different languages or in Braille or by having regard to the particular needs of adults with incapacity within the meaning of section 1(6) of the Adults with Incapacity (Scotland) Act 2000 (asp 4)).
 
-### 2. Review and revision of Charter[^key-e0b07af6f4143332b3275c76962ca50a]
+### 2. Review and revision of Charter[^c-e0b07af6f4143332b3275c76962ca50a]
 
 (1) The Scottish Ministers must carry out a review of the Charter at least once in any period of 5 years.
 
@@ -108,7 +108,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Patient rights
 
-### 3. Patient rights[^key-0bf1261af269f9e10d34846d5c60fcf2]
+### 3. Patient rights[^c-0bf1261af269f9e10d34846d5c60fcf2]
 
 (1) It is the right of every patient that the health care received by the patient be as described in subsection (2).
 
@@ -116,19 +116,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) be patient focused: that is to say, anything done in relation to the patient must take into account the patient's needs,
 - (b) have regard to the importance of providing the optimum benefit to the patient's health and wellbeing,
-- (c) allow and encourage the patient to participate as fully as possible in decisions relating to the patient's health and wellbeing (including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in subsection (3A))[^key-ed34f32166ceec67f01ee13c9f01f70e],
+- (c) allow and encourage the patient to participate as fully as possible in decisions relating to the patient's health and wellbeing (including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in subsection (3A))[^c-ed34f32166ceec67f01ee13c9f01f70e],
 - (d) have regard to the importance of providing such information and support as is necessary to enable the patient to participate in accordance with paragraph (c) and in relation to any related processes, taking all reasonable steps to ensure that the patient is supplied with information and support in a form that is appropriate to the patient's needs.
 
 (3) It is the right of every patient to give feedback or comments, or raise concerns or complaints about health care received.
 
-(3A)[^key-a2621150a8f7aaa78237947264384161] The decisions referred to in subsection (2)(c) are—
+(3A)[^c-a2621150a8f7aaa78237947264384161] The decisions referred to in subsection (2)(c) are—
 
 - (a) a decision about whether to undergo a forensic medical examination (and whether any such examination should take place without the incident in connection with which the examination would be carried out having been reported to a constable),
 - (b) a decision about whether to make a request under section 8(1)(a) of the 2021 Act.
 
 (4) The Scottish Ministers, after consulting such persons as they consider appropriate, may by order modify subsection (2).
 
-### 4. Patient rights: further provision[^key-d053c7298523d3cfca78f03a15ea3452]
+### 4. Patient rights: further provision[^c-d053c7298523d3cfca78f03a15ea3452]
 
 (1) In construing the right of a patient under section 3(1), the matters set out in subsection (2) below must be taken into account.
 
@@ -140,7 +140,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Health care principles
 
-### 5. Duty to uphold the health care principles[^key-13d1707c3f643079f713f8ae04b9e640]
+### 5. Duty to uphold the health care principles[^c-13d1707c3f643079f713f8ae04b9e640]
 
 (1) For the purposes of the rights conferred by section 3, each relevant NHS body must—
 
@@ -153,13 +153,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) a Special Health Board,
 - (c) the Common Services Agency for the Scottish Health Service (“**the Agency**”).
 
-### 6. Health care principles[^key-dc288ac6fe2afa6b788ad7e0819ea2c4]
+### 6. Health care principles[^c-dc288ac6fe2afa6b788ad7e0819ea2c4]
 
 (1) In this Act, “health care principles” are the principles set out in the schedule.
 
 (2) The Scottish Ministers, after consulting such persons as they consider appropriate, may by order modify the schedule.
 
-### 7. Health care principles: guidance and directions[^key-d3688a5f0f656fe49c12586e13b242bf]
+### 7. Health care principles: guidance and directions[^c-d3688a5f0f656fe49c12586e13b242bf]
 
 (1) A relevant NHS body must, for the purposes of section 5, have regard to any guidance issued by the Scottish Ministers in relation to the practical application of the health care principles.
 
@@ -169,7 +169,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Treatment time guarantee
 
-### 8. Treatment time guarantee[^key-34f200db1c32b486c8797d93e3df2028]
+### 8. Treatment time guarantee[^c-34f200db1c32b486c8797d93e3df2028]
 
 (1) In pursuance of the right conferred by section 3(1), an eligible patient is to start to receive an agreed treatment within the maximum waiting time.
 
@@ -190,7 +190,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) comply with any orders, regulations or directions made by the Scottish Ministers (whether under the 1978 Act or otherwise) which relate to targets for periods of time within which treatments or services are to be provided, or
 - (b) have regard to any guidance issued by the Scottish Ministers which relates to such targets.
 
-### 9. Treatment time guarantee: further provision[^key-3c6ec2ae264320646d3cce2447a63ef1]
+### 9. Treatment time guarantee: further provision[^c-3c6ec2ae264320646d3cce2447a63ef1]
 
 (1) The Scottish Ministers must by regulations make the further provision about the treatment time guarantee specified in subsection (2).
 
@@ -215,7 +215,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) amend the duration of the maximum waiting time for the time being specified in section 13,
 - (b) specify such different period of time to be the maximum waiting time under section 13 in relation to any treatment or services specified in such order.
 
-### 10. Breach of the treatment time guarantee[^key-3859197a6a39f6abd24af56545c3b6e1]
+### 10. Breach of the treatment time guarantee[^c-3859197a6a39f6abd24af56545c3b6e1]
 
 (1) This section applies where a Health Board has not complied with a treatment time guarantee.
 
@@ -233,13 +233,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) must have regard to the patient's availability, and
 - (c) must have regard to other relevant factors.
 
-### 11. Treatment time guarantee: guidance and directions[^key-fd508fde80500f4e7a1afc668879b860]
+### 11. Treatment time guarantee: guidance and directions[^c-fd508fde80500f4e7a1afc668879b860]
 
 (1) Health Boards must, when taking steps to start the treatment of eligible patients, have regard to any guidance issued by the Scottish Ministers which relates to the treatment time guarantee (and in particular, Health Boards' compliance with it).
 
 (2) The Scottish Ministers may direct a Health Board to take specified action in relation to its compliance with the treatment time guarantee (including, in particular, the steps it must take).
 
-### 12. Treatment time guarantee: suspension[^key-c90b04212f992520528e777929f5ca5f]
+### 12. Treatment time guarantee: suspension[^c-c90b04212f992520528e777929f5ca5f]
 
 (1) This section applies where the Scottish Ministers consider that exceptional circumstances exist.
 
@@ -276,7 +276,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) an order under subsection (4), or
 - (b) the making of a new order under subsection (4).
 
-### 13. Treatment time guarantee: key terms[^key-3466a554adec0241dbc21e2ceda30e5e]
+### 13. Treatment time guarantee: key terms[^c-3466a554adec0241dbc21e2ceda30e5e]
 
 For the purposes of this section and sections 8 to 12—
 
@@ -289,7 +289,7 @@ For the purposes of this section and sections 8 to 12—
 
 ## Patient feedback, comments, concerns or complaints
 
-### 14. Encouragement of patient feedback etc.[^key-454a5fef3c01bdd37bb20ee674dd7c5d]
+### 14. Encouragement of patient feedback etc.[^c-454a5fef3c01bdd37bb20ee674dd7c5d]
 
 (1) A relevant NHS body is to encourage patients to give feedback or comments, or raise concerns or complaints, on health care.
 
@@ -306,7 +306,7 @@ For the purposes of this section and sections 8 to 12—
 
 (6) The Scottish Ministers may give a relevant NHS body directions about the performance of the duties under subsections (1) and (4).
 
-### 15. Arrangements for handling and responding to patient feedback etc.[^key-25c8e398b6033f7354e83a47a3840631][^key-5f19227b9675e2badf87940a73f41d3b]
+### 15. Arrangements for handling and responding to patient feedback etc.[^c-25c8e398b6033f7354e83a47a3840631][^c-5f19227b9675e2badf87940a73f41d3b]
 
 (1) The Scottish Ministers must ensure that each relevant NHS body has adequate arrangements in place for the matters described in subsection (3).
 
@@ -342,17 +342,17 @@ For the purposes of this section and sections 8 to 12—
 
 (8) Nothing done under or by virtue of this section is to preclude an investigation under the Scottish Public Services Ombudsman Act 2002 (asp 11) in respect of any matter.
 
-### 16. Repeal of the Hospital Complaints Procedure Act 1985[^key-12d5695b60691ae11ca75907b619b42b]
+### 16. Repeal of the Hospital Complaints Procedure Act 1985[^c-12d5695b60691ae11ca75907b619b42b]
 
 The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 ## Patient advice and support service
 
-### 17. Patient advice and support service: establishment and funding[^key-c03cc04ae95afa52132d5e4042551628]
+### 17. Patient advice and support service: establishment and funding[^c-c03cc04ae95afa52132d5e4042551628]
 
-(1)[^key-3e4c5604a545ab77ca72b4b9f9f372c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3e4c5604a545ab77ca72b4b9f9f372c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) After section 10 of the 1978 Act[^key-74110cc32ccec9e2ef10e900f9c9cb92] insert—
+(2) After section 10 of the 1978 Act[^c-74110cc32ccec9e2ef10e900f9c9cb92] insert—
 
 > **10ZA. Provision of patient advice and support service**
 >
@@ -381,7 +381,7 @@ The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 .
 
-### 18. Patient advice and support service[^key-bef8ea1e7f9cff518547fa31bd1558f1]
+### 18. Patient advice and support service[^c-bef8ea1e7f9cff518547fa31bd1558f1]
 
 (1) The patient advice and support service to be secured by the Agency under section 10ZA of the 1978 Act is to provide advice and support services to patients and other members of the public in relation to the health service.
 
@@ -410,9 +410,9 @@ The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 (6) The Scottish Ministers may by regulations make further provision about the patient advice and support service and in particular about the services it is to provide.
 
-(7)[^key-4581713edb34e4c0b3a39efc55d50faa] In this section and section 19, references to the health service include reference to the services provided under the 2021 Act.
+(7)[^c-4581713edb34e4c0b3a39efc55d50faa] In this section and section 19, references to the health service include reference to the services provided under the 2021 Act.
 
-### 19. Duties to share information[^key-373956ec781c55eafbbb05ea082116a1]
+### 19. Duties to share information[^c-373956ec781c55eafbbb05ea082116a1]
 
 (1) A relevant body must (where reasonably practicable and otherwise appropriate) give providers of the patient advice and support service information about—
 
@@ -431,7 +431,7 @@ The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 ## Protections and limitations
 
-### 20. Protections and limitations[^key-8cfa8c0370ff6b923162bf53cc04dc7c]
+### 20. Protections and limitations[^c-8cfa8c0370ff6b923162bf53cc04dc7c]
 
 (1) Nothing in this Act prejudices—
 
@@ -456,7 +456,7 @@ The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 ## Inquiries and default and emergency powers
 
-### 21. Powers of the Scottish Ministers[^key-3df1d91ff1480fe3807ae38532780ffb]
+### 21. Powers of the Scottish Ministers[^c-3df1d91ff1480fe3807ae38532780ffb]
 
 (1) In sections 76, 77, 78 and 78A of the 1978 Act (inquiries and default and emergency powers) references to that Act include references to this Act.
 
@@ -503,21 +503,21 @@ The Hospital Complaints Procedure Act 1985 (c. 42) is repealed.
 
 ## General
 
-### 23. Interpretation[^key-5320d8902c45c986905482a30627603d]
+### 23. Interpretation[^c-5320d8902c45c986905482a30627603d]
 
 (1) In this Act, unless the contrary intention appears—
 
 - “**the 1978 Act**” means the National Health Service (Scotland) Act 1978 (c. 29);
-- “[^key-3ef7002c9321113904bea79d8c617ed3]**the 2021 Act**” means the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021;
+- “[^c-3ef7002c9321113904bea79d8c617ed3]**the 2021 Act**” means the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021;
 - “**the Agency**” has the meaning given by section 5(2)(c);
 - “**the Charter**” means the Charter of Patient Rights and Responsibilities published under section 1;
-- “**health care**” means services provided under the health service or under the 2021 Act[^key-c8c0308da5506a84fa6b90a2daa82cf9];
+- “**health care**” means services provided under the health service or under the 2021 Act[^c-c8c0308da5506a84fa6b90a2daa82cf9];
 - “**health care principles**” has the meaning given by section 6(1);
 - “**the health service**” means the health service established in pursuance of section 1 of the National Health Service (Scotland) Act 1947 (c. 27);
 - “**health service function**” means
-  - ((a)) any function under or by virtue of the 1978 Act which is a function concerned with, or connected to, the health service;[^key-04c4e020d3d8ac37effac0c6cb357741]
-  - ((b)) the functions conferred by the 2021 Act;[^key-78d21b422fb0be92a46458fbee71f23c]
-- “[^key-875140164ccb92b96897deb641632899]**patient**” includes (except in sections 8 to 13) a person in relation to whom a Health Board is exercising the functions conferred by the 2021 Act;
+  - ((a)) any function under or by virtue of the 1978 Act which is a function concerned with, or connected to, the health service;[^c-04c4e020d3d8ac37effac0c6cb357741]
+  - ((b)) the functions conferred by the 2021 Act;[^c-78d21b422fb0be92a46458fbee71f23c]
+- “[^c-875140164ccb92b96897deb641632899]**patient**” includes (except in sections 8 to 13) a person in relation to whom a Health Board is exercising the functions conferred by the 2021 Act;
 - “**patient advice and support service**” is to be construed in accordance with section 18(1);
 - “**relevant NHS body**” has the meaning given by section 5(2).
 
@@ -569,168 +569,168 @@ unless a draft of the statutory instrument containing the order or regulations h
 
 ### Patient focus
 
-**1.**[^key-7a37e9ba83926c3036103b77570f12f9] Anything done in relation to the patient takes into account the patient's needs.
+**1.**[^c-7a37e9ba83926c3036103b77570f12f9] Anything done in relation to the patient takes into account the patient's needs.
 
-**2.**[^key-9f29094c3d5442f5f7de17586129d62e] Patients are treated with dignity and respect.
+**2.**[^c-9f29094c3d5442f5f7de17586129d62e] Patients are treated with dignity and respect.
 
-**3.**[^key-c8eff24a44856cedee20abb16a376eea] Privacy and confidentiality are respected.
+**3.**[^c-c8eff24a44856cedee20abb16a376eea] Privacy and confidentiality are respected.
 
-**4.**[^key-8bb31c8be027cc91d33cf77a404f7ed1] Health care is provided in a caring and compassionate manner.
+**4.**[^c-8bb31c8be027cc91d33cf77a404f7ed1] Health care is provided in a caring and compassionate manner.
 
-**5.**[^key-aec834e2c3d5c522353e44e888412370] Support necessary to receive or access health care is available.
+**5.**[^c-aec834e2c3d5c522353e44e888412370] Support necessary to receive or access health care is available.
 
-**6.**[^key-d1ebca787989f709c573f21f71573ecb] The patient's abilities, characteristics and circumstances are considered.
+**6.**[^c-d1ebca787989f709c573f21f71573ecb] The patient's abilities, characteristics and circumstances are considered.
 
 ### Quality care and treatment
 
-**7.**[^key-5189202da57e0277bad27059ddb7ebf4] (1)[^key-85d0b18698c9e8f9a203789ec0a32be4] Regard is had to the importance of providing the optimum benefit to the patient's health and wellbeing.
+**7.**[^c-5189202da57e0277bad27059ddb7ebf4] (1)[^c-85d0b18698c9e8f9a203789ec0a32be4] Regard is had to the importance of providing the optimum benefit to the patient's health and wellbeing.
 
-(2)[^key-3185478e0660a767f41d4187f7ce39d8] Sub-paragraph (1) does not apply in relation to the exercise of functions conferred by the 2021 Act.
+(2)[^c-3185478e0660a767f41d4187f7ce39d8] Sub-paragraph (1) does not apply in relation to the exercise of functions conferred by the 2021 Act.
 
-**7A.**[^key-dcd88877c5d8da2b0f871183033ddaca] (1) Regard is to be had to the importance of providing health care in a way that seeks to avoid re-traumatisation and is otherwise trauma-informed.
+**7A.**[^c-dcd88877c5d8da2b0f871183033ddaca] (1) Regard is to be had to the importance of providing health care in a way that seeks to avoid re-traumatisation and is otherwise trauma-informed.
 
 (2) Sub-paragraph (1) applies only in relation to the exercise of functions conferred by section 1 of the 2021 Act.
 
-**8.**[^key-5b71a5746905389c2910acdab805c1dd] The range of options available in the patient's case is considered.
+**8.**[^c-5b71a5746905389c2910acdab805c1dd] The range of options available in the patient's case is considered.
 
-**9.**[^key-73fa78d00ba94433762af9154902a2cc] Health care is based on current recognised clinical guidance.
+**9.**[^c-73fa78d00ba94433762af9154902a2cc] Health care is based on current recognised clinical guidance.
 
-**10.**[^key-e5efaf3cf324729b4c1b088c6a3d196d] No avoidable harm or injury is to be caused to the patient by the health care provided.
+**10.**[^c-e5efaf3cf324729b4c1b088c6a3d196d] No avoidable harm or injury is to be caused to the patient by the health care provided.
 
-**11.**[^key-e711622ab5465da024980720d470a98b] Patients are cared for in an appropriate environment which is as clean and safe as is reasonably possible.
+**11.**[^c-e711622ab5465da024980720d470a98b] Patients are cared for in an appropriate environment which is as clean and safe as is reasonably possible.
 
 ### Patient participation
 
-**12.**[^key-55fb730c1a65e0ae7e7490352ac17446] Patients participate as fully as possible in decisions relating to the patient's health and wellbeing (including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in section 3(3A))[^key-412f932adca9c50cdcdabd275ca8f07e].
+**12.**[^c-55fb730c1a65e0ae7e7490352ac17446] Patients participate as fully as possible in decisions relating to the patient's health and wellbeing (including, where the health care being provided includes a service provided under the 2021 Act, decisions mentioned in section 3(3A))[^c-412f932adca9c50cdcdabd275ca8f07e].
 
-**13.**[^key-b113841f6ab18b93e5203362225b341a] Patients are provided with such information and support as is necessary to enable them to participate in accordance with paragraph 12 and in relation to any related processes (general or specific).
+**13.**[^c-b113841f6ab18b93e5203362225b341a] Patients are provided with such information and support as is necessary to enable them to participate in accordance with paragraph 12 and in relation to any related processes (general or specific).
 
-**14.**[^key-7c69e15228fb41efb54c706803b02586] Patients are encouraged to treat any person involved in the delivery of health care with dignity and respect.
+**14.**[^c-7c69e15228fb41efb54c706803b02586] Patients are encouraged to treat any person involved in the delivery of health care with dignity and respect.
 
 ### Communication
 
-**15.**[^key-3276979c01ec9bce6af1829e0c4a9ee4] Communication about a patient's health and wellbeing or, where the health care being provided includes a service provided under the 2021 Act, about matters relevant to the provision of that service[^key-9ed4cbd61c0781720f3384d2a92b450d] is clear, accessible and understood.
+**15.**[^c-3276979c01ec9bce6af1829e0c4a9ee4] Communication about a patient's health and wellbeing or, where the health care being provided includes a service provided under the 2021 Act, about matters relevant to the provision of that service[^c-9ed4cbd61c0781720f3384d2a92b450d] is clear, accessible and understood.
 
-**16.**[^key-d57fd2eeecaacfbb45a1af5a17be9600] Communication about general services and processes and decisions is clear, accessible and understood.
+**16.**[^c-d57fd2eeecaacfbb45a1af5a17be9600] Communication about general services and processes and decisions is clear, accessible and understood.
 
 ### Complaints
 
-**17.**[^key-3c9dc496a1ef370562a33a97c4cf41fd] Issues of concern are dealt with reasonably, promptly and in accordance with proper procedures.
+**17.**[^c-3c9dc496a1ef370562a33a97c4cf41fd] Issues of concern are dealt with reasonably, promptly and in accordance with proper procedures.
 
 ### Other
 
-**18.**[^key-3da8332156a561da4ae6b6b54a2928c3] Waste of resources in the provision of health care is avoided.
+**18.**[^c-3da8332156a561da4ae6b6b54a2928c3] Waste of resources in the provision of health care is avoided.
 
 ## Annotations
 
-[^key-4d3fe14e516a3b5575b3f30eedf3d6cb]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/5/section/1) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-4d3fe14e516a3b5575b3f30eedf3d6cb]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/5/section/1) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-e0b07af6f4143332b3275c76962ca50a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/5/section/2) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-e0b07af6f4143332b3275c76962ca50a]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/5/section/2) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-0bf1261af269f9e10d34846d5c60fcf2]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/5/section/3) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-0bf1261af269f9e10d34846d5c60fcf2]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/5/section/3) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-ed34f32166ceec67f01ee13c9f01f70e]: Textual amendment: Words in [s. 3(2)(c)](https://www.legislation.gov.uk/asp/2011/5/section/3/2/c) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/2/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-ed34f32166ceec67f01ee13c9f01f70e]: Textual amendment: Words in [s. 3(2)(c)](https://www.legislation.gov.uk/asp/2011/5/section/3/2/c) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/2/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-a2621150a8f7aaa78237947264384161]: Textual amendment: [S. 3(3A)](https://www.legislation.gov.uk/asp/2011/5/section/3/3A) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/2/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-a2621150a8f7aaa78237947264384161]: Textual amendment: [S. 3(3A)](https://www.legislation.gov.uk/asp/2011/5/section/3/3A) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/2/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-d053c7298523d3cfca78f03a15ea3452]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/5/section/4) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-d053c7298523d3cfca78f03a15ea3452]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/5/section/4) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-13d1707c3f643079f713f8ae04b9e640]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/5/section/5) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-13d1707c3f643079f713f8ae04b9e640]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/5/section/5) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-dc288ac6fe2afa6b788ad7e0819ea2c4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/5/section/6) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-dc288ac6fe2afa6b788ad7e0819ea2c4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/5/section/6) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-d3688a5f0f656fe49c12586e13b242bf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/5/section/7) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-d3688a5f0f656fe49c12586e13b242bf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/5/section/7) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-34f200db1c32b486c8797d93e3df2028]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/5/section/8) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-34f200db1c32b486c8797d93e3df2028]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/5/section/8) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-3c6ec2ae264320646d3cce2447a63ef1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/5/section/9) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-3c6ec2ae264320646d3cce2447a63ef1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/5/section/9) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-3859197a6a39f6abd24af56545c3b6e1]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/5/section/10) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-3859197a6a39f6abd24af56545c3b6e1]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/5/section/10) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-fd508fde80500f4e7a1afc668879b860]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/5/section/11) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-fd508fde80500f4e7a1afc668879b860]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/5/section/11) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-c90b04212f992520528e777929f5ca5f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/5/section/12) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-c90b04212f992520528e777929f5ca5f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/5/section/12) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-3466a554adec0241dbc21e2ceda30e5e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/5/section/13) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
+[^c-3466a554adec0241dbc21e2ceda30e5e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/5/section/13) in force at 1.10.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/35/article/2/b)
 
-[^key-454a5fef3c01bdd37bb20ee674dd7c5d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/5/section/14) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-454a5fef3c01bdd37bb20ee674dd7c5d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/5/section/14) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-25c8e398b6033f7354e83a47a3840631]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/5/section/15) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-25c8e398b6033f7354e83a47a3840631]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/5/section/15) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-5f19227b9675e2badf87940a73f41d3b]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2011/5/section/15) applied (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 6 para. 87](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/87) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-5f19227b9675e2badf87940a73f41d3b]: Modification: [S. 15](https://www.legislation.gov.uk/asp/2011/5/section/15) applied (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 6 para. 87](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/87) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-12d5695b60691ae11ca75907b619b42b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/5/section/16) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-12d5695b60691ae11ca75907b619b42b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/5/section/16) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-c03cc04ae95afa52132d5e4042551628]: Commencement: S. 17 in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-c03cc04ae95afa52132d5e4042551628]: Commencement: S. 17 in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3e4c5604a545ab77ca72b4b9f9f372c0]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/asp/2011/5/section/17/1) repealed (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(5)](https://www.legislation.gov.uk/asp/2014/9/section/71/5), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-3e4c5604a545ab77ca72b4b9f9f372c0]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/asp/2011/5/section/17/1) repealed (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 71(5)](https://www.legislation.gov.uk/asp/2014/9/section/71/5), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-74110cc32ccec9e2ef10e900f9c9cb92]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/asp/2011/5/section/17/2) substituted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 63(4)](https://www.legislation.gov.uk/asp/2014/9/section/63/4), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-74110cc32ccec9e2ef10e900f9c9cb92]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/asp/2011/5/section/17/2) substituted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 63(4)](https://www.legislation.gov.uk/asp/2014/9/section/63/4), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-bef8ea1e7f9cff518547fa31bd1558f1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/5/section/18) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-bef8ea1e7f9cff518547fa31bd1558f1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/5/section/18) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-4581713edb34e4c0b3a39efc55d50faa]: Textual amendment: [S. 18(7)](https://www.legislation.gov.uk/asp/2011/5/section/18/7) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(3)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/3) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-4581713edb34e4c0b3a39efc55d50faa]: Textual amendment: [S. 18(7)](https://www.legislation.gov.uk/asp/2011/5/section/18/7) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(3)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/3) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-373956ec781c55eafbbb05ea082116a1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/5/section/19) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-373956ec781c55eafbbb05ea082116a1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/5/section/19) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-8cfa8c0370ff6b923162bf53cc04dc7c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/5/section/20) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-8cfa8c0370ff6b923162bf53cc04dc7c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/5/section/20) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3df1d91ff1480fe3807ae38532780ffb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/5/section/21) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-3df1d91ff1480fe3807ae38532780ffb]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/5/section/21) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-5320d8902c45c986905482a30627603d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/5/section/23) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-5320d8902c45c986905482a30627603d]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/5/section/23) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3ef7002c9321113904bea79d8c617ed3]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-3ef7002c9321113904bea79d8c617ed3]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-c8c0308da5506a84fa6b90a2daa82cf9]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-c8c0308da5506a84fa6b90a2daa82cf9]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-04c4e020d3d8ac37effac0c6cb357741]: Textual amendment: Word in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(c)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/c/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-04c4e020d3d8ac37effac0c6cb357741]: Textual amendment: Word in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(c)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/c/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-78d21b422fb0be92a46458fbee71f23c]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(c)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/c/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-78d21b422fb0be92a46458fbee71f23c]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(c)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/c/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-875140164ccb92b96897deb641632899]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(d)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/d) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-875140164ccb92b96897deb641632899]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/5/section/23/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(4)(d)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/4/d) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-7a37e9ba83926c3036103b77570f12f9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/1) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-7a37e9ba83926c3036103b77570f12f9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/1) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-9f29094c3d5442f5f7de17586129d62e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/2) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-9f29094c3d5442f5f7de17586129d62e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/2) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-c8eff24a44856cedee20abb16a376eea]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/3) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-c8eff24a44856cedee20abb16a376eea]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/3) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-8bb31c8be027cc91d33cf77a404f7ed1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/4) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-8bb31c8be027cc91d33cf77a404f7ed1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/4) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-aec834e2c3d5c522353e44e888412370]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/5) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-aec834e2c3d5c522353e44e888412370]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/5) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-d1ebca787989f709c573f21f71573ecb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/6) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-d1ebca787989f709c573f21f71573ecb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/6) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-5189202da57e0277bad27059ddb7ebf4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-5189202da57e0277bad27059ddb7ebf4]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-85d0b18698c9e8f9a203789ec0a32be4]: Textual amendment: Sch. para. 7 renumbered as sch. para. 7(1) (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(a)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/a/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-85d0b18698c9e8f9a203789ec0a32be4]: Textual amendment: Sch. para. 7 renumbered as sch. para. 7(1) (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(a)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/a/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-3185478e0660a767f41d4187f7ce39d8]: Textual amendment: [Sch. para. 7(2)](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7/2) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(a)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/a/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-3185478e0660a767f41d4187f7ce39d8]: Textual amendment: [Sch. para. 7(2)](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7/2) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(a)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/a/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-dcd88877c5d8da2b0f871183033ddaca]: Textual amendment: [Sch. para. 7A](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7A) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [ss. 10(2)](https://www.legislation.gov.uk/asp/2021/3/section/10/2), [20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-dcd88877c5d8da2b0f871183033ddaca]: Textual amendment: [Sch. para. 7A](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/7A) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [ss. 10(2)](https://www.legislation.gov.uk/asp/2021/3/section/10/2), [20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-5b71a5746905389c2910acdab805c1dd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/8) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-5b71a5746905389c2910acdab805c1dd]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/8) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-73fa78d00ba94433762af9154902a2cc]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/9) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-73fa78d00ba94433762af9154902a2cc]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/9) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-e5efaf3cf324729b4c1b088c6a3d196d]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/10) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-e5efaf3cf324729b4c1b088c6a3d196d]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/10) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-e711622ab5465da024980720d470a98b]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/11) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-e711622ab5465da024980720d470a98b]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/11) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-55fb730c1a65e0ae7e7490352ac17446]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/12) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-55fb730c1a65e0ae7e7490352ac17446]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/12) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-412f932adca9c50cdcdabd275ca8f07e]: Textual amendment: Words in [sch. para. 12](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/12) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-412f932adca9c50cdcdabd275ca8f07e]: Textual amendment: Words in [sch. para. 12](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/12) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-b113841f6ab18b93e5203362225b341a]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/13) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-b113841f6ab18b93e5203362225b341a]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/13) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-7c69e15228fb41efb54c706803b02586]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/14) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-7c69e15228fb41efb54c706803b02586]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/14) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3276979c01ec9bce6af1829e0c4a9ee4]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/15) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-3276979c01ec9bce6af1829e0c4a9ee4]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/15) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-9ed4cbd61c0781720f3384d2a92b450d]: Textual amendment: Words in [sch. para. 15](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/15) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(c)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/c) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-9ed4cbd61c0781720f3384d2a92b450d]: Textual amendment: Words in [sch. para. 15](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/15) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 4(5)(c)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4/5/c) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-d57fd2eeecaacfbb45a1af5a17be9600]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/16) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-d57fd2eeecaacfbb45a1af5a17be9600]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/16) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3c9dc496a1ef370562a33a97c4cf41fd]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/17) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-3c9dc496a1ef370562a33a97c4cf41fd]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/17) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
 
-[^key-3da8332156a561da4ae6b6b54a2928c3]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/18) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)
+[^c-3da8332156a561da4ae6b6b54a2928c3]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2011/5/schedule/paragraph/18) in force at 1.4.2012 by [S.S.I. 2012/35](https://www.legislation.gov.uk/ssi/2012/35), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/35/article/2/a)

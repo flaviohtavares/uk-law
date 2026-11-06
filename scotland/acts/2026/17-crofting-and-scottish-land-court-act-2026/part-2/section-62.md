@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Reviews of the operation and jurisdiction of the Court[^key-2ed94de977e3840ed4426e81a284481d]
+## 62. Reviews of the operation and jurisdiction of the Court[^c-2ed94de977e3840ed4426e81a284481d]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed94de977e3840ed4426e81a284481d]: Commencement: S. 62 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-2ed94de977e3840ed4426e81a284481d]: Commencement: S. 62 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

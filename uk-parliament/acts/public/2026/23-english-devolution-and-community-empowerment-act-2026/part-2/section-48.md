@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Functions of fire and rescue authorities[^key-7dfdcf8d98ddf22c452c76256025274b][^key-060f575b122c507ea885f37aea6d195c]
+## 48. Functions of fire and rescue authorities[^c-7dfdcf8d98ddf22c452c76256025274b][^c-060f575b122c507ea885f37aea6d195c]
 
 *Extent: E+W*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7dfdcf8d98ddf22c452c76256025274b]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-7dfdcf8d98ddf22c452c76256025274b]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-060f575b122c507ea885f37aea6d195c]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2026/23/section/48) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-060f575b122c507ea885f37aea6d195c]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2026/23/section/48) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

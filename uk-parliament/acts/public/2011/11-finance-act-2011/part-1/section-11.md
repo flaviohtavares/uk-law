@@ -53,7 +53,7 @@ were treated as separate chargeable periods.
 
 is to be treated as being a chargeable period of one year ending at the same time as it actually ends.
 
-(11)[^key-fb9a0d9c4464a654b227688677cc55a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-fb9a0d9c4464a654b227688677cc55a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Nothing in subsections (8) to (11) affects the operation of sections 51M and 51N of that Act.
 
@@ -64,4 +64,4 @@ is to be treated as being a chargeable period of one year ending at the same tim
 
 ## Annotations
 
-[^key-fb9a0d9c4464a654b227688677cc55a9]: Textual amendment: [S. 11(11)](https://www.legislation.gov.uk/ukpga/2011/11/section/11/11) repealed (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/4) (with [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/6))
+[^c-fb9a0d9c4464a654b227688677cc55a9]: Textual amendment: [S. 11(11)](https://www.legislation.gov.uk/ukpga/2011/11/section/11/11) repealed (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/4) (with [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/5/6))

@@ -41,11 +41,11 @@ Coming into force
 
 The Lord Chancellor, with the concurrence of the Treasury, makes the following Order in exercise of the power conferred by section 9 of the Great Seal (Offices) Act 1874[^f00001]:
 
-**1.**[^key-af61d5d3625acfed645929954fe78218] This Order may be cited as the Crown Office Fees Order 2008 and shall come into force on 11th August 2008.
+**1.**[^c-af61d5d3625acfed645929954fe78218] This Order may be cited as the Crown Office Fees Order 2008 and shall come into force on 11th August 2008.
 
-**2.**[^key-1adceb15bc67157f75242f155d55048f] The fees set out in column 2 of the Schedule to this Order shall be taken in the office of the Clerk of the Crown in Chancery in respect of the matters described in column 1.
+**2.**[^c-1adceb15bc67157f75242f155d55048f] The fees set out in column 2 of the Schedule to this Order shall be taken in the office of the Clerk of the Crown in Chancery in respect of the matters described in column 1.
 
-**3.**[^key-4e5f123ee27d5e769c218fc98e404a94] The Crown Office Fees Order 2003[^f00002] is revoked.
+**3.**[^c-4e5f123ee27d5e769c218fc98e404a94] The Crown Office Fees Order 2003[^f00002] is revoked.
 
 Jack Straw
 
@@ -63,7 +63,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 17th July 2008
 
-## SCHEDULE[^key-23e68d79ee423ad610e0183add9d0f5e]
+## SCHEDULE[^c-23e68d79ee423ad610e0183add9d0f5e]
 
 | *Column 1* | *Column 2* |
 | --- | --- |
@@ -105,12 +105,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1874 c. 81](https://www.legislation.gov.uk/ukpga/1874/81). Section 9 was amended by section 1 of and the Schedule to the Statute Law Revision Act [1883 (c.39)](https://www.legislation.gov.uk/ukpga/1883/39), and by section 1(1) of and Schedule 1 to the Statute Law (Repeals) Act [1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44).
 
-[^key-af61d5d3625acfed645929954fe78218]: Commencement: Art. 1 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
+[^c-af61d5d3625acfed645929954fe78218]: Commencement: Art. 1 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
 
-[^key-1adceb15bc67157f75242f155d55048f]: Commencement: Art. 2 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
+[^c-1adceb15bc67157f75242f155d55048f]: Commencement: Art. 2 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
 
-[^key-4e5f123ee27d5e769c218fc98e404a94]: Commencement: Art. 3 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
+[^c-4e5f123ee27d5e769c218fc98e404a94]: Commencement: Art. 3 in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
 
 [^f00002]: Footnote: [S.I. 2003/92](https://www.legislation.gov.uk/uksi/2003/92).
 
-[^key-23e68d79ee423ad610e0183add9d0f5e]: Commencement: Sch. in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)
+[^c-23e68d79ee423ad610e0183add9d0f5e]: Commencement: Sch. in force at 11.8.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1977/article/1)

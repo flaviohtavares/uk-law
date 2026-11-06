@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Bail-in option[^key-81266b8f9c943bfd3d664a0a78e51b11]
+## 52A. Bail-in option[^c-81266b8f9c943bfd3d664a0a78e51b11]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81266b8f9c943bfd3d664a0a78e51b11]: Textual amendment: S. 52A inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-81266b8f9c943bfd3d664a0a78e51b11]: Textual amendment: S. 52A inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

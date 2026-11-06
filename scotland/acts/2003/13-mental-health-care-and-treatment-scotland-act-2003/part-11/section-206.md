@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 206. Review of hospital direction and transfer for treatment direction[^key-294a773bd893201a44df5c0ba6de4b43]
+## 206. Review of hospital direction and transfer for treatment direction[^c-294a773bd893201a44df5c0ba6de4b43]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-294a773bd893201a44df5c0ba6de4b43]: Commencement: [S. 206](https://www.legislation.gov.uk/asp/2003/13/section/206) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-294a773bd893201a44df5c0ba6de4b43]: Commencement: [S. 206](https://www.legislation.gov.uk/asp/2003/13/section/206) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

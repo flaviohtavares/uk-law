@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. Meaning of “relevant nuclear pension scheme”[^key-64a563ac4cbc21fbd85545bbd1c9e5a4]
+## 312. Meaning of “relevant nuclear pension scheme”[^c-64a563ac4cbc21fbd85545bbd1c9e5a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64a563ac4cbc21fbd85545bbd1c9e5a4]: Commencement: S. 312 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-64a563ac4cbc21fbd85545bbd1c9e5a4]: Commencement: S. 312 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

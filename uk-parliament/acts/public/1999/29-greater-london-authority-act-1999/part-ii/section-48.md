@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. People’s Question Time.[^key-a71155bee1f1c5431e9aea051d9a4bd7]
+## 48. People’s Question Time.[^c-a71155bee1f1c5431e9aea051d9a4bd7]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ a State of London debate held pursuant to section 47(1) above.
 
 ## Annotations
 
-[^key-a71155bee1f1c5431e9aea051d9a4bd7]: Modification: S. 48 modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-a71155bee1f1c5431e9aea051d9a4bd7]: Modification: S. 48 modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/c) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))

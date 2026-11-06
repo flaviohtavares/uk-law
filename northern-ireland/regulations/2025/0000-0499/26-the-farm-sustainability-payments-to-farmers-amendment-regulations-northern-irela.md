@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by sections 48 and 50(3)(a) of, and paragraph 5 of Schedule 6 to, the Agriculture Act 2020[^f00001] makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-53a3b91b958bd30c9845bb05b988b0cf]
+## 1. Citation, commencement and interpretation[^c-53a3b91b958bd30c9845bb05b988b0cf]
 
 (1) These Regulations may be cited as The Farm Sustainability Payments to Farmers (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 10<sup>th</sup> March 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-69c5b861c1b70f5ce46a66ae7329b47c]
+## 2. Amendment of Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^c-69c5b861c1b70f5ce46a66ae7329b47c]
 
 In Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640) supplementing [Regulation (EU) No. 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00003], in Article 6–
 
@@ -62,7 +62,7 @@ In Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.g
   > - 2\. The relevant authority shall perform the assessment referred to in paragraph 1 on the basis of a sample of reference parcels.
 - (c) in paragraph 3, omit from “by” to the end of that paragraph.
 
-## 3. The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^key-91cd7f1e48b68efcb170834c0d39fe6f]
+## 3. The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^c-91cd7f1e48b68efcb170834c0d39fe6f]
 
 (1) In regulation 4(1) of the Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014[^f00004]–
 
@@ -73,7 +73,7 @@ In Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.g
 
 (2) Omit regulation 4(2).
 
-## 4. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^key-81393e5b71a09d6071e2bf31f9001bf9]
+## 4. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^c-81393e5b71a09d6071e2bf31f9001bf9]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^f00005] shall be amended as follows.
 
@@ -99,7 +99,7 @@ In Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.g
     ,
 - (b) in paragraph (2), after “2<sup>nd</sup> May” insert “or 15<sup>th</sup> May”.
 
-## 5. Amendment of The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2015[^key-3009f526dcacbfd1c512837b5d80e7ad]
+## 5. Amendment of The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2015[^c-3009f526dcacbfd1c512837b5d80e7ad]
 
 In The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2015[^f00006]–
 
@@ -132,22 +132,22 @@ Regulation 5 reflects the responsibilities of the Department regarding Cross Com
 
 [^f00001]: Footnote: [2020 c.21](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-53a3b91b958bd30c9845bb05b988b0cf]: Commencement: Reg. 1 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
+[^c-53a3b91b958bd30c9845bb05b988b0cf]: Commencement: Reg. 1 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-69c5b861c1b70f5ce46a66ae7329b47c]: Commencement: Reg. 2 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
+[^c-69c5b861c1b70f5ce46a66ae7329b47c]: Commencement: Reg. 2 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2014/640
 
-[^key-91cd7f1e48b68efcb170834c0d39fe6f]: Commencement: Reg. 3 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
+[^c-91cd7f1e48b68efcb170834c0d39fe6f]: Commencement: Reg. 3 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2014 No. 291](https://www.legislation.gov.uk/nisr/2014/291) as amended by [SR 2015 No. 286](https://www.legislation.gov.uk/nisr/2015/286)
 
-[^key-81393e5b71a09d6071e2bf31f9001bf9]: Commencement: Reg. 4 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
+[^c-81393e5b71a09d6071e2bf31f9001bf9]: Commencement: Reg. 4 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2015 No.191](https://www.legislation.gov.uk/nisr/2015/191) as amended by [S.R. 2020 No. 22](https://www.legislation.gov.uk/nisr/2020/22) and [S.R. 2021 No. 40](https://www.legislation.gov.uk/nisr/2021/40)
 
-[^key-3009f526dcacbfd1c512837b5d80e7ad]: Commencement: Reg. 5 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
+[^c-3009f526dcacbfd1c512837b5d80e7ad]: Commencement: Reg. 5 in operation at 10.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/26/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2015 No 286](https://www.legislation.gov.uk/nisr/2015/286)

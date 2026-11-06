@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-e498aa7f6598103b6a19541465702225]
+## 1. Citation and commencement[^c-e498aa7f6598103b6a19541465702225]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Recall of MPs Act 2015 (Recall Petition) R
 
 ## Annotations
 
-[^key-e498aa7f6598103b6a19541465702225]: Commencement: Reg. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e498aa7f6598103b6a19541465702225]: Commencement: Reg. 1 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

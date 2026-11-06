@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Suspended sentences: powers of SAC[^key-763e2a180a2007b8ffb921a4b6096f0d][^key-f4b51b086c02c9b729149b3d396a9893]
+## 195. Suspended sentences: powers of SAC[^c-763e2a180a2007b8ffb921a4b6096f0d][^c-f4b51b086c02c9b729149b3d396a9893]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ the Summary Appeal Court must take account of any period of the suspended senten
 
 ## Annotations
 
-[^key-763e2a180a2007b8ffb921a4b6096f0d]: Commencement: S. 195 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-763e2a180a2007b8ffb921a4b6096f0d]: Commencement: S. 195 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f4b51b086c02c9b729149b3d396a9893]: Commencement: S. 195 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f4b51b086c02c9b729149b3d396a9893]: Commencement: S. 195 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

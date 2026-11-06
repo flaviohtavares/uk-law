@@ -150,11 +150,11 @@ Section 92.
 | Section 1 | Dealer giving or any person accepting reward for abstention from bidding. | £100 | £400 |
 | The Superannuation and Other Trust Funds (Validation) Act 1927, c. 41. |  |  |  |
 | Section 7 | Default in complying with requirements of Act, including requirements as to accounts and reports. | £5 | £10 |
-| [^key-da9a6ee1adac66fbfd0da2602b562526]. . . |  |  |  |
+| [^c-da9a6ee1adac66fbfd0da2602b562526]. . . |  |  |  |
 | [^c7307051]. . . |  |  |  |
 | [^c7307781]. . . |  |  |  |
 | . . . [^c7307791] | . . . [^c7307791] | . . . [^c7307791] | . . . [^c7307791] |
-| [^key-da9a6ee1adac66fbfd0da2602b562526]. . . |  |  |  |
+| [^c-da9a6ee1adac66fbfd0da2602b562526]. . . |  |  |  |
 | . . . [^c7307061] | . . . [^c7307061] | . . . [^c7307061] | . . . [^c7307061] |
 | The Children and Young Persons Act 1933, c. 12. |  |  |  |
 | Section 5 | Giving intoxicating liquor, or causing it to be given, to a child under a five. | £3 | £10 |
@@ -291,7 +291,7 @@ Section 92.
 
 *Extent: E+W+S*
 
-[^key-33d367cf6e78b7b0980f536b4bf74795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33d367cf6e78b7b0980f536b4bf74795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV — Amendments Extending to Northern Ireland
 
@@ -359,7 +359,7 @@ sections 6(6) and 45(6) of the [^c7310291]Agricultural Marketing Act 1958.
 
 [^c7307721]: Textual amendment: Entries repealed by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1982/30/schedule/7/part/I)
 
-[^key-da9a6ee1adac66fbfd0da2602b562526]: Textual amendment: Entries in [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1967/80/schedule/3/part/I) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/4)
+[^c-da9a6ee1adac66fbfd0da2602b562526]: Textual amendment: Entries in [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1967/80/schedule/3/part/I) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/4)
 
 [^c7307781]: Textual amendment: Sch. 3 Pt. I: entry relating to the Petroleum (Consolidation) Act 1928 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. VII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/VII)
 
@@ -425,7 +425,7 @@ sections 6(6) and 45(6) of the [^c7310291]Agricultural Marketing Act 1958.
 
 [^c7309861]: Textual amendment: Entry repealed by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1981/56/schedule/12/part/II)
 
-[^key-33d367cf6e78b7b0980f536b4bf74795]: Textual amendment: Sch. 3 Pt. III repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-33d367cf6e78b7b0980f536b4bf74795]: Textual amendment: Sch. 3 Pt. III repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c7310171]: Textual amendment: Sch. 3 Pt. IV: entries repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 

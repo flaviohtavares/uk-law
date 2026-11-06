@@ -30,7 +30,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Potatoes Originating in Egypt (Wales) Regulations 2004 (revoked)[^key-f19a16241627aac228efe109504f5016]
+The Potatoes Originating in Egypt (Wales) Regulations 2004 (revoked)[^c-f19a16241627aac228efe109504f5016]
 
 Made
 
@@ -40,48 +40,48 @@ Coming into force
 
 1 September 2004
 
-[^key-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-f19a16241627aac228efe109504f5016]
+## 1. Citation, application and commencement[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f19a16241627aac228efe109504f5016]
+## 2. Interpretation[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Imports of Potatoes originating in Egypt[^key-f19a16241627aac228efe109504f5016]
+## 3. Imports of Potatoes originating in Egypt[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Approval of premises for treatment of potatoes originating in Egypt[^key-f19a16241627aac228efe109504f5016]
+## 4. Approval of premises for treatment of potatoes originating in Egypt[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of an inspector[^key-f19a16241627aac228efe109504f5016]
+## 5. Powers of an inspector[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges in respect of the sampling of imports of potatoes[^key-f19a16241627aac228efe109504f5016]
+## 6. Charges in respect of the sampling of imports of potatoes[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-f19a16241627aac228efe109504f5016]
+## 7. Offences[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-f19a16241627aac228efe109504f5016]
+## 8. Revocations[^c-f19a16241627aac228efe109504f5016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f19a16241627aac228efe109504f5016]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f19a16241627aac228efe109504f5016]: Textual amendment: Regulations revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-f19a16241627aac228efe109504f5016]: Textual amendment: Regulations revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

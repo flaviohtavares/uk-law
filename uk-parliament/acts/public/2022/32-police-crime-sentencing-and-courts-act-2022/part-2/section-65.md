@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Recovery order on conviction for certain offences involving dogs[^key-bd2798619dd18d7d0514d6f115ed9232][^key-796a09be48e0c16fd3603a433d3c4e6f]
+## 65. Recovery order on conviction for certain offences involving dogs[^c-bd2798619dd18d7d0514d6f115ed9232][^c-796a09be48e0c16fd3603a433d3c4e6f]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd2798619dd18d7d0514d6f115ed9232]: Commencement: S. 65 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-bd2798619dd18d7d0514d6f115ed9232]: Commencement: S. 65 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-796a09be48e0c16fd3603a433d3c4e6f]: Commencement: S. 65 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-796a09be48e0c16fd3603a433d3c4e6f]: Commencement: S. 65 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

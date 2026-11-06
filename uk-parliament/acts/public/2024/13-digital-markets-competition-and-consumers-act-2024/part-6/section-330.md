@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Interpretation[^key-571d3dffec4c120870541ed8b132df03]
+## 330. Interpretation[^c-571d3dffec4c120870541ed8b132df03]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In this Act—
 
 ## Annotations
 
-[^key-571d3dffec4c120870541ed8b132df03]: Commencement: S. 330 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-571d3dffec4c120870541ed8b132df03]: Commencement: S. 330 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

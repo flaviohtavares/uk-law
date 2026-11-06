@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 39. Application for inclusion in the list[^key-6db6faec4e55c2503ca404c959790c89]
+## 39. Application for inclusion in the list[^c-6db6faec4e55c2503ca404c959790c89]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6db6faec4e55c2503ca404c959790c89]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/3/section/39) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-6db6faec4e55c2503ca404c959790c89]: Commencement: [S. 39](https://www.legislation.gov.uk/ukcm/2018/3/section/39) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

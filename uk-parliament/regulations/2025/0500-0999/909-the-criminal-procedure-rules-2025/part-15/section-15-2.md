@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.2. Prosecution disclosure and disclosure management[^key-2d116426e14df9bcb444cc8a8ad2987d]
+## 15.2. Prosecution disclosure and disclosure management[^c-2d116426e14df9bcb444cc8a8ad2987d]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2d116426e14df9bcb444cc8a8ad2987d]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/uksi/2025/909/rule/15.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2d116426e14df9bcb444cc8a8ad2987d]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/uksi/2025/909/rule/15.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00401]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 3 was amended by section 82 of, and paragraph 7 of Schedule 4 to, the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), section 32 and section 331 of, and paragraphs 20 and 21 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 272 of, and paragraph 39 of Schedule 10 to, the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25).
 

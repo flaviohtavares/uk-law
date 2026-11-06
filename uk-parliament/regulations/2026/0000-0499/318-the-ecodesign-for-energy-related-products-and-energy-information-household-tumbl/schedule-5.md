@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 6(6) and 11(1)
 
-**1.**[^key-1ee040f18299cb34b148eab1d65747f3] For an electric household tumble dryer, the technical documentation must include the following information—
+**1.**[^c-1ee040f18299cb34b148eab1d65747f3] For an electric household tumble dryer, the technical documentation must include the following information—
 
 - (a) a general description of the model allowing it to be unequivocally and easily identified;
 - (b) references to the designated standards applied or other measurement standards used;
@@ -58,7 +58,7 @@ Regulations 6(6) and 11(1)
   | Power consumption in delay start (P<sub>ds</sub>) (if applicable) | W | X.XX |
   | Repairability index | \- | X.XX |
 
-**2.**[^key-5fe6dcdb8cd81155e6d0efc9ad89f996] For a gas-fired household tumble dryer—
+**2.**[^c-5fe6dcdb8cd81155e6d0efc9ad89f996] For a gas-fired household tumble dryer—
 
 - (a) the technical documentation must include the information listed in paragraph 1 of this Schedule, except sub-paragraph (g), and the information set out in Table 2 for the eco programme, and
 - (b) the values in Table 2 are considered as the declared values for the purpose of the verification procedure in Schedule 13.
@@ -86,19 +86,19 @@ Regulations 6(6) and 11(1)
   | Power consumption in ‘delay start’ (P<sub>ds</sub>) (where applicable) | W | X.XX |
   | Repairability index | \- | X.XX |
 
-**3.**[^key-234d54e0d725f8b6d504934077a89bb3] The information included in the technical documentation for a particular household tumble dryer model may be obtained by using either of the following methods—
+**3.**[^c-234d54e0d725f8b6d504934077a89bb3] The information included in the technical documentation for a particular household tumble dryer model may be obtained by using either of the following methods—
 
 - (a) from a model that has the same technical characteristics relevant for the technical information to be provided but is produced by a different supplier, or
 - (b) by calculation on the basis of design or extrapolation from another model of the same or a different supplier.
 
-**4.**[^key-69e65b966fd9fc850c4a0157d5e1e8bb] Where the information referred to in paragraph 3 is obtained using any of the methods set out in [sub-paragraphs (a)](https://www.legislation.gov.uk/eur/2017/1369/article/12) and [(b)](https://www.legislation.gov.uk/eur/2017/1369/article/12) of [that paragraph](https://www.legislation.gov.uk/eur/2017/1369/article/12), the technical documentation must include the details of the calculation, the assessment undertaken by the supplier to verify the accuracy of the calculation and, where appropriate, the declaration of identity between the models of different suppliers.
+**4.**[^c-69e65b966fd9fc850c4a0157d5e1e8bb] Where the information referred to in paragraph 3 is obtained using any of the methods set out in [sub-paragraphs (a)](https://www.legislation.gov.uk/eur/2017/1369/article/12) and [(b)](https://www.legislation.gov.uk/eur/2017/1369/article/12) of [that paragraph](https://www.legislation.gov.uk/eur/2017/1369/article/12), the technical documentation must include the details of the calculation, the assessment undertaken by the supplier to verify the accuracy of the calculation and, where appropriate, the declaration of identity between the models of different suppliers.
 
 ## Annotations
 
-[^key-1ee040f18299cb34b148eab1d65747f3]: Commencement: Sch. 5 para. 1 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
+[^c-1ee040f18299cb34b148eab1d65747f3]: Commencement: Sch. 5 para. 1 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
 
-[^key-5fe6dcdb8cd81155e6d0efc9ad89f996]: Commencement: Sch. 5 para. 2 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
+[^c-5fe6dcdb8cd81155e6d0efc9ad89f996]: Commencement: Sch. 5 para. 2 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
 
-[^key-234d54e0d725f8b6d504934077a89bb3]: Commencement: Sch. 5 para. 3 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
+[^c-234d54e0d725f8b6d504934077a89bb3]: Commencement: Sch. 5 para. 3 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
 
-[^key-69e65b966fd9fc850c4a0157d5e1e8bb]: Commencement: Sch. 5 para. 4 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)
+[^c-69e65b966fd9fc850c4a0157d5e1e8bb]: Commencement: Sch. 5 para. 4 in force at 10.4.2026, see [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/f)

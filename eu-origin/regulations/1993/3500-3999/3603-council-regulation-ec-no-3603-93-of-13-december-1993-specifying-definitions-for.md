@@ -31,10 +31,10 @@ Council Regulation (EC) No 3603/93
 
 of 13 December 1993 specifying definitions for the application of the prohibitions referred to in Articles 104 and 104b (1) of the Treaty (revoked)
 
-[^key-bc6556a67345cb04bd89105b4b3beaea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc6556a67345cb04bd89105b4b3beaea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-bc6556a67345cb04bd89105b4b3beaea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-bc6556a67345cb04bd89105b4b3beaea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc6556a67345cb04bd89105b4b3beaea]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/484/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc6556a67345cb04bd89105b4b3beaea]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/484/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

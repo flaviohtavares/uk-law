@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Power to require gas and water pipes to be moved.[^key-c64982e96be435a153ce822fb0e29263]
+## 288. Power to require gas and water pipes to be moved.[^c-c64982e96be435a153ce822fb0e29263]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c64982e96be435a153ce822fb0e29263]: Modification: [S. 288](https://www.legislation.gov.uk/ukpga/1980/66/section/288) applied (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/378/schedule/1/paragraph/3)
+[^c-c64982e96be435a153ce822fb0e29263]: Modification: [S. 288](https://www.legislation.gov.uk/ukpga/1980/66/section/288) applied (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/378/schedule/1/paragraph/3)
 
 [^c13432101]: Marginal citation: [1875 c. 55](https://www.legislation.gov.uk/ukpga/1875/55).
 

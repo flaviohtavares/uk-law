@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Exemptions from requirements of sections 28 to 37 of 1982 Act[^key-6f3eb5079097cd1d3a784a23c0e172e1]
+## 73. Exemptions from requirements of sections 28 to 37 of 1982 Act[^c-6f3eb5079097cd1d3a784a23c0e172e1]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ After section 37 of the 1982 Act insert—
 
 ## Annotations
 
-[^key-6f3eb5079097cd1d3a784a23c0e172e1]: Commencement: S. 73 in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-6f3eb5079097cd1d3a784a23c0e172e1]: Commencement: S. 73 in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

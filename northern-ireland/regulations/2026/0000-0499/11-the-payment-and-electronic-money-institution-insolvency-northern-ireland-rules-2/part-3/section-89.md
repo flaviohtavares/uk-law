@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Issue and use of forms[^key-88009e44dc843683bfc32cd6b9619178]
+## 89. Issue and use of forms[^c-88009e44dc843683bfc32cd6b9619178]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88009e44dc843683bfc32cd6b9619178]: Commencement: [Rule 89](https://www.legislation.gov.uk/nisr/2026/11/rule/89) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-88009e44dc843683bfc32cd6b9619178]: Commencement: [Rule 89](https://www.legislation.gov.uk/nisr/2026/11/rule/89) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

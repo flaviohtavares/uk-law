@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34A. Secretary of State’s power to make regulations[^key-09ca058e1c72673e5ec79feca1e550b0]
+## 34A. Secretary of State’s power to make regulations[^c-09ca058e1c72673e5ec79feca1e550b0]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09ca058e1c72673e5ec79feca1e550b0]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/2003/6/section/34A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 3 para. 93(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/93/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-09ca058e1c72673e5ec79feca1e550b0]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/2003/6/section/34A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 3 para. 93(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/93/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

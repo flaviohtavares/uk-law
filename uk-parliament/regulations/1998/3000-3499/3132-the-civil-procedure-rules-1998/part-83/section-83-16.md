@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.16. Warrant of control or warrant of delivery – opposition by debtor and debtor’s request for transfer[^key-47e86d3c6fd2cdb1267b2c84766853be]
+## 83.16. Warrant of control or warrant of delivery – opposition by debtor and debtor’s request for transfer[^c-47e86d3c6fd2cdb1267b2c84766853be]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may, on an application by a debtor who wishes to oppose a request for 
 
 ## Annotations
 
-[^key-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))

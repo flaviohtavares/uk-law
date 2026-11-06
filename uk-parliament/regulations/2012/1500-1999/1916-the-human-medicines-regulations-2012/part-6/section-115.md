@@ -38,7 +38,7 @@ summary: ''
 
 (5) The information that may be required under paragraph (4) includes information arising from use of the product—
 
-- (a) in a country other than the United Kingdom[^key-0a7e8f8a053dbc0eeb2221b55c38f452]; or
+- (a) in a country other than the United Kingdom[^c-0a7e8f8a053dbc0eeb2221b55c38f452]; or
 - (b) outside the terms of the certificate of registration.
 
 (6) If the information supplied under paragraph (1), (2) or (4) entails the variation of the certificate of registration, the holder must make an application to the licensing authority to that effect as soon as is reasonably practicable after becoming aware of the information.
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a7e8f8a053dbc0eeb2221b55c38f452]: Textual amendment: Words in [reg. 115(5)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/115/5/a) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/775/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a7e8f8a053dbc0eeb2221b55c38f452]: Textual amendment: Words in [reg. 115(5)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/115/5/a) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/775/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

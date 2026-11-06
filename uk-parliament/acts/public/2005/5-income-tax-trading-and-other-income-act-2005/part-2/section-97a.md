@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Cash basis: value of trading stock on cessation of trade[^key-21f42a46d765d4b6ce27419c441da351]
+## 97A. Cash basis: value of trading stock on cessation of trade[^c-21f42a46d765d4b6ce27419c441da351]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
 - (a) a person permanently ceases to carry on a trade in a tax year, and
-- (b) the cash basis applies[^key-92ff2988d1bacde243d0422de8f34148] in relation to the trade for the tax year.
+- (b) the cash basis applies[^c-92ff2988d1bacde243d0422de8f34148] in relation to the trade for the tax year.
 
 (2) The value of any trading stock belonging to the trade at the time of the cessation is brought into account as a receipt in calculating the profits of the trade for the tax year.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21f42a46d765d4b6ce27419c441da351]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/21)
+[^c-21f42a46d765d4b6ce27419c441da351]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/21)
 
-[^key-92ff2988d1bacde243d0422de8f34148]: Textual amendment: Words in [s. 97A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/97A/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 23](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/23), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-92ff2988d1bacde243d0422de8f34148]: Textual amendment: Words in [s. 97A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/97A/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 23](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/23), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

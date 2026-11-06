@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendments to Title 5[^key-cc28b7795afd10b633619f1f089ac83e]
+## 20. Amendments to Title 5[^c-cc28b7795afd10b633619f1f089ac83e]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc28b7795afd10b633619f1f089ac83e]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-cc28b7795afd10b633619f1f089ac83e]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80AA. Modification of regulation 80: Homes for Ukraine Sponsorship Scheme: second scenario[^key-ac444858065b4354420037bc24620256]
+## 80AA. Modification of regulation 80: Homes for Ukraine Sponsorship Scheme: second scenario[^c-ac444858065b4354420037bc24620256]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) has or had Homes for Ukraine Sponsorship Scheme leave,
 - (b) applied for that leave before 3:00 p.m. on 19th February 2024,
-- (c) applied for Ukraine Permission Extension Scheme leave on or before the day on which their Homes for Ukraine Sponsorship Scheme leave expired, [^key-31060c05fc4a4b102dfd599ca2f251f3]...
-- (ca)[^key-36c160b9410bed1e03f4688aeca12525] where the application for Ukraine Permission Extension Scheme leave was granted, has not applied for an extension to that leave, and
+- (c) applied for Ukraine Permission Extension Scheme leave on or before the day on which their Homes for Ukraine Sponsorship Scheme leave expired, [^c-31060c05fc4a4b102dfd599ca2f251f3]...
+- (ca)[^c-36c160b9410bed1e03f4688aeca12525] where the application for Ukraine Permission Extension Scheme leave was granted, has not applied for an extension to that leave, and
 - (d) is the holder of a relevant permit within the meaning given by regulation 80(6) which was issued under the law of Ukraine.
 
 (2) Where this regulation applies, regulation 80(1) has effect as if the reference to the period of one year after a person becomes resident in Great Britain were to the shorter of the following—
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ac444858065b4354420037bc24620256]: Textual amendment: [Reg. 80AA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/138/regulation/5)
+[^c-ac444858065b4354420037bc24620256]: Textual amendment: [Reg. 80AA](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/138/regulation/5)
 
-[^key-31060c05fc4a4b102dfd599ca2f251f3]: Textual amendment: Word in [reg. 80AA(1)(c)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA/1/c) omitted (27.7.2026) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/741/regulation/5/a)
+[^c-31060c05fc4a4b102dfd599ca2f251f3]: Textual amendment: Word in [reg. 80AA(1)(c)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA/1/c) omitted (27.7.2026) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/741/regulation/5/a)
 
-[^key-36c160b9410bed1e03f4688aeca12525]: Textual amendment: [Reg. 80AA(1)(ca)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA/1/ca) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/741/regulation/5/b)
+[^c-36c160b9410bed1e03f4688aeca12525]: Textual amendment: [Reg. 80AA(1)(ca)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AA/1/ca) inserted (27.7.2026) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/741)](https://www.legislation.gov.uk/uksi/2026/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/741/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/741/regulation/5/b)

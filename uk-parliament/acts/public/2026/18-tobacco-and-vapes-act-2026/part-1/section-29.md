@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Restricted sale orders: appeals[^key-3287677d6a7b82432da8d9e568250ec4]
+## 29. Restricted sale orders: appeals[^c-3287677d6a7b82432da8d9e568250ec4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An appeal against an order made under section 28 may be brought to the Crown Cou
 
 ## Annotations
 
-[^key-3287677d6a7b82432da8d9e568250ec4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2026/18/section/29) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-3287677d6a7b82432da8d9e568250ec4]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2026/18/section/29) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

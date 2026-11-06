@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Depopulation operations[^key-dba0c62c943cba47b32588b94a421989]
+## 29. Depopulation operations[^c-dba0c62c943cba47b32588b94a421989]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where the competent authority grants a derogation under Article 18(3), the compe
 
 ## Annotations
 
-[^key-dba0c62c943cba47b32588b94a421989]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2014/951/regulation/29) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-dba0c62c943cba47b32588b94a421989]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2014/951/regulation/29) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

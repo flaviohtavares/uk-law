@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-724199d9474f81faf549ed8387972d48]
+## 2. Interpretation[^c-724199d9474f81faf549ed8387972d48]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 - “compulsory acquisition notice” means a notice served in accordance with section 134 of the 2008 Act;
 - “connection works” means Works No. 3B to 41 and any related further associated development in connection with those works, including, in relation to cable laying, jointing bays, manholes, kiosks, marker posts and other works associated with cable laying;
 - “construction consolidation site” means a construction site associated with the connection works including hard standings, lay down and storage areas for construction materials and equipment, areas for spoil, areas for vehicular parking, bunded storage areas, areas for welfare facilities including offices and canteen and washroom facilities, workshop facilities and temporary fencing or other means of enclosure and areas for other facilities required for construction purposes;
-- “deemed generation assets marine licence” means the licence set out in Schedule 10 (deemed licence under the Marine and Coastal Access Act 2009 – generation assets) and deemed by article 29[^key-193ca66a45eff86d904cc5f83a7245b0] to have been granted under Part 4 of the 2009 Act, by virtue of section 149A of the 2008 Act;
+- “deemed generation assets marine licence” means the licence set out in Schedule 10 (deemed licence under the Marine and Coastal Access Act 2009 – generation assets) and deemed by article 29[^c-193ca66a45eff86d904cc5f83a7245b0] to have been granted under Part 4 of the 2009 Act, by virtue of section 149A of the 2008 Act;
 - “deemed marine licences” means the licence set out in Schedule 9 (deemed licence under the Marine and Coastal Access Act 2009 – generation assets) and the licence set out in Schedule 10 (deemed licence under the Marine and Coastal Access Act 2009 – transmission assets);
 - “deemed transmission assets marine licence” means the licence set out in Schedule 11 (deemed licence under the Marine and Coastal Access Act 2009 – transmission assets) and deemed by article 29 to have been granted under Part 4 of the 2009 Act, by virtue of section 149A of the 2008 Act;
 - “Defence Infrastructure Organisation Safeguarding” means Ministry of Defence Safeguarding, Defence Infrastructure Organisation, Kingston Road, Sutton Coldfield, West Midlands, B75 7RL and any successor body to its functions;
@@ -56,10 +56,10 @@ summary: ''
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
 - “horizontal directional drilling” includes, for the purposes of this Order, trenchless techniques for laying the onshore cables;
 - “horizontal directional drilling compound” means a construction site associated with the connection works where horizontal directional drilling is proposed including hard standings, lay down and storage areas for construction materials and equipment, areas for spoil, areas for vehicular parking, bunded storage areas, areas for welfare facilities including offices and canteen and washroom facilities, wheel washing facilities, workshop facilities and temporary fencing or other means of enclosure and areas for other facilities required for construction purposes;
-- “HVAC” means high voltage alternating current;[^key-b6569231e40142bb9eebec2b1f9d781c]
+- “HVAC” means high voltage alternating current;[^c-b6569231e40142bb9eebec2b1f9d781c]
 - “HVAC offshore collector station” means a platform with one or more decks, whether open or fully clad, accommodating electrical power transformers, low, medium and/or high voltage switch gear, instrumentation, protection and control systems, neutral earthing resistors, reactive compensation, standby electrical generation equipment, fuelling facilities, auxiliary and uninterruptible power supply systems and transformers, accommodation and/or emergency shelter, craneage, metering stations, meteorological equipment, helicopter landing facilities, messing facilities, potable water storage, black water separation equipment, control hub, drainage facilities, access equipment, J-tubes, marking and lighting and other associated equipment and facilities to enable the transmission of electronic communications and for electricity to be collected at, and exported from, the platform;
 - “HVDC offshore converter station” means a platform with one or more decks, whether open or fully clad, accommodating electrical power transformers, AC equipment including phase reactors and AC filters, AC/DC converter with switching devices, DC equipment including DC capacitors and DC filters and associated equipment, switch gear, cooling systems, instrumentation, protection and control systems, standby electrical generation equipment, fuelling facilities, auxiliary and uninterruptible power supply systems and transformers, accommodation and/or emergency shelter, craneage, meteorological equipment, helicopter landing facilities, messing facilities, potable water storage, black water separation equipment, control hub, drainage facilities, access equipment, J-tubes, marking and lighting and other associated equipment and facilities to enable the transmission of electronic communication and the conversion and transmission of electricity;
-- “HVAC offshore wind farm” means a wind turbine generating station with a gross electrical output capacity of up to 750 MW comprising up to 102[^key-17984eaf928f629e61d3fa6d5a735152] wind turbine generators;
+- “HVAC offshore wind farm” means a wind turbine generating station with a gross electrical output capacity of up to 750 MW comprising up to 102[^c-17984eaf928f629e61d3fa6d5a735152] wind turbine generators;
 - “HVAC option” means the sub-sea export cables in Work No. 3A and the connection works between the HVAC offshore wind farm and the connection point at the existing National Grid Bramford substation by way of a HVAC transmission system;
 - “HVDC” means high voltage direct current;
 - “HVDC offshore wind farm” means a wind turbine generating station with a gross electrical output capacity of up to 1200 MW comprising up to 240 wind turbine generators;
@@ -125,7 +125,7 @@ summary: ''
 
 ## Annotations
 
-[^key-724199d9474f81faf549ed8387972d48]: Commencement: Art. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-724199d9474f81faf549ed8387972d48]: Commencement: Art. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -145,10 +145,10 @@ summary: ''
 
 [^f00012]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-193ca66a45eff86d904cc5f83a7245b0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-193ca66a45eff86d904cc5f83a7245b0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-b6569231e40142bb9eebec2b1f9d781c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-b6569231e40142bb9eebec2b1f9d781c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-17984eaf928f629e61d3fa6d5a735152]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1086/article/3)
+[^c-17984eaf928f629e61d3fa6d5a735152]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/2/1) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1086/article/3)
 
 [^f00013]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.

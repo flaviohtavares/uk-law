@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Guidance[^key-1830eaae0fe235cee8a2755b92c21ca9]
+## 32. Guidance[^c-1830eaae0fe235cee8a2755b92c21ca9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1830eaae0fe235cee8a2755b92c21ca9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/17/section/32) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-1830eaae0fe235cee8a2755b92c21ca9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/17/section/32) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

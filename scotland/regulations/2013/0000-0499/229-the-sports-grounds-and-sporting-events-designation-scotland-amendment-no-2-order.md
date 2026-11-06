@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events
 
-The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment (No. 2) Order 2013 (revoked)[^key-ead68022828040531ced45b8ccad194b]
+The Sports Grounds and Sporting Events (Designation) (Scotland) Amendment (No. 2) Order 2013 (revoked)[^c-ead68022828040531ced45b8ccad194b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th July 2013
 
-[^key-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ead68022828040531ced45b8ccad194b]
+## 1. Citation and commencement[^c-ead68022828040531ced45b8ccad194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sports Grounds and Sporting Events (Designation) (Scotland) Order 2010[^key-ead68022828040531ced45b8ccad194b]
+## 2. Amendment of the Sports Grounds and Sporting Events (Designation) (Scotland) Order 2010[^c-ead68022828040531ced45b8ccad194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ead68022828040531ced45b8ccad194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ead68022828040531ced45b8ccad194b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/229) revoked (8.2.2014) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2014 (S.S.I. 2014/5)](https://www.legislation.gov.uk/ssi/2014/5), [arts. 1](https://www.legislation.gov.uk/ssi/2014/5/article/1), [3](https://www.legislation.gov.uk/ssi/2014/5/article/3), [sch. 3](https://www.legislation.gov.uk/ssi/2014/5/schedule/3)
+[^c-ead68022828040531ced45b8ccad194b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/229) revoked (8.2.2014) by [The Sports Grounds and Sporting Events (Designation) (Scotland) Order 2014 (S.S.I. 2014/5)](https://www.legislation.gov.uk/ssi/2014/5), [arts. 1](https://www.legislation.gov.uk/ssi/2014/5/article/1), [3](https://www.legislation.gov.uk/ssi/2014/5/article/3), [sch. 3](https://www.legislation.gov.uk/ssi/2014/5/schedule/3)

@@ -49,7 +49,7 @@ In accordance with section 160A(2) and (5) of the Environmental Protection Act 1
 
 ## PART 1 — Introduction
 
-### 1. Title, coming into force and application[^key-a212092d14d7ddcd25e4845f3c7d489c]
+### 1. Title, coming into force and application[^c-a212092d14d7ddcd25e4845f3c7d489c]
 
 (1) The title of these Regulations is the Waste Separation Requirements (Wales) Regulations 2023.
 
@@ -57,7 +57,7 @@ In accordance with section 160A(2) and (5) of the Environmental Protection Act 1
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-d8a26d1285f312aeff13d3d22744d947]
+### 2. Interpretation[^c-d8a26d1285f312aeff13d3d22744d947]
 
 In these Regulations—
 
@@ -78,7 +78,7 @@ In these Regulations—
   - (b) cartons and similar, metal and plastic;
   - (c) paper and card;
   - (d) food waste;
-  - (e) [^key-58834f68bd287989b6da3bf3b9b213fb]... small waste electrical and electronic equipment;
+  - (e) [^c-58834f68bd287989b6da3bf3b9b213fb]... small waste electrical and electronic equipment;
   - (f) unsold textiles,
 
   each comprising of the waste sub-fractions listed in Schedule 1, and “**recyclable waste stream**” means each of the individual streams listed in paragraphs (a) to (f);
@@ -88,7 +88,7 @@ In these Regulations—
 
 ## PART 2 — Separation Requirements
 
-### 3. Duties in relation to presentation of waste[^key-4d43b8ec5a1ae0932750c59adde9c494]
+### 3. Duties in relation to presentation of waste[^c-4d43b8ec5a1ae0932750c59adde9c494]
 
 (1) For the purposes of section 45AA(4) of the 1990 Act, the separation requirements are that each recyclable waste stream must, as a minimum, be presented for collection separately from any other recyclable waste stream and from other types of controlled waste or other substances or articles.
 
@@ -99,22 +99,22 @@ In these Regulations—
 
 (3) Paragraph (1) does not apply to—
 
-- (a)[^key-2c757c0842aaa00bec6dde11cd72442b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2c757c0842aaa00bec6dde11cd72442b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) controlled waste collected by a local authority as respects any relevant highway in respect of which a local authority has a duty under section 89(1)(a) of the 1990 Act to ensure that the land is, so far as is practicable, kept clear of litter and refuse;
 - (c) controlled waste collected by a principal litter authority as respects its relevant land in respect of which a principal litter authority has a duty under section 89(1)(c) of the 1990 Act to ensure that the land is, so far as is practicable, kept clear of litter and refuse.
 
 (4) In this regulation—
 
-- [^key-1baf307adc88d437083a5ef6d28ebfdc]...
+- [^c-1baf307adc88d437083a5ef6d28ebfdc]...
 - “**preparation for re-use**” (“***paratoi i’w ailddefnyddio***”) means checking, cleaning or repairing recovery operations, by which products or components of products that have become waste are prepared so that they can be used again for the same purpose for which they were conceived without any pre-processing;
 - “**principal litter authority**” (“***prif awdurdod sbwriel***”), “**relevant highway**” (“***priffordd berthnasol***”) and “**relevant land**” (“***tir perthnasol***”) have the meanings given by section 86 of the 1990 Act;
 - “**recycling**” (“***ailgylchu***”) means any recovery operation by which waste materials are reprocessed into products, materials or substances whether for the original or other purposes. It includes the reprocessing of organic material but does not include energy recovery and the reprocessing into materials that are to be used as fuels or for backfilling operations.
 
-### 4. Duties in relation to collection of waste[^key-d0e4a3e14d882959118f8001b6138018]
+### 4. Duties in relation to collection of waste[^c-d0e4a3e14d882959118f8001b6138018]
 
 For the purposes of section 45AA(1) and (2)(a) of the 1990 Act, the separation requirements are that each recyclable waste stream that has been presented separately for collection under regulation 3 must, as a minimum, be collected separately from any other recyclable waste stream and from other types of controlled waste or other substances or articles.
 
-### 5. Duties in relation to collected waste[^key-7384ee94baa038cc27acec438c2d41ae]
+### 5. Duties in relation to collected waste[^c-7384ee94baa038cc27acec438c2d41ae]
 
 (1) For the purposes of section 45AA(2)(b) of the 1990 Act, the separation requirements are that, where controlled waste has been separately collected from premises, a person acting in the course of a business who receives, keeps, treats or transports that waste must not mix that waste with any other recyclable waste stream or with other types of waste or other substances or articles.
 
@@ -122,37 +122,37 @@ For the purposes of section 45AA(1) and (2)(a) of the 1990 Act, the separation r
 
 ## PART 3 — Civil Sanctions
 
-### 6. Civil sanctions[^key-4b832a4fec76ce2171683d590fb92785]
+### 6. Civil sanctions[^c-4b832a4fec76ce2171683d590fb92785]
 
 Schedule 2 (civil sanctions) makes provision about the civil sanctions that may be imposed for the purpose of the enforcement of an offence under section 45AA(8) of the 1990 Act.
 
 ## PART 4 — Amendments to the 1990 Act and the Waste (England and Wales) Regulations 2011
 
-### 7. Amendments to the 1990 Act: Wales[^key-c51a69e7eb97af799f4dc0e7e3191d9e]
+### 7. Amendments to the 1990 Act: Wales[^c-c51a69e7eb97af799f4dc0e7e3191d9e]
 
 The 1990 Act is amended as follows.
 
-**8.**[^key-94fe0d063a87261737f4bf5297f2039c] In section 46 (receptacles for household waste), after subsection (5) insert—
+**8.**[^c-94fe0d063a87261737f4bf5297f2039c] In section 46 (receptacles for household waste), after subsection (5) insert—
 
 > (5A) A requirement imposed on an occupier by a waste collection authority in Wales by a notice under this section does not apply so far as the requirement duplicates or conflicts with a requirement imposed on the occupier under section 45AA(4).
 
-**9.**[^key-6b01cfac627a169e4a819bbec34ba13e] In section 47 (receptacles for commercial or industrial waste), after subsection (5) insert—
+**9.**[^c-6b01cfac627a169e4a819bbec34ba13e] In section 47 (receptacles for commercial or industrial waste), after subsection (5) insert—
 
 > (5A) A requirement imposed on an occupier by a waste collection authority in Wales by a notice under this section does not apply so far as the requirement duplicates or conflicts with a requirement imposed on the occupier under section 45AA(4).
 
-### 10. Amendments to the Waste (England and Wales) Regulations 2011: Wales[^key-991be2a7c063169ecbe36b4bfe3aa05d]
+### 10. Amendments to the Waste (England and Wales) Regulations 2011: Wales[^c-991be2a7c063169ecbe36b4bfe3aa05d]
 
 The Waste (England and Wales) Regulations 2011[^f00013] are amended as follows.
 
-**11.**[^key-7b6c73c5a79168ac1ccedeef585c12cb] In regulation 13 (duties in relation to collection of waste), before paragraph (2) insert—
+**11.**[^c-7b6c73c5a79168ac1ccedeef585c12cb] In regulation 13 (duties in relation to collection of waste), before paragraph (2) insert—
 
 > (1A) In relation to Wales, paragraphs (2) to (4) apply in relation to the collection of waste from a domestic property or a caravan.
 
-**12.**[^key-06218c3c59a4453e163d0f3aba3949a4] In regulation 14 (duty in relation to collected waste), before paragraph (1) insert—
+**12.**[^c-06218c3c59a4453e163d0f3aba3949a4] In regulation 14 (duty in relation to collected waste), before paragraph (1) insert—
 
 > (A1) In relation to Wales, paragraphs (1) and (2) apply in relation to separately collected waste from a domestic property or a caravan.
 
-**13.**[^key-0ab32b26567c1abe040fffafd010e6b0] After regulation 15 (guidance) insert—
+**13.**[^c-0ab32b26567c1abe040fffafd010e6b0] After regulation 15 (guidance) insert—
 
 > **15A. Interpretation: Wales**
 >
@@ -169,13 +169,13 @@ Minister for Climate Change, one of the Welsh Ministers
 
 SCHEDULES
 
-## SCHEDULE 1 — Waste sub-fractions comprising each recyclable waste stream[^key-6febec78eaa32971de8d9d4b677047b4]
+## SCHEDULE 1 — Waste sub-fractions comprising each recyclable waste stream[^c-6febec78eaa32971de8d9d4b677047b4]
 
 Regulation 2
 
 ### Glass
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 Glass bottles used as packaging
 
@@ -185,7 +185,7 @@ but excluding any waste categorised as hazardous under regulation 6 of the Hazar
 
 ### Cartons and similar, metal and plastic
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 **Cartons and similar**
 
@@ -201,7 +201,7 @@ but excluding any waste categorised as hazardous under regulation 6 of the Hazar
 
 ### Metal
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 Aluminium foil
 
@@ -219,7 +219,7 @@ but excluding any waste categorised as hazardous under regulation 6 of the Hazar
 
 ### Plastic
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 Amorphous polyethylene terephthalate and crystallised polyethylene terephthalate plastic packaging comprising pots, tubs, trays, rigid and semi-rigid lids and clear cups except where the plastic contains carbon black pigment so that it is not near infrared detectable
 
@@ -229,7 +229,7 @@ High density polyethylene and low density polyethylene packaging comprising pots
 
 High density polyethylene and low density polyethylene plastic bottles, pumps and triggers except where the plastic contains carbon black pigment so that it is not near infrared detectable
 
-Polypropylene [^key-59421c1bd739f284df976dd218d01802]... plastic packaging comprising pots, tubs, trays, rigid and semi-rigid lids and clear cups except where the plastic contains carbon black pigment so that it is not near infrared detectable
+Polypropylene [^c-59421c1bd739f284df976dd218d01802]... plastic packaging comprising pots, tubs, trays, rigid and semi-rigid lids and clear cups except where the plastic contains carbon black pigment so that it is not near infrared detectable
 
 Polyethylene and polypropylene plastic packaging tubes except:
 
@@ -244,7 +244,7 @@ but excluding any waste categorised as hazardous under regulation 6 of the Hazar
 
 ### Paper and card
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 All paper and card except:
 
@@ -278,19 +278,19 @@ and also excluding any waste paper or card categorised as hazardous under regula
 
 ### Food waste
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 All food waste (see definition of “food waste” in regulation 2)
 
-### ... Small waste electrical and electronic equipment[^key-54066a5aec5d5640f1b88b35dd3caaad]
+### ... Small waste electrical and electronic equipment[^c-54066a5aec5d5640f1b88b35dd3caaad]
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
-All small waste electrical and electronic equipment (see definition of “small waste electrical and electronic equipment” in regulation 2), but excluding any waste categorised as hazardous under regulation 6 of the Hazardous Waste (Wales) Regulations 2005 or containing residues of, or contaminated by, waste or substances categorised as hazardous under regulation 6 of those Regulations[^key-e8d6a726cb368c55093aa0934e16aa7a]
+All small waste electrical and electronic equipment (see definition of “small waste electrical and electronic equipment” in regulation 2), but excluding any waste categorised as hazardous under regulation 6 of the Hazardous Waste (Wales) Regulations 2005 or containing residues of, or contaminated by, waste or substances categorised as hazardous under regulation 6 of those Regulations[^c-e8d6a726cb368c55093aa0934e16aa7a]
 
 ### Unsold textiles
 
-[^key-6febec78eaa32971de8d9d4b677047b4]
+[^c-6febec78eaa32971de8d9d4b677047b4]
 
 Clothing
 
@@ -306,7 +306,7 @@ Regulation 6
 
 ### PART 1 — Fixed monetary penalties
 
-#### 1. Imposition of a fixed monetary penalty[^key-ec31ff6eb7da76eafb0b6aa57cc6c60c]
+#### 1. Imposition of a fixed monetary penalty[^c-ec31ff6eb7da76eafb0b6aa57cc6c60c]
 
 (1) The regulator may by notice impose a fixed monetary penalty on a person (“fixed monetary penalty”) in relation to an offence under section 45AA(8) of the 1990 Act.
 
@@ -314,7 +314,7 @@ Regulation 6
 
 (3) The amount of penalty to be paid to the regulator is specified in the table in Part 2 of this Schedule.
 
-#### 2. Notice of intent[^key-18b810d29a40e69bbfb4a984ad476bf0]
+#### 2. Notice of intent[^c-18b810d29a40e69bbfb4a984ad476bf0]
 
 (1) Where the regulator proposes to impose a fixed monetary penalty on a person, the regulator must serve on that person a notice of what is proposed (“notice of intent”).
 
@@ -328,15 +328,15 @@ Regulation 6
   - (ii) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
   - (iii) the circumstances in which the regulator must not impose the penalty (including any defences relating to the offence in relation to which the notice is served).
 
-#### 3. Discharge of liability[^key-41f1ed3178a7740cdfa2913dabc95878]
+#### 3. Discharge of liability[^c-41f1ed3178a7740cdfa2913dabc95878]
 
 The penalty is discharged if a person who receives a notice of intent pays 50% of the amount of the penalty within 28 days beginning with the day on which the notice was received.
 
-#### 4. Making representations and objections[^key-b33c86b5a5cc25e8dbc8ee401f26f7ff]
+#### 4. Making representations and objections[^c-b33c86b5a5cc25e8dbc8ee401f26f7ff]
 
 A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was received, make written representations and objections to the regulator in relation to the proposed imposition of the fixed monetary penalty.
 
-#### 5. Service of final notice[^key-9be0ce3401cf987448f08a46ee7b4257]
+#### 5. Service of final notice[^c-9be0ce3401cf987448f08a46ee7b4257]
 
 (1) If the person who has received a notice of intent does not discharge liability within 28 days the regulator may serve a final notice (“final notice”) imposing a fixed monetary penalty.
 
@@ -344,7 +344,7 @@ A person on whom a notice of intent is served may, within 28 days beginning with
 
 (3) The regulator who serves a final notice relating to a fixed monetary penalty must not serve any other notice under these Regulations in relation to the offence.
 
-#### 6. Contents of final notice[^key-ffe77c91157e45d0796d1b40b68ceeea]
+#### 6. Contents of final notice[^c-ffe77c91157e45d0796d1b40b68ceeea]
 
 A final notice must include information as to—
 
@@ -356,11 +356,11 @@ A final notice must include information as to—
 - (f) rights of appeal, and
 - (g) the consequences of non-payment.
 
-#### 7. Discount for early payment[^key-a9fc40841ae02bf298b06cc48f1ef633]
+#### 7. Discount for early payment[^c-a9fc40841ae02bf298b06cc48f1ef633]
 
 If a person who was served with a notice of intent made representations or objections concerning that notice within the time limit, that person may discharge a final notice by paying 50% of the penalty within 28 days beginning with the day on which the final notice was received.
 
-#### 8. Appeals against final notice[^key-757629dfa5651927a75a33a2804c08be]
+#### 8. Appeals against final notice[^c-757629dfa5651927a75a33a2804c08be]
 
 (1) The person receiving a final notice may appeal against it.
 
@@ -371,7 +371,7 @@ If a person who was served with a notice of intent made representations or objec
 - (c) that the decision was unreasonable;
 - (d) any other similar reason.
 
-#### 9. Non-payment after 56 days (late payment penalty)[^key-5486dbd269b8e1e2423ff505a15ae4fb]
+#### 9. Non-payment after 56 days (late payment penalty)[^c-5486dbd269b8e1e2423ff505a15ae4fb]
 
 (1) The penalty must be paid within 56 days of receipt of a final notice.
 
@@ -379,7 +379,7 @@ If a person who was served with a notice of intent made representations or objec
 
 (3) In the case of an appeal the penalty is payable within 28 days of the determination of the appeal (if the appeal is unsuccessful), and if it is not paid within 28 days the amount of the penalty is increased by 50%.
 
-#### 10. Criminal proceedings[^key-f3d49a73bbc94b18145a1f4baa16507e]
+#### 10. Criminal proceedings[^c-f3d49a73bbc94b18145a1f4baa16507e]
 
 (1) If a notice of intent for a fixed monetary penalty is served on any person—
 
@@ -388,7 +388,7 @@ If a person who was served with a notice of intent made representations or objec
 
 (2) If a fixed monetary penalty is imposed on any person, that person must not at any time be convicted of the offence in respect of the act or omission giving rise to the penalty.
 
-### PART 2 — Fixed monetary penalty amounts[^key-cc199b8b86d83bcf74b6be279d586e7a]
+### PART 2 — Fixed monetary penalty amounts[^c-cc199b8b86d83bcf74b6be279d586e7a]
 
 | Breach | Amount of fixed monetary penalty |
 | --- | --- |
@@ -397,7 +397,7 @@ If a person who was served with a notice of intent made representations or objec
 
 ### PART 3 — Variable monetary penalties
 
-#### 11. Imposition of a variable monetary penalty[^key-b08e0da3468503fa7a3fd7d79146ea99]
+#### 11. Imposition of a variable monetary penalty[^c-b08e0da3468503fa7a3fd7d79146ea99]
 
 (1) The regulator may by notice impose a monetary penalty on a person requiring that person to pay such amount to the regulator as the regulator may determine (“variable monetary penalty”) in relation to an offence under section 45AA(8) of the 1990 Act.
 
@@ -412,7 +412,7 @@ the amount of the variable monetary penalty must not exceed the maximum amount (
 
 (4) Before serving a notice relating to a variable monetary penalty on a person, the regulator may require the person to provide such information as is reasonable for the purpose of establishing the amount of any financial benefit arising as a result of the offence.
 
-#### 12. Notice of intent[^key-50cff52de13dc841bd681ffbfa0f194c]
+#### 12. Notice of intent[^c-50cff52de13dc841bd681ffbfa0f194c]
 
 (1) Where the regulator proposes to impose a variable monetary penalty on a person, the regulator must serve on that person a notice of what is proposed (“notice of intent”).
 
@@ -424,17 +424,17 @@ the amount of the variable monetary penalty must not exceed the maximum amount (
   - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received;
   - (ii) the circumstances in which the regulator must not impose the penalty (including any defences relating to the offence in relation to which the notice is served).
 
-#### 13. Making representations and objections[^key-e3668c9c1098ac49ae3a0b65287ffc91]
+#### 13. Making representations and objections[^c-e3668c9c1098ac49ae3a0b65287ffc91]
 
 A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was received, make written representations and objections to the regulator in relation to the proposed imposition of the variable monetary penalty.
 
-#### 14. Third party undertakings[^key-8298a9d252f5ad0876c4b9a34812c7d5]
+#### 14. Third party undertakings[^c-8298a9d252f5ad0876c4b9a34812c7d5]
 
 (1) A person on whom a notice of intent is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any person affected by the offence (“third party undertaking”).
 
 (2) The regulator must accept or reject a third party undertaking.
 
-#### 15. Service of final notice[^key-b528bce1422dad5b5f090d78ec59da02]
+#### 15. Service of final notice[^c-b528bce1422dad5b5f090d78ec59da02]
 
 (1) At the end of the period for making representations and objections, the regulator must decide whether to impose the variable monetary penalty in the notice of intent, with or without modifications.
 
@@ -447,7 +447,7 @@ A person on whom a notice of intent is served may, within 28 days beginning with
 
 (4) The regulator must not serve a final notice on a person where the regulator is satisfied that the person would not, by reason of any defence, be liable to be convicted of the offence to which the notice relates.
 
-#### 16. Contents of final notice[^key-daaa4f6833be45f2c92dd286de03ea05]
+#### 16. Contents of final notice[^c-daaa4f6833be45f2c92dd286de03ea05]
 
 A final notice must include information as to—
 
@@ -458,7 +458,7 @@ A final notice must include information as to—
 - (e) rights of appeal, and
 - (f) the consequences of non-payment.
 
-#### 17. Appeals against a final notice[^key-1cc598fee6d4dede068d9aa6bafdfc03]
+#### 17. Appeals against a final notice[^c-1cc598fee6d4dede068d9aa6bafdfc03]
 
 (1) The person receiving a final notice may appeal against it.
 
@@ -470,7 +470,7 @@ A final notice must include information as to—
 - (d) that the decision was unreasonable for any other reason;
 - (e) any other similar reason.
 
-#### 18. Criminal proceedings[^key-42be8120735949580ee9c1030b53afb7]
+#### 18. Criminal proceedings[^c-42be8120735949580ee9c1030b53afb7]
 
 (1) If—
 
@@ -489,7 +489,7 @@ that person must not at any time be convicted of the offence in respect of the a
 
 ### PART 4 — Non-compliance penalties
 
-#### 19. Non-compliance penalties[^key-952b9292a1b4d762acaa3321aae102b3]
+#### 19. Non-compliance penalties[^c-952b9292a1b4d762acaa3321aae102b3]
 
 (1) If a person fails to comply with a third party undertaking, the regulator may serve a notice on that person imposing a monetary penalty (“non-compliance penalty”) in respect of the same offence, irrespective of whether a variable monetary penalty was also imposed in respect of that offence.
 
@@ -509,7 +509,7 @@ that person must not at any time be convicted of the offence in respect of the a
 
 (5) If a third party undertaking is fulfilled before the time set for payment of the non-compliance penalty, the penalty is not payable.
 
-#### 20. Appeals against non-compliance penalties[^key-b59535a72dfc2f1c0429bd93c1c24923]
+#### 20. Appeals against non-compliance penalties[^c-b59535a72dfc2f1c0429bd93c1c24923]
 
 (1) A person receiving a non-compliance penalty may appeal against it.
 
@@ -523,7 +523,7 @@ that person must not at any time be convicted of the offence in respect of the a
 
 ### PART 5 — Combination of sanctions
 
-#### 21. Combination of sanctions[^key-26ff683a77b3f7b2ec99240800aed56c]
+#### 21. Combination of sanctions[^c-26ff683a77b3f7b2ec99240800aed56c]
 
 (1) The regulator must not serve a notice of intent relating to a fixed monetary penalty if a variable monetary penalty has been imposed on that person relating to the same act or omission.
 
@@ -534,7 +534,7 @@ that person must not at any time be convicted of the offence in respect of the a
 
 ### PART 6 — Enforcement cost recovery notices
 
-#### 22. Enforcement cost recovery notices[^key-15fbf4a48f70ecfa56d573be875e1022]
+#### 22. Enforcement cost recovery notices[^c-15fbf4a48f70ecfa56d573be875e1022]
 
 (1) The regulator may serve a notice (“enforcement cost recovery notice”) on a person on whom a variable monetary penalty has been imposed requiring that person to pay the costs incurred by the regulator in relation to the imposition of the variable monetary penalty up to the time of its imposition.
 
@@ -557,7 +557,7 @@ that person must not at any time be convicted of the offence in respect of the a
 
 (5) The person required to pay costs is not liable to pay any costs shown by that person to have been unnecessarily incurred.
 
-#### 23. Appeals against enforcement cost recovery notices[^key-694504bd1b54035f4ca07a931f8e5f64]
+#### 23. Appeals against enforcement cost recovery notices[^c-694504bd1b54035f4ca07a931f8e5f64]
 
 (1) The person required to pay costs under paragraph 22(1) may appeal—
 
@@ -575,14 +575,14 @@ that person must not at any time be convicted of the offence in respect of the a
 
 ### PART 7 — Administration and appeals
 
-#### 24. Withdrawing or amending a notice[^key-a50e330ba43109809a8281eb6f7293b7]
+#### 24. Withdrawing or amending a notice[^c-a50e330ba43109809a8281eb6f7293b7]
 
 The regulator may at any time in writing—
 
 - (a) withdraw a fixed monetary penalty;
 - (b) withdraw a variable monetary penalty, a non-compliance penalty or an enforcement cost recovery notice or reduce the amount specified in the penalty or notice.
 
-#### 25. Guidance as to use of civil sanctions[^key-6684e7e34e0c28877b48082191d7b1e6]
+#### 25. Guidance as to use of civil sanctions[^c-6684e7e34e0c28877b48082191d7b1e6]
 
 (1) Where these Regulations confer power on the regulator to impose a civil sanction—
 
@@ -606,7 +606,7 @@ The regulator may at any time in writing—
 - (c) the matters likely to be taken into account by the regulator in determining the amount of the penalty (including voluntary reporting by any person of their own non-compliance), and
 - (d) rights to make representations and objections and rights of appeal.
 
-#### 26. Additional guidance[^key-0f63ecb4a5afc3cf841c5a19b7c5090d]
+#### 26. Additional guidance[^c-0f63ecb4a5afc3cf841c5a19b7c5090d]
 
 The regulator must publish guidance relating to the use of non-compliance penalties and enforcement cost recovery notices specifying—
 
@@ -615,11 +615,11 @@ The regulator must publish guidance relating to the use of non-compliance penalt
 - (c) matters to be taken into account in establishing the amount involved, and
 - (d) rights of appeal.
 
-#### 27. Consultation on guidance[^key-a0f02e47859dc0964471ebd2794c0fff]
+#### 27. Consultation on guidance[^c-a0f02e47859dc0964471ebd2794c0fff]
 
 The regulator must consult such persons as it considers appropriate before publishing any guidance or revised guidance under these Regulations.
 
-#### 28. Publication of enforcement action[^key-eccd64208615bcef68569fef59ea6c48]
+#### 28. Publication of enforcement action[^c-eccd64208615bcef68569fef59ea6c48]
 
 (1) Where a power is conferred on the regulator to impose a civil sanction under these Regulations, the regulator must from time to time publish reports specifying—
 
@@ -631,11 +631,11 @@ The regulator must consult such persons as it considers appropriate before publi
 
 (3) This paragraph does not apply in cases where the Welsh Ministers consider that publication would be inappropriate.
 
-#### 29. Recovery of payments[^key-483d009c196c4938b730f6459ddda31e]
+#### 29. Recovery of payments[^c-483d009c196c4938b730f6459ddda31e]
 
 The regulator may recover any fixed monetary penalty, variable monetary penalty or non-compliance penalty imposed under these Regulations and any financial penalty for late payment, on the order of a court, as if payable under a court order.
 
-#### 30. Appeals[^key-b5b5c0075a09f92cbf5c91d6f1ca1f04]
+#### 30. Appeals[^c-b5b5c0075a09f92cbf5c91d6f1ca1f04]
 
 (1) An appeal under these Regulations is to the First-tier Tribunal (“**the Tribunal**”).
 
@@ -701,112 +701,112 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: The reference in section 61(2) of the 2008 Act to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act 2006.
 
-[^key-a212092d14d7ddcd25e4845f3c7d489c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-a212092d14d7ddcd25e4845f3c7d489c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-d8a26d1285f312aeff13d3d22744d947]: Commencement: Reg. 2 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-d8a26d1285f312aeff13d3d22744d947]: Commencement: Reg. 2 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2009/1069, amended by S.I. [2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), there are other amending instruments but none is relevant.
 
 [^f00010]: Footnote: [S.I. 2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806), amended by [S.I. 2020/1339 (W. 296)](https://www.legislation.gov.uk/wsi/2020/1339).
 
-[^key-58834f68bd287989b6da3bf3b9b213fb]: Textual amendment: Word in reg. 2 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/2)
+[^c-58834f68bd287989b6da3bf3b9b213fb]: Textual amendment: Word in reg. 2 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/2)
 
 [^f00011]: Footnote: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113), amended by [S.I. 2018/1214](https://www.legislation.gov.uk/uksi/2018/1214).
 
-[^key-4d43b8ec5a1ae0932750c59adde9c494]: Commencement: Reg. 3 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-4d43b8ec5a1ae0932750c59adde9c494]: Commencement: Reg. 3 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-2c757c0842aaa00bec6dde11cd72442b]: Textual amendment: Reg. 3(3)(a) omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/3/a)
+[^c-2c757c0842aaa00bec6dde11cd72442b]: Textual amendment: Reg. 3(3)(a) omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/3/a)
 
-[^key-1baf307adc88d437083a5ef6d28ebfdc]: Textual amendment: Words in reg. 3(4) omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/3/b)
+[^c-1baf307adc88d437083a5ef6d28ebfdc]: Textual amendment: Words in reg. 3(4) omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/3/b)
 
-[^key-d0e4a3e14d882959118f8001b6138018]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1290/regulation/4) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-d0e4a3e14d882959118f8001b6138018]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1290/regulation/4) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-7384ee94baa038cc27acec438c2d41ae]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1290/regulation/5) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-7384ee94baa038cc27acec438c2d41ae]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1290/regulation/5) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-4b832a4fec76ce2171683d590fb92785]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1290/regulation/6) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-4b832a4fec76ce2171683d590fb92785]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1290/regulation/6) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-c51a69e7eb97af799f4dc0e7e3191d9e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1290/regulation/7) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-c51a69e7eb97af799f4dc0e7e3191d9e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1290/regulation/7) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-94fe0d063a87261737f4bf5297f2039c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/1290/regulation/8) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-94fe0d063a87261737f4bf5297f2039c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/1290/regulation/8) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-6b01cfac627a169e4a819bbec34ba13e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2023/1290/regulation/9) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-6b01cfac627a169e4a819bbec34ba13e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2023/1290/regulation/9) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-991be2a7c063169ecbe36b4bfe3aa05d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2023/1290/regulation/10) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-991be2a7c063169ecbe36b4bfe3aa05d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2023/1290/regulation/10) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2011//988](https://www.legislation.gov.uk/uksi/2011/988); relevant amending instruments are [S.I. 2012/1889](https://www.legislation.gov.uk/uksi/2012/1889), [2020/904](https://www.legislation.gov.uk/uksi/2020/904).
 
-[^key-7b6c73c5a79168ac1ccedeef585c12cb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2023/1290/regulation/11) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-7b6c73c5a79168ac1ccedeef585c12cb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2023/1290/regulation/11) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-06218c3c59a4453e163d0f3aba3949a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2023/1290/regulation/12) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-06218c3c59a4453e163d0f3aba3949a4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2023/1290/regulation/12) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-0ab32b26567c1abe040fffafd010e6b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2023/1290/regulation/13) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-0ab32b26567c1abe040fffafd010e6b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2023/1290/regulation/13) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-6febec78eaa32971de8d9d4b677047b4]: Commencement: Sch. 1 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-6febec78eaa32971de8d9d4b677047b4]: Commencement: Sch. 1 in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-59421c1bd739f284df976dd218d01802]: Textual amendment: Words in Sch. 1 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/a)
+[^c-59421c1bd739f284df976dd218d01802]: Textual amendment: Words in Sch. 1 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/a)
 
-[^key-54066a5aec5d5640f1b88b35dd3caaad]: Textual amendment: Word in Sch. 1 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/b/i)
+[^c-54066a5aec5d5640f1b88b35dd3caaad]: Textual amendment: Word in Sch. 1 omitted (6.4.2026) by virtue of [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/b/i)
 
-[^key-e8d6a726cb368c55093aa0934e16aa7a]: Textual amendment: Words in Sch. 1 substituted (6.4.2026) by [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/b/ii)
+[^c-e8d6a726cb368c55093aa0934e16aa7a]: Textual amendment: Words in Sch. 1 substituted (6.4.2026) by [The Waste Separation Requirements (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/71)](https://www.legislation.gov.uk/wsi/2026/71), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/71/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/71/regulation/2/4/b/ii)
 
-[^key-ec31ff6eb7da76eafb0b6aa57cc6c60c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/1) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-ec31ff6eb7da76eafb0b6aa57cc6c60c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/1) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-18b810d29a40e69bbfb4a984ad476bf0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/2) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-18b810d29a40e69bbfb4a984ad476bf0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/2) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-41f1ed3178a7740cdfa2913dabc95878]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/3) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-41f1ed3178a7740cdfa2913dabc95878]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/3) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-b33c86b5a5cc25e8dbc8ee401f26f7ff]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/4) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-b33c86b5a5cc25e8dbc8ee401f26f7ff]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/4) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-9be0ce3401cf987448f08a46ee7b4257]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/5) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-9be0ce3401cf987448f08a46ee7b4257]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/5) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-ffe77c91157e45d0796d1b40b68ceeea]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/6) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-ffe77c91157e45d0796d1b40b68ceeea]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/6) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-a9fc40841ae02bf298b06cc48f1ef633]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/7) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-a9fc40841ae02bf298b06cc48f1ef633]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/7) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-757629dfa5651927a75a33a2804c08be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/8) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-757629dfa5651927a75a33a2804c08be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/8) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-5486dbd269b8e1e2423ff505a15ae4fb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/9) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-5486dbd269b8e1e2423ff505a15ae4fb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/9) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-f3d49a73bbc94b18145a1f4baa16507e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/10) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-f3d49a73bbc94b18145a1f4baa16507e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/10) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-cc199b8b86d83bcf74b6be279d586e7a]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/part/2) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-cc199b8b86d83bcf74b6be279d586e7a]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/part/2) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-b08e0da3468503fa7a3fd7d79146ea99]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/11) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-b08e0da3468503fa7a3fd7d79146ea99]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/11) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-50cff52de13dc841bd681ffbfa0f194c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/12) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-50cff52de13dc841bd681ffbfa0f194c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/12) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-e3668c9c1098ac49ae3a0b65287ffc91]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/13) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-e3668c9c1098ac49ae3a0b65287ffc91]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/13) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-8298a9d252f5ad0876c4b9a34812c7d5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/14) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-8298a9d252f5ad0876c4b9a34812c7d5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/14) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-b528bce1422dad5b5f090d78ec59da02]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/15) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-b528bce1422dad5b5f090d78ec59da02]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/15) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-daaa4f6833be45f2c92dd286de03ea05]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/16) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-daaa4f6833be45f2c92dd286de03ea05]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/16) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-1cc598fee6d4dede068d9aa6bafdfc03]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/17) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-1cc598fee6d4dede068d9aa6bafdfc03]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/17) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-42be8120735949580ee9c1030b53afb7]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/18) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-42be8120735949580ee9c1030b53afb7]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/18) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-952b9292a1b4d762acaa3321aae102b3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/19) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-952b9292a1b4d762acaa3321aae102b3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/19) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-b59535a72dfc2f1c0429bd93c1c24923]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/20) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-b59535a72dfc2f1c0429bd93c1c24923]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/20) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-26ff683a77b3f7b2ec99240800aed56c]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/21) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-26ff683a77b3f7b2ec99240800aed56c]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/21) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-15fbf4a48f70ecfa56d573be875e1022]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/22) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-15fbf4a48f70ecfa56d573be875e1022]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/22) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-694504bd1b54035f4ca07a931f8e5f64]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/23) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-694504bd1b54035f4ca07a931f8e5f64]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/23) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-a50e330ba43109809a8281eb6f7293b7]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/24) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-a50e330ba43109809a8281eb6f7293b7]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/24) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-6684e7e34e0c28877b48082191d7b1e6]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/25) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-6684e7e34e0c28877b48082191d7b1e6]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/25) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-0f63ecb4a5afc3cf841c5a19b7c5090d]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/26) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-0f63ecb4a5afc3cf841c5a19b7c5090d]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/26) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-a0f02e47859dc0964471ebd2794c0fff]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/27) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-a0f02e47859dc0964471ebd2794c0fff]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/27) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-eccd64208615bcef68569fef59ea6c48]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/28) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-eccd64208615bcef68569fef59ea6c48]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/28) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-483d009c196c4938b730f6459ddda31e]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/29) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-483d009c196c4938b730f6459ddda31e]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/29) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
 
-[^key-b5b5c0075a09f92cbf5c91d6f1ca1f04]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/30) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)
+[^c-b5b5c0075a09f92cbf5c91d6f1ca1f04]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/wsi/2023/1290/schedule/2/paragraph/30) in force at 6.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1290/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Amendment of the Leasehold Reform, Housing and Urban Development Act 1993[^key-ed6a0c12098ede124545b67ca0164b6d]
+## 140. Amendment of the Leasehold Reform, Housing and Urban Development Act 1993[^c-ed6a0c12098ede124545b67ca0164b6d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed6a0c12098ede124545b67ca0164b6d]: Commencement: [S. 140](https://www.legislation.gov.uk/anaw/2014/7/section/140) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-ed6a0c12098ede124545b67ca0164b6d]: Commencement: [S. 140](https://www.legislation.gov.uk/anaw/2014/7/section/140) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

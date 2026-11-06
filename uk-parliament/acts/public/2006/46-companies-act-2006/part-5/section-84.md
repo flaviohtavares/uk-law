@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Criminal consequences of failure to make required disclosures[^c19876071][^c19876091][^c19876111][^c18935911][^c20596931][^c20616191][^key-45261732c4b5858fede57c4cc4fa13bc]
+## 84. Criminal consequences of failure to make required disclosures[^c19876071][^c19876091][^c19876111][^c18935911][^c20596931][^c20616191][^c-45261732c4b5858fede57c4cc4fa13bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20616191]: Modification: Ss. 82-85 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/4) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-45261732c4b5858fede57c4cc4fa13bc]: Modification: S. 84 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/a)
+[^c-45261732c4b5858fede57c4cc4fa13bc]: Modification: S. 84 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/a)

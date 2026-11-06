@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 278. Timing and location of things done electronically[^key-8c1f18a6d004124e46db2d075b59ab65]
+## 278. Timing and location of things done electronically[^c-8c1f18a6d004124e46db2d075b59ab65]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c1f18a6d004124e46db2d075b59ab65]: Modification: [Art. 278](https://www.legislation.gov.uk/nisi/2005/255/article/278) modified by 2008 c. 13 (N.I.) s. 113A (as inserted (30.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f))
+[^c-8c1f18a6d004124e46db2d075b59ab65]: Modification: [Art. 278](https://www.legislation.gov.uk/nisi/2005/255/article/278) modified by 2008 c. 13 (N.I.) s. 113A (as inserted (30.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 33(1)](https://www.legislation.gov.uk/nia/2012/3/section/33/1), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/f))

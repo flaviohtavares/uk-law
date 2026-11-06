@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Affidavit in support of energy administration application[^key-1a403cec3cb4f779ea45d310d6a21973]
+## 4. Affidavit in support of energy administration application[^c-1a403cec3cb4f779ea45d310d6a21973]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where it is proposed to apply to the court for an energy administration order to
 
 ## Annotations
 
-[^key-1a403cec3cb4f779ea45d310d6a21973]: Commencement: Rule 4 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-1a403cec3cb4f779ea45d310d6a21973]: Commencement: Rule 4 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

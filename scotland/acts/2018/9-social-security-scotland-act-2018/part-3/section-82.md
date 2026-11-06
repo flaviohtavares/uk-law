@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Power to repeal temporary provision[^key-80a6df72708addc633e725bac9e97d7f]
+## 82. Power to repeal temporary provision[^c-80a6df72708addc633e725bac9e97d7f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by regulations—
 
 ## Annotations
 
-[^key-80a6df72708addc633e725bac9e97d7f]: Commencement: S. 82 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
+[^c-80a6df72708addc633e725bac9e97d7f]: Commencement: S. 82 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))

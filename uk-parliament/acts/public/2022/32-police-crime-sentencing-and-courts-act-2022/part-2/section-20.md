@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendments to the Crime and Disorder Act 1998[^key-64207974c3b75b6677f0e9e0fcdb2878][^key-6e271953c7b08fd62df01caa19574782]
+## 20. Amendments to the Crime and Disorder Act 1998[^c-64207974c3b75b6677f0e9e0fcdb2878][^c-6e271953c7b08fd62df01caa19574782]
 
 *Extent: E+W*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64207974c3b75b6677f0e9e0fcdb2878]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f)
+[^c-64207974c3b75b6677f0e9e0fcdb2878]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f)
 
-[^key-6e271953c7b08fd62df01caa19574782]: Commencement: S. 20 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-6e271953c7b08fd62df01caa19574782]: Commencement: S. 20 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)

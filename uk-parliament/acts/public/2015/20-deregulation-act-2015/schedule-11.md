@@ -26,7 +26,7 @@ Section 52
 
 #### Removal of “statutory option” to have breath specimen replaced: road and rail transport
 
-**1.**[^key-5a5b21bd8219e1de9dc54c33f63fa111] (1) In section 8 of the Road Traffic Act 1988 (choice of specimens of breath), omit subsections (2), (2A), (3) and (4).
+**1.**[^c-5a5b21bd8219e1de9dc54c33f63fa111] (1) In section 8 of the Road Traffic Act 1988 (choice of specimens of breath), omit subsections (2), (2A), (3) and (4).
 
 (2) The amendments in sub-paragraphs (3) to (5) are made in consequence of sub-paragraph (1).
 
@@ -42,13 +42,13 @@ Section 52
 
 (5) In the Scotland Act 2012, omit section 20(2) to (4).
 
-**2.**[^key-c744dd30da4048f8189ea99218e2eac1] (1) In Chapter 1 of Part 2 of the Transport and Works Act 1992 (safety of railways etc: offences involving drink or drugs), in section 32 (choice of specimens of breath), omit subsections (2) to (4).
+**2.**[^c-c744dd30da4048f8189ea99218e2eac1] (1) In Chapter 1 of Part 2 of the Transport and Works Act 1992 (safety of railways etc: offences involving drink or drugs), in section 32 (choice of specimens of breath), omit subsections (2) to (4).
 
 (2) In consequence of sub-paragraph (1), for the heading of that section substitute “ Breath specimen showing higher alcohol level to be disregarded ”.
 
 #### No need for preliminary breath test before evidential breath test: road transport
 
-**3.**[^key-771dfe9c7d7ee40b5a466884042a3399] (1) The Road Traffic Act 1988 is amended as follows.
+**3.**[^c-771dfe9c7d7ee40b5a466884042a3399] (1) The Road Traffic Act 1988 is amended as follows.
 
 (2) In section 7 (provision of specimens for analysis), for subsection (2) substitute—
 
@@ -73,7 +73,7 @@ Section 52
 
 #### Removing restriction that evidential breath test must be taken at police station: rail transport
 
-**4.**[^key-6bf9c824ba168b7136cfece2e51a034c] (1) In Chapter 1 of Part 2 of the Transport and Works Act 1992 (safety of railways etc: offences involving drink or drugs), section 31 (provision of specimens for analysis) is amended as follows.
+**4.**[^c-6bf9c824ba168b7136cfece2e51a034c] (1) In Chapter 1 of Part 2 of the Transport and Works Act 1992 (safety of railways etc: offences involving drink or drugs), section 31 (provision of specimens for analysis) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -91,18 +91,18 @@ Section 52
 
 #### Health care professionals advising whether condition is due to drugs: road and rail transport
 
-**5.**[^key-f2b2bcc118e69f87f5e296d0f37ed3c3] In section 7 of the Road Traffic Act 1988 (provision of specimens for analysis), in subsection (3)(c) (medical advice that person's condition might be due to drugs), after “advised by a medical practitioner” insert “ or a registered health care professional ”.
+**5.**[^c-f2b2bcc118e69f87f5e296d0f37ed3c3] In section 7 of the Road Traffic Act 1988 (provision of specimens for analysis), in subsection (3)(c) (medical advice that person's condition might be due to drugs), after “advised by a medical practitioner” insert “ or a registered health care professional ”.
 
-**6.**[^key-76bb3f9a8591cbd8f6a97cf88e1013fd] In section 31 of the Transport and Works Act 1992 (provision of specimens for analysis)—
+**6.**[^c-76bb3f9a8591cbd8f6a97cf88e1013fd] In section 31 of the Transport and Works Act 1992 (provision of specimens for analysis)—
 
 - (a) in subsection (4)(c) (medical advice that person's condition might be due to drugs), after “advised by a medical practitioner” insert “ or a registered health care professional ”;
 - (b) omit subsections (9A), (9B) and (9C).
 
 #### Further extension of role of health care professionals: road and rail transport
 
-**7.**[^key-509a373eb989f5e3ebc7d1585d8c7d3e] The Road Traffic Act 1988 is amended in accordance with paragraphs 8 and 9.
+**7.**[^c-509a373eb989f5e3ebc7d1585d8c7d3e] The Road Traffic Act 1988 is amended in accordance with paragraphs 8 and 9.
 
-**8.**[^key-57e51a22d56dc27dc703e91a568f6c2f] (1) Section 7A (specimens of blood taken from persons incapable of consenting) is amended as follows.
+**8.**[^c-57e51a22d56dc27dc703e91a568f6c2f] (1) Section 7A (specimens of blood taken from persons incapable of consenting) is amended as follows.
 
 (2) In subsections (1) and (2)(a), for “a medical practitioner” substitute “ a medical or health care practitioner ”.
 
@@ -121,16 +121,16 @@ Section 52
 > - “**medical or health care practitioner**” means a medical practitioner or a registered health care professional;
 > - “**police medical or health care practitioner**” means a medical practitioner, or a registered health care professional, who is engaged under any agreement to provide medical or health care services for purposes connected with the activities of a police force.
 
-**9.**[^key-7a9839179e0d0f8e6715c50a54eca69e] In section 11 (interpretation), in subsection (4) (providing a specimen of blood), omit “by a medical practitioner or, if it is taken in a police station,”.
+**9.**[^c-7a9839179e0d0f8e6715c50a54eca69e] In section 11 (interpretation), in subsection (4) (providing a specimen of blood), omit “by a medical practitioner or, if it is taken in a police station,”.
 
-**10.**[^key-87aa89762a3ce06ba4ca21c51cf850a4] In consequence of paragraphs 8 and 9, in section 15 of the Road Traffic Offenders Act 1988 (use of specimens in proceedings for certain offences under the Road Traffic Act), in subsection (4) (circumstances in which specimen of blood is to be disregarded)—
+**10.**[^c-87aa89762a3ce06ba4ca21c51cf850a4] In consequence of paragraphs 8 and 9, in section 15 of the Road Traffic Offenders Act 1988 (use of specimens in proceedings for certain offences under the Road Traffic Act), in subsection (4) (circumstances in which specimen of blood is to be disregarded)—
 
 - (a) in paragraph (a), for the words from “and either” to the end of the paragraph substitute “ by a medical practitioner or a registered health care professional ”;
 - (b) in paragraph (b), after “medical practitioner” insert “ or a registered health care professional ”.
 
-**11.**[^key-5dff04b25fcf7a9ee884dfefafe57fad] The Transport and Works Act 1992 is amended in accordance with paragraphs 12 and 13.
+**11.**[^c-5dff04b25fcf7a9ee884dfefafe57fad] The Transport and Works Act 1992 is amended in accordance with paragraphs 12 and 13.
 
-**12.**[^key-2d19ca95e58978404b7582bb89f0458c] (1) Section 31A (specimens of blood taken from persons incapable of consenting) is amended as follows.
+**12.**[^c-2d19ca95e58978404b7582bb89f0458c] (1) Section 31A (specimens of blood taken from persons incapable of consenting) is amended as follows.
 
 (2) In subsections (1) and (2)(a), for “a medical practitioner” substitute “ a medical or health care practitioner ”.
 
@@ -149,11 +149,11 @@ Section 52
 > - “**medical or health care practitioner**” means a medical practitioner or a registered health care professional;
 > - “**police medical or health care practitioner**” means a medical practitioner, or a registered health care professional, who is engaged under any agreement to provide medical or health care services for purposes connected with the activities of a police force.
 
-**13.**[^key-6b7a0c482b9de3ebf3e581dae9c5b3c6] In section 38 (interpretation of Chapter 1), in subsection (5)(b) (providing a specimen of blood), omit “by a medical practitioner or, if it is taken in a police station,”.
+**13.**[^c-6b7a0c482b9de3ebf3e581dae9c5b3c6] In section 38 (interpretation of Chapter 1), in subsection (5)(b) (providing a specimen of blood), omit “by a medical practitioner or, if it is taken in a police station,”.
 
 #### Application of Road Traffic Act provisions in shipping regime
 
-**14.**[^key-6eb8bac3a5b0af67c1e93e1d01634c49] (1) In Part 4 of the Railways and Transport Safety Act 2003 (shipping: alcohol and drugs), section 83 (specimens, etc) is amended as follows.
+**14.**[^c-6eb8bac3a5b0af67c1e93e1d01634c49] (1) In Part 4 of the Railways and Transport Safety Act 2003 (shipping: alcohol and drugs), section 83 (specimens, etc) is amended as follows.
 
 (2) After subsection (1) (but before the table) insert—
 
@@ -207,11 +207,11 @@ Section 52
   > | --- |
   > | Subsection (3A) shall be disregarded. |
 
-**15.**[^key-a78ebe707a20a4495d5f350b397d6159] In Schedule 22 to the Crime and Courts Act 2013 (drugs and driving: minor and consequential amendments), omit paragraphs 8 and 14.
+**15.**[^c-a78ebe707a20a4495d5f350b397d6159] In Schedule 22 to the Crime and Courts Act 2013 (drugs and driving: minor and consequential amendments), omit paragraphs 8 and 14.
 
 #### Application of Road Traffic Act provisions in aviation regime
 
-**16.**[^key-ffae1087093ea243aea53d908c2b8578] (1) In Part 5 of the Railways and Transport Safety Act 2003 (aviation: alcohol and drugs), section 96 (specimens, etc) is amended as follows.
+**16.**[^c-ffae1087093ea243aea53d908c2b8578] (1) In Part 5 of the Railways and Transport Safety Act 2003 (aviation: alcohol and drugs), section 96 (specimens, etc) is amended as follows.
 
 (2) After subsection (1) (but before the table) insert—
 
@@ -284,34 +284,34 @@ Section 52
 
 ## Annotations
 
-[^key-5a5b21bd8219e1de9dc54c33f63fa111]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-5a5b21bd8219e1de9dc54c33f63fa111]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-c744dd30da4048f8189ea99218e2eac1]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/2) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-c744dd30da4048f8189ea99218e2eac1]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/2) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-771dfe9c7d7ee40b5a466884042a3399]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/3) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-771dfe9c7d7ee40b5a466884042a3399]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/3) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-6bf9c824ba168b7136cfece2e51a034c]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/4) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-6bf9c824ba168b7136cfece2e51a034c]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/4) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-f2b2bcc118e69f87f5e296d0f37ed3c3]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/5) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-f2b2bcc118e69f87f5e296d0f37ed3c3]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/5) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-76bb3f9a8591cbd8f6a97cf88e1013fd]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/6) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-76bb3f9a8591cbd8f6a97cf88e1013fd]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/6) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-509a373eb989f5e3ebc7d1585d8c7d3e]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/7) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-509a373eb989f5e3ebc7d1585d8c7d3e]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/7) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-57e51a22d56dc27dc703e91a568f6c2f]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/8) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-57e51a22d56dc27dc703e91a568f6c2f]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/8) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-7a9839179e0d0f8e6715c50a54eca69e]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/9) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-7a9839179e0d0f8e6715c50a54eca69e]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/9) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-87aa89762a3ce06ba4ca21c51cf850a4]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/10) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-87aa89762a3ce06ba4ca21c51cf850a4]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/10) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-5dff04b25fcf7a9ee884dfefafe57fad]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/11) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-5dff04b25fcf7a9ee884dfefafe57fad]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/11) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-2d19ca95e58978404b7582bb89f0458c]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/12) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-2d19ca95e58978404b7582bb89f0458c]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/12) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-6b7a0c482b9de3ebf3e581dae9c5b3c6]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/13) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-6b7a0c482b9de3ebf3e581dae9c5b3c6]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/13) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-6eb8bac3a5b0af67c1e93e1d01634c49]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-6eb8bac3a5b0af67c1e93e1d01634c49]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-a78ebe707a20a4495d5f350b397d6159]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/15) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-a78ebe707a20a4495d5f350b397d6159]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/15) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-ffae1087093ea243aea53d908c2b8578]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/16) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-ffae1087093ea243aea53d908c2b8578]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/16) in force at 10.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

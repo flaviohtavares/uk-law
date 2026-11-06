@@ -68,9 +68,9 @@ Exercising the powers conferred upon her by that section she makes the following
 - “bovine animal” includes buffalo and bison;
 - “carcase” means the carcase of an animal and includes part of a carcase, and the meat, bones, hide, skin, hooves, offal or other part of an animal, separately or otherwise, or any portion thereof;
 - “disease” means foot-and-mouth disease;
-- [^key-f4269892b3e8c363316865b2cfa087aa]...
+- [^c-f4269892b3e8c363316865b2cfa087aa]...
 - “fresh meat” means meat (including offal) that has not undergone any preserving process other than chilling, freezing or quick-freezing, including meat that is vacuum wrapped or wrapped in a controlled atmosphere;
-- “health marked” means bearing the health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-6ad88d3df65ed1b4c5f04a5a84c863a1];
+- “health marked” means bearing the health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-6ad88d3df65ed1b4c5f04a5a84c863a1];
 - “identification marked” means bearing the identification mark required by article 5(1) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and the Council laying down specific hygiene rules for food of animal origin[^f00006] and the expression “identification mark” shall be construed accordingly;
 - “incubation period” means—
   - (a) for cattle, pigs and other bovine animals and swine, 14 days, and
@@ -98,7 +98,7 @@ Exercising the powers conferred upon her by that section she makes the following
 - “reactor premises” means premises declared to be reactor premises under regulation 25(3)(b);
 - “sell” means sell to the final consumer or user and “sale” in the expression “consign for sale” shall be construed accordingly;
 - “slaughterhouse” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which—
-  - (a) is approved or conditionally approved in accordance with Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-4c103e8e0ac21db48646611731947374], or
+  - (a) is approved or conditionally approved in accordance with Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-4c103e8e0ac21db48646611731947374], or
   - (b) although lacking the approval or conditional approval that it requires under article 4(3) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995[^f00009] or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^f00010];
 - “slaughter” means any process which causes the death of an animal;
 - “suppressive vaccination” means vaccination carried out on premises or in an area where there is an urgent need to prevent the spread of disease outside the premises or area by reducing the quantity of circulating disease virus there, where the vaccinated animals are intended for slaughter to prevent the spread of disease;
@@ -212,7 +212,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
     - (aa) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
     - (bb) is approved in relation to those animals under regulation 9 of the Animals and Animal Products (Import and Export) (England) Regulations 2005,
   - (iii) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources;
-- (c) the criteria in Annex X of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046)[^f00014] with the reference to “Member States” in paragraph 3.1 in Annex X being read as a reference to the Secretary of State[^key-b348fe82899f8c9ddb67fac6199e55c1];
+- (c) the criteria in Annex X of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046)[^f00014] with the reference to “Member States” in paragraph 3.1 in Annex X being read as a reference to the Secretary of State[^c-b348fe82899f8c9ddb67fac6199e55c1];
 - (d) other means of preventing the spread of disease available to her;
 - (e) in the case of suppressive vaccination, whether such vaccination is necessary urgently to prevent the spread of disease from premises or a geographical area by reducing the quantity of circulating disease virus there; and
 - (f) in the case of protective vaccination—
@@ -380,7 +380,7 @@ before all the animals so specified have been vaccinated.
 - (a) arrange for a new eartag to be affixed to the vaccinated animal; or
 - (b) if affixing an eartag would cause unnecessary pain and suffering, arrange for the animal to be identified as vaccinated by applying a permanent indelible mark.
 
-(4) Any person who knows or suspects that an animal has been vaccinated but is not bearing an eartag or a mark applied under paragraph (3)(b) shall immediately notify the keeper of that animal and the Secretary of State[^key-64be8acb728951b3ac621c4364722d50] .
+(4) Any person who knows or suspects that an animal has been vaccinated but is not bearing an eartag or a mark applied under paragraph (3)(b) shall immediately notify the keeper of that animal and the Secretary of State[^c-64be8acb728951b3ac621c4364722d50] .
 
 ### 22. Sale and slaughter of vaccinated animals
 
@@ -388,7 +388,7 @@ No person shall sell a vaccinated animal or send such an animal for slaughter un
 
 ### 23. Failure to vaccinate animals specified for vaccination
 
-(1) Any person (other than an inspector) who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been shall immediately notify the keeper of that animal and the Secretary of State[^key-934f60b9c46fa7e3b2f285cbfc983547] .
+(1) Any person (other than an inspector) who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been shall immediately notify the keeper of that animal and the Secretary of State[^c-934f60b9c46fa7e3b2f285cbfc983547] .
 
 (2) If an inspector suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been he shall arrange for that animal to be vaccinated as soon as is reasonably practicable (but not sooner than 21 days after the date it should have been vaccinated).
 
@@ -433,7 +433,7 @@ The local authority shall ensure that the boundaries of every vaccination zone a
 
 ### 28. Trade in vaccinated animals
 
-No person shall send any vaccinated animal for trade with a[^key-1fc1bc1b3a012615989b7cc7d65f9265] member State, Norway, Iceland or Liechtenstein.
+No person shall send any vaccinated animal for trade with a[^c-1fc1bc1b3a012615989b7cc7d65f9265] member State, Norway, Iceland or Liechtenstein.
 
 ## PART 3 — General and supplementary provisions
 
@@ -578,7 +578,7 @@ if he shows to the court’s satisfaction that he did not know of that restricti
 
 (3) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under these Regulations shall be discharged by the Secretary of State and not by the local authority.
 
-(4)[^key-b5ead2c00b99f2bfbc4f5a038005e29b] For the purposes of paragraph (2) or where the Secretary of State makes a direction under paragraph (3), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
+(4)[^c-b5ead2c00b99f2bfbc4f5a038005e29b] For the purposes of paragraph (2) or where the Secretary of State makes a direction under paragraph (3), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
 
 ### 44. Revocations
 
@@ -1002,7 +1002,7 @@ if it is produced from susceptible animals originating in a vaccination zone.
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus under the authority of a licence granted by the Secretary of State.
 
-(4)[^key-ba447f3a65d818d2ef1bf414cceb8682] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with—
+(4)[^c-ba447f3a65d818d2ef1bf414cceb8682] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with—
 
 - (a) Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council; and
 - (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
@@ -1101,15 +1101,15 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: S.I. [2005/2002](https://www.legislation.gov.uk/uksi/2005/2002).
 
-[^key-f4269892b3e8c363316865b2cfa087aa]: Textual amendment: Words in reg. 2(1) deleted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/2)
+[^c-f4269892b3e8c363316865b2cfa087aa]: Textual amendment: Words in reg. 2(1) deleted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/2)
 
-[^key-6ad88d3df65ed1b4c5f04a5a84c863a1]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/19/2/a)
+[^c-6ad88d3df65ed1b4c5f04a5a84c863a1]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/19/2/a)
 
 [^f00006]: Footnote: OJ No. L139, 30.4.2004, p55. The revised text of the Regulation is contained in a corrigendum (OJ No. L226, 25.6.2004, p22).
 
 [^f00007]: Footnote: S.I. [2006/182](https://www.legislation.gov.uk/uksi/2006/182).
 
-[^key-4c103e8e0ac21db48646611731947374]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/19/2/b)
+[^c-4c103e8e0ac21db48646611731947374]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/19/2/b)
 
 [^f00009]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by S.I. [2005/2059](https://www.legislation.gov.uk/uksi/2005/2059).
 
@@ -1123,7 +1123,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00014]: Footnote: OJ No. L306, 22.11.2003, p1.
 
-[^key-b348fe82899f8c9ddb67fac6199e55c1]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2006/183/regulation/9/1/c) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b348fe82899f8c9ddb67fac6199e55c1]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2006/183/regulation/9/1/c) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00015]: Footnote: Section 16 was amended by the Animal Health Act [2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), section 7.
 
@@ -1137,11 +1137,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00020]: Footnote: S.I. [2000/2976](https://www.legislation.gov.uk/uksi/2000/2976), to which there are amendments not relevant to these Regulations.
 
-[^key-64be8acb728951b3ac621c4364722d50]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2006/183/regulation/21/4) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/3)
+[^c-64be8acb728951b3ac621c4364722d50]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/2006/183/regulation/21/4) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/3)
 
-[^key-934f60b9c46fa7e3b2f285cbfc983547]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2006/183/regulation/23/1) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/3)
+[^c-934f60b9c46fa7e3b2f285cbfc983547]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2006/183/regulation/23/1) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/2712/regulation/3/3)
 
-[^key-1fc1bc1b3a012615989b7cc7d65f9265]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2006/183/regulation/28) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fc1bc1b3a012615989b7cc7d65f9265]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2006/183/regulation/28) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: Section 64A was inserted by the Animal Health Act 1981 (Amendment) Regulations 1992 (S.I. [1992/3293](https://www.legislation.gov.uk/uksi/1992/3293)), regulation 2.
 
@@ -1153,7 +1153,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00025]: Footnote: Section 75 was amended by the Animal Health Act [2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), section 13.
 
-[^key-b5ead2c00b99f2bfbc4f5a038005e29b]: Textual amendment: [Reg. 43(4)](https://www.legislation.gov.uk/uksi/2006/183/regulation/43/4) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [9](https://www.legislation.gov.uk/uksi/2012/2897/article/9)
+[^c-b5ead2c00b99f2bfbc4f5a038005e29b]: Textual amendment: [Reg. 43(4)](https://www.legislation.gov.uk/uksi/2006/183/regulation/43/4) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [9](https://www.legislation.gov.uk/uksi/2012/2897/article/9)
 
 [^f00026]: Footnote: S.I. [1972/1509](https://www.legislation.gov.uk/uksi/1972/1509).
 
@@ -1161,4 +1161,4 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00028]: Footnote: S.I. [2003/1724](https://www.legislation.gov.uk/uksi/2003/1724).
 
-[^key-ba447f3a65d818d2ef1bf414cceb8682]: Textual amendment: Sch. para. 18(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/9); and Sch. para. 18(4) substituted (12.12.2013) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/3/4) (S.I. 2011/881, Sch. 2 para. 9 revoked (12.12.2013) by S.I. 2013/2952, reg. 28(d))
+[^c-ba447f3a65d818d2ef1bf414cceb8682]: Textual amendment: Sch. para. 18(4) substituted (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), [reg. 1](https://www.legislation.gov.uk/uksi/2011/881/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/881/schedule/2/paragraph/9); and Sch. para. 18(4) substituted (12.12.2013) (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/1/2), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2013/2952/schedule/2/paragraph/3/4) (S.I. 2011/881, Sch. 2 para. 9 revoked (12.12.2013) by S.I. 2013/2952, reg. 28(d))

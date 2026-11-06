@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Amendments relating to students who become eligible for a loan during their course[^key-cf83108a0f92c0803799d3eb71b19e17]
+## 91. Amendments relating to students who become eligible for a loan during their course[^c-cf83108a0f92c0803799d3eb71b19e17]
 
 *Extent: E+W*
 
@@ -53,10 +53,10 @@ For regulation 7 (other than the heading) (students becoming eligible in the cou
 
 .
 
-**92.**[^key-3623ee4ad8621e778cef229c7e3f97cd] Omit regulation 8 (events).
+**92.**[^c-3623ee4ad8621e778cef229c7e3f97cd] Omit regulation 8 (events).
 
 ## Annotations
 
-[^key-cf83108a0f92c0803799d3eb71b19e17]: Commencement: Reg. 91 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-cf83108a0f92c0803799d3eb71b19e17]: Commencement: Reg. 91 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-3623ee4ad8621e778cef229c7e3f97cd]: Commencement: Reg. 92 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3623ee4ad8621e778cef229c7e3f97cd]: Commencement: Reg. 92 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

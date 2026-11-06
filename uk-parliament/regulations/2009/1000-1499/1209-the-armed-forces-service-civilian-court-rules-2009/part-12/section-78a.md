@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Special provisions relating to a child witness[^key-343698c23aefa600369acc264a95e250]
+## 78A. Special provisions relating to a child witness[^c-343698c23aefa600369acc264a95e250]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ then, so far as it provides as mentioned in sub-paragraph (a)(i) or (ii) above, 
 
 ## Annotations
 
-[^key-343698c23aefa600369acc264a95e250]: Textual amendment: Rules 78A, 78B inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2022/605/rule/20)
+[^c-343698c23aefa600369acc264a95e250]: Textual amendment: Rules 78A, 78B inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2022/605/rule/20)

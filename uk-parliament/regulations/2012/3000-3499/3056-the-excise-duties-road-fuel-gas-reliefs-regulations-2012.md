@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2012 (revoked)[^key-bdbe45528f257c9f6696c4f7c7b59768]
+The Excise Duties (Road Fuel Gas) (Reliefs) Regulations 2012 (revoked)[^c-bdbe45528f257c9f6696c4f7c7b59768]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2013
 
-[^key-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bdbe45528f257c9f6696c4f7c7b59768]
+## 1. Citation, commencement and interpretation[^c-bdbe45528f257c9f6696c4f7c7b59768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Relief[^key-bdbe45528f257c9f6696c4f7c7b59768]
+## 2. Relief[^c-bdbe45528f257c9f6696c4f7c7b59768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdbe45528f257c9f6696c4f7c7b59768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdbe45528f257c9f6696c4f7c7b59768]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3056) revoked (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(7)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/7/b)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
+[^c-bdbe45528f257c9f6696c4f7c7b59768]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3056) revoked (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(7)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/7/b)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)

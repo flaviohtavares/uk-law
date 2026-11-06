@@ -27,9 +27,9 @@ summary: ''
 - (a) the value of the pension, and
 - (b) the value of any lump sum to which the transferee is entitled under this Part,
 
-equals the sum of the amount of the pension credit and the amount of any remediable pension credit or remediable pension reduction under Part 5 of the 2023 Regulations[^key-aec3e51947bb9f636429c057b8181cce].
+equals the sum of the amount of the pension credit and the amount of any remediable pension credit or remediable pension reduction under Part 5 of the 2023 Regulations[^c-aec3e51947bb9f636429c057b8181cce].
 
-(2A)[^key-300af12243201c0154dbc3872efd0b25] In paragraph (2)—
+(2A)[^c-300af12243201c0154dbc3872efd0b25] In paragraph (2)—
 
 - (a) “remediable pension credit”, in the circumstances mentioned in—
   - (i) regulation 48 of the 2023 Regulations, has the meaning given in regulation 49(5) of those Regulations;
@@ -48,6 +48,6 @@ and any regulations made by the Secretary of State or by the Department for Comm
 
 ## Annotations
 
-[^key-aec3e51947bb9f636429c057b8181cce]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/31/2) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/3)
+[^c-aec3e51947bb9f636429c057b8181cce]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/31/2) substituted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/3)
 
-[^key-300af12243201c0154dbc3872efd0b25]: Textual amendment: [Reg. 31(2A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/31/2A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/4)
+[^c-300af12243201c0154dbc3872efd0b25]: Textual amendment: [Reg. 31(2A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/31/2A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/4)

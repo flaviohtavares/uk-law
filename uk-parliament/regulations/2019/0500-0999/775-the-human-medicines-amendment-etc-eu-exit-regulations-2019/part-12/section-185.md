@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Amendment of regulation 219 (electronic prescriptions)[^key-9a5559417ac2d6b213b8845c1cf2faf4]
+## 185. Amendment of regulation 219 (electronic prescriptions)[^c-9a5559417ac2d6b213b8845c1cf2faf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 219(2) [^c23885221], for “EEA health professional” substitute 
 
 ## Annotations
 
-[^key-9a5559417ac2d6b213b8845c1cf2faf4]: Commencement: Reg. 185 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9a5559417ac2d6b213b8845c1cf2faf4]: Commencement: Reg. 185 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885221]: Marginal citation: Regulation 219 was amended by [S.I. 2015/903](https://www.legislation.gov.uk/uksi/2015/903) and 2016/696.

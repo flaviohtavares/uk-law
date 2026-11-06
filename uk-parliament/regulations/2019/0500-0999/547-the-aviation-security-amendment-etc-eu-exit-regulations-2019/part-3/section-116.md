@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116.[^key-35c1d70ed9eb71fb891a03880ba58827]
+## 116.[^c-35c1d70ed9eb71fb891a03880ba58827]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the second paragraph omit “/account consignor”.
 
 ## Annotations
 
-[^key-35c1d70ed9eb71fb891a03880ba58827]: Commencement: Reg. 116 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-35c1d70ed9eb71fb891a03880ba58827]: Commencement: Reg. 116 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

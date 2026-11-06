@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33I. Payment[^key-cf14aba62169bd52be89eed2a9d524bd]
+## 33I. Payment[^c-cf14aba62169bd52be89eed2a9d524bd]
 
 *Extent: E+W*
 
-(1) Any dispute as to the amount of a payment to be made under section 33A, 33B or 33C must be determined by the Upper Tribunal[^key-4c16769c6aa592a9f8d296f51397ae7b].
+(1) Any dispute as to the amount of a payment to be made under section 33A, 33B or 33C must be determined by the Upper Tribunal[^c-4c16769c6aa592a9f8d296f51397ae7b].
 
 (2) The acquiring authority must make any payment required by section 33A not later than whichever is the latest of the following dates—
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf14aba62169bd52be89eed2a9d524bd]: Textual amendment: Ss. 33E-33K inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 109](https://www.legislation.gov.uk/ukpga/2004/5/section/109); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-cf14aba62169bd52be89eed2a9d524bd]: Textual amendment: Ss. 33E-33K inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 109](https://www.legislation.gov.uk/ukpga/2004/5/section/109); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
 
-[^key-4c16769c6aa592a9f8d296f51397ae7b]: Textual amendment: Words in [s. 33I(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/33I/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/106) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-4c16769c6aa592a9f8d296f51397ae7b]: Textual amendment: Words in [s. 33I(1)](https://www.legislation.gov.uk/ukpga/1973/26/section/33I/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/106) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

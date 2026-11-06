@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Powers of entry, search and seizure: supplementary provision[^key-c7f539f31545f909ce5187935317c64a]
+## 47. Powers of entry, search and seizure: supplementary provision[^c-c7f539f31545f909ce5187935317c64a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f539f31545f909ce5187935317c64a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/2/section/47) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-c7f539f31545f909ce5187935317c64a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/2/section/47) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

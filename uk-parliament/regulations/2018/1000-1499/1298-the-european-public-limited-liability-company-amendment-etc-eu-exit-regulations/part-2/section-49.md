@@ -28,7 +28,7 @@ In regulation 3 (interpretation) [^c23528951]—
 
     > “**employee involvement agreement**” means—
     >
-    > - (a) an agreement reached before IP completion day[^key-3dec1f26f141a51584cf065531ebf707] between the special negotiating body and the competent organs of the participating companies which governs the arrangements for the involvement of employees within the UK Societas,
+    > - (a) an agreement reached before IP completion day[^c-3dec1f26f141a51584cf065531ebf707] between the special negotiating body and the competent organs of the participating companies which governs the arrangements for the involvement of employees within the UK Societas,
     > - (b) an agreement reached before or after IP completion day between the special negotiating body and the competent organs of the participating companies which governs the arrangements for the involvement of employees within the SE,
     > - (c) an agreement reached after IP completion day following a special negotiating body having been reconvened under regulation 17 of these Regulations, which governs the arrangements for the involvement of employees within the UK Societas;
 
@@ -54,14 +54,14 @@ In regulation 3 (interpretation) [^c23528951]—
 
     > “**standard rules on employee involvement**” means—
     >
-    > - (a) in respect of a UK Societas the rules on employee involvement which apply by virtue of regulation 19, as it had effect immediately before IP completion day[^key-943668f2343216646af94deb95908608],
+    > - (a) in respect of a UK Societas the rules on employee involvement which apply by virtue of regulation 19, as it had effect immediately before IP completion day[^c-943668f2343216646af94deb95908608],
     > - (b) in respect of an SE the rules laid down by the EEA State in which it has its registered office;
 
     ;
   - (ix) omit the definitions of “suitable information relating to the use of agency workers”, “two thirds majority vote” and “UK members of the special negotiating body”;
   - (x) at the end, insert—
 
-    > “**UK Societas**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^key-09e32985617f7ffa25299f446cab7f49], which on IP completion day converted to a United Kingdom Societas within the meaning of the EC Regulation.
+    > “**UK Societas**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^c-09e32985617f7ffa25299f446cab7f49], which on IP completion day converted to a United Kingdom Societas within the meaning of the EC Regulation.
 
     ;
 - (b) in paragraph (2)—
@@ -77,7 +77,7 @@ In regulation 3 (interpretation) [^c23528951]—
   - (iii) after “consultation” insert “, read as if after each occurrence of “ SE ” there were inserted “or the UK Societas”;
 - (c) after paragraph (2) insert—
 
-  > (2A) Where an employee involvement agreement was reached before IP completion day[^key-c6e1756fae00eef41506bb6a315bbdd1] for a UK Societas, or where the standard rules on employee involvement apply in respect of that UK Societas, on and after IP completion day any reference to an “EEA State” in that agreement or those rules, insofar as they apply to that UK Societas, must, where appropriate, be read as if they were to “an EEA State and the United Kingdom.
+  > (2A) Where an employee involvement agreement was reached before IP completion day[^c-c6e1756fae00eef41506bb6a315bbdd1] for a UK Societas, or where the standard rules on employee involvement apply in respect of that UK Societas, on and after IP completion day any reference to an “EEA State” in that agreement or those rules, insofar as they apply to that UK Societas, must, where appropriate, be read as if they were to “an EEA State and the United Kingdom.
 
   ;
 - (d) omit paragraph (4).
@@ -88,10 +88,10 @@ In regulation 3 (interpretation) [^c23528951]—
 
 [^c23528951]: Marginal citation: Regulation 3 was amended by [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93).
 
-[^key-3dec1f26f141a51584cf065531ebf707]: Textual amendment: Words in [reg. 49(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/ii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/c/i/aa)
+[^c-3dec1f26f141a51584cf065531ebf707]: Textual amendment: Words in [reg. 49(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/ii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/c/i/aa)
 
-[^key-943668f2343216646af94deb95908608]: Textual amendment: Words in [reg. 49(a)(viii)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/viii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/i/bb)
+[^c-943668f2343216646af94deb95908608]: Textual amendment: Words in [reg. 49(a)(viii)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/viii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/i/bb)
 
-[^key-09e32985617f7ffa25299f446cab7f49]: Textual amendment: Words in [reg. 49(a)(x)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/x) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/i/cc)
+[^c-09e32985617f7ffa25299f446cab7f49]: Textual amendment: Words in [reg. 49(a)(x)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/a/x) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/i/cc)
 
-[^key-c6e1756fae00eef41506bb6a315bbdd1]: Textual amendment: Words in [reg. 49(c)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/c) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/ii)
+[^c-c6e1756fae00eef41506bb6a315bbdd1]: Textual amendment: Words in [reg. 49(c)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/49/c) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/e/ii)

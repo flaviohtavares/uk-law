@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Further amendments[^key-63680710594ebd57438918566f35d8d9]
+## 14. Further amendments[^c-63680710594ebd57438918566f35d8d9]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63680710594ebd57438918566f35d8d9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/20/section/14) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-63680710594ebd57438918566f35d8d9]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/20/section/14) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34C. Provisions supplementary to sections 34A and 34B.[^c18161701][^c18161721][^key-b394bdfe1e72c2148f117298cbf2db88]
+## 34C. Provisions supplementary to sections 34A and 34B.[^c18161701][^c18161721][^c-b394bdfe1e72c2148f117298cbf2db88]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c18161721]: Modification: S. 34C: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-b394bdfe1e72c2148f117298cbf2db88]: Textual amendment: Ss. 34A-34C substituted for ss. 34A-34C (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 35](https://www.legislation.gov.uk/ukpga/2006/49/section/35), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))
+[^c-b394bdfe1e72c2148f117298cbf2db88]: Textual amendment: Ss. 34A-34C substituted for ss. 34A-34C (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 35](https://www.legislation.gov.uk/ukpga/2006/49/section/35), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/2938/article/3))

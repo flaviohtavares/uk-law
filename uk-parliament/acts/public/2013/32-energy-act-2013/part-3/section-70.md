@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f4f42fb48312a84be227a1c3971344cd] In this Part, the “**nuclear security purposes**” means the purposes of ensuring the security of—
+(1)[^c-f4f42fb48312a84be227a1c3971344cd] In this Part, the “**nuclear security purposes**” means the purposes of ensuring the security of—
 
 - (a) civil nuclear premises;
 - (b) nuclear material used or stored on civil nuclear premises and equipment or software used or stored on such premises in connection with activities involving nuclear material;
@@ -41,9 +41,9 @@ summary: ''
   other than material being (or expected to be) so transported or carried for defence purposes;
 - (h) information relating to the security of anything mentioned in paragraphs (a) to (g).
 
-(2)[^key-f4f42fb48312a84be227a1c3971344cd] For the purposes of subsection (1), ensuring the security of any site or premises includes doing so by means of the design of, or of anything on, the site or premises.
+(2)[^c-f4f42fb48312a84be227a1c3971344cd] For the purposes of subsection (1), ensuring the security of any site or premises includes doing so by means of the design of, or of anything on, the site or premises.
 
-(3)[^key-99ef29a8365a39c57f66d6da23efdc0b] In this section—
+(3)[^c-99ef29a8365a39c57f66d6da23efdc0b] In this section—
 
 - “**civil nuclear construction site**” means a site—
   - (a) on which works are being carried out with a view to its becoming a civil nuclear site, and
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4f42fb48312a84be227a1c3971344cd]: Commencement: S. 70(1)(2) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-f4f42fb48312a84be227a1c3971344cd]: Commencement: S. 70(1)(2) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-99ef29a8365a39c57f66d6da23efdc0b]: Commencement: S. 70(3) in force at 18.2.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/251/article/2/a)
+[^c-99ef29a8365a39c57f66d6da23efdc0b]: Commencement: S. 70(3) in force at 18.2.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/251/article/2/a)

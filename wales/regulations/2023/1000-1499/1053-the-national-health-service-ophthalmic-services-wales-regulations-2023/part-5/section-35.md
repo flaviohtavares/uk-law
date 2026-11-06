@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Overpayments[^key-55b18d762d24aa4e00fcf17dbb06fd52]
+## 35. Overpayments[^c-55b18d762d24aa4e00fcf17dbb06fd52]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ the Local Health Board must deduct the excess from remuneration otherwise payabl
 
 ## Annotations
 
-[^key-55b18d762d24aa4e00fcf17dbb06fd52]: Commencement: Reg. 35 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-55b18d762d24aa4e00fcf17dbb06fd52]: Commencement: Reg. 35 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664), amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469); there are other amending instruments but none is relevant to these Regulations.

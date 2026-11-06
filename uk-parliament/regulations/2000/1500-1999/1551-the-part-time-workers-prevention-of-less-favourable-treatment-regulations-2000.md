@@ -70,7 +70,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 (2) A worker is a part-time worker for the purpose of these Regulations if he is paid wholly or in part by reference to the time he works and, having regard to the custom and practice of the employer in relation to workers employed by the worker’s employer under the same type of contract, is not identifiable as a full-time worker.
 
-(3)[^key-6f8bbf19521874c130c8d4edfe0327c3] For the purposes of paragraphs (1), (2) and (4), the following shall be regarded as being employed under different types of contract—
+(3)[^c-6f8bbf19521874c130c8d4edfe0327c3] For the purposes of paragraphs (1), (2) and (4), the following shall be regarded as being employed under different types of contract—
 
 - (a) employees employed under a contract that is not a contract of apprenticeship;
 - (b) employees employed under a contract of apprenticeship;
@@ -168,9 +168,9 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (1) Subject to regulation 7(5), a worker may present a complaint to an employment tribunal that his employer has infringed a right conferred on him by regulation 5 or 7(2).
 
-(2) Subject to paragraph (3), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six months[^key-36e054a1abdb2b6d4dedc61ace65783a] beginning with the date of the less favourable treatment or detriment to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the less favourable treatment or detriment, the last of them.
+(2) Subject to paragraph (3), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six months[^c-36e054a1abdb2b6d4dedc61ace65783a] beginning with the date of the less favourable treatment or detriment to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the less favourable treatment or detriment, the last of them.
 
-(2A)[^key-548a503eaa849cd92bc94f5b8784f62e] Regulation 8A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-548a503eaa849cd92bc94f5b8784f62e] Regulation 8A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -193,9 +193,9 @@ it may draw any inference which it considers it just and equitable to draw, incl
 - (b) ordering the employer to pay compensation to the complainant;
 - (c) recommending that the employer take, within a specified period, action appearing to the tribunal to be reasonable, in all the circumstances of the case, for the purpose of obviating or reducing the adverse effect on the complainant of any matter to which the complaint relates.
 
-(8)[^key-be348b3e1736451916c6239f5d69ee5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-be348b3e1736451916c6239f5d69ee5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) Where a tribunal orders compensation under paragraph (7)(b), the amount of the compensation awarded shall be such as the tribunal considers just and equitable in all the circumstances [^key-fac4945ce56c2978bd963d606ddb62f3]... having regard to—
+(9) Where a tribunal orders compensation under paragraph (7)(b), the amount of the compensation awarded shall be such as the tribunal considers just and equitable in all the circumstances [^c-fac4945ce56c2978bd963d606ddb62f3]... having regard to—
 
 - (a) the infringement to which the complaint relates, and
 - (b) any loss which is attributable to the infringement having regard, in the case of an infringement of the right conferred by regulation 5, to the pro rata principle except where it is inappropriate to do so.
@@ -216,7 +216,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 - (a) increase the amount of compensation required to be paid to the complainant in respect of the complaint, where an order was made under paragraph (7)(b); or
 - (b) make an order under paragraph (7)(b).
 
-### 8A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-ff30d1f23fe305402585dac232d0f945]
+### 8A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-ff30d1f23fe305402585dac232d0f945]
 
 (1) In this regulation—
 
@@ -280,20 +280,20 @@ or consists in undertaking voluntary training or duties under section 27 of the 
 
 (3) No complaint concerning the service of any person as a member of the armed forces may be presented to an employment tribunal under regulation 8 unless—
 
-- (a)[^key-b0a09b3571d66cd76660de7f92c414af] that person (“the complainant”) has made a service complaint in respect of the same matter, and
+- (a)[^c-b0a09b3571d66cd76660de7f92c414af] that person (“the complainant”) has made a service complaint in respect of the same matter, and
 - (b) that complaint has not been withdrawn.
 
-(4)[^key-42b5310c6d4ada5a930567dc423cf8fd] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (3)(b) as withdrawn if—
+(4)[^c-42b5310c6d4ada5a930567dc423cf8fd] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (3)(b) as withdrawn if—
 
 - (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person’s or panel’s decision expires,
 - (b) there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal, and
 - (c) either—
-  - (i) the complainant does not apply to the Armed Forces Commissioner[^key-477409eb5ca9d07a615303c1aa2014a0] for a review by virtue of section 340D(6)(a) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed), or
-  - (ii) the complainant does apply for such a review and the Commissioner[^key-3fc3b6bf6f255226c1b8ebb0fcf02545] decides that an appeal against the person’s or panel’s decision cannot be proceeded with.
+  - (i) the complainant does not apply to the Armed Forces Commissioner[^c-477409eb5ca9d07a615303c1aa2014a0] for a review by virtue of section 340D(6)(a) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed), or
+  - (ii) the complainant does apply for such a review and the Commissioner[^c-3fc3b6bf6f255226c1b8ebb0fcf02545] decides that an appeal against the person’s or panel’s decision cannot be proceeded with.
 
-(5) Where a complaint of the kind referred to in paragraph (3) is presented to an employment tribunal, the procedures set out in service complaints regulations[^key-37ba440a43fa9e27e1e8600b9dd53516] may continue after the complaint is presented.
+(5) Where a complaint of the kind referred to in paragraph (3) is presented to an employment tribunal, the procedures set out in service complaints regulations[^c-37ba440a43fa9e27e1e8600b9dd53516] may continue after the complaint is presented.
 
-(6)[^key-5ba567d6ff9fd3d39a5816087ca818bc] In this regulation—
+(6)[^c-5ba567d6ff9fd3d39a5816087ca818bc] In this regulation—
 
 - “**service complaint**” means a complaint under section 340A of the Armed Forces Act 2006;
 - “**service complaints regulations**” means regulations made under section 340B(1) of that Act.
@@ -317,7 +317,7 @@ or consists in undertaking voluntary training or duties under section 27 of the 
 
 (1) For the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable or an appointment as a police cadet shall be treated as employment, under a contract of employment, by the relevant officer.
 
-(1A)[^key-976fb9b34fbc4b9ef68a23d1281ebd3b] For the purposes of these Regulations, any constable who has been seconded to SOCA to serve as a member of its staff shall be treated as employed by SOCA, in respect of actions taken by, or on behalf of, SOCA.
+(1A)[^c-976fb9b34fbc4b9ef68a23d1281ebd3b] For the purposes of these Regulations, any constable who has been seconded to SOCA to serve as a member of its staff shall be treated as employed by SOCA, in respect of actions taken by, or on behalf of, SOCA.
 
 (1B) For the purposes of regulation 11 (liability of employers and principals),—
 
@@ -327,14 +327,14 @@ or consists in undertaking voluntary training or duties under section 27 of the 
 (2) In this regulation “the relevant officer" means—
 
 - (a) in relation to a member of a police force or a special constable or police cadet appointed for a police area, the chief officer of police (or, in Scotland, the chief constable);
-- (b)[^key-53eb491959f89993d005ba7795ee327a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-53eb491959f89993d005ba7795ee327a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in relation to any other person holding the office of constable or an appointment as a police cadet, the person who has the direction and control of the body of constables or cadets in question.
 
-(4)[^key-f1c16afa9444d48377fb141d62c00d07] For the purposes of these Regulations the relevant officer, as defined by paragraph (3), shall be treated as a corporation sole.
+(4)[^c-f1c16afa9444d48377fb141d62c00d07] For the purposes of these Regulations the relevant officer, as defined by paragraph (3), shall be treated as a corporation sole.
 
 (5) In the application of this regulation to Scotland paragraph (4) shall have effect as if for the words “corporation sole” there were substituted “distinct juristic person (that is to say, as a juristic person distinct from the individual who for the time being is the office-holder).
 
-(6)[^key-775192e669e34324a74f1c107882e9b8] In this regulation “SOCA” means the Serious Organised Crime Agency.
+(6)[^c-775192e669e34324a74f1c107882e9b8] In this regulation “SOCA” means the Serious Organised Crime Agency.
 
 ### 17. Holders of judicial offices
 
@@ -501,19 +501,19 @@ Less favourable treatment will only be justified on objective grounds if it can 
 
 [^c16028351]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-6f8bbf19521874c130c8d4edfe0327c3]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/2/3) substituted (1.10.2002) by [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/a)
+[^c-6f8bbf19521874c130c8d4edfe0327c3]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/2/3) substituted (1.10.2002) by [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/a)
 
 [^c16028361]: Marginal citation: Section 92(3) was amended by the [Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order 1999 (S.I. 1999/1436)](https://www.legislation.gov.uk/uksi/1999/1436), [Article 3](https://www.legislation.gov.uk/uksi/1999/1436/article/3). Section 92(4)(b) was amended by the Employment Relations Act 1999, section 9 and paragraphs 1 and 5 of Part III of Schedule 4.
 
-[^key-36e054a1abdb2b6d4dedc61ace65783a]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8/2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/758/regulation/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-36e054a1abdb2b6d4dedc61ace65783a]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8/2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/758/regulation/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-548a503eaa849cd92bc94f5b8784f62e]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/11)
+[^c-548a503eaa849cd92bc94f5b8784f62e]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/11)
 
-[^key-be348b3e1736451916c6239f5d69ee5a]: Textual amendment: Reg. 8(8) omitted (1.10.2002) by virtue of [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/b)
+[^c-be348b3e1736451916c6239f5d69ee5a]: Textual amendment: Reg. 8(8) omitted (1.10.2002) by virtue of [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/b)
 
-[^key-fac4945ce56c2978bd963d606ddb62f3]: Textual amendment: Words in reg. 8(9) omitted (1.10.2002) by virtue of [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/b)
+[^c-fac4945ce56c2978bd963d606ddb62f3]: Textual amendment: Words in reg. 8(9) omitted (1.10.2002) by virtue of [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Regulations 2002 (S.I. 2002/2035)](https://www.legislation.gov.uk/uksi/2002/2035), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2035/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2035/regulation/2/b)
 
-[^key-ff30d1f23fe305402585dac232d0f945]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/12)
+[^c-ff30d1f23fe305402585dac232d0f945]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2000/1551/regulation/8A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/12)
 
 [^c16028371]: Marginal citation: Section 203 was amended by the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8); section 203(2)(d) was amended by the Employment Relations Act 1999, section 44 and Schedule 9.3.
 
@@ -521,25 +521,25 @@ Less favourable treatment will only be justified on objective grounds if it can 
 
 [^c16028391]: Marginal citation: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-b0a09b3571d66cd76660de7f92c414af]: Textual amendment: [Reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/3/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-b0a09b3571d66cd76660de7f92c414af]: Textual amendment: [Reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/3/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-42b5310c6d4ada5a930567dc423cf8fd]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-42b5310c6d4ada5a930567dc423cf8fd]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-477409eb5ca9d07a615303c1aa2014a0]: Textual amendment: Words in [reg. 13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4/c/i) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/372/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/372/regulation/5))
+[^c-477409eb5ca9d07a615303c1aa2014a0]: Textual amendment: Words in [reg. 13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4/c/i) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/372/regulation/4/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/372/regulation/5))
 
-[^key-3fc3b6bf6f255226c1b8ebb0fcf02545]: Textual amendment: Word in [reg. 13(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4/c/ii) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/372/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/372/regulation/5))
+[^c-3fc3b6bf6f255226c1b8ebb0fcf02545]: Textual amendment: Word in [reg. 13(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/4/c/ii) substituted (1.4.2026) by [The Armed Forces Commissioner (Family Definition, and Consequential and Transitional Provision etc.) Regulations 2026 (S.I. 2026/372)](https://www.legislation.gov.uk/uksi/2026/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/372/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/372/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/372/regulation/5))
 
-[^key-37ba440a43fa9e27e1e8600b9dd53516]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/5) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-37ba440a43fa9e27e1e8600b9dd53516]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/5) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-5ba567d6ff9fd3d39a5816087ca818bc]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/6) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-5ba567d6ff9fd3d39a5816087ca818bc]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2000/1551/regulation/13/6) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 5(d)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/5/d); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-976fb9b34fbc4b9ef68a23d1281ebd3b]: Textual amendment: Reg. 16(1A) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/2)
+[^c-976fb9b34fbc4b9ef68a23d1281ebd3b]: Textual amendment: Reg. 16(1A) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/2)
 
-[^key-53eb491959f89993d005ba7795ee327a]: Textual amendment: Reg. 16(2)(b) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/3)
+[^c-53eb491959f89993d005ba7795ee327a]: Textual amendment: Reg. 16(2)(b) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/3)
 
-[^key-f1c16afa9444d48377fb141d62c00d07]: Textual amendment: Reg. 16(4)(5) inserted (1.9.2005) by [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Order 2005 (S.I. 2005/2240)](https://www.legislation.gov.uk/uksi/2005/2240), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2240/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2240/article/2/2)
+[^c-f1c16afa9444d48377fb141d62c00d07]: Textual amendment: Reg. 16(4)(5) inserted (1.9.2005) by [The Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000 (Amendment) Order 2005 (S.I. 2005/2240)](https://www.legislation.gov.uk/uksi/2005/2240), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2240/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/2240/article/2/2)
 
-[^key-775192e669e34324a74f1c107882e9b8]: Textual amendment: Reg. 16(6) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(4)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/4)
+[^c-775192e669e34324a74f1c107882e9b8]: Textual amendment: Reg. 16(6) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 21(4)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/21/4)
 
 [^c16028451]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17). Under section 1(2) of the Employment Rights (Dispute Resolution) Act 1998, the Act, formerly the Industrial Tribunals Act 1996, may now be cited as the Employment Tribunals Act 1996.
 

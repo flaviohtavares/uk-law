@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Failure of a remote pilot to carry out obligations to a spaceflight participant about stations[^key-dc284b6d65bd1cfe793f6b020ac4014e]
+## 130. Failure of a remote pilot to carry out obligations to a spaceflight participant about stations[^c-dc284b6d65bd1cfe793f6b020ac4014e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A remote pilot who fails, without reasonable excuse, to comply with the requirem
 
 ## Annotations
 
-[^key-dc284b6d65bd1cfe793f6b020ac4014e]: Commencement: Reg. 130 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-dc284b6d65bd1cfe793f6b020ac4014e]: Commencement: Reg. 130 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

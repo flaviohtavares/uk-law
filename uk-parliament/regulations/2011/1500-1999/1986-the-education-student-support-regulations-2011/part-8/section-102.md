@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Application of contribution – old system students[^key-e74435c0d9e8fae4de6f5d265a964891]
+## 102. Application of contribution – old system students[^c-e74435c0d9e8fae4de6f5d265a964891]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74435c0d9e8fae4de6f5d265a964891]: Textual amendment: [Reg. 102](https://www.legislation.gov.uk/uksi/2011/1986/regulation/102) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/8)
+[^c-e74435c0d9e8fae4de6f5d265a964891]: Textual amendment: [Reg. 102](https://www.legislation.gov.uk/uksi/2011/1986/regulation/102) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/8)

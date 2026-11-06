@@ -34,7 +34,7 @@ and the High Court has jurisdiction to make a declaration that the licence or co
 
 (4) Nothing in this section shall be construed as conferring jurisdiction on the county court to grant any relief other than such a declaration as aforesaid.
 
-(5)[^key-1813b7f588b2c3e14a53a0ab28faef7b] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
+(5)[^c-1813b7f588b2c3e14a53a0ab28faef7b] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1).
 
 ## Annotations
 
@@ -42,4 +42,4 @@ and the High Court has jurisdiction to make a declaration that the licence or co
 
 [^c318955]: Textual amendment: Words substituted by virtue of [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/paragraph/23)
 
-[^key-1813b7f588b2c3e14a53a0ab28faef7b]: Textual amendment: S. 53(5) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/5/2)
+[^c-1813b7f588b2c3e14a53a0ab28faef7b]: Textual amendment: S. 53(5) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [5(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/5/2)

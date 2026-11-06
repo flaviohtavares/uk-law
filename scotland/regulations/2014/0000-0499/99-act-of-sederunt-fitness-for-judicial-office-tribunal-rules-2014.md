@@ -31,7 +31,7 @@ summary: ''
 
 Judicial Appointments And Discipline
 
-Act of Sederunt (Fitness for Judicial Office Tribunal Rules) 2014 (revoked)[^key-7d0addf88162e237e3c7869b0079b391]
+Act of Sederunt (Fitness for Judicial Office Tribunal Rules) 2014 (revoked)[^c-7d0addf88162e237e3c7869b0079b391]
 
 Made
 
@@ -45,93 +45,93 @@ Coming into force
 
 20th May 2014
 
-[^key-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement etc.[^key-7d0addf88162e237e3c7869b0079b391]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-7d0addf88162e237e3c7869b0079b391]
+## 1. Citation, commencement etc.[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement of investigation[^key-7d0addf88162e237e3c7869b0079b391]
+## 2. Interpretation[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Investigation[^key-7d0addf88162e237e3c7869b0079b391]
+## 3. Commencement of investigation[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application for further specification of reasons[^key-7d0addf88162e237e3c7869b0079b391]
+## 4. Investigation[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Response to statement of reasons[^key-7d0addf88162e237e3c7869b0079b391]
+## 5. Application for further specification of reasons[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consideration of recommendation, etc[^key-7d0addf88162e237e3c7869b0079b391]
+## 6. Response to statement of reasons[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Representation at hearings[^key-7d0addf88162e237e3c7869b0079b391]
+## 7. Consideration of recommendation, etc[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Duty to disclose information[^key-7d0addf88162e237e3c7869b0079b391]
+## 8. Representation at hearings[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Preliminary hearing[^key-7d0addf88162e237e3c7869b0079b391]
+## 9. Duty to disclose information[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Hearing[^key-7d0addf88162e237e3c7869b0079b391]
+## 10. Preliminary hearing[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Conduct of hearings[^key-7d0addf88162e237e3c7869b0079b391]
+## 11. Hearing[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of tribunal[^key-7d0addf88162e237e3c7869b0079b391]
+## 12. Conduct of hearings[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Termination of proceedings[^key-7d0addf88162e237e3c7869b0079b391]
+## 13. Powers of tribunal[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Decision and report[^key-7d0addf88162e237e3c7869b0079b391]
+## 14. Termination of proceedings[^c-7d0addf88162e237e3c7869b0079b391]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Decision and report[^c-7d0addf88162e237e3c7869b0079b391]
 
 **Not yet in force.**
 
@@ -139,12 +139,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d0addf88162e237e3c7869b0079b391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d0addf88162e237e3c7869b0079b391]: Textual amendment: Rules revoked (19.5.2014) by [Act of Sederunt (Fitness for Judicial Office Tribunal Rules) (No. 2) 2014 (S.S.I. 2014/102)](https://www.legislation.gov.uk/ssi/2014/102), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2014/102/paragraph/1/3), [16](https://www.legislation.gov.uk/ssi/2014/102/paragraph/16)
+[^c-7d0addf88162e237e3c7869b0079b391]: Textual amendment: Rules revoked (19.5.2014) by [Act of Sederunt (Fitness for Judicial Office Tribunal Rules) (No. 2) 2014 (S.S.I. 2014/102)](https://www.legislation.gov.uk/ssi/2014/102), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2014/102/paragraph/1/3), [16](https://www.legislation.gov.uk/ssi/2014/102/paragraph/16)

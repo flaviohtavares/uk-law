@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Articles of government of higher education corporations in Wales[^key-ef49c786b99dff9b7372870b73663eb0][^key-a6526cd74660ec25282fe52565951ae8]
+## 138. Articles of government of higher education corporations in Wales[^c-ef49c786b99dff9b7372870b73663eb0][^c-a6526cd74660ec25282fe52565951ae8]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef49c786b99dff9b7372870b73663eb0]: Commencement: S. 138 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-ef49c786b99dff9b7372870b73663eb0]: Commencement: S. 138 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-a6526cd74660ec25282fe52565951ae8]: Commencement: [S. 138](https://www.legislation.gov.uk/asc/2022/1/section/138) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(uu)](https://www.legislation.gov.uk/wsi/2026/62/article/2/uu)
+[^c-a6526cd74660ec25282fe52565951ae8]: Commencement: [S. 138](https://www.legislation.gov.uk/asc/2022/1/section/138) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(uu)](https://www.legislation.gov.uk/wsi/2026/62/article/2/uu)

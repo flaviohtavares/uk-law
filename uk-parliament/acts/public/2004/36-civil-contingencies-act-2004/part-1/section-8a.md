@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Urgency: Wales[^key-58897d8f1bb84c035c668cf9d32ea6fa]
+## 8A. Urgency: Wales[^c-58897d8f1bb84c035c668cf9d32ea6fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58897d8f1bb84c035c668cf9d32ea6fa]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/36/section/8A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2018/644/article/41/7)
+[^c-58897d8f1bb84c035c668cf9d32ea6fa]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2004/36/section/8A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(7)](https://www.legislation.gov.uk/uksi/2018/644/article/41/7)

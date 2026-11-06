@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c12676561] The amount of any liability of a local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] in respect of the principal of any loan which is an excepted liability in relation to an institution to which this section applies shall be treated on and after the operative date as having been borrowed from that authority by the default on such terms as to repayment and the payment of interest as may be agreed between the Education Assets Board and the authority or determined by the Secretary of State under this section.
+(1)[^c12676561] The amount of any liability of a local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] in respect of the principal of any loan which is an excepted liability in relation to an institution to which this section applies shall be treated on and after the operative date as having been borrowed from that authority by the default on such terms as to repayment and the payment of interest as may be agreed between the Education Assets Board and the authority or determined by the Secretary of State under this section.
 
 (2) This section applies to any institution conducted by a higher education corporation and any institution designated under section 129 of this Act; and in relation to any such institution—
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c12676561]: Modification: S. 199(1)(3): functions conferred by [S.I. 1991/1457](https://www.legislation.gov.uk/uksi/1991/1457), [arts.2](https://www.legislation.gov.uk/uksi/1991/1457/article/2), [3](https://www.legislation.gov.uk/uksi/1991/1457/article/3)
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)

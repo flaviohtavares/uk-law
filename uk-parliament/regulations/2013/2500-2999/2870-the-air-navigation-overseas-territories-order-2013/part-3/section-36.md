@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Radio equipment of aircraft[^key-4341b1d7e253d5409d937f2c1194ae56]
+## 36. Radio equipment of aircraft[^c-4341b1d7e253d5409d937f2c1194ae56]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subject to paragraphs (3) and (4), for an aircraft registered in the Territory the radio equipment and radio navigation equipment that is required to be provided must comply—
 
-- (a) with instructions given by the Governor under article 74(1)(c)[^key-531f197dde21c8b478f1bc58ac6627b8]; or
+- (a) with instructions given by the Governor under article 74(1)(c)[^c-531f197dde21c8b478f1bc58ac6627b8]; or
 - (b) with the Governor’s specified requirements applicable to the purpose and circumstances of the flight.
 
 (3) The radio and radio navigation equipment provided in accordance with paragraph (2) must be—
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4341b1d7e253d5409d937f2c1194ae56]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2013/2870/article/36) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4341b1d7e253d5409d937f2c1194ae56]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2013/2870/article/36) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-531f197dde21c8b478f1bc58ac6627b8]: Textual amendment: Word in [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/36/2/a) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/3)
+[^c-531f197dde21c8b478f1bc58ac6627b8]: Textual amendment: Word in [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/36/2/a) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/3)

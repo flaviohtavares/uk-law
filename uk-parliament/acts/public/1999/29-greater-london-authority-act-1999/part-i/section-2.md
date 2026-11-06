@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Membership of the Authority and the Assembly.[^c12799851][^key-20c78f8694cdf2e367ecedf35e16ea0f]
+## 2. Membership of the Authority and the Assembly.[^c12799851][^c-20c78f8694cdf2e367ecedf35e16ea0f]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) There shall be one constituency member for each Assembly constituency.
 
-(4)[^c12799861][^key-20c78f8694cdf2e367ecedf35e16ea0f] The Assembly constituencies shall be the areas, and shall be known by the names, specified in an order made by statutory instrument by[^c12799871] the Local Government Boundary Commission for England[^key-c6ddff2eea8b5d5f8179b738f3e0ffe8].
+(4)[^c12799861][^c-20c78f8694cdf2e367ecedf35e16ea0f] The Assembly constituencies shall be the areas, and shall be known by the names, specified in an order made by statutory instrument by[^c12799871] the Local Government Boundary Commission for England[^c-c6ddff2eea8b5d5f8179b738f3e0ffe8].
 
 (5) Schedule 1 to this Act (which makes further provision about Assembly constituencies and orders under subsection (4) above) shall have effect.
 
@@ -64,7 +64,7 @@ but this subsection is subject to the other provisions of this Act and, in parti
 
 [^c12799851]: Commencement: S. 2 wholly in force at 14.12.1999: by virtue of s. 425(2) this Act is in force at Royal Assent in regards to any power of a Minister of the Crown to make regulations or an order; s. 2 in force at 14.12.1999 insofar as not already in force by [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 
-[^key-20c78f8694cdf2e367ecedf35e16ea0f]: Modification: S. 2(4): transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(a)](https://www.legislation.gov.uk/uksi/2001/3962/article/60/2), [148(3)(b)](https://www.legislation.gov.uk/uksi/2001/3962/article/148/3/b) (with s. 63(4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
+[^c-20c78f8694cdf2e367ecedf35e16ea0f]: Modification: S. 2(4): transfer of functions (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 60(2)(3)(a)](https://www.legislation.gov.uk/uksi/2001/3962/article/60/2), [148(3)(b)](https://www.legislation.gov.uk/uksi/2001/3962/article/148/3/b) (with s. 63(4)); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/i)
 
 [^c12799861]: Modification: S. 2(4): power to transfer or modify functions conferred (30.11.2000 for specified purposes otherwise 30.10.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2000/41/section/18/3/c), [163(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/163/3) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/3526](https://www.legislation.gov.uk/uksi/2001/3526), [art. 2(c)](https://www.legislation.gov.uk/uksi/2001/3526/article/2/c)
 
@@ -72,4 +72,4 @@ but this subsection is subject to the other provisions of this Act and, in parti
 
 [^c12799871]: Textual amendment: Words in s. 2(4) substituted (1.4.2002) by [S.I. 2001/3962](https://www.legislation.gov.uk/uksi/2001/3962), art. 9, Sch. 2 para. 13
 
-[^key-c6ddff2eea8b5d5f8179b738f3e0ffe8]: Textual amendment: Words in s. 2(4) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/9); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-c6ddff2eea8b5d5f8179b738f3e0ffe8]: Textual amendment: Words in s. 2(4) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/9); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)

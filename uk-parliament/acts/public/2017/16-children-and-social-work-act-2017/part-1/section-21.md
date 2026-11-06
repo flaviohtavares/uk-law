@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Combining safeguarding partner areas and delegating functions[^key-9d9ecd50c4f1104e36a7548b220e62d3]
+## 21. Combining safeguarding partner areas and delegating functions[^c-9d9ecd50c4f1104e36a7548b220e62d3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ After section 16I of the Children Act 2004 (inserted by section 20 of this Act) 
 
 ## Annotations
 
-[^key-9d9ecd50c4f1104e36a7548b220e62d3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/16/section/21) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/j)
+[^c-9d9ecd50c4f1104e36a7548b220e62d3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/16/section/21) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/j)

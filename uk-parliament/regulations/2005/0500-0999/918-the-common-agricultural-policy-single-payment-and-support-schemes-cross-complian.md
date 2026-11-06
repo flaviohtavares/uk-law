@@ -50,11 +50,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the Common Agricultural Policy of the European Community, in exercise of the powers conferred upon her by that section hereby makes the following Regulations:
 
-## 1. Title, commencement and application[^key-51ff790388b0ff2dec2c531e08275d31]
+## 1. Title, commencement and application[^c-51ff790388b0ff2dec2c531e08275d31]
 
 These Regulations may be cited as the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (England) (Amendment) Regulations 2005, shall come into force on 30th April 2005 and shall apply to England only.
 
-## 2. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (England) Regulations 2004[^key-94730f4695b52c1b7ab0166d4a0d2f76]
+## 2. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (England) Regulations 2004[^c-94730f4695b52c1b7ab0166d4a0d2f76]
 
 The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (England) Regulations 2004[^f00003] shall be amended as follows—
 
@@ -96,9 +96,9 @@ A full regulatory impact assessment has not been prepared for this instrument as
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-51ff790388b0ff2dec2c531e08275d31]: Commencement: Reg. 1 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/918/regulation/1)
+[^c-51ff790388b0ff2dec2c531e08275d31]: Commencement: Reg. 1 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/918/regulation/1)
 
-[^key-94730f4695b52c1b7ab0166d4a0d2f76]: Commencement: Reg. 2 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/918/regulation/1)
+[^c-94730f4695b52c1b7ab0166d4a0d2f76]: Commencement: Reg. 2 in force at 30.4.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/918/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2004/3196](https://www.legislation.gov.uk/uksi/2004/3196).
 

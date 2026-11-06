@@ -46,11 +46,11 @@ In accordance with paragraph 18(2) of schedule 2B of the Further and Higher Educ
 
 In accordance with section 60(2B) of the Further and Higher Education (Scotland) Act 1992[^f00003] and section 34(4)(ca) of the Further and Higher Education (Scotland) Act 2005[^f00004], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-0a75d7560773e78c7e77537388afe379]
+## 1. Citation and commencement[^c-0a75d7560773e78c7e77537388afe379]
 
 This Order may be cited as the Colleges of Further Education and Regional Strategic Bodies (Membership of Boards) (Scotland) Order 2023 and comes into force on 31 January 2024.
 
-## 2. Amendment of the Further and Higher Education (Scotland) Act 1992[^key-14190f92b793e82a8967f59e3fdce775]
+## 2. Amendment of the Further and Higher Education (Scotland) Act 1992[^c-14190f92b793e82a8967f59e3fdce775]
 
 (1) Schedule 2 of the Further and Higher Education (Scotland) Act 1992 (constitution and proceedings of boards of management)[^f00005] is amended as follows.
 
@@ -110,7 +110,7 @@ This Order may be cited as the Colleges of Further Education and Regional Strate
 
   .
 
-## 3. Amendment of the Further and Higher Education (Scotland) Act 2005[^key-1742a1a1fca33919cf3fd54ec1d02b40]
+## 3. Amendment of the Further and Higher Education (Scotland) Act 2005[^c-1742a1a1fca33919cf3fd54ec1d02b40]
 
 (1) Schedule 2B of the Further and Higher Education (Scotland) Act 2005 (regional boards)[^f00009] is amended as follows.
 
@@ -151,7 +151,7 @@ This Order may be cited as the Colleges of Further Education and Regional Strate
 
   .
 
-## 4. Amendment of the Lanarkshire Colleges Order 2014[^key-7f078172bc2216113024c8defcff40aa][^key-4cf7ca76538a85ee17bdcb5ea0f12052]
+## 4. Amendment of the Lanarkshire Colleges Order 2014[^c-7f078172bc2216113024c8defcff40aa][^c-4cf7ca76538a85ee17bdcb5ea0f12052]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,9 +187,9 @@ Article 4 makes provision under the 1992 Act to amend the 2014 Order which modif
 
 [^f00004]: Footnote: Section 34(4)(ca) was inserted by paragraph 8(22)(d) of the schedule of the 2013 Act.
 
-[^key-0a75d7560773e78c7e77537388afe379]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
+[^c-0a75d7560773e78c7e77537388afe379]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
 
-[^key-14190f92b793e82a8967f59e3fdce775]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2023/363/article/2) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
+[^c-14190f92b793e82a8967f59e3fdce775]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2023/363/article/2) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
 
 [^f00005]: Footnote: Schedule 2 was amended by paragraph 11(3) of the Public Finance and Accountability (Scotland) Act [2000 (asp 1)](https://www.legislation.gov.uk/asp/2000/1), section 6(1) and paragraph 2(7) of the schedule of the 2013 Act and [S.S.I. 2003/199](https://www.legislation.gov.uk/ssi/2003/199), [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21) and [S.S.I. 2015/153](https://www.legislation.gov.uk/ssi/2015/153).
 
@@ -199,10 +199,10 @@ Article 4 makes provision under the 1992 Act to amend the 2014 Order which modif
 
 [^f00008]: Footnote: Paragraph 5(2F) was inserted by paragraph 2(7)(b)(ii) of the schedule of the 2013 Act.
 
-[^key-1742a1a1fca33919cf3fd54ec1d02b40]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2023/363/article/3) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
+[^c-1742a1a1fca33919cf3fd54ec1d02b40]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2023/363/article/3) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
 
 [^f00009]: Footnote: Schedule 2B was inserted by section 11(2) of the 2013 Act and amended by paragraph 21 of schedule 8 of the Bankruptcy (Scotland) Act [2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21).
 
-[^key-7f078172bc2216113024c8defcff40aa]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2023/363/article/4) omitted (30.7.2025) by virtue of [The Regional Strategic Bodies and Regional Colleges (Glasgow and Lanarkshire) Order 2025 (S.S.I. 2025/177)](https://www.legislation.gov.uk/ssi/2025/177), [arts. 1](https://www.legislation.gov.uk/ssi/2025/177/article/1), [7](https://www.legislation.gov.uk/ssi/2025/177/article/7)
+[^c-7f078172bc2216113024c8defcff40aa]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2023/363/article/4) omitted (30.7.2025) by virtue of [The Regional Strategic Bodies and Regional Colleges (Glasgow and Lanarkshire) Order 2025 (S.S.I. 2025/177)](https://www.legislation.gov.uk/ssi/2025/177), [arts. 1](https://www.legislation.gov.uk/ssi/2025/177/article/1), [7](https://www.legislation.gov.uk/ssi/2025/177/article/7)
 
-[^key-4cf7ca76538a85ee17bdcb5ea0f12052]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2023/363/article/4) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)
+[^c-4cf7ca76538a85ee17bdcb5ea0f12052]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2023/363/article/4) in force at 31.1.2024, see [art. 1](https://www.legislation.gov.uk/ssi/2023/363/article/1)

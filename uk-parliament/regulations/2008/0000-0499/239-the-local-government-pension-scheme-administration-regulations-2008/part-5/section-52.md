@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Payments due in respect of deceased persons[^key-5b1d832258c3efe2c13e4eae550155b1]
+## 52. Payments due in respect of deceased persons[^c-5b1d832258c3efe2c13e4eae550155b1]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ without the production of probate or letters of administration of his estate.
 
 ## Annotations
 
-[^key-5b1d832258c3efe2c13e4eae550155b1]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-5b1d832258c3efe2c13e4eae550155b1]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00043]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).

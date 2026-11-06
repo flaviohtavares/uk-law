@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Exception to rule against double jeopardy in the Sexual Offences Court: new evidence[^key-5bf82ebf6d25a720979ddd47a55d136e]
+## 100. Exception to rule against double jeopardy in the Sexual Offences Court: new evidence[^c-5bf82ebf6d25a720979ddd47a55d136e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bf82ebf6d25a720979ddd47a55d136e]: Commencement: S. 100 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-5bf82ebf6d25a720979ddd47a55d136e]: Commencement: S. 100 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

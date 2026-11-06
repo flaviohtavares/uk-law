@@ -25,7 +25,7 @@ summary: ''
 (2) The Tribunal shall consist of—
 
 - (a) a person appointed by the Lord Chancellor to preside over the Tribunal (in this Part referred to as “**the President**”);
-- (aa)[^key-47b15ce49f889e4059100a54188e8b8f] such judges as are nominated from time to time by the Lord Chief Justice of England and Wales from the High Court of England and Wales;
+- (aa)[^c-47b15ce49f889e4059100a54188e8b8f] such judges as are nominated from time to time by the Lord Chief Justice of England and Wales from the High Court of England and Wales;
 - (ab) such judges as are nominated from time to time by the Lord President of the Court of Session from the judges of the Court of Session;
 - (ac) such judges as are nominated from time to time by the Lord Chief Justice of Northern Ireland from the High Court in Northern Ireland;
 - (b) members appointed by the Lord Chancellor to form a panel of chairmen; and
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47b15ce49f889e4059100a54188e8b8f]: Textual amendment: [S. 12(2)(aa)-(ac)](https://www.legislation.gov.uk/ukpga/2002/40/section/12/2/aa) inserted (27.5.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2015/15/section/82/1), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1333](https://www.legislation.gov.uk/uksi/2015/1333), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1333/article/2/b)
+[^c-47b15ce49f889e4059100a54188e8b8f]: Textual amendment: [S. 12(2)(aa)-(ac)](https://www.legislation.gov.uk/ukpga/2002/40/section/12/2/aa) inserted (27.5.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2015/15/section/82/1), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1333](https://www.legislation.gov.uk/uksi/2015/1333), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1333/article/2/b)

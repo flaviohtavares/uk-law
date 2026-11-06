@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Procedure on appeal to Court of Appeal under Part 2[^key-87f377984491f3766b42c058e1727835]
+## 47. Procedure on appeal to Court of Appeal under Part 2[^c-87f377984491f3766b42c058e1727835]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) In relation to appeals to the Court of Appeal under this Part, the Secretary of State may make an order containing provision corresponding to any provision in the Criminal Appeal Act 1968[^f00029], subject to any specified modifications.
 
-(4) Subject to any rules of court, the costs of and incidental to all proceedings on an appeal to the criminal division of the Court of Appeal under article 10, 23 , 24B[^key-24afe808de9a03a16b4db0b11bde67a8] or 44 are in the discretion of the court.
+(4) Subject to any rules of court, the costs of and incidental to all proceedings on an appeal to the criminal division of the Court of Appeal under article 10, 23 , 24B[^c-24afe808de9a03a16b4db0b11bde67a8] or 44 are in the discretion of the court.
 
 (5) The court shall have full power to determine by whom and to what extent the costs are to be paid.
 
@@ -49,10 +49,10 @@ the whole of any wasted costs or such part of them as may be determined in accor
 
 ## Annotations
 
-[^key-87f377984491f3766b42c058e1727835]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2005/3181/article/47) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-87f377984491f3766b42c058e1727835]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2005/3181/article/47) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00028]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
 [^f00029]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 
-[^key-24afe808de9a03a16b4db0b11bde67a8]: Textual amendment: Word in [art. 47(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/47/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [16](https://www.legislation.gov.uk/uksi/2015/1750/article/16)
+[^c-24afe808de9a03a16b4db0b11bde67a8]: Textual amendment: Word in [art. 47(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/47/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [16](https://www.legislation.gov.uk/uksi/2015/1750/article/16)

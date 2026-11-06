@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Mergers and divisions[^key-1f1ce9878bc610c92fff236d0bdd01e0]
+## 70. Mergers and divisions[^c-1f1ce9878bc610c92fff236d0bdd01e0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision with respect to mergers and divisions involving open-
 
 ## Annotations
 
-[^key-1f1ce9878bc610c92fff236d0bdd01e0]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2004/335/regulation/70) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1f1ce9878bc610c92fff236d0bdd01e0]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2004/335/regulation/70) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

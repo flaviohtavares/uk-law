@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Main connections into sewerage systems[^key-1c0c95ec995496302eb32d9016f21016]
+## 9. Main connections into sewerage systems[^c-1c0c95ec995496302eb32d9016f21016]
 
 *Extent: E+W*
 
-(1)[^key-798da15508ac96aa9959d798d43c2510][^key-31505ab39fc3fc7f1b8376cf7fc0c80b] For section 110A of the Water Industry Act 1991 (new connections with public sewers) there is substituted—
+(1)[^c-798da15508ac96aa9959d798d43c2510][^c-31505ab39fc3fc7f1b8376cf7fc0c80b] For section 110A of the Water Industry Act 1991 (new connections with public sewers) there is substituted—
 
 > **110A. Main connections**
 >
@@ -363,22 +363,22 @@ summary: ''
 >   - (i) a main connection into the sewerage system of a sewerage undertaker whose area is wholly or mainly in England for the benefit of a sewerage undertaker whose area is wholly or mainly in Wales, or
 >   - (ii) a main connection into the sewerage system of a sewerage undertaker whose area is wholly or mainly in Wales for the benefit of a sewerage undertaker whose area is wholly or mainly in England.
 
-(2)[^key-4fd99a0f7c3261040aa6c8db63312274][^key-31505ab39fc3fc7f1b8376cf7fc0c80b] In sections 110B to 110J of the Water Industry Act 1991 (as substituted by subsection (1))—
+(2)[^c-4fd99a0f7c3261040aa6c8db63312274][^c-31505ab39fc3fc7f1b8376cf7fc0c80b] In sections 110B to 110J of the Water Industry Act 1991 (as substituted by subsection (1))—
 
 - (a) a reference to a main connection agreement includes a reference to an old main connection agreement, and
 - (b) a reference to an established undertaker, in relation to a main connection agreement, is to be construed accordingly.
 
-(3)[^key-4fd99a0f7c3261040aa6c8db63312274][^key-31505ab39fc3fc7f1b8376cf7fc0c80b] For the purposes of subsection (2)—
+(3)[^c-4fd99a0f7c3261040aa6c8db63312274][^c-31505ab39fc3fc7f1b8376cf7fc0c80b] For the purposes of subsection (2)—
 
 - (a) “**old main connection agreement**” means an agreement made before the coming into force of subsection (1) that is an agreement with one or more sewerage undertakers for that undertaker or each of them to permit a main connection into its sewerage system, and includes an order under old section 110A which is deemed to be an agreement by virtue of old section 110A(5);
 - (b) references to old section 110A are references to section 110A, as that section had effect before being substituted under subsection (1).
 
 ## Annotations
 
-[^key-1c0c95ec995496302eb32d9016f21016]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/21/section/9) in force at 1.4.2019 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/b)
+[^c-1c0c95ec995496302eb32d9016f21016]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/21/section/9) in force at 1.4.2019 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/b)
 
-[^key-798da15508ac96aa9959d798d43c2510]: Commencement: S. 9(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/i)
+[^c-798da15508ac96aa9959d798d43c2510]: Commencement: S. 9(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/i)
 
-[^key-31505ab39fc3fc7f1b8376cf7fc0c80b]: Commencement: S. 9 in force at 1.4.2018 for specified purposes for E. by [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/397/article/2/b)
+[^c-31505ab39fc3fc7f1b8376cf7fc0c80b]: Commencement: S. 9 in force at 1.4.2018 for specified purposes for E. by [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/397/article/2/b)
 
-[^key-4fd99a0f7c3261040aa6c8db63312274]: Commencement: S. 9(2)(3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/ii)
+[^c-4fd99a0f7c3261040aa6c8db63312274]: Commencement: S. 9(2)(3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/c/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Power to make further modifications of insolvency legislation[^key-cf98a7a8dc4c3082e2d24af419795c0b]
+## 48. Power to make further modifications of insolvency legislation[^c-cf98a7a8dc4c3082e2d24af419795c0b]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf98a7a8dc4c3082e2d24af419795c0b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-cf98a7a8dc4c3082e2d24af419795c0b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

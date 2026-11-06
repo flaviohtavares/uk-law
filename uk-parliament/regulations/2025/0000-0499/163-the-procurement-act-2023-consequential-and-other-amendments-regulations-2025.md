@@ -46,7 +46,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ## Part 1 — Introductory
 
-### 1. Citation and commencement[^key-f5ec8ddcad34934993e8115259812b38][^key-f5ec8ddcad34934993e8115259812b38]
+### 1. Citation and commencement[^c-f5ec8ddcad34934993e8115259812b38][^c-f5ec8ddcad34934993e8115259812b38]
 
 (1) These Regulations may be cited as the Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025.
 
@@ -54,7 +54,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 (3) Part 1 and regulation 3 come into force on the 23rd February 2025.
 
-### 2. Extent and application[^key-1a7fc8e60afa6e53c19c8c977826719f][^key-1a7fc8e60afa6e53c19c8c977826719f]
+### 2. Extent and application[^c-1a7fc8e60afa6e53c19c8c977826719f][^c-1a7fc8e60afa6e53c19c8c977826719f]
 
 (1) The amendments made by these Regulations have the same extent as the provisions to which they relate.
 
@@ -71,7 +71,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ### Chapter 1 — Amendments to the Procurement Act 2023
 
-#### 3. Amendment of the Procurement Act 2023[^key-5ef330929623badc1819f14aa5730afb][^key-5ef330929623badc1819f14aa5730afb]
+#### 3. Amendment of the Procurement Act 2023[^c-5ef330929623badc1819f14aa5730afb][^c-5ef330929623badc1819f14aa5730afb]
 
 (1) The Procurement Act 2023 is amended as follows.
 
@@ -179,7 +179,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ### Chapter 2 — Amendments consequential to the coming into force of the Procurement Act 2023
 
-#### 4. Amendment of the Late Payment of Commercial Debts (Interest) Act 1998[^key-bf56dd35fb08b4d786e1b4abe7218aab]
+#### 4. Amendment of the Late Payment of Commercial Debts (Interest) Act 1998[^c-bf56dd35fb08b4d786e1b4abe7218aab]
 
 (1) The Late Payment of Commercial Debts (Interest) Act 1998[^f00006] is amended as follows.
 
@@ -191,7 +191,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-#### 5. Amendment of the Greater London Authority Act 1999[^key-7450e742c9f225b1756b7fe563e9851f]
+#### 5. Amendment of the Greater London Authority Act 1999[^c-7450e742c9f225b1756b7fe563e9851f]
 
 (1) The Greater London Authority Act 1999[^f00008] is amended as follows.
 
@@ -265,7 +265,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 6. Amendment of the Equality Act 2010[^key-c45421e8bced06f53e11764582469877]
+#### 6. Amendment of the Equality Act 2010[^c-c45421e8bced06f53e11764582469877]
 
 (1) The Equality Act 2010[^f00015] is amended as follows.
 
@@ -288,7 +288,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 7. Amendment of the Public Services (Social Value) Act 2012[^key-98a657e84b4bec448529b07d86fcd2a7]
+#### 7. Amendment of the Public Services (Social Value) Act 2012[^c-98a657e84b4bec448529b07d86fcd2a7]
 
 (1) The Public Services (Social Value) Act 2012[^f00017] is amended as follows.
 
@@ -351,7 +351,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ### Chapter 1 — Amendment of the Procurement Regulations 2024
 
-#### 8. Amendment of the Procurement Regulations 2024[^key-1ff7c13f66909d9ff2602acc3fc26948]
+#### 8. Amendment of the Procurement Regulations 2024[^c-1ff7c13f66909d9ff2602acc3fc26948]
 
 (1) The Procurement Regulations 2024[^f00019] are amended as follows.
 
@@ -720,7 +720,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ### Chapter 2 — Amendments consequential to the coming into force of the Procurement Act 2023
 
-#### 9. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^key-643a46f810c43584efabdfda946812d1]
+#### 9. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^c-643a46f810c43584efabdfda946812d1]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations 1996[^f00023] are amended as follows.
 
@@ -746,7 +746,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
   - (i) in sub-paragraph (3)(b), after “purposes of” insert “the Procurement Act 2023 (“**the Procurement Act**”),”;
   - (ii) in sub-paragraphs (4)(a), (4)(b) and (4)(c)(ii), before “the PC Regulations” insert “the Procurement Act,”.
 
-#### 10. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^key-d79b4d9b9a9a09b9282e53cbb6bf4b2d]
+#### 10. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^c-d79b4d9b9a9a09b9282e53cbb6bf4b2d]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00024] are amended as follows.
 
@@ -773,17 +773,17 @@ These Regulations are made with the consent of the Department of Finance for Nor
   - (ii) in sub-paragraph (4)(a), after “purposes of” insert “the Procurement Act or”;
   - (iii) in sub-paragraphs (4)(b) and (4)(c)(ii), after “accordance with” insert “the Procurement Act or, as the case may be,”.
 
-#### 11. Amendment of the Service Charges (Consultation Requirements) (England) Regulations 2003[^key-d8a564655dfe2429f403a9e4848d59d7]
+#### 11. Amendment of the Service Charges (Consultation Requirements) (England) Regulations 2003[^c-d8a564655dfe2429f403a9e4848d59d7]
 
 (1) The Service Charges (Consultation Requirements) (England) Regulations 2003[^f00025] are amended as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “public notice”, for the words from “, pursuant to” to the end substitute “pursuant to the Procurement Act 2023”.
 
-#### 12. Amendment of the Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) Regulations 2009[^key-274b3610d3ac857abf944dc928ef426d][^key-cf749717ccee2ef2192ad7393a8a6c79]
+#### 12. Amendment of the Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) Regulations 2009[^c-274b3610d3ac857abf944dc928ef426d][^c-cf749717ccee2ef2192ad7393a8a6c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Amendment of the Quality Contracts Schemes (Tendering Requirements) (England) Regulations 2009[^key-d26db03e8afafe74b9a83437a76de37d]
+#### 13. Amendment of the Quality Contracts Schemes (Tendering Requirements) (England) Regulations 2009[^c-d26db03e8afafe74b9a83437a76de37d]
 
 (1) The Quality Contracts Schemes (Tendering Requirements) (England) Regulations 2009[^f00027] are amended as follows.
 
@@ -792,7 +792,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 - (a) for the heading substitute “The Procurement Act 2023”;
 - (b) for the words from “Utilities Contracts” to the end substitute “Procurement Act 2023”.
 
-#### 14. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^key-af6202f74500c7bf9d9295b1cd49c91a]
+#### 14. Amendment of the Cleaner Road Transport Vehicles Regulations 2011[^c-af6202f74500c7bf9d9295b1cd49c91a]
 
 (1) The Cleaner Road Transport Vehicles Regulations 2011[^f00028] are amended as follows.
 
@@ -874,7 +874,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
     ;
   - (ii) in sub-paragraph (b), for “a declaration of ineffectiveness,” substitute “an order setting aside the contract or modification,”.
 
-#### 15. Amendment of the Elected Local Policing Bodies (Specified Information) Order 2011[^key-c950834842fa47f71cf88b9e43576924]
+#### 15. Amendment of the Elected Local Policing Bodies (Specified Information) Order 2011[^c-c950834842fa47f71cf88b9e43576924]
 
 (1) The Elected Local Policing Bodies (Specified Information) Order 2011[^f00029] is amended as follows.
 
@@ -889,13 +889,13 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 16. Amendment of the Schools Forums (England) Regulations 2012[^key-247a9b4ddee46f5e1b1ff4e19294b095]
+#### 16. Amendment of the Schools Forums (England) Regulations 2012[^c-247a9b4ddee46f5e1b1ff4e19294b095]
 
 (1) The Schools Forums (England) Regulations 2012[^f00030] are amended as follows.
 
 (2) In regulation 9 (consultation on contracts), for “regulation 5 of the Public Contracts Regulations 2015” substitute “section 3 of, and Schedule 1 to, the Procurement Act 2023”.
 
-#### 17. Amendment of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-3232692e100ae369416bb2258114b9dd]
+#### 17. Amendment of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^c-3232692e100ae369416bb2258114b9dd]
 
 (1) The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^f00031] are amended as follows.
 
@@ -1005,7 +1005,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
   | Schedule 9 |  |
 - (c) omit Part 2.
 
-#### 18. Amendment of the Energy Savings Opportunity Scheme Regulations 2014[^key-d39261097966d84da74270ded0e19240]
+#### 18. Amendment of the Energy Savings Opportunity Scheme Regulations 2014[^c-d39261097966d84da74270ded0e19240]
 
 (1) The Energy Savings Opportunity Scheme Regulations 2014[^f00032] are amended as follows.
 
@@ -1018,7 +1018,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-#### 19. Amendment of the Public Contracts (Scotland) Regulations 2015[^key-ebfc6c0b41a06faeeec33cf7ca5859b4]
+#### 19. Amendment of the Public Contracts (Scotland) Regulations 2015[^c-ebfc6c0b41a06faeeec33cf7ca5859b4]
 
 (1) The Public Contracts (Scotland) Regulations 2015[^f00033] are amended as follows.
 
@@ -1054,7 +1054,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 (7) In Schedule 6 (consequential and miscellaneous amendments), omit paragraph 6.
 
-#### 20. Amendment of the Concession Contracts (Scotland) Regulations 2016[^key-08158f8207038a1b0c7ea3b3b07d8943]
+#### 20. Amendment of the Concession Contracts (Scotland) Regulations 2016[^c-08158f8207038a1b0c7ea3b3b07d8943]
 
 (1) The Concession Contracts (Scotland) Regulations 2016[^f00034] are amended as follows.
 
@@ -1101,7 +1101,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 (9) In regulation 40 (exclusion grounds), in paragraph (9)(i), for “in the fields of defence and security as referred to in the Defence and Security Regulations” substitute “which is a defence and security contract”.
 
-#### 21. Amendment of the Utilities Contracts (Scotland) Regulations 2016[^key-2cb7df893c1a957662e25891f2135760]
+#### 21. Amendment of the Utilities Contracts (Scotland) Regulations 2016[^c-2cb7df893c1a957662e25891f2135760]
 
 (1) The Utilities Contracts (Scotland) Regulations 2016[^f00035] are amended as follows.
 
@@ -1151,13 +1151,13 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 (9) In Schedule 3, omit paragraph 2.
 
-#### 22. Amendment of the National Health Service Commissioning Board (Additional Functions) Regulations 2017[^key-cb617b123b39aed86c3cdf128004cc2b]
+#### 22. Amendment of the National Health Service Commissioning Board (Additional Functions) Regulations 2017[^c-cb617b123b39aed86c3cdf128004cc2b]
 
 (1) The National Health Service Commissioning Board (Additional Functions) Regulations 2017[^f00036] are amended as follows.
 
 (2) In regulation 4(3)(a) (power to conclude and manage framework agreements), for “economic operator (within the meaning of regulation 2 (definitions) of the Public Contracts Regulations 2015)” substitute “supplier”.
 
-#### 23. Amendment of the Branded Health Service Medicines (Costs) Regulations 2018[^key-b1964dbaf0e73782cee11f2d90944d5d]
+#### 23. Amendment of the Branded Health Service Medicines (Costs) Regulations 2018[^c-b1964dbaf0e73782cee11f2d90944d5d]
 
 (1) The Branded Health Service Medicines (Costs) Regulations 2018[^f00037] are amended as follows.
 
@@ -1191,7 +1191,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 24. Amendment of the Health Service Products (Provision and Disclosure of Information) Regulations 2018[^key-441b9204384fdb7289935310115922e1]
+#### 24. Amendment of the Health Service Products (Provision and Disclosure of Information) Regulations 2018[^c-441b9204384fdb7289935310115922e1]
 
 (1) The Health Service Products (Provision and Disclosure of Information) Regulations 2018[^f00038] are amended as follows.
 
@@ -1215,7 +1215,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 25. Amendment of the National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021[^key-9306f1f6afed0e7ae0e02b8cc02455e1]
+#### 25. Amendment of the National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021[^c-9306f1f6afed0e7ae0e02b8cc02455e1]
 
 (1) The National Security and Investment Act 2021 (Notifiable Acquisition) (Specification of Qualifying Entities) Regulations 2021[^f00039] are amended as follows.
 
@@ -1227,7 +1227,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-#### 26. Amendment of the Competition Act 1998 (Vertical Agreements Block Exemption) Order 2022[^key-5b743bc7b4427622f2b45f68657993a7]
+#### 26. Amendment of the Competition Act 1998 (Vertical Agreements Block Exemption) Order 2022[^c-5b743bc7b4427622f2b45f68657993a7]
 
 (1) The Competition Act 1998 (Vertical Agreements Block Exemption) Order 2022[^f00040] is amended as follows.
 
@@ -1250,7 +1250,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
   .
 
-#### 27. Amendment of the Competition Act 1998 (Research and Development Agreements Block Exemption) Order 2022[^key-2ce47b372e8aa6a0569fda0bd4fb389a]
+#### 27. Amendment of the Competition Act 1998 (Research and Development Agreements Block Exemption) Order 2022[^c-2ce47b372e8aa6a0569fda0bd4fb389a]
 
 (1) The Competition Act 1998 (Research and Development Agreements Block Exemption) Order 2022[^f00041] is amended as follows.
 
@@ -1260,7 +1260,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-#### 28. Amendment of the Health Care Services (Provider Selection Regime) Regulations 2023[^key-d4279c87427b263c823d06b4b0675149]
+#### 28. Amendment of the Health Care Services (Provider Selection Regime) Regulations 2023[^c-d4279c87427b263c823d06b4b0675149]
 
 (1) The Health Care Services (Provider Selection Regime) Regulations 2023[^f00042] are amended as follows.
 
@@ -1398,7 +1398,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ## Part 4 — Amendment of assimilated law
 
-### 29. Amendment of Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council[^key-9795cf97af4b3e3b965482bfcb4b0e53]
+### 29. Amendment of Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370) of the European Parliament and of the Council[^c-9795cf97af4b3e3b965482bfcb4b0e53]
 
 (1) Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370)[^f00045] of the European Parliament and of the Council of 23 October 2007 on public passenger transport services by rail and by road and repealing Council Regulations (EEC) Nos 1191/69 and 1107/70 is amended as follows.
 
@@ -1440,7 +1440,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-### 30. Amendment of [Regulation (EU) No910/2014](https://www.legislation.gov.uk/european/regulation/2014/0910) of the European Parliament and of the Council[^key-2c84610e6464842ddee09112b7a1f29c]
+### 30. Amendment of [Regulation (EU) No910/2014](https://www.legislation.gov.uk/european/regulation/2014/0910) of the European Parliament and of the Council[^c-2c84610e6464842ddee09112b7a1f29c]
 
 (1) [Regulation (EU) No910/2014](https://www.legislation.gov.uk/european/regulation/2014/0910)[^f00046] of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) is amended as follows.
 
@@ -1455,7 +1455,7 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 .
 
-### 31. Amendment of [Regulation (EU) No1144/2014](https://www.legislation.gov.uk/european/regulation/2014/1144) of the European Parliament and of the Council[^key-19e781bd152108da13f6a35a6a0eb7c0]
+### 31. Amendment of [Regulation (EU) No1144/2014](https://www.legislation.gov.uk/european/regulation/2014/1144) of the European Parliament and of the Council[^c-19e781bd152108da13f6a35a6a0eb7c0]
 
 (1) [Regulation (EU) No1144/2014](https://www.legislation.gov.uk/european/regulation/2014/1144)[^f00047] of the European Parliament and of the Council of 22 October 2014 on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries and repealing Council Regulation [(EC) No 3/2008](https://www.legislation.gov.uk/european/regulation/2008/0003) is amended as follows.
 
@@ -1463,13 +1463,13 @@ These Regulations are made with the consent of the Department of Finance for Nor
 
 ## Part 5 — Repeals and revocations
 
-### 32. Repeals etc.[^key-3891d8c8f7fed9a3ae60e4c0d7f5e181]
+### 32. Repeals etc.[^c-3891d8c8f7fed9a3ae60e4c0d7f5e181]
 
 The enactments listed in the Schedule are repealed and revoked to the extent specified.
 
 ## Part 6 — Transitional Provisions
 
-### 33. Transitional provision in respect of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-043b8d4f63bf374ff3e5155f70ac729f]
+### 33. Transitional provision in respect of the Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^c-043b8d4f63bf374ff3e5155f70ac729f]
 
 *Extent: E+W*
 
@@ -1497,7 +1497,7 @@ The enactments listed in the Schedule are repealed and revoked to the extent spe
 - (a) “**an incumbent undertaker**” has the same meaning as in the 2013 Regulations, and
 - (b) any other terms have the same meaning as in the 2016 Regulations as they had effect immediately before 24th February 2025.
 
-### 34. Transitional provision in respect of the Health Care Services (Provider Selection Regime) Regulations 2023[^key-147d4d2f93c00744f6f240da30a9c66e]
+### 34. Transitional provision in respect of the Health Care Services (Provider Selection Regime) Regulations 2023[^c-147d4d2f93c00744f6f240da30a9c66e]
 
 *Extent: E+W*
 
@@ -1546,7 +1546,7 @@ Cabinet Office
 
 Regulation 32
 
-### Part 1 — REPEALS[^key-f4b7e860da1247244c1df08ce1992d80]
+### Part 1 — REPEALS[^c-f4b7e860da1247244c1df08ce1992d80]
 
 The enactments listed in column (1) are repealed to the extent listed in column (2).
 
@@ -1554,7 +1554,7 @@ The enactments listed in column (1) are repealed to the extent listed in column 
 | --- | --- |
 | Advanced Research and Invention Agency Act 2022[^f00049] | 1. In Schedule 3, paragraph 17(1). |
 
-### Part 2 — REVOCATIONS[^key-5588c641bde196146fb9e2ef8584d3ab]
+### Part 2 — REVOCATIONS[^c-5588c641bde196146fb9e2ef8584d3ab]
 
 The enactments listed in column (1) are revoked to the extent listed in column (2).
 
@@ -1613,9 +1613,9 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00001]: Footnote: [2023 c. 54](https://www.legislation.gov.uk/ukpga/2023/54). See section 123(1) of the Procurement Act 2023 for the definitions of “appropriate authority” and “Minister of the Crown”.
 
-[^key-f5ec8ddcad34934993e8115259812b38]: Commencement: Reg. 1 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
+[^c-f5ec8ddcad34934993e8115259812b38]: Commencement: Reg. 1 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
 
-[^key-1a7fc8e60afa6e53c19c8c977826719f]: Commencement: Reg. 2 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
+[^c-1a7fc8e60afa6e53c19c8c977826719f]: Commencement: Reg. 2 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
 
 [^f00002]: Footnote: See section 111 of the Procurement Act 2023 for the definition of “devolved Welsh authority”.
 
@@ -1625,15 +1625,15 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00005]: Footnote: See section 114 of the Procurement Act 2023 for the definition of “devolved Welsh procurement arrangement”.
 
-[^key-5ef330929623badc1819f14aa5730afb]: Commencement: Reg. 3 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
+[^c-5ef330929623badc1819f14aa5730afb]: Commencement: Reg. 3 in force at 23.2.2025, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/3)
 
-[^key-bf56dd35fb08b4d786e1b4abe7218aab]: Commencement: Reg. 4 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-bf56dd35fb08b4d786e1b4abe7218aab]: Commencement: Reg. 4 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00006]: Footnote: [1998 c. 20](https://www.legislation.gov.uk/ukpga/1998/20).
 
 [^f00007]: Footnote: Section 4(8) was amended by [S.I. 2013/395](https://www.legislation.gov.uk/uksi/2013/395), [2015/102](https://www.legislation.gov.uk/uksi/2015/102), [S.S.I. 2013/77](https://www.legislation.gov.uk/ssi/2013/77) and [2015/446](https://www.legislation.gov.uk/ssi/2015/446).
 
-[^key-7450e742c9f225b1756b7fe563e9851f]: Commencement: Reg. 5 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-7450e742c9f225b1756b7fe563e9851f]: Commencement: Reg. 5 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00008]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -1649,19 +1649,19 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00014]: Footnote: Section 360(2) was amended by the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), section 39(7), [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [2016/275](https://www.legislation.gov.uk/uksi/2016/275) and [2020/1319](https://www.legislation.gov.uk/uksi/2020/1319); there are other amending instruments but none is relevant.
 
-[^key-c45421e8bced06f53e11764582469877]: Commencement: Reg. 6 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-c45421e8bced06f53e11764582469877]: Commencement: Reg. 6 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00015]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
 [^f00016]: Footnote: Section 155(2) and (3) was amended by [S.I. 2020/1319](https://www.legislation.gov.uk/uksi/2020/1319).
 
-[^key-98a657e84b4bec448529b07d86fcd2a7]: Commencement: Reg. 7 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-98a657e84b4bec448529b07d86fcd2a7]: Commencement: Reg. 7 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00017]: Footnote: [2012 c. 3](https://www.legislation.gov.uk/ukpga/2012/3).
 
 [^f00018]: Footnote: Section 1(2) was amended by [S.I. 2020/1319](https://www.legislation.gov.uk/uksi/2020/1319); section 1(15) was amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); the definitions of “central government authority” and “sub-central contracting authority” were inserted by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275); the definition of “UK e-notification service” was inserted by [S.I. 2020/1319](https://www.legislation.gov.uk/uksi/2020/1319) and section 1(16) was substituted by [S.I. 2016/275](https://www.legislation.gov.uk/uksi/2016/275).
 
-[^key-1ff7c13f66909d9ff2602acc3fc26948]: Commencement: Reg. 8 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-1ff7c13f66909d9ff2602acc3fc26948]: Commencement: Reg. 8 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2024/692](https://www.legislation.gov.uk/uksi/2024/692).
 
@@ -1671,83 +1671,83 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00022]: Footnote: See section 35(4) of the PA 2023 for the definition of “utility”.
 
-[^key-643a46f810c43584efabdfda946812d1]: Commencement: Reg. 9 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-643a46f810c43584efabdfda946812d1]: Commencement: Reg. 9 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), the Schedule was inserted by [S.I. 2022/825](https://www.legislation.gov.uk/uksi/2022/825); there are other amending instruments but none is relevant.
 
-[^key-d79b4d9b9a9a09b9282e53cbb6bf4b2d]: Commencement: Reg. 10 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-d79b4d9b9a9a09b9282e53cbb6bf4b2d]: Commencement: Reg. 10 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00024]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94), the Schedule was inserted by [S.R. 2024 No. 74](https://www.legislation.gov.uk/nisr/2024/74).
 
-[^key-d8a564655dfe2429f403a9e4848d59d7]: Commencement: Reg. 11 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-d8a564655dfe2429f403a9e4848d59d7]: Commencement: Reg. 11 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2003/1987](https://www.legislation.gov.uk/uksi/2003/1987), as amended by [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5) and [2020/1319](https://www.legislation.gov.uk/uksi/2020/1319); there are other amending instruments but none is relevant.
 
-[^key-274b3610d3ac857abf944dc928ef426d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/163/regulation/12) omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/3)
+[^c-274b3610d3ac857abf944dc928ef426d]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/163/regulation/12) omitted (2.4.2026) by virtue of [The Heavy Goods Vehicles (Charging for the Use of Certain Infrastructure on the Trans-European Road Network) (Revocation and Consequential Amendments) Regulations 2026 (S.I. 2026/270)](https://www.legislation.gov.uk/uksi/2026/270), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/270/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/270/regulation/3/3)
 
-[^key-cf749717ccee2ef2192ad7393a8a6c79]: Commencement: Reg. 12 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-cf749717ccee2ef2192ad7393a8a6c79]: Commencement: Reg. 12 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
-[^key-d26db03e8afafe74b9a83437a76de37d]: Commencement: Reg. 13 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-d26db03e8afafe74b9a83437a76de37d]: Commencement: Reg. 13 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2009/3244](https://www.legislation.gov.uk/uksi/2009/3244), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) and [2016/275](https://www.legislation.gov.uk/uksi/2016/275).
 
-[^key-af6202f74500c7bf9d9295b1cd49c91a]: Commencement: Reg. 14 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-af6202f74500c7bf9d9295b1cd49c91a]: Commencement: Reg. 14 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2011/1631](https://www.legislation.gov.uk/uksi/2011/1631), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [2016/275](https://www.legislation.gov.uk/uksi/2016/275) and [2020/964](https://www.legislation.gov.uk/uksi/2020/964).
 
-[^key-c950834842fa47f71cf88b9e43576924]: Commencement: Reg. 15 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-c950834842fa47f71cf88b9e43576924]: Commencement: Reg. 15 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2011/3050](https://www.legislation.gov.uk/uksi/2011/3050), as amended by [S.I. 2021/547](https://www.legislation.gov.uk/uksi/2021/547); there are other amending instruments but none is relevant.
 
-[^key-247a9b4ddee46f5e1b1ff4e19294b095]: Commencement: Reg. 16 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-247a9b4ddee46f5e1b1ff4e19294b095]: Commencement: Reg. 16 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2012/2261](https://www.legislation.gov.uk/uksi/2012/2261), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102); there are other amending instruments but none is relevant.
 
-[^key-3232692e100ae369416bb2258114b9dd]: Commencement: Reg. 17 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-3232692e100ae369416bb2258114b9dd]: Commencement: Reg. 17 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [2016/275](https://www.legislation.gov.uk/uksi/2016/275) and [2020/1319](https://www.legislation.gov.uk/uksi/2020/1319); there are other amending instruments but none is relevant.
 
-[^key-d39261097966d84da74270ded0e19240]: Commencement: Reg. 18 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-d39261097966d84da74270ded0e19240]: Commencement: Reg. 18 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2014/1643](https://www.legislation.gov.uk/uksi/2014/1643), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102) and [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446); there are other amending instruments but none is relevant.
 
-[^key-ebfc6c0b41a06faeeec33cf7ca5859b4]: Commencement: Reg. 19 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-ebfc6c0b41a06faeeec33cf7ca5859b4]: Commencement: Reg. 19 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00033]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), as amended by [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468); there are other amending instruments but none is relevant.
 
-[^key-08158f8207038a1b0c7ea3b3b07d8943]: Commencement: Reg. 20 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-08158f8207038a1b0c7ea3b3b07d8943]: Commencement: Reg. 20 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00034]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65), as amended by [S.S.I. 2016/125](https://www.legislation.gov.uk/ssi/2016/125) and [2020/468](https://www.legislation.gov.uk/ssi/2020/468); there are other amending instruments but none is relevant.
 
-[^key-2cb7df893c1a957662e25891f2135760]: Commencement: Reg. 21 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-2cb7df893c1a957662e25891f2135760]: Commencement: Reg. 21 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00035]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49), as amended by [S.S.I. 2019/173](https://www.legislation.gov.uk/ssi/2019/173) and [2020/468](https://www.legislation.gov.uk/ssi/2020/468); there are other amending instruments but none is relevant.
 
-[^key-cb617b123b39aed86c3cdf128004cc2b]: Commencement: Reg. 22 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-cb617b123b39aed86c3cdf128004cc2b]: Commencement: Reg. 22 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00036]: Footnote: [S.I. 2017/212](https://www.legislation.gov.uk/uksi/2017/212), as amended by [S.I. 2023/1071](https://www.legislation.gov.uk/uksi/2023/1071).
 
-[^key-b1964dbaf0e73782cee11f2d90944d5d]: Commencement: Reg. 23 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-b1964dbaf0e73782cee11f2d90944d5d]: Commencement: Reg. 23 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00037]: Footnote: [S.I. 2018/345](https://www.legislation.gov.uk/uksi/2018/345).
 
-[^key-441b9204384fdb7289935310115922e1]: Commencement: Reg. 24 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-441b9204384fdb7289935310115922e1]: Commencement: Reg. 24 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00038]: Footnote: [S.I. 2018/677](https://www.legislation.gov.uk/uksi/2018/677), to which there are amendments none of which is relevant.
 
-[^key-9306f1f6afed0e7ae0e02b8cc02455e1]: Commencement: Reg. 25 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-9306f1f6afed0e7ae0e02b8cc02455e1]: Commencement: Reg. 25 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00039]: Footnote: [S.I. 2021/1264](https://www.legislation.gov.uk/uksi/2021/1264), to which there are amendments none of which is relevant.
 
-[^key-5b743bc7b4427622f2b45f68657993a7]: Commencement: Reg. 26 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-5b743bc7b4427622f2b45f68657993a7]: Commencement: Reg. 26 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00040]: Footnote: [S.I. 2022/516](https://www.legislation.gov.uk/uksi/2022/516).
 
-[^key-2ce47b372e8aa6a0569fda0bd4fb389a]: Commencement: Reg. 27 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-2ce47b372e8aa6a0569fda0bd4fb389a]: Commencement: Reg. 27 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2022/1271](https://www.legislation.gov.uk/uksi/2022/1271), to which there are amendments none of which is relevant.
 
-[^key-d4279c87427b263c823d06b4b0675149]: Commencement: Reg. 28 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-d4279c87427b263c823d06b4b0675149]: Commencement: Reg. 28 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348).
 
@@ -1755,31 +1755,31 @@ An impact assessment in relation to the PA 2023 and associated reforms was publi
 
 [^f00044]: Footnote: In accordance with the Procurement Act 2023, an “**associated person**” means a person that the supplier is relying on in order to satisfy the conditions of participation (see section 22(8)), but not a person who is to act as guarantor as described in section 22(9). The Health Care Services (Provider Selection Regime) Regulations 2023 do not have the concept of an “associated person”. Providers do not have to satisfy “conditions of participation” and there is no provision for providers to rely on someone else to meet the basic selection criteria or any other requirements of the contract.
 
-[^key-9795cf97af4b3e3b965482bfcb4b0e53]: Commencement: Reg. 29 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-9795cf97af4b3e3b965482bfcb4b0e53]: Commencement: Reg. 29 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00045]: Footnote: EUR 1370/2007, as amended by [S.R. 2020 No. 252](https://www.legislation.gov.uk/nisr/2020/252), [S.I. 2020/504](https://www.legislation.gov.uk/uksi/2020/504), [S.R. 2021 No. 337](https://www.legislation.gov.uk/nisr/2021/337), there are other amending instruments but none is relevant. This is a reference to the assimilated version of Regulation [(EC) 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370), which was revoked in respect of England and Wales and Scotland by [S.I. 2023/1369](https://www.legislation.gov.uk/uksi/2023/1369).
 
-[^key-2c84610e6464842ddee09112b7a1f29c]: Commencement: Reg. 30 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-2c84610e6464842ddee09112b7a1f29c]: Commencement: Reg. 30 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00046]: Footnote: EUR 910/2014, as amended by [S.I. 2019/89](https://www.legislation.gov.uk/uksi/2019/89). This is a reference to the assimilated version of EUR 910/2014.
 
-[^key-19e781bd152108da13f6a35a6a0eb7c0]: Commencement: Reg. 31 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-19e781bd152108da13f6a35a6a0eb7c0]: Commencement: Reg. 31 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00047]: Footnote: EUR 1144/2014, as amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821), there are other amending instruments but none is relevant. This is a reference to the assimilated version of EUR 1144/2014. EUR 1144/2014 was revoked in respect of England and Wales by the Retained EU Law (Revocation and Reform) Act [2023 c. 28](https://www.legislation.gov.uk/ukpga/2023/28), the effect of which was disapplied in relation to Northern Ireland by [S.I. 2023/1143](https://www.legislation.gov.uk/uksi/2023/1143).
 
-[^key-3891d8c8f7fed9a3ae60e4c0d7f5e181]: Commencement: Reg. 32 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-3891d8c8f7fed9a3ae60e4c0d7f5e181]: Commencement: Reg. 32 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
-[^key-043b8d4f63bf374ff3e5155f70ac729f]: Commencement: Reg. 33 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-043b8d4f63bf374ff3e5155f70ac729f]: Commencement: Reg. 33 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
-[^key-147d4d2f93c00744f6f240da30a9c66e]: Commencement: Reg. 34 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-147d4d2f93c00744f6f240da30a9c66e]: Commencement: Reg. 34 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00048]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), section 12ZB was inserted by section 79 of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31) and amended by paragraph 164 of Schedule 4 to the Levelling-Up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).
 
-[^key-f4b7e860da1247244c1df08ce1992d80]: Commencement: Sch. Pt. 1 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-f4b7e860da1247244c1df08ce1992d80]: Commencement: Sch. Pt. 1 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00049]: Footnote: [2022 c. 4](https://www.legislation.gov.uk/ukpga/2022/4), to which there are amendments, none of which is relevant.
 
-[^key-5588c641bde196146fb9e2ef8584d3ab]: Commencement: Sch. Pt. 2 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
+[^c-5588c641bde196146fb9e2ef8584d3ab]: Commencement: Sch. Pt. 2 in force at 24.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023), as amended by [S.I. 1986/2268](https://www.legislation.gov.uk/uksi/1986/2268), [2006/2143](https://www.legislation.gov.uk/uksi/2006/2143), [2013/1198](https://www.legislation.gov.uk/uksi/2013/1198), [2015/102](https://www.legislation.gov.uk/uksi/2015/102) and [2016/275](https://www.legislation.gov.uk/uksi/2016/275); there are other amending instruments but none is relevant.
 

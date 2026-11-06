@@ -60,7 +60,7 @@ These Regulations may be cited as the Employment and Support Allowance (Work-Rel
 - “**the Act**” means the Welfare Reform Act 2007;
 - “**the ESA Regulations**” means the Employment and Support Allowance Regulations 2008 [^c2088156];
 - “**action plan**” means an action plan issued in accordance with regulation 5;
-- “carer's allowance” , “carer support payment”[^key-29f71d080cb58b906f0449d6d653d411], “child”, [^key-07e86791f8d70940441cf144b96e1b70]... “medical treatment” and “working day” have the meaning given in regulation 2(1) of the ESA Regulations.
+- “carer's allowance” , “carer support payment”[^c-29f71d080cb58b906f0449d6d653d411], “child”, [^c-07e86791f8d70940441cf144b96e1b70]... “medical treatment” and “working day” have the meaning given in regulation 2(1) of the ESA Regulations.
 
 (2) For the purpose of these Regulations where a written notice is given by sending it by post it is taken to have been received on the second working day after posting.
 
@@ -73,9 +73,9 @@ These Regulations may be cited as the Employment and Support Allowance (Work-Rel
 (2) The requirements referred to in paragraph (1) are that the person—
 
 - (a) is required to take part in, or has taken part in, one or more work-focused interviews pursuant to regulation 54 of the ESA Regulations;
-- (b) is not a lone parent who is responsible for and a member of the same household as a child under the age of 3[^key-1e3ed345be83ecd325f1851d7af61125];
-- (c) is not entitled to a carer's allowance; [^key-08598dc469e28e935b9299e55d88f063]...
-- (ca)[^key-29c06d118f4a73aa95eeb6174b062c23] is not entitled to carer support payment; and
+- (b) is not a lone parent who is responsible for and a member of the same household as a child under the age of 3[^c-1e3ed345be83ecd325f1851d7af61125];
+- (c) is not entitled to a carer's allowance; [^c-08598dc469e28e935b9299e55d88f063]...
+- (ca)[^c-29c06d118f4a73aa95eeb6174b062c23] is not entitled to carer support payment; and
 - (d) is not entitled to a carer premium under paragraph 8 of Schedule 4 to the ESA Regulations.
 
 (3) A requirement to undertake work-related activity ceases to have effect if the person becomes a member of the support group [^c2088158].
@@ -125,7 +125,7 @@ The Secretary of State may determine that a requirement as to the time at or by 
 
 (2) The Secretary of State must determine whether a person who is required to undertake work-related activity has failed to do so and, if so, whether the person has shown good cause for the failure.
 
-(3)[^key-51fdcfce7a129f31cefc9d60b7b8fa80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51fdcfce7a129f31cefc9d60b7b8fa80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Contracting Out
 
@@ -140,8 +140,8 @@ The Secretary of State may determine that a requirement as to the time at or by 
   - (ii) regulation 5 (notification of work-related activity and action plans);
   - (iii) regulation 6 (requirement to undertake work-related activity not to apply);
   - (iv) regulation 7 (reconsideration of action plans);
-- (b) any function under regulation 64(1)(c) and (1A)(b)[^key-8581791c39827058550ab6b3ee11edf6] of the ESA Regulations (decisions in relation to cessation of reduction).
-- (c)[^key-b99f57a58e6cff5a0dabe4751879de7f] any function relating to a compliance condition under regulation 63(11) (compliance condition: notifications and agreements).
+- (b) any function under regulation 64(1)(c) and (1A)(b)[^c-8581791c39827058550ab6b3ee11edf6] of the ESA Regulations (decisions in relation to cessation of reduction).
+- (c)[^c-b99f57a58e6cff5a0dabe4751879de7f] any function relating to a compliance condition under regulation 63(11) (compliance condition: notifications and agreements).
 
 ## PART 4 — Amendments to the ESA Regulations
 
@@ -331,25 +331,25 @@ A full impact assessment has been produced for this instrument. Copies are avail
 
 [^c2088156]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-29f71d080cb58b906f0449d6d653d411]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/2/1) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/2)
+[^c-29f71d080cb58b906f0449d6d653d411]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/2/1) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/2)
 
-[^key-07e86791f8d70940441cf144b96e1b70]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/2/1) omitted (31.10.2011) by virtue of [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/7/2)
+[^c-07e86791f8d70940441cf144b96e1b70]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/2/1) omitted (31.10.2011) by virtue of [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/7/2)
 
 [^c2088157]: Marginal citation: For the meaning of “work-related activity” see sections 13(7) and 24(1) of the Act.
 
-[^key-1e3ed345be83ecd325f1851d7af61125]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/b) substituted (28.4.2014) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations 2014 (S.I. 2014/1097)](https://www.legislation.gov.uk/uksi/2014/1097), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1097/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1097/regulation/15)
+[^c-1e3ed345be83ecd325f1851d7af61125]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/b) substituted (28.4.2014) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations 2014 (S.I. 2014/1097)](https://www.legislation.gov.uk/uksi/2014/1097), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1097/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1097/regulation/15)
 
-[^key-08598dc469e28e935b9299e55d88f063]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/c) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/3/a)
+[^c-08598dc469e28e935b9299e55d88f063]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/c) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/3/a)
 
-[^key-29c06d118f4a73aa95eeb6174b062c23]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/3/b)
+[^c-29c06d118f4a73aa95eeb6174b062c23]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/3/2/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/21/3/b)
 
 [^c2088158]: Marginal citation: For the meaning of “member of the support group” see section 24(4) of the Act.
 
-[^key-51fdcfce7a129f31cefc9d60b7b8fa80]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/8/3) omitted (3.12.2012) by virtue of [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
+[^c-51fdcfce7a129f31cefc9d60b7b8fa80]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/8/3) omitted (3.12.2012) by virtue of [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
 
-[^key-8581791c39827058550ab6b3ee11edf6]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/9/2/b) substituted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
+[^c-8581791c39827058550ab6b3ee11edf6]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/9/2/b) substituted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
 
-[^key-b99f57a58e6cff5a0dabe4751879de7f]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/9/2/c) inserted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
+[^c-b99f57a58e6cff5a0dabe4751879de7f]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/9/2/c) inserted (3.12.2012) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2756)](https://www.legislation.gov.uk/uksi/2012/2756), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2756/regulation/1/2))
 
 [^c2088159]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 

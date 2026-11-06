@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Amendment of regulation E1[^key-4be62a26fa5cf9984f084c5a9956e551]
+## 9. Amendment of regulation E1[^c-4be62a26fa5cf9984f084c5a9956e551]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4be62a26fa5cf9984f084c5a9956e551]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-4be62a26fa5cf9984f084c5a9956e551]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00011]: Footnote: Paragraph (3) was amended by [S.I. 2004/665](https://www.legislation.gov.uk/uksi/2004/665) and [S.I.2006/2919](https://www.legislation.gov.uk/uksi/2006/2919).

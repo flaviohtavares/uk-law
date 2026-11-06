@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Higher-risk building work: public bodies[^key-ba35912f8b940f5c664690ab3ea9d47c][^key-a70d67502901a738321ad203a39129ee][^key-1238e8877237d42c3f0b94e425bedf70]
+## 47. Higher-risk building work: public bodies[^c-ba35912f8b940f5c664690ab3ea9d47c][^c-a70d67502901a738321ad203a39129ee][^c-1238e8877237d42c3f0b94e425bedf70]
 
 *Extent: E+W*
 
@@ -34,8 +34,8 @@ After section 54 of the Building Act 1984 insert—
 
 ## Annotations
 
-[^key-ba35912f8b940f5c664690ab3ea9d47c]: Commencement: S. 47 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
+[^c-ba35912f8b940f5c664690ab3ea9d47c]: Commencement: S. 47 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
 
-[^key-a70d67502901a738321ad203a39129ee]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47) in force at 1.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/e)
+[^c-a70d67502901a738321ad203a39129ee]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47) in force at 1.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/e)
 
-[^key-1238e8877237d42c3f0b94e425bedf70]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xi)
+[^c-1238e8877237d42c3f0b94e425bedf70]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xi)

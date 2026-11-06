@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**308.**[^key-207e6201ed7fc620fdb4057981770278] After section 125 (death of children being looked after by local authorities) insert—
+**308.**[^c-207e6201ed7fc620fdb4057981770278] After section 125 (death of children being looked after by local authorities) insert—
 
 > **Jurisdiction and procedure**
 >
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-207e6201ed7fc620fdb4057981770278]: Commencement: Reg. 308 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-207e6201ed7fc620fdb4057981770278]: Commencement: Reg. 308 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

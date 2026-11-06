@@ -56,7 +56,7 @@ In these Regulations:
 - (a) a reference to a section by number alone means the section so numbered in the Matrimonial Causes Act 1973;
 - (b) “the 1984 Act" means the Matrimonial and Family Proceedings Act 1984;
 - (c) expressions defined in sections 21A [^c1601667] and 25D(3) have the meanings assigned by those sections;
-- (d) every reference to a rule by number alone means the rule so numbered in the Family Proceedings Rules 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^key-303817a1b0c30bccd0b1bdafdae0c488]Family Procedure Rules 2010 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-303817a1b0c30bccd0b1bdafdae0c488].
+- (d) every reference to a rule by number alone means the rule so numbered in the Family Proceedings Rules 1991 *(Extent: E+W)* *(affected by repeal, see note)*[^c-303817a1b0c30bccd0b1bdafdae0c488]Family Procedure Rules 2010 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-303817a1b0c30bccd0b1bdafdae0c488].
 
 ## 3. Valuation
 
@@ -70,8 +70,8 @@ In these Regulations:
 
 - (a) the Pensions on Divorce etc. (Provision of Information) Regulations 2000;
 - (b) regulation 5 of and Schedule 2 to the Occupational Pension Schemes (Disclosure of Information) Regulations 1996 [^c1601670] and regulation 11 of and Schedule 1 to the Occupational Pension Schemes (Transfer Value) Regulations 1996 [^c1601671];
-- (c) sections 93A and 94(1)[^key-653e52848067994b41dd032de590c386] of the Pension Schemes Act 1993 [^c1601672];
-- (d) section 94(2)[^key-9517334c789a5a978c91cf088164d721] of the Pension Schemes Act 1993 or paragraph 2(a) (or, where applicable, 2(b)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1601673].
+- (c) sections 93A and 94(1)[^c-653e52848067994b41dd032de590c386] of the Pension Schemes Act 1993 [^c1601672];
+- (d) section 94(2)[^c-9517334c789a5a978c91cf088164d721] of the Pension Schemes Act 1993 or paragraph 2(a) (or, where applicable, 2(b)) of Schedule 2 to the Personal Pension Schemes (Disclosure of Information) Regulations 1987 [^c1601673].
 
 ## 4. Pension attachment: notices
 
@@ -86,7 +86,7 @@ In these Regulations:
 
 - (a) every order made under section 23 imposing any requirement on the person responsible for the first arrangement in relation to the rights transferred;
 - (b) any order varying such an order;
-- (c) all information or particulars which the other party has been required to supply under any provision of rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-505d8c5c4c70ea522eb75b11a61cd1fa]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-505d8c5c4c70ea522eb75b11a61cd1fa] for the purpose of enabling the person responsible for the first arrangement:—
+- (c) all information or particulars which the other party has been required to supply under any provision of rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^c-505d8c5c4c70ea522eb75b11a61cd1fa]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-505d8c5c4c70ea522eb75b11a61cd1fa] for the purpose of enabling the person responsible for the first arrangement:—
   - (i) to provide information, documents or representations to the court to enable it to decide what if any requirement should be imposed on that person; or
   - (ii) to comply with any order imposing such a requirement;
 - (d) any notice given by the other party to the person responsible for the first arrangement under regulation 6;
@@ -129,12 +129,12 @@ In these Regulations:
 
 (2) Those events are:
 
-- (a) any of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-3d314d82e2d354cf3bef1b75d5d1a8c4]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-3d314d82e2d354cf3bef1b75d5d1a8c4] for any purpose mentioned in regulation 4(3)(c) has ceased to be accurate; or
+- (a) any of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^c-3d314d82e2d354cf3bef1b75d5d1a8c4]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-3d314d82e2d354cf3bef1b75d5d1a8c4] for any purpose mentioned in regulation 4(3)(c) has ceased to be accurate; or
 - (b) by reason of the remarriage of the other party , or his having formed a subsequent civil partnership,[^M_F_0f5f655c-0572-4e84-e8d6-f4fbe2495134] or otherwise, the order has ceased to have effect.
 
 (3) Where this regulation applies, the other party shall, within 14 days of the event, give notice of it to the person responsible for the pension arrangement.
 
-(4) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dbd5e64f966237f60058b9866a1c96b]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0dbd5e64f966237f60058b9866a1c96b] or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the pension arrangement to make a payment to the other party as required by the order:
+(4) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^c-0dbd5e64f966237f60058b9866a1c96b]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0dbd5e64f966237f60058b9866a1c96b] or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the pension arrangement to make a payment to the other party as required by the order:
 
 - (a) it may instead make that payment to the party with pension rights, and
 - (b) it shall then be discharged of liability to the other party to the extent of that payment.
@@ -155,7 +155,7 @@ In these Regulations:
 
 (2) Where this regulation applies, the other party shall, within 14 days of the event, give notice of it to the person responsible for the new arrangement.
 
-(3) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^key-0bdcb1ecbf6a8b7c342e773cb959939a]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0bdcb1ecbf6a8b7c342e773cb959939a] for any purpose mentioned in regulation 4(3)(c) or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the new arrangement to make a payment to the other party as required by the order:
+(3) Where, because of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bdcb1ecbf6a8b7c342e773cb959939a]rule 9.33 or 9.34 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0bdcb1ecbf6a8b7c342e773cb959939a] for any purpose mentioned in regulation 4(3)(c) or because the other party has failed to give notice of their having ceased to be accurate, it is not reasonably practicable for the person responsible for the new arrangement to make a payment to the other party as required by the order:
 
 - (a) it may instead make that payment to the party with pension rights, and
 - (b) it shall then be discharged of liability to the other party to the extent of that payment.
@@ -185,7 +185,7 @@ the other party shall, within 14 days of the event, give notice of it to the Boa
 
 (3) Paragraph (4) applies where it is not reasonably practicable for the Board to make a payment to the other party as required by the order because—
 
-- (a) of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(affected by repeal, see note)*[^key-3903b8b542e58506b130af1c87e09e92]rule 9.33 or 9.34 *(affected by repeal, see note)*[^key-3903b8b542e58506b130af1c87e09e92] for any purpose mentioned in regulation 4(3)(c); or
+- (a) of the inaccuracy of the particulars supplied by the other party under rule 2.70 *(affected by repeal, see note)*[^c-3903b8b542e58506b130af1c87e09e92]rule 9.33 or 9.34 *(affected by repeal, see note)*[^c-3903b8b542e58506b130af1c87e09e92] for any purpose mentioned in regulation 4(3)(c); or
 - (b) the other party has failed to give notice that the particulars have ceased to be accurate.
 
 (4) Where this paragraph applies, the Board—
@@ -200,7 +200,7 @@ the other party shall, within 14 days of the event, give notice of it to the Boa
 
 (6) In this regulation “the Board” and “ PPF compensation” have the meanings given in section 25E(9).
 
-## 8. Service[^key-79177c46b33f77aaf027f730079bf4cc]
+## 8. Service[^c-79177c46b33f77aaf027f730079bf4cc]
 
 A notice under regulation 4, 5, 6 , 7 or 7A[^M_F_f10fc21c-48bd-4ef0-d9ef-b553de74380f] may be sent by fax or by ordinary first class post to the last known address of the intended recipient and shall be deemed to have been received on the seventh day after the day on which it was sent.
 
@@ -240,7 +240,7 @@ These Regulations make provision pursuant to orders, including those made after 
 
 [^c1601667]: Marginal citation: Section 21A was inserted by paragraph 2 of Schedule 3 to the Welfare Reform and Pensions Act 1999.
 
-[^key-303817a1b0c30bccd0b1bdafdae0c488]: Textual amendment: Words in reg. 2(d) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [27](https://www.legislation.gov.uk/uksi/2011/1045/article/27) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-303817a1b0c30bccd0b1bdafdae0c488]: Textual amendment: Words in reg. 2(d) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [27](https://www.legislation.gov.uk/uksi/2011/1045/article/27) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
 [^c1601669]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048).
 
@@ -248,31 +248,31 @@ These Regulations make provision pursuant to orders, including those made after 
 
 [^c1601671]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847).
 
-[^key-653e52848067994b41dd032de590c386]: Textual amendment: Words in reg. 3(2)(c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/a)
+[^c-653e52848067994b41dd032de590c386]: Textual amendment: Words in reg. 3(2)(c) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/a)
 
 [^c1601672]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48); section 93A was inserted by section 153 of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-9517334c789a5a978c91cf088164d721]: Textual amendment: Words in reg. 3(2)(d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/b)
+[^c-9517334c789a5a978c91cf088164d721]: Textual amendment: Words in reg. 3(2)(d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/6/b)
 
 [^c1601673]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110).
 
-[^key-505d8c5c4c70ea522eb75b11a61cd1fa]: Textual amendment: Words in reg. 4(3)(c) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-505d8c5c4c70ea522eb75b11a61cd1fa]: Textual amendment: Words in reg. 4(3)(c) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
 [^c1601674]: Marginal citation: Section 17 was amended by paragraph 3 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
 
-[^key-3d314d82e2d354cf3bef1b75d5d1a8c4]: Textual amendment: Words in reg. 6(2)(a) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-3d314d82e2d354cf3bef1b75d5d1a8c4]: Textual amendment: Words in reg. 6(2)(a) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
 [^M_F_0f5f655c-0572-4e84-e8d6-f4fbe2495134]: Textual amendment: Words in reg. 6(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/8)
 
-[^key-0dbd5e64f966237f60058b9866a1c96b]: Textual amendment: Words in reg. 6(4) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-0dbd5e64f966237f60058b9866a1c96b]: Textual amendment: Words in reg. 6(4) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
-[^key-0bdcb1ecbf6a8b7c342e773cb959939a]: Textual amendment: Words in reg. 7(3) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-0bdcb1ecbf6a8b7c342e773cb959939a]: Textual amendment: Words in reg. 7(3) substituted (E.W.) (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
 [^M_F_a1615d8c-e0af-445c-f392-dabd8f50d956]: Textual amendment: Reg. 7A inserted (8.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/a)
 
-[^key-3903b8b542e58506b130af1c87e09e92]: Textual amendment: Words in reg. 7A(3)(a) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
+[^c-3903b8b542e58506b130af1c87e09e92]: Textual amendment: Words in reg. 7A(3)(a) substituted (6.4.2011) by [The Family Procedure (Modification of Enactments) Order 2011 (S.I. 2011/1045)](https://www.legislation.gov.uk/uksi/2011/1045), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1045/article/1), [28](https://www.legislation.gov.uk/uksi/2011/1045/article/28) (with [art. 39](https://www.legislation.gov.uk/uksi/2011/1045/article/39))
 
-[^key-79177c46b33f77aaf027f730079bf4cc]: Modification: Reg. 8 applied (with modifications) (8.8.2006) by [Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/b)
+[^c-79177c46b33f77aaf027f730079bf4cc]: Modification: Reg. 8 applied (with modifications) (8.8.2006) by [Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/b)
 
 [^M_F_f10fc21c-48bd-4ef0-d9ef-b553de74380f]: Textual amendment: Words in reg. 8 inserted (8.8.2006) by [The Divorce etc. (Pension Protection Fund) Regulations 2006 (S.I. 2006/1932)](https://www.legislation.gov.uk/uksi/2006/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2006/1932/regulation/5/b)
 

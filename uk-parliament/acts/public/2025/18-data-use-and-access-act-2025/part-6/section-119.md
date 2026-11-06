@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Transfer of functions to the Information Commission[^key-79506e562617066ecf18cf0a31346fda][^key-0f28854dd8ee2137ee63c31b9258fac4]
+## 119. Transfer of functions to the Information Commission[^c-79506e562617066ecf18cf0a31346fda][^c-0f28854dd8ee2137ee63c31b9258fac4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79506e562617066ecf18cf0a31346fda]: Commencement: S. 119 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-79506e562617066ecf18cf0a31346fda]: Commencement: S. 119 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-0f28854dd8ee2137ee63c31b9258fac4]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/18/section/119) in force at 30.9.2026 by [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
+[^c-0f28854dd8ee2137ee63c31b9258fac4]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/18/section/119) in force at 30.9.2026 by [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))

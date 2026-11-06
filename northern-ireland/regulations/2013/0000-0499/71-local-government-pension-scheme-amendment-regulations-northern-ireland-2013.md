@@ -40,129 +40,129 @@ Coming into operation
 
 8th April 2013
 
-[^key-6623497a38e7f9f3db7d53601eabcc04]The Department of the Environment makes these Regulations in exercise of the powers conferred by Articles 9 and 14 of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972 [^c21712881] and now vested in it [^c21712891].
+[^c-6623497a38e7f9f3db7d53601eabcc04]The Department of the Environment makes these Regulations in exercise of the powers conferred by Articles 9 and 14 of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972 [^c21712881] and now vested in it [^c21712891].
 
 In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers' Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to it to be appropriate.
 
-## 1. Citation, commencement and retrospection[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 1. Citation, commencement and retrospection[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 3.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 4.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 5.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 6.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 7.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 8.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 9.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 10.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 11. Amendment of the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 12.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 13.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 14.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 15.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 16.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 17.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 18.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 19.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 20.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 21.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 22.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 23.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 24.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendment of the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 25. Amendment of the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 26.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27.[^key-6623497a38e7f9f3db7d53601eabcc04]
+## 27.[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 28. Savings
 
-The amendments made by regulations 13, 14 and 24 have effect in respect of any admission agreements made in accordance with the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009 *(affected by repeal, see note)*[^key-6623497a38e7f9f3db7d53601eabcc04] [^c21713171] on or after the date on which these Regulations come into operation. *(affected by repeal, see note)*[^key-6623497a38e7f9f3db7d53601eabcc04]
+The amendments made by regulations 13, 14 and 24 have effect in respect of any admission agreements made in accordance with the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009 *(affected by repeal, see note)*[^c-6623497a38e7f9f3db7d53601eabcc04] [^c21713171] on or after the date on which these Regulations come into operation. *(affected by repeal, see note)*[^c-6623497a38e7f9f3db7d53601eabcc04]
 
 Sealed with the Official Seal of the Department of the Environment on 15th March 2013.
 
@@ -234,7 +234,7 @@ A regulatory impact assessment has not been produced for these Regulations as no
 
 ## Annotations
 
-[^key-6623497a38e7f9f3db7d53601eabcc04]: Textual amendment: Regulations revoked (except for reg. 28 for specified purposes) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))
+[^c-6623497a38e7f9f3db7d53601eabcc04]: Textual amendment: Regulations revoked (except for reg. 28 for specified purposes) (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))
 
 [^c21712881]: Marginal citation: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073); Article 9 was amended by Article 34 [S.I. 2005/1968 (N.I. 18)](https://www.legislation.gov.uk/nisi/2005/1968); Article 14 was amended by Article 12 [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509).
 

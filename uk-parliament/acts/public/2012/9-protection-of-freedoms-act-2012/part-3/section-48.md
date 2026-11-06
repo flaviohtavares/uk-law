@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Issuing of code[^key-1e28237c8cfadd2f6998af21d3ec4231]
+## 48. Issuing of code[^c-1e28237c8cfadd2f6998af21d3ec4231]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e28237c8cfadd2f6998af21d3ec4231]: Commencement: S. 48 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(r)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/r)
+[^c-1e28237c8cfadd2f6998af21d3ec4231]: Commencement: S. 48 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(r)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/r)

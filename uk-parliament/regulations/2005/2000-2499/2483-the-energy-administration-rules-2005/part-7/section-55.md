@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Payments of a periodical nature[^key-e3e711e3b7e22645cb6dd3bd7d030c84]
+## 55. Payments of a periodical nature[^c-e3e711e3b7e22645cb6dd3bd7d030c84]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3e711e3b7e22645cb6dd3bd7d030c84]: Commencement: Rule 55 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-e3e711e3b7e22645cb6dd3bd7d030c84]: Commencement: Rule 55 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

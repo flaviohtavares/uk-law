@@ -42,13 +42,13 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, with the approval of the North/South Ministerial Council, makes the following Regulations in exercise of the powers conferred by section 13(1) of the Foyle Fisheries Act 1952[^f00001] and section 13(1) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and application[^key-ac90f4dd5e5c74a81d083dd1384f21ac]
+## 1. Citation, commencement and application[^c-ac90f4dd5e5c74a81d083dd1384f21ac]
 
 (1) These Regulations may be cited as the Foyle Area and Carlingford Area (Coarse Angling) Regulations 2009 and shall come into operation on 1st January 2010.
 
 (2) These Regulations apply in the Foyle Area and the Carlingford Area.
 
-## 2. Interpretation[^key-4ad961a1e9c64523c02e579750f2646d]
+## 2. Interpretation[^c-4ad961a1e9c64523c02e579750f2646d]
 
 (1) In these Regulations “coarse fish” means fish of the following species—
 
@@ -61,13 +61,13 @@ The Foyle, Carlingford and Irish Lights Commission, with the approval of the Nor
 
 (2) Any reference in paragraph (1) to a species of fish includes a hybrid of that species.
 
-## 3. Prohibition and restriction[^key-48f8ba3f7969e66fe067f106c73a3b91]
+## 3. Prohibition and restriction[^c-48f8ba3f7969e66fe067f106c73a3b91]
 
 A person shall not kill coarse fish by rod and line.
 
-**4.**[^key-200839ea4d3ce2131d3288a87bc3faf6] Any coarse fish taken by rod and line shall be returned immediately to the waters from which it was taken without avoidable injury.
+**4.**[^c-200839ea4d3ce2131d3288a87bc3faf6] Any coarse fish taken by rod and line shall be returned immediately to the waters from which it was taken without avoidable injury.
 
-## 5. Amendment of the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^key-c633e94a91f380af2a1a564a05d6035a]
+## 5. Amendment of the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^c-c633e94a91f380af2a1a564a05d6035a]
 
 (1) The Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^f00004] are amended in accordance with paragraph (2).
 
@@ -115,14 +115,14 @@ The Regulations also provide for consequential amendment of the definitions of �
 
 [^f00003]: Footnote: [S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-ac90f4dd5e5c74a81d083dd1384f21ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/378/regulation/1) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
+[^c-ac90f4dd5e5c74a81d083dd1384f21ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/378/regulation/1) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
 
-[^key-4ad961a1e9c64523c02e579750f2646d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/378/regulation/2) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
+[^c-4ad961a1e9c64523c02e579750f2646d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/378/regulation/2) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
 
-[^key-48f8ba3f7969e66fe067f106c73a3b91]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/378/regulation/3) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
+[^c-48f8ba3f7969e66fe067f106c73a3b91]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/378/regulation/3) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
 
-[^key-200839ea4d3ce2131d3288a87bc3faf6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/378/regulation/4) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
+[^c-200839ea4d3ce2131d3288a87bc3faf6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/378/regulation/4) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
 
-[^key-c633e94a91f380af2a1a564a05d6035a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/378/regulation/5) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
+[^c-c633e94a91f380af2a1a564a05d6035a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/378/regulation/5) in operation at 1.1.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/378/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2001 No.397](https://www.legislation.gov.uk/nisr/2001/397); relevants amendments have been made by [S.R. 2003 No.114](https://www.legislation.gov.uk/nisr/2003/114) and [S.R. 2003 No.524](https://www.legislation.gov.uk/nisr/2003/524)

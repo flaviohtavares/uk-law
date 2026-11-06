@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 111. Subsidiary powers of local authorities.[^c15106411][^c15106421][^c15106431][^c15106441][^c20521101][^key-f4e8544438f0a1841f2c370e9d50c297][^key-f385186b3409bfd1352b7ccaf708d1db]
+## 111. Subsidiary powers of local authorities.[^c15106411][^c15106421][^c15106431][^c15106441][^c20521101][^c-f4e8544438f0a1841f2c370e9d50c297][^c-f385186b3409bfd1352b7ccaf708d1db]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of this section, transacting the business of a parish or community meeting or any other parish or community business shall be treated as a function of the parish or community council.
 
-(3)[^c15106451][^c18815161][^key-581407d6cd6fd2828ac64121d9984a25] A local authority shall not by virtue of this section raise money, whether by means of rates, precepts or borrowing, or lend money except in accordance with the enactments relating to those matters respectively.
+(3)[^c15106451][^c18815161][^c-581407d6cd6fd2828ac64121d9984a25] A local authority shall not by virtue of this section raise money, whether by means of rates, precepts or borrowing, or lend money except in accordance with the enactments relating to those matters respectively.
 
 (4) In this section “**local authority**” includes the Common Council.
 
@@ -52,12 +52,12 @@ summary: ''
 
 [^c20521101]: Modification: S. 111 applied (1.4.2009) by [The Charter Trustees Regulations 2009 (S.I. 2009/467)](https://www.legislation.gov.uk/uksi/2009/467), [reg. 14(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/14/1)
 
-[^key-f4e8544438f0a1841f2c370e9d50c297]: Modification: S. 111 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-f4e8544438f0a1841f2c370e9d50c297]: Modification: S. 111 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-f385186b3409bfd1352b7ccaf708d1db]: Modification: S. 111 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-f385186b3409bfd1352b7ccaf708d1db]: Modification: S. 111 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^c15106451]: Modification: S. 111(1)(3) extended (5.7.1994) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/1994/19/section/39/2), [66(2)(a)(b)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/2/a/b), [Sch. 13 para. 19(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/13/paragraph/19/a) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2))
 
 [^c18815161]: Modification: S. 111(3) excluded (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), ss. {93(7)(a)}, 128
 
-[^key-581407d6cd6fd2828ac64121d9984a25]: Modification: [S. 111(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/111/3) excluded (W.) (1.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 25(5)](https://www.legislation.gov.uk/asc/2021/1/section/25/5), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [reg. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/regulation/4/a)
+[^c-581407d6cd6fd2828ac64121d9984a25]: Modification: [S. 111(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/111/3) excluded (W.) (1.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 25(5)](https://www.legislation.gov.uk/asc/2021/1/section/25/5), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [reg. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/regulation/4/a)

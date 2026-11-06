@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Energy Efficiency (Building Renovation and Reporting) Regulations 2014 (revoked)[^key-c8496224c06d8027908242184a9bc476]
+The Energy Efficiency (Building Renovation and Reporting) Regulations 2014 (revoked)[^c-c8496224c06d8027908242184a9bc476]
 
 Made
 
@@ -44,50 +44,50 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c8496224c06d8027908242184a9bc476]
+## 1. Citation and commencement[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c8496224c06d8027908242184a9bc476]
+## 2. Interpretation[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Building renovation strategy[^key-c8496224c06d8027908242184a9bc476]
+## 3. Building renovation strategy[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Annual reports and statistics[^key-c8496224c06d8027908242184a9bc476]
+## 4. Annual reports and statistics[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. National energy efficiency action plans[^key-c8496224c06d8027908242184a9bc476]
+## 5. National energy efficiency action plans[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Long-term renovation strategy[^key-c8496224c06d8027908242184a9bc476]
+## 5A. Long-term renovation strategy[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5B. Financial measure for energy efficiency improvements[^key-c8496224c06d8027908242184a9bc476]
+## 5B. Financial measure for energy efficiency improvements[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5C. Information via advisory tools[^key-c8496224c06d8027908242184a9bc476]
+## 5C. Information via advisory tools[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Duty to review[^key-c8496224c06d8027908242184a9bc476]
+## 6. Duty to review[^c-c8496224c06d8027908242184a9bc476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8496224c06d8027908242184a9bc476]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8496224c06d8027908242184a9bc476]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/952) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-c8496224c06d8027908242184a9bc476]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/952) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

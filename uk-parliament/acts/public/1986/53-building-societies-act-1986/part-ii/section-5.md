@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Establishment, constitution and powers.[^key-6a357ad387038f2980da9458d00a5e9c]
+## 5. Establishment, constitution and powers.[^c-6a357ad387038f2980da9458d00a5e9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,15 +25,15 @@ summary: ''
 - (a) its purpose or principal purpose is that of making loans which are secured on residential property and are funded substantially by its members; and
 - (b) its principal office is in the United Kingdom.
 
-(2) A society is established under this Act on compliance by the persons establishing it with the scheduled requirements and is incorporated under this Act as from the date of registration by the FCA[^key-cb4feaaf2458563b57c9d70cdebcfb1b] .
+(2) A society is established under this Act on compliance by the persons establishing it with the scheduled requirements and is incorporated under this Act as from the date of registration by the FCA[^c-cb4feaaf2458563b57c9d70cdebcfb1b] .
 
 (3) A society incorporated under this Act is referred to in this Act as a “**building society**”.
 
 (4) A society incorporated under the repealed enactments whose principal office, as registered with the central office immediately before the commencement of this section, was in the United Kingdom, shall be deemed to be registered (and accordingly as incorporated) under this Act.
 
-(4A)[^key-b7e4c5e8a90c3de120e6de179fdb297b][^c15489361] If, after its establishment, a building society fails to comply with the requirements imposed by subsection (1)(a) or (b) above—
+(4A)[^c-b7e4c5e8a90c3de120e6de179fdb297b][^c15489361] If, after its establishment, a building society fails to comply with the requirements imposed by subsection (1)(a) or (b) above—
 
-- (a) the powers conferred on the appropriate authority[^key-ec205eca610b635c467b18dda3998162] by section 36 or 37 shall become exercisable in relation to the society; but
+- (a) the powers conferred on the appropriate authority[^c-ec205eca610b635c467b18dda3998162] by section 36 or 37 shall become exercisable in relation to the society; but
 - (b) the failure shall not affect the validity of any transaction or other act.
 
 (5)[^c15489381] Subject to the provisions of this Act, a building society shall have the powers conferred on it by its memorandum.
@@ -57,17 +57,17 @@ and for the purposes of this subsection, the area of any land which comprises a 
 
 ## Annotations
 
-[^key-6a357ad387038f2980da9458d00a5e9c]: Modification: S. 5 applied (with modifications) (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/2)
+[^c-6a357ad387038f2980da9458d00a5e9c]: Modification: S. 5 applied (with modifications) (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/2)
 
 [^c15489341]: Textual amendment: S. 5(1) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)-(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/1/1), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(a)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/a)
 
-[^key-cb4feaaf2458563b57c9d70cdebcfb1b]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/53/section/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/4/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-cb4feaaf2458563b57c9d70cdebcfb1b]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/53/section/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/4/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-b7e4c5e8a90c3de120e6de179fdb297b]: Modification: S. 5(4A) modified (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/4)
+[^c-b7e4c5e8a90c3de120e6de179fdb297b]: Modification: S. 5(4A) modified (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2010/1188/article/4/4)
 
 [^c15489361]: Textual amendment: S. 5(4A) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)-(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/1/2), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(a)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/a)
 
-[^key-ec205eca610b635c467b18dda3998162]: Textual amendment: Word in [s. 5(4A)](https://www.legislation.gov.uk/ukpga/1986/53/section/5/4A) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/4/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-ec205eca610b635c467b18dda3998162]: Textual amendment: Word in [s. 5(4A)](https://www.legislation.gov.uk/ukpga/1986/53/section/5/4A) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/4/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15489381]: Textual amendment: S. 5(5) substituted for s. 5(5)-(7) (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)-(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/1/3), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(a)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/a)
 

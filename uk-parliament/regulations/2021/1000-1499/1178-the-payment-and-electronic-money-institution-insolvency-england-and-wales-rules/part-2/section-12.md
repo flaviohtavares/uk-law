@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Further notification[^key-94bdbc8fe1c02f298c669cdb935491c0]
+## 12. Further notification[^c-94bdbc8fe1c02f298c669cdb935491c0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ As soon as is reasonably practicable after filing the application, the applicant
 
 ## Annotations
 
-[^key-94bdbc8fe1c02f298c669cdb935491c0]: Commencement: Rule 12 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-94bdbc8fe1c02f298c669cdb935491c0]: Commencement: Rule 12 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

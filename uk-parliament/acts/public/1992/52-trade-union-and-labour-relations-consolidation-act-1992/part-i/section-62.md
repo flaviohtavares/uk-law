@@ -24,7 +24,7 @@ summary: ''
 
 - [^c14514411]In this section “**the relevant time**” means the time when the application is made.
 
-(2)[^key-c1fa02a918bd849d8af76859bf338fed] For this purpose the question whether industrial action is regarded as having the support of a ballot shall be determined in accordance with section 226(2).
+(2)[^c-c1fa02a918bd849d8af76859bf338fed] For this purpose the question whether industrial action is regarded as having the support of a ballot shall be determined in accordance with section 226(2).
 
 (3) Where on an application under this section the court is satisfied that the claim is well-founded, it shall make such order as it considers appropriate for requiring the union to take steps for ensuring—
 
@@ -52,4 +52,4 @@ Those provisions also apply in relation to proceedings for failure to comply wit
 
 [^c14514411]: Textual amendment: Words in s. 62(1) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 47(a)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/47/a); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-c1fa02a918bd849d8af76859bf338fed]: Textual amendment: [S. 62(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/62/2) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/4); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)
+[^c-c1fa02a918bd849d8af76859bf338fed]: Textual amendment: [S. 62(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/62/2) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/4); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)

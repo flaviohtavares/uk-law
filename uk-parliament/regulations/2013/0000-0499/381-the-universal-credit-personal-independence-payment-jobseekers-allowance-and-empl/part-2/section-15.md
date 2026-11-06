@@ -35,7 +35,7 @@ summary: ''
 
 (4) The third circumstance is where the claimant's current period of limited capability for work is treated as a continuation of another such period under regulation 86 (linking period) of the Employment and Support Allowance Regulations 2013.
 
-(4A)[^key-e5d292d14cddad43bce2dfc8633271d0] The fourth circumstance is where the decision—
+(4A)[^c-e5d292d14cddad43bce2dfc8633271d0] The fourth circumstance is where the decision—
 
 - (a) immediately follows the last day of a period for which the claimant was treated as capable of work or as not having limited capability for work under regulation 55ZA of the Jobseeker’s Allowance Regulations or regulation 46A of the Jobseeker’s Allowance Regulations 2013 (extended period of sickness) and that period lasted 13 weeks; and
 - (b) is not a decision which embodies a determination that the person is treated as having limited capability for work under regulation 26 of the Employment and Support Allowance Regulations 2013 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made).
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d292d14cddad43bce2dfc8633271d0]: Textual amendment: Reg. 15(4A) inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/339/regulation/8/2)
+[^c-e5d292d14cddad43bce2dfc8633271d0]: Textual amendment: Reg. 15(4A) inserted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/339/regulation/8/2)
 
 [^c2167593]: Marginal citation: Section 1A was inserted by section 51 of the 2012 Act.

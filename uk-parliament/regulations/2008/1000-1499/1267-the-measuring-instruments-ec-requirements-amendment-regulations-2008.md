@@ -30,7 +30,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-[^key-f40b7163e7c89bb50149a184bf7fe57a]The Measuring Instruments (EC Requirements) (Amendment) Regulations 2008 (revoked)
+[^c-f40b7163e7c89bb50149a184bf7fe57a]The Measuring Instruments (EC Requirements) (Amendment) Regulations 2008 (revoked)
 
 Made
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-f40b7163e7c89bb50149a184bf7fe57a]: Textual amendment: Regulations revoked (1.12.2015) by [The Weights and Measures (Revocations) Regulations 2015 (S.I. 2015/356)](https://www.legislation.gov.uk/uksi/2015/356), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/3)
+[^c-f40b7163e7c89bb50149a184bf7fe57a]: Textual amendment: Regulations revoked (1.12.2015) by [The Weights and Measures (Revocations) Regulations 2015 (S.I. 2015/356)](https://www.legislation.gov.uk/uksi/2015/356), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/3)

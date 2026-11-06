@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Conflict of interest: pensions board[^key-1676581261f9cedf5d42ee9df719327e][^key-c55474eeb8731daae52036d58aca6fb7]
+## 8. Conflict of interest: pensions board[^c-1676581261f9cedf5d42ee9df719327e][^c-c55474eeb8731daae52036d58aca6fb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1676581261f9cedf5d42ee9df719327e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2336/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-1676581261f9cedf5d42ee9df719327e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2336/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-c55474eeb8731daae52036d58aca6fb7]: Modification: [Regs. 4-8](https://www.legislation.gov.uk/uksi/2014/2336/regulation/4) applied (with modifications) (1.4.2015) by [The Armed Forces Early Departure Payments Scheme Regulations 2014 (S.I. 2014/2328)](https://www.legislation.gov.uk/uksi/2014/2328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2014/2328/regulation/3)
+[^c-c55474eeb8731daae52036d58aca6fb7]: Modification: [Regs. 4-8](https://www.legislation.gov.uk/uksi/2014/2336/regulation/4) applied (with modifications) (1.4.2015) by [The Armed Forces Early Departure Payments Scheme Regulations 2014 (S.I. 2014/2328)](https://www.legislation.gov.uk/uksi/2014/2328), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2014/2328/regulation/3)

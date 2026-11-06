@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations 2014 (revoked)[^key-45d5f79b797023cfa11c00a5861f81f5]
+The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations 2014 (revoked)[^c-45d5f79b797023cfa11c00a5861f81f5]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 28th February 2014
 
-[^key-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45d5f79b797023cfa11c00a5861f81f5]
+## 1. Citation and commencement[^c-45d5f79b797023cfa11c00a5861f81f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (Scotland) Regulations 2007[^key-45d5f79b797023cfa11c00a5861f81f5]
+## 2. Amendment of the Infant Formula and Follow-on Formula (Scotland) Regulations 2007[^c-45d5f79b797023cfa11c00a5861f81f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45d5f79b797023cfa11c00a5861f81f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45d5f79b797023cfa11c00a5861f81f5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/12) revoked (22.2.2020) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 (S.S.I. 2020/6)](https://www.legislation.gov.uk/ssi/2020/6), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/6/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/6/schedule/3) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/2))
+[^c-45d5f79b797023cfa11c00a5861f81f5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/12) revoked (22.2.2020) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 (S.S.I. 2020/6)](https://www.legislation.gov.uk/ssi/2020/6), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/6/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/6/schedule/3) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/2))

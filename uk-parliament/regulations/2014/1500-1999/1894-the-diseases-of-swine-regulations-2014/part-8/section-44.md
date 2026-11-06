@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Review of the Regulations in England[^key-3e7bf4ace1a404a8d496328e8ef34cb0][^key-b99de25a3ce5c440acbb5938c96f4c84]
+## 44. Review of the Regulations in England[^c-3e7bf4ace1a404a8d496328e8ef34cb0][^c-b99de25a3ce5c440acbb5938c96f4c84]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e7bf4ace1a404a8d496328e8ef34cb0]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/1894/regulation/44) omitted (29.4.2026) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(35)](https://www.legislation.gov.uk/uksi/2026/475/article/3/35)
+[^c-3e7bf4ace1a404a8d496328e8ef34cb0]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/1894/regulation/44) omitted (29.4.2026) by virtue of [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(35)](https://www.legislation.gov.uk/uksi/2026/475/article/3/35)
 
-[^key-b99de25a3ce5c440acbb5938c96f4c84]: Commencement: Reg. 44 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-b99de25a3ce5c440acbb5938c96f4c84]: Commencement: Reg. 44 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 337. Upper Tribunal: objection to blight notice including requirement to purchase unaffected area[^key-590aaf2f8bde9a904952d22f164f4281]
+## 337. Upper Tribunal: objection to blight notice including requirement to purchase unaffected area[^c-590aaf2f8bde9a904952d22f164f4281]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-590aaf2f8bde9a904952d22f164f4281]: Commencement: S. 337 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-590aaf2f8bde9a904952d22f164f4281]: Commencement: S. 337 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

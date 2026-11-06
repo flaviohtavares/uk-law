@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Amendment of regulation E2B[^key-8711ce2d3b4baeda42db6c941a7a5684]
+## 4. Amendment of regulation E2B[^c-8711ce2d3b4baeda42db6c941a7a5684]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In regulation E2B(2) (re-assessment of ill health condition determined under reg
 
 ## Annotations
 
-[^key-8711ce2d3b4baeda42db6c941a7a5684]: Commencement: Reg. 4 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-8711ce2d3b4baeda42db6c941a7a5684]: Commencement: Reg. 4 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

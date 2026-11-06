@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Suspension and revocation of vehicle licences.[^c7230431][^key-6632c02dcfae0d6b37489e10b2c275c2]
+## 60. Suspension and revocation of vehicle licences.[^c7230431][^c-6632c02dcfae0d6b37489e10b2c275c2]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c7230431]: Modification: S. 60: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1) Table B3
 
-[^key-6632c02dcfae0d6b37489e10b2c275c2]: Modification: S. 60 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-6632c02dcfae0d6b37489e10b2c275c2]: Modification: S. 60 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))

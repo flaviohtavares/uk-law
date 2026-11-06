@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Advisory board: administration[^key-feb41d688133d427875970954bd616a7]
+## 122. Advisory board: administration[^c-feb41d688133d427875970954bd616a7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feb41d688133d427875970954bd616a7]: Textual amendment: Pt. 3 inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/77/regulation/4)
+[^c-feb41d688133d427875970954bd616a7]: Textual amendment: Pt. 3 inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/77/regulation/4)

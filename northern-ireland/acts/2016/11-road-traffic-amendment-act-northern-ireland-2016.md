@@ -110,7 +110,7 @@ In this Act—
 
 ### Breath testing at authorised check-points
 
-#### 3. Breath testing at authorised check-points[^key-473dacdd4a5ea1e73c6d0bf23207e35d]
+#### 3. Breath testing at authorised check-points[^c-473dacdd4a5ea1e73c6d0bf23207e35d]
 
 (1) After Article 17C of the Order of 1995, insert—
 
@@ -146,7 +146,7 @@ In this Act—
 
 .
 
-#### 4. Check-point breath tests: further provision[^key-b55173c8f3fe4301dfca3358015f5919]
+#### 4. Check-point breath tests: further provision[^c-b55173c8f3fe4301dfca3358015f5919]
 
 (1) The Order of 1995 is amended as follows.
 
@@ -227,7 +227,7 @@ In this Act—
 - (c) in paragraph (2C), for “relevant breath test” substitute “ preliminary breath test or check-point breath test ”,
 - (d) in paragraph (3), after “is” insert “ in uniform and ”.
 
-#### 6. Choice of specimens[^key-d87e52e14294f039d73121e567216717]
+#### 6. Choice of specimens[^c-d87e52e14294f039d73121e567216717]
 
 Article 19 of the Order of 1995 (choice of specimens of breath) is amended asfollows—
 
@@ -507,7 +507,7 @@ After Article 54 of the Offenders Order, insert—
 
 ### Minimum period of holding provisional licence in certain cases
 
-#### 16. Provisional licence to be held for minimum period in certain cases[^key-de6c4db2f43ca1cb9c1e95fb995b5eda]
+#### 16. Provisional licence to be held for minimum period in certain cases[^c-de6c4db2f43ca1cb9c1e95fb995b5eda]
 
 (1) The Order of 1981 is amended as follows.
 
@@ -556,9 +556,9 @@ After Article 54 of the Offenders Order, insert—
 
 #### 17. Approved programmes of training: category B motor vehicles and motor bicycles
 
-(1)[^key-2ed2b47b2068e1e9349cc896fa047665] The Order of 1981 is amended as follows.
+(1)[^c-2ed2b47b2068e1e9349cc896fa047665] The Order of 1981 is amended as follows.
 
-(2)[^key-2ed2b47b2068e1e9349cc896fa047665] After Article 5 (tests of competence to drive), insert—
+(2)[^c-2ed2b47b2068e1e9349cc896fa047665] After Article 5 (tests of competence to drive), insert—
 
 > **5A. Tests of competence to drive: training before taking**
 >
@@ -594,7 +594,7 @@ After Article 54 of the Offenders Order, insert—
 
 .
 
-(3)[^key-5751007493404a09c5d3766be9d9216c] After Article 13A (residence requirement for grant of licences), insert—
+(3)[^c-5751007493404a09c5d3766be9d9216c] After Article 13A (residence requirement for grant of licences), insert—
 
 > **13B. Approved programmes of training: category B motor vehicles or motor bicycles**
 >
@@ -623,14 +623,14 @@ After Article 54 of the Offenders Order, insert—
 
 (4) In Article 19D (interpretation of Part 2)—
 
-- (a)[^key-2ed2b47b2068e1e9349cc896fa047665] in paragraph (1), at the appropriate places, insert—
+- (a)[^c-2ed2b47b2068e1e9349cc896fa047665] in paragraph (1), at the appropriate places, insert—
 
   > “category A motorcycle”, category A1 motorcycle” and category A2 motorcycle” each has the same meaning as in the Motor Vehicle (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 3 and Schedule 1);
   >
   > “**special manoeuvres test**” has the same meaning as in the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 2(1));
 
   ,
-- (b)[^key-2ed2b47b2068e1e9349cc896fa047665] after that paragraph, insert—
+- (b)[^c-2ed2b47b2068e1e9349cc896fa047665] after that paragraph, insert—
 
   > (1ZA) In this Part, “**logbook**” means a document—
   >
@@ -640,10 +640,10 @@ After Article 54 of the Offenders Order, insert—
   > (1ZB) In paragraph (1ZA)—
   >
   > - (a) “an appropriate person”—
-  >   - (i) in relation to a category B motor vehicle, is an approved driving instructor [^key-434d5c3621e02d0a7a3c00435bfca83e]... or a qualified driver;
-  >   - (ii) in relation to a category A1 motorcycle, is an approved motorcycle instructor [^key-2f6a53d38fd4c05048c2a750aa2e5d0c]... or a qualified driver;
-  >   - (iii) in relation to a category A or A2 motorcycle, is an approved motorcycle instructor [^key-056b214b774a0d7cb1c4e265c34a2fab]...;
-  > - (b) “approved driving instructor” and “approved motorcycle instructor”[^key-9580ada47e9cf0d613147d2a1d9cdbe9] means a person who is registered in the register maintained by the Department under Article 51 of the Order of 2007 for the purposes of Part 5 of that Order, to give instruction (in accordance with Article 48 of that Order) in relation to the driving of a category B motor vehicle or (as the case may be) a motor bicycle;
+  >   - (i) in relation to a category B motor vehicle, is an approved driving instructor [^c-434d5c3621e02d0a7a3c00435bfca83e]... or a qualified driver;
+  >   - (ii) in relation to a category A1 motorcycle, is an approved motorcycle instructor [^c-2f6a53d38fd4c05048c2a750aa2e5d0c]... or a qualified driver;
+  >   - (iii) in relation to a category A or A2 motorcycle, is an approved motorcycle instructor [^c-056b214b774a0d7cb1c4e265c34a2fab]...;
+  > - (b) “approved driving instructor” and “approved motorcycle instructor”[^c-9580ada47e9cf0d613147d2a1d9cdbe9] means a person who is registered in the register maintained by the Department under Article 51 of the Order of 2007 for the purposes of Part 5 of that Order, to give instruction (in accordance with Article 48 of that Order) in relation to the driving of a category B motor vehicle or (as the case may be) a motor bicycle;
   > - (c) “**qualified driver**”, in relation to a category B motor vehicle, has the same meaning as for the purposes of regulation 12 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (see regulation 11);
   > - (d) “**qualified driver**”, in relation to a category A1 motorcycle, means a person who—
   >   - (i) is 21 years of age or over;
@@ -669,7 +669,7 @@ After Article 54 of the Offenders Order, insert—
 
   .
 
-#### 18. Revocation of licence: forged etc. logbook[^key-a1cca7e6abb32716cf3d8c1c2f5a538f]
+#### 18. Revocation of licence: forged etc. logbook[^c-a1cca7e6abb32716cf3d8c1c2f5a538f]
 
 (1) In the Order of 1981—
 
@@ -707,7 +707,7 @@ After Article 54 of the Offenders Order, insert—
 
 ### Changes to restrictions on learner and new drivers
 
-#### 19. Changes to restrictions on learner and new drivers[^key-45819fc201d6b002a8fda076be3631e2]
+#### 19. Changes to restrictions on learner and new drivers[^c-45819fc201d6b002a8fda076be3631e2]
 
 (1) The Order of 1981 is amended as follows.
 
@@ -1006,7 +1006,7 @@ After Article 54 of the Offenders Order, insert—
 
 ## PART 4 — Protective headgear: extension of requirements
 
-### 21. Extension of requirements as regards protective headgear[^key-de080c187c64f2b8c60a49752b13ed7f]
+### 21. Extension of requirements as regards protective headgear[^c-de080c187c64f2b8c60a49752b13ed7f]
 
 (1) In Article 27 of the Order of 1995 (persons driving or riding on motor cycles to wear protective headgear)—
 
@@ -1036,7 +1036,7 @@ Article 110 of the Order of 1995 is amended as follows—
   ,
 - (c) in paragraph (4) (procedure for certain regulations), for “shall be subject to affirmative resolution” substitute “ shall not be made unless a draft has been laid before, and approved by a resolution of, the Assembly ”.
 
-### 23. Supplementary, incidental and consequential etc. provision[^key-33511d32dbeda7bbf198d5de4776b0fe]
+### 23. Supplementary, incidental and consequential etc. provision[^c-33511d32dbeda7bbf198d5de4776b0fe]
 
 (1) The Department may by order make such supplementary, incidental, consequential, transitional, transitory or saving provision as it considers appropriate—
 
@@ -1056,15 +1056,15 @@ Article 110 of the Order of 1995 is amended as follows—
 - “**the Department**” means the Department of the Environment,
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 24. Transitional and saving provisions[^key-6e33bd904b2fe6ddc4503e9eb60c9f56][^key-b3226d28f77d68574e005a309d98a3ba]
+### 24. Transitional and saving provisions[^c-6e33bd904b2fe6ddc4503e9eb60c9f56][^c-b3226d28f77d68574e005a309d98a3ba]
 
 Schedule 1 (which contains transitional and saving provisions) has effect.
 
-### 25. Repeals[^key-bf00b6f0d36028217b5c8e842c979f93]
+### 25. Repeals[^c-bf00b6f0d36028217b5c8e842c979f93]
 
 The provisions set out in the first column of Schedule 2 are repealed to the extent specified in the second column of that Schedule.
 
-### 26. Commencement[^key-3f6d098c91a72ed45470fbd8ab488c50]
+### 26. Commencement[^c-3f6d098c91a72ed45470fbd8ab488c50]
 
 (1) This Act, except this section and sections 1, 23 and 27, comes into operation on such day or days as the Department may by order appoint.
 
@@ -1146,7 +1146,7 @@ Section 24.
 
 **9.** Until the commencement of the repeal (by Article 40(4) of and paragraph 47 of Schedule 5 to the Order of 2007) of Articles 63 and 82 respectively of the Offenders Order (endorsement of counterpart without hearing) and (endorsement of counterpart where fixed penalty under conditional offer paid), paragraph (3A) of Article 35 of the Offenders Order (inserted by section 13(2)) has effect as if the reference to “endorsement of the person's driving record in accordance with Article 63A” were a reference to “endorsement of the counterpart of the person's driving licence in accordance with Article 63 or 82 or his driving record in accordance with Article 63A or 82A”.
 
-**10.**[^key-704eca2566d3261a49c6c76eb7a0fa0b] Until the commencement of the substitution (by Article 11(1) of the Order of 2007) of new Articles 36 to 38 for Articles 36 to 39 of the Offenders Order, Article 36 of the Offenders Order has effect as if it were amended as follows (instead of as in section 14)—
+**10.**[^c-704eca2566d3261a49c6c76eb7a0fa0b] Until the commencement of the substitution (by Article 11(1) of the Order of 2007) of new Articles 36 to 38 for Articles 36 to 39 of the Offenders Order, Article 36 of the Offenders Order has effect as if it were amended as follows (instead of as in section 14)—
 
 - (a) in paragraph (2), for “may” there were substituted “ must, unless for special reasons it thinks that to do so is inappropriate and subject to paragraph (4), ”,
 - (b) in paragraph (4)—
@@ -1167,15 +1167,15 @@ Section 24.
 
 #### Minimum period for which provisional licence to be held in certain cases
 
-**12.**[^key-7537121cc76656f8e9f8085492104841] The amendments of the Order of 1981 made by section 16 do not apply, for a period of 6 months beginning with the day on which the amendments are commenced, in relation to a person whose provisional licence was granted before that dayTraining of provisional licence holders in certain cases etc.
+**12.**[^c-7537121cc76656f8e9f8085492104841] The amendments of the Order of 1981 made by section 16 do not apply, for a period of 6 months beginning with the day on which the amendments are commenced, in relation to a person whose provisional licence was granted before that dayTraining of provisional licence holders in certain cases etc.
 
 #### Training of provisional licence holders in certain cases etc.
 
-**13.**[^key-aadd40e77651f101bd385a0aa5bf92d3] The amendment of the Order of 1981 made by section 17(2) does not apply, for a period of 6 months beginning with the day on which the amendment is commenced, in relation to a person whose provisional licence, or relevant permit, was granted before the commencement of the amendment.
+**13.**[^c-aadd40e77651f101bd385a0aa5bf92d3] The amendment of the Order of 1981 made by section 17(2) does not apply, for a period of 6 months beginning with the day on which the amendment is commenced, in relation to a person whose provisional licence, or relevant permit, was granted before the commencement of the amendment.
 
-**14.**[^key-89852e6c98170c9e36001cccee355045] In paragraph 13, “**relevant permit**” means a licence or permit which, by virtue of an Order made under the Motor Vehicles (International Circulation) Act 1952, entitles the person to drive a category B motor vehicle or motor bicycle in Northern Ireland.
+**14.**[^c-89852e6c98170c9e36001cccee355045] In paragraph 13, “**relevant permit**” means a licence or permit which, by virtue of an Order made under the Motor Vehicles (International Circulation) Act 1952, entitles the person to drive a category B motor vehicle or motor bicycle in Northern Ireland.
 
-**15.**[^key-362a743594c2134f74f8cbc0cc7e2193] Until the commencement of the amendments (by Article 40(5) of, and Schedule 5 to, the Order of 2007) of the Order of 1981 (removal of references to counterpart to licence)—
+**15.**[^c-362a743594c2134f74f8cbc0cc7e2193] Until the commencement of the amendments (by Article 40(5) of, and Schedule 5 to, the Order of 2007) of the Order of 1981 (removal of references to counterpart to licence)—
 
 - (a) Article 15ZA of that Order (inserted by section 18(1)(c)) has effect as if—
   - (i) the reference in paragraph (2)(b) to “licence” were a reference to “licence and its counterpart”,
@@ -1186,17 +1186,17 @@ Section 24.
 
 #### Restrictions in Articles 19 and 19A of the Order of 1981: learner and new drivers
 
-**16.**[^key-41066079501739817e293662356576c7] Notwithstanding their repeal by this Act, the following provisions continue to apply (and accordingly also continue in operation), for a period of 6 months beginning with the day on which the repeals are commenced, in relation to a person whose provisional licence was granted before that day—
+**16.**[^c-41066079501739817e293662356576c7] Notwithstanding their repeal by this Act, the following provisions continue to apply (and accordingly also continue in operation), for a period of 6 months beginning with the day on which the repeals are commenced, in relation to a person whose provisional licence was granted before that day—
 
 - (a) Article 19 of the Order of 1981 (speed limit of 45 miles per hour for provisional licence holders),
 - (b) the entry, in Part 1 of Schedule 1 to the Offenders Order (prosecution and punishment of offences under the Road Traffic Orders) for offences under that Article.
 
-**17.**[^key-9b420ead5d6995d89cdf1a7f6e327a20] Where, immediately before the day on which section 19 is commenced, a person is subject to Article 19A of the Order of 1981 (specified restrictions on newly qualified drivers for a 12 month period of restriction), the following continue to apply (and accordingly also continue in operation) after that day in respect of the person—
+**17.**[^c-9b420ead5d6995d89cdf1a7f6e327a20] Where, immediately before the day on which section 19 is commenced, a person is subject to Article 19A of the Order of 1981 (specified restrictions on newly qualified drivers for a 12 month period of restriction), the following continue to apply (and accordingly also continue in operation) after that day in respect of the person—
 
 - (a) Article 19A (instead of Articles 19AB and 19AC, substituted by section 19 for Articles 19A and 19B),
 - (b) the entry in Part 1 of Schedule 1 to the Offenders Order for offences under that Article.
 
-**18.**[^key-e3857f5f30934b5a4728d90d39958568] Where immediately before the day on which section 19 is commenced, a person holds a provisional licence, the person on passing a test of competence to drive on or after that day but before the expiry of the period of 6 months after that day, becomes subject to Article 19A of the Order of 1981 (restrictions on newly qualified drivers for a 12 month period of restriction) (instead of Articles 19AB and 19AC, substituted by section 19 for Articles 19A and 19B); and Article 19A (and the entry in Part 1 of Schedule 1 to the Offenders Order for offences under Article 19A) continue in operation accordingly for that period of 12 months.
+**18.**[^c-e3857f5f30934b5a4728d90d39958568] Where immediately before the day on which section 19 is commenced, a person holds a provisional licence, the person on passing a test of competence to drive on or after that day but before the expiry of the period of 6 months after that day, becomes subject to Article 19A of the Order of 1981 (restrictions on newly qualified drivers for a 12 month period of restriction) (instead of Articles 19AB and 19AC, substituted by section 19 for Articles 19A and 19B); and Article 19A (and the entry in Part 1 of Schedule 1 to the Offenders Order for offences under Article 19A) continue in operation accordingly for that period of 12 months.
 
 **Not yet in force.**
 
@@ -1204,9 +1204,9 @@ Section 24.
 
 ### PART 3 — GENERAL
 
-**20.**[^key-1b8a9ff7d91d07bc8d8367fc556899ff] In this Schedule, “**category B motor vehicle**”, “**motor bicycle**”, “**provisional licence**” and “**test of competence to drive**” have the same meanings as in Article 19D(1) of the Order of 1981.
+**20.**[^c-1b8a9ff7d91d07bc8d8367fc556899ff] In this Schedule, “**category B motor vehicle**”, “**motor bicycle**”, “**provisional licence**” and “**test of competence to drive**” have the same meanings as in Article 19D(1) of the Order of 1981.
 
-## SCHEDULE 2 — REPEALS[^key-62626ff880aea2338645df2b3d475429]
+## SCHEDULE 2 — REPEALS[^c-62626ff880aea2338645df2b3d475429]
 
 Section 25.
 
@@ -1230,58 +1230,58 @@ Section 25.
 
 ## Annotations
 
-[^key-473dacdd4a5ea1e73c6d0bf23207e35d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/11/section/3) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-473dacdd4a5ea1e73c6d0bf23207e35d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/11/section/3) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
-[^key-b55173c8f3fe4301dfca3358015f5919]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/11/section/4) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-b55173c8f3fe4301dfca3358015f5919]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/11/section/4) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
-[^key-d87e52e14294f039d73121e567216717]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/11/section/6) in operation at 9.11.2020 by [S.R. 2020/240](https://www.legislation.gov.uk/nisr/2020/240), [art. 2](https://www.legislation.gov.uk/nisr/2020/240/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/240/schedule)
+[^c-d87e52e14294f039d73121e567216717]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/11/section/6) in operation at 9.11.2020 by [S.R. 2020/240](https://www.legislation.gov.uk/nisr/2020/240), [art. 2](https://www.legislation.gov.uk/nisr/2020/240/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/240/schedule)
 
-[^key-de6c4db2f43ca1cb9c1e95fb995b5eda]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/11/section/16) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-de6c4db2f43ca1cb9c1e95fb995b5eda]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/11/section/16) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-2ed2b47b2068e1e9349cc896fa047665]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2016/11/section/17/1)[(2)](https://www.legislation.gov.uk/nia/2016/11/section/17/2)[(4)(a)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/a)[(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b)[(5)(a)(i)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/5/a/i/b) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-2ed2b47b2068e1e9349cc896fa047665]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/nia/2016/11/section/17/1)[(2)](https://www.legislation.gov.uk/nia/2016/11/section/17/2)[(4)(a)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/a)[(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b)[(5)(a)(i)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/5/a/i/b) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-5751007493404a09c5d3766be9d9216c]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/nia/2016/11/section/17/3) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-5751007493404a09c5d3766be9d9216c]: Commencement: [S. 17(3)](https://www.legislation.gov.uk/nia/2016/11/section/17/3) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-434d5c3621e02d0a7a3c00435bfca83e]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/a)
+[^c-434d5c3621e02d0a7a3c00435bfca83e]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/a)
 
-[^key-2f6a53d38fd4c05048c2a750aa2e5d0c]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/b)
+[^c-2f6a53d38fd4c05048c2a750aa2e5d0c]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/b)
 
-[^key-056b214b774a0d7cb1c4e265c34a2fab]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/c)
+[^c-056b214b774a0d7cb1c4e265c34a2fab]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/c)
 
-[^key-9580ada47e9cf0d613147d2a1d9cdbe9]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/d)
+[^c-9580ada47e9cf0d613147d2a1d9cdbe9]: Textual amendment: Words in [s. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/17/4/b) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/3/2/d)
 
-[^key-a1cca7e6abb32716cf3d8c1c2f5a538f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/11/section/18) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-a1cca7e6abb32716cf3d8c1c2f5a538f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/11/section/18) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-45819fc201d6b002a8fda076be3631e2]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/11/section/19) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-45819fc201d6b002a8fda076be3631e2]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/11/section/19) in operation at 1.10.2026 by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-de080c187c64f2b8c60a49752b13ed7f]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/11/section/21) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-de080c187c64f2b8c60a49752b13ed7f]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2016/11/section/21) in operation at 25.11.2016 by [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
-[^key-33511d32dbeda7bbf198d5de4776b0fe]: Modification: [S. 23](https://www.legislation.gov.uk/nia/2016/11/section/23): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-33511d32dbeda7bbf198d5de4776b0fe]: Modification: [S. 23](https://www.legislation.gov.uk/nia/2016/11/section/23): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6e33bd904b2fe6ddc4503e9eb60c9f56]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/11/section/24) in operation at 28.6.2021 for specified purposes by [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
+[^c-6e33bd904b2fe6ddc4503e9eb60c9f56]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/11/section/24) in operation at 28.6.2021 for specified purposes by [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
 
-[^key-b3226d28f77d68574e005a309d98a3ba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/11/section/24) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-b3226d28f77d68574e005a309d98a3ba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2016/11/section/24) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-bf00b6f0d36028217b5c8e842c979f93]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/11/section/25) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-bf00b6f0d36028217b5c8e842c979f93]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/11/section/25) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-3f6d098c91a72ed45470fbd8ab488c50]: Modification: [S. 26](https://www.legislation.gov.uk/nia/2016/11/section/26): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-3f6d098c91a72ed45470fbd8ab488c50]: Modification: [S. 26](https://www.legislation.gov.uk/nia/2016/11/section/26): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-704eca2566d3261a49c6c76eb7a0fa0b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/10) in operation at 28.6.2021 by [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
+[^c-704eca2566d3261a49c6c76eb7a0fa0b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/10) in operation at 28.6.2021 by [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
 
-[^key-7537121cc76656f8e9f8085492104841]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/12) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-7537121cc76656f8e9f8085492104841]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/12) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-aadd40e77651f101bd385a0aa5bf92d3]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/13) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-aadd40e77651f101bd385a0aa5bf92d3]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/13) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-89852e6c98170c9e36001cccee355045]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/14) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-89852e6c98170c9e36001cccee355045]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/14) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-362a743594c2134f74f8cbc0cc7e2193]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/15) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-362a743594c2134f74f8cbc0cc7e2193]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/15) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-41066079501739817e293662356576c7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/16) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-41066079501739817e293662356576c7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/16) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-9b420ead5d6995d89cdf1a7f6e327a20]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/17) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-9b420ead5d6995d89cdf1a7f6e327a20]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/17) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-e3857f5f30934b5a4728d90d39958568]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/18) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-e3857f5f30934b5a4728d90d39958568]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/18) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-1b8a9ff7d91d07bc8d8367fc556899ff]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/20) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-1b8a9ff7d91d07bc8d8367fc556899ff]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/20) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
 
-[^key-62626ff880aea2338645df2b3d475429]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2016/11/schedule/2) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)
+[^c-62626ff880aea2338645df2b3d475429]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2016/11/schedule/2) in operation at 1.10.2026 for specified purposes by [S.R. 2026/125](https://www.legislation.gov.uk/nisr/2026/125), [art. 2](https://www.legislation.gov.uk/nisr/2026/125/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2026/125/schedule)

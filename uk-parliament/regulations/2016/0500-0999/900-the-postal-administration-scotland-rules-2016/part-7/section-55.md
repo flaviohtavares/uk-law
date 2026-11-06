@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Final progress reports[^key-d49d11ccda30c6655d99dd47dc934f1c]
+## 55. Final progress reports[^c-d49d11ccda30c6655d99dd47dc934f1c]
 
 *Extent: S*
 
 In this Part—
 
-- (a) “progress report” means a report including the matters specified in Rule 35(2)[^key-5296e6140ac2999605bbf79ab89e642e]; and
+- (a) “progress report” means a report including the matters specified in Rule 35(2)[^c-5296e6140ac2999605bbf79ab89e642e]; and
 - (b) “final progress report” means a progress report which includes a summary of—
   - (i) the postal administrator’s original proposals;
   - (ii) any major amendments to, or deviations from, those proposals;
@@ -31,6 +31,6 @@ In this Part—
 
 ## Annotations
 
-[^key-d49d11ccda30c6655d99dd47dc934f1c]: Commencement: Rule 55 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-d49d11ccda30c6655d99dd47dc934f1c]: Commencement: Rule 55 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-5296e6140ac2999605bbf79ab89e642e]: Textual amendment: Words in [rule 55(a)](https://www.legislation.gov.uk/uksi/2016/900/rule/55/a) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-5296e6140ac2999605bbf79ab89e642e]: Textual amendment: Words in [rule 55(a)](https://www.legislation.gov.uk/uksi/2016/900/rule/55/a) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

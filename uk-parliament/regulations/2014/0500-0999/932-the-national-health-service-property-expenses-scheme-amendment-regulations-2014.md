@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Property Expenses Scheme) (Amendment) Regulations 2014 (revoked)[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+The National Health Service (Property Expenses Scheme) (Amendment) Regulations 2014 (revoked)[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st May 2014
 
-[^key-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+## 1. Citation, commencement, application and interpretation[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the Principal Regulations[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+## 2. Amendment of regulation 1 of the Principal Regulations[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 of the Principal Regulations[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+## 3. Amendment of regulation 4 of the Principal Regulations[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 7 of the Principal Regulations[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+## 4. Amendment of regulation 7 of the Principal Regulations[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8 of the Principal Regulations[^key-8b3606ceec83e5baf3be2b2ffe771d99]
+## 5. Amendment of regulation 8 of the Principal Regulations[^c-8b3606ceec83e5baf3be2b2ffe771d99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3606ceec83e5baf3be2b2ffe771d99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b3606ceec83e5baf3be2b2ffe771d99]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/932) revoked (1.8.2018) by [The National Health Service (Property Expenses Scheme) (England) Regulations 2018 (S.I. 2018/757)](https://www.legislation.gov.uk/uksi/2018/757), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/757/schedule) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/757/regulation/16))
+[^c-8b3606ceec83e5baf3be2b2ffe771d99]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/932) revoked (1.8.2018) by [The National Health Service (Property Expenses Scheme) (England) Regulations 2018 (S.I. 2018/757)](https://www.legislation.gov.uk/uksi/2018/757), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/757/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/757/schedule) (with [reg. 16](https://www.legislation.gov.uk/uksi/2018/757/regulation/16))

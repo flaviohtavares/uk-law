@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Items subject to legal privilege[^key-c4114d7e513a1f73e2c093fe7cace591][^key-fbb797538bc9841b5ee8f9f585387e4c]
+## 132. Items subject to legal privilege[^c-c4114d7e513a1f73e2c093fe7cace591][^c-fbb797538bc9841b5ee8f9f585387e4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4114d7e513a1f73e2c093fe7cace591]: Commencement: S. 132 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c4114d7e513a1f73e2c093fe7cace591]: Commencement: S. 132 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fbb797538bc9841b5ee8f9f585387e4c]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/36/section/132) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(33)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/33)
+[^c-fbb797538bc9841b5ee8f9f585387e4c]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/36/section/132) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(33)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/33)

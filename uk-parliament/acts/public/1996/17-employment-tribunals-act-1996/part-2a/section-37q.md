@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37Q. Financial penalties for non-payment: interpretation[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37Q. Financial penalties for non-payment: interpretation[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
   - (b) also includes an application, under regulations made under section 45 of the Employment Act 2002, for a declaration that a person is a permanent employee;
 - “**costs sum**” has the meaning given by section 37A;
 - “**employer**” has the same meaning as in section 12A;
-- [^key-93844ac90fa492def18a2486a3e9a656]...
+- [^c-93844ac90fa492def18a2486a3e9a656]...
 - “**financial award**” has the meaning given by section 37A;
 - “**penalty notice**” has the meaning given by section 37F;
 - “**relevant appeal**” has the meaning given by section 37A;
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-93844ac90fa492def18a2486a3e9a656]: Textual amendment: Words in s. 37Q(1) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/16) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-93844ac90fa492def18a2486a3e9a656]: Textual amendment: Words in s. 37Q(1) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/16) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Forms for use in postal administration proceedings[^key-0def04a14514c9a1cf0df855546d4147]
+## 95. Forms for use in postal administration proceedings[^c-0def04a14514c9a1cf0df855546d4147]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0def04a14514c9a1cf0df855546d4147]: Commencement: Rule 95 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-0def04a14514c9a1cf0df855546d4147]: Commencement: Rule 95 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

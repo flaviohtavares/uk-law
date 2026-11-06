@@ -46,149 +46,149 @@ Coming into force
 
 The Secretary of State is a designated [^c17631431] Minister for the purposes of section 2(2) of the European Communities Act 1972 [^c17631441] in relation to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment. The Secretary of State accordingly makes the following Regulations, in exercise of the powers conferred by that section.
 
-## 1. Citation, commencement and application[^key-1975ad489ecc221b20afdbcee45a5942]
+## 1. Citation, commencement and application[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999[^key-1975ad489ecc221b20afdbcee45a5942]
+## 2. Amendment of the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of the Regulations[^key-1975ad489ecc221b20afdbcee45a5942]
+## 3. Application of the Regulations[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 2[^key-1975ad489ecc221b20afdbcee45a5942]
+## 4. Amendment of regulation 2[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 4[^key-1975ad489ecc221b20afdbcee45a5942]
+## 5. Amendment of regulation 4[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 7[^key-1975ad489ecc221b20afdbcee45a5942]
+## 6. Amendment of regulation 7[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 8[^key-1975ad489ecc221b20afdbcee45a5942]
+## 7. Amendment of regulation 8[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 9[^key-1975ad489ecc221b20afdbcee45a5942]
+## 8. Amendment of regulation 9[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 13[^key-1975ad489ecc221b20afdbcee45a5942]
+## 9. Amendment of regulation 13[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 14[^key-1975ad489ecc221b20afdbcee45a5942]
+## 10. Amendment of regulation 14[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 15[^key-1975ad489ecc221b20afdbcee45a5942]
+## 11. Amendment of regulation 15[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 16[^key-1975ad489ecc221b20afdbcee45a5942]
+## 12. Amendment of regulation 16[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 19[^key-1975ad489ecc221b20afdbcee45a5942]
+## 13. Amendment of regulation 19[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 20[^key-1975ad489ecc221b20afdbcee45a5942]
+## 14. Amendment of regulation 20[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 21[^key-1975ad489ecc221b20afdbcee45a5942]
+## 15. Amendment of regulation 21[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 22[^key-1975ad489ecc221b20afdbcee45a5942]
+## 16. Amendment of regulation 22[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Planning permission granted by local development order[^key-1975ad489ecc221b20afdbcee45a5942]
+## 17. Planning permission granted by local development order[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of regulation 25[^key-1975ad489ecc221b20afdbcee45a5942]
+## 18. Amendment of regulation 25[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of regulation 27[^key-1975ad489ecc221b20afdbcee45a5942]
+## 19. Amendment of regulation 27[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of regulation 28[^key-1975ad489ecc221b20afdbcee45a5942]
+## 20. Amendment of regulation 28[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Consequential Amendment[^key-1975ad489ecc221b20afdbcee45a5942]
+## 21. Consequential Amendment[^c-1975ad489ecc221b20afdbcee45a5942]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Projects serving national defence projects in Scotland, Wales and Northern Ireland[^key-68a6c5d8ee0c57f30107e853cc95b271]
+## 22. Projects serving national defence projects in Scotland, Wales and Northern Ireland[^c-68a6c5d8ee0c57f30107e853cc95b271]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 23. Amendment of Schedule 1
 
-In Schedule 1, after paragraph 20, add— *(Extent: E.)* *(affected by repeal, see note)*[^key-67dc53a307d4227e944183356cc8cf5b]
+In Schedule 1, after paragraph 20, add— *(Extent: E.)* *(affected by repeal, see note)*[^c-67dc53a307d4227e944183356cc8cf5b]
 
-> **21 (Extent: E.) (affected by repeal, see note).[^key-67dc53a307d4227e944183356cc8cf5b]**
+> **21 (Extent: E.) (affected by repeal, see note).[^c-67dc53a307d4227e944183356cc8cf5b]**
 >
-> Any change to or extension of development listed in this Schedule where such a change or extension itself meets the thresholds, if any, or description of development set out in this Schedule. *(Extent: E.)* *(affected by repeal, see note)*[^key-67dc53a307d4227e944183356cc8cf5b]
+> Any change to or extension of development listed in this Schedule where such a change or extension itself meets the thresholds, if any, or description of development set out in this Schedule. *(Extent: E.)* *(affected by repeal, see note)*[^c-67dc53a307d4227e944183356cc8cf5b]
 
-. *(Extent: E.)* *(affected by repeal, see note)*[^key-67dc53a307d4227e944183356cc8cf5b]
+. *(Extent: E.)* *(affected by repeal, see note)*[^c-67dc53a307d4227e944183356cc8cf5b]
 
 ## 24. Amendment of Schedule 2
 
-In Schedule 2, in paragraph 13(a) in column 1 (description of development), after “in Schedule 1” insert *(Extent: E)* *(affected by repeal, see note)*[^key-907815aeb4fb9ea3c1d2982c23969dad] “ (other than a change or extension falling within paragraph 21 of that Schedule) ” *(Extent: E)* *(affected by repeal, see note)*[^key-907815aeb4fb9ea3c1d2982c23969dad]. *(Extent: E)* *(affected by repeal, see note)*[^key-907815aeb4fb9ea3c1d2982c23969dad]
+In Schedule 2, in paragraph 13(a) in column 1 (description of development), after “in Schedule 1” insert *(Extent: E)* *(affected by repeal, see note)*[^c-907815aeb4fb9ea3c1d2982c23969dad] “ (other than a change or extension falling within paragraph 21 of that Schedule) ” *(Extent: E)* *(affected by repeal, see note)*[^c-907815aeb4fb9ea3c1d2982c23969dad]. *(Extent: E)* *(affected by repeal, see note)*[^c-907815aeb4fb9ea3c1d2982c23969dad]
 
 Signed by authority of the Secretary of State
 
@@ -236,10 +236,10 @@ A Regulatory Impact Assessment has been prepared in relation to the Regulations.
 
 [^c17631441]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-1975ad489ecc221b20afdbcee45a5942]: Textual amendment: Regs. 1-21 revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
+[^c-1975ad489ecc221b20afdbcee45a5942]: Textual amendment: Regs. 1-21 revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
 
-[^key-68a6c5d8ee0c57f30107e853cc95b271]: Textual amendment: Reg. 22 revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
+[^c-68a6c5d8ee0c57f30107e853cc95b271]: Textual amendment: Reg. 22 revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
 
-[^key-67dc53a307d4227e944183356cc8cf5b]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/3295/regulation/23) revoked (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
+[^c-67dc53a307d4227e944183356cc8cf5b]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/3295/regulation/23) revoked (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
 
-[^key-907815aeb4fb9ea3c1d2982c23969dad]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2006/3295/regulation/24) revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))
+[^c-907815aeb4fb9ea3c1d2982c23969dad]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2006/3295/regulation/24) revoked (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1824/schedule/5) (with [reg. 65(2)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/65/2))

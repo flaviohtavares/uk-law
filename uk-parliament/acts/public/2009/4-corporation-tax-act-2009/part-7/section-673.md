@@ -26,7 +26,7 @@ summary: ''
 
 (3) L is the sum of the amounts of any allowable losses treated as accruing to the company under section 641(3)(b) in respect of the derivative contract in each relevant accounting period.
 
-(4) CV is the amount by which the tax-adjusted carrying value[^key-47662e434674b8c294764ef7290c4336] of the host contract at the date of the disposal exceeds the tax-adjusted carrying value of that contract at the date on which the company became a party to the creditor relationship mentioned in section 648(2).
+(4) CV is the amount by which the tax-adjusted carrying value[^c-47662e434674b8c294764ef7290c4336] of the host contract at the date of the disposal exceeds the tax-adjusted carrying value of that contract at the date on which the company became a party to the creditor relationship mentioned in section 648(2).
 
 (5) In this section—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47662e434674b8c294764ef7290c4336]: Textual amendment: Words in s. 673(4) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/86)
+[^c-47662e434674b8c294764ef7290c4336]: Textual amendment: Words in s. 673(4) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/86)

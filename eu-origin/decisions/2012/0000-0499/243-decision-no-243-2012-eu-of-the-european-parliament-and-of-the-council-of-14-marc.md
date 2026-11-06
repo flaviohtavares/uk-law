@@ -36,76 +36,76 @@ establishing a multiannual radio spectrum policy programme
 
 (Text with EEA relevance) (revoked)
 
-[^key-a5b66f095427f016f07965ff46830c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5b66f095427f016f07965ff46830c87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Aim and scope[^key-a5b66f095427f016f07965ff46830c87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. General regulatory principles[^key-a5b66f095427f016f07965ff46830c87]
+## Article 1. Aim and scope[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Policy objectives[^key-a5b66f095427f016f07965ff46830c87]
+## Article 2. General regulatory principles[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Enhanced efficiency and flexibility[^key-a5b66f095427f016f07965ff46830c87]
+## Article 3. Policy objectives[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Competition[^key-a5b66f095427f016f07965ff46830c87]
+## Article 4. Enhanced efficiency and flexibility[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Spectrum needs for wireless broadband communications[^key-a5b66f095427f016f07965ff46830c87]
+## Article 5. Competition[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Spectrum needs for other wireless communication policies[^key-a5b66f095427f016f07965ff46830c87]
+## Article 6. Spectrum needs for wireless broadband communications[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Spectrum needs for other specific Union policies[^key-a5b66f095427f016f07965ff46830c87]
+## Article 7. Spectrum needs for other wireless communication policies[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Inventory[^key-a5b66f095427f016f07965ff46830c87]
+## Article 8. Spectrum needs for other specific Union policies[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. International negotiations[^key-a5b66f095427f016f07965ff46830c87]
+## Article 9. Inventory[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Cooperation among various bodies[^key-a5b66f095427f016f07965ff46830c87]
+## Article 10. International negotiations[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Public consultation[^key-a5b66f095427f016f07965ff46830c87]
+## Article 11. Cooperation among various bodies[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Committee procedure[^key-a5b66f095427f016f07965ff46830c87]
+## Article 12. Public consultation[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Compliance with policy orientations and objectives[^key-a5b66f095427f016f07965ff46830c87]
+## Article 13. Committee procedure[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Reporting and review[^key-a5b66f095427f016f07965ff46830c87]
+## Article 14. Compliance with policy orientations and objectives[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Entry into force[^key-a5b66f095427f016f07965ff46830c87]
+## Article 15. Reporting and review[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Addressees[^key-a5b66f095427f016f07965ff46830c87]
+## Article 16. Entry into force[^c-a5b66f095427f016f07965ff46830c87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 17. Addressees[^c-a5b66f095427f016f07965ff46830c87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5b66f095427f016f07965ff46830c87]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5b66f095427f016f07965ff46830c87]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

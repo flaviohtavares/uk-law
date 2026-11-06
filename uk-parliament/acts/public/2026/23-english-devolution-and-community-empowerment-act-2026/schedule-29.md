@@ -22,7 +22,7 @@ summary: ''
 
 Section 61
 
-### 1. Requirements to have and retain leader and cabinet executive[^key-8a466807b1bc8c823aacc0c3078c16cc]
+### 1. Requirements to have and retain leader and cabinet executive[^c-8a466807b1bc8c823aacc0c3078c16cc]
 
 (1) LGA 2000 is amended in accordance with this paragraph.
 
@@ -59,7 +59,7 @@ Section 61
 >
 > (2) That duty applies to a local authority whenever it began to operate the leader and cabinet executive (England).
 
-### 2. Duty to move from committee system to leader and cabinet executive (England)[^key-0ff301e89042951ab677031b342cba41]
+### 2. Duty to move from committee system to leader and cabinet executive (England)[^c-0ff301e89042951ab677031b342cba41]
 
 (1) The LGA 2000 is amended in accordance with this paragraph.
 
@@ -191,7 +191,7 @@ Section 61
 
   .
 
-### 3. No new mayor and cabinet executives[^key-fcde8f6d25132f96b064db2dd9c30a52]
+### 3. No new mayor and cabinet executives[^c-fcde8f6d25132f96b064db2dd9c30a52]
 
 (1) This paragraph applies to a change to governance arrangements under Chapter 4 of Part 1A LGA 2000 if—
 
@@ -210,7 +210,7 @@ in accordance with the change to governance arrangements.
 - (a) cease to operate the committee system, and
 - (b) start to operate a leader and cabinet executive (England).
 
-**4.**[^key-8b1826f117eb5e26c12433769ba25a19] (1) LGA 2000 is amended as follows—
+**4.**[^c-8b1826f117eb5e26c12433769ba25a19] (1) LGA 2000 is amended as follows—
 
 (2) in section 9KA (executive arrangements: different form of executive)—
 
@@ -256,7 +256,7 @@ in accordance with the change to governance arrangements.
 
 (9) Omit section 9N (requiring referendum on change to mayor and cabinet executive).
 
-### 5. Abolition of permitted arrangements[^key-89b23eab8176619e3b15c093e1dad445]
+### 5. Abolition of permitted arrangements[^c-89b23eab8176619e3b15c093e1dad445]
 
 (1) LGA 2000 is amended in accordance with this paragraph.
 
@@ -275,7 +275,7 @@ in accordance with the change to governance arrangements.
 
 (5) In section 9R (interpretation of Part 1A), in subsection (1), omit the definition of “prescribed arrangements”.
 
-### 6. Other amendments[^key-6ba4d5ba8ac57ec2152075efd8524918]
+### 6. Other amendments[^c-6ba4d5ba8ac57ec2152075efd8524918]
 
 (1) LGA 2000 is amended in accordance with this paragraph.
 
@@ -289,14 +289,14 @@ in accordance with the change to governance arrangements.
 
 ## Annotations
 
-[^key-8a466807b1bc8c823aacc0c3078c16cc]: Commencement: [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-8a466807b1bc8c823aacc0c3078c16cc]: Commencement: [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-0ff301e89042951ab677031b342cba41]: Commencement: [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-0ff301e89042951ab677031b342cba41]: Commencement: [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-fcde8f6d25132f96b064db2dd9c30a52]: Commencement: [Sch. 29 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-fcde8f6d25132f96b064db2dd9c30a52]: Commencement: [Sch. 29 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-8b1826f117eb5e26c12433769ba25a19]: Commencement: [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-8b1826f117eb5e26c12433769ba25a19]: Commencement: [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-89b23eab8176619e3b15c093e1dad445]: Commencement: [Sch. 29 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-89b23eab8176619e3b15c093e1dad445]: Commencement: [Sch. 29 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-6ba4d5ba8ac57ec2152075efd8524918]: Commencement: [Sch. 29 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-6ba4d5ba8ac57ec2152075efd8524918]: Commencement: [Sch. 29 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

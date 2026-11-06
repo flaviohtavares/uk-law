@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Power to inspect documents, etc.[^key-3f783be655ff1a626ffc732eece17842][^key-1df67e8dc17e36a4a1b51569cee73efe]
+## 132. Power to inspect documents, etc.[^c-3f783be655ff1a626ffc732eece17842][^c-1df67e8dc17e36a4a1b51569cee73efe]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-3f783be655ff1a626ffc732eece17842]: Commencement: S. 132 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-3f783be655ff1a626ffc732eece17842]: Commencement: S. 132 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-1df67e8dc17e36a4a1b51569cee73efe]: Modification: [S. 132](https://www.legislation.gov.uk/ukpga/2006/40/section/132) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/2)
+[^c-1df67e8dc17e36a4a1b51569cee73efe]: Modification: [S. 132](https://www.legislation.gov.uk/ukpga/2006/40/section/132) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/2)

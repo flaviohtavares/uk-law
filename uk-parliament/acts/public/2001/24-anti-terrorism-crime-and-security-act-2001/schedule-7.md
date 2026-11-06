@@ -92,7 +92,7 @@ Section 101
 
 **8.** The Firearms Act 1968 has effect subject to the following amendments.
 
-**9.**[^key-6bb591e98407a6a7aaf8f1e44afca0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6bb591e98407a6a7aaf8f1e44afca0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 57(4), after the definition of “Article 7 authority” insert—
 
@@ -222,7 +222,7 @@ Section 101
 >
 > in any other case.
 
-**31.**[^key-e2c8ca4f1569774ad9dde43ad1faeb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-e2c8ca4f1569774ad9dde43ad1faeb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** In section 121—
 
@@ -260,10 +260,10 @@ Section 101
 
 [^c19528271]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/6) repealed (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 73](https://www.legislation.gov.uk/ukpga/2003/20/section/73), [118](https://www.legislation.gov.uk/ukpga/2003/20/section/118), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)(kkk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj/kkk)
 
-[^key-6bb591e98407a6a7aaf8f1e44afca0ca]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/9) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 112(2)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/112/2/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/8)
+[^c-6bb591e98407a6a7aaf8f1e44afca0ca]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/9) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 112(2)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/112/2/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/8)
 
 [^c19528281]: Textual amendment: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/25) repealed (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 73](https://www.legislation.gov.uk/ukpga/2003/20/section/73), [118](https://www.legislation.gov.uk/ukpga/2003/20/section/118), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/5/paragraph/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jjj)(kkk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jjj/kkk)
 
 [^c19534831]: Textual amendment: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/26) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197](https://www.legislation.gov.uk/ukpga/2004/20/section/197), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1) Table
 
-[^key-e2c8ca4f1569774ad9dde43ad1faeb11]: Textual amendment: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/31) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-e2c8ca4f1569774ad9dde43ad1faeb11]: Textual amendment: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2001/24/schedule/7/paragraph/31) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)

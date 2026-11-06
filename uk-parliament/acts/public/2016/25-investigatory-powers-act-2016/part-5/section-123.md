@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Modification of warrants issued by law enforcement chiefs[^key-6a0838ea73d2b9c60978bb858e70edab]
+## 123. Modification of warrants issued by law enforcement chiefs[^c-6a0838ea73d2b9c60978bb858e70edab]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a0838ea73d2b9c60978bb858e70edab]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2016/25/section/123) in force at 5.12.2018 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/c)
+[^c-6a0838ea73d2b9c60978bb858e70edab]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2016/25/section/123) in force at 5.12.2018 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/c)

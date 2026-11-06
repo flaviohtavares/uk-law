@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Manner in which duties to keep the complainant and interested person informed are to be performed[^key-502b0e6dbe44534f532aec1dfc7ca120]
+## 79. Manner in which duties to keep the complainant and interested person informed are to be performed[^c-502b0e6dbe44534f532aec1dfc7ca120]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ promptly and in any event within five working days of the outcome of the handlin
 
 ## Annotations
 
-[^key-502b0e6dbe44534f532aec1dfc7ca120]: Commencement: Reg. 79 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-502b0e6dbe44534f532aec1dfc7ca120]: Commencement: Reg. 79 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

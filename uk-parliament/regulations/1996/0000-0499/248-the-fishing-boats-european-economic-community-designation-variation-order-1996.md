@@ -32,7 +32,7 @@ SEA FISHERIES
 
 FISHERY LIMITS
 
-The Fishing Boats (European Economic Community) Designation (Variation) Order 1996 (revoked)[^key-54e1c4d4e27c981d8c3a4799dfc5b296]
+The Fishing Boats (European Economic Community) Designation (Variation) Order 1996 (revoked)[^c-54e1c4d4e27c981d8c3a4799dfc5b296]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 29th February 1996
 
-[^key-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-54e1c4d4e27c981d8c3a4799dfc5b296]
+## 1. Title and commencement[^c-54e1c4d4e27c981d8c3a4799dfc5b296]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of the Fishing Boats (European Economic Community) Designation Order 1983[^key-54e1c4d4e27c981d8c3a4799dfc5b296]
+## 2. Variation of the Fishing Boats (European Economic Community) Designation Order 1983[^c-54e1c4d4e27c981d8c3a4799dfc5b296]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54e1c4d4e27c981d8c3a4799dfc5b296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54e1c4d4e27c981d8c3a4799dfc5b296]: Textual amendment: Order revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(h)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/h) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-54e1c4d4e27c981d8c3a4799dfc5b296]: Textual amendment: Order revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(h)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/h) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Contact: children in care of local authorities[^key-d81b6ad94fba852b6689e2b8c499f201]
+## 8. Contact: children in care of local authorities[^c-d81b6ad94fba852b6689e2b8c499f201]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81b6ad94fba852b6689e2b8c499f201]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/6/section/8) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/889/article/6/d)
+[^c-d81b6ad94fba852b6689e2b8c499f201]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/6/section/8) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/889/article/6/d)

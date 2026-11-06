@@ -64,13 +64,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement, extent and application[^key-dc104aa6425e52b4d5ac4b0499703a0b]
+## 1. Citation, commencement, extent and application[^c-dc104aa6425e52b4d5ac4b0499703a0b]
 
 (1) These Regulations may be cited as the Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 (2) Any amendment made by these Regulations has the same extent and application as the provision to which it relates.
 
-## 2. Amendments to the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999[^key-401c756f1902561c6dc5796c019743d8]
+## 2. Amendments to the Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999[^c-401c756f1902561c6dc5796c019743d8]
 
 (1) The Environmental Impact Assessment (Land Drainage Improvement Works) Regulations 1999 [^c23525151] are amended as follows.
 
@@ -103,7 +103,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (ii) after “requirements of” insert “ any law that implemented ”.
 - (c) In Schedule 2, in paragraph 2(c)(vi), after “EU legislation” insert “ as it applied in the United Kingdom immediately prior to exit day, or in retained EU law ”.
 
-## 3. Amendments to the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^key-c3445bffeadb047948c91e6f9a8f832d]
+## 3. Amendments to the Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999[^c-c3445bffeadb047948c91e6f9a8f832d]
 
 (1) The Environmental Impact Assessment (Forestry) (England and Wales) Regulations 1999 [^c23525161] are amended as follows.
 
@@ -152,7 +152,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (ii) after “requirements of” insert “ any law that implemented ”.
 - (c) In Schedule 4, in paragraph (b), after the word “under” insert “ any law of any part of the United Kingdom that implemented ”.
 
-## 4. Amendments to the Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003[^key-0fba7487b4d47bfcf12a86e1c7d8fbec]
+## 4. Amendments to the Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003[^c-0fba7487b4d47bfcf12a86e1c7d8fbec]
 
 (1) The Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003 [^c23525201] are amended as follows.
 
@@ -187,7 +187,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (i) for “EU legislation such as” substitute “ retained EU law such as any law that implemented ”
   - (ii) after “requirements of” substitute “ any law that implemented ”.
 
-## 5. Amendments to the Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006[^key-bda4ee65a2c750d5f856fcbb0b864180]
+## 5. Amendments to the Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006[^c-bda4ee65a2c750d5f856fcbb0b864180]
 
 (1) The Environmental Impact Assessment (Agriculture) (England) (No.2) Regulations 2006 [^c23525211] are amended as follows.
 
@@ -201,7 +201,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
     ;
   - (ii) after the definition of “project” insert—
 
-    > “**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom[^key-c3636badcdf88ae5502d9aaa45782075], their associations, organisations or groups;
+    > “**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom[^c-c3636badcdf88ae5502d9aaa45782075], their associations, organisations or groups;
     >
     > “**public concerned**” means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom are deemed to have an interest);
 
@@ -249,7 +249,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (i) for “EU legislation such as” substitute “ retained EU law such as any law that implemented ”;
   - (ii) after “requirements of” insert “ any law that implemented ”.
 
-## 6. Amendments to the Marine Works (Environmental Impact Assessment) Regulations 2007[^key-a721bba7b05e005285d99319ac415edc]
+## 6. Amendments to the Marine Works (Environmental Impact Assessment) Regulations 2007[^c-a721bba7b05e005285d99319ac415edc]
 
 (1) The Marine Works (Environmental Impact Assessment) Regulations 2007 [^c23525221] are amended as follows.
 
@@ -262,7 +262,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   ;
 - (b) after the definition of “Northern Ireland” insert—
 
-  > “**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom[^key-27abcc8ecb7e8c734272071054ec8fbd], their associations, organisations or groups;
+  > “**public**” means one or more natural or legal persons and, in accordance with the law or practice of any part of the United Kingdom[^c-27abcc8ecb7e8c734272071054ec8fbd], their associations, organisations or groups;
   >
   > “**public concerned**” means the public affected or likely to be affected by, or having an interest in, environmental decision making procedures (for the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under the law of any part of the United Kingdom are deemed to have an interest);
 
@@ -379,13 +379,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23525141]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-dc104aa6425e52b4d5ac4b0499703a0b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dc104aa6425e52b4d5ac4b0499703a0b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-401c756f1902561c6dc5796c019743d8]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-401c756f1902561c6dc5796c019743d8]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23525151]: Marginal citation: [S.I. 1999/1783](https://www.legislation.gov.uk/uksi/1999/1783), amended by [S.I. 2017/585](https://www.legislation.gov.uk/uksi/2017/585); there are other amending instruments but none is relevant.
 
-[^key-c3445bffeadb047948c91e6f9a8f832d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c3445bffeadb047948c91e6f9a8f832d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23525161]: Marginal citation: [S.I. 1999/2228](https://www.legislation.gov.uk/uksi/1999/2228); relevant amending instruments are [S.I. 2006/3106](https://www.legislation.gov.uk/uksi/2006/3106), 2013/755 (W. 90) and 2017/592.
 
@@ -395,20 +395,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23525191]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), to which there are amendments not relevant to these Regulations.
 
-[^key-0fba7487b4d47bfcf12a86e1c7d8fbec]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0fba7487b4d47bfcf12a86e1c7d8fbec]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23525201]: Marginal citation: [S.I. 2003/164](https://www.legislation.gov.uk/uksi/2003/164), amended by [S.I. 2017/583](https://www.legislation.gov.uk/uksi/2017/583); there are other amending instruments but none is relevant.
 
-[^key-bda4ee65a2c750d5f856fcbb0b864180]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bda4ee65a2c750d5f856fcbb0b864180]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23525211]: Marginal citation: [S.I. 2006/2522](https://www.legislation.gov.uk/uksi/2006/2522), amended by [S.I. 2017/593](https://www.legislation.gov.uk/uksi/2017/593); there are other amending instruments but none is relevant.
 
-[^key-c3636badcdf88ae5502d9aaa45782075]: Textual amendment: Words in reg. 5(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1078/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3636badcdf88ae5502d9aaa45782075]: Textual amendment: Words in reg. 5(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1078/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a721bba7b05e005285d99319ac415edc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a721bba7b05e005285d99319ac415edc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23525221]: Marginal citation: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518); relevant amending instruments are [S.I. 2011/735](https://www.legislation.gov.uk/uksi/2011/735), 2015/446, 2017/588 and [S.S.I. 2017/115](https://www.legislation.gov.uk/ssi/2017/115).
 
-[^key-27abcc8ecb7e8c734272071054ec8fbd]: Textual amendment: Words in reg. 6(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1078/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27abcc8ecb7e8c734272071054ec8fbd]: Textual amendment: Words in reg. 6(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1078/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23525231]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Transfer of property of Homes and Communities Agency etc[^key-f164b1bde532aafaf0e15e37ff7504b9]
+## 190. Transfer of property of Homes and Communities Agency etc[^c-f164b1bde532aafaf0e15e37ff7504b9]
 
 *Extent: E+W*
 
@@ -35,13 +35,13 @@ summary: ''
 
 - “**company**” means—
   - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-827abb6e2bcfec866c9b80c99e789542] the Industrial and Provident Societies Act (Northern Ireland) 1969;
+  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-827abb6e2bcfec866c9b80c99e789542] the Industrial and Provident Societies Act (Northern Ireland) 1969;
 - “**functional body**” has the meaning given by section 424(1) of the Greater London Authority Act 1999;
 - “rights” and “liabilities” include rights, or (as the case may be) liabilities, in relation to a contract of employment;
 - “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
 ## Annotations
 
-[^key-f164b1bde532aafaf0e15e37ff7504b9]: Commencement: S. 190 in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(x)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/x) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-f164b1bde532aafaf0e15e37ff7504b9]: Commencement: S. 190 in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(x)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/x) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-827abb6e2bcfec866c9b80c99e789542]: Textual amendment: Words in s. 190(3) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 176](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/176) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-827abb6e2bcfec866c9b80c99e789542]: Textual amendment: Words in s. 190(3) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 176](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/176) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

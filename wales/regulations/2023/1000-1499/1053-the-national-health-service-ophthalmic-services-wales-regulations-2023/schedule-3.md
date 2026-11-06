@@ -24,7 +24,7 @@ Regulations 10, 12, 13, 15, 16, 17, 19, 28 and 38
 
 ### PART 1 — Information in the combined list
 
-#### 1. Information in the ophthalmic list[^key-7138fe44d3b64042cad9f91f72af0361]
+#### 1. Information in the ophthalmic list[^c-7138fe44d3b64042cad9f91f72af0361]
 
 A Local Health Board’s ophthalmic list must contain the following information—
 
@@ -40,7 +40,7 @@ A Local Health Board’s ophthalmic list must contain the following information�
 - (h) particulars of the days on which and hours between which the qualified practitioner has agreed to provide primary ophthalmic services at those addresses, or in the case of visits to day or residential centres by a mobile practice, the months in which visits are intended to take place and the planned interval between such visits, as agreed with the Local Health Board;
 - (i) the names of every other qualified practitioner who is regularly engaged as a deputy, director or employee in assisting in the provision of primary ophthalmic services at any of those addresses or in the provision of mobile services.
 
-#### 2. Information in the supplementary list[^key-e73b460aca33815b781ae288e9dc811f]
+#### 2. Information in the supplementary list[^c-e73b460aca33815b781ae288e9dc811f]
 
 A Local Health Board’s supplementary list must contain the following information—
 
@@ -53,7 +53,7 @@ A Local Health Board’s supplementary list must contain the following informati
 
 ### PART 2 — Information and undertakings to be provided in applications
 
-#### 3. Ophthalmic lists: information to be included in an application[^key-875d242725d0814bc26d89996765009a]
+#### 3. Ophthalmic lists: information to be included in an application[^c-875d242725d0814bc26d89996765009a]
 
 A qualified practitioner applying to be included in a Local Health Board’s ophthalmic list must provide the following information—
 
@@ -79,7 +79,7 @@ A qualified practitioner applying to be included in a Local Health Board’s oph
 - (r) all necessary authority to enable a request to be made by the Local Health Board to any employer (or former employer), licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, by them into the qualified practitioner;
 - (s) any other information the Local Health Board may reasonably require.
 
-#### 4. Ophthalmic lists: undertakings and consent[^key-4b6caa9d08f0a5458695de10b9e2d952]
+#### 4. Ophthalmic lists: undertakings and consent[^c-4b6caa9d08f0a5458695de10b9e2d952]
 
 A qualified practitioner applying to be included in a Local Health Board’s ophthalmic list must provide the following undertakings and consent—
 
@@ -88,7 +88,7 @@ A qualified practitioner applying to be included in a Local Health Board’s oph
 - (c) an undertaking to neither provide nor assist in the provision of primary ophthalmic services in the area of another Local Health Board or equivalent body from whose combined list or equivalent list the qualified practitioner has been removed, except where that removal was at the qualified practitioner’s request or in accordance with regulation 17(3)(e), without the consent, in writing of that Local Health Board or equivalent body;
 - (d) consent to the disclosure of information in accordance with these Regulations.
 
-#### 5. Supplementary lists: information to be provided in an application[^key-01ebb77628c73c25f773e02d9b7cec6d]
+#### 5. Supplementary lists: information to be provided in an application[^c-01ebb77628c73c25f773e02d9b7cec6d]
 
 A qualified practitioner applying to be included in a Local Health Board’s supplementary list must provide the following information—
 
@@ -106,7 +106,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 - (l) where the practitioner is or was, in the preceding six months or at the time of the originating events, a director of a body corporate, details of any combined list or equivalent list to which that body has been refused admission, in which it has been conditionally included, from which it has been removed, contingently removed or from which it is currently suspended, with an explanation as to why and details of the Local Health Board or equivalent body concerned;
 - (m) any other information the Local Health Board may reasonably require.
 
-#### 6. Supplementary lists: undertakings and consents[^key-cbf931a0d70a4832385d3720e0f64ab2]
+#### 6. Supplementary lists: undertakings and consents[^c-cbf931a0d70a4832385d3720e0f64ab2]
 
 A qualified practitioner applying to be included in a Local Health Board’s supplementary list must provide the following undertakings and consents—
 
@@ -117,7 +117,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 - (e) consent to the disclosure of information in accordance with these Regulations;
 - (f) consent a request being made by the Local Health Board to any employer (or former employer), licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, by them into the qualified practitioner.
 
-#### 7. Declarations[^key-eeec7d6b51208b202526adfe2d0e6d8e]
+#### 7. Declarations[^c-eeec7d6b51208b202526adfe2d0e6d8e]
 
 (1) A qualified practitioner applying to be included in the Local Health Board’s combined list must declare whether the qualified practitioner—
 
@@ -171,7 +171,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 
 ### PART 3 — Determination of applications
 
-**8.**[^key-860c3f11b0a192fe34c8de2f2423c32a] The grounds on which a Local Health Board must refuse to include a qualified practitioner in its combined list are that—
+**8.**[^c-860c3f11b0a192fe34c8de2f2423c32a] The grounds on which a Local Health Board must refuse to include a qualified practitioner in its combined list are that—
 
 - (a) the qualified practitioner has been convicted in the United Kingdom of murder;
 - (b) the qualified practitioner is the subject of a national disqualification;
@@ -184,7 +184,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 - (g) except in relation to a student optometrist, the Local Health Board considers that the qualified practitioner is not qualified to provide, or assist in the provision of, primary ophthalmic services (as appropriate);
 - (h) in relation to a student optometrist, the Local Health Board considers that the person is not qualified to assist in the provision of services under supervision.
 
-**9.**[^key-7d5f28c7fdae3250f8326108f8b99fec] The grounds on which a Local Health Board may refuse to include a qualified practitioner in its combined list are that—
+**9.**[^c-7d5f28c7fdae3250f8326108f8b99fec] The grounds on which a Local Health Board may refuse to include a qualified practitioner in its combined list are that—
 
 - (a) the Local Health Board, having reviewed the qualified practitioner’s application and any other relevant information or documents, considers the qualified practitioner is unsuitable to be included in its combined list;
 - (b) the Local Health Board, having checked the information provided by the qualified practitioner, is not satisfied with the information provided in the qualified practitioner’s application;
@@ -194,7 +194,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 - (f) having checked with the Welsh Ministers for any facts that they consider relevant relating to past or current investigations or proceedings involving or relating to the qualified practitioner and, having considered these and any other facts in its possession involving or relating to the qualified practitioner, the Local Health Board considers that these justify such refusal;
 - (g) on or after 30 July 2002 in the case of the ophthalmic list, or on or after 1 February 2006 in the case of the supplementary list, the qualified practitioner has been convicted in the United Kingdom of any criminal offence (other than murder) and has been sentenced to a term of imprisonment (whether suspended or not) of over 6 months.
 
-**10.**[^key-60f4f9c7e84b5a92a239134a9e10eee5] (1) Where the Local Health Board is considering a refusal of a qualified practitioner’s application on a ground contained in paragraph 9, it must consider all facts which appear to it to be relevant including—
+**10.**[^c-60f4f9c7e84b5a92a239134a9e10eee5] (1) Where the Local Health Board is considering a refusal of a qualified practitioner’s application on a ground contained in paragraph 9, it must consider all facts which appear to it to be relevant including—
 
 - (a) the nature of any offence, investigation or incident;
 - (b) the length of time since any such offence, incident, conviction or investigation;
@@ -210,7 +210,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 
 ### PART 4 — Deferral of decisions
 
-**11.**[^key-55729e829540e348d2b59e09dd5198ca] (1) The circumstances referred to in regulation 15 are—
+**11.**[^c-55729e829540e348d2b59e09dd5198ca] (1) The circumstances referred to in regulation 15 are—
 
 - (a) the qualified practitioner is suspended from a primary care list or equivalent list;
 - (b) a body corporate of which the qualified practitioner is, has in the preceding 6 months been, or was at the time of the originating events, a director, is suspended from a primary care list or equivalent list;
@@ -236,7 +236,7 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 
 ### PART 5 — Removal from a combined list
 
-#### 12. Procedure for removal under these Regulations[^key-cb11fa7d55b2ecdbe227af495c3839ea]
+#### 12. Procedure for removal under these Regulations[^c-cb11fa7d55b2ecdbe227af495c3839ea]
 
 (1) In the circumstances in sub-paragraph (4), a Local Health Board must give the qualified practitioner—
 
@@ -255,18 +255,18 @@ A qualified practitioner applying to be included in a Local Health Board’s sup
 - (b) removal for breach of a condition imposed under regulation 14, or
 - (c) contingent removal under regulation 19.
 
-#### 13. Procedure for removal under the Act[^key-9df0fac00ff4ddabc5b9505a5f9ffe3b]
+#### 13. Procedure for removal under the Act[^c-9df0fac00ff4ddabc5b9505a5f9ffe3b]
 
 A Local Health Board must follow the procedure set out in paragraph 12(1) to (3) where it is considering—
 
 - (a) removing a qualified practitioner from its ophthalmic list under section 107 of the Act (disqualification of practitioners), or
 - (b) contingently removing a qualified practitioner from its ophthalmic list under section 108 of the Act.
 
-#### 14. Factors to be considered before removal[^key-89695eaf625c103b319172a08ca87125]
+#### 14. Factors to be considered before removal[^c-89695eaf625c103b319172a08ca87125]
 
 In making any decision under section 107 of the Act (disqualification of practitioners) or regulation 17(3)(d) of these Regulations, the Local Health Board must take into account the overall effect of any relevant incidents and offences relating to the qualified practitioner of which it is aware, whichever condition it relies on.
 
-#### 15. Factors relating to unsuitability cases[^key-161013bd45f416bad64cf984b595bada]
+#### 15. Factors relating to unsuitability cases[^c-161013bd45f416bad64cf984b595bada]
 
 (1) Where a Local Health Board is considering whether to remove a qualified practitioner from its combined list under section 107(4) of the Act (disqualification of practitioners) or under regulation 17(3)(d) of these Regulations, in relation to an unsuitability case, it must—
 
@@ -286,7 +286,7 @@ In making any decision under section 107 of the Act (disqualification of practit
 - (h) whether the qualified practitioner is, has in the preceding 6 months been, or was at the time of the originating events, a director of a body corporate which was refused admission to, conditionally included in, removed or contingently removed from a primary care list or equivalent list or is currently suspended from any such list, and if so, what the facts were in each such case and the reasons given by the Local Health Board or equivalent body in each case for such action;
 - (i) in the case of a corporate optician, whether a person who, at the time of the originating events, was one of its directors, has been refused admittance to, conditionally included in, removed, contingently removed or suspended from a primary care list, or equivalent list and, if so, the facts relating to the matter which led to such action and the reasons given by the Local Health Board or equivalent body for such action.
 
-#### 16. Factors relating to fraud cases[^key-5996685816e960c066d0ae6361a96f5c]
+#### 16. Factors relating to fraud cases[^c-5996685816e960c066d0ae6361a96f5c]
 
 (1) Where a Local Health Board is considering whether to remove a qualified practitioner from its combined list under section 107(3) of the Act (disqualification of practitioners) or under regulation 17(3)(d) of these Regulations, in relation to a fraud case, it must—
 
@@ -305,7 +305,7 @@ In making any decision under section 107 of the Act (disqualification of practit
 - (g) whether the qualified practitioner is, has in the preceding 6 months been, or was at the time of the originating events, a director of a body corporate, which was refused admission to, conditionally included in, removed or contingently removed from, a primary care list or equivalent list, or is currently suspended from any such list, and if so, what the facts were in each such case and the reasons given by the Local Health Board or equivalent body in each case;
 - (h) in the case of a corporate optician, whether a person who, at the time of the originating events, was one of its directors, has been refused admittance to, conditionally included in, removed, contingently removed or suspended from a primary care list or equivalent list and, if so, the facts relating to the matter which led to such action and the reasons given by the Local Health Board or equivalent body for such action.
 
-#### 17. Factors relating to efficiency cases[^key-c479758db4801e857ee6040787d13967]
+#### 17. Factors relating to efficiency cases[^c-c479758db4801e857ee6040787d13967]
 
 (1) Where a Local Health Board is considering the removal of a qualified practitioner from its combined list under section 107(2) of the Act (disqualification of practitioners) or under regulation 17(3)(d) of these Regulations, in relation to an efficiency case, it must—
 
@@ -329,7 +329,7 @@ In making any decision under section 107 of the Act (disqualification of practit
 
 ### PART 6 — Interpretation
 
-#### 18. Interpretation[^key-95e6c7282d0298a8bd5d4d11b37fc6bf]
+#### 18. Interpretation[^c-95e6c7282d0298a8bd5d4d11b37fc6bf]
 
 In this Schedule—
 
@@ -343,44 +343,44 @@ In this Schedule—
 
 ## Annotations
 
-[^key-7138fe44d3b64042cad9f91f72af0361]: Commencement: Sch. 3 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-7138fe44d3b64042cad9f91f72af0361]: Commencement: Sch. 3 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-e73b460aca33815b781ae288e9dc811f]: Commencement: Sch. 3 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-e73b460aca33815b781ae288e9dc811f]: Commencement: Sch. 3 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-875d242725d0814bc26d89996765009a]: Commencement: Sch. 3 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-875d242725d0814bc26d89996765009a]: Commencement: Sch. 3 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-4b6caa9d08f0a5458695de10b9e2d952]: Commencement: Sch. 3 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-4b6caa9d08f0a5458695de10b9e2d952]: Commencement: Sch. 3 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-01ebb77628c73c25f773e02d9b7cec6d]: Commencement: Sch. 3 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-01ebb77628c73c25f773e02d9b7cec6d]: Commencement: Sch. 3 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-cbf931a0d70a4832385d3720e0f64ab2]: Commencement: Sch. 3 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-cbf931a0d70a4832385d3720e0f64ab2]: Commencement: Sch. 3 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-eeec7d6b51208b202526adfe2d0e6d8e]: Commencement: Sch. 3 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-eeec7d6b51208b202526adfe2d0e6d8e]: Commencement: Sch. 3 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00051]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^f00052]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-860c3f11b0a192fe34c8de2f2423c32a]: Commencement: Sch. 3 para. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-860c3f11b0a192fe34c8de2f2423c32a]: Commencement: Sch. 3 para. 8 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-7d5f28c7fdae3250f8326108f8b99fec]: Commencement: Sch. 3 para. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-7d5f28c7fdae3250f8326108f8b99fec]: Commencement: Sch. 3 para. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-60f4f9c7e84b5a92a239134a9e10eee5]: Commencement: Sch. 3 para. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-60f4f9c7e84b5a92a239134a9e10eee5]: Commencement: Sch. 3 para. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00053]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-55729e829540e348d2b59e09dd5198ca]: Commencement: Sch. 3 para. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-55729e829540e348d2b59e09dd5198ca]: Commencement: Sch. 3 para. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-cb11fa7d55b2ecdbe227af495c3839ea]: Commencement: Sch. 3 para. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-cb11fa7d55b2ecdbe227af495c3839ea]: Commencement: Sch. 3 para. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-9df0fac00ff4ddabc5b9505a5f9ffe3b]: Commencement: Sch. 3 para. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-9df0fac00ff4ddabc5b9505a5f9ffe3b]: Commencement: Sch. 3 para. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-89695eaf625c103b319172a08ca87125]: Commencement: Sch. 3 para. 14 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-89695eaf625c103b319172a08ca87125]: Commencement: Sch. 3 para. 14 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-161013bd45f416bad64cf984b595bada]: Commencement: Sch. 3 para. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-161013bd45f416bad64cf984b595bada]: Commencement: Sch. 3 para. 15 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-5996685816e960c066d0ae6361a96f5c]: Commencement: Sch. 3 para. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-5996685816e960c066d0ae6361a96f5c]: Commencement: Sch. 3 para. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-c479758db4801e857ee6040787d13967]: Commencement: Sch. 3 para. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c479758db4801e857ee6040787d13967]: Commencement: Sch. 3 para. 17 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-95e6c7282d0298a8bd5d4d11b37fc6bf]: Commencement: Sch. 3 para. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-95e6c7282d0298a8bd5d4d11b37fc6bf]: Commencement: Sch. 3 para. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

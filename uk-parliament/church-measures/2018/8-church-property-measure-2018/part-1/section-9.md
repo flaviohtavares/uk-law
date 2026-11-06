@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. Return of gift of land to be used for parsonage house[^key-793c31bf10ed58242dfde82c644ffcfe]
+## 9. Return of gift of land to be used for parsonage house[^c-793c31bf10ed58242dfde82c644ffcfe]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-793c31bf10ed58242dfde82c644ffcfe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/8/section/9) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-793c31bf10ed58242dfde82c644ffcfe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/8/section/9) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

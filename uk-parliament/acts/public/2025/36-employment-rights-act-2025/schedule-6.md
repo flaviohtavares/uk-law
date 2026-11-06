@@ -24,19 +24,19 @@ Section 60
 
 ### Part 1 — Introduction
 
-**1.**[^key-157926a79e3231a986369529a0f3ad47][^key-50011fa939d2e3fa4728e5e7e2a537f2][^key-7448f495a45048635bfef4b81faa0f3e][^key-182bddf34be9d18780ba52660b1cc4d1] Schedule A1 to the Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with Parts 2 to 5 of this Schedule.
+**1.**[^c-157926a79e3231a986369529a0f3ad47][^c-50011fa939d2e3fa4728e5e7e2a537f2][^c-7448f495a45048635bfef4b81faa0f3e][^c-182bddf34be9d18780ba52660b1cc4d1] Schedule A1 to the Trade Union and Labour Relations (Consolidation) Act 1992 is amended in accordance with Parts 2 to 5 of this Schedule.
 
-**2.**[^key-94dda4b1bcaffac64bd9ee5666fcb537][^key-94883152fc866a845fc5dc21088c9f90] Part 6 of this Schedule contains consequential amendments to the Employment Relations Act 2004.
+**2.**[^c-94dda4b1bcaffac64bd9ee5666fcb537][^c-94883152fc866a845fc5dc21088c9f90] Part 6 of this Schedule contains consequential amendments to the Employment Relations Act 2004.
 
 ### Part 2 — Recognition
 
-#### 3. Meaning of “the application day”[^key-e6b17da20d9d8707399c0ff674b44f72][^key-948c61bfd9da496fa64df0a4223d961d]
+#### 3. Meaning of “the application day”[^c-e6b17da20d9d8707399c0ff674b44f72][^c-948c61bfd9da496fa64df0a4223d961d]
 
 In paragraph 2 (interpretation of Part 1 of Schedule A1), after sub-paragraph (5) insert—
 
 > (6) In relation to an application under paragraph 11 or 12, a reference to the application day is to the day on which the CAC receives the application.
 
-#### 4. Acceptance of applications[^key-f20294ddab5fe0c7aa211e801c1edffb][^key-6cd423572be2c286571c5baa24e45651]
+#### 4. Acceptance of applications[^c-f20294ddab5fe0c7aa211e801c1edffb][^c-6cd423572be2c286571c5baa24e45651]
 
 After paragraph 13 insert—
 
@@ -117,39 +117,39 @@ After paragraph 13 insert—
 > - (e) the CAC giving notice to the union (or unions) of a declaration issued under paragraph 13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5), 22(2) or 27(2) in relation to the application;
 > - (f) the holding of any ballot arising from the application.
 
-**5.**[^key-b7d4af0d1f434f209d141d596ece051f] (1)[^key-12678710db4c1c0bc8183954c8e81ef8][^key-d54cd06b12b4844f1aef9867248a72bb] Paragraph 14 (acceptance of applications: multiple applications) is amended as follows.
+**5.**[^c-b7d4af0d1f434f209d141d596ece051f] (1)[^c-12678710db4c1c0bc8183954c8e81ef8][^c-d54cd06b12b4844f1aef9867248a72bb] Paragraph 14 (acceptance of applications: multiple applications) is amended as follows.
 
-(2)[^key-a852bbc1ab7735a6a0549bf2f7459a71] After sub-paragraph (1) insert—
+(2)[^c-a852bbc1ab7735a6a0549bf2f7459a71] After sub-paragraph (1) insert—
 
 > (1A) For the purposes of sub-paragraph (1)(b), any worker who joined any of the relevant bargaining units after the application day is to be disregarded.
 
-(3)[^key-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (4), for “10 per cent test” substitute “required percentage test”.
+(3)[^c-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (4), for “10 per cent test” substitute “required percentage test”.
 
-(4)[^key-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (5)—
+(4)[^c-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (5)—
 
 - (a) for “10 per cent test” substitute “required percentage test”;
 - (b) for “at least 10 per cent” substitute “at least the required percentage (see paragraph 171B)”.
 
-(5)[^key-a852bbc1ab7735a6a0549bf2f7459a71] After sub-paragraph (5) insert—
+(5)[^c-a852bbc1ab7735a6a0549bf2f7459a71] After sub-paragraph (5) insert—
 
 > (5A) For the purposes of sub-paragraph (5), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
-(6)[^key-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (7)—
+(6)[^c-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (7)—
 
 - (a) in paragraph (a), for “10 per cent test” substitute “required percentage test”;
 - (b) in paragraph (b), for “10 per cent test” substitute “required percentage test”.
 
-(7)[^key-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (8), for “10 per cent test” substitute “required percentage test”.
+(7)[^c-f6024965b9223e423291ec1838c73e3b] In sub-paragraph (8), for “10 per cent test” substitute “required percentage test”.
 
-#### 6. Withdrawal of application[^key-1e0fa30a9a0836e06746f3eb5e4566d0][^key-d3aff8caf2ca51313804d2453d76bc91]
+#### 6. Withdrawal of application[^c-1e0fa30a9a0836e06746f3eb5e4566d0][^c-d3aff8caf2ca51313804d2453d76bc91]
 
 In paragraph 16 (withdrawal of application), in sub-paragraph (1)(a), for “19F(5)” substitute “13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)”.
 
-#### 7. Notice to cease consideration of application[^key-44af1b3dfea87b9cfe4c9c91345414dd][^key-645f923c97da7bf2bf406e0ae5d7d4dc]
+#### 7. Notice to cease consideration of application[^c-44af1b3dfea87b9cfe4c9c91345414dd][^c-645f923c97da7bf2bf406e0ae5d7d4dc]
 
 In paragraph 17 (notice to cease consideration of application), in sub-paragraph (3)(a), for “19F(5)” substitute “13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)”.
 
-#### 8. Communication with workers through independent person after application[^key-b06015e5c5e024033ca0a98114d3614c][^key-1cd18d41782b2cf0460083ae7057419a]
+#### 8. Communication with workers through independent person after application[^c-b06015e5c5e024033ca0a98114d3614c][^c-1cd18d41782b2cf0460083ae7057419a]
 
 (1) Paragraph 19C (appointment of independent person to handle communications between union and workers) is amended as follows.
 
@@ -161,7 +161,7 @@ In paragraph 17 (notice to cease consideration of application), in sub-paragraph
 
 (4) In sub-paragraph (7), for “an application” substitute “a valid application”.
 
-#### 9. Access agreements[^key-248ba6cbe1759926815d7d41ea1092b7][^key-332a55593a08ea9329e40a09a0eb7b9b][^key-809e02ca99c906731ed5bde2b052a868]
+#### 9. Access agreements[^c-248ba6cbe1759926815d7d41ea1092b7][^c-332a55593a08ea9329e40a09a0eb7b9b][^c-809e02ca99c906731ed5bde2b052a868]
 
 After paragraph 19F insert—
 
@@ -311,7 +311,7 @@ After paragraph 19F insert—
 > - (a) the power of ACAS under section 199(1);
 > - (b) the power of the Secretary of State under section 203(1)(a).
 
-#### 10. Unfair practices[^key-d075762d2f9c5a422f52f43e4bc5d02d][^key-3cf56d3866f9101694d5816e9ee45f6f][^key-fbdd1c8c822d751639b49bca26869618]
+#### 10. Unfair practices[^c-d075762d2f9c5a422f52f43e4bc5d02d][^c-3cf56d3866f9101694d5816e9ee45f6f][^c-fbdd1c8c822d751639b49bca26869618]
 
 After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
@@ -419,7 +419,7 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 >
 > (6) The powers conferred by this paragraph are in addition to those conferred by paragraph 19O.
 
-#### 11. Powers of CAC on proceeding with application[^key-b88bb73f12c2445df2f5adc716dca936][^key-bbaef2a89d1e7ccc7bd7e57ad4061af8]
+#### 11. Powers of CAC on proceeding with application[^c-b88bb73f12c2445df2f5adc716dca936][^c-bbaef2a89d1e7ccc7bd7e57ad4061af8]
 
 (1) Paragraph 22 (powers of CAC where majority of workers are members of union) is amended as follows.
 
@@ -435,7 +435,7 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 > (4A) For the purposes of sub-paragraph (4)(b) and (c), evidence from or relating to a worker who joined the bargaining unit after the application day is to be disregarded.
 
-**12.**[^key-b5f51c5268b5def299eed850a64de0c9][^key-1035657a225d8fadf7d70c0739ae4a6d] (1) Paragraph 23 (CAC to order ballot where majority of workers are not members of union) is amended as follows.
+**12.**[^c-b5f51c5268b5def299eed850a64de0c9][^c-1035657a225d8fadf7d70c0739ae4a6d] (1) Paragraph 23 (CAC to order ballot where majority of workers are not members of union) is amended as follows.
 
 (2) In sub-paragraph (1)(a), for “19F(5)” substitute “13B(6), 19F(5), 19K(4) or (5) or 19P(4) or (5)”.
 
@@ -445,7 +445,7 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 (4) In sub-paragraph (2), after “bargaining unit” insert “, other than those who joined the bargaining unit after the application day,”.
 
-#### 13. Ballots[^key-b57cab9957f39b6304964cbba2db1aaf][^key-04ef3e761f80744f11645451a7283d2d]
+#### 13. Ballots[^c-b57cab9957f39b6304964cbba2db1aaf][^c-04ef3e761f80744f11645451a7283d2d]
 
 (1) Paragraph 24 (notice of holding of ballot) is amended as follows.
 
@@ -475,11 +475,11 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
   - (ii) for the words from “the CAC’s notice” to the end substitute “that notice”;
 - (c) in paragraph (b), for “so starting” substitute “starting with the day mentioned in paragraph (za) or (a) (as the case may be)”.
 
-**14.**[^key-0f73fd27d8eaf12b37419049c2ea03e2][^key-407ab182cdef656eaa39b37648314ad9] In paragraph 25 (rules relating to ballot), after sub-paragraph (1) insert—
+**14.**[^c-0f73fd27d8eaf12b37419049c2ea03e2][^c-407ab182cdef656eaa39b37648314ad9] In paragraph 25 (rules relating to ballot), after sub-paragraph (1) insert—
 
 > (1A) A worker who joined the bargaining unit after the application day is not eligible to vote in the ballot.
 
-**15.**[^key-c6bc11147b879b3853362979c9f6c31e][^key-bf7c3d21701570f59559986500eb961b] (1) Paragraph 26 (duties of employer in relation to ballot) is amended as follows.
+**15.**[^c-c6bc11147b879b3853362979c9f6c31e][^c-bf7c3d21701570f59559986500eb961b] (1) Paragraph 26 (duties of employer in relation to ballot) is amended as follows.
 
 (2) In sub-paragraph (1), omit “five”.
 
@@ -511,7 +511,7 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 (7) Omit sub-paragraphs (4A) to (4E), (4G), (8) and (9).
 
-**16.**[^key-479b3d042cb8f59fdffa8be27399e1bf][^key-7d7044c5f124001a7e44ee1cfdef5d04] After paragraph 27 insert—
+**16.**[^c-479b3d042cb8f59fdffa8be27399e1bf][^c-7d7044c5f124001a7e44ee1cfdef5d04] After paragraph 27 insert—
 
 > **27ZA.** (1) This paragraph applies if—
 >
@@ -549,9 +549,9 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 >
 > (2) The order has effect, to the extent that the CAC specifies in a notice to the parties, as if it were made for the purposes of the ballot to which the notice under paragraph 19O(5) relates.
 
-**17.**[^key-24506f91689ce68f465df364f258218e][^key-354a236cdb28c4f141fcccdbc3f17285] Omit paragraphs 27A to 27F (unfair practices during ballot).
+**17.**[^c-24506f91689ce68f465df364f258218e][^c-354a236cdb28c4f141fcccdbc3f17285] Omit paragraphs 27A to 27F (unfair practices during ballot).
 
-**18.**[^key-96b7ac3ec54770e69414f24c32d86b52][^key-2c6865ee6fd87ddd8ffbb21a7a1401ba] (1) Paragraph 28 (costs of ballot) is amended as follows.
+**18.**[^c-96b7ac3ec54770e69414f24c32d86b52][^c-2c6865ee6fd87ddd8ffbb21a7a1401ba] (1) Paragraph 28 (costs of ballot) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -561,9 +561,9 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 (4) In sub-paragraph (4), for “the employer and the union (or each of the unions)” substitute “the party or parties required to bear the costs”.
 
-**19.**[^key-ef46970c14c26de5e4d48d2834c8495b] (1)[^key-27745c0b88b3577499157330df217944][^key-03ec30f10efb43efd554fa444421264a] Paragraph 29 (result of ballot) is amended as follows.
+**19.**[^c-ef46970c14c26de5e4d48d2834c8495b] (1)[^c-27745c0b88b3577499157330df217944][^c-03ec30f10efb43efd554fa444421264a] Paragraph 29 (result of ballot) is amended as follows.
 
-(2)[^key-cb861bd86ec1986cc3789d7e7cafcc54] For sub-paragraphs (1) and (1A) substitute—
+(2)[^c-cb861bd86ec1986cc3789d7e7cafcc54] For sub-paragraphs (1) and (1A) substitute—
 
 > (1) The CAC must act under this paragraph as soon as reasonably practicable after—
 >
@@ -580,21 +580,21 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 > - (a) if a complaint is made under paragraph 19N, on or before the day on which the CAC decides whether the complaint is well-founded;
 > - (b) if the CAC gives a notice under paragraph 19O(5).
 
-(3)[^key-a4587b35080316d7d65856e3fa1a63a4] For sub-paragraph (3) substitute—
+(3)[^c-a4587b35080316d7d65856e3fa1a63a4] For sub-paragraph (3) substitute—
 
 > (3) If the result is that the union is (or unions are) supported by a majority of the workers voting, the CAC must issue a declaration that the union is (or unions are) recognised as entitled to conduct collective bargaining on behalf of the bargaining unit.
 
-(4)[^key-a4587b35080316d7d65856e3fa1a63a4] Omit sub-paragraphs (5) to (7).
+(4)[^c-a4587b35080316d7d65856e3fa1a63a4] Omit sub-paragraphs (5) to (7).
 
-#### 20. General provisions about admissibility of applications[^key-1ee7c33d0d012f11b842f8de63849d82]
+#### 20. General provisions about admissibility of applications[^c-1ee7c33d0d012f11b842f8de63849d82]
 
-(1)[^key-dba429571c54b8f6a56318ff11f76bb4][^key-527eb260a9f1eb6b02271b99e6808d55] Paragraph 35 (admissibility of applications: existing collective agreement) is amended as follows.
+(1)[^c-dba429571c54b8f6a56318ff11f76bb4][^c-527eb260a9f1eb6b02271b99e6808d55] Paragraph 35 (admissibility of applications: existing collective agreement) is amended as follows.
 
-(2)[^key-a5b4979665ca0511b8d760100982f5de] After sub-paragraph (1) insert—
+(2)[^c-a5b4979665ca0511b8d760100982f5de] After sub-paragraph (1) insert—
 
 > (1A) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
-(3)[^key-a9d24b074cbdec6e2b0c0ae7b5bd48e2] After sub-paragraph (5) insert—
+(3)[^c-a9d24b074cbdec6e2b0c0ae7b5bd48e2] After sub-paragraph (5) insert—
 
 > (5A) In applying sub-paragraph (1) an agreement for recognition (the agreement in question) must be ignored if—
 >
@@ -612,13 +612,13 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 > - (a) starting with the day on which the employer receives a valid request for recognition under paragraph 4, and
 > - (b) ending with the day on which the CAC makes a decision under paragraph 15.
 
-**21.**[^key-efe4b3fa84c21f56f8963e8aa406a717][^key-1ff33512b739da90037abca8d0d6457a][^key-896ac3f3ad3a4feb0d18f8dc9a5bf621] In paragraph 36 (admissibility of applications: minimum support), for sub-paragraph (1) substitute—
+**21.**[^c-efe4b3fa84c21f56f8963e8aa406a717][^c-1ff33512b739da90037abca8d0d6457a][^c-896ac3f3ad3a4feb0d18f8dc9a5bf621] In paragraph 36 (admissibility of applications: minimum support), for sub-paragraph (1) substitute—
 
 > (1) An application under paragraph 11 or 12 is not admissible unless the CAC decides that members of the union (or unions) constitute at least the required percentage (see paragraph 171B) of the workers constituting the relevant bargaining unit.
 >
 > (1A) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
-**22.**[^key-00f7396b3531062690e0e612c476fc37][^key-68988ac570e218ce6c899d1884a7a37c] (1) Paragraph 38 (admissibility of applications: overlapping bargaining unit) is amended as follows.
+**22.**[^c-00f7396b3531062690e0e612c476fc37][^c-68988ac570e218ce6c899d1884a7a37c] (1) Paragraph 38 (admissibility of applications: overlapping bargaining unit) is amended as follows.
 
 (2) In sub-paragraph (1)(d)—
 
@@ -629,14 +629,14 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 > (2A) For the purposes of sub-paragraph (2)(a), any worker who joined the relevant bargaining unit or the bargaining unit referred to in sub-paragraph (1) after the application day is to be disregarded.
 
-**23.**[^key-1f3487de338de0a49ccfea5a09413a21][^key-626aadd5a7e0e1f3f4393e92518a7187] In paragraph 39 (admissibility of applications: same bargaining unit), in sub-paragraph (5), after “40” insert “, 40A”.
+**23.**[^c-1f3487de338de0a49ccfea5a09413a21][^c-626aadd5a7e0e1f3f4393e92518a7187] In paragraph 39 (admissibility of applications: same bargaining unit), in sub-paragraph (5), after “40” insert “, 40A”.
 
-**24.**[^key-bb9b0d306994ba3114af230325d0bdec][^key-4310c308ab4a94099ebc3a2ac00fcf04] In paragraph 40 (admissibility of applications: union not entitled to be recognised), in sub-paragraph (1)—
+**24.**[^c-bb9b0d306994ba3114af230325d0bdec][^c-4310c308ab4a94099ebc3a2ac00fcf04] In paragraph 40 (admissibility of applications: union not entitled to be recognised), in sub-paragraph (1)—
 
 - (a) for “27D(4)” substitute “19K(5), 19P(5)”;
 - (b) omit the words from “; and this is so” to the end.
 
-**25.**[^key-fd5e5d7e476d6956afe9da7945f62de4][^key-fb08205361529ba3ed49aef0df4c3a9a] After paragraph 40 insert—
+**25.**[^c-fd5e5d7e476d6956afe9da7945f62de4][^c-fb08205361529ba3ed49aef0df4c3a9a] After paragraph 40 insert—
 
 > **40A.** (1) This paragraph applies if the CAC issues a declaration under paragraph 81E(5), 81J(5) or 29(4) (where it applies by virtue of paragraph 89(5)) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
 >
@@ -651,20 +651,20 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 > - (a) the proposed bargaining unit, where the application is under paragraph 11(2) or 12(2);
 > - (b) the agreed bargaining unit, where the application is under paragraph 12(4).
 
-**26.**[^key-9be6487f8b8c59f86fec694ed884ed5a][^key-cc3489af6662e48ac977498fa60d612c] In paragraph 41 (admissibility of applications: union required to cease bargaining arrangements), in sub-paragraph (1)—
+**26.**[^c-9be6487f8b8c59f86fec694ed884ed5a][^c-cc3489af6662e48ac977498fa60d612c] In paragraph 41 (admissibility of applications: union required to cease bargaining arrangements), in sub-paragraph (1)—
 
 - (a) for “119D(4), 119H(5)” substitute “116E(5), 116K(5)”;
 - (b) for “the ballot concerned is arranged” substitute “the declaration is issued”.
 
-#### 27. General provisions about validity of applications[^key-42a8d4b80be28976a23f0d9f956c4b7c]
+#### 27. General provisions about validity of applications[^c-42a8d4b80be28976a23f0d9f956c4b7c]
 
-(1)[^key-dc3570624e747c2857af3ce4605a0535][^key-2329cf050e119ca0c9053642223df073] Paragraph 44 (validity of applications: existing collective agreement) is amended as follows.
+(1)[^c-dc3570624e747c2857af3ce4605a0535][^c-2329cf050e119ca0c9053642223df073] Paragraph 44 (validity of applications: existing collective agreement) is amended as follows.
 
-(2)[^key-e65ca1f6e45ca0cd1d5e4c0ba33bdd1c] After sub-paragraph (1) insert—
+(2)[^c-e65ca1f6e45ca0cd1d5e4c0ba33bdd1c] After sub-paragraph (1) insert—
 
 > (1A) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
-(3)[^key-f1acb14f04103321179237ddf4612305] After sub-paragraph (5) insert—
+(3)[^c-f1acb14f04103321179237ddf4612305] After sub-paragraph (5) insert—
 
 > (6) In applying sub-paragraph (1) an agreement for recognition (the agreement in question) must be ignored if—
 >
@@ -682,13 +682,13 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 > - (a) starting with the day on which the employer receives a valid request for recognition under paragraph 4, and
 > - (b) ending with the day on which the CAC makes a decision under paragraph 20.
 
-**28.**[^key-c53e6337562a5fe8143b5d40a928c0a4][^key-6f619e5551fee9c5748827500c66a086][^key-de605ee8f5cf438122e285b8f52367f7] For paragraph 45 (validity of applications: minimum support) substitute—
+**28.**[^c-c53e6337562a5fe8143b5d40a928c0a4][^c-6f619e5551fee9c5748827500c66a086][^c-de605ee8f5cf438122e285b8f52367f7] For paragraph 45 (validity of applications: minimum support) substitute—
 
 > **45.** (1) The application in question is invalid unless the CAC decides that members of the union (or unions) constitute at least the required percentage (see paragraph 171B) of the workers constituting the relevant bargaining unit.
 >
 > (2) For the purposes of sub-paragraph (1), any worker who joined the relevant bargaining unit after the application day is to be disregarded.
 
-**29.**[^key-2bf69b10823fab01fe61286bd1074f12][^key-74da777b1996eadce0b7d22fe42c7026] (1) Paragraph 46 (validity of applications: overlapping bargaining unit) is amended as follows.
+**29.**[^c-2bf69b10823fab01fe61286bd1074f12][^c-74da777b1996eadce0b7d22fe42c7026] (1) Paragraph 46 (validity of applications: overlapping bargaining unit) is amended as follows.
 
 (2) In sub-paragraph (1)(d)—
 
@@ -699,14 +699,14 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 
 > (3) For the purposes of sub-paragraph (2)(a), any worker who joined the relevant bargaining unit or the bargaining unit referred to in sub-paragraph (1) after the application day is to be disregarded.
 
-**30.**[^key-7fba7013a94d82062fddc8d683f3cc92][^key-a11fc2261b27e688e243a88ce9c63733] In paragraph 47 (validity of applications: same bargaining unit), in sub-paragraph (3), after “48” insert “, 48A”.
+**30.**[^c-7fba7013a94d82062fddc8d683f3cc92][^c-a11fc2261b27e688e243a88ce9c63733] In paragraph 47 (validity of applications: same bargaining unit), in sub-paragraph (3), after “48” insert “, 48A”.
 
-**31.**[^key-f637e1b40f585d15f951d406ca236b5d][^key-4b0903abcb4208d61efd931a97cedd67] In paragraph 48 (validity of applications: union not entitled to be recognised), in sub-paragraph (1)—
+**31.**[^c-f637e1b40f585d15f951d406ca236b5d][^c-4b0903abcb4208d61efd931a97cedd67] In paragraph 48 (validity of applications: union not entitled to be recognised), in sub-paragraph (1)—
 
 - (a) for “27D(4)” substitute “19K(5), 19P(5)”;
 - (b) omit the words from “; and this is so” to the end.
 
-**32.**[^key-29e3ff6e30b82d802aa90a2b3103a77e][^key-3d770ed7945154a56d94373dcd7c1ead] After paragraph 48 insert—
+**32.**[^c-29e3ff6e30b82d802aa90a2b3103a77e][^c-3d770ed7945154a56d94373dcd7c1ead] After paragraph 48 insert—
 
 > **48A.** (1) This paragraph applies if the CAC issues a declaration under paragraph 81E(5), 81J(5) or 29(4) (where it applies by virtue of paragraph 89(5)) that a union is (or unions are) not entitled to be recognised as entitled to conduct collective bargaining on behalf of a bargaining unit.
 >
@@ -716,22 +716,22 @@ After paragraph 19L (inserted by paragraph 9 of this Schedule) insert—
 > - (b) the relevant bargaining unit is the same or substantially the same as the bargaining unit mentioned in sub-paragraph (1), and
 > - (c) the application is made by the union (or unions) which made the application leading to the declaration.
 
-**33.**[^key-0a2a2b05b1e22553bc3edc160c767400][^key-359e5ced00abe7dd7a6f07b024912021] In paragraph 49 (validity of applications: union required to cease bargaining arrangements), in sub-paragraph (1)—
+**33.**[^c-0a2a2b05b1e22553bc3edc160c767400][^c-359e5ced00abe7dd7a6f07b024912021] In paragraph 49 (validity of applications: union required to cease bargaining arrangements), in sub-paragraph (1)—
 
 - (a) for “119D(4), 119H(5)” substitute “116E(5), 116K(5)”;
 - (b) for “the ballot concerned is arranged” substitute “the declaration is issued”.
 
-#### 34. Competing applications[^key-d7c7bd51422bc92fec94cfc270e88f65][^key-5c5f8c622ef8aa9bcb5dfc828075b248]
+#### 34. Competing applications[^c-d7c7bd51422bc92fec94cfc270e88f65][^c-5c5f8c622ef8aa9bcb5dfc828075b248]
 
 In paragraph 51 (competing applications), in sub-paragraph (2)(c), for “10 per cent test” substitute “required percentage test”.
 
-#### 35. Voluntary recognition[^key-799ea900cc17ba03d2fcee9564f88603][^key-3abde10df068fd5d1f8cd99c7303aad3]
+#### 35. Voluntary recognition[^c-799ea900cc17ba03d2fcee9564f88603][^c-3abde10df068fd5d1f8cd99c7303aad3]
 
 In paragraph 52 (voluntary recognition), in sub-paragraph (3)(f), for “19F(5)” substitute “13B(6), 19F(5), 19K(4) or (5), 19P(4) or (5)”.
 
 ### Part 3 — Changes affecting bargaining unit after recognition
 
-#### 36. Changes relevant to appropriateness of bargaining unit[^key-79300e323e2c33fbb7b1347f5054c448][^key-a3693c3232e59c3d0c752f950e554dab]
+#### 36. Changes relevant to appropriateness of bargaining unit[^c-79300e323e2c33fbb7b1347f5054c448][^c-a3693c3232e59c3d0c752f950e554dab]
 
 (1) Paragraph 67 (admissibility of applications: employer or union believes bargaining unit no longer appropriate) is amended as follows.
 
@@ -741,7 +741,7 @@ In paragraph 52 (voluntary recognition), in sub-paragraph (3)(f), for “19F(5)�
 
 > (3) In a case where the application was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, the CAC must disregard the matter specified in sub-paragraph (2)(c).
 
-**37.**[^key-c65dee540a79fa2558c65e952b374a4b][^key-a10b581b638de098553c6234448cca79] (1) Paragraph 70 (determination of bargaining unit by CAC) is amended as follows.
+**37.**[^c-c65dee540a79fa2558c65e952b374a4b][^c-a10b581b638de098553c6234448cca79] (1) Paragraph 70 (determination of bargaining unit by CAC) is amended as follows.
 
 (2) In sub-paragraph (3)(c), at the end insert “(but see sub-paragraph (3A)).”
 
@@ -749,13 +749,13 @@ In paragraph 52 (voluntary recognition), in sub-paragraph (3)(f), for “19F(5)�
 
 > (3A) In a case where the application was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, the CAC may not take into account the matter specified in sub-paragraph (3)(c).
 
-**38.**[^key-97ab01c7b8b5197fda081cb4376b903b][^key-965261603d9fbca83d53e6a4da78d2af] In paragraph 75 (questions for CAC to decide where employer believes bargaining unit has ceased to exist), in sub-paragraph (3)(c), at the end insert “(but see paragraph 77(4A)).”
+**38.**[^c-97ab01c7b8b5197fda081cb4376b903b][^c-965261603d9fbca83d53e6a4da78d2af] In paragraph 75 (questions for CAC to decide where employer believes bargaining unit has ceased to exist), in sub-paragraph (3)(c), at the end insert “(but see paragraph 77(4A)).”
 
-**39.**[^key-7e98a93373b6fcfd4543f0f8bdf1cc64][^key-7d14d0f99daf7f690dfad4a1d891c73f] In paragraph 77 (CAC’s decision as to appropriateness of bargaining unit, etc), after sub-paragraph (4) insert—
+**39.**[^c-7e98a93373b6fcfd4543f0f8bdf1cc64][^c-7d14d0f99daf7f690dfad4a1d891c73f] In paragraph 77 (CAC’s decision as to appropriateness of bargaining unit, etc), after sub-paragraph (4) insert—
 
 > (4A) In a case where the copy of the notice given to the CAC by the employer under paragraph 74(1) was received by the CAC before the end of the period of 3 years starting with the day on which the declaration referred to in paragraph 64(1)(a) was issued, in deciding whether the original unit is no longer appropriate the CAC must disregard the matter specified in paragraph 75(3)(c).
 
-#### 40. Access agreements[^key-a556754d69289ca93d8f19fbd0db3f0b][^key-3fdf0c32dc7cf054aacade87b2b4d3b3][^key-136d4ddff093f636d5a33eb640b6d892]
+#### 40. Access agreements[^c-a556754d69289ca93d8f19fbd0db3f0b][^c-3fdf0c32dc7cf054aacade87b2b4d3b3][^c-136d4ddff093f636d5a33eb640b6d892]
 
 After paragraph 81 insert—
 
@@ -902,7 +902,7 @@ After paragraph 81 insert—
 > - (a) the power of ACAS under section 199(1);
 > - (b) the power of the Secretary of State under section 203(1)(a).
 
-#### 41. Unfair practices[^key-64719509dac534e11cad7a398246b2ef][^key-e65d5f6cc878d02b065a8f7badcb2fd2][^key-ca20b53a51b89376023a3a8a6a84ddaa]
+#### 41. Unfair practices[^c-64719509dac534e11cad7a398246b2ef][^c-e65d5f6cc878d02b065a8f7badcb2fd2][^c-ca20b53a51b89376023a3a8a6a84ddaa]
 
 After paragraph 81F (inserted by paragraph 40 of this Schedule) insert—
 
@@ -1024,7 +1024,7 @@ After paragraph 81F (inserted by paragraph 40 of this Schedule) insert—
 >
 > (6) The powers conferred by this paragraph are in addition to those conferred by paragraph 81I.
 
-#### 42. Powers of CAC where CAC decides new unit appropriate[^key-daa19a8892840cfbde1dd0bcab7eea25][^key-53680859dff4cd14628dab5513a332ae]
+#### 42. Powers of CAC where CAC decides new unit appropriate[^c-daa19a8892840cfbde1dd0bcab7eea25][^c-53680859dff4cd14628dab5513a332ae]
 
 (1) Paragraph 86 (new bargaining unit: assessment of support) is amended as follows.
 
@@ -1034,18 +1034,18 @@ After paragraph 81F (inserted by paragraph 40 of this Schedule) insert—
 
 (3) In sub-paragraph (3), for “one or both of the questions in the negative” substitute “that members of the union (or unions) do not constitute at least the required percentage of the workers constituting the new unit”.
 
-**43.**[^key-d9a5bfdab5ec39dd9bf9c851e6a4b3b3][^key-73966c0087687dc3c25dc5be049b6cf3] In paragraph 87 (powers of CAC where majority of workers are members of union), for sub-paragraph (1) substitute—
+**43.**[^c-d9a5bfdab5ec39dd9bf9c851e6a4b3b3][^c-73966c0087687dc3c25dc5be049b6cf3] In paragraph 87 (powers of CAC where majority of workers are members of union), for sub-paragraph (1) substitute—
 
 > (1) This paragraph applies if, following a decision under paragraph 86(2), the CAC is satisfied that a majority of workers constituting the new unit are members of the union (or unions).
 
-**44.**[^key-42b98b7096b54954a45f8f52049bd5f1][^key-a6ff99c398a1a0b155514da8b13195a5] In paragraph 88 (powers of CAC where majority of workers are not members of union), for sub-paragraph (1) substitute—
+**44.**[^c-42b98b7096b54954a45f8f52049bd5f1][^c-a6ff99c398a1a0b155514da8b13195a5] In paragraph 88 (powers of CAC where majority of workers are not members of union), for sub-paragraph (1) substitute—
 
 > (1) This paragraph applies if—
 >
 > - (a) the CAC decides under paragraph 86(2) that members of the union (or unions) constitute at least the required percentage of the workers constituting the new unit, but
 > - (b) the CAC is not satisfied that a majority of workers constituting the new unit are members of the union (or unions).
 
-**45.**[^key-84d2a45abe70e9ffd7fbf3170010958d][^key-1d938010488ecf545041ed69e77b7cd0] (1) Paragraph 89 (ballots) is amended as follows.
+**45.**[^c-84d2a45abe70e9ffd7fbf3170010958d][^c-1d938010488ecf545041ed69e77b7cd0] (1) Paragraph 89 (ballots) is amended as follows.
 
 (2) In sub-paragraph (4), at the end insert “, but as if paragraph 25(1A) were omitted.”
 
@@ -1066,13 +1066,13 @@ After paragraph 81F (inserted by paragraph 40 of this Schedule) insert—
 
 (5) In sub-paragraph (9), for “27D(4)” substitute “81E(5) or 81J(5)”.
 
-#### 46. Withdrawal of application[^key-bfbf117bdaef16ce57aeed3cdc994e3f][^key-8ca113049015ef0e87c33ff720f43a7a]
+#### 46. Withdrawal of application[^c-bfbf117bdaef16ce57aeed3cdc994e3f][^c-8ca113049015ef0e87c33ff720f43a7a]
 
 In paragraph 93 (withdrawal of application), in sub-paragraph (1)(a), for “or 78(3)” substitute “, 78(3), 81E(4) or (5) or 81J(4) or (5)”.
 
 ### Part 4 — Derecognition
 
-#### 47. Access agreements[^key-6a3f74082abe60126571609edc6ce9e0][^key-f3394ef0a40abc47a7fd799ab8a80ca8][^key-98f23c766678e779da7f8d6c3d9c7a17]
+#### 47. Access agreements[^c-6a3f74082abe60126571609edc6ce9e0][^c-f3394ef0a40abc47a7fd799ab8a80ca8][^c-98f23c766678e779da7f8d6c3d9c7a17]
 
 After paragraph 116 insert—
 
@@ -1214,7 +1214,7 @@ After paragraph 116 insert—
 > - (a) the power of ACAS under section 199(1);
 > - (b) the power of the Secretary of State under section 203(1)(a).
 
-#### 48. Unfair practices[^key-9fdf5d11971c49af569e016b873bf631][^key-71f2c88626905f04111188b26734c492][^key-610d5c176b126af82efa2681755839fd]
+#### 48. Unfair practices[^c-9fdf5d11971c49af569e016b873bf631][^c-71f2c88626905f04111188b26734c492][^c-610d5c176b126af82efa2681755839fd]
 
 After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 
@@ -1336,7 +1336,7 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 > - (a) in England and Wales, in the same way as an order of the county court;
 > - (b) in Scotland, in the same way as an order of the sheriff.
 
-#### 49. Ballots[^key-d75a2ad73f34500519b31cca7a019a6b][^key-e9787be1a5bfd560126ad6483fa5f8fd]
+#### 49. Ballots[^c-d75a2ad73f34500519b31cca7a019a6b][^c-e9787be1a5bfd560126ad6483fa5f8fd]
 
 (1) Paragraph 117 (ballots: general) is amended as follows.
 
@@ -1346,7 +1346,7 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 
 (4) In sub-paragraph (4), for “The ballot” substitute “A ballot arranged under sub-paragraph (3), or under paragraph 116J(5),”.
 
-**50.**[^key-3a60bf7225bf8e7f5b85bef025952d57][^key-392535712ce666c2d65cddfd597e6a9f] (1) Paragraph 118 (duties of employer in relation to ballot) is amended as follows.
+**50.**[^c-3a60bf7225bf8e7f5b85bef025952d57][^c-392535712ce666c2d65cddfd597e6a9f] (1) Paragraph 118 (duties of employer in relation to ballot) is amended as follows.
 
 (2) In sub-paragraph (1), omit “five”.
 
@@ -1375,7 +1375,7 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 
 (7) Omit sub-paragraphs (4A) to (4E), (8) and (9).
 
-**51.**[^key-44af08d348eb373b056525a72c83cc94][^key-7c9281558eadca1d5abfb020383ae06b] In paragraph 119 (breach of paragraph 118), after sub-paragraph (4) insert—
+**51.**[^c-44af08d348eb373b056525a72c83cc94][^c-7c9281558eadca1d5abfb020383ae06b] In paragraph 119 (breach of paragraph 118), after sub-paragraph (4) insert—
 
 > (5) If—
 >
@@ -1390,7 +1390,7 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 > - (a) in England and Wales, in the same way as an order of the county court;
 > - (b) in Scotland, in the same way as an order of the sheriff.
 
-**52.**[^key-5ff4cf218dd4f609849ae4e46070b9c4][^key-5f334e064828c6c254dd66eb526dd936] After paragraph 119 insert—
+**52.**[^c-5ff4cf218dd4f609849ae4e46070b9c4][^c-5f334e064828c6c254dd66eb526dd936] After paragraph 119 insert—
 
 > **119ZA.** (1) This paragraph applies if—
 >
@@ -1433,9 +1433,9 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 >
 > (3) In relation to an application under paragraph 112, “**the parties**” includes the worker or workers making the application.
 
-**53.**[^key-a1fe17af14c73ced8a34da1ecf50671c][^key-827a444385bce7d3375583c817011bd0] Omit paragraphs 119A to 119I (unfair practices during ballot).
+**53.**[^c-a1fe17af14c73ced8a34da1ecf50671c][^c-827a444385bce7d3375583c817011bd0] Omit paragraphs 119A to 119I (unfair practices during ballot).
 
-**54.**[^key-976ba94e578d1c1031aa515a50cc903d][^key-0672a82f4d399c15a500400df84cba7e] (1) Paragraph 120 (costs of ballot) is amended as follows.
+**54.**[^c-976ba94e578d1c1031aa515a50cc903d][^c-0672a82f4d399c15a500400df84cba7e] (1) Paragraph 120 (costs of ballot) is amended as follows.
 
 (2) In sub-paragraph (1), after “paragraph” insert “116J(5) or”.
 
@@ -1449,7 +1449,7 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 
 (5) In sub-paragraph (4), for “the employer and the union (or each of the unions)” substitute “the party or parties required to bear the costs”.
 
-**55.**[^key-95d1777626671f6137f668b3a74614c0][^key-7fea22a4bac0ba2f94d30ecacdab86df] In paragraph 121 (result of ballot), for sub-paragraphs (1) and (1A) substitute—
+**55.**[^c-95d1777626671f6137f668b3a74614c0][^c-7fea22a4bac0ba2f94d30ecacdab86df] In paragraph 121 (result of ballot), for sub-paragraphs (1) and (1A) substitute—
 
 > (1) The CAC must act under this paragraph as soon as reasonably practicable after—
 >
@@ -1466,21 +1466,21 @@ After paragraph 116G (inserted by paragraph 47 of this Schedule) insert—
 > - (a) if a complaint is made under paragraph 116I, on or before the day on which the CAC decides whether the complaint is well-founded;
 > - (b) if the CAC makes arrangements under paragraph 116J(5).
 
-#### 56. Derecognition where recognition automatic[^key-cef3bcb3656cde32d8aa49655f5b7c7c][^key-4e989716f9ce9667af917db901995c15]
+#### 56. Derecognition where recognition automatic[^c-cef3bcb3656cde32d8aa49655f5b7c7c][^c-4e989716f9ce9667af917db901995c15]
 
 In paragraph 122 (derecognition where recognition automatic on agreed terms), in sub-paragraph (1)(a)—
 
 - (a) for “19F(5),” substitute “13B(6), 19F(5), 19K(4), 19P(4),”;
 - (b) for “, 27(2) or 27D(3)” substitute “or 27(2)”.
 
-**57.**[^key-e3d13eaf31e25b147e4854be55c83850][^key-fdab8177d445865df7c7d580a1d3f653] In paragraph 123 (derecognition where recognition automatic on specified terms), in sub-paragraph (1)(a)—
+**57.**[^c-e3d13eaf31e25b147e4854be55c83850][^c-fdab8177d445865df7c7d580a1d3f653] In paragraph 123 (derecognition where recognition automatic on specified terms), in sub-paragraph (1)(a)—
 
 - (a) for “19F(5),” substitute “13B(6), 19F(5), 19K(4), 19P(4),”;
 - (b) for “, 27(2) or 27D(3)” substitute “or 27(2)”.
 
-**58.**[^key-4ccd1f41b7af5a5dfcb78e724556728f][^key-ae7f6211e3fa728abcc876252966edb8] In paragraph 124 (derecognition where recognition automatic following changes to bargaining unit), in sub-paragraph (1), after “paragraph” insert “81E(4), 81J(4) or”.
+**58.**[^c-4ccd1f41b7af5a5dfcb78e724556728f][^c-ae7f6211e3fa728abcc876252966edb8] In paragraph 124 (derecognition where recognition automatic following changes to bargaining unit), in sub-paragraph (1), after “paragraph” insert “81E(4), 81J(4) or”.
 
-**59.**[^key-836df1ba2e725d06341434c01638dff1][^key-512e785ce23603273b759cea08d72058] After paragraph 132 insert—
+**59.**[^c-836df1ba2e725d06341434c01638dff1][^c-512e785ce23603273b759cea08d72058] After paragraph 132 insert—
 
 > **132A. Access agreements**
 >
@@ -1490,7 +1490,7 @@ In paragraph 122 (derecognition where recognition automatic on agreed terms), in
 > - (b) the references in paragraphs 116A(3) and 116B(3)(a) to paragraph 111(5) or 115(5) were to paragraph 111(5), 115(5) or 132(5);
 > - (c) the references in paragraphs 116A(4)(a) and 116E(4)(a) to paragraph 106 or 107 were to paragraph 106, 107 or 128.
 
-**60.**[^key-e7b38b63d5399578b510ecf976bb4765][^key-13d7ae15dffac9cb90ed8a8f84976326] After paragraph 132A (inserted by paragraph 59 of this Schedule) insert—
+**60.**[^c-e7b38b63d5399578b510ecf976bb4765][^c-13d7ae15dffac9cb90ed8a8f84976326] After paragraph 132A (inserted by paragraph 59 of this Schedule) insert—
 
 > **132B. Unfair practices**
 >
@@ -1500,7 +1500,7 @@ In paragraph 122 (derecognition where recognition automatic on agreed terms), in
 > - (b) the reference in paragraph 116H(1) to paragraph 111(5) or 115(5) were to paragraph 111(5), 115(5) or 132(5);
 > - (c) the references in paragraphs 116I(2)(a), 116J(6)(a) and 116K(4)(a) to paragraph 106 or 107 were to paragraph 106, 107 or 128.
 
-**61.**[^key-59ea89015db33322f2d6d3c3e58d8d1a][^key-27512a33b0db1072a166e4cc63a49a49] (1) Paragraph 133 (ballot on derecognition) is amended as follows.
+**61.**[^c-59ea89015db33322f2d6d3c3e58d8d1a][^c-27512a33b0db1072a166e4cc63a49a49] (1) Paragraph 133 (ballot on derecognition) is amended as follows.
 
 (2) In sub-paragraph (1), for “and (2)” substitute “, (2) and (4)”.
 
@@ -1509,7 +1509,7 @@ In paragraph 122 (derecognition where recognition automatic on agreed terms), in
 - (a) in paragraph (a), for “references in paragraphs 119(2)(a) and 119D(3)” substitute “reference in paragraph 119(2)(a)”;
 - (b) in paragraph (b), for “119A(3)(a)(ii), 119E(1)(b)” substitute “119ZC(1)(c)(ii)”.
 
-#### 62. Derecognition where union not independent[^key-6357fc4842b27bc84735157be6b2cb9c][^key-4cea93a7d212a1466218d28efe6ae691][^key-88f7af80e313a99d13eb0e101761ff37]
+#### 62. Derecognition where union not independent[^c-6357fc4842b27bc84735157be6b2cb9c][^c-4cea93a7d212a1466218d28efe6ae691][^c-88f7af80e313a99d13eb0e101761ff37]
 
 After paragraph 146 insert—
 
@@ -1522,7 +1522,7 @@ After paragraph 146 insert—
 > - (c) the references in paragraphs 116A(3) and 116B(3)(a) to paragraph 111(5) or 115(5) were to paragraph 111(5), 115(5) or 141(5);
 > - (d) the reference in paragraph 116A(4)(b) to paragraph 116(1) were to paragraph 116(1), 142(1) or 145(3).
 
-**63.**[^key-fe04ffd069c049cb2a3fbe43ec3b8178][^key-b1af129b08daa72e9200501902e5c8ee][^key-7d086b449b45a14c1cea2d5fbf8e33a3] After paragraph 146A (inserted by paragraph 62 of this Schedule) insert—
+**63.**[^c-fe04ffd069c049cb2a3fbe43ec3b8178][^c-b1af129b08daa72e9200501902e5c8ee][^c-7d086b449b45a14c1cea2d5fbf8e33a3] After paragraph 146A (inserted by paragraph 62 of this Schedule) insert—
 
 > **146B. Unfair practices**
 >
@@ -1533,7 +1533,7 @@ After paragraph 146 insert—
 > - (c) the references in paragraphs 116H(5), 116I(2)(b), 116J(6)(b), 116K(1)(b), (4)(b) and (6) and 116L(1) to paragraph 112 were to paragraph 112 or 137;
 > - (d) the references in paragraphs 116I(2)(b) and 116J(6)(b) to paragraph 116(1) were to paragraph 116(1), 142(1) or 145(3).
 
-**64.**[^key-046cab4c642c1a0c7d0564dbf986efba][^key-fbfc854591a983d4d659c3ad15792958] (1) Paragraph 147 (ballot on derecognition) is amended as follows.
+**64.**[^c-046cab4c642c1a0c7d0564dbf986efba][^c-fbfc854591a983d4d659c3ad15792958] (1) Paragraph 147 (ballot on derecognition) is amended as follows.
 
 (2) In sub-paragraph (1), for “and (2)” substitute “, (2) and (4)”.
 
@@ -1547,7 +1547,7 @@ After paragraph 146 insert—
 
 ### Part 5 — Meaning of “the required percentage”
 
-**65.**[^key-c9191e433d71ebe866bdc5fd8fbde69a][^key-66e1c58c765544c1c58515276084a018] After paragraph 171A insert—
+**65.**[^c-c9191e433d71ebe866bdc5fd8fbde69a][^c-66e1c58c765544c1c58515276084a018] After paragraph 171A insert—
 
 > **171B. “The required percentage”**
 >
@@ -1568,7 +1568,7 @@ After paragraph 146 insert—
 
 ### Part 6 — Consequential amendments
 
-**66.**[^key-93749a3e9149dc27863e8a8f25742167][^key-f652ee8a1340dbf5104b4f04fb5fa896] (1) The Employment Relations Act 2004 is amended as follows.
+**66.**[^c-93749a3e9149dc27863e8a8f25742167][^c-f652ee8a1340dbf5104b4f04fb5fa896] (1) The Employment Relations Act 2004 is amended as follows.
 
 (2) In section 9—
 
@@ -1592,314 +1592,314 @@ After paragraph 146 insert—
 
 ## Annotations
 
-[^key-157926a79e3231a986369529a0f3ad47]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-157926a79e3231a986369529a0f3ad47]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-50011fa939d2e3fa4728e5e7e2a537f2]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/a)
+[^c-50011fa939d2e3fa4728e5e7e2a537f2]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/a)
 
-[^key-7448f495a45048635bfef4b81faa0f3e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/a)
+[^c-7448f495a45048635bfef4b81faa0f3e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/a)
 
-[^key-182bddf34be9d18780ba52660b1cc4d1]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f)
+[^c-182bddf34be9d18780ba52660b1cc4d1]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f)
 
-[^key-94dda4b1bcaffac64bd9ee5666fcb537]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-94dda4b1bcaffac64bd9ee5666fcb537]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-94883152fc866a845fc5dc21088c9f90]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f)
+[^c-94883152fc866a845fc5dc21088c9f90]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f)
 
-[^key-e6b17da20d9d8707399c0ff674b44f72]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e6b17da20d9d8707399c0ff674b44f72]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-948c61bfd9da496fa64df0a4223d961d]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/3) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-948c61bfd9da496fa64df0a4223d961d]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/3) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-f20294ddab5fe0c7aa211e801c1edffb]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f20294ddab5fe0c7aa211e801c1edffb]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-6cd423572be2c286571c5baa24e45651]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/4) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-6cd423572be2c286571c5baa24e45651]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/4) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-b7d4af0d1f434f209d141d596ece051f]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b7d4af0d1f434f209d141d596ece051f]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-12678710db4c1c0bc8183954c8e81ef8]: Commencement: [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/i) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-12678710db4c1c0bc8183954c8e81ef8]: Commencement: [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/i) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
-[^key-d54cd06b12b4844f1aef9867248a72bb]: Commencement: [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-d54cd06b12b4844f1aef9867248a72bb]: Commencement: [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-a852bbc1ab7735a6a0549bf2f7459a71]: Commencement: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/5) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-a852bbc1ab7735a6a0549bf2f7459a71]: Commencement: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/5) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-f6024965b9223e423291ec1838c73e3b]: Commencement: [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/4)[(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/7) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-f6024965b9223e423291ec1838c73e3b]: Commencement: [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/4)[(6)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/5/7) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/b/ii) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
-[^key-1e0fa30a9a0836e06746f3eb5e4566d0]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1e0fa30a9a0836e06746f3eb5e4566d0]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d3aff8caf2ca51313804d2453d76bc91]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/6) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-d3aff8caf2ca51313804d2453d76bc91]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/6) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-44af1b3dfea87b9cfe4c9c91345414dd]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-44af1b3dfea87b9cfe4c9c91345414dd]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-645f923c97da7bf2bf406e0ae5d7d4dc]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/7) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-645f923c97da7bf2bf406e0ae5d7d4dc]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/7) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-b06015e5c5e024033ca0a98114d3614c]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b06015e5c5e024033ca0a98114d3614c]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1cd18d41782b2cf0460083ae7057419a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/8) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-1cd18d41782b2cf0460083ae7057419a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/8) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-248ba6cbe1759926815d7d41ea1092b7]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-248ba6cbe1759926815d7d41ea1092b7]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-332a55593a08ea9329e40a09a0eb7b9b]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-332a55593a08ea9329e40a09a0eb7b9b]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-809e02ca99c906731ed5bde2b052a868]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-809e02ca99c906731ed5bde2b052a868]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/9) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-d075762d2f9c5a422f52f43e4bc5d02d]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d075762d2f9c5a422f52f43e4bc5d02d]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3cf56d3866f9101694d5816e9ee45f6f]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-3cf56d3866f9101694d5816e9ee45f6f]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-fbdd1c8c822d751639b49bca26869618]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-fbdd1c8c822d751639b49bca26869618]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/10) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-b88bb73f12c2445df2f5adc716dca936]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b88bb73f12c2445df2f5adc716dca936]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-bbaef2a89d1e7ccc7bd7e57ad4061af8]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-bbaef2a89d1e7ccc7bd7e57ad4061af8]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/11) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-b5f51c5268b5def299eed850a64de0c9]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b5f51c5268b5def299eed850a64de0c9]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1035657a225d8fadf7d70c0739ae4a6d]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/12) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-1035657a225d8fadf7d70c0739ae4a6d]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/12) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-b57cab9957f39b6304964cbba2db1aaf]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b57cab9957f39b6304964cbba2db1aaf]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-04ef3e761f80744f11645451a7283d2d]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-04ef3e761f80744f11645451a7283d2d]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/13) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-0f73fd27d8eaf12b37419049c2ea03e2]: Commencement: Sch. 6 para. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0f73fd27d8eaf12b37419049c2ea03e2]: Commencement: Sch. 6 para. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-407ab182cdef656eaa39b37648314ad9]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/14) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-407ab182cdef656eaa39b37648314ad9]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/14) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-c6bc11147b879b3853362979c9f6c31e]: Commencement: Sch. 6 para. 15 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c6bc11147b879b3853362979c9f6c31e]: Commencement: Sch. 6 para. 15 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-bf7c3d21701570f59559986500eb961b]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-bf7c3d21701570f59559986500eb961b]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/15) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-479b3d042cb8f59fdffa8be27399e1bf]: Commencement: Sch. 6 para. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-479b3d042cb8f59fdffa8be27399e1bf]: Commencement: Sch. 6 para. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7d7044c5f124001a7e44ee1cfdef5d04]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/16) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-7d7044c5f124001a7e44ee1cfdef5d04]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/16) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-24506f91689ce68f465df364f258218e]: Commencement: Sch. 6 para. 17 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-24506f91689ce68f465df364f258218e]: Commencement: Sch. 6 para. 17 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-354a236cdb28c4f141fcccdbc3f17285]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/17) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-354a236cdb28c4f141fcccdbc3f17285]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/17) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-96b7ac3ec54770e69414f24c32d86b52]: Commencement: Sch. 6 para. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-96b7ac3ec54770e69414f24c32d86b52]: Commencement: Sch. 6 para. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-2c6865ee6fd87ddd8ffbb21a7a1401ba]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/18) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-2c6865ee6fd87ddd8ffbb21a7a1401ba]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/18) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-ef46970c14c26de5e4d48d2834c8495b]: Commencement: Sch. 6 para. 19 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ef46970c14c26de5e4d48d2834c8495b]: Commencement: Sch. 6 para. 19 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-27745c0b88b3577499157330df217944]: Commencement: [Sch. 6 para. 19(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(c)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/c/i) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/2))
+[^c-27745c0b88b3577499157330df217944]: Commencement: [Sch. 6 para. 19(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(c)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/c/i) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/2))
 
-[^key-03ec30f10efb43efd554fa444421264a]: Commencement: [Sch. 6 para. 19(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-03ec30f10efb43efd554fa444421264a]: Commencement: [Sch. 6 para. 19(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-cb861bd86ec1986cc3789d7e7cafcc54]: Commencement: [Sch. 6 para. 19(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-cb861bd86ec1986cc3789d7e7cafcc54]: Commencement: [Sch. 6 para. 19(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-a4587b35080316d7d65856e3fa1a63a4]: Commencement: [Sch. 6 para. 19(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/4) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/c/ii) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/2))
+[^c-a4587b35080316d7d65856e3fa1a63a4]: Commencement: [Sch. 6 para. 19(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/19/4) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/c/ii) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/2))
 
-[^key-1ee7c33d0d012f11b842f8de63849d82]: Commencement: Sch. 6 para. 20 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1ee7c33d0d012f11b842f8de63849d82]: Commencement: Sch. 6 para. 20 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-dba429571c54b8f6a56318ff11f76bb4]: Commencement: [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(d)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/d/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
+[^c-dba429571c54b8f6a56318ff11f76bb4]: Commencement: [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(d)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/d/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^key-527eb260a9f1eb6b02271b99e6808d55]: Commencement: [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-527eb260a9f1eb6b02271b99e6808d55]: Commencement: [Sch. 6 para. 20(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-a5b4979665ca0511b8d760100982f5de]: Commencement: [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-a5b4979665ca0511b8d760100982f5de]: Commencement: [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-a9d24b074cbdec6e2b0c0ae7b5bd48e2]: Commencement: [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/3) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/d/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
+[^c-a9d24b074cbdec6e2b0c0ae7b5bd48e2]: Commencement: [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/20/3) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/d/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^key-efe4b3fa84c21f56f8963e8aa406a717]: Commencement: Sch. 6 para. 21 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-efe4b3fa84c21f56f8963e8aa406a717]: Commencement: Sch. 6 para. 21 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1ff33512b739da90037abca8d0d6457a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/e) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-1ff33512b739da90037abca8d0d6457a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/e) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
-[^key-896ac3f3ad3a4feb0d18f8dc9a5bf621]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-896ac3f3ad3a4feb0d18f8dc9a5bf621]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/21) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-00f7396b3531062690e0e612c476fc37]: Commencement: Sch. 6 para. 22 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-00f7396b3531062690e0e612c476fc37]: Commencement: Sch. 6 para. 22 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-68988ac570e218ce6c899d1884a7a37c]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/22) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-68988ac570e218ce6c899d1884a7a37c]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/22) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-1f3487de338de0a49ccfea5a09413a21]: Commencement: Sch. 6 para. 23 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1f3487de338de0a49ccfea5a09413a21]: Commencement: Sch. 6 para. 23 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-626aadd5a7e0e1f3f4393e92518a7187]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/23) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-626aadd5a7e0e1f3f4393e92518a7187]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/23) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-bb9b0d306994ba3114af230325d0bdec]: Commencement: Sch. 6 para. 24 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-bb9b0d306994ba3114af230325d0bdec]: Commencement: Sch. 6 para. 24 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4310c308ab4a94099ebc3a2ac00fcf04]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/24) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-4310c308ab4a94099ebc3a2ac00fcf04]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/24) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-fd5e5d7e476d6956afe9da7945f62de4]: Commencement: Sch. 6 para. 25 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-fd5e5d7e476d6956afe9da7945f62de4]: Commencement: Sch. 6 para. 25 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fb08205361529ba3ed49aef0df4c3a9a]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/25) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-fb08205361529ba3ed49aef0df4c3a9a]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/25) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-9be6487f8b8c59f86fec694ed884ed5a]: Commencement: Sch. 6 para. 26 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9be6487f8b8c59f86fec694ed884ed5a]: Commencement: Sch. 6 para. 26 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-cc3489af6662e48ac977498fa60d612c]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/26) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-cc3489af6662e48ac977498fa60d612c]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/26) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-42a8d4b80be28976a23f0d9f956c4b7c]: Commencement: Sch. 6 para. 27 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-42a8d4b80be28976a23f0d9f956c4b7c]: Commencement: Sch. 6 para. 27 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-dc3570624e747c2857af3ce4605a0535]: Commencement: [Sch. 6 para. 27(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(f)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/f/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
+[^c-dc3570624e747c2857af3ce4605a0535]: Commencement: [Sch. 6 para. 27(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(f)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/f/i) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^key-2329cf050e119ca0c9053642223df073]: Commencement: [Sch. 6 para. 27(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-2329cf050e119ca0c9053642223df073]: Commencement: [Sch. 6 para. 27(1)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/1) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-e65ca1f6e45ca0cd1d5e4c0ba33bdd1c]: Commencement: [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-e65ca1f6e45ca0cd1d5e4c0ba33bdd1c]: Commencement: [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/2) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-f1acb14f04103321179237ddf4612305]: Commencement: [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/3) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/f/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
+[^c-f1acb14f04103321179237ddf4612305]: Commencement: [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/27/3) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(f)(ii)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/f/ii) (with [reg. 6(3)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/3))
 
-[^key-c53e6337562a5fe8143b5d40a928c0a4]: Commencement: Sch. 6 para. 28 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c53e6337562a5fe8143b5d40a928c0a4]: Commencement: Sch. 6 para. 28 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-6f619e5551fee9c5748827500c66a086]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(g)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/g) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
+[^c-6f619e5551fee9c5748827500c66a086]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(g)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/g) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1))
 
-[^key-de605ee8f5cf438122e285b8f52367f7]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
+[^c-de605ee8f5cf438122e285b8f52367f7]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/28) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/2))
 
-[^key-2bf69b10823fab01fe61286bd1074f12]: Commencement: Sch. 6 para. 29 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-2bf69b10823fab01fe61286bd1074f12]: Commencement: Sch. 6 para. 29 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-74da777b1996eadce0b7d22fe42c7026]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/29) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-74da777b1996eadce0b7d22fe42c7026]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/29) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-7fba7013a94d82062fddc8d683f3cc92]: Commencement: Sch. 6 para. 30 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7fba7013a94d82062fddc8d683f3cc92]: Commencement: Sch. 6 para. 30 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a11fc2261b27e688e243a88ce9c63733]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/30) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-a11fc2261b27e688e243a88ce9c63733]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/30) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-f637e1b40f585d15f951d406ca236b5d]: Commencement: Sch. 6 para. 31 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f637e1b40f585d15f951d406ca236b5d]: Commencement: Sch. 6 para. 31 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4b0903abcb4208d61efd931a97cedd67]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/31) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-4b0903abcb4208d61efd931a97cedd67]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/31) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-29e3ff6e30b82d802aa90a2b3103a77e]: Commencement: Sch. 6 para. 32 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-29e3ff6e30b82d802aa90a2b3103a77e]: Commencement: Sch. 6 para. 32 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3d770ed7945154a56d94373dcd7c1ead]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/32) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
+[^c-3d770ed7945154a56d94373dcd7c1ead]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/32) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1))
 
-[^key-0a2a2b05b1e22553bc3edc160c767400]: Commencement: Sch. 6 para. 33 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0a2a2b05b1e22553bc3edc160c767400]: Commencement: Sch. 6 para. 33 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-359e5ced00abe7dd7a6f07b024912021]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/33) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1), [5](https://www.legislation.gov.uk/uksi/2026/1065/regulation/5))
+[^c-359e5ced00abe7dd7a6f07b024912021]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/33) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1), [5](https://www.legislation.gov.uk/uksi/2026/1065/regulation/5))
 
-[^key-d7c7bd51422bc92fec94cfc270e88f65]: Commencement: Sch. 6 para. 34 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d7c7bd51422bc92fec94cfc270e88f65]: Commencement: Sch. 6 para. 34 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5c5f8c622ef8aa9bcb5dfc828075b248]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/34) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(h)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/h) (with [reg. 6(4)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/4)[(5)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/5))
+[^c-5c5f8c622ef8aa9bcb5dfc828075b248]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/34) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(h)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/h) (with [reg. 6(4)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/4)[(5)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/5))
 
-[^key-799ea900cc17ba03d2fcee9564f88603]: Commencement: Sch. 6 para. 35 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-799ea900cc17ba03d2fcee9564f88603]: Commencement: Sch. 6 para. 35 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3abde10df068fd5d1f8cd99c7303aad3]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/35) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/3))
+[^c-3abde10df068fd5d1f8cd99c7303aad3]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/35) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/3))
 
-[^key-79300e323e2c33fbb7b1347f5054c448]: Commencement: Sch. 6 para. 36 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-79300e323e2c33fbb7b1347f5054c448]: Commencement: Sch. 6 para. 36 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a3693c3232e59c3d0c752f950e554dab]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/36) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-a3693c3232e59c3d0c752f950e554dab]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/36) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-c65dee540a79fa2558c65e952b374a4b]: Commencement: Sch. 6 para. 37 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c65dee540a79fa2558c65e952b374a4b]: Commencement: Sch. 6 para. 37 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a10b581b638de098553c6234448cca79]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/37) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-a10b581b638de098553c6234448cca79]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/37) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-97ab01c7b8b5197fda081cb4376b903b]: Commencement: Sch. 6 para. 38 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-97ab01c7b8b5197fda081cb4376b903b]: Commencement: Sch. 6 para. 38 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-965261603d9fbca83d53e6a4da78d2af]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/38) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-965261603d9fbca83d53e6a4da78d2af]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/38) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-7e98a93373b6fcfd4543f0f8bdf1cc64]: Commencement: Sch. 6 para. 39 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7e98a93373b6fcfd4543f0f8bdf1cc64]: Commencement: Sch. 6 para. 39 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7d14d0f99daf7f690dfad4a1d891c73f]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/39) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-7d14d0f99daf7f690dfad4a1d891c73f]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/39) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-a556754d69289ca93d8f19fbd0db3f0b]: Commencement: Sch. 6 para. 40 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a556754d69289ca93d8f19fbd0db3f0b]: Commencement: Sch. 6 para. 40 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3fdf0c32dc7cf054aacade87b2b4d3b3]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-3fdf0c32dc7cf054aacade87b2b4d3b3]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-136d4ddff093f636d5a33eb640b6d892]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
+[^c-136d4ddff093f636d5a33eb640b6d892]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/40) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
 
-[^key-64719509dac534e11cad7a398246b2ef]: Commencement: Sch. 6 para. 41 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-64719509dac534e11cad7a398246b2ef]: Commencement: Sch. 6 para. 41 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e65d5f6cc878d02b065a8f7badcb2fd2]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-e65d5f6cc878d02b065a8f7badcb2fd2]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-ca20b53a51b89376023a3a8a6a84ddaa]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
+[^c-ca20b53a51b89376023a3a8a6a84ddaa]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/41) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/5))
 
-[^key-daa19a8892840cfbde1dd0bcab7eea25]: Commencement: Sch. 6 para. 42 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-daa19a8892840cfbde1dd0bcab7eea25]: Commencement: Sch. 6 para. 42 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-53680859dff4cd14628dab5513a332ae]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/42) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
+[^c-53680859dff4cd14628dab5513a332ae]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/42) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
 
-[^key-d9a5bfdab5ec39dd9bf9c851e6a4b3b3]: Commencement: Sch. 6 para. 43 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d9a5bfdab5ec39dd9bf9c851e6a4b3b3]: Commencement: Sch. 6 para. 43 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-73966c0087687dc3c25dc5be049b6cf3]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/43) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
+[^c-73966c0087687dc3c25dc5be049b6cf3]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/43) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
 
-[^key-42b98b7096b54954a45f8f52049bd5f1]: Commencement: Sch. 6 para. 44 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-42b98b7096b54954a45f8f52049bd5f1]: Commencement: Sch. 6 para. 44 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a6ff99c398a1a0b155514da8b13195a5]: Commencement: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/44) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
+[^c-a6ff99c398a1a0b155514da8b13195a5]: Commencement: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/44) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(i)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/i) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/6))
 
-[^key-84d2a45abe70e9ffd7fbf3170010958d]: Commencement: Sch. 6 para. 45 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-84d2a45abe70e9ffd7fbf3170010958d]: Commencement: Sch. 6 para. 45 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1d938010488ecf545041ed69e77b7cd0]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-1d938010488ecf545041ed69e77b7cd0]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/45) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-bfbf117bdaef16ce57aeed3cdc994e3f]: Commencement: Sch. 6 para. 46 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-bfbf117bdaef16ce57aeed3cdc994e3f]: Commencement: Sch. 6 para. 46 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8ca113049015ef0e87c33ff720f43a7a]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/46) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
+[^c-8ca113049015ef0e87c33ff720f43a7a]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/46) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4))
 
-[^key-6a3f74082abe60126571609edc6ce9e0]: Commencement: Sch. 6 para. 47 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6a3f74082abe60126571609edc6ce9e0]: Commencement: Sch. 6 para. 47 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f3394ef0a40abc47a7fd799ab8a80ca8]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-f3394ef0a40abc47a7fd799ab8a80ca8]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-98f23c766678e779da7f8d6c3d9c7a17]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
+[^c-98f23c766678e779da7f8d6c3d9c7a17]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/47) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
 
-[^key-9fdf5d11971c49af569e016b873bf631]: Commencement: Sch. 6 para. 48 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9fdf5d11971c49af569e016b873bf631]: Commencement: Sch. 6 para. 48 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-71f2c88626905f04111188b26734c492]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-71f2c88626905f04111188b26734c492]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-610d5c176b126af82efa2681755839fd]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
+[^c-610d5c176b126af82efa2681755839fd]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/48) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(7)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/7))
 
-[^key-d75a2ad73f34500519b31cca7a019a6b]: Commencement: Sch. 6 para. 49 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d75a2ad73f34500519b31cca7a019a6b]: Commencement: Sch. 6 para. 49 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e9787be1a5bfd560126ad6483fa5f8fd]: Commencement: [Sch. 6 para. 49](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/49) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-e9787be1a5bfd560126ad6483fa5f8fd]: Commencement: [Sch. 6 para. 49](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/49) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-3a60bf7225bf8e7f5b85bef025952d57]: Commencement: Sch. 6 para. 50 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3a60bf7225bf8e7f5b85bef025952d57]: Commencement: Sch. 6 para. 50 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-392535712ce666c2d65cddfd597e6a9f]: Commencement: [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-392535712ce666c2d65cddfd597e6a9f]: Commencement: [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/50) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-44af08d348eb373b056525a72c83cc94]: Commencement: Sch. 6 para. 51 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-44af08d348eb373b056525a72c83cc94]: Commencement: Sch. 6 para. 51 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7c9281558eadca1d5abfb020383ae06b]: Commencement: [Sch. 6 para. 51](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/51) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-7c9281558eadca1d5abfb020383ae06b]: Commencement: [Sch. 6 para. 51](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/51) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-5ff4cf218dd4f609849ae4e46070b9c4]: Commencement: Sch. 6 para. 52 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-5ff4cf218dd4f609849ae4e46070b9c4]: Commencement: Sch. 6 para. 52 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5f334e064828c6c254dd66eb526dd936]: Commencement: [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/52) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-5f334e064828c6c254dd66eb526dd936]: Commencement: [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/52) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-a1fe17af14c73ced8a34da1ecf50671c]: Commencement: Sch. 6 para. 53 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a1fe17af14c73ced8a34da1ecf50671c]: Commencement: Sch. 6 para. 53 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-827a444385bce7d3375583c817011bd0]: Commencement: [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/53) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-827a444385bce7d3375583c817011bd0]: Commencement: [Sch. 6 para. 53](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/53) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-976ba94e578d1c1031aa515a50cc903d]: Commencement: Sch. 6 para. 54 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-976ba94e578d1c1031aa515a50cc903d]: Commencement: Sch. 6 para. 54 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0672a82f4d399c15a500400df84cba7e]: Commencement: [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-0672a82f4d399c15a500400df84cba7e]: Commencement: [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/54) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-95d1777626671f6137f668b3a74614c0]: Commencement: Sch. 6 para. 55 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-95d1777626671f6137f668b3a74614c0]: Commencement: Sch. 6 para. 55 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7fea22a4bac0ba2f94d30ecacdab86df]: Commencement: [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/55) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
+[^c-7fea22a4bac0ba2f94d30ecacdab86df]: Commencement: [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/55) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6))
 
-[^key-cef3bcb3656cde32d8aa49655f5b7c7c]: Commencement: Sch. 6 para. 56 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-cef3bcb3656cde32d8aa49655f5b7c7c]: Commencement: Sch. 6 para. 56 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4e989716f9ce9667af917db901995c15]: Commencement: [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/56) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
+[^c-4e989716f9ce9667af917db901995c15]: Commencement: [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/56) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
 
-[^key-e3d13eaf31e25b147e4854be55c83850]: Commencement: Sch. 6 para. 57 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e3d13eaf31e25b147e4854be55c83850]: Commencement: Sch. 6 para. 57 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fdab8177d445865df7c7d580a1d3f653]: Commencement: [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/57) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
+[^c-fdab8177d445865df7c7d580a1d3f653]: Commencement: [Sch. 6 para. 57](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/57) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [regs. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8), [6](https://www.legislation.gov.uk/uksi/2026/1065/regulation/6))
 
-[^key-4ccd1f41b7af5a5dfcb78e724556728f]: Commencement: Sch. 6 para. 58 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-4ccd1f41b7af5a5dfcb78e724556728f]: Commencement: Sch. 6 para. 58 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-ae7f6211e3fa728abcc876252966edb8]: Commencement: [Sch. 6 para. 58](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/58) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8))
+[^c-ae7f6211e3fa728abcc876252966edb8]: Commencement: [Sch. 6 para. 58](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/58) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(8)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/8))
 
-[^key-836df1ba2e725d06341434c01638dff1]: Commencement: Sch. 6 para. 59 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-836df1ba2e725d06341434c01638dff1]: Commencement: Sch. 6 para. 59 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-512e785ce23603273b759cea08d72058]: Commencement: [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/59) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
+[^c-512e785ce23603273b759cea08d72058]: Commencement: [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/59) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
 
-[^key-e7b38b63d5399578b510ecf976bb4765]: Commencement: Sch. 6 para. 60 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e7b38b63d5399578b510ecf976bb4765]: Commencement: Sch. 6 para. 60 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-13d7ae15dffac9cb90ed8a8f84976326]: Commencement: [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/60) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
+[^c-13d7ae15dffac9cb90ed8a8f84976326]: Commencement: [Sch. 6 para. 60](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/60) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(9)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/9))
 
-[^key-59ea89015db33322f2d6d3c3e58d8d1a]: Commencement: Sch. 6 para. 61 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-59ea89015db33322f2d6d3c3e58d8d1a]: Commencement: Sch. 6 para. 61 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-27512a33b0db1072a166e4cc63a49a49]: Commencement: [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/61) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
+[^c-27512a33b0db1072a166e4cc63a49a49]: Commencement: [Sch. 6 para. 61](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/61) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10))
 
-[^key-6357fc4842b27bc84735157be6b2cb9c]: Commencement: Sch. 6 para. 62 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6357fc4842b27bc84735157be6b2cb9c]: Commencement: Sch. 6 para. 62 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4cea93a7d212a1466218d28efe6ae691]: Commencement: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-4cea93a7d212a1466218d28efe6ae691]: Commencement: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-88f7af80e313a99d13eb0e101761ff37]: Commencement: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
+[^c-88f7af80e313a99d13eb0e101761ff37]: Commencement: [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/62) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
 
-[^key-fe04ffd069c049cb2a3fbe43ec3b8178]: Commencement: Sch. 6 para. 63 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-fe04ffd069c049cb2a3fbe43ec3b8178]: Commencement: Sch. 6 para. 63 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b1af129b08daa72e9200501902e5c8ee]: Commencement: [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
+[^c-b1af129b08daa72e9200501902e5c8ee]: Commencement: [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(37)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/37/b)
 
-[^key-7d086b449b45a14c1cea2d5fbf8e33a3]: Commencement: [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
+[^c-7d086b449b45a14c1cea2d5fbf8e33a3]: Commencement: [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/63) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(11)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/11))
 
-[^key-046cab4c642c1a0c7d0564dbf986efba]: Commencement: Sch. 6 para. 64 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-046cab4c642c1a0c7d0564dbf986efba]: Commencement: Sch. 6 para. 64 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-fbfc854591a983d4d659c3ad15792958]: Commencement: [Sch. 6 para. 64](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
+[^c-fbfc854591a983d4d659c3ad15792958]: Commencement: [Sch. 6 para. 64](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/64) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
 
-[^key-c9191e433d71ebe866bdc5fd8fbde69a]: Commencement: Sch. 6 para. 65 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c9191e433d71ebe866bdc5fd8fbde69a]: Commencement: Sch. 6 para. 65 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-66e1c58c765544c1c58515276084a018]: Commencement: [Sch. 6 para. 65](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/65) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(j)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/j) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1), [(4)-(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/4))
+[^c-66e1c58c765544c1c58515276084a018]: Commencement: [Sch. 6 para. 65](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/65) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(27)(j)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/27/j) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/1), [(4)-(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/6/4))
 
-[^key-93749a3e9149dc27863e8a8f25742167]: Commencement: Sch. 6 para. 66 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-93749a3e9149dc27863e8a8f25742167]: Commencement: Sch. 6 para. 66 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f652ee8a1340dbf5104b4f04fb5fa896]: Commencement: [Sch. 6 para. 66](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1)[(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4)[(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6)[(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10)[(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))
+[^c-f652ee8a1340dbf5104b4f04fb5fa896]: Commencement: [Sch. 6 para. 66](https://www.legislation.gov.uk/ukpga/2025/36/schedule/6/paragraph/66) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/f) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/1)[(4)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/4)[(6)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/6)[(10)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/10)[(12)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/4/12))

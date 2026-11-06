@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies if a local policing body[^key-bcde1229ededb6c884e544f9c152c167] has entered into a contract with a person (“**the contractor**”) for the provision of services relating to the detention or escort of persons who have been arrested or are otherwise in custody.
+(1) This section applies if a local policing body[^c-bcde1229ededb6c884e544f9c152c167] has entered into a contract with a person (“**the contractor**”) for the provision of services relating to the detention or escort of persons who have been arrested or are otherwise in custody.
 
 (2) The chief officer of police of the police force maintained by that local policing body may designate any person who is an employee of the contractor as either or both of the following—
 
@@ -49,18 +49,18 @@ summary: ''
 
 (8) Where any power exercisable by any person in reliance on his designation under this section is a power which, in the case of its exercise by a constable, includes or is supplemented by a power to use reasonable force, any person exercising that power in reliance on that designation shall have the same entitlement as a constable to use reasonable force.
 
-(9)[^key-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-fe27f9e1301e006cb6c0ab0d6eebe992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) A designation under this section, unless it is previously withdrawn or ceases to have effect in accordance with subsection (13), shall remain in force for such period as may be specified in the designation; but it may be renewed at any time with effect from the time when it would otherwise expire.
 
 (13) A designation under this section shall cease to have effect—
 
 - (a) if the designated person ceases to be an employee of the contractor; or
-- (b) if the contract between the local policing body[^key-120dea0adc04ec59dbfb04c95381b8c9] and the contractor is terminated or expires.
+- (b) if the contract between the local policing body[^c-120dea0adc04ec59dbfb04c95381b8c9] and the contractor is terminated or expires.
 
 ## Annotations
 
@@ -68,8 +68,8 @@ summary: ''
 
 [^c19956781]: Modification: S. 39 applied (with modifications) (1.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 28(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2003/20/section/28/1/b/2), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120) (with [s. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72)); [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(k)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/k)
 
-[^key-bcde1229ededb6c884e544f9c152c167]: Textual amendment: Words in s. 39(1)(2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 294(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/294/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-bcde1229ededb6c884e544f9c152c167]: Textual amendment: Words in s. 39(1)(2) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 294(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/294/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-fe27f9e1301e006cb6c0ab0d6eebe992]: Textual amendment: [S. 39(9)-(11)](https://www.legislation.gov.uk/ukpga/2002/30/section/39/9) repealed (8.4.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 94](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/94) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(d)(i)](https://www.legislation.gov.uk/uksi/2015/373/article/5/d/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2015/373/article/6), [7](https://www.legislation.gov.uk/uksi/2015/373/article/7))
+[^c-fe27f9e1301e006cb6c0ab0d6eebe992]: Textual amendment: [S. 39(9)-(11)](https://www.legislation.gov.uk/ukpga/2002/30/section/39/9) repealed (8.4.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 94](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/94) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 5(d)(i)](https://www.legislation.gov.uk/uksi/2015/373/article/5/d/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2015/373/article/6), [7](https://www.legislation.gov.uk/uksi/2015/373/article/7))
 
-[^key-120dea0adc04ec59dbfb04c95381b8c9]: Textual amendment: Words in s. 39(13)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 294(4)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/294/4); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-120dea0adc04ec59dbfb04c95381b8c9]: Textual amendment: Words in s. 39(13)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 294(4)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/294/4); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

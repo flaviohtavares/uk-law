@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 987A. Chief constables etc (England and Wales)[^key-eaae157c70e59ba7d584adddb8632b09]
+## 987A. Chief constables etc (England and Wales)[^c-eaae157c70e59ba7d584adddb8632b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following are not liable to corporation tax—
 
 ## Annotations
 
-[^key-eaae157c70e59ba7d584adddb8632b09]: Textual amendment: S. 987A and cross-heading inserted (retrospective to 16.1.2012) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/2))
+[^c-eaae157c70e59ba7d584adddb8632b09]: Textual amendment: S. 987A and cross-heading inserted (retrospective to 16.1.2012) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/38/2))

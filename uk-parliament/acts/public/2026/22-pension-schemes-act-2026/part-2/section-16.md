@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Consequences of an intermediate rating[^key-afcfa8d940dfa78c487264d56eb1216a]
+## 16. Consequences of an intermediate rating[^c-afcfa8d940dfa78c487264d56eb1216a]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afcfa8d940dfa78c487264d56eb1216a]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-afcfa8d940dfa78c487264d56eb1216a]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

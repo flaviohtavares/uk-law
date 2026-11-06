@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 233. Effect of reaching 18[^key-e24b621e2900a4d056dff04036bac842]
+## 233. Effect of reaching 18[^c-e24b621e2900a4d056dff04036bac842]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e24b621e2900a4d056dff04036bac842]: Commencement: [S. 233](https://www.legislation.gov.uk/anaw/2016/1/section/233) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e24b621e2900a4d056dff04036bac842]: Commencement: [S. 233](https://www.legislation.gov.uk/anaw/2016/1/section/233) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

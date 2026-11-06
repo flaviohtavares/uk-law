@@ -41,15 +41,15 @@ summary: ''
 | - (2) The other pair of reflectors: | No requirement |
 | - (B) Minimum separation distance between rear reflectors–<br>  - (1) One pair of reflectors: | Such that they satisfy the relevant requirements in sub-paragraph 2(b)(i)(B) |
 | - (2) The other pair of reflectors: | No requirement |
-| (c) Vertical–<br>- (i) Maximum height above the ground where one or two rear reflectors are required to be fitted–<br>  - (A) Any vehicle not covered by sub-paragraph (B): | 900 mm or, if the structure of the vehicle makes this impracticable, 1500 mm[^key-e47ddc313bfe819b44ff413811861f6e] |
+| (c) Vertical–<br>- (i) Maximum height above the ground where one or two rear reflectors are required to be fitted–<br>  - (A) Any vehicle not covered by sub-paragraph (B): | 900 mm or, if the structure of the vehicle makes this impracticable, 1500 mm[^c-e47ddc313bfe819b44ff413811861f6e] |
 | - (B) A motor vehicle first used before 1st April 1986 and any other vehicle manufactured before 1st October 1985: | 1525 mm |
 | - (ii) Maximum height above the ground where four rear reflectors are required to be fitted–<br>  - (A) One pair of reflectors: | Such that they satisfy the relevant requirements in paragraph 2(c)(i) |
 | - (B) The other pair of reflectors: | 2100 mm |
-| - (iii) Minimum height above the ground–<br>  - (A) Any vehicle not covered by sub-paragraph (B): | 250 mm[^key-9867fc3b6c9a819a040b9a0244f2bdef] |
+| - (iii) Minimum height above the ground–<br>  - (A) Any vehicle not covered by sub-paragraph (B): | 250 mm[^c-9867fc3b6c9a819a040b9a0244f2bdef] |
 | - (B) A motor vehicle first used before 1st April 1986 and any other vehicle manufactured before 1st October 1985: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**3.**[^M_I_a2ffe855-bf88-455c-ecbe-6263c519b1c1] Angles of visibility–<br>(a) A motor vehicle (not being a motor bicycle combination) first used on or after 1st April 1986 and a trailer manufactured on or after 1st October 1985–<br>- (i) Where one or two rear reflectors are required to be fitted–<br>  - (A) Horizontal–<br>    - (1) Where two rear reflectors are required to be fitted: | 30° inwards and outwards |
 | - (2) Where one rear reflector is required to be fitted: | 30° to the left and to the right |
-| - (B) Vertical–<br>  - (1) Except in a case specified in sub-paragraph (2): | 10°[^key-85667b169d78e3903a4c401a65635c50] above and below the horizontal |
+| - (B) Vertical–<br>  - (1) Except in a case specified in sub-paragraph (2): | 10°[^c-85667b169d78e3903a4c401a65635c50] above and below the horizontal |
 | - (2) Where the highest part of the reflecting area is less than 750 mm above the ground: | 10° above and 5° below the horizontal |
 | - (ii) Where four rear reflectors are required to be fitted–<br>  - (A) One pair of reflectors: | Such that they satisfy the relevant requirements in paragraph 3(a)(i) |
 | - (B) The other pair of reflectors: | Plainly visible to the rear |
@@ -68,15 +68,15 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**6.**[^M_I_2452b4b6-57c8-46a8-d7fd-32562ac29432] Size of reflecting area: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**7.**[^M_I_65cc160c-6dd5-48a7-de5e-0afd031dc67e] Colour: | Red |
 
-**8.**[^key-d367133b060c9650086117e7108cd2a1] Other requirements–
+**8.**[^c-d367133b060c9650086117e7108cd2a1] Other requirements–
 
 (a) Except in the case of a motor vehicle first used before 1st April 1986, any other vehicle manufactured before 1st October 1985 and a motor bicycle combination, where two rear reflectors are required to be fitted they shall form a pair. Where four rear reflectors are required to be fitted they shall form two pairs.
 
 (b) No vehicle, other than a trailer or a broken-down motor vehicle being towed, may be fitted with triangular-shaped rear reflectors.
 
-(c)[^key-2e3d9b65f80255125dd7ceb77ba9e457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(c)[^c-2e3d9b65f80255125dd7ceb77ba9e457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3396d866c62225a33b75070443cf18f8] Definitions–
+**9.**[^c-3396d866c62225a33b75070443cf18f8] Definitions–
 
 - In this Schedule–
   - (a) “approval mark” means either–
@@ -88,21 +88,21 @@ summary: ''
   - (c) “Italian approved marking” means–
     - a mark approved by the Italian Ministry of Transport, namely, one including two separate groups of symbols consisting of “IGM” or “DGM” and “C.1.” or “C.2.”.
 
-### PART II — REQUIREMENTS RELATING TO OPTIONAL REAR RETRO REFLECTORS[^key-9366d273c50e43a2f990a7f00e7f1e36]
+### PART II — REQUIREMENTS RELATING TO OPTIONAL REAR RETRO REFLECTORS[^c-9366d273c50e43a2f990a7f00e7f1e36]
 
-**1.**[^key-d43571cbd494001acec4d948079e41ea] Any number may be fitted and the only requirements in respect of any which are fitted are those specified in paragraphs 7 and 8(b) of Part I , subject to paragraphs 2 and 3.[^key-efdbab11b507e829d4b3f0f048b1d026]
+**1.**[^c-d43571cbd494001acec4d948079e41ea] Any number may be fitted and the only requirements in respect of any which are fitted are those specified in paragraphs 7 and 8(b) of Part I , subject to paragraphs 2 and 3.[^c-efdbab11b507e829d4b3f0f048b1d026]
 
-**2.**[^key-e9286970c9a66b1550eebc3310bf12a2] [^key-f5fd752b1d9d06a4c8d8997a82a47197]...The colour of rear retro reflectors fitted to a vehicle used for—
+**2.**[^c-e9286970c9a66b1550eebc3310bf12a2] [^c-f5fd752b1d9d06a4c8d8997a82a47197]...The colour of rear retro reflectors fitted to a vehicle used for—
 
 - (a) police,
-- (b) Scottish Fire and Rescue Service[^key-67b250ae26f19ffd0b06332ebc17c483] or, in England and Wales, fire and rescue authority,
-- (c)[^key-9abb2b446029b5201252d389a8d1d0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) Driver and Vehicle Standards Agency[^key-b19ca4dd6bb2dd92fe0e33afec1b81c7], or
+- (b) Scottish Fire and Rescue Service[^c-67b250ae26f19ffd0b06332ebc17c483] or, in England and Wales, fire and rescue authority,
+- (c)[^c-9abb2b446029b5201252d389a8d1d0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) Driver and Vehicle Standards Agency[^c-b19ca4dd6bb2dd92fe0e33afec1b81c7], or
 - (e) traffic officer,
 
 purposes may be red, yellow or orange (or any combination).
 
-**3..**[^key-e89d504dce99316b505952184ea86518] The colour of rear retro reflectors fitted to—
+**3..**[^c-e89d504dce99316b505952184ea86518] The colour of rear retro reflectors fitted to—
 
 - (a) a vehicle used for ambulance purposes, or
 - (b) a vehicle used for the purpose of providing a response to an emergency at the request of an NHS ambulance service,
@@ -115,13 +115,13 @@ may be red, yellow or orange (or any combination), provided that, in the case me
 
 [^M_I_1e2f72e6-ddc5-4ead-aa12-d547c9441693]: Commencement: Sch. 18 Pt. 1 para. 2 in force at 1.11.1989, see reg. 1(1)
 
-[^key-e47ddc313bfe819b44ff413811861f6e]: Textual amendment: Words in Sch. 18 Pt. 1 para. 2(c)(i)(A) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/a)
+[^c-e47ddc313bfe819b44ff413811861f6e]: Textual amendment: Words in Sch. 18 Pt. 1 para. 2(c)(i)(A) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/a)
 
-[^key-9867fc3b6c9a819a040b9a0244f2bdef]: Textual amendment: Words in Sch. 18 Pt. 1 para. 2(c)(iii)(A) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/b)
+[^c-9867fc3b6c9a819a040b9a0244f2bdef]: Textual amendment: Words in Sch. 18 Pt. 1 para. 2(c)(iii)(A) substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/b)
 
 [^M_I_a2ffe855-bf88-455c-ecbe-6263c519b1c1]: Commencement: Sch. 18 Pt. 1 para. 3 in force at 1.11.1989, see reg. 1(1)
 
-[^key-85667b169d78e3903a4c401a65635c50]: Textual amendment: Word in Sch. 18 Pt. 1 paras. 3(a)(i)(B)(1), (2), substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/c)
+[^c-85667b169d78e3903a4c401a65635c50]: Textual amendment: Word in Sch. 18 Pt. 1 paras. 3(a)(i)(B)(1), (2), substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/2/c)
 
 [^M_I_a62125fa-38f2-4811-d10e-f3c6c6b98105]: Commencement: Sch. 18 Pt. 1 para. 4 in force at 1.11.1989, see reg. 1(1)
 
@@ -131,26 +131,26 @@ may be red, yellow or orange (or any combination), provided that, in the case me
 
 [^M_I_65cc160c-6dd5-48a7-de5e-0afd031dc67e]: Commencement: Sch. 18 Pt. 1 para. 7 in force at 1.11.1989, see reg. 1(1)
 
-[^key-d367133b060c9650086117e7108cd2a1]: Commencement: Sch. 18 Pt. 1 para. 8 in force at 1.11.1989, see reg. 1(1)
+[^c-d367133b060c9650086117e7108cd2a1]: Commencement: Sch. 18 Pt. 1 para. 8 in force at 1.11.1989, see reg. 1(1)
 
-[^key-2e3d9b65f80255125dd7ceb77ba9e457]: Textual amendment: [Sch. 18 para. 8(c)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/paragraph/8/c) omitted (1.10.1994) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/16/3)
+[^c-2e3d9b65f80255125dd7ceb77ba9e457]: Textual amendment: [Sch. 18 para. 8(c)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/paragraph/8/c) omitted (1.10.1994) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/16/3)
 
-[^key-3396d866c62225a33b75070443cf18f8]: Commencement: Sch. 18 Pt. 1 para. 9 in force at 1.11.1989, see reg. 1(1)
+[^c-3396d866c62225a33b75070443cf18f8]: Commencement: Sch. 18 Pt. 1 para. 9 in force at 1.11.1989, see reg. 1(1)
 
-[^key-9366d273c50e43a2f990a7f00e7f1e36]: Textual amendment: Sch. 18 Pt. 2 substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/3)
+[^c-9366d273c50e43a2f990a7f00e7f1e36]: Textual amendment: Sch. 18 Pt. 2 substituted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/14/3)
 
-[^key-d43571cbd494001acec4d948079e41ea]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/1) renumbered as Sch. 18 Pt. 2 para. 1 (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/2)
+[^c-d43571cbd494001acec4d948079e41ea]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/1) renumbered as Sch. 18 Pt. 2 para. 1 (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/2)
 
-[^key-efdbab11b507e829d4b3f0f048b1d026]: Textual amendment: Words in [Sch. 18 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/1) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/3)
+[^c-efdbab11b507e829d4b3f0f048b1d026]: Textual amendment: Words in [Sch. 18 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/1) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/3)
 
-[^key-e9286970c9a66b1550eebc3310bf12a2]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2) renumbered as Sch. 18 Pt. 2 para. 2 (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/4)
+[^c-e9286970c9a66b1550eebc3310bf12a2]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2) renumbered as Sch. 18 Pt. 2 para. 2 (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/4)
 
-[^key-f5fd752b1d9d06a4c8d8997a82a47197]: Textual amendment: Word in [Sch. 18 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/5/a)
+[^c-f5fd752b1d9d06a4c8d8997a82a47197]: Textual amendment: Word in [Sch. 18 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/5/a)
 
-[^key-67b250ae26f19ffd0b06332ebc17c483]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/7/5)
+[^c-67b250ae26f19ffd0b06332ebc17c483]: Textual amendment: Words in [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/7/5)
 
-[^key-9abb2b446029b5201252d389a8d1d0ab]: Textual amendment: [Sch. 18 Pt. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2/c) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/5/b)
+[^c-9abb2b446029b5201252d389a8d1d0ab]: Textual amendment: [Sch. 18 Pt. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/2/c) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/5/b)
 
-[^key-b19ca4dd6bb2dd92fe0e33afec1b81c7]: Textual amendment: Words in [Sch. 18 Pt. 2(d)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/d) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/480/regulation/5/4)
+[^c-b19ca4dd6bb2dd92fe0e33afec1b81c7]: Textual amendment: Words in [Sch. 18 Pt. 2(d)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/d) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2014/480/regulation/5/4)
 
-[^key-e89d504dce99316b505952184ea86518]: Textual amendment: [Sch. 18 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/3) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/6)
+[^c-e89d504dce99316b505952184ea86518]: Textual amendment: [Sch. 18 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1989/1796/schedule/18/part/II/paragraph/3) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(d)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/d), [Sch. 9 para. 14(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/9/paragraph/14/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Challenge or appeal: effect of order of court.[^c833526][^c2085247][^c2085679][^c2085780][^c2086253][^key-237c8db002454e602678ddeb957922d0]
+## 71. Challenge or appeal: effect of order of court.[^c833526][^c2085247][^c2085679][^c2085780][^c2086253][^c-237c8db002454e602678ddeb957922d0]
 
 *Extent: E+W+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2086253]: Modification: S. 71 applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. para. 118](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/118)
 
-[^key-237c8db002454e602678ddeb957922d0]: Modification: S. 71 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/115)
+[^c-237c8db002454e602678ddeb957922d0]: Modification: S. 71 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 115](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/115)

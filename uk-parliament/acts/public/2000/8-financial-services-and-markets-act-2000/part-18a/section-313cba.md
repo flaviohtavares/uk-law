@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313CBA. Significant damage to investors’ interests or orderly functioning of market[^key-3053e2b93a9545e8091a885465cad250][^c2077965]
+## 313CBA. Significant damage to investors’ interests or orderly functioning of market[^c-3053e2b93a9545e8091a885465cad250][^c2077965]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3053e2b93a9545e8091a885465cad250]: Textual amendment: S. 313CBA inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1020/regulation/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
+[^c-3053e2b93a9545e8091a885465cad250]: Textual amendment: S. 313CBA inserted (23.10.2025) by [The Markets in Financial Instruments (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1020)](https://www.legislation.gov.uk/uksi/2025/1020), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1020/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/1020/regulation/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/1020/regulation/17)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2025/1078/regulation/11))
 
 [^c2077965]: Textual amendment: Pt. 18A inserted (1.4.2007 for certain purposes and 1.11.2007 otherwise) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 (S.I. 2007/126)](https://www.legislation.gov.uk/uksi/2007/126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/126/schedule/3/paragraph/1)

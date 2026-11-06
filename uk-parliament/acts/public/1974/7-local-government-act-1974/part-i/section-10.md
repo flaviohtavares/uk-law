@@ -29,25 +29,25 @@ summary: ''
 - (e) the Common Council of the City of London, and
 - (f) the Council of the Isles of Scilly,
 
-[^key-ae8c71a7bc9d85bd184f9e5bbe6aca68]...
+[^c-ae8c71a7bc9d85bd184f9e5bbe6aca68]...
 
 (2)[^c779566] In this Part of this Act —
 
-- [^key-93fd627b02a0f79f25515140ff99d237]...
+- [^c-93fd627b02a0f79f25515140ff99d237]...
 - “**year**” means a period of twelve months beginning with 1st April.
 
-(3)[^key-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7c5452735f7d9ed4853c8447aaf90b48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c779566]: Modification: Power to amend s. 10(1)(2) conferred by [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 53(10)(11)(c)](https://www.legislation.gov.uk/ukpga/1980/65/section/53/10/11/c), [Sch. 8](https://www.legislation.gov.uk/ukpga/1980/65/schedule/8)
 
-[^key-ae8c71a7bc9d85bd184f9e5bbe6aca68]: Textual amendment: Words in s. 10(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-ae8c71a7bc9d85bd184f9e5bbe6aca68]: Textual amendment: Words in s. 10(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
-[^key-93fd627b02a0f79f25515140ff99d237]: Textual amendment: Words in s. 10(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-93fd627b02a0f79f25515140ff99d237]: Textual amendment: Words in s. 10(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
-[^key-7c5452735f7d9ed4853c8447aaf90b48]: Textual amendment: S. 10(3)-(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-7c5452735f7d9ed4853c8447aaf90b48]: Textual amendment: S. 10(3)-(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

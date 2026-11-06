@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72P. Small accidental failures in relation to electronic voting to be disregarded[^key-1a25d560e20f6072872377d3956955df]
+## 72P. Small accidental failures in relation to electronic voting to be disregarded[^c-1a25d560e20f6072872377d3956955df]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the failure (or failures), in so far as they relate to electronic voting, are to
 
 ## Annotations
 
-[^key-1a25d560e20f6072872377d3956955df]: Textual amendment: Ss. 72B-72P and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/881/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-1a25d560e20f6072872377d3956955df]: Textual amendment: Ss. 72B-72P and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/881/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

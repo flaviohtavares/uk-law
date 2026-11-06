@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Proceedings before Tribunal[^key-fc635b4662a287b97703afff73074b77]
+## 23. Proceedings before Tribunal[^c-fc635b4662a287b97703afff73074b77]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc635b4662a287b97703afff73074b77]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2012/21/section/23) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-fc635b4662a287b97703afff73074b77]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2012/21/section/23) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

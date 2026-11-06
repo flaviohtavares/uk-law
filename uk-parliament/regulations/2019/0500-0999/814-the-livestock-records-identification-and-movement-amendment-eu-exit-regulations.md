@@ -44,11 +44,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-a0f14f49dc23581096c8cd282801b35a]
+## 1. Citation and commencement[^c-a0f14f49dc23581096c8cd282801b35a]
 
 These Regulations may be cited as the Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
-## 2. Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)[^key-790159cbb413a4bd77329f022edcaef7]
+## 2. Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)[^c-790159cbb413a4bd77329f022edcaef7]
 
 (1) Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494) laying down detailed rules for the implementation of Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals is amended as follows.
 
@@ -56,7 +56,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (3) After Article 5, omit the words from “This” to “States”.
 
-## 3. Commission Regulation [(EC) No 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509)[^key-3707cc3211f1ba8035c0379dd5da50f9]
+## 3. Commission Regulation [(EC) No 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509)[^c-3707cc3211f1ba8035c0379dd5da50f9]
 
 (1) Commission Regulation [(EC) No 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509) concerning an extension of the maximum period laid down for the application of ear-tags to bison (Bison bison spp.) is amended as follows.
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (3) After Article 3, omit the words from “This” to “States”.
 
-## 4. Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council[^key-b61798911a3598585135fb87a3135e17]
+## 4. Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council[^c-b61798911a3598585135fb87a3135e17]
 
 (1) Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products is amended as follows.
 
@@ -75,7 +75,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (3) In Article 2—
 
-- (a)[^key-983e94496aa1d2e2f71f15a5e5511fc1] in the definition of “holding”, for “the same Member State” substitute “Great Britain”;
+- (a)[^c-983e94496aa1d2e2f71f15a5e5511fc1] in the definition of “holding”, for “the same Member State” substitute “Great Britain”;
 - (b) in the definition of “competent authority”, for “central authority or authorities in a Member State” substitute “ authority or authorities ”;
 - (c) after the definition of “competent authority” insert—
 
@@ -114,9 +114,9 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 (7) In Article 4b—
 
 - (a) in paragraph 1—
-  - (i)[^key-e8a7fc4cf89f3f5f6e82775b5d8551c0] in the first sub-paragraph, for “the Union”, in both places where it occurs, substitute “Great Britain”;
+  - (i)[^c-e8a7fc4cf89f3f5f6e82775b5d8551c0] in the first sub-paragraph, for “the Union”, in both places where it occurs, substitute “Great Britain”;
   - (ii) in the second subparagraph, for “Member State of destination” substitute “ competent authority ”;
-  - (iii)[^key-50f366816bcadb9879d8b78a8a1a515f] in the third sub-paragraph, for “a Member State” substitute “Great Britain”;
+  - (iii)[^c-50f366816bcadb9879d8b78a8a1a515f] in the third sub-paragraph, for “a Member State” substitute “Great Britain”;
 - (b) in paragraph 2, in the first subparagraph, for “Member State in which the holding of destination is located” substitute “ appropriate Minister ”;
 - (c) in paragraph 3, in the first subparagraph—
   - (i) for “holding of destination is situated in a Member State that” substitute “ appropriate Minister ”;
@@ -126,9 +126,9 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (8) In Article 4c—
 
-- (a)[^key-19ce1abdcf2dbe3e841d9f97972ceebb] in the heading, for “one Member State to another” substitute “a Member State to Great Britain”;
+- (a)[^c-19ce1abdcf2dbe3e841d9f97972ceebb] in the heading, for “one Member State to another” substitute “a Member State to Great Britain”;
 - (b) in paragraph 1—
-  - (i)[^key-fc5b1abac5ae56d6550d1a6cf544b14a] for “one Member State to another” substitute “a Member State to Great Britain”;
+  - (i)[^c-fc5b1abac5ae56d6550d1a6cf544b14a] for “one Member State to another” substitute “a Member State to Great Britain”;
   - (ii) omit “of the Member State of destination”;
 - (c) in paragraph 2—
   - (i) for “holding of destination is situated in a Member State that” substitute “ appropriate Minister ”;
@@ -155,7 +155,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 - (a) in the first and third paragraphs for “Member States” substitute “ The appropriate Minister ”;
 - (b) omit the fourth paragraph.
 
-## 5. Commission Regulation [(EC) No 1082/2003](https://www.legislation.gov.uk/european/regulation/2003/1082)[^key-51c820acb56731a482012225ca230080]
+## 5. Commission Regulation [(EC) No 1082/2003](https://www.legislation.gov.uk/european/regulation/2003/1082)[^c-51c820acb56731a482012225ca230080]
 
 (1) Commission Regulation [(EC) No 1082/2003](https://www.legislation.gov.uk/european/regulation/2003/1082) laying down detailed rules for the implementation of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals is amended as follows.
 
@@ -170,7 +170,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (5) Omit Annex 1.
 
-## 6. Commission Regulation [(EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)[^key-0f78fbe6ff661e1a21abe3717b7839b6]
+## 6. Commission Regulation [(EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)[^c-0f78fbe6ff661e1a21abe3717b7839b6]
 
 (1) Commission Regulation [(EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) implementing Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards eartags, passports and holding registers is amended as follows.
 
@@ -196,7 +196,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (8) In Article 12, omit the second sentence.
 
-## 7. Commission Regulation [(EC) No 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644)[^key-d5706834c6cfa0b2ce4ebf3c8275bab6]
+## 7. Commission Regulation [(EC) No 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644)[^c-d5706834c6cfa0b2ce4ebf3c8275bab6]
 
 (1) Commission Regulation [(EC) No 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644) authorising a special identification system for bovine animals kept for cultural and historical purposes on approved premises as provided for in Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council is amended as follows.
 
@@ -204,7 +204,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (3) After Article 5, omit the words from “This” to “States”.
 
-## 8. Commission Decision [(EC) No 2006/28](https://www.legislation.gov.uk/european/regulation/1928/2006)[^key-99fb3c0354b08ffa1517c25451be092c]
+## 8. Commission Decision [(EC) No 2006/28](https://www.legislation.gov.uk/european/regulation/1928/2006)[^c-99fb3c0354b08ffa1517c25451be092c]
 
 (1) Commission Decision [(EC) No 2006/28](https://www.legislation.gov.uk/european/regulation/1928/2006) on extension of the maximum period for applying eartags to certain bovine animals is amended as follows.
 
@@ -217,7 +217,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (4) Omit Article 7.
 
-## 9. Commission Implementing Regulation (EU) No 2017/949[^key-e561d6048403cb2cf030107affa09e95]
+## 9. Commission Implementing Regulation (EU) No 2017/949[^c-e561d6048403cb2cf030107affa09e95]
 
 (1) Commission Implementing Regulation EU No 2017/949 laying down rules for the application of Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council with regard to the configuration of the identification code for bovine animals is amended as follows.
 
@@ -234,7 +234,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 > | Iceland | IS | 352 |
 > | Norway | NO | 578 |
 
-## 10. Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021)[^key-4b952d0342a2297e3a163e14acae5e80]
+## 10. Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021)[^c-4b952d0342a2297e3a163e14acae5e80]
 
 (1) Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals is amended as follows.
 
@@ -255,7 +255,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
   >   - (i) in relation to England, the Secretary of State;
   >   - (ii) in relation to Wales, the Welsh Ministers;
   >   - (iii) in relation to Scotland, the Scottish Ministers;
-  >   - (iv)[^key-64cef208f2f100944e609287d4e34e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (iv)[^c-64cef208f2f100944e609287d4e34e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   > - (f) ‘third country’ means any country or territory other than:
   >   - (i) the United Kingdom;
   >   - (ii) the Bailiwick of Jersey;
@@ -283,7 +283,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 - (d) omit paragraph 2(d);
 - (e) in paragraph 4—
   - (i) in the first subparagraph—
-    - (aa)[^key-206811d98989d34c28b8e526d659b9d5] for “the Community” substitute “Great Britain”;
+    - (aa)[^c-206811d98989d34c28b8e526d659b9d5] for “the Community” substitute “Great Britain”;
     - (bb) for “Member State” substitute “ appropriate Minister ”;
   - (ii) in the second subparagraph, for “Member State of destination” substitute “ competent authority ”;
   - (iii) in the third subparagraph, omit “situated in the Member State”;
@@ -323,7 +323,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 - (a) for the second and third subparagraphs of paragraph 3 substitute—
 
-  > However, if the total number of ovine and caprine animals in Great Britain[^key-6230602a5870351c2131f5e37e949462] is 600 000 or less, the appropriate Minister may make such electronic identification optional for animals not involved in export to the European Union.
+  > However, if the total number of ovine and caprine animals in Great Britain[^c-6230602a5870351c2131f5e37e949462] is 600 000 or less, the appropriate Minister may make such electronic identification optional for animals not involved in export to the European Union.
   >
   > If the total number of caprine animals in Great Britain is 160 000 or less the appropriate Minister may also make such electronic identification optional for caprine animals not involved in export to the European Union.
 
@@ -364,7 +364,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
   > | Iceland | IS | 352 |
   > | Norway | NO | 578 |
 
-## 11. Commission Regulation [(EC) No 1505/2006](https://www.legislation.gov.uk/european/regulation/2006/1505)[^key-3b9cad95b13d133e3a585e29f1e21f19]
+## 11. Commission Regulation [(EC) No 1505/2006](https://www.legislation.gov.uk/european/regulation/2006/1505)[^c-3b9cad95b13d133e3a585e29f1e21f19]
 
 (1) Commission Regulation [(EC) No 1505/2006](https://www.legislation.gov.uk/european/regulation/2006/1505) implementing Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) as regards the minimum level of checks to be carried out in relation to the identification and registration of ovine and caprine animals is amended as follows.
 
@@ -384,7 +384,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (9) Omit the Annex.
 
-## 12. Commission Decision [(EC) No 2006/968](https://www.legislation.gov.uk/european/regulation/19968/2006)[^key-a076de4190bc6e8d1f3375c58cfab83b]
+## 12. Commission Decision [(EC) No 2006/968](https://www.legislation.gov.uk/european/regulation/19968/2006)[^c-a076de4190bc6e8d1f3375c58cfab83b]
 
 (1) Commission Decision [(EC) No 2006/968](https://www.legislation.gov.uk/european/regulation/19968/2006) implementing Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) as regards guidelines and procedures for the electronic identification of ovine and caprine animals is amended as follows.
 
@@ -392,7 +392,7 @@ These Regulations may be cited as the Livestock (Records, Identification and Mov
 
 (3) In the Annex, in Chapter 2, in paragraph 5 for “Member State concerned” substitute “ United Kingdom ”.
 
-## 13. The EEA agreement[^key-5057283d53c535fb25e5fabd5f09c077]
+## 13. The EEA agreement[^c-5057283d53c535fb25e5fabd5f09c077]
 
 In Annex 1 to the EEA agreement, in Chapter 1—
 
@@ -417,44 +417,44 @@ An impact assessment has not be produced for this instrument as no, or no signif
 
 [^c23704921]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a0f14f49dc23581096c8cd282801b35a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-a0f14f49dc23581096c8cd282801b35a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-790159cbb413a4bd77329f022edcaef7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/814/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-790159cbb413a4bd77329f022edcaef7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/814/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-3707cc3211f1ba8035c0379dd5da50f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/814/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-3707cc3211f1ba8035c0379dd5da50f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/814/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-b61798911a3598585135fb87a3135e17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/814/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-b61798911a3598585135fb87a3135e17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/814/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-983e94496aa1d2e2f71f15a5e5511fc1]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/3/a) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/a)
+[^c-983e94496aa1d2e2f71f15a5e5511fc1]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/3/a) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/a)
 
-[^key-e8a7fc4cf89f3f5f6e82775b5d8551c0]: Textual amendment: [Reg. 4(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/7/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/b/i)
+[^c-e8a7fc4cf89f3f5f6e82775b5d8551c0]: Textual amendment: [Reg. 4(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/7/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/b/i)
 
-[^key-50f366816bcadb9879d8b78a8a1a515f]: Textual amendment: [Reg. 4(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/7/a/iii) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/b/ii)
+[^c-50f366816bcadb9879d8b78a8a1a515f]: Textual amendment: [Reg. 4(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/7/a/iii) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/b/ii)
 
-[^key-19ce1abdcf2dbe3e841d9f97972ceebb]: Textual amendment: [Reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/8/a) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/c/i)
+[^c-19ce1abdcf2dbe3e841d9f97972ceebb]: Textual amendment: [Reg. 4(8)(a)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/8/a) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/c/i)
 
-[^key-fc5b1abac5ae56d6550d1a6cf544b14a]: Textual amendment: [Reg. 4(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/8/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/c/ii)
+[^c-fc5b1abac5ae56d6550d1a6cf544b14a]: Textual amendment: [Reg. 4(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/814/regulation/4/8/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/2/c/ii)
 
-[^key-51c820acb56731a482012225ca230080]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/814/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-51c820acb56731a482012225ca230080]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/814/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-0f78fbe6ff661e1a21abe3717b7839b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/814/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-0f78fbe6ff661e1a21abe3717b7839b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/814/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-d5706834c6cfa0b2ce4ebf3c8275bab6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/814/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-d5706834c6cfa0b2ce4ebf3c8275bab6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/814/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-99fb3c0354b08ffa1517c25451be092c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/814/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-99fb3c0354b08ffa1517c25451be092c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/814/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-e561d6048403cb2cf030107affa09e95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/814/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-e561d6048403cb2cf030107affa09e95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/814/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-4b952d0342a2297e3a163e14acae5e80]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/814/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-4b952d0342a2297e3a163e14acae5e80]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/814/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-64cef208f2f100944e609287d4e34e01]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/3/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/a)
+[^c-64cef208f2f100944e609287d4e34e01]: Textual amendment: Words in [reg. 10(3)(b)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/3/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/a)
 
-[^key-206811d98989d34c28b8e526d659b9d5]: Textual amendment: [Reg. 10(5)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/5/e/i/aa) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/b)
+[^c-206811d98989d34c28b8e526d659b9d5]: Textual amendment: [Reg. 10(5)(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/5/e/i/aa) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/b)
 
-[^key-6230602a5870351c2131f5e37e949462]: Textual amendment: Words in [reg. 10(10)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/10) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/c)
+[^c-6230602a5870351c2131f5e37e949462]: Textual amendment: Words in [reg. 10(10)](https://www.legislation.gov.uk/uksi/2019/814/regulation/10/10) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [33(3)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/33/3/c)
 
-[^key-3b9cad95b13d133e3a585e29f1e21f19]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/814/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-3b9cad95b13d133e3a585e29f1e21f19]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/814/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-a076de4190bc6e8d1f3375c58cfab83b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/814/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-a076de4190bc6e8d1f3375c58cfab83b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/814/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
 
-[^key-5057283d53c535fb25e5fabd5f09c077]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/814/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)
+[^c-5057283d53c535fb25e5fabd5f09c077]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/814/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1)

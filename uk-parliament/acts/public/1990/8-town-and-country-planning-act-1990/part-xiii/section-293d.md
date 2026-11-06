@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 293D. Crown development: applications to the Secretary of State[^key-00504185c819efe5c44fb050fb691138]
+## 293D. Crown development: applications to the Secretary of State[^c-00504185c819efe5c44fb050fb691138]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ but does not include an application of the kind described in section 73(1) or an
 
 ## Annotations
 
-[^key-00504185c819efe5c44fb050fb691138]: Textual amendment: Ss. 293B-293J inserted (26.12.2023 for specified purposes, 1.5.2025 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/109/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/430](https://www.legislation.gov.uk/uksi/2025/430), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/430/regulation/2/a)
+[^c-00504185c819efe5c44fb050fb691138]: Textual amendment: Ss. 293B-293J inserted (26.12.2023 for specified purposes, 1.5.2025 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/109/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/430](https://www.legislation.gov.uk/uksi/2025/430), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/430/regulation/2/a)

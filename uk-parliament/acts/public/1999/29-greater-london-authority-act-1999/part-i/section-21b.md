@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21B. Disqualification from being the Mayor: members of legislatures[^key-a951507404166c74cee3d4be096c2359]
+## 21B. Disqualification from being the Mayor: members of legislatures[^c-a951507404166c74cee3d4be096c2359]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ the person is not disqualified under this section from being the Mayor at any ti
 
 ## Annotations
 
-[^key-a951507404166c74cee3d4be096c2359]: Textual amendment: S. 21B inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a951507404166c74cee3d4be096c2359]: Textual amendment: S. 21B inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

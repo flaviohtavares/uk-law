@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 258. Interpretation of Chapter[^key-072f5e396584b6ad11b96b3cf19f376d]
+## 258. Interpretation of Chapter[^c-072f5e396584b6ad11b96b3cf19f376d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Chapter, other than section 252, “**person**” means a natural person
 
 ## Annotations
 
-[^key-072f5e396584b6ad11b96b3cf19f376d]: Commencement: S. 258 in force at 1.9.2004 by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 2](https://www.legislation.gov.uk/ssi/2004/367/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/367/schedule/1)
+[^c-072f5e396584b6ad11b96b3cf19f376d]: Commencement: S. 258 in force at 1.9.2004 by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 2](https://www.legislation.gov.uk/ssi/2004/367/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/367/schedule/1)

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c23571421] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-c22ee89d70309bc559850a0a6ecf500e]
+## 1. Citation and commencement[^c-c22ee89d70309bc559850a0a6ecf500e]
 
 These Regulations may be cited as the Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019 and come into force on 1 April 2019.
 
-## 2. Interpretation[^key-faf3c0013424efc8b02013d97c66e4df]
+## 2. Interpretation[^c-faf3c0013424efc8b02013d97c66e4df]
 
 In these Regulations—
 
@@ -60,19 +60,19 @@ In these Regulations—
 - “**telecommunications new fibre infrastructure**” has the same meaning as in the Non-Domestic Rating (Telecommunications New Fibre Infrastructure) (Scotland) Order 2019 [^c23571461], and
 - “**valuation roll**” means the roll made up under section 1 of the 1975 Act [^c23571471].
 
-## 3. Amount payable as rates – lands and heritages comprising telecommunications new fibre infrastructure[^key-4539418413a7a40151c120e080a3fe74]
+## 3. Amount payable as rates – lands and heritages comprising telecommunications new fibre infrastructure[^c-4539418413a7a40151c120e080a3fe74]
 
 (1) This regulation grants relief to a person who is liable to pay rates in respect of lands and heritages comprising telecommunications new fibre infrastructure.
 
 (2) The relief is a reduction in the amount of rates payable by 100%.
 
-(3) Relief is available for any day in the period beginning on 1 April 2019 and ending on 31 March 2034[^key-5054114754bcb92e456959c6e0c5eed7].
+(3) Relief is available for any day in the period beginning on 1 April 2019 and ending on 31 March 2034[^c-5054114754bcb92e456959c6e0c5eed7].
 
 (4) For the avoidance of doubt, relief is not available for any day prior to that on which an entry is made in the valuation roll under section 2(1)(b) of the 1975 Act in respect of the telecommunications new fibre infrastructure.
 
-(5)[^key-c0f7df9db2ad7c783714d1d22307944f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c0f7df9db2ad7c783714d1d22307944f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application for relief[^key-e87df991df61af95b8df9ba0949e6ad9]
+## 4. Application for relief[^c-e87df991df61af95b8df9ba0949e6ad9]
 
 (1) An application for relief under these Regulations must—
 
@@ -108,9 +108,9 @@ An application must be made to obtain the relief and regulation 4 sets out how a
 
 [^c23571421]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39) (“**the 1994 Act**”). Section 153 was amended by section 67 of the [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-c22ee89d70309bc559850a0a6ecf500e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
+[^c-c22ee89d70309bc559850a0a6ecf500e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
 
-[^key-faf3c0013424efc8b02013d97c66e4df]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/43/regulation/2) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
+[^c-faf3c0013424efc8b02013d97c66e4df]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/43/regulation/2) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
 
 [^c23571431]: Marginal citation: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -122,13 +122,13 @@ An application must be made to obtain the relief and regulation 4 sets out how a
 
 [^c23571471]: Marginal citation: [Section 1](https://www.legislation.gov.uk/ssi/2019/43/section/1) was repealed in part by section 34 of and schedule 6 of the [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c.47)](https://www.legislation.gov.uk/ukpga/1987/47), [schedule 14](https://www.legislation.gov.uk/ukpga/1987/47/schedule/14) of the 1994 Act and schedule 4 of the [Local Government and Rating Act 1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-4539418413a7a40151c120e080a3fe74]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
+[^c-4539418413a7a40151c120e080a3fe74]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
 
-[^key-5054114754bcb92e456959c6e0c5eed7]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2019/43/regulation/3/3) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2022/48/regulation/11/2)
+[^c-5054114754bcb92e456959c6e0c5eed7]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2019/43/regulation/3/3) substituted (1.4.2022) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/48)](https://www.legislation.gov.uk/ssi/2022/48), [regs. 1](https://www.legislation.gov.uk/ssi/2022/48/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2022/48/regulation/11/2)
 
-[^key-c0f7df9db2ad7c783714d1d22307944f]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/ssi/2019/43/regulation/3/5) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [9](https://www.legislation.gov.uk/ssi/2020/391/regulation/9)
+[^c-c0f7df9db2ad7c783714d1d22307944f]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/ssi/2019/43/regulation/3/5) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [9](https://www.legislation.gov.uk/ssi/2020/391/regulation/9)
 
-[^key-e87df991df61af95b8df9ba0949e6ad9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/43/regulation/4) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
+[^c-e87df991df61af95b8df9ba0949e6ad9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/43/regulation/4) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/43/regulation/1)
 
 [^c23571501]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 

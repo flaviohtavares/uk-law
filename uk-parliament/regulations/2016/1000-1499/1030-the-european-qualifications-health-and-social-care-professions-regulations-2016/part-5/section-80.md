@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Insertion of article 8A[^key-699c5b4b7a88a46d3815060fa167da5f]
+## 80. Insertion of article 8A[^c-699c5b4b7a88a46d3815060fa167da5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ After article 8 (qualifications in midwifery awarded following training in the f
 
 ## Annotations
 
-[^key-699c5b4b7a88a46d3815060fa167da5f]: Commencement: Reg. 80 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-699c5b4b7a88a46d3815060fa167da5f]: Commencement: Reg. 80 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00061]: Footnote: Article 8 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

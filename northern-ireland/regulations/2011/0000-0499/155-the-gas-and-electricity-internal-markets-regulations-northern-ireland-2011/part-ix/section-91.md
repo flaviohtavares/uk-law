@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Modification of existing electricity licences[^key-8af06fc19596c5453ee1d57084fc7120]
+## 91. Modification of existing electricity licences[^c-8af06fc19596c5453ee1d57084fc7120]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 (7) The power to make modifications under this regulation may not be exercised after the end of the period of 12 months beginning with the day on which this regulation comes into operation.
 
-(8)[^key-fcafad70d6037a43becf91f58472ffb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-fcafad70d6037a43becf91f58472ffb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Article 38(1) of the Energy Order applies in relation to the power to modify a licence under this regulation as it applies in relation to a power to amend a licence under the Electricity Order.
 
@@ -53,6 +53,6 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 ## Annotations
 
-[^key-8af06fc19596c5453ee1d57084fc7120]: Commencement: Reg. 91 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-8af06fc19596c5453ee1d57084fc7120]: Commencement: Reg. 91 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-fcafad70d6037a43becf91f58472ffb7]: Textual amendment: [Reg. 91(8)](https://www.legislation.gov.uk/nisr/2011/155/regulation/91/8) revoked (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [33](https://www.legislation.gov.uk/nisr/2013/92/regulation/33)
+[^c-fcafad70d6037a43becf91f58472ffb7]: Textual amendment: [Reg. 91(8)](https://www.legislation.gov.uk/nisr/2011/155/regulation/91/8) revoked (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [33](https://www.legislation.gov.uk/nisr/2013/92/regulation/33)

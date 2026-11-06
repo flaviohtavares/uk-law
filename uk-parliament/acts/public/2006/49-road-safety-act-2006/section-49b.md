@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49B. Use of information relating to foreign-registered vehicles[^key-865c3c88fbedffd16a75f2bec2d37cf0]
+## 49B. Use of information relating to foreign-registered vehicles[^c-865c3c88fbedffd16a75f2bec2d37cf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-865c3c88fbedffd16a75f2bec2d37cf0]: Textual amendment: [S. 49B](https://www.legislation.gov.uk/ukpga/2006/49/section/49B) inserted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 130](https://www.legislation.gov.uk/ukpga/2008/26/section/130), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-865c3c88fbedffd16a75f2bec2d37cf0]: Textual amendment: [S. 49B](https://www.legislation.gov.uk/ukpga/2006/49/section/49B) inserted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 130](https://www.legislation.gov.uk/ukpga/2008/26/section/130), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

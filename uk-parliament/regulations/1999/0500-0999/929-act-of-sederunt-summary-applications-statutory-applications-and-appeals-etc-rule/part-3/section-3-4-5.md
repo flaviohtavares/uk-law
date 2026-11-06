@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**3.4.5.**[^key-860a02382f1f8e92ffdd49619cebf833] (1) Where a defender opposes an application, the sheriff may order answers to be lodged within such period that the sheriff specifies.
+**3.4.5.**[^c-860a02382f1f8e92ffdd49619cebf833] (1) Where a defender opposes an application, the sheriff may order answers to be lodged within such period that the sheriff specifies.
 
 (2) The answers must—
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
+[^c-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Effect of early release from prison or young offenders institution by virtue of regulations[^key-b5e5de1220eca93755a3c801d0e286e5]
+## 57. Effect of early release from prison or young offenders institution by virtue of regulations[^c-b5e5de1220eca93755a3c801d0e286e5]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5e5de1220eca93755a3c801d0e286e5]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2022/8/section/57) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b5e5de1220eca93755a3c801d0e286e5]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2022/8/section/57) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269DD. Meaning of “relevant transferred-out gain” and “non-banking transferred-in gain”[^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269DD. Meaning of “relevant transferred-out gain” and “non-banking transferred-in gain”[^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)

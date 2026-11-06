@@ -26,12 +26,12 @@ summary: ''
 
 (3) For such provisions, see in particular—
 
-- (a) section 616 (disapplication of fair value accounting for certain derivative contracts), and[^key-fb42f14aa6b7d53f3314d870d2567243]
-- (b) paragraph 93 of Schedule 2 (plain vanilla contracts which became derivative contracts before 30 December 2006), [^key-616c4311f08a938e554b8b6a601e28b8]...
-- (c)[^key-616c4311f08a938e554b8b6a601e28b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 616 (disapplication of fair value accounting for certain derivative contracts), and[^c-fb42f14aa6b7d53f3314d870d2567243]
+- (b) paragraph 93 of Schedule 2 (plain vanilla contracts which became derivative contracts before 30 December 2006), [^c-616c4311f08a938e554b8b6a601e28b8]...
+- (c)[^c-616c4311f08a938e554b8b6a601e28b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb42f14aa6b7d53f3314d870d2567243]: Textual amendment: Word in s. 699(3)(a) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 171(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/171/a)
+[^c-fb42f14aa6b7d53f3314d870d2567243]: Textual amendment: Word in s. 699(3)(a) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 171(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/171/a)
 
-[^key-616c4311f08a938e554b8b6a601e28b8]: Textual amendment: S. 699(3)(c) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 171(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/171/b)
+[^c-616c4311f08a938e554b8b6a601e28b8]: Textual amendment: S. 699(3)(c) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 171(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/171/b)

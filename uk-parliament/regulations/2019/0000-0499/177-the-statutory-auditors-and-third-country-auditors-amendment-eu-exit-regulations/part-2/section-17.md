@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-5a37e59c937ace6ba4ab7969cdcd65c4]
+## 17.[^c-5a37e59c937ace6ba4ab7969cdcd65c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1253A (requests to foreign competent authorities) [^c23586351], omit 
 
 ## Annotations
 
-[^key-5a37e59c937ace6ba4ab7969cdcd65c4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-5a37e59c937ace6ba4ab7969cdcd65c4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586351]: Marginal citation: Section 1253A was inserted by regulation 14(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).

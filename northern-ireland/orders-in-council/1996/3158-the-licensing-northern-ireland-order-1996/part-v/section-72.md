@@ -27,7 +27,7 @@ summary: ''
 
 may be made by the sub-divisional commander of the police sub-division in which the premises to which the application relates are situated to a court of summary jurisdiction on any of the grounds on which objection may be made to an application for renewal of the licence.
 
-(1A)[^key-a1bbf398bdabbb20cd5472f4fab16c27] The grounds specified in Article 15(2)(b) (fitness to hold licence) include the grounds that, following a person becoming or ceasing to be a director of a body corporate which is the holder of the licence in question, the body is no longer fit to hold the licence.
+(1A)[^c-a1bbf398bdabbb20cd5472f4fab16c27] The grounds specified in Article 15(2)(b) (fitness to hold licence) include the grounds that, following a person becoming or ceasing to be a director of a body corporate which is the holder of the licence in question, the body is no longer fit to hold the licence.
 
 (2) On an application for the suspension of a licence a court shall hear representations, if any, from the holder of the licence.
 
@@ -39,4 +39,4 @@ may be made by the sub-divisional commander of the police sub-division in which 
 
 ## Annotations
 
-[^key-a1bbf398bdabbb20cd5472f4fab16c27]: Textual amendment: [Art. 72(1A)](https://www.legislation.gov.uk/nisi/1996/3158/article/72/1A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 26(2)](https://www.legislation.gov.uk/nia/2021/7/section/26/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-a1bbf398bdabbb20cd5472f4fab16c27]: Textual amendment: [Art. 72(1A)](https://www.legislation.gov.uk/nisi/1996/3158/article/72/1A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 26(2)](https://www.legislation.gov.uk/nia/2021/7/section/26/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

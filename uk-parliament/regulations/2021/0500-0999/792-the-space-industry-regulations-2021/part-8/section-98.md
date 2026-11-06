@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Dangerous goods[^key-3a03353105f6731fe1c0b58d201c8529]
+## 98. Dangerous goods[^c-3a03353105f6731fe1c0b58d201c8529]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a03353105f6731fe1c0b58d201c8529]: Commencement: Reg. 98 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3a03353105f6731fe1c0b58d201c8529]: Commencement: Reg. 98 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

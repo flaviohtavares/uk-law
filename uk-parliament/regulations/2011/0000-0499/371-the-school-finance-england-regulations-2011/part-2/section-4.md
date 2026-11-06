@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Initial determination of a local authority’s schools budget[^key-ab6594ae119c0057e7a64ff62878ffc4]
+## 4. Initial determination of a local authority’s schools budget[^c-ab6594ae119c0057e7a64ff62878ffc4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local authority must not later than 31st March 2011—
 
 ## Annotations
 
-[^key-ab6594ae119c0057e7a64ff62878ffc4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/371/regulation/4) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-ab6594ae119c0057e7a64ff62878ffc4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/371/regulation/4) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

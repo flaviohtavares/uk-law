@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Foreign property etc, perfection of vesting[^key-bf370836f65e2f5af7ffff329eca09a5]
+## 39. Foreign property etc, perfection of vesting[^c-bf370836f65e2f5af7ffff329eca09a5]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf370836f65e2f5af7ffff329eca09a5]: Commencement: Art. 39 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-bf370836f65e2f5af7ffff329eca09a5]: Commencement: Art. 39 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24434021]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

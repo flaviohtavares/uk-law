@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Functions of DPCSP[^key-1d1f584c2c9193c5534eeb5542dda105]
+## 22. Functions of DPCSP[^c-1d1f584c2c9193c5534eeb5542dda105]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d1f584c2c9193c5534eeb5542dda105]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/24/section/22) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-1d1f584c2c9193c5534eeb5542dda105]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/24/section/22) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

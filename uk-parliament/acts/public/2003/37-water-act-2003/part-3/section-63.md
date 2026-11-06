@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Drought plans[^key-2a39a8555d62d464204e055733fc9a72][^key-47aeb788c36bc80c8fd67e3c4f6b1541]
+## 63. Drought plans[^c-2a39a8555d62d464204e055733fc9a72][^c-47aeb788c36bc80c8fd67e3c4f6b1541]
 
 *Extent: E+W*
 
@@ -99,6 +99,6 @@ After section 39A of the WIA there is inserted—
 
 ## Annotations
 
-[^key-2a39a8555d62d464204e055733fc9a72]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2003/37/section/63) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-2a39a8555d62d464204e055733fc9a72]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2003/37/section/63) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-47aeb788c36bc80c8fd67e3c4f6b1541]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2003/37/section/63) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/j) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)) (which transitional provisions in Sch. para. 6 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(b)(2))
+[^c-47aeb788c36bc80c8fd67e3c4f6b1541]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2003/37/section/63) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/j) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)) (which transitional provisions in Sch. para. 6 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(b)(2))

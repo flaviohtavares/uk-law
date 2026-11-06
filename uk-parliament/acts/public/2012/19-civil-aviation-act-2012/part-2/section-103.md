@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Civil sanctions[^key-2ccbb96a31fbd337e14f35d2f9fd0081]
+## 103. Civil sanctions[^c-2ccbb96a31fbd337e14f35d2f9fd0081]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ccbb96a31fbd337e14f35d2f9fd0081]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2012/19/section/103) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/2/4/b)
+[^c-2ccbb96a31fbd337e14f35d2f9fd0081]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2012/19/section/103) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/2/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Planning functions: considerations[^key-038f7c6a0110aa755712d137b60afad7]
+## 36. Planning functions: considerations[^c-038f7c6a0110aa755712d137b60afad7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In carrying out their respective functions in relation to the preparation of the
 
 ## Annotations
 
-[^key-038f7c6a0110aa755712d137b60afad7]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/8/section/36) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-038f7c6a0110aa755712d137b60afad7]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/8/section/36) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

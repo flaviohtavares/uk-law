@@ -42,7 +42,7 @@ Coming into force
 
 6th April 2015
 
-[^key-a8dedfec4be0772e4ee98b4337d63e02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8dedfec4be0772e4ee98b4337d63e02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -70,4 +70,4 @@ Coming into force
 
 ## Annotations
 
-[^key-a8dedfec4be0772e4ee98b4337d63e02]: Textual amendment: Regulations revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2017 (S.I. 2017/394)](https://www.legislation.gov.uk/uksi/2017/394), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/394/article/4/a)
+[^c-a8dedfec4be0772e4ee98b4337d63e02]: Textual amendment: Regulations revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2017 (S.I. 2017/394)](https://www.legislation.gov.uk/uksi/2017/394), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/394/article/4/a)

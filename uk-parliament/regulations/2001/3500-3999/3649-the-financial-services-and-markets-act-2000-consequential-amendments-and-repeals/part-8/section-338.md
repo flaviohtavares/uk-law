@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 338. Removal of references to old tribunals[^key-8ea549c21c7d38fd0a3c6d3e1e458572]
+## 338. Removal of references to old tribunals[^c-8ea549c21c7d38fd0a3c6d3e1e458572]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 1 to the Tribunals and Inquiries Act 1992 (tribunals subject to the 
 
 ## Annotations
 
-[^key-8ea549c21c7d38fd0a3c6d3e1e458572]: Commencement: Art. 338 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8ea549c21c7d38fd0a3c6d3e1e458572]: Commencement: Art. 338 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00249]: Footnote: The entry in Schedule 1 relating to Friendly Societies was inserted by [S.I. 1993/3258](https://www.legislation.gov.uk/uksi/1993/3258), article 3.

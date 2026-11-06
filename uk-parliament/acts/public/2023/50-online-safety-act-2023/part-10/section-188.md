@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Sharing or threatening to share intimate photograph or film[^key-51041965aec7984d5f5dd0df129f179f][^key-7a4630926d31b9469a0c086474703a61]
+## 188. Sharing or threatening to share intimate photograph or film[^c-51041965aec7984d5f5dd0df129f179f][^c-7a4630926d31b9469a0c086474703a61]
 
 *Extent: E+W*
 
@@ -139,6 +139,6 @@ In the Sexual Offences Act 2003, after section 66A (inserted by section 187), in
 
 ## Annotations
 
-[^key-51041965aec7984d5f5dd0df129f179f]: Commencement: S. 188 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-51041965aec7984d5f5dd0df129f179f]: Commencement: S. 188 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7a4630926d31b9469a0c086474703a61]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/50/section/188) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-7a4630926d31b9469a0c086474703a61]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2023/50/section/188) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

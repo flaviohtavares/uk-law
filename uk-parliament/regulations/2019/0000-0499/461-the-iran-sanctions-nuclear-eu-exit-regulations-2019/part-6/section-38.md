@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Exception for acts done for purposes of national security or prevention of serious crime[^key-4d1260f979a1f9216fb5fe54bdf3e68f][^key-4d7684c2c6fd0b6477a77c1584072ad5]
+## 38. Exception for acts done for purposes of national security or prevention of serious crime[^c-4d1260f979a1f9216fb5fe54bdf3e68f][^c-4d7684c2c6fd0b6477a77c1584072ad5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1260f979a1f9216fb5fe54bdf3e68f]: Commencement: Reg. 38 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-4d1260f979a1f9216fb5fe54bdf3e68f]: Commencement: Reg. 38 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-4d7684c2c6fd0b6477a77c1584072ad5]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d7684c2c6fd0b6477a77c1584072ad5]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

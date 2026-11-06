@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Revision of scope of an investigation[^key-a4a8cb9681686bb56e391cb6acdd8bcd]
+## 41. Revision of scope of an investigation[^c-a4a8cb9681686bb56e391cb6acdd8bcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ where it has provided interested parties and contributors with reasons for the p
 
 ## Annotations
 
-[^key-a4a8cb9681686bb56e391cb6acdd8bcd]: Commencement: Reg. 41 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-a4a8cb9681686bb56e391cb6acdd8bcd]: Commencement: Reg. 41 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

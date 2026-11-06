@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Power to establish accreditation scheme[^key-c0abd0fc3817524a207e8fae58a565d1][^c2191362]
+## 267. Power to establish accreditation scheme[^c-c0abd0fc3817524a207e8fae58a565d1][^c2191362]
 
 *Extent: E+W*
 
 (1) Regulations may make provision for the establishment and operation of a scheme for the accreditation of information service providers (“**the accreditation scheme**”).
 
-(2) The regulations may provide that the accreditation scheme is to be established and operated by NHS England[^key-d33fdfcfa522129d96edcb26c54b490f] or such other person as the Secretary of State may specify in the regulations (the “operator”).
+(2) The regulations may provide that the accreditation scheme is to be established and operated by NHS England[^c-d33fdfcfa522129d96edcb26c54b490f] or such other person as the Secretary of State may specify in the regulations (the “operator”).
 
 (3) The regulations may, in particular, confer power on the operator—
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c0abd0fc3817524a207e8fae58a565d1]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2012/7/section/267) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c0abd0fc3817524a207e8fae58a565d1]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2012/7/section/267) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191362]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2012/7/section/267) partly in force; [s. 267](https://www.legislation.gov.uk/ukpga/2012/7/section/267) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-d33fdfcfa522129d96edcb26c54b490f]: Textual amendment: Words in [s. 267(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/267/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(20)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/20) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-d33fdfcfa522129d96edcb26c54b490f]: Textual amendment: Words in [s. 267(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/267/2) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(20)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/20) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Offences under subordinate legislation[^key-9410c1867fc7418515f69622870a427f]
+## 62. Offences under subordinate legislation[^c-9410c1867fc7418515f69622870a427f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9410c1867fc7418515f69622870a427f]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2008/13/section/62) applied (with modifications) (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/5/section/7), [17(2)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/d)
+[^c-9410c1867fc7418515f69622870a427f]: Modification: [S. 62](https://www.legislation.gov.uk/ukpga/2008/13/section/62) applied (with modifications) (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 7](https://www.legislation.gov.uk/ukpga/2025/5/section/7), [17(2)(d)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/d)

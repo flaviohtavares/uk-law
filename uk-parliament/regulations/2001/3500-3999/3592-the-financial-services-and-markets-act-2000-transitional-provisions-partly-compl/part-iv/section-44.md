@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Applications by other overseas schemes for individual recognition[^key-ee535d6fe44fba1c1f93f7ccc545d24c]
+## 44. Applications by other overseas schemes for individual recognition[^c-ee535d6fe44fba1c1f93f7ccc545d24c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the notice ceases to have effect on commencement and the Authority must, as soon
 
 ## Annotations
 
-[^key-ee535d6fe44fba1c1f93f7ccc545d24c]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ee535d6fe44fba1c1f93f7ccc545d24c]: Commencement: Art. 44 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

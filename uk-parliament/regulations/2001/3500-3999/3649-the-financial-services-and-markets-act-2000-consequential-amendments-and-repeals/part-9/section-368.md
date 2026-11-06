@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368. Interpretation of the 1974 Regulations[^key-c1bc60d9c6ae72c5ad25e9b4593f8980]
+## 368. Interpretation of the 1974 Regulations[^c-c1bc60d9c6ae72c5ad25e9b4593f8980]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 3 of regulation 1[^f00262] of the Local Authority (Stocks and Bonds
 
 ## Annotations
 
-[^key-c1bc60d9c6ae72c5ad25e9b4593f8980]: Commencement: Art. 368 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c1bc60d9c6ae72c5ad25e9b4593f8980]: Commencement: Art. 368 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00262]: Footnote: The definition of “negotiable instrument” Regulation 1(3) was amended by [S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000), regulation 5(2), and modified by [S.I. 2000/968](https://www.legislation.gov.uk/uksi/2000/968), regulation 4.

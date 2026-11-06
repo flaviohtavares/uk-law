@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 110. Recording and holding information[^key-9ef752a475bfab5f0f9fcfde3fcff1d4]
+## 110. Recording and holding information[^c-9ef752a475bfab5f0f9fcfde3fcff1d4]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A relevant authority which obtains relevant information or to whom such informat
 
 ## Annotations
 
-[^key-9ef752a475bfab5f0f9fcfde3fcff1d4]: Textual amendment: Reg. 110 substituted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/6)
+[^c-9ef752a475bfab5f0f9fcfde3fcff1d4]: Textual amendment: Reg. 110 substituted (31.10.2007) by [The Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/7/6)

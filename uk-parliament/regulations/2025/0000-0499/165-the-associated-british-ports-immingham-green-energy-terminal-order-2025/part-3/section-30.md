@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Modification of Part 1 of the 1965 Act[^key-8c2eec17d2467e488a2f9de4a2000fcf]
+## 30. Modification of Part 1 of the 1965 Act[^c-8c2eec17d2467e488a2f9de4a2000fcf]
 
 *Extent: E+W+S*
 
@@ -42,13 +42,13 @@ summary: ''
 
   > **PART 4 — INTERPRETATION**
   >
-  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under article 20 (protective works), article 31[^key-79e489506d5ec66b55801389c825fb37] (temporary use of land for constructing the authorised project) or article 32 (temporary use of land for maintaining the authorised project) of the Associated British Ports (Immingham Green Energy) Order 2025.
+  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under article 20 (protective works), article 31[^c-79e489506d5ec66b55801389c825fb37] (temporary use of land for constructing the authorised project) or article 32 (temporary use of land for maintaining the authorised project) of the Associated British Ports (Immingham Green Energy) Order 2025.
 
   .
 
 ## Annotations
 
-[^key-8c2eec17d2467e488a2f9de4a2000fcf]: Commencement: Art. 30 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-8c2eec17d2467e488a2f9de4a2000fcf]: Commencement: Art. 30 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00081]: Footnote: Section 125 was amended by section 190 of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act 2016.
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^f00085]: Footnote: Schedule 2A was inserted by section 199(1) of, and paragraphs 1 and 3 of Schedule 17 to, the Housing and Planning Act 2016.
 
-[^key-79e489506d5ec66b55801389c825fb37]: Textual amendment: Words in [art. 30(5)(b)](https://www.legislation.gov.uk/uksi/2025/165/article/30/5/b) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-79e489506d5ec66b55801389c825fb37]: Textual amendment: Words in [art. 30(5)(b)](https://www.legislation.gov.uk/uksi/2025/165/article/30/5/b) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

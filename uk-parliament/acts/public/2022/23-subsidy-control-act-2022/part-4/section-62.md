@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. CMA report following post-award referral[^key-63b5b9278b2335e31446f2f19b40d006][^key-57719a0de9ddbf04763e0bc42eaedd6d]
+## 62. CMA report following post-award referral[^c-63b5b9278b2335e31446f2f19b40d006][^c-57719a0de9ddbf04763e0bc42eaedd6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63b5b9278b2335e31446f2f19b40d006]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-63b5b9278b2335e31446f2f19b40d006]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-57719a0de9ddbf04763e0bc42eaedd6d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/23/section/62) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-57719a0de9ddbf04763e0bc42eaedd6d]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/23/section/62) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

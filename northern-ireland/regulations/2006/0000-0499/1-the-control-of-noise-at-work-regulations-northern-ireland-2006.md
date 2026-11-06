@@ -41,14 +41,14 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], makes the following Regulations in exercise of the powers conferred by Articles 17(1), (2) and (5) and 55(2) of, and paragraphs 1(1), 7(1), 8, 10, 12(2) and (3), 13, 14(1), 15 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00003] (“the 1978 Order”). The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)(c) of the 1978 Order[^f00004] after the Executive had carried out consultations in accordance with Article 46(3) of the 1978 Order[^f00005].
 
-## 1. Citation and commencement[^key-c544a83fb99beb9abcda01642f7b4690]
+## 1. Citation and commencement[^c-c544a83fb99beb9abcda01642f7b4690]
 
 These Regulations may be cited as the Control of Noise at Work Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006, except that—
 
 - (a) for the music and entertainment sectors only they shall not come into operation until 6th April 2008; and
 - (b) subject to regulation 3(4), regulation 6(4) shall not come into operation in relation to the master and crew of a seagoing ship until 6th April 2011.
 
-## 2. Interpretation[^key-fe7c021c7fe97cd59be680efcf3effeb][^key-13da8984ad8be03d753f4b1e5b9d2626]
+## 2. Interpretation[^c-fe7c021c7fe97cd59be680efcf3effeb][^c-13da8984ad8be03d753f4b1e5b9d2626]
 
 (1) In these Regulations—
 
@@ -75,7 +75,7 @@ These Regulations may be cited as the Control of Noise at Work Regulations (Nort
 
 (2) In these Regulations, a reference to an employee being exposed to noise is a reference to the exposure of that employee to noise which arises while he is at work, or arises out of or in connection with his work.
 
-## 3. Application[^key-b68b36ba234041e368a924026cc46605][^key-cf99181d7bcfdf42ad5d53c3795dee18]
+## 3. Application[^c-b68b36ba234041e368a924026cc46605][^c-cf99181d7bcfdf42ad5d53c3795dee18]
 
 (1) These Regulations shall have effect with a view to protecting persons against risk to their health and safety arising from exposure to noise at work.
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Control of Noise at Work Regulations (Nort
 
 (4) These Regulations shall not apply to the master or crew of a ship or to the employer of such persons in respect of the normal shipboard activities of a ship’s crew which are carried out solely by the crew under the direction of the master, and for the purposes of this paragraph “ship” includes every description of vessel used in navigation, other than a ship forming part of Her Majesty’s Navy.
 
-## 4. Exposure limit values and action values[^key-620e9dfaf5b8d93872b55f28dfda61ca][^key-5783c4d90d13ba4a79295f40d1ec8815]
+## 4. Exposure limit values and action values[^c-620e9dfaf5b8d93872b55f28dfda61ca][^c-5783c4d90d13ba4a79295f40d1ec8815]
 
 (1) The lower exposure action values are—
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Control of Noise at Work Regulations (Nort
 
 (5) In applying the exposure limit values in paragraph (3), but not in applying the lower and upper exposure action values in paragraphs (1) and (2), account shall be taken of the protection given to the employee by any personal hearing protectors provided by the employer in accordance with regulation 7(2).
 
-## 5. Assessment of the risk to health and safety created by exposure to noise at the workplace[^key-b9250210f07a89550e433c11bf67e6fc][^key-2ac619137cdf76495a319ee9305c63f7]
+## 5. Assessment of the risk to health and safety created by exposure to noise at the workplace[^c-b9250210f07a89550e433c11bf67e6fc][^c-2ac619137cdf76495a319ee9305c63f7]
 
 (1) An employer who carries out work which is liable to expose any employees to noise at or above a lower exposure action value shall make a suitable and sufficient assessment of the risk from that noise to the health and safety of those employees, and the risk assessment shall identify the measures which need to be taken to meet the requirements of these Regulations.
 
@@ -147,13 +147,13 @@ and where, as a result of the review, changes to the risk assessment are require
 - (a) the significant findings of the risk assessment as soon as is practicable after the risk assessment is made or changed; and
 - (b) the measures which he has taken and which he intends to take to meet the requirements of regulations 6, 7 and 10.
 
-## 6. Elimination or control of exposure to noise at the workplace[^key-0f996e276f4752cad23d1a937771c25c][^key-cc7fde4d458e2626c2f5bb4ef9745570][^key-a01cbc446eccfca5ba858eaa101ec9c9]
+## 6. Elimination or control of exposure to noise at the workplace[^c-0f996e276f4752cad23d1a937771c25c][^c-cc7fde4d458e2626c2f5bb4ef9745570][^c-a01cbc446eccfca5ba858eaa101ec9c9]
 
-(1)[^key-0f996e276f4752cad23d1a937771c25c] The employer shall ensure that risk from the exposure of his employees to noise is either eliminated at source or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
+(1)[^c-0f996e276f4752cad23d1a937771c25c] The employer shall ensure that risk from the exposure of his employees to noise is either eliminated at source or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.
 
-(2)[^key-0f996e276f4752cad23d1a937771c25c] If any employee is likely to be exposed to noise at or above an upper exposure action value, the employer shall reduce exposure to as low a level as is reasonably practicable by establishing and implementing a programme of organisational and technical measures, excluding the provision of personal hearing protectors, which is appropriate to the activity.
+(2)[^c-0f996e276f4752cad23d1a937771c25c] If any employee is likely to be exposed to noise at or above an upper exposure action value, the employer shall reduce exposure to as low a level as is reasonably practicable by establishing and implementing a programme of organisational and technical measures, excluding the provision of personal hearing protectors, which is appropriate to the activity.
 
-(3)[^key-0f996e276f4752cad23d1a937771c25c] The actions taken by the employer in compliance with paragraphs (1) and (2) shall be based on the general principles of prevention set out in Schedule 1 to the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00007] and shall include consideration of—
+(3)[^c-0f996e276f4752cad23d1a937771c25c] The actions taken by the employer in compliance with paragraphs (1) and (2) shall be based on the general principles of prevention set out in Schedule 1 to the Management of Health and Safety at Work Regulations (Northern Ireland) 2000[^f00007] and shall include consideration of—
 
 - (a) other working methods which reduce exposure to noise;
 - (b) choice of appropriate work equipment emitting the least possible noise, taking account of the work to be done;
@@ -164,7 +164,7 @@ and where, as a result of the review, changes to the risk assessment are require
 - (g) limitation of the duration and intensity of exposure to noise; and
 - (h) appropriate work schedules with adequate rest periods.
 
-(4)[^key-cc7fde4d458e2626c2f5bb4ef9745570] The employer shall—
+(4)[^c-cc7fde4d458e2626c2f5bb4ef9745570] The employer shall—
 
 - (a) ensure that his employees are not exposed to noise above an exposure limit value; or
 - (b) if an exposure limit value is exceeded forthwith—
@@ -172,13 +172,13 @@ and where, as a result of the review, changes to the risk assessment are require
   - (ii) identify the reason for that exposure limit value being exceeded; and
   - (iii) modify the organisational and technical measures taken in accordance with paragraphs (1) and (2) and regulations 7 and 8(1) to prevent it being exceeded again.
 
-(5)[^key-0f996e276f4752cad23d1a937771c25c] Where rest facilities are made available to employees, the employer shall ensure that exposure to noise in these facilities is reduced to a level suitable for their purpose and conditions of use.
+(5)[^c-0f996e276f4752cad23d1a937771c25c] Where rest facilities are made available to employees, the employer shall ensure that exposure to noise in these facilities is reduced to a level suitable for their purpose and conditions of use.
 
-(6)[^key-0f996e276f4752cad23d1a937771c25c] The employer shall adapt any measure taken in compliance with the requirements of this regulation to take account of any employee or group of employees whose health is likely to be particularly at risk from exposure to noise.
+(6)[^c-0f996e276f4752cad23d1a937771c25c] The employer shall adapt any measure taken in compliance with the requirements of this regulation to take account of any employee or group of employees whose health is likely to be particularly at risk from exposure to noise.
 
-(7)[^key-0f996e276f4752cad23d1a937771c25c] The employees concerned or their representatives shall be consulted on the measures to be taken to meet the requirements of this regulation.
+(7)[^c-0f996e276f4752cad23d1a937771c25c] The employees concerned or their representatives shall be consulted on the measures to be taken to meet the requirements of this regulation.
 
-## 7. Hearing protection[^key-8b51fb20e0a4a920375a36225f36a850][^key-dee4b5378ff870862556e8a20a3400be]
+## 7. Hearing protection[^c-8b51fb20e0a4a920375a36225f36a850][^c-dee4b5378ff870862556e8a20a3400be]
 
 (1) Without prejudice to the provisions of regulation 6, an employer who carries out work which is likely to expose any employees to noise at or above a lower exposure action value shall make personal hearing protectors available to any employee who is so exposed.
 
@@ -195,13 +195,13 @@ and shall ensure so far as is reasonably practicable that no employee enters tha
 (4) Any personal hearing protectors made available or provided under paragraphs (1) or (2) shall be selected by the employer—
 
 - (a) so as to eliminate the risk to hearing or to reduce the risk to as low a level as is reasonably practicable; and
-- (b) after consultation with the employees concerned or their representatives ,[^key-c821f2dfcaf299a92360129f1e267eaa]
+- (b) after consultation with the employees concerned or their representatives ,[^c-c821f2dfcaf299a92360129f1e267eaa]
 
-and shall comply with any[^key-4b9dce4c092bd601812b6555204b8591] “ legal requirement ”[^key-ddf8ed30ac595f63eea3a8deda62fb0f]; and which is applicable to them.
+and shall comply with any[^c-4b9dce4c092bd601812b6555204b8591] “ legal requirement ”[^c-ddf8ed30ac595f63eea3a8deda62fb0f]; and which is applicable to them.
 
-(5)[^key-78fcda400255f13729c47d1d3c51bae1] In paragraph (4), “**legal requirement**” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) (OJ No L81, 31.3.2016, p51).
+(5)[^c-78fcda400255f13729c47d1d3c51bae1] In paragraph (4), “**legal requirement**” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) (OJ No L81, 31.3.2016, p51).
 
-## 8. Maintenance and use of equipment[^key-6a3759981c7e13fbe53c4d3e19824973][^key-098251a5e057be3f47a5b3882984f2dc]
+## 8. Maintenance and use of equipment[^c-6a3759981c7e13fbe53c4d3e19824973][^c-098251a5e057be3f47a5b3882984f2dc]
 
 (1) The employer shall—
 
@@ -213,7 +213,7 @@ and shall comply with any[^key-4b9dce4c092bd601812b6555204b8591] “ legal requi
 - (a) make full and proper use of personal hearing protectors provided to him by his employer in compliance with regulation 7(2) and of any other control measures provided by his employer in compliance with his duties under these Regulations; and
 - (b) if he discovers any defect in any personal hearing protectors or other control measures as specified in sub-paragraph (a) report it to his employer as soon as is practicable.
 
-## 9. Health surveillance[^key-51e34c87cbecbe1ceff446037bb55a34][^key-5afe0026cd9fd60426aee93cd28cfd72]
+## 9. Health surveillance[^c-51e34c87cbecbe1ceff446037bb55a34][^c-5afe0026cd9fd60426aee93cd28cfd72]
 
 (1) If the risk assessment indicates that there is a risk to the health of his employees who are, or are liable to be, exposed to noise, the employer shall ensure that such employees are placed under suitable health surveillance, which shall include testing of their hearing.
 
@@ -234,7 +234,7 @@ and shall comply with any[^key-4b9dce4c092bd601812b6555204b8591] “ legal requi
 
 (5) An employee to whom this regulation applies shall, when required by his employer and at the cost of his employer, present himself during his working hours for such health surveillance procedures as may be required for the purposes of paragraph (1).
 
-## 10. Information, instruction and training[^key-c0f127980915a906d3c8a9b1e57fd930][^key-2399084e882d5f01cc84c4b06ec78f42]
+## 10. Information, instruction and training[^c-c0f127980915a906d3c8a9b1e57fd930][^c-2399084e882d5f01cc84c4b06ec78f42]
 
 (1) Where his employees are exposed to noise which is likely to be at or above a lower exposure action value, the employer shall provide those employees and their representatives with suitable and sufficient information, instruction and training.
 
@@ -254,7 +254,7 @@ and shall comply with any[^key-4b9dce4c092bd601812b6555204b8591] “ legal requi
 
 (4) The employer shall ensure that any person, whether or not his employee, who carries out work in connection with the employer’s duties under these Regulations has suitable and sufficient information, instruction and training.
 
-## 11. Exemption certificates from hearing protection[^key-29bc07df877cdfa1d30e6295122e4747][^key-674adca5b3cdf2eacef73bf56d02dbbd]
+## 11. Exemption certificates from hearing protection[^c-29bc07df877cdfa1d30e6295122e4747][^c-674adca5b3cdf2eacef73bf56d02dbbd]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) and (2) where because of the nature of the work the full and proper use of personal hearing protectors would be likely to cause greater risk to health or safety than not using such protectors, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
@@ -265,23 +265,23 @@ and shall comply with any[^key-4b9dce4c092bd601812b6555204b8591] “ legal requi
 - (c) the resulting risks are reduced to as low a level as is reasonably practicable; and
 - (d) the employees concerned are subject to increased health surveillance.
 
-## 12. Exemption certificates for emergency services[^key-8caedde800d80111c16dc8f518058d41][^key-4cd717dc173920affa2b6a4579bc7a7e]
+## 12. Exemption certificates for emergency services[^c-8caedde800d80111c16dc8f518058d41][^c-4cd717dc173920affa2b6a4579bc7a7e]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) to (3) in respect of activities carried out by emergency services which conflict with the requirements of any of those provisions, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
 (2) The Executive shall not grant such an exemption unless it is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
 
-## 13. Exemptions by the Secretary of State for Defence[^key-06b756c703359a97d67540cad1daae5b][^key-dead188ee102f90c73864e3599f3dfc6]
+## 13. Exemptions by the Secretary of State for Defence[^c-06b756c703359a97d67540cad1daae5b][^c-dead188ee102f90c73864e3599f3dfc6]
 
 (1) Subject to paragraph (2), the Secretary of State for Defence may, by a certificate in writing, exempt any person or class of persons from the provisions of regulation 6(4) and regulation 7(1) to (3) in respect of activities carried out in the interests of national security which conflict with the requirements of any of those provisions, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by a certificate in writing at any time.
 
 (2) The Secretary of State shall not grant such an exemption unless he is satisfied that the health and safety of the employees concerned is ensured as far as possible in the light of the objectives of these Regulations.
 
-## 14. Application within the territorial sea[^key-2c1cf51344fe83d45a0be27cc5af2dc1][^key-1c94d9076a9771308a61306bf32dc020]
+## 14. Application within the territorial sea[^c-2c1cf51344fe83d45a0be27cc5af2dc1][^c-1c94d9076a9771308a61306bf32dc020]
 
 Subject to regulation 3(4), within the territorial sea these Regulations shall apply only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 3 applies.
 
-## 15. Revocations, amendments and savings[^key-b439a9b0be39f73c726ff95f83e2b19f][^key-4b54b37340b15e815ea345c017445b91]
+## 15. Revocations, amendments and savings[^c-b439a9b0be39f73c726ff95f83e2b19f][^c-4b54b37340b15e815ea345c017445b91]
 
 (1) In—
 
@@ -308,7 +308,7 @@ Department of Enterprise, Trade and Investment
 
 Regulation 2(1)
 
-**1.**[^key-8258ac61ab6c1acb7c7faa6d4d93cafb][^key-51fa0bcf389cf2d9785e331293d8c156] The daily personal noise exposure level *L<sub>EP,d</sub>* , which corresponds to *L<sub>EX</sub>,* <sub>8</sub> *<sub>h</sub>* defined in international standard ISO 1999: 1990 clause 3.6, is expressed in decibels and is ascertained using the formula:
+**1.**[^c-8258ac61ab6c1acb7c7faa6d4d93cafb][^c-51fa0bcf389cf2d9785e331293d8c156] The daily personal noise exposure level *L<sub>EP,d</sub>* , which corresponds to *L<sub>EX</sub>,* <sub>8</sub> *<sub>h</sub>* defined in international standard ISO 1999: 1990 clause 3.6, is expressed in decibels and is ascertained using the formula:
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2006/1)
 
@@ -318,7 +318,7 @@ where—
 - *T* <sub>0</sub> is 28,800 seconds (8 hours); and
 - *L<sub>Aeq,Te</sub>* is the equivalent continuous A-weighted sound pressure level, as defined in ISO 1999: 1990 clause 3.5, in decibels, that represents the sound the person is exposed to during the working day.
 
-**2.**[^key-d8368f13fcff49ed2bdd07ce70999415][^key-a5fbb3a243256cd94b713028f6f14cd7] If the work is such that the daily exposure consists of two or more periods with different sound levels, the daily personal noise exposure level (*L<sub>EP,d</sub>* ) for the combination of periods is ascertained using the formula:
+**2.**[^c-d8368f13fcff49ed2bdd07ce70999415][^c-a5fbb3a243256cd94b713028f6f14cd7] If the work is such that the daily exposure consists of two or more periods with different sound levels, the daily personal noise exposure level (*L<sub>EP,d</sub>* ) for the combination of periods is ascertained using the formula:
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2006/1)
 
@@ -331,7 +331,7 @@ where—
 
   is equal to *T<sub>e</sub>* , the duration of the person’s working day, in seconds.
 
-### PART 2 — WEEKLY PERSONAL NOISE EXPOSURE LEVELS[^key-72b90cd3ad08ca153723a2db561e82a5][^key-4744d3d9bcea7bea029587d3e5f68fe3]
+### PART 2 — WEEKLY PERSONAL NOISE EXPOSURE LEVELS[^c-72b90cd3ad08ca153723a2db561e82a5][^c-4744d3d9bcea7bea029587d3e5f68fe3]
 
 Regulation 2(1)
 
@@ -347,11 +347,11 @@ where—
 
 - *m* is the number of working days on which the person is exposed to noise during a week; and (*L<sub>EP,d</sub>)<sub>i</sub>* is the *L<sub>EP,d</sub>* for the working day *i*.
 
-## SCHEDULE 2 — PEAK SOUND PRESSURE LEVEL[^key-ac61c8065703cf1ca59de955df91b096][^key-bf150beb964e8169c8db8a88d1c2d4fc]
+## SCHEDULE 2 — PEAK SOUND PRESSURE LEVEL[^c-ac61c8065703cf1ca59de955df91b096][^c-bf150beb964e8169c8db8a88d1c2d4fc]
 
 Regulation 2(1)
 
-[^key-ac61c8065703cf1ca59de955df91b096][^key-bf150beb964e8169c8db8a88d1c2d4fc]
+[^c-ac61c8065703cf1ca59de955df91b096][^c-bf150beb964e8169c8db8a88d1c2d4fc]
 
 Peak sound pressure level, *L<sub>Cpeak</sub>* , is expressed in decibels and is ascertained using the formula:
 
@@ -366,7 +366,7 @@ where—
 
 Regulation 14
 
-### 1. Interpretation[^key-f331b5bd2739afb978e596404350986c][^key-af0741b3d67ed1f6024075b34b4c55d0]
+### 1. Interpretation[^c-f331b5bd2739afb978e596404350986c][^c-af0741b3d67ed1f6024075b34b4c55d0]
 
 (1) In this Schedule—
 
@@ -383,7 +383,7 @@ Regulation 14
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-ccc9ae6ad80e6db541972e0ae3d5828c][^key-ac8356d2baad39008a6dee6ed6f5d826]
+### 2. Offshore installations[^c-ccc9ae6ad80e6db541972e0ae3d5828c][^c-ac8356d2baad39008a6dee6ed6f5d826]
 
 (1) This paragraph shall apply to and in relation to—
 
@@ -412,7 +412,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-852f00e8d8b2a824aed73320daf77a9e][^key-5138dc51da2cfe292d4d0ffac646998c]
+### 3. Wells[^c-852f00e8d8b2a824aed73320daf77a9e][^c-5138dc51da2cfe292d4d0ffac646998c]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -421,7 +421,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-f8e58e0a7916667e11b1960a0e4a3eba][^key-e8e179813e59e8981c1fdc9a4712fa40]
+### 4. Pipelines[^c-f8e58e0a7916667e11b1960a0e4a3eba][^c-e8e179813e59e8981c1fdc9a4712fa40]
 
 (1) This paragraph applies to and in relation to—
 
@@ -453,13 +453,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-0ca1981935982bfda78771b52e6319c7][^key-442c12fe2aa858b9ddd66e4af4179e52]
+### 5. Mines[^c-0ca1981935982bfda78771b52e6319c7][^c-442c12fe2aa858b9ddd66e4af4179e52]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00014].
 
-### 6. Other activities[^key-0d7b59f692a03447aeb268b67dc81e1e][^key-fecc73277b6d0a61fc7a5e7e91624f72]
+### 6. Other activities[^c-0d7b59f692a03447aeb268b67dc81e1e][^c-fecc73277b6d0a61fc7a5e7e91624f72]
 
 (1) Subject to paragraph (2), this paragraph applies to and in relation to—
 
@@ -477,7 +477,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (a) to a case where paragraph 2, 3, 4 or 5 applies; or
 - (b) to vessels which are registered outside the United Kingdom and are on passage through the territorial sea.
 
-## SCHEDULE 4 — REVOCATIONS[^key-e4dc7510cefae6e919c76857a6f0f8bb][^key-e1b6b8aa78a179b65fac1a8580b9ef14]
+## SCHEDULE 4 — REVOCATIONS[^c-e4dc7510cefae6e919c76857a6f0f8bb][^c-e1b6b8aa78a179b65fac1a8580b9ef14]
 
 Regulation 15(2)
 
@@ -534,79 +534,79 @@ Regulation 15(2)
 
 [^f00005]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18
 
-[^key-c544a83fb99beb9abcda01642f7b4690]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-c544a83fb99beb9abcda01642f7b4690]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-fe7c021c7fe97cd59be680efcf3effeb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/1/regulation/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-fe7c021c7fe97cd59be680efcf3effeb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/1/regulation/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-13da8984ad8be03d753f4b1e5b9d2626]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/1/regulation/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-13da8984ad8be03d753f4b1e5b9d2626]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/1/regulation/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
 [^f00006]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90), as amended by [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375) and [S.R. 2003 No. 33](https://www.legislation.gov.uk/nisr/2003/33)
 
-[^key-b68b36ba234041e368a924026cc46605]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/1/regulation/3) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-b68b36ba234041e368a924026cc46605]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/1/regulation/3) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-cf99181d7bcfdf42ad5d53c3795dee18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/1/regulation/3) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-cf99181d7bcfdf42ad5d53c3795dee18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/1/regulation/3) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-620e9dfaf5b8d93872b55f28dfda61ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/1/regulation/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-620e9dfaf5b8d93872b55f28dfda61ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/1/regulation/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-5783c4d90d13ba4a79295f40d1ec8815]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/1/regulation/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-5783c4d90d13ba4a79295f40d1ec8815]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/1/regulation/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-b9250210f07a89550e433c11bf67e6fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/1/regulation/5) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-b9250210f07a89550e433c11bf67e6fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/1/regulation/5) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-2ac619137cdf76495a319ee9305c63f7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/1/regulation/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-2ac619137cdf76495a319ee9305c63f7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/1/regulation/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-0f996e276f4752cad23d1a937771c25c]: Commencement: [Reg. 6(1)-(3)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/1), [(5)-(7)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-0f996e276f4752cad23d1a937771c25c]: Commencement: [Reg. 6(1)-(3)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/1), [(5)-(7)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-cc7fde4d458e2626c2f5bb4ef9745570]: Commencement: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/4) in operation at 6.4.2011 in so far as not already in operation, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/b)
+[^c-cc7fde4d458e2626c2f5bb4ef9745570]: Commencement: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2006/1/regulation/6/4) in operation at 6.4.2011 in so far as not already in operation, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/b)
 
-[^key-a01cbc446eccfca5ba858eaa101ec9c9]: Commencement: Reg. 6 in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-a01cbc446eccfca5ba858eaa101ec9c9]: Commencement: Reg. 6 in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388), as amended by [S.R. 2001 No. 348](https://www.legislation.gov.uk/nisr/2001/348) and [S.R. 2003 No. 454](https://www.legislation.gov.uk/nisr/2003/454)
 
-[^key-8b51fb20e0a4a920375a36225f36a850]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-8b51fb20e0a4a920375a36225f36a850]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-dee4b5378ff870862556e8a20a3400be]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-dee4b5378ff870862556e8a20a3400be]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
 [^f00008]: Footnote: [S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119), as amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-c821f2dfcaf299a92360129f1e267eaa]: Textual amendment: Word in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4/b) substituted (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2009/227/regulation/2/a)
+[^c-c821f2dfcaf299a92360129f1e267eaa]: Textual amendment: Word in [reg. 7(4)(b)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4/b) substituted (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2009/227/regulation/2/a)
 
-[^key-4b9dce4c092bd601812b6555204b8591]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4/b) added (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/227/regulation/2/b)
+[^c-4b9dce4c092bd601812b6555204b8591]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4/b) added (13.7.2009) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations (Northern Ireland) 2009 (S.R. 2009/227)](https://www.legislation.gov.uk/nisr/2009/227), [regs. 1](https://www.legislation.gov.uk/nisr/2009/227/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2009/227/regulation/2/b)
 
-[^key-ddf8ed30ac595f63eea3a8deda62fb0f]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/8/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-ddf8ed30ac595f63eea3a8deda62fb0f]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/4) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/8/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-78fcda400255f13729c47d1d3c51bae1]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/5) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/8/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-78fcda400255f13729c47d1d3c51bae1]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2006/1/regulation/7/5) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 8(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/8/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-6a3759981c7e13fbe53c4d3e19824973]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/1/regulation/8) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-6a3759981c7e13fbe53c4d3e19824973]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/1/regulation/8) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-098251a5e057be3f47a5b3882984f2dc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/1/regulation/8) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-098251a5e057be3f47a5b3882984f2dc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/1/regulation/8) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-51e34c87cbecbe1ceff446037bb55a34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/1/regulation/9) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-51e34c87cbecbe1ceff446037bb55a34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/1/regulation/9) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-5afe0026cd9fd60426aee93cd28cfd72]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/1/regulation/9) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-5afe0026cd9fd60426aee93cd28cfd72]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/1/regulation/9) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-c0f127980915a906d3c8a9b1e57fd930]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/1/regulation/10) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-c0f127980915a906d3c8a9b1e57fd930]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/1/regulation/10) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-2399084e882d5f01cc84c4b06ec78f42]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/1/regulation/10) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-2399084e882d5f01cc84c4b06ec78f42]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/1/regulation/10) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-29bc07df877cdfa1d30e6295122e4747]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/1/regulation/11) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-29bc07df877cdfa1d30e6295122e4747]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/1/regulation/11) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-674adca5b3cdf2eacef73bf56d02dbbd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/1/regulation/11) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-674adca5b3cdf2eacef73bf56d02dbbd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/1/regulation/11) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-8caedde800d80111c16dc8f518058d41]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/1/regulation/12) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-8caedde800d80111c16dc8f518058d41]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/1/regulation/12) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-4cd717dc173920affa2b6a4579bc7a7e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/1/regulation/12) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-4cd717dc173920affa2b6a4579bc7a7e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/1/regulation/12) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-06b756c703359a97d67540cad1daae5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/1/regulation/13) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-06b756c703359a97d67540cad1daae5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/1/regulation/13) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-dead188ee102f90c73864e3599f3dfc6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/1/regulation/13) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-dead188ee102f90c73864e3599f3dfc6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/1/regulation/13) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-2c1cf51344fe83d45a0be27cc5af2dc1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/1/regulation/14) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-2c1cf51344fe83d45a0be27cc5af2dc1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/1/regulation/14) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-1c94d9076a9771308a61306bf32dc020]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/1/regulation/14) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-1c94d9076a9771308a61306bf32dc020]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/1/regulation/14) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-b439a9b0be39f73c726ff95f83e2b19f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/1/regulation/15) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-b439a9b0be39f73c726ff95f83e2b19f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/1/regulation/15) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-4b54b37340b15e815ea345c017445b91]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/1/regulation/15) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-4b54b37340b15e815ea345c017445b91]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/1/regulation/15) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
 [^f00009]: Footnote: [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20), amended by [S.R. 1995 No. 51](https://www.legislation.gov.uk/nisr/1995/51), [S.R. 1996 No. 109](https://www.legislation.gov.uk/nisr/1996/109), [S.R. 2000 No. 87](https://www.legislation.gov.uk/nisr/2000/87), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375) and [S.R. 2003 No. 423](https://www.legislation.gov.uk/nisr/2003/423)
 
@@ -614,52 +614,52 @@ Regulation 15(2)
 
 [^f00011]: Footnote: [S.R. 1990 No. 147](https://www.legislation.gov.uk/nisr/1990/147)
 
-[^key-8258ac61ab6c1acb7c7faa6d4d93cafb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-8258ac61ab6c1acb7c7faa6d4d93cafb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-51fa0bcf389cf2d9785e331293d8c156]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/1) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-51fa0bcf389cf2d9785e331293d8c156]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/1) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-d8368f13fcff49ed2bdd07ce70999415]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-d8368f13fcff49ed2bdd07ce70999415]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-a5fbb3a243256cd94b713028f6f14cd7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-a5fbb3a243256cd94b713028f6f14cd7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/paragraph/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-72b90cd3ad08ca153723a2db561e82a5]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/part/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-72b90cd3ad08ca153723a2db561e82a5]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/part/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-4744d3d9bcea7bea029587d3e5f68fe3]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/part/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-4744d3d9bcea7bea029587d3e5f68fe3]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/1/part/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-ac61c8065703cf1ca59de955df91b096]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-ac61c8065703cf1ca59de955df91b096]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-bf150beb964e8169c8db8a88d1c2d4fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-bf150beb964e8169c8db8a88d1c2d4fc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-f331b5bd2739afb978e596404350986c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-f331b5bd2739afb978e596404350986c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/1) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-af0741b3d67ed1f6024075b34b4c55d0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/1) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-af0741b3d67ed1f6024075b34b4c55d0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/1) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
 [^f00012]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
 [^f00013]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45)
 
-[^key-ccc9ae6ad80e6db541972e0ae3d5828c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-ccc9ae6ad80e6db541972e0ae3d5828c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/2) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-ac8356d2baad39008a6dee6ed6f5d826]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-ac8356d2baad39008a6dee6ed6f5d826]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/2) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-852f00e8d8b2a824aed73320daf77a9e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/3) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-852f00e8d8b2a824aed73320daf77a9e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/3) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-5138dc51da2cfe292d4d0ffac646998c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/3) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-5138dc51da2cfe292d4d0ffac646998c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/3) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-f8e58e0a7916667e11b1960a0e4a3eba]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-f8e58e0a7916667e11b1960a0e4a3eba]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-e8e179813e59e8981c1fdc9a4712fa40]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-e8e179813e59e8981c1fdc9a4712fa40]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-0ca1981935982bfda78771b52e6319c7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/5) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-0ca1981935982bfda78771b52e6319c7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/5) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-442c12fe2aa858b9ddd66e4af4179e52]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-442c12fe2aa858b9ddd66e4af4179e52]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/5) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
 [^f00014]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-0d7b59f692a03447aeb268b67dc81e1e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/6) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-0d7b59f692a03447aeb268b67dc81e1e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/6) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-fecc73277b6d0a61fc7a5e7e91624f72]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/6) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-fecc73277b6d0a61fc7a5e7e91624f72]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2006/1/schedule/3/paragraph/6) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
 
-[^key-e4dc7510cefae6e919c76857a6f0f8bb]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
+[^c-e4dc7510cefae6e919c76857a6f0f8bb]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/4) in operation at 6.4.2006 for specified purposes, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/1/regulation/1)
 
-[^key-e1b6b8aa78a179b65fac1a8580b9ef14]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)
+[^c-e1b6b8aa78a179b65fac1a8580b9ef14]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2006/1/schedule/4) in operation at 6.4.2008 in so far as not already in operation, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2006/1/regulation/1/a)

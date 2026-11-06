@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Further provision for summary cases[^key-5e8faa213101e8b5acd7410c2bd557d8]
+## 42. Further provision for summary cases[^c-5e8faa213101e8b5acd7410c2bd557d8]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e8faa213101e8b5acd7410c2bd557d8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/6/section/42) in force at 1.11.2012 by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)
+[^c-5e8faa213101e8b5acd7410c2bd557d8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/6/section/42) in force at 1.11.2012 by [S.S.I. 2012/274](https://www.legislation.gov.uk/ssi/2012/274), [art. 2](https://www.legislation.gov.uk/ssi/2012/274/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/274/schedule)

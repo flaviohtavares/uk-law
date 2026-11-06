@@ -383,7 +383,7 @@ Section 198
 (2) In the following provisions, for “premises licensed for the sale of intoxicating liquor” substitute “premises which at the time of such a meeting may, by virtue of a premises licence or temporary event notice under the Licensing Act 2003, be used for the supply of alcohol (within the meaning of section 14 of that Act)”—
 
 - (a) paragraph 10(1) (location of parish council meetings),
-- (b)[^key-4551c37742cf7848fc4c930c68fc42ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4551c37742cf7848fc4c930c68fc42ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the following provisions, for “premises licensed for the sale of intoxicating liquor” substitute “premises which at the time of the meeting may, by virtue of a premises licence or temporary event notice under the Licensing Act 2003, be used for the supply of alcohol (within the meaning of section 14 of that Act)”—
 
@@ -758,15 +758,15 @@ Section 198
 > | --- | --- |
 > | Section 149(4) of the Licensing Act 2003 | Buying or attempting to buy alcohol for consumption on licensed premises, etc. by child |
 
-**121.**[^key-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**122.**[^key-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**122.**[^c-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**123.**[^key-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**124.**[^key-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**124.**[^c-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**125.**[^key-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**125.**[^c-63a905880a707ee9823d211424ab7065] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **126.** In each of the following provisions, for “unlicensed sale of intoxicating liquor” substitute “ unauthorised sale of alcohol ”
 
@@ -825,7 +825,7 @@ Section 198
 
 [^c21007491]: Textual amendment: Sch. 6 para. 52 repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356](https://www.legislation.gov.uk/ukpga/2005/19/section/356), [358](https://www.legislation.gov.uk/ukpga/2005/19/section/358), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)
 
-[^key-4551c37742cf7848fc4c930c68fc42ee]: Textual amendment: Sch. 6 para. 61(2)(b) omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 20(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/20/2); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
+[^c-4551c37742cf7848fc4c930c68fc42ee]: Textual amendment: Sch. 6 para. 61(2)(b) omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 20(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/20/2); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
 
 [^c21007501]: Textual amendment: Sch. 6 para. 62 repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356](https://www.legislation.gov.uk/ukpga/2005/19/section/356), [358](https://www.legislation.gov.uk/ukpga/2005/19/section/358), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)
 
@@ -847,4 +847,4 @@ Section 198
 
 [^c21007411]: Textual amendment: Sch. 6 para. 116 repealed (6.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7](https://www.legislation.gov.uk/uksi/2006/378/article/7)
 
-[^key-63a905880a707ee9823d211424ab7065]: Textual amendment: Sch. 6 paras. 121-125 repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(viii)(aa)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/aa) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
+[^c-63a905880a707ee9823d211424ab7065]: Textual amendment: Sch. 6 paras. 121-125 repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(viii)(aa)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/aa) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))

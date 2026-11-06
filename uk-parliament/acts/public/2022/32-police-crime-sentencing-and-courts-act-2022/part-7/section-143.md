@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Increase in driving disqualification periods under certain existing orders: Scotland[^key-ab0f03c5f17d7a27f99c1739ec10e5fb]
+## 143. Increase in driving disqualification periods under certain existing orders: Scotland[^c-ab0f03c5f17d7a27f99c1739ec10e5fb]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0f03c5f17d7a27f99c1739ec10e5fb]: Commencement: S. 143 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
+[^c-ab0f03c5f17d7a27f99c1739ec10e5fb]: Commencement: S. 143 in force at Royal Assent, see [s. 208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)

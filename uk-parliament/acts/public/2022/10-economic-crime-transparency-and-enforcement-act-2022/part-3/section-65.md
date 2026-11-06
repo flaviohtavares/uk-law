@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Sharing of information[^key-dd8b96400c0aaebc07157c4a16f61a54]
+## 65. Sharing of information[^c-dd8b96400c0aaebc07157c4a16f61a54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 16 of the 2018 Act (sanctions regulations: information), in subsectio
 
 ## Annotations
 
-[^key-dd8b96400c0aaebc07157c4a16f61a54]: Commencement: S. 65 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-dd8b96400c0aaebc07157c4a16f61a54]: Commencement: S. 65 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

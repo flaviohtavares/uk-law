@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 374. Repeal of exclusion for newspaper mergers from general merger controls[^key-ffd5065548d16024abbf6e781e562393]
+## 374. Repeal of exclusion for newspaper mergers from general merger controls[^c-ffd5065548d16024abbf6e781e562393]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 69 of the Enterprise Act 2002 (c. 40) (exclusion of newspaper mergers fr
 
 ## Annotations
 
-[^key-ffd5065548d16024abbf6e781e562393]: Commencement: S. 374 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ffd5065548d16024abbf6e781e562393]: Commencement: S. 374 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

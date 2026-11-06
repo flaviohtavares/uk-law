@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Manner of marking and labelling material[^key-ba3329332223b3422373c70359b7ca76]
+## 8. Manner of marking and labelling material[^c-ba3329332223b3422373c70359b7ca76]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The manner in which material shall be marked and labelled for the purposes of se
 
 ## Annotations
 
-[^key-ba3329332223b3422373c70359b7ca76]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/2197/regulation/8) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-ba3329332223b3422373c70359b7ca76]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/2197/regulation/8) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)

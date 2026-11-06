@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Conversion of status[^key-6324d5c62d0458bee4399010acc01949]
+## 121. Conversion of status[^c-6324d5c62d0458bee4399010acc01949]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) Where the request under paragraph (1) is made during the first quarter of the academic year in respect of which the loan is payable the maximum amount or increased maximum amount of loan (as the case may be) is reduced by two thirds, and where the request is made during the second quarter of that year that amount is reduced by one third.
 
-(4A)[^key-50ec820b7245100605fee3987afaad38] Where an eligible distance learning student ceases to undertake a designated distance learning course and transfers to a designated part-time course at the same or at another institution, the Department must convert the student’s status as an eligible distance learning student to that of an eligible part-time student in connection with the course to which he is transferring where—
+(4A)[^c-50ec820b7245100605fee3987afaad38] Where an eligible distance learning student ceases to undertake a designated distance learning course and transfers to a designated part-time course at the same or at another institution, the Department must convert the student’s status as an eligible distance learning student to that of an eligible part-time student in connection with the course to which he is transferring where—
 
 - (a) it receives a request from the eligible distance learning student to do so; and
 - (b) the period of eligibility has not terminated.
@@ -66,7 +66,7 @@ summary: ''
 - (c) the maximum amount of any support under Part 5 or 6 to which the student would, apart from this regulation, be entitled in connection with a designated course in respect of that academic year is reduced by one third where the student became an eligible student during the second quarter of that academic year and by two thirds where he became such a student in a later quarter of that year; and
 - (d) where an amount of disabled part-time students’ allowance for any purpose has been paid to the student in a single instalment, the maximum amount of disabled students’ allowance payable to him under Chapter 3 of Part 5 for that purpose is reduced (or, where sub-paragraph (c) applies, further reduced) by the amount of disabled part-time students’ allowance paid to him for that purpose and where the resulting amount is nil or a negative amount that amount is nil.
 
-(6A)[^key-6e898e49598288596875fc11aafe6c7f] Where an eligible part-time student ceases to undertake a designated part-time course and transfers to a designated distance learning course at the same or at another institution, the Department must convert that student’s status as an eligible part-time student to that of an eligible distance learning student in connection with the course to which he is transferring where—
+(6A)[^c-6e898e49598288596875fc11aafe6c7f] Where an eligible part-time student ceases to undertake a designated part-time course and transfers to a designated distance learning course at the same or at another institution, the Department must convert that student’s status as an eligible part-time student to that of an eligible distance learning student in connection with the course to which he is transferring where—
 
 - (a) it receives a request from the eligible part-time student to do so; and
 - (b) the period of eligibility has not terminated.
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6324d5c62d0458bee4399010acc01949]: Commencement: [Reg. 121](https://www.legislation.gov.uk/nisr/2007/195/regulation/121) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-6324d5c62d0458bee4399010acc01949]: Commencement: [Reg. 121](https://www.legislation.gov.uk/nisr/2007/195/regulation/121) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-50ec820b7245100605fee3987afaad38]: Textual amendment: [Reg. 121(4A)-(4F)](https://www.legislation.gov.uk/nisr/2007/195/regulation/121/4A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [21(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/21/2)
+[^c-50ec820b7245100605fee3987afaad38]: Textual amendment: [Reg. 121(4A)-(4F)](https://www.legislation.gov.uk/nisr/2007/195/regulation/121/4A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [21(2)](https://www.legislation.gov.uk/nisr/2007/363/regulation/21/2)
 
-[^key-6e898e49598288596875fc11aafe6c7f]: Textual amendment: [Reg. 121(6A)-(6E)](https://www.legislation.gov.uk/nisr/2007/195/regulation/121/6A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [21(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/21/3)
+[^c-6e898e49598288596875fc11aafe6c7f]: Textual amendment: [Reg. 121(6A)-(6E)](https://www.legislation.gov.uk/nisr/2007/195/regulation/121/6A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [21(3)](https://www.legislation.gov.uk/nisr/2007/363/regulation/21/3)

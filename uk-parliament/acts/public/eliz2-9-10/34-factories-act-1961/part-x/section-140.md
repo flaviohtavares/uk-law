@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. General registers.[^key-fb0721d4bfeff2277d21a2ab4be46ce0]
+## 140. General registers.[^c-fb0721d4bfeff2277d21a2ab4be46ce0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb0721d4bfeff2277d21a2ab4be46ce0]: Textual amendment: S. 140 repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/3/1) (with a saving in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/605/regulation/3/3))
+[^c-fb0721d4bfeff2277d21a2ab4be46ce0]: Textual amendment: S. 140 repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2009/605/regulation/3/1) (with a saving in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/605/regulation/3/3))

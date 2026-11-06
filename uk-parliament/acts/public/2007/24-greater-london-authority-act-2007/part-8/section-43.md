@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. The London climate change mitigation and energy strategy[^key-95b297c74898d87972646ab07f1c67ca]
+## 43. The London climate change mitigation and energy strategy[^c-95b297c74898d87972646ab07f1c67ca]
 
 *Extent: E+W*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95b297c74898d87972646ab07f1c67ca]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2007/24/section/43) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-95b297c74898d87972646ab07f1c67ca]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2007/24/section/43) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

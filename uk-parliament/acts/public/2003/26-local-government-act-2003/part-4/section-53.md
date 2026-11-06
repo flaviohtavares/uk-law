@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Commencement of BID arrangements[^key-f70fdebbff3a5f0d76583010ac9cfd69][^key-87b3700fc04f9bfe465910e91e6343da][^key-1ee881b1eea6ea957ef4baf14d9bcc93]
+## 53. Commencement of BID arrangements[^c-f70fdebbff3a5f0d76583010ac9cfd69][^c-87b3700fc04f9bfe465910e91e6343da][^c-1ee881b1eea6ea957ef4baf14d9bcc93]
 
 *Extent: E+W*
 
@@ -32,14 +32,14 @@ summary: ''
 
 (6) The day determined under subsection (5) must not be earlier than the day mentioned in subsection (3).
 
-(7)[^key-159927b3277b2d76c2c351c69be0d990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-159927b3277b2d76c2c351c69be0d990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f70fdebbff3a5f0d76583010ac9cfd69]: Commencement: S. 53 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-f70fdebbff3a5f0d76583010ac9cfd69]: Commencement: S. 53 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-87b3700fc04f9bfe465910e91e6343da]: Commencement: S. 53 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-87b3700fc04f9bfe465910e91e6343da]: Commencement: S. 53 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-1ee881b1eea6ea957ef4baf14d9bcc93]: Modification: S. 53 applied (with modifications) (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 9(1)(f)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9/1/f)[(2)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9/2) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
+[^c-1ee881b1eea6ea957ef4baf14d9bcc93]: Modification: S. 53 applied (with modifications) (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 9(1)(f)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9/1/f)[(2)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/9/2) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
 
-[^key-159927b3277b2d76c2c351c69be0d990]: Textual amendment: [S. 53(7)](https://www.legislation.gov.uk/ukpga/2003/26/section/53/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/18)
+[^c-159927b3277b2d76c2c351c69be0d990]: Textual amendment: [S. 53(7)](https://www.legislation.gov.uk/ukpga/2003/26/section/53/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/18)

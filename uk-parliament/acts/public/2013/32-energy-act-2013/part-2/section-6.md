@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may for the purpose of encouraging low carbon electricity generation make regulations about contracts for difference between a CFD counterparty and an eligible generator.
 
-(1A)[^key-a41c338a255033ca0202fcc081e6c709] The reference in subsection (1) to encouraging low carbon electricity generation includes encouraging the continuation of, or an increase in, low carbon electricity generation by existing generating stations.
+(1A)[^c-a41c338a255033ca0202fcc081e6c709] The reference in subsection (1) to encouraging low carbon electricity generation includes encouraging the continuation of, or an increase in, low carbon electricity generation by existing generating stations.
 
 (2) A contract for difference is a contract—
 
@@ -58,7 +58,7 @@ and such a contract is referred to in this Chapter as a “CFD”.
   - (ii) section 15;
   - (iii) section 19;
   - (iv) section 20;
-- (aa)[^key-3d6861949ed850af4bee73d182187438] the first regulations made after the passing of the Energy Prices Act 2022 which make provision falling within each of the sections mentioned in paragraph (a);
+- (aa)[^c-3d6861949ed850af4bee73d182187438] the first regulations made after the passing of the Energy Prices Act 2022 which make provision falling within each of the sections mentioned in paragraph (a);
 - (b) regulations which make provision falling within—
   - (i) section 9;
   - (ii) section 10;
@@ -76,6 +76,6 @@ and such a contract is referred to in this Chapter as a “CFD”.
 
 ## Annotations
 
-[^key-a41c338a255033ca0202fcc081e6c709]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2013/32/section/6/1A) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/2/a), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-a41c338a255033ca0202fcc081e6c709]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2013/32/section/6/1A) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/2/a), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-3d6861949ed850af4bee73d182187438]: Textual amendment: [S. 6(8)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/6/8/aa) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/2/b), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-3d6861949ed850af4bee73d182187438]: Textual amendment: [S. 6(8)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/6/8/aa) inserted (25.12.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2022/44/section/18/2/b), [30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))

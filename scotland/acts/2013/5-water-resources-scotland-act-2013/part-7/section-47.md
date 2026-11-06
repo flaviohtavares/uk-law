@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Directions on functions[^key-1b32366c4a361aa19fc6b13fae1e7ba8]
+## 47. Directions on functions[^c-1b32366c4a361aa19fc6b13fae1e7ba8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b32366c4a361aa19fc6b13fae1e7ba8]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/5/section/47) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-1b32366c4a361aa19fc6b13fae1e7ba8]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/5/section/47) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

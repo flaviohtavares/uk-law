@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Power to deem compliance with security requirements[^key-86c3928fb2377c2fe177062f07b246a3][^key-98b4172ddbef797905c944fbe9774969]
+## 3. Power to deem compliance with security requirements[^c-86c3928fb2377c2fe177062f07b246a3][^c-98b4172ddbef797905c944fbe9774969]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ and the standards that may be specified include standards set by a person or bod
 
 ## Annotations
 
-[^key-86c3928fb2377c2fe177062f07b246a3]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-86c3928fb2377c2fe177062f07b246a3]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-98b4172ddbef797905c944fbe9774969]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/46/section/3) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-98b4172ddbef797905c944fbe9774969]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/46/section/3) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

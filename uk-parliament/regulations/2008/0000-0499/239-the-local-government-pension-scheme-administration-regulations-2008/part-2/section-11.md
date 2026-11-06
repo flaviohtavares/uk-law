@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Separate employments etc[^key-10008e65e25da44a92aa6bfc84a21f27]
+## 11. Separate employments etc[^c-10008e65e25da44a92aa6bfc84a21f27]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ is eligible to be an active member in that appointment and shall be deemed to be
 
 ## Annotations
 
-[^key-10008e65e25da44a92aa6bfc84a21f27]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-10008e65e25da44a92aa6bfc84a21f27]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00017]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).

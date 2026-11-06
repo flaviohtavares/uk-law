@@ -90,7 +90,7 @@ For the purposes of section 26(3B) of the Act, specified functions under the 200
 - (c) functions under sections 18 to 29 (placement of children by adoption agency for adoption) of the 2002 Act;
 - (d) functions under sections 30 to 35 (removal of children who are or may be placed by adoption agencies) of the 2002 Act;
 - (e) functions under sections 36 to 40 (removal of children in non-agency cases) of the 2002 Act;
-- (f) functions under Part 3 (duties of adoption agency where the agency is considering adoption for a child), Part 4 (duties of adoption agency in respect of a prospective adopter) in so far as those functions relate to a decision under regulation 27 (pre-assessment decision) that a prospective adopter is not suitable to adopt a child,[^key-ca17aa18632f5fa6f57c6e6611abc41d] Part 5 (duties of adoption agency in respect of a proposed placement of child with prospective adopter), Part 6 (placement and reviews), Part 7 (case records) in so far as those functions relate to a child's case record as defined in regulation 12 of the Adoption Agencies Regulations 2005 [^c15936071], and regulations 46 and 47 (contact) of the Adoption Agencies Regulations 2005;
+- (f) functions under Part 3 (duties of adoption agency where the agency is considering adoption for a child), Part 4 (duties of adoption agency in respect of a prospective adopter) in so far as those functions relate to a decision under regulation 27 (pre-assessment decision) that a prospective adopter is not suitable to adopt a child,[^c-ca17aa18632f5fa6f57c6e6611abc41d] Part 5 (duties of adoption agency in respect of a proposed placement of child with prospective adopter), Part 6 (placement and reviews), Part 7 (case records) in so far as those functions relate to a child's case record as defined in regulation 12 of the Adoption Agencies Regulations 2005 [^c15936071], and regulations 46 and 47 (contact) of the Adoption Agencies Regulations 2005;
 - (g) functions under regulation 10 (requirements applicable in respect of giving parental responsibility prior to adoption abroad) and Chapter 3 (miscellaneous provisions) of Part 3 (adoptions under the Convention) of the Adoptions with a Foreign Element Regulations 2005 [^c15936081].
 
 ### 5. Specified functions under section 14F of the Act
@@ -266,7 +266,7 @@ then the local authority must consider the representations in accordance with th
 
 (1) Where the complainant is dissatisfied with the outcome of the investigation of his representations under regulation 17 **t**he complainant or, where one has been appointed, his advocate may request that the representations be further considered by a panel in accordance with regulation 19.
 
-(2) A request under paragraph (1) must be made within 20 working days of the date on which the complainant received the notice of the local authority's response , or as soon as is reasonably practicable,[^key-e4bbb50329ebd04b09ed0fb45b87fb2d] and must set out the reasons for the complainant's dissatisfaction with the outcome of the investigations.
+(2) A request under paragraph (1) must be made within 20 working days of the date on which the complainant received the notice of the local authority's response , or as soon as is reasonably practicable,[^c-e4bbb50329ebd04b09ed0fb45b87fb2d] and must set out the reasons for the complainant's dissatisfaction with the outcome of the investigations.
 
 ### 19. Review panel
 
@@ -276,7 +276,7 @@ then the local authority must consider the representations in accordance with th
 
 (3) The independent person appointed in accordance with regulation 17(2) may not be a member of the panel.
 
-(4) The panel shall meet within 30 working days of the local authority receiving a request in accordance with regulation 18 , or as soon as is reasonably practicable[^key-a9c0bd49661d62cf3dae763d879df582].
+(4) The panel shall meet within 30 working days of the local authority receiving a request in accordance with regulation 18 , or as soon as is reasonably practicable[^c-a9c0bd49661d62cf3dae763d879df582].
 
 (5) At its meeting the panel shall consider—
 
@@ -295,14 +295,14 @@ then the local authority must consider the representations in accordance with th
 - (a) a brief summary of the representations; and
 - (b) the panel's recommendations for the resolution of the issues raised in the representations.
 
-(2) Within 5 working days of the meeting , or as soon as is reasonably practicable,[^key-c03a720a260a2fe2bad72121bbb863bc] the panel must send its report to—
+(2) Within 5 working days of the meeting , or as soon as is reasonably practicable,[^c-c03a720a260a2fe2bad72121bbb863bc] the panel must send its report to—
 
 - (a) the local authority;
 - (b) the complainant and, where one has been appointed, his advocate;
 - (c) the independent person appointed under regulation 17(2); and
 - (d) any other person whom the panel consider has sufficient interest in the case to warrant their receiving such a notice.
 
-(3) Within 15 working days of receiving the panel's recommendations , or as soon as is reasonably practicable,[^key-4f9c68db1d3c9fed5eac870cf1dae94c] the local authority must, together with the independent person appointed under regulation 17(2), consider the recommendations and determine—
+(3) Within 15 working days of receiving the panel's recommendations , or as soon as is reasonably practicable,[^c-4f9c68db1d3c9fed5eac870cf1dae94c] the local authority must, together with the independent person appointed under regulation 17(2), consider the recommendations and determine—
 
 - (a) how the authority will respond to them; and
 - (b) what they propose to do in the light of them,
@@ -415,7 +415,7 @@ Part 6 revokes the 1991 Regulations saving them only for the purpose of the tran
 
 [^c15936061]: Marginal citation: [S.I. 2005/691](https://www.legislation.gov.uk/uksi/2005/691).
 
-[^key-ca17aa18632f5fa6f57c6e6611abc41d]: Textual amendment: Words in reg. 4(f) inserted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/6)
+[^c-ca17aa18632f5fa6f57c6e6611abc41d]: Textual amendment: Words in reg. 4(f) inserted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [reg. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/985/schedule/paragraph/6)
 
 [^c15936071]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389).
 
@@ -423,13 +423,13 @@ Part 6 revokes the 1991 Regulations saving them only for the purpose of the tran
 
 [^c15936091]: Marginal citation: [S.I. 2005/1109](https://www.legislation.gov.uk/uksi/2005/1109).
 
-[^key-e4bbb50329ebd04b09ed0fb45b87fb2d]: Textual amendment: Words in reg. 18(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/2) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-e4bbb50329ebd04b09ed0fb45b87fb2d]: Textual amendment: Words in reg. 18(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/2) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-a9c0bd49661d62cf3dae763d879df582]: Textual amendment: Words in reg. 19(4) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/3) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-a9c0bd49661d62cf3dae763d879df582]: Textual amendment: Words in reg. 19(4) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/3) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-c03a720a260a2fe2bad72121bbb863bc]: Textual amendment: Words in reg. 20(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/4/a) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-c03a720a260a2fe2bad72121bbb863bc]: Textual amendment: Words in reg. 20(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/4/a) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-4f9c68db1d3c9fed5eac870cf1dae94c]: Textual amendment: Words in reg. 20(3) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/4/b) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-4f9c68db1d3c9fed5eac870cf1dae94c]: Textual amendment: Words in reg. 20(3) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/445/regulation/6/4/b) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
 [^c15936101]: Marginal citation: For the powers of the Local Commissioners for England see Part 3 of the Local Government Act 1974 as amended.
 

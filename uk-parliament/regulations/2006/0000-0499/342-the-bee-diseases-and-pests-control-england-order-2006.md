@@ -94,7 +94,7 @@ shall immediately notify that fact to the Secretary of State.
 
 a bee pest that he knows or suspects is a notifiable pest shall immediately notify that fact to the Secretary of State.
 
-## 3A. Reporting of Varroa mite (Varroosis)[^key-66676d97ebb4436c74fa25485c9856f5]
+## 3A. Reporting of Varroa mite (Varroosis)[^c-66676d97ebb4436c74fa25485c9856f5]
 
 (1) An owner or person in charge of a hive who knows that any species of the Varroa mite (Varroosis) is present within that hive must give notice of that fact to the Secretary of State as soon as is practicable.
 
@@ -214,7 +214,7 @@ and may specify that the destruction or treatment is to be carried out by an aut
 
 (3) The Secretary of State shall publish any notice issued under paragraph (1) and any notice amending or revoking such a notice in such manner as she considers appropriate to bring it to the attention of persons likely to be affected by it.
 
-## 11. Imported bees[^key-52133efb15c8ec3893f77a57cc3e9077]
+## 11. Imported bees[^c-52133efb15c8ec3893f77a57cc3e9077]
 
 (1) Where consignments of queen bees mentioned in Article 7(3)(a) of Commission Regulation (EU) No 206/2010 arrive at the designated place of final destination from a third country or territory mentioned in Article 7(1) of that Regulation, the consignee must—
 
@@ -233,7 +233,7 @@ and may specify that the destruction or treatment is to be carried out by an aut
 
 ## 12. Provision of facilities and other obligations
 
-(1) The owner or person in charge of any hive, bees, combs, bee products or appliances and the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable pest or notifiable disease[^key-b10740a001c6fc3576de290c800ec671] shall—
+(1) The owner or person in charge of any hive, bees, combs, bee products or appliances and the owner or occupier of any premises and the owner or person in charge of any vehicle on or in which there is suspected to be a notifiable pest or notifiable disease[^c-b10740a001c6fc3576de290c800ec671] shall—
 
 - (a) make available all such facilities, and
 - (b) give such information (including information concerning the number, location and any movements of hives, bees, combs, bee products or appliances that are or have been in his possession or charge and information concerning the location of any bee pests on the premises or vehicle),
@@ -321,11 +321,11 @@ A regulatory impact assessment has been prepared for this Order and has been pla
 
 [^f00001]: Footnote: [1980 c. 12](https://www.legislation.gov.uk/ukpga/1980/12). The functions of the Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales under section 1 were, so far as exercisable in relation to Scotland, transferred to the Scottish Ministers by section 53 of the Scotland Act. The functions of the Secretary of State for Wales under section 1 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The remaining functions of the Secretary of State for Scotland and the Secretary of State for Wales under section 1 were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). The functions of the Minister of Agriculture, Fisheries and Food under section 1 were transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)). The functions of the Secretary of State under section 1 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)).
 
-[^key-66676d97ebb4436c74fa25485c9856f5]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2006/342/article/3A) inserted (21.4.2021) by [The Bee Diseases and Pests Control (England) (Amendment) Order 2021 (S.I. 2021/420)](https://www.legislation.gov.uk/uksi/2021/420), [arts. 1](https://www.legislation.gov.uk/uksi/2021/420/article/1), [2](https://www.legislation.gov.uk/uksi/2021/420/article/2)
+[^c-66676d97ebb4436c74fa25485c9856f5]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2006/342/article/3A) inserted (21.4.2021) by [The Bee Diseases and Pests Control (England) (Amendment) Order 2021 (S.I. 2021/420)](https://www.legislation.gov.uk/uksi/2021/420), [arts. 1](https://www.legislation.gov.uk/uksi/2021/420/article/1), [2](https://www.legislation.gov.uk/uksi/2021/420/article/2)
 
-[^key-52133efb15c8ec3893f77a57cc3e9077]: Textual amendment: Art. 11 substituted (25.10.2010) by [Bee Diseases and Pests Control (England) (Amendment) Order 2010 (S.I. 2010/2363)](https://www.legislation.gov.uk/uksi/2010/2363), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2363/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2363/article/2/2)
+[^c-52133efb15c8ec3893f77a57cc3e9077]: Textual amendment: Art. 11 substituted (25.10.2010) by [Bee Diseases and Pests Control (England) (Amendment) Order 2010 (S.I. 2010/2363)](https://www.legislation.gov.uk/uksi/2010/2363), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2363/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/2363/article/2/2)
 
-[^key-b10740a001c6fc3576de290c800ec671]: Textual amendment: Words in art. 12(1) inserted (25.10.2010) by [Bee Diseases and Pests Control (England) (Amendment) Order 2010 (S.I. 2010/2363)](https://www.legislation.gov.uk/uksi/2010/2363), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2363/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2363/article/2/3)
+[^c-b10740a001c6fc3576de290c800ec671]: Textual amendment: Words in art. 12(1) inserted (25.10.2010) by [Bee Diseases and Pests Control (England) (Amendment) Order 2010 (S.I. 2010/2363)](https://www.legislation.gov.uk/uksi/2010/2363), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2363/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2363/article/2/3)
 
 [^f00003]: Footnote: S.I. [1982/107](https://www.legislation.gov.uk/uksi/1982/107).
 

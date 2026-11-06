@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Contributions during absence from work due to illness, injury, trade dispute or authorised absence[^key-19bef17b07d49e6d79f918c289fa0c80]
+## 111. Contributions during absence from work due to illness, injury, trade dispute or authorised absence[^c-19bef17b07d49e6d79f918c289fa0c80]
 
 *Extent: S*
 
 (1) An active member away from scheme employment by reason of illness or injury must pay contributions at the contribution rate ascertained in accordance with regulation 110 (member contributions) multiplied by the amount of any pensionable pay received, including statutory pay.
 
-(2) If an active member is absent from scheme employment by reason of illness or injury and is not entitled to receive pensionable pay (including statutory pay) for any period, that member may elect to[^key-0ab3807307ac21bb6535ba95f0d7aeec] pay contributions at the contribution rate ascertained in accordance with regulation 110 (member contributions) multiplied by the amount of pay received immediately before the cessation of pay and if required by the scheme employer, pay the amount of employer contribution which the scheme employer would otherwise be required to pay by regulation 117(3) (employer contributions).
+(2) If an active member is absent from scheme employment by reason of illness or injury and is not entitled to receive pensionable pay (including statutory pay) for any period, that member may elect to[^c-0ab3807307ac21bb6535ba95f0d7aeec] pay contributions at the contribution rate ascertained in accordance with regulation 110 (member contributions) multiplied by the amount of pay received immediately before the cessation of pay and if required by the scheme employer, pay the amount of employer contribution which the scheme employer would otherwise be required to pay by regulation 117(3) (employer contributions).
 
 (3) If an active member is absent on a trade dispute, the member may elect to pay the contributions at the contribution rate ascertained in accordance with regulation 110 (member contributions) multiplied by the assumed pensionable pay that member is treated as receiving and if required by the scheme employer, pay the amount of employer contribution which the scheme employer would otherwise be required to pay by regulation 117(3) (employer contributions).
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19bef17b07d49e6d79f918c289fa0c80]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2015/19/regulation/111) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-19bef17b07d49e6d79f918c289fa0c80]: Commencement: [Reg. 111](https://www.legislation.gov.uk/ssi/2015/19/regulation/111) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-0ab3807307ac21bb6535ba95f0d7aeec]: Textual amendment: Words in [reg. 111(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/111/2) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017 (S.S.I. 2017/435)](https://www.legislation.gov.uk/ssi/2017/435), [regs. 1](https://www.legislation.gov.uk/ssi/2017/435/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2017/435/regulation/5/2)
+[^c-0ab3807307ac21bb6535ba95f0d7aeec]: Textual amendment: Words in [reg. 111(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/111/2) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017 (S.S.I. 2017/435)](https://www.legislation.gov.uk/ssi/2017/435), [regs. 1](https://www.legislation.gov.uk/ssi/2017/435/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2017/435/regulation/5/2)

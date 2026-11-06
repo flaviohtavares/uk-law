@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 123. Date on which a... liable relative payment is to be treated as paid[^key-5d51dc2e45f075c93f9690633816ea34]
+## 123. Date on which a... liable relative payment is to be treated as paid[^c-5d51dc2e45f075c93f9690633816ea34]
 
 (1) A periodical payment is to be treated as paid–
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d51dc2e45f075c93f9690633816ea34]: Textual amendment: Words in [reg. 123 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)
+[^c-5d51dc2e45f075c93f9690633816ea34]: Textual amendment: Words in [reg. 123 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)

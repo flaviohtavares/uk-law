@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306B. Limited exemption for sporting testimonial payments[^key-47244c113052d885ce6cb5d2f714731e]
+## 306B. Limited exemption for sporting testimonial payments[^c-47244c113052d885ce6cb5d2f714731e]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47244c113052d885ce6cb5d2f714731e]: Textual amendment: S. 306B and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/2)
+[^c-47244c113052d885ce6cb5d2f714731e]: Textual amendment: S. 306B and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/2)

@@ -52,7 +52,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 There has been consultation as required by Article 144(7) of [Regulation (EU) 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) and as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178).
 
-## 1. Title, extent, application and coming into force[^key-4d8e291d885d265ce5347df1597794cf]
+## 1. Title, extent, application and coming into force[^c-4d8e291d885d265ce5347df1597794cf]
 
 (1) The title of these Regulations is the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2024.
 
@@ -62,7 +62,7 @@ There has been consultation as required by Article 144(7) of [Regulation (EU) 20
 - (b) apply in relation to Wales;
 - (c) come into force on 7 March 2024.
 
-## 2. Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)[^key-697d078bc34ed9aeed0da7360e608dab]
+## 2. Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)[^c-697d078bc34ed9aeed0da7360e608dab]
 
 (1) Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793) on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries[^f00003] is amended as follows.
 
@@ -77,13 +77,13 @@ There has been consultation as required by Article 144(7) of [Regulation (EU) 20
 
 > - (e) the absence of *Listeria* in 25 g, for consignments of food listed in Annex 2 due to risk of microbiological contamination by *Listeria*.
 
-(4)[^key-216bcef79d2b10eda37f89b72315ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-216bcef79d2b10eda37f89b72315ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-216bcef79d2b10eda37f89b72315ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-216bcef79d2b10eda37f89b72315ef71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After Annex 3, insert the Annex 3a contained in Schedule 3 to these Regulations.
 
-## 3. Amendment of the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2022[^key-904a868d5df988e9935dcd16796f4e1e]
+## 3. Amendment of the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2022[^c-904a868d5df988e9935dcd16796f4e1e]
 
 In the Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing [Regulation (EU) 2019/1793](https://www.legislation.gov.uk/european/regulation/2019/1793)) (Wales) Regulations 2022[^f00004]—
 
@@ -96,7 +96,7 @@ Deputy Minister for Mental Health and Wellbeing, under the authority of the Mini
 
 31 January 2024
 
-## SCHEDULE 1 — Annex to be substituted for Annex 1 to Commission Implementing Regulation (EU) 2019/1793[^key-2f5ca754a6c5745a6dfc7687d3186514]
+## SCHEDULE 1 — Annex to be substituted for Annex 1 to Commission Implementing Regulation (EU) 2019/1793[^c-2f5ca754a6c5745a6dfc7687d3186514]
 
 **No longer in force.**
 
@@ -104,7 +104,7 @@ Regulation 2(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Annex to be substituted for Annex 2 to Commission Implementing Regulation (EU) 2019/1793[^key-698dd7938c6807a76d983b9ac51e0e94]
+## SCHEDULE 2 — Annex to be substituted for Annex 2 to Commission Implementing Regulation (EU) 2019/1793[^c-698dd7938c6807a76d983b9ac51e0e94]
 
 **No longer in force.**
 
@@ -112,7 +112,7 @@ Regulation 2(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Annex 3a to be inserted into Commission Implementing Regulation (EU) 2019/1793[^key-e047eb06926bda2360485db4885a7d4b]
+## SCHEDULE 3 — Annex 3a to be inserted into Commission Implementing Regulation (EU) 2019/1793[^c-e047eb06926bda2360485db4885a7d4b]
 
 Regulation 2(6)
 
@@ -209,23 +209,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) and [2022/377](https://www.legislation.gov.uk/uksi/2022/377). [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504). The term “appropriate authority” is defined in Article 3(19) of EUR 2002/178.
 
-[^key-4d8e291d885d265ce5347df1597794cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/119/regulation/1) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
+[^c-4d8e291d885d265ce5347df1597794cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/119/regulation/1) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
 
-[^key-697d078bc34ed9aeed0da7360e608dab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/119/regulation/2) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
+[^c-697d078bc34ed9aeed0da7360e608dab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/119/regulation/2) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
 
 [^f00003]: Footnote: EUR 2019/1793, amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631) and [2022/1330 (W. 269)](https://www.legislation.gov.uk/wsi/2022/1330); there are other amending instruments but none is relevant.
 
-[^key-216bcef79d2b10eda37f89b72315ef71]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2024/119/regulation/2/4)[(5)](https://www.legislation.gov.uk/wsi/2024/119/regulation/2/5) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(a)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/a)
+[^c-216bcef79d2b10eda37f89b72315ef71]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2024/119/regulation/2/4)[(5)](https://www.legislation.gov.uk/wsi/2024/119/regulation/2/5) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(a)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/a)
 
-[^key-904a868d5df988e9935dcd16796f4e1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/119/regulation/3) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
+[^c-904a868d5df988e9935dcd16796f4e1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/119/regulation/3) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
 
 [^f00004]: Footnote: [S.I. 2022/1330 (W. 269)](https://www.legislation.gov.uk/wsi/2022/1330).
 
-[^key-2f5ca754a6c5745a6dfc7687d3186514]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/119/schedule/1) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/b)
+[^c-2f5ca754a6c5745a6dfc7687d3186514]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/119/schedule/1) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/b)
 
-[^key-698dd7938c6807a76d983b9ac51e0e94]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2024/119/schedule/2) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/b)
+[^c-698dd7938c6807a76d983b9ac51e0e94]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2024/119/schedule/2) omitted (18.12.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (No. 2) (Wales) Regulations 2024 (S.I. 2024/1214)](https://www.legislation.gov.uk/wsi/2024/1214), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/1/2/c), [3(b)](https://www.legislation.gov.uk/wsi/2024/1214/regulation/3/b)
 
-[^key-e047eb06926bda2360485db4885a7d4b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2024/119/schedule/3) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
+[^c-e047eb06926bda2360485db4885a7d4b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2024/119/schedule/3) in force at 7.3.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/119/regulation/1/2/c)
 
 [^f01031]: Footnote: (1)
 

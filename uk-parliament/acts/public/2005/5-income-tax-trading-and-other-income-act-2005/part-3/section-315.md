@@ -38,8 +38,8 @@ summary: ''
 
 (6) Section 316 deals with the case of an interest in the premises being transferred (and this section applies in that case as if the reference to the person in subsection (2) above included the transferor and the transferee).
 
-(7)[^key-6011ec4a16c51cd2d68a4dd901666ad6] In calculating the profits of a property business on the cash basis, any reference in this section to the incurring of expenditure is to the paying of expenditure.
+(7)[^c-6011ec4a16c51cd2d68a4dd901666ad6] In calculating the profits of a property business on the cash basis, any reference in this section to the incurring of expenditure is to the paying of expenditure.
 
 ## Annotations
 
-[^key-6011ec4a16c51cd2d68a4dd901666ad6]: Textual amendment: [S. 315(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/315/7) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/25)
+[^c-6011ec4a16c51cd2d68a4dd901666ad6]: Textual amendment: [S. 315(7)](https://www.legislation.gov.uk/ukpga/2005/5/section/315/7) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/25)

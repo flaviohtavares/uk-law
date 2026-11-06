@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. False representation of status for purpose of inspecting documents[^key-617e0755c60a2598747650b7e45f09d5]
+## 159. False representation of status for purpose of inspecting documents[^c-617e0755c60a2598747650b7e45f09d5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-617e0755c60a2598747650b7e45f09d5]: Commencement: Rule 159 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-617e0755c60a2598747650b7e45f09d5]: Commencement: Rule 159 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

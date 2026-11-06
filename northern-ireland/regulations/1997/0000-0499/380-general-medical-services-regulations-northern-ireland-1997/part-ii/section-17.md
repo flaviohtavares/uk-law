@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Amendment of local directory[^key-d56b5aae168afad7e8b4b45c72b4db56]
+## 17. Amendment of local directory[^c-d56b5aae168afad7e8b4b45c72b4db56]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d56b5aae168afad7e8b4b45c72b4db56]: Commencement: Reg. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-d56b5aae168afad7e8b4b45c72b4db56]: Commencement: Reg. 17 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

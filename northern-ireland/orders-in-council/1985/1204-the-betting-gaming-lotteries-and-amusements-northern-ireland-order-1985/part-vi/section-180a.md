@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 180A⁠. Code of practice[^key-45c59356f2e05f32cf932492cde25ce7]
+## 180A⁠. Code of practice[^c-45c59356f2e05f32cf932492cde25ce7]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45c59356f2e05f32cf932492cde25ce7]: Textual amendment: [Art. 180A](https://www.legislation.gov.uk/nisi/1985/1204/article/180A) and cross-heading inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(1)](https://www.legislation.gov.uk/nia/2022/14/section/16/1), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)
+[^c-45c59356f2e05f32cf932492cde25ce7]: Textual amendment: [Art. 180A](https://www.legislation.gov.uk/nisi/1985/1204/article/180A) and cross-heading inserted (1.10.2023) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 16(1)](https://www.legislation.gov.uk/nia/2022/14/section/16/1), [17(3)](https://www.legislation.gov.uk/nia/2022/14/section/17/3); [S.R. 2023/74](https://www.legislation.gov.uk/nisr/2023/74), [art. 2](https://www.legislation.gov.uk/nisr/2023/74/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/74/schedule)

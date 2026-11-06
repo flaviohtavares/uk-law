@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — REMOVAL OF HEDGEROWS[^key-ad378aefcef31ba32375cea3f9b0a47e]
+## SCHEDULE 10 — REMOVAL OF HEDGEROWS[^c-ad378aefcef31ba32375cea3f9b0a47e]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 15
 
 ## Annotations
 
-[^key-ad378aefcef31ba32375cea3f9b0a47e]: Commencement: Sch. 10 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-ad378aefcef31ba32375cea3f9b0a47e]: Commencement: Sch. 10 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

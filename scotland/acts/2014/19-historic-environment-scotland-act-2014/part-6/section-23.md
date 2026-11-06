@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Applications for listed building consent[^key-a122ab32fa9a85cac7b59af307e9fa9e][^key-e5fa718127e510f7d34fcb15edc21cc8]
+## 23. Applications for listed building consent[^c-a122ab32fa9a85cac7b59af307e9fa9e][^c-e5fa718127e510f7d34fcb15edc21cc8]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a122ab32fa9a85cac7b59af307e9fa9e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/19/section/23) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-a122ab32fa9a85cac7b59af307e9fa9e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/19/section/23) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-e5fa718127e510f7d34fcb15edc21cc8]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/19/section/23) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-e5fa718127e510f7d34fcb15edc21cc8]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/19/section/23) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

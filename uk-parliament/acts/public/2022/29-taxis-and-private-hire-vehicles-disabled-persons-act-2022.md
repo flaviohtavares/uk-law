@@ -35,7 +35,7 @@ An Act to make provision relating to the carrying of disabled persons by taxis a
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Duties of drivers[^key-ec868a3ad4f57f5b29eee8650127792c]
+## 1. Duties of drivers[^c-ec868a3ad4f57f5b29eee8650127792c]
 
 (1) The Equality Act 2010 is amended as follows.
 
@@ -176,7 +176,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 >
 > (7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 2. Exemption certificates[^key-15a6e3fe6e5769dd78d4da5367e4c514]
+## 2. Exemption certificates[^c-15a6e3fe6e5769dd78d4da5367e4c514]
 
 (1) Section 166 of the Equality Act 2010 (passengers in wheelchairs: exemption certificates) is amended as follows.
 
@@ -203,7 +203,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) Omit subsection (5).
 
-## 3. Lists of wheelchair-accessible vehicles[^key-940963e28e6369ee4ed2d19db8f5645f]
+## 3. Lists of wheelchair-accessible vehicles[^c-940963e28e6369ee4ed2d19db8f5645f]
 
 (1) Section 167 of the Equality Act 2010 (lists of wheelchair-accessible vehicles) is amended as follows.
 
@@ -222,7 +222,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (5) In subsection (7) omit “which maintains a list under subsection (1)”.
 
-## 4. Duties of operators of private hire vehicles[^key-db9c937a9e86c54d3cd3f2ac4fdd2182]
+## 4. Duties of operators of private hire vehicles[^c-db9c937a9e86c54d3cd3f2ac4fdd2182]
 
 After section 167 of the Equality Act 2010 insert—
 
@@ -243,7 +243,7 @@ After section 167 of the Equality Act 2010 insert—
 >
 > (5) In this section “**the passenger**” means the disabled person concerned.
 
-## 5. Minor and consequential amendments[^key-865dc856016edbadf486462e8cee24e7]
+## 5. Minor and consequential amendments[^c-865dc856016edbadf486462e8cee24e7]
 
 (1) The Equality Act 2010 is amended as follows.
 
@@ -288,7 +288,7 @@ After section 167 of the Equality Act 2010 insert—
   ;
 - (b) in the definition of “taxi”, in paragraph (b), for “165” substitute “164A”.
 
-## 6. Extent, commencement and short title[^key-b1418698d2fd671947bc5ef9ab1f7b68]
+## 6. Extent, commencement and short title[^c-b1418698d2fd671947bc5ef9ab1f7b68]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -298,14 +298,14 @@ After section 167 of the Equality Act 2010 insert—
 
 ## Annotations
 
-[^key-ec868a3ad4f57f5b29eee8650127792c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/29/section/1) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-ec868a3ad4f57f5b29eee8650127792c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/29/section/1) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-15a6e3fe6e5769dd78d4da5367e4c514]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/29/section/2) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-15a6e3fe6e5769dd78d4da5367e4c514]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/29/section/2) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-940963e28e6369ee4ed2d19db8f5645f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/29/section/3) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-940963e28e6369ee4ed2d19db8f5645f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/29/section/3) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-db9c937a9e86c54d3cd3f2ac4fdd2182]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/29/section/4) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-db9c937a9e86c54d3cd3f2ac4fdd2182]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/29/section/4) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-865dc856016edbadf486462e8cee24e7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/29/section/5) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-865dc856016edbadf486462e8cee24e7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/29/section/5) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
 
-[^key-b1418698d2fd671947bc5ef9ab1f7b68]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/29/section/6) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-b1418698d2fd671947bc5ef9ab1f7b68]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/29/section/6) in force at 28.6.2022, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

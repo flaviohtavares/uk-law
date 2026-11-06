@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100C. Power to require ships to be moved.[^key-dc2d3564a782dbe589989e4c052e62e2][^c14526301]
+## 100C. Power to require ships to be moved.[^c-dc2d3564a782dbe589989e4c052e62e2][^c14526301]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2d3564a782dbe589989e4c052e62e2]: Textual amendment: Ss. 100C-100E repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/2/a), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
+[^c-dc2d3564a782dbe589989e4c052e62e2]: Textual amendment: Ss. 100C-100E repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/2/a), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
 
 [^c14526301]: Textual amendment: Ss. 100C-100E inserted (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 10](https://www.legislation.gov.uk/ukpga/1997/28/section/10); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art. 2](https://www.legislation.gov.uk/uksi/1997/1082/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule)

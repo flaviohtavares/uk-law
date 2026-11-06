@@ -52,14 +52,14 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - “the Act" means the Child Support Act 1991;
 - “debit card" means a card, operating as a substitute for a cheque, that can be used to obtain cash or to make a payment at a point of sale whereby the card holder’s bank or building society account is debited without deferment of payment;
-- [^key-6445f02a1d6f37344b8b9c5a635fbab7]...
-- “the qualifying child’s home" means the home in which the qualifying child resides with the person with care [^key-9bf1199fd86531faad6a078d168b44fa]...; and
+- [^c-6445f02a1d6f37344b8b9c5a635fbab7]...
+- “the qualifying child’s home" means the home in which the qualifying child resides with the person with care [^c-9bf1199fd86531faad6a078d168b44fa]...; and
 - “relevant person" means—
   - (a) a person with care;
   - (b) a non-resident parent;
-  - (c) a parent who is treated as a non-resident parent under regulation 50 of the Child Support Maintenance Calculation Regulations 2012[^key-c193ce4a1ca78d1312bcbd3c0721dc26];
+  - (c) a parent who is treated as a non-resident parent under regulation 50 of the Child Support Maintenance Calculation Regulations 2012[^c-c193ce4a1ca78d1312bcbd3c0721dc26];
   - (d) where the application for a maintenance calculation is made by a child under section 7 of the Act, that child,
-- in respect of whom a maintenance calculation has been applied for, [^key-776290169bc623eb87e49db055098c0f]... or is or has been in force.
+- in respect of whom a maintenance calculation has been applied for, [^c-776290169bc623eb87e49db055098c0f]... or is or has been in force.
 
 ## 2. Voluntary payment
 
@@ -67,7 +67,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - (a) made in accordance with section 28J(2) and (4) of the Act;
 - (b) of a type to which regulation 3 applies;
-- (c) made on or after the effective date of the maintenance calculation made, or which would be made but for the Secretary of State’s decision not to make one, [^key-19a6f43dbb46834b92999e1c4579bb6e]... ; and
+- (c) made on or after the effective date of the maintenance calculation made, or which would be made but for the Secretary of State’s decision not to make one, [^c-19a6f43dbb46834b92999e1c4579bb6e]... ; and
 - (d) a payment in relation to which evidence or verification of a type to which regulation 4 applies is provided, if the Secretary of State so requires.
 
 (2) Where the Secretary of State is considering whether a payment is a voluntary payment, he may invite representations from a relevant person.
@@ -129,12 +129,12 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^c1636072]: Marginal citation: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-6445f02a1d6f37344b8b9c5a635fbab7]: Textual amendment: Words in reg. 1(2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(a)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/a)
+[^c-6445f02a1d6f37344b8b9c5a635fbab7]: Textual amendment: Words in reg. 1(2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(a)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/a)
 
-[^key-9bf1199fd86531faad6a078d168b44fa]: Textual amendment: Words in reg. 1(2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/b)
+[^c-9bf1199fd86531faad6a078d168b44fa]: Textual amendment: Words in reg. 1(2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(b)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/b)
 
-[^key-c193ce4a1ca78d1312bcbd3c0721dc26]: Textual amendment: Words in reg. 1(2) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(c)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/c)
+[^c-c193ce4a1ca78d1312bcbd3c0721dc26]: Textual amendment: Words in reg. 1(2) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(2)(c)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/2/c)
 
-[^key-776290169bc623eb87e49db055098c0f]: Textual amendment: Words in reg. 1(2) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2543/regulation/5)
+[^c-776290169bc623eb87e49db055098c0f]: Textual amendment: Words in reg. 1(2) omitted (27.10.2008) by virtue of [Child Support (Consequential Provisions) Regulations 2008 (S.I. 2008/2543)](https://www.legislation.gov.uk/uksi/2008/2543), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2543/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2543/regulation/5)
 
-[^key-19a6f43dbb46834b92999e1c4579bb6e]: Textual amendment: Words in reg. 2(1)(c) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/3)
+[^c-19a6f43dbb46834b92999e1c4579bb6e]: Textual amendment: Words in reg. 2(1)(c) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [7(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/7/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Costs associated with group profits[^key-781aeb32d3857a88016f0f9668186b5c]
+## 13A. Costs associated with group profits[^c-781aeb32d3857a88016f0f9668186b5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-781aeb32d3857a88016f0f9668186b5c]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/13A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/420/regulation/17)
+[^c-781aeb32d3857a88016f0f9668186b5c]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/13A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/420/regulation/17)

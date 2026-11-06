@@ -96,7 +96,7 @@ shall be treated as a contract entered into by the new principal council.
 
 #### Local land charges registers
 
-**11.**[^key-d0eac4cdd24b6f0bb20599bda3c58978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d0eac4cdd24b6f0bb20599bda3c58978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Closure of old authorities’ accounts
 
@@ -111,7 +111,7 @@ shall be treated as a contract entered into by the new principal council.
 
 (4) As respects anything falling to be done on or after 1st April 1996 in relation to those accounts, the provisions of the Act of 1998[^c10522711] shall have effect as if they were accounts of the designated council but—
 
-- (a) the documents to which an auditor has the right of access under section 6(1)[^c10522721] of that Act shall include any documents relating to the old authority concerned which are in the possession of any of the new principal councils [^key-54fdb67e8c2158c4d112c215031dff19]...; and
+- (a) the documents to which an auditor has the right of access under section 6(1)[^c10522721] of that Act shall include any documents relating to the old authority concerned which are in the possession of any of the new principal councils [^c-54fdb67e8c2158c4d112c215031dff19]...; and
 - (b) the persons who may be required to give information or an explanation under section 6(4) or 48(1)[^c10522731] of that Act shall include any person who was an officer or member of the authority concerned at any time during the period to which the accounts relate.
 
 (5) Any requirement under section 28 of the Act of 1998[^c10522741] in respect of a claim, return or account of an old authority, and any consent under section 49(1)(a)[^c10522751] of that Act in respect of information relating to such an authority, may, on or after 1st April 1996, be made or given by the appropriate designated council.
@@ -173,9 +173,9 @@ shall be treated as a contract entered into by the new principal council.
 
 (4) This paragraph has effect in relation to planning obligations entered into under section 299A of the planning Act (Crown planning obligations) as it has effect in relation to planning obligations entered into under section 106 of that Act, but as if for references to section 106, and to subsection (9)(d) of that section, there were substituted references to section 299A of that Act, and to subsection (2)(d) of section 299A, respectively.
 
-**16.**[^key-1139b2a16d8bf9fc41c1eb3b53152e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1139b2a16d8bf9fc41c1eb3b53152e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-f9decc715a5533d289009cf2589bfa31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f9decc715a5533d289009cf2589bfa31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Highways
 
@@ -275,7 +275,7 @@ shall not be treated as a variation of the scheme.
 
 [^c10522621]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/10) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
-[^key-d0eac4cdd24b6f0bb20599bda3c58978]: Textual amendment: [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/11) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/39) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-d0eac4cdd24b6f0bb20599bda3c58978]: Textual amendment: [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/11) omitted (12.4.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/39) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
 
 [^c10522681]: Commencement: [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/12) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 
@@ -287,7 +287,7 @@ shall not be treated as a variation of the scheme.
 
 [^c10522721]: Textual amendment: Words in [Sch. 17 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/12/4/a) substituted (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/1), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 3 para. 28(3)(b)](https://www.legislation.gov.uk/ukpga/1998/18/schedule/3/paragraph/28/3/b)
 
-[^key-54fdb67e8c2158c4d112c215031dff19]: Textual amendment: Words in [Sch. 17 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/12/4/a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(6)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/6)
+[^c-54fdb67e8c2158c4d112c215031dff19]: Textual amendment: Words in [Sch. 17 para. 12(4)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/12/4/a) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(6)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/6)
 
 [^c10522731]: Textual amendment: Words in [Sch. 17 para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/12/4/b) substituted (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/1), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 3 para. 28(3)(c)](https://www.legislation.gov.uk/ukpga/1998/18/schedule/3/paragraph/28/3/c)
 
@@ -301,9 +301,9 @@ shall not be treated as a variation of the scheme.
 
 [^c10522791]: Modification: [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/15) applied (with modifications) (23.11.1995) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [art. 17](https://www.legislation.gov.uk/uksi/1995/2803/article/17), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/2803/schedule/4)
 
-[^key-1139b2a16d8bf9fc41c1eb3b53152e05]: Textual amendment: [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/16) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/4)
+[^c-1139b2a16d8bf9fc41c1eb3b53152e05]: Textual amendment: [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/16) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/4)
 
-[^key-f9decc715a5533d289009cf2589bfa31]: Textual amendment: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/17) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/4)
+[^c-f9decc715a5533d289009cf2589bfa31]: Textual amendment: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/17) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/4)
 
 [^c10522801]: Commencement: [Sch. 17 para. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/18) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 9(1)](https://www.legislation.gov.uk/uksi/1995/852/article/9/1), [Sch. 5](https://www.legislation.gov.uk/uksi/1995/852/schedule/5) (subject to [art. 9(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/9/2))
 

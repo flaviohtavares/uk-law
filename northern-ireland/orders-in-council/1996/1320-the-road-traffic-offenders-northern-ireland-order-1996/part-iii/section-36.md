@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Reduced disqualification period for attendance on courses[^key-9b7a8b5fb6b903caeeb91012a8d759ab]
+## 36. Reduced disqualification period for attendance on courses[^c-9b7a8b5fb6b903caeeb91012a8d759ab]
 
 *Extent: N.I.*
 
@@ -38,10 +38,10 @@ summary: ''
 
 (5) The date specified in an order under this Article as the latest date for completion of a course must be at least 2 months before the last day of the period of disqualification as reduced by the order.
 
-(6) An order under this Article shall name the petty sessions district in which the offender resides or will reside. *(affected by repeal, see note)*[^key-9e6af0ed524ad0da527ca252afdb614f]
+(6) An order under this Article shall name the petty sessions district in which the offender resides or will reside. *(affected by repeal, see note)*[^c-9e6af0ed524ad0da527ca252afdb614f]
 
 ## Annotations
 
-[^key-9b7a8b5fb6b903caeeb91012a8d759ab]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1996/1320/article/36) modifed (temp.) (28.6.2021) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [s. 26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/10); [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
+[^c-9b7a8b5fb6b903caeeb91012a8d759ab]: Modification: [Art. 36](https://www.legislation.gov.uk/nisi/1996/1320/article/36) modifed (temp.) (28.6.2021) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [s. 26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2016/11/schedule/1/paragraph/10); [S.R. 2021/146](https://www.legislation.gov.uk/nisr/2021/146), [art. 2](https://www.legislation.gov.uk/nisr/2021/146/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/146/schedule)
 
-[^key-9e6af0ed524ad0da527ca252afdb614f]: Textual amendment: [Art. 36(6)](https://www.legislation.gov.uk/nisi/1996/1320/article/36/6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 109(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/109/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k)[(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9e6af0ed524ad0da527ca252afdb614f]: Textual amendment: [Art. 36(6)](https://www.legislation.gov.uk/nisi/1996/1320/article/36/6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 109(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/109/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k)[(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

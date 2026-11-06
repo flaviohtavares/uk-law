@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 680C. Income treated as property income[^key-6af29ac51decb91d217c4d1ea0e88e49]
+## 680C. Income treated as property income[^c-6af29ac51decb91d217c4d1ea0e88e49]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6af29ac51decb91d217c4d1ea0e88e49]: Textual amendment: [S. 680C](https://www.legislation.gov.uk/ukpga/2005/5/section/680C) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/52)
+[^c-6af29ac51decb91d217c4d1ea0e88e49]: Textual amendment: [S. 680C](https://www.legislation.gov.uk/ukpga/2005/5/section/680C) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/52)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Plan manager—qualifications and Board’s approval[^key-044cd5d83b209be3ea5b732005fe245e]
+## 124. Plan manager—qualifications and Board’s approval[^c-044cd5d83b209be3ea5b732005fe245e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ Amend regulation 11(2) (plan manager—qualifications and Board’s approval)[^f
 
 ## Annotations
 
-[^key-044cd5d83b209be3ea5b732005fe245e]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-044cd5d83b209be3ea5b732005fe245e]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00118]: Footnote: Regulation 11 was amended by regulation 5 of S.I. [1995/3287](https://www.legislation.gov.uk/uksi/1995/3287).

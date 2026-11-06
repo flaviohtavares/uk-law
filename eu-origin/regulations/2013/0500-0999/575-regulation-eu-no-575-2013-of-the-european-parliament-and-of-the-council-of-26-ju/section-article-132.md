@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 132. Exposures in the form of units or shares in CIUs[^key-f549d5b9382aad3064fb6f59f71a7b2f]
+## Article 132. Exposures in the form of units or shares in CIUs[^c-f549d5b9382aad3064fb6f59f71a7b2f]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-f549d5b9382aad3064fb6f59f71a7b2f]: Textual amendment: [Art. 132](https://www.legislation.gov.uk/eur/2013/575/article/132) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/b)
+[^c-f549d5b9382aad3064fb6f59f71a7b2f]: Textual amendment: [Art. 132](https://www.legislation.gov.uk/eur/2013/575/article/132) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/b)

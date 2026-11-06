@@ -48,7 +48,7 @@ And whereas it appears to the Department of Economic Development that these arra
 
 Now, therefore, the Department of Economic Development, in exercise of the powers conferred on it by Article 4 of the Employment and Training (Amendment) (Northern Ireland) Order 1988[^f00002]:
 
-## 1. Citation, commencement and interpretation[^key-dca208bb06c4506280015843cde55941]
+## 1. Citation, commencement and interpretation[^c-dca208bb06c4506280015843cde55941]
 
 (1) This Order may be cited as the New Deal Pilot for 25 Plus (Miscellaneous Provisions) Order (Northern Ireland) 1999 and shall come into operation on 18th July 1999.
 
@@ -62,7 +62,7 @@ Now, therefore, the Department of Economic Development, in exercise of the power
 - “the self-employment route” in relation to any participant in the New Deal arrangements means the system whereby that person receives assistance in pursuing self-employed earner’s employment whilst participating in the intensive activity period of the New Deal Pilots for 25 plus;
 - “training allowance” means a payment made directly by the Department to a participant in the New Deal arrangements in connection with his participation in one or more of the programmes provided in pursuance of those arrangements.
 
-## 2. Treatment of persons and payments for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and other specified statutory provisions[^key-8bf8ccb2f6d6bef62d13eb5186e11905]
+## 2. Treatment of persons and payments for the purposes of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, the Jobseekers (Northern Ireland) Order 1995 and other specified statutory provisions[^c-8bf8ccb2f6d6bef62d13eb5186e11905]
 
 (1) Paragraph (2) applies for the purposes of—
 
@@ -80,18 +80,18 @@ Assistant Secretary
 
 16th June 1999.
 
-## SCHEDULE — List of Subordinate Legislation[^key-cc186e6e74d82fbb8c5dc0104f2469dc]
+## SCHEDULE — List of Subordinate Legislation[^c-cc186e6e74d82fbb8c5dc0104f2469dc]
 
 Article 2
 
-[^key-cc186e6e74d82fbb8c5dc0104f2469dc]
+[^c-cc186e6e74d82fbb8c5dc0104f2469dc]
 
 - The Social Security (Credits) Regulations (Northern Ireland) 1975[^f00005].
 - The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00006].
 - The Income Support (General) Regulations (Northern Ireland) 1987[^f00007].
 - The Social Security (Claims and Payments) (Northern Ireland) Regulations 1987[^f00008].
 - The Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00009].
-- The Housing Benefit Regulations (Northern Ireland) 2006[^key-7d19c304ae77d9caae280d75299e1af9]
+- The Housing Benefit Regulations (Northern Ireland) 2006[^c-7d19c304ae77d9caae280d75299e1af9]
 
   The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
 - The Family Credit (General) Regulations (Northern Ireland) 1987[^f00011].
@@ -122,15 +122,15 @@ This Order does not impose any charge on business.
 
 [^f00002]: Footnote: S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)
 
-[^key-dca208bb06c4506280015843cde55941]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/278/article/1) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+[^c-dca208bb06c4506280015843cde55941]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/278/article/1) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
 
-[^key-8bf8ccb2f6d6bef62d13eb5186e11905]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/278/article/2) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+[^c-8bf8ccb2f6d6bef62d13eb5186e11905]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/278/article/2) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
 
 [^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00004]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-cc186e6e74d82fbb8c5dc0104f2469dc]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
+[^c-cc186e6e74d82fbb8c5dc0104f2469dc]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) in operation at 18.7.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/278/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113) as amended by [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), [S.R. 1998 No. 298](https://www.legislation.gov.uk/nisr/1998/298), [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150), [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
@@ -142,7 +142,7 @@ This Order does not impose any charge on business.
 
 [^f00009]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460) as amended by [S.R. 1998 No. 371](https://www.legislation.gov.uk/nisr/1998/371)
 
-[^key-7d19c304ae77d9caae280d75299e1af9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/6/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-7d19c304ae77d9caae280d75299e1af9]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/1999/278/schedule) substituted (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2006/407/schedule/2/paragraph/6/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00011]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463) as amended by [S.R. 1988 No. 131](https://www.legislation.gov.uk/nisr/1988/131), [S.R. 1988 No. 423](https://www.legislation.gov.uk/nisr/1988/423), [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
 

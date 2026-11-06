@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Discretionary Support Regulations (Northern Ireland) 2016[^key-3c05104fc930709aa463e4198bddcec4]
+## 117. Discretionary Support Regulations (Northern Ireland) 2016[^c-3c05104fc930709aa463e4198bddcec4]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ In the Discretionary Support Regulations (Northern Ireland) 2016[^f00182], in re
 
 ## Annotations
 
-[^key-3c05104fc930709aa463e4198bddcec4]: Commencement: Reg. 117 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3c05104fc930709aa463e4198bddcec4]: Commencement: Reg. 117 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00182]: Footnote: [S.R. (N.I.) 2016/270](https://www.legislation.gov.uk/nisr/2016/270).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Requirement to specify purposes for which information may be processed[^key-b3c27bc8216e36f0675960e669d7b377][^key-cdcbffa5c69a305fab163a3c2fba1ce0]
+## 29. Requirement to specify purposes for which information may be processed[^c-b3c27bc8216e36f0675960e669d7b377][^c-cdcbffa5c69a305fab163a3c2fba1ce0]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c27bc8216e36f0675960e669d7b377]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-b3c27bc8216e36f0675960e669d7b377]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-cdcbffa5c69a305fab163a3c2fba1ce0]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2023/4/section/29) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-cdcbffa5c69a305fab163a3c2fba1ce0]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2023/4/section/29) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

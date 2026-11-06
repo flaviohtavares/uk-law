@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Preparation of jury lists[^key-86effbc5156163baa9a1ede7a735c0af]
+## 78. Preparation of jury lists[^c-86effbc5156163baa9a1ede7a735c0af]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 4(2) of the Juries (Northern Ireland) Order 1996 (selection from regi
 
 ## Annotations
 
-[^key-86effbc5156163baa9a1ede7a735c0af]: Commencement: [S. 78](https://www.legislation.gov.uk/nia/2015/9/section/78) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/247/article/2/b)
+[^c-86effbc5156163baa9a1ede7a735c0af]: Commencement: [S. 78](https://www.legislation.gov.uk/nia/2015/9/section/78) in operation at 1.7.2016 by [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/247/article/2/b)

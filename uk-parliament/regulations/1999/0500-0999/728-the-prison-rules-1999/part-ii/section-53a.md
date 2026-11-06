@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53A. Determination of mode of inquiry[^key-3f55091edaf48426228a233552dfd5dc]
+## 53A. Determination of mode of inquiry[^c-3f55091edaf48426228a233552dfd5dc]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ it appears to the adjudicator that alternative action should be taken; the adjud
 
 ## Annotations
 
-[^key-3f55091edaf48426228a233552dfd5dc]: Textual amendment: [Rule 53A](https://www.legislation.gov.uk/uksi/1999/728/rule/53A) substituted (4.4.2023) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2023 (S.I. 2023/321)](https://www.legislation.gov.uk/uksi/2023/321), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/321/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/321/rule/2/2)
+[^c-3f55091edaf48426228a233552dfd5dc]: Textual amendment: [Rule 53A](https://www.legislation.gov.uk/uksi/1999/728/rule/53A) substituted (4.4.2023) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2023 (S.I. 2023/321)](https://www.legislation.gov.uk/uksi/2023/321), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/321/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/321/rule/2/2)

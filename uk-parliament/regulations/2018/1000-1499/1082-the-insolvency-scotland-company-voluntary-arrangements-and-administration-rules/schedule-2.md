@@ -95,7 +95,7 @@ who has delivered the first communication before the commencement date.
 
 Where, before the commencement date, an amount stated in a foreign currency on a statement of claim or evidence of debt (according to the nature of the debt claimed) is converted into sterling by the administrator under 1986 rule 4.17(2), the administrator and any successor to the administrator must continue to use that exchange rate for subsequent conversions of that currency into sterling for the purpose of distributing any assets of the insolvent estate.
 
-### 8. CVA moratoria[^key-e8931a1ff1f46f02bf42e1537ea12405]
+### 8. CVA moratoria[^c-e8931a1ff1f46f02bf42e1537ea12405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -122,6 +122,6 @@ The 1986 Rules insofar as they apply to insolvency proceedings under the Limited
 
 ## Annotations
 
-[^key-e8931a1ff1f46f02bf42e1537ea12405]: Textual amendment: Sch. 2 para. 8 omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
+[^c-e8931a1ff1f46f02bf42e1537ea12405]: Textual amendment: Sch. 2 para. 8 omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
 
 [^c23413921]: Marginal citation: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).

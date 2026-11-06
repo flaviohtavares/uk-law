@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 196. Service of court documents within the jurisdiction[^key-be950788c57d5fae4301be6cd4f509f9]
+## 196. Service of court documents within the jurisdiction[^c-be950788c57d5fae4301be6cd4f509f9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Except where different provision is made in the Regulations or these Rules, Orde
 
 ## Annotations
 
-[^key-be950788c57d5fae4301be6cd4f509f9]: Commencement: [Rule 196](https://www.legislation.gov.uk/nisr/2026/11/rule/196) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-be950788c57d5fae4301be6cd4f509f9]: Commencement: [Rule 196](https://www.legislation.gov.uk/nisr/2026/11/rule/196) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

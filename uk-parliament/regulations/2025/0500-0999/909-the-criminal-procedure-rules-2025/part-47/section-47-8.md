@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.8. Application to vary or discharge an order[^key-e361c2197245210ebab6602e63af4492]
+## 47.8. Application to vary or discharge an order[^c-e361c2197245210ebab6602e63af4492]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e361c2197245210ebab6602e63af4492]: Commencement: Rule 47.8 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e361c2197245210ebab6602e63af4492]: Commencement: Rule 47.8 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

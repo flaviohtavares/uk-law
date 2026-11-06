@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. UK subsidy control consultation: engagement with the devolved authorities on the Government response[^key-075cb3b985f74a39bbb7611b13c4a2f4]
+## 53. UK subsidy control consultation: engagement with the devolved authorities on the Government response[^c-075cb3b985f74a39bbb7611b13c4a2f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-075cb3b985f74a39bbb7611b13c4a2f4]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2020/27/section/53) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/j)
+[^c-075cb3b985f74a39bbb7611b13c4a2f4]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2020/27/section/53) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Reviewing code compliance: Secretary of State and Attorney General[^key-0f563f166146c49b72e945215a47dfd2]
+## 11. Reviewing code compliance: Secretary of State and Attorney General[^c-0f563f166146c49b72e945215a47dfd2]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f563f166146c49b72e945215a47dfd2]: Commencement: S. 11 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-0f563f166146c49b72e945215a47dfd2]: Commencement: S. 11 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

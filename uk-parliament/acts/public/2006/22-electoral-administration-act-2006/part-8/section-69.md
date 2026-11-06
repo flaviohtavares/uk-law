@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Encouraging electoral participation[^c18912571][^c19703241][^c20191431][^key-aef85a8dfd6a2f08d4bdd511af7fd2e6][^key-75e341ba2cbe063e384da955876dfb5c][^key-633155a1404df121641443288251eb88][^key-1b0e0e8f177dc27be2af7d0367a84f7a]
+## 69. Encouraging electoral participation[^c18912571][^c19703241][^c20191431][^c-aef85a8dfd6a2f08d4bdd511af7fd2e6][^c-75e341ba2cbe063e384da955876dfb5c][^c-633155a1404df121641443288251eb88][^c-1b0e0e8f177dc27be2af7d0367a84f7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 - (a) parliamentary elections;
 - (b) local government elections in England and Wales and Northern Ireland;
-- (c)[^key-65f10189a4fb84e1303c03aab7924317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-65f10189a4fb84e1303c03aab7924317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) elections to the Scottish Parliament;
 - (e) elections to the Northern Ireland Assembly;
 - (f) elections to the National Assembly for Wales.
@@ -58,12 +58,12 @@ summary: ''
 
 [^c20191431]: Modification: S. 69 applied (with modifications) (24.7.2008) by [The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008 (S.I. 2008/1848)](https://www.legislation.gov.uk/uksi/2008/1848), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2008/1848/regulation/1/2/3), [8](https://www.legislation.gov.uk/uksi/2008/1848/regulation/8), [Sch. 4 para. 1 Table 4](https://www.legislation.gov.uk/uksi/2008/1848/schedule/4/paragraph/1)
 
-[^key-aef85a8dfd6a2f08d4bdd511af7fd2e6]: Modification: S. 69 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 Table](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5)
+[^c-aef85a8dfd6a2f08d4bdd511af7fd2e6]: Modification: S. 69 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 Table](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5)
 
-[^key-75e341ba2cbe063e384da955876dfb5c]: Modification: S. 69 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1)
+[^c-75e341ba2cbe063e384da955876dfb5c]: Modification: S. 69 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1)
 
-[^key-633155a1404df121641443288251eb88]: Modification: S. 69 applied (with modifications) (E.W.S.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-633155a1404df121641443288251eb88]: Modification: S. 69 applied (with modifications) (E.W.S.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-1b0e0e8f177dc27be2af7d0367a84f7a]: Modification: S. 69 applied (with modifications) (E.W.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1)
+[^c-1b0e0e8f177dc27be2af7d0367a84f7a]: Modification: S. 69 applied (with modifications) (E.W.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1)
 
-[^key-65f10189a4fb84e1303c03aab7924317]: Textual amendment: [S. 69(9)(c)](https://www.legislation.gov.uk/ukpga/2006/22/section/69/9/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-65f10189a4fb84e1303c03aab7924317]: Textual amendment: [S. 69(9)(c)](https://www.legislation.gov.uk/ukpga/2006/22/section/69/9/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Terms implied into contracts[^key-fd390c02dfc9f5f98101d8e325f03b86]
+## 262. Terms implied into contracts[^c-fd390c02dfc9f5f98101d8e325f03b86]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ A trader’s compliance with the following duties is an implied term in every su
 
 ## Annotations
 
-[^key-fd390c02dfc9f5f98101d8e325f03b86]: Commencement: S. 262 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-fd390c02dfc9f5f98101d8e325f03b86]: Commencement: S. 262 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

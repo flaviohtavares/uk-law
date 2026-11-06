@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Financial provision[^key-3d81527960aa2f8242c4e578ed269d22]
+## 184. Financial provision[^c-3d81527960aa2f8242c4e578ed269d22]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-3d81527960aa2f8242c4e578ed269d22]: Commencement: S. 184 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)
+[^c-3d81527960aa2f8242c4e578ed269d22]: Commencement: S. 184 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Restriction on disclosure of information[^key-2a4e5338a45b85f7df10d147988999d9]
+## 175. Restriction on disclosure of information[^c-2a4e5338a45b85f7df10d147988999d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For subsection (3A) of section 174 of the Consumer Credit Act 1974 (disclosure o
 
 ## Annotations
 
-[^key-2a4e5338a45b85f7df10d147988999d9]: Commencement: Art. 175 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2a4e5338a45b85f7df10d147988999d9]: Commencement: Art. 175 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

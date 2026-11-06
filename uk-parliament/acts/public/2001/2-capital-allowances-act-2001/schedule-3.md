@@ -67,7 +67,7 @@ is to be read as including, in relation to times, circumstances or purposes in r
 
 (3) If this paragraph applies in the case of two or more persons in relation to the same thing or event, an election made under sub-paragraph (2) by any one of those persons is of no effect unless a corresponding election is made by the other or each of the others.
 
-(4) An election under sub-paragraph (2) must be made by notice given to an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8]—
+(4) An election under sub-paragraph (2) must be made by notice given to an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8]—
 
 - (a) for income tax purposes, within the normal time limit for amending a tax return for the tax year in which the chargeable period ends;
 - (b) for corporation tax purposes, no later than 2 years after the end of the chargeable period.
@@ -119,7 +119,7 @@ Sections 21 to 24 do not apply in relation to expenditure—
 
 #### First-year qualifying expenditure
 
-##### 14.[^key-01c99b228b24bf021730f879eadc1713]
+##### 14.[^c-01c99b228b24bf021730f879eadc1713]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,9 +143,9 @@ In section 70(1), paragraphs (c) and (d) do not apply if the lease was entered i
 
 Section 71 does not apply to expenditure incurred before 10th March 1992.
 
-#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b1a4af0281341f6cab684d3539cc55a2]
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b1a4af0281341f6cab684d3539cc55a2]
 
-##### 19.[^key-b1a4af0281341f6cab684d3539cc55a2]
+##### 19.[^c-b1a4af0281341f6cab684d3539cc55a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,27 +385,27 @@ Sections 221, 222 and 224 to 226 do not apply in relation to expenditure incurre
 
 #### Additional VAT liabilities and rebates
 
-##### 46.[^key-38fe395ea656e1f69619c696380f822e]
+##### 46.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 47.[^key-38fe395ea656e1f69619c696380f822e]
+##### 47.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 48.[^key-38fe395ea656e1f69619c696380f822e]
+##### 48.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 49.[^key-38fe395ea656e1f69619c696380f822e]
+##### 49.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 50.[^key-38fe395ea656e1f69619c696380f822e]
+##### 50.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 51.[^key-38fe395ea656e1f69619c696380f822e]
+##### 51.[^c-38fe395ea656e1f69619c696380f822e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -442,129 +442,129 @@ Part 2 of this Act does not apply to capital expenditure—
 
 #### Industrial buildings
 
-##### 56. Bridge undertakings[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 56. Bridge undertakings[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 57. Building used by more than one licensee[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 57. Building used by more than one licensee[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 58. Qualifying hotels[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 58. Qualifying hotels[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 59. Non-industrial part of building disregarded[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 59. Non-industrial part of building disregarded[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Qualifying expenditure
 
-##### 60. Purchase of used building from developer[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 60. Purchase of used building from developer[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 61. Qualifying enterprise zone expenditure[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 61. Qualifying enterprise zone expenditure[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Initial allowances
 
-##### 64. Building occupied by qualifying licensee[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 64. Building occupied by qualifying licensee[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 65. Grants affecting entitlement to initial allowances[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 65. Grants affecting entitlement to initial allowances[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Writing-down allowances
 
-##### 66. Basic rule for calculating amount of allowance[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 66. Basic rule for calculating amount of allowance[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 67. Calculation of amount after relevant event[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 67. Calculation of amount after relevant event[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Balancing adjustments
 
-##### 68. When balancing adjustments are made[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 68. When balancing adjustments are made[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 69. Net allowance given[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 69. Net allowance given[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**70.**[^key-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-588f774046fb8e5f0d07c8c4926f1481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 71. Balancing adjustment on realisation of capital value[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 71. Balancing adjustment on realisation of capital value[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Writing off qualifying expenditure
 
-##### 72. Writing off qualifying expenditure when building not an industrial building[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 72. Writing off qualifying expenditure when building not an industrial building[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 73. Crown or other person not within the charge to tax entitled to the relevant interest[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 73. Crown or other person not within the charge to tax entitled to the relevant interest[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Highway undertakings
 
-##### 74. Special provisions relating to highway concessions[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 74. Special provisions relating to highway concessions[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Additional VAT liabilities and rebates
 
-##### 75. Additional VAT liabilities and initial allowances: 1992-93 cases[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 75. Additional VAT liabilities and initial allowances: 1992-93 cases[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 76. Additional VAT liabilities and initial allowances: further case[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 76. Additional VAT liabilities and initial allowances: further case[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 77. 1992-93 qualifying expenditure[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 77. 1992-93 qualifying expenditure[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supplementary provisions
 
-##### 78. Arrangements having an artificial effect on pricing[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 78. Arrangements having an artificial effect on pricing[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### General
 
-##### 79. Expenditure on preparatory work on land where building used before 6th April 1956[^key-588f774046fb8e5f0d07c8c4926f1481]
+##### 79. Expenditure on preparatory work on land where building used before 6th April 1956[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 6 — Agricultural buildings allowances
 
-#### 80. Overall limit on balancing charge[^key-588f774046fb8e5f0d07c8c4926f1481]
+#### 80. Overall limit on balancing charge[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 81. Meaning of “freehold interest in land” for purposes of Part 4[^key-588f774046fb8e5f0d07c8c4926f1481]
+#### 81. Meaning of “freehold interest in land” for purposes of Part 4[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 82. Exclusion of expenditure incurred before 1st April 1986[^key-588f774046fb8e5f0d07c8c4926f1481]
+#### 82. Exclusion of expenditure incurred before 1st April 1986[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 83. The writing-down period[^key-588f774046fb8e5f0d07c8c4926f1481]
+#### 83. The writing-down period[^c-588f774046fb8e5f0d07c8c4926f1481]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -674,17 +674,17 @@ which is taken to be attributable to expenditure incurred, before the disposal t
 
 (4) An election—
 
-- (a) must be made by notice to the Commissioners for Her Majesty’s Revenue and Customs[^key-6994dadca0334e930ad3d2f231d1a179] given by the transferor, and
+- (a) must be made by notice to the Commissioners for Her Majesty’s Revenue and Customs[^c-6994dadca0334e930ad3d2f231d1a179] given by the transferor, and
 - (b) subject to sub-paragraph (5), does not have effect unless a copy of it is served on the transferee and the transferee consents to it.
 
-(5) If the tribunal is[^key-dd253d36b8c409c48f24f37bbc0b9411] satisfied—
+(5) If the tribunal is[^c-dd253d36b8c409c48f24f37bbc0b9411] satisfied—
 
 - (a) that the disposal was made under or in pursuance of an agreement entered into by the transferor and the transferee on the mutual understanding that a quantified (or quantifiable) part of the value of the interest disposed of was attributable to allowable exploration expenditure, and
 - (b) that the part quantified in accordance with that understanding and the amount specified in the election are the same,
 
-the tribunal[^key-0ec2980288814d723acbcf0c9e28d2ea] may dispense with the need for the transferee to consent to the election.
+the tribunal[^c-0ec2980288814d723acbcf0c9e28d2ea] may dispense with the need for the transferee to consent to the election.
 
-(6)[^key-4656750207977de6b31178f569803088] An application for the tribunal to determine the question is to be subject to the relevant provisions of Part 5 of the Taxes Management Act 1970 (see, in particular, section 48(2)(b) of that Act), and each of the persons concerned is entitled to be a party to the proceedings on the application.
+(6)[^c-4656750207977de6b31178f569803088] An application for the tribunal to determine the question is to be subject to the relevant provisions of Part 5 of the Taxes Management Act 1970 (see, in particular, section 48(2)(b) of that Act), and each of the persons concerned is entitled to be a party to the proceedings on the application.
 
 (7) Subject to sub-paragraph (8), an election may specify any amount, including a nil amount, as the amount to be treated as mentioned in sub-paragraph (1)(c).
 
@@ -915,7 +915,7 @@ The reference in section 488(1)(d) to allowances previously made in respect of t
 
 (1) This paragraph applies where it is provided under Part 9 that writing-down allowances are to be made in respect of any expenditure during a writing-down period of any specified length.
 
-(2) If allowances were made under paragraph 27(2) of Schedule 14 to FA[^key-3bd0122bd720bd321e5aa0fff530ce92] 1965—
+(2) If allowances were made under paragraph 27(2) of Schedule 14 to FA[^c-3bd0122bd720bd321e5aa0fff530ce92] 1965—
 
 - (a) for income tax purposes, for either of the tax years 1964-65 and 1965-66, and
 - (b) for accounting periods of a company falling wholly or partly within either of those years,
@@ -945,7 +945,7 @@ In section 536(5), as it applies for the purposes of section 537(2), paragraphs 
 
 Section 538(2)(b)(ii) applies in relation to contributions made before 6th April 1990 with the omission of “or to allocate the expenditure to a pool under Part 2”.
 
-**110.**[^key-daff4a44136d07ca45311e087b8989d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-daff4a44136d07ca45311e087b8989d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 12 — Supplemental
 
@@ -984,7 +984,7 @@ in relation to transfers sanctioned or authorised before 1st July 1994.
 
 (2) Subsection (4) of that section does not apply in relation to rebates made or transactions occurring before 29th April 1996.
 
-**114.**[^key-275d1365e7c0c1a67f4d9879234c5e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**114.**[^c-275d1365e7c0c1a67f4d9879234c5e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **115.** The repeals made by CAA 1990 do not have effect in relation to capital expenditure—
 
@@ -1010,9 +1010,9 @@ in relation to transfers sanctioned or authorised before 1st July 1994.
   > is to be regarded for the purposes of the Tax Acts as expenditure of a revenue nature unless an election under section 40D below has effect with respect to it.
 
   ;
-- (b) in section 40A(2), the substitution of “ the production or acquisition of a film, tape or disc ” for “the original master[^key-def9a77e10449f55a895b44c2ac8f06a] version of a film” and of “ of the film, tape or disc ” for “of the original master version”;
-- (c) in section 40A(3), the substitution of “ a film,[^key-b3e2ab3cc79c4de02e3524b0692b3092] tape or disc ” for “the original master[^key-a29bf453de787e7afcb415d2bd44597c] version of a film” and of “ the film, tape or disc ” for “the original master[^key-d8ac303545c7cd65722640ae4fcc2db6] version” (in both places);
-- (d) the insertion after section 40A(4)[^key-901f7a62d6fb64a0ad9dbb9e05efe830] of—
+- (b) in section 40A(2), the substitution of “ the production or acquisition of a film, tape or disc ” for “the original master[^c-def9a77e10449f55a895b44c2ac8f06a] version of a film” and of “ of the film, tape or disc ” for “of the original master version”;
+- (c) in section 40A(3), the substitution of “ a film,[^c-b3e2ab3cc79c4de02e3524b0692b3092] tape or disc ” for “the original master[^c-a29bf453de787e7afcb415d2bd44597c] version of a film” and of “ the film, tape or disc ” for “the original master[^c-d8ac303545c7cd65722640ae4fcc2db6] version” (in both places);
+- (d) the insertion after section 40A(4)[^c-901f7a62d6fb64a0ad9dbb9e05efe830] of—
 
   > (5) In this section and sections 40B to 40D below—
   >
@@ -1023,16 +1023,16 @@ in relation to transfers sanctioned or authorised before 1st July 1994.
   > and any reference to the acquisition of a film, tape or disc includes a a reference to the acquisition of any description of rights in a film, tape or disc.
 
   ;
-- (e) in section 40B(1), the substitution of “ films, tapes or discs ” for “original master[^key-6144fb8ac33b959e7891b90674d91786] versions of films” and of “ a film,[^key-4be31d49bb992e25bad0e164334800f0] tape or disc ” for “the original master[^key-6c09688a6b11223dbeff9281b12efbf5] version of a film”;
-- (f) in section 40B(4), the substitution of “ film, tape or disc ” for “original master[^key-214ea96ad9bdc4aec37bd4738642ae19] version of the film” and of “ film, tape or disc ” for “original master version”;
+- (e) in section 40B(1), the substitution of “ films, tapes or discs ” for “original master[^c-6144fb8ac33b959e7891b90674d91786] versions of films” and of “ a film,[^c-4be31d49bb992e25bad0e164334800f0] tape or disc ” for “the original master[^c-6c09688a6b11223dbeff9281b12efbf5] version of a film”;
+- (f) in section 40B(4), the substitution of “ film, tape or disc ” for “original master[^c-214ea96ad9bdc4aec37bd4738642ae19] version of the film” and of “ film, tape or disc ” for “original master version”;
 - (g) in section 40B(5), the substitution of “ film, tape or disc ” for “original master version of the film”;
 - (h) in section 40C(1), the substitution of “ film, tape or disc ” for “original master version of the film”;
 - (i) in section 40C(2), the substitution of “ film, tape or disc ” for “original master version of the film”;
-- (j) in section 40D(2), the substitution of “ films, tapes or discs ” for “original master versions of films”, of a “ film, tape or disc ” for “the original master version of a film” and of “ film, tape or disc ” for “original master version” (in both places);”[^key-a8a3714161128400d7a6efd62e3c7f9a]
-- (k) in section 40D(3), the substitution of “ film, tape or disc ” for “original master[^key-64a0cba4ad62d2013aaadfe14a89bffa] version”;
+- (j) in section 40D(2), the substitution of “ films, tapes or discs ” for “original master versions of films”, of a “ film, tape or disc ” for “the original master version of a film” and of “ film, tape or disc ” for “original master version” (in both places);”[^c-a8a3714161128400d7a6efd62e3c7f9a]
+- (k) in section 40D(3), the substitution of “ film, tape or disc ” for “original master[^c-64a0cba4ad62d2013aaadfe14a89bffa] version”;
 - (l) in section 40D(4), the substitution of “ film, tape or disc ” for “original master version of the film” (in both places);
 - (m) in section 40D(6), the substitution of “ a film, tape or disc ” for “the original master version of a film” and of “ of the film, tape or disc ” for “of the original master version”; and
-- (n) in section 40D(7), the substitution of “a film,[^key-b2b1b5ecb2c131c646b540f7c01a8ab4] tape or disc ” for “the original master[^key-a6914ed606697bc23ee9fd6298c46e46] version of a film”.
+- (n) in section 40D(7), the substitution of “a film,[^c-b2b1b5ecb2c131c646b540f7c01a8ab4] tape or disc ” for “the original master[^c-a6914ed606697bc23ee9fd6298c46e46] version of a film”.
 
 (3) An election under sub-paragraph (1)(a) is irrevocable.
 
@@ -1055,54 +1055,54 @@ if the film, tape or disc of the film was completed before 10th March 1992.
 
 ## Annotations
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-01c99b228b24bf021730f879eadc1713]: Textual amendment: Sch. 3 para. 14 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(5)(f)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/5/f) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-01c99b228b24bf021730f879eadc1713]: Textual amendment: Sch. 3 para. 14 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(5)(f)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/5/f) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
 
-[^key-b1a4af0281341f6cab684d3539cc55a2]: Textual amendment: Sch. 3 para. 19 and cross-heading omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/24) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-b1a4af0281341f6cab684d3539cc55a2]: Textual amendment: Sch. 3 para. 19 and cross-heading omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/24) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
 
 [^M_P_b41ecdd1-fd43-4f93-b759-30488da0df32]: Subordinate legislation: Sch. 3 para. 29: 28.11.2004 appointed under [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [s. 71](https://www.legislation.gov.uk/asp/2000/5/section/71) by [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-38fe395ea656e1f69619c696380f822e]: Textual amendment: Sch. 3 paras. 46-51 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/4) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-38fe395ea656e1f69619c696380f822e]: Textual amendment: Sch. 3 paras. 46-51 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/4) (with [s. 76(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/7)[(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
 
-[^key-588f774046fb8e5f0d07c8c4926f1481]: Textual amendment: Sch. 3 paras. 56-83 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 20(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/20/a)
+[^c-588f774046fb8e5f0d07c8c4926f1481]: Textual amendment: Sch. 3 paras. 56-83 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 20(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/20/a)
 
-[^key-6994dadca0334e930ad3d2f231d1a179]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-6994dadca0334e930ad3d2f231d1a179]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-dd253d36b8c409c48f24f37bbc0b9411]: Textual amendment: Words in Sch. 3 para. 91(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/2/a)
+[^c-dd253d36b8c409c48f24f37bbc0b9411]: Textual amendment: Words in Sch. 3 para. 91(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/2/a)
 
-[^key-0ec2980288814d723acbcf0c9e28d2ea]: Textual amendment: Words in Sch. 3 para. 91(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/2/b)
+[^c-0ec2980288814d723acbcf0c9e28d2ea]: Textual amendment: Words in Sch. 3 para. 91(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/2/b)
 
-[^key-4656750207977de6b31178f569803088]: Textual amendment: Sch. 3 para. 91(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/3)
+[^c-4656750207977de6b31178f569803088]: Textual amendment: Sch. 3 para. 91(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 301(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/301/3)
 
-[^key-3bd0122bd720bd321e5aa0fff530ce92]: Textual amendment: Word in [Sch. 3 para. 105(2)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/3/paragraph/105/2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/a)
+[^c-3bd0122bd720bd321e5aa0fff530ce92]: Textual amendment: Word in [Sch. 3 para. 105(2)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/3/paragraph/105/2) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/a)
 
-[^key-daff4a44136d07ca45311e087b8989d8]: Textual amendment: Sch. 3 para. 110 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 20(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/20/b)
+[^c-daff4a44136d07ca45311e087b8989d8]: Textual amendment: Sch. 3 para. 110 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 20(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/20/b)
 
-[^key-275d1365e7c0c1a67f4d9879234c5e01]: Textual amendment: Sch. 3 para. 114 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-275d1365e7c0c1a67f4d9879234c5e01]: Textual amendment: Sch. 3 para. 114 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-def9a77e10449f55a895b44c2ac8f06a]: Textual amendment: Words in Sch. 3 para. 116(2)(b) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(2)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/2), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-def9a77e10449f55a895b44c2ac8f06a]: Textual amendment: Words in Sch. 3 para. 116(2)(b) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(2)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/2), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-b3e2ab3cc79c4de02e3524b0692b3092]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-b3e2ab3cc79c4de02e3524b0692b3092]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-a29bf453de787e7afcb415d2bd44597c]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-a29bf453de787e7afcb415d2bd44597c]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-d8ac303545c7cd65722640ae4fcc2db6]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/c), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-d8ac303545c7cd65722640ae4fcc2db6]: Textual amendment: Words in Sch. 3 para. 116(2)(c) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/3/c), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-901f7a62d6fb64a0ad9dbb9e05efe830]: Textual amendment: Words in Sch. 3 para. 116(2)(d) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/4), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-901f7a62d6fb64a0ad9dbb9e05efe830]: Textual amendment: Words in Sch. 3 para. 116(2)(d) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/4), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-6144fb8ac33b959e7891b90674d91786]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-6144fb8ac33b959e7891b90674d91786]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-4be31d49bb992e25bad0e164334800f0]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-4be31d49bb992e25bad0e164334800f0]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-6c09688a6b11223dbeff9281b12efbf5]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(c)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/c), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-6c09688a6b11223dbeff9281b12efbf5]: Textual amendment: Words in Sch. 3 para. 116(2)(e) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(5)(c)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/5/c), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-214ea96ad9bdc4aec37bd4738642ae19]: Textual amendment: Words in Sch. 3 para. 116(2)(f)-(i) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/6), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-214ea96ad9bdc4aec37bd4738642ae19]: Textual amendment: Words in Sch. 3 para. 116(2)(f)-(i) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/6), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-a8a3714161128400d7a6efd62e3c7f9a]: Textual amendment: Words in Sch. 3 para. 116(2)(j) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(7)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/7), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-a8a3714161128400d7a6efd62e3c7f9a]: Textual amendment: Words in Sch. 3 para. 116(2)(j) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(7)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/7), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-64a0cba4ad62d2013aaadfe14a89bffa]: Textual amendment: Words in Sch. 3 para. 116(2)(k)-(m) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(8)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/8), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-64a0cba4ad62d2013aaadfe14a89bffa]: Textual amendment: Words in Sch. 3 para. 116(2)(k)-(m) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(8)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/8), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-b2b1b5ecb2c131c646b540f7c01a8ab4]: Textual amendment: Words in Sch. 3 para. 116(2)(n) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(9)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/9/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-b2b1b5ecb2c131c646b540f7c01a8ab4]: Textual amendment: Words in Sch. 3 para. 116(2)(n) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(9)(a)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/9/a), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
 
-[^key-a6914ed606697bc23ee9fd6298c46e46]: Textual amendment: Words in Sch. 3 para. 116(2)(n) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(9)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/9/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)
+[^c-a6914ed606697bc23ee9fd6298c46e46]: Textual amendment: Words in Sch. 3 para. 116(2)(n) substituted (2.12.2004 retrospective) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 3 paras. 27(9)(b)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/27/9/b), [31(3)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/3/paragraph/31/3)

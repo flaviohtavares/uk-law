@@ -29,7 +29,7 @@ summary: ''
 
 (2) Subsection (3) applies where a football banning order made under section 51 is quashed on appeal.
 
-(3) Where the court hearing the appeal[^key-83179cf265f70c730da31afc07721708] does not specify, as a reason for quashing the order, that the court which made the order erred in holding that the offence in respect of which the order was made was one to which section 51(4) applied, the court hearing the appeal[^key-ec93021bb102b8fd48db7c511064e02e] may, in addition to any other order which it makes, make a declaration that the offence was one to which that section applied.
+(3) Where the court hearing the appeal[^c-83179cf265f70c730da31afc07721708] does not specify, as a reason for quashing the order, that the court which made the order erred in holding that the offence in respect of which the order was made was one to which section 51(4) applied, the court hearing the appeal[^c-ec93021bb102b8fd48db7c511064e02e] may, in addition to any other order which it makes, make a declaration that the offence was one to which that section applied.
 
 (4) The following decisions may be appealed to the sheriff principal—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83179cf265f70c730da31afc07721708]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/asp/2006/10/section/60/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-83179cf265f70c730da31afc07721708]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/asp/2006/10/section/60/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-ec93021bb102b8fd48db7c511064e02e]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/asp/2006/10/section/60/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-ec93021bb102b8fd48db7c511064e02e]: Textual amendment: Words in [s. 60(3)](https://www.legislation.gov.uk/asp/2006/10/section/60/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Applications for biocidal product authorisations submitted for the purposes of Directive 98/8/EC for which the evaluation had[^key-504f6f052a4c34580ea23fc2727f0e8d] not been completed by 1 September 2013 shall be evaluated by the competent authority[^key-c6805544fa30477ae99b3905134f9395] in accordance with that Directive.
+Applications for biocidal product authorisations submitted for the purposes of Directive 98/8/EC for which the evaluation had[^c-504f6f052a4c34580ea23fc2727f0e8d] not been completed by 1 September 2013 shall be evaluated by the competent authority[^c-c6805544fa30477ae99b3905134f9395] in accordance with that Directive.
 
 Notwithstanding the first paragraph, the following shall apply:
 
@@ -31,6 +31,6 @@ Where the evaluation identifies concerns arising from the application of provisi
 
 ## Annotations
 
-[^key-504f6f052a4c34580ea23fc2727f0e8d]: Textual amendment: Word in [Art. 91](https://www.legislation.gov.uk/eur/2012/528/article/91) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 132(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/132/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-504f6f052a4c34580ea23fc2727f0e8d]: Textual amendment: Word in [Art. 91](https://www.legislation.gov.uk/eur/2012/528/article/91) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 132(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/132/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6805544fa30477ae99b3905134f9395]: Textual amendment: Word in [Art. 91](https://www.legislation.gov.uk/eur/2012/528/article/91) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 132(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/132/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6805544fa30477ae99b3905134f9395]: Textual amendment: Word in [Art. 91](https://www.legislation.gov.uk/eur/2012/528/article/91) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 132(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/132/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

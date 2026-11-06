@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Applications for variation or discharge of orders under the Crime and Disorder Act 1998[^key-d4c4a3be07d277465dd63bbf82d8c29b]
+## 114. Applications for variation or discharge of orders under the Crime and Disorder Act 1998[^c-d4c4a3be07d277465dd63bbf82d8c29b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c4a3be07d277465dd63bbf82d8c29b]: Textual amendment: [Rule 114](https://www.legislation.gov.uk/uksi/1981/552/rule/114) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [21](https://www.legislation.gov.uk/uksi/2014/879/article/21)
+[^c-d4c4a3be07d277465dd63bbf82d8c29b]: Textual amendment: [Rule 114](https://www.legislation.gov.uk/uksi/1981/552/rule/114) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [21](https://www.legislation.gov.uk/uksi/2014/879/article/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Insolvency regulations[^M_I_ae26b57a-1ff6-4a89-8957-c12e5327834c][^key-ac7ae43be69e8797f2b28d1b35cadfcc][^key-eb2d1b33f40f96c0c064a801606d6424][^key-8a1616364af33e98903640532299c1fe]
+## 233. Insolvency regulations[^M_I_ae26b57a-1ff6-4a89-8957-c12e5327834c][^c-ac7ae43be69e8797f2b28d1b35cadfcc][^c-eb2d1b33f40f96c0c064a801606d6424][^c-8a1616364af33e98903640532299c1fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,8 +49,8 @@ summary: ''
 
 [^M_I_ae26b57a-1ff6-4a89-8957-c12e5327834c]: Commencement: S. 233 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 6
 
-[^key-ac7ae43be69e8797f2b28d1b35cadfcc]: Commencement: S. 233 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/6)
+[^c-ac7ae43be69e8797f2b28d1b35cadfcc]: Commencement: S. 233 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/6)
 
-[^key-eb2d1b33f40f96c0c064a801606d6424]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2017/752, reg. 23A, Sch. 3A paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7))
+[^c-eb2d1b33f40f96c0c064a801606d6424]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2017/752, reg. 23A, Sch. 3A paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6), [7](https://www.legislation.gov.uk/uksi/2020/1275/regulation/7))
 
-[^key-8a1616364af33e98903640532299c1fe]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2011/99, reg. 24A, Sch. 2ZA paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4))
+[^c-8a1616364af33e98903640532299c1fe]: Modification: Ss. 233-236 applied (with modifications) by S.I. 2011/99, reg. 24A, Sch. 2ZA paras. 2-5 (as inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4))

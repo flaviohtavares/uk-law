@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Biodiversity net gain: pre-development biodiversity value and habitat enhancement[^key-6923cc2a3f10545fbea7ad4788ae2b0c][^key-a5f2b65507f0bc00e59e439937d0e33d]
+## 135. Biodiversity net gain: pre-development biodiversity value and habitat enhancement[^c-6923cc2a3f10545fbea7ad4788ae2b0c][^c-a5f2b65507f0bc00e59e439937d0e33d]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ In Schedule 7A to the TCPA 1990 (biodiversity gain in England)—
 
 ## Annotations
 
-[^key-6923cc2a3f10545fbea7ad4788ae2b0c]: Commencement: S. 135 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-6923cc2a3f10545fbea7ad4788ae2b0c]: Commencement: S. 135 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-a5f2b65507f0bc00e59e439937d0e33d]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/55/section/135) in force at 12.2.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)
+[^c-a5f2b65507f0bc00e59e439937d0e33d]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/55/section/135) in force at 12.2.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 3](https://www.legislation.gov.uk/uksi/2024/92/regulation/3)

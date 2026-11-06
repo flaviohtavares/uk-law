@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Extraction of oil and gas and exploration for, or extraction of, coal or other solid fuels[^key-83af28d7a39a2932cebb18dc1048a975]
+## 14. Extraction of oil and gas and exploration for, or extraction of, coal or other solid fuels[^c-83af28d7a39a2932cebb18dc1048a975]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ These Regulations apply to activities relating to the exploitation of a geograph
 
 ## Annotations
 
-[^key-83af28d7a39a2932cebb18dc1048a975]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/49/regulation/14) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-83af28d7a39a2932cebb18dc1048a975]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/49/regulation/14) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

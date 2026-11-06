@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Annual report by the Assembly[^key-2dc134f95960a4b2bcb6291502580117]
+## 6. Annual report by the Assembly[^c-2dc134f95960a4b2bcb6291502580117]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 65 of the GLA Act 1999 insert—
 
 ## Annotations
 
-[^key-2dc134f95960a4b2bcb6291502580117]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-2dc134f95960a4b2bcb6291502580117]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

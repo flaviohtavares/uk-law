@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Insolvency: consumers liable to penalty or interest[^key-bcaf085c70d14339b0c190b6207a5a6e]
+## 58. Insolvency: consumers liable to penalty or interest[^c-bcaf085c70d14339b0c190b6207a5a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcaf085c70d14339b0c190b6207a5a6e]: Commencement: Reg. 58 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-bcaf085c70d14339b0c190b6207a5a6e]: Commencement: Reg. 58 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

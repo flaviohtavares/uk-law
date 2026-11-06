@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Modification of forms[^key-88bf6680ecee199c9ac287f035b4d8e2]
+## 15. Modification of forms[^c-88bf6680ecee199c9ac287f035b4d8e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-88bf6680ecee199c9ac287f035b4d8e2]: Commencement: Reg. 15 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-88bf6680ecee199c9ac287f035b4d8e2]: Commencement: Reg. 15 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00016]: Footnote: [1993 c.38](https://www.legislation.gov.uk/ukpga/1993/38).
 

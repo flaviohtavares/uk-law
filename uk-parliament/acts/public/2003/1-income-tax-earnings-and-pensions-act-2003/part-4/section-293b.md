@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293B. UK travel expenses of other elected representatives[^key-c5e3d9bcd2e6f44aa774317cfd221255]
+## 293B. UK travel expenses of other elected representatives[^c-c5e3d9bcd2e6f44aa774317cfd221255]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5e3d9bcd2e6f44aa774317cfd221255]: Textual amendment: S. 293B inserted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/10/1)
+[^c-c5e3d9bcd2e6f44aa774317cfd221255]: Textual amendment: S. 293B inserted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/10/1)

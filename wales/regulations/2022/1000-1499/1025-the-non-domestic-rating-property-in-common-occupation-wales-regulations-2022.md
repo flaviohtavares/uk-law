@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the power conferred on the Secretary of State by section 64(3) of the Local Government Finance Act 1988[^f00001], and now vested in them[^f00002].
 
-## 1. Title, commencement and interpretation[^key-455b2aedddfd7ca6bb14d58a0e1f8ded]
+## 1. Title, commencement and interpretation[^c-455b2aedddfd7ca6bb14d58a0e1f8ded]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Property in Common Occupation) (Wales) Regulations 2022.
 
@@ -55,7 +55,7 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 - “**hereditament**” has the meaning given in section 64 of the Local Government Finance Act 1988.
 
-## 2. Valuation of occupied hereditaments[^key-3c6cb41302aab5e882a192b79b25cc57]
+## 2. Valuation of occupied hereditaments[^c-3c6cb41302aab5e882a192b79b25cc57]
 
 Where two or more hereditaments, whether or not in the same building are occupied by the same person, and—
 
@@ -64,7 +64,7 @@ Where two or more hereditaments, whether or not in the same building are occupie
 
 the hereditaments must be treated as one hereditament.
 
-## 3. Valuation of unoccupied hereditaments[^key-a4c1c7bd409b884ff185f9a3ff7c64e3]
+## 3. Valuation of unoccupied hereditaments[^c-a4c1c7bd409b884ff185f9a3ff7c64e3]
 
 Where two or more unoccupied hereditaments, whether or not in the same building—
 
@@ -75,7 +75,7 @@ Where two or more unoccupied hereditaments, whether or not in the same building�
 
 the hereditaments must be treated as one hereditament.
 
-## 4. Contiguity condition[^key-22f816bd54144a3335838283c3faeeab]
+## 4. Contiguity condition[^c-22f816bd54144a3335838283c3faeeab]
 
 The hereditaments meet the contiguity condition if—
 
@@ -84,7 +84,7 @@ The hereditaments meet the contiguity condition if—
   - (i) one or more of the other hereditaments is contiguous with one or more of the hereditaments falling within paragraph (a), and
   - (ii) each of the remaining hereditaments (if any) is contiguous with at least one hereditament that falls within sub-paragraph (i) or this sub-paragraph.
 
-## 5.[^key-0dba1c19774ebefe26fb527b826796c1]
+## 5.[^c-0dba1c19774ebefe26fb527b826796c1]
 
 In regulation 4 two hereditaments are contiguous if—
 
@@ -113,12 +113,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The function of the Secretary of State, in so far as it was exercisable in relation to Wales, was transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions)) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and was subsequently transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-455b2aedddfd7ca6bb14d58a0e1f8ded]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
+[^c-455b2aedddfd7ca6bb14d58a0e1f8ded]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
 
-[^key-3c6cb41302aab5e882a192b79b25cc57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1025/regulation/2) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
+[^c-3c6cb41302aab5e882a192b79b25cc57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1025/regulation/2) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
 
-[^key-a4c1c7bd409b884ff185f9a3ff7c64e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1025/regulation/3) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
+[^c-a4c1c7bd409b884ff185f9a3ff7c64e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1025/regulation/3) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
 
-[^key-22f816bd54144a3335838283c3faeeab]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/1025/regulation/4) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
+[^c-22f816bd54144a3335838283c3faeeab]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/1025/regulation/4) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
 
-[^key-0dba1c19774ebefe26fb527b826796c1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/1025/regulation/5) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)
+[^c-0dba1c19774ebefe26fb527b826796c1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/1025/regulation/5) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1025/regulation/1/2)

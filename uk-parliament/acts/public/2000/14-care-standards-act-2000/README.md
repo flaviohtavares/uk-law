@@ -61,7 +61,7 @@ An Act to establish a National Care Standards Commission; to make provision for 
 - [Section 9 — Co-operative working.](part-i/section-9.md)
 - [Section 10 — Inquiries.](part-i/section-10.md)
 
-### Part II — Establishments and agencies[^c21150261][^c21150271][^c21150291][^c21150311][^c21150351][^c21150371][^key-d77bd552f5be121d7908693a9cc5a175][^key-730b814978f2cb493d602d5affd8b235]
+### Part II — Establishments and agencies[^c21150261][^c21150271][^c21150291][^c21150311][^c21150351][^c21150371][^c-d77bd552f5be121d7908693a9cc5a175][^c-730b814978f2cb493d602d5affd8b235]
 
 *Extent: E+W*
 
@@ -111,17 +111,17 @@ An Act to establish a National Care Standards Commission; to make provision for 
 - [Section 29 — Proceedings for offences.](part-ii/section-29.md)
 - [Section 30 — Offences by bodies corporate.](part-ii/section-30.md)
 
-#### Penalty notices (Wales)[^c22718281][^key-3e64480f80305b1d8cacc5e7e4add8f4]
+#### Penalty notices (Wales)[^c22718281][^c-3e64480f80305b1d8cacc5e7e4add8f4]
 
 - [Section 30ZA — Penalty notices](part-ii/section-30za.md)
 - [Section 30ZB — Penalty notices: supplementary provision](part-ii/section-30zb.md)
 
-#### Power of CIECSS to impose monetary penalties[^key-30e12a78d13c507ac5be6869df726679]
+#### Power of CIECSS to impose monetary penalties[^c-30e12a78d13c507ac5be6869df726679]
 
 - [Section 30ZC — Power of CIECSS to impose monetary penalties](part-ii/section-30zc.md)
 - [Section 30ZD — CIECSS monetary penalties: publication of information](part-ii/section-30zd.md)
 
-#### Financial regulation (England)[^key-5ee6dfbb146e3790f251f96e7c27871a]
+#### Financial regulation (England)[^c-5ee6dfbb146e3790f251f96e7c27871a]
 
 - [Section 30ZE — Persons who are subject to financial oversight](part-ii/section-30ze.md)
 - [Section 30ZF — Financial oversight period](part-ii/section-30zf.md)
@@ -133,11 +133,11 @@ An Act to establish a National Care Standards Commission; to make provision for 
 - [Section 30ZL — Power to limit profits of relevant providers: supplementary provision](part-ii/section-30zl.md)
 - [Section 30ZM — Power of Secretary of State to impose monetary penalties](part-ii/section-30zm.md)
 
-#### Monetary penalties: procedure etc[^key-6564b5453e69c1bebdb0a80f376efb92]
+#### Monetary penalties: procedure etc[^c-6564b5453e69c1bebdb0a80f376efb92]
 
 - [Section 30ZN — Monetary penalties: procedure etc](part-ii/section-30zn.md)
 
-#### Information sharing[^key-ad323eefc768004d7ad9f9335cab9a94]
+#### Information sharing[^c-ad323eefc768004d7ad9f9335cab9a94]
 
 - [Section 30ZO — Information sharing](part-ii/section-30zo.md)
 
@@ -379,20 +379,20 @@ SCHEDULES
 
 [^c21150371]: Modification: Pt. 2: functions transferred (8.11.2006 for certain purposes and 1.4.2007 otherwise) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 148(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/148/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5](https://www.legislation.gov.uk/uksi/2007/935/article/5)
 
-[^key-d77bd552f5be121d7908693a9cc5a175]: Modification: Pt. 2 applied (with modifications) (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [39](https://www.legislation.gov.uk/wsi/2017/202/regulation/39), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/202/schedule/4)
+[^c-d77bd552f5be121d7908693a9cc5a175]: Modification: Pt. 2 applied (with modifications) (1.4.2017) by [The Private Dentistry (Wales) Regulations 2017 (S.I. 2017/202)](https://www.legislation.gov.uk/wsi/2017/202), [regs. 1](https://www.legislation.gov.uk/wsi/2017/202/regulation/1), [39](https://www.legislation.gov.uk/wsi/2017/202/regulation/39), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/202/schedule/4)
 
-[^key-730b814978f2cb493d602d5affd8b235]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/14/part/2) applied in part (with modifications) (E.) (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [43(1)](https://www.legislation.gov.uk/uksi/2023/416/regulation/43/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2023/416/schedule/4) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-730b814978f2cb493d602d5affd8b235]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/14/part/2) applied in part (with modifications) (E.) (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [43(1)](https://www.legislation.gov.uk/uksi/2023/416/regulation/43/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2023/416/schedule/4) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^c22718281]: Textual amendment: Ss. 30ZA, 30ZB and preceding cross-heading inserted (21.7.2008 for certain purposes and 1.4.2009 otherwise) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [170(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/1/b/3), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/25); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35)
 
-[^key-3e64480f80305b1d8cacc5e7e4add8f4]: Textual amendment: Word in s. 30ZA cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/5), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)
+[^c-3e64480f80305b1d8cacc5e7e4add8f4]: Textual amendment: Word in s. 30ZA cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/5), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)
 
-[^key-30e12a78d13c507ac5be6869df726679]: Textual amendment: Ss. 30ZC, 30ZD and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 but only for the insertion of ss. 30ZC(2)-(6), 30ZD) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)
+[^c-30e12a78d13c507ac5be6869df726679]: Textual amendment: Ss. 30ZC, 30ZD and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 but only for the insertion of ss. 30ZC(2)-(6), 30ZD) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)
 
-[^key-5ee6dfbb146e3790f251f96e7c27871a]: Textual amendment: Ss. 30ZE-30ZJ and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/16/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)
+[^c-5ee6dfbb146e3790f251f96e7c27871a]: Textual amendment: Ss. 30ZE-30ZJ and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/16/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)
 
-[^key-6564b5453e69c1bebdb0a80f376efb92]: Textual amendment: S. 30ZN and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)
+[^c-6564b5453e69c1bebdb0a80f376efb92]: Textual amendment: S. 30ZN and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)
 
-[^key-ad323eefc768004d7ad9f9335cab9a94]: Textual amendment: S. 30ZO and cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)
+[^c-ad323eefc768004d7ad9f9335cab9a94]: Textual amendment: S. 30ZO and cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)
 
 [^c21150391]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2000/14/part/3): functions transferred (20.11.2003 for certain purposes and 1.4.2004 otherwise) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), ss. {102(4)}, 199; [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 5(2)](https://www.legislation.gov.uk/uksi/2004/759/article/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Amendment of Commission Implementing Regulation (EU) 2016/759 drawing up lists of third countries, parts of third countries and territories from which Member States are to authorise the introduction into the Union of certain products of animal origin intended for human consumption, laying down certificate requirements, amending Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) and repealing Decision [2003/812/EC](https://www.legislation.gov.uk/eud/2003/812)[^key-8375ef99bbd3ff6842401a88d299262b]
+## 104. Amendment of Commission Implementing Regulation (EU) 2016/759 drawing up lists of third countries, parts of third countries and territories from which Member States are to authorise the introduction into the Union of certain products of animal origin intended for human consumption, laying down certificate requirements, amending Regulation [(EC) No. 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) and repealing Decision [2003/812/EC](https://www.legislation.gov.uk/eud/2003/812)[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)
+[^c-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)

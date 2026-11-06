@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Savings as to Scottish parliamentary elections[^key-d5f40fae16d60bea4b14b6c03a0ac893]
+## 81. Savings as to Scottish parliamentary elections[^c-d5f40fae16d60bea4b14b6c03a0ac893]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ but this paragraph shall not be construed as making illegal any act which would 
 
 ## Annotations
 
-[^key-d5f40fae16d60bea4b14b6c03a0ac893]: Commencement: Art. 81 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d5f40fae16d60bea4b14b6c03a0ac893]: Commencement: Art. 81 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Requirements which apply to green deal assessors[^key-35e307a7f9d0a189dc13a6f049566cb7]
+## 22. Requirements which apply to green deal assessors[^c-35e307a7f9d0a189dc13a6f049566cb7]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A green deal assessor must—
 
 ## Annotations
 
-[^key-35e307a7f9d0a189dc13a6f049566cb7]: Commencement: Reg. 22 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-35e307a7f9d0a189dc13a6f049566cb7]: Commencement: Reg. 22 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

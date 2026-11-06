@@ -37,11 +37,11 @@ summary: ''
 - “**authority**” means an authority of the kind mentioned in section 52ZA(1);
 - “**campaign organiser**” means the individual or body by whom, or on whose behalf, referendum expenses are incurred (including expenses treated as incurred) in connection with a referendum campaign;
 - “**chief counting officer**” means the person appointed under regulation 16;
-- “[^key-f4adb54601f2b246ce13144a3bd22b7e]**combined authority mayoral election**” means an election of a mayor for a combined authority under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
-- “[^key-8f8b017f3205a567db701528e53990ed]**combined county authority mayoral election**” means an election of a mayor for a combined county authority under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
+- “[^c-f4adb54601f2b246ce13144a3bd22b7e]**combined authority mayoral election**” means an election of a mayor for a combined authority under Part 6 of the Local Democracy, Economic Development and Construction Act 2009;
+- “[^c-8f8b017f3205a567db701528e53990ed]**combined county authority mayoral election**” means an election of a mayor for a combined county authority under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
 - “**counting observer**” means a person appointed by a counting officer under rule 18(2) of the Local Government Finance Act Referendums Rules or rule 18(1) of the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be);
 - “**counting officer**” means a person referred to in regulation 15;
-- [^key-3d69630ad79c41163aa093d016478a7e]...
+- [^c-3d69630ad79c41163aa093d016478a7e]...
 - “**Local Government Act referendum**” means a referendum held under section 9M (cases in which change is subject to approval in a referendum etc) of the 2000 Act, or by virtue of regulations or an order made under any provision of Part 1A (arrangements with respect to local authority governance in England) of that Act;
 - “local government election” must be construed in accordance with section 203(1) of the 1983 Act;
 - “**notification date**” means the date on which the notice required to be published by regulation 4, 5 or 6 (as the case may be) is published;
@@ -56,11 +56,11 @@ summary: ''
 - “**relevant election or referendum**” means one or more of the following—
 - (a) another referendum;
 - (b) a Parliamentary election;
-- (c) [^key-3d69630ad79c41163aa093d016478a7e]...
+- (c) [^c-3d69630ad79c41163aa093d016478a7e]...
 - (d) a local government election;
 - (e) a mayoral election;
-- (ea) a combined authority mayoral election;[^key-1403a093107b93b0957567706276cc71]
-- (eb) a combined county authority mayoral election;[^key-286f75ba0d94d199b4d809300c5ae9c3]
+- (ea) a combined authority mayoral election;[^c-1403a093107b93b0957567706276cc71]
+- (eb) a combined county authority mayoral election;[^c-286f75ba0d94d199b4d809300c5ae9c3]
 - (f) a Local Government Act referendum;
 - (g) a police and crime commissioner election, the poll at which is taken together with the poll at the referendum;
 - “**relevant financial year**” has the meaning given in regulation 4, 5 or 6 (as the case may be);
@@ -100,14 +100,14 @@ summary: ''
 
 [^c21183011]: Textual amendment: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294); amended by SI 2006/3278
 
-[^key-f4adb54601f2b246ce13144a3bd22b7e]: Textual amendment: Words in reg. 2(1) inserted (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 1](https://www.legislation.gov.uk/uksi/2017/67/article/1), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/7/2/a)
+[^c-f4adb54601f2b246ce13144a3bd22b7e]: Textual amendment: Words in reg. 2(1) inserted (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 1](https://www.legislation.gov.uk/uksi/2017/67/article/1), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/7/2/a)
 
-[^key-8f8b017f3205a567db701528e53990ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [21(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/21/a)
+[^c-8f8b017f3205a567db701528e53990ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [21(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/21/a)
 
-[^key-3d69630ad79c41163aa093d016478a7e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-3d69630ad79c41163aa093d016478a7e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-1403a093107b93b0957567706276cc71]: Textual amendment: Words in reg. 2(1) inserted (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 1](https://www.legislation.gov.uk/uksi/2017/67/article/1), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/7/2/b)
+[^c-1403a093107b93b0957567706276cc71]: Textual amendment: Words in reg. 2(1) inserted (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 1](https://www.legislation.gov.uk/uksi/2017/67/article/1), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/7/2/b)
 
-[^key-286f75ba0d94d199b4d809300c5ae9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [21(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/21/b)
+[^c-286f75ba0d94d199b4d809300c5ae9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/444/regulation/2/1) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [21(b)](https://www.legislation.gov.uk/uksi/2024/131/regulation/21/b)
 
 [^c21183031]: Textual amendment: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29). Section 89(2) was amended by Article 2 and paragraphs 1 and 6 of SI 2000/1435.

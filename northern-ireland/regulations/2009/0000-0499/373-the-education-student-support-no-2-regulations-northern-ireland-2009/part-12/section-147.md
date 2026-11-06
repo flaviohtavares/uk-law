@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Payment of grant[^key-3a39b83caa3697d4dd2d0ed00e615445]
+## 147. Payment of grant[^c-3a39b83caa3697d4dd2d0ed00e615445]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a39b83caa3697d4dd2d0ed00e615445]: Commencement: Reg. 147 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-3a39b83caa3697d4dd2d0ed00e615445]: Commencement: Reg. 147 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Guidance[^key-8bfe95683d06a4e914041dff50bb0f05]
+## 26. Guidance[^c-8bfe95683d06a4e914041dff50bb0f05]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bfe95683d06a4e914041dff50bb0f05]: Commencement: S. 26 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(k)](https://www.legislation.gov.uk/nisr/2016/248/article/4/k)
+[^c-8bfe95683d06a4e914041dff50bb0f05]: Commencement: S. 26 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(k)](https://www.legislation.gov.uk/nisr/2016/248/article/4/k)

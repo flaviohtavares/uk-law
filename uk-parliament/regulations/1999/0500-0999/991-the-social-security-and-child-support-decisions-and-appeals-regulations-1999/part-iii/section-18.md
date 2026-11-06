@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-aa7fdfd431c1c81325c172e07ebba6fd] Subject to paragraphs (2), (3) and (4), the Secretary of State shall decide that where a person— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(1)[^c-aa7fdfd431c1c81325c172e07ebba6fd] Subject to paragraphs (2), (3) and (4), the Secretary of State shall decide that where a person— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-- (a) whose benefit has been suspended in accordance with regulation 16 and who subsequently fails to comply with an information requirement made in pursuance of regulation 17; or *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (b) whose benefit has been suspended in accordance with regulation 17(5), *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+- (a) whose benefit has been suspended in accordance with regulation 16 and who subsequently fails to comply with an information requirement made in pursuance of regulation 17; or *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (b) whose benefit has been suspended in accordance with regulation 17(5), *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-that person shall cease to be entitled to that benefit from the date on which payment was suspended except where entitlement to benefit ceases on an earlier date other than under this regulation. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+that person shall cease to be entitled to that benefit from the date on which payment was suspended except where entitlement to benefit ceases on an earlier date other than under this regulation. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(2) Paragraph (1)(a) shall not apply where not more than one month has elapsed since the information requirement was made in pursuance of regulation 17. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(2) Paragraph (1)(a) shall not apply where not more than one month has elapsed since the information requirement was made in pursuance of regulation 17. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(3) Paragraph (1)(b) shall not apply where not more than one month has elapsed since the first payment was suspended in accordance with regulation 17. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(3) Paragraph (1)(b) shall not apply where not more than one month has elapsed since the first payment was suspended in accordance with regulation 17. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(4) Paragraph (1) shall not apply where benefit has been suspended in part under regulation 16 or, as the case may be, regulation 17. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(4) Paragraph (1) shall not apply where benefit has been suspended in part under regulation 16 or, as the case may be, regulation 17. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
 (1) Where a claimant—
 
@@ -61,4 +61,4 @@ the Board may, subject to paragraphs (3) and (4), decide to suspend payment of t
 
 ## Annotations
 
-[^key-aa7fdfd431c1c81325c172e07ebba6fd]: Textual amendment: Regs. 17 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Decisions and Appeals) (Amendment) Regulations 1999 (S.I. 1999/2570)](https://www.legislation.gov.uk/uksi/1999/2570) , [regs. 1](https://www.legislation.gov.uk/uksi/1999/2570/regulation/1) , [13](https://www.legislation.gov.uk/uksi/1999/2570/regulation/13)
+[^c-aa7fdfd431c1c81325c172e07ebba6fd]: Textual amendment: Regs. 17 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Decisions and Appeals) (Amendment) Regulations 1999 (S.I. 1999/2570)](https://www.legislation.gov.uk/uksi/1999/2570) , [regs. 1](https://www.legislation.gov.uk/uksi/1999/2570/regulation/1) , [13](https://www.legislation.gov.uk/uksi/1999/2570/regulation/13)

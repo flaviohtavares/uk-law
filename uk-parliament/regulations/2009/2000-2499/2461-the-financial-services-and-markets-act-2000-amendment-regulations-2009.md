@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Financial Services and Markets Act 2000 (Amendment) Regulations 2009 (revoked)[^key-ee59807184726131d3a9ec7ecaf48e26]
+The Financial Services and Markets Act 2000 (Amendment) Regulations 2009 (revoked)[^c-ee59807184726131d3a9ec7ecaf48e26]
 
 Made
 
@@ -46,86 +46,86 @@ Coming into force
 
 1st October 2009
 
-[^key-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ee59807184726131d3a9ec7ecaf48e26]
+## 1. Citation and commencement[^c-ee59807184726131d3a9ec7ecaf48e26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Disclosure rules: persons responsible for compliance[^key-ee59807184726131d3a9ec7ecaf48e26]
+## 2. Disclosure rules: persons responsible for compliance[^c-ee59807184726131d3a9ec7ecaf48e26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-ee59807184726131d3a9ec7ecaf48e26]
+## SCHEDULE[^c-ee59807184726131d3a9ec7ecaf48e26]
 
 Regulation 2(2)
 
-> **SCHEDULE 11B — CONNECTED PERSONS[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **SCHEDULE 11B — CONNECTED PERSONS[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > Section 96B(2)
 >
-> **PART 1 — MEANING OF “CONNECTED PERSON”[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **PART 1 — MEANING OF “CONNECTED PERSON”[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
-> **1. Introduction[^key-ee59807184726131d3a9ec7ecaf48e26]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. Meaning of “connected person”[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **1. Introduction[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Family members[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **2. Meaning of “connected person”[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. Associated bodies corporate[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **3. Family members[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Control of a body corporate[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **4. Associated bodies corporate[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6. Supplementary provisions[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **5. Control of a body corporate[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — CONNECTED PERSONS: REFERENCES TO AN INTEREST IN SHARES OR DEBENTURES[^key-ee59807184726131d3a9ec7ecaf48e26]**
->
-> **7. Introduction[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **6. Supplementary provisions[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8. General provisions[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **PART 2 — CONNECTED PERSONS: REFERENCES TO AN INTEREST IN SHARES OR DEBENTURES[^c-ee59807184726131d3a9ec7ecaf48e26]**
+>
+> **7. Introduction[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Rights to acquire shares[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **8. General provisions[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Right to exercise or control exercise of rights[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **9. Rights to acquire shares[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11. Bodies corporate[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **10. Right to exercise or control exercise of rights[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12. Trusts[^key-ee59807184726131d3a9ec7ecaf48e26]**
+> **11. Bodies corporate[^c-ee59807184726131d3a9ec7ecaf48e26]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **12. Trusts[^c-ee59807184726131d3a9ec7ecaf48e26]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee59807184726131d3a9ec7ecaf48e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee59807184726131d3a9ec7ecaf48e26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2461) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-ee59807184726131d3a9ec7ecaf48e26]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2461) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

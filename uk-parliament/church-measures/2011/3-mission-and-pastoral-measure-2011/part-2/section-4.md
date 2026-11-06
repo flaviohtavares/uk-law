@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4. Conventional districts[^key-b159d181c26b11c665bc34fefc31d51b]
+## 4. Conventional districts[^c-b159d181c26b11c665bc34fefc31d51b]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ It shall be the duty of the mission and pastoral committee of a diocese from tim
 
 ## Annotations
 
-[^key-b159d181c26b11c665bc34fefc31d51b]: Commencement: S. 4 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-b159d181c26b11c665bc34fefc31d51b]: Commencement: S. 4 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

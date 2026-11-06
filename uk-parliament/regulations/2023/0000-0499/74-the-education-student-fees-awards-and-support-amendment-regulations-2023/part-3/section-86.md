@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Insertion of definition of “immigration rules”[^key-fb84e03c9a1cf3cf83c9f4d086e5ab20]
+## 86. Insertion of definition of “immigration rules”[^c-fb84e03c9a1cf3cf83c9f4d086e5ab20]
 
 *Extent: E+W*
 
@@ -44,17 +44,17 @@ In regulation 2(1) (interpretation)[^f00071]—
   - (ii) in paragraph (a)(ii), for “Immigration Rules as defined in section 33(1) of the Immigration Act 1971” substitute “immigration rules”;
 - (k) in the definition of “person granted stateless leave”, in paragraph (a) omit “(within the meaning given in section 33(1) of the Immigration Act 1971)”.
 
-**87.**[^key-dab40662cf78b19c0143f42f42a9d4e0] In Part 2 of Schedule 1 (eligible students: categories)[^f00072]—
+**87.**[^c-dab40662cf78b19c0143f42f42a9d4e0] In Part 2 of Schedule 1 (eligible students: categories)[^f00072]—
 
 - (a) in paragraph 3(2) omit “(as defined in section 33(1) of the Immigration Act 1971)”;
 - (b) in paragraph 4A(4) omit “(within the meaning given in section 33(1) of the Immigration Act 1971)”.
 
 ## Annotations
 
-[^key-fb84e03c9a1cf3cf83c9f4d086e5ab20]: Commencement: Reg. 86 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-fb84e03c9a1cf3cf83c9f4d086e5ab20]: Commencement: Reg. 86 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00071]: Footnote: Relevant amending instruments are [S.I. 2018/137](https://www.legislation.gov.uk/uksi/2018/137), [2019/142](https://www.legislation.gov.uk/uksi/2019/142), [2021/1348](https://www.legislation.gov.uk/uksi/2021/1348), [2020/1203](https://www.legislation.gov.uk/uksi/2020/1203), [2022/57](https://www.legislation.gov.uk/uksi/2022/57) and [2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-dab40662cf78b19c0143f42f42a9d4e0]: Commencement: Reg. 87 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-dab40662cf78b19c0143f42f42a9d4e0]: Commencement: Reg. 87 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00072]: Footnote: Paragraph 3(2) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127). Paragraph 4A was substituted by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203).

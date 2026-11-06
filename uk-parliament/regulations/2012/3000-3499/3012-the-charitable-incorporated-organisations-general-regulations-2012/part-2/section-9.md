@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Applications for amalgamation: information to be included[^key-b58e91dfd951cd893b32c0ef3a492349]
+## 9. Applications for amalgamation: information to be included[^c-b58e91dfd951cd893b32c0ef3a492349]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In a case where two or more CIOs make an application for amalgamation and the pr
 
 ## Annotations
 
-[^key-b58e91dfd951cd893b32c0ef3a492349]: Commencement: Reg. 9 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-b58e91dfd951cd893b32c0ef3a492349]: Commencement: Reg. 9 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -86,11 +86,11 @@ In these Regulations—
 
 > (3A) In this section “**offshore installation**” means any mobile or fixed drilling or production platform or any other platform used in connection with the exploration, exploitation or associated offshore processing of sea bed mineral resources.
 
-## 4. Amendment of the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996[^key-b958d7c21f78007a67ff5ace0befaa4e]
+## 4. Amendment of the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996[^c-b958d7c21f78007a67ff5ace0befaa4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996[^key-7c49a31d715cba0eeb196f2df94df277]
+## 5. Amendment of the Merchant Shipping (Dangerous or Noxious Liquid Substances in Bulk) Regulations 1996[^c-7c49a31d715cba0eeb196f2df94df277]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,6 +136,6 @@ Copies of MARPOL 73/78 may be obtained from the International Maritime Organizat
 
 [^c19692081]: Marginal citation: OJ No L 255, 30.9.2005, p11.
 
-[^key-b958d7c21f78007a67ff5ace0befaa4e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1210/regulation/4) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-b958d7c21f78007a67ff5ace0befaa4e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1210/regulation/4) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
-[^key-7c49a31d715cba0eeb196f2df94df277]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1210/regulation/5) revoked (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
+[^c-7c49a31d715cba0eeb196f2df94df277]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1210/regulation/5) revoked (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))

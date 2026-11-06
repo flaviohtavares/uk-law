@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Mental health officer’s duty to interview patient etc.[^key-ec860ccd1b33f8136a8c34751223b32b]
+## 45. Mental health officer’s duty to interview patient etc.[^c-ec860ccd1b33f8136a8c34751223b32b]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the mental health officer shall comply with the requirements in subsection (3) b
 
 ## Annotations
 
-[^key-ec860ccd1b33f8136a8c34751223b32b]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2003/13/section/45) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-ec860ccd1b33f8136a8c34751223b32b]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2003/13/section/45) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

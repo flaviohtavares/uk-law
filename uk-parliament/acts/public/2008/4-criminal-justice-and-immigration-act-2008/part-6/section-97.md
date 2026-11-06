@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power to transfer functions under Crime (International Co-operation) Act 2003 in relation to direct taxation[^key-3b3076ce5e68b28f82d8dfaeb213c145]
+## 97. Power to transfer functions under Crime (International Co-operation) Act 2003 in relation to direct taxation[^c-3b3076ce5e68b28f82d8dfaeb213c145]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3076ce5e68b28f82d8dfaeb213c145]: Commencement: S. 97 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/41)
+[^c-3b3076ce5e68b28f82d8dfaeb213c145]: Commencement: S. 97 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/41)

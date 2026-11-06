@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Other excluded matters[^key-8d0b75b799ac65207a0ed0433e95161b]
+## 14. Other excluded matters[^c-8d0b75b799ac65207a0ed0433e95161b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d0b75b799ac65207a0ed0433e95161b]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2019/3/section/14) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-8d0b75b799ac65207a0ed0433e95161b]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2019/3/section/14) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -30,7 +30,7 @@ Subject to paragraph 5, the occupier of any premises where poultry or other capt
 - (b) the date of the visit;
 - (c) whether the person had any contact with poultry or other captive birds on the premises.
 
-### 2. Record of poultry[^key-f3810a06698f87120564058ecaea655d]
+### 2. Record of poultry[^c-f3810a06698f87120564058ecaea655d]
 
 The occupier of any premises where poultry or other captive birds are kept in the zone must—
 
@@ -86,11 +86,11 @@ The occupier and any person entering or leaving premises in the zone where poult
 
 ### 8. Litter, poultry manure and slurry
 
-(1)[^key-fbcdc0d755687981ad184fac7406a2f7] No person shall remove from premises in the zone or spread used poultry litter, poultry manure or poultry slurry unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
+(1)[^c-fbcdc0d755687981ad184fac7406a2f7] No person shall remove from premises in the zone or spread used poultry litter, poultry manure or poultry slurry unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
 
-(2)[^key-e47cb1e000e746bf7494efd1a70c09de] The movement of manure, with appropriate biosecurity measures in place, may be authorised, by a veterinary inspector, from premises situated in a surveillance zone to a designated plant, for treatment or immediate storage for subsequent treatment, to mitigate against the risk of the spread of avian influenza virus.
+(2)[^c-e47cb1e000e746bf7494efd1a70c09de] The movement of manure, with appropriate biosecurity measures in place, may be authorised, by a veterinary inspector, from premises situated in a surveillance zone to a designated plant, for treatment or immediate storage for subsequent treatment, to mitigate against the risk of the spread of avian influenza virus.
 
-### 8A.[^key-913dbb1294f68eb0418b24d61b878569]
+### 8A.[^c-913dbb1294f68eb0418b24d61b878569]
 
 (1) Subject to paragraph (2), no person shall remove carcases of poultry or other captive birds from premises in the zone;
 
@@ -102,15 +102,15 @@ No person shall permit any poultry or other captive birds to be collected togeth
 
 ### 10. Release of game
 
-(1)[^key-4674549c6c92d0153234794a46f6267c] No person shall release game birds.
+(1)[^c-4674549c6c92d0153234794a46f6267c] No person shall release game birds.
 
-- (b)[^key-6eb4cf4ca2202a05f9a6af14e56cb01f] for the purpose of this paragraph, game birds includes any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
+- (b)[^c-6eb4cf4ca2202a05f9a6af14e56cb01f] for the purpose of this paragraph, game birds includes any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
 
 ### 11. Restrictions on the movement of poultry and eggs within the zone
 
-(1)[^key-5af245d2c0d9921fe722998e1f6db65e] Subject to paragraph 12, no person shall move any poultry or eggs into or[^key-7ae8d17469d47f1fcc9cc26f6ae74105] within the zone (other than through the zone by road or rail without stopping), unless they comply with all relevant biosecurity measures laid down by a veterinary inspector in licence conditions.[^key-cf623416c0a3e405acd4304b69014e24]
+(1)[^c-5af245d2c0d9921fe722998e1f6db65e] Subject to paragraph 12, no person shall move any poultry or eggs into or[^c-7ae8d17469d47f1fcc9cc26f6ae74105] within the zone (other than through the zone by road or rail without stopping), unless they comply with all relevant biosecurity measures laid down by a veterinary inspector in licence conditions.[^c-cf623416c0a3e405acd4304b69014e24]
 
-(2)[^key-f91e844378977d8bef7759a79fa13703] The occupier of premises to which poultry are moved, shall not move any of that poultry from those premises for a period of at least 21 days from the day on which that poultry was moved onto the premises.
+(2)[^c-f91e844378977d8bef7759a79fa13703] The occupier of premises to which poultry are moved, shall not move any of that poultry from those premises for a period of at least 21 days from the day on which that poultry was moved onto the premises.
 
 ### 12. Wholesale and retail distribution of eggs within the zone
 
@@ -126,38 +126,38 @@ A veterinary inspector may license the movement of poultry from outside any avia
 
 ### 15. Restrictions on the movement of poultry and eggs out of the zone
 
-(1) Subject to paragraph 16, no person shall move any poultry, or eggs, semen, blood samples or carcases from poultry or other captive birds,[^key-7dd0ba82590ae50e8f07c4b923f7d83a] out of the zone, unless the movement is—
+(1) Subject to paragraph 16, no person shall move any poultry, or eggs, semen, blood samples or carcases from poultry or other captive birds,[^c-7dd0ba82590ae50e8f07c4b923f7d83a] out of the zone, unless the movement is—
 
 - (a) a movement set out in sub-paragraph (2); and
-- (b) licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.[^key-22da54ea5ccab0317186c4aeedd8ff16]
+- (b) licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.[^c-22da54ea5ccab0317186c4aeedd8ff16]
 
 (2) The movements referred to in sub-paragraph (1) are movements of—
 
 - (a) poultry for slaughter (if the requirements of paragraph 17 are met);
 - (b) day-old chicks hatched from eggs originating within the protection or surveillance zone or from eggs which came into contact with such eggs (if the requirements of paragraph 18 are met);
 - (c) day-old chicks hatched from eggs originating outside the protection and surveillance zones kept separate from eggs produced in such a zone (if the requirements of paragraph 19 are met);
-- (d) ready-to-lay poultry or brood-and-move[^key-74cb7d30b23319839f27f987cc8550dc] poultry[^key-2ab3e9025ca3bd22fed8258293da5647] to premises or a part of any premises where no poultry are kept;
+- (d) ready-to-lay poultry or brood-and-move[^c-74cb7d30b23319839f27f987cc8550dc] poultry[^c-2ab3e9025ca3bd22fed8258293da5647] to premises or a part of any premises where no poultry are kept;
 - (e) hatching eggs from the zone—
   - (i) to a designated hatchery; or
   - (ii) to designated premises for use for scientific, diagnostic or pharmaceutical purposes (if, in both cases, the requirements of paragraph 20 are met);
 - (f) eggs to a designated egg packing centre (if the requirements of paragraph 21 are met);
 - (g) eggs to an egg processing plant;
 - (h) eggs for disposal.
-- (i)[^key-97718c2ea5376810197a835a94f68fa0] poultry to a veterinary surgery for treatment, or to the premises of origin on return following such a movement.
-- (j)[^key-fd1664c22768fa2fa95b71e48238ffb2] semen to a breeding premises or to a designated premises for scientific, diagnostic or pharmaceutical purposes;
+- (i)[^c-97718c2ea5376810197a835a94f68fa0] poultry to a veterinary surgery for treatment, or to the premises of origin on return following such a movement.
+- (j)[^c-fd1664c22768fa2fa95b71e48238ffb2] semen to a breeding premises or to a designated premises for scientific, diagnostic or pharmaceutical purposes;
 - (k) blood samples to a laboratory or veterinary practice for scientific or diagnostic purposes.
 
 ### 16. Wholesale and retail distribution of table eggs
 
 Paragraph 15 does not apply to a movement of table eggs direct to wholesale or retail premises or subsequent to such a movement.
 
-### 17. Requirements for the movement of poultry from premises in the zone to a designated slaughterhouse[^key-942f827280d149b794ccbd63dde0c5d9]
+### 17. Requirements for the movement of poultry from premises in the zone to a designated slaughterhouse[^c-942f827280d149b794ccbd63dde0c5d9]
 
 Poultry must not be moved from premises in the zone to a designated slaughterhouse outside the zone unless—
 
 - (a) the movement commences within 24 hours of the completion of a veterinary inspection of the poultry at the premises; and
 - (b) the appropriate minister responsible for the designated slaughterhouse has authorised the movement of that poultry.
-- (c)[^key-d71f036f4926241e35386cf771e3abb2] [^key-d1146201a84116ecf489075de34c7719]... For the purposes of this paragraph, “**inspection**” includes a visual inspection conducted remotely and under conditions where such an inspection has been authorised in writing by a veterinary inspector.
+- (c)[^c-d71f036f4926241e35386cf771e3abb2] [^c-d1146201a84116ecf489075de34c7719]... For the purposes of this paragraph, “**inspection**” includes a visual inspection conducted remotely and under conditions where such an inspection has been authorised in writing by a veterinary inspector.
 
 ### 18. Requirements for the movement of day-old chicks hatched from eggs produced within the protection or surveillance zone or from eggs which have had contact with such eggs
 
@@ -175,7 +175,7 @@ Hatching eggs must not be moved from the zone to a designated hatchery or to des
 
 Eggs must not be moved to a designated egg packing centre unless—
 
-- (a) they are packed in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector[^key-26f3af23bb2b84a5f664993c7894c533]; and
+- (a) they are packed in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector[^c-26f3af23bb2b84a5f664993c7894c533]; and
 - (b) any person transporting the eggs complies with any biosecurity measures laid down by a veterinary inspector.
 
 ### 22. Cleansing and disinfection of vehicles carrying any thing which may be contaminated
@@ -188,42 +188,42 @@ A person who enters or leaves premises in the zone by vehicle must cleanse and d
 
 ## Annotations
 
-[^key-f3810a06698f87120564058ecaea655d]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/2) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(a)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/a)
+[^c-f3810a06698f87120564058ecaea655d]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/2) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(a)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/a)
 
-[^key-fbcdc0d755687981ad184fac7406a2f7]: Textual amendment: Sch. 5 para. 8 renumbered as Sch. 5 para. 8(1) (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/b/i)
+[^c-fbcdc0d755687981ad184fac7406a2f7]: Textual amendment: Sch. 5 para. 8 renumbered as Sch. 5 para. 8(1) (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/b/i)
 
-[^key-e47cb1e000e746bf7494efd1a70c09de]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/8/2) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/b/ii)
+[^c-e47cb1e000e746bf7494efd1a70c09de]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/8/2) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/b/ii)
 
-[^key-913dbb1294f68eb0418b24d61b878569]: Textual amendment: [Sch. 5 para. 8A](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/8A) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/a)
+[^c-913dbb1294f68eb0418b24d61b878569]: Textual amendment: [Sch. 5 para. 8A](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/8A) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/a)
 
-[^key-4674549c6c92d0153234794a46f6267c]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/10) renumbered as Sch. 5 para. 10(1) (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/b/i)
+[^c-4674549c6c92d0153234794a46f6267c]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/10) renumbered as Sch. 5 para. 10(1) (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/b/i)
 
-[^key-6eb4cf4ca2202a05f9a6af14e56cb01f]: Textual amendment: [Sch. 5 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/10/1/b) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/b/ii)
+[^c-6eb4cf4ca2202a05f9a6af14e56cb01f]: Textual amendment: [Sch. 5 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/10/1/b) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/b/ii)
 
-[^key-5af245d2c0d9921fe722998e1f6db65e]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11) renumbered as Sch. 5 para. 11(1) (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/i)
+[^c-5af245d2c0d9921fe722998e1f6db65e]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11) renumbered as Sch. 5 para. 11(1) (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/i)
 
-[^key-7ae8d17469d47f1fcc9cc26f6ae74105]: Textual amendment: Words in [Sch. 5 para. 11(1)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/ii)
+[^c-7ae8d17469d47f1fcc9cc26f6ae74105]: Textual amendment: Words in [Sch. 5 para. 11(1)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/ii)
 
-[^key-cf623416c0a3e405acd4304b69014e24]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(c)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/c)
+[^c-cf623416c0a3e405acd4304b69014e24]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11) substituted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(c)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/c)
 
-[^key-f91e844378977d8bef7759a79fa13703]: Textual amendment: [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11/2) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/iii)
+[^c-f91e844378977d8bef7759a79fa13703]: Textual amendment: [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/11/2) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/c/iii)
 
-[^key-7dd0ba82590ae50e8f07c4b923f7d83a]: Textual amendment: Words in [Sch. 5 para. 15(1)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/1) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/i)
+[^c-7dd0ba82590ae50e8f07c4b923f7d83a]: Textual amendment: Words in [Sch. 5 para. 15(1)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/1) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/i)
 
-[^key-22da54ea5ccab0317186c4aeedd8ff16]: Textual amendment: Words in [Sch. 5 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/1/b) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/ii)
+[^c-22da54ea5ccab0317186c4aeedd8ff16]: Textual amendment: Words in [Sch. 5 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/1/b) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/ii)
 
-[^key-74cb7d30b23319839f27f987cc8550dc]: Textual amendment: Words in [Sch. 5 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/d) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(d)(i)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/d/i)
+[^c-74cb7d30b23319839f27f987cc8550dc]: Textual amendment: Words in [Sch. 5 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/d) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(d)(i)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/d/i)
 
-[^key-2ab3e9025ca3bd22fed8258293da5647]: Textual amendment: Word in [Sch. 5 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/d) substituted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(d)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/d)
+[^c-2ab3e9025ca3bd22fed8258293da5647]: Textual amendment: Word in [Sch. 5 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/d) substituted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(d)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/d)
 
-[^key-97718c2ea5376810197a835a94f68fa0]: Textual amendment: [Sch. 5 para. 15(2)(i)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/i) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/d/ii)
+[^c-97718c2ea5376810197a835a94f68fa0]: Textual amendment: [Sch. 5 para. 15(2)(i)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/i) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/d/ii)
 
-[^key-fd1664c22768fa2fa95b71e48238ffb2]: Textual amendment: [Sch. 5 para. 15(2)(j)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/j)[(k)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/k) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/iii)
+[^c-fd1664c22768fa2fa95b71e48238ffb2]: Textual amendment: [Sch. 5 para. 15(2)(j)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/j)[(k)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/15/2/k) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/b/iii)
 
-[^key-942f827280d149b794ccbd63dde0c5d9]: Textual amendment: [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17) substituted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(e)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/e)
+[^c-942f827280d149b794ccbd63dde0c5d9]: Textual amendment: [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17) substituted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(11)(e)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/11/e)
 
-[^key-d71f036f4926241e35386cf771e3abb2]: Textual amendment: [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17/c) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/c)
+[^c-d71f036f4926241e35386cf771e3abb2]: Textual amendment: [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17/c) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/7/c)
 
-[^key-d1146201a84116ecf489075de34c7719]: Textual amendment: Words in [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17C) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(44)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/44/a)
+[^c-d1146201a84116ecf489075de34c7719]: Textual amendment: Words in [Sch. 5 para. 17(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/17C) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(44)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/44/a)
 
-[^key-26f3af23bb2b84a5f664993c7894c533]: Textual amendment: Words in [Sch. 5 para. 21(a)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/21/a) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(f)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/f)
+[^c-26f3af23bb2b84a5f664993c7894c533]: Textual amendment: Words in [Sch. 5 para. 21(a)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/5/paragraph/21/a) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(20)(f)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/20/f)

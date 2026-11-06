@@ -44,11 +44,11 @@ Coming into operation
 
 The Executive Office, makes the following Regulations in exercise of the powers conferred by section 50 of the Climate Change Act (Northern Ireland) 2022[^f00001].
 
-## 1. Citation and commencement[^key-a9a326b52b896b0e0f5436d9aa04c09a]
+## 1. Citation and commencement[^c-a9a326b52b896b0e0f5436d9aa04c09a]
 
 These Regulations may be cited as the Northern Ireland Climate Commissioner Regulations (Northern Ireland) 2025 and shall come into operation on 9<sup>th </sup>April 2025.
 
-## 2. Interpretation[^key-b340d9a799e660fb1aa56e7393e349b9]
+## 2. Interpretation[^c-b340d9a799e660fb1aa56e7393e349b9]
 
 In these Regulations—
 
@@ -57,13 +57,13 @@ In these Regulations—
 - “**the Office**” means the Executive Office;
 - “**information**” includes information recorded in any form.
 
-## 3. The Northern Ireland Climate Commissioner[^key-61abbc52b6c79286664772683cd6421d]
+## 3. The Northern Ireland Climate Commissioner[^c-61abbc52b6c79286664772683cd6421d]
 
 (1) There is to be an office known as the Northern Ireland Climate Commissioner.
 
 (2) The Commissioner is to be appointed by the First Minister and deputy First Minister acting jointly.
 
-## 4. Functions of the Commissioner[^key-b9b164f7a85c9869d5fa85b9991b9370]
+## 4. Functions of the Commissioner[^c-b9b164f7a85c9869d5fa85b9991b9370]
 
 For the purpose of exercising the Commissioner’s functions of overseeing and reporting on the operations of the Act, the Commissioner may in particular—
 
@@ -74,7 +74,7 @@ For the purpose of exercising the Commissioner’s functions of overseeing and r
   - (ii) advice and recommendations,
   - (iii) other relevant information.
 
-## 5. Status[^key-1859ad7fb196b1994f53cd57d906af51]
+## 5. Status[^c-1859ad7fb196b1994f53cd57d906af51]
 
 (1) The person for the time being holding the office of the Commissioner is by that name a corporation sole.
 
@@ -85,7 +85,7 @@ For the purpose of exercising the Commissioner’s functions of overseeing and r
 
 (3) Any property held by the Commissioner is not to be regarded as property of, or property held on behalf of, the Crown.
 
-## 6. General powers[^key-747ce7bec4ce6fc72c91d8630ba8f70b]
+## 6. General powers[^c-747ce7bec4ce6fc72c91d8630ba8f70b]
 
 (1) The Commissioner may do anything, apart from borrowing money, which the Commissioner considers is-
 
@@ -100,7 +100,7 @@ the exercise of the Commissioner’s functions.
 - (b) acquiring, holding and disposing of real or personal property; and
 - (c) entering into contracts.
 
-## 7. Tenure of Office[^key-9b4c84035af1b8bc10ce2623482a55fb]
+## 7. Tenure of Office[^c-9b4c84035af1b8bc10ce2623482a55fb]
 
 (1) Subject to the provisions of this regulation, a person holds and vacates office as the Commissioner in accordance with the terms of that person’s appointment.
 
@@ -119,13 +119,13 @@ the exercise of the Commissioner’s functions.
 
 (6) Each of the expressions used in paragraph (5)(b) has the same meaning as in the Insolvency (Northern Ireland) Order 1989(**b**).
 
-## 8. Salary, etc[^key-83fe99f46b62cd9bbf3a019005097d0a]
+## 8. Salary, etc[^c-83fe99f46b62cd9bbf3a019005097d0a]
 
 (1) The Office may pay to or in respect of the Commissioner such remuneration and allowances (including allowances for expenses) as the Office may determine.
 
 (2) A determination of the Office under this regulation requires the approval of the Department of Finance.
 
-## 9. Staff[^key-7796d2deb91f00dbc1c45cc8d97dbbae]
+## 9. Staff[^c-7796d2deb91f00dbc1c45cc8d97dbbae]
 
 (1) The Commissioner may appoint such number of staff as the Commissioner may determine.
 
@@ -135,21 +135,21 @@ the exercise of the Commissioner’s functions.
 
 (4) A determination of the Commissioner under this regulation requires the approval of the Office and the Department of Finance.
 
-## 10. Seal[^key-4b2b57c9be14b95607e78f768212d6ad]
+## 10. Seal[^c-4b2b57c9be14b95607e78f768212d6ad]
 
 The application of the seal of the Commissioner must be authenticated by the Commissioner’s signature, or by the signature of a member of the Commissioner’s staff who is authorised by the Commissioner to do so.
 
-## 11. Evidence[^key-f3a71bceec2d48bd54b4b63553450cd7]
+## 11. Evidence[^c-f3a71bceec2d48bd54b4b63553450cd7]
 
 A document purporting to be an instrument issued by the Commissioner and to be duly executed under the Commissioner’s seal or to be signed by, or on behalf of, the Commissioner is to be received in evidence and is, unless the contrary is proved, taken to be such an instrument.
 
-## 12. Property[^key-e1da18e2ff5cd8a56be834bbe7c29eeb]
+## 12. Property[^c-e1da18e2ff5cd8a56be834bbe7c29eeb]
 
 (1) Any real or personal property vested in the Commissioner must (unless and until disclaimed or disposed of) vest in the Commissioner’s successor in office.
 
 (2) Where there is a vacancy in the office of Commissioner at the time when real or personal property would otherwise have vested, the property must vest in the successor on that person’s appointment.
 
-## 13. Funding[^key-be18c35b44ea6f8987ff0541b5e38db1]
+## 13. Funding[^c-be18c35b44ea6f8987ff0541b5e38db1]
 
 (1) The Office may make grants to the Commissioner of such amounts as it may determine.
 
@@ -159,7 +159,7 @@ A document purporting to be an instrument issued by the Commissioner and to be d
 
 (4) Any sums received by the Commissioner under paragraph (2) are to be paid into the Consolidated Fund.
 
-## 14. Accounts[^key-64b1e90837be5f45bddd3e2f64a30e8d]
+## 14. Accounts[^c-64b1e90837be5f45bddd3e2f64a30e8d]
 
 (1) The Commissioner must—
 
@@ -188,7 +188,7 @@ A document purporting to be an instrument issued by the Commissioner and to be d
 - (a) the period beginning with the day on which the first person appointed as Commissioner takes office and ending with the next 31<sup>st</sup> March following that date, and
 - (b) each successive period of twelve months ending with 31<sup>st</sup> March.
 
-## 15. Annual report[^key-17e6a623ae1c78145d702cde0fad90cc]
+## 15. Annual report[^c-17e6a623ae1c78145d702cde0fad90cc]
 
 (1) The Commissioner must, as soon as practicable after the end of each financial year, send to the Office a report on the exercise of the Commissioner’s functions during that year.
 
@@ -216,32 +216,32 @@ EXPLANATORY NOTE
 
 [^f00001]: Footnote: [2022 c.31 (N.I.)](https://www.legislation.gov.uk/nia/2022/31)
 
-[^key-a9a326b52b896b0e0f5436d9aa04c09a]: Commencement: Reg. 1 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-a9a326b52b896b0e0f5436d9aa04c09a]: Commencement: Reg. 1 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-b340d9a799e660fb1aa56e7393e349b9]: Commencement: Reg. 2 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-b340d9a799e660fb1aa56e7393e349b9]: Commencement: Reg. 2 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-61abbc52b6c79286664772683cd6421d]: Commencement: Reg. 3 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-61abbc52b6c79286664772683cd6421d]: Commencement: Reg. 3 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-b9b164f7a85c9869d5fa85b9991b9370]: Commencement: Reg. 4 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-b9b164f7a85c9869d5fa85b9991b9370]: Commencement: Reg. 4 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-1859ad7fb196b1994f53cd57d906af51]: Commencement: Reg. 5 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-1859ad7fb196b1994f53cd57d906af51]: Commencement: Reg. 5 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-747ce7bec4ce6fc72c91d8630ba8f70b]: Commencement: Reg. 6 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-747ce7bec4ce6fc72c91d8630ba8f70b]: Commencement: Reg. 6 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-9b4c84035af1b8bc10ce2623482a55fb]: Commencement: Reg. 7 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-9b4c84035af1b8bc10ce2623482a55fb]: Commencement: Reg. 7 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-83fe99f46b62cd9bbf3a019005097d0a]: Commencement: Reg. 8 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-83fe99f46b62cd9bbf3a019005097d0a]: Commencement: Reg. 8 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-7796d2deb91f00dbc1c45cc8d97dbbae]: Commencement: Reg. 9 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-7796d2deb91f00dbc1c45cc8d97dbbae]: Commencement: Reg. 9 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-4b2b57c9be14b95607e78f768212d6ad]: Commencement: Reg. 10 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-4b2b57c9be14b95607e78f768212d6ad]: Commencement: Reg. 10 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-f3a71bceec2d48bd54b4b63553450cd7]: Commencement: Reg. 11 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-f3a71bceec2d48bd54b4b63553450cd7]: Commencement: Reg. 11 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-e1da18e2ff5cd8a56be834bbe7c29eeb]: Commencement: Reg. 12 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-e1da18e2ff5cd8a56be834bbe7c29eeb]: Commencement: Reg. 12 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-be18c35b44ea6f8987ff0541b5e38db1]: Commencement: Reg. 13 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-be18c35b44ea6f8987ff0541b5e38db1]: Commencement: Reg. 13 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-64b1e90837be5f45bddd3e2f64a30e8d]: Commencement: Reg. 14 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-64b1e90837be5f45bddd3e2f64a30e8d]: Commencement: Reg. 14 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
 
-[^key-17e6a623ae1c78145d702cde0fad90cc]: Commencement: Reg. 15 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)
+[^c-17e6a623ae1c78145d702cde0fad90cc]: Commencement: Reg. 15 in operation at 9.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/78/regulation/1)

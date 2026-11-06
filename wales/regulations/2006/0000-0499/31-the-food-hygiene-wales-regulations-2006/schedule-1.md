@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^key-08cbe1d53b9590e0095083be468e7568]
+## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^c-08cbe1d53b9590e0095083be468e7568]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ The Regulation 2017/625 package
 
 ## Annotations
 
-[^key-08cbe1d53b9590e0095083be468e7568]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2006/31/schedule/1) substituted (31.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1487)](https://www.legislation.gov.uk/wsi/2020/1487), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1487/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2020/1487/schedule/1)
+[^c-08cbe1d53b9590e0095083be468e7568]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2006/31/schedule/1) substituted (31.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1487)](https://www.legislation.gov.uk/wsi/2020/1487), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/1487/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2020/1487/schedule/1)

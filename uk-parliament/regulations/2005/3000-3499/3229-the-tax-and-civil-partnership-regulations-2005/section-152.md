@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152.[^key-b7835fc8682ddbb2da0853d7dfb009d6]
+## 152.[^c-b7835fc8682ddbb2da0853d7dfb009d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 401 (payments and benefits on termination of employment etc: prelimin
 
 ## Annotations
 
-[^key-b7835fc8682ddbb2da0853d7dfb009d6]: Commencement: Reg. 152 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b7835fc8682ddbb2da0853d7dfb009d6]: Commencement: Reg. 152 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

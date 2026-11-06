@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Restrictions in leases and licences[^key-449a6aebfb4ab287365dbb1663d9c8ee][^key-7146f45fc810cf9920a5bd1ecfbdf978]
+## 134. Restrictions in leases and licences[^c-449a6aebfb4ab287365dbb1663d9c8ee][^c-7146f45fc810cf9920a5bd1ecfbdf978]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,14 +59,14 @@ the question whether the consent is unreasonably withheld has to be determined h
 - (b) the connection of electronic communications apparatus to a relevant electronic communications network or of any such network to another; and
 - (c) the installation, maintenance, adjustment, repair, alteration or use for purposes connected with the provision of such a network or service of electronic communications apparatus.
 
-(8)[^key-540ba2e8b5939e24714cd6fbc7646427] In this section—
+(8)[^c-540ba2e8b5939e24714cd6fbc7646427] In this section—
 
 - “**alteration**” has the same meaning as in the electronic communications code;
-- “**lease *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]**” includes— *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]
-  - (a) a leasehold tenancy (whether in the nature of a head lease, sub-lease or under lease) and an agreement to grant such a tenancy, and *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]
-  - (b) in Scotland, a sub-lease and an agreement to grant a sub-lease, *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]
+- “**lease *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]**” includes— *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]
+  - (a) a leasehold tenancy (whether in the nature of a head lease, sub-lease or under lease) and an agreement to grant such a tenancy, and *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]
+  - (b) in Scotland, a sub-lease and an agreement to grant a sub-lease, *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]
 
-  and “ *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]**lessor *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]**” and “ *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]**lessee *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]**” are to be construed accordingly; *(affected by repeal, see note)*[^key-540ba2e8b5939e24714cd6fbc7646427]
+  and “ *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]**lessor *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]**” and “ *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]**lessee *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]**” are to be construed accordingly; *(affected by repeal, see note)*[^c-540ba2e8b5939e24714cd6fbc7646427]
 - “lease”—
   - ((a)) in relation to England and Wales and Northern Ireland, includes—
     - ((i)) any head lease, sub-lease or underlease,
@@ -91,8 +91,8 @@ the question whether the consent is unreasonably withheld has to be determined h
 
 ## Annotations
 
-[^key-449a6aebfb4ab287365dbb1663d9c8ee]: Commencement: S. 134 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-449a6aebfb4ab287365dbb1663d9c8ee]: Commencement: S. 134 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-7146f45fc810cf9920a5bd1ecfbdf978]: Commencement: S. 134 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7146f45fc810cf9920a5bd1ecfbdf978]: Commencement: S. 134 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-540ba2e8b5939e24714cd6fbc7646427]: Textual amendment: Words in s. 134(8) substituted (15.3.2021 for specified purposes) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/4), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2)
+[^c-540ba2e8b5939e24714cd6fbc7646427]: Textual amendment: Words in s. 134(8) substituted (15.3.2021 for specified purposes) by [Telecommunications Infrastructure (Leasehold Property) Act 2021 (c. 7)](https://www.legislation.gov.uk/ukpga/2021/7), [s. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2021/7/section/3/4), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/7/schedule/paragraph/2)

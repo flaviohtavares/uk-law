@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2021 (revoked)[^key-2d9ee75f6473f705ebc88a1bdef5af56]
+The Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2021 (revoked)[^c-2d9ee75f6473f705ebc88a1bdef5af56]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 16 August 2021
 
-[^key-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and interpretation[^key-2d9ee75f6473f705ebc88a1bdef5af56]
+## 1. Title, coming into force and interpretation[^c-2d9ee75f6473f705ebc88a1bdef5af56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2012 Regulations[^key-2d9ee75f6473f705ebc88a1bdef5af56]
+## 2. Amendments to the 2012 Regulations[^c-2d9ee75f6473f705ebc88a1bdef5af56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-2d9ee75f6473f705ebc88a1bdef5af56]
+## 3. Transitional provision[^c-2d9ee75f6473f705ebc88a1bdef5af56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ee75f6473f705ebc88a1bdef5af56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d9ee75f6473f705ebc88a1bdef5af56]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/832) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(g)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/g)
+[^c-2d9ee75f6473f705ebc88a1bdef5af56]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/832) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(g)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/g)

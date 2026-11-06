@@ -52,7 +52,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 1.3 — Revocation](part-1/section-1-3.md)
 - [Section 1.4 — Application](part-1/section-1-4.md)
 
-### CHAPTER 1A — LAY REPRESENTATION[^key-ca97b2f20c3d39a604912ff0b6e9fc77]
+### CHAPTER 1A — LAY REPRESENTATION[^c-ca97b2f20c3d39a604912ff0b6e9fc77]
 
 - [Section 1A.1 — Application and interpretation](part-2n1/section-1a-1.md)
 - [Section 1A.2 — Lay representation for party litigants](part-2n1/section-1a-2.md)
@@ -154,39 +154,39 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.3.1 — Interpretation and application](part-3/section-3-3-1.md)
 - [Section 3.3.2 — Applications under section 41 of the Act](part-3/section-3-3-2.md)
 
-#### PART IV — ENFORCEMENT OF SECURITIES OVER HERITABLE PROPERTY[^key-860a02382f1f8e92ffdd49619cebf833]
+#### PART IV — ENFORCEMENT OF SECURITIES OVER HERITABLE PROPERTY[^c-860a02382f1f8e92ffdd49619cebf833]
 
 *Extent: S*
 
-##### SECTION 1 — Interpretation[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 1 — Interpretation[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.1](part-3/section-3-4-1.md)
 
-##### SECTION 2 — Disposal of applications under Part II of the 1970 Act for non-residential purposes[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 2 — Disposal of applications under Part II of the 1970 Act for non-residential purposes[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.2](part-3/section-3-4-2.md)
 
-##### SECTION 3 — Initial writ[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 3 — Initial writ[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.3](part-3/section-3-4-3.md)
 
-##### SECTION 4 — Appointment of Hearing[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 4 — Appointment of Hearing[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.4](part-3/section-3-4-4.md)
 
-##### SECTION 5 — Answers[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 5 — Answers[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.5](part-3/section-3-4-5.md)
 
-##### SECTION 6 Intimation to known entitled residents[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 6 Intimation to known entitled residents[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.6](part-3/section-3-4-6.md)
 
-##### SECTION 7 — Application to court by entitled residents[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 7 — Application to court by entitled residents[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.7](part-3/section-3-4-7.md)
 
-##### SECTION 8 — Recall of decree[^key-860a02382f1f8e92ffdd49619cebf833]
+##### SECTION 8 — Recall of decree[^c-860a02382f1f8e92ffdd49619cebf833]
 
 - [Section 3.4.8](part-3/section-3-4-8.md)
 
@@ -199,7 +199,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.5.3 — Service of notice on interested persons](part-3/section-3-5-3.md)
 - [Section 3.5.4 — Procedure where leave of court required](part-3/section-3-5-4.md)
 
-#### PART VI — DRUG TRAFFICKING ACT 1994[^key-e52ec693f2879410f3f9337418b6f383]
+#### PART VI — DRUG TRAFFICKING ACT 1994[^c-e52ec693f2879410f3f9337418b6f383]
 
 *Extent: S*
 
@@ -302,7 +302,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.12.2 — Application](part-3/section-3-12-2.md)
 - [Section 3.12.3 — Recognition and enforcement of awards](part-3/section-3-12-3.md)
 
-#### PART XIII — SEX DISCRIMINATION ACT 1975[^key-4334664546677b9a842b54089cf16a85]
+#### PART XIII — SEX DISCRIMINATION ACT 1975[^c-4334664546677b9a842b54089cf16a85]
 
 *Extent: S*
 
@@ -313,13 +313,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.13.3 — Taxation of Commission expenses](part-3/section-3-13-3.md)
 - [Section 3.13.4 — Proceedings under section 66 of the Act](part-3/section-3-13-4.md)
 
-#### PART XIV — ACCESS TO HEALTH RECORDS ACT 1990[^key-c4ebf9a6ea4df61362b1a064a45c9acd]
+#### PART XIV — ACCESS TO HEALTH RECORDS ACT 1990[^c-c4ebf9a6ea4df61362b1a064a45c9acd]
 
 - [Section 3.14.1 — Interpretation and application](part-3/section-3-14-1.md)
 - [Section 3.14.2 — Accompanying documents](part-3/section-3-14-2.md)
 - [Section 3.14.3 — Time of making application](part-3/section-3-14-3.md)
 
-#### PART XV — RACE RELATIONS ACT 1976[^key-359af24cd11a94f1f0caafb162dd28f6]
+#### PART XV — RACE RELATIONS ACT 1976[^c-359af24cd11a94f1f0caafb162dd28f6]
 
 **No longer in force.**
 
@@ -328,7 +328,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.15.3 — Intimation of proceedings](part-3/section-3-15-3.md)
 - [Section 3.15.4 — Taxation](part-3/section-3-15-4.md)
 
-#### PART XVI — ADULTS WITH INCAPACITY (SCOTLAND) ACT 2000[^key-9d9cf3b73afc5cb443a087246935751a]
+#### PART XVI — ADULTS WITH INCAPACITY (SCOTLAND) ACT 2000[^c-9d9cf3b73afc5cb443a087246935751a]
 
 - [Section 3.16.1 — Interpretation](part-3/section-3-16-1.md)
 - [Section 3.16.2 — Appointment of hearing](part-3/section-3-16-2.md)
@@ -344,7 +344,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.16.12 — Registration of intervention order or guardianship order relating to heritable property](part-3/section-3-16-12.md)
 - [Section 3.16.13 — Non-compliance with decisions of guardians with welfare powers](part-3/section-3-16-13.md)
 
-#### PART XVII — ANTI-TERRORISM, CRIME AND SECURITY ACT 2001[^key-7c2a1a88c0e8fce5a4193f56fa2c37d0]
+#### PART XVII — ANTI-TERRORISM, CRIME AND SECURITY ACT 2001[^c-7c2a1a88c0e8fce5a4193f56fa2c37d0]
 
 - [Section 3.17.1 — Interpretation](part-3/section-3-17-1.md)
 - [Section 3.17.2 — Applications for extended detention of cash or seized property](part-3/section-3-17-2.md)
@@ -355,19 +355,19 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.17.7 — Applications for forfeiture order](part-3/section-3-17-7.md)
 - [Section 3.17.8 — Associated and joint property: transfer to Court of Session](part-3/section-3-17-8.md)
 
-#### PART XVIII — LOCAL GOVERNMENT (SCOTLAND) ACT 1973[^key-0e8159cec0543401d782d71da3b4d9de]
+#### PART XVIII — LOCAL GOVERNMENT (SCOTLAND) ACT 1973[^c-0e8159cec0543401d782d71da3b4d9de]
 
 - [Section 3.18.1 — Application](part-3/section-3-18-1.md)
 - [Section 3.18.2 — Appeals](part-3/section-3-18-2.md)
 - [Section 3.18.3 — Warrant and form of citation](part-3/section-3-18-3.md)
 
-#### PART XIX — PROCEEDS OF CRIME ACT 2002[^key-11dda865ee3ea5bd922d881e17908272]
+#### PART XIX — PROCEEDS OF CRIME ACT 2002[^c-11dda865ee3ea5bd922d881e17908272]
 
-##### General[^key-11dda865ee3ea5bd922d881e17908272]
+##### General[^c-11dda865ee3ea5bd922d881e17908272]
 
 - [Section 3.19.1 — Interpretation and application](part-3/section-3-19-1.md)
 
-##### Recovery of cash or further detention of seized property in summary proceedings[^key-11dda865ee3ea5bd922d881e17908272][^key-2f1f3515a752b92254d3b8c009cce33e]
+##### Recovery of cash or further detention of seized property in summary proceedings[^c-11dda865ee3ea5bd922d881e17908272][^c-2f1f3515a752b92254d3b8c009cce33e]
 
 - [Section 3.19.2 — Applications for extended detention of cash or property](part-3/section-3-19-2.md)
 - [Section 3.19.3 — Applications for release of detained cash or detained property](part-3/section-3-19-3.md)
@@ -376,7 +376,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.19.5 — Applications for compensation](part-3/section-3-19-5.md)
 - [Section 3.19.5A — Associated and joint property: transfer to Court of Session](part-3/section-3-19-5a.md)
 
-##### Restraint and administration orders[^key-c9fc3a292a1255ef56b6f6bd259ab867]
+##### Restraint and administration orders[^c-c9fc3a292a1255ef56b6f6bd259ab867]
 
 - [Section 3.19.6 — Service of restraint orders](part-3/section-3-19-6.md)
 - [Section 3.19.7 — Recall or variation of restraint orders](part-3/section-3-19-7.md)
@@ -395,35 +395,35 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.19.19 — Application for discharge of administrator](part-3/section-3-19-19.md)
 - [Section 3.19.20 — Appeals against determination of outlays and remuneration](part-3/section-3-19-20.md)
 
-##### Detention and realisation of seized property[^key-8b48dfef446cf63c7ba114afa9983f73]
+##### Detention and realisation of seized property[^c-8b48dfef446cf63c7ba114afa9983f73]
 
 - [Section 3.19.20A — Discharge or variation of detention order](part-3/section-3-19-20a.md)
 - [Section 3.19.20B — Appeals to the Court of Session](part-3/section-3-19-20b.md)
 
-##### Civil recovery and detained cash investigations[^M_F_b207711e-ebc7-4264-e338-6e8bfd6f4dfd][^key-ddbee1b884d2ff31f5890b9030c85c2b]
+##### Civil recovery and detained cash investigations[^M_F_b207711e-ebc7-4264-e338-6e8bfd6f4dfd][^c-ddbee1b884d2ff31f5890b9030c85c2b]
 
 - [Section 3.19.21 — Production orders](part-3/section-3-19-21.md)
 - [Section 3.19.22 — Search warrants](part-3/section-3-19-22.md)
 - [Section 3.19.23 — Customer information orders](part-3/section-3-19-23.md)
 - [Section 3.19.24 — Account monitoring orders](part-3/section-3-19-24.md)
 
-#### PART XX — INTERNATIONAL CRIMINAL COURT (SCOTLAND) ACT 2001[^key-10c7ba94a834a7739c8f9cee6896c409]
+#### PART XX — INTERNATIONAL CRIMINAL COURT (SCOTLAND) ACT 2001[^c-10c7ba94a834a7739c8f9cee6896c409]
 
-##### General[^key-10c7ba94a834a7739c8f9cee6896c409]
+##### General[^c-10c7ba94a834a7739c8f9cee6896c409]
 
 - [Section 3.20.1 — Interpretation and application](part-3/section-3-20-1.md)
 
-##### Investigations of proceeds of ICC crime[^key-10c7ba94a834a7739c8f9cee6896c409]
+##### Investigations of proceeds of ICC crime[^c-10c7ba94a834a7739c8f9cee6896c409]
 
 - [Section 3.20.2 — Production or access orders](part-3/section-3-20-2.md)
 - [Section 3.20.3 — Search warrants](part-3/section-3-20-3.md)
 
-#### PART XXI — IMMIGRATION AND ASYLUM ACT 1999[^key-ee0f7080e7951d56d8ad4e3e3809c1ae]
+#### PART XXI — IMMIGRATION AND ASYLUM ACT 1999[^c-ee0f7080e7951d56d8ad4e3e3809c1ae]
 
 - [Section 3.21.1 — Interpretation](part-3/section-3-21-1.md)
 - [Section 3.21.2 — Appeals](part-3/section-3-21-2.md)
 
-#### PART XXII — CRIME AND DISORDER ACT 1998[^key-48b5c22c289dce7141533ab6d2b08ce0]
+#### PART XXII — CRIME AND DISORDER ACT 1998[^c-48b5c22c289dce7141533ab6d2b08ce0]
 
 **No longer in force.**
 
@@ -431,13 +431,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.22.2 — Application for an interim ASBO](part-3/section-3-22-2.md)
 - [Section 3.22.3 — Intimation of an ASBO](part-3/section-3-22-3.md)
 
-#### PART XXIII — ETHICAL STANDARDS IN PUBLIC LIFE ETC. (SCOTLAND) ACT 2000[^key-67d97a9ab060e6dfe810a90facb90247]
+#### PART XXIII — ETHICAL STANDARDS IN PUBLIC LIFE ETC. (SCOTLAND) ACT 2000[^c-67d97a9ab060e6dfe810a90facb90247]
 
 - [Section 3.23.1 — Application](part-3/section-3-23-1.md)
 - [Section 3.23.2 — Appeals](part-3/section-3-23-2.md)
 - [Section 3.23.3 — Warrant and form of citation](part-3/section-3-23-3.md)
 
-#### PART XXIV — INTERNATIONAL PROTECTION OF ADULTS[^key-cef26b97ac18d40c7296328ff96d8e6d]
+#### PART XXIV — INTERNATIONAL PROTECTION OF ADULTS[^c-cef26b97ac18d40c7296328ff96d8e6d]
 
 - [Section 3.24.1 — Interpretation](part-3/section-3-24-1.md)
 - [Section 3.24.2 — Application](part-3/section-3-24-2.md)
@@ -445,7 +445,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.24.4 — Notice to the Public Guardian](part-3/section-3-24-4.md)
 - [Section 3.24.5 — Register of recognised foreign measures](part-3/section-3-24-5.md)
 
-#### PART XXV — SEXUAL OFFENCES ACT 2003[^key-9c611f1286c715afd98421dc557c0ffb]
+#### PART XXV — SEXUAL OFFENCES ACT 2003[^c-9c611f1286c715afd98421dc557c0ffb]
 
 *Extent: S*
 
@@ -457,7 +457,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.25.6 — Variation, renewal or discharge of FTOs](part-3/section-3-25-6.md)
 - [Section 3.25.7 — Interim SOPOs](part-3/section-3-25-7.md)
 
-#### PART XXVI — PROTECTION OF CHILDREN (SCOTLAND) ACT 2003[^key-dac4ba27d569036df4aaea57c9d9922e]
+#### PART XXVI — PROTECTION OF CHILDREN (SCOTLAND) ACT 2003[^c-dac4ba27d569036df4aaea57c9d9922e]
 
 - [Section 3.26.1 — Interpretation](part-3/section-3-26-1.md)
 - [Section 3.26.2 — Application](part-3/section-3-26-2.md)
@@ -466,7 +466,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.26.5 — Appeal: inclusion in lists under section 5 or 6 of the Act](part-3/section-3-26-5.md)
 - [Section 3.26.6 — Appeals: to the sheriff principal or to the Inner House of the Court of Session](part-3/section-3-26-6.md)
 
-#### PART XXVII — ANTISOCIAL BEHAVIOUR ETC. (SCOTLAND) ACT 2004[^key-c5f274493532a530c78070f0011164cb]
+#### PART XXVII — ANTISOCIAL BEHAVIOUR ETC. (SCOTLAND) ACT 2004[^c-c5f274493532a530c78070f0011164cb]
 
 - [Section 3.27.1 — Interpretation](part-3/section-3-27-1.md)
 - [Section 3.27.2 — Applications for variation or revocation of ASBOs to be made by minute in the original process](part-3/section-3-27-2.md)
@@ -485,7 +485,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.27.16 — Procedural requirements relating to parenting orders](part-3/section-3-27-16.md)
 - [Section 3.27.18 — Enforcement of local authorities' duties under section 71 of the Children (Scotland) Act 1995](part-3/section-3-27-18.md)
 
-#### PART XXVIII — LAND REFORM (SCOTLAND) ACT 2003[^key-569fc6e8e58dbc9431662a7d27c96859]
+#### PART XXVIII — LAND REFORM (SCOTLAND) ACT 2003[^c-569fc6e8e58dbc9431662a7d27c96859]
 
 - [Section 3.28.1 — Interpretation](part-3/section-3-28-1.md)
 - [Section 3.28.2 — Public notice of appeal against section 14(2) remedial notice](part-3/section-3-28-2.md)
@@ -493,7 +493,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.28.4 — Public notice and restriction on number of parties to section 15 application](part-3/section-3-28-4.md)
 - [Section 3.28.5 — Public notice and restriction on number of parties to section 28 application](part-3/section-3-28-5.md)
 
-#### PART XXIX — RISK OF SEXUAL HARM ORDERS[^key-bbddc89748358e5e58e86fa421b8061a]
+#### PART XXIX — RISK OF SEXUAL HARM ORDERS[^c-bbddc89748358e5e58e86fa421b8061a]
 
 *Extent: S*
 
@@ -502,25 +502,25 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.29.3 — Interim RSHOs](part-3/section-3-29-3.md)
 - [Section 3.29.4 — Service of RSHOs](part-3/section-3-29-4.md)
 
-#### PART XXX — MENTAL HEALTH (CARE AND TREATMENT) (SCOTLAND) ACT 2003[^key-79fecdfbefba760f6dcb734678d735b2]
+#### PART XXX — MENTAL HEALTH (CARE AND TREATMENT) (SCOTLAND) ACT 2003[^c-79fecdfbefba760f6dcb734678d735b2]
 
 - [Section 3.30.1 — Interpretation](part-3/section-3-30-1.md)
 - [Section 3.30.2 — Applications for removal orders](part-3/section-3-30-2.md)
 - [Section 3.30.3 — Applications for recall or variation of removal orders](part-3/section-3-30-3.md)
 - [Section 3.30.4 — Remit to Court of Session](part-3/section-3-30-4.md)
 
-#### PART XXXI — FOOTBALL BANNING ORDERS[^key-fa447fd09f0a7fc734f80396883d76d7]
+#### PART XXXI — FOOTBALL BANNING ORDERS[^c-fa447fd09f0a7fc734f80396883d76d7]
 
 - [Section 3.31.1 — Interpretation](part-3/section-3-31-1.md)
 - [Section 3.31.2 — Applications for variation or termination of a football banning order](part-3/section-3-31-2.md)
 
-#### PART XXXII — ANIMAL HEALTH AND WELFARE[^key-fa447fd09f0a7fc734f80396883d76d7]
+#### PART XXXII — ANIMAL HEALTH AND WELFARE[^c-fa447fd09f0a7fc734f80396883d76d7]
 
 - [Section 3.32.1 — Interpretation](part-3/section-3-32-1.md)
 - [Section 3.32.2 — Interim orders](part-3/section-3-32-2.md)
 - [Section 3.32.3 — Interim orders pending appeal](part-3/section-3-32-3.md)
 
-#### PART XXXIII — The Equality Act 2010[^key-6adfdc8da9b2fb678b73f2e77381cbcc][^key-05fbf3f9a4f93c2f5cf88a2d8c298b32]
+#### PART XXXIII — The Equality Act 2010[^c-6adfdc8da9b2fb678b73f2e77381cbcc][^c-05fbf3f9a4f93c2f5cf88a2d8c298b32]
 
 - [Section 3.33.1 — Application and interpretation](part-3/section-3-33-1.md)
 - [Section 3.33.2 — Intimation to Commission](part-3/section-3-33-2.md)
@@ -530,7 +530,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.33.6 — Transfer to Employment Tribunal](part-3/section-3-33-6.md)
 - [Section 3.33.7 — Transfer from Employment Tribunal](part-3/section-3-33-7.md)
 
-#### PART XXXIV — LICENSING (SCOTLAND) ACT 2005[^key-aefa5f1a33e439483fc76120e44f0367]
+#### PART XXXIV — LICENSING (SCOTLAND) ACT 2005[^c-aefa5f1a33e439483fc76120e44f0367]
 
 - [Section 3.34 — Appeals](part-3/section-3-34.md)
 - [Section 3.34.1 — Interpretation](part-3/section-3-34-1.md)
@@ -542,7 +542,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.34.7 — Hearing of appeal](part-3/section-3-34-7.md)
 - [Section 3.34.8 — Recall of suspension or revocation](part-3/section-3-34-8.md)
 
-#### PART XXXV — ADULT SUPPORT AND PROTECTION (SCOTLAND) ACT 2007[^key-cf33d0e2a05e24828510d94ab6800104]
+#### PART XXXV — ADULT SUPPORT AND PROTECTION (SCOTLAND) ACT 2007[^c-cf33d0e2a05e24828510d94ab6800104]
 
 - [Section 3.35.1 — Interpretation](part-3/section-3-35-1.md)
 - [Section 3.35.2 — Variation or recall of removal order](part-3/section-3-35-2.md)
@@ -554,20 +554,20 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.35.8 — Applications for leave to appeal to the Sheriff Appeal Court](part-3/section-3-35-8.md)
 - [Section 3.35.9 — Privacy of any hearing](part-3/section-3-35-9.md)
 
-#### Part XXXVI — UK BORDERS ACT 2007[^key-6754ba6f6020358f1c36dfbf3c1ba0c1]
+#### Part XXXVI — UK BORDERS ACT 2007[^c-6754ba6f6020358f1c36dfbf3c1ba0c1]
 
 - [Section 3.36.1 — Interpretation](part-3/section-3-36-1.md)
 - [Section 3.36.2 — Appeals](part-3/section-3-36-2.md)
 
-#### PART XXXVII — EMPLOYMENT TRIBUNALS ACT 1996[^key-d5c5e0c240d1bfcef8fff1116b9c10be]
+#### PART XXXVII — EMPLOYMENT TRIBUNALS ACT 1996[^c-d5c5e0c240d1bfcef8fff1116b9c10be]
 
 - [Section 3.37.1 — Conciliation: recovery of sums payable under compromises](part-3/section-3-37-1.md)
 
-#### PART XXXVIII — Counter-Terrorism Act 2008[^key-db15cf71f07ca23c2cc7f3dc06e7933b]
+#### PART XXXVIII — Counter-Terrorism Act 2008[^c-db15cf71f07ca23c2cc7f3dc06e7933b]
 
 - [Section 3.38 — Variation, renewal or discharge of foreign travel restriction order](part-3/section-3-38.md)
 
-#### PART XXXIX — PUBLIC HEALTH ETC. (SCOTLAND) ACT 2008[^key-57e17c302403de12e9badf5f1cb6d28b]
+#### PART XXXIX — PUBLIC HEALTH ETC. (SCOTLAND) ACT 2008[^c-57e17c302403de12e9badf5f1cb6d28b]
 
 - [Section 3.39.1 — Interpretation](part-3/section-3-39-1.md)
 - [Section 3.39.2 — Application for a public health investigation warrant](part-3/section-3-39-2.md)
@@ -585,13 +585,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.39.14 — Application for an order for disposal of a body](part-3/section-3-39-14.md)
 - [Section 3.39.15 — Application for appointment of a single arbiter to determine a dispute in relation to compensation](part-3/section-3-39-15.md)
 
-#### PART XL — FORCED MARRIAGE ETC. (PROTECTION AND JURISDICTION) (SCOTLAND) ACT 2011[^key-eb897d04d5a94f4c487cd2c858a99631]
+#### PART XL — FORCED MARRIAGE ETC. (PROTECTION AND JURISDICTION) (SCOTLAND) ACT 2011[^c-eb897d04d5a94f4c487cd2c858a99631]
 
 - [Section 3.40.1 — Interpretation](part-3/section-3-40-1.md)
 - [Section 3.40.2 — Applications for leave for a forced marriage protection order](part-3/section-3-40-2.md)
 - [Section 3.40.3 — Applications for variation, recall or extension of a forced marriage protection order](part-3/section-3-40-3.md)
 
-#### Part XLI — REPORTING RESTRICTIONS[^key-5e873d681686b174c9286dbf0f22f8ec]
+#### Part XLI — REPORTING RESTRICTIONS[^c-5e873d681686b174c9286dbf0f22f8ec]
 
 - [Section 3.41.1 — Interpretation and application of this Part](part-3/section-3-41-1.md)
 - [Section 3.41.1A — Application for an order](part-3/section-3-41-1a.md)
@@ -600,23 +600,23 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.41.4 — Notification of reporting restrictions](part-3/section-3-41-4.md)
 - [Section 3.41.5 — Applications for variation or revocation](part-3/section-3-41-5.md)
 
-#### PART XLII — REGULATION OF INVESTIGATORY POWERS ACT 2000[^key-4dea6755b010b07abef86cb798ced6e0]
+#### PART XLII — REGULATION OF INVESTIGATORY POWERS ACT 2000[^c-4dea6755b010b07abef86cb798ced6e0]
 
 - [Section 3.42.1 — Interpretation](part-3/section-3-42-1.md)
 - [Section 3.42.2 — Authorisations requiring judicial approval](part-3/section-3-42-2.md)
 
-#### PART XLIII — PROCEEDS OF CRIME ACT 2002 (EXTERNAL INVESTIGATIONS) ORDER 2013[^key-ae58d956a365fcf11e29e5d6da6f746a]
+#### PART XLIII — PROCEEDS OF CRIME ACT 2002 (EXTERNAL INVESTIGATIONS) ORDER 2013[^c-ae58d956a365fcf11e29e5d6da6f746a]
 
 - [Section 3.43.1 — Application of this Part](part-3/section-3-43-1.md)
 - [Section 3.43.2 — Applications](part-3/section-3-43-2.md)
 
-#### PART XLIV — Gender Recognition Act 2004[^key-c77e4e6e2324ee0d25f2d1f47f8110d6]
+#### PART XLIV — Gender Recognition Act 2004[^c-c77e4e6e2324ee0d25f2d1f47f8110d6]
 
 - [Section 3.44.1](part-3/section-3-44-1.md)
 - [Section 3.44.2](part-3/section-3-44-2.md)
 - [Section 3.44.3](part-3/section-3-44-3.md)
 
-#### PART XLV — MUTUAL RECOGNITION OF PROTECTION MEASURES IN CIVIL MATTERS[^key-47f4241d0e20fb75f53bfb61ae0bf88c]
+#### PART XLV — MUTUAL RECOGNITION OF PROTECTION MEASURES IN CIVIL MATTERS[^c-47f4241d0e20fb75f53bfb61ae0bf88c]
 
 - [Section 3.45.1 — Interpretation](part-3/section-3-45-1.md)
 - [Section 3.45.2 — Application of rules 3.45.3 to 3.45.9](part-3/section-3-45-2.md)
@@ -632,26 +632,26 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.45.12 — Attachment of power of arrest to incoming protection measure](part-3/section-3-45-12.md)
 - [Section 3.45.13 — Determination that incoming protection measure is a domestic abuse interdict](part-3/section-3-45-13.md)
 
-#### PART XLVI — COUNTER-TERRORISM AND SECURITY ACT 2015[^key-88ed6d0b9b208b5def0a7cb3d66b4191]
+#### PART XLVI — COUNTER-TERRORISM AND SECURITY ACT 2015[^c-88ed6d0b9b208b5def0a7cb3d66b4191]
 
 - [Section 3.46.1 — Interpretation](part-3/section-3-46-1.md)
 - [Section 3.46.2 — Applications for extended retention of travel documents](part-3/section-3-46-2.md)
 - [Section 3.46.3 — Further applications for extended retention of travel documents](part-3/section-3-46-3.md)
 
-#### PART XLVII — SERIOUS CRIME PREVENTION ORDERS[^key-d3599cb8149db72584c2124e037b9487]
+#### PART XLVII — SERIOUS CRIME PREVENTION ORDERS[^c-d3599cb8149db72584c2124e037b9487]
 
 - [Section 3.47.1 — Interpretation](part-3/section-3-47-1.md)
 - [Section 3.47.2 — Serious Crime Prevention Orders](part-3/section-3-47-2.md)
 - [Section 3.47.3 — Third party representations](part-3/section-3-47-3.md)
 - [Section 3.47.4 — Variation or discharge of a serious crime prevention order](part-3/section-3-47-4.md)
 
-#### PART XLVIII — TRAFFICKING AND EXPLOITATION ORDERS[^key-01b29d68321361bf5fb333fcecb790b9]
+#### PART XLVIII — TRAFFICKING AND EXPLOITATION ORDERS[^c-01b29d68321361bf5fb333fcecb790b9]
 
 - [Section 3.48.1 — Interpretation](part-3/section-3-48-1.md)
 - [Section 3.48.2 — Variation, renewal or discharge of trafficking and exploitation prevention orders](part-3/section-3-48-2.md)
 - [Section 3.48.3 — Variation, renewal or discharge of a trafficking and exploitation risk order](part-3/section-3-48-3.md)
 
-#### PART XLIX — ILLEGAL WORKING AND LABOUR MARKET ENFORCEMENT ORDERS[^key-4e58feccc776cf258db463e366db5c91][^key-c4b8f4b85ded1d11fabfad61be52107d]
+#### PART XLIX — ILLEGAL WORKING AND LABOUR MARKET ENFORCEMENT ORDERS[^c-4e58feccc776cf258db463e366db5c91][^c-c4b8f4b85ded1d11fabfad61be52107d]
 
 *Extent: S*
 
@@ -660,7 +660,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.49.3 — Applications for compensation](part-3/section-3-49-3.md)
 - [Section 3.49.4 — Labour market enforcement orders](part-3/section-3-49-4.md)
 
-#### PART L — ELECTRONIC COMMUNICATIONS CODE[^key-602f27fb984c6fb935f1ec3ddf9e667c][^key-2248cff729e4619d627bef586c83c808]
+#### PART L — ELECTRONIC COMMUNICATIONS CODE[^c-602f27fb984c6fb935f1ec3ddf9e667c][^c-2248cff729e4619d627bef586c83c808]
 
 - [Section 3.50.1 — Interpretation](part-3/section-3-50-1.md)
 - [Section 3.50.2 — Transfer from Lands Tribunal for Scotland](part-3/section-3-50-2.md)
@@ -670,17 +670,17 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.50.6 — Opposition to application](part-3/section-3-50-6.md)
 - [Section 3.50.7 — Procedure where no notice of opposition is lodged](part-3/section-3-50-7.md)
 
-#### PART LI — DRUG DEALING TELECOMMUNICATIONS RESTRICTION ORDERS[^key-2dfd10a6725564d64ab53d0d2ba742df]
+#### PART LI — DRUG DEALING TELECOMMUNICATIONS RESTRICTION ORDERS[^c-2dfd10a6725564d64ab53d0d2ba742df]
 
 - [Section 3.51.1 — Interpretation](part-3/section-3-51-1.md)
 - [Section 3.51.2 — Drug Dealing Telecommunications Restriction Orders](part-3/section-3-51-2.md)
 
-#### PART LII — CARE HOMES: EMERGENCY INTERVENTION ORDERS[^key-e43cc05e39d7cdb8caa254b5651e77dd]
+#### PART LII — CARE HOMES: EMERGENCY INTERVENTION ORDERS[^c-e43cc05e39d7cdb8caa254b5651e77dd]
 
 - [Section 3.52.1 — Interpretation](part-3/section-3-52-1.md)
 - [Section 3.52.2 — Applications under section 65A of the 2010 Act](part-3/section-3-52-2.md)
 
-#### PART LIII — AGE OF CRIMINAL RESPONSIBILITY (SCOTLAND) ACT 2019[^key-53ac967347e3e86a47bec466f58b049e]
+#### PART LIII — AGE OF CRIMINAL RESPONSIBILITY (SCOTLAND) ACT 2019[^c-53ac967347e3e86a47bec466f58b049e]
 
 - [Section 3.53.1 — Application and interpretation of this Part](part-3/section-3-53-1.md)
 - [Section 3.53.2 — Form of application](part-3/section-3-53-2.md)
@@ -688,7 +688,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred on
 - [Section 3.53.4 — Form of order](part-3/section-3-53-4.md)
 - [Section 3.53.5 — Permission to appeal to Sheriff Appeal Court](part-3/section-3-53-5.md)
 
-#### PART LIV — SEXUAL HARM PREVENTION ORDERS AND SEXUAL RISK ORDERS[^key-ccedc83d5ee36cd08e49c826bbb7d969]
+#### PART LIV — SEXUAL HARM PREVENTION ORDERS AND SEXUAL RISK ORDERS[^c-ccedc83d5ee36cd08e49c826bbb7d969]
 
 - [Section 3.54.1 — Interpretation](part-3/section-3-54-1.md)
 - [Section 3.54.2 — Warrant, Form of Citation and notices](part-3/section-3-54-2.md)
@@ -1179,108 +1179,108 @@ Chapter 3 contains specific provision in relation to applications, proceedings a
 
 [^f00012]: Footnote: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
 
-[^key-ca97b2f20c3d39a604912ff0b6e9fc77]: Textual amendment: Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/3/3)
+[^c-ca97b2f20c3d39a604912ff0b6e9fc77]: Textual amendment: Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/3/3)
 
 [^M_F_8134007b-1ce7-4922-f7b3-19a2f181316e]: Textual amendment: Ch. 3 Pt. 2 omitted (1.7.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 (S.S.I. 2008/223)](https://www.legislation.gov.uk/ssi/2008/223), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/14/3)
 
-[^key-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
+[^c-860a02382f1f8e92ffdd49619cebf833]: Textual amendment: Ch. 3 Pt. 4 substituted (30.9.2010) by [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/4) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
 
-[^key-e52ec693f2879410f3f9337418b6f383]: Textual amendment: Ch. 3 Pt. 6 revoked (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(3)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/3)
+[^c-e52ec693f2879410f3f9337418b6f383]: Textual amendment: Ch. 3 Pt. 6 revoked (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(3)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/3)
 
-[^key-4334664546677b9a842b54089cf16a85]: Textual amendment: Ch. 3 Pt. 13 omitted (3.11.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/2)
+[^c-4334664546677b9a842b54089cf16a85]: Textual amendment: Ch. 3 Pt. 13 omitted (3.11.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/2)
 
-[^key-c4ebf9a6ea4df61362b1a064a45c9acd]: Textual amendment: Ch. 3 Pt. 14 inserted (3.7.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment 2000 (S.S.I. 2000/148)](https://www.legislation.gov.uk/ssi/2000/148), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/2/2)
+[^c-c4ebf9a6ea4df61362b1a064a45c9acd]: Textual amendment: Ch. 3 Pt. 14 inserted (3.7.2000) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment 2000 (S.S.I. 2000/148)](https://www.legislation.gov.uk/ssi/2000/148), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2000/148/paragraph/2/2)
 
-[^key-359af24cd11a94f1f0caafb162dd28f6]: Textual amendment: Ch. 3 Pt. 15 omitted (3.11.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/2)
+[^c-359af24cd11a94f1f0caafb162dd28f6]: Textual amendment: Ch. 3 Pt. 15 omitted (3.11.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/2)
 
-[^key-9d9cf3b73afc5cb443a087246935751a]: Textual amendment: Ch. 3 Pt. 16 inserted (2.4.2001) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adults with Incapacity) 2001 (S.S.I. 2001/142)](https://www.legislation.gov.uk/ssi/2001/142), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/3/2)
+[^c-9d9cf3b73afc5cb443a087246935751a]: Textual amendment: Ch. 3 Pt. 16 inserted (2.4.2001) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adults with Incapacity) 2001 (S.S.I. 2001/142)](https://www.legislation.gov.uk/ssi/2001/142), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2001/142/paragraph/3/2)
 
-[^key-7c2a1a88c0e8fce5a4193f56fa2c37d0]: Textual amendment: Ch. 3 Pt. 17 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Detention and Forfeiture of Terrorist Cash) 2002 (S.S.I. 2002/129)](https://www.legislation.gov.uk/ssi/2002/129), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/2/2)
+[^c-7c2a1a88c0e8fce5a4193f56fa2c37d0]: Textual amendment: Ch. 3 Pt. 17 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Detention and Forfeiture of Terrorist Cash) 2002 (S.S.I. 2002/129)](https://www.legislation.gov.uk/ssi/2002/129), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/2/2)
 
-[^key-0e8159cec0543401d782d71da3b4d9de]: Textual amendment: Ch. 3 Pt. 18 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Local Government (Scotland) Act 1973) 2002 (S.S.I. 2002/130)](https://www.legislation.gov.uk/ssi/2002/130), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/2/3)
+[^c-0e8159cec0543401d782d71da3b4d9de]: Textual amendment: Ch. 3 Pt. 18 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Local Government (Scotland) Act 1973) 2002 (S.S.I. 2002/130)](https://www.legislation.gov.uk/ssi/2002/130), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/2/3)
 
-[^key-11dda865ee3ea5bd922d881e17908272]: Textual amendment: Ch. 3 Pt. 19 inserted (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/2)
+[^c-11dda865ee3ea5bd922d881e17908272]: Textual amendment: Ch. 3 Pt. 19 inserted (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/2)
 
-[^key-2f1f3515a752b92254d3b8c009cce33e]: Textual amendment: Words in rule 3.19.2 cross-heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/c/i)
+[^c-2f1f3515a752b92254d3b8c009cce33e]: Textual amendment: Words in rule 3.19.2 cross-heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/3/c/i)
 
-[^key-c9fc3a292a1255ef56b6f6bd259ab867]: Textual amendment: Rules 3.19.6 –3.19.20 and cross-heading inserted (24.3.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)
+[^c-c9fc3a292a1255ef56b6f6bd259ab867]: Textual amendment: Rules 3.19.6 –3.19.20 and cross-heading inserted (24.3.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)
 
-[^key-8b48dfef446cf63c7ba114afa9983f73]: Textual amendment: Rules 3.19.20A, 3.19.20B and cross-heading inserted (1.10.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Policing and Crime Act 2009) 2013 (S.S.I. 2013/241)](https://www.legislation.gov.uk/ssi/2013/241), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/241/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2013/241/paragraph/2)
+[^c-8b48dfef446cf63c7ba114afa9983f73]: Textual amendment: Rules 3.19.20A, 3.19.20B and cross-heading inserted (1.10.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Policing and Crime Act 2009) 2013 (S.S.I. 2013/241)](https://www.legislation.gov.uk/ssi/2013/241), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/241/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2013/241/paragraph/2)
 
 [^M_F_b207711e-ebc7-4264-e338-6e8bfd6f4dfd]: Textual amendment: Rule 3.19.21 cross-heading substituted (1.7.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 (S.S.I. 2008/223)](https://www.legislation.gov.uk/ssi/2008/223), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1), [14(4)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/14/4)
 
-[^key-ddbee1b884d2ff31f5890b9030c85c2b]: Textual amendment: Rules 3.19.21 –3.19.24 and cross-heading inserted (24.2.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)
+[^c-ddbee1b884d2ff31f5890b9030c85c2b]: Textual amendment: Rules 3.19.21 –3.19.24 and cross-heading inserted (24.2.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)
 
-[^key-10c7ba94a834a7739c8f9cee6896c409]: Textual amendment: Ch. 3 Pt. 20 inserted (24.1.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Criminal Court) 2003 (S.S.I. 2003/27)](https://www.legislation.gov.uk/ssi/2003/27), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2003/27/paragraph/1/b), [2](https://www.legislation.gov.uk/ssi/2003/27/paragraph/2)
+[^c-10c7ba94a834a7739c8f9cee6896c409]: Textual amendment: Ch. 3 Pt. 20 inserted (24.1.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Criminal Court) 2003 (S.S.I. 2003/27)](https://www.legislation.gov.uk/ssi/2003/27), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2003/27/paragraph/1/b), [2](https://www.legislation.gov.uk/ssi/2003/27/paragraph/2)
 
-[^key-ee0f7080e7951d56d8ad4e3e3809c1ae]: Textual amendment: Ch. 3 Pt. 21 inserted (24.5.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Immigration and Asylum) 2003 (S.S.I. 2003/261)](https://www.legislation.gov.uk/ssi/2003/261), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/2/2)
+[^c-ee0f7080e7951d56d8ad4e3e3809c1ae]: Textual amendment: Ch. 3 Pt. 21 inserted (24.5.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Immigration and Asylum) 2003 (S.S.I. 2003/261)](https://www.legislation.gov.uk/ssi/2003/261), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/2/2)
 
-[^key-48b5c22c289dce7141533ab6d2b08ce0]: Textual amendment: Ch. 3 Pt. 22 revoked (28.10.2004) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455)](https://www.legislation.gov.uk/ssi/2004/455), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/2) (with [para. 2(3)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/3))
+[^c-48b5c22c289dce7141533ab6d2b08ce0]: Textual amendment: Ch. 3 Pt. 22 revoked (28.10.2004) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455)](https://www.legislation.gov.uk/ssi/2004/455), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/2) (with [para. 2(3)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/3))
 
-[^key-67d97a9ab060e6dfe810a90facb90247]: Textual amendment: Ch. 3 Pt. 23 inserted (4.7.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Standards Commission for Scotland) 2003 (S.S.I. 2003/346)](https://www.legislation.gov.uk/ssi/2003/346), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/346/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/346/paragraph/2/2)
+[^c-67d97a9ab060e6dfe810a90facb90247]: Textual amendment: Ch. 3 Pt. 23 inserted (4.7.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Standards Commission for Scotland) 2003 (S.S.I. 2003/346)](https://www.legislation.gov.uk/ssi/2003/346), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/346/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/346/paragraph/2/2)
 
-[^key-cef26b97ac18d40c7296328ff96d8e6d]: Textual amendment: Ch. 3 Pt. 24 inserted (14.11.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Protection of Adults) 2003 (S.S.I. 2003/556)](https://www.legislation.gov.uk/ssi/2003/556), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/2/2)
+[^c-cef26b97ac18d40c7296328ff96d8e6d]: Textual amendment: Ch. 3 Pt. 24 inserted (14.11.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (International Protection of Adults) 2003 (S.S.I. 2003/556)](https://www.legislation.gov.uk/ssi/2003/556), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/556/paragraph/2/2)
 
-[^key-9c611f1286c715afd98421dc557c0ffb]: Textual amendment: [Ch. 3 Pt. 25](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/25) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/a) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
+[^c-9c611f1286c715afd98421dc557c0ffb]: Textual amendment: [Ch. 3 Pt. 25](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/25) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/a) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
 
-[^key-dac4ba27d569036df4aaea57c9d9922e]: Textual amendment: [Ch. 3 Pt. 26](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/26) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(6)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-dac4ba27d569036df4aaea57c9d9922e]: Textual amendment: [Ch. 3 Pt. 26](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/26) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(6)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/6) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-c5f274493532a530c78070f0011164cb]: Textual amendment: Ch. 3 Pt. 27 inserted (28.10.2004 for the insertion of rules 3.27.1-3.27.4, 3.27.6 -3.27.11; 31.1.2005 for the insertion of rule 3.27.18; 4.4.2005 for the insertion of rules 3.27.5, 3.27.15-3.27.17; 15.11.2005 in so far as not already in force) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455](https://www.legislation.gov.uk/ssi/2004/455)), [paras. 1(1)(b)(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1), [2(4)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/4)
+[^c-c5f274493532a530c78070f0011164cb]: Textual amendment: Ch. 3 Pt. 27 inserted (28.10.2004 for the insertion of rules 3.27.1-3.27.4, 3.27.6 -3.27.11; 31.1.2005 for the insertion of rule 3.27.18; 4.4.2005 for the insertion of rules 3.27.5, 3.27.15-3.27.17; 15.11.2005 in so far as not already in force) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455](https://www.legislation.gov.uk/ssi/2004/455)), [paras. 1(1)(b)(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1), [2(4)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/4)
 
-[^key-569fc6e8e58dbc9431662a7d27c96859]: Textual amendment: Ch. 3 Pt. 28 inserted (9.2.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Land Reform (Scotland) Act 2003) 2005 (S.S.I. 2005/61)](https://www.legislation.gov.uk/ssi/2005/61), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/2/2)
+[^c-569fc6e8e58dbc9431662a7d27c96859]: Textual amendment: Ch. 3 Pt. 28 inserted (9.2.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Land Reform (Scotland) Act 2003) 2005 (S.S.I. 2005/61)](https://www.legislation.gov.uk/ssi/2005/61), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/2/2)
 
-[^key-bbddc89748358e5e58e86fa421b8061a]: Textual amendment: [Ch. 3 Pt. 29](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/29) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/b) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
+[^c-bbddc89748358e5e58e86fa421b8061a]: Textual amendment: [Ch. 3 Pt. 29](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/29) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(b)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/b) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
 
-[^key-79fecdfbefba760f6dcb734678d735b2]: Textual amendment: Ch. 3 Pt. 30 inserted (6.10.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Mental Health (Care and Treatment) (Scotland) Act 2003) 2005 (S.S.I. 2005/504)](https://www.legislation.gov.uk/ssi/2005/504), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/504/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2005/504/paragraph/2)
+[^c-79fecdfbefba760f6dcb734678d735b2]: Textual amendment: Ch. 3 Pt. 30 inserted (6.10.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Mental Health (Care and Treatment) (Scotland) Act 2003) 2005 (S.S.I. 2005/504)](https://www.legislation.gov.uk/ssi/2005/504), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/504/paragraph/1/1), [2](https://www.legislation.gov.uk/ssi/2005/504/paragraph/2)
 
-[^key-fa447fd09f0a7fc734f80396883d76d7]: Textual amendment: Ch. 3 Pts. 31, 32 inserted (1.9.2006) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/437)](https://www.legislation.gov.uk/ssi/2006/437), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/2/2)
+[^c-fa447fd09f0a7fc734f80396883d76d7]: Textual amendment: Ch. 3 Pts. 31, 32 inserted (1.9.2006) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/437)](https://www.legislation.gov.uk/ssi/2006/437), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/2/2)
 
-[^key-6adfdc8da9b2fb678b73f2e77381cbcc]: Textual amendment: Ch. 3 Pt. 33 inserted (3.11.2006) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/3)
+[^c-6adfdc8da9b2fb678b73f2e77381cbcc]: Textual amendment: Ch. 3 Pt. 33 inserted (3.11.2006) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/3)
 
-[^key-05fbf3f9a4f93c2f5cf88a2d8c298b32]: Textual amendment: Ch. 3 Pt. 33 heading substituted (1.10.2010) by [Act of Sederunt (Sheriff Court Rules) (Equality Act 2010) 2010 (S.S.I. 2010/340)](https://www.legislation.gov.uk/ssi/2010/340), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/3/4) (with [para. 6](https://www.legislation.gov.uk/ssi/2010/340/paragraph/6))
+[^c-05fbf3f9a4f93c2f5cf88a2d8c298b32]: Textual amendment: Ch. 3 Pt. 33 heading substituted (1.10.2010) by [Act of Sederunt (Sheriff Court Rules) (Equality Act 2010) 2010 (S.S.I. 2010/340)](https://www.legislation.gov.uk/ssi/2010/340), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/3/4) (with [para. 6](https://www.legislation.gov.uk/ssi/2010/340/paragraph/6))
 
-[^key-aefa5f1a33e439483fc76120e44f0367]: Textual amendment: Ch. 3 Pt. 34 inserted (1.2.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Licensing (Scotland) Act 2005) 2008 (S.S.I. 2008/9)](https://www.legislation.gov.uk/ssi/2008/9), [paras. 1](https://www.legislation.gov.uk/ssi/2008/9/paragraph/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/9/paragraph/2/2)
+[^c-aefa5f1a33e439483fc76120e44f0367]: Textual amendment: Ch. 3 Pt. 34 inserted (1.2.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Licensing (Scotland) Act 2005) 2008 (S.S.I. 2008/9)](https://www.legislation.gov.uk/ssi/2008/9), [paras. 1](https://www.legislation.gov.uk/ssi/2008/9/paragraph/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/9/paragraph/2/2)
 
-[^key-cf33d0e2a05e24828510d94ab6800104]: Textual amendment: Ch. 3 Pt. 35 inserted (29.10.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No.2) 2008 (S.S.I. 2008/335)](https://www.legislation.gov.uk/ssi/2008/335), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/2/2)
+[^c-cf33d0e2a05e24828510d94ab6800104]: Textual amendment: Ch. 3 Pt. 35 inserted (29.10.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No.2) 2008 (S.S.I. 2008/335)](https://www.legislation.gov.uk/ssi/2008/335), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/2/2)
 
-[^key-6754ba6f6020358f1c36dfbf3c1ba0c1]: Textual amendment: Ch. 3 Pt. 36 inserted (25.11.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2008 (S.S.I. 2008/365)](https://www.legislation.gov.uk/ssi/2008/365), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/2), [6](https://www.legislation.gov.uk/ssi/2008/365/paragraph/6)
+[^c-6754ba6f6020358f1c36dfbf3c1ba0c1]: Textual amendment: Ch. 3 Pt. 36 inserted (25.11.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2008 (S.S.I. 2008/365)](https://www.legislation.gov.uk/ssi/2008/365), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/2), [6](https://www.legislation.gov.uk/ssi/2008/365/paragraph/6)
 
-[^key-d5c5e0c240d1bfcef8fff1116b9c10be]: Textual amendment: Ch. 3 Pt. 37 inserted (1.4.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Employment Tribunals Act 1996) 2009 (S.S.I. 2009/109)](https://www.legislation.gov.uk/ssi/2009/109), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/109/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/109/paragraph/2/2)
+[^c-d5c5e0c240d1bfcef8fff1116b9c10be]: Textual amendment: Ch. 3 Pt. 37 inserted (1.4.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Employment Tribunals Act 1996) 2009 (S.S.I. 2009/109)](https://www.legislation.gov.uk/ssi/2009/109), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/109/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/109/paragraph/2/2)
 
-[^key-db15cf71f07ca23c2cc7f3dc06e7933b]: Textual amendment: Ch. 3 Pt. 38 inserted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [18](https://www.legislation.gov.uk/ssi/2009/294/paragraph/18)
+[^c-db15cf71f07ca23c2cc7f3dc06e7933b]: Textual amendment: Ch. 3 Pt. 38 inserted (1.10.2009) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2009 (S.S.I. 2009/294)](https://www.legislation.gov.uk/ssi/2009/294), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/294/paragraph/1/1), [18](https://www.legislation.gov.uk/ssi/2009/294/paragraph/18)
 
-[^key-57e17c302403de12e9badf5f1cb6d28b]: Textual amendment: Ch. 3 Pt. 39 inserted (1.10.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Public Health etc. (Scotland) Act 2008) 2009 (S.S.I. 2009/320)](https://www.legislation.gov.uk/ssi/2009/320), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/2/2)
+[^c-57e17c302403de12e9badf5f1cb6d28b]: Textual amendment: Ch. 3 Pt. 39 inserted (1.10.2009) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Public Health etc. (Scotland) Act 2008) 2009 (S.S.I. 2009/320)](https://www.legislation.gov.uk/ssi/2009/320), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/320/paragraph/2/2)
 
-[^key-eb897d04d5a94f4c487cd2c858a99631]: Textual amendment: Ch. 3 Pt. 40 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/7/2)
+[^c-eb897d04d5a94f4c487cd2c858a99631]: Textual amendment: Ch. 3 Pt. 40 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/7/2)
 
-[^key-5e873d681686b174c9286dbf0f22f8ec]: Textual amendment: Ch. 3 Pt. 41 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/4/2)
+[^c-5e873d681686b174c9286dbf0f22f8ec]: Textual amendment: Ch. 3 Pt. 41 substituted (1.4.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Reporting Restrictions) 2015 (S.S.I. 2015/85)](https://www.legislation.gov.uk/ssi/2015/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2015/85/paragraph/4/2)
 
-[^key-4dea6755b010b07abef86cb798ced6e0]: Textual amendment: Ch. 3 Pt. 42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/10/2)
+[^c-4dea6755b010b07abef86cb798ced6e0]: Textual amendment: Ch. 3 Pt. 42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/10/2)
 
-[^key-ae58d956a365fcf11e29e5d6da6f746a]: Textual amendment: [Ch. 3 Pt. 43](https://www.legislation.gov.uk/uksi/1999/929/part/43) inserted (11.11.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013 (S.S.I. 2013/293)](https://www.legislation.gov.uk/ssi/2013/293), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2013/293/paragraph/3)
+[^c-ae58d956a365fcf11e29e5d6da6f746a]: Textual amendment: [Ch. 3 Pt. 43](https://www.legislation.gov.uk/uksi/1999/929/part/43) inserted (11.11.2013) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013 (S.S.I. 2013/293)](https://www.legislation.gov.uk/ssi/2013/293), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2013/293/paragraph/3)
 
-[^key-c77e4e6e2324ee0d25f2d1f47f8110d6]: Textual amendment: Ch. 3 Pt. 44 inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302](https://www.legislation.gov.uk/ssi/2014/302)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/7/2)
+[^c-c77e4e6e2324ee0d25f2d1f47f8110d6]: Textual amendment: Ch. 3 Pt. 44 inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302](https://www.legislation.gov.uk/ssi/2014/302)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/7/2)
 
-[^key-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
+[^c-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
 
-[^key-88ed6d0b9b208b5def0a7cb3d66b4191]: Textual amendment: [Ch. 3 Pt. 46](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/46) inserted (7.8.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 3) (Miscellaneous) 2015 (S.S.I. 2015/283)](https://www.legislation.gov.uk/ssi/2015/283), [paras. 1(2)(3)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/7/2)
+[^c-88ed6d0b9b208b5def0a7cb3d66b4191]: Textual amendment: [Ch. 3 Pt. 46](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/46) inserted (7.8.2015) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (No. 3) (Miscellaneous) 2015 (S.S.I. 2015/283)](https://www.legislation.gov.uk/ssi/2015/283), [paras. 1(2)(3)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2015/283/paragraph/7/2)
 
-[^key-d3599cb8149db72584c2124e037b9487]: Textual amendment: [Ch. 3 Pt. 47](https://www.legislation.gov.uk/uksi/1999/929/part/47) inserted (12.12.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Serious Crime Prevention Orders etc.) 2016 (S.S.I. 2016/319)](https://www.legislation.gov.uk/ssi/2016/319), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/3/3)
+[^c-d3599cb8149db72584c2124e037b9487]: Textual amendment: [Ch. 3 Pt. 47](https://www.legislation.gov.uk/uksi/1999/929/part/47) inserted (12.12.2016) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Serious Crime Prevention Orders etc.) 2016 (S.S.I. 2016/319)](https://www.legislation.gov.uk/ssi/2016/319), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2016/319/paragraph/3/3)
 
-[^key-01b29d68321361bf5fb333fcecb790b9]: Textual amendment: [Ch. 3 Pt. 48](https://www.legislation.gov.uk/uksi/1999/929/part/48) inserted (30.6.2017) by [Act of Sederunt (Summary Application Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017 (S.S.I. 2017/211)](https://www.legislation.gov.uk/ssi/2017/211), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/2/3)
+[^c-01b29d68321361bf5fb333fcecb790b9]: Textual amendment: [Ch. 3 Pt. 48](https://www.legislation.gov.uk/uksi/1999/929/part/48) inserted (30.6.2017) by [Act of Sederunt (Summary Application Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017 (S.S.I. 2017/211)](https://www.legislation.gov.uk/ssi/2017/211), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2017/211/paragraph/2/3)
 
-[^key-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)
+[^c-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)
 
-[^key-c4b8f4b85ded1d11fabfad61be52107d]: Textual amendment: Words in [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/49) heading inserted (18.5.2019) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Labour Market Enforcement Orders) 2019 (S.S.I. 2019/140)](https://www.legislation.gov.uk/ssi/2019/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/2/2/a)
+[^c-c4b8f4b85ded1d11fabfad61be52107d]: Textual amendment: Words in [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/49) heading inserted (18.5.2019) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Labour Market Enforcement Orders) 2019 (S.S.I. 2019/140)](https://www.legislation.gov.uk/ssi/2019/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/2/2/a)
 
-[^key-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)
+[^c-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)
 
-[^key-2248cff729e4619d627bef586c83c808]: Textual amendment: [Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/part/50) heading substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/2/3/a)
+[^c-2248cff729e4619d627bef586c83c808]: Textual amendment: [Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/part/50) heading substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/2/3/a)
 
-[^key-2dfd10a6725564d64ab53d0d2ba742df]: Textual amendment: [Ch. 3 Pt. 51](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/51) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Drug Dealing Telecommunications Restriction Orders) 2017 (S.S.I. 2017/460)](https://www.legislation.gov.uk/ssi/2017/460), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/2/2)
+[^c-2dfd10a6725564d64ab53d0d2ba742df]: Textual amendment: [Ch. 3 Pt. 51](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/51) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Drug Dealing Telecommunications Restriction Orders) 2017 (S.S.I. 2017/460)](https://www.legislation.gov.uk/ssi/2017/460), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/2/2)
 
-[^key-e43cc05e39d7cdb8caa254b5651e77dd]: Textual amendment: Ch. 3 Pt. 52 inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/4/2)
+[^c-e43cc05e39d7cdb8caa254b5651e77dd]: Textual amendment: Ch. 3 Pt. 52 inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/4/2)
 
-[^key-53ac967347e3e86a47bec466f58b049e]: Textual amendment: Ch. 3 Pt. 53 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/2/2)
+[^c-53ac967347e3e86a47bec466f58b049e]: Textual amendment: Ch. 3 Pt. 53 inserted (17.12.2021) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Sheriff Appeal Court Rules Amendment) (Age of Criminal Responsibility (Scotland) Act 2019) 2021 (S.S.I. 2021/452)](https://www.legislation.gov.uk/ssi/2021/452), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/452/paragraph/2/2)
 
-[^key-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)
+[^c-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)

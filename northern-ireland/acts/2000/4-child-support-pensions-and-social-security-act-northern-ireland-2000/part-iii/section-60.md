@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Department may by regulations make provision conferring a power on relevant authorities to make payments by way of financial assistance ( discretionary housing payments) to persons who—
 
-- (a) are entitled to housing benefit or universal credit[^key-1e333ca34ed3d7fdef92edfaac47b1fc] ; and
+- (a) are entitled to housing benefit or universal credit[^c-1e333ca34ed3d7fdef92edfaac47b1fc] ; and
 - (b) appear to such an authority to require some further financial assistance (in addition to the benefit to which they are entitled) in order to meet housing costs.
 
 (2) Regulations under this section may include provision—
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e333ca34ed3d7fdef92edfaac47b1fc]: Textual amendment: Words in [s. 60(1)(a)](https://www.legislation.gov.uk/nia/2000/4/section/60/1/a) inserted (10.7.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/44); [S.R. 2017/118](https://www.legislation.gov.uk/nisr/2017/118), [art. 2](https://www.legislation.gov.uk/nisr/2017/118/article/2)
+[^c-1e333ca34ed3d7fdef92edfaac47b1fc]: Textual amendment: Words in [s. 60(1)(a)](https://www.legislation.gov.uk/nia/2000/4/section/60/1/a) inserted (10.7.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/44); [S.R. 2017/118](https://www.legislation.gov.uk/nisr/2017/118), [art. 2](https://www.legislation.gov.uk/nisr/2017/118/article/2)

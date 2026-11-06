@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Housing administration order: providers of social housing in England[^key-2ca88d8b71276fcebe5c00392869613f]
+## 95. Housing administration order: providers of social housing in England[^c-2ca88d8b71276fcebe5c00392869613f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ca88d8b71276fcebe5c00392869613f]: Commencement: S. 95 in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-2ca88d8b71276fcebe5c00392869613f]: Commencement: S. 95 in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
 [^M_F_2d8745e8-c944-4b84-bd18-29f534f51c78]: Textual amendment: S. 95(3) omitted (21.3.2024) by [The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399)](https://www.legislation.gov.uk/uksi/2024/399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/399/regulation/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2024/399/schedule/1/paragraph/4/2)

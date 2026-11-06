@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.15. Objections to scheme of division[^key-c208e77935e32e32b69531d89eba31d7]
+## 3.9.15. Objections to scheme of division[^c-c208e77935e32e32b69531d89eba31d7]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c208e77935e32e32b69531d89eba31d7]: Commencement: Rule 3.9.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-c208e77935e32e32b69531d89eba31d7]: Commencement: Rule 3.9.15 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

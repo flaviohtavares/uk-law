@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Time limit for exercise of authority to acquire rights compulsorily[^key-f4664bf8aea875b06017b58bfb3874ed]
+## 20. Time limit for exercise of authority to acquire rights compulsorily[^c-f4664bf8aea875b06017b58bfb3874ed]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4664bf8aea875b06017b58bfb3874ed]: Commencement: Art. 20 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-f4664bf8aea875b06017b58bfb3874ed]: Commencement: Art. 20 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

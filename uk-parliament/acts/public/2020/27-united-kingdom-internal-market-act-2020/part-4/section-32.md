@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Office for the Internal Market panel and task groups[^key-035174daba080e05add2cb8cc5b8c8f5]
+## 32. Office for the Internal Market panel and task groups[^c-035174daba080e05add2cb8cc5b8c8f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-035174daba080e05add2cb8cc5b8c8f5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2020/27/section/32) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/e)
+[^c-035174daba080e05add2cb8cc5b8c8f5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2020/27/section/32) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/e)

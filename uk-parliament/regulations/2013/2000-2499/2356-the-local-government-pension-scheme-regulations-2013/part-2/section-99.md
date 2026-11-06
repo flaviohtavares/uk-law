@@ -24,7 +24,7 @@ summary: ''
 
 (2) The actuary may make such adjustments as are thought fit in calculating that amount and in particular as respects the period from that date to the date of actual payment of the transfer value.
 
-(2A)[^key-acf580cd4b1f3ab7e718200d9008d370] The actuary must take into account the member’s provisional assumed benefits and provisional underpin amount, calculated in relation to the member in accordance with regulations 4I and 4J of the 2014 Regulations.
+(2A)[^c-acf580cd4b1f3ab7e718200d9008d370] The actuary must take into account the member’s provisional assumed benefits and provisional underpin amount, calculated in relation to the member in accordance with regulations 4I and 4J of the 2014 Regulations.
 
 (3) The actuary must specify in the valuation the actuarial assumptions used in making it.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acf580cd4b1f3ab7e718200d9008d370]: Textual amendment: [Reg. 99(2A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/99/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/17)
+[^c-acf580cd4b1f3ab7e718200d9008d370]: Textual amendment: [Reg. 99(2A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/99/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/17)

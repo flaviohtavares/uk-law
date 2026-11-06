@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Amendment of regulation C1[^key-02365f10b49ae11426d92e8a1a8ad165]
+## 5. Amendment of regulation C1[^c-02365f10b49ae11426d92e8a1a8ad165]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-02365f10b49ae11426d92e8a1a8ad165]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-02365f10b49ae11426d92e8a1a8ad165]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00007]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 

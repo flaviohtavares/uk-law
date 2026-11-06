@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The information to be disclosed to investors in accordance with rules 10.1.23, 10.1.25 and 10.1.26 of the Senior Management Arrangements, Systems and Controls sourcebook[^key-750bd52f3c04b30a2b7be9330768838d] shall be provided to investors in a durable medium or by means of a website.
+1. The information to be disclosed to investors in accordance with rules 10.1.23, 10.1.25 and 10.1.26 of the Senior Management Arrangements, Systems and Controls sourcebook[^c-750bd52f3c04b30a2b7be9330768838d] shall be provided to investors in a durable medium or by means of a website.
 
 2. Where information referred to in paragraph 1 is provided by means of a website and is not addressed personally to the investor, the following conditions shall be satisfied:
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-750bd52f3c04b30a2b7be9330768838d]: Textual amendment: Words in Art. 36(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [25(5)](https://www.legislation.gov.uk/uksi/2019/328/regulation/25) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-750bd52f3c04b30a2b7be9330768838d]: Textual amendment: Words in Art. 36(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [25(5)](https://www.legislation.gov.uk/uksi/2019/328/regulation/25) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

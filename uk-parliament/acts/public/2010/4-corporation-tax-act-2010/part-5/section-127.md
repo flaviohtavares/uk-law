@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Amounts excluded because of certain arrangements[^key-062157c360bac0ca791bd06e7f347b1d]
+## 127. Amounts excluded because of certain arrangements[^c-062157c360bac0ca791bd06e7f347b1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062157c360bac0ca791bd06e7f347b1d]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/ukpga/2010/4/part/5/chapter/3) omitted (with effect in accordance with Sch. 4 para. 4 of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/24/3)
+[^c-062157c360bac0ca791bd06e7f347b1d]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/ukpga/2010/4/part/5/chapter/3) omitted (with effect in accordance with Sch. 4 para. 4 of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/24/3)

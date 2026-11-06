@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Variation, suspension, revocation and transfer[^key-f0be99016e4115afcc697c0ea3e4125a]
+## 30. Variation, suspension, revocation and transfer[^c-f0be99016e4115afcc697c0ea3e4125a]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ refused the application or granted the licence in different terms.
 
 ## Annotations
 
-[^key-f0be99016e4115afcc697c0ea3e4125a]: Commencement: S. 30 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-f0be99016e4115afcc697c0ea3e4125a]: Commencement: S. 30 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

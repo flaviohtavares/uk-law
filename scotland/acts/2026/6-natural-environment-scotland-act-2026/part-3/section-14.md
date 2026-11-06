@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Grounds for intervention[^key-e93f9cdaca0be9f17bf2f49ea26fcdd2]
+## 14. Grounds for intervention[^c-e93f9cdaca0be9f17bf2f49ea26fcdd2]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e93f9cdaca0be9f17bf2f49ea26fcdd2]: Commencement: S. 14 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-e93f9cdaca0be9f17bf2f49ea26fcdd2]: Commencement: S. 14 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

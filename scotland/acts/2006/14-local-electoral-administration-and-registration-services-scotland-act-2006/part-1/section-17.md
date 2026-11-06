@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Meaning of election expenses for the purposes of the 1983 Act[^key-708ab42cbe4a9539292688b73fccd3e1]
+## 17. Meaning of election expenses for the purposes of the 1983 Act[^c-708ab42cbe4a9539292688b73fccd3e1]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-708ab42cbe4a9539292688b73fccd3e1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/14/section/17) in force at 28.9.2021 by [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))
+[^c-708ab42cbe4a9539292688b73fccd3e1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/14/section/17) in force at 28.9.2021 by [S.S.I. 2021/314](https://www.legislation.gov.uk/ssi/2021/314), [art. 2](https://www.legislation.gov.uk/ssi/2021/314/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2021/314/article/3))

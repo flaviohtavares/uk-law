@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Schedule of carriers[^key-ab7ee697a0e043174215c3d60399b9e6]
+## SCHEDULE 5 — Schedule of carriers[^c-ab7ee697a0e043174215c3d60399b9e6]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ Regulation 35(3)
 
 ## Annotations
 
-[^key-ab7ee697a0e043174215c3d60399b9e6]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/894/schedule/5) substituted (1.4.2016) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/10), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/336/schedule/2)
+[^c-ab7ee697a0e043174215c3d60399b9e6]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/894/schedule/5) substituted (1.4.2016) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/10), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/336/schedule/2)

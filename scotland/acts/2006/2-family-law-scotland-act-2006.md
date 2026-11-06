@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Marriage
 
-### 1. Marriage to parent of former spouse: removal of special requirements[^key-206f3a438a371fe8e65499280965737e]
+### 1. Marriage to parent of former spouse: removal of special requirements[^c-206f3a438a371fe8e65499280965737e]
 
 In the Marriage (Scotland) Act 1977 (c. 15)—
 
@@ -45,7 +45,7 @@ In the Marriage (Scotland) Act 1977 (c. 15)—
   - (ii) subsection (1B) shall be repealed; and
 - (b) in Schedule 1 (relationships by affinity referred to in section 2(1B)), paragraph 2A shall be repealed.
 
-### 2. Void marriages[^key-1e43088b436c0d7d4839f3354777a23b]
+### 2. Void marriages[^c-1e43088b436c0d7d4839f3354777a23b]
 
 After section 20 of the Marriage (Scotland) Act 1977 (c. 15) there shall be inserted—
 
@@ -71,7 +71,7 @@ After section 20 of the Marriage (Scotland) Act 1977 (c. 15) there shall be inse
 
 .
 
-### 3. Abolition of marriage by cohabitation with habit and repute[^key-d13f4a89792628e4c3c27304c0c13263]
+### 3. Abolition of marriage by cohabitation with habit and repute[^c-d13f4a89792628e4c3c27304c0c13263]
 
 (1) The rule of law by which marriage may be constituted by cohabitation with habit and repute shall cease to have effect.
 
@@ -95,13 +95,13 @@ After section 20 of the Marriage (Scotland) Act 1977 (c. 15) there shall be inse
 - (e) that the purported marriage was invalid under the law of the place where the purported marriage was entered into; and
 - (f) that A became aware of the invalidity of the purported marriage only after B's death.
 
-### 4. Extension of jurisdiction of sheriff[^key-4502798a7bcd25d267067cd7702af3f6]
+### 4. Extension of jurisdiction of sheriff[^c-4502798a7bcd25d267067cd7702af3f6]
 
 In subsection (1) of section 5 of the Sheriff Courts (Scotland) Act 1907 (c. 51) (extension of jurisdiction), the words “(except declarators of marriage or nullity of marriage)” shall be repealed.
 
 ## Matrimonial homes
 
-### 5. Occupancy rights: duration[^key-5c5ae6d1b89e8b78c192f6c368ad96e8]
+### 5. Occupancy rights: duration[^c-5c5ae6d1b89e8b78c192f6c368ad96e8]
 
 In section 1 of the 1981 Act (right of spouse without title to occupy matrimonial home), after subsection (6) there shall be added—
 
@@ -116,7 +116,7 @@ In section 1 of the 1981 Act (right of spouse without title to occupy matrimonia
 
 .
 
-### 6. Occupancy rights: dealings with third parties[^key-f852f0c5d30902952961a338138076be]
+### 6. Occupancy rights: dealings with third parties[^c-f852f0c5d30902952961a338138076be]
 
 (1) Section 6 of the 1981 Act (continued exercise of occupancy rights after dealing) shall be amended in accordance with subsections (2) and (3).
 
@@ -143,7 +143,7 @@ In section 1 of the 1981 Act (right of spouse without title to occupy matrimonia
     ; and
 - (b) in paragraph (f), for “5” there shall be substituted “ 2 ”.
 
-### 7. Occupancy rights: proposed dealings with third parties[^key-a0658a484fc90e62e72f14f9fa40ec23]
+### 7. Occupancy rights: proposed dealings with third parties[^c-a0658a484fc90e62e72f14f9fa40ec23]
 
 In section 7 of the 1981 Act (court's power to dispense with spouse's consent to dealing and proposed dealing)—
 
@@ -177,7 +177,7 @@ In section 7 of the 1981 Act (court's power to dispense with spouse's consent to
 
   .
 
-### 8. Occupancy rights: effect of court action[^key-5718df35b9e98ee3d4bb0a6858003449]
+### 8. Occupancy rights: effect of court action[^c-5718df35b9e98ee3d4bb0a6858003449]
 
 After section 9 of the 1981 Act (provisions where both spouses have title) there shall be inserted—
 
@@ -200,7 +200,7 @@ After section 9 of the 1981 Act (provisions where both spouses have title) there
 
 .
 
-### 9. Amendment of definition of “matrimonial home”[^key-b48be6e864e130e9f5c891236429eedc]
+### 9. Amendment of definition of “matrimonial home”[^c-b48be6e864e130e9f5c891236429eedc]
 
 In section 22 of the 1981 Act (interpretation) (which shall become subsection (1) of that section)—
 
@@ -220,7 +220,7 @@ In section 22 of the 1981 Act (interpretation) (which shall become subsection (1
 
 ## Matrimonial interdicts
 
-### 10. Matrimonial interdicts[^key-956a45f94df001841615892584ac0478]
+### 10. Matrimonial interdicts[^c-956a45f94df001841615892584ac0478]
 
 (1) Section 14 of the 1981 Act (matrimonial interdicts) shall be amended in accordance with subsections (2) and (3).
 
@@ -254,28 +254,28 @@ In section 22 of the 1981 Act (interpretation) (which shall become subsection (1
 
 ## Divorce
 
-### 11. Divorce: reduction in separation periods[^key-c184e6071d38ca12f7d7b8250f8b3fef]
+### 11. Divorce: reduction in separation periods[^c-c184e6071d38ca12f7d7b8250f8b3fef]
 
 In subsection (2) of section 1 of the 1976 Act (irretrievable breakdown of marriage to be sole ground of divorce)—
 
 - (a) in paragraph (d), for “two years” there shall be substituted “ one year ”; and
 - (b) in paragraph (e), for “five” there shall be substituted “ two ”.
 
-### 12. Irretrievable breakdown of marriage: desertion no longer to be ground[^key-4aa80f82478b29e13a905a30417c6822]
+### 12. Irretrievable breakdown of marriage: desertion no longer to be ground[^c-4aa80f82478b29e13a905a30417c6822]
 
 Paragraph (c) of section 1(2) of the 1976 Act (irretrievable breakdown of marriage to be sole ground of divorce) shall be repealed.
 
-### 13. Non-cohabitation without consent: removal of bar to divorce[^key-bf0d2384a78205742157f0bf490a7b09]
+### 13. Non-cohabitation without consent: removal of bar to divorce[^c-bf0d2384a78205742157f0bf490a7b09]
 
 Subsection (5) of section 1 of the 1976 Act (irretrievable breakdown of marriage to be sole ground of divorce) shall be repealed.
 
-### 14. Collusion no longer to be bar to divorce[^key-7bcbc6d912718843a68eb5c513eaf9d4]
+### 14. Collusion no longer to be bar to divorce[^c-7bcbc6d912718843a68eb5c513eaf9d4]
 
 (1) Any rule of law by which collusion between parties is a bar to their divorce shall cease to have effect.
 
 (2) Section 9 of the 1976 Act (abolition of the oath of calumny) shall be repealed.
 
-### 15. Postponement of decree of divorce where religious impediment to remarry exists[^key-f82bd1ed5955943e2b22dd48dac3f73a]
+### 15. Postponement of decree of divorce where religious impediment to remarry exists[^c-f82bd1ed5955943e2b22dd48dac3f73a]
 
 After section 3 of the 1976 Act (action for divorce following on decree of separation) there shall be inserted—
 
@@ -320,7 +320,7 @@ After section 3 of the 1976 Act (action for divorce following on decree of separ
 
 ## Financial provision
 
-### 16. Financial provision: valuation of matrimonial property[^key-e710967c7aaf5b25dba96bd04c2218b3]
+### 16. Financial provision: valuation of matrimonial property[^c-e710967c7aaf5b25dba96bd04c2218b3]
 
 In section 10 of the Family Law (Scotland) Act 1985 (c. 37) (which provides for the sharing of the value of matrimonial property and fixes the date of its valuation)—
 
@@ -344,7 +344,7 @@ In section 10 of the Family Law (Scotland) Act 1985 (c. 37) (which provides for 
 
   .
 
-### 17. Financial provision on divorce and dissolution of civil partnership: Pension Protection Fund[^key-86ab5fc4b9677541e5d527866e41473f]
+### 17. Financial provision on divorce and dissolution of civil partnership: Pension Protection Fund[^c-86ab5fc4b9677541e5d527866e41473f]
 
 (1) The Family Law (Scotland) Act 1985 (c. 37) shall be amended in accordance with subsections (2) to (5).
 
@@ -415,7 +415,7 @@ In section 10 of the Family Law (Scotland) Act 1985 (c. 37) (which provides for 
 
 .
 
-### 18. Financial provision: incidental orders[^key-2f592dcb4cc799457ae95a8e58f51652]
+### 18. Financial provision: incidental orders[^c-2f592dcb4cc799457ae95a8e58f51652]
 
 In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (incidental orders), after paragraph (j) there shall be inserted—
 
@@ -425,13 +425,13 @@ In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (i
 
 ## Special destinations: revocation on divorce or annulment
 
-### 19. Special destinations: revocation on divorce or annulment[^key-ac438d6a5aeeabe94290ffd4b8c46f4f]
+### 19. Special destinations: revocation on divorce or annulment[^c-ac438d6a5aeeabe94290ffd4b8c46f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Aliment
 
-### 20. Variations of agreements on aliment: powers of court[^key-f7e35fb39f53c6a6bf8c5f038ae26d12]
+### 20. Variations of agreements on aliment: powers of court[^c-f7e35fb39f53c6a6bf8c5f038ae26d12]
 
 (1) Section 7 of the Family Law (Scotland) Act 1985 (c. 37) (agreements on aliment) shall be amended as follows.
 
@@ -454,7 +454,7 @@ In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (i
 
 ## Abolition of status of illegitimacy
 
-### 21. Abolition of status of illegitimacy[^key-5978d59957b12c6aa9d197bf26c921ed]
+### 21. Abolition of status of illegitimacy[^c-5978d59957b12c6aa9d197bf26c921ed]
 
 (1) The Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9) shall be amended in accordance with subsections (2) to (4).
 
@@ -490,7 +490,7 @@ In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (i
 
 ## Domicile of persons under 16
 
-### 22. Domicile of persons under 16[^key-09d36fbf77a24e50ede35e6d630d5203]
+### 22. Domicile of persons under 16[^c-09d36fbf77a24e50ede35e6d630d5203]
 
 (1) Subsection (2) applies where—
 
@@ -505,7 +505,7 @@ In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (i
 
 ## Unmarried fathers: rights in relation to children
 
-### 23. Parental responsibilities and parental rights of unmarried fathers[^key-f6ba1d05707e4f22bd32ae321353665a]
+### 23. Parental responsibilities and parental rights of unmarried fathers[^c-f6ba1d05707e4f22bd32ae321353665a]
 
 (1) Section 3 of the Children (Scotland) Act 1995 (c. 36) (provisions relating both to parental responsibilities and parental rights) shall be amended in accordance with subsections (2) and (3).
 
@@ -534,7 +534,7 @@ In subsection (2) of section 14 of the Family Law (Scotland) Act 1985 (c. 37) (i
 
 ## Protection of children from abuse
 
-### 24. Orders under section 11 of Children (Scotland) Act 1995: protection from abuse[^key-47b6ef95c049ad5f742864b5a7e6c7cf]
+### 24. Orders under section 11 of Children (Scotland) Act 1995: protection from abuse[^c-47b6ef95c049ad5f742864b5a7e6c7cf]
 
 After subsection (7) of section 11 of the Children (Scotland) Act 1995 (c. 36) (court orders relating to parental responsibilities etc.) there shall be inserted—
 
@@ -581,7 +581,7 @@ After subsection (7) of section 11 of the Children (Scotland) Act 1995 (c. 36) (
 
 ## Cohabitation
 
-### 25. Meaning of “cohabitant” in sections 26 to 29[^key-50b9c1b2b53bb10cbdfdb33031fb5f9d]
+### 25. Meaning of “cohabitant” in sections 26 to 29[^c-50b9c1b2b53bb10cbdfdb33031fb5f9d]
 
 (1) In sections 26 to 29, “**cohabitant**” means either member of a couple consisting of—
 
@@ -596,7 +596,7 @@ After subsection (7) of section 11 of the Children (Scotland) Act 1995 (c. 36) (
 
 (3) In subsection (2) and section 28, “**court**” means Court of Session or sheriff.
 
-### 26. Rights in certain household goods[^key-1188e00223f0c310da568c3b1656d7d3]
+### 26. Rights in certain household goods[^c-1188e00223f0c310da568c3b1656d7d3]
 
 (1) Subsection (2) applies where any question arises (whether during or after the cohabitation) as to the respective rights of ownership of cohabitants in any household goods.
 
@@ -611,7 +611,7 @@ After subsection (7) of section 11 of the Children (Scotland) Act 1995 (c. 36) (
 - (c) any motor car, caravan or other road vehicle; or
 - (d) any domestic animal.
 
-### 27. Rights in certain money and property[^key-c5c218652af4a52eadd5a628bafd9143]
+### 27. Rights in certain money and property[^c-c5c218652af4a52eadd5a628bafd9143]
 
 (1) Subsection (2) applies where, in relation to cohabitants, any question arises (whether during or after the cohabitation) as to the right of a cohabitant to—
 
@@ -622,7 +622,7 @@ After subsection (7) of section 11 of the Children (Scotland) Act 1995 (c. 36) (
 
 (3) In this section “**property**” does not include a residence used by the cohabitants as the sole or main residence in which they live (or lived) together.
 
-### 28. Financial provision where cohabitation ends otherwise than by death[^key-f739ffc70add9074d501a07b7d481ef3]
+### 28. Financial provision where cohabitation ends otherwise than by death[^c-f739ffc70add9074d501a07b7d481ef3]
 
 (1) Subsection (2) applies where cohabitants cease to cohabit otherwise than by reason of the death of one (or both) of them.
 
@@ -658,7 +658,7 @@ is offset by any economic advantage the applicant has derived from contributions
 - (a) on such date as may be specified;
 - (b) in instalments.
 
-(8) [^key-8809f6803cb59c29a6325722506f739d]... Any application under this section shall be made not later than one year after the day on which the cohabitants cease to cohabit.
+(8) [^c-8809f6803cb59c29a6325722506f739d]... Any application under this section shall be made not later than one year after the day on which the cohabitants cease to cohabit.
 
 (9) In this section—
 
@@ -679,7 +679,7 @@ is offset by any economic advantage the applicant has derived from contributions
 - (a) a child of whom the cohabitants are the parents;
 - (b) a child who is or was accepted by the cohabitants as a child of the family.
 
-### 29. Application to court by survivor for provision on intestacy[^key-4343bf4c8d5d7875a9cf54df2c32e3ce]
+### 29. Application to court by survivor for provision on intestacy[^c-4343bf4c8d5d7875a9cf54df2c32e3ce]
 
 (1) This section applies where—
 
@@ -712,7 +712,7 @@ is offset by any economic advantage the applicant has derived from contributions
 - (b) a sheriff in the sheriffdom in which the deceased was habitually resident at the date of death;
 - (c) if at the date of death it is uncertain in which sheriffdom the deceased was habitually resident, the sheriff at Edinburgh.
 
-(6) [^key-192a1d49edebce8c56d25d613d4678df]... Any application under this section shall be made before the expiry of the period of 6 months beginning with the day on which the deceased died.
+(6) [^c-192a1d49edebce8c56d25d613d4678df]... Any application under this section shall be made before the expiry of the period of 6 months beginning with the day on which the deceased died.
 
 (7) In making an order under paragraph (a)(i) of subsection (2), the court may specify that the capital sum shall be payable—
 
@@ -733,11 +733,11 @@ is offset by any economic advantage the applicant has derived from contributions
   - (c) the legal rights, and the prior rights, of any surviving spouse or surviving civil partner; and
 - “**prior rights**” has the meaning given by section 36(1) of the Succession (Scotland) Act 1964 (c. 41).
 
-### 29A. Extension of time limits for applications under sections 28 and 29: cross-border mediation[^key-fdc29633e9a8a09b9ff2167c5bb98340]
+### 29A. Extension of time limits for applications under sections 28 and 29: cross-border mediation[^c-fdc29633e9a8a09b9ff2167c5bb98340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Administration of Justice Act 1982: extension of definition of “relative”[^key-7e4bb9c49d2359d3464362f23489bc2b]
+### 30. Administration of Justice Act 1982: extension of definition of “relative”[^c-7e4bb9c49d2359d3464362f23489bc2b]
 
 In section 13 of the Administration of Justice Act 1982 (c. 53) (supplementary provisions and definitions in relation to Part 2), in the definition of relative, after paragraph (b) insert—
 
@@ -747,7 +747,7 @@ In section 13 of the Administration of Justice Act 1982 (c. 53) (supplementary p
 
 ## Cohabitation: domestic interdicts
 
-### 31. Domestic interdicts[^key-feaafad3089ad6bc0dd7214f1fbba34d]
+### 31. Domestic interdicts[^c-feaafad3089ad6bc0dd7214f1fbba34d]
 
 (1) The 1981 Act shall be amended in accordance with subsections (2) and (3).
 
@@ -805,7 +805,7 @@ In section 13 of the Administration of Justice Act 1982 (c. 53) (supplementary p
 
 ## Amendment of Protection from Abuse (Scotland) Act 2001: powers of arrest
 
-### 32. Amendment of Protection from Abuse (Scotland) Act 2001: powers of arrest[^key-ade2e9730d7459dea6a94c9adaf78db4]
+### 32. Amendment of Protection from Abuse (Scotland) Act 2001: powers of arrest[^c-ade2e9730d7459dea6a94c9adaf78db4]
 
 (1) Section 1 of the Protection from Abuse (Scotland) Act 2001 (asp 14) (attachment of power of arrest to interdict) shall be amended as follows.
 
@@ -828,13 +828,13 @@ In section 13 of the Administration of Justice Act 1982 (c. 53) (supplementary p
 
 ## Amendments of Civil Partnership Act 2004
 
-### 33. Amendments of Civil Partnership Act 2004[^key-fa184cdb61f03548df07970a093236dd]
+### 33. Amendments of Civil Partnership Act 2004[^c-fa184cdb61f03548df07970a093236dd]
 
 Schedule 1, which contains amendments of the Civil Partnership Act 2004 (c. 33), shall have effect.
 
 ## Application of 1981 Act to cohabiting couples of same sex
 
-### 34. Application of 1981 Act to cohabiting couples of same sex[^key-f21121c84954ec611e10cdac2710816c]
+### 34. Application of 1981 Act to cohabiting couples of same sex[^c-f21121c84954ec611e10cdac2710816c]
 
 (1) Section 18 of the 1981 Act (occupancy rights of cohabiting couples) shall be amended in accordance with subsections (2) and (3).
 
@@ -858,13 +858,13 @@ Schedule 1, which contains amendments of the Civil Partnership Act 2004 (c. 33),
 
 ## Amendments of Damages (Scotland) Act 1976
 
-### 35. Amendments of Damages (Scotland) Act 1976[^key-6c951aad812e665bc2fa707452e1b99e][^key-5bf49df901ac345e5225c4a0c63bfef0]
+### 35. Amendments of Damages (Scotland) Act 1976[^c-6c951aad812e665bc2fa707452e1b99e][^c-5bf49df901ac345e5225c4a0c63bfef0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Amendments of Adults with Incapacity (Scotland) Act 2000
 
-### 36. Amendments of Adults with Incapacity (Scotland) Act 2000[^key-45a0cc3f77fc8fb893d39b92cdb321ae]
+### 36. Amendments of Adults with Incapacity (Scotland) Act 2000[^c-45a0cc3f77fc8fb893d39b92cdb321ae]
 
 Section 24 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (termination of continuing or welfare power of attorney) shall be amended as follows—
 
@@ -881,7 +881,7 @@ Section 24 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (terminatio
 
 ## Jurisdiction
 
-### 37. Jurisdiction: actions for declarator of recognition of certain foreign decrees[^key-0919b59758c896a6f9a0247be3519d40]
+### 37. Jurisdiction: actions for declarator of recognition of certain foreign decrees[^c-0919b59758c896a6f9a0247be3519d40]
 
 (1) The Domicile and Matrimonial Proceedings Act 1973 (c. 45) shall be amended in accordance with subsections (2) and (3).
 
@@ -926,9 +926,9 @@ Section 24 of the Adults with Incapacity (Scotland) Act 2000 (asp 4) (terminatio
 
 ## Private international law
 
-### 38. Validity of marriages[^key-f5aaef3653dd906df5f04821d8eb572e]
+### 38. Validity of marriages[^c-f5aaef3653dd906df5f04821d8eb572e]
 
-(1) Subject to section 13(1) of, and Schedule 6 to, the Marriage (Same Sex Couples) Act 2013 and to any Orders in Council made under that Schedule[^key-f50f2e2b7d4d3bdef5db9bcddb2311d8], the question whether a marriage is formally valid shall be determined by the law of the place where the marriage was celebrated.
+(1) Subject to section 13(1) of, and Schedule 6 to, the Marriage (Same Sex Couples) Act 2013 and to any Orders in Council made under that Schedule[^c-f50f2e2b7d4d3bdef5db9bcddb2311d8], the question whether a marriage is formally valid shall be determined by the law of the place where the marriage was celebrated.
 
 (2) The question whether a person who enters into a marriage—
 
@@ -943,7 +943,7 @@ to enter into it shall, subject to subsections (3) and (4) and to section 50 of 
 
 (5) If the law of the place in which a person is domiciled requires a person under a certain age to obtain parental consent before entering into a marriage, that requirement shall not be taken to affect the capacity of a person to enter into a marriage in Scotland unless failure to obtain such consent would render invalid any marriage that the person purported to enter into in any form anywhere in the world.
 
-### 39. Matrimonial property[^key-091accc0dd85d1f8054547a216d7303d]
+### 39. Matrimonial property[^c-091accc0dd85d1f8054547a216d7303d]
 
 (1) Any question in relation to the rights of spouses to each other's immoveable property arising by virtue of the marriage shall be determined by the law of the place in which the property is situated.
 
@@ -967,11 +967,11 @@ shall be determined by the law of the country in which the home is situated.
 
 (7) In this section, “**matrimonial home**” has the same meaning as in section 22 of the 1981 Act.
 
-### 40. Aliment[^key-0368290d163327ae299a41a058fbe154]
+### 40. Aliment[^c-0368290d163327ae299a41a058fbe154]
 
 Subject to the Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18), a court in Scotland shall apply Scots internal law in any action for aliment which comes before it.
 
-### 41. Effect of parents' marriage in determining status to depend on law of domicile[^key-a2cab6d95d14722327ae5c0b2b68bdb7]
+### 41. Effect of parents' marriage in determining status to depend on law of domicile[^c-a2cab6d95d14722327ae5c0b2b68bdb7]
 
 Any question arising as to the effect on a person's status of—
 
@@ -982,20 +982,20 @@ shall be determined by the law of the country in which the person is domiciled a
 
 ## Declarator of freedom and putting to silence: action no longer competent
 
-### 42. Action for declarator of freedom and putting to silence to cease to be competent[^key-7e0ad899f393b2d665d7400566a9fef6]
+### 42. Action for declarator of freedom and putting to silence to cease to be competent[^c-7e0ad899f393b2d665d7400566a9fef6]
 
 It shall not be competent to raise an action for declarator of freedom and putting to silence.
 
 ## General
 
-### 43. Interpretation[^key-6998b976ea83096e4ac64040510e8a16]
+### 43. Interpretation[^c-6998b976ea83096e4ac64040510e8a16]
 
 In this Act—
 
 - “**the 1976 Act**” means the Divorce (Scotland) Act 1976 (c. 39); and
 - “**the 1981 Act**” means the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59).
 
-### 44. Ancillary provision[^key-de9bf9de99116e7ec2cc9d52a24313de]
+### 44. Ancillary provision[^c-de9bf9de99116e7ec2cc9d52a24313de]
 
 (1) The Scottish Ministers may by order made by statutory instrument make such consequential, transitional or saving provision as they consider appropriate for the purposes of, in consequence of or for giving full effect to this Act or any provision of it.
 
@@ -1007,7 +1007,7 @@ In this Act—
 
 (5) A statutory instrument containing an order under subsection (1) which includes provision modifying an Act or an Act of the Scottish Parliament shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-### 45. Minor and consequential amendments and repeals[^key-9f50b5725aebebd18e8c4854c30a91af]
+### 45. Minor and consequential amendments and repeals[^c-9f50b5725aebebd18e8c4854c30a91af]
 
 (1) Schedule 2 (which contains minor amendments and amendments consequential on the provisions of this Act) shall have effect.
 
@@ -1028,9 +1028,9 @@ In this Act—
 
 (introduced by section 33)
 
-**1.**[^key-27d1cce61bf1dd49837b648c8a8fdf07] The Civil Partnership Act 2004 (c. 33) shall be amended in accordance with this schedule.
+**1.**[^c-27d1cce61bf1dd49837b648c8a8fdf07] The Civil Partnership Act 2004 (c. 33) shall be amended in accordance with this schedule.
 
-**2.**[^key-fd6fc4e50f2b68f62e2f9ce449dfd2ce] In section 86 (eligibility to register in Scotland as civil partners)—
+**2.**[^c-fd6fc4e50f2b68f62e2f9ce449dfd2ce] In section 86 (eligibility to register in Scotland as civil partners)—
 
 - (a) in subsection (2), for “subsections (3) and (4)” there shall be substituted “ subsection (3) ”; and
 - (b) for subsections (4) and (5) there shall be substituted—
@@ -1044,7 +1044,7 @@ In this Act—
 
   .
 
-**3.**[^key-a3bf9690c994c492977cf05f61eced2b] In section 101 (right of civil partner without title to occupy family home)—
+**3.**[^c-a3bf9690c994c492977cf05f61eced2b] In section 101 (right of civil partner without title to occupy family home)—
 
 - (a) after subsection (6) there shall be inserted—
 
@@ -1062,9 +1062,9 @@ In this Act—
   - (i) in the definition of “child of the family”, for the words from “a”, where it first occurs, to “family”, there shall be substituted “ any child or grandchild of either civil partner, and any person who has been brought up or treated by either civil partner as if the person were a child of that partner, whatever the age of such a child, grandchild or person ”; and
   - (ii) in the definition of “family”, for “so accepted”, there shall be substituted “ , grandchild or person so treated ”.
 
-**4.**[^key-bcabe932c2aca7caa0e48f36ea2ae375] In subsection (1) of section 103 (regulation by court of rights of occupancy of family home), at the beginning there shall be inserted “ Subject to section 101(6A), ”.
+**4.**[^c-bcabe932c2aca7caa0e48f36ea2ae375] In subsection (1) of section 103 (regulation by court of rights of occupancy of family home), at the beginning there shall be inserted “ Subject to section 101(6A), ”.
 
-**5.**[^key-0559712148f244e0e2078333d0bbc0e7] In section 106 (continued exercise of occupancy rights after dealing)—
+**5.**[^c-0559712148f244e0e2078333d0bbc0e7] In section 106 (continued exercise of occupancy rights after dealing)—
 
 - (a) after subsection (1) there shall be inserted—
 
@@ -1086,7 +1086,7 @@ In this Act—
     ; and
   - (iii) in paragraph (f), for “5” there shall be substituted “ 2 ”.
 
-**6.**[^key-87dca0bdb69401518812a38ccff3bc3a] In section 107 (dispensation with civil partner's consent to dealing)—
+**6.**[^c-87dca0bdb69401518812a38ccff3bc3a] In section 107 (dispensation with civil partner's consent to dealing)—
 
 - (a) in subsection (1), at the beginning there shall be inserted “ Subject to subsections (1A) and (1C), ”;
 - (b) after that subsection there shall be inserted—
@@ -1118,7 +1118,7 @@ In this Act—
 
   .
 
-**7.**[^key-ca0433fc70f050bab802c06303262385] After section 111 there shall be inserted—
+**7.**[^c-ca0433fc70f050bab802c06303262385] After section 111 there shall be inserted—
 
 > **111A. Effect of court action under section 103, 104 or 105 on reckoning of periods in sections 101 and 106**
 >
@@ -1137,7 +1137,7 @@ In this Act—
 
 .
 
-**8.**[^key-2a30271b3dea9818185cd5f118deb27b] In section 113 (civil partnerships: competency of interdict)—
+**8.**[^c-2a30271b3dea9818185cd5f118deb27b] In section 113 (civil partnerships: competency of interdict)—
 
 - (a) in subsection (2), for paragraph (b) there shall be substituted—
 
@@ -1166,12 +1166,12 @@ In this Act—
 
   .
 
-**9.**[^key-58a07a7db206dee4eb174414a813e41a] In subsection (3) of section 117 (dissolution of civil partnerships)—
+**9.**[^c-58a07a7db206dee4eb174414a813e41a] In subsection (3) of section 117 (dissolution of civil partnerships)—
 
 - (a) in paragraph (c), for “two years” there shall be substituted “ one year ”; and
 - (b) in paragraph (d), for “5” there shall be substituted “ two ”.
 
-**10.**[^key-6afc262b0f1069355be20b03eb9fe2b3] In section 123 (nullity) (which shall become subsection (1) of that section)—
+**10.**[^c-6afc262b0f1069355be20b03eb9fe2b3] In section 123 (nullity) (which shall become subsection (1) of that section)—
 
 - (a) the word “or”, which occurs immediately after paragraph (a), shall be repealed;
 - (b) the word “validly” in paragraph (b) shall be repealed;
@@ -1191,7 +1191,7 @@ In this Act—
 
   .
 
-**11.**[^key-3726ad3131ce7c2ebc3fa4c18137a851] After section 124 there shall be inserted—
+**11.**[^c-3726ad3131ce7c2ebc3fa4c18137a851] After section 124 there shall be inserted—
 
 > **Special destinations: revocation on dissolution or annulment**
 >
@@ -1214,7 +1214,7 @@ In this Act—
 
 .
 
-**12.**[^key-25cca540ec38af04f25580012d898581] Section 135 (interpretation of Part 3) shall become subsection (1) of that section and—
+**12.**[^c-25cca540ec38af04f25580012d898581] Section 135 (interpretation of Part 3) shall become subsection (1) of that section and—
 
 - (a) in the definition of “family home”—
   - (i) after “means” there shall be inserted “ , subject to subsection (2), ”; and
@@ -1236,7 +1236,7 @@ In this Act—
 
 ### The Domicile and Matrimonial Proceedings Act 1973 (c. 45)
 
-**1.**[^key-3a9e108db9a79d16adb80401125f3835] In section 7 of the Domicile and Matrimonial Proceedings Act 1973 (jurisdiction of Court of Session)—
+**1.**[^c-3a9e108db9a79d16adb80401125f3835] In section 7 of the Domicile and Matrimonial Proceedings Act 1973 (jurisdiction of Court of Session)—
 
 - (a) in paragraph (a) of subsection (1)—
   - (i) after “marriage”, where it first occurs, there shall be inserted “ or ”; and
@@ -1248,18 +1248,18 @@ In this Act—
 
 ### The Damages (Scotland) Act 1976 (c. 13)
 
-**2.**[^key-875761df0362798c9814602dcba1fd1a][^key-2b651c26cdc7953d2bcd17b24da0c906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-875761df0362798c9814602dcba1fd1a][^c-2b651c26cdc7953d2bcd17b24da0c906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Land Registration (Scotland) Act 1979 (c. 33)
 
-**3.**[^key-c7e2c62efc3315ec91be335bf1436551] In subsection (3) of section 12 of the Land Registration (Scotland) Act 1979 (Keeper's indemnity in respect of loss), at the end there shall be added—
+**3.**[^c-c7e2c62efc3315ec91be335bf1436551] In subsection (3) of section 12 of the Land Registration (Scotland) Act 1979 (Keeper's indemnity in respect of loss), at the end there shall be added—
 
 > - (r) the loss is suffered by the estate of a deceased former spouse in respect of heritable property falling to it where the title to the property or to any interest in the property has been acquired by another person and is unchallengeable by virtue of section 19 of the Family Law (Scotland) Act 2006 (asp 2);
 > - (s) the loss is suffered by the estate of a deceased former civil partner in respect of heritable property falling to it where the title to the property or to any interest in the property has been acquired by another person and is unchallengeable by virtue of section 124A of the Civil Partnership Act 2004 (c. 33).
 
 ### The Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59)
 
-**4.**[^key-59b518db62a6f703e960823eaf1854bd] (1) The Matrimonial Homes (Family Protection) (Scotland) Act 1981 shall be amended as follows.
+**4.**[^c-59b518db62a6f703e960823eaf1854bd] (1) The Matrimonial Homes (Family Protection) (Scotland) Act 1981 shall be amended as follows.
 
 (2) In subsection (1) of section 3 (regulation by court of rights of occupancy of matrimonial home), at the beginning there shall be inserted “ Subject to section 1(7) of this Act, ”.
 
@@ -1267,7 +1267,7 @@ In this Act—
 
 ### The Family Law (Scotland) Act 1985 (c. 37)
 
-**5.**[^key-7cbf6d1d0a1cf57a7ff636b0e71db1c7] (1) The Family Law (Scotland) Act 1985 shall be amended as follows.
+**5.**[^c-7cbf6d1d0a1cf57a7ff636b0e71db1c7] (1) The Family Law (Scotland) Act 1985 shall be amended as follows.
 
 (2) In subsection (2) of section 12A (orders for payment of capital sum: pensions lump sum), for “party”, where it first occurs, there shall be substituted “ person ”.
 
@@ -1277,7 +1277,7 @@ In this Act—
 
 ### The Law Reform (Parent and Child) (Scotland) Act 1986 (c. 9)
 
-**6.**[^key-34698e5e0ac17cc2f57a0303e9880e59] (1) The Law Reform (Parent and Child) (Scotland) Act 1986 shall be amended as follows.
+**6.**[^c-34698e5e0ac17cc2f57a0303e9880e59] (1) The Law Reform (Parent and Child) (Scotland) Act 1986 shall be amended as follows.
 
 (2) In subsections (1) and (5) of section 7 (actions for declarator), for the words “non-parentage, legitimacy, legitimation or illegitimacy”, in each place where they occur there shall be substituted “ or non-parentage ”.
 
@@ -1292,7 +1292,7 @@ In this Act—
 
 ### The Civil Evidence (Family Mediation) (Scotland) Act 1995 (c. 6)
 
-**7.**[^key-1bacc206e009ecf5665c31cc6fc6efe8] In subsection (7) of section 1 of the Civil Evidence (Family Mediation) (Scotland) Act 1995 (inadmissibility in civil proceedings of information as to what occurred during family mediation)—
+**7.**[^c-1bacc206e009ecf5665c31cc6fc6efe8] In subsection (7) of section 1 of the Civil Evidence (Family Mediation) (Scotland) Act 1995 (inadmissibility in civil proceedings of information as to what occurred during family mediation)—
 
 - (a) the words from “a” to “wife” shall form paragraph (a) of that subsection; and
 - (b) after “wife” there shall be added
@@ -1305,7 +1305,7 @@ In this Act—
 
 ### The Children (Scotland) Act 1995 (c. 36)
 
-**8.**[^key-54dbe60f4cec74da2873033475c40f73] In subsection (4) of section 12 of the Children (Scotland) Act 1995 (restrictions on decrees for divorce, separation or annulment affecting children)—
+**8.**[^c-54dbe60f4cec74da2873033475c40f73] In subsection (4) of section 12 of the Children (Scotland) Act 1995 (restrictions on decrees for divorce, separation or annulment affecting children)—
 
 - (a) the existing words from “the parties” to the end shall become paragraph (a) (with the existing paragraphs (a) and (b) becoming sub-paragraphs (i) and (ii)); and
 - (b) after the new paragraph (a), there shall be added
@@ -1316,7 +1316,7 @@ In this Act—
 
   .
 
-## SCHEDULE 3 — Repeals[^key-8a472d019a25e3bfffe2b87717b63069]
+## SCHEDULE 3 — Repeals[^c-8a472d019a25e3bfffe2b87717b63069]
 
 (introduced by section 45(2))
 
@@ -1343,146 +1343,146 @@ In this Act—
 
 ## Annotations
 
-[^key-206f3a438a371fe8e65499280965737e]: Commencement: S. 1 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-206f3a438a371fe8e65499280965737e]: Commencement: S. 1 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-1e43088b436c0d7d4839f3354777a23b]: Commencement: S. 2 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-1e43088b436c0d7d4839f3354777a23b]: Commencement: S. 2 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-d13f4a89792628e4c3c27304c0c13263]: Commencement: S. 3 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-d13f4a89792628e4c3c27304c0c13263]: Commencement: S. 3 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-4502798a7bcd25d267067cd7702af3f6]: Commencement: S. 4 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-4502798a7bcd25d267067cd7702af3f6]: Commencement: S. 4 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-5c5ae6d1b89e8b78c192f6c368ad96e8]: Commencement: S. 5 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-5c5ae6d1b89e8b78c192f6c368ad96e8]: Commencement: S. 5 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-f852f0c5d30902952961a338138076be]: Commencement: S. 6 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-f852f0c5d30902952961a338138076be]: Commencement: S. 6 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-a0658a484fc90e62e72f14f9fa40ec23]: Commencement: S. 7 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-a0658a484fc90e62e72f14f9fa40ec23]: Commencement: S. 7 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-5718df35b9e98ee3d4bb0a6858003449]: Commencement: S. 8 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-5718df35b9e98ee3d4bb0a6858003449]: Commencement: S. 8 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-b48be6e864e130e9f5c891236429eedc]: Commencement: S. 9 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-b48be6e864e130e9f5c891236429eedc]: Commencement: S. 9 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-956a45f94df001841615892584ac0478]: Commencement: S. 10 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-956a45f94df001841615892584ac0478]: Commencement: S. 10 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-c184e6071d38ca12f7d7b8250f8b3fef]: Commencement: S. 11 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-c184e6071d38ca12f7d7b8250f8b3fef]: Commencement: S. 11 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-4aa80f82478b29e13a905a30417c6822]: Commencement: S. 12 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-4aa80f82478b29e13a905a30417c6822]: Commencement: S. 12 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-bf0d2384a78205742157f0bf490a7b09]: Commencement: S. 13 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-bf0d2384a78205742157f0bf490a7b09]: Commencement: S. 13 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-7bcbc6d912718843a68eb5c513eaf9d4]: Commencement: S. 14 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-7bcbc6d912718843a68eb5c513eaf9d4]: Commencement: S. 14 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-f82bd1ed5955943e2b22dd48dac3f73a]: Commencement: S. 15 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f82bd1ed5955943e2b22dd48dac3f73a]: Commencement: S. 15 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-e710967c7aaf5b25dba96bd04c2218b3]: Commencement: S. 16 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-e710967c7aaf5b25dba96bd04c2218b3]: Commencement: S. 16 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-86ab5fc4b9677541e5d527866e41473f]: Commencement: S. 17 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-86ab5fc4b9677541e5d527866e41473f]: Commencement: S. 17 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-2f592dcb4cc799457ae95a8e58f51652]: Commencement: S. 18 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-2f592dcb4cc799457ae95a8e58f51652]: Commencement: S. 18 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-ac438d6a5aeeabe94290ffd4b8c46f4f]: Textual amendment: [S. 19](https://www.legislation.gov.uk/asp/2006/2/section/19) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 4](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/4); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-ac438d6a5aeeabe94290ffd4b8c46f4f]: Textual amendment: [S. 19](https://www.legislation.gov.uk/asp/2006/2/section/19) repealed (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [s. 31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2), [sch. para. 4](https://www.legislation.gov.uk/asp/2016/7/schedule/paragraph/4); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-f7e35fb39f53c6a6bf8c5f038ae26d12]: Commencement: S. 20 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f7e35fb39f53c6a6bf8c5f038ae26d12]: Commencement: S. 20 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-5978d59957b12c6aa9d197bf26c921ed]: Commencement: S. 21 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4), [9](https://www.legislation.gov.uk/ssi/2006/212/article/9))
+[^c-5978d59957b12c6aa9d197bf26c921ed]: Commencement: S. 21 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4), [9](https://www.legislation.gov.uk/ssi/2006/212/article/9))
 
-[^key-09d36fbf77a24e50ede35e6d630d5203]: Commencement: S. 22 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-09d36fbf77a24e50ede35e6d630d5203]: Commencement: S. 22 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-f6ba1d05707e4f22bd32ae321353665a]: Commencement: S. 23 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f6ba1d05707e4f22bd32ae321353665a]: Commencement: S. 23 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-47b6ef95c049ad5f742864b5a7e6c7cf]: Commencement: S. 24 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-47b6ef95c049ad5f742864b5a7e6c7cf]: Commencement: S. 24 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-50b9c1b2b53bb10cbdfdb33031fb5f9d]: Commencement: S. 25 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-50b9c1b2b53bb10cbdfdb33031fb5f9d]: Commencement: S. 25 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-1188e00223f0c310da568c3b1656d7d3]: Commencement: S. 26 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-1188e00223f0c310da568c3b1656d7d3]: Commencement: S. 26 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-c5c218652af4a52eadd5a628bafd9143]: Commencement: S. 27 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-c5c218652af4a52eadd5a628bafd9143]: Commencement: S. 27 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-f739ffc70add9074d501a07b7d481ef3]: Commencement: S. 28 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2006/212/article/6))
+[^c-f739ffc70add9074d501a07b7d481ef3]: Commencement: S. 28 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2006/212/article/6))
 
-[^key-8809f6803cb59c29a6325722506f739d]: Textual amendment: Words in [s. 28(8)](https://www.legislation.gov.uk/asp/2006/2/section/28/8) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
+[^c-8809f6803cb59c29a6325722506f739d]: Textual amendment: Words in [s. 28(8)](https://www.legislation.gov.uk/asp/2006/2/section/28/8) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
 
-[^key-4343bf4c8d5d7875a9cf54df2c32e3ce]: Commencement: S. 29 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 7](https://www.legislation.gov.uk/ssi/2006/212/article/7))
+[^c-4343bf4c8d5d7875a9cf54df2c32e3ce]: Commencement: S. 29 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 7](https://www.legislation.gov.uk/ssi/2006/212/article/7))
 
-[^key-192a1d49edebce8c56d25d613d4678df]: Textual amendment: Words in [s. 29(6)](https://www.legislation.gov.uk/asp/2006/2/section/29/6) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
+[^c-192a1d49edebce8c56d25d613d4678df]: Textual amendment: Words in [s. 29(6)](https://www.legislation.gov.uk/asp/2006/2/section/29/6) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
 
-[^key-fdc29633e9a8a09b9ff2167c5bb98340]: Textual amendment: S. 29A omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
+[^c-fdc29633e9a8a09b9ff2167c5bb98340]: Textual amendment: S. 29A omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/ssi/2020/441/regulation/5/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
 
-[^key-7e4bb9c49d2359d3464362f23489bc2b]: Commencement: S. 30 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-7e4bb9c49d2359d3464362f23489bc2b]: Commencement: S. 30 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-feaafad3089ad6bc0dd7214f1fbba34d]: Commencement: S. 31 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-feaafad3089ad6bc0dd7214f1fbba34d]: Commencement: S. 31 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-ade2e9730d7459dea6a94c9adaf78db4]: Commencement: S. 32 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-ade2e9730d7459dea6a94c9adaf78db4]: Commencement: S. 32 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-fa184cdb61f03548df07970a093236dd]: Commencement: S. 33 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-fa184cdb61f03548df07970a093236dd]: Commencement: S. 33 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-f21121c84954ec611e10cdac2710816c]: Commencement: S. 34 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-f21121c84954ec611e10cdac2710816c]: Commencement: S. 34 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-6c951aad812e665bc2fa707452e1b99e]: Textual amendment: [S. 35](https://www.legislation.gov.uk/asp/2006/2/section/35) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-6c951aad812e665bc2fa707452e1b99e]: Textual amendment: [S. 35](https://www.legislation.gov.uk/asp/2006/2/section/35) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-5bf49df901ac345e5225c4a0c63bfef0]: Commencement: S. 35 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 8](https://www.legislation.gov.uk/ssi/2006/212/article/8))
+[^c-5bf49df901ac345e5225c4a0c63bfef0]: Commencement: S. 35 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 8](https://www.legislation.gov.uk/ssi/2006/212/article/8))
 
-[^key-45a0cc3f77fc8fb893d39b92cdb321ae]: Commencement: S. 36 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-45a0cc3f77fc8fb893d39b92cdb321ae]: Commencement: S. 36 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-0919b59758c896a6f9a0247be3519d40]: Commencement: S. 37 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-0919b59758c896a6f9a0247be3519d40]: Commencement: S. 37 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-f5aaef3653dd906df5f04821d8eb572e]: Commencement: S. 38 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-f5aaef3653dd906df5f04821d8eb572e]: Commencement: S. 38 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-f50f2e2b7d4d3bdef5db9bcddb2311d8]: Textual amendment: Words in s. 38(1) substituted (3.6.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/560/article/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/31); and said words also substituted by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [18](https://www.legislation.gov.uk/uksi/2014/1110/article/18)
+[^c-f50f2e2b7d4d3bdef5db9bcddb2311d8]: Textual amendment: Words in s. 38(1) substituted (3.6.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/560/article/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/31); and said words also substituted by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [18](https://www.legislation.gov.uk/uksi/2014/1110/article/18)
 
-[^key-091accc0dd85d1f8054547a216d7303d]: Commencement: S. 39 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-091accc0dd85d1f8054547a216d7303d]: Commencement: S. 39 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-0368290d163327ae299a41a058fbe154]: Commencement: S. 40 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-0368290d163327ae299a41a058fbe154]: Commencement: S. 40 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-a2cab6d95d14722327ae5c0b2b68bdb7]: Commencement: S. 41 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-a2cab6d95d14722327ae5c0b2b68bdb7]: Commencement: S. 41 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-7e0ad899f393b2d665d7400566a9fef6]: Commencement: S. 42 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-7e0ad899f393b2d665d7400566a9fef6]: Commencement: S. 42 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-6998b976ea83096e4ac64040510e8a16]: Commencement: S. 43 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-6998b976ea83096e4ac64040510e8a16]: Commencement: S. 43 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-de9bf9de99116e7ec2cc9d52a24313de]: Commencement: S. 44 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-de9bf9de99116e7ec2cc9d52a24313de]: Commencement: S. 44 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-9f50b5725aebebd18e8c4854c30a91af]: Commencement: S. 45 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-9f50b5725aebebd18e8c4854c30a91af]: Commencement: S. 45 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-27d1cce61bf1dd49837b648c8a8fdf07]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/1) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-27d1cce61bf1dd49837b648c8a8fdf07]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/1) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-fd6fc4e50f2b68f62e2f9ce449dfd2ce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/2) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-fd6fc4e50f2b68f62e2f9ce449dfd2ce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/2) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-a3bf9690c994c492977cf05f61eced2b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-a3bf9690c994c492977cf05f61eced2b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-bcabe932c2aca7caa0e48f36ea2ae375]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/4) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-bcabe932c2aca7caa0e48f36ea2ae375]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/4) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-0559712148f244e0e2078333d0bbc0e7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/5) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-0559712148f244e0e2078333d0bbc0e7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/5) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-87dca0bdb69401518812a38ccff3bc3a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/6) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-87dca0bdb69401518812a38ccff3bc3a]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/6) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-ca0433fc70f050bab802c06303262385]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/7) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
+[^c-ca0433fc70f050bab802c06303262385]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/7) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-2a30271b3dea9818185cd5f118deb27b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/8) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-2a30271b3dea9818185cd5f118deb27b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/8) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-58a07a7db206dee4eb174414a813e41a]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/9) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-58a07a7db206dee4eb174414a813e41a]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/9) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-6afc262b0f1069355be20b03eb9fe2b3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/10) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-6afc262b0f1069355be20b03eb9fe2b3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/10) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-3726ad3131ce7c2ebc3fa4c18137a851]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/11) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/212/article/5))
+[^c-3726ad3131ce7c2ebc3fa4c18137a851]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/11) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/212/article/5))
 
-[^key-25cca540ec38af04f25580012d898581]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/12) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-25cca540ec38af04f25580012d898581]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/12) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-3a9e108db9a79d16adb80401125f3835]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-3a9e108db9a79d16adb80401125f3835]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/1) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-875761df0362798c9814602dcba1fd1a]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/2) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-875761df0362798c9814602dcba1fd1a]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/2) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-2b651c26cdc7953d2bcd17b24da0c906]: Commencement: Sch. 2 para. 2 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-2b651c26cdc7953d2bcd17b24da0c906]: Commencement: Sch. 2 para. 2 in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-c7e2c62efc3315ec91be335bf1436551]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-c7e2c62efc3315ec91be335bf1436551]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-59b518db62a6f703e960823eaf1854bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-59b518db62a6f703e960823eaf1854bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/4) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-7cbf6d1d0a1cf57a7ff636b0e71db1c7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/5) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-7cbf6d1d0a1cf57a7ff636b0e71db1c7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/5) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-34698e5e0ac17cc2f57a0303e9880e59]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
+[^c-34698e5e0ac17cc2f57a0303e9880e59]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
 
-[^key-1bacc206e009ecf5665c31cc6fc6efe8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/7) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-1bacc206e009ecf5665c31cc6fc6efe8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/7) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-54dbe60f4cec74da2873033475c40f73]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/8) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-54dbe60f4cec74da2873033475c40f73]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/8) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-8a472d019a25e3bfffe2b87717b63069]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 11-13](https://www.legislation.gov.uk/ssi/2006/212/article/11))
+[^c-8a472d019a25e3bfffe2b87717b63069]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3) in force at 4.5.2006 by [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 11-13](https://www.legislation.gov.uk/ssi/2006/212/article/11))

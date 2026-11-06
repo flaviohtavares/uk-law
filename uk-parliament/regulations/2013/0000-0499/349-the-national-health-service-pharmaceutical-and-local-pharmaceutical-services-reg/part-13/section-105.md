@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may only be a party to an LPS scheme with the following—
+(1) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may only be a party to an LPS scheme with the following—
 
 - (a) an individual who does not fall within paragraph (2);
 - (b) a partnership (other than a limited liability partnership) where each partner does not fall within paragraph (2);
@@ -50,7 +50,7 @@ summary: ''
 
   which was committed on or after 1st April 2006;
 - (h) P—
-  - (i) has been made[^key-9216d257f4dd51bb280e4cea175251bf] bankrupt and has not been discharged from the bankruptcy,
+  - (i) has been made[^c-9216d257f4dd51bb280e4cea175251bf] bankrupt and has not been discharged from the bankruptcy,
   - (ii) is a person in relation to whom a moratorium period under a debt relief order under Part 7A of the Insolvency Act 1986 [^c21647211] (debt relief orders) applies,
   - (iii) is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order, a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4A or 4ZB to the Insolvency Act 1986 [^c21647221] or Schedule 2A of the Insolvency (Northern Ireland) Order 1989 [^c21647231] (which relate to bankruptcy and debt relief restrictions orders and undertakings),
   - (iv) if P is a body corporate, has been wound up under Part 4 of the Insolvency Act 1986;
@@ -84,13 +84,13 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647191]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12). Schedule 1 has been amended by: the [Sexual Offences Act 1956 (c. 69)](https://www.legislation.gov.uk/ukpga/1956/69), [Schedule 4](https://www.legislation.gov.uk/ukpga/1956/69/schedule/4); the [Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), [Schedule 15](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15), [paragraph 8](https://www.legislation.gov.uk/ukpga/1988/33/paragraph/8), and Schedule 16; the [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [Schedule 6](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6), [paragraph 7](https://www.legislation.gov.uk/ukpga/2003/42/paragraph/7); the [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [Schedule 10](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10), [paragraph 2](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/2); the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [Schedule 21](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21), [paragraph 53](https://www.legislation.gov.uk/ukpga/2009/25/paragraph/53); and the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [Schedule 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9), [paragraph 136](https://www.legislation.gov.uk/ukpga/2012/9/paragraph/136).
 
 [^c21647201]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-9216d257f4dd51bb280e4cea175251bf]: Textual amendment: Word in art. 105(2)(h)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-9216d257f4dd51bb280e4cea175251bf]: Textual amendment: Word in art. 105(2)(h)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c21647211]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); Part 7A was inserted by the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [Schedule 17](https://www.legislation.gov.uk/ukpga/2007/15/schedule/17).
 

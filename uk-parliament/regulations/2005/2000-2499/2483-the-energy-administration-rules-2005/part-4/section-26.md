@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Secured creditors[^key-4394272fef78d7689f50a378f685ad86]
+## 26. Secured creditors[^c-4394272fef78d7689f50a378f685ad86]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ At a meeting of creditors a secured creditor is entitled to vote only in respect
 
 ## Annotations
 
-[^key-4394272fef78d7689f50a378f685ad86]: Commencement: Rule 26 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4394272fef78d7689f50a378f685ad86]: Commencement: Rule 26 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

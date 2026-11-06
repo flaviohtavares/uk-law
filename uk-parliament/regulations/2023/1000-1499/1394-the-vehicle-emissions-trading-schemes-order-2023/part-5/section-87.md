@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Power to question officers of a company[^key-2de8279854ab49f6af6d8e63f2616a7d]
+## 87. Power to question officers of a company[^c-2de8279854ab49f6af6d8e63f2616a7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The administrator or an authorised person may, by a written notice given to P, r
 
 ## Annotations
 
-[^key-2de8279854ab49f6af6d8e63f2616a7d]: Commencement: Art. 87 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-2de8279854ab49f6af6d8e63f2616a7d]: Commencement: Art. 87 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29A. Meaning of “leviable bet”[^key-9a2ea6148c863450d16fc189d9184b5b]
+## 29A. Meaning of “leviable bet”[^c-9a2ea6148c863450d16fc189d9184b5b]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a2ea6148c863450d16fc189d9184b5b]: Textual amendment: [Ss. 29A](https://www.legislation.gov.uk/ukpga/1963/2/section/29A), [29B](https://www.legislation.gov.uk/ukpga/1963/2/section/29B) inserted (25.4.2017) by [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/9) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))
+[^c-9a2ea6148c863450d16fc189d9184b5b]: Textual amendment: [Ss. 29A](https://www.legislation.gov.uk/ukpga/1963/2/section/29A), [29B](https://www.legislation.gov.uk/ukpga/1963/2/section/29B) inserted (25.4.2017) by [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/9) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))

@@ -183,7 +183,7 @@ Section 67(1).
 
 ### The Fair Trading Act 1973
 
-**15.**[^key-ba171fe3c4eb96ec581a4a544d034f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ba171fe3c4eb96ec581a4a544d034f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Land Compensation (Scotland) Act 1973
 
@@ -213,7 +213,7 @@ Section 67(1).
 
 *Extent: E+W+S*
 
-**19.**[^key-10ced6720082d147ee869641e8ebb838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-10ced6720082d147ee869641e8ebb838] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Oil Taxation Act 1975
 
@@ -309,7 +309,7 @@ Section 67(1).
 
 *Extent: E+W+S*
 
-**32.**[^key-8ada8f0cc3d272a2550c73248c5d9d77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-8ada8f0cc3d272a2550c73248c5d9d77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -341,7 +341,7 @@ Section 67(1).
 
 [^c14448201]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-ba171fe3c4eb96ec581a4a544d034f1e]: Textual amendment: Sch. 7 para. 15 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-ba171fe3c4eb96ec581a4a544d034f1e]: Textual amendment: Sch. 7 para. 15 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c14448341]: Marginal citation: [1973 c. 56](https://www.legislation.gov.uk/ukpga/1973/56).
 
@@ -349,7 +349,7 @@ Section 67(1).
 
 [^c14448371]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-10ced6720082d147ee869641e8ebb838]: Textual amendment: Sch. 7 para. 19 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-10ced6720082d147ee869641e8ebb838]: Textual amendment: Sch. 7 para. 19 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c14448441]: Textual amendment: Sch. 7 para. 20 repealed (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 17(5)](https://www.legislation.gov.uk/ukpga/1995/45/section/17/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1995/45/schedule/6); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
@@ -381,4 +381,4 @@ Section 67(1).
 
 [^c14448651]: Textual amendment: Sch. 7 para. 31 repealed by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 438](https://www.legislation.gov.uk/ukpga/1986/45/section/438), [Sch. 12](https://www.legislation.gov.uk/ukpga/1986/45/schedule/12); Sch. 7 para. 31 expressed to be repealed (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 17(5)](https://www.legislation.gov.uk/ukpga/1995/45/section/17/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1995/45/schedule/6); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-8ada8f0cc3d272a2550c73248c5d9d77]: Textual amendment: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/1986/44/schedule/7/paragraph/32) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-8ada8f0cc3d272a2550c73248c5d9d77]: Textual amendment: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/1986/44/schedule/7/paragraph/32) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)

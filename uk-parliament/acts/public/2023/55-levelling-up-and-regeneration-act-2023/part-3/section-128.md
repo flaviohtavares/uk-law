@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Additional powers in relation to non-material changes to development consent orders[^key-e498c1015469b5d63f81fb9f621d6588]
+## 128. Additional powers in relation to non-material changes to development consent orders[^c-e498c1015469b5d63f81fb9f621d6588]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In paragraph 2 of Schedule 6 to the Planning Act 2008 (non-material changes), af
 
 ## Annotations
 
-[^key-e498c1015469b5d63f81fb9f621d6588]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/55/section/128) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-e498c1015469b5d63f81fb9f621d6588]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/55/section/128) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

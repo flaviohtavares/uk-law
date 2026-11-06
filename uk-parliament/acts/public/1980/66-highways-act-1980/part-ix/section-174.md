@@ -26,9 +26,9 @@ summary: ''
 - (b) shall cause the works to be properly guarded and lighted during the hours of darkness; and
 - (c) where the nature of the works so requires, shall cause any building adjoining the street to be shored up or otherwise protected.
 
-(1A)[^c18852841] The Secretary of State may give guidance to [^key-0fe3148b159080489b86253bdd1f4559] ... highway authorities as to the discharge by them of their obligations under subsection (1)(a) and (b) where they are executing works for road purposes.
+(1A)[^c18852841] The Secretary of State may give guidance to [^c-0fe3148b159080489b86253bdd1f4559] ... highway authorities as to the discharge by them of their obligations under subsection (1)(a) and (b) where they are executing works for road purposes.
 
-(1B) A [^key-0fe3148b159080489b86253bdd1f4559] ... highway authority must in executing any works for road purposes have regard to any guidance given under subsection (1A).
+(1B) A [^c-0fe3148b159080489b86253bdd1f4559] ... highway authority must in executing any works for road purposes have regard to any guidance given under subsection (1A).
 
 (1C) In subsections (1A) and (1B) “ **works for road purposes** ” has the same meaning as in Part 3 of the New Roads and Street Works Act 1991.
 
@@ -51,7 +51,7 @@ he is guilty of an offence and liable to a fine not exceeding level 3 on the sta
 
 [^c18852841]: Textual amendment: S. 174(1A)-(1C) inserted (26.11.2007 for W., 1.10.2013 for E.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 71](https://www.legislation.gov.uk/ukpga/2004/18/section/71), [99(1)](https://www.legislation.gov.uk/ukpga/2004/18/section/99/1); [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule); [S.I. 2013/2408](https://www.legislation.gov.uk/uksi/2013/2408), [art. 2](https://www.legislation.gov.uk/uksi/2013/2408/article/2)
 
-[^key-0fe3148b159080489b86253bdd1f4559]: Textual amendment: Word in s. 174(1A)(1B) omitted (5.3.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/42); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-0fe3148b159080489b86253bdd1f4559]: Textual amendment: Word in s. 174(1A)(1B) omitted (5.3.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/42); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13427601]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Quality contracts: application of TUPE[^c2199630][^key-d6d08aa789d4fb6b0eded08f44526c31]
+## 44. Quality contracts: application of TUPE[^c2199630][^c-d6d08aa789d4fb6b0eded08f44526c31]
 
 *Extent: E+W*
 
@@ -108,4 +108,4 @@ summary: ''
 
 [^c2199630]: Commencement: S. 44 partly in force; s. 44 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-d6d08aa789d4fb6b0eded08f44526c31]: Commencement: S. 44 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-d6d08aa789d4fb6b0eded08f44526c31]: Commencement: S. 44 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

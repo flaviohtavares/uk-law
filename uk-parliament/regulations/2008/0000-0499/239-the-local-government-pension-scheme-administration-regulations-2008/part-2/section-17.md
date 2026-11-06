@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Concurrent employments[^key-313a40f04d6b3e4783039917415f15bb]
+## 17. Concurrent employments[^c-313a40f04d6b3e4783039917415f15bb]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ where the rate of pay in each case is the annual rate of pay on the last day of 
 
 ## Annotations
 
-[^key-313a40f04d6b3e4783039917415f15bb]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-313a40f04d6b3e4783039917415f15bb]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

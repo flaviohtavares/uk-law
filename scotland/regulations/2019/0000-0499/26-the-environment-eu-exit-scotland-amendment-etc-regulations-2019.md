@@ -56,13 +56,13 @@ In accordance with paragraph 4 of schedule 2 of that Act they have consulted wit
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-f81254930456d916a3514b3bd32c3592]
+### 1. Citation and commencement[^c-f81254930456d916a3514b3bd32c3592]
 
 These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendments to legislation concerning the water environment
 
-### 2. Water Environment and Water Services (Scotland) Act 2003[^key-21b9e7f0ffe2d55434556a4ac27851a6]
+### 2. Water Environment and Water Services (Scotland) Act 2003[^c-21b9e7f0ffe2d55434556a4ac27851a6]
 
 (1) The Water Environment and Water Services (Scotland) Act 2003 [^c23546471] is amended as follows.
 
@@ -215,7 +215,7 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 >
 > **18.** Article 3(5) is to be read as if for “submitted” there were substituted “ produced ”.
 >
-> **19.** Article 5(4) and (5) is[^key-371aed386e73ba30b504f4e20cd74d3b] to be read as if for “submitted” there were substituted “ produced ”.
+> **19.** Article 5(4) and (5) is[^c-371aed386e73ba30b504f4e20cd74d3b] to be read as if for “submitted” there were substituted “ produced ”.
 >
 > **20.** Article 6(4) is to be read as if the words from “for the” to the end were omitted.
 >
@@ -287,7 +287,7 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 .
 
-### 3. The Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-a569660c2df947394a256b27bde05e47]
+### 3. The Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-a569660c2df947394a256b27bde05e47]
 
 (1) The Water Environment (Controlled Activities) (Scotland) Regulations 2011 [^c23546611] are amended as follows.
 
@@ -295,8 +295,8 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 > (3) For the purposes of these Regulations—
 >
-> - (a) the Water Framework Directive is to[^key-5ef7efab3fc0716c4802f40d3bea41e4] be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
-> - (b) the Groundwater Directive is to[^key-88b137dcdc082688ceaa33d75b77d09d] be interpreted in[^key-9c944294e3567da4576d9671f8f82f04] accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
+> - (a) the Water Framework Directive is to[^c-5ef7efab3fc0716c4802f40d3bea41e4] be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
+> - (b) the Groundwater Directive is to[^c-88b137dcdc082688ceaa33d75b77d09d] be interpreted in[^c-9c944294e3567da4576d9671f8f82f04] accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
 > - (c) the Priority Substances Directive is to be interpreted in accordance with Part 3 (the Priority Substances Directive) of schedule 5 of the Act.
 >
 > (4) For the purposes of paragraph (3), schedule 5 of the Act is to be read as if—
@@ -306,7 +306,7 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 (3) In schedule 3 (general binding rules), omit Part 3 (mutual recognition) [^c23546621].
 
-### 4. The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-b947c2ebfe972f083436ea811d26b766]
+### 4. The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^c-b947c2ebfe972f083436ea811d26b766]
 
 (1) The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 [^c23546631] are amended as follows.
 
@@ -375,13 +375,13 @@ These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendmen
 
 (11) In regulation 24(3) (measures to prevent or limit inputs of pollutants into groundwater), for “EU legislation” substitute “ retained EU law ”.
 
-### 5. Revocation[^key-1a38db331f3ac4482ca0322d570aed43]
+### 5. Revocation[^c-1a38db331f3ac4482ca0322d570aed43]
 
 The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 [^c23546681] are revoked.
 
 ## PART 3 — Amendments to legislation concerning the water industry
 
-### 6. The Urban Waste Water Treatment (Scotland) Regulations 1994[^key-7c9a0e47e90f3818bdbca24572af6a8f]
+### 6. The Urban Waste Water Treatment (Scotland) Regulations 1994[^c-7c9a0e47e90f3818bdbca24572af6a8f]
 
 (1) The Urban Waste Water Treatment (Scotland) Regulations 1994 [^c23546691] are amended as follows.
 
@@ -432,7 +432,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 ## PART 4 — Amendments to legislation concerning waste
 
-### 7. The Special Waste Regulations 1996[^key-c772ca7e61cf1ded4554e99507ef29e2]
+### 7. The Special Waste Regulations 1996[^c-c772ca7e61cf1ded4554e99507ef29e2]
 
 (1) The Special Waste Regulations 1996 [^c23546701] are amended as follows.
 
@@ -592,11 +592,11 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 (6) In regulation 15(9)(registers), omit the words “having regard to” to the end.
 
-(7)[^key-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^key-e3393cd87c38ff63a473a175f68da424]
+### 8. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^c-e3393cd87c38ff63a473a175f68da424]
 
 (1) The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000 [^c23546781] are amended as follows.
 
@@ -610,17 +610,17 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 (3) In the heading for schedule 1, for “Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) on Waste” substitute “ Part II of schedule 4 of the Waste Management Licensing (Scotland) Regulations 2011 ”.
 
-### 9. The Landfill (Scotland) Regulations 2003[^key-1eac99d673f2e83389914bd5ff3fdc15]
+### 9. The Landfill (Scotland) Regulations 2003[^c-1eac99d673f2e83389914bd5ff3fdc15]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-1eac99d673f2e83389914bd5ff3fdc15]
+### 10. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^c-1eac99d673f2e83389914bd5ff3fdc15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The Waste Management Licensing (Scotland) Regulations 2011[^key-1eac99d673f2e83389914bd5ff3fdc15]
+### 11. The Waste Management Licensing (Scotland) Regulations 2011[^c-1eac99d673f2e83389914bd5ff3fdc15]
 
 **No longer in force.**
 
@@ -628,7 +628,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 ## PART 5 — Amendments to legislation concerning environmental protection
 
-### 12. Environmental Protection Act 1990[^key-f7743966ee9a89e4685e202d3bcee272]
+### 12. Environmental Protection Act 1990[^c-f7743966ee9a89e4685e202d3bcee272]
 
 (1) The Environmental Protection Act 1990 [^c23546941] is amended as follows.
 
@@ -638,7 +638,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 .
 
-### 13. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-b936b53c6ac6ee5afaf8d85aa137c4bf]
+### 13. The Pollution Prevention and Control (Scotland) Regulations 2012[^c-b936b53c6ac6ee5afaf8d85aa137c4bf]
 
 (1) The Pollution Prevention and Control (Scotland) Regulations 2012 [^c23546951] are amended as follows.
 
@@ -685,7 +685,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
   >   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
   >   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
   >   - (iv) cork waste,
-  >   - (v) wood waste, [^key-26a2103525e13dc879e72359643dc345]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+  >   - (v) wood waste, [^c-26a2103525e13dc879e72359643dc345]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
   >
   > “**Chapter IV plant**” means an incineration plant or co-incineration plant which incinerates or co-incinerates solid or liquid waste other than—
   >
@@ -695,7 +695,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
   >   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
   >   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
   >   - (iv) cork waste,
-  >   - (v) wood waste, [^key-dd9199ae61bb6c7d0a0b27fac98c93cb]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+  >   - (v) wood waste, [^c-dd9199ae61bb6c7d0a0b27fac98c93cb]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
   >   - (vi) radioactive waste,
   >   - (vii) animal carcasses regulated by Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774) as it forms part of retained EU law,
   >   - (viii) waste resulting from the exploration for, and the exploitation of, oil and gas resources from off-shore installations and incinerated on board the installations,
@@ -902,7 +902,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
     > (3) For the purposes of this schedule, the Industrial Emissions Directive is to be read as if—
     >
-    > - (a) in Article 5(1) “or Union [^key-d89ae9c36adb205e276223d615c7e89d]...” were omitted,
+    > - (a) in Article 5(1) “or Union [^c-d89ae9c36adb205e276223d615c7e89d]...” were omitted,
     > - (b) in Article 5(3) for—
     >   - (i) the words “where Article 4 of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) applies” there were substituted “in relation to which an environmental impact assessment is required”,
     >   - (ii) the words “Articles 5, 6, 7 and 9 of that Directive” there were substituted “an environmental impact assessment”,
@@ -1010,7 +1010,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
   - (i) in sub-paragraph (1), for from “at which an” to the end substitute “ which is a Chapter III combustion plant ”,
   - (ii) in sub-paragraph (5)(a), after “Directive” insert “ as read with regulation 26 (schedule 1 conditions: large combustion plants) ”.
 
-### 14. The Sulphur Content of Liquid Fuels (Scotland) Regulations 2014[^key-67ed894e58f6312aaff353cf4fc56c16]
+### 14. The Sulphur Content of Liquid Fuels (Scotland) Regulations 2014[^c-67ed894e58f6312aaff353cf4fc56c16]
 
 (1) The Sulphur Content of Liquid Fuels (Scotland) Regulations 2014 [^c23547101] are amended as follows.
 
@@ -1032,7 +1032,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 >   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
 >   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
 >   - (iv) cork waste,
->   - (v) wood waste, [^key-71fdf65ada0e1afb818a91bb650a06d8]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+>   - (v) wood waste, [^c-71fdf65ada0e1afb818a91bb650a06d8]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
 >
 > “**co-incinerated**” means used as a regular or additional fuel or thermally treated for the purpose of disposal through the incineration by oxidation as well as other thermal treatment processes such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated,
 
@@ -1051,7 +1051,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
   .
 
-### 15. The Environmental Authorisations (Scotland) Regulations 2018[^key-f4bd076a73df9809dac2ca3cc087ac07]
+### 15. The Environmental Authorisations (Scotland) Regulations 2018[^c-f4bd076a73df9809dac2ca3cc087ac07]
 
 (1) The Environmental Authorisations (Scotland) Regulations 2018 [^c23547111] are amended as follows.
 
@@ -1065,7 +1065,7 @@ The Water Environment and Water Services (Scotland) Act 2003 (Modification of Pa
 
 ## PART 6 — Amendments to legislation concerning bathing waters
 
-### 16. The Bathing Waters (Scotland) Regulations 2008[^key-a392ce5353adc6f865e88ce788b6969d]
+### 16. The Bathing Waters (Scotland) Regulations 2008[^c-a392ce5353adc6f865e88ce788b6969d]
 
 (1) The Bathing Waters (Scotland) Regulations 2008 [^c23547131] are amended as follows.
 
@@ -1131,9 +1131,9 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23546461]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-f81254930456d916a3514b3bd32c3592]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f81254930456d916a3514b3bd32c3592]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-21b9e7f0ffe2d55434556a4ac27851a6]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-21b9e7f0ffe2d55434556a4ac27851a6]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546471]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
 
@@ -1161,23 +1161,23 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23546591]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-371aed386e73ba30b504f4e20cd74d3b]: Textual amendment: Word in reg. 2(6) substituted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-371aed386e73ba30b504f4e20cd74d3b]: Textual amendment: Word in reg. 2(6) substituted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23546601]: Marginal citation: OJ L 201, 1.8.2009, p.36.
 
-[^key-a569660c2df947394a256b27bde05e47]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a569660c2df947394a256b27bde05e47]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546611]: Marginal citation: [S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209), relevantly amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211) and [S.S.I. 2017/389](https://www.legislation.gov.uk/ssi/2017/389).
 
-[^key-5ef7efab3fc0716c4802f40d3bea41e4]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(a)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ef7efab3fc0716c4802f40d3bea41e4]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(a)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88b137dcdc082688ceaa33d75b77d09d]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88b137dcdc082688ceaa33d75b77d09d]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c944294e3567da4576d9671f8f82f04]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c944294e3567da4576d9671f8f82f04]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23546621]: Marginal citation: Part 3 of schedule 3 was inserted by [S.S.I. 2017/389](https://www.legislation.gov.uk/ssi/2017/389).
 
-[^key-b947c2ebfe972f083436ea811d26b766]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b947c2ebfe972f083436ea811d26b766]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546631]: Marginal citation: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323), as amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211).
 
@@ -1189,15 +1189,15 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23546671]: Marginal citation: OJ L 226, 24.8.2013, p.1.
 
-[^key-1a38db331f3ac4482ca0322d570aed43]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1a38db331f3ac4482ca0322d570aed43]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546681]: Marginal citation: [S.S.I. 2015/270](https://www.legislation.gov.uk/ssi/2015/270).
 
-[^key-7c9a0e47e90f3818bdbca24572af6a8f]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7c9a0e47e90f3818bdbca24572af6a8f]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546691]: Marginal citation: [S.I. 1994/2842](https://www.legislation.gov.uk/uksi/1994/2842), as amended by [S.I. 1996/973](https://www.legislation.gov.uk/uksi/1996/973), [S.S.I. 2003/273](https://www.legislation.gov.uk/ssi/2003/273), S.S.I 2011/202 and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-c772ca7e61cf1ded4554e99507ef29e2]: Commencement: Reg. 7 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c772ca7e61cf1ded4554e99507ef29e2]: Commencement: Reg. 7 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546701]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), relevant amending instruments are [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
@@ -1215,9 +1215,9 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23546771]: Marginal citation: S.R. [2005 No.300](https://www.legislation.gov.uk/ukcm/2005/300), relevant amending instruments are S.R (NI) 2011 No 127 and S.R (NI) 2015 No 288.
 
-[^key-6df7b2aa8e0bcce261e801eb386d8698]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/7)[(8)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6df7b2aa8e0bcce261e801eb386d8698]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/7)[(8)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-e3393cd87c38ff63a473a175f68da424]: Commencement: Reg. 8 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e3393cd87c38ff63a473a175f68da424]: Commencement: Reg. 8 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546781]: Marginal citation: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95), relevant amending instrument is [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
@@ -1225,21 +1225,21 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23546801]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43), relevant amending instrument is S.S.I 2011/226.
 
-[^key-1eac99d673f2e83389914bd5ff3fdc15]: Textual amendment: [Regs. 9-11](https://www.legislation.gov.uk/ssi/2019/26/regulation/9) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1eac99d673f2e83389914bd5ff3fdc15]: Textual amendment: [Regs. 9-11](https://www.legislation.gov.uk/ssi/2019/26/regulation/9) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f7743966ee9a89e4685e202d3bcee272]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f7743966ee9a89e4685e202d3bcee272]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546941]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 33 is relevantly amended by [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), and [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
 
-[^key-b936b53c6ac6ee5afaf8d85aa137c4bf]: Commencement: Reg. 13 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b936b53c6ac6ee5afaf8d85aa137c4bf]: Commencement: Reg. 13 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23546951]: Marginal citation: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), as relevantly amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267) and [S.S.I. 2017/446](https://www.legislation.gov.uk/ssi/2017/446).
 
 [^c23546961]: Marginal citation: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102), as relevantly amended by [S.S.I. 2017/168](https://www.legislation.gov.uk/ssi/2017/168).
 
-[^key-26a2103525e13dc879e72359643dc345]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26a2103525e13dc879e72359643dc345]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd9199ae61bb6c7d0a0b27fac98c93cb]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd9199ae61bb6c7d0a0b27fac98c93cb]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23546971]: Marginal citation: [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407).
 
@@ -1265,23 +1265,23 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23547081]: Marginal citation: Paragraph 79(2) was inserted by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-d89ae9c36adb205e276223d615c7e89d]: Textual amendment: Word in reg. 13(24)(a)(ii) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d89ae9c36adb205e276223d615c7e89d]: Textual amendment: Word in reg. 13(24)(a)(ii) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23547091]: Marginal citation: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), to which there are amendments not relevant to these Regulations.
 
-[^key-67ed894e58f6312aaff353cf4fc56c16]: Commencement: Reg. 14 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-67ed894e58f6312aaff353cf4fc56c16]: Commencement: Reg. 14 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23547101]: Marginal citation: [S.S.I. 2014/258](https://www.legislation.gov.uk/ssi/2014/258).
 
-[^key-71fdf65ada0e1afb818a91bb650a06d8]: Textual amendment: Words in reg. 14(2) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71fdf65ada0e1afb818a91bb650a06d8]: Textual amendment: Words in reg. 14(2) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4bd076a73df9809dac2ca3cc087ac07]: Commencement: Reg. 15 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f4bd076a73df9809dac2ca3cc087ac07]: Commencement: Reg. 15 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23547111]: Marginal citation: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219).
 
 [^c23547121]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a392ce5353adc6f865e88ce788b6969d]: Commencement: Reg. 16 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a392ce5353adc6f865e88ce788b6969d]: Commencement: Reg. 16 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23547131]: Marginal citation: [S.S.I. 2008/170](https://www.legislation.gov.uk/ssi/2008/170). Regulation 2 is relevantly amended by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), [S.S.I. 2012/243](https://www.legislation.gov.uk/ssi/2012/243) and [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
 

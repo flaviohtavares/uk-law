@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Gangmasters Licensing Authority[^key-85f950bb9e5d8be807891fc4c3fcff7b]
+## 55. Gangmasters Licensing Authority[^c-85f950bb9e5d8be807891fc4c3fcff7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85f950bb9e5d8be807891fc4c3fcff7b]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/2015/30/section/55) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/3/paragraph/31); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/u)
+[^c-85f950bb9e5d8be807891fc4c3fcff7b]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/2015/30/section/55) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 3 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/3/paragraph/31); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/u)

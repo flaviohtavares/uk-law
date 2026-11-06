@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416. Commencement[^key-96d364eb40891ba54ad6ead05741ad0b]
+## 416. Commencement[^c-96d364eb40891ba54ad6ead05741ad0b]
 
 *Extent: E+W+S+N.I.*
 
-(1) This Act comes into force on 1 December 2020[^key-1e94afd46e8374558f35ea9eab47aa69] (referred to in this Act as “**the commencement date**”).
+(1) This Act comes into force on 1 December 2020[^c-1e94afd46e8374558f35ea9eab47aa69] (referred to in this Act as “**the commencement date**”).
 
 (2) Subsections (4) to (6) of section 407 do not apply to the power conferred by subsection (1).
 
@@ -33,7 +33,7 @@ summary: ''
 - (c) subsection (5), and
 - (d) subsection (9) (commencement of repeal postponed until repeal of connected provisions comes into force).
 
-(5) Regulations under this Act may be made before 1 December 2020[^key-c236b2fedd4891da797c713e50101999], but may not—
+(5) Regulations under this Act may be made before 1 December 2020[^c-c236b2fedd4891da797c713e50101999], but may not—
 
 - (a) come into force before that date, or
 - (b) bring a provision into force before that date.
@@ -45,7 +45,7 @@ summary: ''
 - (a) in relation to dealing with a person for an offence, or
 - (b) in relation to a sentence passed for an offence,
 
-has effect only where the person is convicted of the offence on or after 1 December 2020[^key-94c76d21b3914c3bc9b00bd7290be2ec].
+has effect only where the person is convicted of the offence on or after 1 December 2020[^c-94c76d21b3914c3bc9b00bd7290be2ec].
 
 (8) But subsection (7) does not apply to the repeal by Schedule 28 of the following provisions—
 
@@ -57,10 +57,10 @@ has effect only where the person is convicted of the offence on or after 1 Decem
 
 ## Annotations
 
-[^key-96d364eb40891ba54ad6ead05741ad0b]: Commencement: S. 416 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-96d364eb40891ba54ad6ead05741ad0b]: Commencement: S. 416 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1e94afd46e8374558f35ea9eab47aa69]: Textual amendment: Words in s. 416(1) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/a)
+[^c-1e94afd46e8374558f35ea9eab47aa69]: Textual amendment: Words in s. 416(1) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/a)
 
-[^key-c236b2fedd4891da797c713e50101999]: Textual amendment: Words in s. 416(5) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/b)
+[^c-c236b2fedd4891da797c713e50101999]: Textual amendment: Words in s. 416(5) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/b)
 
-[^key-94c76d21b3914c3bc9b00bd7290be2ec]: Textual amendment: Words in s. 416(7) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/c)
+[^c-94c76d21b3914c3bc9b00bd7290be2ec]: Textual amendment: Words in s. 416(7) substituted (1.12.2020) by [The Sentencing Act 2020 (Commencement No. 1) Regulations 2020 (S.I. 2020/1236)](https://www.legislation.gov.uk/uksi/2020/1236), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1236/regulation/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/1236/regulation/4/5/c)

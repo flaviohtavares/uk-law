@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Listed Bodies) (Wales) (Amendment) Order 2009 (revoked)[^key-f5e3355417ed96155ce99c8f8d4f19d4]
+The Education (Listed Bodies) (Wales) (Amendment) Order 2009 (revoked)[^c-f5e3355417ed96155ce99c8f8d4f19d4]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 6 April 2009
 
-[^key-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f5e3355417ed96155ce99c8f8d4f19d4]
+## 1. Title, commencement and application[^c-f5e3355417ed96155ce99c8f8d4f19d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Education (Listed Bodies) (Wales) Order 2007[^key-f5e3355417ed96155ce99c8f8d4f19d4]
+## 2. Amendment to the Education (Listed Bodies) (Wales) Order 2007[^c-f5e3355417ed96155ce99c8f8d4f19d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5e3355417ed96155ce99c8f8d4f19d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5e3355417ed96155ce99c8f8d4f19d4]: Textual amendment: Order revoked (4.6.2012) by [The Education (Listed Bodies) (Wales) Order 2012 (S.I. 2012/1259)](https://www.legislation.gov.uk/uksi/2012/1259), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1259/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1259/article/3/b)
+[^c-f5e3355417ed96155ce99c8f8d4f19d4]: Textual amendment: Order revoked (4.6.2012) by [The Education (Listed Bodies) (Wales) Order 2012 (S.I. 2012/1259)](https://www.legislation.gov.uk/uksi/2012/1259), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1259/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1259/article/3/b)

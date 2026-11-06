@@ -27,7 +27,7 @@ summary: ''
 
 any unauthorised property.
 
-(2)[^key-5691176b866330eb98bd32c702e7b1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5691176b866330eb98bd32c702e7b1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subject to paragraph (4), it is prohibited for any person to—
 
@@ -51,4 +51,4 @@ any unauthorised property.
 
 ## Annotations
 
-[^key-5691176b866330eb98bd32c702e7b1e0]: Textual amendment: Rule 103(2) revoked (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/5)
+[^c-5691176b866330eb98bd32c702e7b1e0]: Textual amendment: Rule 103(2) revoked (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/5)

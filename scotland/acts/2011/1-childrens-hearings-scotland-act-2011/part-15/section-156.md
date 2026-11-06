@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Determination of appeal[^key-b8b267f6ce426d9096f3431178435df8]
+## 156. Determination of appeal[^c-b8b267f6ce426d9096f3431178435df8]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ summary: ''
 - (d) make an interim compulsory supervision order or interim variation of a compulsory supervision order, or
 - (e) grant a warrant to secure attendance.
 
-(3A)[^key-270a21b8ba49b25d894bb6937238a431] If the sheriff continues or varies a compulsory supervision order under subsection (3)(b), the sheriff—
+(3A)[^c-270a21b8ba49b25d894bb6937238a431] If the sheriff continues or varies a compulsory supervision order under subsection (3)(b), the sheriff—
 
 - (a) must, if the order contains a movement restriction condition (or is being varied so as to include such a condition), require the order to be reviewed by a children’s hearing on a day or within a period specified in the order,
 - (b) may, in any other case, require the order to be so reviewed.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8b267f6ce426d9096f3431178435df8]: Commencement: S. 156 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b8b267f6ce426d9096f3431178435df8]: Commencement: S. 156 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-270a21b8ba49b25d894bb6937238a431]: Textual amendment: S. 156(3A) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(15)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/15)
+[^c-270a21b8ba49b25d894bb6937238a431]: Textual amendment: S. 156(3A) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(15)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/15)

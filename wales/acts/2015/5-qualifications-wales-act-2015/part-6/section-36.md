@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Restriction on application of conditions imposed by Qualifications Wales[^key-8f0e434b5560b1656da40395c07a3f4a]
+## 36. Restriction on application of conditions imposed by Qualifications Wales[^c-8f0e434b5560b1656da40395c07a3f4a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f0e434b5560b1656da40395c07a3f4a]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/5/section/36) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8f0e434b5560b1656da40395c07a3f4a]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/5/section/36) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

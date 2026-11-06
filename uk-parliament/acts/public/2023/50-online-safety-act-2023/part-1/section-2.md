@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Overview of Act[^key-501323d7c26c2609306230ff9f259edf]
+## 2. Overview of Act[^c-501323d7c26c2609306230ff9f259edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-501323d7c26c2609306230ff9f259edf]: Commencement: S. 2 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)
+[^c-501323d7c26c2609306230ff9f259edf]: Commencement: S. 2 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)

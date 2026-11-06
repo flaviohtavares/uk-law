@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Service of documents etc.[^c9341621][^key-d0030aa6e4912931f264dfba6e8371e0]
+## 44. Service of documents etc.[^c9341621][^c-d0030aa6e4912931f264dfba6e8371e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ and for the purposes of this subsection the principal office of a company regist
 
 (3) The Secretary of State may by regulations make provision for the manner in which any information is to be given to any person under any provision of Part IV of this Act.
 
-(4) Without prejudice to the generality of subsection (3) above regulations made by the Secretary of State may prescribe the person, or manner of determining the person, who is to be treated for the purposes of section [^key-68fa3887e0cfeb3a8beeb795a4c046eb]... 30 above as the person from whom any goods were [^key-3079f2e9a215871caec1dd11c2c0729a]... seized where the goods were [^key-3079f2e9a215871caec1dd11c2c0729a]... seized from a vending machine.
+(4) Without prejudice to the generality of subsection (3) above regulations made by the Secretary of State may prescribe the person, or manner of determining the person, who is to be treated for the purposes of section [^c-68fa3887e0cfeb3a8beeb795a4c046eb]... 30 above as the person from whom any goods were [^c-3079f2e9a215871caec1dd11c2c0729a]... seized where the goods were [^c-3079f2e9a215871caec1dd11c2c0729a]... seized from a vending machine.
 
 (5) The power to make regulations under subsection (3) or (4) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament and shall include power—
 
@@ -62,10 +62,10 @@ and for the purposes of this subsection the principal office of a company regist
 
     S. 44 applied (E.W.S) (28.11.2003 for certain purposes, 15.7.2004 for certain further purposes and otherwise prosp.) by [Fireworks Act 2003 (c. 22)](https://www.legislation.gov.uk/ukpga/2003/22), [ss. 12(2)(i)](https://www.legislation.gov.uk/ukpga/2003/22/section/12/2/i), [18](https://www.legislation.gov.uk/ukpga/2003/22/section/18) (with [s. 2(8)](https://www.legislation.gov.uk/ukpga/2003/22/section/2/8)); [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule); [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-d0030aa6e4912931f264dfba6e8371e0]: Modification: S. 44 applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-d0030aa6e4912931f264dfba6e8371e0]: Modification: S. 44 applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c9341631]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-68fa3887e0cfeb3a8beeb795a4c046eb]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/44/4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 46(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/46/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-68fa3887e0cfeb3a8beeb795a4c046eb]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/44/4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 46(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/46/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-3079f2e9a215871caec1dd11c2c0729a]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/44/4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 46(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/46/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-3079f2e9a215871caec1dd11c2c0729a]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/44/4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 46(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/46/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

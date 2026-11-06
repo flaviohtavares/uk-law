@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Loss of benefit penalties transition from working tax credit[^key-2750af7d3d4056fb37bed67c2dc1bd21]
+## 38. Loss of benefit penalties transition from working tax credit[^c-2750af7d3d4056fb37bed67c2dc1bd21]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2750af7d3d4056fb37bed67c2dc1bd21]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/226/regulation/38) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-2750af7d3d4056fb37bed67c2dc1bd21]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/226/regulation/38) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00057]: Footnote: Sections 36A and 36C were inserted by section 120 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 

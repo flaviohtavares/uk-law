@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Subsidy database[^key-9e52d1dedf181585e776f9c8bbc3ef46][^key-d326107abb31a7462457b80b1a9bda93]
+## 32. Subsidy database[^c-9e52d1dedf181585e776f9c8bbc3ef46][^c-d326107abb31a7462457b80b1a9bda93]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e52d1dedf181585e776f9c8bbc3ef46]: Commencement: S. 32 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-9e52d1dedf181585e776f9c8bbc3ef46]: Commencement: S. 32 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-d326107abb31a7462457b80b1a9bda93]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/23/section/32) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-d326107abb31a7462457b80b1a9bda93]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/23/section/32) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

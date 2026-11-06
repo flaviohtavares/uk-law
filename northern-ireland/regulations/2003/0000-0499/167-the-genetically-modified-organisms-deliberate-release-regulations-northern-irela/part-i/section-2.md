@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-832000a7fd1d9a1b3d6083d1147873a0]
+## 2. Interpretation[^c-832000a7fd1d9a1b3d6083d1147873a0]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-832000a7fd1d9a1b3d6083d1147873a0]: Commencement: Reg. 2 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-832000a7fd1d9a1b3d6083d1147873a0]: Commencement: Reg. 2 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L117, 8.5.1990, p. 1
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Driver training[^key-3f114b44b34a770d21e6df57a95ba574]
+## 41. Driver training[^c-3f114b44b34a770d21e6df57a95ba574]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f114b44b34a770d21e6df57a95ba574]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/49/section/41) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/l)
+[^c-3f114b44b34a770d21e6df57a95ba574]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/49/section/41) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/l)

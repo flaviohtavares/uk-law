@@ -42,7 +42,7 @@ Coming into force
 
 1st April 2008
 
-[^key-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -54,12 +54,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64105bdeb5b412ea5d5dfc8d312b0405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64105bdeb5b412ea5d5dfc8d312b0405]: Textual amendment: Instrument revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (S.I. 2017/203)](https://www.legislation.gov.uk/uksi/2017/203), [reg. 3](https://www.legislation.gov.uk/uksi/2017/203/regulation/3)
+[^c-64105bdeb5b412ea5d5dfc8d312b0405]: Textual amendment: Instrument revoked (1.4.2017) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2017 (S.I. 2017/203)](https://www.legislation.gov.uk/uksi/2017/203), [reg. 3](https://www.legislation.gov.uk/uksi/2017/203/regulation/3)

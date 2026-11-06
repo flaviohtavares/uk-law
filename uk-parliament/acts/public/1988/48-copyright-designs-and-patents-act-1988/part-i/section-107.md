@@ -41,7 +41,7 @@ an article which is, and which he knows or has reason to believe is, an infringi
 
 knowing or having reason to believe that it is to be used to make infringing copies for sale or hire or for use in the course of a business.
 
-(2A)[^key-0058cfbd1f583ce17bb19f94849ab432] A person (“P”) who infringes copyright in a work by communicating the work to the public commits an offence if P—
+(2A)[^c-0058cfbd1f583ce17bb19f94849ab432] A person (“P”) who infringes copyright in a work by communicating the work to the public commits an offence if P—
 
 - (a) knows or has reason to believe that P is infringing copyright in the work, and
 - (b) either—
@@ -64,13 +64,13 @@ any person who caused the work to be so performed, played or shown is guilty of 
 
 (4) A person guilty of an offence under subsection (1)(a), (b), (d)(iv) or (e) is liable—
 
-- (a) on summary conviction to imprisonment for a term not exceeding six months or a fine[^key-4d0f985765592e965ed8e2667c6c589c], or both;
+- (a) on summary conviction to imprisonment for a term not exceeding six months or a fine[^c-4d0f985765592e965ed8e2667c6c589c], or both;
 - (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^c13756061] years, or both.
 
 (4A)[^c19355421] A person guilty of an offence under subsection (2A) is liable—
 
-- (a) on summary conviction to imprisonment for a term not exceeding three months or a fine[^key-160f494354beac028da764765e8f76ee], or both;
-- (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^key-feeeb345777137e939e02dfa2850cfa3] years, or both.
+- (a) on summary conviction to imprisonment for a term not exceeding three months or a fine[^c-160f494354beac028da764765e8f76ee], or both;
+- (b) on conviction on indictment to a fine or imprisonment for a term not exceeding ten[^c-feeeb345777137e939e02dfa2850cfa3] years, or both.
 
 (5) A person guilty of any other offence under this section is liable on summary conviction to imprisonment for a term not exceeding three[^c20954081] months or a fine not exceeding level 5 on the standard scale, or both.
 
@@ -78,18 +78,18 @@ any person who caused the work to be so performed, played or shown is guilty of 
 
 ## Annotations
 
-[^key-0058cfbd1f583ce17bb19f94849ab432]: Textual amendment: S. 107(2A)(2B) substituted for s. 107(2A) (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
+[^c-0058cfbd1f583ce17bb19f94849ab432]: Textual amendment: S. 107(2A)(2B) substituted for s. 107(2A) (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
 
 [^c19355441]: Textual amendment: Words in s. 107(3) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/1), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/9/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-4d0f985765592e965ed8e2667c6c589c]: Textual amendment: Words in s. 107(4)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/2/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4d0f985765592e965ed8e2667c6c589c]: Textual amendment: Words in s. 107(4)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/2/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c13756061]: Textual amendment: Word in s. 107(4)(b) substituted (20.11.2002) by [2002 c. 25](https://www.legislation.gov.uk/ukpga/2002/25), [s. 1(2)(5)](https://www.legislation.gov.uk/ukpga/2002/25/section/1/2); [S.I. 2002/2749](https://www.legislation.gov.uk/uksi/2002/2749), [art. 2](https://www.legislation.gov.uk/uksi/2002/2749/article/2)
 
 [^c19355421]: Textual amendment: S. 107(4A) inserted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/26/1/b) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-160f494354beac028da764765e8f76ee]: Textual amendment: Words in s. 107(4A)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-160f494354beac028da764765e8f76ee]: Textual amendment: Words in s. 107(4A)(a) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/17/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-feeeb345777137e939e02dfa2850cfa3]: Textual amendment: Word in s. 107(4A)(b) substituted (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/3), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
+[^c-feeeb345777137e939e02dfa2850cfa3]: Textual amendment: Word in s. 107(4A)(b) substituted (1.10.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/3), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/32/6)); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
 
 [^c20954081]: Textual amendment: Word in s. 107(5) substituted (1.1.2011) by [The Copyright, Designs and Patents Act 1988 (Amendment) Regulations 2010 (S.I. 2010/2694)](https://www.legislation.gov.uk/uksi/2010/2694), [art. 5](https://www.legislation.gov.uk/uksi/2010/2694/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35.[^key-ae7ec212579a0351228378fde1b129e5]
+## 35.[^c-ae7ec212579a0351228378fde1b129e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae7ec212579a0351228378fde1b129e5]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-ae7ec212579a0351228378fde1b129e5]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375161]: Marginal citation: S.I 2017/1012, prospectively amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579); there are other amending instruments but none is relevant.

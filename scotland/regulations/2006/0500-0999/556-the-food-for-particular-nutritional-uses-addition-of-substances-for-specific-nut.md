@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Amendment Regulations 2006 (revoked)[^key-710e8fdae85db5ea6bc09f0860f81206]
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Amendment Regulations 2006 (revoked)[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 31st December 2006
 
-[^key-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-710e8fdae85db5ea6bc09f0860f81206]
+## 1. Citation, commencement and extent[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2002[^key-710e8fdae85db5ea6bc09f0860f81206]
+## 2. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2002[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-710e8fdae85db5ea6bc09f0860f81206]
+## 3.[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-710e8fdae85db5ea6bc09f0860f81206]
+## 4.[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-710e8fdae85db5ea6bc09f0860f81206]
+## 5.[^c-710e8fdae85db5ea6bc09f0860f81206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-710e8fdae85db5ea6bc09f0860f81206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-710e8fdae85db5ea6bc09f0860f81206]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2009/427/regulation/6/c)
+[^c-710e8fdae85db5ea6bc09f0860f81206]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Scotland) Regulations 2009 (S.S.I. 2009/427)](https://www.legislation.gov.uk/ssi/2009/427), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/427/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2009/427/regulation/6/c)

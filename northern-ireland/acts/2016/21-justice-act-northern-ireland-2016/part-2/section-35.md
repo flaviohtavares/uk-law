@@ -39,7 +39,7 @@ summary: ''
 
 (4) The relevant internal complaints procedures are exhausted in relation to a complaint where in the opinion of the Ombudsman any procedures for dealing with the complaint set out in prison rules have been exhausted.
 
-(5)[^key-45c795cfeb60e219a8dbebf600692391] Regulations may—
+(5)[^c-45c795cfeb60e219a8dbebf600692391] Regulations may—
 
 - (a) amend the list of matters set out in subsection (2)(a) or provide that subsection (2)(a) does not apply to a prescribed matter;
 - (b) amend subsection (3) so as to provide for a prescribed person or a person of a prescribed description also to be entitled to make a complaint;
@@ -73,7 +73,7 @@ the Ombudsman shall notify the complainant (with a brief statement of the reason
 
 (12) If the complainant has died or is unable to act, the reference in subsection (10) to the complainant is to be read as a reference to the person who appears to the Ombudsman to be the most appropriate person to receive the notification.
 
-(13)[^key-45c795cfeb60e219a8dbebf600692391] Regulations may make provision for the procedures to be followed in connection with the making and investigation of a complaint to which this section applies.
+(13)[^c-45c795cfeb60e219a8dbebf600692391] Regulations may make provision for the procedures to be followed in connection with the making and investigation of a complaint to which this section applies.
 
 (14) Subject to the provisions of any such regulations and to any other provision of this Part, it is for the Ombudsman to determine the procedures applicable to anything which is to be done in relation to a complaint or the investigation of the complaint.
 
@@ -84,4 +84,4 @@ the Ombudsman shall notify the complainant (with a brief statement of the reason
 
 ## Annotations
 
-[^key-45c795cfeb60e219a8dbebf600692391]: Commencement: [S. 35(5)](https://www.legislation.gov.uk/nia/2016/21/section/35/5)[(13)](https://www.legislation.gov.uk/nia/2016/21/section/35/13) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/248/article/3/a)
+[^c-45c795cfeb60e219a8dbebf600692391]: Commencement: [S. 35(5)](https://www.legislation.gov.uk/nia/2016/21/section/35/5)[(13)](https://www.legislation.gov.uk/nia/2016/21/section/35/13) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/248/article/3/a)

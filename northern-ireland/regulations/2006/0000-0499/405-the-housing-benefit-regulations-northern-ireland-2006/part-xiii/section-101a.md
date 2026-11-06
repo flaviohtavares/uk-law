@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^key-cc29ffbc94ade7c4883b168439b112f1]
+## 101A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^c-cc29ffbc94ade7c4883b168439b112f1]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc29ffbc94ade7c4883b168439b112f1]: Textual amendment: [Reg. 101A](https://www.legislation.gov.uk/nisr/2006/405/regulation/101A) inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in operation) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/382/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2009/382/regulation/2/5)
+[^c-cc29ffbc94ade7c4883b168439b112f1]: Textual amendment: [Reg. 101A](https://www.legislation.gov.uk/nisr/2006/405/regulation/101A) inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in operation) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/382/regulation/1/2), [2(5)](https://www.legislation.gov.uk/nisr/2009/382/regulation/2/5)

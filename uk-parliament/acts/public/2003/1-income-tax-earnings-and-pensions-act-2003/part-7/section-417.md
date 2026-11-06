@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 417. Scope of Part 7[^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 417. Scope of Part 7[^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)

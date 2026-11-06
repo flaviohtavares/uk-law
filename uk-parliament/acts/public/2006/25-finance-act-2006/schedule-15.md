@@ -148,7 +148,7 @@ An election under paragraph 4 after the cessation must be made by each former pa
 - (b) the later period of account ends on or after 22nd June 2005 and the basis on which the profits for that period are calculated is in accordance with UK GAAP (including SSAP 9 and Application Note G as interpreted by UITF 40), and
 - (c) the earlier period of account ended before that date and the basis on which profits for that period were calculated was in accordance with UK GAAP (including SSAP 9 and Application Note G, but not as interpreted by UITF 40),
 
-and has effect in relation to any positive adjustment under Chapter 14 of Part 3 of or section 262 of CTA 2009[^key-41f8d2e8604c4cbfc6ff8908fd4bf8db] attributable to the change of basis from that mentioned in paragraph (c) to that mentioned in paragraph (b).
+and has effect in relation to any positive adjustment under Chapter 14 of Part 3 of or section 262 of CTA 2009[^c-41f8d2e8604c4cbfc6ff8908fd4bf8db] attributable to the change of basis from that mentioned in paragraph (c) to that mentioned in paragraph (b).
 
 (2) In relation to a period for which accounts are drawn up in accordance with international accounting standards, the references in sub-paragraph (1) to requirements of UK GAAP shall be read as references to the corresponding requirements of international accounting standards.
 
@@ -185,7 +185,7 @@ is treated as arising and charged to tax.
 
 (5) For the purposes of this paragraph “**the profits of the business**” means the profits of the business as calculated for corporation tax purposes leaving out of account—
 
-- (a) any adjustment under Chapter 14 of Part 3 of or section 262 of CTA 2009[^key-94cbe310ce89406803855973e80f7a67], and
+- (a) any adjustment under Chapter 14 of Part 3 of or section 262 of CTA 2009[^c-94cbe310ce89406803855973e80f7a67], and
 - (b) any allowances or charges under CAA 2001.
 
 (6) This paragraph has effect subject to—
@@ -199,7 +199,7 @@ is treated as arising and charged to tax.
 **11.** (1) This paragraph applies where by reason of—
 
 - (a) a change of accounting date,
-- (b) the company entering administration (see section 10 of CTA 2009[^key-acd7c5fc2182f52e0492f559bc007e77]), or
+- (b) the company entering administration (see section 10 of CTA 2009[^c-acd7c5fc2182f52e0492f559bc007e77]), or
 - (c) an insurance business transfer scheme (see section 12(7A) and (7B) of that Act),
 
 an accounting period to which paragraph 10 applies is a period of less than twelve months (a “short period”).
@@ -216,7 +216,7 @@ an accounting period to which paragraph 10 applies is a period of less than twel
 **12.** (1) If before the whole of the adjustment has been charged to tax an accounting period of the company ends by reason of—
 
 - (a) the company ceasing to be within the charge to corporation tax,
-- (b) the commencement of winding-up proceedings in respect of the company (see section 12 of CTA 2009[^key-33d7f8f1de1975776a97df634d88d202]),
+- (b) the commencement of winding-up proceedings in respect of the company (see section 12 of CTA 2009[^c-33d7f8f1de1975776a97df634d88d202]),
 
 the rule in paragraph 10(4) applies in relation to that accounting period.
 
@@ -237,7 +237,7 @@ the rule in paragraph 10(4) applies in relation to that accounting period.
 **14.** (1) In this Part of this Schedule “**business**” means—
 
 - (a) a trade or vocation, or
-- (b) a UK[^key-00812331c1fe7083cb9bf6af5137be8c] property business or overseas property business.
+- (b) a UK[^c-00812331c1fe7083cb9bf6af5137be8c] property business or overseas property business.
 
 #### Application of provisions to partnerships
 
@@ -276,12 +276,12 @@ An election under paragraph 13 after the cessation must be made by each former p
 
 [^c19557751]: Textual amendment: Words in Sch. 15 para. 4(2) substituted (with effect as mentioned in [s. 92](https://www.legislation.gov.uk/ukpga/2007/11/section/92) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 91(10)(b)](https://www.legislation.gov.uk/ukpga/2007/11/section/91/10/b)
 
-[^key-41f8d2e8604c4cbfc6ff8908fd4bf8db]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-41f8d2e8604c4cbfc6ff8908fd4bf8db]: Textual amendment: Words in Sch. 15 para. 9(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-94cbe310ce89406803855973e80f7a67]: Textual amendment: Words in Sch. 15 para. 10(5)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-94cbe310ce89406803855973e80f7a67]: Textual amendment: Words in Sch. 15 para. 10(5)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-acd7c5fc2182f52e0492f559bc007e77]: Textual amendment: Words in Sch. 15 para. 11(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-acd7c5fc2182f52e0492f559bc007e77]: Textual amendment: Words in Sch. 15 para. 11(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/4) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-33d7f8f1de1975776a97df634d88d202]: Textual amendment: Words in Sch. 15 para. 12(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-33d7f8f1de1975776a97df634d88d202]: Textual amendment: Words in Sch. 15 para. 12(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-00812331c1fe7083cb9bf6af5137be8c]: Textual amendment: Words in Sch. 15 para. 14(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(6)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/6) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-00812331c1fe7083cb9bf6af5137be8c]: Textual amendment: Words in Sch. 15 para. 14(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 696(6)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/696/6) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

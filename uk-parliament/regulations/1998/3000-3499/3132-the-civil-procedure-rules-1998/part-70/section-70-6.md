@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70.6. Effect of setting aside judgment or order[^key-68a21c6df481fa6f1208544882566509][^key-c1743615e67bb33d19bb3a71e755f3f8]
+## 70.6. Effect of setting aside judgment or order[^c-68a21c6df481fa6f1208544882566509][^c-c1743615e67bb33d19bb3a71e755f3f8]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ If a judgment or order is set aside, any enforcement of the judgment or order sh
 
 ## Annotations
 
-[^key-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
 
-[^key-c1743615e67bb33d19bb3a71e755f3f8]: Modification: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) applied (with modifications) (1.10.2007) by [The Court of Protection Rules 2007 (S.I. 2007/1744)](https://www.legislation.gov.uk/uksi/2007/1744), [rules 1](https://www.legislation.gov.uk/uksi/2007/1744/rule/1), [184(a)](https://www.legislation.gov.uk/uksi/2007/1744/rule/184/a)
+[^c-c1743615e67bb33d19bb3a71e755f3f8]: Modification: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) applied (with modifications) (1.10.2007) by [The Court of Protection Rules 2007 (S.I. 2007/1744)](https://www.legislation.gov.uk/uksi/2007/1744), [rules 1](https://www.legislation.gov.uk/uksi/2007/1744/rule/1), [184(a)](https://www.legislation.gov.uk/uksi/2007/1744/rule/184/a)

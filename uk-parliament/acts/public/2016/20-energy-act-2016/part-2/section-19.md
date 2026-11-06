@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Qualifying disputes and relevant parties[^key-e520b14422a0762611de162e02370400]
+## 19. Qualifying disputes and relevant parties[^c-e520b14422a0762611de162e02370400]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and are not the subject of a section 82 application.
 
 ## Annotations
 
-[^key-e520b14422a0762611de162e02370400]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/20/section/19) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-e520b14422a0762611de162e02370400]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/20/section/19) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

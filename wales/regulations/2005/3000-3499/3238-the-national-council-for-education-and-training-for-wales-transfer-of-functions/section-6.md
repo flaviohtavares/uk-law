@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Abolition of the Council[^key-9b58cb5d58d2e3a7c2c965012ab61da4]
+## 6. Abolition of the Council[^c-9b58cb5d58d2e3a7c2c965012ab61da4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On the transfer date the Council ceases to exist.
 
 ## Annotations
 
-[^key-9b58cb5d58d2e3a7c2c965012ab61da4]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2005/3238/article/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-9b58cb5d58d2e3a7c2c965012ab61da4]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2005/3238/article/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

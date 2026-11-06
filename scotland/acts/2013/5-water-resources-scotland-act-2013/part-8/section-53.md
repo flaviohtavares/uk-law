@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Repeal of enactments[^key-877c32c0c5ccadc8986fb5b6d3fecba3]
+## 53. Repeal of enactments[^c-877c32c0c5ccadc8986fb5b6d3fecba3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 makes minor and consequential repeals.
 
 ## Annotations
 
-[^key-877c32c0c5ccadc8986fb5b6d3fecba3]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2013/5/section/53) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-877c32c0c5ccadc8986fb5b6d3fecba3]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2013/5/section/53) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

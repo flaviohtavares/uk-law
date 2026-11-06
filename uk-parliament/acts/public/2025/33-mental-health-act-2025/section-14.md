@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Medicine etc: treatment in other circumstances[^key-61c3fb291feeff905ea5669fbe72ebd7]
+## 14. Medicine etc: treatment in other circumstances[^c-61c3fb291feeff905ea5669fbe72ebd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In [section 58](https://www.legislation.gov.uk/ukpga/1983/20/section/58) of the 
 
 ## Annotations
 
-[^key-61c3fb291feeff905ea5669fbe72ebd7]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-61c3fb291feeff905ea5669fbe72ebd7]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

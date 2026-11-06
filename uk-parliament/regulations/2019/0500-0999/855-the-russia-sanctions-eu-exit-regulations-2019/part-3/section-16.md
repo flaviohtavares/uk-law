@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Dealing with transferable securities or money-market instruments[^key-6f3087ebe2f7aa6ad18f9a6a5a8192e7]
+## 16. Dealing with transferable securities or money-market instruments[^c-6f3087ebe2f7aa6ad18f9a6a5a8192e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
   - (ii) owned by a person within sub-paragraph (a); or
 - (c) a person, other than an individual, acting on behalf or at the direction of a person within sub-paragraph (a) or sub-paragraph (b).
 
-(4A)[^key-2c01383b689c5d7f7ad94bc4d174aa7c] A person (“**P**”) must not, directly or indirectly, deal with a transferable security or money-market instrument falling within paragraph (4B) if P knows, or has reasonable cause to suspect, that P is dealing with such a transferable security or money-market instrument.
+(4A)[^c-2c01383b689c5d7f7ad94bc4d174aa7c] A person (“**P**”) must not, directly or indirectly, deal with a transferable security or money-market instrument falling within paragraph (4B) if P knows, or has reasonable cause to suspect, that P is dealing with such a transferable security or money-market instrument.
 
 (4B) A transferable security or money-market instrument falls within this paragraph if it has a maturity exceeding 30 days and is issued on or after 1st March 2022 by—
 
@@ -64,7 +64,7 @@ summary: ''
 
 (4F) A transferable security or money-market instrument falls within this paragraph if it is issued on or after 1st March 2022 by, or on behalf of, the Government of Russia.
 
-(4G)[^key-44ccf8cbf0068c070a1bff8a68fe9641] A person (“**P**”) must not, directly or indirectly, deal with a transferable security or money-market instrument falling within paragraph (4H) if P knows, or has reasonable cause to suspect, that P is dealing with such a transferable security or money-market instrument.
+(4G)[^c-44ccf8cbf0068c070a1bff8a68fe9641] A person (“**P**”) must not, directly or indirectly, deal with a transferable security or money-market instrument falling within paragraph (4H) if P knows, or has reasonable cause to suspect, that P is dealing with such a transferable security or money-market instrument.
 
 (4H) A transferable security or money-market instrument falls within this paragraph if it is issued—
 
@@ -72,11 +72,11 @@ summary: ''
 - (b) by a person, other than an individual, which is not a person connected with Russia, and
 - (c) for the purposes of an activity mentioned in regulation 18B(2).
 
-(5)[^key-1c4c2cb5c061889454368fc2c6d7ac39] Paragraphs (1), (3), (4A), (4C) , (4E) and (4G)[^key-aa707f2fdb9da21d5168617a969ed105] are subject to Part 7 (Exceptions and licences).
+(5)[^c-1c4c2cb5c061889454368fc2c6d7ac39] Paragraphs (1), (3), (4A), (4C) , (4E) and (4G)[^c-aa707f2fdb9da21d5168617a969ed105] are subject to Part 7 (Exceptions and licences).
 
-(6) A person who contravenes a prohibition in paragraph (1), (3), (4A), (4C)[^key-fa255223976e629e42d66025abe1b385] , (4E) or (4G)[^key-b89f1a4e6bfef8d0ed10a3cd15404246] commits an offence.
+(6) A person who contravenes a prohibition in paragraph (1), (3), (4A), (4C)[^c-fa255223976e629e42d66025abe1b385] , (4E) or (4G)[^c-b89f1a4e6bfef8d0ed10a3cd15404246] commits an offence.
 
-(7) For the purposes of this regulation, and regulations 17 (loans and credit arrangements) , 59 (exceptions relating to loans and credit arrangements) and 60ZZA (exceptions relating to investments in relation to Russia)[^key-1cc358c51761ab20e1946a4423d69922], a person (“C”) is “owned” by another person (“P”) if P—
+(7) For the purposes of this regulation, and regulations 17 (loans and credit arrangements) , 59 (exceptions relating to loans and credit arrangements) and 60ZZA (exceptions relating to investments in relation to Russia)[^c-1cc358c51761ab20e1946a4423d69922], a person (“C”) is “owned” by another person (“P”) if P—
 
 - (a) holds directly or indirectly more than 50% of the shares in C, or
 - (b) holds directly or indirectly more than 50% of the voting rights in C.
@@ -105,18 +105,18 @@ summary: ''
 
 ## Annotations
 
-[^key-6f3087ebe2f7aa6ad18f9a6a5a8192e7]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-6f3087ebe2f7aa6ad18f9a6a5a8192e7]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-2c01383b689c5d7f7ad94bc4d174aa7c]: Textual amendment: [Reg. 16(4A)-(4F)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4A) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/a)
+[^c-2c01383b689c5d7f7ad94bc4d174aa7c]: Textual amendment: [Reg. 16(4A)-(4F)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4A) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/a)
 
-[^key-44ccf8cbf0068c070a1bff8a68fe9641]: Textual amendment: [Reg. 16(4G)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4G)[(4H)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4H) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/a)
+[^c-44ccf8cbf0068c070a1bff8a68fe9641]: Textual amendment: [Reg. 16(4G)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4G)[(4H)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/4H) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/a)
 
-[^key-1c4c2cb5c061889454368fc2c6d7ac39]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/5) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/b)
+[^c-1c4c2cb5c061889454368fc2c6d7ac39]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/5) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/b)
 
-[^key-aa707f2fdb9da21d5168617a969ed105]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/5) substituted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/b)
+[^c-aa707f2fdb9da21d5168617a969ed105]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/5) substituted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/b)
 
-[^key-fa255223976e629e42d66025abe1b385]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/6) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/c)
+[^c-fa255223976e629e42d66025abe1b385]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/6) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/194/regulation/5/c)
 
-[^key-b89f1a4e6bfef8d0ed10a3cd15404246]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/6) substituted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(c)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/c)
+[^c-b89f1a4e6bfef8d0ed10a3cd15404246]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/6) substituted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [4(c)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/4/c)
 
-[^key-1cc358c51761ab20e1946a4423d69922]: Textual amendment: Words in [reg. 16(7)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/7) substituted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/801/regulation/3)
+[^c-1cc358c51761ab20e1946a4423d69922]: Textual amendment: Words in [reg. 16(7)](https://www.legislation.gov.uk/uksi/2019/855/regulation/16/7) substituted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/801/regulation/3)

@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Rules of procedure[^key-5e822e948c2f8a8b552d7876de59374a][^key-7f0526e64886e01a6085ec0585c42d4c]
+## 114. Rules of procedure[^c-5e822e948c2f8a8b552d7876de59374a][^c-7f0526e64886e01a6085ec0585c42d4c]
 
 *Extent: S*
 
-(1)[^key-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Provision may be made by rules of court in respect of any matter to be prescribed by rules made by virtue of this Act and dealing generally with all matters of procedure.
+(1)[^c-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Provision may be made by rules of court in respect of any matter to be prescribed by rules made by virtue of this Act and dealing generally with all matters of procedure.
 
-(2)[^key-98fc5d9363b4cde8fa4fdc3d7bfc14c7] In the case of an application for an adoption order, the rules must require—
+(2)[^c-98fc5d9363b4cde8fa4fdc3d7bfc14c7] In the case of an application for an adoption order, the rules must require—
 
 - (a) any person mentioned in subsection (3) to be notified of the matters mentioned in subsection (4), and
 - (b) the person mentioned in subsection (5) (if he can be found) to be notified of the matters mentioned in paragraphs (a) and (b) of subsection (4).
 
-(3)[^key-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Those persons are—
+(3)[^c-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Those persons are—
 
 - (a) every person who can be found and whose consent to the making of the order is required to be given or dispensed with under this Act or, if no such person can be found, any relative prescribed by rules who can be found,
 - (b) every person who has consented to the making of the order under section 20 of the 2002 Act (and has not withdrawn the consent) unless the person has given a notice under subsection (4)(a) of that section which has effect,
 - (c) every person who, if leave were given under section 31(12), would be entitled to oppose the making of the order.
 
-(4)[^key-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Those matters are—
+(4)[^c-98fc5d9363b4cde8fa4fdc3d7bfc14c7] Those matters are—
 
 - (a) that the application has been made,
 - (b) the date on which, and place where, the application will be heard,
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5e822e948c2f8a8b552d7876de59374a]: Commencement: S. 114 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
+[^c-5e822e948c2f8a8b552d7876de59374a]: Commencement: S. 114 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
 
-[^key-7f0526e64886e01a6085ec0585c42d4c]: Commencement: S. 114 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-7f0526e64886e01a6085ec0585c42d4c]: Commencement: S. 114 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-98fc5d9363b4cde8fa4fdc3d7bfc14c7]: Modification: S. 114(1)-(4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-98fc5d9363b4cde8fa4fdc3d7bfc14c7]: Modification: S. 114(1)-(4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

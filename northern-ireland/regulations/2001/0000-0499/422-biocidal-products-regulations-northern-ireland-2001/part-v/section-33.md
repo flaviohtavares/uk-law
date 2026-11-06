@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Advertisements[^key-01e8beaaaf22a87621c2c598970f1cda]
+## 33. Advertisements[^c-01e8beaaaf22a87621c2c598970f1cda]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01e8beaaaf22a87621c2c598970f1cda]: Commencement: Reg. 33 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-01e8beaaaf22a87621c2c598970f1cda]: Commencement: Reg. 33 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

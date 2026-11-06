@@ -54,11 +54,11 @@ The Income Support (General) Regulations 1987 [^c1313361] shall be amended in ac
 
 The Jobseeker's Allowance Regulations 1996 [^c1313362] shall be amended in accordance with Schedule 2 to these Regulations.
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-ae25321184dd0fb8196c30beac435574]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-ae25321184dd0fb8196c30beac435574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-ae25321184dd0fb8196c30beac435574]
+## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-ae25321184dd0fb8196c30beac435574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -70,7 +70,7 @@ The State Pension Credit Regulations 2002 [^c1313366] shall be amended in accord
 
 The Income Support and Jobseeker's Allowance (Amounts for Persons in Residential Care and Nursing Homes) Regulations 2001 [^c1313367] are hereby revoked.
 
-## 8. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-f0975a877e3027643192a82142ec56da]
+## 8. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-f0975a877e3027643192a82142ec56da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,7 +99,7 @@ The Income Support and Jobseeker's Allowance (Amounts for Persons in Residential
 
   .
 
-## 10. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^key-bf69e8436b5731679fc46549b67262d0]
+## 10. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^c-bf69e8436b5731679fc46549b67262d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -468,45 +468,45 @@ Regulation 3
 
 Regulation 4
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### .... ...[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d]
+### .... ...[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — AMENDMENT OF THE COUNCIL TAX BENEFIT (GENERAL) REGULATIONS 1992
 
 Regulation 5
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**....**[^key-6775881faead9807c9fc8f0f6c04ed6d][^key-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-6775881faead9807c9fc8f0f6c04ed6d][^c-6775881faead9807c9fc8f0f6c04ed6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — AMENDMENT OF THE STATE PENSION CREDIT REGULATIONS 2002
 
@@ -604,13 +604,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1313362]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-ae25321184dd0fb8196c30beac435574]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2687/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-ae25321184dd0fb8196c30beac435574]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2005/2687/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1313366]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
 [^c1313367]: Marginal citation: [S.I. 2001/1785](https://www.legislation.gov.uk/uksi/2001/1785).
 
-[^key-f0975a877e3027643192a82142ec56da]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/2687/regulation/8) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-f0975a877e3027643192a82142ec56da]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2005/2687/regulation/8) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
 [^c1313372]: Marginal citation: [S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724).
 
@@ -618,7 +618,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1313374]: Marginal citation: [1947 c. 19](https://www.legislation.gov.uk/ukpga/1947/19).
 
-[^key-bf69e8436b5731679fc46549b67262d0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2687/regulation/10) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-bf69e8436b5731679fc46549b67262d0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2687/regulation/10) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
 
 [^c1313377]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890).
 
@@ -726,6 +726,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1313429]: Marginal citation: Paragraph 57 was inserted by [S.I. 2001/1118](https://www.legislation.gov.uk/uksi/2001/1118).
 
-[^key-6775881faead9807c9fc8f0f6c04ed6d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/2687/schedule/3) [4](https://www.legislation.gov.uk/uksi/2005/2687/schedule/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-6775881faead9807c9fc8f0f6c04ed6d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/2687/schedule/3) [4](https://www.legislation.gov.uk/uksi/2005/2687/schedule/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1313452]: Marginal citation: Paragraph (7)(d) of regulation 15 was amended by [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078).

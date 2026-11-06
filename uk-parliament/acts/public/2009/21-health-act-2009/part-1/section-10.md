@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Regulations under section 8[^c2006732][^key-7ceaccb32ee5b5140dd58100abdfb650]
+## 10. Regulations under section 8[^c2006732][^c-7ceaccb32ee5b5140dd58100abdfb650]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2006732]: Commencement: S. 10 partly in force; s. 10 in force for specified purposes at Royal Assent see s. 40(6)(a)
 
-[^key-7ceaccb32ee5b5140dd58100abdfb650]: Commencement: S. 10 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 4](https://www.legislation.gov.uk/uksi/2010/30/article/4)
+[^c-7ceaccb32ee5b5140dd58100abdfb650]: Commencement: S. 10 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 4](https://www.legislation.gov.uk/uksi/2010/30/article/4)

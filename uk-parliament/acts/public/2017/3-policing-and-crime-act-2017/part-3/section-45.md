@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Further amendments consequential on section 38 etc[^c22718801][^key-af713189ae19b24625d67706839d2f19]
+## 45. Further amendments consequential on section 38 etc[^c22718801][^c-af713189ae19b24625d67706839d2f19]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Schedule 12—
 
 [^c22718801]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/3/section/45) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-af713189ae19b24625d67706839d2f19]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/3/section/45) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I 2017/1162, reg. 2)
+[^c-af713189ae19b24625d67706839d2f19]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/3/section/45) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I 2017/1162, reg. 2)

@@ -30,60 +30,60 @@ Joint Inspection of Children's Services and Inspection of Social Work Services (
 
 2006 asp 3
 
-[^key-d91cac6b64bceba8c07ece54baac819b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d91cac6b64bceba8c07ece54baac819b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d91cac6b64bceba8c07ece54baac819b][^key-1136c1be1e922236095b881499ec3d81]
+[^c-d91cac6b64bceba8c07ece54baac819b][^c-1136c1be1e922236095b881499ec3d81]
 
 **No longer in force.**
 
-## Part 1 — Children's services[^key-d91cac6b64bceba8c07ece54baac819b]
+## Part 1 — Children's services[^c-d91cac6b64bceba8c07ece54baac819b]
 
-### 1. Joint inspection of children's services[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Participation in inspections[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 1. Joint inspection of children's services[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Conduct of inspections[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 2. Participation in inspections[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2 — Social work services[^key-d91cac6b64bceba8c07ece54baac819b]
-
-### 4. Appointment of social work inspectors[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 3. Conduct of inspections[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Functions of inspectors[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+## Part 2 — Social work services[^c-d91cac6b64bceba8c07ece54baac819b]
+
+### 4. Appointment of social work inspectors[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 3 — General[^key-d91cac6b64bceba8c07ece54baac819b]
-
-### 6. Regulations and orders[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 5. Functions of inspectors[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Interpretation[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+## Part 3 — General[^c-d91cac6b64bceba8c07ece54baac819b]
+
+### 6. Regulations and orders[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Consequential amendments and repeals[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 7. Interpretation[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Ancillary provision[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 8. Consequential amendments and repeals[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Short title and commencement[^key-d91cac6b64bceba8c07ece54baac819b][^key-d91cac6b64bceba8c07ece54baac819b]
+### 9. Ancillary provision[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Short title and commencement[^c-d91cac6b64bceba8c07ece54baac819b][^c-d91cac6b64bceba8c07ece54baac819b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d91cac6b64bceba8c07ece54baac819b]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2006/3) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-d91cac6b64bceba8c07ece54baac819b]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2006/3) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 37](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/37); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-1136c1be1e922236095b881499ec3d81]: Modification: [Act](https://www.legislation.gov.uk/asp/2006/3) savings for effects of 2010 asp 8 Sch. 14 para. 37 (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Health and Social Care) Savings and Transitional Provisions Order 2011 (S.S.I. 2011/121)](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [22](https://www.legislation.gov.uk/ssi/2011/121/article/22)
+[^c-1136c1be1e922236095b881499ec3d81]: Modification: [Act](https://www.legislation.gov.uk/asp/2006/3) savings for effects of 2010 asp 8 Sch. 14 para. 37 (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Health and Social Care) Savings and Transitional Provisions Order 2011 (S.S.I. 2011/121)](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [22](https://www.legislation.gov.uk/ssi/2011/121/article/22)

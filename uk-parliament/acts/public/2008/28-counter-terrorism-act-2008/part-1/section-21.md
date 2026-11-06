@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Disclosure and the intelligence services: interpretation[^key-0978c90ca32c272619f7e48e842159e4]
+## 21. Disclosure and the intelligence services: interpretation[^c-0978c90ca32c272619f7e48e842159e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0978c90ca32c272619f7e48e842159e4]: Commencement: S. 21 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-0978c90ca32c272619f7e48e842159e4]: Commencement: S. 21 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Performance of regulated activities[^key-52ab6c6a08fb1fb9c02397c3d3af296a]
+## 69. Performance of regulated activities[^c-52ab6c6a08fb1fb9c02397c3d3af296a]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52ab6c6a08fb1fb9c02397c3d3af296a]: Textual amendment: Pt. 8 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/405/regulation/4)
+[^c-52ab6c6a08fb1fb9c02397c3d3af296a]: Textual amendment: Pt. 8 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/405/regulation/4)

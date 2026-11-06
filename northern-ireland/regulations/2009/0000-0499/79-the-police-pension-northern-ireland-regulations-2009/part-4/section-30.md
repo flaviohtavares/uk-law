@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Early payment of deferred pension subject to actuarial reduction[^key-706f9d8a479cee0b50065d8b4767cb10]
+## 30. Early payment of deferred pension subject to actuarial reduction[^c-706f9d8a479cee0b50065d8b4767cb10]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-706f9d8a479cee0b50065d8b4767cb10]: Commencement: Reg. 30 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-706f9d8a479cee0b50065d8b4767cb10]: Commencement: Reg. 30 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Construction and maintenance of new, altered or diverted streets and other structures[^key-ba16f4d57eebcec28ff57dd0613bc16d]
+## 10. Construction and maintenance of new, altered or diverted streets and other structures[^c-ba16f4d57eebcec28ff57dd0613bc16d]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba16f4d57eebcec28ff57dd0613bc16d]: Commencement: Art. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-ba16f4d57eebcec28ff57dd0613bc16d]: Commencement: Art. 10 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

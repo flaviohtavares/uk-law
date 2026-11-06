@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Requirement for commercial sales of air weapons to be in person[^key-44cfb0bd2f05cc8449470af59e9e4e1d]
+## 25. Requirement for commercial sales of air weapons to be in person[^c-44cfb0bd2f05cc8449470af59e9e4e1d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44cfb0bd2f05cc8449470af59e9e4e1d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/10/section/25) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-44cfb0bd2f05cc8449470af59e9e4e1d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/10/section/25) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

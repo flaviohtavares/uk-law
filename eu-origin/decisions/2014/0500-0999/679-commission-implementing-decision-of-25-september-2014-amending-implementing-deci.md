@@ -37,18 +37,18 @@ amending Implementing Decision 2012/270/EU as regards its period of application 
 
 (2014/679/EU) (revoked)
 
-[^key-9706773724c0bd5a3ddc8dcad544ed7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9706773724c0bd5a3ddc8dcad544ed7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9706773724c0bd5a3ddc8dcad544ed7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9706773724c0bd5a3ddc8dcad544ed7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9706773724c0bd5a3ddc8dcad544ed7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9706773724c0bd5a3ddc8dcad544ed7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9706773724c0bd5a3ddc8dcad544ed7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9706773724c0bd5a3ddc8dcad544ed7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9706773724c0bd5a3ddc8dcad544ed7e]
+## ANNEX[^c-9706773724c0bd5a3ddc8dcad544ed7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9706773724c0bd5a3ddc8dcad544ed7e]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/19) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-9706773724c0bd5a3ddc8dcad544ed7e]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/19) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-[^key-c0458e053c8163c87ad0cb6da7d5ed5d]The Veterinary Medicines Regulations 2008
+[^c-c0458e053c8163c87ad0cb6da7d5ed5d]The Veterinary Medicines Regulations 2008
 
 Made
 
@@ -56,7 +56,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Contents
 
-### PART 1 — Introduction[^key-c0458e053c8163c87ad0cb6da7d5ed5d]
+### PART 1 — Introduction[^c-c0458e053c8163c87ad0cb6da7d5ed5d]
 
 *Extent: E+W+S+NI*
 
@@ -66,7 +66,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 2 — Definition of “veterinary medicinal product”, interpretation and scope](part-1/section-2.md)
 - [Section 3 — Products to which these Regulations do not apply](part-1/section-3.md)
 
-### PART 2 — Authorised veterinary medicinal products[^key-c0458e053c8163c87ad0cb6da7d5ed5d]
+### PART 2 — Authorised veterinary medicinal products[^c-c0458e053c8163c87ad0cb6da7d5ed5d]
 
 *Extent: E+W+S+NI*
 
@@ -86,7 +86,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 15 — Exemptions](part-2/section-15.md)
 - [Section 16 — Fees](part-2/section-16.md)
 
-### PART 3 — Records[^key-c0458e053c8163c87ad0cb6da7d5ed5d]
+### PART 3 — Records[^c-c0458e053c8163c87ad0cb6da7d5ed5d]
 
 *Extent: E+W+S+NI*
 
@@ -101,7 +101,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 23 — Records of the receipt or supply of prescription products](part-3/section-23.md)
 - [Section 24 — Records of products administered to a food-producing animal under the cascade](part-3/section-24.md)
 
-### PART 4 — Unauthorised veterinary medicinal products[^key-c0458e053c8163c87ad0cb6da7d5ed5d]
+### PART 4 — Unauthorised veterinary medicinal products[^c-c0458e053c8163c87ad0cb6da7d5ed5d]
 
 *Extent: E+W+S+NI*
 
@@ -229,7 +229,7 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 ## Annotations
 
-[^key-c0458e053c8163c87ad0cb6da7d5ed5d]: Textual amendment: Regulations revoked (except reg. 45(2)) (1.10.2009) by [The Veterinary Medicines Regulations 2009 (S.I. 2009/2297)](https://www.legislation.gov.uk/uksi/2009/2297), regs. 1, [45](https://www.legislation.gov.uk/uksi/2009/2297/regulation/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2297/regulation/3))
+[^c-c0458e053c8163c87ad0cb6da7d5ed5d]: Textual amendment: Regulations revoked (except reg. 45(2)) (1.10.2009) by [The Veterinary Medicines Regulations 2009 (S.I. 2009/2297)](https://www.legislation.gov.uk/uksi/2009/2297), regs. 1, [45](https://www.legislation.gov.uk/uksi/2009/2297/regulation/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2297/regulation/3))
 
 [^f00001]: Footnote: [S.I. 1999/2027](https://www.legislation.gov.uk/uksi/1999/2027).
 

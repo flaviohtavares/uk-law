@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Alteration of purposes and winding-up of charitable companies.[^key-cde780d926d94d1808265d5beb2628d2]
+## 14. Alteration of purposes and winding-up of charitable companies.[^c-cde780d926d94d1808265d5beb2628d2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cde780d926d94d1808265d5beb2628d2]: Textual amendment: [Ss. 12-14](https://www.legislation.gov.uk/ukpga/1990/40/section/12) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/b); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2006/189/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2006/189/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/4))
+[^c-cde780d926d94d1808265d5beb2628d2]: Textual amendment: [Ss. 12-14](https://www.legislation.gov.uk/ukpga/1990/40/section/12) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/b); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2006/189/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2006/189/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/4))

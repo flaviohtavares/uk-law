@@ -53,7 +53,7 @@ any person may apply to the High Court for a declaration that the person (in thi
 - (b) the applicant—
   - (i) is the spouse or civil partner of the missing person; and
   - (ii) is domiciled in Northern Ireland on the date when the proceedings are begun or has been habitually resident in Northern Ireland throughout the period of one year ending with that date;
-- (ba)[^key-dfebfa974e90b77067f44d6a344573ee] the applicant and the missing person—
+- (ba)[^c-dfebfa974e90b77067f44d6a344573ee] the applicant and the missing person—
   - (i) are of the same sex and married each other under the law of Northern Ireland, or
   - (ii) registered as civil partners of each other under the law of Northern Ireland,
 
@@ -305,7 +305,7 @@ In this Act—
 - “**the Department**” means the Department of Finance and Personnel;
 - “**insurer**” means any person who provides for the payment of benefits on the death of any person.
 - “**missing person**” has the meaning assigned by section 1(1);
-- “prescribed”, except in section 8 and paragraphs 3A(1) and (2) and[^key-1ff7c1da09298f4fd1d2eb01faf24110] 7(1) and (3) of Schedule 1, means prescribed by regulations made by the Department;
+- “prescribed”, except in section 8 and paragraphs 3A(1) and (2) and[^c-1ff7c1da09298f4fd1d2eb01faf24110] 7(1) and (3) of Schedule 1, means prescribed by regulations made by the Department;
 - “**the Registrar General**” means the Registrar General for Northern Ireland;
 - “**the Register of Presumed Deaths**” means the register maintained under section 15(1);
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33);
@@ -372,7 +372,7 @@ send a copy of the declaration and such particulars as may be prescribed to the 
 - (b) secure that each entry made in the Register of Presumed Deaths is included in the index of the register of deaths; and
 - (c) make traceable the connection between the entry in the Register of Presumed Deaths and the index of the register of deaths.
 
-(3)[^key-34dbc3aa7c96374739a4a84d28a51e14] The Registrar General may notify such persons as the Registrar General considers appropriate that an entry has been made in the Register of Presumed Deaths.
+(3)[^c-34dbc3aa7c96374739a4a84d28a51e14] The Registrar General may notify such persons as the Registrar General considers appropriate that an entry has been made in the Register of Presumed Deaths.
 
 (4) Any notification under sub-paragraph (3) shall be subject to such conditions as the Registrar General considers appropriate.
 
@@ -404,7 +404,7 @@ send a copy of the order and such particulars as may be prescribed to the Regist
 
 (4) A certified copy of an entry in the Register of Presumed Deaths must be stamped with the seal of the General Register Office, of which judicial notice shall be taken.
 
-### Access to information[^key-23cf372b13393ccfe42d5a28abf120aa]
+### Access to information[^c-23cf372b13393ccfe42d5a28abf120aa]
 
 **3A.** (1) Regulations made by the Department may make provision for any person to have access on payment of the prescribed fee to any information contained in the Register of Presumed Deaths.
 
@@ -423,7 +423,7 @@ send a copy of the order and such particulars as may be prescribed to the Regist
 
 ### Correction, etc. of Register
 
-**4.** (1) Where it appears to the Registrar General that there is an error[^key-3662cd4bee1bca1c7484c409918f5801] in the Register of Presumed Deaths, the Registrar General may authorise any person to correct the error in the Register.
+**4.** (1) Where it appears to the Registrar General that there is an error[^c-3662cd4bee1bca1c7484c409918f5801] in the Register of Presumed Deaths, the Registrar General may authorise any person to correct the error in the Register.
 
 (2) Where it appears to the Registrar General that the death of a missing person, being a person to whom an entry in the Register of Presumed Deaths relates, has been registered in the register of deaths or recorded in any register kept or maintained under the law of a country or territory outside Northern Ireland corresponding in nature to the register of deaths, the Registrar General must mark or annotate the relevant entry in the Register of Presumed Deaths accordingly.
 
@@ -445,7 +445,7 @@ send a copy of the order and such particulars as may be prescribed to the Regist
 
 - (a) examination of a particular entry in the Register of Presumed Deaths;
 - (b) certified copies of an entry in the Register of Presumed Deaths;
-- (bb)[^key-100640d6c63ce45056d02dabc23eff4f] access to any information under paragraph 3A;
+- (bb)[^c-100640d6c63ce45056d02dabc23eff4f] access to any information under paragraph 3A;
 - (c) furnishing information for the purposes of any statutory provision specified in Schedule 1 to the 1976 Order,
 
 fees of such amounts as may be prescribed by order made by the Department.
@@ -503,20 +503,20 @@ Section 19(2).
 
 ## Annotations
 
-[^key-dfebfa974e90b77067f44d6a344573ee]: Textual amendment: [S. 1(2)(ba)](https://www.legislation.gov.uk/nia/2009/6/section/1/2/ba) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [147](https://www.legislation.gov.uk/uksi/2019/1514/regulation/147) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-dfebfa974e90b77067f44d6a344573ee]: Textual amendment: [S. 1(2)(ba)](https://www.legislation.gov.uk/nia/2009/6/section/1/2/ba) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [147](https://www.legislation.gov.uk/uksi/2019/1514/regulation/147) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c19781001]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2009/6/section/9) wholly in operation at 9.11.2009; [s. 9(1)](https://www.legislation.gov.uk/nia/2009/6/section/9/1) in operation at 3.8.2009, see [s. 20(1)(b)](https://www.legislation.gov.uk/nia/2009/6/section/20/1/b); [s. 9](https://www.legislation.gov.uk/nia/2009/6/section/9) in operation at 9.11.2009 insofar as not already in operation by [S.R. 2009/356](https://www.legislation.gov.uk/nisr/2009/356), [art. 2](https://www.legislation.gov.uk/nisr/2009/356/article/2)
 
 [^c19781011]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2009/6/section/11) wholly in operation at 9.11.2009; [s. 11(5)](https://www.legislation.gov.uk/nia/2009/6/section/11/5) in operation at 3.8.2009, see [s. 20(1)(c)](https://www.legislation.gov.uk/nia/2009/6/section/20/1/c); [s. 11](https://www.legislation.gov.uk/nia/2009/6/section/11) in operation at 9.11.2009 insofar as not already in operation by [S.R. 2009/356](https://www.legislation.gov.uk/nisr/2009/356), [art. 2](https://www.legislation.gov.uk/nisr/2009/356/article/2)
 
-[^key-1ff7c1da09298f4fd1d2eb01faf24110]: Textual amendment: Words in [s. 17](https://www.legislation.gov.uk/nia/2009/6/section/17) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(4)](https://www.legislation.gov.uk/nia/2011/20/section/28/4), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-1ff7c1da09298f4fd1d2eb01faf24110]: Textual amendment: Words in [s. 17](https://www.legislation.gov.uk/nia/2009/6/section/17) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(4)](https://www.legislation.gov.uk/nia/2011/20/section/28/4), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
 [^c21529411]: Subordinate legislation: [S. 20(2)](https://www.legislation.gov.uk/nia/2009/6/section/20/2) power fully exercised: 9.11.2009 appointed by [S.R. 2009/356](https://www.legislation.gov.uk/nisr/2009/356), [art. 2](https://www.legislation.gov.uk/nisr/2009/356/article/2)
 
-[^key-34dbc3aa7c96374739a4a84d28a51e14]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/1/3)[(4)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/1/4) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 27](https://www.legislation.gov.uk/nia/2011/20/section/27), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-34dbc3aa7c96374739a4a84d28a51e14]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/1/3)[(4)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/1/4) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 27](https://www.legislation.gov.uk/nia/2011/20/section/27), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-23cf372b13393ccfe42d5a28abf120aa]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/3A) inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(2)](https://www.legislation.gov.uk/nia/2011/20/section/28/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-23cf372b13393ccfe42d5a28abf120aa]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/3A) inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(2)](https://www.legislation.gov.uk/nia/2011/20/section/28/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-3662cd4bee1bca1c7484c409918f5801]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/4/1) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 29](https://www.legislation.gov.uk/nia/2011/20/section/29), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-3662cd4bee1bca1c7484c409918f5801]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nia/2009/6/schedule/1/paragraph/4/1) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 29](https://www.legislation.gov.uk/nia/2011/20/section/29), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-100640d6c63ce45056d02dabc23eff4f]: Textual amendment: Sch. 1 para. 7(1)(bb) inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(3)](https://www.legislation.gov.uk/nia/2011/20/section/28/3), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-100640d6c63ce45056d02dabc23eff4f]: Textual amendment: Sch. 1 para. 7(1)(bb) inserted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 28(3)](https://www.legislation.gov.uk/nia/2011/20/section/28/3), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)

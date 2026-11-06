@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 455A. Debits arising from derecognition of creditor relationships[^key-58966cee1b1614d0b1f9f4893a1450d0]
+## 455A. Debits arising from derecognition of creditor relationships[^c-58966cee1b1614d0b1f9f4893a1450d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58966cee1b1614d0b1f9f4893a1450d0]: Textual amendment: S. 455A and cross-heading inserted (19.7.2011) (with effect in accordance with Sch. 4 para. 13 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/5)
+[^c-58966cee1b1614d0b1f9f4893a1450d0]: Textual amendment: S. 455A and cross-heading inserted (19.7.2011) (with effect in accordance with Sch. 4 para. 13 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/4/paragraph/5)

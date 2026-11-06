@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Automatic car for a disabled employee[^key-f2d670804f74f708880c577452047aa5]
+## 124A. Automatic car for a disabled employee[^c-f2d670804f74f708880c577452047aa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d670804f74f708880c577452047aa5]: Textual amendment: S. 124A inserted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/5)
+[^c-f2d670804f74f708880c577452047aa5]: Textual amendment: S. 124A inserted (with effect in accordance with s. 54(6) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2009/10/section/54/5)

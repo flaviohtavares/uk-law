@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Supply of a SIM farm[^key-6aceb1084713365f7ca476f486688c24][^key-554c22ae4155c84a9ee46e90892e08be]
+## 152. Supply of a SIM farm[^c-6aceb1084713365f7ca476f486688c24][^c-554c22ae4155c84a9ee46e90892e08be]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aceb1084713365f7ca476f486688c24]: Commencement: S. 152 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6aceb1084713365f7ca476f486688c24]: Commencement: S. 152 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-554c22ae4155c84a9ee46e90892e08be]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2026/20/section/152) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)
+[^c-554c22ae4155c84a9ee46e90892e08be]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2026/20/section/152) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)

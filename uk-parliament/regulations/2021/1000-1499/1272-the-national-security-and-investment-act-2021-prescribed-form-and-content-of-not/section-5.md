@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Prescribed form and content of a validation application[^key-40a8eea1cea663681f17d70a7f69e098]
+## 5. Prescribed form and content of a validation application[^c-40a8eea1cea663681f17d70a7f69e098]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A validation application must be in writing and—
 
 ## Annotations
 
-[^key-40a8eea1cea663681f17d70a7f69e098]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1272/regulation/5) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)
+[^c-40a8eea1cea663681f17d70a7f69e098]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1272/regulation/5) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)

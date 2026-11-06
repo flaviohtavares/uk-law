@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Prohibition on acting unless directorship notified[^key-65605605f37c50263feb9de4bd61810a][^key-b4861a8ca0511f0aaaf6a1bde34b6dad]
+## 44. Prohibition on acting unless directorship notified[^c-65605605f37c50263feb9de4bd61810a][^c-b4861a8ca0511f0aaaf6a1bde34b6dad]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ After section 167M of the Companies Act 2006 (inserted by section 43 of this Act
 
 ## Annotations
 
-[^key-65605605f37c50263feb9de4bd61810a]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-65605605f37c50263feb9de4bd61810a]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b4861a8ca0511f0aaaf6a1bde34b6dad]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/56/section/44) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/h)
+[^c-b4861a8ca0511f0aaaf6a1bde34b6dad]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/56/section/44) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/h)

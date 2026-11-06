@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Approval of the training manual[^key-d415a3479d4744fe1c3dfd09c8aa00cd]
+## 67. Approval of the training manual[^c-d415a3479d4744fe1c3dfd09c8aa00cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d415a3479d4744fe1c3dfd09c8aa00cd]: Commencement: Reg. 67 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d415a3479d4744fe1c3dfd09c8aa00cd]: Commencement: Reg. 67 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

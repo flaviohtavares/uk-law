@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the shares have been issued to the managers of an approved knowledge-intensive fund[^M_F_e248c39d-9e7d-4ac8-fc1c-15d48f2d17eb] as nominee for the individual,
 - (b) the fund has closed, that is to say, no further investments in the fund are to be accepted, [^M_F_a7c2ce7a-653f-4e1e-fc89-ae890dd1dfdd]...
-- (c) the amounts which the managers have, as nominee for the individual, subscribed for shares issued within 12[^key-637b504737db50ffbe59672045148a2a] months after the closing of the fund represent at least 50%[^M_F_581c2538-669b-45df-9ce5-1f5550f45e51] of the individual's investment in the fund.
+- (c) the amounts which the managers have, as nominee for the individual, subscribed for shares issued within 12[^c-637b504737db50ffbe59672045148a2a] months after the closing of the fund represent at least 50%[^M_F_581c2538-669b-45df-9ce5-1f5550f45e51] of the individual's investment in the fund.
 - (d)[^M_F_f75debcf-3f89-4382-d783-422ec1373b05] the amounts which the managers have, as nominee for the individual, subscribed for shares issued within 24 months after the closing of the fund represent at least 90% of the individual’s investment in the fund,
 - (e) within that 24 month period at least 80% of the individual’s investment in the fund is represented by shares in companies which are knowledge-intensive companies at the time the shares are issued, and
 - (f) the managers have met such conditions with respect to the provision of information to HMRC Commissioners as the Commissioners consider appropriate for the purposes of this section.
@@ -43,7 +43,7 @@ summary: ''
 
 (2A)[^M_F_194d0a36-deec-4379-98fe-9fe0e6d4ab2c] Accordingly, in a case where section 158 has effect with the modifications in subsection (2), the reference in section 158(4) to the issue of the shares in the preceding tax year is to the issue of the shares in the tax year preceding the tax year in which the fund closes (and references elsewhere in this Part to the issue of shares in a previous tax year are to be read accordingly).
 
-(3)[^key-bdd3a7adb5767a9220b00803e6b93643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bdd3a7adb5767a9220b00803e6b93643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If an individual claims EIS relief in respect of shares in a company which have been issued to the managers of an approved knowledge-intensive fund[^M_F_4c309a66-f01f-4d45-a596-46cbf67591ff] as nominee for the individual, section 203(1) (entitlement to claim) applies as if —
 
@@ -71,7 +71,7 @@ summary: ''
 
 [^M_F_a7c2ce7a-653f-4e1e-fc89-ae890dd1dfdd]: Textual amendment: Word in s. 215(1)(b) omitted (6.4.2020 with effect in accordance with [s. 36(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/12) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/2/c)
 
-[^key-637b504737db50ffbe59672045148a2a]: Textual amendment: Word in s. 251(1)(c) substituted (with effect in accordance with Sch. 16 para. 19(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 19(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/19/1)
+[^c-637b504737db50ffbe59672045148a2a]: Textual amendment: Word in s. 251(1)(c) substituted (with effect in accordance with Sch. 16 para. 19(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 19(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/19/1)
 
 [^M_F_581c2538-669b-45df-9ce5-1f5550f45e51]: Textual amendment: Word in s. 215(1)(d) substituted (6.4.2020 with effect in accordance with [s. 36(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/12) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 36(2)(d)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/2/c)
 
@@ -85,7 +85,7 @@ summary: ''
 
 [^M_F_194d0a36-deec-4379-98fe-9fe0e6d4ab2c]: Textual amendment: S. 215(2A) inserted (6.4.2020 with effect in accordance with [s. 36(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/12) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 36(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/5)
 
-[^key-bdd3a7adb5767a9220b00803e6b93643]: Textual amendment: S. 251(3) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/20)
+[^c-bdd3a7adb5767a9220b00803e6b93643]: Textual amendment: S. 251(3) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/20)
 
 [^M_F_4c309a66-f01f-4d45-a596-46cbf67591ff]: Textual amendment: Words in s. 215(4) substituted (6.4.2020 with effect in accordance with [s. 36(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/12) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 36(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/36/6)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Scottish Special Housing Association may act as agents for Relevant Authority in Scotland.[^c11844291][^key-55c7f0a77bf81b7fd0200046b719eadd]
+## 100. Scottish Special Housing Association may act as agents for Relevant Authority in Scotland.[^c11844291][^c-55c7f0a77bf81b7fd0200046b719eadd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 [^c11844291]: Textual amendment: S. 100 repealed (S.) by [Housing (Scotland) Act 1986 (c. 65, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/65), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1986/65/section/25/2),Sch. 3
 
-[^key-55c7f0a77bf81b7fd0200046b719eadd]: Textual amendment: Ss. 91-100 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-55c7f0a77bf81b7fd0200046b719eadd]: Textual amendment: Ss. 91-100 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))

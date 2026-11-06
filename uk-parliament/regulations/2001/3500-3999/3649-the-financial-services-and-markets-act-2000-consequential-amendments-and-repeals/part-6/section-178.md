@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Amendments consequential on dissolution of Registrar of Friendly Societies[^key-63269f820856bfdec31853dbe7af5096]
+## 178. Amendments consequential on dissolution of Registrar of Friendly Societies[^c-63269f820856bfdec31853dbe7af5096]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63269f820856bfdec31853dbe7af5096]: Commencement: Art. 178 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-63269f820856bfdec31853dbe7af5096]: Commencement: Art. 178 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00123]: Footnote: The definition of “actuary” was amended by the Friendly and Industrial and Provident Societies Act [1968 (c. 55)](https://www.legislation.gov.uk/ukpga/1968/55), Schedule 1 paragraph 9.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38E. Further use of UK marking[^key-2aea6b40cb4ecd6f2384eb0cbf68142d]
+## 38E. Further use of UK marking[^c-2aea6b40cb4ecd6f2384eb0cbf68142d]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aea6b40cb4ecd6f2384eb0cbf68142d]: Textual amendment: Reg. 38E substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/696/regulation/10/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-2aea6b40cb4ecd6f2384eb0cbf68142d]: Textual amendment: Reg. 38E substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2024/696/regulation/10/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

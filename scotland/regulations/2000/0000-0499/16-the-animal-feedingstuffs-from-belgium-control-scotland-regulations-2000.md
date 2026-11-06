@@ -53,7 +53,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 2
 (3) In these Regulations–
 
 - “the Act" means the Food Safety Act 1990 [^c16210021] and any expressions used both in these Regulations and in the Act have the meaning they bear in the Act;
-- “the Agency” means the Food Standards Agency;[^key-d32a9938b8feb8a390957bfad520984a]
+- “the Agency” means the Food Standards Agency;[^c-d32a9938b8feb8a390957bfad520984a]
 - “controlled entity" means any product or material which is excluded from the definition of “relevant animal product" in the Order solely by reason that it is not food; and
 - “the Order" means the Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000 [^c16210031] and any expressions used both in these Regulations and in the Order have the meaning they bear in the Order.
 
@@ -85,19 +85,19 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 2
 
 ## 4. Enforcement
 
-(1) These Regulations are to be enforced and executed by each relevant authority, namely the Agency[^key-7251ad162c205e7a64271927a78b403b] and each food authority within its area.
+(1) These Regulations are to be enforced and executed by each relevant authority, namely the Agency[^c-7251ad162c205e7a64271927a78b403b] and each food authority within its area.
 
 (2) For the purposes of the return to Belgium of any product as specified in regulation 2(1)(c) of these Regulations, the competent authority for the purposes of the official certificate is the Agency, any authorised officer of a food authority or any inspector appointed by such an authority, where it is also an authority with responsibilities under section 67 of the Agriculture Act 1970 [^c16210041].
 
 (3) An authorised officer of a relevant authority has the same powers of entry for the purposes of the exercise of that duty as an authorised officer of an enforcement authority under section 32 of the Act for purposes connected with the Act or regulations or orders under the Act, and also has, in relation to any business producing material to feed to animals, the same powers as an authorised officer of an enforcement authority under that section in relation to a food business.
 
-(4) Each food authority shall give such assistance and information to the Agency[^key-ca094e391a5486ab52400c2b76a37fd1] as it may request[^key-316a77eca6f3ecab24012d6c4c392e87] in connection with the implementation of the Commission Decision in relation to controlled entities.
+(4) Each food authority shall give such assistance and information to the Agency[^c-ca094e391a5486ab52400c2b76a37fd1] as it may request[^c-316a77eca6f3ecab24012d6c4c392e87] in connection with the implementation of the Commission Decision in relation to controlled entities.
 
 ## 5. Application and modification of various provisions of the Act
 
 (1) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations, subject to the following modifications–
 
-- (a) the references in subsections (1) and (2) to “food authority" shall be construed as including reference to the Agency[^key-3efe5f2c3229c11477cb0616a82e5280];
+- (a) the references in subsections (1) and (2) to “food authority" shall be construed as including reference to the Agency[^c-3efe5f2c3229c11477cb0616a82e5280];
 - (b) subsections (1) and (2) extend to any product or material which appears to an authorised officer to come within the definition of “controlled entity";
 - (c) subsections (3), (4), (5)(a) and (6) to (9) apply–
   - (i) to any product or material falling within sub paragraph (b) above as it applies to food which appears to an authorised officer to fail to comply with food safety requirements or to be likely to cause food poisoning or any disease communicable to human beings, and
@@ -143,18 +143,18 @@ In addition to making minor changes to the revoked Regulations, these Regulation
 
 [^c16210021]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-d32a9938b8feb8a390957bfad520984a]: Textual amendment: Words in reg. 1(3) inserted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
+[^c-d32a9938b8feb8a390957bfad520984a]: Textual amendment: Words in reg. 1(3) inserted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 1](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
 
 [^c16210031]: Marginal citation: [S.S.I. 2000/15](https://www.legislation.gov.uk/ssi/2000/15).
 
-[^key-7251ad162c205e7a64271927a78b403b]: Textual amendment: Words in reg. 4(1)(2) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
+[^c-7251ad162c205e7a64271927a78b403b]: Textual amendment: Words in reg. 4(1)(2) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
 
 [^c16210041]: Marginal citation: [1970 c.40](https://www.legislation.gov.uk/ukpga/1970/40).
 
-[^key-ca094e391a5486ab52400c2b76a37fd1]: Textual amendment: Words in reg. 4(4) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
+[^c-ca094e391a5486ab52400c2b76a37fd1]: Textual amendment: Words in reg. 4(4) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
 
-[^key-316a77eca6f3ecab24012d6c4c392e87]: Textual amendment: Words in reg. 4(4) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 3](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
+[^c-316a77eca6f3ecab24012d6c4c392e87]: Textual amendment: Words in reg. 4(4) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 3](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
 
-[^key-3efe5f2c3229c11477cb0616a82e5280]: Textual amendment: Words in reg. 5(1)(a) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
+[^c-3efe5f2c3229c11477cb0616a82e5280]: Textual amendment: Words in reg. 5(1)(a) substituted (1.4.2000) by [The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 (S.S.I. 2000/62)](https://www.legislation.gov.uk/ssi/2000/62), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/62/regulation/1/1), [sch. 2 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2000/62/schedule/2/part/IV) (with [reg. 13](https://www.legislation.gov.uk/ssi/2000/62/regulation/13))
 
 [^c16210051]: Marginal citation: [S.S.I. 1999/33](https://www.legislation.gov.uk/ssi/1999/33)

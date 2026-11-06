@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Subsidies for air carriers for the operation of routes[^key-bc901e6fb2d83529ff8f411854d4cbae][^key-f81204f55e8e451ca2f62c1e5ae44489]
+## 28. Subsidies for air carriers for the operation of routes[^c-bc901e6fb2d83529ff8f411854d4cbae][^c-f81204f55e8e451ca2f62c1e5ae44489]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc901e6fb2d83529ff8f411854d4cbae]: Commencement: S. 28 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-bc901e6fb2d83529ff8f411854d4cbae]: Commencement: S. 28 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-f81204f55e8e451ca2f62c1e5ae44489]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/23/section/28) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-f81204f55e8e451ca2f62c1e5ae44489]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/23/section/28) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

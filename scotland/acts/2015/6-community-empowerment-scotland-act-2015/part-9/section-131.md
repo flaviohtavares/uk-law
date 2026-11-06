@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Sale of surplus produce[^key-58179729f202dc5670183999b3e401fa]
+## 131. Sale of surplus produce[^c-58179729f202dc5670183999b3e401fa]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to any regulations under section 115(1), a tenant of an allotment may se
 
 ## Annotations
 
-[^key-58179729f202dc5670183999b3e401fa]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2015/6/section/131) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-58179729f202dc5670183999b3e401fa]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2015/6/section/131) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

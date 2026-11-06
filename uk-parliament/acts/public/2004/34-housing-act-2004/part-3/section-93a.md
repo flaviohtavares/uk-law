@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Duty to revoke licence in banning order cases[^key-ffee2be1a1f9354db755446f7a13daad]
+## 93A. Duty to revoke licence in banning order cases[^c-ffee2be1a1f9354db755446f7a13daad]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffee2be1a1f9354db755446f7a13daad]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukpga/2004/34/section/93A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/11); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-ffee2be1a1f9354db755446f7a13daad]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukpga/2004/34/section/93A) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/11); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

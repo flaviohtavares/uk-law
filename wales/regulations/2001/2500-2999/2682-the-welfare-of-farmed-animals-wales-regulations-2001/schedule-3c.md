@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3C — ENHANCED CAGE SYSTEMS[^key-09b4ae6cdf03b7ad0525c745cab692ec]
+## SCHEDULE 3C — ENHANCED CAGE SYSTEMS[^c-09b4ae6cdf03b7ad0525c745cab692ec]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b4ae6cdf03b7ad0525c745cab692ec]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3C) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)
+[^c-09b4ae6cdf03b7ad0525c745cab692ec]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3C) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)

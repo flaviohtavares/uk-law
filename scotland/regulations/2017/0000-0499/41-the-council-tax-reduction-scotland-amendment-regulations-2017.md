@@ -48,69 +48,69 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-754467afc878f8b0e531d7525522b43a]
+### 1. Citation and commencement[^c-754467afc878f8b0e531d7525522b43a]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2017 and come into force on 1st April 2017.
 
-## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-c9c29b92e628eeb36acae696018334ed]
+## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-c9c29b92e628eeb36acae696018334ed]
 
 **No longer in force.**
 
-### 2. General[^key-c9c29b92e628eeb36acae696018334ed]
+### 2. General[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 2[^key-c9c29b92e628eeb36acae696018334ed]
+### 3. Amendment of regulation 2[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 23[^key-c9c29b92e628eeb36acae696018334ed]
+### 4. Amendment of regulation 23[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 41[^key-c9c29b92e628eeb36acae696018334ed]
+### 5. Amendment of regulation 41[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 45[^key-c9c29b92e628eeb36acae696018334ed]
+### 6. Amendment of regulation 45[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 48[^key-c9c29b92e628eeb36acae696018334ed]
+### 7. Amendment of regulation 48[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 67[^key-c9c29b92e628eeb36acae696018334ed]
+### 8. Amendment of regulation 67[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 86[^key-c9c29b92e628eeb36acae696018334ed]
+### 9. Amendment of regulation 86[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of schedule 1[^key-c9c29b92e628eeb36acae696018334ed]
+### 10. Amendment of schedule 1[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of schedule 2[^key-c9c29b92e628eeb36acae696018334ed]
+### 11. Amendment of schedule 2[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of schedule 4[^key-c9c29b92e628eeb36acae696018334ed]
+### 12. Amendment of schedule 4[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of schedule 5[^key-c9c29b92e628eeb36acae696018334ed]
+### 13. Amendment of schedule 5[^c-c9c29b92e628eeb36acae696018334ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-### 14. General[^key-85f3df0838a8afd32bea0a329e91ce20]
+### 14. General[^c-85f3df0838a8afd32bea0a329e91ce20]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00003] are amended as follows.
 
-### 15. Amendment of regulation 2[^key-cd1d74dc711004c0eaa1d9dc51229fb8]
+### 15. Amendment of regulation 2[^c-cd1d74dc711004c0eaa1d9dc51229fb8]
 
 In regulation 2 (interpretation), in paragraph (1) after the definition of “independent hospital” insert—
 
@@ -118,7 +118,7 @@ In regulation 2 (interpretation), in paragraph (1) after the definition of “in
 
 .
 
-### 16. Amendment of regulation 48[^key-49a81260fab6ca05556d476e1de2322f]
+### 16. Amendment of regulation 48[^c-49a81260fab6ca05556d476e1de2322f]
 
 In regulation 48 (non-dependant deductions)—
 
@@ -135,11 +135,11 @@ In regulation 48 (non-dependant deductions)—
     ; and
 - (c) in paragraph (9)(b), after “Foundation,” insert “another infected blood payment scheme,”.
 
-### 17. Amendment of regulation 66[^key-902c25a86f4608fe9661fd9867b2f3af]
+### 17. Amendment of regulation 66[^c-902c25a86f4608fe9661fd9867b2f3af]
 
 In regulation 66 (evidence and information), in paragraph (3)(a) after “Foundation” insert “, another infected blood payment scheme”.
 
-### 18. Amendment of schedule 1[^key-e1a35aba6c367fda538e4cdfc19bf583]
+### 18. Amendment of schedule 1[^c-e1a35aba6c367fda538e4cdfc19bf583]
 
 In schedule 1 (applicable amount)—
 
@@ -157,7 +157,7 @@ In schedule 1 (applicable amount)—
   - (iv) for “£60.06”, substitute “£60.90”; and
   - (v) for “£34.60”, substitute “£34.95”.
 
-### 19. Amendment of schedule 4[^key-e587ba93637e409e9087f7743a8fac78]
+### 19. Amendment of schedule 4[^c-e587ba93637e409e9087f7743a8fac78]
 
 In schedule 4 (capital disregards), in paragraph 16—
 
@@ -165,7 +165,7 @@ In schedule 4 (capital disregards), in paragraph 16—
 - (b) in sub-paragraph (7), after “Foundation” insert “, another infected blood payment scheme”; and
 - (c) in sub-paragraph (8), after “Foundation” insert “, any other infected blood payment scheme”.
 
-### 20. Amendment of schedule 5[^key-922db0e2cdb3b7000d2c4c8e0e8ae9fe]
+### 20. Amendment of schedule 5[^c-922db0e2cdb3b7000d2c4c8e0e8ae9fe]
 
 In schedule 5 (amount of alternative maximum council tax reduction)—
 
@@ -202,22 +202,22 @@ Regulations 15 to 20 amend the Council Tax Reduction (State Pension Credit) (Sco
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-754467afc878f8b0e531d7525522b43a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-754467afc878f8b0e531d7525522b43a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-c9c29b92e628eeb36acae696018334ed]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2017/41/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-c9c29b92e628eeb36acae696018334ed]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2017/41/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-85f3df0838a8afd32bea0a329e91ce20]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/41/regulation/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-85f3df0838a8afd32bea0a329e91ce20]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/41/regulation/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319); relevant amending instruments are [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46) and [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81).
 
-[^key-cd1d74dc711004c0eaa1d9dc51229fb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/41/regulation/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-cd1d74dc711004c0eaa1d9dc51229fb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/41/regulation/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-49a81260fab6ca05556d476e1de2322f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/41/regulation/16) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-49a81260fab6ca05556d476e1de2322f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/41/regulation/16) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-902c25a86f4608fe9661fd9867b2f3af]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/41/regulation/17) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-902c25a86f4608fe9661fd9867b2f3af]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/41/regulation/17) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-e1a35aba6c367fda538e4cdfc19bf583]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/41/regulation/18) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-e1a35aba6c367fda538e4cdfc19bf583]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/41/regulation/18) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-e587ba93637e409e9087f7743a8fac78]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/41/regulation/19) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-e587ba93637e409e9087f7743a8fac78]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/41/regulation/19) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
 
-[^key-922db0e2cdb3b7000d2c4c8e0e8ae9fe]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/41/regulation/20) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)
+[^c-922db0e2cdb3b7000d2c4c8e0e8ae9fe]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/41/regulation/20) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/41/regulation/1)

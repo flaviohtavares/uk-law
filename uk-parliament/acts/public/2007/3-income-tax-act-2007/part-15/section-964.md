@@ -25,7 +25,7 @@ summary: ''
 - (a) a person makes a payment from which the person is required to deduct a sum representing income tax, and
 - (b) income tax equal to the sum required to be deducted is, under section 900(3), 901(3) or 903(5) or (6), to be collected through the person's self-assessment return.
 
-(2)[^key-39704f8e85d994244854c564ecba9242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-39704f8e85d994244854c564ecba9242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The income tax is to be treated for the purposes of TMA 1970 as if it were income tax charged on the person or trustee.
 
@@ -36,10 +36,10 @@ summary: ''
 
 (in addition to the person or trustee's income tax liability calculated in accordance with Chapter 3 of Part 2 (calculation of income tax liability)).
 
-(5)[^key-7c4a501f2a280866116209cc42089d1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7c4a501f2a280866116209cc42089d1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39704f8e85d994244854c564ecba9242]: Textual amendment: S. 964(2) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(16)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/16) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-39704f8e85d994244854c564ecba9242]: Textual amendment: S. 964(2) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(16)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/16) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-7c4a501f2a280866116209cc42089d1a]: Textual amendment: S. 964(5) omitted (21.7.2008 with effect in accordance with s. 69(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/69/1)
+[^c-7c4a501f2a280866116209cc42089d1a]: Textual amendment: S. 964(5) omitted (21.7.2008 with effect in accordance with s. 69(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/69/1)

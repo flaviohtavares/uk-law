@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Seed Potatoes (Levy) (Amendment) Order (Northern Ireland) 2004 (revoked)[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]
+Seed Potatoes (Levy) (Amendment) Order (Northern Ireland) 2004 (revoked)[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 29th March 2004
 
-[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]
+## 1. Citation and commencement[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes (Levy) Order (Northern Ireland) 1985[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]
+## 2. Amendment of the Seed Potatoes (Levy) Order (Northern Ireland) 1985[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6cc6ae4c9125f2fbb51d57a66de8e65c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6cc6ae4c9125f2fbb51d57a66de8e65c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6cc6ae4c9125f2fbb51d57a66de8e65c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6cc6ae4c9125f2fbb51d57a66de8e65c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6cc6ae4c9125f2fbb51d57a66de8e65c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/70) revoked (1.5.2009) by [The Seed Potatoes (Levy) (Revocation) Order (Northern Ireland) 2008 (S.R. 2008/496)](https://www.legislation.gov.uk/nisr/2008/496), [art. 1](https://www.legislation.gov.uk/nisr/2008/496/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/496/schedule)
+[^c-6cc6ae4c9125f2fbb51d57a66de8e65c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/70) revoked (1.5.2009) by [The Seed Potatoes (Levy) (Revocation) Order (Northern Ireland) 2008 (S.R. 2008/496)](https://www.legislation.gov.uk/nisr/2008/496), [art. 1](https://www.legislation.gov.uk/nisr/2008/496/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/496/schedule)

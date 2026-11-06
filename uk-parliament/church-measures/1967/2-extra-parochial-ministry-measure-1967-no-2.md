@@ -61,7 +61,7 @@ A person is housebound or is a detained person for the purposes of this subsecti
 
 (5) Nothing in this section shall affect section 31 of the [^c9217771]Public Schools Act 1868 . . . . . . [^c9217781] which relates to the chapels and chaplains of certain public . . . . . . [^c9217781] schools.
 
-## 2A. Ministry by member of religious community[^key-22cb57b2da2b2c768cefeaf75cfc9d15]
+## 2A. Ministry by member of religious community[^c-22cb57b2da2b2c768cefeaf75cfc9d15]
 
 (1) The bishop of a diocese may license a member of a religious community who is in Holy Orders to perform in the diocese the offices and services specified in the licence for the furtherance of the work and mission of that community.
 
@@ -71,7 +71,7 @@ A person is housebound or is a detained person for the purposes of this subsecti
 
 (4) In this section, “**religious community**” has the same meaning as in the Canons (see Canon DA 1).
 
-## 2B. Armed Forces chaplains[^key-6d82572b14feef444ad2b5168a524d9c]
+## 2B. Armed Forces chaplains[^c-6d82572b14feef444ad2b5168a524d9c]
 
 (1) The Archbishop of Canterbury may license an Armed Forces chaplain to perform, in that capacity, the ofﬁces and services speciﬁed in the licence at any place in the province of Canterbury or York.
 
@@ -119,8 +119,8 @@ Provided that this Measure may be applied to the Channel Islands as defined in t
 
 [^c9217781]: Textual amendment: Words repealed by [Education Act 1973 (c. 16)](https://www.legislation.gov.uk/ukpga/1973/16), [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/16/schedule/2), [Pt. II](https://www.legislation.gov.uk/ukpga/1973/16/part/II)
 
-[^key-22cb57b2da2b2c768cefeaf75cfc9d15]: Textual amendment: S. 2A inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-22cb57b2da2b2c768cefeaf75cfc9d15]: Textual amendment: S. 2A inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-6d82572b14feef444ad2b5168a524d9c]: Textual amendment: S. 2B inserted (with effect retrospectively in accordance with s. 1(2) of the amending Measure) by [Armed Forces Chaplains (Licensing) Measure 2025 (No. 3)](https://www.legislation.gov.uk/ukcm/2025/3), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2025/3/section/1/1), [2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)
+[^c-6d82572b14feef444ad2b5168a524d9c]: Textual amendment: S. 2B inserted (with effect retrospectively in accordance with s. 1(2) of the amending Measure) by [Armed Forces Chaplains (Licensing) Measure 2025 (No. 3)](https://www.legislation.gov.uk/ukcm/2025/3), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2025/3/section/1/1), [2(2)](https://www.legislation.gov.uk/ukcm/2025/3/section/2/2)
 
 [^c9217801]: Marginal citation: [1871 c. 66](https://www.legislation.gov.uk/ukpga/1871/66).

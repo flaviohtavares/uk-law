@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 134. Service of notices upon company.[^key-283674846d70e62ce19b40e39281d167][^c5585251]
+## 134. Service of notices upon company.[^c-283674846d70e62ce19b40e39281d167][^c5585251]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ And be it enacted, that any summons or notice, or any writ or other proceeding a
 
 ## Annotations
 
-[^key-283674846d70e62ce19b40e39281d167]: Modification: S. 134 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-283674846d70e62ce19b40e39281d167]: Modification: S. 134 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
 [^c5585251]: Modification: S. 134 amended (1.1.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2](https://www.legislation.gov.uk/uksi/1991/2684/article/2), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)

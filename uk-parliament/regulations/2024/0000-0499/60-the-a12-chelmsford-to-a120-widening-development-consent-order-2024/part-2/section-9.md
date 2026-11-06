@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Limits of deviation[^key-2b753dc58b5bec8cb001bba7742eba43]
+## 9. Limits of deviation[^c-2b753dc58b5bec8cb001bba7742eba43]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ certifies accordingly that a deviation in excess of these limits would not give 
 
 ## Annotations
 
-[^key-2b753dc58b5bec8cb001bba7742eba43]: Commencement: Art. 9 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-2b753dc58b5bec8cb001bba7742eba43]: Commencement: Art. 9 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

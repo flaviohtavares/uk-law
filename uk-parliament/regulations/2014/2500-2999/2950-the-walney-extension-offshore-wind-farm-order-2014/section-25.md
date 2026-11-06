@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Acquisition of part of certain properties[^key-2010b5aa6268bd33401652c821bda1a1]
+## 25. Acquisition of part of certain properties[^c-2010b5aa6268bd33401652c821bda1a1]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ the notice to treat shall be deemed to be a notice to treat for the land subject
 
 ## Annotations
 
-[^key-2010b5aa6268bd33401652c821bda1a1]: Commencement: Art. 25 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-2010b5aa6268bd33401652c821bda1a1]: Commencement: Art. 25 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Section 51 of the Police (Northern Ireland) Act 2000 (c. 32) (notifiable memberships of police officers) applies in relation to persons designated under section 30, 30A[^key-b195d187447c1f7f0b0f89164f84a11d] or 31 as it applies in relation to police officers.
+(1) Section 51 of the Police (Northern Ireland) Act 2000 (c. 32) (notifiable memberships of police officers) applies in relation to persons designated under section 30, 30A[^c-b195d187447c1f7f0b0f89164f84a11d] or 31 as it applies in relation to police officers.
 
 (2) As so applied, that section has effect as if the reference in subsection (1) to the duties of a police officer were to the functions for the purposes of which any power or duty is conferred or imposed on a person by his designation under section 30, 30A or 31.
 
 ## Annotations
 
-[^key-b195d187447c1f7f0b0f89164f84a11d]: Textual amendment: Word in s. 36(1)(2) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(6)](https://www.legislation.gov.uk/nisi/2007/912/article/7/6)
+[^c-b195d187447c1f7f0b0f89164f84a11d]: Textual amendment: Word in s. 36(1)(2) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(6)](https://www.legislation.gov.uk/nisi/2007/912/article/7/6)

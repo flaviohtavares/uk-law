@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47ZL. Applicable bail period and bail return date: special case of release on bail under section 37(7)(a) or 37C(2)(b)[^key-ec0018a506f9dcc41bb2b0680d97b6e2]
+## 47ZL. Applicable bail period and bail return date: special case of release on bail under section 37(7)(a) or 37C(2)(b)[^c-ec0018a506f9dcc41bb2b0680d97b6e2]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0018a506f9dcc41bb2b0680d97b6e2]: Textual amendment: [Ss. 47ZA-47ZM](https://www.legislation.gov.uk/ukpga/1984/60/section/47ZA) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 63](https://www.legislation.gov.uk/ukpga/2017/3/section/63), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/399/regulation/5))
+[^c-ec0018a506f9dcc41bb2b0680d97b6e2]: Textual amendment: [Ss. 47ZA-47ZM](https://www.legislation.gov.uk/ukpga/1984/60/section/47ZA) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 63](https://www.legislation.gov.uk/ukpga/2017/3/section/63), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/15) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/399/regulation/5))

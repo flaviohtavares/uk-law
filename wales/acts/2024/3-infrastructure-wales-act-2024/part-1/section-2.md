@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Electricity infrastructure[^key-ca6212c1c1c6728bd8d791363e4c0283]
+## 2. Electricity infrastructure[^c-ca6212c1c1c6728bd8d791363e4c0283]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6212c1c1c6728bd8d791363e4c0283]: Commencement: S. 2 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-ca6212c1c1c6728bd8d791363e4c0283]: Commencement: S. 2 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

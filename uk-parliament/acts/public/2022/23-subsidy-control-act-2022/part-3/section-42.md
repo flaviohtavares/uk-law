@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Chapter 2: supplementary and interpretative provision[^key-7d57e02407e085ee8a8429f45f6009b0][^key-6f248ec74b1f514c5a308d01f5b0d32d]
+## 42. Chapter 2: supplementary and interpretative provision[^c-7d57e02407e085ee8a8429f45f6009b0][^c-6f248ec74b1f514c5a308d01f5b0d32d]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ The amount determined as a result of the currency conversion carried out for thi
 
 ## Annotations
 
-[^key-7d57e02407e085ee8a8429f45f6009b0]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-7d57e02407e085ee8a8429f45f6009b0]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-6f248ec74b1f514c5a308d01f5b0d32d]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/23/section/42) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-6f248ec74b1f514c5a308d01f5b0d32d]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/23/section/42) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

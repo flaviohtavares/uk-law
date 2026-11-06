@@ -112,12 +112,12 @@ HAS ADOPTED THIS REGULATION:
 
 2. This Regulation shall apply in particular to airspace users and aircraft engaged in general air traffic:
 
-- (a) operating into, within or out of the United Kingdom[^key-f5d8c5bfa189e175e0c9ea2e307ae3e8];
-- (b) bearing the nationality and registration marks of the United Kingdom[^key-987cb0632d765525d7183f761c18e7b3], and operating in any airspace to the extent that they do not conflict with the rules published by the country having jurisdiction over the territory overflown.
+- (a) operating into, within or out of the United Kingdom[^c-f5d8c5bfa189e175e0c9ea2e307ae3e8];
+- (b) bearing the nationality and registration marks of the United Kingdom[^c-987cb0632d765525d7183f761c18e7b3], and operating in any airspace to the extent that they do not conflict with the rules published by the country having jurisdiction over the territory overflown.
 
-3.[^c000001] This Regulation shall also apply to the competent authority[^key-c7c90424905451aafbd68d9c8d6586ba], air navigation service providers, aerodrome operators and ground personnel engaged in aircraft operations.
+3.[^c000001] This Regulation shall also apply to the competent authority[^c-c7c90424905451aafbd68d9c8d6586ba], air navigation service providers, aerodrome operators and ground personnel engaged in aircraft operations.
 
-4.[^c000002] This Regulation shall not apply to model aircraft and toy aircraft. However, the Secretary of State must take such steps as the Secretary of State considers appropriate[^key-48da7c19552ec6fcd88f685389ff9745] to ensure that model aircraft and toy aircraft are operated in such a manner as to minimise hazards related to civil aviation safety, to persons, property or other aircraft.
+4.[^c000002] This Regulation shall not apply to model aircraft and toy aircraft. However, the Secretary of State must take such steps as the Secretary of State considers appropriate[^c-48da7c19552ec6fcd88f685389ff9745] to ensure that model aircraft and toy aircraft are operated in such a manner as to minimise hazards related to civil aviation safety, to persons, property or other aircraft.
 
 ## Article 2. Definitions
 
@@ -197,14 +197,14 @@ For the purpose of this Regulation the following definitions shall apply:
 - 52.. ‘clearance limit’ means the point to which an aircraft is granted an air traffic control clearance;
 - 53.. ‘cloud of operational significance’ means a cloud with the height of cloud base below 1 500 m (5 000 ft) or below the highest minimum sector altitude, whichever is greater, or a cumulonimbus cloud or a towering cumulus cloud at any height;
 - 54.. ‘code (SSR)’ means the number assigned to a particular multiple pulse reply signal transmitted by a transponder in Mode A or Mode C;
-- 55.. ‘competent authority’ means the Civil Aviation Authority;[^key-33aa3a2b9f9b119517f232cff6eedcc8]
+- 55.. ‘competent authority’ means the Civil Aviation Authority;[^c-33aa3a2b9f9b119517f232cff6eedcc8]
 - 56.. ‘control area’ means a controlled airspace extending upwards from a specified limit above the earth;
 - 57.. ‘controlled aerodrome’ means an aerodrome at which air traffic control service is provided to aerodrome traffic regardless whether or not a control zone exists;
 - 58.. ‘controlled airspace’ means an airspace of defined dimensions within which air traffic control service is provided in accordance with the airspace classification;
 - 59.. ‘controlled flight’ means any flight which is subject to an air traffic control clearance;
 - 60.. ‘controller-pilot data link communications (CPDLC)’ mean a means of communication between controller and pilot, using data link for ATC communications;
 - 61.. ‘control zone’ means a controlled airspace extending upwards from the surface of the earth to a specified upper limit;
-- 61A.. ‘critical area’ means an area of defined dimensions extending around the ground equipment of a precision instrument approach within which the presence of vehicles or aircraft will cause unacceptable disturbance of the guidance signals;[^key-252f5d1cf1b404a3d7c1f653ba02db0d]
+- 61A.. ‘critical area’ means an area of defined dimensions extending around the ground equipment of a precision instrument approach within which the presence of vehicles or aircraft will cause unacceptable disturbance of the guidance signals;[^c-252f5d1cf1b404a3d7c1f653ba02db0d]
 - 62.. ‘cruise climb’ means an aeroplane cruising technique resulting in a net increase in altitude as the aeroplane mass decreases;
 - 63.. ‘cruising level’ means a level maintained during a significant portion of a flight;
 - 64.. ‘current flight plan (CPL)’ means the flight plan, including changes, if any, brought about by subsequent clearances;
@@ -276,7 +276,7 @@ For the purpose of this Regulation the following definitions shall apply:
 - 116.. ‘ safety-sensitive personnel ’ means persons who might endanger aviation safety if they perform their duties and functions improperly, including crew members, aircraft maintenance personnel, aerodrome operations personnel, rescue, fire-fighting and maintenance personnel, personnel allowed unescorted access to the movement area and air traffic controllers;
 - 117.. ‘sailplane’ means a heavier-than-air aircraft which is supported in flight by the dynamic reaction of the air against its fixed lifting surfaces, the free flight of which does not depend on an engine, including also hang gliders, paragliders and other comparable craft;
 - 118.. ‘secondary surveillance radar (SSR)’ means a surveillance radar system which uses transmitters/receivers (interrogators) and transponders;
-- 118A.. ‘sensitive area’ means an area extending beyond the critical area within which the parking or movement, or both parking and movement, of aircraft or vehicles will affect the guidance signal to the extent that it may be rendered as an unacceptable disturbance to aircraft using the signal;[^key-0e30a190d56ee989e73217aea9fddecc]
+- 118A.. ‘sensitive area’ means an area extending beyond the critical area within which the parking or movement, or both parking and movement, of aircraft or vehicles will affect the guidance signal to the extent that it may be rendered as an unacceptable disturbance to aircraft using the signal;[^c-0e30a190d56ee989e73217aea9fddecc]
 - 119.. ‘SIGMET information’ means information issued by a meteorological watch office concerning the occurrence or expected occurrence of specified en-route weather phenomena which may affect the safety of aircraft operations;
 - 120.. ‘signal area’ means an area on an aerodrome used for the display of ground signals;
 - 121.. ‘significant point’ means a specified geographical location used in defining an ATS route or the flight path of an aircraft and for other navigation and ATS purposes;
@@ -310,15 +310,15 @@ For the purpose of this Regulation the following definitions shall apply:
   - ((b)) the greatest distance at which lights in the vicinity of 1 000 candelas can be seen and identified against an unlit background;
 - 142.. ‘visual meteorological conditions’ mean meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling, equal to or better than specified minima;
 - 143.. ‘VMC’ means the symbol used to designate visual meteorological conditions.
-- 144.. ‘with the surface in sight’ means with the flight crew being able to see sufficient surface features or surface illumination to enable the flight crew to maintain the aircraft in a desired attitude without reference to any flight instrument.[^key-e3c38e9c371d5e12cb43f01c39a31d60]
+- 144.. ‘with the surface in sight’ means with the flight crew being able to see sufficient surface features or surface illumination to enable the flight crew to maintain the aircraft in a desired attitude without reference to any flight instrument.[^c-e3c38e9c371d5e12cb43f01c39a31d60]
 
 ## Article 3. Compliance
 
-The competent authority[^key-9da432c6b5bf5810e0f57e65622e0086] shall ensure compliance with the common rules and provisions set out in the Annex to this Regulation without prejudice to the flexibility provisions contained in Article 14 of the Regulation (EC) No 216/2008 and the safeguards contained in Article 13 of Regulation (EC) No 549/2004.
+The competent authority[^c-9da432c6b5bf5810e0f57e65622e0086] shall ensure compliance with the common rules and provisions set out in the Annex to this Regulation without prejudice to the flexibility provisions contained in Article 14 of the Regulation (EC) No 216/2008 and the safeguards contained in Article 13 of Regulation (EC) No 549/2004.
 
 ## Article 4. Exemptions for special operations
 
-1. The competent authority[^key-9026626fda8759f7d38232daa57d820f] may, either on its[^key-f90371e266f7f34c69d7af41e436ced6] own initiative or based on applications by the entities concerned, grant exemptions to individual entities or to categories of entities from any of the requirements of this Regulation for the following activities of public interest and for the training necessary to carry out those activities safely:
+1. The competent authority[^c-9026626fda8759f7d38232daa57d820f] may, either on its[^c-f90371e266f7f34c69d7af41e436ced6] own initiative or based on applications by the entities concerned, grant exemptions to individual entities or to categories of entities from any of the requirements of this Regulation for the following activities of public interest and for the training necessary to carry out those activities safely:
 
 - (a) police and customs missions;
 - (b) traffic surveillance and pursuit missions;
@@ -329,32 +329,32 @@ The competent authority[^key-9da432c6b5bf5810e0f57e65622e0086] shall ensure comp
 - (g) fire fighting;
 - (h) exemptions required to ensure the security of flights by heads of State, Ministers and comparable State functionaries.
 
-2.[^key-e695e2f32d3639803650bb91a14c19a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-e695e2f32d3639803650bb91a14c19a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. This Article is without prejudice to Article 3 and may be applied in the cases where the activities listed under paragraph 1, cannot be carried out as operational air traffic or where they otherwise may not benefit from the flexibility provisions contained in this Regulation.
 
 This Article shall also be without prejudice to helicopter operating minima contained in the specific approvals granted by the competent authority, pursuant to Annex V to Commission Regulation (EU) No 965/2012 [^f00004] .
 
-## Article 5. Differences[^key-480a954dde748bd1a14a720a106d9fa6]
+## Article 5. Differences[^c-480a954dde748bd1a14a720a106d9fa6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 6. Monitoring of amendments
 
-1. The competent authority must:[^key-c9f2da0a21c880598cb9e3a7aa066e7a]
+1. The competent authority must:[^c-c9f2da0a21c880598cb9e3a7aa066e7a]
 
-- (a) [^key-36901b3dc9bc85b4b5b98323876d5c3d]... ensure that any amendments adopted under the framework of the Chicago Convention which are of relevance with respect to the scope of this Regulation are monitored and analysed; and
-- (b) where necessary, [^key-c601962c2f6768bddcf9b9847fb35c74]... develop proposals for amendments to the Annex to this Regulation.
+- (a) [^c-36901b3dc9bc85b4b5b98323876d5c3d]... ensure that any amendments adopted under the framework of the Chicago Convention which are of relevance with respect to the scope of this Regulation are monitored and analysed; and
+- (b) where necessary, [^c-c601962c2f6768bddcf9b9847fb35c74]... develop proposals for amendments to the Annex to this Regulation.
 
-2. The provisions of [^key-681d46fdb3b02df530264abc39ca6caa]... Article 7 regarding amendments to the Annex shall apply as appropriate.
+2. The provisions of [^c-681d46fdb3b02df530264abc39ca6caa]... Article 7 regarding amendments to the Annex shall apply as appropriate.
 
 ## Article 7. Amendments to the Annex
 
-1.[^key-b345707fa9c89e06aa3b49fcf581133f] The Secretary of State may by regulations made by statutory instrument amend the Annex to this Regulation.
+1.[^c-b345707fa9c89e06aa3b49fcf581133f] The Secretary of State may by regulations made by statutory instrument amend the Annex to this Regulation.
 
-2. The amendments referred to in paragraph 1 may include, but shall not be limited to, amendments required to ensure consistency of legal provisions during the future extension of this Regulation to contain the relevant provisions of other ICAO annexes and documents than Annex 2 or changes stemming from updates of those ICAO annexes and documents themselves or from changes to any relevant European[^key-a33b5a9f9924c6c0dbbee828381a8af4] Union Regulations.
+2. The amendments referred to in paragraph 1 may include, but shall not be limited to, amendments required to ensure consistency of legal provisions during the future extension of this Regulation to contain the relevant provisions of other ICAO annexes and documents than Annex 2 or changes stemming from updates of those ICAO annexes and documents themselves or from changes to any relevant European[^c-a33b5a9f9924c6c0dbbee828381a8af4] Union Regulations.
 
-(3.)[^key-91ca36c0f5fb19214938dd3bda1f0eeb] Regulations under paragraph 1—
+(3.)[^c-91ca36c0f5fb19214938dd3bda1f0eeb] Regulations under paragraph 1—
 
 - (a) may make different provision for different purposes;
 - (b) may make transitional, transitory or saving provision;
@@ -362,17 +362,17 @@ This Article shall also be without prejudice to helicopter operating minima cont
 
 (4.) A statutory instrument containing regulations under paragraph 1 is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## Article 8. Transitional and additional measures[^key-f2874bf6ab0fe27191351e873a297c65]
+## Article 8. Transitional and additional measures[^c-f2874bf6ab0fe27191351e873a297c65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Safety requirements[^key-9e30685e531d4f2b8a2123675c43c297]
+## Article 9. Safety requirements[^c-9e30685e531d4f2b8a2123675c43c297]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 10. Amendments to Regulations (EC) No 730/2006, (EC) No 1033/2006, (EC) No 1794/2006, (EC) No 1265/2007, (EU) No 255/2010 and Implementing Regulation (EU) No 1035/2011
 
-1.[^key-962a11a196a831fc6623554cbc41ed06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-962a11a196a831fc6623554cbc41ed06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 2. Regulation (EC) No 1033/2006 is amended as follows:
 
@@ -396,9 +396,9 @@ This Article shall also be without prejudice to helicopter operating minima cont
 
   .
 
-3.[^key-b2ad4e97210f6250193c9cc894082363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-b2ad4e97210f6250193c9cc894082363] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-8a1ea840f2cd43f22957693a75d7fca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-8a1ea840f2cd43f22957693a75d7fca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 5. Regulation (EU) No 255/2010 is amended as follows:
 
@@ -414,11 +414,11 @@ This Article shall also be without prejudice to helicopter operating minima cont
 - (b) the reference in Annex II, point 4(c), to ‘Annex 11 on air traffic services in its 13th edition of July 2001, including all amendments up to No 47-B’ shall be amended by adding at the end of that sentence ‘and Implementing Regulation (EU) No 923/2012 as applicable.’;
 - (c) the reference in Annex III, point 2(b), to ‘Annex 11 on air traffic services in its 13th edition of July 2001, including all amendments up to No 47-B’ shall be amended by adding at the end of that sentence ‘and Implementing Regulation (EU) No 923/2012 as applicable;’
 
-## Article 11. Entry into force[^key-2781160daa112fd53afe550ea1a31b1f]
+## Article 11. Entry into force[^c-2781160daa112fd53afe550ea1a31b1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92c1745a865a4b9f6f1d3427dbb1c916]...
+[^c-92c1745a865a4b9f6f1d3427dbb1c916]...
 
 ## ANNEX — RULES OF THE AIR
 
@@ -432,11 +432,11 @@ This Article shall also be without prejudice to helicopter operating minima cont
 
 (a)
 
-For flight over the high seas, the rules specified in Annex 2 to the Chicago Convention shall apply without exception. For the purposes of continuity and seamless operation of air traffic services [^key-01de93617d9e549624556d1170a80627]..., the provisions of Annex 11 to the Chicago Convention may be applied in airspace over high seas in a manner that is consistent with how those provisions are applied over the territory of the United Kingdom[^key-82947a0d2567b16a8325146a5379c1eb]. This shall be without prejudice to the operations of State Aircraft under Article 3 of the Chicago Convention. This shall also be without prejudice to the responsibilities of the United Kingdom[^key-0233df6264832ad42e969f2c50884463] to ensure that aircraft operations within the Flight Information Regions within which the United Kingdom is[^key-48f5209bf81a19dd894d2676b7d0689e] responsible for the provision of air traffic services in accordance with ICAO regional air navigation agreements are undertaken in a safe, expeditious and efficient manner.
+For flight over the high seas, the rules specified in Annex 2 to the Chicago Convention shall apply without exception. For the purposes of continuity and seamless operation of air traffic services [^c-01de93617d9e549624556d1170a80627]..., the provisions of Annex 11 to the Chicago Convention may be applied in airspace over high seas in a manner that is consistent with how those provisions are applied over the territory of the United Kingdom[^c-82947a0d2567b16a8325146a5379c1eb]. This shall be without prejudice to the operations of State Aircraft under Article 3 of the Chicago Convention. This shall also be without prejudice to the responsibilities of the United Kingdom[^c-0233df6264832ad42e969f2c50884463] to ensure that aircraft operations within the Flight Information Regions within which the United Kingdom is[^c-48f5209bf81a19dd894d2676b7d0689e] responsible for the provision of air traffic services in accordance with ICAO regional air navigation agreements are undertaken in a safe, expeditious and efficient manner.
 
 (b)
 
-For those parts of the high seas where the United Kingdom[^key-8c2f34912f22f32e9705361efbe0010b] has accepted, pursuant to an ICAO regional air navigation agreement, the responsibility of providing air traffic services, the Secretary of State[^key-109b33499d2b4fbcdd992864ee403326] shall designate the ATS provider for providing those services.
+For those parts of the high seas where the United Kingdom[^c-8c2f34912f22f32e9705361efbe0010b] has accepted, pursuant to an ICAO regional air navigation agreement, the responsibility of providing air traffic services, the Secretary of State[^c-109b33499d2b4fbcdd992864ee403326] shall designate the ATS provider for providing those services.
 
 *SECTION 2*
 
@@ -448,10 +448,10 @@ For those parts of the high seas where the United Kingdom[^key-8c2f34912f22f32e9
 
 Without prejudice to SERA.1001 above, this annex addresses, in accordance with Article 1, in particular airspace users and aircraft:
 
-- ((a)) operating into, within or out of the United Kingdom[^key-657612a32ec77cd9d3ac11a16777b606];
-- ((b)) bearing the nationality and registration marks of the United Kingdom[^key-5cdde05fac6de869df2389e95120b3db], and operating in any airspace to the extent that they do not conflict with the rules published by the State having jurisdiction over the territory overflown.
+- ((a)) operating into, within or out of the United Kingdom[^c-657612a32ec77cd9d3ac11a16777b606];
+- ((b)) bearing the nationality and registration marks of the United Kingdom[^c-5cdde05fac6de869df2389e95120b3db], and operating in any airspace to the extent that they do not conflict with the rules published by the State having jurisdiction over the territory overflown.
 
-This annex addresses also the actions of the competent authority[^key-85b558ecbf3d54fa603312f696829279], Air Navigation Service Providers (ANSP), aerodrome operators and the relevant ground personnel engaged in aircraft operations.
+This annex addresses also the actions of the competent authority[^c-85b558ecbf3d54fa603312f696829279], Air Navigation Service Providers (ANSP), aerodrome operators and the relevant ground personnel engaged in aircraft operations.
 
 **SERA.2005**
 
@@ -525,7 +525,7 @@ The cruising levels at which a flight or a portion of a flight is to be conducte
 
 Dropping or spraying from an aircraft in flight shall only be conducted in accordance with:
 
-- ((a)) legislation, if any, applicable to that activity, and[^key-3c40dd3093bee81f580815cf79ee9873]
+- ((a)) legislation, if any, applicable to that activity, and[^c-3c40dd3093bee81f580815cf79ee9873]
 - ((b)) as indicated by any relevant information, advice and/or clearance from the appropriate air traffic services unit.
 
 **SERA.3120**
@@ -534,7 +534,7 @@ Dropping or spraying from an aircraft in flight shall only be conducted in accor
 
 An aircraft or other object shall only be towed by an aircraft in accordance with:
 
-- ((a)) legislation, if any, applicable to that activity, and[^key-b4f05602f3bc86aa94d86ad4fe6ca8d8]
+- ((a)) legislation, if any, applicable to that activity, and[^c-b4f05602f3bc86aa94d86ad4fe6ca8d8]
 - ((b)) as indicated by any relevant information, advice and/or clearance from the appropriate air traffic services unit.
 
 **SERA.3125**
@@ -543,7 +543,7 @@ An aircraft or other object shall only be towed by an aircraft in accordance wit
 
 Parachute descents, other than emergency descents, shall only be made in accordance with:
 
-- ((a)) legislation, if any, applicable to that activity, and[^key-310c6756deae7ca4f2250a0443aff14d]
+- ((a)) legislation, if any, applicable to that activity, and[^c-310c6756deae7ca4f2250a0443aff14d]
 - ((b)) as indicated by any relevant information, advice and/or clearance from the appropriate air traffic services unit.
 
 **SERA.3130**
@@ -552,7 +552,7 @@ Parachute descents, other than emergency descents, shall only be made in accorda
 
 Aerobatic flights shall only be carried out in accordance with:
 
-- ((a)) legislation, if any, applicable to that activity, and[^key-e099e8f4d8f77cae276fe7c957f0af7d]
+- ((a)) legislation, if any, applicable to that activity, and[^c-e099e8f4d8f77cae276fe7c957f0af7d]
 - ((b)) as indicated by any relevant information, advice and/or clearance from the appropriate air traffic services unit.
 
 **SERA.3135**
@@ -576,7 +576,7 @@ An unmanned free balloon shall be operated in such a manner as to minimise hazar
 
 **Prohibited areas and restricted areas**
 
-Aircraft shall not be flown in a prohibited area, or in a restricted area, the particulars of which have been duly published, except in accordance with the conditions of the restrictions or by permission of the Secretary of State[^key-730933175ed339e2c96a49ee52f5c1da].
+Aircraft shall not be flown in a prohibited area, or in a restricted area, the particulars of which have been duly published, except in accordance with the conditions of the restrictions or by permission of the Secretary of State[^c-730933175ed339e2c96a49ee52f5c1da].
 
 CHAPTER 2
 
@@ -636,12 +636,12 @@ Surface movement of aircraft, persons and vehicles.
 - ((4)) Movement of persons and vehicles at aerodromes:
   - ((i)) The movement of persons or vehicles, including towed aircraft, on the manoeuvring area of an aerodrome shall be controlled by the aerodrome control tower as necessary to avoid hazard to them or to aircraft landing, taxiing or taking off.
   - ((ii)) In conditions where low visibility procedures are in operation:
-    - ((A)) persons and vehicles operating on the manoeuvring area of an aerodrome shall be restricted to the essential minimum, and particular regard shall be given to the requirements to protect the critical and sensitive areas around radio navigational aids[^key-b988c6469cc057cf6980ff9a86b1c30a];
-    - ((B)) subject to the provisions in (iii) the methods to separate[^key-9f0b9a6d5050aeff5ab3e098192d0b73] vehicles and taxiing aircraft shall be as specified by the Air Navigation Service Provider (ANSP) and approved by the competent authority taking into account the aids available;
+    - ((A)) persons and vehicles operating on the manoeuvring area of an aerodrome shall be restricted to the essential minimum, and particular regard shall be given to the requirements to protect the critical and sensitive areas around radio navigational aids[^c-b988c6469cc057cf6980ff9a86b1c30a];
+    - ((B)) subject to the provisions in (iii) the methods to separate[^c-9f0b9a6d5050aeff5ab3e098192d0b73] vehicles and taxiing aircraft shall be as specified by the Air Navigation Service Provider (ANSP) and approved by the competent authority taking into account the aids available;
     - ((C)) when mixed ILS and MLS Category II or Category III precision instrument operations are taking place to the same runway continuously, the more restrictive ILS or MLS critical and sensitive areas shall be protected.
   - ((iii)) Emergency vehicles proceeding to the assistance of an aircraft in distress shall be afforded priority over all other surface movement traffic.
   - ((iv)) Subject to the provisions in (iii), vehicles on the manoeuvring area shall be required to comply with the following rules:
-    - ((A)) vehicles and vehicles towing aircraft shall give way to aircraft which are landing, taking off or taxiing[^key-fdf350d935d4bc4ddf81d4ea92eff79c];
+    - ((A)) vehicles and vehicles towing aircraft shall give way to aircraft which are landing, taking off or taxiing[^c-fdf350d935d4bc4ddf81d4ea92eff79c];
     - ((B)) vehicles shall give way to other vehicles towing aircraft;
     - ((C)) vehicles shall give way to other vehicles in accordance with air traffic services unit instructions;
     - ((D)) notwithstanding the provisions of (A), (B) and (C), vehicles and vehicles towing aircraft shall comply with instructions issued by the aerodrome control tower.
@@ -746,7 +746,7 @@ A signalman/marshaller shall be responsible for providing standard marshalling s
 
 (d)
 
-Only persons trained, qualified and approved as required by the relevant [^key-08de0c0cdca2f1341f5c827e1a1b646d]... legislation shall carry out the functions of a signalman/marshaller.
+Only persons trained, qualified and approved as required by the relevant [^c-08de0c0cdca2f1341f5c827e1a1b646d]... legislation shall carry out the functions of a signalman/marshaller.
 
 (e)
 
@@ -929,7 +929,7 @@ VMC visibility and distance from cloud minima are contained in Table S5-1.
 </tbody>
 </table>
 
-[^key-e77a3ecac44d9d9eb2bca88b654beeb9][^key-80d286ce797391a68ec7d356e3396264][^f00006][^f00007][^f00007][^key-d1ef1a7a2b2a50014dbf6acc63b7e7eb][^f00007][^f00008][^00025]
+[^c-e77a3ecac44d9d9eb2bca88b654beeb9][^c-80d286ce797391a68ec7d356e3396264][^f00006][^f00007][^f00007][^c-d1ef1a7a2b2a50014dbf6acc63b7e7eb][^f00007][^f00008][^00025]
 
 **SERA.5005**
 
@@ -969,7 +969,7 @@ VFR flights shall not be operated:
 
 - ((1)) at transonic and supersonic speeds unless authorised by the competent authority;
 - ((2)) above FL 195. Exceptions to this requirement are the following:
-  - ((i)) an airspace reservation has been established, where practical, by the competent authority[^key-261aa8750181a32a72e37ba933050897], in which VFR flights may be allowed; or
+  - ((i)) an airspace reservation has been established, where practical, by the competent authority[^c-261aa8750181a32a72e37ba933050897], in which VFR flights may be allowed; or
   - ((ii)) airspace up to and including flight level 285, when VFR traffic in that airspace has been authorised by the responsible ATS unit in accordance with the authorisation procedures established by the competent authority and published in the relevant aeronautical information publication.
 
 (e)
@@ -1098,7 +1098,7 @@ An IFR flight operating outside controlled airspace and required by the competen
 
 **Classification of airspaces**
 
-- ((a)) The competent authority[^key-5e56890f6d6e9e2ad0ec82eff2a457f7] shall designate airspace in accordance with the following airspace classification and in accordance with Appendix 4:
+- ((a)) The competent authority[^c-5e56890f6d6e9e2ad0ec82eff2a457f7] shall designate airspace in accordance with the following airspace classification and in accordance with Appendix 4:
   - ((1)) *Class A* . IFR flights only are permitted. All flights are provided with air traffic control service and are separated from each other. Continuous air- ground voice communications are required for all flights. All flights shall be subject to ATC clearance.
   - ((2)) *Class B* . IFR and VFR flights are permitted. All flights are provided with air traffic control service and are separated from each other. Continuous air- ground voice communications are required for all flights. All flights shall be subject to ATC clearance.
   - ((3)) *Class C* . IFR and VFR flights are permitted. All flights are provided with air traffic control service and IFR flights are separated from other IFR flights and from VFR flights. VFR flights are separated from IFR flights and receive traffic information in respect of other VFR flights and traffic avoidance advice on request. Continuous air-ground voice communications are required for all flights. For VFR flights a speed limitation of 250 kts indicated airspeed (IAS) applies below 3 050 m ( 10 000 ft) AMSL, except where approved by the competent authority for aircraft types, which for technical or safety reasons, cannot maintain this speed. All flights shall be subject to ATC clearance.
@@ -1107,7 +1107,7 @@ An IFR flight operating outside controlled airspace and required by the competen
   - ((6)) *Class F* . IFR and VFR flights are permitted. All participating IFR flights receive an air traffic advisory service and all flights receive flight information service if requested. Continuous air-ground voice communications are required for IFR flights participating in the advisory service and all IFR flights shall be capable of establishing air-ground voice communications. A speed limitation of 250 kts IAS applies to all flights below 3 050 m ( 10 000 ft) AMSL, except where approved by the competent authority for aircraft types, which for technical or safety reasons cannot maintain this speed. ATC clearance is not required.
   - ((7)) *Class G* . IFR and VFR flights are permitted and receive flight information service if requested. All IFR flights shall be capable of establishing air- ground voice communications. A speed limitation of 250 kts IAS applies to all flights below 3 050 m ( 10 000 ft) AMSL, except where approved by the competent authority for aircraft types, which for technical or safety reasons cannot maintain this speed. ATC clearance is not required.
   - ((8)) Implementation of Class F shall be considered as a temporary measure until such time as it can be replaced by an alternative classification.
-- ((b)) The designation of the airspace classification shall be appropriate to the needs of the United Kingdom[^key-3a8293cfabe70a78a8497d9ef648b802], except that all airspace above FL 195 shall be classified as Class C airspace.
+- ((b)) The designation of the airspace classification shall be appropriate to the needs of the United Kingdom[^c-3a8293cfabe70a78a8497d9ef648b802], except that all airspace above FL 195 shall be classified as Class C airspace.
 
 **SERA.6005**
 
@@ -1170,7 +1170,7 @@ When an identified controlled flight is observed to be on a conflicting path wit
 
 (a)
 
-Air traffic services units, in carrying out their objectives, shall have due regard for the requirements of the aircraft operators consequent on their obligations as specified in the relevant [^key-b9b58ad15ccd9d1426af9381f9257ebc]... legislation on Air Operations, and, if so required by the aircraft operators, shall make available to them or their designated representatives such information as may be available to enable them or their designated representatives to carry out their responsibilities.
+Air traffic services units, in carrying out their objectives, shall have due regard for the requirements of the aircraft operators consequent on their obligations as specified in the relevant [^c-b9b58ad15ccd9d1426af9381f9257ebc]... legislation on Air Operations, and, if so required by the aircraft operators, shall make available to them or their designated representatives such information as may be available to enable them or their designated representatives to carry out their responsibilities.
 
 (b)
 
@@ -1358,7 +1358,7 @@ Clearance related to altimetry
 
 - ((1)) For flights in areas where a transition altitude is established, the vertical position of the aircraft shall, except as provided for in (5) below, be expressed in terms of altitudes at or below the transition altitude and in terms of flight levels at or above the transition level. While passing through the transition layer, the vertical position shall be expressed in terms of flight levels when climbing and in terms of altitudes when descending.
 - ((2)) The flight crew shall be provided with the transition level in due time prior to reaching it during descent.
-- ((3)) Except when it is known that the aircraft has already received the information in a directed transmission, a QNH altimeter setting shall be included in:[^key-cc8350a0c540871d99d4d11a4064917a]
+- ((3)) Except when it is known that the aircraft has already received the information in a directed transmission, a QNH altimeter setting shall be included in:[^c-cc8350a0c540871d99d4d11a4064917a]
   - ((i)) the descent clearance, when first cleared to an altitude below the transition level;
   - ((ii)) the approach clearance or the clearance to enter the traffic circuit;
   - ((iii)) the taxi clearance for departing aircraft.
@@ -1487,7 +1487,7 @@ An aircraft operated as a controlled flight shall maintain continuous air-ground
 
 (b)
 
-The Secretary of State[^key-adafb1c90a08fec3f30c8f2e54756fb2] shall comply with the appropriate provisions on communication failures as have been adopted under the Chicago Convention.[^key-2d867d08efc225d60906753cc5eb2712]...
+The Secretary of State[^c-adafb1c90a08fec3f30c8f2e54756fb2] shall comply with the appropriate provisions on communication failures as have been adopted under the Chicago Convention.[^c-2d867d08efc225d60906753cc5eb2712]...
 
 *SECTION 9*
 
@@ -1526,13 +1526,13 @@ Flight information service shall include the provision of pertinent:
 - ((4)) information on changes in the availability of radio navigation services;
 - ((5)) information on changes in condition of aerodromes and associated facilities, including information on the state of the aerodrome movement areas when they are affected by snow, ice or significant depth of water;
 - ((6)) information on unmanned free balloons;
-- ((7)) information on abnormal aircraft configuration and condition;[^key-23df5b249e7c555cab9d5534f2a4e3d6]
+- ((7)) information on abnormal aircraft configuration and condition;[^c-23df5b249e7c555cab9d5534f2a4e3d6]
 - ((8)) information on space weather phenomena that:
   - ((i)) have an impact on high frequency radio communications, communications via satellite, GNSS-based navigation and surveillance systems;
   - ((ii)) pose a radiation risk to aircraft occupants at flight levels; and
 - ((9)) any other information likely to affect safety.
 
-[^key-dc74c7dd99e3055d3466a71f0a81a84a]....
+[^c-dc74c7dd99e3055d3466a71f0a81a84a]....
 
 (b)
 
@@ -1540,7 +1540,7 @@ Flight information service provided to flights shall include, in addition to tha
 
 - ((1)) weather conditions reported or forecast at departure, destination and alternate aerodromes;
 - ((2)) collision hazards, to aircraft operating in airspace Classes C, D, E, F and G;
-- ((3)) for flight over water areas, in so far as practicable and when requested by a pilot, any available information such as radio call sign, position, true track, speed, etc., of surface vessels in the area ; and[^key-5f2f5c9d3b980b01d18314c3fbf5854a]
+- ((3)) for flight over water areas, in so far as practicable and when requested by a pilot, any available information such as radio call sign, position, true track, speed, etc., of surface vessels in the area ; and[^c-5f2f5c9d3b980b01d18314c3fbf5854a]
 - ((4)) messages, including clearances, received from other air traffic services units to relay to aircraft
 
 (c)
@@ -1837,7 +1837,7 @@ In the case of a strayed or unidentified aircraft, the possibility of the aircra
 
 (a)
 
-Except for intercept and escort service provided on request to an aircraft, interception of civil aircraft shall be governed by appropriate regulations and administrative directives issued by the Secretary of State[^key-8604b2e5608daa039cd78e1e4afab818] in compliance with the Convention on International Civil Aviation, and in particular Article 3(d) under which ICAO Contracting States undertake, when issuing regulations for their State aircraft, to have due regard for the safety of navigation of civil aircraft.
+Except for intercept and escort service provided on request to an aircraft, interception of civil aircraft shall be governed by appropriate regulations and administrative directives issued by the Secretary of State[^c-8604b2e5608daa039cd78e1e4afab818] in compliance with the Convention on International Civil Aviation, and in particular Article 3(d) under which ICAO Contracting States undertake, when issuing regulations for their State aircraft, to have due regard for the safety of navigation of civil aircraft.
 
 (b)
 
@@ -1963,12 +1963,12 @@ Special observations shall be made and reported by all aircraft whenever the fol
 - ((5)) thunderstorms, with hail, that are obscured, embedded, widespread or in squall lines; or
 - ((6)) heavy dust storm or heavy sandstorm; or
 - ((7)) volcanic ash cloud; or
-- ((8)) pre-eruption volcanic activity or a volcanic eruption ; or[^key-4c3178833fbcabb837ee50cd5ec58a0d]
+- ((8)) pre-eruption volcanic activity or a volcanic eruption ; or[^c-4c3178833fbcabb837ee50cd5ec58a0d]
 - ((9)) the runway braking action encountered is not as good as reported
 
 (b)
 
-The competent authority[^key-7be4288bc6ef64f61fb7b5bc15663c94] shall prescribe as necessary other conditions which shall be reported by all aircraft when encountered or observed.
+The competent authority[^c-7be4288bc6ef64f61fb7b5bc15663c94] shall prescribe as necessary other conditions which shall be reported by all aircraft when encountered or observed.
 
 (c)
 
@@ -2115,8 +2115,8 @@ Flight safety messages shall comprise the following:
 
 **Language to be used in air-ground communication**
 
-- ((a)) The air-ground radiotelephony communications shall be conducted in the English language [^key-74a985baa847baecebe284377f385073]....
-- ((b)) [^key-ce3d8c944909786fb34cbc14eb62487f]...
+- ((a)) The air-ground radiotelephony communications shall be conducted in the English language [^c-74a985baa847baecebe284377f385073]....
+- ((b)) [^c-ce3d8c944909786fb34cbc14eb62487f]...
 - ((c)) The languages available at a given station on the ground shall form part of the Aeronautical Information Publications and other published aeronautical information concerning such facilities.
 
 **SERA.14020**
@@ -2350,7 +2350,7 @@ When the language used for communication is English, numbers shall be transmitte
 
 - ((a)) Unless otherwise prescribed by the ANSP responsible for the provision of services and approved by the competent authority, the initial call to an ATS unit after a change of air-ground voice communication channel shall contain the following elements:
   - ((1)) the designation of the ATS unit being called;
-  - ((2)) call sign and, for aircraft in the SUPER or HEAVY wake turbulence category, the word ‘super’ or ‘heavy’ respectively,[^key-3ed503c4952ece0a3353ffa2b3ab3192] if that aircraft has been so identified by the competent authority;
+  - ((2)) call sign and, for aircraft in the SUPER or HEAVY wake turbulence category, the word ‘super’ or ‘heavy’ respectively,[^c-3ed503c4952ece0a3353ffa2b3ab3192] if that aircraft has been so identified by the competent authority;
   - ((3)) level, including passing and cleared levels, if not maintaining the cleared level;
   - ((4)) speed, if assigned by ATC; and
   - ((5)) additional elements, as required by the ANSP responsible for the provision of services and approved by the competent authority.
@@ -2360,7 +2360,7 @@ When the language used for communication is English, numbers shall be transmitte
   For aircraft being provided with aerodrome control service, the initial call shall contain:
 
   - ((1)) the designation of the ATS unit being called;
-  - ((2)) call sign and, for aircraft in the SUPER or HEAVY wake turbulence category, the word ‘super’ or ‘heavy’ respectively,[^key-22c649d808ef731bfbe923df0da3c202] if that aircraft has been so identified by the competent authority;
+  - ((2)) call sign and, for aircraft in the SUPER or HEAVY wake turbulence category, the word ‘super’ or ‘heavy’ respectively,[^c-22c649d808ef731bfbe923df0da3c202] if that aircraft has been so identified by the competent authority;
   - ((3)) position; and
   - ((4)) additional elements, as required by the ANSP responsible for the provision of services and approved by the competent authority.
 
@@ -3357,7 +3357,7 @@ B.
 
 Supplement to the ANNEX
 
-[^key-75b462e415e532c3489bda69c6951f9b]...
+[^c-75b462e415e532c3489bda69c6951f9b]...
 
 ## Annotations
 
@@ -3367,119 +3367,119 @@ Supplement to the ANNEX
 
 [^f00003]: Footnote: [OJ L 96, 31.3.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0001.01.ENG).
 
-[^key-f5d8c5bfa189e175e0c9ea2e307ae3e8]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2012/923/article/1/2/a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5d8c5bfa189e175e0c9ea2e307ae3e8]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2012/923/article/1/2/a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-987cb0632d765525d7183f761c18e7b3]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2012/923/article/1/2/b) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-987cb0632d765525d7183f761c18e7b3]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2012/923/article/1/2/b) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2016/1185 of 20 July 2016 amending Implementing Regulation (EU) No 923/2012 as regards the update and completion of the common rules of the air and operational provisions regarding services and procedures in air navigation (SERA Part C) and repealing Regulation (EC) No 730/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1185).
 
-[^key-c7c90424905451aafbd68d9c8d6586ba]: Textual amendment: Word in [Art. 1(3)](https://www.legislation.gov.uk/eur/2012/923/article/1/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7c90424905451aafbd68d9c8d6586ba]: Textual amendment: Word in [Art. 1(3)](https://www.legislation.gov.uk/eur/2012/923/article/1/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2016/1185 of 20 July 2016 amending Implementing Regulation (EU) No 923/2012 as regards the update and completion of the common rules of the air and operational provisions regarding services and procedures in air navigation (SERA Part C) and repealing Regulation (EC) No 730/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1185).
 
-[^key-48da7c19552ec6fcd88f685389ff9745]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2012/923/article/1/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48da7c19552ec6fcd88f685389ff9745]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2012/923/article/1/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [295(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/295/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Deleted by [Commission Implementing Regulation (EU) 2016/1185 of 20 July 2016 amending Implementing Regulation (EU) No 923/2012 as regards the update and completion of the common rules of the air and operational provisions regarding services and procedures in air navigation (SERA Part C) and repealing Regulation (EC) No 730/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1185).
 
-[^key-33aa3a2b9f9b119517f232cff6eedcc8]: Textual amendment: [Art. 2(55)](https://www.legislation.gov.uk/eur/2012/923/article/2/55) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [296](https://www.legislation.gov.uk/uksi/2019/459/regulation/296); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33aa3a2b9f9b119517f232cff6eedcc8]: Textual amendment: [Art. 2(55)](https://www.legislation.gov.uk/eur/2012/923/article/2/55) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [296](https://www.legislation.gov.uk/uksi/2019/459/regulation/296); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-252f5d1cf1b404a3d7c1f653ba02db0d]: Textual amendment: [Art. 2(61A)](https://www.legislation.gov.uk/eur/2012/923/article/2/61A) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/4/2)
+[^c-252f5d1cf1b404a3d7c1f653ba02db0d]: Textual amendment: [Art. 2(61A)](https://www.legislation.gov.uk/eur/2012/923/article/2/61A) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/4/2)
 
 [^c000004]: Textual amendment: Substituted by [Commission Regulation (EU) 2015/340 of 20 February 2015 laying down technical requirements and administrative procedures relating to air traffic controllers' licences and certificates pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council, amending Commission Implementing Regulation (EU) No 923/2012 and repealing Commission Regulation (EU) No 805/2011 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2015/340).
 
-[^key-0e30a190d56ee989e73217aea9fddecc]: Textual amendment: [Art. 2(118A)](https://www.legislation.gov.uk/eur/2012/923/article/2/118A) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/4/3)
+[^c-0e30a190d56ee989e73217aea9fddecc]: Textual amendment: [Art. 2(118A)](https://www.legislation.gov.uk/eur/2012/923/article/2/118A) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/4/3)
 
-[^key-e3c38e9c371d5e12cb43f01c39a31d60]: Textual amendment: [Art. 2(144)](https://www.legislation.gov.uk/eur/2012/923/article/2/144) inserted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/2)
+[^c-e3c38e9c371d5e12cb43f01c39a31d60]: Textual amendment: [Art. 2(144)](https://www.legislation.gov.uk/eur/2012/923/article/2/144) inserted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/2)
 
-[^key-9da432c6b5bf5810e0f57e65622e0086]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2012/923/article/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [297](https://www.legislation.gov.uk/uksi/2019/459/regulation/297); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9da432c6b5bf5810e0f57e65622e0086]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2012/923/article/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [297](https://www.legislation.gov.uk/uksi/2019/459/regulation/297); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9026626fda8759f7d38232daa57d820f]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/923/article/4/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9026626fda8759f7d38232daa57d820f]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/923/article/4/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f90371e266f7f34c69d7af41e436ced6]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/923/article/4/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f90371e266f7f34c69d7af41e436ced6]: Textual amendment: Word in [Art. 4(1)](https://www.legislation.gov.uk/eur/2012/923/article/4/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e695e2f32d3639803650bb91a14c19a5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2012/923/article/4/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e695e2f32d3639803650bb91a14c19a5]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2012/923/article/4/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [298(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/298/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Commission Regulation (EU) No 965/2012 of[^c000002] 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council ( [OJ L 296, 25.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.296.01.0001.01.ENG) ).
 
-[^key-480a954dde748bd1a14a720a106d9fa6]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2012/923/article/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [299](https://www.legislation.gov.uk/uksi/2019/459/regulation/299); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-480a954dde748bd1a14a720a106d9fa6]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2012/923/article/5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [299](https://www.legislation.gov.uk/uksi/2019/459/regulation/299); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9f2da0a21c880598cb9e3a7aa066e7a]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2012/923/article/6/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9f2da0a21c880598cb9e3a7aa066e7a]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2012/923/article/6/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36901b3dc9bc85b4b5b98323876d5c3d]: Textual amendment: Word in [Art. 6(1)(a)](https://www.legislation.gov.uk/eur/2012/923/article/6/1/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36901b3dc9bc85b4b5b98323876d5c3d]: Textual amendment: Word in [Art. 6(1)(a)](https://www.legislation.gov.uk/eur/2012/923/article/6/1/a) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c601962c2f6768bddcf9b9847fb35c74]: Textual amendment: Word in [Art. 6(1)(b)](https://www.legislation.gov.uk/eur/2012/923/article/6/1/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c601962c2f6768bddcf9b9847fb35c74]: Textual amendment: Word in [Art. 6(1)(b)](https://www.legislation.gov.uk/eur/2012/923/article/6/1/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(2)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-681d46fdb3b02df530264abc39ca6caa]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2012/923/article/6/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-681d46fdb3b02df530264abc39ca6caa]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2012/923/article/6/2) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [300(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/300/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b345707fa9c89e06aa3b49fcf581133f]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/eur/2012/923/article/7/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b345707fa9c89e06aa3b49fcf581133f]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/eur/2012/923/article/7/1) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a33b5a9f9924c6c0dbbee828381a8af4]: Textual amendment: Word in [Art. 7(2)](https://www.legislation.gov.uk/eur/2012/923/article/7/2) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a33b5a9f9924c6c0dbbee828381a8af4]: Textual amendment: Word in [Art. 7(2)](https://www.legislation.gov.uk/eur/2012/923/article/7/2) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(3)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91ca36c0f5fb19214938dd3bda1f0eeb]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2012/923/article/7/3)[(4)](https://www.legislation.gov.uk/eur/2012/923/article/7/4) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91ca36c0f5fb19214938dd3bda1f0eeb]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2012/923/article/7/3)[(4)](https://www.legislation.gov.uk/eur/2012/923/article/7/4) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [301(4)](https://www.legislation.gov.uk/uksi/2019/459/regulation/301/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2874bf6ab0fe27191351e873a297c65]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/923/article/8) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [302](https://www.legislation.gov.uk/uksi/2019/459/regulation/302); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2874bf6ab0fe27191351e873a297c65]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/923/article/8) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [302](https://www.legislation.gov.uk/uksi/2019/459/regulation/302); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e30685e531d4f2b8a2123675c43c297]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2012/923/article/9) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [303](https://www.legislation.gov.uk/uksi/2019/459/regulation/303); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e30685e531d4f2b8a2123675c43c297]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2012/923/article/9) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [303](https://www.legislation.gov.uk/uksi/2019/459/regulation/303); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-962a11a196a831fc6623554cbc41ed06]: Textual amendment: [Art. 10(1)](https://www.legislation.gov.uk/eur/2012/923/article/10/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-962a11a196a831fc6623554cbc41ed06]: Textual amendment: [Art. 10(1)](https://www.legislation.gov.uk/eur/2012/923/article/10/1) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [OJ L 281, 13.10.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.281.01.0001.01.ENG).’.
 
-[^key-b2ad4e97210f6250193c9cc894082363]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2012/923/article/10/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2ad4e97210f6250193c9cc894082363]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2012/923/article/10/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a1ea840f2cd43f22957693a75d7fca7]: Textual amendment: [Art. 10(4)](https://www.legislation.gov.uk/eur/2012/923/article/10/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a1ea840f2cd43f22957693a75d7fca7]: Textual amendment: [Art. 10(4)](https://www.legislation.gov.uk/eur/2012/923/article/10/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [304](https://www.legislation.gov.uk/uksi/2019/459/regulation/304); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2781160daa112fd53afe550ea1a31b1f]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/eur/2012/923/article/11) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [305](https://www.legislation.gov.uk/uksi/2019/459/regulation/305); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2781160daa112fd53afe550ea1a31b1f]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/eur/2012/923/article/11) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [305](https://www.legislation.gov.uk/uksi/2019/459/regulation/305); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92c1745a865a4b9f6f1d3427dbb1c916]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/923/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [306](https://www.legislation.gov.uk/uksi/2019/459/regulation/306); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92c1745a865a4b9f6f1d3427dbb1c916]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/923/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [306](https://www.legislation.gov.uk/uksi/2019/459/regulation/306); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01de93617d9e549624556d1170a80627]: Textual amendment: Words in Annex s. 1 SERA.1001 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01de93617d9e549624556d1170a80627]: Textual amendment: Words in Annex s. 1 SERA.1001 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82947a0d2567b16a8325146a5379c1eb]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82947a0d2567b16a8325146a5379c1eb]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0233df6264832ad42e969f2c50884463]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0233df6264832ad42e969f2c50884463]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48f5209bf81a19dd894d2676b7d0689e]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48f5209bf81a19dd894d2676b7d0689e]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c2f34912f22f32e9705361efbe0010b]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c2f34912f22f32e9705361efbe0010b]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-109b33499d2b4fbcdd992864ee403326]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-109b33499d2b4fbcdd992864ee403326]: Textual amendment: Words in Annex s. 1 SERA.1001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-657612a32ec77cd9d3ac11a16777b606]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-657612a32ec77cd9d3ac11a16777b606]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5cdde05fac6de869df2389e95120b3db]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cdde05fac6de869df2389e95120b3db]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85b558ecbf3d54fa603312f696829279]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85b558ecbf3d54fa603312f696829279]: Textual amendment: Words in [Annex s. 2](https://www.legislation.gov.uk/eur/2012/923/annex/section/2) SERA.2001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(3)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c40dd3093bee81f580815cf79ee9873]: Textual amendment: Annex s. 3 SERA.3115 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c40dd3093bee81f580815cf79ee9873]: Textual amendment: Annex s. 3 SERA.3115 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4f05602f3bc86aa94d86ad4fe6ca8d8]: Textual amendment: Annex s. 3 SERA.3120 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4f05602f3bc86aa94d86ad4fe6ca8d8]: Textual amendment: Annex s. 3 SERA.3120 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-310c6756deae7ca4f2250a0443aff14d]: Textual amendment: Annex s. 3 SERA.3125 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-310c6756deae7ca4f2250a0443aff14d]: Textual amendment: Annex s. 3 SERA.3125 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e099e8f4d8f77cae276fe7c957f0af7d]: Textual amendment: Annex s. 3 SERA.3130 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e099e8f4d8f77cae276fe7c957f0af7d]: Textual amendment: Annex s. 3 SERA.3130 point (a) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-730933175ed339e2c96a49ee52f5c1da]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eur/2012/923/annex/section/3) SERA.3145 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-730933175ed339e2c96a49ee52f5c1da]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eur/2012/923/annex/section/3) SERA.3145 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b988c6469cc057cf6980ff9a86b1c30a]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(ii)(A) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/a)
+[^c-b988c6469cc057cf6980ff9a86b1c30a]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(ii)(A) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/a)
 
-[^key-9f0b9a6d5050aeff5ab3e098192d0b73]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(ii)(B) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/b)
+[^c-9f0b9a6d5050aeff5ab3e098192d0b73]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(ii)(B) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/b)
 
-[^key-fdf350d935d4bc4ddf81d4ea92eff79c]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(iv)(A) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/c)
+[^c-fdf350d935d4bc4ddf81d4ea92eff79c]: Textual amendment: Words in Annex s. 3 SERA.3210 point (d)(4)(iv)(A) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(2)(c)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/2/c)
 
-[^key-08de0c0cdca2f1341f5c827e1a1b646d]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eur/2012/923/annex/section/3) SERA.3301 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08de0c0cdca2f1341f5c827e1a1b646d]: Textual amendment: Words in [Annex s. 3](https://www.legislation.gov.uk/eur/2012/923/annex/section/3) SERA.3301 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(4)(c)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e77a3ecac44d9d9eb2bca88b654beeb9]: Textual amendment: Annex s. 5 SERA.5001 Table S5-1 footnote c substituted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/b)
+[^c-e77a3ecac44d9d9eb2bca88b654beeb9]: Textual amendment: Annex s. 5 SERA.5001 Table S5-1 footnote c substituted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/b)
 
-[^key-80d286ce797391a68ec7d356e3396264]: Textual amendment: [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/5/section/5) SERA.5001 Table S5-1 footnote d inserted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/c)
+[^c-80d286ce797391a68ec7d356e3396264]: Textual amendment: [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/5/section/5) SERA.5001 Table S5-1 footnote d inserted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/c)
 
 [^f00006]: Footnote: When the height of the transition altitude is lower than 3 050 m (10 000 ft) AMSL, FL 100 shall be used in lieu of 10 000 ft.
 
 [^f00007]: Footnote: The VMC minima in Class A airspace are included for guidance to pilots and do not imply acceptance of VFR flights in Class A airspace.
 
-[^key-d1ef1a7a2b2a50014dbf6acc63b7e7eb]: Textual amendment: Words in [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/5/section/5) SERA.5001 Table S5-1 substituted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/a)
+[^c-d1ef1a7a2b2a50014dbf6acc63b7e7eb]: Textual amendment: Words in [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/5/section/5) SERA.5001 Table S5-1 substituted (20.5.2021) by [The Aviation Safety (Amendment) Regulations 2021 (S.I. 2021/10)](https://www.legislation.gov.uk/uksi/2021/10), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/10/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/10/regulation/2/3/a)
 
-[^f00008]: Footnote: A VFR flight in airspace class D is also deemed to have complied with Table S5-1 if the aircraft is flown:[^key-e77a3ecac44d9d9eb2bca88b654beeb9]
+[^f00008]: Footnote: A VFR flight in airspace class D is also deemed to have complied with Table S5-1 if the aircraft is flown:[^c-e77a3ecac44d9d9eb2bca88b654beeb9]
 
     (a) during day;
 
@@ -3493,7 +3493,7 @@ Supplement to the ANNEX
 
     (2) for helicopters, with a flight visibility of at least 1 500 m.
 
-[^00025]: Footnote: A VFR flight in airspace class F or G is also deemed to have complied with Table S5-1 if the aircraft is flown:[^key-80d286ce797391a68ec7d356e3396264]
+[^00025]: Footnote: A VFR flight in airspace class F or G is also deemed to have complied with Table S5-1 if the aircraft is flown:[^c-80d286ce797391a68ec7d356e3396264]
 
     (a) during day;
 
@@ -3503,29 +3503,29 @@ Supplement to the ANNEX
 
     (d) with a flight visibility of at least 1 500 m.
 
-[^key-261aa8750181a32a72e37ba933050897]: Textual amendment: Words in [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/section/5) SERA.5005 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(5)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-261aa8750181a32a72e37ba933050897]: Textual amendment: Words in [Annex s. 5](https://www.legislation.gov.uk/eur/2012/923/annex/section/5) SERA.5005 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(5)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e56890f6d6e9e2ad0ec82eff2a457f7]: Textual amendment: Words in [Annex s. 6](https://www.legislation.gov.uk/eur/2012/923/annex/section/6) SERA.6001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(6)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e56890f6d6e9e2ad0ec82eff2a457f7]: Textual amendment: Words in [Annex s. 6](https://www.legislation.gov.uk/eur/2012/923/annex/section/6) SERA.6001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(6)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a8293cfabe70a78a8497d9ef648b802]: Textual amendment: Words in [Annex s. 6](https://www.legislation.gov.uk/eur/2012/923/annex/section/6) SERA.6001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(6)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a8293cfabe70a78a8497d9ef648b802]: Textual amendment: Words in [Annex s. 6](https://www.legislation.gov.uk/eur/2012/923/annex/section/6) SERA.6001 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(6)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9b58ad15ccd9d1426af9381f9257ebc]: Textual amendment: Word in [Annex s. 7](https://www.legislation.gov.uk/eur/2012/923/annex/section/7) SERA.7005 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(7)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9b58ad15ccd9d1426af9381f9257ebc]: Textual amendment: Word in [Annex s. 7](https://www.legislation.gov.uk/eur/2012/923/annex/section/7) SERA.7005 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(7)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc8350a0c540871d99d4d11a4064917a]: Textual amendment: Words in Annex Section 8 SERA.8015 point (eb)(3) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/3)
+[^c-cc8350a0c540871d99d4d11a4064917a]: Textual amendment: Words in Annex Section 8 SERA.8015 point (eb)(3) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/3)
 
-[^key-adafb1c90a08fec3f30c8f2e54756fb2]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2012/923/annex/section/8) SERA.8035 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(8)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adafb1c90a08fec3f30c8f2e54756fb2]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2012/923/annex/section/8) SERA.8035 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(8)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d867d08efc225d60906753cc5eb2712]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2012/923/annex/section/8) SERA.8035 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(8)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d867d08efc225d60906753cc5eb2712]: Textual amendment: Words in [Annex s. 8](https://www.legislation.gov.uk/eur/2012/923/annex/section/8) SERA.8035 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(8)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23df5b249e7c555cab9d5534f2a4e3d6]: Textual amendment: Annex Section 9 SERA.9005 point (a)(7)-(9) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/b)
+[^c-23df5b249e7c555cab9d5534f2a4e3d6]: Textual amendment: Annex Section 9 SERA.9005 point (a)(7)-(9) inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/b)
 
-[^key-dc74c7dd99e3055d3466a71f0a81a84a]: Textual amendment: Words in Annex Section 9 SERA.9005 point (a) omitted (23.3.2023) by virtue of [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/a)
+[^c-dc74c7dd99e3055d3466a71f0a81a84a]: Textual amendment: Words in Annex Section 9 SERA.9005 point (a) omitted (23.3.2023) by virtue of [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/a)
 
-[^key-5f2f5c9d3b980b01d18314c3fbf5854a]: Textual amendment: [Annex s. 9](https://www.legislation.gov.uk/eur/2012/923/annex/section/9) SERA.9005 point (b)(4) and word inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(c)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/c)
+[^c-5f2f5c9d3b980b01d18314c3fbf5854a]: Textual amendment: [Annex s. 9](https://www.legislation.gov.uk/eur/2012/923/annex/section/9) SERA.9005 point (b)(4) and word inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(4)(c)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/4/c)
 
 [^f00009]: Footnote: These elements are replaced by the term[^c000001] ‘ CAVOK ’ when the following conditions occur simultaneously at the time of observation: (a) visibility: 10 km or more, and the lowest visibility not reported; (b) no cloud of operational significance; and (c) no weather of significance to aviation.
 
-[^key-8604b2e5608daa039cd78e1e4afab818]: Textual amendment: Words in [Annex s. 11](https://www.legislation.gov.uk/eur/2012/923/annex/section/11) SERA.11015 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(9)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8604b2e5608daa039cd78e1e4afab818]: Textual amendment: Words in [Annex s. 11](https://www.legislation.gov.uk/eur/2012/923/annex/section/11) SERA.11015 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(9)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: In the second column, syllables to be emphasised are underlined.
 
@@ -3533,17 +3533,17 @@ Supplement to the ANNEX
 
 [^f00014]: Footnote: Circumstances may not always permit, nor make desirable, the use of the phrase ‘HIJACK’.
 
-[^key-4c3178833fbcabb837ee50cd5ec58a0d]: Textual amendment: Annex Section 12 SERA.12005 point (a)(9) and word inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/5)
+[^c-4c3178833fbcabb837ee50cd5ec58a0d]: Textual amendment: Annex Section 12 SERA.12005 point (a)(9) and word inserted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/5)
 
-[^key-7be4288bc6ef64f61fb7b5bc15663c94]: Textual amendment: Words in [Annex s. 12](https://www.legislation.gov.uk/eur/2012/923/annex/section/12) SERA.12005 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7be4288bc6ef64f61fb7b5bc15663c94]: Textual amendment: Words in [Annex s. 12](https://www.legislation.gov.uk/eur/2012/923/annex/section/12) SERA.12005 substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(10)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74a985baa847baecebe284377f385073]: Textual amendment: Words in [Annex s. 14](https://www.legislation.gov.uk/eur/2012/923/annex/section/14) SERA.14015 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(11)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74a985baa847baecebe284377f385073]: Textual amendment: Words in [Annex s. 14](https://www.legislation.gov.uk/eur/2012/923/annex/section/14) SERA.14015 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(11)(a)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce3d8c944909786fb34cbc14eb62487f]: Textual amendment: Words in [Annex s. 14](https://www.legislation.gov.uk/eur/2012/923/annex/section/14) SERA.14015 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(11)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce3d8c944909786fb34cbc14eb62487f]: Textual amendment: Words in [Annex s. 14](https://www.legislation.gov.uk/eur/2012/923/annex/section/14) SERA.14015 omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [307(11)(b)](https://www.legislation.gov.uk/uksi/2019/459/regulation/307/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ed503c4952ece0a3353ffa2b3ab3192]: Textual amendment: Words in Annex Section 14 SERA.14065 point (a)(2) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/6/a)
+[^c-3ed503c4952ece0a3353ffa2b3ab3192]: Textual amendment: Words in Annex Section 14 SERA.14065 point (a)(2) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/6/a)
 
-[^key-22c649d808ef731bfbe923df0da3c202]: Textual amendment: Words in Annex Section 14 SERA.14065 point (c)(2) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/6/b)
+[^c-22c649d808ef731bfbe923df0da3c202]: Textual amendment: Words in Annex Section 14 SERA.14065 point (c)(2) substituted (23.3.2023) by [The Aviation Safety and Air Traffic Management (Amendment) Regulations 2022 (S.I. 2022/1235)](https://www.legislation.gov.uk/uksi/2022/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2022/1235/regulation/5/6/b)
 
 [^f00016]: Footnote: Clearances to land and to taxi will be given in due course.
 
@@ -3563,4 +3563,4 @@ Supplement to the ANNEX
 
 [^f00024]: Footnote: Air-ground voice communications mandatory for flights participating in the advisory service. Pilots shall maintain continuous air-ground voice communication watch and establish two-way communication, as necessary, on the appropriate communication channel in RMZ.
 
-[^key-75b462e415e532c3489bda69c6951f9b]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/923/annex) Supplement omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [308](https://www.legislation.gov.uk/uksi/2019/459/regulation/308); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75b462e415e532c3489bda69c6951f9b]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/923/annex) Supplement omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [308](https://www.legislation.gov.uk/uksi/2019/459/regulation/308); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

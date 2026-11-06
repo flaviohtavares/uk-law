@@ -167,7 +167,7 @@ In pursuance of section 47 of the Prison Act 1952[^c16103331] I hereby make the 
 - [Section 76 — Viewing of young offender institutions](part-iv/section-76.md)
 - [Section 77 — Visitors](part-iv/section-77.md)
 
-### PART V — Independent monitoring board[^key-20abb053740b859fb2ec29f8d670468c]
+### PART V — Independent monitoring board[^c-20abb053740b859fb2ec29f8d670468c]
 
 - [Section 78 — Disqualification for membership](part-v/section-78.md)
 - [Section 79 — Appointment](part-v/section-79.md)
@@ -210,4 +210,4 @@ The provisions of the new Rules generally re-enact those of the previous Rules. 
 
 [^c16103331]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52); [section 47](https://www.legislation.gov.uk/uksi/2000/3371/section/47) was affected by amendment to section 52(2) of that Act by section 66(4) of the [Criminal Justice Act 1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80) and was extended by section 43(5) of the Prison Act 1952. [The Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), [Schedule 8 paragraph 1](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/1), contains amendments affecting these provisions.
 
-[^key-20abb053740b859fb2ec29f8d670468c]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2000/3371/part/V) Title substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/b)
+[^c-20abb053740b859fb2ec29f8d670468c]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2000/3371/part/V) Title substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/b)

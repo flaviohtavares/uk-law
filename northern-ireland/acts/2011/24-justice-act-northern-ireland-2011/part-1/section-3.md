@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Deduction of offender levy imposed by court from prisoner's earnings[^key-63ab6127d1e0f8b7b4dc219dfb7175e2]
+## 3. Deduction of offender levy imposed by court from prisoner's earnings[^c-63ab6127d1e0f8b7b4dc219dfb7175e2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ab6127d1e0f8b7b4dc219dfb7175e2]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/24/section/3) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/214/article/2/e)
+[^c-63ab6127d1e0f8b7b4dc219dfb7175e2]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/24/section/3) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/214/article/2/e)

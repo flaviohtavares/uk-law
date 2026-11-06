@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. General insurance reserves[^key-aaa08d166bfc26dc08993e373e4bd19c]
+## 106. General insurance reserves[^c-aaa08d166bfc26dc08993e373e4bd19c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa08d166bfc26dc08993e373e4bd19c]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-aaa08d166bfc26dc08993e373e4bd19c]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Notices etc[^key-bc2377c243096497c9752699ad3148f5][^key-d48623fdef5452cda2dc11e76965d5aa]
+## 109. Notices etc[^c-bc2377c243096497c9752699ad3148f5][^c-d48623fdef5452cda2dc11e76965d5aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,6 +75,6 @@ and references to giving a notice include similar expressions (such as serving o
 
 ## Annotations
 
-[^key-bc2377c243096497c9752699ad3148f5]: Commencement: S. 109 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/251/article/3/e)
+[^c-bc2377c243096497c9752699ad3148f5]: Commencement: S. 109 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/251/article/3/e)
 
-[^key-d48623fdef5452cda2dc11e76965d5aa]: Modification: S. 109 applied by SI 1975/335 reg. 11(2) (as substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 175](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/175) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-d48623fdef5452cda2dc11e76965d5aa]: Modification: S. 109 applied by SI 1975/335 reg. 11(2) (as substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 175](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/175) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))

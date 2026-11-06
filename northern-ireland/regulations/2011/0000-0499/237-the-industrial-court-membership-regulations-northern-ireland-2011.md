@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 91A(1) and (2) of the Industrial Relations (Northern Ireland) Order 1992[^f00002], and now vested in it[^f00003], makes the following Regulations:
 
-## 1. Citation and commencement[^key-d6b07d84200b341e254327655bce928a]
+## 1. Citation and commencement[^c-d6b07d84200b341e254327655bce928a]
 
 These Regulations may be cited as the Industrial Court (Membership) Regulations (Northern Ireland) 2011 and shall come into operation on 31st July 2011.
 
-## 2. The members of the Industrial Court[^key-59d1f200159d74170bbc1fe8666fdebb]
+## 2. The members of the Industrial Court[^c-59d1f200159d74170bbc1fe8666fdebb]
 
 (1) The Court shall consist of members appointed by the Department.
 
@@ -60,21 +60,21 @@ These Regulations may be cited as the Industrial Court (Membership) Regulations 
 
 (6) At any time when the chairman or deputy chairman is absent or otherwise incapable of acting, or there is no such person, such member of the Court as the Department may direct may perform any of the functions of the chairman of the Court.
 
-## 3. Terms of appointment of members of the Industrial Court[^key-affd3b1646bb61d90a6272f6d1481a5a]
+## 3. Terms of appointment of members of the Industrial Court[^c-affd3b1646bb61d90a6272f6d1481a5a]
 
-(1) The members of the Court shall otherwise[^key-55467ab9620f7c9dc41c429906b07ba7] hold and vacate office in accordance with their terms of appointment[^key-b6a5eff2441d2309efd2da3c66271ff9]....
+(1) The members of the Court shall otherwise[^c-55467ab9620f7c9dc41c429906b07ba7] hold and vacate office in accordance with their terms of appointment[^c-b6a5eff2441d2309efd2da3c66271ff9]....
 
-(2)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d7168cbce0c034ba9ff9aa69d842fe1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Employment and Learning on 23rd June 2011.
 
@@ -102,14 +102,14 @@ An impact assessment has not been produced for this statutory rule as no impact 
 
 [^f00003]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-d6b07d84200b341e254327655bce928a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+[^c-d6b07d84200b341e254327655bce928a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
 
-[^key-59d1f200159d74170bbc1fe8666fdebb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/237/regulation/2) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+[^c-59d1f200159d74170bbc1fe8666fdebb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/237/regulation/2) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
 
-[^key-affd3b1646bb61d90a6272f6d1481a5a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/237/regulation/3) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
+[^c-affd3b1646bb61d90a6272f6d1481a5a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/237/regulation/3) in operation at 31.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/237/regulation/1)
 
-[^key-55467ab9620f7c9dc41c429906b07ba7]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) inserted (14.11.2022) by [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/a)
+[^c-55467ab9620f7c9dc41c429906b07ba7]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) inserted (14.11.2022) by [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/a)
 
-[^key-b6a5eff2441d2309efd2da3c66271ff9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/b)
+[^c-b6a5eff2441d2309efd2da3c66271ff9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/1) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/2/b)
 
-[^key-d7168cbce0c034ba9ff9aa69d842fe1b]: Textual amendment: [Reg. 3(2)-(7)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/2) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/3) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2022/261/regulation/3/1))
+[^c-d7168cbce0c034ba9ff9aa69d842fe1b]: Textual amendment: [Reg. 3(2)-(7)](https://www.legislation.gov.uk/nisr/2011/237/regulation/3/2) omitted (14.11.2022) by virtue of [The Industrial Court (Membership) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/261)](https://www.legislation.gov.uk/nisr/2022/261), [regs. 1](https://www.legislation.gov.uk/nisr/2022/261/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/261/regulation/2/3) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2022/261/regulation/3/1))

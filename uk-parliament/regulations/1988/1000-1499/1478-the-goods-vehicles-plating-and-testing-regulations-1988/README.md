@@ -73,7 +73,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 15 — Application for re-tests following first examinations or periodical tests](part-ii/section-15.md)
 - [Section 16 — Fees for re-tests](part-ii/section-16.md)
 
-### PART III — EXAMINATION FOR PLATING ON A FIRST EXAMINATION[^key-00f90549f96ce389f854d63d2cde2331]
+### PART III — EXAMINATION FOR PLATING ON A FIRST EXAMINATION[^c-00f90549f96ce389f854d63d2cde2331]
 
 *Extent: E+W+S*
 
@@ -110,7 +110,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 - [Section 36 — Re-examination procedure, and issue or amendment of plating certificates (or notices of refusal)](part-v/section-36.md)
 - [Section 37 — Appeals](part-v/section-37.md)
 
-### PART VA — ALTERATION OF PLATED WEIGHTS WITHOUT EXAMINATION[^key-51f6ca10ec893f78f8005d8a0aff5593]
+### PART VA — ALTERATION OF PLATED WEIGHTS WITHOUT EXAMINATION[^c-51f6ca10ec893f78f8005d8a0aff5593]
 
 - [Section 37A — Introduction](part-va/section-37a.md)
 - [Section 37B — Application for alteration of plated weights without examination](part-va/section-37b.md)
@@ -196,6 +196,6 @@ Schedule 3 re-enacts provisions specifying the construction and use requirements
 
 [^f00002]: Footnote: S.I. [1979/571](https://www.legislation.gov.uk/uksi/1979/571) and [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
 
-[^key-00f90549f96ce389f854d63d2cde2331]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1988/1478/part/III) heading substituted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/1997/263/regulation/8)
+[^c-00f90549f96ce389f854d63d2cde2331]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1988/1478/part/III) heading substituted (5.3.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/1997/263/regulation/8)
 
-[^key-51f6ca10ec893f78f8005d8a0aff5593]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1988/1478/part/5A) inserted (1.4.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/263/schedule)
+[^c-51f6ca10ec893f78f8005d8a0aff5593]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1988/1478/part/5A) inserted (1.4.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/263/schedule)

@@ -65,7 +65,7 @@ summary: ''
 > - (b) he has been given a caution in respect of a recordable offence which, at the time of the caution, he has admitted; or
 > - (c) he has been warned or reprimanded under section 65 of the Crime and Disorder Act 1998 (c. 37) for a recordable offence.
 
-(7)[^key-9465ed40ad42124c3c9780678aaf37fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9465ed40ad42124c3c9780678aaf37fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 65(1) of the 1984 Act (supplementary provisions of Part 5), for the definition of “fingerprints” there shall be substituted—
 
@@ -82,4 +82,4 @@ summary: ''
 
 [^c17715061]: Commencement: S. 78 partly in force; s. 78 not in force at Royal Assent, see s. 138; s. 78(1)(3)-(6)(8)(9) in force at 1.1.2003 by [S.I. 2002/3032](https://www.legislation.gov.uk/uksi/2002/3032), [art. 2](https://www.legislation.gov.uk/uksi/2002/3032/article/2); s. 78(2) wholly in force at 1.4.2003 by [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(f)](https://www.legislation.gov.uk/uksi/2003/708/article/2/f)
 
-[^key-9465ed40ad42124c3c9780678aaf37fd]: Textual amendment: [S. 78(7)](https://www.legislation.gov.uk/ukpga/2001/16/section/78/7) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-9465ed40ad42124c3c9780678aaf37fd]: Textual amendment: [S. 78(7)](https://www.legislation.gov.uk/ukpga/2001/16/section/78/7) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

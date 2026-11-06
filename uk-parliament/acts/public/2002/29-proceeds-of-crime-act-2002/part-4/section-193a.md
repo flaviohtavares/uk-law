@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193A. Detention of property pending appeal[^key-22ffe0f96f93389018ed36fa27becda5]
+## 193A. Detention of property pending appeal[^c-22ffe0f96f93389018ed36fa27becda5]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22ffe0f96f93389018ed36fa27becda5]: Textual amendment: [S. 193A](https://www.legislation.gov.uk/ukpga/2002/29/section/193A) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/54/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/147/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))
+[^c-22ffe0f96f93389018ed36fa27becda5]: Textual amendment: [S. 193A](https://www.legislation.gov.uk/ukpga/2002/29/section/193A) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/54/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/147/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))

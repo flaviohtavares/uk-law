@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the contributions payable under regulation 27,
 - (b) the amounts due from that person that are required to be deducted from that person's salary under regulation 28 (whether or not such amounts were deducted), and
-- (c) the contributions payable in pursuance of an election under regulation G6 of TPR 1997 (which continues to have effect by virtue of paragraph 6 of Schedule 13) , and[^key-c92ca273c90ae0bceda4b624fbfd5097]
+- (c) the contributions payable in pursuance of an election under regulation G6 of TPR 1997 (which continues to have effect by virtue of paragraph 6 of Schedule 13) , and[^c-c92ca273c90ae0bceda4b624fbfd5097]
 - (d) an administration charge of such percentage as is notified from time to time by the Secretary of State.
 
 in respect of that person's contributable salary for that month.
@@ -47,4 +47,4 @@ in respect of that person's contributable salary for that month.
 
 ## Annotations
 
-[^key-c92ca273c90ae0bceda4b624fbfd5097]: Textual amendment: [Reg. 30(1)(d)](https://www.legislation.gov.uk/uksi/2010/990/regulation/30/1/d) and word inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2651/regulation/9)
+[^c-c92ca273c90ae0bceda4b624fbfd5097]: Textual amendment: [Reg. 30(1)(d)](https://www.legislation.gov.uk/uksi/2010/990/regulation/30/1/d) and word inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/2651/regulation/9)

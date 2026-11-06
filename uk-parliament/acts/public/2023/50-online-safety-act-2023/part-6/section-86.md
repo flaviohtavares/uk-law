@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Threshold figure[^key-3301be72fd835dff3b27e7925aad2893][^key-ad4f36426511a9ce5174387c9c4e7a32]
+## 86. Threshold figure[^c-3301be72fd835dff3b27e7925aad2893][^c-ad4f36426511a9ce5174387c9c4e7a32]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3301be72fd835dff3b27e7925aad2893]: Commencement: S. 86 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-3301be72fd835dff3b27e7925aad2893]: Commencement: S. 86 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-ad4f36426511a9ce5174387c9c4e7a32]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/50/section/86) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-ad4f36426511a9ce5174387c9c4e7a32]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/50/section/86) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Regulation (EU) No 517/2014[^key-f892cbab6fb89794c4f630e58d6a9092]
+## 36. Regulation (EU) No 517/2014[^c-f892cbab6fb89794c4f630e58d6a9092]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No 517/2014 of the European Parliament and of the Council on flu
 
 ## Annotations
 
-[^key-f892cbab6fb89794c4f630e58d6a9092]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f892cbab6fb89794c4f630e58d6a9092]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

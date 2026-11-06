@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Section 1H (further interpretative provisions for sections 1B to 1G)[^key-cda82e5e7f9663a73982f81f4c9a5aaa]
+## 4. Section 1H (further interpretative provisions for sections 1B to 1G)[^c-cda82e5e7f9663a73982f81f4c9a5aaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cda82e5e7f9663a73982f81f4c9a5aaa]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-cda82e5e7f9663a73982f81f4c9a5aaa]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657181]: Marginal citation: Section 1H was inserted by section 6(1) of the Financial Services Act 2012 and was amended by sections 27(1), (2)(a) and (2)(b) of the [Financial Guidance and Claims Act 2018 (c.10)](https://www.legislation.gov.uk/ukpga/2018/10) and [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655), 2013/1881, 2013/3115, 2017/752 and 2018/135.
 

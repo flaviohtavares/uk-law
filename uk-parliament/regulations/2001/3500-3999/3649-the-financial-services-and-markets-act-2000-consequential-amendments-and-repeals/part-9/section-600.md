@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 600. Construction of the 2000 Order—“relevant institution”[^key-e1b0cea872433bcc715694c5d623874f]
+## 600. Construction of the 2000 Order—“relevant institution”[^c-e1b0cea872433bcc715694c5d623874f]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b0cea872433bcc715694c5d623874f]: Commencement: Art. 600 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e1b0cea872433bcc715694c5d623874f]: Commencement: Art. 600 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

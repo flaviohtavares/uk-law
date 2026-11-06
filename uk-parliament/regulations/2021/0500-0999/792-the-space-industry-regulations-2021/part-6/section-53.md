@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Application[^key-883665146c8177e61f3785850c8f971e]
+## 53. Application[^c-883665146c8177e61f3785850c8f971e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies where a spaceflight operator is authorised by a licence to 
 
 ## Annotations
 
-[^key-883665146c8177e61f3785850c8f971e]: Commencement: Reg. 53 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-883665146c8177e61f3785850c8f971e]: Commencement: Reg. 53 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Notifying local authorities of certain action taken under this Part[^key-2770118ac9d2cec73fd468d0ac0237a2]
+## 39. Notifying local authorities of certain action taken under this Part[^c-2770118ac9d2cec73fd468d0ac0237a2]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2770118ac9d2cec73fd468d0ac0237a2]: Commencement: S. 39 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-2770118ac9d2cec73fd468d0ac0237a2]: Commencement: S. 39 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)

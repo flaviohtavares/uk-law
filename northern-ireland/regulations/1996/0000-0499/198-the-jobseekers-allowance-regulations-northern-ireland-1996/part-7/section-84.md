@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Polygamous marriages[^key-ff90156727021caa6282cf0195f7866b]
+## 84. Polygamous marriages[^c-ff90156727021caa6282cf0195f7866b]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff90156727021caa6282cf0195f7866b]: Commencement: Reg. 84 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ff90156727021caa6282cf0195f7866b]: Commencement: Reg. 84 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

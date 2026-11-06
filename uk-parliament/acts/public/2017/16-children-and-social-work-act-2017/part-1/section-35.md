@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Other personal, social, health and economic education[^key-27e4d09c33a3404425678166f95b310c]
+## 35. Other personal, social, health and economic education[^c-27e4d09c33a3404425678166f95b310c]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e4d09c33a3404425678166f95b310c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/16/section/35) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
+[^c-27e4d09c33a3404425678166f95b310c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/16/section/35) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)

@@ -36,11 +36,11 @@ is a body corporate, then if at any time a change occurs—
 - (i) in the persons who are directors of that body corporate; or
 - (ii) in the persons in accordance with whose directions or instructions the directors of that body corporate are accustomed to act,
 
-the licence, certificate or permit, as the case may require, shall cease to be in force on the expiration of 14 days after that time unless the body corporate serves, within that 14 days, a notice giving particulars of that change upon—[^key-fdcaff5864a9dbcc95e16e4799a3746a]
+the licence, certificate or permit, as the case may require, shall cease to be in force on the expiration of 14 days after that time unless the body corporate serves, within that 14 days, a notice giving particulars of that change upon—[^c-fdcaff5864a9dbcc95e16e4799a3746a]
 
 - (a) the clerk of petty sessions; and
 - (b) the district commander of the police district in which the licence, certificate or permit was granted or, in the case of a bookmaking office licence, in which the licensed office is situated.
 
 ## Annotations
 
-[^key-fdcaff5864a9dbcc95e16e4799a3746a]: Textual amendment: Words in [art. 173](https://www.legislation.gov.uk/nisi/1985/1204/article/173) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/6) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-fdcaff5864a9dbcc95e16e4799a3746a]: Textual amendment: Words in [art. 173](https://www.legislation.gov.uk/nisi/1985/1204/article/173) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/6) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

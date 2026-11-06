@@ -50,11 +50,11 @@ In accordance with section 3(5) of that Act the Department of Finance and Person
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-b4bfb0c967ae34fb6344a15f668850f3]
+### 1. Citation and commencement[^c-b4bfb0c967ae34fb6344a15f668850f3]
 
 These Regulations may be cited as the Teachers’ Pension Scheme (Consequential Provisions) Regulations (Northern Ireland) 2015 and come into operation on 1st April 2015.
 
-### 2. Interpretation[^key-a1f7f5aca5d9ad7f91f161f56421f308]
+### 2. Interpretation[^c-a1f7f5aca5d9ad7f91f161f56421f308]
 
 In these Regulations—
 
@@ -65,14 +65,14 @@ In these Regulations—
 
 ## PART 2 — Modification of contracting-out provisions
 
-### 3. Application of this Part[^key-16de9e71a3875831a9b7afe02d9b8e60]
+### 3. Application of this Part[^c-16de9e71a3875831a9b7afe02d9b8e60]
 
 This Part applies where—
 
 - (a) an election is made under section 7 (elections as to employments covered by contracting-out certificates) of the 1993 Act[^f00004] in relation to persons who become members of the new scheme on or after 1st April 2015 and before 6th April 2016 (whether or not any of those persons are members of the old scheme); and
 - (b) the new scheme satisfies the requirements of section 5 (requirements for certification of schemes) of the 1993 Act[^f00005].
 
-### 4. Contracting-out[^key-59b4bc125e935053bdc1cdf887cb8fe2]
+### 4. Contracting-out[^c-59b4bc125e935053bdc1cdf887cb8fe2]
 
 (1) Part 2 of the Occupational Pension Schemes (Contracting Out) Regulations (Northern Ireland)1996[^f00006] (certification of employments) is modified as follows in its application to the new scheme.
 
@@ -91,7 +91,7 @@ This Part applies where—
 
 ## PART 3 — Modification of early leaver and other provisions
 
-### 5. Application of this Part[^key-6f7fa802d453aee62d8f851071a59dd7]
+### 5. Application of this Part[^c-6f7fa802d453aee62d8f851071a59dd7]
 
 This Part applies where a person (P)—
 
@@ -99,13 +99,13 @@ This Part applies where a person (P)—
 - (b) is a member of the new scheme by virtue of pensionable service for the new scheme; and
 - (c) is a person to whom paragraph 1 or 2 of Schedule 7 to the 2014 Act applies by virtue of his or her pensionable service for the new scheme, and whose final salary falls for the purposes of the old scheme to be determined by reference to that paragraph.
 
-### 6. Certification[^key-8803a0519672d948b110be49d4e442f3]
+### 6. Certification[^c-8803a0519672d948b110be49d4e442f3]
 
 (1) Section 11A of the 1993 Act[^f00007] (reduction of guaranteed minimum in consequence of pension debit) is modified as follows in relation to P.
 
 (2) In the application of that section to the old scheme, the reference in subsection (2) of that section to pensionable service under the scheme is to be taken as a reference to pensionable service either for the old scheme or for the new scheme.
 
-### 7. Preservation of benefit[^key-dbff3a77ca1871a0e763fba9e95e9801]
+### 7. Preservation of benefit[^c-dbff3a77ca1871a0e763fba9e95e9801]
 
 (1) Chapter 1 of Part 4 of the 1993 Act[^f00008] (protection for early leavers: preservation of benefit) is modified as follows in relation to P.
 
@@ -135,7 +135,7 @@ This Part applies where a person (P)—
 - (c) in section 67(7)(a), the reference to P’s pensionable service under the scheme is to be taken as a reference to P’s pensionable service either for the new scheme or for the old and new schemes taken together; and
 - (d) in section 70(6), in relation to pensionable service which is terminated, the reference to the beginning of that service is to be taken as a reference to the beginning of pensionable service under the old scheme.
 
-### 8. Revaluation of preserved benefit[^key-136c94af8bd7637429139a6c9e955c00]
+### 8. Revaluation of preserved benefit[^c-136c94af8bd7637429139a6c9e955c00]
 
 (1) Chapter 2 of Part 4 of the 1993 Act (protection for early leavers: revaluation of accrued benefits) is modified as follows.
 
@@ -144,11 +144,11 @@ This Part applies where a person (P)—
 - (a) in section 79(1)(a)(ii)[^f00009] (scope of chapter 2), the reference to the date on which P’s pensionable service ends is to be taken as a reference to the date on which P’s pensionable service ends in relation to the new scheme; and
 - (b) subsequent references in the Chapter to “the termination date” and the “pre-pension period” are to be construed accordingly.
 
-### 9. Protection of increases in guaranteed minimum pensions[^key-0a8fd97d641a407a9b57ced4fcad8d16][^key-0b0a4467f89ee6337f3fe9b7e3d35e37]
+### 9. Protection of increases in guaranteed minimum pensions[^c-0a8fd97d641a407a9b57ced4fcad8d16][^c-0b0a4467f89ee6337f3fe9b7e3d35e37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Protection of increases in guaranteed minimum pensions after abolition of contracting-out[^key-9e55d4b0042c9fb7c341f6a4c43448a1]
+### 9A. Protection of increases in guaranteed minimum pensions after abolition of contracting-out[^c-9e55d4b0042c9fb7c341f6a4c43448a1]
 
 (1) Chapter 3 of Part 4 of the 1993 Act (protection for early leavers: protection of increases in guaranteed minimum pensions (“anti-franking”)) is modified as follows.
 
@@ -157,7 +157,7 @@ This Part applies where a person (P)—
 - (a) in the section 83(1)(a)(i) (general protection principle), the reference to the time when P ceases to be in pensionable service under a scheme that was, before the second abolition date, a salary-related contracted-out scheme is to be taken as a reference to the time when P ceases to be in pensionable service in relation to the new scheme; and
 - (b) subsequent references to “the cessation date” are to be construed accordingly.
 
-### 10. Transfer values[^key-bb16a36f9e78e76ae46635497e6d78e0]
+### 10. Transfer values[^c-bb16a36f9e78e76ae46635497e6d78e0]
 
 (1) Chapter 4 of Part 4 of the 1993 Act 1993[^f00011] (protection for early leavers: transfer values) is modified as follows in relation to P.
 
@@ -170,7 +170,7 @@ This Part applies where a person (P)—
 
 a reference to termination of P’s pensionable service is to be taken as a reference to termination of P’s pensionable service in relation to the new scheme.
 
-### 11. Transfer values regulations[^key-548b68247f32988fc3809a6522da9ddd]
+### 11. Transfer values regulations[^c-548b68247f32988fc3809a6522da9ddd]
 
 (1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00012] are modified as follows in relation to P.
 
@@ -182,7 +182,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 (3) In the application of regulation 4 of those Regulations (right to further cash equivalent on termination of employment to which the scheme applies) to P as a member of the old scheme, in paragraphs (1), (2), (3)(a) and (4) a reference to termination of P’s employment is to be taken as a reference to termination of P’s employment to which the new scheme applies.
 
-### 12. Cash transfers and contribution refunds[^key-e6f8dfcd4b03e77b49256591032276bf]
+### 12. Cash transfers and contribution refunds[^c-e6f8dfcd4b03e77b49256591032276bf]
 
 (1) Chapter 5 of Part 4 of the 1993 Act[^f00013] (protection for early leavers: cash transfers and contribution refunds) is modified as follows.
 
@@ -196,7 +196,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 ## PART 4 — Modification of tax regime
 
-### 13. Lifetime allowance charge: modification of provisions[^key-49ecf2d997a1e7144b84c20b56db5201]
+### 13. Lifetime allowance charge: modification of provisions[^c-49ecf2d997a1e7144b84c20b56db5201]
 
 (1) This regulation applies to a person (P), who—
 
@@ -209,7 +209,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 (3) The payment of any scheme pension from the old scheme to P is treated as if it was not a benefit crystallisation event within the meaning of section 216 of the Finance Act 2004.
 
-### 14. Annual allowance charge[^key-9b8af22b5afb524d2a6b5c9c3ed73d05]
+### 14. Annual allowance charge[^c-9b8af22b5afb524d2a6b5c9c3ed73d05]
 
 (1) This regulation applies to a person (P), who—
 
@@ -223,7 +223,7 @@ a reference to termination of P’s pensionable service is to be taken as a refe
 
 ## PART 5 — Modification of short service benefit provisions
 
-### 15. Short service benefit[^key-99acc67a6a15fff409d5bcfa487ff494]
+### 15. Short service benefit[^c-99acc67a6a15fff409d5bcfa487ff494]
 
 (1) This regulation applies to a person (P) to whom—
 
@@ -287,66 +287,66 @@ These Regulations will have no effect on the costs of business or the voluntary 
 
 [^f00001]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2).
 
-[^key-b4bfb0c967ae34fb6344a15f668850f3]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-b4bfb0c967ae34fb6344a15f668850f3]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
-[^key-a1f7f5aca5d9ad7f91f161f56421f308]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-a1f7f5aca5d9ad7f91f161f56421f308]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00002]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49)
 
 [^f00003]: Footnote: [1972 /1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
 
-[^key-16de9e71a3875831a9b7afe02d9b8e60]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-16de9e71a3875831a9b7afe02d9b8e60]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00004]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 7 was amended by Article 1(1) of and Schedule 1 to the Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)).
 
 [^f00005]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 5 was amended by Article 133 of the Pensions (Northern Ireland) Order 1995 ([S.I.1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)), by Article 1(1) of and Schedule 1 to the Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) by Article 260 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), by Article 8(2) of [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745) and by Schedule 4 to the Pensions Act (Northern Ireland) [2008 (c.1 (N.I.)](https://www.legislation.gov.uk/nia/2008/1).
 
-[^key-59b4bc125e935053bdc1cdf887cb8fe2]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-59b4bc125e935053bdc1cdf887cb8fe2]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493). Amendments were made by the Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)), and by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568), [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120) and [No. 124](https://www.legislation.gov.uk/nisr/2012/124), and [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79). By virtue of section 50(1) of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), references to the Commissioners of Inland Revenue are to be taken as references to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-6f7fa802d453aee62d8f851071a59dd7]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-6f7fa802d453aee62d8f851071a59dd7]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
-[^key-8803a0519672d948b110be49d4e442f3]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-8803a0519672d948b110be49d4e442f3]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00007]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 11A was inserted by Article 29 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I.1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)).
 
-[^key-dbff3a77ca1871a0e763fba9e95e9801]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-dbff3a77ca1871a0e763fba9e95e9801]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00008]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 67 was amended by Article 240 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and section 27 of, and paragraphs 19 and 20 of Schedule 8 to, the Public Service Pensions Act (Northern Ireland) [2014 (c.2.) (N.I.))](https://www.legislation.gov.uk/nia/2014/2).
 
-[^key-136c94af8bd7637429139a6c9e955c00]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-136c94af8bd7637429139a6c9e955c00]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00009]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 79 was amended by section 84(1) of, and paragraph 20 of Schedule 9 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999. It was amended further in relation to the definition of “normal pension age” by section 27 of, and paragraph 21 of Schedule 8 to, the Public Service Pensions Act (Northern Ireland) 2014.
 
-[^key-0a8fd97d641a407a9b57ced4fcad8d16]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/170/regulation/9) ceases to have effect (6.4.2016) by virtue of [The Teachers’ Pension Scheme (Consequential Provisions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/134)](https://www.legislation.gov.uk/nisr/2016/134), [regs. 1](https://www.legislation.gov.uk/nisr/2016/134/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/134/regulation/2); [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 38](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/38)
+[^c-0a8fd97d641a407a9b57ced4fcad8d16]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/170/regulation/9) ceases to have effect (6.4.2016) by virtue of [The Teachers’ Pension Scheme (Consequential Provisions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/134)](https://www.legislation.gov.uk/nisr/2016/134), [regs. 1](https://www.legislation.gov.uk/nisr/2016/134/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/134/regulation/2); [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 38](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/38)
 
-[^key-0b0a4467f89ee6337f3fe9b7e3d35e37]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-0b0a4467f89ee6337f3fe9b7e3d35e37]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
-[^key-9e55d4b0042c9fb7c341f6a4c43448a1]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2015/170/regulation/9A) inserted (6.4.2016) by [The Teachers’ Pension Scheme (Consequential Provisions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/134)](https://www.legislation.gov.uk/nisr/2016/134), [regs. 1](https://www.legislation.gov.uk/nisr/2016/134/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/134/regulation/2), [4](https://www.legislation.gov.uk/nisr/2016/134/regulation/4); [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 38](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/38)
+[^c-9e55d4b0042c9fb7c341f6a4c43448a1]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2015/170/regulation/9A) inserted (6.4.2016) by [The Teachers’ Pension Scheme (Consequential Provisions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/134)](https://www.legislation.gov.uk/nisr/2016/134), [regs. 1](https://www.legislation.gov.uk/nisr/2016/134/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/134/regulation/2), [4](https://www.legislation.gov.uk/nisr/2016/134/regulation/4); [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 38](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/38)
 
-[^key-bb16a36f9e78e76ae46635497e6d78e0]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-bb16a36f9e78e76ae46635497e6d78e0]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00011]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49). Section 93(1)(a) was substituted by Article 149 of the Pensions (Northern Ireland) Order 1995 . Section 90(1)(a) was amended by Article 150(1) and (2) of that Order. Section 90(2) was amended by Article 290 of, and paragraph 9 of Schedule 10 to, the Pensions (Northern Ireland) Order 2005. Section 94(1A) was inserted by, and section 94(3) amended by, Article 165 of, and paragraph 7 of Schedule 4 to, the Pensions (Northern Ireland) Order 1995.
 
-[^key-548b68247f32988fc3809a6522da9ddd]: Commencement: Reg. 11 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-548b68247f32988fc3809a6522da9ddd]: Commencement: Reg. 11 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00012]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619).
 
-[^key-e6f8dfcd4b03e77b49256591032276bf]: Commencement: Reg. 12 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-e6f8dfcd4b03e77b49256591032276bf]: Commencement: Reg. 12 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00013]: Footnote: Chapter 5 was inserted by Article 241 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)).
 
-[^key-49ecf2d997a1e7144b84c20b56db5201]: Commencement: Reg. 13 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-49ecf2d997a1e7144b84c20b56db5201]: Commencement: Reg. 13 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00014]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Paragraph 2 was amended by sections 101 and 104 of, and Schedules 10 and 11 to, the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7); by section 161 of, and Schedule 23 to, the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25); by section 70 of, and Schedule 20 to, the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11); by section 51 of the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29); and by [S.I. 2007/493](https://www.legislation.gov.uk/uksi/2007/493).
 
 [^f00015]: Footnote: Section 216 was amended by section 101 of, and paragraphs 1 and 31 of Schedule 10 to, the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7); section 161 of, and paragraphs 1 and 30 of Schedule 23 to, the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25); by section 92 of, and paragraphs 4 and 5 of Schedule 29 to, the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9); and by section 65 of, and paragraphs 62 and 73 of Schedule 16 to, the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-9b8af22b5afb524d2a6b5c9c3ed73d05]: Commencement: Reg. 14 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-9b8af22b5afb524d2a6b5c9c3ed73d05]: Commencement: Reg. 14 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00016]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12). Section 234 was amended by section 66 of, and paragraphs 1, 10 and 27 of Schedule 17 to, the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-99acc67a6a15fff409d5bcfa487ff494]: Commencement: Reg. 15 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
+[^c-99acc67a6a15fff409d5bcfa487ff494]: Commencement: Reg. 15 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/170/regulation/1)
 
 [^f00017]: Footnote: [S.R 2014/310](https://www.legislation.gov.uk/nisr/2014/310)

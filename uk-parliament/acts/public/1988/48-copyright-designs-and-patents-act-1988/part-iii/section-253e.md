@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253E. Supplementary: proceedings for delivery up etc.[^key-0ad816cf635ea8969083f16506b03f51]
+## 253E. Supplementary: proceedings for delivery up etc.[^c-0ad816cf635ea8969083f16506b03f51]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 253(1)(b) the reference to proceedings for infringement of design rig
 
 ## Annotations
 
-[^key-0ad816cf635ea8969083f16506b03f51]: Textual amendment: S. 253 253 and crossheading substituted for (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8) (with [art. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/article/7/4)); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-0ad816cf635ea8969083f16506b03f51]: Textual amendment: S. 253 253 and crossheading substituted for (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8) (with [art. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/article/7/4)); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

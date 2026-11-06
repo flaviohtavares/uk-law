@@ -86,7 +86,7 @@ Eggs sold by the producer to the final consumer on a local public market in the 
 
 IV.
 
-[^key-dcae5f99fd7118f11300fdda4f8f4805]...
+[^c-dcae5f99fd7118f11300fdda4f8f4805]...
 
 [^c000038]B.
 
@@ -196,4 +196,4 @@ Packing of chicks
 
 [^c000038]: Textual amendment: Regulation repealed (with saving) by Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, Art. 230; and, in so far as still in force, specified provisions amended (1.1.2024) by The Common Organisation of the Markets in [Agricultural Products (Amendment) Regulations 2022 (S.I. 2022/1150)](https://www.legislation.gov.uk/uksi/2022/1150), regs, 1(2), 2 and amended (2.2.2023) by The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (Consequential Modifications) and Agricultural Products, Aquatic Animal Health and Genetically Modified Organisms (EU Exit) (Amendment) Regulations 2022 (S.S.I 2022/361), regs. 1, 2(2)(3)(4)(5)(6)
 
-[^key-dcae5f99fd7118f11300fdda4f8f4805]: Textual amendment: Regulation repealed (with saving) by Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, Art. 230; and, in so far as still in force, Annex 14 Pt. A omitted (31.12.2020) by virtue of [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422), [reg. 2A](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2A) (as inserted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [14(4)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/14/4))
+[^c-dcae5f99fd7118f11300fdda4f8f4805]: Textual amendment: Regulation repealed (with saving) by Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, Art. 230; and, in so far as still in force, Annex 14 Pt. A omitted (31.12.2020) by virtue of [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422), [reg. 2A](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2A) (as inserted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [14(4)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/14/4))

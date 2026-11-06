@@ -24,35 +24,35 @@ Section 165.
 
 ### Part I — Amendments of Part VI
 
-**1.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Amendments of Part IX
 
-**14.**[^key-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c39afc2eb046dc6e507b46db678da15d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** Section 266 (power to make closing order as to part of building) shall cease to have effect.
 
@@ -60,11 +60,11 @@ Section 165.
 
 **17.** (1) In section 269 (right of appeal against order), in subsection (2) after the word “premises” there shall be inserted “or part of the premises”.
 
-(2)[^key-f1df587c8696d4092e7073426749b86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f1df587c8696d4092e7073426749b86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3) of that section, paragraph (b) and the word “and” immediately preceding it shall be omitted.
 
-(4)[^key-96c6b801a28c6188b157c2f26f8bb860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-96c6b801a28c6188b157c2f26f8bb860] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsections (4) and (5) of that section shall cease to have effect.
 
@@ -76,19 +76,19 @@ Section 165.
 
 **20.** (1) In section 274 (demolition orders: power to permit reconstruction of condemned house), in subsection (1) for the word “house”, in each place where it occurs, there shall be substituted “premises”.
 
-(2)[^key-1cc1a5facd6c56530772456fca1f2fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1cc1a5facd6c56530772456fca1f2fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-aa5acea0d7c16a3fe33cea8c94585871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aa5acea0d7c16a3fe33cea8c94585871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e4dde46b6e91b4eb21f2cc0b8cd07cf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** Sections 280, 281 and 282 (which relate to the closing etc. of underground rooms) shall cease to have effect.
 
-**25.** (1)[^key-0d2df9511c08b789de91b9e6f83f2018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.** (1)[^c-0d2df9511c08b789de91b9e6f83f2018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After that subsection there shall be inserted the following subsections—
 
@@ -144,7 +144,7 @@ Section 165.
 
 **28.** Section 299 and Schedule 11 (rehabilitation orders in respect of houses in clearance areas) shall cease to have effect.
 
-**29.**[^key-10c8266d1c9cf7386508cf16d8dec06c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-10c8266d1c9cf7386508cf16d8dec06c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.** (1) In section 301 (retention of houses acquired for clearance), in subsection (1) for the word “houses”, in each place where it occurs, there shall be substituted “ residential buildings ”.
 
@@ -161,9 +161,9 @@ Section 165.
 - (a) for the word “house”, in each place where it occurs except in paragraph (c), there shall be substituted “ residential building ”; and
 - (b) in paragraph (c) for the word “house” there shall be substituted “ residential building or any flat in the building ”.
 
-**32.**[^key-7bae2e0ab2a803ad00f7ef269257060f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-7bae2e0ab2a803ad00f7ef269257060f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.** (1)[^key-3e9538b4889f534f165e2272a4d236b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.** (1)[^c-3e9538b4889f534f165e2272a4d236b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (6) of that section for the word “house”, in each place where it occurs, there shall be substituted “ residential building ”.
 
@@ -175,7 +175,7 @@ Section 165.
 
 **35.** In section 309 (recovery of possession of premises for purposes of approved re-development), in subsection (2) for the word “house”, in each place where it occurs, there shall be substituted “ dwelling-house ”.
 
-**36.**[^key-50392744e824ee8462bd632745fd173e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-50392744e824ee8462bd632745fd173e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** In section 315 (power of court to order occupier or owner to permit things to be done), in subsection (1)—
 
@@ -194,12 +194,12 @@ Section 165.
 
 **41.** Section 321 (repair at reasonable expense) shall cease to have effect.
 
-**42.**[^key-d1c6da6b46ddf3ca68876122a6ffc438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-d1c6da6b46ddf3ca68876122a6ffc438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **43.** In section 323 (index of defined expressions: Part IX)—
 
 - (a) the entries beginning “the full standard”, “general improvement area”, “house”, “land liable to be cleared”, “person having control”, “slum clearance functions”, “slum clearance subsidy” and “year” shall be omitted
-- (b)[^key-d0246a07751d321fa6342f0891ebc4e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d0246a07751d321fa6342f0891ebc4e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) at the appropriate places in alphabetical order there shall be inserted the following entries—
 
   > |  |  |
@@ -211,63 +211,63 @@ Section 165.
 
 ### Part III — Amendments of Part XI
 
-**44.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**65.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**66.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-**68.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**69.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**70.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**71.**[^key-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-f5934aecccf07b9a4359227a573ceae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV — Amendments of Part XVII
 
@@ -283,7 +283,7 @@ Section 165.
 
 **74.** In section 582 (restriction on recovery of possession after making compulsory purchase order), in subsection (1), in paragraph (a) the words from “section 192” to “beyond repair) or” shall be omitted.
 
-**75.**[^key-c9b20017cf4dd9a3cf5d24d87b615e3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-c9b20017cf4dd9a3cf5d24d87b615e3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **76.** Sections 585 to 595 (which concern site value compensation for unfit houses and related matters and certain other land compensation matters) shall cease to have effect.
 
@@ -321,9 +321,9 @@ Section 165.
 
 ### Part V — Amendments of Part XVIII
 
-**83.**[^key-673374144e65ffcd732944d9b2c178f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-673374144e65ffcd732944d9b2c178f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**84.**[^key-503aa803fa66d5a8ac578de305aea167] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-503aa803fa66d5a8ac578de305aea167] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **85.** For section 605 there shall be substituted the following section—
 
@@ -339,7 +339,7 @@ Section 165.
 >
 > (2) For the purposes of carrying out their duty under subsection (1), the authority and their officers shall comply with any directions the Secretary of State may give and shall keep such records and supply him with such information as he may specify.
 
-**86.**[^key-82d93d0088b838bd4af488f8adcc1f59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-82d93d0088b838bd4af488f8adcc1f59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **87.** In section 608 (acquisition of ancient monuments etc.), in paragraph (a) the words from “section 192” to “beyond repair) or” shall be omitted.
 
@@ -386,40 +386,40 @@ Section 165.
 
 ## Annotations
 
-[^key-c39afc2eb046dc6e507b46db678da15d]: Textual amendment: Sch. 9 paras. 1-14 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-c39afc2eb046dc6e507b46db678da15d]: Textual amendment: Sch. 9 paras. 1-14 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
 [^M_F_0a5431fd-d068-4f0b-f2b7-2429cb5e75dd]: Textual amendment: Sch. 9 para. 16 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-f1df587c8696d4092e7073426749b86f]: Textual amendment: Sch. 9 para. 17(2) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-f1df587c8696d4092e7073426749b86f]: Textual amendment: Sch. 9 para. 17(2) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-96c6b801a28c6188b157c2f26f8bb860]: Textual amendment: Sch. 9 para. 17(4) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-96c6b801a28c6188b157c2f26f8bb860]: Textual amendment: Sch. 9 para. 17(4) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-1cc1a5facd6c56530772456fca1f2fb1]: Textual amendment: Sch. 9 para. 20(2) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-1cc1a5facd6c56530772456fca1f2fb1]: Textual amendment: Sch. 9 para. 20(2) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-aa5acea0d7c16a3fe33cea8c94585871]: Textual amendment: Sch. 9 para. 20(3) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-aa5acea0d7c16a3fe33cea8c94585871]: Textual amendment: Sch. 9 para. 20(3) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-e4dde46b6e91b4eb21f2cc0b8cd07cf7]: Textual amendment: Sch. 9 paras. 21-23 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-e4dde46b6e91b4eb21f2cc0b8cd07cf7]: Textual amendment: Sch. 9 paras. 21-23 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-0d2df9511c08b789de91b9e6f83f2018]: Textual amendment: Sch. 9 para. 25(1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-0d2df9511c08b789de91b9e6f83f2018]: Textual amendment: Sch. 9 para. 25(1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-10c8266d1c9cf7386508cf16d8dec06c]: Textual amendment: Sch. 9 para. 29 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-10c8266d1c9cf7386508cf16d8dec06c]: Textual amendment: Sch. 9 para. 29 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-7bae2e0ab2a803ad00f7ef269257060f]: Textual amendment: Sch. 9 para. 32 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-7bae2e0ab2a803ad00f7ef269257060f]: Textual amendment: Sch. 9 para. 32 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-3e9538b4889f534f165e2272a4d236b8]: Textual amendment: Sch. 9 para. 33(1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-3e9538b4889f534f165e2272a4d236b8]: Textual amendment: Sch. 9 para. 33(1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-50392744e824ee8462bd632745fd173e]: Textual amendment: Sch. 9 para. 36 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-50392744e824ee8462bd632745fd173e]: Textual amendment: Sch. 9 para. 36 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-d1c6da6b46ddf3ca68876122a6ffc438]: Textual amendment: Sch. 9 para. 42 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-d1c6da6b46ddf3ca68876122a6ffc438]: Textual amendment: Sch. 9 para. 42 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-d0246a07751d321fa6342f0891ebc4e9]: Textual amendment: Sch. 9 para. 43(b) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-d0246a07751d321fa6342f0891ebc4e9]: Textual amendment: Sch. 9 para. 43(b) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-f5934aecccf07b9a4359227a573ceae8]: Textual amendment: [Sch. 9 paras. 44-71](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/44) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-f5934aecccf07b9a4359227a573ceae8]: Textual amendment: [Sch. 9 paras. 44-71](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/44) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
-[^key-c9b20017cf4dd9a3cf5d24d87b615e3b]: Textual amendment: [Sch. 9 para. 75](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/75) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-c9b20017cf4dd9a3cf5d24d87b615e3b]: Textual amendment: [Sch. 9 para. 75](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/75) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
-[^key-673374144e65ffcd732944d9b2c178f4]: Textual amendment: [Sch. 9 para. 83](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/83) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-673374144e65ffcd732944d9b2c178f4]: Textual amendment: [Sch. 9 para. 83](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/83) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
-[^key-503aa803fa66d5a8ac578de305aea167]: Textual amendment: [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/84) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-503aa803fa66d5a8ac578de305aea167]: Textual amendment: [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/84) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
-[^key-82d93d0088b838bd4af488f8adcc1f59]: Textual amendment: [Sch. 9 para. 86](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/86) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-82d93d0088b838bd4af488f8adcc1f59]: Textual amendment: [Sch. 9 para. 86](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/paragraph/86) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))

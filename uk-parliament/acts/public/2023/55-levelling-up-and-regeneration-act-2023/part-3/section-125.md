@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Additional powers in relation to planning obligations[^key-df5906dd062cb118c3383bf8409c6c55]
+## 125. Additional powers in relation to planning obligations[^c-df5906dd062cb118c3383bf8409c6c55]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 106A of TCPA 1990 (modification and discharge of planning obligations
 
 ## Annotations
 
-[^key-df5906dd062cb118c3383bf8409c6c55]: Commencement: S. 125 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-df5906dd062cb118c3383bf8409c6c55]: Commencement: S. 125 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

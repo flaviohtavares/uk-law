@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Exemptions for coronavirus test devices[^key-2a55df50493c23149118d4855aaa8236]
+## 39A. Exemptions for coronavirus test devices[^c-2a55df50493c23149118d4855aaa8236]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a55df50493c23149118d4855aaa8236]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2002/618/regulation/39A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/910/regulation/8)
+[^c-2a55df50493c23149118d4855aaa8236]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2002/618/regulation/39A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/910/regulation/8)

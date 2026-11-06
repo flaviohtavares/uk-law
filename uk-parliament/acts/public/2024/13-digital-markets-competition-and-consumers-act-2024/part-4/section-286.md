@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286. Insurance arrangements[^key-046171934950d4a4b6eb0ce461fbf7c0][^key-b1989eee976467c4ca3bde3565dec571]
+## 286. Insurance arrangements[^c-046171934950d4a4b6eb0ce461fbf7c0][^c-b1989eee976467c4ca3bde3565dec571]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-046171934950d4a4b6eb0ce461fbf7c0]: Commencement: S. 286 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-046171934950d4a4b6eb0ce461fbf7c0]: Commencement: S. 286 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b1989eee976467c4ca3bde3565dec571]: Commencement: [S. 286](https://www.legislation.gov.uk/ukpga/2024/13/section/286) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-b1989eee976467c4ca3bde3565dec571]: Commencement: [S. 286](https://www.legislation.gov.uk/ukpga/2024/13/section/286) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

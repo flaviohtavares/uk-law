@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Scottish Charity Appeals Panel[^key-9e563469f0090657791ad0c8ddb3cbd8]
+## 75. Scottish Charity Appeals Panel[^c-9e563469f0090657791ad0c8ddb3cbd8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e563469f0090657791ad0c8ddb3cbd8]: Textual amendment: S. 75 repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/3)
+[^c-9e563469f0090657791ad0c8ddb3cbd8]: Textual amendment: S. 75 repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/3)

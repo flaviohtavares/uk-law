@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any information which is obtained under Part II, [^key-09d9367871aaaf51ad3e7a92bb1f8546]... or this Part shall not, without the previous consent in writing of the person from whom the information was obtained, be disclosed except for the purposes of—
+(1) Any information which is obtained under Part II, [^c-09d9367871aaaf51ad3e7a92bb1f8546]... or this Part shall not, without the previous consent in writing of the person from whom the information was obtained, be disclosed except for the purposes of—
 
 - (a) the execution of those Parts, and of general statistics and returns;
 - (b) any legal proceedings arising out of those Parts, or any criminal proceedings, whether so arising or not;
@@ -32,6 +32,6 @@ summary: ''
 
 [^c17018511]: Textual amendment: mod. by SR 1987/187, 383
 
-[^key-09d9367871aaaf51ad3e7a92bb1f8546]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/apni/1967/37/section/36/1) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-09d9367871aaaf51ad3e7a92bb1f8546]: Textual amendment: Words in [s. 36(1)](https://www.legislation.gov.uk/apni/1967/37/section/36/1) repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
 [^c17018521]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)

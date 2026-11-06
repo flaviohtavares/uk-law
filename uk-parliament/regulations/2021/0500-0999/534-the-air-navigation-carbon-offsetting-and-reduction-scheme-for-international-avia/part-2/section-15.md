@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. The CAA[^key-81a2be0e6069120185de74b7dec922f2]
+## 15. The CAA[^c-81a2be0e6069120185de74b7dec922f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81a2be0e6069120185de74b7dec922f2]: Commencement: Art. 15 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-81a2be0e6069120185de74b7dec922f2]: Commencement: Art. 15 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

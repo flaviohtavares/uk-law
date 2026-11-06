@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.235A. Application for redirection order[^key-82d9abaf28f6a1191409150b5a699480]
+## 6.235A. Application for redirection order[^c-82d9abaf28f6a1191409150b5a699480]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d9abaf28f6a1191409150b5a699480]: Textual amendment: [Rule 6.235A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.235A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [40](https://www.legislation.gov.uk/uksi/2005/527/rule/40)
+[^c-82d9abaf28f6a1191409150b5a699480]: Textual amendment: [Rule 6.235A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.235A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [40](https://www.legislation.gov.uk/uksi/2005/527/rule/40)

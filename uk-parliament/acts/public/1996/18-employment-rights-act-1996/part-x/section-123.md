@@ -45,7 +45,7 @@ was exercised on the employer to dismiss the employee; and that question shall b
 
 (6) Where the tribunal finds that the dismissal was to any extent caused or contributed to by any action of the complainant, it shall reduce the amount of the compensatory award by such proportion as it considers just and equitable having regard to that finding.
 
-(6A)[^key-caebe6a2429a0d9b759d0cfb9fb3829e] Where—
+(6A)[^c-caebe6a2429a0d9b759d0cfb9fb3829e] Where—
 
 - (a) the reason (or principal reason) for the dismissal is that the complainant made a protected disclosure, and
 - (b) it appears to the tribunal that the disclosure was not made in good faith,
@@ -66,6 +66,6 @@ the tribunal may, if it considers it just and equitable in all the circumstances
 
 [^c20017071]: Textual amendment: Words in s. 123(1) substituted (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/39); [S.I. 2004/2185](https://www.legislation.gov.uk/uksi/2004/2185), [art. 2](https://www.legislation.gov.uk/uksi/2004/2185/article/2)
 
-[^key-caebe6a2429a0d9b759d0cfb9fb3829e]: Textual amendment: S. 123(6A) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-caebe6a2429a0d9b759d0cfb9fb3829e]: Textual amendment: S. 123(6A) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
 
 [^c20016851]: Textual amendment: S. 123(8) inserted (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 34(5)](https://www.legislation.gov.uk/ukpga/2002/22/section/34/5), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/1717/article/3))

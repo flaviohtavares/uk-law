@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3[^key-07e79327fb591a3ea021a8a1956454c0]
+## SCHEDULE 3[^c-07e79327fb591a3ea021a8a1956454c0]
 
 *Extent: E+W*
 
@@ -235,6 +235,6 @@ Rule 29
 
 ## Annotations
 
-[^key-07e79327fb591a3ea021a8a1956454c0]: Commencement: Sch. 3 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-07e79327fb591a3ea021a8a1956454c0]: Commencement: Sch. 3 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00029]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).

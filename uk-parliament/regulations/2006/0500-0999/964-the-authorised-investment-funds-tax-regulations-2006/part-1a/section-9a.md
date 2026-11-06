@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. The genuine diversity of ownership condition[^key-10b9a946c55629c31932f5882a143297][^key-de97026971c5f2892935deb942661f54]
+## 9A. The genuine diversity of ownership condition[^c-10b9a946c55629c31932f5882a143297][^c-de97026971c5f2892935deb942661f54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The genuine diversity of ownership condition is that an authorised investment fund must—
 
-- (a)[^key-6a9fc5169d68dba56647341469e5ecd5] meet conditions A to C throughout the accounting period; or
+- (a)[^c-6a9fc5169d68dba56647341469e5ecd5] meet conditions A to C throughout the accounting period; or
 - (b) comply with paragraph (8).
 
 (3) Condition A is that the fund documents—
@@ -59,15 +59,15 @@ Condition C is subject to paragraph (7).
 - (a) the capacity of the fund to receive investments in it is fixed by the fund documents (or otherwise), and
 - (b) a pre-determined number of specific persons or specific groups of connected persons make investments in the fund which collectively exhausts all, or substantially all, of that capacity.
 
-(8) An authorised investment fund [^key-94ea34a2adbca464d2d5fb0afc78905d]... also meets the genuine diversity of ownership condition if—
+(8) An authorised investment fund [^c-94ea34a2adbca464d2d5fb0afc78905d]... also meets the genuine diversity of ownership condition if—
 
-- (a) an investor in the fund is a unit trust scheme , an offshore fund or another authorised investment fund[^key-ab3c5646cf6900ef5b0b5c45e07c310e] (a “feeder fund”);
+- (a) an investor in the fund is a unit trust scheme , an offshore fund or another authorised investment fund[^c-ab3c5646cf6900ef5b0b5c45e07c310e] (a “feeder fund”);
 - (b) conditions A to C are met in relation to the authorised investment fund after taking into account—
   - (i) the fund documents relating to the feeder fund, and
   - (ii) the intended investors in the feeder fund; and
 - (c) the authorised investment fund and the feeder fund have the same manager (or proposed manager).
 
-(8A)[^key-ca1d8e621f4b8fa5848fe673e3693bd6] For the purposes of these Regulations, a long-term asset fund is treated as meeting the genuine diversity of ownership condition if—
+(8A)[^c-ca1d8e621f4b8fa5848fe673e3693bd6] For the purposes of these Regulations, a long-term asset fund is treated as meeting the genuine diversity of ownership condition if—
 
 - (a) the fund’s prospectus was published on or before 9th December 2021, or
 - (b) at least 70% of the shares or units in the fund are held by one or more relevant investors or by the manager of the fund in the capacity as manager.
@@ -104,20 +104,20 @@ Condition C is subject to paragraph (7).
 (9) In this Part “fund documents” means—
 
 - (a) the instrument constituting the fund, and
-- (b) the fund’s prospectus in issue for the time being [^key-e925498b016b150928b1483aa9a6bfbf]... .
+- (b) the fund’s prospectus in issue for the time being [^c-e925498b016b150928b1483aa9a6bfbf]... .
 
 ## Annotations
 
-[^key-10b9a946c55629c31932f5882a143297]: Modification: Reg. 9A applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 7AC para. 30A(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/7AC/paragraph/30A/1) (as inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5))
+[^c-10b9a946c55629c31932f5882a143297]: Modification: Reg. 9A applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 7AC para. 30A(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/7AC/paragraph/30A/1) (as inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5))
 
-[^key-de97026971c5f2892935deb942661f54]: Textual amendment: Pt. 1A inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6)
+[^c-de97026971c5f2892935deb942661f54]: Textual amendment: Pt. 1A inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6)
 
-[^key-6a9fc5169d68dba56647341469e5ecd5]: Modification: Reg. 9A(2)(a) applied by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 7A para. 8(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/7A/paragraph/8/4) (as inserted (with effect in accordance with Sch. 16 para. 15) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/4))
+[^c-6a9fc5169d68dba56647341469e5ecd5]: Modification: Reg. 9A(2)(a) applied by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 7A para. 8(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/7A/paragraph/8/4) (as inserted (with effect in accordance with Sch. 16 para. 15) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/4))
 
-[^key-94ea34a2adbca464d2d5fb0afc78905d]: Textual amendment: Words in reg. 9A(8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/3/a)
+[^c-94ea34a2adbca464d2d5fb0afc78905d]: Textual amendment: Words in reg. 9A(8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/3/a)
 
-[^key-ab3c5646cf6900ef5b0b5c45e07c310e]: Textual amendment: Words in reg. 9A(8)(a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/3/b)
+[^c-ab3c5646cf6900ef5b0b5c45e07c310e]: Textual amendment: Words in reg. 9A(8)(a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/3/b)
 
-[^key-ca1d8e621f4b8fa5848fe673e3693bd6]: Textual amendment: [Reg. 9A(8A)-(8H)](https://www.legislation.gov.uk/uksi/2006/964/regulation/9A/8A) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/1)
+[^c-ca1d8e621f4b8fa5848fe673e3693bd6]: Textual amendment: [Reg. 9A(8A)-(8H)](https://www.legislation.gov.uk/uksi/2006/964/regulation/9A/8A) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/1)
 
-[^key-e925498b016b150928b1483aa9a6bfbf]: Textual amendment: Words in reg. 9A(9)(b) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2010/294/regulation/23/2)
+[^c-e925498b016b150928b1483aa9a6bfbf]: Textual amendment: Words in reg. 9A(9)(b) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2010/294/regulation/23/2)

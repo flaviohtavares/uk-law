@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Temporary stopping up of streets[^key-1ade4fff1fcf6f9ae428cfd4ee3aa54d]
+## 16. Temporary stopping up of streets[^c-1ade4fff1fcf6f9ae428cfd4ee3aa54d]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ade4fff1fcf6f9ae428cfd4ee3aa54d]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2014/2935/article/16) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-1ade4fff1fcf6f9ae428cfd4ee3aa54d]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2014/2935/article/16) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

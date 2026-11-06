@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56F. Appointment by local authorities of members of sixth form college governing body[^key-d3209f926bd7df5f227a63ae9c628952]
+## 56F. Appointment by local authorities of members of sixth form college governing body[^c-d3209f926bd7df5f227a63ae9c628952]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3209f926bd7df5f227a63ae9c628952]: Textual amendment: S. 56F repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/31); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-d3209f926bd7df5f227a63ae9c628952]: Textual amendment: S. 56F repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/31); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

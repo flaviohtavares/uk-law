@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Making and approval of code[^key-9e524dde3e790c5caa39a6b6dfe46668]
+## 78. Making and approval of code[^c-9e524dde3e790c5caa39a6b6dfe46668]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e524dde3e790c5caa39a6b6dfe46668]: Commencement: S. 78 in force at 1.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4A](https://www.legislation.gov.uk/uksi/2014/889/article/4A) (as inserted (30.4.2014) by [S.I. 2014/1134](https://www.legislation.gov.uk/uksi/2014/1134), art. 2(2))
+[^c-9e524dde3e790c5caa39a6b6dfe46668]: Commencement: S. 78 in force at 1.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4A](https://www.legislation.gov.uk/uksi/2014/889/article/4A) (as inserted (30.4.2014) by [S.I. 2014/1134](https://www.legislation.gov.uk/uksi/2014/1134), art. 2(2))

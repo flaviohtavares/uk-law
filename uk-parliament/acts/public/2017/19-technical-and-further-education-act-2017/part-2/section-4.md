@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. “Further education body”[^key-1e86bd76cbf55ec3911ab7a32d7b212d]
+## 4. “Further education body”[^c-1e86bd76cbf55ec3911ab7a32d7b212d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e86bd76cbf55ec3911ab7a32d7b212d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/19/section/4) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-1e86bd76cbf55ec3911ab7a32d7b212d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/19/section/4) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

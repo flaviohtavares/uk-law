@@ -36,8 +36,8 @@ summary: ''
 
 (6) The restrictions in regulations 102 to 106 apply to a person to whom such information is disclosed under paragraph (5) as they apply to a person to whom any of those regulations applies.
 
-(7)[^key-edd53531e7333a30ccd462961f7eeb82] In this regulation “government department” includes a Northern Ireland department.
+(7)[^c-edd53531e7333a30ccd462961f7eeb82] In this regulation “government department” includes a Northern Ireland department.
 
 ## Annotations
 
-[^key-edd53531e7333a30ccd462961f7eeb82]: Textual amendment: [Reg. 111(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/111/7) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/278/regulation/11)
+[^c-edd53531e7333a30ccd462961f7eeb82]: Textual amendment: [Reg. 111(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/111/7) inserted (4.2.2010) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2010 (S.I. 2010/278)](https://www.legislation.gov.uk/uksi/2010/278), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/278/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2010/278/regulation/11)

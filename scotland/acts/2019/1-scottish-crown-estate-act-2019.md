@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Crown Estate Scotland
 
-### 1. Crown Estate Scotland[^key-58de98f7bdd54bc2b98a3a7f54bdc030]
+### 1. Crown Estate Scotland[^c-58de98f7bdd54bc2b98a3a7f54bdc030]
 
 (1) Crown Estate Scotland (Interim Management) (in Gaelic, Oighreachd a' Chrùin Alba (Stiùireadh Eadar-amail)) is renamed and is to be known as Crown Estate Scotland (in Gaelic, Oighreachd a' Chrùin Alba).
 
@@ -46,7 +46,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — Changes in management of Scottish Crown Estate assets
 
-### 2. Meaning of “Scottish Crown Estate”, “asset” and “manager”[^key-2ab3df673ba9344ee0eae63863470310]
+### 2. Meaning of “Scottish Crown Estate”, “asset” and “manager”[^c-2ab3df673ba9344ee0eae63863470310]
 
 In this Act—
 
@@ -54,7 +54,7 @@ In this Act—
 - “**asset**”, in relation to the Scottish Crown Estate, means any property, right or interest forming part of the Scottish Crown Estate, other than money or investments,
 - “**manager**” means a person who, for the time being, has the function of managing one or more Scottish Crown Estate assets on behalf of the Crown.
 
-### 3. Transfer of management function[^key-82f242170e314710fa979db6ef29931e]
+### 3. Transfer of management function[^c-82f242170e314710fa979db6ef29931e]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the transfer of—
 
@@ -103,7 +103,7 @@ In this Act—
 
 (8) In subsection (3)(a)(ii), “**management**” includes keeping, storage, securing, archiving, preservation, destruction or other disposal.
 
-### 4. Directions requiring delegation of management function[^key-4bb5fe7be142badf1d00994f320b2f9d]
+### 4. Directions requiring delegation of management function[^c-4bb5fe7be142badf1d00994f320b2f9d]
 
 (1) The Scottish Ministers may direct the manager of a Scottish Crown Estate asset to delegate the function of managing the asset to another person mentioned in section 3(2)(c), (d), (e) or (f).
 
@@ -144,7 +144,7 @@ In this Act—
 - (b) the asset to which it relates,
 - (c) the person to whom the function is to be delegated.
 
-### 5. Delegation agreements[^key-3f4ba61d48a72d80d5ece70def29fb22]
+### 5. Delegation agreements[^c-3f4ba61d48a72d80d5ece70def29fb22]
 
 (1) The manager of a Scottish Crown Estate asset (other than the Scottish Ministers) may delegate the function of managing the asset only if directed to do so by the Scottish Ministers under section 4(1).
 
@@ -175,7 +175,7 @@ In this Act—
 - (a) the person to whom the function of managing the asset is delegated is to be treated as, and has all of the powers and duties from time to time applying to, the manager of the asset for all purposes (other than those of this Part),
 - (b) the function is not exercisable by the manager of the asset (and the manager is not responsible for its exercise).
 
-### 6. Meaning of “community organisation” and “Scottish harbour authority”[^key-cf95438095893db07984d370fb791098]
+### 6. Meaning of “community organisation” and “Scottish harbour authority”[^c-cf95438095893db07984d370fb791098]
 
 (1) In this Part, a “community organisation” is—
 
@@ -201,7 +201,7 @@ In this Act—
 
 ### Managers' powers and duties
 
-#### 7. Duty to maintain and enhance value[^key-7045e73fc4f1d0d7a5213d48ca7db497]
+#### 7. Duty to maintain and enhance value[^c-7045e73fc4f1d0d7a5213d48ca7db497]
 
 (1) The manager of one or more Scottish Crown Estate assets must maintain and seek to enhance—
 
@@ -217,7 +217,7 @@ In this Act—
   - (iii) social wellbeing,
   - (iv) environmental wellbeing.
 
-#### 8. Power to act as owner[^key-f23e07765a6ace40e7855fe91414460c]
+#### 8. Power to act as owner[^c-f23e07765a6ace40e7855fe91414460c]
 
 (1) The manager of a Scottish Crown Estate asset may do anything on behalf of the Crown in respect of the asset that the Crown could do as owner of the asset.
 
@@ -242,7 +242,7 @@ In this Act—
 
 (7) In subsections (3) and (4), “**land**” includes buildings and other structures, land covered with water, and any right or interest in or over land.
 
-#### 9. Transactions on behalf of Her Majesty[^key-ecff46f51f9260510b9b3b888519493c]
+#### 9. Transactions on behalf of Her Majesty[^c-ecff46f51f9260510b9b3b888519493c]
 
 (1) The manager of a Scottish Crown Estate asset may enter into a transaction in relation to the asset in the same manner, and with the same formalities, as if the manager were acting on behalf of a person other than Her Majesty.
 
@@ -256,7 +256,7 @@ In this Act—
 
 (4) The Scottish Ministers may by regulations modify the definition of “registered” in subsection (3).
 
-#### 10. Disposals requiring Ministerial consent[^key-387d8728b91563bd3a582cd4cdbb0d37]
+#### 10. Disposals requiring Ministerial consent[^c-387d8728b91563bd3a582cd4cdbb0d37]
 
 (1) Where subsection (2) or (3) applies, the manager of a Scottish Crown Estate asset (other than the Scottish Ministers) may transfer ownership of the asset only with the consent of the Scottish Ministers.
 
@@ -269,7 +269,7 @@ In this Act—
 - “**Scottish marine area**” is to be construed in accordance with section 1 of the Marine (Scotland) Act 2010,
 - “**sea**” is to be construed in accordance with section 2 of that Act.
 
-#### 11. Duty to obtain market value[^key-41b28bac83121fc3626bb8d4ac1d7ed7]
+#### 11. Duty to obtain market value[^c-41b28bac83121fc3626bb8d4ac1d7ed7]
 
 (1) The manager of a Scottish Crown Estate asset must not make any of the following transactions (“a relevant transaction”) for consideration of less than market value—
 
@@ -292,7 +292,7 @@ In this Act—
 - (a) for the purpose of complying with an obligation enforceable against the Crown or against the manager,
 - (b) in pursuance of paragraph 3(2) or 4(2) of Part 1 of schedule 4 of the Crown Estate Transfer Scheme.
 
-#### 12. Meaning of “market value”[^key-3349c33e344ff24c132efd29a64f8558]
+#### 12. Meaning of “market value”[^c-3349c33e344ff24c132efd29a64f8558]
 
 (1) In section 11, “**market value**” means the estimated amount which it would be reasonable to pay in respect of a relevant transaction based on the assumption that the transaction is agreed to—
 
@@ -320,7 +320,7 @@ In this Act—
 
 (5) In this section, “**relevant transaction**” is to be construed in accordance with section 11(1).
 
-#### 13. Directions about rent and other charges[^key-c3b4d903b5c8d17151e04b3d8a4d9841]
+#### 13. Directions about rent and other charges[^c-c3b4d903b5c8d17151e04b3d8a4d9841]
 
 (1) The Scottish Ministers may, in a direction under section 37(1), specify—
 
@@ -346,13 +346,13 @@ In this Act—
   - (ii) paragraph 25(1) of Part 4 of that schedule,
 - (b) an agreement under paragraph 64(1) of schedule 3A of the Communications Act 2003.
 
-#### 14. Maximum period of leases etc.[^key-d8b5d886611aa6dcd31da35083a328dc]
+#### 14. Maximum period of leases etc.[^c-d8b5d886611aa6dcd31da35083a328dc]
 
 (1) The manager of a Scottish Crown Estate asset may not grant a lease or other right in or over the asset for a period of more than 150 years, and any such lease or other right granted by the manager is void.
 
 (2) Subsection (1) does not apply where the manager grants the lease or other right for the purpose of complying with an obligation enforceable against the Crown or against the manager.
 
-#### 15. Restriction on removal of wild kelp from seabed[^key-28e62ecdede2a62075eb10c8331ccac7]
+#### 15. Restriction on removal of wild kelp from seabed[^c-28e62ecdede2a62075eb10c8331ccac7]
 
 (1) The manager of a Scottish Crown Estate asset must not grant a right to remove wild kelp from the seabed (that is, the bed and subsoil of the sea within the Scottish marine area) if either subsection (2) or (3) applies.
 
@@ -383,23 +383,23 @@ In this Act—
 
 #### 16. Rights and liabilities
 
-(1)[^key-5e1b8d5c762534222f6c5f80b307f04e] A manager is to meet its liabilities from the accounts it keeps under section 28.
+(1)[^c-5e1b8d5c762534222f6c5f80b307f04e] A manager is to meet its liabilities from the accounts it keeps under section 28.
 
-(2)[^key-4af7c817a731dc4d125a6e82a54991b8] The Scottish Ministers may by regulations make provision for the transfer of a right or liability from a manager to another manager.
+(2)[^c-4af7c817a731dc4d125a6e82a54991b8] The Scottish Ministers may by regulations make provision for the transfer of a right or liability from a manager to another manager.
 
-(3)[^key-4af7c817a731dc4d125a6e82a54991b8] Regulations under subsection (2) may modify any enactment.
+(3)[^c-4af7c817a731dc4d125a6e82a54991b8] Regulations under subsection (2) may modify any enactment.
 
-(4)[^key-5e1b8d5c762534222f6c5f80b307f04e] In this section, references to rights and liabilities are to rights and liabilities in relation to—
+(4)[^c-5e1b8d5c762534222f6c5f80b307f04e] In this section, references to rights and liabilities are to rights and liabilities in relation to—
 
 - (a) a Scottish Crown Estate asset,
 - (b) a former Scottish Crown Estate asset,
 - (c) a historic Scottish asset, within the meaning of paragraph 1 of schedule 2 of the Crown Estate Transfer Scheme.
 
-#### 17. Prohibition on securities[^key-25fe369f8629de0148b2dc4581b27ad6]
+#### 17. Prohibition on securities[^c-25fe369f8629de0148b2dc4581b27ad6]
 
 The manager of a Scottish Crown Estate asset may not grant a heritable security over the asset, and any such security granted by the manager is void.
 
-#### 18. Investment of money[^key-936a4b23f1c2684f74856a6224412726]
+#### 18. Investment of money[^c-936a4b23f1c2684f74856a6224412726]
 
 A manager may invest a sum of money—
 
@@ -409,7 +409,7 @@ A manager may invest a sum of money—
   - (iii) in an investment of such other description as the Scottish Ministers may specify in a direction under section 37(1),
 - (b) from the manager's income account only if it is invested in the name of the manager in an interest-bearing account.
 
-#### 19. Charitable donation[^key-1ad363d257b17bb1de394e407379b354]
+#### 19. Charitable donation[^c-1ad363d257b17bb1de394e407379b354]
 
 (1) A manager may make charitable donations from the manager's income account.
 
@@ -417,7 +417,7 @@ A manager may invest a sum of money—
 
 (3) In subsection (2), “**charitable purpose**” is to be construed in accordance with section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005.
 
-#### 20. Transparency and accountability[^key-9e4bc2c819ea8437e9436e0394ab07fc]
+#### 20. Transparency and accountability[^c-9e4bc2c819ea8437e9436e0394ab07fc]
 
 (1) A manager must, so far as reasonably practicable, exercise its functions in a way which—
 
@@ -426,7 +426,7 @@ A manager may invest a sum of money—
 
 (2) Subsection (1) does not apply to Crown Estate Scotland (but see article 4 of the Crown Estate Scotland Order).
 
-#### 21. Equalities[^key-0a07c6bfef5a066595386f3fac1979c1]
+#### 21. Equalities[^c-0a07c6bfef5a066595386f3fac1979c1]
 
 (1) A manager must exercise its functions in a way which encourages equal opportunities and, in particular, the observance of the equal opportunity requirements.
 
@@ -434,7 +434,7 @@ A manager may invest a sum of money—
 
 ### Planning and reporting
 
-#### 22. Strategic management plan[^key-6c0d74308271b5908dbdf6f5054a0884]
+#### 22. Strategic management plan[^c-6c0d74308271b5908dbdf6f5054a0884]
 
 (1) The Scottish Ministers must prepare a plan for the management of the Scottish Crown Estate.
 
@@ -465,7 +465,7 @@ A manager may invest a sum of money—
 - (a) where the manager is Crown Estate Scotland, a plan prepared under article 19(1) of the Crown Estate Scotland Order,
 - (b) otherwise, a plan prepared under section 24(1).
 
-#### 23. Review of strategic plan[^key-54f86ecd52cae1311d32112809abe3f0]
+#### 23. Review of strategic plan[^c-54f86ecd52cae1311d32112809abe3f0]
 
 (1) The Scottish Ministers must, not later than the end of each 5 year period, review the plan prepared under section 22(1).
 
@@ -483,7 +483,7 @@ A manager may invest a sum of money—
   - (i) a copy of a revised plan is laid before the Scottish Parliament, or (as the case may be)
   - (ii) a statement is so laid under subsection (2)(b).
 
-#### 24. Management plans[^key-dccebf0e42da5b546b5cb048631e34f4]
+#### 24. Management plans[^c-dccebf0e42da5b546b5cb048631e34f4]
 
 (1) A manager of one or more Scottish Crown Estate assets must prepare plans for the management of the assets.
 
@@ -500,7 +500,7 @@ A manager may invest a sum of money—
 
 (4) This section and section 25 do not apply to Crown Estate Scotland (but see article 19 of the Crown Estate Scotland Order).
 
-#### 25. Preparation and revision of management plans[^key-344387d3d632eeabbe712c25f33770f2]
+#### 25. Preparation and revision of management plans[^c-344387d3d632eeabbe712c25f33770f2]
 
 (1) A manager must—
 
@@ -534,7 +534,7 @@ A manager may invest a sum of money—
 - (a) subsections (1)(b) and (c), (2), (3), (4), (5)(c) and (6) do not apply,
 - (b) the Scottish Ministers must publish a plan (including a revised plan) in such manner as they consider appropriate as soon as reasonably practicable after the plan is prepared.
 
-#### 26. Annual report[^key-ecab3e0afdd51f8df686f4c67d6d800b]
+#### 26. Annual report[^c-ecab3e0afdd51f8df686f4c67d6d800b]
 
 (1) A manager of one or more Scottish Crown Estate assets must prepare in respect of each financial year a report on its management of the assets during that year.
 
@@ -557,25 +557,25 @@ A manager may invest a sum of money—
 
 #### 27. Laying and publication of annual reports
 
-(1)[^key-1919f039d0fb6db9dbb476148b085b28] The Scottish Ministers must lay a copy of each annual report before the Scottish Parliament.
+(1)[^c-1919f039d0fb6db9dbb476148b085b28] The Scottish Ministers must lay a copy of each annual report before the Scottish Parliament.
 
-(2)[^key-1919f039d0fb6db9dbb476148b085b28] They may do so by laying before the Parliament a copy of—
+(2)[^c-1919f039d0fb6db9dbb476148b085b28] They may do so by laying before the Parliament a copy of—
 
 - (a) a consolidated report comprising two or more annual reports, or
 - (b) an individual annual report.
 
-(3)[^key-1919f039d0fb6db9dbb476148b085b28] The Scottish Ministers must publish each consolidated or annual report in such manner as they consider appropriate as soon as reasonably practicable after a copy of it is laid before the Parliament.
+(3)[^c-1919f039d0fb6db9dbb476148b085b28] The Scottish Ministers must publish each consolidated or annual report in such manner as they consider appropriate as soon as reasonably practicable after a copy of it is laid before the Parliament.
 
-(4)[^key-9271b624876bea4e962e062112bd2c68] A manager must not publish its report prepared under section 26(1) until a copy of it has been laid before the Parliament.
+(4)[^c-9271b624876bea4e962e062112bd2c68] A manager must not publish its report prepared under section 26(1) until a copy of it has been laid before the Parliament.
 
 (5) In this section, “**annual report**” means a report prepared under—
 
-- (a)[^key-9271b624876bea4e962e062112bd2c68] section 26(1), or
-- (b)[^key-1919f039d0fb6db9dbb476148b085b28] article 18(1)(a) of the Crown Estate Scotland Order.
+- (a)[^c-9271b624876bea4e962e062112bd2c68] section 26(1), or
+- (b)[^c-1919f039d0fb6db9dbb476148b085b28] article 18(1)(a) of the Crown Estate Scotland Order.
 
 ### Financial matters
 
-#### 28. Separation of income and capital[^key-b054a8845455a4780d10d3cee98745f2]
+#### 28. Separation of income and capital[^c-b054a8845455a4780d10d3cee98745f2]
 
 (1) A manager must—
 
@@ -590,46 +590,46 @@ A manager may invest a sum of money—
 
 #### 29. Transfer of sums between income and capital accounts
 
-(1)[^key-0dfb5cd7076625074709236789ea0519] Subsections (2) to (5) apply to managers other than the Scottish Ministers.
+(1)[^c-0dfb5cd7076625074709236789ea0519] Subsections (2) to (5) apply to managers other than the Scottish Ministers.
 
-(2)[^key-0dfb5cd7076625074709236789ea0519] A manager may, if the Scottish Ministers so direct under section 37(1), transfer a sum of money from the manager's income account to the manager's capital account.
+(2)[^c-0dfb5cd7076625074709236789ea0519] A manager may, if the Scottish Ministers so direct under section 37(1), transfer a sum of money from the manager's income account to the manager's capital account.
 
-(3)[^key-0dfb5cd7076625074709236789ea0519] The Scottish Ministers must specify in the direction—
+(3)[^c-0dfb5cd7076625074709236789ea0519] The Scottish Ministers must specify in the direction—
 
 - (a) the maximum sum that may be so transferred, or
 - (b) how that sum is to be calculated.
 
-(4)[^key-0dfb5cd7076625074709236789ea0519] A manager may transfer any other sum of money (“the transferred sum”) from the manager's income account to the manager's capital account subject to the repayment rule.
+(4)[^c-0dfb5cd7076625074709236789ea0519] A manager may transfer any other sum of money (“the transferred sum”) from the manager's income account to the manager's capital account subject to the repayment rule.
 
-(5)[^key-0dfb5cd7076625074709236789ea0519] The repayment rule is that—
+(5)[^c-0dfb5cd7076625074709236789ea0519] The repayment rule is that—
 
 - (a) the manager must, in the same financial year as the transferred sum was transferred to the manager's capital account, transfer one or more sums of money (“repayment sums”) from the manager's capital account to the manager's income account, and
 - (b) the total amount of the repayment sums must be equal to the amount of the transferred sum.
 
-(6)[^key-8d657059c349d129b1f1ed389794dbce] Where the Scottish Ministers are a manager, they may transfer such sums as they consider appropriate—
+(6)[^c-8d657059c349d129b1f1ed389794dbce] Where the Scottish Ministers are a manager, they may transfer such sums as they consider appropriate—
 
 - (a) from their income account to their capital account,
 - (b) from their capital account to their income account.
 
 #### 30. Treatment of certain sums
 
-(1)[^key-32fa9f3cf2de3e71db13e3fed8da7acd] The manager of a Scottish Crown Estate asset must carry any sum of money received by the manager by way of a premium on the grant of a lease of the asset—
+(1)[^c-32fa9f3cf2de3e71db13e3fed8da7acd] The manager of a Scottish Crown Estate asset must carry any sum of money received by the manager by way of a premium on the grant of a lease of the asset—
 
 - (a) to the manager's income account, if the lease is granted for a period of 20 years or less,
 - (b) to the manager's capital account, if the lease is granted for a period of over 20 years.
 
-(2)[^key-32fa9f3cf2de3e71db13e3fed8da7acd] Subsections (3) and (4) apply in relation to—
+(2)[^c-32fa9f3cf2de3e71db13e3fed8da7acd] Subsections (3) and (4) apply in relation to—
 
 - (a) any gross annual income received in relation to a Scottish Crown Estate asset by the manager of the asset from or in connection with a mining lease or the working of mines or minerals,
 - (b) any expenses incurred in relation to the asset by the manager in connection with such a lease or working.
 
-(3)[^key-32fa9f3cf2de3e71db13e3fed8da7acd] The manager must carry that income, and charge those expenses, to the manager's income account and capital account in such proportions as the Scottish Ministers specify in a direction under section 37(1).
+(3)[^c-32fa9f3cf2de3e71db13e3fed8da7acd] The manager must carry that income, and charge those expenses, to the manager's income account and capital account in such proportions as the Scottish Ministers specify in a direction under section 37(1).
 
-(4)[^key-021b1c18ed53d8593502eec53dfac154] But where the Scottish Ministers are the manager, they must carry that income, and charge those expenses, to their income account and capital account in such proportions as they may determine.
+(4)[^c-021b1c18ed53d8593502eec53dfac154] But where the Scottish Ministers are the manager, they must carry that income, and charge those expenses, to their income account and capital account in such proportions as they may determine.
 
-(5)[^key-32fa9f3cf2de3e71db13e3fed8da7acd] Where the Scottish Ministers make a loan to a manager, the manager must make any repayments of the loan, and any payments of interest on the loan, from the account to which the manager carries the sum of money received under the loan.
+(5)[^c-32fa9f3cf2de3e71db13e3fed8da7acd] Where the Scottish Ministers make a loan to a manager, the manager must make any repayments of the loan, and any payments of interest on the loan, from the account to which the manager carries the sum of money received under the loan.
 
-#### 31. Transfer of funds between managers[^key-36743e55d3de39a27260ecc16e982b85]
+#### 31. Transfer of funds between managers[^c-36743e55d3de39a27260ecc16e982b85]
 
 (1) A manager may transfer a sum of money—
 
@@ -643,7 +643,7 @@ A manager may invest a sum of money—
 - (a) the sum to be transferred, or
 - (b) how that sum is to be calculated.
 
-#### 32. Grants and loans to managers[^key-976ac5a31ffff35fa1cc9d397b66810f]
+#### 32. Grants and loans to managers[^c-976ac5a31ffff35fa1cc9d397b66810f]
 
 (1) The Scottish Ministers may make grants and loans to a manager in connection with the exercise of the manager's functions.
 
@@ -658,7 +658,7 @@ A manager may invest a sum of money—
 - (a) Crown Estate Scotland (but see article 17 of the Crown Estate Scotland Order),
 - (b) the Scottish Ministers.
 
-#### 33. Grants for preparation for management changes[^key-a7df4bdeed2bd5eca534deb9d73a1b9a]
+#### 33. Grants for preparation for management changes[^c-a7df4bdeed2bd5eca534deb9d73a1b9a]
 
 (1) The Scottish Ministers may make such grants to such persons as the Scottish Ministers consider appropriate for the purpose of making preparations for—
 
@@ -671,34 +671,34 @@ A manager may invest a sum of money—
 
 #### 34. Requirement to keep accounts and records
 
-(1)[^key-f989ed0186063d07c8f540c34d7b137b] Crown Estate Scotland must—
+(1)[^c-f989ed0186063d07c8f540c34d7b137b] Crown Estate Scotland must—
 
 - (a) keep proper accounts and accounting records, and
 - (b) prepare in respect of each financial year a statement of accounts.
 
-(2)[^key-cedf445566353f7bc37bd4704199767a] A manager of one or more Scottish Crown Estate assets (other than Crown Estate Scotland) must, in relation to those assets, and any money or investments held by the manager which form part of the Scottish Crown Estate—
+(2)[^c-cedf445566353f7bc37bd4704199767a] A manager of one or more Scottish Crown Estate assets (other than Crown Estate Scotland) must, in relation to those assets, and any money or investments held by the manager which form part of the Scottish Crown Estate—
 
 - (a) keep proper accounts and accounting records, and
 - (b) prepare in respect of each financial year a statement of accounts.
 
-(3)[^key-f989ed0186063d07c8f540c34d7b137b] A statement of accounts prepared under subsection (1)(b) or (2)(b) (other than by the Scottish Ministers) must be in such form, contain such information and be prepared in accordance with such methods or principles as the Scottish Ministers may direct under section 37(1).
+(3)[^c-f989ed0186063d07c8f540c34d7b137b] A statement of accounts prepared under subsection (1)(b) or (2)(b) (other than by the Scottish Ministers) must be in such form, contain such information and be prepared in accordance with such methods or principles as the Scottish Ministers may direct under section 37(1).
 
-(4)[^key-f989ed0186063d07c8f540c34d7b137b] A manager (other than the Scottish Ministers) must send a copy of its statement of accounts prepared under subsection (1)(b) or (2)(b) to the Scottish Ministers no later than 3 months after the end of the financial year to which the statement relates.
+(4)[^c-f989ed0186063d07c8f540c34d7b137b] A manager (other than the Scottish Ministers) must send a copy of its statement of accounts prepared under subsection (1)(b) or (2)(b) to the Scottish Ministers no later than 3 months after the end of the financial year to which the statement relates.
 
-(5)[^key-cedf445566353f7bc37bd4704199767a] Accounts and records kept, and statements prepared, under subsection (2) must be kept or prepared separately from any other accounts and records kept, and statements prepared, by the manager.
+(5)[^c-cedf445566353f7bc37bd4704199767a] Accounts and records kept, and statements prepared, under subsection (2) must be kept or prepared separately from any other accounts and records kept, and statements prepared, by the manager.
 
 #### 35. Audit
 
 (1) The Scottish Ministers must prepare in respect of each financial year a consolidated statement of accounts comprising—
 
-- (a)[^key-f18d7700c802951eec80774068b31422] the statement of accounts prepared by Crown Estate Scotland for the year under section 34(1)(b), and
-- (b)[^key-052a801b73ed3ce0e7afae643f224efa] each statement of accounts prepared for the year under section 34(2)(b).
+- (a)[^c-f18d7700c802951eec80774068b31422] the statement of accounts prepared by Crown Estate Scotland for the year under section 34(1)(b), and
+- (b)[^c-052a801b73ed3ce0e7afae643f224efa] each statement of accounts prepared for the year under section 34(2)(b).
 
-(2)[^key-f18d7700c802951eec80774068b31422] The Scottish Ministers must submit a copy of the consolidated statement of accounts to the Auditor General for Scotland for auditing.
+(2)[^c-f18d7700c802951eec80774068b31422] The Scottish Ministers must submit a copy of the consolidated statement of accounts to the Auditor General for Scotland for auditing.
 
 ### End of management
 
-#### 36. End of management[^key-d3e88a2bf5d0cdb30c151a106ae397cf]
+#### 36. End of management[^c-d3e88a2bf5d0cdb30c151a106ae397cf]
 
 (1) Where a person ceases to be a manager during a financial year, the person must, no later than 3 months after the day on which the person ceases to be a manager—
 
@@ -717,7 +717,7 @@ A manager may invest a sum of money—
 
 ### Ministerial directions etc.
 
-#### 37. Power of Ministerial direction[^key-7ca6c90b4f0607956fa2ebd3a2c7bcc4]
+#### 37. Power of Ministerial direction[^c-7ca6c90b4f0607956fa2ebd3a2c7bcc4]
 
 (1) The Scottish Ministers may direct managers (other than the Scottish Ministers) as to the exercise of their functions.
 
@@ -736,13 +736,13 @@ A manager may invest a sum of money—
 
 (4) Subsection (2)(c) applies to the revision or revocation of a direction under subsection (1) as it applies to such a direction.
 
-#### 38. Ministerial guidance[^key-d8a4067664a53730f5eb3f0975fec8d7]
+#### 38. Ministerial guidance[^c-d8a4067664a53730f5eb3f0975fec8d7]
 
 (1) A manager must have regard to any written guidance given by the Scottish Ministers about the exercise of managers' functions.
 
 (2) The Scottish Ministers must publish any such guidance in such manner as they consider appropriate as soon as reasonably practicable after it is given.
 
-#### 39. Power to delegate functions to Crown Estate Scotland[^key-8d9511c74dc06263f2a9d98265aa2ad5]
+#### 39. Power to delegate functions to Crown Estate Scotland[^c-8d9511c74dc06263f2a9d98265aa2ad5]
 
 (1) The Scottish Ministers may, subject to such conditions as they consider appropriate, delegate to Crown Estate Scotland some or all of their functions under—
 
@@ -768,7 +768,7 @@ A manager may invest a sum of money—
 - (a) applies as if it required managers (including the Scottish Ministers) to send copies of their statements of accounts prepared under section 34(2)(b) to Crown Estate Scotland (rather than to the Scottish Ministers),
 - (b) does not apply to Crown Estate Scotland.
 
-#### 40. Provision of information or advice to the Scottish Ministers[^key-1192611446d6d6038f4cd4096521002a]
+#### 40. Provision of information or advice to the Scottish Ministers[^c-1192611446d6d6038f4cd4096521002a]
 
 (1) A manager of one or more Scottish Crown Estate assets must provide the Scottish Ministers with such information or advice as the Scottish Ministers may require in relation to—
 
@@ -777,7 +777,7 @@ A manager may invest a sum of money—
 
 (2) The information or advice must be provided in such form as the Scottish Ministers may require.
 
-#### 41. Research and other activities[^key-3a182cab2b1ad2bb3de87320037c4100]
+#### 41. Research and other activities[^c-3a182cab2b1ad2bb3de87320037c4100]
 
 The Scottish Ministers may—
 
@@ -823,7 +823,7 @@ The Scottish Ministers may—
 
 (2) Regulations under subsection (1) may modify any enactment (including this Act).
 
-### 44. Consequential and minor modifications[^key-03476b23f420a489b7d977022b0e0fde]
+### 44. Consequential and minor modifications[^c-03476b23f420a489b7d977022b0e0fde]
 
 Schedule 2 makes minor modifications of enactments and modifications consequential on the provisions of this Act.
 
@@ -868,50 +868,50 @@ The short title of this Act is the Scottish Crown Estate Act 2019.
 
 ### Crown Suits (Scotland) Act 1857
 
-**1.**[^key-dae3c9e38d2880f994048865f0752b21] In the Crown Suits (Scotland) Act 1857, in section 4(2), for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**1.**[^c-dae3c9e38d2880f994048865f0752b21] In the Crown Suits (Scotland) Act 1857, in section 4(2), for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**2.**[^key-eff25db925b6c47c4fb394fd07faf44c] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
+**2.**[^c-eff25db925b6c47c4fb394fd07faf44c] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**3.**[^key-24299e5cbb253b6a69d50edb707d6ab0] In the Scottish Public Services Ombudsman Act 2002, in Part 1 of schedule 2, in paragraph 17B, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**3.**[^c-24299e5cbb253b6a69d50edb707d6ab0] In the Scottish Public Services Ombudsman Act 2002, in Part 1 of schedule 2, in paragraph 17B, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**4.**[^key-31e2b999725e15847c9d91a11e699df7] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1, in paragraph 63A, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**4.**[^c-31e2b999725e15847c9d91a11e699df7] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1, in paragraph 63A, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**5.**[^key-9b4eded9d7e723aba6eb0db5b092344f] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2, under the heading “Other Public Bodies”, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
+**5.**[^c-9b4eded9d7e723aba6eb0db5b092344f] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2, under the heading “Other Public Bodies”, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**6.**[^key-6446b3c2881df7a88372f3cc93aeea86] In the Public Services Reform (Scotland) Act 2010, in schedule 8, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
+**6.**[^c-6446b3c2881df7a88372f3cc93aeea86] In the Public Services Reform (Scotland) Act 2010, in schedule 8, for “Crown Estate Scotland (Interim Management).” substitute “ Crown Estate Scotland ”.
 
 ### Public Records (Scotland) Act 2011
 
-**7.**[^key-d6cbafef32b0c91ce67d68906490219f] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Others”, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**7.**[^c-d6cbafef32b0c91ce67d68906490219f] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Others”, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### Gender Representation on Public Boards (Scotland) Act 2018
 
-**8.**[^key-225b627066270a4a186e006b65b7c84b] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**8.**[^c-225b627066270a4a186e006b65b7c84b] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### Islands (Scotland) Act 2018
 
-**9.**[^key-1bed39f42cc8cf3ab7cf21447d78690d] In the Islands (Scotland) Act 2018, in the schedule, in paragraph 12, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
+**9.**[^c-1bed39f42cc8cf3ab7cf21447d78690d] In the Islands (Scotland) Act 2018, in the schedule, in paragraph 12, for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### The Scottish Parliament (Disqualification) Order 2015
 
-**10.**[^key-5772ea2070a8417f6eafb4583f51f89e] In the Scottish Parliament (Disqualification) Order 2015 (S.S.I. 2015/350), in Part 1 of the schedule—
+**10.**[^c-5772ea2070a8417f6eafb4583f51f89e] In the Scottish Parliament (Disqualification) Order 2015 (S.S.I. 2015/350), in Part 1 of the schedule—
 
 - (a) in the entry relating to any member of Crown Estate Scotland (Interim Management), for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”,
 - (b) in the entry relating to a member of the staff of Crown Estate Scotland (Interim Management), for “Crown Estate Scotland (Interim Management)” substitute “ Crown Estate Scotland ”.
 
 ### The Crown Estate Scotland (Interim Management) Order 2017
 
-**11.**[^key-f328fbbd44682034e38887b681809c42] (1) In the Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)—
+**11.**[^c-f328fbbd44682034e38887b681809c42] (1) In the Crown Estate Scotland (Interim Management) Order 2017 (S.S.I. 2017/36)—
 
 - (a) in article 1(1), for “Crown Estate Scotland (Interim Management) Order 2017” substitute “ Crown Estate Scotland Order 2017 ”,
 - (b) for “Crown Estate Scotland (Interim Management)” in each place where it occurs in articles 3 to 19, substitute “ Crown Estate Scotland ”,
@@ -926,11 +926,11 @@ The short title of this Act is the Scottish Crown Estate Act 2019.
 
 ### Scotland Act 2016
 
-**1.**[^key-4621c8caa1208203845f5b4f6bd332c9] Section 36(7) of the Scotland Act 2016 is repealed.
+**1.**[^c-4621c8caa1208203845f5b4f6bd332c9] Section 36(7) of the Scotland Act 2016 is repealed.
 
 ### The Crown Estate Scotland Order 2017
 
-**2.**[^key-36ca6036e9cf37cd47773a121a0c85be] (1) The Crown Estate Scotland Order is amended as follows.
+**2.**[^c-36ca6036e9cf37cd47773a121a0c85be] (1) The Crown Estate Scotland Order is amended as follows.
 
 (2) In article 8 (early termination of membership), in paragraph (3)(b), for “order” substitute “ or arrangement ”.
 
@@ -963,124 +963,124 @@ The short title of this Act is the Scottish Crown Estate Act 2019.
 
 ## Annotations
 
-[^key-58de98f7bdd54bc2b98a3a7f54bdc030]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/1/section/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-58de98f7bdd54bc2b98a3a7f54bdc030]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/1/section/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-2ab3df673ba9344ee0eae63863470310]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/1/section/2) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/a)
+[^c-2ab3df673ba9344ee0eae63863470310]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/1/section/2) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/a)
 
-[^key-82f242170e314710fa979db6ef29931e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/1/section/3) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-82f242170e314710fa979db6ef29931e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/1/section/3) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-4bb5fe7be142badf1d00994f320b2f9d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/1/section/4) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-4bb5fe7be142badf1d00994f320b2f9d]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/1/section/4) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-3f4ba61d48a72d80d5ece70def29fb22]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/1/section/5) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-3f4ba61d48a72d80d5ece70def29fb22]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/1/section/5) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-cf95438095893db07984d370fb791098]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/1/section/6) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-cf95438095893db07984d370fb791098]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/1/section/6) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-7045e73fc4f1d0d7a5213d48ca7db497]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/1/section/7) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-7045e73fc4f1d0d7a5213d48ca7db497]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/1/section/7) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-f23e07765a6ace40e7855fe91414460c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/1/section/8) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-f23e07765a6ace40e7855fe91414460c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/1/section/8) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-ecff46f51f9260510b9b3b888519493c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/1/section/9) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-ecff46f51f9260510b9b3b888519493c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/1/section/9) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-387d8728b91563bd3a582cd4cdbb0d37]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/1/section/10) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-387d8728b91563bd3a582cd4cdbb0d37]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/1/section/10) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-41b28bac83121fc3626bb8d4ac1d7ed7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/1/section/11) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-41b28bac83121fc3626bb8d4ac1d7ed7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/1/section/11) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-3349c33e344ff24c132efd29a64f8558]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/1/section/12) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-3349c33e344ff24c132efd29a64f8558]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/1/section/12) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-c3b4d903b5c8d17151e04b3d8a4d9841]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/1/section/13) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-c3b4d903b5c8d17151e04b3d8a4d9841]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/1/section/13) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-d8b5d886611aa6dcd31da35083a328dc]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/1/section/14) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-d8b5d886611aa6dcd31da35083a328dc]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/1/section/14) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-28e62ecdede2a62075eb10c8331ccac7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/1/section/15) in force at 1.10.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2020/77/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/77/regulation/4))
+[^c-28e62ecdede2a62075eb10c8331ccac7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/1/section/15) in force at 1.10.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2020/77/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/77/regulation/4))
 
-[^key-5e1b8d5c762534222f6c5f80b307f04e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/asp/2019/1/section/16/1)[(4)](https://www.legislation.gov.uk/asp/2019/1/section/16/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-5e1b8d5c762534222f6c5f80b307f04e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/asp/2019/1/section/16/1)[(4)](https://www.legislation.gov.uk/asp/2019/1/section/16/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-4af7c817a731dc4d125a6e82a54991b8]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/asp/2019/1/section/16/2)[(3)](https://www.legislation.gov.uk/asp/2019/1/section/16/3) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-4af7c817a731dc4d125a6e82a54991b8]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/asp/2019/1/section/16/2)[(3)](https://www.legislation.gov.uk/asp/2019/1/section/16/3) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-25fe369f8629de0148b2dc4581b27ad6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/1/section/17) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-25fe369f8629de0148b2dc4581b27ad6]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/1/section/17) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-936a4b23f1c2684f74856a6224412726]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/1/section/18) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-936a4b23f1c2684f74856a6224412726]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/1/section/18) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-1ad363d257b17bb1de394e407379b354]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/1/section/19) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-1ad363d257b17bb1de394e407379b354]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/1/section/19) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-9e4bc2c819ea8437e9436e0394ab07fc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/1/section/20) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-9e4bc2c819ea8437e9436e0394ab07fc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/1/section/20) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-0a07c6bfef5a066595386f3fac1979c1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/1/section/21) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-0a07c6bfef5a066595386f3fac1979c1]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/1/section/21) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-6c0d74308271b5908dbdf6f5054a0884]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/1/section/22) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/b)
+[^c-6c0d74308271b5908dbdf6f5054a0884]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/1/section/22) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/b)
 
-[^key-54f86ecd52cae1311d32112809abe3f0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/1/section/23) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/c)
+[^c-54f86ecd52cae1311d32112809abe3f0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/1/section/23) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/c)
 
-[^key-dccebf0e42da5b546b5cb048631e34f4]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/1/section/24) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-dccebf0e42da5b546b5cb048631e34f4]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/1/section/24) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-344387d3d632eeabbe712c25f33770f2]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/1/section/25) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-344387d3d632eeabbe712c25f33770f2]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/1/section/25) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-ecab3e0afdd51f8df686f4c67d6d800b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/1/section/26) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-ecab3e0afdd51f8df686f4c67d6d800b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/1/section/26) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-1919f039d0fb6db9dbb476148b085b28]: Commencement: S. 27(1)-(3)(5)(b) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-1919f039d0fb6db9dbb476148b085b28]: Commencement: S. 27(1)-(3)(5)(b) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-9271b624876bea4e962e062112bd2c68]: Commencement: [S. 27(4)](https://www.legislation.gov.uk/asp/2019/1/section/27/4)[(5)(a)](https://www.legislation.gov.uk/asp/2019/1/section/27/5/a) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-9271b624876bea4e962e062112bd2c68]: Commencement: [S. 27(4)](https://www.legislation.gov.uk/asp/2019/1/section/27/4)[(5)(a)](https://www.legislation.gov.uk/asp/2019/1/section/27/5/a) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-b054a8845455a4780d10d3cee98745f2]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/1/section/28) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-b054a8845455a4780d10d3cee98745f2]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/1/section/28) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-0dfb5cd7076625074709236789ea0519]: Commencement: [S. 29(1)-(5)](https://www.legislation.gov.uk/asp/2019/1/section/29/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-0dfb5cd7076625074709236789ea0519]: Commencement: [S. 29(1)-(5)](https://www.legislation.gov.uk/asp/2019/1/section/29/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-8d657059c349d129b1f1ed389794dbce]: Commencement: [S. 29(6)](https://www.legislation.gov.uk/asp/2019/1/section/29/6) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-8d657059c349d129b1f1ed389794dbce]: Commencement: [S. 29(6)](https://www.legislation.gov.uk/asp/2019/1/section/29/6) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-32fa9f3cf2de3e71db13e3fed8da7acd]: Commencement: S. 30(1)-(3)(5) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-32fa9f3cf2de3e71db13e3fed8da7acd]: Commencement: S. 30(1)-(3)(5) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-021b1c18ed53d8593502eec53dfac154]: Commencement: [S. 30(4)](https://www.legislation.gov.uk/asp/2019/1/section/30/4) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-021b1c18ed53d8593502eec53dfac154]: Commencement: [S. 30(4)](https://www.legislation.gov.uk/asp/2019/1/section/30/4) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-36743e55d3de39a27260ecc16e982b85]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2019/1/section/31) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-36743e55d3de39a27260ecc16e982b85]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2019/1/section/31) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-976ac5a31ffff35fa1cc9d397b66810f]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/1/section/32) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-976ac5a31ffff35fa1cc9d397b66810f]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2019/1/section/32) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-a7df4bdeed2bd5eca534deb9d73a1b9a]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/1/section/33) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-a7df4bdeed2bd5eca534deb9d73a1b9a]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2019/1/section/33) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-f989ed0186063d07c8f540c34d7b137b]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/asp/2019/1/section/34/1)[(3)](https://www.legislation.gov.uk/asp/2019/1/section/34/3)[(4)](https://www.legislation.gov.uk/asp/2019/1/section/34/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-f989ed0186063d07c8f540c34d7b137b]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/asp/2019/1/section/34/1)[(3)](https://www.legislation.gov.uk/asp/2019/1/section/34/3)[(4)](https://www.legislation.gov.uk/asp/2019/1/section/34/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-cedf445566353f7bc37bd4704199767a]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/asp/2019/1/section/34/2)[(5)](https://www.legislation.gov.uk/asp/2019/1/section/34/5) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-cedf445566353f7bc37bd4704199767a]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/asp/2019/1/section/34/2)[(5)](https://www.legislation.gov.uk/asp/2019/1/section/34/5) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-f18d7700c802951eec80774068b31422]: Commencement: [S. 35(1)(a)](https://www.legislation.gov.uk/asp/2019/1/section/35/1/a)[(2)](https://www.legislation.gov.uk/asp/2019/1/section/35/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-f18d7700c802951eec80774068b31422]: Commencement: [S. 35(1)(a)](https://www.legislation.gov.uk/asp/2019/1/section/35/1/a)[(2)](https://www.legislation.gov.uk/asp/2019/1/section/35/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-052a801b73ed3ce0e7afae643f224efa]: Commencement: [S. 35(1)(b)](https://www.legislation.gov.uk/asp/2019/1/section/35/1/b) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-052a801b73ed3ce0e7afae643f224efa]: Commencement: [S. 35(1)(b)](https://www.legislation.gov.uk/asp/2019/1/section/35/1/b) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-d3e88a2bf5d0cdb30c151a106ae397cf]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/1/section/36) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-d3e88a2bf5d0cdb30c151a106ae397cf]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2019/1/section/36) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-7ca6c90b4f0607956fa2ebd3a2c7bcc4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/1/section/37) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/d)
+[^c-7ca6c90b4f0607956fa2ebd3a2c7bcc4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/1/section/37) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/d)
 
-[^key-d8a4067664a53730f5eb3f0975fec8d7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/1/section/38) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/e)
+[^c-d8a4067664a53730f5eb3f0975fec8d7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/1/section/38) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/e)
 
-[^key-8d9511c74dc06263f2a9d98265aa2ad5]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/1/section/39) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
+[^c-8d9511c74dc06263f2a9d98265aa2ad5]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/1/section/39) in force at 27.9.2021 by [S.S.I. 2021/308](https://www.legislation.gov.uk/ssi/2021/308), [reg. 2](https://www.legislation.gov.uk/ssi/2021/308/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/308/schedule)
 
-[^key-1192611446d6d6038f4cd4096521002a]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/1/section/40) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/f)
+[^c-1192611446d6d6038f4cd4096521002a]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/1/section/40) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/f)
 
-[^key-3a182cab2b1ad2bb3de87320037c4100]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/1/section/41) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/g)
+[^c-3a182cab2b1ad2bb3de87320037c4100]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/1/section/41) in force at 1.6.2019 by [S.S.I. 2019/170](https://www.legislation.gov.uk/ssi/2019/170), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2019/170/regulation/2/g)
 
-[^key-03476b23f420a489b7d977022b0e0fde]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2019/1/section/44) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-03476b23f420a489b7d977022b0e0fde]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2019/1/section/44) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-dae3c9e38d2880f994048865f0752b21]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-dae3c9e38d2880f994048865f0752b21]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-eff25db925b6c47c4fb394fd07faf44c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-eff25db925b6c47c4fb394fd07faf44c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-24299e5cbb253b6a69d50edb707d6ab0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/3) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-24299e5cbb253b6a69d50edb707d6ab0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/3) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-31e2b999725e15847c9d91a11e699df7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-31e2b999725e15847c9d91a11e699df7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/4) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-9b4eded9d7e723aba6eb0db5b092344f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/5) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-9b4eded9d7e723aba6eb0db5b092344f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/5) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-6446b3c2881df7a88372f3cc93aeea86]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/6) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-6446b3c2881df7a88372f3cc93aeea86]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/6) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-d6cbafef32b0c91ce67d68906490219f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/7) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-d6cbafef32b0c91ce67d68906490219f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/7) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-225b627066270a4a186e006b65b7c84b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/8) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-225b627066270a4a186e006b65b7c84b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/8) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-1bed39f42cc8cf3ab7cf21447d78690d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/9) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-1bed39f42cc8cf3ab7cf21447d78690d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/9) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-5772ea2070a8417f6eafb4583f51f89e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/10) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-5772ea2070a8417f6eafb4583f51f89e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/10) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-f328fbbd44682034e38887b681809c42]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-f328fbbd44682034e38887b681809c42]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-4621c8caa1208203845f5b4f6bd332c9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/77/regulation/3))
+[^c-4621c8caa1208203845f5b4f6bd332c9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/1) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/77/regulation/3))
 
-[^key-36ca6036e9cf37cd47773a121a0c85be]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-36ca6036e9cf37cd47773a121a0c85be]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2) in force at 1.4.2020 by [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)

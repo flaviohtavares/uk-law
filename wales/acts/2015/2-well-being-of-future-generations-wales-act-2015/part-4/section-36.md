@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Well-being duty on public services boards[^key-11ce9a6a0e409e05b22a429efc73cfc9]
+## 36. Well-being duty on public services boards[^c-11ce9a6a0e409e05b22a429efc73cfc9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11ce9a6a0e409e05b22a429efc73cfc9]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/2/section/36) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-11ce9a6a0e409e05b22a429efc73cfc9]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/2/section/36) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

@@ -99,7 +99,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-beeff3a8a22ba1f981c0a83568577d5a]...
+[^c-beeff3a8a22ba1f981c0a83568577d5a]...
 
 Done at Brussels, 27 August 2015.
 
@@ -144,4 +144,4 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: EFSA Journal 2010;8(9):1827.
 
-[^key-beeff3a8a22ba1f981c0a83568577d5a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/1474/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/640/regulation/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beeff3a8a22ba1f981c0a83568577d5a]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/1474/signature) omitted (31.12.2020) by virtue of [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [53](https://www.legislation.gov.uk/uksi/2019/640/regulation/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

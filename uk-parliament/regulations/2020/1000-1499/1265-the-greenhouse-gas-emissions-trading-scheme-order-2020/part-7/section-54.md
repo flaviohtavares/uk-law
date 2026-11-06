@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Hospitals and small emitters: exceeding emissions target[^key-31649895faecbef68225812ba604fb5a]
+## 54. Hospitals and small emitters: exceeding emissions target[^c-31649895faecbef68225812ba604fb5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31649895faecbef68225812ba604fb5a]: Commencement: Art. 54 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-31649895faecbef68225812ba604fb5a]: Commencement: Art. 54 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

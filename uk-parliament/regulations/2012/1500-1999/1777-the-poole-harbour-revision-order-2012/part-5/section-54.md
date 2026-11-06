@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Power to grant tenancies and to dispose of land[^key-7a25408229535ae2b8b47ffd2178625f]
+## 54. Power to grant tenancies and to dispose of land[^c-7a25408229535ae2b8b47ffd2178625f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a25408229535ae2b8b47ffd2178625f]: Commencement: Art. 54 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-7a25408229535ae2b8b47ffd2178625f]: Commencement: Art. 54 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

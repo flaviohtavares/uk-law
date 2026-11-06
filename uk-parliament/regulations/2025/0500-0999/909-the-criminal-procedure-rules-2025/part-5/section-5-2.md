@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.2. Forms in Welsh[^key-1a4f3a151616c0d7210b2cb5d995f146]
+## 5.2. Forms in Welsh[^c-1a4f3a151616c0d7210b2cb5d995f146]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a4f3a151616c0d7210b2cb5d995f146]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/uksi/2025/909/rule/5.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1a4f3a151616c0d7210b2cb5d995f146]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/uksi/2025/909/rule/5.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

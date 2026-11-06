@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36E. Activities in relation to certain agreements relating to land[^key-4acb5a2572ca40ff676210af7e27ce50][^key-b52642df0c809f1aa295b3f79f2dbaea]
+## 36E. Activities in relation to certain agreements relating to land[^c-4acb5a2572ca40ff676210af7e27ce50][^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4acb5a2572ca40ff676210af7e27ce50]: Textual amendment: Art. 36E substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/7) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-4acb5a2572ca40ff676210af7e27ce50]: Textual amendment: Art. 36E substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/7) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
+[^c-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)

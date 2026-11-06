@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Prohibitions and requirements: supplemental[^key-14faa9331a78a2f8085de7dec4cc94e8][^key-bf7d78ac601ecd0506a6b538f72d9341]
+## 240. Prohibitions and requirements: supplemental[^c-14faa9331a78a2f8085de7dec4cc94e8][^c-bf7d78ac601ecd0506a6b538f72d9341]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14faa9331a78a2f8085de7dec4cc94e8]: Commencement: S. 240 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-14faa9331a78a2f8085de7dec4cc94e8]: Commencement: S. 240 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-bf7d78ac601ecd0506a6b538f72d9341]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2023/52/section/240) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)
+[^c-bf7d78ac601ecd0506a6b538f72d9341]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2023/52/section/240) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Prohibition of rent in advance before lease entered into[^key-59e4dc31d92620852238e58163996637][^key-aaf34bb17854a39aeaf16485158d1dba]
+## 9. Prohibition of rent in advance before lease entered into[^c-59e4dc31d92620852238e58163996637][^c-aaf34bb17854a39aeaf16485158d1dba]
 
 *Extent: E+W*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59e4dc31d92620852238e58163996637]: Commencement: S. 9 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-59e4dc31d92620852238e58163996637]: Commencement: S. 9 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-aaf34bb17854a39aeaf16485158d1dba]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/26/section/9) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-aaf34bb17854a39aeaf16485158d1dba]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/26/section/9) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

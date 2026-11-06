@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Objectives[^key-1f3f1ee968b3ec57cbbe4d7fdedc8113]
+## 137. Objectives[^c-1f3f1ee968b3ec57cbbe4d7fdedc8113]
 
 *Extent: E+W+S+N.I.*
 
 (1) A bank administrator has two objectives—
 
-- (a) Objective 1: support for commercial purchaser or resolution company[^key-c8368b26cf76f2af768e3fa268205b13] (see section 138), and
+- (a) Objective 1: support for commercial purchaser or resolution company[^c-c8368b26cf76f2af768e3fa268205b13] (see section 138), and
 - (b) Objective 2: “normal” administration (see section 140).
 
 (2) Objective 1 takes priority over Objective 2 (but a bank administrator is obliged to begin working towards both objectives immediately upon appointment).
 
 ## Annotations
 
-[^key-1f3f1ee968b3ec57cbbe4d7fdedc8113]: Commencement: S. 137 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-1f3f1ee968b3ec57cbbe4d7fdedc8113]: Commencement: S. 137 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-c8368b26cf76f2af768e3fa268205b13]: Textual amendment: Words in s. 137(1)(a) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/3)
+[^c-c8368b26cf76f2af768e3fa268205b13]: Textual amendment: Words in s. 137(1)(a) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/3)

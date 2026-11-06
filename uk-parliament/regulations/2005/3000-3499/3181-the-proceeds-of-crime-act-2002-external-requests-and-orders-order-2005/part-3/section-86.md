@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Administrators: restrictions on proceedings and remedies[^key-2fabbc2baeaf605d2d30c9cd62d38e83]
+## 86. Administrators: restrictions on proceedings and remedies[^c-2fabbc2baeaf605d2d30c9cd62d38e83]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fabbc2baeaf605d2d30c9cd62d38e83]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2005/3181/article/86) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2fabbc2baeaf605d2d30c9cd62d38e83]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2005/3181/article/86) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

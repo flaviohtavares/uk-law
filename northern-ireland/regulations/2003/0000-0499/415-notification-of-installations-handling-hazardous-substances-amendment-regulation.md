@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Notification of Installations Handling Hazardous Substances (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-9c422b23486c6a3df0b7d3bdc13eb951]
+Notification of Installations Handling Hazardous Substances (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-9c422b23486c6a3df0b7d3bdc13eb951]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 27th October 2003
 
-[^key-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9c422b23486c6a3df0b7d3bdc13eb951]
+## 1. Citation and commencement[^c-9c422b23486c6a3df0b7d3bdc13eb951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984[^key-9c422b23486c6a3df0b7d3bdc13eb951]
+## 2. Amendment of the Notification of Installations Handling Hazardous Substances Regulations (Northern Ireland) 1984[^c-9c422b23486c6a3df0b7d3bdc13eb951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c422b23486c6a3df0b7d3bdc13eb951]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c422b23486c6a3df0b7d3bdc13eb951]: Textual amendment: Regulations revoked (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule)
+[^c-9c422b23486c6a3df0b7d3bdc13eb951]: Textual amendment: Regulations revoked (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule)

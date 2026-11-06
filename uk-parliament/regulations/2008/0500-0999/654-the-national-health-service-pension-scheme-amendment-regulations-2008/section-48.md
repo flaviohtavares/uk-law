@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Amendment of regulation Q5[^key-3ea6b08a257ee0557689ab4ed885a118]
+## 48. Amendment of regulation Q5[^c-3ea6b08a257ee0557689ab4ed885a118]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After paragraph (2A) of regulation Q5 (paying for unreduced lump sum by single p
 
 ## Annotations
 
-[^key-3ea6b08a257ee0557689ab4ed885a118]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-3ea6b08a257ee0557689ab4ed885a118]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

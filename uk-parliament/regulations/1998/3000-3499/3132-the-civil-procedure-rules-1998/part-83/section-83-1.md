@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.1. Scope and interpretation[^key-47e86d3c6fd2cdb1267b2c84766853be]
+## 83.1. Scope and interpretation[^c-47e86d3c6fd2cdb1267b2c84766853be]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ summary: ''
 
   and any further writ in aid of any such writs, but does not include a writ of control.
 
-(3)[^key-8e06dc22c85adf0f2699fa1bbf38cdf5] This Part does not apply where an application is made seeking confiscation of assets as a punishment for contempt of court. Any such application must be made under Part 81 and not under this Part.
+(3)[^c-8e06dc22c85adf0f2699fa1bbf38cdf5] This Part does not apply where an application is made seeking confiscation of assets as a punishment for contempt of court. Any such application must be made under Part 81 and not under this Part.
 
 ## Annotations
 
-[^key-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
 
-[^key-8e06dc22c85adf0f2699fa1bbf38cdf5]: Textual amendment: [Rule 83.1(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.1/3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))
+[^c-8e06dc22c85adf0f2699fa1bbf38cdf5]: Textual amendment: [Rule 83.1(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.1/3) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2021/117/rule/19/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2021/117/rule/2))

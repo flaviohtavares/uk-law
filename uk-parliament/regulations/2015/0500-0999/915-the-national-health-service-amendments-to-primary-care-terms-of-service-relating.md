@@ -46,15 +46,15 @@ Coming into force
 
 [^M_F_bc603de8-d3fb-4d4a-ad06-fc22c45c4b93]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 85, 89(1) and (2)(a), (c) and (d), 94(1) and (3)(f), 126, 129, 132, and 272(7) and (8) of, and paragraph 3(1) and (3)(c) and (f) of Schedule 12 to, the National Health Service Act 2006[^f00001].
 
-## 1. Citation and commencement[^key-a534c8564f320bc3d2fa97a7c569e713]
+## 1. Citation and commencement[^c-a534c8564f320bc3d2fa97a7c569e713]
 
 These Regulations may be cited as the National Health Service (Amendments to Primary Care Terms of Service relating to the Electronic Prescription Service) Regulations 2015 and come into force on 1st July 2015.
 
-## 2. Amendment of Schedule 6 to the National Health Service (General Medical Services Contracts) Regulations 2004[^key-8acc6a1c2ba08199e4a2911bc4c41312]
+## 2. Amendment of Schedule 6 to the National Health Service (General Medical Services Contracts) Regulations 2004[^c-8acc6a1c2ba08199e4a2911bc4c41312]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 5 to the National Health Service (Personal Medical Services Agreements) Regulations 2004[^key-83e85b0f9657854a65193a6c1c24857d]
+## 3. Amendment of Schedule 5 to the National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-83e85b0f9657854a65193a6c1c24857d]
 
 (1) Schedule 5 to the National Health Service (Personal Medical Services Agreements) Regulations 2004[^f00004] (other contractual terms) is amended as follows.
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the National Health Service (Amendments to Pri
 
 .
 
-## 4. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^key-8a54269f79e69bf9438a8a4ae96bbd63]
+## 4. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^c-8a54269f79e69bf9438a8a4ae96bbd63]
 
 (1) The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^f00006] are amended as follows.
 
@@ -117,16 +117,16 @@ An impact assessment has not been produced for this instrument as it does not ha
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Section 89 of the National Health Service Act 2006 (“the 2006 Act”) has been amended by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”), Schedule 4, paragraph 34. Section 94 of the 2006 Act has been amended by the 2012 Act, Schedule 4, paragraph 38. Section 126 of the 2006 Act has been amended by the 2012 Act, sections 213(7)(k) and 220(7), and Schedule 4, paragraph 63. Section 129 of the 2006 Act has been amended by the Health Act [2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21) (“the 2009 Act”), sections 26 and 27 and Schedule 6, by the 2012 Act, section 207(1) to (9) and Schedule 4, paragraph 66, by the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), Schedule 9, paragraph 121, and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231). Section 132 of the 2006 Act has been amended by the 2012 Act, Schedule 4, paragraph 69, by the Protection of Freedoms Act 2012, Schedule 9, paragraph 122, and by [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [231](https://www.legislation.gov.uk/uksi/2010/231). Paragraph 3 of Schedule 12 to the 2006 Act has been amended by the 2009 Act, section 29(14) and (15), and by the 2012 Act, Schedule 4, paragraph 93(4). By virtue of section 271(1) of the 2006 Act, the functions of the Secretary of State being exercised in the making of these Regulations are exercisable only in relation to England. *See also s*ection 275(1) of the 2006 Act, which contains definitions of “prescribed” and “regulations” that are relevant to the powers being exercised.
 
-[^key-a534c8564f320bc3d2fa97a7c569e713]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
+[^c-a534c8564f320bc3d2fa97a7c569e713]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
 
-[^key-8acc6a1c2ba08199e4a2911bc4c41312]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/915/regulation/2) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-8acc6a1c2ba08199e4a2911bc4c41312]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/915/regulation/2) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-83e85b0f9657854a65193a6c1c24857d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/915/regulation/3) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
+[^c-83e85b0f9657854a65193a6c1c24857d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/915/regulation/3) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627); as amended by [S.I. 2004/906](https://www.legislation.gov.uk/uksi/2004/906) and [2694](https://www.legislation.gov.uk/uksi/2004/2694), [2005/893](https://www.legislation.gov.uk/uksi/2005/893), [3315](https://www.legislation.gov.uk/uksi/2005/3315), [3491](https://www.legislation.gov.uk/uksi/2005/3491), [2006/501](https://www.legislation.gov.uk/uksi/2006/501), [2007/3491](https://www.legislation.gov.uk/uksi/2007/3491), [2008/1700](https://www.legislation.gov.uk/uksi/2008/1700), [2009/309](https://www.legislation.gov.uk/uksi/2009/309), [2205](https://www.legislation.gov.uk/uksi/2009/2205) and [2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/22](https://www.legislation.gov.uk/uksi/2010/22), [231](https://www.legislation.gov.uk/uksi/2010/231), [234](https://www.legislation.gov.uk/uksi/2010/234), [478](https://www.legislation.gov.uk/uksi/2010/478), [578](https://www.legislation.gov.uk/uksi/2010/578) and [1621](https://www.legislation.gov.uk/uksi/2010/1621), [2012/970](https://www.legislation.gov.uk/uksi/2012/970), [1479](https://www.legislation.gov.uk/uksi/2012/1479), [1909](https://www.legislation.gov.uk/uksi/2012/1909), [1916](https://www.legislation.gov.uk/uksi/2012/1916) and [2404](https://www.legislation.gov.uk/uksi/2012/2404), [2013/363](https://www.legislation.gov.uk/uksi/2013/363), [2014/465](https://www.legislation.gov.uk/uksi/2014/465), [1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2721](https://www.legislation.gov.uk/uksi/2014/2721) and [2015/196](https://www.legislation.gov.uk/uksi/2015/196).
 
 [^f00005]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Schedules 2 and 3 have been amended by [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), [2007/2154](https://www.legislation.gov.uk/uksi/2007/2154), [2009/3136](https://www.legislation.gov.uk/uksi/2009/3136), [2011/448](https://www.legislation.gov.uk/uksi/2011/448), [2012/1311](https://www.legislation.gov.uk/uksi/2012/1311) and [2014/1275](https://www.legislation.gov.uk/uksi/2014/1275) and [3277](https://www.legislation.gov.uk/uksi/2014/3277).
 
-[^key-8a54269f79e69bf9438a8a4ae96bbd63]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/915/regulation/4) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
+[^c-8a54269f79e69bf9438a8a4ae96bbd63]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/915/regulation/4) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349). There are no relevant amending instruments.

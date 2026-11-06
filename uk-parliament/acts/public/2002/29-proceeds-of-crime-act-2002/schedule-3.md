@@ -22,14 +22,14 @@ summary: ''
 
 Section 137
 
-### 1. General[^key-8ae09dec45852394f5f8a5bb1293d418]
+### 1. General[^c-8ae09dec45852394f5f8a5bb1293d418]
 
 In this Schedule, unless otherwise expressly provided—
 
 - (a) references to an administrator are to an administrator appointed under section 125 or 128(3);
 - (b) references to realisable property are to the realisable property in respect of which the administrator is appointed.
 
-### 2. Appointment etc[^key-f8ca32c10c76dd2abef550a6b029372f]
+### 2. Appointment etc[^c-f8ca32c10c76dd2abef550a6b029372f]
 
 (1) If the office of administrator is vacant, for whatever reason, the court must appoint a new administrator.
 
@@ -43,7 +43,7 @@ In this Schedule, unless otherwise expressly provided—
 
 (6) The premium of any bond of caution or other security required by such conditions must be treated as part of the administrator’s expenses in the exercise of his functions.
 
-### 3. Functions[^key-88989ab95482231ff14a64a8f765f2f1]
+### 3. Functions[^c-88989ab95482231ff14a64a8f765f2f1]
 
 (1) An administrator—
 
@@ -81,7 +81,7 @@ the right, option or power.
 
 (9) An administrator may, if appointed under section 128(3), complete any uncompleted title which A has to any heritable estate; but completion of title in A’s name does not validate by accretion any unperfected right in favour of any person other than the administrator.
 
-(10) An administrator may sell, purchase or exchange property or discharge any security for an obligation due to A; but it is incompetent for the administrator or an associate of his (within the meaning of section 229 of the Bankruptcy (Scotland) Act 2016[^key-63f4d37d68706ebaed0506337c73c4c3] ) to purchase any of A’s property in pursuance of this sub-paragraph.
+(10) An administrator may sell, purchase or exchange property or discharge any security for an obligation due to A; but it is incompetent for the administrator or an associate of his (within the meaning of section 229 of the Bankruptcy (Scotland) Act 2016[^c-63f4d37d68706ebaed0506337c73c4c3] ) to purchase any of A’s property in pursuance of this sub-paragraph.
 
 (11) An administrator may claim, vote and draw dividends in the sequestration of the estate (or bankruptcy or liquidation) of a debtor of A and may accede to a voluntary trust deed for creditors of such a debtor.
 
@@ -102,11 +102,11 @@ the right, option or power.
 
 (17) An administrator may do anything incidental to the powers and duties listed in the previous provisions of this paragraph.
 
-### 4. Consent of accountant of court[^key-499fcb91261ca1563d385176a3b8c0db]
+### 4. Consent of accountant of court[^c-499fcb91261ca1563d385176a3b8c0db]
 
 An administrator proposing to exercise any power conferred by paragraph 3(4) to (17) must first obtain the consent of the accountant of court.
 
-### 5. Dealings in good faith with administrator[^key-374cd73fc442462df7a2bc3e51e34cd4]
+### 5. Dealings in good faith with administrator[^c-374cd73fc442462df7a2bc3e51e34cd4]
 
 (1) A person dealing with an administrator in good faith and for value is not concerned to enquire whether the administrator is acting within the powers mentioned in paragraph 3.
 
@@ -118,13 +118,13 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 (5) The court may make an order under sub-paragraph (4) on the application of the administrator or on its own motion.
 
-### 6. Money received by administrator[^key-a4e76f2e8695354bb1bd07069778bc3d]
+### 6. Money received by administrator[^c-a4e76f2e8695354bb1bd07069778bc3d]
 
-(1) All money received by an administrator in the exercise of his functions must be deposited by him, in the name (unless vested in the administrator by virtue of paragraph 5(4)) of the holder of the property realised, in a bank or building society[^key-feafaec4070f1be54ab07f720e47f01f].
+(1) All money received by an administrator in the exercise of his functions must be deposited by him, in the name (unless vested in the administrator by virtue of paragraph 5(4)) of the holder of the property realised, in a bank or building society[^c-feafaec4070f1be54ab07f720e47f01f].
 
 (2) But the administrator may at any time retain in his hands a sum not exceeding £200 or such other sum as may be prescribed by the Scottish Ministers by regulations.
 
-(3)[^key-e0a2f789e24775c001057165663ff7d8] In sub-paragraph (1)—
+(3)[^c-e0a2f789e24775c001057165663ff7d8] In sub-paragraph (1)—
 
 - (a) “**bank**” means an authorised deposit-taker, other than a building society, that has its head office or a branch in the United Kingdom;
 - (b) “**building society**” has the same meaning as in the Building Societies Act 1986.
@@ -135,11 +135,11 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 - (b) a person who—
   - (i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
   - (ii) accepts deposits;
-- (c)[^key-5c0fafd5ceb65c2ec547d7615b0484ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5c0fafd5ceb65c2ec547d7615b0484ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) A reference in sub-paragraph (4) to a person [^key-4d917601fe9d1185df4999d18f93e878]... with permission to accept deposits does not include a person [^key-4d917601fe9d1185df4999d18f93e878]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
+(5) A reference in sub-paragraph (4) to a person [^c-4d917601fe9d1185df4999d18f93e878]... with permission to accept deposits does not include a person [^c-4d917601fe9d1185df4999d18f93e878]... with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 
-### 7. Effect of appointment of administrator on diligence[^key-d3b0dba2912d28314927419e3f309930]
+### 7. Effect of appointment of administrator on diligence[^c-d3b0dba2912d28314927419e3f309930]
 
 (1) An arrestment or attachment[^c4081851] of realisable property executed on or after the appointment of an administrator does not create a preference for the arrester or attacher[^c4081871] .
 
@@ -160,7 +160,7 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 (8) In this paragraph, the reference to an administrator is to an administrator appointed under section 128(3).
 
-### 8. Supervision[^key-a7e875a94e984e2a273beab0393da3fb]
+### 8. Supervision[^c-a7e875a94e984e2a273beab0393da3fb]
 
 (1) If the accountant of court reports to the court that an administrator has failed to perform any duty imposed on him, the court may, after giving the administrator an opportunity to be heard as regards the matter—
 
@@ -170,7 +170,7 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 (2) Section 6 of the Judicial Factors (Scotland) Act 1889 (c. 39) (supervision of judicial factors) does not apply in relation to an administrator.
 
-### 9. Accounts and remuneration[^key-84cbafe80048944b0492709612df300f]
+### 9. Accounts and remuneration[^c-84cbafe80048944b0492709612df300f]
 
 (1) Not later than two weeks after the issuing of any determination by the accountant of court as to the remuneration and expenses payable to the administrator, the administrator or the Lord Advocate may appeal against it to the court.
 
@@ -178,7 +178,7 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 (3) The accountant of court may authorise the administrator to pay without taxation an account in respect of legal services incurred by the administrator.
 
-### 10. Discharge of administrator[^key-05c0d30a5f329796c48a917649f2b06e]
+### 10. Discharge of administrator[^c-05c0d30a5f329796c48a917649f2b06e]
 
 (1) After an administrator has lodged his final accounts under paragraph 9(1), he may apply to the accountant of court to be discharged from office.
 
@@ -186,29 +186,29 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 ## Annotations
 
-[^key-8ae09dec45852394f5f8a5bb1293d418]: Commencement: Sch. 3 para. 1 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-8ae09dec45852394f5f8a5bb1293d418]: Commencement: Sch. 3 para. 1 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-f8ca32c10c76dd2abef550a6b029372f]: Commencement: Sch. 3 para. 2 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-f8ca32c10c76dd2abef550a6b029372f]: Commencement: Sch. 3 para. 2 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-88989ab95482231ff14a64a8f765f2f1]: Commencement: Sch. 3 para. 3 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-88989ab95482231ff14a64a8f765f2f1]: Commencement: Sch. 3 para. 3 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-63f4d37d68706ebaed0506337c73c4c3]: Textual amendment: Words in [Sch. 3 para. 3(10)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/3/paragraph/3/10) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 25(13)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/25/13)
+[^c-63f4d37d68706ebaed0506337c73c4c3]: Textual amendment: Words in [Sch. 3 para. 3(10)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/3/paragraph/3/10) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 25(13)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/25/13)
 
-[^key-499fcb91261ca1563d385176a3b8c0db]: Commencement: Sch. 3 para. 4 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-499fcb91261ca1563d385176a3b8c0db]: Commencement: Sch. 3 para. 4 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-374cd73fc442462df7a2bc3e51e34cd4]: Commencement: Sch. 3 para. 5 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-374cd73fc442462df7a2bc3e51e34cd4]: Commencement: Sch. 3 para. 5 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-a4e76f2e8695354bb1bd07069778bc3d]: Commencement: Sch. 3 para. 6 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-a4e76f2e8695354bb1bd07069778bc3d]: Commencement: Sch. 3 para. 6 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-feafaec4070f1be54ab07f720e47f01f]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/30/2), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/b)
+[^c-feafaec4070f1be54ab07f720e47f01f]: Textual amendment: Words in Sch. 3 para. 6(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/30/2), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/b)
 
-[^key-e0a2f789e24775c001057165663ff7d8]: Textual amendment: Sch. 3 para. 6(3)-(5) substituted for Sch. 3 para. 6(3) (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/30/3), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/b)
+[^c-e0a2f789e24775c001057165663ff7d8]: Textual amendment: Sch. 3 para. 6(3)-(5) substituted for Sch. 3 para. 6(3) (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2017/22/section/30/3), [58(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.S.I. 2017/456](https://www.legislation.gov.uk/ssi/2017/456), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/456/regulation/2/b)
 
-[^key-5c0fafd5ceb65c2ec547d7615b0484ff]: Textual amendment: Sch. 3 para. 6(4)(c) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(12)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c0fafd5ceb65c2ec547d7615b0484ff]: Textual amendment: Sch. 3 para. 6(4)(c) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(12)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d917601fe9d1185df4999d18f93e878]: Textual amendment: Words in Sch. 3 para. 6(5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(12)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d917601fe9d1185df4999d18f93e878]: Textual amendment: Words in Sch. 3 para. 6(5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(12)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3b0dba2912d28314927419e3f309930]: Commencement: Sch. 3 para. 7 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-d3b0dba2912d28314927419e3f309930]: Commencement: Sch. 3 para. 7 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
 [^c4081851]: Textual amendment: Words in Sch. 3 para. 7(1) substituted (30.12.2002) by [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), [ss. 61](https://www.legislation.gov.uk/asp/2002/17/section/61), [64(2)](https://www.legislation.gov.uk/asp/2002/17/section/64/2), [Sch. 3 Pt. 1 para. 29(2)(a)(i)](https://www.legislation.gov.uk/asp/2002/17/schedule/3/part/1/paragraph/29/2/a/i)
 
@@ -216,8 +216,8 @@ An administrator proposing to exercise any power conferred by paragraph 3(4) to 
 
 [^c4081891]: Textual amendment: Words in Sch. 3 para. 7(2) substituted (30.12.2002) by [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), [ss. 61](https://www.legislation.gov.uk/asp/2002/17/section/61), [64(2)](https://www.legislation.gov.uk/asp/2002/17/section/64/2), [Sch. 3 Pt. 1 para. 29(b)](https://www.legislation.gov.uk/asp/2002/17/schedule/3/part/1/paragraph/29/b)
 
-[^key-a7e875a94e984e2a273beab0393da3fb]: Commencement: Sch. 3 para. 8 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-a7e875a94e984e2a273beab0393da3fb]: Commencement: Sch. 3 para. 8 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-84cbafe80048944b0492709612df300f]: Commencement: Sch. 3 para. 9 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-84cbafe80048944b0492709612df300f]: Commencement: Sch. 3 para. 9 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-05c0d30a5f329796c48a917649f2b06e]: Commencement: Sch. 3 para. 10 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-05c0d30a5f329796c48a917649f2b06e]: Commencement: Sch. 3 para. 10 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)

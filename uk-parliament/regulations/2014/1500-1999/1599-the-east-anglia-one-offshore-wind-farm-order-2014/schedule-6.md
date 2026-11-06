@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Land in which only new rights etc. may be acquired[^key-839fbe616f257f6eab2ad2afda9bad5c]
+## SCHEDULE 6 — Land in which only new rights etc. may be acquired[^c-839fbe616f257f6eab2ad2afda9bad5c]
 
 *Extent: E+W+S*
 
@@ -244,10 +244,10 @@ Article 17
 </tbody>
 </table>
 
-[^key-0d36512e08baa676280c867f0b36c8e6]
+[^c-0d36512e08baa676280c867f0b36c8e6]
 
 ## Annotations
 
-[^key-839fbe616f257f6eab2ad2afda9bad5c]: Commencement: Sch. 6 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-839fbe616f257f6eab2ad2afda9bad5c]: Commencement: Sch. 6 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-0d36512e08baa676280c867f0b36c8e6]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2014/1599/schedule/6) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 41(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/41/2)
+[^c-0d36512e08baa676280c867f0b36c8e6]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/uksi/2014/1599/schedule/6) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 41(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/41/2)

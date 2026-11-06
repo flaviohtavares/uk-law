@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to set Senedd election campaign expenditure limits in connection with section 1 and Part 2[^key-6d023060fd00279a3ec05457c1fd4d8c]
+## 21. Power to set Senedd election campaign expenditure limits in connection with section 1 and Part 2[^c-6d023060fd00279a3ec05457c1fd4d8c]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ and such provision may amend, repeal, revoke or modify this Act or any other ena
 
 ## Annotations
 
-[^key-6d023060fd00279a3ec05457c1fd4d8c]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/4/section/21) in force at 24.8.2024, see [s. 25(2)(e)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/e)
+[^c-6d023060fd00279a3ec05457c1fd4d8c]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2024/4/section/21) in force at 24.8.2024, see [s. 25(2)(e)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/e)

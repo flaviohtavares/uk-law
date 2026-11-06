@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 852. Power to make regulations disapplying section 851[^key-827c8bb567494d34be50ab9c92ef24b4]
+## 852. Power to make regulations disapplying section 851[^c-827c8bb567494d34be50ab9c92ef24b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-827c8bb567494d34be50ab9c92ef24b4]: Textual amendment: S. 852 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/6)
+[^c-827c8bb567494d34be50ab9c92ef24b4]: Textual amendment: S. 852 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to modify section 125 of the 2000 Act[^key-e54d20cf4e99b7c895366ed4316b7be6]
+## 8. Power to modify section 125 of the 2000 Act[^c-e54d20cf4e99b7c895366ed4316b7be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54d20cf4e99b7c895366ed4316b7be6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/36/section/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-e54d20cf4e99b7c895366ed4316b7be6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/36/section/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

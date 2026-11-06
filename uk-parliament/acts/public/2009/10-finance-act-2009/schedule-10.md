@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Sale of lessor companies etc: reforms[^key-2c725ec773cb0b635aafdfe360e803c8]
+## SCHEDULE 10 — Sale of lessor companies etc: reforms[^c-2c725ec773cb0b635aafdfe360e803c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 29
 
-### Introduction[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Introduction[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**1.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 7[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 7[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**2.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 13A[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 13A[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**3.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 17[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 17[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**4.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 23[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 23[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**5.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 23A[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 23A[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**6.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 32[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 32[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**7.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Paragraph 39[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Paragraph 39[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**8.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Commencement[^key-2c725ec773cb0b635aafdfe360e803c8]
+### Commencement[^c-2c725ec773cb0b635aafdfe360e803c8]
 
-**9.**[^key-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2c725ec773cb0b635aafdfe360e803c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c725ec773cb0b635aafdfe360e803c8]: Textual amendment: Sch. 10 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2c725ec773cb0b635aafdfe360e803c8]: Textual amendment: Sch. 10 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Industry competence[^key-55b5a262c8a13241ff16e560dac20b71][^key-f18d121fad423d072a5281ab6c998020][^key-0c6b413bcd3b3df1947125921a4db49c]
+## 35. Industry competence[^c-55b5a262c8a13241ff16e560dac20b71][^c-f18d121fad423d072a5281ab6c998020][^c-0c6b413bcd3b3df1947125921a4db49c]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ In Schedule 1 to the Building Act 1984 (building regulations) after paragraph 5B
 
 ## Annotations
 
-[^key-55b5a262c8a13241ff16e560dac20b71]: Commencement: S. 35 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-55b5a262c8a13241ff16e560dac20b71]: Commencement: S. 35 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-f18d121fad423d072a5281ab6c998020]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/30/section/35) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
+[^c-f18d121fad423d072a5281ab6c998020]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/30/section/35) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(n)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/n)
 
-[^key-0c6b413bcd3b3df1947125921a4db49c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/30/section/35) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/ii)
+[^c-0c6b413bcd3b3df1947125921a4db49c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/30/section/35) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/ii)

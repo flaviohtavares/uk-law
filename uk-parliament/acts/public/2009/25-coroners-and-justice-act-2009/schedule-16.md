@@ -62,7 +62,7 @@ Section 137
 >
 > (9) The Secretary of State may by order provide that the proportion specified in paragraph (4)(e) and (f) of this Article is to be read, in the case of a custodial sentence to which the amending order applies, as a reference to the new proportion.
 >
-> (10) An order under paragraph (9) is subject to annulment by a resolution of either House of Parliament in like manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 (instruments subject to negative resolution[^key-3f369e814920c08a27b81c9f9b0b3f9e].
+> (10) An order under paragraph (9) is subject to annulment by a resolution of either House of Parliament in like manner as a statutory instrument and section 5 of the Statutory Instruments Act 1946 (instruments subject to negative resolution[^c-3f369e814920c08a27b81c9f9b0b3f9e].
 >
 > (11) In this Article—
 >
@@ -87,9 +87,9 @@ Section 137
 
 ### Road Traffic Offenders Act 1988 (c. 53)
 
-**2.** (1)[^key-9d2c9d86dbf9b4164a31074c9ab9a133] The Road Traffic Offenders Act 1988 is amended as follows.
+**2.** (1)[^c-9d2c9d86dbf9b4164a31074c9ab9a133] The Road Traffic Offenders Act 1988 is amended as follows.
 
-(2)[^key-9d2c9d86dbf9b4164a31074c9ab9a133] After section 35 insert—
+(2)[^c-9d2c9d86dbf9b4164a31074c9ab9a133] After section 35 insert—
 
 > **35A. Extension of disqualification where custodial sentence also imposed**
 >
@@ -156,7 +156,7 @@ Section 137
 >
 > (5) In this section “**custodial sentence**” and “**suspended sentence**” have the same meaning as in section 35A.
 
-(3)[^key-660c11f25271446d9609be57fd45cc4a] After section 35B (as inserted by sub-paragraph (2)) insert—
+(3)[^c-660c11f25271446d9609be57fd45cc4a] After section 35B (as inserted by sub-paragraph (2)) insert—
 
 > **35C. Extension of disqualification where sentence of imprisonment also imposed: Scotland**
 >
@@ -216,7 +216,7 @@ Section 137
 
 ### Criminal Procedure (Scotland) Act 1995 (c. 46)
 
-**3.**[^key-628a4bcd6517fc6002cd19b7471cab8f] After section 248C of the Criminal Procedure (Scotland) Act 1995 insert—
+**3.**[^c-628a4bcd6517fc6002cd19b7471cab8f] After section 248C of the Criminal Procedure (Scotland) Act 1995 insert—
 
 > **248D. Extension of disqualification where sentence of imprisonment also imposed**
 >
@@ -312,9 +312,9 @@ Section 137
 >
 > (8) Paragraph (9) applies where an amending order provides that the proportion of a prisoner's sentence referred to in Article 18(2)(b) of the Criminal Justice (Northern Ireland) Order 2008 (duty to release prisoners serving extended custodial sentences) is to be read as a reference to another proportion (“the new proportion”).
 >
-> (9) The Department of Justice[^key-d3acbe317f8a97625c45acacadde80c0] may by order provide that the proportion specified in paragraph (4)(e) and (f) of this Article is to be read, in the case of a custodial sentence to which the amending order applies, as a reference to the new proportion.
+> (9) The Department of Justice[^c-d3acbe317f8a97625c45acacadde80c0] may by order provide that the proportion specified in paragraph (4)(e) and (f) of this Article is to be read, in the case of a custodial sentence to which the amending order applies, as a reference to the new proportion.
 >
-> (10) An order under paragraph (9) is subject to negative resolution[^key-81801a941043b6eb0998cd5aebca68a7].
+> (10) An order under paragraph (9) is subject to negative resolution[^c-81801a941043b6eb0998cd5aebca68a7].
 >
 > (11) In this Article—
 >
@@ -339,7 +339,7 @@ Section 137
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**5.**[^key-136b65fae7489b036acda9e72251e5b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-136b65fae7489b036acda9e72251e5b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
 
@@ -405,16 +405,16 @@ Section 137
 
 ## Annotations
 
-[^key-3f369e814920c08a27b81c9f9b0b3f9e]: Textual amendment: Words in [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3f369e814920c08a27b81c9f9b0b3f9e]: Textual amendment: Words in [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-9d2c9d86dbf9b4164a31074c9ab9a133]: Commencement: Sch. 16 para. 2(1)(2) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/819/article/2/b)
+[^c-9d2c9d86dbf9b4164a31074c9ab9a133]: Commencement: Sch. 16 para. 2(1)(2) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/819/article/2/b)
 
-[^key-660c11f25271446d9609be57fd45cc4a]: Commencement: [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/3) in force at 16.7.2018 by [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
+[^c-660c11f25271446d9609be57fd45cc4a]: Commencement: [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/2/3) in force at 16.7.2018 by [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
 
-[^key-628a4bcd6517fc6002cd19b7471cab8f]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) in force at 16.7.2018 by [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
+[^c-628a4bcd6517fc6002cd19b7471cab8f]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/3) in force at 16.7.2018 by [S.I. 2018/733](https://www.legislation.gov.uk/uksi/2018/733), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/733/article/2/b)
 
-[^key-d3acbe317f8a97625c45acacadde80c0]: Textual amendment: Words in Sch. 16 para. 4 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-d3acbe317f8a97625c45acacadde80c0]: Textual amendment: Words in Sch. 16 para. 4 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-81801a941043b6eb0998cd5aebca68a7]: Textual amendment: Words in Sch. 16 para. 4 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-81801a941043b6eb0998cd5aebca68a7]: Textual amendment: Words in Sch. 16 para. 4 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 104(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/104/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-136b65fae7489b036acda9e72251e5b9]: Textual amendment: Sch. 16 para. 5 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-136b65fae7489b036acda9e72251e5b9]: Textual amendment: Sch. 16 para. 5 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

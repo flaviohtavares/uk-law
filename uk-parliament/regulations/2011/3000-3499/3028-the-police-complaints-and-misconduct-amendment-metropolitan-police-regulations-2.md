@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Complaints and Misconduct) (Amendment: Metropolitan Police) Regulations 2011 (revoked)[^key-f3451693f74166bdd114dbe34e4f4fc1]
+The Police (Complaints and Misconduct) (Amendment: Metropolitan Police) Regulations 2011 (revoked)[^c-f3451693f74166bdd114dbe34e4f4fc1]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 16th January 2012
 
-[^key-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-f3451693f74166bdd114dbe34e4f4fc1]
+## 1. Citation, commencement, extent and interpretation[^c-f3451693f74166bdd114dbe34e4f4fc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Complaints Regulations[^key-f3451693f74166bdd114dbe34e4f4fc1]
+## 2. Amendments to the Complaints Regulations[^c-f3451693f74166bdd114dbe34e4f4fc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-f3451693f74166bdd114dbe34e4f4fc1]
+## 3. Transitional provision[^c-f3451693f74166bdd114dbe34e4f4fc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3451693f74166bdd114dbe34e4f4fc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3451693f74166bdd114dbe34e4f4fc1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/3028) revoked (22.11.2012) by [The Police (Complaints and Misconduct) Regulations 2012 (revoked) 2012 (S.I. 2012/1204)](https://www.legislation.gov.uk/uksi/2012/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/2/1/d)
+[^c-f3451693f74166bdd114dbe34e4f4fc1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/3028) revoked (22.11.2012) by [The Police (Complaints and Misconduct) Regulations 2012 (revoked) 2012 (S.I. 2012/1204)](https://www.legislation.gov.uk/uksi/2012/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/1/1), [2(1)(d)](https://www.legislation.gov.uk/uksi/2012/1204/regulation/2/1/d)

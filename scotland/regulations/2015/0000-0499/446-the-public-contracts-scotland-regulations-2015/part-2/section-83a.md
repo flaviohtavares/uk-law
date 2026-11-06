@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83A. General provisions about regulations under this Part[^key-be697e5d26276e13aa267b1a1d3cb347]
+## 83A. General provisions about regulations under this Part[^c-be697e5d26276e13aa267b1a1d3cb347]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be697e5d26276e13aa267b1a1d3cb347]: Textual amendment: [Pt. 2 Ch. 4A](https://www.legislation.gov.uk/ssi/2015/446/part/2/chapter/4A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(57)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/57) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-be697e5d26276e13aa267b1a1d3cb347]: Textual amendment: [Pt. 2 Ch. 4A](https://www.legislation.gov.uk/ssi/2015/446/part/2/chapter/4A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(57)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/57) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

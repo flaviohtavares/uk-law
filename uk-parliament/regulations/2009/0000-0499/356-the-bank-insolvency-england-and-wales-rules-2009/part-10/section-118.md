@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Obligations of liquidator to committee[^key-38ec0cd73ae4b56a88c3b237f58bbb06]
+## 118. Obligations of liquidator to committee[^c-38ec0cd73ae4b56a88c3b237f58bbb06]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.155 of the 1986 Rules.
 
 ## Annotations
 
-[^key-38ec0cd73ae4b56a88c3b237f58bbb06]: Commencement: Rule 118 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-38ec0cd73ae4b56a88c3b237f58bbb06]: Commencement: Rule 118 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

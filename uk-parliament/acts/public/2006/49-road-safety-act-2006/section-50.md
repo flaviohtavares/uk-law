@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Safety arrangements at level crossings[^key-8e7d4373c8dfc3af8c50530b484c7ca7]
+## 50. Safety arrangements at level crossings[^c-8e7d4373c8dfc3af8c50530b484c7ca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e7d4373c8dfc3af8c50530b484c7ca7]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/49/section/50) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/237/article/2/d)
+[^c-8e7d4373c8dfc3af8c50530b484c7ca7]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/49/section/50) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/237/article/2/d)

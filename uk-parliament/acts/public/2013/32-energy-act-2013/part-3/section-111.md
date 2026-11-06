@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Crown application: Part 3[^key-87dea70ccf6bc3ea943c5b4292066034]
+## 111. Crown application: Part 3[^c-87dea70ccf6bc3ea943c5b4292066034]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) For the purposes of this Part and regulations made under this Part, persons in the service of the Crown are to be treated as employees of the Crown (whether or not they would be so treated apart from this subsection).
 
-(6)[^key-875707d196f31d58a3e4c62c44f82dfe] The Secretary of State may, by order—
+(6)[^c-875707d196f31d58a3e4c62c44f82dfe] The Secretary of State may, by order—
 
 - (a) amend this section so as to provide for any provision made by or under this Part to apply to the Crown, or not to apply to the Crown, to any extent;
 - (b) amend any provision of sections 68 to 73 so far as it affects the extent to which any of the ONR's purposes relates to the Crown or any of the purposes of the Crown.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87dea70ccf6bc3ea943c5b4292066034]: Commencement: S. 111 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-87dea70ccf6bc3ea943c5b4292066034]: Commencement: S. 111 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-875707d196f31d58a3e4c62c44f82dfe]: Modification: S. 111(6) modified by 1991 c. 46, Sch. para. 10D (as inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))
+[^c-875707d196f31d58a3e4c62c44f82dfe]: Modification: S. 111(6) modified by 1991 c. 46, Sch. para. 10D (as inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4)))

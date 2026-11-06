@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bd76549ebaab4a98f9b52e62885df265] Chapters 1, 2, 4 and 5 of Part 4 of (and Schedules 3 and 5 to 7 to) the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) (curfew orders, exclusion orders, attendance centre orders, supervision orders and action plan orders) cease to have effect.
+(1)[^c-bd76549ebaab4a98f9b52e62885df265] Chapters 1, 2, 4 and 5 of Part 4 of (and Schedules 3 and 5 to 7 to) the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) (curfew orders, exclusion orders, attendance centre orders, supervision orders and action plan orders) cease to have effect.
 
 (2) Part 1 of Schedule 4 makes amendments consequential on provisions of this Part.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd76549ebaab4a98f9b52e62885df265]: Commencement: S. 6(1) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-bd76549ebaab4a98f9b52e62885df265]: Commencement: S. 6(1) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))

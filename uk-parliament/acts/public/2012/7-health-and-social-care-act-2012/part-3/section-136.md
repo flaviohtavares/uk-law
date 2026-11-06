@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) NHS England[^key-65fc7ccd2ed3b275a6f04a9997600a92] may, on an application by a special administrator, provide financial assistance to the special administrator by using a mechanism established under section 134.
+(1) NHS England[^c-65fc7ccd2ed3b275a6f04a9997600a92] may, on an application by a special administrator, provide financial assistance to the special administrator by using a mechanism established under section 134.
 
 (2) An application under this section must be in such form, and must be supported by such evidence or other information, as NHS England may require (and a requirement under this subsection may be imposed after the receipt, but before the determination, of the application).
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) Financial assistance under this section may be provided only in the period during which the provider in question is in special administration.
 
-(6) If NHS England[^key-2e1e96e1266a7e60cc651879bcb0250c] refuses an application under this section, it must notify the applicant of the reasons for the refusal.
+(6) If NHS England[^c-2e1e96e1266a7e60cc651879bcb0250c] refuses an application under this section, it must notify the applicant of the reasons for the refusal.
 
 (7) NHS England must, on a request by an applicant whose application under this section has been refused, reconsider the application; but no individual involved in the decision to refuse the application may be involved in the decision on the reconsideration of the application.
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65fc7ccd2ed3b275a6f04a9997600a92]: Textual amendment: Words in [s. 136(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/136/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 80](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/80); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-65fc7ccd2ed3b275a6f04a9997600a92]: Textual amendment: Words in [s. 136(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/136/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 80](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/80); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-2e1e96e1266a7e60cc651879bcb0250c]: Textual amendment: Words in [s. 136(6)-(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/136/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 80](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/80); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2e1e96e1266a7e60cc651879bcb0250c]: Textual amendment: Words in [s. 136(6)-(9)](https://www.legislation.gov.uk/ukpga/2012/7/section/136/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 80](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/80); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

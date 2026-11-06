@@ -52,17 +52,17 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, by and with the advice of Her Privy Council, in exercise of the powers conferred by section 1 of the Ministers of the Crown Act 1975[^f00001] and section 2(2) of the European Communities Act 1972[^f00002], orders as follows:
 
-## 1. Citation and commencement[^key-c4330f50afbe97790f26a2901c590347]
+## 1. Citation and commencement[^c-c4330f50afbe97790f26a2901c590347]
 
 (1) This Order may be cited as the Transfer of Functions (Equality) Order 2007.
 
 (2) This Order comes into force on 12th October 2007.
 
-## 2. Interpretation[^key-a590a225c1bd4b5fcfb9b4571e1f9d3f]
+## 2. Interpretation[^c-a590a225c1bd4b5fcfb9b4571e1f9d3f]
 
 In this Order, “instrument” includes, in particular, Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
 
-## 3. Transfer of equality functions[^key-c6d453ac31bccdedc1b8d6cf5159fcd9]
+## 3. Transfer of equality functions[^c-c6d453ac31bccdedc1b8d6cf5159fcd9]
 
 (1) The functions of the Secretary of State under the enactments specified in paragraph (2) are transferred to the Lord Privy Seal.
 
@@ -82,7 +82,7 @@ In this Order, “instrument” includes, in particular, Royal Charters, Royal W
 - (a) in the Employment and Training Act 1973[^f00009], sections 2 and 9 and the other provisions of that Act so far as relating to those sections;
 - (b) section 70 of the Charities Act 2006[^f00010].
 
-## 4. Incorporation of the Lord Privy Seal[^key-9cfe5cf2b073be9ee171aa0f43218a4e]
+## 4. Incorporation of the Lord Privy Seal[^c-9cfe5cf2b073be9ee171aa0f43218a4e]
 
 (1) The person who at the coming into force of this Order is the Lord Privy Seal and any successor to that person is by that name a corporation sole.
 
@@ -106,15 +106,15 @@ is to be received in evidence and to be deemed to be so made or issued without f
 - (b) any person authorised to act on behalf of the Lord Privy Seal were mentioned in the second column of the Schedule, and
 - (c) the references in section 2 to any regulation issued by or under the authority of an officer mentioned in the first column of the Schedule included references to any document issued by or under the authority of the Lord Privy Seal.
 
-## 5. Transfer of property, rights and liabilities[^key-95ac33272b9315ee4a0a5ba21a39ce52]
+## 5. Transfer of property, rights and liabilities[^c-95ac33272b9315ee4a0a5ba21a39ce52]
 
 All property, rights and liabilities to which the Secretary of State for Communities and Local Government is entitled or subject at the coming into force of this Order in connection with the functions transferred by article 3(1) are transferred to the Lord Privy Seal.
 
-## 6. Designation for purposes of European Communities Act 1972[^key-bbe114ccf36cfaffaab5623ee7f2437e]
+## 6. Designation for purposes of European Communities Act 1972[^c-bbe114ccf36cfaffaab5623ee7f2437e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Supplementary[^key-ff4c4c57ccd8975074a9960919822e64]
+## 7. Supplementary[^c-ff4c4c57ccd8975074a9960919822e64]
 
 (1) This Order does not affect the validity of anything done by or in relation to the Secretary of State before the coming into force of this Order.
 
@@ -137,7 +137,7 @@ and for the purposes of this article the transfer of a function includes a funct
 
 (6) Documents or forms produced for use in connection with the functions transferred by article 3 may be used in connection with those functions even though they contain references to the Secretary of State, his department or an officer of his; and, for the purposes of the use of any such documents or forms after the coming into force of this Order, those references are to be read as references to the Lord Privy Seal, the Government Equalities Office or an officer of the Government Equalities Office (as appropriate).
 
-## 8. Consequential amendments[^key-f099fde45f795f5b713e2d6b716a2090]
+## 8. Consequential amendments[^c-f099fde45f795f5b713e2d6b716a2090]
 
 The Schedule contains consequential amendments.
 
@@ -151,7 +151,7 @@ Article 8
 
 ### [Parliamentary Commissioner Act 1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)
 
-**1.**[^key-b3dd489779ef8b8e155ae1150ee46b5f] In Schedule 2 (departments etc. subject to investigation), at the appropriate place insert—
+**1.**[^c-b3dd489779ef8b8e155ae1150ee46b5f] In Schedule 2 (departments etc. subject to investigation), at the appropriate place insert—
 
 > Government Equalities Office.
 
@@ -159,13 +159,13 @@ Article 8
 
 ### [Equal Pay Act 1970 (c. 41)](https://www.legislation.gov.uk/ukpga/1970/41)
 
-**2.**[^key-332a22015cb135ca9b423a65dc6e3baf] In section 11 (short title, interpretation and extent), after subsection (2A) insert—
+**2.**[^c-332a22015cb135ca9b423a65dc6e3baf] In section 11 (short title, interpretation and extent), after subsection (2A) insert—
 
 > (2B) In this Act “the Minister” means the Lord Privy Seal.
 
 .
 
-**3.**[^key-287647fca8a8379a04b5ff20cd49454c] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+**3.**[^c-287647fca8a8379a04b5ff20cd49454c] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
 
 - (a) section 2(2) (disputes as to, and enforcement of, requirement of equal treatment);
 - (b) section 5(1) and (3) (agricultural wages orders);
@@ -173,7 +173,7 @@ Article 8
 
 ### [Employment and Training Act 1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50)
 
-**4.**[^key-e6491eff586189eeaaf885b8be7fa8dc] In section 13 (interpretation), at the end insert—
+**4.**[^c-e6491eff586189eeaaf885b8be7fa8dc] In section 13 (interpretation), at the end insert—
 
 > (6) In sections 2 and 9 and in the other provisions of this Act so far as relating to those sections, references to the Secretary of State include references to the Lord Privy Seal.
 
@@ -181,13 +181,13 @@ Article 8
 
 ### [Sex Discrimination Act 1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65)
 
-**5.**[^key-d34f2a2e7be7efea4a6ed0749eccb1ef] In section 82 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
+**5.**[^c-d34f2a2e7be7efea4a6ed0749eccb1ef] In section 82 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
 
 > “the Minister” means the Lord Privy Seal;
 
 .
 
-**6.**[^key-e7b94084c41e017bec9aa33f2e0a395e] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+**6.**[^c-e7b94084c41e017bec9aa33f2e0a395e] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
 
 - (a) section 21A(5) and (7) (public authorities);
 - (b) section 74(1) and (3) (help for aggrieved persons in obtaining information etc.);
@@ -198,19 +198,19 @@ Article 8
 - (g) section 80 (power to amend certain provisions of Act);
 - (h) section 81(2A) and (2B) (orders).
 
-**7.**[^key-0dfb035bdf02dc9aef9ca9b9414e8901] In section 16(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
+**7.**[^c-0dfb035bdf02dc9aef9ca9b9414e8901] In section 16(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
 
-**8.**[^key-0227c55f53347dbc95855487d01d12b3] In section 81(1) and (2), and in section 82(1) in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
+**8.**[^c-0227c55f53347dbc95855487d01d12b3] In section 81(1) and (2), and in section 82(1) in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
 
 ### [Race Relations Act 1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74)
 
-**9.**[^key-a226760552baa61ccb96069518d688c3] In section 78 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
+**9.**[^c-a226760552baa61ccb96069518d688c3] In section 78 (general interpretation provisions), in subsection (1), after the definition of “managers” insert—
 
 > “the Minister” means the Lord Privy Seal;
 
 .
 
-**10.**[^key-8ff9c4afdfbdcc6bd8ee44410f7059b4] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+**10.**[^c-8ff9c4afdfbdcc6bd8ee44410f7059b4] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
 
 - (a) section 56(5) and (6) (remedies on complaint under section 54);
 - (b) section 65(1) and (3) (help for aggrieved persons in obtaining information etc.);
@@ -220,21 +220,21 @@ Article 8
 - (f) section 72(4B) (validity and revision of contracts);
 - (g) section 73 (power to amend certain provisions of Act).
 
-**11.**[^key-5bf7d14553ac20fd859951c299fa6aef] In section 15(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
+**11.**[^c-5bf7d14553ac20fd859951c299fa6aef] In section 15(1) (Training Commission etc.), after “Secretary of State” insert “or the Minister”.
 
-**12.**[^key-73034d697438c9ee740c8579bb35d273] In section 78(1), in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
+**12.**[^c-73034d697438c9ee740c8579bb35d273] In section 78(1), in the definition of “prescribed”, for “Secretary of State” substitute “Minister or the Secretary of State”.
 
 ### [Sex Discrimination (Election Candidates) Act 2002 (c. 2)](https://www.legislation.gov.uk/ukpga/2002/2)
 
-**13.**[^key-594d176e990e49e3b9ecb5bb6577f0ba] In section 3(2) (expiry), for “Secretary of State” substitute “Lord Privy Seal”.
+**13.**[^c-594d176e990e49e3b9ecb5bb6577f0ba] In section 3(2) (expiry), for “Secretary of State” substitute “Lord Privy Seal”.
 
 ### [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33)
 
-**14.**[^key-5a8b8b37906f91fa600cc7e6121c342a] In section 213(2) (power to amend Schedule 20), for “Secretary of State” substitute “Lord Privy Seal”.
+**14.**[^c-5a8b8b37906f91fa600cc7e6121c342a] In section 213(2) (power to amend Schedule 20), for “Secretary of State” substitute “Lord Privy Seal”.
 
 ### [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3)
 
-**15.**[^key-d710d1b22c356743acf133491a729e28] (1) In section 35 (general), after the definition of “human rights” insert—
+**15.**[^c-d710d1b22c356743acf133491a729e28] (1) In section 35 (general), after the definition of “human rights” insert—
 
 > “the Minister” means the Lord Privy Seal;
 
@@ -252,7 +252,7 @@ Article 8
 
 .
 
-**16.**[^key-e9eca5ed1b79465373772df2765f3bd5] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
+**16.**[^c-e9eca5ed1b79465373772df2765f3bd5] In the following provisions, for “Secretary of State” in each place substitute “Minister”—
 
 - (a) section 4(4) (strategic plan);
 - (b) section 10(6) (power to amend list of matters for purpose of definition of “group”);
@@ -272,7 +272,7 @@ Article 8
 
 ### [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50)
 
-**17.**[^key-89f50ccc2ce37514f49c6a5c05b155eb] In section 70(11) (power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions) for “or the Minister for the Cabinet Office” substitute “, the Minister for the Cabinet Office or the Lord Privy Seal”.
+**17.**[^c-89f50ccc2ce37514f49c6a5c05b155eb] In section 70(11) (power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions) for “or the Minister for the Cabinet Office” substitute “, the Minister for the Cabinet Office or the Lord Privy Seal”.
 
 EXPLANATORY NOTE
 
@@ -298,11 +298,11 @@ Nothing in this Order alters the functions of the Welsh Ministers, the Scottish 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c4330f50afbe97790f26a2901c590347]: Commencement: Art. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-c4330f50afbe97790f26a2901c590347]: Commencement: Art. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-a590a225c1bd4b5fcfb9b4571e1f9d3f]: Commencement: Art. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-a590a225c1bd4b5fcfb9b4571e1f9d3f]: Commencement: Art. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-c6d453ac31bccdedc1b8d6cf5159fcd9]: Commencement: Art. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-c6d453ac31bccdedc1b8d6cf5159fcd9]: Commencement: Art. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
 [^f00003]: Footnote: [1970 c. 41](https://www.legislation.gov.uk/ukpga/1970/41).
 
@@ -320,48 +320,48 @@ Nothing in this Order alters the functions of the Welsh Ministers, the Scottish 
 
 [^f00010]: Footnote: [2006 c. 50](https://www.legislation.gov.uk/ukpga/2006/50).
 
-[^key-9cfe5cf2b073be9ee171aa0f43218a4e]: Commencement: Art. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-9cfe5cf2b073be9ee171aa0f43218a4e]: Commencement: Art. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
 [^f00011]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 
-[^key-95ac33272b9315ee4a0a5ba21a39ce52]: Commencement: Art. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-95ac33272b9315ee4a0a5ba21a39ce52]: Commencement: Art. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-bbe114ccf36cfaffaab5623ee7f2437e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2914/article/6) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1011/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbe114ccf36cfaffaab5623ee7f2437e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2914/article/6) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1011/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff4c4c57ccd8975074a9960919822e64]: Commencement: Art. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-ff4c4c57ccd8975074a9960919822e64]: Commencement: Art. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-f099fde45f795f5b713e2d6b716a2090]: Commencement: Art. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-f099fde45f795f5b713e2d6b716a2090]: Commencement: Art. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-b3dd489779ef8b8e155ae1150ee46b5f]: Commencement: Sch. para. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-b3dd489779ef8b8e155ae1150ee46b5f]: Commencement: Sch. para. 1 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-332a22015cb135ca9b423a65dc6e3baf]: Commencement: Sch. para. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-332a22015cb135ca9b423a65dc6e3baf]: Commencement: Sch. para. 2 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-287647fca8a8379a04b5ff20cd49454c]: Commencement: Sch. para. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-287647fca8a8379a04b5ff20cd49454c]: Commencement: Sch. para. 3 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-e6491eff586189eeaaf885b8be7fa8dc]: Commencement: Sch. para. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-e6491eff586189eeaaf885b8be7fa8dc]: Commencement: Sch. para. 4 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-d34f2a2e7be7efea4a6ed0749eccb1ef]: Commencement: Sch. para. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-d34f2a2e7be7efea4a6ed0749eccb1ef]: Commencement: Sch. para. 5 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-e7b94084c41e017bec9aa33f2e0a395e]: Commencement: Sch. para. 6 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-e7b94084c41e017bec9aa33f2e0a395e]: Commencement: Sch. para. 6 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-0dfb035bdf02dc9aef9ca9b9414e8901]: Commencement: Sch. para. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-0dfb035bdf02dc9aef9ca9b9414e8901]: Commencement: Sch. para. 7 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-0227c55f53347dbc95855487d01d12b3]: Commencement: Sch. para. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-0227c55f53347dbc95855487d01d12b3]: Commencement: Sch. para. 8 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-a226760552baa61ccb96069518d688c3]: Commencement: Sch. para. 9 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-a226760552baa61ccb96069518d688c3]: Commencement: Sch. para. 9 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-8ff9c4afdfbdcc6bd8ee44410f7059b4]: Commencement: Sch. para. 10 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-8ff9c4afdfbdcc6bd8ee44410f7059b4]: Commencement: Sch. para. 10 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-5bf7d14553ac20fd859951c299fa6aef]: Commencement: Sch. para. 11 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-5bf7d14553ac20fd859951c299fa6aef]: Commencement: Sch. para. 11 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-73034d697438c9ee740c8579bb35d273]: Commencement: Sch. para. 12 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-73034d697438c9ee740c8579bb35d273]: Commencement: Sch. para. 12 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-594d176e990e49e3b9ecb5bb6577f0ba]: Commencement: Sch. para. 13 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-594d176e990e49e3b9ecb5bb6577f0ba]: Commencement: Sch. para. 13 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-5a8b8b37906f91fa600cc7e6121c342a]: Commencement: Sch. para. 14 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-5a8b8b37906f91fa600cc7e6121c342a]: Commencement: Sch. para. 14 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-d710d1b22c356743acf133491a729e28]: Commencement: Sch. para. 15 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-d710d1b22c356743acf133491a729e28]: Commencement: Sch. para. 15 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-e9eca5ed1b79465373772df2765f3bd5]: Commencement: Sch. para. 16 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-e9eca5ed1b79465373772df2765f3bd5]: Commencement: Sch. para. 16 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
 
-[^key-89f50ccc2ce37514f49c6a5c05b155eb]: Commencement: Sch. para. 17 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)
+[^c-89f50ccc2ce37514f49c6a5c05b155eb]: Commencement: Sch. para. 17 in force at 12.10.2007, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/2914/article/1/2)

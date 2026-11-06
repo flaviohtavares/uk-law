@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.45. Enforcement of a Maintenance Decision made by a court in a Maintenance Regulation State other than Denmark[^key-3318a4f770642e0ec94a74ba2d7015a0]
+## 5.45. Enforcement of a Maintenance Decision made by a court in a Maintenance Regulation State other than Denmark[^c-3318a4f770642e0ec94a74ba2d7015a0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The “enforcing court” under paragraph 4(2) of Schedule 1 to the 2011 Regulat
 
 ## Annotations
 
-[^key-3318a4f770642e0ec94a74ba2d7015a0]: Textual amendment: Ch. 5 Pts. 7, 8 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(8)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/8) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-3318a4f770642e0ec94a74ba2d7015a0]: Textual amendment: Ch. 5 Pts. 7, 8 inserted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(8)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/8) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

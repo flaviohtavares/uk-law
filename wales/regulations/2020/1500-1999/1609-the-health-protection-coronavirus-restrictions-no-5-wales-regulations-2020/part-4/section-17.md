@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Specific measures applicable to licensed premises[^key-5d22d94cbdebbeb7ee2ecf0c432ea280]
+## 17. Specific measures applicable to licensed premises[^c-5d22d94cbdebbeb7ee2ecf0c432ea280]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d22d94cbdebbeb7ee2ecf0c432ea280]: Textual amendment: Reg. 17 omitted (7.8.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(13)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/13)
+[^c-5d22d94cbdebbeb7ee2ecf0c432ea280]: Textual amendment: Reg. 17 omitted (7.8.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(13)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/13)

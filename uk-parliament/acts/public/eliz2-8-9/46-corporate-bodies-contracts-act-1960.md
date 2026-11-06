@@ -48,7 +48,7 @@ An Act to amend the law governing the making of contracts by or on behalf of bod
 
 (5) This section shall not apply to the making, variation or discharge of a contract before the commencement of this Act but shall apply whether the body corporate gave its authority before or after the commencement of this Act.
 
-## 2. Exclusion of companies etc[^key-c88ca436c564e6a1c2d3bf0fad6d5eec]
+## 2. Exclusion of companies etc[^c-c88ca436c564e6a1c2d3bf0fad6d5eec]
 
 This Act does not apply to—
 
@@ -72,7 +72,7 @@ This Act does not apply to—
 
 ## Annotations
 
-[^key-c88ca436c564e6a1c2d3bf0fad6d5eec]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/46/section/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c88ca436c564e6a1c2d3bf0fad6d5eec]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/46/section/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c624957]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/46/section/3) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 

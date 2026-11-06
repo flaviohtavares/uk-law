@@ -48,14 +48,14 @@ and for the purposes of this subsection the provisions of that Act and that Chap
 
 (5) In subsection (4)(a) above “**the appropriate percentage**” means the assessed percentage of any present disablement of the earner which resulted—
 
-- (a) from any accident [^key-dd9e6a3413a1c3eba89efda989cc4fd3]... arising out of and in the course of his employment, being employed earner’s employment, or
-- (b) from any other prescribed disease or injury due to the nature of that employment [^key-976b923cb5710bcc722c664f7b10ac76]... ,
+- (a) from any accident [^c-dd9e6a3413a1c3eba89efda989cc4fd3]... arising out of and in the course of his employment, being employed earner’s employment, or
+- (b) from any other prescribed disease or injury due to the nature of that employment [^c-976b923cb5710bcc722c664f7b10ac76]... ,
 
 and in respect of which a disablement gratuity was not paid to him after a final assessment of his disablement.
 
 (6) In subsection (4)(b) above “**the appropriate percentage**” means the assessed percentage of any present disablement of the earner—
 
-- (a) which resulted from any prescribed disease or injury due to the nature of his employment [^key-046beeade877f38ad931967ef91691e7]... , and
+- (a) which resulted from any prescribed disease or injury due to the nature of his employment [^c-046beeade877f38ad931967ef91691e7]... , and
 - (b) in respect of which a disablement gratuity was not paid to him after a final assessment of his disablement.
 
 (7) Where regulations under subsection (2) above—
@@ -75,8 +75,8 @@ they may also make provision to the effect that those corresponding provisions s
 
 [^c16390161]: Textual amendment: Words in [s. 109(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/2) inserted (5.7.1999 for specified purposes) by [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), [arts. 1](https://www.legislation.gov.uk/nisi/1998/1506/article/1), [78(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/78/1), [Sch. 6 para. 47(d)](https://www.legislation.gov.uk/nisi/1998/1506/schedule/6/paragraph/47/d); [S.R. 1999/310](https://www.legislation.gov.uk/nisr/1999/310), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/310/article/2/b), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/310/schedule/1)
 
-[^key-dd9e6a3413a1c3eba89efda989cc4fd3]: Textual amendment: Words in [s. 109(5)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/5/a) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(e)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/e); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-dd9e6a3413a1c3eba89efda989cc4fd3]: Textual amendment: Words in [s. 109(5)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/5/a) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(e)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/e); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
 
-[^key-976b923cb5710bcc722c664f7b10ac76]: Textual amendment: Words in [s. 109(5)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/5/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(f)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/f); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-976b923cb5710bcc722c664f7b10ac76]: Textual amendment: Words in [s. 109(5)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/5/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(f)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/f); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
 
-[^key-046beeade877f38ad931967ef91691e7]: Textual amendment: Words in [s. 109(6)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/6/a) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(f)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/f); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-046beeade877f38ad931967ef91691e7]: Textual amendment: Words in [s. 109(6)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/109/6/a) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(f)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/f); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)

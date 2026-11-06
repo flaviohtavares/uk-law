@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**7.**[^key-139f11009cf83ecbfa4a67cff6e3c49b] For rule 9(1), substitute—
+**7.**[^c-139f11009cf83ecbfa4a67cff6e3c49b] For rule 9(1), substitute—
 
 > (1) This Rule shall apply to a complaint for the discharge or variation of an attachment of earnings order.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139f11009cf83ecbfa4a67cff6e3c49b]: Commencement: Art. 7 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-139f11009cf83ecbfa4a67cff6e3c49b]: Commencement: Art. 7 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

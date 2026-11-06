@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Inability to operate[^key-ff3574db0bbb89e8df558afd7c37f0c1]
+## 69. Inability to operate[^c-ff3574db0bbb89e8df558afd7c37f0c1]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3574db0bbb89e8df558afd7c37f0c1]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/16/section/69) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-ff3574db0bbb89e8df558afd7c37f0c1]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/16/section/69) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Power to obtain information about persons whose identity can be ascertained[^key-652e3aebd588aa773e7f554df2d46cf3][^key-8582aee1c20bc942bc848dcc0f3ead7c][^key-8582aee1c20bc942bc848dcc0f3ead7c]
+## 130. Power to obtain information about persons whose identity can be ascertained[^c-652e3aebd588aa773e7f554df2d46cf3][^c-8582aee1c20bc942bc848dcc0f3ead7c][^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-652e3aebd588aa773e7f554df2d46cf3]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/16/section/130) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-652e3aebd588aa773e7f554df2d46cf3]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/16/section/130) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)

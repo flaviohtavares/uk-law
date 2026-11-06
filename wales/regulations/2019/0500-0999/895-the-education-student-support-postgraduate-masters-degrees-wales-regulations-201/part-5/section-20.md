@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Welsh Ministers' decision on an application[^key-433db8c1e6b58247f759690a02a07f8b]
+## 20. Welsh Ministers' decision on an application[^c-433db8c1e6b58247f759690a02a07f8b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433db8c1e6b58247f759690a02a07f8b]: Commencement: Reg. 20 in force at 27.5.2019, see reg. 1(2)
+[^c-433db8c1e6b58247f759690a02a07f8b]: Commencement: Reg. 20 in force at 27.5.2019, see reg. 1(2)

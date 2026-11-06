@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Fees) (England) (Amendment) Regulations 2015 (revoked)[^key-24445d2b234a1df19cfddf1410031220]
+The Plant Health (Fees) (England) (Amendment) Regulations 2015 (revoked)[^c-24445d2b234a1df19cfddf1410031220]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st January 2016
 
-[^key-24445d2b234a1df19cfddf1410031220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24445d2b234a1df19cfddf1410031220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-24445d2b234a1df19cfddf1410031220]
+## 1. Citation and commencement[^c-24445d2b234a1df19cfddf1410031220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Fees) (England) Regulations 2014[^key-24445d2b234a1df19cfddf1410031220]
+## 2. Amendment of the Plant Health (Fees) (England) Regulations 2014[^c-24445d2b234a1df19cfddf1410031220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Substitution of regulation 3[^key-24445d2b234a1df19cfddf1410031220]
+## 3. Substitution of regulation 3[^c-24445d2b234a1df19cfddf1410031220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substitution of Schedule 2[^key-24445d2b234a1df19cfddf1410031220]
+## 4. Substitution of Schedule 2[^c-24445d2b234a1df19cfddf1410031220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 4[^key-24445d2b234a1df19cfddf1410031220]
+## 5. Amendment of Schedule 4[^c-24445d2b234a1df19cfddf1410031220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24445d2b234a1df19cfddf1410031220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24445d2b234a1df19cfddf1410031220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-24445d2b234a1df19cfddf1410031220]EXPLANATORY NOTE
+[^c-24445d2b234a1df19cfddf1410031220]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -94,4 +94,4 @@ A full impact assessment has not been produced for this instrument as no impact,
 
 ## Annotations
 
-[^key-24445d2b234a1df19cfddf1410031220]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/1996) revoked (6.4.2018) by [The Plant Health etc. (Fees) (England) Regulations 2018 (S.I. 2018/289)](https://www.legislation.gov.uk/uksi/2018/289), [Sch. 6](https://www.legislation.gov.uk/uksi/2018/289/schedule/6)
+[^c-24445d2b234a1df19cfddf1410031220]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/1996) revoked (6.4.2018) by [The Plant Health etc. (Fees) (England) Regulations 2018 (S.I. 2018/289)](https://www.legislation.gov.uk/uksi/2018/289), [Sch. 6](https://www.legislation.gov.uk/uksi/2018/289/schedule/6)

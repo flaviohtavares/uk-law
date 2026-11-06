@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Screening witness from accused.[^c9545761][^key-2188974d75e722db3a4b9c6721c4a5d2]
+## 23. Screening witness from accused.[^c9545761][^c-2188974d75e722db3a4b9c6721c4a5d2]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c9545761]: Commencement: S. 23 wholly in force at 24.7.2002; Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4); s. 23 in force in so far as not already in force at 24.7.2002 by [S.I. 2002/1739](https://www.legislation.gov.uk/uksi/2002/1739), [art. 2(a)](https://www.legislation.gov.uk/uksi/2002/1739/article/2/a)
 
-[^key-2188974d75e722db3a4b9c6721c4a5d2]: Modification: S. 23 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)
+[^c-2188974d75e722db3a4b9c6721c4a5d2]: Modification: S. 23 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 174. Notice of vacation of office when administrator ceases to be qualified[^key-e37d03b8f8224447b05da22ece1cc055]
+## 174. Notice of vacation of office when administrator ceases to be qualified[^c-e37d03b8f8224447b05da22ece1cc055]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where the administrator who has ceased to be qualified to act as an insolvency p
 
 ## Annotations
 
-[^key-e37d03b8f8224447b05da22ece1cc055]: Commencement: [Rule 174](https://www.legislation.gov.uk/nisr/2026/11/rule/174) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e37d03b8f8224447b05da22ece1cc055]: Commencement: [Rule 174](https://www.legislation.gov.uk/nisr/2026/11/rule/174) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

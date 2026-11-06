@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27K (Extent: W.). Power of community meeting to apply for an order separating community from a group of communities (Extent: W.)[^key-6c1df49188a5d8811dd28db9226340dd]
+## 27K (Extent: W.). Power of community meeting to apply for an order separating community from a group of communities (Extent: W.)[^c-6c1df49188a5d8811dd28db9226340dd]
 
 *Extent: E+W.*
 
@@ -41,4 +41,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-6c1df49188a5d8811dd28db9226340dd]: Textual amendment: S. 27K inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 111](https://www.legislation.gov.uk/mwa/2011/4/section/111), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-6c1df49188a5d8811dd28db9226340dd]: Textual amendment: S. 27K inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 111](https://www.legislation.gov.uk/mwa/2011/4/section/111), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

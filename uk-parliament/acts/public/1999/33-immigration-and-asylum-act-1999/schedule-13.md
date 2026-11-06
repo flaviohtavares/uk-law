@@ -40,7 +40,7 @@ Section 156(5).
 
 ### Powers and duties of detainee custody officers
 
-**2.**[^c11435781][^key-73e21f49bdcdca9141dea9c1ea77fab8] (1) A detainee custody officer acting in accordance with escort arrangements has power—
+**2.**[^c11435781][^c-73e21f49bdcdca9141dea9c1ea77fab8] (1) A detainee custody officer acting in accordance with escort arrangements has power—
 
 - (a) to search (in accordance with rules made by the Secretary of State) any detained person for whose delivery or custody the officer is responsible in accordance with the arrangements; and
 - (b) to search any other person who is in, or is seeking to enter, any place where any such detained person is or is to be held, and any article in the possession of such a person.
@@ -60,7 +60,7 @@ Section 156(5).
 
 ### Breaches of discipline
 
-**3.** (1) Sub-paragraph (2) applies if a detained person for whose delivery or custody a person (“**A**”) has been responsible in accordance with escort arrangements is delivered to a removal centre[^key-552c2c5df6b05aef2be3286a356ad1e2].
+**3.** (1) Sub-paragraph (2) applies if a detained person for whose delivery or custody a person (“**A**”) has been responsible in accordance with escort arrangements is delivered to a removal centre[^c-552c2c5df6b05aef2be3286a356ad1e2].
 
 (2) The detained person is to be treated, for the purposes of such removal centre rules as relate to disciplinary offences, as if he had been in the custody of the director of the removal centre at all times while A was so responsible.
 
@@ -89,9 +89,9 @@ Section 156(5).
 
 [^c11435781]: Commencement: Sch. 13 para. 2 wholly in force at 2.4.2001; Sch. 13 para. 2 not in force at Royal Assent; Sch. 13 para. 2(1)(a)(4) in force for certain purposes at 1.8.2000 by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule); Sch. 13 para. 2 in force so far as not already in force at 2.4.2001 by [S.I. 2001/239](https://www.legislation.gov.uk/uksi/2001/239), [art. 2](https://www.legislation.gov.uk/uksi/2001/239/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/239/schedule)
 
-[^key-73e21f49bdcdca9141dea9c1ea77fab8]: Modification: Sch. 13 para. 2 extended (coming into force in accordance with art. 1(2) of the extending S.I.) by [Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818)](https://www.legislation.gov.uk/uksi/2003/2818), [art. 11(2)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/2)
+[^c-73e21f49bdcdca9141dea9c1ea77fab8]: Modification: Sch. 13 para. 2 extended (coming into force in accordance with art. 1(2) of the extending S.I.) by [Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818)](https://www.legislation.gov.uk/uksi/2003/2818), [art. 11(2)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/2)
 
-[^key-552c2c5df6b05aef2be3286a356ad1e2]: Textual amendment: Words in Sch. 13 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(m)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/m), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-552c2c5df6b05aef2be3286a356ad1e2]: Textual amendment: Words in Sch. 13 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(m)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/m), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
 [^c11435791]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 

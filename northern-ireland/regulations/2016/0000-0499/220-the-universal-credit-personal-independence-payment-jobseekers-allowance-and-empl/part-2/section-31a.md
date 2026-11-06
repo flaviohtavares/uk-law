@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31A. Reclaims of universal credit after nil award due to earnings[^key-a92c4f05a928078a5dc2ef31379a64c2]
+## 31A. Reclaims of universal credit after nil award due to earnings[^c-a92c4f05a928078a5dc2ef31379a64c2]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a92c4f05a928078a5dc2ef31379a64c2]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/nisr/2016/220/regulation/31A) inserted (21.5.2020) by [The Universal Credit (Coronavirus) (Self-employed Claimants and Reclaims) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/85)](https://www.legislation.gov.uk/nisr/2020/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/85/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/85/regulation/3)
+[^c-a92c4f05a928078a5dc2ef31379a64c2]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/nisr/2016/220/regulation/31A) inserted (21.5.2020) by [The Universal Credit (Coronavirus) (Self-employed Claimants and Reclaims) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/85)](https://www.legislation.gov.uk/nisr/2020/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/85/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/85/regulation/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Cosmetic Products (Safety) (Amendment) Regulations 2008 (revoked)[^key-d4e910d65709ee466c20aea01fba8d09]
+The Cosmetic Products (Safety) (Amendment) Regulations 2008 (revoked)[^c-d4e910d65709ee466c20aea01fba8d09]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 16th November 2008
 
-[^key-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d4e910d65709ee466c20aea01fba8d09]
+## 1. Citation, commencement and interpretation[^c-d4e910d65709ee466c20aea01fba8d09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-d4e910d65709ee466c20aea01fba8d09]
+## 2. Amendment to the Principal Regulations[^c-d4e910d65709ee466c20aea01fba8d09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d4e910d65709ee466c20aea01fba8d09]
+## SCHEDULE[^c-d4e910d65709ee466c20aea01fba8d09]
 
 Regulation 2(e)
 
@@ -70,8 +70,8 @@ Regulation 2(e)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4e910d65709ee466c20aea01fba8d09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4e910d65709ee466c20aea01fba8d09]: Textual amendment: Regulations revoked (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-d4e910d65709ee466c20aea01fba8d09]: Textual amendment: Regulations revoked (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))

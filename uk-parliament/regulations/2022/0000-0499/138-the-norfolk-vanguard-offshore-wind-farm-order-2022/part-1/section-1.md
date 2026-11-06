@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-a7947e2a098c0175b6056e542940e016]
+## 1. Citation and commencement[^c-a7947e2a098c0175b6056e542940e016]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Norfolk Vanguard Offshore Wind Farm Order 2022 an
 
 ## Annotations
 
-[^key-a7947e2a098c0175b6056e542940e016]: Commencement: Art. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-a7947e2a098c0175b6056e542940e016]: Commencement: Art. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

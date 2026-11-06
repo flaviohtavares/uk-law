@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Payment of support to eligible part-time students[^key-ab13803bb403c76a4d2bc97f4fed648c]
+## 104. Payment of support to eligible part-time students[^c-ab13803bb403c76a4d2bc97f4fed648c]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) a grant for disabled part-time students’ living costs under regulation 88 is payable in which case that particular grant may be paid before the Welsh Ministers have received a declaration;
 - (b) the Welsh Ministers have determined that owing to exceptional circumstances it would be appropriate to make a payment without receiving a declaration.
 
-**105.**[^key-1a720d3149ae606471252f7e1cc4b94e][^key-ab13803bb403c76a4d2bc97f4fed648c] (1) Subject to the following paragraphs, the Welsh Ministers may pay part-time grants for dependants in such instalments (if any) and at such times as they consider appropriate.
+**105.**[^c-1a720d3149ae606471252f7e1cc4b94e][^c-ab13803bb403c76a4d2bc97f4fed648c] (1) Subject to the following paragraphs, the Welsh Ministers may pay part-time grants for dependants in such instalments (if any) and at such times as they consider appropriate.
 
 (2) An academic authority is required to send an attendance confirmation to the Welsh Ministers.
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab13803bb403c76a4d2bc97f4fed648c]: Commencement: Reg. 104 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-ab13803bb403c76a4d2bc97f4fed648c]: Commencement: Reg. 104 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-1a720d3149ae606471252f7e1cc4b94e]: Commencement: Reg. 105 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-1a720d3149ae606471252f7e1cc4b94e]: Commencement: Reg. 105 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

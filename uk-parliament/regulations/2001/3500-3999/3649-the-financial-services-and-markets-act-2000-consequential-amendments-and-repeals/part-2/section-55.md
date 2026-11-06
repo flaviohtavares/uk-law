@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Summary financial statements by listed public companies[^key-56be826d926d204c24ecb36b3e37c8bf]
+## 55. Summary financial statements by listed public companies[^c-56be826d926d204c24ecb36b3e37c8bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In Article 259(1) of the 1986 Order (summary financial statements by listed publ
 
 ## Annotations
 
-[^key-56be826d926d204c24ecb36b3e37c8bf]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-56be826d926d204c24ecb36b3e37c8bf]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00060]: Footnote: Article 259 was inserted by the Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (NI 5)](https://www.legislation.gov.uk/nisi/1990/593)), Articles 3(a), 17; paragraph (1) amended by [S.R.(N.I.) 1993/220](https://www.legislation.gov.uk/nisr/1993/220).

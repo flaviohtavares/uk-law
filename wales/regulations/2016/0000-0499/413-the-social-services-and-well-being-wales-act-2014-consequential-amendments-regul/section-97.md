@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**97.**[^key-e611a77e2062f143f21c01eaed80c3c4] In section 33(8)(b) (arrangements for a child to live outside England and Wales) after “Schedule 2” insert “in England, and section 124 of the Social Services and Well-being (Wales) Act 2014 in Wales”.
+**97.**[^c-e611a77e2062f143f21c01eaed80c3c4] In section 33(8)(b) (arrangements for a child to live outside England and Wales) after “Schedule 2” insert “in England, and section 124 of the Social Services and Well-being (Wales) Act 2014 in Wales”.
 
 ## Annotations
 
-[^key-e611a77e2062f143f21c01eaed80c3c4]: Commencement: Reg. 97 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e611a77e2062f143f21c01eaed80c3c4]: Commencement: Reg. 97 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -105,7 +105,7 @@ Section 159
 - (a) for “section 3” substitute “ sections 3 and 3A(1)(a) ”;
 - (b) after “the exempt amount for the year”, where it first occurs, insert “ (except the one in section 3(2)) ”.
 
-(5)[^key-8388a1af244cfa34f99ff13ba37949a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8388a1af244cfa34f99ff13ba37949a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** (1) Paragraph 2 of that Schedule is amended as follows.
 
@@ -127,7 +127,7 @@ Section 159
 
 (5) Omit sub-paragraph (3).
 
-(6)[^key-90b8d01279ebd7ede3ff5eaa0ef8a63c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-90b8d01279ebd7ede3ff5eaa0ef8a63c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In the first column of the Table in section 98 of the Taxes Management Act 1970 (c. 9) (penalty for failure to furnish particulars etc), at the appropriate place insert— “ Paragraph 1(7) of Schedule 1 to the 1992 Act. ”.
 
@@ -141,6 +141,6 @@ Section 159
 
 ## Annotations
 
-[^key-8388a1af244cfa34f99ff13ba37949a9]: Textual amendment: [Sch. 28 para. 4(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/28/paragraph/4/5) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(i)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/i)
+[^c-8388a1af244cfa34f99ff13ba37949a9]: Textual amendment: [Sch. 28 para. 4(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/28/paragraph/4/5) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(i)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/i)
 
-[^key-90b8d01279ebd7ede3ff5eaa0ef8a63c]: Textual amendment: [Sch. 28 para. 5(6)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/28/paragraph/5/6) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(i)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/i)
+[^c-90b8d01279ebd7ede3ff5eaa0ef8a63c]: Textual amendment: [Sch. 28 para. 5(6)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/28/paragraph/5/6) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(i)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/i)

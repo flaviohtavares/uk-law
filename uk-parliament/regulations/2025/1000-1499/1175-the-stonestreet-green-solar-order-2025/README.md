@@ -39,7 +39,7 @@ Coming into force
 
 13th November 2025
 
-An application has been made to the Secretary of State under section 37 of the Planning Act 2008[^key-caa4a658a527bfd1836ef15094e5d8b3][^f00001] (“**the 2008 Act**”) and in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00002] for an order granting development consent.
+An application has been made to the Secretary of State under section 37 of the Planning Act 2008[^c-caa4a658a527bfd1836ef15094e5d8b3][^f00001] (“**the 2008 Act**”) and in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00002] for an order granting development consent.
 
 The application was examined by the Examining Authority appointed by the Secretary of State pursuant to Chapter 3 of Part 6 of the 2008 Act and carried out in accordance with Chapter 4 of Part 6 of the 2008 Act and the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003].
 
@@ -176,7 +176,7 @@ A copy of the plans, the environmental statement and other documents mentioned i
 
 ## Annotations
 
-[^key-caa4a658a527bfd1836ef15094e5d8b3]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2025/1175/introduction) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
+[^c-caa4a658a527bfd1836ef15094e5d8b3]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2025/1175/introduction) substituted (6.2.2026) by [The Stonestreet Green Solar (Correction) Order 2026 (S.I. 2026/131)](https://www.legislation.gov.uk/uksi/2026/131), [art. 1](https://www.legislation.gov.uk/uksi/2026/131/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/131/schedule)
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Parts 1 to 7 were amended by Chapter 6 of Part 6 of and Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 

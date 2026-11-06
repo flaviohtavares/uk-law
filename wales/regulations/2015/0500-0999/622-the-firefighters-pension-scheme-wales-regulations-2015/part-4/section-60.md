@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Account to specify amount of retirement pension (active members)[^key-82eea1e33c4768c263beb8420860cb47]
+## 60. Account to specify amount of retirement pension (active members)[^c-82eea1e33c4768c263beb8420860cb47]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - (b) the retirement PIA index adjustment for the accrued added pension; and
 - (c) the assumed age addition (if any) for the accrued added pension.
 
-(3A)[^key-c2d44305bfa88ace0cf6bd09d75ad3e8] Where the active member is entitled to an equivalent amount to the 1992 Scheme lower tier ill-health pension or to an equivalent amount to the NFPS lower tier ill-health pension, the retirement account must specify that amount.
+(3A)[^c-c2d44305bfa88ace0cf6bd09d75ad3e8] Where the active member is entitled to an equivalent amount to the 1992 Scheme lower tier ill-health pension or to an equivalent amount to the NFPS lower tier ill-health pension, the retirement account must specify that amount.
 
 (4) For the amount of retirement earned pension and the amount of retirement added pension, the retirement account must specify—
 
@@ -42,14 +42,14 @@ summary: ''
 - (b) the commutation amount (if any); and
 - (c) the total allocation amount (if any).
 
-(4A)[^key-f5452de8f27755d0b5a9e5971c9335ca] For an equivalent amount to the 1992 Scheme lower tier ill-health pension or an equivalent amount to the NFPS lower tier ill-health pension, the retirement account must specify any commutation amount.
+(4A)[^c-f5452de8f27755d0b5a9e5971c9335ca] For an equivalent amount to the 1992 Scheme lower tier ill-health pension or an equivalent amount to the NFPS lower tier ill-health pension, the retirement account must specify any commutation amount.
 
 (5) The assumed age addition applies in relation to a member who reaches normal pension age under this scheme at least one month before the last day of pensionable service.
 
 ## Annotations
 
-[^key-82eea1e33c4768c263beb8420860cb47]: Commencement: Reg. 60 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-82eea1e33c4768c263beb8420860cb47]: Commencement: Reg. 60 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-c2d44305bfa88ace0cf6bd09d75ad3e8]: Textual amendment: [Reg. 60(3A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/60/3A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/4/a)
+[^c-c2d44305bfa88ace0cf6bd09d75ad3e8]: Textual amendment: [Reg. 60(3A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/60/3A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/4/a)
 
-[^key-f5452de8f27755d0b5a9e5971c9335ca]: Textual amendment: [Reg. 60(4A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/60/4A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/4/b)
+[^c-f5452de8f27755d0b5a9e5971c9335ca]: Textual amendment: [Reg. 60(4A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/60/4A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/4/b)

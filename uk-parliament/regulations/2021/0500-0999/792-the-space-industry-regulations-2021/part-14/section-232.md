@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Offence of providing false information[^key-ff42d154248ba3b38f2c90994bb468c1]
+## 232. Offence of providing false information[^c-ff42d154248ba3b38f2c90994bb468c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is an offence for a person, in purported compliance with regulation 229—
 
 ## Annotations
 
-[^key-ff42d154248ba3b38f2c90994bb468c1]: Commencement: Reg. 232 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ff42d154248ba3b38f2c90994bb468c1]: Commencement: Reg. 232 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

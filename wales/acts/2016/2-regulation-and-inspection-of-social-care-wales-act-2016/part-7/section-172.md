@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. List of prohibited persons[^key-ac4f46ed401642d401678aeaa80b478e]
+## 172. List of prohibited persons[^c-ac4f46ed401642d401678aeaa80b478e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac4f46ed401642d401678aeaa80b478e]: Commencement: [S. 172](https://www.legislation.gov.uk/anaw/2016/2/section/172) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-ac4f46ed401642d401678aeaa80b478e]: Commencement: [S. 172](https://www.legislation.gov.uk/anaw/2016/2/section/172) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

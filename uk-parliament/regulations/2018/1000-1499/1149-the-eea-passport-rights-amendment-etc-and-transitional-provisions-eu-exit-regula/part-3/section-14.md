@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Steps to be taken before IP completion day: application or notification[^key-ad0bbf6b589c52b5bc708d1cf4504936]
+## 14. Steps to be taken before IP completion day: application or notification[^c-ad0bbf6b589c52b5bc708d1cf4504936]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of regulations 9(1)(b) and 12(1)(b), the steps are that the person has, before IP completion day[^key-dd0bb6a0cba0e8508e8903780868d766]—
+(1) For the purposes of regulations 9(1)(b) and 12(1)(b), the steps are that the person has, before IP completion day[^c-dd0bb6a0cba0e8508e8903780868d766]—
 
 - (a) made an application—
   - (i) in the case of a person who satisfies the conditions in regulation 10, for permission under Part 4A of that Act, or
@@ -38,6 +38,6 @@ as the relevant regulator may direct.
 
 ## Annotations
 
-[^key-ad0bbf6b589c52b5bc708d1cf4504936]: Textual amendment: Words in reg. 14 heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/h)
+[^c-ad0bbf6b589c52b5bc708d1cf4504936]: Textual amendment: Words in reg. 14 heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/h)
 
-[^key-dd0bb6a0cba0e8508e8903780868d766]: Textual amendment: Words in reg. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/h)
+[^c-dd0bb6a0cba0e8508e8903780868d766]: Textual amendment: Words in reg. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/h)

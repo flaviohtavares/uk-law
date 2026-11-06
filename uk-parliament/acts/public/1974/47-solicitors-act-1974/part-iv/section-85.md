@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Bank accounts.[^c13352221][^c13352231][^c19678131][^key-57ddfee82d942c2401343026ac51d94c]
+## 85. Bank accounts.[^c13352221][^c13352231][^c19678131][^c-57ddfee82d942c2401343026ac51d94c]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ Where a solicitor keeps an account with a bank or a building society[^c13352241]
 
 [^c19678131]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1974/47/section/85) applied by [Administration of Justice Act 1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61), [Sch. 2 para. 31A](https://www.legislation.gov.uk/ukpga/1985/61/schedule/2/paragraph/31A) (as inserted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 118](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/118) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193))); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2009/503/article/2/b/ii)
 
-[^key-57ddfee82d942c2401343026ac51d94c]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1974/47/section/85) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-57ddfee82d942c2401343026ac51d94c]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1974/47/section/85) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c13352241]: Textual amendment: Words inserted by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [ss. 54(3)(a)(5)](https://www.legislation.gov.uk/ukpga/1986/53/section/54/3/a/5), [120](https://www.legislation.gov.uk/ukpga/1986/53/section/120), [Sch. 18 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/11/4/a)
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Paragraph (2)[^key-f3936c81e398b40d0e059aada0fe834c] applies where—
+(1) Paragraph (2)[^c-f3936c81e398b40d0e059aada0fe834c] applies where—
 
 - (a) a woman has been employed on like work with a man in the same employment,
 - (b) a woman has been employed on work rated as equivalent with that of a man in the same employment, or
@@ -42,7 +42,7 @@ that function has effect with such modifications as are necessary to ensure that
 
 (4) Paragraph (2) does not apply in such circumstances as may be prescribed.
 
-(4A)[^key-6643b2e8953f76d3d86ae95877b74242] Paragraph (4B) applies where a person has been in pensionable service under an occupational pension scheme (regardless of whether paragraph (2) also applies in that person’s case).
+(4A)[^c-6643b2e8953f76d3d86ae95877b74242] Paragraph (4B) applies where a person has been in pensionable service under an occupational pension scheme (regardless of whether paragraph (2) also applies in that person’s case).
 
 (4B) If, apart from this paragraph, any of the payment functions so far as it relates (directly or indirectly) to that pensionable service—
 
@@ -55,7 +55,7 @@ less favourable to that person than it would be if that person were of the oppos
 
 (6) In this Article—
 
-- “[^key-c9b527ef6c0ba38386ec0aa74b30dfcf]**guaranteed minimum pension provisions**” means so much of the Pension Schemes Act and of any other enactment as relates to guaranteed minimum pensions (within the meaning of that Act);
+- “[^c-c9b527ef6c0ba38386ec0aa74b30dfcf]**guaranteed minimum pension provisions**” means so much of the Pension Schemes Act and of any other enactment as relates to guaranteed minimum pensions (within the meaning of that Act);
 - “payment function” means any function conferred on the Board by or by virtue of this Chapter which relates to a person's entitlement to or the payment of any amount under or by virtue of—
   - (a) the pension compensation provisions,
   - (b) Article 150 (duty to pay scheme benefits unpaid at assessment date etc.),
@@ -65,8 +65,8 @@ less favourable to that person than it would be if that person were of the oppos
 
 ## Annotations
 
-[^key-f3936c81e398b40d0e059aada0fe834c]: Textual amendment: Words in [art. 155(1)](https://www.legislation.gov.uk/nisi/2005/255/article/155/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/2)
+[^c-f3936c81e398b40d0e059aada0fe834c]: Textual amendment: Words in [art. 155(1)](https://www.legislation.gov.uk/nisi/2005/255/article/155/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/2)
 
-[^key-6643b2e8953f76d3d86ae95877b74242]: Textual amendment: [Art. 155(4A)](https://www.legislation.gov.uk/nisi/2005/255/article/155/4A)[(4B)](https://www.legislation.gov.uk/nisi/2005/255/article/155/4B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/3)
+[^c-6643b2e8953f76d3d86ae95877b74242]: Textual amendment: [Art. 155(4A)](https://www.legislation.gov.uk/nisi/2005/255/article/155/4A)[(4B)](https://www.legislation.gov.uk/nisi/2005/255/article/155/4B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/3)
 
-[^key-c9b527ef6c0ba38386ec0aa74b30dfcf]: Textual amendment: Words in [art. 155(6)](https://www.legislation.gov.uk/nisi/2005/255/article/155/6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(4)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/4)
+[^c-c9b527ef6c0ba38386ec0aa74b30dfcf]: Textual amendment: Words in [art. 155(6)](https://www.legislation.gov.uk/nisi/2005/255/article/155/6) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 4(4)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/4/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Functions not to be the responsibility of an authority’s executive[^key-af70f14cd6d11eb405ef24769207f70b]
+## 3. Functions not to be the responsibility of an authority’s executive[^c-af70f14cd6d11eb405ef24769207f70b]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ are not to be the responsibility of an executive of the authority.
 
 ## Annotations
 
-[^key-af70f14cd6d11eb405ef24769207f70b]: Commencement: Reg. 3 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-af70f14cd6d11eb405ef24769207f70b]: Commencement: Reg. 3 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
 
 [^f00003]: Footnote: Section 173(4) was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 11, paragraph 26. A relevant saving was made by article 3(2) of the Local Government and Housing Act 1989 (Commencement No. 11 and Savings) Order 1991 ([S.I. 1991/344](https://www.legislation.gov.uk/uksi/1991/344)).

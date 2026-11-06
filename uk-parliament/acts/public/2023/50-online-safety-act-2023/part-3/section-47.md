@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Review of codes of practice[^key-c988d7c8ac88bae60a239ac291ec1e4a]
+## 47. Review of codes of practice[^c-c988d7c8ac88bae60a239ac291ec1e4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c988d7c8ac88bae60a239ac291ec1e4a]: Commencement: S. 47 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-c988d7c8ac88bae60a239ac291ec1e4a]: Commencement: S. 47 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

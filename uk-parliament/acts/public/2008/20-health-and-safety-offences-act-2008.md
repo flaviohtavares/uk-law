@@ -144,7 +144,7 @@ Section 2
 
 ### Explosives Act 1875 (c. 17)
 
-**1.**[^key-1a11c11f07884df6a774b4e26701f437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1a11c11f07884df6a774b4e26701f437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Health and Safety at Work etc. Act 1974 (c. 37)
 
@@ -187,4 +187,4 @@ Section 2
 
 ## Annotations
 
-[^key-1a11c11f07884df6a774b4e26701f437]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/20/schedule/3/paragraph/1) repealed (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1639/schedule/3/part/1)
+[^c-1a11c11f07884df6a774b4e26701f437]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/20/schedule/3/paragraph/1) repealed (1.10.2014) by [The Acetylene Safety (England and Wales and Scotland) Regulations 2014 (S.I. 2014/1639)](https://www.legislation.gov.uk/uksi/2014/1639), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1639/regulation/1/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1639/schedule/3/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Protection of Crown interest in wrecks[^key-1c625f8aaaeed62442a46bbf0f2af55e]
+## 20. Protection of Crown interest in wrecks[^c-1c625f8aaaeed62442a46bbf0f2af55e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c625f8aaaeed62442a46bbf0f2af55e]: Commencement: Art. 20 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-1c625f8aaaeed62442a46bbf0f2af55e]: Commencement: Art. 20 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

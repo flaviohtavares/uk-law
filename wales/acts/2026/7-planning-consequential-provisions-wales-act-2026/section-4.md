@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Power to make further provision in connection with the principal Act[^key-df3b992f16b272fcaa43981a94f36e2d]
+## 4. Power to make further provision in connection with the principal Act[^c-df3b992f16b272fcaa43981a94f36e2d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3b992f16b272fcaa43981a94f36e2d]: Commencement: S. 4 in force at 28.4.2026, see [s. 5(1)(c)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/c)
+[^c-df3b992f16b272fcaa43981a94f36e2d]: Commencement: S. 4 in force at 28.4.2026, see [s. 5(1)(c)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/c)

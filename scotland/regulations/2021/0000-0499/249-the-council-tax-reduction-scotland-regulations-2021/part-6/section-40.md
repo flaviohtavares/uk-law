@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Average weekly earnings of self-employed earners[^key-8357d754531323479cae2b63e4d7d45f]
+## 40. Average weekly earnings of self-employed earners[^c-8357d754531323479cae2b63e4d7d45f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8357d754531323479cae2b63e4d7d45f]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2021/249/regulation/40) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-8357d754531323479cae2b63e4d7d45f]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2021/249/regulation/40) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

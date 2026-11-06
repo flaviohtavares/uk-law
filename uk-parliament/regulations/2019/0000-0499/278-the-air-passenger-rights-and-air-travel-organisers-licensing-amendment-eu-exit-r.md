@@ -50,7 +50,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-3052913273e8208b68b8210eedc6853a]
+### 1. Citation and commencement[^c-3052913273e8208b68b8210eedc6853a]
 
 (1) These Regulations may be cited as the Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 and come into force in accordance with paragraphs (2) and (3).
 
@@ -60,7 +60,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Carriage by Air Act 1961[^key-fbbc1713a01f3e03963d2d1017b08ee9]
+### 2. Amendment of the Carriage by Air Act 1961[^c-fbbc1713a01f3e03963d2d1017b08ee9]
 
 (1) The Carriage by Air Act 1961 [^c23588921] is amended as follows.
 
@@ -79,7 +79,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 3 — Amendment of secondary legislation
 
-### 3. Amendment of the Air Carrier Liability Regulations 2004[^key-3e2185a834b06e4429ea1b7099863693]
+### 3. Amendment of the Air Carrier Liability Regulations 2004[^c-3e2185a834b06e4429ea1b7099863693]
 
 (1) The Air Carrier Liability Regulations 2004 [^c23588931] are amended as follows.
 
@@ -96,7 +96,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (3) In regulation 3 (enforcement of Articles 3a and 6 of the Council Regulation), in paragraph (1), for “Community air carrier” substitute “ UK air carrier ”.
 
-### 4. Amendment of the Carriage by Air Acts (Application of Provisions) Order 2004[^key-a13514c7ebd876a96fcc4fa668cfb04a]
+### 4. Amendment of the Carriage by Air Acts (Application of Provisions) Order 2004[^c-a13514c7ebd876a96fcc4fa668cfb04a]
 
 (1) The Carriage by Air Acts (Application of Provisions) Order 2004 [^c23588941] is amended as follows.
 
@@ -114,11 +114,11 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (3) In article 3 (application), in paragraph (2), for “Community air carriers” substitute “ UK air carriers ”.
 
-### 5. Amendment of the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005[^key-97b21921c9d9780748d62c0b8cbfae65]
+### 5. Amendment of the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005[^c-97b21921c9d9780748d62c0b8cbfae65]
 
-(1)[^key-97b21921c9d9780748d62c0b8cbfae65] The Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 [^c23588951] are amended as follows.
+(1)[^c-97b21921c9d9780748d62c0b8cbfae65] The Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 [^c23588951] are amended as follows.
 
-(2)[^key-97b21921c9d9780748d62c0b8cbfae65] In regulation 3 (offences) for paragraph (1), substitute—
+(2)[^c-97b21921c9d9780748d62c0b8cbfae65] In regulation 3 (offences) for paragraph (1), substitute—
 
 > (1) An operating air carrier is guilty of an offence if, in the United Kingdom or elsewhere, it fails to comply with an obligation imposed on it by Article 4, 5, 6, 10, 11 or 14 in respect of a passenger whose flight is either from—
 >
@@ -127,13 +127,13 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 .
 
-(3)[^key-afed20ccdfd83ba9151f6c03bc7da6fb] In regulation 3 (offences), in paragraph (1) as substituted by regulation 5(2) of these Regulations, omit the words from “ in respect of ” to the end.
+(3)[^c-afed20ccdfd83ba9151f6c03bc7da6fb] In regulation 3 (offences), in paragraph (1) as substituted by regulation 5(2) of these Regulations, omit the words from “ in respect of ” to the end.
 
-### 6. Amendment of the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012[^key-8045ef72477bb93a3523cbfa0719b91d]
+### 6. Amendment of the Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012[^c-8045ef72477bb93a3523cbfa0719b91d]
 
 (1) The Civil Aviation (Air Travel Organisers' Licensing) Regulations 2012 [^c23588961] are amended as follows.
 
-(2) In regulation 4 (interpretation), in paragraph (1), in the definition of “travel service”, for paragraph (c)(iii) substitute—[^key-26b68766ba3eea3b011bfc3269e9b7bd]
+(2) In regulation 4 (interpretation), in paragraph (1), in the definition of “travel service”, for paragraph (c)(iii) substitute—[^c-26b68766ba3eea3b011bfc3269e9b7bd]
 
 > - (iii) motorcycles requiring a Category A driving licence in accordance with Part 1 of Schedule 2 to the Motor Vehicles (Driving Licences) Regulations 1999;
 
@@ -149,7 +149,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 ## PART 4 — Amendment of retained direct EU legislation
 
-### 7. Amendment of Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027)[^key-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]
+### 7. Amendment of Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027)[^c-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]
 
 (1) Council Regulation [(EC) No 2027/97](https://www.legislation.gov.uk/eur/1997/2027) of the Council of 9 October 1997 on air carrier liability in respect of the carriage of passengers and their baggage by air [^c23588991] is amended as follows.
 
@@ -194,7 +194,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
   - (i) for “Community” substitute “ United Kingdom in respect of UK air carriers ”; and
   - (ii) omit “and national legislation of the Member States”.
 
-### 8. Amendment of Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261)[^key-639c58d4a8dbfa0807ffe8a7543ef745]
+### 8. Amendment of Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261)[^c-639c58d4a8dbfa0807ffe8a7543ef745]
 
 (1) Regulation [(EC) No 261/2004](https://www.legislation.gov.uk/eur/2004/261) of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation [(EEC) No 295/91](https://www.legislation.gov.uk/eur/1991/295) is amended as follows.
 
@@ -274,7 +274,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 
 (11) After Article 19 (entry into force) omit the paragraph beginning with the words “This Regulation”.
 
-### 9. Amendment of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/eur/2006/1107)[^key-e0f94b1f9db743358dd75b2d1ee7d5f0]
+### 9. Amendment of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/eur/2006/1107)[^c-e0f94b1f9db743358dd75b2d1ee7d5f0]
 
 (1) Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/eur/2006/1107) of the European Parliament and of the Council of 5 July 2006 concerning the rights of disabled persons and persons with reduced mobility when travelling by air is amended as follows.
 
@@ -388,37 +388,37 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23588911]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
 
-[^key-3052913273e8208b68b8210eedc6853a]: Commencement: Reg. 1 in force at 9.3.2019, see reg. 1(2)
+[^c-3052913273e8208b68b8210eedc6853a]: Commencement: Reg. 1 in force at 9.3.2019, see reg. 1(2)
 
-[^key-fbbc1713a01f3e03963d2d1017b08ee9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fbbc1713a01f3e03963d2d1017b08ee9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23588921]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27). Sections 1 and 14(2) were substituted by [S.I. 2002/263](https://www.legislation.gov.uk/uksi/2002/263) and section 14(2) was subsequently amended by [S.I. 2004/1418](https://www.legislation.gov.uk/uksi/2004/1418); there are other amending instruments but none is relevant.
 
-[^key-3e2185a834b06e4429ea1b7099863693]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3e2185a834b06e4429ea1b7099863693]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23588931]: Marginal citation: [S.I. 2004/1418](https://www.legislation.gov.uk/uksi/2004/1418), to which there are amendments not relevant to these Regulations.
 
-[^key-a13514c7ebd876a96fcc4fa668cfb04a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a13514c7ebd876a96fcc4fa668cfb04a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23588941]: Marginal citation: [S.I. 2004/1899](https://www.legislation.gov.uk/uksi/2004/1899), amended by [S.I. 2004/1974](https://www.legislation.gov.uk/uksi/2004/1974).
 
-[^key-97b21921c9d9780748d62c0b8cbfae65]: Commencement: Reg. 5(1)(2) in force at 9.3.2019, see reg. 1(2)
+[^c-97b21921c9d9780748d62c0b8cbfae65]: Commencement: Reg. 5(1)(2) in force at 9.3.2019, see reg. 1(2)
 
 [^c23588951]: Marginal citation: [S.I. 2005/975](https://www.legislation.gov.uk/uksi/2005/975).
 
-[^key-afed20ccdfd83ba9151f6c03bc7da6fb]: Commencement: Reg. 5(3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-afed20ccdfd83ba9151f6c03bc7da6fb]: Commencement: Reg. 5(3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-8045ef72477bb93a3523cbfa0719b91d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8045ef72477bb93a3523cbfa0719b91d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23588961]: Marginal citation: [S.I. 2012/1017](https://www.legislation.gov.uk/uksi/2012/1017), amended by [S.I. 2012/1134](https://www.legislation.gov.uk/uksi/2012/1134) and 2018/670.
 
-[^key-26b68766ba3eea3b011bfc3269e9b7bd]: Textual amendment: Words in reg. 6(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-26b68766ba3eea3b011bfc3269e9b7bd]: Textual amendment: Words in reg. 6(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 37(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/37/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e5a9f8dbe2a28cf9d5440da9cfcf2eb3]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23588991]: Marginal citation: As amended by Regulation (EC) No 889/2002 of the European Parliament and of the Council of 13 May 2002 amending Council Regulation (EC) No 2027/97 on air carrier liability in the event of accidents.
 
-[^key-639c58d4a8dbfa0807ffe8a7543ef745]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-639c58d4a8dbfa0807ffe8a7543ef745]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23589001]: Marginal citation: OJ L 293, 31.10.2008, p. 3.
 
@@ -426,7 +426,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23589021]: Marginal citation: [S.I. 2005/975](https://www.legislation.gov.uk/uksi/2005/975), amended by [S.I. 2016/729](https://www.legislation.gov.uk/uksi/2016/729).
 
-[^key-e0f94b1f9db743358dd75b2d1ee7d5f0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e0f94b1f9db743358dd75b2d1ee7d5f0]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23589031]: Marginal citation: [S.I. 1997/2389](https://www.legislation.gov.uk/uksi/1997/2389), amended by S.I 1998/2918; there are other amending instruments but none is relevant.
 

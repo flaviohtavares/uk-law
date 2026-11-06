@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Limitation on ability of landlord to charge insurance costs[^key-4d7e6720a184e8586d7b451e20fa20c2]
+## 59. Limitation on ability of landlord to charge insurance costs[^c-4d7e6720a184e8586d7b451e20fa20c2]
 
 *Extent: E+W*
 
@@ -106,4 +106,4 @@ After section 20F of the LTA 1985 insert—
 
 ## Annotations
 
-[^key-4d7e6720a184e8586d7b451e20fa20c2]: Commencement: S. 59 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4d7e6720a184e8586d7b451e20fa20c2]: Commencement: S. 59 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

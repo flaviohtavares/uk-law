@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1B — Exclusion of right under section 15: Wales[^key-f0d4e827f3cdeff44ae8aed8051d4a3c]
+## SCHEDULE 1B — Exclusion of right under section 15: Wales[^c-f0d4e827f3cdeff44ae8aed8051d4a3c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d4e827f3cdeff44ae8aed8051d4a3c]: Textual amendment: Sch. 1B inserted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))
+[^c-f0d4e827f3cdeff44ae8aed8051d4a3c]: Textual amendment: Sch. 1B inserted (6.9.2015 for specified purposes, 22.10.2018 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6); [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))

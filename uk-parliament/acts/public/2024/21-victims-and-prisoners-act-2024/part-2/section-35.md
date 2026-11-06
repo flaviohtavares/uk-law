@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Appointment of standing advocate[^key-a047f919f4dbcdf2534aa4ccea4c7a72][^key-17d1d8c2746c8c1d9a3b8bf60a362c94]
+## 35. Appointment of standing advocate[^c-a047f919f4dbcdf2534aa4ccea4c7a72][^c-17d1d8c2746c8c1d9a3b8bf60a362c94]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ but does not include the Security Service, the Secret Intelligence Service or th
 
 ## Annotations
 
-[^key-a047f919f4dbcdf2534aa4ccea4c7a72]: Commencement: S. 35 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-a047f919f4dbcdf2534aa4ccea4c7a72]: Commencement: S. 35 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-17d1d8c2746c8c1d9a3b8bf60a362c94]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/21/section/35) in force at 25.6.2025 by [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/c)
+[^c-17d1d8c2746c8c1d9a3b8bf60a362c94]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/21/section/35) in force at 25.6.2025 by [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/c)

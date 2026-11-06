@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Powers of management receivers[^key-5138b4de3657ccc821713d2dd4d789a3]
+## 102. Powers of management receivers[^c-5138b4de3657ccc821713d2dd4d789a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8A)[^key-579668fa71bb45842c970dd2adff596f] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
+(8A)[^c-579668fa71bb45842c970dd2adff596f] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
 
 - (a) is perishable; or
 - (b) ought to be disposed of before its value diminishes.
@@ -81,7 +81,7 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-5138b4de3657ccc821713d2dd4d789a3]: Commencement: [Art. 102](https://www.legislation.gov.uk/uksi/2005/3181/article/102) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-5138b4de3657ccc821713d2dd4d789a3]: Commencement: [Art. 102](https://www.legislation.gov.uk/uksi/2005/3181/article/102) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00067]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).
 
@@ -93,4 +93,4 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 [^f00071]: Footnote: [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299).
 
-[^key-579668fa71bb45842c970dd2adff596f]: Textual amendment: [Art. 102(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/102/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(21)](https://www.legislation.gov.uk/uksi/2008/302/article/2/21)
+[^c-579668fa71bb45842c970dd2adff596f]: Textual amendment: [Art. 102(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/102/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(21)](https://www.legislation.gov.uk/uksi/2008/302/article/2/21)

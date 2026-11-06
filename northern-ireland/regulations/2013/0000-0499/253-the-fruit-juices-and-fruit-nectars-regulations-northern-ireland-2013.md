@@ -46,7 +46,7 @@ These Regulations made provision for a purpose mentioned in section 2(2) of the 
 
 In accordance with Article 47(3A) of that Order, it has had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21932151], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-4f098918a46de9f20b6df0052e2145f5]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21932151], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-4f098918a46de9f20b6df0052e2145f5]
 
 ## 1. Citation, commencement and expiry
 
@@ -62,9 +62,9 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 - (a) “**fruit juice from concentrate**” means a product that complies with the specification in Schedule 3;
 - (b) “**concentrated fruit juice**” means a product that complies with the specification in Schedule 4;
-- (c) “**water extracted fruit juice**” means a product that complies with the specification in Schedule 5; [^key-777bb3a2e96eac768b0bb38f86273833]...
-- (d) “dehydrated fruit juice” or “**powdered fruit juice**” means a product that complies with the specification in Schedule 6 ;[^key-fea8ec288b7212010a56a91f433ab0bb]
-- (e)[^key-e99a602ef7823971873a1fd4fa9bed14] “**reduced-sugar fruit juice**” means a product that complies with the specification in Schedule 7A;
+- (c) “**water extracted fruit juice**” means a product that complies with the specification in Schedule 5; [^c-777bb3a2e96eac768b0bb38f86273833]...
+- (d) “dehydrated fruit juice” or “**powdered fruit juice**” means a product that complies with the specification in Schedule 6 ;[^c-fea8ec288b7212010a56a91f433ab0bb]
+- (e)[^c-e99a602ef7823971873a1fd4fa9bed14] “**reduced-sugar fruit juice**” means a product that complies with the specification in Schedule 7A;
 - (f) “**reduced-sugar fruit juice from concentrate**” means a product that complies with the specification in Schedule 7B; and
 - (g) “**concentrated reduced-sugar fruit juice**” means a product that complies with the specification in Schedule 7C.
 
@@ -107,7 +107,7 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
   - (e) a dehydrated fruit juice;
   - (f) a powdered fruit juice;
   - (g) a fruit nectar;
-  - (h) a reduced-sugar fruit juice;[^key-3d2706c34ec26d6f7a7cb6ee3c9de18f]
+  - (h) a reduced-sugar fruit juice;[^c-3d2706c34ec26d6f7a7cb6ee3c9de18f]
   - (i) a reduced-sugar fruit juice from concentrate;
   - (j) a concentrated reduced-sugar fruit juice.
 - “**sugars**” means any of the following—
@@ -123,7 +123,7 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 ## 4. Use of the name fruit juice
 
-(1) A person trading in a fruit juice must use the name “\[x\] juice” as the name of the product with the relevant name of the fruit from which the juice comes substituting “\[x\]” in accordance with regulation 10 and subject to paragraph (2) and a person may include the statement “fruit juices contain only naturally occurring sugars” on the label in the same field of vision as the name of the product[^key-b4c36155ec3db6659af374dd9445360f].
+(1) A person trading in a fruit juice must use the name “\[x\] juice” as the name of the product with the relevant name of the fruit from which the juice comes substituting “\[x\]” in accordance with regulation 10 and subject to paragraph (2) and a person may include the statement “fruit juices contain only naturally occurring sugars” on the label in the same field of vision as the name of the product[^c-b4c36155ec3db6659af374dd9445360f].
 
 (2) Paragraph (1) does not prevent a name listed in column 2 of Schedule 11 being used as the name of a fruit juice provided that—
 
@@ -134,7 +134,7 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 ## 5. Use of the name fruit juice from concentrate
 
-(1) A person trading in a fruit juice from concentrate must use the name “\[x\] juice from concentrate” as the name of the product with the relevant name of the fruit from which the juice comes substituting “\[x\]” in accordance with regulation 10 and a person may include the statement “fruit juices contain only naturally occurring sugars on the label in the same field of vision as the name of the product[^key-c03ad93485cad637b14dce1fb7461c2d].
+(1) A person trading in a fruit juice from concentrate must use the name “\[x\] juice from concentrate” as the name of the product with the relevant name of the fruit from which the juice comes substituting “\[x\]” in accordance with regulation 10 and a person may include the statement “fruit juices contain only naturally occurring sugars on the label in the same field of vision as the name of the product[^c-c03ad93485cad637b14dce1fb7461c2d].
 
 (2) A person must not use the name “fruit juice from concentrate” or “juice from concentrate” together with the name of a fruit, in trade, as the name of a product if the product is not fruit juice from concentrate.
 
@@ -167,7 +167,7 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 (3) A person must not use the name “fruit nectar”, or “nectar” together with the name of a fruit, in trade, as the name of a product if the product is not fruit nectar.
 
-## 9A. Use of the name reduced-sugar fruit juice[^key-592e4534bc18537cef9fc6e24af53e73]
+## 9A. Use of the name reduced-sugar fruit juice[^c-592e4534bc18537cef9fc6e24af53e73]
 
 (1) A person trading in a reduced-sugar fruit juice must use the name “reduced-sugar \[x\] juice” as the name of the product with the relevant name of the fruit from which the juice comes substituting “\[x\]” in accordance with regulation 10.
 
@@ -221,7 +221,7 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 ## 12. Labelling of a fruit juice partially made from concentrate
 
-(1) A person must not trade in a fruit juice or reduced sugar fruit juice[^key-527522b246bb2fd4683e768ca73ed177] that contains a mixture of fruit juice either reduced sugar fruit juice from concentrate or fruit juice from concentrate (or both)[^key-934ca9a3b842320d5a47d97dab4f522f] unless its labelling bears the words “partially from concentrate” or, as the case may be, “partially from concentrates”.
+(1) A person must not trade in a fruit juice or reduced sugar fruit juice[^c-527522b246bb2fd4683e768ca73ed177] that contains a mixture of fruit juice either reduced sugar fruit juice from concentrate or fruit juice from concentrate (or both)[^c-934ca9a3b842320d5a47d97dab4f522f] unless its labelling bears the words “partially from concentrate” or, as the case may be, “partially from concentrates”.
 
 (2) The wording required by paragraph (1) must appear close to the product name in characters that are clearly visible and stand out well from the background against which it appears.
 
@@ -253,15 +253,15 @@ A person must not trade in a concentrated fruit juice that is not intended for d
 
 ## 15. Manner of marking or labelling
 
-(1)[^key-a2159da062aa79e6a52ca08e187eebb9] Regulations 35(1), 36(1) and (5) and 38 of the Food Labelling Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9] [^c21932221] (which relate to the manner of marking or labelling of food) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2). *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
+(1)[^c-a2159da062aa79e6a52ca08e187eebb9] Regulations 35(1), 36(1) and (5) and 38 of the Food Labelling Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9] [^c21932221] (which relate to the manner of marking or labelling of food) apply to the particulars with which a regulated product is required to be marked or labelled by the provisions of these Regulations listed in paragraph (2). *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
 
-(2) The provisions are— *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
+(2) The provisions are— *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
 
-- (a) regulation 10(1); *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
-- (b) regulation 11(1); *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
-- (c) regulation 12(1); *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
-- (d) regulation 13; and *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
-- (e) regulation 14(1), as read with regulation 14(2), (4), (5) and (8). *(affected by repeal, see note)*[^key-a2159da062aa79e6a52ca08e187eebb9]
+- (a) regulation 10(1); *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
+- (b) regulation 11(1); *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
+- (c) regulation 12(1); *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
+- (d) regulation 13; and *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
+- (e) regulation 14(1), as read with regulation 14(2), (4), (5) and (8). *(affected by repeal, see note)*[^c-a2159da062aa79e6a52ca08e187eebb9]
 
 ## 16. Enforcement
 
@@ -289,7 +289,7 @@ It is the duty of each district council within its district to enforce these Reg
 > - (e) regulation 7;
 > - (f) regulation 8;
 > - (g) regulation 9(1), as read with regulation 9(2);
-> - (ga)[^key-6a971fb0d85ee24063a26122cb7d5f99] regulation 9A(1), as read with regulation 9A(2);
+> - (ga)[^c-6a971fb0d85ee24063a26122cb7d5f99] regulation 9A(1), as read with regulation 9A(2);
 > - (gb) regulation 9B(1), as read with regulation 9B(2);
 > - (gc) regulation 9C(1), as read with regulation 9C(2);
 > - (h) regulation 9(3);
@@ -331,11 +331,11 @@ The provisions of the Order specified in column 1 of Schedule 14 apply with the 
 
 (2) Regulation 9 of the Food Enzymes Regulations (Northern Ireland) 2009 [^c21932251] is revoked.
 
-## 21. Consequential amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-6673a5006bdf2e771b69c9d98e12ffc2]
+## 21. Consequential amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-6673a5006bdf2e771b69c9d98e12ffc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Transitional provisions[^key-22b5b2209ec64c23c566697b8b63d6e8]
+## 22. Transitional provisions[^c-22b5b2209ec64c23c566697b8b63d6e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -353,15 +353,15 @@ Regulation 3(3)
 
 The EU instruments that must be construed as amended from time to time are—
 
-- (a) Directive (EU) 2020/2184 of the European Parliament and of the Council[^key-03f2f4a82db271ae9e63c5a826a5e9c6] on the quality of water intended for human consumption;
+- (a) Directive (EU) 2020/2184 of the European Parliament and of the Council[^c-03f2f4a82db271ae9e63c5a826a5e9c6] on the quality of water intended for human consumption;
 - (b) Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey;
 - (c) Council Directive [2001/111/EC](https://www.legislation.gov.uk/european/directive/2001/0111) relating to certain sugars intended for human consumption;
 - (d) Directive [2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112);
 - (e) Regulation 1935/2004;
 - (f) Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods [^c21932281];
 - (g) Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes and amending Council Directive [83/417/EEC](https://www.legislation.gov.uk/european/directive/1983/0417), Council Regulation [(EC) No 1493/1999](https://www.legislation.gov.uk/european/regulation/1999/1493), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013), Council Directive [2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112) and Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258) [^c21932291];
-- (h) Regulation 1333/2008 ;[^key-704794aa8b3b307756cd6a1fa87c2f56]
-- (i)[^key-937a8064c17e264bdd8cb4bd86b94257] Regulation 1169/2011(EC).
+- (h) Regulation 1333/2008 ;[^c-704794aa8b3b307756cd6a1fa87c2f56]
+- (i)[^c-937a8064c17e264bdd8cb4bd86b94257] Regulation 1169/2011(EC).
 
 ## SCHEDULE 2 — Specification for fruit juice
 
@@ -395,7 +395,7 @@ Regulation 2(1)
 
 Regulation 2(2)(a)
 
-**1.** Fruit juice from concentrate is the product obtained by reconstituting concentrated fruit juice with potable water that meets the criteria set out in Directive (EU) 2020/2184[^key-d04e1f23297856fc9b34c90fb4e96a1d] on the quality of water intended for human consumption.
+**1.** Fruit juice from concentrate is the product obtained by reconstituting concentrated fruit juice with potable water that meets the criteria set out in Directive (EU) 2020/2184[^c-d04e1f23297856fc9b34c90fb4e96a1d] on the quality of water intended for human consumption.
 
 **2.** In a case where a fruit juice from concentrate is manufactured from a fruit specified in column 2 of Schedule 13, the soluble solids content of the finished product must have a Brix level of at least the level specified in the corresponding entry in column 3 of that Schedule, as read together with the Notes to that Schedule.
 
@@ -471,9 +471,9 @@ Regulation 2(3)
 
 ### PART 1 — General specification for fruit nectar
 
-**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^key-fb46a1c97061ba8509ae8790f2a73141] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
+**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^c-fb46a1c97061ba8509ae8790f2a73141] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
 
-**2.** The products[^key-44e99830b91a4399fc3a7e2000d5c1a1] are—
+**2.** The products[^c-44e99830b91a4399fc3a7e2000d5c1a1] are—
 
 - (a) fruit juice;
 - (b) fruit juice from concentrate;
@@ -490,7 +490,7 @@ Regulation 2(3)
 - (a) sugars; and
 - (b) honey.
 
-**4.**[^key-764e0aadbc9034494fd96e9d7f0b20da] The amount of sugars or honey, or sugars and honey, added to the product in accordance with paragraph 1 must not exceed—
+**4.**[^c-764e0aadbc9034494fd96e9d7f0b20da] The amount of sugars or honey, or sugars and honey, added to the product in accordance with paragraph 1 must not exceed—
 
 - (a) 20% of the total weight of the finished product made from a fruit listed in paragraph 1 of Part 2;
 - (b) 15% of the total weight of the finished product made from a fruit listed in paragraph 2 of Part 2; or
@@ -526,7 +526,7 @@ Regulation 2(3)
 | Passion fruit | 25 |
 | Plums | 30 |
 | Quetsches | 30 |
-| Quinces (Cydonia oblonga L.)[^key-239e771cb8639c8003f8b594702c6f02] | 50 |
+| Quinces (Cydonia oblonga L.)[^c-239e771cb8639c8003f8b594702c6f02] | 50 |
 | Quito naranjillos | 25 |
 | Raspberries | 40 |
 | Redcurrants | 25 |
@@ -563,7 +563,7 @@ Regulation 2(3)
 | Tomatoes | 50 |
 | Other fruits belonging to this category | 50 |
 
-## SCHEDULE 7A — Specification for reduced sugar fruit juice[^key-209c112dfa2a128ef0aa75d904c26aa2]
+## SCHEDULE 7A — Specification for reduced sugar fruit juice[^c-209c112dfa2a128ef0aa75d904c26aa2]
 
 Regulation 2(2)(e)
 
@@ -589,7 +589,7 @@ which maintains all the other essential physical, chemical, organoleptic and nut
 
 **4.** No treatment, except for an authorised treatment, membrane filtration or yeast fermentation may be used in the manufacture of a product.
 
-## Schedule 7B — Specification for reduced-sugar fruit juice from concentrate[^key-c8a16de061810844acb511f38536c5c4]
+## Schedule 7B — Specification for reduced-sugar fruit juice from concentrate[^c-c8a16de061810844acb511f38536c5c4]
 
 Regulation 2(2)(f)
 
@@ -620,7 +620,7 @@ which maintains all the other essential physical, chemical, organoleptic and nut
 
 **4.** No treatment, except for an authorised treatment, may be used in the manufacture of a product.
 
-## Schedule 7C — Specification for concentrated reduced-sugar fruit juice[^key-a69e7ff27d091b943db9d74b3f5db971]
+## Schedule 7C — Specification for concentrated reduced-sugar fruit juice[^c-a69e7ff27d091b943db9d74b3f5db971]
 
 Regulation 2(2)(g)
 
@@ -650,7 +650,7 @@ Regulations 3(1)
 
 **1.** Any vitamin or mineral authorised in accordance with Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods.
 
-**2.** Any food additive authorised in accordance with Regulation 1333/2008 except for sweeteners unless being used in a fruit nectar[^key-387bbb15e7e0696124b4ae1d1c927c3c].
+**2.** Any food additive authorised in accordance with Regulation 1333/2008 except for sweeteners unless being used in a fruit nectar[^c-387bbb15e7e0696124b4ae1d1c927c3c].
 
 **3.** Any one or more of the following juices (expressed as anhydrous citric acid) added for the purpose of regulating acidic taste if the total amount of such added juice does not exceed 3 grams per litre of the product—
 
@@ -685,12 +685,12 @@ Regulation 3(1)
 
 **9.** Chemically inert adsorption aids which comply with Regulation 1935/2004 and which are used to reduce the limonoid and naringin content of citrus juice without significantly affecting the limonoid glucosides, acid, sugars (including oligosaccharides) or mineral content of such juice.
 
-**10.**[^key-4cac01156a8e8cb5b0ca794f33d77b5a] Plant proteins for clarification from—
+**10.**[^c-4cac01156a8e8cb5b0ca794f33d77b5a] Plant proteins for clarification from—
 
 - (a) wheat,
 - (b) peas,
-- (c) potatoes, [^key-601a512069ae9c3f5c943a6781e89d39]...
-- (ca)[^key-8f1075cbb2bbff0943fb578cd94dd182] sunflower seeds, or
+- (c) potatoes, [^c-601a512069ae9c3f5c943a6781e89d39]...
+- (ca)[^c-8f1075cbb2bbff0943fb578cd94dd182] sunflower seeds, or
 - (d) any combination of them.
 
 ## SCHEDULE 10 — Authorised treatments
@@ -712,15 +712,15 @@ Regulation 4(2)
 
 | *Column 1**Entry* | *Column 2**Designation* | *Column 3**Product* |
 | --- | --- | --- |
-| 1\. | “Sï¿½ï¿½most” | The designation “Sï¿½ï¿½most” may be used, but only in conjunction with the product name “Fruchtsaft” or “Fruchtnektar”, for a fruit juice with no added sugar[^key-38eb51f2661d1010d198029ce400a3db] obtained from—<br>- (a) apples;<br>- (b) pears; or<br>- (c) pears with the addition of apples where appropriate. |
+| 1\. | “Sï¿½ï¿½most” | The designation “Sï¿½ï¿½most” may be used, but only in conjunction with the product name “Fruchtsaft” or “Fruchtnektar”, for a fruit juice with no added sugar[^c-38eb51f2661d1010d198029ce400a3db] obtained from—<br>- (a) apples;<br>- (b) pears; or<br>- (c) pears with the addition of apples where appropriate. |
 | 2\. | “ï¿½blemost”, | Apple juice. |
-| 2A[^key-ecb02ac62226c19060bdf59f9f95c1e4] | “æblemost fra koncentrat” | Synonym of apple juice from concentrate |
-| 3\. | “sur … saft”, together with the name (in Danish) of the fruit used | Juices with no added sugar[^key-ffbce3a4f718118e7787199409929b06] obtained from blackcurrants, cherries, redcurrants, whitecurrants, raspberries, strawberries or elderberries. |
+| 2A[^c-ecb02ac62226c19060bdf59f9f95c1e4] | “æblemost fra koncentrat” | Synonym of apple juice from concentrate |
+| 3\. | “sur … saft”, together with the name (in Danish) of the fruit used | Juices with no added sugar[^c-ffbce3a4f718118e7787199409929b06] obtained from blackcurrants, cherries, redcurrants, whitecurrants, raspberries, strawberries or elderberries. |
 | 4\. | “sï¿½d … saft” or “sï¿½det … saft” together with the name (in Danish) of the fruit used | Juices obtained from the named fruit with more than 200 grams of added sugar per litre in the form of sugar, honey or both sugar and honey. |
 | 5\. | “ï¿½ppelmust/ï¿½pplemust” | Apple juice. |
 | 6\. | “mosto” | Synonym of grape juice. |
 | 7\. | “smiltsērkšķu sula ar cukuru”, “astelpaju mahl suhkruga” or “słodzony sok z rokitnika” | Juices obtained from seabuckthorn berries with no more than 140 grams of added sugar per litre in the form of sugar, honey or both sugar and honey. |
-| 8.[^key-0a2cb2c6d64af6fc6dfd86e78cc3a41b] | “coconut water” in any official language of the EU | Synonym of coconut juice: the product which is directly extracted from the coconut without expressing the coconut meat. |
+| 8.[^c-0a2cb2c6d64af6fc6dfd86e78cc3a41b] | “coconut water” in any official language of the EU | Synonym of coconut juice: the product which is directly extracted from the coconut without expressing the coconut meat. |
 
 ## SCHEDULE 12 — Alternative designations for fruit nectar
 
@@ -767,7 +767,7 @@ Regulation 10(6)
 </tbody>
 </table>
 
-[^key-1f87d261bcfa98358018a6602f614f33]
+[^c-1f87d261bcfa98358018a6602f614f33]
 
 ## SCHEDULE 14 — Application of other provisions of the Order
 
@@ -821,13 +821,13 @@ The Regulations also provide for the revocation of certain legislation (regulati
 
 [^c21932151]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 (OJ No. L188, 18.7.2009, p.14)
 
-[^key-4f098918a46de9f20b6df0052e2145f5]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/253) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-4f098918a46de9f20b6df0052e2145f5]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/253) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-777bb3a2e96eac768b0bb38f86273833]: Textual amendment: Word in [reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/c) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-777bb3a2e96eac768b0bb38f86273833]: Textual amendment: Word in [reg. 2(2)(c)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/c) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-fea8ec288b7212010a56a91f433ab0bb]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/d): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-fea8ec288b7212010a56a91f433ab0bb]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/d): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-e99a602ef7823971873a1fd4fa9bed14]: Textual amendment: [Reg. 2(2)(e)-(g)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/e) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-e99a602ef7823971873a1fd4fa9bed14]: Textual amendment: [Reg. 2(2)(e)-(g)](https://www.legislation.gov.uk/nisr/2013/253/regulation/2/2/e) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/2/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c21932161]: Marginal citation: OJ No. L 10, 12.1.2002, p. 58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No. L 115, 27.4.2012, p. 1)
 
@@ -837,27 +837,27 @@ The Regulations also provide for the revocation of certain legislation (regulati
 
 [^c21932191]: Marginal citation: OJ No. L 354, 31.12.2008, p. 16, last amended by Commission Regulation (EU) No. 913/2013 (OJ No. L 252, 24.9.2013, p. 11)
 
-[^key-3d2706c34ec26d6f7a7cb6ee3c9de18f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/3/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/3) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-3d2706c34ec26d6f7a7cb6ee3c9de18f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/3/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/3) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c21932201]: Marginal citation: OJ No. L 10, 12.1.2002, p. 53, to which there is a corrigendum not relevant to the English version of the Directive
 
 [^c21932211]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b4c36155ec3db6659af374dd9445360f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/4/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/4) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-b4c36155ec3db6659af374dd9445360f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/4/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/4) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-c03ad93485cad637b14dce1fb7461c2d]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/5/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-c03ad93485cad637b14dce1fb7461c2d]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/5/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-592e4534bc18537cef9fc6e24af53e73]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/nisr/2013/253/regulation/9A) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/6) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-592e4534bc18537cef9fc6e24af53e73]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/nisr/2013/253/regulation/9A) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(6)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/6) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-527522b246bb2fd4683e768ca73ed177]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/12/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/7/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-527522b246bb2fd4683e768ca73ed177]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/12/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/7/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-934ca9a3b842320d5a47d97dab4f522f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/12/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/7/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-934ca9a3b842320d5a47d97dab4f522f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2013/253/regulation/12/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/7/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-a2159da062aa79e6a52ca08e187eebb9]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2013/253/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013 (S.R. 2013/253)](https://www.legislation.gov.uk/nisr/2013/253), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/253/regulation/1/2)
+[^c-a2159da062aa79e6a52ca08e187eebb9]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2013/253/regulation/15) ceases to have effect (13.12.2014) by virtue of [The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013 (S.R. 2013/253)](https://www.legislation.gov.uk/nisr/2013/253), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/253/regulation/1/2)
 
 [^c21932221]: Marginal citation: S.R. [1996 No.383](https://www.legislation.gov.uk/ukcm/1996/383), as amended by S.R. [1999 No.143](https://www.legislation.gov.uk/ukcm/1999/143), S.R. [2000 No.189](https://www.legislation.gov.uk/ukcm/2000/189), S.R. [2000 No.303](https://www.legislation.gov.uk/ukcm/2000/303) and to which there are other amendments not relevant to these Regulations
 
-[^key-6a971fb0d85ee24063a26122cb7d5f99]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2013/253/regulation/17/2) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/8) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-6a971fb0d85ee24063a26122cb7d5f99]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2013/253/regulation/17/2) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(8)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/8) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c21932231]: Marginal citation: S.R. [2003 No. 305](https://www.legislation.gov.uk/ukcm/2003/305); as amended by S.R. [2009 No. 415](https://www.legislation.gov.uk/ukcm/2009/415) and S.R. [2011 No. 47](https://www.legislation.gov.uk/ukcm/2011/47)
 
@@ -865,50 +865,50 @@ The Regulations also provide for the revocation of certain legislation (regulati
 
 [^c21932251]: Marginal citation: S.R. [2009 No. 415](https://www.legislation.gov.uk/ukcm/2009/415)
 
-[^key-6673a5006bdf2e771b69c9d98e12ffc2]: Textual amendment: Reg. 21 revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1 para. 29](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
+[^c-6673a5006bdf2e771b69c9d98e12ffc2]: Textual amendment: Reg. 21 revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1 para. 29](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
 
-[^key-22b5b2209ec64c23c566697b8b63d6e8]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2013/253/regulation/22) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/2)
+[^c-22b5b2209ec64c23c566697b8b63d6e8]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2013/253/regulation/22) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/2)
 
-[^key-03f2f4a82db271ae9e63c5a826a5e9c6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-03f2f4a82db271ae9e63c5a826a5e9c6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c21932281]: Marginal citation: OJ No L 404, 30.12.2006, p 26, last amended by Regulation (EU) No 1169/2011 of the European Parliament and of the Council (OJ No L 304, 22.11.2011, p 18)
 
 [^c21932291]: Marginal citation: OJ No L 354, 31.12.2008, p 7, last amended by Commission Regulation (EU) No 1056/2012 (OJ No L 313, 13.11.2012, p 9)
 
-[^key-704794aa8b3b307756cd6a1fa87c2f56]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-704794aa8b3b307756cd6a1fa87c2f56]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1): semicolon substituted for full stop (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-937a8064c17e264bdd8cb4bd86b94257]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-937a8064c17e264bdd8cb4bd86b94257]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/1) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(9)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/9/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-d04e1f23297856fc9b34c90fb4e96a1d]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/3/paragraph/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(10)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/10) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-d04e1f23297856fc9b34c90fb4e96a1d]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/3/paragraph/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(10)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/10) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-fb46a1c97061ba8509ae8790f2a73141]: Textual amendment: Word in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/paragraph/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(3)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/3/a)
+[^c-fb46a1c97061ba8509ae8790f2a73141]: Textual amendment: Word in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/paragraph/1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(3)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/3/a)
 
-[^key-44e99830b91a4399fc3a7e2000d5c1a1]: Textual amendment: Word in [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/paragraph/2) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(3)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/3/b)
+[^c-44e99830b91a4399fc3a7e2000d5c1a1]: Textual amendment: Word in [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/paragraph/2) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(3)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/3/b)
 
-[^key-764e0aadbc9034494fd96e9d7f0b20da]: Textual amendment: [Sch. 7 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/part/1/paragraph/4) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/11/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-764e0aadbc9034494fd96e9d7f0b20da]: Textual amendment: [Sch. 7 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/part/1/paragraph/4) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/11/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-239e771cb8639c8003f8b594702c6f02]: Textual amendment: Words in [Sch. 7 Pt. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/part/2) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(11)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/11/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-239e771cb8639c8003f8b594702c6f02]: Textual amendment: Words in [Sch. 7 Pt. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/7/part/2) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(11)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/11/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-209c112dfa2a128ef0aa75d904c26aa2]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/nisr/2013/253/schedule/7A) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-209c112dfa2a128ef0aa75d904c26aa2]: Textual amendment: [Sch. 7A](https://www.legislation.gov.uk/nisr/2013/253/schedule/7A) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-c8a16de061810844acb511f38536c5c4]: Textual amendment: [Sch. 7B](https://www.legislation.gov.uk/nisr/2013/253/schedule/7B) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-c8a16de061810844acb511f38536c5c4]: Textual amendment: [Sch. 7B](https://www.legislation.gov.uk/nisr/2013/253/schedule/7B) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-a69e7ff27d091b943db9d74b3f5db971]: Textual amendment: [Sch. 7C](https://www.legislation.gov.uk/nisr/2013/253/schedule/7C) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-a69e7ff27d091b943db9d74b3f5db971]: Textual amendment: [Sch. 7C](https://www.legislation.gov.uk/nisr/2013/253/schedule/7C) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(12)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/12), [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-387bbb15e7e0696124b4ae1d1c927c3c]: Textual amendment: Words in [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/8/paragraph/2) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(13)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/13) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-387bbb15e7e0696124b4ae1d1c927c3c]: Textual amendment: Words in [Sch. 8 para. 2](https://www.legislation.gov.uk/nisr/2013/253/schedule/8/paragraph/2) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(13)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/13) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-4cac01156a8e8cb5b0ca794f33d77b5a]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(4)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/4)
+[^c-4cac01156a8e8cb5b0ca794f33d77b5a]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [28(4)](https://www.legislation.gov.uk/nisr/2019/5/regulation/28/4)
 
-[^key-601a512069ae9c3f5c943a6781e89d39]: Textual amendment: Word in [Sch. 9 para. 10(c)](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10/c) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(14)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/14/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-601a512069ae9c3f5c943a6781e89d39]: Textual amendment: Word in [Sch. 9 para. 10(c)](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10/c) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(14)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/14/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-8f1075cbb2bbff0943fb578cd94dd182]: Textual amendment: [Sch. 9 para. 10(ca)](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10/c) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(14)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/14/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-8f1075cbb2bbff0943fb578cd94dd182]: Textual amendment: [Sch. 9 para. 10(ca)](https://www.legislation.gov.uk/nisr/2013/253/schedule/9/paragraph/10/c) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(14)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/14/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-38eb51f2661d1010d198029ce400a3db]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-38eb51f2661d1010d198029ce400a3db]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-ecb02ac62226c19060bdf59f9f95c1e4]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-ecb02ac62226c19060bdf59f9f95c1e4]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-ffbce3a4f718118e7787199409929b06]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-ffbce3a4f718118e7787199409929b06]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(c)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/c) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-0a2cb2c6d64af6fc6dfd86e78cc3a41b]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(d)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/d) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-0a2cb2c6d64af6fc6dfd86e78cc3a41b]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/nisr/2013/253/schedule/11) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(15)(d)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/15/d) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-1f87d261bcfa98358018a6602f614f33]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/nisr/2013/253/schedule/13) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(16)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/16) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-1f87d261bcfa98358018a6602f614f33]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/nisr/2013/253/schedule/13) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [5(16)](https://www.legislation.gov.uk/nisr/2026/5/regulation/5/16) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))

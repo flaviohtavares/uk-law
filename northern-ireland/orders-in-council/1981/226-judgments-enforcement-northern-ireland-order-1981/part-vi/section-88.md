@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Effect of bankruptcy or winding-up on enforcement[^key-5388866300629fe7f9516b7115185de1]
+## 88. Effect of bankruptcy or winding-up on enforcement[^c-5388866300629fe7f9516b7115185de1]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ to any money paid by or on behalf of the debtor either to avoid enforcement of t
 
 ## Annotations
 
-[^key-5388866300629fe7f9516b7115185de1]: Modification: [Arts. 88-94](https://www.legislation.gov.uk/nisi/1981/226/article/88) applied (with modifications) (4.1.2024) by S.I. 2021/716, reg. 37A(3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-5388866300629fe7f9516b7115185de1]: Modification: [Arts. 88-94](https://www.legislation.gov.uk/nisi/1981/226/article/88) applied (with modifications) (4.1.2024) by S.I. 2021/716, reg. 37A(3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c16846901]: Textual amendment: [1989 NI 19](https://www.legislation.gov.uk/1989/ni19)

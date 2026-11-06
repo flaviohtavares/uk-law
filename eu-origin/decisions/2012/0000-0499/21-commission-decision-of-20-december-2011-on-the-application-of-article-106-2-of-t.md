@@ -39,62 +39,62 @@ on the application of Article 106(2) of the Treaty on the Functioning of the Eur
 
 (2012/21/EU) (revoked)
 
-[^key-8c3b789c624e98c94ac1311c2c2f4670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c3b789c624e98c94ac1311c2c2f4670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-8c3b789c624e98c94ac1311c2c2f4670]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 1. Subject matter[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Compatibility and exemption from notification[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 2. Scope[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entrustment[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 3. Compatibility and exemption from notification[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Compensation[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 4. Entrustment[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Control of overcompensation[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 5. Compensation[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transparency[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 6. Control of overcompensation[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Availability of information[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 7. Transparency[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Reports[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 8. Availability of information[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Transitional provisions[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 9. Reports[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Repeal[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 10. Transitional provisions[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 11. Repeal[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Addressees[^key-8c3b789c624e98c94ac1311c2c2f4670]
+## Article 12. Entry into force[^c-8c3b789c624e98c94ac1311c2c2f4670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c3b789c624e98c94ac1311c2c2f4670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 13. Addressees[^c-8c3b789c624e98c94ac1311c2c2f4670]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8c3b789c624e98c94ac1311c2c2f4670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c3b789c624e98c94ac1311c2c2f4670]: Textual amendment: Decision revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/6/1/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-8c3b789c624e98c94ac1311c2c2f4670]: Textual amendment: Decision revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/6/1/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

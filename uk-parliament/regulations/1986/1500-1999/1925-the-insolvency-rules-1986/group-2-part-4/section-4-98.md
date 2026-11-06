@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.98. Test of security's value[^key-7a989214806e59723506cad41616158d]
+## 4.98. Test of security's value[^c-7a989214806e59723506cad41616158d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a989214806e59723506cad41616158d]: Commencement: [Rule 4.98](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.98) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7a989214806e59723506cad41616158d]: Commencement: [Rule 4.98](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.98) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

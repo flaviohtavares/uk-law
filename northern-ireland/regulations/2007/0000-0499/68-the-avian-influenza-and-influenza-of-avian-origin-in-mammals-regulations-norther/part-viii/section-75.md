@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Killing of birds and destruction of things which may be contaminated[^key-ac7829a815b184e7e2042bc9048fdb08]
+## 75. Killing of birds and destruction of things which may be contaminated[^c-ac7829a815b184e7e2042bc9048fdb08]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac7829a815b184e7e2042bc9048fdb08]: Commencement: Reg. 75 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-ac7829a815b184e7e2042bc9048fdb08]: Commencement: Reg. 75 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

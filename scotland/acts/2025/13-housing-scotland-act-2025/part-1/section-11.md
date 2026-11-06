@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Duty to keep rent control area under review[^key-ea519b240039e90e271d70fb8e9763b7][^key-6ea5b17a92411d53f2e7e53aa389c7c3]
+## 11. Duty to keep rent control area under review[^c-ea519b240039e90e271d70fb8e9763b7][^c-6ea5b17a92411d53f2e7e53aa389c7c3]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea519b240039e90e271d70fb8e9763b7]: Commencement: S. 11 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-ea519b240039e90e271d70fb8e9763b7]: Commencement: S. 11 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-6ea5b17a92411d53f2e7e53aa389c7c3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/13/section/11) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6ea5b17a92411d53f2e7e53aa389c7c3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/13/section/11) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

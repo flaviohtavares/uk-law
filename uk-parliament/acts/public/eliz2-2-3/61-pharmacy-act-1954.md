@@ -27,274 +27,274 @@ summary: ''
 
 **No longer in force.**
 
-[^key-59446e881acfc7ec0053c8609246a72b]Pharmacy Act 1954 (repealed)
+[^c-59446e881acfc7ec0053c8609246a72b]Pharmacy Act 1954 (repealed)
 
 1954 c.61
 
-[^key-59446e881acfc7ec0053c8609246a72b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59446e881acfc7ec0053c8609246a72b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Registration of pharmaceutical chemists[^key-59446e881acfc7ec0053c8609246a72b]
+## Registration of pharmaceutical chemists[^c-59446e881acfc7ec0053c8609246a72b]
 
-### 1. Appointment of registrar and other officers.[^key-59446e881acfc7ec0053c8609246a72b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. The registers and registration.[^key-59446e881acfc7ec0053c8609246a72b]
+### 1. Appointment of registrar and other officers.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Qualification by examination for registration.[^key-59446e881acfc7ec0053c8609246a72b]
+### 2. The registers and registration.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Qualification by degree, diploma, etc. for registration.[^key-59446e881acfc7ec0053c8609246a72b]
+### 3. Qualification by examination for registration.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4A. Qualification by appropriate European diploma for registration[^key-59446e881acfc7ec0053c8609246a72b]
+### 4. Qualification by degree, diploma, etc. for registration.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4B. Appeals by a national of an EEA State[^key-59446e881acfc7ec0053c8609246a72b]
+### 4A. Qualification by appropriate European diploma for registration[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Certificates of registration.[^key-59446e881acfc7ec0053c8609246a72b]
+### 4B. Appeals by a national of an EEA State[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Evidence of registration.[^key-59446e881acfc7ec0053c8609246a72b]
+### 5. Certificates of registration.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Removal from and restoration to the register, et ceteralaetc.[^key-59446e881acfc7ec0053c8609246a72b]
-
-### 7. The Statutory Committee.[^key-59446e881acfc7ec0053c8609246a72b]
+### 6. Evidence of registration.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Control of registrations by Statutory Committee.[^key-59446e881acfc7ec0053c8609246a72b]
+## Removal from and restoration to the register, et ceteralaetc.[^c-59446e881acfc7ec0053c8609246a72b]
+
+### 7. The Statutory Committee.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Restriction on directions by Statutory Committee.[^key-59446e881acfc7ec0053c8609246a72b]
+### 8. Control of registrations by Statutory Committee.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Appeals against directions, etc.[^key-59446e881acfc7ec0053c8609246a72b]
+### 9. Restriction on directions by Statutory Committee.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Time of operation etc. of certain directions.[^key-59446e881acfc7ec0053c8609246a72b]
+### 10. Appeals against directions, etc.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Removal from register for non-payment of retention fee, etc.[^key-59446e881acfc7ec0053c8609246a72b]
+### 11. Time of operation etc. of certain directions.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Corrections of the register.[^key-59446e881acfc7ec0053c8609246a72b]
+### 12. Removal from register for non-payment of retention fee, etc.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous provisions relating to the Pharmaceutical Society[^key-59446e881acfc7ec0053c8609246a72b]
-
-### 14. Membership of the Society.[^key-59446e881acfc7ec0053c8609246a72b]
+### 13. Corrections of the register.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Appointment of additional members of Council.[^key-59446e881acfc7ec0053c8609246a72b]
+## Miscellaneous provisions relating to the Pharmaceutical Society[^c-59446e881acfc7ec0053c8609246a72b]
+
+### 14. Membership of the Society.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Byelaws.[^key-59446e881acfc7ec0053c8609246a72b]
+### 15. Appointment of additional members of Council.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The benevolent fund.[^key-59446e881acfc7ec0053c8609246a72b]
+### 16. Byelaws.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Offences[^key-59446e881acfc7ec0053c8609246a72b]
-
-### 18. Falsifications by the registrar.[^key-59446e881acfc7ec0053c8609246a72b]
+### 17. The benevolent fund.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-59446e881acfc7ec0053c8609246a72b]
+## Offences[^c-59446e881acfc7ec0053c8609246a72b]
 
-### 20. Offences relating to certificates.[^key-59446e881acfc7ec0053c8609246a72b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 21. Extension of time for certain prosecutions.[^key-59446e881acfc7ec0053c8609246a72b]
+### 18. Falsifications by the registrar.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplemental[^key-59446e881acfc7ec0053c8609246a72b]
+### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-59446e881acfc7ec0053c8609246a72b]
 
-### 22. Exercise of powers conferred on Privy Council.[^key-59446e881acfc7ec0053c8609246a72b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 23. Application of fees, etc.[^key-59446e881acfc7ec0053c8609246a72b]
+### 20. Offences relating to certificates.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Interpretation.[^key-59446e881acfc7ec0053c8609246a72b]
+### 21. Extension of time for certain prosecutions.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-59446e881acfc7ec0053c8609246a72b]
+## Supplemental[^c-59446e881acfc7ec0053c8609246a72b]
 
-### 26. Short title, commencement and extent.[^key-59446e881acfc7ec0053c8609246a72b]
+### 22. Exercise of powers conferred on Privy Council.[^c-59446e881acfc7ec0053c8609246a72b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Application of fees, etc.[^c-59446e881acfc7ec0053c8609246a72b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Interpretation.[^c-59446e881acfc7ec0053c8609246a72b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-59446e881acfc7ec0053c8609246a72b]
+
+### 26. Short title, commencement and extent.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-59446e881acfc7ec0053c8609246a72b] SCHEDULES
+[^c-59446e881acfc7ec0053c8609246a72b] SCHEDULES
 
-## FIRST SCHEDULE — The Statutory Committee[^key-59446e881acfc7ec0053c8609246a72b]
+## FIRST SCHEDULE — The Statutory Committee[^c-59446e881acfc7ec0053c8609246a72b]
 
 Section 7.
 
-### Constitution[^key-59446e881acfc7ec0053c8609246a72b]
+### Constitution[^c-59446e881acfc7ec0053c8609246a72b]
 
-**1.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure[^key-59446e881acfc7ec0053c8609246a72b]
+### Procedure[^c-59446e881acfc7ec0053c8609246a72b]
 
-**4.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses[^key-59446e881acfc7ec0053c8609246a72b]
+### Expenses[^c-59446e881acfc7ec0053c8609246a72b]
 
-**6.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1A — QUALIFYING EUROPEAN DIPLOMAS[^key-59446e881acfc7ec0053c8609246a72b]
+## SCHEDULE 1A — QUALIFYING EUROPEAN DIPLOMAS[^c-59446e881acfc7ec0053c8609246a72b]
 
 Section 4A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1B — The Health Committee[^key-59446e881acfc7ec0053c8609246a72b]
+## SCHEDULE 1B — The Health Committee[^c-59446e881acfc7ec0053c8609246a72b]
 
-### Interpretation[^key-59446e881acfc7ec0053c8609246a72b]
+### Interpretation[^c-59446e881acfc7ec0053c8609246a72b]
 
-**1.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Constitution[^key-59446e881acfc7ec0053c8609246a72b]
+### Constitution[^c-59446e881acfc7ec0053c8609246a72b]
 
-**2.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Term of office and resignation[^key-59446e881acfc7ec0053c8609246a72b]
+### Term of office and resignation[^c-59446e881acfc7ec0053c8609246a72b]
 
-**3.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure[^key-59446e881acfc7ec0053c8609246a72b]
+### Procedure[^c-59446e881acfc7ec0053c8609246a72b]
 
-**4.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses[^key-59446e881acfc7ec0053c8609246a72b]
+### Expenses[^c-59446e881acfc7ec0053c8609246a72b]
 
-**5.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Legal assessors[^key-59446e881acfc7ec0053c8609246a72b]
+### Legal assessors[^c-59446e881acfc7ec0053c8609246a72b]
 
-**6.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1C — Appeal Tribunals[^key-59446e881acfc7ec0053c8609246a72b]
+## SCHEDULE 1C — Appeal Tribunals[^c-59446e881acfc7ec0053c8609246a72b]
 
-### Interpretation[^key-59446e881acfc7ec0053c8609246a72b]
+### Interpretation[^c-59446e881acfc7ec0053c8609246a72b]
 
-**1.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Constitution[^key-59446e881acfc7ec0053c8609246a72b]
+### Constitution[^c-59446e881acfc7ec0053c8609246a72b]
 
-**2.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appeal tribunals panel[^key-59446e881acfc7ec0053c8609246a72b]
+### Appeal tribunals panel[^c-59446e881acfc7ec0053c8609246a72b]
 
-**3.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Term of office and resignation[^key-59446e881acfc7ec0053c8609246a72b]
+### Term of office and resignation[^c-59446e881acfc7ec0053c8609246a72b]
 
-**4.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Clerks of tribunals[^key-59446e881acfc7ec0053c8609246a72b]
+### Clerks of tribunals[^c-59446e881acfc7ec0053c8609246a72b]
 
-**5.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses[^key-59446e881acfc7ec0053c8609246a72b]
+### Expenses[^c-59446e881acfc7ec0053c8609246a72b]
 
-**6.**[^key-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-59446e881acfc7ec0053c8609246a72b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE[^key-59446e881acfc7ec0053c8609246a72b]
+## SECOND SCHEDULE[^c-59446e881acfc7ec0053c8609246a72b]
 
-### 1.[^key-59446e881acfc7ec0053c8609246a72b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2.[^key-59446e881acfc7ec0053c8609246a72b]
+### 1.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3.[^key-59446e881acfc7ec0053c8609246a72b]
+### 2.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-59446e881acfc7ec0053c8609246a72b]
+### 3.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-59446e881acfc7ec0053c8609246a72b]
+### 4.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-59446e881acfc7ec0053c8609246a72b]
+### 5.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-59446e881acfc7ec0053c8609246a72b]
+### 6.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-59446e881acfc7ec0053c8609246a72b]
+### 7.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-59446e881acfc7ec0053c8609246a72b]
+### 8.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-59446e881acfc7ec0053c8609246a72b]
+### 9.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11.[^key-59446e881acfc7ec0053c8609246a72b]
+### 10.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## THIRD SCHEDULE[^key-59446e881acfc7ec0053c8609246a72b]
-
-### The Pharmacy and Poisons Act, 1933 (23 &c 24 GeorgeGeo. 5. c. 25)[^key-59446e881acfc7ec0053c8609246a72b]
+### 11.[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## FOURTH SCHEDULE[^key-59446e881acfc7ec0053c8609246a72b]
+## THIRD SCHEDULE[^c-59446e881acfc7ec0053c8609246a72b]
+
+### The Pharmacy and Poisons Act, 1933 (23 &c 24 GeorgeGeo. 5. c. 25)[^c-59446e881acfc7ec0053c8609246a72b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## FOURTH SCHEDULE[^c-59446e881acfc7ec0053c8609246a72b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59446e881acfc7ec0053c8609246a72b]: Textual amendment: Act repealed (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), art. 1(3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2007/289/schedule/2))
+[^c-59446e881acfc7ec0053c8609246a72b]: Textual amendment: Act repealed (30.3.2007 as notified in the Belfast, Edinburgh and London Gazettes dated 23.3.2007) by [The Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), art. 1(3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/289/schedule/1/paragraph/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2007/289/schedule/2))

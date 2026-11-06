@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Conduct that conflicts with a code of conduct: complaints by civil servants[^key-400501c71bf1b7e310a4aca88014ab68]
+## 9. Conduct that conflicts with a code of conduct: complaints by civil servants[^c-400501c71bf1b7e310a4aca88014ab68]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400501c71bf1b7e310a4aca88014ab68]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2010/25/section/9) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-400501c71bf1b7e310a4aca88014ab68]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2010/25/section/9) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

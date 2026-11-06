@@ -47,60 +47,60 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred upo
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-27de7f0cf258f21b4e6f0712c2b9fc68][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 1. Citation and commencement[^c-27de7f0cf258f21b4e6f0712c2b9fc68][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 These regulations may be cited as the Warehousekeepers and Owners of Warehoused Goods Regulations 1999 and shall come into force on 1st October 1999.
 
-### 2. Interpretation[^key-414438f30abf43d58f53aeb0db5c1086][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 2. Interpretation[^c-414438f30abf43d58f53aeb0db5c1086][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 In these Regulations–
 
 - “the Act” means the Customs and Excise Management Act 1979;
 - “authorized warehousekeeper” has the meaning given in regulation 3 below;
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
 - “occupier” means the occupier of an excise warehouse;
 - “operations” means operations that are permitted to be carried out on warehoused goods by or under warehousing regulations;
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
-- [^key-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
+- [^c-9c2402d51d838b0cf3875dc299751d45]...
 
 ## PART II — APPROVAL AND REGISTRATION OF WAREHOUSEKEEPERS
 
-### 3. Authorized warehousekeepers[^key-1447b5b49b6ba62e8480c203f6ee3b32][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 3. Authorized warehousekeepers[^c-1447b5b49b6ba62e8480c203f6ee3b32][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
-(1) For the purposes of sections 93(1) and 100G of the Act the Commissioners may approve occupiers of excise warehouses in accordance with the provisions of [^key-69357ecce979e687d72661640d85f58d]... these regulations and register them as registered excise dealers and shippers in accordance with section 100G(2) of the Act.
+(1) For the purposes of sections 93(1) and 100G of the Act the Commissioners may approve occupiers of excise warehouses in accordance with the provisions of [^c-69357ecce979e687d72661640d85f58d]... these regulations and register them as registered excise dealers and shippers in accordance with section 100G(2) of the Act.
 
 (2) An occupier who has been so approved and registered shall be known as an authorized warehousekeeper.
 
 (3) An authorized warehousekeeper may be approved and registered in respect of all the excise warehouses he occupies.
 
-### 4. Revocation[^key-c1e4fc690d3377c16cf3b1c5400239e3][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 4. Revocation[^c-c1e4fc690d3377c16cf3b1c5400239e3][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 If the Commissioners exercise their power to revoke their approval and registration of an occupier as an authorized warehousekeeper in accordance with section 100G(5) of the Act they shall also revoke his approval for the purposes of section 93(1) of the Act.
 
-## PART III — APPROVAL AND REGISTRATION OF OWNERS AND DUTY REPRESENTATIVES[^key-41292e0a7428fbc6381c7c80a8f6ef3e]
+## PART III — APPROVAL AND REGISTRATION OF OWNERS AND DUTY REPRESENTATIVES[^c-41292e0a7428fbc6381c7c80a8f6ef3e]
 
 **No longer in force.**
 
-### 5. Registered owners[^key-41292e0a7428fbc6381c7c80a8f6ef3e]
+### 5. Registered owners[^c-41292e0a7428fbc6381c7c80a8f6ef3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Duty representatives[^key-41292e0a7428fbc6381c7c80a8f6ef3e]
+### 6. Duty representatives[^c-41292e0a7428fbc6381c7c80a8f6ef3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — APPROVAL AND REGISTRATION : SUPPLEMENTARY PROVISIONS
 
-### 7. Registration[^key-d1d4b680381a8df03b550abbd9f6f1cb][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 7. Registration[^c-d1d4b680381a8df03b550abbd9f6f1cb][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
-(1) The Commissioners shall furnish every authorized warehousekeeper[^key-1cbbf32fa3c728f8043c5028a597e819] with a certificate of registration.
+(1) The Commissioners shall furnish every authorized warehousekeeper[^c-1cbbf32fa3c728f8043c5028a597e819] with a certificate of registration.
 
-(2) When a person ceases to be an authorized warehousekeeper[^key-3ebca0d2be8a1fa90f594acf0fa9407e] he shall immediately destroy his certificate of registration.
+(2) When a person ceases to be an authorized warehousekeeper[^c-3ebca0d2be8a1fa90f594acf0fa9407e] he shall immediately destroy his certificate of registration.
 
-(3) Every authorized warehousekeeper[^key-88217b6fb5b5bbab91f0ac57e8933cd6] shall give notice in writing to the Commissioners of any change in the information contained in his certificate of registration within seven days of the change.
+(3) Every authorized warehousekeeper[^c-88217b6fb5b5bbab91f0ac57e8933cd6] shall give notice in writing to the Commissioners of any change in the information contained in his certificate of registration within seven days of the change.
 
 (4) Where–
 
@@ -111,30 +111,30 @@ they shall, unless they revoke his approval and registration in accordance with 
 
 (5) Where in accordance with paragraph (4) above the Commissioners furnish any authorized warehousekeeper with a corrected certificate of registration he shall upon receiving that certificate destroy the original certificate that required correction.
 
-### 8. Certificates of registration[^key-5b577ca5cf1eac9f7364946ee2045d51][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 8. Certificates of registration[^c-5b577ca5cf1eac9f7364946ee2045d51][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 Every certificate of registration shall contain the following particulars–
 
-- (a) a unique reference number assigned to the authorized warehousekeeper[^key-4f7c37ae73fad4fb274d79571c633249] by the Commissioners;
-- (b) the name and (if different) the trading name of the authorized warehousekeeper[^key-aa53a083005f15f18fe52bc5990f606b];
-- (c)[^key-ec7da24705c0dfedeecbbe094792060e] the address of the authorized warehousekeeper’s principal place of business in the United Kingdom;
+- (a) a unique reference number assigned to the authorized warehousekeeper[^c-4f7c37ae73fad4fb274d79571c633249] by the Commissioners;
+- (b) the name and (if different) the trading name of the authorized warehousekeeper[^c-aa53a083005f15f18fe52bc5990f606b];
+- (c)[^c-ec7da24705c0dfedeecbbe094792060e] the address of the authorized warehousekeeper’s principal place of business in the United Kingdom;
 - (d) any conditions or restrictions imposed by the Commissioners in the exercise of their discretion under section 100G(4) of the Act;
-- (e)[^key-bcb3d429adb7e8fb89a94cdca9829383] the address of every excise warehouse for which the authorized warehousekeeper is approved and registered.
+- (e)[^c-bcb3d429adb7e8fb89a94cdca9829383] the address of every excise warehouse for which the authorized warehousekeeper is approved and registered.
 
 ## PART V — WAREHOUSING
 
-### 9. Holding dutiable goods[^key-94ef7a7f4941bc5b530d5cb300180756][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 9. Holding dutiable goods[^c-94ef7a7f4941bc5b530d5cb300180756][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 (1) Dutiable goods shall not be deposited in an excise warehouse or kept in an excise warehouse unless the occupier of that warehouse–
 
 - (a) is an authorized warehousekeeper, and
 - (b) is permitted by the terms of his approval to hold dutiable goods of that class or description.
 
-(2)[^key-24cccff4fd9a9bf8a0d197c089158c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-24cccff4fd9a9bf8a0d197c089158c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-24cccff4fd9a9bf8a0d197c089158c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-24cccff4fd9a9bf8a0d197c089158c90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Application of section 98 of the Act[^key-2802c60752b05ef041934272c36a7aea][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 10. Application of section 98 of the Act[^c-2802c60752b05ef041934272c36a7aea][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 If the Commissioners revoke their approval of an occupier as an authorized warehousekeeper for the purposes of section 93(1)(a) of the Act section 98(3) and (3A) of the Act shall apply as if–
 
@@ -144,28 +144,28 @@ If the Commissioners revoke their approval of an occupier as an authorized wareh
 
 ## PART VI — PRIVILEGES
 
-### 11. Privileges of an authorized warehousekeeper[^key-bbbbdd3f7e1e7ffca6abd6b67f250df5][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 11. Privileges of an authorized warehousekeeper[^c-bbbbdd3f7e1e7ffca6abd6b67f250df5][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 (1) Subject to regulation 14 below, an authorized warehousekeeper shall be afforded the following privileges in respect of dutiable goods.
 
 (2) An authorized warehousekeeper may–
 
 - (a) receive dutiable goods at his excise warehouse and keep them there;
-- (aa)[^key-4aa07f6032a6cc3e99172e159042477e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-4aa07f6032a6cc3e99172e159042477e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) carry out operations on dutiable goods in his excise warehouse; and
-- (c)[^key-0ceed3e095b3f696e077083fec95ce79] remove dutiable goods from his excise warehouse.
+- (c)[^c-0ceed3e095b3f696e077083fec95ce79] remove dutiable goods from his excise warehouse.
 
-(3)[^key-3a992aead1ba39b1fee202e1912f578f] An authorized warehousekeeper may exercise these privileges in relation to both dutiable goods that he owns and dutiable goods that are owned by others.
+(3)[^c-3a992aead1ba39b1fee202e1912f578f] An authorized warehousekeeper may exercise these privileges in relation to both dutiable goods that he owns and dutiable goods that are owned by others.
 
-### 12. Privileges of a registered owner[^key-7373d10d45e7c3ec10f295a33f19e214]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Privileges of a duty representative[^key-e0aad74c3b2fa95853d725092a2a2615]
+### 12. Privileges of a registered owner[^c-7373d10d45e7c3ec10f295a33f19e214]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Exceptions[^key-1934ee5ba3139d0926dbca42f1d118ab][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 13. Privileges of a duty representative[^c-e0aad74c3b2fa95853d725092a2a2615]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Exceptions[^c-1934ee5ba3139d0926dbca42f1d118ab][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 (1) Regulation 11 above does not confer on any authorized warehousekeeper any privilege that would cause him to be in breach of–
 
@@ -175,65 +175,65 @@ If the Commissioners revoke their approval of an occupier as an authorized wareh
 - (d) any condition or restriction imposed under section 100G(4) of the Act; or
 - (e) any condition or restriction imposed by or under Part VII of these regulations.
 
-(2)[^key-0cc77d662bb9745b910e8a7b07dd140b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0cc77d662bb9745b910e8a7b07dd140b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VII — CONDITIONS AND RESTRICTIONS
 
-### 15. General conditions and restrictions[^key-6f0bb833c3b28ebcda354b7908d10adb][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 15. General conditions and restrictions[^c-6f0bb833c3b28ebcda354b7908d10adb][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
-The approval and registration of authorized warehousekeepers[^key-8fd1e8b0b49c85ba3317df1acf9e024f] shall, in addition to any conditions or restrictions imposed on them by the Commissioners under section 100G(4) of the Act, be subject to the conditions and restrictions imposed by or under this Part of these regulations.
+The approval and registration of authorized warehousekeepers[^c-8fd1e8b0b49c85ba3317df1acf9e024f] shall, in addition to any conditions or restrictions imposed on them by the Commissioners under section 100G(4) of the Act, be subject to the conditions and restrictions imposed by or under this Part of these regulations.
 
-### 16. Security[^key-4de335b948d22fff3935ee3f282837e1][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 16. Security[^c-4de335b948d22fff3935ee3f282837e1][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
-The Commissioners may require any authorized warehousekeeper[^key-0b3a79dca3eadba3a82599445eb13132] to provide such security, or further security, as they may think appropriate for the payment of any excise duty that is or may become due from him.
+The Commissioners may require any authorized warehousekeeper[^c-0b3a79dca3eadba3a82599445eb13132] to provide such security, or further security, as they may think appropriate for the payment of any excise duty that is or may become due from him.
 
-### 17. Conditions and restrictions that apply to authorized warehousekeepers[^key-1051b55298cf0b3e4a4d56b499a93c08][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 17. Conditions and restrictions that apply to authorized warehousekeepers[^c-1051b55298cf0b3e4a4d56b499a93c08][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 (1) The approval and registration of every authorized warehousekeeper shall be subject to the conditions and restrictions prescribed in a notice published by the Commissioners and not withdrawn by a further notice.
 
-(2)[^key-fe0a0454d751f376ecdc687f569aade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fe0a0454d751f376ecdc687f569aade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fe0a0454d751f376ecdc687f569aade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fe0a0454d751f376ecdc687f569aade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Conditions and restrictions that apply to registered owners[^key-4fbb1c2cae1523dde9352ad8b54b1c11]
+### 18. Conditions and restrictions that apply to registered owners[^c-4fbb1c2cae1523dde9352ad8b54b1c11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Conditions and restrictions that apply to duty representatives[^key-5a90ec0a447da6246a145a8363b01304]
+### 19. Conditions and restrictions that apply to duty representatives[^c-5a90ec0a447da6246a145a8363b01304]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VIII — EXCISE DUTY POINTS AND FORFEITURE
 
-### 20. Excise duty points – warehoused goods[^key-913dfca8485f72f6253d9edef0e4ee2a][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 20. Excise duty points – warehoused goods[^c-913dfca8485f72f6253d9edef0e4ee2a][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
 (1) If dutiable goods are deposited in an excise warehouse in contravention of regulation 9(1) above, the time that they were deposited shall be the excise duty point for those goods.
 
 (2) If dutiable goods are kept in an excise warehouse in contravention of regulation 9(1) above, the time when the occupier of that warehouse ceases to be an authorized warehousekeeper permitted by the terms of his approval to hold dutiable goods of that class or description shall be the excise duty point for those goods.
 
-(3)[^key-675f2e53e69ac2d99721b8686a66369c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-675f2e53e69ac2d99721b8686a66369c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The person liable to pay the duty at the excise duty point shall be the occupier of the excise warehouse in which the goods were deposited or kept.
 
 (5) If more than one person occupies the excise warehouse in which the goods were deposited or kept, all the occupiers shall be jointly and severally liable to pay the duty at the excise duty point.
 
-(6)[^key-9f9beaaf13fe350406e1a59cba64233a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9f9beaaf13fe350406e1a59cba64233a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-9f9beaaf13fe350406e1a59cba64233a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9f9beaaf13fe350406e1a59cba64233a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Excise duty points – ownership of goods[^key-41a0647a98ac84283780257b1d341632]
+### 21. Excise duty points – ownership of goods[^c-41a0647a98ac84283780257b1d341632]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Forfeiture[^key-df606d47cd33236d539314e4d6d80a68][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
+### 22. Forfeiture[^c-df606d47cd33236d539314e4d6d80a68][^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]
 
-(1) If dutiable goods are deposited or kept in an excise warehouse in contravention of regulation 9(1) [^key-851721608f34c57e8d9ea0055e8e56d4]... above those goods shall be liable to forfeiture.
+(1) If dutiable goods are deposited or kept in an excise warehouse in contravention of regulation 9(1) [^c-851721608f34c57e8d9ea0055e8e56d4]... above those goods shall be liable to forfeiture.
 
-(2)[^key-e27bfbe1ffe753cb801bb1b26417f095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e27bfbe1ffe753cb801bb1b26417f095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IX — CONSEQUENTIAL AMENDMENTS
 
-### 23. Amendments to the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^key-4fc92d73f4b29c2103b2f2782ce59fcd]
+### 23. Amendments to the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^c-4fc92d73f4b29c2103b2f2782ce59fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -287,88 +287,88 @@ Regulation 23 deals with amendments to existing legislation as a consequence of 
 
 [^M_C_2aa04887-5dd9-4175-f041-07a10787e0a8]: Modification: Regulations, as they had effect immediately before IP completion day, continued (N.I. with respect to excise goods) (31.12.2020) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [100(2)(c)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/100/2/c) (which provision is omitted (3.3.2025 by virtue of [S.I. 2024/1262](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1262/regulation/5))
 
-[^key-27de7f0cf258f21b4e6f0712c2b9fc68]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-27de7f0cf258f21b4e6f0712c2b9fc68]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-414438f30abf43d58f53aeb0db5c1086]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/1278/regulation/2) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-414438f30abf43d58f53aeb0db5c1086]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/1278/regulation/2) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-9c2402d51d838b0cf3875dc299751d45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/1278/regulation/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/2)
+[^c-9c2402d51d838b0cf3875dc299751d45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/1278/regulation/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/2)
 
-[^key-1447b5b49b6ba62e8480c203f6ee3b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/1278/regulation/3) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-1447b5b49b6ba62e8480c203f6ee3b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/1278/regulation/3) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-69357ecce979e687d72661640d85f58d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/3/1) omitted (2.3.2010) by virtue of [The Warehousekeepers and Owners of Warehoused Goods (Amendment) Regulations 2010 (S.I. 2010/250)](https://www.legislation.gov.uk/uksi/2010/250), [regs. 1](https://www.legislation.gov.uk/uksi/2010/250/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/250/regulation/2)
+[^c-69357ecce979e687d72661640d85f58d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/3/1) omitted (2.3.2010) by virtue of [The Warehousekeepers and Owners of Warehoused Goods (Amendment) Regulations 2010 (S.I. 2010/250)](https://www.legislation.gov.uk/uksi/2010/250), [regs. 1](https://www.legislation.gov.uk/uksi/2010/250/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/250/regulation/2)
 
-[^key-c1e4fc690d3377c16cf3b1c5400239e3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/1278/regulation/4) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-c1e4fc690d3377c16cf3b1c5400239e3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/1278/regulation/4) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-41292e0a7428fbc6381c7c80a8f6ef3e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/1278/part/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/3)
+[^c-41292e0a7428fbc6381c7c80a8f6ef3e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/1278/part/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/3)
 
-[^key-d1d4b680381a8df03b550abbd9f6f1cb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-d1d4b680381a8df03b550abbd9f6f1cb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-1cbbf32fa3c728f8043c5028a597e819]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/1) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/a)
+[^c-1cbbf32fa3c728f8043c5028a597e819]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/1) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/a)
 
-[^key-3ebca0d2be8a1fa90f594acf0fa9407e]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/2) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/b)
+[^c-3ebca0d2be8a1fa90f594acf0fa9407e]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/2) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/b)
 
-[^key-88217b6fb5b5bbab91f0ac57e8933cd6]: Textual amendment: Words in [reg. 7(3)-(5)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/3) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/a)
+[^c-88217b6fb5b5bbab91f0ac57e8933cd6]: Textual amendment: Words in [reg. 7(3)-(5)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/7/3) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/4/a)
 
-[^key-5b577ca5cf1eac9f7364946ee2045d51]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-5b577ca5cf1eac9f7364946ee2045d51]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-4f7c37ae73fad4fb274d79571c633249]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/a) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/a)
+[^c-4f7c37ae73fad4fb274d79571c633249]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/a) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/a)
 
-[^key-aa53a083005f15f18fe52bc5990f606b]: Textual amendment: Words in [reg. 8(b)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/b) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/a)
+[^c-aa53a083005f15f18fe52bc5990f606b]: Textual amendment: Words in [reg. 8(b)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/b) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/a)
 
-[^key-ec7da24705c0dfedeecbbe094792060e]: Textual amendment: [Reg. 8(c)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/c) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/b)
+[^c-ec7da24705c0dfedeecbbe094792060e]: Textual amendment: [Reg. 8(c)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/c) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/b)
 
-[^key-bcb3d429adb7e8fb89a94cdca9829383]: Textual amendment: [Reg. 8(e)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/e) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/c)
+[^c-bcb3d429adb7e8fb89a94cdca9829383]: Textual amendment: [Reg. 8(e)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/8/e) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/5/c)
 
-[^key-94ef7a7f4941bc5b530d5cb300180756]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-94ef7a7f4941bc5b530d5cb300180756]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-24cccff4fd9a9bf8a0d197c089158c90]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/6)
+[^c-24cccff4fd9a9bf8a0d197c089158c90]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/9/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/6)
 
-[^key-2802c60752b05ef041934272c36a7aea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/1278/regulation/10) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-2802c60752b05ef041934272c36a7aea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/1278/regulation/10) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-bbbbdd3f7e1e7ffca6abd6b67f250df5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-bbbbdd3f7e1e7ffca6abd6b67f250df5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-4aa07f6032a6cc3e99172e159042477e]: Textual amendment: [Reg. 11(2)(aa)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/2/aa) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/15)](https://www.legislation.gov.uk/uksi/2019/15), [regs. 1](https://www.legislation.gov.uk/uksi/2019/15/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/15/regulation/5/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/15/regulation/21)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1494/regulation/4)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-4aa07f6032a6cc3e99172e159042477e]: Textual amendment: [Reg. 11(2)(aa)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/2/aa) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/15)](https://www.legislation.gov.uk/uksi/2019/15), [regs. 1](https://www.legislation.gov.uk/uksi/2019/15/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/15/regulation/5/2) (with [reg. 21](https://www.legislation.gov.uk/uksi/2019/15/regulation/21)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1494/regulation/4)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-0ceed3e095b3f696e077083fec95ce79]: Modification: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/2/c) restricted (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2000/645/regulation/10/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+[^c-0ceed3e095b3f696e077083fec95ce79]: Modification: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/2/c) restricted (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2000/645/regulation/10/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
 
-[^key-3a992aead1ba39b1fee202e1912f578f]: Modification: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/3) restricted (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2000/645/regulation/10/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
+[^c-3a992aead1ba39b1fee202e1912f578f]: Modification: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/11/3) restricted (1.4.2000) by [The Excise Goods (Export Shops) Regulations 2000 (S.I. 2000/645)](https://www.legislation.gov.uk/uksi/2000/645), [regs. 1](https://www.legislation.gov.uk/uksi/2000/645/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2000/645/regulation/10/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2000/645/regulation/2))
 
-[^key-7373d10d45e7c3ec10f295a33f19e214]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/1278/regulation/12) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/7)
+[^c-7373d10d45e7c3ec10f295a33f19e214]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/1278/regulation/12) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/7)
 
-[^key-e0aad74c3b2fa95853d725092a2a2615]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/1278/regulation/13) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/7)
+[^c-e0aad74c3b2fa95853d725092a2a2615]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/1278/regulation/13) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/7)
 
-[^key-1934ee5ba3139d0926dbca42f1d118ab]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/1278/regulation/14) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-1934ee5ba3139d0926dbca42f1d118ab]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/1278/regulation/14) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-0cc77d662bb9745b910e8a7b07dd140b]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/14/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/8)
+[^c-0cc77d662bb9745b910e8a7b07dd140b]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/14/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/8)
 
-[^key-6f0bb833c3b28ebcda354b7908d10adb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/1278/regulation/15) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-6f0bb833c3b28ebcda354b7908d10adb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/1278/regulation/15) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-8fd1e8b0b49c85ba3317df1acf9e024f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/1999/1278/regulation/15) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/9)
+[^c-8fd1e8b0b49c85ba3317df1acf9e024f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/1999/1278/regulation/15) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/9)
 
-[^key-4de335b948d22fff3935ee3f282837e1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/1278/regulation/16) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-4de335b948d22fff3935ee3f282837e1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/1278/regulation/16) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-0b3a79dca3eadba3a82599445eb13132]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/1999/1278/regulation/16) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/10)
+[^c-0b3a79dca3eadba3a82599445eb13132]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/1999/1278/regulation/16) substituted (3.3.2025) by [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/10)
 
-[^key-1051b55298cf0b3e4a4d56b499a93c08]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-1051b55298cf0b3e4a4d56b499a93c08]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-fe0a0454d751f376ecdc687f569aade3]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/11)
+[^c-fe0a0454d751f376ecdc687f569aade3]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17/2)[(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/17/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/11)
 
-[^key-4fbb1c2cae1523dde9352ad8b54b1c11]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/1278/regulation/18) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/12)
+[^c-4fbb1c2cae1523dde9352ad8b54b1c11]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/1278/regulation/18) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/12)
 
-[^key-5a90ec0a447da6246a145a8363b01304]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/1278/regulation/19) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/12)
+[^c-5a90ec0a447da6246a145a8363b01304]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/1278/regulation/19) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/12)
 
-[^key-913dfca8485f72f6253d9edef0e4ee2a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-913dfca8485f72f6253d9edef0e4ee2a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-675f2e53e69ac2d99721b8686a66369c]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/13)
+[^c-675f2e53e69ac2d99721b8686a66369c]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/3) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/13)
 
-[^key-9f9beaaf13fe350406e1a59cba64233a]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/6)[(7)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/7) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/13)
+[^c-9f9beaaf13fe350406e1a59cba64233a]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/6)[(7)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/20/7) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/13)
 
-[^key-41a0647a98ac84283780257b1d341632]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/1278/regulation/21) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/14)
+[^c-41a0647a98ac84283780257b1d341632]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/1278/regulation/21) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/14)
 
-[^key-df606d47cd33236d539314e4d6d80a68]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
+[^c-df606d47cd33236d539314e4d6d80a68]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22) in force at 1.10.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1278/regulation/1)
 
-[^key-851721608f34c57e8d9ea0055e8e56d4]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22/1) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(15)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/15/a)
+[^c-851721608f34c57e8d9ea0055e8e56d4]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22/1) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(15)(a)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/15/a)
 
-[^key-e27bfbe1ffe753cb801bb1b26417f095]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(15)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/15/b)
+[^c-e27bfbe1ffe753cb801bb1b26417f095]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/1999/1278/regulation/22/2) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [2(15)(b)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/2/15/b)
 
-[^key-4fc92d73f4b29c2103b2f2782ce59fcd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/1278/regulation/23) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3)
+[^c-4fc92d73f4b29c2103b2f2782ce59fcd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/1278/regulation/23) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3)

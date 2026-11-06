@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Accommodation for asylum seekers: local connection[^key-01ca342d9e4884eac26c9c2e2234fb27]
+## 11. Accommodation for asylum seekers: local connection[^c-01ca342d9e4884eac26c9c2e2234fb27]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01ca342d9e4884eac26c9c2e2234fb27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/19/section/11) in force at 4.1.2005 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
+[^c-01ca342d9e4884eac26c9c2e2234fb27]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/19/section/11) in force at 4.1.2005 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)

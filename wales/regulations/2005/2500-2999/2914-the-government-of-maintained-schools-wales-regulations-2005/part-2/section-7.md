@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Authority governors[^key-34babf465db3ec3df9f69eb0895112c2]
+## 7. Authority governors[^c-34babf465db3ec3df9f69eb0895112c2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34babf465db3ec3df9f69eb0895112c2]: Textual amendment: Reg. 7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/4)
+[^c-34babf465db3ec3df9f69eb0895112c2]: Textual amendment: Reg. 7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/4)

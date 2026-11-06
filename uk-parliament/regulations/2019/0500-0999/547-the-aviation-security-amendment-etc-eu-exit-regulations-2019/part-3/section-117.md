@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117.[^key-12f27d2aa6e1b872102c384719765138]
+## 117.[^c-12f27d2aa6e1b872102c384719765138]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In points (a) and (c) of the seventh indent, for “, known consignor or account
 
 ## Annotations
 
-[^key-12f27d2aa6e1b872102c384719765138]: Commencement: Reg. 117 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-12f27d2aa6e1b872102c384719765138]: Commencement: Reg. 117 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 165. Amendment of the Social Security (Mariners' Benefits) Regulations[^key-68339d74a7cf2a5e4bf664afdd4c7fb8]
+## 165. Amendment of the Social Security (Mariners' Benefits) Regulations[^c-68339d74a7cf2a5e4bf664afdd4c7fb8]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-68339d74a7cf2a5e4bf664afdd4c7fb8]: Commencement: Reg. 165 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-68339d74a7cf2a5e4bf664afdd4c7fb8]: Commencement: Reg. 165 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00124]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108), to which there are amendments not relevant to these Regulations
 

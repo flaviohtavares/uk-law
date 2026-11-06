@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Information on the right to opt in to pension saving[^key-3904e65fecc038aa86633c85bbcf771c]
+## 17. Information on the right to opt in to pension saving[^c-3904e65fecc038aa86633c85bbcf771c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3904e65fecc038aa86633c85bbcf771c]: Textual amendment: Reg. 17 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/501/regulation/6)
+[^c-3904e65fecc038aa86633c85bbcf771c]: Textual amendment: Reg. 17 revoked (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/501/regulation/6)

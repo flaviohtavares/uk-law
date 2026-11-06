@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28AA. Amendment of return of profits made for wrong period.[^key-0c11d98e3c668e6d5bd89b9c695df9ee][^key-d0fddfb7eadd90c6e9d9364a7c371fb3]
+## 28AA. Amendment of return of profits made for wrong period.[^c-0c11d98e3c668e6d5bd89b9c695df9ee][^c-d0fddfb7eadd90c6e9d9364a7c371fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c11d98e3c668e6d5bd89b9c695df9ee]: Textual amendment: Ss. 28AA, 28AB repealed (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/9), [Sch. 27 Pt. 3(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
+[^c-0c11d98e3c668e6d5bd89b9c695df9ee]: Textual amendment: Ss. 28AA, 28AB repealed (with effect in accordance with s. 117(4)(5) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/1998/36/schedule/19/paragraph/9), [Sch. 27 Pt. 3(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28); [S.I. 1998/3173](https://www.legislation.gov.uk/uksi/1998/3173), art. 2
 
-[^key-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)
+[^c-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)

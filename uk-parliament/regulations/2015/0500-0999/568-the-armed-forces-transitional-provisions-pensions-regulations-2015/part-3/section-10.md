@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Insertion of new article 5 into the AFPS Order 2005[^key-fca9721df81de8f2721d367472553276]
+## 10. Insertion of new article 5 into the AFPS Order 2005[^c-fca9721df81de8f2721d367472553276]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ The Armed Forces Pension Scheme Order 2005[^f00014] (“the AFPS Order 2005”) 
 
 ## Annotations
 
-[^key-fca9721df81de8f2721d367472553276]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-fca9721df81de8f2721d367472553276]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438).

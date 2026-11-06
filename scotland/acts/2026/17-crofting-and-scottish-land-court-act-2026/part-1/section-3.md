@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Removal of timescales for deciding applications[^key-f6ac3cee332b26a72e9308342a06239c]
+## 3. Removal of timescales for deciding applications[^c-f6ac3cee332b26a72e9308342a06239c]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ac3cee332b26a72e9308342a06239c]: Commencement: S. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-f6ac3cee332b26a72e9308342a06239c]: Commencement: S. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 139
 
-**1.**[^key-048ac4f51f551d2d65ecbd824390eac2] The following instruments are revoked—
+**1.**[^c-048ac4f51f551d2d65ecbd824390eac2] The following instruments are revoked—
 
 - (a) the Packaging Waste (Data Reporting) (England) Regulations 2023[^f00098];
 - (b) the Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2023[^f00099];
@@ -35,7 +35,7 @@ Regulation 139
 - (i) the Packaging Waste (Data Reporting) (Scotland) (Amendment) Regulations 2024[^f00106];
 - (j) the Packaging Waste (Data Reporting) (No. 2) (Amendment) Regulations (Northern Ireland) 2024[^f00107].
 
-**2.**[^key-af21b69e222559c1d56377aefc151cb6] The following instruments are revoked on 1st January 2026—
+**2.**[^c-af21b69e222559c1d56377aefc151cb6] The following instruments are revoked on 1st January 2026—
 
 - (a) the 2007 Regulations;
 - (b) the 2007 (NI) Regulations;
@@ -66,7 +66,7 @@ Regulation 139
 
 ## Annotations
 
-[^key-048ac4f51f551d2d65ecbd824390eac2]: Commencement: Sch. 17 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-048ac4f51f551d2d65ecbd824390eac2]: Commencement: Sch. 17 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00098]: Footnote: [S.I. 2023/219](https://www.legislation.gov.uk/uksi/2023/219).
 
@@ -88,7 +88,7 @@ Regulation 139
 
 [^f00107]: Footnote: [S.R. 2024 No. 80](https://www.legislation.gov.uk/nisr/2024/80).
 
-[^key-af21b69e222559c1d56377aefc151cb6]: Commencement: Sch. 17 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-af21b69e222559c1d56377aefc151cb6]: Commencement: Sch. 17 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00108]: Footnote: [S.I. 2008/1941](https://www.legislation.gov.uk/uksi/2008/1941).
 

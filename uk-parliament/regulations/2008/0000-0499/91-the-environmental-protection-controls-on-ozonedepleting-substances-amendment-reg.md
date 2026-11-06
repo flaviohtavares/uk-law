@@ -48,14 +48,14 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 He makes these Regulations in exercise of powers conferred by that section.
 
-## 1. Citation and commencement[^key-498b0f08800926c579fe94cfc3bfef51]
+## 1. Citation and commencement[^c-498b0f08800926c579fe94cfc3bfef51]
 
 These Regulations—
 
 - (a) may be cited as the Environmental Protection (Controls on Ozone–Depleting Substances) (Amendment) Regulations 2008; and
 - (b) come into force on 15th February 2008.
 
-## 2. Amendments[^key-8597835fd56cb148a9f955f1929ea8db]
+## 2. Amendments[^c-8597835fd56cb148a9f955f1929ea8db]
 
 The Environmental Protection (Controls on Ozone–Depleting Substances) Regulations 2002[^f00003] are amended in accordance with the Schedule.
 
@@ -73,7 +73,7 @@ Regulation 2
 
 ### Insertion of regulation 1A
 
-**1.**[^key-f420fb3d2783c6fb7b61aa3c5a3c71b3] After regulation 1, insert—
+**1.**[^c-f420fb3d2783c6fb7b61aa3c5a3c71b3] After regulation 1, insert—
 
 > **1A. Application to offshore installations**
 >
@@ -85,7 +85,7 @@ Regulation 2
 
 ### Substitution of regulation 2(1)
 
-**2.**[^key-23d6dce21410921622957779c4e4d997] For regulation 2(1), substitute—
+**2.**[^c-23d6dce21410921622957779c4e4d997] For regulation 2(1), substitute—
 
 > (1) In these Regulations—
 >
@@ -145,7 +145,7 @@ Regulation 2
 
 ### Substitution of regulation 3
 
-**3.**[^key-8048be01172bc7db3f23e17fe0870468] For regulation 3, substitute—
+**3.**[^c-8048be01172bc7db3f23e17fe0870468] For regulation 3, substitute—
 
 > **3. The competent authority**
 >
@@ -163,7 +163,7 @@ Regulation 2
 
 ### Amendment to regulation 7
 
-**4.**[^key-43a399ea2e0170367751d0ecdd74a54f] In regulation 7—
+**4.**[^c-43a399ea2e0170367751d0ecdd74a54f] In regulation 7—
 
 - (a) in paragraph (1)—
   - (i) for “a customs officer” substitute “an officer of Revenue and Customs”, and
@@ -174,7 +174,7 @@ Regulation 2
 
 ### Substitution of regulations 9 to 14
 
-**5.**[^key-1c72302a40fba78a2cba4f55312e9232] (1) Subject to paragraph (2), for regulations 9 to 14, substitute—
+**5.**[^c-1c72302a40fba78a2cba4f55312e9232] (1) Subject to paragraph (2), for regulations 9 to 14, substitute—
 
 > **9. Powers of the Secretary of State with regard to offshore installations**
 >
@@ -475,7 +475,7 @@ Regulation 2
 
 ### Amendments to the Schedule
 
-**6.**[^key-b24ac50a01a7881fb85c010c3398cd1b] In paragraph 1 of the Schedule, for sub-paragraph (e) to the end, substitute—
+**6.**[^c-b24ac50a01a7881fb85c010c3398cd1b] In paragraph 1 of the Schedule, for sub-paragraph (e) to the end, substitute—
 
 > - (e) 1,1,1-trichloroethane,
 > - (f) hydrobromofluorocarbons, or
@@ -485,7 +485,7 @@ Regulation 2
 
 .
 
-**7.**[^key-aaff58c1053c474d2835bd631d5fc453] In paragraph 12 of the Schedule, for—
+**7.**[^c-aaff58c1053c474d2835bd631d5fc453] In paragraph 12 of the Schedule, for—
 
 > - (iii) 1,1,1-trichloroethane, or
 > - (iv) hydrochlorofluorocarbons; or
@@ -528,15 +528,15 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-498b0f08800926c579fe94cfc3bfef51]: Commencement: Reg. 1 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-498b0f08800926c579fe94cfc3bfef51]: Commencement: Reg. 1 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
-[^key-8597835fd56cb148a9f955f1929ea8db]: Commencement: Reg. 2 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-8597835fd56cb148a9f955f1929ea8db]: Commencement: Reg. 2 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 2002/528](https://www.legislation.gov.uk/uksi/2002/528), to which there are amendments not relevant to this instrument.
 
-[^key-f420fb3d2783c6fb7b61aa3c5a3c71b3]: Commencement: Sch. para. 1 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-f420fb3d2783c6fb7b61aa3c5a3c71b3]: Commencement: Sch. para. 1 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
-[^key-23d6dce21410921622957779c4e4d997]: Commencement: Sch. para. 2 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-23d6dce21410921622957779c4e4d997]: Commencement: Sch. para. 2 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
 [^f00004]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -548,14 +548,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00008]: Footnote: OJ L 244, 29.9.2000, p.1; latest amending legislation is published at OJ L 363, 20.12.2006, p. 1.
 
-[^key-8048be01172bc7db3f23e17fe0870468]: Commencement: Sch. para. 3 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-8048be01172bc7db3f23e17fe0870468]: Commencement: Sch. para. 3 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
-[^key-43a399ea2e0170367751d0ecdd74a54f]: Commencement: Sch. para. 4 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-43a399ea2e0170367751d0ecdd74a54f]: Commencement: Sch. para. 4 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
-[^key-1c72302a40fba78a2cba4f55312e9232]: Commencement: Sch. para. 5 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-1c72302a40fba78a2cba4f55312e9232]: Commencement: Sch. para. 5 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
 [^f00009]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-b24ac50a01a7881fb85c010c3398cd1b]: Commencement: Sch. para. 6 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-b24ac50a01a7881fb85c010c3398cd1b]: Commencement: Sch. para. 6 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
 
-[^key-aaff58c1053c474d2835bd631d5fc453]: Commencement: Sch. para. 7 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)
+[^c-aaff58c1053c474d2835bd631d5fc453]: Commencement: Sch. para. 7 in force at 15.2.2008, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2008/91/regulation/1/b)

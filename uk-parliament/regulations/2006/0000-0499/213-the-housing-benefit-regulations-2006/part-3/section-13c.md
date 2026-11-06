@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13C. When a maximum rent (LHA) is to be determined[^key-43084bd6ff4d83ceb973fff661a73bd6]
+## 13C. When a maximum rent (LHA) is to be determined[^c-43084bd6ff4d83ceb973fff661a73bd6]
 
 *Extent: E+W+S*
 
@@ -29,22 +29,22 @@ summary: ''
 - (c) in relation to an award of housing benefit where the eligible rent was determined without reference to regulation 13A or 13D, a notification of a change of dwelling (as defined in regulation 2) where the change occurs on or after 7th April 2008; or
 - (d) in relation to an award of housing benefit where a maximum rent (LHA) was determined in accordance with regulation 13D—
   - (i) notification of a change of a kind which affects the category of dwelling applicable to the claim;
-  - (ii) notification of the death of a linked person, where the notification does not fall within head (i); [^key-be76ad31f23afdfb9693744c30742871]...
-  - (iii) notification of a change of dwelling or[^key-c2b9c7365f3a8a4905281a5e0de61d6a]
+  - (ii) notification of the death of a linked person, where the notification does not fall within head (i); [^c-be76ad31f23afdfb9693744c30742871]...
+  - (iii) notification of a change of dwelling or[^c-c2b9c7365f3a8a4905281a5e0de61d6a]
   - (iv) notification of a change of a kind which affects the amount of the claimant’s cap rent as determined in accordance with regulation 13D (determination of a maximum rent (LHA)).
 
-(3)[^key-6667710731e9497f68358628119263c6] This paragraph applies on 1st April in any year.
+(3)[^c-6667710731e9497f68358628119263c6] This paragraph applies on 1st April in any year.
 
-(4)[^key-1e3a492575a29cc95dfc9d56ff0779e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1e3a492575a29cc95dfc9d56ff0779e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This regulation does not apply in a case where—
 
-- (a)[^key-4957587271d8e6344e73285703320f5b] the landlord is—
+- (a)[^c-4957587271d8e6344e73285703320f5b] the landlord is—
   - (i) a registered social landlord,
   - (ii) a non-profit registered provider of social housing, or
   - (iii) in relation to a dwelling which is social housing (within the meaning of sections 68 to 77 of the Housing and Regeneration Act 2008), a profit-making registered provider of social housing;
 - (b) paragraph 4(1)(b) of Schedule 3 to the Consequential Provisions Regulations (savings provision) applies;
-- (c) the tenancy is an excluded tenancy of a type mentioned in any of paragraphs 4 to 11[^key-2f319c9839f3f5b53e7917b08a38e337] of Schedule 2;
+- (c) the tenancy is an excluded tenancy of a type mentioned in any of paragraphs 4 to 11[^c-2f319c9839f3f5b53e7917b08a38e337] of Schedule 2;
 - (d) the claim or award relates to—
   - (i) periodical payments of kind falling within regulation 12(1) (rent) which a person is liable to make in relation to a houseboat, caravan or mobile home which he occupies as his home; or
   - (ii) rent payable in relation to a hostel; or
@@ -54,25 +54,25 @@ summary: ''
 
 (6) In this regulation—
 
-- [^key-97a7f5a8c1a947bd54a303c111d1de98]...
-- “registered social landlord” has the same meaning as in Part 1 of the Housing Act 1996 or, in Scotland, section 165 of the Housing (Scotland) Act 2010[^key-3be771d8651ffb464aaa0de55ca62078].
+- [^c-97a7f5a8c1a947bd54a303c111d1de98]...
+- “registered social landlord” has the same meaning as in Part 1 of the Housing Act 1996 or, in Scotland, section 165 of the Housing (Scotland) Act 2010[^c-3be771d8651ffb464aaa0de55ca62078].
 
 ## Annotations
 
-[^key-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-be76ad31f23afdfb9693744c30742871]: Textual amendment: Word in reg. 13C(2)(d)(ii) omitted (1.4.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/a/i)
+[^c-be76ad31f23afdfb9693744c30742871]: Textual amendment: Word in reg. 13C(2)(d)(ii) omitted (1.4.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/a/i)
 
-[^key-c2b9c7365f3a8a4905281a5e0de61d6a]: Textual amendment: Reg. 13C(2)(d)(iv) and word added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/a/ii)
+[^c-c2b9c7365f3a8a4905281a5e0de61d6a]: Textual amendment: Reg. 13C(2)(d)(iv) and word added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/a/ii)
 
-[^key-6667710731e9497f68358628119263c6]: Textual amendment: Reg. 13C(3) substituted (1.1.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/b)
+[^c-6667710731e9497f68358628119263c6]: Textual amendment: Reg. 13C(3) substituted (1.1.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/b)
 
-[^key-1e3a492575a29cc95dfc9d56ff0779e2]: Textual amendment: Reg. 13C(4) omitted (1.1.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/c)
+[^c-1e3a492575a29cc95dfc9d56ff0779e2]: Textual amendment: Reg. 13C(4) omitted (1.1.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/c)
 
-[^key-4957587271d8e6344e73285703320f5b]: Textual amendment: Reg. 13C(5)(a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/52) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-4957587271d8e6344e73285703320f5b]: Textual amendment: Reg. 13C(5)(a) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/52) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-2f319c9839f3f5b53e7917b08a38e337]: Textual amendment: Words in reg. 13C(5) substituted by SI 2007/2868 reg. 7 (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/4/a)
+[^c-2f319c9839f3f5b53e7917b08a38e337]: Textual amendment: Words in reg. 13C(5) substituted by SI 2007/2868 reg. 7 (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/4/a)
 
-[^key-97a7f5a8c1a947bd54a303c111d1de98]: Textual amendment: Words in reg. 13C(6) omitted (1.1.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/d)
+[^c-97a7f5a8c1a947bd54a303c111d1de98]: Textual amendment: Words in reg. 13C(6) omitted (1.1.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/3/2/d)
 
-[^key-3be771d8651ffb464aaa0de55ca62078]: Textual amendment: Words in reg. 13C(6) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/15/3)
+[^c-3be771d8651ffb464aaa0de55ca62078]: Textual amendment: Words in reg. 13C(6) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/15/3)

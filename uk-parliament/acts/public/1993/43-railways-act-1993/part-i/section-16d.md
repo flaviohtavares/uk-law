@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) When the Office of Rail and Road[^key-556759af6efe5623300dc529615ce409] has received the application or notice of a variation, it[^c18820311]
+(1) When the Office of Rail and Road[^c-556759af6efe5623300dc529615ce409] has received the application or notice of a variation, it[^c18820311]
 
 - (a) send a copy to the person specified in the application, the appropriate facilities authority[^c18823821] (if it is not the applicant) and any other persons who the Office of Rail and Road considers ought to be sent one; and
 - (b) invite them to make written representations within a period specified in the invitation.
@@ -66,7 +66,7 @@ to provide him with any information required by him in order to decide whether t
 
 [^c14099381]: Textual amendment: S. 16D inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275](https://www.legislation.gov.uk/ukpga/2000/38/section/275); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-556759af6efe5623300dc529615ce409]: Textual amendment: Words in s. 16D substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(s)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/s)
+[^c-556759af6efe5623300dc529615ce409]: Textual amendment: Words in s. 16D substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(s)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/s)
 
 [^c18820311]: Textual amendment: S. 16D: word in prospectively inserted section substituted (5.7.2004) by virtue of [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(b) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 

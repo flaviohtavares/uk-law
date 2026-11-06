@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Notice to trustees.[^key-0097c0c9c6d85a727f52edc92e2e2a09]
+## 101. Notice to trustees.[^c-0097c0c9c6d85a727f52edc92e2e2a09]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ Provided that a notice under this section shall not be valid unless at the date 
 
 ## Annotations
 
-[^key-0097c0c9c6d85a727f52edc92e2e2a09]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/101) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-0097c0c9c6d85a727f52edc92e2e2a09]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/section/101) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)

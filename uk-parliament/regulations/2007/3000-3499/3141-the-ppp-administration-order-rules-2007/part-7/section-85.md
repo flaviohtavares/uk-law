@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Retention of proxies[^key-7942906f930e5a1b144a01b14612e981]
+## 85. Retention of proxies[^c-7942906f930e5a1b144a01b14612e981]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7942906f930e5a1b144a01b14612e981]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2007/3141/rule/85) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-7942906f930e5a1b144a01b14612e981]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2007/3141/rule/85) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

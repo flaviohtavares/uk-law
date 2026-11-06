@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Discharge of water[^key-f4216abcfc98480c5cc9de441efbd54d]
+## 15. Discharge of water[^c-f4216abcfc98480c5cc9de441efbd54d]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any dispute arising from the making of connections to or the use of a public sewer or drain by the undertaker pursuant to paragraph (1) is determined as if it were a dispute under section 106 of the Water Industry Act 1991[^f00037] (right to communicate with public sewers).
 
-(3) The undertaker must not discharge any water into any watercourse or any[^key-4026d00ff80a1d2379f62a4e9994a96a] public sewer or drain, except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose, but must not be unreasonably withheld.
+(3) The undertaker must not discharge any water into any watercourse or any[^c-4026d00ff80a1d2379f62a4e9994a96a] public sewer or drain, except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose, but must not be unreasonably withheld.
 
 (4) The undertaker must not carry out any works to any public sewer or drain pursuant to article 15(1) except—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f4216abcfc98480c5cc9de441efbd54d]: Commencement: Art. 15 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-f4216abcfc98480c5cc9de441efbd54d]: Commencement: Art. 15 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
 [^f00037]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 35(8)(a) and 43(2) of and paragraph 1 of Schedule 2 to the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99(2), (4), (5)(a), (5)(b), (5)(c) of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and section 32, and paragraph 16(1) of and Schedule 3 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-4026d00ff80a1d2379f62a4e9994a96a]: Textual amendment: Word in art. 15(3) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-4026d00ff80a1d2379f62a4e9994a96a]: Textual amendment: Word in art. 15(3) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

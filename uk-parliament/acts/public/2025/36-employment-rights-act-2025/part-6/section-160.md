@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Short title[^key-f3936eeb71cd0c44c0765260b852c016]
+## 160. Short title[^c-f3936eeb71cd0c44c0765260b852c016]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Employment Rights Act 2025.
 
 ## Annotations
 
-[^key-f3936eeb71cd0c44c0765260b852c016]: Commencement: S. 160 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-f3936eeb71cd0c44c0765260b852c016]: Commencement: S. 160 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

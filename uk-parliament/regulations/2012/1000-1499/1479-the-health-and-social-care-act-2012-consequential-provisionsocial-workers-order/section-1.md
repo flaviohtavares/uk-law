@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement, extent and application[^key-32efc4b6b8a6328a7b563b503badfc30]
+## 1. Citation, commencement, extent and application[^c-32efc4b6b8a6328a7b563b503badfc30]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32efc4b6b8a6328a7b563b503badfc30]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1479/article/1) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-32efc4b6b8a6328a7b563b503badfc30]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1479/article/1) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Duties on a person responsible for a farmed animal[^key-ef91779a7069d2fa12a857b6963d95ac]
+## 5. Duties on a person responsible for a farmed animal[^c-ef91779a7069d2fa12a857b6963d95ac]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef91779a7069d2fa12a857b6963d95ac]: Commencement: Reg. 5 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-ef91779a7069d2fa12a857b6963d95ac]: Commencement: Reg. 5 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

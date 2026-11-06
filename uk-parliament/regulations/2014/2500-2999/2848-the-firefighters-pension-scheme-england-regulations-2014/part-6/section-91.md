@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Increase in eligible child’s pension where member was pension debit member[^key-38ec2be7c57c926cd0e5ac4de5bbc15f]
+## 91. Increase in eligible child’s pension where member was pension debit member[^c-38ec2be7c57c926cd0e5ac4de5bbc15f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the member’s benefits were at the date of death subject to a reduction unde
 
 ## Annotations
 
-[^key-38ec2be7c57c926cd0e5ac4de5bbc15f]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/2848/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-38ec2be7c57c926cd0e5ac4de5bbc15f]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/2848/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Capital limit[^key-7cde196b58f0795a1bef11f0e4b09f6c]
+## 107. Capital limit[^c-7cde196b58f0795a1bef11f0e4b09f6c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ For the purposes of Article 15(1) of the Order (no entitlement to an income-base
 
 ## Annotations
 
-[^key-7cde196b58f0795a1bef11f0e4b09f6c]: Commencement: Reg. 107 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7cde196b58f0795a1bef11f0e4b09f6c]: Commencement: Reg. 107 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

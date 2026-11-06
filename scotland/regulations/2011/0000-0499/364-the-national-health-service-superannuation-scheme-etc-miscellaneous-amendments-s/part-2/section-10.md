@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Amendment of regulation L1[^key-bfb3e6a807d8660e155371a106937306]
+## 10. Amendment of regulation L1[^c-bfb3e6a807d8660e155371a106937306]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation L1 (treatment of pensionable service of early leavers returning to
 
 ## Annotations
 
-[^key-bfb3e6a807d8660e155371a106937306]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/364/regulation/10) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-bfb3e6a807d8660e155371a106937306]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/364/regulation/10) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

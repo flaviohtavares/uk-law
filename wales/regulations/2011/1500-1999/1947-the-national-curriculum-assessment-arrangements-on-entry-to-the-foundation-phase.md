@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The National Curriculum (Assessment Arrangements on Entry to the Foundation Phase) (Wales) Order 2011 (revoked)[^key-d2a60543e498f097a9bf7b21062b5ff2]
+The National Curriculum (Assessment Arrangements on Entry to the Foundation Phase) (Wales) Order 2011 (revoked)[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 Made
 
@@ -43,82 +43,82 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(2)
 
-[^key-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 1. Title and commencement[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 2. Interpretation[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Foundation phase assessment[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 3. Foundation phase assessment[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Timing of assessment[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 4. Timing of assessment[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary powers of the Welsh Ministers[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 5. Supplementary powers of the Welsh Ministers[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Duties of the proprietor[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 6. Duties of the proprietor[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Duties of responsible persons[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 7. Duties of responsible persons[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Duties of relevant local authorities[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## 8. Duties of relevant local authorities[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Duties in relation to assessments[^key-d2a60543e498f097a9bf7b21062b5ff2]
+## SCHEDULE — Duties in relation to assessments[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
 Articles 6, 7 and 8
 
-### Part 1 — Duties of proprietors[^key-d2a60543e498f097a9bf7b21062b5ff2]
+### Part 1 — Duties of proprietors[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
-**1.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Duties of responsible persons[^key-d2a60543e498f097a9bf7b21062b5ff2]
+### Part 2 — Duties of responsible persons[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
-**2.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3 — Duties of relevant local authorities[^key-d2a60543e498f097a9bf7b21062b5ff2]
+### Part 3 — Duties of relevant local authorities[^c-d2a60543e498f097a9bf7b21062b5ff2]
 
-**10.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d2a60543e498f097a9bf7b21062b5ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2a60543e498f097a9bf7b21062b5ff2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2a60543e498f097a9bf7b21062b5ff2]: Textual amendment: Order revoked (18.4.2012) by [The National Curriculum (Assessment Arrangements on Entry to the Foundation Phase) (Wales) (Revocation) Order 2012 (S.I. 2012/935)](https://www.legislation.gov.uk/uksi/2012/935), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/935/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/935/article/2)
+[^c-d2a60543e498f097a9bf7b21062b5ff2]: Textual amendment: Order revoked (18.4.2012) by [The National Curriculum (Assessment Arrangements on Entry to the Foundation Phase) (Wales) (Revocation) Order 2012 (S.I. 2012/935)](https://www.legislation.gov.uk/uksi/2012/935), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/935/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/935/article/2)

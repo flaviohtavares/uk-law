@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Trade union membership[^key-aeeeb4bf03090da12cbc4194a9b1389b]
+## 30. Trade union membership[^c-aeeeb4bf03090da12cbc4194a9b1389b]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeeeb4bf03090da12cbc4194a9b1389b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2003/20/section/30) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(m)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/m)
+[^c-aeeeb4bf03090da12cbc4194a9b1389b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2003/20/section/30) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(m)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/m)

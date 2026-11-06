@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) (Amendment) Order 2018 (revoked)[^key-822a87f6161b3b5074ec41c5043861c5]
+The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) (Amendment) Order 2018 (revoked)[^c-822a87f6161b3b5074ec41c5043861c5]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 1 September 2018
 
-[^key-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-822a87f6161b3b5074ec41c5043861c5]
+## 1. Title, commencement and application[^c-822a87f6161b3b5074ec41c5043861c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-822a87f6161b3b5074ec41c5043861c5]
+## 2. Amendment[^c-822a87f6161b3b5074ec41c5043861c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822a87f6161b3b5074ec41c5043861c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-822a87f6161b3b5074ec41c5043861c5]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/811) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/5/6/b)
+[^c-822a87f6161b3b5074ec41c5043861c5]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/811) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/5/6/b)

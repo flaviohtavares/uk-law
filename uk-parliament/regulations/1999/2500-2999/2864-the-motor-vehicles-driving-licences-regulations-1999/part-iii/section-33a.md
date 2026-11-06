@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33A. Applications for large vehicle off road manoeuvres tests conducted by large vehicle off road manoeuvres test examiners: large vehicle instructors[^key-b72f065cc939ee277b4fc6a385bb5e50]
+## 33A. Applications for large vehicle off road manoeuvres tests conducted by large vehicle off road manoeuvres test examiners: large vehicle instructors[^c-b72f065cc939ee277b4fc6a385bb5e50]
 
 *Extent: E+W+S*
 
 (1) A large vehicle instructor who wishes to make an appointment for a large vehicle off road manoeuvres test prescribed in respect of category or sub-category B + E, C, C1, C + E, C1 + E, D, D1, D + E or D1 + E which is to be conducted by a large vehicle off road manoeuvres test examiner and taken by a person who has, or will have, received from that instructor instruction in the driving of a class of vehicle included in any of those categories shall—
 
 - (a) apply for such an appointment to a large vehicle off road manoeuvres test provider, specifying the date and time for the appointment which the instructor wishes to reserve and the place where he wishes the test to be conducted,
-- (b)[^key-ee6fa96f34dc5c82e97740d321de8465] provide such details relating to—
+- (b)[^c-ee6fa96f34dc5c82e97740d321de8465] provide such details relating to—
   - (i) the instructor,
   - (ii) the instructor’s establishment,
   - (iii) the vehicle on which the test is to be taken, and
@@ -36,7 +36,7 @@ summary: ''
 
 (3) Subject to paragraphs (2) and (5), upon receipt of such details and such fee the large vehicle off road manoeuvres test provider shall confirm to the large vehicle instructor the date and time of the appointment.
 
-(4)[^key-2a47e85763beb65d7960973925b23e6d] If, before the expiration of the qualifying period, the large vehicle off road manoeuvres test provider receives from the large vehicle instructor the name and such further details relating to—
+(4)[^c-2a47e85763beb65d7960973925b23e6d] If, before the expiration of the qualifying period, the large vehicle off road manoeuvres test provider receives from the large vehicle instructor the name and such further details relating to—
 
 - (a) the person receiving instruction from that instructor who will at the appointment submit themselves for that test,
 - (b) the licence which that person holds,
@@ -57,8 +57,8 @@ as the large vehicle off road manoeuvres test provider may reasonably require, t
 
 ## Annotations
 
-[^key-b72f065cc939ee277b4fc6a385bb5e50]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A) inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1154/regulation/9)
+[^c-b72f065cc939ee277b4fc6a385bb5e50]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A) inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1154/regulation/9)
 
-[^key-ee6fa96f34dc5c82e97740d321de8465]: Textual amendment: [Reg. 33A(1)(b)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A/1/b) substituted (8.4.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2025 (S.I. 2025/356)](https://www.legislation.gov.uk/uksi/2025/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/356/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/356/regulation/6/a)
+[^c-ee6fa96f34dc5c82e97740d321de8465]: Textual amendment: [Reg. 33A(1)(b)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A/1/b) substituted (8.4.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2025 (S.I. 2025/356)](https://www.legislation.gov.uk/uksi/2025/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/356/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/356/regulation/6/a)
 
-[^key-2a47e85763beb65d7960973925b23e6d]: Textual amendment: [Reg. 33A(4)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A/4) substituted (8.4.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2025 (S.I. 2025/356)](https://www.legislation.gov.uk/uksi/2025/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/356/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/356/regulation/6/b)
+[^c-2a47e85763beb65d7960973925b23e6d]: Textual amendment: [Reg. 33A(4)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/33A/4) substituted (8.4.2025) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2025 (S.I. 2025/356)](https://www.legislation.gov.uk/uksi/2025/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/356/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/356/regulation/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Interpretation of rule 55[^key-4fea05e6f8d3d8fd3c804255c64e45c5]
+## 57. Interpretation of rule 55[^c-4fea05e6f8d3d8fd3c804255c64e45c5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ For the purposes of rule 55—
 
 ## Annotations
 
-[^key-4fea05e6f8d3d8fd3c804255c64e45c5]: Textual amendment: [Rule 57](https://www.legislation.gov.uk/uksi/2000/3371/article/57) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/4)
+[^c-4fea05e6f8d3d8fd3c804255c64e45c5]: Textual amendment: [Rule 57](https://www.legislation.gov.uk/uksi/2000/3371/article/57) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/4)

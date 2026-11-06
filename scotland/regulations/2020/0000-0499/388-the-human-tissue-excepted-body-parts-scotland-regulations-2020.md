@@ -44,7 +44,7 @@ In accordance with section 6D(6) of that Act they have consulted with such perso
 
 In accordance with section 59(3)(ab) [^c24343901] of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-4ebc0a8262297c11058364b99e6dcb83]
+## 1. Citation, commencement and interpretation[^c-4ebc0a8262297c11058364b99e6dcb83]
 
 (1) These Regulations may be cited as the Human Tissue (Excepted Body Parts) (Scotland) Regulations 2020 and come into force on the day on which section 7 of the Human Tissue (Authorisation) (Scotland) Act 2019 [^c24343911] comes into force for all purposes.
 
@@ -53,7 +53,7 @@ In accordance with section 59(3)(ab) [^c24343901] of that Act, a draft of this i
 - “**blood vessel**” means arteries, arterioles, capillaries, venules and veins,
 - “**face**” means the front part of the head, extending widthways to and including the ears, and extending lengthways from and including the forehead to the top of the laryngeal prominence, containing the chin, nose and mouth but excluding the eyes.
 
-## 2. Excepted body parts[^key-5c8affd3b98c533309366f7ac0abbbd1]
+## 2. Excepted body parts[^c-5c8affd3b98c533309366f7ac0abbbd1]
 
 (1) Paragraphs (2) to (5) specify “**excepted body parts**” for the purposes of section 6D and 6G [^c24343921] of the Human Tissue (Scotland) Act 2006.
 
@@ -124,10 +124,10 @@ Regulation 2 specifies the excepted body parts for the purposes of section 6D an
 
 [^c24343901]: Marginal citation: [Section 59(3)(ab)](https://www.legislation.gov.uk/ssi/2020/388/section/59/3/ab) was inserted by section 7(3) of the 2019 Act. Section 59(3)(ab) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act 2010.
 
-[^key-4ebc0a8262297c11058364b99e6dcb83]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-4ebc0a8262297c11058364b99e6dcb83]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c24343911]: Marginal citation: [2019 asp 11](https://www.legislation.gov.uk/asp/2019/11).
 
-[^key-5c8affd3b98c533309366f7ac0abbbd1]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-5c8affd3b98c533309366f7ac0abbbd1]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c24343921]: Marginal citation: Section 6G was inserted by section 10 of the 2019 Act which has not yet been commenced.

@@ -28,8 +28,8 @@ summary: ''
 
 (2) Any fees paid in respect of marriages solemnized by virtue of paragraph (*b*) of the last foregoing subsection in a consecrated chapel specified in a direction given by the bishop of the diocese under that paragraph shall be applied as the bishop, with the consent of the incumbent of the disused church or chapel, may in writing direct.
 
-(3)[^key-55c8e7c25772335d9c72eb033aa43978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-55c8e7c25772335d9c72eb033aa43978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55c8e7c25772335d9c72eb033aa43978]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/18/3) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-55c8e7c25772335d9c72eb033aa43978]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/18/3) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

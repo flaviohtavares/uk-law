@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Sexual offences against children under 16[^key-182c6923b1204cdacbc25151990a4d08]
+## 81. Sexual offences against children under 16[^c-182c6923b1204cdacbc25151990a4d08]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-182c6923b1204cdacbc25151990a4d08]: Commencement: S. 81 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-182c6923b1204cdacbc25151990a4d08]: Commencement: S. 81 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

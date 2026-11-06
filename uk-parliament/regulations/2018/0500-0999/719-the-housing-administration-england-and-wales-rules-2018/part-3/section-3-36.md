@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.36. Expenses[^key-0eca8c023d15a6e82f64321594edca01]
+## 3.36. Expenses[^c-0eca8c023d15a6e82f64321594edca01]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0eca8c023d15a6e82f64321594edca01]: Commencement: Rule 3.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0eca8c023d15a6e82f64321594edca01]: Commencement: Rule 3.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

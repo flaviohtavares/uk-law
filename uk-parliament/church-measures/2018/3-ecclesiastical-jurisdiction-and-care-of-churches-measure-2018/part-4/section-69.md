@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 69. Costs orders against person responsible for act or default[^key-8250e3c11cbadf33e0ddec635412a208]
+## 69. Costs orders against person responsible for act or default[^c-8250e3c11cbadf33e0ddec635412a208]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8250e3c11cbadf33e0ddec635412a208]: Commencement: [S. 69](https://www.legislation.gov.uk/ukcm/2018/3/section/69) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-8250e3c11cbadf33e0ddec635412a208]: Commencement: [S. 69](https://www.legislation.gov.uk/ukcm/2018/3/section/69) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

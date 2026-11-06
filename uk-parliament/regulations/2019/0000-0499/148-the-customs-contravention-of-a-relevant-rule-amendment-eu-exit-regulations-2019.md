@@ -48,7 +48,7 @@ The Treasury make these Regulations in exercise of their powers in section 26(1)
 
 The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that regulation 2 of these Regulations come into force on such day as the Treasury may appoint under section 52(2) of the Taxation (Cross-border Trade) Act 2018 [^c23544791].
 
-## 1. Citation and commencement[^key-01432beddacec5290eb5fcea93b4d0ec]
+## 1. Citation and commencement[^c-01432beddacec5290eb5fcea93b4d0ec]
 
 (1) These Regulations may be cited as the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2019.
 
@@ -56,7 +56,7 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 (3) Regulation 2 comes into force on such day as the Treasury may appoint.
 
-## 2. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-50d839f4beed70fee719e815785a6cc1][^key-83931cfe9777ea2c37fe8e60cf162459]
+## 2. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-50d839f4beed70fee719e815785a6cc1][^c-83931cfe9777ea2c37fe8e60cf162459]
 
 (1) The Customs (Contravention of a Relevant Rule) Regulations 2003 [^c23544801] are amended as follows.
 
@@ -89,15 +89,15 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 > | Regulation 38(1)<br>Requirement to allow access to EIDR electronic system or provide information.<br>An authorised EIDR export declarant must, when required to do so by an HMRC officer:<br>(a) allow an officer access to the EIDR electronic system operated by the declarant; or<br>(b) provide to the officer, from that system, information which the officer reasonably requires in order to verify EIDR records, or other records showing whether or not any goods have been exported which are subject to a prohibition or restriction on export imposed under an enactment. | The authorised EIDR export declarant. | £2,500. |
 > | Regulation 40(1), (3), (4) and (5)<br>Save where regulation 40(1) is disapplied by regulation 40(2), goods, in respect of which an export declaration has been made, must be made available, by the person specified in regulation 40(3) (“A”) or (where applicable) the person required to do so in regulation 40(4) (“B”), for examination at an appropriate place within a period of 30 days beginning with the day on which the declaration was made and A or (where applicable) B, must give HMRC a notification setting out when and where the goods are to be made so available. | A or (where applicable) B. | £2,500. |
 > | Regulation 41(3)<br>To comply immediately or at a specified time with the requirements to:<br>(a) provide information (and documents) to the officer as specified by the officer;<br>(b) handle goods, or otherwise deal with them, in accordance with instructions given by the officer (whether given orally or in any other way), or<br>(c) keep the goods in any place specified by the officer. | The person required by an HMRC officer to comply with the requirement. | £1,000. |
-> | **Discharge from a common export procedure[^key-a203b263eda2b17d32e3fb22d881df27]** |  |  |
+> | **Discharge from a common export procedure[^c-a203b263eda2b17d32e3fb22d881df27]** |  |  |
 > | Regulation 50(3) and (4)<br>A person who exported goods that have been presented to Customs on export is required to inform HMRC that the goods have been exported except if they secure that another person (“P”) is to do it on their behalf. | The person who exported the goods or (where applicable) P. | £2,500. |
 > | **Presentation of goods on export** |  |  |
 > | The Customs (Export) (EU Exit) Regulations 2019 |  |  |
 > | Regulation 51(1), (2) and (3)<br>A person mentioned in regulation 51(2) must give a notification of export of goods to HMRC, except where another person mentioned in regulation 51(2) has given it, or is deemed to have given it, prior to the export of the goods and in compliance with regulation 51(4) to (6). | A person mentioned in regulation 51(2) who is required to give the notification. | £2,500. |
 > | **Goods exported from RoRo listed locations** |  |  |
 > | The Customs (Export) (EU Exit) Regulations 2019 |  |  |
-> | Regulation 54(2)<br>Where goods are carried by RoRo vehicles to, and are exported on RoRo vehicles from, RoRo listed locations goods must be made available for examination—<br>(a) in cases specified in a notice which may be given by HMRC; or<br>(b) if an HMRC officer requires that the goods are available for examination [^key-00ec48cb0024c3c915f7886b358a1e39].... | The person who made the export declaration (E) or (where applicable) a person who has been secured by E to make the goods available for examination on E's behalf. | £2,500. |
-> | **Unaccompanied goods[^key-e4c760d9eb9f63282a7533c5e652048e]** |  |  |
+> | Regulation 54(2)<br>Where goods are carried by RoRo vehicles to, and are exported on RoRo vehicles from, RoRo listed locations goods must be made available for examination—<br>(a) in cases specified in a notice which may be given by HMRC; or<br>(b) if an HMRC officer requires that the goods are available for examination [^c-00ec48cb0024c3c915f7886b358a1e39].... | The person who made the export declaration (E) or (where applicable) a person who has been secured by E to make the goods available for examination on E's behalf. | £2,500. |
+> | **Unaccompanied goods[^c-e4c760d9eb9f63282a7533c5e652048e]** |  |  |
 > | The Customs (Export) (EU Exit) Regulations 2019 |  |  |
 > | Regulation 54B(1)<br>Where goods are exported on a through train from St Pancras International goods must be made available for examination—<br>(a) in cases specified in a notice which may be given by HMRC; or<br>(b) if an HMRC officer requires that the goods are available for examination. | The person who made the export declaration (E) or (where applicable) a person who has been secured by E to make the goods available for examination on E's behalf. | £2,500. |
 > | **Customs agents** |  |  |
@@ -109,7 +109,7 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 .
 
-## 3. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^key-4f6af235042ac99f476b3fce7bc630ca]
+## 3. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^c-4f6af235042ac99f476b3fce7bc630ca]
 
 (1) The Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations [^c23544871] are amended as follows.
 
@@ -157,11 +157,11 @@ This instrument will be covered by an overarching HMRC impact assessment (second
 
 [^c23544791]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-01432beddacec5290eb5fcea93b4d0ec]: Commencement: Reg. 1 in force at 19.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/2)
+[^c-01432beddacec5290eb5fcea93b4d0ec]: Commencement: Reg. 1 in force at 19.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/2)
 
-[^key-50d839f4beed70fee719e815785a6cc1]: Commencement: Reg. 2 not in force at made date, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/3)
+[^c-50d839f4beed70fee719e815785a6cc1]: Commencement: Reg. 2 not in force at made date, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/3)
 
-[^key-83931cfe9777ea2c37fe8e60cf162459]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-83931cfe9777ea2c37fe8e60cf162459]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23544801]: Marginal citation: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113) amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), [2011/2534](https://www.legislation.gov.uk/uksi/2011/2534), [2015/636](https://www.legislation.gov.uk/uksi/2015/636), [2018/483](https://www.legislation.gov.uk/uksi/2018/483) and [2018/1260](https://www.legislation.gov.uk/uksi/2018/1260).
 
@@ -175,15 +175,15 @@ This instrument will be covered by an overarching HMRC impact assessment (second
 
 [^c23544851]: Marginal citation: “Simplified export declaration process” is defined in regulation 31(1) of [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108).
 
-[^key-a203b263eda2b17d32e3fb22d881df27]: Textual amendment: Words in reg. 2(4) inserted (29.3.2019) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2019/486/regulation/12/2)
+[^c-a203b263eda2b17d32e3fb22d881df27]: Textual amendment: Words in reg. 2(4) inserted (29.3.2019) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 (S.I. 2019/486)](https://www.legislation.gov.uk/uksi/2019/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/486/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2019/486/regulation/12/2)
 
-[^key-00ec48cb0024c3c915f7886b358a1e39]: Textual amendment: Words in reg. 2(4) omitted (31.12.2020) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/8/2/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-00ec48cb0024c3c915f7886b358a1e39]: Textual amendment: Words in reg. 2(4) omitted (31.12.2020) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/8/2/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e4c760d9eb9f63282a7533c5e652048e]: Textual amendment: Words in reg. 2(4) inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/8/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e4c760d9eb9f63282a7533c5e652048e]: Textual amendment: Words in reg. 2(4) inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/8/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23544861]: Marginal citation: “Customs agent” is defined in section 21 of the TCBA.
 
-[^key-4f6af235042ac99f476b3fce7bc630ca]: Commencement: Reg. 3 in force at 19.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/2)
+[^c-4f6af235042ac99f476b3fce7bc630ca]: Commencement: Reg. 3 in force at 19.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/148/regulation/1/2)
 
 [^c23544871]: Marginal citation: [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260).
 

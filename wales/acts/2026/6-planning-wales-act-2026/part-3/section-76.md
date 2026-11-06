@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Decision on application after service of notice of appeal[^key-d23513e2987e42fc4e2ed55a3dc755be]
+## 76. Decision on application after service of notice of appeal[^c-d23513e2987e42fc4e2ed55a3dc755be]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d23513e2987e42fc4e2ed55a3dc755be]: Commencement: S. 76 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d23513e2987e42fc4e2ed55a3dc755be]: Commencement: S. 76 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Duty to keep fans informed of insolvency proceedings[^key-a55ade2816375e5f2f91b4c29c123abb][^key-0e8e746157e52a0af38458bbc21acbad]
+## 51. Duty to keep fans informed of insolvency proceedings[^c-a55ade2816375e5f2f91b4c29c123abb][^c-0e8e746157e52a0af38458bbc21acbad]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a55ade2816375e5f2f91b4c29c123abb]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-a55ade2816375e5f2f91b4c29c123abb]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-0e8e746157e52a0af38458bbc21acbad]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/21/section/51) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/iv)
+[^c-0e8e746157e52a0af38458bbc21acbad]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/21/section/51) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/iv)

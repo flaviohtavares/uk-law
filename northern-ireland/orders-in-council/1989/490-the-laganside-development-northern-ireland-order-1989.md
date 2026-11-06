@@ -196,7 +196,7 @@ The Department may carry out or give financial assistance towards the carrying o
 
 #### 16. Consultation with the Department of the Environment on planning matters[^c19975071]
 
-Where under the Planning Act (Northern Ireland) 2011[^key-a2d22ea8d9def668fd03dfb78e6fef1a], the Department of the Environment is required to consult with the Belfast City Council about any matter relating to or affecting the designated area or land in that area, that department shall also consult with the Department about that matter.
+Where under the Planning Act (Northern Ireland) 2011[^c-a2d22ea8d9def668fd03dfb78e6fef1a], the Department of the Environment is required to consult with the Belfast City Council about any matter relating to or affecting the designated area or land in that area, that department shall also consult with the Department about that matter.
 
 ### Powers in relation to the river
 
@@ -458,7 +458,7 @@ Articles 17(4)and 18(6).
 
 ### Approval of Department and of Department of Agriculture
 
-**1.**[^key-bb4ae0029330dc822ef68a4efd098b6b] (1) The Department[^c19979381] shall not execute any works under Article 17 unless those works have been approved [^c19979411]. . . by the Department of Agriculture.
+**1.**[^c-bb4ae0029330dc822ef68a4efd098b6b] (1) The Department[^c19979381] shall not execute any works under Article 17 unless those works have been approved [^c19979411]. . . by the Department of Agriculture.
 
 (2) An approval under sub‐paragraph (1) may be given subject to such terms and conditions as [^c19979441]. . . the Department of Agriculture thinks fit.
 
@@ -639,7 +639,7 @@ The Department may by order make such transitional, consequential or supplementa
 
 [^c19975071]: Textual amendment: Art. 16 substituted (1.4.2007) by [Laganside Corporation Dissolution Order (Northern Ireland) 2006 (S.R. 2006/527)](https://www.legislation.gov.uk/nisr/2006/527), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/527/article/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2006/527/article/5/1), [Sch. 2 Pt. 1 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/527/schedule/2/part/1/paragraph/1/5)
 
-[^key-a2d22ea8d9def668fd03dfb78e6fef1a]: Textual amendment: Words in art. 16 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 53](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/53) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-a2d22ea8d9def668fd03dfb78e6fef1a]: Textual amendment: Words in art. 16 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 53](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/53) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c19975181]: Textual amendment: Word in [art. 17(1)](https://www.legislation.gov.uk/nisi/1989/490/article/17/1) substituted (1.4.2007) by [Laganside Corporation Dissolution Order (Northern Ireland) 2006 (S.R. 2006/527)](https://www.legislation.gov.uk/nisr/2006/527), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/527/article/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2006/527/article/5/1), [Sch. 2 Pt. 1 para. 1(1)(e)](https://www.legislation.gov.uk/nisr/2006/527/schedule/2/part/1/paragraph/1/1/e)
 
@@ -739,7 +739,7 @@ The Department may by order make such transitional, consequential or supplementa
 
 [^c21020001]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/1989/490/schedule/1/paragraph/20) repealed (1.7.2007) by [Laganside Corporation Dissolution Order (Northern Ireland) 2006 (S.R. 2006/527)](https://www.legislation.gov.uk/nisr/2006/527), [arts. 1(3)(c)(iii)](https://www.legislation.gov.uk/nisr/2006/527/article/1/3/c/iii), [5(2)](https://www.legislation.gov.uk/nisr/2006/527/article/5/2), [Sch. 2 Pt. 2 para. 1(9)](https://www.legislation.gov.uk/nisr/2006/527/schedule/2/part/2/paragraph/1/9);
 
-[^key-bb4ae0029330dc822ef68a4efd098b6b]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/1989/490/schedule/2/paragraph/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bb4ae0029330dc822ef68a4efd098b6b]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/1989/490/schedule/2/paragraph/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c19979381]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisi/1989/490/schedule/2/paragraph/1/1) substituted (1.4.2007) by [Laganside Corporation Dissolution Order (Northern Ireland) 2006 (S.R. 2006/527)](https://www.legislation.gov.uk/nisr/2006/527), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/527/article/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2006/527/article/5/1), [Sch. 2 Pt. 1 para. 1(1)(k)](https://www.legislation.gov.uk/nisr/2006/527/schedule/2/part/1/paragraph/1/1/k)
 

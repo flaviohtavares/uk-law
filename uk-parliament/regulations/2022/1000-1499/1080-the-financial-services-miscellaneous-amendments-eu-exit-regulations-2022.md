@@ -32,7 +32,7 @@ Exiting The European Union
 
 Financial Services
 
-[^key-61e54ead5e8e5d6baad280b93445a5a6]The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022
+[^c-61e54ead5e8e5d6baad280b93445a5a6]The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022
 
 Sift requirements satisfied
 
@@ -56,7 +56,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — General provision
 
-### 1. Citation, commencement and extent[^key-a19c19f8e18e6d454b517dca7aafcacf]
+### 1. Citation, commencement and extent[^c-a19c19f8e18e6d454b517dca7aafcacf]
 
 (1) These Regulations may be cited as the Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2022.
 
@@ -66,11 +66,11 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendment of secondary legislation
 
-### 2. Amendment of the Payment Services Regulations 2017[^key-a37583d5b409aa20d61b1b7f57b53c73]
+### 2. Amendment of the Payment Services Regulations 2017[^c-a37583d5b409aa20d61b1b7f57b53c73]
 
 In regulation 14(8)(b) (conditions for registration as a small payment institution) of the Payment Services Regulations 2017[^f00002], for “which is not an EEA State” substitute “outside the United Kingdom”.
 
-### 3. Amendment of the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018[^key-758c6cae2f9cfbe3c18694e72bc73ae8]
+### 3. Amendment of the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018[^c-758c6cae2f9cfbe3c18694e72bc73ae8]
 
 (1) Part 6 (transitional provisions) of the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018[^f00003] is amended as follows.
 
@@ -100,7 +100,7 @@ In regulation 14(8)(b) (conditions for registration as a small payment instituti
 
 (4) At the end of regulation 19C(1) insert “or 17(5A)”.
 
-### 4. Amendment of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^key-a704f867b0934412a6722950420b0180]
+### 4. Amendment of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^c-a704f867b0934412a6722950420b0180]
 
 (1) Regulation 200 (giving, and effect, of transitional directions) of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^f00004] is amended as follows.
 
@@ -129,7 +129,7 @@ In regulation 14(8)(b) (conditions for registration as a small payment instituti
 
 ## PART 3 — Amendment of retained EU law
 
-### 5. Amendment of Regulation [(EC) No 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060)[^key-6ba52e95be7d5e2796d6e3dd3ad98eca]
+### 5. Amendment of Regulation [(EC) No 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060)[^c-6ba52e95be7d5e2796d6e3dd3ad98eca]
 
 (1) Regulation [(EC) No 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060) of the European Parliament and of the Council of 16 September 2009 on credit rating agencies[^f00008] is amended as follows.
 
@@ -137,7 +137,7 @@ In regulation 14(8)(b) (conditions for registration as a small payment instituti
 
 (3) In Article 34 (agreement on exchange of information), for “guarantees of professional secrecy which are at least equivalent to those set out in Article 32” substitute “conditions for the protection of confidential information that are, at least, equivalent to those under the Financial Services and Markets Act 2000[^f00009]”.
 
-### 6. Amendment of Regulation (EU) 2017/2402[^key-61e54ead5e8e5d6baad280b93445a5a6]
+### 6. Amendment of Regulation (EU) 2017/2402[^c-61e54ead5e8e5d6baad280b93445a5a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -169,21 +169,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-61e54ead5e8e5d6baad280b93445a5a6]: Textual amendment: Regulations revoked (1.11.2024 for the revocation of reg. 6) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/e/i)
+[^c-61e54ead5e8e5d6baad280b93445a5a6]: Textual amendment: Regulations revoked (1.11.2024 for the revocation of reg. 6) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/e/i)
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a19c19f8e18e6d454b517dca7aafcacf]: Commencement: Reg. 1 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
+[^c-a19c19f8e18e6d454b517dca7aafcacf]: Commencement: Reg. 1 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
 
-[^key-a37583d5b409aa20d61b1b7f57b53c73]: Commencement: Reg. 2 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
+[^c-a37583d5b409aa20d61b1b7f57b53c73]: Commencement: Reg. 2 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752). Regulation 14 was amended by the Sanctions and Anti-Money Laundering Act [2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), section 59 and paragraph 9 of Part 2 of Schedule 3 and [S.I. 2019/577](https://www.legislation.gov.uk/uksi/2019/577) and [2020/591](https://www.legislation.gov.uk/uksi/2020/591).
 
-[^key-758c6cae2f9cfbe3c18694e72bc73ae8]: Commencement: Reg. 3 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
+[^c-758c6cae2f9cfbe3c18694e72bc73ae8]: Commencement: Reg. 3 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184). Relevant amending instruments are [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405), [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56) and [2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 
-[^key-a704f867b0934412a6722950420b0180]: Commencement: Reg. 4 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
+[^c-a704f867b0934412a6722950420b0180]: Commencement: Reg. 4 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632). Regulation 200 was amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301).
 
@@ -193,7 +193,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: A copy of this direction is available at https://www.fca.org.uk/publication/handbook/direction-derivatives-trading-obligation.pdf and may be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN.
 
-[^key-6ba52e95be7d5e2796d6e3dd3ad98eca]: Commencement: Reg. 5 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
+[^c-6ba52e95be7d5e2796d6e3dd3ad98eca]: Commencement: Reg. 5 in force at 15.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1080/regulation/1/2)
 
 [^f00008]: Footnote: [EUR 1060/2009](https://www.legislation.gov.uk/european/regulation/2009/1060), amended by [S.I. 2019/266](https://www.legislation.gov.uk/uksi/2019/266).
 

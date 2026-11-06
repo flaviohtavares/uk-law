@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Provision of milk, meals and related facilities[^key-5baee047ca5035cbff08a3305853d8bf][^key-211c6a91797630e0bab775e53c060a4e]
+## 58. Provision of milk, meals and related facilities[^c-5baee047ca5035cbff08a3305853d8bf][^c-211c6a91797630e0bab775e53c060a4e]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 *Para. (2) rep. by 1997 NI 15*
 
-(3) A board may, with the consent of the proprietor of any independent school [^key-a4152ccc5bebd077f645588388861a43]..., and on such financial and other terms, if any, as may be agreed between the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] and the proprietor of the school, make arrangements for securing the provision of milk, meals or other refreshment for pupils in attendance at the school but any such arrangements shall be such as to secure, so far as is practicable, that the expense incurred by the Authority in connection with the provision under the arrangements of any service or article shall not exceed the expense which would have been incurred by it in the provision thereof if the pupil had been a pupil at a grant-aided school.
+(3) A board may, with the consent of the proprietor of any independent school [^c-a4152ccc5bebd077f645588388861a43]..., and on such financial and other terms, if any, as may be agreed between the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] and the proprietor of the school, make arrangements for securing the provision of milk, meals or other refreshment for pupils in attendance at the school but any such arrangements shall be such as to secure, so far as is practicable, that the expense incurred by the Authority in connection with the provision under the arrangements of any service or article shall not exceed the expense which would have been incurred by it in the provision thereof if the pupil had been a pupil at a grant-aided school.
 
 (4) A board may, in accordance with arrangements approved by the Department, provide milk, meals or other refreshment for persons (including pupils) of such description as the Department may determine not being pupils for whom the Authority is required to make provision under paragraph (1) or may make provision under paragraph [^c17007771] ... (3).
 
@@ -47,15 +47,15 @@ summary: ''
 
 ## Annotations
 
-[^key-5baee047ca5035cbff08a3305853d8bf]: Modification: Art. 58 power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-5baee047ca5035cbff08a3305853d8bf]: Modification: Art. 58 power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-211c6a91797630e0bab775e53c060a4e]: Modification: [Art. 58](https://www.legislation.gov.uk/nisi/1986/594/article/58) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-211c6a91797630e0bab775e53c060a4e]: Modification: [Art. 58](https://www.legislation.gov.uk/nisi/1986/594/article/58) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17007741]: Textual amendment: [1989 NI 20](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-a4152ccc5bebd077f645588388861a43]: Textual amendment: Words in art. 58(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a4152ccc5bebd077f645588388861a43]: Textual amendment: Words in art. 58(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17007771]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 

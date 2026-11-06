@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Set-off[^key-1a7e16bdd55797749e3e93b4068a5255]
+## 126. Set-off[^c-1a7e16bdd55797749e3e93b4068a5255]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a7e16bdd55797749e3e93b4068a5255]: Commencement: Reg. 126 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-1a7e16bdd55797749e3e93b4068a5255]: Commencement: Reg. 126 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -24,9 +24,9 @@ Section 79
 
 ### Functions of CMA to be discharged by group
 
-**1.**[^key-5f02d247a624e02a5fbd7b45520b31ea] Except where specified otherwise in this Schedule, the functions of the CMA with respect to an appeal are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.
+**1.**[^c-5f02d247a624e02a5fbd7b45520b31ea] Except where specified otherwise in this Schedule, the functions of the CMA with respect to an appeal are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013.
 
-**2.**[^key-6f2af10d5bd78215c06234c25860e1c2] (1) Schedule 4 to the Enterprise and Regulatory Reform Act 2013 is amended as follows.
+**2.**[^c-6f2af10d5bd78215c06234c25860e1c2] (1) Schedule 4 to the Enterprise and Regulatory Reform Act 2013 is amended as follows.
 
 (2) In paragraph 35(1) (membership of CMA panel), after paragraph (c) insert—
 
@@ -44,7 +44,7 @@ Section 79
 
 ### Application for permission to bring appeal
 
-**3.**[^key-501e258513d3c8eb9ea203feb6484282] (1) An application for permission to bring an appeal may be made only by sending a notice to the CMA requesting the permission.
+**3.**[^c-501e258513d3c8eb9ea203feb6484282] (1) An application for permission to bring an appeal may be made only by sending a notice to the CMA requesting the permission.
 
 (2) An application for permission to appeal must be accompanied by all such information as may be required by appeal rules.
 
@@ -86,7 +86,7 @@ Section 79
 
 ### Suspension of decision
 
-**4.**[^key-eaa8cb0a4b01cf4d874e104c1a722604] (1) The CMA may direct that, pending the determination of an appeal against a decision of the Payment Systems Regulator—
+**4.**[^c-eaa8cb0a4b01cf4d874e104c1a722604] (1) The CMA may direct that, pending the determination of an appeal against a decision of the Payment Systems Regulator—
 
 - (a) the decision is not to have effect, or
 - (b) the decision is not to have effect to such extent as may be specified in the direction.
@@ -115,7 +115,7 @@ Section 79
 
 ### Time limit for representations and observations by the Regulator
 
-**5.**[^key-1e301f0fe6f762d6f1d32ab042c667de] (1) Sub-paragraph (2) applies where the Payment Systems Regulator wishes to make representations or observations to the CMA in relation to—
+**5.**[^c-1e301f0fe6f762d6f1d32ab042c667de] (1) Sub-paragraph (2) applies where the Payment Systems Regulator wishes to make representations or observations to the CMA in relation to—
 
 - (a) an application for permission to bring an appeal under paragraph 3;
 - (b) an application for a direction under paragraph 4.
@@ -133,7 +133,7 @@ Section 79
 
 ### Consideration and determination of appeal by group
 
-**6.**[^key-3a99f263a5ad5eb4f117cf4678031e20] (1) A group constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 for the purpose of carrying out functions of the CMA with respect to an appeal must consist of three members of the CMA panel.
+**6.**[^c-3a99f263a5ad5eb4f117cf4678031e20] (1) A group constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 for the purpose of carrying out functions of the CMA with respect to an appeal must consist of three members of the CMA panel.
 
 (2) A decision of the group is effective if, and only if—
 
@@ -142,7 +142,7 @@ Section 79
 
 ### Time limits for determining appeal
 
-**7.**[^key-caebee43d84be7950fc631138bd14576] (1) The CMA must determine an appeal within the period of 6 months beginning with the permission date.
+**7.**[^c-caebee43d84be7950fc631138bd14576] (1) The CMA must determine an appeal within the period of 6 months beginning with the permission date.
 
 (2) If—
 
@@ -160,7 +160,7 @@ the CMA must determine the appeal within the period specified by it, which must 
 
 ### Matters to be considered on appeal
 
-**8.**[^key-09b0ff4ba281fec11b17aa4500ab0dd3] (1) The CMA, if it thinks it necessary to do so for the purpose of securing the determination of an appeal within the period provided for by paragraph 7, may disregard—
+**8.**[^c-09b0ff4ba281fec11b17aa4500ab0dd3] (1) The CMA, if it thinks it necessary to do so for the purpose of securing the determination of an appeal within the period provided for by paragraph 7, may disregard—
 
 - (a) any or all matters raised by an appellant that were not raised by that appellant at the time of the relevant application, and
 - (b) any or all matters raised by the Payment Systems Regulator that were not contained in representations or observations made for the purposes of the appeal in accordance with paragraph 5.
@@ -169,7 +169,7 @@ the CMA must determine the appeal within the period specified by it, which must 
 
 ### Production of documents etc
 
-**9.**[^key-56f4d157489a56aad12c0a072cd39b5d] (1) For the purposes of this Schedule, the CMA may by notice—
+**9.**[^c-56f4d157489a56aad12c0a072cd39b5d] (1) For the purposes of this Schedule, the CMA may by notice—
 
 - (a) require a person to produce to the CMA the documents specified or otherwise identified in the notice;
 - (b) require any person who carries on a business to supply to the CMA such estimates, forecasts, returns or other information as may be specified or described in the notice in relation to that business.
@@ -190,7 +190,7 @@ the CMA must determine the appeal within the period specified by it, which must 
 
 ### Oral hearings
 
-**10.**[^key-f2cd3a41d3a8ae8fb3ad0df4e5af22d8] (1) For the purposes of this Schedule an oral hearing may be held, and evidence may be taken on oath—
+**10.**[^c-f2cd3a41d3a8ae8fb3ad0df4e5af22d8] (1) For the purposes of this Schedule an oral hearing may be held, and evidence may be taken on oath—
 
 - (a) by a person considering an application for permission to bring an appeal under paragraph 3,
 - (b) by a person considering an application for a direction under paragraph 4, or
@@ -223,7 +223,7 @@ and, for that purpose, such a person or group may administer oaths.
 
 ### Written statements
 
-**11.**[^key-edf4e5a81bb5b179c686842230125b1c] (1) The CMA may by notice require a person to produce a written statement with respect to a matter specified in the notice to—
+**11.**[^c-edf4e5a81bb5b179c686842230125b1c] (1) The CMA may by notice require a person to produce a written statement with respect to a matter specified in the notice to—
 
 - (a) a person who is considering, or is to consider, an application for a direction under paragraph 4, or
 - (b) a group with the function of determining an appeal.
@@ -241,11 +241,11 @@ and a statement required to be so verified must be disregarded unless it is so v
 
 ### Expert advice
 
-**12.**[^key-ba2aedfd43da1f4f4342a1e9e6b8c07e] Where permission to bring an appeal is granted under paragraph 3, the CMA may commission expert advice with respect to any matter raised by a party to the appeal.
+**12.**[^c-ba2aedfd43da1f4f4342a1e9e6b8c07e] Where permission to bring an appeal is granted under paragraph 3, the CMA may commission expert advice with respect to any matter raised by a party to the appeal.
 
 ### Defaults in relation to evidence
 
-**13.**[^key-f0be829155f03965fbafa2b328ed2eb2] (1) If a person (“**the defaulter**”)—
+**13.**[^c-f0be829155f03965fbafa2b328ed2eb2] (1) If a person (“**the defaulter**”)—
 
 - (a) fails to comply with a notice issued or other requirement imposed under paragraph 9, 10 or 11,
 - (b) in complying with a notice under paragraph 11, makes a statement that is false in any material particular, or
@@ -262,19 +262,19 @@ an authorised member of the CMA may certify that fact to the court.
 - (a) the High Court, or
 - (b) in Scotland, the Court of Session.
 
-**14.**[^key-7d223244be880f747d109f0123a651fe] (1) A person who wilfully alters, suppresses or destroys a document which the person has been required to produce under paragraph 9 is guilty of an offence.
+**14.**[^c-7d223244be880f747d109f0123a651fe] (1) A person who wilfully alters, suppresses or destroys a document which the person has been required to produce under paragraph 9 is guilty of an offence.
 
 (2) A person guilty of an offence under this paragraph is liable—
 
 - (a) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-f953ce86e069a302419a3416517b516a] (or 6 months, if the offence was committed before 2 May 2022[^key-ebc4b66ce032a1665fc2d8f3d3626899]) or a fine, or both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-f953ce86e069a302419a3416517b516a] (or 6 months, if the offence was committed before 2 May 2022[^c-ebc4b66ce032a1665fc2d8f3d3626899]) or a fine, or both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum, or both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum, or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both.
 
 ### Determination of appeal by CMA
 
-**15.**[^key-cc715b1c639e4b972f3581f1221f0540] (1) A determination by the CMA on an appeal—
+**15.**[^c-cc715b1c639e4b972f3581f1221f0540] (1) A determination by the CMA on an appeal—
 
 - (a) must be contained in an order made by the CMA;
 - (b) must set out the reasons for the determination;
@@ -298,7 +298,7 @@ an authorised member of the CMA may certify that fact to the court.
 
 ### Appeal rules
 
-**16.**[^key-0352b02676b317a81a5e646221a150b9] (1) The CMA Board may make rules of procedure regulating the conduct and disposal of appeals.
+**16.**[^c-0352b02676b317a81a5e646221a150b9] (1) The CMA Board may make rules of procedure regulating the conduct and disposal of appeals.
 
 (2) Those rules may include provision supplementing the provisions of this Schedule in relation to any application, notice, hearing, power or requirement for which this Schedule provides; and that provision may, in particular, impose time limits or other restrictions on—
 
@@ -313,7 +313,7 @@ an authorised member of the CMA may certify that fact to the court.
 
 ### Costs
 
-**17.**[^key-2108ca5f333f589f615b9d7c8e33a163] (1) A group that determines an appeal must make an order requiring the payment to the CMA of the costs incurred by the CMA in connection with the appeal.
+**17.**[^c-2108ca5f333f589f615b9d7c8e33a163] (1) A group that determines an appeal must make an order requiring the payment to the CMA of the costs incurred by the CMA in connection with the appeal.
 
 (2) An order under sub-paragraph (1) must require those costs to be paid—
 
@@ -331,7 +331,7 @@ an authorised member of the CMA may certify that fact to the court.
 
 ### Interpretation
 
-**18.**[^key-2a784b45e43ce9eef6e855452c9d966f] (1) In this Schedule—
+**18.**[^c-2a784b45e43ce9eef6e855452c9d966f] (1) In this Schedule—
 
 - “**appeal**” means an appeal made in accordance with section 79;
 - “**appeal rules**” means rules of procedure under paragraph 16;
@@ -357,42 +357,42 @@ an authorised member of the CMA may certify that fact to the court.
 
 ## Annotations
 
-[^key-5f02d247a624e02a5fbd7b45520b31ea]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/1) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-5f02d247a624e02a5fbd7b45520b31ea]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/1) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-6f2af10d5bd78215c06234c25860e1c2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/2) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-6f2af10d5bd78215c06234c25860e1c2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/2) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-501e258513d3c8eb9ea203feb6484282]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/3) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-501e258513d3c8eb9ea203feb6484282]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/3) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-eaa8cb0a4b01cf4d874e104c1a722604]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/4) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-eaa8cb0a4b01cf4d874e104c1a722604]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/4) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-1e301f0fe6f762d6f1d32ab042c667de]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/5) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-1e301f0fe6f762d6f1d32ab042c667de]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/5) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-3a99f263a5ad5eb4f117cf4678031e20]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/6) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-3a99f263a5ad5eb4f117cf4678031e20]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/6) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-caebee43d84be7950fc631138bd14576]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/7) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-caebee43d84be7950fc631138bd14576]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/7) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-09b0ff4ba281fec11b17aa4500ab0dd3]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/8) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-09b0ff4ba281fec11b17aa4500ab0dd3]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/8) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-56f4d157489a56aad12c0a072cd39b5d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/9) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-56f4d157489a56aad12c0a072cd39b5d]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/9) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-f2cd3a41d3a8ae8fb3ad0df4e5af22d8]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/10) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-f2cd3a41d3a8ae8fb3ad0df4e5af22d8]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/10) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-edf4e5a81bb5b179c686842230125b1c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/11) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-edf4e5a81bb5b179c686842230125b1c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/11) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-ba2aedfd43da1f4f4342a1e9e6b8c07e]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/12) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-ba2aedfd43da1f4f4342a1e9e6b8c07e]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/12) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-f0be829155f03965fbafa2b328ed2eb2]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/13) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-f0be829155f03965fbafa2b328ed2eb2]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/13) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-7d223244be880f747d109f0123a651fe]: Commencement: Sch. 5 para. 14 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-7d223244be880f747d109f0123a651fe]: Commencement: Sch. 5 para. 14 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-f953ce86e069a302419a3416517b516a]: Textual amendment: Words in [Sch. 5 para. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/14/2/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-f953ce86e069a302419a3416517b516a]: Textual amendment: Words in [Sch. 5 para. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/14/2/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-ebc4b66ce032a1665fc2d8f3d3626899]: Textual amendment: Words in [Sch. 5 para. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/14/2/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-ebc4b66ce032a1665fc2d8f3d3626899]: Textual amendment: Words in [Sch. 5 para. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/14/2/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-cc715b1c639e4b972f3581f1221f0540]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/15) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-cc715b1c639e4b972f3581f1221f0540]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/15) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-0352b02676b317a81a5e646221a150b9]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/16) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-0352b02676b317a81a5e646221a150b9]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/16) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-2108ca5f333f589f615b9d7c8e33a163]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/17) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-2108ca5f333f589f615b9d7c8e33a163]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/17) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-2a784b45e43ce9eef6e855452c9d966f]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/18) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-2a784b45e43ce9eef6e855452c9d966f]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/5/paragraph/18) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

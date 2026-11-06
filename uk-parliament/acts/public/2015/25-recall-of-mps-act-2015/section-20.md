@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Minor and consequential amendments[^c22525381][^key-71c63767836e0830d46e9e49c4d8ff1e]
+## 20. Minor and consequential amendments[^c22525381][^c-71c63767836e0830d46e9e49c4d8ff1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 6 contains minor and consequential amendments.
 
 [^c22525381]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/25/section/20) partly in force; [s. 20](https://www.legislation.gov.uk/ukpga/2015/25/section/20) in force at Royal Assent for specified purposes, see [s. 24(2)(g)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/g)
 
-[^key-71c63767836e0830d46e9e49c4d8ff1e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/25/section/20) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-71c63767836e0830d46e9e49c4d8ff1e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/25/section/20) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

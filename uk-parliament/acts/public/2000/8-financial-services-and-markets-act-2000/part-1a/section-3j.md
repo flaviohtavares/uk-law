@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3J. Power of PRA in relation to with-profits policies[^key-be3129bde1f0cd69f9f76c3010407be8][^key-213c415ae170f27ccc3cbe5ebbb68cce]
+## 3J. Power of PRA in relation to with-profits policies[^c-be3129bde1f0cd69f9f76c3010407be8][^c-213c415ae170f27ccc3cbe5ebbb68cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (7) The direction may be expressed to have effect during a specified period or until revoked.
 
-(8) The FCA is not required to comply with a direction under this section if or to the extent that in the opinion of the FCA compliance would be incompatible with any [^key-a2a1e1e0f3179d79bf316290ea96c849]... international obligation of the United Kingdom.
+(8) The FCA is not required to comply with a direction under this section if or to the extent that in the opinion of the FCA compliance would be incompatible with any [^c-a2a1e1e0f3179d79bf316290ea96c849]... international obligation of the United Kingdom.
 
 (9) Subsections (1) to (8) apply only if the effecting or carrying out of with-profits policies is a PRA-regulated activity.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-be3129bde1f0cd69f9f76c3010407be8]: Modification: Ss. 3I-3K applied (with modifications) (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 1 paras. 2(2)(e)](https://www.legislation.gov.uk/uksi/2018/323/schedule/1/paragraph/2/2/e), [3](https://www.legislation.gov.uk/uksi/2018/323/schedule/1/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-be3129bde1f0cd69f9f76c3010407be8]: Modification: Ss. 3I-3K applied (with modifications) (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 1 paras. 2(2)(e)](https://www.legislation.gov.uk/uksi/2018/323/schedule/1/paragraph/2/2/e), [3](https://www.legislation.gov.uk/uksi/2018/323/schedule/1/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-213c415ae170f27ccc3cbe5ebbb68cce]: Textual amendment: Pt. 1A substituted for Pt. 1 (24.1.2013 for specified purposes, 19.2.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), [4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-a2a1e1e0f3179d79bf316290ea96c849]: Textual amendment: Words in [s. 3J(8)](https://www.legislation.gov.uk/ukpga/2000/8/section/3J/8) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/632/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2a1e1e0f3179d79bf316290ea96c849]: Textual amendment: Words in [s. 3J(8)](https://www.legislation.gov.uk/ukpga/2000/8/section/3J/8) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/632/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

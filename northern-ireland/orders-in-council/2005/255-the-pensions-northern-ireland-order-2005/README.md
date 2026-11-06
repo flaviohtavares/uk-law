@@ -27,7 +27,7 @@ summary: ''
 
 2005 No. 255 (N.I. 1)
 
-The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289][^key-61d6110c6683fc2a0d43c82ffa71237b]
+The Pensions (Northern Ireland) Order 2005[^c-628ba7cfb57f3f836f85e3f5eaf58289][^c-61d6110c6683fc2a0d43c82ffa71237b]
 
 9th February 2005 [^c21179911][^c21456821][^c22541011]
 
@@ -115,11 +115,11 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 - [Section 37 — Article 34 contribution notice: relationship with employer debt](part-ii/section-37.md)
 - [Section 38 — Article 34 contribution notice: clearance statements](part-ii/section-38.md)
 
-#### Offence of failing to comply with an Article 34 contribution notice[^key-a8b79a37b4339d389a9982ac8e4df15a]
+#### Offence of failing to comply with an Article 34 contribution notice[^c-a8b79a37b4339d389a9982ac8e4df15a]
 
 - [Section 38A](part-ii/section-38a.md)
 
-#### Financial penalty for failure to comply with an Article 34 contribution notice[^key-dd600efaffe902719cb9b53e1d5c14fd]
+#### Financial penalty for failure to comply with an Article 34 contribution notice[^c-dd600efaffe902719cb9b53e1d5c14fd]
 
 - [Section 38B](part-ii/section-38b.md)
 
@@ -155,21 +155,21 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 54 — Regulator's right to apply under Article 367 of the Insolvency Order](part-ii/section-54.md)
 
-#### Sanctions for avoidance of employer debt etc[^key-c90449a032263386f6b5fcb82ad626f4]
+#### Sanctions for avoidance of employer debt etc[^c-c90449a032263386f6b5fcb82ad626f4]
 
-##### Offence of avoidance of employer debt[^key-c90449a032263386f6b5fcb82ad626f4]
+##### Offence of avoidance of employer debt[^c-c90449a032263386f6b5fcb82ad626f4]
 
 - [Section 54A](part-ii/section-54a.md)
 
-##### Offence of conduct risking accrued scheme benefits[^key-c90449a032263386f6b5fcb82ad626f4]
+##### Offence of conduct risking accrued scheme benefits[^c-c90449a032263386f6b5fcb82ad626f4]
 
 - [Section 54B](part-ii/section-54b.md)
 
-#### Financial penalty for avoidance of employer debt[^key-e91d281f48f69b48f14ee2142792456b]
+#### Financial penalty for avoidance of employer debt[^c-e91d281f48f69b48f14ee2142792456b]
 
 - [Section 54C](part-ii/section-54c.md)
 
-#### Financial penalty for conduct risking accrued scheme benefits[^key-e91d281f48f69b48f14ee2142792456b]
+#### Financial penalty for conduct risking accrued scheme benefits[^c-e91d281f48f69b48f14ee2142792456b]
 
 - [Section 54D](part-ii/section-54d.md)
 
@@ -197,7 +197,7 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 65 — Duty to report breaches of the law](part-ii/section-65.md)
 
-#### Reporting late payment of employer contributions[^key-6e0254a5de1b0797cab3bd8769dc18ca]
+#### Reporting late payment of employer contributions[^c-6e0254a5de1b0797cab3bd8769dc18ca]
 
 - [Section 65A — Duty to report late payment of employer contributions](part-ii/section-65a.md)
 
@@ -223,11 +223,11 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 75 — Offences of providing false or misleading information](part-ii/section-75.md)
 
-#### Financial penalty for providing false or misleading information to Regulator[^key-400b83a7509821651c847e33ce0bd6b0]
+#### Financial penalty for providing false or misleading information to Regulator[^c-400b83a7509821651c847e33ce0bd6b0]
 
 - [Section 75A](part-ii/section-75a.md)
 
-#### Financial penalty for providing false or misleading information to trustees or managers[^key-47657a2e5b2bafb64aea0b53767d5996]
+#### Financial penalty for providing false or misleading information to trustees or managers[^c-47657a2e5b2bafb64aea0b53767d5996]
 
 - [Section 75B](part-ii/section-75b.md)
 
@@ -245,17 +245,17 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 - [Section 82 — Other permitted disclosures](part-ii/section-82.md)
 - [Section 83 — Tax information etc.](part-ii/section-83.md)
 
-#### Financial penalties[^key-4be80134c98ee3a8faeb61519290f50a]
+#### Financial penalties[^c-4be80134c98ee3a8faeb61519290f50a]
 
-##### Financial penalties[^key-4be80134c98ee3a8faeb61519290f50a]
+##### Financial penalties[^c-4be80134c98ee3a8faeb61519290f50a]
 
 - [Section 83A](part-ii/section-83a.md)
 
-##### Financial penalties: time for recovery[^key-4be80134c98ee3a8faeb61519290f50a]
+##### Financial penalties: time for recovery[^c-4be80134c98ee3a8faeb61519290f50a]
 
 - [Section 83B](part-ii/section-83b.md)
 
-##### Financial penalties: recovery[^key-4be80134c98ee3a8faeb61519290f50a]
+##### Financial penalties: recovery[^c-4be80134c98ee3a8faeb61519290f50a]
 
 - [Section 83C](part-ii/section-83c.md)
 
@@ -297,7 +297,7 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 - [Section 99 — Redetermination etc. by the Tribunal](part-ii/section-99.md)
 - [Section 100 — Disclosure of information](part-ii/section-100.md)
 
-### PART III — THE BOARD OF THE PENSION PROTECTION FUND[^c22069541][^key-d5ffd9e732fe83bbd3293cc3fa33e3a6][^key-1f444659fb6775551d1fc8bdd5ded8c9]
+### PART III — THE BOARD OF THE PENSION PROTECTION FUND[^c22069541][^c-d5ffd9e732fe83bbd3293cc3fa33e3a6][^c-1f444659fb6775551d1fc8bdd5ded8c9]
 
 #### CHAPTER 1 — THE BOARD
 
@@ -330,7 +330,7 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 - [Section 108 — Board's duty where there is a failure to comply with Article 106](part-iii/section-108.md)
 - [Section 109 — Binding notices confirming status of scheme](part-iii/section-109.md)
 
-#### CHAPTER 3 — PENSION PROTECTION[^key-d5ffd9e732fe83bbd3293cc3fa33e3a6]
+#### CHAPTER 3 — PENSION PROTECTION[^c-d5ffd9e732fe83bbd3293cc3fa33e3a6]
 
 *Extent: N.I.*
 
@@ -536,7 +536,7 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 199 — Pension sharing](part-iii/section-199.md)
 
-### PART IV — SCHEME FUNDING[^key-2fa79b8dbd802d86ab6e3e0047b7104d]
+### PART IV — SCHEME FUNDING[^c-2fa79b8dbd802d86ab6e3e0047b7104d]
 
 *Extent: N.I.*
 
@@ -580,7 +580,7 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 215 — Information and advice to employees](part-v/section-215.md)
 
-#### Pensions dashboards[^key-b05e017fa4421e044efc359b1bd4c8b4]
+#### Pensions dashboards[^c-b05e017fa4421e044efc359b1bd4c8b4]
 
 - [Section 215A — Qualifying pensions dashboard service](part-v/section-215a.md)
 - [Section 215B — Qualifying pension dashboard service: further provision](part-v/section-215b.md)
@@ -716,11 +716,11 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 
 - [Section 262 — Meaning of “stakeholder pension scheme”](part-vi/section-262.md)
 
-### PART VII — CROSS-BORDER ACTIVITIES WITHIN EUROPEAN UNION[^key-34acec6e2480272d2266f681e4d911cf]
+### PART VII — CROSS-BORDER ACTIVITIES WITHIN EUROPEAN UNION[^c-34acec6e2480272d2266f681e4d911cf]
 
 **No longer in force.**
 
-#### UK occupational pension scheme receiving contributions from European employer[^key-34acec6e2480272d2266f681e4d911cf]
+#### UK occupational pension scheme receiving contributions from European employer[^c-34acec6e2480272d2266f681e4d911cf]
 
 *Extent: N.I.*
 
@@ -734,19 +734,19 @@ The Pensions (Northern Ireland) Order 2005[^key-628ba7cfb57f3f836f85e3f5eaf58289
 - [Section 268 — Power of Regulator to require ring-fencing of assets](part-vii/section-268.md)
 - [Section 268A — Exemption from enrolment duty under Part 1 of Pensions ( No. 2) Act (Northern Ireland) 2008](part-vii/section-268a.md)
 
-#### European occupational pension scheme receiving contributions from UK employer[^key-34acec6e2480272d2266f681e4d911cf]
+#### European occupational pension scheme receiving contributions from UK employer[^c-34acec6e2480272d2266f681e4d911cf]
 
 **No longer in force.**
 
 - [Section 269 — Functions of Regulator in relation to institutions administered in other EEA states](part-vii/section-269.md)
 
-#### Assistance for other European regulators[^key-34acec6e2480272d2266f681e4d911cf]
+#### Assistance for other European regulators[^c-34acec6e2480272d2266f681e4d911cf]
 
 **No longer in force.**
 
 - [Section 270 — Stopping disposal of assets of institutions administered in other EEA states](part-vii/section-270.md)
 
-#### Interpretation[^key-34acec6e2480272d2266f681e4d911cf]
+#### Interpretation[^c-34acec6e2480272d2266f681e4d911cf]
 
 **No longer in force.**
 
@@ -828,9 +828,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-628ba7cfb57f3f836f85e3f5eaf58289]: Modification: [Order](https://www.legislation.gov.uk/nisi/2005/255): power to modify conferred (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 44(1)](https://www.legislation.gov.uk/nia/2015/5/section/44/1), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/h)
+[^c-628ba7cfb57f3f836f85e3f5eaf58289]: Modification: [Order](https://www.legislation.gov.uk/nisi/2005/255): power to modify conferred (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 44(1)](https://www.legislation.gov.uk/nia/2015/5/section/44/1), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/h)
 
-[^key-61d6110c6683fc2a0d43c82ffa71237b]: Modification: [Order](https://www.legislation.gov.uk/nisi/2005/255) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-61d6110c6683fc2a0d43c82ffa71237b]: Modification: [Order](https://www.legislation.gov.uk/nisi/2005/255) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(2)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
 [^c21179911]: Modification: Order: power to modifiy conferred (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 115(2)(e)](https://www.legislation.gov.uk/nia/2008/13/section/115/2/e), [118(1)(2)(g)](https://www.legislation.gov.uk/nia/2008/13/section/118/1/2/g)
 
@@ -838,36 +838,36 @@ SCHEDULES
 
 [^c22541011]: Modification: Order applied (with modifications) (8.2.2011 with application as mentioned in reg. 27(a) of the amending Regulations) by [Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [regs. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1)
 
-[^key-a8b79a37b4339d389a9982ac8e4df15a]: Textual amendment: [Art. 38A](https://www.legislation.gov.uk/nisi/2005/255/article/38A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/3); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-a8b79a37b4339d389a9982ac8e4df15a]: Textual amendment: [Art. 38A](https://www.legislation.gov.uk/nisi/2005/255/article/38A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/3); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
 
-[^key-dd600efaffe902719cb9b53e1d5c14fd]: Textual amendment: [Art. 38B](https://www.legislation.gov.uk/nisi/2005/255/article/38B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/4); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-dd600efaffe902719cb9b53e1d5c14fd]: Textual amendment: [Art. 38B](https://www.legislation.gov.uk/nisi/2005/255/article/38B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/4); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
 
-[^key-c90449a032263386f6b5fcb82ad626f4]: Textual amendment: [Arts. 54A](https://www.legislation.gov.uk/nisi/2005/255/article/54A), [54B](https://www.legislation.gov.uk/nisi/2005/255/article/54B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/1); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
+[^c-c90449a032263386f6b5fcb82ad626f4]: Textual amendment: [Arts. 54A](https://www.legislation.gov.uk/nisi/2005/255/article/54A), [54B](https://www.legislation.gov.uk/nisi/2005/255/article/54B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/1); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
 
-[^key-e91d281f48f69b48f14ee2142792456b]: Textual amendment: [Arts. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C), [54D](https://www.legislation.gov.uk/nisi/2005/255/article/54D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
+[^c-e91d281f48f69b48f14ee2142792456b]: Textual amendment: [Arts. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C), [54D](https://www.legislation.gov.uk/nisi/2005/255/article/54D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
 
-[^key-6e0254a5de1b0797cab3bd8769dc18ca]: Textual amendment: Art. 65A and cross-heading inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-6e0254a5de1b0797cab3bd8769dc18ca]: Textual amendment: Art. 65A and cross-heading inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
 
-[^key-400b83a7509821651c847e33ce0bd6b0]: Textual amendment: [Art. 75A](https://www.legislation.gov.uk/nisi/2005/255/article/75A) inserted (1.10.2021 for specified purposes, 1.8.2022 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/12); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(g)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/g) (with [art. 6](https://www.legislation.gov.uk/nisr/2021/271/article/6)); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(c)](https://www.legislation.gov.uk/nisr/2022/197/article/3/c)
+[^c-400b83a7509821651c847e33ce0bd6b0]: Textual amendment: [Art. 75A](https://www.legislation.gov.uk/nisi/2005/255/article/75A) inserted (1.10.2021 for specified purposes, 1.8.2022 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/12); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(g)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/g) (with [art. 6](https://www.legislation.gov.uk/nisr/2021/271/article/6)); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(c)](https://www.legislation.gov.uk/nisr/2022/197/article/3/c)
 
-[^key-47657a2e5b2bafb64aea0b53767d5996]: Textual amendment: [Art. 75B](https://www.legislation.gov.uk/nisi/2005/255/article/75B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/13); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(h)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/h) (with [art. 7](https://www.legislation.gov.uk/nisr/2021/271/article/7))
+[^c-47657a2e5b2bafb64aea0b53767d5996]: Textual amendment: [Art. 75B](https://www.legislation.gov.uk/nisi/2005/255/article/75B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/13); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(h)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/h) (with [art. 7](https://www.legislation.gov.uk/nisr/2021/271/article/7))
 
-[^key-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))
+[^c-4be80134c98ee3a8faeb61519290f50a]: Textual amendment: [Arts. 83A-83C](https://www.legislation.gov.uk/nisi/2005/255/article/83A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5))
 
 [^c22067661]: Textual amendment: Art. 97 preceding cross-heading substituted (6.4.2010) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [ss. 3(1)](https://www.legislation.gov.uk/nia/2010/4/section/3/1), [5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/16) (with transitional and saving in [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)
 
 [^c22069541]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) (arts. 101-199) applied by [S.R. 2005/55](https://www.legislation.gov.uk/nisr/2005/55), [reg. 2A](https://www.legislation.gov.uk/nisr/2005/55/regulation/2A) (as inserted (8.3.2010) by [Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [reg. 2(4)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/4))
 
-[^key-d5ffd9e732fe83bbd3293cc3fa33e3a6]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) amendment to earlier affecting provision S.R. 2005/91 (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/270/regulation/2)
+[^c-d5ffd9e732fe83bbd3293cc3fa33e3a6]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) amendment to earlier affecting provision S.R. 2005/91 (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/270/regulation/2)
 
-[^key-1f444659fb6775551d1fc8bdd5ded8c9]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) modified by S.R. 2005/55 (as amended) (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2013/95/regulation/3)
+[^c-1f444659fb6775551d1fc8bdd5ded8c9]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) modified by S.R. 2005/55 (as amended) (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2013/95/regulation/3)
 
 [^c21186121]: Textual amendment: [Art. 152A](https://www.legislation.gov.uk/nisi/2005/255/article/152A) and preceding cross heading inserted (16.3.2011 for certain purposes, otherwise 6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 99](https://www.legislation.gov.uk/nia/2008/13/section/99), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(1)(b)(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/1/b/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
 
-[^key-2fa79b8dbd802d86ab6e3e0047b7104d]: Modification: Pt. IV applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [63(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/63/1)
+[^c-2fa79b8dbd802d86ab6e3e0047b7104d]: Modification: Pt. IV applied (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [63(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/63/1)
 
-[^key-b05e017fa4421e044efc359b1bd4c8b4]: Textual amendment: [Arts. 215A-215C](https://www.legislation.gov.uk/nisi/2005/255/article/215A) and cross-heading inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/2); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-b05e017fa4421e044efc359b1bd4c8b4]: Textual amendment: [Arts. 215A-215C](https://www.legislation.gov.uk/nisi/2005/255/article/215A) and cross-heading inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/2); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
-[^key-34acec6e2480272d2266f681e4d911cf]: Textual amendment: Pt. 7 omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34acec6e2480272d2266f681e4d911cf]: Textual amendment: Pt. 7 omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17105181]: Textual amendment: mod. by SR 2005/91

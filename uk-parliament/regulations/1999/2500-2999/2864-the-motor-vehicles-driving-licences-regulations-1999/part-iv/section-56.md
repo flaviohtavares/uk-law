@@ -40,7 +40,7 @@ summary: ''
 - (b) if he is to be disqualified for a fixed period, what that period should be, or
 - (c) if he is to be disqualified until he passes a test, which test he should be required to pass,
 
-may be referred by the Secretary of State to a traffic commissioner[^key-4a09071136df41290b5a7279b3efbf0f].
+may be referred by the Secretary of State to a traffic commissioner[^c-4a09071136df41290b5a7279b3efbf0f].
 
 (6) Where the Secretary of State determines that a person shall be disqualified for a fixed period, that period shall commence on the expiration of the period of disqualification ordered by the court.
 
@@ -52,4 +52,4 @@ may be referred by the Secretary of State to a traffic commissioner[^key-4a09071
 
 ## Annotations
 
-[^key-4a09071136df41290b5a7279b3efbf0f]: Textual amendment: Words in [reg. 56(5)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/56/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-4a09071136df41290b5a7279b3efbf0f]: Textual amendment: Words in [reg. 56(5)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/56/5) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

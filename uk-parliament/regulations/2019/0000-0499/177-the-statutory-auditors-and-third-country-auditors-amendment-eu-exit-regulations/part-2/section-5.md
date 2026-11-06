@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.[^key-fd510f5fb8b3eee75a483c8da2498045]
+## 5.[^c-fd510f5fb8b3eee75a483c8da2498045]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,12 +29,12 @@ In section 494ZA (the maximum engagement period) [^c23586101]—
   > - (iv) if the company is a public company and does not have an audit committee, a selection procedure that complies with the requirements of section 489B(4),
 
   ;
-- (c) in subsection (5)(b) after “Audit Regulation” insert “ as it had effect immediately before IP completion day[^key-f2a63e624e2d89364bc50347a4f0bb41]”.
+- (c) in subsection (5)(b) after “Audit Regulation” insert “ as it had effect immediately before IP completion day[^c-f2a63e624e2d89364bc50347a4f0bb41]”.
 
 ## Annotations
 
-[^key-fd510f5fb8b3eee75a483c8da2498045]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-fd510f5fb8b3eee75a483c8da2498045]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586101]: Marginal citation: Section 494ZA was inserted by regulation 12(14) of [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516). Subsection (5) was amended by paragraph 20 of Schedule 1 to [S.I. 2017/1164](https://www.legislation.gov.uk/uksi/2017/1164).
 
-[^key-f2a63e624e2d89364bc50347a4f0bb41]: Textual amendment: Words in reg. 5(c) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/a)
+[^c-f2a63e624e2d89364bc50347a4f0bb41]: Textual amendment: Words in reg. 5(c) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/a)

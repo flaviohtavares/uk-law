@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250A. Sections 247 and 249: local authorities[^key-19b708dc94577573c7a05ea93f6f3cd1]
+## 250A. Sections 247 and 249: local authorities[^c-19b708dc94577573c7a05ea93f6f3cd1]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19b708dc94577573c7a05ea93f6f3cd1]: Textual amendment: S. 250A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/67)
+[^c-19b708dc94577573c7a05ea93f6f3cd1]: Textual amendment: S. 250A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/67)

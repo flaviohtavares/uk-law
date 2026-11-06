@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. CIO contracts[^key-cefe506f48bd9816b271105744e39a97]
+## 19. CIO contracts[^c-cefe506f48bd9816b271105744e39a97]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cefe506f48bd9816b271105744e39a97]: Commencement: Reg. 19 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-cefe506f48bd9816b271105744e39a97]: Commencement: Reg. 19 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

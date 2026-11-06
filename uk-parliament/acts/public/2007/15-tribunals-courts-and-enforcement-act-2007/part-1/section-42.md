@@ -43,8 +43,8 @@ summary: ''
 
 (5) Before making an order under this section, the Lord Chancellor must consult—
 
-- (a) the Senior President of Tribunals, [^key-7ac5385ef54f333062915c95a72c7c75]...
-- (b)[^key-7ac5385ef54f333062915c95a72c7c75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Senior President of Tribunals, [^c-7ac5385ef54f333062915c95a72c7c75]...
+- (b)[^c-7ac5385ef54f333062915c95a72c7c75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The making of an order under subsection (1) requires the consent of the Treasury except where the order contains provision only for the purpose of altering amounts payable by way of fees already prescribed under that subsection.
 
@@ -54,12 +54,12 @@ summary: ''
 
 (9) Subsection (8) does not apply to the recovery in Scotland of fees payable under this section.
 
-(10)[^key-7663c3dc598e5a4efff51375713d63be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-7663c3dc598e5a4efff51375713d63be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c21473381]: Textual amendment: S. 42(1)(c) omitted (15.2.2010) by virtue of [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2010/22/schedule/1/paragraph/41) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/22/schedule/4))
 
-[^key-7ac5385ef54f333062915c95a72c7c75]: Textual amendment: S. 42(5)(b) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 32(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/32/a)
+[^c-7ac5385ef54f333062915c95a72c7c75]: Textual amendment: S. 42(5)(b) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 32(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/32/a)
 
-[^key-7663c3dc598e5a4efff51375713d63be]: Textual amendment: S. 42(10) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 32(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/32/b)
+[^c-7663c3dc598e5a4efff51375713d63be]: Textual amendment: S. 42(10) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 32(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/32/b)

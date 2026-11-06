@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 200. Remission of charges relating to residential trips[^c415699][^key-2fffcf13ada4c23c002f816ecf2b2119][^key-381b9f55474ca230372353329b997ae2]
+## 200. Remission of charges relating to residential trips[^c415699][^c-2fffcf13ada4c23c002f816ecf2b2119][^c-381b9f55474ca230372353329b997ae2]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In section 457 of the Education Act 1996 (c. 56) (charges and remissions policie
 
 [^c415699]: Commencement: S. 200 partly in force; s. 200 not in force at Royal Assent, see s. 216; s. 200 in force for W. at 31.3.2003 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-2fffcf13ada4c23c002f816ecf2b2119]: Commencement: S. 200 in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+[^c-2fffcf13ada4c23c002f816ecf2b2119]: Commencement: S. 200 in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-381b9f55474ca230372353329b997ae2]: Commencement: S. 200 in force at 6.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5)
+[^c-381b9f55474ca230372353329b997ae2]: Commencement: S. 200 in force at 6.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 216. Determination of appeal[^key-1c115b04977e5c46b23bf89dc0b6e9c7]
+## 216. Determination of appeal[^c-1c115b04977e5c46b23bf89dc0b6e9c7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ if they are satisfied that the correction or variation will not cause injustice 
 
 ## Annotations
 
-[^key-1c115b04977e5c46b23bf89dc0b6e9c7]: Commencement: S. 216 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1c115b04977e5c46b23bf89dc0b6e9c7]: Commencement: S. 216 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

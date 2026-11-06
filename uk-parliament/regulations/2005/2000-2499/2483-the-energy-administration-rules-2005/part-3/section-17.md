@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Limited disclosure[^key-78216a587f31267e4ad67424cd91ed86]
+## 17. Limited disclosure[^c-78216a587f31267e4ad67424cd91ed86]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78216a587f31267e4ad67424cd91ed86]: Commencement: Rule 17 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-78216a587f31267e4ad67424cd91ed86]: Commencement: Rule 17 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Coming into force[^key-ed49f8e5712127c93871c2059bc90c7d]
+## 72. Coming into force[^c-ed49f8e5712127c93871c2059bc90c7d]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed49f8e5712127c93871c2059bc90c7d]: Commencement: S. 72 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)
+[^c-ed49f8e5712127c93871c2059bc90c7d]: Commencement: S. 72 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)

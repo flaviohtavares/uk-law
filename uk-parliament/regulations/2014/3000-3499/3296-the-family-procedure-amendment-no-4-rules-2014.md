@@ -48,7 +48,7 @@ Coming into force in accordance with rule 1
 
 The Family Procedure Rule Committee makes the following rules in exercise of the powers conferred by sections 75 and 76 of the Courts Act 2003[^f00001], after consulting in accordance with section 79 of that Act.
 
-## 1. Citation, interpretation and commencement[^key-0e293a972e395361795266b0f2324f5f]
+## 1. Citation, interpretation and commencement[^c-0e293a972e395361795266b0f2324f5f]
 
 (1) These Rules may be cited as the Family Procedure (Amendment No. 4) Rules 2014.
 
@@ -56,13 +56,13 @@ The Family Procedure Rule Committee makes the following rules in exercise of the
 
 (3) The remainder of these Rules come into force on 6th April 2015.
 
-## 2. Amendments to the Family Procedure Rules 2010[^key-8d2b3cf5b7bbcebc9aab6ed80906eba9]
+## 2. Amendments to the Family Procedure Rules 2010[^c-8d2b3cf5b7bbcebc9aab6ed80906eba9]
 
 The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 to 14.
 
-**3.**[^key-74c8d4f03d230000e51b6e79131b4fb5][^key-77067b7d91f40768fd221a05fe82dee6] In rule 2.3—
+**3.**[^c-74c8d4f03d230000e51b6e79131b4fb5][^c-77067b7d91f40768fd221a05fe82dee6] In rule 2.3—
 
-- (a)[^key-74c8d4f03d230000e51b6e79131b4fb5] in paragraph (1)—
+- (a)[^c-74c8d4f03d230000e51b6e79131b4fb5] in paragraph (1)—
   - (i) after the definition of “hearsay”, insert—
 
     > - “incoming protection measure” means a protection measure that has been ordered in a Member State of the European Union other than the United Kingdom or Denmark;
@@ -80,11 +80,11 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
     - (bb) omit paragraph (ii); and
   - (ii) in sub-paragraph (c), omit the words after “cause”.
 
-**4.**[^key-28b65919cdd677e9df700597c3256648] In rule 3.4(1)(a), after “about” insert “, and consider using,”.
+**4.**[^c-28b65919cdd677e9df700597c3256648] In rule 3.4(1)(a), after “about” insert “, and consider using,”.
 
-**5.**[^key-725c31f3055e6e5dd4211116052e9050] In rule 7.8(2), after “respondent” insert “or co-respondent”.
+**5.**[^c-725c31f3055e6e5dd4211116052e9050] In rule 7.8(2), after “respondent” insert “or co-respondent”.
 
-**6.**[^key-377be06ac19fe1449c647121e764de92] For rule 7.13, substitute—
+**6.**[^c-377be06ac19fe1449c647121e764de92] For rule 7.13, substitute—
 
 > **7.13. Supplemental application and amendment of application and answer**
 >
@@ -136,11 +136,11 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
 
 .
 
-**7.**[^key-2737bc1dd0d3e9b492213867ce1556fe] In the heading to rule 8.25, omit “to be made”.
+**7.**[^c-2737bc1dd0d3e9b492213867ce1556fe] In the heading to rule 8.25, omit “to be made”.
 
-**8.**[^key-18c342a3baedc1cb815f572371d5342d] In rule 8.26(a), omit “by a judge, but not a district judge”.
+**8.**[^c-18c342a3baedc1cb815f572371d5342d] In rule 8.26(a), omit “by a judge, but not a district judge”.
 
-**9.**[^key-d0865a945e7ccc4963c7884992a403be] In rule 10.11(1)—
+**9.**[^c-d0865a945e7ccc4963c7884992a403be] In rule 10.11(1)—
 
 - (a) in paragraph (a), after “order;” omit “or”;
 - (b) in paragraph (b), after “Act” for “.” substitute “; or”; and
@@ -152,7 +152,7 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
 
   .
 
-**10.**[^key-009d3745205b2b7926e1123fd9c96d55] In Chapter 5 of Part 12, after rule 12.42, insert—
+**10.**[^c-009d3745205b2b7926e1123fd9c96d55] In Chapter 5 of Part 12, after rule 12.42, insert—
 
 > **12.42A. Application for a writ of habeas corpus for release in relation to a minor**
 >
@@ -177,7 +177,7 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
 
 .
 
-**11.**[^key-a056e81a06ba455f6d55a88faed7b6e4] In rule 30.3(2)—
+**11.**[^c-a056e81a06ba455f6d55a88faed7b6e4] In rule 30.3(2)—
 
 - (a) in sub-paragraph (a), omit “or”;
 - (b) in sub-paragraph (b), for “.” substitute “; or”; and
@@ -191,7 +191,7 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
 
 **13.**[^M_F_1fc21b6e-cd81-4d04-ef1c-bea1b6945645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-243a2e88f5ace6895c5947fcae7c0097] After Part 37, insert—
+**14.**[^c-243a2e88f5ace6895c5947fcae7c0097] After Part 37, insert—
 
 > **PART 38 — RECOGNITION AND ENFORCEMENT OF PROTECTION MEASURES**
 >
@@ -377,16 +377,16 @@ The Family Procedure Rules 2010[^f00002] are amended in accordance with rules 3 
 
 .
 
-## 15. Transitional and saving provision[^key-3924ba331d0b003ee00a89473ced149b][^key-9d07f01669e0e1591af740877009daea]
+## 15. Transitional and saving provision[^c-3924ba331d0b003ee00a89473ced149b][^c-9d07f01669e0e1591af740877009daea]
 
-(1)[^key-3924ba331d0b003ee00a89473ced149b] Subject to paragraphs (2) and (3), the Family Procedure Rules 2010 as amended by these Rules shall apply to any proceedings which were commenced but not disposed of before these Rules came into force.
+(1)[^c-3924ba331d0b003ee00a89473ced149b] Subject to paragraphs (2) and (3), the Family Procedure Rules 2010 as amended by these Rules shall apply to any proceedings which were commenced but not disposed of before these Rules came into force.
 
-(2)[^key-3924ba331d0b003ee00a89473ced149b] The court may in any such proceedings give any directions for the purpose of ensuring that the proceedings are dealt with fairly and, in particular, may—
+(2)[^c-3924ba331d0b003ee00a89473ced149b] The court may in any such proceedings give any directions for the purpose of ensuring that the proceedings are dealt with fairly and, in particular, may—
 
 - (a) apply any provision in rules of court which applied to the proceedings before these Rules came into force; or
 - (b) disapply provisions of the Family Procedure Rules 2010 as amended by these Rules.
 
-(3)[^key-9d07f01669e0e1591af740877009daea] The amendment made to rule 2.3(2) of the Family Procedure Rules 2010 by rule 3(b) of these Rules shall not apply in relation to any petition presented to the court under section 19(1) of the Matrimonial Causes Act 1973[^f00012] before 1st October 2014.
+(3)[^c-9d07f01669e0e1591af740877009daea] The amendment made to rule 2.3(2) of the Family Procedure Rules 2010 by rule 3(b) of these Rules shall not apply in relation to any petition presented to the court under section 19(1) of the Matrimonial Causes Act 1973[^f00012] before 1st October 2014.
 
 Marie Brock
 
@@ -444,41 +444,41 @@ Transitional and saving provision is made in rule 15.
 
 [^f00001]: Footnote: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39). Section 75 was amended by paragraph 338 of Schedule 4 and Part 2 of Schedule 18 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and by paragraph 91 of Schedule 10 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 76 was amended by section 62(7) of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31), paragraph 172 of Schedule 27 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 29 of Schedule 1 to the Constitutional Reform Act 2005 and paragraph 92 of Schedule 10 to the Crime and Courts Act 2013.
 
-[^key-0e293a972e395361795266b0f2324f5f]: Commencement: Rule 1 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-0e293a972e395361795266b0f2324f5f]: Commencement: Rule 1 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
-[^key-8d2b3cf5b7bbcebc9aab6ed80906eba9]: Commencement: Rule 2 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-8d2b3cf5b7bbcebc9aab6ed80906eba9]: Commencement: Rule 2 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955); relevant amending instruments are [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328), [2012/679](https://www.legislation.gov.uk/uksi/2012/679), [2007](https://www.legislation.gov.uk/uksi/2012/2007), [2046](https://www.legislation.gov.uk/uksi/2012/2046), [2806](https://www.legislation.gov.uk/uksi/2012/2806) and [3006](https://www.legislation.gov.uk/uksi/2012/3006), [2013/530](https://www.legislation.gov.uk/uksi/2013/530), [1472](https://www.legislation.gov.uk/uksi/2013/1472) and [3204](https://www.legislation.gov.uk/uksi/2013/3204) and [2014/667](https://www.legislation.gov.uk/uksi/2014/667) and [843](https://www.legislation.gov.uk/uksi/2014/843).
 
-[^key-74c8d4f03d230000e51b6e79131b4fb5]: Commencement: Rule 3(a) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-74c8d4f03d230000e51b6e79131b4fb5]: Commencement: Rule 3(a) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
-[^key-77067b7d91f40768fd221a05fe82dee6]: Commencement: [Rule 3(b)](https://www.legislation.gov.uk/uksi/2014/3296/article/3/b) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-77067b7d91f40768fd221a05fe82dee6]: Commencement: [Rule 3(b)](https://www.legislation.gov.uk/uksi/2014/3296/article/3/b) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
 [^f00003]: Footnote: OJ L 181 29.6.2013 p4.
 
-[^key-28b65919cdd677e9df700597c3256648]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2014/3296/article/4) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-28b65919cdd677e9df700597c3256648]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2014/3296/article/4) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-725c31f3055e6e5dd4211116052e9050]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2014/3296/article/5) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-725c31f3055e6e5dd4211116052e9050]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2014/3296/article/5) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-377be06ac19fe1449c647121e764de92]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/3296/article/6) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-377be06ac19fe1449c647121e764de92]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/3296/article/6) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-2737bc1dd0d3e9b492213867ce1556fe]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/3296/article/7) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-2737bc1dd0d3e9b492213867ce1556fe]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/3296/article/7) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-18c342a3baedc1cb815f572371d5342d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/3296/article/8) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-18c342a3baedc1cb815f572371d5342d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/3296/article/8) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-d0865a945e7ccc4963c7884992a403be]: Commencement: Rule 9 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-d0865a945e7ccc4963c7884992a403be]: Commencement: Rule 9 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
 [^f00004]: Footnote: [S.I. 2014/3298](https://www.legislation.gov.uk/uksi/2014/3298).
 
-[^key-009d3745205b2b7926e1123fd9c96d55]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/3296/article/10) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-009d3745205b2b7926e1123fd9c96d55]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/3296/article/10) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
-[^key-a056e81a06ba455f6d55a88faed7b6e4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/3296/article/11) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-a056e81a06ba455f6d55a88faed7b6e4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2014/3296/article/11) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
 [^M_F_54f7a8c6-6cfc-4292-a051-8d1f93339eec]: Textual amendment: Rule 12 revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
 [^M_F_1fc21b6e-cd81-4d04-ef1c-bea1b6945645]: Textual amendment: Rule 13 revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-243a2e88f5ace6895c5947fcae7c0097]: Commencement: Rule 14 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-243a2e88f5ace6895c5947fcae7c0097]: Commencement: Rule 14 in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
 [^f00005]: Footnote: The Family Law Act [1996 (c.27)](https://www.legislation.gov.uk/ukpga/1996/27). Section 42 was amended by paragraph 36 of Schedule 10 to, and by Schedule 11 to, the Domestic Violence, Crime and Victims Act [2004 (c.28)](https://www.legislation.gov.uk/ukpga/2004/28) and by paragraph 9 of Schedule 9 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
@@ -494,8 +494,8 @@ Transitional and saving provision is made in rule 15.
 
 [^f00011]: Footnote: Section 63G was inserted by section 1 of the Forced Marriage (Civil Protection) Act 2007 and amended by section 120 of the Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-3924ba331d0b003ee00a89473ced149b]: Commencement: Rule 15(1)(2) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
+[^c-3924ba331d0b003ee00a89473ced149b]: Commencement: Rule 15(1)(2) in force at 11.1.2015, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/2)
 
-[^key-9d07f01669e0e1591af740877009daea]: Commencement: [Rule 15(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/15/3) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
+[^c-9d07f01669e0e1591af740877009daea]: Commencement: [Rule 15(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/15/3) in force at 6.4.2015, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/article/1/3)
 
 [^f00012]: Footnote: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18). Section 19 was amended by Schedule 6 to the Domicile and Matrimonial Proceedings Act [1973 (c.45)](https://www.legislation.gov.uk/ukpga/1973/45) and by paragraph 7 of Schedule 8 to the Family Law Act 1996, and was repealed by paragraph 1 of Schedule 2 to the Presumption of Death Act [2013 (c.13)](https://www.legislation.gov.uk/ukpga/2013/13).

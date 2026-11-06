@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.15. Modes of service[^key-d7b77d780b121d703f71e1e8fb1a00a6]
+## 3.15. Modes of service[^c-d7b77d780b121d703f71e1e8fb1a00a6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7b77d780b121d703f71e1e8fb1a00a6]: Commencement: Rule 3.15 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-d7b77d780b121d703f71e1e8fb1a00a6]: Commencement: Rule 3.15 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -35,51 +35,51 @@ on the modalities, structure, periodicity and assessment indicators of the quali
 
 (Text with EEA relevance) (revoked)
 
-[^key-40cc2f7cc30f602057fb78d886265234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40cc2f7cc30f602057fb78d886265234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-40cc2f7cc30f602057fb78d886265234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40cc2f7cc30f602057fb78d886265234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40cc2f7cc30f602057fb78d886265234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Modalities, structure and assessment indicators of the quality reports to be provided by Member States[^key-40cc2f7cc30f602057fb78d886265234]
+## ANNEX — Modalities, structure and assessment indicators of the quality reports to be provided by Member States[^c-40cc2f7cc30f602057fb78d886265234]
 
-[^key-40cc2f7cc30f602057fb78d886265234]1.
+[^c-40cc2f7cc30f602057fb78d886265234]1.
 
 **Introduction**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40cc2f7cc30f602057fb78d886265234]2.
+[^c-40cc2f7cc30f602057fb78d886265234]2.
 
 **Modalities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40cc2f7cc30f602057fb78d886265234]3.
+[^c-40cc2f7cc30f602057fb78d886265234]3.
 
 **Structure**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40cc2f7cc30f602057fb78d886265234]4.
+[^c-40cc2f7cc30f602057fb78d886265234]4.
 
 **Assessment indicators**
 
-[^key-40cc2f7cc30f602057fb78d886265234]4.1.
+[^c-40cc2f7cc30f602057fb78d886265234]4.1.
 
 Quantitative indicators
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40cc2f7cc30f602057fb78d886265234]4.2.
+[^c-40cc2f7cc30f602057fb78d886265234]4.2.
 
 Qualitative information
 
@@ -87,4 +87,4 @@ Qualitative information
 
 ## Annotations
 
-[^key-40cc2f7cc30f602057fb78d886265234]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/92)
+[^c-40cc2f7cc30f602057fb78d886265234]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/92)

@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 153(2) and (5), 168 and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-b98b1d328a0d03da558b8deadee0538a]
+## 1. Citation and commencement[^c-b98b1d328a0d03da558b8deadee0538a]
 
 These Regulations may be cited as the Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Amendment of the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006[^key-9bf146589902832a6c1f187591b2dd0e]
+## 2. Amendment of the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006[^c-9bf146589902832a6c1f187591b2dd0e]
 
 (1) The Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006[^f00002] are amended as follows.
 
@@ -113,9 +113,9 @@ Amendments made to the principal Regulations by regulation 2 increase the charg
 
 [^f00001]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”). By virtue of section 167(1) of the 2003 Act any power to make regulations in relation to the recovery of NHS charges is exercisable in relation to Scotland by the Scottish Ministers. Section 168 of the 2003 Act is cited for the definition of “prescribed”.
 
-[^key-b98b1d328a0d03da558b8deadee0538a]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/71/regulation/1)
+[^c-b98b1d328a0d03da558b8deadee0538a]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/71/regulation/1)
 
-[^key-9bf146589902832a6c1f187591b2dd0e]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/71/regulation/1)
+[^c-9bf146589902832a6c1f187591b2dd0e]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/71/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2006/588](https://www.legislation.gov.uk/ssi/2006/588); which was amended by [S.S.I. 2008/96](https://www.legislation.gov.uk/ssi/2008/96), [2009/193](https://www.legislation.gov.uk/ssi/2009/193) and [2010/42](https://www.legislation.gov.uk/ssi/2010/42).
 

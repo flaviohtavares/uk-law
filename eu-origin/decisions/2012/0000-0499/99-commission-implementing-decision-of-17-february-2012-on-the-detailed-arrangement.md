@@ -37,14 +37,14 @@ on the detailed arrangements for the collection of premiums for excess CO<sub>2<
 
 (2012/99/EU) (revoked)
 
-[^key-0c52e56d6318828c630b760de82667b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c52e56d6318828c630b760de82667b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0c52e56d6318828c630b760de82667b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0c52e56d6318828c630b760de82667b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0c52e56d6318828c630b760de82667b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0c52e56d6318828c630b760de82667b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c52e56d6318828c630b760de82667b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c52e56d6318828c630b760de82667b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c52e56d6318828c630b760de82667b9]: Textual amendment: Decision revoked (31.12.2020) by [The Road Vehicle Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/550/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c52e56d6318828c630b760de82667b9]: Textual amendment: Decision revoked (31.12.2020) by [The Road Vehicle Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/550/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

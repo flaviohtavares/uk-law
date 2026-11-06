@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-2cd180cd53b948462fc062d64f38c618] Where two people register as civil partners of each other in Northern Ireland, the civil partnership is void if—
+(1)[^c-2cd180cd53b948462fc062d64f38c618] Where two people register as civil partners of each other in Northern Ireland, the civil partnership is void if—
 
 - (a) at the time when they do so, they are not eligible to register as civil partners of each other under Chapter 1 (see section 138), or
 - (b) at the time when they do so they both know—
@@ -29,12 +29,12 @@ summary: ''
   - (iii) that the place of registration is a place other than that specified in the civil partnership schedule, or
   - (iv) that a registrar is not present.
 
-(2)[^key-25e8740df5320b6e0cb9cb88ce7b3a86] Subsection (3) applies in the case of a civil partnership which results from the conversion, or purported conversion, of a marriage into a civil partnership under Part 3, 4 or 5 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020.
+(2)[^c-25e8740df5320b6e0cb9cb88ce7b3a86] Subsection (3) applies in the case of a civil partnership which results from the conversion, or purported conversion, of a marriage into a civil partnership under Part 3, 4 or 5 of the Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020.
 
 (3) The civil partnership is void if (but only if) the marriage was void.
 
 ## Annotations
 
-[^key-2cd180cd53b948462fc062d64f38c618]: Textual amendment: S. 173 renumbered as s. 173(1) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(5)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/5/a)
+[^c-2cd180cd53b948462fc062d64f38c618]: Textual amendment: S. 173 renumbered as s. 173(1) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(5)(a)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/5/a)
 
-[^key-25e8740df5320b6e0cb9cb88ce7b3a86]: Textual amendment: S. 173(2)(3) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(5)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/5/b)
+[^c-25e8740df5320b6e0cb9cb88ce7b3a86]: Textual amendment: S. 173(2)(3) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(5)(b)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Ministerial directions[^key-34420ff3576bcfcdf87f63e5dceea693]
+## 67. Ministerial directions[^c-34420ff3576bcfcdf87f63e5dceea693]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34420ff3576bcfcdf87f63e5dceea693]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2019/17/section/67) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/d)
+[^c-34420ff3576bcfcdf87f63e5dceea693]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2019/17/section/67) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/d)

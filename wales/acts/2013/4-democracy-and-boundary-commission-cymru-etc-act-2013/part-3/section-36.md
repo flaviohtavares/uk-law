@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Commission or, as the case may be, a principal council (“the reviewing body”) must, after the public consultation period[^key-aec54dd9524e03de0e4f5075ed0c2740] under section 35(3) has ended, consider its proposals for change having regard to any representations received by it during the period.
+(1) The Commission or, as the case may be, a principal council (“the reviewing body”) must, after the public consultation period[^c-aec54dd9524e03de0e4f5075ed0c2740] under section 35(3) has ended, consider its proposals for change having regard to any representations received by it during the period.
 
 (2) The reviewing body must then prepare a further report.
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aec54dd9524e03de0e4f5075ed0c2740]: Textual amendment: Words in s. 36(1) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 45(4)](https://www.legislation.gov.uk/asc/2024/5/section/45/4), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-aec54dd9524e03de0e4f5075ed0c2740]: Textual amendment: Words in s. 36(1) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 45(4)](https://www.legislation.gov.uk/asc/2024/5/section/45/4), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

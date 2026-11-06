@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Emergency safety notices[^key-8be11ef4c264d5b9571e4b020d1a28d4]
+## 104. Emergency safety notices[^c-8be11ef4c264d5b9571e4b020d1a28d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be11ef4c264d5b9571e4b020d1a28d4]: Commencement: S. 104 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-8be11ef4c264d5b9571e4b020d1a28d4]: Commencement: S. 104 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

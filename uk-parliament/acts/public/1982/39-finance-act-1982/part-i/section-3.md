@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Hydrocarbon oil, etc.[^key-56a78bb8b84ad2eb91b6f0b0974cf301]
+## 3. Hydrocarbon oil, etc.[^c-56a78bb8b84ad2eb91b6f0b0974cf301]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56a78bb8b84ad2eb91b6f0b0974cf301]: Textual amendment: S. 3 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-56a78bb8b84ad2eb91b6f0b0974cf301]: Textual amendment: S. 3 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)

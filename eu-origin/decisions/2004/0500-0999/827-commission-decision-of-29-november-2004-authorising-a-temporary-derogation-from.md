@@ -37,39 +37,39 @@ authorising a temporary derogation from certain provisions of Council Directive 
 
 (2004/827/EC) (revoked)
 
-[^key-31b579658afc82c5db3226ef67846601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31b579658afc82c5db3226ef67846601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-31b579658afc82c5db3226ef67846601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31b579658afc82c5db3226ef67846601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31b579658afc82c5db3226ef67846601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Specific conditions applying to soil originating in Australia benefiting from the derogation provided for in Article 1 of this Decision[^key-31b579658afc82c5db3226ef67846601]
+## ANNEX — Specific conditions applying to soil originating in Australia benefiting from the derogation provided for in Article 1 of this Decision[^c-31b579658afc82c5db3226ef67846601]
 
-[^key-31b579658afc82c5db3226ef67846601]1.
+[^c-31b579658afc82c5db3226ef67846601]1.
 
 The soil shall be:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31b579658afc82c5db3226ef67846601]2.
+[^c-31b579658afc82c5db3226ef67846601]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31b579658afc82c5db3226ef67846601]3.
+[^c-31b579658afc82c5db3226ef67846601]3.
 
 Prior to introduction into the Community, the importer shall officially inform the responsible official bodies in the Member State of introduction of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31b579658afc82c5db3226ef67846601]4.
+[^c-31b579658afc82c5db3226ef67846601]4.
 
 The soil shall be destined only for the location which has been notified in accordance with point 3(d) to the responsible official bodies.
 
@@ -77,4 +77,4 @@ The soil shall be destined only for the location which has been notified in acco
 
 ## Annotations
 
-[^key-31b579658afc82c5db3226ef67846601]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-31b579658afc82c5db3226ef67846601]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

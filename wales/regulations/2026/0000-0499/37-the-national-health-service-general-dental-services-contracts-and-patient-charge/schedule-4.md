@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 4 — PATIENT INFORMATION LEAFLET[^key-5477f02eafc56f0ed83f0c768cfe96fe]
+## Schedule 4 — PATIENT INFORMATION LEAFLET[^c-5477f02eafc56f0ed83f0c768cfe96fe]
 
 *Extent: E+W*
 
 Paragraph 35 of Schedule 3
 
-[^key-5477f02eafc56f0ed83f0c768cfe96fe]
+[^c-5477f02eafc56f0ed83f0c768cfe96fe]
 
 A patient information leaflet must include the items listed below.
 
@@ -88,4 +88,4 @@ A patient information leaflet must include the items listed below.
 
 ## Annotations
 
-[^key-5477f02eafc56f0ed83f0c768cfe96fe]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-5477f02eafc56f0ed83f0c768cfe96fe]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

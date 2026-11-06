@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Powers of seizure, etc[^key-6b8a9a161ef2965284f9cc0bdc18775f]
+## 43. Powers of seizure, etc[^c-6b8a9a161ef2965284f9cc0bdc18775f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ In this subsection “**document**” includes anything falling within paragraph
 
 ## Annotations
 
-[^key-6b8a9a161ef2965284f9cc0bdc18775f]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/2/section/43) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-6b8a9a161ef2965284f9cc0bdc18775f]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2016/2/section/43) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy (Protection of Community Arrangements) (Amendment) Regulations 2001 (revoked)[^key-97ea0e4857831f4bcafeecd0eb32311c]
+The Common Agricultural Policy (Protection of Community Arrangements) (Amendment) Regulations 2001 (revoked)[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 15th October 2001
 
-[^key-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 1. Title, commencement and interpretation[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation of the principal Regulations[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 2. Interpretation of the principal Regulations[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Powers of authorised officers[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 3. Powers of authorised officers[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Scrutiny for the purposes of Regulation 4045/89[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 4. Scrutiny for the purposes of Regulation 4045/89[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 5. Offences and penalties[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence of due diligence[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 6. Defence of due diligence[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-97ea0e4857831f4bcafeecd0eb32311c]
+## 7. Revocation[^c-97ea0e4857831f4bcafeecd0eb32311c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97ea0e4857831f4bcafeecd0eb32311c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97ea0e4857831f4bcafeecd0eb32311c]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-97ea0e4857831f4bcafeecd0eb32311c]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

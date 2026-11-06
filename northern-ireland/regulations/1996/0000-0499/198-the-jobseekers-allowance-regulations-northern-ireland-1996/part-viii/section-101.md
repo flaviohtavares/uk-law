@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Calculation of net profit of self-employed earners[^key-1a09d5f7e609493bdde626b4d1619924]
+## 101. Calculation of net profit of self-employed earners[^c-1a09d5f7e609493bdde626b4d1619924]
 
 *Extent: N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a09d5f7e609493bdde626b4d1619924]: Commencement: Reg. 101 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1a09d5f7e609493bdde626b4d1619924]: Commencement: Reg. 101 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00095]: Footnote: [1925 c. 34](https://www.legislation.gov.uk/ukpga/1925/34)

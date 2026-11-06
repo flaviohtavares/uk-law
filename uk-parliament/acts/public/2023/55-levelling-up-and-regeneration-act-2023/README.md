@@ -110,7 +110,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 17 — Change of name](part-2/section-17.md)
 - [Section 17A — The functions of CCAs](part-2/section-17a.md)
 
-##### Collaboration[^key-5337948222063b7eb25b752de60dacf8]
+##### Collaboration[^c-5337948222063b7eb25b752de60dacf8]
 
 - [Section 17B — Mayoral power to convene meetings with local partners](part-2/section-17b.md)
 - [Section 17C — Request to collaborate](part-2/section-17c.md)
@@ -157,7 +157,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 31 — Procedure for direct conferral of general functions on mayor](part-2/section-31.md)
 - [Section 32 — Joint exercise of general functions](part-2/section-32.md)
 
-##### Mayoral CCAs: local growth plans[^key-2677ffa21b73c5e1d0d9b2ec57a4ea09]
+##### Mayoral CCAs: local growth plans[^c-2677ffa21b73c5e1d0d9b2ec57a4ea09]
 
 - [Section 32A — Local growth plans](part-2/section-32a.md)
 - [Section 32B — Secretary of State guidance on local growth plans](part-2/section-32b.md)
@@ -297,7 +297,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Planning data[^key-1ae4f302ad00eaa6b0617660e77f9785]
+#### Chapter 1 — Planning data[^c-1ae4f302ad00eaa6b0617660e77f9785]
 
 *Extent: E+W+S+N.I.*
 
@@ -458,7 +458,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 150 — Expiry of Part 5](part-5/section-150.md)
 - [Section 151 — Interpretation of Part 5](part-5/section-151.md)
 
-### Part 6 — Environmental outcomes reports[^key-0c8063920b78e1d178dd7522b8e84d7f][^key-29f0d12ef96e48cee3ed2a9b2dde0bba]
+### Part 6 — Environmental outcomes reports[^c-0c8063920b78e1d178dd7522b8e84d7f][^c-29f0d12ef96e48cee3ed2a9b2dde0bba]
 
 *Extent: E+W+S+N.I.*
 
@@ -731,12 +731,12 @@ Schedules
 
 ## Annotations
 
-[^key-5337948222063b7eb25b752de60dacf8]: Textual amendment: [S. 17B and cross-heading](https://www.legislation.gov.uk/ukpga/2023/55/chapter/1/crossheading/collaboration) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-5337948222063b7eb25b752de60dacf8]: Textual amendment: [S. 17B and cross-heading](https://www.legislation.gov.uk/ukpga/2023/55/chapter/1/crossheading/collaboration) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-2677ffa21b73c5e1d0d9b2ec57a4ea09]: Textual amendment: [Ss. 32A](https://www.legislation.gov.uk/ukpga/2023/55/section/32A), [32B](https://www.legislation.gov.uk/ukpga/2023/55/section/32B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-2677ffa21b73c5e1d0d9b2ec57a4ea09]: Textual amendment: [Ss. 32A](https://www.legislation.gov.uk/ukpga/2023/55/section/32A), [32B](https://www.legislation.gov.uk/ukpga/2023/55/section/32B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))
+[^c-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))
 
-[^key-0c8063920b78e1d178dd7522b8e84d7f]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2023/55/part/6): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2025/135/article/4))
+[^c-0c8063920b78e1d178dd7522b8e84d7f]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2023/55/part/6): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2025/135/article/4))
 
-[^key-29f0d12ef96e48cee3ed2a9b2dde0bba]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2023/55/part/6): functions in part to be treated as being exercisable in or as regards Scotland (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/135/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2025/135/article/4))
+[^c-29f0d12ef96e48cee3ed2a9b2dde0bba]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2023/55/part/6): functions in part to be treated as being exercisable in or as regards Scotland (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/135/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2025/135/article/4))

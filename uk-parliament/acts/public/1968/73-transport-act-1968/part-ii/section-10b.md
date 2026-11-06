@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10B. Boundaries of power under section 10A[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]
+## 10B. Boundaries of power under section 10A[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 (6) Where under section 10A(1)(e) the Executive does things for a commercial purpose, it must do them through—
 
 - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-cb92aa34d27c6b215dffe5feac5a8f3c] the Industrial and Provident Societies Act (Northern Ireland) 1969.
+- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-cb92aa34d27c6b215dffe5feac5a8f3c] the Industrial and Provident Societies Act (Northern Ireland) 1969.
 
 (7) In this section—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-cb92aa34d27c6b215dffe5feac5a8f3c]: Textual amendment: Words in s. 10B(6)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/22) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-cb92aa34d27c6b215dffe5feac5a8f3c]: Textual amendment: Words in s. 10B(6)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/22) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

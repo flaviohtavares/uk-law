@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Basic scheme information[^key-3111beafce5903fbb5864db1e44acd88]
+## 6. Basic scheme information[^c-3111beafce5903fbb5864db1e44acd88]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3111beafce5903fbb5864db1e44acd88]: Commencement: Reg. 6 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-3111beafce5903fbb5864db1e44acd88]: Commencement: Reg. 6 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122) to which there are amendments not relevant to these Regulations

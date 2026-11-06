@@ -31,7 +31,7 @@ summary: ''
 
 Overseas Territories
 
-The Burma (Restrictive Measures) (Overseas Territories) (Suspension) Order 2012 (revoked)[^key-cc171b2bc04b23299c777a9c8cbccd06]
+The Burma (Restrictive Measures) (Overseas Territories) (Suspension) Order 2012 (revoked)[^c-cc171b2bc04b23299c777a9c8cbccd06]
 
 Made
 
@@ -51,32 +51,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-cc171b2bc04b23299c777a9c8cbccd06]
+## 1. Citation, commencement and extent[^c-cc171b2bc04b23299c777a9c8cbccd06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cc171b2bc04b23299c777a9c8cbccd06]
+## 2. Interpretation[^c-cc171b2bc04b23299c777a9c8cbccd06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Order[^key-cc171b2bc04b23299c777a9c8cbccd06]
+## 3. Amendment of the principal Order[^c-cc171b2bc04b23299c777a9c8cbccd06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Suspension of provisions in the principal Order[^key-cc171b2bc04b23299c777a9c8cbccd06]
+## 4. Suspension of provisions in the principal Order[^c-cc171b2bc04b23299c777a9c8cbccd06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc171b2bc04b23299c777a9c8cbccd06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc171b2bc04b23299c777a9c8cbccd06]: Textual amendment: Order revoked (11.7.2013) by [The Burma (Sanctions) (Overseas Territories) Order 2013 (S.I. 2013/1447)](https://www.legislation.gov.uk/uksi/2013/1447), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1447/article/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2013/1447/article/15/b)
+[^c-cc171b2bc04b23299c777a9c8cbccd06]: Textual amendment: Order revoked (11.7.2013) by [The Burma (Sanctions) (Overseas Territories) Order 2013 (S.I. 2013/1447)](https://www.legislation.gov.uk/uksi/2013/1447), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1447/article/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2013/1447/article/15/b)

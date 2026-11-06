@@ -66,7 +66,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Road Traffic Act 1988[^key-6be19f6f3d1f4316d6c23f9bcd370bab]
+### 2. Amendment of the Road Traffic Act 1988[^c-6be19f6f3d1f4316d6c23f9bcd370bab]
 
 (1) The Road Traffic Act 1988 is amended as follows.
 
@@ -97,7 +97,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (ii) omit “(1B)(b) or”;
   - (iii) for “another place in the EEA” substitute “ the EEA state ”.
 
-### 3. Amendment of the Road Traffic Offenders Act 1988[^key-1bae1db21e5731b17ea757e25cc1969f]
+### 3. Amendment of the Road Traffic Offenders Act 1988[^c-1bae1db21e5731b17ea757e25cc1969f]
 
 (1) The Road Traffic Offenders Act 1988 [^c23451691] is amended as follows.
 
@@ -105,7 +105,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In section 91A(7)(b)(i) (application to Community licence holders) [^c23451711], for “another” substitute “ an ” .
 
-### 4. Amendment of the Road Traffic (New Drivers) Act 1995[^key-cb99cf6fbcb061818cd2b5b1411211e9]
+### 4. Amendment of the Road Traffic (New Drivers) Act 1995[^c-cb99cf6fbcb061818cd2b5b1411211e9]
 
 In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationary period for newly qualified drivers)—
 
@@ -114,7 +114,7 @@ In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationa
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 5. Amendment of the Driving Licences (Exchangeable Licences) Order 1999[^key-9d6543cdc1dd746f0aff36b878060854]
+### 5. Amendment of the Driving Licences (Exchangeable Licences) Order 1999[^c-9d6543cdc1dd746f0aff36b878060854]
 
 (1) The Driving Licences (Exchangeable Licences) Order 1999 [^c23451741] is amended as follows.
 
@@ -124,15 +124,15 @@ In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationa
 
 ### 6. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^M_I_e3a47ad0-9939-4337-eba5-22ed5953b261]
 
-(1)[^key-c7cace304b865ec2347b96fe0842a011] The Motor Vehicles (Driving Licences) Regulations 1999 [^c23451751] are amended as follows.
+(1)[^c-c7cace304b865ec2347b96fe0842a011] The Motor Vehicles (Driving Licences) Regulations 1999 [^c23451751] are amended as follows.
 
 (2) In regulation 3(1) (interpretation), omit the definition of “LGV trainee driver's licence”.
 
-(3)[^key-3482a1f4e1dbd7296c4cca2da445ee9f] In regulation 9 (minimum ages for holding or obtaining licences)—
+(3)[^c-3482a1f4e1dbd7296c4cca2da445ee9f] In regulation 9 (minimum ages for holding or obtaining licences)—
 
 - (a) for paragraph (13)(d) substitute—
 
-  > - (d) in paragraphs (7), (9), (9A) and (9B), “**initial qualification**” means “initial CPC or Swiss initial CPC[^key-18615eeed3843cf0f2ca65233ea4aa20]” within the meaning of the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007 [^c23451761];
+  > - (d) in paragraphs (7), (9), (9A) and (9B), “**initial qualification**” means “initial CPC or Swiss initial CPC[^c-18615eeed3843cf0f2ca65233ea4aa20]” within the meaning of the Vehicle Drivers (Certificates of Professional Competence) Regulations 2007 [^c23451761];
 
   ;
 - (b) omit paragraph (13)(e).
@@ -146,7 +146,7 @@ In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationa
 
 (6) In regulation 22 (interpretation of Part III), in the definition of “the CPC subjects”, at the end insert— “ , reading point 2.1 of section 1 of Annex 1 as if the references to Regulations [(EEC) No 3820/85](https://www.legislation.gov.uk/eur/1985/3820) and [(EEC) No 3821/85](https://www.legislation.gov.uk/eur/1985/3821) were references to Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) on the harmonisation of certain social legislation relating to road transport [^c23451771] and to Regulation (EU) No 165/2014 on tachographs in road transport [^c23451781]; ”.
 
-(7)[^key-3482a1f4e1dbd7296c4cca2da445ee9f] In regulation 24(1D) (persons by whom manoeuvres, practical and unitary tests may be conducted), at the end insert—
+(7)[^c-3482a1f4e1dbd7296c4cca2da445ee9f] In regulation 24(1D) (persons by whom manoeuvres, practical and unitary tests may be conducted), at the end insert—
 
 > reading that Annex as if—
 >
@@ -164,7 +164,7 @@ In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationa
 - (a) in Part 3 (category C), paragraph E4, for “Council Regulation 3821/85 (EEC)” substitute “ Regulation (EU) No 165/2014 on tachographs in road transport ”;
 - (b) in Part 4 (category D), paragraph E4, for “Council Regulation 3821/85 (EEC)” substitute “ Regulation (EU) No 165/2014 on tachographs in road transport ”.
 
-### 7. Amendment of the Driving Licences (Exchangeable Licences) Order 2002[^key-1f61e1409ee88b34fd41e4daa566eb33]
+### 7. Amendment of the Driving Licences (Exchangeable Licences) Order 2002[^c-1f61e1409ee88b34fd41e4daa566eb33]
 
 (1) The Driving Licences (Exchangeable Licences) Order 2002 [^c23451801] is amended as follows.
 
@@ -175,19 +175,19 @@ In section 1 of the Road Traffic (New Drivers) Act 1995 [^c23451721] (probationa
 
 (3) In article 4(2)(b)(ii) (designation of the Principality of Monaco), for “(including the United Kingdom)” substitute “ , in the United Kingdom ”.
 
-### 8. Amendment of the Driving Licences (Exchangeable Licences) Order 2004[^key-4709600adef245f9b61ef87deb845467]
+### 8. Amendment of the Driving Licences (Exchangeable Licences) Order 2004[^c-4709600adef245f9b61ef87deb845467]
 
 In article 3(2)(b)(ii) of the Driving Licences (Exchangeable Licences) Order 2004 [^c23451811] (designation of the Falkland Islands), for “(including the United Kingdom)” substitute “ , in the United Kingdom, ”.
 
-### 9. Amendment of the Driving Licences (Exchangeable Licences) Order 2007[^key-56ab03e06cce3ea8ded78e7eddaa09f4]
+### 9. Amendment of the Driving Licences (Exchangeable Licences) Order 2007[^c-56ab03e06cce3ea8ded78e7eddaa09f4]
 
 In article 3(2)(b)(ii) of the Driving Licences (Exchangeable Licences) Order 2007 [^c23451821] (designation of Faroe Islands), omit “(other than the United Kingdom)”.
 
-### 10. Amendment of the Driving Licences (Exchangeable Licences) (Amendment) Order 2013[^key-e3bf64c04b58da9ff29e6ec49f716330]
+### 10. Amendment of the Driving Licences (Exchangeable Licences) (Amendment) Order 2013[^c-e3bf64c04b58da9ff29e6ec49f716330]
 
 In article 5(2)(b)(ii)(bb) of the Driving Licences (Exchangeable Licences) (Amendment) Order 2013 [^c23451831] (designation), omit “(other than the United Kingdom)”.
 
-### 11. Amendment of the Driving Licences (Exchangeable Licences) Order 2016[^key-1048f349cbdd6cdcc40dc7224caf68c3]
+### 11. Amendment of the Driving Licences (Exchangeable Licences) Order 2016[^c-1048f349cbdd6cdcc40dc7224caf68c3]
 
 In article 3(2)(b)(ii)(bb) of the Driving Licences (Exchangeable Licences) Order 2016 [^c23451841] (designation of Switzerland: licencing category C, C+E, D or D+E), omit “(other than the United Kingdom)”.
 
@@ -220,7 +220,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23517921]: Commencement: Reg. 1 in force on "exit day" in accordance with reg. 1, see [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16) s. 20(1)(2)-(5)
 
-[^key-6be19f6f3d1f4316d6c23f9bcd370bab]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6be19f6f3d1f4316d6c23f9bcd370bab]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451651]: Marginal citation: Section 88(1B) was inserted by the [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22), [section 3](https://www.legislation.gov.uk/ukpga/1989/22/section/3). Paragraph (aa) was inserted by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [Schedule 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1), [paragraph 1](https://www.legislation.gov.uk/uksi/1996/1974/paragraph/1).
 
@@ -230,7 +230,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23451681]: Marginal citation: The definition of “community licence” in section 108(1) was amended by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [Schedule 1](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1), [paragraph 19(2)](https://www.legislation.gov.uk/uksi/1996/1974/paragraph/19/2). Section 108(1B), (1C) and (1D) were inserted by [S.I. 2014/3190](https://www.legislation.gov.uk/uksi/2014/3190), [regulation 10(1)](https://www.legislation.gov.uk/uksi/2014/3190/regulation/10/1) and (4).
 
-[^key-1bae1db21e5731b17ea757e25cc1969f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1bae1db21e5731b17ea757e25cc1969f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451691]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
@@ -238,25 +238,25 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23451711]: Marginal citation: Section 91A was inserted by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [Schedule 2](https://www.legislation.gov.uk/uksi/1996/1974/schedule/2), [paragraph 4](https://www.legislation.gov.uk/uksi/1996/1974/paragraph/4). Subsection (7) was substituted by the [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [Schedule 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3), [paragraphs 30](https://www.legislation.gov.uk/ukpga/2006/49/paragraph/30) and 59(1) and (6).
 
-[^key-cb99cf6fbcb061818cd2b5b1411211e9]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cb99cf6fbcb061818cd2b5b1411211e9]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451721]: Marginal citation: [1995 c. 13](https://www.legislation.gov.uk/ukpga/1995/13).
 
 [^c23451731]: Marginal citation: Subsection (2)(b)(i) was substituted by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [Schedule 4](https://www.legislation.gov.uk/uksi/1996/1974/schedule/4), [paragraph 5(2)](https://www.legislation.gov.uk/uksi/1996/1974/paragraph/5/2).
 
-[^key-9d6543cdc1dd746f0aff36b878060854]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9d6543cdc1dd746f0aff36b878060854]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451741]: Marginal citation: [S.I. 1999/1641](https://www.legislation.gov.uk/uksi/1999/1641), amended by [S.I. 2013/22](https://www.legislation.gov.uk/uksi/2013/22).
 
 [^M_I_e3a47ad0-9939-4337-eba5-22ed5953b261]: Commencement: Reg. 6(1) in force for specified purposes and reg. 6(2)(4)-(6)(8)-(10) in force at 22.12.2018, see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c7cace304b865ec2347b96fe0842a011]: Commencement: Reg. 6(1) in force at 31.12.2020 in so far as not already in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
+[^c-c7cace304b865ec2347b96fe0842a011]: Commencement: Reg. 6(1) in force at 31.12.2020 in so far as not already in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
 
 [^c23451751]: Marginal citation: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864); relevant amending instruments are [S.I. 2003/636](https://www.legislation.gov.uk/uksi/2003/636), [S.I](https://www.legislation.gov.uk/uksi/2003/636/section/I). 2004/1519, [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605), [S.I](https://www.legislation.gov.uk/uksi/2007/605/section/I). 2008/1435, [S.I. 2014/613](https://www.legislation.gov.uk/uksi/2014/613) and [S.I. 2014/3190](https://www.legislation.gov.uk/uksi/2014/3190).
 
-[^key-3482a1f4e1dbd7296c4cca2da445ee9f]: Commencement: Reg. 6(3)(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
+[^c-3482a1f4e1dbd7296c4cca2da445ee9f]: Commencement: Reg. 6(3)(7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3)
 
-[^key-18615eeed3843cf0f2ca65233ea4aa20]: Textual amendment: Words in reg. 6(3)(a) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/3)
+[^c-18615eeed3843cf0f2ca65233ea4aa20]: Textual amendment: Words in reg. 6(3)(a) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/3)
 
 [^c23451761]: Marginal citation: [S.I. 2007/605](https://www.legislation.gov.uk/uksi/2007/605), amended by [S.I. 2018/1004](https://www.legislation.gov.uk/uksi/2018/1004); there are other amending instruments but none is relevant.
 
@@ -266,22 +266,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23451791]: Marginal citation: OJ No. L 200, 31.7.2009, p. 1; amended by Regulation (EU) 166/2015 (OJ No. L 28, 4.2.2015, p. 3); there are other amending Regulations but none is relevant.
 
-[^key-1f61e1409ee88b34fd41e4daa566eb33]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1f61e1409ee88b34fd41e4daa566eb33]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451801]: Marginal citation: [S.I. 2002/2379](https://www.legislation.gov.uk/uksi/2002/2379), amended by [S.I. 2013/22](https://www.legislation.gov.uk/uksi/2013/22).
 
-[^key-4709600adef245f9b61ef87deb845467]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4709600adef245f9b61ef87deb845467]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451811]: Marginal citation: [S.I. 2004/301](https://www.legislation.gov.uk/uksi/2004/301), amended by [S.I. 2013/22](https://www.legislation.gov.uk/uksi/2013/22).
 
-[^key-56ab03e06cce3ea8ded78e7eddaa09f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-56ab03e06cce3ea8ded78e7eddaa09f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451821]: Marginal citation: [S.I. 2007/95](https://www.legislation.gov.uk/uksi/2007/95), amended by [S.I. 2013/22](https://www.legislation.gov.uk/uksi/2013/22).
 
-[^key-e3bf64c04b58da9ff29e6ec49f716330]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e3bf64c04b58da9ff29e6ec49f716330]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451831]: Marginal citation: [S.I. 2013/22](https://www.legislation.gov.uk/uksi/2013/22).
 
-[^key-1048f349cbdd6cdcc40dc7224caf68c3]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1048f349cbdd6cdcc40dc7224caf68c3]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23451841]: Marginal citation: [S.I. 2016/277](https://www.legislation.gov.uk/uksi/2016/277).

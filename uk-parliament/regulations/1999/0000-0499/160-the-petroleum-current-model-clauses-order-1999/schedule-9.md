@@ -22,15 +22,15 @@ summary: ''
 
 ### PART I
 
-**1.**[^key-835e16ea235b185749a78ff201e8b662] This Schedule has effect in relation to the following paragraphs of Schedule 1 to the Act, namely—
+**1.**[^c-835e16ea235b185749a78ff201e8b662] This Schedule has effect in relation to the following paragraphs of Schedule 1 to the Act, namely—
 
 - (a) paragraph 18 (Schedule 4 to the Petroleum (Production) (Seaward Areas) Regulations 1988[^f00086]);
 - (b) paragraph 19 (the said Schedule 4 as amended by the Offshore Safety Act 1992)[^f00087]), and
 - (c) paragraph 20 (the said Schedule 4 as amended as aforesaid and further amended by the Petroleum (Production) (Seaward Areas) (Amendment) Regulations 1995[^f00088]).
 
-**2.**[^key-472b4b62474169b3a6ca031e675b56a1] Subject to paragraphs 3, 4, 6 and 7, the current model clauses in relation to the said paragraphs 18, 19 and 20 are those reproduced in Part II.
+**2.**[^c-472b4b62474169b3a6ca031e675b56a1] Subject to paragraphs 3, 4, 6 and 7, the current model clauses in relation to the said paragraphs 18, 19 and 20 are those reproduced in Part II.
 
-**3.**[^key-a5e757cc70afc4858076102277c0b37b] (1) Where the licensed area is in the Scottish area, as defined in article 1(2) of the Civil Jurisdiction (Offshore Activities) Order 1987[^f00089], Part II shall have effect as provided in the two following sub-paragraphs.
+**3.**[^c-a5e757cc70afc4858076102277c0b37b] (1) Where the licensed area is in the Scottish area, as defined in article 1(2) of the Civil Jurisdiction (Offshore Activities) Order 1987[^f00089], Part II shall have effect as provided in the two following sub-paragraphs.
 
 (2) Part II shall have effect in such a case as if for model clause 38 (distress) there were substituted the following clause—
 
@@ -45,11 +45,11 @@ summary: ''
 - (a) for the word “arbitrator”, wherever it occurs in paragraphs (2) and (3), there were substituted the word “arbiter”, and
 - (b) for the words “the Lord Chief Justice of England for the time being”, in paragraph (2), there were substituted the words “the Lord President of the Court of Session”.
 
-**4.**[^key-017e5158c548e7e2678964019031e6ad] Where the licensed area is in the Northern Irish area, as defined in article 1(2) of the Civil Jurisdiction (Offshore Activities) Order 1987, Part II shall have effect as if in model clause 43 (arbitration) for the words “the Lord Chief Justice of England”, in paragraph (2), there were substituted the words “the Lord Chief Justice of Northern Ireland”.
+**4.**[^c-017e5158c548e7e2678964019031e6ad] Where the licensed area is in the Northern Irish area, as defined in article 1(2) of the Civil Jurisdiction (Offshore Activities) Order 1987, Part II shall have effect as if in model clause 43 (arbitration) for the words “the Lord Chief Justice of England”, in paragraph (2), there were substituted the words “the Lord Chief Justice of Northern Ireland”.
 
-**5.**[^key-c6afcd3d6eacf627fd49241ded0294bd] In paragraphs 3 and 4, any reference to the licensed area is a reference to the licensed area within the meaning of model clause 1(1) in Part II.
+**5.**[^c-c6afcd3d6eacf627fd49241ded0294bd] In paragraphs 3 and 4, any reference to the licensed area is a reference to the licensed area within the meaning of model clause 1(1) in Part II.
 
-**6.**[^key-84f2831240797ab42dceaab77e41b3b0] (1) In relation to paragraph 20 of Schedule 1 to the Act, Part II shall have effect as provided in the following nine sub-paragraphs.
+**6.**[^c-84f2831240797ab42dceaab77e41b3b0] (1) In relation to paragraph 20 of Schedule 1 to the Act, Part II shall have effect as provided in the following nine sub-paragraphs.
 
 (2) Part II shall have effect in such a case as if in model clause 9(1)—
 
@@ -108,7 +108,7 @@ summary: ''
 
 .
 
-**7.**[^key-397bc4ac82bf01bb956f967ee5b60806] Where
+**7.**[^c-397bc4ac82bf01bb956f967ee5b60806] Where
 
 - (a) section 1 of the Petroleum Royalties (Relief Act) 1983[^f00090] applies, or
 - (b) section 1 of the Petroleum Royalties (Relief) and Continental Shelf Act 1989[^f00091] applies,
@@ -117,7 +117,7 @@ Part II has effect subject to the provisions of the said Act of 1983, or, as the
 
 ### PART II
 
-#### 1. Interpretation[^key-1acf09da717842f9da53a1f508d612e0]
+#### 1. Interpretation[^c-1acf09da717842f9da53a1f508d612e0]
 
 (1) In the following clauses, the following expressions have the meanings hereby respectively assigned to them, that is to say:—
 
@@ -140,11 +140,11 @@ Part II has effect subject to the provisions of the said Act of 1983, or, as the
 
 (2) Any obligations which are to be observed and performed by the Licensee shall at any time at which the Licensee is more than one person be joint and several obligations.
 
-#### 3. Term of licence[^key-ea0f90455f553ac54218879d13d66285]
+#### 3. Term of licence[^c-ea0f90455f553ac54218879d13d66285]
 
 This licence unless sooner determined under any of the provisions hereof shall be and continue in force for the term of six years next after 19 , (hereinafter called “the initial term”); but if the terms and conditions of this licence are duly performed and observed and, in particular, if the work programme described in Schedule 4 to this licence has been duly performed, it may be continued for a further term of twelve years as provided by clause 4 of this licence and, if the terms and conditions of this licence continue to be duly performed and observed, thereafter as provided by clause 5 (and subject to the provisions of clause 6) of this licence for a further maximum period of eighteen years.
 
-#### 4. Option to continue licence as to part of the licensed area[^key-22e5a8aecf407d8d157da892bb8e7012]
+#### 4. Option to continue licence as to part of the licensed area[^c-22e5a8aecf407d8d157da892bb8e7012]
 
 (1) At any time not later than three months before the expiration of the initial term the Licensee paying the payments and royalties hereinafter provided and observing and performing the terms and conditions herein contained may give notice in writing to the Minister that he desires the licence to continue as to a part of the licensed area (hereinafter called “the continuing part”) in the manner hereinafter provided and to determine as to the residue thereof (hereinafter called “the surrendered part”).
 
@@ -161,7 +161,7 @@ This licence unless sooner determined under any of the provisions hereof shall b
 
 (4) This licence shall upon the option conferred by this clause being duly exercised but subject to the provisions of clause 3 of this licence continue in respect of the continuing part for a term of twelve years next after the surrender date (“the second term”).
 
-#### 5. Continuance of licence after the second term[^key-1142497852941a8027374327091bbe20]
+#### 5. Continuance of licence after the second term[^c-1142497852941a8027374327091bbe20]
 
 (1) At any time not later than three months before the expiry of the second term the Licensee paying the payments and royalties hereinafter provided and observing and performing the terms and conditions herein contained may give notice in writing to the Minister that he desires this licence to continue in force thereafter.
 
@@ -180,17 +180,17 @@ This licence unless sooner determined under any of the provisions hereof shall b
 
 (6) A direction given by the Minister in pursuance of paragraph (2)(d) of this clause or further direction given by the Minister in pursuance of paragraph (3) of this clause may be given subject to such conditions as he may specify and (without prejudice to the generality of the foregoing) such conditions may, subject to the provisions of paragraph (5) of this clause, include conditions as to the duration of the extension or further extension (as the case may be) of the second term.
 
-#### 6. Power further to extend term of licence[^key-0974379f76f664fa9a6dce0bc9e0a84d]
+#### 6. Power further to extend term of licence[^c-0974379f76f664fa9a6dce0bc9e0a84d]
 
 Where this licence has continued in force by virtue of clause 5 of this licence for a total period of eighteen years after the expiry of the second term, the Minister, on application being made to him in writing not later than three months before the expiry of such period, may in his discretion agree with the Licensee that this licence shall continue in force thereafter for such further period as the Minister and the Licensee may agree and subject to such modification of the terms and conditions of this licence (which modification may include making provision for any further extension of the term of this licence) as the Minister and the Licensee may then agree is appropriate.
 
-#### 7. Right of licensee to determine licence or surrender part of licensed area[^key-605a1ef0c6336f28a2c0945114b5b11a]
+#### 7. Right of licensee to determine licence or surrender part of licensed area[^c-605a1ef0c6336f28a2c0945114b5b11a]
 
 (1) Without prejudice to any obligation or liability imposed by or incurred under the terms hereof the Licensee may at any time by giving to the Minister not less than six months' notice in writing to that effect to expire on an anniversary of the date of commencement of the initial term, determine this licence or surrender any part of the licensed area being a part which complies with clause 8 hereof.
 
 (2) A notice given pursuant to paragraph (1) of this clause may be cancelled by a further notice in writing given to the Minister not less than one month before the expiration of the notice.
 
-#### 8. Areas surrendered[^key-717d27e3d8f48073a3524ef23551df90]
+#### 8. Areas surrendered[^c-717d27e3d8f48073a3524ef23551df90]
 
 (1) Within a block any area surrendered by the Licensee pursuant to either clause 4 or clause 7 of this licence and any area accordingly retained by him or, where the surrendered or retained area comprises separate parts, each part of each area shall, unless the Minister has otherwise agreed in writing before the date at which the appropriate notice is given by the Licensee to the Minister—
 
@@ -202,7 +202,7 @@ and where the surrendered or retained area comprises separate parts, each part o
 
 (2) Upon the date on which any determination of this licence or any surrender of part of the licensed area in manner provided by any of clauses 4, 5 and 7 of this licence is to take effect the rights granted by this licence shall cease in respect of the licensed area or of the part so surrendered as the case may be but without prejudice to any obligation or liability imposed upon the Licensee or incurred by him under the terms of this licence prior to that date.
 
-#### 8A. Provision of contact details to Minister[^key-edc820abaa4ef67cc3cba118661b666e]
+#### 8A. Provision of contact details to Minister[^c-edc820abaa4ef67cc3cba118661b666e]
 
 (1) A notice, direction or other document authorised or required (in whatever terms) to be given to the Licensee by virtue of this licence is treated as given to the Licensee if it is given to the person specified by the Licensee under paragraph (2) at the address so specified.
 
@@ -215,7 +215,7 @@ and where the surrendered or retained area comprises separate parts, each part o
 - (a) requires the Licensee to comply with paragraph (2) within the period of one month beginning with the date of the notice, and
 - (b) states that, if the Licensee fails to do so, the Licensee will be treated as having supplied under paragraph (2) the name and address specified by the Minister in the notice.
 
-#### 9. Payment of consideration for licence[^key-85544b1b9d9f4c229f4f48997b9184fb]
+#### 9. Payment of consideration for licence[^c-85544b1b9d9f4c229f4f48997b9184fb]
 
 (1) The Licensee shall make to the Minister as consideration for the grant of this licence—
 
@@ -225,7 +225,7 @@ and where the surrendered or retained area comprises separate parts, each part o
 
 (2) The Licensee shall not by reason of determination of the licence or surrender of any part of the licensed area be entitled to be repaid or allowed any sum payable to the Minister pursuant to this licence before the date of determination or surrender.
 
-#### 10. Royalty payments[^key-886559754ca29c6a0b88d9e8b25b6e59]
+#### 10. Royalty payments[^c-886559754ca29c6a0b88d9e8b25b6e59]
 
 (1) Subject to paragraph (2) of this clause the Licensee shall pay to the Minister, in respect of each half year in which this licence is in force (hereafter in this clause and in clauses 11 and 12 of this licence referred to as a “chargeable period”), a royalty of an amount equal to the percentage specified in Schedule 3 to this licence (hereinafter referred to as “the appropriate percentage”) of the value of the petroleum relating to that period.
 
@@ -248,7 +248,7 @@ he shall pay to the Minister a royalty of an amount equal to the difference.
 
 (8) In this clause and clauses 11 and 12, references to petroleum delivered to the Minister in pursuance of clause 13 include references to any excess over the quantity required to be delivered by a notice served in pursuance of paragraph (1) of that clause.
 
-#### 11. Payments by the Minister[^key-e00006f67ee535e13452dbb04d427b3d]
+#### 11. Payments by the Minister[^c-e00006f67ee535e13452dbb04d427b3d]
 
 If in any chargeable period the Licensee delivers to the Minister in pursuance of clause 13 of this licence petroleum having a value greater than the appropriate percentage of the aggregate of—
 
@@ -257,7 +257,7 @@ If in any chargeable period the Licensee delivers to the Minister in pursuance o
 
 the Minister shall pay to the Licensee a sum equal to the difference.
 
-#### 12. Provisions supplementary to clauses 10 and 11[^key-ba0d12e4a1e73568238292230900a6a8]
+#### 12. Provisions supplementary to clauses 10 and 11[^c-ba0d12e4a1e73568238292230900a6a8]
 
 (1) The Licensee shall, within two months after the end of each chargeable period, deliver to the Minister, in such form as the Minister may specify, a statement of—
 
@@ -299,7 +299,7 @@ the Minister shall pay to the Licensee a sum equal to the difference.
 
 (12) For the purposes of this clause any amount paid by the Licensee or the Minister on account of a prospective liability under paragraph (4), (5) or (6) of this clause shall be treated as paid in pursuance of that paragraph.
 
-#### 13. Deliveries of petroleum in place of royalties[^key-f32422d596f10974dd8d39a62f17a161]
+#### 13. Deliveries of petroleum in place of royalties[^c-f32422d596f10974dd8d39a62f17a161]
 
 (1) If during the term of this licence the Minister serves on the Licensee a notice in writing in accordance with the following provisions of this clause requiring the Licensee to deliver to the Minister part of the petroleum won and saved by the Licensee in the licensed area, the Licensee shall comply with the notice.
 
@@ -323,7 +323,7 @@ and the Minister shall, in deciding upon the terms of the actual notice, have re
 - (b) shall not specify, as the quantity of petroleum won and saved in any half year which is to be delivered in pursuance of the notice or as the quantity of any kind of such petroleum, a quantity greater than the appropriate percentage of all the petroleum, or as the case may be of all the petroleum of that kind, which is won and saved by the Licensee in the licensed area in that half year, but may provide that the quantities of the petroleum or of a kind of petroleum so won and saved which are to be so delivered shall not in the aggregate exceed a quantity specified in the notice;
 - (c) shall not specify, or enable to be specified, as a place at which delivery is to be made in pursuance of the notice a place which is neither a point at sea at which the Licensee normally loads, nor a point on land at which the Licensee normally lands, petroleum of any kind from that area.
 
-#### 14. Measurement of petroleum obtained from the licensed area[^key-0e7ba1b7cadffc4e6e0cb4a988afe9a5]
+#### 14. Measurement of petroleum obtained from the licensed area[^c-0e7ba1b7cadffc4e6e0cb4a988afe9a5]
 
 (1) The Licensee shall measure or weigh by a method or methods customarily used in good oilfield practice and from time to time approved by the Minister all petroleum won and saved from the licensed area.
 
@@ -341,7 +341,7 @@ and the Minister shall, in deciding upon the terms of the actual notice, have re
 
 (6) If any measuring or weighing appliance shall upon any such test or examination as is mentioned in the last foregoing paragraph be found to be false or unjust the same shall if the Minister so determines after considering any representations in writing made by the Licensee be deemed to have existed in that condition during the period since the last occasion upon which the same was tested or examined pursuant to the last foregoing paragraph.
 
-#### 15. Keeping of accounts[^key-49e1dca95007e4ebf4b17429571f5d77]
+#### 15. Keeping of accounts[^c-49e1dca95007e4ebf4b17429571f5d77]
 
 (1) The Licensee shall keep in the United Kingdom full and correct accounts in a form from time to time approved by the Minister of—
 
@@ -356,7 +356,7 @@ and the Minister shall, in deciding upon the terms of the actual notice, have re
 
 (4) The Licensee shall within two months after the end of each half year in which this licence is in force and within two months after the expiration or determination of this licence deliver to the Minister an abstract in a form from time to time approved by the Minister of the accounts for that half year or for the period prior to such expiration or determination as the case may be.
 
-#### 16. Working obligations[^key-6fd874f3ba17e5e1201c49481a0e0848]
+#### 16. Working obligations[^c-6fd874f3ba17e5e1201c49481a0e0848]
 
 (1) The Licensee shall before the expiry of the initial term of this licence carry out such scheme of prospecting including any geological survey by any physical or chemical means and such programme of test drilling (hereinafter collectively referred to as a “work programme”) as may be set out in Schedule 4 to this licence.
 
@@ -391,7 +391,7 @@ and any programme approved by the Minister in pursuance of this paragraph shall 
 
 (7) Where the Licensee has a duty by virtue of this clause to carry out a programme during a part of the term of this licence, the Minister may serve notice in pursuance of paragraph (2) of this clause in respect of another part of that term.
 
-#### 17. Development and production programmes[^key-75fa4a2ee416481952c9bb118aa50197]
+#### 17. Development and production programmes[^c-75fa4a2ee416481952c9bb118aa50197]
 
 (1) The Licensee shall not—
 
@@ -446,7 +446,7 @@ and the Minister shall not approve a programme subject to such a condition unles
 
 (9) In this clause “relevant works” means any structures and any other works whatsoever which are intended by the Licensee to be permanent and are neither designed to be moved from place to place without major dismantling nor intended by the Licensee to be used only for searching for petroleum.
 
-#### 18. Provisions supplementary to clause 17[^key-5a1f16e70bb272a12faf7a872905c3f4]
+#### 18. Provisions supplementary to clause 17[^c-5a1f16e70bb272a12faf7a872905c3f4]
 
 (1) A consent given by the Minister in pursuance of clause 17(1) of this licence may be given subject to such conditions as are specified in the document signifying the consent and may in particular, without prejudice to the generality of the preceding provisions of this paragraph, be limited to a period so specified.
 
@@ -496,11 +496,11 @@ and the Minister shall not give such a further notice of which an effect is to i
 
 and where in consequence of the said paragraph (8) or by virtue of the preceding provisions of this paragraph the Minister revokes this licence in respect of a part or portion of the licensed area, the rights granted by this licence shall cease in respect of that part or portion without prejudice to any obligation or liability imposed upon the Licensee or incurred by him under the terms of this licence.
 
-#### 19. Commencement and abandonment and plugging of wells[^key-a940f43c6529599254e509e2bd440edb]
+#### 19. Commencement and abandonment and plugging of wells[^c-a940f43c6529599254e509e2bd440edb]
 
 (1) The Licensee shall not commence or, after abandoning in manner hereinafter provided shall not recommence, the drilling of any well without the consent in writing of the Minister.
 
-(2) Subject to paragraph (5B), the[^key-6f9d19cbd2a2cea9ed53379e947728f7] Licensee shall not abandon any well without the consent in writing of the Minister.
+(2) Subject to paragraph (5B), the[^c-6f9d19cbd2a2cea9ed53379e947728f7] Licensee shall not abandon any well without the consent in writing of the Minister.
 
 (3) The Licensee shall ensure compliance with any conditions subject to which any consent under either of the foregoing paragraphs is given.
 
@@ -508,7 +508,7 @@ and where in consequence of the said paragraph (8) or by virtue of the preceding
 
 (5) The plugging of any well shall be done in accordance with a specification approved by the Minister applicable to that well or to wells generally or to a class of wells to which that well belongs and shall be carried out in an efficient and workmanlike manner.
 
-(5A)[^key-b425a271d545d4421827e7d89d6e5aa1] The Minister may at any time give the Licensee a notice requiring a well drilled pursuant to this licence to be plugged and abandoned in accordance with paragraph (5) within the period specified in the notice (but this paragraph is subject to paragraphs (5C) and (5D)).
+(5A)[^c-b425a271d545d4421827e7d89d6e5aa1] The Minister may at any time give the Licensee a notice requiring a well drilled pursuant to this licence to be plugged and abandoned in accordance with paragraph (5) within the period specified in the notice (but this paragraph is subject to paragraphs (5C) and (5D)).
 
 (5B) The Licensee shall comply with any notice under paragraph (5A).
 
@@ -516,17 +516,17 @@ and where in consequence of the said paragraph (8) or by virtue of the preceding
 
 (5D) A notice under paragraph (5A) may be given only in relation to a well from which the Licensee has not extracted any petroleum within the period of one month ending with the day on which the notice is given.
 
-(6) Any well drilled by the Licensee pursuant to this licence, which, at the expiry or determination of the Licensee’s rights in respect of the area or part thereof in which that well is drilled, has not with the consent of the Minister , or in accordance with a notice under paragraph (5A),[^key-50ef764dd8fa3de4bd28fbf584a1fef4] been abandoned, shall be left in good order and fit for further working together with all casings and any well head fixtures the removal whereof would cause damage to such well or if the Minister so directs in manner provided by paragraph (8) of this clause be plugged and sealed in accordance with the Minister’s direction.
+(6) Any well drilled by the Licensee pursuant to this licence, which, at the expiry or determination of the Licensee’s rights in respect of the area or part thereof in which that well is drilled, has not with the consent of the Minister , or in accordance with a notice under paragraph (5A),[^c-50ef764dd8fa3de4bd28fbf584a1fef4] been abandoned, shall be left in good order and fit for further working together with all casings and any well head fixtures the removal whereof would cause damage to such well or if the Minister so directs in manner provided by paragraph (8) of this clause be plugged and sealed in accordance with the Minister’s direction.
 
 (7) All casings and fixtures left in position pursuant to the last foregoing paragraph shall be the property of the Minister.
 
 (8) In any case to which paragraph (6) of this clause applies, a direction by the Minister may be given by notice in writing to the Licensee not less than one month before the Licensee’s rights in respect of the area or part thereof in which the well is situate expire or determine, specifying the manner in which the well is to be plugged and sealed and the time within which such work is to be done.
 
-#### 20. Distance of wells from boundaries of licensed area[^key-4e09c14697ca0661f4f26e05fa4051c1]
+#### 20. Distance of wells from boundaries of licensed area[^c-4e09c14697ca0661f4f26e05fa4051c1]
 
 No well shall except with the consent in writing of the Minister be drilled or made so that any part thereof is less than one hundred and twenty-five metres from any of the boundaries of the licensed area.
 
-#### 21. Control of development wells[^key-74753ce89e864d9140547cecfb57e8d8]
+#### 21. Control of development wells[^c-74753ce89e864d9140547cecfb57e8d8]
 
 (1) The Licensee shall not suspend work on the drilling of a development well, or having suspended it in accordance with this paragraph shall not begin it again, except with the consent in writing of the Minister and in accordance with the conditions, if any, subject to which the consent is given.
 
@@ -543,11 +543,11 @@ No well shall except with the consent in writing of the Minister be drilled or m
 - “completion work”, in relation to a well, means work, by way of the installation of a casing or equipment or otherwise after the well has been drilled, for the purpose of bringing the well into use as a development well; and
 - “development well” means a well which the Licensee uses or intends to use in connection with the getting of petroleum in the licensed area, other than a well which for the time being he uses or intends to use only for searching for petroleum.
 
-#### 22. Provision of storage tanks, pipes, pipe-lines or other receptacles[^key-fabcdfed597ac2352c7c2984dd751cd9]
+#### 22. Provision of storage tanks, pipes, pipe-lines or other receptacles[^c-fabcdfed597ac2352c7c2984dd751cd9]
 
 The Licensee shall use methods and practice customarily used in good oilfield practice for confining the petroleum obtained from the licensed area in tanks, gasholders, pipes, pipe-lines or other receptacles constructed for that purpose.
 
-#### 23. Avoidance of harmful methods of working[^key-b1a0675a1c471e0b1d42888d6fc88ba3]
+#### 23. Avoidance of harmful methods of working[^c-b1a0675a1c471e0b1d42888d6fc88ba3]
 
 (1) The Licensee shall maintain all apparatus and appliances and all wells in the licensed area which have not been abandoned and plugged as provided by clause 19 of this licence in good repair and condition and shall execute all operations in or in connection with the licensed area in a proper and workmanlike manner in accordance with methods and practice customarily used in good oilfield practice and without prejudice to the generality of the foregoing provision the Licensee shall take all steps practicable in order—
 
@@ -586,17 +586,17 @@ but when the Licensee does any flaring which is necessary as aforesaid he shall 
 - (a) give the Licensee particulars of the proposal and an opportunity of making representations to the Minister about the proposal; and
 - (b) consider any representations then made to him by the Licensee about the proposal.
 
-#### 24. Appointment of operators[^key-0b9d0ead586f80350757efab54c497c1]
+#### 24. Appointment of operators[^c-0b9d0ead586f80350757efab54c497c1]
 
 (1) The Licensee shall ensure that another person (including, in the case where the Licensee is two or more persons, any of those persons) does not exercise any function of organising or supervising all or any of the operations of searching or boring for or getting petroleum in pursuance of this licence unless that other person is a person approved in writing by the Minister and the function in question is one to which that approval relates.
 
 (2) The Minister shall not refuse to give his approval of a person in pursuance of paragraph (1) of this clause if that person is competent to exercise the function in question; but where an approved person is no longer competent to exercise that function the Minister may, by notice in writing given to the Licensee, revoke his approval.
 
-#### 25. Fishing and navigation[^key-78e9d0402e5c43b6edae0f116ffb10c3]
+#### 25. Fishing and navigation[^c-78e9d0402e5c43b6edae0f116ffb10c3]
 
 The Licensee shall not carry out any operations authorised by this licence in or about the licensed area in such manner as to interfere unjustifiably with navigation or fishing in the waters of the licensed area or with the conservation of the living resources of the sea.
 
-#### 27. Training[^key-dac4bc04566b6aa56141249a681a6f3e]
+#### 27. Training[^c-dac4bc04566b6aa56141249a681a6f3e]
 
 (1) The Minister may from time to time give to the Licensee instructions in writing as to the training of persons employed or to be employed, whether by the Licensee or by any other person, in any activity which is related to the exercise of the rights granted by this licence and the Licensee shall ensure that any instructions so given are complied with.
 
@@ -604,7 +604,7 @@ The Licensee shall not carry out any operations authorised by this licence in or
 
 (3) The Licensee shall furnish the Minister with such information relating to the training of persons referred to in paragraph (1) of this clause as the Minister may from time to time request.
 
-#### 28. Unit development[^key-daea678753a401e8325e4db6652b0624]
+#### 28. Unit development[^c-daea678753a401e8325e4db6652b0624]
 
 (1) If at any time in which this licence is in force the Minister shall be satisfied that the strata in the licensed area or any part thereof form part of a single geological petroleum structure or petroleum field (hereinafter referred to as “an oil field”) other parts whereof are formed by strata in areas in respect of which other licences granted in pursuance of—
 
@@ -630,7 +630,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 
 (6) Any such development scheme or the award of any arbitrator in relation thereto shall have regard to any direction pursuant to clause 29 of this licence in force at the date of such scheme.
 
-#### 29. Directions as to oil fields across boundaries[^key-3b4b17369ce47d3aa45017ab581f28ca]
+#### 29. Directions as to oil fields across boundaries[^c-3b4b17369ce47d3aa45017ab581f28ca]
 
 (1) Where the Minister is satisfied that any strata in the licensed area or any part thereof form part of an oil field, other parts whereof are in an area to which the Minister’s powers to grant licences pursuant to Part I of the Act of 1998 do not apply, and the Minister is satisfied that it is expedient that the oil field should be worked and developed as a unit in co-operation by the Licensee and all other persons having an interest in any part of the oil field, the Minister may from time to time by notice in writing give to the Licensee such directions as the Minister may think fit, as to the manner in which the rights conferred by this licence shall be exercised.
 
@@ -638,7 +638,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 
 (3) Any such direction may add to, vary or revoke the provisions of a development scheme.
 
-#### 30. Disposal of petroleum[^key-9b10e33ba12ddb90e7309a7a9762d48d]
+#### 30. Disposal of petroleum[^c-9b10e33ba12ddb90e7309a7a9762d48d]
 
 (1) The Licensee shall ensure that all petroleum won and saved from the licensed area other than petroleum used therein for the purpose of carrying on drilling and production operations or pumping to field storage and refineries shall be delivered on shore in the United Kingdom unless the Minister gives notice of his consent in writing to delivery elsewhere, and in such case the Licensee shall ensure compliance with any conditions subject to which that consent is given.
 
@@ -649,7 +649,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 - (c) as to the time within which and the manner in which payment of the price is to be made; and
 - (d) requiring payment to be made to a person resident in the United Kingdom.
 
-#### 31. Licensee to keep records[^key-575826ce770a1e70cefdeae7edf25cbe]
+#### 31. Licensee to keep records[^c-575826ce770a1e70cefdeae7edf25cbe]
 
 (1) The Licensee shall keep accurate records in a form from time to time approved by the Minister of the drilling, deepening, plugging or abandonment of all wells and of any alterations in the casing thereof. Such records shall contain particulars of the following matters—
 
@@ -663,7 +663,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 
 (3) The Licensee shall deliver copies of the said records, plans and maps referred to in the two foregoing paragraphs to the Minister as and when required.
 
-#### 32. Returns[^key-b088cb387a2b8734911133e65c336a6a]
+#### 32. Returns[^c-b088cb387a2b8734911133e65c336a6a]
 
 (1) The Licensee shall furnish to the Minister three months from the date of this licence and at intervals of three months thereafter during the period in which this licence is in force a return in a form from time to time approved by the Minister of the progress of his operations in the licensed area. Such return shall contain—
 
@@ -679,7 +679,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 
 (4) The functions of the Minister under paragraph (3) of this clause shall not only be exercisable by him but also be concurrently exerciseable by the Chancellor of the Exchequer.
 
-#### 33. Licensee to keep samples[^key-fb41e7d2819134e4a2e41aa6be536e06]
+#### 33. Licensee to keep samples[^c-fb41e7d2819134e4a2e41aa6be536e06]
 
 (1) As far as reasonably practicable the Licensee shall correctly label and preserve for reference for a period of five years samples of the sea bed and of the strata encountered in any well and samples of any petroleum or water discovered in any well in the licensed area.
 
@@ -695,7 +695,7 @@ in respect of any part or parts of the oil field (hereinafter referred to as “
 
 (4) The Licensee shall forthwith comply with any request for the delivery of the whole or any part of any sample which is made in accordance with the preceding provisions of this clause.
 
-#### 34. Reports to be treated as confidential[^key-d7d94f6532348afadc9b18f7d2d973b6]
+#### 34. Reports to be treated as confidential[^c-d7d94f6532348afadc9b18f7d2d973b6]
 
 All records, returns, plans, maps, samples, accounts and information (in this clause referred to as “the specified data”) which the Licensee is or may be from time to time required to furnish under the provisions of this licence shall be supplied at the expense of the Licensee and shall not (except with the consent in writing of the Licensee which shall not be unreasonably withheld) be disclosed to any person not in the service or employment of the Crown:
 
@@ -706,37 +706,37 @@ Provided that—
 - (iii) the Minister, the said Council and any such other body shall be entitled at any time to prepare and publish reports and surveys of a general nature using information derived from any of the specified data;
 - (iv) the Minister, the said Council and any such other body shall be entitled to publish any of the specified data of a geological, scientific or technical kind after the expiration of the period of five years beginning with the date when the Minister received the data or after the expiration of such longer period as the Minister may determine after considering any representations made to him by the Licensee about the publication of data in pursuance of this sub-paragraph.
 
-#### 35. Inspection of records etc.[^key-5271b658f73023372362f21f95366657]
+#### 35. Inspection of records etc.[^c-5271b658f73023372362f21f95366657]
 
 The Licensee shall—
 
 - (a) permit any person in the service or employment of the Crown who is appointed by the Minister for the purpose to inspect, and to take copies of and make notes from, all books, papers, maps and other records of any kind kept by the Licensee in pursuance of this licence or in connection with activities about which the Minister is entitled to obtain information in pursuance of clauses 27(3) and 32(3) of this licence; and
 - (b) furnish that person at reasonable times with such information and provide him at reasonable times with such reasonable assistance as he may request in connection with or arising out of an inspection in pursuance of this clause.
 
-#### 36. Rights of access[^key-a1e5348090b32036219c672f3b836d2d]
+#### 36. Rights of access[^c-a1e5348090b32036219c672f3b836d2d]
 
 Any person or persons authorised by the Minister shall be entitled at all reasonable times to enter into and upon any of the Licensee’s installations or equipment used or to be used in connection with searching, boring for or getting petroleum in the licensed area for the purpose hereinafter mentioned—
 
 - (a) to examine the installations, wells, plant, appliances and works made or executed by the Licensee in pursuance of the licence and the state of repair and condition thereof; and
 - (b) to execute any works or to provide and install any equipment which the Minister may be entitled to execute or provide and install in accordance with the provisions hereof.
 
-#### 37. Power to execute works[^key-74d3d5232615f74bffe5d9d3102f956b]
+#### 37. Power to execute works[^c-74d3d5232615f74bffe5d9d3102f956b]
 
 If the Licensee shall at any time fail to perform the obligations arising under the terms and conditions of any of clauses 14, 19, 22 and 23 of this licence, the Minister shall be entitled, after giving to the Licensee reasonable notice in writing of such his intention, to execute any works and to provide and install any equipment which in the opinion of the Minister may be necessary to secure the performance of the said obligations or any of them and to recover the costs and expenses of so doing from the Licensee.
 
-#### 38. Right of distress[^key-b626d044044ef6d8fbc9d2e4a24172b9]
+#### 38. Right of distress[^c-b626d044044ef6d8fbc9d2e4a24172b9]
 
 If and whenever any of the payments mentioned in clause 9(1) of this licence or any part thereof shall be in arrear or unpaid for 28 days next after any of the days whereon the same ought to be paid (whether the same shall have been legally demanded or not) then and so often as the same may happen the Minister may (as an additional remedy and without prejudice to the power of distress and any other rights and remedies to which he would be entitled) enter into and upon any of the Licensee’s installations and equipment used or to be used in connection with searching, boring for or getting petroleum in the licensed area and may seize and distrain and sell as a landlord may do for rent in arrear all or any of the stocks of petroleum, engines, machinery, tools, implements, chattels and effects belonging to the Licensee which shall be found in or upon or about the installations and equipment so entered upon and out of the moneys arising from the sale of such distress may retain and pay all the arrears of the said payments and also the costs and expenses incident to any such distress and sale rendering the surplus (if any) to the Licensee.
 
-#### 39. Indemnity against third party claims[^key-49035835cc4079a563dd5d8d6161deaa]
+#### 39. Indemnity against third party claims[^c-49035835cc4079a563dd5d8d6161deaa]
 
 The Licensee shall at all times keep the Minister effectually indemnified against all actions, proceedings, costs, charges, claims and demands whatsoever which may be made or brought against the Minister by any third party in relation to or in connection with this licence or any matter or thing done or purported to be done in pursuance thereof.
 
-#### 40. Advertisements, prospectuses etc.[^key-6ca46d68ad6896269d6cd4a17fb0a2d5]
+#### 40. Advertisements, prospectuses etc.[^c-6ca46d68ad6896269d6cd4a17fb0a2d5]
 
 No statement shall be made either in any notice, advertisement, prospectus or other document issued by or to the knowledge of the Licensee or in any other manner claiming or suggesting whether expressly or by implication that Her Majesty or any Government Department or any person or body acting on behalf of Her Majesty has or have formed or expressed any opinion that the licensed area is from its geological formation or otherwise one in which petroleum is likely to be obtainable.
 
-#### 41. Restrictions on assignment, etc.[^key-37f48fa1b3a0d823cbed1e836e2717b4]
+#### 41. Restrictions on assignment, etc.[^c-37f48fa1b3a0d823cbed1e836e2717b4]
 
 (1) The Licensee shall not, except with the consent in writing of the Minister and in accordance with the conditions (if any) of the consent, do anything whatsoever whereby, under the law (including the rules of equity) of any part of the United Kingdom or of any other place, any right granted by this licence or derived from a right so granted becomes exercisable by or for the benefit of or in accordance with the directions of another person.
 
@@ -765,7 +765,7 @@ and if the information intended to be obtained by such survey is reasonably nece
 
 unless the terms of the agreement have been approved in writing by the Minister; but the preceding provisions of this paragraph do not apply to an agreement for the sale of such petroleum under which the price is payable after the petroleum is won and saved and an agreement in so far as it provides that, after any petroleum has been won and saved from the licensed area, it shall be exchanged for other petroleum.
 
-#### 41A. Change in control of Licensee[^key-1a4335874b339d14ec5bc9d196c3f8ed]
+#### 41A. Change in control of Licensee[^c-1a4335874b339d14ec5bc9d196c3f8ed]
 
 (1) This clause applies if—
 
@@ -809,7 +809,7 @@ and references in this clause to a company are to such a company.
 
 (11) For the purposes of this clause, the question of whether a person has control of a company is to be determined in accordance with the test set out in clause 41(4).
 
-#### 42. Power of revocation[^key-4977c3a03df117ba81cf406735a6820b]
+#### 42. Power of revocation[^c-4977c3a03df117ba81cf406735a6820b]
 
 (1) If any of the events specified in the following paragraph shall occur then and in any such case the Minister may revoke this licence and thereupon the same and all the rights hereby granted shall cease and determine but subject nevertheless and without prejudice to any obligation or liability incurred by the Licensee or imposed upon him by or under the terms and conditions hereof.
 
@@ -824,33 +824,33 @@ and references in this clause to a company are to such a company.
 - (g) the Licensee’s ceasing in the case of a company to have its central management and control in the United Kingdom;
 - (h) any breach of a condition subject to which the Minister gave his approval in pursuance of clause 41(3) of this licence;
 - (i) any breach of clause 41(5) of this licence;
-- (j)[^key-88a2396f0890ee282e7d04121c0ac8e4] if the Licensee is a company, any breach of a condition subject to which the Oil and Gas Authority gave its consent to a change in control of the Licensee (see clause 41A);
+- (j)[^c-88a2396f0890ee282e7d04121c0ac8e4] if the Licensee is a company, any breach of a condition subject to which the Oil and Gas Authority gave its consent to a change in control of the Licensee (see clause 41A);
 - (k) if the Licensee is a company, any failure to provide full and accurate information in response to a notice given by the Oil and Gas Authority to that company under section 5D of the Act of 1998;
 
-and where two or more persons are the Licensee any reference to the Licensee in sub-paragraphs (c) to (g) or (j) or (k)[^key-11b67cd75d304f36de1a4658cc59923d] of this paragraph is a reference to any of those persons.
+and where two or more persons are the Licensee any reference to the Licensee in sub-paragraphs (c) to (g) or (j) or (k)[^c-11b67cd75d304f36de1a4658cc59923d] of this paragraph is a reference to any of those persons.
 
-(3)[^key-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3aa2e7c58b00db048761b9434880fd3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 42A. Power of partial revocation[^key-d5f411e47b84313d44d23aa36b7ff038]
+#### 42A. Power of partial revocation[^c-d5f411e47b84313d44d23aa36b7ff038]
 
-(1)[^key-7cb677a4a495d2ec4e45fabe26d69e2d] This clause applies in a case where two or more persons are the Licensee and—
+(1)[^c-7cb677a4a495d2ec4e45fabe26d69e2d] This clause applies in a case where two or more persons are the Licensee and—
 
 - (a) an event mentioned in clause 42(2)(c), (d), (e) or (g) occurs in relation to one of those persons;
 - (b) an event mentioned in clause 42(2)(b) occurs which consists of a breach of clause 41A(2) or (4) in relation to a change in control of one of those persons;
 - (c) an event mentioned in clause 42(2)(j) occurs in relation to a change in control of one of those persons (see clause 41A); or
 - (d) an event mentioned in clause 42(2)(k) occurs which consists of a failure by one of those persons as mentioned in that provision.
 
-(2) Where this clause applies, the Minister may exercise the power of revocation in clause 42 to revoke the licence in so far as it applies to the person mentioned in paragraph (1)(a) , (b), (c) or (d)[^key-735e46cf6bb1a4dbc73c9f1f7237dd0a].
+(2) Where this clause applies, the Minister may exercise the power of revocation in clause 42 to revoke the licence in so far as it applies to the person mentioned in paragraph (1)(a) , (b), (c) or (d)[^c-735e46cf6bb1a4dbc73c9f1f7237dd0a].
 
 (3) If the Minister exercises the power in paragraph (2), the rights granted to the person under this licence cease, but without prejudice to any obligation or liability incurred by the person or imposed under the terms and conditions of this licence.
 
 (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-#### 43. Arbitration[^key-0d1b1ae4b073c664b556e84cde62e3c0]
+#### 43. Arbitration[^c-0d1b1ae4b073c664b556e84cde62e3c0]
 
 (1) If at any time any dispute, difference or question shall arise between the Minister and the Licensee as to any matter arising under or by virtue of this licence or as to their respective rights and liabilities in respect thereof then the same shall, except where it is expressly provided by this licence that the matter or thing to which the same relates is to be determined, decided, directed, approved or consented to by the Minister, be referred to arbitration as provided by the following paragraph.
 
@@ -858,7 +858,7 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 ## Annotations
 
-[^key-835e16ea235b185749a78ff201e8b662]: Commencement: Sch. 9 para. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-835e16ea235b185749a78ff201e8b662]: Commencement: Sch. 9 para. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00086]: Footnote: S.I. [1988/1213](https://www.legislation.gov.uk/uksi/1988/1213).
 
@@ -866,25 +866,25 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 [^f00088]: Footnote: S.I. [1995/1435](https://www.legislation.gov.uk/uksi/1995/1435).
 
-[^key-472b4b62474169b3a6ca031e675b56a1]: Commencement: Sch. 9 para. 2 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-472b4b62474169b3a6ca031e675b56a1]: Commencement: Sch. 9 para. 2 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-a5e757cc70afc4858076102277c0b37b]: Commencement: Sch. 9 para. 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-a5e757cc70afc4858076102277c0b37b]: Commencement: Sch. 9 para. 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00089]: Footnote: S.I. [1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-017e5158c548e7e2678964019031e6ad]: Commencement: Sch. 9 para. 4 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-017e5158c548e7e2678964019031e6ad]: Commencement: Sch. 9 para. 4 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-c6afcd3d6eacf627fd49241ded0294bd]: Commencement: Sch. 9 para. 5 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-c6afcd3d6eacf627fd49241ded0294bd]: Commencement: Sch. 9 para. 5 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-84f2831240797ab42dceaab77e41b3b0]: Commencement: Sch. 9 para. 6 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-84f2831240797ab42dceaab77e41b3b0]: Commencement: Sch. 9 para. 6 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-397bc4ac82bf01bb956f967ee5b60806]: Commencement: Sch. 9 para. 7 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-397bc4ac82bf01bb956f967ee5b60806]: Commencement: Sch. 9 para. 7 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00090]: Footnote: [1983 c. 59](https://www.legislation.gov.uk/ukpga/1983/59); extended by section 2 of the Petroleum Royalties (Relief) and Continental Shelf Act [1989 (c. 1)](https://www.legislation.gov.uk/ukpga/1989/1) and modified by paragraph 8 of Schedule 3 to the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17).
 
 [^f00091]: Footnote: [1989 (c. 1)](https://www.legislation.gov.uk/ukpga/1989/1) and modified by paragraph 8 of Schedule 3 to the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-1acf09da717842f9da53a1f508d612e0]: Commencement: Sch. 9 clause 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-1acf09da717842f9da53a1f508d612e0]: Commencement: Sch. 9 clause 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00092]: Footnote: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36).
 
@@ -892,110 +892,110 @@ and where two or more persons are the Licensee any reference to the Licensee in 
 
 [^f00094]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-ea0f90455f553ac54218879d13d66285]: Commencement: Sch. 9 clause 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-ea0f90455f553ac54218879d13d66285]: Commencement: Sch. 9 clause 3 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-22e5a8aecf407d8d157da892bb8e7012]: Commencement: Sch. 9 clause 4 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-22e5a8aecf407d8d157da892bb8e7012]: Commencement: Sch. 9 clause 4 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-1142497852941a8027374327091bbe20]: Commencement: Sch. 9 clause 5 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-1142497852941a8027374327091bbe20]: Commencement: Sch. 9 clause 5 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-0974379f76f664fa9a6dce0bc9e0a84d]: Commencement: Sch. 9 clause 6 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-0974379f76f664fa9a6dce0bc9e0a84d]: Commencement: Sch. 9 clause 6 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-605a1ef0c6336f28a2c0945114b5b11a]: Commencement: Sch. 9 clause 7 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-605a1ef0c6336f28a2c0945114b5b11a]: Commencement: Sch. 9 clause 7 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-717d27e3d8f48073a3524ef23551df90]: Commencement: Sch. 9 clause 8 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-717d27e3d8f48073a3524ef23551df90]: Commencement: Sch. 9 clause 8 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-edc820abaa4ef67cc3cba118661b666e]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 8A inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-edc820abaa4ef67cc3cba118661b666e]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 8A inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-85544b1b9d9f4c229f4f48997b9184fb]: Commencement: Sch. 9 clause 9 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-85544b1b9d9f4c229f4f48997b9184fb]: Commencement: Sch. 9 clause 9 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-886559754ca29c6a0b88d9e8b25b6e59]: Commencement: Sch. 9 clause 10 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-886559754ca29c6a0b88d9e8b25b6e59]: Commencement: Sch. 9 clause 10 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00095]: Footnote: [1975 c. 27](https://www.legislation.gov.uk/ukpga/1975/27); section 2(4) and (5) was amended by section 133 of, and Schedule 19 to, the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16) and section 236 of, and Schedule 23 to, the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-e00006f67ee535e13452dbb04d427b3d]: Commencement: Sch. 9 clause 11 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-e00006f67ee535e13452dbb04d427b3d]: Commencement: Sch. 9 clause 11 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-ba0d12e4a1e73568238292230900a6a8]: Commencement: Sch. 9 clause 12 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-ba0d12e4a1e73568238292230900a6a8]: Commencement: Sch. 9 clause 12 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00096]: Footnote: Paragraph 2 was amended by section 62 of, and Part X of Schedule 16 to, the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 187 of the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34) and section 236 of, and Schedule 23 to, the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-f32422d596f10974dd8d39a62f17a161]: Commencement: Sch. 9 clause 13 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-f32422d596f10974dd8d39a62f17a161]: Commencement: Sch. 9 clause 13 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-0e7ba1b7cadffc4e6e0cb4a988afe9a5]: Commencement: Sch. 9 clause 14 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-0e7ba1b7cadffc4e6e0cb4a988afe9a5]: Commencement: Sch. 9 clause 14 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-49e1dca95007e4ebf4b17429571f5d77]: Commencement: Sch. 9 clause 15 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-49e1dca95007e4ebf4b17429571f5d77]: Commencement: Sch. 9 clause 15 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-6fd874f3ba17e5e1201c49481a0e0848]: Commencement: Sch. 9 clause 16 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-6fd874f3ba17e5e1201c49481a0e0848]: Commencement: Sch. 9 clause 16 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-75fa4a2ee416481952c9bb118aa50197]: Commencement: Sch. 9 clause 17 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-75fa4a2ee416481952c9bb118aa50197]: Commencement: Sch. 9 clause 17 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-5a1f16e70bb272a12faf7a872905c3f4]: Commencement: Sch. 9 clause 18 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-5a1f16e70bb272a12faf7a872905c3f4]: Commencement: Sch. 9 clause 18 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-a940f43c6529599254e509e2bd440edb]: Commencement: Sch. 9 clause 19 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-a940f43c6529599254e509e2bd440edb]: Commencement: Sch. 9 clause 19 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-6f9d19cbd2a2cea9ed53379e947728f7]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(2) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/a); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-6f9d19cbd2a2cea9ed53379e947728f7]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(2) substituted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/a); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-b425a271d545d4421827e7d89d6e5aa1]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(5A)-(5D) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/b); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-b425a271d545d4421827e7d89d6e5aa1]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(5A)-(5D) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/b); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-50ef764dd8fa3de4bd28fbf584a1fef4]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(6) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/c); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-50ef764dd8fa3de4bd28fbf584a1fef4]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 19(6) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/3/c); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-4e09c14697ca0661f4f26e05fa4051c1]: Commencement: Sch. 9 clause 20 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-4e09c14697ca0661f4f26e05fa4051c1]: Commencement: Sch. 9 clause 20 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-74753ce89e864d9140547cecfb57e8d8]: Commencement: Sch. 9 clause 21 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-74753ce89e864d9140547cecfb57e8d8]: Commencement: Sch. 9 clause 21 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-fabcdfed597ac2352c7c2984dd751cd9]: Commencement: Sch. 9 clause 22 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-fabcdfed597ac2352c7c2984dd751cd9]: Commencement: Sch. 9 clause 22 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-b1a0675a1c471e0b1d42888d6fc88ba3]: Commencement: Sch. 9 clause 23 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-b1a0675a1c471e0b1d42888d6fc88ba3]: Commencement: Sch. 9 clause 23 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-0b9d0ead586f80350757efab54c497c1]: Commencement: Sch. 9 clause 24 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-0b9d0ead586f80350757efab54c497c1]: Commencement: Sch. 9 clause 24 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-78e9d0402e5c43b6edae0f116ffb10c3]: Commencement: Sch. 9 clause 25 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-78e9d0402e5c43b6edae0f116ffb10c3]: Commencement: Sch. 9 clause 25 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-dac4bc04566b6aa56141249a681a6f3e]: Commencement: Sch. 9 clause 27 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-dac4bc04566b6aa56141249a681a6f3e]: Commencement: Sch. 9 clause 27 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-daea678753a401e8325e4db6652b0624]: Commencement: Sch. 9 clause 28 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-daea678753a401e8325e4db6652b0624]: Commencement: Sch. 9 clause 28 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-3b4b17369ce47d3aa45017ab581f28ca]: Commencement: Sch. 9 clause 29 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-3b4b17369ce47d3aa45017ab581f28ca]: Commencement: Sch. 9 clause 29 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-9b10e33ba12ddb90e7309a7a9762d48d]: Commencement: Sch. 9 clause 30 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-9b10e33ba12ddb90e7309a7a9762d48d]: Commencement: Sch. 9 clause 30 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-575826ce770a1e70cefdeae7edf25cbe]: Commencement: Sch. 9 clause 31 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-575826ce770a1e70cefdeae7edf25cbe]: Commencement: Sch. 9 clause 31 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-b088cb387a2b8734911133e65c336a6a]: Commencement: Sch. 9 clause 32 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-b088cb387a2b8734911133e65c336a6a]: Commencement: Sch. 9 clause 32 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-fb41e7d2819134e4a2e41aa6be536e06]: Commencement: Sch. 9 clause 33 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-fb41e7d2819134e4a2e41aa6be536e06]: Commencement: Sch. 9 clause 33 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-d7d94f6532348afadc9b18f7d2d973b6]: Commencement: Sch. 9 clause 34 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-d7d94f6532348afadc9b18f7d2d973b6]: Commencement: Sch. 9 clause 34 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-5271b658f73023372362f21f95366657]: Commencement: Sch. 9 clause 35 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-5271b658f73023372362f21f95366657]: Commencement: Sch. 9 clause 35 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-a1e5348090b32036219c672f3b836d2d]: Commencement: Sch. 9 clause 36 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-a1e5348090b32036219c672f3b836d2d]: Commencement: Sch. 9 clause 36 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-74d3d5232615f74bffe5d9d3102f956b]: Commencement: Sch. 9 clause 37 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-74d3d5232615f74bffe5d9d3102f956b]: Commencement: Sch. 9 clause 37 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-b626d044044ef6d8fbc9d2e4a24172b9]: Commencement: Sch. 9 clause 38 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-b626d044044ef6d8fbc9d2e4a24172b9]: Commencement: Sch. 9 clause 38 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-49035835cc4079a563dd5d8d6161deaa]: Commencement: Sch. 9 clause 39 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-49035835cc4079a563dd5d8d6161deaa]: Commencement: Sch. 9 clause 39 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-6ca46d68ad6896269d6cd4a17fb0a2d5]: Commencement: Sch. 9 clause 40 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-6ca46d68ad6896269d6cd4a17fb0a2d5]: Commencement: Sch. 9 clause 40 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-37f48fa1b3a0d823cbed1e836e2717b4]: Commencement: Sch. 9 clause 41 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-37f48fa1b3a0d823cbed1e836e2717b4]: Commencement: Sch. 9 clause 41 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
 [^f00097]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-1a4335874b339d14ec5bc9d196c3f8ed]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 41A inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 31](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/31); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-1a4335874b339d14ec5bc9d196c3f8ed]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 41A inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 31](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/31); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-4977c3a03df117ba81cf406735a6820b]: Commencement: Sch. 9 clause 42 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-4977c3a03df117ba81cf406735a6820b]: Commencement: Sch. 9 clause 42 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
 
-[^key-88a2396f0890ee282e7d04121c0ac8e4]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(2)(j)(k) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/2/a); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-88a2396f0890ee282e7d04121c0ac8e4]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(2)(j)(k) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/2/a); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-11b67cd75d304f36de1a4658cc59923d]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(2) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/2/b); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-11b67cd75d304f36de1a4658cc59923d]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(2) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/2/b); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-3aa2e7c58b00db048761b9434880fd3e]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(3)-(5) omitted (11.1.2024) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-3aa2e7c58b00db048761b9434880fd3e]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42(3)-(5) omitted (11.1.2024) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 32(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/32/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-d5f411e47b84313d44d23aa36b7ff038]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/5); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-d5f411e47b84313d44d23aa36b7ff038]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9/5); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-7cb677a4a495d2ec4e45fabe26d69e2d]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A(1) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 33(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/33/2); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-7cb677a4a495d2ec4e45fabe26d69e2d]: Textual amendment: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A(1) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 33(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/33/2); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-735e46cf6bb1a4dbc73c9f1f7237dd0a]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A(2) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 33(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/33/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
+[^c-735e46cf6bb1a4dbc73c9f1f7237dd0a]: Textual amendment: Words in [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/1999/160/schedule/9/part/II) clause 42A(2) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 21 para. 33(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/21/paragraph/33/3); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iii)
 
-[^key-0d1b1ae4b073c664b556e84cde62e3c0]: Commencement: Sch. 9 clause 43 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-0d1b1ae4b073c664b556e84cde62e3c0]: Commencement: Sch. 9 clause 43 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)

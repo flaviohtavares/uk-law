@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Offence of carrying out etc political influence activities pursuant to unregistered foreign influence arrangement[^key-34cb4cf2795c0ecf28c88d4e66135109][^key-be793ece4db075c9e88db3fd1f46eed6]
+## 71. Offence of carrying out etc political influence activities pursuant to unregistered foreign influence arrangement[^c-34cb4cf2795c0ecf28c88d4e66135109][^c-be793ece4db075c9e88db3fd1f46eed6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34cb4cf2795c0ecf28c88d4e66135109]: Commencement: S. 71 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-34cb4cf2795c0ecf28c88d4e66135109]: Commencement: S. 71 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-be793ece4db075c9e88db3fd1f46eed6]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/32/section/71) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-be793ece4db075c9e88db3fd1f46eed6]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/32/section/71) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

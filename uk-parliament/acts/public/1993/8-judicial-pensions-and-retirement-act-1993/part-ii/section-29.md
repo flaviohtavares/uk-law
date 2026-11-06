@@ -22,9 +22,9 @@ summary: ''
 
 (1) Any power conferred by this Act to make regulations or an order shall be exercisable by statutory instrument.
 
-(2) A statutory instrument which contains (whether alone or with other provisions) regulations or an order under this Act, other than regulations under section 18A above or[^key-d680235f619d4495f92eba4a4abec378] an order under section 31(2) below, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(2) A statutory instrument which contains (whether alone or with other provisions) regulations or an order under this Act, other than regulations under section 18A above or[^c-d680235f619d4495f92eba4a4abec378] an order under section 31(2) below, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2A)[^key-593d8ae2d2dda1d474792e0f093f2d12] A statutory instrument which contains regulations under section 18A may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+(2A)[^c-593d8ae2d2dda1d474792e0f093f2d12] A statutory instrument which contains regulations under section 18A may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
 (3) Any power conferred by this Act to make regulations or an order includes power, exercisable in the same manner, to make such transitional, consequential, supplementary or incidental provision or savings as may appear to the authority making the regulations or order to be necessary or expedient for the purposes of, or in connection with, the regulations or order.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d680235f619d4495f92eba4a4abec378]: Textual amendment: Words in s. 29(2) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/8/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-d680235f619d4495f92eba4a4abec378]: Textual amendment: Words in s. 29(2) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/8/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-593d8ae2d2dda1d474792e0f093f2d12]: Textual amendment: S. 29(2A) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/8/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-593d8ae2d2dda1d474792e0f093f2d12]: Textual amendment: S. 29(2A) inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c), [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/5/paragraph/8/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

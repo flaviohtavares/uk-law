@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of the Privacy and Electronic Communications Regulations 2003[^key-058812a28542cb5f9e88f7b92b11437d]
+## 8. Amendment of the Privacy and Electronic Communications Regulations 2003[^c-058812a28542cb5f9e88f7b92b11437d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-058812a28542cb5f9e88f7b92b11437d]: Commencement: Reg. 8 in force at 29.3.2019, see reg. 1(3)
+[^c-058812a28542cb5f9e88f7b92b11437d]: Commencement: Reg. 8 in force at 29.3.2019, see reg. 1(3)
 
 [^c23720001]: Marginal citation: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Calculation of periods of membership and service[^key-43a800e55b530ac76ed174c49b3906de]
+## 127. Calculation of periods of membership and service[^c-43a800e55b530ac76ed174c49b3906de]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ are converted into years by dividing the number of days in excess of the period 
 
 ## Annotations
 
-[^key-43a800e55b530ac76ed174c49b3906de]: Commencement: Reg. 127 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-43a800e55b530ac76ed174c49b3906de]: Commencement: Reg. 127 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

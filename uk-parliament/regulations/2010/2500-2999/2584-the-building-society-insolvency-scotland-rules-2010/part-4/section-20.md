@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Limited disclosure[^key-c60549e7af2eea77fc68d8b2e5108ede]
+## 20. Limited disclosure[^c-c60549e7af2eea77fc68d8b2e5108ede]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Without prejudice to any other means of restricting disclosure, the building soc
 
 ## Annotations
 
-[^key-c60549e7af2eea77fc68d8b2e5108ede]: Commencement: Rule 20 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-c60549e7af2eea77fc68d8b2e5108ede]: Commencement: Rule 20 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

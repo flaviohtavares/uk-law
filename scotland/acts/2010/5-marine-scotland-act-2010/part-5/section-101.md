@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Marine management schemes: consultation etc.[^key-ed95e77825efe2bebb0c36a605d569f4]
+## 101. Marine management schemes: consultation etc.[^c-ed95e77825efe2bebb0c36a605d569f4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed95e77825efe2bebb0c36a605d569f4]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2010/5/section/101) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-ed95e77825efe2bebb0c36a605d569f4]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2010/5/section/101) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

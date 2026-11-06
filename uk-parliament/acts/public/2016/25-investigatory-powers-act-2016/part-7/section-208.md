@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Approval of warrants by Judicial Commissioners[^key-a1ba8886d5f0825098aa8242d7abd387]
+## 208. Approval of warrants by Judicial Commissioners[^c-a1ba8886d5f0825098aa8242d7abd387]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1ba8886d5f0825098aa8242d7abd387]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2016/25/section/208) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/q)
+[^c-a1ba8886d5f0825098aa8242d7abd387]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2016/25/section/208) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/q)

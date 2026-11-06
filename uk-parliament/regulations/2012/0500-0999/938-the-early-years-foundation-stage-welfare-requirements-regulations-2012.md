@@ -57,20 +57,20 @@ These Regulations may be cited as the Early Years Foundation Stage (Welfare Requ
 In these Regulations—
 
 - “**the Act**” means the Childcare Act 2006;
-- “[^key-322a0ad48240e08e62e01e5e0f26655b]**the Document**” means in the case of—
-  - (a) a person who is registered under section 37(1) or (2A) or section 37A(1) or (1A) of the Act as an early years childminder, the document entitled “Early Years Foundation Stage Statutory Framework for Childminders” dated 13th July 2026[^key-8fa3c4ba6a595a7d69aa4d677455ed8e] and published by the Secretary of State on the gov.uk website;
+- “[^c-322a0ad48240e08e62e01e5e0f26655b]**the Document**” means in the case of—
+  - (a) a person who is registered under section 37(1) or (2A) or section 37A(1) or (1A) of the Act as an early years childminder, the document entitled “Early Years Foundation Stage Statutory Framework for Childminders” dated 13th July 2026[^c-8fa3c4ba6a595a7d69aa4d677455ed8e] and published by the Secretary of State on the gov.uk website;
   - (b) a person who—
     - (i) is registered as an early years provider other than a childminder under section 37(2) or 37A(2) of the Act; or
     - (ii) would be required by section 34(1) or (1A) of the Act to be registered to provide early years provision but for section 34(2) of the Act,
 
     the document entitled “Early Years Foundation Stage Statutory Framework for Group and School-based Providers” dated 13th July 2026 and published by the Secretary of State on the gov.uk website;
-- “[^key-6652cde9b4b5583967307bab05b79b14]**registered early years provider**” means a person who is registered under Chapter 2 of Part 3 of the Act in the early years register or with an early years childminder agency;
-- “[^key-17f114fe0d5350a88f38c09ccf94da6e]**relevant person**” means—
+- “[^c-6652cde9b4b5583967307bab05b79b14]**registered early years provider**” means a person who is registered under Chapter 2 of Part 3 of the Act in the early years register or with an early years childminder agency;
+- “[^c-17f114fe0d5350a88f38c09ccf94da6e]**relevant person**” means—
   - (a) in the case of a person registered in the early years register, the Chief Inspector, and
   - (b) in the case of a person registered with an early years childminder agency, the agency;
-- “[^key-3bb44b20db7469d279aafc3fe6d3bd02]**the relevant provisions of the Document**” means the provisions in Section 3 of the Document that use the word “should”.
+- “[^c-3bb44b20db7469d279aafc3fe6d3bd02]**the relevant provisions of the Document**” means the provisions in Section 3 of the Document that use the word “should”.
 
-## 2A. Review[^key-41327b039e5ee0f9445e5f3549113c3e]
+## 2A. Review[^c-41327b039e5ee0f9445e5f3549113c3e]
 
 (1) The Secretary of State must from time to time—
 
@@ -92,70 +92,70 @@ In these Regulations—
 
 ## 3. Specification of the welfare requirements
 
-(1) Regulations 7 to 9[^key-5bab9ae7787310a4280252dc920fba5f] specify welfare requirements under section 39(1)(b) of the Act.
+(1) Regulations 7 to 9[^c-5bab9ae7787310a4280252dc920fba5f] specify welfare requirements under section 39(1)(b) of the Act.
 
-(2)[^key-616ea0be4b032210d15616979e07872f] It is directed that—
+(2)[^c-616ea0be4b032210d15616979e07872f] It is directed that—
 
 - (a) the obligatory provisions of the Document; and
 - (b) the Qualifications Document, insofar as it specifies qualifications and training requirements to be met by early years providers who are not early years childminders,
 
 have effect, for the purposes of specifying the welfare requirements under section 39(1)(b) of the Act.
 
-(2A)[^key-f2f7b3ce3429e1b0fab3ac2b39394f4d] In this regulation, “the obligatory provisions” means the provisions in Section 3 of the Document that, by virtue of their use of the word “must”, express requirements, except for those contained in—
+(2A)[^c-f2f7b3ce3429e1b0fab3ac2b39394f4d] In this regulation, “the obligatory provisions” means the provisions in Section 3 of the Document that, by virtue of their use of the word “must”, express requirements, except for those contained in—
 
-- (a)[^key-768e154655494f543284c085dd2ddd30] paragraphs 3.11, 3.25, 3.26, 3.27, 3.72, 3.74, 3.78[^key-d5885f6820ce110c623928fda56a0847] 3.104 and 3.105[^key-56e81fd160cf2e10e325ceec3e21d989] of the Document referred to in sub-paragraph (a) of the definition of the Document;
-- (b) paragraphs[^key-426ccaea70539bbcb41f145c7fd74504] 3.10,[^key-63f36f4aa78e98d655ac6e786fbed93a] 3.23, 3.25, 3.26, 3.75, 3.79, 3.105, 3.106 and 3.107[^key-587f65f8d31989056d4240fb59aa4b8a] of the Document referred to in sub-paragraph (b) of the definition of the Document.
+- (a)[^c-768e154655494f543284c085dd2ddd30] paragraphs 3.11, 3.25, 3.26, 3.27, 3.72, 3.74, 3.78[^c-d5885f6820ce110c623928fda56a0847] 3.104 and 3.105[^c-56e81fd160cf2e10e325ceec3e21d989] of the Document referred to in sub-paragraph (a) of the definition of the Document;
+- (b) paragraphs[^c-426ccaea70539bbcb41f145c7fd74504] 3.10,[^c-63f36f4aa78e98d655ac6e786fbed93a] 3.23, 3.25, 3.26, 3.75, 3.79, 3.105, 3.106 and 3.107[^c-587f65f8d31989056d4240fb59aa4b8a] of the Document referred to in sub-paragraph (b) of the definition of the Document.
 
-(3) Early years providers to whom section 40 of the Act [^c21228831] applies must have regard to the matters in the relevant provisions[^key-d38187e793e7ecbece4fd33e592017d1] of the Document in securing that the early years provision they provide complies with the welfare requirements.
+(3) Early years providers to whom section 40 of the Act [^c21228831] applies must have regard to the matters in the relevant provisions[^c-d38187e793e7ecbece4fd33e592017d1] of the Document in securing that the early years provision they provide complies with the welfare requirements.
 
-(4)[^key-dffc0180a119e96dbd0ea6ddd1b72843] “**Qualifications Document**” means the document entitled “Early years qualification requirements and standards” dated 13th July 2026[^key-655f7016cfea7903b4e94e9bfccfe696] and published by the Secretary of State on the gov.uk website.
+(4)[^c-dffc0180a119e96dbd0ea6ddd1b72843] “**Qualifications Document**” means the document entitled “Early years qualification requirements and standards” dated 13th July 2026[^c-655f7016cfea7903b4e94e9bfccfe696] and published by the Secretary of State on the gov.uk website.
 
-## 3A. Temporary modification of the welfare requirements in the Document[^key-d70a83364cdf9a688832f911d180007e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3B. Further temporary modification of the welfare requirements in the Document[^key-9c1349bdb8dfb4cbf5018eeca47b3561]
+## 3A. Temporary modification of the welfare requirements in the Document[^c-d70a83364cdf9a688832f911d180007e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement on the Chief Inspector and early years childminder agencies[^key-17db11c95b5f538d306ac27d96b85888]
+## 3B. Further temporary modification of the welfare requirements in the Document[^c-9c1349bdb8dfb4cbf5018eeca47b3561]
 
-The Chief Inspector and early years childminder agencies[^key-8bc8d89049a13a15eb8251eb9f6845ca] must have regard to the welfare requirements specified in regulation 3 and the matters in the relevant provisions[^key-a879cf265c8253d2ba203e3ee20d678d] of the Document in exercising functions under Part 3 of the Act.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Requirement on the Chief Inspector and early years childminder agencies[^c-17db11c95b5f538d306ac27d96b85888]
+
+The Chief Inspector and early years childminder agencies[^c-8bc8d89049a13a15eb8251eb9f6845ca] must have regard to the welfare requirements specified in regulation 3 and the matters in the relevant provisions[^c-a879cf265c8253d2ba203e3ee20d678d] of the Document in exercising functions under Part 3 of the Act.
 
 ## 5. Matters to be considered by the Chief Inspector
 
-(1)[^key-78e9d8e1f7b2aaa3e3fdd68729d939f6] Any allegation that an early years provider has—
+(1)[^c-78e9d8e1f7b2aaa3e3fdd68729d939f6] Any allegation that an early years provider has—
 
 - (a) failed to meet the welfare requirements; or
-- (b) failed to have regard to the matters in the relevant provisions[^key-3a28c87a1cc6c08a8b51b01ba1462bc4] of the Document
+- (b) failed to have regard to the matters in the relevant provisions[^c-3a28c87a1cc6c08a8b51b01ba1462bc4] of the Document
 
 may be taken into account by the Chief Inspector in the exercise of functions under Part 3 of the Act.
 
-(2)[^key-b69620fbcfdd2c206424c9fb67d4efa6] Any allegation that an early years childminder agency has failed to meet the requirement in regulation 4 may be taken into account by the Chief Inspector in the exercise of functions under Part 3 of the Act.
+(2)[^c-b69620fbcfdd2c206424c9fb67d4efa6] Any allegation that an early years childminder agency has failed to meet the requirement in regulation 4 may be taken into account by the Chief Inspector in the exercise of functions under Part 3 of the Act.
 
-## 5A. Matters to be considered by early years childminder agencies[^key-c52a7d4963faaaffd942f9f9770d11bd]
+## 5A. Matters to be considered by early years childminder agencies[^c-c52a7d4963faaaffd942f9f9770d11bd]
 
 Any allegation that an early years provider has—
 
 - (a) failed to meet the welfare requirements; or
-- (b) failed to have regard to the matters in the relevant provisions[^key-b459ebd5e4db38564abc217993fb8d63] of the Document,
+- (b) failed to have regard to the matters in the relevant provisions[^c-b459ebd5e4db38564abc217993fb8d63] of the Document,
 
 may be taken into account by an early years childminder agency in the exercise of functions under Part 3 of the Act.
 
-## 5B. Matters to be considered by early years childminder agencies: effect of temporary closure directions[^key-b50897667d64a5b019d36fb16ab35c45]
+## 5B. Matters to be considered by early years childminder agencies: effect of temporary closure directions[^c-b50897667d64a5b019d36fb16ab35c45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Proceedings under Part 3 of the Act
 
-(1)[^key-e1824a82a818ed9444f049c64fb13ead] Any allegation that an early years provider has—
+(1)[^c-e1824a82a818ed9444f049c64fb13ead] Any allegation that an early years provider has—
 
 - (a) failed to meet the welfare requirements; or
-- (b) failed to have regard to the matters in the relevant provisions[^key-9bbe8712bb489685bbe151f58c5ed38d] of the Document
+- (b) failed to have regard to the matters in the relevant provisions[^c-9bbe8712bb489685bbe151f58c5ed38d] of the Document
 
 may be taken into account in any proceedings under Part 3 of the Act.
 
-(2)[^key-1705aee7d75bf430840ea90551656872] Any allegation that an early years childminder agency has failed to meet the requirement in regulation 4 may be taken into account in any proceedings under Part 3 of the Act.
+(2)[^c-1705aee7d75bf430840ea90551656872] Any allegation that an early years childminder agency has failed to meet the requirement in regulation 4 may be taken into account in any proceedings under Part 3 of the Act.
 
 ## 7. Welfare of children: prohibition on corporal punishment
 
@@ -170,29 +170,29 @@ may be taken into account in any proceedings under Part 3 of the Act.
 
 ## 8. Provision of information
 
-(1) A registered early years provider must notify the relevant person[^key-eb91b54d6f14a011220cd28ef58312c7] of the occurrence of any of the events set out in the Schedule to these Regulations and must at the same time provide the relevant person with the information specified in that Schedule in respect of that event.
+(1) A registered early years provider must notify the relevant person[^c-eb91b54d6f14a011220cd28ef58312c7] of the occurrence of any of the events set out in the Schedule to these Regulations and must at the same time provide the relevant person with the information specified in that Schedule in respect of that event.
 
 (2) The notification and information referred to in paragraph (1) must be provided to the relevant person—
 
 - (a) where it is reasonably practicable to do so, in advance of the event occurring; and
 - (b) in all other cases as soon as reasonably practicable, but in any event within 14 days beginning with the date that the event occurred.
 
-(3) Where the registered early years provider is required to notify the relevant person of a change of person under paragraphs 10(c),[^key-5d12796d025c08f63edfd02fa63f42b2] 11(a) or 12(a) or (b) of the Schedule, the notification must include the new person's—
+(3) Where the registered early years provider is required to notify the relevant person of a change of person under paragraphs 10(c),[^c-5d12796d025c08f63edfd02fa63f42b2] 11(a) or 12(a) or (b) of the Schedule, the notification must include the new person's—
 
 - (a) full name, and any former name or alias,
 - (b) date of birth, and
 - (c) home address.
 
-## 8A. Approval of the suitability of additional premises[^key-294aa612c1afd1bb0e0b435d9544e8f8]
+## 8A. Approval of the suitability of additional premises[^c-294aa612c1afd1bb0e0b435d9544e8f8]
 
 (1) This regulation applies if a registered early years provider (“P”) proposes to provide early years provision (“the proposed provision”) on additional premises.
 
-(2) If the proposed provision is early years childminding in respect of which the person is required to be registered by section 33(1) or 34(1)(b) of the Act[^key-f1401e3e842d3e8dccab803a89c1750b] and the additional premises are non-domestic premises, P must—
+(2) If the proposed provision is early years childminding in respect of which the person is required to be registered by section 33(1) or 34(1)(b) of the Act[^c-f1401e3e842d3e8dccab803a89c1750b] and the additional premises are non-domestic premises, P must—
 
 - (a) demonstrate to the relevant person that the requirements in paragraphs 7 to 9 of Schedule 1 to the 2008 Regulations will be satisfied, and are likely to continue to be satisfied, in relation to the proposed provision; and
 - (b) send to the relevant person the information in paragraphs 18 and 21 to 23 of Schedule 1 to the 2008 Regulations.
 
-(3) If the proposed provision would be early years childminding, at least some or all of which is on domestic premises, but for section 96(5) of the Act, P must—[^key-4b1cefe8223bfcabe7c0548b762673e7]
+(3) If the proposed provision would be early years childminding, at least some or all of which is on domestic premises, but for section 96(5) of the Act, P must—[^c-4b1cefe8223bfcabe7c0548b762673e7]
 
 - (a) demonstrate to the relevant person that the requirements in paragraphs 5 to 8, 13 and 14 of Schedule 2 to the 2008 Regulations will be satisfied, and are likely to continue to be satisfied, in relation to the proposed provision; and
 - (b) send to the relevant person the information in paragraphs 24 to 26 of Schedule 2 to the 2008 Regulations.
@@ -209,7 +209,7 @@ may be taken into account in any proceedings under Part 3 of the Act.
 
 ## 9. Provision of information relating to disqualification
 
-(1) A registered early years provider must provide the following information to the relevant person[^key-223183d30205b76e57d006ff3ed91e7b]—
+(1) A registered early years provider must provide the following information to the relevant person[^c-223183d30205b76e57d006ff3ed91e7b]—
 
 - (a) details of any order, determination, conviction or other ground for disqualification from registration made or applying in relation to a person listed in paragraph (2) which results in that person being disqualified from registration under regulations made under section 75 of the Act (disqualification from registration);
 - (b) the date when the order, determination or conviction was made or when any other ground for disqualification from registration arose;
@@ -225,7 +225,7 @@ may be taken into account in any proceedings under Part 3 of the Act.
 
 ## 10. Failure to comply with welfare requirements notice
 
-(1) Where the Chief Inspector considers that an early years provider who is registered in the early years register and[^key-04ed7ea06f2d700b3be8c581ddb9618b] to whom section 40 applies has failed or is failing to comply with the welfare requirements the Chief Inspector may give a notice to the registered early years provider specifying—
+(1) Where the Chief Inspector considers that an early years provider who is registered in the early years register and[^c-04ed7ea06f2d700b3be8c581ddb9618b] to whom section 40 applies has failed or is failing to comply with the welfare requirements the Chief Inspector may give a notice to the registered early years provider specifying—
 
 - (a) in what respect the registered early years provider has failed or is failing to comply with those requirements; and
 - (b) where appropriate—
@@ -287,9 +287,9 @@ Regulation 8
 
 **3.** Particulars of any proposal to change the hours during which childcare is to be provided which will entail the provision of overnight childcare.
 
-**4.** (1)[^key-6709822368c1795ec5eeefa6247edbf8] Particulars of any allegation of [^key-99e25957efbf704097d883466e8cf555]... harm to or abuse of a child committed by any person living, working or caring for children at the premises on which childcare is provided (whether that allegation relates to harm or abuse committed on those premises or elsewhere), and any other abuse which is alleged to have taken place on those premises, and of the action taken in respect of the allegation.
+**4.** (1)[^c-6709822368c1795ec5eeefa6247edbf8] Particulars of any allegation of [^c-99e25957efbf704097d883466e8cf555]... harm to or abuse of a child committed by any person living, working or caring for children at the premises on which childcare is provided (whether that allegation relates to harm or abuse committed on those premises or elsewhere), and any other abuse which is alleged to have taken place on those premises, and of the action taken in respect of the allegation.
 
-(2)[^key-619aff72296ca5e564641537c1f3e3c8] In this paragraph, “**harm**” has the same meaning as in section 31(9) of the Children Act 1989.
+(2)[^c-619aff72296ca5e564641537c1f3e3c8] In this paragraph, “**harm**” has the same meaning as in section 31(9) of the Children Act 1989.
 
 **5.** Particulars of any serious accident, serious illness, serious injury to, or death of, any child whilst in the care of the early years provider, and of the action taken in respect of the serious accident, serious illness, serious injury, or death.
 
@@ -305,12 +305,12 @@ Regulation 8
 
 - (a) any change in the name or address of the provider;
 - (b) any change of the person who is managing the early years provision.
-- (c)[^key-3b1de784d773cb7e3570f85840cebad2] where some or all of the early years provision is provided on domestic premises, any change of the persons of 16 years or older living or working on those premises (providing that persons are not to be treated as working on the premises for the purpose of this paragraph if none of their work is done in the part of the premises in which the children are cared for or if they do not work on the premises at times when the children are there).
+- (c)[^c-3b1de784d773cb7e3570f85840cebad2] where some or all of the early years provision is provided on domestic premises, any change of the persons of 16 years or older living or working on those premises (providing that persons are not to be treated as working on the premises for the purpose of this paragraph if none of their work is done in the part of the premises in which the children are cared for or if they do not work on the premises at times when the children are there).
 
 **11.** In the case of an early years childminder—
 
 - (za)[^M_F_2911fdf6-1f08-4389-d357-945f6b3adf87] any change of the persons who are providing care for children as part of the early years childminding;
-- (a) if the early years childminding is provided on domestic premises,[^key-46188ace22e4b7852443d2ce4311c268] any change of the persons of 16 years or older living or working on those premises[^key-4021f5d640b6804dff193a9c0e2041f8] (providing that persons are not to be treated as working on the premises for the purpose of this paragraph if none of their work is done in the part of the premises in which children are cared for or if they do not work on the premises at times when children are there);
+- (a) if the early years childminding is provided on domestic premises,[^c-46188ace22e4b7852443d2ce4311c268] any change of the persons of 16 years or older living or working on those premises[^c-4021f5d640b6804dff193a9c0e2041f8] (providing that persons are not to be treated as working on the premises for the purpose of this paragraph if none of their work is done in the part of the premises in which children are cared for or if they do not work on the premises at times when children are there);
 - (b) any change in the name or address of the childminder.
 
 **12.** (1) In the case of an early years provider (other than an early years childminder) which is a partnership, body corporate or unincorporated association—
@@ -340,85 +340,85 @@ An impact assessment has been prepared for these Regulations and can be found at
 
 [^c21228821]: Marginal citation: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21). Section 44(1) was amended by paragraph 41 of Schedule 12 to the [Apprenticeships, Skills, Children and learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22). See section 106 of the Childcare Act 2006 for the definition of “prescribed” and “regulations”.
 
-[^key-322a0ad48240e08e62e01e5e0f26655b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/938/regulation/2) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/2)
+[^c-322a0ad48240e08e62e01e5e0f26655b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/938/regulation/2) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/2)
 
-[^key-8fa3c4ba6a595a7d69aa4d677455ed8e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/938/regulation/2) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/2)
+[^c-8fa3c4ba6a595a7d69aa4d677455ed8e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/938/regulation/2) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/2)
 
-[^key-6652cde9b4b5583967307bab05b79b14]: Textual amendment: Words in reg. 2 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/25/b)
+[^c-6652cde9b4b5583967307bab05b79b14]: Textual amendment: Words in reg. 2 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/25/b)
 
-[^key-17f114fe0d5350a88f38c09ccf94da6e]: Textual amendment: Words in reg. 2 inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2014/912/regulation/25/c)
+[^c-17f114fe0d5350a88f38c09ccf94da6e]: Textual amendment: Words in reg. 2 inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2014/912/regulation/25/c)
 
-[^key-3bb44b20db7469d279aafc3fe6d3bd02]: Textual amendment: Words in reg. 2 inserted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/2/b)
+[^c-3bb44b20db7469d279aafc3fe6d3bd02]: Textual amendment: Words in reg. 2 inserted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/2/b)
 
-[^key-41327b039e5ee0f9445e5f3549113c3e]: Textual amendment: Reg. 2A substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/3)
+[^c-41327b039e5ee0f9445e5f3549113c3e]: Textual amendment: Reg. 2A substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/3)
 
-[^key-5bab9ae7787310a4280252dc920fba5f]: Textual amendment: Words in reg. 3(1) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/3)
+[^c-5bab9ae7787310a4280252dc920fba5f]: Textual amendment: Words in reg. 3(1) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/3)
 
-[^key-616ea0be4b032210d15616979e07872f]: Textual amendment: Reg. 3(2) substituted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/a)
+[^c-616ea0be4b032210d15616979e07872f]: Textual amendment: Reg. 3(2) substituted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/a)
 
-[^key-f2f7b3ce3429e1b0fab3ac2b39394f4d]: Textual amendment: Reg. 3(2A) inserted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/4/b)
+[^c-f2f7b3ce3429e1b0fab3ac2b39394f4d]: Textual amendment: Reg. 3(2A) inserted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/4/b)
 
-[^key-768e154655494f543284c085dd2ddd30]: Textual amendment: Words in reg. 3(2A) substituted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/b)
+[^c-768e154655494f543284c085dd2ddd30]: Textual amendment: Words in reg. 3(2A) substituted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/b)
 
-[^key-d5885f6820ce110c623928fda56a0847]: Textual amendment: Words in reg. 3(2A)(a) substituted (1.9.2025) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2025 (S.I. 2025/841)](https://www.legislation.gov.uk/uksi/2025/841), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/841/regulation/1/1/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/841/regulation/5/3/a/i)
+[^c-d5885f6820ce110c623928fda56a0847]: Textual amendment: Words in reg. 3(2A)(a) substituted (1.9.2025) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2025 (S.I. 2025/841)](https://www.legislation.gov.uk/uksi/2025/841), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/841/regulation/1/1/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/841/regulation/5/3/a/i)
 
-[^key-56e81fd160cf2e10e325ceec3e21d989]: Textual amendment: Words in [reg. 3(2A)(a)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/a) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/a/i)
+[^c-56e81fd160cf2e10e325ceec3e21d989]: Textual amendment: Words in [reg. 3(2A)(a)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/a) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/a/i)
 
-[^key-426ccaea70539bbcb41f145c7fd74504]: Textual amendment: Words in [reg. 3(2A)(b)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/b) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/3/b)
+[^c-426ccaea70539bbcb41f145c7fd74504]: Textual amendment: Words in [reg. 3(2A)(b)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/b) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/3/b)
 
-[^key-63f36f4aa78e98d655ac6e786fbed93a]: Textual amendment: Words in reg. 3(2A)(b) substituted (1.9.2025) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2025 (S.I. 2025/841)](https://www.legislation.gov.uk/uksi/2025/841), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/841/regulation/1/1/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/841/regulation/5/3/a/ii)
+[^c-63f36f4aa78e98d655ac6e786fbed93a]: Textual amendment: Words in reg. 3(2A)(b) substituted (1.9.2025) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2025 (S.I. 2025/841)](https://www.legislation.gov.uk/uksi/2025/841), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/841/regulation/1/1/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/841/regulation/5/3/a/ii)
 
-[^key-587f65f8d31989056d4240fb59aa4b8a]: Textual amendment: Words in [reg. 3(2A)(b)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/b) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/a/ii)
+[^c-587f65f8d31989056d4240fb59aa4b8a]: Textual amendment: Words in [reg. 3(2A)(b)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/2A/b) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/a/ii)
 
 [^c21228831]: Marginal citation: Section 40 of the Act imposes a duty on early years providers to comply with the welfare requirements in addition to meeting the learning and development requirements.
 
-[^key-d38187e793e7ecbece4fd33e592017d1]: Textual amendment: Words in reg. 3(3) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/4/c)
+[^c-d38187e793e7ecbece4fd33e592017d1]: Textual amendment: Words in reg. 3(3) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/4/c)
 
-[^key-dffc0180a119e96dbd0ea6ddd1b72843]: Textual amendment: Reg. 3(4) inserted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/c)
+[^c-dffc0180a119e96dbd0ea6ddd1b72843]: Textual amendment: Reg. 3(4) inserted (4.1.2024) by [The Early Years Foundation Stage (Learning and Development, Early Years Register and Welfare Requirements) (Amendment) Regulations 2023 (S.I. 2023/1338)](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/4/3/c)
 
-[^key-655f7016cfea7903b4e94e9bfccfe696]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/4) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/b)
+[^c-655f7016cfea7903b4e94e9bfccfe696]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2012/938/regulation/3/4) substituted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(3)(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/3/b)
 
-[^key-d70a83364cdf9a688832f911d180007e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2012/938/regulation/3A) inserted (24.4.2020) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/444)](https://www.legislation.gov.uk/uksi/2020/444), [regs. 1](https://www.legislation.gov.uk/uksi/2020/444/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/444/regulation/8) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/a))
+[^c-d70a83364cdf9a688832f911d180007e]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2012/938/regulation/3A) inserted (24.4.2020) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/444)](https://www.legislation.gov.uk/uksi/2020/444), [regs. 1](https://www.legislation.gov.uk/uksi/2020/444/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/444/regulation/8) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/a))
 
-[^key-9c1349bdb8dfb4cbf5018eeca47b3561]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/2012/938/regulation/3B) inserted (temp.) (26.9.2020 until 31.8.2021) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/939)](https://www.legislation.gov.uk/uksi/2020/939), [regs. 1](https://www.legislation.gov.uk/uksi/2020/939/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/939/regulation/5/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/939/regulation/3/2)) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/b))
+[^c-9c1349bdb8dfb4cbf5018eeca47b3561]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/uksi/2012/938/regulation/3B) inserted (temp.) (26.9.2020 until 31.8.2021) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/939)](https://www.legislation.gov.uk/uksi/2020/939), [regs. 1](https://www.legislation.gov.uk/uksi/2020/939/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/939/regulation/5/3) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/939/regulation/3/2)) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/b))
 
-[^key-17db11c95b5f538d306ac27d96b85888]: Textual amendment: Words in reg. 4 heading inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [26(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/26/b)
+[^c-17db11c95b5f538d306ac27d96b85888]: Textual amendment: Words in reg. 4 heading inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [26(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/26/b)
 
-[^key-8bc8d89049a13a15eb8251eb9f6845ca]: Textual amendment: Words in reg. 4 inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/26/a)
+[^c-8bc8d89049a13a15eb8251eb9f6845ca]: Textual amendment: Words in reg. 4 inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/26/a)
 
-[^key-a879cf265c8253d2ba203e3ee20d678d]: Textual amendment: Words in reg. 4 substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/5)
+[^c-a879cf265c8253d2ba203e3ee20d678d]: Textual amendment: Words in reg. 4 substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/5)
 
-[^key-78e9d8e1f7b2aaa3e3fdd68729d939f6]: Textual amendment: Reg. 5(1): reg. 5 renumbered as reg. 5(1) (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/27/a)
+[^c-78e9d8e1f7b2aaa3e3fdd68729d939f6]: Textual amendment: Reg. 5(1): reg. 5 renumbered as reg. 5(1) (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/27/a)
 
-[^key-3a28c87a1cc6c08a8b51b01ba1462bc4]: Textual amendment: Words in reg. 5(1)(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/6)
+[^c-3a28c87a1cc6c08a8b51b01ba1462bc4]: Textual amendment: Words in reg. 5(1)(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/6)
 
-[^key-b69620fbcfdd2c206424c9fb67d4efa6]: Textual amendment: Reg. 5(2) inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/27/b)
+[^c-b69620fbcfdd2c206424c9fb67d4efa6]: Textual amendment: Reg. 5(2) inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/27/b)
 
-[^key-c52a7d4963faaaffd942f9f9770d11bd]: Textual amendment: Reg. 5A inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/912/regulation/28)
+[^c-c52a7d4963faaaffd942f9f9770d11bd]: Textual amendment: Reg. 5A inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/912/regulation/28)
 
-[^key-b459ebd5e4db38564abc217993fb8d63]: Textual amendment: Words in reg. 5A(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/7)
+[^c-b459ebd5e4db38564abc217993fb8d63]: Textual amendment: Words in reg. 5A(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/7)
 
-[^key-b50897667d64a5b019d36fb16ab35c45]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/2012/938/regulation/5B) inserted (24.4.2020) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/444)](https://www.legislation.gov.uk/uksi/2020/444), [regs. 1](https://www.legislation.gov.uk/uksi/2020/444/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/444/regulation/9) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/a))
+[^c-b50897667d64a5b019d36fb16ab35c45]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/2012/938/regulation/5B) inserted (24.4.2020) by [The Early Years Foundation Stage (Learning and Development and Welfare Requirements) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/444)](https://www.legislation.gov.uk/uksi/2020/444), [regs. 1](https://www.legislation.gov.uk/uksi/2020/444/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/444/regulation/9) (which amendment falls (4.1.2024) by virtue of the revocation of the affecting provision by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/1338/regulation/5/a))
 
-[^key-e1824a82a818ed9444f049c64fb13ead]: Textual amendment: Reg. 6(1): reg. 6 renumbered as reg. 6(1) (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/29/a)
+[^c-e1824a82a818ed9444f049c64fb13ead]: Textual amendment: Reg. 6(1): reg. 6 renumbered as reg. 6(1) (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [29(a)](https://www.legislation.gov.uk/uksi/2014/912/regulation/29/a)
 
-[^key-9bbe8712bb489685bbe151f58c5ed38d]: Textual amendment: Words in reg. 6(1)(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/8)
+[^c-9bbe8712bb489685bbe151f58c5ed38d]: Textual amendment: Words in reg. 6(1)(b) substituted (3.4.2017) by [The Childcare (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/361)](https://www.legislation.gov.uk/uksi/2017/361), [regs. 1](https://www.legislation.gov.uk/uksi/2017/361/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2017/361/regulation/4/8)
 
-[^key-1705aee7d75bf430840ea90551656872]: Textual amendment: Reg. 6(2) inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/29/b)
+[^c-1705aee7d75bf430840ea90551656872]: Textual amendment: Reg. 6(2) inserted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [29(b)](https://www.legislation.gov.uk/uksi/2014/912/regulation/29/b)
 
-[^key-eb91b54d6f14a011220cd28ef58312c7]: Textual amendment: Words in reg. 8 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/912/regulation/30)
+[^c-eb91b54d6f14a011220cd28ef58312c7]: Textual amendment: Words in reg. 8 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/912/regulation/30)
 
-[^key-5d12796d025c08f63edfd02fa63f42b2]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8/3) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/4)
+[^c-5d12796d025c08f63edfd02fa63f42b2]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8/3) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/4)
 
-[^key-294aa612c1afd1bb0e0b435d9544e8f8]: Textual amendment: Reg. 8A inserted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/4)
+[^c-294aa612c1afd1bb0e0b435d9544e8f8]: Textual amendment: Reg. 8A inserted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/4)
 
-[^key-f1401e3e842d3e8dccab803a89c1750b]: Textual amendment: Words in [reg. 8A(2)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8A/2) inserted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/4/a)
+[^c-f1401e3e842d3e8dccab803a89c1750b]: Textual amendment: Words in [reg. 8A(2)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8A/2) inserted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/4/a)
 
-[^key-4b1cefe8223bfcabe7c0548b762673e7]: Textual amendment: Words in [reg. 8A(3)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8A/3) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/4/b)
+[^c-4b1cefe8223bfcabe7c0548b762673e7]: Textual amendment: Words in [reg. 8A(3)](https://www.legislation.gov.uk/uksi/2012/938/regulation/8A/3) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/8/4/b)
 
-[^key-223183d30205b76e57d006ff3ed91e7b]: Textual amendment: Words in reg. 9 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/912/regulation/30)
+[^c-223183d30205b76e57d006ff3ed91e7b]: Textual amendment: Words in reg. 9 substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/912/regulation/30)
 
-[^key-04ed7ea06f2d700b3be8c581ddb9618b]: Textual amendment: Words in reg. 10(1) substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [31](https://www.legislation.gov.uk/uksi/2014/912/regulation/31)
+[^c-04ed7ea06f2d700b3be8c581ddb9618b]: Textual amendment: Words in reg. 10(1) substituted (1.9.2014) by [The Childcare (Welfare and Registration Requirements) (Amendment) Regulations 2014 (S.I. 2014/912)](https://www.legislation.gov.uk/uksi/2014/912), [regs. 1](https://www.legislation.gov.uk/uksi/2014/912/regulation/1), [31](https://www.legislation.gov.uk/uksi/2014/912/regulation/31)
 
 [^c21228841]: Marginal citation: [S.I. 2007/1771](https://www.legislation.gov.uk/uksi/2007/1771).
 
@@ -426,18 +426,18 @@ An impact assessment has been prepared for these Regulations and can be found at
 
 [^c21228861]: Marginal citation: [S.I. 2009/1549](https://www.legislation.gov.uk/uksi/2009/1549).
 
-[^key-6709822368c1795ec5eeefa6247edbf8]: Textual amendment: Sch. 4 para. 4 renumbered as Sch. 4 para. 4(1) (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/i)
+[^c-6709822368c1795ec5eeefa6247edbf8]: Textual amendment: Sch. 4 para. 4 renumbered as Sch. 4 para. 4(1) (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/i)
 
-[^key-99e25957efbf704097d883466e8cf555]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/4) omitted (1.9.2026) by virtue of [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/ii)
+[^c-99e25957efbf704097d883466e8cf555]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/4) omitted (1.9.2026) by virtue of [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/ii)
 
-[^key-619aff72296ca5e564641537c1f3e3c8]: Textual amendment: [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/4/2) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/iii)
+[^c-619aff72296ca5e564641537c1f3e3c8]: Textual amendment: [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/4/2) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/a/iii)
 
-[^key-3b1de784d773cb7e3570f85840cebad2]: Textual amendment: [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/10/c) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/b)
+[^c-3b1de784d773cb7e3570f85840cebad2]: Textual amendment: [Sch. para. 10(c)](https://www.legislation.gov.uk/uksi/2012/938/schedule/paragraph/10/c) inserted (1.9.2026) by [The Childcare (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/796)](https://www.legislation.gov.uk/uksi/2026/796), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/796/regulation/5/5/b)
 
 [^M_F_2911fdf6-1f08-4389-d357-945f6b3adf87]: Textual amendment: Sch. para. 11(za) inserted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/5/a)
 
-[^key-46188ace22e4b7852443d2ce4311c268]: Textual amendment: Words in Sch. para. 11(a) inserted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/5/b/i)
+[^c-46188ace22e4b7852443d2ce4311c268]: Textual amendment: Words in Sch. para. 11(a) inserted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/5/b/i)
 
-[^key-4021f5d640b6804dff193a9c0e2041f8]: Textual amendment: Words in Sch. para. 11(a) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/5/b/ii)
+[^c-4021f5d640b6804dff193a9c0e2041f8]: Textual amendment: Words in Sch. para. 11(a) substituted (1.1.2016) by [The Childcare (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1562)](https://www.legislation.gov.uk/uksi/2015/1562), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/1/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1562/regulation/8/5/b/ii)
 
 [^c21228871]: Marginal citation: [S.I. 2008/974](https://www.legislation.gov.uk/uksi/2008/974).

@@ -36,10 +36,10 @@ summary: ''
 
 (5) Any person who suffers loss by the suspension or extinguishment of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-(6) This article is subject to article 36[^key-22450351ebff7c8f5abdb4319a4526c7] (apparatus and rights of statutory undertakers in stopped up streets).
+(6) This article is subject to article 36[^c-22450351ebff7c8f5abdb4319a4526c7] (apparatus and rights of statutory undertakers in stopped up streets).
 
 (7) The undertaker must provide to the local highway authority within 28 days of the stopping up of a length of street specified in column (2) of Parts 1 and 2 of Schedule 4 a plan to a scale of not less than 1:500 showing the extent of the stopping up.
 
 ## Annotations
 
-[^key-22450351ebff7c8f5abdb4319a4526c7]: Textual amendment: Word in [art. 10(6)](https://www.legislation.gov.uk/uksi/2020/511/article/10/6) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/3)
+[^c-22450351ebff7c8f5abdb4319a4526c7]: Textual amendment: Word in [art. 10(6)](https://www.legislation.gov.uk/uksi/2020/511/article/10/6) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Round price for 2.6 GHz paired frequency lots[^key-07ae308771ce8aa0d7824ff43f4ef1c6]
+## 35. Round price for 2.6 GHz paired frequency lots[^c-07ae308771ce8aa0d7824ff43f4ef1c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ae308771ce8aa0d7824ff43f4ef1c6]: Commencement: Reg. 35 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-07ae308771ce8aa0d7824ff43f4ef1c6]: Commencement: Reg. 35 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

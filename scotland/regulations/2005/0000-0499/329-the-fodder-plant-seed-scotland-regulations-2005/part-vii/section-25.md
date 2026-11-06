@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Service of notices[^key-bb8f31afa10c08980a340b0e911a4b04]
+## 25. Service of notices[^c-bb8f31afa10c08980a340b0e911a4b04]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (2) For the purposes of this regulation and section 7 (service of documents by post) of the Interpretation Act 1978[^f00023] in its application to this regulation, the proper address of any person to whom a notice is to be given shall be that person’s last known address, except that–
 
-- (a)[^key-a18a538b5ca2796e1a6dd23f6ca5a2bd] in the case of a professional seed operator, a crop inspector or a seed sampler licensed under regulation 4(1)(a) of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016, it is the address which could be made available by the Scottish Ministers under regulation 10 of those Regulations; and
+- (a)[^c-a18a538b5ca2796e1a6dd23f6ca5a2bd] in the case of a professional seed operator, a crop inspector or a seed sampler licensed under regulation 4(1)(a) of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016, it is the address which could be made available by the Scottish Ministers under regulation 10 of those Regulations; and
 - (b) in other cases it shall be–
   - (i) in the case of a body corporate (other than a limited liability partnership) or its secretary, the address of the registered or principal office of the body;
   - (ii) in the case of a limited liability partnership or a member of the partnership, the address of the registered or principal office of the partnership; and
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bb8f31afa10c08980a340b0e911a4b04]: Commencement: Reg. 25 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-bb8f31afa10c08980a340b0e911a4b04]: Commencement: Reg. 25 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
 [^f00023]: Footnote: [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-a18a538b5ca2796e1a6dd23f6ca5a2bd]: Textual amendment: [Reg. 25(2)(a)](https://www.legislation.gov.uk/ssi/2005/329/regulation/25/2/a) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 3(4)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3/4)
+[^c-a18a538b5ca2796e1a6dd23f6ca5a2bd]: Textual amendment: [Reg. 25(2)(a)](https://www.legislation.gov.uk/ssi/2005/329/regulation/25/2/a) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 3(4)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3/4)

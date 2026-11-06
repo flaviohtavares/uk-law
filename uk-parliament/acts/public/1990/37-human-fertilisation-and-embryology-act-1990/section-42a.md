@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Powers to make regulations in relation to standards of quality and safety[^key-056fcda209152ca4014125e1de8df348]
+## 42A. Powers to make regulations in relation to standards of quality and safety[^c-056fcda209152ca4014125e1de8df348]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-056fcda209152ca4014125e1de8df348]: Textual amendment: S. 42A inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/14) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1307/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-056fcda209152ca4014125e1de8df348]: Textual amendment: S. 42A inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/14) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1307/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

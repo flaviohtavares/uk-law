@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Amendment of Article 2 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-4d35da003bbb3073e7781297bc48b398]
+## 293. Amendment of Article 2 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-4d35da003bbb3073e7781297bc48b398]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d35da003bbb3073e7781297bc48b398]: Commencement: Reg. 293 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4d35da003bbb3073e7781297bc48b398]: Commencement: Reg. 293 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], makes the following Regulations in exercise of the powers conferred by sections 11 and 22 and paragraph 11M(1), (3) and (8) of Schedule 2 and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-5502493a349151a9e81702e3d81f78ab]
+## 1. Citation, commencement and interpretation[^c-5502493a349151a9e81702e3d81f78ab]
 
 (1) These Regulations may be cited as the Cattle Identification (No. 2) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 3<sup>rd</sup> July 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^key-115f076f944c069ec403006726d267a8]
+## 2. Amendments to the Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^c-115f076f944c069ec403006726d267a8]
 
 (1) The Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^f00004] are amended as follows.
 
@@ -86,10 +86,10 @@ An impact assessment has not been produced for these Regulations as no, or no si
 
 [^f00002]: Footnote: [2018(c16)](https://www.legislation.gov.uk/nia/2018/16); Part 1C of Schedule 2 was inserted by section 22 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (the 2020 Act). Paragraph 21(b) of Schedule 7 was amended by paragraph 53(2)(b) of Schedule 5 to the 2020 Act.
 
-[^key-5502493a349151a9e81702e3d81f78ab]: Commencement: Reg. 1 in operation at 3.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/110/regulation/1/1)
+[^c-5502493a349151a9e81702e3d81f78ab]: Commencement: Reg. 1 in operation at 3.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/110/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-115f076f944c069ec403006726d267a8]: Commencement: Reg. 2 in operation at 3.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/110/regulation/1/1)
+[^c-115f076f944c069ec403006726d267a8]: Commencement: Reg. 2 in operation at 3.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/110/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279), to which relevant amendments were made by [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420), [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416), [S.R. 2015 No. 332](https://www.legislation.gov.uk/nisr/2015/332), [S.R. 2019 No. 82](https://www.legislation.gov.uk/nisr/2019/82), [S.I. 2019/157](https://www.legislation.gov.uk/uksi/2019/157), [S.R. 2020 No. 324](https://www.legislation.gov.uk/nisr/2020/324), [S.R. 2020 No. 353](https://www.legislation.gov.uk/nisr/2020/353) and [S.R. 2025 No. 11](https://www.legislation.gov.uk/nisr/2025/11).

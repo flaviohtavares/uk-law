@@ -37,7 +37,7 @@ summary: ''
 - “**rent tribunal**” has the meaning given by section 76(1) of this Act;
 - “**rental period**” means a period in respect of which a payment of rent falls to be made;
 - “**restricted contract**” shall be construed in accordance with section 19 of this Act;
-- “[^key-281e985fb6a494291a4e263db37c4fc7]**secure contract**” has the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1) (see section 8 of that Act);
+- “[^c-281e985fb6a494291a4e263db37c4fc7]**secure contract**” has the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1) (see section 8 of that Act);
 - “**statutory tenant**” and “**statutory tenancy**” shall be construed in accordance with section 2 of this Act;
 - “**tenant**” includes statutory tenant and also includes a sub-tenant and any person deriving title under the original tenant or sub-tenant;
 - “**tenancy**” includes “sub-tenancy”;
@@ -45,7 +45,7 @@ summary: ''
 
 (2) Except in so far as the context otherwise requires, any reference in this Act to any other enactment shall be taken as referring to that enactment as amended by or under any other enactment, including this Act.
 
-(3)[^key-49b887e7dac06690526536799be41eef] Section 239 of the Renting Homes (Wales) Act 2016 (anaw 1) abolishes, in relation to Wales, restricted contracts and protected shorthold tenancies and provides for the cessation of certain protected and statutory tenancies.
+(3)[^c-49b887e7dac06690526536799be41eef] Section 239 of the Renting Homes (Wales) Act 2016 (anaw 1) abolishes, in relation to Wales, restricted contracts and protected shorthold tenancies and provides for the cessation of certain protected and statutory tenancies.
 
 ## Annotations
 
@@ -53,6 +53,6 @@ summary: ''
 
 [^c16042081]: Marginal citation: [1976 c. 70](https://www.legislation.gov.uk/ukpga/1976/70).
 
-[^key-281e985fb6a494291a4e263db37c4fc7]: Textual amendment: Words in [s. 152(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/152/1) inserted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/3/a)
+[^c-281e985fb6a494291a4e263db37c4fc7]: Textual amendment: Words in [s. 152(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/152/1) inserted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/3/a)
 
-[^key-49b887e7dac06690526536799be41eef]: Textual amendment: [S. 152(3)](https://www.legislation.gov.uk/ukpga/1977/42/section/152/3) inserted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/3/b)
+[^c-49b887e7dac06690526536799be41eef]: Textual amendment: [S. 152(3)](https://www.legislation.gov.uk/ukpga/1977/42/section/152/3) inserted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/3/b)

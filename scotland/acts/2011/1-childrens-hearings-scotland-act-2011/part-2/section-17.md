@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Duty as respects location of children's hearing[^key-43e7bc3bad294d3431311143544f92b9]
+## 17. Duty as respects location of children's hearing[^c-43e7bc3bad294d3431311143544f92b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Principal Reporter must ensure that, so far as practicable, a children's hea
 
 ## Annotations
 
-[^key-43e7bc3bad294d3431311143544f92b9]: Commencement: S. 17 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-43e7bc3bad294d3431311143544f92b9]: Commencement: S. 17 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

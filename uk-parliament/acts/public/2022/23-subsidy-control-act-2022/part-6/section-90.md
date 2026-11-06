@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Extent[^key-5ff7feb1a2add43875fd8d576e3aa52d]
+## 90. Extent[^c-5ff7feb1a2add43875fd8d576e3aa52d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff7feb1a2add43875fd8d576e3aa52d]: Commencement: S. 90 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)
+[^c-5ff7feb1a2add43875fd8d576e3aa52d]: Commencement: S. 90 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)

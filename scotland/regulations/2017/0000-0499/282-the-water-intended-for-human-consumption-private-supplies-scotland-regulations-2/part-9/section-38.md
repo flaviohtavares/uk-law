@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Offence: failure to comply with an information notice[^key-1377f03c642e1e7e5a2bf263b76c549e]
+## 38. Offence: failure to comply with an information notice[^c-1377f03c642e1e7e5a2bf263b76c549e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1377f03c642e1e7e5a2bf263b76c549e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2017/282/regulation/38) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-1377f03c642e1e7e5a2bf263b76c549e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2017/282/regulation/38) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c13972871][^c13972891] The national authority[^key-2f9753daad175e2e5a4987e6f11a9869] may make regulations generally as to the use of motor vehicles and trailers on roads, their construction and equipment and the conditions under which they may be so used.
+(1)[^c13972871][^c13972891] The national authority[^c-2f9753daad175e2e5a4987e6f11a9869] may make regulations generally as to the use of motor vehicles and trailers on roads, their construction and equipment and the conditions under which they may be so used.
 
 Subsections (2) to (4) below do not affect the generality of this subsection.
 
@@ -44,7 +44,7 @@ Subsections (2) to (4) below do not affect the generality of this subsection.
   and the use of any such appliance, and for securing that any such appliance is efficient and kept in proper working order,
 - (l) for prohibiting the use of appliances fitted to motor vehicles for signalling their approach, being appliances for signalling by sound, at any times, or on or in any roads or localities, specified in the regulations.
 
-(2A)[^key-0a69fb8f74f8f6a782385dc9839141e0] In subsection (1) “national authority”—
+(2A)[^c-0a69fb8f74f8f6a782385dc9839141e0] In subsection (1) “national authority”—
 
 - (a) in relation to a function so far as exercisable within devolved competence, within the meaning of the Scotland Act 1998, means the Scottish Ministers;
 - (b) otherwise, means the Secretary of State.
@@ -87,13 +87,13 @@ Subsections (2) to (4) below do not affect the generality of this subsection.
 
 [^c13972891]: Subordinate legislation: S. 41(1)(5): s. 41(1) (with s. 41(5)) power exercised (4.7.1991) by [S.I. 1991/1527](https://www.legislation.gov.uk/uksi/1991/1527) and (5.9.1991) by [S.I. 1991/2003](https://www.legislation.gov.uk/uksi/1991/2003)
 
-[^key-2f9753daad175e2e5a4987e6f11a9869]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/1) substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/6), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-2f9753daad175e2e5a4987e6f11a9869]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/1) substituted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/6), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
 
 [^c13972911]: Textual amendment: Words in s. 41(2)(e) added (1.4.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 50(2)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/50/2); [S.I. 1992/421](https://www.legislation.gov.uk/uksi/1992/421), [art. 2](https://www.legislation.gov.uk/uksi/1992/421/article/2),Sch.
 
 [^c13972921]: Textual amendment: S. 41(2)(jj) inserted (1.4.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 50(3)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/50/3); [S.I. 1992/421](https://www.legislation.gov.uk/uksi/1992/421), [art. 2](https://www.legislation.gov.uk/uksi/1992/421/article/2),Sch.
 
-[^key-0a69fb8f74f8f6a782385dc9839141e0]: Textual amendment: [S. 41(2A)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/2B) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/7), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-0a69fb8f74f8f6a782385dc9839141e0]: Textual amendment: [S. 41(2A)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1988/52/section/41/2B) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 43(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/43/7), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
 
 [^c13972931]: Textual amendment: S. 41(3)(b)(c) repealed (1.4.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 83](https://www.legislation.gov.uk/ukpga/1991/40/section/83), [Sch. 8](https://www.legislation.gov.uk/ukpga/1991/40/schedule/8); [S.I. 1992/421](https://www.legislation.gov.uk/uksi/1992/421), [art. 2](https://www.legislation.gov.uk/uksi/1992/421/article/2),Sch.
 

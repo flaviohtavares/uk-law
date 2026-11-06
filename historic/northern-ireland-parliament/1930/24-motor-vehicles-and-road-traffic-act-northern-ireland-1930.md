@@ -47,7 +47,7 @@ Provided that—
 
 (2) The remuneration for any service performed in pursuance of this section shall be such amount, not exceeding the charges payable for the conveyance of parcels and passengers, respectively, as shall be agreed upon between the universal service provider concerned and the owner, or, in default of agreement, determined by the Tribunal[^c5433941] established by section seven of the Motor Vehicles and Road Traffic Act (Northern Ireland), 1929 [^m00001]; and any matter of difference arising under the proviso to sub-section (1) of this section shall also be determined by the said Tribunal. The said Tribunal shall, for the purpose of determining any matter under this sub-section, have the same powers as they have in the case of a matter within their jurisdiction under section seven of the said Act.
 
-(3) For the purposes of this section the expression “public service vehicle” means a public service vehicle \[[^c5433951] used under a bus operator's[^key-2ad30bae206b234aaa77a7c9900ae99e] licence granted under Part II of the Transport Act (Northern Ireland) 1967 [^m00002]\], and the expressions “mail bag”, “post office” and “universal service provider” have the same meanings as in Part 3 of the Postal Services Act 2011[^c22276971].
+(3) For the purposes of this section the expression “public service vehicle” means a public service vehicle \[[^c5433951] used under a bus operator's[^c-2ad30bae206b234aaa77a7c9900ae99e] licence granted under Part II of the Transport Act (Northern Ireland) 1967 [^m00002]\], and the expressions “mail bag”, “post office” and “universal service provider” have the same meanings as in Part 3 of the Postal Services Act 2011[^c22276971].
 
 (4) Nothing in this section shall be construed as affecting any provision in any local Act with respect to the conveyance of mails by public service vehicles:
 
@@ -110,7 +110,7 @@ This Act may be cited as the Motor Vehicles and Road Traffic Act (Northern Irela
 
 [^c5433951]: Textual amendment: [1967 c. 37 (NI)](https://www.legislation.gov.uk/apni/1967/37)
 
-[^key-2ad30bae206b234aaa77a7c9900ae99e]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/apni/1930/24/section/2/3) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/11/schedule/1/paragraph/1); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-2ad30bae206b234aaa77a7c9900ae99e]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/apni/1930/24/section/2/3) substituted (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/11/schedule/1/paragraph/1); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
 [^m00002]: Marginal citation: 1967 c.37
 

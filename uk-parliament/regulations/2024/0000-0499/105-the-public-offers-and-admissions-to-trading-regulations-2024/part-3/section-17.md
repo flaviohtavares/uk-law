@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. FCA rules relating to public offers unconnected with admissions to trading[^key-170fc23ac66869ba4032409c81b73378]
+## 17. FCA rules relating to public offers unconnected with admissions to trading[^c-170fc23ac66869ba4032409c81b73378]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The FCA may also make designated activity rules relating to the carrying on of a
 
 ## Annotations
 
-[^key-170fc23ac66869ba4032409c81b73378]: Commencement: Reg. 17 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-170fc23ac66869ba4032409c81b73378]: Commencement: Reg. 17 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

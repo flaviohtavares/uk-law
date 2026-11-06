@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28B. Indecent images: prisoner's non-disclosure of information[^key-dbffa72a45f67610569096dd5ac61fe7]
+## 28B. Indecent images: prisoner's non-disclosure of information[^c-dbffa72a45f67610569096dd5ac61fe7]
 
 *Extent: E+W*
 
-(1) The Parole Board must comply with this section when making a public protection decision about a life prisoner under section 28(6)(b), for the purposes of section 28(5),[^key-06dfe22cd064e923c57a76bbd4b44393] if—
+(1) The Parole Board must comply with this section when making a public protection decision about a life prisoner under section 28(6)(b), for the purposes of section 28(5),[^c-06dfe22cd064e923c57a76bbd4b44393] if—
 
 - (a) the prisoner's life sentence was passed for—
   - (i) an offence of taking an indecent photograph of a child, or
@@ -53,15 +53,15 @@ and in the application of this section to a relevant offence of making an indece
 
 (7) In this section—
 
-- “[^key-b8ca5e3ddf89cbcfeadf002abff946c7]**public protection decision**”, in relation to a prisoner, has the meaning given by section 28ZA(2);
+- “[^c-b8ca5e3ddf89cbcfeadf002abff946c7]**public protection decision**”, in relation to a prisoner, has the meaning given by section 28ZA(2);
 - “**relevant indecent image**” means—
   - (a) the photograph to which an offence of taking an indecent photograph of a child relates, or
   - (b) the pseudo-photograph to which a relevant offence of making an indecent pseudo-photograph of a child relates.
 
 ## Annotations
 
-[^key-dbffa72a45f67610569096dd5ac61fe7]: Textual amendment: Ss. 28A, 28B inserted (4.1.2021) by [Prisoners (Disclosure of Information About Victims) Act 2020 (c. 19)](https://www.legislation.gov.uk/ukpga/2020/19), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/19/section/1/1), [3(2)](https://www.legislation.gov.uk/ukpga/2020/19/section/3/2); [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)
+[^c-dbffa72a45f67610569096dd5ac61fe7]: Textual amendment: Ss. 28A, 28B inserted (4.1.2021) by [Prisoners (Disclosure of Information About Victims) Act 2020 (c. 19)](https://www.legislation.gov.uk/ukpga/2020/19), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/19/section/1/1), [3(2)](https://www.legislation.gov.uk/ukpga/2020/19/section/3/2); [S.I. 2020/1537](https://www.legislation.gov.uk/uksi/2020/1537), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1537/regulation/2)
 
-[^key-06dfe22cd064e923c57a76bbd4b44393]: Textual amendment: Words in s. 28B(1) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/4/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)
+[^c-06dfe22cd064e923c57a76bbd4b44393]: Textual amendment: Words in s. 28B(1) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/4/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)
 
-[^key-b8ca5e3ddf89cbcfeadf002abff946c7]: Textual amendment: Words in s. 28B(7) substituted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/4/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)
+[^c-b8ca5e3ddf89cbcfeadf002abff946c7]: Textual amendment: Words in s. 28B(7) substituted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/4/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 592. Interpretation of the 2000 Regulations[^key-00d3b485bca1f068d3563dc4014cfb1b]
+## 592. Interpretation of the 2000 Regulations[^c-00d3b485bca1f068d3563dc4014cfb1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00d3b485bca1f068d3563dc4014cfb1b]: Commencement: Art. 592 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-00d3b485bca1f068d3563dc4014cfb1b]: Commencement: Art. 592 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00367]: Footnote: The definition of “the reference banks” was amended by [S.I. 2000/2691](https://www.legislation.gov.uk/uksi/2000/2691), regulation 12(1),(2).

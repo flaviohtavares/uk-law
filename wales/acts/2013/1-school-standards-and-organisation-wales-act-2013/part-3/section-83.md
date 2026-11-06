@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Interpretation of Part 3[^key-75e0ac5129c8ccc11bd5bdb95505f5e3]
+## 83. Interpretation of Part 3[^c-75e0ac5129c8ccc11bd5bdb95505f5e3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e0ac5129c8ccc11bd5bdb95505f5e3]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2013/1/section/83) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-75e0ac5129c8ccc11bd5bdb95505f5e3]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2013/1/section/83) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

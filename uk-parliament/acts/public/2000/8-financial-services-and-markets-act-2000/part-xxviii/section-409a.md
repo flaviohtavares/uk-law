@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 409A. Consultation in relation to deference decisions[^key-4b25bc9256cac159a4f727f641c1b30e]
+## 409A. Consultation in relation to deference decisions[^c-4b25bc9256cac159a4f727f641c1b30e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b25bc9256cac159a4f727f641c1b30e]: Textual amendment: [S. 409A](https://www.legislation.gov.uk/ukpga/2000/8/section/409A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/32/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)
+[^c-4b25bc9256cac159a4f727f641c1b30e]: Textual amendment: [S. 409A](https://www.legislation.gov.uk/ukpga/2000/8/section/409A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/32/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3) (with savings in [The Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023 (S.I. 2023/936)](https://www.legislation.gov.uk/uksi/2023/936), [reg. 4](https://www.legislation.gov.uk/uksi/2023/936/regulation/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)

@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (revoked)[^key-eea22a09619a86e4c870115b6c58be9d]
+The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (revoked)[^c-eea22a09619a86e4c870115b6c58be9d]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st October 2004
 
-[^key-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eea22a09619a86e4c870115b6c58be9d]
+## 1. Citation and commencement[^c-eea22a09619a86e4c870115b6c58be9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-eea22a09619a86e4c870115b6c58be9d]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-eea22a09619a86e4c870115b6c58be9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-eea22a09619a86e4c870115b6c58be9d]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-eea22a09619a86e4c870115b6c58be9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-eea22a09619a86e4c870115b6c58be9d]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-eea22a09619a86e4c870115b6c58be9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-eea22a09619a86e4c870115b6c58be9d]
+## 5. Revocation[^c-eea22a09619a86e4c870115b6c58be9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea22a09619a86e4c870115b6c58be9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eea22a09619a86e4c870115b6c58be9d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/380) revoked (1.10.2005) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/415)](https://www.legislation.gov.uk/nisr/2005/415), [regs. 1](https://www.legislation.gov.uk/nisr/2005/415/regulation/1), [5](https://www.legislation.gov.uk/nisr/2005/415/regulation/5)
+[^c-eea22a09619a86e4c870115b6c58be9d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/380) revoked (1.10.2005) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/415)](https://www.legislation.gov.uk/nisr/2005/415), [regs. 1](https://www.legislation.gov.uk/nisr/2005/415/regulation/1), [5](https://www.legislation.gov.uk/nisr/2005/415/regulation/5)

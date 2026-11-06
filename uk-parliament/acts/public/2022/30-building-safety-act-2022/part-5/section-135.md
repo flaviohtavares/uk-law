@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Limitation periods[^key-c1e1e620c4166b7e7aa858e0aecdb495]
+## 135. Limitation periods[^c-c1e1e620c4166b7e7aa858e0aecdb495]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ section 4B of the Limitation Act 1980 (inserted by subsection (1)) has effect as
 
 ## Annotations
 
-[^key-c1e1e620c4166b7e7aa858e0aecdb495]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2022/30/section/135) in force at 28.6.2022, see [s. 170(3)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/c)
+[^c-c1e1e620c4166b7e7aa858e0aecdb495]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2022/30/section/135) in force at 28.6.2022, see [s. 170(3)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/c)

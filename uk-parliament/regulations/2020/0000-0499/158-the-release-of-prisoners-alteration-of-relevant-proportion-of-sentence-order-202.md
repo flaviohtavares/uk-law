@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 (revoked)[^key-a7bf37744191805c11b6fdd4ed2c863f]
+The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020 (revoked)[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into force
 
 1st April 2020
 
-[^key-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a7bf37744191805c11b6fdd4ed2c863f]
+## 1. Citation and commencement[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a7bf37744191805c11b6fdd4ed2c863f]
+## 2. Interpretation[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Reference in section 244 of the 2003 Act[^key-a7bf37744191805c11b6fdd4ed2c863f]
+## 3. Reference in section 244 of the 2003 Act[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reference in section 264 of the 2003 Act[^key-a7bf37744191805c11b6fdd4ed2c863f]
+## 4. Reference in section 264 of the 2003 Act[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application provisions[^key-a7bf37744191805c11b6fdd4ed2c863f]
+## 5. Application provisions[^c-a7bf37744191805c11b6fdd4ed2c863f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7bf37744191805c11b6fdd4ed2c863f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a7bf37744191805c11b6fdd4ed2c863f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/158) revoked (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 130(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/9), [208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)
+[^c-a7bf37744191805c11b6fdd4ed2c863f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/158) revoked (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 130(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/130/9), [208(5)(m)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/m)

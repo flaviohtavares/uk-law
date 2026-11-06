@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Social Security in exercise of the powers conferred upon him by the provisions specified in Schedule 1 to these Regulations, and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals as required by section 8(1) of the Tribunals and Inquiries Act 1992[^f00001]and section 185(8) of the Pension Schemes Act 1993[^f00002], not being required to refer the proposals in respect of these Regulations to the Social Security Advisory Committee or the Occupational Pensions Board because this instrument contains only regulations made consequential upon the Pension Schemes Act 1993 and the Pension Schemes (Northern Ireland) Act 1993[^f00003]and is made before the end of the period of 6 months beginning with the coming into force of those enactments[^f00004], hereby makes the following Regulations—
 
-## 1. Citation and commencement[^key-fcdb7f0cdfb36d9eb75dd678c24faef0]
+## 1. Citation and commencement[^c-fcdb7f0cdfb36d9eb75dd678c24faef0]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994.
 
 (2) These Regulations come into force on 12th May 1994.
 
-## 2. Amendments consequential on the Pension Schemes Act 1993 and the Pension Schemes (Northern Ireland) Act 1993[^key-cae10cbda7d5a86c2464161d980eb955]
+## 2. Amendments consequential on the Pension Schemes Act 1993 and the Pension Schemes (Northern Ireland) Act 1993[^c-cae10cbda7d5a86c2464161d980eb955]
 
 The Regulations mentioned in Schedule 2 to these Regulations shall have effect with the amendments specified in that Schedule (which substitute references to provisions of the Pension Schemes Act 1993 and the Pension Schemes (Northern Ireland) Act 1993 for references to the corresponding provisions repealed by hose Acts and make other amendments consequential on the passing of the Pension Schemes Act 1993).
 
@@ -64,7 +64,7 @@ Parliamentary Under-Secretary of State,Department of Social Security
 
 12th April 1994
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-75db8983053b8a09e88c72808f852f58]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-75db8983053b8a09e88c72808f852f58]
 
 Sections 6, 7(1),(6) and (7), 8(3), 9(2),(3) and (5), 10(2) and (3), 11(5), 12(3), 19, 20(1),(2) and (3), 21, 22, 23(1) and (7), 24(3), 26, 27(3), 28(2),(3),(4) and (5), 29, 30(1), 32, 34(1) and (8), 35(6), 36(6), 39, 43(1),(3) and (4), 44, 45(3), 48(2) and (4), 50(4) and (5), 51(4), 55(2),(3) and (5), 56(1) and (2), 57(1),(2) and (4), 59(2) and (3), 60(7), 61(5), 62(2), 63(2), 71(6), 73(1) and (4), 75(1) and (7), 77(5) and (6), 82, 88(1), 95(2) to (6), 97, 98(1) and (2), 111, 112(1), 113(1), (3) and (4), 114, 116, 117, 118 (3) and (4), 119(3), 135(1), 136(1), 138(7), 144(5), 146(4) and (6), 153(1),(2),(3),(5) and (6), 154, 156, 160(1), 163(2),(4),(5) and (6), 165(6), 172(4), 175, 178, 181(1),(2),(3) and (4), 182(2) and (3), 183(1) and (3) of, and paragraph 10(1),(2) and (4) of Schedule 1, Schedule 2, paragraph 5(2) of Schedule 3 and paragraph 17 of Schedule 6 to, the Pension Schemes Act 1993.
 
@@ -72,7 +72,7 @@ Sections 6, 7(1),(6) and (7), 8(3), 9(2),(3) and (5), 10(2) and (3), 11(5), 12(3
 
 Regulation 2
 
-### 1. The Occupational Pensions Board (Determinations and Review Procedure) Regulations 1973[^key-b0b674aee5698b001a536bade38d6fc2][^f00005]
+### 1. The Occupational Pensions Board (Determinations and Review Procedure) Regulations 1973[^c-b0b674aee5698b001a536bade38d6fc2][^f00005]
 
 (1) The Occupational Pensions Board (Determinations and Review Procedure) Regulations 1973 shall be amended as follows—
 
@@ -94,7 +94,7 @@ Regulation 2
 - (a) in paragraph (1) for “sections 63 and 67 of, and Schedule 16 to, the Act, Part III and sections 53 to 56 of, and Schedule 2 to, the Social Security Pensions Act 1975” and “Part IV and Articles 55 to 59 and 62 of, and Schedules 2 and 3 to, the Social Security Pensions (Northern Ireland) Order 1975” substitute respectively “the Act” and “the Pension Schemes (Northern Ireland) Act 1993”;
 - (b) in paragraph (2) for “section 67” and “Article 62 of the Social Security Pensions (Northern Ireland) Order 1975” substitute respectively “section 172” and “section 167 of the Pension Schemes (Northrn Ireland) Act 1993”.
 
-### 2. The Occupational Pension Schemes (Equal Access to Membership) Regulations 1976[^key-f99f5e98d239b8e8456f9784a1d80bef][^f00006]
+### 2. The Occupational Pension Schemes (Equal Access to Membership) Regulations 1976[^c-f99f5e98d239b8e8456f9784a1d80bef][^f00006]
 
 (1) The Occupational Pension Schemes (Equal Access to Membership)
 
@@ -112,7 +112,7 @@ in the definition of “the Act” for “Social Security Pensions Act 1975” s
 
 (6) In regulation 14(4) for “Subsections (2) to (4) of section 56” substitute “Sections 139(3) and 140(2) to (6)”.
 
-### 3. The Occupational Pensions Board (Determinations and Review Procedure) Regulations 1976[^key-24f62fb900a87cea109dd7f8eeecfd5c][^f00007]
+### 3. The Occupational Pensions Board (Determinations and Review Procedure) Regulations 1976[^c-24f62fb900a87cea109dd7f8eeecfd5c][^f00007]
 
 (1) The Occupational Pensions Board (Determinations and Review Procedure)
 
@@ -134,7 +134,7 @@ Regulations 1976 shall be amended as follows—
 
 and 4(1) for “section 67” and “Article 62 of the Northern Ireland Order” substitute respectively “section 172” and “section 167 of the Northern Ireland Act”.
 
-### 4. The Occupational Pension Schemes (Contracting-out) Regulations 1984[^key-848cdc92c512de31d6f0778e63ca75e0][^f00008]
+### 4. The Occupational Pension Schemes (Contracting-out) Regulations 1984[^c-848cdc92c512de31d6f0778e63ca75e0][^f00008]
 
 (1) The Occupational Pension Schemes (Contracting-out)
 
@@ -307,7 +307,7 @@ and (5) for “section 29(2A)” substitute “section 48(2)”.
 
 (38) In regulation 50, omit paragraphs (1) and (2) and in paragraph (3) for “Section 21(1) of the 1977 Act” substitute “Section 51(1) to (3)”.h
 
-### 5. The Contracting-out (Transfer) Regulations 1985[^key-d01e664ce23a9f83ced39324e38a6d94][^f00010]
+### 5. The Contracting-out (Transfer) Regulations 1985[^c-d01e664ce23a9f83ced39324e38a6d94][^f00010]
 
 (1) The Contracting-out (Transfer)
 
@@ -415,7 +415,7 @@ ad 2B(1) for “section 52C” substitute “section 19”.
 
   .
 
-### 6. The Occupational Pension Schemes (Discharge of Liability) Regulations 1985[^key-d03e0a58284e5ea5a581d51c95153f3d][^f00011]
+### 6. The Occupational Pension Schemes (Discharge of Liability) Regulations 1985[^c-d03e0a58284e5ea5a581d51c95153f3d][^f00011]
 
 (1) The Occupational Pension Schemes (Discharge of Liability)
 
@@ -443,7 +443,7 @@ Regulations 1985 shall be amended as follows—
 
 (10) In the Schedule, in the heading to the form, for the words from “Social Security PensionsAct 1975” to “Schedule 1” substitute “Section 19(5) of the Pension Schemes Act 1993”.
 
-### 7. The Occupational Pension Schemes (Transfer Values) Regulations 1985[^key-8aeae589459308c548295ab8cdd74937][^f00012]
+### 7. The Occupational Pension Schemes (Transfer Values) Regulations 1985[^c-8aeae589459308c548295ab8cdd74937][^f00012]
 
 (1) The Occupational Pension Schemes (Transfer Values)
 
@@ -513,7 +513,7 @@ and (3) for “Schedule 1A” substitute “Chapter IV of Part IV of the Act”.
 - (a) in paragraph (1) for “Part II of Schedule 1A” substitute “Chapter IV of Part IV of the Act”;
 - (b) in paragraph (3) for “paragraph 13 of Schedule 1A” substitute “section 95 of the Act”.
 
-### 8. The Occupational Pension Schemes (Disclosure of Information) Regulations 1986[^key-7319cd3cf76af545a8a01f1afb2c4984][^f00013]
+### 8. The Occupational Pension Schemes (Disclosure of Information) Regulations 1986[^c-7319cd3cf76af545a8a01f1afb2c4984][^f00013]
 
 (1) The Occupational Pension Schemes (Disclosure of Information) Regulations 1986 shall be amended as follows—
 
@@ -560,14 +560,14 @@ and (3) for “Schedule 1A” substitute “Chapter IV of Part IV of the Act”.
 
 (17) In paragraph 16 of Schedule 5 for “section 57A” substitute “section 112”.
 
-### 9. The Occupational Pension Schemes (Managers) Regulations 1986[^key-c5f12efd7cc621b67b22a88cab822a05][^f00014]
+### 9. The Occupational Pension Schemes (Managers) Regulations 1986[^c-c5f12efd7cc621b67b22a88cab822a05][^f00014]
 
 In the Occupational Pension Schemes (Managers) Regulations 1986—
 
 - (a) in the definition of “the Act” in regulation 1(2) for “Social Security Pensions Act 1975” substitute “Pension Schemes Act 1993”;
 - (b) in regulations 2 and 3 for “sections 56A, 56E and 56L of the Act” substitute “sections 113 to 115 of the Act” and after “schemes)” insert “and Part VIII of the Act as it applies for the purposes of those sections”.
 
-### 10. The Money Purchase Contracted-out Schemes Regulations 1987[^key-7604570d58d8245fbf39f96aade75f02][^f00015]
+### 10. The Money Purchase Contracted-out Schemes Regulations 1987[^c-7604570d58d8245fbf39f96aade75f02][^f00015]
 
 (1) The Money Purchase Contracted-out Schemes Regulations 1987 shall be amended as follows—
 
@@ -599,11 +599,11 @@ In the Occupational Pension Schemes (Managers) Regulations 1986—
 - (a) in paragraph (1) for “section 32(2) of the 1975 Act” and “section 32(2A) of that Act” substitute respectively “section 9(2) of the Act” and “section 9(3) of the Act”;
 - (b) in paragraph (2) for “section 32(2A) of that Act” and “section 32(2) of that Act” substitute respectively “section 9(3) of the Act” and “section 9(2) of the Act”.
 
-### 11. The Occupational Pension Schemes (Auditors) Regulations 1987[^key-8713ebc6d3d0d88abf2933535d534f4d][^f00016]
+### 11. The Occupational Pension Schemes (Auditors) Regulations 1987[^c-8713ebc6d3d0d88abf2933535d534f4d][^f00016]
 
 In the definition of “the Act” in regulation 1(2) of the Occupational Pension Schemes (Auditors) Regulations 1987 for “Social Security Pensions Act 1975” substitute “Pension Schemes Act 1993”.
 
-### 12. The Occupational Pension Schemes (Contracted-out Protected Rights Premiums) Regulations 1987[^key-a19e81ca57daf7c10f2a4ffe2806e871][^f00017]
+### 12. The Occupational Pension Schemes (Contracted-out Protected Rights Premiums) Regulations 1987[^c-a19e81ca57daf7c10f2a4ffe2806e871][^f00017]
 
 (1) The Occupational Pension Schemes (Contracted-out Protected Rights Premiums) Regulations 1987 shall be amended as follows—
 
@@ -613,11 +613,11 @@ In the definition of “the Act” in regulation 1(2) of the Occupational Pensio
 
 (4) In regulation 2(3)(b)(ii) for “Schedule 1 to the Social Security Act 1986 as modified by section 32(2B) of the Social Security Pensions Act 1975” substitute “sections 26 to 33 of the Pension Schemes Act 1993”.
 
-### 13. The Occupational Pension Schemes (Qualifying Service—Consequential and Other Provisions) Regulations 1987[^key-517d22ddd5c0519125ffda35ea3588a3][^f00018]
+### 13. The Occupational Pension Schemes (Qualifying Service—Consequential and Other Provisions) Regulations 1987[^c-517d22ddd5c0519125ffda35ea3588a3][^f00018]
 
 In regulation 6 of the Occupational Pension Schemes (Qualifying Service—Consequential and Other Provisions) Regulations 1987 for “section” to “1973” substitute “section 136(1)(a)(ii) of the Pension Schemes Act 1993”.h
 
-### 14. The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987[^key-bfa47ea0fcfb27ba88d6a93b4e90fe2e][^f00019]
+### 14. The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987[^c-bfa47ea0fcfb27ba88d6a93b4e90fe2e][^f00019]
 
 (1) The Pension Schemes (Voluntary Contributions Requirements and Voluntary and Compulsory Membership) Regulations 1987 shall be amended as follows—
 
@@ -643,7 +643,7 @@ In regulation 6 of the Occupational Pension Schemes (Qualifying Service—Conseq
 
 (5) In regulation 3 for “Section 15(1)(a)” substitute “Section 160(1)(a)”.
 
-### 15. The Personal Pension Schemes (Disclosure of Information) Regulations 1987[^key-be043b2f3a0486e6e695b755a27bfb9f][^f00020]
+### 15. The Personal Pension Schemes (Disclosure of Information) Regulations 1987[^c-be043b2f3a0486e6e695b755a27bfb9f][^f00020]
 
 (1) The Personal Pension Schemes (Disclosure of Information)
 
@@ -669,7 +669,7 @@ Regulations 1987 shall be amended as follows—
 - (b) for “section 3(1)(b) of that Act” substitute “section 3(1)(b) of the Social Security Act 1986”;
 - (c) for “section 3(1)(aa) of that Act” substitute “section 45(2) of the Act”.
 
-### 16. The Personal Pension Schemes (Personal Pension Protected Rights Premiums) Regulations 1987[^key-74d93ad52d5c08b4f73708f00b3eddbe][^f00021]
+### 16. The Personal Pension Schemes (Personal Pension Protected Rights Premiums) Regulations 1987[^c-74d93ad52d5c08b4f73708f00b3eddbe][^f00021]
 
 (1) The Personal Pension Schemes (Personal Pension Protected Rights Premiums) Regulations 1987 shall be amended as follows—
 
@@ -704,7 +704,7 @@ Regulations 1987 shall be amended as follows—
 
 (9) In regulation 8 for “section 5(10)(a)”, “section 5(10)(a)(i)” and “section 5(10)(a)(ii)” substitute respectively “section 60(7)”, “section 60(7)(a)” and “section 60(7)(b)”.
 
-### 17. The Personal Pension Schemes (Transfer Values) Regulations 1987[^key-ba69247edb1ddc5f782fc534ccefcec8][^f00022]
+### 17. The Personal Pension Schemes (Transfer Values) Regulations 1987[^c-ba69247edb1ddc5f782fc534ccefcec8][^f00022]
 
 (1) The Personal Pension Schemes (Transfer Values) Regulations 1987 shall be amended as follows—
 
@@ -737,7 +737,7 @@ Regulations 1987 shall be amended as follows—
 - (a) in paragraph (1) for “paragraph 12(1) of Schedule 1A to the Act as applied to personal pension schemes by the Modification Regulations” substitute “section 94(1)(b) of the Act”;
 - (b) in paragraph (4) for “paragraph 12(2) of Schedule 1A to the Act, as applied to personal pension schemes by the Modification Regulations” substitute “section 94(2) of the Act”.
 
-### 18. The Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations 1987[^key-9efd79bde5666abf88d6bcb97b421248][^f00023]
+### 18. The Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations 1987[^c-9efd79bde5666abf88d6bcb97b421248][^f00023]
 
 (1) The Personal and Occupational Pension Schemes (Abatement of Benefit)
 
@@ -766,7 +766,7 @@ Regulations 1987 shall be amended as follows—
 
 (8) In regulations 3(2) and 5(2) for “section 36(6)” and “section 36(7A)” substitute respectively “section 17(5)” and “section 17(6)”.
 
-### 19. The Personal and Occupational Pension Schemes (Protected Rights) Regulations 1987[^key-a64d092d47d539d0f29d585fc73fb111][^f00024]
+### 19. The Personal and Occupational Pension Schemes (Protected Rights) Regulations 1987[^c-a64d092d47d539d0f29d585fc73fb111][^f00024]
 
 (1) The Personal and Occupational Pension Schemes (Protected Rights)
 
@@ -806,7 +806,7 @@ is omitted.
 
 (14) In regulation 15 for “paragraph 12 of Schedule 1” and “Schedule 1”, in the second place it occurs, substitute respectively “section 33 of ” and “sections 26 to 32 of the Act”.
 
-### 20. The Protected Rights (Transfer Payment) Regulations 1987[^key-77918531479086409f18d85dfa6a355f][^f00025]
+### 20. The Protected Rights (Transfer Payment) Regulations 1987[^c-77918531479086409f18d85dfa6a355f][^f00025]
 
 (1) The Protected Rights (Transfer Payment) Regulations 1987 shall be amended as follows—
 
@@ -852,7 +852,7 @@ is omitted.
 
 (13) In paragraph 2 of Schedule 3 for “section 4 of the Act, or section 29(2) or (2A) of the Pensions Act” and “section 35(7) of the Pensions Act” substitute respectively “section 47(2) or (5) or 48(2) of the Act” and “section 16(2) of the Act”.
 
-### 21. The Personal Pension Schemes (Appropriate Schemes) Regulations 1988[^key-45e95cb7e2b837560a26b2dd2c2f32f0][^f00026]
+### 21. The Personal Pension Schemes (Appropriate Schemes) Regulations 1988[^c-45e95cb7e2b837560a26b2dd2c2f32f0][^f00026]
 
 (1) The Personal Pension Schemes (Appropriate Schemes) Regulations 1988 shall be amended as follows—
 
@@ -893,7 +893,7 @@ is omitted.
 - (a) in paragraphs (3) and (5)(b) for “Schedule 1” substitute “sections 9(5) and 26 to 32”;
 - (b) in paragraph (5) for “section 5(8)” and “that Schedule” substitute respectively “section 58(3)” and “those sections”.
 
-### 22. The Personal Pension Schemes (Compensation) Regulations 1988[^key-bcee104d463dca38edeca0de8b95bf52][^f00027]
+### 22. The Personal Pension Schemes (Compensation) Regulations 1988[^c-bcee104d463dca38edeca0de8b95bf52][^f00027]
 
 (1) The Personal Pension Schemes (Compensation) Regulations 1988 shall be amended as follows—
 
@@ -903,7 +903,7 @@ is omitted.
 
 (4) In regulation 3(2) for “under Part I of the Act” substitute “for the purposes of the Act”.
 
-### 23. The Personal Pension Schemes (Advertisements) Regulations 1990[^key-53c42f69ec7283ca790461f592dfa5b8][^f00028]
+### 23. The Personal Pension Schemes (Advertisements) Regulations 1990[^c-53c42f69ec7283ca790461f592dfa5b8][^f00028]
 
 (1) The Personal Pension Schemes (Advertisements) Regulations 1990 shall be amended as follows—
 
@@ -919,7 +919,7 @@ insert—
 
 .
 
-### 24. The Personal and Occupational Pension Schemes (Perpetuities) Regulations 1990[^key-3962b523c79b82ab3f7793111cde8edf][^f00029]
+### 24. The Personal and Occupational Pension Schemes (Perpetuities) Regulations 1990[^c-3962b523c79b82ab3f7793111cde8edf][^f00029]
 
 (1) The Personal and Occupational Pension Schemes (Perpetuities) Regulations 1990 shall be amended as follows—
 
@@ -929,7 +929,7 @@ insert—
 
 (4) In regulation 5 for “qualify under section 69 of the 1973 Act” substitute “be a scheme to which section 163 of the Act applies”.
 
-### 25. The Occupational Pension Schemes (Modification) Regulations 1990[^key-84d12019b0c4248e38a3b96d2dc43643][^f00030]
+### 25. The Occupational Pension Schemes (Modification) Regulations 1990[^c-84d12019b0c4248e38a3b96d2dc43643][^f00030]
 
 (1) The Occupational Pension Schemes (Modification) Regulations 1990 shall be amended as follows—
 
@@ -939,7 +939,7 @@ insert—
 
 (4) In regulation 3(6) for “section 37A of the Social Security Pensions Act 1975”, “section 66(1) of the Social Security Pensions Act 1975” and “section 52A of the Social Security PensionsAct 1975” substitute respectively “section 109 of the Pension Schemes Act 1993”, “section 181(1) of that Act” and “Chapter I of Part V of that Act”.
 
-### 26. The Occupational Pension Schemes (Independent Trustee) Regulations 1990[^key-8787131bd314cd94fb35610f0910b41c][^f00031]
+### 26. The Occupational Pension Schemes (Independent Trustee) Regulations 1990[^c-8787131bd314cd94fb35610f0910b41c][^f00031]
 
 (1) The Occupational Pension Schemes (Independent Trustee) Regulations 1990 shall be amended as follows—
 
@@ -959,14 +959,14 @@ insert—
 
 (9) In regulation 7(2) for “Sections 57C and 57D of the Social Security Pensions Act 1975” substitute “Sections 119 to 122 of the Pension Schemes Act 1993”.
 
-### 27. The Occupational and Personal Pension Schemes (Levy) Regulations 1990[^key-3758f21c164c1d0c38fb2971991daa0d][^f00032]
+### 27. The Occupational and Personal Pension Schemes (Levy) Regulations 1990[^c-3758f21c164c1d0c38fb2971991daa0d][^f00032]
 
 In the Occupational and Personal Pension Schemes (Levy) Regulations 1990—
 
 - (a) in the definition of “the Act” in regulation 1(2) for “Social Security Pensions Act 1975” substitute “Pension Schemes Act 1993”;
 - (b) in regulation 2(1) for “section 57B, Part IVA and section 59K” substitute “sections 6, 174 and Part X”.
 
-### 28. The Register of Occupational and Personal Pension Schemes Regulations 1990[^key-69eb6b86ab6247ab907cc35c8a829b3c][^f00033]
+### 28. The Register of Occupational and Personal Pension Schemes Regulations 1990[^c-69eb6b86ab6247ab907cc35c8a829b3c][^f00033]
 
 (1) The Register of Occupational and Personal Pension Schemes Regulations 1990 shall be amended as follows—
 
@@ -976,7 +976,7 @@ In the Occupational and Personal Pension Schemes (Levy) Regulations 1990—
 
 (4) In regulation 6(1)(b) for “section 59B” substitute “section 145”.
 
-### 29. The Contracting-out (Protection of Pensions) Regulations 1991[^key-900af91b55623406a57baa82500d9814][^f00034]
+### 29. The Contracting-out (Protection of Pensions) Regulations 1991[^c-900af91b55623406a57baa82500d9814][^f00034]
 
 (1) The Contracting-out (Protection of Pensions) Regulations 1991 shall have effect with the following amendments.
 
@@ -1002,7 +1002,7 @@ In the Occupational and Personal Pension Schemes (Levy) Regulations 1990—
 - (b) in paragraph (2) for “section 41E” substitute “section 135(1)”;
 - (c) in paragraph (3) for “section 41E(2)” substitute “section 135(1)”.
 
-### 30. The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991[^key-ed4a4e8d2af561f594ddc0e41aca0785][^f00035]
+### 30. The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991[^c-ed4a4e8d2af561f594ddc0e41aca0785][^f00035]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 shall be amended as follows—
 
@@ -1073,7 +1073,7 @@ to (4), 16(1) and 17(1) for “paragraph 11 of Schedule 16” and “paragraph 1
 
 (24) In regulation 27 for “Schedule 16”, in both places it occurs, “paragraph 6(1)”, “paragraph 6(2) and (3)”, “paragraphs 10 to 12”, “paragraph 13”, and “paragraph 14” substitute respectively“Chapter I of Part IV of the Act”, “section 71(1)”, “section 71(3) and (4)”, “section 74”, “section 75” and “section 76”.
 
-### 31. The Occupational Pension Schemes (Revaluation) Regulations 1991[^key-2fb1049b37dfee31a2157a0f0ac91796][^f00036]
+### 31. The Occupational Pension Schemes (Revaluation) Regulations 1991[^c-2fb1049b37dfee31a2157a0f0ac91796][^f00036]
 
 (1) The Occupational Pension Schemes (Revaluation) Regulations 1991 shall be amended as follows—
 
@@ -1127,7 +1127,7 @@ to (4), 16(1) and 17(1) for “paragraph 11 of Schedule 16” and “paragraph 1
 
 (13) In regulation 13(2) for “Schedule 1A is”, “” to “Schedule 1A” and “D in that formula” substitute respectively “Paragraph 1 of Schedule 3 to the Act is”, “the total pensionable service referred to in sub-paragraph (1)(b) of that paragraph” and “the amount of the pension or other benefit which has accrued on the termination date as referred to in sub-paragraph (1) of that paragraph”.
 
-### 32. The Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations 1991[^key-cd254bc71c0b7229e4b5cb86f8123429][^f00037]
+### 32. The Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations 1991[^c-cd254bc71c0b7229e4b5cb86f8123429][^f00037]
 
 (1) The Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations 1991 shall be amended as follows—
 
@@ -1140,7 +1140,7 @@ to (4), 16(1) and 17(1) for “paragraph 11 of Schedule 16” and “paragraph 1
 
 (3) In regulation 2(2) for “Part IVA of the Pensions Act” substitute “Part X of the Act”.
 
-### 33. The Occupational Pension Schemes (Investment of Scheme’s Resources) Regulations 1992[^key-db361fc71a7486086544c051adda0e46][^f00038]
+### 33. The Occupational Pension Schemes (Investment of Scheme’s Resources) Regulations 1992[^c-db361fc71a7486086544c051adda0e46][^f00038]
 
 (1) The Occupational Pension Schemes (Investment of Scheme’s Resources) Regulations 1992 shall be amended as follows—
 
@@ -1176,142 +1176,142 @@ The Regulations do not impose any costs on business.
 
 [^f00004]: Footnote: See section 185(6) of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), and section 173(5)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-fcdb7f0cdfb36d9eb75dd678c24faef0]: Commencement: Reg. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-fcdb7f0cdfb36d9eb75dd678c24faef0]: Commencement: Reg. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
-[^key-cae10cbda7d5a86c2464161d980eb955]: Commencement: Reg. 2 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-cae10cbda7d5a86c2464161d980eb955]: Commencement: Reg. 2 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
-[^key-75db8983053b8a09e88c72808f852f58]: Commencement: Sch. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-75db8983053b8a09e88c72808f852f58]: Commencement: Sch. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
-[^key-b0b674aee5698b001a536bade38d6fc2]: Commencement: Sch. 2 para. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-b0b674aee5698b001a536bade38d6fc2]: Commencement: Sch. 2 para. 1 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00005]: Footnote: S.I. [1973/1776](https://www.legislation.gov.uk/uksi/1973/1776).
 
-[^key-f99f5e98d239b8e8456f9784a1d80bef]: Commencement: Sch. 2 para. 2 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-f99f5e98d239b8e8456f9784a1d80bef]: Commencement: Sch. 2 para. 2 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00006]: Footnote: S.I. [1976/142](https://www.legislation.gov.uk/uksi/1976/142).
 
-[^key-24f62fb900a87cea109dd7f8eeecfd5c]: Commencement: Sch. 2 para. 3 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-24f62fb900a87cea109dd7f8eeecfd5c]: Commencement: Sch. 2 para. 3 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00007]: Footnote: S.I. [1976/185](https://www.legislation.gov.uk/uksi/1976/185).
 
-[^key-848cdc92c512de31d6f0778e63ca75e0]: Commencement: Sch. 2 para. 4 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-848cdc92c512de31d6f0778e63ca75e0]: Commencement: Sch. 2 para. 4 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00008]: Footnote: S.I. [1984/380](https://www.legislation.gov.uk/uksi/1984/380).
 
 [^f00009]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-d01e664ce23a9f83ced39324e38a6d94]: Commencement: Sch. 2 para. 5 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-d01e664ce23a9f83ced39324e38a6d94]: Commencement: Sch. 2 para. 5 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00010]: Footnote: S.I. [1985/1323](https://www.legislation.gov.uk/uksi/1985/1323).
 
-[^key-d03e0a58284e5ea5a581d51c95153f3d]: Commencement: Sch. 2 para. 6 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-d03e0a58284e5ea5a581d51c95153f3d]: Commencement: Sch. 2 para. 6 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00011]: Footnote: S.I. [1985/1929](https://www.legislation.gov.uk/uksi/1985/1929).
 
-[^key-8aeae589459308c548295ab8cdd74937]: Commencement: Sch. 2 para. 7 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-8aeae589459308c548295ab8cdd74937]: Commencement: Sch. 2 para. 7 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00012]: Footnote: S.I. [1985/1931](https://www.legislation.gov.uk/uksi/1985/1931).
 
-[^key-7319cd3cf76af545a8a01f1afb2c4984]: Commencement: Sch. 2 para. 8 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-7319cd3cf76af545a8a01f1afb2c4984]: Commencement: Sch. 2 para. 8 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00013]: Footnote: S.I. [1986/1046](https://www.legislation.gov.uk/uksi/1986/1046).
 
-[^key-c5f12efd7cc621b67b22a88cab822a05]: Commencement: Sch. 2 para. 9 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-c5f12efd7cc621b67b22a88cab822a05]: Commencement: Sch. 2 para. 9 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00014]: Footnote: S.I. [1986/1718](https://www.legislation.gov.uk/uksi/1986/1718).
 
-[^key-7604570d58d8245fbf39f96aade75f02]: Commencement: Sch. 2 para. 10 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-7604570d58d8245fbf39f96aade75f02]: Commencement: Sch. 2 para. 10 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00015]: Footnote: S.I. [1987/1101](https://www.legislation.gov.uk/uksi/1987/1101).
 
-[^key-8713ebc6d3d0d88abf2933535d534f4d]: Commencement: Sch. 2 para. 11 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-8713ebc6d3d0d88abf2933535d534f4d]: Commencement: Sch. 2 para. 11 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00016]: Footnote: S.I. [1987/1102](https://www.legislation.gov.uk/uksi/1987/1102).
 
-[^key-a19e81ca57daf7c10f2a4ffe2806e871]: Commencement: Sch. 2 para. 12 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-a19e81ca57daf7c10f2a4ffe2806e871]: Commencement: Sch. 2 para. 12 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00017]: Footnote: S.I. [1987/1103](https://www.legislation.gov.uk/uksi/1987/1103).
 
-[^key-517d22ddd5c0519125ffda35ea3588a3]: Commencement: Sch. 2 para. 13 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-517d22ddd5c0519125ffda35ea3588a3]: Commencement: Sch. 2 para. 13 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00018]: Footnote: S.I. [1987/1106](https://www.legislation.gov.uk/uksi/1987/1106).
 
-[^key-bfa47ea0fcfb27ba88d6a93b4e90fe2e]: Commencement: Sch. 2 para. 14 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-bfa47ea0fcfb27ba88d6a93b4e90fe2e]: Commencement: Sch. 2 para. 14 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00019]: Footnote: S.I. [1987/1108](https://www.legislation.gov.uk/uksi/1987/1108).
 
-[^key-be043b2f3a0486e6e695b755a27bfb9f]: Commencement: Sch. 2 para. 15 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-be043b2f3a0486e6e695b755a27bfb9f]: Commencement: Sch. 2 para. 15 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00020]: Footnote: S.I. [1987/1110](https://www.legislation.gov.uk/uksi/1987/1110).
 
-[^key-74d93ad52d5c08b4f73708f00b3eddbe]: Commencement: Sch. 2 para. 16 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-74d93ad52d5c08b4f73708f00b3eddbe]: Commencement: Sch. 2 para. 16 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00021]: Footnote: S.I. [1987/1111](https://www.legislation.gov.uk/uksi/1987/1111).
 
-[^key-ba69247edb1ddc5f782fc534ccefcec8]: Commencement: Sch. 2 para. 17 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-ba69247edb1ddc5f782fc534ccefcec8]: Commencement: Sch. 2 para. 17 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00022]: Footnote: S.I. [1987/1112](https://www.legislation.gov.uk/uksi/1987/1112).
 
-[^key-9efd79bde5666abf88d6bcb97b421248]: Commencement: Sch. 2 para. 18 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-9efd79bde5666abf88d6bcb97b421248]: Commencement: Sch. 2 para. 18 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00023]: Footnote: S.I. [1987/1113](https://www.legislation.gov.uk/uksi/1987/1113).
 
-[^key-a64d092d47d539d0f29d585fc73fb111]: Commencement: Sch. 2 para. 19 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-a64d092d47d539d0f29d585fc73fb111]: Commencement: Sch. 2 para. 19 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00024]: Footnote: S.I. [1987/1117](https://www.legislation.gov.uk/uksi/1987/1117).
 
-[^key-77918531479086409f18d85dfa6a355f]: Commencement: Sch. 2 para. 20 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-77918531479086409f18d85dfa6a355f]: Commencement: Sch. 2 para. 20 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00025]: Footnote: S.I. [1987/1118](https://www.legislation.gov.uk/uksi/1987/1118).
 
-[^key-45e95cb7e2b837560a26b2dd2c2f32f0]: Commencement: Sch. 2 para. 21 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-45e95cb7e2b837560a26b2dd2c2f32f0]: Commencement: Sch. 2 para. 21 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00026]: Footnote: S.I. [1988/137](https://www.legislation.gov.uk/uksi/1988/137).
 
-[^key-bcee104d463dca38edeca0de8b95bf52]: Commencement: Sch. 2 para. 22 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-bcee104d463dca38edeca0de8b95bf52]: Commencement: Sch. 2 para. 22 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00027]: Footnote: S.I. [1988/2238](https://www.legislation.gov.uk/uksi/1988/2238).
 
-[^key-53c42f69ec7283ca790461f592dfa5b8]: Commencement: Sch. 2 para. 23 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-53c42f69ec7283ca790461f592dfa5b8]: Commencement: Sch. 2 para. 23 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00028]: Footnote: S.I. [1990/1140](https://www.legislation.gov.uk/uksi/1990/1140).
 
-[^key-3962b523c79b82ab3f7793111cde8edf]: Commencement: Sch. 2 para. 24 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-3962b523c79b82ab3f7793111cde8edf]: Commencement: Sch. 2 para. 24 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00029]: Footnote: S.I. [1990/1143](https://www.legislation.gov.uk/uksi/1990/1143).
 
-[^key-84d12019b0c4248e38a3b96d2dc43643]: Commencement: Sch. 2 para. 25 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-84d12019b0c4248e38a3b96d2dc43643]: Commencement: Sch. 2 para. 25 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00030]: Footnote: S.I. [1990/2021](https://www.legislation.gov.uk/uksi/1990/2021).
 
-[^key-8787131bd314cd94fb35610f0910b41c]: Commencement: Sch. 2 para. 26 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-8787131bd314cd94fb35610f0910b41c]: Commencement: Sch. 2 para. 26 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00031]: Footnote: S.I. [1990/2075](https://www.legislation.gov.uk/uksi/1990/2075).
 
-[^key-3758f21c164c1d0c38fb2971991daa0d]: Commencement: Sch. 2 para. 27 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-3758f21c164c1d0c38fb2971991daa0d]: Commencement: Sch. 2 para. 27 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00032]: Footnote: S.I. [1990/2277](https://www.legislation.gov.uk/uksi/1990/2277).
 
-[^key-69eb6b86ab6247ab907cc35c8a829b3c]: Commencement: Sch. 2 para. 28 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-69eb6b86ab6247ab907cc35c8a829b3c]: Commencement: Sch. 2 para. 28 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00033]: Footnote: S.I. [1990/2278](https://www.legislation.gov.uk/uksi/1990/2278).
 
-[^key-900af91b55623406a57baa82500d9814]: Commencement: Sch. 2 para. 29 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-900af91b55623406a57baa82500d9814]: Commencement: Sch. 2 para. 29 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00034]: Footnote: S.I. [1991/166](https://www.legislation.gov.uk/uksi/1991/166).
 
-[^key-ed4a4e8d2af561f594ddc0e41aca0785]: Commencement: Sch. 2 para. 30 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-ed4a4e8d2af561f594ddc0e41aca0785]: Commencement: Sch. 2 para. 30 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00035]: Footnote: S.I. [1991/167](https://www.legislation.gov.uk/uksi/1991/167).
 
-[^key-2fb1049b37dfee31a2157a0f0ac91796]: Commencement: Sch. 2 para. 31 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-2fb1049b37dfee31a2157a0f0ac91796]: Commencement: Sch. 2 para. 31 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00036]: Footnote: S.I. [1991/168](https://www.legislation.gov.uk/uksi/1991/168).
 
-[^key-cd254bc71c0b7229e4b5cb86f8123429]: Commencement: Sch. 2 para. 32 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-cd254bc71c0b7229e4b5cb86f8123429]: Commencement: Sch. 2 para. 32 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00037]: Footnote: S.I. [1991/588](https://www.legislation.gov.uk/uksi/1991/588).
 
-[^key-db361fc71a7486086544c051adda0e46]: Commencement: Sch. 2 para. 33 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
+[^c-db361fc71a7486086544c051adda0e46]: Commencement: Sch. 2 para. 33 in force at 12.5.1994, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2)
 
 [^f00038]: Footnote: S.I. [1992/246](https://www.legislation.gov.uk/uksi/1992/246).

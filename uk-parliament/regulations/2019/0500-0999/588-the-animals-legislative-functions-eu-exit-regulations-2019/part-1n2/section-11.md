@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Regulation (EU) 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof[^key-711705fdcfd8b95cc6d9a3f4e048ae08]
+## 11. Regulation (EU) 2016/1012 of the European Parliament and of the Council on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof[^c-711705fdcfd8b95cc6d9a3f4e048ae08]
 
 *Extent: E+W+S+N.I.*
 
@@ -176,7 +176,7 @@ summary: ''
 
 ## Annotations
 
-[^key-711705fdcfd8b95cc6d9a3f4e048ae08]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-711705fdcfd8b95cc6d9a3f4e048ae08]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23643981]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.23. Notice by persons intending to appear[^key-466cef3180fc760e5e665d143735ba5a]
+## 6.23. Notice by persons intending to appear[^c-466cef3180fc760e5e665d143735ba5a]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-466cef3180fc760e5e665d143735ba5a]: Commencement: [Rule 6.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-466cef3180fc760e5e665d143735ba5a]: Commencement: [Rule 6.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00133]: Marginal citation: \[FORM 6.20\]

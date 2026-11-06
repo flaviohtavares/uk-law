@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Amendments of the 1995 Order[^key-48b00e9ae5cbfa643a72363bb09d7c3b]
+## 107. Amendments of the 1995 Order[^c-48b00e9ae5cbfa643a72363bb09d7c3b]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b00e9ae5cbfa643a72363bb09d7c3b]: Commencement: S. 107 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-48b00e9ae5cbfa643a72363bb09d7c3b]: Commencement: S. 107 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

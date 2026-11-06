@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Private hire vehicles: sub-contracting[^key-e506f1186faf581e1d21f3d98b01c462]
+## 11. Private hire vehicles: sub-contracting[^c-e506f1186faf581e1d21f3d98b01c462]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ In the Local Government (Miscellaneous Provisions) Act 1976, after section 55 in
 
 ## Annotations
 
-[^key-e506f1186faf581e1d21f3d98b01c462]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/20/section/11) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(e)](https://www.legislation.gov.uk/uksi/2015/994/article/11/e)
+[^c-e506f1186faf581e1d21f3d98b01c462]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2015/20/section/11) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(e)](https://www.legislation.gov.uk/uksi/2015/994/article/11/e)

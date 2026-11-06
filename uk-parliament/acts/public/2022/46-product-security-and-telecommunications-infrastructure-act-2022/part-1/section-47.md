@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to recall products[^key-9204a62b532c054b61d24127bca84051][^key-e770eda4140b26a625029fa7815c3711]
+## 47. Power to recall products[^c-9204a62b532c054b61d24127bca84051][^c-e770eda4140b26a625029fa7815c3711]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9204a62b532c054b61d24127bca84051]: Commencement: S. 47 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-9204a62b532c054b61d24127bca84051]: Commencement: S. 47 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-e770eda4140b26a625029fa7815c3711]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/46/section/47) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-e770eda4140b26a625029fa7815c3711]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/46/section/47) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

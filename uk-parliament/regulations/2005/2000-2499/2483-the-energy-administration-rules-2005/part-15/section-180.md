@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Notice to joint energy administrators[^key-b8ec6af0e346a6ddeb25a04c5720d136]
+## 180. Notice to joint energy administrators[^c-b8ec6af0e346a6ddeb25a04c5720d136]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where two or more persons are acting jointly as the energy administrator in ener
 
 ## Annotations
 
-[^key-b8ec6af0e346a6ddeb25a04c5720d136]: Commencement: Rule 180 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-b8ec6af0e346a6ddeb25a04c5720d136]: Commencement: Rule 180 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

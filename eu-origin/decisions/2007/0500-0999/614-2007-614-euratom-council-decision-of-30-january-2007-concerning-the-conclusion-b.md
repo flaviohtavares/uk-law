@@ -31,10 +31,10 @@ summary: ''
 
 of 30 January 2007 concerning the conclusion, by the Commission, of the Agreement between the European Atomic Energy Community and the Government of Japan for the Joint Implementation of the Broader Approach Activities in the Field of Fusion Energy Research (revoked)
 
-[^key-1d2d767c2e87f89b0bfe864a2a22cbd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d2d767c2e87f89b0bfe864a2a22cbd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1d2d767c2e87f89b0bfe864a2a22cbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1d2d767c2e87f89b0bfe864a2a22cbd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d2d767c2e87f89b0bfe864a2a22cbd1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-1d2d767c2e87f89b0bfe864a2a22cbd1]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

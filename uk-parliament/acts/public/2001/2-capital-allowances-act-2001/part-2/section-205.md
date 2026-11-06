@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Reduction of annual investment allowance and first-year allowances[^key-c43f621f7a3fe37467718885bea5c774]
+## 205. Reduction of annual investment allowance and first-year allowances[^c-c43f621f7a3fe37467718885bea5c774]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) partly for the purposes of the qualifying activity, and
 - (b) partly for other purposes,
 
-any annual investment allowance or[^key-3cfcc0430787adce84fc414d0361b0de] first-year allowance to which he is entitled in respect of the expenditure must be reduced to an amount which is just and reasonable having regard to the relevant circumstances.
+any annual investment allowance or[^c-3cfcc0430787adce84fc414d0361b0de] first-year allowance to which he is entitled in respect of the expenditure must be reduced to an amount which is just and reasonable having regard to the relevant circumstances.
 
 (2) The relevant circumstances include, in particular, the extent to which it appears that the plant or machinery is likely to be used for purposes other than those of the qualifying activity in question.
 
@@ -33,6 +33,6 @@ any annual investment allowance or[^key-3cfcc0430787adce84fc414d0361b0de] first-
 
 ## Annotations
 
-[^key-c43f621f7a3fe37467718885bea5c774]: Textual amendment: Words in s. 205 heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/6/3)
+[^c-c43f621f7a3fe37467718885bea5c774]: Textual amendment: Words in s. 205 heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/6/3)
 
-[^key-3cfcc0430787adce84fc414d0361b0de]: Textual amendment: Words in s. 205(1) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/6/2)
+[^c-3cfcc0430787adce84fc414d0361b0de]: Textual amendment: Words in s. 205(1) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/6/2)

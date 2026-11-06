@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.50.2. Transfer from Lands Tribunal for Scotland[^key-602f27fb984c6fb935f1ec3ddf9e667c]
+## 3.50.2. Transfer from Lands Tribunal for Scotland[^c-602f27fb984c6fb935f1ec3ddf9e667c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)
+[^c-602f27fb984c6fb935f1ec3ddf9e667c]: Textual amendment: [Ch. 3 Pt. 50](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/50) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Transfer from Lands Tribunal for Scotland) 2017 (S.S.I. 2017/459)](https://www.legislation.gov.uk/ssi/2017/459), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/459/paragraph/2/2)

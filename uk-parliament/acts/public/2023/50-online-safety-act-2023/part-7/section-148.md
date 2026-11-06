@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Interaction with other action by OFCOM[^key-1a83d33227ac5b77261d7a4a340a1f85][^key-662a99771ce5144a2f55aa2466039161]
+## 148. Interaction with other action by OFCOM[^c-1a83d33227ac5b77261d7a4a340a1f85][^c-662a99771ce5144a2f55aa2466039161]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a83d33227ac5b77261d7a4a340a1f85]: Commencement: S. 148 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1a83d33227ac5b77261d7a4a340a1f85]: Commencement: S. 148 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-662a99771ce5144a2f55aa2466039161]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2023/50/section/148) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-662a99771ce5144a2f55aa2466039161]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2023/50/section/148) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

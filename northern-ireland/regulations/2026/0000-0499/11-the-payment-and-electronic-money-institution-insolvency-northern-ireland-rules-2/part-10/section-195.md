@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 195. Application of Chapter[^key-ed1091dce3bea28326f431375cb4e486]
+## 195. Application of Chapter[^c-ed1091dce3bea28326f431375cb4e486]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ which are required to be served by any provision of the Regulations or these Rul
 
 ## Annotations
 
-[^key-ed1091dce3bea28326f431375cb4e486]: Commencement: [Rule 195](https://www.legislation.gov.uk/nisr/2026/11/rule/195) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ed1091dce3bea28326f431375cb4e486]: Commencement: [Rule 195](https://www.legislation.gov.uk/nisr/2026/11/rule/195) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

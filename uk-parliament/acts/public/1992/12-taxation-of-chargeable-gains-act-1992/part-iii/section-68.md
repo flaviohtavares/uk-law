@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Act, unless the context otherwise requires, “[^key-89f31eb80c39efcedcc1c32c0b57bc9b]**settled property**” means any property held in trust other than property to which section 60 applies (and references, however expressed, to property comprised in a settlement are references to settled property).
+In this Act, unless the context otherwise requires, “[^c-89f31eb80c39efcedcc1c32c0b57bc9b]**settled property**” means any property held in trust other than property to which section 60 applies (and references, however expressed, to property comprised in a settlement are references to settled property).
 
 ## Annotations
 
-[^key-89f31eb80c39efcedcc1c32c0b57bc9b]: Textual amendment: Words in s. 68 substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/1)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/3)
+[^c-89f31eb80c39efcedcc1c32c0b57bc9b]: Textual amendment: Words in s. 68 substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/1)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/3)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**20.**[^key-dd6360806ccea3e78724fb75354c2a80] For the italic heading before section 122 substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
+**20.**[^c-dd6360806ccea3e78724fb75354c2a80] For the italic heading before section 122 substitute “*Widows', Surviving Civil Partners' and Children’s Pensions*”.
 
 ## Annotations
 
-[^key-dd6360806ccea3e78724fb75354c2a80]: Commencement: Art. 20 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-dd6360806ccea3e78724fb75354c2a80]: Commencement: Art. 20 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

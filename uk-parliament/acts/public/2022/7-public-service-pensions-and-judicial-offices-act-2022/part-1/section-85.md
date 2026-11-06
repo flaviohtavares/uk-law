@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Treasury directions[^key-b3734f214dc6308f7fa2ac628c460682][^key-f12ecc22779e26cab30e9eeafb2d6813]
+## 85. Treasury directions[^c-b3734f214dc6308f7fa2ac628c460682][^c-f12ecc22779e26cab30e9eeafb2d6813]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3734f214dc6308f7fa2ac628c460682]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-b3734f214dc6308f7fa2ac628c460682]: Commencement: S. 85 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-f12ecc22779e26cab30e9eeafb2d6813]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/7/section/85) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-f12ecc22779e26cab30e9eeafb2d6813]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2022/7/section/85) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

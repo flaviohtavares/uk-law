@@ -46,13 +46,13 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred upon them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations:–
 
-## 1. Title, extent, commencement and interpretation[^key-c5f2a408e589aa677397d5bb4e65a22e]
+## 1. Title, extent, commencement and interpretation[^c-c5f2a408e589aa677397d5bb4e65a22e]
 
 (1) These Regulations, which extend to Great Britain, may be cited as the Olive Oil (Marketing Standards) (Amendment) Regulations 1998 and shall come into force on 1st November 1998.
 
 (2) In these Regulations “the principal Regulations” means the Olive Oil (Marketing Standards) Regulations 1987[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-f0cdef1611088e9a54a89629229f168c]
+## 2. Amendment of the principal Regulations[^c-f0cdef1611088e9a54a89629229f168c]
 
 (1) In regulation 2(1) of the principal Regulations, before the definition of “the Council Regulation”, there shall be inserted the following definition:
 
@@ -92,11 +92,11 @@ These Regulations, which come into force on 1st November 1998 and which apply to
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-c5f2a408e589aa677397d5bb4e65a22e]: Commencement: Reg. 1 in force at 1.11.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2410/regulation/1/1)
+[^c-c5f2a408e589aa677397d5bb4e65a22e]: Commencement: Reg. 1 in force at 1.11.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2410/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1987/1783](https://www.legislation.gov.uk/uksi/1987/1783), amended by S.I. [1990/2487](https://www.legislation.gov.uk/uksi/1990/2487), [1992/2590](https://www.legislation.gov.uk/uksi/1992/2590).
 
-[^key-f0cdef1611088e9a54a89629229f168c]: Commencement: Reg. 2 in force at 1.11.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2410/regulation/1/1)
+[^c-f0cdef1611088e9a54a89629229f168c]: Commencement: Reg. 2 in force at 1.11.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2410/regulation/1/1)
 
 [^f00004]: Footnote: OJ No. L248, 5.9.91, p. 1.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 387. Powers of entry: scope and restrictions[^key-ae1db2faca87c56f013ea36bc810938f]
+## 387. Powers of entry: scope and restrictions[^c-ae1db2faca87c56f013ea36bc810938f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the person may not carry out the works without the agreement of the appropriate 
 
 ## Annotations
 
-[^key-ae1db2faca87c56f013ea36bc810938f]: Commencement: S. 387 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ae1db2faca87c56f013ea36bc810938f]: Commencement: S. 387 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

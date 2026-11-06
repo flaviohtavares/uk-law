@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Travel from Denmark) (Amendment) Regulations (Northern Ireland) 2020 (revoked)[^key-ade0f27b4143414dd1a5ac2abbbd884b]
+The Health Protection (Coronavirus, Travel from Denmark) (Amendment) Regulations (Northern Ireland) 2020 (revoked)[^c-ade0f27b4143414dd1a5ac2abbbd884b]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into operation in accordance with Regulation 1
 
-[^key-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ade0f27b4143414dd1a5ac2abbbd884b]
+## 1. Citation and commencement[^c-ade0f27b4143414dd1a5ac2abbbd884b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Health Protection (Coronavirus, Travel from Denmark) Regulations (Northern Ireland) 2020[^key-ade0f27b4143414dd1a5ac2abbbd884b]
+## 2. Amendment to the Health Protection (Coronavirus, Travel from Denmark) Regulations (Northern Ireland) 2020[^c-ade0f27b4143414dd1a5ac2abbbd884b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ade0f27b4143414dd1a5ac2abbbd884b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ade0f27b4143414dd1a5ac2abbbd884b]: Textual amendment: Regulations revoked (28.11.2020) by [The Health Protection (Coronavirus, Travel from Denmark) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/288)](https://www.legislation.gov.uk/nisr/2020/288), [regs. 1](https://www.legislation.gov.uk/nisr/2020/288/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/288/regulation/2/b)
+[^c-ade0f27b4143414dd1a5ac2abbbd884b]: Textual amendment: Regulations revoked (28.11.2020) by [The Health Protection (Coronavirus, Travel from Denmark) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/288)](https://www.legislation.gov.uk/nisr/2020/288), [regs. 1](https://www.legislation.gov.uk/nisr/2020/288/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/288/regulation/2/b)

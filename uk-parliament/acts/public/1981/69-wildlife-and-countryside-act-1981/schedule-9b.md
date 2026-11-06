@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9B — Invasive alien species: defences and licences[^key-d086e244402975b0be28d6ea7cc5986c]
+## SCHEDULE 9B — Invasive alien species: defences and licences[^c-d086e244402975b0be28d6ea7cc5986c]
 
 *Extent: S*
 
@@ -31,11 +31,11 @@ In this schedule—
 - “Invasive Alien Species Regulation” means Regulation (EU) No 1143/2014 of the European Parliament and of the Council on the prevention and management of the introduction and spread of invasive alien species,
 - “contained holding” means closed facilities from which escape or spread is not possible,
 - “ex-situ conservation” means the conservation of components of biological diversity outside their natural habitat,
-- “invasive alien species” means a species, sub-species or lower taxon of animal, plant, fungus or micro-organism included on the Scottish list of species of special concern,[^key-013679c8a830f39f8a5d357e7725480e]
+- “invasive alien species” means a species, sub-species or lower taxon of animal, plant, fungus or micro-organism included on the Scottish list of species of special concern,[^c-013679c8a830f39f8a5d357e7725480e]
 - “research” means descriptive or experimental work, undertaken under regulated conditions to obtain new scientific findings or to develop new products, including the initial phases of identification, characterisation and isolation of genetic features, other than those features which make a species invasive, of invasive alien species only insofar as essential to enable the breeding of those features into non-invasive species,
-- Scottish list of species of special concern” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No 1143/2014 of the European Parliament and of the Council, as amended from time to time.[^key-93eb32ebc0b1e48a2a21b14701516267]
+- Scottish list of species of special concern” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No 1143/2014 of the European Parliament and of the Council, as amended from time to time.[^c-93eb32ebc0b1e48a2a21b14701516267]
 - “specimen” means a live specimen and includes any part, gamete, seed, egg or propagule of a species, as well as any hybrids, varieties or breeds that might grow, hatch or reproduce, as the case may be,
-- [^key-47734a972138051b7648146d938a79d4]...
+- [^c-47734a972138051b7648146d938a79d4]...
 
 ### Part 2 — Defences
 
@@ -47,11 +47,11 @@ In this schedule—
 - (b) the charge relates to an animal, and
 - (c) the activity to which the charge relates contravenes one of the following paragraphs of Article 7(1) of the Invasive Alien Species Regulation—
   - (i) paragraph (b) (keeping, including in contained holding),
-  - (ii) paragraph (d) (transporting to, from or within Scotland[^key-a5a60486652327dbe599cd1d08528391], except for the transportation of species to facilities in the context of eradication).
+  - (ii) paragraph (d) (transporting to, from or within Scotland[^c-a5a60486652327dbe599cd1d08528391], except for the transportation of species to facilities in the context of eradication).
 
 (2) It is a defence to the charge to show that—
 
-- (a) immediately before the inclusion on the Scottish list of species of special concern[^key-f49ba566b6d79e9e1370c8471280bbde] of the species to which the animal belongs, the animal was kept as a companion animal,
+- (a) immediately before the inclusion on the Scottish list of species of special concern[^c-f49ba566b6d79e9e1370c8471280bbde] of the species to which the animal belongs, the animal was kept as a companion animal,
 - (b) at all material times the animal was kept—
   - (i) as a companion animal, or
   - (ii) for the purpose of transporting the animal to a place mentioned in sub-paragraph (3), and
@@ -84,14 +84,14 @@ In this schedule—
 - (b) the charge relates to such a specimen, and
 - (c) the activity to which the charge relates contravenes one of the following paragraphs of Article 7(1) of the Invasive Alien Species Regulation—
   - (i) paragraph (b) (keeping, including in contained holding),
-  - (ii) paragraph (d) (transporting to, from or within Scotland[^key-92ee2feacacd59030ada13b94462d1f7], except for transportation of species to facilities in the context of eradication),
+  - (ii) paragraph (d) (transporting to, from or within Scotland[^c-92ee2feacacd59030ada13b94462d1f7], except for transportation of species to facilities in the context of eradication),
   - (iii) paragraph (e) (placing on the market),
   - (iv) paragraph (f) (using or exchanging).
 
 (2) It is a defence to the charge to show that—
 
-- (a) the specimen was acquired by the person before the inclusion on the Scottish list of species of special concern[^key-3d002b6fc720a810b956ba91b4ed81ff] of the species to which the specimen belongs,
-- (b) the activity to which the charge relates was not carried out after the end of the relevant period following the inclusion on the Scottish list of species of special concern[^key-f3a61974603df5632131824a10eccd6f] to which the specimen belongs, and
+- (a) the specimen was acquired by the person before the inclusion on the Scottish list of species of special concern[^c-3d002b6fc720a810b956ba91b4ed81ff] of the species to which the specimen belongs,
+- (b) the activity to which the charge relates was not carried out after the end of the relevant period following the inclusion on the Scottish list of species of special concern[^c-f3a61974603df5632131824a10eccd6f] to which the specimen belongs, and
 - (c) that activity is mentioned in sub-paragraph (3).
 
 (3) The activities referred to in sub-paragraph (2)(c) are—
@@ -129,13 +129,13 @@ In this schedule—
 - (a) a person is charged with an offence under section 14ZC or 14AA, and
 - (b) the activity to which the charge relates contravenes one of the following paragraphs of Article 7(1) of the Invasive Alien Species Regulation—
   - (i) paragraph (b) (keeping, including in contained holding),
-  - (ii) paragraph (d) (transporting to, from or within Scotland[^key-3166f1434e070156a60a392e7c473153], except for the transportation of species to facilities in the context of eradication).
+  - (ii) paragraph (d) (transporting to, from or within Scotland[^c-3166f1434e070156a60a392e7c473153], except for the transportation of species to facilities in the context of eradication).
 
 (2) It is a defence to the charge to show that—
 
 - (a) the specimen to which the charge relates was received by the person—
   - (i) from a keeper of commercial stocks of specimens of the species to which the specimen belongs, and
-  - (ii) before the end of the period of one year beginning with the date on which that species was included on the Scottish list of species of special concern[^key-80b14d2befcd3f82a3bbbf8fd5c0084b], and
+  - (ii) before the end of the period of one year beginning with the date on which that species was included on the Scottish list of species of special concern[^c-80b14d2befcd3f82a3bbbf8fd5c0084b], and
 - (b) at all material times—
   - (i) the specimen was kept and transported in contained holding, and
   - (ii) appropriate measures were in place to ensure that it could not reproduce or escape.
@@ -148,7 +148,7 @@ In this schedule—
 
 - (a) paragraph (b) (keeping, including in contained holding),
 - (b) paragraph (c) (breeding, including in contained holding),
-- (c) paragraph (d) (transporting to, from or within Scotland[^key-16d29a3886c75ab94980fefd87141f6c], except for the transportation of species to facilities in the context of eradication),
+- (c) paragraph (d) (transporting to, from or within Scotland[^c-16d29a3886c75ab94980fefd87141f6c], except for the transportation of species to facilities in the context of eradication),
 - (d) paragraph (f) (using or exchanging),
 - (e) paragraph (g) (permitting to reproduce, growing or cultivating, including in contained holding).
 
@@ -194,26 +194,26 @@ This paragraph applies if the licence is—
 
 ## Annotations
 
-[^key-d086e244402975b0be28d6ea7cc5986c]: Textual amendment: Sch. 9B inserted (1.11.2019) (S.) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/8)
+[^c-d086e244402975b0be28d6ea7cc5986c]: Textual amendment: Sch. 9B inserted (1.11.2019) (S.) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/8)
 
-[^key-013679c8a830f39f8a5d357e7725480e]: Textual amendment: Words in Sch. 9B para. 1 substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/a)
+[^c-013679c8a830f39f8a5d357e7725480e]: Textual amendment: Words in Sch. 9B para. 1 substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/a)
 
-[^key-93eb32ebc0b1e48a2a21b14701516267]: Textual amendment: Words in Sch. 9B para. 1 inserted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(b)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/b)
+[^c-93eb32ebc0b1e48a2a21b14701516267]: Textual amendment: Words in Sch. 9B para. 1 inserted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(b)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/b)
 
-[^key-47734a972138051b7648146d938a79d4]: Textual amendment: Words in Sch. 9B para. 1 omitted (31.12.2020) by virtue of [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(c)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/c)
+[^c-47734a972138051b7648146d938a79d4]: Textual amendment: Words in Sch. 9B para. 1 omitted (31.12.2020) by virtue of [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(5)(c)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/5/c)
 
-[^key-a5a60486652327dbe599cd1d08528391]: Textual amendment: Word in Sch. 9B para. 2(1)(c)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(a)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/a/i)
+[^c-a5a60486652327dbe599cd1d08528391]: Textual amendment: Word in Sch. 9B para. 2(1)(c)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(a)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/a/i)
 
-[^key-f49ba566b6d79e9e1370c8471280bbde]: Textual amendment: Words in Sch. 9B para. 2(2)(a) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/a/ii)
+[^c-f49ba566b6d79e9e1370c8471280bbde]: Textual amendment: Words in Sch. 9B para. 2(2)(a) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/a/ii)
 
-[^key-92ee2feacacd59030ada13b94462d1f7]: Textual amendment: Word in Sch. 9B para. 3(1)(c)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/i)
+[^c-92ee2feacacd59030ada13b94462d1f7]: Textual amendment: Word in Sch. 9B para. 3(1)(c)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/i)
 
-[^key-3d002b6fc720a810b956ba91b4ed81ff]: Textual amendment: Words in Sch. 9B para. 3(2)(a) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/ii)
+[^c-3d002b6fc720a810b956ba91b4ed81ff]: Textual amendment: Words in Sch. 9B para. 3(2)(a) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/ii)
 
-[^key-f3a61974603df5632131824a10eccd6f]: Textual amendment: Words in Sch. 9B para. 3(2)(b) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/iii)
+[^c-f3a61974603df5632131824a10eccd6f]: Textual amendment: Words in Sch. 9B para. 3(2)(b) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/b/iii)
 
-[^key-3166f1434e070156a60a392e7c473153]: Textual amendment: Word in Sch. 9B para. 4(1)(b)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(c)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/c/i)
+[^c-3166f1434e070156a60a392e7c473153]: Textual amendment: Word in Sch. 9B para. 4(1)(b)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(c)(i)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/c/i)
 
-[^key-80b14d2befcd3f82a3bbbf8fd5c0084b]: Textual amendment: Words in Sch. 9B para. 4(2)(a)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/c/ii)
+[^c-80b14d2befcd3f82a3bbbf8fd5c0084b]: Textual amendment: Words in Sch. 9B para. 4(2)(a)(ii) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/6/c/ii)
 
-[^key-16d29a3886c75ab94980fefd87141f6c]: Textual amendment: Word in Sch. 9B para. 5(1)(c) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(7)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/7)
+[^c-16d29a3886c75ab94980fefd87141f6c]: Textual amendment: Word in Sch. 9B para. 5(1)(c) substituted (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(7)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/7)

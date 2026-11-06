@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Payments to suspended NHS pharmacists and NHS appliance contractors[^key-7d9ba831611642b8d7953ee6f17f5fc6]
+## 59. Payments to suspended NHS pharmacists and NHS appliance contractors[^c-7d9ba831611642b8d7953ee6f17f5fc6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9ba831611642b8d7953ee6f17f5fc6]: Commencement: Reg. 59 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-7d9ba831611642b8d7953ee6f17f5fc6]: Commencement: Reg. 59 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

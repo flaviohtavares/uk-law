@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Application and modification of legislative provisions[^key-4eb0a6a5f67734fa0fedabd98e721b91]
+## 36. Application and modification of legislative provisions[^c-4eb0a6a5f67734fa0fedabd98e721b91]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4eb0a6a5f67734fa0fedabd98e721b91]: Commencement: Art. 36 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-4eb0a6a5f67734fa0fedabd98e721b91]: Commencement: Art. 36 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00037]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 

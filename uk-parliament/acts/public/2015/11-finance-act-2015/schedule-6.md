@@ -137,7 +137,7 @@ Section 36
 
 #### Parts 5 and 6: certain community-based activities to be excluded activities
 
-**10.**[^key-7715580d5060489a08c15cb8ea0c243f] (1) Part 5 of ITA 2007 is further amended as follows.
+**10.**[^c-7715580d5060489a08c15cb8ea0c243f] (1) Part 5 of ITA 2007 is further amended as follows.
 
 (2) In section 198A—
 
@@ -149,7 +149,7 @@ Section 36
 - (a) omit subsections (3) and (4) (exception for community-based generation or production), and
 - (b) omit subsection (6) (interpretation of section).
 
-**11.**[^key-5b3788096d7dfbba6be6d668c064b720] (1) Part 6 of ITA 2007 is further amended as follows.
+**11.**[^c-5b3788096d7dfbba6be6d668c064b720] (1) Part 6 of ITA 2007 is further amended as follows.
 
 (2) In section 309A—
 
@@ -161,14 +161,14 @@ Section 36
 - (a) omit subsections (3) and (4) (exception for community-based generation or production), and
 - (b) omit subsection (6) (interpretation of section).
 
-**12.**[^key-d2ce1990066c0047f59dc820069f87fa] In consequence of paragraphs 10 and 11—
+**12.**[^c-d2ce1990066c0047f59dc820069f87fa] In consequence of paragraphs 10 and 11—
 
 - (a) in FA 2014, omit section 56(3)(b) and (6)(b), and
 - (b) in the Co-operative and Community Benefit Societies Act 2014, omit paragraphs 106 and 107 of Schedule 4.
 
 #### Part 5B: subsidised generation or export of electricity to cease to be excluded activity
 
-**13.**[^key-22a49689adcf14e32f7369697601ae5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-22a49689adcf14e32f7369697601ae5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Application of Part
 
@@ -185,10 +185,10 @@ Section 36
 
 ## Annotations
 
-[^key-7715580d5060489a08c15cb8ea0c243f]: Modification: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/10) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/a)
+[^c-7715580d5060489a08c15cb8ea0c243f]: Modification: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/10) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/a)
 
-[^key-5b3788096d7dfbba6be6d668c064b720]: Modification: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/11) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/b)
+[^c-5b3788096d7dfbba6be6d668c064b720]: Modification: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/11) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/b)
 
-[^key-d2ce1990066c0047f59dc820069f87fa]: Modification: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/c)
+[^c-d2ce1990066c0047f59dc820069f87fa]: Modification: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/12) modified (30.11.2015) by [The Finance Act 2015 (Paragraphs 10 to 12 of Schedule 6) Regulations 2015 (S.I. 2015/1836)](https://www.legislation.gov.uk/uksi/2015/1836), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1836/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/1836/regulation/2/c)
 
-[^key-22a49689adcf14e32f7369697601ae5c]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/13) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/12)
+[^c-22a49689adcf14e32f7369697601ae5c]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2015/11/schedule/6/paragraph/13) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/12)

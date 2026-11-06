@@ -31,9 +31,9 @@ Fatal Accidents Act 1976
 
 An Act to consolidate the Fatal Accidents Acts.
 
-\[22nd July 1976\][^c721272][^c721273][^c721274][^c721275][^c721276][^c721277][^c721278][^key-6e90c5861664b819d905c6b61fb3aab6][^key-cdc2b7e9ab1c530614a34dc459322560]
+\[22nd July 1976\][^c721272][^c721273][^c721274][^c721275][^c721276][^c721277][^c721278][^c-6e90c5861664b819d905c6b61fb3aab6][^c-cdc2b7e9ab1c530614a34dc459322560]
 
-## 1. Right of action for wrongful act causing death.[^key-ac4d3b162c839d1d9d758d4c55f9c842][^c721279][^c721280]
+## 1. Right of action for wrongful act causing death.[^c-ac4d3b162c839d1d9d758d4c55f9c842][^c721279][^c721280]
 
 (1)[^c721281] If death is caused by any wrongful act, neglect or default which is such as would (if death had not ensued) have entitled the person injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured.
 
@@ -42,26 +42,26 @@ An Act to consolidate the Fatal Accidents Acts.
 (3) In this Act “ **dependant** ” means—
 
 - (a) the wife or husband or former wife or husband of the deceased;
-- (aa)[^key-e96919a2bbd2a34d460e2c8a6cd1efac] the civil partner or former civil partner of the deceased;
+- (aa)[^c-e96919a2bbd2a34d460e2c8a6cd1efac] the civil partner or former civil partner of the deceased;
 - (b) any person who—
   - (i) was living with the deceased in the same household immediately before the date of the death; and
   - (ii) had been living with the deceased in the same household for at least two years before that date; and
-  - (iii) was living during the whole of that period as the husband or wife or civil partner[^key-df3c2b0f985098ac6132bb815c821a03] of the deceased;
+  - (iii) was living during the whole of that period as the husband or wife or civil partner[^c-df3c2b0f985098ac6132bb815c821a03] of the deceased;
 - (c) any parent or other ascendant of the deceased;
 - (d) any person who was treated by the deceased as his parent;
 - (e) any child or other descendant of the deceased;
 - (f) any person (not being a child of the deceased) who, in the case of any marriage to which the deceased was at any time a party, was treated by the deceased as a child of the family in relation to that marriage;
-- (fa)[^key-def3b88e52c8368d8df55828931777e7] any person (not being a child of the deceased) who, in the case of any civil partnership in which the deceased was at any time a civil partner, was treated by the deceased as a child of the family in relation to that civil partnership;
+- (fa)[^c-def3b88e52c8368d8df55828931777e7] any person (not being a child of the deceased) who, in the case of any civil partnership in which the deceased was at any time a civil partner, was treated by the deceased as a child of the family in relation to that civil partnership;
 - (g) any person who is, or is the issue of, a brother, sister, uncle or aunt of the deceased.
 
 (4) The reference to the former wife or husband of the deceased in subsection (3)(a) above includes a reference to a person whose marriage to the deceased has been annulled or declared void as well as a person whose marriage to the deceased has been dissolved.
 
-(4A)[^key-d687399cc6f83f0d65e0fb478e5e8c37] The reference to the former civil partner of the deceased in subsection (3)(aa) above includes a reference to a person whose civil partnership with the deceased has been annulled as well as a person whose civil partnership with the deceased has been dissolved.
+(4A)[^c-d687399cc6f83f0d65e0fb478e5e8c37] The reference to the former civil partner of the deceased in subsection (3)(aa) above includes a reference to a person whose civil partnership with the deceased has been annulled as well as a person whose civil partnership with the deceased has been dissolved.
 
 (5) In deducing any relationship for the purposes of subsection (3) above—
 
-- (a) any relationship by marriage or civil partnership[^key-a1d47afb82dbcec86195a1dcc5748c0c] shall be treated as a relationship by consanguinity, any relationship of the half blood as a relationship of the whole blood, and the stepchild of any person as his child, and
-- (b)[^key-244c1613b8b4654cee289b742b64154b] an illegitimate person shall be treated as—
+- (a) any relationship by marriage or civil partnership[^c-a1d47afb82dbcec86195a1dcc5748c0c] shall be treated as a relationship by consanguinity, any relationship of the half blood as a relationship of the whole blood, and the stepchild of any person as his child, and
+- (b)[^c-244c1613b8b4654cee289b742b64154b] an illegitimate person shall be treated as—
   - (i) the legitimate child of his mother and reputed father, or
   - (ii) in the case of a person who has a female parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008, the legitimate child of his mother and that female parent.
 
@@ -73,21 +73,21 @@ An Act to consolidate the Fatal Accidents Acts.
 
 (2) A claim for damages for bereavement shall only be for the benefit—
 
-- (a) of the wife or husband or civil partner[^key-120b5fb06ecbf70aeb1c035d65351079] of the deceased;
-- (aa)[^key-00dd98649ad846a540613c23aeeaa196] of the cohabiting partner of the deceased; and
-- (b) where the deceased was a minor who was never married or a civil partner[^key-876ef9a6ab46017e4af44d6d7b5a131e]—
+- (a) of the wife or husband or civil partner[^c-120b5fb06ecbf70aeb1c035d65351079] of the deceased;
+- (aa)[^c-00dd98649ad846a540613c23aeeaa196] of the cohabiting partner of the deceased; and
+- (b) where the deceased was a minor who was never married or a civil partner[^c-876ef9a6ab46017e4af44d6d7b5a131e]—
   - (i) of his parents, if he was legitimate; and
   - (ii) of his mother, if he was illegitimate.
 
-(2A)[^key-3473102cc52cde95a9024f9f4f7a02c0] In subsection (2) “cohabiting partner” means any person who—
+(2A)[^c-3473102cc52cde95a9024f9f4f7a02c0] In subsection (2) “cohabiting partner” means any person who—
 
 - (a) was living with the deceased in the same household immediately before the date of the death; and
 - (b) had been living with the deceased in the same household for at least two years before that date; and
 - (c) was living during the whole of that period as the wife or husband or civil partner of the deceased.
 
-(3) Subject to subsection (5) below, the sum to be awarded as damages under this section shall be £15,120[^key-5bf157919ea9ba86d758a02acff11d55].
+(3) Subject to subsection (5) below, the sum to be awarded as damages under this section shall be £15,120[^c-5bf157919ea9ba86d758a02acff11d55].
 
-(4) Where there is a claim for damages under subsection (2)(a) and (aa), or under subsection (2)(b),[^key-7570ef8fe4176c824fdb6185b536caef] for the benefit of more than one person[^key-b3bf8e17ee40083c74a62e12b9d2a352], the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
+(4) Where there is a claim for damages under subsection (2)(a) and (aa), or under subsection (2)(b),[^c-7570ef8fe4176c824fdb6185b536caef] for the benefit of more than one person[^c-b3bf8e17ee40083c74a62e12b9d2a352], the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
 
 (5) The Lord Chancellor may by order made by statutory instrument, subject to annulment in pursuance of a resolution of either House of Parliament, amend this section by varying the sum for the time being specified in subsection (3) above.
 
@@ -102,9 +102,9 @@ An Act to consolidate the Fatal Accidents Acts.
 
 the action may be brought by and in the name of all or any of the persons for whose benefit an executor or administrator could have brought it.
 
-(3)[^c721285][^key-82a95444b591dc65e4e4615128d80364][^key-15c0c705f82a814217f7c73f009a13a8] Not more than one action shall lie for and in respect of the same subject matter of complaint.
+(3)[^c721285][^c-82a95444b591dc65e4e4615128d80364][^c-15c0c705f82a814217f7c73f009a13a8] Not more than one action shall lie for and in respect of the same subject matter of complaint.
 
-(4)[^c721286][^key-43ca33252f896a6a7a59357ad94ae03a] The plaintiff in the action shall be required to deliver to the defendant or his solicitor full particulars of the persons for whom and on whose behalf the action is brought and of the nature of the claim in respect of which damages are sought to be recovered.
+(4)[^c721286][^c-43ca33252f896a6a7a59357ad94ae03a] The plaintiff in the action shall be required to deliver to the defendant or his solicitor full particulars of the persons for whom and on whose behalf the action is brought and of the nature of the claim in respect of which damages are sought to be recovered.
 
 ## 3. Assessment of damages.
 
@@ -114,17 +114,17 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (3) In an action under this Act where there fall to be assessed damages payable to a widow in respect of the death of her husband there shall not be taken account the re-marriage of the widow or her prospects of re-marriage.
 
-(4) In an action under this Act where there fall to be assessed damages payable to a person who is a dependant by virtue of section 1(3)(b) above in respect of the death of the person with whom the dependant was living as husband or wife or civil partner[^key-134e4409d8ceed366b35da8f5ee7f900] there shall be taken into account (together with any other matter that appears to the court to be relevant to the action) the fact that the dependant had no enforceable right to financial support by the deceased as a result of their living together.
+(4) In an action under this Act where there fall to be assessed damages payable to a person who is a dependant by virtue of section 1(3)(b) above in respect of the death of the person with whom the dependant was living as husband or wife or civil partner[^c-134e4409d8ceed366b35da8f5ee7f900] there shall be taken into account (together with any other matter that appears to the court to be relevant to the action) the fact that the dependant had no enforceable right to financial support by the deceased as a result of their living together.
 
 (5) If the dependants have incurred funeral expenses in respect of the deceased, damages may be awarded in respect of those expenses.
 
 (6) Money paid into court in satisfaction of a cause of action under this Act may be in one sum without specifying any person’s share.
 
-## 4. Assessment of damages: disregard of benefits.[^key-7e6d6bfda926e1c93456938b6827fb0a][^key-c9b8432b41754e07588577c37fb5a999][^c721287]
+## 4. Assessment of damages: disregard of benefits.[^c-7e6d6bfda926e1c93456938b6827fb0a][^c-c9b8432b41754e07588577c37fb5a999][^c721287]
 
 In assessing damages in respect of a person’s death in an action under this Act, benefits which have accrued or may accrue to any person from his estate or otherwise as a result of his death shall be disregarded.
 
-## 5. Contributory negligence.[^key-b088a90e5df86fd0673c1dd6dde8ed1f][^c721288]
+## 5. Contributory negligence.[^c-b088a90e5df86fd0673c1dd6dde8ed1f][^c721288]
 
 Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under the [^c721289]Law Reform (Miscellaneous Provisions) Act 1934 the damages recoverable would be reduced under section 1(1) of the [^c721290]Law Reform (Contributory Negligence) Act 1945, any damages recoverable in an action . . . [^c721291] under this Act shall be reduced to a proportionate extent.
 
@@ -213,11 +213,11 @@ Section 6.
 
     Act amended (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 23(2)(a)(3)](https://www.legislation.gov.uk/ukpga/1998/17/section/23/2/a/3), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/12) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
-[^key-6e90c5861664b819d905c6b61fb3aab6]: Modification: Act modified by Road Traffic Act 1988 (c. 52), s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-6e90c5861664b819d905c6b61fb3aab6]: Modification: Act modified by Road Traffic Act 1988 (c. 52), s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-cdc2b7e9ab1c530614a34dc459322560]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/30) restricted (29.6.2026) by 1980 c. 58, s. 12(1A) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b))
+[^c-cdc2b7e9ab1c530614a34dc459322560]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/30) restricted (29.6.2026) by 1980 c. 58, s. 12(1A) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b))
 
-[^key-ac4d3b162c839d1d9d758d4c55f9c842]: Modification: S. 1 restricted (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/1/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/2))
+[^c-ac4d3b162c839d1d9d758d4c55f9c842]: Modification: S. 1 restricted (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/1/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/2))
 
 [^c721279]: Textual amendment: Ss. 1, 1A, 2, 3, 4 substituted for ss. 1—4 by [Administration of Justice Act 1982 (c. 53, SIF 122:3)](https://www.legislation.gov.uk/ukpga/1982/53), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/3/1), [73(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/73/1)
 
@@ -225,51 +225,51 @@ Section 6.
 
 [^c721281]: Modification: S. 1(1) excluded by [Limitation Act 1980 (c. 58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [s. 33(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33/6); extended by [Deep Sea Mining (Temporary Provisions) Act 1981 (c. 53, SIF 86)](https://www.legislation.gov.uk/ukpga/1981/53), [s. 15(1)](https://www.legislation.gov.uk/ukpga/1981/53/section/15/1)
 
-[^key-e96919a2bbd2a34d460e2c8a6cd1efac]: Textual amendment: S. 1(3)(aa) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/2), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-e96919a2bbd2a34d460e2c8a6cd1efac]: Textual amendment: S. 1(3)(aa) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/2), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-df3c2b0f985098ac6132bb815c821a03]: Textual amendment: Words in s. 1(3)(b)(iii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/3), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-df3c2b0f985098ac6132bb815c821a03]: Textual amendment: Words in s. 1(3)(b)(iii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/3), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-def3b88e52c8368d8df55828931777e7]: Textual amendment: S. 1(3)(fa) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(4)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/4), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-def3b88e52c8368d8df55828931777e7]: Textual amendment: S. 1(3)(fa) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(4)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/4), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-d687399cc6f83f0d65e0fb478e5e8c37]: Textual amendment: S. 1(4A) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(5)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/5), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-d687399cc6f83f0d65e0fb478e5e8c37]: Textual amendment: S. 1(4A) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(5)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/5), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-a1d47afb82dbcec86195a1dcc5748c0c]: Textual amendment: Words in s. 1(5)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(6)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/6), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-a1d47afb82dbcec86195a1dcc5748c0c]: Textual amendment: Words in s. 1(5)(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(6)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/6), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-244c1613b8b4654cee289b742b64154b]: Textual amendment: [S. 1(5)(b)](https://www.legislation.gov.uk/ukpga/1976/30/section/1/5/b) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/14)
+[^c-244c1613b8b4654cee289b742b64154b]: Textual amendment: [S. 1(5)(b)](https://www.legislation.gov.uk/ukpga/1976/30/section/1/5/b) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/14)
 
-[^key-120b5fb06ecbf70aeb1c035d65351079]: Textual amendment: Words in s. 1A(2)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(7)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/7/a), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-120b5fb06ecbf70aeb1c035d65351079]: Textual amendment: Words in s. 1A(2)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(7)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/7/a), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-00dd98649ad846a540613c23aeeaa196]: Textual amendment: S. 1A(2)(aa) inserted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
+[^c-00dd98649ad846a540613c23aeeaa196]: Textual amendment: S. 1A(2)(aa) inserted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/2) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
 
-[^key-876ef9a6ab46017e4af44d6d7b5a131e]: Textual amendment: Words in s. 1A(2)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(7)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/7/b), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-876ef9a6ab46017e4af44d6d7b5a131e]: Textual amendment: Words in s. 1A(2)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(7)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/7/b), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-3473102cc52cde95a9024f9f4f7a02c0]: Textual amendment: S. 1A(2A) inserted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
+[^c-3473102cc52cde95a9024f9f4f7a02c0]: Textual amendment: S. 1A(2A) inserted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/3) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
 
-[^key-5bf157919ea9ba86d758a02acff11d55]: Textual amendment: Sum in s. 1A(3) substituted (1.5.2020 with effect in accordance with art. 1(2) of the amending S.I.) by [The Damages for Bereavement (Variation of Sum) (England and Wales) Order 2020 (S.I. 2020/316)](https://www.legislation.gov.uk/uksi/2020/316), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/316/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/316/article/2)
+[^c-5bf157919ea9ba86d758a02acff11d55]: Textual amendment: Sum in s. 1A(3) substituted (1.5.2020 with effect in accordance with art. 1(2) of the amending S.I.) by [The Damages for Bereavement (Variation of Sum) (England and Wales) Order 2020 (S.I. 2020/316)](https://www.legislation.gov.uk/uksi/2020/316), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/316/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/316/article/2)
 
-[^key-7570ef8fe4176c824fdb6185b536caef]: Textual amendment: Words in s. 1A(4) substituted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/4/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
+[^c-7570ef8fe4176c824fdb6185b536caef]: Textual amendment: Words in s. 1A(4) substituted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/4/a) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
 
-[^key-b3bf8e17ee40083c74a62e12b9d2a352]: Textual amendment: Words in s. 1A(4) substituted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
+[^c-b3bf8e17ee40083c74a62e12b9d2a352]: Textual amendment: Words in s. 1A(4) substituted (6.10.2020) by [The Fatal Accidents Act 1976 (Remedial) Order 2020 (S.I. 2020/1023)](https://www.legislation.gov.uk/uksi/2020/1023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1023/article/2/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1023/article/1/2))
 
 [^c721285]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/3) excluded by [International Transport Conventions Act 1983 (c. 14, SIF 102)](https://www.legislation.gov.uk/ukpga/1983/14), [s. 3(1)(b)(5)(6)](https://www.legislation.gov.uk/ukpga/1983/14/section/3/1/b/5/6)
 
-[^key-82a95444b591dc65e4e4615128d80364]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/3) restricted (26.7.2005 coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2005/2092/regulation/5/1/b)
+[^c-82a95444b591dc65e4e4615128d80364]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/3) restricted (26.7.2005 coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2005/2092/regulation/5/1/b)
 
-[^key-15c0c705f82a814217f7c73f009a13a8]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/3) restricted (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/1/b)
+[^c-15c0c705f82a814217f7c73f009a13a8]: Modification: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/3) restricted (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/1/b)
 
 [^c721286]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/4) amended (1.1.1992) by [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 2](https://www.legislation.gov.uk/uksi/1991/2684/article/2), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
 
-[^key-43ca33252f896a6a7a59357ad94ae03a]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/4) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-43ca33252f896a6a7a59357ad94ae03a]: Modification: [S. 2(4)](https://www.legislation.gov.uk/ukpga/1976/30/section/2/4) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
-[^key-134e4409d8ceed366b35da8f5ee7f900]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1976/30/section/3/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(8)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/8), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-134e4409d8ceed366b35da8f5ee7f900]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1976/30/section/3/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 83(8)](https://www.legislation.gov.uk/ukpga/2004/33/section/83/8), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-7e6d6bfda926e1c93456938b6827fb0a]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1976/30/section/4) applied (26.7.2005 coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2005/2092/regulation/5/3)
+[^c-7e6d6bfda926e1c93456938b6827fb0a]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1976/30/section/4) applied (26.7.2005 coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2005/2092/regulation/5/3)
 
-[^key-c9b8432b41754e07588577c37fb5a999]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1976/30/section/4) applied (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/3)
+[^c-c9b8432b41754e07588577c37fb5a999]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1976/30/section/4) applied (25.6.2010) by [The Rail Passengers’ Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/7/3)
 
 [^c721287]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1976/30/section/4) extended by [International Transport (Conventions) Act 1983 (c. 14, SIF 102)](https://www.legislation.gov.uk/ukpga/1983/14), [s. 3(3)(5)(6)](https://www.legislation.gov.uk/ukpga/1983/14/section/3/3/5/6)
 
-[^key-b088a90e5df86fd0673c1dd6dde8ed1f]: Modification: S. 5 modified (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/3), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
+[^c-b088a90e5df86fd0673c1dd6dde8ed1f]: Modification: S. 5 modified (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2018/18/section/6/3), [21](https://www.legislation.gov.uk/ukpga/2018/18/section/21); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/a)
 
 [^c721288]: Modification: S. 5 modified by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/4), [41(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/41/2), [47(1)(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/47/1/2)
 

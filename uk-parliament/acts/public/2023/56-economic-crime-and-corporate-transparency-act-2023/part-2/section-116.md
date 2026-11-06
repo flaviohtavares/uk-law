@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. A limited partnership’s registered email address[^key-5021e945fdd037307a5ca7c13d0cc5e5]
+## 116. A limited partnership’s registered email address[^c-5021e945fdd037307a5ca7c13d0cc5e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5021e945fdd037307a5ca7c13d0cc5e5]: Commencement: S. 116 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5021e945fdd037307a5ca7c13d0cc5e5]: Commencement: S. 116 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

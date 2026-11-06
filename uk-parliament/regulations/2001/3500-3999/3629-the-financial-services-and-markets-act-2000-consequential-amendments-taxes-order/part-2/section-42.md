@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Pension schemes etc.: meaning of insurance company[^key-6ac3ff5c5009c8fdfcc2c6c096268848]
+## 42. Pension schemes etc.: meaning of insurance company[^c-6ac3ff5c5009c8fdfcc2c6c096268848]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac3ff5c5009c8fdfcc2c6c096268848]: Commencement: Art. 42 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-6ac3ff5c5009c8fdfcc2c6c096268848]: Commencement: Art. 42 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00047]: Footnote: Section 591(2)(g) was amended by section 107(2) of, and Part 5(12) of Schedule 26 to, the Finance Act 1994.

@@ -116,7 +116,7 @@ Section 1(3).
 
 ### The Parliamentary Constituencies Act 1986 (c. 56)
 
-**13.**[^key-00898a1d15abfeacc00cb072358cd1b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-00898a1d15abfeacc00cb072358cd1b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -134,4 +134,4 @@ Section 1(3).
 
 [^c10520451]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1994/19/schedule/2/paragraph/10) repealed (19.6.1997) by [1997 c. 25](https://www.legislation.gov.uk/ukpga/1997/25), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/1997/25/section/73/3), [74(1)](https://www.legislation.gov.uk/ukpga/1997/25/section/74/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1997/25/schedule/6/part/I) (with [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/1997/25/schedule/4/paragraph/27))
 
-[^key-00898a1d15abfeacc00cb072358cd1b9]: Textual amendment: Sch. 2 para. 13 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
+[^c-00898a1d15abfeacc00cb072358cd1b9]: Textual amendment: Sch. 2 para. 13 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)

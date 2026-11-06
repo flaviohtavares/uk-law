@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Notification of determinations[^key-bbf9df81855f4209db26ca0b5565ce08]
+## 79. Notification of determinations[^c-bbf9df81855f4209db26ca0b5565ce08]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The Board must give—
 
 - (a) the applicant, and
-- (b) the chief constable[^key-241d3cd64a4177b4e03657f4404ff62c],
+- (b) the chief constable[^c-241d3cd64a4177b4e03657f4404ff62c],
 
 notice of the grant or refusal of the application.
 
@@ -48,6 +48,6 @@ as may be prescribed.
 
 ## Annotations
 
-[^key-bbf9df81855f4209db26ca0b5565ce08]: Commencement: S. 79 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-bbf9df81855f4209db26ca0b5565ce08]: Commencement: S. 79 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-241d3cd64a4177b4e03657f4404ff62c]: Textual amendment: Words in s. 79(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-241d3cd64a4177b4e03657f4404ff62c]: Textual amendment: Words in s. 79(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

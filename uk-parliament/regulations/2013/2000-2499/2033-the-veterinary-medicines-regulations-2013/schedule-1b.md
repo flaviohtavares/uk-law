@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 1B — Qualifying Northern Ireland good (QNIG) certificates[^key-f5b18440e08a3dcbbb1e764355bd0e79]
+## SCHEDULE 1B — Qualifying Northern Ireland good (QNIG) certificates[^c-f5b18440e08a3dcbbb1e764355bd0e79]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ Regulation 4(5)
 
 ## Annotations
 
-[^key-f5b18440e08a3dcbbb1e764355bd0e79]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1B) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(8)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/8)
+[^c-f5b18440e08a3dcbbb1e764355bd0e79]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/uksi/2013/2033/schedule/1B) inserted (E.W.S.) (31.12.2020) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/b), [4(8)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/4/8)

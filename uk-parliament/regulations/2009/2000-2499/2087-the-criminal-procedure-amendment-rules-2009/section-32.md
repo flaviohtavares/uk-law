@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**32.**[^key-bffc6c65c5bc228af73e9dc4995d1209] For Part 76 (Representation Orders), substitute the Part as set out in Schedule 7 to these Rules.
+**32.**[^c-bffc6c65c5bc228af73e9dc4995d1209] For Part 76 (Representation Orders), substitute the Part as set out in Schedule 7 to these Rules.
 
 ## Annotations
 
-[^key-bffc6c65c5bc228af73e9dc4995d1209]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2009/2087/article/32) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-bffc6c65c5bc228af73e9dc4995d1209]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2009/2087/article/32) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

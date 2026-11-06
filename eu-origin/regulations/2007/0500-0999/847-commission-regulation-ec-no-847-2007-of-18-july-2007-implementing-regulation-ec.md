@@ -35,214 +35,214 @@ implementing Regulation (EC) No 808/2004 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8f2ce68e8cd9514561b93435be6b4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8f2ce68e8cd9514561b93435be6b4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8f2ce68e8cd9514561b93435be6b4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8f2ce68e8cd9514561b93435be6b4c8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — MODULE 1: ENTERPRISES AND THE INFORMATION SOCIETY[^key-8f2ce68e8cd9514561b93435be6b4c8e]
+## ANNEX I — MODULE 1: ENTERPRISES AND THE INFORMATION SOCIETY[^c-8f2ce68e8cd9514561b93435be6b4c8e]
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]1.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]1.
 
 SUBJECTS AND THEIR CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]ICT systems and their usage in enterprises
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]ICT systems and their usage in enterprises
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Use of Internet and other electronic networks by enterprises
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Use of Internet and other electronic networks by enterprises
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]E-commerce and e-business processes
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]E-commerce and e-business processes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]2.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]2.
 
 COVERAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](c)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]3.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]3.
 
 REFERENCE PERIODS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]4.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]4.
 
 BREAKDOWNS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]NACE aggregation
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]NACE aggregation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Size class
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Size class
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](c)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Regional group
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Regional group
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]5.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]5.
 
 PERIODICITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]6.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]6.
 
 DEADLINES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](c)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MODULE 2: INDIVIDUALS, HOUSEHOLDS AND THE INFORMATION SOCIETY[^key-8f2ce68e8cd9514561b93435be6b4c8e]
+## ANNEX II — MODULE 2: INDIVIDUALS, HOUSEHOLDS AND THE INFORMATION SOCIETY[^c-8f2ce68e8cd9514561b93435be6b4c8e]
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]1.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]1.
 
 SUBJECTS AND THEIR CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Access to and use of ICT systems by individuals and/or in households
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Access to and use of ICT systems by individuals and/or in households
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Use of Internet for different purposes by individuals and/or in households
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Use of Internet for different purposes by individuals and/or in households
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]ICT competence
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]ICT competence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]Barriers to use of ICT and the Internet
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]Barriers to use of ICT and the Internet
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]2.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]2.
 
 COVERAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](c)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]3.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]3.
 
 REFERENCE PERIOD
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]4.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]4.
 
 BREAKDOWNS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]5.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]5.
 
 PERIODICITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]6.
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]6.
 
 DEADLINES FOR TRANSMISSION OF RESULTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](a)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](b)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e](c)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f2ce68e8cd9514561b93435be6b4c8e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f2ce68e8cd9514561b93435be6b4c8e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

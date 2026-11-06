@@ -33,7 +33,7 @@ An Act to consolidate the greater part of the Companies Acts.
 
 \[11th March 1985\]
 
-[^c17382921][^c17382931][^c17382951][^c17382941][^c17382961][^c17382971][^c17382981][^c17382991][^c17383001][^c17383011][^c17383021][^c17383031][^c17383041][^c17383051][^c17383061][^c17383071][^c17383081][^c17383091][^c17383101][^c17383111][^c17383121][^c17383131][^c17383141][^c17383151][^c17383161][^c17383171][^c17383181][^c17383191][^c17383201][^c17383211][^c17383221][^c17383231][^c17383241][^c17383261][^c17383251][^c19344261][^c17383271][^c17383281][^c17383291][^c17383301][^c19344211][^c19344221][^c19344231][^c17383311][^c19344241][^c19344251][^c20063051][^c19344291][^c20503061][^c19865081][^c19344281][^c20062451][^c19348511][^c20063041][^c20062721][^c20062621][^c20062651][^c20062661][^c20062491][^c20062681][^c20062711][^c20062611][^c19865131][^c19712621][^c19865101][^c20062531][^c20062551][^c20062561][^c20062701][^c20062731][^c20062671][^c19714051][^c20062541][^c20062591][^c19865111][^c19865641][^c19865661][^c20501151][^c19865121][^c20062521][^c20062481][^c20062691][^c20062571][^c20062601][^c20062501][^c20500491][^c20500511][^c20502631][^c20502681][^c20502821][^c20502851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6aedc977c48d34cbeeade85fc3f410e4][^key-54bfa11fc6d6ad8d2a2a0921147e97f8][^key-c9f446c4afd64fcf756f169cbadbba7d][^key-5e3ff01fff311d4849325e7f6cdd58d3][^key-ace276adce425ee5bd57cef74ffe34e6]
+[^c17382921][^c17382931][^c17382951][^c17382941][^c17382961][^c17382971][^c17382981][^c17382991][^c17383001][^c17383011][^c17383021][^c17383031][^c17383041][^c17383051][^c17383061][^c17383071][^c17383081][^c17383091][^c17383101][^c17383111][^c17383121][^c17383131][^c17383141][^c17383151][^c17383161][^c17383171][^c17383181][^c17383191][^c17383201][^c17383211][^c17383221][^c17383231][^c17383241][^c17383261][^c17383251][^c19344261][^c17383271][^c17383281][^c17383291][^c17383301][^c19344211][^c19344221][^c19344231][^c17383311][^c19344241][^c19344251][^c20063051][^c19344291][^c20503061][^c19865081][^c19344281][^c20062451][^c19348511][^c20063041][^c20062721][^c20062621][^c20062651][^c20062661][^c20062491][^c20062681][^c20062711][^c20062611][^c19865131][^c19712621][^c19865101][^c20062531][^c20062551][^c20062561][^c20062701][^c20062731][^c20062671][^c19714051][^c20062541][^c20062591][^c19865111][^c19865641][^c19865661][^c20501151][^c19865121][^c20062521][^c20062481][^c20062691][^c20062571][^c20062601][^c20062501][^c20500491][^c20500511][^c20502631][^c20502681][^c20502821][^c20502851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6aedc977c48d34cbeeade85fc3f410e4][^c-54bfa11fc6d6ad8d2a2a0921147e97f8][^c-c9f446c4afd64fcf756f169cbadbba7d][^c-5e3ff01fff311d4849325e7f6cdd58d3][^c-ace276adce425ee5bd57cef74ffe34e6]
 
 ## Contents
 
@@ -1024,7 +1024,7 @@ An Act to consolidate the greater part of the Companies Acts.
 - [Section 430E — Associates.](part-xiiia/section-430e.md)
 - [Section 430F — Convertible securities.](part-xiiia/section-430f.md)
 
-### Part XIV — Investigation of Companies and Their Affairs; Requisition of Documents[^key-9b0f5251475ed61fc15a3a21541cf671]
+### Part XIV — Investigation of Companies and Their Affairs; Requisition of Documents[^c-9b0f5251475ed61fc15a3a21541cf671]
 
 *Extent: E+W+S+N.I.*
 
@@ -1089,7 +1089,7 @@ An Act to consolidate the greater part of the Companies Acts.
 - [Section 453C — Failure to comply with certain requirements](part-xiv/section-453c.md)
 - [Section 453D — Offences by bodies corporate](part-xiv/section-453d.md)
 
-### Part XV — Orders Imposing Restrictions on Shares (Section 445)[^key-334f544f64c1276fca590a859dfce9ad][^c19717271]
+### Part XV — Orders Imposing Restrictions on Shares (Section 445)[^c-334f544f64c1276fca590a859dfce9ad][^c19717271]
 
 *Extent: E+W+S+N.I.*
 
@@ -1116,7 +1116,7 @@ An Act to consolidate the greater part of the Companies Acts.
 
 *Extent: S*
 
-#### Chapter I — Floating Charges[^key-624577d0101a80269a6b6962db733aac]
+#### Chapter I — Floating Charges[^c-624577d0101a80269a6b6962db733aac]
 
 *Extent: S*
 
@@ -1130,7 +1130,7 @@ An Act to consolidate the greater part of the Companies Acts.
 
 - [Section 467–485 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-xviii/section-467-485.md)
 
-#### Chapter III — General[^key-dd858ad9e14dc833e7a7cfbca4281ef9]
+#### Chapter III — General[^c-dd858ad9e14dc833e7a7cfbca4281ef9]
 
 *Extent: S*
 
@@ -1634,15 +1634,15 @@ SCHEDULES
 
 [^c20502851]: Modification: Act applied (with modifications) (1.10.2009) by [The Companies (Companies Authorised to Register) Regulations 2009 (S.I. 2009/2437)](https://www.legislation.gov.uk/uksi/2009/2437), [regs. 18](https://www.legislation.gov.uk/uksi/2009/2437/regulation/18)-23 (with transitional provisions and savings in reg. 24)
 
-[^key-6aedc977c48d34cbeeade85fc3f410e4]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-6aedc977c48d34cbeeade85fc3f410e4]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-54bfa11fc6d6ad8d2a2a0921147e97f8]: Modification: Act modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 5(3)(b), 7](https://www.legislation.gov.uk/ukpga/2004/25/section/7), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-54bfa11fc6d6ad8d2a2a0921147e97f8]: Modification: Act modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 5(3)(b), 7](https://www.legislation.gov.uk/ukpga/2004/25/section/7), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
-[^key-c9f446c4afd64fcf756f169cbadbba7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/6) extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
+[^c-c9f446c4afd64fcf756f169cbadbba7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/6) extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-5e3ff01fff311d4849325e7f6cdd58d3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/6) modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-5e3ff01fff311d4849325e7f6cdd58d3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/6) modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-ace276adce425ee5bd57cef74ffe34e6]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-ace276adce425ee5bd57cef74ffe34e6]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
 [^c17387071]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1985/6/part/III) (ss. 56-79): functions transferred from the Secretary of State to the Treasury (7.6.1992) by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315), [arts. 2(3)(4)](https://www.legislation.gov.uk/uksi/1992/1315/article/2/3/4), [6](https://www.legislation.gov.uk/uksi/1992/1315/article/6).
 
@@ -1718,7 +1718,7 @@ SCHEDULES
 
 [^c17408461]: Modification: [Pt. XIII](https://www.legislation.gov.uk/ukpga/1985/6/part/XIII)A (ss. 428-430F) modified (12.2.1992) by [S.I. 1992/225](https://www.legislation.gov.uk/uksi/1992/225), [reg. 121](https://www.legislation.gov.uk/uksi/1992/225/regulation/121), [Sch. 8 para. 9(3)](https://www.legislation.gov.uk/uksi/1992/225/schedule/8/paragraph/9/3).
 
-[^key-9b0f5251475ed61fc15a3a21541cf671]: Modification: Pt. 14 power to apply (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-9b0f5251475ed61fc15a3a21541cf671]: Modification: Pt. 14 power to apply (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19343701]: Textual amendment: Ss. 446A, 446B and preceding cross-heading inserted (1.10.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1035(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1035/1), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/k) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48))
 
@@ -1726,15 +1726,15 @@ SCHEDULES
 
 [^c19343841]: Textual amendment: S. 446E and preceding cross-heading inserted (1.10.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1037(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1037/1), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/k) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48))
 
-[^key-334f544f64c1276fca590a859dfce9ad]: Modification: Pt. 15 power to apply (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-334f544f64c1276fca590a859dfce9ad]: Modification: Pt. 15 power to apply (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19717271]: Textual amendment: Words in Pt. 15 heading substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2194/article/10/1), [Sch. 4 para. 11(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/11/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c17417081]: Modification: Pt. XVIII (ss. 462–487) extended (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [regs. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [21](https://www.legislation.gov.uk/uksi/1989/638/regulation/21), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/1989/638/schedule/4/paragraph/13)
 
-[^key-624577d0101a80269a6b6962db733aac]: Modification: Pt. 18 Ch. 1 applied (with modifications) (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 4](https://www.legislation.gov.uk/uksi/2015/428/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/428/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/428/article/5)) (as amended by S.I. 2016/679, art. 7(a))
+[^c-624577d0101a80269a6b6962db733aac]: Modification: Pt. 18 Ch. 1 applied (with modifications) (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 4](https://www.legislation.gov.uk/uksi/2015/428/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/428/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/428/article/5)) (as amended by S.I. 2016/679, art. 7(a))
 
-[^key-dd858ad9e14dc833e7a7cfbca4281ef9]: Modification: Pt. 18 Ch. 3 applied (with modifications) (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 4](https://www.legislation.gov.uk/uksi/2015/428/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/428/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/428/article/5)) (as amended by S.I. 2016/679, art. 7(a))
+[^c-dd858ad9e14dc833e7a7cfbca4281ef9]: Modification: Pt. 18 Ch. 3 applied (with modifications) (26.3.2015) by [The Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015 (S.I. 2015/428)](https://www.legislation.gov.uk/uksi/2015/428), [art. 4](https://www.legislation.gov.uk/uksi/2015/428/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/428/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/428/article/5)) (as amended by S.I. 2016/679, art. 7(a))
 
 [^c18869591]: Modification: [Pt. 20](https://www.legislation.gov.uk/ukpga/1985/6/part/20) modified (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), ss. {426(10)(b)}, 458(1)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333),{art. 2}, Sch. (as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531))
 

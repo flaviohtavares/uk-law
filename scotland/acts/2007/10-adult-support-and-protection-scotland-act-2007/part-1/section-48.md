@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Code of practice[^key-7ec534d6cb6e18005d807164889df0f7]
+## 48. Code of practice[^c-7ec534d6cb6e18005d807164889df0f7]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ as they think fit.
 
 ## Annotations
 
-[^key-7ec534d6cb6e18005d807164889df0f7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2007/10/section/48) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-7ec534d6cb6e18005d807164889df0f7]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2007/10/section/48) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

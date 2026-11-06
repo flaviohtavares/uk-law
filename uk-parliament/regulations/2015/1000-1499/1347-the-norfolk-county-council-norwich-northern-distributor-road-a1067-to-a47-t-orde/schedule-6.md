@@ -29,7 +29,7 @@ In relating this Schedule to its corresponding Street Plans, the provisions desc
 - (c) private accesses to be stopped up, described in column (3) of Parts 2 and 3 of this Schedule, are shown by a solid black band, over the extent of stopping up described in column (4) of each of those Parts, and are given a reference number, preceded by ‘PMA’, commencing with ‘PMA 0’; and
 - (d) new private accesses to be substituted for a private access to be stopped up, or are otherwise to be provided in relation to the NDR classified road and/or the New A47 Trunk Road Eastbound Diverge Slip Road and the New A47 Trunk Road Eastbound Merge Slip Road, as are included in column (5) of Part 2 of this Schedule, are shown by thin diagonal hatching, and are given a reference number, preceded by ‘X’, commencing with ‘X0’.
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW STREETS TO BE PROVIDED[^key-3990255ea1328e0b27885dfdc0569b27]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND OTHER NEW STREETS TO BE PROVIDED[^c-3990255ea1328e0b27885dfdc0569b27]
 
 <table>
 <thead>
@@ -104,7 +104,7 @@ In relating this Schedule to its corresponding Street Plans, the provisions desc
 </tbody>
 </table>
 
-### PART 2 — PRIVATE ACCESS FOR WHICH A SUBSTITUTE IS TO BE PROVIDE AND OTHER NEW MEANS OF ACCESS TO BE PROVIDED[^key-75dc80d37c1d39c12491f3c5b58214a4]
+### PART 2 — PRIVATE ACCESS FOR WHICH A SUBSTITUTE IS TO BE PROVIDE AND OTHER NEW MEANS OF ACCESS TO BE PROVIDED[^c-75dc80d37c1d39c12491f3c5b58214a4]
 
 <table>
 <thead>
@@ -223,7 +223,7 @@ In relating this Schedule to its corresponding Street Plans, the provisions desc
 </tbody>
 </table>
 
-### PART 3 — PRIVATE ACCESS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ca2e60c3d16222bceaa5b6e83fc7f5d0]
+### PART 3 — PRIVATE ACCESS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ca2e60c3d16222bceaa5b6e83fc7f5d0]
 
 <table>
 <thead>
@@ -253,8 +253,8 @@ In relating this Schedule to its corresponding Street Plans, the provisions desc
 
 ## Annotations
 
-[^key-3990255ea1328e0b27885dfdc0569b27]: Commencement: Sch. 6 Pt. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-3990255ea1328e0b27885dfdc0569b27]: Commencement: Sch. 6 Pt. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-75dc80d37c1d39c12491f3c5b58214a4]: Commencement: Sch. 6 Pt. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-75dc80d37c1d39c12491f3c5b58214a4]: Commencement: Sch. 6 Pt. 2 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
-[^key-ca2e60c3d16222bceaa5b6e83fc7f5d0]: Commencement: Sch. 6 Pt. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-ca2e60c3d16222bceaa5b6e83fc7f5d0]: Commencement: Sch. 6 Pt. 3 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Planning permission for development already carried out[^key-b2657a73a29ee18f7999a2d30b87f4f0]
+## 49. Planning permission for development already carried out[^c-b2657a73a29ee18f7999a2d30b87f4f0]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2657a73a29ee18f7999a2d30b87f4f0]: Commencement: S. 49 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b2657a73a29ee18f7999a2d30b87f4f0]: Commencement: S. 49 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

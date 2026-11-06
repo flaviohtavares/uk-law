@@ -88,17 +88,17 @@ Section 97.
 
 #### Airports Act 1986 (c.31)
 
-**10.**[^key-d4292750b76350084eb944736301f011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d4292750b76350084eb944736301f011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV — Competition
 
 #### Fair Trading Act 1973 (c.41)
 
-**11.**[^key-1133c651011c2297b700af0a89ba3964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1133c651011c2297b700af0a89ba3964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Competition Act 1980 (c.21)
 
-**12.**[^key-1133c651011c2297b700af0a89ba3964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1133c651011c2297b700af0a89ba3964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Civil Aviation Act 1982 (c.16)
 
@@ -112,11 +112,11 @@ Section 97.
 
 **14.**[^c14885271] (1) Section 54 of the Competition Act 1998 (regulators) shall be amended as follows.
 
-(2)[^key-dfa78c347f4c23731bbad608ff495591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dfa78c347f4c23731bbad608ff495591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (4) after “Schedule 10” insert “ or by Chapter V of Part I of the Transport Act 2000 ”.
 
-**15.**[^key-2da0af1439a5bbed15afa0ffc6a55a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2da0af1439a5bbed15afa0ffc6a55a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c14885291] (1) Schedule 13 to the Competition Act 1998 (transitionals and savings) shall be amended as follows.
 
@@ -158,17 +158,17 @@ Section 97.
 
 [^c14885191]: Commencement: Sch. 8 para. 2 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-d4292750b76350084eb944736301f011]: Textual amendment: Sch. 8 para. 10 repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
+[^c-d4292750b76350084eb944736301f011]: Textual amendment: Sch. 8 para. 10 repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
 
-[^key-1133c651011c2297b700af0a89ba3964]: Textual amendment: Sch. 8 paras. 11, 12 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-1133c651011c2297b700af0a89ba3964]: Textual amendment: Sch. 8 paras. 11, 12 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c14885261]: Commencement: Sch. 8 para. 13 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14885271]: Commencement: Sch. 8 para. 14 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-dfa78c347f4c23731bbad608ff495591]: Textual amendment: Sch. 8 para. 14(2) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-dfa78c347f4c23731bbad608ff495591]: Textual amendment: Sch. 8 para. 14(2) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2da0af1439a5bbed15afa0ffc6a55a3d]: Textual amendment: Sch. 8 para. 15 repealed (20.6.2003) by [The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Amendment and Specification) Order 2003 (S.I. 2003/1400)](https://www.legislation.gov.uk/uksi/2003/1400), [art. 1](https://www.legislation.gov.uk/uksi/2003/1400/article/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1400/schedule/5)
+[^c-2da0af1439a5bbed15afa0ffc6a55a3d]: Textual amendment: Sch. 8 para. 15 repealed (20.6.2003) by [The Enterprise Act 2002 (Part 9 Restrictions on Disclosure of Information) (Amendment and Specification) Order 2003 (S.I. 2003/1400)](https://www.legislation.gov.uk/uksi/2003/1400), [art. 1](https://www.legislation.gov.uk/uksi/2003/1400/article/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1400/schedule/5)
 
 [^c14885291]: Commencement: Sch. 8 para. 16 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

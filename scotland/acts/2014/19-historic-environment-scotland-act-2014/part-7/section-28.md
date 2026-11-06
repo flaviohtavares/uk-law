@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Consequential modifications[^key-a1ad7288fcd670c106d44e9d9d96bb48][^key-c4f1704bfb373637ee3212324d59b790]
+## 28. Consequential modifications[^c-a1ad7288fcd670c106d44e9d9d96bb48][^c-c4f1704bfb373637ee3212324d59b790]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Schedule 6 contains amendments and repeals consequential on the establishment of
 
 ## Annotations
 
-[^key-a1ad7288fcd670c106d44e9d9d96bb48]: Commencement: S. 28 in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-a1ad7288fcd670c106d44e9d9d96bb48]: Commencement: S. 28 in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-c4f1704bfb373637ee3212324d59b790]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/19/section/28) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-c4f1704bfb373637ee3212324d59b790]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/19/section/28) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

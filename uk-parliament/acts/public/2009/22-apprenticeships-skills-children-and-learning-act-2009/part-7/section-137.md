@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Entry and inspection conditions: supplementary[^key-374ca5efeee8c3507a4781447bec5ca5]
+## 137. Entry and inspection conditions: supplementary[^c-374ca5efeee8c3507a4781447bec5ca5]
 
 *Extent: E+W+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-374ca5efeee8c3507a4781447bec5ca5]: Commencement: S. 137 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-374ca5efeee8c3507a4781447bec5ca5]: Commencement: S. 137 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

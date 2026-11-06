@@ -24,11 +24,11 @@ Article 33
 
 ### Apparatus of statutory undertakers etc. on land acquired
 
-**1.**[^key-a03c93f27d532784584be3d087aac2cc] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and powers of statutory undertakers etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the Company under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-a03c93f27d532784584be3d087aac2cc] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and powers of statutory undertakers etc. to remove or re-site apparatus) shall apply in relation to any land acquired or appropriated by the Company under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1) above, references to the appropriate Minister are references to the Secretary of State.
 
-(3) Where any apparatus of public utility or undertakers or of a electronic communications code operator or former[^key-12dcebea2d9b5c2da46a119b3307b001] PTO is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by sub-paragraph (1) above, any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from the Company compensation in respect of expenditure reasonably incurred by him, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+(3) Where any apparatus of public utility or undertakers or of a electronic communications code operator or former[^c-12dcebea2d9b5c2da46a119b3307b001] PTO is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by sub-paragraph (1) above, any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from the Company compensation in respect of expenditure reasonably incurred by him, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
 (4) Sub-paragraph (3) above shall not apply in the case of the removal of a public sewer but where such a sewer is removed in pursuance of such a notice or order as is mentioned in that paragraph, any person who is—
 
@@ -41,12 +41,12 @@ shall be entitled to recover from the Company compensation in respect of expendi
 
 (6) In this paragraph—
 
-- [^key-16f0b95d6ab91272b5c7bee5ba6c7a77]...
+- [^c-16f0b95d6ab91272b5c7bee5ba6c7a77]...
 - “public utility undertakers” has the same meaning as in the Highways Act 1980.
 
 ### Apparatus of statutory undertakers etc. in stopped up streets
 
-**2.**[^key-250f6f0a51f6dba93dd50567c97d4c90] (1) Where a street is stopped up under article 7 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-250f6f0a51f6dba93dd50567c97d4c90] (1) Where a street is stopped up under article 7 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 7 of this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street may and, if reasonably requested so to do by the Company, shall—
 
@@ -85,7 +85,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Railway undertakings
 
-**3.**[^key-3a975e007865a0eec5598511f69f58a7] (1) Subject to the following provisions of this paragraph, the powers under article 6 of this Order to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
+**3.**[^c-3a975e007865a0eec5598511f69f58a7] (1) Subject to the following provisions of this paragraph, the powers under article 6 of this Order to break up or open a street shall not be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
 
 - (a) is under the control or management of, or is maintainable by, railway or tramway undertakers; or
 - (b) forms part of a level crossing belonging to any such undertakers or to any other person;
@@ -98,12 +98,12 @@ except with the consent of the undertakers or, as the case may be, of the person
 
 ## Annotations
 
-[^key-a03c93f27d532784584be3d087aac2cc]: Commencement: Sch. 9 para. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-a03c93f27d532784584be3d087aac2cc]: Commencement: Sch. 9 para. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-12dcebea2d9b5c2da46a119b3307b001]: Textual amendment: Words in Sch. 9 para. 1(3) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/17)
+[^c-12dcebea2d9b5c2da46a119b3307b001]: Textual amendment: Words in Sch. 9 para. 1(3) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/17)
 
-[^key-16f0b95d6ab91272b5c7bee5ba6c7a77]: Textual amendment: Words in Sch. 9 para. 1(6) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2 Table 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2)
+[^c-16f0b95d6ab91272b5c7bee5ba6c7a77]: Textual amendment: Words in Sch. 9 para. 1(6) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2 Table 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2)
 
-[^key-250f6f0a51f6dba93dd50567c97d4c90]: Commencement: Sch. 9 para. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-250f6f0a51f6dba93dd50567c97d4c90]: Commencement: Sch. 9 para. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-3a975e007865a0eec5598511f69f58a7]: Commencement: Sch. 9 para. 3 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-3a975e007865a0eec5598511f69f58a7]: Commencement: Sch. 9 para. 3 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

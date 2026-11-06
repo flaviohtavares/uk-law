@@ -46,7 +46,7 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, Social Services and Public Safety that it is expedient for any reference to an Article of or an Annex to any of the EU instruments specified in regulation 2(4) to be construed as a reference to that Article or that Annex as amended from time to time.
 
-As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21893891], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-b38b1549977f35918ff5397275977ee8]
+As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21893891], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-b38b1549977f35918ff5397275977ee8]
 
 ## PART 1 — Introductory
 
@@ -62,9 +62,9 @@ These Regulations may be cited as the Food Additives, Flavourings, Enzymes and E
 - “**Regulation 2065/2003**” means Regulation [(EC) No 2065/2003](https://www.legislation.gov.uk/european/regulation/2003/2065) of the European Parliament and of the Council on smoke flavourings used or intended for use in or on foods [^c21893911];
 - “**Regulation 1332/2008**” means Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes [^c21893921];
 - “**Regulation 1333/2008**” means Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives [^c21893931], as read with —
-  - (a) Commission Regulation (EU) No 1129/2011 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council by establishing a Union list of food additives as last amended by Commission Regulation 1152/2013;[^key-3420a08981ccbe71e46b621f7caff186] [^c21893941]
+  - (a) Commission Regulation (EU) No 1129/2011 amending Annex II to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council by establishing a Union list of food additives as last amended by Commission Regulation 1152/2013;[^c-3420a08981ccbe71e46b621f7caff186] [^c21893941]
   - (b) Commission Regulation (EU) No 1130/2011 amending Annex III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives by establishing a Union list of food additives for use in food additives, food enzymes, food flavourings and nutrients [^c21893951], and
-  - (c) Commission Regulation (EU) No 231/2012 laying down specifications for food additives listed in Annexes II and III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council as last amended by Commission Regulation 2018/1481[^key-3bcda8bf4e5be0a42be220f6f0ea422e] [^c21893961];
+  - (c) Commission Regulation (EU) No 231/2012 laying down specifications for food additives listed in Annexes II and III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council as last amended by Commission Regulation 2018/1481[^c-3bcda8bf4e5be0a42be220f6f0ea422e] [^c21893961];
 - “**Regulation 1334/2008**” means Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods [^c21893971], as read with Commission Regulation (EU) No 873/2012 on transitional measures concerning the Union list of flavourings and source materials set out in Annex I to Regulation [(EC) 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council [^c21893981];
 - “**the EU Regulations**” means Regulation 2065/2003, Regulation 1332/2008, Regulation 1333/2008 and Regulation 1334/2008; and
 - “**the Order**” means the Food Safety (Northern Ireland) Order 1991.
@@ -213,7 +213,7 @@ The provisions of the Order specified in column 1 of Schedule 5 apply, with the 
 
 ## PART 5 — General
 
-### 20. Consequential and other amendments[^key-4e71a6cdf5f2457212538c6951b98109]
+### 20. Consequential and other amendments[^c-4e71a6cdf5f2457212538c6951b98109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -425,7 +425,7 @@ These Regulations in Part 5 —
 
 [^c21893891]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p14)
 
-[^key-b38b1549977f35918ff5397275977ee8]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/220) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-b38b1549977f35918ff5397275977ee8]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/220) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^c21893901]: Marginal citation: OJ No. L141, 6.6.2009, p.3. This instrument was last amended by Commission Directive 2010/59/EU (OJ No. L225, 27.8.2010, p.10)
 
@@ -435,13 +435,13 @@ These Regulations in Part 5 —
 
 [^c21893931]: Marginal citation: OJ No. L354, 31.12.2008, p.16. This instrument was last amended by Commission Regulation (EU) No. 739/2013 (OJ No. L204, 31.7.2013, p.35)
 
-[^key-3420a08981ccbe71e46b621f7caff186]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2013/220/regulation/2/1/a) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [27(2)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/27/2/a)
+[^c-3420a08981ccbe71e46b621f7caff186]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2013/220/regulation/2/1/a) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [27(2)(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/27/2/a)
 
 [^c21893941]: Marginal citation: OJ No. L295, 12.11.2011, p.1
 
 [^c21893951]: Marginal citation: OJ No. L295, 12.11.2011, p.178
 
-[^key-3bcda8bf4e5be0a42be220f6f0ea422e]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2013/220/regulation/2/1/c) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/27/2/b)
+[^c-3bcda8bf4e5be0a42be220f6f0ea422e]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2013/220/regulation/2/1/c) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/27/2/b)
 
 [^c21893961]: Marginal citation: OJ No. L83, 22.3.2012, p.1. This instrument was last amended by Commission Regulation (EU) No. 497/2013 (OJ No. L143, 30.5.2013, p.20)
 
@@ -455,4 +455,4 @@ These Regulations in Part 5 —
 
 [^c21894011]: Marginal citation: OJ No. L267, 2.10.2012, p.1
 
-[^key-4e71a6cdf5f2457212538c6951b98109]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2013/220/regulation/20) omitted (19.9.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f), [Sch. 7 para. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/6)
+[^c-4e71a6cdf5f2457212538c6951b98109]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2013/220/regulation/20) omitted (19.9.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(3)(f)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/3/f), [Sch. 7 para. 6](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/paragraph/6)

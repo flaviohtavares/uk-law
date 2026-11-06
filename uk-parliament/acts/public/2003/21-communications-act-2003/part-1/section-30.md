@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Transfers of property etc. from pre-commencement regulators[^key-271d17605d7e333916ceecd3ea9ce4f4]
+## 30. Transfers of property etc. from pre-commencement regulators[^c-271d17605d7e333916ceecd3ea9ce4f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ and such a scheme shall come into force on such day as the Secretary of State ma
 
 ## Annotations
 
-[^key-271d17605d7e333916ceecd3ea9ce4f4]: Commencement: S. 30 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-271d17605d7e333916ceecd3ea9ce4f4]: Commencement: S. 30 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)

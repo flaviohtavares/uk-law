@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Officers of local authorities to be placed at disposal of returning officers[^key-a799abd2d6d17c9fdfeeb710c00b3e08]
+## 15. Officers of local authorities to be placed at disposal of returning officers[^c-a799abd2d6d17c9fdfeeb710c00b3e08]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a799abd2d6d17c9fdfeeb710c00b3e08]: Commencement: Art. 15 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a799abd2d6d17c9fdfeeb710c00b3e08]: Commencement: Art. 15 in force at 16.12.2015 in accordance with art. 1(1)

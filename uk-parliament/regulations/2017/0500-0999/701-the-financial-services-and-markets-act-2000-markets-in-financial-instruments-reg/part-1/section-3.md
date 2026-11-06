@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-10867aa75eb20d4c8cc639a77fb5852f] The FCA is designated to carry out all the functions of a competent authority provided for in—
+(1)[^c-10867aa75eb20d4c8cc639a77fb5852f] The FCA is designated to carry out all the functions of a competent authority provided for in—
 
 - (a) the Act;
 - (b) the markets in financial instruments regulation; and
@@ -29,7 +29,7 @@ summary: ''
 (2) The PRA is designated to carry out any duty of a competent authority that relates to a PRA authorised person where the PRA has the function of carrying out that duty under—
 
 - (a) these Regulations;
-- (b) Parts 4A [^c23017831], 12 to 15, 22, and 25 of the Act [^key-8c48d3e8b2a4eb6742b77cf662e813e2]... ; or
+- (b) Parts 4A [^c23017831], 12 to 15, 22, and 25 of the Act [^c-8c48d3e8b2a4eb6742b77cf662e813e2]... ; or
 - (c) rules made under section 137G [^c23017841] (the PRA's general rules) of the Act or any other subordinate legislation conferring functions on the PRA made under the Act.
 
 (3) Where a PRA authorised person is obliged to keep records at the disposal of the competent authority under Article 25 (obligation to maintain records) of the markets in financial instruments regulation both the FCA and PRA are designated as the competent authority.
@@ -47,11 +47,11 @@ summary: ''
 
 ## Annotations
 
-[^key-10867aa75eb20d4c8cc639a77fb5852f]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/701/regulation/3/1) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/7/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10867aa75eb20d4c8cc639a77fb5852f]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/701/regulation/3/1) substituted (31.12.2020) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/7/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23017831]: Marginal citation: Part 4A was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-8c48d3e8b2a4eb6742b77cf662e813e2]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/3/2/b) omitted (31.12.2020) by virtue of [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/7/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c48d3e8b2a4eb6742b77cf662e813e2]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2017/701/regulation/3/2/b) omitted (31.12.2020) by virtue of [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/7/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23017841]: Marginal citation: Section 137G was inserted by section 24(1) of the Financial Services Act 2012.
 

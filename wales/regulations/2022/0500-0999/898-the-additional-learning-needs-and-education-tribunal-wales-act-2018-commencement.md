@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-61902ef45b858fded00b387e9c5eddad]
+## 1. Title and interpretation[^c-61902ef45b858fded00b387e9c5eddad]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 15) Order 2022.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 - (a) a decision is made by a tribunal or court on the appeal, and
 - (b) if a request may be made to review the decision or it may be further appealed, and the period (or each of the periods) for doing so expires without a review being requested or further appeal being brought.
 
-## 2. Provisions coming into force on 1 September 2022[^key-ccc082324c3ddbfe25edc355489e4f6e]
+## 2. Provisions coming into force on 1 September 2022[^c-ccc082324c3ddbfe25edc355489e4f6e]
 
 The following provisions of the Act come into force on 1 September 2022 in relation to a person who falls into any of the paragraphs in article 3 on 1 September 2022—
 
@@ -101,7 +101,7 @@ The following provisions of the Act come into force on 1 September 2022 in relat
   - (xxv) paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxvi);
   - (xxvi) paragraph 24(3) and (6)(a).
 
-**3.**[^key-af09e9087d21b34349f03485459bfc36] A person who is not over compulsory school age—
+**3.**[^c-af09e9087d21b34349f03485459bfc36] A person who is not over compulsory school age—
 
 - (a) in relation to whom an EHC plan is being prepared;
 - (b) in relation to whom an EHC plan is being maintained;
@@ -243,7 +243,7 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-61902ef45b858fded00b387e9c5eddad]: Commencement: Art. 1 in force at made date
+[^c-61902ef45b858fded00b387e9c5eddad]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -251,11 +251,11 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00004]: Footnote: Section 8 was amended by section 52 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-ccc082324c3ddbfe25edc355489e4f6e]: Commencement: Art. 2 in force at made date
+[^c-ccc082324c3ddbfe25edc355489e4f6e]: Commencement: Art. 2 in force at made date
 
 [^f00005]: Footnote: Paragraph 4(7) (“the provision”) has been repealed by paragraph 75 of Schedule 2 to the Curriculum and Assessment (Wales) Act [2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4) (“**the 2021 Act**”). However, the provision has been saved by the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022 ([S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111)) in relation to a child or pupil provided with education under the old curriculum (i.e. in relation to whom the 2021 Act has not been commenced). The effect of that saving provision is that paragraph 4(7) of the Schedule to the Act remains in force until such time as the child or pupil is provided with education under the 2021 Act.
 
-[^key-af09e9087d21b34349f03485459bfc36]: Commencement: Art. 3 in force at made date
+[^c-af09e9087d21b34349f03485459bfc36]: Commencement: Art. 3 in force at made date
 
 [^f00006]: Footnote: *See* the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 8 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/891 (W. 188)(C. 55))](https://www.legislation.gov.uk/wsi/2022/891) , Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 9 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/892 (W. 189) (C. 56))](https://www.legislation.gov.uk/wsi/2022/892), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 10) Order 2022 ([S.I. 2022/893 (W. 190) (C. 57))](https://www.legislation.gov.uk/wsi/2022/893), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022 ([S.I. 2022/894 (W. 191) (C. 58))](https://www.legislation.gov.uk/wsi/2022/894), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 12) Order 2022 ([S.I. 2022/895 (W. 192) (C. 59))](https://www.legislation.gov.uk/wsi/2022/895), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 13 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/896 (W. 193) (C. 60))](https://www.legislation.gov.uk/wsi/2022/896) and the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 14 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/897 (W. 194) (C. 61))](https://www.legislation.gov.uk/wsi/2022/897).
 

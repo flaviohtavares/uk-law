@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33O. Dissolution of sixth form college corporations[^key-4b40374447c5ae00484de6e41d53f704]
+## 33O. Dissolution of sixth form college corporations[^c-4b40374447c5ae00484de6e41d53f704]
 
 *Extent: E+W+S*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (4) The corporation are dissolved on the dissolution date.
 
-(5)[^key-bc34153c56563a916a4cbbec0e2d9c97] See also section 33Q (restrictions on dissolution in insolvency situations).
+(5)[^c-bc34153c56563a916a4cbbec0e2d9c97] See also section 33Q (restrictions on dissolution in insolvency situations).
 
 ## Annotations
 
-[^key-4b40374447c5ae00484de6e41d53f704]: Textual amendment: Ss. 33N-33P substituted for s. 33N (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/20); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6))
+[^c-4b40374447c5ae00484de6e41d53f704]: Textual amendment: Ss. 33N-33P substituted for s. 33N (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/20); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/924/article/6))
 
-[^key-bc34153c56563a916a4cbbec0e2d9c97]: Textual amendment: S. 33O(5) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/38/2), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-bc34153c56563a916a4cbbec0e2d9c97]: Textual amendment: S. 33O(5) inserted (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/38/2), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

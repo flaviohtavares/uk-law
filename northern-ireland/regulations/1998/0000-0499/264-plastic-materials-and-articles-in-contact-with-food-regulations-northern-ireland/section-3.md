@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Restriction on the use, sale or importation of plastic materials and articles[^key-7f19c2c545d27f64168c044fa4337c2e]
+## 3. Restriction on the use, sale or importation of plastic materials and articles[^c-7f19c2c545d27f64168c044fa4337c2e]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f19c2c545d27f64168c044fa4337c2e]: Commencement: Reg. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-7f19c2c545d27f64168c044fa4337c2e]: Commencement: Reg. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36D. Transaction to which the broker is a party[^key-b52642df0c809f1aa295b3f79f2dbaea]
+## 36D. Transaction to which the broker is a party[^c-b52642df0c809f1aa295b3f79f2dbaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There are excluded from article 36A activities in relation to a regulated credit
 
 ## Annotations
 
-[^key-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)
+[^c-b52642df0c809f1aa295b3f79f2dbaea]: Textual amendment: Pt. II Ch. 6A, 6B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [4](https://www.legislation.gov.uk/uksi/2013/1881/article/4)

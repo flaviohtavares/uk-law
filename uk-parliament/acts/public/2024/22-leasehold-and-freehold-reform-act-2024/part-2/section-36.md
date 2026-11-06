@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. LRHUDA 1993: determining price payable for collective enfranchisement or new lease[^key-e408dcda6fcabe8a69658cee549b7174]
+## 36. LRHUDA 1993: determining price payable for collective enfranchisement or new lease[^c-e408dcda6fcabe8a69658cee549b7174]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e408dcda6fcabe8a69658cee549b7174]: Commencement: S. 36 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e408dcda6fcabe8a69658cee549b7174]: Commencement: S. 36 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

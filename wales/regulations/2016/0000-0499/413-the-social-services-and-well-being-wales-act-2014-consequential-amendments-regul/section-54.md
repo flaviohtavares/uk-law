@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**54.**[^key-44b04aca3473f20cc2be537b5614fdcc] In Schedule 5—
+**54.**[^c-44b04aca3473f20cc2be537b5614fdcc] In Schedule 5—
 
 - (a) in paragraph 5A(7A)(a)[^f00064] (unfair paternity leave provisions) after “Children Act 1989” insert “or section 81 of the Social Services and Well-being (Wales) Act 2014”;
 - (b) for paragraph 5A(7A)(b) substitute—
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44b04aca3473f20cc2be537b5614fdcc]: Commencement: Reg. 54 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-44b04aca3473f20cc2be537b5614fdcc]: Commencement: Reg. 54 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00064]: Footnote: Paragraph 5A was inserted by the Pensions Act 2004, section 265(1) and sub-paragraph (7A) was inserted by the Children and Families Act 2014, Schedule 7, paragraphs 1, 2(1), (5).
 

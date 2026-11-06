@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.27. Vacating registration on dismissal of petition[^key-6d828dc0a681dc640a47014adf896357]
+## 6.27. Vacating registration on dismissal of petition[^c-6d828dc0a681dc640a47014adf896357]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d828dc0a681dc640a47014adf896357]: Commencement: [Rule 6.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6d828dc0a681dc640a47014adf896357]: Commencement: [Rule 6.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00136]: Marginal citation: \[FORM 6.22\]

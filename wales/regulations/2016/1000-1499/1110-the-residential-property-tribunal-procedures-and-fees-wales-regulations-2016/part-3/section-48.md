@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Fees for applications made under the 2015 Act[^key-d6b1172f14fea578a4d9ce7bc0d61f85]
+## 48. Fees for applications made under the 2015 Act[^c-d6b1172f14fea578a4d9ce7bc0d61f85]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to regulation 51(2) a fee of £155 is payable for an application to a tr
 
 ## Annotations
 
-[^key-d6b1172f14fea578a4d9ce7bc0d61f85]: Commencement: Reg. 48 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-d6b1172f14fea578a4d9ce7bc0d61f85]: Commencement: Reg. 48 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

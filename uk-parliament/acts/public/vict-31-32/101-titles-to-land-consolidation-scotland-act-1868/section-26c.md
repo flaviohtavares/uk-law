@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26C. Construction of reference to service of heir[^key-5ae200e2e87694be345ef4a7acfaabf8]
+## 26C. Construction of reference to service of heir[^c-5ae200e2e87694be345ef4a7acfaabf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A reference in any enactment or deed to a decree of service of heir (however exp
 
 ## Annotations
 
-[^key-5ae200e2e87694be345ef4a7acfaabf8]: Textual amendment: Ss. 26A-26C inserted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 68](https://www.legislation.gov.uk/asp/2000/5/section/68), [71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-5ae200e2e87694be345ef4a7acfaabf8]: Textual amendment: Ss. 26A-26C inserted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 68](https://www.legislation.gov.uk/asp/2000/5/section/68), [71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

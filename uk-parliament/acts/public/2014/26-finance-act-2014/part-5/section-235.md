@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person carrying on a business in the course of which the person is, or has been, a promoter in relation to a relevant proposal or relevant arrangements carries on that business “as a promoter”.
 
-(1A)[^key-49914db727a2a2bda38408478a31e670] For the purposes of this Part, a person is treated as carrying on a business as a promoter if the person is a member of a promotion structure (whether or not the person carries on a business).
+(1A)[^c-49914db727a2a2bda38408478a31e670] For the purposes of this Part, a person is treated as carrying on a business as a promoter if the person is a member of a promotion structure (whether or not the person carries on a business).
 
 Schedule 33A describes the cases in which a person is a member of a promotion structure.
 
@@ -54,4 +54,4 @@ Schedule 33A describes the cases in which a person is a member of a promotion st
 
 ## Annotations
 
-[^key-49914db727a2a2bda38408478a31e670]: Textual amendment: [S. 235(1A)](https://www.legislation.gov.uk/ukpga/2014/26/section/235/1A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/9)
+[^c-49914db727a2a2bda38408478a31e670]: Textual amendment: [S. 235(1A)](https://www.legislation.gov.uk/ukpga/2014/26/section/235/1A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/9)

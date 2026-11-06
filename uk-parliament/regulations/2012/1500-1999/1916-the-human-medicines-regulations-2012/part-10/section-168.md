@@ -40,7 +40,7 @@ summary: ''
 
 (7) Condition F is that the sale or supply of the medicinal product is in response to an unsolicited order.
 
-(8)[^key-67581a097cc9b16fd26b55345d5c0600] Condition G is that if the medicinal product is—
+(8)[^c-67581a097cc9b16fd26b55345d5c0600] Condition G is that if the medicinal product is—
 
 - (a) manufactured or assembled in the United Kingdom or imported into the United Kingdom from—
   - (i) in the case of a product for sale or supply in Northern Ireland, a country other than an EEA State, or
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67581a097cc9b16fd26b55345d5c0600]: Textual amendment: Reg. 168(8) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 135](https://www.legislation.gov.uk/uksi/2019/775/regulation/135) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/103))
+[^c-67581a097cc9b16fd26b55345d5c0600]: Textual amendment: Reg. 168(8) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 135](https://www.legislation.gov.uk/uksi/2019/775/regulation/135) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/103))

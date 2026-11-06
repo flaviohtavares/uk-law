@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Directions by Scottish Ministers[^key-60c7cc052eef9faa3b90abc2ec7757e2]
+## 118. Directions by Scottish Ministers[^c-60c7cc052eef9faa3b90abc2ec7757e2]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ After section 42 of the 2005 Act, insert—
 
 ## Annotations
 
-[^key-60c7cc052eef9faa3b90abc2ec7757e2]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2012/8/section/118) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-60c7cc052eef9faa3b90abc2ec7757e2]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2012/8/section/118) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

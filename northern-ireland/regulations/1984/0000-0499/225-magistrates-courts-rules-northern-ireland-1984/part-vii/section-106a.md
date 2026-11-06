@@ -24,13 +24,13 @@ summary: ''
 
 - (a) the duration of the order;
 - (b) any conditions and requirements of the order;
-- (c)[^key-c79aaba4c3c9ef902900e6dbbbd66909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c79aaba4c3c9ef902900e6dbbbd66909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a magistrates’ court amends, extends or revokes a supervised activity order, it shall cause an entry to that effect to be made in the Order Book, opposite the entry relating to the making of the order.
 
-(3)[^key-5ae0689b1f1fc8f23f837ae48c1e3c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5ae0689b1f1fc8f23f837ae48c1e3c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-22b6937b358ce525e9be4200df3f01b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-22b6937b358ce525e9be4200df3f01b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any complaint made in respect of a breach of a requirement of a supervised activity order and any application to revoke, extend or amend a supervised activity order under Schedule 3 to the Criminal Justice (Northern Ireland) Order 2008, shall be accompanied by a copy of the order to which the complaint or the application relates.
 
@@ -40,8 +40,8 @@ summary: ''
 
 [^f00159]: Footnote: Rules 105A to 105B inserted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 01.01.12
 
-[^key-c79aaba4c3c9ef902900e6dbbbd66909]: Textual amendment: [Rule 105A(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/1/c) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-c79aaba4c3c9ef902900e6dbbbd66909]: Textual amendment: [Rule 105A(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/1/c) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-5ae0689b1f1fc8f23f837ae48c1e3c66]: Textual amendment: [Rule 105A(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/3) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-5ae0689b1f1fc8f23f837ae48c1e3c66]: Textual amendment: [Rule 105A(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/3) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-22b6937b358ce525e9be4200df3f01b5]: Textual amendment: [Rule 105A(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-22b6937b358ce525e9be4200df3f01b5]: Textual amendment: [Rule 105A(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/105A/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(16)](https://www.legislation.gov.uk/nisr/2016/304/article/3/16); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

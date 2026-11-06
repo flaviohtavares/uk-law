@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60D. Trade: exception relating to the safety of aircraft and ships[^key-ba8a8b3a4ffe187e772513c0f9d11c28]
+## 60D. Trade: exception relating to the safety of aircraft and ships[^c-ba8a8b3a4ffe187e772513c0f9d11c28]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba8a8b3a4ffe187e772513c0f9d11c28]: Textual amendment: [Reg. 60D](https://www.legislation.gov.uk/uksi/2019/855/regulation/60D) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/395/regulation/25)
+[^c-ba8a8b3a4ffe187e772513c0f9d11c28]: Textual amendment: [Reg. 60D](https://www.legislation.gov.uk/uksi/2019/855/regulation/60D) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/395/regulation/25)

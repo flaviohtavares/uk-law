@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-d9597ac56aab90b92ab39a81daca3d44]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-d9597ac56aab90b92ab39a81daca3d44]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 15th December 2006
 
-[^key-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d9597ac56aab90b92ab39a81daca3d44]
+## 1. Title and commencement[^c-d9597ac56aab90b92ab39a81daca3d44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d9597ac56aab90b92ab39a81daca3d44]
+## 2. Interpretation[^c-d9597ac56aab90b92ab39a81daca3d44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the principal Regulations[^key-d9597ac56aab90b92ab39a81daca3d44]
+## 3. Amendment to the principal Regulations[^c-d9597ac56aab90b92ab39a81daca3d44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d9597ac56aab90b92ab39a81daca3d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d9597ac56aab90b92ab39a81daca3d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9597ac56aab90b92ab39a81daca3d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9597ac56aab90b92ab39a81daca3d44]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))
+[^c-d9597ac56aab90b92ab39a81daca3d44]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy Direct Payments and Support Schemes (Cross Compliance) Regulations (Northern Ireland) 2014 (S.R. 2014/291)](https://www.legislation.gov.uk/nisr/2014/291), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/291/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/291/schedule/2) (with [reg. 8(2)](https://www.legislation.gov.uk/nisr/2014/291/regulation/8/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Time for presentation or amendment of Senedd election petition[^key-98fc8f5f2aecbf3c5c82676c638de47f]
+## 90. Time for presentation or amendment of Senedd election petition[^c-98fc8f5f2aecbf3c5c82676c638de47f]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ the petition may be presented within 28 days after the date of the payment.
 
 ## Annotations
 
-[^key-98fc8f5f2aecbf3c5c82676c638de47f]: Commencement: Art. 90 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-98fc8f5f2aecbf3c5c82676c638de47f]: Commencement: Art. 90 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

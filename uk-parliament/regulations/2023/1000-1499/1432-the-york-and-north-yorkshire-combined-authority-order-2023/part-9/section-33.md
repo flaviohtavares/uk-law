@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Transfer of police and crime commissioner functions[^key-5744d444e99869a39be2c4c57c80312b]
+## 33. Transfer of police and crime commissioner functions[^c-5744d444e99869a39be2c4c57c80312b]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5744d444e99869a39be2c4c57c80312b]: Commencement: Art. 33 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-5744d444e99869a39be2c4c57c80312b]: Commencement: Art. 33 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00095]: Footnote: “PCC functions” is defined at section 107F(3) of the 2009 Act.
 

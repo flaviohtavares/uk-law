@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Reimbursement and compensation in connection with designation[^key-342e982447259a75243aba80ed68920d]
+## 328. Reimbursement and compensation in connection with designation[^c-342e982447259a75243aba80ed68920d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Secretary of State may reimburse a person in respect of expenditure reasonab
 
 ## Annotations
 
-[^key-342e982447259a75243aba80ed68920d]: Commencement: S. 328 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-342e982447259a75243aba80ed68920d]: Commencement: S. 328 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

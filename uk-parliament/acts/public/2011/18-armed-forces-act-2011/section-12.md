@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendments relating to new rank of lance corporal in RAF Regiment[^key-55611db1ddb1aa34c3ac28e9541aff47]
+## 12. Amendments relating to new rank of lance corporal in RAF Regiment[^c-55611db1ddb1aa34c3ac28e9541aff47]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55611db1ddb1aa34c3ac28e9541aff47]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/18/section/12) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-55611db1ddb1aa34c3ac28e9541aff47]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/18/section/12) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

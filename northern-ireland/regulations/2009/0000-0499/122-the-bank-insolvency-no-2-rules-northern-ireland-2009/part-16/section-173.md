@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 173. Litigation expenses and property subject to a floating charge-request for approval or authorisation[^key-378ccab7754d63d59de13901a064577c]
+## 173. Litigation expenses and property subject to a floating charge-request for approval or authorisation[^c-378ccab7754d63d59de13901a064577c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.228C of the 1991 Rules.
 
 ## Annotations
 
-[^key-378ccab7754d63d59de13901a064577c]: Commencement: Rule 173 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-378ccab7754d63d59de13901a064577c]: Commencement: Rule 173 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

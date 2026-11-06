@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**107.**[^key-0b2a94894da952e40e1d0a43dd299d2d] After the heading in Schedule 2 (local authority support for children and families) insert—
+**107.**[^c-0b2a94894da952e40e1d0a43dd299d2d] After the heading in Schedule 2 (local authority support for children and families) insert—
 
 > **Application to local authorities in England**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b2a94894da952e40e1d0a43dd299d2d]: Commencement: Reg. 107 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0b2a94894da952e40e1d0a43dd299d2d]: Commencement: Reg. 107 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

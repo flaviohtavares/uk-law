@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Power to amend licence conditions: gas[^key-8af42ab2c5c1a24b5fb738390f644fa7]
+## 94. Power to amend licence conditions: gas[^c-8af42ab2c5c1a24b5fb738390f644fa7]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8af42ab2c5c1a24b5fb738390f644fa7]: Commencement: S. 94 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/iii)
+[^c-8af42ab2c5c1a24b5fb738390f644fa7]: Commencement: S. 94 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(iii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/iii)

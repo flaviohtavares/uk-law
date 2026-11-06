@@ -37,22 +37,22 @@ Made
 
 The Department of Justice makes the following order in exercise of the power conferred by section 30(2) and (3) of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 [^f00001]
 
-## 1. Citation and Interpretation[^key-e1007f45975c2338889159a0725b8178]
+## 1. Citation and Interpretation[^c-e1007f45975c2338889159a0725b8178]
 
 This Order may be cited as the Justice (Sexual Offences and Trafficking Victims) (2022 Act) (Commencement No.3) Order (Northern Ireland) 2023.
 
-## 2.[^key-aee856e0affe0222abedc62341e74b97]
+## 2.[^c-aee856e0affe0222abedc62341e74b97]
 
 In this Order “**the Act**” means the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022.
 
-## 3. Appointed Day[^key-d9c21fe9422446aaf292020983a5e856]
+## 3. Appointed Day[^c-d9c21fe9422446aaf292020983a5e856]
 
 The following provisions of the Act come into operation on 27<sup>th</sup> November 2023 –
 
 - (a) Chapter 1 of Part 1; and
 - (b) Schedules 1 to 3.
 
-## 4. Transitional Provision[^key-2f6452c017150a28b4e6c7a86bd101ea]
+## 4. Transitional Provision[^c-2f6452c017150a28b4e6c7a86bd101ea]
 
 Schedule 3 shall have effect in relation to any offence committed under section 16 of the Act on or after 28<sup>th</sup> September 2023.
 
@@ -110,10 +110,10 @@ Chapter 3 of Part 1 (Guidance on Part 1)
 
 [^f00001]: Footnote: [2022 c.19 (N.I.)](https://www.legislation.gov.uk/nia/2022/19)
 
-[^key-e1007f45975c2338889159a0725b8178]: Commencement: Art. 1 in operation at made date
+[^c-e1007f45975c2338889159a0725b8178]: Commencement: Art. 1 in operation at made date
 
-[^key-aee856e0affe0222abedc62341e74b97]: Commencement: Art. 2 in operation at made date
+[^c-aee856e0affe0222abedc62341e74b97]: Commencement: Art. 2 in operation at made date
 
-[^key-d9c21fe9422446aaf292020983a5e856]: Commencement: Art. 3 in operation at made date
+[^c-d9c21fe9422446aaf292020983a5e856]: Commencement: Art. 3 in operation at made date
 
-[^key-2f6452c017150a28b4e6c7a86bd101ea]: Commencement: Art. 4 in operation at made date
+[^c-2f6452c017150a28b4e6c7a86bd101ea]: Commencement: Art. 4 in operation at made date

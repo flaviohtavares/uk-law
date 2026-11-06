@@ -24,7 +24,7 @@ summary: ''
 
 (2) The lifetime allowance charge under section 214 of FA 2004 arises because a benefit becomes payable to a person and the person and the scheme manager are jointly and severally liable to the charge.
 
-(3) The annual allowance charge under section 227 of FA 2004 arises in respect of a person who serves a notice under section 237B[^key-e9fa69fb93bf3aa5319fd9fd9717ee6e] of that Act [^c22421251].
+(3) The annual allowance charge under section 227 of FA 2004 arises in respect of a person who serves a notice under section 237B[^c-e9fa69fb93bf3aa5319fd9fd9717ee6e] of that Act [^c22421251].
 
 (4) The scheme manager must pay the charge.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9fa69fb93bf3aa5319fd9fd9717ee6e]: Textual amendment: Word in [reg. 182(3)](https://www.legislation.gov.uk/uksi/2014/512/regulation/182/3) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2652/regulation/15)
+[^c-e9fa69fb93bf3aa5319fd9fd9717ee6e]: Textual amendment: Word in [reg. 182(3)](https://www.legislation.gov.uk/uksi/2014/512/regulation/182/3) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2652/regulation/15)
 
 [^c22421251]: Marginal citation: Section 238A was inserted by the [Finance Act 2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11), [Schedule 17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17).

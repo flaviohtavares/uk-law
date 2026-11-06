@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Minimum sentences for particular offences[^key-5c23f5b8e6824da4bf39b264c549dec4]
+## 124. Minimum sentences for particular offences[^c-5c23f5b8e6824da4bf39b264c549dec4]
 
 *Extent: E+W*
 
@@ -113,4 +113,4 @@ it is to be taken to have been committed on the last of those days.
 
 ## Annotations
 
-[^key-5c23f5b8e6824da4bf39b264c549dec4]: Commencement: S. 124 in force at 28.6.2022, see [s. 208(5)(k)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/k)
+[^c-5c23f5b8e6824da4bf39b264c549dec4]: Commencement: S. 124 in force at 28.6.2022, see [s. 208(5)(k)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/k)

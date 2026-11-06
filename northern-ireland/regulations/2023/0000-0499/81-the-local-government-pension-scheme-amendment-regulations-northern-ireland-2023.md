@@ -46,17 +46,17 @@ In accordance with section 21 of that Act, the Department has consulted with suc
 
 The retrospective provisions contained in these Regulations do not appear to the Department to have significant adverse effects in relation to the pension payable to or in respect of members of the scheme established by The Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00005], or the schemes preserved by the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^f00006], nor to have significant adverse effect in any other way in relation to members of those schemes. Accordingly, the procedures set out in section 23 of the Public Service Pensions Act (Northern Ireland) 2014 are not applicable in respect of these Regulations.
 
-## 1. Citation, commencement and retrospection[^key-acfd45e839da294ff7568753e14d74f5]
+## 1. Citation, commencement and retrospection[^c-acfd45e839da294ff7568753e14d74f5]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 and except as provided for in paragraph (2) shall come into operation on 12th June 2023.
 
 (2) These Regulations shall come into effect from 1st April 2023.
 
-## 2. Amendment of the Local Government Pension Scheme Regulations (Northern Ireland) 2014[^key-22286dfdd766a63cd6a4ca885b61967b]
+## 2. Amendment of the Local Government Pension Scheme Regulations (Northern Ireland) 2014[^c-22286dfdd766a63cd6a4ca885b61967b]
 
 The Local Government Pension Scheme Regulations (Northern Ireland) 2014 shall be amended in accordance with regulations 3 to 8.
 
-## 3. Revaluation date: revaluation adjustments, members[^key-7393b5bb44f357a873f35158d9dd293f]
+## 3. Revaluation date: revaluation adjustments, members[^c-7393b5bb44f357a873f35158d9dd293f]
 
 (1) In regulation 25 (active member’s pension accounts)—
 
@@ -125,7 +125,7 @@ The Local Government Pension Scheme Regulations (Northern Ireland) 2014 shall be
 
   .
 
-## 4. Survivor benefits: revaluation adjustments, survivor benefits for partners and children of active members[^key-30a8578aed7124a36d5cc15fc652091b]
+## 4. Survivor benefits: revaluation adjustments, survivor benefits for partners and children of active members[^c-30a8578aed7124a36d5cc15fc652091b]
 
 (1) In regulation 41 (survivor benefits: partners of active members)—
 
@@ -171,7 +171,7 @@ The Local Government Pension Scheme Regulations (Northern Ireland) 2014 shall be
 
 .
 
-## 5. Survivor benefits: revaluation adjustments, death grants: deferred and pensioner credit members[^key-bcf3b85333738c25d36c4a0a73765629]
+## 5. Survivor benefits: revaluation adjustments, death grants: deferred and pensioner credit members[^c-bcf3b85333738c25d36c4a0a73765629]
 
 In regulation 46 (death grants: deferred members and pension credit members)—
 
@@ -187,7 +187,7 @@ In regulation 46 (death grants: deferred members and pension credit members)—
   ; and
 - (b) in paragraph (5), at the end insert “and paragraph (3A) does not apply”.
 
-## 6. Revaluation date: revaluation adjustments, survivor benefits for partners and children of deferred members[^key-e55d8a4edcdf4be95e849787e787276c]
+## 6. Revaluation date: revaluation adjustments, survivor benefits for partners and children of deferred members[^c-e55d8a4edcdf4be95e849787e787276c]
 
 (1) In regulation 47 (survivor benefits: partners of deferred members)—
 
@@ -221,7 +221,7 @@ In regulation 46 (death grants: deferred members and pension credit members)—
 
 - (a) in paragraph (4)—
   - (i) for “at the beginning of” substitute “on the revaluation date in”; and
-  - (ii)[^key-504e13eefc919d612463b00d0ce02e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-504e13eefc919d612463b00d0ce02e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (5), substitute—
 
   > (5) Where—
@@ -281,9 +281,9 @@ In regulation 46 (death grants: deferred members and pension credit members)—
 
   .
 
-## 7. Survivor benefits: revaluation adjustments, death grants and survivor benefits: pensioner members[^key-f921a9462c925dacaff7de59abcb6836]
+## 7. Survivor benefits: revaluation adjustments, death grants and survivor benefits: pensioner members[^c-f921a9462c925dacaff7de59abcb6836]
 
-(1) In regulation 51 (death grants: pensioner members)[^f00007] after paragraph (4) insert[^key-b5166a5b5abecaf718f0d4875537d6c7] —
+(1) In regulation 51 (death grants: pensioner members)[^f00007] after paragraph (4) insert[^c-b5166a5b5abecaf718f0d4875537d6c7] —
 
 > (6) For the purposes of a death grant payable in accordance with paragraph (3) (but not for the purposes of a death grant derived from a pension credit payable in accordance with paragraph (4)), if the member—
 >
@@ -386,7 +386,7 @@ In regulation 46 (death grants: deferred members and pension credit members)—
 
   .
 
-## 8. Amendments to definitions[^key-eace17380ae863c6bf514759f42c1465]
+## 8. Amendments to definitions[^c-eace17380ae863c6bf514759f42c1465]
 
 In Schedule 1 (interpretation)—
 
@@ -461,26 +461,26 @@ Regulation 8 substitutes the definition of “revaluation adjustment” at Sched
 
 [^f00006]: Footnote: [S.R. 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189) as amended by [S.R. 2015 No. 162](https://www.legislation.gov.uk/nisr/2015/162), [S.R. 2016 No. 128](https://www.legislation.gov.uk/nisr/2016/128), [S.R. 2016 No. 329](https://www.legislation.gov.uk/nisr/2016/329), [S.R. 2019 No. 206](https://www.legislation.gov.uk/nisr/2019/206), [S.R. 2020 No. 77](https://www.legislation.gov.uk/nisr/2020/77) and [S.R 2022 No. 163](https://www.legislation.gov.uk/nisr/2022/163)
 
-[^key-acfd45e839da294ff7568753e14d74f5]: Commencement: Reg. 1 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-acfd45e839da294ff7568753e14d74f5]: Commencement: Reg. 1 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-22286dfdd766a63cd6a4ca885b61967b]: Commencement: Reg. 2 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-22286dfdd766a63cd6a4ca885b61967b]: Commencement: Reg. 2 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-7393b5bb44f357a873f35158d9dd293f]: Commencement: Reg. 3 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-7393b5bb44f357a873f35158d9dd293f]: Commencement: Reg. 3 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-30a8578aed7124a36d5cc15fc652091b]: Commencement: Reg. 4 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-30a8578aed7124a36d5cc15fc652091b]: Commencement: Reg. 4 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-bcf3b85333738c25d36c4a0a73765629]: Commencement: Reg. 5 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-bcf3b85333738c25d36c4a0a73765629]: Commencement: Reg. 5 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-e55d8a4edcdf4be95e849787e787276c]: Commencement: Reg. 6 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-e55d8a4edcdf4be95e849787e787276c]: Commencement: Reg. 6 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
-[^key-504e13eefc919d612463b00d0ce02e68]: Textual amendment: [Reg. 6(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/2/a/ii) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/18/2)
+[^c-504e13eefc919d612463b00d0ce02e68]: Textual amendment: [Reg. 6(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/2/a/ii) omitted (1.10.2023) by virtue of [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2023/149/regulation/18/2)
 
-[^key-f921a9462c925dacaff7de59abcb6836]: Commencement: Reg. 7 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-f921a9462c925dacaff7de59abcb6836]: Commencement: Reg. 7 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 51(5) was omitted by regulation 70 of [S.R. 2019 No. 206](https://www.legislation.gov.uk/nisr/2019/206)
 
-[^key-b5166a5b5abecaf718f0d4875537d6c7]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/7/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [18(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/18/3)
+[^c-b5166a5b5abecaf718f0d4875537d6c7]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/7/1) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [18(3)](https://www.legislation.gov.uk/nisr/2023/149/regulation/18/3)
 
-[^key-eace17380ae863c6bf514759f42c1465]: Commencement: Reg. 8 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
+[^c-eace17380ae863c6bf514759f42c1465]: Commencement: Reg. 8 in operation at 12.6.2023 with effect in accordance with reg. 1(2), see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2)
 
 [^f00008]: Footnote: This definition was substituted by regulation 81(d) of [S.R. 2019 No. 206](https://www.legislation.gov.uk/nisr/2019/206)

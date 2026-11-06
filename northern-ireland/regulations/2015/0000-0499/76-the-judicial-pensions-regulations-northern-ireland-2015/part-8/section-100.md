@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies on the death of an active member of this scheme in relation to a continuous period of pensionable service of at least 12 months.
 
-(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member's period of pensionable service under a relevant[^key-9de7ad9b2b17d5ceefa291aca574c2d7] scheme before the transition date for that member.
+(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member's period of pensionable service under a relevant[^c-9de7ad9b2b17d5ceefa291aca574c2d7] scheme before the transition date for that member.
 
 (3) The annual rate of a dependant's earned pension is an amount equal to 37.5% of the amount of full retirement earned pension that would have been specified in the member's full retirement account under regulation 48(2) had P become entitled to the immediate payment of a full retirement pension on the date of P's death.
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) the amount of accrued earned pension not attributable to a transfer value payment; and
   - (ii) the enhancement fraction of the amount mentioned in paragraph (i);
 - (b) if the member is a transition member with continuity of service, the accrued earned pension includes an additional amount equal to the lesser of—
-  - (i) the total amount of accrued earned pension under this scheme which is not attributable to a transfer value payment and the equivalent of accrued earned pension earned under a relevant[^key-5d1d96390e9d41a1faf24bd865d7c441] scheme which is not attributable to a transfer value payment; and
+  - (i) the total amount of accrued earned pension under this scheme which is not attributable to a transfer value payment and the equivalent of accrued earned pension earned under a relevant[^c-5d1d96390e9d41a1faf24bd865d7c441] scheme which is not attributable to a transfer value payment; and
   - (ii) the enhancement fraction of the amount mentioned in paragraph (a)(i); and
 - (c) the early payment reduction (if any), the commutation amount (if any) and the total allocation amount (if any) are not subtracted.
 
@@ -53,12 +53,12 @@ summary: ''
     - (i) for a member appointed for a fixed term, the day on which that term would have ended; and
     - (ii) for all other appointments, the day before the day on which the member would have reached prospective normal pension age if the member had lived until that age.
 
-(7)[^key-7ce2b1951f9f67b225407c1d42b0de95] In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+(7)[^c-7ce2b1951f9f67b225407c1d42b0de95] In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
 
 ## Annotations
 
-[^key-9de7ad9b2b17d5ceefa291aca574c2d7]: Textual amendment: Words in [reg. 100(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/a)
+[^c-9de7ad9b2b17d5ceefa291aca574c2d7]: Textual amendment: Words in [reg. 100(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/a)
 
-[^key-5d1d96390e9d41a1faf24bd865d7c441]: Textual amendment: Words in [reg. 100(5)(b)(i)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/5/b/i) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/a)
+[^c-5d1d96390e9d41a1faf24bd865d7c441]: Textual amendment: Words in [reg. 100(5)(b)(i)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/5/b/i) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/a)
 
-[^key-7ce2b1951f9f67b225407c1d42b0de95]: Textual amendment: [Reg. 100(7)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/7) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/b)
+[^c-7ce2b1951f9f67b225407c1d42b0de95]: Textual amendment: [Reg. 100(7)](https://www.legislation.gov.uk/nisr/2015/76/regulation/100/7) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [8(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/8/b)

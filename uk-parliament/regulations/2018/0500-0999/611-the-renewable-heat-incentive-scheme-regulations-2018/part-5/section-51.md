@@ -47,8 +47,8 @@ summary: ''
 (3) The requirements in this paragraph are—
 
 - (a) that the fuel would, if used in a plant with an efficiency of at least 0.7, meet the greenhouse gas criteria;
-- (b) that any fuel which is included in the list on or after 6th July 2015 meets the land criteria;[^key-43aae4c5c77c2761f2bf869609f65170]
-- (c)[^key-91b91d911f7a5d5b0e1a1f9123c52207] that any fuel which is included in the list on or after 1st April 2022 meets the fuel quality criteria.
+- (b) that any fuel which is included in the list on or after 6th July 2015 meets the land criteria;[^c-43aae4c5c77c2761f2bf869609f65170]
+- (c)[^c-91b91d911f7a5d5b0e1a1f9123c52207] that any fuel which is included in the list on or after 1st April 2022 meets the fuel quality criteria.
 
 (4) The requirements in this paragraph are that the fuel—
 
@@ -80,6 +80,6 @@ F is the energy content of all the fuels used by the plant.
 
 ## Annotations
 
-[^key-43aae4c5c77c2761f2bf869609f65170]: Textual amendment: Word in [reg. 51(3)(b)](https://www.legislation.gov.uk/uksi/2018/611/regulation/51/3/b) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [21(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/21/a)
+[^c-43aae4c5c77c2761f2bf869609f65170]: Textual amendment: Word in [reg. 51(3)(b)](https://www.legislation.gov.uk/uksi/2018/611/regulation/51/3/b) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [21(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/21/a)
 
-[^key-91b91d911f7a5d5b0e1a1f9123c52207]: Textual amendment: [Reg. 51(3)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/51/3/c) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [21(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/21/b)
+[^c-91b91d911f7a5d5b0e1a1f9123c52207]: Textual amendment: [Reg. 51(3)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/51/3/c) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [21(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/21/b)

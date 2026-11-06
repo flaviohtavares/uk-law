@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44F. Leader to continue to hold office as councillor[^key-fc162288bb65dc3c97bcf4b6323c072c]
+## 44F. Leader to continue to hold office as councillor[^c-fc162288bb65dc3c97bcf4b6323c072c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc162288bb65dc3c97bcf4b6323c072c]: Textual amendment: S. 44F repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 63](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/63), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-fc162288bb65dc3c97bcf4b6323c072c]: Textual amendment: S. 44F repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 63](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/63), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)

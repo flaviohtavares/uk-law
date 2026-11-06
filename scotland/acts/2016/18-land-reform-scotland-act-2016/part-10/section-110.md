@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Tenant's offer to relinquish 1991 Act tenancy[^key-10f1859e0863e28799a18ded3be1d0cd][^key-c5401e336d6789f68347a1405b0740bc]
+## 110. Tenant's offer to relinquish 1991 Act tenancy[^c-10f1859e0863e28799a18ded3be1d0cd][^c-c5401e336d6789f68347a1405b0740bc]
 
 *Extent: S*
 
@@ -493,6 +493,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10f1859e0863e28799a18ded3be1d0cd]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/18/section/110) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-10f1859e0863e28799a18ded3be1d0cd]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/18/section/110) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
 
-[^key-c5401e336d6789f68347a1405b0740bc]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/18/section/110) in force at 28.2.2021 in so far as not already in force by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
+[^c-c5401e336d6789f68347a1405b0740bc]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2016/18/section/110) in force at 28.2.2021 in so far as not already in force by [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)

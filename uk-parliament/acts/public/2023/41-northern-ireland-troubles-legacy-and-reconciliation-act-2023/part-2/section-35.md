@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Biometric material[^key-e22bda8c330bb7295a5f25c9097c6bf8][^key-81cd00d1639d9b40b5b853330d1cf64d]
+## 35. Biometric material[^c-e22bda8c330bb7295a5f25c9097c6bf8][^c-81cd00d1639d9b40b5b853330d1cf64d]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e22bda8c330bb7295a5f25c9097c6bf8]: Commencement: S. 35 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-e22bda8c330bb7295a5f25c9097c6bf8]: Commencement: S. 35 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-81cd00d1639d9b40b5b853330d1cf64d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/41/section/35) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/f)
+[^c-81cd00d1639d9b40b5b853330d1cf64d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/41/section/35) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/f)

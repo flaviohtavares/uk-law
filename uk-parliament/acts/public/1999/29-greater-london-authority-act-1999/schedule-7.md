@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Procedure for making of substitute calculations by the Authority[^key-2f2faf8033f9faf001693924fd0eded8]
+## SCHEDULE 7 — Procedure for making of substitute calculations by the Authority[^c-2f2faf8033f9faf001693924fd0eded8]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ Section 98.
 
 ### Failure of Mayor to comply with paragraph 2(3)
 
-**3.** (1) This paragraph applies if the Mayor has not complied with paragraph 2(3) above before the beginning of the period of restriction for the purposes of section 96 of this Act or section 52ZW[^key-56ac729845a1e91c584b2932923436a9] of the [^c12809811]Local Government Finance Act 1992.
+**3.** (1) This paragraph applies if the Mayor has not complied with paragraph 2(3) above before the beginning of the period of restriction for the purposes of section 96 of this Act or section 52ZW[^c-56ac729845a1e91c584b2932923436a9] of the [^c12809811]Local Government Finance Act 1992.
 
 (2) Where this paragraph applies, the Assembly shall prepare a draft of their proposals for the substitute calculations, after consulting each of the functional bodies affected by the proposals.
 
@@ -65,18 +65,18 @@ Section 98.
 
 (5) If no amendments are made on consideration of the first draft, the first draft shall be deemed to be approved without amendment.
 
-### Limit on Assembly's powers to amend Mayor's first draft budget for the Assembly (Extent: E+W)[^key-fac454a4528b4045085337b24379f1a1]
+### Limit on Assembly's powers to amend Mayor's first draft budget for the Assembly (Extent: E+W)[^c-fac454a4528b4045085337b24379f1a1]
 
-**4A (Extent: E+W).** (1 (Extent: E+W)) In exercising its powers of amendment under paragraph 4(3) above, the Assembly must not make amendments affecting the amount of the first draft component *(Extent: E+W)* council tax[^key-f33a81df941cc6cf5b2b7b5734794f13] *(Extent: E+W)* requirement for the Assembly if those amendments, taken together, contravene sub-paragraph (2) below. *(Extent: E+W)*
+**4A (Extent: E+W).** (1 (Extent: E+W)) In exercising its powers of amendment under paragraph 4(3) above, the Assembly must not make amendments affecting the amount of the first draft component *(Extent: E+W)* council tax[^c-f33a81df941cc6cf5b2b7b5734794f13] *(Extent: E+W)* requirement for the Assembly if those amendments, taken together, contravene sub-paragraph (2) below. *(Extent: E+W)*
 
 (2 (Extent: E+W)) Amendments contravene this sub-paragraph if— *(Extent: E+W)*
 
-- (a (Extent: E+W)) the effect of implementing the amendments is to increase the amount of the first draft component *(Extent: E+W)* council tax[^key-0eb69031b864941411bf2b05bff8cd81] *(Extent: E+W)* requirement for the Assembly, and *(Extent: E+W)*
+- (a (Extent: E+W)) the effect of implementing the amendments is to increase the amount of the first draft component *(Extent: E+W)* council tax[^c-0eb69031b864941411bf2b05bff8cd81] *(Extent: E+W)* requirement for the Assembly, and *(Extent: E+W)*
 - (b (Extent: E+W)) the condition in sub-paragraph (3) below is met. *(Extent: E+W)*
 
 (3 (Extent: E+W)) The condition is that— *(Extent: E+W)*
 
-- (a (Extent: E+W)) the first draft component *(Extent: E+W)* council tax[^key-9281c88c4c4c21d70b22576b82f58cf1] *(Extent: E+W)* requirement for the Assembly, after implementing the amendments, *(Extent: E+W)*
+- (a (Extent: E+W)) the first draft component *(Extent: E+W)* council tax[^c-9281c88c4c4c21d70b22576b82f58cf1] *(Extent: E+W)* requirement for the Assembly, after implementing the amendments, *(Extent: E+W)*
 
 exceeds *(Extent: E+W)*
 
@@ -84,7 +84,7 @@ exceeds *(Extent: E+W)*
 
 (4 (Extent: E+W)) This paragraph is without prejudice to section 49(2) of the Local Government Finance Act 1992 (substitute amount not to exceed previous amount (but see section 49(6) of that Act)). *(Extent: E+W)*
 
-(5 (Extent: E+W)) Find the adjusted previous component *(Extent: E+W)* council tax[^key-fc0ba5668aee25bccf2075602dcb8cd9] *(Extent: E+W)* requirement for the Assembly as follows. *(Extent: E+W)*
+(5 (Extent: E+W)) Find the adjusted previous component *(Extent: E+W)* council tax[^c-fc0ba5668aee25bccf2075602dcb8cd9] *(Extent: E+W)* requirement for the Assembly as follows. *(Extent: E+W)*
 
 (6 (Extent: E+W)) Find NM and OM, where— *(Extent: E+W)*
 
@@ -119,7 +119,7 @@ equals *(Extent: E+W)*
 
 - (a (Extent: E+W)) “ *(Extent: E+W)***component budget *(Extent: E+W)***” has the same meaning as in Schedule 6 to this Act; *(Extent: E+W)*
 - (b (Extent: E+W)) the “ *(Extent: E+W)***first draft component budget *(Extent: E+W)***” for any constituent body is the draft component budget for that body comprised in the first draft; *(Extent: E+W)*
-- (c (Extent: E+W)) the “ *(Extent: E+W)***first draft component *(Extent: E+W)* council tax[^key-fe7ac60f0e1960a07528288af5879148] *(Extent: E+W)* requirement *(Extent: E+W)***” for any constituent body is the component *(Extent: E+W)* council tax *(Extent: E+W)* requirement for the body as stated in the first draft component budget for the body. *(Extent: E+W)*
+- (c (Extent: E+W)) the “ *(Extent: E+W)***first draft component *(Extent: E+W)* council tax[^c-fe7ac60f0e1960a07528288af5879148] *(Extent: E+W)* requirement *(Extent: E+W)***” for any constituent body is the component *(Extent: E+W)* council tax *(Extent: E+W)* requirement for the body as stated in the first draft component budget for the body. *(Extent: E+W)*
 
 ### The Mayor’s final draft
 
@@ -155,7 +155,7 @@ the Mayor, at the time when he presents the final draft to the Assembly, shall l
 
 ### Failure of Mayor to present a final draft
 
-**6.** (1) This paragraph applies if the Mayor has complied with paragraph 2(3) above but has failed to comply with paragraph 5(4) above before the beginning of the period of restriction for the purposes of section 96 of this Act or section 52ZW[^key-32c64321cbcebf7065638d98b029211d] of the [^c12809821]Local Government Finance Act 1992.
+**6.** (1) This paragraph applies if the Mayor has complied with paragraph 2(3) above but has failed to comply with paragraph 5(4) above before the beginning of the period of restriction for the purposes of section 96 of this Act or section 52ZW[^c-32c64321cbcebf7065638d98b029211d] of the [^c12809821]Local Government Finance Act 1992.
 
 (2) Where this paragraph applies, a public meeting of the Assembly shall be held to determine the Authority’s substitute calculations.
 
@@ -177,18 +177,18 @@ the Mayor, at the time when he presents the final draft to the Assembly, shall l
 
 (6) The Authority’s substitute calculations shall be those in the final draft as approved by the Assembly with the amendments (if any) made in accordance with sub-paragraphs (3) and (4) above.
 
-### Limit on Assembly's power to amend Mayor's final draft budget for the Assembly (Extent: E+W)[^key-1da0858f91eee86e56981ec91115e31d]
+### Limit on Assembly's power to amend Mayor's final draft budget for the Assembly (Extent: E+W)[^c-1da0858f91eee86e56981ec91115e31d]
 
-**7A (Extent: E+W).** (1 (Extent: E+W)) In exercising its powers of amendment under paragraph 7 above, the Assembly must not make amendments affecting the amount of the final draft component *(Extent: E+W)* council tax[^key-c55db70f6a96cbe058a9666e03b8520c] *(Extent: E+W)* requirement for the Assembly if those amendments, taken together, contravene sub-paragraph (2) below. *(Extent: E+W)*
+**7A (Extent: E+W).** (1 (Extent: E+W)) In exercising its powers of amendment under paragraph 7 above, the Assembly must not make amendments affecting the amount of the final draft component *(Extent: E+W)* council tax[^c-c55db70f6a96cbe058a9666e03b8520c] *(Extent: E+W)* requirement for the Assembly if those amendments, taken together, contravene sub-paragraph (2) below. *(Extent: E+W)*
 
 (2 (Extent: E+W)) Amendments contravene this sub-paragraph if— *(Extent: E+W)*
 
-- (a (Extent: E+W)) the effect of implementing the amendments is to increase the amount of the final draft component *(Extent: E+W)* council tax[^key-f4510c15567b554f65ada0059d06a9da] *(Extent: E+W)* requirement for the Assembly, and *(Extent: E+W)*
+- (a (Extent: E+W)) the effect of implementing the amendments is to increase the amount of the final draft component *(Extent: E+W)* council tax[^c-f4510c15567b554f65ada0059d06a9da] *(Extent: E+W)* requirement for the Assembly, and *(Extent: E+W)*
 - (b (Extent: E+W)) the condition in sub-paragraph (3) below is met. *(Extent: E+W)*
 
 (3 (Extent: E+W)) The condition is that— *(Extent: E+W)*
 
-- (a (Extent: E+W)) the final draft component *(Extent: E+W)* council tax[^key-4d936b2b213b7d57aac3743663e40e9d] *(Extent: E+W)* requirement for the Assembly, after implementing the amendments, *(Extent: E+W)*
+- (a (Extent: E+W)) the final draft component *(Extent: E+W)* council tax[^c-4d936b2b213b7d57aac3743663e40e9d] *(Extent: E+W)* requirement for the Assembly, after implementing the amendments, *(Extent: E+W)*
 
 exceeds *(Extent: E+W)*
 
@@ -196,7 +196,7 @@ exceeds *(Extent: E+W)*
 
 (4 (Extent: E+W)) This paragraph is without prejudice to section 49(2) of the Local Government Finance Act 1992 (substitute amount not to exceed previous amount (but see section 49(6) of that Act)). *(Extent: E+W)*
 
-(5 (Extent: E+W)) Find the adjusted previous component *(Extent: E+W)* council tax[^key-972e009e05a5f5ddbc9292ca8b43d034] *(Extent: E+W)* requirement for the Assembly as follows. *(Extent: E+W)*
+(5 (Extent: E+W)) Find the adjusted previous component *(Extent: E+W)* council tax[^c-972e009e05a5f5ddbc9292ca8b43d034] *(Extent: E+W)* requirement for the Assembly as follows. *(Extent: E+W)*
 
 (6 (Extent: E+W)) Find NM and OM, where— *(Extent: E+W)*
 
@@ -227,7 +227,7 @@ equals *(Extent: E+W)*
 
 (10 (Extent: E+W)) Sub-paragraphs (9) to (11) of paragraph 5A of Schedule 6 to this Act (power of chief finance officer to direct amounts to be left out of account) also have effect for the purposes of this paragraph. *(Extent: E+W)*
 
-(11 (Extent: E+W)) For the purposes of this Schedule the “ *(Extent: E+W)***final draft component *(Extent: E+W)* council tax[^key-f9c50dc75aadea12723f674c12b64fba] *(Extent: E+W)* requirement *(Extent: E+W)***” for any constituent body is the component *(Extent: E+W)* council tax *(Extent: E+W)* requirement for that body as stated in the final draft. *(Extent: E+W)*
+(11 (Extent: E+W)) For the purposes of this Schedule the “ *(Extent: E+W)***final draft component *(Extent: E+W)* council tax[^c-f9c50dc75aadea12723f674c12b64fba] *(Extent: E+W)* requirement *(Extent: E+W)***” for any constituent body is the component *(Extent: E+W)* council tax *(Extent: E+W)* requirement for that body as stated in the final draft. *(Extent: E+W)*
 
 ### Failure of Assembly to approve final draft within 21 days
 
@@ -249,36 +249,36 @@ equals *(Extent: E+W)*
 
 ## Annotations
 
-[^key-2f2faf8033f9faf001693924fd0eded8]: Modification: Sch. 7 applied by 1992 c. 14, s. 52ZU(11) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
+[^c-2f2faf8033f9faf001693924fd0eded8]: Modification: Sch. 7 applied by 1992 c. 14, s. 52ZU(11) (as inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i))
 
-[^key-56ac729845a1e91c584b2932923436a9]: Textual amendment: Word in Sch. 7 para. 3(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 6 para. 38(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-56ac729845a1e91c584b2932923436a9]: Textual amendment: Word in Sch. 7 para. 3(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 6 para. 38(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c12809811]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-fac454a4528b4045085337b24379f1a1]: Textual amendment: Sch. 7 para. 4A and cross-heading inserted (E.W.) (with effect in accordance with [s. 59(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/6) of the amending Act) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/14/2), [59(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 3](https://www.legislation.gov.uk/uksi/2007/3107/article/3)
+[^c-fac454a4528b4045085337b24379f1a1]: Textual amendment: Sch. 7 para. 4A and cross-heading inserted (E.W.) (with effect in accordance with [s. 59(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/6) of the amending Act) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/14/2), [59(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 3](https://www.legislation.gov.uk/uksi/2007/3107/article/3)
 
-[^key-f33a81df941cc6cf5b2b7b5734794f13]: Textual amendment: Words in Sch. 7 para. 4A(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f33a81df941cc6cf5b2b7b5734794f13]: Textual amendment: Words in Sch. 7 para. 4A(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0eb69031b864941411bf2b05bff8cd81]: Textual amendment: Words in Sch. 7 para. 4A(2)(a) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0eb69031b864941411bf2b05bff8cd81]: Textual amendment: Words in Sch. 7 para. 4A(2)(a) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-9281c88c4c4c21d70b22576b82f58cf1]: Textual amendment: Words in Sch. 7 para. 4A(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-9281c88c4c4c21d70b22576b82f58cf1]: Textual amendment: Words in Sch. 7 para. 4A(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-fc0ba5668aee25bccf2075602dcb8cd9]: Textual amendment: Words in Sch. 7 paras. 4A(5)-(9) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-fc0ba5668aee25bccf2075602dcb8cd9]: Textual amendment: Words in Sch. 7 paras. 4A(5)-(9) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-fe7ac60f0e1960a07528288af5879148]: Textual amendment: Words in Sch. 7 para. 4A(11)(c) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-fe7ac60f0e1960a07528288af5879148]: Textual amendment: Words in Sch. 7 para. 4A(11)(c) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-32c64321cbcebf7065638d98b029211d]: Textual amendment: Word in Sch. 7 para. 6(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 6 para. 38(3)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38/3); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-32c64321cbcebf7065638d98b029211d]: Textual amendment: Word in Sch. 7 para. 6(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 6 para. 38(3)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/6/paragraph/38/3); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c12809821]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-1da0858f91eee86e56981ec91115e31d]: Textual amendment: Sch. 7 para. 7A and cross-heading inserted (E.W.) (with effect in accordance with [s. 59(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/6) of the amending Act) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/14/3), [59(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 3](https://www.legislation.gov.uk/uksi/2007/3107/article/3)
+[^c-1da0858f91eee86e56981ec91115e31d]: Textual amendment: Sch. 7 para. 7A and cross-heading inserted (E.W.) (with effect in accordance with [s. 59(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/6) of the amending Act) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/14/3), [59(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 3](https://www.legislation.gov.uk/uksi/2007/3107/article/3)
 
-[^key-c55db70f6a96cbe058a9666e03b8520c]: Textual amendment: Words in Sch. 7 para. 7A(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c55db70f6a96cbe058a9666e03b8520c]: Textual amendment: Words in Sch. 7 para. 7A(1) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f4510c15567b554f65ada0059d06a9da]: Textual amendment: Words in Sch. 7 para. 7A(2)(a) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f4510c15567b554f65ada0059d06a9da]: Textual amendment: Words in Sch. 7 para. 7A(2)(a) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-4d936b2b213b7d57aac3743663e40e9d]: Textual amendment: Words in Sch. 7 para. 7A(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-4d936b2b213b7d57aac3743663e40e9d]: Textual amendment: Words in Sch. 7 para. 7A(3) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-972e009e05a5f5ddbc9292ca8b43d034]: Textual amendment: Words in Sch. 7 paras. 7A(5)-(9) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-972e009e05a5f5ddbc9292ca8b43d034]: Textual amendment: Words in Sch. 7 paras. 7A(5)-(9) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f9c50dc75aadea12723f674c12b64fba]: Textual amendment: Words in Sch. 7 para. 7A(11) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f9c50dc75aadea12723f674c12b64fba]: Textual amendment: Words in Sch. 7 para. 7A(11) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change
 
-The CRC Energy Efficiency Scheme Order 2010 (revoked)[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+The CRC Energy Efficiency Scheme Order 2010 (revoked)[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 Made
 
@@ -46,17 +46,17 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 1 — Introduction[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 1 — General[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 7 — Penalties, offences and appeals](part-1/section-7.md)
 - [Section 8 — Groups: liability to comply with this Order](part-1/section-8.md)
 
-#### CHAPTER 2 — The administrator and co-operation[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 2 — The administrator and co-operation[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,13 +80,13 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 9 — The administrator](part-1/section-9.md)
 - [Section 10 — Co-operation and provision of information](part-1/section-10.md)
 
-### PART 2 — Registration as a participant[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 2 — Registration as a participant[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 1 — General[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 12 — Time for application](part-2/section-12.md)
 - [Section 13 — Registration and certificates](part-2/section-13.md)
 
-#### CHAPTER 2 — Public bodies[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 2 — Public bodies[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,7 +108,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 17 — Public bodies: applications other than by groups](part-2/section-17.md)
 - [Section 18 — Determinations by the administrator](part-2/section-18.md)
 
-#### CHAPTER 3 — Universities and colleges: England[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 3 — Universities and colleges: England[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,7 +119,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 21 — Universities and colleges: groups](part-2/section-21.md)
 - [Section 22 — Applications](part-2/section-22.md)
 
-#### CHAPTER 4 — Undertakings[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### CHAPTER 4 — Undertakings[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -132,7 +132,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 27 — Changes to undertakings and groups](part-2/section-27.md)
 - [Section 28 — Determinations by the administrator](part-2/section-28.md)
 
-### PART 3 — Exemptions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 3 — Exemptions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,7 +150,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 37 — Effect of exemptions and records](part-3/section-37.md)
 - [Section 38 — Loss of exemptions and further exemptions](part-3/section-38.md)
 
-### PART 4 — Footprint reports and residual measurement lists[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 4 — Footprint reports and residual measurement lists[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,7 +165,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 45 — Compilation of residual measurement lists](part-4/section-45.md)
 - [Section 46 — Changes affecting participants](part-4/section-46.md)
 
-### PART 5 — Annual reports[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 5 — Annual reports[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -177,7 +177,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 50 — CRC emissions](part-5/section-50.md)
 - [Section 51 — Changes affecting participants](part-5/section-51.md)
 
-### PART 6 — Allowances and CRC emissions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 6 — Allowances and CRC emissions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,7 +189,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 55 — Allowances and trading](part-6/section-55.md)
 - [Section 56 — Community tradeable emissions allowances](part-6/section-56.md)
 
-### PART 7 — Records[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 7 — Records[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -200,7 +200,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 59 — Records: public disclosure](part-7/section-59.md)
 - [Section 60 — Audit of records](part-7/section-60.md)
 
-### PART 8 — Information and assistance requirements[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 8 — Information and assistance requirements[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -214,7 +214,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 66 — Information and assistance by franchisees](part-8/section-66.md)
 - [Section 67 — Information and assistance: public bodies](part-8/section-67.md)
 
-### PART 9 — Administration of the scheme[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 9 — Administration of the scheme[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -231,14 +231,14 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 73C — Records and information on or after 1st April 2022](part-9/section-73c.md)
 - [Section 74 — Determinations](part-9/section-74.md)
 
-### PART 10 — Performance information and publication[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 10 — Performance information and publication[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 **No longer in force.**
 
 - [Section 75 — Publication of performance information](part-10/section-75.md)
 - [Section 76 — Further publication](part-10/section-76.md)
 
-### PART 11 — Charging[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 11 — Charging[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -250,7 +250,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 84 — Revised charges](part-11/section-84.md)
 - [Section 85 — Collection and remittance of charges](part-11/section-85.md)
 
-### PART 12 — Monitoring compliance[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 12 — Monitoring compliance[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -259,7 +259,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 86 — Compliance notices](part-12/section-86.md)
 - [Section 87 — Inspections](part-12/section-87.md)
 
-### PART 13 — Enforcement[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 13 — Enforcement[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -270,7 +270,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 90 — Notices to provide information: compliance with articles 58 and 59](part-13/section-90.md)
 - [Section 91 — Enforcement notices](part-13/section-91.md)
 
-### PART 14 — Civil penalties[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 14 — Civil penalties[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -291,7 +291,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 104 — Failures to provide information under article 64](part-14/section-104.md)
 - [Section 105 — Blocking and publication](part-14/section-105.md)
 
-### PART 15 — Criminal offences and penalties[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 15 — Criminal offences and penalties[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ The Queen’s Most Excellent Majesty in Council
 - [Section 109 — Scottish partnerships](part-15/section-109.md)
 - [Section 110 — The Crown](part-15/section-110.md)
 
-### PART 16 — Appeals, service of notices and national security[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### PART 16 — Appeals, service of notices and national security[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -329,14 +329,14 @@ The Queen’s Most Excellent Majesty in Council
 
 **No longer in force.**
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Referral of medical questions for purpose of a review[^key-d47abe42759a36c925bcfe139ff37eed]
+## 107. Referral of medical questions for purpose of a review[^c-d47abe42759a36c925bcfe139ff37eed]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47abe42759a36c925bcfe139ff37eed]: Commencement: Reg. 107 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d47abe42759a36c925bcfe139ff37eed]: Commencement: Reg. 107 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

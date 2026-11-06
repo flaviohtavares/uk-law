@@ -49,7 +49,7 @@ The Welsh Ministers in accordance with section 408(5) of the Education Act 1996 
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-3a700d84cf5ccdb81c4b29bf70279b20]
+### 1. Title, commencement and application[^c-3a700d84cf5ccdb81c4b29bf70279b20]
 
 (1) The title of these Regulations is the Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022.
 
@@ -57,7 +57,7 @@ The Welsh Ministers in accordance with section 408(5) of the Education Act 1996 
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-b25bff597528ce47755a4139dad5b87c]
+### 2. Interpretation[^c-b25bff597528ce47755a4139dad5b87c]
 
 In these Regulations—
 
@@ -81,11 +81,11 @@ In these Regulations—
 
 ## PART 2 — Revocation, Disapplication and Transitional Provision
 
-### 3. The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004[^key-30d7d47226ffbdadbe79fab394fb2bec]
+### 3. The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004[^c-30d7d47226ffbdadbe79fab394fb2bec]
 
 The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004[^f00014] is revoked.
 
-### 4. The National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005[^key-c31c0713a1257e37b6c648f90c6073a0]
+### 4. The National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005[^c-c31c0713a1257e37b6c648f90c6073a0]
 
 (1) The National Curriculum (Key Stage 3 Assessment Arrangements) (Wales) Order 2005[^f00015] (“the 2005 Order”) does not apply to pupils in special schools from the school year 2021 to 2022.
 
@@ -94,7 +94,7 @@ The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004
 - (a) the 2005 Order, and
 - (b) the National Curriculum (Amendments to the Key Stage 2 and Key Stage 3 Assessment Arrangements) (Wales) Order 2011[^f00016].
 
-### 5. The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013[^key-fb36c430d1d3aad0ff2db68374a66865]
+### 5. The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013[^c-fb36c430d1d3aad0ff2db68374a66865]
 
 (1) The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013[^f00017] (“the 2013 Order”) is to apply subject to the transitional provisions in paragraphs (2) to (5).
 
@@ -170,7 +170,7 @@ The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004
 - (a) the 2013 Order; and
 - (b) the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) (Amendment) Order 2018[^f00018].
 
-### 6. The National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014[^key-9d955a9ab9b2f1f1391f2a0f43de0ea6]
+### 6. The National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014[^c-9d955a9ab9b2f1f1391f2a0f43de0ea6]
 
 (1) The National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014[^f00019] (“the 2014 Order”) does not apply in the circumstances set out in paragraph (2).
 
@@ -185,11 +185,11 @@ The National Curriculum (Key Stage 2 Assessment Arrangements) (Wales) Order 2004
 
 (3) The 2014 Order is revoked on 1 September 2024.
 
-### 7. The National Curriculum (Moderation of Assessment Arrangements for the Second and Third Key Stages) (Wales) Order 2015[^key-4f26fd73623a5a0eb0a1be9dd3d2dc7c]
+### 7. The National Curriculum (Moderation of Assessment Arrangements for the Second and Third Key Stages) (Wales) Order 2015[^c-4f26fd73623a5a0eb0a1be9dd3d2dc7c]
 
 The National Curriculum (Moderation of Assessment Arrangements for the Second and Third Key Stages) (Wales) Order 2015[^f00020] is revoked on 30 May 2022.
 
-### 8. The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015[^key-f85620f0a858b3ce1043a86418ee94a8]
+### 8. The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015[^c-f85620f0a858b3ce1043a86418ee94a8]
 
 (1) In the National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) Order 2015[^f00021] (“the 2015 Order”) omit Parts 3 and 4.
 
@@ -200,7 +200,7 @@ The National Curriculum (Moderation of Assessment Arrangements for the Second an
 
 ## PART 3 — Consequential and Miscellaneous Amendments
 
-### 9. The Amendment of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-0960434e370f2a1f6b2bf9b142a4069d]
+### 9. The Amendment of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-0960434e370f2a1f6b2bf9b142a4069d]
 
 (1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00023] are amended as set out in paragraphs (2) to (4).
 
@@ -218,7 +218,7 @@ The National Curriculum (Moderation of Assessment Arrangements for the Second an
 
 (4) In the Schedule omit paragraph 2 of Part 1.
 
-### 10. The Amendment of the School Performance Information (Wales) Regulations 2011[^key-856595843f8672c5157c2ecfc9edad9e]
+### 10. The Amendment of the School Performance Information (Wales) Regulations 2011[^c-856595843f8672c5157c2ecfc9edad9e]
 
 (1) The School Performance Information (Wales) Regulations 2011[^f00028] are amended as set out in paragraphs (2) to (3).
 
@@ -247,7 +247,7 @@ The National Curriculum (Moderation of Assessment Arrangements for the Second an
 >
 > **3.** For the purposes of regulations 5 and 6, paragraph 1 does not include the results of the Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013[^f00033].
 
-### 11. The Amendment to the School Information (Wales) Regulations 2011[^key-96815e367d94c889ddebc2d13aed1bb7]
+### 11. The Amendment to the School Information (Wales) Regulations 2011[^c-96815e367d94c889ddebc2d13aed1bb7]
 
 In regulation 5 of the School Information (Wales) Regulations 2011[^f00034] omit paragraph (2)(c).
 
@@ -321,9 +321,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00010]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-3a700d84cf5ccdb81c4b29bf70279b20]: Commencement: Reg. 1 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-3a700d84cf5ccdb81c4b29bf70279b20]: Commencement: Reg. 1 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
-[^key-b25bff597528ce47755a4139dad5b87c]: Commencement: Reg. 2 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-b25bff597528ce47755a4139dad5b87c]: Commencement: Reg. 2 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00011]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4).
 
@@ -331,37 +331,37 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: Inserted by paragraph 4(1) and (10)(c) of Schedule 1 to the Additional Learning Needs and Education Tribunal (Wales) Act [2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-30d7d47226ffbdadbe79fab394fb2bec]: Commencement: Reg. 3 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-30d7d47226ffbdadbe79fab394fb2bec]: Commencement: Reg. 3 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2004/2915 (W. 254)](https://www.legislation.gov.uk/wsi/2004/2915), amended by [S.I. 2005/3239 (W. 244)](https://www.legislation.gov.uk/wsi/2005/3239) and [S.I. 2011/1937 (W. 206)](https://www.legislation.gov.uk/wsi/2011/1937).
 
-[^key-c31c0713a1257e37b6c648f90c6073a0]: Commencement: Reg. 4 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-c31c0713a1257e37b6c648f90c6073a0]: Commencement: Reg. 4 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2005/1394 (W. 108)](https://www.legislation.gov.uk/wsi/2005/1394), amended by [S.I. 2005/3239 (W.244)](https://www.legislation.gov.uk/wsi/2005/3239), [S.I. 2008/1899 (W. 181)](https://www.legislation.gov.uk/wsi/2008/1899) and [S.I. 2011/1937 (W. 206)](https://www.legislation.gov.uk/wsi/2011/1937).
 
 [^f00016]: Footnote: [S.I. 2011/1937 (W. 206)](https://www.legislation.gov.uk/wsi/2011/1937).
 
-[^key-fb36c430d1d3aad0ff2db68374a66865]: Commencement: Reg. 5 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-fb36c430d1d3aad0ff2db68374a66865]: Commencement: Reg. 5 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2013/433 (W. 51)](https://www.legislation.gov.uk/wsi/2013/433), amended by [S.I. 2018/811 (W. 163)](https://www.legislation.gov.uk/wsi/2018/811).
 
 [^f00018]: Footnote: [S.I. 2018/811 (W. 163)](https://www.legislation.gov.uk/wsi/2018/811).
 
-[^key-9d955a9ab9b2f1f1391f2a0f43de0ea6]: Commencement: Reg. 6 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-9d955a9ab9b2f1f1391f2a0f43de0ea6]: Commencement: Reg. 6 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2014/1999 (W. 200)](https://www.legislation.gov.uk/wsi/2014/1999).
 
-[^key-4f26fd73623a5a0eb0a1be9dd3d2dc7c]: Commencement: Reg. 7 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-4f26fd73623a5a0eb0a1be9dd3d2dc7c]: Commencement: Reg. 7 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2015/1309 (W. 113)](https://www.legislation.gov.uk/wsi/2015/1309).
 
-[^key-f85620f0a858b3ce1043a86418ee94a8]: Commencement: Reg. 8 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-f85620f0a858b3ce1043a86418ee94a8]: Commencement: Reg. 8 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2015/1596 (W. 195)](https://www.legislation.gov.uk/wsi/2015/1596), amended by [S.I. 2016/836 (W. 210)](https://www.legislation.gov.uk/wsi/2016/836).
 
 [^f00022]: Footnote: [S.I. 2016/836 (W. 210)](https://www.legislation.gov.uk/wsi/2016/836).
 
-[^key-0960434e370f2a1f6b2bf9b142a4069d]: Commencement: Reg. 9 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-0960434e370f2a1f6b2bf9b142a4069d]: Commencement: Reg. 9 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766), [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729) and [S.I. 2021/612 (W. 163)](https://www.legislation.gov.uk/wsi/2021/612).
 
@@ -373,7 +373,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00027]: Footnote: [S.I. 2015/1596 (W. 195)](https://www.legislation.gov.uk/wsi/2015/1596), amended by [S.I. 2016/836 (W. 210)](https://www.legislation.gov.uk/wsi/2016/836).
 
-[^key-856595843f8672c5157c2ecfc9edad9e]: Commencement: Reg. 10 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-856595843f8672c5157c2ecfc9edad9e]: Commencement: Reg. 10 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2011/1963 (W. 217)](https://www.legislation.gov.uk/wsi/2011/1963), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236), [S.I. 2016/837 (W. 211)](https://www.legislation.gov.uk/wsi/2016/837), [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729) and [S.I. 2021/612 (W. 163)](https://www.legislation.gov.uk/wsi/2021/612).
 
@@ -387,6 +387,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00033]: Footnote: [S.I. 2013/433 (W. 51)](https://www.legislation.gov.uk/wsi/2013/433), amended by [S.I. 2018/811 (W. 163)](https://www.legislation.gov.uk/wsi/2018/811).
 
-[^key-96815e367d94c889ddebc2d13aed1bb7]: Commencement: Reg. 11 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
+[^c-96815e367d94c889ddebc2d13aed1bb7]: Commencement: Reg. 11 in force at 30.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 2011/1944 (W. 211)](https://www.legislation.gov.uk/wsi/2011/1944), amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211), [S.I. 2018/766 (W. 153)](https://www.legislation.gov.uk/wsi/2018/766), [S.I. 2020/729 (W. 164)](https://www.legislation.gov.uk/wsi/2020/729), [S.I. 2021/612 (W. 163)](https://www.legislation.gov.uk/wsi/2021/612), [S.I. 2022/178 (W. 58)](https://www.legislation.gov.uk/wsi/2022/178).

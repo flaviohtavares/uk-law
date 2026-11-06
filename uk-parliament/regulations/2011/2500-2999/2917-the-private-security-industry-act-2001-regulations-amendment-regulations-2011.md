@@ -48,15 +48,15 @@ The Secretary of State makes the following Regulations, in exercise of the power
 
 In accordance with section 24(4) of that Act she has consulted the Scottish Ministers, the Department of Justice in Northern Ireland and the Security Industry Authority.
 
-## 1. Citation and commencement[^key-a1a59fd6b07e64b94f82ebb39fe6eb5d]
+## 1. Citation and commencement[^c-a1a59fd6b07e64b94f82ebb39fe6eb5d]
 
 These Regulations may be cited as the Private Security Industry Act 2001 Regulations (Amendment) Regulations 2011 and shall come into force on 1st January 2012.
 
-## 2. Amendment to the Private Security Industry Act 2001 (Approved Contractor Scheme) Regulations 2007[^key-8654c22461fa86de3ec8493c82a8369c]
+## 2. Amendment to the Private Security Industry Act 2001 (Approved Contractor Scheme) Regulations 2007[^c-8654c22461fa86de3ec8493c82a8369c]
 
 The Private Security Industry Act 2001 (Approved Contractor Scheme) Regulations 2007[^f00002] are amended by substituting “£15” for “£17” in regulation 5.
 
-## 3. Amendments to the Private Security Industry Act 2001 (Licences) Regulations 2007[^key-72f7ef03b43304698f96619544e47f8f]
+## 3. Amendments to the Private Security Industry Act 2001 (Licences) Regulations 2007[^c-72f7ef03b43304698f96619544e47f8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,10 +82,10 @@ Regulation 3 amends regulations 8(1) and 9 of the Private Security Industry Act 
 
 [^f00001]: Footnote: [2001 c.12](https://www.legislation.gov.uk/ukpga/2001/12). Section 24(4) was amended by section 171 of and paragraphs 1 and 11 of Schedule 15 to the Serious Organised Crime and Police Act [2005 (c.12)](https://www.legislation.gov.uk/ukpga/2005/12) and by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-a1a59fd6b07e64b94f82ebb39fe6eb5d]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2917/regulation/1)
+[^c-a1a59fd6b07e64b94f82ebb39fe6eb5d]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2917/regulation/1)
 
-[^key-8654c22461fa86de3ec8493c82a8369c]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2917/regulation/1)
+[^c-8654c22461fa86de3ec8493c82a8369c]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2917/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2007/808](https://www.legislation.gov.uk/uksi/2007/808), amended by [S.I 2007/2504](https://www.legislation.gov.uk/uksi/2007/2504); there is another amending instrument but it is not relevant to these Regulations.
 
-[^key-72f7ef03b43304698f96619544e47f8f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2917/regulation/3) revoked (6.4.2023) by [The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2023 (S.I. 2023/193)](https://www.legislation.gov.uk/uksi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/1)
+[^c-72f7ef03b43304698f96619544e47f8f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2917/regulation/3) revoked (6.4.2023) by [The Private Security Industry Act 2001 (Licences) (Amendment) Regulations 2023 (S.I. 2023/193)](https://www.legislation.gov.uk/uksi/2023/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/193/regulation/3/1)

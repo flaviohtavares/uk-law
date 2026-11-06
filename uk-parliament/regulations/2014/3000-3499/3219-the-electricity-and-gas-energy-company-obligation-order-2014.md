@@ -67,13 +67,13 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - “**carbon saving**” means the lifetime tonnes of carbon dioxide that a qualifying action or surplus action will save;
 - “**carbon saving community obligation**” means the obligation for the promotion of carbon saving community qualifying actions which is imposed on a supplier in respect of a phase;
 - “carbon saving community qualifying action” (except in relation to the terms defined in paragraph (2)) has the meaning given in article 14(4);
-- “certified installer”, in relation to the installation of a measure, means a person who is certified as compliant with those parts of PAS 2014 or PAS 2017 that apply to the measure by a certification body or organisation accredited to EN 45011 or EN[^key-72e374350fba3f39291155f431326ae4] ISO/IEC 17065:2012;
+- “certified installer”, in relation to the installation of a measure, means a person who is certified as compliant with those parts of PAS 2014 or PAS 2017 that apply to the measure by a certification body or organisation accredited to EN 45011 or EN[^c-72e374350fba3f39291155f431326ae4] ISO/IEC 17065:2012;
 - “commencement date” means the date on which the Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 comes into force;
 - “**cost saving**” means, in relation to a heating qualifying action or a surplus action—
   - (a) the money that would be saved by that action over its expected lifetime in heating a home to 21 degrees Celsius in the main living areas and 18 degrees Celsius in all other areas; and
   - (b) where the action also results in savings in the cost of heating water, the money that would be saved by the action over its expected lifetime in heating water in that home;
 - “**cost score**” means the contribution that a heating qualifying action or surplus action makes towards a supplier's total home heating cost reduction obligation;
-- “deemed score qualifying action” means a qualifying action which is not a SAP scored qualifying action;[^key-dc29ab65ab2015224114624324cfb512]
+- “deemed score qualifying action” means a qualifying action which is not a SAP scored qualifying action;[^c-dc29ab65ab2015224114624324cfb512]
 - “**deprived rural area**” means an area in Great Britain which is described as a deprived rural area in the 2014 low income and rural document;
 - “**district heating system**” means a system that delivers heat through pipes or conduits to two or more domestic premises;
 - “**domestic customer**” means a person living in domestic premises in Great Britain who is supplied with electricity or gas at those premises wholly or mainly for domestic purposes;
@@ -85,7 +85,7 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - “**group company**” means a licence-holder which is a member of a group of companies that includes at least one other licence-holder; and “**group**” refers to the group of companies of which the licence-holder is a member;
 - “**group of companies**” means a holding company and the wholly-owned subsidiaries of that holding company where “**holding company**” and “**wholly-owned subsidiary**” have the same meaning as in section 1159 of the Companies Act 2006 [^c22280281];
 - “heating qualifying action” (except in relation to the terms defined in paragraph (2)) has the meaning given in article 16(3);
-- “home heating minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total home heating cost reduction obligation which is to be achieved by promoting heating qualifying actions that—[^key-644fa00944c2245208cd6877433c6b29]
+- “home heating minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total home heating cost reduction obligation which is to be achieved by promoting heating qualifying actions that—[^c-644fa00944c2245208cd6877433c6b29]
   - (a) are completed on or after 1st July 2016; and
   - (b) are not the replacement of a qualifying boiler fuelled by mains gas;
 - “**licence-holder**” means an electricity licence-holder, a gas licence-holder or a dual licence-holder;
@@ -96,25 +96,25 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
     - (i) Part I of the Local Government Finance Act 1992 [^c22280311] if it is situated in England or Wales;
     - (ii) Part II of the Local Government Finance Act 1992 if it is situated in Scotland;
 - “**MtCO<sub>2</sub>**” means million lifetime tonnes of carbon dioxide;
-- “new 2015 supplier” and “new 2016 supplier” have the meanings given in article 4(3) and (3A);[^key-e8d37e13062b2854ebdac3633de4b285]
+- “new 2015 supplier” and “new 2016 supplier” have the meanings given in article 4(3) and (3A);[^c-e8d37e13062b2854ebdac3633de4b285]
 - “**notification period**” means—
-  - (a) 1st January 2014 to 31st December 2014 for phase 1; [^key-d46ff812d91b2c1cf6e13eb63cc1c7eb]...
-  - (b) 1st January 2015 to 31st December 2015 for phase 2, and[^key-11f8e8ec2b42e731907d04999959821f]
+  - (a) 1st January 2014 to 31st December 2014 for phase 1; [^c-d46ff812d91b2c1cf6e13eb63cc1c7eb]...
+  - (b) 1st January 2015 to 31st December 2015 for phase 2, and[^c-11f8e8ec2b42e731907d04999959821f]
   - (c) 1st January 2016 to 31st December 2016 for phase 3,
 
   and a reference in this Order, in relation to a phase, to the relevant notification period is to the notification period for that phase;
-- “PAS 2014” means the Publicly Available Specification 2030:2014;[^key-358958fcd0677d73e9b6141fc3d126ba]
+- “PAS 2014” means the Publicly Available Specification 2030:2014;[^c-358958fcd0677d73e9b6141fc3d126ba]
 - “PAS 2017” means the Publicly Available Specification 2030:2017;
-- “**phase**” means one of the three phases[^key-c4892ff0c7fd22d4d89683670f53a47d] as follows—
-  - (a) the twelve months ending with 31st March 2016 (“phase 1”); [^key-431b65f9e87602eed48242bd52f7e308]...
+- “**phase**” means one of the three phases[^c-c4892ff0c7fd22d4d89683670f53a47d] as follows—
+  - (a) the twelve months ending with 31st March 2016 (“phase 1”); [^c-431b65f9e87602eed48242bd52f7e308]...
   - (b) the twelve months ending with 31st March 2017 (“phase 2”);
-  - (c) the 18 months ending with 30th September 2018 (“phase 3”);[^key-c368ff649aa871e3e6a172f13d7559c8]
-- “phase 3 party cavity wall insulation” means the insulation of a cavity wall, where—[^key-29a15d6e77f6215e3fe10211bad6acf6]
+  - (c) the 18 months ending with 30th September 2018 (“phase 3”);[^c-c368ff649aa871e3e6a172f13d7559c8]
+- “phase 3 party cavity wall insulation” means the insulation of a cavity wall, where—[^c-29a15d6e77f6215e3fe10211bad6acf6]
   - (a) the installation of the insulation is completed on or after 1st April 2017; and
   - (b) the wall divides premises from other premises under different occupation;
 - “pre-existing building” means a building erected before 1st April 2017;
-- “provisional solid wall minimum requirement” means the amount determined for a supplier in respect of phase 1, 2 or 3 under article 7(2);[^key-e9de7e08b86612cfa47d09db6240c988]
-- “Publicly Available Specification” (except in the definitions of “PAS 2014” and “PAS 2017”) means—[^key-4cc7776ba316e8b96974a56e0b78ff1d]
+- “provisional solid wall minimum requirement” means the amount determined for a supplier in respect of phase 1, 2 or 3 under article 7(2);[^c-e9de7e08b86612cfa47d09db6240c988]
+- “Publicly Available Specification” (except in the definitions of “PAS 2014” and “PAS 2017”) means—[^c-4cc7776ba316e8b96974a56e0b78ff1d]
   - (a) in relation to an installation completed on or before 31st March 2017, PAS 2014;
   - (b) in relation to an installation completed between 1st April 2017 and 31st May 2017, PAS 2014 or PAS 2017;
   - (c) in relation to an installation completed on or after 1st June 2017, PAS 2017;
@@ -145,13 +145,13 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - “**relevant in-use factor**” means—
   - (a) where a measure is specified in the first column of the table in Schedule 2, the percentage specified for that measure in the second column of that table; or
   - (b) where a measure is not so specified, 15%;
-- “relevant year” means 2014, 2015 or 2016;[^key-c319ffa3259cad2656e1d65ea91c38bd]
+- “relevant year” means 2014, 2015 or 2016;[^c-c319ffa3259cad2656e1d65ea91c38bd]
 - “**rural area**” means an area in Great Britain which is described as a rural area in the 2014 low income and rural document;
-- “rural minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total carbon emissions reduction obligation which is to be achieved by promoting carbon qualifying actions that are—[^key-68398ae38876e6906f35599ee6b74745]
+- “rural minimum requirement” means, subject to article 30A, the amount determined for a supplier under article 7 as the minimum amount of a supplier’s total carbon emissions reduction obligation which is to be achieved by promoting carbon qualifying actions that are—[^c-68398ae38876e6906f35599ee6b74745]
   - (a) installed in premises situated in a rural area; and
   - (b) completed on or after 1st April 2017;
 - “**SAP 2009**” means the Government's Standard Assessment Procedure for energy rating of dwellings (2009 Edition, as amended in October 2010) [^c22280341];
-- “SAP scored qualifying action” means a qualifying action which is—[^key-074aa1398b31c409de6a7e4c8d5df322]
+- “SAP scored qualifying action” means a qualifying action which is—[^c-074aa1398b31c409de6a7e4c8d5df322]
   - (a) completed on or before 31st March 2017; or
   - (b) a connection of premises to a district heating system;
 - “**solid wall**” includes a metal or timber frame wall or a wall of pre-fabricated concrete construction;
@@ -163,14 +163,14 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - “**Standard Assessment Procedure**” means the Government's Standard Assessment Procedure for energy rating of dwellings (2012 Edition, version 9.92) [^c22280371];
 - “**supplier**” has the meaning given in article 4;
 - “**surplus action**” has the meaning given in article 27(3);
-- “**total carbon emissions reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^key-5236ef98de6a34b4cf938f0144f21351] the sum of the supplier's carbon emissions reduction obligation—
+- “**total carbon emissions reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^c-5236ef98de6a34b4cf938f0144f21351] the sum of the supplier's carbon emissions reduction obligation—
   - (a) for phase 1 which has been determined for the supplier under—
     - (i) article 7, where article 11 does not apply;
     - (ii) article 11, where that article applies; and
-  - (b) for phase 2 and for phase 3, which have been determined for the supplier under article 7;[^key-6ab2c2e5460ddd5f57794ed4722a6014]
+  - (b) for phase 2 and for phase 3, which have been determined for the supplier under article 7;[^c-6ab2c2e5460ddd5f57794ed4722a6014]
 - “**total carbon saving community obligation**” means, in respect of a supplier, the sum of carbon savings community obligations which have been determined for the supplier in respect of phases 1 and 2;
-- “**total home heating cost reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^key-349c64048d1ebf2158f8d535a54ca5cc] the sum of home heating cost reduction obligations which have been determined for the supplier in respect of phases 1, 2 and 3[^key-94695f37ad29899c70986205515ed2ce] ;
-- “total provisional solid wall minimum requirement” means, in respect of a supplier and subject to article 30A, the sum of the provisional solid wall minimum requirements which have been determined for the supplier in respect of phases 1, 2 and 3;[^key-c200c385a0e839c9d332bea4e8e82f01]
+- “**total home heating cost reduction obligation**” means, in respect of a supplier, and subject to article 30A,[^c-349c64048d1ebf2158f8d535a54ca5cc] the sum of home heating cost reduction obligations which have been determined for the supplier in respect of phases 1, 2 and 3[^c-94695f37ad29899c70986205515ed2ce] ;
+- “total provisional solid wall minimum requirement” means, in respect of a supplier and subject to article 30A, the sum of the provisional solid wall minimum requirements which have been determined for the supplier in respect of phases 1, 2 and 3;[^c-c200c385a0e839c9d332bea4e8e82f01]
 - “**wall insulation**” means—
   - (a) insulation of a cavity wall;
   - (b) solid wall insulation.
@@ -198,11 +198,11 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 
 (1) For the period 1st April 2015 to 31st March 2017 the overall—
 
-- (a)[^key-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) carbon saving community target is 6 MtCO<sub>2</sub>;
-- (c)[^key-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b3c27c818700d39ba48113889b57a403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-634436d753e717bdcfb4cb6b1593cf49] For the period 1st April 2015 to 30th September 2018 the overall—
+(1A)[^c-634436d753e717bdcfb4cb6b1593cf49] For the period 1st April 2015 to 30th September 2018 the overall—
 
 - (a) carbon emissions reduction target is 19.7 MtCO<sub>2</sub>;
 - (b) home heating cost reduction target is £6.46bn.
@@ -224,9 +224,9 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 
 (2) For the purposes of paragraph (1)(a), where a licence-holder (“L”) is a member of a group (“G”), the supplies made by G are to be determined by reference to the type of supply in respect of which L is a licence-holder.
 
-(3) A new 2015 supplier[^key-71635a24c60e897130025ba903b792e2] is a supplier to whom paragraph (1) applies for the first time on 31st December 2015.
+(3) A new 2015 supplier[^c-71635a24c60e897130025ba903b792e2] is a supplier to whom paragraph (1) applies for the first time on 31st December 2015.
 
-(3A)[^key-5d19cbb570dfc7f441d48e1e7f593790] A new 2016 supplier is a supplier to whom the circumstances described in paragraph (1) apply for the first time on 31st December 2016.
+(3A)[^c-5d19cbb570dfc7f441d48e1e7f593790] A new 2016 supplier is a supplier to whom the circumstances described in paragraph (1) apply for the first time on 31st December 2016.
 
 (4) For the purposes of determining the number of domestic customers of a licence-holder under this Order, a domestic customer who receives electricity and gas from a dual licence-holder is a separate domestic customer under each licence.
 
@@ -236,7 +236,7 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 
 (1) This article applies for the purposes of article 4(1)(a).
 
-(2) Whether or not a licence-holder is a group company is to be determined according to whether the licence-holder was a group company[^key-c805680cf09476c6c83edf2ba6778171] on the date referred to in article 4(1)(a).
+(2) Whether or not a licence-holder is a group company is to be determined according to whether the licence-holder was a group company[^c-c805680cf09476c6c83edf2ba6778171] on the date referred to in article 4(1)(a).
 
 (3) Where under paragraph (2) a licence-holder is a group company, the amount of electricity or, as applicable, gas supplied by the group in the year ending on the date referred to in article 4(1)(a), is the amount supplied by all licence-holders in the group during that year, whether or not they were members of the group throughout that year.
 
@@ -263,17 +263,17 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 
 - (a) phase 1, 1st February 2015;
 - (b) phase 2, 1st February 2016.
-- (c)[^key-eebcaee63eef28d4ac2a7dff7c5a2c96] phase 3, the date falling 21 days after the commencement date.
+- (c)[^c-eebcaee63eef28d4ac2a7dff7c5a2c96] phase 3, the date falling 21 days after the commencement date.
 
 ## PART 3 — Determining carbon emissions reduction obligations, carbon saving community obligations and home heating cost reduction obligations
 
-### 7. Determining a supplier’s obligations and minimum requirements[^key-2ecd93bb42734f251b9151ac975eeea9]
+### 7. Determining a supplier’s obligations and minimum requirements[^c-2ecd93bb42734f251b9151ac975eeea9]
 
-(1) Except where paragraph (6) or (7) applies, the Administrator must determine [^key-057e64e62f30cba9e3c01d79d468b231]... a supplier's—
+(1) Except where paragraph (6) or (7) applies, the Administrator must determine [^c-057e64e62f30cba9e3c01d79d468b231]... a supplier's—
 
-- (a) carbon emissions reduction obligation for each phase[^key-6e9d3e71f2891308d15fd095bf7f0744];
-- (b) carbon saving community obligation for phase 1 and phase 2[^key-0ab913e2ad7a83e72f326f33538dbefe]; and
-- (c) home heating cost reduction obligation for each phase[^key-835c666e782fbf41ca99bbe33c584759] .
+- (a) carbon emissions reduction obligation for each phase[^c-6e9d3e71f2891308d15fd095bf7f0744];
+- (b) carbon saving community obligation for phase 1 and phase 2[^c-0ab913e2ad7a83e72f326f33538dbefe]; and
+- (c) home heating cost reduction obligation for each phase[^c-835c666e782fbf41ca99bbe33c584759] .
 
 (2) Except where paragraph (6) or (7) applies, the Administrator must also determine for each phase a supplier's provisional solid wall minimum requirement.
 
@@ -282,7 +282,7 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - (a) in the case of a supplier which is not a group company during the phase to which a determination relates, make the determination in accordance with article 8;
 - (b) in the case of a supplier which is a group company during the phase to which a determination relates, make the determination in accordance with article 9.
 
-(4)[^key-b7ae9c96143d2b8351e9809e5cf6173a] Except where paragraph (6) or (7) applies, a supplier’s—
+(4)[^c-b7ae9c96143d2b8351e9809e5cf6173a] Except where paragraph (6) or (7) applies, a supplier’s—
 
 - (a) home heating minimum requirement for phase 3 is—
 
@@ -305,14 +305,14 @@ This Order may be cited as the Electricity and Gas (Energy Company Obligation) O
 - (a) is not a group company; and
 - (b) has notified under article 6 a supply of gas or electricity for the relevant notification period which does not exceed a qualifying supply,
 
-each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^key-9c2a0839da60e26fad00cc7880ff33ca] for a phase is zero.
+each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^c-9c2a0839da60e26fad00cc7880ff33ca] for a phase is zero.
 
 (7) Where a supplier—
 
 - (a) is a group company; and
 - (b) has notified under article 6 a supply of gas or electricity for the group for the relevant notification period which does not exceed a qualifying supply,
 
-each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^key-9e2a3c15a22bf94f7355082b98a3c1f1] for a phase is zero.
+each of the supplier's obligations in paragraph (1) , the requirement in paragraph (2) and the requirements in paragraph (4)[^c-9e2a3c15a22bf94f7355082b98a3c1f1] for a phase is zero.
 
 (8) A supplier is a group company during a phase where it is a member of a group with another supplier at the end of 31st December immediately before the commencement of that phase.
 
@@ -330,7 +330,7 @@ where—
   | --- | --- | --- | --- | --- |
   | Phase 1 | 6.2MtCO<sub>2</sub> | 3MtCO<sub>2</sub> | £1.85bn | 2MtCO<sub>2</sub> |
   | Phase 2 | 6.2MtCO<sub>2</sub> | 3MtCO<sub>2</sub> | £1.85bn | 2MtCO<sub>2</sub> |
-  | Phase 3[^key-cad3b5869e1647aae849bb054be90aa9] | 7.3 MtCO<sub>2</sub> | – | £2.76bn | 1.4 MtCO |
+  | Phase 3[^c-cad3b5869e1647aae849bb054be90aa9] | 7.3 MtCO<sub>2</sub> | – | £2.76bn | 1.4 MtCO |
 - “Tx” is the amount of electricity or gas supplied in the relevant notification period by the supplier as determined in accordance with article 10;
 - “T” is the total amount of electricity or gas, as applicable, supplied in the relevant notification period by all suppliers as determined in accordance with article 10 but excluding those suppliers for whom an obligation of zero applies under article 7(6) and (7).
 
@@ -391,20 +391,20 @@ where—
 
 ### 12. Achievement of carbon emissions reduction obligation
 
-(1) A supplier must achieve its total carbon emissions reduction obligation by no later than 30th September 2018[^key-911fbd3a55f8b2e6699f8218f309f4b6] .
+(1) A supplier must achieve its total carbon emissions reduction obligation by no later than 30th September 2018[^c-911fbd3a55f8b2e6699f8218f309f4b6] .
 
 (2) A supplier must—
 
 - (a) achieve its total carbon emissions reduction obligation by promoting carbon qualifying actions; and
-- (b)[^key-c9d62c7784461b10d7c88b6c6ce923fe] in meeting that obligation—
+- (b)[^c-c9d62c7784461b10d7c88b6c6ce923fe] in meeting that obligation—
   - (i) promote the installation of solid wall insulation so that the supplier achieves at least its solid wall minimum requirement; and
   - (ii) promote the installation of measures that are completed on or after 1st April 2017 in premises situated in a rural area so that the supplier achieves at least its rural minimum requirement.
 
 (3) A carbon qualifying action is the installation, at domestic premises, of a measure which is—
 
 - (a) a primary measure or, subject to paragraph (4), a secondary measure;
-- (b) installed on or after 1st April 2015 and in accordance with the Publicly Available Specification, where the installation is referred to in the Specification; [^key-0684a065c49896ae99322e8bea7dfbae]...
-- (c)[^key-ae1ebc642936bf5e1fa5c355fb19904f] except in the case of an installation completed on or after 1st April 2017, a recommended measure or a relevant district heating connection; and
+- (b) installed on or after 1st April 2015 and in accordance with the Publicly Available Specification, where the installation is referred to in the Specification; [^c-0684a065c49896ae99322e8bea7dfbae]...
+- (c)[^c-ae1ebc642936bf5e1fa5c355fb19904f] except in the case of an installation completed on or after 1st April 2017, a recommended measure or a relevant district heating connection; and
 - (d) in the case of an installation completed on or after 1st April 2017—
   - (i) installed at a pre-existing building or installed at premises which were first occupied as domestic premises before the installation was completed; and
   - (ii) installed by or under the responsibility of a certified installer, where the installation is referred to in the Publicly Available Specification.
@@ -416,7 +416,7 @@ where—
 - (c) where the related primary measure is—
   - (i) described in any of paragraphs (a) to (d) of the definition of “primary measure”, it is installed to at least 50% of the roof area of the premises;
   - (ii) loft insulation, it is installed in lofts which have no more than 150mm of insulation before the installation takes place and results in the lofts being insulated to a depth of no less than 250mm;
-  - (iii) wall insulation, it is applied to at least 50% of the walls which are exterior facing or it is phase 3 party cavity wall insulation[^key-e6a5c0f436783c6779d3ca08903b3030] ;
+  - (iii) wall insulation, it is applied to at least 50% of the walls which are exterior facing or it is phase 3 party cavity wall insulation[^c-e6a5c0f436783c6779d3ca08903b3030] ;
   - (iv) insulation applied to the ceiling, floor and walls of a mobile home, it is applied to at least 50% of the mobile home;
   - (v) described in paragraph (g) of the definition of “primary measure”, the supplier condition is met.
 
@@ -444,7 +444,7 @@ where—
 
 where—
 
-“A” is the supplier’s total provisional solid wall minimum requirement;[^key-cd58582311ce4e218d7b2bc3e24b50d4]
+“A” is the supplier’s total provisional solid wall minimum requirement;[^c-cd58582311ce4e218d7b2bc3e24b50d4]
 
 “B” is the appropriate carbon saving for all solid wall insulation that is—
 
@@ -504,9 +504,9 @@ must not exceed 25% of the sum of the carbon savings for all carbon saving commu
 
 ### 16. Achievement of home heating cost reduction obligation
 
-(1) A supplier must achieve its total home heating cost reduction obligation by the end of 30th September 2018”[^key-0c6d735d6917233122b1583384c6b520] .
+(1) A supplier must achieve its total home heating cost reduction obligation by the end of 30th September 2018”[^c-0c6d735d6917233122b1583384c6b520] .
 
-(2)[^key-ae14dbb244457f3c363f0801e90a16b3] Subject to paragraphs (6) to (7A), a supplier must—
+(2)[^c-ae14dbb244457f3c363f0801e90a16b3] Subject to paragraphs (6) to (7A), a supplier must—
 
 - (a) achieve its total home heating cost reduction obligation by promoting heating qualifying actions; and
 - (b) in meeting that obligation, promote heating qualifying actions—
@@ -528,7 +528,7 @@ must not exceed 25% of the sum of the carbon savings for all carbon saving commu
 
 (4) A heating qualifying action which is the repair of a qualifying boiler or a qualifying electric storage heater must be accompanied by a warranty for at least one year.
 
-(5)[^key-c70bad9fdbdd63b0e044277eeaa28dc2] A heating qualifying action must be carried out—
+(5)[^c-c70bad9fdbdd63b0e044277eeaa28dc2] A heating qualifying action must be carried out—
 
 - (a) on or after 1st April 2015;
 - (b) in accordance with the Publicly Available Specification, where the installation is referred to in the Publicly Available Specification;
@@ -539,7 +539,7 @@ must not exceed 25% of the sum of the carbon savings for all carbon saving commu
 
 (7) No more than 5% of a supplier's total home heating cost reduction obligation may be achieved by the repair of a qualifying electric storage heater.
 
-(7A)[^key-28d376a4c0ea77b5d00e247155d44c66] Where Z (as calculated in accordance with paragraph (7B)) is less than 100, no more than Z% of a supplier’s total home heating cost reduction obligation may be achieved by measures which are heating qualifying actions by virtue of meeting the condition in article 16A(3), (4) or (5).
+(7A)[^c-28d376a4c0ea77b5d00e247155d44c66] Where Z (as calculated in accordance with paragraph (7B)) is less than 100, no more than Z% of a supplier’s total home heating cost reduction obligation may be achieved by measures which are heating qualifying actions by virtue of meeting the condition in article 16A(3), (4) or (5).
 
 (7B) For the purposes of paragraph (7A), “Z” is calculated as follows—
 
@@ -555,9 +555,9 @@ where—
 - (a) a replacement boiler is accompanied at the time installation is complete by a qualifying warranty;
 - (b) a replacement electric storage heater is accompanied by a warranty for one year.
 
-(9) In this article “**private domestic premises**” means domestic premises other than premises described in Part 1 of Schedule 4[^key-ad5383669557bbeef6d0354900fafb02] .
+(9) In this article “**private domestic premises**” means domestic premises other than premises described in Part 1 of Schedule 4[^c-ad5383669557bbeef6d0354900fafb02] .
 
-### 16A. Conditions to be met for heating qualifying actions completed after 31st March 2017[^key-ecf3598ab040e07a4de3632032d2fb79]
+### 16A. Conditions to be met for heating qualifying actions completed after 31st March 2017[^c-ecf3598ab040e07a4de3632032d2fb79]
 
 (1) This article applies for the purpose of the definition of “heating qualifying action” in article 16(3).
 
@@ -625,7 +625,7 @@ where—
 
 ### 17. Notifications of qualifying actions
 
-(1) Subject to paragraph (3A),[^key-f29e4299fbf59b8441c48021c3608bc3] A supplier must by the end of each relevant calendar month notify the Administrator in writing of each qualifying action completed in the calendar month immediately prior to the calendar month in which the notification is required to be made in accordance with this paragraph.
+(1) Subject to paragraph (3A),[^c-f29e4299fbf59b8441c48021c3608bc3] A supplier must by the end of each relevant calendar month notify the Administrator in writing of each qualifying action completed in the calendar month immediately prior to the calendar month in which the notification is required to be made in accordance with this paragraph.
 
 (2) A notification under paragraph (1) must—
 
@@ -634,7 +634,7 @@ where—
 
 (3) Except where article 12(5) applies, a qualifying action is completed when its installation is complete.
 
-(3A)[^key-fa7a5a3a761f8afecfd322d700a8ab7d] A supplier may notify a completed qualifying action (“the late action”) after the date required by paragraph (1) (“the original deadline”) if—
+(3A)[^c-fa7a5a3a761f8afecfd322d700a8ab7d] A supplier may notify a completed qualifying action (“the late action”) after the date required by paragraph (1) (“the original deadline”) if—
 
 - (a) following receipt of an application under paragraph (4), the Administrator has extended the period for notifying the late action and the notification is made within that extended period; or
 - (b) the late action—
@@ -678,18 +678,18 @@ where—
 
 (8) In this article—
 
-- “new supplier” means a new 2015 supplier or a new 2016 supplier;[^key-071bc51fce49d47363cc187ca5618c7a]
+- “new supplier” means a new 2015 supplier or a new 2016 supplier;[^c-071bc51fce49d47363cc187ca5618c7a]
 - “**overall obligation period**” means—
-  - (a) for a supplier other than a new supplier, the period beginning with 1st April 2015 and ending with 30th September 2018[^key-f2adc624ff2cbc25e8f32b61891ae185] ;
-  - (b) for a new 2015 supplier, the period beginning with 1st April 2016 and ending with 30th September 2018;[^key-8321b14048231facbbc5e7babe5dc6b4]
+  - (a) for a supplier other than a new supplier, the period beginning with 1st April 2015 and ending with 30th September 2018[^c-f2adc624ff2cbc25e8f32b61891ae185] ;
+  - (b) for a new 2015 supplier, the period beginning with 1st April 2016 and ending with 30th September 2018;[^c-8321b14048231facbbc5e7babe5dc6b4]
   - (c) for a new 2016 supplier, the period beginning with 1st April 2017 and ending with 30th September 2018;
 - “**relevant calendar month**” means—
   - (a) a calendar month in the overall obligation period for the supplier (but excluding April 2015 if that month would otherwise form part of that period); and
-  - (b) October 2018[^key-0d5380cd25b281b4fca1c688935e3457] .
+  - (b) October 2018[^c-0d5380cd25b281b4fca1c688935e3457] .
 
 ### 18. Determining the carbon saving for a qualifying action
 
-(1) Subject to paragraph (2), the carbon saving for a SAP scored[^key-8d25eddd0b00f01c437ad8bf9f124a65] qualifying action notified under article 17 is calculated—
+(1) Subject to paragraph (2), the carbon saving for a SAP scored[^c-8d25eddd0b00f01c437ad8bf9f124a65] qualifying action notified under article 17 is calculated—
 
 - (a) in accordance with the following formula—
 
@@ -701,9 +701,9 @@ where—
   - (ii) “B” is the relevant in-use factor; or
 - (b) in accordance with an appropriate methodology approved by the Administrator under article 24.
 
-(2) Where the qualifying action is a measure installed in Scotland on or before 31st March 2017[^key-cfe92c5e7eb8da44ab357b187a1f270b] , the carbon saving for that action may also be calculated by determining the saving in accordance with SAP 2009 and reducing that saving by the relevant in-use factor.
+(2) Where the qualifying action is a measure installed in Scotland on or before 31st March 2017[^c-cfe92c5e7eb8da44ab357b187a1f270b] , the carbon saving for that action may also be calculated by determining the saving in accordance with SAP 2009 and reducing that saving by the relevant in-use factor.
 
-(2A)[^key-74e3d8f20020b1495d9f4a8cd0987be3] The carbon saving for a deemed score qualifying action notified under article 17 is calculated in accordance with the following formula—
+(2A)[^c-74e3d8f20020b1495d9f4a8cd0987be3] The carbon saving for a deemed score qualifying action notified under article 17 is calculated in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
 
@@ -738,16 +738,16 @@ where—
 
 (1) Subject to article 23, the cost score for a heating qualifying action notified under article 17 is calculated—
 
-- (a) in the case of a SAP scored qualifying action, other than a case[^key-cd039a10f86c4953688a4fb3a2929e96] where sub-paragraph (b) or (c) applies and subject to paragraph (2), by determining the cost saving for the qualifying action in accordance with—
+- (a) in the case of a SAP scored qualifying action, other than a case[^c-cd039a10f86c4953688a4fb3a2929e96] where sub-paragraph (b) or (c) applies and subject to paragraph (2), by determining the cost saving for the qualifying action in accordance with—
   - (i) the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure; or
   - (ii) an appropriate methodology approved by the Administrator under article 24;
-- (b) in the case of the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^key-4464acdd80d92ea0c43423c06eb45e89], in accordance with article 20 or article 21, as applicable; [^key-2850c3b54cdad5859aef9badb99d4243]...
-- (c) in the case of the repair of a qualifying electric storage heater or the replacement of a qualifying electric storage heater by another electric storage heater completed on or before 31st March 2017[^key-bd106bc0516697b05d24dc52667805df] , in accordance with article 22. or[^key-660d63ae5f22735aa9c00ec1bd897c4f]
+- (b) in the case of the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^c-4464acdd80d92ea0c43423c06eb45e89], in accordance with article 20 or article 21, as applicable; [^c-2850c3b54cdad5859aef9badb99d4243]...
+- (c) in the case of the repair of a qualifying electric storage heater or the replacement of a qualifying electric storage heater by another electric storage heater completed on or before 31st March 2017[^c-bd106bc0516697b05d24dc52667805df] , in accordance with article 22. or[^c-660d63ae5f22735aa9c00ec1bd897c4f]
 - (d) in the case of a deemed score qualifying action, in accordance with paragraph (2A).
 
-(2) Where paragraph (1)(a) applies in respect of a qualifying action installed in Scotland on or before 31st March 2017[^key-ed2c694646fdcf465fa86ef33441bc04] , the cost score for that action may also be calculated by determining the cost saving in accordance with SAP 2009.
+(2) Where paragraph (1)(a) applies in respect of a qualifying action installed in Scotland on or before 31st March 2017[^c-ed2c694646fdcf465fa86ef33441bc04] , the cost score for that action may also be calculated by determining the cost saving in accordance with SAP 2009.
 
-(2A)[^key-44a8a8a2e1797e59d2ef241c8c5859cf] The cost score for a deemed score qualifying action must be determined—
+(2A)[^c-44a8a8a2e1797e59d2ef241c8c5859cf] The cost score for a deemed score qualifying action must be determined—
 
 - (a) in the case of the replacement of a qualifying boiler where both the boiler being replaced and the replacement boiler are fuelled by mains gas, in accordance with the following formula—
 
@@ -783,7 +783,7 @@ where—
 
 ### 20. Determining the cost score for a qualifying boiler repair and replacement
 
-(1) Subject to articles 21 and 23, the cost score for the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^key-1acd7d57ced044b71518530a59270558] must be determined in accordance with the following formula—
+(1) Subject to articles 21 and 23, the cost score for the repair or replacement of a qualifying boiler completed on or before 31st March 2017[^c-1acd7d57ced044b71518530a59270558] must be determined in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2014/3219)
 
@@ -804,11 +804,11 @@ where—
 
 ### 21. Determining the cost score for a gas fuelled qualifying boiler replacement
 
-The cost score for the replacement of a qualifying boiler by another boiler completed on or before 31st March 2017[^key-cbd2ee6b70c4f9fe3a1150173874bb6b] , where both the boiler being replaced and the replacement boiler are fuelled by mains gas, must be determined by reducing the amount calculated in accordance with article 20 by 20 per cent.
+The cost score for the replacement of a qualifying boiler by another boiler completed on or before 31st March 2017[^c-cbd2ee6b70c4f9fe3a1150173874bb6b] , where both the boiler being replaced and the replacement boiler are fuelled by mains gas, must be determined by reducing the amount calculated in accordance with article 20 by 20 per cent.
 
 ### 22. Determining the cost score for a qualifying electric storage heater repair and replacement
 
-(1) The cost score for a heating qualifying action completed on or before 31st March 2017 which is[^key-6c4c191b01184b70a14a90c543799c7c] —
+(1) The cost score for a heating qualifying action completed on or before 31st March 2017 which is[^c-6c4c191b01184b70a14a90c543799c7c] —
 
 - (a) the repair of a qualifying electric storage heater; or
 - (b) the replacement of a qualifying electric storage heater by another electric storage heater,
@@ -851,9 +851,9 @@ must be determined in accordance with the following formula—
 - (a) fuelled by mains gas; or
 - (b) a district heating system.
 
-### 24. Approval of an appropriate methodology for the carbon saving or cost saving attributable to a SAP scored qualifying action[^key-f0bce7056dc14a52afb5e58ab5f6780a]
+### 24. Approval of an appropriate methodology for the carbon saving or cost saving attributable to a SAP scored qualifying action[^c-f0bce7056dc14a52afb5e58ab5f6780a]
 
-(1) For the purposes of determining the carbon saving or the cost score to be attributed to a SAP scored qualifying action[^key-ef65b9f39c6282c987b88ee581d06284], a supplier may apply to the Administrator to approve a methodology other than the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure (“an appropriate methodology”).
+(1) For the purposes of determining the carbon saving or the cost score to be attributed to a SAP scored qualifying action[^c-ef65b9f39c6282c987b88ee581d06284], a supplier may apply to the Administrator to approve a methodology other than the Standard Assessment Procedure or the Reduced Data Standard Assessment Procedure (“an appropriate methodology”).
 
 (2) An application under paragraph (1) must be made prior to the carrying out of the action.
 
@@ -862,11 +862,11 @@ must be determined in accordance with the following formula—
 - (a) the Reduced Data Standard Assessment Procedure and the Standard Assessment Procedure do not contain a methodology for determining the carbon or cost savings associated with the action; and
 - (b) in cases where the methodology is to be used to determine a carbon saving, it makes provision for the likely performance of measures once they are installed in domestic premises.
 
-(3A)[^key-79538e720a47305b2f974ec2d8f1d681] The Administrator may also approve an appropriate methodology if the methodology is published by, or on behalf of, the Department for Business, Energy and Industrial Strategy as a replacement for the Reduced Data Standard Assessment Procedure or the Standard Assessment Procedure.
+(3A)[^c-79538e720a47305b2f974ec2d8f1d681] The Administrator may also approve an appropriate methodology if the methodology is published by, or on behalf of, the Department for Business, Energy and Industrial Strategy as a replacement for the Reduced Data Standard Assessment Procedure or the Standard Assessment Procedure.
 
 (4) The Administrator must notify a supplier of its decision under this article.
 
-### 24A. Methodology for the carbon saving or cost saving attributable to a deemed score qualifying action[^key-9bbb0a8f26e368f14f42323f57918a73]
+### 24A. Methodology for the carbon saving or cost saving attributable to a deemed score qualifying action[^c-9bbb0a8f26e368f14f42323f57918a73]
 
 (1) The Administrator must publish a methodology for the purposes of determining the carbon saving to be attributed to a deemed score qualifying action.
 
@@ -910,14 +910,14 @@ the Administrator must attribute a carbon saving or cost score, as applicable, t
 
 (2) A and B must—
 
-- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^key-78c07a88afc01d06c203b5e1bedb4c9b];
+- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^c-78c07a88afc01d06c203b5e1bedb4c9b];
 - (b) provide to the Administrator such information as the Administrator may reasonably require; and
 - (c) indicate whether B intends the qualifying action to be credited towards B's—
   - (i) total carbon emissions reduction obligation;
   - (ii) total carbon saving community obligation; or
   - (iii) total home heating cost reduction obligation.
 
-(3)[^key-033e4f553a95df38c3eecd231c410e73] The Administrator must approve a transfer unless—
+(3)[^c-033e4f553a95df38c3eecd231c410e73] The Administrator must approve a transfer unless—
 
 - (a) B has indicated that it intends the qualifying action to be credited towards a different obligation to the one it is credited against at the time the application is made and the Administrator is not satisfied that the qualifying action meets the applicable requirements in articles 12 to 16 in respect of that different obligation;
 - (b) the application is made on or after 1st July 2017, the qualifying action is credited against A’s total carbon saving community obligation at the time the application is made and the Administrator is not satisfied that the qualifying action is an excess CSCO action; or
@@ -1014,14 +1014,14 @@ S may be regarded as achieved by another supplier (“D”) (“a transfer”) i
 
 (2) C and D must—
 
-- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^key-32fae39dd29510aedaf271a365893966] ;
+- (a) apply for approval in writing to the Administrator by no later than 31st December 2018[^c-32fae39dd29510aedaf271a365893966] ;
 - (b) provide to the Administrator such information as the Administrator may reasonably require; and
 - (c) indicate whether D intends S to be credited towards D's—
   - (i) total carbon emissions reduction obligation;
   - (ii) total carbon saving community obligation; or
   - (iii) total home heating cost reduction obligation.
 
-(3)[^key-7f0d248be6ea213da4535179fc519496] The Administrator must approve a transfer unless—
+(3)[^c-7f0d248be6ea213da4535179fc519496] The Administrator must approve a transfer unless—
 
 - (a) D has indicated that it intends S to be credited towards a different obligation to the one it is credited against at the time the application is made and the Administrator is not satisfied that S meets the applicable requirement in article 27(3)(c) in respect of that different obligation;
 - (b) the application is made on or after 1st July 2017 and S is credited against C’s total carbon saving community obligation at the time the application is made; or
@@ -1033,7 +1033,7 @@ S may be regarded as achieved by another supplier (“D”) (“a transfer”) i
 
 ## PART 5 — Enforcement
 
-### 30A. Transfer of obligations[^key-c75fed748ad5f3cc77fd7272c6a91db9]
+### 30A. Transfer of obligations[^c-c75fed748ad5f3cc77fd7272c6a91db9]
 
 (1) All or part of a supplier’s obligation may be transferred from that supplier (“A”) to another supplier (“B”) (“a transfer”) if the transfer is approved by the Administrator.
 
@@ -1082,9 +1082,9 @@ S may be regarded as achieved by another supplier (“D”) (“a transfer”) i
 - (b) total carbon saving community obligation; and
 - (c) total home heating cost reduction obligation.
 
-(2) A supplier may apply to the Administrator, in writing, by no later than 31st December 2018[^key-ec04629a27f8e06cdeab445654b5c6bf] for a qualifying action (“Q”) or a surplus action (“S”) to be credited against a different obligation to the one it is credited against at the time the application is made.
+(2) A supplier may apply to the Administrator, in writing, by no later than 31st December 2018[^c-ec04629a27f8e06cdeab445654b5c6bf] for a qualifying action (“Q”) or a surplus action (“S”) to be credited against a different obligation to the one it is credited against at the time the application is made.
 
-(3)[^key-ce3b62dcfc631dcb10a5997484610f3b] The Administrator must approve an application in respect of Q if—
+(3)[^c-ce3b62dcfc631dcb10a5997484610f3b] The Administrator must approve an application in respect of Q if—
 
 - (a) it is satisfied that Q meets the applicable requirements in articles 12 to 16 in respect of that different obligation;
 - (b) where the application is made on or after 1st July 2017 and Q is credited against a supplier’s total carbon saving community obligation at the time the application is made, the Administrator is satisfied that Q is not required by the supplier to meet its total carbon saving community obligation; and
@@ -1102,7 +1102,7 @@ S may be regarded as achieved by another supplier (“D”) (“a transfer”) i
 
 (5) The Administrator must submit to the Secretary of State a report each month, commencing in July 2015, setting out the progress which suppliers have made towards meeting their obligations under this Order.
 
-(6) Not later than 31st March 2019[^key-07f6099989778656e4ea7af05d2da5bc] the Administrator must submit to the Secretary of State a report setting out whether suppliers achieved the—
+(6) Not later than 31st March 2019[^c-07f6099989778656e4ea7af05d2da5bc] the Administrator must submit to the Secretary of State a report setting out whether suppliers achieved the—
 
 - (a) overall carbon emissions reduction target;
 - (b) overall carbon saving community target;
@@ -1119,7 +1119,7 @@ S may be regarded as achieved by another supplier (“D”) (“a transfer”) i
 
 ### 33. Publication of energy savings achieved by suppliers and provision of information to the Secretary of State by suppliers
 
-(1) Once a year in 2016 to 2019[^key-0152f3f23a45c71ed33a9070c199f398] the Secretary of State must publish the energy savings achieved—
+(1) Once a year in 2016 to 2019[^c-0152f3f23a45c71ed33a9070c199f398] the Secretary of State must publish the energy savings achieved—
 
 - (a) by each supplier by qualifying actions and surplus actions credited towards the supplier's obligations under this Order; and
 - (b) in total by qualifying actions and surplus actions credited towards suppliers' obligations under this Order.
@@ -1236,7 +1236,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-074ff3426ae1ab8c8715222b4c82fd86]
+[^c-074ff3426ae1ab8c8715222b4c82fd86]
 
 ## SCHEDULE 3 — Qualifying warranties for replacement boilers
 
@@ -1272,18 +1272,18 @@ Article 2
 
 ## SCHEDULE 4 — DOMESTIC PREMISES WHICH ARE NOT PRIVATE DOMESTIC PREMISES
 
-### PART 1 — Installations completed on or before 31st March 2017[^key-63e08720b3d85315c124d479075272e2]
+### PART 1 — Installations completed on or before 31st March 2017[^c-63e08720b3d85315c124d479075272e2]
 
 Article 16
 
-**1.** (1) In relation to an installation completed on or before 31st March 2017,[^key-76241c76ae84549dfaef83067875f86c] Domestic premises in England or Wales are not “private domestic premises” if—
+**1.** (1) In relation to an installation completed on or before 31st March 2017,[^c-76241c76ae84549dfaef83067875f86c] Domestic premises in England or Wales are not “private domestic premises” if—
 
 - (a) the relevant interest in those premises is registered as belonging to a social landlord and the condition in sub-paragraph (3) is met; or
 - (b) if no relevant interest in the premises has been registered—
   - (i) the premises are let to the member of the affordable warmth group, or a person who lives with the member of the affordable warmth group, by a social landlord other than under a lease granted pursuant to Part V of the Housing Act 1985 [^c22280591]; and
   - (ii) the condition in sub-paragraph (3) is met.
 
-(2) In relation to an installation completed on or before 31st March 2017,[^key-c1c51549564597e42d4cfb822820f227] Domestic premises in Scotland are not “private domestic premises” if—
+(2) In relation to an installation completed on or before 31st March 2017,[^c-c1c51549564597e42d4cfb822820f227] Domestic premises in Scotland are not “private domestic premises” if—
 
 - (a) the relevant interest in the premises is registered as belonging to a social landlord and the condition in sub-paragraph (3) is met; or
 - (b) if no relevant interest in the premises has been registered—
@@ -1324,7 +1324,7 @@ Article 16
     - (v) a person listed in section 80(1) of the Housing Act 1985; or
     - (vi) a body registered as a social landlord under Chapter 1 of Part 1 of the Housing Act 1996 [^c22280671].
 
-### PART 2 — Installations completed on or after 1st April 2017[^key-909772385b11481cf80b6afa10da01a5]
+### PART 2 — Installations completed on or after 1st April 2017[^c-909772385b11481cf80b6afa10da01a5]
 
 **2.** (1) In relation to an installation completed on or after 1st April 2017, domestic premises in England or Wales are not “private domestic premises” if the premises are let below the market rate and—
 
@@ -1338,7 +1338,7 @@ Article 16
 
 (3) Sub-paragraphs (4) and (5) of paragraph 1 apply for the purposes of this paragraph as they apply for the purposes of paragraph 1.
 
-## SCHEDULE 4A — DOMESTIC PREMISES WHICH ARE E, F OR G SOCIAL HOUSING[^key-6f1febb23feac6aa096ce0dccb81b2ca]
+## SCHEDULE 4A — DOMESTIC PREMISES WHICH ARE E, F OR G SOCIAL HOUSING[^c-6f1febb23feac6aa096ce0dccb81b2ca]
 
 Article 16A(7)
 
@@ -1568,9 +1568,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280241]: Marginal citation: This document can be found at https://www.gov.uk/government/publications/The-Future-of-the-Energy-Company-Obligation-Small-Area-Geographies-Eligible-for-ECO-CSCO-Support. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
 
-[^key-72e374350fba3f39291155f431326ae4]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/490/article/2/2)
+[^c-72e374350fba3f39291155f431326ae4]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/490/article/2/2)
 
-[^key-dc29ab65ab2015224114624324cfb512]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/490/article/2/3)
+[^c-dc29ab65ab2015224114624324cfb512]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/490/article/2/3)
 
 [^c22280251]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 6 was amended by the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), [section 30](https://www.legislation.gov.uk/ukpga/2000/27/section/30), by the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), [sections 89(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/89/3), [136(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/136/1) and (2), 143(1), 145 and 197(9), Schedule 19, paragraphs 3 and 5, and Schedule 23, Part 1, by the [Climate Change Act 2008 (c.27)](https://www.legislation.gov.uk/ukpga/2008/27), [section 78](https://www.legislation.gov.uk/ukpga/2008/27/section/78) and Schedule 8, paragraph 2, by the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16), [section 72](https://www.legislation.gov.uk/ukpga/2011/16/section/72) and Schedule 1, paragraphs 2 and 3, and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704), [regulation 19](https://www.legislation.gov.uk/uksi/2011/2704/regulation/19).
 
@@ -1580,7 +1580,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280281]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-644fa00944c2245208cd6877433c6b29]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/490/article/2/4)
+[^c-644fa00944c2245208cd6877433c6b29]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/490/article/2/4)
 
 [^c22280291]: Marginal citation: [1960 c.62](https://www.legislation.gov.uk/ukpga/1960/62). This Act was amended by the [Mobile Homes Act 2013 (c.14)](https://www.legislation.gov.uk/ukpga/2013/14), but those amendments are not relevant for the purpose of this Order.
 
@@ -1588,35 +1588,35 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280311]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 3 was amended by [S.I. 2013/468](https://www.legislation.gov.uk/uksi/2013/468), [article 3](https://www.legislation.gov.uk/uksi/2013/468/article/3).
 
-[^key-e8d37e13062b2854ebdac3633de4b285]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/490/article/2/5)
+[^c-e8d37e13062b2854ebdac3633de4b285]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/490/article/2/5)
 
-[^key-d46ff812d91b2c1cf6e13eb63cc1c7eb]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/a)
+[^c-d46ff812d91b2c1cf6e13eb63cc1c7eb]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/a)
 
-[^key-11f8e8ec2b42e731907d04999959821f]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/b)
+[^c-11f8e8ec2b42e731907d04999959821f]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/6/b)
 
-[^key-358958fcd0677d73e9b6141fc3d126ba]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/490/article/2/7)
+[^c-358958fcd0677d73e9b6141fc3d126ba]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/490/article/2/7)
 
-[^key-c4892ff0c7fd22d4d89683670f53a47d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/a)
+[^c-c4892ff0c7fd22d4d89683670f53a47d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/a)
 
-[^key-431b65f9e87602eed48242bd52f7e308]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/b)
+[^c-431b65f9e87602eed48242bd52f7e308]: Textual amendment: Word in art. 2(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/b)
 
-[^key-c368ff649aa871e3e6a172f13d7559c8]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/c)
+[^c-c368ff649aa871e3e6a172f13d7559c8]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/2/8/c)
 
-[^key-29a15d6e77f6215e3fe10211bad6acf6]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/490/article/2/9)
+[^c-29a15d6e77f6215e3fe10211bad6acf6]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/490/article/2/9)
 
-[^key-e9de7e08b86612cfa47d09db6240c988]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/490/article/2/10)
+[^c-e9de7e08b86612cfa47d09db6240c988]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/490/article/2/10)
 
-[^key-4cc7776ba316e8b96974a56e0b78ff1d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/490/article/2/11)
+[^c-4cc7776ba316e8b96974a56e0b78ff1d]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/490/article/2/11)
 
 [^c22280331]: Marginal citation: The Government's Reduced Data Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) is at Appendix S of the document entitled “The Government's Standard Assessment Procedure for the Energy Rating of Dwellings 2012 edition” which can be accessed at http://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London SW1A 2AW.
 
-[^key-c319ffa3259cad2656e1d65ea91c38bd]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/490/article/2/12)
+[^c-c319ffa3259cad2656e1d65ea91c38bd]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/490/article/2/12)
 
-[^key-68398ae38876e6906f35599ee6b74745]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/490/article/2/13)
+[^c-68398ae38876e6906f35599ee6b74745]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/490/article/2/13)
 
 [^c22280341]: Marginal citation: The Government's Standard Assessment Procedure for Energy Rating of Dwellings (2009 Edition) can be accessed at http://bre.co.uk/filelibrary/SAP/2009/SAP-2009\_9-90.pdf.
 
-[^key-074aa1398b31c409de6a7e4c8d5df322]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(14)](https://www.legislation.gov.uk/uksi/2017/490/article/2/14)
+[^c-074aa1398b31c409de6a7e4c8d5df322]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(14)](https://www.legislation.gov.uk/uksi/2017/490/article/2/14)
 
 [^c22280351]: Marginal citation: The document referred to can be found on the website for the Office of National Statistics by clicking on the words “Lower Layer Super Output Area Mid-Year Population Estimates, Mid-2010 – (SUPERSEDED)” at the following address:
 
@@ -1626,15 +1626,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280371]: Marginal citation: The Government's Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92) can be accessed at http://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected at the Department of Energy and Climate Change, 3 Whitehall Place, London, SW1A 2AW.
 
-[^key-5236ef98de6a34b4cf938f0144f21351]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/a)
+[^c-5236ef98de6a34b4cf938f0144f21351]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/a)
 
-[^key-6ab2c2e5460ddd5f57794ed4722a6014]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/b)
+[^c-6ab2c2e5460ddd5f57794ed4722a6014]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(15)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/15/b)
 
-[^key-349c64048d1ebf2158f8d535a54ca5cc]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/a)
+[^c-349c64048d1ebf2158f8d535a54ca5cc]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/a)
 
-[^key-94695f37ad29899c70986205515ed2ce]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/b)
+[^c-94695f37ad29899c70986205515ed2ce]: Textual amendment: Words in art. 2(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(16)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/2/16/b)
 
-[^key-c200c385a0e839c9d332bea4e8e82f01]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(17)](https://www.legislation.gov.uk/uksi/2017/490/article/2/17)
+[^c-c200c385a0e839c9d332bea4e8e82f01]: Textual amendment: Words in art. 2(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [2(17)](https://www.legislation.gov.uk/uksi/2017/490/article/2/17)
 
 [^c22280381]: Marginal citation: Article 12 was amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131) and is amended by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
 
@@ -1644,131 +1644,131 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280411]: Marginal citation: Article 16 was amended by [S.I. 2014/1131](https://www.legislation.gov.uk/uksi/2014/1131) and [S.I. 2014/2897](https://www.legislation.gov.uk/uksi/2014/2897) and is amended by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
 
-[^key-b3c27c818700d39ba48113889b57a403]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/a)[(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/c) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/490/article/3/1)
+[^c-b3c27c818700d39ba48113889b57a403]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/a)[(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1/c) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2017/490/article/3/1)
 
-[^key-634436d753e717bdcfb4cb6b1593cf49]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/490/article/3/2)
+[^c-634436d753e717bdcfb4cb6b1593cf49]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2014/3219/article/3/1A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/490/article/3/2)
 
-[^key-71635a24c60e897130025ba903b792e2]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/4/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2017/490/article/4/1)
+[^c-71635a24c60e897130025ba903b792e2]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/4/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2017/490/article/4/1)
 
-[^key-5d19cbb570dfc7f441d48e1e7f593790]: Textual amendment: Art. 4(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/490/article/4/2)
+[^c-5d19cbb570dfc7f441d48e1e7f593790]: Textual amendment: Art. 4(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/490/article/4/2)
 
-[^key-c805680cf09476c6c83edf2ba6778171]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/5/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [5](https://www.legislation.gov.uk/uksi/2017/490/article/5)
+[^c-c805680cf09476c6c83edf2ba6778171]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/5/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [5](https://www.legislation.gov.uk/uksi/2017/490/article/5)
 
-[^key-eebcaee63eef28d4ac2a7dff7c5a2c96]: Textual amendment: [Art. 6(8)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/6/8/c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [6](https://www.legislation.gov.uk/uksi/2017/490/article/6)
+[^c-eebcaee63eef28d4ac2a7dff7c5a2c96]: Textual amendment: [Art. 6(8)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/6/8/c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [6](https://www.legislation.gov.uk/uksi/2017/490/article/6)
 
-[^key-2ecd93bb42734f251b9151ac975eeea9]: Textual amendment: Words in art. 7 heading substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2017/490/article/7/1)
+[^c-2ecd93bb42734f251b9151ac975eeea9]: Textual amendment: Words in art. 7 heading substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2017/490/article/7/1)
 
-[^key-057e64e62f30cba9e3c01d79d468b231]: Textual amendment: Words in art. 7(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/a)
+[^c-057e64e62f30cba9e3c01d79d468b231]: Textual amendment: Words in art. 7(1) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/a)
 
-[^key-6e9d3e71f2891308d15fd095bf7f0744]: Textual amendment: Words in art. 7(1)(a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/b)
+[^c-6e9d3e71f2891308d15fd095bf7f0744]: Textual amendment: Words in art. 7(1)(a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/b)
 
-[^key-0ab913e2ad7a83e72f326f33538dbefe]: Textual amendment: Words in art. 7(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/c)
+[^c-0ab913e2ad7a83e72f326f33538dbefe]: Textual amendment: Words in art. 7(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/c)
 
-[^key-835c666e782fbf41ca99bbe33c584759]: Textual amendment: Words in art. 7(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/d)
+[^c-835c666e782fbf41ca99bbe33c584759]: Textual amendment: Words in art. 7(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2017/490/article/7/2/d)
 
-[^key-b7ae9c96143d2b8351e9809e5cf6173a]: Textual amendment: Art. 7(4)(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/490/article/7/3)
+[^c-b7ae9c96143d2b8351e9809e5cf6173a]: Textual amendment: Art. 7(4)(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/490/article/7/3)
 
-[^key-9c2a0839da60e26fad00cc7880ff33ca]: Textual amendment: Words in art. 7(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/490/article/7/4)
+[^c-9c2a0839da60e26fad00cc7880ff33ca]: Textual amendment: Words in art. 7(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/490/article/7/4)
 
-[^key-9e2a3c15a22bf94f7355082b98a3c1f1]: Textual amendment: Words in art. 7(7) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/490/article/7/5)
+[^c-9e2a3c15a22bf94f7355082b98a3c1f1]: Textual amendment: Words in art. 7(7) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/490/article/7/5)
 
-[^key-cad3b5869e1647aae849bb054be90aa9]: Textual amendment: Words in [art. 8(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/8/a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/490/article/8)
+[^c-cad3b5869e1647aae849bb054be90aa9]: Textual amendment: Words in [art. 8(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/8/a) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/490/article/8)
 
 [^c22280421]: Marginal citation: Articles 19B and 19D are inserted by [S.I. 2014/3210](https://www.legislation.gov.uk/uksi/2014/3210).
 
-[^key-911fbd3a55f8b2e6699f8218f309f4b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/490/article/9/1)
+[^c-911fbd3a55f8b2e6699f8218f309f4b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2017/490/article/9/1)
 
-[^key-c9d62c7784461b10d7c88b6c6ce923fe]: Textual amendment: [Art. 12(2)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/2/b) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/490/article/9/2)
+[^c-c9d62c7784461b10d7c88b6c6ce923fe]: Textual amendment: [Art. 12(2)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/2/b) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/490/article/9/2)
 
-[^key-0684a065c49896ae99322e8bea7dfbae]: Textual amendment: Word in [art. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/490/article/9/3)
+[^c-0684a065c49896ae99322e8bea7dfbae]: Textual amendment: Word in [art. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/490/article/9/3)
 
-[^key-ae1ebc642936bf5e1fa5c355fb19904f]: Textual amendment: [Art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/d) substituted for [art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/490/article/9/4)
+[^c-ae1ebc642936bf5e1fa5c355fb19904f]: Textual amendment: [Art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c)[(d)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/d) substituted for [art. 12(3)(c)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/3/c) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/490/article/9/4)
 
-[^key-e6a5c0f436783c6779d3ca08903b3030]: Textual amendment: Words in [art. 12(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/4/c/iii) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/490/article/9/5)
+[^c-e6a5c0f436783c6779d3ca08903b3030]: Textual amendment: Words in [art. 12(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/3219/article/12/4/c/iii) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/490/article/9/5)
 
-[^key-cd58582311ce4e218d7b2bc3e24b50d4]: Textual amendment: Words in art. 13(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [10](https://www.legislation.gov.uk/uksi/2017/490/article/10)
+[^c-cd58582311ce4e218d7b2bc3e24b50d4]: Textual amendment: Words in art. 13(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [10](https://www.legislation.gov.uk/uksi/2017/490/article/10)
 
-[^key-0c6d735d6917233122b1583384c6b520]: Textual amendment: Words in art. 16(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2017/490/article/11/1)
+[^c-0c6d735d6917233122b1583384c6b520]: Textual amendment: Words in art. 16(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2017/490/article/11/1)
 
-[^key-ae14dbb244457f3c363f0801e90a16b3]: Textual amendment: Art. 16(2)(3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/490/article/11/2)
+[^c-ae14dbb244457f3c363f0801e90a16b3]: Textual amendment: Art. 16(2)(3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2017/490/article/11/2)
 
-[^key-c70bad9fdbdd63b0e044277eeaa28dc2]: Textual amendment: Art. 16(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/490/article/11/3)
+[^c-c70bad9fdbdd63b0e044277eeaa28dc2]: Textual amendment: Art. 16(5) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2017/490/article/11/3)
 
-[^key-28d376a4c0ea77b5d00e247155d44c66]: Textual amendment: Art. 16(7A)(7B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2017/490/article/11/4)
+[^c-28d376a4c0ea77b5d00e247155d44c66]: Textual amendment: Art. 16(7A)(7B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2017/490/article/11/4)
 
-[^key-ad5383669557bbeef6d0354900fafb02]: Textual amendment: Words in art. 16(9) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2017/490/article/11/5)
+[^c-ad5383669557bbeef6d0354900fafb02]: Textual amendment: Words in art. 16(9) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2017/490/article/11/5)
 
-[^key-ecf3598ab040e07a4de3632032d2fb79]: Textual amendment: Art. 16A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [12](https://www.legislation.gov.uk/uksi/2017/490/article/12)
+[^c-ecf3598ab040e07a4de3632032d2fb79]: Textual amendment: Art. 16A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [12](https://www.legislation.gov.uk/uksi/2017/490/article/12)
 
-[^key-f29e4299fbf59b8441c48021c3608bc3]: Textual amendment: Words in art. 17(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2017/490/article/13/1)
+[^c-f29e4299fbf59b8441c48021c3608bc3]: Textual amendment: Words in art. 17(1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2017/490/article/13/1)
 
-[^key-fa7a5a3a761f8afecfd322d700a8ab7d]: Textual amendment: Art. 17(3A)(3B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/490/article/13/2)
+[^c-fa7a5a3a761f8afecfd322d700a8ab7d]: Textual amendment: Art. 17(3A)(3B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/490/article/13/2)
 
 [^M_F_142f779d-675d-4a0d-f748-2ea773240706]: Textual amendment: Art. 17(5) substituted for art. 17(5)(6) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/c)
 
-[^key-071bc51fce49d47363cc187ca5618c7a]: Textual amendment: Words in art. 17(8) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/a)
+[^c-071bc51fce49d47363cc187ca5618c7a]: Textual amendment: Words in art. 17(8) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/a)
 
-[^key-f2adc624ff2cbc25e8f32b61891ae185]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/i)
+[^c-f2adc624ff2cbc25e8f32b61891ae185]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/i)
 
-[^key-8321b14048231facbbc5e7babe5dc6b4]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/ii)
+[^c-8321b14048231facbbc5e7babe5dc6b4]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/b/ii)
 
-[^key-0d5380cd25b281b4fca1c688935e3457]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/c)
+[^c-0d5380cd25b281b4fca1c688935e3457]: Textual amendment: Words in art. 17(8) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2017/490/article/13/4/c)
 
-[^key-8d25eddd0b00f01c437ad8bf9f124a65]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2017/490/article/14/1)
+[^c-8d25eddd0b00f01c437ad8bf9f124a65]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2017/490/article/14/1)
 
-[^key-cfe92c5e7eb8da44ab357b187a1f270b]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/490/article/14/2)
+[^c-cfe92c5e7eb8da44ab357b187a1f270b]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2017/490/article/14/2)
 
-[^key-74e3d8f20020b1495d9f4a8cd0987be3]: Textual amendment: [Art. 18(2A)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/490/article/14/3)
+[^c-74e3d8f20020b1495d9f4a8cd0987be3]: Textual amendment: [Art. 18(2A)](https://www.legislation.gov.uk/uksi/2014/3219/article/18/2A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2017/490/article/14/3)
 
 [^c22280431]: Marginal citation: [2008 c.27](https://www.legislation.gov.uk/ukpga/2008/27).
 
-[^key-cd039a10f86c4953688a4fb3a2929e96]: Textual amendment: Words in art. 19(1)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2017/490/article/15/1)
+[^c-cd039a10f86c4953688a4fb3a2929e96]: Textual amendment: Words in art. 19(1)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2017/490/article/15/1)
 
-[^key-4464acdd80d92ea0c43423c06eb45e89]: Textual amendment: Words in art. 19(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/490/article/15/2)
+[^c-4464acdd80d92ea0c43423c06eb45e89]: Textual amendment: Words in art. 19(1)(b) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2017/490/article/15/2)
 
-[^key-2850c3b54cdad5859aef9badb99d4243]: Textual amendment: Word in art. 19(1)(b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/490/article/15/3)
+[^c-2850c3b54cdad5859aef9badb99d4243]: Textual amendment: Word in art. 19(1)(b) omitted (29.3.2017) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2017/490/article/15/3)
 
-[^key-bd106bc0516697b05d24dc52667805df]: Textual amendment: Words in art. 19(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/490/article/15/4)
+[^c-bd106bc0516697b05d24dc52667805df]: Textual amendment: Words in art. 19(1)(c) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(4)](https://www.legislation.gov.uk/uksi/2017/490/article/15/4)
 
-[^key-660d63ae5f22735aa9c00ec1bd897c4f]: Textual amendment: Art. 19(1)(d) and word inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2017/490/article/15/5)
+[^c-660d63ae5f22735aa9c00ec1bd897c4f]: Textual amendment: Art. 19(1)(d) and word inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2017/490/article/15/5)
 
-[^key-ed2c694646fdcf465fa86ef33441bc04]: Textual amendment: Words in art. 19(2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2017/490/article/15/6)
+[^c-ed2c694646fdcf465fa86ef33441bc04]: Textual amendment: Words in art. 19(2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(6)](https://www.legislation.gov.uk/uksi/2017/490/article/15/6)
 
-[^key-44a8a8a2e1797e59d2ef241c8c5859cf]: Textual amendment: Art. 19(2A)-(2C) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2017/490/article/15/7)
+[^c-44a8a8a2e1797e59d2ef241c8c5859cf]: Textual amendment: Art. 19(2A)-(2C) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [15(7)](https://www.legislation.gov.uk/uksi/2017/490/article/15/7)
 
-[^key-1acd7d57ced044b71518530a59270558]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/20/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [16](https://www.legislation.gov.uk/uksi/2017/490/article/16)
+[^c-1acd7d57ced044b71518530a59270558]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/20/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [16](https://www.legislation.gov.uk/uksi/2017/490/article/16)
 
-[^key-cbd2ee6b70c4f9fe3a1150173874bb6b]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/2014/3219/article/21) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/490/article/17)
+[^c-cbd2ee6b70c4f9fe3a1150173874bb6b]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/2014/3219/article/21) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [17](https://www.legislation.gov.uk/uksi/2017/490/article/17)
 
-[^key-6c4c191b01184b70a14a90c543799c7c]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/22/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [18](https://www.legislation.gov.uk/uksi/2017/490/article/18)
+[^c-6c4c191b01184b70a14a90c543799c7c]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/22/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [18](https://www.legislation.gov.uk/uksi/2017/490/article/18)
 
-[^key-f0bce7056dc14a52afb5e58ab5f6780a]: Textual amendment: Words in art. 24 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2017/490/article/19/1)
+[^c-f0bce7056dc14a52afb5e58ab5f6780a]: Textual amendment: Words in art. 24 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2017/490/article/19/1)
 
-[^key-ef65b9f39c6282c987b88ee581d06284]: Textual amendment: Words in art. 24(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/490/article/19/2)
+[^c-ef65b9f39c6282c987b88ee581d06284]: Textual amendment: Words in art. 24(1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2017/490/article/19/2)
 
-[^key-79538e720a47305b2f974ec2d8f1d681]: Textual amendment: Art. 24(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2017/490/article/19/3)
+[^c-79538e720a47305b2f974ec2d8f1d681]: Textual amendment: Art. 24(3A) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2017/490/article/19/3)
 
-[^key-9bbb0a8f26e368f14f42323f57918a73]: Textual amendment: Art. 24A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [20](https://www.legislation.gov.uk/uksi/2017/490/article/20)
+[^c-9bbb0a8f26e368f14f42323f57918a73]: Textual amendment: Art. 24A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [20](https://www.legislation.gov.uk/uksi/2017/490/article/20)
 
-[^key-78c07a88afc01d06c203b5e1bedb4c9b]: Textual amendment: Words in art. 26(2)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2017/490/article/21/1)
+[^c-78c07a88afc01d06c203b5e1bedb4c9b]: Textual amendment: Words in art. 26(2)(a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2017/490/article/21/1)
 
-[^key-033e4f553a95df38c3eecd231c410e73]: Textual amendment: Art. 26(3)(3A) substituted for art. 26(3) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2017/490/article/21/2)
+[^c-033e4f553a95df38c3eecd231c410e73]: Textual amendment: Art. 26(3)(3A) substituted for art. 26(3) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2017/490/article/21/2)
 
 [^c22280441]: Marginal citation: Article 13(3) is amended by [S.I. 2104/3210](https://www.legislation.gov.uk/uksi/2104/3210).
 
-[^key-32fae39dd29510aedaf271a365893966]: Textual amendment: Words in [art. 30(2)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/2/a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2017/490/article/22/1)
+[^c-32fae39dd29510aedaf271a365893966]: Textual amendment: Words in [art. 30(2)(a)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/2/a) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2017/490/article/22/1)
 
-[^key-7f0d248be6ea213da4535179fc519496]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2017/490/article/22/2)
+[^c-7f0d248be6ea213da4535179fc519496]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2014/3219/article/30/3) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2017/490/article/22/2)
 
-[^key-c75fed748ad5f3cc77fd7272c6a91db9]: Textual amendment: Art. 30A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [23](https://www.legislation.gov.uk/uksi/2017/490/article/23)
+[^c-c75fed748ad5f3cc77fd7272c6a91db9]: Textual amendment: Art. 30A inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [23](https://www.legislation.gov.uk/uksi/2017/490/article/23)
 
-[^key-ec04629a27f8e06cdeab445654b5c6bf]: Textual amendment: Words in art. 31(2) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(1)](https://www.legislation.gov.uk/uksi/2017/490/article/24/1)
+[^c-ec04629a27f8e06cdeab445654b5c6bf]: Textual amendment: Words in art. 31(2) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(1)](https://www.legislation.gov.uk/uksi/2017/490/article/24/1)
 
-[^key-ce3b62dcfc631dcb10a5997484610f3b]: Textual amendment: Art. 31(3)-(4) substituted for art. 31(3)(4) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2017/490/article/24/2)
+[^c-ce3b62dcfc631dcb10a5997484610f3b]: Textual amendment: Art. 31(3)-(4) substituted for art. 31(3)(4) (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2017/490/article/24/2)
 
-[^key-07f6099989778656e4ea7af05d2da5bc]: Textual amendment: Words in art. 31(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2017/490/article/24/3)
+[^c-07f6099989778656e4ea7af05d2da5bc]: Textual amendment: Words in art. 31(6) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2017/490/article/24/3)
 
-[^key-0152f3f23a45c71ed33a9070c199f398]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/33/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [25](https://www.legislation.gov.uk/uksi/2017/490/article/25)
+[^c-0152f3f23a45c71ed33a9070c199f398]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/uksi/2014/3219/article/33/1) substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [25](https://www.legislation.gov.uk/uksi/2017/490/article/25)
 
 [^c22280451]: Marginal citation: OJ No L 3015, 14.11.2012, p1; the Directive has been amended but the amendments are not relevant to these Regulations.
 
@@ -1798,15 +1798,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280581]: Marginal citation: Regulation 3 was amended by [S.I. 2004/762](https://www.legislation.gov.uk/uksi/2004/762), [regulation 2](https://www.legislation.gov.uk/uksi/2004/762/regulation/2), [S.I](https://www.legislation.gov.uk/uksi/2004/762/section/I). 2005/2919, article 4, [S.I. 2007/2151](https://www.legislation.gov.uk/uksi/2007/2151), [regulations 2](https://www.legislation.gov.uk/uksi/2007/2151/regulation/2) and 3, [S.I. 2008/2169](https://www.legislation.gov.uk/uksi/2008/2169), [regulations 6](https://www.legislation.gov.uk/uksi/2008/2169/regulation/6) and 8, [S.I. 2009/697](https://www.legislation.gov.uk/uksi/2009/697), [regulations 9](https://www.legislation.gov.uk/uksi/2009/697/regulation/9) and 16, [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740), [article 2](https://www.legislation.gov.uk/uksi/2011/1740/article/2) and Schedule 1, [S.I. 2012/848](https://www.legislation.gov.uk/uksi/2012/848), [regulation 4](https://www.legislation.gov.uk/uksi/2012/848/regulation/4), [S.I](https://www.legislation.gov.uk/uksi/2012/848/section/I). 2013/1465, article 17 and Schedule 1.
 
-[^key-074ff3426ae1ab8c8715222b4c82fd86]: Textual amendment: Words in Sch. 2 substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [26](https://www.legislation.gov.uk/uksi/2017/490/article/26)
+[^c-074ff3426ae1ab8c8715222b4c82fd86]: Textual amendment: Words in Sch. 2 substituted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [26](https://www.legislation.gov.uk/uksi/2017/490/article/26)
 
-[^key-63e08720b3d85315c124d479075272e2]: Textual amendment: Sch. 4 Pt. 1 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(1)](https://www.legislation.gov.uk/uksi/2017/490/article/27/1)
+[^c-63e08720b3d85315c124d479075272e2]: Textual amendment: Sch. 4 Pt. 1 heading inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(1)](https://www.legislation.gov.uk/uksi/2017/490/article/27/1)
 
-[^key-76241c76ae84549dfaef83067875f86c]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2017/490/article/27/2)
+[^c-76241c76ae84549dfaef83067875f86c]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/1) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(2)](https://www.legislation.gov.uk/uksi/2017/490/article/27/2)
 
 [^c22280591]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). Part V was amended by section 235 of and Schedule 10 to the Insolvency Act1985 (c. 65), section 437 of and Schedule 11 to the [Insolvency Act 1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), [sections 2](https://www.legislation.gov.uk/ukpga/1986/45/section/2), [4](https://www.legislation.gov.uk/ukpga/1986/45/section/4), [8](https://www.legislation.gov.uk/ukpga/1986/45/section/8), [24](https://www.legislation.gov.uk/ukpga/1986/45/section/24) of and Schedule 5 to the [Housing and Planning Act 1986 (c.63)](https://www.legislation.gov.uk/ukpga/1986/63), [sections 1](https://www.legislation.gov.uk/ukpga/1986/63/section/1) and 2 of and the Schedule to the [Land Registration Act 1988 (c.3)](https://www.legislation.gov.uk/ukpga/1988/3), [sections 83](https://www.legislation.gov.uk/ukpga/1988/3/section/83), [122](https://www.legislation.gov.uk/ukpga/1988/3/section/122), [124](https://www.legislation.gov.uk/ukpga/1988/3/section/124), [126](https://www.legislation.gov.uk/ukpga/1988/3/section/126), [127](https://www.legislation.gov.uk/ukpga/1988/3/section/127), [140](https://www.legislation.gov.uk/ukpga/1988/3/section/140) of and Schedule 17 to the [Housing Act 1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50), [sections 104](https://www.legislation.gov.uk/ukpga/1988/50/section/104), [105](https://www.legislation.gov.uk/ukpga/1988/50/section/105), [108 to 120](https://www.legislation.gov.uk/ukpga/1988/50/section/108), [187(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/187/2) of and Schedules 21 and 22 to the [Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), [section 66](https://www.legislation.gov.uk/ukpga/1993/28/section/66) of and Schedule 8 to the [Family Law Act 1996 (c.27)](https://www.legislation.gov.uk/ukpga/1996/27), [section 222](https://www.legislation.gov.uk/ukpga/1996/27/section/222) of and Schedule 18 to the [Housing Act 1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52), [sections 140](https://www.legislation.gov.uk/ukpga/1996/52/section/140) and 152 of and Schedules 16 and 18 to the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), the [Statute Law (Repeals) Act 1998 (c.43)](https://www.legislation.gov.uk/ukpga/1998/43), [section 14](https://www.legislation.gov.uk/ukpga/1998/43/section/14) of and Schedule 1 to the Anti-[Social Behaviour Act 2003 (c.38)](https://www.legislation.gov.uk/ukpga/2003/38), [sections 81](https://www.legislation.gov.uk/ukpga/2003/38/section/81) and 261 of and Schedules 8 and 30 to the Civil Partnership Act 2004, sections 180 to 190, 192, 193 and 270 of the [Housing Act 2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), [section 93](https://www.legislation.gov.uk/ukpga/2004/34/section/93) of and Schedule 15 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), [sections 133](https://www.legislation.gov.uk/ukpga/2000/37/section/133) and 135 of and Schedules 11 and 13 to the [Land Registration Act 2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9), [sections 52](https://www.legislation.gov.uk/ukpga/2002/9/section/52) and 53 of the [Police and Justice Act 2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), [sections 304](https://www.legislation.gov.uk/ukpga/2006/48/section/304), [306](https://www.legislation.gov.uk/ukpga/2006/48/section/306), [191](https://www.legislation.gov.uk/ukpga/2006/48/section/191), [307](https://www.legislation.gov.uk/ukpga/2006/48/section/307), [321](https://www.legislation.gov.uk/ukpga/2006/48/section/321) and 325 of and Schedule 16 to the [Housing and Regeneration Act 2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), [section 31](https://www.legislation.gov.uk/ukpga/2008/17/section/31) of the Housing (Wales) Measure 2011 (nawm 5), [section 195](https://www.legislation.gov.uk/ukpga/2008/17/section/195) of and Schedule 19 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [S.I](https://www.legislation.gov.uk/ukpga/2011/20/section/I). 1993/651, article 2 and Schedule 1, [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [article 5](https://www.legislation.gov.uk/uksi/1996/2325/article/5) and Schedule 2, [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [article 2](https://www.legislation.gov.uk/uksi/1997/74/article/2) and Schedule, [S.I. 1997/627](https://www.legislation.gov.uk/uksi/1997/627), [article 2](https://www.legislation.gov.uk/uksi/1997/627/article/2) and Schedule, [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [article 299](https://www.legislation.gov.uk/uksi/2001/3649/article/299), [S.I](https://www.legislation.gov.uk/uksi/2001/3649/section/I). 2005/3237, article 2, [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [article 4](https://www.legislation.gov.uk/uksi/2007/709/article/4), [S.I](https://www.legislation.gov.uk/uksi/2007/709/section/I). 2009/1941, article 2 and Schedule, [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844), [article 6](https://www.legislation.gov.uk/uksi/2010/844/article/6) and Schedule 2, [S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866), [articles 4](https://www.legislation.gov.uk/uksi/2010/866/article/4) and 5 and Schedules 1 and 2.
 
-[^key-c1c51549564597e42d4cfb822820f227]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2017/490/article/27/3)
+[^c-c1c51549564597e42d4cfb822820f227]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4/paragraph/1/2) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(3)](https://www.legislation.gov.uk/uksi/2017/490/article/27/3)
 
 [^c22280601]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Sections 61 to 84 were amended by sections 1, 3, 65 and 72 of and Schedules 2, 8, 9 and 10 to the Housing (Scotland) Act (c.43), sections 168, 176, 194 of and Schedules 11 and 12 to the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), [sections 144](https://www.legislation.gov.uk/ukpga/1989/42/section/144), [145](https://www.legislation.gov.uk/ukpga/1989/42/section/145), [157](https://www.legislation.gov.uk/ukpga/1989/42/section/157), [187](https://www.legislation.gov.uk/ukpga/1989/42/section/187) of and Schedule 22 to the Leasehold Reform, Housing and Urban Development Act 1993, section 180 of and Schedule 13 to the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), [sections 4](https://www.legislation.gov.uk/ukpga/1994/39/section/4) and 6 of and Schedule 2 to the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), [section 152](https://www.legislation.gov.uk/ukpga/1997/11/section/152) of and Schedule 18 to the Government of Wales Act 1998, sections 42 to 49, 51, 108 and 112 of and Schedule 10 to the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), [section 71](https://www.legislation.gov.uk/asp/2001/10/section/71) of and Schedule 7to the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [S.I](https://www.legislation.gov.uk/asp/2002/3/section/I). 2010/2040, articles 1 and 2 and Schedule.
 
@@ -1824,6 +1824,6 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22280671]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52). Chapter 1 of Part 1 was amended by sections 140 and 152 of, and Schedules 16 and 18 to the Government of Wales Act 1998, section 75 of and Schedule 8 to the [Charities Act 2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), [sections 61](https://www.legislation.gov.uk/ukpga/2006/50/section/61) and 321 of, and Schedule 16 to the Housing and Regeneration Act 2008, sections 2 and 8 of the Co-operative and Community Benefit Societies and Credit Unions Act 2010, [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-909772385b11481cf80b6afa10da01a5]: Textual amendment: Sch. 4 Pt. 2 inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(4)](https://www.legislation.gov.uk/uksi/2017/490/article/27/4)
+[^c-909772385b11481cf80b6afa10da01a5]: Textual amendment: Sch. 4 Pt. 2 inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [27(4)](https://www.legislation.gov.uk/uksi/2017/490/article/27/4)
 
-[^key-6f1febb23feac6aa096ce0dccb81b2ca]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4A), [Sch. 4B](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/490/article/28)
+[^c-6f1febb23feac6aa096ce0dccb81b2ca]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4A), [Sch. 4B](https://www.legislation.gov.uk/uksi/2014/3219/schedule/4B) inserted (29.3.2017) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2017 (S.I. 2017/490)](https://www.legislation.gov.uk/uksi/2017/490), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/490/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/490/article/28)

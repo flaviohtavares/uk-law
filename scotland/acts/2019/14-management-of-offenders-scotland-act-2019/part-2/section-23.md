@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Disclosure period: particular court orders[^key-18ada2622d96876deaaf4fc5ae5f21b0]
+## 23. Disclosure period: particular court orders[^c-18ada2622d96876deaaf4fc5ae5f21b0]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18ada2622d96876deaaf4fc5ae5f21b0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/14/section/23) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-18ada2622d96876deaaf4fc5ae5f21b0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/14/section/23) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

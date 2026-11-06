@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Modification of seaward boundaries of local government areas.[^key-e76cc2e6078e9c8a50101bbf7235ea1f]
+## 71. Modification of seaward boundaries of local government areas.[^c-e76cc2e6078e9c8a50101bbf7235ea1f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e76cc2e6078e9c8a50101bbf7235ea1f]: Textual amendment: S. 71 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-e76cc2e6078e9c8a50101bbf7235ea1f]: Textual amendment: S. 71 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

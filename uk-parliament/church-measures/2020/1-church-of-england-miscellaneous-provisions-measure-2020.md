@@ -37,9 +37,9 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ### 1. Members of religious communities
 
-(1)[^key-6d8d3622318f360fb00a905c37cb5859] The General Synod may make provision by Canon to enable a bishop to admit into Holy Orders a person who is a member of a religious community.
+(1)[^c-6d8d3622318f360fb00a905c37cb5859] The General Synod may make provision by Canon to enable a bishop to admit into Holy Orders a person who is a member of a religious community.
 
-(2)[^key-6d8d3622318f360fb00a905c37cb5859] After section 2 of the Extra-Parochial Ministry Measure 1967 insert—
+(2)[^c-6d8d3622318f360fb00a905c37cb5859] After section 2 of the Extra-Parochial Ministry Measure 1967 insert—
 
 > **2A. Ministry by member of religious community**
 >
@@ -51,15 +51,15 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 >
 > (4) In this section, “**religious community**” has the same meaning as in the Canons (see Canon DA 1).
 
-(3)[^key-6d8d3622318f360fb00a905c37cb5859] In the Church Representation Rules, set out in Schedule 3 to the Synodical Government Measure 1969, in rule 46(1) (membership of House of Laity), in paragraph (c), omit “having their mother house”.
+(3)[^c-6d8d3622318f360fb00a905c37cb5859] In the Church Representation Rules, set out in Schedule 3 to the Synodical Government Measure 1969, in rule 46(1) (membership of House of Laity), in paragraph (c), omit “having their mother house”.
 
-(4)[^key-e3a9aaed59e7900b1622792f9228e304] In rule 84 of those Rules (interpretation: minor definitions), in paragraph (1), at the appropriate place insert—
+(4)[^c-e3a9aaed59e7900b1622792f9228e304] In rule 84 of those Rules (interpretation: minor definitions), in paragraph (1), at the appropriate place insert—
 
 > “**religious community**” means a religious community which comes within the meaning given in the Canons (see Canon DA 1) and is designated by the House of Bishops for the purposes of these Rules;
 
 .
 
-(5)[^key-e3a9aaed59e7900b1622792f9228e304] In section 38 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (the list of places of worship), in subsection (4), at the appropriate place insert—
+(5)[^c-e3a9aaed59e7900b1622792f9228e304] In section 38 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (the list of places of worship), in subsection (4), at the appropriate place insert—
 
 > “**religious community**” has the same meaning as in the Canons (see Canon DA 1).
 
@@ -67,7 +67,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## Ministry
 
-### 2. National ministry register[^key-930e7d3446d12231675caf1a67579c55]
+### 2. National ministry register[^c-930e7d3446d12231675caf1a67579c55]
 
 (1) The Archbishops' Council may by regulations require the bishop of each diocese or the holder of any other specified office in the Church of England to provide the Council within a specified period with specified information about—
 
@@ -119,7 +119,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 - (a) as if the regulations had been made by a Minister of the Crown, and
 - (b) as if this Measure were an Act of Parliament providing for the instrument containing the regulations to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 3. Funerals: conduct by lay person[^key-729ba38785689c6c0ba7f9a3b7a816db]
+### 3. Funerals: conduct by lay person[^c-729ba38785689c6c0ba7f9a3b7a816db]
 
 (1) In section 4 of the Church of England (Miscellaneous Provisions) Measure 2018 (funerals: conduct), after subsection (1) insert—
 
@@ -136,7 +136,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## Ecclesiastical jurisdiction
 
-### 4. Fees: exemption, reduction or remission[^key-6f71053864696c16a0513afbf93f6534]
+### 4. Fees: exemption, reduction or remission[^c-6f71053864696c16a0513afbf93f6534]
 
 (1) In section 86 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (fees orders), after subsection (3) insert—
 
@@ -151,7 +151,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## Care of churches
 
-### 5. Cathedrals: power to vary or revoke approvals[^key-bc4dc18abb4dabf1d5f3aa120075cdc0]
+### 5. Cathedrals: power to vary or revoke approvals[^c-bc4dc18abb4dabf1d5f3aa120075cdc0]
 
 (1) In section 8 of the Care of Cathedrals Measure 2011 (application for approval of fabric advisory committee), after subsection (3) insert—
 
@@ -217,7 +217,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
   , and
 - (c) the words from “the tenant may,” to the end become full-out words beneath the new paragraphs (a) and (b).
 
-### 6. Disused burial grounds: approval for building, etc.[^key-154a5cbabba363a877189b92948dee2f]
+### 6. Disused burial grounds: approval for building, etc.[^c-154a5cbabba363a877189b92948dee2f]
 
 (1) In section 2 of the Care of Cathedrals Measure 2011 (approval required for alterations to cathedrals), after subsection (2) insert—
 
@@ -288,7 +288,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 >
 > (6) The reference in subsection (5)(a) to a person's spouse includes a reference to a spouse of the same sex as that person.
 
-### 7. Inspection of churches etc: appointment of inspector[^key-57666f0bb987beab8fc0a2cc1b67a68f]
+### 7. Inspection of churches etc: appointment of inspector[^c-57666f0bb987beab8fc0a2cc1b67a68f]
 
 (1) In section 45 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (“**the 2018 Measure**”) (scheme for inspections), in subsection (2)—
 
@@ -345,7 +345,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## Parochial registers and records
 
-### 8. Parochial registers[^key-da9d33d0c00ddcc56822829ecf28e591]
+### 8. Parochial registers[^c-da9d33d0c00ddcc56822829ecf28e591]
 
 (1) In section 25 of the Parochial Registers and Records Measure 1978 (interpretation), after subsection (1) insert—
 
@@ -378,7 +378,7 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 (4) In section 24 of that Measure (service of notices and orders), in subsection (1), after “or by post” insert “ , or by electronic means ”.
 
-### 9. Parochial records[^key-79573e91fb0b9682e071d6ad1394f707]
+### 9. Parochial records[^c-79573e91fb0b9682e071d6ad1394f707]
 
 (1) In section 25 of the Parochial Registers and Records Measure 1978 (interpretation), in subsection (1), for the definition of “records” and the definition of “records in parochial custody” substitute—
 
@@ -402,13 +402,13 @@ A Measure passed by the General Synod of the Church of England to make miscellan
 
 ## Statutory bodies: procedure
 
-### 10. Cathedrals Fabric Commission: delegation to officers[^key-d47bda28fe70253f23eb9d924a6414b0]
+### 10. Cathedrals Fabric Commission: delegation to officers[^c-d47bda28fe70253f23eb9d924a6414b0]
 
 In section 3 of the Care of Cathedrals Measure 2011 (the Cathedrals Fabric Commission), after subsection (3) insert—
 
 > (3A) The Commission may delegate to an officer such functions as it thinks fit.
 
-### 11. Diocesan Advisory Committee: limit on successive terms of office[^key-951cef8440c7f136cc3e9d54ee2b657c]
+### 11. Diocesan Advisory Committee: limit on successive terms of office[^c-951cef8440c7f136cc3e9d54ee2b657c]
 
 (1) In Schedule 2 to the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (diocesan advisory committee: constitution), in paragraph 3 (membership: term of office), at the end insert—
 
@@ -497,9 +497,9 @@ In section 3 of the Care of Cathedrals Measure 2011 (the Cathedrals Fabric Commi
 
 Section 6(7)
 
-**1.**[^key-870f951066e8de50f0abed5bed20414f] The Care of Cathedrals Rules 2006 (S.I. 2006/1941) are amended as follows.
+**1.**[^c-870f951066e8de50f0abed5bed20414f] The Care of Cathedrals Rules 2006 (S.I. 2006/1941) are amended as follows.
 
-**2.**[^key-39a764b8cf73d18fcfde3022ae0d1087] In rule 2 (interpretation)—
+**2.**[^c-39a764b8cf73d18fcfde3022ae0d1087] In rule 2 (interpretation)—
 
 - (a) in the definition of “the Commission”, omit “constituted by section 3”,
 - (b) in the definition of “Commission of Review”, for “section 10” substitute “ section 11 ”,
@@ -511,12 +511,12 @@ Section 6(7)
   , and
 - (e) in the definition of “precinct”, for “section 13” substitute “ section 25 ”.
 
-**3.**[^key-a772d3dd97f1805b4d56b524cc3e0864] In paragraph 1(1) of Schedule 1 (interpretation)—
+**3.**[^c-a772d3dd97f1805b4d56b524cc3e0864] In paragraph 1(1) of Schedule 1 (interpretation)—
 
 - (a) in the definition of “designated person”, for “section 6A(3)”, substitute “ section 7(3) ”, and
 - (b) in the definition of “specified museum”, for “section 6A(4)(b)” substitute “ section 7(4)(b) ”.
 
-**4.**[^key-65c6c94d1c164919e25adb7416ebe9dc] In each of the provisions specified in the first column of the table below, for the words specified in the second column (which refer to a provision of the Care of Cathedrals Measure 1990) substitute the words specified in the third column (which refer to a provision of the Care of Cathedrals Measure 2011)—
+**4.**[^c-65c6c94d1c164919e25adb7416ebe9dc] In each of the provisions specified in the first column of the table below, for the words specified in the second column (which refer to a provision of the Care of Cathedrals Measure 1990) substitute the words specified in the third column (which refer to a provision of the Care of Cathedrals Measure 2011)—
 
 | *Provision of the Rules* | *Provision of the 1990 Measure* | *Provision of the 2011 Measure* |
 | --- | --- | --- |
@@ -546,9 +546,9 @@ Section 6(7)
 | Schedule 1, paragraph 8(1) | section 6A(4)(b) | section 7(4)(b) |
 | Schedule 1, paragraph 8(3) | section 6A(4)(b) | section 7(4)(b) |
 
-**5.**[^key-ddd59aee1d14fbdda1480bf124f2023c] In each Form in Schedule 2, for “Care of Cathedrals Measure 1990 (as amended)”, in each place it appears, substitute “ Care of Cathedrals Measure 2011 ”.
+**5.**[^c-ddd59aee1d14fbdda1480bf124f2023c] In each Form in Schedule 2, for “Care of Cathedrals Measure 1990 (as amended)”, in each place it appears, substitute “ Care of Cathedrals Measure 2011 ”.
 
-**6.**[^key-a158dc80e81f759c008ae7c0af62f61f] In each Form in Schedule 2 specified in the first column of the table below, for the words specified in the second column (which refer to a provision of the Care of Cathedrals Measure 1990) substitute the words specified in the third column (which refer to a provision of the Care of Cathedrals Measure 2011)—
+**6.**[^c-a158dc80e81f759c008ae7c0af62f61f] In each Form in Schedule 2 specified in the first column of the table below, for the words specified in the second column (which refer to a provision of the Care of Cathedrals Measure 1990) substitute the words specified in the third column (which refer to a provision of the Care of Cathedrals Measure 2011)—
 
 | *Form in Schedule 2 to the Rules* | *Provision of the 1990 Measure* | *Provision of the 2011 Measure* |
 | --- | --- | --- |
@@ -575,38 +575,38 @@ Section 6(7)
 
 ## Annotations
 
-[^key-6d8d3622318f360fb00a905c37cb5859]: Commencement: [S. 1(1)-(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/1) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-6d8d3622318f360fb00a905c37cb5859]: Commencement: [S. 1(1)-(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/1) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-e3a9aaed59e7900b1622792f9228e304]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/4)[(5)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/5) in force at 14.7.2021 by [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)
+[^c-e3a9aaed59e7900b1622792f9228e304]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/4)[(5)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/5) in force at 14.7.2021 by [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)
 
-[^key-930e7d3446d12231675caf1a67579c55]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2020/1/section/2) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-930e7d3446d12231675caf1a67579c55]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2020/1/section/2) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-729ba38785689c6c0ba7f9a3b7a816db]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2020/1/section/3) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-729ba38785689c6c0ba7f9a3b7a816db]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2020/1/section/3) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-6f71053864696c16a0513afbf93f6534]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2020/1/section/4) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-6f71053864696c16a0513afbf93f6534]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2020/1/section/4) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-bc4dc18abb4dabf1d5f3aa120075cdc0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2020/1/section/5) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-bc4dc18abb4dabf1d5f3aa120075cdc0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2020/1/section/5) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-154a5cbabba363a877189b92948dee2f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2020/1/section/6) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-154a5cbabba363a877189b92948dee2f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2020/1/section/6) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-57666f0bb987beab8fc0a2cc1b67a68f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2020/1/section/7) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-57666f0bb987beab8fc0a2cc1b67a68f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2020/1/section/7) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-da9d33d0c00ddcc56822829ecf28e591]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2020/1/section/8) in force at 16.11.2023 by [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
+[^c-da9d33d0c00ddcc56822829ecf28e591]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2020/1/section/8) in force at 16.11.2023 by [S.I. 2023/1264](https://www.legislation.gov.uk/uksi/2023/1264), [art. 2](https://www.legislation.gov.uk/uksi/2023/1264/article/2)
 
-[^key-79573e91fb0b9682e071d6ad1394f707]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2020/1/section/9) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-79573e91fb0b9682e071d6ad1394f707]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2020/1/section/9) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-d47bda28fe70253f23eb9d924a6414b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2020/1/section/10) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-d47bda28fe70253f23eb9d924a6414b0]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2020/1/section/10) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-951cef8440c7f136cc3e9d54ee2b657c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2020/1/section/11) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-951cef8440c7f136cc3e9d54ee2b657c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2020/1/section/11) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-870f951066e8de50f0abed5bed20414f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/1) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-870f951066e8de50f0abed5bed20414f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/1) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-39a764b8cf73d18fcfde3022ae0d1087]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/2) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-39a764b8cf73d18fcfde3022ae0d1087]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/2) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-a772d3dd97f1805b4d56b524cc3e0864]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/3) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-a772d3dd97f1805b4d56b524cc3e0864]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/3) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-65c6c94d1c164919e25adb7416ebe9dc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/4) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-65c6c94d1c164919e25adb7416ebe9dc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/4) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-ddd59aee1d14fbdda1480bf124f2023c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/5) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-ddd59aee1d14fbdda1480bf124f2023c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/5) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-a158dc80e81f759c008ae7c0af62f61f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/6) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-a158dc80e81f759c008ae7c0af62f61f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2020/1/schedule/paragraph/6) in force at 1.9.2020 by [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)

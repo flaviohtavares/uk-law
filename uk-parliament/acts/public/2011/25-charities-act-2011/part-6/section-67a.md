@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Proceeds of fund-raising: power of charity trustees to apply cy-près[^key-813b0941fc4c51d5371120c795ba1f6a]
+## 67A. Proceeds of fund-raising: power of charity trustees to apply cy-près[^c-813b0941fc4c51d5371120c795ba1f6a]
 
 *Extent: E+W+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-813b0941fc4c51d5371120c795ba1f6a]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2011/25/section/67A) inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 7](https://www.legislation.gov.uk/ukpga/2022/6/section/7), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/4)
+[^c-813b0941fc4c51d5371120c795ba1f6a]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2011/25/section/67A) inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 7](https://www.legislation.gov.uk/ukpga/2022/6/section/7), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/4)

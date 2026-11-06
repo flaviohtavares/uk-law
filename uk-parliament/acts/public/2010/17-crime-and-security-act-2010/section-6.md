@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-b29d6d18d0eb234f1a4406dd89b4de6d] In section 63A of the Police and Criminal Evidence Act 1984 (fingerprinting and samples: supplementary provisions), for subsections (4) to (8) there is substituted—
+(1)[^c-b29d6d18d0eb234f1a4406dd89b4de6d] In section 63A of the Police and Criminal Evidence Act 1984 (fingerprinting and samples: supplementary provisions), for subsections (4) to (8) there is substituted—
 
 > (4) Schedule 2A (fingerprinting and samples: power to require attendance at police station) shall have effect.
 
-(2)[^key-8cc12918822dc90e767a2978940f87c5] In that Act, after Schedule 2 there is inserted—
+(2)[^c-8cc12918822dc90e767a2978940f87c5] In that Act, after Schedule 2 there is inserted—
 
 > **SCHEDULE 2A — Fingerprinting and samples: power to require attendance at police station**
 >
@@ -71,7 +71,7 @@ summary: ''
 >
 > **Persons subject to a control order**
 >
-> **4.**[^key-6f4cd76f170029a5bbfb45d35ee2ac42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-6f4cd76f170029a5bbfb45d35ee2ac42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Persons convicted etc of an offence outside England and Wales**
 >
@@ -141,7 +141,7 @@ summary: ''
 >
 > **Persons subject to a control order**
 >
-> **12.**[^key-6f4cd76f170029a5bbfb45d35ee2ac42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-6f4cd76f170029a5bbfb45d35ee2ac42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Persons convicted etc of an offence outside England and Wales**
 >
@@ -191,19 +191,19 @@ summary: ''
 >
 > **17.** A constable may arrest without warrant a person who has failed to comply with a requirement under this Schedule.
 
-(3)[^key-34820c8fea1aed2e4ad45bdb7a901c3f] In that Act, in section 27 (fingerprinting of certain offenders), subsections (1) to (3) are repealed.
+(3)[^c-34820c8fea1aed2e4ad45bdb7a901c3f] In that Act, in section 27 (fingerprinting of certain offenders), subsections (1) to (3) are repealed.
 
-(4)[^key-34820c8fea1aed2e4ad45bdb7a901c3f] In the Police Reform Act 2002, in Part 3 of Schedule 4 (powers exercisable by detention officers)—
+(4)[^c-34820c8fea1aed2e4ad45bdb7a901c3f] In the Police Reform Act 2002, in Part 3 of Schedule 4 (powers exercisable by detention officers)—
 
 - (a) in paragraph 25 (attendance at police station for fingerprinting), for “section 27(1) of the 1984 Act (fingerprinting of suspects)” there is substituted “ Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station) ”;
 - (b) in paragraph 32 (attendance at police station for the taking of a sample), for the words from “subsection (4)” to “samples)” there is substituted “ Schedule 2A to the 1984 Act (fingerprinting and samples: power to require attendance at a police station) ”.
 
 ## Annotations
 
-[^key-b29d6d18d0eb234f1a4406dd89b4de6d]: Commencement: S. 6(1) in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/414/article/2/c)
+[^c-b29d6d18d0eb234f1a4406dd89b4de6d]: Commencement: S. 6(1) in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/414/article/2/c)
 
-[^key-8cc12918822dc90e767a2978940f87c5]: Commencement: S. 6(2) in force at 7.3.2011 for specified purposes by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/414/article/2/d)
+[^c-8cc12918822dc90e767a2978940f87c5]: Commencement: S. 6(2) in force at 7.3.2011 for specified purposes by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/414/article/2/d)
 
-[^key-6f4cd76f170029a5bbfb45d35ee2ac42]: Textual amendment: Words in s. 6(2) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/2) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-6f4cd76f170029a5bbfb45d35ee2ac42]: Textual amendment: Words in s. 6(2) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/6/2) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-34820c8fea1aed2e4ad45bdb7a901c3f]: Commencement: S. 6(3)(4) in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)
+[^c-34820c8fea1aed2e4ad45bdb7a901c3f]: Commencement: S. 6(3)(4) in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/414/article/2/e)

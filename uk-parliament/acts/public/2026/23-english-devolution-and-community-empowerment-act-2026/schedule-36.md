@@ -26,13 +26,13 @@ Section 99
 
 **Not yet in force.**
 
-**1.**[^key-aee09f70682f6173b1776ec478342383] The Local Audit and Accountability Act 2014 is amended as follows.
+**1.**[^c-aee09f70682f6173b1776ec478342383] The Local Audit and Accountability Act 2014 is amended as follows.
 
 **Not yet in force.**
 
-**2.**[^key-a6398ca7478f2a9ddf568eaac4f24ea1] In the heading of Part 3, at the end insert “: health service bodies”.
+**2.**[^c-a6398ca7478f2a9ddf568eaac4f24ea1] In the heading of Part 3, at the end insert “: health service bodies”.
 
-**3.**[^key-68ea97d672d1b3a96aadcb9c06a0257e] (1) Section 7 (appointment of local auditor) is amended as follows.
+**3.**[^c-68ea97d672d1b3a96aadcb9c06a0257e] (1) Section 7 (appointment of local auditor) is amended as follows.
 
 (2) In subsection (1), for “relevant authority” substitute “health service body”.
 
@@ -67,7 +67,7 @@ Section 99
 
 **Not yet in force.**
 
-**4.**[^key-43e325b4733f8a579afde7e75e092a68] (1) Section 8 (procedure for appointment) is amended as follows.
+**4.**[^c-43e325b4733f8a579afde7e75e092a68] (1) Section 8 (procedure for appointment) is amended as follows.
 
 (2) In subsection (1), for “relevant authority” substitute “health service body”.
 
@@ -89,14 +89,14 @@ Section 99
 
 **Not yet in force.**
 
-**5.**[^key-54dcc67b287e582305817e9b18bb99ef] In section 9 (auditor panels)—
+**5.**[^c-54dcc67b287e582305817e9b18bb99ef] In section 9 (auditor panels)—
 
 - (a) in subsection (1), for “relevant authority” substitute “health service body”;
 - (b) omit subsection (2).
 
 **Not yet in force.**
 
-**6.**[^key-74019081852eade9787af1d75b2db56d] (1) Section 10 (functions of auditor panels) is amended as follows.
+**6.**[^c-74019081852eade9787af1d75b2db56d] (1) Section 10 (functions of auditor panels) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -139,15 +139,15 @@ Section 99
 
 **Not yet in force.**
 
-**7.**[^key-47a81592b183d7877be29245c16e5c7f] Omit section 11 (relationship of relevant authority other than health service body with auditor panel).
+**7.**[^c-47a81592b183d7877be29245c16e5c7f] Omit section 11 (relationship of relevant authority other than health service body with auditor panel).
 
 **Not yet in force.**
 
-**8.**[^key-6e47a202bd3d280810853b0f563a852e] Omit section 12 (failure to appoint local auditor by relevant authority other than health service body).
+**8.**[^c-6e47a202bd3d280810853b0f563a852e] Omit section 12 (failure to appoint local auditor by relevant authority other than health service body).
 
 **Not yet in force.**
 
-**9.**[^key-7d1b72c4868882db347e9a108a997916] (1) Section 14 (limitation of local auditor’s liability) is amended as follows.
+**9.**[^c-7d1b72c4868882db347e9a108a997916] (1) Section 14 (limitation of local auditor’s liability) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -162,11 +162,11 @@ Section 99
 
 **Not yet in force.**
 
-**10.**[^key-5317c69ebc2e879fe169b72c78416a0d] Omit section 15 (further provision about limitation of liability).
+**10.**[^c-5317c69ebc2e879fe169b72c78416a0d] Omit section 15 (further provision about limitation of liability).
 
 **Not yet in force.**
 
-**11.**[^key-6bae967e2aba114bc04ef785b49b5c7f] (1) Section 16 (resignation and removal of local auditor) is amended as follows.
+**11.**[^c-6bae967e2aba114bc04ef785b49b5c7f] (1) Section 16 (resignation and removal of local auditor) is amended as follows.
 
 (2) In subsection (1), in paragraphs (a) and (b), for “relevant authority” substitute “health service body”.
 
@@ -199,7 +199,7 @@ Section 99
 
 **Not yet in force.**
 
-**12.**[^key-851e3fa3e076afa400c6c3420becf597] (1) Section 17 (appointment of auditor other than by audited body) is amended as follows.
+**12.**[^c-851e3fa3e076afa400c6c3420becf597] (1) Section 17 (appointment of auditor other than by audited body) is amended as follows.
 
 (2) In subsection (1), for “relevant authority” substitute “health service body”.
 
@@ -220,31 +220,31 @@ Section 99
 
 **Not yet in force.**
 
-**13.**[^key-aef6bcbf3bd817abf7fe94a0649a1142] Omit Part 4 (eligibility and regulation of local auditors).
+**13.**[^c-aef6bcbf3bd817abf7fe94a0649a1142] Omit Part 4 (eligibility and regulation of local auditors).
 
 **Not yet in force.**
 
-**14.**[^key-05c5b0f93251845dddbad8d5bc4f2749] In section 23(3) (recovery of expenses in connection with obstruction offences), for the words from “from” to the end substitute “under section 32A, so far as they are not recovered by any other means.”
+**14.**[^c-05c5b0f93251845dddbad8d5bc4f2749] In section 23(3) (recovery of expenses in connection with obstruction offences), for the words from “from” to the end substitute “under section 32A, so far as they are not recovered by any other means.”
 
 **Not yet in force.**
 
-**15.**[^key-f4d34806d904bc6ac2463bd9d94679b2] In section 26(3) (recovery of costs in connection with questioning by elector), for the words from “from” to the end substitute “under section 32A.”
+**15.**[^c-f4d34806d904bc6ac2463bd9d94679b2] In section 26(3) (recovery of costs in connection with questioning by elector), for the words from “from” to the end substitute “under section 32A.”
 
 **Not yet in force.**
 
-**16.**[^key-0bedf4f96bda7101e1898f71a19a52a5] In section 27(7) (recovery of costs in connection with objection by elector), for “from the relevant authority” substitute “under section 32A”.
+**16.**[^c-0bedf4f96bda7101e1898f71a19a52a5] In section 27(7) (recovery of costs in connection with objection by elector), for “from the relevant authority” substitute “under section 32A”.
 
 **Not yet in force.**
 
-**17.**[^key-dec95637cf7e493b17cfa961faf440cd] In section 28(7) (recovery of costs in considering application for declaration of unlawfulness), for “from the relevant authority” substitute “under section 32A”.
+**17.**[^c-dec95637cf7e493b17cfa961faf440cd] In section 28(7) (recovery of costs in considering application for declaration of unlawfulness), for “from the relevant authority” substitute “under section 32A”.
 
 **Not yet in force.**
 
-**18.**[^key-442138cebe4e1ad91568f275eb18d522] In section 31(6) (recovery of costs in considering application for judicial review), for “from the relevant authority” substitute “under section 32A”.
+**18.**[^c-442138cebe4e1ad91568f275eb18d522] In section 31(6) (recovery of costs in considering application for judicial review), for “from the relevant authority” substitute “under section 32A”.
 
 **Not yet in force.**
 
-**19.**[^key-8ea141f9117cc35a246629c503b22438] In section 32(3) (consultation about proposed accounts and audit regulations)—
+**19.**[^c-8ea141f9117cc35a246629c503b22438] In section 32(3) (consultation about proposed accounts and audit regulations)—
 
 - (a) for paragraph (a) substitute—
 
@@ -257,7 +257,7 @@ Section 99
 
 **Not yet in force.**
 
-**20.**[^key-ac5d6ae0fc6f217aa1b7b3d437164a28] After section 32 insert—
+**20.**[^c-ac5d6ae0fc6f217aa1b7b3d437164a28] After section 32 insert—
 
 > **Recoverable sums**
 >
@@ -273,7 +273,7 @@ Section 99
 >
 > (5) If, by virtue of any provision of this Part, costs or expenses are recoverable by the local auditor under this section, the local auditor may recover the amount of those costs or expenses from the health service body as a debt.
 
-**21.**[^key-eeb620f482a2e980a7d99ad4d3e94fbd] After Part 5 insert—
+**21.**[^c-eeb620f482a2e980a7d99ad4d3e94fbd] After Part 5 insert—
 
 > **Part 5A — Local audit: further provision**
 >
@@ -462,7 +462,7 @@ Section 99
 > - (a) if the offence is committed before the time when section 281(5) of the Criminal Justice Act 2003 comes into force, six months;
 > - (b) if the offence is committed after that time, 51 weeks.
 
-**22.**[^key-df8895f8571fa6bf2e3a8a7065866404] In section 43(4) (orders and regulations subject to affirmative procedure)—
+**22.**[^c-df8895f8571fa6bf2e3a8a7065866404] In section 43(4) (orders and regulations subject to affirmative procedure)—
 
 - (a) in paragraphs (d) and (e), for “smaller” substitute “category 2”;
 - (b) after paragraph (f) insert—
@@ -489,7 +489,7 @@ Section 99
 - (g) in paragraph (l), for “that Schedule” substitute “Schedule 4”;
 - (h) omit paragraph (m) (but not the “and” at the end).
 
-**23.**[^key-705f8d915ddf78647327caa4d12f88a2] After section 43 insert—
+**23.**[^c-705f8d915ddf78647327caa4d12f88a2] After section 43 insert—
 
 > **43A. Connected entities**
 >
@@ -507,7 +507,7 @@ Section 99
 
 **Not yet in force.**
 
-**24.**[^key-3c54523ad4e9123ad1259b8126f60c16] (1) Section 44 (interpretation) is amended as follows.
+**24.**[^c-3c54523ad4e9123ad1259b8126f60c16] (1) Section 44 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -550,11 +550,11 @@ Section 99
 
 **Not yet in force.**
 
-**25.**[^key-db8e35ef560a43a4ff66c8848e4f8b0a] Omit Schedule 3 (further provision about appointment of local auditors).
+**25.**[^c-db8e35ef560a43a4ff66c8848e4f8b0a] Omit Schedule 3 (further provision about appointment of local auditors).
 
 **Not yet in force.**
 
-**26.**[^key-2c4a6b503c2598d512d112ee7d587d97] (1) Schedule 4 (auditor panels) is amended as follows.
+**26.**[^c-2c4a6b503c2598d512d112ee7d587d97] (1) Schedule 4 (auditor panels) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -601,11 +601,11 @@ Section 99
 
 **Not yet in force.**
 
-**27.**[^key-b47df2bfa963e1ae69a377811eb0a3b0] Omit Schedule 5 (eligibility and regulation of local auditors).
+**27.**[^c-b47df2bfa963e1ae69a377811eb0a3b0] Omit Schedule 5 (eligibility and regulation of local auditors).
 
 **Not yet in force.**
 
-**28.**[^key-00cc24f026eba6f55d10cd08f295a040] (1) Schedule 6 (codes of audit practice and guidance) is amended as follows.
+**28.**[^c-00cc24f026eba6f55d10cd08f295a040] (1) Schedule 6 (codes of audit practice and guidance) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -642,7 +642,7 @@ Section 99
 
 **Not yet in force.**
 
-**29.**[^key-859533a59d06b76923eaaedd60654da8] (1) Schedule 7 (reports and recommendations) is amended as follows.
+**29.**[^c-859533a59d06b76923eaaedd60654da8] (1) Schedule 7 (reports and recommendations) is amended as follows.
 
 (2) In paragraph 1, for sub-paragraphs (5) and (6) substitute—
 
@@ -673,7 +673,7 @@ Section 99
 
 **Not yet in force.**
 
-**30.**[^key-acde01a07331747475d4ab941cf902a8] In Schedule 8 (advisory notices), in paragraph 3, for sub-paragraphs (5) and (6) substitute—
+**30.**[^c-acde01a07331747475d4ab941cf902a8] In Schedule 8 (advisory notices), in paragraph 3, for sub-paragraphs (5) and (6) substitute—
 
 > (5) A local auditor may recover under section 32A the reasonable costs of—
 >
@@ -682,7 +682,7 @@ Section 99
 
 **Not yet in force.**
 
-**31.**[^key-676e316a6c774a488258051c9337cc58] In Schedule 11 (disclosure of information), in paragraph 1, for sub-paragraph (3) substitute—
+**31.**[^c-676e316a6c774a488258051c9337cc58] In Schedule 11 (disclosure of information), in paragraph 1, for sub-paragraph (3) substitute—
 
 > (3) Those authorities are—
 >
@@ -692,21 +692,21 @@ Section 99
 
 **Not yet in force.**
 
-**32.**[^key-6a05c03aa8b86a45c7424a93f0707436] In Schedule 12 (related amendments), omit paragraph 78 and the preceding italic heading.
+**32.**[^c-6a05c03aa8b86a45c7424a93f0707436] In Schedule 12 (related amendments), omit paragraph 78 and the preceding italic heading.
 
 **Not yet in force.**
 
-**33.**[^key-6178b01faedc083119a815137172e831] Omit Schedule 13 (transitional provision concerning NHS bodies).
+**33.**[^c-6178b01faedc083119a815137172e831] Omit Schedule 13 (transitional provision concerning NHS bodies).
 
 ### Part 2 — Other amendments
 
 **Not yet in force.**
 
-#### 34. [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^key-10bc7cb7de18b24e7a3fe5524d43ca99]
+#### 34. [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)[^c-10bc7cb7de18b24e7a3fe5524d43ca99]
 
 In section 2(1A) of the Local Government, Planning and Land Act 1980 (application of duty to publish information to smaller authorities), in paragraph (c), for “smaller” substitute “category 2”.
 
-#### 35. [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)[^key-d0ea9aea01af494e334f56040f638e4d]
+#### 35. [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46)[^c-d0ea9aea01af494e334f56040f638e4d]
 
 In Part 1 of Schedule 11A to the Companies Act 2006 (persons to whom audit-related information may be disclosed free from the restriction in section 1224A of that Act), for paragraphs 17A to 17D substitute—
 
@@ -716,7 +716,7 @@ In Part 1 of Schedule 11A to the Companies Act 2006 (persons to whom audit-relat
 >
 > **17G.** Any person given functions by rules or arrangements made for the purposes of Schedule 1C of that Act (eligibility and regulation of registered local audit providers).
 
-#### 36. [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20)[^key-25b55ba912cd6a2ce540d054aafc2778]
+#### 36. [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20)[^c-25b55ba912cd6a2ce540d054aafc2778]
 
 (1) LDEDCA 2009 is amended as follows.
 
@@ -734,7 +734,7 @@ In Part 1 of Schedule 11A to the Companies Act 2006 (persons to whom audit-relat
 - (a) in the heading, omit “and audit committee”;
 - (b) omit paragraph 9 and the preceding italic heading.
 
-#### 37. [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55)[^key-64ec0fd2cdcda5cc3f8f9f68dd433dfb]
+#### 37. [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55)[^c-64ec0fd2cdcda5cc3f8f9f68dd433dfb]
 
 (1) LURA 2023 is amended as follows.
 
@@ -756,76 +756,76 @@ In Part 1 of Schedule 11A to the Companies Act 2006 (persons to whom audit-relat
 
 ## Annotations
 
-[^key-aee09f70682f6173b1776ec478342383]: Commencement: Sch. 36 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-aee09f70682f6173b1776ec478342383]: Commencement: Sch. 36 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-a6398ca7478f2a9ddf568eaac4f24ea1]: Commencement: Sch. 36 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-a6398ca7478f2a9ddf568eaac4f24ea1]: Commencement: Sch. 36 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-68ea97d672d1b3a96aadcb9c06a0257e]: Commencement: Sch. 36 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-68ea97d672d1b3a96aadcb9c06a0257e]: Commencement: Sch. 36 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-43e325b4733f8a579afde7e75e092a68]: Commencement: Sch. 36 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-43e325b4733f8a579afde7e75e092a68]: Commencement: Sch. 36 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-54dcc67b287e582305817e9b18bb99ef]: Commencement: Sch. 36 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-54dcc67b287e582305817e9b18bb99ef]: Commencement: Sch. 36 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-74019081852eade9787af1d75b2db56d]: Commencement: Sch. 36 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-74019081852eade9787af1d75b2db56d]: Commencement: Sch. 36 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-47a81592b183d7877be29245c16e5c7f]: Commencement: Sch. 36 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-47a81592b183d7877be29245c16e5c7f]: Commencement: Sch. 36 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6e47a202bd3d280810853b0f563a852e]: Commencement: Sch. 36 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6e47a202bd3d280810853b0f563a852e]: Commencement: Sch. 36 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-7d1b72c4868882db347e9a108a997916]: Commencement: Sch. 36 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-7d1b72c4868882db347e9a108a997916]: Commencement: Sch. 36 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-5317c69ebc2e879fe169b72c78416a0d]: Commencement: Sch. 36 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-5317c69ebc2e879fe169b72c78416a0d]: Commencement: Sch. 36 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6bae967e2aba114bc04ef785b49b5c7f]: Commencement: Sch. 36 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6bae967e2aba114bc04ef785b49b5c7f]: Commencement: Sch. 36 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-851e3fa3e076afa400c6c3420becf597]: Commencement: Sch. 36 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-851e3fa3e076afa400c6c3420becf597]: Commencement: Sch. 36 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-aef6bcbf3bd817abf7fe94a0649a1142]: Commencement: Sch. 36 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-aef6bcbf3bd817abf7fe94a0649a1142]: Commencement: Sch. 36 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-05c5b0f93251845dddbad8d5bc4f2749]: Commencement: Sch. 36 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-05c5b0f93251845dddbad8d5bc4f2749]: Commencement: Sch. 36 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-f4d34806d904bc6ac2463bd9d94679b2]: Commencement: Sch. 36 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-f4d34806d904bc6ac2463bd9d94679b2]: Commencement: Sch. 36 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-0bedf4f96bda7101e1898f71a19a52a5]: Commencement: Sch. 36 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-0bedf4f96bda7101e1898f71a19a52a5]: Commencement: Sch. 36 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-dec95637cf7e493b17cfa961faf440cd]: Commencement: Sch. 36 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-dec95637cf7e493b17cfa961faf440cd]: Commencement: Sch. 36 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-442138cebe4e1ad91568f275eb18d522]: Commencement: Sch. 36 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-442138cebe4e1ad91568f275eb18d522]: Commencement: Sch. 36 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-8ea141f9117cc35a246629c503b22438]: Commencement: Sch. 36 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-8ea141f9117cc35a246629c503b22438]: Commencement: Sch. 36 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-ac5d6ae0fc6f217aa1b7b3d437164a28]: Commencement: Sch. 36 para. 20 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-ac5d6ae0fc6f217aa1b7b3d437164a28]: Commencement: Sch. 36 para. 20 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-eeb620f482a2e980a7d99ad4d3e94fbd]: Commencement: Sch. 36 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-eeb620f482a2e980a7d99ad4d3e94fbd]: Commencement: Sch. 36 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-df8895f8571fa6bf2e3a8a7065866404]: Commencement: Sch. 36 para. 22 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-df8895f8571fa6bf2e3a8a7065866404]: Commencement: Sch. 36 para. 22 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-705f8d915ddf78647327caa4d12f88a2]: Commencement: Sch. 36 para. 23 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-705f8d915ddf78647327caa4d12f88a2]: Commencement: Sch. 36 para. 23 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-3c54523ad4e9123ad1259b8126f60c16]: Commencement: Sch. 36 para. 24 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-3c54523ad4e9123ad1259b8126f60c16]: Commencement: Sch. 36 para. 24 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-db8e35ef560a43a4ff66c8848e4f8b0a]: Commencement: Sch. 36 para. 25 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-db8e35ef560a43a4ff66c8848e4f8b0a]: Commencement: Sch. 36 para. 25 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-2c4a6b503c2598d512d112ee7d587d97]: Commencement: Sch. 36 para. 26 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-2c4a6b503c2598d512d112ee7d587d97]: Commencement: Sch. 36 para. 26 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-b47df2bfa963e1ae69a377811eb0a3b0]: Commencement: Sch. 36 para. 27 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-b47df2bfa963e1ae69a377811eb0a3b0]: Commencement: Sch. 36 para. 27 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-00cc24f026eba6f55d10cd08f295a040]: Commencement: Sch. 36 para. 28 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-00cc24f026eba6f55d10cd08f295a040]: Commencement: Sch. 36 para. 28 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-859533a59d06b76923eaaedd60654da8]: Commencement: Sch. 36 para. 29 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-859533a59d06b76923eaaedd60654da8]: Commencement: Sch. 36 para. 29 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-acde01a07331747475d4ab941cf902a8]: Commencement: Sch. 36 para. 30 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-acde01a07331747475d4ab941cf902a8]: Commencement: Sch. 36 para. 30 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-676e316a6c774a488258051c9337cc58]: Commencement: Sch. 36 para. 31 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-676e316a6c774a488258051c9337cc58]: Commencement: Sch. 36 para. 31 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6a05c03aa8b86a45c7424a93f0707436]: Commencement: Sch. 36 para. 32 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6a05c03aa8b86a45c7424a93f0707436]: Commencement: Sch. 36 para. 32 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6178b01faedc083119a815137172e831]: Commencement: Sch. 36 para. 33 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6178b01faedc083119a815137172e831]: Commencement: Sch. 36 para. 33 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-10bc7cb7de18b24e7a3fe5524d43ca99]: Commencement: Sch. 36 para. 34 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-10bc7cb7de18b24e7a3fe5524d43ca99]: Commencement: Sch. 36 para. 34 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-d0ea9aea01af494e334f56040f638e4d]: Commencement: Sch. 36 para. 35 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-d0ea9aea01af494e334f56040f638e4d]: Commencement: Sch. 36 para. 35 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-25b55ba912cd6a2ce540d054aafc2778]: Commencement: Sch. 36 para. 36 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-25b55ba912cd6a2ce540d054aafc2778]: Commencement: Sch. 36 para. 36 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-64ec0fd2cdcda5cc3f8f9f68dd433dfb]: Commencement: Sch. 36 para. 37 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-64ec0fd2cdcda5cc3f8f9f68dd433dfb]: Commencement: Sch. 36 para. 37 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

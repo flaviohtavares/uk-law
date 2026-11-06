@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Requirement for consent to release[^key-d662f32df057253e171a78e8a3b55288]
+## 8. Requirement for consent to release[^c-d662f32df057253e171a78e8a3b55288]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The cases and circumstances prescribed for the purposes of Article 8(1)(a) of th
 
 ## Annotations
 
-[^key-d662f32df057253e171a78e8a3b55288]: Commencement: Reg. 8 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-d662f32df057253e171a78e8a3b55288]: Commencement: Reg. 8 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

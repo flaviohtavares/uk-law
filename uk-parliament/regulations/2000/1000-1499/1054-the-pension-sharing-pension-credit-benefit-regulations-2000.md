@@ -59,28 +59,28 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - “the 1993 Act" means the Pension Schemes Act 1993;
 - “the 1995 Act" means the Pensions Act 1995;
 - “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
-- “the[^key-50ba4c320618195dd758f9ba8ea066bd] 2004 Act” means the Pensions Act 2004;
-- [^key-85b735ae291eec7ba0f2b87c4023914a]...
+- “the[^c-50ba4c320618195dd758f9ba8ea066bd] 2004 Act” means the Pensions Act 2004;
+- [^c-85b735ae291eec7ba0f2b87c4023914a]...
 - “the Taxes Act" means the Income and Corporation Taxes Act 1988[^c1601284];
 - “active member", in relation to an occupational pension scheme, means a person who is in pensionable service under the scheme;
-- [^key-fc1a74153e1a0ed224f158da4284dcf3]...
+- [^c-fc1a74153e1a0ed224f158da4284dcf3]...
 - “base rate" means the base rate for the time being quoted by the reference banks or, where there is for the time being more than one such base rate, the base rate which, when the base rate quoted by each bank is ranked in a descending sequence of seven, is fourth in the sequence;
-- “categories of benefits” refers to the categories listed in paragraphs (a) to (c) of section 101F(6B) of the 1993 Act;[^key-e877370b8ab0fccd4501a8d7c06225ee]
-- [^key-398289c940ea51e534f7be8837a2002a]...
-- [^key-85b735ae291eec7ba0f2b87c4023914a]...
+- “categories of benefits” refers to the categories listed in paragraphs (a) to (c) of section 101F(6B) of the 1993 Act;[^c-e877370b8ab0fccd4501a8d7c06225ee]
+- [^c-398289c940ea51e534f7be8837a2002a]...
+- [^c-85b735ae291eec7ba0f2b87c4023914a]...
 - “eligible member" has the meaning given by section 101P(1) of the 1993 Act[^c1601286];
 - “employer" has the meaning given by section 181(1) of the 1993 Act;
-- [^key-f99004c177a5523b12740516f4383326]...
+- [^c-f99004c177a5523b12740516f4383326]...
 - “the Inland Revenue" means the Commissioners of Inland Revenue;
 - “member" means a member of an occupational pension scheme or a personal pension scheme and includes an eligible member;
 - “money purchase benefits" has the meaning given by section 181(1) of the 1993 Act[^c1601287]
-- [^key-fc1a74153e1a0ed224f158da4284dcf3]...
+- [^c-fc1a74153e1a0ed224f158da4284dcf3]...
 - “money purchase scheme" has the meaning given by section 181(1) of the 1993 Act;
 - “normal benefit age" has the meaning given by section 101B of the 1993 Act[^c1601288];
 - “occupational pension scheme" has the meaning given by section 1 of the 1993 Act;
 - “overseas arrangement" has the meaning given by regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^c1601289];
 - “overseas scheme" has the meaning given by regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations 1996[^c1601290];
-- “pension credit benefit” has the meaning given by section 101B of the 1993 Act insofar as that expression is used in Part II of these Regulations;[^key-8be4935d62735e88415b67bb5879d213]
+- “pension credit benefit” has the meaning given by section 101B of the 1993 Act insofar as that expression is used in Part II of these Regulations;[^c-8be4935d62735e88415b67bb5879d213]
 - “pension credit rights" has the meaning given by—
   - (a) section 101B of the 1993 Act insofar as that expression is used in Part II of these Regulations; and
   - (b) section 101P of the 1993 Act insofar as that expression is used in Part III of these Regulations;
@@ -89,26 +89,26 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - “principal appointed day" has the meaning given by section 7(2B) of the 1993 Act[^c1601293];
 - “qualifying occupational pension scheme" has the meaning given by section 40(3) of the 1999 Act;
 - “qualifying scheme" has the meaning given by section 101P(1) of the 1993 Act;
-- “the reference banks” means the seven largest persons for the time being who—[^key-34939588b21f4902d0c3b6442c2b76b1]
+- “the reference banks” means the seven largest persons for the time being who—[^c-34939588b21f4902d0c3b6442c2b76b1]
   - (a) have permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits;
   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits; and
   - (c) quote a base rate in sterling;
 
   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in section 736 of the Companies Act 1985), as shown in the audited end of year accounts last published before that time.
-- “Regulatory Authority" means the Pensions Regulator[^key-e79c28050860a5e3a0d548a8ac59f073];
+- “Regulatory Authority" means the Pensions Regulator[^c-e79c28050860a5e3a0d548a8ac59f073];
 - “relevant pension" means a pension to which section 40(2) of the 1999 Act applies;
-- [^key-c45a474f0ad9ecb80aa5579b72886a5f]...
-- [^key-873350dc0867301f0dccce40abdfc31b]...
+- [^c-c45a474f0ad9ecb80aa5579b72886a5f]...
+- [^c-873350dc0867301f0dccce40abdfc31b]...
 - “scheme" has the meaning given by section 101B of the 1993 Act[^c1601299];
-- [^key-5f2d89e3ccadfe6567e192bdabf478ed]...
+- [^c-5f2d89e3ccadfe6567e192bdabf478ed]...
 - “transfer credits" means rights allowed to a person under the rules of an occupational or personal pension scheme by reference to a transfer to that scheme of his accrued rights from another scheme (including any transfer credits allowed by that scheme);
 - “transfer notice" has the meaning given by section 101F(7) of the 1993 Act;
-- “the[^key-ceef5bac46fa09962d5ca929dfc8c529] Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations 1996;
+- “the[^c-ceef5bac46fa09962d5ca929dfc8c529] Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations 1996;
 - “trustees or managers" has the meaning given by section 46(1) of the 1999 Act;
-- “valuation date" has the meaning given by section 101J(7) of the 1993 Act;[^key-cc584390b7b991ac11afa8054b445720]
-- “valuation day” has the meaning given in section 29(7) of the 1999 Act.[^key-419f64d676eb1b360305d9a5b68fca84]
+- “valuation date" has the meaning given by section 101J(7) of the 1993 Act;[^c-cc584390b7b991ac11afa8054b445720]
+- “valuation day” has the meaning given in section 29(7) of the 1999 Act.[^c-419f64d676eb1b360305d9a5b68fca84]
 
-(3)[^key-e4df26196499b4de0cf70199da76c33a] The definition of “the reference banks” in paragraph (2) must be read with—
+(3)[^c-e4df26196499b4de0cf70199da76c33a] The definition of “the reference banks” in paragraph (2) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -123,17 +123,17 @@ For the purposes of Chapter II of Part IVA of the 1993 Act [^c1601300] (requirem
 
 ## PART II — PENSION CREDIT BENEFIT UNDER OCCUPATIONAL PENSION SCHEMES
 
-### 3. Pension credit benefit in lump sum form[^key-237528e4d6ff7ba1b48656c3473e5df6]
+### 3. Pension credit benefit in lump sum form[^c-237528e4d6ff7ba1b48656c3473e5df6]
 
 For the purposes of section 101C(2) of the 1993 Act (basic principle as to pension credit benefit), the circumstances in which the trustees or managers of a scheme may provide for payment of pension credit benefit in the form of a lump sum before normal benefit age are—
 
-- (a) those which permit payment of a lump sum in accordance with paragraph (a), (aa),[^key-f6e20a92c2b796681d10bad23f208399] (b), (ba),[^key-acf7b4b0791b00690f16284d9ef92ffb] (e) or (f)[^key-197546262eb21ed91f917b7382cedfe1] of the lump sum rule in section 166(1) of the Finance Act 2004 (lump sum rule); or
+- (a) those which permit payment of a lump sum in accordance with paragraph (a), (aa),[^c-f6e20a92c2b796681d10bad23f208399] (b), (ba),[^c-acf7b4b0791b00690f16284d9ef92ffb] (e) or (f)[^c-197546262eb21ed91f917b7382cedfe1] of the lump sum rule in section 166(1) of the Finance Act 2004 (lump sum rule); or
 - (b) that the lump sum payment is—
   - (i) made by a registered pension scheme (within the meaning given in section 150(2) of the Finance Act 2004 (meaning of “pension scheme”));
   - (ii) a payment that is described in Part 2 of the Registered Pension Schemes (Authorised Payments) Regulations 2009; and
   - (iii) made to or in respect of a member.
 
-### 4. Commutation of part of pension credit benefit[^key-52300f7059c405f08e5fe4eec7f9a14d]
+### 4. Commutation of part of pension credit benefit[^c-52300f7059c405f08e5fe4eec7f9a14d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,10 +145,10 @@ For the purposes of section 101C(2) of the 1993 Act (basic principle as to pensi
 
 (3) Where a transaction referred to in paragraph (1) applies, the insurance policy must be taken out, or the annuity contract must be entered into, with an insurance company which is—
 
-- (a)[^key-eccd6c93ee279d9f2caf4b9ca4daaa32] a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; [^key-c901220de02a1d510cb226ffb4e8a54d]...
-- (b)[^key-c901220de02a1d510cb226ffb4e8a54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-eccd6c93ee279d9f2caf4b9ca4daaa32] a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance; [^c-c901220de02a1d510cb226ffb4e8a54d]...
+- (b)[^c-c901220de02a1d510cb226ffb4e8a54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-faf354a2b1ffd91c0ee7c7dc45186269] Paragraph (3)(a) [^key-8be6faa7b88ae006434289bbe33b95d7]... must be read with—
+(4)[^c-faf354a2b1ffd91c0ee7c7dc45186269] Paragraph (3)(a) [^c-8be6faa7b88ae006434289bbe33b95d7]... must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -168,23 +168,23 @@ For the purposes of section 101C(2) of the 1993 Act (basic principle as to pensi
 - (b) recipient; and
 - (c) time at which the benefits are payable.
 
-(2)[^key-27210c66d713c83c9cf70d7d30692a31] The benefits referred to in paragraph (1) must include a benefit that is both—
+(2)[^c-27210c66d713c83c9cf70d7d30692a31] The benefits referred to in paragraph (1) must include a benefit that is both—
 
 - (a) payable to the person entitled to the pension credit benefit; and
 - (b) not payable before normal benefit age except where the person entitled to the benefit has either—
   - (i) met the ill-health condition in accordance with paragraph 1 of Schedule 28 to the Finance Act 2004 (registered pension schemes – defined benefits and money purchase arrangements – ill-health condition) immediately before that person became entitled to the benefit; or
   - (ii) attained normal minimum pension age as defined in section 279(1) of that Act (other definitions).
 
-(3)[^key-27210c66d713c83c9cf70d7d30692a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-27210c66d713c83c9cf70d7d30692a31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Benefits consisting of, or including, a benefit that becomes payable to the person entitled to the benefit before normal benefit age may be provided without that person’s consent where—
 
-- (a) that person’s earning capacity is destroyed or seriously impaired by physical or mental infirmity[^key-fe9ac06c9d5d8aca6c87a9548a9e4aaf]; and
+- (a) that person’s earning capacity is destroyed or seriously impaired by physical or mental infirmity[^c-fe9ac06c9d5d8aca6c87a9548a9e4aaf]; and
 - (b) in the opinion of the trustees or managers of the scheme, the person entitled to the benefit is incapable of deciding whether it is in his interests to consent.
 
 (5) Any scheme rule that allows the alternative described in this regulation must require the trustees or managers of the scheme to be reasonably satisfied that, when the benefit of the person entitled to the benefit becomes payable, the total value of the benefits to be provided under this regulation is at least equal to the amount described in regulation 11 (value of alternatives to pension credit benefit).
 
-(6)[^key-4ae9c6fb8830ac98794c1f962da9dae3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4ae9c6fb8830ac98794c1f962da9dae3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Bought out benefits
 
@@ -206,7 +206,7 @@ For the purposes of section 101C(2) of the 1993 Act (basic principle as to pensi
 
 (6) The requirements of this paragraph are that all the conditions set out in sub-paragraphs (a) and (b) are satisfied, namely—
 
-- (a) the trustees or managers of the scheme give the person entitled to the benefit at least 30 days’ written notice of their intention to take out the insurance policy or enter into the annuity contract unless the person entitled to the benefit exercises a right to give a transfer notice under section 101F of the 1993 Act (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^key-eeb286ea4f328491af980ce545e37343] or delivered to that person personally); and
+- (a) the trustees or managers of the scheme give the person entitled to the benefit at least 30 days’ written notice of their intention to take out the insurance policy or enter into the annuity contract unless the person entitled to the benefit exercises a right to give a transfer notice under section 101F of the 1993 Act (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^c-eeb286ea4f328491af980ce545e37343] or delivered to that person personally); and
 - (b) when the trustees or managers of the scheme agree with the insurance company to take out the insurance policy or enter into the annuity contract, there is no outstanding transfer notice by the person entitled to the benefit under section 101F of the 1993 Act.
 
 (7) For the purposes of this regulation “appropriately secured" means secured by an insurance policy or annuity contract to which regulation 5 applies.
@@ -223,21 +223,21 @@ For the purposes of section 101C(2) of the 1993 Act (basic principle as to pensi
 
 (2) The condition set out in this paragraph is that the trustees or managers of the transferring scheme consider that, in the circumstances, it is reasonable for the transfer to be made without the person’s consent and the requirements of paragraph (5) are satisfied.
 
-(3)[^key-9a48beb759c0d730907a506473a0f030] The condition set out in this paragraph is that, subject to paragraph (6)—
+(3)[^c-9a48beb759c0d730907a506473a0f030] The condition set out in this paragraph is that, subject to paragraph (6)—
 
 - (a) the relevant actuary gives a certification, by completing the certificate in the Schedule, in relation to the person’s pension credit rights in the receiving scheme;
 - (b) the relevant actuary sends that certificate to the trustees or managers of the transferring scheme;
 - (c) the transfer takes place within 3 months of the date of the relevant actuary’s signature in the certificate; and
 - (d) there are no significant changes to the benefits, data and documents used in making the certificate (see the benefits, data and documents specified in the certificate) by the date on which the transfer takes place.
 
-(4) For the purpose of making the certification in paragraph 2 of the certificate in the Schedule[^key-fe8bf27e75eb80110c6150e80a2ee83a], the relevant actuary shall, in considering whether there is good cause, have regard to all the circumstances of the case and in particular—
+(4) For the purpose of making the certification in paragraph 2 of the certificate in the Schedule[^c-fe8bf27e75eb80110c6150e80a2ee83a], the relevant actuary shall, in considering whether there is good cause, have regard to all the circumstances of the case and in particular—
 
 - (a) to any established custom of the receiving scheme with regard to the provision of discretionary benefits or increases in benefits; and
 - (b) to any announcements made with regard to the provision of such benefits under the receiving scheme.
 
 (5) The requirements of this paragraph are that all the conditions set out in sub-paragraphs (a) and (b) are satisfied, namely—
 
-- (a) the trustees or managers of the scheme give the person with pension credit rights at least 30 days’ written notice of their intention to transfer those rights to another occupational pension scheme unless the person with those rights exercises a right to give a transfer notice under section 101F of the 1993 Act (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^key-ee291a2b50338d930dbbc3807d3a0294] or delivered to that person personally); and
+- (a) the trustees or managers of the scheme give the person with pension credit rights at least 30 days’ written notice of their intention to transfer those rights to another occupational pension scheme unless the person with those rights exercises a right to give a transfer notice under section 101F of the 1993 Act (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^c-ee291a2b50338d930dbbc3807d3a0294] or delivered to that person personally); and
 - (b) when the trustees or managers of the scheme agree with the trustees or managers of the receiving scheme to transfer those rights, there is no outstanding transfer notice by the person with pension credit rights under section 101F of the 1993 Act.
 
 (6) Paragraph (3) does not apply where the whole of the pension credit rights to be transferred are derived from rights accrued in a money purchase scheme.
@@ -249,9 +249,9 @@ For the purposes of section 101C(2) of the 1993 Act (basic principle as to pensi
 “relevant actuary" means—
 
 - (a) where the transferring scheme is a scheme for which an actuary is required under section 47 of the 1995 Act (professional advisers) to be appointed, the individual for the time being appointed in accordance with subsection (1) of that section as actuary for that scheme;
-- (b) [^c1601311]in any other case, a Fellow of the Institute and Faculty of Actuaries[^key-d9941b745a306352496704dbf440a731] or a person with other actuarial qualifications who is approved by the Secretary of State, at the request of the trustees or managers of the scheme, as being a proper person to act for the purposes of this regulation in connection with the scheme.
+- (b) [^c1601311]in any other case, a Fellow of the Institute and Faculty of Actuaries[^c-d9941b745a306352496704dbf440a731] or a person with other actuarial qualifications who is approved by the Secretary of State, at the request of the trustees or managers of the scheme, as being a proper person to act for the purposes of this regulation in connection with the scheme.
 
-(9)[^key-8175e2291e7d68863b9ed2f2ff47e5ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8175e2291e7d68863b9ed2f2ff47e5ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Value of alternatives to pension credit benefit
 
@@ -263,7 +263,7 @@ The requirements which must be met for the purposes of section 101E(1)(c) of the
 
 ### 13. Conditions on which pension credit benefit secured by insurance policies and annuity contracts may be commuted
 
-Pension credit benefit secured by an insurance policy or an annuity contract may be commuted in the circumstances described by regulation 3 (pension credit benefit in lump sum form)[^key-1471b2d099a07b6616f1b9137fd89f24].
+Pension credit benefit secured by an insurance policy or an annuity contract may be commuted in the circumstances described by regulation 3 (pension credit benefit in lump sum form)[^c-1471b2d099a07b6616f1b9137fd89f24].
 
 ### 14. Other requirements applying to insurance policies and annuity contracts
 
@@ -278,7 +278,7 @@ The requirements described in this regulation are—
 
 (2) The circumstances described in this paragraph are that—
 
-- (a) the person entitled to the benefit is dead and the benefit is payable to a person other than his widow, widower or surviving civil partner[^key-33149f0f47ce40d6384d3fb893caf622]; and
+- (a) the person entitled to the benefit is dead and the benefit is payable to a person other than his widow, widower or surviving civil partner[^c-33149f0f47ce40d6384d3fb893caf622]; and
 - (b) the arrangement for securing the pension credit benefit or its alternative was made at the request of the person entitled to it.
 
 (3) The circumstances described in this paragraph are that the benefit is provided as an alternative to pension credit benefit by virtue of regulation 8(4) (bought out benefits without consent).
@@ -286,7 +286,7 @@ The requirements described in this regulation are—
 (4) The circumstances described in this paragraph are that—
 
 - (a) the scheme is being wound up;
-- (b) sections 73 and 74 of the 1995 Act (preferential liabilities on winding up, and discharge of liabilities by insurance, *(affected by repeal, see note)*[^key-8ada4cdc5ccb690cd0ecc9c3da613a68] etc. *(affected by repeal, see note)*[^key-8ada4cdc5ccb690cd0ecc9c3da613a68]) and the Occupational Pension Schemes (Winding Up) Regulations 1996 do not apply; *(affected by repeal, see note)*[^key-8ada4cdc5ccb690cd0ecc9c3da613a68]
+- (b) sections 73 and 74 of the 1995 Act (preferential liabilities on winding up, and discharge of liabilities by insurance, *(affected by repeal, see note)*[^c-8ada4cdc5ccb690cd0ecc9c3da613a68] etc. *(affected by repeal, see note)*[^c-8ada4cdc5ccb690cd0ecc9c3da613a68]) and the Occupational Pension Schemes (Winding Up) Regulations 1996 do not apply; *(affected by repeal, see note)*[^c-8ada4cdc5ccb690cd0ecc9c3da613a68]
 
   the winding up provisions (as defined in section 73B(10)(a) of the 1995 Act) and regulations made under those provisions do not apply;
 - (c) the person entitled to the benefit is able to assign or surrender the insurance policy or the annuity contract; and
@@ -295,39 +295,39 @@ The requirements described in this regulation are—
 (5) The circumstances described in this paragraph are that—
 
 - (a) the trustees or managers of the scheme consider that, in the circumstances, it is reasonable for the scheme to provide the alternative without the consent of the person entitled to the benefit;
-- (b) the trustees or managers of the scheme give the person entitled to the benefit at least 30 days’ written notice of their intention to take out the insurance policy or enter into the annuity contract, unless the person entitled to the benefit exercises a right to give a transfer notice under section 101F of the 1993 Act (power to give transfer notice) (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^key-67e712fcefccf6e8e5832f831ba52573] or delivered to that person personally); and
+- (b) the trustees or managers of the scheme give the person entitled to the benefit at least 30 days’ written notice of their intention to take out the insurance policy or enter into the annuity contract, unless the person entitled to the benefit exercises a right to give a transfer notice under section 101F of the 1993 Act (power to give transfer notice) (the first mentioned notice being given in accordance with regulations 26 to 28 (giving information and documents) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013[^c-67e712fcefccf6e8e5832f831ba52573] or delivered to that person personally); and
 - (c) when the trustees or managers of the scheme agree with the insurance company to take out the insurance policy or enter into the annuity contract, there is no outstanding transfer notice given by the person entitled to the benefit under section 101F of the 1993 Act.
 
 (6) The payment made to the insurance company in the circumstances described in paragraph (5) must be at least an amount equal to the value of the pension credit benefit which has accrued to the person entitled to the benefit at the date the payment is made.
 
 ## PART III — TRANSFER VALUES
 
-### 16. Transfer payments in respect of safeguarded rights—general[^key-4fdde3a1bf18a38cf76052bbc44885f0]
+### 16. Transfer payments in respect of safeguarded rights—general[^c-4fdde3a1bf18a38cf76052bbc44885f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Transfer payments to money purchase contracted-out schemes and appropriate schemes[^key-d966ef53c645305843c07d72b89c7ae9]
+### 17. Transfer payments to money purchase contracted-out schemes and appropriate schemes[^c-d966ef53c645305843c07d72b89c7ae9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Transfer payments to salary related contracted-out schemes[^key-a59411f283b022ccd954812c0dec371a]
+### 18. Transfer payments to salary related contracted-out schemes[^c-a59411f283b022ccd954812c0dec371a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Transfer payments to overseas schemes or overseas arrangements[^key-9fb59954c754d52654ee897f5db01e0a]
+### 19. Transfer payments to overseas schemes or overseas arrangements[^c-9fb59954c754d52654ee897f5db01e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Requirements to be met by annuities
 
-The prescribed[^key-e65094243b0b70f245d5c8ea86c254b3] requirements referred to in section 101F(2)(b) of the 1993 Act (cash equivalent to be used for purchasing annuities) are those specified in regulation 15(2) to (7) of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 [^c1601315] (disqualification as a destination for pension credit—annuity contracts and insurance policies).
+The prescribed[^c-e65094243b0b70f245d5c8ea86c254b3] requirements referred to in section 101F(2)(b) of the 1993 Act (cash equivalent to be used for purchasing annuities) are those specified in regulation 15(2) to (7) of the Pension Sharing (Implementation and Discharge of Liability) Regulations 2000 [^c1601315] (disqualification as a destination for pension credit—annuity contracts and insurance policies).
 
 ### 21. Requirements of other pension arrangements
 
-(1) The prescribed requirements referred to in section 101F(2)(c) and (3)(b) of the 1993 Act (cash equivalent of pension credit rights[^key-a08c7dfda93a13819c1e0e925faf4994] to be used to subscribe to other pension arrangements which satisfy prescribed requirements) are that the pension arrangement to which it is proposed to subscribe—
+(1) The prescribed requirements referred to in section 101F(2)(c) and (3)(b) of the 1993 Act (cash equivalent of pension credit rights[^c-a08c7dfda93a13819c1e0e925faf4994] to be used to subscribe to other pension arrangements which satisfy prescribed requirements) are that the pension arrangement to which it is proposed to subscribe—
 
-- (a) is an overseas arrangement or[^key-43319dd65c42be0b697708a211caeb34];
-- (b)[^key-d6d7b1ec3080bdf47e36fb0432c93697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is an overseas arrangement or[^c-43319dd65c42be0b697708a211caeb34];
+- (b)[^c-d6d7b1ec3080bdf47e36fb0432c93697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) if the scheme from which rights are transferred is of a kind described in any of sub-paragraphs (a) to (e) of paragraph (2), satisfies the requirements of the Inland Revenue.
 
 (2) The kinds of scheme mentioned in paragraph (1)(c) are—
@@ -338,30 +338,30 @@ The prescribed[^key-e65094243b0b70f245d5c8ea86c254b3] requirements referred to i
 - (d) a fund to which section 608 of the Taxes Act (superannuation funds approved before 6th April 1980) applies; and
 - (e) a scheme which is approved by the Inland Revenue under Chapter IV of Part XIV of the Taxes Act.
 
-(3) The prescribed circumstances referred to in section 101F(2)(c) and (3)(b) of the 1993 Act are those referred to in paragraph (1)(c)[^key-7b3cdf98bf7ea076097b67b308cdda87].
+(3) The prescribed circumstances referred to in section 101F(2)(c) and (3)(b) of the 1993 Act are those referred to in paragraph (1)(c)[^c-7b3cdf98bf7ea076097b67b308cdda87].
 
 ### 22. Requirements to be met by an eligible scheme
 
 (1) The prescribed requirements referred to in section 101F(6)(b) of the 1993 Act (references to an eligible scheme which satisfies the prescribed requirements) are that—
 
-- [^key-9e6feaacc7accf90f8eaa458b5ce891c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) if the scheme from which pension credit rights are transferred or from which a transfer payment of such rights is made is of a kind described in [^key-b88d387d2cfea323bb09e520b9662657]... paragraph (2) of regulation 21, the eligible scheme to which pension credit rights are transferred or to which a transfer payment in respect of those rights is made is also[^key-f50b61c324d26e5f77719d4b834f8618] of a kind described in paragraph (2)[^key-b88d387d2cfea323bb09e520b9662657]... of regulation 21.
+- [^c-9e6feaacc7accf90f8eaa458b5ce891c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) if the scheme from which pension credit rights are transferred or from which a transfer payment of such rights is made is of a kind described in [^c-b88d387d2cfea323bb09e520b9662657]... paragraph (2) of regulation 21, the eligible scheme to which pension credit rights are transferred or to which a transfer payment in respect of those rights is made is also[^c-f50b61c324d26e5f77719d4b834f8618] of a kind described in paragraph (2)[^c-b88d387d2cfea323bb09e520b9662657]... of regulation 21.
 
 (2) In this regulation “eligible scheme" means a scheme described in section 101F(6) of the 1993 Act.
 
-### 23. Written statement of the amount of the cash equivalent of the member’s pension credit rights[^key-f2c360168ab9b6483fafff11388d9c36]
+### 23. Written statement of the amount of the cash equivalent of the member’s pension credit rights[^c-f2c360168ab9b6483fafff11388d9c36]
 
-(1) Subject to paragraph (2), for the purposes of subsection (2)(a) of section 101H of the 1993 Act (benefits other than money purchase: statements of entitlement[^key-a295a1add29301d0ad1ae7e80d986f05]), the prescribed period beginning with the date of the eligible member’s application under that section for a written statement of the amount of the cash equivalent of the member’s pension credit rights[^key-2d72f35a09b556625f6a0be271f1e42c] is a period of 3 months.
+(1) Subject to paragraph (2), for the purposes of subsection (2)(a) of section 101H of the 1993 Act (benefits other than money purchase: statements of entitlement[^c-a295a1add29301d0ad1ae7e80d986f05]), the prescribed period beginning with the date of the eligible member’s application under that section for a written statement of the amount of the cash equivalent of the member’s pension credit rights[^c-2d72f35a09b556625f6a0be271f1e42c] is a period of 3 months.
 
-(1A)[^key-f3f89a79c68194f3b38435bbd838e0b9] Where an eligible member has transferrable rights under Part IVA of the 1993 Act in relation to two categories of benefits other than money purchase benefits, the trustees or managers must provide the member with a written statement setting out a separate cash equivalent in relation to each of the categories of benefits, unless the member’s application relates to one of the categories of benefits only.
+(1A)[^c-f3f89a79c68194f3b38435bbd838e0b9] Where an eligible member has transferrable rights under Part IVA of the 1993 Act in relation to two categories of benefits other than money purchase benefits, the trustees or managers must provide the member with a written statement setting out a separate cash equivalent in relation to each of the categories of benefits, unless the member’s application relates to one of the categories of benefits only.
 
-(2) Where the trustees or managers of the scheme are for reasons beyond their control unable within the period referred to in paragraph (1) [^key-7219a254dcd05a9bfadce19c77577ec5]... to calculate the cash equivalent, the prescribed period is such longer period as they may reasonably require[^key-2b63863c06fe68c48dddb8c91cb9f749]..., provided that such longer period does not exceed 6 months beginning with the date of the eligible member’s application.
+(2) Where the trustees or managers of the scheme are for reasons beyond their control unable within the period referred to in paragraph (1) [^c-7219a254dcd05a9bfadce19c77577ec5]... to calculate the cash equivalent, the prescribed period is such longer period as they may reasonably require[^c-2b63863c06fe68c48dddb8c91cb9f749]..., provided that such longer period does not exceed 6 months beginning with the date of the eligible member’s application.
 
-(3) For the purposes of subsection (2)(b) of section 101H of the 1993 Act, the prescribed period is the period of 10 days (excluding Saturdays, Sundays, Christmas Day, New Year’s Day and Good Friday) ending with the date on which the written statement[^key-9b4613788d9569e2f2ea166318608881] is provided to the eligible member.
+(3) For the purposes of subsection (2)(b) of section 101H of the 1993 Act, the prescribed period is the period of 10 days (excluding Saturdays, Sundays, Christmas Day, New Year’s Day and Good Friday) ending with the date on which the written statement[^c-9b4613788d9569e2f2ea166318608881] is provided to the eligible member.
 
-(4) For the purposes of subsection (3) of section 101H of the 1993 Act, an eligible member who has made an application under section 101H(1) of the 1993 Act for a written statement[^key-741a4aaa85a3834dbb6a21e8dc135aa6] may not, within a period of 12 months beginning on the date of that application, make any further such application unless the rules of the scheme provide otherwise or the trustees or managers allow him to do so.
+(4) For the purposes of subsection (3) of section 101H of the 1993 Act, an eligible member who has made an application under section 101H(1) of the 1993 Act for a written statement[^c-741a4aaa85a3834dbb6a21e8dc135aa6] may not, within a period of 12 months beginning on the date of that application, make any further such application unless the rules of the scheme provide otherwise or the trustees or managers allow him to do so.
 
-### 24. Manner of calculation and verification of cash equivalents[^key-b720de8db8e4386a9e552ef8767b73ce]
+### 24. Manner of calculation and verification of cash equivalents[^c-b720de8db8e4386a9e552ef8767b73ce]
 
 (1) Subject to paragraph (2), cash equivalents are to be calculated and verified in accordance with regulations 7 to 7E of the Transfer Values Regulations as appropriate.
 
@@ -384,7 +384,7 @@ The prescribed[^key-e65094243b0b70f245d5c8ea86c254b3] requirements referred to i
 
   ;
 - (e) in regulation 7A(2), the reference to “guarantee date” was a reference to “valuation date”;
-- (f) paragraph 7[^key-1c3545a34cc55930a68a2c157b20f58e] of Schedule 1A were omitted; and
+- (f) paragraph 7[^c-1c3545a34cc55930a68a2c157b20f58e] of Schedule 1A were omitted; and
 - (g) in paragraph 12 of Schedule 1A, the words “a cash equivalent mentioned in section 93A of the 1993 Act, before the guarantee date” were “a cash equivalent such as is mentioned in section 101H of the 1993 Act, before the valuation date”.
 
 ### 25. Time period for notification to the Regulatory Authority of failure by the trustees or managers of an occupational pension scheme to comply with a transfer notice
@@ -393,36 +393,36 @@ The period prescribed for the purpose of section 101J(4)(a) of the 1993 Act (tim
 
 ### 26. Extension of time limits for payment of cash equivalents
 
-(1)[^key-d8a44ac508dce5f5457d5f1ad35c8e36] The Regulatory Authority may grant an extension of the period mentioned in section 101J(1)(a) or (b)[^key-f65766adff917b84c48c116b2c3e8ab9] of the 1993 Act to the trustees or managers of an occupational pension scheme if the trustees or managers have within that period applied to the Regulatory Authority for an extension and—
+(1)[^c-d8a44ac508dce5f5457d5f1ad35c8e36] The Regulatory Authority may grant an extension of the period mentioned in section 101J(1)(a) or (b)[^c-f65766adff917b84c48c116b2c3e8ab9] of the 1993 Act to the trustees or managers of an occupational pension scheme if the trustees or managers have within that period applied to the Regulatory Authority for an extension and—
 
 - (a) the Regulatory Authority is satisfied that—
   - (i) the scheme is being wound up or is about to be wound up;
-  - (ii)[^key-f3da0d4c2fce481a990593d90cdf01b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-f3da0d4c2fce481a990593d90cdf01b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the interests of the members of the scheme generally will be prejudiced if the trustees or managers do what is needed to carry out what is required within that period;
   - (iv) the eligible member has not taken all such steps as the trustees or managers can reasonably expect in order to satisfy them of any matter which falls to be established before they can properly carry out what the eligible member requires;
   - (v) the trustees or managers have not been provided with such information as they reasonably require properly to carry out what the eligible member requires; or
-  - (vi) the eligible member’s written statement[^key-5c758b114535c0cb3c39291c64214338] has been reduced or increased under regulation 28[^key-9c35bea6b6c195bc2c23a288f2fc3c6b] or the eligible member has disputed the amount of the cash equivalent;
+  - (vi) the eligible member’s written statement[^c-5c758b114535c0cb3c39291c64214338] has been reduced or increased under regulation 28[^c-9c35bea6b6c195bc2c23a288f2fc3c6b] or the eligible member has disputed the amount of the cash equivalent;
 - (b) the provisions of section 53 of the 1993 Act [^c1601321] (supervision: former contracted-out schemes) apply; or
 - (c) an application has been made for an extension on one or more of the grounds specified in paragraph (a) or (b) and the Regulatory Authority’s consideration of the application cannot be completed before the end of the period mentioned in section 101J(1)(a) or (b) of the 1993 Act.
 
-(2)[^key-f7c314a20147af2c43ba7829f1f12f60] In this regulation—
+(2)[^c-f7c314a20147af2c43ba7829f1f12f60] In this regulation—
 
 - “scheme reconciliation service” means the service set up by HMRC which allows schemes to compare the scheme’s records of members who have been contracted-out, and the value of members’ guaranteed minimum pensions, with HMRC’s records of the same, with a view to removing any errors in the scheme’s or HMRC’s records;
 - “section 9(2B) rights” has the meaning given in regulation 2(1) of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015.
 
-### 27. Increases and reductions of cash equivalents before a statement of entitlement has been sent to the eligible member[^key-30655884f5d392141e06dade245b2fbe]
+### 27. Increases and reductions of cash equivalents before a statement of entitlement has been sent to the eligible member[^c-30655884f5d392141e06dade245b2fbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Increases and reductions of cash equivalents once the written statement has been sent to the eligible member[^key-864d26a671370d4c7194fc58d9f93400]
+### 28. Increases and reductions of cash equivalents once the written statement has been sent to the eligible member[^c-864d26a671370d4c7194fc58d9f93400]
 
-(1) This regulation applies to a cash equivalent when a written statement[^key-96b7febe5f607f64ad9cbb3773c675a1] has been sent to an eligible member by the trustees or managers of a scheme[^key-dae00c566e7f3ddcc7b0a2d73fa7fd07] .
+(1) This regulation applies to a cash equivalent when a written statement[^c-96b7febe5f607f64ad9cbb3773c675a1] has been sent to an eligible member by the trustees or managers of a scheme[^c-dae00c566e7f3ddcc7b0a2d73fa7fd07] .
 
 (2) Where all or any of the benefits to which the cash equivalent relates have been surrendered, commuted or forfeited before the date on which the trustees or managers do what is needed to carry out what the eligible member requires, that part of the cash equivalent which relates to the benefits so surrendered, commuted or forfeited shall be reduced to nil.
 
-(3) Where a scheme has on or after the valuation date begun to be wound up, a cash equivalent may be reduced to the extent necessary for the scheme to comply with sections 73 to 74 of the 1995 Act[^key-a6acf56ccf74fd70698c0d27c42ac0d5][^key-2433dbca09fa3cea1c5f240ae51d910d] and regulations made under those provisions.
+(3) Where a scheme has on or after the valuation date begun to be wound up, a cash equivalent may be reduced to the extent necessary for the scheme to comply with sections 73 to 74 of the 1995 Act[^c-a6acf56ccf74fd70698c0d27c42ac0d5][^c-2433dbca09fa3cea1c5f240ae51d910d] and regulations made under those provisions.
 
-(4) If, by virtue of regulations made under section 73B(4)(b)(i) of the 1995 Act by virtue of section 73B(5) of that Act, the winding up provisions (as so defined) apply[^key-ceac8736b4f3626f063daa853a43ab32] to a section of a scheme as if that section were a separate scheme, paragraph (3) shall apply as if that section were a separate scheme and as if the references therein to a scheme were accordingly references to that section.
+(4) If, by virtue of regulations made under section 73B(4)(b)(i) of the 1995 Act by virtue of section 73B(5) of that Act, the winding up provisions (as so defined) apply[^c-ceac8736b4f3626f063daa853a43ab32] to a section of a scheme as if that section were a separate scheme, paragraph (3) shall apply as if that section were a separate scheme and as if the references therein to a scheme were accordingly references to that section.
 
 (5) If an eligible member’s cash equivalent falls short of or exceeds the amount which it would have been had it been calculated in accordance with Chapter II of Part IVA of the 1993 Act and these Regulations it shall be increased or reduced to that amount.
 
@@ -430,16 +430,16 @@ The period prescribed for the purpose of section 101J(4)(a) of the 1993 Act (tim
 
 ### 29. Increases of cash equivalents on late payment
 
-(1) Subject to paragraph (2), if the trustees or managers of a scheme, having received an application under section 101F(1) of the 1993 Act (power to give transfer notice), fail to comply with the transfer notice within 6 months of the valuation date, the eligible member’s cash equivalent, as calculated in accordance with regulations 24[^key-5217bf52b6caa8bfd24798fbda37a385]... and 28, shall be increased by the amount, if any, by which that cash equivalent falls short of what it would have been if the valuation date had been the date on which the trustees or managers carry out what the eligible member requires.
+(1) Subject to paragraph (2), if the trustees or managers of a scheme, having received an application under section 101F(1) of the 1993 Act (power to give transfer notice), fail to comply with the transfer notice within 6 months of the valuation date, the eligible member’s cash equivalent, as calculated in accordance with regulations 24[^c-5217bf52b6caa8bfd24798fbda37a385]... and 28, shall be increased by the amount, if any, by which that cash equivalent falls short of what it would have been if the valuation date had been the date on which the trustees or managers carry out what the eligible member requires.
 
-(2) If the trustees or managers of a scheme, having received an application under section 101H of the 1993 Act, fail without reasonable excuse to do what is needed to carry out what the eligible member requires within 6 months of the valuation date, the eligible member’s cash equivalent, as calculated in accordance with regulations 24[^key-5217bf52b6caa8bfd24798fbda37a385]... and 28, shall be increased by—
+(2) If the trustees or managers of a scheme, having received an application under section 101H of the 1993 Act, fail without reasonable excuse to do what is needed to carry out what the eligible member requires within 6 months of the valuation date, the eligible member’s cash equivalent, as calculated in accordance with regulations 24[^c-5217bf52b6caa8bfd24798fbda37a385]... and 28, shall be increased by—
 
 - (a) the interest on that cash equivalent calculated on a daily basis over the period from the valuation date to the date on which the trustees or managers carry out what the eligible member requires, at an annual rate of one per cent. above base rate; or, if it is greater,
 - (b) the amount, if any, by which that cash equivalent falls short of what it would have been if the valuation date had been the date on which the trustees or managers carry out what the eligible member requires.
 
 ### 30. Personal pension schemes: increases and reductions of cash equivalents
 
-(1) If the whole or any part of the cash equivalent of the pension credit rights[^key-cab399884c868a52a976f0191cc81ad0] under section 101F of the 1993 Act has been surrendered, commuted or forfeited before the date on which the trustees or managers comply with the transfer notice, the cash equivalent shall be reduced in proportion to the reduction in the total value of the benefits.
+(1) If the whole or any part of the cash equivalent of the pension credit rights[^c-cab399884c868a52a976f0191cc81ad0] under section 101F of the 1993 Act has been surrendered, commuted or forfeited before the date on which the trustees or managers comply with the transfer notice, the cash equivalent shall be reduced in proportion to the reduction in the total value of the benefits.
 
 (2) If the trustees or managers of a personal pension scheme, having received a transfer notice under section 101F(1) of the 1993 Act, fail without reasonable excuse to comply with the transfer notice within 6 months of the valuation date, the eligible member’s cash equivalent shall be increased by—
 
@@ -452,7 +452,7 @@ Where section 10 of the 1995 Act [^c1601324] (civil penalties) applies by virtue
 
 ## PART IV — INDEXATION
 
-### 32. Increase of relevant pension[^key-f2acfec0b2c5af8bc3914e5fd5570949]
+### 32. Increase of relevant pension[^c-f2acfec0b2c5af8bc3914e5fd5570949]
 
 (1) Subject to regulations 33 and 34, a relevant pension shall be increased each year by either the appropriate percentage, or, where the rules of an occupational pension scheme require the relevant pension to be increased at intervals of not more than 12 months, the relevant percentage.
 
@@ -512,14 +512,14 @@ Where section 10 of the 1995 Act [^c1601324] (civil penalties) applies by virtue
 
 (3) Where by virtue of paragraph (1) or (2) any such pension is not required to be increased in pursuance of regulation 32, or not by the full amount that it otherwise would be, its amount shall be calculated for any purposes as if it had been increased in pursuance of regulation 32 or, as the case may be, by that full amount.
 
-### 35. Definition of eligible pension credit rights[^key-88fb4fc5b8e83cd0779d53b52ba55752]
+### 35. Definition of eligible pension credit rights[^c-88fb4fc5b8e83cd0779d53b52ba55752]
 
 (1) For the purposes of section 40(3) of the 1999 Act, pension credit rights are eligible if they fall within paragraph (2) and are not excluded by paragraph (3).
 
 (2) Pension credit rights are within this paragraph if—
 
-- (a) they are derived from rights attributable to pensionable service on or after 6th April 1997 of the member whose pension rights were the subject of a pension sharing order or provision; [^key-725fdfacc0bb640005b48d858f0b815c]...
-- (b)[^key-725fdfacc0bb640005b48d858f0b815c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) they are derived from rights attributable to pensionable service on or after 6th April 1997 of the member whose pension rights were the subject of a pension sharing order or provision; [^c-725fdfacc0bb640005b48d858f0b815c]...
+- (b)[^c-725fdfacc0bb640005b48d858f0b815c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Excluded pension credit rights are—
 
@@ -534,7 +534,7 @@ Minister of State,
 
 Department of Social Security
 
-## SCHEDULE — Actuary’s certificate[^key-736c6aaa79d4ea2977e2a30620cf0a84]
+## SCHEDULE — Actuary’s certificate[^c-736c6aaa79d4ea2977e2a30620cf0a84]
 
 Regulation 10(3)
 
@@ -600,21 +600,21 @@ An assessment of the cost to business of the provisions of the Welfare Reform an
 
 [^c1601283]: Marginal citation: *See* section 120(1) of the Pensions Act 1995 and section 83(11) of the Welfare Reform and Pensions Act 1999.
 
-[^key-50ba4c320618195dd758f9ba8ea066bd]: Textual amendment: Words in reg. 1(2) inserted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/20/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/11/2)
+[^c-50ba4c320618195dd758f9ba8ea066bd]: Textual amendment: Words in reg. 1(2) inserted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/20/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/11/2)
 
-[^key-85b735ae291eec7ba0f2b87c4023914a]: Textual amendment: Words in reg. 1(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/a/ii)
+[^c-85b735ae291eec7ba0f2b87c4023914a]: Textual amendment: Words in reg. 1(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/a/ii)
 
 [^c1601284]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-fc1a74153e1a0ed224f158da4284dcf3]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2011/1245/regulation/13)
+[^c-fc1a74153e1a0ed224f158da4284dcf3]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2011/1245/regulation/13)
 
-[^key-e877370b8ab0fccd4501a8d7c06225ee]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/a)
+[^c-e877370b8ab0fccd4501a8d7c06225ee]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/a)
 
-[^key-398289c940ea51e534f7be8837a2002a]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [19](https://www.legislation.gov.uk/uksi/2011/1246/article/19)
+[^c-398289c940ea51e534f7be8837a2002a]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [19](https://www.legislation.gov.uk/uksi/2011/1246/article/19)
 
 [^c1601286]: Marginal citation: Section 101P is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
 
-[^key-f99004c177a5523b12740516f4383326]: Textual amendment: Word in reg. 1(2) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/2/a)
+[^c-f99004c177a5523b12740516f4383326]: Textual amendment: Word in reg. 1(2) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/2/a)
 
 [^c1601287]: Marginal citation: Section 181 was amended by the 1995 [Act, the Industrial Tribunals Act 1996 (c.17)](https://www.legislation.gov.uk/ukpga/1996/17) and is amended by the Welfare Reform and Pensions Act 1999.
 
@@ -624,7 +624,7 @@ An assessment of the cost to business of the provisions of the Welfare Reform an
 
 [^c1601290]: Marginal citation: The definition of “overseas scheme" was amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786).
 
-[^key-8be4935d62735e88415b67bb5879d213]: Textual amendment: Words in reg. 1(2) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/b)
+[^c-8be4935d62735e88415b67bb5879d213]: Textual amendment: Words in reg. 1(2) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/b)
 
 [^c1601291]: Marginal citation: Section 124 is amended by paragraph 61 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
 
@@ -632,164 +632,164 @@ An assessment of the cost to business of the provisions of the Welfare Reform an
 
 [^c1601293]: Marginal citation: Section 7(2B) was inserted by section 136(1) of the Pensions Act 1995.
 
-[^key-34939588b21f4902d0c3b6442c2b76b1]: Textual amendment: Words in reg. 1(2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [592(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/592/1)
+[^c-34939588b21f4902d0c3b6442c2b76b1]: Textual amendment: Words in reg. 1(2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [592(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/592/1)
 
-[^key-e79c28050860a5e3a0d548a8ac59f073]: Textual amendment: Words in reg. 1(2) substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/2/b)
+[^c-e79c28050860a5e3a0d548a8ac59f073]: Textual amendment: Words in reg. 1(2) substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/2/b)
 
-[^key-c45a474f0ad9ecb80aa5579b72886a5f]: Textual amendment: Words in reg. 1(2) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/598/article/8/2)
+[^c-c45a474f0ad9ecb80aa5579b72886a5f]: Textual amendment: Words in reg. 1(2) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/598/article/8/2)
 
-[^key-873350dc0867301f0dccce40abdfc31b]: Textual amendment: Words in reg. 1(2) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2016/200/article/17/2)
+[^c-873350dc0867301f0dccce40abdfc31b]: Textual amendment: Words in reg. 1(2) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2016/200/article/17/2)
 
 [^c1601299]: Marginal citation: Section 101B is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
 
-[^key-5f2d89e3ccadfe6567e192bdabf478ed]: Textual amendment: Words in reg. 1(2) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/c)
+[^c-5f2d89e3ccadfe6567e192bdabf478ed]: Textual amendment: Words in reg. 1(2) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/2/c)
 
-[^key-ceef5bac46fa09962d5ca929dfc8c529]: Textual amendment: Words in reg. 1(2) inserted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/a/i)
+[^c-ceef5bac46fa09962d5ca929dfc8c529]: Textual amendment: Words in reg. 1(2) inserted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/a/i)
 
-[^key-cc584390b7b991ac11afa8054b445720]: Textual amendment: Words in reg. 1(2) substituted (4.8.2003) by [The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1727)](https://www.legislation.gov.uk/uksi/2003/1727), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1727/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2003/1727/regulation/6/2/b)
+[^c-cc584390b7b991ac11afa8054b445720]: Textual amendment: Words in reg. 1(2) substituted (4.8.2003) by [The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1727)](https://www.legislation.gov.uk/uksi/2003/1727), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1727/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2003/1727/regulation/6/2/b)
 
-[^key-419f64d676eb1b360305d9a5b68fca84]: Textual amendment: Words in reg. 1(2) added (4.8.2003) by [The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1727)](https://www.legislation.gov.uk/uksi/2003/1727), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1727/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2003/1727/regulation/6/2/c)
+[^c-419f64d676eb1b360305d9a5b68fca84]: Textual amendment: Words in reg. 1(2) added (4.8.2003) by [The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1727)](https://www.legislation.gov.uk/uksi/2003/1727), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1727/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2003/1727/regulation/6/2/c)
 
-[^key-e4df26196499b4de0cf70199da76c33a]: Textual amendment: Reg. 1(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [592(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/592/2)
+[^c-e4df26196499b4de0cf70199da76c33a]: Textual amendment: Reg. 1(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [592(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/592/2)
 
 [^c1601300]: Marginal citation: Part IVA is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
 
-[^key-237528e4d6ff7ba1b48656c3473e5df6]: Textual amendment: Reg. 3 substituted (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Amendment Regulations 2009 (S.I. 2009/2930)](https://www.legislation.gov.uk/uksi/2009/2930), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2930/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2930/regulation/9)
+[^c-237528e4d6ff7ba1b48656c3473e5df6]: Textual amendment: Reg. 3 substituted (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Amendment Regulations 2009 (S.I. 2009/2930)](https://www.legislation.gov.uk/uksi/2009/2930), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2930/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2930/regulation/9)
 
-[^key-f6e20a92c2b796681d10bad23f208399]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/3/a) inserted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [10(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/10/a)
+[^c-f6e20a92c2b796681d10bad23f208399]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/3/a) inserted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [10(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/10/a)
 
-[^key-acf7b4b0791b00690f16284d9ef92ffb]: Textual amendment: Word in reg. 3(a) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/3)
+[^c-acf7b4b0791b00690f16284d9ef92ffb]: Textual amendment: Word in reg. 3(a) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/3)
 
-[^key-197546262eb21ed91f917b7382cedfe1]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/3/a) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [10(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/10/b)
+[^c-197546262eb21ed91f917b7382cedfe1]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/3/a) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [10(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/10/b)
 
-[^key-52300f7059c405f08e5fe4eec7f9a14d]: Textual amendment: Reg. 3 substituted reg. 4 omitted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/3)
+[^c-52300f7059c405f08e5fe4eec7f9a14d]: Textual amendment: Reg. 3 substituted reg. 4 omitted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/3)
 
-[^key-eccd6c93ee279d9f2caf4b9ca4daaa32]: Textual amendment: Reg. 5(3)(a)(b) substituted for 5(3)(a)-(c) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [593(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/593/1)
+[^c-eccd6c93ee279d9f2caf4b9ca4daaa32]: Textual amendment: Reg. 5(3)(a)(b) substituted for 5(3)(a)-(c) (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [593(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/593/1)
 
-[^key-c901220de02a1d510cb226ffb4e8a54d]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/5/3/b) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/14/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c901220de02a1d510cb226ffb4e8a54d]: Textual amendment: [Reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/5/3/b) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/14/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-faf354a2b1ffd91c0ee7c7dc45186269]: Textual amendment: Reg. 5(4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [593(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/593/2)
+[^c-faf354a2b1ffd91c0ee7c7dc45186269]: Textual amendment: Reg. 5(4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [593(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/593/2)
 
-[^key-8be6faa7b88ae006434289bbe33b95d7]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/5/4) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8be6faa7b88ae006434289bbe33b95d7]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/5/4) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27210c66d713c83c9cf70d7d30692a31]: Textual amendment: Reg. 7(2) substituted for reg. 7(2)(3) (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/a)
+[^c-27210c66d713c83c9cf70d7d30692a31]: Textual amendment: Reg. 7(2) substituted for reg. 7(2)(3) (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/a)
 
-[^key-fe9ac06c9d5d8aca6c87a9548a9e4aaf]: Textual amendment: Words in reg. 7(4)(a) substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/b)
+[^c-fe9ac06c9d5d8aca6c87a9548a9e4aaf]: Textual amendment: Words in reg. 7(4)(a) substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/b)
 
-[^key-4ae9c6fb8830ac98794c1f962da9dae3]: Textual amendment: Reg. 7(6) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(c)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/c)
+[^c-4ae9c6fb8830ac98794c1f962da9dae3]: Textual amendment: Reg. 7(6) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(4)(c)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/4/c)
 
 [^c1601310]: Marginal citation: [S.I. 1997/784](https://www.legislation.gov.uk/uksi/1997/784).
 
-[^key-eeb286ea4f328491af980ce545e37343]: Textual amendment: Words in reg. 8(6)(a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/2)
+[^c-eeb286ea4f328491af980ce545e37343]: Textual amendment: Words in reg. 8(6)(a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/2)
 
-[^key-9a48beb759c0d730907a506473a0f030]: Textual amendment: Reg. 10(3) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/672/regulation/6/2/a)
+[^c-9a48beb759c0d730907a506473a0f030]: Textual amendment: Reg. 10(3) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/672/regulation/6/2/a)
 
-[^key-fe8bf27e75eb80110c6150e80a2ee83a]: Textual amendment: Words in reg. 10(4) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/6/2/b)
+[^c-fe8bf27e75eb80110c6150e80a2ee83a]: Textual amendment: Words in reg. 10(4) substituted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/6/2/b)
 
-[^key-ee291a2b50338d930dbbc3807d3a0294]: Textual amendment: Words in reg. 10(5)(a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/3)
+[^c-ee291a2b50338d930dbbc3807d3a0294]: Textual amendment: Words in reg. 10(5)(a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/3)
 
 [^c1601311]: Marginal citation: The Institute of Actuaries is at Staple Inn Hall, High Holborn, London WC1V 7QJ. The Faculty of Actuaries is at Maclaurin House, 18 Dublin Street, Edinburgh EH1 3PP.
 
-[^key-d9941b745a306352496704dbf440a731]: Textual amendment: Words in reg. 10(8) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2012/692/regulation/10)
+[^c-d9941b745a306352496704dbf440a731]: Textual amendment: Words in reg. 10(8) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2012/692/regulation/10)
 
-[^key-8175e2291e7d68863b9ed2f2ff47e5ba]: Textual amendment: Reg. 10(9) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/598/article/8/3)
+[^c-8175e2291e7d68863b9ed2f2ff47e5ba]: Textual amendment: Reg. 10(9) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/598/article/8/3)
 
-[^key-1471b2d099a07b6616f1b9137fd89f24]: Textual amendment: Words in reg. 13 substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/5)
+[^c-1471b2d099a07b6616f1b9137fd89f24]: Textual amendment: Words in reg. 13 substituted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/5)
 
-[^key-33149f0f47ce40d6384d3fb893caf622]: Textual amendment: Words in reg. 15(2)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-33149f0f47ce40d6384d3fb893caf622]: Textual amendment: Words in reg. 15(2)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-8ada4cdc5ccb690cd0ecc9c3da613a68]: Textual amendment: Reg. 15(4)(b) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/2) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
+[^c-8ada4cdc5ccb690cd0ecc9c3da613a68]: Textual amendment: Reg. 15(4)(b) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/2) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
 
-[^key-67e712fcefccf6e8e5832f831ba52573]: Textual amendment: Words in reg. 15(5)(b) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(4)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/4)
+[^c-67e712fcefccf6e8e5832f831ba52573]: Textual amendment: Words in reg. 15(5)(b) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 8(4)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/8/4)
 
-[^key-4fdde3a1bf18a38cf76052bbc44885f0]: Textual amendment: Reg. 16 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/a)
+[^c-4fdde3a1bf18a38cf76052bbc44885f0]: Textual amendment: Reg. 16 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/a)
 
-[^key-d966ef53c645305843c07d72b89c7ae9]: Textual amendment: Reg. 17 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/b)
+[^c-d966ef53c645305843c07d72b89c7ae9]: Textual amendment: Reg. 17 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/b)
 
-[^key-a59411f283b022ccd954812c0dec371a]: Textual amendment: Reg. 18 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/c)
+[^c-a59411f283b022ccd954812c0dec371a]: Textual amendment: Reg. 18 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/c)
 
-[^key-9fb59954c754d52654ee897f5db01e0a]: Textual amendment: Words in reg. 19 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(d)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/d)
+[^c-9fb59954c754d52654ee897f5db01e0a]: Textual amendment: Words in reg. 19 omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(4)(d)](https://www.legislation.gov.uk/uksi/2009/598/article/8/4/d)
 
-[^key-e65094243b0b70f245d5c8ea86c254b3]: Textual amendment: Words in reg. 20 substituted (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2009/598/article/8/5)
+[^c-e65094243b0b70f245d5c8ea86c254b3]: Textual amendment: Words in reg. 20 substituted (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2009/598/article/8/5)
 
 [^c1601315]: Marginal citation: [S.I. 2000/1053](https://www.legislation.gov.uk/uksi/2000/1053).
 
-[^key-a08c7dfda93a13819c1e0e925faf4994]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/21/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/4)
+[^c-a08c7dfda93a13819c1e0e925faf4994]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/21/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/4)
 
-[^key-43319dd65c42be0b697708a211caeb34]: Textual amendment: Word in reg. 21(1)(a) added (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(a)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/a)
+[^c-43319dd65c42be0b697708a211caeb34]: Textual amendment: Word in reg. 21(1)(a) added (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(a)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/a)
 
-[^key-d6d7b1ec3080bdf47e36fb0432c93697]: Textual amendment: Reg. 21(1)(b) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(b)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/b)
+[^c-d6d7b1ec3080bdf47e36fb0432c93697]: Textual amendment: Reg. 21(1)(b) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(b)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/b)
 
 [^c1601316]: Marginal citation: Section 611A(1) was inserted by section 75 of, and paragraphs 1, 15 and 18(1) of Part I of Schedule 6 to, the Finance Act 1989.
 
-[^key-7b3cdf98bf7ea076097b67b308cdda87]: Textual amendment: Words in reg. 21(3) substituted (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(c)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/c)
+[^c-7b3cdf98bf7ea076097b67b308cdda87]: Textual amendment: Words in reg. 21(3) substituted (6.4.2009) by [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(6)(c)](https://www.legislation.gov.uk/uksi/2009/598/article/8/6/c)
 
-[^key-9e6feaacc7accf90f8eaa458b5ce891c]: Textual amendment: Reg. 22(1)(a) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(7)](https://www.legislation.gov.uk/uksi/2009/598/article/8/7)
+[^c-9e6feaacc7accf90f8eaa458b5ce891c]: Textual amendment: Reg. 22(1)(a) omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(7)](https://www.legislation.gov.uk/uksi/2009/598/article/8/7)
 
-[^key-b88d387d2cfea323bb09e520b9662657]: Textual amendment: Words in reg. 22(1)(b) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(6)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/6/a)
+[^c-b88d387d2cfea323bb09e520b9662657]: Textual amendment: Words in reg. 22(1)(b) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(6)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/6/a)
 
-[^key-f50b61c324d26e5f77719d4b834f8618]: Textual amendment: Word in reg. 22(1)(b) inserted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(6)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/6/b)
+[^c-f50b61c324d26e5f77719d4b834f8618]: Textual amendment: Word in reg. 22(1)(b) inserted (6.4.2009) by [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [15(6)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/15/6/b)
 
-[^key-f2c360168ab9b6483fafff11388d9c36]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23) heading substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/a)
+[^c-f2c360168ab9b6483fafff11388d9c36]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23) heading substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/a)
 
-[^key-a295a1add29301d0ad1ae7e80d986f05]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/b/i)
+[^c-a295a1add29301d0ad1ae7e80d986f05]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/b/i)
 
-[^key-2d72f35a09b556625f6a0be271f1e42c]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/b/ii)
+[^c-2d72f35a09b556625f6a0be271f1e42c]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/b/ii)
 
-[^key-f3f89a79c68194f3b38435bbd838e0b9]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1A) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/c)
+[^c-f3f89a79c68194f3b38435bbd838e0b9]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/1A) inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/c)
 
-[^key-7219a254dcd05a9bfadce19c77577ec5]: Textual amendment: Words in reg. 23(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/b/i)
+[^c-7219a254dcd05a9bfadce19c77577ec5]: Textual amendment: Words in reg. 23(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/b/i)
 
-[^key-2b63863c06fe68c48dddb8c91cb9f749]: Textual amendment: Words in reg. 23(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/b/ii)
+[^c-2b63863c06fe68c48dddb8c91cb9f749]: Textual amendment: Words in reg. 23(2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/b/ii)
 
-[^key-9b4613788d9569e2f2ea166318608881]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/3) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/d)
+[^c-9b4613788d9569e2f2ea166318608881]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/3) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/d)
 
-[^key-741a4aaa85a3834dbb6a21e8dc135aa6]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/d)
+[^c-741a4aaa85a3834dbb6a21e8dc135aa6]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/23/4) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/5/d)
 
-[^key-b720de8db8e4386a9e552ef8767b73ce]: Textual amendment: Reg. 24 substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/c)
+[^c-b720de8db8e4386a9e552ef8767b73ce]: Textual amendment: Reg. 24 substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/c)
 
-[^key-1c3545a34cc55930a68a2c157b20f58e]: Textual amendment: Words in [reg. 24(2)(f)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/24/2/f) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/6)
+[^c-1c3545a34cc55930a68a2c157b20f58e]: Textual amendment: Words in [reg. 24(2)(f)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/24/2/f) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/6)
 
-[^key-d8a44ac508dce5f5457d5f1ad35c8e36]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/1) reg. 26 re-numbered as reg. 26(1) (6.4.2017) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/200/article/1/3), [31(a)](https://www.legislation.gov.uk/uksi/2016/200/article/31/a)
+[^c-d8a44ac508dce5f5457d5f1ad35c8e36]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/1) reg. 26 re-numbered as reg. 26(1) (6.4.2017) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/200/article/1/3), [31(a)](https://www.legislation.gov.uk/uksi/2016/200/article/31/a)
 
-[^key-f65766adff917b84c48c116b2c3e8ab9]: Textual amendment: Words in reg. 26 inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/a)
+[^c-f65766adff917b84c48c116b2c3e8ab9]: Textual amendment: Words in reg. 26 inserted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/a)
 
-[^key-f3da0d4c2fce481a990593d90cdf01b5]: Textual amendment: [Reg. 26(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/1/a/ii) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [37](https://www.legislation.gov.uk/uksi/2016/200/article/37)
+[^c-f3da0d4c2fce481a990593d90cdf01b5]: Textual amendment: [Reg. 26(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/1/a/ii) omitted (6.4.2021) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2016/200/article/1/5), [37](https://www.legislation.gov.uk/uksi/2016/200/article/37)
 
-[^key-5c758b114535c0cb3c39291c64214338]: Textual amendment: Words in reg. 26(a)(vi) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/b/i)
+[^c-5c758b114535c0cb3c39291c64214338]: Textual amendment: Words in reg. 26(a)(vi) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/b/i)
 
-[^key-9c35bea6b6c195bc2c23a288f2fc3c6b]: Textual amendment: Words in reg. 26(a)(vi) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/b/ii)
+[^c-9c35bea6b6c195bc2c23a288f2fc3c6b]: Textual amendment: Words in reg. 26(a)(vi) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/7/b/ii)
 
 [^c1601321]: Marginal citation: Section 53 was amended by paragraph 48 of Schedule 5 to the Pensions Act 1995 and by paragraphs 52 and 53 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
 
-[^key-f7c314a20147af2c43ba7829f1f12f60]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/2) inserted (6.4.2017) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/200/article/1/3), [31(c)](https://www.legislation.gov.uk/uksi/2016/200/article/31/c)
+[^c-f7c314a20147af2c43ba7829f1f12f60]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/26/2) inserted (6.4.2017) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/200/article/1/3), [31(c)](https://www.legislation.gov.uk/uksi/2016/200/article/31/c)
 
-[^key-30655884f5d392141e06dade245b2fbe]: Textual amendment: Reg. 27 omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/d)
+[^c-30655884f5d392141e06dade245b2fbe]: Textual amendment: Reg. 27 omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations 2008 (S.I. 2008/1050)](https://www.legislation.gov.uk/uksi/2008/1050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1050/regulation/1/1), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2008/1050/schedule/2/paragraph/7/d)
 
-[^key-864d26a671370d4c7194fc58d9f93400]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28) heading substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/a)
+[^c-864d26a671370d4c7194fc58d9f93400]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28) heading substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/a)
 
-[^key-96b7febe5f607f64ad9cbb3773c675a1]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/b/i)
+[^c-96b7febe5f607f64ad9cbb3773c675a1]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(b)(i)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/b/i)
 
-[^key-dae00c566e7f3ddcc7b0a2d73fa7fd07]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/b/ii)
+[^c-dae00c566e7f3ddcc7b0a2d73fa7fd07]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/b/ii)
 
-[^key-a6acf56ccf74fd70698c0d27c42ac0d5]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/3) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/c)
+[^c-a6acf56ccf74fd70698c0d27c42ac0d5]: Textual amendment: Words in [reg. 28(3)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/28/3) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(8)(c)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/8/c)
 
-[^key-2433dbca09fa3cea1c5f240ae51d910d]: Textual amendment: Words in reg. 28(3) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(9)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/9) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
+[^c-2433dbca09fa3cea1c5f240ae51d910d]: Textual amendment: Words in reg. 28(3) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(9)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/9) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
 
-[^key-ceac8736b4f3626f063daa853a43ab32]: Textual amendment: Words in reg. 28(4) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(10)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/10) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
+[^c-ceac8736b4f3626f063daa853a43ab32]: Textual amendment: Words in reg. 28(4) substituted (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [18(10)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/10) (with [reg. 18(11)](https://www.legislation.gov.uk/uksi/2005/706/regulation/18/11))
 
-[^key-5217bf52b6caa8bfd24798fbda37a385]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2000/1054/regulation/29) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/9)
+[^c-5217bf52b6caa8bfd24798fbda37a385]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2000/1054/regulation/29) omitted (6.4.2016) by virtue of [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/9)
 
-[^key-cab399884c868a52a976f0191cc81ad0]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/30/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/10)
+[^c-cab399884c868a52a976f0191cc81ad0]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2000/1054/regulation/30/1) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2016/289/regulation/5/10)
 
 [^c1601323]: Marginal citation: 1 & 2 Vic. c. 110; the rate of interest was amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).
 
 [^c1601324]: Marginal citation: Section 10 is amended by paragraph 11 of Schedule 2 to the Welfare Reform and Pensions Act 1999.
 
-[^key-f2acfec0b2c5af8bc3914e5fd5570949]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2000/1054/regulation/32) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/459/regulation/7)
+[^c-f2acfec0b2c5af8bc3914e5fd5570949]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2000/1054/regulation/32) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/459/regulation/7)
 
-[^key-88fb4fc5b8e83cd0779d53b52ba55752]: Textual amendment: Reg. 35 substituted (6.4.2005) by [The Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2005/704/regulation/16)
+[^c-88fb4fc5b8e83cd0779d53b52ba55752]: Textual amendment: Reg. 35 substituted (6.4.2005) by [The Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2005/704/regulation/16)
 
-[^key-725fdfacc0bb640005b48d858f0b815c]: Textual amendment: Reg. 35(2)(b) and word omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(8)](https://www.legislation.gov.uk/uksi/2009/598/article/8/8)
+[^c-725fdfacc0bb640005b48d858f0b815c]: Textual amendment: Reg. 35(2)(b) and word omitted (6.4.2009) by virtue of [The Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [arts. 1](https://www.legislation.gov.uk/uksi/2009/598/article/1), [8(8)](https://www.legislation.gov.uk/uksi/2009/598/article/8/8)
 
-[^key-736c6aaa79d4ea2977e2a30620cf0a84]: Textual amendment: Sch. inserted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [Sch. 3 reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/672/schedule/3/regulation/6/3)
+[^c-736c6aaa79d4ea2977e2a30620cf0a84]: Textual amendment: Sch. inserted (6.4.2011) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/672)](https://www.legislation.gov.uk/uksi/2011/672), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/672/regulation/1/2/b), [Sch. 3 reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/672/schedule/3/regulation/6/3)

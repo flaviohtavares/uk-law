@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104CC. Powers not limited by other provision or powers[^key-aff45df10387186874b2f7f7ba75b9c0]
+## 104CC. Powers not limited by other provision or powers[^c-aff45df10387186874b2f7f7ba75b9c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aff45df10387186874b2f7f7ba75b9c0]: Textual amendment: [S. 104CC](https://www.legislation.gov.uk/ukpga/2009/20/section/104CC) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/7/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-aff45df10387186874b2f7f7ba75b9c0]: Textual amendment: [S. 104CC](https://www.legislation.gov.uk/ukpga/2009/20/section/104CC) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/7/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

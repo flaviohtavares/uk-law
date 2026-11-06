@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. The Welsh rates[^key-c7b1890d9f221085d9bab1839bb03c5c][^key-b26fd0bca7ad66967f928f2b8ef84cb5]
+## 6B. The Welsh rates[^c-c7b1890d9f221085d9bab1839bb03c5c][^c-b26fd0bca7ad66967f928f2b8ef84cb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - *Step 2* Deduct 10 percentage points.
 - *Step 3* Add the Welsh rate (if any) set by the National Assembly for Wales for that year for the purpose of calculating the Welsh basic rate, the Welsh higher rate or the Welsh additional rate (as the case may be).
 
-(1A)[^key-ce4c5e6bd2be30ee336e7292ef661747] The Welsh property basic rate, the Welsh property higher rate and the Welsh property additional rate for a tax year are calculated as follows.
+(1A)[^c-ce4c5e6bd2be30ee336e7292ef661747] The Welsh property basic rate, the Welsh property higher rate and the Welsh property additional rate for a tax year are calculated as follows.
 
 - *Step 1*
 
@@ -34,7 +34,7 @@ summary: ''
 - *Step 2*
 
   Deduct 10 percentage points.
-- *Step 3[^key-a7a195917bffa21df250c9e77e0782d4]*
+- *Step 3[^c-a7a195917bffa21df250c9e77e0782d4]*
 
   Add the Welsh rate (if any) set by Senedd Cymru for that year for the purpose of calculating the Welsh property basic rate, the Welsh property higher rate or the Welsh property additional rate (as the case may be).
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c7b1890d9f221085d9bab1839bb03c5c]: Textual amendment: S. 6B inserted (24.7.2018) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/9/3), [14](https://www.legislation.gov.uk/ukpga/2014/29/section/14), [29(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/4); [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
+[^c-c7b1890d9f221085d9bab1839bb03c5c]: Textual amendment: S. 6B inserted (24.7.2018) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/9/3), [14](https://www.legislation.gov.uk/ukpga/2014/29/section/14), [29(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/4); [S.I. 2018/892](https://www.legislation.gov.uk/uksi/2018/892), [art. 3](https://www.legislation.gov.uk/uksi/2018/892/article/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2018/892/article/5), [6](https://www.legislation.gov.uk/uksi/2018/892/article/6), [8](https://www.legislation.gov.uk/uksi/2018/892/article/8))
 
-[^key-b26fd0bca7ad66967f928f2b8ef84cb5]: Textual amendment: S. 6B heading substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/3/b)
+[^c-b26fd0bca7ad66967f928f2b8ef84cb5]: Textual amendment: S. 6B heading substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/3/b)
 
-[^key-ce4c5e6bd2be30ee336e7292ef661747]: Textual amendment: S. 6B(1A) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/3/a)
+[^c-ce4c5e6bd2be30ee336e7292ef661747]: Textual amendment: S. 6B(1A) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/3/a)
 
-[^key-a7a195917bffa21df250c9e77e0782d4]: Textual amendment: [S. 6B(1A)](https://www.legislation.gov.uk/ukpga/2007/3/section/6B/1A) Step 3 substituted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/2/paragraph/2); [S.I. 2026/1023](https://www.legislation.gov.uk/uksi/2026/1023), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1023/regulation/2)
+[^c-a7a195917bffa21df250c9e77e0782d4]: Textual amendment: [S. 6B(1A)](https://www.legislation.gov.uk/ukpga/2007/3/section/6B/1A) Step 3 substituted (16.9.2026 for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/2/paragraph/2); [S.I. 2026/1023](https://www.legislation.gov.uk/uksi/2026/1023), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1023/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Transitional and consequential provision[^key-2e6b90e41bba10382f5a940fa0340145]
+## 84. Transitional and consequential provision[^c-2e6b90e41bba10382f5a940fa0340145]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 (5) Regulations under subsection (2) that amend—
 
 - (a) an Act of Parliament,
-- (b)[^key-c8f4ee8dfbe284929d8ba1c144cc8528] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c8f4ee8dfbe284929d8ba1c144cc8528] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an Act of the Scottish Parliament,
 - (d) a Measure or Act of Senedd Cymru, or
 - (e) Northern Ireland legislation,
@@ -56,6 +56,6 @@ are subject to affirmative resolution procedure.
 
 ## Annotations
 
-[^key-2e6b90e41bba10382f5a940fa0340145]: Commencement: S. 84 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-2e6b90e41bba10382f5a940fa0340145]: Commencement: S. 84 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
 
-[^key-c8f4ee8dfbe284929d8ba1c144cc8528]: Textual amendment: [S. 84(5)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/84/5/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/12)
+[^c-c8f4ee8dfbe284929d8ba1c144cc8528]: Textual amendment: [S. 84(5)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/84/5/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/12)

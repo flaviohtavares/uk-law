@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Schools forums[^c381700][^key-ee5d21f432a00fea9aa3401b92d997f3]
+## 43. Schools forums[^c381700][^c-ee5d21f432a00fea9aa3401b92d997f3]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ After section 47 of the School Standards and Framework Act 1998 (c. 31) there is
 >
 > **47A. Schools forums**
 >
-> (1) Every local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] shall in accordance with regulations establish for their area before such date as may be prescribed a body, to be known as a schools forum, representing the governing bodies and head teachers of schools maintained by the authority and, if the authority so determine, also representing such bodies as the authority may from time to time in accordance with regulations determine.
+> (1) Every local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] shall in accordance with regulations establish for their area before such date as may be prescribed a body, to be known as a schools forum, representing the governing bodies and head teachers of schools maintained by the authority and, if the authority so determine, also representing such bodies as the authority may from time to time in accordance with regulations determine.
 >
 > (2) Subsection (1) does not apply in relation to the Common Council of the City of London or the Council of the Isles of Scilly.
 >
@@ -52,6 +52,6 @@ After section 47 of the School Standards and Framework Act 1998 (c. 31) there is
 
 [^c381700]: Commencement: S. 43 partly in force; s. 43 not in force at Royal Assent, see s. 216; s. 43 in force for E. at 2.9.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4)
 
-[^key-ee5d21f432a00fea9aa3401b92d997f3]: Commencement: S. 43 in force at 1.11.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 6](https://www.legislation.gov.uk/uksi/2003/1718/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/III)
+[^c-ee5d21f432a00fea9aa3401b92d997f3]: Commencement: S. 43 in force at 1.11.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 6](https://www.legislation.gov.uk/uksi/2003/1718/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/III)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

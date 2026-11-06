@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Issuing and publication of reports[^key-9e2dd7d45953fba049b599f6376e341d]
+## 17. Issuing and publication of reports[^c-9e2dd7d45953fba049b599f6376e341d]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b18c91b093b107d798f947d54b80db4a] This section applies where the Chief Commissioner produces the final report on the findings of a review in accordance with section 15.
+(1)[^c-b18c91b093b107d798f947d54b80db4a] This section applies where the Chief Commissioner produces the final report on the findings of a review in accordance with section 15.
 
-(2)[^key-b18c91b093b107d798f947d54b80db4a] If the review was carried out following a request made under section 9 or 10, the Chief Commissioner must—
+(2)[^c-b18c91b093b107d798f947d54b80db4a] If the review was carried out following a request made under section 9 or 10, the Chief Commissioner must—
 
 - (a) give the final report to the person who requested the review, and
 - (b) publish the final report.
@@ -38,7 +38,7 @@ summary: ''
 
 (6) If a final report is not published in such a case, the Chief Commissioner must publish the statement of the manner in which the review was carried out that is included in the final report in accordance with section 15(3).
 
-(7)[^key-b18c91b093b107d798f947d54b80db4a] It is for the Chief Commissioner to decide the manner in which a final report, or statement of the manner in which a review was carried out, is published.
+(7)[^c-b18c91b093b107d798f947d54b80db4a] It is for the Chief Commissioner to decide the manner in which a final report, or statement of the manner in which a review was carried out, is published.
 
 (8) The Chief Commissioner may give the designated persons under Part 4 summaries of any final reports which are not published.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2dd7d45953fba049b599f6376e341d]: Commencement: S. 17 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9e2dd7d45953fba049b599f6376e341d]: Commencement: S. 17 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-b18c91b093b107d798f947d54b80db4a]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/2)[(7)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/7) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/m) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-b18c91b093b107d798f947d54b80db4a]: Commencement: [S. 17(1)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/2)[(7)](https://www.legislation.gov.uk/ukpga/2023/41/section/17/7) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/m) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Representation on international and other bodies[^key-1b870839cd0febeb14f1b2ff97ccda64]
+## 22. Representation on international and other bodies[^c-1b870839cd0febeb14f1b2ff97ccda64]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,12 +41,12 @@ summary: ''
 - “**communications functions**” means—
   - (a) functions relating to the use of the electro-magnetic spectrum for wireless telegraphy;
   - (b) functions relating to the regulation of television or radio broadcasting or the provision of television and radio services ; [^M_F_6331caea-4f04-4259-eadb-bd9aae624276]...
-  - (ba) functions relating to postal services; and[^key-86389202795cc6a8c605385d34949a0c]
+  - (ba) functions relating to postal services; and[^c-86389202795cc6a8c605385d34949a0c]
   - (c) any other function which relates to, or is connected with, a matter in respect of which OFCOM have functions;
 - “**international meetings about communications**” means international meetings relating to, or to matters connected with, one or more of the following—
   - (a) the use of the electro-magnetic spectrum for wireless telegraphy;
   - (b) the regulation of television or radio broadcasting or of the provision of television and radio services;
-  - (ba) the regulation of postal services;[^key-f2390a8cd895741b4c0a9f4b28cdae58]
+  - (ba) the regulation of postal services;[^c-f2390a8cd895741b4c0a9f4b28cdae58]
   - (c) any other matter in respect of which OFCOM have functions.
 
 (6) In relation to—
@@ -60,10 +60,10 @@ the references in subsection (5) to matters in respect of which OFCOM have funct
 
 ## Annotations
 
-[^key-1b870839cd0febeb14f1b2ff97ccda64]: Commencement: S. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1b870839cd0febeb14f1b2ff97ccda64]: Commencement: S. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^M_F_6331caea-4f04-4259-eadb-bd9aae624276]: Textual amendment: Word in s. 22(5) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 60(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/60/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-86389202795cc6a8c605385d34949a0c]: Textual amendment: Words in s. 22(5) inserted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 60(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/60/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-86389202795cc6a8c605385d34949a0c]: Textual amendment: Words in s. 22(5) inserted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 60(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/60/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f2390a8cd895741b4c0a9f4b28cdae58]: Textual amendment: Words in s. 22(5) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 60(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/60/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f2390a8cd895741b4c0a9f4b28cdae58]: Textual amendment: Words in s. 22(5) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 60(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/60/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

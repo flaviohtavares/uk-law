@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Offence of trespassing with intent to commit criminal offence[^key-2cae62b07c9eac0d2726c35aaf93a25f][^key-2305c0dcd56c2cb7dbaf054b28647696]
+## 11. Offence of trespassing with intent to commit criminal offence[^c-2cae62b07c9eac0d2726c35aaf93a25f][^c-2305c0dcd56c2cb7dbaf054b28647696]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2cae62b07c9eac0d2726c35aaf93a25f]: Commencement: S. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2cae62b07c9eac0d2726c35aaf93a25f]: Commencement: S. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2305c0dcd56c2cb7dbaf054b28647696]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/20/section/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/d)
+[^c-2305c0dcd56c2cb7dbaf054b28647696]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/20/section/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/d)

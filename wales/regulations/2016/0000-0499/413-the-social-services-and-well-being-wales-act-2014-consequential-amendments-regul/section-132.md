@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**132.**[^key-e5c8a5c7b820dfb467e7cfc092419851] In section 171ZB[^f00149] (entitlement: adoption) at the end insert—
+**132.**[^c-e5c8a5c7b820dfb467e7cfc092419851] In section 171ZB[^f00149] (entitlement: adoption) at the end insert—
 
 > (10) This section has effect in a case involving a child placed under section 81 of the Social Services and Well-being (Wales) Act 2014 by a local authority in Wales with a local authority foster parent who has been approved as a prospective adopter with the following modifications—
 >
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c8a5c7b820dfb467e7cfc092419851]: Commencement: Reg. 132 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e5c8a5c7b820dfb467e7cfc092419851]: Commencement: Reg. 132 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00149]: Footnote: Sections 171ZB and 171ZE were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 2. Sections 171ZA to 171ZE were moved under a new heading “Ordinary Statutory Paternity Pay” by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18) Schedule 1, paragraph 11. These sections were then moved to Part XIIZA upon the repeal of the “Ordinary Statutory Paternity Pay” heading by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 7, paragraph 11. Subsections (8) and (9) of section 171ZB were inserted by the Children and Families Act 2014, section 121(3).

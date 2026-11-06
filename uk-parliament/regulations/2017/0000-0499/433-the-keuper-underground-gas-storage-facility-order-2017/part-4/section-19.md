@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Temporary closure of, and works in and over, the canal[^key-23e8b1b8da999a05cd41a78fc6349b39]
+## 19. Temporary closure of, and works in and over, the canal[^c-23e8b1b8da999a05cd41a78fc6349b39]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ is to be entitled to be paid compensation for such loss and damage by the undert
 
 ## Annotations
 
-[^key-23e8b1b8da999a05cd41a78fc6349b39]: Commencement: Art. 19 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-23e8b1b8da999a05cd41a78fc6349b39]: Commencement: Art. 19 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

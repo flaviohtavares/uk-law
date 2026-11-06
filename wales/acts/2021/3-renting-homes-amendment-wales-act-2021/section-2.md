@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Landlord's break clause under fixed term standard contract: minimum notice period[^key-bf302875270dff748d5bcf56026adf15]
+## 2. Landlord's break clause under fixed term standard contract: minimum notice period[^c-bf302875270dff748d5bcf56026adf15]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf302875270dff748d5bcf56026adf15]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2021/3/section/2) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-bf302875270dff748d5bcf56026adf15]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2021/3/section/2) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

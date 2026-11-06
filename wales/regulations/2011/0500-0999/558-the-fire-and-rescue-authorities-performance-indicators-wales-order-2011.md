@@ -31,7 +31,7 @@ summary: ''
 
 FIRE AND RESCUE SERVICES,WALES
 
-The Fire and Rescue Authorities (Performance Indicators) (Wales) Order 2011 (revoked)[^key-701bc67cb86ae482ec344a6a9bffd5d1]
+The Fire and Rescue Authorities (Performance Indicators) (Wales) Order 2011 (revoked)[^c-701bc67cb86ae482ec344a6a9bffd5d1]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 1 April 2011
 
-[^key-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, and application[^key-701bc67cb86ae482ec344a6a9bffd5d1]
+## 1. Title, commencement, and application[^c-701bc67cb86ae482ec344a6a9bffd5d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Performance indicators[^key-701bc67cb86ae482ec344a6a9bffd5d1]
+## 2. Performance indicators[^c-701bc67cb86ae482ec344a6a9bffd5d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Risk Reduction and Community Safety[^key-701bc67cb86ae482ec344a6a9bffd5d1]
+## SCHEDULE — Risk Reduction and Community Safety[^c-701bc67cb86ae482ec344a6a9bffd5d1]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-701bc67cb86ae482ec344a6a9bffd5d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-701bc67cb86ae482ec344a6a9bffd5d1]: Textual amendment: Order revoked (1.4.2015) by [The Fire and Rescue Authorities (Performance Indicators) (Wales) Order 2015 (S.I. 2015/604)](https://www.legislation.gov.uk/uksi/2015/604), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/604/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/604/article/3)
+[^c-701bc67cb86ae482ec344a6a9bffd5d1]: Textual amendment: Order revoked (1.4.2015) by [The Fire and Rescue Authorities (Performance Indicators) (Wales) Order 2015 (S.I. 2015/604)](https://www.legislation.gov.uk/uksi/2015/604), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/604/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/604/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Appeal to Upper Tribunal from tribunals in Northern Ireland[^key-1f9c62cdfad4f31d6c237713669045a4]
+## 8. Appeal to Upper Tribunal from tribunals in Northern Ireland[^c-1f9c62cdfad4f31d6c237713669045a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An appeal against a decision of the Pensions Appeal Tribunal in Northern Ireland
 
 ## Annotations
 
-[^key-1f9c62cdfad4f31d6c237713669045a4]: Commencement: Art. 8 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-1f9c62cdfad4f31d6c237713669045a4]: Commencement: Art. 8 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

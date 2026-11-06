@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Removal of the chair or vice-chair from office[^key-29931bb2898d39f4b5d6d511ba9b1e8a]
+## 52. Removal of the chair or vice-chair from office[^c-29931bb2898d39f4b5d6d511ba9b1e8a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29931bb2898d39f4b5d6d511ba9b1e8a]: Commencement: Reg. 52 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-29931bb2898d39f4b5d6d511ba9b1e8a]: Commencement: Reg. 52 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

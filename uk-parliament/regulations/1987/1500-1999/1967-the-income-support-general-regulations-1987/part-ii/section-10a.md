@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10A. Actively seeking employment[^key-82c7990266801c5783ed7cc7449b17fd]
+## 10A. Actively seeking employment[^c-82c7990266801c5783ed7cc7449b17fd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c7990266801c5783ed7cc7449b17fd]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/10A) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-82c7990266801c5783ed7cc7449b17fd]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/10A) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1996/206/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)

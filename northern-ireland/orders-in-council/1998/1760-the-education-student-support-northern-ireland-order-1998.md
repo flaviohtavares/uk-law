@@ -143,7 +143,7 @@ which are designated for the purposes of this Article by or under the regulation
 
 (1) If the Department so determines, any function exercisable by it by virtue of regulations under Article 3 shall, to such extent as is specified in its determination, be exercisable instead by such body as is so specified which is either—
 
-- (a)[^key-d44ee1f9d70adb12c04579f20c6ac0d3] the Education Authority; or
+- (a)[^c-d44ee1f9d70adb12c04579f20c6ac0d3] the Education Authority; or
 - (b) the governing body of an institution with[^c17054321] which eligible students (within the meaning of such regulations) are undertaking courses.
 
 (2) A body by which any function is for the time being exercisable by virtue of paragraph (1) shall comply with any directions given by the Department as to the exercise of that function.
@@ -298,7 +298,7 @@ Schedule—Repeals
 
 [^c17054301]: Textual amendment: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14)
 
-[^key-d44ee1f9d70adb12c04579f20c6ac0d3]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/nisi/1998/1760/article/4/1/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d44ee1f9d70adb12c04579f20c6ac0d3]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/nisi/1998/1760/article/4/1/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/21) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17054321]: Textual amendment: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfer schemes: supplementary[^key-8525012dcfd5fa74b5a58628a3f60d18]
+## 5. Transfer schemes: supplementary[^c-8525012dcfd5fa74b5a58628a3f60d18]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8525012dcfd5fa74b5a58628a3f60d18]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/20/section/5) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/d) (as substituted by S.I. 2016/710, reg. 2)
+[^c-8525012dcfd5fa74b5a58628a3f60d18]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/20/section/5) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/d) (as substituted by S.I. 2016/710, reg. 2)

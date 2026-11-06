@@ -52,7 +52,7 @@ The Treasury—
 
 make the following Regulations:
 
-## 1. Citation, commencement and transitional provision[^key-80650af2a06c693ab0f107fbe63be8c6]
+## 1. Citation, commencement and transitional provision[^c-80650af2a06c693ab0f107fbe63be8c6]
 
 (1) These Regulations may be cited as the Financial Markets and Insolvency Regulations 2009 and shall come into force on 15th June 2009.
 
@@ -63,7 +63,7 @@ make the following Regulations:
 - (a) an application for an administration order;
 - (b) an application for a bank administration order under Part 3 of the Banking Act 2009;[^f00006]
 - (c) the filing of a notice of intention to appoint an administrator for an appointment under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986[^f00007];
-- (da)[^key-c7bad105bb85b901b18330f8c6a8a694] the making of a bankruptcy application;
+- (da)[^c-c7bad105bb85b901b18330f8c6a8a694] the making of a bankruptcy application;
 - (d) where no notice of intention to appoint is filed, the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986;
 - (e) the presentation of a bankruptcy petition;
 - (f) the presentation of a petition for sequestration of a person’s estate;
@@ -73,7 +73,7 @@ make the following Regulations:
 - (j) the appointment of an administrative receiver;
 - (k) the making of an order appointing an interim receiver.
 
-## 2. Amendment of the Companies Act 1989[^key-5270e4d05973ef88d6460ad57387e850]
+## 2. Amendment of the Companies Act 1989[^c-5270e4d05973ef88d6460ad57387e850]
 
 (1) The Companies Act 1989 is amended as follows.
 
@@ -282,7 +282,7 @@ make the following Regulations:
 
 .
 
-## 3. Amendment of the Financial Markets and Insolvency Regulations 1991[^key-b4b206642b906b13fdc448af59c8ba31]
+## 3. Amendment of the Financial Markets and Insolvency Regulations 1991[^c-b4b206642b906b13fdc448af59c8ba31]
 
 (1) The Financial Markets and Insolvency Regulations 1991[^f00018] are amended as follows.
 
@@ -348,7 +348,7 @@ make the following Regulations:
   ; and
 - (d) omit paragraphs (3) and (4).
 
-## 4. Amendment of the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^key-5206d559b5f060e161922b90ea519789]
+## 4. Amendment of the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^c-5206d559b5f060e161922b90ea519789]
 
 (1) The Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^f00020] are amended as follows.
 
@@ -539,15 +539,15 @@ An impact assessment of the effect of this instrument on the costs to business, 
 
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 286 was amended by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-80650af2a06c693ab0f107fbe63be8c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/853/regulation/1) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
+[^c-80650af2a06c693ab0f107fbe63be8c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/853/regulation/1) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
 
 [^f00006]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
 [^f00007]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); Schedule B1 was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 248(2) and Schedule 16.
 
-[^key-c7bad105bb85b901b18330f8c6a8a694]: Textual amendment: [Reg. 1(3)(da)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/3/da) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/11)
+[^c-c7bad105bb85b901b18330f8c6a8a694]: Textual amendment: [Reg. 1(3)(da)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/3/da) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/11)
 
-[^key-5270e4d05973ef88d6460ad57387e850]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/853/regulation/2) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
+[^c-5270e4d05973ef88d6460ad57387e850]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/853/regulation/2) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
 
 [^f00008]: Footnote: Section 155(2) and (2A) were substituted for subsection (2) by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880). Subsection (2)(b) was amended by [S.I. 1998/1748](https://www.legislation.gov.uk/uksi/1998/1748).
 
@@ -569,12 +569,12 @@ An impact assessment of the effect of this instrument on the costs to business, 
 
 [^f00017]: Footnote: Section 191 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-b4b206642b906b13fdc448af59c8ba31]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/853/regulation/3) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
+[^c-b4b206642b906b13fdc448af59c8ba31]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/853/regulation/3) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880); amended by [S.I. 1992/716](https://www.legislation.gov.uk/uksi/1992/716), [1999/2109](https://www.legislation.gov.uk/uksi/1999/2109), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2006/3386](https://www.legislation.gov.uk/uksi/2006/3386).
 
 [^f00019]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995); amended by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and [2006/3386](https://www.legislation.gov.uk/uksi/2006/3386).
 
-[^key-5206d559b5f060e161922b90ea519789]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/853/regulation/4) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
+[^c-5206d559b5f060e161922b90ea519789]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/853/regulation/4) in force at 15.6.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995); amended by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and [2006/3386](https://www.legislation.gov.uk/uksi/2006/3386).

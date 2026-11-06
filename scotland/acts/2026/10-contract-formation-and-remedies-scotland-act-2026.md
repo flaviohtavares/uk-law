@@ -40,7 +40,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 1. Autonomy of parties: application of sections 2 to 13[^key-d4690da2099c6b37c57dc9b77cf01810]
+#### 1. Autonomy of parties: application of sections 2 to 13[^c-d4690da2099c6b37c57dc9b77cf01810]
 
 (1) Sections 2 to 13 apply in relation to the formation of a contract except in so far as—
 
@@ -58,7 +58,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 2. Formation of contract: general[^key-c0e47ceca1e90d098185f74925292a12]
+#### 2. Formation of contract: general[^c-c0e47ceca1e90d098185f74925292a12]
 
 (1) A contract is formed on the parties coming to an agreement—
 
@@ -75,7 +75,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) For the purposes of subsections (1) to (3), whether there is agreement or not may be determined from the statements and conduct of the parties (whether or not such statements and conduct consist of, or include, the acceptance of an offer).
 
-#### 3. Formation of contract by unnotified acts[^key-e489f222a4aeb2bf49349de2a0ae1efc]
+#### 3. Formation of contract by unnotified acts[^c-e489f222a4aeb2bf49349de2a0ae1efc]
 
 (1) Subsection (2) applies, in relation to the formation of a contract, where—
 
@@ -93,7 +93,7 @@ that the performance of certain acts by the offeree forms the contract, even wit
 
 **Not yet in force.**
 
-#### 4. What constitutes an offer[^key-93076de64e1ed54247212717fbb38479]
+#### 4. What constitutes an offer[^c-93076de64e1ed54247212717fbb38479]
 
 (1) For a proposal to constitute an “**offer**” in relation to the formation of a contract—
 
@@ -109,7 +109,7 @@ that the performance of certain acts by the offeree forms the contract, even wit
 
 (3) Subsections (1) and (2) are without prejudice to the application of any relevant enactment, or rule of law, in relation to the constitution of a unilateral promise.
 
-#### 5. Revocation of offer[^key-b644dd400d5af4047306f1c7ad49ffa8]
+#### 5. Revocation of offer[^c-b644dd400d5af4047306f1c7ad49ffa8]
 
 (1) An offer in relation to the formation of a contract may be revoked by the offeror but only if the revocation takes effect before—
 
@@ -131,7 +131,7 @@ that the performance of certain acts by the offeree forms the contract, even wit
 - (a) it is manifest from the terms of the offer in question that it is intended to be irrevocable, or
 - (b) the offeror has, in a declaration which has taken effect, stated that it is irrevocable.
 
-#### 6. Lapsing of offer on fundamental change of circumstances[^key-1871d47334ae7de9b95821dc122c0eab]
+#### 6. Lapsing of offer on fundamental change of circumstances[^c-1871d47334ae7de9b95821dc122c0eab]
 
 (1) An offer in relation to the formation of a contract lapses on a fundamental change of circumstances and having lapsed can no longer be accepted.
 
@@ -166,7 +166,7 @@ that the performance of certain acts by the offeree forms the contract, even wit
 
 (7) In subsection (2)(b), “**incapable**” has the meaning given to that expression by section 1(6) of the Adults with Incapacity (Scotland) Act 2000.
 
-#### 7. Acceptance of offer[^key-0fc8c418c6414cf1748d0de86a6ba38c]
+#### 7. Acceptance of offer[^c-0fc8c418c6414cf1748d0de86a6ba38c]
 
 (1) In this Part, any reference to acceptance of an offer is to—
 
@@ -181,7 +181,7 @@ of the offeree which shows the unqualified assent of the offeree to the offer.
 
 (4) This section is without prejudice to section 2(2) and (3).
 
-#### 8. Qualified acceptance of offer[^key-e43ad6a0a34f9a9b74a92f8374237c1a]
+#### 8. Qualified acceptance of offer[^c-e43ad6a0a34f9a9b74a92f8374237c1a]
 
 (1) Subsection (2) applies where, as regards an offer (in this section referred to as “**the original offer**”) in relation to the formation of a contract, a qualified acceptance by the offeree provides for any or all of the following—
 
@@ -196,7 +196,7 @@ of the offeree which shows the unqualified assent of the offeree to the offer.
 
 (3) Subsection (2) is without prejudice to section 2(2).
 
-#### 9. Rejection of offer[^key-eb702758089133cdc59b451dc9a86330]
+#### 9. Rejection of offer[^c-eb702758089133cdc59b451dc9a86330]
 
 On the rejection of an offer (whether or not an irrevocable offer) in relation to the formation of a contract, the offer lapses.
 
@@ -204,7 +204,7 @@ On the rejection of an offer (whether or not an irrevocable offer) in relation t
 
 **Not yet in force.**
 
-#### 10. Withdrawal of offer or acceptance[^key-3aab47dcddc1b71d1ed485d637332b9b]
+#### 10. Withdrawal of offer or acceptance[^c-3aab47dcddc1b71d1ed485d637332b9b]
 
 In relation to the formation of a contract—
 
@@ -215,7 +215,7 @@ In relation to the formation of a contract—
 
 **Not yet in force.**
 
-#### 11. Time limits[^key-20b53034e5b6f32814c9c10af42bb381]
+#### 11. Time limits[^c-20b53034e5b6f32814c9c10af42bb381]
 
 (1) In relation to the formation of a contract, notification of acceptance of an offer is only effective if it occurs—
 
@@ -231,7 +231,7 @@ In relation to the formation of a contract—
 
 (4) Sections 13(3) and (4) apply for the purposes of subsection (2)(a) as they apply for the purposes of section 13(1).
 
-#### 12. Commencement of a period of time within which a response to an offer is required[^key-00f827bbc39d89377dfced7b3042775b]
+#### 12. Commencement of a period of time within which a response to an offer is required[^c-00f827bbc39d89377dfced7b3042775b]
 
 (1) Subsection (2) applies where, in relation to the formation of a contract, the terms of an offer—
 
@@ -244,7 +244,7 @@ In relation to the formation of a contract—
 
 **Not yet in force.**
 
-#### 13. When notification takes effect[^key-8c721351b949e985955149bad2c34ee0]
+#### 13. When notification takes effect[^c-8c721351b949e985955149bad2c34ee0]
 
 (1) In relation to the formation of a contract, a notification to a person of an offer, acceptance, counter-offer, withdrawal, rejection, revocation or declaration takes effect on reaching that person.
 
@@ -259,13 +259,13 @@ In relation to the formation of a contract—
 - (c) in a case where either the person does not have a place of business or the notification does not relate to a business matter, when it is delivered to the person’s habitual residence, or
 - (d) in the case of a notification transmitted by electronic means, when it becomes available to be accessed by the person.
 
-#### 14. Abolition of any rule of law as to when notification of postal acceptance takes effect[^key-fbec7e06bf488973d6590de25e1f04c1]
+#### 14. Abolition of any rule of law as to when notification of postal acceptance takes effect[^c-fbec7e06bf488973d6590de25e1f04c1]
 
 Any rule of law whereby, in relation to the formation of a contract, an acceptance sent by means of a postal service takes effect when posted is abolished.
 
 ### General
 
-#### 15. Interpretation of Part 1[^key-70febebed70433d0fc8703b0ee309398]
+#### 15. Interpretation of Part 1[^c-70febebed70433d0fc8703b0ee309398]
 
 (1) In this Part (except where the context otherwise requires)—
 
@@ -285,7 +285,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 ### Autonomy of parties
 
-#### 16. Autonomy of parties: application of sections 17 to 24 and of the Law Reform (Contributory Negligence) Act 1945[^key-b41995d5c03817c1f82ef37cc7dbfd9f]
+#### 16. Autonomy of parties: application of sections 17 to 24 and of the Law Reform (Contributory Negligence) Act 1945[^c-b41995d5c03817c1f82ef37cc7dbfd9f]
 
 (1) Sections 17 to 21 apply in relation to any breach of contract—
 
@@ -300,7 +300,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 ### Mutuality of contract
 
-#### 17. Mutuality of contract[^key-b8be099e03e27cbabff517135278701a]
+#### 17. Mutuality of contract[^c-b8be099e03e27cbabff517135278701a]
 
 (1) Subsection (2) applies where any two parties to a contract (those parties being in this section referred to as “**PA**” and “PB”) are each in breach of the contract.
 
@@ -313,7 +313,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 ### Rescission for breach of contract
 
-#### 18. Rescission for breach of contract: return of benefits received[^key-f73f65f18abbacd32ae721869f4ece4b]
+#### 18. Rescission for breach of contract: return of benefits received[^c-f73f65f18abbacd32ae721869f4ece4b]
 
 (1) On a contract being lawfully rescinded for breach of contract, this section and sections 19 to 21 apply if a party to the contract received any benefit from the performance by another party of an obligation under the contract.
 
@@ -334,7 +334,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 (8) The requirement to return a benefit includes a requirement to return the fruits of the benefit (whether natural or civil).
 
-#### 19. Value of benefit[^key-152282810a09b8a87f913411cecdaf64]
+#### 19. Value of benefit[^c-152282810a09b8a87f913411cecdaf64]
 
 (1) This section applies where the recipient is required, by section 18(6) or (7), to pay the value of a benefit.
 
@@ -348,7 +348,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 (6) The recipient’s liability to pay the value of a benefit is reduced to the extent that, as a result of the non-performance of an obligation owed by the other party to the recipient (being an obligation under the contract) the recipient is compelled, without compensation, either to dispose of the benefit or to sustain a disadvantage in order to preserve it.
 
-#### 20. Compensation for reduction in value of a returned benefit[^key-d14ad5b6c2946684ba87b86beb4037d4]
+#### 20. Compensation for reduction in value of a returned benefit[^c-d14ad5b6c2946684ba87b86beb4037d4]
 
 (1) This section applies where the recipient is required, by section 18(6), to transfer a benefit.
 
@@ -359,7 +359,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 - (a) the non-performance of an obligation owed by the other party to the recipient (being an obligation under the contract), or
 - (b) conduct of the recipient in the reasonable, but mistaken, belief that the other party’s performance of an obligation so owed conformed with the contract.
 
-#### 21. Use and improvement[^key-98702f47d654ceee279b3b9511a0942b]
+#### 21. Use and improvement[^c-98702f47d654ceee279b3b9511a0942b]
 
 (1) The recipient must pay the other party a reasonable amount for any use which the recipient made of the benefit (except in so far as the recipient is liable to pay compensation to the other party under section 20(2) in respect of that use).
 
@@ -370,7 +370,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 ### Contractual retention
 
-#### 22. Application of contractual retention[^key-67913a5e1e34fc71c84ed9cc28f88005]
+#### 22. Application of contractual retention[^c-67913a5e1e34fc71c84ed9cc28f88005]
 
 (1) A party to a contract (“**PA**”) may temporarily withhold or suspend performance of an obligation that is due to be performed under the contract (“contractual retention”)—
 
@@ -394,7 +394,7 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 (6) PA may exercise contractual retention until PB has performed the obligation referred to in subsection (1) or has paid damages in lieu of performance.
 
-#### 23. Notification of contractual retention for an anticipatory breach of contract[^key-fe16fa355c7600d1fc7e4545529db736]
+#### 23. Notification of contractual retention for an anticipatory breach of contract[^c-fe16fa355c7600d1fc7e4545529db736]
 
 (1) Where PA exercises contractual retention for an anticipatory breach by PB in accordance with section 22(1)(b), PA must notify PB of the contractual retention—
 
@@ -403,13 +403,13 @@ Any rule of law whereby, in relation to the formation of a contract, an acceptan
 
 (2) For the purposes of subsection (1), a notification must be written or oral.
 
-#### 24. Contractual retention in proceedings[^key-5a2900df7600a68cbced0b03811c4382]
+#### 24. Contractual retention in proceedings[^c-5a2900df7600a68cbced0b03811c4382]
 
 (1) In proceedings disputing a contractual retention on the basis of section 22(4), it is for the party disputing the contractual retention to show that the contractual retention is clearly disproportionate to the breach or anticipatory breach.
 
 (2) In proceedings for breach of contract, it is a defence for a party to show that their failure to perform an obligation constitutes contractual retention.
 
-#### 25. Interaction of contractual retention with existing law[^key-5b456a6788d88b40706d0e4484fdd898]
+#### 25. Interaction of contractual retention with existing law[^c-5b456a6788d88b40706d0e4484fdd898]
 
 Sections 22 to 24 are without prejudice to—
 
@@ -424,7 +424,7 @@ Sections 22 to 24 are without prejudice to—
 
 ### Amendment of Law Reform (Contributory Negligence) Act 1945
 
-#### 26. Amendment of Law Reform (Contributory Negligence) Act 1945[^key-87c06d8d17045613dc48b0895c6252ee]
+#### 26. Amendment of Law Reform (Contributory Negligence) Act 1945[^c-87c06d8d17045613dc48b0895c6252ee]
 
 In section 5 of the Law Reform (Contributory Negligence) Act 1945—
 
@@ -439,7 +439,7 @@ In section 5 of the Law Reform (Contributory Negligence) Act 1945—
 
 ## Part 3 — General
 
-### 27. Saving[^key-0dfe5277670bd7044194c5936cb5cbc3]
+### 27. Saving[^c-0dfe5277670bd7044194c5936cb5cbc3]
 
 The provisions of this Act are without prejudice to any enactment or rule of law which—
 
@@ -455,7 +455,7 @@ The provisions of this Act are without prejudice to any enactment or rule of law
 - (e) provides protection against unfair contract terms, or
 - (f) provides protection for a particular category of contracting person.
 
-### 28. Ancillary provision[^key-c28c11a63326dd9e1db44829d409fb86]
+### 28. Ancillary provision[^c-c28c11a63326dd9e1db44829d409fb86]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -469,7 +469,7 @@ The provisions of this Act are without prejudice to any enactment or rule of law
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, and
 - (b) are otherwise subject to the negative procedure.
 
-### 29. Commencement[^key-383230d6a38826e959292a4797bea3e3]
+### 29. Commencement[^c-383230d6a38826e959292a4797bea3e3]
 
 (1) This section and sections 15, 27, 28 and 30 come into force on the day after Royal Assent.
 
@@ -480,68 +480,68 @@ The provisions of this Act are without prejudice to any enactment or rule of law
 - (a) may include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 30. Short title[^key-6736dcb505cd52efd8db8428a1970220]
+### 30. Short title[^c-6736dcb505cd52efd8db8428a1970220]
 
 The short title of this Act is the Contract (Formation and Remedies) (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-d4690da2099c6b37c57dc9b77cf01810]: Commencement: S. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-d4690da2099c6b37c57dc9b77cf01810]: Commencement: S. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-c0e47ceca1e90d098185f74925292a12]: Commencement: S. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-c0e47ceca1e90d098185f74925292a12]: Commencement: S. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-e489f222a4aeb2bf49349de2a0ae1efc]: Commencement: S. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-e489f222a4aeb2bf49349de2a0ae1efc]: Commencement: S. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-93076de64e1ed54247212717fbb38479]: Commencement: S. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-93076de64e1ed54247212717fbb38479]: Commencement: S. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-b644dd400d5af4047306f1c7ad49ffa8]: Commencement: S. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-b644dd400d5af4047306f1c7ad49ffa8]: Commencement: S. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-1871d47334ae7de9b95821dc122c0eab]: Commencement: S. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-1871d47334ae7de9b95821dc122c0eab]: Commencement: S. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-0fc8c418c6414cf1748d0de86a6ba38c]: Commencement: S. 7 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-0fc8c418c6414cf1748d0de86a6ba38c]: Commencement: S. 7 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-e43ad6a0a34f9a9b74a92f8374237c1a]: Commencement: S. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-e43ad6a0a34f9a9b74a92f8374237c1a]: Commencement: S. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-eb702758089133cdc59b451dc9a86330]: Commencement: S. 9 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-eb702758089133cdc59b451dc9a86330]: Commencement: S. 9 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-3aab47dcddc1b71d1ed485d637332b9b]: Commencement: S. 10 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-3aab47dcddc1b71d1ed485d637332b9b]: Commencement: S. 10 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-20b53034e5b6f32814c9c10af42bb381]: Commencement: S. 11 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-20b53034e5b6f32814c9c10af42bb381]: Commencement: S. 11 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-00f827bbc39d89377dfced7b3042775b]: Commencement: S. 12 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-00f827bbc39d89377dfced7b3042775b]: Commencement: S. 12 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-8c721351b949e985955149bad2c34ee0]: Commencement: S. 13 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-8c721351b949e985955149bad2c34ee0]: Commencement: S. 13 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-fbec7e06bf488973d6590de25e1f04c1]: Commencement: S. 14 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-fbec7e06bf488973d6590de25e1f04c1]: Commencement: S. 14 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-70febebed70433d0fc8703b0ee309398]: Commencement: S. 15 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
+[^c-70febebed70433d0fc8703b0ee309398]: Commencement: S. 15 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
 
-[^key-b41995d5c03817c1f82ef37cc7dbfd9f]: Commencement: S. 16 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-b41995d5c03817c1f82ef37cc7dbfd9f]: Commencement: S. 16 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-b8be099e03e27cbabff517135278701a]: Commencement: S. 17 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-b8be099e03e27cbabff517135278701a]: Commencement: S. 17 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-f73f65f18abbacd32ae721869f4ece4b]: Commencement: S. 18 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-f73f65f18abbacd32ae721869f4ece4b]: Commencement: S. 18 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-152282810a09b8a87f913411cecdaf64]: Commencement: S. 19 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-152282810a09b8a87f913411cecdaf64]: Commencement: S. 19 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-d14ad5b6c2946684ba87b86beb4037d4]: Commencement: S. 20 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-d14ad5b6c2946684ba87b86beb4037d4]: Commencement: S. 20 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-98702f47d654ceee279b3b9511a0942b]: Commencement: S. 21 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-98702f47d654ceee279b3b9511a0942b]: Commencement: S. 21 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-67913a5e1e34fc71c84ed9cc28f88005]: Commencement: S. 22 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-67913a5e1e34fc71c84ed9cc28f88005]: Commencement: S. 22 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-fe16fa355c7600d1fc7e4545529db736]: Commencement: S. 23 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-fe16fa355c7600d1fc7e4545529db736]: Commencement: S. 23 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-5a2900df7600a68cbced0b03811c4382]: Commencement: S. 24 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-5a2900df7600a68cbced0b03811c4382]: Commencement: S. 24 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-5b456a6788d88b40706d0e4484fdd898]: Commencement: S. 25 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-5b456a6788d88b40706d0e4484fdd898]: Commencement: S. 25 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-87c06d8d17045613dc48b0895c6252ee]: Commencement: S. 26 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
+[^c-87c06d8d17045613dc48b0895c6252ee]: Commencement: S. 26 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asp/2026/10/section/29/2)
 
-[^key-0dfe5277670bd7044194c5936cb5cbc3]: Commencement: S. 27 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
+[^c-0dfe5277670bd7044194c5936cb5cbc3]: Commencement: S. 27 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
 
-[^key-c28c11a63326dd9e1db44829d409fb86]: Commencement: S. 28 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
+[^c-c28c11a63326dd9e1db44829d409fb86]: Commencement: S. 28 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
 
-[^key-383230d6a38826e959292a4797bea3e3]: Commencement: S. 29 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
+[^c-383230d6a38826e959292a4797bea3e3]: Commencement: S. 29 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
 
-[^key-6736dcb505cd52efd8db8428a1970220]: Commencement: S. 30 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)
+[^c-6736dcb505cd52efd8db8428a1970220]: Commencement: S. 30 in force at 15.4.2026, see [s. 29(1)](https://www.legislation.gov.uk/asp/2026/10/section/29/1)

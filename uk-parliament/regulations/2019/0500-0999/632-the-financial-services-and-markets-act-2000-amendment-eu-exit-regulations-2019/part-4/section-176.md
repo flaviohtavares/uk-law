@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Schedule 1 (controlled activities and controlled investments)[^key-45e9d705317477bc5a69a84afd9df8af][^key-660b7df424255946745807230422752e][^key-660b7df424255946745807230422752e]
+## 176. Schedule 1 (controlled activities and controlled investments)[^c-45e9d705317477bc5a69a84afd9df8af][^c-660b7df424255946745807230422752e][^c-660b7df424255946745807230422752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 > - (f) the arrangements are—
 >   - (i) a security that is admitted to the official list in accordance with Part 6 of the Act,
->   - (ii) a security that is admitted to an official list in the EEA (in accordance with the provisions of Directive [2001/34/EC](https://www.legislation.gov.uk/eudr/2001/34) of the European Parliament and of the Council on the admission of securities to official stock exchange listing and on information to be published on those securities) and has been so admitted since before IP completion day[^key-528c77495b82aced55a2ea0caf8691d3],
+>   - (ii) a security that is admitted to an official list in the EEA (in accordance with the provisions of Directive [2001/34/EC](https://www.legislation.gov.uk/eudr/2001/34) of the European Parliament and of the Council on the admission of securities to official stock exchange listing and on information to be published on those securities) and has been so admitted since before IP completion day[^c-528c77495b82aced55a2ea0caf8691d3],
 >   - (iii) a security that is admitted to trading on a recognised investment exchange or a UK trading venue, or
 >   - (iv) a security that is admitted to trading on an EU trading venue and has been so admitted since before IP completion day.
 
@@ -108,9 +108,9 @@ summary: ''
 
 ## Annotations
 
-[^key-45e9d705317477bc5a69a84afd9df8af]: Commencement: Reg. 176 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-45e9d705317477bc5a69a84afd9df8af]: Commencement: Reg. 176 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
-[^key-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-660b7df424255946745807230422752e]: Modification: Pts. 3-6 modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23660221]: Marginal citation: Sub-paragraph (2)(b) was amended by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815).
 
@@ -118,7 +118,7 @@ summary: ''
 
 [^c23660241]: Marginal citation: Sub-paragraph (2)(f) was amended by 2017/488.
 
-[^key-528c77495b82aced55a2ea0caf8691d3]: Textual amendment: Words in reg. 176(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(w)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/w)
+[^c-528c77495b82aced55a2ea0caf8691d3]: Textual amendment: Words in reg. 176(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(w)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/w)
 
 [^c23660251]: Marginal citation: Paragraph 21 was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 

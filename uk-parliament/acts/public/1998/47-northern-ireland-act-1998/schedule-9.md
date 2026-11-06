@@ -65,7 +65,7 @@ Section 75(4).
 - “**equality of opportunity**” means such equality of opportunity as is mentioned in section 75(1);
 - “**the relevant functions**” means the functions of the public authority or, in the case of a scheme submitted in response to a request which specifies particular functions of the public authority, those functions.
 
-(5)[^key-1816f8de5b7d5e59ef35e199c9cdc9d6] But where the public authority is designated by order under section 75(3)(a) or (d)—
+(5)[^c-1816f8de5b7d5e59ef35e199c9cdc9d6] But where the public authority is designated by order under section 75(3)(a) or (d)—
 
 - “**equality of opportunity**” does not include equality of opportunity in relation to which (by virtue of the order) the public authority has no obligations under section 75(1);
 - “**the relevant functions**” does not include functions of the public authority so far as the obligations imposed by section 75 do not (by virtue of the order) apply to their exercise.
@@ -176,4 +176,4 @@ it shall notify the Assembly in writing that it has done so and, in a case falli
 
 [^c12400851]: Commencement: Sch. 9 para. 1 wholly in force at 1.1.2000; Sch. 9 para. 1 not in force at Royal Assent see s. 101(3); Sch. 9 para. 1(b) in force for specified purposes at 1.10.1999 by [S.I. 1999/2204](https://www.legislation.gov.uk/uksi/1999/2204), [art. 3](https://www.legislation.gov.uk/uksi/1999/2204/article/3); Sch. 9 para. 1 in force at 1.1.2000 insofar as not already in force by [S.I. 1999/2204](https://www.legislation.gov.uk/uksi/1999/2204), [art. 4](https://www.legislation.gov.uk/uksi/1999/2204/article/4)
 
-[^key-1816f8de5b7d5e59ef35e199c9cdc9d6]: Textual amendment: Sch. 9 para. 4(5) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/22/2), [28(1)(f)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/f)
+[^c-1816f8de5b7d5e59ef35e199c9cdc9d6]: Textual amendment: Sch. 9 para. 4(5) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/22/2), [28(1)(f)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/f)

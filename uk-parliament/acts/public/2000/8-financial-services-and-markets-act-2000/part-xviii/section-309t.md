@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309T. Breach of statutory duty by relevant recognised bodies[^key-ece2c29fab1c3cdde545c7b7f425c28f]
+## 309T. Breach of statutory duty by relevant recognised bodies[^c-ece2c29fab1c3cdde545c7b7f425c28f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ece2c29fab1c3cdde545c7b7f425c28f]: Textual amendment: [Pt. 18 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/2A) inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/1)
+[^c-ece2c29fab1c3cdde545c7b7f425c28f]: Textual amendment: [Pt. 18 Ch. 2A](https://www.legislation.gov.uk/ukpga/2000/8/part/XVIII/chapter/2A) inserted (29.6.2023 for specified purposes) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/10/paragraph/1)

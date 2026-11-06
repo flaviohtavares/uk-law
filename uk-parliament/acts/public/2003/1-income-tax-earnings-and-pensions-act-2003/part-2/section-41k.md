@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41K. Securities income from overseas Crown employment[^key-9fd66e2727d055604f2f4f22c87ff1de]
+## 41K. Securities income from overseas Crown employment[^c-9fd66e2727d055604f2f4f22c87ff1de]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-9fd66e2727d055604f2f4f22c87ff1de]: Textual amendment: Pt. 2 Ch. 5B substituted (with effect in accordance with Sch. 3 para. 7(3), Sch. 9 para. 48 of the amending Act) for Pt. 2 Ch. 5A by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/5), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

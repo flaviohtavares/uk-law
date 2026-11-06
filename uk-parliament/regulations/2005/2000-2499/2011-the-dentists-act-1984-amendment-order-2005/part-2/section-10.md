@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Substitution of section 22[^key-dcd841c4e6620b49e46af8456f5484b1]
+## 10. Substitution of section 22[^c-dcd841c4e6620b49e46af8456f5484b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ For section 22 substitute—
 
 ## Annotations
 
-[^key-dcd841c4e6620b49e46af8456f5484b1]: Commencement: Art. 10 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-dcd841c4e6620b49e46af8456f5484b1]: Commencement: Art. 10 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

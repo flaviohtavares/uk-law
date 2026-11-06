@@ -56,7 +56,7 @@ The Secretary of State, in exercise of the powers conferred upon her by section 
 
 In these Regulations:
 
-- “[^key-d6ab32dd482cad9afc2a5d64e18e64aa]**the Community Regulation**” means—
+- “[^c-d6ab32dd482cad9afc2a5d64e18e64aa]**the Community Regulation**” means—
   - (a) in respect of Northern Ireland, Regulation [(EC) No. 273/2004](https://www.legislation.gov.uk/european/regulation/2004/0273) of the European Parliament and of the Council dated 11th February 2004 as it has effect in EU law, or
   - (b) in respect of Great Britain, Regulation [(EC) No. 273/2004](https://www.legislation.gov.uk/european/regulation/2004/0273) of the European Parliament and of the Council dated 11th February 2004.
 - “**the 1990 Act**” means the Criminal Justice (International Co-operation) Act 1990 [^c19092761].
@@ -64,20 +64,20 @@ In these Regulations:
 
 ## 3. Competent authorities
 
-(1) For the purposes of the Community Regulation, the words “the competent authorities” shall be taken, to the extent specified in paragraphs (2) to (4A)[^key-670252765d51299f03f01aa7dbb661b2], as a reference to the persons specified in those paragraphs.
+(1) For the purposes of the Community Regulation, the words “the competent authorities” shall be taken, to the extent specified in paragraphs (2) to (4A)[^c-670252765d51299f03f01aa7dbb661b2], as a reference to the persons specified in those paragraphs.
 
-(2) In Articles 3, 8(2) and 9(3)[^key-02c547d462bd26a0f592fba27c7edc75] of the Community Regulation, the Secretary of State.
+(2) In Articles 3, 8(2) and 9(3)[^c-02c547d462bd26a0f592fba27c7edc75] of the Community Regulation, the Secretary of State.
 
 (3) In Article 8(1) a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency;
 
-(4) In Articles 5(5) and 9(1)[^key-faf331d8cf05b6f02e8ab00e02593a84] of the Community Regulation, any of the following—
+(4) In Articles 5(5) and 9(1)[^c-faf331d8cf05b6f02e8ab00e02593a84] of the Community Regulation, any of the following—
 
 - (a) a constable;
 - (b) an officer of Revenue and Customs under section 2(1) of the Commissioners for Revenue and Customs Act 2005 (appointment of staff) [^c19092771] or other person authorised by the Commissioners for Her Majesty's Revenue and Customs;
 - (c) a person authorised for the purposes of these Regulations by the Director General of the Serious Organised Crime Agency;
 - (d) the Secretary of State.
 
-(4A)[^key-054accb6132124c3b1b6629b4e3f7de5] In respect of Northern Ireland, in Article 10 of the Community Regulation, any of the following—
+(4A)[^c-054accb6132124c3b1b6629b4e3f7de5] In respect of Northern Ireland, in Article 10 of the Community Regulation, any of the following—
 
 - (a) a constable;
 - (b) an officer of Revenue and Customs under section 2(1) of the Commissioners for Revenue and Customs Act 2005 (appointments of staff) or other person authorised by the Commissioners for His Majesty’s Revenue and Customs;
@@ -99,26 +99,26 @@ A licence, other than a special licence, issued by the Secretary of State in acc
 - (c) an officer of Revenue and Customs or other person authorised by the Commissioners for Her Majesty's Revenue and Customs;
 - (d) a chief officer of police;
 - (e) the Director General of the Serious Organised Crime Agency;
-- (f)[^key-9a49c437497a8115499c69382fa4cafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-9a49c437497a8115499c69382fa4cafa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) an official working in an official laboratory; and
 - (h) the armed forces.
 
 (3) In this regulation—
 
-- (a) “**pharmacist**” in relation to Great Britain means a person registered as a pharmacist in Part 1[^key-247a129212dfeaba07ee596e0c5852c0] [^key-282a04adf18c13fe028ba6cd96790468]... of the register maintained under article 19 of the Pharmacy Order 2010, and in relation to Northern Ireland (subject to any order made under paragraph 1 of Schedule 4 to the Medicines Act 1968 (application of provisions to Northern Ireland) [^c19092801]) means a person registered in the register of pharmaceutical chemists for Northern Ireland made out and maintained under Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976 [^c19092811] and “**a person lawfully conducting a retail pharmacy business**” means a person lawfully conducting such a business in accordance with section 69 of the Medicines Act 1968 (requirements for lawfully conducting a retail pharmacy business);
+- (a) “**pharmacist**” in relation to Great Britain means a person registered as a pharmacist in Part 1[^c-247a129212dfeaba07ee596e0c5852c0] [^c-282a04adf18c13fe028ba6cd96790468]... of the register maintained under article 19 of the Pharmacy Order 2010, and in relation to Northern Ireland (subject to any order made under paragraph 1 of Schedule 4 to the Medicines Act 1968 (application of provisions to Northern Ireland) [^c19092801]) means a person registered in the register of pharmaceutical chemists for Northern Ireland made out and maintained under Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976 [^c19092811] and “**a person lawfully conducting a retail pharmacy business**” means a person lawfully conducting such a business in accordance with section 69 of the Medicines Act 1968 (requirements for lawfully conducting a retail pharmacy business);
 - (b) “**veterinary practitioner**” means a person registered in the supplementary veterinary register kept under section 8 of the Veterinary Surgeons Act 1966 (keeping of supplementary veterinary register) [^c19092821] and “**veterinary surgeon**” means a person registered in the register of veterinary surgeons kept under section 2 of that Act (keeping of veterinary surgeons register);
 - (c) “**officer of Revenue and Customs**” means a person appointed under section 2(1) of the Commissioners for Revenue and Customs Act 2005 [^c19092831] and the Commissioners for Her Majesty's Revenue and Customs;
-- (d) “**chief officer of police**” means a chief officer of police of a police force in England and Wales, the chief constable of the Police Service of Scotland[^key-96c3fc090a804a17f2d91ff458083474], the Chief Constable of the Police Service of Northern Ireland, the Ministry of Defence Police [^c19092841], the British Transport Police Force [^c19092851] and the Civil Nuclear Constabulary [^c19092861];
+- (d) “**chief officer of police**” means a chief officer of police of a police force in England and Wales, the chief constable of the Police Service of Scotland[^c-96c3fc090a804a17f2d91ff458083474], the Chief Constable of the Police Service of Northern Ireland, the Ministry of Defence Police [^c19092841], the British Transport Police Force [^c19092851] and the Civil Nuclear Constabulary [^c19092861];
 - (e) “**an official working in an official laboratory**” means—
   - (i) a public analyst appointed under section 27 of the Food Safety Act 1990 (power to appoint public analyst) [^c19092871] or in the case of Northern Ireland, under article 27 of the Food Safety (Northern Ireland) Order 1991 [^c19092881];
   - (ii) a sampling officer within the meaning of Schedule 3 to the Medicines Act 1968;
-  - (iii) a person employed or engaged in connection with a scheme for testing the quality or amount of the drugs, preparations and appliances supplied under the National Health Service Act 1977 [^c19092891] , the Health and Personal Social Services (Northern Ireland) Order 1972[^key-998e2613e0bdbd21fbfa331e6333173c] or the National Health Service (Scotland) Act 1978 [^c19092901] and the regulations made under those Acts or that Order[^key-9024c3a93fcc7b17516ab33a6e802ddb]; and
+  - (iii) a person employed or engaged in connection with a scheme for testing the quality or amount of the drugs, preparations and appliances supplied under the National Health Service Act 1977 [^c19092891] , the Health and Personal Social Services (Northern Ireland) Order 1972[^c-998e2613e0bdbd21fbfa331e6333173c] or the National Health Service (Scotland) Act 1978 [^c19092901] and the regulations made under those Acts or that Order[^c-9024c3a93fcc7b17516ab33a6e802ddb]; and
   - (iv) a person engaged in the work of any laboratory to which the drug has been sent for forensic examination when acting in the course of his duty as a person so engaged; and
 - (f) “**armed forces**” means the Royal Navy, the Royal Marines, the regular army and the regular air force, and any reserve or auxiliary force of any of those services which has been called out on permanent service or embodied.
 
 ## 6. Penalties
 
-(1) Subject to paragraph (2), the obligations imposed on operators by Article 5 (documentation), Article 7 (labelling) and Article 8 (notification of the competent authorities) of the Community Regulation shall be treated as if they are requirements imposed on them by regulations made under section 13(1) of the 1990 Act (regulations about scheduled substances) [^key-1b0783542d1c051451f0600f94f4b1e8]....
+(1) Subject to paragraph (2), the obligations imposed on operators by Article 5 (documentation), Article 7 (labelling) and Article 8 (notification of the competent authorities) of the Community Regulation shall be treated as if they are requirements imposed on them by regulations made under section 13(1) of the 1990 Act (regulations about scheduled substances) [^c-1b0783542d1c051451f0600f94f4b1e8]....
 
 (2) Where a person is convicted of an offence contrary to section 13(5) of the 1990 Act as a result of the application of paragraph (1), section 13(5)(a) of the 1990 Act shall have effect as if for the words “6 months” there are substituted the words “ 3 months ”.
 
@@ -176,25 +176,25 @@ Regulation 9 of these Regulations revokes the Controlled Drugs (Substances Usefu
 
 [^c19092741]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The Secretary of State is the designated Minister for the purposes of these Regulations by virtue of [S.I. 1981/1536](https://www.legislation.gov.uk/uksi/1981/1536) and [S.I. 1983/1706](https://www.legislation.gov.uk/uksi/1983/1706).
 
-[^key-d6ab32dd482cad9afc2a5d64e18e64aa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/295/regulation/2) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/2)
+[^c-d6ab32dd482cad9afc2a5d64e18e64aa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/295/regulation/2) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/2)
 
 [^c19092761]: Marginal citation: [1990 c. 5](https://www.legislation.gov.uk/ukpga/1990/5); [section 13](https://www.legislation.gov.uk/uksi/2008/295/section/13) has been amended by the [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-670252765d51299f03f01aa7dbb661b2]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/1) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/3/a)
+[^c-670252765d51299f03f01aa7dbb661b2]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/1) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/3/a)
 
-[^key-02c547d462bd26a0f592fba27c7edc75]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02c547d462bd26a0f592fba27c7edc75]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-faf331d8cf05b6f02e8ab00e02593a84]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/4) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-faf331d8cf05b6f02e8ab00e02593a84]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/4) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19092771]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-054accb6132124c3b1b6629b4e3f7de5]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/4A) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/3/b)
+[^c-054accb6132124c3b1b6629b4e3f7de5]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2008/295/regulation/3/4A) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/3/b)
 
-[^key-9a49c437497a8115499c69382fa4cafa]: Textual amendment: [Reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/2/f) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 90(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/90/2)
+[^c-9a49c437497a8115499c69382fa4cafa]: Textual amendment: [Reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/2/f) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 90(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/90/2)
 
-[^key-247a129212dfeaba07ee596e0c5852c0]: Textual amendment: Words in reg. 5(3)(a) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 64](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/64) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-247a129212dfeaba07ee596e0c5852c0]: Textual amendment: Words in reg. 5(3)(a) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 64](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/64) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-282a04adf18c13fe028ba6cd96790468]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/a) omitted (29.6.2026) by virtue of [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/a)
+[^c-282a04adf18c13fe028ba6cd96790468]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/a) omitted (29.6.2026) by virtue of [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/a)
 
 [^c19092801]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -204,7 +204,7 @@ Regulation 9 of these Regulations revokes the Controlled Drugs (Substances Usefu
 
 [^c19092831]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-96c3fc090a804a17f2d91ff458083474]: Textual amendment: Words in [reg. 5(3)(d)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 90(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/90/3)
+[^c-96c3fc090a804a17f2d91ff458083474]: Textual amendment: Words in [reg. 5(3)(d)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/d) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 90(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/90/3)
 
 [^c19092841]: Marginal citation: as defined in section 1 of the Ministry of Defence Police Act 1987 c 4
 
@@ -218,13 +218,13 @@ Regulation 9 of these Regulations revokes the Controlled Drugs (Substances Usefu
 
 [^c19092891]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-998e2613e0bdbd21fbfa331e6333173c]: Textual amendment: Words in [reg. 5(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/e/iii) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/b/i)
+[^c-998e2613e0bdbd21fbfa331e6333173c]: Textual amendment: Words in [reg. 5(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/e/iii) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/b/i)
 
 [^c19092901]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
-[^key-9024c3a93fcc7b17516ab33a6e802ddb]: Textual amendment: Words in [reg. 5(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/e/iii) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/b/ii)
+[^c-9024c3a93fcc7b17516ab33a6e802ddb]: Textual amendment: Words in [reg. 5(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2008/295/regulation/5/3/e/iii) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/4/b/ii)
 
-[^key-1b0783542d1c051451f0600f94f4b1e8]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/295/regulation/6/1) omitted (29.6.2026) by virtue of [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/5)
+[^c-1b0783542d1c051451f0600f94f4b1e8]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/295/regulation/6/1) omitted (29.6.2026) by virtue of [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/607/regulation/2/5)
 
 [^c19092911]: Marginal citation: 2007 Asp 6
 

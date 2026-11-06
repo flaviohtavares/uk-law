@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 88ZA. Calculation of income and capital of a joint-claim couple[^key-9824306e15595d2f7c1b1e9caab2a552]
+## 88ZA. Calculation of income and capital of a joint-claim couple[^c-9824306e15595d2f7c1b1e9caab2a552]
 
 (1) Subject to paragraphs (2) and (4), the income and capital of a joint-claim couple shall be calculated by—
 
@@ -38,4 +38,4 @@ the income of the joint-claim couple shall not be aggregated to the extent that 
 
 ## Annotations
 
-[^key-9824306e15595d2f7c1b1e9caab2a552]: Textual amendment: [Reg. 88ZA](https://www.legislation.gov.uk/uksi/1996/207/regulation/88ZA) inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2000/1978/schedule/2/paragraph/37)
+[^c-9824306e15595d2f7c1b1e9caab2a552]: Textual amendment: [Reg. 88ZA](https://www.legislation.gov.uk/uksi/1996/207/regulation/88ZA) inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2000/1978/schedule/2/paragraph/37)

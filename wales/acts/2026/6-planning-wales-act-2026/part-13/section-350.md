@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 350. Prohibition on service of simultaneous notices under sections 324, 346 and 348[^key-328ed034628170a204d35216a21314be]
+## 350. Prohibition on service of simultaneous notices under sections 324, 346 and 348[^c-328ed034628170a204d35216a21314be]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-328ed034628170a204d35216a21314be]: Commencement: S. 350 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-328ed034628170a204d35216a21314be]: Commencement: S. 350 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

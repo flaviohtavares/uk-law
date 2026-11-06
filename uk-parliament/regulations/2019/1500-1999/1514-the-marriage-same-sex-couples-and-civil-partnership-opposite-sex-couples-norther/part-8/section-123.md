@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Other public service pension schemes[^key-08db3d55dd587d5a805ea3daeee915c5]
+## 123. Other public service pension schemes[^c-08db3d55dd587d5a805ea3daeee915c5]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08db3d55dd587d5a805ea3daeee915c5]: Commencement: Reg. 123 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-08db3d55dd587d5a805ea3daeee915c5]: Commencement: Reg. 123 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

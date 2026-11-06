@@ -77,7 +77,7 @@ An Act to grant certain duties of Customs and Inland Revenue (including Excise),
 
 ### 48. Procedure on death of person entitled to Government stock.[^c580342]
 
-Where the holder of any Government stock dies, the production of probate, confirmation, or letters of administration granted by any court in the United Kingdom having authority to grant the same shall be sufficient authority to the Registrar of Government Stock[^key-0e19ccdd9806a64a84be65a1fee578b4], to the National Debt Commissioners, to the Director of Savings[^c580344], to the Operator of any relevant system[^c580345] and to any savings bank authority to transfer the stock to the person to whom the probate, confirmation, or letters of administration were granted, or as directed by that person ; and in this section “Operator” and “[^c580346]**relevant system**” have the same meanings as they have in the Uncertificated Securities Regulations 2001.
+Where the holder of any Government stock dies, the production of probate, confirmation, or letters of administration granted by any court in the United Kingdom having authority to grant the same shall be sufficient authority to the Registrar of Government Stock[^c-0e19ccdd9806a64a84be65a1fee578b4], to the National Debt Commissioners, to the Director of Savings[^c580344], to the Operator of any relevant system[^c580345] and to any savings bank authority to transfer the stock to the person to whom the probate, confirmation, or letters of administration were granted, or as directed by that person ; and in this section “Operator” and “[^c580346]**relevant system**” have the same meanings as they have in the Uncertificated Securities Regulations 2001.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c580347]
 
@@ -155,7 +155,7 @@ Where the holder of any Government stock dies, the production of probate, confir
 
 [^c580342]: Modification: S. 48 amended by [Finance Act 1916 (c. 24)](https://www.legislation.gov.uk/ukpga/1916/24), [s. 67](https://www.legislation.gov.uk/ukpga/1916/24/section/67)
 
-[^key-0e19ccdd9806a64a84be65a1fee578b4]: Textual amendment: Words in s. 48 substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-0e19ccdd9806a64a84be65a1fee578b4]: Textual amendment: Words in s. 48 substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c580344]: Textual amendment: Words substituted by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/1969/48/section/108/1/a)
 

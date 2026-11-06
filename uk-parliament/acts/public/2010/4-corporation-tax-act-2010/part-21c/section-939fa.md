@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 939FA. Clawback of corporation tax relief where donation becomes tainted in later accounting period[^key-963c8846beface403c3cd900aba73a28]
+## 939FA. Clawback of corporation tax relief where donation becomes tainted in later accounting period[^c-963c8846beface403c3cd900aba73a28]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-963c8846beface403c3cd900aba73a28]: Textual amendment: [Ss. 939FA](https://www.legislation.gov.uk/ukpga/2010/4/section/939FA), [939FB](https://www.legislation.gov.uk/ukpga/2010/4/section/939FB) inserted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/18) (with [s. 56(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/10))
+[^c-963c8846beface403c3cd900aba73a28]: Textual amendment: [Ss. 939FA](https://www.legislation.gov.uk/ukpga/2010/4/section/939FA), [939FB](https://www.legislation.gov.uk/ukpga/2010/4/section/939FB) inserted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/18) (with [s. 56(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/10))

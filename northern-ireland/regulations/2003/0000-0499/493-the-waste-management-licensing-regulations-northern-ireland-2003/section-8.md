@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Notification of determination[^key-a0069bdbbb623ec2aa5b578c79bae5c8]
+## 8. Notification of determination[^c-a0069bdbbb623ec2aa5b578c79bae5c8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0069bdbbb623ec2aa5b578c79bae5c8]: Commencement: Reg. 8 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-a0069bdbbb623ec2aa5b578c79bae5c8]: Commencement: Reg. 8 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)

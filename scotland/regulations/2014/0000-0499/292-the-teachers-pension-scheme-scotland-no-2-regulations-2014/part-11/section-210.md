@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 210. Information and documents[^key-fe35c322a70b9f8f46ef2ab7738e9630]
+## 210. Information and documents[^c-fe35c322a70b9f8f46ef2ab7738e9630]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe35c322a70b9f8f46ef2ab7738e9630]: Commencement: [Reg. 210](https://www.legislation.gov.uk/ssi/2014/292/regulation/210) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-fe35c322a70b9f8f46ef2ab7738e9630]: Commencement: [Reg. 210](https://www.legislation.gov.uk/ssi/2014/292/regulation/210) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

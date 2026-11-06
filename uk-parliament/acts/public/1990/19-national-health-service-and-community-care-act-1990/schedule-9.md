@@ -445,7 +445,7 @@ Section 66(1).
 
 (3) In section 23 of that Act (discharge of patients)—
 
-- (a)[^key-8d91eb6aa6df0f4e54e6266816c3927d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8d91eb6aa6df0f4e54e6266816c3927d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4), after the word “exercised” there shall be inserted “subject to subsection (5) below” and after the word “authority”, in each place in which it occurs, there shall be inserted “trust”, and
 - (c) after subsection (4) there shall be inserted the following subsection—
 
@@ -657,7 +657,7 @@ Section 66(1).
 
 [^c1359085]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-8d91eb6aa6df0f4e54e6266816c3927d]: Textual amendment: Sch. 9 para. 24(3)(a) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/a/i), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-8d91eb6aa6df0f4e54e6266816c3927d]: Textual amendment: Sch. 9 para. 24(3)(a) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/a/i), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
 [^c1359086]: Textual amendment: Sch. 9 para. 24(4)(6) and words in sub-paras. (3)(a), (5) repealed (1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [s. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6))
 

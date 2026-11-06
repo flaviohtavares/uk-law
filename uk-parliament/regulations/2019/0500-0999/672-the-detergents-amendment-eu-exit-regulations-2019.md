@@ -50,13 +50,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-c0b9080abe149c4ebc8febfd17a612e1]
+### 1. Citation and commencement[^c-c0b9080abe149c4ebc8febfd17a612e1]
 
 These Regulations may be cited as the Detergents (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. Amendment of the Detergents Regulations 2010[^key-6a3bfadeb45ec4e41692bd2a4800ad2c]
+### 2. Amendment of the Detergents Regulations 2010[^c-6a3bfadeb45ec4e41692bd2a4800ad2c]
 
 **Not yet in force.**
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Detergents (Amendment) (EU Exit) Regulatio
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 3. Interpretation[^key-9e7e6279872cf106794315e533b539a7]
+### 3. Interpretation[^c-9e7e6279872cf106794315e533b539a7]
 
 In this Part—
 
@@ -73,17 +73,17 @@ In this Part—
   - (a) Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) of the European Parliament and of the Council on detergents;
   - (b) the corresponding act made part of the internal legal order of the Contracting Parties under Article 7(a) of the EEA agreement [^c23672861].
 
-### 4. Amendment of Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648)[^key-4c28e8d8e2253f145bdc7a1020708608]
+### 4. Amendment of Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648)[^c-4c28e8d8e2253f145bdc7a1020708608]
 
 Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is amended in accordance with the following regulations.
 
-### 5.[^key-fb6bd315d288055f292e6e8ec9e164db]
+### 5.[^c-fb6bd315d288055f292e6e8ec9e164db]
 
 (1) Article 1 is amended as follows.
 
 (2) For paragraph 1, substitute—
 
-> **1.[^key-9ec2cea518116b1bd0569fdac529f2dc]**
+> **1.[^c-9ec2cea518116b1bd0569fdac529f2dc]**
 >
 > This Regulation establishes technical standards and requirements in relation to detergents and surfactants for detergents designed to achieve the free movement of those products throughout the United Kingdom while, at the same time, ensuring a high degree of protection for human health and the environment.
 
@@ -91,21 +91,21 @@ Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is am
 
 (3) In paragraph 2—
 
-- (a) for the words before the first indent, substitute “ For those purposes, this Regulation establishes rules including those concerning the following aspects of placing detergents and surfactants for detergents on the Great Britain market[^key-f7c19e208e3fcb09fa3e4344c09877cf]: ”;
+- (a) for the words before the first indent, substitute “ For those purposes, this Regulation establishes rules including those concerning the following aspects of placing detergents and surfactants for detergents on the Great Britain market[^c-f7c19e208e3fcb09fa3e4344c09877cf]: ”;
 - (b) in the fourth indent, for “Member States' competent authorities”, substitute “ competent authority ”.
 
-### 6.[^key-260a062704d32ab042f62adb1c6edc83]
+### 6.[^c-260a062704d32ab042f62adb1c6edc83]
 
 (1) Article 2 is amended as follows.
 
-(2)[^key-be0f14f2483c4a3fa9a4db5590ee13fc] In paragraph 9—
+(2)[^c-be0f14f2483c4a3fa9a4db5590ee13fc] In paragraph 9—
 
 - (a) for “Union”, in the first place it occurs, substitute “ Great Britain ”;
 - (b) for “the Union customs territory”, substitute “ Great Britain ”.
 
-(3) In paragraph 9a, for “Union”, substitute “ Great Britain[^key-48351b6330819b3959febf600a39acc4] ”.
+(3) In paragraph 9a, for “Union”, substitute “ Great Britain[^c-48351b6330819b3959febf600a39acc4] ”.
 
-(4)[^key-9b2d852b6dbcf201ebfa2ad752fe6d98] In paragraph 10, after “natural or legal person”, insert “ , established in Great Britain or Northern Ireland, ”.
+(4)[^c-9b2d852b6dbcf201ebfa2ad752fe6d98] In paragraph 10, after “natural or legal person”, insert “ , established in Great Britain or Northern Ireland, ”.
 
 (5) After paragraph 12, insert—
 
@@ -121,13 +121,13 @@ Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is am
 >
 > ‘the REACH Regulation’ means Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency.
 >
-> **16.[^key-87beca6c5df8b5b6125698db76a37729]**
+> **16.[^c-87beca6c5df8b5b6125698db76a37729]**
 >
 > ‘qualifying Northern Ireland goods’ has the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018.
 
 .
 
-### 7.[^key-29942caf69029e1938a60e8dade783e1]
+### 7.[^c-29942caf69029e1938a60e8dade783e1]
 
 (1) Article 3 is amended as follows.
 
@@ -139,7 +139,7 @@ Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is am
 - (b) for point (a), substitute—
 
   > - (a) they are included in:
-  >   - — the GB list[^key-8b61f2eca4b8f218f85b352030790bee] of approved active substances referred to in Article 8A of Regulation (EU) 528/2012, or
+  >   - — the GB list[^c-8b61f2eca4b8f218f85b352030790bee] of approved active substances referred to in Article 8A of Regulation (EU) 528/2012, or
   >   - — the Simplified Active Substance List referred to in Article 24A of Regulation (EU) 528/2012 [^c23672871].
 
   ;
@@ -148,7 +148,7 @@ Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is am
 
 (3) Omit paragraph 2.
 
-### 7A.[^key-ebac2c4f5503a9f6886155ac08dec139]
+### 7A.[^c-ebac2c4f5503a9f6886155ac08dec139]
 
 After Article 3, insert—
 
@@ -163,7 +163,7 @@ After Article 3, insert—
 
 .
 
-### 8.[^key-5e96db77e646a2e7ba2f81989fc9fdd0]
+### 8.[^c-5e96db77e646a2e7ba2f81989fc9fdd0]
 
 (1) Article 5 is amended as follows.
 
@@ -199,7 +199,7 @@ After Article 3, insert—
 
 (6) In paragraphs 5 and 6, for “Commission” in each place it occurs, substitute “ competent authority ”.
 
-### 9.[^key-4c64bea4aaa867bb010319e4037d75ca]
+### 9.[^c-4c64bea4aaa867bb010319e4037d75ca]
 
 (1) Article 6 is amended as follows.
 
@@ -208,7 +208,7 @@ After Article 3, insert—
 - (a) in the words before the first indent—
   - (i) for “Commission”, substitute “ competent authority ”;
   - (ii) omit “in accordance with the procedure referred to in Article 12(2), and”;
-- (b)[^key-87f46008a3921894decd024b60347dd1] in the third indent, for “the Community”, substitute “ Great Britain ”.
+- (b)[^c-87f46008a3921894decd024b60347dd1] in the third indent, for “the Community”, substitute “ Great Britain ”.
 
 (3) Omit paragraphs 2 and 3.
 
@@ -217,7 +217,7 @@ After Article 3, insert—
 - (a) for “Commission”, substitute “ competent authority ”;
 - (b) for “in Annex VI the”, substitute “ a ”.
 
-### 10.[^key-95c4ef3ad724216bc6d1d5d0a6e31143]
+### 10.[^c-95c4ef3ad724216bc6d1d5d0a6e31143]
 
 (1) Article 7 is amended as follows.
 
@@ -250,7 +250,7 @@ After Article 3, insert—
 
 .
 
-### 11.[^key-25da8820b796dbeee8196ec265f9c757]
+### 11.[^c-25da8820b796dbeee8196ec265f9c757]
 
 (1) Article 8 is amended as follows.
 
@@ -279,7 +279,7 @@ After Article 3, insert—
 
 .
 
-### 12.[^key-f58e0f31488abe1f2877956aec70e5bc]
+### 12.[^c-f58e0f31488abe1f2877956aec70e5bc]
 
 (1) Article 9 is amended as follows.
 
@@ -306,11 +306,11 @@ After Article 3, insert—
   >
   > — in Scotland, the Scottish Ministers;
   >
-  > [^key-5a611b7d7da5f3307e878458e0372739]...
+  > [^c-5a611b7d7da5f3307e878458e0372739]...
   >
   > - (c) in the third subparagraph, for “specific public body”, substitute “ the NPIS or other body assigned under the second subparagraph ”.
 
-### 13.[^key-91c7189669618e82b898351d49ed54be]
+### 13.[^c-91c7189669618e82b898351d49ed54be]
 
 (1) Article 10 is amended as follows.
 
@@ -342,7 +342,7 @@ After Article 3, insert—
 
 .
 
-### 14.[^key-29d3e8bc1d516d4e6bbf73e5fcb760e2]
+### 14.[^c-29d3e8bc1d516d4e6bbf73e5fcb760e2]
 
 (1) Article 11 is amended as follows.
 
@@ -356,11 +356,11 @@ After Article 3, insert—
 
 (3) Omit paragraph 6.
 
-### 15.[^key-080665c832144ac05772d23a7738d2f5]
+### 15.[^c-080665c832144ac05772d23a7738d2f5]
 
 Omit Article 12.
 
-### 16.[^key-3a7fdb7958845718c332be645bba9d58]
+### 16.[^c-3a7fdb7958845718c332be645bba9d58]
 
 For Article 13, substitute—
 
@@ -395,23 +395,23 @@ For Article 13, substitute—
 
 .
 
-### 17.[^key-53eefaeff3f7baa7be7e5254200d4be9]
+### 17.[^c-53eefaeff3f7baa7be7e5254200d4be9]
 
 Omit Articles 13a and 14.
 
-### 18.[^key-bc681542ac8720da5d54f9e326f20ab2]
+### 18.[^c-bc681542ac8720da5d54f9e326f20ab2]
 
 Omit Article 16.
 
-### 19.[^key-701a6c2121be31f39e4cd53663706ddd]
+### 19.[^c-701a6c2121be31f39e4cd53663706ddd]
 
 In Article 17, omit paragraph 4.
 
-### 20.[^key-abfe61d9e12fa471a795369d719a7fa0]
+### 20.[^c-abfe61d9e12fa471a795369d719a7fa0]
 
 Omit Article 18.
 
-### 21.[^key-9d5ae24962add94dfad962295b580bbc]
+### 21.[^c-9d5ae24962add94dfad962295b580bbc]
 
 Before Article 19, insert—
 
@@ -423,7 +423,7 @@ Before Article 19, insert—
 >
 > - — in England and Wales, the county court;
 > - — in Scotland, the sheriff;
-> - [^key-3b9900e0d6c6d2be8115ce1f39cee34b]...
+> - [^c-3b9900e0d6c6d2be8115ce1f39cee34b]...
 >
 > **2.**
 >
@@ -432,7 +432,7 @@ Before Article 19, insert—
 > - — is to be a rehearing of the relevant decision;
 > - — may be determined having regard to matters of which the competent authority or Secretary of State was unaware when making the decision.
 >
-> **3.[^key-d6d8b63b488c62d1ca72b3f77c82e1a8]**
+> **3.[^c-d6d8b63b488c62d1ca72b3f77c82e1a8]**
 >
 > In England and Wales, the county court may transfer appeal proceedings under this Regulation to the High Court.
 >
@@ -442,11 +442,11 @@ Before Article 19, insert—
 
 .
 
-### 22.[^key-c65f1d0f07dd931ba93f03f779f44fa5]
+### 22.[^c-c65f1d0f07dd931ba93f03f779f44fa5]
 
 After Article 19, omit the words “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 23.[^key-92a0a530d4359423113f861804d12b7f]
+### 23.[^c-92a0a530d4359423113f861804d12b7f]
 
 (1) Annex 1 is amended as follows.
 
@@ -461,7 +461,7 @@ After Article 19, omit the words “This Regulation shall be binding in its enti
 - (a) for “EN 45003, Calibration and testing laboratory accreditation system, general requirements for operation and recognition”, substitute “ BS EN ISO/IEC 17011: 2017. Conformity Assessment. Requirements for accreditation bodies accrediting conformity assessment bodies. ”[^c23672911] ;
 - (b) in the second subparagraph, for “Directive [2004/9/EC](https://www.legislation.gov.uk/eudr/2004/9)”, substitute “ The Good Laboratory Practice Regulations 1999 ”.
 
-### 24.[^key-d43c3b3fe8c78d84ccd2a105bda940f4]
+### 24.[^c-d43c3b3fe8c78d84ccd2a105bda940f4]
 
 (1) Annex 2 is amended as follows.
 
@@ -469,7 +469,7 @@ After Article 19, omit the words “This Regulation shall be binding in its enti
 
 (3) In section C, for “competent national authorities of the Member States”, substitute “ competent authority ”.
 
-### 25.[^key-cf003708df8afd5f0df340c78b166b74]
+### 25.[^c-cf003708df8afd5f0df340c78b166b74]
 
 (1) Annex 3 is amended as follows.
 
@@ -486,7 +486,7 @@ After Article 19, omit the words “This Regulation shall be binding in its enti
 - (b) for paragraph 2, substitute, “ EU Regulation 440/2008, Annex, Part C: Methods for the determination of ecotoxicity, Part 3 (modified OECD screening test (method C.4-B)). ”;
 - (c) omit the final, unnumbered paragraph that begins “*NB*”.
 
-### 26.[^key-fdbf62213d9bad46e3e2ca43d52e9651]
+### 26.[^c-fdbf62213d9bad46e3e2ca43d52e9651]
 
 (1) Annex 4 is amended as follows.
 
@@ -546,11 +546,11 @@ After Article 19, omit the words “This Regulation shall be binding in its enti
 
 (13) Omit the final, unnumbered paragraph that begins “*NB*”.
 
-### 27.[^key-be22fd80f633ecf86b3c5bfecd22402a]
+### 27.[^c-be22fd80f633ecf86b3c5bfecd22402a]
 
 In Annex 5, in the first paragraph, omit “and in accordance with the procedure laid down in Article 12(2)”.
 
-### 28.[^key-7fa688fba1552d214a2066bb1a02c2e2]
+### 28.[^c-7fa688fba1552d214a2066bb1a02c2e2]
 
 (1) Annex 7 is amended as follows.
 
@@ -572,7 +572,7 @@ In Annex 5, in the first paragraph, omit “and in accordance with the procedure
 
 (5) In Part D, in the third indent, for “Annex III, Part 1 to Directive [76/768/EEC](https://www.legislation.gov.uk/eudr/1976/768)”, substitute “ Annex 3 to EU Regulation 1223/2009 ”.
 
-### 29.[^key-c84ce2ba9822a0b3c320716980d711a5]
+### 29.[^c-c84ce2ba9822a0b3c320716980d711a5]
 
 In Annex 8, in the first paragraph, for “carried out by Member States”, substitute “ applied by the competent authority ”.
 
@@ -596,96 +596,96 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23672841]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-c0b9080abe149c4ebc8febfd17a612e1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c0b9080abe149c4ebc8febfd17a612e1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6a3bfadeb45ec4e41692bd2a4800ad2c]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/2)
+[^c-6a3bfadeb45ec4e41692bd2a4800ad2c]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/2)
 
-[^key-9e7e6279872cf106794315e533b539a7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9e7e6279872cf106794315e533b539a7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23672861]: Marginal citation: See Decision Nos 144/2005, 15/2007, 66/2010, 106/2012 and 140/2013 of the EEA Joint Committee and point 12u in Chapter 15 of Annex 2 to the EEA agreement available at www.efta.int/eea-lex.
 
-[^key-4c28e8d8e2253f145bdc7a1020708608]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4c28e8d8e2253f145bdc7a1020708608]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fb6bd315d288055f292e6e8ec9e164db]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fb6bd315d288055f292e6e8ec9e164db]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9ec2cea518116b1bd0569fdac529f2dc]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/3/a)
+[^c-9ec2cea518116b1bd0569fdac529f2dc]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/3/a)
 
-[^key-f7c19e208e3fcb09fa3e4344c09877cf]: Textual amendment: Words in reg. 5(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/3/b)
+[^c-f7c19e208e3fcb09fa3e4344c09877cf]: Textual amendment: Words in reg. 5(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/3/b)
 
-[^key-260a062704d32ab042f62adb1c6edc83]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-260a062704d32ab042f62adb1c6edc83]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-be0f14f2483c4a3fa9a4db5590ee13fc]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/a)
+[^c-be0f14f2483c4a3fa9a4db5590ee13fc]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/a)
 
-[^key-48351b6330819b3959febf600a39acc4]: Textual amendment: Words in reg. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/b)
+[^c-48351b6330819b3959febf600a39acc4]: Textual amendment: Words in reg. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/b)
 
-[^key-9b2d852b6dbcf201ebfa2ad752fe6d98]: Textual amendment: Reg. 6(4) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/c)
+[^c-9b2d852b6dbcf201ebfa2ad752fe6d98]: Textual amendment: Reg. 6(4) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/c)
 
-[^key-87beca6c5df8b5b6125698db76a37729]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/d)
+[^c-87beca6c5df8b5b6125698db76a37729]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/4/d)
 
-[^key-29942caf69029e1938a60e8dade783e1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29942caf69029e1938a60e8dade783e1]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8b61f2eca4b8f218f85b352030790bee]: Textual amendment: Words in reg. 7(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/5)
+[^c-8b61f2eca4b8f218f85b352030790bee]: Textual amendment: Words in reg. 7(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/5)
 
 [^c23672871]: Marginal citation: Further explanation is available on the website of the Health and Safety Executive (www.hse.gov.uk/biocides).
 
-[^key-ebac2c4f5503a9f6886155ac08dec139]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/6)
+[^c-ebac2c4f5503a9f6886155ac08dec139]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/6)
 
-[^key-5e96db77e646a2e7ba2f81989fc9fdd0]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5e96db77e646a2e7ba2f81989fc9fdd0]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4c64bea4aaa867bb010319e4037d75ca]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4c64bea4aaa867bb010319e4037d75ca]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-87f46008a3921894decd024b60347dd1]: Textual amendment: Reg. 9(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/7)
+[^c-87f46008a3921894decd024b60347dd1]: Textual amendment: Reg. 9(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/7)
 
-[^key-95c4ef3ad724216bc6d1d5d0a6e31143]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-95c4ef3ad724216bc6d1d5d0a6e31143]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-25da8820b796dbeee8196ec265f9c757]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-25da8820b796dbeee8196ec265f9c757]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23672881]: Marginal citation: [S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106).
 
 [^c23672891]: Marginal citation: A copy of standard EN ISO/IEC 17025: 2017 may be obtained from the British Standards Institution, either online (www.bsigroup.com) or by post (BSI Customer Services, 389 Chiswick High Road, London, W4 4AL).
 
-[^key-f58e0f31488abe1f2877956aec70e5bc]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f58e0f31488abe1f2877956aec70e5bc]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5a611b7d7da5f3307e878458e0372739]: Textual amendment: Words in reg. 12(4)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/8)
+[^c-5a611b7d7da5f3307e878458e0372739]: Textual amendment: Words in reg. 12(4)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/8)
 
-[^key-91c7189669618e82b898351d49ed54be]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-91c7189669618e82b898351d49ed54be]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-29d3e8bc1d516d4e6bbf73e5fcb760e2]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29d3e8bc1d516d4e6bbf73e5fcb760e2]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-080665c832144ac05772d23a7738d2f5]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-080665c832144ac05772d23a7738d2f5]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3a7fdb7958845718c332be645bba9d58]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3a7fdb7958845718c332be645bba9d58]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-53eefaeff3f7baa7be7e5254200d4be9]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-53eefaeff3f7baa7be7e5254200d4be9]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bc681542ac8720da5d54f9e326f20ab2]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bc681542ac8720da5d54f9e326f20ab2]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-701a6c2121be31f39e4cd53663706ddd]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-701a6c2121be31f39e4cd53663706ddd]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-abfe61d9e12fa471a795369d719a7fa0]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-abfe61d9e12fa471a795369d719a7fa0]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9d5ae24962add94dfad962295b580bbc]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9d5ae24962add94dfad962295b580bbc]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3b9900e0d6c6d2be8115ce1f39cee34b]: Textual amendment: Words in reg. 21 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/9/a)
+[^c-3b9900e0d6c6d2be8115ce1f39cee34b]: Textual amendment: Words in reg. 21 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/9/a)
 
-[^key-d6d8b63b488c62d1ca72b3f77c82e1a8]: Textual amendment: Words in reg. 21 substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/9/b)
+[^c-d6d8b63b488c62d1ca72b3f77c82e1a8]: Textual amendment: Words in reg. 21 substituted (31.12.2020 immediately before IP completion day) by [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/2/9/b)
 
-[^key-c65f1d0f07dd931ba93f03f779f44fa5]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c65f1d0f07dd931ba93f03f779f44fa5]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-92a0a530d4359423113f861804d12b7f]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-92a0a530d4359423113f861804d12b7f]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23672901]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
 [^c23672911]: Marginal citation: A copy of standard BS EN ISO/IEC 17011: 2017 may be obtained from the British Standards Institution, either online (www.bsigroup.com) or by post (BSI Customer Services, 389 Chiswick High Road, London, W4 4AL).
 
-[^key-d43c3b3fe8c78d84ccd2a105bda940f4]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d43c3b3fe8c78d84ccd2a105bda940f4]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cf003708df8afd5f0df340c78b166b74]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cf003708df8afd5f0df340c78b166b74]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fdbf62213d9bad46e3e2ca43d52e9651]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fdbf62213d9bad46e3e2ca43d52e9651]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-be22fd80f633ecf86b3c5bfecd22402a]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-be22fd80f633ecf86b3c5bfecd22402a]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7fa688fba1552d214a2066bb1a02c2e2]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7fa688fba1552d214a2066bb1a02c2e2]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c84ce2ba9822a0b3c320716980d711a5]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c84ce2ba9822a0b3c320716980d711a5]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

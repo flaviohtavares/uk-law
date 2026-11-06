@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Co-operation with the Secretary of State and NHS England[^key-817b516753f12f840c2c561e96f04d77]
+## 82. Co-operation with the Secretary of State and NHS England[^c-817b516753f12f840c2c561e96f04d77]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ The contractor must co-operate with—
 
 ## Annotations
 
-[^key-817b516753f12f840c2c561e96f04d77]: Textual amendment: Words in [reg. 82](https://www.legislation.gov.uk/uksi/2015/1879/regulation/82) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/21) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-817b516753f12f840c2c561e96f04d77]: Textual amendment: Words in [reg. 82](https://www.legislation.gov.uk/uksi/2015/1879/regulation/82) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/21) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
 [^c22690461]: Marginal citation: [Section 1F](https://www.legislation.gov.uk/uksi/2015/1879/section/1F) was inserted by section 7 of the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 

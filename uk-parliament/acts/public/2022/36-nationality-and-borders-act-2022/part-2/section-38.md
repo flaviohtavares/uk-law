@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Article 33(2): particularly serious crime[^key-533d59d78357b9e3602bcfbd1c369e0c]
+## 38. Article 33(2): particularly serious crime[^c-533d59d78357b9e3602bcfbd1c369e0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-533d59d78357b9e3602bcfbd1c369e0c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/36/section/38) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-533d59d78357b9e3602bcfbd1c369e0c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/36/section/38) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

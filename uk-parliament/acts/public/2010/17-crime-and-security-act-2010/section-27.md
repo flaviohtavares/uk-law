@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Application for a domestic violence protection order[^M_I_894be692-986a-4b28-ecad-9c991bb262fa][^M_I_159ff1e3-f872-44b9-846d-2570eb40754e][^key-21e21f7d89292d1c50fcd9769b557e37][^key-caddba764cddee9d0aaf51f922f0ad1f]
+## 27. Application for a domestic violence protection order[^M_I_894be692-986a-4b28-ecad-9c991bb262fa][^M_I_159ff1e3-f872-44b9-846d-2570eb40754e][^c-21e21f7d89292d1c50fcd9769b557e37][^c-caddba764cddee9d0aaf51f922f0ad1f]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^M_I_159ff1e3-f872-44b9-846d-2570eb40754e]: Commencement: S. 27 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-21e21f7d89292d1c50fcd9769b557e37]: Commencement: S. 27 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-21e21f7d89292d1c50fcd9769b557e37]: Commencement: S. 27 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-caddba764cddee9d0aaf51f922f0ad1f]: Commencement: S. 27 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-caddba764cddee9d0aaf51f922f0ad1f]: Commencement: S. 27 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

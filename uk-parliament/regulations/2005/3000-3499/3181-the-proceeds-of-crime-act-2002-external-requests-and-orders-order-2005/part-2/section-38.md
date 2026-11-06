@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Restrictions relating to enforcement receivers[^key-f59d1351c01935f12e93d270469d17c8]
+## 38. Restrictions relating to enforcement receivers[^c-f59d1351c01935f12e93d270469d17c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,11 +32,11 @@ summary: ''
 
 (6) Before exercising any power conferred by paragraph (5), the court must give an opportunity to be heard to—
 
-- (a) the relevant Director [^key-ae41d64d2e6e3dc1922c53ae415f03d9]..., and
+- (a) the relevant Director [^c-ae41d64d2e6e3dc1922c53ae415f03d9]..., and
 - (b) the receiver (if the order under article 27 has been made).
 
 ## Annotations
 
-[^key-f59d1351c01935f12e93d270469d17c8]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2005/3181/article/38) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-f59d1351c01935f12e93d270469d17c8]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2005/3181/article/38) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-ae41d64d2e6e3dc1922c53ae415f03d9]: Textual amendment: Words in [art. 38(6)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/38/6/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2008/302/article/2/13)
+[^c-ae41d64d2e6e3dc1922c53ae415f03d9]: Textual amendment: Words in [art. 38(6)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/38/6/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2008/302/article/2/13)

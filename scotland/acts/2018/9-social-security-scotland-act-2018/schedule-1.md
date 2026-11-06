@@ -128,9 +128,9 @@ as the Ministers determine.
 
 **11.**[^M_I_40dcb81b-46e3-428f-b782-8763ac6df655] The Scottish Ministers are to provide the Commission with such staff and other resources as it requires to carry out its functions.
 
-##### ...[^key-70e882424a36f56c803304b4bcd56678]
+##### ...[^c-70e882424a36f56c803304b4bcd56678]
 
-**12.**[^key-70e882424a36f56c803304b4bcd56678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-70e882424a36f56c803304b4bcd56678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### CHAPTER 5 — MEMBERSHIP
 
@@ -264,7 +264,7 @@ as the Ministers determine.
 
 [^M_I_40dcb81b-46e3-428f-b782-8763ac6df655]: Commencement: Sch. 1 para. 11 in force at 21.1.2019 by [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2))
 
-[^key-70e882424a36f56c803304b4bcd56678]: Textual amendment: Sch. 1 para. 12 and cross-heading repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/2/section/22/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/119/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/119/regulation/5))
+[^c-70e882424a36f56c803304b4bcd56678]: Textual amendment: Sch. 1 para. 12 and cross-heading repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/2/section/22/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/119/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/119/regulation/5))
 
 [^M_I_69ae9712-68d5-4e8b-ebde-4bdeb5ff696d]: Commencement: Sch. 1 para. 13 in force at 21.1.2019 by [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2))
 

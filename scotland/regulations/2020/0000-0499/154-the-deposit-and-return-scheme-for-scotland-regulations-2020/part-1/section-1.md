@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-531e1d20bd8f76908c84c5b556358c58]
+## 1. Citation and commencement[^c-531e1d20bd8f76908c84c5b556358c58]
 
 *Extent: S*
 
@@ -28,18 +28,18 @@ summary: ''
 
 (4) Part 3 comes into force on 1 January 2022.
 
-(4A)[^key-ce536c5bd32345404c529e86251877aa] In Part 5, regulations 19, 20 and 21 come into force on 1 July 2025 for the purposes only of registration of groceries retailers, return point operators and takeback service providers.
+(4A)[^c-ce536c5bd32345404c529e86251877aa] In Part 5, regulations 19, 20 and 21 come into force on 1 July 2025 for the purposes only of registration of groceries retailers, return point operators and takeback service providers.
 
-(5) Parts 2 , 7 and 8[^key-b8c90a355955c07ab41caffd41857de4], and regulations 19, 20 and 21 for all purposes and[^key-f131777f1bc60ff600f189e53dd3ecb1] the remaining provisions of Part 5 come into force on 1 October 2027[^key-2b7b5bd6a0d92b9e35db64e78d752382].
+(5) Parts 2 , 7 and 8[^c-b8c90a355955c07ab41caffd41857de4], and regulations 19, 20 and 21 for all purposes and[^c-f131777f1bc60ff600f189e53dd3ecb1] the remaining provisions of Part 5 come into force on 1 October 2027[^c-2b7b5bd6a0d92b9e35db64e78d752382].
 
 ## Annotations
 
-[^key-531e1d20bd8f76908c84c5b556358c58]: Commencement: Reg. 1 in force at 20.5.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/2)
+[^c-531e1d20bd8f76908c84c5b556358c58]: Commencement: Reg. 1 in force at 20.5.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/2)
 
-[^key-ce536c5bd32345404c529e86251877aa]: Textual amendment: [Reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/a)
+[^c-ce536c5bd32345404c529e86251877aa]: Textual amendment: [Reg. 1(4A)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/4A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/a)
 
-[^key-b8c90a355955c07ab41caffd41857de4]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) substituted (25.2.2022) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2022 (S.S.I. 2022/76)](https://www.legislation.gov.uk/ssi/2022/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/76/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/76/regulation/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2022/76/regulation/15))
+[^c-b8c90a355955c07ab41caffd41857de4]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) substituted (25.2.2022) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2022 (S.S.I. 2022/76)](https://www.legislation.gov.uk/ssi/2022/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/76/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/76/regulation/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2022/76/regulation/15))
 
-[^key-f131777f1bc60ff600f189e53dd3ecb1]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/b/i)
+[^c-f131777f1bc60ff600f189e53dd3ecb1]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/b/i)
 
-[^key-2b7b5bd6a0d92b9e35db64e78d752382]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/b/ii)
+[^c-2b7b5bd6a0d92b9e35db64e78d752382]: Textual amendment: Words in [reg. 1(5)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/5) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2025/188/regulation/3/b/ii)

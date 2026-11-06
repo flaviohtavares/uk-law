@@ -22,9 +22,9 @@ summary: ''
 
 Section 77(6)
 
-### 1. Registration of adoption orders[^key-e7afa30d1242c0ee4a98e64f047a37ce][^key-dd1b14488894659cdd4b50a628b41df7][^key-c10c5df43dea70fda97c082453a173e7]
+### 1. Registration of adoption orders[^c-e7afa30d1242c0ee4a98e64f047a37ce][^c-dd1b14488894659cdd4b50a628b41df7][^c-c10c5df43dea70fda97c082453a173e7]
 
-(1)[^key-bab54dd6cb404b1ebddbed124401dfcf] Every adoption order must contain a direction to the Registrar General to make in the Adopted Children Register an entry in the form prescribed by regulations made by the Registrar General with the approval of the Secretary of State[^key-7dc6e7b601b4478af0c64e3be1195666].
+(1)[^c-bab54dd6cb404b1ebddbed124401dfcf] Every adoption order must contain a direction to the Registrar General to make in the Adopted Children Register an entry in the form prescribed by regulations made by the Registrar General with the approval of the Secretary of State[^c-7dc6e7b601b4478af0c64e3be1195666].
 
 (2) Where, on an application to a court for an adoption order in respect of a child, the identity of the child with a child to whom an entry in the registers of live-births or other records relates is proved to the satisfaction of the court, any adoption order made in pursuance of the application must contain a direction to the Registrar General to secure that the entry in the register or, as the case may be, record in question is marked with the word “Adopted”.
 
@@ -37,7 +37,7 @@ Section 77(6)
 
 “**Prescribed**” means prescribed by rules.
 
-### 2. Registration of adoptions in Scotland, Northern Ireland, the Isle of Man and the Channel Islands[^key-c467cca974b49ef8f415f4d92d073caa][^key-a161cda263d870d2216e89cd8d7157e3]
+### 2. Registration of adoptions in Scotland, Northern Ireland, the Isle of Man and the Channel Islands[^c-c467cca974b49ef8f415f4d92d073caa][^c-a161cda263d870d2216e89cd8d7157e3]
 
 (1) Sub-paragraphs (2) and (3) apply where the Registrar General is notified by the authority maintaining a register of adoptions in a part of the British Islands outside England and Wales that an order has been made in that part authorising the adoption of a child.
 
@@ -61,7 +61,7 @@ the Registrar General must secure that the marking is cancelled.
 
 (5) A copy or extract of an entry in any register or other record, being an entry the marking of which is cancelled under sub-paragraph (4), is not to be treated as an accurate copy unless both the marking and the cancellation are omitted from it.
 
-### 3. Registration of other adoptions[^key-b15dcf276980493bc5b00877ffe76656][^key-d62de1fda471023a3013c19451aed25d]
+### 3. Registration of other adoptions[^c-b15dcf276980493bc5b00877ffe76656][^c-d62de1fda471023a3013c19451aed25d]
 
 (1) If the Registrar General is satisfied, on an application under this paragraph, that he has sufficient particulars relating to a child adopted under a registrable foreign adoption to enable an entry to be made in the Adopted Children Register for the child he must make the entry accordingly.
 
@@ -81,12 +81,12 @@ the Registrar General must secure that the marking is cancelled.
 
 (6) In this paragraph—
 
-- (a)[^key-6b9020af3c7a0798c60f22daa36b952d] “**prescribed**” means prescribed by regulations made by the Registrar General with the approval of the Secretary of State[^key-a7867125bd1da8b0c61186cfea814d72],
+- (a)[^c-6b9020af3c7a0798c60f22daa36b952d] “**prescribed**” means prescribed by regulations made by the Registrar General with the approval of the Secretary of State[^c-a7867125bd1da8b0c61186cfea814d72],
 - (b) “**overseas register of births**” includes—
   - (i) a register made under regulations made by the Secretary of State under section 41(1)(g), (h) or (i) of the British Nationality Act 1981 (c. 61),
   - (ii) a record kept under an Order in Council made under section 1 of the Registration of Births, Deaths and Marriages (Special Provisions) Act 1957 (c. 58) (other than a certified copy kept by the Registrar General).
 
-### 4. Amendment of orders and rectification of Registers and other records[^key-bf3beb6dc31668f03ed5eb7d06dfaffa][^key-99f685d9ba3cf323799ce1e5cdc091e7]
+### 4. Amendment of orders and rectification of Registers and other records[^c-bf3beb6dc31668f03ed5eb7d06dfaffa][^c-99f685d9ba3cf323799ce1e5cdc091e7]
 
 (1) The court by which an adoption order has been made may, on the application of the adopter or the adopted person, amend the order by the correction of any error in the particulars contained in it.
 
@@ -135,13 +135,13 @@ he may secure that such alterations are made in those registers or other records
 
 (10) Where an entry in such a register is amended in pursuance of sub-paragraph (9), any copy or extract of the entry is not to be treated as accurate unless it shows the entry as amended but without indicating that it has been amended.
 
-### 5. Marking of entries on re-registration of birth on legitimation[^key-851129d6344fff1ff5d75e283c0ca463]
+### 5. Marking of entries on re-registration of birth on legitimation[^c-851129d6344fff1ff5d75e283c0ca463]
 
 (1) Without prejudice to paragraphs 2(4) and 4(5), where, after an entry in the registers of live-births or other records has been marked in accordance with paragraph 1 or 2, the birth is re-registered under section 14 of the Births and Deaths Registration Act 1953 (c. 20) (re-registration of births of legitimated persons), the entry made on the re-registration must be marked in the like manner.
 
 (2) Without prejudice to paragraph 4(9), where an entry in the registers of live-births or other records is marked in pursuance of paragraph 3 and the birth in question is subsequently re-registered under section 14 of that Act, the entry made on re-registration must be marked in the like manner.
 
-### 6. Cancellations in registers on legitimation[^key-daee171c26678a2729bc502cecb3c236]
+### 6. Cancellations in registers on legitimation[^c-daee171c26678a2729bc502cecb3c236]
 
 (1) This paragraph applies where an adoption order is revoked under section 55(1).
 
@@ -156,32 +156,32 @@ he may secure that such alterations are made in those registers or other records
 
 ## Annotations
 
-[^key-e7afa30d1242c0ee4a98e64f047a37ce]: Commencement: Sch. 1 para. 1 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
+[^c-e7afa30d1242c0ee4a98e64f047a37ce]: Commencement: Sch. 1 para. 1 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
 
-[^key-dd1b14488894659cdd4b50a628b41df7]: Commencement: Sch. 1 para. 1 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-dd1b14488894659cdd4b50a628b41df7]: Commencement: Sch. 1 para. 1 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-c10c5df43dea70fda97c082453a173e7]: Modification: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-c10c5df43dea70fda97c082453a173e7]: Modification: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-bab54dd6cb404b1ebddbed124401dfcf]: Modification: Sch. 1 para. 1(1): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-bab54dd6cb404b1ebddbed124401dfcf]: Modification: Sch. 1 para. 1(1): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-7dc6e7b601b4478af0c64e3be1195666]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/1/1) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-7dc6e7b601b4478af0c64e3be1195666]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/1/1) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-c467cca974b49ef8f415f4d92d073caa]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/2) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
+[^c-c467cca974b49ef8f415f4d92d073caa]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/2) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
 
-[^key-a161cda263d870d2216e89cd8d7157e3]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/2) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-a161cda263d870d2216e89cd8d7157e3]: Modification: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/2) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-b15dcf276980493bc5b00877ffe76656]: Commencement: Sch. 1 para. 3 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
+[^c-b15dcf276980493bc5b00877ffe76656]: Commencement: Sch. 1 para. 3 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
 
-[^key-d62de1fda471023a3013c19451aed25d]: Commencement: Sch. 1 para. 3 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-d62de1fda471023a3013c19451aed25d]: Commencement: Sch. 1 para. 3 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-6b9020af3c7a0798c60f22daa36b952d]: Modification: Sch. 1 para. 3(6)(a): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-6b9020af3c7a0798c60f22daa36b952d]: Modification: Sch. 1 para. 3(6)(a): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-a7867125bd1da8b0c61186cfea814d72]: Textual amendment: Words in [Sch. 1 para. 3(6)(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/3/6/a) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-a7867125bd1da8b0c61186cfea814d72]: Textual amendment: Words in [Sch. 1 para. 3(6)(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/3/6/a) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 12(f)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/12/f) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-bf3beb6dc31668f03ed5eb7d06dfaffa]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/4) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
+[^c-bf3beb6dc31668f03ed5eb7d06dfaffa]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/4) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
 
-[^key-99f685d9ba3cf323799ce1e5cdc091e7]: Modification: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-99f685d9ba3cf323799ce1e5cdc091e7]: Modification: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/4) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-851129d6344fff1ff5d75e283c0ca463]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/5) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
+[^c-851129d6344fff1ff5d75e283c0ca463]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/5) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
 
-[^key-daee171c26678a2729bc502cecb3c236]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/6) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)
+[^c-daee171c26678a2729bc502cecb3c236]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2002/38/schedule/1/paragraph/6) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in S.I. 2005/2897, arts. 3-16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Controlling the felling of trees in England[^key-9336f979773559408e2fb5696abe9a7c][^key-f61a83cfdf9966632f6f206d51155865]
+## 114. Controlling the felling of trees in England[^c-9336f979773559408e2fb5696abe9a7c][^c-f61a83cfdf9966632f6f206d51155865]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 16 makes amendments to Part 2 of the Forestry Act 1967 in relation to t
 
 ## Annotations
 
-[^key-9336f979773559408e2fb5696abe9a7c]: Commencement: S. 114 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-9336f979773559408e2fb5696abe9a7c]: Commencement: S. 114 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f61a83cfdf9966632f6f206d51155865]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2021/30/section/114) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/c)
+[^c-f61a83cfdf9966632f6f206d51155865]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2021/30/section/114) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/c)

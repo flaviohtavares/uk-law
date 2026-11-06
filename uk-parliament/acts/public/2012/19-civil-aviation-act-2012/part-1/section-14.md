@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Application for licence[^key-6a8c6adb76969cc3d81b15029f51dbba]
+## 14. Application for licence[^c-6a8c6adb76969cc3d81b15029f51dbba]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ unless the application is withdrawn.
 
 ## Annotations
 
-[^key-6a8c6adb76969cc3d81b15029f51dbba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2012/19/section/14) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-6a8c6adb76969cc3d81b15029f51dbba]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2012/19/section/14) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

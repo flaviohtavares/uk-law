@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 21 — Energy transfer schemes[^key-ecaca5650fbffebbaf63c48200ffc31e][^key-24b2184f5621e2c3a6518e2aa04cb131][^key-5aa6751b1bcfef8c84e949a48738e00d][^key-99ac38333f0e1d1c1ce992133526230b][^key-40591093fc683a16f03fc9135903c110][^key-806dbcd914d26f5698fc4ce4b1ae9f20][^key-51218c29b67160a17e18e97c97bd8a62][^key-6ddb0355bc9b727a66e8c3c11c59e3c7]
+## SCHEDULE 21 — Energy transfer schemes[^c-ecaca5650fbffebbaf63c48200ffc31e][^c-24b2184f5621e2c3a6518e2aa04cb131][^c-5aa6751b1bcfef8c84e949a48738e00d][^c-99ac38333f0e1d1c1ce992133526230b][^c-40591093fc683a16f03fc9135903c110][^c-806dbcd914d26f5698fc4ce4b1ae9f20][^c-51218c29b67160a17e18e97c97bd8a62][^c-6ddb0355bc9b727a66e8c3c11c59e3c7]
 
 *Extent: E+W+S*
 
@@ -24,16 +24,16 @@ Section 159.
 
 ### Application of Schedule
 
-**1.**[^key-8022bf96f4398d2fcec2eb8b810cb8ed] This Schedule applies where—
+**1.**[^c-8022bf96f4398d2fcec2eb8b810cb8ed] This Schedule applies where—
 
 - (a) the court has made an energy administration order in relation to a company (the “**old energy company**”); and
 - (b) it is proposed that a transfer falling within section 155(3) be made to another company (the “**new energy company**”).
 
-**2.**[^key-8f28128e9f9737dbfc263a717f9a2516] It is for the energy administrator, while the energy administration order is in force, to act on behalf of the old energy company in the doing of anything that it is authorised or required to do by or under this Schedule.
+**2.**[^c-8f28128e9f9737dbfc263a717f9a2516] It is for the energy administrator, while the energy administration order is in force, to act on behalf of the old energy company in the doing of anything that it is authorised or required to do by or under this Schedule.
 
 ### Making of energy transfer schemes
 
-**3.**[^key-2ada688c43c1b7569c83a5576c8ce78b] (1) The old energy company may—
+**3.**[^c-2ada688c43c1b7569c83a5576c8ce78b] (1) The old energy company may—
 
 - (a) with the consent of the new energy company, and
 - (b) for the purpose of giving effect to the proposed transfer,
@@ -65,7 +65,7 @@ make a scheme under this Schedule for the transfer of property, rights and liabi
 
 ### Provision that may be made by a scheme
 
-**4.**[^key-3aad419ca0dd073473fa4012b75173d5] (1) An energy transfer scheme may contain provision—
+**4.**[^c-3aad419ca0dd073473fa4012b75173d5] (1) An energy transfer scheme may contain provision—
 
 - (a) for the creation, in favour of the old energy company or the new energy company, of an interest or right in or in relation to property transferred in accordance with the scheme;
 - (b) for giving effect to a transfer to the new energy company by the creation, in favour of that company, of an interest or right in or in relation to property retained by the old energy company;
@@ -79,7 +79,7 @@ make a scheme under this Schedule for the transfer of property, rights and liabi
 - (c) rights and liabilities arising after it takes effect in respect of matters occurring before it takes effect;
 - (d) property situated anywhere in Great Britain or elsewhere;
 - (e) rights and liabilities under the law of a part of Great Britain or of a place outside Great Britain;
-- (f) rights and liabilities under an enactment[^key-cb08de8edc05f19b175432fea2106a2d]... or subordinate legislation.
+- (f) rights and liabilities under an enactment[^c-cb08de8edc05f19b175432fea2106a2d]... or subordinate legislation.
 
 (3) The transfers to which effect may be given by an energy transfer scheme include transfers of interests and rights that are to take effect in accordance with the scheme as if there were—
 
@@ -110,7 +110,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Transfer of licences
 
-**5.**[^key-70322ebe5a4b5a07a5abda438191d236] (1) The provision that may be made by an energy transfer scheme includes the transfer of a relevant licence from the old energy company to the new energy company.
+**5.**[^c-70322ebe5a4b5a07a5abda438191d236] (1) The provision that may be made by an energy transfer scheme includes the transfer of a relevant licence from the old energy company to the new energy company.
 
 (2) Such a transfer may relate to the whole or any part of the licence.
 
@@ -128,7 +128,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Powers and duties under statutory provisions
 
-**6.**[^key-e717745fde00deb5409dadd3c381457c] (1) The provision that may be made by an energy transfer scheme includes provision for some or all of the powers and duties to which this paragraph applies—
+**6.**[^c-e717745fde00deb5409dadd3c381457c] (1) The provision that may be made by an energy transfer scheme includes provision for some or all of the powers and duties to which this paragraph applies—
 
 - (a) to be transferred to the new energy company; or
 - (b) to become powers and duties that are exercisable, or must be performed, concurrently by the old energy company and the new energy company.
@@ -144,7 +144,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Supplemental provisions relating to transfers
 
-**7.**[^key-bc60cfc8a79cf6e536fe963b79df2675] (1) An energy transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the other provisions of the scheme.
+**7.**[^c-bc60cfc8a79cf6e536fe963b79df2675] (1) An energy transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the other provisions of the scheme.
 
 (2) Such provision may include different provision for different cases or different purposes.
 
@@ -174,7 +174,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Effect of scheme
 
-**8.**[^key-0cfde18018e9bc21dc0748d35bc3bfef] (1) In relation to each provision of an energy transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
+**8.**[^c-0cfde18018e9bc21dc0748d35bc3bfef] (1) In relation to each provision of an energy transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
 - (a) this Act shall have effect so as, without further assurance, to vest the property or interests, or those rights or liabilities, in the transferee at the time appointed by the court for the purposes of paragraph 3(4); and
 - (b) the provisions of that scheme in relation to that property or those interests, or those rights or liabilities, shall have effect from that time.
@@ -188,7 +188,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Subsequent modification of scheme
 
-**9.**[^key-eaa581a5dfb848fc51986569f2cf2d4c] (1) The Secretary of State may by notice to the old energy company and the new energy company modify an energy transfer scheme after it has taken effect, but only modifications to which both the old energy company and the new energy company have consented may be made.
+**9.**[^c-eaa581a5dfb848fc51986569f2cf2d4c] (1) The Secretary of State may by notice to the old energy company and the new energy company modify an energy transfer scheme after it has taken effect, but only modifications to which both the old energy company and the new energy company have consented may be made.
 
 (2) The notice must specify the time at which it is to take effect (the “**modification time**”).
 
@@ -210,7 +210,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Transfers in the case of non-GB companies
 
-**10.**[^key-d111911ecc4462081edbf0da5a272a57] Where the old energy company is a non-GB company, the property, rights and liabilities of that company which may be transferred by an energy transfer scheme, or in relation to which interests, rights or liabilities may be created by such a scheme, are confined to—
+**10.**[^c-d111911ecc4462081edbf0da5a272a57] Where the old energy company is a non-GB company, the property, rights and liabilities of that company which may be transferred by an energy transfer scheme, or in relation to which interests, rights or liabilities may be created by such a scheme, are confined to—
 
 - (a) property of the old energy company in Great Britain;
 - (b) rights and liabilities arising in relation to any such property; and
@@ -218,7 +218,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Provision relating to foreign property etc.
 
-**11.**[^key-0ce4860fcbe552095a17040eec64153b] (1) Where there is a transfer in accordance with an energy transfer scheme of—
+**11.**[^c-0ce4860fcbe552095a17040eec64153b] (1) Where there is a transfer in accordance with an energy transfer scheme of—
 
 - (a) any foreign property, or
 - (b) a foreign right or liability,
@@ -251,14 +251,14 @@ the property, right or liability acquired or incurred shall immediately become t
 
 ### Application of Schedule to transfers to subsidiaries
 
-**12.**[^key-d92e7f3bb524d4fe3e91967f30330e41] Where the proposed transfer falling within subsection (3) of section 155 is a transfer of the kind mentioned in subsection (4)(a) of that section, this Schedule shall have effect in relation to that transfer as if—
+**12.**[^c-d92e7f3bb524d4fe3e91967f30330e41] Where the proposed transfer falling within subsection (3) of section 155 is a transfer of the kind mentioned in subsection (4)(a) of that section, this Schedule shall have effect in relation to that transfer as if—
 
 - (a) paragraph 3(1)(a) were omitted; and
 - (b) paragraph 3(6) had effect with “ the old energy company has consented may be made ” substituted for the words from “both” onwards.
 
 ### Interpretation
 
-**13.**[^key-11aac0aa79e0c4fc573d8c25080a007a] In this Schedule—
+**13.**[^c-11aac0aa79e0c4fc573d8c25080a007a] In this Schedule—
 
 - “**energy transfer scheme**” has the meaning given by paragraph 3(1);
 - “**new energy company**” has the meaning given by paragraph 1;
@@ -268,46 +268,46 @@ the property, right or liability acquired or incurred shall immediately become t
 
 ## Annotations
 
-[^key-ecaca5650fbffebbaf63c48200ffc31e]: Modification: Sch. 21 modified (1.10.2005) by [Energy Administration Rules 2005 (S.I. 2005/2483)](https://www.legislation.gov.uk/uksi/2005/2483), [rules 1](https://www.legislation.gov.uk/uksi/2005/2483/article/1), [184](https://www.legislation.gov.uk/uksi/2005/2483/article/184) (with [rules 3](https://www.legislation.gov.uk/uksi/2005/2483/article/3), [187](https://www.legislation.gov.uk/uksi/2005/2483/article/187))
+[^c-ecaca5650fbffebbaf63c48200ffc31e]: Modification: Sch. 21 modified (1.10.2005) by [Energy Administration Rules 2005 (S.I. 2005/2483)](https://www.legislation.gov.uk/uksi/2005/2483), [rules 1](https://www.legislation.gov.uk/uksi/2005/2483/article/1), [184](https://www.legislation.gov.uk/uksi/2005/2483/article/184) (with [rules 3](https://www.legislation.gov.uk/uksi/2005/2483/article/3), [187](https://www.legislation.gov.uk/uksi/2005/2483/article/187))
 
-[^key-24b2184f5621e2c3a6518e2aa04cb131]: Modification: Sch. 21 applied (with modifications) (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 96(1)-(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/96/1), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
+[^c-24b2184f5621e2c3a6518e2aa04cb131]: Modification: Sch. 21 applied (with modifications) (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 96(1)-(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/96/1), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
 
-[^key-5aa6751b1bcfef8c84e949a48738e00d]: Modification: Sch. 21 modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
+[^c-5aa6751b1bcfef8c84e949a48738e00d]: Modification: Sch. 21 modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
 
-[^key-99ac38333f0e1d1c1ce992133526230b]: Modification: Sch. 21 applied (with modifications) (23.7.2018) by [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 4(1)-(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/4/1), [14(5)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/5)
+[^c-99ac38333f0e1d1c1ce992133526230b]: Modification: Sch. 21 applied (with modifications) (23.7.2018) by [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 4(1)-(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/4/1), [14(5)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/5)
 
-[^key-40591093fc683a16f03fc9135903c110]: Modification: Schs. 20, 21 modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
+[^c-40591093fc683a16f03fc9135903c110]: Modification: Schs. 20, 21 modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
 
-[^key-806dbcd914d26f5698fc4ce4b1ae9f20]: Modification: Sch. 21 applied (with modifications) (31.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 33(1)-(5)](https://www.legislation.gov.uk/ukpga/2022/15/section/33/1), [44(1)(c)(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c/2/c)
+[^c-806dbcd914d26f5698fc4ce4b1ae9f20]: Modification: Sch. 21 applied (with modifications) (31.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 33(1)-(5)](https://www.legislation.gov.uk/ukpga/2022/15/section/33/1), [44(1)(c)(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c/2/c)
 
-[^key-51218c29b67160a17e18e97c97bd8a62]: Modification: [Sch. 21](https://www.legislation.gov.uk/ukpga/2004/20/schedule/21) power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-51218c29b67160a17e18e97c97bd8a62]: Modification: [Sch. 21](https://www.legislation.gov.uk/ukpga/2004/20/schedule/21) power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
 
-[^key-6ddb0355bc9b727a66e8c3c11c59e3c7]: Modification: [Sch. 21](https://www.legislation.gov.uk/ukpga/2004/20/schedule/21) applied (with modifications) (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 44](https://www.legislation.gov.uk/ukpga/2023/52/section/44), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-6ddb0355bc9b727a66e8c3c11c59e3c7]: Modification: [Sch. 21](https://www.legislation.gov.uk/ukpga/2004/20/schedule/21) applied (with modifications) (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 44](https://www.legislation.gov.uk/ukpga/2023/52/section/44), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-8022bf96f4398d2fcec2eb8b810cb8ed]: Commencement: Sch. 21 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-8022bf96f4398d2fcec2eb8b810cb8ed]: Commencement: Sch. 21 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-8f28128e9f9737dbfc263a717f9a2516]: Commencement: Sch. 21 para. 2 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-8f28128e9f9737dbfc263a717f9a2516]: Commencement: Sch. 21 para. 2 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-2ada688c43c1b7569c83a5576c8ce78b]: Commencement: Sch. 21 para. 3 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2ada688c43c1b7569c83a5576c8ce78b]: Commencement: Sch. 21 para. 3 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-3aad419ca0dd073473fa4012b75173d5]: Commencement: Sch. 21 para. 4 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-3aad419ca0dd073473fa4012b75173d5]: Commencement: Sch. 21 para. 4 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-cb08de8edc05f19b175432fea2106a2d]: Textual amendment: Words in Sch. 21 para. 4(2)(f) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2019/530/regulation/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb08de8edc05f19b175432fea2106a2d]: Textual amendment: Words in Sch. 21 para. 4(2)(f) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [76](https://www.legislation.gov.uk/uksi/2019/530/regulation/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70322ebe5a4b5a07a5abda438191d236]: Commencement: Sch. 21 para. 5 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-70322ebe5a4b5a07a5abda438191d236]: Commencement: Sch. 21 para. 5 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e717745fde00deb5409dadd3c381457c]: Commencement: Sch. 21 para. 6 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-e717745fde00deb5409dadd3c381457c]: Commencement: Sch. 21 para. 6 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-bc60cfc8a79cf6e536fe963b79df2675]: Commencement: Sch. 21 para. 7 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-bc60cfc8a79cf6e536fe963b79df2675]: Commencement: Sch. 21 para. 7 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-0cfde18018e9bc21dc0748d35bc3bfef]: Commencement: Sch. 21 para. 8 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-0cfde18018e9bc21dc0748d35bc3bfef]: Commencement: Sch. 21 para. 8 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-eaa581a5dfb848fc51986569f2cf2d4c]: Commencement: Sch. 21 para. 9 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-eaa581a5dfb848fc51986569f2cf2d4c]: Commencement: Sch. 21 para. 9 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-d111911ecc4462081edbf0da5a272a57]: Commencement: Sch. 21 para. 10 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d111911ecc4462081edbf0da5a272a57]: Commencement: Sch. 21 para. 10 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-0ce4860fcbe552095a17040eec64153b]: Commencement: Sch. 21 para. 11 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-0ce4860fcbe552095a17040eec64153b]: Commencement: Sch. 21 para. 11 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-d92e7f3bb524d4fe3e91967f30330e41]: Commencement: Sch. 21 para. 12 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d92e7f3bb524d4fe3e91967f30330e41]: Commencement: Sch. 21 para. 12 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-11aac0aa79e0c4fc573d8c25080a007a]: Commencement: Sch. 21 para. 13 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-11aac0aa79e0c4fc573d8c25080a007a]: Commencement: Sch. 21 para. 13 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

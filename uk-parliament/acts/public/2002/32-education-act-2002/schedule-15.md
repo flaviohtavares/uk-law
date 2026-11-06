@@ -22,15 +22,15 @@ summary: ''
 
 Section 187
 
-### 1. Introductory[^key-7c02ff9ac112c5f60c8054a4cebcf550][^c392485]
+### 1. Introductory[^c-7c02ff9ac112c5f60c8054a4cebcf550][^c392485]
 
 Chapter 3 of Part 1 of the School Standards and Framework Act 1998 (c. 31) is amended as follows.
 
-### 2. Establishment of education action zones[^key-5b484ecb0f6cb9297a827d19b506f19e][^c392486]
+### 2. Establishment of education action zones[^c-5b484ecb0f6cb9297a827d19b506f19e][^c392486]
 
 (1) In section 10, in subsection (1) for “maintained schools” there is substituted “ eligible schools ”.
 
-(2)[^key-87070bc215cdab7b8687ad7698dc99ad] After that subsection there is inserted—
+(2)[^c-87070bc215cdab7b8687ad7698dc99ad] After that subsection there is inserted—
 
 > (1A) For the purposes of subsection (1) “**eligible school**” means—
 >
@@ -58,14 +58,14 @@ Chapter 3 of Part 1 of the School Standards and Framework Act 1998 (c. 31) is am
 
 (6) Subsection (7) of that section is omitted.
 
-### 3. Constitution of Education Action Forum[^key-f60df52197de234f333cfd401113b627][^c392487]
+### 3. Constitution of Education Action Forum[^c-f60df52197de234f333cfd401113b627][^c392487]
 
 In section 11, the following provisions are omitted—
 
 - (a) in subsection (2) the words from “and” to the end, and
 - (b) subsection (3).
 
-**4.**[^c392488][^key-7699e77b2323f88595a28019cb9cdcbc] After that section there is inserted—
+**4.**[^c392488][^c-7699e77b2323f88595a28019cb9cdcbc] After that section there is inserted—
 
 > **11A. Constitution of Education Action Forum**
 >
@@ -89,7 +89,7 @@ In section 11, the following provisions are omitted—
 > - (a) in accordance with any procedural requirements specified for the purposes of this section in regulations under Schedule 1, and
 > - (b) with the consent of the Secretary of State.
 
-### 5. Expansion or reduction of zone[^key-889edf08fb75a792afbb6365d906eb9b][^c392489]
+### 5. Expansion or reduction of zone[^c-889edf08fb75a792afbb6365d906eb9b][^c392489]
 
 After section 11A (inserted by paragraph 4) there is inserted—
 
@@ -120,7 +120,7 @@ After section 11A (inserted by paragraph 4) there is inserted—
 >
 > (3) For the purposes of this section references to a school being removed from an education action zone are to it ceasing to be one of the schools which constitute collectively the zone.
 
-### 6. Information relating to changes to zone or Forum[^key-056d5651bb130e1ae9b83afccecf5c89][^c392490]
+### 6. Information relating to changes to zone or Forum[^c-056d5651bb130e1ae9b83afccecf5c89][^c392490]
 
 After section 11C (inserted by paragraph 5) there is inserted—
 
@@ -140,13 +140,13 @@ After section 11C (inserted by paragraph 5) there is inserted—
 >
 > (3) But the duty under subsection (2) is subject, in such circumstances as the Forum may determine, to the payment by the person concerned of a reasonable fee determined by the Forum.
 
-### 7. Functions of Education Action Forum[^key-fcad090c834785053870953ca50af3a4][^c392491]
+### 7. Functions of Education Action Forum[^c-fcad090c834785053870953ca50af3a4][^c392491]
 
 After section 12(1) there is inserted—
 
 > (1A) With the consent of the Secretary of State, a Forum may also carry on any other activities which it considers will promote the provision of, or access to, education whether in a participating school or otherwise.
 
-### 8. Transitional provision[^key-53beada6ab64393afb4d51cfed7e4867][^c392492]
+### 8. Transitional provision[^c-53beada6ab64393afb4d51cfed7e4867][^c392492]
 
 (1) Any provision of an order under section 10 of the School Standards and Framework Act 1998 (c. 31) having effect immediately before the commencement of this Schedule which requires the Forum to include one or two persons appointed by the Secretary of State shall be read as if it were a provision having the same effect as section 11A(1)(b) of that Act.
 
@@ -163,36 +163,36 @@ the powers to alter the Forum’s membership conferred by section 11A of the Sch
 
 ## Annotations
 
-[^key-7c02ff9ac112c5f60c8054a4cebcf550]: Commencement: Sch. 15 para. 1 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-7c02ff9ac112c5f60c8054a4cebcf550]: Commencement: Sch. 15 para. 1 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392485]: Commencement: Sch. 15 para. 1 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-5b484ecb0f6cb9297a827d19b506f19e]: Commencement: Sch. 15 para. 2 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-5b484ecb0f6cb9297a827d19b506f19e]: Commencement: Sch. 15 para. 2 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392486]: Commencement: Sch. 15 para. 2 in force (except for the words "(b) a nursery school") at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-87070bc215cdab7b8687ad7698dc99ad]: Commencement: Sch. 15 para. 2(2) in force at 1.9.2003 so far as not already in force except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-87070bc215cdab7b8687ad7698dc99ad]: Commencement: Sch. 15 para. 2(2) in force at 1.9.2003 so far as not already in force except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-f60df52197de234f333cfd401113b627]: Commencement: Sch. 15 para. 3 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-f60df52197de234f333cfd401113b627]: Commencement: Sch. 15 para. 3 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392487]: Commencement: Sch. 15 para. 3 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
 [^c392488]: Commencement: Sch. 15 para. 4 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-7699e77b2323f88595a28019cb9cdcbc]: Commencement: Sch. 15 para. 4 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-7699e77b2323f88595a28019cb9cdcbc]: Commencement: Sch. 15 para. 4 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
-[^key-889edf08fb75a792afbb6365d906eb9b]: Commencement: Sch. 15 para. 5 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-889edf08fb75a792afbb6365d906eb9b]: Commencement: Sch. 15 para. 5 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392489]: Commencement: Sch. 15 para. 5 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-056d5651bb130e1ae9b83afccecf5c89]: Commencement: Sch. 15 para. 6 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-056d5651bb130e1ae9b83afccecf5c89]: Commencement: Sch. 15 para. 6 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392490]: Commencement: Sch. 15 para. 6 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-fcad090c834785053870953ca50af3a4]: Commencement: Sch. 15 para. 7 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-fcad090c834785053870953ca50af3a4]: Commencement: Sch. 15 para. 7 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392491]: Commencement: Sch. 15 para. 7 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-53beada6ab64393afb4d51cfed7e4867]: Commencement: Sch. 15 para. 8 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-53beada6ab64393afb4d51cfed7e4867]: Commencement: Sch. 15 para. 8 in force at 2.1.2008 for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c392492]: Commencement: Sch. 15 para. 8 in force at 1.10.2002 for E. by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))

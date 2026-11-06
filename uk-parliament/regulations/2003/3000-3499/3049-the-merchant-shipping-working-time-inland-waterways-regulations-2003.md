@@ -64,10 +64,10 @@ These Regulations may be cited as the Merchant Shipping (Working Time: Inland Wa
 - “**collective agreement**” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation Act 1992 [^c5099261], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
 - “**employer**”, in relation to a worker, means the person by whom the worker is (or, where the employment has ceased, was) employed;
 - “**employment**”, in relation to a worker, means employment under his contract, and “employed shall be construed accordingly;
-- “free health assessment” means a health assessment which is free of charge to the worker to whom it relates;[^key-80555916479fc5035c0f6df07a1ad679]
+- “free health assessment” means a health assessment which is free of charge to the worker to whom it relates;[^c-80555916479fc5035c0f6df07a1ad679]
 - “**MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
 - “**Merchant Shipping Notice**” means a Notice described as such and issued by the MCA; and any reference to a particular Merchant Shipping Notice includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
-- “night time” means the period between 11 p.m. and 6 a.m.;[^key-16b8f4e1ca82c4c99bc36a59d994b9df]
+- “night time” means the period between 11 p.m. and 6 a.m.;[^c-16b8f4e1ca82c4c99bc36a59d994b9df]
 - “**night work**” means work during night time;
 - “**night worker**” means a worker—
   - (a) who, as a normal course, works at least three hours of his daily working time during night time, or
@@ -111,22 +111,22 @@ These Regulations may be cited as the Merchant Shipping (Working Time: Inland Wa
 - “shift worker” means any worker whose work involves shift work;
 - “**ship**” includes hovercraft;
 - “work schedule” means a document containing the planned working days and rest days which is communicated to the worker in advance by the employer;
-- “worker” means a person employed (or, where the employment has ceased, who was employed) as a member of the travelling personnel of a ship to which these Regulations apply by an undertaking which operates services for passengers or goods but does not include a person who—[^key-e12a84c1df79c375fa8a1932a8a16139]
+- “worker” means a person employed (or, where the employment has ceased, who was employed) as a member of the travelling personnel of a ship to which these Regulations apply by an undertaking which operates services for passengers or goods but does not include a person who—[^c-e12a84c1df79c375fa8a1932a8a16139]
   - (a) owns a business operating such services, or
   - (b) is training in a sail training vessel or a person who is not engaged in the navigation of, or has no emergency safety responsibilities on, such a vessel;
-- **“workforce agreement[^key-255bdb7cb8f7f582cd99d2a1d9e27def]**” means an agreement between an employer and workers employed by him or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied; and
+- **“workforce agreement[^c-255bdb7cb8f7f582cd99d2a1d9e27def]**” means an agreement between an employer and workers employed by him or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied; and
 - “working day” means any 24 hour period that includes working time;
 - “**working time**”, in relation to a worker, means—
-  - (a) any period , including overtime,[^key-6386ffbfddfc6c87293f5ef18738ceb2] during which he is working, at his employer’s disposal and carrying out his activity or duties,
+  - (a) any period , including overtime,[^c-6386ffbfddfc6c87293f5ef18738ceb2] during which he is working, at his employer’s disposal and carrying out his activity or duties,
   - (b) any period during which he is receiving relevant training, and
   - (c) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement,
 
   and “**work**” shall be construed accordingly.
 - “workstation” means any place where the worker carries out the worker’s duties.
 
-(2)[^key-8c22bd8c9a9e8abe649376bd07a11ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8c22bd8c9a9e8abe649376bd07a11ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-af2996b1493d1c4f31bc59d7d80ec8d5]
+### 3. Application[^c-af2996b1493d1c4f31bc59d7d80ec8d5]
 
 (1) These Regulations apply to any ship which—
 
@@ -148,20 +148,20 @@ These Regulations apply to Northern Ireland with the following modifications—
 
 *Extent: N.I.*
 
-- (ba)[^key-f2c14431d6f45b56ff8dc60072f9fd74] in regulation 18A(1)(a) for the words “subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
+- (ba)[^c-f2c14431d6f45b56ff8dc60072f9fd74] in regulation 18A(1)(a) for the words “subsection (1) of section 18A of the Employment Tribunals Act 1996 (requirement to contact ACAS before instituting proceedings)” substitute “paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact the Labour Relations Agency before instituting proceedings)”;
 - (bb (Extent: N.I.)) in regulation 18A(1)(b) for the words “(by virtue of regulations made under subsection (11) of that section) the certificate issued under subsection (4) of that section” substitute “(by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article”; *(Extent: N.I.)*
-- (c) in regulation 19(2)(a) for the words “a conciliation officer has taken action under any of sections 18A to 18C[^key-ed87139e38d6747b4ba0f52d3a020d2d] of the Employment Tribunals Act 1996 (conciliation)” there shall be substituted the words “ the Labour Relations Agency has taken action under Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 [^c5099351] (conciliation) ”;
-- (d) in regulation 19(2)(b) for the words “section 18(1)(p)[^key-19747a2486aa102452604eae17786bd9] of the Employment Tribunals Act 1996” there shall be substituted the words “ Article 20(1)(k) of the Industrial Tribunals (Northern Ireland) Order 1996 ”.
-- (e)[^key-6a7bfd60e24c388c453e35747afe31b2] in regulation 19(2)(b) for the word “settlement” substitute “compromise”;
+- (c) in regulation 19(2)(a) for the words “a conciliation officer has taken action under any of sections 18A to 18C[^c-ed87139e38d6747b4ba0f52d3a020d2d] of the Employment Tribunals Act 1996 (conciliation)” there shall be substituted the words “ the Labour Relations Agency has taken action under Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996 [^c5099351] (conciliation) ”;
+- (d) in regulation 19(2)(b) for the words “section 18(1)(p)[^c-19747a2486aa102452604eae17786bd9] of the Employment Tribunals Act 1996” there shall be substituted the words “ Article 20(1)(k) of the Industrial Tribunals (Northern Ireland) Order 1996 ”.
+- (e)[^c-6a7bfd60e24c388c453e35747afe31b2] in regulation 19(2)(b) for the word “settlement” substitute “compromise”;
 - (f) in regulation 19(3) for the word “settlement” substitute “compromise”.
 
 ## PART 2 — RIGHTS AND OBLIGATIONS CONCERNING WORKING TIME
 
-### 5. General[^key-166c4164926cfcd6bd84e4d4963539db]
+### 5. General[^c-166c4164926cfcd6bd84e4d4963539db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Maximum daily working time[^key-3ca149f726f813dcbc257ee1959d921b]
+### 6. Maximum daily working time[^c-3ca149f726f813dcbc257ee1959d921b]
 
 Subject to regulation 15A, an employer shall ensure that a worker’s working time shall not exceed 14 hours in any 24 hour period.
 
@@ -200,7 +200,7 @@ where—
 
 Subject to regulation 15A, where, according to the work schedule, there are more working days than rest days, an employer shall ensure that a worker’s average weekly working time shall not exceed 72 hours over a four month period.
 
-### 7. Health assessments[^key-698c0376211f0184d71e09a475a31386]
+### 7. Health assessments[^c-698c0376211f0184d71e09a475a31386]
 
 (1) A worker who so requests shall be entitled to an annual free health assessment.
 
@@ -245,9 +245,9 @@ An employer shall not require a worker to do more than 42 hours of night work du
 
 ### 8. Pattern of work
 
-Where the pattern according to which an employer organises work is such as to put the health and safety of a worker employed by him at risk, in particular because the work is monotonous or at a predetermined work-rate[^key-41e7a6f2ba9a058ee8e11ebf6bbc30e4], the employer shall ensure that the worker is given adequate rest breaks.
+Where the pattern according to which an employer organises work is such as to put the health and safety of a worker employed by him at risk, in particular because the work is monotonous or at a predetermined work-rate[^c-41e7a6f2ba9a058ee8e11ebf6bbc30e4], the employer shall ensure that the worker is given adequate rest breaks.
 
-### 9. Records[^key-2991d63224cb77e93aa71c391a42bcfc]
+### 9. Records[^c-2991d63224cb77e93aa71c391a42bcfc]
 
 (1) In the case of each worker, the employer shall keep records which are adequate to verify compliance with regulations 6, 6A, 6B, 6C(1), 6D, 7C, 10(1) and (3), 10B, 11(1) to (3), 11A, 14A(3) and 15A(2) to (4).
 
@@ -268,18 +268,18 @@ Where the pattern according to which an employer organises work is such as to pu
 
 ### 10. Rest periods
 
-(1) [^key-ed9dd3117caa11518ae8a4f1f47e2148]... A worker is entitled to adequate rest.
+(1) [^c-ed9dd3117caa11518ae8a4f1f47e2148]... A worker is entitled to adequate rest.
 
 (2) For the purpose of this regulation, “**adequate rest**” means that a worker has regular rest periods, the duration of which are expressed in units of time and which are sufficiently long and continuous to ensure that, as a result of fatigue or other irregular working patterns, he does not cause injury to himself, to fellow workers or to others and that he does not damage his health, either in the short term or in the longer term.
 
-(3)[^key-50d36b9d9fbe94b00cd2a1f6cfc40601] The rest periods referred to in paragraph (2) shall not be less than—
+(3)[^c-50d36b9d9fbe94b00cd2a1f6cfc40601] The rest periods referred to in paragraph (2) shall not be less than—
 
 - (a) 10 hours in each 24 hour period, of which at least six hours are uninterrupted; and
 - (b) 84 hours in any seven day period.
 
-(4)[^key-f3657aafce23ce57856864f9060c46d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f3657aafce23ce57856864f9060c46d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10A. Rest breaks[^key-55a6d20c8051fd95da104addb8a85767]
+### 10A. Rest breaks[^c-55a6d20c8051fd95da104addb8a85767]
 
 (1) A worker whose daily working time exceeds six hours is entitled to a rest break.
 
@@ -311,7 +311,7 @@ Where the pattern according to which an employer organises work is such as to pu
 
 ### 11. Entitlement to annual leave and payment for leave
 
-(1) Subject to paragraph (2), a worker is entitled to four weeks' annual leave in each leave year[^key-ddb297962da4ea986b683bcee5b71036] and to be paid in respect of any such leave at the rate of a week’s pay in respect of each week of leave.
+(1) Subject to paragraph (2), a worker is entitled to four weeks' annual leave in each leave year[^c-ddb297962da4ea986b683bcee5b71036] and to be paid in respect of any such leave at the rate of a week’s pay in respect of each week of leave.
 
 (2) In respect of a period of employment of less than one year, a worker is entitled to annual leave of a proportion of four weeks equal to the proportion the period of employment in question bears to one year; the proportion to be determined in days and any fraction of a day to be treated as a whole day.
 
@@ -333,7 +333,7 @@ Where the pattern according to which an employer organises work is such as to pu
 
 (7) Any contractual remuneration paid to a worker in respect of a period of leave goes towards discharging any liability of the employer to make payments under this regulation in respect of that period; and, conversely, any payment of remuneration under this regulation in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
 
-### 11A. Entitlement to additional annual leave[^key-630a9932ec3c3ab30ea2b8d317394056]
+### 11A. Entitlement to additional annual leave[^c-630a9932ec3c3ab30ea2b8d317394056]
 
 (1) Subject to paragraph (4), a worker is entitled in each leave year to a period of leave in addition to the entitlement under regulation 11 (“additional leave”) determined in accordance with paragraph (2) and to be paid for any such leave at the rate of a week’s pay in respect of each week of leave.
 
@@ -352,24 +352,24 @@ Where the pattern according to which an employer organises work is such as to pu
 
 ### 12. Entitlements under other provisions
 
-Where during any period a worker is entitled to a rest period or annual leave (including additional annual leave)[^key-dabff4715d19de34f59d36840b7f9273] both under a provision of these Regulations and under a separate provision (including a provision of his contract), he may not exercise the two rights separately, but may, in taking a rest period or any[^key-6b5868cd128688ec71d1213d05f71e6e] annual leave during that period, take advantage of whichever right is, in any particular respect, the more favourable.
+Where during any period a worker is entitled to a rest period or annual leave (including additional annual leave)[^c-dabff4715d19de34f59d36840b7f9273] both under a provision of these Regulations and under a separate provision (including a provision of his contract), he may not exercise the two rights separately, but may, in taking a rest period or any[^c-6b5868cd128688ec71d1213d05f71e6e] annual leave during that period, take advantage of whichever right is, in any particular respect, the more favourable.
 
-## ...[^key-7da3e30a0e35504e9c1958012cd5688e]
+## ...[^c-7da3e30a0e35504e9c1958012cd5688e]
 
 ### 13. Unmeasured working time
 
-(1) Regulations 6, 6A, 6B, 6C, 6D and 7C do[^key-c72879704eac43605fe1e2d026b191e8] not apply in relation to a worker where, on account of the specific characteristics of the activity in which he is engaged, the duration of his working time is not measured or pre-determined or can be determined by the worker himself, as may be the case for—
+(1) Regulations 6, 6A, 6B, 6C, 6D and 7C do[^c-c72879704eac43605fe1e2d026b191e8] not apply in relation to a worker where, on account of the specific characteristics of the activity in which he is engaged, the duration of his working time is not measured or pre-determined or can be determined by the worker himself, as may be the case for—
 
 - (a) managing executives or other persons with autonomous decision-taking powers, or
 - (b) family workers.
 
-(2) Where part of the working time of a worker is measured or pre-determined or cannot be determined by the worker himself but the specific characteristics of the activity are such that, without being required to do so by the employer, the worker may also do work the duration of which is not measured or pre-determined or can be determined by the worker himself, regulations 6, 6A, 6B, 6C, 6D and 7C[^key-9c63b553700afd55373c2e6ce458522d] shall apply only to so much of his work as is measured or pre-determined or cannot be determined by the worker himself.
+(2) Where part of the working time of a worker is measured or pre-determined or cannot be determined by the worker himself but the specific characteristics of the activity are such that, without being required to do so by the employer, the worker may also do work the duration of which is not measured or pre-determined or can be determined by the worker himself, regulations 6, 6A, 6B, 6C, 6D and 7C[^c-9c63b553700afd55373c2e6ce458522d] shall apply only to so much of his work as is measured or pre-determined or cannot be determined by the worker himself.
 
 ### 14. Other special cases[^M_F_512103ba-4c60-4bb1-c55a-0e9c8f90bb01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14A. Emergency situations[^key-c589556dfb9415a0cdd9bde0f9e8c173]
+### 14A. Emergency situations[^c-c589556dfb9415a0cdd9bde0f9e8c173]
 
 (1) No provision of these regulations shall prevent the master from requiring a worker to perform any hours of work necessary—
 
@@ -389,7 +389,7 @@ Where during any period a worker is entitled to a rest period or annual leave (i
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15A. Seasonal work on passenger ships[^key-059155303a5e3c14b0088bcad68017eb]
+### 15A. Seasonal work on passenger ships[^c-059155303a5e3c14b0088bcad68017eb]
 
 (1) An employer may apply the provisions contained in this regulation to a worker employed on a passenger ship during the season.
 
@@ -404,13 +404,13 @@ Where during any period a worker is entitled to a rest period or annual leave (i
 
 (5) In this regulation, “season” means a period of no more than nine consecutive months out of 12 months in which activities are tied to certain times of the year as a result of external circumstances such as weather conditions or tourist demand.
 
-## ...[^key-f30e4f69786a735fb609d9e6fa31ae2d]
+## ...[^c-f30e4f69786a735fb609d9e6fa31ae2d]
 
 ### 16. Power to require information
 
 An employer shall provide the MCA with such information on night workers employed by him as the Secretary of State (acting through the MCA) may specify in writing.
 
-### 17. Offences[^key-e6ea599a31e3abd46feedaf88cd19e25]
+### 17. Offences[^c-e6ea599a31e3abd46feedaf88cd19e25]
 
 (1) An employer who fails to comply with any requirement referred to in paragraph (2) commits an offence.
 
@@ -449,15 +449,15 @@ An employer shall provide the MCA with such information on night workers employe
 
 (1) A worker may present a complaint to an employment tribunal that his employer—
 
-- (a)[^key-39042dc849e41cb8c51d1a5201bbeada] has refused to permit him to exercise any right he has under regulation 7(1), 7D(1), 10(1) or (3), 10A(1) or (3), 10B(3), (7) or (8), 11(1), 11A(1) or 15A(3) or (4); or
-- (b) has failed to pay him the whole or any part of any amount due to him under regulation 11(1) or 11A(1)[^key-47532ef9f49c58a0567a1baca689d262].
+- (a)[^c-39042dc849e41cb8c51d1a5201bbeada] has refused to permit him to exercise any right he has under regulation 7(1), 7D(1), 10(1) or (3), 10A(1) or (3), 10B(3), (7) or (8), 11(1), 11A(1) or 15A(3) or (4); or
+- (b) has failed to pay him the whole or any part of any amount due to him under regulation 11(1) or 11A(1)[^c-47532ef9f49c58a0567a1baca689d262].
 
 (2) An employment tribunal shall not consider a complaint under this regulation unless it is presented—
 
 - (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period or leave extending over more than one day, the date on which it should have been permitted to begin) or, as the case may be, the payment should have been made;
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-72d2da15b82054df47b99fa89118b661] Regulation 18A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-72d2da15b82054df47b99fa89118b661] Regulation 18A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where an employment tribunal finds a complaint under paragraph (1)(a) well-founded, the tribunal—
 
@@ -469,9 +469,9 @@ An employer shall provide the MCA with such information on night workers employe
 - (a) the employer’s default in refusing to permit the worker to exercise his right, and
 - (b) any loss sustained by the worker which is attributable to the matters complained of.
 
-(5) Where on a complaint under paragraph (1)(b) an employment tribunal finds that an employer has failed to pay a worker in accordance with regulation 11(1) or 11A(1)[^key-8bf462f492cdc27d444077abb77f8f48], it shall order the employer to pay to the worker the amount which it finds to be due to him.
+(5) Where on a complaint under paragraph (1)(b) an employment tribunal finds that an employer has failed to pay a worker in accordance with regulation 11(1) or 11A(1)[^c-8bf462f492cdc27d444077abb77f8f48], it shall order the employer to pay to the worker the amount which it finds to be due to him.
 
-### 18A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-54f6f705f507c0dcb5cb914712680cee]
+### 18A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-54f6f705f507c0dcb5cb914712680cee]
 
 (1) In this regulation—
 
@@ -493,10 +493,10 @@ An employer shall provide the MCA with such information on night workers employe
 
 (2) Paragraph (1) does not apply to—
 
-- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^key-eb1e394636463b4b5cc933c99e5dab73] of the Employment Tribunals Act 1996 [^c5099391] (conciliation); or
-- (b) any agreement to refrain from instituting or continuing proceedings within section 18(1)(p)[^key-fae1568e1244b4943076c37eb54abee8] of the Employment[^key-832a858214e4e05d31056240548a11ab] Tribunals Act 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating settlement[^key-7f72280bf321f6c8c8f7be749e3d7323] agreements under these Regulations are satisfied in relation to the agreement.
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^c-eb1e394636463b4b5cc933c99e5dab73] of the Employment Tribunals Act 1996 [^c5099391] (conciliation); or
+- (b) any agreement to refrain from instituting or continuing proceedings within section 18(1)(p)[^c-fae1568e1244b4943076c37eb54abee8] of the Employment[^c-832a858214e4e05d31056240548a11ab] Tribunals Act 1996 (proceedings under these Regulations where conciliation is available), if the conditions regulating settlement[^c-7f72280bf321f6c8c8f7be749e3d7323] agreements under these Regulations are satisfied in relation to the agreement.
 
-(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^key-2bae02183d93eb5817fc56a8e52ac91c] agreements under these Regulations are that—
+(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^c-2bae02183d93eb5817fc56a8e52ac91c] agreements under these Regulations are that—
 
 - (a) the agreement must be in writing,
 - (b) the agreement must relate to the particular complaint,
@@ -519,7 +519,7 @@ An employer shall provide the MCA with such information on night workers employe
 
 (6) In paragraph (4)(a), “**qualified lawyer**” means—
 
-- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^key-5c67fce4035e46236b64845c9a88e9e0];
+- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^c-5c67fce4035e46236b64845c9a88e9e0];
 - (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate; and
 - (c) as respects Northern Ireland, a barrister (whether in practice as such or employed to give legal advice), or a solicitor who holds a practising certificate.
 
@@ -530,7 +530,7 @@ An employer shall provide the MCA with such information on night workers employe
 
 and “**associated employer**” shall be construed accordingly.
 
-### 19A. Review[^key-2f5363283e256f9f9923813b878ea5c4]
+### 19A. Review[^c-2f5363283e256f9f9923813b878ea5c4]
 
 (1) The Secretary of State must from time to time—
 
@@ -601,7 +601,7 @@ Regulation 2(1)
 
 Regulation 20
 
-**1.**[^key-4c34c0262c779d18b70ad425c091ad67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4c34c0262c779d18b70ad425c091ad67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1) The Employment Tribunals Act 1996 [^c5099421] is amended as follows.
 
@@ -709,9 +709,9 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 
 [^c5099261]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-80555916479fc5035c0f6df07a1ad679]: Textual amendment: Words in reg. 2(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/1)
+[^c-80555916479fc5035c0f6df07a1ad679]: Textual amendment: Words in reg. 2(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/1)
 
-[^key-16b8f4e1ca82c4c99bc36a59d994b9df]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/2)
+[^c-16b8f4e1ca82c4c99bc36a59d994b9df]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/2)
 
 [^c5099271]: Marginal citation: Certain vessels are required to comply with the codes by the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998, [S.I. 1998/2771](https://www.legislation.gov.uk/uksi/1998/2771), amended by [S.I. 2000/482](https://www.legislation.gov.uk/uksi/2000/482) and [S.I. 2002/1473](https://www.legislation.gov.uk/uksi/2002/1473).
 
@@ -723,103 +723,103 @@ Merchant Shipping Notices are published by the Maritime and Coastguard Agency. C
 
 [^c5099311]: Marginal citation: Published by The Stationery Office in 2000 (ISBN 0-11-551812-6).
 
-[^key-e12a84c1df79c375fa8a1932a8a16139]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/3)
+[^c-e12a84c1df79c375fa8a1932a8a16139]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/3)
 
-[^key-255bdb7cb8f7f582cd99d2a1d9e27def]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/4)
+[^c-255bdb7cb8f7f582cd99d2a1d9e27def]: Textual amendment: Words in reg. 2(1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/4)
 
-[^key-6386ffbfddfc6c87293f5ef18738ceb2]: Textual amendment: Words in reg. 2(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/5)
+[^c-6386ffbfddfc6c87293f5ef18738ceb2]: Textual amendment: Words in reg. 2(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/3/5)
 
-[^key-8c22bd8c9a9e8abe649376bd07a11ea7]: Textual amendment: Reg. 2(2) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1149/regulation/4)
+[^c-8c22bd8c9a9e8abe649376bd07a11ea7]: Textual amendment: Reg. 2(2) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1149/regulation/4)
 
-[^key-af2996b1493d1c4f31bc59d7d80ec8d5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/3049/regulation/3) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2017/1149/regulation/5)
+[^c-af2996b1493d1c4f31bc59d7d80ec8d5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/3049/regulation/3) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2017/1149/regulation/5)
 
 [^c5099331]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33); section 42(5) was substituted by paragraph 1 of Schedule 1 to the Industrial Tribunals (Northern Ireland) Order 1996, [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921).
 
 [^c5099341]: Marginal citation: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807); the definition of “collective agreement” was amended by Schedule 2 to the Trade Union and Labour Relations (Northern Ireland) Order 1995, [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980).
 
-[^key-f2c14431d6f45b56ff8dc60072f9fd74]: Textual amendment: [Reg. 4(ba)(bb)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/4/ba/bb) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/24/2)
+[^c-f2c14431d6f45b56ff8dc60072f9fd74]: Textual amendment: [Reg. 4(ba)(bb)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/4/ba/bb) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 24(2)](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/24/2)
 
-[^key-ed87139e38d6747b4ba0f52d3a020d2d]: Textual amendment: Words in reg. 4(c) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/21)
+[^c-ed87139e38d6747b4ba0f52d3a020d2d]: Textual amendment: Words in reg. 4(c) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/21)
 
 [^c5099351]: Marginal citation: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921); Article 20 was amended by paragraph 10 of Schedule 2 to the Race Relations (Northern Ireland) Order 1997, [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869); by paragraph 20 of Schedule 1 to the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998, [S.I. 1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265); by section 30(2) of the [National Minimum Wage Act 1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39); by paragraph 5 of Schedule 2 to the Employment (Northern Ireland) Order 2002, [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836); by regulation 33 of the Working Time Regulations (Northern Ireland) 1998, S.R. (N.I.) [1998 No. 386](https://www.legislation.gov.uk/ukcm/1998/386); by regulation 33(2) of the Transnational Information and Consultation of Employees Regulations 1999, [S.I. 1999/3233](https://www.legislation.gov.uk/uksi/1999/3233); by paragraph 2 of the Schedule to the Part-Time Workers (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2000, S.R. (N.I.) [2000 No. 219](https://www.legislation.gov.uk/ukcm/2000/219); by paragraph 3 of Part I of Schedule 2 to the Fixed-Term Employees (Prevention of Less Favourable Treatment) Regulations (Northern Ireland) 2002, S.R. (N.I.) [2002 No. 298](https://www.legislation.gov.uk/ukcm/2002/298); and by paragraph 5 of Schedule 2 to these Regulations.
 
-[^key-19747a2486aa102452604eae17786bd9]: Textual amendment: Words in reg. 4(d) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/29/a)
+[^c-19747a2486aa102452604eae17786bd9]: Textual amendment: Words in reg. 4(d) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 29(a)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/29/a)
 
-[^key-6a7bfd60e24c388c453e35747afe31b2]: Textual amendment: Reg. 4(e)(f) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1149/regulation/6)
+[^c-6a7bfd60e24c388c453e35747afe31b2]: Textual amendment: Reg. 4(e)(f) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1149/regulation/6)
 
-[^key-166c4164926cfcd6bd84e4d4963539db]: Textual amendment: Reg. 5 omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/1)
+[^c-166c4164926cfcd6bd84e4d4963539db]: Textual amendment: Reg. 5 omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/1)
 
-[^key-3ca149f726f813dcbc257ee1959d921b]: Textual amendment: Regs. 6-6D substituted for reg. 6 (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1149/regulation/8)
+[^c-3ca149f726f813dcbc257ee1959d921b]: Textual amendment: Regs. 6-6D substituted for reg. 6 (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1149/regulation/8)
 
-[^key-698c0376211f0184d71e09a475a31386]: Textual amendment: Regs. 7-7D substituted for reg. 7 (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1149/regulation/9)
+[^c-698c0376211f0184d71e09a475a31386]: Textual amendment: Regs. 7-7D substituted for reg. 7 (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1149/regulation/9)
 
-[^key-41e7a6f2ba9a058ee8e11ebf6bbc30e4]: Textual amendment: Words in reg. 8 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/1149/regulation/10)
+[^c-41e7a6f2ba9a058ee8e11ebf6bbc30e4]: Textual amendment: Words in reg. 8 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/1149/regulation/10)
 
-[^key-2991d63224cb77e93aa71c391a42bcfc]: Textual amendment: Reg. 9 substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/1149/regulation/11)
+[^c-2991d63224cb77e93aa71c391a42bcfc]: Textual amendment: Reg. 9 substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/1149/regulation/11)
 
-[^key-ed9dd3117caa11518ae8a4f1f47e2148]: Textual amendment: Words in reg. 10(1) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/2)
+[^c-ed9dd3117caa11518ae8a4f1f47e2148]: Textual amendment: Words in reg. 10(1) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/2)
 
-[^key-50d36b9d9fbe94b00cd2a1f6cfc40601]: Textual amendment: Reg. 10(3) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/3)
+[^c-50d36b9d9fbe94b00cd2a1f6cfc40601]: Textual amendment: Reg. 10(3) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/3)
 
-[^key-f3657aafce23ce57856864f9060c46d8]: Textual amendment: Reg. 10(4) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/4)
+[^c-f3657aafce23ce57856864f9060c46d8]: Textual amendment: Reg. 10(4) omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/12/4)
 
-[^key-55a6d20c8051fd95da104addb8a85767]: Textual amendment: Regs. 10A, 10B inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2017/1149/regulation/13)
+[^c-55a6d20c8051fd95da104addb8a85767]: Textual amendment: Regs. 10A, 10B inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2017/1149/regulation/13)
 
-[^key-ddb297962da4ea986b683bcee5b71036]: Textual amendment: Words in reg. 11(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/1149/regulation/14)
+[^c-ddb297962da4ea986b683bcee5b71036]: Textual amendment: Words in reg. 11(1) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/1149/regulation/14)
 
 [^c5099371]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-630a9932ec3c3ab30ea2b8d317394056]: Textual amendment: Reg. 11A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2017/1149/regulation/15)
+[^c-630a9932ec3c3ab30ea2b8d317394056]: Textual amendment: Reg. 11A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2017/1149/regulation/15)
 
-[^key-dabff4715d19de34f59d36840b7f9273]: Textual amendment: Words in reg. 12 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/16/2)
+[^c-dabff4715d19de34f59d36840b7f9273]: Textual amendment: Words in reg. 12 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/16/2)
 
-[^key-6b5868cd128688ec71d1213d05f71e6e]: Textual amendment: Word in reg. 12 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/16/3)
+[^c-6b5868cd128688ec71d1213d05f71e6e]: Textual amendment: Word in reg. 12 inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/16/3)
 
-[^key-7da3e30a0e35504e9c1958012cd5688e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2003/3049/part/3) heading omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/2)
+[^c-7da3e30a0e35504e9c1958012cd5688e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2003/3049/part/3) heading omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/2)
 
-[^key-c72879704eac43605fe1e2d026b191e8]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/13/1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/17/2)
+[^c-c72879704eac43605fe1e2d026b191e8]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/13/1) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/17/2)
 
-[^key-9c63b553700afd55373c2e6ce458522d]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/13/2) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/17/3)
+[^c-9c63b553700afd55373c2e6ce458522d]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/13/2) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/17/3)
 
 [^M_F_512103ba-4c60-4bb1-c55a-0e9c8f90bb01]: Textual amendment: Reg. 14 omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), regs. 1(2), 18
 
-[^key-c589556dfb9415a0cdd9bde0f9e8c173]: Textual amendment: Reg. 14A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2017/1149/regulation/18)
+[^c-c589556dfb9415a0cdd9bde0f9e8c173]: Textual amendment: Reg. 14A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2017/1149/regulation/18)
 
 [^M_F_662bc89c-a221-4d1f-d412-109e5197c2ae]: Textual amendment: Reg. 15 omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), regs. 1(2), 19
 
-[^key-059155303a5e3c14b0088bcad68017eb]: Textual amendment: Reg. 15A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2017/1149/regulation/19)
+[^c-059155303a5e3c14b0088bcad68017eb]: Textual amendment: Reg. 15A inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2017/1149/regulation/19)
 
-[^key-f30e4f69786a735fb609d9e6fa31ae2d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2003/3049/part/4) heading omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/3)
+[^c-f30e4f69786a735fb609d9e6fa31ae2d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2003/3049/part/4) heading omitted (5.1.2018) by virtue of [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/7/3)
 
-[^key-e6ea599a31e3abd46feedaf88cd19e25]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/3049/regulation/17) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2017/1149/regulation/20)
+[^c-e6ea599a31e3abd46feedaf88cd19e25]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/3049/regulation/17) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2017/1149/regulation/20)
 
-[^key-39042dc849e41cb8c51d1a5201bbeada]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/a) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/2)
+[^c-39042dc849e41cb8c51d1a5201bbeada]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/a) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/2)
 
-[^key-47532ef9f49c58a0567a1baca689d262]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/b) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/3)
+[^c-47532ef9f49c58a0567a1baca689d262]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/1/b) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/3)
 
-[^key-72d2da15b82054df47b99fa89118b661]: Textual amendment: Reg. 18(2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/22)
+[^c-72d2da15b82054df47b99fa89118b661]: Textual amendment: Reg. 18(2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/22)
 
-[^key-8bf462f492cdc27d444077abb77f8f48]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/5) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/4)
+[^c-8bf462f492cdc27d444077abb77f8f48]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/18/5) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/21/4)
 
-[^key-54f6f705f507c0dcb5cb914712680cee]: Textual amendment: Reg. 18A inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/23)
+[^c-54f6f705f507c0dcb5cb914712680cee]: Textual amendment: Reg. 18A inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/23)
 
-[^key-eb1e394636463b4b5cc933c99e5dab73]: Textual amendment: Words in reg. 19(2)(a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/24)
+[^c-eb1e394636463b4b5cc933c99e5dab73]: Textual amendment: Words in reg. 19(2)(a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/24)
 
 [^c5099391]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); section 1(2) of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996. Section 18 was amended by the [National Minimum Wage Act 1998 (c. 39)](https://www.legislation.gov.uk/ukpga/1998/39), [section 30(1)](https://www.legislation.gov.uk/ukpga/1998/39/section/30/1); the Working Time Regulations 1998, [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), [regulation 33](https://www.legislation.gov.uk/uksi/1998/1833/regulation/33); the Transnational Information and Consultation of Employees Regulations 1999, [S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323), [regulation 33(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/33/1); the Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2000, [S.I. 2000/1551](https://www.legislation.gov.uk/uksi/2000/1551), [Sch](https://www.legislation.gov.uk/uksi/2000/1551/schedule)edule, paragraph 1(a); the Part-time Workers (Prevention of Less Favourable Treatment) Regulations 2001, [S.I. 2001/1107](https://www.legislation.gov.uk/uksi/2001/1107), [regulation 2](https://www.legislation.gov.uk/uksi/2001/1107/regulation/2); the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 24(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/24/2) and Schedule 7, paragraph 23(2); the Fixed-term Employees (Prevention of Less Favourable Treatment) Regulations 2002, [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), [Schedule 2](https://www.legislation.gov.uk/uksi/2002/2034/schedule/2), [paragraph 2](https://www.legislation.gov.uk/uksi/2002/2034/paragraph/2), [paragraph 2(a)](https://www.legislation.gov.uk/uksi/2002/2034/paragraph/2/a) and paragraph 2(2) of Schedule 2 to these Regulations.
 
-[^key-fae1568e1244b4943076c37eb54abee8]: Textual amendment: Words in reg. 19(2)(b) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/29/b)
+[^c-fae1568e1244b4943076c37eb54abee8]: Textual amendment: Words in reg. 19(2)(b) substituted (E.W.S.) (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/29/b)
 
-[^key-832a858214e4e05d31056240548a11ab]: Textual amendment: Word in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/19/2/b) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2017/1149/regulation/22)
+[^c-832a858214e4e05d31056240548a11ab]: Textual amendment: Word in [reg. 19(2)(b)](https://www.legislation.gov.uk/uksi/2003/3049/regulation/19/2/b) substituted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2017/1149/regulation/22)
 
-[^key-7f72280bf321f6c8c8f7be749e3d7323]: Textual amendment: Word in reg. 19(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/4)
+[^c-7f72280bf321f6c8c8f7be749e3d7323]: Textual amendment: Word in reg. 19(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/4)
 
-[^key-2bae02183d93eb5817fc56a8e52ac91c]: Textual amendment: Word in reg. 19(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/4)
+[^c-2bae02183d93eb5817fc56a8e52ac91c]: Textual amendment: Word in reg. 19(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/4)
 
-[^key-5c67fce4035e46236b64845c9a88e9e0]: Textual amendment: Words in reg. 19(6)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
+[^c-5c67fce4035e46236b64845c9a88e9e0]: Textual amendment: Words in reg. 19(6)(a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
 
-[^key-2f5363283e256f9f9923813b878ea5c4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2003/3049/regulation/19A) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2017/1149/regulation/23)
+[^c-2f5363283e256f9f9923813b878ea5c4]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2003/3049/regulation/19A) inserted (5.1.2018) by [The Merchant Shipping (Working Time Inland Waterways) (Amendment) Regulations 2017 (S.I. 2017/1149)](https://www.legislation.gov.uk/uksi/2017/1149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1149/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2017/1149/regulation/23)
 
-[^key-4c34c0262c779d18b70ad425c091ad67]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/3049/schedule/2/paragraph/1) revoked (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2006/3223/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3223/schedule/1)
+[^c-4c34c0262c779d18b70ad425c091ad67]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/3049/schedule/2/paragraph/1) revoked (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2006/3223/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3223/schedule/1)
 
 [^c5099421]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 

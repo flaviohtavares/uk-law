@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Definition of relevant person[^key-413998e5bc36df23a7bdde3992430fd1]
+## 4. Definition of relevant person[^c-413998e5bc36df23a7bdde3992430fd1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ provided that a young person shall not be a relevant person except where he is t
 
 ## Annotations
 
-[^key-413998e5bc36df23a7bdde3992430fd1]: Commencement: Reg. 4 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-413998e5bc36df23a7bdde3992430fd1]: Commencement: Reg. 4 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

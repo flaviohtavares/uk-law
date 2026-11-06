@@ -25,7 +25,7 @@ summary: ''
 - (a) the employed pensioner’s reckonable pay for the purposes of the old service pension, and
 - (b) the annual rate of pay for the old employment at the time it ceased.
 
-This is subject to paragraph (3) and regulations 2.H.6 and 2.H.7[^key-445d130924d92d68c883f39bf45da071].
+This is subject to paragraph (3) and regulations 2.H.6 and 2.H.7[^c-445d130924d92d68c883f39bf45da071].
 
 (2) In this regulation “annual rate of pay” means the sum of—
 
@@ -40,7 +40,7 @@ of a fixed nature, and
   - (i) was payable to the employed pensioner during the period of 12 months ending with the day the old employment ceased, and
   - (ii) formed part of the employed pensioner’s pensionable pay.
 
-(3) The amount to be taken as the employed pensioner’s previous pay must be adjusted in each financial year[^key-97accae9b493c12acb4fe82aa047b7c4] for inflation.
+(3) The amount to be taken as the employed pensioner’s previous pay must be adjusted in each financial year[^c-97accae9b493c12acb4fe82aa047b7c4] for inflation.
 
 This is subject to regulation 2.H.6.
 
@@ -53,6 +53,6 @@ This is subject to regulation 2.H.6.
 
 ## Annotations
 
-[^key-445d130924d92d68c883f39bf45da071]: Textual amendment: Words in [reg. 2.H.5(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.5/1) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [47](https://www.legislation.gov.uk/uksi/2008/2263/regulation/47) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-445d130924d92d68c883f39bf45da071]: Textual amendment: Words in [reg. 2.H.5(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.5/1) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [47](https://www.legislation.gov.uk/uksi/2008/2263/regulation/47) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-97accae9b493c12acb4fe82aa047b7c4]: Textual amendment: Words in [reg. 2.H.5](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.5) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2013/413/regulation/44)
+[^c-97accae9b493c12acb4fe82aa047b7c4]: Textual amendment: Words in [reg. 2.H.5](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.5) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2013/413/regulation/44)

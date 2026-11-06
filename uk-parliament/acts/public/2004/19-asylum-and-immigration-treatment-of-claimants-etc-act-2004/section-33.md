@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Removing asylum seeker to safe country[^key-bf132945f2ddbed2b98386a1e5d9a103]
+## 33. Removing asylum seeker to safe country[^c-bf132945f2ddbed2b98386a1e5d9a103]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf132945f2ddbed2b98386a1e5d9a103]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/19/section/33) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))
+[^c-bf132945f2ddbed2b98386a1e5d9a103]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/19/section/33) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))

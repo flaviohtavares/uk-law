@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Pension credit members[^key-de9627cd01f78d85c2306d9fe62e723a][^key-d083b78bb881c91a953732174fd3bfd5]
+## 80. Pension credit members[^c-de9627cd01f78d85c2306d9fe62e723a][^c-d083b78bb881c91a953732174fd3bfd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de9627cd01f78d85c2306d9fe62e723a]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-de9627cd01f78d85c2306d9fe62e723a]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-d083b78bb881c91a953732174fd3bfd5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/7/section/80) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-d083b78bb881c91a953732174fd3bfd5]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/7/section/80) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

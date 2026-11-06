@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Limited disclosure[^key-cab45e7e8ad99f569b35fdaa141b46bd]
+## 20. Limited disclosure[^c-cab45e7e8ad99f569b35fdaa141b46bd]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ as it thinks just.
 
 ## Annotations
 
-[^key-cab45e7e8ad99f569b35fdaa141b46bd]: Commencement: Rule 20 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-cab45e7e8ad99f569b35fdaa141b46bd]: Commencement: Rule 20 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

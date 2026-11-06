@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The Mayor's periodic report to the Assembly[^key-c947d6041a08b3681c3bfd50404390b6]
+## 3. The Mayor's periodic report to the Assembly[^c-c947d6041a08b3681c3bfd50404390b6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c947d6041a08b3681c3bfd50404390b6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/24/section/3) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-c947d6041a08b3681c3bfd50404390b6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2007/24/section/3) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

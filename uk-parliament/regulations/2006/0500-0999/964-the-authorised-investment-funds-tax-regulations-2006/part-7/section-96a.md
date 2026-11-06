@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Modification of CTA 2009[^key-5b110938c64f65631dda01ef78baa867]
+## 96A. Modification of CTA 2009[^c-5b110938c64f65631dda01ef78baa867]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b110938c64f65631dda01ef78baa867]: Textual amendment: [Reg. 96A](https://www.legislation.gov.uk/uksi/2006/964/regulation/96A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/519)](https://www.legislation.gov.uk/uksi/2012/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/519/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/519/regulation/8)
+[^c-5b110938c64f65631dda01ef78baa867]: Textual amendment: [Reg. 96A](https://www.legislation.gov.uk/uksi/2006/964/regulation/96A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/519)](https://www.legislation.gov.uk/uksi/2012/519), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/519/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2012/519/regulation/8)

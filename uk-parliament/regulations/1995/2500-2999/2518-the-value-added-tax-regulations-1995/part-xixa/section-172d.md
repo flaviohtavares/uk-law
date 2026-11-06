@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172D. Repayment of input tax[^key-30eb849ea500c2377d02d94378419ee4]
+## 172D. Repayment of input tax[^c-30eb849ea500c2377d02d94378419ee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the purchaser shall make an entry in his VAT account in accordance with paragrap
 
 ## Annotations
 
-[^key-30eb849ea500c2377d02d94378419ee4]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/1995/2518/part/19A) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [16](https://www.legislation.gov.uk/uksi/1997/1086/regulation/16)
+[^c-30eb849ea500c2377d02d94378419ee4]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/1995/2518/part/19A) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [16](https://www.legislation.gov.uk/uksi/1997/1086/regulation/16)

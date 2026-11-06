@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Mawr, Llangyfelach, Mynyddbach, and Pontlliw and Tircoed — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-9e199d42e13526255008c5f7a34e6cf7]
+## 15. Mawr, Llangyfelach, Mynyddbach, and Pontlliw and Tircoed — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-9e199d42e13526255008c5f7a34e6cf7]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The part of the community of Llangyfelach shown shaded on Map 10—
 
 ## Annotations
 
-[^key-9e199d42e13526255008c5f7a34e6cf7]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2026/95/article/15) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-9e199d42e13526255008c5f7a34e6cf7]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2026/95/article/15) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

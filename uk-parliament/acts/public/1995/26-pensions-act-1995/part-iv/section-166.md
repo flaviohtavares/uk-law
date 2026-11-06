@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Pensions on divorce etc.[^key-9e9a0af624a8328da3da1367112abcdc]
+## 166. Pensions on divorce etc.[^c-9e9a0af624a8328da3da1367112abcdc]
 
 *Extent: E+W+S*
 
@@ -122,37 +122,37 @@ summary: ''
 
   .
 
-(4) Nothing in the provisions mentioned in subsection (5) applies to a court exercising its powers under section 23 of the [^c2136371]Matrimonial Causes Act 1973 (financial provision in connection with divorce proceedings, etc.) in respect of any benefits under a pension arrangement[^key-927748667c859556aa1373d41d58c119] (within the meaning of section 25B(1) of the Matrimonial Causes Act 1973) which a party to the marriage has or is likely to have.
+(4) Nothing in the provisions mentioned in subsection (5) applies to a court exercising its powers under section 23 of the [^c2136371]Matrimonial Causes Act 1973 (financial provision in connection with divorce proceedings, etc.) in respect of any benefits under a pension arrangement[^c-927748667c859556aa1373d41d58c119] (within the meaning of section 25B(1) of the Matrimonial Causes Act 1973) which a party to the marriage has or is likely to have.
 
-(4A)[^key-c7c0ca7f08437a205514cece44acc8b2] Nothing in the provisions mentioned in subsection (5) applies to a court exercising its powers under Part 6 of Schedule 5 to the Civil Partnership Act 2004 (making of Part 1 orders having regard to pension benefits).
+(4A)[^c-c7c0ca7f08437a205514cece44acc8b2] Nothing in the provisions mentioned in subsection (5) applies to a court exercising its powers under Part 6 of Schedule 5 to the Civil Partnership Act 2004 (making of Part 1 orders having regard to pension benefits).
 
-(5) The provisions referred to in subsections (4) and (4A)[^key-71ed2c56474b09c44370c517a7403a1e] are —
+(5) The provisions referred to in subsections (4) and (4A)[^c-71ed2c56474b09c44370c517a7403a1e] are —
 
-- (a) section 356 of the Armed Forces Act 2006[^key-1f07ab7f34d9d5a7d849ca45235d54ce] or 159(4) and (4A) of the [^c2136375]Pension Schemes Act 1993 (which prevent assignment, or orders being made restraining a person from receiving anything which he is prevented from assigning),
+- (a) section 356 of the Armed Forces Act 2006[^c-1f07ab7f34d9d5a7d849ca45235d54ce] or 159(4) and (4A) of the [^c2136375]Pension Schemes Act 1993 (which prevent assignment, or orders being made restraining a person from receiving anything which he is prevented from assigning),
 - (b) section 91 of this Act,
 - (c) any provision of any enactment (whether passed or made before or after this Act is passed) corresponding to any of the enactments mentioned in paragraphs (a) and (b), and
-- (d) any provision of the arrangement[^key-3002922e203ef9f64288bad0913497f7] in question corresponding to any of those enactments.
+- (d) any provision of the arrangement[^c-3002922e203ef9f64288bad0913497f7] in question corresponding to any of those enactments.
 
 (6) Subsections (3) to (7) of section 25B, and section 25C of the [^c2136376]Matrimonial Causes Act 1973, as inserted by this section, do not affect the powers of the court under section 31 of that Act (variation, discharge, etc.) in relation to any order made before the commencement of this section.
 
 ## Annotations
 
-[^key-9e9a0af624a8328da3da1367112abcdc]: Commencement: S. 166 in force at 27.6.1996 for specified purposes and 1.8.1996 in so far as not already in force by [S.I. 1996/1675](https://www.legislation.gov.uk/uksi/1996/1675), [art. 3](https://www.legislation.gov.uk/uksi/1996/1675/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/1675/article/4))
+[^c-9e9a0af624a8328da3da1367112abcdc]: Commencement: S. 166 in force at 27.6.1996 for specified purposes and 1.8.1996 in so far as not already in force by [S.I. 1996/1675](https://www.legislation.gov.uk/uksi/1996/1675), [art. 3](https://www.legislation.gov.uk/uksi/1996/1675/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/1675/article/4))
 
 [^c2136370]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
 [^c2136371]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
-[^key-927748667c859556aa1373d41d58c119]: Textual amendment: Word in [s. 166(4)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 62(2)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/62/2); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
+[^c-927748667c859556aa1373d41d58c119]: Textual amendment: Word in [s. 166(4)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 62(2)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/62/2); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-c7c0ca7f08437a205514cece44acc8b2]: Textual amendment: S. 166(4A) inserted (5.12.2005) by [The Civil Partnership (Miscellaneous and Consequential Provisions) Order 2005 (S.I. 2005/3029)](https://www.legislation.gov.uk/uksi/2005/3029), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/3029/article/1/2/c), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2005/3029/schedule/1/paragraph/4/a)
+[^c-c7c0ca7f08437a205514cece44acc8b2]: Textual amendment: S. 166(4A) inserted (5.12.2005) by [The Civil Partnership (Miscellaneous and Consequential Provisions) Order 2005 (S.I. 2005/3029)](https://www.legislation.gov.uk/uksi/2005/3029), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/3029/article/1/2/c), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2005/3029/schedule/1/paragraph/4/a)
 
-[^key-71ed2c56474b09c44370c517a7403a1e]: Textual amendment: Words in s. 166(5) substituted (5.12.2005) by [The Civil Partnership (Miscellaneous and Consequential Provisions) Order 2005 (S.I. 2005/3029)](https://www.legislation.gov.uk/uksi/2005/3029), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/3029/article/1/2/c), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2005/3029/schedule/1/paragraph/4/b)
+[^c-71ed2c56474b09c44370c517a7403a1e]: Textual amendment: Words in s. 166(5) substituted (5.12.2005) by [The Civil Partnership (Miscellaneous and Consequential Provisions) Order 2005 (S.I. 2005/3029)](https://www.legislation.gov.uk/uksi/2005/3029), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2005/3029/article/1/2/c), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2005/3029/schedule/1/paragraph/4/b)
 
-[^key-1f07ab7f34d9d5a7d849ca45235d54ce]: Textual amendment: Words in [s. 166(5)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/5/a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 132](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/132); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-1f07ab7f34d9d5a7d849ca45235d54ce]: Textual amendment: Words in [s. 166(5)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/5/a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 132](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/132); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c2136375]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-3002922e203ef9f64288bad0913497f7]: Textual amendment: Word in [s. 166(5)(d)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/5/d) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 62(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/62/3); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
+[^c-3002922e203ef9f64288bad0913497f7]: Textual amendment: Word in [s. 166(5)(d)](https://www.legislation.gov.uk/ukpga/1995/26/section/166/5/d) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 62(3)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/62/3); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
 [^c2136376]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).

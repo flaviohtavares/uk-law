@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55A. Account established after ill-health pension ceases to be payable[^key-bddf5489fdb278fb0c4dd9074e941eba]
+## 55A. Account established after ill-health pension ceases to be payable[^c-bddf5489fdb278fb0c4dd9074e941eba]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If a lower tier ill-health pension ceases to be payable to a person (P) under Pa
 
 ## Annotations
 
-[^key-bddf5489fdb278fb0c4dd9074e941eba]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/ssi/2015/142/regulation/55A) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2017/387/regulation/14)
+[^c-bddf5489fdb278fb0c4dd9074e941eba]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/ssi/2015/142/regulation/55A) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2017/387/regulation/14)

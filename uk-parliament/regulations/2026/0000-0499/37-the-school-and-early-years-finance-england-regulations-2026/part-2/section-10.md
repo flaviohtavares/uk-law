@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Consultation[^key-2669831c17bbb081413b6b69dc00df42]
+## 10. Consultation[^c-2669831c17bbb081413b6b69dc00df42]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2669831c17bbb081413b6b69dc00df42]: Commencement: Reg. 10 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-2669831c17bbb081413b6b69dc00df42]: Commencement: Reg. 10 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00054]: Footnote: For the meaning of “schools forum”, see section 47A(1) of the 1998 Act. Section 47A(1) was inserted by section 43 of the 2002 Act and amended by section 165(2) of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).

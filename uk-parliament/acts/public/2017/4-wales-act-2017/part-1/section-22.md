@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Consultation about cross-border bodies[^key-eeac1225cb5a8285d9718e701847d124]
+## 22. Consultation about cross-border bodies[^c-eeac1225cb5a8285d9718e701847d124]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit section 63 of the Government of Wales Act 2006 (consultation about cross-bo
 
 ## Annotations
 
-[^key-eeac1225cb5a8285d9718e701847d124]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/4/section/22) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)
+[^c-eeac1225cb5a8285d9718e701847d124]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/4/section/22) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/e)

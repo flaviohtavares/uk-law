@@ -33,15 +33,15 @@ is treated for all purposes of the Taxes Acts as being at market value (as respe
 
 (4) That rule is subject to—
 
-- (a)[^key-4c7b5227ea2284784657f84f231fb842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4c7b5227ea2284784657f84f231fb842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 847 (transfers involving other taxes),
-- (c) section 848 (tax-neutral transfers), [^key-1d4b559ab6926ead68b0b029c5e524c1]...
-- (ca)[^key-8908337f8de77d2c9c218ba00f295260] section 848A (assets held for purposes of exempt foreign permanent establishments), [^M_F_6c26f087-240d-4207-8a8e-e5e02fa4ce8b]...
-- (d) section 849 (transfers involving gifts of business assets), [^key-f0fbc6c7da6b458d837d46bcc8717fc1]...[^M_F_6e8c2097-d901-42d7-ef96-0786e078d1a1]
-- (e) section 849A (disincorporation relief: transfer values for post-FA 2002 goodwill) , and[^key-ec791fb13a7740a0ce134b0661e8e3c0]
+- (c) section 848 (tax-neutral transfers), [^c-1d4b559ab6926ead68b0b029c5e524c1]...
+- (ca)[^c-8908337f8de77d2c9c218ba00f295260] section 848A (assets held for purposes of exempt foreign permanent establishments), [^M_F_6c26f087-240d-4207-8a8e-e5e02fa4ce8b]...
+- (d) section 849 (transfers involving gifts of business assets), [^c-f0fbc6c7da6b458d837d46bcc8717fc1]...[^M_F_6e8c2097-d901-42d7-ef96-0786e078d1a1]
+- (e) section 849A (disincorporation relief: transfer values for post-FA 2002 goodwill) , and[^c-ec791fb13a7740a0ce134b0661e8e3c0]
 - (f) sections 900E and 900F (special rules in respect of assets that were pre-FA 2002 assets etc).
 
-(4ZA)[^key-e8bf9d3fd91473068d33e9e7fa93a9fa] But the basic rule does not apply in relation to a transfer if—
+(4ZA)[^c-e8bf9d3fd91473068d33e9e7fa93a9fa] But the basic rule does not apply in relation to a transfer if—
 
 - (a) the transfer is a cross-border transfer, and
 - (b) the transfer is subject to transfer pricing.
@@ -72,7 +72,7 @@ is treated for all purposes of the Taxes Acts as being at market value (as respe
 - (a) where the related party is the transferor, it was used or held for the purposes of the branch or agency immediately before the transfer, or
 - (b) where the related party is the transferee, it was acquired for use by, to be held by or for the purposes of, the branch or agency.
 
-(4A)[^key-88e1d93e2c6a96ad470bfd698b24243a] References in subsection (1) to a related party in relation to a company are to be read as including references to a person in circumstances where the participation condition is met as between that person and the company.
+(4A)[^c-88e1d93e2c6a96ad470bfd698b24243a] References in subsection (1) to a related party in relation to a company are to be read as including references to a person in circumstances where the participation condition is met as between that person and the company.
 
 (4B) References in subsection (4A) to a company include a firm in a case where, for section 1259 purposes, references in subsection (1) to a company are read as references to the firm.
 
@@ -92,7 +92,7 @@ is treated for all purposes of the Taxes Acts as being at market value (as respe
 - “**market value**” means the price the asset might reasonably be expected to fetch on a sale in the open market, and
 - “**the Taxes Acts**” means the enactments relating to income tax, corporation tax or chargeable gains.
 
-(6)[^key-b76b3db52b316c3fe568dec8ebb1f04b] In this section “branch or agency”—
+(6)[^c-b76b3db52b316c3fe568dec8ebb1f04b] In this section “branch or agency”—
 
 - (a) means any factorship, agency, receivership, branch or management, but
 - (b) does not include any person within any of the exemptions under sections 835G to 835K of ITA 2007 (persons who are not UK representatives).
@@ -108,22 +108,22 @@ is treated for all purposes of the Taxes Acts as being at market value (as respe
 
 ## Annotations
 
-[^key-4c7b5227ea2284784657f84f231fb842]: Textual amendment: [S. 845(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/4/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/2), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-4c7b5227ea2284784657f84f231fb842]: Textual amendment: [S. 845(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/4/a) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/2), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
 
-[^key-1d4b559ab6926ead68b0b029c5e524c1]: Textual amendment: Word in s. 845(4)(c) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/7/a), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-1d4b559ab6926ead68b0b029c5e524c1]: Textual amendment: Word in s. 845(4)(c) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/7/a), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
 
-[^key-8908337f8de77d2c9c218ba00f295260]: Textual amendment: S. 845(4)(ca) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 7(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/7/b), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-8908337f8de77d2c9c218ba00f295260]: Textual amendment: S. 845(4)(ca) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 7(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/7/b), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
 
 [^M_F_6c26f087-240d-4207-8a8e-e5e02fa4ce8b]: Textual amendment: Word in s. 845(4)(ca) omitted (with effect in accordance with [s. 61(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/4/a)
 
-[^key-f0fbc6c7da6b458d837d46bcc8717fc1]: Textual amendment: Word in s. 845(4)(d) omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/3/a)
+[^c-f0fbc6c7da6b458d837d46bcc8717fc1]: Textual amendment: Word in s. 845(4)(d) omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/3/a)
 
 [^M_F_6e8c2097-d901-42d7-ef96-0786e078d1a1]: Textual amendment: S. 845(4)(e) and word inserted (with effect in accordance with [s. 61(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/4/b)
 
-[^key-ec791fb13a7740a0ce134b0661e8e3c0]: Textual amendment: S. 845(4)(f) and word inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/3/b)
+[^c-ec791fb13a7740a0ce134b0661e8e3c0]: Textual amendment: S. 845(4)(f) and word inserted (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/3/b)
 
-[^key-e8bf9d3fd91473068d33e9e7fa93a9fa]: Textual amendment: [S. 845(4ZA)-(4ZG)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/4ZA) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/3), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-e8bf9d3fd91473068d33e9e7fa93a9fa]: Textual amendment: [S. 845(4ZA)-(4ZG)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/4ZA) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/3), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
 
-[^key-88e1d93e2c6a96ad470bfd698b24243a]: Textual amendment: S. 845(4A)-(4F) inserted (with effect in accordance with s. 53(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/53/1)
+[^c-88e1d93e2c6a96ad470bfd698b24243a]: Textual amendment: S. 845(4A)-(4F) inserted (with effect in accordance with s. 53(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/53/1)
 
-[^key-b76b3db52b316c3fe568dec8ebb1f04b]: Textual amendment: [S. 845(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/6)[(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/7) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/4), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-b76b3db52b316c3fe568dec8ebb1f04b]: Textual amendment: [S. 845(6)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/6)[(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/845/7) inserted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/4), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)

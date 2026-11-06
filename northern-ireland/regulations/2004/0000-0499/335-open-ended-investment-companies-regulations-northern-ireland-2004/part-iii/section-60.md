@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Official seal for share certificates[^key-1a8f3c3df9c4c92be82c32e77b0b09aa]
+## 60. Official seal for share certificates[^c-1a8f3c3df9c4c92be82c32e77b0b09aa]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a8f3c3df9c4c92be82c32e77b0b09aa]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2004/335/regulation/60) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1a8f3c3df9c4c92be82c32e77b0b09aa]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2004/335/regulation/60) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

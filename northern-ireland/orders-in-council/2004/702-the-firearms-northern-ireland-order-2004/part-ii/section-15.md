@@ -46,10 +46,10 @@ summary: ''
 (6) The Chief Constable shall not grant a visitor's firearm permit as respects any firearm unless—
 
 - (a) there is produced to him a document or copy of same[^M_F_ce8a79a8-36ff-45e9-ecf3-204898410790] which—
-  - (i) has been issued in a member State[^key-cc783445023c7539f4af0599ecf43416] under provisions corresponding to the provisions of this Order for the issue of European firearms passes;
+  - (i) has been issued in a member State[^c-cc783445023c7539f4af0599ecf43416] under provisions corresponding to the provisions of this Order for the issue of European firearms passes;
   - (ii) identifies the firearm as a firearm to which the document or copy of same relates; and
   - (iii) is valid;
-- (b) the applicant shows that the person specified in the application is a person who, by reason of his place of residence or any other circumstances, is not entitled to be issued with such a document in any of the [^key-198d17d78fb23ed67acb26c5859ddeb7]... member States; or
+- (b) the applicant shows that the person specified in the application is a person who, by reason of his place of residence or any other circumstances, is not entitled to be issued with such a document in any of the [^c-198d17d78fb23ed67acb26c5859ddeb7]... member States; or
 - (c) the applicant shows that the person specified in the application requires the permit exclusively in connection with the carrying on of activities in respect of which—
   - (i) that person; or
   - (ii) the person on whose behalf he is proposing to make use of the authorisation conferred by the permit,
@@ -78,9 +78,9 @@ and if, in a case where a document or copy[^M_F_f65b8361-ad2b-4181-e4e4-c49a9a69
 
 [^M_F_ce8a79a8-36ff-45e9-ecf3-204898410790]: Textual amendment: Words in art. 15(6)(a) inserted (29.11.2012) by [The Firearms (Northern Ireland) Order 2004 (Amendment) Regulations 2012 (S.R. 2012/395)](https://www.legislation.gov.uk/nisr/2012/395), [regs. 1](https://www.legislation.gov.uk/nisr/2012/395/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2012/395/regulation/2/a)
 
-[^key-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)
+[^c-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)
 
-[^key-198d17d78fb23ed67acb26c5859ddeb7]: Textual amendment: Word in [art. 15(6)(b)](https://www.legislation.gov.uk/nisi/2004/702/article/15/6/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/4)
+[^c-198d17d78fb23ed67acb26c5859ddeb7]: Textual amendment: Word in [art. 15(6)(b)](https://www.legislation.gov.uk/nisi/2004/702/article/15/6/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/4)
 
 [^M_F_f65b8361-ad2b-4181-e4e4-c49a9a69bfcf]: Textual amendment: Words in art. 15(6) inserted (29.11.2012) by [The Firearms (Northern Ireland) Order 2004 (Amendment) Regulations 2012 (S.R. 2012/395)](https://www.legislation.gov.uk/nisr/2012/395), [regs. 1](https://www.legislation.gov.uk/nisr/2012/395/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2012/395/regulation/2/b)
 

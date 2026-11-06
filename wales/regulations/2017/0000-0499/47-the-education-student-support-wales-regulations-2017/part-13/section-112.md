@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Designated postgraduate courses[^key-d2de2ab9dbe9abb2bd1feb4b70d26af4]
+## 112. Designated postgraduate courses[^c-d2de2ab9dbe9abb2bd1feb4b70d26af4]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) of at least one academic year’s duration; and
   - (ii) in the case of a part-time course which began before 1 September 2014, it is ordinarily possible to complete the course in not more than twice the period ordinarily required to complete the full time equivalent; or
   - (iii) in the case of a part-time course which begins on or after 1 September 2014, it is ordinarily possible to complete the course in not more than four times the period ordinarily required to complete the full time equivalent;
-- (c)[^key-b6ae9039c90c89bab8c28e1f69a909a9] it is wholly provided by an institution in the United Kingdom that was before 1 August 2019 a publicly funded institution or is provided by such an institution in conjunction with an institution outside the United Kingdom;
+- (c)[^c-b6ae9039c90c89bab8c28e1f69a909a9] it is wholly provided by an institution in the United Kingdom that was before 1 August 2019 a publicly funded institution or is provided by such an institution in conjunction with an institution outside the United Kingdom;
 - (d) for a course beginning on or after 1 September 2017 it is substantially provided in the United Kingdom; and
 - (e) it is not a course for the initial training of teachers or a course taken as part of an employment based teacher training scheme.
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not it has entered an agreement with the student to provide the course;
 - (b) a university and any constituent college or institution in the nature of a college of a university is regarded as publicly funded if either the university or the constituent college or institution is publicly funded;
-- (c)[^key-5ae21e221dccf2e21b3f5a571d1f06b9] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
+- (c)[^c-5ae21e221dccf2e21b3f5a571d1f06b9] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
 - (d) a course is substantially provided in the United Kingdom where at least half of the teaching and supervision which comprise the course is provided in the United Kingdom.
 
 (3) For the purposes of paragraph (1)(b)(ii)—
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d2de2ab9dbe9abb2bd1feb4b70d26af4]: Commencement: Reg. 112 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-d2de2ab9dbe9abb2bd1feb4b70d26af4]: Commencement: Reg. 112 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-b6ae9039c90c89bab8c28e1f69a909a9]: Textual amendment: [Reg. 112(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/112/1/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [36(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/36/a)
+[^c-b6ae9039c90c89bab8c28e1f69a909a9]: Textual amendment: [Reg. 112(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/112/1/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [36(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/36/a)
 
-[^key-5ae21e221dccf2e21b3f5a571d1f06b9]: Textual amendment: [Reg. 112(2)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/112/2/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [36(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/36/b)
+[^c-5ae21e221dccf2e21b3f5a571d1f06b9]: Textual amendment: [Reg. 112(2)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/112/2/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [36(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/36/b)

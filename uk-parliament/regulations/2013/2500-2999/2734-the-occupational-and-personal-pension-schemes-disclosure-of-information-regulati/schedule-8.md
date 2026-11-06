@@ -42,7 +42,7 @@ Regulations 23(3), 24(2) and 25(2)
 - (a) the scheme's liabilities are likely to be established, and
 - (b) any assets are likely to be recovered.
 
-**7.** Except in the case of a collective money purchase scheme, either[^key-b82adbaeb110b82fe75d1d86aaab6f95]—
+**7.** Except in the case of a collective money purchase scheme, either[^c-b82adbaeb110b82fe75d1d86aaab6f95]—
 
 - (a) an indication of the extent to which (if at all) the actuarial value of accrued rights or benefits are likely to be reduced, or
 - (b) a statement that there is insufficient information to provide such an indication.
@@ -60,9 +60,9 @@ Regulations 23(3), 24(2) and 25(2)
 **11.** (1) The amount of—
 
 - (a) contributions (before the making of any deductions), including a nil amount, credited to the member under the scheme during the period of 12 months preceding a date specified by the managers of the scheme, and
-- (b)[^key-5e9b8703b145e8c01a6c7e5c380a9002] where the scheme was, at any time before the abolition date, an appropriate scheme the minimum contributions paid by the Secretary of State in respect of the member in that 12 month period that is attributable to section 45(1) of the 1993 Act identifying separately that part of the contributions that is attributable to tax relief on the employee's share of minimum contributions, being the difference between that share and the grossed-up equivalent of that share.
+- (b)[^c-5e9b8703b145e8c01a6c7e5c380a9002] where the scheme was, at any time before the abolition date, an appropriate scheme the minimum contributions paid by the Secretary of State in respect of the member in that 12 month period that is attributable to section 45(1) of the 1993 Act identifying separately that part of the contributions that is attributable to tax relief on the employee's share of minimum contributions, being the difference between that share and the grossed-up equivalent of that share.
 
-(2)[^key-2537de55c538bd8e934f324ed4a8d9d1] In sub-paragraph (1)(b) the expressions “employee’s share” and “grossed-up equivalent” have the meanings given to them by section 202(3) and (4) of the Finance Act 2004 (minimum contributions under pensions legislation).
+(2)[^c-2537de55c538bd8e934f324ed4a8d9d1] In sub-paragraph (1)(b) the expressions “employee’s share” and “grossed-up equivalent” have the meanings given to them by section 202(3) and (4) of the Finance Act 2004 (minimum contributions under pensions legislation).
 
 **12.** At a date specified by the managers of the scheme —
 
@@ -87,10 +87,10 @@ Regulations 23(3), 24(2) and 25(2)
 
 [^c2193121]: Marginal citation: Section 23 was substituted by the 2004 Act, section 36(4).
 
-[^key-b82adbaeb110b82fe75d1d86aaab6f95]: Textual amendment: Words in [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2013/2734/schedule/8/paragraph/7) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(18)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/18)
+[^c-b82adbaeb110b82fe75d1d86aaab6f95]: Textual amendment: Words in [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2013/2734/schedule/8/paragraph/7) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(18)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/18)
 
-[^key-5e9b8703b145e8c01a6c7e5c380a9002]: Textual amendment: Sch. 8 para. 11(1)(b) ceased to have effect (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/2/b)
+[^c-5e9b8703b145e8c01a6c7e5c380a9002]: Textual amendment: Sch. 8 para. 11(1)(b) ceased to have effect (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/2/b)
 
-[^key-2537de55c538bd8e934f324ed4a8d9d1]: Textual amendment: Sch. 8 para. 11(2) ceased to have effect (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/2/b)
+[^c-2537de55c538bd8e934f324ed4a8d9d1]: Textual amendment: Sch. 8 para. 11(2) ceased to have effect (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/2/b)
 
 [^c2193122]: Marginal citation: Section 72A was inserted by the Child Support, Pensions and Social Security Act 2000, section 49(1).

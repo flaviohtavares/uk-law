@@ -35,7 +35,7 @@ summary: ''
 
 (3) The Land Court in making an order under subsection (1) above may determine that any of the expenses of the conveyance of the site and other expenses necessarily incurred by the landlord in relation thereto shall be borne by the crofter or cottar:
 
-[^key-8f1cb681e9f5b82f1e9050ff96dbf1fb]...
+[^c-8f1cb681e9f5b82f1e9050ff96dbf1fb]...
 
 (4) Failing agreement between the parties as to the amount of such expenses, the auditor of the Land Court may, on the application of either party, determine such amount; and may determine that the expenses of taxing such expenses shall be borne by the parties in such proportion as he thinks fit.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c861290]: Textual amendment: Words in s. 15(2)(a)(iv) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/55/2).
 
-[^key-8f1cb681e9f5b82f1e9050ff96dbf1fb]: Textual amendment: Words in s. 15(3) repealed (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [s. 43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3), [sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-8f1cb681e9f5b82f1e9050ff96dbf1fb]: Textual amendment: Words in s. 15(3) repealed (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [s. 43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3), [sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)

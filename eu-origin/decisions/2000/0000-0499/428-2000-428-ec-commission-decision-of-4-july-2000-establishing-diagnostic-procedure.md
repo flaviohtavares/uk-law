@@ -75,7 +75,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** 1. The Secretary of State, with the consent of the Welsh Ministers and the Scottish Ministers[^key-fa29960464991cd9d50f9abfe2629bbf] shall ensure that the confirmation of swine vesicular disease and the differential diagnosis with foot-and-mouth disease are based on:
+**Article 1.** 1. The Secretary of State, with the consent of the Welsh Ministers and the Scottish Ministers[^c-fa29960464991cd9d50f9abfe2629bbf] shall ensure that the confirmation of swine vesicular disease and the differential diagnosis with foot-and-mouth disease are based on:
 
 - (a) the detection of clinical signs of disease;
 - (b) the detection of virus, antigen or genome in samples of epithelium tissue, vesicular fluid or faeces;
@@ -83,9 +83,9 @@ HAS ADOPTED THIS DECISION:
 
 in accordance with the procedures, sampling methods and criteria for evaluation of the results of laboratory tests laid down in the Manual annexed to this Decision.
 
-2.[^key-1796636f8a046244cf9cfbe0353b1285] The Pirbright Institute, Ash Road, Surrey, GU24 ONF may apply modifications to the laboratory tests referred to in the Manual annexed to this Decision or use different tests, provided that an equal sensitivity and specificity can be demonstrated. The sensitivity and specificity of these modified or different tests must be evaluated in the framework of the periodic comparative tests;
+2.[^c-1796636f8a046244cf9cfbe0353b1285] The Pirbright Institute, Ash Road, Surrey, GU24 ONF may apply modifications to the laboratory tests referred to in the Manual annexed to this Decision or use different tests, provided that an equal sensitivity and specificity can be demonstrated. The sensitivity and specificity of these modified or different tests must be evaluated in the framework of the periodic comparative tests;
 
-3.[^key-32982004709757507e37391e222fa0a8] For the purposes of this Decision—
+3.[^c-32982004709757507e37391e222fa0a8] For the purposes of this Decision—
 
 - (a) “**the appropriate Minister**” means—
   - (i) in relation to England, the Secretary of State;
@@ -96,7 +96,7 @@ in accordance with the procedures, sampling methods and criteria for evaluation 
 
 **Article 2.** This Decision shall apply from 1 October 2000.
 
-**Article 3.**[^key-a4ab30b5b8860f800cf60b481e401c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a4ab30b5b8860f800cf60b481e401c12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 4 July 2000.
 
@@ -130,7 +130,7 @@ For the purpose of this Manual the following definitions shall apply:
 
 *Extent: E+W*
 
-3.[^key-84820dfc77f8b2d1116f58923de0548e]
+3.[^c-84820dfc77f8b2d1116f58923de0548e]
 
 In England, the procedures, sampling methods and criteria for the evaluation of the results of laboratory tests must be—
 
@@ -141,11 +141,11 @@ In England, the procedures, sampling methods and criteria for the evaluation of 
 
 ### CHAPTER II — Guidelines for checks on pigs showing clinical signs of swine vesicular disease
 
-[^key-4dca0ba48850863db2d404bc4ca4618d]1.
+[^c-4dca0ba48850863db2d404bc4ca4618d]1.
 
 The appropriate Minister shall ensure that when the presence of swine vesicular disease virus is suspected in a holding, a statistically significant number of pigs are checked by the official veterinarian as quickly as possible to detect the clinical signs of disease referred to in Chapter IX.
 
-[^key-4dca0ba48850863db2d404bc4ca4618d]2.
+[^c-4dca0ba48850863db2d404bc4ca4618d]2.
 
 The appropriate Minister shall ensure that when pigs show clinical signs suggesting swine vesicular disease or foot-and-mouth disease, differential diagnosis by means of appropriate sampling and laboratory investigations is carried out as quickly as possible, in accordance with the provisions referred to in Chapters IV, VII and VIII of this Manual.
 
@@ -167,7 +167,7 @@ The samples must be sent to the laboratory accompanied by appropriate forms, whi
 
 Since any vesicular condition in pigs may be foot and mouth disease, special precautions must be taken for the safe packaging of suspected samples. These precautions must be mainly designed to prevent breakage or leakage of containers and the risk of contamination but are also important to ensure that specimens arrive in a satisfactory state. If wet ice is put inside a package escape of water must be prevented. No containers with samples suspected to contain swine vesicular disease virus must be opened once they leave the infected premises and until they arrive to the laboratory.
 
-[^key-2c4ac4eb765275930c06e04c9c6b82f8]5.
+[^c-2c4ac4eb765275930c06e04c9c6b82f8]5.
 
 Samples suspected to contain swine vesicular disease virus must only be analysed in a laboratory authorised to handle foot-and-mouth disease virus for diagnostic purposes, in accordance with EU-derived domestic legislation on the control of foot-and-mouth disease, unless foot-and-mouth disease has already been ruled out.
 
@@ -175,7 +175,7 @@ Samples suspected to contain swine vesicular disease virus must only be analysed
 
 All samples can be transported at 4 °C if the anticipated transport time to the recipient laboratory is less than 48 hours, or otherwise they must be maintained at a temperature of not more than -20 °C.
 
-7.[^key-704defe84353bc6165036e7b7784050f]
+7.[^c-704defe84353bc6165036e7b7784050f]
 
 Before shipment of samples, the laboratory at the Pirbright Institute must be informed of the details of the date and expected time of arrival by email to enquiries@pirbright.ac.uk.
 
@@ -185,7 +185,7 @@ The following information must also be included on the label: ‘Animal patholog
 
 Should air freight be necessary, collection of consignments at Heathrow or Gatwick airport to be made by personnel from the Institute. Transportation of samples must be in accordance with the instructions laid down by the Institute.
 
-[^key-63e6b2da120325544e45808109e7170b]8.
+[^c-63e6b2da120325544e45808109e7170b]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -233,13 +233,13 @@ These disinfectants must be handled with care.
 
 ### CHAPTER V — Sampling procedures for swine vesicular disease serosurveillance
 
-[^key-57071eb58e2ba270e328d313b5fb5962][^key-f8d7bb13f61dfe57d1903dc616f13efb]1.
+[^c-57071eb58e2ba270e328d313b5fb5962][^c-f8d7bb13f61dfe57d1903dc616f13efb]1.
 
 When sero-surveillance is carried out with the following purposes:
 
 - ((a)) for surveillance in holdings where there is no evidence or suspicion that the disease might be present;
 - ((b)) for surveillance at the slaughterhouse, market, collecting centre or similar place by routine serological sampling;
-- ((c)) as non-discriminatory surveillance on pigs received from [^key-57071eb58e2ba270e328d313b5fb5962]... Member States at the importing holding,
+- ((c)) as non-discriminatory surveillance on pigs received from [^c-57071eb58e2ba270e328d313b5fb5962]... Member States at the importing holding,
 
 blood samples must be collected for serological testing from pigs.
 
@@ -268,7 +268,7 @@ In case a single seropositive pig is detected on a holding following the surveil
   - the suspect pig,
   - in-contact pigs living in the same and in adjacent pens of the suspect pig; these pigs must be sampled in such a way to detect 50 % prevalence of seroconversion with 95 % confidence in the pen.
 
-[^key-393164116858480ba6d9c2171d0e9756]2.
+[^c-393164116858480ba6d9c2171d0e9756]2.
 
 However, the competent authority may decide to lift the measures referred to in (1)(a) if:
 
@@ -316,7 +316,7 @@ Without prejudice to the measures referred to in Article 9 of Directive 92/119/E
 - ((c)) a check is carried out in the holding of origin of these pigs in accordance with the provisions referred to in Chapter II(1); and
 - ((d)) blood samples are collected for serological testing from the pigs in the holding of origin of the seropositive pigs, in accordance with the provisions referred to in Chapter V(2).
 
-[^key-6983ab98dd91f287082ef9aa639196a2]6.
+[^c-6983ab98dd91f287082ef9aa639196a2]6.
 
 However, the competent authority may decide to lift the measures referred to in 5(b) if:
 
@@ -443,9 +443,9 @@ C.
 
 Application of serological tests and evaluation of results
 
-[^key-4695407e7213b1d248aafc40dca1cd01][^key-6650af8f400763b8f175a46f19f05c68]1.
+[^c-4695407e7213b1d248aafc40dca1cd01][^c-6650af8f400763b8f175a46f19f05c68]1.
 
-The VN test and the ELISA are the recommended serological tests. Chapter X lists the reference sera, which are available from the National reference laboratory in order that standardised serological tests are carried out [^key-6650af8f400763b8f175a46f19f05c68]....
+The VN test and the ELISA are the recommended serological tests. Chapter X lists the reference sera, which are available from the National reference laboratory in order that standardised serological tests are carried out [^c-6650af8f400763b8f175a46f19f05c68]....
 
 The VN test must be considered as the reference test, but has the disadvantage that it takes 2 to 3 days to complete and requires tissue culture facilities.
 
@@ -527,37 +527,37 @@ Affected pigs may excrete virus from the nose and mouth and in the faeces up to 
 
 [^f00001]: Footnote: OJ L 62, 15.3.1993, p. 69.
 
-[^key-fa29960464991cd9d50f9abfe2629bbf]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2000/428/article/1/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa29960464991cd9d50f9abfe2629bbf]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2000/428/article/1/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1796636f8a046244cf9cfbe0353b1285]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2000/428/article/1/2) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1796636f8a046244cf9cfbe0353b1285]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2000/428/article/1/2) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32982004709757507e37391e222fa0a8]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2000/428/article/1/3) inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/c) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32982004709757507e37391e222fa0a8]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eudn/2000/428/article/1/3) inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/2/c) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4ab30b5b8860f800cf60b481e401c12]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2000/428/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4ab30b5b8860f800cf60b481e401c12]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2000/428/article/3) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-84820dfc77f8b2d1116f58923de0548e]: Textual amendment: Annex Ch. 1 para. 3 inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2026/475/article/4/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/4/2/a)
+[^c-84820dfc77f8b2d1116f58923de0548e]: Textual amendment: Annex Ch. 1 para. 3 inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2026/475/article/4/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/4/2/a)
 
-[^key-4dca0ba48850863db2d404bc4ca4618d]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/2000/428/annex/chapter/II) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dca0ba48850863db2d404bc4ca4618d]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/2000/428/annex/chapter/II) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c4ac4eb765275930c06e04c9c6b82f8]: Textual amendment: Words in Annex Ch. 3 para. 5 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c4ac4eb765275930c06e04c9c6b82f8]: Textual amendment: Words in Annex Ch. 3 para. 5 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-704defe84353bc6165036e7b7784050f]: Textual amendment: [Annex Ch. 3 para. 7](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/7) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-704defe84353bc6165036e7b7784050f]: Textual amendment: [Annex Ch. 3 para. 7](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/7) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63e6b2da120325544e45808109e7170b]: Textual amendment: [Annex Ch. 3 para. 8](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/8) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63e6b2da120325544e45808109e7170b]: Textual amendment: [Annex Ch. 3 para. 8](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/8) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57071eb58e2ba270e328d313b5fb5962]: Textual amendment: Word in [Annex Ch 5 para. 1(c)](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/1/c) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57071eb58e2ba270e328d313b5fb5962]: Textual amendment: Word in [Annex Ch 5 para. 1(c)](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/1/c) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f8d7bb13f61dfe57d1903dc616f13efb]: Textual amendment: Words in [Annex Ch 5 para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8d7bb13f61dfe57d1903dc616f13efb]: Textual amendment: Words in [Annex Ch 5 para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-393164116858480ba6d9c2171d0e9756]: Textual amendment: Word in [Annex Ch. 6 para. 2 proviso](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/2/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-393164116858480ba6d9c2171d0e9756]: Textual amendment: Word in [Annex Ch. 6 para. 2 proviso](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/2/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6983ab98dd91f287082ef9aa639196a2]: Textual amendment: Word in [Annex Ch. 6 para. 6 proviso](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/6/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6983ab98dd91f287082ef9aa639196a2]: Textual amendment: Word in [Annex Ch. 6 para. 6 proviso](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/paragraph/6/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/e/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Positive ELISA results are associated with the presence of at least 105 TCID50 (tissue culture infectious doses) of virus in the sample.
 
-[^key-4695407e7213b1d248aafc40dca1cd01]: Textual amendment: Words in [Annex Ch. 8 Section C para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/section/C) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(f)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4695407e7213b1d248aafc40dca1cd01]: Textual amendment: Words in [Annex Ch. 8 Section C para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/section/C) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(f)(i)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6650af8f400763b8f175a46f19f05c68]: Textual amendment: Words in [Annex Ch. 8 Section C para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/section/C) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6650af8f400763b8f175a46f19f05c68]: Textual amendment: Words in [Annex Ch. 8 Section C para. 1](https://www.legislation.gov.uk/eudn/2000/428/annex/Ch/section/C) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [6(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/6/4/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: A small proportion of singleton reactors can be detected by any of the current serological tests for swine vesicular disease. The factors responsible for singleton reactors are unknown. Serological cross-reactivity with swine vesicular disease virus might arise due to infection with another, as yet unidentified, picornavirus or may be due to other non-specific factors present in the serum.
 

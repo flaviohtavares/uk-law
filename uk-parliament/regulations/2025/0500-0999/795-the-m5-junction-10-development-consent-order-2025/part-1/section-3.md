@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication of legislative provisions[^key-ef3328448ec6542d24d45064a0c4365b]
+## 3. Disapplication of legislative provisions[^c-ef3328448ec6542d24d45064a0c4365b]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ The following provisions do not apply in relation to the construction of any wor
 
 ## Annotations
 
-[^key-ef3328448ec6542d24d45064a0c4365b]: Commencement: Art. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-ef3328448ec6542d24d45064a0c4365b]: Commencement: Art. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00031]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and paragraph 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 

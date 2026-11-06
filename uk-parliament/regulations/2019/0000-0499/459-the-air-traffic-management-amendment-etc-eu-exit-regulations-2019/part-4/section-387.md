@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 387. Commission Implementing Decision (EU) 2016/2296[^key-4ec2f629bf85f179f668ba674a74d097]
+## 387. Commission Implementing Decision (EU) 2016/2296[^c-4ec2f629bf85f179f668ba674a74d097]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2016/2296 of 16 December 2016 setting up t
 
 ## Annotations
 
-[^key-4ec2f629bf85f179f668ba674a74d097]: Commencement: Reg. 387 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4ec2f629bf85f179f668ba674a74d097]: Commencement: Reg. 387 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) Regulations 2009 (revoked)[^key-aa27f064daf62bdffeb85c08e9294047]
+The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) Regulations 2009 (revoked)[^c-aa27f064daf62bdffeb85c08e9294047]
 
 Made
 
@@ -45,7 +45,7 @@ Coming into force
 
 20 March 2009
 
-[^key-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -58,14 +58,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa27f064daf62bdffeb85c08e9294047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa27f064daf62bdffeb85c08e9294047]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-aa27f064daf62bdffeb85c08e9294047]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

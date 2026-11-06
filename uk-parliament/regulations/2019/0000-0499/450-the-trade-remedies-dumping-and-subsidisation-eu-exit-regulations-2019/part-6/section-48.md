@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Acceptance or rejection of information[^key-85d45ead3e48fc1dca47168fef5bf32f]
+## 48. Acceptance or rejection of information[^c-85d45ead3e48fc1dca47168fef5bf32f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85d45ead3e48fc1dca47168fef5bf32f]: Commencement: Reg. 48 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-85d45ead3e48fc1dca47168fef5bf32f]: Commencement: Reg. 48 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

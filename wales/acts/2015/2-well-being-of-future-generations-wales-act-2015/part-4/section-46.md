@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Modifications of enactments[^key-f9504b1c2433f4d9e34d17565ad6cd80]
+## 46. Modifications of enactments[^c-f9504b1c2433f4d9e34d17565ad6cd80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 contains amendments and repeals in consequence of the provisions of t
 
 ## Annotations
 
-[^key-f9504b1c2433f4d9e34d17565ad6cd80]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2015/2/section/46) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-f9504b1c2433f4d9e34d17565ad6cd80]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2015/2/section/46) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

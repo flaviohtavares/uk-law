@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Vacancy (contributory members)[^key-b380c3a2536a20ed9df01b607afdf2f3]
+## 127. Vacancy (contributory members)[^c-b380c3a2536a20ed9df01b607afdf2f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.164 of the 1986 Rules.
 
 ## Annotations
 
-[^key-b380c3a2536a20ed9df01b607afdf2f3]: Commencement: Rule 127 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-b380c3a2536a20ed9df01b607afdf2f3]: Commencement: Rule 127 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

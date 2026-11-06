@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.46A. Expenses of voluntary arrangement[^key-5cfcc364904166241ce7c21ef7b3ed1f]
+## 6.46A. Expenses of voluntary arrangement[^c-5cfcc364904166241ce7c21ef7b3ed1f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a bankruptcy order is made on a debtor’s petition and there is at the ti
 
 ## Annotations
 
-[^key-5cfcc364904166241ce7c21ef7b3ed1f]: Textual amendment: Rule 6.46A inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 102](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/102)
+[^c-5cfcc364904166241ce7c21ef7b3ed1f]: Textual amendment: Rule 6.46A inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 102](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/102)

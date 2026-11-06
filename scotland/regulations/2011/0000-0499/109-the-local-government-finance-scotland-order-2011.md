@@ -47,29 +47,29 @@ The Scottish Ministers make the following Order in exercise of powers conferred 
 
 In accordance with paragraph 2(2) of that Schedule they have consulted with such associations of local authorities as appear to them to be appropriate.
 
-## 1. Citation and commencement[^key-84942004f087d5b2be76011737b75217]
+## 1. Citation and commencement[^c-84942004f087d5b2be76011737b75217]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2011 and comes into force on the day after the day on which it is approved by a resolution of the Scottish Parliament.
 
-## 2. Revenue support grant for 2011-2012[^key-618b6498e0211db6d03685ab1e1141ee]
+## 2. Revenue support grant for 2011-2012[^c-618b6498e0211db6d03685ab1e1141ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2011-2012[^key-cbe8321dcee912cab4c4f3a835c7ab7b]
+## 3. Distribution of non-domestic rate income for 2011-2012[^c-cbe8321dcee912cab4c4f3a835c7ab7b]
 
-(1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of Schedule 12 to the Local Government Finance Act 1992 in respect of the financial year 2011-2012 is £2,182,000,000[^key-b98eaf94094659192861e831a47e1f9f].
+(1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of Schedule 12 to the Local Government Finance Act 1992 in respect of the financial year 2011-2012 is £2,182,000,000[^c-b98eaf94094659192861e831a47e1f9f].
 
 (2) The local authorities among whom the distributable amount of non‑domestic rate income is distributed in respect of the financial year 2011-2012 are specified in column 1 of Schedule 1.
 
 (3) The amount of non‑domestic rate income distributed to each local authority specified in column 1 of Schedule 1 in respect of the financial year 2011-2012 shall be that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that Schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2010-2011[^key-546c6a3fdf0be03dc8e82a4ef168bf48]
+## 4. Revenue support grant for 2010-2011[^c-546c6a3fdf0be03dc8e82a4ef168bf48]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2010-2011 are specified in column 1 of Schedule 2.
 
 (2) The amount of the revenue support grant payable to each local authority specified in column 1 of Schedule 2 in respect of the financial year 2010-2011 shall be the amount redetermined in relation to that local authority set out in column 2 of that Schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-aa6364b7a1bf15951e503980cd63e93f]
+## 5. Revocations[^c-aa6364b7a1bf15951e503980cd63e93f]
 
 Article 2 of, and column 2 of Schedule 1 to the Local Government Finance (Scotland) Order 2010[^f00002] (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2010-2011) are revoked.
 
@@ -83,7 +83,7 @@ Edinburgh
 
 27th January 2011
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2011-2012[^key-dcc7b73425ccc19dcda01fa3a9916cd7]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2011-2012[^c-dcc7b73425ccc19dcda01fa3a9916cd7]
 
 <table>
 <thead>
@@ -127,9 +127,9 @@ Edinburgh
 </tbody>
 </table>
 
-[^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50][^key-55711ea60ba86cc925b8a4ae0b817d50]
+[^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50][^c-55711ea60ba86cc925b8a4ae0b817d50]
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2010-2011[^key-4093689b7f5ba42334bedba0892aa271]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2010-2011[^c-4093689b7f5ba42334bedba0892aa271]
 
 Article 4
 
@@ -190,22 +190,22 @@ This Order—
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain Treasury consent was removed by section 55 of that Act.
 
-[^key-84942004f087d5b2be76011737b75217]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-84942004f087d5b2be76011737b75217]: Commencement: Art. 1 comes into force in accordance with art. 1
 
-[^key-618b6498e0211db6d03685ab1e1141ee]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2011/109/article/2) revoked (10.2.2012) by [The Local Government Finance (Scotland) Order 2012 (S.S.I. 2012/41)](https://www.legislation.gov.uk/ssi/2012/41), [arts. 1](https://www.legislation.gov.uk/ssi/2012/41/article/1), [5](https://www.legislation.gov.uk/ssi/2012/41/article/5)
+[^c-618b6498e0211db6d03685ab1e1141ee]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2011/109/article/2) revoked (10.2.2012) by [The Local Government Finance (Scotland) Order 2012 (S.S.I. 2012/41)](https://www.legislation.gov.uk/ssi/2012/41), [arts. 1](https://www.legislation.gov.uk/ssi/2012/41/article/1), [5](https://www.legislation.gov.uk/ssi/2012/41/article/5)
 
-[^key-cbe8321dcee912cab4c4f3a835c7ab7b]: Commencement: Art. 3 comes into force in accordance with art. 1
+[^c-cbe8321dcee912cab4c4f3a835c7ab7b]: Commencement: Art. 3 comes into force in accordance with art. 1
 
-[^key-b98eaf94094659192861e831a47e1f9f]: Textual amendment: Sum in [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/109/article/3/1) substituted (17.3.2011) by [The Local Government Finance (Scotland) Amendment (No. 2) Order 2011 (S.S.I. 2011/219)](https://www.legislation.gov.uk/ssi/2011/219), [arts. 1](https://www.legislation.gov.uk/ssi/2011/219/article/1), [2](https://www.legislation.gov.uk/ssi/2011/219/article/2)
+[^c-b98eaf94094659192861e831a47e1f9f]: Textual amendment: Sum in [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/109/article/3/1) substituted (17.3.2011) by [The Local Government Finance (Scotland) Amendment (No. 2) Order 2011 (S.S.I. 2011/219)](https://www.legislation.gov.uk/ssi/2011/219), [arts. 1](https://www.legislation.gov.uk/ssi/2011/219/article/1), [2](https://www.legislation.gov.uk/ssi/2011/219/article/2)
 
-[^key-546c6a3fdf0be03dc8e82a4ef168bf48]: Commencement: Art. 4 comes into force in accordance with art. 1
+[^c-546c6a3fdf0be03dc8e82a4ef168bf48]: Commencement: Art. 4 comes into force in accordance with art. 1
 
-[^key-aa6364b7a1bf15951e503980cd63e93f]: Commencement: Art. 5 comes into force in accordance with art. 1
+[^c-aa6364b7a1bf15951e503980cd63e93f]: Commencement: Art. 5 comes into force in accordance with art. 1
 
 [^f00002]: Footnote: [S.S.I. 2010/46](https://www.legislation.gov.uk/ssi/2010/46); Schedule 1 was amended by [S.S.I. 2010/154](https://www.legislation.gov.uk/ssi/2010/154).
 
-[^key-dcc7b73425ccc19dcda01fa3a9916cd7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2011/109/schedule/1) substituted (17.3.2011) by [The Local Government Finance (Scotland) Amendment Order 2011 (S.S.I. 2011/218)](https://www.legislation.gov.uk/ssi/2011/218), [art. 1](https://www.legislation.gov.uk/ssi/2011/218/article/1), [sch.](https://www.legislation.gov.uk/ssi/2011/218/schedule)
+[^c-dcc7b73425ccc19dcda01fa3a9916cd7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2011/109/schedule/1) substituted (17.3.2011) by [The Local Government Finance (Scotland) Amendment Order 2011 (S.S.I. 2011/218)](https://www.legislation.gov.uk/ssi/2011/218), [art. 1](https://www.legislation.gov.uk/ssi/2011/218/article/1), [sch.](https://www.legislation.gov.uk/ssi/2011/218/schedule)
 
-[^key-55711ea60ba86cc925b8a4ae0b817d50]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2011/109/schedule/1) revoked (10.2.2012) by [The Local Government Finance (Scotland) Order 2012 (S.S.I. 2012/41)](https://www.legislation.gov.uk/ssi/2012/41), [arts. 1](https://www.legislation.gov.uk/ssi/2012/41/article/1), [5](https://www.legislation.gov.uk/ssi/2012/41/article/5)
+[^c-55711ea60ba86cc925b8a4ae0b817d50]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2011/109/schedule/1) revoked (10.2.2012) by [The Local Government Finance (Scotland) Order 2012 (S.S.I. 2012/41)](https://www.legislation.gov.uk/ssi/2012/41), [arts. 1](https://www.legislation.gov.uk/ssi/2012/41/article/1), [5](https://www.legislation.gov.uk/ssi/2012/41/article/5)
 
-[^key-4093689b7f5ba42334bedba0892aa271]: Commencement: Sch. 2 comes into force in accordance with art. 1
+[^c-4093689b7f5ba42334bedba0892aa271]: Commencement: Sch. 2 comes into force in accordance with art. 1

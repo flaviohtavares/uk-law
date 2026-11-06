@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where the rent payable for any dwelling has been entered in the register under section 79 or 79A[^key-bf5993166d14690994d87049938ce0fd] of this Act the lessor or the lessee . . . [^c16039701] may refer the case to the appropriate[^key-73773c4cd93825eeb4b9af2ef66404fe] tribunal for reconsideration of the rent so entered.
+(1) Where the rent payable for any dwelling has been entered in the register under section 79 or 79A[^c-bf5993166d14690994d87049938ce0fd] of this Act the lessor or the lessee . . . [^c16039701] may refer the case to the appropriate[^c-73773c4cd93825eeb4b9af2ef66404fe] tribunal for reconsideration of the rent so entered.
 
-(2) Where the rent under a restricted contract has been registered under section 79 or 79A[^key-136dff75e3acea54274d7639bfbe922a] of this Act, the appropriate tribunal[^key-269a4e04e8eed161d384883523cad47b] shall not be required to entertain a reference, made otherwise than by the lessor and the lessee jointly, for the registration of a different rent for the dwelling concerned before the expiry of the period of 2 years[^c16039711] beginning on the date on which the rent was last considered by the tribunal, except on the ground that, since that date, there has been such a change in—
+(2) Where the rent under a restricted contract has been registered under section 79 or 79A[^c-136dff75e3acea54274d7639bfbe922a] of this Act, the appropriate tribunal[^c-269a4e04e8eed161d384883523cad47b] shall not be required to entertain a reference, made otherwise than by the lessor and the lessee jointly, for the registration of a different rent for the dwelling concerned before the expiry of the period of 2 years[^c16039711] beginning on the date on which the rent was last considered by the tribunal, except on the ground that, since that date, there has been such a change in—
 
 - (a) the condition of the dwelling,
 - (b) the furniture or services provided,
@@ -41,15 +41,15 @@ as to make the registered rent no longer a reasonable rent.
 
 ## Annotations
 
-[^key-bf5993166d14690994d87049938ce0fd]: Textual amendment: Words in s. 80(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(a)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/a/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-bf5993166d14690994d87049938ce0fd]: Textual amendment: Words in s. 80(1) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(a)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/a/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16039701]: Textual amendment: Words repealed by [Housing Act 1988 (c. 50, SIF 61, 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/140/2), [Sch. 18](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18)
 
-[^key-73773c4cd93825eeb4b9af2ef66404fe]: Textual amendment: Word in s. 80(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/a/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-73773c4cd93825eeb4b9af2ef66404fe]: Textual amendment: Word in s. 80(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/a/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-136dff75e3acea54274d7639bfbe922a]: Textual amendment: Words in s. 80(2) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(b)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/b/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-136dff75e3acea54274d7639bfbe922a]: Textual amendment: Words in s. 80(2) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(b)(i)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/b/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-269a4e04e8eed161d384883523cad47b]: Textual amendment: Words in s. 80(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-269a4e04e8eed161d384883523cad47b]: Textual amendment: Words in s. 80(2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 23(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/23/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16039711]: Textual amendment: Words substituted with saving by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 70](https://www.legislation.gov.uk/ukpga/1980/51/section/70)
 

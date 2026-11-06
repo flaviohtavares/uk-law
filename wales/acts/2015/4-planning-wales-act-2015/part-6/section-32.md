@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Power to decline to determine retrospective application[^c22542881][^key-a9c36d81627e91b077ee1fdc5c1b2595]
+## 32. Power to decline to determine retrospective application[^c22542881][^c-a9c36d81627e91b077ee1fdc5c1b2595]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 70C of TCPA 1990 (power to decline to determine retrospective applica
 
 [^c22542881]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2015/4/section/32) partly in force; [s. 32](https://www.legislation.gov.uk/anaw/2015/4/section/32) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-a9c36d81627e91b077ee1fdc5c1b2595]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2015/4/section/32) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 11](https://www.legislation.gov.uk/wsi/2016/52/article/11))
+[^c-a9c36d81627e91b077ee1fdc5c1b2595]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2015/4/section/32) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 11](https://www.legislation.gov.uk/wsi/2016/52/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20D. Liability for charges[^key-a118cebea8809c4007699ac34a29dade]
+## 20D. Liability for charges[^c-a118cebea8809c4007699ac34a29dade]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a118cebea8809c4007699ac34a29dade]: Textual amendment: Ss. 20C, 20D inserted (10.6.2013 for specified purposes, 1.1.2017 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 33(2)](https://www.legislation.gov.uk/asp/2013/5/section/33/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2016/327](https://www.legislation.gov.uk/ssi/2016/327), [art. 2](https://www.legislation.gov.uk/ssi/2016/327/article/2)
+[^c-a118cebea8809c4007699ac34a29dade]: Textual amendment: Ss. 20C, 20D inserted (10.6.2013 for specified purposes, 1.1.2017 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 33(2)](https://www.legislation.gov.uk/asp/2013/5/section/33/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2016/327](https://www.legislation.gov.uk/ssi/2016/327), [art. 2](https://www.legislation.gov.uk/ssi/2016/327/article/2)

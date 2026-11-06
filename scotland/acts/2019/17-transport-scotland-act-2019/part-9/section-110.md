@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Inspection functions[^key-8338ed40a748326736c158d39bda7f67]
+## 110. Inspection functions[^c-8338ed40a748326736c158d39bda7f67]
 
 *Extent: S*
 
@@ -164,4 +164,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8338ed40a748326736c158d39bda7f67]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2019/17/section/110) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-8338ed40a748326736c158d39bda7f67]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2019/17/section/110) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

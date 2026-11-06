@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, in exercise of the powers conferred by sections 3(1) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and interpretation[^key-6e878fc11905bfdcc002abe452e8fbe7]
+## 1. Citation, commencement and interpretation[^c-6e878fc11905bfdcc002abe452e8fbe7]
 
 (1) This Order may be cited as the Shrimp Fishing Nets Order (Northern Ireland) 2005 and shall come into operation on 22nd August 2005.
 
 (2) This Order shall apply to Northern Ireland fishing boats in the Northern Ireland zone and Northern Ireland fishing boats outside British fishery limits.
 
-## 2. Interpretation[^key-307ec1c9883bd910580771e7bb5e8358]
+## 2. Interpretation[^c-307ec1c9883bd910580771e7bb5e8358]
 
 (1) In this Order:
 
@@ -55,11 +55,11 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 - “Northern Ireland fishing boat” means a vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00003] and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging;
 - “Northern Ireland zone” means the sea within British fishery limits which is adjacent to Northern Ireland.
 
-(2) For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with [Commission Regulation (EC) No. 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517)[^key-ed9398c16a2cd84029c930929f9230c8] laying down detailed rules for the implementation of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets;
+(2) For the purposes of this Order, the mesh of a net or netting shall be measured in accordance with [Commission Regulation (EC) No. 517/2008](https://www.legislation.gov.uk/european/regulation/2008/0517)[^c-ed9398c16a2cd84029c930929f9230c8] laying down detailed rules for the implementation of Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets;
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^key-13c857f6784f63d2c9cc735e49123bb3]
+## 3. Prohibition on fishing for shrimps without a separator trawl or sorting grid[^c-13c857f6784f63d2c9cc735e49123bb3]
 
 A Northern Ireland fishing boat shall not carry or deploy a net, whose mesh measures between 16 and 31 millimetres unless –
 
@@ -72,7 +72,7 @@ A Northern Ireland fishing boat shall not carry or deploy a net, whose mesh meas
 - (c) no sea fish have been **retained on board the boat**; or
 - (d)[^M_F_12c0ac05-9d12-406d-cea7-b53ed20dbb59] where sea fish have been caught, the total catch retained on board should comprise of no more than 5% of live weight of common shrimps (Crangon spp), Aesop shrimps (Pandalus montagui) or a combination of the two.
 
-## 4. Powers of British sea-fishery officers[^key-79e0ce1bba3c4ec920b1b8e86343d9ec]
+## 4. Powers of British sea-fishery officers[^c-79e0ce1bba3c4ec920b1b8e86343d9ec]
 
 (1) For the purposes of enforcing this Order, a British sea-fishery officer may exercise the powers conferred by this Article in relation to a Northern Ireland fishing boat in the Northern Ireland zone and a Northern Ireland fishing boat outside British fishery limits.
 
@@ -118,18 +118,18 @@ Additionally the Order confers powers of enforcement on British sea fisheries of
 
 [^f00002]: Footnote: By S.I. [2002/970](https://www.legislation.gov.uk/uksi/2002/970) Article 3(1) and Schedule 1, paragraph 3(1)(b) and (m) and (2)
 
-[^key-6e878fc11905bfdcc002abe452e8fbe7]: Commencement: Art. 1 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+[^c-6e878fc11905bfdcc002abe452e8fbe7]: Commencement: Art. 1 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
 
-[^key-307ec1c9883bd910580771e7bb5e8358]: Commencement: Art. 2 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+[^c-307ec1c9883bd910580771e7bb5e8358]: Commencement: Art. 2 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-ed9398c16a2cd84029c930929f9230c8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisr/2005/349/article/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/3)
+[^c-ed9398c16a2cd84029c930929f9230c8]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisr/2005/349/article/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/3)
 
 [^f00006]: Footnote: [1954. c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-13c857f6784f63d2c9cc735e49123bb3]: Commencement: Art. 3 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+[^c-13c857f6784f63d2c9cc735e49123bb3]: Commencement: Art. 3 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
 
 [^M_F_12c0ac05-9d12-406d-cea7-b53ed20dbb59]: Textual amendment: Words in Art. 3 substituted 31.1.2008 by[Shrimp Fishing Nets (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/499)](https://www.legislation.gov.uk/nisr/2007/499/contents/made), [article. 1](https://www.legislation.gov.uk/nisr/2007/499/article/1/made), [2](https://www.legislation.gov.uk/nisr/2007/499/article/2/made)
 
-[^key-79e0ce1bba3c4ec920b1b8e86343d9ec]: Commencement: Art. 4 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)
+[^c-79e0ce1bba3c4ec920b1b8e86343d9ec]: Commencement: Art. 4 in operation at 22.8.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/349/article/1/1)

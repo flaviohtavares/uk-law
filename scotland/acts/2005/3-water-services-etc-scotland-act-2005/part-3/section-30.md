@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Control of water from coal mines[^key-0c4099ffc60404fd4a0115286c5d54cd]
+## 30. Control of water from coal mines[^c-0c4099ffc60404fd4a0115286c5d54cd]
 
 *Extent: S*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c4099ffc60404fd4a0115286c5d54cd]: Commencement: S. 30 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-0c4099ffc60404fd4a0115286c5d54cd]: Commencement: S. 30 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

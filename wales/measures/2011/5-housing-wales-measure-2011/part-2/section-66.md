@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Award[^key-703fe6be70f31046182acae8e4d1954a]
+## 66. Award[^c-703fe6be70f31046182acae8e4d1954a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 50P of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-703fe6be70f31046182acae8e4d1954a]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/5/section/66) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-703fe6be70f31046182acae8e4d1954a]: Commencement: [S. 66](https://www.legislation.gov.uk/mwa/2011/5/section/66) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

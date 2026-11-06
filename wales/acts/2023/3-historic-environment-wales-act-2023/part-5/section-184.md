@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. Appeal to High Court against decision relating to enforcement notice[^key-94f006cacdfc5ba494abadd6f96233c1][^key-aacbb27c09abd5cb404c7e8e2b9da9c8]
+## 184. Appeal to High Court against decision relating to enforcement notice[^c-94f006cacdfc5ba494abadd6f96233c1][^c-aacbb27c09abd5cb404c7e8e2b9da9c8]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94f006cacdfc5ba494abadd6f96233c1]: Commencement: S. 184 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-94f006cacdfc5ba494abadd6f96233c1]: Commencement: S. 184 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-aacbb27c09abd5cb404c7e8e2b9da9c8]: Commencement: [S. 184](https://www.legislation.gov.uk/asc/2023/3/section/184) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-aacbb27c09abd5cb404c7e8e2b9da9c8]: Commencement: [S. 184](https://www.legislation.gov.uk/asc/2023/3/section/184) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

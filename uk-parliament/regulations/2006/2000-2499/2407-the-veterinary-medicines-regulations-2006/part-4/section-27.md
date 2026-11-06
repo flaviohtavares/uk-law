@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Supply of an unauthorised veterinary medicinal product[^key-36e27e71035f76d5f138ceb6adaf27ed]
+## 27. Supply of an unauthorised veterinary medicinal product[^c-36e27e71035f76d5f138ceb6adaf27ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36e27e71035f76d5f138ceb6adaf27ed]: Commencement: Reg. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-36e27e71035f76d5f138ceb6adaf27ed]: Commencement: Reg. 27 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

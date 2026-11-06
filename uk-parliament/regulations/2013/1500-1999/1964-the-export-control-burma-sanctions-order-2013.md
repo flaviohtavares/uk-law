@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Burma Sanctions) Order 2013 (revoked)[^key-36e8fb571ee259d68f8f910fc8df24f3]
+The Export Control (Burma Sanctions) Order 2013 (revoked)[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 Made
 
@@ -46,55 +46,55 @@ Coming into force
 
 28th August 2013
 
-[^key-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Application[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 1. Citation, Commencement and Application[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 2. Revocations[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 3. Interpretation[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences related to the sale, supply and transfer of equipment which might be used for internal repression listed in Annex I to the Burma Regulation[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 4. Offences related to the sale, supply and transfer of equipment which might be used for internal repression listed in Annex I to the Burma Regulation[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences related to technical and financial assistance in relation to military activities and equipment which might be used for internal repression listed in Annex I to the Burma Regulation[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 5. Offences related to technical and financial assistance in relation to military activities and equipment which might be used for internal repression listed in Annex I to the Burma Regulation[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences related to EU licences[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 6. Offences related to EU licences[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Circumvention of prohibitions[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 7. Circumvention of prohibitions[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Penalties[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 8. Penalties[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of the 1979 Act[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 9. Application of the 1979 Act[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Review[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## 10. Review[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-36e8fb571ee259d68f8f910fc8df24f3]
+## SCHEDULE — REVOCATIONS[^c-36e8fb571ee259d68f8f910fc8df24f3]
 
 Article 2
 
@@ -102,8 +102,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36e8fb571ee259d68f8f910fc8df24f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36e8fb571ee259d68f8f910fc8df24f3]: Textual amendment: Order revoked (13.8.2018) by [The Export Control (Burma Sanctions) Order 2018 (S.I. 2018/871)](https://www.legislation.gov.uk/uksi/2018/871), arts. 1, [11](https://www.legislation.gov.uk/uksi/2018/871/article/11)
+[^c-36e8fb571ee259d68f8f910fc8df24f3]: Textual amendment: Order revoked (13.8.2018) by [The Export Control (Burma Sanctions) Order 2018 (S.I. 2018/871)](https://www.legislation.gov.uk/uksi/2018/871), arts. 1, [11](https://www.legislation.gov.uk/uksi/2018/871/article/11)

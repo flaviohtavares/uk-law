@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendments of Armed Forces Act 2006[^key-68d54ac191ef47b1f8b41547dac66e63][^key-c64a8d177351dd40eca712daba93733e]
+## 19. Amendments of Armed Forces Act 2006[^c-68d54ac191ef47b1f8b41547dac66e63][^c-c64a8d177351dd40eca712daba93733e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 6 contains amendments of the Armed Forces Act 2006 relating to the rele
 
 ## Annotations
 
-[^key-68d54ac191ef47b1f8b41547dac66e63]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/11/section/19) in force at 1.6.2014 for specified purposes by [S.I. 2014/1287](https://www.legislation.gov.uk/uksi/2014/1287), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/1287/article/2/c)
+[^c-68d54ac191ef47b1f8b41547dac66e63]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/11/section/19) in force at 1.6.2014 for specified purposes by [S.I. 2014/1287](https://www.legislation.gov.uk/uksi/2014/1287), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/1287/article/2/c)
 
-[^key-c64a8d177351dd40eca712daba93733e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/11/section/19) in force at 1.2.2015 in so far as not already in force by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/40/article/2/q)
+[^c-c64a8d177351dd40eca712daba93733e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2014/11/section/19) in force at 1.2.2015 in so far as not already in force by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/40/article/2/q)

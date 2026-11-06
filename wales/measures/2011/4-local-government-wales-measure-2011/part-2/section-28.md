@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Parental absence[^key-4022ac12bff8e22ef723ff2e71d0ca53]
+## 28. Parental absence[^c-4022ac12bff8e22ef723ff2e71d0ca53]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) the extent of a member's entitlement to parental absence in respect of a child;
 - (b) when parental absence may be taken.
 
-(4)[^key-f4cedda1c58d819ba6f7b3d300025624] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f4cedda1c58d819ba6f7b3d300025624] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Provision under subsection (3)(b) may (amongst other things) refer to—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4022ac12bff8e22ef723ff2e71d0ca53]: Commencement: S. 28 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-4022ac12bff8e22ef723ff2e71d0ca53]: Commencement: S. 28 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
 
-[^key-f4cedda1c58d819ba6f7b3d300025624]: Textual amendment: [S. 28(4)](https://www.legislation.gov.uk/mwa/2011/4/section/28/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(6)](https://www.legislation.gov.uk/asc/2021/1/section/61/6), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-f4cedda1c58d819ba6f7b3d300025624]: Textual amendment: [S. 28(4)](https://www.legislation.gov.uk/mwa/2011/4/section/28/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(6)](https://www.legislation.gov.uk/asc/2021/1/section/61/6), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)

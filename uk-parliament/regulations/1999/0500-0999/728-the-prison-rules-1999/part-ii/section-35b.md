@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35B. Permanent log of communications[^key-02a6c087da8dbfd7f2c9ca84bab59948]
+## 35B. Permanent log of communications[^c-02a6c087da8dbfd7f2c9ca84bab59948]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a6c087da8dbfd7f2c9ca84bab59948]: Textual amendment: Rules 35A-35D inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [5](https://www.legislation.gov.uk/uksi/2000/2641/rule/5)
+[^c-02a6c087da8dbfd7f2c9ca84bab59948]: Textual amendment: Rules 35A-35D inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [5](https://www.legislation.gov.uk/uksi/2000/2641/rule/5)

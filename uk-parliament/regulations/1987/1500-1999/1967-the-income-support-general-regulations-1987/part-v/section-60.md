@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Liable relative payments to be treated as capital[^key-2624b98fc51d87e971fceac4fa737396]
+## 60. Liable relative payments to be treated as capital[^c-2624b98fc51d87e971fceac4fa737396]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2624b98fc51d87e971fceac4fa737396]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1987/1967/regulation/60) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/b)
+[^c-2624b98fc51d87e971fceac4fa737396]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1987/1967/regulation/60) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/b)

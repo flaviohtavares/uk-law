@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Risk of sexual harm orders[^key-fd9687f12859ae3147b94ae26dd28d6d]
+## 103. Risk of sexual harm orders[^c-fd9687f12859ae3147b94ae26dd28d6d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd9687f12859ae3147b94ae26dd28d6d]: Textual amendment: [S. 103](https://www.legislation.gov.uk/asp/2010/13/section/103) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 7(a)](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/7/a) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(5)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/5))
+[^c-fd9687f12859ae3147b94ae26dd28d6d]: Textual amendment: [S. 103](https://www.legislation.gov.uk/asp/2010/13/section/103) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 7(a)](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/7/a) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(5)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/5))

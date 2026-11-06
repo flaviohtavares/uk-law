@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 45. Buildings having defective closets capable of repair.[^key-6c07b11950ff057526c163209e3fb530][^key-f19937083b5ad9c26d7369864a7b432a][^key-c66923f48f458fe8a4a1df42cb827edd][^key-9e1ca6c834010b593ac54f45d1aa3dbb][^key-13fe44f7208f8bb877cd6eabda5d3dd2][^c611446]
+## 45. Buildings having defective closets capable of repair.[^c-6c07b11950ff057526c163209e3fb530][^c-f19937083b5ad9c26d7369864a7b432a][^c-c66923f48f458fe8a4a1df42cb827edd][^c-9e1ca6c834010b593ac54f45d1aa3dbb][^c-13fe44f7208f8bb877cd6eabda5d3dd2][^c611446]
 
 *Extent: E+W*
 
@@ -32,15 +32,15 @@ Provided that in any proceedings under this subsection it shall be open to the d
 
 ## Annotations
 
-[^key-6c07b11950ff057526c163209e3fb530]: Modification: S. 45 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-6c07b11950ff057526c163209e3fb530]: Modification: S. 45 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-f19937083b5ad9c26d7369864a7b432a]: Modification: S. 45 modified (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-f19937083b5ad9c26d7369864a7b432a]: Modification: S. 45 modified (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-c66923f48f458fe8a4a1df42cb827edd]: Modification: S. 45 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-c66923f48f458fe8a4a1df42cb827edd]: Modification: S. 45 functions transferred and modified (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-9e1ca6c834010b593ac54f45d1aa3dbb]: Modification: S. 45 functions transferred and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-9e1ca6c834010b593ac54f45d1aa3dbb]: Modification: S. 45 functions transferred and modified (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-13fe44f7208f8bb877cd6eabda5d3dd2]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/45): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-13fe44f7208f8bb877cd6eabda5d3dd2]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/45): functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
 [^c611446]: Modification: S. 45 excluded by [Offices, Shops and Railway Premises Act 1963 (c. 41)](https://www.legislation.gov.uk/ukpga/1963/41), [s. 9(6)](https://www.legislation.gov.uk/ukpga/1963/41/section/9/6)
 

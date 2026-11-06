@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Time for payment of capital fees: small companies[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+## SCHEDULE 6 — Time for payment of capital fees: small companies[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulation 49 (1)
 
-### 1. Interpretation[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 1. Interpretation[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Major application[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 2. Major application[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Complex application[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 3. Complex application[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Multiple application[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 4. Multiple application[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Outgoing mutual recognition application[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 5. Outgoing mutual recognition application[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application for traditional herbal registration[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 6. Application for traditional herbal registration[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Traditional herbal registration: complex variation[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 7. Traditional herbal registration: complex variation[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application for manufacturer's licence, manufacturing authorisation or wholesale dealer's licence[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 8. Application for manufacturer's licence, manufacturing authorisation or wholesale dealer's licence[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Inspection fees in connection with applications[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 9. Inspection fees in connection with applications[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))
+[^c-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))

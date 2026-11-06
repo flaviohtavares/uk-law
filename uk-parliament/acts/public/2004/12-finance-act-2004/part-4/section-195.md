@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Transfer of certain shares to be treated as payment of contribution[^key-6e494d2ed6bcc94666a0ec7b2312b848][^key-2a8a1cd66ca0fae24783c53ac32d5621]
+## 195. Transfer of certain shares to be treated as payment of contribution[^c-6e494d2ed6bcc94666a0ec7b2312b848][^c-2a8a1cd66ca0fae24783c53ac32d5621]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,15 +36,15 @@ summary: ''
 
 (5) In this section—
 
-- “**SAYE option scheme**” has the same meaning as in the SAYE code (see section 516 of ITEPA 2003 ([^key-33d909666244d68463c86bdd1502db5e]... SAYE option schemes)), and
-- “**share incentive plan**” has the same meaning as in the SIP code (see section 488 of ITEPA 2003 ([^key-ea60b4ab3735038ae8f07ffd8514511a]... share incentive plans)).
+- “**SAYE option scheme**” has the same meaning as in the SAYE code (see section 516 of ITEPA 2003 ([^c-33d909666244d68463c86bdd1502db5e]... SAYE option schemes)), and
+- “**share incentive plan**” has the same meaning as in the SIP code (see section 488 of ITEPA 2003 ([^c-ea60b4ab3735038ae8f07ffd8514511a]... share incentive plans)).
 
 ## Annotations
 
-[^key-6e494d2ed6bcc94666a0ec7b2312b848]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-6e494d2ed6bcc94666a0ec7b2312b848]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
+[^c-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
 
-[^key-33d909666244d68463c86bdd1502db5e]: Textual amendment: Word in s. 195(5) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 139](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/139), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
+[^c-33d909666244d68463c86bdd1502db5e]: Textual amendment: Word in s. 195(5) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 139](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/139), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
 
-[^key-ea60b4ab3735038ae8f07ffd8514511a]: Textual amendment: Word in s. 195(5) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 52](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/52), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-ea60b4ab3735038ae8f07ffd8514511a]: Textual amendment: Word in s. 195(5) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 52](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/52), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

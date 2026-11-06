@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Meaning of “occupied” higher-risk building etc[^key-ff340c30af4efb4d6ea07d13083c0da2][^key-c4126336b4f91ee2852232f55710d8c5]
+## 71. Meaning of “occupied” higher-risk building etc[^c-ff340c30af4efb4d6ea07d13083c0da2][^c-c4126336b4f91ee2852232f55710d8c5]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff340c30af4efb4d6ea07d13083c0da2]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-ff340c30af4efb4d6ea07d13083c0da2]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-c4126336b4f91ee2852232f55710d8c5]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/30/section/71) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(y)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/y)
+[^c-c4126336b4f91ee2852232f55710d8c5]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/30/section/71) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(y)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/y)

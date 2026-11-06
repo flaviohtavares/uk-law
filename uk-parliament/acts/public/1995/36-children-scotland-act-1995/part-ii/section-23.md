@@ -40,15 +40,15 @@ a local authority shall, for the purpose of facilitating the discharge of such d
 
 (4)[^c13125581] In determining the needs of a child under subsection (3) above, the local authority shall take account—
 
-- (a)[^key-b49d97a0db3b946f8e01327a62b4c185] if an adult carer provides, or intends to provide, care for the child, of the care provided by that carer,
+- (a)[^c-b49d97a0db3b946f8e01327a62b4c185] if an adult carer provides, or intends to provide, care for the child, of the care provided by that carer,
 - (aa) if a young carer provides, or intends to provide, care for the child, of the care provided by that carer,
 - (b) in so far as it is reasonable and practicable to do so, of—
-  - (i) the views of the parent or guardian of the child, and the child; [^key-54c0efa1071ed8193e33e09f37ac259c]...
-  - (ii)[^key-54c0efa1071ed8193e33e09f37ac259c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) the views of the parent or guardian of the child, and the child; [^c-54c0efa1071ed8193e33e09f37ac259c]...
+  - (ii)[^c-54c0efa1071ed8193e33e09f37ac259c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  provided that the parent, guardian, or child[^key-dbb29ffe42a95b5cc824b4622abdfd54] in question has a wish, or as the case may be, a capacity, to express a view.
+  provided that the parent, guardian, or child[^c-dbb29ffe42a95b5cc824b4622abdfd54] in question has a wish, or as the case may be, a capacity, to express a view.
 
-(5)[^key-f2c9e4f6fefdafc9c0880cc2e0279ba6] In subsection (4)(a) and (aa), the reference to the care provided by a carer means—
+(5)[^c-f2c9e4f6fefdafc9c0880cc2e0279ba6] In subsection (4)(a) and (aa), the reference to the care provided by a carer means—
 
 - (a) in the case of an adult carer who has an adult carer support plan, the information about that care set out in that plan,
 - (b) in the case of a young carer who has a young carer statement, the information about that care set out in that statement.
@@ -76,10 +76,10 @@ a local authority must take account of the views of the carer, in so far as it i
 
 [^c13125581]: Textual amendment: S. 23(4) inserted (1.9.2002) by [2002 asp 5](https://www.legislation.gov.uk/asp/2002/5), [s. 10](https://www.legislation.gov.uk/asp/2002/5/section/10); [S.S.I. 2002/170](https://www.legislation.gov.uk/ssi/2002/170), [art. 2(4)](https://www.legislation.gov.uk/ssi/2002/170/article/2/4)
 
-[^key-b49d97a0db3b946f8e01327a62b4c185]: Textual amendment: S. 23(4)(a)(aa) substituted for s. 23(4)(a) (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-b49d97a0db3b946f8e01327a62b4c185]: Textual amendment: S. 23(4)(a)(aa) substituted for s. 23(4)(a) (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-54c0efa1071ed8193e33e09f37ac259c]: Textual amendment: S. 23(4)(b)(ii) and word repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(b)(i)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/b/i), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-54c0efa1071ed8193e33e09f37ac259c]: Textual amendment: S. 23(4)(b)(ii) and word repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(b)(i)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/b/i), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-dbb29ffe42a95b5cc824b4622abdfd54]: Textual amendment: Words in s. 23(4)(b) substituted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(b)(ii)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/b/ii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-dbb29ffe42a95b5cc824b4622abdfd54]: Textual amendment: Words in s. 23(4)(b) substituted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(6)(b)(ii)](https://www.legislation.gov.uk/asp/2016/9/section/30/6/b/ii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-f2c9e4f6fefdafc9c0880cc2e0279ba6]: Textual amendment: S. 23(5)-(7) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(7)](https://www.legislation.gov.uk/asp/2016/9/section/30/7), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-f2c9e4f6fefdafc9c0880cc2e0279ba6]: Textual amendment: S. 23(5)-(7) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(7)](https://www.legislation.gov.uk/asp/2016/9/section/30/7), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)

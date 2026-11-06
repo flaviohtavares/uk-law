@@ -41,17 +41,17 @@ if the device satisfies the requirements of the laws of that part of the United 
 
 if the device satisfies the requirements of the laws of that part of the United Kingdom in which it is put into service as in force on 7th December 1998.
 
-(5)[^key-e82a39670d55c01f3e235fcd32b2f9df] Regulation 13(4) shall not be applied before 1st March 2004 in respect of breast implants which—
+(5)[^c-e82a39670d55c01f3e235fcd32b2f9df] Regulation 13(4) shall not be applied before 1st March 2004 in respect of breast implants which—
 
 - (a) bore a CE marking before 1st September 2003; and
 - (b) satisfy the requirements in respect of relevant devices falling within Class IIb set out in regulation 13(3).
 
-(6)[^key-0f193cde2586bd509e8b54d99193c35b] Regulation 19A shall not be applied before 1st October 2004 in respect of a device placed on the market before 1st April 2004.
+(6)[^c-0f193cde2586bd509e8b54d99193c35b] Regulation 19A shall not be applied before 1st October 2004 in respect of a device placed on the market before 1st April 2004.
 
 ## Annotations
 
 [^c17037021]: Marginal citation: [S.I. 1993/2360](https://www.legislation.gov.uk/uksi/1993/2360).
 
-[^key-e82a39670d55c01f3e235fcd32b2f9df]: Textual amendment: Reg. 4(5) inserted (1.9.2003) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [3(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/3/a)
+[^c-e82a39670d55c01f3e235fcd32b2f9df]: Textual amendment: Reg. 4(5) inserted (1.9.2003) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [3(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/3/a)
 
-[^key-0f193cde2586bd509e8b54d99193c35b]: Textual amendment: Reg. 4(6) added (1.4.2004) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/b), [3(b)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/3/b)
+[^c-0f193cde2586bd509e8b54d99193c35b]: Textual amendment: Reg. 4(6) added (1.4.2004) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/b), [3(b)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/3/b)

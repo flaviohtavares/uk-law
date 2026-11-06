@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Payment of pension[^key-863edfce2850b3103f8328dffcf65a2d]
+## 160. Payment of pension[^c-863edfce2850b3103f8328dffcf65a2d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-863edfce2850b3103f8328dffcf65a2d]: Commencement: [Reg. 160](https://www.legislation.gov.uk/ssi/2014/292/regulation/160) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-863edfce2850b3103f8328dffcf65a2d]: Commencement: [Reg. 160](https://www.legislation.gov.uk/ssi/2014/292/regulation/160) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

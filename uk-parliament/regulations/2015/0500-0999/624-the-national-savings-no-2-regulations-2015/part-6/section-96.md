@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Law applicable to crossed warrants[^key-a6d726bb3f9dc1c6d1dbcac196455202]
+## 96. Law applicable to crossed warrants[^c-a6d726bb3f9dc1c6d1dbcac196455202]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 76(1), (3), (4) and (5) (so far as it relates to crossed cheques) and se
 
 ## Annotations
 
-[^key-a6d726bb3f9dc1c6d1dbcac196455202]: Commencement: Reg. 96 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-a6d726bb3f9dc1c6d1dbcac196455202]: Commencement: Reg. 96 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00038]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 80 was amended by the Cheques Act [1992 (c. 32)](https://www.legislation.gov.uk/ukpga/1992/32), section 2.
 

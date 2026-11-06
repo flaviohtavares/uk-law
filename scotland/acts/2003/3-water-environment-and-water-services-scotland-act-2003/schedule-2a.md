@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2A — Remedial and restoration measures regulations: offences[^key-667373065e3aa4b8805810c2f70af481]
+## SCHEDULE 2A — Remedial and restoration measures regulations: offences[^c-667373065e3aa4b8805810c2f70af481]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ or both.
 
 ## Annotations
 
-[^key-667373065e3aa4b8805810c2f70af481]: Textual amendment: Sch. 2A inserted (1.1.2015) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 109(2)](https://www.legislation.gov.uk/asp/2011/9/section/109/2), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-667373065e3aa4b8805810c2f70af481]: Textual amendment: Sch. 2A inserted (1.1.2015) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 109(2)](https://www.legislation.gov.uk/asp/2011/9/section/109/2), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

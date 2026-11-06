@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60.[^key-2490e6d8d248a8e69b749de562ecb130]
+## 60.[^c-2490e6d8d248a8e69b749de562ecb130]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 21 (application) has effect as if, for “paragraph (7)(6)(b) of Sche
 
 ## Annotations
 
-[^key-2490e6d8d248a8e69b749de562ecb130]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2019/449/regulation/60) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-2490e6d8d248a8e69b749de562ecb130]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2019/449/regulation/60) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

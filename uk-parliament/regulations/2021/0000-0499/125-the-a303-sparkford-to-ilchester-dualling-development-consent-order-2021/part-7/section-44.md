@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Service of notices[^key-d3b0f3466e8056c84de315237499fae2]
+## 44. Service of notices[^c-d3b0f3466e8056c84de315237499fae2]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b0f3466e8056c84de315237499fae2]: Commencement: Art. 44 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-d3b0f3466e8056c84de315237499fae2]: Commencement: Art. 44 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442701]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

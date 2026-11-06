@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Local connection[^key-0ac76ce71e43ae34d01ad318a96b0585][^key-a3450b24c61dbd15ec620d088f00a14c]
+## 81. Local connection[^c-0ac76ce71e43ae34d01ad318a96b0585][^c-a3450b24c61dbd15ec620d088f00a14c]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ac76ce71e43ae34d01ad318a96b0585]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2014/7/section/81) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-0ac76ce71e43ae34d01ad318a96b0585]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2014/7/section/81) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-a3450b24c61dbd15ec620d088f00a14c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2014/7/section/81) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 32](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/32)
+[^c-a3450b24c61dbd15ec620d088f00a14c]: Commencement: [S. 81](https://www.legislation.gov.uk/anaw/2014/7/section/81) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 32](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/32)

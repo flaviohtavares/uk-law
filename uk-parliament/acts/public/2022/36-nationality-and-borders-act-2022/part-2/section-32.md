@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Article 1(A)(2): well-founded fear[^key-d255cb5bdacf1db5e3b5c4b97a370b72]
+## 32. Article 1(A)(2): well-founded fear[^c-d255cb5bdacf1db5e3b5c4b97a370b72]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d255cb5bdacf1db5e3b5c4b97a370b72]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/36/section/32) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-d255cb5bdacf1db5e3b5c4b97a370b72]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2022/36/section/32) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

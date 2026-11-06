@@ -52,7 +52,7 @@ summary: ''
 - (a) Senior President of Tribunals;
 - (b) President of Employment Tribunals (Scotland);
 - (c) Vice President of Employment Tribunals (Scotland);
-- (d) member of a panel of Employment Judges[^key-54c703629a5e8c536d63e1a4e0f66790] (Scotland);
+- (d) member of a panel of Employment Judges[^c-54c703629a5e8c536d63e1a4e0f66790] (Scotland);
 - (e) member of a panel of members of employment tribunals that is not a panel of Employment Judges;
 - (f) [^c20293031]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -65,6 +65,6 @@ summary: ''
 
 [^c19676971]: Textual amendment: S. 3(7A)(7B) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/15/section/1), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
 
-[^key-54c703629a5e8c536d63e1a4e0f66790]: Textual amendment: Words in [s. 3(7B)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/3/7B/d)[(e)](https://www.legislation.gov.uk/ukpga/2005/4/section/3/7B/e) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-54c703629a5e8c536d63e1a4e0f66790]: Textual amendment: Words in [s. 3(7B)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/3/7B/d)[(e)](https://www.legislation.gov.uk/ukpga/2005/4/section/3/7B/e) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c20293031]: Textual amendment: S. 3(7B)(f) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9](https://www.legislation.gov.uk/uksi/2008/2833/article/9), [Sch. 3 para. 217](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/217)

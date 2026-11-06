@@ -23,7 +23,7 @@ summary: ''
 (1) A person is a “**pub-owning business**” for the purposes of this Part—
 
 - (a) in the period beginning with the day on which the Pubs Code comes into force and ending with the following 31 March, if immediately before the Pubs Code comes into force the person was the landlord of 500 or more tied pubs;
-- (b)[^key-bfe6299dea38c2cd62948f30104c02e1] in any subsequent financial year, if for a period of—
+- (b)[^c-bfe6299dea38c2cd62948f30104c02e1] in any subsequent financial year, if for a period of—
   - (i) at least 6 months in the previous financial year, in the case of a subsequent financial year ending before 1 April 2023, or
   - (ii) at least 3 months in the previous financial year, in the case of a subsequent financial year ending after 31 March 2023,
 
@@ -64,4 +64,4 @@ as a pub-owning business (as well as or instead of any other person) for the pur
 
 ## Annotations
 
-[^key-bfe6299dea38c2cd62948f30104c02e1]: Textual amendment: [S. 69(1)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/69/1/b) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/341/schedule/1/paragraph/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-bfe6299dea38c2cd62948f30104c02e1]: Textual amendment: [S. 69(1)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/69/1/b) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/341/schedule/1/paragraph/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

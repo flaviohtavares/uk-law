@@ -22,11 +22,11 @@ summary: ''
 
 (1) This section applies to a person if—
 
-- (a) he is under the age of twenty-five or of such lesser age as may be prescribed by the Secretary of State[^key-a1be5f709b6b6188b1d30050b1ec1812];
+- (a) he is under the age of twenty-five or of such lesser age as may be prescribed by the Secretary of State[^c-a1be5f709b6b6188b1d30050b1ec1812];
 - (b) he is a former relevant child (within the meaning of section 23C) towards whom the duties imposed by subsections (2), (3) and (4) of that section no longer subsist; and
 - (c) he has informed the responsible local authority that he is pursuing, or wishes to pursue, a programme of education or training.
 
-(2)[^key-763a8da82e687fa0762046c78ea85942] It is the duty of the responsible local authority to provide a personal adviser for a person to whom this section applies.
+(2)[^c-763a8da82e687fa0762046c78ea85942] It is the duty of the responsible local authority to provide a personal adviser for a person to whom this section applies.
 
 (3) It is the duty of the responsible local authority—
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c19937401]: Textual amendment: S. 23CA inserted (1.4.2011 for E., 19.6.2012 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/22/2), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(g)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/g) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2981/article/6)); [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/1553/article/3)
 
-[^key-a1be5f709b6b6188b1d30050b1ec1812]: Textual amendment: Words in s. 23CA(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [78](https://www.legislation.gov.uk/wsi/2016/413/regulation/78)
+[^c-a1be5f709b6b6188b1d30050b1ec1812]: Textual amendment: Words in s. 23CA(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [78](https://www.legislation.gov.uk/wsi/2016/413/regulation/78)
 
-[^key-763a8da82e687fa0762046c78ea85942]: Textual amendment: S. 23CA(2) substituted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2017/16/section/3/3), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)
+[^c-763a8da82e687fa0762046c78ea85942]: Textual amendment: S. 23CA(2) substituted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2017/16/section/3/3), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/c)

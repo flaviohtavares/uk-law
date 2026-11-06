@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107.[^key-df8c9822ad98451efdb823704a22df94]
+## 107.[^c-df8c9822ad98451efdb823704a22df94]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 46 (permitted disclosure) has effect as if—
 
 ## Annotations
 
-[^key-df8c9822ad98451efdb823704a22df94]: Commencement: Reg. 107 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-df8c9822ad98451efdb823704a22df94]: Commencement: Reg. 107 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -33,7 +33,7 @@ An Act of the Scottish Parliament to incorporate in Scots law the European Chart
 
 The Bill for this Act of the Scottish Parliament was approved by the Parliament on 3rd March 2026 and received Royal Assent on 15th April 2026
 
-## 1. The Charter Articles[^key-aeb74bb0fe31a7f847af2caf86709a0d]
+## 1. The Charter Articles[^c-aeb74bb0fe31a7f847af2caf86709a0d]
 
 (1) In this Act, “**the Charter Articles**” means Articles 2 to 11 of the European Charter of Local Self-Government which was opened for signature by the Council of Europe on 15 October 1985.
 
@@ -43,7 +43,7 @@ The Bill for this Act of the Scottish Parliament was approved by the Parliament 
 
 (4) The Scottish Ministers may by regulations amend this Act to reflect amending or additional protocols to the Charter that have been signed by the United Kingdom (whether before or after the coming into force of this section).
 
-## 2. Duty to act compatibly with the Charter Articles[^key-6e12b1c1747ece6078105536834a6a62]
+## 2. Duty to act compatibly with the Charter Articles[^c-6e12b1c1747ece6078105536834a6a62]
 
 (1) The Scottish Ministers must ensure that any action they take in exercise of a relevant function is compatible with the Charter Articles (but see subsection (4)).
 
@@ -71,7 +71,7 @@ The Bill for this Act of the Scottish Parliament was approved by the Parliament 
 - (b) a function conferred by words inserted by one enactment into another enactment (“the modified enactment”) is to be regarded as conferred only by the modified enactment,
 - (c) a failure to act (including a failure to make subordinate legislation) is to be treated as the taking of action.
 
-## 3. Duty to promote local self-government[^key-92f1794526f4d3986410018c4fdcd609]
+## 3. Duty to promote local self-government[^c-92f1794526f4d3986410018c4fdcd609]
 
 (1) The Scottish Ministers must—
 
@@ -90,7 +90,7 @@ The Bill for this Act of the Scottish Parliament was approved by the Parliament 
 - (a) such persons appearing to them to be representative of the interests of local authorities, and
 - (b) such other persons as they consider appropriate.
 
-## 4. Interpretation of legislation[^key-5653267efb4a97b0763f7f9f03a32386]
+## 4. Interpretation of legislation[^c-5653267efb4a97b0763f7f9f03a32386]
 
 (1) So far as it is possible to do so, the following must be read and given effect in a way which is compatible with the Charter Articles—
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was approved by the Parliament 
 
 (2) This section does not affect the validity, continuing operation or enforcement of any incompatible subordinate legislation made by virtue of an Act of the Scottish Parliament if (disregarding any possibility of revocation) the Act or words in another enactment to which neither section 6 nor 7 apply prevents removal of the incompatibility.
 
-## 5. Declaration of incompatibility[^key-a128a6920ede5484a76b2b30f7f53485]
+## 5. Declaration of incompatibility[^c-a128a6920ede5484a76b2b30f7f53485]
 
 (1) Subsection (2) applies in any proceedings in which a court determines whether the following give rise to an incompatibility with the Charter Articles—
 
@@ -120,7 +120,7 @@ The Bill for this Act of the Scottish Parliament was approved by the Parliament 
 
 (5) A declaration of incompatibility does not affect the validity, continuing operation or enforcement of the words in respect of which it is given.
 
-## 6. Primary legislation words for purposes of sections 4 and 5[^key-c396f5427be96058d4e58812e2ad5d6a]
+## 6. Primary legislation words for purposes of sections 4 and 5[^c-c396f5427be96058d4e58812e2ad5d6a]
 
 The words to which this section applies are words that are—
 
@@ -130,7 +130,7 @@ The words to which this section applies are words that are—
   - (ii) contained, as part of an amending provision, in the Bill for another Act of the Scottish Parliament, or
   - (iii) inserted by words in subordinate legislation to which section 7 applies.
 
-## 7. Subordinate legislation words for purposes of sections 4 and 5[^key-fb870772cb92d596d68823ccae1dfb14]
+## 7. Subordinate legislation words for purposes of sections 4 and 5[^c-fb870772cb92d596d68823ccae1dfb14]
 
 (1) The words to which this section applies are words that are—
 
@@ -143,7 +143,7 @@ The words to which this section applies are words that are—
 
 (3) For the purposes of subsection (2), a provision of an Act of the Scottish Parliament is not to be regarded as derived from section 28 of the Scotland Act 1998.
 
-## 8. Power to take remedial action[^key-4272cc461ac3ac8b8c23e4110dc73d4d]
+## 8. Power to take remedial action[^c-4272cc461ac3ac8b8c23e4110dc73d4d]
 
 (1) The Scottish Ministers may by regulations make such provision as they consider necessary or expedient in consequence of a declaration of incompatibility.
 
@@ -151,7 +151,7 @@ The words to which this section applies are words that are—
 
 (3) Regulations made under subsection (1) may not create, widen the scope of, or increase the penalty for, a criminal offence.
 
-## 9. Enhanced scrutiny of regulations under section 8(1)[^key-2b59d8082d64be1d59655cb4d97c0e91]
+## 9. Enhanced scrutiny of regulations under section 8(1)[^c-2b59d8082d64be1d59655cb4d97c0e91]
 
 (1) Before laying a draft Scottish statutory instrument containing regulations under section 8(1) before the Scottish Parliament for approval, the Scottish Ministers must lay before the Parliament—
 
@@ -178,7 +178,7 @@ The words to which this section applies are words that are—
 
 (7) The explanation must be given in writing as soon as practicable after the instrument is laid before the Parliament.
 
-## 10. Power to remove or limit retrospective effect of decisions etc.[^key-396f5944fe4fdc52da874604b1ccfede]
+## 10. Power to remove or limit retrospective effect of decisions etc.[^c-396f5944fe4fdc52da874604b1ccfede]
 
 (1) This section applies—
 
@@ -196,39 +196,39 @@ The words to which this section applies are words that are—
 
 (3) In deciding whether to make an order under this section, the court shall (among other things) have regard to the extent to which persons who are not parties to the proceedings would otherwise be adversely affected.
 
-## 11. Statements about Charter-compatibility of Bills[^key-a895758f8dbcac3c81e5e3f36352129a]
+## 11. Statements about Charter-compatibility of Bills[^c-a895758f8dbcac3c81e5e3f36352129a]
 
 (1) A member of the Scottish Parliament introducing a Public Bill in the Parliament must, on or before introduction, make a statement about the extent to which, in that member’s view, the Bill is compatible with the Charter Articles.
 
 (2) The Parliament must publish any statement made under subsection (1).
 
-## 12. Regulation-making powers[^key-4be2e8b0ad5c3fea7185e922a74cc15b]
+## 12. Regulation-making powers[^c-4be2e8b0ad5c3fea7185e922a74cc15b]
 
 (1) Regulations under this Act may make different provision for different purposes.
 
 (2) Regulations under this Act are subject to the affirmative procedure.
 
-## 13. Ancillary provision[^key-fc2abff99b9cc49489d503c11ca8bbdf]
+## 13. Ancillary provision[^c-fc2abff99b9cc49489d503c11ca8bbdf]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
 (2) Regulations under this section may modify any enactment (including this Act).
 
-## 14. Commencement[^key-17db399918dd287a71c8d15cee639028]
+## 14. Commencement[^c-17db399918dd287a71c8d15cee639028]
 
 (1) This section and section 15 come into force on the day after Royal Assent.
 
 (2) The other provisions of this Act come into force at the end of the period of 6 months beginning with the day of Royal Assent.
 
-## 15. Short title[^key-4c5fbf788868da72a13737bca7cafdd1]
+## 15. Short title[^c-4c5fbf788868da72a13737bca7cafdd1]
 
 The short title of this Act is the European Charter of Local Self-Government (Incorporation) (Scotland) Act 2026.
 
-## Schedule — The Charter Articles[^key-d56684b20cbdfcab8eb448e0d2761e82]
+## Schedule — The Charter Articles[^c-d56684b20cbdfcab8eb448e0d2761e82]
 
 (introduced by section 1(2))
 
-[^key-d56684b20cbdfcab8eb448e0d2761e82]
+[^c-d56684b20cbdfcab8eb448e0d2761e82]
 
 > **Article 2 – Constitutional and legal foundation for local self-government**
 >
@@ -312,34 +312,34 @@ The short title of this Act is the European Charter of Local Self-Government (In
 
 ## Annotations
 
-[^key-aeb74bb0fe31a7f847af2caf86709a0d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/11/section/1) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-aeb74bb0fe31a7f847af2caf86709a0d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/11/section/1) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-6e12b1c1747ece6078105536834a6a62]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/11/section/2) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-6e12b1c1747ece6078105536834a6a62]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/11/section/2) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-92f1794526f4d3986410018c4fdcd609]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/11/section/3) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-92f1794526f4d3986410018c4fdcd609]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/11/section/3) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-5653267efb4a97b0763f7f9f03a32386]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/11/section/4) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-5653267efb4a97b0763f7f9f03a32386]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/11/section/4) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-a128a6920ede5484a76b2b30f7f53485]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/11/section/5) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-a128a6920ede5484a76b2b30f7f53485]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/11/section/5) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-c396f5427be96058d4e58812e2ad5d6a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/11/section/6) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-c396f5427be96058d4e58812e2ad5d6a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/11/section/6) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-fb870772cb92d596d68823ccae1dfb14]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/11/section/7) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-fb870772cb92d596d68823ccae1dfb14]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/11/section/7) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-4272cc461ac3ac8b8c23e4110dc73d4d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/11/section/8) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-4272cc461ac3ac8b8c23e4110dc73d4d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/11/section/8) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-2b59d8082d64be1d59655cb4d97c0e91]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/11/section/9) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-2b59d8082d64be1d59655cb4d97c0e91]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/11/section/9) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-396f5944fe4fdc52da874604b1ccfede]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/11/section/10) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-396f5944fe4fdc52da874604b1ccfede]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/11/section/10) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-a895758f8dbcac3c81e5e3f36352129a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/11/section/11) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-a895758f8dbcac3c81e5e3f36352129a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/11/section/11) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-4be2e8b0ad5c3fea7185e922a74cc15b]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/11/section/12) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-4be2e8b0ad5c3fea7185e922a74cc15b]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/11/section/12) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-fc2abff99b9cc49489d503c11ca8bbdf]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/11/section/13) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-fc2abff99b9cc49489d503c11ca8bbdf]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/11/section/13) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
 
-[^key-17db399918dd287a71c8d15cee639028]: Commencement: S. 14 in force at 16.4.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/11/section/14/1)
+[^c-17db399918dd287a71c8d15cee639028]: Commencement: S. 14 in force at 16.4.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/11/section/14/1)
 
-[^key-4c5fbf788868da72a13737bca7cafdd1]: Commencement: S. 15 in force at 16.4.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/11/section/14/1)
+[^c-4c5fbf788868da72a13737bca7cafdd1]: Commencement: S. 15 in force at 16.4.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/11/section/14/1)
 
-[^key-d56684b20cbdfcab8eb448e0d2761e82]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2026/11/schedule) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)
+[^c-d56684b20cbdfcab8eb448e0d2761e82]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2026/11/schedule) in force at 15.10.2026, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/11/section/14/2)

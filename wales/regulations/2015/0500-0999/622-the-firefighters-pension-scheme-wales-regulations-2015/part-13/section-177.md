@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Commutation of small pensions[^key-c91c8cd30d89d0d7cc7cf8c726d4abab]
+## 177. Commutation of small pensions[^c-c91c8cd30d89d0d7cc7cf8c726d4abab]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c91c8cd30d89d0d7cc7cf8c726d4abab]: Commencement: Reg. 177 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c91c8cd30d89d0d7cc7cf8c726d4abab]: Commencement: Reg. 177 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00075]: Footnote: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Regulation 2 was amended by [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681), [2005/706](https://www.legislation.gov.uk/uksi/2005/706), [2006/744](https://www.legislation.gov.uk/uksi/2006/744), [2006/778](https://www.legislation.gov.uk/uksi/2006/778) and [2009/2930](https://www.legislation.gov.uk/uksi/2009/2930).
 

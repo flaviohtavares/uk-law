@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Five year limit for Part 2 notices[^key-06ee58a2488f5555e631a69e45a2e560][^key-12a2ec98fd6dc69f0c93231e55ef887c]
+## 41. Five year limit for Part 2 notices[^c-06ee58a2488f5555e631a69e45a2e560][^c-12a2ec98fd6dc69f0c93231e55ef887c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06ee58a2488f5555e631a69e45a2e560]: Commencement: S. 41 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-06ee58a2488f5555e631a69e45a2e560]: Commencement: S. 41 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-12a2ec98fd6dc69f0c93231e55ef887c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/32/section/41) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-12a2ec98fd6dc69f0c93231e55ef887c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/32/section/41) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

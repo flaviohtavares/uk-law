@@ -41,11 +41,11 @@ Coming into force
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by sections 12(1) of the Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011[^f00002], makes the following Order:
 
-## 1. Citation[^key-db6b8d8ae08cf9fe04e1c472224f1ee1]
+## 1. Citation[^c-db6b8d8ae08cf9fe04e1c472224f1ee1]
 
 This Order may be cited as the Waste and Contaminated Land (Amendment) (2011 Act) (Commencement No.3) Order (Northern Ireland) 2022.
 
-## 2. Appointed Day[^key-648cb8b4cd071230013965755b6ad6cf]
+## 2. Appointed Day[^c-648cb8b4cd071230013965755b6ad6cf]
 
 The appointed day for the coming into operation of –
 
@@ -82,6 +82,6 @@ The following provisions of the Waste and Contaminated Land (Amendment) Act (Nor
 
 [^f00002]: Footnote: [2011 C. 5 (N.I.)](https://www.legislation.gov.uk/nia/2011/5)
 
-[^key-db6b8d8ae08cf9fe04e1c472224f1ee1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/289/article/1) in operation at made date
+[^c-db6b8d8ae08cf9fe04e1c472224f1ee1]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/289/article/1) in operation at made date
 
-[^key-648cb8b4cd071230013965755b6ad6cf]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/289/article/2) in operation at made date.
+[^c-648cb8b4cd071230013965755b6ad6cf]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/289/article/2) in operation at made date.

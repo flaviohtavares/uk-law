@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Offence: killing, injuring or taking seals[^key-7fdd4a3a39f97fe243bac5d2da8049d2]
+## 107. Offence: killing, injuring or taking seals[^c-7fdd4a3a39f97fe243bac5d2da8049d2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Killing, injuring or taking a live seal (intentionally or recklessly) is an offe
 
 ## Annotations
 
-[^key-7fdd4a3a39f97fe243bac5d2da8049d2]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2010/5/section/107) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)
+[^c-7fdd4a3a39f97fe243bac5d2da8049d2]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2010/5/section/107) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)

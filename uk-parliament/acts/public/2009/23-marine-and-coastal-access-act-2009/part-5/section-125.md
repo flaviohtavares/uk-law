@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. General duties of public authorities in relation to MCZs[^c2007888][^key-bcfcec6fee2d2d6d9b9e22a2781c2298][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 125. General duties of public authorities in relation to MCZs[^c2007888][^c-bcfcec6fee2d2d6d9b9e22a2781c2298][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,13 +67,13 @@ of that fact.
 
 (11) For the purposes of subsection (9) “**relevant authority**” means—
 
-- (a) in relation to an MCZ in Wales or the Welsh offshore region[^key-caa22148043c680ae30707e899c080cb], the Welsh Ministers;
+- (a) in relation to an MCZ in Wales or the Welsh offshore region[^c-caa22148043c680ae30707e899c080cb], the Welsh Ministers;
 - (b) in relation to an MCZ in the Scottish offshore region, the Scottish Ministers;
 - (c) in relation to any other MCZ, the MMO.
 
 (12) In carrying out its duties under this section a public authority must have regard to any advice or guidance given by the appropriate statutory conservation body under section 127.
 
-(12A)[^key-d44148541ba79fa8d6909339c27a6aac] This section does not apply to the exercise by a public authority of functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
+(12A)[^c-d44148541ba79fa8d6909339c27a6aac] This section does not apply to the exercise by a public authority of functions under or by virtue of Part 3 of the Planning and Infrastructure Act 2025 (development and nature recovery).
 
 (13) In this section—
 
@@ -84,10 +84,10 @@ of that fact.
 
 [^c2007888]: Commencement: S. 125 partly in force; s. 125 in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i)
 
-[^key-bcfcec6fee2d2d6d9b9e22a2781c2298]: Commencement: S. 125 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
+[^c-bcfcec6fee2d2d6d9b9e22a2781c2298]: Commencement: S. 125 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
 
-[^key-caa22148043c680ae30707e899c080cb]: Textual amendment: Words in s. 125(11)(a) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-caa22148043c680ae30707e899c080cb]: Textual amendment: Words in s. 125(11)(a) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/4), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-d44148541ba79fa8d6909339c27a6aac]: Textual amendment: [S. 125(12A)](https://www.legislation.gov.uk/ukpga/2009/23/section/125/12A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/45/2) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-d44148541ba79fa8d6909339c27a6aac]: Textual amendment: [S. 125(12A)](https://www.legislation.gov.uk/ukpga/2009/23/section/125/12A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/45/2) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)

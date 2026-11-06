@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-19169406ce4a0b6c87b4f7f0eea009d4]
+## 1. Citation and commencement[^c-19169406ce4a0b6c87b4f7f0eea009d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Care and Support (Charging and Assessment 
 
 ## Annotations
 
-[^key-19169406ce4a0b6c87b4f7f0eea009d4]: Commencement: Reg. 1 in force at 1.4.2015 in accordance with reg. 1
+[^c-19169406ce4a0b6c87b4f7f0eea009d4]: Commencement: Reg. 1 in force at 1.4.2015 in accordance with reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Valuation: views on representations and time limit[^key-901aa4d529423fa36558d953e523517e]
+## 56. Valuation: views on representations and time limit[^c-901aa4d529423fa36558d953e523517e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 60 of the 2003 Act (procedure for valuation)—
 
 ## Annotations
 
-[^key-901aa4d529423fa36558d953e523517e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/6/section/56) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-901aa4d529423fa36558d953e523517e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/6/section/56) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

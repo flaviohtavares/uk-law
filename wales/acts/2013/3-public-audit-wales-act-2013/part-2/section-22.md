@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Borrowing[^key-56889836f0e6d669a74c086d8b3cc10d]
+## 22. Borrowing[^c-56889836f0e6d669a74c086d8b3cc10d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The WAO may borrow sums in sterling (by way of overdraft or otherwise) to be app
 
 ## Annotations
 
-[^key-56889836f0e6d669a74c086d8b3cc10d]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/3/section/22) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-56889836f0e6d669a74c086d8b3cc10d]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/3/section/22) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

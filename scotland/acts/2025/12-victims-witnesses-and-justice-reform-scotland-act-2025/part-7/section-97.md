@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Giving evidence in the form of a prior statement[^key-6f81cc71be2545fab608e1820d5f3d88]
+## 97. Giving evidence in the form of a prior statement[^c-6f81cc71be2545fab608e1820d5f3d88]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f81cc71be2545fab608e1820d5f3d88]: Commencement: S. 97 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6f81cc71be2545fab608e1820d5f3d88]: Commencement: S. 97 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

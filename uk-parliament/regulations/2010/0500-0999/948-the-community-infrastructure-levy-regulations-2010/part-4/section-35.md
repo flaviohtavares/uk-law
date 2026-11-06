@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Apportionment of liability: information notice[^key-b5ff093080a32f3eecc6f86b2fec2221]
+## 35. Apportionment of liability: information notice[^c-b5ff093080a32f3eecc6f86b2fec2221]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5ff093080a32f3eecc6f86b2fec2221]: Commencement: Reg. 35 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-b5ff093080a32f3eecc6f86b2fec2221]: Commencement: Reg. 35 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00024]: Footnote: As to the consequences of failure to comply with an information notice, see regulation 86.

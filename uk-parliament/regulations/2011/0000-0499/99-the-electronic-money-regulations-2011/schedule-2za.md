@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2ZA — Application and modification of the Banking Act 2009[^key-7c6a5f9f6375977689101db14556629a]
+## SCHEDULE 2ZA — Application and modification of the Banking Act 2009[^c-7c6a5f9f6375977689101db14556629a]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ Regulation 24A
 
 ## Annotations
 
-[^key-7c6a5f9f6375977689101db14556629a]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2011/99/schedule/2ZA) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4)
+[^c-7c6a5f9f6375977689101db14556629a]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2011/99/schedule/2ZA) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1275/regulation/4)

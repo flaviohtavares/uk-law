@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Escape and rescue plan[^key-f88c064ead816fb5cbf519026cf5f175]
+## 54. Escape and rescue plan[^c-f88c064ead816fb5cbf519026cf5f175]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f88c064ead816fb5cbf519026cf5f175]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2016/427/regulation/54) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-f88c064ead816fb5cbf519026cf5f175]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2016/427/regulation/54) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

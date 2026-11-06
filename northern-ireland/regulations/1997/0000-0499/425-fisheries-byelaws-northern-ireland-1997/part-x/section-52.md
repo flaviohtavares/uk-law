@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**52.**[^key-843cb6abf62d26a4d6ca23db5092b30f] For the purposes of section 51 of the Act “immature” in relation to trout means such fish of a size less than 35.5 centimetres.
+**52.**[^c-843cb6abf62d26a4d6ca23db5092b30f] For the purposes of section 51 of the Act “immature” in relation to trout means such fish of a size less than 35.5 centimetres.
 
 ## Annotations
 
-[^key-843cb6abf62d26a4d6ca23db5092b30f]: Commencement: S. 52 in operation at 1.11.1997, see byelaw 1
+[^c-843cb6abf62d26a4d6ca23db5092b30f]: Commencement: S. 52 in operation at 1.11.1997, see byelaw 1

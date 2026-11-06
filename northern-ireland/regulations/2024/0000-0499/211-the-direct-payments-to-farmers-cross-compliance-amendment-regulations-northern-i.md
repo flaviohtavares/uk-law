@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Direct Payments to Farmers (Cross-Compliance) (Amendment) Regulations (Northern Ireland) 2024 (revoked)[^key-76ba16a0fbd9da6ff04065b2a2553f01]
+The Direct Payments to Farmers (Cross-Compliance) (Amendment) Regulations (Northern Ireland) 2024 (revoked)[^c-76ba16a0fbd9da6ff04065b2a2553f01]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into operation
 
 1st January 2025
 
-[^key-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, and interpretation[^key-76ba16a0fbd9da6ff04065b2a2553f01]
+## 1. Citation, commencement, and interpretation[^c-76ba16a0fbd9da6ff04065b2a2553f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-76ba16a0fbd9da6ff04065b2a2553f01]
+## 2. Amendment of Commission Delegated [Regulation (EU) No. 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^c-76ba16a0fbd9da6ff04065b2a2553f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-76ba16a0fbd9da6ff04065b2a2553f01]
+## 3. Amendment of Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^c-76ba16a0fbd9da6ff04065b2a2553f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-76ba16a0fbd9da6ff04065b2a2553f01]
+## 4. Revocations[^c-76ba16a0fbd9da6ff04065b2a2553f01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76ba16a0fbd9da6ff04065b2a2553f01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76ba16a0fbd9da6ff04065b2a2553f01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/211) revoked (31.3.2025) by [The Direct Payments to Farmers (Cross-Compliance) (Revocation) Regulations (Northern Ireland) 2025 (S.R. 2025/47)](https://www.legislation.gov.uk/nisr/2025/47), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/47/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2025/47/regulation/2)
+[^c-76ba16a0fbd9da6ff04065b2a2553f01]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/211) revoked (31.3.2025) by [The Direct Payments to Farmers (Cross-Compliance) (Revocation) Regulations (Northern Ireland) 2025 (S.R. 2025/47)](https://www.legislation.gov.uk/nisr/2025/47), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/47/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2025/47/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.14. Application for transmission of order for enforcement in a reciprocating country[^key-01b16cf1fb0de2e3d000a3f967c4219f]
+## 5.14. Application for transmission of order for enforcement in a reciprocating country[^c-01b16cf1fb0de2e3d000a3f967c4219f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01b16cf1fb0de2e3d000a3f967c4219f]: Commencement: Rule 5.14 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-01b16cf1fb0de2e3d000a3f967c4219f]: Commencement: Rule 5.14 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

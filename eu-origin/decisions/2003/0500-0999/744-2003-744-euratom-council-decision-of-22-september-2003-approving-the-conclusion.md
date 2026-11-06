@@ -31,10 +31,10 @@ summary: ''
 
 of 22 September 2003 approving the conclusion by the Commission of an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan (revoked)
 
-[^key-200e7e557a061c0ede139b96b2c5e576]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-200e7e557a061c0ede139b96b2c5e576]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-200e7e557a061c0ede139b96b2c5e576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-200e7e557a061c0ede139b96b2c5e576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-200e7e557a061c0ede139b96b2c5e576]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-200e7e557a061c0ede139b96b2c5e576]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2011 (revoked)[^key-0c34edfa61ba5dd85aa418a0acdc0648]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2011 (revoked)[^c-0c34edfa61ba5dd85aa418a0acdc0648]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 14 March 2011
 
-[^key-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0c34edfa61ba5dd85aa418a0acdc0648]
+## 1. Title, commencement and application[^c-0c34edfa61ba5dd85aa418a0acdc0648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2007[^key-0c34edfa61ba5dd85aa418a0acdc0648]
+## 2. Amendments to the Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2007[^c-0c34edfa61ba5dd85aa418a0acdc0648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c34edfa61ba5dd85aa418a0acdc0648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c34edfa61ba5dd85aa418a0acdc0648]: Textual amendment: Regulations revoked (28.11.2015) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/uksi/2015/1867), [regs 1(2)](https://www.legislation.gov.uk/uksi/2015/1867/regulation/1/2), [37(d)](https://www.legislation.gov.uk/uksi/2015/1867/regulation/37/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1867/regulation/3), [36](https://www.legislation.gov.uk/uksi/2015/1867/regulation/36))
+[^c-0c34edfa61ba5dd85aa418a0acdc0648]: Textual amendment: Regulations revoked (28.11.2015) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/uksi/2015/1867), [regs 1(2)](https://www.legislation.gov.uk/uksi/2015/1867/regulation/1/2), [37(d)](https://www.legislation.gov.uk/uksi/2015/1867/regulation/37/d) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1867/regulation/3), [36](https://www.legislation.gov.uk/uksi/2015/1867/regulation/36))

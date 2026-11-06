@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Third party verifying STS compliance[^key-274c505c92a8deee06517ea3671c25c0]
+## 25. Third party verifying STS compliance[^c-274c505c92a8deee06517ea3671c25c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-274c505c92a8deee06517ea3671c25c0]: Commencement: Reg. 25 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-274c505c92a8deee06517ea3671c25c0]: Commencement: Reg. 25 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00034]: Footnote: [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862). The definition of “regulated entity” was substituted by [S.I. 2019/264](https://www.legislation.gov.uk/uksi/2019/264).
 

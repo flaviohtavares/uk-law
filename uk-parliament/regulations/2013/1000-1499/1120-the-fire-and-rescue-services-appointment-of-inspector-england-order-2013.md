@@ -32,7 +32,7 @@ summary: ''
 
 Fire And Rescue Services, England
 
-The Fire and Rescue Services (Appointment of Inspector) (England) Order 2013 (revoked)[^key-0b57d0a0fa719e3175cfd362c353e119]
+The Fire and Rescue Services (Appointment of Inspector) (England) Order 2013 (revoked)[^c-0b57d0a0fa719e3175cfd362c353e119]
 
 Made
 
@@ -46,28 +46,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-0b57d0a0fa719e3175cfd362c353e119]
+## 1. Citation, commencement and application[^c-0b57d0a0fa719e3175cfd362c353e119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of inspector[^key-0b57d0a0fa719e3175cfd362c353e119]
+## 2. Appointment of inspector[^c-0b57d0a0fa719e3175cfd362c353e119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of appointment[^key-0b57d0a0fa719e3175cfd362c353e119]
+## 3. Revocation of appointment[^c-0b57d0a0fa719e3175cfd362c353e119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b57d0a0fa719e3175cfd362c353e119]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b57d0a0fa719e3175cfd362c353e119]: Textual amendment: Order revoked (26.7.2017) by [The Fire and Rescue Services (Appointment of Inspector) (England) (Revocation) Order 2017 (S.I. 2017/776)](https://www.legislation.gov.uk/uksi/2017/776), [arts. 1](https://www.legislation.gov.uk/uksi/2017/776/article/1), [2](https://www.legislation.gov.uk/uksi/2017/776/article/2)
+[^c-0b57d0a0fa719e3175cfd362c353e119]: Textual amendment: Order revoked (26.7.2017) by [The Fire and Rescue Services (Appointment of Inspector) (England) (Revocation) Order 2017 (S.I. 2017/776)](https://www.legislation.gov.uk/uksi/2017/776), [arts. 1](https://www.legislation.gov.uk/uksi/2017/776/article/1), [2](https://www.legislation.gov.uk/uksi/2017/776/article/2)

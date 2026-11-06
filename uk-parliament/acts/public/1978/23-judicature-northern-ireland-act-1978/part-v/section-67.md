@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Subpoenas in other parts of the United Kingdom.[^c13726661][^c13726671][^c13726681][^key-6d8588a6b1ab9c5b6e11e2f1d4c24bc5]
+## 67. Subpoenas in other parts of the United Kingdom.[^c13726661][^c13726671][^c13726681][^c-6d8588a6b1ab9c5b6e11e2f1d4c24bc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ order that a writ of subpoena ad testificandum or writ of subpoena duces tecum s
 
 [^c13726681]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/1978/23/section/67) applied by [Opticians Act 1989 (c. 44, SIF 83:1)](https://www.legislation.gov.uk/ukpga/1989/44), [s. 21(2)](https://www.legislation.gov.uk/ukpga/1989/44/section/21/2)
 
-[^key-6d8588a6b1ab9c5b6e11e2f1d4c24bc5]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/1978/23/section/67) applied (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9/3)
+[^c-6d8588a6b1ab9c5b6e11e2f1d4c24bc5]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/1978/23/section/67) applied (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2024/374/schedule/3/paragraph/9/3)

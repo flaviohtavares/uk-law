@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Obstructions etc[^key-c693dc89380d1205f2a4f87c5bb74b93]
+## 82. Obstructions etc[^c-c693dc89380d1205f2a4f87c5bb74b93]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ A may make an application for an order under subsection (3).
 
 ## Annotations
 
-[^key-c693dc89380d1205f2a4f87c5bb74b93]: Commencement: [S. 82](https://www.legislation.gov.uk/nia/2016/22/section/82) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-c693dc89380d1205f2a4f87c5bb74b93]: Commencement: [S. 82](https://www.legislation.gov.uk/nia/2016/22/section/82) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

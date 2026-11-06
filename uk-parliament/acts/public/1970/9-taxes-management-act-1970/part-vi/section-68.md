@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. High Court, etc.[^c845570][^key-5fdfed631c2c7d9cd19e7f6dda881eb9][^key-c59873b8ed9ded2b3f67644ed31e3892][^key-c17bac68018f9bfb4dd736483a4c790d][^key-a35f374cc488b3e877defff2d425c0ac][^key-a35f374cc488b3e877defff2d425c0ac]
+## 68. High Court, etc.[^c845570][^c-5fdfed631c2c7d9cd19e7f6dda881eb9][^c-c59873b8ed9ded2b3f67644ed31e3892][^c-c17bac68018f9bfb4dd736483a4c790d][^c-a35f374cc488b3e877defff2d425c0ac][^c-a35f374cc488b3e877defff2d425c0ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 
     S. 68 applied by [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), s.134, Sch.17 para.18 (special tax on banking deposits).
 
-[^key-5fdfed631c2c7d9cd19e7f6dda881eb9]: Modification: Ss. 66-68 applied (with modifications) (31.7.1997) by [Finance (No. 2) Act 1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58), [Sch. 2 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/2/paragraph/15/1)
+[^c-5fdfed631c2c7d9cd19e7f6dda881eb9]: Modification: Ss. 66-68 applied (with modifications) (31.7.1997) by [Finance (No. 2) Act 1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58), [Sch. 2 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/2/paragraph/15/1)
 
-[^key-c59873b8ed9ded2b3f67644ed31e3892]: Modification: S. 68 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999 (S.I. 1999/2537)](https://www.legislation.gov.uk/uksi/1999/2537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/3/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1999/2537/schedule/part/I)
+[^c-c59873b8ed9ded2b3f67644ed31e3892]: Modification: S. 68 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999 (S.I. 1999/2537)](https://www.legislation.gov.uk/uksi/1999/2537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/3/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1999/2537/schedule/part/I)
 
-[^key-c17bac68018f9bfb4dd736483a4c790d]: Modification: Ss. 65-68 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 110(1)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/110/1/c) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
+[^c-c17bac68018f9bfb4dd736483a4c790d]: Modification: Ss. 65-68 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 110(1)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/110/1/c) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
 
-[^key-a35f374cc488b3e877defff2d425c0ac]: Modification: Pt. 6 applied (with modifications) by [The Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682)](https://www.legislation.gov.uk/uksi/2003/2682), [reg. 97ZL](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97ZL) (as inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5))
+[^c-a35f374cc488b3e877defff2d425c0ac]: Modification: Pt. 6 applied (with modifications) by [The Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682)](https://www.legislation.gov.uk/uksi/2003/2682), [reg. 97ZL](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97ZL) (as inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5))

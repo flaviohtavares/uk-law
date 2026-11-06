@@ -25,14 +25,14 @@ summary: ''
 - (a) has knowledge of the activities to be carried out and of the procedures to be performed under the licence which is adequate to carry out the functions mentioned in paragraph (2); and
 - (b) has adequate experience relating to those activities and procedures.
 
-(1A)[^key-81df6de44634c22534871673d42b99e3] In respect of a licence holder in Great Britain, paragraph (1) is subject to regulation 45AA.
+(1A)[^c-81df6de44634c22534871673d42b99e3] In respect of a licence holder in Great Britain, paragraph (1) is subject to regulation 45AA.
 
 (2) Those functions are—
 
 - (a) ensuring that the conditions under which the licence was granted have been, and are being, complied with; and
-- (b)[^key-7a23d4c8f5b42126886414d0185c1d1a] ensuring that the quality of medicinal products handled by the licence holder is being maintained in accordance with the requirements of—
+- (b)[^c-7a23d4c8f5b42126886414d0185c1d1a] ensuring that the quality of medicinal products handled by the licence holder is being maintained in accordance with the requirements of—
   - (i) in the case of a licence holder in Great Britain, the UK marketing authorisations, certificates of registration or traditional herbal registrations, and
-  - (ii) in the case of a licence holder in Northern Ireland, the marketing authorisations, requirements of regulation 167A,[^key-937172f2927dc7b23e39fbcc595d3d5c] Article 126a authorisations, certificates of registration or traditional herbal registrations,
+  - (ii) in the case of a licence holder in Northern Ireland, the marketing authorisations, requirements of regulation 167A,[^c-937172f2927dc7b23e39fbcc595d3d5c] Article 126a authorisations, certificates of registration or traditional herbal registrations,
 
   applicable to those products.
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-81df6de44634c22534871673d42b99e3]: Textual amendment: Reg. 45(1A) inserted (31.12.2022) [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/36/2) (as substituted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/26/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81df6de44634c22534871673d42b99e3]: Textual amendment: Reg. 45(1A) inserted (31.12.2022) [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/36/2) (as substituted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/26/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a23d4c8f5b42126886414d0185c1d1a]: Textual amendment: Reg. 45(2)(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [36(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/36/3) (as substituted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/26/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a23d4c8f5b42126886414d0185c1d1a]: Textual amendment: Reg. 45(2)(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [36(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/36/3) (as substituted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/26/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-937172f2927dc7b23e39fbcc595d3d5c]: Textual amendment: Words in [reg. 45(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45/2/b/ii) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1452/regulation/12)
+[^c-937172f2927dc7b23e39fbcc595d3d5c]: Textual amendment: Words in [reg. 45(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/45/2/b/ii) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1452/regulation/12)

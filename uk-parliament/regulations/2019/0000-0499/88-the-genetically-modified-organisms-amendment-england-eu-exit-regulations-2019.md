@@ -60,7 +60,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-936550cbb4480f50b17136c3d18e3704]
+### 1. Citation and commencement[^c-936550cbb4480f50b17136c3d18e3704]
 
 (1) These Regulations may be cited as the Genetically Modified Organisms (Amendment) (England) (EU Exit) Regulations 2019.
 
@@ -71,7 +71,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendments made to out of date references
 
-### 2. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^key-bf0051ed30bbb2c666713e04b89989b7]
+### 2. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^c-bf0051ed30bbb2c666713e04b89989b7]
 
 (1) The Genetically Modified Organisms (Deliberate Release) Regulations 2002 [^c23525271] are amended as follows.
 
@@ -86,7 +86,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Amendments to subordinate legislation relating to withdrawal from the European Union
 
-### 3. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^key-3c7880ba62908f40f9024a2c4ae275df]
+### 3. The Genetically Modified Organisms (Deliberate Release) Regulations 2002[^c-3c7880ba62908f40f9024a2c4ae275df]
 
 (1) The Genetically Modified Organisms (Deliberate Release) Regulations 2002 are amended as follows.
 
@@ -167,14 +167,14 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (9) In regulation 23—
 
-- (a)[^key-a4f98dd2df58e8ab47ff84275d2f39f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a4f98dd2df58e8ab47ff84275d2f39f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraph (2);
 - (c) in paragraph (3), for “paragraphs (1) and (2)” substitute “ paragraph (1) ”;
-- (d)[^key-7ad02f0e4634e4b689874e9c1a6cfe51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7ad02f0e4634e4b689874e9c1a6cfe51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In regulation 24—
 
-- (a)[^key-9c15ef8e0b64f16ffdd1b74bc94a1160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9c15ef8e0b64f16ffdd1b74bc94a1160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (5)—
   - (i) omit “under the relevant EU provisions”;
   - (ii) for the words from “an official national catalogue” to the end substitute “ a National List in accordance with regulation 3 of the Seeds (National Lists of Varieties) Regulations 2001 [^c23525321] ”.
@@ -243,17 +243,17 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 - (a) in paragraph 2, omit “in the European Union”;
 - (b) in paragraph 5, omit “within the European Union”;
-- (c)[^key-1f9d85b1f6041303bd336a565c799974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1f9d85b1f6041303bd336a565c799974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph 8, omit “established in the European Union”;
 - (e) in paragraph 14, for “the European Union” substitute “ England ”.
 
 (19) In Schedule 4, in paragraph 6, omit the words from “, and whether the views” to the end.
 
-### 4. The Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004[^key-32ac77aa31f525aadc3ec111fcf75268]
+### 4. The Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004[^c-32ac77aa31f525aadc3ec111fcf75268]
 
 In the Schedule to the Genetically Modified Organisms (Transboundary Movements) (England) Regulations 2004 [^c23525341]—
 
-- (a) in Part 1, in the text in the second column in the row “Article 10(3)”, for the words from “without authorisation” to the end substitute “ which are not permitted to be marketed in Great Britain[^key-871b6717a935d8e24337aa5d9ac5f165], or without authorisation to the import having been expressly agreed by the competent authority of the importing country. ”;
+- (a) in Part 1, in the text in the second column in the row “Article 10(3)”, for the words from “without authorisation” to the end substitute “ which are not permitted to be marketed in Great Britain[^c-871b6717a935d8e24337aa5d9ac5f165], or without authorisation to the import having been expressly agreed by the competent authority of the importing country. ”;
 - (b) in Part 2, in the text in the second column in the row “Article 6”, in the second sub-paragraph, omit “and to the Commission”.
 
 George Eustice
@@ -280,13 +280,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23525261]: Marginal citation: [S.I. 1991/755](https://www.legislation.gov.uk/uksi/1991/755).
 
-[^key-936550cbb4480f50b17136c3d18e3704]: Commencement: Reg. 1 in force at 13.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/a)
+[^c-936550cbb4480f50b17136c3d18e3704]: Commencement: Reg. 1 in force at 13.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/a)
 
-[^key-bf0051ed30bbb2c666713e04b89989b7]: Commencement: Reg. 2 in force at 13.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/a)
+[^c-bf0051ed30bbb2c666713e04b89989b7]: Commencement: Reg. 2 in force at 13.2.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/88/regulation/1/2/a)
 
 [^c23525271]: Marginal citation: [S.I. 2002/2443](https://www.legislation.gov.uk/uksi/2002/2443), amended by [S.I. 2004/2411](https://www.legislation.gov.uk/uksi/2004/2411), 2005/2759, 2009/1892, 2011/1043, 2018/575.
 
-[^key-3c7880ba62908f40f9024a2c4ae275df]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3c7880ba62908f40f9024a2c4ae275df]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23525281]: Marginal citation: OJ No L 106, 17.4.2001, p. 1, as last amended by Commission Directive (EU) 2018/350 (OJ No L 67, 9.3.2018, p. 30).
 
@@ -296,20 +296,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23525311]: Marginal citation: S.L 2013/2033, amended by [S.I. 2014/599](https://www.legislation.gov.uk/uksi/2014/599), 2018/761.
 
-[^key-a4f98dd2df58e8ab47ff84275d2f39f6]: Textual amendment: Reg. 3(9)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4f98dd2df58e8ab47ff84275d2f39f6]: Textual amendment: Reg. 3(9)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ad02f0e4634e4b689874e9c1a6cfe51]: Textual amendment: Reg. 3(9)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ad02f0e4634e4b689874e9c1a6cfe51]: Textual amendment: Reg. 3(9)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c15ef8e0b64f16ffdd1b74bc94a1160]: Textual amendment: Reg. 3(10)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c15ef8e0b64f16ffdd1b74bc94a1160]: Textual amendment: Reg. 3(10)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Farming (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/759)](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2019/759/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23525321]: Marginal citation: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), amended by [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949), 2011/464, 2018/942; there are other amending instruments but none is relevant.
 
 [^c23525331]: Marginal citation: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026), to which there are amendments not relevant to these Regulations.
 
-[^key-1f9d85b1f6041303bd336a565c799974]: Textual amendment: Reg. 3(18)(c) omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2019/1252/regulation/9)
+[^c-1f9d85b1f6041303bd336a565c799974]: Textual amendment: Reg. 3(18)(c) omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2019/1252/regulation/9)
 
-[^key-32ac77aa31f525aadc3ec111fcf75268]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-32ac77aa31f525aadc3ec111fcf75268]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23525341]: Marginal citation: [S.I. 2004/2692](https://www.legislation.gov.uk/uksi/2004/2692), amended by [S.I. 2008/2598](https://www.legislation.gov.uk/uksi/2008/2598), 2011/1043.
 
-[^key-871b6717a935d8e24337aa5d9ac5f165]: Textual amendment: Words in reg. 4(a) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [3](https://www.legislation.gov.uk/uksi/2020/1421/regulation/3)
+[^c-871b6717a935d8e24337aa5d9ac5f165]: Textual amendment: Words in reg. 4(a) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1421)](https://www.legislation.gov.uk/uksi/2020/1421), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [3](https://www.legislation.gov.uk/uksi/2020/1421/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-5a30acaed9902507dbd3a9387726f69f]
+## 1. Citation, commencement and extent[^c-5a30acaed9902507dbd3a9387726f69f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a30acaed9902507dbd3a9387726f69f]: Commencement: Art. 1 in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1)
+[^c-5a30acaed9902507dbd3a9387726f69f]: Commencement: Art. 1 in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1580/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590). Regulation 9 prospectively amends [S.I. 2019/792](https://www.legislation.gov.uk/uksi/2019/792).
 

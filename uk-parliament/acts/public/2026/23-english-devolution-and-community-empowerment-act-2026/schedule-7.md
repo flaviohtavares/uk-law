@@ -22,7 +22,7 @@ summary: ''
 
 Section 24
 
-**1.**[^key-19b303f28a466679ab3c874434aa9d5f] (1) The [Road Traffic Regulation Act 1984](https://www.legislation.gov.uk/ukpga/1984/27/contents) is amended in accordance with this paragraph.
+**1.**[^c-19b303f28a466679ab3c874434aa9d5f] (1) The [Road Traffic Regulation Act 1984](https://www.legislation.gov.uk/ukpga/1984/27/contents) is amended in accordance with this paragraph.
 
 (2) After Part 2 insert—
 
@@ -335,7 +335,7 @@ Section 24
 > - (b) no regulations may be made under any other provision of Part 2A unless a draft has been laid before Parliament and has been approved by a resolution of each House of Parliament;
 > - (c) but a statutory instrument by which the power conferred by section 22I is exercised may, where the power conferred by any other provision of Part 2A is exercised by the same instrument, be made under the procedure described in paragraph (b) instead of the procedure mentioned in paragraph (a).
 
-**2.**[^key-45b2cbb94c5917c444db923ff3fa5218] (1) The Road Traffic Offenders Act 1988 is amended in accordance with this paragraph.
+**2.**[^c-45b2cbb94c5917c444db923ff3fa5218] (1) The Road Traffic Offenders Act 1988 is amended in accordance with this paragraph.
 
 (2) In section 91 (penalty for breach of regulations), in paragraph (b), after “section” insert “22I,”.
 
@@ -358,6 +358,6 @@ Section 24
 
 ## Annotations
 
-[^key-19b303f28a466679ab3c874434aa9d5f]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-19b303f28a466679ab3c874434aa9d5f]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-45b2cbb94c5917c444db923ff3fa5218]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-45b2cbb94c5917c444db923ff3fa5218]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

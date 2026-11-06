@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Repeals.[^key-96fd5d8c7af0d047f191cd020b08f040][^key-4bcffbc473fe6d60c207c8380f98353e]
+## 177. Repeals.[^c-96fd5d8c7af0d047f191cd020b08f040][^c-4bcffbc473fe6d60c207c8380f98353e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The enactments shown in Schedule 7 are repealed to the extent specified in the t
 
 ## Annotations
 
-[^key-96fd5d8c7af0d047f191cd020b08f040]: Commencement: S. 177 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
+[^c-96fd5d8c7af0d047f191cd020b08f040]: Commencement: S. 177 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
 
-[^key-4bcffbc473fe6d60c207c8380f98353e]: Commencement: S. 177 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-4bcffbc473fe6d60c207c8380f98353e]: Commencement: S. 177 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)

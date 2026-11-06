@@ -34,10 +34,10 @@ summary: ''
 
 (4) For the purposes of paragraph (3), it does not matter whether, apart from the application of the limit, the member's remuneration in any tax year would have exceeded the amount of the limit.
 
-(5)[^key-0839b70bc08159d585eee51e44dc1b63] In the case of a 2008 Section Optant, this regulation is subject to regulation 136M.
+(5)[^c-0839b70bc08159d585eee51e44dc1b63] In the case of a 2008 Section Optant, this regulation is subject to regulation 136M.
 
 ## Annotations
 
 [^c19303041]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-0839b70bc08159d585eee51e44dc1b63]: Textual amendment: [Reg. 104(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/104/5) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [53](https://www.legislation.gov.uk/nisr/2010/22/regulation/53)
+[^c-0839b70bc08159d585eee51e44dc1b63]: Textual amendment: [Reg. 104(5)](https://www.legislation.gov.uk/nisr/2008/256/regulation/104/5) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [53](https://www.legislation.gov.uk/nisr/2010/22/regulation/53)

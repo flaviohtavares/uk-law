@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Maintenance of altered streets[^key-e5cb33332c71c2658a57e7df2400191b]
+## 12. Maintenance of altered streets[^c-e5cb33332c71c2658a57e7df2400191b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-e5cb33332c71c2658a57e7df2400191b]: Commencement: Art. 12 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-e5cb33332c71c2658a57e7df2400191b]: Commencement: Art. 12 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

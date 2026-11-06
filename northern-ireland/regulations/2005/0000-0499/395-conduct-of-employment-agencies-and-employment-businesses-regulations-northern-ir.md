@@ -52,7 +52,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 ## PART I — GENERAL AND INTERPRETATION
 
-### 1. Citation and commencement[^key-130fcbffcfe4300428f68bb8c6d5537c]
+### 1. Citation and commencement[^c-130fcbffcfe4300428f68bb8c6d5537c]
 
 (1) These Regulations may be cited as the Conduct of Employment Agencies and Employment Businesses Regulations (Northern Ireland) 2005.
 
@@ -60,7 +60,7 @@ The Department for Employment and Learning[^f00001], in exercise of the powers c
 
 (3) Regulations 26(7) and 32 shall come into operation on 25th December 2005.
 
-### 2. Interpretation[^key-389ffb246684e995b81cd8712a88fe08]
+### 2. Interpretation[^c-389ffb246684e995b81cd8712a88fe08]
 
 In these Regulations, unless the context otherwise requires –
 
@@ -72,14 +72,14 @@ In these Regulations, unless the context otherwise requires –
 - “employment business” means an employment business as defined in Article 11(1) and (3) of the Order and includes a person carrying on an employment business, and in the case of a person who carries on both an employment business and an agency means such a person in his capacity in carrying on the employment business;
 - “hirer” means a person (including an employment business) to whom an agency or employment business introduces or supplies or holds itself out as being capable of introducing or supplying a work-seeker;
 - “publication” means any publication whether in paper or electronic form other than a programme service within the meaning of the Broadcasting Act 1990[^f00005];
-- “vulnerable person” means any person who by reason of age, infirmity, illness, disability or any other circumstance is in need of care or attention, and includes any person under the age of eighteen;[^key-3e789a60a5bbbf624f5a96cca634fd89]
+- “vulnerable person” means any person who by reason of age, infirmity, illness, disability or any other circumstance is in need of care or attention, and includes any person under the age of eighteen;[^c-3e789a60a5bbbf624f5a96cca634fd89]
 - “work-finding services” means services (whether by the provision of information or otherwise) provided –
   - (a) by an agency to a person for the purpose of finding that person employment or seeking to find that person employment;
   - (b) by an employment business to an employee of the employment business for the purpose of finding or seeking to find another person, with a view to the employee acting for and under the control of that other person; or
   - (c) by an employment business to a person (the “first person”) for the purpose of finding or seeking to find another person (the “second person”), with a view to the first person becoming employed by the employment business and acting for and under the control of the second person; and
 - “work-seeker” means a person to whom an agency or employment business provides or holds itself out as being capable of providing work-finding services.
 
-### 3. The meaning of “connected”[^key-da7d21656a992de79ca5a159e0c8fe86]
+### 3. The meaning of “connected”[^c-da7d21656a992de79ca5a159e0c8fe86]
 
 (1) For the purposes of these Regulations a person is connected with –
 
@@ -104,7 +104,7 @@ In these Regulations, unless the context otherwise requires –
 - (b) the directors of that company or another company which has control of it (or any of them) are accustomed to act in accordance with his directions or instructions; or
 - (c) he is entitled to exercise, or control the exercise of, one third or more of the voting power at any general meeting of the company or of another company which has control of it.
 
-### 4. Transitional and Saving Provisions and Revocation[^key-3803b1f016a3829886d3a7ef2354407d]
+### 4. Transitional and Saving Provisions and Revocation[^c-3803b1f016a3829886d3a7ef2354407d]
 
 (1) The transitional and saving provisions in Schedule 1 shall apply.
 
@@ -116,7 +116,7 @@ In these Regulations, unless the context otherwise requires –
 
 ## PART II — GENERAL OBLIGATIONS
 
-### 5. Restriction on use of additional services[^key-ab3e4f285a26f0f5b5bb5f78b418a540][^key-7861fab681e3b41596de6af958e594ef]
+### 5. Restriction on use of additional services[^c-ab3e4f285a26f0f5b5bb5f78b418a540][^c-7861fab681e3b41596de6af958e594ef]
 
 (1)[^M_F_319623fe-d49c-4642-b3c9-de95f1829755] Neither an agency nor an employment business may make the provision to a work-seeker of work-finding services conditional upon the work-seeker –
 
@@ -125,16 +125,16 @@ In these Regulations, unless the context otherwise requires –
 
 whether provided by the agency or the employment business or by any person with whom the agency or employment business is connected.
 
-(2)[^key-bc3e0d875ca196db6907fd40594c9f05] Where the work-seeker uses services for which the Order does not prohibit the charging of a fee, an agency or employment business providing or making provision for such services shall ensure that the work-seeker is able to cancel or withdraw from those services at any time without incurring any detriment or penalty, subject to the work-seeker giving to the provider of those services in paper form or by electronic means notice of 5 business days or, for services relating to the provision of living accommodation, notice of 10 business days.
+(2)[^c-bc3e0d875ca196db6907fd40594c9f05] Where the work-seeker uses services for which the Order does not prohibit the charging of a fee, an agency or employment business providing or making provision for such services shall ensure that the work-seeker is able to cancel or withdraw from those services at any time without incurring any detriment or penalty, subject to the work-seeker giving to the provider of those services in paper form or by electronic means notice of 5 business days or, for services relating to the provision of living accommodation, notice of 10 business days.
 
-(3)[^key-0a568a5488b76bc476a4c7b0418d33db] In addition, where the work-seeker is seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer or as a photographic or fashion model and that work-seeker uses a service, for which the Order does not prohibit the charging of a fee, which includes the production of a photographic image or audio or video recording of the work-seeker, an agency or employment business providing or making provision for such service shall ensure that, for 30 days from the date of the agency or employment business entering into a contract for such a service whether written or oral—
+(3)[^c-0a568a5488b76bc476a4c7b0418d33db] In addition, where the work-seeker is seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer or as a photographic or fashion model and that work-seeker uses a service, for which the Order does not prohibit the charging of a fee, which includes the production of a photographic image or audio or video recording of the work-seeker, an agency or employment business providing or making provision for such service shall ensure that, for 30 days from the date of the agency or employment business entering into a contract for such a service whether written or oral—
 
 - (a) the agency or the employment business shall not charge a fee to a work-seeker for that part of the service which consists of providing or making provision for a photographic image or audio or video recording of the work-seeker; and
 - (b) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any contract with the agency or employment business for such a service with immediate effect by informing the agency or employment business of cancellation or withdrawal and where the work-seeker informs the agency or employment business of cancellation or withdrawal the work-seeker has no obligation to make any payment under the contract.
 
 (4) Paragraphs (2) and (3) do not apply to a service for which a fee may be charged by virtue of regulation 26(1).
 
-### 6. Restriction on detrimental action relating to work-seekers working elsewhere[^key-56c95b6566c33a0f8459a7e431e4556d]
+### 6. Restriction on detrimental action relating to work-seekers working elsewhere[^c-56c95b6566c33a0f8459a7e431e4556d]
 
 (1) Neither an agency nor an employment business may (whether by the inclusion of a term in a contract with a relevant work-seeker or otherwise) –
 
@@ -151,7 +151,7 @@ whether provided by the agency or the employment business or by any person with 
 
 (3) In this regulation, “relevant work-seeker” means any work-seeker other than, in the case of an employment business, a work-seeker who is or will be employed by the employment business under a contract of service or apprenticeship.
 
-### 7. Restriction on providing work-seekers in industrial disputes[^key-066c696e14e08662575eb109cc6e7e6b]
+### 7. Restriction on providing work-seekers in industrial disputes[^c-066c696e14e08662575eb109cc6e7e6b]
 
 (1) Subject to paragraph (2) an employment business shall not introduce or supply a work-seeker to a hirer to perform –
 
@@ -162,7 +162,7 @@ unless in either case the employment business does not know, and has no reasonab
 
 (2) Paragraph (1) shall not apply if, in relation to the first worker, the strike or other industrial action in question is an unofficial strike or other unofficial industrial action for the purposes of Article 143 of the Employment Rights (Northern Ireland) Order 1996[^f00010].
 
-### 8. Restriction on paying work-seekers' remuneration[^key-e4f4e67a0ce7689fc869729ccea8a13c]
+### 8. Restriction on paying work-seekers' remuneration[^c-e4f4e67a0ce7689fc869729ccea8a13c]
 
 (1) Subject to paragraph (2), an agency shall not, in respect of a work-seeker whom the agency has introduced or supplied to a hirer –
 
@@ -179,13 +179,13 @@ the work-seeker, his remuneration arising from the employment with the hirer.
   - (ii) the agency complies with the provisions of regulation 25 and Schedule 2; or
 - (b) the hirer and the agency are connected.
 
-### 9. Restriction on agencies and employment businesses purporting to act on a different basis[^key-d17e6c4bf55b2ba76064cf8d44dd8a6c]
+### 9. Restriction on agencies and employment businesses purporting to act on a different basis[^c-d17e6c4bf55b2ba76064cf8d44dd8a6c]
 
 (1) Neither an agency nor an employment business may, in relation to the introduction or supply of a work-seeker to a hirer, purport to the work-seeker to be acting as an agency and purport to the hirer to be acting as an employment business.
 
 (2) Neither an agency nor an employment business may, in relation to the introduction or supply of a work-seeker to a hirer, purport to the work-seeker to be acting as an employment business and purport to the hirer to be acting as an agency.
 
-### 10. Restriction on charges to hirers[^key-e48ad6c67a490b707ebe89fe668ac414]
+### 10. Restriction on charges to hirers[^c-e48ad6c67a490b707ebe89fe668ac414]
 
 (1) Any term of a contract between an employment business and a hirer which is contingent on a work-seeker taking up employment with the hirer or working for the hirer pursuant to being supplied by another employment business is unenforceable by the employment business in relation to that work-seeker unless the contract provides that instead of a transfer fee the hirer may by notice to the employment business elect for a hire period of such length as is specified in the contract during which the work-seeker will be supplied to the hirer –
 
@@ -216,7 +216,7 @@ is unenforceable by the employment business in relation to the event concerned w
 - (a) seek to enforce against the hirer, or otherwise seek to give effect to, any term of a contract which is unenforceable by virtue of paragraph (1), (3) or (4); or
 - (b) otherwise directly or indirectly request a payment to which by virtue of this regulation the employment business is not entitled.
 
-### 11. Entering into a contract on behalf of a client[^key-89c2758e3b7d1acda5f27935e760e238]
+### 11. Entering into a contract on behalf of a client[^c-89c2758e3b7d1acda5f27935e760e238]
 
 (1) An employment business shall not enter into, nor purport to enter into, a contract –
 
@@ -241,7 +241,7 @@ unless the requirements in paragraph (3) are satisfied.
 
 (6) An agency shall not enter into a contract between a work-seeker and a hirer on behalf of both the work-seeker and the hirer.
 
-### 12. Prohibition on employment businesses withholding payment to work-seekers on certain grounds[^key-bcb9df78fc6de81b24daf148a9ad21ee]
+### 12. Prohibition on employment businesses withholding payment to work-seekers on certain grounds[^c-bcb9df78fc6de81b24daf148a9ad21ee]
 
 An employment business shall not, in respect of a work-seeker whom it supplies to a hirer, withhold or threaten to withhold from the work-seeker (whether by means of the inclusion of a term in a contract with the work-seeker or otherwise) the whole or any part of any payment in respect of any work done by the work-seeker on any of the following grounds –
 
@@ -252,7 +252,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 
 ## PART III — REQUIREMENTS TO BE SATISFIED BEFORE SERVICES ARE PROVIDED
 
-### 13. Notification of charges and the terms of offers[^key-940f48705a92ed4f93a340b371820f58]
+### 13. Notification of charges and the terms of offers[^c-940f48705a92ed4f93a340b371820f58]
 
 (1) Subject to paragraph (2), on the first occasion that an agency or employment business offers to provide or arrange the provision of a service to a work-seeker, the agency or employment business shall give notice to the work-seeker stating –
 
@@ -260,7 +260,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 - (b) whether any other services or goods which may be provided by the agency or employment business or any other person are services or goods for which the agency or employment business or other person providing them will or may charge a fee, together with details of any such fee including –
   - (i) the amount or method of calculation of the fee;
   - (ii) the identity of the person to whom the fee is or will be payable;
-  - (iii) a description of the services or goods to which the fee relates and a statement of the work-seeker’s right to cancel or withdraw from the service[^key-fe0608b9ce95d01ca5178a502688b1ed] and, as the case may be, of the notice period required under paragraph (2) of regulation 5 or of the period during which the right under paragraph (3) of that regulation can be exercised[^key-5dc65cece9e96b3bdf266b208de6e1bc]; and
+  - (iii) a description of the services or goods to which the fee relates and a statement of the work-seeker’s right to cancel or withdraw from the service[^c-fe0608b9ce95d01ca5178a502688b1ed] and, as the case may be, of the notice period required under paragraph (2) of regulation 5 or of the period during which the right under paragraph (3) of that regulation can be exercised[^c-5dc65cece9e96b3bdf266b208de6e1bc]; and
   - (iv) the circumstances, if any, in which refunds or rebates are payable to the work-seeker, the scale of such refunds or rebates, and if no refunds or rebates are payable, a statement to that effect.
 
 (2) Paragraph (1) shall apply only where one or more services or goods referred to in paragraph (1)(b) for which the work-seeker will or may be charged a fee may be provided to the work-seeker.
@@ -269,7 +269,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 
 (4) Where an agency or employment business offers any gift or makes an offer of any benefit to a work-seeker, in order to induce him to engage the agency or employment business to provide him with services, the agency or employment business shall notify the work-seeker of the terms on which the gift or benefit is offered before the offer is open for acceptance by the work-seeker.
 
-### 14. Requirement to obtain agreement to terms with work-seekers: Employment Businesses[^key-45d190664b5ab4fc834e27024a335c04]
+### 14. Requirement to obtain agreement to terms with work-seekers: Employment Businesses[^c-45d190664b5ab4fc834e27024a335c04]
 
 (1) Before first providing any work-finding services to a work-seeker, an employment business shall obtain the agreement of the work-seeker to the terms which apply or will apply as between the employment business and the work-seeker including—
 
@@ -290,7 +290,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 
 (6) An employment business may not make the continued provision of any services by it to a work-seeker conditional on the agreement by the work-seeker to any such variation.
 
-### 15. Content of terms with work-seekers: Employment businesses[^key-cbd97259beecbadcdf712a7c38acdb9f]
+### 15. Content of terms with work-seekers: Employment businesses[^c-cbd97259beecbadcdf712a7c38acdb9f]
 
 In the case of an employment business, the terms to be agreed in accordance with regulation 14 shall include –
 
@@ -303,7 +303,7 @@ In the case of an employment business, the terms to be agreed in accordance with
 - (e) details of the intervals at which remuneration will be paid; and
 - (f) details of any entitlement to annual holidays and to payment in respect of such holidays.
 
-### 16. Requirement to obtain agreement to terms with work-seekers and content of terms with work-seekers: Agencies[^key-f38ccb9cffb933f4da6e5cde4f1147bf]
+### 16. Requirement to obtain agreement to terms with work-seekers and content of terms with work-seekers: Agencies[^c-f38ccb9cffb933f4da6e5cde4f1147bf]
 
 (1) Before first providing any work-finding services to a work-seeker, for which it is permitted by regulation 26(1) to charge a fee, an agency shall obtain the agreement of the work-seeker to the terms which apply or will apply as between the agency and the work-seeker including—
 
@@ -350,7 +350,7 @@ In the case of an employment business, the terms to be agreed in accordance with
 
 (8) An agency may not make the continued provision of any services by it to a work-seeker conditional on the agreement by the work-seeker to any such variation.
 
-### 17. Requirement for employment businesses to obtain agreement to terms with hirers[^key-ea3f03948aeba548732bf037769fda90]
+### 17. Requirement for employment businesses to obtain agreement to terms with hirers[^c-ea3f03948aeba548732bf037769fda90]
 
 (1) Before first providing services to a hirer, an employment business shall agree with the hirer the terms which apply or will apply between the employment business and the hirer, including—
 
@@ -366,7 +366,7 @@ In the case of an employment business, the terms to be agreed in accordance with
 
 ## PART IV — REQUIREMENTS TO BE SATISFIED IN RELATION TO THE INTRODUCTION OR SUPPLY OF A WORK-SEEKER TO A HIRER
 
-### 18. Information to be obtained from a hirer[^key-6cee93e25b1e9b03f5f3de292e50a585]
+### 18. Information to be obtained from a hirer[^c-6cee93e25b1e9b03f5f3de292e50a585]
 
 Neither an agency nor an employment business may introduce or supply a work-seeker to a hirer unless the agency or employment business has obtained sufficient information from the hirer to select a suitable work-seeker for the position which the hirer seeks to fill, including the following information –
 
@@ -379,7 +379,7 @@ Neither an agency nor an employment business may introduce or supply a work-seek
   - (i) the minimum rate of remuneration and any other benefits which the hirer would offer to a person in the position which it seeks to fill, and the intervals at which the person would be paid; and
   - (ii) where applicable, the length of notice which a work-seeker in such a position would be required to give, and entitled to receive, to terminate the employment with the hirer.
 
-### 19. Confirmation to be obtained about a work-seeker[^key-afa7ac5c7e2f7bb9adb937278062fc67]
+### 19. Confirmation to be obtained about a work-seeker[^c-afa7ac5c7e2f7bb9adb937278062fc67]
 
 (1) An employment business may not introduce or supply a work-seeker to a hirer unless it has obtained confirmation—
 
@@ -393,7 +393,7 @@ Neither an agency nor an employment business may introduce or supply a work-seek
 
 (3) Neither an agency nor an employment business may introduce or supply a work-seeker to a hirer unless it has obtained confirmation that the work-seeker is willing to work in the position which the hirer seeks to fill.
 
-### 20. Steps to be taken for the protection of the work-seeker and the hirer[^key-6f37032f4824ff2721c9295f542c6239]
+### 20. Steps to be taken for the protection of the work-seeker and the hirer[^c-6f37032f4824ff2721c9295f542c6239]
 
 (1) Neither an agency nor an employment business may introduce or supply a work-seeker to a hirer unless the agency or employment business has –
 
@@ -421,9 +421,9 @@ Neither an agency nor an employment business may introduce or supply a work-seek
 
 (7) In this regulation, “without delay” means on the same day, or where that is not reasonably practicable, on the next business day.
 
-### 21. Provision of information to work-seekers and hirers[^key-1300dd0fbf94a493ee48cd8255050cfa]
+### 21. Provision of information to work-seekers and hirers[^c-1300dd0fbf94a493ee48cd8255050cfa]
 
-(1) Subject to paragraphs (3), (4) and (5)[^key-871bef329fa9c19a97c6ff481c23e8e7], an agency or employment business shall ensure that at the same time as –
+(1) Subject to paragraphs (3), (4) and (5)[^c-871bef329fa9c19a97c6ff481c23e8e7], an agency or employment business shall ensure that at the same time as –
 
 - (a) it proposes a particular work-seeker to a hirer –
   - (i) it gives to the hirer (whether orally or otherwise) all information it has been provided with about the matters referred to in regulation 19; and
@@ -441,14 +441,14 @@ Neither an agency nor an employment business may introduce or supply a work-seek
 
 unless the work-seeker or hirer requests otherwise.
 
-(4)[^key-9ec3406cac4f3278a80fc5d8b486aeff] Subject to paragraphs (3) and (5), where an employment business intends to introduce or supply a work-seeker to a hirer for an assignment of 5 consecutive business days’ duration or less—
+(4)[^c-9ec3406cac4f3278a80fc5d8b486aeff] Subject to paragraphs (3) and (5), where an employment business intends to introduce or supply a work-seeker to a hirer for an assignment of 5 consecutive business days’ duration or less—
 
 - (a) paragraph (1)(a)(i) may be satisfied by the employment business giving to the hirer (whether orally or otherwise) the name of the work-seeker to be supplied and a written confirmation by the employment business that it has complied with regulation 19; and
 - (b) paragraph (1)(b) may be satisfied, where the employment business has previously provided the work-seeker with the information referred to under that paragraph and that information remains unchanged, by the employment business giving to the work-seeker in paper form or by electronic means the information referred to in regulation 18(a) to (b).
 
 (5) Where, after it has started, an assignment to which paragraph (4) applies is extended beyond a duration of 5 business days, the information referred to in paragraph (1) which has not already been provided shall be provided in paper form or by electronic means by the end of the eighth business day of the assignment, or by the end of the assignment if sooner.
 
-### 22. Additional requirements where professional qualifications or authorisation are required or where work-seekers are to work with vulnerable persons[^key-ebf2ffef04fc8e253c69c99c4b08827e]
+### 22. Additional requirements where professional qualifications or authorisation are required or where work-seekers are to work with vulnerable persons[^c-ebf2ffef04fc8e253c69c99c4b08827e]
 
 (1) Where the work-seeker is to be supplied or introduced to a hirer with a view to taking up a position which involves working with, caring for or attending a vulnerable person, neither an agency nor an employment business may introduce or supply the work-seeker to a hirer unless, in addition to the requirements in regulations 18 to 21, the requirements in paragraph (2) are satisfied.
 
@@ -486,7 +486,7 @@ and includes, in relation to a person who is cohabiting or has cohabited with an
 
 ## PART V — SPECIAL SITUATIONS
 
-### 23. Situations where more than one agency or employment business is involved[^key-028caa7379611461aa402b919065faed]
+### 23. Situations where more than one agency or employment business is involved[^c-028caa7379611461aa402b919065faed]
 
 (1) Neither an agency nor an employment business (“A”) may enter into any contract or arrangement with another agency or employment business (“B”) with a view to B providing or facilitating the provision to a work-seeker or a hirer of any services of an agency or an employment business unless –
 
@@ -505,7 +505,7 @@ and includes, in relation to a person who is cohabiting or has cohabited with an
 - (b) the terms upon which those obligations are assigned or sub-contracted are recorded in a single document; and
 - (c) A has given the work-seeker or hirer, for whom it acts, a copy of that document.
 
-### 24. Situations where work-seekers are provided with travel or required to live away from home[^key-cc8f2bfabe9490afdd085a04e7447ad3]
+### 24. Situations where work-seekers are provided with travel or required to live away from home[^c-cc8f2bfabe9490afdd085a04e7447ad3]
 
 (1) Neither an agency nor an employment business may arrange for an au pair to take up a position where the au pair is to be required to repay the hirer or the agency or employment business the fare for the journey from the au pair’s home to the place of work, or from the place of work to the au pair’s home, out of money payable to the au pair by the hirer or the agency or employment business.
 
@@ -542,7 +542,7 @@ the agency or employment business shall, if the work does not start or upon it e
 
 ## PART VI — CLIENT ACCOUNTS AND CHARGES TO WORK-SEEKERS
 
-### 25. Client accounts[^key-27b0400fbaf8e42d119b73e3830e472a]
+### 25. Client accounts[^c-27b0400fbaf8e42d119b73e3830e472a]
 
 (1) In this regulation –
 
@@ -607,7 +607,7 @@ shall be paid into a client account no later than the end of the second business
 
 (18) Where a work-seeker becomes entitled, under the terms of any contract with a hirer, to any money paid to an agency by way of a hirer’s deposit, that money shall be treated as money received by the agency on behalf of that work-seeker for the purposes of paragraphs (4), and (6) to (12) (and, in the case of paragraph (9), as such money which it is required to pay into a client account), and the agency shall be treated as having received the money on behalf of the work-seeker on the day on which the work-seeker became entitled to it.
 
-### 26. Circumstances in which fees may be charged to work-seekers[^key-ba0f2f598a290e1dfc4120c7a0d707d4][^key-09895dd7db097bfbc2ebe29ed6c447f5]
+### 26. Circumstances in which fees may be charged to work-seekers[^c-ba0f2f598a290e1dfc4120c7a0d707d4][^c-09895dd7db097bfbc2ebe29ed6c447f5]
 
 (1) Subject to paragraphs (3) and (4), the restriction on charging fees to work-seekers contained in Article 7(1) of the Order[^f00016] shall not apply in respect of a fee charged by an agency for the service provided by it of finding or seeking to find a work-seeker employment in any of the occupations listed in Schedule 3.
 
@@ -617,20 +617,20 @@ shall be paid into a client account no later than the end of the second business
 
 (4) In any case in which the agency is connected with the hirer, paragraphs (1) and (7) only apply if, prior to the provision of the service in respect of which the fee is to be charged, the agency informs the work-seeker of the fact that it is connected with the hirer.
 
-(5) Paragraph (2) shall not apply to any fee charged to a work-seeker , who is not a work-seeker seeking employment as a photographic or fashion model,[^key-937a12b2ec5808abfa4f2f899f4283d7] by an agency in respect of the inclusion of information about the work-seeker in a publication provided that –
+(5) Paragraph (2) shall not apply to any fee charged to a work-seeker , who is not a work-seeker seeking employment as a photographic or fashion model,[^c-937a12b2ec5808abfa4f2f899f4283d7] by an agency in respect of the inclusion of information about the work-seeker in a publication provided that –
 
-- (a) the publication is wholly for one or both of the following purposes, namely the purpose of finding work-seekers employment in, or providing hirers with information about work-seekers in relation to, any of the occupations listed in Schedule 3 , other than photographic or fashion model[^key-cd5e2e4239988ee603e09b9be7212bfe];
+- (a) the publication is wholly for one or both of the following purposes, namely the purpose of finding work-seekers employment in, or providing hirers with information about work-seekers in relation to, any of the occupations listed in Schedule 3 , other than photographic or fashion model[^c-cd5e2e4239988ee603e09b9be7212bfe];
 - (b) either –
   - (i) the only work-finding service provided by the agency or any person connected with it to the work-seeker is the service described in this paragraph; or
   - (ii) the fee charged to the work-seeker amounts to no more than a reasonable estimate of the cost of production and circulation of the publication attributable to the inclusion of information about that work-seeker in the publication; and
-- (c) in addition to the requirements in regulations 13[^key-2e3964cd41c93836c6381ff1055cab93]... and 16, in so far as they are applicable, the agency has, before it entered into the contract with the work-seeker by reference to which the fee is to be charged, made available to him a copy of a current edition of the publication (or, where the publication exists only in electronic form, given him access to a current edition of the publication) in which it is offering to include information about him ; and[^key-6faecf5e0f0e91dc45babff2eb7591db]
-- (d)[^key-da3e13b99d462d84cbfa61d7d41a515d] in relation to a work-seeker who is not seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer, where an agency proposes to include information about the work-seeker in a publication, for 7 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
+- (c) in addition to the requirements in regulations 13[^c-2e3964cd41c93836c6381ff1055cab93]... and 16, in so far as they are applicable, the agency has, before it entered into the contract with the work-seeker by reference to which the fee is to be charged, made available to him a copy of a current edition of the publication (or, where the publication exists only in electronic form, given him access to a current edition of the publication) in which it is offering to include information about him ; and[^c-6faecf5e0f0e91dc45babff2eb7591db]
+- (d)[^c-da3e13b99d462d84cbfa61d7d41a515d] in relation to a work-seeker who is not seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer, where an agency proposes to include information about the work-seeker in a publication, for 7 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
   - (i) the agency shall not charge a fee permitted by this paragraph to a work-seeker,
   - (ii) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any such contract with immediate effect by informing the agency of such cancellation or withdrawal, and
   - (iii) the agency shall not include the information in the publication,
 
   and before entering into any such contract the agency shall inform the work-seeker of the right to cancel or withdraw from any such contract and the time limit for exercising that right;
-- (e)[^key-ffdcf548911895e817b0f0804222b7a5] where an agency proposes to include information about a work-seeker seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer in a publication, for 30 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
+- (e)[^c-ffdcf548911895e817b0f0804222b7a5] where an agency proposes to include information about a work-seeker seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer in a publication, for 30 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
   - (i) the agency shall not charge a fee permitted by this paragraph to a work-seeker, and
   - (ii) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any such contract with immediate effect by informing the agency of such cancellation or withdrawal,
 
@@ -642,7 +642,7 @@ shall be paid into a client account no later than the end of the second business
 - (g) where sub-paragraph (f) applies and the work-seeker informs the agency of an objection, the agency shall not charge a fee or include the information in the publication until the work-seeker’s reasonable requirements have been addressed (even if addressing the requirements takes longer than the period referred to in that sub-paragraph); and
 - (h) where an agency includes, or proposes to include, information about a work-seeker in a publication, the work-seeker is entitled to a full refund of the fees paid if the publication including that information is not produced and made available to potential hirers within 60 days from the date on which payment is made by the work-seeker.
 
-(5A)[^key-6d1cf601247b689716ca4152f188dbf8] Where an agency makes available to the work-seeker a copy of the information referred to in paragraph (5)(f)—
+(5A)[^c-6d1cf601247b689716ca4152f188dbf8] Where an agency makes available to the work-seeker a copy of the information referred to in paragraph (5)(f)—
 
 - (a) during the period referred to in paragraph (5)(e), where the period referred to in paragraph (5)(f) has elapsed without an objection or where the reasonable requirements of the work-seeker have been addressed, paragraph (5)(e) continues to apply; or
 - (b) after the period referred to in paragraph (5)(e) has elapsed, paragraph (5)(f) applies until the later of, the date on which the period referred to in paragraph (5)(f) has elapsed or, following an objection, the date on which the reasonable requirements of the work-seeker have been addressed.
@@ -656,16 +656,16 @@ shall be paid into a client account no later than the end of the second business
 - (a) this is the only work-finding service provided by the agency or any person connected with it to the work-seeker; and
 - (b) the agency has made available to the work-seeker a copy of a current edition of the publication (or, where the publication exists only in electronic form, given him access to a current edition of the publication) in advance of the work-seeker purchasing or subscribing for it.
 
-(7)[^key-ba0f2f598a290e1dfc4120c7a0d707d4] The restriction on charging fees to work-seekers contained in Article 7(1) of the Order shall not apply in respect of a fee charged by an agency for the service provided by it of finding or seeking to find a work-seeker employment where –
+(7)[^c-ba0f2f598a290e1dfc4120c7a0d707d4] The restriction on charging fees to work-seekers contained in Article 7(1) of the Order shall not apply in respect of a fee charged by an agency for the service provided by it of finding or seeking to find a work-seeker employment where –
 
 - (a) the work-seeker in question is a company; and
 - (b) the employment is in an occupation other than any of those occupations listed in Schedule 3.
 
 ## PART VII — MISCELLANEOUS
 
-### 27. Advertisements[^key-87d1845145407b7d651952b3582deccd]
+### 27. Advertisements[^c-87d1845145407b7d651952b3582deccd]
 
-(1) Every advertisement issued or caused to be issued by an agency or employment business shall mention in either audibly spoken words or easily legible characters the full name of the agency or employment business, and in relation to each position it advertises whether it is for temporary or permanent work[^key-d64f71b57ebf05fc95eed95205dff723].
+(1) Every advertisement issued or caused to be issued by an agency or employment business shall mention in either audibly spoken words or easily legible characters the full name of the agency or employment business, and in relation to each position it advertises whether it is for temporary or permanent work[^c-d64f71b57ebf05fc95eed95205dff723].
 
 (2) Neither an agency nor an employment business may issue or cause to be issued an advertisement about positions which hirers seek to fill unless the agency or employment business has –
 
@@ -674,9 +674,9 @@ shall be paid into a client account no later than the end of the second business
 
 (3) An agency or employment business shall, in every advertisement for work-seekers issued or caused to be issued by it in which rates of pay are given, state the nature of the work, the location at which the work-seeker would be required to work, and the minimum experience, training or qualifications which the work-seeker would be required to have in order to receive those rates of pay.
 
-### 28. Confidentiality[^key-b713ef1c6eea56cb34ceaf202c1b943a]
+### 28. Confidentiality[^c-b713ef1c6eea56cb34ceaf202c1b943a]
 
-(1) Subject to regulation 20 neither[^key-d3ae9d69206fbf5a2c6f7867f115feea] an agency nor an employment business may disclose information relating to a work-seeker, without the prior consent of that work-seeker, except –
+(1) Subject to regulation 20 neither[^c-d3ae9d69206fbf5a2c6f7867f115feea] an agency nor an employment business may disclose information relating to a work-seeker, without the prior consent of that work-seeker, except –
 
 - (a) for the purpose of providing work-finding services to that work-seeker;
 - (b) for the purposes of any legal proceedings (including arbitration); or
@@ -684,7 +684,7 @@ shall be paid into a client account no later than the end of the second business
 
 (2) Without prejudice to the generality of paragraph (1), an agency shall not disclose information relating to a work-seeker to any current employer of that work-seeker without that work-seeker’s prior consent, which has not by the time of such disclosure been withdrawn, and shall not make the provision of any services to that work-seeker conditional upon such consent being given or not withdrawn.
 
-### 29. Records[^key-38ab9465d500aa33d9599f4a5752f8df]
+### 29. Records[^c-38ab9465d500aa33d9599f4a5752f8df]
 
 (1) Subject to paragraph (6), every agency and every employment business shall keep records which are sufficient to show whether the provisions of the Order and these Regulations are being complied with including (subject to paragraph (3)) –
 
@@ -702,7 +702,7 @@ shall be paid into a client account no later than the end of the second business
 
 (6) This regulation does not apply to any records which an agency is required to preserve in accordance with paragraph 12 of Schedule 2.
 
-### 30. Civil liability[^key-50397dd765dea7759b34d3c4e0fbb717]
+### 30. Civil liability[^c-50397dd765dea7759b34d3c4e0fbb717]
 
 (1) Without prejudice to –
 
@@ -713,24 +713,24 @@ which exists or may be available apart from the provisions of the Order and thes
 
 (2) In this regulation, “damage” includes the death of, or injury to, any person (including any disease and any impairment of that person’s physical or mental condition).
 
-### 31. Effect of prohibited or unenforceable terms and recoverability of monies[^key-87aa70db709deb71ac75618f634bfdf6]
+### 31. Effect of prohibited or unenforceable terms and recoverability of monies[^c-87aa70db709deb71ac75618f634bfdf6]
 
 (1) Where any term of a contract is prohibited or made unenforceable by these Regulations, the contract shall continue to bind the parties to it if it is capable of continuing in existence without that term.
 
 (2) Where a hirer pays any money pursuant to a contractual term which is unenforceable by virtue of regulation 10, the hirer is entitled to recover that money.
 
-### 32. Application of the Regulations to work-seekers which are incorporated[^key-362b42612ec6ae053ef65d2c37b5537e]
+### 32. Application of the Regulations to work-seekers which are incorporated[^c-362b42612ec6ae053ef65d2c37b5537e]
 
 (1) Subject to paragraph (9), in these Regulations –
 
 - (a) any reference to a work-seeker, howsoever described, includes a work-seeker which is a company; and
 - (b) the regulations mentioned below shall be modified as set out below in a case where the work-seeker is a company.
 
-(2)[^key-ca1303f252a9c2f05c7fcacff4b78f42] In regulation 5 after “upon the work-seeker” insert—
+(2)[^c-ca1303f252a9c2f05c7fcacff4b78f42] In regulation 5 after “upon the work-seeker” insert—
 
 - “, or the person who is or would be supplied by the work-seeker to carry out the work”.
 
-(2A)[^key-9a96f1ea484c5014fbce1921906c4c42] In regulation 5(2) after “Where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
+(2A)[^c-9a96f1ea484c5014fbce1921906c4c42] In regulation 5(2) after “Where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
 
 (2B) In regulation 5(3) after “where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
 
@@ -750,7 +750,7 @@ which exists or may be available apart from the provisions of the Order and thes
 
 (5) In regulation 18(d), for the words “work-seeker” on each occasion on which they occur substitute the words “person supplied by the work-seeker to carry out the work”.
 
-(6)[^key-b36cd712086e4e3ee6f0034374509c6b] In regulation 19—
+(6)[^c-b36cd712086e4e3ee6f0034374509c6b] In regulation 19—
 
 - (a) in paragraphs (1)(a) and (2)(a), after the words “the work-seeker” add the words “and of the person the work-seeker would supply to carry out the work”; and
 - (b) in paragraphs (1)(b), (2)(b) and (3), for the words “that the work-seeker” substitute the words “that the person who would be supplied by the work-seeker to carry out the work”.
@@ -759,7 +759,7 @@ which exists or may be available apart from the provisions of the Order and thes
 
 (8) In regulations 24(2), (3), (4), (5), (7) and (8), the references to “the work-seeker” shall be read as references to the person who would be supplied by the work-seeker to carry out the work.
 
-(9)[^key-c37ddb3a4d877477dd0ff9ebadb90120] Subject to paragraph (12), paragraphs (1) to (8) shall not apply where, before an employment business or agency introduces or supplies to a hirer a work-seeker which is a company—
+(9)[^c-c37ddb3a4d877477dd0ff9ebadb90120] Subject to paragraph (12), paragraphs (1) to (8) shall not apply where, before an employment business or agency introduces or supplies to a hirer a work-seeker which is a company—
 
 - (a) the work-seeker and the person who is or would be supplied by that work-seeker to carry out the work agree that those paragraphs should not apply, and give notice of that agreement to the employment business or agency; and
 - (b) the employment business or agency proposing to introduce or supply that work-seeker and person to a hirer informs the hirer of such agreement.
@@ -768,11 +768,11 @@ which exists or may be available apart from the provisions of the Order and thes
 
 (11) Where a notice as referred to in paragraphs (9) or (10) is given to an employment business or agency whilst the person who is or would be supplied to carry out the work by a work-seeker which is a company is in fact carrying out the work in a position with a hirer, then the notice shall not take effect until that person stops working in that position.
 
-(12) Paragraph (9) shall not apply where a person who is or would be supplied to carry out the work by a work-seeker which is a company, is or would be involved in working or attending any vulnerable person[^key-193ae77a0c30022711982a2ccb8248d1].
+(12) Paragraph (9) shall not apply where a person who is or would be supplied to carry out the work by a work-seeker which is a company, is or would be involved in working or attending any vulnerable person[^c-193ae77a0c30022711982a2ccb8248d1].
 
 (13) Neither an agency nor an employment business may make the provision of work-finding services to a work-seeker which is a company conditional upon the work-seeker, and the person who is or would be supplied by the work-seeker to carry out the work, entering into and giving notice of an agreement as referred to in paragraph (9), to the agency or employment business.
 
-### 33. Electronic communications and other communications[^key-79c7dae9fa0a65f457eb064d9c9c415a]
+### 33. Electronic communications and other communications[^c-79c7dae9fa0a65f457eb064d9c9c415a]
 
 (1) Except where otherwise provided, any requirement in these Regulations –
 
@@ -804,7 +804,7 @@ Department for Employment and Learning
 
 Regulation 4
 
-### 1. Interpretation[^key-fc2557c9b626ee80c4e85f1f28bb92d5]
+### 1. Interpretation[^c-fc2557c9b626ee80c4e85f1f28bb92d5]
 
 In this Schedule –
 
@@ -819,7 +819,7 @@ In this Schedule –
 - “transfer fee” has the meaning given by regulation 10(2); and
 - “the transitional period” means the period of 3 months beginning on the day these Regulations come into operation.
 
-### 2. Application to existing contracts[^key-5a270ed78ed1866d420bfe96ca4510e0]
+### 2. Application to existing contracts[^c-5a270ed78ed1866d420bfe96ca4510e0]
 
 (1) Subject to the following provisions of this paragraph, these Regulations apply in respect of existing contracts with effect from the date on which these Regulations come into operation.
 
@@ -842,13 +842,13 @@ In this Schedule –
 
 (8) For the purposes of regulation 10(3), the references to “the contract” and “the hire period referred to in paragraph (1)” shall be read as references to the notice referred to in sub-paragraph (7) of this paragraph and the hire period specified in that notice, respectively.
 
-### 3. Savings in respect of existing contracts[^key-9eb78ea8936251ffb697e8ceab5491c0]
+### 3. Savings in respect of existing contracts[^c-9eb78ea8936251ffb697e8ceab5491c0]
 
 (1) During the transitional period, regulations 2(2) (non-disclosure of information), 2(4) (provision of services to a worker conditional upon using other services provided by the agent), 10(6) (prohibition on making remuneration conditional on receipt of payment from hirer) and 10(7) (prohibition on detrimental treatment for termination of contract by worker) of the 1982 Regulations shall remain in operation in respect of any existing contract.
 
 (2) During the transitional period, the Employment Agencies (Charging Fees to Workers) Regulations (Northern Ireland) 1982[^f00018] shall remain in operation in respect of any existing contract.
 
-### 4. Ongoing supplies and first occasion of supply[^key-344f29189e247ac901e94a9f143e85d3]
+### 4. Ongoing supplies and first occasion of supply[^c-344f29189e247ac901e94a9f143e85d3]
 
 (1) In regulations 7 (restriction on providing work-seekers in industrial disputes), 18 (information to be obtained from a hirer), 19 (confirmation to be obtained about a work-seeker), 20 (steps to be taken for the protection of the work-seeker and the hirer) and 22 (additional requirements in respect of professional qualifications or where workers are to work with vulnerable persons), references to “supply” shall not include an ongoing supply.
 
@@ -856,7 +856,7 @@ In this Schedule –
 
 (3) Where the terms of an existing contract with a hirer are varied, the agency or employment business shall comply with the requirements of regulation 17 (requirement to obtain agreement to terms with hirers) before the first occasion on which it provides services to that hirer after the variation has been agreed.
 
-### 5. Restriction on paying work-seekers' remuneration and client accounts[^key-3aa09e6827a05dde8f52d7ce9b8687a8]
+### 5. Restriction on paying work-seekers' remuneration and client accounts[^c-3aa09e6827a05dde8f52d7ce9b8687a8]
 
 (1) Regulation 8 (restriction on paying work-seekers' remuneration) shall not apply to agencies during the transitional period.
 
@@ -883,7 +883,7 @@ that event shall be treated as having occurred on the first day after the end of
 
 (5) In sub-paragraphs (3) and (4) “relevant money” means money held by an agency immediately before the date on which these Regulations come into operation or immediately before the day on which the transitional period ends (as appropriate) which, if the money had been received on or after that day, would be money in respect of which regulation 25 or Schedule 2 imposes a requirement to take action.
 
-### 6. Miscellaneous Savings[^key-19dc06b1979a8fbce6c14ab32fa53eea]
+### 6. Miscellaneous Savings[^c-19dc06b1979a8fbce6c14ab32fa53eea]
 
 (1) Regulations 8 and 13 of the 1982 Regulations (records) shall remain in operation in respect of any applications received before the date on which these Regulations come into operation.
 
@@ -897,7 +897,7 @@ that event shall be treated as having occurred on the first day after the end of
 
 Regulation 25
 
-### 1. Interpretation[^key-9c83370bffa464affc6b04c548af179c]
+### 1. Interpretation[^c-9c83370bffa464affc6b04c548af179c]
 
 In this Schedule unless the context otherwise requires –
 
@@ -913,7 +913,7 @@ In this Schedule unless the context otherwise requires –
 - “credit institution” has the same meaning as in regulation 25; and
 - “hirer’s deposit” has the same meaning as in regulation 25.
 
-### 2. Maintenance of client accounts[^key-99ecf0af1f1164d244192b897fdc3c5f]
+### 2. Maintenance of client accounts[^c-99ecf0af1f1164d244192b897fdc3c5f]
 
 (1) An agency may keep one client account or as many such accounts as it thinks fit.
 
@@ -922,20 +922,20 @@ In this Schedule unless the context otherwise requires –
 - (a) the word “client”; and
 - (b) if the account contains money belonging to a single client, the name of that client.
 
-**3.**[^key-e5fbc68133c2057a8ecd0c09060b2991] An agency may pay into a client account –
+**3.**[^c-e5fbc68133c2057a8ecd0c09060b2991] An agency may pay into a client account –
 
 - (a) such money belonging to the agency as may be necessary for the purpose of opening or maintaining the account;
 - (b) money to replace any sum which for any reason may have been drawn from the account in contravention of paragraph 7(2); and
 - (c) money received by the agency which under paragraph 4(b) the agency is entitled to split but which the agency does not split.
 
-**4.**[^key-f2e6332a78632e9ab9f18ca55a92a494] An agency which holds or receives money which includes client’s money –
+**4.**[^c-f2e6332a78632e9ab9f18ca55a92a494] An agency which holds or receives money which includes client’s money –
 
 - (a) may where practicable split such money and, if it does so, shall deal with each part thereof as if it had received a separate sum of money in respect of that part; or
 - (b) shall, if it does not split the money, pay it into a client account no later than the end of the second business day following the day on which it receives the money.
 
-**5.**[^key-f4e8cb0b2a6644a99ac6b9c79fbd66d4] An agency shall not pay into a client account any money other than money it is required or permitted by regulation 25(4) and 25(14) or this Schedule to pay into a client account, and an agency into whose client account any money has been paid in contravention of this paragraph shall, no later than the end of the second business day following the day on which it discovers the same, withdraw it and pay it to the person to whom it belongs.
+**5.**[^c-f4e8cb0b2a6644a99ac6b9c79fbd66d4] An agency shall not pay into a client account any money other than money it is required or permitted by regulation 25(4) and 25(14) or this Schedule to pay into a client account, and an agency into whose client account any money has been paid in contravention of this paragraph shall, no later than the end of the second business day following the day on which it discovers the same, withdraw it and pay it to the person to whom it belongs.
 
-**6.**[^key-d3213c478c9d46852977860bc590d162] An agency may withdraw from a client account –
+**6.**[^c-d3213c478c9d46852977860bc590d162] An agency may withdraw from a client account –
 
 - (a) client’s money properly required for –
   - (i) a payment to the client;
@@ -952,7 +952,7 @@ In this Schedule unless the context otherwise requires –
 
 provided that in any case under sub-paragraph (a) or (b) the money so drawn shall not exceed the total of the money held for the time being in such account on account of such client.
 
-**7.**[^key-5df675bc4b44509d91438c42110be154] (1) No money drawn from a client account under paragraph 6(b), (c) or (d) shall be drawn except by –
+**7.**[^c-5df675bc4b44509d91438c42110be154] (1) No money drawn from a client account under paragraph 6(b), (c) or (d) shall be drawn except by –
 
 - (a) a cheque or electronic transfer drawn in favour of the agency; or
 - (b) a transfer to an account at a credit institution in the name of the agency not being a client account.
@@ -961,12 +961,12 @@ provided that in any case under sub-paragraph (a) or (b) the money so drawn shal
 
 (3) A withdrawal from a client account may only be made by a person who is an authorised signatory in accordance with the current mandate held by the credit institution holding the account.
 
-**8.**[^key-148ffbe15f9e541b24b7b20f0c29a6bf] No sum shall be transferred from the ledger account of one client to that of another except –
+**8.**[^c-148ffbe15f9e541b24b7b20f0c29a6bf] No sum shall be transferred from the ledger account of one client to that of another except –
 
 - (a) with the consent of the client to whom the sum belongs; or
 - (b) where a work-seeker becomes entitled, under the terms of any contract with a hirer, to receive any money paid to an agency by way of hirer’s deposit.
 
-### 9. Accounts and records[^key-887521a372c9437c796b6399f6a10daf]
+### 9. Accounts and records[^c-887521a372c9437c796b6399f6a10daf]
 
 (1) Every agency shall at all times keep properly written up such accounts as may be necessary –
 
@@ -996,7 +996,7 @@ provided that in any case under sub-paragraph (a) or (b) the money so drawn shal
 - (c) reconcile the cash account balances with the balance shown on statements and passbooks of all client accounts, and money held elsewhere, showing the causes of any differences in the reconciliation; and
 - (d) take appropriate action to rectify any differences.
 
-### 10. Inspection and report[^key-d0cabf4191b315c81536b7fd657b6dc7]
+### 10. Inspection and report[^c-d0cabf4191b315c81536b7fd657b6dc7]
 
 (1) Every agency who at any time during an accounting period is required to keep accounts and records under paragraph 9 shall, within 10 months of the end of the accounting period, have them inspected and reported upon by an independent person who is a member of any of the bodies listed in Article 257D of the Companies (Northern Ireland) Order 1986[^f00020].
 
@@ -1016,7 +1016,7 @@ provided that in any case under sub-paragraph (a) or (b) the money so drawn shal
 
 (3) An agency required to maintain a client account or client accounts in accordance with regulation 25 and this Schedule shall keep displayed at each of its premises used for or in connection with the carrying on of an employment agency in such a position that it can be readily seen by persons resorting to those premises a copy (certified as a true copy by the reporting accountant) of the reporting accountant’s most recent report, but not any statement annexed to it in accordance with paragraph (2)(c).
 
-### 11. Accounting period[^key-8cee32ed4bd403a294468e8524c484ff]
+### 11. Accounting period[^c-8cee32ed4bd403a294468e8524c484ff]
 
 (1) The accounting period shall, for the purpose of paragraph 10 and regulation 25, be determined in accordance with the following provisions of this paragraph.
 
@@ -1029,7 +1029,7 @@ provided that in any case under sub-paragraph (a) or (b) the money so drawn shal
 
 (4) In the event that the only client account maintained by an agency is closed on a date less than 6 months following the end of the agency’s previous accounting period, the accounting period in question shall end on the date upon which such client account is closed.
 
-### 12. Preservation of client account records[^key-e8ba6c263ee8e0cf006c5c6549e52cad]
+### 12. Preservation of client account records[^c-e8ba6c263ee8e0cf006c5c6549e52cad]
 
 (1) Every agency required to maintain a client account or client accounts in accordance with regulation 25 and this Schedule shall preserve –
 
@@ -1045,18 +1045,18 @@ provided that in any case under sub-paragraph (a) or (b) the money so drawn shal
 
 (4) If no hard copy is kept of any information contained in a record kept in an electronic system, that information must be capable on reasonable notice of being reproduced in printed form.
 
-### 13. Interest[^key-0b3f5903eb0080c9d1e7b9b7e800f0ee]
+### 13. Interest[^c-0b3f5903eb0080c9d1e7b9b7e800f0ee]
 
 Where an agency holds money relating to a single client in a client account, the agency must account to the client for any interest earned on any sum that is held on behalf of the client for more than 10 days.
 
-## SCHEDULE 3 — OCCUPATIONS IN RESPECT OF WHICH EMPLOYMENT AGENCIES MAY CHARGE FEES TO WORK-SEEKERS[^key-768bdb4150d478ce268cc5bd75be511a]
+## SCHEDULE 3 — OCCUPATIONS IN RESPECT OF WHICH EMPLOYMENT AGENCIES MAY CHARGE FEES TO WORK-SEEKERS[^c-768bdb4150d478ce268cc5bd75be511a]
 
 Regulation 26
 
-[^key-768bdb4150d478ce268cc5bd75be511a]
+[^c-768bdb4150d478ce268cc5bd75be511a]
 
-- Actor, musician, singer, dancer, background artist, extra, walk-on[^key-e486342d7e559e2f4450788f8b79c097] or other performer;
-- Composer, writer, artist, director, production manager, lighting cameraman, camera operator, make up artist, clothes, hair or make up stylist,[^key-c15c54e9881fb0308fb5b46cbc9d0e21] film editor, action arranger or co-ordinator, stunt arranger, costume or production designer, recording engineer, property master, film continuity person, sound mixer, photographer, stage manager, producer, choreographer, theatre designer;
+- Actor, musician, singer, dancer, background artist, extra, walk-on[^c-e486342d7e559e2f4450788f8b79c097] or other performer;
+- Composer, writer, artist, director, production manager, lighting cameraman, camera operator, make up artist, clothes, hair or make up stylist,[^c-c15c54e9881fb0308fb5b46cbc9d0e21] film editor, action arranger or co-ordinator, stunt arranger, costume or production designer, recording engineer, property master, film continuity person, sound mixer, photographer, stage manager, producer, choreographer, theatre designer;
 - Photographic or fashion model; or
 - Professional sports person.
 
@@ -1064,61 +1064,61 @@ Regulation 26
 
 Regulation 29
 
-**1.**[^key-f5f215e7c9ddc3309a97da8bf2f61110] Date application received.
+**1.**[^c-f5f215e7c9ddc3309a97da8bf2f61110] Date application received.
 
-**2.**[^key-8e37e83cd2bda9dc300e6a62dc520962] Work-seeker’s name, address and, if under 22, date of birth.
+**2.**[^c-8e37e83cd2bda9dc300e6a62dc520962] Work-seeker’s name, address and, if under 22, date of birth.
 
-**3.**[^key-d5c88506916b0aee1540ff0d2a621721] Any terms which apply or will apply between the agency or employment business and the work-seeker, and any document recording any variation thereto.
+**3.**[^c-d5c88506916b0aee1540ff0d2a621721] Any terms which apply or will apply between the agency or employment business and the work-seeker, and any document recording any variation thereto.
 
-**4.**[^key-9427ac6cee6173177c1c76356191743f] Details of the work-seeker’s training, experience, qualifications, and any authorisation to undertake particular work (and copies of any documentary evidence of the same obtained by the agency or employment business).
+**4.**[^c-9427ac6cee6173177c1c76356191743f] Details of the work-seeker’s training, experience, qualifications, and any authorisation to undertake particular work (and copies of any documentary evidence of the same obtained by the agency or employment business).
 
-**5.**[^key-859e2d636bf84e24cc88ae8c736baa8b] Details of any requirements specified by the work-seeker in relation to taking up employment.
+**5.**[^c-859e2d636bf84e24cc88ae8c736baa8b] Details of any requirements specified by the work-seeker in relation to taking up employment.
 
-**6.**[^key-06762cb4c2d901d5d5cd3352acc42c62] Names of hirers to whom the work-seeker is introduced or supplied.
+**6.**[^c-06762cb4c2d901d5d5cd3352acc42c62] Names of hirers to whom the work-seeker is introduced or supplied.
 
-**7.**[^key-25e75b434a2918b1cc4663ba2789d033] Details of any resulting engagement and date from which it takes effect.
+**7.**[^c-25e75b434a2918b1cc4663ba2789d033] Details of any resulting engagement and date from which it takes effect.
 
-**8.**[^key-27b223e442b68de60f8580c3463bb492] Copy of any contract between the work-seeker and any hirer entered into by the agency on the work-seeker’s behalf.
+**8.**[^c-27b223e442b68de60f8580c3463bb492] Copy of any contract between the work-seeker and any hirer entered into by the agency on the work-seeker’s behalf.
 
-**9.**[^key-622b4ff1084bd725d84beafb887a0385] Date application withdrawn or contract terminated (where applicable).
+**9.**[^c-622b4ff1084bd725d84beafb887a0385] Date application withdrawn or contract terminated (where applicable).
 
-**10.**[^key-09cf46cbbfb65cf783ade5a90aba8e63] In the case of an agency that is permitted to charge fees to work-seekers, dates of requests by the agency for fees from the work-seeker and of receipt of such fees, with copy statements or invoices, numbers and amounts; or, as appropriate, statements of dates and amounts of sums deducted from money received by the agency on the work-seeker’s behalf in accordance with regulation 25, to the extent that these are not required to be comprised in records maintained in respect of a client account in accordance with paragraph 12 of Schedule 2.
+**10.**[^c-09cf46cbbfb65cf783ade5a90aba8e63] In the case of an agency that is permitted to charge fees to work-seekers, dates of requests by the agency for fees from the work-seeker and of receipt of such fees, with copy statements or invoices, numbers and amounts; or, as appropriate, statements of dates and amounts of sums deducted from money received by the agency on the work-seeker’s behalf in accordance with regulation 25, to the extent that these are not required to be comprised in records maintained in respect of a client account in accordance with paragraph 12 of Schedule 2.
 
-**11.**[^key-d805951bf168f93690bc0429e39b20de] Details of enquiries made under regulations 19, 20 and 22 about the work-seeker and the position concerned with copies of all relevant documents and dates they were received or sent as the case may be.
+**11.**[^c-d805951bf168f93690bc0429e39b20de] Details of enquiries made under regulations 19, 20 and 22 about the work-seeker and the position concerned with copies of all relevant documents and dates they were received or sent as the case may be.
 
 ## SCHEDULE 5 — PARTICULARS TO BE INCLUDED IN AN AGENCY'S OR EMPLOYMENT BUSINESS'S RECORDS RELATING TO HIRERS
 
 Regulation 29
 
-**1.**[^key-05a0117bfbba33eb538e0a64c3c0d6e6] Date application received.
+**1.**[^c-05a0117bfbba33eb538e0a64c3c0d6e6] Date application received.
 
-**2.**[^key-33df70226f2b2bcc87d6f79f0a40e0f6] Hirer’s name and address, and location of employment if different.
+**2.**[^c-33df70226f2b2bcc87d6f79f0a40e0f6] Hirer’s name and address, and location of employment if different.
 
-**3.**[^key-bc1944b5e5765f5f96fc96fdcb5cd246] Details of the position(s) the hirer seeks to fill.
+**3.**[^c-bc1944b5e5765f5f96fc96fdcb5cd246] Details of the position(s) the hirer seeks to fill.
 
-**4.**[^key-14c5ed6afdd3d190b92bd499eb700568] Duration or likely duration of work.
+**4.**[^c-14c5ed6afdd3d190b92bd499eb700568] Duration or likely duration of work.
 
-**5.**[^key-9d07b4d194f72c6048da1b1e5bdf003f] Experience, training, ability, qualifications, and authorisation required by the hirer, by law, or by any professional body; and any other conditions attaching to the position(s) the hirer seeks to fill.
+**5.**[^c-9d07b4d194f72c6048da1b1e5bdf003f] Experience, training, ability, qualifications, and authorisation required by the hirer, by law, or by any professional body; and any other conditions attaching to the position(s) the hirer seeks to fill.
 
-**6.**[^key-29f0d269d13670074cb01cb38637ed11] The terms offered in respect of the position(s) the hirer seeks to fill.
+**6.**[^c-29f0d269d13670074cb01cb38637ed11] The terms offered in respect of the position(s) the hirer seeks to fill.
 
-**7.**[^key-61a5120fd949e534a28c940783c87f5b] Copy of the terms between the agency or employment business and the hirer, and any document recording any variation thereto.
+**7.**[^c-61a5120fd949e534a28c940783c87f5b] Copy of the terms between the agency or employment business and the hirer, and any document recording any variation thereto.
 
-**8.**[^key-cf267d51281a51aa0fdcbe75519a4e1f] Names of work-seekers introduced or supplied.
+**8.**[^c-cf267d51281a51aa0fdcbe75519a4e1f] Names of work-seekers introduced or supplied.
 
-**9.**[^key-44d191b47fd4e260b3b6610f1571eb63] Details of enquiries under regulations 18 and 20 about the hirer and the position the hirer seeks to fill, with copies of all relevant documents and dates of their receipt.
+**9.**[^c-44d191b47fd4e260b3b6610f1571eb63] Details of enquiries under regulations 18 and 20 about the hirer and the position the hirer seeks to fill, with copies of all relevant documents and dates of their receipt.
 
-**10.**[^key-5cfab658db4df9364ea211907173fdfd] Details of each resulting engagement and date from which it takes effect.
+**10.**[^c-5cfab658db4df9364ea211907173fdfd] Details of each resulting engagement and date from which it takes effect.
 
-**11.**[^key-32fa83d331e27dfacd4b44220e35d453] Dates of requests by the agency or employment business for fees or other payment from the hirer and of receipt of such fees or other payments, and copies of statements or invoices.
+**11.**[^c-32fa83d331e27dfacd4b44220e35d453] Dates of requests by the agency or employment business for fees or other payment from the hirer and of receipt of such fees or other payments, and copies of statements or invoices.
 
 ## SCHEDULE 6 — PARTICULARS TO BE INCLUDED IN AN AGENCY'S OR EMPLOYMENT BUSINESS'S RECORDS RELATING TO OTHER AGENCIES OR EMPLOYMENT BUSINESSES
 
 Regulation 29
 
-**1.**[^key-96302fd21b7905c806d0d460992bf899] Names of any other agencies or employment businesses whose services the agency or employment business uses, and details of enquiries (and the answers thereto) under regulation 23(1)(a) as to that agency or employment business’s suitability, with copies of all relevant documents and dates the enquiries were made and the answers received.
+**1.**[^c-96302fd21b7905c806d0d460992bf899] Names of any other agencies or employment businesses whose services the agency or employment business uses, and details of enquiries (and the answers thereto) under regulation 23(1)(a) as to that agency or employment business’s suitability, with copies of all relevant documents and dates the enquiries were made and the answers received.
 
-**2.**[^key-63b1293f2ee5bc7bcd450bc6c02ab464] Date and copy of any agreement under regulation 23(1)(b).
+**2.**[^c-63b1293f2ee5bc7bcd450bc6c02ab464] Date and copy of any agreement under regulation 23(1)(b).
 
 (This note is not part of the Regulations)
 
@@ -1160,21 +1160,21 @@ Schedules 4, 5 and 6 set out the particulars which must be included in an agency
 
 [^f00003]: Footnote: *See* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3 and [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 4(b) and Part II of Schedule 2
 
-[^key-130fcbffcfe4300428f68bb8c6d5537c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/395/regulation/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-130fcbffcfe4300428f68bb8c6d5537c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/395/regulation/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-389ffb246684e995b81cd8712a88fe08]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/395/regulation/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-389ffb246684e995b81cd8712a88fe08]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/395/regulation/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
 [^f00005]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42); section 201 was amended by [1996 c. 42](https://www.legislation.gov.uk/ukpga/1996/42), Schedule 10, paragraph 11
 
-[^key-3e789a60a5bbbf624f5a96cca634fd89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/395/regulation/2) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/360/regulation/3)
+[^c-3e789a60a5bbbf624f5a96cca634fd89]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/395/regulation/2) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [3](https://www.legislation.gov.uk/nisr/2010/360/regulation/3)
 
-[^key-da7d21656a992de79ca5a159e0c8fe86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/395/regulation/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-da7d21656a992de79ca5a159e0c8fe86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/395/regulation/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 4 was substituted by [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504), Article 62
 
-[^key-3803b1f016a3829886d3a7ef2354407d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/395/regulation/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-3803b1f016a3829886d3a7ef2354407d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/395/regulation/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 1982 No. 253](https://www.legislation.gov.uk/nisr/1982/253)
 
@@ -1182,63 +1182,63 @@ Schedules 4, 5 and 6 set out the particulars which must be included in an agency
 
 [^f00009]: Footnote: [S.R. l982 No. 255](https://www.legislation.gov.uk/nisr/1982/255)
 
-[^key-ab3e4f285a26f0f5b5bb5f78b418a540]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/395/regulation/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-ab3e4f285a26f0f5b5bb5f78b418a540]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/395/regulation/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-7861fab681e3b41596de6af958e594ef]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/395/regulation/5) heading substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/3/1)
+[^c-7861fab681e3b41596de6af958e594ef]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/395/regulation/5) heading substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/3/1)
 
 [^M_F_319623fe-d49c-4642-b3c9-de95f1829755]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/395/regulation/5) renumbered as reg. 5(1) (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/3/2)
 
-[^key-bc3e0d875ca196db6907fd40594c9f05]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/2) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/3/2)
+[^c-bc3e0d875ca196db6907fd40594c9f05]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/2) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/3/2)
 
-[^key-0a568a5488b76bc476a4c7b0418d33db]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/3)[(4)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/4) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/360/regulation/4)
+[^c-0a568a5488b76bc476a4c7b0418d33db]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/3)[(4)](https://www.legislation.gov.uk/nisr/2005/395/regulation/5/4) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/360/regulation/4)
 
-[^key-56c95b6566c33a0f8459a7e431e4556d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/395/regulation/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-56c95b6566c33a0f8459a7e431e4556d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/395/regulation/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-066c696e14e08662575eb109cc6e7e6b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/395/regulation/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-066c696e14e08662575eb109cc6e7e6b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/395/regulation/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); as amended by [S.I. 1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763), Article 11; [S.R. 1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386) and [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), Schedule 4, Part III and Schedule 9
 
-[^key-e4f4e67a0ce7689fc869729ccea8a13c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/395/regulation/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-e4f4e67a0ce7689fc869729ccea8a13c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/395/regulation/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d17e6c4bf55b2ba76064cf8d44dd8a6c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/395/regulation/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-d17e6c4bf55b2ba76064cf8d44dd8a6c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/395/regulation/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-e48ad6c67a490b707ebe89fe668ac414]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/395/regulation/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-e48ad6c67a490b707ebe89fe668ac414]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/395/regulation/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-89c2758e3b7d1acda5f27935e760e238]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/395/regulation/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-89c2758e3b7d1acda5f27935e760e238]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/395/regulation/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-bcb9df78fc6de81b24daf148a9ad21ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/395/regulation/12) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-bcb9df78fc6de81b24daf148a9ad21ee]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/395/regulation/12) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-940f48705a92ed4f93a340b371820f58]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/395/regulation/13) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-940f48705a92ed4f93a340b371820f58]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/395/regulation/13) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-fe0608b9ce95d01ca5178a502688b1ed]: Textual amendment: Words in [reg. 13(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/395/regulation/13/1/b/iii) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/76/regulation/4)
+[^c-fe0608b9ce95d01ca5178a502688b1ed]: Textual amendment: Words in [reg. 13(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/395/regulation/13/1/b/iii) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/76/regulation/4)
 
-[^key-5dc65cece9e96b3bdf266b208de6e1bc]: Textual amendment: Words in [reg. 13(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/395/regulation/13/1/b/iii) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/360/regulation/5)
+[^c-5dc65cece9e96b3bdf266b208de6e1bc]: Textual amendment: Words in [reg. 13(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2005/395/regulation/13/1/b/iii) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/360/regulation/5)
 
-[^key-45d190664b5ab4fc834e27024a335c04]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/395/regulation/14) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/360/regulation/6)
+[^c-45d190664b5ab4fc834e27024a335c04]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/395/regulation/14) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/360/regulation/6)
 
-[^key-cbd97259beecbadcdf712a7c38acdb9f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/395/regulation/15) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-cbd97259beecbadcdf712a7c38acdb9f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/395/regulation/15) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-f38ccb9cffb933f4da6e5cde4f1147bf]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/395/regulation/16) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [7](https://www.legislation.gov.uk/nisr/2010/360/regulation/7)
+[^c-f38ccb9cffb933f4da6e5cde4f1147bf]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/395/regulation/16) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [7](https://www.legislation.gov.uk/nisr/2010/360/regulation/7)
 
-[^key-ea3f03948aeba548732bf037769fda90]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/395/regulation/17) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [8](https://www.legislation.gov.uk/nisr/2010/360/regulation/8)
+[^c-ea3f03948aeba548732bf037769fda90]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/395/regulation/17) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [8](https://www.legislation.gov.uk/nisr/2010/360/regulation/8)
 
-[^key-6cee93e25b1e9b03f5f3de292e50a585]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/395/regulation/18) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-6cee93e25b1e9b03f5f3de292e50a585]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/395/regulation/18) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-afa7ac5c7e2f7bb9adb937278062fc67]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/395/regulation/19) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [9](https://www.legislation.gov.uk/nisr/2010/360/regulation/9)
+[^c-afa7ac5c7e2f7bb9adb937278062fc67]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/395/regulation/19) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [9](https://www.legislation.gov.uk/nisr/2010/360/regulation/9)
 
-[^key-6f37032f4824ff2721c9295f542c6239]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/395/regulation/20) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-6f37032f4824ff2721c9295f542c6239]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/395/regulation/20) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-1300dd0fbf94a493ee48cd8255050cfa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/395/regulation/21) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-1300dd0fbf94a493ee48cd8255050cfa]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/395/regulation/21) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-871bef329fa9c19a97c6ff481c23e8e7]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/5/1)
+[^c-871bef329fa9c19a97c6ff481c23e8e7]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/5/1)
 
-[^key-9ec3406cac4f3278a80fc5d8b486aeff]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/4)[(5)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/5) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/5/2)
+[^c-9ec3406cac4f3278a80fc5d8b486aeff]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/4)[(5)](https://www.legislation.gov.uk/nisr/2005/395/regulation/21/5) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/5/2)
 
-[^key-ebf2ffef04fc8e253c69c99c4b08827e]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/395/regulation/22) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [10](https://www.legislation.gov.uk/nisr/2010/360/regulation/10)
+[^c-ebf2ffef04fc8e253c69c99c4b08827e]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/395/regulation/22) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [10](https://www.legislation.gov.uk/nisr/2010/360/regulation/10)
 
-[^key-028caa7379611461aa402b919065faed]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/395/regulation/23) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-028caa7379611461aa402b919065faed]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/395/regulation/23) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-cc8f2bfabe9490afdd085a04e7447ad3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/395/regulation/24) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-cc8f2bfabe9490afdd085a04e7447ad3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/395/regulation/24) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
@@ -1246,154 +1246,154 @@ Schedules 4, 5 and 6 set out the particulars which must be included in an agency
 
 [^f00014]: Footnote: [1963 c. 37](https://www.legislation.gov.uk/ukpga/1963/37); section 42 was amended by [1989 c. 38](https://www.legislation.gov.uk/ukpga/1989/38), section 29(3) and Schedule 6, paragraph 8 and [S.I. 1998/276](https://www.legislation.gov.uk/uksi/1998/276), regulation 16(2) and (3)
 
-[^key-27b0400fbaf8e42d119b73e3830e472a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/395/regulation/25) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-27b0400fbaf8e42d119b73e3830e472a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/395/regulation/25) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00015]: Footnote: O.J. No. L126, 26.5.2000, p. 1; Article 1, point 1, first sub-paragraph as originally adopted was replaced by Article 1, paragraph 1 of Directive [2000/28/EC](https://www.legislation.gov.uk/european/directive/2000/0028) of the European Parliament and of the Council amending Directive [2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) relating to the taking up and pursuit of the business of credit institutions (O.J. No. L275, 27.10.2000, p. 37)
 
-[^key-ba0f2f598a290e1dfc4120c7a0d707d4]: Commencement: [Reg. 26(7)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/7) in operation at 25.12.2005, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/3)
+[^c-ba0f2f598a290e1dfc4120c7a0d707d4]: Commencement: [Reg. 26(7)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/7) in operation at 25.12.2005, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/3)
 
-[^key-09895dd7db097bfbc2ebe29ed6c447f5]: Commencement: [Reg. 26(1)-(6)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-09895dd7db097bfbc2ebe29ed6c447f5]: Commencement: [Reg. 26(1)-(6)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00016]: Footnote: Article 7(1) was substituted by [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), Article 30 and Schedule 7, paragraphs 1 and 3
 
-[^key-937a12b2ec5808abfa4f2f899f4283d7]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(a)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/a)
+[^c-937a12b2ec5808abfa4f2f899f4283d7]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(a)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/a)
 
-[^key-cd5e2e4239988ee603e09b9be7212bfe]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/a) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(b)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/b)
+[^c-cd5e2e4239988ee603e09b9be7212bfe]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/a) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(b)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/b)
 
-[^key-2e3964cd41c93836c6381ff1055cab93]: Textual amendment: Word in [reg. 26(5)(c)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/c) omitted (1.12.2010) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(c)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/c)
+[^c-2e3964cd41c93836c6381ff1055cab93]: Textual amendment: Word in [reg. 26(5)(c)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/c) omitted (1.12.2010) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(c)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/c)
 
-[^key-6faecf5e0f0e91dc45babff2eb7591db]: Textual amendment: Word in [reg. 26(5)(c)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/c) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/6/1)
+[^c-6faecf5e0f0e91dc45babff2eb7591db]: Textual amendment: Word in [reg. 26(5)(c)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/c) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/6/1)
 
-[^key-da3e13b99d462d84cbfa61d7d41a515d]: Textual amendment: [Reg. 26(5)(d)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/d) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(d)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/d)
+[^c-da3e13b99d462d84cbfa61d7d41a515d]: Textual amendment: [Reg. 26(5)(d)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/d) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(d)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/d)
 
-[^key-ffdcf548911895e817b0f0804222b7a5]: Textual amendment: [Reg. 26(5)(e)-(h)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/e) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(e)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/e)
+[^c-ffdcf548911895e817b0f0804222b7a5]: Textual amendment: [Reg. 26(5)(e)-(h)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5/e) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(1)(e)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/1/e)
 
-[^key-6d1cf601247b689716ca4152f188dbf8]: Textual amendment: [Reg. 26(5A)-(5C)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5A) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/2)
+[^c-6d1cf601247b689716ca4152f188dbf8]: Textual amendment: [Reg. 26(5A)-(5C)](https://www.legislation.gov.uk/nisr/2005/395/regulation/26/5A) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [11(2)](https://www.legislation.gov.uk/nisr/2010/360/regulation/11/2)
 
-[^key-87d1845145407b7d651952b3582deccd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/395/regulation/27) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-87d1845145407b7d651952b3582deccd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/395/regulation/27) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d64f71b57ebf05fc95eed95205dff723]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/27/1) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [12](https://www.legislation.gov.uk/nisr/2010/360/regulation/12)
+[^c-d64f71b57ebf05fc95eed95205dff723]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/27/1) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [12](https://www.legislation.gov.uk/nisr/2010/360/regulation/12)
 
-[^key-b713ef1c6eea56cb34ceaf202c1b943a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/395/regulation/28) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-b713ef1c6eea56cb34ceaf202c1b943a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/395/regulation/28) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d3ae9d69206fbf5a2c6f7867f115feea]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/28/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [7](https://www.legislation.gov.uk/nisr/2008/76/regulation/7)
+[^c-d3ae9d69206fbf5a2c6f7867f115feea]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/nisr/2005/395/regulation/28/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [7](https://www.legislation.gov.uk/nisr/2008/76/regulation/7)
 
-[^key-38ab9465d500aa33d9599f4a5752f8df]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/395/regulation/29) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-38ab9465d500aa33d9599f4a5752f8df]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/395/regulation/29) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-50397dd765dea7759b34d3c4e0fbb717]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/395/regulation/30) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-50397dd765dea7759b34d3c4e0fbb717]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/395/regulation/30) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-87aa70db709deb71ac75618f634bfdf6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/395/regulation/31) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-87aa70db709deb71ac75618f634bfdf6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/395/regulation/31) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-362b42612ec6ae053ef65d2c37b5537e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/395/regulation/32) in operation at 25.12.2005, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/3)
+[^c-362b42612ec6ae053ef65d2c37b5537e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/395/regulation/32) in operation at 25.12.2005, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/3)
 
-[^key-ca1303f252a9c2f05c7fcacff4b78f42]: Textual amendment: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [8(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/8/1)
+[^c-ca1303f252a9c2f05c7fcacff4b78f42]: Textual amendment: [Reg. 32(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [8(1)](https://www.legislation.gov.uk/nisr/2008/76/regulation/8/1)
 
-[^key-9a96f1ea484c5014fbce1921906c4c42]: Textual amendment: [Reg. 32(2A)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2A)[(2B)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2B) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/a)
+[^c-9a96f1ea484c5014fbce1921906c4c42]: Textual amendment: [Reg. 32(2A)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2A)[(2B)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/2B) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/a)
 
-[^key-b36cd712086e4e3ee6f0034374509c6b]: Textual amendment: [Reg. 32(6)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/6) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/b)
+[^c-b36cd712086e4e3ee6f0034374509c6b]: Textual amendment: [Reg. 32(6)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/6) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/b)
 
-[^key-c37ddb3a4d877477dd0ff9ebadb90120]: Textual amendment: [Reg. 32(9)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/9) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/8/2)
+[^c-c37ddb3a4d877477dd0ff9ebadb90120]: Textual amendment: [Reg. 32(9)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/9) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [8(2)](https://www.legislation.gov.uk/nisr/2008/76/regulation/8/2)
 
-[^key-193ae77a0c30022711982a2ccb8248d1]: Textual amendment: Words in [reg. 32(12)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/12) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/c)
+[^c-193ae77a0c30022711982a2ccb8248d1]: Textual amendment: Words in [reg. 32(12)](https://www.legislation.gov.uk/nisr/2005/395/regulation/32/12) substituted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2010/360/regulation/13/c)
 
-[^key-79c7dae9fa0a65f457eb064d9c9c415a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/395/regulation/33) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-79c7dae9fa0a65f457eb064d9c9c415a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/395/regulation/33) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-fc2557c9b626ee80c4e85f1f28bb92d5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-fc2557c9b626ee80c4e85f1f28bb92d5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00017]: Footnote: [S.R. 1982 No. 253](https://www.legislation.gov.uk/nisr/1982/253)
 
-[^key-5a270ed78ed1866d420bfe96ca4510e0]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-5a270ed78ed1866d420bfe96ca4510e0]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-9eb78ea8936251ffb697e8ceab5491c0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-9eb78ea8936251ffb697e8ceab5491c0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 1982 No. 254](https://www.legislation.gov.uk/uksi/1982/254)
 
-[^key-344f29189e247ac901e94a9f143e85d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-344f29189e247ac901e94a9f143e85d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-3aa09e6827a05dde8f52d7ce9b8687a8]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-3aa09e6827a05dde8f52d7ce9b8687a8]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-19dc06b1979a8fbce6c14ab32fa53eea]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-19dc06b1979a8fbce6c14ab32fa53eea]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/1/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-9c83370bffa464affc6b04c548af179c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-9c83370bffa464affc6b04c548af179c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 232 was substituted by [S.I. 1990/593 (N.I.)](https://www.legislation.gov.uk/nisi/1990/593); Article 3(a) and 5 and amended by [S.R. 1997 No. 314](https://www.legislation.gov.uk/nisr/1997/314), Regulation 2
 
-[^key-99ecf0af1f1164d244192b897fdc3c5f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-99ecf0af1f1164d244192b897fdc3c5f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-e5fbc68133c2057a8ecd0c09060b2991]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-e5fbc68133c2057a8ecd0c09060b2991]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-f2e6332a78632e9ab9f18ca55a92a494]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-f2e6332a78632e9ab9f18ca55a92a494]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-f4e8cb0b2a6644a99ac6b9c79fbd66d4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-f4e8cb0b2a6644a99ac6b9c79fbd66d4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d3213c478c9d46852977860bc590d162]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-d3213c478c9d46852977860bc590d162]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-5df675bc4b44509d91438c42110be154]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-5df675bc4b44509d91438c42110be154]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-148ffbe15f9e541b24b7b20f0c29a6bf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-148ffbe15f9e541b24b7b20f0c29a6bf]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-887521a372c9437c796b6399f6a10daf]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-887521a372c9437c796b6399f6a10daf]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d0cabf4191b315c81536b7fd657b6dc7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-d0cabf4191b315c81536b7fd657b6dc7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 257D was inserted by [S.R. 1995 No. 128](https://www.legislation.gov.uk/nisr/1995/128), Regulation 2 and amended by [S.R. 1997 No. 500](https://www.legislation.gov.uk/nisr/1997/500)
 
-[^key-8cee32ed4bd403a294468e8524c484ff]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-8cee32ed4bd403a294468e8524c484ff]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-e8ba6c263ee8e0cf006c5c6549e52cad]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/12) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-e8ba6c263ee8e0cf006c5c6549e52cad]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/12) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-0b3f5903eb0080c9d1e7b9b7e800f0ee]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/13) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-0b3f5903eb0080c9d1e7b9b7e800f0ee]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/395/schedule/2/paragraph/13) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-768bdb4150d478ce268cc5bd75be511a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-768bdb4150d478ce268cc5bd75be511a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-e486342d7e559e2f4450788f8b79c097]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [14](https://www.legislation.gov.uk/nisr/2010/360/regulation/14)
+[^c-e486342d7e559e2f4450788f8b79c097]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) inserted (1.12.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/360)](https://www.legislation.gov.uk/nisr/2010/360), [regs. 1](https://www.legislation.gov.uk/nisr/2010/360/regulation/1), [14](https://www.legislation.gov.uk/nisr/2010/360/regulation/14)
 
-[^key-c15c54e9881fb0308fb5b46cbc9d0e21]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [9](https://www.legislation.gov.uk/nisr/2008/76/regulation/9)
+[^c-c15c54e9881fb0308fb5b46cbc9d0e21]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/3) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/76)](https://www.legislation.gov.uk/nisr/2008/76), [regs. 1](https://www.legislation.gov.uk/nisr/2008/76/regulation/1), [9](https://www.legislation.gov.uk/nisr/2008/76/regulation/9)
 
-[^key-f5f215e7c9ddc3309a97da8bf2f61110]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-f5f215e7c9ddc3309a97da8bf2f61110]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-8e37e83cd2bda9dc300e6a62dc520962]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-8e37e83cd2bda9dc300e6a62dc520962]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d5c88506916b0aee1540ff0d2a621721]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-d5c88506916b0aee1540ff0d2a621721]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-9427ac6cee6173177c1c76356191743f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-9427ac6cee6173177c1c76356191743f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-859e2d636bf84e24cc88ae8c736baa8b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-859e2d636bf84e24cc88ae8c736baa8b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-06762cb4c2d901d5d5cd3352acc42c62]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-06762cb4c2d901d5d5cd3352acc42c62]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-25e75b434a2918b1cc4663ba2789d033]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-25e75b434a2918b1cc4663ba2789d033]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-27b223e442b68de60f8580c3463bb492]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-27b223e442b68de60f8580c3463bb492]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-622b4ff1084bd725d84beafb887a0385]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-622b4ff1084bd725d84beafb887a0385]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-09cf46cbbfb65cf783ade5a90aba8e63]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-09cf46cbbfb65cf783ade5a90aba8e63]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-d805951bf168f93690bc0429e39b20de]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-d805951bf168f93690bc0429e39b20de]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/4/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-05a0117bfbba33eb538e0a64c3c0d6e6]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-05a0117bfbba33eb538e0a64c3c0d6e6]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-33df70226f2b2bcc87d6f79f0a40e0f6]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-33df70226f2b2bcc87d6f79f0a40e0f6]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-bc1944b5e5765f5f96fc96fdcb5cd246]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-bc1944b5e5765f5f96fc96fdcb5cd246]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/3) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-14c5ed6afdd3d190b92bd499eb700568]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-14c5ed6afdd3d190b92bd499eb700568]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/4) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-9d07b4d194f72c6048da1b1e5bdf003f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-9d07b4d194f72c6048da1b1e5bdf003f]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/5) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-29f0d269d13670074cb01cb38637ed11]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-29f0d269d13670074cb01cb38637ed11]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/6) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-61a5120fd949e534a28c940783c87f5b]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-61a5120fd949e534a28c940783c87f5b]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/7) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-cf267d51281a51aa0fdcbe75519a4e1f]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-cf267d51281a51aa0fdcbe75519a4e1f]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/8) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-44d191b47fd4e260b3b6610f1571eb63]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-44d191b47fd4e260b3b6610f1571eb63]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/9) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-5cfab658db4df9364ea211907173fdfd]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-5cfab658db4df9364ea211907173fdfd]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/10) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-32fa83d331e27dfacd4b44220e35d453]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-32fa83d331e27dfacd4b44220e35d453]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2005/395/schedule/5/paragraph/11) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-96302fd21b7905c806d0d460992bf899]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/6/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-96302fd21b7905c806d0d460992bf899]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2005/395/schedule/6/paragraph/1) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
 
-[^key-63b1293f2ee5bc7bcd450bc6c02ab464]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/6/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)
+[^c-63b1293f2ee5bc7bcd450bc6c02ab464]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2005/395/schedule/6/paragraph/2) in operation at 25.9.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/395/regulation/1/2)

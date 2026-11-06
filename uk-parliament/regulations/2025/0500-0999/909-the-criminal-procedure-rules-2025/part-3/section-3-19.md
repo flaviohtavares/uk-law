@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.19. Service of prosecution evidence[^key-7087178dcc782adb33d3bf3b803faaa1]
+## 3.19. Service of prosecution evidence[^c-7087178dcc782adb33d3bf3b803faaa1]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7087178dcc782adb33d3bf3b803faaa1]: Commencement: [Rule 3.19](https://www.legislation.gov.uk/uksi/2025/909/rule/3.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7087178dcc782adb33d3bf3b803faaa1]: Commencement: [Rule 3.19](https://www.legislation.gov.uk/uksi/2025/909/rule/3.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00124]: Footnote: [S.I. 2005/902](https://www.legislation.gov.uk/uksi/2005/902); amended by [S.I. 2012/1345](https://www.legislation.gov.uk/uksi/2012/1345).

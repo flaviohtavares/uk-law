@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7A — Connection with relevant part of United Kingdom[^key-7765286dcb85cf565e60186f16fced67]
+## SCHEDULE 7A — Connection with relevant part of United Kingdom[^c-7765286dcb85cf565e60186f16fced67]
 
 *Extent: E+W+S+NI*
 
@@ -84,4 +84,4 @@ Section 282A
 
 ## Annotations
 
-[^key-7765286dcb85cf565e60186f16fced67]: Textual amendment: Sch. 7A inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/3)(7), [61(11)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/c) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25) and extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-7765286dcb85cf565e60186f16fced67]: Textual amendment: Sch. 7A inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/3)(7), [61(11)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/c) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25) and extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)

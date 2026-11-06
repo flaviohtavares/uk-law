@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62A. Lists of waste displaying hazardous properties[^key-353ef74ca57be0854b36fd49d92b364c]
+## 62A. Lists of waste displaying hazardous properties[^c-353ef74ca57be0854b36fd49d92b364c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-353ef74ca57be0854b36fd49d92b364c]: Textual amendment: [S. 62A](https://www.legislation.gov.uk/ukpga/1990/43/section/62A) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1540/regulation/7)
+[^c-353ef74ca57be0854b36fd49d92b364c]: Textual amendment: [S. 62A](https://www.legislation.gov.uk/ukpga/1990/43/section/62A) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1540/regulation/7)

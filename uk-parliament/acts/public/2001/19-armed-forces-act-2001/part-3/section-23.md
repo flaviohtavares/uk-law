@@ -22,7 +22,7 @@ summary: ''
 
 **No longer in force (ended 2009-03-28).**
 
-(1) Section 29 of the Senior Courts Act 1981[^key-5acb0bc85bae5861fd154ecfd3a6fa6d] (c. 54) (orders of mandamus, prohibition and certiorari) is amended as follows.
+(1) Section 29 of the Senior Courts Act 1981[^c-5acb0bc85bae5861fd154ecfd3a6fa6d] (c. 54) (orders of mandamus, prohibition and certiorari) is amended as follows.
 
 (2) In subsection (1) at the beginning there is inserted “ Subject to subsection (3A), ”.
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^M_I_168f0bbd-dabb-4a3e-99f6-741fd06aa9a6]: Commencement: S. 23 in force at 28.2.2002 by [S.I. 2002/345](https://www.legislation.gov.uk/uksi/2002/345), [art. 2](https://www.legislation.gov.uk/uksi/2002/345/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/345/article/3))
 
-[^key-5acb0bc85bae5861fd154ecfd3a6fa6d]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-5acb0bc85bae5861fd154ecfd3a6fa6d]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

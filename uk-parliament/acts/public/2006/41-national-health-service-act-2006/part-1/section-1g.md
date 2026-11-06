@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1G. Secretary of State's duty as to reporting on and reviewing treatment of providers[^key-8c045a75952887ef6bbfef012fe578cf]
+## 1G. Secretary of State's duty as to reporting on and reviewing treatment of providers[^c-8c045a75952887ef6bbfef012fe578cf]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c045a75952887ef6bbfef012fe578cf]: Textual amendment: S. 1G inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 8](https://www.legislation.gov.uk/ukpga/2012/7/section/8), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
+[^c-8c045a75952887ef6bbfef012fe578cf]: Textual amendment: S. 1G inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 8](https://www.legislation.gov.uk/ukpga/2012/7/section/8), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)

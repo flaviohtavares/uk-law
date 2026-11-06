@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Directions to Accountant in Bankruptcy[^key-b25b9d60a6f77d0f14703ba74d549b1c]
+## 203. Directions to Accountant in Bankruptcy[^c-b25b9d60a6f77d0f14703ba74d549b1c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ but are not to be given in respect of a particular case.
 
 ## Annotations
 
-[^key-b25b9d60a6f77d0f14703ba74d549b1c]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2016/21/section/203) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b25b9d60a6f77d0f14703ba74d549b1c]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2016/21/section/203) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

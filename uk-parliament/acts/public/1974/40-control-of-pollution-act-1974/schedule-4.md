@@ -95,10 +95,10 @@ Section 108.
 </tbody>
 </table>
 
-[^key-3f01273ff9ad6e27b03e60c13364c784][^key-3f01273ff9ad6e27b03e60c13364c784][^key-3f01273ff9ad6e27b03e60c13364c784][^key-3f01273ff9ad6e27b03e60c13364c784][^key-3f01273ff9ad6e27b03e60c13364c784]
+[^c-3f01273ff9ad6e27b03e60c13364c784][^c-3f01273ff9ad6e27b03e60c13364c784][^c-3f01273ff9ad6e27b03e60c13364c784][^c-3f01273ff9ad6e27b03e60c13364c784][^c-3f01273ff9ad6e27b03e60c13364c784]
 
 ## Annotations
 
 [^c2464841]: Editorial: The text of Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-3f01273ff9ad6e27b03e60c13364c784]: Textual amendment: Sch. 4 entry repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-3f01273ff9ad6e27b03e60c13364c784]: Textual amendment: Sch. 4 entry repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

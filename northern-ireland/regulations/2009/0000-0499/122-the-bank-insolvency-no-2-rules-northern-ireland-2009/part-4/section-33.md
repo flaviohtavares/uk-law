@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Further disclosure[^key-beb971e06a2c822ae145fcc973dc6cfb]
+## 33. Further disclosure[^c-beb971e06a2c822ae145fcc973dc6cfb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beb971e06a2c822ae145fcc973dc6cfb]: Commencement: Rule 33 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-beb971e06a2c822ae145fcc973dc6cfb]: Commencement: Rule 33 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

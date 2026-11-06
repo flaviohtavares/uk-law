@@ -34,7 +34,7 @@ TRANSPORT
 
 RAILWAYS
 
-The Railways (Interoperability) (Amendment) Regulations 2007 (revoked)[^key-a4a531d6c6155c17ee0ab02239a6171b]
+The Railways (Interoperability) (Amendment) Regulations 2007 (revoked)[^c-a4a531d6c6155c17ee0ab02239a6171b]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 8th January 2008
 
-[^key-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a4a531d6c6155c17ee0ab02239a6171b]
+## 1. Citation and commencement[^c-a4a531d6c6155c17ee0ab02239a6171b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Railways (Interoperability) Regulations 2006[^key-a4a531d6c6155c17ee0ab02239a6171b]
+## 2. Amendments to the Railways (Interoperability) Regulations 2006[^c-a4a531d6c6155c17ee0ab02239a6171b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4a531d6c6155c17ee0ab02239a6171b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4a531d6c6155c17ee0ab02239a6171b]: Textual amendment: Regulations revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3))
+[^c-a4a531d6c6155c17ee0ab02239a6171b]: Textual amendment: Regulations revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Certification of plans, etc.[^key-ddcd0dfdedb869958cdfd650d4a65aa7]
+## 51. Certification of plans, etc.[^c-ddcd0dfdedb869958cdfd650d4a65aa7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ DLRL shall, as soon as practicable after the making of this Order, submit copies
 
 ## Annotations
 
-[^key-ddcd0dfdedb869958cdfd650d4a65aa7]: Commencement: Art. 51 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-ddcd0dfdedb869958cdfd650d4a65aa7]: Commencement: Art. 51 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

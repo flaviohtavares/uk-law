@@ -22,7 +22,7 @@ summary: ''
 
 Section 57 applies to LLPs, modified so that it reads as follows—
 
-> **57. Permitted characters etc[^key-18779751922728f43191946cc146fa2b]**
+> **57. Permitted characters etc[^c-18779751922728f43191946cc146fa2b]**
 >
 > (1) The provisions of the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 relating to the characters, signs or symbols and punctuation that may be used in a registered name apply to LLPs.
 >
@@ -42,4 +42,4 @@ Section 57 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-18779751922728f43191946cc146fa2b]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/2)
+[^c-18779751922728f43191946cc146fa2b]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/2)

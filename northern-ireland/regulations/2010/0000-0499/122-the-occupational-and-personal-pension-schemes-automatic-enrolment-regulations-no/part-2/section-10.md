@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10.[^key-b1e7bfd3e3c6f8ac0c7a4e517ff530f6]
+## 10.[^c-b1e7bfd3e3c6f8ac0c7a4e517ff530f6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where an employer is given a valid opt out notice, the employer must inform the 
 
 ## Annotations
 
-[^key-b1e7bfd3e3c6f8ac0c7a4e517ff530f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/122/regulation/10) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-b1e7bfd3e3c6f8ac0c7a4e517ff530f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/122/regulation/10) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

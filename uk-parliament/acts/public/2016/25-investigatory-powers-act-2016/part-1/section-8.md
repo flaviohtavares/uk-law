@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Civil liability for certain unlawful interceptions[^key-4f013346014a96b2ac4fcd762d911fc1]
+## 8. Civil liability for certain unlawful interceptions[^c-4f013346014a96b2ac4fcd762d911fc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ if conditions A to D are met.
 
 ## Annotations
 
-[^key-4f013346014a96b2ac4fcd762d911fc1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/25/section/8) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/d)
+[^c-4f013346014a96b2ac4fcd762d911fc1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/25/section/8) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/d)

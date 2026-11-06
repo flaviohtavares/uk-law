@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Tests: approved assistants[^key-53b7056fe7fc74693a05283dada63e3d]
+## 43. Tests: approved assistants[^c-53b7056fe7fc74693a05283dada63e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ In the Road Traffic Act 1988, before section 163 insert—
 
 ## Annotations
 
-[^key-53b7056fe7fc74693a05283dada63e3d]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/49/section/43) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(m)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/m)
+[^c-53b7056fe7fc74693a05283dada63e3d]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2006/49/section/43) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(m)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/m)

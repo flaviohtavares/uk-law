@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Valuation[^key-854c68b828ca1ab27754733bd7ad2e50]
+## 15. Valuation[^c-854c68b828ca1ab27754733bd7ad2e50]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-854c68b828ca1ab27754733bd7ad2e50]: Textual amendment: S. 15 substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(6)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/6) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
+[^c-854c68b828ca1ab27754733bd7ad2e50]: Textual amendment: S. 15 substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(6)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/6) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303N. Transitional provisions[^key-1b2e613c8f2706b7529eaa16aebed49b]
+## 303N. Transitional provisions[^c-1b2e613c8f2706b7529eaa16aebed49b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2e613c8f2706b7529eaa16aebed49b]: Textual amendment: Ss. 303N, 303O and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/14/section/4/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(c)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/c)
+[^c-1b2e613c8f2706b7529eaa16aebed49b]: Textual amendment: Ss. 303N, 303O and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/14/section/4/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(c)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/c)

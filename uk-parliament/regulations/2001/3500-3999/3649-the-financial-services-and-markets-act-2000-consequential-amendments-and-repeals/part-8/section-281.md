@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281. Restrictions on voting: interpretation[^key-4224aac55ec852ee8e7f83c386555887]
+## 281. Restrictions on voting: interpretation[^c-4224aac55ec852ee8e7f83c386555887]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ For subsection (1) of section 98[^f00202] of the Local Government Act 1972 (rest
 
 ## Annotations
 
-[^key-4224aac55ec852ee8e7f83c386555887]: Commencement: Art. 281 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4224aac55ec852ee8e7f83c386555887]: Commencement: Art. 281 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00202]: Footnote: Section 98 is repealed by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) Schedule 5, paragraph 12 from a date to be appointed and has been amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 8.

@@ -77,7 +77,7 @@ A woman who makes an election under regulation 2 above shall, within 28 days[^M_
 
 The employer to be regarded for the purposes of statutory maternity pay as the employer under the one contract where 2 or more contracts of service are treated as one in accordance with regulation 2 above shall be—
 
-- (a)[^key-bde28ec3a858fb07a8f6a90b3ccc10fb] in the case of a woman whose contract of employment is treated by a scheme under Part I of the National Health Service and Community Care Act 1990 or the National Health Service (Scotland) Act 1978 as divided—
+- (a)[^c-bde28ec3a858fb07a8f6a90b3ccc10fb] in the case of a woman whose contract of employment is treated by a scheme under Part I of the National Health Service and Community Care Act 1990 or the National Health Service (Scotland) Act 1978 as divided—
   - (i) the Health Authority or Primary Care Trust from which the woman was transferred, in a case where any one of the contracts of service is with that Health Authority [^M_F_6c079174-8393-4169-8cbd-e3501aec2f7f] ...; or
   - (ii) the first NHS trust to which a contract of service was transferred in a case where none of the contracts of service are with the Health Authority [^M_F_3c258749-d23b-4302-f5a2-354ff178cec8] ... from which she was transferred;
     - [^M_F_ec6b18a1-0776-454e-b900-1125937084cc] ...
@@ -141,7 +141,7 @@ Regulation 6 provides for the time for which an election ’Is to have effect.
 
 [^c1853200]: Marginal citation: See section 50(4) of the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), and regulations 20 and 21 of the Statutory Maternity Pay (General) Regulations 1986/1960 as amended by [S.I. 1990/622](https://www.legislation.gov.uk/uksi/1990/622).
 
-[^key-bde28ec3a858fb07a8f6a90b3ccc10fb]: Textual amendment: Reg. 5(a)(b) substituted for reg. 5(a)(c) (1.4.2000) by [The Health Act 1999 (Supplementary, Consequential etc. Provisions) (No. 2) Order 2000 (S.I. 2000/694)](https://www.legislation.gov.uk/uksi/2000/694), [art. 1](https://www.legislation.gov.uk/uksi/2000/694/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2000/694/schedule/paragraph/3/4)
+[^c-bde28ec3a858fb07a8f6a90b3ccc10fb]: Textual amendment: Reg. 5(a)(b) substituted for reg. 5(a)(c) (1.4.2000) by [The Health Act 1999 (Supplementary, Consequential etc. Provisions) (No. 2) Order 2000 (S.I. 2000/694)](https://www.legislation.gov.uk/uksi/2000/694), [art. 1](https://www.legislation.gov.uk/uksi/2000/694/article/1), [Sch. para. 3(4)](https://www.legislation.gov.uk/uksi/2000/694/schedule/paragraph/3/4)
 
 [^M_F_6c079174-8393-4169-8cbd-e3501aec2f7f]: Textual amendment: Words in reg. 5(a)(i) omitted (1.4.13) by S.I. 2013/235, Sch. 2, para. 16(4)(a)
 

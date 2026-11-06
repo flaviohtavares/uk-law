@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(2)
 
 [^c23714571]The Treasury make these Regulations exercising the powers in sections 32(7), 32(8), 32(13), 51(1), 51(3) and 52(2) of, and Schedule 2 paragraphs 5, 6, 7, 19(2) and 21(1) to, the Taxation (Cross-border Trade) Act 2018 .
 
-The Treasury consider them appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU.[^key-d893723fd471d83ee2bd6eeec0e2a814]
+The Treasury consider them appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU.[^c-d893723fd471d83ee2bd6eeec0e2a814]
 
 ## Contents
 
@@ -87,4 +87,4 @@ https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-lea
 
 [^c23714571]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); the “appropriate Minister” for these purposes is the Treasury under section 51(4)(b).
 
-[^key-d893723fd471d83ee2bd6eeec0e2a814]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1258) applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2020/1605/regulation/34); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d893723fd471d83ee2bd6eeec0e2a814]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1258) applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2020/1605/regulation/34); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

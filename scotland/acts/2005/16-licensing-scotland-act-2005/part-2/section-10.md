@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Local Licensing Forums[^key-9aef1e4bce38c6249ed77c6b3eda1a7f]
+## 10. Local Licensing Forums[^c-9aef1e4bce38c6249ed77c6b3eda1a7f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aef1e4bce38c6249ed77c6b3eda1a7f]: Commencement: S. 10 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-9aef1e4bce38c6249ed77c6b3eda1a7f]: Commencement: S. 10 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

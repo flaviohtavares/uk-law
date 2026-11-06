@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 716B. Employment intermediaries to keep, preserve and provide information etc[^key-b13a74be24d9349dd5b8572a4b2d0880]
+## 716B. Employment intermediaries to keep, preserve and provide information etc[^c-b13a74be24d9349dd5b8572a4b2d0880]
 
 *Extent: E+W+S+N.I.*
 
-(1) For purposes connected with Chapter 7 ... (treatment of workers supplied by agencies) or 11 (umbrella companies) of Part 2[^key-e6f8e5aae088227cfa48ff33eb342d98] or Part 11 (PAYE), the Commissioners for Her Majesty's Revenue and Customs may by regulations make provision for, or in connection with, requiring a specified employment intermediary—
+(1) For purposes connected with Chapter 7 ... (treatment of workers supplied by agencies) or 11 (umbrella companies) of Part 2[^c-e6f8e5aae088227cfa48ff33eb342d98] or Part 11 (PAYE), the Commissioners for Her Majesty's Revenue and Customs may by regulations make provision for, or in connection with, requiring a specified employment intermediary—
 
 - (a) to keep and preserve specified information, records or documents for a specified period;
 - (b) to provide Her Majesty's Revenue and Customs with specified information, records or documents within a specified period or at specified times.
 
-(2) An “employment intermediary” is a person (other than an individual mentioned in paragraph (a) or (b))[^key-ec3b1f998a2c4ef553748b55e6519300] who makes or participates in[^key-15f5f080c9adb68d50bb5cd5f73d83e2] arrangements under or in consequence of which—
+(2) An “employment intermediary” is a person (other than an individual mentioned in paragraph (a) or (b))[^c-ec3b1f998a2c4ef553748b55e6519300] who makes or participates in[^c-15f5f080c9adb68d50bb5cd5f73d83e2] arrangements under or in consequence of which—
 
 - (a) an individual works, or is to work, for a third person, or
 - (b) an individual is, or is to be, remunerated for work done for a third person.
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b13a74be24d9349dd5b8572a4b2d0880]: Textual amendment: S. 716B and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/18/1)
+[^c-b13a74be24d9349dd5b8572a4b2d0880]: Textual amendment: S. 716B and cross-heading inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/18/1)
 
-[^key-e6f8e5aae088227cfa48ff33eb342d98]: Textual amendment: Words in [s. 716B(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/1) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/a/ii)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
+[^c-e6f8e5aae088227cfa48ff33eb342d98]: Textual amendment: Words in [s. 716B(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/1) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/a/ii)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
 
-[^key-ec3b1f998a2c4ef553748b55e6519300]: Textual amendment: Words in [s. 716B(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/2) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/b/i)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
+[^c-ec3b1f998a2c4ef553748b55e6519300]: Textual amendment: Words in [s. 716B(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/2) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/b/i)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
 
-[^key-15f5f080c9adb68d50bb5cd5f73d83e2]: Textual amendment: Words in [s. 716B(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/2) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/b/ii)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
+[^c-15f5f080c9adb68d50bb5cd5f73d83e2]: Textual amendment: Words in [s. 716B(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/716B/2) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(8)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/8/b/ii)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)

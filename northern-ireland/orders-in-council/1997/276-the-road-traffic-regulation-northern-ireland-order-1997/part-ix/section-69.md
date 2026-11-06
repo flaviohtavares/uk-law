@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Articles 7, 8A,[^key-cf85b727bd7d9414834148a77107c143] 39 and 43, together with so much of the other provisions of this Order as relates to those provisions shall, without prejudice to Article 8 of the Order of 1995, apply in relation to trolley vehicles and the drivers of trolley vehicles as they apply in relation to heavy motor cars and the drivers of heavy motor cars.
+Articles 7, 8A,[^c-cf85b727bd7d9414834148a77107c143] 39 and 43, together with so much of the other provisions of this Order as relates to those provisions shall, without prejudice to Article 8 of the Order of 1995, apply in relation to trolley vehicles and the drivers of trolley vehicles as they apply in relation to heavy motor cars and the drivers of heavy motor cars.
 
 ## Annotations
 
-[^key-cf85b727bd7d9414834148a77107c143]: Textual amendment: Word in [art. 69](https://www.legislation.gov.uk/nisi/1997/276/article/69) inserted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/2); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-cf85b727bd7d9414834148a77107c143]: Textual amendment: Word in [art. 69](https://www.legislation.gov.uk/nisi/1997/276/article/69) inserted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/2); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)

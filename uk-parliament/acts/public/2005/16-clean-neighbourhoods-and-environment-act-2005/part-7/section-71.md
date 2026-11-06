@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Notification of nominated key-holders[^key-ce4560e2278f0bd60be9f08cf716cdbf][^key-e833f8e1ad6215ce17ac09198b689d3e]
+## 71. Notification of nominated key-holders[^c-ce4560e2278f0bd60be9f08cf716cdbf][^c-e833f8e1ad6215ce17ac09198b689d3e]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce4560e2278f0bd60be9f08cf716cdbf]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2005/16/section/71) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-ce4560e2278f0bd60be9f08cf716cdbf]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2005/16/section/71) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-e833f8e1ad6215ce17ac09198b689d3e]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2005/16/section/71) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(aa)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/aa)
+[^c-e833f8e1ad6215ce17ac09198b689d3e]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2005/16/section/71) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(aa)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/aa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Social deprivation - primary and secondary schools[^key-ee5acaab72b92e143a4896e461c71833]
+## 15. Social deprivation - primary and secondary schools[^c-ee5acaab72b92e143a4896e461c71833]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ee5acaab72b92e143a4896e461c71833]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/42/regulation/15) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-ee5acaab72b92e143a4896e461c71833]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/42/regulation/15) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00054]: Footnote: This document was published in November 2024 and can be found at https://www.gov.uk/government/publications/pre-16-schools-funding-local-authority-guidance-for-2025-to-2026. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, on request.
 

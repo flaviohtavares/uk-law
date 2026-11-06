@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Obstruction etc. of officers[^key-d67d6345f552d4ed739a2b60e6347bb0]
+## 24. Obstruction etc. of officers[^c-d67d6345f552d4ed739a2b60e6347bb0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-d67d6345f552d4ed739a2b60e6347bb0]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2017/2/section/24) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-d67d6345f552d4ed739a2b60e6347bb0]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2017/2/section/24) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

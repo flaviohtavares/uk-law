@@ -33,7 +33,7 @@ An Act to provide for grants to the National Coal Corporation[^c7187281] to meet
 
 \[1st August 1975\][^c7187281][^c7187311]
 
-## 1. Grants to National Coal Corporation to meet expenditure under pneumoconiosis compensation scheme.[^key-524d1bffa934960553043598f498d5bf][^c7187321]
+## 1. Grants to National Coal Corporation to meet expenditure under pneumoconiosis compensation scheme.[^c-524d1bffa934960553043598f498d5bf][^c7187321]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -358,7 +358,7 @@ section 7(4).
 
 [^c7187311]: Commencement: Act wholly in force at 1.9.1975 see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1975/56/section/8/2)
 
-[^key-524d1bffa934960553043598f498d5bf]: Textual amendment: S. 1 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. 4](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-524d1bffa934960553043598f498d5bf]: Textual amendment: S. 1 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. 4](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c7187321]: Textual amendment: S. 1: for "Board" and "Board's" wherever they occur in the Act (with specified exceptions) there is substituted "Corporation" or "Corporation's" by [Coal Industry Act 1987 (c. 3, SIF 86)](https://www.legislation.gov.uk/ukpga/1987/3), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1987/3/section/1/2), [Sch. 1 para. 28(2)](https://www.legislation.gov.uk/ukpga/1987/3/schedule/1/paragraph/28/2).
 

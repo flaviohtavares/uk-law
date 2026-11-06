@@ -24,7 +24,7 @@ Regulation 43
 
 ### PART 1 — Public general acts
 
-#### 1. Sewerage (Scotland) Act 1968[^key-c31954f1a879be8169f4889183a49ea0]
+#### 1. Sewerage (Scotland) Act 1968[^c-c31954f1a879be8169f4889183a49ea0]
 
 (1) The Sewerage (Scotland) Act 1968[^f00094] is amended in accordance with sub-paragraphs (2) to (5).
 
@@ -48,7 +48,7 @@ Regulation 43
 - (b) in subsection (1)(a), for “Water Environment (Controlled Activities) (Scotland) Regulations 2011 ([S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209))” substitute, “Environmental Authorisations (Scotland) Regulations 2018[^f00099],”,
 - (c) in subsection (3)(b), for “section 20 of the Water Environment and Water Services (Scotland) Act 2003”, substitute “section 18 of the Regulatory Reform (Scotland) Act 2014[^f00100]”.
 
-#### 2. Environmental Protection Act 1990[^key-d122fc4e62eaaf2bfafa73b26f862612]
+#### 2. Environmental Protection Act 1990[^c-d122fc4e62eaaf2bfafa73b26f862612]
 
 (1) The Environmental Protection Act 1990[^f00101] is amended in accordance with sub-paragraphs (2) to (7).
 
@@ -109,15 +109,15 @@ Regulation 43
   .
 - (c) omit subsections (2), (2A), (2B), (2C) and (4).
 
-#### 3. Planning and Compensation Act 1991[^key-6e8b720c1e92d7ed6488f4a87e6a3662]
+#### 3. Planning and Compensation Act 1991[^c-6e8b720c1e92d7ed6488f4a87e6a3662]
 
 In schedule 18 (compensation provisions referred to in section 80) of the Planning and Compensation Act 1991[^f00113], in Part 1, omit the entries in the table relating to the Environmental Protection Act 1990.
 
-#### 4. Criminal Procedure (Scotland) Act 1995[^key-4ca81670e0bb88101151ab6087e8e53e]
+#### 4. Criminal Procedure (Scotland) Act 1995[^c-4ca81670e0bb88101151ab6087e8e53e]
 
 In schedule 9 (certificates as to proof of certain routine matters) of the Criminal Procedure (Scotland) Act 1995[^f00114], omit the entries in the table relating to the Control of Pollution (Amendment) Act 1989 and the Water Environment (Controlled Activities) (Scotland) Regulations 2011.
 
-#### 5. Environment Act 1995[^key-a61b49cb86cd86d198f525c68440a337]
+#### 5. Environment Act 1995[^c-a61b49cb86cd86d198f525c68440a337]
 
 (1) The Environment Act 1995[^f00115] is amended in accordance with sub-paragraphs (2) to (6).
 
@@ -167,7 +167,7 @@ In schedule 9 (certificates as to proof of certain routine matters) of the Crimi
 
   .
 
-#### 6. Goods Vehicles (Licensing of Operators) Act 1995[^key-58ba19127d9e291ede08b796846cf922]
+#### 6. Goods Vehicles (Licensing of Operators) Act 1995[^c-58ba19127d9e291ede08b796846cf922]
 
 For paragraph 5(i)(iii) of schedule 2 (information about, convictions of, applicants for and holders of operator’s licences) of the Goods Vehicles (Licensing of Operators) Act 1995[^f00124], substitute—
 
@@ -175,11 +175,11 @@ For paragraph 5(i)(iii) of schedule 2 (information about, convictions of, applic
 
 .
 
-#### 7. Forth Crossing Act 2011[^key-87c1a611bb266bd3724b069fdc972c95]
+#### 7. Forth Crossing Act 2011[^c-87c1a611bb266bd3724b069fdc972c95]
 
 In section 69 (protection of the water environment) of the Forth Crossing Act 2011[^f00126], for “section 20(1) of the Water Environment and Water Services (Scotland) Act [2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3)” substitute “section 18 of the Regulatory Reform (Scotland) Act 2014[^f00127]”.
 
-#### 8. Water Resources (Scotland) Act 2013[^key-faecfeba9625fa156b7fb1aa19219094]
+#### 8. Water Resources (Scotland) Act 2013[^c-faecfeba9625fa156b7fb1aa19219094]
 
 (1) The Water Resources (Scotland) Act 2013[^f00128] is amended in accordance with sub-paragraphs (2) to (6).
 
@@ -207,7 +207,7 @@ In section 69 (protection of the water environment) of the Forth Crossing Act 20
 
 ### PART 2 — Subordinate legislation
 
-#### 9. Environmental Protection (Prescribed Processes and Substances) Regulations 1991[^key-6dc356ef0868ff41e32e6dcc098b756c]
+#### 9. Environmental Protection (Prescribed Processes and Substances) Regulations 1991[^c-6dc356ef0868ff41e32e6dcc098b756c]
 
 (1) Regulation 3A (exclusion of prescribed processes under control of the Pollution Prevention and Control (Scotland) Regulations 2012) of the Environmental Protection (Prescribed Processes and Substances) Regulations 1991[^f00131] is amended in accordance with sub-paragraphs (2) to (4).
 
@@ -217,7 +217,7 @@ In section 69 (protection of the water environment) of the Forth Crossing Act 20
 
 (4) In paragraph (2), after “permit” each time it appears, insert “or registration”.
 
-#### 10. Controlled Waste Regulations 1992[^key-05d8da1da9be5f9f790c23414550cc45]
+#### 10. Controlled Waste Regulations 1992[^c-05d8da1da9be5f9f790c23414550cc45]
 
 In regulation 7(1) (waste not to be treated as industrial or commercial waste) of the Controlled Waste Regulations 1992[^f00133]—
 
@@ -228,7 +228,7 @@ In regulation 7(1) (waste not to be treated as industrial or commercial waste) o
   ,
 - (b) omit sub-paragraph (c).
 
-#### 11. Conservation (Natural Habitats, &c.) Regulations 1994[^key-a3d580742a7e4c5558c4d35a80c96a7e]
+#### 11. Conservation (Natural Habitats, &c.) Regulations 1994[^c-a3d580742a7e4c5558c4d35a80c96a7e]
 
 (1) The Conservation (Natural Habitats, &c.) Regulations 1994[^f00135] are amended in accordance with sub-paragraphs (2) to (5).
 
@@ -258,7 +258,7 @@ In regulation 7(1) (waste not to be treated as industrial or commercial waste) o
 
 .
 
-#### 12. Landfill Tax Regulations 1996[^key-253109603b9c3168e0c97ca6856b6df6]
+#### 12. Landfill Tax Regulations 1996[^c-253109603b9c3168e0c97ca6856b6df6]
 
 In the Landfill Tax Regulations 1996[^f00139], in regulation 33(4) (bodies eligible for approval)—
 
@@ -270,7 +270,7 @@ In the Landfill Tax Regulations 1996[^f00139], in regulation 33(4) (bodies eligi
   ,
 - (b) omit sub-paragraphs (i), (j) and (k).
 
-#### 13. Special Waste Regulations 1996[^key-1d4035178b4f3c3a172afbb81f860e14]
+#### 13. Special Waste Regulations 1996[^c-1d4035178b4f3c3a172afbb81f860e14]
 
 (1) The Special Waste Regulations 1996[^f00142] are amended in accordance with sub-paragraphs (2) to (7).
 
@@ -306,19 +306,19 @@ In the Landfill Tax Regulations 1996[^f00139], in regulation 33(4) (bodies eligi
 
 (7) In regulation 16(1) (site records), for “waste management licence” substitute, “authorisation for the treatment or disposal of waste under the 2018 Regulations”.
 
-#### 14. Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^key-824c314fa97cad874b713f7b370ffc6a]
+#### 14. Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^c-824c314fa97cad874b713f7b370ffc6a]
 
 In regulation 5(2) (application of part 1 of the Scottish act in relation to the Solway Tweed River Basin District) of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^f00145], omit “20”.
 
-#### 15. Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^key-984220b8253d0d18fb462b97518c0981]
+#### 15. Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^c-984220b8253d0d18fb462b97518c0981]
 
 In the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^f00146], in schedule 2 part II paragraph 4 (general environmental requirements), for “The Water Environment (Controlled Activities) (Scotland) Regulations 2005”, substitute “The Environmental Authorisations (Scotland) Regulations 2018[^f00147]”.
 
-#### 16. Transfrontier Shipment of Waste Regulations 2007[^key-f8813df15805ade65e8ca70c4c9233a6]
+#### 16. Transfrontier Shipment of Waste Regulations 2007[^c-f8813df15805ade65e8ca70c4c9233a6]
 
 In the Transfrontier Shipment of Waste Regulations 2007[^f00148], in regulation 16 (waste management licensing regulations 1994 etc.), omit “Paragraph 6(1)(c) of Schedule 4 to the Waste Management Licensing (Scotland) Regulations 2011 and”.
 
-#### 17. Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008[^key-088bfee141497d3b9ae9a7024a3d0d21]
+#### 17. Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008[^c-088bfee141497d3b9ae9a7024a3d0d21]
 
 In the Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008[^f00149], for regulation 8 (exclusions from storage capacity) substitute—
 
@@ -326,7 +326,7 @@ In the Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008
 
 .
 
-#### 18. Environmental Liability (Scotland) Regulations 2009[^key-238655a9dfc231699f900c9a53523bd9]
+#### 18. Environmental Liability (Scotland) Regulations 2009[^c-238655a9dfc231699f900c9a53523bd9]
 
 In the Environmental Liability (Scotland) Regulations 2009[^f00151], for schedule 1 paragraph 2(3) (activities for the purposes of regulation 4(1)) substitute—
 
@@ -334,7 +334,7 @@ In the Environmental Liability (Scotland) Regulations 2009[^f00151], for schedul
 
 .
 
-#### 19. Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^key-ea03ab3c8de54dda2ce524a49f323285]
+#### 19. Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^c-ea03ab3c8de54dda2ce524a49f323285]
 
 In the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^f00153], in article 18B (sediment sampling)—
 
@@ -347,14 +347,14 @@ In the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 20
 
   .
 
-#### 20. Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011[^key-15310f9403793078d659fb17826f9daa]
+#### 20. Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011[^c-15310f9403793078d659fb17826f9daa]
 
 In the Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011[^f00155], in schedule 1—
 
 - (a) omit “The Water Environment (Controlled Activities) (Scotland) Regulations 2011”,
 - (b) after “The Water Environment (Remedial Measures) (Scotland) Regulations 2016”, insert “The Environmental Authorisations (Scotland) Regulations 2018.”.
 
-#### 21. Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^key-9ec6ce4f57998b54df48e706cdbfeb77]
+#### 21. Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^c-9ec6ce4f57998b54df48e706cdbfeb77]
 
 (1) The Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^f00156] are amended in accordance with sub-paragraphs (2) to (3).
 
@@ -366,11 +366,11 @@ In the Water Environment (Relevant Enactments and Designation of Responsible Aut
 
 (3) In regulation 6(1)(b)(ii), for “Pollution Prevention and Control (Scotland) Regulations 2012” substitute “Environmental Authorisations (Scotland) Regulations 2018[^f00158]”.
 
-#### 22. Feed-in Tariffs Order 2012[^key-df2c2f0ebe38592b9c84b88d1c259170]
+#### 22. Feed-in Tariffs Order 2012[^c-df2c2f0ebe38592b9c84b88d1c259170]
 
 In article 9(4)(d) of the Feed-in Tariffs Order 2012[^f00159] for “Water Environment (Controlled Activities) (Scotland) Regulations 2011” substitute “Environmental Authorisations (Scotland) Regulations 2018[^f00160]”.
 
-#### 23. Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-13e3165bce14ee6514b3eee295130792]
+#### 23. Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^c-13e3165bce14ee6514b3eee295130792]
 
 In the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^f00161], in regulation 18 (designation of mixing zones)—
 
@@ -381,7 +381,7 @@ In the Water Environment (River Basin Management Planning: Further Provision) (S
 
   .
 
-#### 24. Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014[^key-b6622e10eb69f7bc944afd10db010eae]
+#### 24. Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014[^c-b6622e10eb69f7bc944afd10db010eae]
 
 In the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014[^f00163], in schedule 1 (standards for good agricultural and environmental condition)—
 
@@ -400,7 +400,7 @@ In the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014
   - (iii) in paragraph 3(1), for “2011 Regulations” substitute “2018 Regulations”,
   - (iv) in paragraph 3(2), for “regulation 32(2) of the 2011 Regulations (enforcement notices)” substitute “regulation 46 of the 2018 Regulations (regulatory notices)”.
 
-#### 25. Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^key-b47d7690bcad2a90faee72f6ee488f3b]
+#### 25. Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^c-b47d7690bcad2a90faee72f6ee488f3b]
 
 In the Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^f00165], in the table in regulation 3—
 
@@ -412,7 +412,7 @@ In the Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^f001
   | A person authorised under a permit or registration under the Environmental Authorisations (Scotland) Regulations 2018[^f00166]. | The relevant authorisation number (if any) issued by the competent authority. |
   | A person who has notified SEPA under Part 3 of the Environmental Authorisations (Scotland) Regulations 2018. | The relevant authorisation number (if any) issued by the competent authority. |
 
-#### 26. Environmental Regulation (Liability where Activity Carried Out by Arrangement with Another) (Scotland) Order 2014[^key-595e4f638aa7c89cec855f7c821211d8]
+#### 26. Environmental Regulation (Liability where Activity Carried Out by Arrangement with Another) (Scotland) Order 2014[^c-595e4f638aa7c89cec855f7c821211d8]
 
 In the Environmental Regulation (Liability where Activity Carried Out by Arrangement with Another) (Scotland) Order 2014[^f00167], in schedule 1 (specified activities), for paragraph 2 substitute—
 
@@ -424,7 +424,7 @@ In the Environmental Regulation (Liability where Activity Carried Out by Arrange
 
 .
 
-#### 27. Control of Major Accident Hazards Regulations 2015[^key-0882b8ee01a40c7c1c900f4444942b3f]
+#### 27. Control of Major Accident Hazards Regulations 2015[^c-0882b8ee01a40c7c1c900f4444942b3f]
 
 (1) The Control of Major Accident Hazards Regulations 2015[^f00169] are amended in accordance with sub-paragraphs (2) to (4).
 
@@ -441,7 +441,7 @@ In the Environmental Regulation (Liability where Activity Carried Out by Arrange
 
 (4) In regulation 25 (inspections and investigations), for “the 2012 Regulations” in both places where it appears, substitute “regulations made under section 18 of the 2014 Act”.
 
-#### 28. Environmental Regulation (Enforcement Measures) (Scotland) Order 2015[^key-9373df55bc176e6c4d7ba0b1e6518308]
+#### 28. Environmental Regulation (Enforcement Measures) (Scotland) Order 2015[^c-9373df55bc176e6c4d7ba0b1e6518308]
 
 (1) The Environmental Regulation (Enforcement Measures) (Scotland) Order 2015[^f00171] are amended in accordance with sub-paragraph (2).
 
@@ -461,7 +461,7 @@ In the Environmental Regulation (Liability where Activity Carried Out by Arrange
   > | --- | --- | --- | --- | --- |
   > | Regulation 18(1) (failure to comply with regulations) | YES | YES | YES | LOW |
 
-#### 29. Packaging (Essential Requirements) Regulations 2015[^key-0e6b95b5e23c3c0c2cbb7e54c732bd34]
+#### 29. Packaging (Essential Requirements) Regulations 2015[^c-0e6b95b5e23c3c0c2cbb7e54c732bd34]
 
 In the Packaging (Essential Requirements) Regulations 2015[^f00172], for schedule 1 paragraph 1(4)(b)(essential requirements on the composition and the reusable and recoverable, including recyclable, nature of packaging) substitute—
 
@@ -469,23 +469,23 @@ In the Packaging (Essential Requirements) Regulations 2015[^f00172], for schedul
 
 .
 
-#### 30. Scottish Landfill Tax (Administration) Regulations 2015[^key-a5acf5ea1778adbca0744c5edaad07de]
+#### 30. Scottish Landfill Tax (Administration) Regulations 2015[^c-a5acf5ea1778adbca0744c5edaad07de]
 
 In the Scottish Landfill Tax (Administration) Regulations 2015[^f00174], in regulation 29(9) (bodies eligible for approval), omit sub-paragraphs (b) to (d), and (i) to (l).
 
-#### 31. Scottish Landfill Tax (Exemption Certificates) Order 2015[^key-7f33e4fa3b1733c7da774caf673973a4]
+#### 31. Scottish Landfill Tax (Exemption Certificates) Order 2015[^c-7f33e4fa3b1733c7da774caf673973a4]
 
 In the Scottish Landfill Tax (Exemption Certificates) Order 2015[^f00175], in article 3(1)(b) (exemption certificates), for “regulation 57 of the Pollution Prevention and Control (Scotland) Regulations 2012” substitute “regulation 62 of the Environmental Authorisations (Scotland) Regulations 2018[^f00176]”.
 
-#### 32. Network Rail (Glasgow Queen Street Station) Order 2017[^key-87d4bc2243d1cc2953fe1fa783cb9132]
+#### 32. Network Rail (Glasgow Queen Street Station) Order 2017[^c-87d4bc2243d1cc2953fe1fa783cb9132]
 
 In the Network Rail (Glasgow Queen Street Station) Order 2017[^f00177], in article 37 (protection of the water environment), for “Water Environment (Controlled Activities) (Scotland) Regulations 2011” substitute “Environmental Authorisation (Scotland) Regulations 2018[^f00178]”.
 
-#### 33. Renewable Heat Incentive Scheme Regulations 2018[^key-04b4a227325939f04340d0a3c512b884]
+#### 33. Renewable Heat Incentive Scheme Regulations 2018[^c-04b4a227325939f04340d0a3c512b884]
 
 In the Renewable Heat Incentive Scheme Regulations 2018[^f00179], in schedule 2 paragraph 1(2)(n) (information required for modification of installation capacity, extension applications, accreditation or registration), for “Pollution Prevention and Control (Scotland) Regulations 2012” substitute “Environmental Authorisations (Scotland) Regulations 2018[^f00180]”.
 
-#### 34. Green Gas Support Scheme Regulations 2021[^key-a80cb6586e646077abf9d0f45d149dac]
+#### 34. Green Gas Support Scheme Regulations 2021[^c-a80cb6586e646077abf9d0f45d149dac]
 
 (1) The Green Gas Support Scheme Regulations 2021[^f00181] are amended in accordance with sub-paragraphs (2) and (3).
 
@@ -501,25 +501,25 @@ In the Renewable Heat Incentive Scheme Regulations 2018[^f00179], in schedule 2 
 
 .
 
-#### 35. Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)[^key-3a0e3cb93a7c5ff513c8eeb26f6d1870]
+#### 35. Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)[^c-3a0e3cb93a7c5ff513c8eeb26f6d1870]
 
 In article 24(1) (approval of establishments or plants) of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774)[^f00184], for “the Pollution Prevention and Control (Scotland) Regulations 2012” in both places it appears substitute “a permit or registration to operate under the Environmental Authorisations (Scotland) Regulations 2018[^f00185]”.
 
-#### 36. [Commission Regulation (EU) No. 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142)[^key-94f924d8d5b5b66dd6aed7aba64ab0e2]
+#### 36. [Commission Regulation (EU) No. 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142)[^c-94f924d8d5b5b66dd6aed7aba64ab0e2]
 
 In article 6(1) (disposal by incineration, disposal or recovery by co-incineration and use as a fuel for combustion) of [Commission Regulation (EU) No 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142) of 25 February 2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council [Directive 97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive[^f00186], for “the Pollution Prevention and Control (Scotland) Regulations 2012” in both places it appears, substitute “a permit or registration under the Environmental Authorisations (Scotland) Regulations 2018[^f00187]”.
 
-#### 37. [Regulation (EU) 2017/852](https://www.legislation.gov.uk/european/regulation/2017/0852)[^key-9f6322197997d758225293278f1204f4]
+#### 37. [Regulation (EU) 2017/852](https://www.legislation.gov.uk/european/regulation/2017/0852)[^c-9f6322197997d758225293278f1204f4]
 
 In article 7(3)(b) (industrial activities) of [Regulation (EU) 2017/852](https://www.legislation.gov.uk/european/regulation/2017/0852) of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing Regulation [(EC) No. 1102/2008](https://www.legislation.gov.uk/european/regulation/2008/1102)[^f00188], for “the Pollution Prevention and Control Regulations 2012” substitute “the Environmental Authorisations (Scotland) Regulations 2018[^f00189]”.
 
-#### 38. [Regulation (EU) 2019/1021](https://www.legislation.gov.uk/european/regulation/2019/1021)[^key-8774fe8139f0273ad6580a4848b52532]
+#### 38. [Regulation (EU) 2019/1021](https://www.legislation.gov.uk/european/regulation/2019/1021)[^c-8774fe8139f0273ad6580a4848b52532]
 
 In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.legislation.gov.uk/european/regulation/2019/1021) of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) [^f00190], for “Pollution Prevention and Control (Scotland) Regulations 2012” substitute “Environmental Authorisations (Scotland) Regulations 2018[^f00191]”.
 
 ## Annotations
 
-[^key-c31954f1a879be8169f4889183a49ea0]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/1) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-c31954f1a879be8169f4889183a49ea0]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/1) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00094]: Footnote: [1968 c. 47](https://www.legislation.gov.uk/ukpga/1968/47).
 
@@ -535,7 +535,7 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00100]: Footnote: [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
 
-[^key-d122fc4e62eaaf2bfafa73b26f862612]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/2) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-d122fc4e62eaaf2bfafa73b26f862612]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/2) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00101]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -561,15 +561,15 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00112]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-6e8b720c1e92d7ed6488f4a87e6a3662]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/3) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-6e8b720c1e92d7ed6488f4a87e6a3662]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/3) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00113]: Footnote: [1991 c. 34](https://www.legislation.gov.uk/ukpga/1991/34). Schedule 18 was relevantly amended by [S.S.I. 2006/181](https://www.legislation.gov.uk/ssi/2006/181) and [S.I. 1999/648](https://www.legislation.gov.uk/uksi/1999/648).
 
-[^key-4ca81670e0bb88101151ab6087e8e53e]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/4) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-4ca81670e0bb88101151ab6087e8e53e]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/4) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00114]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Schedule 9 paragraph 1 was relevantly amended by the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3) schedule 3(5), paragraph 31(4)(b).
 
-[^key-a61b49cb86cd86d198f525c68440a337]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/5) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-a61b49cb86cd86d198f525c68440a337]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/5) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00115]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -589,19 +589,19 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00123]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), as amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-58ba19127d9e291ede08b796846cf922]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/6) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-58ba19127d9e291ede08b796846cf922]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/6) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00124]: Footnote: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23).
 
 [^f00125]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-87c1a611bb266bd3724b069fdc972c95]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/7) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-87c1a611bb266bd3724b069fdc972c95]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/7) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00126]: Footnote: [2011 asp 2](https://www.legislation.gov.uk/asp/2011/2).
 
 [^f00127]: Footnote: [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
 
-[^key-faecfeba9625fa156b7fb1aa19219094]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/8) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-faecfeba9625fa156b7fb1aa19219094]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/8) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00128]: Footnote: [2013 asp 5](https://www.legislation.gov.uk/asp/2013/5); section 21(5)(b) was substituted by paragraph 10(3) of schedule 3(1) of the Regulatory Reform (Scotland) Act 2014.
 
@@ -609,19 +609,19 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00130]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-6dc356ef0868ff41e32e6dcc098b756c]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/9) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-6dc356ef0868ff41e32e6dcc098b756c]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/9) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00131]: Footnote: [S.I. 1991/472](https://www.legislation.gov.uk/uksi/1991/472). Regulation 3A(1) is relevantly amended by [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).
 
 [^f00132]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-05d8da1da9be5f9f790c23414550cc45]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/10) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-05d8da1da9be5f9f790c23414550cc45]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/10) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00133]: Footnote: [S.I. 1992/588](https://www.legislation.gov.uk/uksi/1992/588), relevantly amended by [S.S.I. 2005/22](https://www.legislation.gov.uk/ssi/2005/22).
 
 [^f00134]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-a3d580742a7e4c5558c4d35a80c96a7e]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/11) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-a3d580742a7e4c5558c4d35a80c96a7e]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/11) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00135]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716). Regulations 83 and 84 are relevantly amended by [S.S.I. 2007/1843](https://www.legislation.gov.uk/ssi/2007/1843). Regulation 84A is relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2007/1843](https://www.legislation.gov.uk/ssi/2007/1843) and [2012/360](https://www.legislation.gov.uk/ssi/2012/360).
 
@@ -631,7 +631,7 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00138]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-253109603b9c3168e0c97ca6856b6df6]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/12) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-253109603b9c3168e0c97ca6856b6df6]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/12) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00139]: Footnote: [S.I. 1996/1527](https://www.legislation.gov.uk/uksi/1996/1527), relevantly amended by [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).
 
@@ -639,7 +639,7 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00141]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-1d4035178b4f3c3a172afbb81f860e14]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/13) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-1d4035178b4f3c3a172afbb81f860e14]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/13) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00142]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.S.I. 2019/175](https://www.legislation.gov.uk/ssi/2019/175).
 
@@ -647,43 +647,43 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00144]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-824c314fa97cad874b713f7b370ffc6a]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/14) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-824c314fa97cad874b713f7b370ffc6a]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/14) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00145]: Footnote: [S.S.I. 2004/99](https://www.legislation.gov.uk/ssi/2004/99), relevantly amended by [S.S.I. 2016/139](https://www.legislation.gov.uk/ssi/2016/139).
 
-[^key-984220b8253d0d18fb462b97518c0981]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/15) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-984220b8253d0d18fb462b97518c0981]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/15) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00146]: Footnote: [S.S.I. 2005/225](https://www.legislation.gov.uk/ssi/2005/225), relevantly amended by [S.S.I. 2006/127](https://www.legislation.gov.uk/ssi/2006/127).
 
 [^f00147]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-f8813df15805ade65e8ca70c4c9233a6]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/16) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-f8813df15805ade65e8ca70c4c9233a6]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/16) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00148]: Footnote: [S.I. 2007/1711](https://www.legislation.gov.uk/uksi/2007/1711).
 
-[^key-088bfee141497d3b9ae9a7024a3d0d21]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/17) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-088bfee141497d3b9ae9a7024a3d0d21]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/17) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00149]: Footnote: [S.S.I. 2008/298](https://www.legislation.gov.uk/ssi/2008/298), relevantly amended by [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228) and [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).
 
 [^f00150]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-238655a9dfc231699f900c9a53523bd9]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/18) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-238655a9dfc231699f900c9a53523bd9]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/18) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00151]: Footnote: [S.S.I. 2009/266](https://www.legislation.gov.uk/ssi/2009/266), relevantly amended by [S.S.I. 2019/276](https://www.legislation.gov.uk/ssi/2019/276).
 
 [^f00152]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-ea03ab3c8de54dda2ce524a49f323285]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/19) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-ea03ab3c8de54dda2ce524a49f323285]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/19) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00153]: Footnote: [S.S.I. 2011/204](https://www.legislation.gov.uk/ssi/2011/204), relevantly amended by [S.S.I. 2012/25](https://www.legislation.gov.uk/ssi/2012/25).
 
 [^f00154]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-15310f9403793078d659fb17826f9daa]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/20) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-15310f9403793078d659fb17826f9daa]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/20) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00155]: Footnote: [S.S.I. 2011/368](https://www.legislation.gov.uk/ssi/2011/368), relevantly amended by [S.S.I. 2016/19](https://www.legislation.gov.uk/ssi/2016/19).
 
-[^key-9ec6ce4f57998b54df48e706cdbfeb77]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-9ec6ce4f57998b54df48e706cdbfeb77]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/21) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00156]: Footnote: [S.S.I. 2012/1715](https://www.legislation.gov.uk/ssi/2012/1715).
 
@@ -691,75 +691,75 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00158]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-df2c2f0ebe38592b9c84b88d1c259170]: Commencement: [Sch. 22 para. 22](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/22) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-df2c2f0ebe38592b9c84b88d1c259170]: Commencement: [Sch. 22 para. 22](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/22) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00159]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782), relevantly amended by [S.I. 2015/35](https://www.legislation.gov.uk/uksi/2015/35).
 
 [^f00160]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-13e3165bce14ee6514b3eee295130792]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-13e3165bce14ee6514b3eee295130792]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00161]: Footnote: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323).
 
 [^f00162]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-b6622e10eb69f7bc944afd10db010eae]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-b6622e10eb69f7bc944afd10db010eae]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/24) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00163]: Footnote: [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325).
 
 [^f00164]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-b47d7690bcad2a90faee72f6ee488f3b]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-b47d7690bcad2a90faee72f6ee488f3b]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00165]: Footnote: [S.S.I. 2014/4](https://www.legislation.gov.uk/ssi/2014/4).
 
 [^f00166]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-595e4f638aa7c89cec855f7c821211d8]: Commencement: [Sch. 22 para. 26](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/26) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-595e4f638aa7c89cec855f7c821211d8]: Commencement: [Sch. 22 para. 26](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/26) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00167]: Footnote: [S.S.I. 2014/323](https://www.legislation.gov.uk/ssi/2014/323).
 
 [^f00168]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-0882b8ee01a40c7c1c900f4444942b3f]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-0882b8ee01a40c7c1c900f4444942b3f]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/27) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00169]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483). Regulations 21(1) and 25 were relevantly amended by [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
 [^f00170]: Footnote: [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
 
-[^key-9373df55bc176e6c4d7ba0b1e6518308]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-9373df55bc176e6c4d7ba0b1e6518308]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00171]: Footnote: [S.S.I. 2015/383](https://www.legislation.gov.uk/ssi/2015/383).
 
-[^key-0e6b95b5e23c3c0c2cbb7e54c732bd34]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/29) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-0e6b95b5e23c3c0c2cbb7e54c732bd34]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/29) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00172]: Footnote: [S.I. 2015/1640](https://www.legislation.gov.uk/uksi/2015/1640), relevantly amended by [S.I. 2020/904](https://www.legislation.gov.uk/uksi/2020/904).
 
 [^f00173]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-a5acf5ea1778adbca0744c5edaad07de]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-a5acf5ea1778adbca0744c5edaad07de]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00174]: Footnote: [S.S.I. 2015/3](https://www.legislation.gov.uk/ssi/2015/3) as amended by [S.S.I. 2015/152](https://www.legislation.gov.uk/ssi/2015/152).
 
-[^key-7f33e4fa3b1733c7da774caf673973a4]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/31) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-7f33e4fa3b1733c7da774caf673973a4]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/31) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00175]: Footnote: [S.S.I. 2015/151](https://www.legislation.gov.uk/ssi/2015/151).
 
 [^f00176]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-87d4bc2243d1cc2953fe1fa783cb9132]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/32) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-87d4bc2243d1cc2953fe1fa783cb9132]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/32) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00177]: Footnote: [S.S.I. 2017/100](https://www.legislation.gov.uk/ssi/2017/100).
 
 [^f00178]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-04b4a227325939f04340d0a3c512b884]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/33) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-04b4a227325939f04340d0a3c512b884]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/33) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00179]: Footnote: [S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611).
 
 [^f00180]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-a80cb6586e646077abf9d0f45d149dac]: Commencement: [Sch. 22 para. 34](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-a80cb6586e646077abf9d0f45d149dac]: Commencement: [Sch. 22 para. 34](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00181]: Footnote: [S.I. 2021/1335](https://www.legislation.gov.uk/uksi/2021/1335).
 
@@ -767,25 +767,25 @@ In article 2(17)(b) (definitions) of [Regulation (EU) 2019/1021](https://www.leg
 
 [^f00183]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-3a0e3cb93a7c5ff513c8eeb26f6d1870]: Commencement: [Sch. 22 para. 35](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/35) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-3a0e3cb93a7c5ff513c8eeb26f6d1870]: Commencement: [Sch. 22 para. 35](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/35) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00184]: Footnote: EUR 1069/2009, relevantly amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
 [^f00185]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-94f924d8d5b5b66dd6aed7aba64ab0e2]: Commencement: [Sch. 22 para. 36](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/36) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-94f924d8d5b5b66dd6aed7aba64ab0e2]: Commencement: [Sch. 22 para. 36](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/36) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00186]: Footnote: EUR 142/2011, relevantly amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
 [^f00187]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-9f6322197997d758225293278f1204f4]: Commencement: [Sch. 22 para. 37](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/37) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-9f6322197997d758225293278f1204f4]: Commencement: [Sch. 22 para. 37](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/37) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00188]: Footnote: EUR 2017/852, relevantly amended by [S.I. 2020/1620](https://www.legislation.gov.uk/uksi/2020/1620).
 
 [^f00189]: Footnote: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219), amended by [S.S.I. 2019/26](https://www.legislation.gov.uk/ssi/2019/26), [S.S.I. 2023/374](https://www.legislation.gov.uk/ssi/2023/374) and [S.S.I. 2025/165](https://www.legislation.gov.uk/ssi/2025/165).
 
-[^key-8774fe8139f0273ad6580a4848b52532]: Commencement: [Sch. 22 para. 38](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/38) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-8774fe8139f0273ad6580a4848b52532]: Commencement: [Sch. 22 para. 38](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/38) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00190]: Footnote: EUR 2019/1021, relevantly amended by [S.I. 2020/1358](https://www.legislation.gov.uk/uksi/2020/1358).
 

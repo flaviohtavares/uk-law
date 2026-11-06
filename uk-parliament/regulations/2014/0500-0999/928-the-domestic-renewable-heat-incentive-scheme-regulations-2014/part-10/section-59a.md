@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**59A.**[^key-47e43793226c3ef08148901b913fc8ff] (1) Where the Authority is satisfied that—
+**59A.**[^c-47e43793226c3ef08148901b913fc8ff] (1) Where the Authority is satisfied that—
 
 - (a) there has been a serious or repeated failure by an RI to comply with an ongoing obligation;
 - (b) there has been a failure by the RI to comply with a notice under regulation 58(2); or
@@ -41,4 +41,4 @@ the Authority may revoke the RI’s investor registration.
 
 ## Annotations
 
-[^key-47e43793226c3ef08148901b913fc8ff]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/928/regulation/59A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [29](https://www.legislation.gov.uk/uksi/2018/610/regulation/29)
+[^c-47e43793226c3ef08148901b913fc8ff]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/928/regulation/59A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [29](https://www.legislation.gov.uk/uksi/2018/610/regulation/29)

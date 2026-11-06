@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1151. Lloyd's agents[^key-33e8a524dc32f535a992396680ddaec2]
+## 1151. Lloyd's agents[^c-33e8a524dc32f535a992396680ddaec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e8a524dc32f535a992396680ddaec2]: Textual amendment: [S. 1151](https://www.legislation.gov.uk/ukpga/2010/4/section/1151) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/20), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-33e8a524dc32f535a992396680ddaec2]: Textual amendment: [S. 1151](https://www.legislation.gov.uk/ukpga/2010/4/section/1151) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/20), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Debtor's account of state of affairs[^key-b630011fcde32dc73af054354d746649]
+## 116. Debtor's account of state of affairs[^c-b630011fcde32dc73af054354d746649]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ require the debtor to give an account in writing, in such form as may be prescri
 
 ## Annotations
 
-[^key-b630011fcde32dc73af054354d746649]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2016/21/section/116) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b630011fcde32dc73af054354d746649]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2016/21/section/116) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

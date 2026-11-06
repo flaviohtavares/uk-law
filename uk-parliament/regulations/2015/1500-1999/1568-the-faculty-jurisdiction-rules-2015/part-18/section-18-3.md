@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18.3. Court’s power to make order of its own initiative[^key-95bee9fe7f0cf0315ca59b72238c79e1]
+## 18.3. Court’s power to make order of its own initiative[^c-95bee9fe7f0cf0315ca59b72238c79e1]
 
 *Extent: E*
 
@@ -50,4 +50,4 @@ it must give each party likely to be affected by the order at least 3 days’ no
 
 ## Annotations
 
-[^key-95bee9fe7f0cf0315ca59b72238c79e1]: Commencement: [Rule 18.3](https://www.legislation.gov.uk/uksi/2015/1568/article/18.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-95bee9fe7f0cf0315ca59b72238c79e1]: Commencement: [Rule 18.3](https://www.legislation.gov.uk/uksi/2015/1568/article/18.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

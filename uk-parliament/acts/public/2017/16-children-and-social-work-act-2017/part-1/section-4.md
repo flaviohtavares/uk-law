@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Duty of local authority in relation to previously looked after children[^key-87cdb08d185312f9d85014138b1af6f1]
+## 4. Duty of local authority in relation to previously looked after children[^c-87cdb08d185312f9d85014138b1af6f1]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ Before section 23ZA of the Children Act 1989 (and the italic heading before it) 
 
 ## Annotations
 
-[^key-87cdb08d185312f9d85014138b1af6f1]: Commencement: S. 4 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-87cdb08d185312f9d85014138b1af6f1]: Commencement: S. 4 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

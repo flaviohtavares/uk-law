@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Qualifying investments[^key-e10d45a2d14e9493510da4e3868e60a7]
+## 123. Qualifying investments[^c-e10d45a2d14e9493510da4e3868e60a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e10d45a2d14e9493510da4e3868e60a7]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-e10d45a2d14e9493510da4e3868e60a7]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00117]: Footnote: Regulation 6 was substituted by regulation 7 of S.I. [2001/923](https://www.legislation.gov.uk/uksi/2001/923).

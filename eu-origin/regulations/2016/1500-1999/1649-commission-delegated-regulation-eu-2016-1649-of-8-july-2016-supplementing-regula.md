@@ -35,60 +35,60 @@ supplementing Regulation (EU) No 1316/2013 of the European Parliament and of the
 
 (Text with EEA relevance) (revoked)
 
-[^key-82350230834155734beff6f65082b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82350230834155734beff6f65082b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-82350230834155734beff6f65082b688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-82350230834155734beff6f65082b688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-82350230834155734beff6f65082b688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-82350230834155734beff6f65082b688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82350230834155734beff6f65082b688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — TRANSPORT FUNDING PRIORITIES FOR THE PURPOSE OF THE MULTIANNUAL AND ANNUAL WORK PROGRAMMES[^key-82350230834155734beff6f65082b688]
+## ANNEX — TRANSPORT FUNDING PRIORITIES FOR THE PURPOSE OF THE MULTIANNUAL AND ANNUAL WORK PROGRAMMES[^c-82350230834155734beff6f65082b688]
 
-[^key-82350230834155734beff6f65082b688]1.
+[^c-82350230834155734beff6f65082b688]1.
 
 **Funding priorities for the multiannual work programmes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]1.1.
+[^c-82350230834155734beff6f65082b688]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]1.2.
+[^c-82350230834155734beff6f65082b688]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]1.3.
+[^c-82350230834155734beff6f65082b688]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]1.4.
+[^c-82350230834155734beff6f65082b688]1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]2.
+[^c-82350230834155734beff6f65082b688]2.
 
 **Funding priorities for the annual work programmes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]2.1.
+[^c-82350230834155734beff6f65082b688]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]2.2.
+[^c-82350230834155734beff6f65082b688]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]2.3.
+[^c-82350230834155734beff6f65082b688]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82350230834155734beff6f65082b688]2.4.
+[^c-82350230834155734beff6f65082b688]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82350230834155734beff6f65082b688]: Textual amendment: Regulation revoked (31.12.2020) by [The Connecting Europe Facility (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/477)](https://www.legislation.gov.uk/uksi/2019/477), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/477/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/477/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82350230834155734beff6f65082b688]: Textual amendment: Regulation revoked (31.12.2020) by [The Connecting Europe Facility (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/477)](https://www.legislation.gov.uk/uksi/2019/477), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/477/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/477/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

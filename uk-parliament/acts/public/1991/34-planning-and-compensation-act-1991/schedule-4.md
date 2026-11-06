@@ -794,71 +794,71 @@ are omitted.
 
 **39.**[^c15662341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Transitional Provisions[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+### Part III — Transitional Provisions[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
-#### Interpretation[^key-00b368a6fff3faa1d873211aa1f3d9ee]
-
-**No longer in force.**
-
-**40.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Unitary development plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Interpretation[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**41.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Structure plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
-
-**No longer in force.**
-
-**42.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Local plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Unitary development plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**43.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**45.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Minerals and waste local plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Structure plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**46.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Duty of structure plan authority to notify authorities responsible for saved local plans et ceteralaetc.[^key-00b368a6fff3faa1d873211aa1f3d9ee]
-
-**No longer in force.**
-
-**47.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Consultation[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Local plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**48.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Joint plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+**44.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+**45.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Proceedings for questioning validity of development plans[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Minerals and waste local plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**50.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### The Isles of Scilly[^key-00b368a6fff3faa1d873211aa1f3d9ee]
+#### Duty of structure plan authority to notify authorities responsible for saved local plans et ceteralaetc.[^c-00b368a6fff3faa1d873211aa1f3d9ee]
 
 **No longer in force.**
 
-**51.**[^key-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Consultation[^c-00b368a6fff3faa1d873211aa1f3d9ee]
+
+**No longer in force.**
+
+**48.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Joint plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
+
+**No longer in force.**
+
+**49.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Proceedings for questioning validity of development plans[^c-00b368a6fff3faa1d873211aa1f3d9ee]
+
+**No longer in force.**
+
+**50.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Isles of Scilly[^c-00b368a6fff3faa1d873211aa1f3d9ee]
+
+**No longer in force.**
+
+**51.**[^c-00b368a6fff3faa1d873211aa1f3d9ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -956,4 +956,4 @@ are omitted.
 
 [^c15662341]: Textual amendment: [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/1991/34/schedule/4/paragraph/39) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [125(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/1), [Sch.24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24)(with ss. 7(6), 115, 117); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2),Sch.
 
-[^key-00b368a6fff3faa1d873211aa1f3d9ee]: Textual amendment: [Sch. 4 Pt. III](https://www.legislation.gov.uk/ukpga/1991/34/schedule/4/part/III) repealed (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/16), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1)
+[^c-00b368a6fff3faa1d873211aa1f3d9ee]: Textual amendment: [Sch. 4 Pt. III](https://www.legislation.gov.uk/ukpga/1991/34/schedule/4/part/III) repealed (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/16), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1)

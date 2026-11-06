@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Compulsory purchase under the Coal Industry Act 1994[^key-9997c20988c6d3db50111acf4358f004]
+## SCHEDULE 6 — Compulsory purchase under the Coal Industry Act 1994[^c-9997c20988c6d3db50111acf4358f004]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ After Schedule 1A to the Coal Industry Act 1994 (c. 21) (which is inserted by Sc
 
 ## Annotations
 
-[^key-9997c20988c6d3db50111acf4358f004]: Commencement: Sch. 6 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-9997c20988c6d3db50111acf4358f004]: Commencement: Sch. 6 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

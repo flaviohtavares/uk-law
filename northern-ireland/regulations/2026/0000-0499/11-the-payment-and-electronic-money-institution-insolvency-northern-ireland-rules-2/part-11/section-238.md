@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 238. Preliminary[^key-7879bdaf173fb76b0955099162a2ecae]
+## 238. Preliminary[^c-7879bdaf173fb76b0955099162a2ecae]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ The Rules in this Part—
 
 ## Annotations
 
-[^key-7879bdaf173fb76b0955099162a2ecae]: Commencement: [Rule 238](https://www.legislation.gov.uk/nisr/2026/11/rule/238) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-7879bdaf173fb76b0955099162a2ecae]: Commencement: [Rule 238](https://www.legislation.gov.uk/nisr/2026/11/rule/238) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00020]: Footnote: Article 180 was amended by Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).

@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked)[^key-024c45be6724820a1ee9a798bcce93b4]
+Spreadable Fats (Marketing Standards) Regulations (Northern Ireland) 1999 (revoked)[^c-024c45be6724820a1ee9a798bcce93b4]
 
 Made
 
@@ -40,57 +40,57 @@ Coming into operation
 
 1st November 1999
 
-[^key-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-024c45be6724820a1ee9a798bcce93b4]
+## 1. Citation and commencement[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-024c45be6724820a1ee9a798bcce93b4]
+## 2. Interpretation[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-024c45be6724820a1ee9a798bcce93b4]
+## 3. Exemptions[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Vitamin content of margarine[^key-024c45be6724820a1ee9a798bcce93b4]
+## 4. Vitamin content of margarine[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-024c45be6724820a1ee9a798bcce93b4]
+## 5. Enforcement[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalty[^key-024c45be6724820a1ee9a798bcce93b4]
+## 6. Offences and penalty[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Defence in relation to exports[^key-024c45be6724820a1ee9a798bcce93b4]
+## 7. Defence in relation to exports[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application of provisions of the Order[^key-024c45be6724820a1ee9a798bcce93b4]
+## 8. Application of provisions of the Order[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-024c45be6724820a1ee9a798bcce93b4]
+## 9. Revocations[^c-024c45be6724820a1ee9a798bcce93b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Community Provisions[^key-024c45be6724820a1ee9a798bcce93b4]
+## SCHEDULE 1 — Community Provisions[^c-024c45be6724820a1ee9a798bcce93b4]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocations[^key-024c45be6724820a1ee9a798bcce93b4]
+## SCHEDULE 2 — Revocations[^c-024c45be6724820a1ee9a798bcce93b4]
 
 Regulation 9
 
@@ -98,10 +98,10 @@ Regulation 9
 
 **May not be in force at this date. Check the source.**
 
-[^key-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-024c45be6724820a1ee9a798bcce93b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-024c45be6724820a1ee9a798bcce93b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/383) revoked (1.7.2008) by [The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008 (S.R. 2008/239)](https://www.legislation.gov.uk/nisr/2008/239), [regs. 1](https://www.legislation.gov.uk/nisr/2008/239/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2008/239/regulation/8/b)
+[^c-024c45be6724820a1ee9a798bcce93b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/383) revoked (1.7.2008) by [The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) Regulations (Northern Ireland) 2008 (S.R. 2008/239)](https://www.legislation.gov.uk/nisr/2008/239), [regs. 1](https://www.legislation.gov.uk/nisr/2008/239/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2008/239/regulation/8/b)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this SR made prior to its final revocation. A revised version of how the SR stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes List of All Changes available in 'More Resources' above\]

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**305.**[^key-9c004561f34c98115fc60da12c6dbd9b] In section 120(5) (assessment of children accommodated by health authorities and education authorities) after “local authority has been notified under this section” insert “, or under section 85 of the Children Act 1989 (assessment of children accommodated by health authorities and education authorities)”.
+**305.**[^c-9c004561f34c98115fc60da12c6dbd9b] In section 120(5) (assessment of children accommodated by health authorities and education authorities) after “local authority has been notified under this section” insert “, or under section 85 of the Children Act 1989 (assessment of children accommodated by health authorities and education authorities)”.
 
 ## Annotations
 
-[^key-9c004561f34c98115fc60da12c6dbd9b]: Commencement: Reg. 305 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9c004561f34c98115fc60da12c6dbd9b]: Commencement: Reg. 305 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

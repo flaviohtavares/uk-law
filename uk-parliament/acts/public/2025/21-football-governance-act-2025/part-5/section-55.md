@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Duties to notify and consult the IFR[^key-928fd72cda43ac54b6df61d05113e669][^key-f68a5513f56e9d52ad7f9c4b0fb80a0b][^key-760ea4368a6389a4008e05ffc3218496]
+## 55. Duties to notify and consult the IFR[^c-928fd72cda43ac54b6df61d05113e669][^c-f68a5513f56e9d52ad7f9c4b0fb80a0b][^c-760ea4368a6389a4008e05ffc3218496]
 
 *Extent: E+W*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-928fd72cda43ac54b6df61d05113e669]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-928fd72cda43ac54b6df61d05113e669]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-f68a5513f56e9d52ad7f9c4b0fb80a0b]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/21/section/55) in force at 5.5.2026 for specified purposes by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/v)
+[^c-f68a5513f56e9d52ad7f9c4b0fb80a0b]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/21/section/55) in force at 5.5.2026 for specified purposes by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/b/v)
 
-[^key-760ea4368a6389a4008e05ffc3218496]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/21/section/55) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/b/ii)
+[^c-760ea4368a6389a4008e05ffc3218496]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/21/section/55) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/b/ii)

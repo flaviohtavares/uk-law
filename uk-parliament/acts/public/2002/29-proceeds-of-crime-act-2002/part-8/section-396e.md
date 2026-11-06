@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396E. Offence[^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]
+## 396E. Offence[^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)

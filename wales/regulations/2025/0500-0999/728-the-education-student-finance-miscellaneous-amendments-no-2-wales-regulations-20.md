@@ -47,36 +47,36 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Title, coming into force and application
 
-### 1. Title and coming into force[^key-ca3dd29c9d616efa1766adb1c1e4d759]
+### 1. Title and coming into force[^c-ca3dd29c9d616efa1766adb1c1e4d759]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (No. 2) (Wales) Regulations 2025.
 
 (2) These Regulations come into force on 17 July 2025.
 
-### 2. Application[^key-539f25c70a015faba22124a18515178f]
+### 2. Application[^c-539f25c70a015faba22124a18515178f]
 
 These Regulations apply in relation to the provision of support, and to fees and awards applicable, in relation to an academic year which begins on or after 1 August 2025, whether or not anything done under these Regulations is done before, on or after that date.
 
 ## PART 2 — Amendments to the Education (Fees and Awards) (Wales) Regulations 2007
 
-### 3. Protected Ukrainian nationals – leave status[^key-c10fb7c023bb23335fa24cf97bed1748]
+### 3. Protected Ukrainian nationals – leave status[^c-c10fb7c023bb23335fa24cf97bed1748]
 
 In the Education (Fees and Awards) (Wales) Regulations 2007[^f00005], in the Schedule, in paragraph 1, in the definition of “protected Ukrainian national”—
 
 - (a) for “granted” substitute “who has extant”;
 - (b) after “United Kingdom” insert “granted”.
 
-## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-3fb4fa04fd4b482f68fb690427060f74]
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-3fb4fa04fd4b482f68fb690427060f74]
 
 **No longer in force.**
 
-### 4. Protected Ukrainian nationals – leave status[^key-3fb4fa04fd4b482f68fb690427060f74]
+### 4. Protected Ukrainian nationals – leave status[^c-3fb4fa04fd4b482f68fb690427060f74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
 
-### 5. Protected Ukrainian nationals – leave status[^key-4ca4a4b48c02f0cdeb090275fda36b2d]
+### 5. Protected Ukrainian nationals – leave status[^c-4ca4a4b48c02f0cdeb090275fda36b2d]
 
 In the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007], in the Schedule, in paragraph 1(1), in the definition of “protected Ukrainian national”—
 
@@ -85,7 +85,7 @@ In the Higher Education (Qualifying Courses, Qualifying Persons and Supplementar
 
 ## PART 5 — Amendments to the Education (Student Support) (Wales) Regulations 2017
 
-### 6. Protected Ukrainian nationals – leave status[^key-932cfcc65f71027ad64a53821f6ecb41]
+### 6. Protected Ukrainian nationals – leave status[^c-932cfcc65f71027ad64a53821f6ecb41]
 
 In the Education (Student Support) (Wales) Regulations 2017[^f00008], in regulation 2 (interpretation), in paragraph (1), in the definition of “protected Ukrainian national”—
 
@@ -94,18 +94,18 @@ In the Education (Student Support) (Wales) Regulations 2017[^f00008], in regulat
 
 ## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
 
-### 7. Introduction[^key-7182b7623a0247e09f75abb07fadc051]
+### 7. Introduction[^c-7182b7623a0247e09f75abb07fadc051]
 
 The Education (Student Support) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
 
-### 8. Protected Ukrainian nationals – leave status[^key-558a2567de3e0f2ac001709b25627f58]
+### 8. Protected Ukrainian nationals – leave status[^c-558a2567de3e0f2ac001709b25627f58]
 
 In Schedule 2 (categories of eligible student), in paragraph 2ZC (category 2ZC – protected Ukrainian nationals), in sub-paragraph (2)—
 
 - (a) for “granted” substitute “who has extant”;
 - (b) after “United Kingdom” insert “granted”.
 
-### 9. Protected partners – leave status[^key-9730540a901005ed292534edc85c339e]
+### 9. Protected partners – leave status[^c-9730540a901005ed292534edc85c339e]
 
 In Schedule 2 (categories of eligible student), in paragraph 2ZB (category 2ZB - persons granted leave to enter or remain as a protected partner and their children), in sub-paragraph (3)(b), in the words before Case 1—
 
@@ -114,25 +114,25 @@ In Schedule 2 (categories of eligible student), in paragraph 2ZB (category 2ZB -
 
 ## PART 7 — Amendments to the Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018
 
-### 10. Introduction[^key-02dde1abc79279c1366292c650119b77]
+### 10. Introduction[^c-02dde1abc79279c1366292c650119b77]
 
 The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00010] are amended in accordance with this Part.
 
-### 11. Protected Ukrainian nationals – leave status[^key-d00f5e0e66081cfe947f0ccfabe30186]
+### 11. Protected Ukrainian nationals – leave status[^c-d00f5e0e66081cfe947f0ccfabe30186]
 
 In regulation 2 (interpretation), in paragraph (1), in the definition of “protected Ukrainian national”—
 
 - (a) for “granted” substitute “who has extant”;
 - (b) after “United Kingdom” insert “granted”.
 
-### 12. Protected partners – leave status[^key-38fc81660d2a378f7c80fa2003969a7b]
+### 12. Protected partners – leave status[^c-38fc81660d2a378f7c80fa2003969a7b]
 
 In regulation 2 (interpretation), in paragraph (1), in the definition of “person granted leave to enter or remain as a protected partner”, in the words before paragraph (1)—
 
 - (a) for “granted”, in the second place it occurs, substitute “who has extant”;
 - (b) after “bereaved partner” insert “, granted”.
 
-### 13. Termination of eligibility – protected Ukrainian nationals[^key-48f042a0a03b43e4f5883e8e03d85f73]
+### 13. Termination of eligibility – protected Ukrainian nationals[^c-48f042a0a03b43e4f5883e8e03d85f73]
 
 In regulation 3 (eligible students), in paragraph (10H)(b)—
 
@@ -141,25 +141,25 @@ In regulation 3 (eligible students), in paragraph (10H)(b)—
 
 ## PART 8 — Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019
 
-### 14. Introduction[^key-60fa9669c802780e5e96ad276fa38692]
+### 14. Introduction[^c-60fa9669c802780e5e96ad276fa38692]
 
 The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00011] are amended in accordance with this Part.
 
-### 15. Protected Ukrainian nationals – leave status[^key-c567c419e9d41cf3f999d7fc16179c31]
+### 15. Protected Ukrainian nationals – leave status[^c-c567c419e9d41cf3f999d7fc16179c31]
 
 In Schedule 2 (categories of eligible students), in paragraph 2C (category 2C – protected Ukrainian nationals), in sub-paragraph (2)—
 
 - (a) for “granted” substitute “who has extant”;
 - (b) after “United Kingdom” insert “granted”.
 
-### 16. Protected partners – leave status[^key-71c87849a57bae0318ea2c4f28023dba]
+### 16. Protected partners – leave status[^c-71c87849a57bae0318ea2c4f28023dba]
 
 In Schedule 2 (categories of eligible students), in paragraph 2B (category 2B - persons granted leave to enter or remain as a protected partner and their children), in sub-paragraph (3)(b), in the words before Case 1—
 
 - (a) for “granted”, in the second place it occurs, substitute “who has extant”;
 - (b) after “bereaved partner” insert “, granted”.
 
-### 17. Termination of eligibility – protected Ukrainian nationals[^key-cddf7de58cd8c524ebc0d6a3bae573ec]
+### 17. Termination of eligibility – protected Ukrainian nationals[^c-cddf7de58cd8c524ebc0d6a3bae573ec]
 
 In regulation 12H (persons who cease to be protected Ukrainian nationals), in paragraph (b)—
 
@@ -208,48 +208,48 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). *See* section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-ca3dd29c9d616efa1766adb1c1e4d759]: Commencement: Reg. 1 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-ca3dd29c9d616efa1766adb1c1e4d759]: Commencement: Reg. 1 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-539f25c70a015faba22124a18515178f]: Commencement: Reg. 2 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-539f25c70a015faba22124a18515178f]: Commencement: Reg. 2 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-c10fb7c023bb23335fa24cf97bed1748]: Commencement: Reg. 3 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-c10fb7c023bb23335fa24cf97bed1748]: Commencement: Reg. 3 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310); relevant amending instruments are [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-3fb4fa04fd4b482f68fb690427060f74]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2025/728/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(o)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/o)
+[^c-3fb4fa04fd4b482f68fb690427060f74]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2025/728/part/3) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(o)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/o)
 
-[^key-4ca4a4b48c02f0cdeb090275fda36b2d]: Commencement: Reg. 5 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-4ca4a4b48c02f0cdeb090275fda36b2d]: Commencement: Reg. 5 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484); relevant amending instruments are [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-932cfcc65f71027ad64a53821f6ecb41]: Commencement: Reg. 6 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-932cfcc65f71027ad64a53821f6ecb41]: Commencement: Reg. 6 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47); relevant amending instruments are [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-7182b7623a0247e09f75abb07fadc051]: Commencement: Reg. 7 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-7182b7623a0247e09f75abb07fadc051]: Commencement: Reg. 7 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191); relevant amending instruments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2024/810 (W. 131)](https://www.legislation.gov.uk/wsi/2024/810) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-558a2567de3e0f2ac001709b25627f58]: Commencement: Reg. 8 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-558a2567de3e0f2ac001709b25627f58]: Commencement: Reg. 8 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-9730540a901005ed292534edc85c339e]: Commencement: Reg. 9 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-9730540a901005ed292534edc85c339e]: Commencement: Reg. 9 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-02dde1abc79279c1366292c650119b77]: Commencement: Reg. 10 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-02dde1abc79279c1366292c650119b77]: Commencement: Reg. 10 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656); relevant amending instruments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349), [S.I. 2024/810 (W. 131)](https://www.legislation.gov.uk/wsi/2024/810) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-d00f5e0e66081cfe947f0ccfabe30186]: Commencement: Reg. 11 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-d00f5e0e66081cfe947f0ccfabe30186]: Commencement: Reg. 11 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-38fc81660d2a378f7c80fa2003969a7b]: Commencement: Reg. 12 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-38fc81660d2a378f7c80fa2003969a7b]: Commencement: Reg. 12 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-48f042a0a03b43e4f5883e8e03d85f73]: Commencement: Reg. 13 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-48f042a0a03b43e4f5883e8e03d85f73]: Commencement: Reg. 13 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-60fa9669c802780e5e96ad276fa38692]: Commencement: Reg. 14 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-60fa9669c802780e5e96ad276fa38692]: Commencement: Reg. 14 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895); relevant amending instruments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764), [S.I. 2023/1349 (W. 243)](https://www.legislation.gov.uk/wsi/2023/1349), [S.I. 2024/810 (W. 131)](https://www.legislation.gov.uk/wsi/2024/810) and [S.I. 2025/16 (W. 6)](https://www.legislation.gov.uk/wsi/2025/16).
 
-[^key-c567c419e9d41cf3f999d7fc16179c31]: Commencement: Reg. 15 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-c567c419e9d41cf3f999d7fc16179c31]: Commencement: Reg. 15 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-71c87849a57bae0318ea2c4f28023dba]: Commencement: Reg. 16 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-71c87849a57bae0318ea2c4f28023dba]: Commencement: Reg. 16 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
 
-[^key-cddf7de58cd8c524ebc0d6a3bae573ec]: Commencement: Reg. 17 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)
+[^c-cddf7de58cd8c524ebc0d6a3bae573ec]: Commencement: Reg. 17 in force at 17.7.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/728/regulation/1/2)

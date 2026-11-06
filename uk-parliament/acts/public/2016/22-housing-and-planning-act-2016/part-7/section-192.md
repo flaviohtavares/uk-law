@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Making a claim for compensation[^key-a41abfc41d556249775741a0865a063a]
+## 192. Making a claim for compensation[^c-a41abfc41d556249775741a0865a063a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a41abfc41d556249775741a0865a063a]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2016/22/section/192) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/c)
+[^c-a41abfc41d556249775741a0865a063a]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2016/22/section/192) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/c)

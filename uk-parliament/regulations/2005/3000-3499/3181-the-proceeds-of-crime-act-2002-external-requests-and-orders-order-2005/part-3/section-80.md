@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Protection of administrator appointed under article 63 or 73[^key-39d4afc9606402b7bc25929c09dbc904]
+## 80. Protection of administrator appointed under article 63 or 73[^c-39d4afc9606402b7bc25929c09dbc904]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ he is not liable to any person in respect of any loss or damage resulting from t
 
 ## Annotations
 
-[^key-39d4afc9606402b7bc25929c09dbc904]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2005/3181/article/80) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-39d4afc9606402b7bc25929c09dbc904]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2005/3181/article/80) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169VL. Cap on relief for disposal by trustees of a settlement[^key-da6373f53cd2a48dadc69f2b31893233]
+## 169VL. Cap on relief for disposal by trustees of a settlement[^c-da6373f53cd2a48dadc69f2b31893233]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,11 +32,11 @@ summary: ''
 - (b) the total amount of any gains that, in relation to earlier disposals made by the individual concerned, were charged at the rate in section 169VC(2), and
 - (c) the total amount of any reckonable trust gains that, on any previous trust disposals in respect of which the individual concerned was an eligible beneficiary, were charged at the rate in section 169VC(2),
 
-exceeds £1 million[^key-46e872b071061b46c07001503fd2840e].
+exceeds £1 million[^c-46e872b071061b46c07001503fd2840e].
 
-(3) The rate in section 169VC(2) applies to the current gain only to the extent (if any) that the current gain when added to the aggregate of the total amounts mentioned in subsection (2)(b) and (c) does not exceed £1 million[^key-333574484dc0588a25c74820577306e2].
+(3) The rate in section 169VC(2) applies to the current gain only to the extent (if any) that the current gain when added to the aggregate of the total amounts mentioned in subsection (2)(b) and (c) does not exceed £1 million[^c-333574484dc0588a25c74820577306e2].
 
-(4) Section 1H[^key-696a21a9365ebfd99adda3db6382c159] (rates of capital gains tax) applies to so much of the current gain as is not subject to the rate in section 169VC(2).
+(4) Section 1H[^c-696a21a9365ebfd99adda3db6382c159] (rates of capital gains tax) applies to so much of the current gain as is not subject to the rate in section 169VC(2).
 
 (5) In this section—
 
@@ -50,10 +50,10 @@ exceeds £1 million[^key-46e872b071061b46c07001503fd2840e].
 
 ## Annotations
 
-[^key-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)
+[^c-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)
 
-[^key-46e872b071061b46c07001503fd2840e]: Textual amendment: Sum in s. 169VL(2) substituted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/2) (with [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-46e872b071061b46c07001503fd2840e]: Textual amendment: Sum in s. 169VL(2) substituted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/2) (with [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-333574484dc0588a25c74820577306e2]: Textual amendment: Sum in s. 169VL(3) substituted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/2) (with [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-333574484dc0588a25c74820577306e2]: Textual amendment: Sum in s. 169VL(3) substituted (with effect in accordance with s. 10(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/10/2) (with [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-696a21a9365ebfd99adda3db6382c159]: Textual amendment: Words in s. 169VL(4) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/60)
+[^c-696a21a9365ebfd99adda3db6382c159]: Textual amendment: Words in s. 169VL(4) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/60)
